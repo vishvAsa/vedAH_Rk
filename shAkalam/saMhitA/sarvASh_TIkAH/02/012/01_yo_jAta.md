@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ जात꣡ एव꣡ प्रथमो꣡ म꣡नस्वान्  
 देवो꣡ देवा꣡न् क्र꣡तुना पर्य꣡भूषत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नृम्ण꣡स्य मह्ना꣡ स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । शुष्मा॑त् । रोद॑सी॒ इति॑ । अभ्य॑सेताम् । नृ॒म्णस्य॑ । म॒ह्ना । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 गृत्समदोब्रूते—जनासोजनाः हेअसुराः यः जातएवजायमानएव सन् प्रथमः देवानाम्प्रधानभूतः मनस्वान् मनस्विनामग्रगण्यः देवोद्योतमानःसन् क्रतुनावृत्रवधादिलक्षणेनस्वकीयेनकर्मणादेवान्- सर्वान् यागदेवान् पर्यभूषत् रक्षकत्वेनपर्यग्रहीत् भूषअलङ्कारे भौवादिः लङिरूपं यद्वा सर्वान न्यान्- देवान् पर्यभूषत् पर्यभवत् अत्यक्रामत् अस्मिन्पक्षेभवतेर्व्यत्ययेनक्सः श्र्युकः कितीतीट्प्रतिषेधःयस्ये- न्द्रस्याशुष्मात् शारीरात् बलात् रोदसीद्यावापृथिव्यौअभ्यसेतां अबिभीतां भ्यसभये अनुदात्तेत् भ्य- सभयवेपनयोरितिनैरुक्ताः । अभ्यसेतांअवेपेतांवा तथाचमन्त्रान्तरम्—इमेचितवमन्यवेवेपेतेभिय- सामहीइति । नृम्णस्यसेनालक्षणस्यबलस्यमह्नामहत्त्वेनयुक्तः । सइन्द्रोनाहमिति अत्रनिरुक्तम्— योजातएवप्रथमोमनस्वीदेवोदेवान् क्रतुनाकर्मणापर्यभवत्पर्यगृह्णात्पर्यारक्षदत्यतिक्रामदितिवायस्य- बलाद्द्यावापृथिव्यावप्यबिभीतान्नृम्णस्यमह्नाबलस्यमहत्त्वेनसजनासइन्द्रइत्यृषेर्दृष्टार्थस्यप्रीतिर्भ- वत्याख्यानसंयुक्तेति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Who has done honour to the gods by his exploits: who has preserved or protected them, or has surpassed them: prayarakṣad atyakrāmad iti vā (**Nirukta** 10.10); **Atharvaveda** 20.34; he, men, is Indra: sa janāsa Indra = **janā**, he **asurāḥ**; the legend: **Gṛtsamada**,by his devotions, acquired a form as vast as that of Indra, visible at once in heaven, in the firmament, and on earth; the two **asuras**, **Dhuni** and Cumuri \[Bṛhaddevatā 4.66-67), mistaking him, therefore, for Indra, were proceeding to attack him, when he arrested their advance by repearing this hymn, intimating that he was not Indra; another legend: when Indra and the gods were present at a sacrifice celebrated by **Vainya**, Gṛtsamada was one of the officiating priests; the asuras came to the spot to kill Indra, who, assuming the likeness of Gṛtsamada, went away without question; when the assembly broke up, and Gṛtsamada went out, the asuras, who had been lying in wait, considered him to be Indra, and were about to fall upon him, when he diverted from their purpose by reciting this hymn, showing that Indra was a different person n; another legend: Indra came alone to the sacrifice of Gṛtsamada, and being, as before away laid by the asuras, asumed the person n of the ṛṣi and coming forth, returned to **svarga**; after waiting sometime, the asuras entered the chamber of sacrifice, and laid hold of Gṛtasamads, conceving that Indra had assumed his person n until they were person aded of their mistake by the repetition of the entire **sūkta** (**Mahābhārata**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, even when just born, was the foremost thinker, the god who by his  own will tended to the gods,  
 before whose explosiveness the world-halves trembled in fear because of  the greatness of his manliness – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE who, just born, chief God of lofty spirit by power and might became the Gods' protector,  
      Before whose breath through greatness of his valour the two worlds trembled, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He who just born as chief god full of spirit Went far beyond the other gods in wisdom: Before whose majesty and mighty manhood The two worlds trembled: he, O men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott, der eben geboren besonnen als Erster mit Umsicht die Götter beschirmte, vor dessen Wut beide Welten Furcht hatten ob der Größe seiner Manneskraft - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft begabte, Vor dessen Stärke beide Welten bebten und grosser Kraft, das ist, o Menschen Indra,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто едва родившись, первый наделенный мыслью  
 Бог, силой духа охватил богов,  

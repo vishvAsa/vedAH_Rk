@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ यज्ञे꣡षु ईळते  
 अ꣡ग्ने प्रयति꣡ अध्वरे꣡  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 त्वम् । वसू॑नि । काम्या॑ । वि । वः॒ । मदे॑ । विश्वा॑ । द॒धा॒सि॒ । दा॒शुषे॑ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -114,14 +114,14 @@ genre M;; repeated line
 हे **अग्ने** **त्वां** **प्रयति** प्रकर्षेण गच्छति प्रवर्तमाने **अध्वरे** यागे **यज्ञेषु** यजनीयेषु हविःष्वासन्नेषु सत्सु **ईळते** ऋत्विग्यजमानाः स्तुवन्ति । अपि च हे अग्ने **त्वं** **विश्वा** विश्वानि **काम्या** काम्यानि कमनीयानि **वसूनि** धनानि **दाशुषे** हविर्दत्तवते यजमानाय **विमदे** सोमादिहविर्जन्यतृप्तौ सत्यां **दधासि** प्रयच्छसि । अतः कारणात् **विवक्षसे** त्वं महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The men establish you, **Agni**, at sacrifices, the ministrant priest, graceful, whose face shines withbutter, radiant, most intelligent with your eyes, for your exhilaration; (hence) you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They invoke you at the sacrifices, o Agni, while the ceremony is  
 proceeding.  
@@ -129,23 +129,23 @@ You provide all desirable goods to the pious man.
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At sacrifices they adore thee, Agni, when the rite proceeds.  
      All fair and lovely treasures-at your glad carouse-thou givest him who offers. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich berufen sie bei den Opfern, Agni, wann die heilige Handlung vor sich geht. Du verschaffst die lieben Schätze alle dem Opferspender - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich preisen bei den Opfern sie, o Agni, in des Fests Verlauf; Du theilest alle Güter zu dem Frommen, die des Strebens werth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя призывают они на жертвоприношениях,  
 О Агни, когда происходит обряд.  

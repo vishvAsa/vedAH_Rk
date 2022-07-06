@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने दिवः꣡ सूनु꣡र् असि प्र꣡चेतास्  
 त꣡ना पृथिव्या꣡ उत꣡ विश्व꣡वेदाः  
 ऋ꣡धग् देवाँ꣡ इह꣡ यजा चिकित्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 ऋध॑क् । दे॒वान् । इ॒ह । य॒ज॒ । चि॒कि॒त्वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -108,42 +108,42 @@ genre M
 विश्वामित्रः स्तौति । हे **अग्ने** **विश्ववेदाः** सर्वविषयज्ञानवान् **प्रचेताः** कर्मविषयज्ञानवांस्त्वं **दिवः** द्युलोकाभिमानिदेवतायाः **सूनुरसि** पुत्रो भवसि। **उत** अपि च **पृथिव्याः** पृथिव्यभिमानिदेवतायाः **तना** तनयोऽसि । किंच **चिकित्वः** चेतनावन् हे अग्ने **इह** अस्माभिः क्रियमाणेऽस्मिन् कर्मणि **देवान्** यजनीयानिन्द्रादिदेवान् **ऋधक्** पृथक् क्रमेण **यज** हविष्प्रदानेन पूजय ॥ असि ।  ‘ अस भुवि ' इत्यस्य लटि  तासस्त्योर्लोपः' इति सलोपः । निघातः । विश्ववेदाः ।  ‘ बहुव्रीहौ विश्वं संज्ञायाम् ' इति विश्वस्यान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who is omniscient, and the discriminator (of acts), you are the son of heaven or the son of earth; do you who is intelligent worship severally the gods on this occasion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, you are the watchful son of heaven and of earth by the  
 continuity (of fires), providing all possessions.  
 Sacrifice to the gods here one by one, o attentive one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU art the sapient Son of Dyaus, O Agni, yes and the Child of Earth, who knowest all things.  
      Bring the Gods specially, thou Sage, for worship.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, thou art for ever the wise son of Heaven and of the Earth, the all-wealthy one. In thy peculiar way 1 sacrifice here to the gods, O intelligent one!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, du bist des Himmels kluger Sohn und der Sproß der Erde, der Allwissende. Opfere hier den Göttern recht, du Kundiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, bist der weise Sohn des Himmels und Spross der Erde, der du alles kennest, Verehr', o Weiser, einzeln hier die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты сын неба прозорливый,  
 А также всеведущий отпрыск земли.  

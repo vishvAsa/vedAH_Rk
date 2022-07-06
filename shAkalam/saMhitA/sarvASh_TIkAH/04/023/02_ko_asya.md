@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ अस्य वीरः꣡ सधमा꣡दम् आप  
 स꣡म् आनंश सुमति꣡भिः को꣡ अस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृधे꣡ भुवच् छशमान꣡स्य य꣡ज्योः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कत् । अ॒स्य॒ । चि॒त्रम् । चि॒कि॒ते॒ । कत् । ऊ॒ती । वृ॒धे । भु॒व॒त् । श॒श॒मा॒नस्य॑ । यज्योः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -123,21 +123,21 @@ genre M
 **अस्य** इन्द्रस्य संबन्धिनं **सधमादम्** । सह माद्यन्तीति सधमादः संग्रामः । तं सह सोमपानं वा **वीरः** स्तोत्राणाममित्राणां वा वीरयिता **कः** पुमान् **आप** प्राप्नोति । **कः** च **अस्य** इन्द्रस्य **सुमतिभिः** शोभनाभिरनुग्रहबुद्धिभिः **समानंश** संगच्छते । **कत्** कदा वा **अस्य** इन्द्रस्य **चित्रं** चायनीयं धनं **चिकिते** प्रज्ञायते । तत्प्रदानसमयं न कोऽपि जनातीत्यर्थः । **कत्** कदा वा **शशमानस्य** स्तुवतः **यज्योः** यष्टुर्यजमानस्य **वृधे** वर्धनाय **ऊती** ऊत्या रक्षया **भुवत्** भवेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What hero has enjoyed his fellowship (in battle)? who has been a sharer in his benevolent thoughts? when does any one appreciate his wonderful bounty? when is he (presen) for the promotion of the prosperity of the man who glorifies and worships him?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What hero has reached shared exhilaration with him? Who has attained  it with his good favor?  
 Has his bright (course) appeared? Will he be here with help for the  
 strengthening of the one who has labored, eager to sacrifice?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b Geldner (/Witzel Gotō) and Thieme (Gedichte 31) take the instr. sumatíbhiḥ as the object of sám ānaṃśa (e.g., Geldner “Wer wurde seiner Gnaden teilhaft?”), but this seems an unlikely use of the instr., even with the presence of the preverb sám -- esp.
 
@@ -146,23 +146,23 @@ because the verb in b is essentially identical to the verb in a, āpa, which tak
 The second hemistich contains two occurrences of kád; the second is taken by all as simply a question marker, but Geldner interprets the first one as a full neut. with citrám, “welches Wunder?” This is possible, but it seems rhetorically better to take it as parallel in function to the other kád (so Thieme and Witzel Gotō as well as me). I supply ‘course’ on the basis of II.34.10 citráṃ tád vo maruto yā́ma cekite “This bright course of yours, Maruts, appears ever more brightly,” also adduced by Geldner The notion of a journey is reinforced by the 2nd part of the hemistich. However, a tr. like Witzel Gotō “Ist sein Glanzzeichen bemerkt?” is certainly possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What hero hath been made his feast-companion? Who hath been partner in his loving-kindness?  
      What know we of his wondrous acts? How often comes he to aid and speed the pious toiler?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Mann hat ihn zum Zechgenossen bekommen? Wer wurde seiner Gnaden teilhaft? Welches Wunder von ihm hat sich gezeigt? Wird er zum Beistand, zur Förderung des dienstbereiten Opferers geneigt sein?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Held erlangte seine Tischgemeinschaft? und wer nahm Theil an seiner Huld und Güte? Wann zeigt sein Glanz sich? wann erscheint mit Hülfe zum Heile er dem eifervollen Opfrer?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой муж добился его в сотрапезники?  
 Кто воспользовался его милостями?  

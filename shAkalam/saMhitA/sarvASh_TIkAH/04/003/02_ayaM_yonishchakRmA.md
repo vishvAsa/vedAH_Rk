@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ यो꣡निश् चकृमा꣡ यं꣡ वयं꣡ ते  
 जाये꣡व प꣡त्य उशती꣡ सुवा꣡साः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमा꣡ उ ते सुअपाक प्रतीचीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒र्वा॒ची॒नः । परि॑ऽवीतः । नि । सी॒द॒ । इ॒माः । ऊं॒ इति॑ । ते॒ । सु॒ऽअ॒पा॒क॒ । प्र॒ती॒चीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -131,20 +131,20 @@ genre M
 हे अग्ने ते त्वदर्थं **यम्** उत्तरवेदिलक्षणं प्रदेश **वयं** 'चकृम कुर्मः। **अयं** योनिः तव स्थान भवति । तत्र दृष्टान्तः । **जायेव** । यथा **पत्य** **उशती** पतिं कामयमाना सुवासाः शोभनवस्रोपेता जाया स्वात्मसमीपे तस्य स्थानं करोति तद्वत् । हे **स्वपाक** स्वपस्क सुकर्मन्नने त्वं परिवीतः यष्टव्यदेवैस्तेजोभिर्वा परिवीतः अर्वाचीनः अस्मदभिमुखः सन् **नि** **षीद** उत्तरवेद्यामुपविश । तत्र स्थितस्य **ते** तव **इमाः** ज्वालाः स्तुतयः वा **प्रतीचीः** वदभिमुखाः प्रवर्तन्ते । उ पूरण:४॥ चकृम । करोतेलिटि रूपम् । वाक्यभेदान्निघाताभावः । अर्वाचीनः ।' विभाषाब्वेदिकु०' इति खः । परिवीतः ।  ‘ व्येषु संवरणे ' । कर्मणि निष्ठा । यजादित्वात् संप्रसारणम् । “ गतिरनन्तरः' इति गतेः स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This is the altar which we have decorated for you, as a wife attached to her husband puts on elegant garments (to gratify him); maturer of good works, sit down in our presence invested (with radiance), while your flames incline towards you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the womb that we made for you. (It is/You are) like an eager wife,  richly dressed, for her husband.  
 Enveloped, sit down facing our way: here are (hymns) facing you, o very  knowing one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All the standard tr. take the rel. cl. of pāda a (cakṛmā́yáṃ vayám te “[the womb] which we have made for you”) as the frame for the simile in b, with “we” matching the eager wife (jā́yā … uśatī́) and “you” (Agni) matching the husband. Oldenberg (SBE) goes so far as to supply “marriage-bed” as the match for the womb: “… as a well-dressed loving wife (prepares the marriage-bed) for her husband.” This is one possible reading, but I don’t think it is the only (or even the dominant) one; in fact, I think the simile can be matched to four different entities in the verse.
 
@@ -161,28 +161,28 @@ Modern tr. (almost) universally take the voc. svapāka- as ‘having a lovely ba
 In neither case does a “having a lovely backside” impose (or even suggest) itself, and I propose to include them under this stem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This shrine have we made ready for thy coming, as the fond dame attires her for her husband.  
      Performer of good work, sit down before us, invested while these flames incline to meet thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 This is the home which we have prepared for thee as a well-dressed, loving wife (prepares the marriage-bed) for her husband 1. Directed hitherward, dressed (in offerings and prayers?) 2 sit down. These (sacrificial ladles or prayers?) are turned towards thee, O most skilful one 3!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist der Schoß, den wir dir bereitet haben wie das schöngekleidete Weib voll Verlangen dem Gatten. Nimm uns zugetan Platz, rings umlegt. Diese Frauen kommen dir entgegen, der du eine schöne Rückseite bietest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist der Schooss, den wir dir zubereitet, wie dem Gemahl die will'ge schöne Gattin, Setz nieder dich, recht nahe rings umhüllter; auch diese Tränke nah'n sich dir, willkommner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот лоно, которое мы приготовили для тебя,  
 Словно нарядная, жаждущая жена для мужа.  

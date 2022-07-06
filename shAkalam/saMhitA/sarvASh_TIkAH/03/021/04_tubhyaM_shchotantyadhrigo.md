@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं श्चोतन्ति अध्रिगो शचीव  
 स्तोका꣡सो अग्ने मे꣡दसो घृत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 हव्या꣡ जुषस्व मेधिर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 क॒वि॒ऽश॒स्तः । बृ॒ह॒ता । भा॒नुना॑ । आ । अ॒गाः॒ । ह॒व्या । जु॒ष॒स्व॒ । मे॒धि॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -111,14 +111,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अध्रिगो** अधृतगमन सततगमनस्वभाव । अत एव **शचीवः** शक्तिमन् हे **अग्ने** **तुभ्यं** त्वदर्थं **मेदसः** मेदोरूपस्य हविषः **घृतस्य** **स्तोकासः** बिन्दवः **श्चोतन्ति** स्रवन्ति । तस्मात् **कविशस्तः** कविभिः कर्माभिज्ञैर्होत्रादिभिः स्तुतस्त्वं **हता** प्रभूतेन **भानुना** तेजसा सहितः सन् **आगाः** अस्मदीयं पशुयागमभ्यागच्छ । आगत्य च **मेधिर** प्रज्ञावन्नग्ने **हव्या** अस्माभिर्दीयमानानि वपादीनि हवींषि **जुषस्व** सेवस्व ॥ अध्रिगो । गमनं गौरिति गम्लृ सृप्लृ गतौ ' इत्यस्य भावे  ‘ गमेर्डोः' इति डोः । अधृता गौर्येन इत्यत्र  ‘ गोस्त्रियोरुपसर्जनस्य ' इति गोशब्दस्य ह्रस्वत्वम् । धृतशब्दस्य" पृषोदरादित्वात् ध्रिभावः। संबोधने ‘संबुद्धौ च ' (पा. सू. ७. ३. १०६ ) इति गुणः। अपादादित्वान्निघातः । शचीवः । मतुपः मतुवसो र ० ' इति रत्वम् । कविशस्तः ।  ‘ शंसु स्तुतौ इत्यस्य निष्ठायामनुनासिकलोपः ।  ‘ यस्य विभाषा 'इतीट्प्रतिषेधः । ‘थाथघञ्क्ताजबित्रकाणाम् ' इत्यन्तोदात्तत्वम् । भानुना ।' भा दीप्तौ । “ दाभाभ्यां नुः' इति कर्तरि नुः । प्रत्ययस्वरः। अगाः।  ‘ इण् गतौ ' इत्यस्य छान्दसे लुङि  इणो गा' इति गादेशः ।  ‘ गातिस्था' इति सिचो लोपः । निघातः । मेधिर ।  ‘ मेधारथाभ्यामिरनिरचौ वक्तव्यौ ' इतीरन् । आमन्त्रितत्वान्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Irrepressible and powerful, **Agni**, the drops of marrow and of butter distil for you; therefore you, who are praised by sages, come with great splendour, and be plural ased ever intelligent Agni, with our oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you drip the drops of fat and of ghee, o independent and  
 capable Agni.  
@@ -126,28 +126,28 @@ Proclaimed by poets, you have come with your lofty radiance. Take
 pleasure in the oblations, wise one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, O Agni, mighty and resistless, to thee stream forth the drops of oil and fatness.  
      With great light art thou come, O praised by poets! Accept our offering, O thou Sage.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For thee, O liberal one 1, full of power, the drops of fat and ghee drip down, O Agni! Praised by the sages thou hast come hither with mighty light. Accept graciously the offerings, O wise one!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich träufeln, du reicher, machtvoller Agni, die Tropfen des Fettes, des Schmalzes. Von den Dichtern gepriesen bist du mit hohem Glanze gekommen. Laß dir die Opfergaben schmecken, du Weiser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, dir, der mächtig und unhemmbar, dir rinnen zu der fetten Butter Tropfen; der Dichter Preis, mit hellem Glanze kamst du; geniess die Opfer, weiser du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это для тебя стекают капли,  
 О безудержный (?), мощный Агни, жира, расплавленного масла.  

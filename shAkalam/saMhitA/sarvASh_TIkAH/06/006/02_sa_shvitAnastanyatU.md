@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ श्वितान꣡स् तन्यतू꣡ रोचनस्था꣡  
 अज꣡रेभिर् ना꣡नदद्भिर् य꣡विष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथू꣡नि अग्नि꣡र् अनुया꣡ति भ꣡र्वन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । पा॒व॒कः । पु॒रु॒ऽतमः॑ । पु॒रूणि॑ । पृ॒थूनि॑ । अ॒ग्निः । अ॒नु॒ऽयाति॑ । भर्व॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,21 +124,21 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You who are) white-hued, vociferous, abiding in the firmament, (associated) with the imperishable, resounding (winds), the youngest (of the gods), **Agni**, who, purifying and most vast, proceeds, feeding upon numerous and substantial (forests).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is (like) the brightening thunder abiding in the luminous realm, the  youngest one with his unaging, ever-roaring (flames),  
 the pure one, the latest fire of many, who travels along many broad  
 expanses as he devours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich mixes the visual and the audible in a species of synaesthesia, esp. clear in the description of Agni as “brightening thunder,” but note also his “ever-roaring” flames.
 
@@ -147,13 +147,13 @@ The standard tr. construe purū́ṇi pṛthū́ni with bhárvan; e.g., Geldner 
 Note the phonetic figure in pāvakáḥ purutámaḥ purū́ṇi, pṛthū́ni, esp. the last three words, of which the first two also etymologically related.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 White-hued and thundering he dwells in splendour, Most Youthful, with the loudvoiced and eternal-  
      Agni, most variform, the Purifier, who follows crunching many ample forests.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The shining thunderer who dwells in lustre, With his unaging, roaring flames, most youthful, Refulgent Agni, frequently recurring, Goes after many spacious woods and chews them.
 </details>
@@ -168,17 +168,17 @@ Agni, marcheth devouring many broad (forests).
 
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hellglänzend wie der Donner, im Lichte weilend mit den brüllenden alterlosen Flammen ist dieser jüngste Agni, der Lautere, der unter Vielen der Erste die vielen, breiten Flächen fressend entlang zieht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der glänzend, donnernd steht im hohen Lichtraum, der jüngste mit den ew'gen Prasselflammen, Der helle Agni, welcher kauend nachgeht, der vielbegabte, vielen grossen Hölzern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он – светящийся гром, пребывающий в светлом пространстве,  
 С нестареющими шумящими (языками пламени), самый юный.  

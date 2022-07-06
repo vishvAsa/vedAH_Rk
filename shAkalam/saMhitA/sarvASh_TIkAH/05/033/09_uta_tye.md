@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्ये꣡ मा मारुता꣡श्वस्य शो꣡णाः  
 क्र꣡त्वामघासो विद꣡थस्य रातउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आनूक꣡म् अर्यो꣡ व꣡पुषे न꣡ आर्चत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒हस्रा॑ । मे॒ । च्यव॑तानः । ददा॑नः । आ॒नू॒कम् । अ॒र्यः । वपु॑षे । न । आ॒र्च॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre M
 **उत** अपि च **त्ये** तेऽश्वा वक्ष्यमाणाः **मारुताश्वस्य** । मरुत्सदृशवेगाश्ववान्मरुताश्वः । तदपत्यस्य **विदथस्य** एतन्नामकस्य राज्ञः **शोणाः** शोणवर्णाः **क्रत्वामघासः** क्रतुना कर्मणा शीघ्रगमनादिलक्षणेन माहनीया अश्वाः **रातौ** दाने विनियुक्ता मां वहन्तीति शेषः । किंच **सहस्रा** सहस्राणि अपरिमितानि धनानि अर्यः पूज्यस्य **मे**। चतुर्थ्यर्थे षष्ठी । पूज्याय मह्यं **च्यवतानः** च्यावयन् **ददानः** प्रयच्छन् सः **आनूकम्** आभरणं च **वपुषे** स्वशरीरालंकाराय **आर्चत्** प्रयच्छत् । **न** इति चार्थे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 Bestowing upon and giving to me: cyavatana dadāna causing to alight upon, giving
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And (let) these (convey me)—the ruddy (horses) of Mārutāśva, the  bounty of his intentions at the giving of the distribution,  
 (when) Cyavatāna was giving a thousand of his own to me. Afterward  (the singer) sang as if to marvel (at the gift) of the stranger [=Indra].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a the published translation reads “And (let) these (convey me)”; the “me” should not be in parens.
 
@@ -152,23 +152,23 @@ As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānas
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And these, bestowed as sacrificial guerdon, the powerful tawny steeds of Marutasva;  
      And thousands which kind Cyavatana gave me, abundantly bestowed for my adornment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese Rotfüchse des Marutasvasohnes, die mit Bedacht geschenkten unter der Ehrengabe des Vidatha sollen mich fahren. Cyavatana, der mir Tausende schenkte, der Herr sang den Schluß gleichsam zur Verschönerung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und mich [erfreuten] diese kraftbegabten Braunen des Märutä§va bei des Opferfestes Spende; und der gütige Tschavatäna mir tausende nach der Reihe schenkend stattete mich aus wie zum Schmucke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: (пусть повезут) меня те яркорыжие кони сына Маруташвы,  
 Охотно подаренные при выражении милости Видатхи.  

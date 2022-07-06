@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ वि꣡एनी भवति द्विब꣡र्हा  
 आविष्कृण्वाना꣡ तनु꣡वम् पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजानती꣡व न꣡ दि꣡शो मिनाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ऋ॒तस्य॑ । पन्था॑म् । अनु॑ । ए॒ति॒ । सा॒धु । प्र॒जा॒न॒तीऽइ॑व । न । दिशः॑ । मि॒ना॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -113,20 +113,20 @@ genre M;; repeated line
 **एषा** उषाः **व्येनी** **भवति** विशेषेण श्वेता भवति **द्विबर्हाः** द्वयोः प्रथममध्यमयोः स्थानयोः परिवृढोषाः पश्चात् **तन्वं** स्वीयां तनुम् **आविष्कृण्वाना** प्रकटीकुर्वती । कुत्र । **पुरस्तात्** पूर्वस्यां दिशि । किंच **ऋतस्य** आदित्यस्य **पन्थां** पन्थानं **साधु** सम्यक् **अन्वेति** । किंच **प्रजानतीव** विश्वं प्रज्ञापयन्ती । इवेति संप्रत्यर्थे । **न** **दिशो** **मिनाति** न हिनस्ति । प्रत्युत दिशः प्रकाशयति । अथवा प्रजानतीव अनुगन्तव्यमिति प्रकर्षेण अवगच्छन्ती च ऋतस्य पन्थामन्वेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lucidly white is she, occupying the two (regions, the upper and middle firmament), and manifesting her person n from the east; she traverses the path of the sun as if knowing (his course), and harms not the quarters of the horizon.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, the dappled one, becomes doubly exalted as she reveals her body in  the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -134,23 +134,23 @@ She follows along the path of truth, straight to the goal. Like one who  knows t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With changing tints she gleams in double splendour while from the eastward she displays her body.  
      She travels perfectly the path of Order, nor fails to reach, as one who knows, the quarters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die Buntfarbige, wird doppeltgroß, wenn sie im Osten ihren Leib enthüllt. Sie wandelt richtig den Weg der Ordnung; wie eine Wegekundige verfehlt sie nicht die Richtungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwiefach an Grösse wird sie prächtig schimmernd, wenn sie den Leib enthüllt vor aller Augen; Sie geht entlang den Pfad des Rechtes grade, des Wegs bewusst verfehlt sie nicht die Richtung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она, переливаясь, становится огромной вдвойне,  
 Когда раскрывает свое тело на востоке.  

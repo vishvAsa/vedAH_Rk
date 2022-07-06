@@ -6,7 +6,7 @@ ChandaH = "अतिजगती शक्वरी वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 याः꣡ प्रव꣡तो निव꣡त उद्व꣡त  
 उदन्व꣡तीर् अनुदका꣡श् च याः꣡  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती शक्वरी वा"
 स꣡र्वा नद्यो᳡ अशिमिदा꣡ भवन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ताः । अ॒स्मभ्य॑म् । पय॑सा । पिन्व॑मानाः । शि॒वाः । दे॒वीः । अ॒शि॒प॒दाः । भ॒व॒न्तु॒ । सर्वाः॑ । न॒द्यः॑ । अ॒शि॒मि॒दाः । भ॒व॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -140,7 +140,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **याः** नद्यः **प्रवतः** प्रवणदेशे गच्छन्त्यः । याः **निवतः** निम्नदेशे गच्छन्त्यः । याः **उद्वतः** उन्नतदेशे गच्छन्त्यः । याः **उदन्वतीः** उदन्वत्य उदकयुक्ताः । **अनुदकाश्च** उदकरहिताश्च **याः** नद्यो यान्ति । **पयसा** उदकेन **पिन्वमानाः** विश्वमाप्याययन्त्यः **देवीः** देव्यो द्योतमानाः **ताः** तादृश्यो नद्यः **अस्मभ्यम्** **अशिपदाः** । शिपदं नाम रोगविशेषः । तदकुर्वत्यः सत्यः **शिवाः** कल्याण्यः **भवन्तु** । अपि च **सर्वाः** ताः **नद्यः** **अशिमिदाः** । शिमिर्वधकर्मा। अहिंसाप्रदाः **भवन्तु** ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,30 +151,30 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Communicating not disease: aśipadā bhavantu: name of a malady; may they beunproductive of the śipada complaint; unproductive of harm: aśimidā bhavantu: śimi = **vadha**, killing; ahiṃsaprada, not doing harm or injury
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The rivers) that are from the slope, depth, and height, those that are  filled with water and those empty of water—  
 let (these) kindly (river-)goddesses, swelling with (waters as their) milk,  become for us free of śipadā-demons,  
 let all the rivers become free of śimidā-demons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The steep declivities, the valleys, and the heights, the channels full of water, and the waterless-  
      May those who swell with water, gracious Goddesses, never afflict us with the Sipada disease, may all the rivers keep us free from Simida.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wasserläufe, die Tiefen, die Höhen, die wasserreichen und die wasserlosen, die Göttinnen sollen von Wasser anschwellend uns heilsam und frei von Sipada´s sein, alle Flüsse sollen uns frei von Simida´s sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ströme, die vom Abhange, die aus der Tiefe, aus der Höhe an Wassern reich und wasserarm dahinfliessen, die alle seien uns heilvoll, strotzend von fettem Tranke, die göttlichen seien alle frei von der çipada-Krankheit, frei von der çimidā-Krankheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Водные потоки, которые устремлены вниз (и) устремлены вверх,  
 Полные воды и которые безводные,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् इ꣡न्द्रो रो꣡धो व꣡क्षो अ꣡थर्वणस्  
 त्रिता꣡य गा꣡ अजनयम् अ꣡हेर् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गोत्रा꣡ शि꣡क्षन् दधीचे꣡ मातरि꣡श्वने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । दस्यु॑ऽभ्यः । परि॑ । नृ॒म्णम् । आ । द॒दे॒ । गो॒त्रा । शिक्ष॑न् । द॒धी॒चे । मा॒त॒रिश्व॑ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -128,7 +128,7 @@ genre M
 आद्यपादस्येतिहासमाहुः । आथर्वणं दध्यञ्चं मधुविद्यावन्तमिन्द्र आगत्य मधुविद्यां कस्यचिन्न ब्रूया इति नियमितवान् । यदि ब्रूयास्ते शिरो हरामीत्युक्तवान् । स चाथर्वणोऽश्विभ्यामुवाच । इदं वै तन्मधु दध्यङ्ङाथर्वाणोऽश्विभ्यामुवाच ' (श. ब्रा. १४.२.५.१६)  ‘ अश्वस्य शीर्ष्णा प्र यदीमुवाच ' (ऋ. सं. १. ११६. १२) इति हि श्रुतिः । स चेन्द्र आगत्य दधीचः शिरोऽहरदिति तदत्रोच्यते । **इन्द्रः** **अहम्** **अथर्वणः** अथर्वणः पुत्रस्य दधीचः **वक्षः** । तदुपलक्षितं शिर इत्यर्थः । तस्य **रोधः** रोधको हर्तास्मि । तथा **त्रिताय** एतन्नामकायाप्त्याय कूपपतितायोद्धरणार्थम् **अहेः** मेघस्य **अधि** उपरि **गाः** उदकानि **अजनयम्** उदपादयम् । त्रितस्य कूपपतितस्येन्द्रं प्रत्युद्धरणप्रार्थनं 'सं मा तपन्त्यभितः' ( ऋ. सं. १०.३३.२) इत्यत्र प्रतिपादितम् । तथा **अहं** **दस्युभ्यः** उपक्षपयितृभ्यः शत्रुभ्यः सकाशात् **नृम्णं** धनम् **आ** **ददे** आदत्तवानस्मि । किं कुर्वन् । **गोत्रा** गवामुदकानां रक्षकान मेघान **शिक्षन्** विनयन्। किमर्थम् । **मातरिश्वने** मातरिश्वनः पुत्राय **दधीचे** एतन्नामकायर्षये वर्षकामाय प्रवर्षयितुमिच्छन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ Son of Atharvan: named Dadhyañc: **Śatapatha Brāhmaṇa** 14.5.16; RV 1.116.1
 Trita = TriaĀptya, who had fallen into a well; RV 10.33.2; Dadhyañc, son of **Mātariśvan**: different from anotherDadhyañc the son of Atharvan; mātariśvanaḥ **putraḥ**: **Śatapatha** **Brāhmaṇa** 14.2.5.16
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am Indra, the bulwark and breast(-plate) of the Atharvan. For Trita  I begat the cows from the serpent.  
 I took the manliness from the Dasyus, through my abilities seeking to  win their cowpens for Dadhyañc and Mātariśvan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I, Indra, am Atharvan's stay and firm support: I brought forth kine to Trita from the Dragon's grasp.  
      I stripped the Dasyus of their manly might, and gave the cattle-stalls to Matarigvan and Dadhyac.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich Indra ward des Atharvan Wall und schützende Brust. Für Trita trieb ich vom Drachen die Kühe ab. Ich nahm den Dasyu´s die Manneskraft weg, um ihre Kuhherden dem Dadhyanc, dem Matarisvan zuzuwenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich Indra bin des Feuerpriesters Schutz und Wehr, dem Trita schafft' ich Kühe von dem Drachen her; Ich raubte den Dämonen ihre Manneskraft, dem Matariçvan, Dadhjank füllend ihren Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я, Индра, – (защитный) вал, грудь Атхарвана.  
 Для Триты я породил коров из змея.  

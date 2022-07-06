@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡णीतिभिष् टे हरिअश्व सुष्टोः꣡  
 सुषुम्न꣡स्य पुरुरु꣡चो ज꣡नासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्तोता꣡र इन्द्र त꣡व सूनृ꣡ताभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मंहि॑ष्ठाम् । ऊ॒तिम् । वि॒ऽतिरे॑ । दधा॑नाः । स्तो॒तारः॑ । इ॒न्द्र॒ । तव॑ । सू॒नृता॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praṇītibhiṣ* ← *praṇītibhiḥ* ← *praṇīti*
 - \[noun\], instrumental, plural, feminine
@@ -106,36 +106,36 @@ genre M
 हे **हर्यश्व** हरितवर्णाश्वोपेत **इन्द्र** सुष्टोः सुष्ठु स्तूयमानस्य **सुषुम्नस्य** सुसुखस्य सुधनस्य वा **पुरुरुचः** बहुदीप्तेः **ते** तव **प्रणीतिभिः** प्रणयनैर्धनादिप्रदानैः **जनासः** जनाः **स्तोतारः** **सूनृताभिः** प्रियसत्यात्मिकाभिर्वाग्भिः । एतत्प्रणीतिभिरित्यनेन समुच्चीयते । **वितिरे** अन्येभ्योऽर्थिभ्यो वितरणाय **मंहिष्ठाम्** अतिशयेन मंहनीयां **तव** संबन्धिनीम् **ऊतिं** रक्षां **दधानाः** आसत इति शेषः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of bay horses, by the right guidance of you who are deservedly praised, the bestower ofhappiness the illustrious, the men your praisers, O **Indra**, have acquired your most gracious assistance forexcelling (other suppliants) through your favours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through your guidance—you of good praise, of good favor, and of  much radiance, o master of the fallow bays—the peoples,  
 your praisers, are acquiring your most bounteous help to bring them  across—and through your liberal gifts, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through thy directions, Lord of Tawny Coursers, thine who art firm, splendid, and blest, the people  
      Obtain most liberal aid for their salvation, and praise thee, Indra, through thine excellencies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Leute, die unter deiner, des Schöngepriesenen, Gnadenschönen, Glanzreichen Anleitung, o Falbenfahrer, die Sänger, die durch deine Großmut, o Indra, bereitwilligste Hilfe bekamen, um ans Ziel zu kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Huld, gepriesner Füchselenker, du gnadenreicher, glänzender empfangen Die besten Hülfen, Indra, deine Sänger zur Förderung durch wundervolle Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

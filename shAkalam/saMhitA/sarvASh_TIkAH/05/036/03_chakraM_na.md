@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चक्रं꣡ न꣡ वृत्त꣡म् पुरुहूत वेपते  
 म꣡नो भिया꣡ मे अ꣡मतेर् इ꣡द् अद्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कुवि꣡न् नु꣡ स्तोषन् मघवन् पुरूव꣡सुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रथा॑त् । अधि॑ । त्वा॒ । ज॒रि॒ता । स॒दा॒ऽवृ॒ध॒ । कु॒वित् । नु । स्तो॒ष॒म् । म॒घ॒ऽव॒न् । पु॒रु॒ऽवसुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
@@ -128,7 +128,7 @@ genre M
 हे **पुरुहूत** बहुभिर् आहूत हे **अद्रिवः** वज्र-वन्न् इन्द्र **मे मनः अमतेर् इत्** दारिद्र्याद् अस्तोतुर् वा सकाशात् **भिया** भीत्या **वेपते** कम्पते **वृत्तं चक्रन् न** भूमौ वर्तमानं चक्रम् इव यस्माद् एवन् तस्मात् **रथाद् अधि** उपरिस्थितं **त्वा** त्वां हे **सदा-वृध** सर्वदा वर्धमान हे **मघवन्** इन्द्र **जरिता** स्तोता **पुरू-वसुर्** अहम् ऋषिः **कुवित्** बहु नु क्षिप्रं **स्तोषत्** स्तोष्यति स्तूयात्। अत्र कुविच्-छब्द-योगे ऽपि आख्यातस्य बहुल-ग्रहणान् निघातः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 Through dread of poverty: amater id: amati = dāridyam, poverty, or astotā, one who does not praise or worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a wheel set rolling my mind trembles with fear of neglect, o  
 much-invoked possessor of the stone.  
@@ -148,7 +148,7 @@ ever-strengthening bounteous one—(so he will become) one
 possessing many goods?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The slightly “off” nature of the similes in this hymn continues here. In ab the point of comparison between the rolling wheel and the poet’s mind is the trembling (vepate). The cause of the trembling -- fear -- is applicable only to the mind, not the wheel.
 
@@ -159,23 +159,23 @@ introduction, I think this is a punning allusion to the poet’s patron Śruta-r
 This might be clearer in the published translation if it were reordered: “Surely the singer will now praise you … (to become) one possessing many goods from the (Famous-)chariot?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoked of many, Caster of the Stone my heart quakes like a rolling wheel for fear of penury.  
      Shall not Puruvasu the singer give thee praise, O ever-prospering Maghavan, mounted on thy car?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein gedrehtes Rad zittert mein Sinn aus Furcht vor der geistigen Armut, du vielgerufener Herr des Preßsteins. Gewiß wird dich Puruvasu als Sänger vom Wagen aus preisen, du stets fördernder Gabenreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Herz erbebt aus Furcht vor Noth, o Schleuderer, gleichwie ein rollend Rad o vielgerufener; Wird nicht der Sänger auf dem Wagen, reich an Gut, o mächtiger dich rühmen, der du stets erfreust?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно крутящееся колесо, о многопризываемый, дрожит  
 Дух мой от страха перед нехваткой мыслей, о повелитель давильных камней.  

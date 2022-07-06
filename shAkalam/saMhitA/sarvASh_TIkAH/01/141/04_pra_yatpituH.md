@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ य꣡त् पितुः꣡ परमा꣡न् नीय꣡ते प꣡रि  
 आ꣡ पृक्षु꣡धो वीरु꣡धो दं꣡सु रोहति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡द् य꣡विष्ठो अभवद् घृणा꣡ शु꣡चिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । यत् । अ॒स्य॒ । ज॒नुष॑म् । यत् । इन्व॑तः । आत् । इत् । यवि॑ष्ठः । अ॒भ॒व॒त् । घृ॒णा । शुचिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -138,7 +138,7 @@ genre M
 **यत्** यस्मात् **पितुः** अन्नस्य पशुलक्षणस्य ॥ षष्ठीस्थाने प्रथमा ॥ तस्य **परमात्** परमत्वाद्धेतोः । उत्कृष्टत्वायेत्यर्थः। तदर्थं **प्र** **परि** **नीयते** प्रकर्षेण परितो नीयते पर्यग्निक्रियते इत्यर्थः । यद्वा । पितुरुत्पादकात् परमात् उत्कृष्टात् गार्हपत्यलक्षणस्याग्नेः सकाशात् आहवनीयं प्रति प्र परि नीयते प्रकर्षेण नीयते । परि अनर्थकः । किंच **पृक्षुधः** पशुपुरोडाशादिषु दाहमध्ये धीयमानाः । यद्वा ॥ मशब्दस्य संप्रसारणम् । क्षुध बुभुक्षायाम्' । क्विप् ॥ प्रक्षोध्याः प्रकर्षेण बुभुक्षिता भोक्तुमिष्यमाणाः । **वीरुधो** **दंसु** दन्तेषु मध्ये **आ** **रोहति** आरोहन्ति प्रविशन्तीत्यर्थः । **यत्** यस्मात् **उभा** उभौ अध्वर्युयजमानौ उभे अरणी वा **अस्य** अग्नेः **जनुषं** जन्म उत्पत्तिम् **इन्वतः** व्याप्नुतः स्वीकुरुत इत्यर्थः ॥ ‘ इवि व्याप्तौ ' । इदित्त्वात् नुम् ॥ **आदित्** अत एव कारणात् **शुचिः** शुद्धोऽयमग्निः **घृणा** यजमानेष्वनुग्रहेण । यद्वा । घृणा घृणो दीप्तिमान् ॥ मत्वर्थों लुप्यते ॥ दीप्त्या वा **यविष्ठः** युवतमः **अभवत्** संपन्नः । स्वीकारसमर्थोऽभवदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,14 +159,14 @@ Daṃsu = danteṣu, teeth, or flames;
 Ārohati = ārohanti, the singular for the plural ral
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he is led forth from his highest father, he mounts the  
 nourishment-bringing plants in the houses,  
 when the two [=kindling sticks] set his birth in motion. Just after that  the youngest one became blazing with heat;
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. concerns the production of fire by the friction of the two kindling sticks.
 
@@ -181,28 +181,28 @@ Pāda c contains a curiously doubled yád in a single clause (ubhā́yád asya j
 Pāda d contains an augmented impf. abhavat, which contrasts with the presents nīyáte (a), róhati (b), and ínvataḥ (c), esp. since it begins ā́d íd “just after that,” which suggests that the past tense action of d should follow the actions of the earlier part of the verse. Most tr. (Oldenberg [SBE], Geldner, Renou, Witzel Gotō) take c and d together, separate from ab, which produces a jarring sequence of tense: “when they spur on …, then he became …” I connect c rather with ab and indeed with vs. 3 and start a new syntactic sequence with 4d, which is continued by the preterital expressions ā́d íd + ā́viśat in 5a, ví vāvrdhe ̥ in 5b, and áruhat in 5c. Although this is not a complete solution, in that the ā́d íd “just after that” of 4d and 5a begs for a sequentially prior preterite, it keeps the disharmonious sequence of tenses from inhabiting the same sentence. This division is also compatible with the syntactic enjambement characteristic of the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When from the Highest Father he is brought to us, amid the plants he rises hungry, wondrously.  
      As both together join to expedite his birth, most youthful he is born resplendent in his light.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he is led forward from the highest father 1, he climbs up the … 2, the plants in his (or, in their?) houses. When 3 both (Heaven and Earth or the two Aranis?) promote his birth, then the youngest one became bright by his heat 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er vom höchsten Vater hergeholt wird, so steigt es in den Häusern auf die ......, auf die Pflanzen. Wenn beide seine Geburt zuwege bringen, da ward der Jüngste hellstrahlend in Glut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er geholt wird von dem höchsten Vater her, besteigt die saft'gen Pflanzen er mit Wunderkraft, Wenn beide Aeltern sein Entstehn beschleunigen, dann ward als jüngster stets er hell durch seine Glut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда его уводят от высшего отца,  
 Чудесным образом он поднимается по растениям, богатым питанием.  

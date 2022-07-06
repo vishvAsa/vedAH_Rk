@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ हि꣡ त्वा धनंजय꣡म्  
 इ꣡न्द्र दॄळ्हा꣡+ चिद् आरुज꣡म्  
 आदारि꣡णं य꣡था ग꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒दा॒रिण॑म् । यथा॑ । गय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वा** त्वां **धनंजयं** धनानां जेतारं **दृढा** **चित्** दृढानामपि शत्रूणाम् **आरुजम्** आभिमुख्येन भङ्क्तारम् **आदारिणम्** आदर्तारं च **यथा** **गयं** गृहमिवोपद्रवेभ्यो रक्षकं च **विद्म** जानीम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The opener: ādāriṇam = ādartāram (RV 8.24.4); dṛḷhā **arujam**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we know you as winner of spoils, Indra, bursting even into the  fastnesses,  
 like one breaking into a household.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, we know thee breaker-down even of trong forts, winner of spoil,  
      A:one who conquers wealth for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir kennen dich, Indra, als den Beutemacher, der selbst die festen Verschlüsse erbricht wie einer, der ins Haus einbricht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn als erbeutend kennen wir und Festen brechend, Indra, dich, Als den, der uns Besitz erkämpft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь знаем мы тебя как завоевателя добычи,  
 О Индра, проламывающего даже твердыни,  

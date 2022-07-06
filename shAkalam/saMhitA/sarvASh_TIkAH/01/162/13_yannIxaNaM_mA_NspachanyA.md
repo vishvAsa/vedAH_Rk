@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् नी꣡क्षणम् मांस्प꣡चन्या उखा꣡या  
 या꣡ पा꣡त्राणि यूष्ण꣡ आसे꣡चनानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अङ्काः꣡ सूनाः꣡ प꣡रि भूषन्ति अ꣡श्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ऊ॒ष्म॒ण्या॑ । अ॒पि॒ऽधाना॑ । च॒रू॒णाम् । अ॒ङ्काः । सू॒नाः । परि॑ । भू॒ष॒न्ति॒ । अश्व॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -101,7 +101,7 @@ popular
 **मांस्पचन्याः** मांसपचन्याः ॥ पचतेः अधिकरणे ल्युट् । मांसस्य पचि युड्घञोः ' (का. ६. १. १४४ ) इत्यन्तलोपः ॥ **उखायाः** स्थाल्याः **नीक्षणं** पाकपरीक्षासाधनं काष्ठं तथा **या** यानि **पात्राणि** **यूष्णः** रसस्य क्वथितस्य **आसेचनानि** असेचनसाधनानि तथा **ऊष्मण्या** ऊष्मनिवारणार्हाणि पात्राणि तथा **चरूणां** पात्राणां मांसपूर्णानाम् **अपिधाना** अपिधानानि तत्साधनानि तथा **अङ्काः** हृदयाद्यवयवाङ्कनसाधनाः वेतसशाखाः **सूनाः** अवदानसाधनाः स्वधित्यादयः एतम् **अश्वम्** अश्वावयवं **परि** **भूषन्ति** परितो भूषयन्ति स्वस्वव्यापारेण साधयन्तीत्यर्थः ॥ ‘भूष अलंकारे'। भौवादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ Pidhānā = covers of the dishes, apidhānā carūṇām;
 Skewers: **aṅka**, slips of cane, vetasaśākhā, for marking the members of the horse as they are to be dissected. According to **Kātyāyana**, **Sūtra** 155, this is to be done by the **queens**, or wives of the sacrificer, and their attendants, with one hundred and one needles or skewers, which may of gold, silve,or bronze or other metal, so embellished; the knives: **sūnāḥ** **avadāna** **sādhanāḥ** = implements of dissection, the **svadhiti** and others
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The probe for the meat-cooking cauldron, the cups for the pouring  of broth,  
 the covers of the bowls that keep them warm, the hooks, and the  
 baskets are in attendance around the horse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The trial-fork of the flesh-cooking caldron, the vessels out of which the broth is sprinkled,  
      The warming-pots, the covers of the dishes, hooks, carving-boards,--all these attend the Charger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Prüfstäbchen des Fleischkochtopfes, die Schalen zum Eingießen der Brühe, die dampfenden Deckel der Kessel, Haken, Fleischteller warten auf das Roß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welches der Prüfstab ist des Fleisch kochenden Topfes, welches die Trinkgefässe und die Schüsseln der Brühe sind, die dampfenden Deckel der Kessel, Haken, Körbe, die alle bedienen das Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та палочка, чтобы пробовать из котла при варке мяса,  
 Те чаши для наливания жижи,  

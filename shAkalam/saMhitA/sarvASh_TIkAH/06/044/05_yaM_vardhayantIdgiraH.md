@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ वर्ध꣡यन्ति इ꣡द् गि꣡रः  
 प꣡तिं तुर꣡स्य रा꣡धसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवी꣡ शु꣡ष्मं सपर्यतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । इत् । नु । अ॒स्य॒ । रोद॑सी॒ इति॑ । दे॒वी इति॑ । शुष्म॑म् । स॒प॒र्य॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -105,19 +105,19 @@ genre M
 **गिरः** स्तुतय इन्द्रसंबन्धिनं **यम्** **इत्** यमेव शुष्मं बलं **वर्धयन्ति** । कीदृशम् । **पतिम्** ईश्वरम् । कस्य । **तुरस्य** हिंसकस्य शत्रोः **राधसः** धनस्य । शत्रुधनानामपहर्तारमित्यर्थः । **अस्य** इन्द्रस्य **तमित्** तमेव **शुष्मं** शोषकं बलं **देवी** देवनशीले **रोदसी** द्यावापृथिव्यौ **नु** क्षिप्रं **सपर्यतः** परिचरतः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine heaven and earth adore that vigour of his, which our hymns augment, the appropriator of the riches of the foe.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He whom songs make strong, the lord of overpowering generosity— his tempestuous force do the two world-halves, the goddesses, respect.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The íd in pāda a seems displaced: we would expect yám íd …, though that order would produce a choppy meter. The íd in c is better positioned, though we actually might expect it to be limiting asya, not the tám anticipating śúṣmam. The published translation does not render either íd; if I were to do so, the result would be “(It’s) just (him) whom the songs make strong … just his tempestuous force that the worldhalves respect.”
 
@@ -132,23 +132,23 @@ Although this tṛca does not have glaring signs of unity, it particularly conce
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those Goddesses, both Heaven and Earth, revere the power and might of him,  
      Him whom our songs increase in strength, the Lord of bounty swift to come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den die Lobreden erbauen, den Herrn der alles übertreffenden Gabe, seinen Ungestüm achten Himmel und Erde, die beiden Göttinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den recht die Lieder kräftigen, den Herrn des reichlichen Geschenks; Die Welten, das Göttinnen-Paar, verehren diese seine Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого только усиливают хвалебные песни,-  
 Господина победоносного дара, –  

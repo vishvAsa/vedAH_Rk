@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ न इन्द्र जिघांससि  
 भ्रा꣡तरो मरु꣡तस् त꣡व  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मा꣡ नः सम꣡रणे वधीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तेभिः॑ । क॒ल्प॒स्व॒ । सा॒धु॒ऽया । मा । नः॒ । स॒म्ऽअर॑णे । व॒धीः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim*
 - \[adverb\]
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (424)
 इदमगस्त्यवाक्यम् । हे **इन्द्र** **नः** अस्मान् अनपराधिनः **किं** **जिघांससि** हन्तुमिच्छसि । कथमवध्यत्वमिति अत आह । **मरुतः** **तव** **भ्रातरः** । त्वया भोगप्रदानेन भरणीया इत्यर्थः । अतो वयमवध्या इत्युक्तं भवति । मरुतामिन्द्रभ्रातृत्वम् एकस्मिन्नेवादितिगर्भे उत्पन्नत्वात् । सा चोत्पत्तिः पुराणेषु प्रसिद्धा । सन्तु भ्रातरस्ततश्च किमिति अत आह । **तेभिः** तैर्मरुद्भिः सह **साधुया** साधुत्वं **कल्पस्व** कल्पय हविर्भागं तैः सह युद्धं वा । **नः** अस्मान् **समरणे** संग्रामे **मा** **वधीः** मा हिंसीः । यद्वा । लुप्तो दृष्टान्तः । संग्रामे यथा विरोधिनं हंसि न तथास्मानिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,29 +111,29 @@ popular;; epic anuṣṭubh (424)
 The Maruts are your brothers: being equally with Indra, the sons of **Aditi**; the allusion is to the affinity of function
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agastya:] Are you going to strike us down, Indra? The Maruts are your  brothers.  
 Make a proper arrangement with them. Do not strike us down in your  confrontation (with them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts are thy brothers. Why, O Indra, wouldst thou take our lives?  
      Agree with them in friendly wise, and do not slay us in the fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Warum willst du, Indra, uns umbringen? Die Marut sind deine Brüder. Mit denen vertrag dich gut! Bring uns nicht im Streit um.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Warum willst, Indra, tödten du uns Maruts, die dir Brüder sind? Mit solchen musst du freundlich sein; nicht schlage du im Kampfe uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зачем ты, Индра, хочешь нас погубить?  
 Маруты – твои братья.  

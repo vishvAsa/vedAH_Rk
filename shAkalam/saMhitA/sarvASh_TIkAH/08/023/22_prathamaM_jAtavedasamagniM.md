@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रथमं꣡ जात꣡वेदसम्  
 अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्  
 प्र꣡ति स्रु꣡ग् एति न꣡मसा हवि꣡ष्मती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 प्रति॑ । स्रुक् । ए॒ति॒ । नम॑सा । ह॒विष्म॑ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prathamaṃ* ← *prathamam*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **प्रथमं** देवानां प्रधानभूतं **जातवेदसं** जातप्रज्ञं **पूर्व्यं** पुरातनमेतादृशम् **अग्निं** **यज्ञेषु** अग्निष्टोमादियज्ञेषु **हविष्मती** सोमादिहविर्युक्ता **स्रुक्** **नमसा** स्तोत्रेण नमस्कारेण वा सह **प्रति** **ऐति** अग्निं प्रति गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M
 With reverence: or, with the hymn, stotreṇa namaskāreṇa vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (It goes) first toward Agni Jātavedas, foremost at the sacrifices— the ladle full of the oblation goes with homage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Jatavedas Agni, chief in sacrifices, first of all  
      With homage goes the ladle rich with sacred gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zuerst kommt dem Agni Jatavedas, der bei den Opfern vorgeht, der Löffel mit der Opfergabe unter Verbeugung entgegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Wesenkenner geht zuerst, zum Opferlenker Agni hin Der Löffel, reich mit Schmalz versehn, gebetumtönt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первой к Джатаведасу  
 Агни, главному на жертвоприношениях,  

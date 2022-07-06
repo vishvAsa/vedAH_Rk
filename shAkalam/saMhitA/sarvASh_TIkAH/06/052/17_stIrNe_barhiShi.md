@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तीर्णे꣡ बर्हि꣡षि समिधाने꣡ अग्नउ꣡  
 सूक्ते꣡न महा꣡ न꣡मसा꣡ विवासे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे देवा हवि꣡षि मादयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मिन् । नः॒ । अ॒द्य । वि॒दथे॑ । य॒ज॒त्राः॒ । विश्वे॑ । दे॒वाः॒ । ह॒विषि॑ । मा॒द॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stīrṇe* ← *stṛ*
 - \[verb noun\], locative, singular
@@ -120,42 +120,42 @@ genre M
 हे विश्वे देवाः **बर्हिषि** दर्भपुञ्जे वेद्यां **स्तीर्णे** सति **अग्नौ** च **समिधाने** समिद्धे सति अनेन **सूक्तेन** स्तोत्रेण च **महा** महता **नमसा** नमस्कारेण च **आ** **विवासे** पर्यचरम् । हे **यजत्राः** यजनीयाः **विश्वे** **देवाः** **अद्य** अस्मिन् दिने **नः** अस्मदीये **अस्मिन्** **विदथे** यज्ञे **हविषि** । तृतीयार्थे सप्तमी । हविषा अस्माभिर्दत्तेन **मादयध्वं** तृप्यध्वम् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the sacred grass is strewn, when the fire is kindled, and when I worship (you) with a hymn, and with profound veneration, then, adorable universal gods, rejoice in the oblation (offered) today at this our sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the ritual grass has been strewn, when the fire is being kindled,  I seek to entice (them) here with a hymn, with great reverence.  
 At this rite of ours here today, all you gods deserving the sacrifice,  
 bring yourselves to exhilaration on the oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A typical final vs. summarizing the ritual. For yajatrāḥ see comm. ad vs. 13.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When holy grass is strewn and fire enkindled, with hymn and lowly homage I invite you.  
      All-Gods, to day in this our great assembly rejoice, ye Holy, in the gifts we offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ausgelegtem Barhis, bei entzündetem Feuer lade ich unter Verneigung mit großem Liede ein: Ihr Götter alle ergötzet euch heut an dieser Weisheitsrede, an dem Opfer, ihr Opferwürdige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da Gras gestreut ist und entflammt das Feuer, so lad' ich euch mit hohem Lied in Demuth Zu diesem Feste heute, o verehrte, ihr Götter alle, an dem Trank berauscht euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда расстелена солома (и) зажжен огонь,  
 Я хочу покорить (вас) гимном (и) великим поклонением.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रश् च वायव् एषां᳐  
 सुता꣡नाम् पीति꣡म् अर्हथः  
 ता꣡ञ् जुषेथाम् अरेप꣡साव् अभि꣡ प्र꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 तान् । जु॒षे॒था॒म् । अ॒रे॒पसौ । अ॒भि । प्रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -93,36 +93,36 @@ genre M;; line affected by realignment;; repeated line
 हे **वायो** त्वं च **इन्द्रश्च** **एषां** पुरतो गृहीतानां **सुतानाम्** अभिषुतानां सोमानां **पीतिं** पानम् **अर्हथः** । यस्मादेवं तस्मात् **तान्** सोमरसान् **जुषेथां** सेवेथाम् **अरेपसौ** अहिंसकौ । तदर्थं **प्रयः** सोमाख्यमन्नमभिलक्ष्यागच्छतमिति शेषः । यद्वा । प्रयः अन्नरूपान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, you ought to tdrink these libations; be gratified by them, benevolent (divinities), and partake of the sacrificial food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vāyu and Indra, you have the right to the drinking of these pressed  (soma drinks).  
 You flawless ones, relish them to your satisfaction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, Indra, Vayu, well deserve to drink the juices pressed by us.  
      Gladly accept them, spotless Pair come to the food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vayu! Ihr habt ein Anrecht auf den Trank dieser Somasäfte. Diese laßt euch munden als Makellose zur Labung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, Indra, Vaju, habt ein Recht auf dieser Somasäfte Trunk; Geniesst, o Fleckenlose, sie, – euch zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра и Ваю, вы достойны  
 Питья этих выжатых (соков).  

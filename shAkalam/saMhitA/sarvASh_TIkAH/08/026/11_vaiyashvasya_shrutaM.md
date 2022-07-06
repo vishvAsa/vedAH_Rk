@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैयश्व꣡स्य श्रुतं नरा  
 उतो꣡ मे अस्य꣡ वेदथः  
 सजो꣡षसा व꣡रुणो मित्रो꣡ अर्यमा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स॒ऽजोष॑सा । वरु॑णः । मि॒त्रः । अ॒र्य॒मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiyaśvasya* ← *vaiyaśva*
 - \[noun\], genitive, singular, masculine
@@ -89,7 +89,7 @@ genre M
 हे **नरा** नेतारावश्विनौ **वैयश्वस्य** व्यश्वपुत्रस्य विश्वमनसो ममाह्वानं **श्रुतं** शृणुतम् । **उत** अपि च **मे** मदीयम् **अस्य** तदाह्वानं **वेदथः** आत्मीयतया जानीथः । अथ **वरुणः** ”मित्रः मित्रावरुणौ च **सजोषसा** संगतौ सन्तौ **अर्यमा** एतन्नामको देवश्च मदीयमाह्वानं श्रुत्वा मह्यं धनादिकं प्रयच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M
 Purport: you recognize this my (invocation asdevoted to you)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Listen to the son of Vyaśva, you two superior men, and you will know  of this (offering) of mine,  
 as two of one accord, (you and) Varuṇa, Mitra, and Aryaman.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c sajóṣasā váruṇo mitró aryamā́“the two of one accord (and) V, M, A” is reminiscent of the number disharmony in vs. 8. It can be seen as a syntactic blend of 8c devā́devébhiḥ … sacánastamā “the two gods joined with the gods” and a putative plural sajóṣasaḥ that includes the Aśvins with the other gods mentioned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heroes, listen to the son of Vyasva, and regard me here,  
      Varuna, Mitra, Aryaman, of one accord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret auf den Vyasvasohn, ihr Herren, und seid meiner hier eingedenk, einmütig und mit euch Varuna, Mitra, Aryaman!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männer, hört Viaçva's Sohn, und achtet hier auf meinen Ruf, Vereint mit Mitra, Varuna und Arjaman.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышьте, о два мужа, сына Вьяшвы,  
 Узнайте также обо мне таком,  

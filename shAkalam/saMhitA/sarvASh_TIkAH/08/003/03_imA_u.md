@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ त्वा पुरूवसो  
 गि꣡रो वर्धन्तु या꣡ म꣡म  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अभि꣡ स्तो꣡मैर् अनूषत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पा॒व॒कऽव॑र्णाः । शुच॑यः । वि॒पः॒ऽचितः॑ । अ॒भि । स्तोमैः॑ । अ॒नू॒ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -105,7 +105,7 @@ genre M
 हे **पुरूवसो** बहुधनेन्द्र **मम** मदीयाः **इमाः** **गिरः** शस्त्ररूपा वाचः **त्वा** त्वां **वर्धन्तु** वर्धयन्तु । तथा **पावकवर्णाः** अग्निसमानतेजस्काः अत एव **शुचयः** शुद्धाः **विपश्चितः** विद्वांस उद्गातारश्च **स्तोमैः** स्तोत्रैर्बहिष्पवमानादिभिः **अभि** **अनूषत** त्वामभिष्टुवन्ति । नू स्तुतौ ' । कुटादिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ genre M
 Pāvakavarṇa = agnisamānatejasaka, radiant as **Agni**; the **devatā** of the **sūkta** may be **Āditya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these make you strong, you of many goods—the songs which  are mine.  
 Pure-colored, gleaming, attentive to poetic inspiration, they have cried  out to (you) with their praises.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these my songs of praise exalt thee, Lord, who hast abundant wealth.  
      Men skilled in holy hymns, pure, with the hues of fire, have sung them with their lauds to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lobreden, die von mir kommen, sollen dich erbauen, du Schatzreicher. Die Redekundigen, rein und von lauterer Art, haben mit ihren Preisliedern laut eingestimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese meine Lieder lass, o reicher Herr, dich kräftigen; Die flammenfarb'gen, strahlenden, begeisterten, sie rauschten preisend zu dir hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти хвалебные песни, которые исходят от меня,  
 О богатый добром, пусть усилят тебя!  

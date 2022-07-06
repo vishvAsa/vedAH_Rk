@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो यज्ञे꣡षु देवय꣡न्तो अर्चन्  
 द्या꣡वा न꣡मोभिः पृथिवी꣡ इष꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ष्वग् विय꣡न्ति वनि꣡नो न꣡ शा꣡खाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येषा॑म् । ब्रह्मा॑णि । अस॑मानि । विप्रा॑ । विष्व॑क् । वि॒ऽयन्ति॑ । व॒निनः॑ । न । शाखाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -115,20 +115,20 @@ genre M
 **देवयन्तः** देवान् कामयमानाः विप्राः **यज्ञेषु** **नमोभिः** स्तुतिभिर्हविर्भिर्वा **वः** युष्मान् **इषध्यै** अभिप्राप्तुं **प्र** **अर्चन्** प्रार्चयन्ति प्रकर्षेण स्तुवन्ति । **द्यावा** दिवं च **पृथिवी** भूमिं च प्रस्तुवन्ति । **येषां** विप्राणां मेधाविनां **ब्रह्माणि** स्तोत्राणि **वनिनो** **न** **शाखाः** वृक्षस्य शाखा इव **विष्वक्** विश्वतः **वियन्ति** विशेषेण गच्छन्ति । ते **विप्राः** प्रार्चन्निति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devout worshippers seek to attain you, gods, by praises at sacrifices; they (worship) the heaven andearth, they of whom the divesified adorations spread everywhere like th ebranches of trees.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the sacrifices those seeking the gods chant forth for you all to Heaven  and Earth with acts of reverence, in order to prosper—  
 those whose unequalled, inspired sacred formulations go questing in  divergent directions like the branches of a tree.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The inf. iṣádhyai is a hapax and variously interpr.: e.g., Geldner “dass sie gern kommen,” Renou “en sorte que (nous) en tirions profit.” The root affiliation is also not entirely clear; e.g., Lubotsky classifies it with √iṣ ‘send’, though we do not of course know how he would tr. it. Both Renou’s disc. and his tr. seem to me plausible: he takes it as “un doublet isolé d’iṣayádhyai” and cites Burrow’s (1955) interpr. “pour que nous soyons prospères.” It is worth noting that the few instances of iṣayádhyai (I.183.3=VI.49.5, VI.64.4) also occur in a Triṣṭubh cadence and that that form in isolation is ill-formed for such a cadence, since the root syllable should be heavy in 71 such a cadence. In I.183.3=VI.49.5 this problem is avoided because the root syllable amalgamates with a preceding final vowel: yéna narā nāsati yeṣayádhyai. But in VI.64.4 rayím divo duhitar iṣayádhyai the cadence is simply bad (and in fact produces an uninterrupted run of 5 light syllables). Haplology of the suffix -ayá- to our form iṣádhyai here fixes this metrical problem.
 
@@ -153,23 +153,23 @@ The 1st two vss. of this hymn begin with prá, recalling the insistent prá in t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING out the pious at your sacrifices to move with adorations Earth and Heaven-  
      The Holy Singers, whose unmatched devotions, like a tree's branches, part in all directions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Verbeugung sollen bei euren Opfern die gottverlangenden Sänger Himmel und Erde zuvor preisen, daß sie gern kommen, deren unvergleichliche beredte Segensworte sich nach allen Seiten verteilen wie die Äste eines Baumes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei euren Opfern preisen nun die Frommen mit Ehrfurcht Erd' und Himmel, sie zu laben; Die Sänger, deren Lieder unvergleichlich sich rings verzweigen wie des Baumes Aeste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Во время ваших жертвоприношений преданные богам (поэты) воспевают  
 Небо-и-Землю с поклонениями, чтобы укрепить (их),  

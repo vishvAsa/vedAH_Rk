@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नः सोम विश्व꣡तो  
 गोपा꣡ अ꣡दाभियो भव  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सेध॑ । रा॒ज॒न् । अप॑ । स्रिधः॑ । वि । वः॒ । मदे॑ । मा । नः॒ । दुः॒ऽशंसः॑ । ई॒श॒त॒ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -125,37 +125,37 @@ genre M;; repeated line
 हे **सोम** **अदाभ्यः** केनाप्यहिंस्यः **त्वं** **विश्वतः** सर्वतः **नः** अस्माकं **गोपाः** रक्षिता **भव** । अपि च हे **राजन्** राजमान सोम त्वं **स्रिधः** अस्माकमुपक्षपयितॄन् **अप** **सेध** अस्मत्तोऽपगमय अपजहि वा । **नः** अस्माकं दुःशंसः विद्यमानानामविद्यमानानां कर्मणां शंसिता प्रख्यापयिता **मा** **ईशत** ईशिता मा भूत् । तव प्रसादादस्माकमपवक्ता कश्चिदपि मा भूदित्यर्थः । किमर्थमेतत्सर्वं प्रार्थ्यसे । **वि** **वो** **मदे** तव विविधसोमादिहविर्जन्यतृप्त्यर्थम् । अतो **विवक्षसे** त्वं महान्भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be on all sides our preserver, **Soma**, you, who are unassailable; drive away, monarch, our adversariesin your exhilaration, and let no calumniator rule over us; for you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, be our undeceivable herdsman on all sides.  
 Ward off failures, o king; let no defamer hold sway over us.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On all sides, Soma, be to us a Guardian ne'er to be deceived.  
      King, drive away our foemen-at your glad carouse:-let not the wicked rule us. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du, Soma, allenthalben unser unbetörbarer Hirt! Halte, o König, die Fehler fern; nicht soll der Übelredende über uns Macht haben - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Hüter sei uns überall, o Soma, welchen nichts betrügt, Die Feinde halt, o König, fern, kein Böser werde unsrer Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь ты нам, о сома,  
 Со всех сторон пастухом безобманным!  

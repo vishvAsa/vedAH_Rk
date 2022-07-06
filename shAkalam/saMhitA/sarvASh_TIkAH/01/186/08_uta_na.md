@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ न ईम् मरु꣡तो वृद्ध꣡सेनाः  
 स्म꣡द् रो꣡दसी स꣡मनसः सदन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रिशा꣡दसो मित्रयु꣡जो न꣡ देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पृष॑त्ऽअश्वासः । अ॒वन॑यः । न । रथाः॑ । रि॒शाद॑सः । मि॒त्र॒ऽयुजः॑ । न । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **उत** अपि च **नः** अस्मदीयम् **ईम्** इदानीम् एनं यागं वा **मरुतः** **स्मत्** सह अपि **सदन्तु** गच्छन्तु । कुतो देशात् । **रोदसी** रोदस्योर्द्यावापृथिव्योः सकाशात् । यद्वा । रोदस्यावपि गच्छताम् । कीदृशास्ते मरुतः । **वृद्धसेनाः** प्रवृद्धबलाः **समनसः** समानमनस्काः **पृषदश्वासः** पृषद्वर्णाश्वाः । ‘पृषत्यो मरुताम् ' (नि. १, १५, ६) इति यास्कः । **अवनयो** **न** यथैव नमनस्वभावाः **रथाः** रंहणस्वभावा रथवन्तो वा ॥ मत्वर्थों लुप्यते ॥ यद्वा । अवनयो रक्षका रथा इव स्थिताः। **रिशादसः** । रिशाः शत्रवः । तेषाम् अत्तारः **मित्रयुजः** **देवाः** **न** मैत्रीयुक्ता व्यवहर्तारः ऋत्विज इव । यद्वा । मैत्रीयुक्ता अन्ये देवा यथा गच्छन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,36 +136,36 @@ Like protecting chariots: avanayo na rathāḥ = rakṣakāḥ rathāḥ;
 Avanaya = bending, or inclining downwards
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let the like-minded Maruts along with Rodasī sit here for us—their  weapons grown strong,  
 their horses dappled, their chariots like streams—the gods who care for  the stranger, like yokemates in alliance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take -senā- here and in 9d as ‘weapon’, not ‘army’ (contra the standard interp.), because I think ‘weapon’ works better in 9d with the simile in 9c. However, ‘army’ (that is, warrior band vel sim.) is certainly not excluded.
 
 Given the sequence vṛddhásenāḥ … pṛ́ṣadaśvāso ‘vánayo ná ráthāḥ, opening with two bahuvrīhis, the last term avánayo ná ráthāḥ looks very like a decomposed bahuvrīhi *aváni-ratha- ‘having chariots (like) streams’. Curiously, though Renou is usually quick to suggest such an interpr., he does not mention such a possibility in his notes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the Maruts, armed with mighty weapons, rest here on heaven and earth with hearts in concord,  
      As Gods whose cars have dappled steeds like torrents, destroyers of the foe allies of Mitra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die Marut mit verstärkter Heerschar sollen sich einträchtig mit Rodasi zu uns setzen, mit scheckigen Rossen fahrend - ihre Wagen sind rasch wie die Ströme -, herrenstolz wie die mit Mitra verbündeten Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Maruts auch in grossen Scharen mögen mit Rodasi vereint sich niederlassen, Die Feindvertilger, wie gesellte Götter, mit Schecken fahrend, gleichwie schnelle Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: пусть Маруты с сильным войском  
 Сядут к нам вместе с Родаси, единодушные,  

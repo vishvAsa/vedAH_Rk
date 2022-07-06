@@ -8,7 +8,7 @@ title = "+041"
 ‘इन्द्रा को वाम्' इत्येकादशर्चं नवमं सूक्तं वामदेवस्या त्रैष्टुभमैन्द्रावरुणम् । अत्रानुक्रमणिका ‘ इन्द्रा को वामेकादशैन्द्रावरुणं तु ' इति । अभिप्लविकेधूक्थेषु तृतीयसवने मैत्रावरुणशस्त्रेषु स्तोमवृद्धावावापार्थमेतदादिसूक्तद्वयम् । इन्द्रा को वामिति सूक्ते' (आश्व. श्रौ. ७.९) इति सूत्रितत्वात् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 41 (337)  
 Indra and Varuṇa  
@@ -17,7 +17,7 @@ Vāmadeva Gautama
 Though immediately preceding the great Indra–Varuṇa dialogue hymn IV.42, with  its themes of contested sovereignty and complementary divine and human royal functions, this hymn, also dedicated to Indra and Varuṇa, is a relatively simple and  straightforward joint praise of and appeal to the two divinities as an undifferenti ated pair. The poet speaks repeatedly of his desire for the friendship and compan ionship of the two gods, repeatedly asks them for their help, and seeks material gain  from them as well. Although the gods are not treated separately, the contents reflect  Indra’s qualities more than Varuṇa’s, for the two are especially beseeched for aid in  defeating rivals in contest and battles (vss. 2, 4, 6, 7, 11, with imagery derived from  contests in vss. 8–9).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Varuṇa The patterning of the names of the two gods is mildly interesting. It is fairly strict for the first half of the hymn but varies considerably in the 2nd. The first 5 vss.
 

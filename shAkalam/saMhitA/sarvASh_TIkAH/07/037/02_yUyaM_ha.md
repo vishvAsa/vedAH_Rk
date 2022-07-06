@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ ह र꣡त्नम् मघ꣡वत्सु धत्थ  
 सुवर्दृ꣡श ऋभुक्षणो अ꣡मृक्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ नो रा꣡धांसि मति꣡भिर् दयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सम् । य॒ज्ञेषु॑ । स्व॒धा॒ऽव॒न्तः॒ । पि॒ब॒ध्व॒म् । वि । नः॒ । राधां॑सि । म॒तिऽभिः॑ । द॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -116,20 +116,20 @@ genre M
 हे **ऋभुक्षणः** हे ऋभवः **स्वर्दृशः** स्वर्गं पश्यन्तः **यूयं** **ह** यूयमेव **मघवत्सु** हविर्लक्षणान्नवत्स्वस्मासु निमित्तेषु **अमृक्तम्** अहिंसितम्। चोरादिभिर्नापहृतमित्यर्थः । **रत्नं** रमणीयं **धत्थ** धारयथ। तदनन्तरं **स्वधावन्तः** बलवन्तस्ते यूयं **यज्ञेषु** अस्मदीययज्ञेषु **सं** **पिबध्वं** सम्यक् सोमं पिबत । अपि च यूयं **मतिभिः** धनहेतुभिः **नः** अस्मभ्यं **राधांसि** धनानि **वि** **दयध्वं** विशेषेण दत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you, **Ṛbhukṣins**, beholders of heaven, preserve unmolested the precious (treasure) for us who areaffluent (in sacrificial offerings); do you who are possessed of strengh, drink fully at (our) solemnities, and with(favourable) minds bestow upon us riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You confer a treasure on the bounteous (patrons), you R̥bhukṣans of  sunlike sight—(a treasure) indestructible.  
 Drink together at the sacrifices, autonomous ones. Apportion rewards to  us in accordance with our thoughts.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -139,23 +139,23 @@ The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who behold the light of heaven, Rbhuksans, give our rich patrons unmolested riches.  
      Drink, heavenly-natured. at our sacrifices, and give us bounties for the hymns we sing you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr bringet unseren Gönnern das Kleinod ungeschmälert, ihr Ribhuksan´s mit dem Sonnenauge. Trinket zusammen, ihr Eigenmächtigen, bei den Opfern; teilet uns den Liedern entsprechend Belohnungen aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr gebt den Mächt'gen unversehrte Schätze, die Himmelslicht ihr schaut, o Ribhuherrscher; Trinkt recht nach Lust euch voll bei unsern Opfern, vertheilt an uns nach eurer Güte Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это вы даете сокровище щедрым покровителям,  
 Невредимое, о Рибхукшаны, видящие солнце.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ सखित्व꣡म् उत꣡ शूर भोजि꣡यम्  
 आ꣡ ते ता꣡ वज्रिन् ईमहे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वा꣡जे सुशिप्र गो꣡मति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒तो इति॑ । स॒म॒स्मि॒न् । आ । शि॒शी॒हि॒ । नः॒ । व॒सो॒ इति॑ । वाजे॑ । सु॒ऽशि॒प्र॒ । गोऽम॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -138,36 +138,36 @@ genre M
 उक्थ्ये ब्राह्मणाच्छंसिशस्त्रे 'यो न इदमिदम्' इत्ययं प्रगाथोऽनुरूपः । ‘ यो न इदमिदं पुरेति प्रगाथौ सर्वाः ककुभः ' ( आश्व. श्रौ. ६. १) इति सूत्रितम् । आभिप्लविकेषूक्थ्येष्वपि ब्राह्मणाच्छंसिशस्त्रेऽयं वैकल्पिकोऽनुरूपः ( आश्व. श्रौ. ७.८)। आभिप्लविकेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिशस्त्रे • त्वं न इन्द्रा भर ' इति प्रगाथे स्तोत्रिये सत्यनुरूपतृचः समाहार्यः । तत्रेयं ‘यो न इदमिदम्' इति द्वितीया । सूत्रितं च--- यो न इदमिदं पुरा याहीम इन्दव इति समाहार्योऽनुरूपः' ( आश्व. श्रौ. ७. ८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We acknowledge, hero, your friendship, (the wealth) to be enjoyed through you, and solicit both,thunderer, of you; giver of dwellings, **Indra** of the handsome jaws, sustain us in all abundance and in (store of)cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We (now) know your comradeship and sustenance, o champion. We beg  these of you, o wielder of the mace.  
 And so make us sharp, good one, whenever a prize of cattle is (at  stake), o you of beautiful lips.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, we knew thy friendship and thy rich rewards: these, Thunderer, now we crave of thee.  
      O Vasu, for all wealth that cometh of the kine, sharpen our powers, fair-visored God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir kennen deine Kameradschaft und Gastfreundschaft, o Held; diese erbitten wir von dir, du Keulenträger. Und mach uns scharf auf jeden in Rindern bestehenden Preis, du Guter, Schönlippiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kennen deine Freundschaft, deinen Lohn, o Held, die wünschen wir, o Blitzesherr; O führe du zu jeder milchversehnen Labung uns, schönwangiger, o guter, rasch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы знаем твою дружественность, а также гостеприимство, о герой,  
 О них мы просим тебя, о громовержец.  

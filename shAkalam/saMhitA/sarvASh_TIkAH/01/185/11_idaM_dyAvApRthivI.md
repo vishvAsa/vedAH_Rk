@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ द्यावापृथिवी सत्य꣡म् अस्तु  
 पि꣡तर् मा꣡तर् य꣡द् इहो꣡पब्रुवे꣡ वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 भू॒तम् । दे॒वाना॑म् । अ॒व॒मे इति॑ । अवः॑ऽभिः । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -123,7 +123,7 @@ genre M;; repeated line
 हे **द्यावापृथिवी** द्यावापृथिव्यौ **इदम्** अस्माभिः क्रियमाणं स्तोत्रं **सत्यमस्तु** अवितथं भवतु फलवद्भवत्वित्यर्थः । इदमित्युक्तं किं तदित्याह । हे **पितः** द्यौः हे **मातः** पृथिवि **वां** युवां प्रति **इह** अस्मिन् यज्ञे **यत्** स्तोत्रम् **उपब्रुवे** उपेत्य ब्रवीमि तत्सत्यमस्तु । **देवानां** स्तोतॄणामस्माकम् **अवमे**। अन्तिकनामैतत् । नित्यसंनिहिते युवाम् अवोभिः तर्पणैर्युक्ते **भूतं** भवतम् । अवशिष्टं गतम् ॥ ॥ ३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,35 +134,35 @@ genre M;; repeated line
 In the proximity of those: devānām avame: the first is interpreted stotṛnām = of praisers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this come true, Heaven and Earth, which I address to you two, o  Father and Mother.  
 Become the nearest of the gods with your help. – May we know  
 refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be this my prayer fulfilled, O Earth and Heaven, wherewith, Father and Mother, I address you.  
      Nearest of Gods be ye with your protection. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May this my prayer come true, O Earth and Heaven, With which I here address you, Father, Mother. Be nearest of the gods to us with favours: May we find food and home with flowing water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies soll wahr werden, Himmel und Erde, worum ich euch hier bitte, Vater und Mutter! Seid die nächsten der Götter mit euren Hilfen! - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies werde wahr nun, Himmel du und Erde, was ich zu euch, o Vater, Mutter, rede, Seid unter Göttern uns durch Huld die nächsten. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Небо и Земля, да будет правдой то,  
 За чем я здесь обращаюсь к вам, о отец и мать!  

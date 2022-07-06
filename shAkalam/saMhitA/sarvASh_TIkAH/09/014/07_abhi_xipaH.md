@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ क्षि꣡पः स꣡म् अग्मत  
 मर्ज꣡यन्तीर् इष꣡स् प꣡तिम्  
 पृष्ठा꣡ गृभ्णत वाजि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पृ॒ष्ठा । गृ॒भ्ण॒त॒ । वा॒जिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -87,42 +87,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **क्षिपः** अङ्गुलयः **मर्जयन्तीः** अभिमृशन्त्यः **इषस्पतिम्** अन्नानां स्वामिनं सोमम् **अभि** **समग्मत** अभिसंगच्छन्ते । संगत्य च **वाजिनः** बलवतः सोमस्य **पृष्ठा** पृष्ठानि **गृभ्णत** गृह्णन्त्यभिषवाङगुलयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The fingers combine expressing the lord of food (i.e., **Soma**), and they grasp the back of the vigorous (Soma).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fingers have come together to him, grooming the lord of  
 refreshment.  
 They have grasped the back of the prizewinning horse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here the fingers (kṣípaḥ) are named directly, after the metaphors of 2ab and 5a; the verb √mṛj ‘groom’ recurs from 5b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The nimble fingers have approached, adorning him the Lord of Strength:  
      They grasp the vigorous Courser's back.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Finger vereinigten sich, die den Herrn der Labe putzen; sie fassen des Preisrenners Rücken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es nahten sich die Finger ihm, den Herrn des Trankes reinigend, Des Rosses Rücken fassten sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соединились пальцы (жреца),  
 Начищающие господина услад.  

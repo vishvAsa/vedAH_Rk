@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञइ꣡र् वा यज्ञवाहसो  
 वि꣡प्रस्य वा मतीना᳐꣡म्  
 म꣡रुतः शृणुता꣡ ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 मरु॑तः । शृ॒णु॒त । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
@@ -80,7 +80,7 @@ genre M
 हे **यज्ञवाहसः** यज्ञस्य वोढारः **मरुतः** यूयं **यज्ञैर्वा** । वाशब्दः समुच्चये । यज्ञैश्च यजमानस्य **मतीनां** स्तुतीनां संबन्धिनः **विप्रस्य** **वा** अयजमानस्य मेधाविनश्च **हवम्** आह्वानं **शृणुत** । यज्ञवतो यजमानस्य यागरहितस्य स्तोतुश्चाह्वानमवश्यं भवद्भिः श्रोतव्यं यतः भवन्तो यज्ञस्य वोढारः स्तुतिप्रियाश्चेति भावः ॥ यज्ञवाहसः ।  ‘ गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति वचनात्  ‘ वहिहाधाञ्भ्यश्छन्दसि' इति कारकपूर्वात् वहतेरसुन्। ‘णित्' इत्यनुवृत्तेः उपधावृद्धिः। मतीनाम् ।  ‘ मन ज्ञाने'। अस्मात् करणे क्तिन् । नामन्यतरस्याम्' इति नाम उदात्तत्वम् । शृणुत।  ‘ श्रुवः शृ च' इति श्नुः । ‘सतिशिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः' इति वचनात् तिङ एव स्वरः शिष्यते । मरुत इत्यस्य आमन्त्रितस्य आमन्त्रितं पूर्वमविद्यमानवत् ' इति अविद्यमानवत्त्वेन पदादपरत्वात् निघाताभावः । हवम् । भावेनुपसर्गस्य ' इति ह्वयतेरप् संप्रसारणं च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -91,13 +91,13 @@ genre M
 Yajñair-vā = lit. with sacrifices (will also mean, without sacrifices)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or he by whose sacrifices (you were attracted), o you whose vehicle is  the sacrifice, or of the thoughts of which inspired poet  
 you heard the call, o Maruts—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpretation requires matīnā́m to be construed with hávam “the call of the thoughts”; for this expression see, e.g., VI.69.4 hávanā matīnā́m.
 
@@ -112,23 +112,23 @@ As discussed in the published introduction, the syntax of these two verses is to
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Honoured with sacrifice or with the worship of the sages' hymns,  
      O Maruts, listen to the call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ihr durch das Opfer angezogen werdet oder von den Liedern des Redekundigen anzurufen seid, höret auf den Ruf, ihr Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer, opferholde, kommt, o Maruts, oder hört den Ruf Der Lieder, die der Sänger singt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вы, передвигающиеся вместе с жертвой, жертвами ли,  
 Молитвами ли вдохновенного (привлеченные),  

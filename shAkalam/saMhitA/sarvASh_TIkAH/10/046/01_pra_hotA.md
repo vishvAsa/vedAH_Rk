@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हो꣡ता जातो꣡ महा꣡न् नभोवि꣡न्  
 नृष꣡द्वा सीदद् अपा꣡म् उप꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यन्ता꣡ व꣡सूनि विधते꣡ तनूपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दधिः॑ । यः । धायि॑ । सः । ते॒ । वयां॑सि । य॒न्ता । वसू॑नि । वि॒ध॒ते । त॒नू॒ऽपाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 यः **नृषद्वा** अग्निः **अपाम्** । अन्तरिक्षनामैतत् । अन्तरिक्षस्य **उपस्थे** उत्सङ्गे वैद्युतरूपेण निषण्णोऽभूत् स इदानीं होता यजमानानां होमनिष्पादकः **जातः** प्रादुर्भूतः **महान्** गुणैः पूज्यः **नभोवित्** अन्तरिक्षस्य वेत्ता । यतस्तत्रोत्पन्नः अतस्तस्य ज्ञाता । **नृषद्वा** नृषु सीदन् । सदेः क्वनिप् कृत्स्वरः । **प्र** **सीदत्** वेद्यां प्रसीदति । अपामुपस्थे महिषा अगृभ्णत ' ( ऋ. सं. ६. ८. ४ ) इति हि निगमः । यद्वा । अपाम् । अपसामित्यर्थः । कर्मणामुपस्थ उपस्थाने समीपे वेद्यामुक्तलक्षणः सन् । अथवा । अपामुदकानामुपस्थे मध्ये योऽग्निर्हविर्वोढुमसहमानो निगूढः स देवैः पुनः प्रार्थितः उक्तविधः सन् वेद्यां प्रसीदति । **यः** अग्निः **दधिः** धाता यज्ञस्य धारकः सन् **धायि** वेद्यां निहितोऽभूत् **सः** अग्निः हे वत्सप्रे **विधते** परिचरते **ते** तुभ्यं **वयांसि** अन्नानि **वसूनि** धनानि च **यन्ता** नियमिता भवतु । किंच **तनूपाः** ते तन्वः पाता च भवत्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ genre M
 Agnestrayo jyāyāṃsaḥ:**Taittirīya** **Saṃhitā** 2.6.6\]. men follow) an animal that is lost; the wise **Bhṛgus** desiring his presence, and anxious (to find him), discoveredhim by their prayers lurking in the cave. \[The wise Bhṛgus: cf. RV 2.4.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth (he goes) when just born—the Hotar, the great cloud-finder;  seated among men, he sat down in the lap of the waters.  
 He who has been established establishes vital powers for you; he is  the extender of goods to the man who does honor and he is the  
 protector of bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STABLISHED for thee, to lend thee vital forces, Giver of wealth, Guard of his servant's body.  
      The Great Priest, born, who knows the clouds, Abider with men, is seated in the lap of waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Neugeboren tritt der große Hotri vor, der Wolkenkundige; der unter Männern Sitzende saß im Schoße der Gewässer. Der von dir erzeugt ist, er erzeugt dir Kräfte; er gewährt dem, der ihm dient, Schätze und ist ihm ein Leibesschirmer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Dunst-umhüllte grosse Priester sitze geboren nun im Wasserschooss bei Männern; Er, der gegebne Geber schenke Schätze, dir, dem Verehrer, deinen Leib beschützend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Едва) родившись, он у(строился) как хотар, великий, знающий тучи;  
 Сидящий среди мужей, он уселся в лоне вод.  

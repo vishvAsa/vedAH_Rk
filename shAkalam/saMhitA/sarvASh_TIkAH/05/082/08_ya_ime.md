@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमे꣡ उभे꣡ अ꣡हनी  
 पुर꣡ ए꣡ति अ꣡प्रयुछन्  
 सुआधी꣡र् देवः꣡ सविता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 सु॒ऽआ॒धीः । दे॒वः । स॒वि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -80,20 +80,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यः** **सविता** **देवः** **स्वाधीः** शोभनाध्यानः सुकर्मा वा सन् **इमे** **अहनी** रात्र्यहनी तयोः **पुरः** पुरस्तात् **अप्रयुच्छन्** अप्रमाद्यन् **एति** गच्छति तम् आ वृणीमहे इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine object of meditation, **Savitā**, who ever vigilant, precedes both night and day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who goes in front of both these two day-halves unremittingly  
 and with good intentions: god Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With regard to áprayuchan see disc. of áprāyu- ad V.80.3.
 
@@ -109,23 +109,23 @@ prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who for ever vigilant precedes these Twain, the Day and Night,  
      Is Savitar the thoughtful God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der diesen beiden Tageshälften unentwegt vorangeht, Gott Savitri, der Wohlbedenkende;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der diesen beiden geht voran, dem Tag, der Nacht, ohn' Unterlass, Voll Achtsamkeit, Gott Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто неуклонно идет впереди  
 Этих двух половин дня,  

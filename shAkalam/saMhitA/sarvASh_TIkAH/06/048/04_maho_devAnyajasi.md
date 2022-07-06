@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ देवा꣡न् य꣡जसि य꣡क्षि आनुष꣡क्  
 त꣡व क्र꣡त्वोत꣡ दंस꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रा꣡स्व वा꣡जोत꣡ वंसुव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्वाचः॑ । सी॒म् । कृ॒णु॒हि॒ । अ॒ग्ने॒ । अव॑से । रास्व॑ । वाजा॑ । उ॒त । वं॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
@@ -123,43 +123,43 @@ genre M
 हे **अग्ने** त्वं **महः** महतः **देवान्** **यजसि** । यजमानानां यज्ञे हविर्भिः पूजयसि । अतोऽस्माकमपि यज्ञे **आनुषक्** अनुषक्तं संततं यथा भवति तथा **यक्षि** तान् देवान् यज । तदर्थं **तव** **क्रत्वा** प्रज्ञया **उत** अपि च **दंसना** कर्मणा च । **सीम्** इति परिग्रहार्थीयः । तान् सर्वान् देवान् **अर्वाचः** अस्मदभिमुखान् **कृणुहि** कुरु **अवसे** अस्मद्रक्षणार्थम् । तथा **वाजा** वाजान् हविर्लक्षणान्यन्नानि **रास्व** । तेभ्यो देवेभ्यो देहि । **उत** अपि च त्वमपि **वंस्व** । तुभ्यं प्रत्तानि हवींषि संभजस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You sacrifice to the mighty gods; sacrifice (for us) continually, for (sacrifice is perfected) by your wisdom and your acts; bring them down, **Agni**, for our salvation; present (to them) the sacrificial food, partake of it yourself.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You sacrifice to the great gods: sacrifice in due order with your resolve  and wondrous power.  
 Bring them nearby for help, Agni. Bestow prizes and win them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a juxtaposes two 2nd sg. forms of √yaj, the indic. pres. yájasi and the - si-impv. yákṣi, in separate clauses. This juxtaposition presumably accounts for the accent on yájasi.
 
 In d the obj. must be vā́jā, extracted from vā́jotá. Grammatically this should be a dual, but a dual is semantically unlikely (Oldenberg “Dual vā́jā ist gewiss nicht anzunehmen”). Best to take it as a pseudo-/nonce neut. pl. For the phrase cf. (as Geldner does) I.48.11 vā́jaṃ hí váṃsva; on this basis it is likely that vā́jā is obj. of both rā́sva and váṃsva, although the position of utá associates it esp. with rā́sva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou worshippest great Gods: bring them without delay by wisdom and thy wondrous power.  
      O Agni, make them turn hither to succour us. Give strength, and win it for thyself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du opferst den großen Göttern; opfere in der rechten Folge nach deiner Einsicht und mit Geschick! Mache sie geneigt zur Gnade, o Agni, spende und erwirke Belohnung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die grossen Götter ehrst du, ehr sie nach der Reih' durch deine Kraft und Herrlichkeit; Zur Hülfe schaffe sie, o Agni, nah herbei; nimm Labung an und schenke sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты жертвуешь великим богам – жертвуй по порядку  
 По своему разумению и удивительной силе!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळे꣡नियं वो अ꣡सुरं सुद꣡क्षम्  
 अन्त꣡र् दूतं꣡ रो꣡दसी सत्यवा꣡चम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् अध्वरा꣡य स꣡दम् इ꣡न् महेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒नु॒ष्वत् । अ॒ग्निम् । मनु॑ना । सम्ऽइ॑द्धम् । सम् । अ॒ध्व॒राय॑ । सद॑म् । इत् । म॒हे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱenyaṃ* ← *īḍenyam* ← *īḍ*
 - \[verb noun\], accusative, singular
@@ -121,7 +121,7 @@ genre M
 हे अध्वर्यवः **वः** यूयम् **ईळेन्यं** स्तुत्यम् **असुरं** बलवन्तं **सुदक्षं** सुप्रज्ञं **रोदसी** रोदस्योः **अन्तः** मध्ये **दूतं** देवानां हविर्वहनार्थं चरन्तं **सत्यवाचं** **मनुष्वत्** मनुष्यवत् **मनुना** **समिद्धं** यथेदानीं मनुष्याः समिन्धते तथा पूर्वं मनुना प्रजापतिना समिद्धम् **अग्निम्** **अध्वराय** यज्ञाय **सदमित्** सदैव **सं** **महेम** संपूजयत । मध्यमपुरुषस्य व्यत्ययेनोत्तमपुरुषत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Mahema = to you (priests) worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very skillful lord to be invoked, the truth-speaking messenger  between the two world-halves,  
 Agni kindled by Manu—him would we like Manu ever exalt for you for  the sake of the rite.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will extol at sacrifice for ever, as men may do, Agni whom Manu kindled,  
      Your very skilful Asura, meet for worship, envoy between both worlds, the truthful speaker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den verständigen Asura, der als wahrsprechender Bote zwischen beiden Welten von euch zu berufen ist, den von Manu entzündeten Agni wollen wir gleich Manu jederzeit für den Gottesdienst weihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den preisenswerthen Boten beider Welten, der Wahrheit spricht, den kräftigen, lebend'gen, Den Agni lasst uns stets erhöhn beim Opfer, nach Manus Art, den Manu einst entzündet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Асуру,  
 достойного призывов  

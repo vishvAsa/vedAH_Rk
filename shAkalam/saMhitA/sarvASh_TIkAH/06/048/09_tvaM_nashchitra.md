@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नश् चित्र꣡ ऊतिया꣡  
 व꣡सो रा꣡धांसि चोदय  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 विदा꣡ गाधं꣡ तुचे꣡ तु꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । रा॒यः । त्वम् । अ॒ग्ने॒ । र॒थीः । अ॒सि॒ । वि॒दाः । गा॒धम् । तु॒चे । तु । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -117,19 +117,19 @@ genre M
 हे **वसो** वासक **अग्ने** **चित्रः** दर्शनीयः **त्वम्** **ऊत्या** रक्षया सह **राधांसि** धनानि **नः** अस्मभ्यं **चोदय** प्रेरय । **अस्य** सर्वत्र लोके परिदृश्यमानस्य **रायः** धनस्य **त्वं** रथीरसि रंहिता नेता भवसि । अतः कारणात् अस्मभ्यं धनानि प्रेरयेत्यर्थः । अपि च **नः** अस्माकं **तुचे** । अपत्यनामैतत् । अपत्यायापतनहेतुभूताय पुत्रादये **गाधं** प्रतिष्ठां **तु** क्षिप्रं **विदाः** लम्भय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wonderful (**Agni**), giver of dwellings, encourage us by (your) protection, and (the gift of) riches, for you are he conveyer, Agni, of this wealth; quickly bestow permanence upon our progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You good one, conspicuous by your help, impel bounties to us. Of this wealth here you are the charioteer, Agni. Find a ford for our  progeny.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although ūtyā́could be taken with the impv., the instr. of ūtí- has a robust relationship with citrá- elsewhere (e.g. I.172.1, II.17.8, IV.23.2, VI.10.5, VI.26.5).
 
@@ -142,23 +142,23 @@ parallel codaya in b. Although neither Grassmann nor Lubotsky gives other impera
 The particle tú, which ordinarily takes standard 2nd position, is out of place here. The same sequence, tucé tú naḥ, is also found in VIII.27.14, where it is also out of place. I have no explanation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wonderful, with thy favouring help, send us thy bounties, gracious Lord.  
      Thou art the Charioteer, Agni, of earthly wealth: find rest and safety for our seed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sporne, du Gütiger, durch Hilfe wunderbar, für uns die Freigebigkeit an. Du bist der Wagenfahrer dieses Reichtums, mach doch für unseren Samen einen festen Grund ausfindig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Huld, o strahlender, o guter, treib uns Schätze zu; O Agni, Fährmann dieses Gutes bist du ja, schaff unserm Stamm denn gute Furt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, яркий благодаря (своей) помощи, о Васу,  
 Поощри для нас щедрость!  

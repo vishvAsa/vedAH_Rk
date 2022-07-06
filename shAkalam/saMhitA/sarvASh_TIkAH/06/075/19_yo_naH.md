@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः सुवो꣡ अ꣡रणो  
 य꣡श् च नि꣡ष्ट्यो जि꣡घांसति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ब्र꣡ह्म व꣡र्म म꣡मा꣡न्तरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 दे॒वाः । तम् । सर्वे॑ । धू॒र्व॒न्तु॒ । ब्रह्म॑ । वर्म॑ । मम॑ । अन्त॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -114,40 +114,40 @@ popular;; epic anuṣṭubh (525)
 **यः** स्वः ज्ञातिः **अरणः** अरममाणः **यश्च** **निष्ट्यः** तिरोभूतो दूरे स्थितः **नः** अस्मान् **जिघांसति** हन्तुमिच्छति **तं** **देवाः** **सर्वे** देवाः **धूर्वन्तु** हिंसन्तु । **ब्रह्म** मन्त्रः **मम** **अन्तरं** शराणां निवारकं **वर्म** विद्यते ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whoever, whether an unfriendly relative or a stranger, desires to kill us, may all the gods destroy him; prayer is my best armour”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever wishes to smite us—one of our own or a foreigner, or even  one outside the pale—  
 him let all the gods injure. The sacred formulation is my inner armor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the phrase svó áraṇo yáś ca níṣṭyaḥ as a three-member sequence indicating progressive distance from the speaker. I'm assuming that in this context an áraṇa- is someone who inhabits the same general territory, but belongs to a different group, while the níṣṭya- are from beyond the territory. Renou’s tr. (Hymnes spéc.) is in agreement: “Celui, proche ou lointain ou même étranger.” Others seem to take the 2nd two terms as (near-)synonyms; so explicitly Klein (DGRV I.108-9).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso would kill us, whether he be a strange foe or one of us,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ein Verwandter, ein Fremder, wenn ein Fernstehender uns töten will, so sollen alle Götter ihn zu Fall bringen. Das Segenswort sei mein innerer Panzer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, sei er nahe, sei er fern, sei fremde er, uns schlagen will, den mögen alle Götter fäll'n, mein liebster Panzer ist Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто свой, (кто) чужой  
 И кто посторонний хочет нас убить,  

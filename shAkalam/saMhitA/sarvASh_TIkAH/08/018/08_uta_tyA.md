@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ दइ꣡व्या भिष꣡जा  
 शं꣡ नः करतो अश्वि꣡ना  
 युयुया꣡ताम् इतो꣡ र꣡पो अ꣡प स्रि꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 यु॒यु॒याता॑म् । इ॒तः । रपः॑ । अप॑ । स्रिधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -99,35 +99,35 @@ genre M;; line affected by realignment;; repeated line
 **उत** अपि च **त्या** तौ प्रसिद्धौ **दैव्या** देवेषु भवौ **भिषजा** चिकित्सकौ ईदृशौ **अश्विना**  अश्विनौ **नः** अस्माकं **शं** सुखं रोगाणां शमनं वा **करतः** कुरुताम् । **इतः** अस्मत्तः **रपः** पापं **युयुयातां** पृथक्कुर्याताम् । **स्त्रिधः** शत्रूंश्चापगमयताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the two divine physicians, the **Aśvins**, grant us health; may they drive away from hence iniquity;(may they drive) away our foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And those two heavenly healers, the Aśvins, will make weal for us. They should keep defect away from here. – Failures away!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And may the Asvins, the divine Pair of Physicians, send us health:  
      May they remove iniquity and chase our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese beiden göttlichen Ärzte sollen uns Glück bringen, die Asvin. Sie sollen den Schaden von hier fernhalten, fern die Fehlschläge halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Aerzte mögen auch, die Ritter Segen schaffen uns Und Krankheit scheuchen fern von hier, hinweg den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А те двое божественных целителей  
 Ашвинов должны создать нам счастье.  

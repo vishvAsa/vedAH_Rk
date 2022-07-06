@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जनू꣡श् चिद् वो मरुतस् त्वेषि꣡येण  
 भी꣡मासस् तु꣡विमन्यवो अ꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वो वो या꣡मन् भयते सुवर्दृ꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । ये । महः॑ऽभिः । ओज॑सा । उ॒त । सन्ति॑ । विश्वः॑ । वः॒ । याम॑न् । भ॒य॒ते॒ । स्वः॒ऽदृक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janūś* ← *janūḥ* ← *janus*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 हे **भीमासः** भीमाः **तुविमन्यवः** प्रवृद्धमतयः **अयासः** गन्तार इति त्रीणि संबोधनानि । एवंभूता हे **मरुतः** **वः** युष्माकं **जनूः** जन्म **त्वेष्येण** दीप्तेन रुद्रेण बभूवेति शेषः । **उत** अपि च **ये** मरुतः **महोभिः** तेजोभिः **ओजसा** बलेन च **प्र** **सन्ति** प्रभवन्ति तेषां **वः** युष्माकं **यामन्** यामनि गमने **विश्वः** स्वर्दृक् सूर्यस्य द्रष्टा सर्वो जीवसमूहः। यद्वा । स्वरन्तरिक्षम् । तत् पश्यतीति वृक्षः स्वर्दृक् । सर्वदोत्तिष्ठन्नित्यर्थः । **भयते** बिभेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 Ever gazer: viśvahsvardṛk = all living creatures; or, what looks up to the sky, that is, a tree; trees are alarmed at the approach ofthe wind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even your birth, Maruts, (was attended) by turbulence, you fearsome  ones, of powerful battle fury, unruly, who stand out because of their great powers and their strength.  
 Everyone who sees the sun takes fear at your journey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like the gen. phrase in 1b, the instr. tveṣyèṇa has insufficient syntactic grounding in its clause. Like Geldner “(geschieht)” and Renou “(s’est produite),” I see no choice but to supply a verb to link the subject janū́ḥ and the instr.
 
@@ -159,23 +159,23 @@ The relationship between the first hemistich and the rel. cl. in c displays the 
 On the “X Y utá” construction (rather than expected X utá Y) see Klein DGRV I. 344ff.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, your birth, Maruts, was with wild commotion, ye who move swiftly, fierce in wrath, terrific.  
      Ye all-surpassing in your might and vigour, each looker on the light fears at your coming.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schon eure Geburt geschieht unter Schrecknis, ihr furchtbaren, erzgrimmigen, unverzagten Marut, die durch die Herrlichkeit und Stärke sich hervortun. Jeder, der das Sonnenlicht schaut, fürchtet sich bei eurer Fahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ungestüm entsprangt ihr schon, o Maruts, ihr schrecklichen, voll Eifer, unermüdlich, Vor euch, die ihr durch Glanz und Kraft, hervorragt, erbebt bei eurem Zug der lichte Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь рожденье ваше, о Маруты, (вызвано чем-то) потрясающим,  
 О страшные, мощногневные, неутомимые,  

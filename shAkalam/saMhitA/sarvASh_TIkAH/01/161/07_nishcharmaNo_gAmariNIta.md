@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡श् च꣡र्मणो गा꣡म् अरिणीत धीति꣡भिर्  
 या꣡ ज꣡रन्ता युवशा꣡ ता꣡कृणोतन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युक्त्वा꣡ र꣡थम् उ꣡प देवाँ꣡ अयातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सौध॑न्वनाः । अश्वा॑त् । अश्व॑म् । अ॒त॒क्ष॒त॒ । यु॒क्त्वा । रथ॑म् । उप॑ । दे॒वान् । अ॒या॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niś* ← *niḥ*
 - \[adverb\]
@@ -131,36 +131,36 @@ popular
 हे **सौधन्वनाः** यूयं **निश्चर्मणः** मृतायाः गोः सकाशात् उत्कृत्ताच्चमर्णः **गां** नृतनां निः **अरिणीत** निरगमयत उत्पादितवन्त इत्यर्थः । तेनैव चर्मणा संवीतां तत्सदृशीमन्यां धेनुं कृतवन्त इत्यर्थः । यद्यपि पूर्वमेव अश्वादीनां विनियोगः उक्तः तथापि तेषामत्यन्तदुःखसंपादत्वज्ञापनाय पुनराह । न केवलं गोकरणमेव अपि च **या** **जरन्ता** यौ जीर्णौ पितरौ **ता** तौ **युवशा** युवानौ **अकृणोतन** अकुरुत । किंच **अश्वादश्वम्** एकेन विद्यमानेनाश्वेन अश्वान्तरम् **अतक्षत** प्रयत्नेन संपादितवन्तः । यस्मादेवं कृतवन्तस्तस्मात् **रथं** युष्मदीयं **युक्त्वा** अश्वैर्योजयित्वा **देवान्** इन्द्रादीन् **उप** **अयातन** देवसमीपं प्राप्नुत ॥ इदमुंदकं पिबतेत्यब्रवीतनेदं वा वा पिबता मुञ्जनेजनम् । सौधन्वना यदि तन्नेव हर्यथ तृतीये घा सवने मादयाध्यै ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sons of **Sudhanvan**, from a hideless (cow) you have formed a living one; by your marvellous acts you have made your aged parents young; from one horse you have fabricated another; harness now your chariot, and repair unto the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From the hide you made the cow to flow (milk) by your insights. You  made those young who were the aging pair.  
 O sons of Sudhanvan, you fashioned a horse from a horse, and having  hitched up the chariot, you journeyed toward the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye by your wisdom brought a cow from out a hide; unto that ancient Pair ye gave again their youth.  
      Out of a horse, Sudhanvan's Sons, ye formed a horse: a chariot ye equipped, and went unto the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Fell ließet ihr durch eure Erfindungsgabe die Kuh herauslaufen; die beiden Alten machtet ihr jung. Ihr Söhne des Sudhanvan, aus einem Pferd zimmertet ihr ein zweites Pferd. Ihr schirrtet den Wagen an und fuhret zu den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Weisheit löstet ihr die Kuh aus ihrem Fell, die beiden Alten habt ihr wieder jung gemacht; Aus einem Ross, Sudhanvans Söhne, noch ein Ross; geschirrten Wagens fuhret zu den Göttern ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из шкуры вы силой поэтического вдохновения воссоздали корову.  
 Тех двоих, что старели, вы (снова) сделали юными.  

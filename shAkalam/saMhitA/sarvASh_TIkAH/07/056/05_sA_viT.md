@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ वि꣡ट् सुवी꣡रा मरु꣡द्भिर् अस्तु  
 सना꣡त् स꣡हन्ती पु꣡ष्यन्ती नृम्ण꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 सा । विट् । सु॒ऽवीरा॑ । म॒रुत्ऽभिः॑ । अ॒स्तु॒ । स॒नात् । सह॑न्ती । पुष्य॑न्ती । नृ॒म्णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -78,39 +78,39 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **सा** **विट्** सा प्रजा मरुतः परिचरति । सा प्रजा **मरुद्भिः** हेतुभिः **सनात्** चिरात् **सहन्ती** शत्रूनभिभवन्ती **नृम्णं** धनं बलं वा **पुष्यन्ती** लभन्ती **सुवीरा** शोभनपुत्रयुक्ता **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the people, through (the favours of) the **Maruts**, always victorious, possessed of **male** posterity,and in the enjoyment of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this clan be possessed of good heroes in (the form of) Maruts, the clan prevailing from of old, fostering its manly power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The good heroes that the clan possesses are in fact the Maruts themselves, specified in the instr. Renou calls this an “instrumental of identification.” Whatever term is used, it is not, in my experience, a common usage of the instr., but it is nonetheless not hard to interpret. A similar usage is found two vss. later, in 7cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ever victorious, through the Maruts, be this band of Heroes, nursing manly strength,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Clan muß durch die Marut heldenhaft sein, von jeher siegend, an Mannesstärke zunehmend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Volk der Helden, – durch Maruts sei es Für immer siegreich – und Mannheit erntend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть это племя благодаря Марутам будет богатым прекрасными мужами,  
 Побеждая навсегда, процветая благодаря мужеству!

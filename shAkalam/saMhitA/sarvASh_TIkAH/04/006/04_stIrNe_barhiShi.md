@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तीर्णे꣡ बर्हि꣡षि समिधाने꣡ अग्ना꣡  
 ऊर्ध्वो꣡ अध्वर्यु꣡र् जुजुषाणो꣡ अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रिविष्टि꣡ एति प्रदि꣡व उराणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ । अ॒ग्निः । प॒शु॒ऽपाः । न । होता॑ । त्रि॒ऽवि॒ष्टि । ए॒ति॒ । प्र॒ऽदिवः॑ । उ॒रा॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stīrṇe* ← *stṛ*
 - \[verb noun\], locative, singular
@@ -122,7 +122,7 @@ genre M
 **बर्हिषि** वेद्यां **स्तीर्णे** आस्तृते सति **अग्नौ** आहवनीयादिके **समिधाने** सम्यगिध्यमाने च सति **अध्वर्युः** अध्वरस्य नेता **जुजुषाणः** देवान् प्रीणयन **ऊर्ध्वः** **अस्थात्** तिष्ठति । **होता** होमनिष्पादकः **प्रदिवः**। पुराणनामैतत् । पुरातनः **उराणः** स्वल्पमपि हविर्देवयोग्यत्वसंपादनेन उरु कुर्वाणः ।  ‘ उराण उरु कुर्वाणः' इति निरुक्तम् । यद्वै देवैर्जोष्यते हविस्तद्गिरिमात्रं वर्धते । इति श्रुतेः अग्नेरुरुकरणमुचितम् । ईदृशः **अग्निः** **पशुपा** **न** पशूनां पालक इव पशून् **त्रिविष्टि** त्रिरावृत्य **परि** **एति** । त्रिर्हि पर्यग्निः क्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Thrice circumambulates: paryagnistriveṣṭyeti, Agni goes round, having thrice returned, trir āvṛtya paryeti, or trirhi paryagniḥ kriyate, Agni is thrice made around, which would imply that the fire was thrice circumambulated; the next stanza, however, clearly shows that it is Agni who goes round, either the altar or the victim; perhaps, it is the latter: parito gacchati paśum
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once the ritual grass has been strewn and the fire kindled, the Adhvaryu  has stood upright, in delight.  
 Like a cowherd Agni circles around (the sacrificial animals) with triple  toil—he chosen as Hotar from of old.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When sacred grass is strewn and Agni kindled, the Adhvaryu rises to, his task rejoicing.  
      Agni the Priest, like one who tends the cattle, goes three times round, as from of old he wills it.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 After the sacrificial grass has been spread and the fire kindled, the delighted Adhvaryu has stationed himself upright. Agni, the Hotri, chosen from of old, goes round thrice, like a shepherd.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem ausgelegten Barhis vor dem entflammten Feuer steht aufrecht der Adhvaryu mit Wohlgefallen. Agni, der von alters her erwählte Hotri, wandelt dreimal herum wie ein Hirt um seine Herde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei fert'ger Streu und bei entflammtem Feuer stand aufrecht da erfreut der Opferdiener; Umher geht Agni dreimal wie ein Viehhirt, von Alters her als Priester auserwählet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда зажегся Агни, на разостланной соломе  
 Выпрямился адхварью, радуясь (обряду).  

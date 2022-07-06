@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ कवे꣡र् आदित्य꣡स्य स्वरा꣡जो  
 वि꣡श्वानि सा꣡न्ति अभि꣡ अस्तु मह्ना꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुकीर्ति꣡म् भिक्षे व꣡रुणस्य भू꣡रेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अति॑ । यः । म॒न्द्रः । य॒जथा॑य । दे॒वः । सु॒ऽकी॒र्तिम् । भि॒क्षे॒ । वरु॑णस्य । भूरेः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -128,38 +128,38 @@ genre M
 कवेः क्रान्तदर्शिनआदित्यस्य अदितेःपुत्रस्य स्वराजः स्वयमेवराजमानस्येश्वरस्यवा वरुणस्येदं हविःस्तोत्रंवा यजमानःकरोतीतिशेषः सचविश्वानिसर्वाणिसन्ति द्वितीयभावविकारभाञ्जिभूतजाता निमह्नामहिम्नावरुणप्रसादाल्लब्धेनअभ्यस्तु अभिभवतु योदेवोद्योतमानोवरुणः यजथाययष्ट्रेपुरुषा यअतिशयेनमन्द्रः स्तुत्योहर्षयितावाभवति तस्यभूरेर्भर्तुर्वरुणस्यसुकीर्तिंशोभनांस्तुतिं भिक्षेप्रार्थये यद्वा वरुणस्येतितृतीयार्थेषष्ठी तेनवरुणेनदातव्यांशोभनाङ्कीर्तिं अहंयाचे ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The worshipper repeats) this praise of the sage; the self-radiant **Āditya**; may he preside over all beings by his power; I beg for fame of the sovereign **Varuṇa**, a deity who, when much plural ased (is propitious) to hsi adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this belonging to the Āditya sage poet, the independent king,  dominate all existing things in its greatness—  
 
 (this belonging to) the god who excels as the pleasing one for the  sacrifice. I beg good renown of abundant Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 beg renown of Varuna the Mighty, the God exceeding kind to him who worships.  
 2, Having extolled thee. Varuna, with thoughtful care may we have high fortune in thy service,  
      Sinffing thy praises like the fires at coming, day after day, of mornings rich in cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Lied auf den weisen, selbstherrlichen Aditisohn soll alle vorhandenen an Größe übertreffen, der als Gott überaus angenehm zu verehren ist. Ich bitte um Ruhm vor dem reichen Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aditja's ist die Welt des weisen Herrschers, er überrage, was da ist, an Grösse; Des Gottes, den am liebsten man verehret, des Varuna, des reichen, Gunst erfleh' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это (восхваление) поэта, Адитьи, самодержца  
 Пусть превзойдет величием все существующие,  

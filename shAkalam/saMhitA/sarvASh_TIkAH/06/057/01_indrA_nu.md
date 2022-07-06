@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रा नु꣡ पूष꣡णा वयं꣡  
 सखिया꣡य सुअस्त꣡ये  
 हुवे꣡म वा꣡जसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हु॒वेम॑ । वाज॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrā* ← *indra*
 - \[noun\], accusative, dual, masculine
@@ -73,36 +73,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इतरेतरयोगात् इन्द्रपूषशब्दयोः उभयत्र द्विवचनम् । इन्द्रापूषणौ देवौ **नु** अद्य च **वयं** **स्वस्तये** **सख्याय** शोभनाय सखित्वाय **वाजसातये** वाजस्यान्नस्य बलस्य वा सातये संभजनाय च **हुवेम** आह्वयाम । स्तवाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, **Indra** and **Pūṣan**, for your friendship, for our well-being, and for the obtaining of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Pūṣan would we—for partnership, for well-being—  
 call upon—for prize-winning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA and Pusan will we call for friend ship and prosperity  
      And for the winning of the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Pusan wollen wir jetzt zur Freundschaft, zum Glück, zum Lohngewinnen anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst Indra, Puschan rufen uns zur Brüderschaft, zum Wohlergehn, Dass reiche Beute wir empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру и Пушана сейчас мы  
 Хотим призвать для дружбы,  

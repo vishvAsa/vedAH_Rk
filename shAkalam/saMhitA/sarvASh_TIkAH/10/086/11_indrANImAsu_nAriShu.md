@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्राणी꣡म् आसु꣡ ना꣡रिषु  
 सुभ꣡गाम् अह꣡म् अश्रवम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 न॒हि । अ॒स्याः॒ । अ॒प॒रम् । च॒न । ज॒रसा॑ । मर॑ते । पतिः॑ । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāṇīm* ← *indrāṇī*
 - \[noun\], accusative, singular, feminine
@@ -114,36 +114,36 @@ popular;; epic anuṣṭubh (525);; repeated line
 अथेन्द्राणीमिन्द्रः स्तौति । **आसु** सौभाग्यवत्तया प्रसिद्धासु **नारिषु** स्त्रीषु स्त्रीणां मध्ये **इन्द्राणीं** **सुभगां** सौभाग्यवतीम् **अहम्** इन्द्रः **अश्रवम्** अश्रौषम्। किंच **अस्याः** इन्द्राण्याः **पतिः** पालकः **विश्वस्मात्** **उत्तरः** उत्कृष्टतरः **इन्द्रः** **अपरं** **चन** अन्यद्भूतजातमिव **जरसा** वयोहान्या **नहि** **मरते** न खलु म्रियते । यद्वा । इदं वृषाकपेर्वाक्यम् । तस्मिन् पक्षे त्वहमिति शब्दो वृषाकपिपरतया योज्यः । अन्यत्समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra** speaks\]: I have heard that **Indrāṇī** is the most fortunate among these women, for her lordIndra, who is above all (the world), does ot die of old age like other (men).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have heard of Indrāṇī as (most) fortunate among these women. for never, even in the future, will her husband die of old age.  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So have I heard Indrani called most fortunate among these Dames,  
      For never shall her Consort die in future time through length of days. Supreme is Indra overall.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter diesen Herrinnen, so hörte ich, ist Indrani die Glückliche, denn nicht wird auch in Zukunft ihr Gemahl an Altersschwäche sterben." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn nie, auch in ferner Zukunft, stirbt ihr Gatte an Altersschwäche. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

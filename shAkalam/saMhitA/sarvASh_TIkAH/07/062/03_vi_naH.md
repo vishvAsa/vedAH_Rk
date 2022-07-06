@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ नः सह꣡स्रं शुरु꣡धो रदन्तु  
 ऋता꣡वानो व꣡रुणो मित्रो꣡ अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नः का꣡मम् पूपुरन्तु स्त꣡वानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यच्छ॑न्तु । च॒न्द्राः । उ॒प॒ऽमम् । नः॒ । अ॒र्कम् । आ । नः॒ । काम॑म् । पू॒पु॒र॒न्तु॒ । स्तवा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 **नः** अस्मभ्यं **शुरुधः** शुचेर्दुःखस्य प्रतिरोद्धारः **ऋतावानः** सत्यवन्तो वरुणादयः **सहस्रं** सहस्रसंख्याकं धनं **वि** **रदन्तु** वितरन्तु । अथवा शुरुध उक्तलक्षणाः सहस्रसंख्याका ओषधीः रदन्तु । किंच ते **चन्द्राः** आह्लादकारिणोऽस्मभ्यम् **उपमं** स्तुत्यम् **अर्कम्** अर्चनीयं **यच्छन्तु** । किंच **स्तवानाः** अस्माभिः स्तूयमानाः **नः** अस्माकं **कामम्** अपेक्षितं **पूपुरन्तु** पूरयन्तु । हे सूर्य त्वयानुज्ञाता इति सूर्यस्य स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Varuṇa**, **Mitra** and **Agni**, the alleviators of pain, the observers of truth, bestow upon us thousands(of riches); may they, the givers of delight, grant us excellent (food); glorified by us, many they fulfil our desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let those possessing the truth—Varuṇa, Mitra, and Agni—clear the way  to a thousand ritual gifts for us.  
 Let the glittering ones offer us the highest chant [/flame]. Being praised,  let them fulfill our wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May holy Agni, Varuna, and Mitra send down their riches upon us in thousands.  
      May they, the Bright Ones, make our praise-song perfect, and, when we laud them, grant us all our wishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tausend Gewinne sollen uns die wahrhaften Varuna, Mitra, Agni zukommen lassen. Die Schimmernden sollen uns das beste Loblied eingeben, und gepriesen sollen sie unseren Wunsch erfüllen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen schenken tausend Labetränke die heil'gen Agni, Varuna und Mitra, Und höchsten Glanz die glänzenden verleihn uns, und unsern Wunsch erfüllen die gepries'nen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть нам пробьют тысячу вознаграждений  
 Преданные закону Варуна, Митра, Агни!  

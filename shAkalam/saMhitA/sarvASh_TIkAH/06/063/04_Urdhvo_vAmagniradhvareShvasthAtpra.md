@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ वाम् अग्नि꣡र् अध्वरे꣡षु अस्थात्  
 प्र꣡ राति꣡र् एति जूर्णि꣡नी घृता꣡ची  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡युक्त यो꣡ ना꣡सतिया ह꣡वीमन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । होता॑ । गू॒र्तऽम॑नाः । उ॒रा॒णः । अयु॑क्त । यः । नास॑त्या । हवी॑मन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 **अग्निः** **वां** युवयोर्यज्ञार्थम् **ऊर्ध्वः** **अस्थात्** उदतिष्ठत् । **अध्वरेषु** यज्ञेषु **प्र** **एति** समिद्ध आहवनीयं गच्छति च । **रातिः** धनं हविः **जूर्णिनी** प्रगामिनी ।  ‘ जूर्णिर्जवतेर्वा ( निरु. ६. ४ । इत्ति यास्केनोक्तत्वात् । **घृताची** घृतेनाक्ता! उपस्तीर्णाभिघारितेत्यर्थः । किंच **होता** **उराणः** उरु कुर्वाणः **प्र** **गूर्तमनाः** प्रकर्षेणोद्युक्तमनाः भवति **यः** होता नासत्या अश्विनौ **हवीमन्** आह्वाने स्तोत्रे वा **अयुक्त** योजयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is above for you; he is present at (your) sacrifices; the oblation flows diffusive and redolent of ghī; diligent and zealous is the ministrant priest who is engaged, **Nāsatyās**, in your invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fire has stood upright for you at the ceremonies. The gift goes forth,  glowing, covered in ghee;  
 forth the chosen Hotar whose thought is welcomed, who has yoked the  Nāsatyas at his call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ‘gift’ (rātí-) in b is the ladle containing the ghee. Renou points to passages (III.19.2, IV.6.3) where the ladle is described as rātín- ‘possessing/providing gifts’.
 
@@ -147,23 +147,23 @@ In d Geldner takes áyukta as passive, with the Hotar as subj. and nā́satyā a
 of a loc. inf. hávīman: “der eingespant is, die Ns zu laden.” The pass. interpr. is explicitly rejected by both Oldenberg and Renou, in favor of a rendering like mine. Although Geldner’s interpr. is appealing in certain ways, there are several things against it: 1) the well-attested mid. root aor. of √yuj is almost always transitive (pass. áyukta in V.17.3, I.48.7) -- there is after all a distinct passive aor. áyoji, áyujran to express this function; 2) I know of no instances (nor does Oldenberg) in which loc. hávīman(i) functions as an infin. and takes an object.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni uplifts him at your sacrifices: forth goes the oblation dropping oil and glowing.  
      Up stands the grateful-minded priest, elected, appointed to invoke the two Nasatyas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Feuer ist bei euren Opfern emporgestiegen, die Gabe naht, der brennbare Schmalzlöffel. Es tritt der erwählte Hotri auf, löblichen Denkens, der eingespannt ist, die Nasatya´s zu laden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Errichtet steht bei euren Opfern Agni, vorgeht die Spende butterreich und glühend; Der holdgesinnte Priester, der erwählte, der euch, die treuen, zu dem Anruf lenkte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прямо поднялся для вас огонь во время обрядов.  
 Продвигается дар – окруженная пламенем ложка с расплавленным жиром.  

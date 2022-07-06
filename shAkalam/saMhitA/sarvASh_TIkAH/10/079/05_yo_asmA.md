@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अस्मा अ꣡न्नं तृषु꣡ आद꣡धाति  
 आ꣡जियैर् घृतइ꣡र् जुहो꣡ति पु꣡ष्यति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने विश्व꣡तः प्रतिअ꣡ङ्ङ् असि त्व꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । स॒हस्र॑म् । अ॒क्षऽभिः॑ । वि । च॒क्षे॒ । अग्ने॑ । वि॒श्वतः॑ । प्र॒त्यङ् । अ॒सि॒ । त्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -122,36 +122,36 @@ genre M
 **यः** यजमानः **अस्मै** अग्नये **तृषु** क्षिप्रम् **अन्नम्** **आदधाति** करोति आज्यैर्घृतैः क्षरद्रूपैः दीप्तैर्वा सोमरसैः **जुहोति** **पुष्यति** पुष्णाति चैनं काष्ठैः **तस्मै** । तमित्यर्थः । तं **सहस्रं** सहस्रसंख्याकैः **अक्षभिः** अक्षिस्थानीयाभिरपरिमिताभिर्ज्वालाभिः **वि** **चक्षे** विचष्टे विपश्यति । अथ प्रत्यक्षकृतः । हे **अग्ने** **त्वं** **विश्वतः** सर्वतः **प्रत्यङ्ङसि** प्रत्यगञ्चनो भवसि । अस्मदानुकूल्येन प्रवर्तमानो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who quickly offers him food, makes oblations to him with dripping **Soma**, and delights him (withfood); (**Agni**) looks upon him with a thousand eyes; you, Agni, are everywhere present.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever sets out dry food for him, pours oblations with melted butter  and ghee for him, and prospers (him),  
 for that (man) you gaze afar with your thousand eyes. Agni, you face in  every direction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This man who quickly gives him food, who offers his gifts of oil and butter and supports him, -  
      Him with his thousand eyes he closely looks on: thou showest him thy face from all sides, Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihm dürre Speise, das Holz, zulegt, ihm Fett und Schmalz opfert, ihn füttert, dem blickst du aus tausend Augen; o Agni, nach allen Seiten kehrst du dein Gesicht zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ihm voll regen Eifers Speise darbringt, mit Schmalz und Butter opfert, der gedeihet, Den schaust du, Agni, an mit tausend Augen, von allen Seiten strahlst du dem entgegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ему охотно подкладывает пищу,  
 Возливает масло (и) жир, кормит (его),  

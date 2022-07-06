@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡न् मे अ꣡भ्वं वन꣡दः प꣡नन्त  
 उशि꣡ग्भियो न꣡ अमिमीत व꣡र्णम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जुजुर्वाँ꣡ यो꣡ · मु꣡हुर् आ꣡ यु꣡वा भू꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । चि॒त्रेण॑ । चि॒कि॒ते॒ । रम्ऽसु॑ । भा॒सा । जु॒जु॒र्वान् । यः । मुहुः॑ । आ । युवा॑ । भूत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,20 +128,20 @@ genre M
 यत् यस्याभ्वं महत्त्वम्मेममसम्बन्धिनोवनदः सम्भक्तारः यद्वा वनदःअवनदः भृशंशब्दयन्तः स्तोता- रः अवशब्दोभृशार्थवाचीतत्पूर्वान्नदेःक्विप् अवाप्योरित्यकारलोपः आपनन्त समन्तात् स्तुवन्ति सो- ग्निरुशिग्भ्योस्मदीयंरूपङ्कामयमानेभ्यः ऋत्विग्भ्योवर्णं स्वसदृशंरूपन्नामिमीत नशब्दश्चार्थे निर्मिमी- तेच रंसु रमणीयेष्वाज्यादिहविःषुनिमित्तेषु चित्रेणभासाकनकादिनानावर्णया दीप्त्याचिकिते विज्ञा- यते किञ्च योग्निःजुजुर्वान् जीर्णःसन् ज्वालोपशमेसएवमुहुःपुनःपुनः आयुवासर्वतोमिश्रयितातरुणो- वाभूत् भवतिपुनराज्यादिसंयोगात् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whose greatness my colleagues loudly extol; who has manifested his real form to the priests; who is recognized at oblations by his variegated radiance, and who, though frequently growing old, again and again becomes young.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The formless mass [=smoke] of the wood-eater that they (first) marveled  at to me, (that) color he changed as if for the fire-priests:  
 he is (now) perceived in delight with his bright light, he who, having  grown old, in an instant has become young.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. describes the changes in color and form of the kindled fire as a sight to be wondered at. My tr. follows Geldner’s in outline and many details. The first sight is of the shapeless dark cloud of smoke (a), but that transforms into color and bright light (bc). On ábhva- see my forthcoming “The Blob in Ancient India” (UCLA CMRS 2015 dragon conf. vol.), and for a parallel passage (also adduced by Geldner) VI.4.3 … yásya panáyanty ábhvam, bhā́sāṃsi vaste sū́ryo ná śukráh “He whose formless mass [=smoke] they [=mortals] marvel at …, he (then) clothes himself in lights, like the brilliant sun,” which seems to show parallel progress from dark to light and also contains a form of bhās- as here.
 
@@ -154,28 +154,28 @@ For ráṃsu as adverbial loc. pl. to the root noun ráṇ- see Schindler Rt. No
 The last pāda describes the graying of the ash (“having grown old”) and then the rejuvenation of the flames presumably by the addition of more firewood.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Since they who honour me have praised my greatness,-he gave, as 'twere, his hue to those who love him.  
      Known is he by his bright delightful splendour, and waxing old renews his youth for ever.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When they praised 1 to me the monstrous might of the eater of the forests 2, he produced his (shining) colour as (he has done) for the Usigs 3. With shining splendour he has shone joyously, he who having grown old has suddenly become young (again).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was sie mir als unheimliche Erscheinung des Holzfeuers rühmen, er hat diese Farbe wie für die Usij vertauscht. Er prangt in prangendem Glanz in Fröhlichkeit, er der alt geworden alsbald jung wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als meine Freunde angestaunt das Dunkel, verbarg er nicht den Heischenden sein Glänzen; Mit hellem Lichte glänzt er bei den Opfern, der alt geworden plötzlich wieder jung ward.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот та) чудовищная мощь пожирателя деревьев, о которой они мне восхищенно говорили, –  
 Как для ушиджей, он изменил (свой) вид:  

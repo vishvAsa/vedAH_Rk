@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवः क꣡र्तना श्रुष्टि꣡म् अस्मै  
 व꣡ने नि꣡पूतं व꣡न उ꣡न् नयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय सो꣡मम् मदिरं꣡ जुहोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जु॒षा॒णः । हस्त्य॑म् । अ॒भि । वा॒व॒शे॒ । वः॒ । इन्द्रा॑य । सोम॑म् । म॒दि॒रम् । जु॒हो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -121,36 +121,36 @@ genre M
 हेअध्वर्यवः अस्माइन्द्रायसोमंश्रुष्टिंसुखकरङ्कर्तनकुरुत कोतेर्लोटिबहुलञ्छ्दीतिविकरणस्यलुक् तप्त- नप्तनथनाश्चेतितनबादेशः आमन्त्रितस्याविद्यमानत्वान्ननिघातः किञ्च वनेसम्भजनीयेवनेउदकेनिपूत- माप्यायनेनशोधितसोममुन्नयध्वंऊर्ध्वन्नयत यद्वा वनेतद्विकारेचमसेनिपूतन्दशापवित्रेणशोधितंसोमं वनेचम्से उन्नयध्वं जुषाणः प्रीयमाणः सइन्द्रः वोयुष्महस्त्यंहस्ताभ्यामभिषुतंसोमंअभिवावशे काम- यते वश्कान्तौ यङ्लुगन्तस्यलटिव्यत्ययेनात्मनेपदं लोपस्तआत्मनेपदेष्वितितलोपः मदिरम्मदकरमि- मंसोमंइन्द्रायजुहोतन्द्रोद्देशेनाग्नौप्रक्षिपत ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, offer to him the prompt (libation); lift it up, purified with water, in the ladle; well plural ased, he desires it from your **hand**; present the exhilarating **Soma** to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Act in obedience to him! Lead upward in the wood [=the  soma cup] what is purified downward in the wood [=the soma vat]!  
 Being pleased, he has bellowed toward your handiwork. To Indra offer  the exhilarating soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do ye, O ministers, obey his order: that purified in wood, in wood uplift ye.  
      Well pleased he longs for what your hands have tended: offer the gladdening Soma juice to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Erweiset ihm Gehorsam, schöpfet den im Holzgefäß Geläuterten in den Holzbecher ! Mit Wohlgefallen verlangt er nach dem Soma in eurer Hand - dem Indra opfert den berauschenden Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, schaffet euch Gehör bei diesem, und schöpfet den geklärten aus der Kufe; Froh jauchzt er zu dem Saft, den ihr gepresst habt; dem Indra giesset ein des Soma Rauschtrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Будьте ему послушны!  
 Очищенного в деревянном (сосуде) черпайте деревянным (ковшом)!  

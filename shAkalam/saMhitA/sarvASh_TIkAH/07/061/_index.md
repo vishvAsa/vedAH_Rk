@@ -8,7 +8,7 @@ title = "+061"
 “उद्वां चक्षुः' इति सप्तर्चं षष्ठं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं मैत्रावरुणम्। 'उद्वां सप्त ' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 61 (577)  
 Mitra and Varuṇa  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ना समुद्र꣡म् अ꣡सृजो मही꣡र् अप꣡स्  
 त꣡द् इन्द्र वृ꣡ष्णि ते श꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 यं꣡ क्षोणी꣡र् अनुचक्रदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒द्यः । सः । अ॒स्य॒ । म॒हि॒मा । न । स॒म्ऽनशे॑ । यम् । क्षो॒णीः । अ॒नु॒ऽच॒क्र॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
@@ -121,7 +121,7 @@ genre M
 हे **इन्द्र** **येन** आत्मीयेन बलेन **समुद्रम्** अब्धिं प्रति **महीः** महतीः **अपः** उदकानि **असृजः** व्यसृजः । महान् समुद्रो यावद्भिर्जलैः पूर्यते तावन्ति जलानि पुरा त्वं सृष्टवानित्यर्थः । **ते** त्वदीयं **तत्** **शवः** बलं **वृष्णि[१]** वर्षकम् । अभीष्टफलदमित्यर्थः । **अस्य** इन्द्रस्य **सः** **महिमा** **न** ”संनशे न सम्यगापनीयः । परैरप्रधृष्य इत्यर्थः। नशेः कृत्यार्थे केन्प्रत्ययः । **यं** महिमानं **क्षोणीः** क्षोणी पृथिवी **अनुचक्रदे** अनुगच्छति । क्रदिरत्र गत्यर्थः । यदधीना वर्तत इत्यर्थः ॥ ॥२६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ genre M
 Such is your wish-fulfilling: or, that your strengthwherewith... is wish-fulfilling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With which you sent the great waters surging to the sea, that is your  bullish vast power, Indra.  
 In a single day that greatness of his cannot be fully attained, toward  which the battle-cry has roared.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For vṛ́ṣṇi and the phrase vṛ́ṣṇi te śávaḥ see disc. ad VIII.96.19.
 
@@ -159,23 +159,23 @@ In 9c a verb needs to be supplied. Although the sentiment seems to be essentiall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith thou sentest mighty waters to the sea, that, Indra, is thy manly strength.  
      For ever unattainable is this power of him to whom the worlds have cried aloud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das, Indra, ist deine Bullenkraft, mit welcher du die großen Gewässer zum Meere laufen ließest. Nicht an einem Tage ist diese seine Macht zu erreichen, hinter dem seine Heerschar herbrüllte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Manneskraft, mit der du, Indra, in das Meer der Wasser Schwall ergossen hast, Erreichet niemand, noch auch dessen Grösse je, dem Wasserflut entgegenrauscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это, о Индра, твоя бычья сила,  
 С помощью которой ты выпустил течь в море великие воды.  

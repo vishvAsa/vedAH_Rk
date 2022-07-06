@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ वाजी꣡ हवते वाजिनेयो꣡  
 महो꣡ वा꣡जस्य ग꣡धियस्य सातउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवां꣡ चष्टे मुष्टिहा꣡ गो꣡षु यु꣡ध्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । वृ॒त्रेषु॑ । इ॒न्द्र॒ । सत्ऽप॑तिम् । तरु॑त्रम् । त्वाम् । च॒ष्टे॒ । मु॒ष्टि॒ऽहा । गोषु॑ । युध्य॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -122,21 +122,21 @@ genre M
 **वाजी** हविर्लक्षणान्नवान् **वाजिनेयः** वाजिन्याः पुत्रो भरद्वाजो हे इन्द्र **त्वां** **गध्यस्य** सर्वैः प्राप्यस्य **महः** महतः **वाजस्य** अन्नस्य **सातौ** लाभे निमित्ते **हवते** स्तौति । अपि च हे **इन्द्र** **सत्पतिं** सज्जनानां पालकं **तरुत्रं** दुर्जनानां तारकं **त्वां** **वृत्रेषु** उपद्रवेषु निमित्तेषु भरद्वाजो हवते । **मुष्टिहा** मुष्टिबलेन शत्रूणां हन्ता **गोषु** निमित्तभूतासु **युध्यन्** शत्रुभिः सह युद्धं कुर्वन् भरद्वाजः **त्वां** **चष्टे** पश्यति । प्रतिपालयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The son of **Vājini**, (**Bharadvāja**), offering (sacrificial) viands, invokes you for (the sake of) acquiring obtainable and abundant food; (he invokes) you, **Indra**, the preserver of the good, the defender (from the wicked), when enemies (assail him); he depends upon you when, lifting up his fist, he is fighting for (his) cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you does the prizewinner, son of a prizewinner, call, at the winning of  the great prize to be secured,  
 to you, Indra, the surpassing master of settlements, when there are  
 obstacles; to you does the fist-fighter look as he fights for cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax vājineyáḥ is somewhat surprising, because the -eyá-suffix generally builds metronymics (AiG II.2.505-11), and so it should mean ‘son of a female prize-winner / of a prize-winning mare’ -- a feminine connection that would be particularly surprising if it’s meant as a reference to the Bharadvāja family.
 
@@ -160,23 +160,23 @@ As noted in the published introduction, the 1st two vss. play on the word vā́j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The warrior, son of warrior sire, invokes thee, to gain great strength that may be won as booty:  
      To thee, the brave man's Lord, the fiends' subduer, he looks when fighting hand to hand for cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich ruft der Beutemacher, der Sohn des Beutemachers, um deckenhohe Beute zu gewinnen, dich, Indra, in der Feindeschlacht als den wahren Herren, den Überwinder. Auf dich schaut der Faustkämpfer, der um die Kühe kämpft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich ruft der Held, aus Heldenstamm entsprossen, an um Erlangung grosser, werther Beute, Dich tapfern Herrn und Sieger in den Schlachten; der Ringer blickt auf dich, um Kühe kämpfend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя призывает обладатель награды, сын обладателя награды,  
 К захвату великой награды, наполняющей колесницу,  

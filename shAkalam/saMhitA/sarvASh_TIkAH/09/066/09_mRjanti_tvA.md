@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मृज꣡न्ति त्वा स꣡म् अग्रु꣡वो  
 अ꣡व्ये जीरा꣡व् अ꣡धि ष्व꣡णि  
 रेभो꣡ य꣡द् अज्य꣡से व꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रे॒भः । यत् । अ॒ज्यसे॑ । वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **अग्रुवः** । अङ्गुलिनामैतत् । अजन्ति प्रक्षिपन्ति हवींष्यग्नाविति । यद्वा अगेर्गत्यर्थस्य । कर्मकरणार्थमितस्ततो गच्छन्तीति । अग्रुवोऽङ्गुलयोऽस्मदीयाः **जीरौ** पापानामभिभावुके क्षिप्रं कृते वा **स्वनि** **अधि** अधिकं शब्दायमाने **अव्ये** अविवालेन कृते पवित्रे **त्वा** त्वां तदा **सं** **मृजन्ति** सम्यक् शोधयन्ति । **यत्** यदा **रेभः** । ‘ रेभृ शब्दे । उदकमध्ये प्रक्षेपेण शब्दायमानस्त्वं **वने** वननीये वसतीवर्याख्य उदके **अज्यसे** अक्तः सिक्तो भवसि । तदा मृजन्तीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In the quickly-made filter: Or, in the filter which overcomes guilt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They groom you together, the unwed ones, on the sheep’s *back, in the  lively (water),  
 when, hoarse-voiced [/creaking], you are anointed [/greased] in the  wood(en cup).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since they are grooming (√mṛj) him, the ‘unwed ones’ (agrúvaḥ) are probably here the fingers, continuing the fem. pl. agent but modulating from streams to fingers (whose number is not specified here).
 
@@ -133,23 +133,23 @@ No particular sign of cohesion either internal or external.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The virgins deck thee o'er fresh streams to drive thee to the sieve when thou,  
      A singer, bathest in the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es putzen dich gemeinsam die Jungfrauen in der Wollseihe im fließenden Wasser unter Gebrause, wenn du, der Barde, in der Holzkufe gesalbt wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es reinigt dich der Jungfraun Schar im Strom, der durch die Wolle rauscht, Wenn man ins Holz dich Sänger führt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

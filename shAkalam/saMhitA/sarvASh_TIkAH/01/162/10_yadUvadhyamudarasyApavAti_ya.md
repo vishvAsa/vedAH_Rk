@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ऊ꣡वध्यम् उद꣡रस्यापवा꣡ति  
 य꣡ आम꣡स्य क्रवि꣡षो गन्धो꣡ अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ मे꣡धं शृतपा꣡कम् पचन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सु॒ऽकृ॒ता । तत् । श॒मि॒तारः॑ । कृ॒ण्व॒न्तु॒ । उ॒त । मेध॑म् । शृ॒त॒ऽपाक॑म् । प॒च॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -138,7 +138,7 @@ popular
 **उदरस्य** संबन्धि **यत्** **ऊवध्यम्** ईषज्जीर्णं तृणं पुरीषम् **अपवाति** अपगच्छति । **यः** च **आमस्य** अपक्वस्य **क्रविषः** मांसस्य **गन्धः** अस्ति लेशोऽस्ति । पाकस्य समये यत्किंचिदूवध्यमपक्वस्य च लेशोऽस्ति आमगन्धोऽस्ति । **तत्** सर्वं **शमितारः** विशसनकर्तारः **सुकृता** **कृण्वन्तु** सुकृतम्' उक्तदोषरहितं कुर्वन्तु । **उत** अपि च **मेधं** मेध्यं यज्ञार्हं पश्ववयवं **शृतपाकं** देवयोग्यपाकोपेतं यथा भवति तथा **पचन्तु** पितृमनुष्यादियोग्यम् अतिपक्वम् ईषत्पक्वं च मा कुर्वन्त्वित्यर्थः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,28 +149,28 @@ popular
 Particle: gandhan = **leśaḥ**, a little part; may be perfectly dressed: medham śṛtapākam pacantu = let them cook the pure flesh with perfect cooking; i.e. make it fit for the gods, and not done toomuch or toolittle, as may be fit for **pitṛs** and men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The contents of his belly that bloats up, the odor of his raw flesh— let the Queller-priests make that well-done and let them cook the ritual  offering until it’s cooked to readiness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Food undigested steaming from his belly, and any odour of raw flesh remaining,  
      This let the immolators set in order and dress the sacrifice with perfect cooking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Speiserest in seinem Leib, der ausdünstet, der Geruch seines rohen Fleisches, das alles sollen die Zurichter zurecht machen und sie sollen das Opfertier gar kochen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was die Gedärme des Bauches ausdünsten, welches der Duft des rohen Fleisches ist, das mögen die Schlächter schön zurecht bringen, und mögen den Opfertrank gar kochen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) оставшаяся в животе пища, которая пахнет,  
 (Тот) запах, который издает сырое мясо, –  

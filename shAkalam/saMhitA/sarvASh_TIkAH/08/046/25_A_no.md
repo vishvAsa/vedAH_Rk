@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो वायो महे꣡ त꣡ने  
 याहि꣡ मखा꣡य पा꣡जसे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सद्य꣡श् चिन् म꣡हि दाव꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । हि । ते॒ । च॒कृ॒म । भूरि॑ । दा॒वने॑ । स॒द्यः । चि॒त् । महि॑ । दा॒वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,41 +128,41 @@ genre M
 हे **वायो** त्वं **नः** अस्मान् प्रति **आ** **याहि** आगच्छ । किमर्थम् । **महे** महते **तने** धनाय **मखाय** महनीयाय **पाजसे** बलाय च । उभयं प्रदातुमित्यर्थः । किमत्रास्तीति तदुच्यते । **वयं** **हि** वयं खलु **ते** **भूरि** **दावने** प्रभूतधनदात्रे **चकृम** स्तुतिं हविर्वा । **सद्यश्चित्** तदानीमेव तवागमनानन्तरमेव चकृम **महि** महतो धनस्य **दावने** दात्रे ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, **Vāyu**, to bestow great wealth and glorious strength; we have offered (libations) to you thegiver of abundant (wealth), we have offered immediately to you the giver of great (gifts).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vāyu, drive here to us for the extension and the spread (of our line) to  be great and for bounty.  
 For we have performed (a sacrifice) for you, for you to give much, to  give greatly all at once.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take táne and pā́jase as complementary concepts, vertical and horizontal - our descendants and our synchronic extension.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come thou to this great rite of ours, Vayu! to give us vigorous light.  
      We have served thee that thou mightest give much to us, yea, mightest quickly give great wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns, Vayu, zu großer Lebensdauer, zur Freigebigkeit und zu leibhaftiger Erscheinung, denn wir haben dir ein Opfer bereitet, daß du viel schenkest, daß du sofort tüchtig schenkest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu langer Dauer uns, dem Kämpfer, Vaju, recht zur Kraft, Wir dienten dir, damit du viel uns schenken sollst, recht grosses du uns schenken sollst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам, о Ваю, для великого потомства  
 Приходи, для щедрого тела!  

@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वैर् देवइ꣡स् त्रिभि꣡र् एकादशइ꣡र् इह꣡  
 अद्भि꣡र् मरु꣡द्भिर् भृ꣡गुभिः सचाभु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 सो꣡मम् पिबतम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । सोम॑म् । पि॒ब॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvair* ← *viśvaiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
@@ -108,36 +108,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **विश्वेदेवैस्त्रिभिरेकादशैः** त्रयस्त्रिशैः **इह** यज्ञे **अद्भिः** **मरुद्भिः** **भृगुभिः** । च **सचाभुवा** सहभूतौ **उषसा** **सूर्येण** च संगतौ युवां **सोमं** पिबतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associated with all the thrice-eleven deities at this ceremony, with the waters, with the **Maruts**, with theBhṛgus, united with the dawn and with **Sūrya**, drink, **Aśvins**, the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With all the gods, three times eleven, here in comradeship with the  Waters, the Maruts, and the Bhr̥gus,  
 in concert with Dawn and the Sun, drink the soma, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all the Deities, three times eleven, here, in close alliance with the Maruts, Bhrgus, Floods;  
      Accordant, of one mind with Surya and with Dawn, O Asvins, drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit allen Gedanken, den dreimal elfen, mit den Gewässern, den Marut, Bhrigu´s, mit den Bergen hier vereint, einträchtig mit Usas und Surya trinket beide den Soma, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Göttern dreimal elf an Zahl allhier, mit Wassern, Maruts und den Bhrigu's im Verein, Mit Morgenroth und Sonne in Gemeinschaft trinkt, o Ritter ihr, den Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со всеми богами (числом) трижды одиннадцать,  
 С водами, Марутами, Бхригу здесь объединенные,  

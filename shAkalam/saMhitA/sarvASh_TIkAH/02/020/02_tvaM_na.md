@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ न इन्दर+ तुवा꣡भिर् ऊती꣡  
 तुवायतो꣡ अभिष्टिपा꣡सि ज꣡नान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इत्था꣡आधीर् अभि꣡ यो꣡ न꣡क्षति त्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । इ॒नः । दा॒शुषः॑ । व॒रू॒ता । इ॒त्थाऽधीः॑ । अ॒भि । यः । नक्ष॑ति । त्वा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,36 +124,36 @@ genre M
 हेइन्द्र त्वन्त्वाभिःत्वदीयाभिरूती ऊतिभिः पालनादिभिःनोस्मान् पाहि किञ्च त्वायतः सुपआ- त्मनः क्यच् शतुरनुमइतिविभक्तेरुदात्तत्वं त्वत्कामान् जनान् अभिष्टिपा सुपांसुलुगितिसोराकारः अभिश्ख्टयोभिगन्तारः शत्रवः तेभ्यः पातारक्षकोसिभवसि दाशुषोहविर्दत्तवतोयजमानस्यत्वमिनः ईश्वरःखलु वरूता ग्रसितस्कभितेतिनिपातनादीकारस्यऊकारः बाधकानान्निवारकोसि किञ्च त्वन्त- स्यस्तोतुरित्थाधीः एवंविधोपद्रवोपशमरूपकर्मासि यस्त्वात्वामभिनक्षति हविषापरिचरति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Defend us), **Indra**, with your protections, for you are the defender against enemies of those men who rely upon you; you are the lord of the offerer (of the libation) and the repeller (of foes), and with these acts (protect) him who worships you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, with your help are by your dominance the protector of us,  the people devoted to you.  
 You are the forceful guardian of the pious man, who, possessed of right  insight, attains you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, thou art our own with thy protection, a guardian near to men who love thee truly,  
      Active art thou, the liberal man's defender, his who draws near to thee with right devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist, Indra, mit deinen Hilfen ein überlegener Schützer für uns Leute, die dir ergeben sind. Du bist der gewaltige Verteidiger des Spenders der in solcher Absicht dir naht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schützest uns durch deine Hülfen, Indra, bist Beistand uns, den Männern, die dich lieben, Du bist der starke Schutz und Schirm dem Frommen der recht voll Andacht betend dir sich nahet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты для нас, о Индра, с твоими поддержками –  
 Превосходный хранитель людей, преданных тебе.  

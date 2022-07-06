@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रा꣡य प꣡ञ्च येमिरे  
 ज꣡ना अभि꣡ष्टिशवसे  
 स꣡ देवा꣡न् वि꣡श्वान् बिभर्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सः । दे॒वान् । विश्वा॑न् । बि॒भ॒र्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
@@ -85,41 +85,41 @@ genre M
 **पञ्च** **जना** निषादपञ्चमाश्चत्वारो वर्णाः **अभिष्टिशवसे** शत्रूणामभिगन्तृबलयुक्ताय **मित्राय** **येमिरे** हवींष्युद्यच्छन्ति । **सः** तादृशो मित्रः **विश्वान्** सर्वान् **देवान्** **बिभर्ति** । स्वस्वरूपतया धारयति ॥ अभिष्टिशवसे । इषेः ' मन्त्रे वृष ' इत्यादिना क्तिन् ।' तादौ च निति' इत्यभेः अन्तोदात्तत्वम् । शकन्ध्वादित्वात् पररूपत्वम् । बहुव्रीहौ पूर्वपदस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The five classes of men have repaired to the victorious **Mitra**, for he supports all the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Mitra with his power to dominate do the five peoples submit;  
 he bears all the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All the Five Races have repaired to Mitra, ever strong to aid,  
      For he sustaineth all the Gods.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The peoples five submission yield To Mitra ever strong to aid 'Tis he who all the gods sustains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Mitra sind die fünf Völker ergeben, dessen Macht überlegen ist. Er trägt alle Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem hülfestarken Mitra sind die fünf Geschlechter unterthan, Er trägt die Götter allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митре, чья сила – в помощи,  
 Покорились пять народов.  

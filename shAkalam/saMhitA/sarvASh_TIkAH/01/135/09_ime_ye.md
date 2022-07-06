@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ ये꣡ ते सु꣡ वायो बाहु꣡ओजसो  
 अन्त꣡र् नदी꣡ ते पत꣡यन्ति उक्ष꣡णो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 ह꣡स्तयोर् दुर्निय꣡न्तवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 सूर्य॑स्यऽइव । र॒श्मयः॑ । दुः॒ऽनि॒यन्त॑वः । हस्त॑योः । दुः॒ऽनि॒यन्त॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -164,7 +164,7 @@ genre M
 हे **सु** **वायो** शोभनफलप्रद वायुदेव **ते** तव स्वभूताः **इमे** पुरतो दृश्यमानाः **ये** अश्वाः सन्ति **ते** **नदी** नदने द्यावापृथिव्यौ **अन्तः** तयोरन्तराले तं त्वां **पतयन्ति** पातयन्ति गमयन्ति । यद्वा । ते तव संबन्धिनोऽश्वाः पतयन्ति पतन्ति यज्ञदेशं गच्छन्ति ॥ ‘पत गतौ ' । चौरादिरदन्तः ॥ कीदृशास्ते । **बाह्रोजसः** बाहुषु प्रकृष्टबलवन्तः । उपलक्षणमेतत् । सर्वाङ्गबला इत्यर्थः । किंच **उक्षणः** सेक्तारः। युवान इत्यर्थः । **महि** महदतिप्रभूतं **व्राधन्तः** वर्धमानाः तथा **उक्षणः** उक्षाणः तत्सदृशाः इत्यर्थः ॥‘वा षपूर्वस्य निगमे ' इति दीर्घाभावः ॥ किंच **धन्वन्** **चित्** धन्वनि उदकनिर्गमनापादानभूतेऽन्तरिक्षेऽपि निरालम्बे **अनाशवः** नाशरहिता अव्याप्ता वा । आकाशे विलम्बमकुर्वाणा इत्यर्थः । अत एव" **जीराश्चित्** । चिच्छब्दः पूजायाम् । अत्यन्तं क्षिप्रगतयः । यद्वा । अनाशवः इत्यनेन सह समुच्चयार्थश्चिच्छब्दः । आकाशमार्गेऽक्षीणाः शीघ्रगतयश्चेत्यर्थः । किंच **अगिरौकसः** । गिरा ओकः स्थानं येषां नास्ति ते तादृशाः । भर्त्सनादिना स्थितिमलभमाना इत्यर्थः ॥ छान्दसः तृतीयाया अलुक् ॥ तदेव स्पष्टयति । **सूर्यस्य** **रश्मयः** इव दुर्नियन्तवः दुःखेन नियन्तव्याः । ते यथा क्षणेन दश दिशो व्याप्नुवन्ति बहवश्व तद्वदेतेऽपीत्यर्थः । पूर्वं गिरा अनिर्ग्राह्यत्वमुक्तम् । इदानीं हस्तेनापि अनिर्ग्राह्यत्वमाह । **हस्तयोः** **दुर्नियन्तवः** उभाभ्यामपि हस्ताभ्यां दुःखेन नियन्तव्याः देवयजनगमनाय शीघ्रगामिन इत्यर्थः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -175,38 +175,38 @@ genre M
 Unretarded by reviling: agiraukasaḥ = lit. having no dweling by speech; i.e. they are not brought to a stop by abusive speech of the like, bhartsnādinā sthitim alabhamānāḥ; hastayor dur-niyantavaḥ, difficult to be checked by both **hands**, or by physical force; they are not to be deterred by words, such as voḥ voḥ; or by pulling up the rains, from coming to the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here, o Vāyu, are those oxen of yours [=soma drinks? Maruts?],  
 arm-strong, which fly in the river—the oxen that are greatly arrogant— that are not swift though on dry land, yet are nimble in the mountains  though their home is not there,  
 like the reins [=rays] of the sun difficult to hold back—difficult for the  hands to hold back.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The references here are also murky, but I am inclined to see the plural referents as both Maruts and soma drinks. In favor of the Maruts: 1) they are called bāhv-òjas -in VIII.20.6; 2) they are sometimes called ukṣán- (e.g., V.52.3); 3) the non-waning cows of 8ef are also found in the Marut hymn V.55.5 ná vo dasrā úpa dasyanti dhenávaḥ; 4) they fly (e.g. V.59.7), and they're associated with the shaking of mountains and the flowing of rivers (flying in the river could be rain); 5) approaching the figtree in 8b might be like V.54.12, where they “shake the gleaming berry (píppalam)” -- the pippala is supposed to be a fig.
 
 nadī́is one of the rare loc. sg.s to a vṛkī́-fem.; see sarasī́in VIII.103.2, gaurī́ in IX.12.3, and AiG III.170.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Bulls of thine, O Vayu with the arm of strength, who swiftly fly within the current of thy stream, the Bulls increasing in their might,  
      Horseless, yet even through the waste swift-moving, whom no shout can stay,  
      Hard to be checked are they, like sunbeams, in their course. hard to be checked by both the hands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sind fein deine beinstarken Stiere, o Vayu, die im Flusse fliegen, die mächtig sich reckenden Stiere, die auch im Steppenlande nicht schnell, und doch im Gebirge gar flink sind, obwohl im Gebirge nicht zu Hause, die schwer zu regieren sind wie die Zügel der Sonne, in den Händen schwer zu regieren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Helden stark an Armen, die du, Vaju, hast, die zwischen beiden Weltenströmen fliegen hin, die Helden gross und stark an Kraft, Die ohne Rosse eilen doch in schneller Fahrt und ohne Rast, Sie sind unhemmbar wie der Sonne Strahlen stets, man hemmt sie mit den Händen nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те твои, что с очень сильными передними ногами,  
 Они в реке летают, быки,  

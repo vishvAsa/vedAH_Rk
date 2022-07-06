@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡तो नु꣡ अद्य꣡ सुधि꣡यो भ꣡वाम  
 प्र꣡ दुछु꣡ना मिनवामा व꣡रीयः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡याम प्रा꣡ञ्चो य꣡जमानम् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒रे । द्वेषां॑सि । स॒नु॒तः । द॒धा॒म॒ । अया॑म । प्राञ्चः॑ । यज॑मानम् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eto* ← *\_* ← *√\_*
 - \[?\]
@@ -113,21 +113,21 @@ genre M
 अयमङ्गिरसां वादः । **अद्य** अस्मिन् यागदिने **नु** क्षिप्रम् **एतो** एत गच्छत । **सुध्यः** शोभनकर्माणः **भवाम** । **दुच्छुनाः** द्विषः **प्र** **मिनवाम** प्रकर्षेण हिंसाम **वरीयः** अत्यन्तमित्यर्थः । तदेवोच्यते । **सनुतः** संभक्तॄन् **द्वेषांसि** यजमानस्य द्वेष्टॄन् **आरे** दूरे **दधाम** स्थापयाम । यद्वा । सनुतरित्यन्तर्हितनाम । पूर्वं प्रकाशवैरिणां वध उक्त इदानीं प्रच्छन्नानामिति विवेकः । तदर्थं **यजमानं** प्राञ्चः सदापृणमवत्सारं च **अच्छ** अभिमुखम् **अयाम** गच्छाम ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come today quickly; let us be engaged in pious acts; let us entirely annihilate the hostile; let us keep off all sacred enemies; let us hasten to the presence of the instrumental tutor of the rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come on now! Today let us become possessed of good poetic vision. Let  us send misfortune forth a wide way away.  
 Let us put hatreds aside in the distance; let us go forward to the  
 sacrificer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As suggested already by Geldner (n. 5b) and, independently, Thieme (ZDMG 95 [1941] 82-83 [=KlSch. 7-8]) and accepted by all subsequent tr., a better reading is obtained by segmenting duchúnām inavāma, against Pp. duchúnā minavāma. This requires no emendation to the Saṃhitā text.
 
@@ -141,23 +141,23 @@ As noted in the published introduction, these two vss. form an omphalos and are 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day approach us: may our thoughts be holy, far from us let us cast away misfortune.  
      Let us keep those who hate us at a distance, and haste to meet the man who sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlan! Wir wollen heute gute Gedanken hegen und die unheilvollen Absichten verbannen. Die Feindschaft wollen wir weit fortschaffen und bereitwillig zu dem Opfernden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt heute her, wir wollen sein voll Andacht, wir wollen weithin jagen die Unholden, In weite Ferne unsre Hasser setzen, und vorwärts eilen hin zu dem, der opfert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ну вот! У нас будут добрые мысли сегодня!  
 Несчастья мы прогоним подальше!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ चिन् न इ꣡न्द्रो मघ꣡वा स꣡हूती  
 दानो꣡ वा꣡जं नि꣡ यमते न ऊती꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वामं꣡ नृ꣡भ्यो अभि꣡वीता स꣡खिभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अनू॑ना । यस्य॑ । दक्षि॑णा । पी॒पाय॑ । वा॒मम् । नृऽभ्यः॑ । अ॒भिऽवी॑ता । सखि॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -120,21 +120,21 @@ genre M
 **मघवा** धनवान् **दानः** ददानः सः **इन्द्रः** **नः** अस्माकं **सहूती** सहूत्या मरुद्भिः सहाह्वानेन **वाजम्** अन्नं **नः** अस्मभ्यं **ऊती** ऊत्यै रक्षायै **नू** **चित्** क्षिप्रमेव **नि** **यमते** प्रयच्छतु । **यस्य** इन्द्रस्य **अनूना** संपूर्णा **अभिवीता** अभिप्राप्ता **दक्षिणा** दानं **सखिभ्यः** स्तोतृभ्यः **नृभ्यः** **वामं** वननीयं धनं **पीपाय** दोग्धि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the affluent and liberal, **Indra**, upon being invoked together (with the **Maruts**), quickly bestow foodfor our reservation, he whose unlimited, experienced liberality yields desirable (wealth) to those men (who arehis) friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never does bounteous Indra, because of (another) call coincident with  ours, hold back from giving spoils along with help to us,  
 he whose unfailing gift-cow swells, a thing of value for his men, his  
 comrades, she who was (previously) enclosed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the rhyming pāda-final … (sáh)ūtī (a), … ūtī́(b).
 
@@ -145,23 +145,23 @@ The combination of abhí with √vī ‘pursue’ would occur only here in the R
 The idea here is that the cow was once enwrapped or enclosed but freed by Indra to 31 swell for us. It is possible that abhívītā is actually a pun on both those roots, and the tr. should reflect this ambiguity: “… gift-cow swells …, (previously) enclosed, (now to be) pursued by his comrades,” vel sim. The presence of vyántaḥ ‘pursuing’ in 5c supports this possibility.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maghavan Indra, when we all invoke him, bountiful ever sendeth strength to aid us:  
      Whose perfect guerdon, never failing, bringeth wealth to the men, to friends the thing they covet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimmer wird uns der freigebige Indra wegen gleichzeitiger Anrufung den Lohn der Gabe vorenthalten, aus Wohlwollen für uns, dessen mangellose Schenkung von gutem überfließt, den Herren, den Genossen willkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets schenket Indra bei vereintem Anruf, der reiche Spender, Labung zum Genuss uns, Er, dessen Milchkuh unablässig zuströmt den Männern Gut, Begehrtes den Genossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И никогда уж щедрый Индра из-за совместного призыва (других)  
 Не удержит дара награды – ради нашей поддержки,  

@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ ता꣡ त इन्दर+ दाना꣡प्नस  
 आक्षाणे꣡ शूर वज्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 जातं꣡ वि꣡श्वं सया꣡वभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 यत् । ह॒ । शुष्ण॑स्य । द॒म्भयः॑ । जा॒तम् । विश्व॑म् । स॒याव॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **शूर** विक्रान्त **वज्रिवः** वज्रोपेत **इन्द्र** **दानाप्नसः** दानकर्मणः । स्तोतृभ्यः सततमभीष्टफलप्रदस्येत्यर्थः। **ते** तव स्वभूतानि **मक्षु** क्षिप्राणि अविलम्बितानि । क्षिप्रकरणयुक्तानीत्यर्थः । **आक्षाणे** योद्धृभिर्व्याप्यमाने त्वय्यवस्थितानि **ता** तानि कर्माणि स्तोतारः स्तुवन्तीति शेषः । **सयावभिः** सहयातृभिर्मरुद्भिः सहितस्त्वं **शुष्णस्य** असुरस्य **विश्वं** **जातं** सर्वमपत्यजातं **दम्भयः** अदम्भयः । हिंसितवानसि । यद्वा । एवमादीनि यानि खलु कर्माणि सन्ति तानि स्तुवन्तीति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, (your worshippers glorify) those prompt exploits performed by you in battle, (by you whoare) ever bountiful, when with your associate (**Maruts**) you destroyed the whole race o **Śuṣṇa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right away these things (became) yours, Indra, on gaining control over  (his) property for giving, you mace-wielding champion,  
 when with your fellow travelers you humbled everything born of Śuṣṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swift come those gifts of thine whose hand is prompt to rend and burn, O Hero Thunder-armed:  
      As thou with thy Companions didst destroy the whole of SuSnia's brood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bald wir dir, Indra, der du freigebig lohnest, im Kampf um Achse und Achsnagel das gelingen, tapferer Keulenträger, daß du des Susna ganzes Geschlecht mit deinen Gefährten überlistest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell ward vollbracht dein Werk, du reichlichgebender, o Indra, blitzbewehrter Held, Als du des Çuschna ganze Brut, mit den Genossen niederschlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быстро (получится) у тебя, богатого дарами, о Индра,  
 О герой, наделенный дубиной грома, в битве за ось и чеку (колесницы) то,  

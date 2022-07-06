@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नीषिणः प्र꣡ भरध्वम् मनीषां꣡  
 य꣡था-यथा मत꣡यः स꣡न्ति नॄणा꣡म्+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ हि꣡ वीरो꣡ गिर्वणस्यु꣡र् वि꣡दानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । स॒त्यैः । आ । ई॒र॒या॒म॒ । कृ॒तेभिः॑ । सः । हि । वी॒रः । गि॒र्व॒ण॒स्युः । विदा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], vocative, plural, masculine
@@ -132,7 +132,7 @@ genre M
 हे **मनीषिणः** स्तोतारः **मनीषां** मनस ईशित्रीं स्तुतिमिन्द्राय **प्र** **भरध्वं** कुरुत। **नृणां** कर्मनेतॄणां युष्माकं **यथायथा** **मतयः** **सन्ति** भवन्ति तथा बुद्ध्यनुसारेण स्तुतिं कुरुध्वम् । वयं च **कृतेभिः** कृतैः **सत्यैः** यथार्थभूतैः स्तोत्रैः **इन्द्रम्** **एरयाम** यज्ञं प्रत्यागमयाम ॥  ‘ ईर गतौ । ण्यन्तस्य लोट् ॥ **हि** यतः **विदानः** जानानः समर्थः स इन्द्रः **गिर्वणस्युः** । गीर्भिर्वनन्ति संभजन्त इति गीर्वणसः स्तोतारः ॥ वनतेरसुनि रूपम् । उपपदस्य दीर्घाभावश्छान्दसः । तदन्तात् क्यप् । ‘क्याच्छन्दसि' इत्युप्रत्ययः ॥ स्तोतॄन् कामयमानः खलु । अतस्तमभिष्टुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ genre M
 Capable of grantingour wishes: vidānaḥ = jānānaḥ **samarthaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Inspired ones, bring forth an inspired thought, in whatever (manifold)  ways men’s thoughts are.  
 We will rouse Indra here with his deeds made real [=as hymns]. For he is  a hero known to long for song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING forth your sacred song ye prudent singers, even as are the thoughts of human beings.  
      Let us draw Indra with true deeds anear us: he loves our songs, the Hero, and is potent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Dichtenden, traget euer Gedicht vor, wie gerade die Gedanken der Herren sind. Den Indra wollen wir durch seine wahrhaften Taten herbringen, denn der Held ist als lobsüchtig bekannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr weisen Sänger, traget den Gesang vor je nach der Männer mannichfachen Wünschen; Durch heil'ge Werke lasst uns Indra herziehn, bekannt ist er ja als ein Freund der Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вы, создатели произведений! Исполните (ваши) произведения именно так,  
 Как того требуют мысли мужей!  

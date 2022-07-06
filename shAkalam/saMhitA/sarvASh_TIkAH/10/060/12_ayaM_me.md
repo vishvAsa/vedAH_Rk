@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् मे ह꣡स्तो भ꣡गवान्  
 अय꣡म् मे भ꣡गवत्तरः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अयं꣡ शिवा꣡भिमर्शनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अ॒यम् । मे॒ । वि॒श्वऽभे॑षजः । अ॒यम् । शि॒वऽअ॑भिमर्शनः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -99,12 +99,12 @@ popular;; epic anuṣṭubh (525)
 अनया बन्ध्वादयो लब्धजीवं सुबन्धुं पाणिभिरस्पृशन् । **अयं** **मे** **हस्तो** **भगवान्** यस्मात् सजीवं सुबन्धुं स्पृशति तस्मात् । तथा **अयं** **मे** हस्तः **भगवत्तरः** अतिशयेन भगवान् । तथा **अयं** **मे** हस्तः **विश्वभेषजः** जीवचिकित्सासाधनसवौंषधवान् तत्स्थानीयो वा । **अयं** **शिवाभिमर्शनः** मङ्गलस्पर्शनः । यतो जीवन्तं स्पृशत्यत इत्यर्थः ॥ ॥ २५ ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is my hand that brings good fortune; here is my (other hand)  bringing better fortune.  
 Here is my all-healing one; here the one of propitious touch.  
@@ -112,23 +112,23 @@ The next twenty-four hymns, X.61–84, are paired hymns, generally attributed to
 The first pair (61–62) are the Nābhānediṣṭha hymns to the All Gods, the first  devilishly complex, the second far less so.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Felicitous is this mine hand, yet more felicitous is this.  
      This hand contains all healing balms, and this makes whole with gentle touch.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese meine Hand ist glücklich, diese ist noch glücklicher; diese meine Hand ist allheilend, diese ist von heilsamer Berührung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilvoll ist diese meine Hand, heilvoller noch die andre hier; Sie führt dir alle Heilung zu, und sie berühret dich zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта у меня рука счастливая,  
 (А) эта у меня еще счастливее.  

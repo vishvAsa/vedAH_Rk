@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡द् भोजो꣡ यो꣡ गृह꣡वे द꣡दाति  
 अ꣡न्नकामाय च꣡रते कृशा꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उता꣡परी꣡षु कृणुते स꣡खायम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अर॑म् । अ॒स्मै॒ । भ॒व॒ति॒ । याम॑ऽहूतौ । उ॒त । अ॒प॒रीषु॑ । कृ॒णु॒ते॒ । सखा॑यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -125,41 +125,41 @@ popular
 अन्वयमुखेन प्रशंसति । **स** **इत्** स एव **भोजः** दाता खलु **यो** **गृहवे** ॥ ग्रहेर्मृगय्वादित्वात् कुप्रत्ययः ( उ. सू. १. ३८)॥ प्रतिग्रहीत्रे **अन्नकामाय** अन्नं याचमानाय **चरते** गृहमागतवते **कृशाय** दारिद्र्येण एतादृशायातिथयेऽन्नं **ददाति** प्रयच्छति ॥  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ **यामहूतौ** । यामा गन्तारो देवाः ॥ अत्र थातेः “ अर्तिस्तुसुहुसृ' ( उ. सू. १. १३९) इत्यादिना मन्प्रत्ययः ॥ त आहूयन्तेऽत्रेति यामहूतिर्यज्ञः । तस्मिन् **अस्मै** दात्रे फलम् **अरम्** अलं पर्याप्तं **भवति** । कामप्रदानं भवतीत्यर्थः । **उत** अपि च **अपरीषु** ॥  ‘ केवलमामक° (पा. सू. ४.१.३०) इति ङीप् ॥ अन्यासु शात्रवीषु सेनासु **सखायं** **कृणुते** । तद्वदाचरतीत्यर्थः। तस्य सर्वे सखाय एव न शत्रव इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is liberal who gives to the suppliant desiring food, wandering about distressed; to him there is anample (recompense), and he contracts friendship with his adversaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just he is a benefactor who gives to the beggar who, emaciated, goes  roaming, desirous of food.  
 He becomes sufficient for him at his pleading entreaty, and he makes him  his companion in the future.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bounteous is he who gives unto the beggar who comes to him in want of food and feeble.  
      Success attends him in the shout of battle. He makes a friend of him in future troubles.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He is the liberal man who helps the beggar That, craving food, emaciated wanders, And coming to his aid, when asked to succour, Immediately makes him a friend hereafter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ist ein Gastfreier, der dem Bettler gibt, welcher abgemagert, Speise wünschend kommt. Er steht ihm zu Diensten, wenn er ihn unterwegs anruft, und für die Zukunft erwirbt er sich einen Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur der geniesset recht, der Armen mittheilt, die Dürft'gen speiset, die nach Speise lechzen; Er findet Gleiches wenn er Hülfe anspricht, und für die Zukunft schafft er einen Freund sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот щедрый, кто подает нищему,  
 Бродящему в поисках пищи, исхудавшему.  

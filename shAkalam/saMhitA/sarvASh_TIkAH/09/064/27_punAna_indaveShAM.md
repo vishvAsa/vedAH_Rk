@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनान꣡ इन्दव् एषा᳐म्  
 पु꣡रुहूत ज꣡नाना᳐म्  
 प्रियः꣡ समुद्र꣡म् आ꣡ विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 प्रि॒यः । स॒मु॒द्रम् । आ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **पुरुहूत** बहुभिराहूत **इन्दो** सोम **पुनानः** पूयमानस्त्वम् **एषाम्** अस्मिन् यागे स्तोत्रं कुर्वतां **जनानां** **प्रियः** सन् **समुद्रं** द्रोणकलशम् **आ** **विश** प्रविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, invoked by many, do you, being purified and being loved by these your worshippers, enter the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified, o drop, much invoked by these peoples,  
 as dear one, enter the sea.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ contain the nom. sg. masc. punānáḥ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, Much-invoked, while thou art purifying, as the Friend.  
      Of these men enter thou the lake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich läuternd, o Saft, vielgerufener dieser Menschen, geh als Freund in den Ozean ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt, Indu, und geliebt von diesen Männern viel gerühmt, So schreite zu dem Meere hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

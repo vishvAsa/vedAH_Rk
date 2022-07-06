@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमा स꣡वेदसा  
 स꣡हूती वनतं गि꣡रः  
 सं꣡ देवत्रा꣡ बभूवथुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Popular for non-linguistic reasons
@@ -30,7 +30,7 @@ genre D
 सम् । दे॒व॒ऽत्रा । ब॒भू॒व॒थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -82,7 +82,7 @@ genre D
 हे अग्नीषोमौ युवां **सवेदसा** समानेनैकेन वेदसा हविर्लक्षणेन धनेन युक्तौ **सहूती** समानह्वानौ च सन्तौ **गिरः** अस्मदीयाः स्तुतीः **वनतं** संभजेथाम् । **देवत्रा** देवेषु सर्वेषु यौ युवां **सं** **बभूवथुः** संभूतौ संभावितौ प्रशस्तौ स्थः ।  ‘ राजानौ वा एतौ देवतानां यदग्नीषोमौ' (तै. सं. २. ६. २. १-२ ) इति श्रुतेः ॥ सवेदसा । समानं वेदो ययोः । समानस्य च्छन्दसि ' इति सभावः । वनतम्। ‘वन षण संभक्तौ '। देवत्रा। ' देवमनुष्यपुरुषपुरुमर्त्य ' इत्यादिना सप्तम्यर्थे त्राप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -93,34 +93,34 @@ genre D
 **Devatrā** = deveṣu **praśastaḥ**; rājānau vā etau devānām yad agniṣomau, Agni and Soma are they who are the two kings of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni and Soma, who have common property and a common  invocation—crave our hymns.  
 You two have come together among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The purport of the final pāda isn’t clear to me, but it may indirectly comment on the unusual nature of the joint dedication of the hymn to these two gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoked together, mates in wealth, Agni-Soma, accept our hymns:  
      Together be among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma, die ihr Besitz und Anrufung gemeinsam habt, nehmet die Lobrede gut auf! An göttlichem Rang stehet ihr gleich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zugleich gerufen, gleich an Gut seid, Agni-Soma, hold dem Lied, Zugleich seid bei den Göttern ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, вместе владеющие (жертвой),  
 Вместе призываемые, одобрите (наши) хвалебные песни!  

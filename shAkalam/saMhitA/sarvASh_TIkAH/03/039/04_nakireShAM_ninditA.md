@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किर् एषां निन्दिता꣡ म꣡र्तियेषु  
 ये꣡ अस्मा꣡कम् पित꣡रो गो꣡षु योधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् गोत्रा꣡णि ससृजे दंस꣡नावान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । ए॒षा॒म् । दृं॒हि॒ता । माहि॑नऽवान् । उत् । गो॒त्राणि॑ । स॒सृ॒जे॒ । दं॒सना॑ऽवान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakir*
 - \[adverb\]
@@ -112,20 +112,20 @@ genre M
 हे इन्द्र सत्रे प्रवृत्तानाम् **अस्माकं** **ये** **पितरः** अङ्गिरसः **गोषु** पणिभिरपहृतेषु तन्निमित्तं **योधाः** योद्धारो वर्तन्ते तेषाम् **एषां** मर्त्येषु **निन्दिता** दूषकः **नकिः** न कश्चिदस्ति । कुत इत्यत आह । **माहिनावान्** महिमोपेतः **दंसनावान्** वृत्रहननादिकर्मवान् **इन्द्रः** **एषाम्** अङ्गिरसां **दृंहिता** दृंहितानि समृद्धानि **गोत्राणि** गवां वृन्दानि **उत्** **ससृजे** तेभ्योऽङ्गिरोभ्यो ददौ॥ निन्दिता ।' निदि कुत्सायाम्' इत्यस्य तृचि रूपम् । मर्त्येषु । वस्वादित्वात् स्वार्थिको यत् । यतोऽनावः' इत्याद्युदातत्वम् । योधाः । ‘युध संप्रहारे' इत्यस्य पचाद्यचि रूपम् । दृंहिता । ‘ दृह दृहि वृद्धौ' इत्यस्य निष्ठायां रूपम् । महिनावान् ।' महेरिनण्च' (उ. सू. २.२१४ ) इति इनण्प्रत्ययः। तदस्यास्ति' इति मतुप् । माहिनावानिति तस्य संज्ञा ।' मतौ बह्वचोऽनजिरादीनाम् ' ( पा. सू. ६. ३. ११९ ) इति संहितायां दीर्घः । गोत्राणि । गवां समूह इत्यर्थे ' खलगोरथात् ' इत्यनुवृत्तौ ' इनित्रकठ्यचश्च' ( पा. सू. ४. २. ५१ ) इति गोशब्दात् त्रप्रत्ययः । प्रत्ययस्वरः । ससृजे । “ सृज विसर्गे ' इत्यस्य लिटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “There are no revilers among men of those who were our progenitors and combatants for (the recovery of) the cattle; for the mighty **Indra**, the achiever of great deeds, liberated for them the numerous herds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There is no one among mortals who scorns them: our fathers, who were  battlers for cows.  
 Indra with his great force (emptied out) the fastnesses for them, he with  his wondrous power emptied out the cowpens.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The next part of the hymn seems driven by the rhetoric of morphology, both parallelisms and contrasts. In this vs. note the heavy -i/anā-vant- forms mā́hināvān and daṃsánāvān stationed at the end of successive pādas (c, d), which are followed by dákṣiṇāvān at the end of 6d and the neut. barháṇāvat at the end of 8d.
 
@@ -134,23 +134,23 @@ Pādas a and c contain what appear to be matching sequences that conceal morphol
 (dṛṃhitā́), though the two eṣām have the same grammatical identity and referent and the first word in each pāda is the subject.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not one is found among them, none of mortals, to blame our sires who fought to win the cattle.  
      Their strengthener was Indra the Majestic he spread their stalls of kine the Wonder-Worker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter den Sterblichen ist keiner, der sie tadelt, unsere Väter, die um die Rinder zu Kämpfern wurden. Der großmächtige Indra hat ihre eingeschlossenen Kuhherden herausgelassen, der Meisterkünstler.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Menschen keiner schmähet unsre Väter, sie, welche kämpften um Besitz der Kühe; Der ihnen Kraft gab, war der hohe Indra; der wunderthät'ge dehnte aus die Hürden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто среди смертных не осудит этих  
 Отцов наших, что сражались за коров.  

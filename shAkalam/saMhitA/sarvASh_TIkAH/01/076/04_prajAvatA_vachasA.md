@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजा꣡वता व꣡चसा व꣡ह्निर् आसा꣡  
 आ꣡ च हुवे꣡ नि꣡ च सत्सीह꣡ देवइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बोधि꣡ प्रयन्तर् जनितर् व꣡सूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वेषि॑ । हो॒त्रम् । उ॒त । पो॒त्रम् । य॒ज॒त्र॒ । बो॒धि । प्र॒ऽय॒न्तः॒ । ज॒नि॒तः॒ । वसू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajāvatā* ← *prajāvat*
 - \[noun\], instrumental, singular, neuter
@@ -126,21 +126,21 @@ genre M
 **प्रजावता** यजमानेभ्यो दातव्यापत्यादिफलोपेतेन **वचसा** स्तोत्रेण स्तुतः सन् योऽग्निः **आसा** आस्यस्थानीयया ज्वालया **वह्निः** देवेभ्यो हविषां वोढा तमग्निम् **आ** **च** **हुवे** आह्वयामि । आहूतः सन् त्वम् **इह** अस्मिन् कर्मणि **देवैः** अन्यैः सह **नि** सत्सि **च** निषीद च । निषद्य च हे **यजत्र** यजनीयाग्ने **होत्रं** होत्रा क्रियमाणं कर्म **उत** अपि च **पोत्रं** पोत्रा कृतं कर्म च **वेशि** कामयस्व । **वसूनां** धनानां **प्रयन्तः** प्रकर्षेण नियन्तः वसून्यस्मदायत्तानि कुर्वन् **जनितः** आहुतिद्वारा सर्वस्य जनयितरग्ने **बोधि** अस्मान् बोधय ॥ आसा । ‘पद्दन् ' इत्यादिना आस्यशब्दस्य आसन्नादेशः । ‘सुपां सुलक्° ' इति तृतीयाया डादेशः । टिलोपे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । हुवे । ह्वेञो  लटि ‘ बहुलं छन्दसि ' इति संप्रसारणम् । ‘ बहुलं छन्दसि ' इति शपो लुक् । ‘चवायोगे प्रथमा ' इति निघातप्रतिषेधः । बोधि । ‘ बुध अवगमने' । अस्मात् ण्यन्तात् छन्दस्युभयथा' इति हेः आर्धधातुकत्वात् ‘णेरनिटि' इति णिलोपः । हुझल्भ्यो हेर्धिः'। धातोः अन्त्यलोपश्छान्दसः । हेरपित्त्वात् तस्यैव स्वरः शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke (you), who are the conveyor (of oblations), with your flames, with a hymn productive of progeny (to the worshipper); sit down here with the gods, and do you, who are deserving of worship, discharge the office of **Hotā**, or of **Potā** and awaken us, you who are the depository and genitive rator of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a speech bringing offspring you are to be invoked as the conveyor  (of oblations) with your mouth, and you will sit down here with  
 the gods.  
 You pursue the Hotarship and the Potarship, you instrument of sacrifice.  Become (all this), o provider and engenderer of goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the contents of this verse are pretty straightforward, the syntax is particularly nasty.
 
@@ -153,28 +153,28 @@ The other syntactic issue in the verse is the predicated vocative phrase in d: b
 Note that vásūnām is accented, although oblique cases that are part of voc. phrases often are not (type sūno sahasaḥ “o son of strength”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Priest with lip and voice that bring us children hast been invoked. Here with the Gods be seated.  
      Thine is the task of Cleanser and Presenter: waken us, Wealth-bestower and Producer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 With words procuring offspring, carrying thee (to our sacrifice) with my mouth 1, I call 2 thee hither, and thou shalt sit down here with the gods. Perform the service of a Hotri and of a Potri 3, O worshipful one. Be thou a giver and a father 4 of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit nachwuchsreicher Rede lade ich als der Wortführer, und du setze dich mit den Göttern hierher! Besorge das Hotri-Amt, du Verehrungswürdiger! Sei Gewährer und Erzeuger der Güter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit kinderreichem Liede vor dich fahrend, ruf' ich, o setz dich mit den Göttern nieder; Du treibst das Werk des Läuterers und Priesters, sei hehrer Spender und der Güter Zeuger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ртом везущий (жертву), с речью, приносящей потомство...  
 Раз я призываю тебя, сядь здесь вместе с богами!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ इन्दो पा꣡र्थिवं रयिं꣡  
 दिव्य꣡म् पवस्व धा꣡रया  
 द्युम꣡न्तं शु꣡ष्मम् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्यु॒ऽमन्त॑म् । शुष्म॑म् । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endo* ← *ā*
 - \[adverb\]
@@ -86,41 +86,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** क्लिद्यमान सोम त्वं **धारया** **आ** **पवस्व** सर्वतः क्षर । **पार्थिवं** दिव्यं च **रयिं** धनं **द्युमन्तं** दीप्तिमन्तं **शुष्मं** बलं च **आ** **भर** आहरास्मभ्यम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, pour to us in a stream terrestrial and celestial riches, bring brilliant vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, in purifying yourself in a stream attract earthly and heavenly  wealth.  
 Bring here your brilliant tempestuous force.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the 3rd hymn in a row, all attributed to Āṅgirasa poets, with a form of śuṣmín-, śúṣma- in the final vs. Also in the next hymn IX.30, also an Āṅgirasa hymn, vss. 1 (śuṣmín-) and 3 (śúṣma-). As noted in the published introduction. to IX.30, the word is not characteristic of Āṅgirasa poets elsewhere, even in the IXth Maṇḍala, although there are numerous hymns attributed to them in this maṇḍala (besides our IX.27-30): IX.4, 35-36, 37-38, 39-40, 44-46, 50-52, 61, 67 [part], 69, 72, 73, 83, parts of 97 and 108, 112). Of these, only IX.50.1, 52.4, attributed to Ucatha Āṅgirasa, contain members of this word family. In hymns attributed to Āṅgirasa poets outside of IX, the words are found only in X.43.3 (Kṛṣṇa Āṅgirasa), VIII.96.8 (Tiraṣci Āṅgirarsa), and -- most noteworthy -- VIII.98.12, 99.6, the only two hymns outside of IX attributed exclusively to Nṛmedha Āṅgirasa, the poet of our IX.27, 29.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, as thou flowest on bring us the wealth of earth and heaven,  
      And splendid vigour, in thy stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Saft, im Strome und bring irdischen, himmlischen Reichtum; bring uns glänzenden Mut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strom, o Indu, riesle her des Himmels und der Erde Schatz, Bring her den starken, glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О капля, очищайся потоком, принося  
 Земное (и) небесное богатство!  

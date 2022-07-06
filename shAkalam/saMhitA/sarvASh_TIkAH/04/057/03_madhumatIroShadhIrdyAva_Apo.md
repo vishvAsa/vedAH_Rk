@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धुमतीर् ओ꣡षधीर् द्या꣡व आ꣡पो  
 म꣡धुमन् नो भवतु अन्त꣡रिक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्यन्तो अ꣡नु एनं चरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्षेत्र॑स्य । पतिः॑ । मधु॑ऽमान् । नः॒ । अ॒स्तु॒ । अरि॑ष्यन्तः॑ । अनु॑ । ए॒न॒म् । च॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhumatīr* ← *madhumatīḥ* ← *madhumat*
 - \[noun\], nominative, plural, feminine
@@ -121,7 +121,7 @@ genre M
 **ओषधीः** ओषध्यो व्रीहिप्रियङ्वादयः **नः** अस्मभ्यं **मधुमतीः** मधुमत्यः भवन्तु । तथा **द्यावः** । तिस्रो दिव इत्युक्तत्वात् बहुवचनं युक्तम् । तथा **आपः** **अन्तरिक्षं** च नः **मधुमत्** **भवतु** । किंच **क्षेत्रस्य** **पतिः** अपि **मधुमान्नो** **अस्तु** । **अरिष्यन्तः** अन्यैरहिंस्यन्तो वयम् **एनं** क्षेत्रपतिम् **अनु** अनुसृत्य **चरेम** संचरेम सुखेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ Be kind: an epithet of kṣetrapati;
 Madhumat = lit. having sweetness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Honeyed the plants, the heavens, the waters—honeyed let the midspace  be for us.  
 Let the Lord of the Field be honeyed for us. Without suffering harm  may we follow after him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sweet be the plants for us. the heavens, the waters, and full of sweets for us be air's mid-region.  
      May the Field's Lord for us be full of sweetness, and may we follow after him uninjured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Honigreich sollen die Pflanzen, die Himmel, die Gewässer sein, honigreich soll die Luft für uns sein. Der Herr der Flur soll uns honigreich sein. Ohne Schaden zu nehmen möchten wir seiner Spur folgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Süss mögen uns sein die Gewächse, Himmel, Gewässer, voll Süssigkeit sei uns der Lufti-aum, der Feldesherr sei uns voll süsser Labe, und ungehindert mögen wir ihm nachgehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут нам медовыми растения,  
 Небеса, воды, медовым – воздух!  

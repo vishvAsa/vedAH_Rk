@@ -10,7 +10,7 @@ title = "+051"
 आदित्यग्रहस्यैषानुवाक्या। सूत्रितं च - आदित्यानामवसा नूतनेन होता यक्षदादित्यान् ' (आश्व. श्रौ. ५. १७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 51 (567)  
 Ādityas  

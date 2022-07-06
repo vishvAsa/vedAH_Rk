@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त꣡त् त इन्द्र आय꣡वः पनन्त  
 अभि꣡ य꣡ ऊर्वं꣡ गो꣡मन्तं ति꣡तृत्सान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्रधाराम् बृहतीं꣡ दु꣡दुक्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒कृ॒त्ऽस्व॑म् । ये । पु॒रु॒ऽपु॒त्राम् । म॒हीम् । स॒हस्र॑ऽधाराम् । बृ॒ह॒तीम् । दुधु॑क्षन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे **इन्द्र** **ते** तव **आयवः** मनुष्या अङ्गिरसः **तत्** तदा **पनन्त** **आ** सर्वतः पनन्त स्तूयन्ते ॥ **ये** अङ्गिरसः **गोमन्तम्** **ऊर्वं** संघं पणिभिरपहृतं प्राप्तं **तितृत्सान्** हिंसितुमैच्छन् । तृदेर्हिंसार्थस्य सनन्तस्य लेट्याडागमः । यद्योगादनिघातः । अभ्यस्तस्वरः । **ये** चाङ्गिरसः **सकृत्स्वम्** । या सकृत्सूते सा सकृत्सूः । तां सकृत्प्रजातां **पुरुपुत्रां** बह्वोषधिवनस्पतिरूपपुत्रां **सहस्रधारां** बहुलकामाना-- मुत्पादयित्रीं **बृहतीं** विस्तृतां **महीं** भूमिम् । यद्वा । पुरुपुत्रां बह्वोषधिवनस्पतिरूप पुत्रां **सहस्रधारां** बहुकामवर्षित्रीं महीं महतीं पूज्यां वा बृहतीं परिमाणरहितां दिवं दुधुक्षन् दुदुहुः । ते पनन्तेति संबन्धः ।  ‘ सकृद्ध द्यौरजायत ' ( ऋ. सं. ६. ४८, २२ ) इत्याद्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Who wished to break into: ūrvam gomantam titṛtsān = whose desire to effuse the abundant (**Soma**) mixedwith water (**Yajus**. 33.28); once-genitive rating earth: sakṛddha dyaur ajāyata = giving gold, grain etc., once
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Āyus admire this (greatness?) of yours, Indra—they who will wish to  drill through to the enclosure full of cows [=Vala],  
 who wish to milk the great (cow [=Pṛśni?]) who gives birth only once but  has many sons, the lofty one with a thousand streams.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those living men extolled thy deed, O Indra, those who would fain burst through the stall of cattle,  
      Fain to milk her who bare but once, great, lofty, whose Sons are many and her streams past number.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das rechnen dir, Indra, die Ayu´s hoch an, die den rinderreichen Verschluß zu öffnen wünschen, die die einmal gebärende, sohnreiche tausendstrahlige große hohe Kuh melken möchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies singen dir, o Indra, auch die Menschen, um sich den rinderreichen Stall zu öffnen, Die tausendström'ge Erde auszumelken, die kinderreich und gross nur einmal zeuget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этим у тебя, о Индра, восхищаются Аю,  
 Которые хотят вскрыть загон, полный коров,  

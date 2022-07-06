@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् तुवा या꣡मि दद्धि꣡ त꣡न् न इन्द्र  
 बृह꣡न्तं क्ष꣡यम् अ꣡समं ज꣡नानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒भि । तत् । द्यावा॑पृथि॒वी इति॑ । गृ॒णी॒ता॒म् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -138,37 +138,37 @@ genre M;; repeated line
 हे **इन्द्र** **त्वा** त्वां **यत्** वक्ष्यमाणं **यामि** याचामि । वर्णलोपश्छान्दसः । याच्यमानं तत् **दद्धि** देहि।  ‘ दद दाने '। लोटि व्यत्ययेन परस्मैपदम्। 'बहुलं छन्दसि ' इति शपो लुक् । तदिति सामान्येन निर्दिष्टं विशेषयति । **बृहन्तं** महान्तं **क्षयं** निवासं **जनानाम्** अन्येषाम् **असमम्** असाधारणं देहि । त्वया दातव्यं **द्यावापृथिवी** **अभि** **गृणीताम्** । अस्मभ्यमित्यादि गतम् ॥॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow, **Indra**, that which I solicit of you; a large mansion, not held in common with other men; andmay heaven and earth approve of it; grant us, (Indra), various fertilizing riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What I beg you for, give that to us, Indra—a lofty dwelling place without  equal among the peoples.  
 Let Heaven and Earth applaud this. – To us give bright, bullish wealth.  
 The next three hymns (X.48–50) are both ascribed to and dedicated to Indra  Vaikuṇṭha. Given the supposed identity of poet and dedicand, the first two of these  are appropriately cast as Indra’s own self-praise.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant us the boon for which I pray, O Indra, a spacious home unmatched among the people.  
      To this may Heaven and Earth accord approval: vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns, Indra, das, worum ich dich ersuche, einen großen Wohnsitz, der nicht seines gleichen hat unter den Menschen. Himmel und Erde sollen dem zustimmen. - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was ich dich bitte, das gewähr uns, Indra! der Männer grossen Wohnsitz ohne Gleichen, Das mögen Erd' und Himmel hold gewähren; verleih uns Reichthum, mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дай нам то, о Индра, о чем тебя прошу я:  
 Обширное место для жилья, не имеющее равных среди людей!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ निवर्तन वर्तय  
 नि꣡ निवर्तन वर्तय  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡भ्य एना नि꣡ वर्तय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 भूम्याः॑ । चत॑स्रः । प्र॒ऽदिशः॑ । ताभ्यः॑ । ए॒नाः॒ । नि । व॒र्त॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,35 +98,35 @@ popular;; epic anuṣṭubh (424)
 मन्त्रद्रष्टर्षिः स्वात्मानं गाश्च संबोध्याह । हे मदीयात्मन् त्वं गाः **आ** **वर्तय**। आकारोऽप्यनेनापि संबध्यते । मदभिमुखीः कुरु । स्तुत्या यागेन च ताः प्रसाद्योपनमयेत्यर्थः । हे गावः यूयमपि प्रसाद्यमानाः **आ** **निवर्तन** आनिवर्तध्वम् । आभिमुख्येनागच्छत । पुनरप्याह । हे मदीयात्मन् त्वं **नि** **वर्तय** गोसंचरणस्थानादपगच्छन्तीर्गा इतोऽभिगन्त्रीः कुरु । यूयमपि हे गावो निवर्त्यमानाः सत्यः **निवर्तन** निवर्तध्वम् । इदानीं स्वात्मा गावश्चर्षिं प्रति ब्रुवते । हे ऋषे अहं कुतो गा निवर्तयामीति कुतो वयं निवर्तयामह इत्यात्मना गोभिश्च पृष्टः सन्नाह । **भूम्याः** पृथिव्याः **चतस्रः** **प्रदिशः** चतुःसंख्यायुक्ताः प्रकृष्टा या दिशः सन्ति **ताभ्यः** दिग्भ्यः **एनाः** गाः **नि** **वर्तय** हे आत्मन् मदभिमुखीः कुरु । हे गावो यूयमपि ताभ्यो दिग्भ्यो निवर्तध्वमिति सामर्थ्याल्लब्धम् । यद्वा । अब्दैवतपक्षेऽपि सूक्तार्थों यथा घटते तथा योजना कर्तव्या ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You turner back, turn them here; you turner back, turn them back. The earth has four quarters: from these, turn them back.  
 The Anukramaṇī gives a choice of authorship for the next seven hymns, X.20– 26: Vimada, the son of Indra or Prajāpati, or Vasukr̥t Vāsukra. The patronymic of  the latter choice would identify the poet as a son or descendant of Vasukra Aindra,  the author of the three desperately difficult hymns that immediately follow (27–29).  The poet of X.25.11 also identifies with or identifies himself as Kakṣīvant, the very  skilled poet of I.116–126.  
 Whatever the poet’s affiliation, he is fond of unusual meters (see esp. 21, 22, 24,  25) as well as puns on the name Vimada. The hymns are dedicated to Agni (20–21),  Indra (22–1st half of 24), the Aśvins (2nd half of 24), Soma (25), and Pūṣan (26).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou Home-leader, lead them home, restore them thou who bringest home.  
      Four are the quarters of the earth; from these bring back to us our kine,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Heimführer führe sie her, du Heimführer, führe sie heim! Die vier Richtungen der Erde, aus diesen führe sie heim!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heimführer, fuhr sie wieder her Heimführer, führ sie wieder heim Aus den vier Gegenden der Welt, aus denen führe sie uns heim.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О возвратитель, приведи!  
 О возвратитель, верни!  

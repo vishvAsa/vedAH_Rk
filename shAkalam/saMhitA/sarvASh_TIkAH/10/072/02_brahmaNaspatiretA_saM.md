@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणस् प꣡तिर् एता꣡  
 सं꣡ कर्मा꣡र इवाधमत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡सतः स꣡द् अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दे॒वाना॑म् । पू॒र्व्ये । यु॒गे । अस॑तः । सत् । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇas* ← *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
@@ -99,7 +99,7 @@ popular;; epic anuṣṭubh (380)
 **ब्रह्मणः** अन्नस्य **पतिः** अदितिः **एता** एतानि देवानां जनिमानि **कर्मारइव** स यथा भस्त्रयाग्निमुपधमति प्रज्वलनार्थमेवं **सम्** **अधमत्** उदपादयदित्यर्थः । **देवानां** **पूर्व्र्ये** **युगे**। आदिसृष्टावित्यर्थः । तेषामुपादानकारणात **असतः** नामरूपवर्जितत्वेनासत्समानाद्ब्रह्मणः सकाशात् **सत्** नामरूपविशिष्टं देवादिकम् **अजायत** प्रादुरभूत् । असद्वा इदमग्र आसीत्ततो वै सदजायत ' (तै. उ. २. ७) इति हि श्रुतिः। न सदात्मकस्य प्रपञ्चस्यासत्कारणत्वं युक्तमिति वाच्यं, छन्दोगैः  ‘ कथमसतः सज्जायेत ' इति असत्कारणत्वमाक्षिप्य ‘सत्त्वेव सोम्येदमग्र आसीत् ' ( छाः उ, ६. २. २) इत्यवधारितत्वात् । तर्ह्यसत्कारणप्रतिपादकवाक्यानां का गतिरिति चेत् तेषामव्याकृतत्वाभिप्रायत्वात् ' तद्धेदं तर्ह्यव्याकृतमासीत्' (श. ब्रा. १४. ४. २. १५) इति श्रुतेः । यद्येवं तर्ह्यदितेः सकाशात्कथं देवाद्युत्पत्तिः । ‘वायोरग्निः' (तै. आ.८.१) इत्यादिवत् अधिष्ठानसकाशादुत्पत्तेः । यद्वा देवानां कारणभूतं सत् असतो ब्रह्मणः सकाशादुत्पन्नमिति योजनादुक्तन्यायोऽस्मिन्पक्षेऽपि समान एव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ popular;; epic anuṣṭubh (380)
 Brahmaṇaspati: the lord of food; the same asAditi; of the non-existent: asataḥ = that which at the primary creation of the gods was without name or form; thereis an allusion to the popular text: asad vā idam **agra** āsīt tato vai sad ajāyata (**Chāndogya Upaniṣad** 6.2);tadvedam tarhyavyākṛtamāsīt: **Śatapatha Brāhmaṇa** 14.4.2.15
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Lord of the Sacred Formulation [=Br̥haspati] smelted these (births)  like a smith.  
 In the ancient generation of the gods, what exists was born from what  does not exist.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Brahmanaspati produced with blast and smelting, like a Smith,  
      Existence, in an earlier age of Gods, from Non-existence sprang.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brahmanaspati hat diese wie ein Schmied zusammengeschweißt. In dem frühesten Zeitalter der Götter entstand das Seiende aus dem Nichts.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brahmanaspati schweisste da dies All zusammen wie ein Schmied, Zur ersten Götterzeit entsprang aus dem Nichtseienden das Sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брахманаспати их  
 Выплавил, как кузнец.  

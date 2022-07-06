@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सां꣡तपना इदं꣡ हवि꣡र्  
 म꣡रुतस् त꣡ज् जुजुष्टन  
 युष्मा꣡कोती꣡ रिशादसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 यु॒ष्माक॑ । ऊ॒ती । रि॒शा॒द॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sāṃtapanā* ← *sāṃtapanāḥ* ← *sāṃtapana*
 - \[noun\], nominative, plural, masculine
@@ -77,19 +77,19 @@ genre M
 **सांतपनाः** शत्रूणां संतापका हे **मरुतः** **इदं** प्रत्यक्षेणोपलभ्यमानं **हविः** युष्मभ्यं कल्पितमिति शेषः । हे **रिशादसः** रिशतां हिंसतामसितारो रिशानामत्तारो वा यूयं **युष्माक** युष्माकम् **ऊती** ऊत्या रक्षया **तत्** तादृशं हविः **जुजुष्टन** सेवध्वम् ॥ ‘गृहमेधासः' इति गृहमेधीयस्य हविषोऽनुवाक्या । सूत्रितं च -- ‘गृहमेधास आगत प्र बुध्न्या व ईरते महांसि' (आश्व. श्रौ. २. १८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, desroyers of foes, this oblaion is designed for you; do you, who are the devourers of enemies,(coming) with your protections, graciously accept it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You descendants of the scorcher, Maruts, enjoy this oblation here. (Come here) with your help, you who care for the stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With the standard tr., I supply “come” in c, anticipating ā́gata in 10a.
 
@@ -112,23 +112,23 @@ were attached just here.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, ye consuming Gods, enjoy this offering brought for you,  
      To help us, ye who slay the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Söhne der Glut, ihr Marut, diese Opferspende, die laßt euch munden; kommt mit eurer Gnade, ihr Überlegenen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Maruts, diesen Opferguss geniesset, die ihr Warmes liebt, Feindtilger ihr, nach eurer Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О происходящие здесь от жара Маруты,  
 Наслаждайтесь этим возлиянием!  

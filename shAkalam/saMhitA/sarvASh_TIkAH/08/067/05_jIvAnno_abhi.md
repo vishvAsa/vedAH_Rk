@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जीवा꣡न् नो अभि꣡ धेतन  
 आ꣡दित्यासः पुरा꣡ ह꣡थात्  
 क꣡द् ध स्थ हवनश्रुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 कत् । ह॒ । स्थ॒ । ह॒व॒न॒ऽश्रु॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jīvān* ← *jīva*
 - \[noun\], accusative, plural, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आदित्यासः** आदित्याः **नः** अस्मान् **जीवान्** इदानीं जीवतः सतः **अभि** **धेतन** अभिधावत । अभिधावनं कुरुत। **पुरा** **हथात्** हननात् पुरा मृतेः पूर्वम् । **कत्** क्व **स्थ** भवथ। हे **हवनश्रुतः** आह्वानश्रोतारः । आह्वानं श्रुत्वा शीघ्रमागच्छतेति ॥ ॥ ५१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Where are you: kat, ke = who; kva (**Nirukta** 6.27)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gird us, alive, against the deadly blow, o Ādityas.  
 Are you ones who heed the call?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A predicative voc. in a question.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guard us, Adityas, still alive, before the deadly weapon strike:  
      Are yc not they who hear our call?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Umfanget uns Lebende noch vor dem tödlichen Streiche, Aditya´s! Seid ihr denn wirklich die Ruferhörer?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhaltet, o Aditja's, uns am Leben, wenn uns Mord bedroht; Seid ihr's nicht die ihr Ruf erhört?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сохраните нас живыми,  
 О Адитьи, чтоб не настиг смертельный удар!  

@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तु श्रउ꣡षट् पुरो꣡ अग्निं꣡ धिया꣡ दध  
 आ꣡ नु꣡ त꣡च् छ꣡र्धो दिवियं꣡ वृणीमह  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 देवाँ꣡ अ꣡छा न꣡ धीत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M;; repeated line
 अध॑ । प्र । सु । नः॒ । उप॑ । य॒न्तु॒ । धी॒तयः॑ । दे॒वान् । अच्छ॑ । न । धी॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *astu* ← *as*
 - \[verb\], singular, Present imperative
@@ -198,7 +198,7 @@ genre M;; repeated line
 अहं **पुरः** पुरत उत्तरवेद्याम् **अग्निम्** आहवनीयाख्यं **धिया** प्रणयनादिकर्मणा **दधे** धारितवानस्मि । **तच्छर्धः** तादृशं बलवन्तं वा अग्निं यद्वा तच्छर्धः तादृशं मरुतां स्वरूपं बलं **दिव्यं** दिवि भवं **नु** क्षिप्रम् **आ** **वृणीमहे** आभिमुख्येन संभजामहे । किंच **इन्द्रवायू** **वृणीमहे** । **यत्** यस्मात् कारणात् **विवस्वति** दीप्तिमति **नाभा** नाभौ भूम्या नाभिस्थाने देवयजने वेदिरूपे । यद्वा । नाभौ सर्वफलस्य संबन्धके यज्ञे । ‘ यज्ञमाहुर्भुवनस्य नाभिम् ' (तै. सं. ७.४.१८. २) इति श्रुतेः । **क्राणा** कुर्वाणा स्वार्थप्रकाशनं **नव्यसी** नवतरा स्तुतिरूपा वाक् **संदायि** संबध्यते ॥ छान्दसः कर्मणि लुङ् ॥ अस्माभिः प्रयुज्यते इत्यर्थः। यस्मात् स्तुतिः क्रियते तस्मात् **अस्तु** **श्रौषट्** अस्याः स्तुतेः श्रवणं भवतु । श्रोता भवतु वा मरुतां गणोऽग्निर्वा । इन्द्रवायुपक्षे प्रत्येकापेक्षा एकवचनम् । **अध** अनन्तरं **नः** **धीतयः** अस्मदीयानि कर्माणि स्तुत्यादिरूपाणि **प्र** **सु** **उप** **यन्तु** प्रकर्षेण सुष्ठु युष्मानुपगच्छन्तु । किंच **देवाँ** **अच्छा** **न** अग्न्यादिदेवान् आभिमुख्येन प्राप्तमिव **धीतयः** अस्मदीयानि कर्माणि उप यन्तु ते समीपं प्राप्नुवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -209,14 +209,14 @@ genre M;; repeated line
 **Astu** srauṣat = asyāḥ stuter **śravaṇam** bhavatu, may there be a hearing of this hymn, or **śrotā** bhavatu = may Agni or other deity be a hearer. śrauṣat. is an exclamation uttered when the butter is poured upon the fire, on the altar, as an offering to the gods. The radiant navel of the earth: may refer to the altar or the sacrifice; yajñam āhur bhuvanasya nābhim (yajamāhurbhuvanasya nābhim--**Taittirīya** **Saṃhitā** 7.4.17.2), they have called the sacrifice the navel of the world; the text adds **vivasvati** = dīptimat, shining; **Vivasvat** may also refer to the Sun-god
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Cry) “Let it be; he will hear.” I place Agni in front through my insight.  Now we choose that heavenly troop—we choose Indra and Vāyu.  
 Since our (umbilical tie) has been effectively bound anew to the umbilical  tie in Vivasvant’s (sphere),  
 then let our thoughts go forth—our thoughts (going) as if to the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pass. aor. saṃdā́yi is taken by Grassmann (etc.) to √dā ‘tie’, surely correctly.
 
@@ -233,24 +233,24 @@ For the sense of these vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HEARD be our prayer! In thought I honour Agni first: now straightway we elect this heavenly company, Indra and Vayu we elect.  
      For when our latest thought is raised and on Vivasvan centred well,  
      Then may our holy songs go forward on their way, our songs as 'twere unto the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alles lausche! Mit Bedacht stelle ich Agni an die Spitze. Wir erküren jetzt die himmlische Heerschar, Indra und Varuna erküren wir uns. Wenn die bei Vivasvat geschlossene Verwandtschaft aufs neue an unsere Verwandtschaft angeknüpft wird, dann sollen fein unsere frommen Gedanken zu ihnen gehen, wie sich´s zu den Göttern ziemt, die frommen Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhörung sei. – Den Agni fleh' zuerst ich an; nun wünschen wir uns diese Himmelsschar herbei, den Indra, Vaju wünschen wir; Wenn an des Glanzes Stätte sich gefügt hat unser neustes Lied, Dann mögen unsre Bitten eilig vorwärts gehn, hin zu den Göttern gleichsam gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть внемлет (все)! Молитвой помещаю Агни во главе.  
 Вот эту небесную толпу мы выбираем себе,  

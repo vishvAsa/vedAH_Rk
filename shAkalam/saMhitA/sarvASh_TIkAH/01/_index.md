@@ -3,7 +3,7 @@ title = "+01"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The first maṇḍala of the R̥gveda is also, in part, one of its later additions, as was  discussed in detail in the general introduction. Like Maṇḍala X, it consists of 191  hymns, which belong to two different strata of the text. 
 
@@ -46,7 +46,7 @@ It is of course appropriate that the whole R̥gveda collection should begin with
 The style and contents of these hymns are for the most part elementary, even  banal, and there is generally a strong focus on purely ritual matters, to the virtual  exclusion of description, mythological references, praise, and even requests for aid  and gifts. In short, a poetically uninspiring collection, but the information it gives  about the early shape of later ritual litanies is valuable.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 [I.1 JPB]
 </details>

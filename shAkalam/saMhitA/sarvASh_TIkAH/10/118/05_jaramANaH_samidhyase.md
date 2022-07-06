@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡रमाणः स꣡म् इध्यसे  
 देवे꣡भ्यो हव्यवाहन  
 तं꣡ त्वा हवन्त म꣡र्तियाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 तम् । त्वा॒ । ह॒व॒न्त॒ । मर्त्याः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jaramāṇaḥ* ← *jṛ*
 - \[verb noun\], nominative, singular
@@ -82,36 +82,36 @@ genre M
 हे **हव्यवाहन** हव्यानां प्रापयितः ॥ 'हव्येऽनन्तःपादम् ' (पा. सू. ३. २. ६६ ) इति न्युट् ॥ **जरमाणः** स्तोतृभिः स्तूयमानः । जरतिः स्तुतिकर्मा । स त्वं **देवेभ्यः** देवार्थं **समिध्यसे** हविर्भिः सम्यग्दीप्यसे । **तं** तादृशं **त्वा** त्वां **मर्त्याः** मनुष्येषु साधवो यजमानाः **हवन्त** आह्वयन्ति ॥ ह्वयतेर्लङि ‘बहुलं छन्दसि' इति संप्रसारणम् ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearer of oblations, glorified by the worshippers, you are kindled for the gods; as such do mortalsinvoke you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awakening, you become fully kindled, o you who carry the oblations to  the gods;  
 upon you do mortals call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praised by our hymns thou kindlest thee, Oblation-bearer, for the Gods  
      As such do mortals call on thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwachend wirst du entflammt, der du den Göttern die Opfer bringst. Dich rufen die Sterblichen an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet wirst du rauschender den Göttern, Opferfahrender! Drum rufen dich die Sterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробуждаясь, ты зажигаешься,  
 О отвозящий жертвы богам.  

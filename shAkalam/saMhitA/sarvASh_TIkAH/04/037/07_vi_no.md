@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ नो वाजा ऋभुक्षणः  
 पथ꣡श् चितन य꣡ष्टवे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वा आ꣡शास् तरीष꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । सू॒र॒यः॒ । स्तु॒ताः । विश्वाः॑ । आशाः॑ । त॒री॒षणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -94,35 +94,35 @@ genre M
 हे **वाजाः** हे **ऋभुक्षणः** ऋभवः **नः** अस्माकं **पथः** मार्गान् **यष्टवे** यष्टुं यज्ञमार्गान् **वि** **चितन** विचेतयत । प्रज्ञापयतेत्यर्थः । **अस्मभ्यं** हे **सूरयः** मेधाविनो यूयं **स्तुताः** सन्तः **विश्वा** **आशाः** सर्वा दिशः **तरीषणि** तरीतुम् । सामर्थ्यं वितरतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vājas**, Ṛbhukṣaṇs, direct us in the way to sacrifice; for you, who are intelligent, being glorified (by us), are able to traverse all the quarters (of space).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us clear away paths (to enable us) to sacrifice, o Vājas, o R̥bhukṣans, in order (for us) to cross all regions, since you are praised, o patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vajas and Rbhuksans, free for us the paths to sacrifice,  
      Ye Princes, lauded, that we may press forward to each point of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Suchet, ihr Vaja´s, Ribhuksan´s, uns die Wege zum Opfer aus, für uns, ihr freigebigen Herren, nachdem ihr gepriesen seid, auf daß wir nach allen Himmelsrichtungen siegreich vordringen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bahnt, Ribhukschan's, Vadscha's, uns die Pfade, dass wir eilend gehn, Dass, o gepries'ne Fürsten, wir durchdringen alle Richtungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваджи, о Рибхукшаны,  
 Найдите нам пути, чтобы жертвовать  

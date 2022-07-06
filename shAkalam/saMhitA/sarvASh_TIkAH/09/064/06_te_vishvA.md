@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ वि꣡श्वा दाशु꣡षे व꣡सु  
 सो꣡मा दिव्या꣡नि पा꣡र्थिवा  
 प꣡वन्ताम् आ꣡न्त꣡रिक्षिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑न्ताम् । आ । अ॒न्तरि॑क्ष्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -79,19 +79,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** **सोमाः** **दिव्यानि** दिवि भवानि **पार्थिवा** पार्थिवानि पृथिव्यां संभूतानि च **अन्तरिक्ष्या** अन्तरिक्ष्याणि अन्तरिक्षे जातानि च **विश्वा** विश्वानि **वसु** वसूनि धनानि **दाशुषे** हविषां प्रदात्रे यजमानाय **आ** **पवन्तां** क्षरन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those **Soma**-juices pour forth for the offerer (of libations) all the treasures of heaven and earth and of the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All goods for the pious—heavenly, earthly, and those of the midspace— let these soma juices bring in purifying themselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The preverb ā́that turns páva- into a quasi-transitive “bring by purifying oneself” immediately follows the verb, allowing pávantām to take a position matching. that of pávante in 5c and pávamānasya in 7a.
 
@@ -105,23 +105,23 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma juices shall pour forth all treasures for the worshipper  
      From heaven and earth and firmament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Soma´s sollen dem Opferspender alle Schätze, die himmlischen, irdischen und die in der Luft zuläutern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's mögen alles Gut der Erd', des Himmels und der Luft Zurieseln dem Verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

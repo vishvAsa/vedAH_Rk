@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अविता꣡सि सुन्वतो꣡ वृक्त꣡बर्हिषः  
 पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
@@ -16,7 +16,7 @@ ChandaH = "शक्वरी"
 मरु꣡त्वाँ इन्द्र सत्पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -37,7 +37,7 @@ genre M;; line affected by realignment
 यम् । ते॒ । भा॒गम् । अधा॑रयन् । विश्वाः॑ । से॒हा॒नः । पृत॑नाः । उ॒रु । ज्रयः॑ । सम् । अ॒प्सु॒ऽजित् । म॒रुत्वा॑न् । इ॒न्द्र॒ । स॒त्ऽप॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avitāsi* ← *av*
 - \[verb\], singular, periphrast. future
@@ -144,7 +144,7 @@ genre M;; line affected by realignment
 हे **शतक्रतो** बहुकर्मन्निन्द्र **सुन्वतः** सोमाभिषवं कुर्वतः **वृक्तबर्हिषः** स्तीर्णबर्हिषो यजमानस्य **अविता** रक्षिता **असि** भवसि । **मदाय** मदार्थं **सोमं** **पिब** । हे **सत्पते** सतां पते **इन्द्र** **ते** तुभ्यं **यं** सोमस्य **भागमधारयन्** सर्वे देवा अकल्पयन् । तथा च यजुर्ब्राह्मणं---' स एतं माहेन्द्रमुद्धारमुदहरत वृत्रं हत्वान्यासु देवतास्वधि' ( तै. सं. ६. ५. ५. ३ ) इति । तं भागं **विश्वाः** **पृतनाः** शत्रूणां सर्वाः सेनाः **उरु** बहु **ज्रयः** वेगं च **सं** **सेहानः** सम्यगभिभवन् **अप्सुजित्** अप्सु जेता च सन् पिब ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,7 +155,7 @@ genre M;; line affected by realignment
 Conqueror of many: uru jrayas: jrayas = **vega**; in RV 7.006.27, urujrayas = vistīrṇavyāpin, thewide pervader; thus, the victor over all hostile hosts and over wide space
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the helper of the one who presses (soma) and twists the  
 ritual grass.  
@@ -164,23 +164,23 @@ you winning all battles, (winning) the broad expanse, entirely victorious  amid 
 settlements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU helpest him whose grass is trimmed, who sheds the juice, O Satakratu, drink Soma to make thee glad.  
      The share which they have fixed for thee, thou, Indra, Victor o'er all hosts and space, begirt with Maruts, Lord of Heroes, winner of the floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Helfer des Somapressenden, der Barhis herumgelegt hat. Trink den Soma zum Rausche, Ratreicher, den sie dir als Anteil bestimmten - der du alle feindlichen Heere siegreich bestanden hast, den weiten Wettlauf, der du die Gewässer insgesamt ersiegst, im Verein mit den Marut, Indra, rechtmäßiger Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Streubereiter und dem Presser bist du hold, den Soma trink zum Rausch, o vielfach wirkender, Der durch das dir gereichte Theil du alle Schlachten und das weite Feld gewinnst, die Flut erbeutend mit den Maruts, Indra, Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты помощник выжимающего сому, разложившего жертвенную солому.  
 Для опьянения пей сому, о стоумный,  

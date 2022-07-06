@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रुद्रा꣡णाम् एति प्रदि꣡शा विचक्षणो꣡  
 रुद्रे꣡भिर् यो꣡षा तनुते पृथु꣡ ज्र꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मरु꣡त्वन्तं सखिया꣡य हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इन्द्र॑म् । म॒नी॒षा । अ॒भि । अ॒र्च॒ति॒ । श्रु॒तम् । म॒रुत्व॑न्तम् । स॒ख्याय॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rudrāṇām* ← *rudra*
 - \[noun\], genitive, plural, masculine
@@ -112,7 +112,7 @@ genre M;; repeated line
 **विचक्षणः** सूर्यात्मना प्रकाशमान इन्द्रः **रुद्राणां** रुद्रपुत्राणाम् अध्यात्मं प्राणरूपेण वर्तमानानां मरुताम् । यद्वा । रोदयितॄणां प्राणानाम् । प्राणा हि शरीरात् निर्गताः सन्तो बन्धुजनान् रोदयन्ति । **प्रदिशा** प्रदेशनेन मनुष्येभ्यः प्रदानेन सह **एति** अन्तरिक्षे गच्छति। तथा चाम्नायते- योऽसौ तपन्नुदेति स सर्वेषां भूतानां प्राणानादायोदेति ' ( तै. आ. १. १४. १ ) इति । अपि च **रुद्रेभिः** अधिभूतं वर्तमानैः रुद्रपुत्रैर्मरुद्भिः **योषा** माध्यमिका वाक् **पृथु** विस्तीर्णं **ज्रयः** वेगं **तनुते** विस्तारयति । प्रसंगादत्र मरुतां स्तुतिः । तैर्मरुद्भिः सह वर्तमानं **श्रुतं** प्रख्यातं सूर्यात्मानम् **इन्द्रं** मनीषा स्तुतिलक्षणा वाक् **अभ्यर्चति** आभिमुख्येन स्तौति । तं मरुत्वन्तम् इन्द्रं **सख्याय** आह्वयामहे ॥ प्रदिशा । ‘ दिश अतिसर्जने' । संपदादिलक्षणो भावे क्विप्। ज्रयः । ‘ जि ज्रि अभिभवे । ज्रीयतेऽभिभूयतेऽजेनेति ज्रयो वेगः । करणे असुन् । मनीषा । ईषाअक्षादित्वात् प्रकृतिभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -125,7 +125,7 @@ Indra is radiant through identity with the sun; Rudras are radiant identified wi
 **Rudra** = from rud, to weep; when the vital airs depart fromt he body, they cause the kindred of the deceased to weep, hence they are called rudras
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the Rudras’ [=Maruts’] direction he goes, wide-gazing; along  with the Rudras the maiden [=Rodasī] stretches her broad  
 expanse.  
@@ -133,30 +133,30 @@ Indra the famed does the inspired thought address—the one
 accompanied by the Maruts do we call upon for partnership.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the ring that connects this last Jagatī vs. with vs. 1, see published introduction.
 
 For the buried pun involving prth̥ ú jráyaḥ and the referent of yóṣā, Rodasī, see comm. ad I.168.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Refulgent in the Rudras' region he proceeds, and with the Rudras through the wide space speeds the Dame.  
      The hymn of praise extols Indra the far-renowned: him girt by Maruts we invoke to be our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Weitschauende geht nach der Weisung der Rudrasöhne, die junge Frau dehnt mit den Rudrasöhnen ihren breiten Lauf aus. Den berühmten Indra preist die Dichtung - den Marutbegleiteten rufen wir zur Freundschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitblickend schreitet nach der Rudra's Weisung er, wenn mit den Rudra's weit sich dehnt das Morgenroth, Den hehren Indra preiset laut der Lobgesang, ihn und die Maruts rufen wir zum Bündniss her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он идет по указу Рудр, далеко смотрящий.  
 Юная женщина широко простирает (свой) бег вместе с Рудрами.  

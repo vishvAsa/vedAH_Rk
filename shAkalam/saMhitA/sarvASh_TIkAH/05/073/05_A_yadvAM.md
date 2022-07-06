@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् वां सूरिया꣡ र꣡थं  
 ति꣡ष्ठद् रघुष्य꣡दं स꣡दा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 घृणा꣡ वरन्त आत꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ । वा॒म् । अ॒रु॒षाः । वयः॑ । घृ॒णा । व॒र॒न्ते॒ । आ॒ऽतपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 हे अश्विनौ **वां** युवयोः **सदा** सर्वदा **रघुष्यदं** शीघ्रगं **रथं** **सूर्या** युवयोः पत्नी **यत्** यदा **आ** **तिष्ठत्** अस्थितवती तदा **वां** **परि** **वरन्ते** परितो वृण्वन्ति । के। **अरुषाः** आरोचमानाः **घृणा** दीप्ताः **आतपः** आतापनाः शत्रूणां **वयः** अश्वाः । अथवा आतपः इति विशेष्यम् । वयो गन्तार उक्तलक्षणा आतपः सर्वतस्तापयित्र्यो दीप्तयः परि वरन्ते ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ genre M
 **Pari** vām aruṣā vayo ghṛṇā varanta **ātapaḥ** = radiant horses, **vayaḥ**, **aśvaḥ**, ghṛṇā, bright, scorchers, ātapaḥ, of enemies, accompany you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Sūryā mounts your ever swift-running chariot,  
 your ruddy birds keep its [=the sun’s] glowing heat from burning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Surya mounted on your car that rolls for ever rapidly,  
      Birds of red hue were round about and burning splendours compassed you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn Surya euren Wagen besteigt, den immer schnell fahrenden, dann halten eure rötlichen Vogelrosse die Gluten von sich ab, daß sie nicht versengen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als euren Wagen Suria bestieg, der stets in Eile fliegt, Da wehrten ab die heisse Glut die rothen Vögel, die ihr habt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Сурья поднималась на вашу  
 Колесницу, всегда стремительно мчащуюся,  

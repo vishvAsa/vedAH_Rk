@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ए꣡क इ꣡त् त꣡म् उ ष्टुहि  
 कृष्टीनां᳐꣡ वि꣡चर्षणिः  
 प꣡तिर् जज्ञे꣡ वृ꣡षक्रतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पतिः॑ । ज॒ज्ञे । वृष॑ऽक्रतुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -95,41 +95,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विचर्षणिः** विशेषेण सर्वस्य द्रष्टा **वृषक्रतुः** वर्षकर्मा **यः** इन्द्रः **एक** **इत्** एक एव **कृष्टीनां** प्रजानां **पतिः** अधिपतिः **जज्ञे** अजायत नान्यः कश्चित् **तमु** तमेवेन्द्रं हे स्तोतः **स्तुहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise that **Indra** who alone has been born the supervisor (of all), the lord of men, the giver of rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise only him, who alone was born as the limitless lord of the  separate peoples,  
 having a bullish will.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg notes (though not in those terms), we seem to have an embedded main clause here -- in that tám u stuhi forming the second part of pāda a interrupts the rel. cl. that begins the vs. (yá éka íd) and continues through the rest of b and c, with the accented verb jajñé in c. Since yá éka íd is in fact only a single constituent, it might be best to consider it fronted around the brief main cl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise him who, Matchless and Alone, was born the Lord of living men,  
      Most active, with heroic soul.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn nur preise, der als einziger, als hervorragender Gebieter der Völker geboren ist mit dem Bullensinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn preis' ich, der als einziger, erregter, männlich starker Herr Der Menschenstämme ward erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только того восхваляй, кто один единственный  
 Как повелитель, господствующий над народами,  

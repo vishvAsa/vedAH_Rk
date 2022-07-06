@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभा꣡ हि꣡ दस्रा꣡ भिष꣡जा मयोभु꣡वा  
 उभा꣡ द꣡क्षस्य व꣡चसो बभूव꣡थुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ता । वा॒म् । विश्व॑कः । ह॒व॒ते॒ । त॒नू॒ऽकृ॒थे । मा । नः॒ । वि । यौ॒ष्ट॒म् । स॒ख्या । मु॒मोच॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
@@ -132,7 +132,7 @@ genre M
 हे अश्विनौ **दस्रा** दर्शनीयौ। यद्वा । ‘दसु उपक्षये'। सर्वेषां शत्रूणामुपक्षपयितारौ । **भिषजा** देवानां वैद्यौ । यद्वा भीतीनां त्रासयितारौ। यदा नरा अश्विनौ स्तुवन्ति तदा तौ तेषां भीतिमपनयत इत्यर्थः । पृषोदरादित्वाद्रूपसिद्धिः । तादृशौ अत एव **मयोभुवा** मयसः सुखस्य भावयितारौ **उभा** परस्परं द्वित्वसंख्यापूरकौ **उभा** उभौ द्वौ युवां **दक्षस्य** एतन्नामस्य प्रजापतेः **वचसः** स्तुतेः संबन्धिनौ बभूवथुः । **हि** प्रसिद्धौ । पुरा युवां दक्षेणास्ताविषाथां खलु। **ता** तादृशौ प्रशस्तौ **वां** युवां **विश्वकः** एतन्नामक ऋषिः तनूकृथे। तनोति कुलमिति तनूः पुत्रः । तस्य विष्णाप्वो निमित्तं **हवते** स्तुतिभिराह्वयति । तस्मात् **नः** अस्माकं **सख्या** सख्यानि यष्ट्टयष्टव्यतया जातानि सखित्वानि **मा** **वि** **यौष्टं** मा पृथकुरुतम् । यौतेर्लुङि सिचि रूपम्। किंच युवां **मुमोचतम्** अस्मानागन्तुं रथे स्थित्वाश्वप्रग्रहान्मुञ्चतम् । मुञ्चतेर्लोटि ‘बहुलं छन्दसि' इति शपः श्लुः । अडागमः । अत्र विष्णापूनामानं पुत्रमुद्दिश्य तस्य पिता विश्वको युवामाह्वयतीत्यात्मानमाह । यद्वा । विश्वकस्य पिता कृष्णो नामर्षिर्मम पुत्रो विश्वकः पुत्रार्थं युवामधिह्वयतीति वदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,36 +143,36 @@ genre M
 Objects of Dakṣa's praise: an allusion to the thousand Ṛks uttered by Dakṣa or **Prajāpati**, i.e. the AśvināŚastra, which was won by the **Aśvins** in a race; cf. RV. 1.116.2; **Aitareya** **Brāhmaṇa** 45.7; sever not ourfriendships: as worshipper and object of worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since both of you are wondrous healers, embodying joy, and both of you  are (men) of skill and of speech,  
 Viśvaka calls upon you at the making of bodies [=sons?]. – Do not keep  us away from partnership with you. Release (him? [=Viṣṇāpū?])!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Following Kümmel (344) I take the pf. babhūváthuḥ as presential.
 
 For the possible connection of the verb in the refrain, object-less mumócatam, with other appearances of Viśvaka and Viṣṇāpu in the RV, see the published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE Twain are wondrous strong, well-skilled in arts that heal, both bringers of delight, ye both won Daksa's praise.  
      Visvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide waret ja von jeher meisterhafte wohltätige Ärzte, ihr beide Meister des rechten Wortes. Euch ruft Visvaka um der Nachkommenschaft willen. Löset nicht unsere Freundschaft! Spannet aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beide seid erfreunde Wunderärzte ja, mit kräft'gem Zuspruch waret ihr versehn von je; Drum rufet euch zum Schutz des Lebens Viçvaka; nicht weicht von unsrer Freundschaft, spannt die Rosse aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы оба (были) удивительными целителями, приносящими радость,  
 Вы оба были (повелителями) силы действия речи.  

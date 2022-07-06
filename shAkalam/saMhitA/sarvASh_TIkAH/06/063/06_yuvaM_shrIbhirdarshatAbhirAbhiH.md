@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ श्रीभि꣡र् · दर्शता꣡भिर् आभिः꣡  
 शुभे꣡ पुष्टि꣡म् ऊहथुः सूरिया꣡याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡क्षद् वा꣡णी सु꣡ष्टुता धिष्णिया वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । वा॒म् । वयः॑ । वपु॑षे । अनु॑ । प॒प्त॒न् । नक्ष॑त् । वाणी॑ । सुऽस्तु॑ता । धि॒ष्ण्या॒ । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -122,20 +122,20 @@ genre M
 हे अश्विनौ **युवं** युवां **दर्शताभिः** दर्शनीयाभिः **आभिः** श्रीमतां परिदृश्यमानाभिः **श्रीभिः** लक्ष्मीभिः कान्तिभिर्वा **सूर्यायाः** युवयोः पत्न्याः **शुभे** शोभनार्थं **पुष्टिं** पूर्तिम् **ऊहथुः** प्रापयथः । किंच **वां** युवां **वयः** अश्वा: **वपुषे** शोभायै **प्र** **अनु** **पप्तन्** प्रकर्षेणान्वपतन् । अपि च हे **धिष्ण्या** स्तुत्यर्हावश्विनौ **वां** युवां **सुष्टुता** **वाणी** ऋषीणां स्तुतिः **नक्षत्** व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have provided with these beautiful splendours, gratification for the enjoyment of **Sūrya**, your horses have descended for feliciy, deserving of praise, the laudation (of the sages) has reached you glorified.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with these splendors lovely to see you conveyed the flourishing of  Sūryā, for beauty.  
 The birds flew forth after you, for wonder; (their) choir reached you (so  you became) well-praised, o holy ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I assume that “the flourishing of Sūryā” is simply an elaborate way of saying Sūryā. (Michael Weiss comments simply “Cf. Gk. βίη Ἡρακλείη.”) Geldner (n. 6b; fld. by Renou) suggests that it is meant to convey that the beauty of Sūryā increases the beauty of the Aśvins but I don't see this. I take the dat. śubhé in the same way as śriyé (5a and commonly elsewhere, e.g., in the next hymn VI.64.1), vápuṣe (6c), as vaguely attached datives of purpose/result.
 
@@ -144,23 +144,23 @@ The latter (vápuṣe) Geldner takes adverbially (“erstaunlich”), and he con
 describing the state of the Aśvins after the birdsongs reach them. However, as Geldner points out (n. 6d), súṣṭutā could also be a nom. sg. fem. modifying vā́ṇī ‘choir, music’, and the adj. is in fact strategically placed between the nom. sg. fem. and the duals. Although a “well-praised choir” doesn’t make a lot of sense in this context, Geldner cites VIII.100.11 … vā́k … súṣṭutā -- though it’s worth pointing out that in that passage the reference is to the goddess Speech, while in our passage, as noted, I take the vā́ṇī as referring to the “choir” of birdsong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Twain, with these your glories fair to look on, brought, to win victory, rich gifts for Surya.  
      After you flew your birds, marvels of beauty: dear to our hearts! the song, well lauded, reached you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit solchen sehenswürdigen Herrlichkeiten habt ihr eurem Glanz den Zuwachs der Surya zugebracht. Eure Vogelrosse folgen erstaunlich dahin. Es möge euch, die Schöngepriesenen des Sängers Stimme erreichen, ihr .....
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr fuhrt mit diesem sehenswerthen Glanze zum Prunksaal hin der Sonnentochter Nahrung; Es flogen eure Vögel hin zum Schmucke; Musik drang zu euch, schön gepries'ne Spender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря этим (вашим) красотам, достойным, чтобы их видели, вы  
 Присоединили к (вашему) блеску цветение (дочери) Сурьи.  

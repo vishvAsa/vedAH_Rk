@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कवि꣡म् अग्नि꣡म् उ꣡प स्तुहि  
 सत्य꣡धर्माणम् अध्वरे꣡  
 देव꣡म् अमीवचा꣡तनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वम् । अ॒मी॒व॒ऽचात॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
@@ -84,40 +84,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शेषनिघातेनानुदात्तत्वम् । अमीवशब्दः ‘ अम रोगे' इत्यस्मात् ‘शेवयह्वजिह्वाग्रीवाप्वामीवाः' (उ. सू. १. १५२ ) इति वन्प्रत्यये ईडागमे च निपातितः । नित्त्वादाद्युदात्तः । ‘चते चदे याचने च ' इत्यस्मात् हिंसार्थात् णिजन्तात् नन्द्यादित्वात् ल्युः ( पा. सू. ३. १. १३४ ) । योरनादेशः (पा. सू. ७. १. १ )। ‘णेरनिटि' (पा. ६. ४. ५१ ) इति णेर्लोपः । ‘लिति' (पा. सू. ६. १. १९३) इति धातोः अकारस्योदात्तत्वम् । न च स्वरे कर्तव्ये णिलोपस्य स्थानिवद्भावः; ‘न पदान्तद्विर्वचन (पा. सू. १. १. ५८) इत्यादिना प्रतिषेधात् । अमीवानां चातनः इति समासे कृदुत्तरपदप्रकृतिस्वरेण स एव शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise in the sacrifice, **Agni**, be the protector of that offerr of oblations who worships you, the messenger of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise Agni, the poet whose ordinances hold true at the ceremony, the god who banishes afflictions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise Agni in the sacrifice, the Sage whose ways are ever true,  
      The God who driveth grief away.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Praise Agni the sage, whose ordinances for the sacrifice are true, the god who drives away sickness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preise Agni, den Seher, dessen Vorschriften gültig sind beim Opfer, den Gott, der die Krankheit vertreibt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen Agni preise laut, der wahrt den Brauch beim Opferfest, Den Gott, der alles Leid verscheucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Славь поэта Агни,  
 Чьи законы непреложны во время обряда,  

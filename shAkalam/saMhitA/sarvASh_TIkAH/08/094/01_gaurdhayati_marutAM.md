@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गउ꣡र् धयति मरु꣡तां᳐  
 श्रवस्यु꣡र् माता꣡ मघो꣡नाम्  
 युक्ता꣡ व꣡ह्नी र꣡थाना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यु॒क्ता । वह्निः॑ । रथा॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मघोनां** धनवतां **मरुतां** **माता** निर्मात्री **गौः** पृश्निरूपा । ‘पृश्नियै वै पयसो मरुतो जाताः' इति श्रुतेः। यद्वा । गौर्माध्यमिकी वाक् । तत्रैव मध्यमस्थाने मरुतामपि वर्तनात्तेषां तत्पुत्रत्वमुपचर्यते। **धयति** सोमं पिबति पाययति वा स्वपुत्रान् मरुतः । किमिच्छन्ती। **श्रवस्युः** अन्नं कामयमाना । कीदृशी। **रथानां** मारुतानां **वह्निः** पृषतीभिर्वडवाभिर्वोढ्री संयोजयित्री सा **युक्ता** सर्वत्र समन्तात् पूज्या भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The cow: cf. RV. 1.23.10; 2.34.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cow herself takes suck, the fame-seeking mother of the bounteous  Maruts;  
 she is yoked as the draft-horse of their chariots,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ For the somewhat peculiar imagery of these vss., see the published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Cow, the famous Mother of the wealthy Maruts, pours her milk:  
      Both horses of the cars are yoked,-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kuh saugt, der freigebigen Marut ehrgeizige Mutter; als Zugtier der Wagen ist sie angeschirrt,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kuh, die nach der Nahrung lechzt, der reichen Maruts Mutter trinkt, Zum Ziehn der Wagen angeschirrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сосет корова, жаждущая славы  
 Мать щедрых Марутов,  

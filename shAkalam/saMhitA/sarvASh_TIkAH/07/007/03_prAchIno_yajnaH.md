@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्राची꣡नो यज्ञः꣡ सु꣡धितं हि꣡ बर्हिः꣡  
 प्रीणीते꣡ अग्नि꣡र् ईळितो꣡ न꣡ हो꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡तो यविष्ठ जज्ञिषे꣡ सुशे꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । मा॒तरा॑ । वि॒श्ववा॑रे॒ इति॑ वि॒श्वऽवा॑रे । हु॒वा॒नः । यतः॑ । य॒वि॒ष्ठ॒ । ज॒ज्ञि॒षे । सु॒ऽशेवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prācīno* ← *prācīnaḥ* ← *prācīna*
 - \[noun\], nominative, singular, masculine
@@ -127,36 +127,36 @@ genre M
 अयं **यज्ञः** **प्राचीनः** । सम्यगनुष्ठीयत इत्यर्थः । यद्वा । यज्ञो यष्टा होता प्राचीनः । यद्वा । यज्ञो हविः प्राचीनः प्राचीनं प्राङमुखमासन्नम्। **बर्हिः** **हि** बर्हिश्च **सुधितं** सुनिहितम् । **ईळितः** स्तुतः **अग्निः** **प्रीणीते** तृप्तश्च भवति । **होता** **न** होता च । नेति चार्थे । **विश्ववारे** विश्वैर्वरणीये **मातरा** द्यावापृथिव्यौ इडायाम् **आ** **हुवानः** भवति । कदेत्यत आह । **यतः** यदा **यविष्ठ** हे युवतमाग्ने त्वं **सुशेवः** सुसुखः **जज्ञिषे** जायसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sacrifice is presen; the sacred grass is strewn; **Agni** lauded is satisfied, and is the ministrant priestinvoking the all-desired parents of whom you, honoured Agni, the youngest (of the gods), are born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice is turned eastward, for the ritual grass is rightly laid. Agni is  pleased, invoked like a Hotar,  
 being summoned here to the two mothers [=Earth and Heaven] who  fulfill all desires, from whom, o youngest one, you have been born as  the very kind one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The grass is strewn; the sacrifice advances adored as Priest, Agni is made propitious,  
      Invoking both All-boon-bestowing Mothers of whom, Most Youthful! thou wast born to help us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer ist gerichtet, denn das Barhis ist wohlgelegt. Agni ist günstig gestimmt, wie der Hotri zum Opfer berufen, die beiden allbegehrten Mütter einladend, von denen du Jüngster geboren bist als der Liebling.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor strebt das Opfer, schön ist Streu gebreitet, erfreut ist Agni, ein erflehter Priester, Einladend deine schätzereichen Aeltern, aus denen lieblich du entsprangst, o jüngster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертва обращена на восток – ведь солома хорошо сложена.  
 Доволен Агни, словно приглашенный хотар,  

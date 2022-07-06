@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्मात् सीम् अधमाँ꣡ इन्द्र द꣡स्यून्  
 वि꣡शो दा꣡सीर् अकृणोर् अप्रशस्ताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡विन्देथाम् अ꣡पचितिं व꣡धत्रैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अबा॑धेथाम् । अमृ॑णतम् । नि । शत्रू॑न् । अवि॑न्देथाम् । अप॑ऽचितिम् । वध॑त्रैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
@@ -117,7 +117,7 @@ genre M
 हे **इन्द्र** त्वं **सीम्** एनान् **दस्यून्** **विश्वस्मात्** सर्वस्मात् गुणात् **अधमान्** हीनान् **अकृणोः** अकरोः । किंच **दासीः** कर्महीनाः **विशः** मानुषीः प्रजाः **अप्रशस्ताः** गर्हिता अकृणोः । हे इन्द्रासोमौ युवां **शत्रून्** **अबाधेथाम्** । **नि** **अमृणतं** नितरां हिंसितवन्तौ । अपि च **वधत्रैः** तेषां शत्रूणां प्रहारैः **अपचितिं** पूजां जनेभ्यः **अविन्देथाम्** अलभेथाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ You have made the servile races abject: **viśa** dāsīr akṛṇora **praśast
 Apraśastāḥ = garhitāḥ, reviled, vile
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, you made the Dasyus the lowest of all and the Dāsa clans  deprived of laud.  
 You two oppressed and crushed down your rivals and found requital  with your deadly weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the construction with akṛṇoḥ see disc. ad vs. 1.
 
@@ -145,23 +145,23 @@ There is a slight syntactic clash between ablative víśvasmāt, appropriate to 
 The dual verbs of cd (ábādhethām ámṛṇatam … ávindethām) must have Indra and Soma as subjects, as the larger context (vss. 1-2) and the explicit Vāyav Indraś ca construction in 5b show. But the immediate context (vs. 3) falsely suggests Indra and Agni on the basis of 3a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lower than all besides hast thou, O Indra, cast down the Dasyus, abject tribes of Dasas.  
      Ye drave away, ye put to death the foemen, and took great vengeance with your murdering weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, machtest, daß die Dasyu´s zu allerunterst stehen, du machtest die dasischen Stämme ehrlos. Ihr beide bedränget, zermalmtet die Feinde; mit den Waffen nahmet ihr Vergeltung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Indra machtest niedriger als alles die Bösen, die verruf'nen Dämonstämme; Ihr beide stiesst hinab, erschlugt die Feinde, Vergeltung übtet ihr durch Todesstreiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты сделал,) о Индра, дасью самыми низкими из всех,  
 Ты сделал племена даса бесславными.  

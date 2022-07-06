@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रं का꣡माय ह꣡रयो दधन्विरे  
 स्थिरा꣡य हिन्वन् ह꣡रयो ह꣡री तुरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡ अस्य का꣡मं ह꣡रिवन्तम् आनशे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अर्व॑त्ऽभिः । यः । हरि॑ऽभिः । जोष॑म् । ईय॑ते । सः । अ॒स्य॒ । काम॑म् । हरि॑ऽवन्तम् । आ॒न॒शे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araṃ* ← *aram*
 - \[adverb\]
@@ -123,37 +123,37 @@ genre M
 अरमलं पर्याप्तं कामायेन्द्रकामनाय हरयो हरितवर्णाः सोमा दधन्विरे। ते च हरयः स्थिराय युद्धेऽपलयितायेन्द्राय तुरा तुरौ त्वरमाणौ हरी अश्वौ हिन्वन्। प्रेरयन्ति। योऽर्वद्भिररणकुशलैर्हरिभिरश्वैर्जोषं शूरैः सेव्यं सङ्ग्राममीयते गच्छति स रथोऽस्येन्द्रस्य स्वभुतं कामं कमनीयं हरिवन्तं सोमवन्तं यज्ञमानशे। व्याप्नोति॥७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yellow-tinted (**Soma**) is stored up sufficient to whet his desires, the yellow-tinted Soma urges his twoswift bay horses for the salwart (**Indra**). His (chariot) which rushes with spirited bay horses to the conflict, hasreached his desire (the sacrifice) in which the Soma is presented.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sufficient for his desire, the golden ones have run; the golden ones spur  on the surpassing pair of golden (horses) for the steadfast one.  
 Who speeds as he pleases with his golden steeds, he has attained his  
 desire that provides the golden (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tle gold-hued drops have flowed to gratify his wish: the yellow dro s have urged the swift Bays to the Strong.  
      He who speeds on with Bay Steeds even as he lists hath satisfied his longing for the golden drops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Recht nach deinem Wunsche rannen die goldfarbigen Somatropfen und Renner. Die goldfarbigen Somatropfen treiben dem standfesten Indra das überlegene Falbenpaar zur Eile an. Der mit goldgelben Rennpferden nach Belieben fährt, er hat seinen Wunsch, den goldfarbigen Soma zu besitzen, erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem starken strömten goldne Tränke zu nach Wunsch, die goldnen spornten an sein goldnes rasches Paar; Der mit den goldnen Rennern eilt nach seiner Lust, erfüllte sein Verlangen nach dem goldnen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прямо по (твоему) желанию помчались золотистые (соки сомы).  
 Для твердого (Индры) золотистые (соки) поторапливают пару превосходных буланых (коней).  

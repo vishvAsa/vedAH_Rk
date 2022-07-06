@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं रोदसी रयि꣡म्  
 म꣡ध्वो वा꣡जस्य सात꣡ये  
 श्र꣡वो व꣡सूनि सं꣡ जितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्रवः॑ । वसू॑नि । सम् । जि॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -80,35 +80,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **रोदसी** द्यावापृथिव्यौ युवां **मध्वः** देवानां मोदयितुः **वाजस्य** सोमात्मकस्यान्नस्य **सातये** लाभाय **अस्मभ्यं** काश्यपासितेभ्यः काश्यपदेवलेभ्यो वा **रयिं** धनं **श्रवः** अन्नं च **वसूनि** वासकान्यन्यान्यपि पश्वादीनि धनानि **सं** **जितं** संजयतम् । प्रयच्छतमित्यर्थः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Heaven and earth, for the acquisition of this exhilarating **Soma** food, win for us wealth, food and treasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two World-Halves, for us to win the prize of honey, conquer wealth, conquer fame and goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒स्मभ्यं॑ रोदसी र॒यिं मध्वो॒ वाज॑स्य सा॒तये॑ ।  
 श्रवो॒ वसू॑नि॒ सं जि॑तम् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erobert uns, ihr beiden Rodasi, Reichtum, um den Lohn der Süßigkeit zu gewinnen; ersieget uns Ruhm und Schätze!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewinnt, o Erd' und Himmel, uns Vermögen, Güter, hohen Ruhm, Um zu empfahn des Trankes Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы,) обе половины вселенной, завоюйте  
 Нам богатство, чтобы захватить  

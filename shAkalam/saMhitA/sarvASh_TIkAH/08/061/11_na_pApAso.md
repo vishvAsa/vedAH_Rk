@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ पापा꣡सो मनामहे  
 ना꣡रायासो न꣡ ज꣡ळ्हवः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡खायं कृण꣡वामहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । इत् । नु । इन्द्र॑म् । वृष॑णम् । सचा॑ । सु॒ते । सखा॑यम् । कृ॒णवा॑महै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 वयमिन्द्रं **पापासः** पापा अकृतपुण्या ब्रह्मचर्यव्रतादिरहिताः **न** **मनामहे** न मन्यामहे । तथा **अरायासः** अराया अधना वा अहविष्का वा **न** मनामहे । **न** **जल्हवः** अज्वलनाः अनग्नयो न मनामहे । कृतव्रतनियमादिपुण्या दानवन्तोऽग्निसहितास्तं स्तुम इत्यृषिरात्मानमाह। **यदित्** यस्मादेव कारणात् **नु** इदानीं **वृषणं** वर्षकम् **इन्द्रं** **सुते** सोमेऽभिषुते **सचा** सहिताः **सखायं** **कृणवामह** कुर्मः तस्मात् पापादिरहिता मनामहे । पापादिविशिष्टानामिन्द्रसाहाय्यकरणासंभवात् । अत्र ‘न पापा मन्यामहे ' (निरु. ६. २५) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 We are not evil:manamahe = to appear, we do not appear eviḷ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let us not be regarded as evil, or stingy, or greedy,  
 if just now we will make Indra, the bull, into our companion at the  pressing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Kulikov (339-40, flg. Gotō) does not allow a passive reading for medial forms of √man, but aside from Gotō’s dictum I see nothing against such an interpretation, which fits the passage better than a reflexive one. The hapax árāya- is plausibly taken as a negated form derived from the root √rā ‘give, bestow’ by Mayrhofer EWA s.v. rayí-.
 
@@ -141,23 +141,23 @@ jaḍhara- ‘belly’ cited in EWA s.v. jaṭhára- [though not registered in T
 The point of the verse seems to be that we don’t want to get a bad reputation for being selfish by grabbing Indra to be our exclusive companion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We count not then as sinners, nor as niggardly or foolish men,  
      When with the Soma juice which we have shed we make Indra, the Mighty One, our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht halten wir uns für schlechte Leute noch für karge, noch für ...., wenn wir jetzt den Bullen Indra zum Genossen beim Soma machen wollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht zeigen wir als schlechte uns, als gabenlos und blöden Sinns; Den starken Indra wollen wir beim Somasaft recht zum Genossen machen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы не чувствуем себя ни злыми,  
 Ни жадными, ни:,  

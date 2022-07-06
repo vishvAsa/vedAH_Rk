@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पाहि꣡ नो अग्ने रक्ष꣡सो अ꣡जुष्टात्  
 पाहि꣡ धूर्ते꣡र् अ꣡ररुषो अघायोः꣡  
 तुवा꣡ युजा꣡ पृतनायूँ꣡र् अभि꣡ ष्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वा । यु॒जा । पृ॒त॒ना॒ऽयून् । अ॒भि । स्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
@@ -102,36 +102,36 @@ genre M
 हे **अग्ने** **नः** अस्मान् **अजुष्टात्** अप्रीतिविषयात् **रक्षसः** राक्षसात् **पाहि** रक्ष । किंच **अररुषः** अदातुः **अघायोः** पापमिच्छतः **धूर्तेः** हिंसकात् **पाहि** । अपि च **त्वा** त्वया **युजा** सहायभूतेन **पृतनायून्** पृतनाकामान् **अभि** **ष्याम्** अहमभिभवेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect us, **Agni**, from the odious **rākṣasas**; protect us from the malignant, the illiberal, the iniquitous;may I, with you for my ally, triumph over the hostile.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us, Agni, from the detestable demon. Protect us from the  crookedness of the ungenerous and malicious one.  
 With you as my yokemate, I would prevail over those doing battle  (with me).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guard us, O Agni, from the hated demon, guard us from malice of the churlish sinner:  
      Allied with thee may I subdue assailants.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütz uns, Agni, vor dem unlieben Unhold, schütz uns vor der Falschheit des übelwollenden Knausers! Mit dir als Bundesgenosse möchte ich die Angreifer siegreich bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschütz uns, Agni, vor dem schlimmen Nachtgeist und vor dem Leid des geiz'gen Uebelthäters, Mit dir vereint mög' ich den Feind besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити нас, о Агни, от ракшаса отвратного,  
 Защити от обмана скупого злоумышленника!  

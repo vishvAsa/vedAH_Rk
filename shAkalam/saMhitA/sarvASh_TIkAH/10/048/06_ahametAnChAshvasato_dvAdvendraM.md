@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् एता꣡ञ् छा꣡श्वसतो दुवा꣡-दुवा  
 इ꣡न्द्रं ये꣡ व꣡ज्रं युध꣡ये अ꣡कृण्वत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दॄळ्हा꣡+ व꣡दन्न् अ꣡नमस्युर् नमस्वि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽह्वय॑मानान् । अव॑ । हन्म॑ना । अ॒ह॒न॒म् । दृ॒ळ्हा । वद॑न् । अन॑मस्युः । न॒म॒स्विनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -130,7 +130,7 @@ genre M
 **अहम्** इन्द्रः **एतान्** वक्ष्यमाणान् **शाश्वसतः** भृशं प्राणतः प्रवृद्धबलान् शत्रून्  **द्वाद्वा** द्वौ द्वौ। युग्मभूतानित्यर्थः। तानहनमिति संबन्धः। एतानित्युक्तं कानित्याह । **ये** शत्रवः **इन्द्रं** शत्रूणां दारकम् । इन्द्रः शत्रूणां दारयिता इति निरुक्तम् (निरु. १०. ८ )। ईदृशं **वज्रं** बलिनं यद्वा वज्रवन्तं **युधये** युद्धाय **अकृण्वत** अकुर्वत तानेतानित्यर्थः । पुनः कीदृशान् । **आह्वयमानान्** एहि युध्यस्वेत्याह्वयतः शत्रून् **नमस्विनः** नमनवतो बलान्नामयित्वा **अनमस्युः** अप्रणतिशीलः सन् **दृळ्हा** दृढानि भयजनकानि स्थिराणि वचनानि **वदन्** **अहनं** हतवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 Indra: indram, the destroyer of foes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I (struck down) by twos those, snorting heavily, who caused Indra and  his mace to fight (them);  
 I struck down with my stroke those who were challenging (me), while I,  unbowable, was talking tough to those to be bowed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, breathing loud in fury, two and two, who caused Indra to bring his bolt of thunder to the fray,  
      The challengers, I struck with deadly weapon down: firm stand what words the God speaks to his worshippers.  
@@ -155,17 +155,17 @@ These, breathing loud in fury, two and two, who caused Indra to bring his bolt o
      Like many sheaves upon the floor I thrash them. How can my foes, the Indraless, revile me?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich trieb jene Schnaubenden je zwei zu Paaren, die den Indra, seine Keule zum Kampfe veranlaßten. Die Herausfordernden schlug ich mit einem Schlage nieder, eine feste Sprache gegen die sich Beugenden führend, selbst unbeugsam.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schlug die wüthend schnaubenden je zwei und zwei, die Indra mich, und meinen Blitz zum Streit ersahn, Mit einem Hieb, die mich zum Kampfe forderten, mit starkem Schall, unbeugsam die sich beugenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я (разогнал) подвое этих сопящих,  
 Что заставили Индру (поднять) ваджру для битвы.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्य꣡-अद्या शुवः꣡-शुव  
 इ꣡न्द्र त्रा꣡स्व परे꣡ च नः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दि꣡वा न꣡क्तं च रक्षिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । च॒ । नः॒ । ज॒रि॒तॄन् । स॒त्ऽप॒ते॒ । अहा॑ । दिवा॑ । नक्त॑म् । च॒ । र॒क्षि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adyādyā* ← *adya*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 **अद्याद्य** यदद्यशब्दवाच्यमहरस्ति तत्र सर्वत्र एवं **श्वःश्वः** **त्रास्व** रक्ष। तथा **परे** **च** परस्मिंस्तृतीयेऽहनि च त्रास्व । हे **सत्पते** सतां पालक **विश्वा** सर्वाण्यपि **अहा** अहानि सर्वेष्वप्यहःसु **नः** अस्मान् **जरितॄन्** **रक्षिषः** रक्षसि । तथा 'दिवा **नक्तं** **च** रक्षिषः रक्षसि रक्ष वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Save us, **Indra**, every today, every tomorrow, and every succeeding day; lord of the good, protect us,your praisers, in all days, by day and night.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today after today, tomorrow after tomorrow, rescue us, o Indra—and  in the future.  
 Through all the days, by day and by night, you will guard our singers, o  lord of settlements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Protect us, Indra, each to-day, each morrow, and each following day.  
      Our singers, through all days, shalt thou, Lord of the brave, keep safely both by day and night.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze uns jeden Tag, jeden Morgen, Indra, und künftig! Und alle Tage. Tag und Nacht, mögest du rechtmäßiger Herr uns Sänger schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns Sänger schütz, o Indra, heut und morgen und in Zukunft auch, Und alle Tage schirme uns, o starker Held, bei Tag, bei Nacht behüte uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Каждый сегодняшний и каждый завтрашний день,  
 О Индра, охраняй нас, и в дальнейшем тоже!  

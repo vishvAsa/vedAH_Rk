@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध द्रप्सो꣡ अंशुम꣡त्या उप꣡स्थे  
 अ꣡धारयत् तनु꣡वं तित्विषाणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तिना युजे꣡न्द्रः ससाहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विशः॑ । अदे॑वीः । अ॒भि । आ॒ऽचर॑न्तीः । बृह॒स्पति॑ना । यु॒जा । इन्द्रः॑ । स॒स॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 तत्र इन्द्रो गत्वा **बृहस्पतिना** एतन् नामकेन देवेन **युजा** सहायेन **अदेवीः** अद्योतमानाः कृष्णरूपा- इत्यर्थः । यद्वा पापयुक्तत्वादस्तुत्याः आचरन्तीः आगच्छन्तीर्विशः असुरसोनाः अभिससहे जघान । तमवधीदित्यर्थः प्रसङ्गादवगम्यते ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 Godless hosts: adevīḥ = not shining, dark;not to be praised
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then the Droplet held his body in the lap of the Aṃśumatī, as he  glittered.  
 With Br̥haspati as yokemate, Indra overcame the godless clans as they  attacked.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “The distillate of all mother’s milk” for viśvápsnya- assumes the etymological connection between -psnya- and stána- ‘breast’, which is now standard doctrine. See EWA s.v. stána-.
 
@@ -155,23 +155,23 @@ I am inclined to see it as a treatment of the ritual step of rinsing the soma in
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And then the Drop in Amsumati's bosom, splendid with light, assumed its proper body;  
      And Indra, with Brhaspati to aid him, conquered the godless tribes that came against him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da behauptete sich Drapsa in schlimmer Lage im Schoße der Amsumati zornfunkelnd. Die anrückenden gottlosen Stämme hat Indra mit Brihaspati als Bundesgenossen bezwungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da nun erhielt im Schooss des Somastromes der Tropfen funkelnd erst sein rechtes Aussehn; Die gottvergessnen Stämme, die sich nahten, bezwang vereint mit dem Gebetsherrn Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

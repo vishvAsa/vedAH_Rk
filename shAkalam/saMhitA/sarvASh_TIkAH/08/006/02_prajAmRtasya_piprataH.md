@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रजा꣡म् ऋत꣡स्य पि꣡प्रतः  
 प्र꣡ य꣡द् भ꣡रन्त व꣡ह्नयः  
 वि꣡प्रा ऋत꣡स्य वा꣡हसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विप्राः॑ । ऋ॒तस्य॑ । वाह॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऋतस्य** यज्ञस्य सत्यस्य वा **प्रजां** प्रकर्षेण जातमिन्द्रं **पिप्रतः** नभसः प्रदेशान् पूरयन्तः **वह्नयः** वाहका अश्वाः **यत्** यदा **प्र** **भरन्त** प्रकर्षेण भरन्ति वहन्ति तदा **विप्राः** मेधाविनः **ऋतस्य** यज्ञस्य **वाहसा** प्रापकेण स्तोत्रेण तमिन्द्रं स्तुवन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Steeds: vahnayaḥ = vāhakāḥ **aśvāḥ**; progeny of the sacrifice: i.e.**Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They (are) guiding the offspring of truth [=poem] safely across, when  they bring it forward—the conveyors,  
 the inspired poets, by the conveyance of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation takes pāda a as a nominal sentence with a predicated present participle (píprataḥ), a fairly rare but not unprecedented construction. This has two advantages: 1) it provides the verse with a main clause, 2) it avoids an anomalous position for yád. However, since yád is also badly positioned in 3a and 8b, the second observation may not be an argument. See remarks on 8 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the priests, strengthening the Son of Holy Law, present their gifts,  
      Singers with Order's hymn of praiser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Wagenlenker des Opfers das Kind des rechten Brauches vorführen, es zu gutem Ende bringend, die Redekundigen mit dem Fahrzeug des rechten Brauches,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Priester ihm des Opfers Spross entgegenbringen führend ihn, Begeistert bei des Opfers Dienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда переправляя дитя закона,  
 Приносят (жертву) вдохновенные  

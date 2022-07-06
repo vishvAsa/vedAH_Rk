@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्मै ते प्रतिह꣡र्यते  
 जा꣡तवेदो वि꣡चर्षणे  
 अ꣡ग्ने ज꣡नामि सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । जना॑मि । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **जातवेदः** जातधन **विचर्षणे** विद्रष्टः **अग्ने** **अस्मै** **प्रतिहर्यते** प्रयच्छते **ते** तुभ्यं **सुष्टुतिं** शोभनां स्तुतिं **जनामि** आङ्गिरसोऽहं जनयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,29 +85,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Liberal offerer: pratiharya = to accept, desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you right here, yearning for it, o unbounded Jātavedas,  
 o Agni, I generate a lovely praise hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise Agni Jatavedas, I beget a song of praise for thee.  
      Who willingly receivest it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dich, den erwartungsvollen, ausgezeichneten Jatavedas, dichte ich ein Loblied, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum dir, dem gern empfangenden, o Wesenkenner, rüstiger, O Agni, zeug' ich Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя, охотно (их) принимающего,  
 О Джатаведас, движущийся в разные стороны,  

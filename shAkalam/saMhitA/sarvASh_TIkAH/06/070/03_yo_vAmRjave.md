@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वाम् ऋज꣡वे क्र꣡मणाय रोदसी  
 म꣡र्तो ददा꣡श धिषणे स꣡ साधति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवोः꣡ सिक्ता꣡ वि꣡षुरूपाणि स꣡व्रता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र । प्र॒ऽजाभिः॑ । जा॒य॒ते॒ । धर्म॑णः । परि॑ । यु॒वोः । सि॒क्ता । विषु॑ऽरूपाणि । सऽव्र॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -121,21 +121,21 @@ genre M
 **धिषणे** धृष्टे सर्वस्य भुवनस्य निवासभूते वा हे **रोदसी** **वां** युवाभ्यां **यः** **मर्तः** मर्त्यः **ऋजवे** **क्रमणाय** युवयोः सुखगमनाय **ददाश** हवींषि ददाति **सः** मर्त्यः **साधति** कामान् साधयति । किंच **प्रजाभिः** पुत्रपौत्रादिभिः **प्र** **जायते** प्रवृद्धो भवति । **धर्मणः** कर्मणः **परि** उपरि **युवोः** युवयोः **सिक्ता** सिक्तानि रेतांसि **विषुरूपाणि** नानावर्णानि **सव्रता** समानकर्माणि भूतानि जायन्ते॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Firm-set Heaven and Earth, the mortal who has offered (oblations) for your straight-forward course, accomplishes (his objects), he prospers with progeny, and invigorated by your operation, many beings of various forms, but similar functions, are engendeed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who, to stride straight, ritually serves you two—you  
 World-Halves, you two Holy Places—that one reaches his goal.  
 He is propagated through his progeny forth from your foundation. Those  (creatures) that are poured out from you, (though) of diverse forms,  have the same commandments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the double etym. figure prá prajā́bhir jāyate, see comm. ad VIII.27.16.
 
@@ -156,23 +156,23 @@ yuvát is attested only once in the RV, and I take yuvóḥ as an ex. of the all
 The explicitly contrastive víṣurūpāṇi sávratā reminds us of the phrase in the Yama/Yamī hymn X.10.2, sálakṣmā … víṣurūpā, describing Yamī compared to Yama: “having the same marks, but dissimilar form.” ### 04-05 These two vss., concerning ghee and honey respectively, have similarly structured 1st halves: a case form of the substance opens the vs. (4a ghṛténa, 5a mádhu), while the 2nd pāda consists of three 3 cmpds in the dual with the substance as 1st member. The 2nd members do not repeat (ghṛta-śríyā ghṛta-pṛ́cā ghṛtā-vṛ́dhā; madhu-ścútā madhu-dúghe mádhu-vrate), but only the last two are not root noun cmpds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso, for righteous life, pours offerings to you, O Heaven and Earth, ye Hemispheres, that man succeeds.  
      He in his seed is born again and spreads by Law: from you flow things diverse in form, but ruled alike.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, der, um rechtschaffen zu wandeln, euch Opfer gespendet hat, ihr Rodasi, ihr Dhisana, der hat Erfolg, der pflanzt sich pflichtgemäß durch Kinder fort. Eure Samen sind die verschiedenartigen Geschöpfe, die dem gleichen Gebot folgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch' Sterblicher, um recht zu wandeln, euch verehrt, o Welten, o ihr Schalen beide, der gedeiht, Der lebt durch Kindeskinder nach der Reihe fort; was ihr ergiesst ungleich an Form ist wesensgleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот смертный, кто ради прямой поступи (в жизни)  
 (Всегда) вас почитал, о два мира – источники вдохновения, он достигает цели,  

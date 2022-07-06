@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सोम प꣡रि षिच्यसे नृ꣡भिर्  
 नृच꣡क्षा ऊर्मिः꣡ कवि꣡र् अज्यसे व꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रम् अ꣡श्वा ह꣡रयश् चमूष꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । हि । ते॒ । स्रु॒तयः॑ । सन्ति॑ । यात॑वे । स॒हस्र॑म् । अश्वाः॑ । हर॑यः । च॒मू॒ऽसदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 हे **सोम** त्वम् **इन्द्राय** इन्द्रार्थं **नृभिः** नेतृभिर्ऋत्विग्भिः **परि** **षिच्यसे** अभिषूयसे । तथा हे सोम **नृचक्षाः** नृणां यष्टॄणामनुग्रहेण द्रष्टा **ऊर्मिः** प्रेर्यमाणः प्रवृद्धो वा **कविः** मेधावी च त्वं **वने** उदके **अज्यसे** प्रेर्यसे । **पूर्वीः** बह्व्यः **हि** **ते** **स्रुतयः** मार्गाश्छिद्राणि **सन्ति** **यातवे** यातुम् । अल्पस्य सोमस्य अपरिमितस्रुतिगमनासंभवात्तस्य बाहुल्यमाह । **चमूषदः** अभिषवणफलकयोः सीदतः **सहस्रम्** अपरिमिताः **अश्वाः** व्याप्ताः **हरयः** हरितवर्णा अंशवः सन्ति । अथवा । इन्द्राय परिषिच्यस इत्युक्तत्वादिन्द्रप्राप्तौ मार्गसाधनयोः सद्भाव उत्तरार्धेन प्रतिपादितः । ते पुरातन्यः सरण्यः सन्तीन्द्रं प्रति यातुम् । तथा सहस्रसंख्याका हरितवर्णा अश्वाश्च सन्ति। चमूषदस्तवेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,14 +139,14 @@ genre M
 Many are the paths for you to follow: or, 'there are ancient paths for you to go to Indra, and a thousand bay horses standing in the cups'\].
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra, o Soma, you are poured in circles by the men. As a wave  drawing the gaze of men, as poet, you are driven to the wood  
 [/anointed in the wood],  
 for there are many courses for you to travel and a thousand fallow bay  horses sitting in the cups.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rt. noun compd mada-cyút- (on which see also above) is taken by Geldner as having passive semantics (“rauscherregt”), in contrast to the active transitive semantics of my ‘arousing exhilaration’ and Renou’s “mouvant l’ivresse.” Scarlatta (128-29) allows both for the cmpd in general, without deciding on particular passages. Since, all things being equal, rt noun cmpds to roots with transitive value tend to display that (type vṛtra-hán-), and most of the other -cyút- cmpds are transitive (acyuta-cyút- ‘shaking the unshakeable’, parvata-cyút- ‘shaking the mountains’), a transitive interpr. seems to me the default. For the five attestations of madacyút- in IX, all modifying soma or soma drops, as here, a transitive interpr. is the more natural: soma is, after all, what produces máda-. However, the cmpd. elsewhere also modifies Indra or similar entities, who are more likely to be roused to exhilaration than to rouse it (e.g., I.51.2), and the passive value should be allowed there. Indeed in I.81.3, by my interpr., there are two potential referents (Indra / soma) and two different readings of the cmpd.
 
@@ -167,23 +167,23 @@ Although (a)codásaḥ (1a) and (mada-)cyútaḥ (2a) obviously belong to differ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Soma, art effused for Indra by the men, balmed in the wood as wave, Sage, Viewer of mankind.  
      Full many are the paths whereon thou mayest go: a thousand bay steeds hast thou resting in the bowls.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra wirst du, Soma, von den Männern umgegossen, mit Herrenaugen blickend, als Seher wirst du, das Gewoge, im Holze gesalbt, denn du hast viele Wege zum Gehen, tausend falbe Rosse, wenn du in den Camugefäßen sitzest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra wirst von Männern, Soma, du, gereicht, ins Holz geführt, ein weiser, männerschaunder Strom; Denn viele Bahnen sind zum Fahren dir bereit und tausend goldne Rosse eilend in den Trog.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры, о сома, тебя разливают кругом мужи.  
 Поэт со взглядом героя, волна (сладости), ты умащаешься в деревянном сосуде.  

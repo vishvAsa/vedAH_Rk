@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ना न꣡वग्वो दधिअ꣡ङ्ङ् अपोर्णुते꣡  
 ये꣡न वि꣡प्रास आपिरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ये꣡न श्र꣡वांसि आनशुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दे॒वाना॑म् । सु॒म्ने । अ॒मृत॑स्य । चारु॑णः । येन॑ । श्रवां॑सि । आ॒न॒शुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -99,20 +99,20 @@ genre M
 **नवग्वः** नवनीयगतिः यद्वा नवभिर्मासैः सत्रस्यानुष्ठाता **दध्यङ्** एतन्नामकोऽङ्गिराः **येन** सोमेन पणिभिरपहृतानां गवां द्वारम् **अपोर्णुते** अपाच्छादयति विवृतमकार्षीत् । **विप्रासः** तन्मुखाः सर्वे मेधाविनोऽङ्गिरसः **येन** च सोमेन **आपिरे** एतैरपहृता गरे आप्नुवन् । किंच **देवानाम्** इन्द्रादीनां **सुम्ने** सुखे यज्ञेन संजाते सति **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य संबन्धीनि **श्रवांसि** अन्नानि **येन** च सोमेन यजमानाः **आनशुः** व्याप्नुवन् अलभन्त । स त्वं देवानाममृतत्वाय शब्दायस इति पूर्वेण समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You) through whom Dadhyañc tthe offerer of the nine days' rites opened (the cave), through whom the ṛṣis recovered (the stolen cows), through whom under the protection of the gods the worshippers obtained the sustenance of the delicious (ambrosial water).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With whom Navagva, with whom Dadhyañc uncloses (the cowpen), by  whom the inspired poets have acquired for themselves  
 (some) of the dear immortal one [=heavenly soma] in the grace of the  gods, by whom they have each attained fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although pāda a treats the mythological past—the opening of the Vala cave (Navagva) and Dadhyañc’s presumably similar exploit (see his connection with cow pens in X.48.2)—the verb is present tense aporṇuté, where we might expect an impf., a pres. injunc., or a pf. The two parallel yéna clauses have perfects. Hoffmann does not comment on this usage.
 
@@ -132,23 +132,23 @@ Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By whom Dadhyac Navagva opens fastened doors, by whom the sages gained their wish,  
      By whom they won the fame of lovely Amrta in the felicity of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den Navagva, Dadhyac das Tor aufschließt, durch den die Redekundigen in der Götter Gunst von der lieben Unsterblichkeit etwas erlangten, durch den sie Ruhm erreichten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dich erschliesst der Neuner Dadhiank die Flut, durch dich gedieh der Sänger Schar; Durch dich erlangten sie des schönen Göttertranks Beglückung in der Götter Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря кому Навагва, Дадхьянч открывает (пещеру с коровами),  
 Благодаря кому вдохновенные (поэты) приобщились  

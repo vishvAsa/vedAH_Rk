@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि पुत्रोपमश्रवो  
 न꣡पान् मित्रातिथेर् इहि  
 पितु꣡ष् टे अस्मि वन्दिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 पि॒तुः । ते॒ । अ॒स्मि॒ । व॒न्दि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M
 हे **पुत्र** **उपमश्रवः** **मित्रातिथेः** **नपात्** पुत्र त्वम् **अधि** **इहि** मत्समीपमागच्छ । **ते** तव **पितुः** तस्य मित्रातिथेरहं **वन्दिता** स्तोता **अस्मि** । एतज्ज्ञात्वा शोकं मा कुरु । यद्देयं द्रव्यमस्ति तत्सर्वं मह्यं देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to me, my son, grandson of Mitrātithi; I am the eulogist of your father.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Learn, o Upamaśravas, his son, o grandson of Mitrāthiti:  
 I am the celebrant of your father.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mark, Upamasravas, his son, mark, grandson of Mitratithi:  
      I am thy father's eulogist.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gedenke, o Sohn Upamasravas, Mitratithi´s Enkel: Ich bin deines Vaters Barde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Merke auf, o Upamaçravas, du Sohn, du Spross des Mitrātithi, ich bin ein Verehrer deines Vaters.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вспомни, о сын Упамашравас,  
 Внук Митратитхи:  

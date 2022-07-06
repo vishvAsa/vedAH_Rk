@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः कि꣡ल श्रु꣡तिया अस्य꣡ वेद  
 स꣡ हि꣡ जिष्णुः꣡ पथिकृ꣡त् सू꣡रियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡तिर् दिवः꣡ सनजा꣡ अ꣡प्रतीतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आत् । मेना॑म् । कृ॒ण्वन् । अच्यु॑तः । भुव॑त् । गोः । पतिः॑ । दि॒वः । स॒न॒ऽजाः । अप्र॑तिऽइतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -136,36 +136,36 @@ genre M
 **अस्य** अस्मदीयस्य स्तोत्रस्य **श्रुत्यै** श्रवणाय **इन्द्रः** **किल** इन्द्र एव **वेद** जानाति । **स** **हि** स एव **जिष्णुः** शत्रूणां जयशीलः **सूर्याय** **पथिकृत्** मार्गकर्ता भवति । किंच **अच्युतः** शत्रुभिरगन्तव्यो वृषणश्वस्य **मेनाम्** आत्मानं **कृण्वन्** कुर्वन् इन्द्रः **आत्** । आगच्छत्यस्मदीयं यज्ञम् ।  ‘ मेनाभवो वृषणश्वस्य सुक्रतो' (ऋ. सं. १, ५१. १३) इति मन्त्रान्तरम् ॥  ‘ अस गतिदीप्त्यादानेषु' । भौवादिकः । - - - ॥ **दिवः** द्युलोकस्य च **पतिः** **भुवत्** अभूत् ॥ भवतेर्लेट् । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “On hearing our praise **Indra** knows our wishes; victorious, he opens a path for the sun; making himselfMenā, he came (to the sacrifice), he was unassailable, the lord of cattle, (the lord) of heaven, eternal,unsurpassed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra certainly knows of this, from hearing it. For he was the victorious  path-maker for the sun,  
 and after that, making a wife from a cow [=Dawn], he became the  husband of the cow and lord of heaven, immovable, ancient born,  unopposable.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra knows, verily, how to hear our singing, for he, victorious, made a path for Surya.  
      He made the Cow, and be became the Sovran of Heaven, primeval, matchless, and unshaken.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra versteht gewiß gerade dieses Lied, um es anzuhören, denn er ist der siegreiche Wegbereiter für den Sonnengott. Und ein Weibchen des Rindes machend, war der Unentwegte der Herr des Himmels, der vor Alters Geborene, nie Wankende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra fürwahr kann wol das Lied erhören, denn siegreich schuf der Sonne ihre Bahn er, Des Stieres Weib dann schaffend stand er fest da, des Himmels Herr, unhemmbar, urgeboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, конечно, сумеет это услышать:  
 Он ведь победоносный пролагатель пути для солнца.  

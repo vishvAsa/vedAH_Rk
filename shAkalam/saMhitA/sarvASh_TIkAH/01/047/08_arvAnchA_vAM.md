@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ञ्चा वां स꣡प्तयो अध्वरश्रि꣡यो  
 व꣡हन्तु स꣡वने꣡द् उ꣡प  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡ बर्हिः꣡ सीदतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इष॑म् । पृ॒ञ्चन्ता॑ । सु॒ऽकृते॑ । सु॒ऽदान॑वे । आ । ब॒र्हिः । सि॒द॒त॒म् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāñcā* ← *arvāñc*
 - \[noun\], accusative, dual, masculine
@@ -118,37 +118,37 @@ genre M
 हे अश्विनौ **अध्वरश्रियः** यागसेविनः **सप्तयः** अश्वाः **सवनेदुप** अस्मद्नुष्ठेयानि त्रीणि सवनान्येवोपलक्ष्य **अर्वाञ्चा** अभिमुखौ **वां** युवां **वहन्तु** प्रापयन्तु । हे **नरा** अश्विनौ **सुकृते** सुष्ठु कर्मकारिणे **सुदानवे** शोभनदानयुक्ताय यजमानाय **इषम्** अन्नं **पृञ्चन्ता** संयोजयन्तौ युवां **बर्हिः** **आ** **सीदतं** दर्भं प्राप्नुतम् ॥ अर्वाञ्चा । सुपां सुलुक्° ' इति विभक्तेः आकारः । अध्वरश्रियः । अध्वरं श्रयन्तीति अध्वरश्रियः । क्विब्वचिप्रच्छि° ' ( उ. सू. २. २१५) इत्यादिना क्विप् दीर्घश्च । वहन्तु । • वह प्रापणे '। शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वम् । पादादित्वात् निघाताभावः । सवना । षुञ् अभिषवे'। अभिषूयते सोम एष्विति सवनानि । अधिकरणे ल्युट्। योरनादेशः । गुणावादेशौ । ‘लिति' इति प्रत्ययात् पूर्वस्योदात्तत्वम्। ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । पृञ्चन्ता ।' पृची संपर्के । शतरि रुधादित्वात् श्नम् । असोरल्लोपः इति अकारलोपः । प्रत्ययस्वरः । सुकृते । ‘सुकर्मपाप ' (पा. सू. ३. २.८९) इत्यादिना करोतेः भूते काले क्विप् । 'हस्वस्य पिति ' (पा. सू. ६. १. ७१ ) इति तुक् । सुदानवे। शोभनं दानु दानं यस्यासौ सुदानुः । दानुशब्दो नुप्रत्ययान्त आद्युदात्तः । ‘आद्युदात्तं द्व्यच्छन्दसि' इति बहुव्रीहौ उत्तरपदाद्युदात्तत्वम् । सीदतम् । ‘षद्लृ विशरणगत्यवसादनेषु' ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your coursers, the grace of the sacrifice, bring you to be present at our rite; guides (of men) bestowing food upon the pious and liberal donor (of the offering), sit down on the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turning this way, let your team, the glory of the rite, convey you to our  soma-pressings.  
 Replenishing refreshment for the good (ritual) performer, and  
 possessing good drops, sit here on the ritual grass, o men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So let your coursers, ornaments of sacrifice, bring you to our libations here.  
      Bestowing food on him who acts and gives aright, sit, Chiefs, upon the sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch sollen zu den Trankspenden die Rosse heranfahren, die das Opfer verschönen. Dem Frommen und Freigebigen Speisegenuß in Fülle gebend setzet euch auf das Barhis, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fahr euch her das Fest-verschönende Gespann, recht nahe zu den Tränken hier, Dem Frommen Labung schenkend, gabenreiche ihr, setzt euch, o Männer, auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезут вас сюда кони –  
 Украшение жертвенного празднества, прямо на выжимание (сомы)!  

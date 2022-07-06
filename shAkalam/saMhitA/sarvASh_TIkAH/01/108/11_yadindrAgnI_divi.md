@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी दिवि꣡ ष्ठो꣡ य꣡त् पृथिव्यां꣡  
 य꣡त् प꣡र्वतेषु ओ꣡षधीषु अप्सु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । परि॑ । वृ॒ष॒णौ॒ । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -132,41 +132,41 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **दिवि** द्युलोके **यत्** यदि **स्थः** भवथः । यदि वा **पृथिव्यां** भूलोके यदि वा **पर्वतेषु** मेर्वादिषु मेघेषु वा । तथा **ओषधीषु** तिलमाषव्रीह्यादिषु **अप्सु** उदकेषु चानुग्राहकतया यदि वा स्थः । हे कामाभिवर्षकौ युवाम् **अतः** सर्वस्मात् स्थानादागच्छतम् । आगत्य चाभिषुतं सोमं पिबतम् ॥ पृथिव्याम् ।' उदात्तयण:०' इति विभक्तेरुदात्तत्वम् । ओषधीषु । ओषः पाक आसु धीयते इति ओषधयः ।  ‘ कर्मण्यधिकरणे च' इति किप्रत्ययः । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । तच्च घञन्तमाद्युदात्तम् । ओषधेश्च विभक्तावप्रथमायाम्' इति दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether, **Indra** and **Agni**, you are in heaven or upon earth, in the mountains, in the herbs, or in the waters, showerers of benefits, come hither from wherever you may be, and drink of the effused **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra and Agni, you are in heaven, when on earth, when in the  mountains, in the plants, in the waters,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The locations in pāda a are appropriate to both gods, but those in b are distinctly odd, esp. for Indra. An almost identical pāda is found also in I.91.4, of the domains of soma, where all three terms are fitting, and in I.59.3 of the locations of goods over which Agni presides. A similar listing but without the mountains is found in III.22.2 of Agni (yád óṣadhīṣv apsv ā̀…), which again is apt for Agni. One has the feeling that the poet is trying to multiply the “wherever you are” verses and is not too scrupulous about his sources.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether ye be in heaven, O Indra-Agni, on earth, on mountains, in the herbs, or waters,  
      Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr, Indra und Agni, im Himmel seid, wenn auf Erden, wenn in den Bergen, Pflanzen, Gewässern, so kommt doch ja von dort her, ihr Bullen, und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra-Agni, ihr im Himmel weilet, auf Erden, Bergen, in den Kräutern, Wassern, So kommt von da zu uns doch her, ihr Stiere, und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра и Агни, вы находитесь на небе, если на земле,  
 Если в горах, в растениях, в водах,  

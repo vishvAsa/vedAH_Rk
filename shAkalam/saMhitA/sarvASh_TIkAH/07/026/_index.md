@@ -8,7 +8,7 @@ title = "+026"
 ‘ न सोम इन्द्रम्' इति पञ्चर्चं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रम्यते-- ’ न सोमः पञ्च' इति । महाव्रत उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 26 (542)  
 Indra  
@@ -18,7 +18,7 @@ This brief hymn displays several competing yet complementary types of structure.
 A different structural feature pairs verse 1 with the final verse 5, in opposition  to the three middle verses (2–4). In the first verse the speaker is “I”; in the last (vs.  5) it is Vasiṣṭha, who is doubtless identical with the “I” of verse
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

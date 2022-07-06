@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्र꣡वतां त उष꣡सा वाज꣡यन्ती  
 अ꣡ग्ने वा꣡तस्य पथि꣡याभिर् अ꣡छ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ वन्धु꣡रेव तस्थतुर् दुरोणे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । सी॒म् । अ॒ञ्जन्ति॑ । पू॒र्व्यम् । ह॒विःऽभिः॑ । आ । व॒न्धुरा॑ऽइव । त॒स्थ॒तुः॒ । दु॒रो॒णे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dravatāṃ* ← *dravatām* ← *dru*
 - \[verb\], dual, Present imperative
@@ -118,7 +118,7 @@ genre M
 हे **अग्ने** **वाजयन्ती** वाजमन्नं कुर्वाणे **उषसा** उषासानक्ते अहोरात्रौ **ते** त्वां **द्रवताम्** अभिगच्छताम् । त्वमपि **वातस्य** वायोः **पथ्याभिः** मार्गैः  **अच्छ** तावहोरात्रौ शीघ्रमभिगच्छ । **यत** यस्मात्कारणात् अहोरात्राग्न्योः परस्पराभिगमनेनान्योन्यसंबन्धस्तस्मादहोरात्रयोः सायंप्रातःकालयोः **पूर्व्यं** पुरातनं त्वामृत्विजः **हविर्भिः** आज्यादिभिः **सीं** सर्वतः **अञ्जन्ति** सिञ्चन्ति । किंच **वन्धुरेव** । यथा कूवरस्थान परस्परसंसक्तेषाद्वयोपेतं तद्वत्संसक्तौ तावहोरात्रौ **दुरोणे** अस्माकं गृहे अग्निहोत्रादिकर्मसिद्ध्यर्थम् **आ** आवृत्य पुनः पुनरावर्तमानौ सन्तौ **तस्थतुः** तिष्ठताम् ॥ द्रवताम् । ‘ द्रु गतौ ' इत्यस्य लोटि रूपम् । पथ्याभिः । पथिषु साधव इत्यर्थे ' तत्र साधुः ' ( पा. सू. ४. ४. ९८ ) इति यत् । नस्तद्धिते ' इति टिलोपः । ‘ तित्स्वरितम्' इति स्वरितः । तस्थतुः । तिष्ठतेर्लिट्यतुसि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 Preceding: pūrvyam = **sāyam** **prātaḥ** kālayoḥ pūrvyam, i.e., Agni is worshipped at dawn before the day, and in the evening before night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let dawn and night, racing to the prize, run to you, o Agni, here along  the paths of the wind.  
 When (the priests) anoint him as the first with their (butter-)offerings,  those two stand in the house as if upon a chariot-box.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Two who show their vigour, Night and Morning, by the wind's paths shall haste to thee O Agni.  
      When men adorn the Ancient with oblations, these seek, as on two chariot-seats, the dwelling.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To thee, Agni, Night and Dawn who further thy strength 1, shall hasten on the paths of the wind. When (the mortals) anoint the ancient one 2 with offerings, they 3 stand in the house as on a chariot-seat 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Morgen und Nacht sollen wetteifernd zu dir hereilen, o Agni, heran auf den Pfaden des Windes. Wenn sie ihn als ersten mit Schmalzopfern salben, sind die beiden ins Haus getreten wie der Wagenlenker auf den Wagenstand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf Windes Pfaden mögen zu dir eilen, dich, Agni, labend, Nacht und Morgenröthe; Wenn dann den alten man mit Güssen salbet, so treten sie ins Haus wie auf den Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть побегут к тебе наперегонки Утренняя Заря (и Ночь),  
 О Агни, по путям ветра!  

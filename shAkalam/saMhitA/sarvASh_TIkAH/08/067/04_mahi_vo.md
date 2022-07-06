@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि वो महता꣡म् अ꣡वो  
 व꣡रुण मि꣡त्र अ꣡र्यमन्  
 अ꣡वांसि आ꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अवां॑सि । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], nominative, singular, neuter
@@ -82,35 +82,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे वरुणादयः **मंहतां** **वः** **अवः** रक्षणं **महि** महत् दाशुषे हविर्दात्रे करणीयमस्ति । अतः **अवांसि** रक्षणानि **आ** **वृणीमहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are great, **Varuṇa**, **Mitra** and **Aryaman**, and great is your protection; your protections we implore.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is the help of you who are great, o Varuṇa, Mitra, and Aryaman. We choose your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty aid of you, the Great, Varuna, Mitra, Aryarnan,  
      We claim to be our sure defence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn groß ist die Hilfe von euch Großen, Varuna, Mitra, Aryaman; eure Hilfen erbitten wir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Schutz ist gross, die gross ihr seid, Varuna, Mitra, Arjaman Wir wünschen eure Hülfen her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велика помощь от вас, великих,  
 О Варуна, Митра, Арьяман.  

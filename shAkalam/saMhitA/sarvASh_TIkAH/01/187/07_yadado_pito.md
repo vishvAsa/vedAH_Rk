@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अदो꣡ पितो अ꣡जगन्  
 विव꣡स्व प꣡र्वताना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡रम् भक्षा꣡य गमियाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अत्र॑ । चि॒त् । नः॒ । म॒धो॒ इति॑ । पि॒तो॒ इति॑ । अर॑म् । भ॒क्षाय॑ । ग॒म्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -104,40 +104,40 @@ genre M
 यद्पामोषधीनां परिंशमरिशामहे । वातापे पीव इर्द्धव ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Pitā**, this (product) of the water-wealthy clouds, (the rain), arrives; then do you, sweet Pitā, be at **hand** with sufficiency for our eating.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When yonder dawning light of the mountains has come, o food, then you should also come here to us, honeyed food, fit for our portion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the idiom áram √gam DAT, see comm. ad X.9.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If thou be gone unto the splendour of the clouds,  
      Even from thence, O Food of meath, prepared for our enjoyment, come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn jener Morgenschimmer der Berge gekommen ist, o Speise, dann sollst du uns hier, du süße Speise, zum Genießen geschickt kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn als der Berge Leuchte du, o Opfertrank, erschienen bist, Dann komme auch, o süsser Trank, zu unserem Genuss herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о пища, пришло то  
 Сияние гор,  

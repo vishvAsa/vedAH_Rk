@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु ए꣡को वदति य꣡द् द꣡दाति त꣡द्  
 रूपा꣡ मिन꣡न् त꣡दपा ए꣡क ईयते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡स् ता꣡कृणोः प्रथमं꣡ सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वाः॑ । एक॑स्य । वि॒ऽनुदः॑ । ति॒ति॒क्ष॒ते॒ । यः । ता । अकृ॑णोः । प्र॒थ॒मम् । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anv* ← *anu*
 - \[adverb\]
@@ -162,7 +162,7 @@ genre M;; repeated line
 यजमानोयद्धविर्देवेभ्योददाति तदेकोहोतानुवदतियाज्यापुरोनुवाक्याभ्यां देवताःस्मारयति ए- कोध्यर्युः रूपा पश्वादीनांरूपाणिमिनन् हिंसन् तदपाः तद्विशसनाख्यमपःकर्मयस्यतादृशः सन्तत्ईय- ते देवयजनेसर्वत्रगच्छति एकस्याध्वर्योर्विश्वाविनुदः सर्वाणितत्कर्तृकाणिविक्षेपणरूपाणिकर्मवैगु- ण्यानितितिक्षते तद्योग्यप्रायश्चित्तकरणेनब्रह्मसहते गुप्तिज्किड्भ्यःसन् क्षमायामिष्यते तानिहविः प्रदानादीनिकर्माणियस्त्वमकृणोरकरोः सत्वमुक्थ्योसि ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -173,14 +173,14 @@ genre M;; repeated line
 **Hotā**, **Adhvaryu** and **Brahmā** are the three priests indicated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One [=the Hotar] accompanies what he gives with his speech. Another  [=the Adhvaryu] hastens at his work, changing the forms (of  
 the soma).  
 He [=soma] withstands all the blows of another [=the pressing stone].  You, the one who did these things first, are worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a is syntactically disturbing, in that it seems to have a clear embedded rel. cl.: ánv éko vadati yád dádāti tád, with tád the referent in the main cl.
 
@@ -191,23 +191,23 @@ If Sāyaṇa/Geldner (et al.) are correct in identifying the first ékaḥ as th
 pron., the tr. can be modified to “What he gives, he hastens to that, having that as his work …” My working assumption is that the independent tád is coreferential with the tád in the cmpd tád-apas-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One priest announces what the institutor gives: one, altering the forms, zealously plies his task,  
      The third corrects the imperfections left by each. Thou who didst these things first art worthy of our lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine begleitet mit Worten das, was er spendet; der eine, dessen Geschäft dies ist, geht hin und her, indem er dabei dessen Formen verändert. Er hält alle Stöße des einen aus. Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was dar er reicht, begleitet einer mit dem Wort, ein andrer eilt geschäftig wechselnd die Gestalt, Des dritten Stösse alle hält der Stengel aus; der dies du thatest, du bist höchsten Preises werth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один сопровождает словами то, что он дает.  
 Другой движется, меняя формы, – такая у него работа.  

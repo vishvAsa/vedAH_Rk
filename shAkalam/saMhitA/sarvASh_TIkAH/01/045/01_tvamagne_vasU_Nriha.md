@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने व꣡सूँर् इह꣡  
 रुद्राँ꣡ आदितियाँ꣡ उत꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡नुजातं घृतप्रु꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यज॑ । सु॒ऽअ॒ध्व॒रम् । जन॑म् । मनु॑ऽजातम् । घृ॒त॒ऽप्रुष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,7 +120,7 @@ You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [
 **घृतप्रुषम्** । ‘ प्रुष प्लुष स्नेहनसेचनपूरणेषु ' । घृतेनोदकेन प्रुष्णाति पूरयतीति घृतप्रुट् । 'क्विप् च ' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [
 Janam: manu-jātam, a man born of Manu **Jana**; signifying a divine being in connection with the enumerated deities, another man, **devatā** **rūpa** of a divine nature or form
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, (bring) the Vasus, the Rudras, and the Ādityas here.  
 I will sacrifice to the being who assures good rites, born of Manu,  
 sprinkling ghee [=Agni].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My understanding of the structure of this verse is quite different from the consensus, which takes yájā of 1c as a 2nd sg. imperative, addressed to Agni, governing all the accusatives in the verse (“sacrifice to the Vasus …”). I instead take yajā as 1st sg. subjunctive, governing only the accusatives of the 2nd hemistich, and supply ā́vaha ‘bring here’ from 2d to govern those in the 1st hemistich. (This is supported by the fact that tráyastriṃśatam ‘three and thirty’ in 2d is a virtual shorthand for 1ab vásūn … rudrām̐ādityā́m̐utá, the three divisions of the gods, adding up to 33).
 
@@ -147,28 +147,28 @@ Despite the extra machinery, I think my interpretation better accounts for the c
 Still, the standard interpretation of the verse is more awkward: if the accusatives in cd are held to refer to the gods (“the divine race”; see 10a daívyaṃ jánam), they are described by adjectives that ill befit them; if Agni is held to be their referent (as supported by the above arguments), then the verse calls upon Agni to sacrifice to himself; if the accusatives refer to the human race, then the verse calls upon Agni to sacrifice to humans, which is entirely contrary to the Vedic model of sacrifice. By separating the two halves of the verse into different clauses and by interpreting yájā as a 1st singular, I account for the different referent types of the two sets of accusatives and avoid having Agni sacrifice to himself by providing another agent for the verb in cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WORSHIP the Vasus, Agni! here, the Rudras, the Adityas, all  
      Who spring from Manu, those who know fair rites, who pour their blessings down.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sacrifice here, thou, O Agni, to the Vasus, the Rudras, and the Adityas, to the (divine) host that receives good sacrifices 1, the Ghrita-sprinkling offspring of Manu 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verehre du Agni hier die Vasu´s, die Rudra´s und Aditya´s, das von Manu abstammende Volk, das gut opfert und Opferschmalz aufgießt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Vasu's schaff, o Agni, du, die Rudra's und Aditja's her, Die Schar, die Manu einst gezeugt, die festliche, die Butter sprüht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почти ты здесь жертвой, о Агни,  
 Васу, Рудру, Адитьев,  

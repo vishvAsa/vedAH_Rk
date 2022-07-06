@@ -8,7 +8,7 @@ title = "+138"
 ‘ तव त्ये' इति षडृचं दशमं सूक्तमुरुनाम्नः पुत्रस्याङ्गाख्यस्यार्षं जागतमैन्द्रम् । तथा चानुक्रान्तं -- तव त्ये षळङ्ग औरवो जागतम्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 138 (964)  
 Indra  

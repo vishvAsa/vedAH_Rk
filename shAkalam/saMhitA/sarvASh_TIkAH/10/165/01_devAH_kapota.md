@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दे꣡वाः कपो꣡त इषितो꣡ य꣡द् इछ꣡न्  
 दूतो꣡ नि꣡रृत्या इद꣡म् आजगा꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो अस्तु द्विप꣡दे शं꣡ च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्मै॑ । अ॒र्चा॒म॒ । कृ॒णवा॑म । निःऽकृ॑तिम् । शम् । नः॒ । अ॒स्तु॒ । द्वि॒ऽपदे॑ । शम् । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
@@ -129,7 +129,7 @@ popular
 हे **देवाः** **इषितः** प्राप्तः निर्ऋत्याः पापदेवतायाः **दूतः** अनुचरः **कपोतः** **यत्** बाधनम् **इच्छन्** अभिलषन् **इदम्** अस्मदीयं गृहम् **आजगाम** प्राप्नोत् **तस्मै** बाधनाय तद्बाधननिवृत्त्यर्थम् **अर्चाम** । युष्मान् हविषा पूजयाम । ततः **निष्कृतिं** कपोतप्रवेशजन्यस्य दोषस्य परिहृतिं **कृणवाम** । अनेन हविर्दानेन करवाम । अतः **नः** अस्माकं **द्विपदे** पुत्राय **शं** सुखम् **अस्तु** **चतुष्पदे** गवाश्वप्रभृतये च **शं** सुखमस्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,24 +140,24 @@ popular
 The pigeon: anallusion to misfortune
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, when the dove, sent as a messenger of Dissolution, has come  here to seek,  
 we will chant to it, and we will perform expulsion. Let there be weal for  our two-footed, weal for our four-footed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GODS, whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destruction,  
      For that let us sing hymns and make atonement. Well be it with our quadrupeds and bipeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter, in welcher Absicht die Taube als Bote der Todesgöttin ausgesandt hierher gekommen ist, dagegen wollen wir einen Zauber singen und eine Sühnung machen. Heil sei unseren Zweifüßlern, Heil den Vierfüßlern!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О боги, голубь ищущий чего(-то), посланный  
 Как вестник Гибели, появился здесь.  

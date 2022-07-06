@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ हि꣡ वां ह꣡वामहे विपन्य꣡वो  
 वि꣡प्रासो वा꣡जसातये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡श्विना श्रुष्टी꣡ आ꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । व॒ल्गू इति॑ । द॒स्रा । पु॒रु॒ऽदंस॑सा । धि॒या । अश्वि॑ना । श्रु॒ष्टी । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -113,44 +113,44 @@ genre M
 हे अश्विनौ **विपन्यवः** स्तोतारः अत एव **विप्रासः** विप्रा मेधाविनः **वयं** **वाजसातये** अन्नलाभाय **वाम्** । हिरवधारणे । युवामेव **हवामहे** स्तुतिभिराह्वयामः । ततः **वल्गू**। वल्गनं कुशलगमनम् । कुशलगमनशीलौ **पुरुदंससा** बहुकर्माणौ तौ युवां **धिया** अस्मदीयया स्तुत्याहूतौ सन्तौ **श्रुष्टी** । श्रुष्टीति क्षिप्रनाम । क्षिप्रमस्मभ्यं धनादिदानाय **आ** **गतम्** आगच्छतम् ॥ ॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We, your wise praisers, invoke you to the enjoyment of the sacrificial viands; come quickly, **Dasras**, atthe sound of our praise, **Aśvins**, graceful in your movements, abounding in mighty deeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because we inspired poets in our admiration call upon you to win  the prize,  
 you two, agreeable, wondrous, and possessed of many wonders—come  here with insight and attentive hearing, o Aśvins.  
 Oldenberg groups the four Indra hymns 88–91 together, though their numbers of  verses do not conform to the expected sequence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the v-alliteration in ab with repetition of va/ā at the beginning and end and vip in the middle.
 
 vayáṃ hí vāṃ hávāmahe vipanyavo, viprāso vājaśātaye
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For we the priestly singers, fain tohymn your praise, invoke you for the gain of strength.  
      So, wondrous, fair, and famed for great deeds come to us, through our hymn, Asvins, when ye hear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn euch rufen wir, die redekundigen Lobredner, um den Siegerpreis zu gewinnen. Als schöne, kunstvolle Meister kommet mit Verständnis und Erhörung her, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wir die Sänger rufen voll Bewunderung. euch her zu unserm Opfermahl; So kommt, ihr schönen, thatenreichen, prächtigen, o Ritter, achtsam, willig her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это мы вас зовем,  
 Восхищающиеся вдохновенные (поэты) – для захвата награды.  

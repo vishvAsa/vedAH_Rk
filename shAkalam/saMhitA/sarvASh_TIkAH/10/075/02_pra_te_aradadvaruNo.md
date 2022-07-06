@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते ऽरदद् व꣡रुणो या꣡तवे पथः꣡  
 सि꣡न्धो य꣡द् वा꣡जाँ अभि꣡ अ꣡द्रवस् तुव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् एषाम् अ꣡ग्रं ज꣡गताम् इरज्य꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 भूम्याः॑ । अधि॑ । प्र॒ऽवता॑ । या॒सि॒ । सानु॑ना । यत् । ए॒षा॒म् । अग्र॑म् । जग॑ताम् । इ॒र॒ज्यसि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -137,36 +137,36 @@ genre M
 हे **सिन्धो** देवि **ते** तव **यातवे** गमनाय **वरुणः** देवः **पथः** मार्गान् **प्र** **अरदत्** प्राचीनं व्यालिखत् । सा हि प्राक् प्रवहति । अथवा प्रकृष्टमितरनदीभ्योऽप्यत्यन्तं विस्तृतं व्यदारयत् । **यत्** यस्मात् हे सिन्धो **वाजान्** अन्नान्यभिलक्ष्य **त्वम्** **अभ्यद्रवः** अभ्यगच्छ:। किंच त्वं **भूम्याः** **अधि** उपरि **सानुना** समुच्छ्रितेन **प्रवता** मार्गेण **यासि** गच्छसि । सिन्धुः खलु पर्वतान्विभिद्य गता । **यत्** येन समुच्छ्रितेन मार्गेण गच्छन्ती त्वम् **एषां** सर्वेषां **जगतां** जङ्गमानां प्राणिनाम् **अग्रं** प्रत्यक्षम् **इरज्यसि** ईशिषे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For your course, **Sindhu**, **Varuṇa** tore open a path, since you hastened towards food; you go by alofty road down upon the earth, by which (road) you reign in the sight of all worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa dug out the paths for you to travel, when, o Sindhu, you ran to  the prizes.  
 You travel on a slope along the back of the earth, when you direct the  front rank of these moving (beings).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna cut the channels for thy forward course, O Sindhu, when thou rannest on to win the race.  
      Thou speedest o'er precipitous ridges of the earth, when thou art Lord and Leader of these moving floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir zeichnete Varuna die Wege zum Laufe vor, o Sindhu, als du nach den Siegerpreisen ausliefst. Über den Rücken der Erde gehst du in deinem Laufe, wann du die Spitze dieser lebenden Wesen führst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Pfade brach zu deinem Gange Varuna, als du, o Sindhu, liefest zu des Kampfes Preis; Du fährest auf der Erde jähem Rücken hin, wenn du den Zug der eilenden Gewässer führst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пути для бега начертал тебе Варуна,  
 О Синдху, когда мы мчались к наградам.  

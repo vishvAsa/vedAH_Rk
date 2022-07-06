@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡भिष् टरेम अ꣡मतिं दुरे꣡वां  
 य꣡वेन क्षु꣡धम् पुरुहूत वि꣡श्वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡केन वृज꣡नेना जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 व॒यम् । राज॑ऽभिः । प्र॒थ॒मा । धना॑नि । अ॒स्माके॑न । वृ॒जने॑न । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gobhiṣ* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
@@ -106,7 +106,7 @@ popular
 हे **पुरुहूत** बहुभिराहूतेन्द्र तव प्रसादात **दुरेवां** दुष्टागमनां दारिद्र्यादागताम् **अमतिं** दुर्बुद्धिं **वयं** घौषेयाः सुहस्त्याः **गोभिः** पशुभिः **तरेम** निस्तरेम । किंच **यवेन** **विश्वां** व्याप्तां **क्षुधं** तरेम । किंच **प्रथमाः** मुख्यानि **धनानि** **राजभिः** धनानामीश्वरैः । लभेमहीति शेषः । यद्वा । प्रथमा वयमिति संबन्धः। किंच **अस्माकेन** अस्मदीयेन **वृजनेन** बलेन **जयेम** । शत्रूनिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,29 +117,29 @@ popular
 May we acquire the chief riches: or, may we, the chief, acquire riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With cows we would overcome neglect that goes ill, and with barley we  would overcome all hunger, o you who are much invoked.  
 With our kings and our community might we be the first to win the  stakes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Much-invoked, may we subdue all famine and evil want with store of grain and cattle.  
      May we allied, as first in rank, with princes obtain possessions by our own exertion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Kühe wollen wir die Ratlosigkeit, die Böses trachtet, überwinden, durch Korn jeglichen Hunger, o Vielgerufener. Wir wollen mit den Königen zuerst die Siegesbeute, mit unserem Bunde gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Milchtrank lass den bösen Durst uns stillen, durch Korn, o vielgerufner, jeden Hunger; Die beste Beute lass uns durch die Fürsten und auch durch unsre Kriegerschar gewinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью коров пусть преодолеем мы отсутствие мыслей ведущее к злу,  
 С помощью зерна – любой голод, о многопризываемый!  

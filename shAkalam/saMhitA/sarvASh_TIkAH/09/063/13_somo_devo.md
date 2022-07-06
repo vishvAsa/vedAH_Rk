@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो देवो꣡ न꣡ सू꣡रियो  
 अ꣡द्रिभिः पवते सुतः꣡  
 द꣡धानः कल꣡शे र꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दधा॑नः । क॒लशे॑ । रस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **देवो** **न** देव इव **सूर्यः** रोचमानः **सोमः** **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतः सन् **कलशे** द्रोणकलशे **रसं** **दधानः** धारयन् **पवते** धारया क्षरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, like the radiant sun, when effused flows forth, depositing its juice in the pitcher.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, like the Sun-god, purifies himself, pressed by stones,  
 placing his own sap in the tub.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in the tṛca vss. 7-9, Soma is again compared to the Sun - but curiously no clear point of comparison between them appears in the vs. The actions attributed to Soma here - purifying himself, being pressed by stones, putting his sap in the tub - are exclusive to him and certainly not characteristic of the Sun.
 
@@ -114,23 +114,23 @@ Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma the God, expressed with stones, like Surya, floweth on his way,  
      Pouring the juice within the jar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma klärt sich wie der Gott Surya, wenn er mit den Steinen ausgepreßt ist, seinen Geschmack in dem Kruge annehmend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst von Steinen rieselt hell der Soma gleich dem Sonnengott Und führt zur Schale seinen Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡माँ एनं तनुत उ꣡त् कृणत्ति  
 पु꣡मान् वि꣡ तत्ने अ꣡धि ना꣡के अस्मि꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡मानि चक्रुस् त꣡सराणि ओ꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒मे । म॒यूखाः॑ । उप॑ । से॒दुः॒ । ऊं॒ इति॑ । सदः॑ । सामा॑नि । च॒क्रुः॒ । तस॑राणि । ओत॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pumāṃ* ← *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ popular
 **पुमान्** पुरुष आदिपुरुषः प्रजापतिः **एनं** यज्ञं **तनुते** विस्तारयति । सृष्टवानित्यर्थः । तथा च ब्राह्मणं - ' स प्रजापतिर्यज्ञमतनुत तमाहरत्तेनायजत ' ( ऐ. ब्रा. ५.३.२) इति ' प्रजापतिर्यज्ञमसृजत यज्ञं सृष्टमनु ब्रह्मक्षत्रे असृज्येताम् ' ( ऐ- ब्रा. ७-१९) इति च । स एव पुमान् सृष्टं तं यज्ञम् **उत्कृणत्ति** उद्वेष्टयति । ' कृती वेष्टने ' । रौधादिकः । रा एव **पुमान्** प्रजापतिः **अस्मिन्** भूलोके **नाके** । अकं दुःखं नास्त्यस्मिन्निति नाकः स्वर्गलोकः । ' नभ्राण्नपात्' इत्यादिना नञः प्रकृतिभावः । तत्र च **वि** **तत्ने** इमं यज्ञं विस्तारयति । अधिः सप्तम्यर्थानुवादी । तनोतेर्लिटि ' तनिपत्योश्छन्दसि ' इत्युपधालोपः । तस्य स्थानिवद्भावात् द्विर्वचनम् । **मयूखाः** रश्मिभूतास्तस्य प्रजापतेः प्राणात्मकाः **इमे** विश्वसृजो देवाः **सदः** सदनं देवयजनस्थानम् **उप** **सेदुः** । विश्वसर्जनहेतुभूतं विश्वसृजामयनाख्यं यज्ञं कर्तुमुपसीदन्ति । उपसद्य च **सामानि** रथन्तरादीनि **ओतवे** वयनाय यज्ञाख्यं वस्त्रमोतुं **तसराणि** तिर्यक्सराणि  तिरश्चीनसूत्राणि **चक्रुः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ popular
 Saprāpatiryajñamatanuta: **Aitareya** **Brāhmaṇa** 5.32
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A man extends it [=the warp] and pulls it up (with the heddles); a man  has extended it out upon the vault of heaven here.  
 Here are their pegs; they [=the gods?] sat down upon their seat and made  the sāman-chants the shuttles for weaving.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Man extends it and the Man unbinds it: even to this vault of heaven hath he outspun, it.  
      These pegs are fastened to the seat of worship: they made the Sama-hymns their weaving shuttles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Mann spannt es auf, zieht den Faden aus, der Mann hat es an diesem Firmament festgespannt. Dies sind die Pflöcke. Sie haben sich an ihren Sitz gesetzt; sie haben die Melodien zu Webschiffchen gemacht, um zu weben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Mann zieht es auf, ein Mann spinnt es fort, er spannt es aus an diesem Himmelsrahmen; diese Pflöcke sind befestigt an dem Sitze; die Gesänge machten sie zu Weberschiffen, um zu weben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Муж тянет ее (и) прядет,  
 Муж дотянул (ее) до этого небосвода.  

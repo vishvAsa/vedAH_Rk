@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हिन्वान꣡ इन्द्रियं꣡  
 ज्या꣡यो महित्व꣡म् आनशे  
 अभिष्टिकृ꣡द् वि꣡चर्षणिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि॒ष्टि॒ऽकृत् । विऽच॑र्षणिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अध** अथ **विचर्षणिः** कर्मणां विद्रष्टा **अभिष्टिकृत्** यजमानानामभीष्टस्य फलस्य कर्ता सोमः **इन्द्रियं** स्वकीयं बलं **हिन्वानः** प्रेरयन् **ज्यायः** प्रशस्यतरं **महित्वं** महत्त्वम् **आनशे** प्राप्नोति ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The contemplator of all, the granter of desires, putting forth his energy obtains superior greatness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now, being impelled, he has acquired more eminent greatness,  appropriate to Indra,  
 as the limitless creator of superiority.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And now, sent forth, it hath attained to mighty power and majesty,  
      Most active, ready to assist.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und nun zur Eile getrieben hat er die überlegene indrische Macht erlangt, der Ausgezeichnete, der die Überlegenheit verleiht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da hat, entsandt, noch herrlicher des Indra Grösse er erreicht, Der Hülfe schafft, der emsige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

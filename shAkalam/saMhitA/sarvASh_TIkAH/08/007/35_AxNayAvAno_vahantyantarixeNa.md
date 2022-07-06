@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡क्ष्णया꣡वानो वहन्ति  
 अन्त꣡रिक्षेण प꣡ततः  
 धा꣡तार स्तुवते꣡ व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 धाता॑रः । स्तु॒व॒ते । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ākṣṇayāvāno* ← *ā*
 - \[adverb\]
@@ -73,20 +73,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **अक्ष्णयावानः** अक्ष्णं व्याप्तं गच्छन्तः । यद्वा । अक्ष्णश्चक्षुषोऽपि शीघ्रं यान्तीत्यक्ष्णयावानः । यातेः ‘आतो मनिन्' इति वनिप् । ईदृशा अश्वाः **अन्तरिक्षेण** आकाशमार्गेण **पततः** गच्छतो मरुतः **आ** **वहन्ति** आनयन्ति । यद्वा । पतत इत्यश्वानां विशेषणम् । अन्तरिक्षे नभसि पततो गच्छन्तः । छान्दसो नुमभावः । किं कुर्वन्तः । **स्तुवते** स्तोत्रं कुर्वते जनाय **वयः** अन्नं **धातारः** विधातारः कुर्वाणाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Their horses), quickly traversing (space), bear them travelling through the firmament, giving food to theworshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Traveling crosswise the birds guide (the Maruts) here, as they [=Maruts]  fly through the midspace.  
 (The Maruts) establish vital energy for their praiser.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the final word of the vs., váyaḥ, as a pun, both nom. pl. ‘birds’ and neut. acc. sg. ‘vital energy’, with the birds subject of vahanti in pāda a. Birds figure in several nearby hymns (VIII.3.23, 5.33), with the latter passage esp. close: ... vām ...
 
@@ -95,28 +95,28 @@ váyo vahantu parṇínaḥ “Let your feathered birds [=horses] convey you two
 I am tempted to take dhā́tāraḥ as a periphrastic future: “they will establish …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steeds flying on their tortuous path through mid-air carry them, and give  
      The man who lauds them strength and life.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Their steeds that have a transverse course, Convey them flying through the air, To him that lauds them giving strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kreuz und quer fahrend, lenken sie die durch die Luft fliegenden Rosse, indem sie dem Sänger Kraft bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In schrägem Schusse fahren sie hinfliegend durch die weite Luft, Dass sie dem Sänger Schatz verleihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Петляя вкривь и вкось, везут они (дары),  
 (Правя) летящими по воздуху (конями),  

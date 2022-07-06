@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जोहू꣡त्रो अग्निः꣡ प्रथमः꣡ पिते꣡व  
 इळ꣡स् पदे꣡ म꣡नुषा य꣡त् स꣡मिद्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मर्मृजे꣡न्यः श्रवसि꣡यः स꣡ वाजी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्रिय॑म् । वसा॑नः । अ॒मृतः॑ । विऽचे॑ताः । म॒र्मृ॒जेन्यः॑ । श्र॒व॒स्यः॑ । सः । वा॒जी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *johūtro* ← *johūtraḥ* ← *johūtra*
 - \[noun\], nominative, singular, masculine
@@ -112,46 +112,46 @@ genre M
 जोहूत्रः सर्वैर्यज्ञार्थंह्वातव्योहोतव्योवा ह्वयतेर्जुहोतेर्वारूपम् तादृशः प्रथमः अग्निर्वैदेवानामव- मइत्याम्नानात् । मुख्योयोग्निः यत् यदाइळः इलायाः पदेउत्तरवेद्यात्मकेस्थाने मनुषामनुष्येणयज- मानेनसमिद्धःसोग्निः पितेवदेवानांहविःप्रापणेनपालकोभवति श्रियन्दीप्तिंवसानः आच्छादयन् अमृ- तः मरणधर्मरहितः विचेताः विविधप्रज्ञः श्रवस्यः श्रवइत्यन्ननाम तस्मै हितः वाजीबलवान् सोग्नि- र्मर्मृजेन्यः सर्वैःपरिचरणीयोभवति यङ्लुगन्तात् केन्यप्रत्ययः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The adorable **Agni**, the first (of the gods) and their nourisher when kindled by man upon the altar; he who is clothed in radiance, is immortal, discriminating, food-bestowing, powerful; he is to be worshipped.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is invoked first on every side like a father, when he is kindled by  Manu in the footprint of refreshment,  
 dressing himself in beauty, immortal and discriminating, frequently to be  groomed and worthy of fame: he is the prize-winning (steed).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the first word of the hymn, johū́tra-, forms a ring with johavīmi, the last word. The connection between them is emphasized by the intensive redupl. in johū́tra-; no other -tra- stems show redupl., much less intensive reduplication. Grassmann (and, it seems, Witzel Gotō, here though not in I.118.9; II.20.3 isn’t clear) take the stem as act. (‘laut rufend’), but a passive value makes better sense in all 3 occurrences (so Oldenberg [SBE], Geldner, Renou). The -tra- form in the next vs., víbhṛtra- (2d), is likewise passive. My tr. “invoked … on every side” is based on the possibility that the -tra- suffix evokes the -tra adverbial locatives (such as átra ‘here’), although this may be pushing the limits (likewise my ‘dispersed in many places’ for víbhṛtra- in 2d). It does, however, work with the thematics of the first few vss.: vs. 2 urgently begs to hear my call (hávam me, with the possessive prn. emphatically placed pādafinal), and the two occurrences of vícetāḥ ‘discriminating’ (1c, 2b) suggest that Agni is choosing among the various sacrifices he might attend on the journey described in 2cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 जो॒हूत्रो॑ अ॒ग्निः प्र॑थ॒मः पि॒तेवे॒ळस्प॒दे मनु॑षा॒ यत्समि॑द्धः ।  
 श्रियं॒ वसा॑नो अ॒मृतो॒ विचे॑ता मर्मृ॒जेन्यः॑ श्रव॒स्य१॑ः॒ स वा॒जी ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni is to be invoked as the first like a father, when he has been inflamed by Manus 1 in the abode of Id 2. When he has invested himself with beauty, the wise immortal, he, the glorious strong (horse) is to be smoothed (by the worshippers as by grooms).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist als Erster laut zu rufen wie ein Vater, wenn er an der Stätte des Opfergenusses vom Menschen entzündet ist, in Schönheit gekleidet, der kluge Unsterbliche, reich zu putzen, ruhmbringend ist dieser wie ein Rennpferd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Laut ruft zuerst uns Agni wie ein Vater, am Opferplatz entzündet von dem Menschen In Glanz gekleidet, weise und unsterblich, des Rühmens werth und wie ein Ross zu striegeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни достоин громких призываний, первый, как отец,  
 Когда (огонь) зажжен человеком на месте жертвенного возлияния,  

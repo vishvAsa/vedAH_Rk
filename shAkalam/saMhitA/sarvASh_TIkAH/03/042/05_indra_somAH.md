@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र सो꣡माः सुता꣡ इमे꣡  
 ता꣡न् दधिष्व शतक्रतो  
 जठ꣡रे वाजिनीवसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 ज॒ठरे॑ । वा॒जि॒नी॒व॒सो॒ इति॑ वाजिनीऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -78,36 +78,36 @@ genre M
 हे शतक्रतो **इन्द्र** **इमे** **सोमा:** **सुता:** ग्रावभिस्त्वदर्थमभिषुताः। हे **वाजिनीवसो** अन्नधन। यद्वा । वाजोऽन्नमासु फलत्वेनास्तीति वाजिन्यः क्रिया: । तासां वासक हे इन्द्र **तान्** सोमरसान् **जठरे** **दधिष्व** धारय ॥ वाजिनीवसो । वाजशब्दात् मत्वर्थे ' अत इनिठनौ' इति इनिप्रत्ययः । ‘ ऋन्नेभ्यो ङीप्' इति ङीप् । तासां वसो । ' संबुद्धौ च ' इति गुणः । आमन्त्रितत्वादाष्टमिकमनुदात्तत्वम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, these **Soma** are poured out; take them, **Śatakratu**, into your stomach; you who is rich in (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra! Here are the pressed soma-drinks. Put them  
 into your belly, o you of a hundred resolves, you rich in prizewinners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, these Somas are expressed. Take them within thy belly, Lord  
      Of Hundred Powers, thou Prince of Wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Diese Somatränke sind ausgepreßt; nimm sie, du Ratreicher, in deinem Bauche auf, du Gewinnreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebraut sind, Indra, Tränke dir, die nimm, o hundertwirkender, O gabenreicher, in den Bauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, выжаты эти соки сомы.  
 Прими их к себе в утробу,  

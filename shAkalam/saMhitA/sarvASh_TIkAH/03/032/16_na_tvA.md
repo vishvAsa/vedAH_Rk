@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्वा गभीरः꣡ पुरुहूत सि꣡न्धुर्  
 न꣡ अ꣡द्रयः प꣡रि ष꣡न्तो वरन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ दॄळ्हं꣡+ चिद् अ꣡रुजो ग꣡व्यम् ऊर्व꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒त्था । सखि॑ऽभ्यः । इ॒षि॒तः । यत् । इ॒न्द्र॒ । आ । दृ॒ळ्हम् । चि॒त् । अरु॑जः । गव्य॑म् । ऊ॒र्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे **पुरुहूत** **इन्द्र** **गभीरः** **सिन्धुः** समुद्रः **त्वा** त्वां **न** वारयति । ततः  **परि** परितः वर्तमाना: **सन्तः** **अद्रयः** शैलास्त्वां **न** **वरन्त** न वारयन्ति । किंतु त्वामनुसृत्य वर्तन्ते । **यत्** यस्मात् **इत्था** इत्थमनेन प्रकारेण **सखिभ्यः** सखिभिर्देवैः **इषितः** प्रार्थितः त्वं **दृळ्हं** **चित्** अतिप्रबलमपि **गव्यं** गवि भवम् अवटे वर्तमानम् **ऊर्वम्** ऊर्वानलम् **आ** **अरुजः** सम्यगभाङ्क्षीः ॥ गभीरः । ‘गाधृ प्रतिष्ठालिप्सयोर्ग्रन्थे च' । अस्मात् ईरच्प्रत्ययः' । धकारस्य भकारः आकारस्य ह्रस्वश्च ‘ गभीरगम्भीरौ ' ( उ. सू. ४. ४७५) इत्यनेन निपात्यते । चित्स्वरः । सिन्धुः । ‘ स्यन्दू प्रस्रवणे । ‘ स्यन्देः संप्रसारणं धश्च' इत्युप्रत्ययः संप्रसारणं दकारस्य धकारः । ‘ नित्' इत्यनुवृत्तेराद्युदात्तः । परिषन्तः । सन्तः । अस्तेः शतरि रूपम्। उपसर्गप्रादुर्भ्यामस्तिर्यच्परः' इति षत्वम् । केचित् परेः' क्रियान्वयम् इच्छन्ति । तदा षत्वमनुपपन्नम् । परि। निपातस्वरः । सन्तः। प्रत्ययस्वरः । वरन्त । वृञ् वरणे । भौवादिकः । लङि रूपम् । निघातः । अरुजः । ‘ रुजो भङ्गे' इत्यस्य लङि रूपम् । गव्यम् । गोर्विकार इत्यर्थे ' गोपयसोर्यत्' इति यत् । यतोऽनावः' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 You have repressed the strong flame: dṛḷham cid arujo gavyam ūrvam = prabalam api avate vartamānam ūrvānalam samyagabhāṅkṣīḥ, you have entirely broken the strong (**ūrva**) fire abiding in the deep
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not the deep river nor the surrounding peaks could obstruct you,  much-invoked one,  
 when impelled just so from your comrades, Indra, you broke into the  cattle enclosure though it was firmly fastened.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On varanta see comm. ad vs. 9.
 
@@ -156,23 +156,23 @@ Geldner (fld. by Witzel Gotō) takes sákhibhyaḥ as a dat. of benefit, but I t
 The mythological episode is surely the Aṅgirases’ energetic help to Indra in the breaking of Vala.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not the deep-flowing flood, O Much-invoked One! not hills that compass thee about restrain thee,  
      Since here incited, for thy friends, O Indra, thou breakest e'en the firm built stall of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht hielten dich der tiefe Strom, noch die Felsen, die im Wege standen, auf, du Vielgerufener, als du darum zur Eile getrieben für die Freunde die doch so fest verschlossene Rinderhöhle erbrachst, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht hielt dich auf das tiefe Meer, nicht Felsen, auch wenn sie dich umschlossen, vielgerufner, So oft du eilend deinen Freunden, Indra, den festverschlossnen Stall der Kühe aufbrachst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . Ни глубокая река, о многопризываемый,  
 Ни бывшие на пути горы не удержали тебя,  

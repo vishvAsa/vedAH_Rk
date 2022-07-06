@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो मह्ना꣡ रो꣡दसी पप्रथच् छ꣡व  
 इ꣡न्द्रः सू꣡र्यम् अरोचयत्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्रे स्वाना꣡स° इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रे॑ । ह॒ । विश्वा॑ । भुव॑नानि । ये॒मि॒रे॒ । इन्द्रे॑ । सु॒वा॒नासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 अयम् **इन्द्रः** **शवः** शवस आत्मीयस्य बलस्य **मह्ना** महिम्ना महत्त्वेन **रोदसी** द्यावापृथिव्यौ **पप्रथत्** अप्रथयत् विस्तारितवान् । तथा स्वर्भानुनावृतं **सूर्यम्** अयमेव **इन्द्रः** **अरोचयत्** अदीपयत्। तस्यासुरस्य वधेन प्रकाशितवान् । अपि च **इन्द्रे** **ह** अस्मिन्नेवेन्द्रे **विश्वा** विश्वानि व्याप्तानि **भुवनानि** भूतजातानि **येमिरे** उपरमन्ते। इन्द्रेण नियम्यन्त इत्यर्थः । तथा **सुवानासः** सूयमाना अभिषूयमाणाः **इन्दवः** सोमाश्च अस्मिन्नेव **इन्द्रे** नियम्यन्ते अन्तर्भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,36 +123,36 @@ genre M
 Indra has lighted up the suṅIndra restores the sun from the grasp of **svarbhānu**, extricates him from eclipse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra by his greatness spread the two worlds and his vast power; Indra  made the sun shine.  
 Within Indra are all beings held and within Indra the pressed drops.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda-final śávaḥ here is often considered to stand for instr. śávasā (see Oldenberg for previous lit., Geldner’s tr. and n., and most recently Hale [Fs. Melchert], who takes it as an archaic zero-grade s-stem instr., with loss of laryngeal in pause; see comm. ad VIII.39.2). However, as Oldenberg points out, an accusative reading is perfectly possible.
 
 The presence of the same pāda-final nom.-acc. form nearby (4c, 8a, 10b) supports an accusative interpretation here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With might hath Indra spread out heaven and earth, with power hath Indra lighted up the Sun.  
      In Indra are all creatures closely held; in him meet the distilling Soma-drops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat durch seine Macht, durch seine Stärke beide Welten ausgebreitet; Indra ließ die Sonne leuchten. Dem Indra haben sich alle Welten, dem Indra die ausgepreßten Säfte zu eigen gegeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Kraft hat Indra Erd' und Himmel ausgedehnt und Indra hat die Sonn' erhellt; Allein zu Indra streben alle Wesen hin, zu Indra der gepresste Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра (своим) величием распространил две половины вселенной – (своей) силой.  
 Индра заставил светить солнце.  

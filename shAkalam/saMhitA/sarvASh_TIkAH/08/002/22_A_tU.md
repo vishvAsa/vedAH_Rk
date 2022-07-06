@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ षिञ्च क꣡ण्वमन्तं  
 न꣡ घा विद्म शवसाना꣡त्  
 यश꣡स्तरं शत꣡मूतेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 य॒शःऽत॑रम् । श॒तम्ऽऊ॑तेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -76,36 +76,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अध्वर्यो **कण्वमन्तम्** । कणतिः शब्दकर्मा । कण्वाः स्तोतारः । यद्वा । कण्वगोत्रा ऋषयः ॥ तैर्युक्तमिन्द्रमुद्दिश्य **तु** क्षिप्रम् **आ** **सिञ्च** सोमं जुहुधि। **शवसानात्** । शवो बलम् । तदिवाचरतोऽतिबलात् **शतमूतेः** । शतं बहुनामैतत् । बह्व्य ऊतयो रक्षा यस्मिन् स शतमूतिः । तादृशादस्मादिन्द्रात् **यशस्तरं** यशस्वितरं पुरुषं **न** **घ** नैव **विद्म** जानीमः । अतस्तमेवोद्दिश्य सोमं जुहुधीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour out the libation to him who is associated with the **Kaṇva** (family); we know not any one morecelebrated than the very powerful bestower of numerous protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pour here the Kaṇvas’ (soma). We know no one more glorious than him  swelling with strength,  
 than him who has a hundred forms of help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour forth the gift which Kanvas bring, for none more glorious do we know  
      Than the Strong Lord with countless aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schenke doch den Soma ein, bei dem Kanviden als Sänger sind! Wir kennen keinen Angeseheneren als den Gewaltigen, der hundert Hilfen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Giess ihm ein den Trank der Kanva's; denn wir kennen keinen bessern, Als den starken labungsreichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Налей же хозяину канвов!  
 Не знаем мы более славного,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ष्कृतिर् ना꣡म वो माता꣡  
 अ꣡थो यूयं꣡ स्थ नि꣡ष्कृतीः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् आम꣡यति नि꣡ष् कृथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 सी॒राः । प॒त॒त्रिणीः॑ । स्थ॒न॒ । यत् । आ॒मय॑ति । निः । कृ॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣkṛtir* ← *iṣkṛtiḥ* ← *iṣkṛti*
 - \[noun\], nominative, singular, feminine
@@ -109,7 +109,7 @@ popular;; epic anuṣṭubh (292)
 हे ओषधयः **वो** **माता** जननी **इष्कृतिर्नाम्** । सर्वेषां रुग्णानां निष्कर्त्रीति प्रसिद्धा । यस्मात्सा रुग्णं निष्करोति । **अथ** अतो **यूयम्** अपि **निष्कृतीः** निष्कृतयः **स्थ** भवथ। किंच यूयं **सीराः** सरणशीलाः पतत्रिणीः **पतनवत्यश्च** **स्थन** भवथ। ‘तप्तनप्' इति तनादेशः । किंच पुरुषः **यत्** यदि **आमयति** व्याधितो भवति तं **निष्कृथ** संस्कुरुथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ popular;; epic anuṣṭubh (292)
 Iṣkṛti and Niṣkṛtis: both are synonyms, the unmaker or remedier of disease
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your mother is the “Restorer” by name, and you all are “Expellers.” You are streambeds [=stalks] with wings [=leaves]. You expel what  
 causes affliction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Reliever is your mother's name, and hence Restorers are ye called.  
      Rivers are ye with wings that fly: keep far whatever brings disease.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Mutter heißt Heilmachung, und ihr seid die Heilungen. Ihr seid beflügelte ...... . Was schmerzt, das heilet ihr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie eure Mutter Heilerecht, heisst ihr die Töchter Macheheil; Ihr seid beschwingten Strömen gleich, was schadhaft ist, das macht ihr heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исцеление по имени ваша мать,  
 А вы (сами) – излечения.  

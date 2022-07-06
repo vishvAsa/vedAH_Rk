@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ उछा दुहितर् दिवो  
 मा꣡ चिरं꣡ तनुथा अ꣡पः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 न । इत् । त्वा॒ । स्ते॒नम् । यथा॑ । रि॒पुम् । तपा॑ति । सूरः॑ । अ॒र्चिषा॑ । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -130,20 +130,20 @@ genre M;; repeated line
 हे दिवः **दुहितः** उषः त्वं **व्युच्छ** विभातं कुरु । **अपः** अस्मदीयं कर्म प्रति **चिरं** विलम्बं **मा** **तनुथाः** मा कृथाः । **त्वा** त्वां **रिपुं** **स्तेनं** **यथा** संतापयति राजादिः तद्वत **सूरः** सूर्यः **अर्चिषा** तेजसा **नेत्** नैव **तपाति** तप्यात् । शीघ्रं नोदत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Daughter of heaven, Dawn! delay not our (sacred) rite; let not the sun scorch you with his ray, as (a prince punishes) a thief, or (subdues) an enemy; bright-born goddess,(who are), sincerely praised for (the gift of) horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn forth, Daughter of Heaven. Don’t keep dragging out your work  over a long time,  
 lest the sun scorch you with his beam as (he might) a swindling thief – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last vs. before the summary vs., this one brings the hymn ringcompositionally back to its beginning with its opening impv. vy ùcha ‘dawn forth’, a lexeme found 4x in vss. 2-3 (2b, 2c, 3b, 3c).
 
@@ -154,23 +154,23 @@ It is difficult not to take sū́raḥ as a nom. sg. to a thematic stem (so, e.g
 introduction, I think the point of contact is the assumption that thieves work at night and if the sun rises on them, they will be caught out.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Daughter of the Sky, shine forth; delay not to perform thy task.  
      Let not the Sun with fervent heat consume thee like a robber foe, high-born! delightful with the steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leuchte auf, Tochter des Himmels, zieh dein Werk nicht in die Länge, damit dich nicht wie einen betrügerischen Dieb die Sonne mit ihrer Glut versenge, du Edelgeborene, Rosseschenkende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Himmelstochter, leuchte auf; und nicht verzögere dein Werk, Damit dich nicht, wie einen Dieb, die Sonne brennt mit ihrem Strahl, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ярко зажгись, о дочь неба,  
 Не тяни долго со своей работой,  

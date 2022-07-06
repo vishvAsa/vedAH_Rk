@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निमि꣡षश् चिज् ज꣡वीयसा  
 र꣡थेना꣡ यातम् अश्विना  
 अ꣡न्ति ष꣡द् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nimiṣaś* ← *nimiṣaḥ* ← *nimiṣ*
 - \[noun\], ablative, singular, feminine
@@ -91,35 +91,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **निमिषश्चित्** निमेषादपि **जवीयसा** अतिशयवेगेन **रथेन** **आ** **यातम्** आगच्छतमस्मद्यज्ञं हे **अश्विना** । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Aśvins**, in your chariot which moves quicker than the twinkling of an eye; let your protectionabide near me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here with your chariot that is quicker even than a wink, Aśvins. – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Asvins, with your car more swift than is the twinkling of an eye  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, Asvin, auf dem Wagen, der rascher als selbst das Augenzwinkern ist. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit eurem Wagen, Ritter, kommt, der schneller als ein Augenblick; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отправляйтесь на колеснице,  
 Что быстрей мгновенья!  

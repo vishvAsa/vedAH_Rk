@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् यातुधा꣡नः प्र꣡सितिं त एतु  
 ऋतं꣡ यो꣡ अग्ने अ꣡नृतेन ह꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समक्ष꣡म् एनं गृणते꣡ नि꣡ वृङ्धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । अ॒र्चिषा॑ । स्फू॒र्जय॑न् । जा॒त॒ऽवे॒दः॒ । स॒म्ऽअ॒क्षम् । ए॒न॒म् । गृ॒ण॒ते । नि । वृ॒ङ्धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -122,36 +122,36 @@ popular
 हे **जातवेदः** जातप्रज्ञ **अग्ने** **ते** त्वदीयं **प्रसितिं** ज्वालाप्रबन्धनं **यातुधानः** राक्षसः **त्रिः** त्रीन्वारान् **एतु** गच्छतु । त्रिर्बद्धं यत्तत्सुबद्धं भवति हि। किंच **यः** यातुधान: राक्षसः **ऋतं** सत्यम् **अनृतेन** असत्येन **हन्ति** हिनस्ति **तं** यातुधानम् **अर्चिषा** स्वकीयेन तेजसा **स्फूर्जयन्** निष्पिषन् । स्फूर्जतिरत्र निष्पेषणकर्मा। **एनं** यातुधानं **गृणते** स्तोत्रं कुर्वते मह्यं **समक्षं** प्रत्यक्षं **नि** **वृङ्धि**। निगृह्य वर्जय वृकेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** **Jātavedas**, let the **Yātudhāna**, who defeats your truth with falsehood, come thrice into the”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times let the sorcerer who smites truth with untruth meet your  onslaught, o Agni.  
 Sizzling him with your flame, o Jātavedas, wrench him down for the  singer before his very eyes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thrice, Agni, let thy noose surround the demon who with his falsehood injures Holy Order.  
      Loud roaring with thy flame, O Jatavedas, crush him and cast him down before the singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal soll der Zauberer dir ins Garn gehen, der der Wahrheit mit der Lüge ins Gesicht schlägt, o Agni! Strecke ihn, o Jatavedas, knatternd mit deiner Flamme nieder für den Sänger vor dessen Augen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Zaubrer bringe dreimal in dein Fangnetz, der den Gerechten schlägt durch Unrecht, Agni; Den schmettre nieder vor des Sängers Augen, o Wesenkenner, mit der Flamme prasselnd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть колдун трижды попадет к тебе в ловушку,  
 Тот, кто побивает закон беззаконием, о Агни!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡ह त्या꣡ कु꣡ह नु꣡ श्रुता꣡  
 दिवि꣡ देवा꣡ ना꣡सतिया  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 को꣡ वां नदी꣡नां᳐ स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कस्मि॑न् । आ । य॒त॒थः॒ । जने॑ । कः । वा॒म् । न॒दीना॑म् । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuha*
 - \[adverb\]
@@ -107,36 +107,36 @@ genre M
 **त्या** तौ **देवा** देवौ **नासत्या** अश्विनौ **कुह** कुत्र तिष्ठतः । **नु** अद्य **कुह** **श्रुता** कुत्र श्रुतौ **दिवि** द्युलोके निवसत इति शेषः । अथ प्रत्यक्षकृतः । हे देवौ युवां **कस्मिन्** **जने** यजमाने **आ** **यतथः** आगच्छथः । **कः** स्तोता **वां** युवयोः **नदीनां** स्तुतीनां **सचा** सहायः स्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Nāsatyās**, where are they? where are they heard if in heaven? to what worshipper do you come? who may be the associate of your praises?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where are these two? Where are they famed—the Nāsatyas, the two gods  in heaven?  
 Among what people do you take your place? Which of you two is in  company with rivers?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where are they now? Where are the Twain, the famed Nasatyas, Gods in heaven?  
      Who is the man ye strive to reach? Who of your suppliants is with you?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo sind die zwei? Wo im Himmel hört man von den Göttern Nasatya´s? Bei welchem Volke sucht ihr heute Anschluß? Wer hält euch fest im Bereich der Flüsse?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo sind sie? wo die herrlichen? im Himmel treue Götter sie, Zu welchem Manne geht ihr hin? und welcher Rufer ist euch nah?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где эти двое? Где сейчас слышно  
 На небе о богах Насатья?  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साधुअर्या꣡ अतिथि꣡नीर् इषिरा꣡  
 स्पार्हाः꣡ सुव꣡र्णा अनवद्य꣡रूपाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡र् गा꣡ ऊपे य꣡वम् इव स्थिवि꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । पर्व॑तेभ्यः । वि॒ऽतूर्य॑ । निः । गाः । ऊ॒पे॒ । यव॑म्ऽइव । स्थि॒विऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sādhvaryā* ← *sādhvaryāḥ* ← *sādhvarya*
 - \[noun\], accusative, plural, feminine
@@ -113,7 +113,7 @@ genre M
 **साध्वर्याः** साधूनां कल्याणानां पयसां नेत्रीः **अतिथिनीः** सततं गच्छन्तीः **इषिराः** एषणीयाः **स्पार्हा:** स्पृहणीयाः **सुवर्णाः** शोभनशुक्लादिवर्णोपेताः **अनवद्यरूपाः** प्रशस्यरूपा एताः **गाः** **पर्वतेभ्यः** वलसंबन्धिभ्यः **वितूर्य** निर्गमय्य **ऊपे** देवसमीपे निर्वपति प्रापयति । तत्र दृष्टान्तः । **यवमिव** । यथा यवं **स्थिविभ्यः** कुसीदेभ्य आदाय निर्वपति । ‘डुवप् बीजसंताने'। लिटि रूपम् । यद्वा । साधुनयनादिगुणयुक्ता गा अपः पर्वतेभ्यो मेघेभ्य आहृत्य सर्वत्र वर्षति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ The cows: gāḥ = the rain water;
 Parvatebhyaḥ = the clouds;from the granaries: sthivibhyaḥ = kusīdebhyaḥ, usurers; nir ūpe = sows (as of seed)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The cows—) thoroughly civilized, providing for guests, vigorous,  cherished, of lovely color and faultless form—  
 Br̥haspati, having brought them through, strewed the cows forth from  the mountains, like grain from sacks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, having won them from the mountains, strewed down, like barley out of winnowing- baskets,  
      The vigorous, wandering cows who aid the pious, desired of all, of blameless form, well-coloured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kühe, die einem trefflichen Herrn gehören, die Gäste bringen, die rührigen, begehrenswerten, schönfarbigen von tadellosem Aussehen, hat Brihaspati, nachdem er sich den Weg hindurch gebahnt hatte, aus den Bergen ausgeschüttet wie Korn aus den Säcken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vorwärts streben wandernd, munter eilend, die viel begehrten schön an Form und Farbe, Die Kühe lösend von den Felsen, drosch sie Brihaspati hervor wie Korn aus Aehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очень преданные, привлекающие гостей, бодрые,  
 Желанные, прекрасного цвета, безупречной формы:  

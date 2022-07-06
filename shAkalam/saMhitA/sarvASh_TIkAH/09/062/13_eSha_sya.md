@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ प꣡रि षिच्यते  
 मर्मृज्य꣡मान आयु꣡भिः  
 उरुगायः꣡ कवि꣡क्रतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒रु॒ऽगा॒यः । क॒विऽक्र॑तुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उरुगायः** बहुस्तुतिः **कविक्रतुः** क्रान्तप्रज्ञः क्रान्तकर्मा वा **स्थः** सः **एषः** अयं सोमः **आयुभिः** मनुष्यैः मर्मृज्यमानः शोध्यमानः **परि** **षिच्यते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ Having wise designs: kavikratuḥ = krāntaprajñaḥ krāntakarmo vā, possessi
 **Kaviḥ** = **kāntaḥ** (cf. RV 9.064.30)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here is poured in circles, being continually groomed by  the Āyus,  
 the wide-going one with a poet’s purpose.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The first two vss. contain forms of kaví-. The epithet “wide-going” (urugā
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wandering far, with wise designs, the juice here present is effused,  
      Made beautiful by living men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Ayu´s geputzt wird er umgegossen, der Weitschreitende mit dem Sehersinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist es, der sich rings ergiesst, gereinigt von den eifrigen, Der weise, weithin schreitende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

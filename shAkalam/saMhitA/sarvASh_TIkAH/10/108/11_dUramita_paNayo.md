@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दू᳐र꣡म् इत पणयो व꣡रीय  
 उ꣡द् गा꣡वो यन्तु मिनती꣡र् ऋते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मो ग्रा꣡वाण ऋ꣡षयश् च वि꣡प्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 बृह॒स्पतिः॑ । याः । अवि॑न्दत् । निऽगू॑ळ्हाः । सोमः॑ । ग्रावा॑णः । ऋष॑यः । च॒ । विप्राः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dūram* ← *dūra*
 - \[noun\], accusative, singular, neuter
@@ -114,39 +114,39 @@ popular
 हे **पणयः** यूयं **वरीयः** उरुतरं **दूरं** दूरदेशम् **इत** गच्छत। युष्माभिरपहृताः **गावः** **ऋतेन** सत्येन **मिनतीः** मिनत्यो द्वारस्य पिधायकं पर्वतं हिंसत्यो विदारयन्त्यः **उत्** **यन्तु** तस्मादुद्गच्छन्तु । यद्वा । मिनतीः । व्यत्ययेन कर्मणि शतृ । मीयमाना युष्माभिर्बाध्यमानास्ता गावः । सुब्व्यत्ययः । गा ऋतेन स्तुतिभिर्गन्तव्येनेन्द्रेण सहायेन बृहस्पत्यादय उद्यन्तु पर्वतादुद्गमयन्तु । **निगूढाः** नितरां स्थापिताः **याः** गाः **बृहस्पतिः** **अविन्दत्** लप्स्यते तथा **सोमः** तदभिषवकारिणः **ग्रावाणः** च **विप्राः** मेधाविनः **ऋषयः** अङ्गिरसः **च** लप्स्यन्ते।  ‘ विद्लृ लाभे । तौदादिकः । तस्मात् ‘छन्दसि लुङलङ्लिटः' इति भविष्यदर्थे लङ्। ‘शे मुचादीनाम् ' इति नुमागमः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Narrator:] Go far from here, Paṇis, a very long way! Exchanging places  with the truth, let the cows come up  
 which Br̥haspati found hidden—he and the soma, the pressing stones,  and the inspired seers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hence, far away, ye Panis! Let the cattle lowing come forth as holy Law commandeth,  
      Kine which Brhaspati, and Soma, Rsis, sages, and pressing-stones have found when hidden.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Go, Paṇis, to the distance far: the cattle Shall issue, breaking rightly from their prison. Bṛhaspati, the pressing stones, and Soma, And priestly sages found them in concealment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hebt euch in die Ferne so weit als möglich, ihr Pani´s! Auf dem rechten Wege sollen die brüllenden Kühe herauskommen, die Brihaspati im Versteck fand und Soma, die Preßsteine und die redegewaltigen Rishi´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geht weit hinweg, o Pani's, kommen sollen die Küh' hervor, mit Recht die Stelle wechselnd, Brihaspati entdeckte die versteckten, die Steine, Soma und die weisen Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убирайтесь, Пани, как можно дальше!  
 Пусть выйдут коровы, меняя (свое место) в соответствии с законом,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो वायुं꣡ रथयु꣡जम् पु꣡रंधिं  
 स्तो꣡मैः कृणुध्वं सखिया꣡य पूष꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्र꣡तुं स꣡चन्ते सचि꣡तः स꣡चेतसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ते । हि । दे॒वस्य॑ । स॒वि॒तुः । सवी॑मनि । क्रतु॑म् । सच॑न्ते । स॒ऽचितः॑ । सऽचे॑तसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -127,37 +127,37 @@ genre M
 हे स्तोतारः वो यूयं वायुं रथयुजं रथस्य योक्तारं पुरन्धिं बहुकर्माणमिन्द्रं पूशणमेतन्नामानं च स्तोमैस्त्रिवृत्पञ्चदशादिलक्षणैः सख्याय सखि कर्मणे प्र कृणुध्वम्। प्रकुरुध्वम्। यथा तेऽस्माकं धनादिप्रदानेन सखायो भवन्ति तथा कुरुत। हि यस्मात्सचितो ज्ञानयुक्तास्ते देवाः सचेतसः परस्परं समानबुद्धयः सन्तः सवितुः सर्वप्रेरकस्य देवस्यादित्यस्य सवीमनि प्रसवेऽह्नि क्रतुं यज्ञं सचन्ते सेवन्ते तस्मात्प्रकुरुध्वम्॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Importune, (worshippers), with praises, **Vāyu**, harnessing his chariot, and Purandhi and **Pūṣan** fortheir friendship, for these considerate and consentient deities, attend the sacrifice upon the birth of **Savitā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set in front with your praises Vāyu, who hitches up the chariot,  
 Plenitude, and Pūṣan, for comradeship,  
 for at the impulsion of god Savitar they follow his will—those of one  mind (follow the will) of him who is of one mind (with them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring ye Purandbi, bring Vayu who yokes his steeds, for friendship bring ye Pusan with your songs of praise:  
      They with one mind, one thought attend the sacrifice, urged by the favouring aid of Savitar the God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gebet mit euren Lobpreisungen dem wagenschirrenden Vayu, der Purandhi, dem Pusan zur Freundschaft den Vorzug, denn diese folgen auf Gott Savitri´s Geheiß seinem Willen, gleichdenkend, gleichgesinnt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagenschirrer Vaju und Purandhi schafft durch Loblied und zur Freundschaft Puschan euch herbei; An Einsicht und an Weisheit gleich erlangen sie auf Savitars, des Gottes, Antrieb neue Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

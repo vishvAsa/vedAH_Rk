@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धेषु अग्नि꣡षु आनजाना꣡  
 यत꣡स्रुचा बर्हि꣡र् उ तिस्तिराणा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ इन्द्राग्नी सौमनसा꣡य यातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ती॒व्रैः । सोमैः॑ । परि॑ऽसिक्तेभिः । अ॒र्वाक् । आ । इ॒न्द्रा॒ग्नी॒ इति॑ । सौ॒म॒न॒साय॑ । या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddheṣv* ← *samiddheṣu* ← *samindh* ← *√indh*
 - \[verb noun\], locative, plural
@@ -115,7 +115,7 @@ genre M
 **अग्निषु** गार्हपत्यादिषु अन्वाधानादिना **समिद्धेषु** सम्यगिद्धेषु दीप्तेषु सत्सु **आनजाना** हवींष्याज्येनाञ्जन्तौ यतस्रुचा तदनन्तरं यागार्थं गृहीतस्रुचौ **बर्हिरु** वेद्यां बर्हिरपि **तिस्तिराणा** आस्तीर्णं कृतवन्तौ अध्वर्युप्रतिप्रस्थातारौ एवंभूतावभूताम् । तथा सति हे इन्द्राग्नी **तीव्रैः** क्षिप्रं मदकरैः **परिषिक्तेभिः** परितः सर्वेषु ग्रहचमसादिष्वासिक्तैः **सोमैः** हेतुभूतैः **अर्वाक्** अस्मदभिमुखम् ॥ **यातम्** आगच्छतम् । किमर्थम् । **सौमनसाय** सौमनस्याय अस्माकमनुग्रहायेत्यर्थः ॥ आनजाना ।  ‘ अञ्जू व्यक्तिम्रक्षणगतिषु । लिटः कानच् । **अनिदिताम्'** इति नलोपः। द्विर्भावे ‘अत आदेः' इति अभ्यासस्य दीर्घः। तस्मान्नुड्द्विहलः' इति अद्विहलोऽपि व्यत्ययेन नुट् । तिस्तिराणा। स्तॄञ् आच्छादने । पूर्ववत् कानच् ।  ‘ ऋत इद्धातोः' इति इत्वम् । द्विर्वचने शर्पूर्वाः खयः' । सुपां सुलुक् ' इति सर्वत्र विभक्तेः आकारः । चित्त्वादन्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,14 +126,14 @@ genre M
 The two: are explained as **adhvaryu** and the his assistant priest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two being anointed when the fires have been kindled, with your  offering spoon extended, having strewn your own ritual grass,  
 with the sharp soma drinks poured about, drive in our direction to  
 (display) benevolence, o Indra and Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) construes the instr. phrase of pāda c with ānajānā́of pāda a (thus, “being anointed with soma”). Since pāda b intervenes, depicting two further ritual actions, I consider the syntactic connection of a and c unlikely, although I am sympathetic to the desire to find something to construe the instr. tīvraíḥ sómaiḥ páriṣiktebhiḥ with. I take that phrase rather as a loose circumstantial instrumental, almost equivalent to a loc. absolute.
 
@@ -152,23 +152,23 @@ As noted in the published introduction, vs. 3 attributes Indra’s characteristi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Both stand adorned, when fires are duly kindled, spreading the sacred grass, with lifted ladles.  
      Drawn by strong Soma juice poured forth around us, come, Indra-Agni, and display your favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei entzündeten Feuern und dargebotenen Opferlöffel, während ihr das Barhis ausgebreitet habt, mit eingeschenktem scharfen Soma besalbt, kommet näher, Indra und Agni, um euer Wohlwollen zu zeigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch schmückend beide bei entflammten Feuern, euch werfend auf die Streu, aus Löffeln schlürfend, Durch starke, euch ergossne Somasäfte gelockt, kommt her zur Freude, Indra-Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда зажжены костры, вы двое, помазанные (жертвенным жиром),  
 С протянутыми ложками, расстелив жертвенную солому,  

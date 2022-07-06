@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते कृष्णः꣡ शकुन꣡ आतुतो꣡द  
 पिपीलः꣡ सर्प꣡ उत꣡ वा श्वा꣡पदः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मश् च यो꣡ ब्राह्मणाँ꣡ आविवे꣡श
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ग्निः । तत् । वि॒श्व॒ऽअत् । अ॒ग॒दम् । कृ॒णो॒तु॒ । सोमः॑ । च॒ । यः । ब्रा॒ह्म॒णान् । आ॒ऽवि॒वेश॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -132,7 +132,7 @@ popular
 हे मृतशरीर ते तव सम्बन्धि यदङ्गं कृष्णः शकुनः काकाख्यः आतुतोद आङीषदर्थे ईषत्तुन्नवान् तथा पिपीलः पिपीलिका वा सर्पोवा उतवा अपिवा श्वापदः श्वश्रृगालादिः एतेषामन्यतमोयदि तुन्नवानित्यर्थः विश्वात् सर्वस्यात्ता अग्निः तत्तादृशमङ्गं अगदं कृणोतु दोषरहितं करोतु संस्करोत्वित्यर्थः । तथा सोमश्च देवतारूपः ओषधिरूपोवा संस्करोतु यः सौमः ब्राह्मणान् ऋत्विगादीन् आविवेश प्रविष्टवान् ॥ ६ ॥ अनुस्तरण्यावपया प्रेतस्य मुखमग्नेर्वर्मेत्यनया प्रोर्णुयात् । सूत्रितञ्च—अनुस्तरण्यावपामु- त्खिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्मपरिगोभिर्व्ययस्वेतीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ popular
 The wild beast: jackal orhyaena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What of yours the black omen-bird pecked at, or the ant, the serpent,  or the dog-footed (beast),  
 let omnivorous Agni make it free from curse, and Soma, who has  
 entered the brahmins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or the jackal,  
      May Agni who devoureth all things heal it and Soma who hath passed into the Brahmans.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was der schwarze Vogel von dir angepickt hat, die Ameise, die Schlange oder ein wildes Tier, das soll der allesfressende Agni heil machen und Soma, der in die Brahmanen eingegangen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn dich gebissen hat der schwarze Häher, Ameise, Schlange oder auch ein Raubthier, So möge Agni alles das dir heilen und Soma, der die Priesterschar beseelt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что вырвала у тебя черная птица,  
 Муравей, змея или же хищный зверь,  

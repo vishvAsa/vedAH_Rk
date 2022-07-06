@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवाँ꣡ अग्निं꣡ वसूय꣡वः  
 सहसानं꣡ ववन्दिम  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡र्षन् नावे꣡व सुक्र꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । विश्वा॑ । अति॑ । द्विषः॑ । पर्ष॑त् । ना॒वाऽइ॑व । सु॒ऽक्रतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evāṃ* ← *eva*
 - \[adverb\]
@@ -110,7 +110,7 @@ genre M
 **वसूयवः** वसुकामा वयं **सहसानम्** अस्माकं बलमाचरन्तम् **अग्निम्** एवमुक्तप्रकारेण **ववन्दिम** स्तुमः । **सुक्रतुः** शोभनकर्मा **सः** अग्निः **नः** अस्मान् **विश्वाः** सर्वान् **द्विषः** शत्रून् **अति** **पर्षत** अतिपारयतु । कथमिव । **नावा** साधनेन सिन्धुम् **इव** ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,33 +121,33 @@ genre M
 Vasuyus; vasukāmaḥ, they who desire wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, seeking goods, we have celebrated Agni who acts with strength. He of strong resolve will bring us to safety across all hatreds, as if by  a boat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus, seeking riches, have we paid homage to Agni Conqueror.  
      May he, most wise, as with a ship, carry us over all our foes.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus we have paid homage, desirous of goods, to powerful Agni. May he, the highly wise one, help us, as with a ship, across all enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also haben wir Gutes begehrend den überlegenen Agni gerühmt. Er möge uns über alle Anfeindungen hinüberhelfen wie mit einem Schiff, der Einsichtsvolle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So haben wir voll Schatzbegier, den mächt'gen Agni hoch gerühmt; Schönwirkend fahr er wie im Schiff uns über alle Feinde hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, стремясь к благам,  
 Мы восхвалили могучего Агни.  

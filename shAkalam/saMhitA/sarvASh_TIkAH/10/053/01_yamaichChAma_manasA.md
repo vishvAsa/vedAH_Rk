@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् अइ꣡छाम म꣡नसा सो᳡ ऽय꣡म् आ꣡गाद्  
 यज्ञ꣡स्य विद्वा꣡न् प꣡रुषश् चिकित्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ हि꣡ ष꣡त्सद् अ꣡न्तरः पू꣡र्वो अस्म꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । नः॒ । य॒क्ष॒त् । दे॒वऽता॑ता । यजी॑यान् । नि । हि । स॒त्स॒त् । अन्त॑रः । पूर्वः॑ । अ॒स्मत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -135,7 +135,7 @@ popular
 **यम्** अग्निम् **ऐच्छाम** अन्विष्टवन्तो वयं **मनसा** हविष्प्रापणबुद्ध्या मह्यं हविः प्रापयत्विति बुद्ध्येत्यर्थः । सोऽयम् अग्निः **आगात्** आजगाम । कीदृशोऽग्निः । **यज्ञस्य** यज्ञं **विद्वान्** जानंस्तथा **परुषः** परूंषि संधातव्यान्यङ्गानि **चिकित्वान्** अभिगच्छन् । **सः** अग्निः **यजीयान्** यष्टृतमः **नः** अस्मान् **देवताता** देवतातौ यज्ञे **यक्षत्** यजतु । **नि** **षत्सद्धि** न्यसीदत् खलु वेद्यामिति शेषः ॥ कीदृशः सन् । अन्तरः ऋत्विजां यष्टव्यानां देवानां च मध्ये संचरन् **अस्मत्** **पूर्वः** अस्मत्तो देवेभ्यः पूर्वभावी सन् । अग्निं समिध्य पश्चाद्धि देव आहूयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,31 +146,31 @@ popular
 He...has arrived: i.e.,the fire is kindled, and then the gods are worshipped
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one whom we sought with our mind, this one has come here just  now, knowing the sacrifice, attentive to its articulation.  
 He will perform sacrifice for us in the divine assemblage as superior  
 sacrificer, for he will sit down (as Hotar) close by, in front of us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE hath arrived, he whom we sought with longing, who skilled in sacrifice well knows its courses.  
      Let him discharge his sacrificial duties: let him sit down as Friend who was before  
      Us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gekommen ist jetzt der, den wir im Geiste suchten; des Opfers ist er kundig und seiner Gliederung eingedenk. Als der besser Opfernde möge er für uns im Gottesdienst opfern. So möge er denn in nächster Nähe vor uns seinen Platz einnehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wir von Herzen suchten, der erschien jetzt, des Opfers kundig und der Zeiten achtend; Als bester Opfrer opfre er beim Feste für uns und setze nah sich vor uns nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот пришел тот, кого искали мы мыслью,  
 Знаток жертвоприношения, разбирающийся в (его) членении.  

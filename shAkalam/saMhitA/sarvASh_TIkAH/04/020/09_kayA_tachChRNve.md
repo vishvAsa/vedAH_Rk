@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡या त꣡च् छृण्वे श꣡चिया श꣡चिष्ठो  
 य꣡या कृणो꣡ति मु꣡हु का꣡ चिद् ऋष्वः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था दधाति द्र꣡विणं जरित्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रु । दा॒शुषे॑ । विऽच॑यिष्ठः । अंहः॑ । अथ॑ । द॒धा॒ति॒ । द्रवि॑णम् । ज॒रि॒त्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
@@ -124,14 +124,14 @@ genre M
 **शचिष्ठः** अतिशयेन प्राज्ञः । तदिति लिङ्गब्यत्ययः । **तत्** स इन्द्रः **कया** **शच्या** कया प्रज्ञया । शचीति प्रज्ञानामैतत् । **शृण्वे** श्रूयते । **ऋष्वः** महानिन्द्रः **मुहु** मुहुः **यया** प्रज्ञया **का** **चित्** कानिचित् कर्माणि **कृणोति** करोति । स इन्द्रः **दाशुषे** हविर्दत्तवते यजमानाय **पुरु** भूयिष्ठम् **अंहः** पापं **विचयिष्ठः** अतिशयेन नाशको भवति । **अथ** अपि च **जरित्रे** स्तोत्रे **“द्रविणं** पश्वादिधनं **दधाति** ददाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By what wisdom is he who is most wise renowned by that wherewith the mighty **Indra** repeatedly does (great things); he is the especial effacer of the manifold sin of the worshipper, and bestows wealth upon his adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because of what ability is he famed as the most able?—that ability by  which the lofty one does everything instantly.  
 He is the best at prying apart narrow straits for the man who does  
@@ -139,30 +139,30 @@ much pious service, and he establishes material property for the
 singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a is a definitional one, with the precise type of ability (śácī-) possessed by Indra giving him the designation ‘most able’ (śáciṣṭha).
 
 Geldner interprets múhu kā́cid as haplology for *muhukā́kā́cid (so also EWA s.v. múhur, Witzel Gotō, and, somewhat differently, Oldenberg flg. Ludwig). Cf. nearby IV.16.17 kásmiñ cid … muhuké (also muhukaíḥ IV.17.12). I have come, somewhat reluctantly, to the conclusion that this is correct. However, as noted in disc. ad IV.16.17, I do not accept Geldner’s rendering of muhuká- as ‘Schlachtgeschrei’, which produces for this passage “… jedwedes Schlachtgeschrei hervorruft.” Witzel Gotō’s “… welches plötzlichen Vorfälle auch immer erledigt” is, however, more plausible. In IV.16.17 I suggest a sense ‘skirmish’, which works contextually there, but is here, I think, too specific. In fact, the published translation, “does everything instantly,” can stand, for a literal Engl. “does every instantaneous thing.” The lexeme ví √ci means literally ‘pull apart’; an exactly parallel usage to this one appears in VI.67.8 yuváṃ dāśúṣe ví cayiṣṭam áṃhaḥ (also cited by Geldner), and the notion of pulling apart / opening up a narrow place (áṃhaḥ) is very apposite. It should also be noted, however, that the same lexeme is used in gambling contexts, indeed in the very X.42.9 just cited for prahā́vant- in 8c. In gambling it means ‘pile apart, pull out (a good hand)’. Although I don’t think that that idiomatic sense is reflected here, I do think that the gambling overtones would resonate with the other gambling vocabulary in this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By what great might is he renowned as strongest, wherewith the Lofty One stirs up wild battles?  
      Best soother of the worshipper's great sorrow, he gives possessions to the man who lauds him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches ist die Macht, durch die er der Mächtigste heißt, durch die der Recke jedwedes Schlachtgeschrei hervorruft? Dem, der viel opfert, behebt er am ehesten die Not und bringt dem Sänger Besitz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch welche Kraft ist er berühmt als stärkster, durch die der hehre alles plötzlich ausführt? Zerstreuend viel Bedrängniss dem Verehrer, verleiht er reiche Schätze dann dem Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что это за сила, благодаря которой он слывет самым сильным,  
 Благодаря которой громадный мгновенно совершает любые (подвиги)?  

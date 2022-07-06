@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ न आस्नो꣡ वृ꣡काणा᳐म्  
 आ꣡दित्यासो मुमो꣡चत  
 स्तेन꣡म् बद्ध꣡म् इवादिते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्ते॒नम् । ब॒द्धम्ऽइ॑व । अ॒दि॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आदित्यासः** आदित्याः **ते** यूयं **नः** अस्मान् **वृकाणां** हिंसकानामादातॄणां वा **आस्नः** आस्यात् सकाशात् **मुमोचत** विमोचनं कुरुत **स्तेनं** **बद्धमिव** । हे **अदिते** त्वं च मोचयास्मानिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, deliver us from the jaws of the destroyers like a bound thief; O **Aditi**, (deliver us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being such, free us from the mouth of wolves, o Ādityas,  
 like a thief who’s been bound, o Aditi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, from mouth of ravening wolves, O ye Adityas, rescue us,  
      Like a bound thief, O Aditi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Aditya´s, befreit uns aus dem Rachen der Wölfe, die wir wie ein Dieb gefesselt sind, o Aditi!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als solche macht, Aditja's ihr, uns aus der Wölfe Rachen los, Aditi, wie gebundnen Dieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) такие (вы), Адитьи, освободите  
 Нас из пасти волков  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्वो वो ना꣡म मा꣡रुतं यजत्राः  
 प्र꣡ यज्ञे꣡षु · श꣡वसा मदन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡न्वन्ति उ꣡त्सं य꣡द् अ꣡यासुर् उग्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ये । रे॒जय॑न्ति । रोद॑सी॒ इति॑ । चि॒त् । उ॒र्वी इति॑ । पिन्व॑न्ति । उत्स॑म् । यत् । अया॑सुः । उ॒ग्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
@@ -120,20 +120,20 @@ genre M
 हे **यजत्राः** यजनीया मरुतः **वः** युष्मदीयं **मारुतं** मरुत्संबन्धि **नाम** नामधेयं **मध्वः** मधवो मादयितारः स्तोतारः **यज्ञेषु** यागेषु **शवसा** बलेन **प्र** **मदन्ति** प्रकर्षेण स्तुवन्ति । उच्चैः स्तुवन्तीत्यर्थः। **ये** मरुतः **उर्वी** विस्तीर्णे **रोदसी** **चित्** द्यावापृथिव्यावपि **रेजयन्ति** कम्पयन्ति किंच **उत्सं** मेघं **पिन्वन्ति** वर्षयन्ति **उग्राः** उद्गूर्णाः **यत्** ये मरुतः **अयासुः** यान्ति सर्वत्र गच्छन्ति । तेषां मरुतां युष्माकं नाम प्र मदन्तीति पूर्वेणान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable (**Maruts**), the worshippers vigorously celebrate at sacrifices your appellation of company ofthe Maruts, they who cause the spacious heaven and earth to tremble, the clouds to rain, the move everywhereterrible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your honey has the name “Marut,” o you who deserve the sacrifice. At  the sacrifices they become invigorated with its strength:  
 they who set even the two wide world-halves to trembling, the mighty  ones swell the wellspring, when they have journeyed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. differs considerably from the standard—Oldenberg, Geldner, Renou —all of whom take ab as a single clause, with the sg. nā́ma mā́rutam the subject of 3rd pl.
 
@@ -142,23 +142,23 @@ madanti and mádhvaḥ the oblique obj. of that verb. So, e.g., Oldenberg “Am 
 verb is glossed over. I find these disharmonies disturbing and prefer to separate the two pādas. By my interpr., as noted in the published introduction, pāda a has an idiomatic contruction very similar to Engl. “has X’s name on it,” meaning “is destined for / belongs to X.” (“That cookie has your name on it” means “you should take it; I’ll cede it.”) Then in b the person switches from 2nd (vaḥ … yajatrāḥ) to 3rd (madanti with gapped subj. = Maruts), but the number is unchanged. This situation lasts through then first hemistich of vs. 2. As for the sense, I take the ‘honey’ to refer to the soma to be offered to the Maruts at the sacrifices mentioned in b: the soma oblation at the sacrifice in question is intended just for them. Alternatively, but less likely in my view, it could refer to the rain that the Maruts produce. In that case it would have the Maruts’ name because it is their product. The rain is metaphorically referred to in d pínvanti útsam “they swell the wellspring.” The relationship among the clauses in the 2nd hemistich isn’t certain, although there are no real implications whichever interpr. is chosen. With the standard tr. I 88 take pínvanti útsam, which opens d, as the main clause on which both the preceding rel. (c: yé rejáyanti) and the following temporal clause (yád áyāsuḥ) depend. In this case pínvanti would be accented because it opens its pāda. However, that verb could be part of the rel. cl. starting in c (yé …), with all of cd dependent on b: “… they become exhilarated -- they who set … to trembling (and) swell the wellspring, when …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YEA, through the power of your sweet juice, ye Holy! the Marut host is glad at sacrifices.  
      They cause even spacious heaven and earth to tremble, they make the spring flow when they come, the Mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alles was von euch, ihr Opferwürdigen, den marutischen Namen trägt berauscht sich kräftiglich bei den Opfern am Met. Sie, die sogar die beiden Welten, die weiten, erzittern machen, die Gewaltigen, lassen den Born quellen, wenn sie sich auf die Fahrt begeben haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O hehre Schar der Maruts, euch berauschen die süssen Tränke kräftig bei den Opfern; Die ihr erschüttert beide weiten Welten, die Quellen füllend, wenn ihr starken herkommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Tе, кто носит) ваше имя марутово, о достойные жертв,  
 Мощно радуются меду на жертвоприношениях.  

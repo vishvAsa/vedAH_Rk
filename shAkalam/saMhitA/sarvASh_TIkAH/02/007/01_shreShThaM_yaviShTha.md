@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रे꣡ष्ठं यविष्ठ भारत  
 अ꣡ग्ने द्युम꣡न्तम् आ꣡ भर  
 व꣡सो पुरुस्पृ꣡हं रयि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 वसो॒ इति॑ । पु॒रु॒ऽस्पृह॑म् । र॒यिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], accusative, singular, masculine
@@ -88,7 +88,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,24 +101,24 @@ Descendant of Bhārata: Bhārata = sprung from the priests;
 **Bharata** = ṛtvija, produced by their rubbing the sticks together
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Youngest Agni, belonging to the Bharatas, bear hither the best brilliant  wealth,  
 craved by many, o good one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note … bhārata# (a) / … ā́bhara# (b).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VASU, thou most youthful God, Bharata, Agni, bring us wealth,  
      Excellent, splendid, much-desired.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring us, O youngest god, Bhârata 1, Agni, the best, resplendent, much-desired wealth, O Vasu 2!
 ꣡</details>
@@ -130,17 +130,17 @@ Bear to us excellent, glorious wealth, [3]
 O bright one, wealth which many desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du jüngster Bharatide Agni, bring uns den vorzüglichsten, glänzenden, vielbegehrten Reichtum mit, du Guter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den besten Reichthum bringe her, den schönen, Agni Bharata, Den vielbegehrten, guter du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О самый юный потомок Бхаратов,  
 О Агни, принеси сверкающее  

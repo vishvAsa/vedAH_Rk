@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ धा꣡मभिर् वरुण  
 मित्र꣡श् चा꣡ यातम् अद्रु꣡हा  
 पि꣡बतं सो꣡मम् आतुजी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 पिब॑तम् । सोम॑म् । आ॒तु॒जी इत्या॑ऽतु॒जी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -85,36 +85,36 @@ genre M
 हे **वरुण** त्वं **मित्रश्च** **अद्रुहा** अद्रोग्धारौ युवां **दिवः** द्युलोकसंबन्धिभ्यः **धामभिः** धामभ्यः स्थानेभ्यः । पञ्चम्यर्थे तृतीया । अथवा धामभिस्तेजोभिर्विभूतिभिः सार्धम् **आ** **यातम्** अस्मद्यज्ञमागच्छतम् । आगत्य च **आतुजी** शत्रूणां सर्वतो हिंसकावादातारौ वा धनानामेवंरूपौ सन्तौ **सोमं** **पिबतम्** । “ तुजि पिजि हिंसाबलादाननिकेतनेषु' । अत्र हिंसायामादाने वा वर्तते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “genitive le **Mitra** and **Varuṇa**, destroyers of foes, come from heaven with your glories, and drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From heaven through your domains, o Varuṇa and Mitra, you who are  without deception—travel here.  
 Drink the soma, thrusting yourselves toward it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come as the laws of Heaven ordain, Varuna, Mitra, void of guile:  
      Press near and drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet in Person vom Himmel, Varuna und du Mitra, ohne Arg! Trinket den Soma, spendierend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Himmels Scharen kommt herbei ihr holden, Mitra, Varuna, Kommt eilend, trinkt den Somasaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С неба с (вашими) установлениями, о Варуна,  
 О Митра, приезжайте невраждебные!  

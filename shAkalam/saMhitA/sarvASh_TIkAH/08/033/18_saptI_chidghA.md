@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡प्ती चिद् घा मदच्यु꣡ता  
 मिथुना꣡ वहतो र꣡थम्  
 एवे꣡द् धू꣡र् वृ꣡ष्ण उ꣡त्तरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 ए॒व । इत् । धूः । वृष्णः॑ । उत्ऽत॑रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saptī* ← *sapti*
 - \[noun\], nominative, dual, masculine
@@ -97,20 +97,20 @@ popular
 **सप्ती** **चिद्ध** इन्द्रस्याश्वावपि खलु **मदच्युता** सोमं प्रति गन्ताराविन्द्रस्यैव **रथं** मिथुनौ **वहतः** । **एवेत्** एवमेव **वृष्णः** इन्द्रस्य रथस्य **धूः** **उत्तरा** अश्वयोरुत्तरा भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The two horses of **Indra**, hastening to the exhilaration (of the **Soma**), draw his chariot; the pole of theshowerer rests upon them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra, cont’d:] “(Nonetheless,) it’s the twin span, the complementary  pair [/married couple], aroused to exuberance, that draws the chariot  [=sacrifice];  
 but even so the chariot-pole of the bull [=husband] is higher.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my interpretation Indra’s speech continues here, and having admitted the drawbacks to employing women in the ritual, he introduces the model of the yoked pair (that is, the married couple) drawing the chariot of sacrifice, a pair that must be more or less equally matched, but with the pole of the male somewhat higher than that of the female. (Some animals are more equal than others.) The image of the sacrifice as a chariot is of course a common one, and the word mithunā́ ‘complementary pair, sexual pair’ seems to me the tipoff that this is about the married couple. (Oldenberg is in general agreement.)
 
@@ -127,23 +127,23 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His pair of horses, rushing on in their wild transport, draw his car:  
      High-lifted is the stallion's yoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwar zieht ein hochtrabendes Rossepaar den Wagen; doch überragt das Deichseljoch den Zugstier.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden gepaarten Rosse, von Rausch erregt, ziehen den Wagen; das Joch liegt auf dem starken Hengste. –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотя пара коней, возбужденных опьянением,  
 Везет (вместе) колесницу,  

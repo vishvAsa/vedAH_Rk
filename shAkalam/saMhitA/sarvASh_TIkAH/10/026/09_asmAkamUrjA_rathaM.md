@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् ऊर्जा꣡ र꣡थम्  
 पूषा꣡ अविष्टु मा꣡हिनः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इमं꣡ नः शृणवद् ध꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 भुव॑त् । वाजा॑नाम् । वृ॒धः । इ॒मम् । नः॒ । शृ॒ण॒व॒त् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -96,37 +96,37 @@ genre M;; repeated line
 **माहिनः** महान् **पूषा** **अस्माकं** स्वभूतं **रथम्** **ऊर्जा** बलेन अन्नेन वा **अविष्टु** अवतु रक्षतु । किंच **वाजानाम्** अन्नानां **वृधः** वर्धकः **भुवत्** भवतु । **नः** अस्मदीयम् **इमम्** ईदृग्भूतं **हवम्** आह्वानं **शृणवत्** शृणोतु ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the mighty **Pūṣan** protect our chariot by his might; may he be to us the augmenter of food; mayhe hear this our invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our chariot let Pūṣan the mighty aid with his vigor.  
 He will become the increaser of prizes; he will hear this call of ours.  
 The three hymns ascribed to Vasukra Aindra (X.27–29) are both very rich and very  strange, and will repay concentrated study for untold time to come.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the majestic Pusan speed our chariot with his power and might.  
      May he increase our store of wealth and listen to this call of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unserem Wagen soll der mächtige Pusan mit Kraft helfen. Er sei der Mehrer der Gewinne, er erhöre diesen Ruf von uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen, der uns Nahrung bringt, ihn treib der starke Puschan her, Er sei der Labung Förderer, und höre diesen unsern Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашу колесницу пусть поддержит  
 Пушан, великий (своей) питательный силой!  

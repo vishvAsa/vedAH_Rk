@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहो꣡प यात शवसो नपातः  
 सउ꣡धन्वना ऋभवो मा꣡प भूत  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡मन्तु इ꣡न्द्रम् अ꣡नु वो म꣡दासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्मिन् । हि । वः॒ । सव॑ने । र॒त्न॒ऽधेय॑म् । गम॑न्तु । इन्द्र॑म् । अनु॑ । वः॒ । मदा॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihopa* ← *iha*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 हे **शवसो** **नपातः** बलस्य पुत्रास्तस्य न पातयितारो वा हे **सौधन्वनाः** सुधन्वनः पुत्राः हे **ऋभवः** यूयम् **इहोप** **यात** अस्मिन् तृतीयसवने उपगच्छत । **माप** **भूत** अपगता न भवत । **अस्मिन्** **सवने** **रत्नधेयं** रमणीयधनस्य दातारम् **इन्द्रमनु** अनुसृत्य **वः** युष्मान् **मदासः** मदकराः सोमाः **गमन्तु** गच्छन्तु । अन्विति क्रियया वा संबध्यते । इन्द्रं युष्मांश्चान्वागच्छन्तु इत्यर्थः । **हि** पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ genre M
 Indram anu = indram anusritya or anugamantu, having followed, or may they come after Indra; or, may they come after (you) to Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Travel here, children of strength! Do not keep away, o R̥bhus, sons of  Sudhanvan,  
 for in this pressing the conferring of treasure is yours. Let your  
 exhilarating draughts follow after Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, O ye Sons of Strength, ye Rbhus; stay not afar, ye Children of Sudhanvan.  
      At this libation is your gift of treasure. Let gladdening draughts approach you after Indra's.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet hierher, ihr Kinder der Stärke, ihr Ribhu´s, Söhne des Sudhanvan, bleibet nicht fern, denn in dieser Trankspende ist eure Belohnung. Nach Indra sollen eure Räusche kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommet her, ihr Söhne des Sudhanvan, ihr kraftentsprossnen, seid nicht fern, o Ribhu's; Denn reiche Spende ist bei diesem Mahl euch; dem Indra möge folgen euer Trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда приходите, о отпрыски силы!  
 О Рибху, сыновья Судханвана, не оставайтесь в стороне!  

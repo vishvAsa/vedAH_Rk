@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्रवन्त स꣡मनेव यो꣡षाः  
 कल्याणि꣡यः स्म꣡यमानासो अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ जुषाणो꣡ हर्यति जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 घृ॒तस्य॑ । धाराः॑ । स॒म्ऽइधः॑ । न॒स॒न्त॒ । ताः । जु॒षा॒णः । ह॒र्य॒ति॒ । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -108,20 +108,20 @@ genre D
 **घृतस्य** धाराः अमुम् **अग्निं** **समनेव** समानमनस्काः **योषाः** योषितः पतिमिव **अभि** ”प्रवन्त अभिनमयन्ति । निमग्नं कुर्वन्ति । कीदृश्यस्ताः । **कल्याण्यः** भद्ररूपाः 'स्मयमानासः हसन्त्यः । किंच ताः **समिधः** सम्यग्दीपयित्र्यः सत्यः **नसन्त** व्याप्नुवन्ति । **ताः** एव धाराः **जुषाणः** प्रीयमाणः सेवमानो वा अयं **जातवेदाः** **हर्यति** कामयते । घृतशब्दस्योदकमिति पक्षेऽग्निजातवेदःशब्दाभ्यां वैद्युतोऽग्निरादित्यो वा गृह्यते । तं देवमुदकधारा अभि प्रवन्त नसन्त च । स ताश्च हर्यति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The streams of Ghī incline to **Agni** as devoted wives, auspicious and smiling, to a husband; they feed (the flame) like fuel, and **Jātavedas**, propitiated, accepts them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They float—like lovely young women to (marriage) assemblies— smiling, to Agni.  
 The streams of ghee approach the kindling sticks. (Agni) Jātavedas  delights, taking pleasure in them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The violence of the movement of the ghee-streams in the preceding vs. is abruptly replaced by the placid and benign approach of these same streams in this vs. ### 11
 Renou points out the ring composition of 11d mádhumantaṃ ta ūrmím and 1a ūrmír mádhumān.
@@ -135,23 +135,23 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒भि प्र॑वन्त॒ सम॑नेव॒ योषाः॑ कल्या॒ण्य१॑ः॒ स्मय॑मानासो अ॒ग्निम् ।  
 घृ॒तस्य॒ धाराः॑ स॒मिधो॑ नसन्त॒ ता जु॑षा॒णो ह॑र्यति जा॒तवे॑दाः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie schwebten lächelnd zu Agni hin wie schöne Frauen zu den Festen. Die Ströme des Ghrita berühren die Brennhölzer. Gern begehrt Jatavedas nach ihnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie eilten hin, wie Bräute zur Umarmung, zulächelnd hold dem Agni, sie, die Schönen, Der Butter Tropfen küssten traut die Flammen, und liebend nimmt sie auf der Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они кидаются к Агни, как прекрасные  
 Улыбающиеся женщины на свидания.  

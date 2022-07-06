@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वो भेषजा꣡ मरुतः शु꣡चीनि  
 या꣡ शं꣡तमा वृ꣡षणो या꣡ मयोभु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ शं꣡ च यो꣡श् च रुदर꣡स्य+ वश्मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यानि॑ । मनुः॑ । अवृ॑णीत । पि॒ता । नः॒ । ता । शम् । च॒ । योः । च॒ । रु॒द्रस्य॑ । व॒श्मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
@@ -137,7 +137,7 @@ genre M
 हेमरुतोरुद्रपुत्राः वोयुष्माकंयायानिभेषजाभवजानिअस्मदारोग्यहेतुभूतान्यौषधानिशुचीनिशुद्धा निनिर्मलानिसन्ति हेवृषणः कामानांवर्षितारोमरुतः यायानिचयुष्मदीयानिभेषजानिशन्तमाअतिश- येनसुखकराणि यायानिचभेषजानिमयोभुमयोभूनि मयसःसुखस्यभावयितॄणिनोस्मत्पितामनुः यानि भेषजानियुष्मदीयान्यवृणीतवृतवान् तातानिभेषजानिरुद्रस्यमहादेवस्यसम्बन्धिशञ्चयोश्चयच्छमनी- यानांरोगाणामुपशमनंयावनीयानाम्भयानांयद्यावनं अस्मत्तः पृथक्करणं तदुभयञ्चवश्मिकामये वशका- न्तौ आदादिकः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,41 +148,41 @@ genre M
 Those which our sire Manu selected: yāni **manur** avṛṇītā **pitā** naḥ: **Mahābhārata** legend: reference to the vegetable seeds which Manu was directed to take with him into the vessel in which he was preserved at the time of the **deluge**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your gleaming remedies, o bullish Maruts, which bring best luck, which  are joy itself,  
 which our father Manu chose—those of Rudra’s do I want as luck and  lifetime.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The śáṃ(tama)- here makes a ring with śáṃtama- in 2a.
 
 Note that in Holland & van Nooten Rig Veda edition the voc. vṛṣaṇo is wrongly given as accented (vṛ́ṣaṇo).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of your pure medicines, O potent Martits, those that are wholesomest and healthbestowing,  
      Those which our father Manu hath selected, I crave from. Rudra for our gain and welfare.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Those remedies of yours, the pure, O Maruts, That are most wholesome, mighty ones, and potent, That Manu chose in ancient days, our Father: Those I desire, and Rudra's balm and blessing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure lauteren Arzeneien, ihr Marut, die heilsamsten, ihr Bullen, die wohltuenden, die sich unser Vater Manu erbat, diese und Heil und Segen wünsche ich von Rudra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Arzeneien, die ihr habt, o Marut's, die heilend, rein, erquickend sind, o Stiere, Die unser Vater Manu sich erbeten, die wünsche ich zu Heil und Glück von Rudra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те ваши светлые целебные средства, о Маруты,  
 Те самые благодатные, о быки, те подкрепляющие,  

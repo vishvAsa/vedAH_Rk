@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था꣡यजो होत्र꣡म् अग्ने पृथिव्या꣡  
 य꣡था दिवो꣡ जातवेदश् चिकित्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मनुष्व꣡द् यज्ञ꣡म् प्र꣡ तिरेम꣡म् अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ए॒व । अ॒नेन॑ । ह॒विषा॑ । य॒क्षि॒ । दे॒वान् । म॒नु॒ष्वत् । य॒ज्ञम् । प्र । ति॒र॒ । इ॒मम् । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathāyajo* ← *yathā*
 - \[adverb\]
@@ -124,14 +124,14 @@ genre M
 हे **अग्ने** त्वं **यथा** **पृथिव्याः** यजमानभूतायाः पृथिवीदेवतायाः पूर्वं होता सन् **होत्रं** होमसाधनं हविः **अयजः** अयाजीः **जातवेदः** जातप्रज्ञ हे अग्ने **चिकित्वान्** कर्म विषयज्ञानवान् त्वं **यथा** च **दिवः** यजमानभूताया द्युदेवताया होता भूत्वा हविरयजः । **एव** एवं त्वमस्मिन् कर्मणि होता सन् **अनेन** अस्माभिर्दीयमानेन **हविषा** **देवान** **यक्षि** यज । किंच त्वम् **अद्य** इदानीम् अस्माभिः क्रियमाणम् **इमं** **यज्ञं** **प्र** **तिर** अनुष्ठानसंपूर्त्या पारं गमय । तत्र दृष्टान्तः **मनुष्वत्** इति । यथा मनोः यज्ञमनुष्ठानसंपूर्त्या पारमनैषीस्तद्वदिमं यज्ञं पारं नयेत्यर्थः ॥ यथा । ' प्रकारवचने थाल्' इति थाल् । ‘ लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । अयजः । यजेर्लङि रूपम् । यच्छब्दयोगादनिघातः । होत्रम् । **हु** दानादनयोः'। 'हुयामाश्रुभसिभ्यस्त्रन! इति त्रन्प्रत्ययेनान्तोदात्त: । दिवः । ‘ उडिदम्' इति विभक्तेरुदात्तत्वम् । चिकित्वान् । ‘कित ज्ञाने' इत्यस्य क्वसौ रूपम् । प्रत्ययस्वरः । अनेन । इदंशब्दस्य तृतीयैकवचने 'अनाप्यकः ' ( पा. सू. ७. २. ११२ ) इत्यनादेशः । यक्षि । यजेर्लेटि रूपम् । मनुष्वत् । तत्र तस्येव ' इति वतिः । ‘ नभोऽङ्गिरोमनुषां वत्युपसंख्यानम्' इति भसंज्ञात्वात् रुत्वाभावः । प्रत्ययस्वरः । तिर । तरतेर्लोटि व्यत्ययेन शः । ‘ ऋत इद्धातोः' इति इत्वम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you did offer the burnt-offering, **Agni**, (on behalf of) earth; as you, **Jātavedas**, who are cognizant (of sacred rites, did offer sacrifice on behalf) of heaven; so with this oblation worship the gods, and perfect this rite today (as you did) that of **Manu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you performed the sacrificial role of the Hotar of the Earth, o  Agni, and just as you observantly (performed that) of the Heaven,  
 Jātavedas,  
@@ -139,28 +139,28 @@ so sacrifice to the gods with this offering. Like Manu, carry out this
 sacrifice today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thou, O Agni, skilful Jatavedas, hast sacrificed as Priest of Earth, of Heaven,  
      So with this offering bring the Gods, and prosper this sacrifice today as erst for Manu.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As thou hast performed, O Agni, the Hotri's duty for the Earth, as thou hast done it for Heaven, O Gâtavedas, full of intelligence, in the same way sacrifice with this offering to the gods. Prosper this sacrifice to-day as thou hast done for Manus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du früher das Hotriopfer der Erde, wie du das des Himmels kundig vollzogen hast, o Agni Jatavedas, so opfere mit diesem Opfer den Göttern! Wie für Manu fördere heute dieses Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie, Agni, du der Erde Guss geopfert, und wie des Himmels, weiser Wesenkenner, So opfre auch mit diesem Trank den Göttern, wie Manus fördre heute dieses Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как жертвовал ты в должности хотара земли,  
 Как – (хотара) неба, о Джатаведас искушенный,  

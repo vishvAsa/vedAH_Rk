@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡मं य꣡यिष्ठाः+ शुभा꣡ शो꣡भिष्ठाः  
 श्रिया꣡ स꣡म्मिश्ला ओ꣡जोभिर् उग्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 याम॑म् । येष्ठाः॑ । शु॒भा । शोभि॑ष्ठाः । श्रि॒या । सम्ऽमि॑श्लाः । ओजः॑ऽभिः । उ॒ग्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
@@ -67,19 +67,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 मरुतः **यामं** यातव्यं गन्तव्यं प्रदेशं **येष्ठाः** यातृतमा अतिशयेन गन्तारः **शुभा** अलंकारेण **शोभिष्ठाः** अतिशयेन शोभायुक्ताः **श्रिया** कान्त्या **संमिश्लाः** संगच्छमानाः **ओजोभिः** बलैः **उग्राः** उद्गूर्णाः । एवंभूता भवन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** rapidly repair to the plural ce (of their destination), richly decorated with ornaments, investedwith beauty, terrible by their strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Best driving their drive, most beautiful in beauty, supplied with  splendor, strong with strengths—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A very cleverly constructed vs., nicely fitted to Dvipadā Virāj meter. Each 5-syl. pāda consists of two words, phonologically and etymologically (or pseudoetymologically) related. There are both repetition of morphological figures and variation on them. All four pādas end with a nom. pl. masc. adj.; the first two pādas end with superlative -iṣṭhāḥ, the third with the phonologically similar, but morphologically distinct -iślā(ḥ), the last with something phonologically distinct (ugrā́ḥ).
 
@@ -90,22 +90,22 @@ In neither of the other two occurrences of this stem [V.41.3, 74.8] does the met
 One can also note the reversal of vowels in the root syllables of the word pairs of b and d: u … o versus o … u.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most bright in splendour, flectest on their way, close-knit to glory, strong with varied power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die besten Fahrer der Fahrt, an Pracht die Prächtigsten, mit der Schönheit vereinigt, an Kräften stark.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Lauf die schnellsten, – an Glanz die hellsten, Gepaart mit Schönheit, – an Kraft gewaltig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Лучшие путешественники в путешествии, самые красивые красотой, .  
 Сопровождаемые блеском, грозные (своими) силами...

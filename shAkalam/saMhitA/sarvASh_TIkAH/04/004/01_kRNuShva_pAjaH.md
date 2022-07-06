@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृणुष्व꣡ पा꣡जः प्र꣡सितिं न꣡ पृथ्वीं꣡  
 याहि꣡ रा꣡जेव अ꣡मवाँ इ꣡भेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्तासि वि꣡ध्य रक्ष꣡सस् त꣡पिष्ठैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तृ॒ष्वीम् । अनु॑ । प्रऽसि॑तिम् । द्रू॒णा॒नः । अस्ता॑ । अ॒सि॒ । विध्य॑ । र॒क्षसः॑ । तपि॑ष्ठैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
@@ -140,7 +140,7 @@ genre M
 यद्वा - शत्रुसम्बन्धिनाममोघानां शस्त्राणामस्ता निरसिता निवारयिता त्वमसि । तस्मात्तपिष्ठैस्त्वदीयैरायुधैः तान्विध्येति । अस्यतेस्साधुकारिणि तृन् । रधादित्वादिड्विकल्प्यते । विध्येति तिङः परत्वान्न निहन्यते । रक्षश्शब्दोयमसुनन्तः । रक्षाहेतुत्वादपादानेऽसुन् । क्षरेर्वा हिंसार्थात्कर्तर्यसुन्याद्यन्तविपर्ययः; यथोक्तं 'वर्णागमो वर्णविपर्ययश्च' इति । अयं चार्धर्चादित्वादुभयलिङ्गः । तत्र नपुंसकत्वे 'नब्विषयस्यानिसन्तस्य' इत्याद्युदात्तत्वम् । यथा - 'रक्षसामपहत्यै' 'रक्षांसि जिघांसन्ति' इति । पुल्लिङ्गे अस्य त्वन्तोदात्तत्वं भवति; यथा - 'रक्षसः पाह्यस्मान्' इत्यादौ । एवमस्यापि पुल्लिङ्गत्वादन्तोदात्तत्वम् । 'नब्विषयस्य' इति नियमेन नित्स्वरो बाध्यते, यथा - 'दक्षेरिनन्विधीयत' इति दक्षिणशब्देनान्तोदात्तेन भवितव्यम् । यथा - 'दक्षिणा दिक् । इन्द्रो देवता' इत्यादौ 'दक्षिणस्या दिगाख्यायाम्' इति नियमाद्दिगाख्याया अन्यत्राद्युदात्तत्वम् । यथा 'दक्षिणां प्रतिग्रहीष्यन्' 'आ प्र यच्छ दक्षिणात्' इत्यादिषु । एवमत्रापि द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -157,13 +157,13 @@ Tṛṣvya = quick; santataya gatya, with extended or continuous march;
 Prasiti = a net, a snare
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make your leading edge like a broad onslaught. Drive like an aggressive  king with his entourage,  
 mowing down (enemies) along your thirsting onslaught. You are an  archer: pierce the demons with your hottest (flames).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The repetition of the same word, prásitim, in a and c without any obvious difference in usage or sense (Renou says they are “légèrement” distinct) seems uncharacteristically clumsy for a Vedic poet, which in turn makes it tempting to identify something that does distinguish them. Although he does not tr. them differently (nor does anyone else), Geldner suggests in his n. 1a that prásiti- represents the coalescence of two words, one derived from √sā, si ‘bind’ (‘Fanggarn’, a hunting net) and the other ‘Laut, Ansturm’, related to prásita- (IV.27.4, X.77.5) ‘shot forth’.
 
@@ -174,13 +174,13 @@ Pace Geldner, íbha- means ‘entourage, retinue’ not ‘elephant’ in Vedic,
 Pāda c seems to go more naturally with b than with d, as most take it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PUT forth like a wide-spreading net thy vigour; go like a mighty King with his attendants.  
      Thou, following thy swift net, shootest arrows: transfix the fiends with darts that burn most fiercely.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Produce thy stream of flames like a broad onslaught. Go forth impetuous like a king with his elephant 1; …  2 after thy greedy onslaught, thou art an archer; shoot the sorcerers with thy hottest (arrows).
 </details>
@@ -193,17 +193,17 @@ Hurling thy swift net thou shootest arrows;
 Pierce the Raksases with thy keenest (darts).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach deine Gestalt wie eine breite Wurfschlinge, zieh aus wie ein mächtiger König auf dem Elefanten! Deiner gierigen Wurfschlinge nachlaufend - du bist der Schütze - triff die Unholde mit deinen glühendsten Pfeilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit deinen Mannen; Die gier'ge Heerschar schnell verfolgend schiesse, mit schärfster Glut durchbohre die Gespenster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай пламя свое словно широкая петля!  
 Отправляйся, словно неистовый царь со свитой!  

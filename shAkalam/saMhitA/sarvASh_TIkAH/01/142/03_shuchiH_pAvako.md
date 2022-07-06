@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिः पवाको꣡+ अ꣡द्भुतो  
 म꣡ध्वा यज्ञ꣡म् मिमिक्षति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवो꣡ देवे꣡षु यज्ञि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नरा॒शंसः॑ । त्रिः । आ । दि॒वः । दे॒वः । दे॒वेषु॑ । य॒ज्ञियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -96,7 +96,7 @@ genre M
 **देवेषु** मध्ये **शुचिः** शुद्धो दीप्तो वा **पावकः** अन्नस्य अपूतस्य शोधयिता **अद्भुतः** अभूत इव अद्यक्षणे भविता । आश्चर्यभूत इत्यर्थः । **देवः** द्योतनशीलः **यज्ञियः** यज्ञसंपादनार्हः ईदृशः **नराशंसः** नरैः कर्मनेतृभिर्ऋत्विग्भिः शंसनीयोऽग्निः **दिवः** द्युलोकादागत्य **मध्वा** मधुरेण रसेन **यज्ञम्** अस्मदीयं **त्रिः** **आ** **मिमिक्षति** त्रिवारं समन्तात् सिञ्चति स्वदयतीत्यर्थः । यद्वा । मधुरेण फलेन त्रिः आ मिमिक्षति योजयतीत्यर्थः । ‘ नराशंसो यज्ञः' इति कात्थक्यपक्षे यज्ञाभिमानी देवो द्योतमानो द्युलोकादागत्य अनुष्ठीयमानं यज्ञं त्रिः आ मिमिक्षति । अयं नराशंसो देवस्त्रिरा ॥ उपसर्गवशात् योग्यक्रियाध्याहारः ॥ त्रिवारमागच्छति । त्रिः आहरति वा फलम् । अवशिष्टं पूर्ववन्नेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,34 +107,34 @@ genre M
 Narāśaṃsa is the deity presiding over the sacrifice: yajñābhimāni **devaḥ**; thrice mixes: he comes thrice, or he thrice bestows rewards, perhaps an allusion to the three daily sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gleaming, pure, and unerring, Narāśaṃsa mixes the sacrifice with  honey  
 three times a day—the god devoted to the sacrifice among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He wondrous, sanctifying, bright, sprinkles the sacrifice with mead,  
      Thrice, Narasamsa from the heavens, a God mid Gods adorable.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The brilliant, purifying, wonderful Narâsamsa 1 mixes the sacrifice with honey three times a day, the god worthy of worship among the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der reine, lautere, unerforschliche Narasamsa würzt das Opfer mit Süßigkeit, dreimal des Tags, der opferwürdige Gott unter den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der helle Flammer, wunderbar, besprengt mit Süss den Opfertrank, Der Männerpreis dreimal am Tag, der Gott bei Göttern hochgeehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистый, светлый, удивительный  
 Нарашанса  

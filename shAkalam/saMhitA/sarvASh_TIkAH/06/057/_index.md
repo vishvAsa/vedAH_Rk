@@ -8,7 +8,7 @@ title = "+057"
 ‘ इन्द्रा नु पूषणा ' इति षड़ृचमष्टमं सूक्तं भरद्वाजस्यार्षं गायत्रमैन्द्रापौष्णम् । अनुक्रान्तं च -- ‘ इन्द्रा न्वैन्द्रं च ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 57 (498)  
 Indra and Pūsaṇ  
@@ -18,7 +18,7 @@ Indra and Pūṣan are invoked together at the very beginning of this hymn, in a
 In the translation we have retained as much as possible the order of the ele ments, even though this violates normal English patterns, because the balance  between the two gods and their qualities is conveyed by their careful stationing in  the verse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan and Indra
 </details>

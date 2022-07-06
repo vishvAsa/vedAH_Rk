@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ कना꣡याः सखियं꣡ न꣡वग्वा  
 ऋतं꣡ व꣡दन्त ऋत꣡युक्तिम् अग्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अदक्षिणा꣡सो अ꣡च्युता दुदुक्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द्वि॒ऽबर्ह॑सः । ये । उप॑ । गो॒पम् । आ । अगुः॑ । अ॒द॒क्षि॒णासः॑ । अच्यु॑ता । दु॒धु॒क्ष॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 **नवग्वाः** अङ्गिरसः । गवामयनाख्यं सत्रमनुतिष्ठतामङ्गिरसां मध्ये ये नवसु मासेषु लब्धगावः सन्त उत्थितास्ते नवग्वाः । ते **ऋतं** **वदन्तः** **मक्षु** शीघ्रं **कनायाः** कमनीयायाः स्तुतेर्नाभानेदिष्ठप्रेरितायाः सकाशात् **ऋतयुक्तिम्** उक्तयोगपरिसमाप्तिम् **अग्मन्** प्राप्ताः । यद्वा । ऋतयुक्तिं यज्ञयोगोपेतमृतं शब्दं स्तुतिं वदन्तोऽङ्गिरसः कनायाः पृश्न्याः सख्यमग्मन्निति योजना । **द्विबर्हसः** द्वयोः स्थानयोर्द्यावापृथिव्योः परिवृढाः **ये** अङ्गिरसः **गोपं** गोपायितारं नाभानेदिष्ठमिन्द्रं वा उप **आगुः** उपगताः ते **अदक्षिणासः** दक्षिणारहिताः । अदक्षिणानि सत्राणीत्याहुः ' इति हि वचनं ' ये यजमानास्त ऋत्विजः' इति । ते च **अच्युता** उदकान्यक्षीणानि फलानि वा दुधुक्षन् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,30 +129,30 @@ genre M
 The maiden: Pṛs;'ni;kamanīyayaḥ stuteḥ = **kanyaḥ**; the Aṅgirasas attained the completion of their ceremony (by means) of thedesirable praise (taught them by Nābhānediṣṭha)? Had no donation: dakṣiṇāsaḥ; the Aṅgirasas beingboth **yajamānas** and priests, there could be no **dakṣiṇā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right away the Navagvas came to the fellowship of the maiden  [=Dawn] and, speaking the truth, to the yoking of truth.  
 Those who approached the protector [=Vala?] of doubly exalted  (Dawn?), though they lacked the Gift-Cow, strove to milk the  
 immovable ones [=Vala rocks?].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Uttering praise to suit the rite Navagvas came speedily to win the damsel's friendship.  
      They who approached the twice-strong stable's keeper, meedless would milk the rocks that naught had shaken.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alsbald kamen die Navagva´s zur Freundschaft der Jungfrau, die die Wahrheit Redenden zum Bunde mit der Wahrheit. Die zu dem Hüter des doppeltstarken Felsens gekommen waren, wünschten, da sie keinen Opferlohn hatten, die unerschütterten Festen auszumelken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell kamen die Neuner zu des Mädchens Genossenschaft, das Rechte sprechend zu der rechten Verbindung (?), welche mit zwiefacher Stärke begabt zu dem Behüter (?) kamen; ohne Geschenke zu geben erlangten sie unvergängliche Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

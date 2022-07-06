@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ मातॄ꣡स् त्री꣡न् पितॄ꣡न् बि꣡भ्रद् ए꣡क  
 ऊर्ध्व꣡स् तस्थौ ने꣡म् अ꣡व ग्लापयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्ववि꣡दं वा꣡चम् अ꣡विश्वमिन्वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒न्त्रय॑न्ते । दि॒वः । अ॒मुष्य॑ । पृ॒ष्ठे । वि॒श्व॒ऽविद॑म् । वाच॑म् । अवि॑श्वऽमिन्वाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
@@ -134,7 +134,7 @@ popular
 **एकः** प्रधानभूतः असहायो वा पुत्रस्थानीयः आदित्यः संवत्सराख्यः कालो वा **तिस्रः** **मातॄः** सस्यवृष्ट्याद्युत्पादयित्रीः । क्षित्यादिलोकत्रयमित्यर्थः । तथा **त्रीन्** **पितॄन** जगतां पालयितॄन् लोकत्रयाभिमानिनः अग्निवायुसूर्याख्यान् **बिभ्रत्** सन् **ऊर्ध्वः** **तस्थौ** उन्नतः अत्यन्तदीर्घस्तिष्ठति भूतभविष्यदाद्यात्मना । सूर्यपक्षे सर्वेभ्य उन्नतः। **ईम्** एनं **न** **अव** **ग्लपयन्ति** ग्लानिं नैव कुर्वन्ति । न हि कालः आदित्यो वा अन्येन पराभूयते । **दिवः** **पृष्ठे** द्युलोकस्य उपरि अन्तरिक्षे **मन्त्रयन्ते** गुप्तं परस्परं भाषन्ते देवाः । किम् । **विश्वविदं** विश्ववेदनसमर्थां विश्वैर्वेदनीयां वा **अविश्वमिन्वाम्** असर्वव्यापिनीं **वाचं** गर्जितलक्षणाम् **अमुष्य** आदित्यस्य संबन्धिनीं मन्त्रयन्ते इत्यर्थः ॥ ॥ १५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ Three mothers and three fathers: the **three worlds**, earth, sky, heaven; and t
 Speech = thunder: vācam garjitalakṣaṇam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Carrying three mothers [=earths] and three fathers [=heavens] alone, he  [=the Sun] stands upright: they do not cause him to weary.  
 On the back of yonder heaven they [=the gods] recite the speech that  knows everything but does not inspire everyone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing three Mothers and three Fathers, single he stood erect: they never make him weary.  
      There on the pitch of heaven they speak together in speech all-knowing but not all-impelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Mütter, drei Väter trägt der Eine und steht doch aufrecht da; nicht ermatten sie ihn. Auf dem Rücken jenes Himmels ersinnen sie die allwissende Rede, die nicht einen jeden bewegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er stand allein aufrecht tragend die drei Mütter und die drei Väter [die drei Erden und die drei Himmel], nicht ermüden sie ihn; auf dem Rücken jenes Himmels sprechen sie den alles Wissen enthaltenden, nicht überall hindringenden Spruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трех матерей, трех отцов несет один,  
 (А) прямо стоит: они не утомляют его.  

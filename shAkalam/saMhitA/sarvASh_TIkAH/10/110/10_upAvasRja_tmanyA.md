@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपा꣡वसृज त्म꣡निया समञ्ज꣡न्  
 देवा꣡नाम् पा꣡थ ऋतुथा꣡ हवीं꣡षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्व꣡दन्तु हव्य꣡म् म꣡धुना घृते꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वन॒स्पतिः॑ । श॒मि॒ता । दे॒वः । अ॒ग्निः । स्वद॑न्तु । ह॒व्यम् । मधु॑ना । घृ॒तेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upāvasṛja* ← *upa*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 हे वनस्पते यूप **त्मन्या** । आत्मन्शब्दस्य तृतीयैकवचने यादेशः । मन्त्रेष्वाङयादेरात्मनः इत्याकारलोपः ॥ आत्मनैव **ऋतुथा** ऋतौ ऋतौ प्राप्ते काले **देवानाम्** अर्थाय **पाथः** पशुलक्षणमन्नमन्यानि च **हवींषि** **समञ्जन्** सम्यग्व्यक्तीकुर्वन् **उपावसृज** उपागम्य प्रयच्छ ॥  ‘ गतिर्गतौ ' ( पा. सू. ८. १. ७० ) इति गतेर्निघातः ॥ किंच **वनस्पतिः** योऽयं यूपः **शमिता** एतन्नामकः **देवः** यद्वा शामित्रः **अग्निः** देवो दीप्यमान आहवनीयाख्योऽग्निश्चैते त्रयः **मधुना** मधुरेण **घृतेन** । यद्वा मधुनोदकेन प्रोक्षणोपनयनादिगतेन घृतेन च । **हव्यं** हवनयोग्यं **स्वदन्तु** स्वादूकुर्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,30 +122,30 @@ genre M
 Śamitā: immolator of the victim. The post,the immolator and the fire are here deified as the chief instrumental uments or agents of the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Send the oblations downward to the fold of the gods at the proper  season, having anointed them by yourself.  
 Let the Lord of the Forest, the Butcher, and god Agni sweeten the  
 oblation with honey and ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send to our offerings which thyself thou balmest the Companies of Gods in ordered season.  
      Agni, Vanaspati the Immolator sweeten our offered gift with meath and butter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entlasse freiwillig, sie salbend, pünktlich die Opferspenden in die Obhut der Götter! Vanaspati, der göttliche Zurichter Agni, sollen die Opferspeise mit Honig und Schmalz schmackhaft machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach deiner Art ergiess die Opfertränke der Ordnung nach der Götter Stätte salbend, Der Pfosten und Gott Agni mögen wirkend mit süssem Fett den Opfertrank verschönen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отпусти по своему почину (жертвенное животное)  
 Под покровительством богов, умащая жертвоприношения в положенное время!  

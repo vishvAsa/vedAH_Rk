@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् ईशिषे सुता꣡ना᳐म्  
 इ꣡न्द्र त्व꣡म् अ꣡सुताना᳐म्  
 तुवं꣡ रा꣡जा ज꣡नाना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वम् । राजा॑ । जना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **त्वं** **सुतानाम्** अभिषुतानां सोमानाम् **ईशिषे** ईश्वरो भवसि । तथा **त्वम्** **असुतानां** वल्ल्याकारे वर्तमानानां चेशिषे । **त्वं** जनानां सर्वेषां **राजा** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, are the lord of the **Soma** effused or not effused, you are the king of all men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are master of the pressed soma-drops, and you, Indra, of the  unpressed ones.  
 You are the king of the peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Lord of Soma pressed, Soma impressed is also thine.  
      Thou art the Sovran of the folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Herr über die gepreßten, über die noch ungepreßten Tränke, Indra, du bist der König der Völker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist gepresster Soma's Herr und, Indra, ungepresster auch; Du bist der Menschen Oberherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты владеешь выжатыми (соками сомы),  
 Ты, о Индра, (также еще и) не выжатыми.  

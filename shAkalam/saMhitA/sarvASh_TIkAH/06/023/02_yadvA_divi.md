@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा दिवि꣡ पा꣡रिये सु꣡ष्विम् इन्द्र  
 वृत्रह꣡त्ये अ꣡वसि शू꣡रसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रन्धयः श꣡र्धत इन्द्र द꣡स्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । दक्ष॑स्य । बि॒भ्युषः॑ । अबि॑भ्यत् । अर॑न्धयः । शर्ध॑तः । इ॒न्द्र॒ । दस्यू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे **इन्द्र** त्वं **दिवि** द्युलोके **शूरसातौ** शूरैः भटैः संभजनीये **वृत्रहत्ये** युद्धे च **पार्ये** प्राप्तव्ये सति **सुष्विम्** अभिषोतारं यजमानम् **अवसि** **यद्वा** रक्षसीति यच्च । वेति समुच्चये । **दक्षस्थ** यज्ञादिषु समर्थस्य **बिभ्युषः** शत्रुभ्यो बिभ्यतो जनस्य **शर्धतः** संग्रामे उत्सहमानान् **दस्यून्** उपक्षपयितॄनि शत्रून् हे **इन्द्र** त्वम् **अबिभ्यत्** भीतिरहितः सन् **अरन्धयः**  **यद्वा** वशीकरोषीति यच्च तत्सर्वं सोमेऽभिषुते इति पूर्वेण संबन्धः । तथा चोक्तं-- यद्बाह्वोर्धारयन्वज्रं हरिभ्यां यासि वृत्रहन् । यच्च रक्षसि संग्रामे नॄन् सोममभिषुण्वतः ॥ यच्च कर्मसु दक्षस्य यजमानस्य येऽरयः । वशीकरोषि तांस्तस्मै बिभ्यते भीतिवर्जितः ॥ तत्सोमेऽभिषुते स्तोत्रशस्त्रयोश्च प्रवृत्तयोः । इति द्वृचोऽयमेकार्थः सुत इत्त्वमिति द्वयम्' इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 There is no verb in the text; 'come' is assumed from the previous ṛca: so, the reading is: when the soma is poured forth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or when on the decisive day, Indra, you help the soma-presser in the  smiting of obstacles [/Vr̥tra] and at the contest of champions,  
 or when, (yourself) being unafraid, as their skill became fearful, you  subdued the vaunting Dasyus, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gen. phrase dákṣasya bibhyúṣaḥ is troublesome, as it is not clear who or what it refers to or what its syntactic function is. Oldenberg interpr. it as a “dativischer Gen.,” though he gives no tr. But Geldner seems to take it as a gen. absolute: “während der Entschlossene Furcht hatte.” In either case dákṣa- seems to be taken as an adj.
 
@@ -148,23 +148,23 @@ tr. represents an absolute interpr.; the gen. of quality might be a better analy
 He takes this supposed acc. pl. as parallel to śárdhataḥ, which he separates from dásyūn and takes as another qualifier of those aided by Indra. His full tr. is “Oder wenn du für den Geschickten die sich fürchtenden furchtlos unterwarfst für den Kühnen, Indra, die Dasyus.” The misparsing of dákṣasya excludes this tr.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or when on that decisive day thou holpest the presser of the juice at Vrtra's slaughter;  
      Or when thou, while the strong one feared, undaunted, gavest to death, Indra, the daring Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder ob du am entscheidenden Tage dem Somabereiter beistehst, Indra, in dem Feindekampf um den Heldenpreis, oder als du selbst furchtlos, während der Entschlossene Furcht hatte, die übermächtigen Dasyu´s unterwarfst, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wenn dem Presser am Entscheidungstage, in Feindesschlacht beim Kampf du, Indra, beistehst, Wenn ohne Furcht du unterwarfst, o Indra, die frechen Feinde des erschreckten Dakscha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или же когда в решающий день (человеку), выжимающему сому, о Индра,  
 Ты помогаешь в борьбе с врагами, в приобретении героев;  

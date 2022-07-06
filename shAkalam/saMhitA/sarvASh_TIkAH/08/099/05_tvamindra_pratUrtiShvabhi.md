@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्र प्र꣡तूर्तिषु  
 अभि꣡ वि꣡श्वा असि स्पृ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तुवं꣡ तूर्य तरुष्यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒श॒स्ति॒ऽहा । ज॒नि॒ता । वि॒श्व॒ऽतूः । अ॒सि॒ । त्वम् । तू॒र्य॒ । त॒रु॒ष्य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -104,21 +104,21 @@ genre M
 हे इन्द्र **त्वं** **प्रतूर्तिषु** संग्रामेषु **विश्वाः** सर्वाः **स्पृधः** युद्धकारिणीः शत्रुसेनाः **अभि** **असि** अभिभवसि । किंच हे **तूर्य** शत्रूणां बाधकेन्द्र **त्वम्** **अशस्तिहा** दैव्यानामशस्तीनां हन्ता **असि** । **जनिता** असुरेभ्योऽशस्तीनां जनयिता चासि । **विश्वतूः** सर्वस्य शत्रुवर्गस्य हिंसिता चासि । **तरुष्यतः** बाधकांश्च बाधमानोऽसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, you conquer in battles all opposing hosts; O opposer who beat down those who would opposeyou are the smiter of the wicked, the bringer (of evil to your enemies), and the destroyer of all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, at the battle-charges you dominate all contenders.  
 You are the smiter of maledictions, the begetter, the all-overcomer.  
 Overcome those who seek to overcome.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme abhí √bhū ‘dominate’, in play in the previous two hymns (VIII.97.9c, 10a, 98.2a, 5ab), is matched by synonymous abhí √as here. See also
 
@@ -133,23 +133,23 @@ This pragātha is tightly bound lexically. Note first víśvāḥ spṛ́dhaḥ 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou in thy battles, Indra, art subduer of all hostile bands.  
      Father art thou, aIl-conquering, cancelling the curse, thou victor of the vanquisher.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist bei den Vorstößen allen Gegnern überlegen. Du bist es, der die Hohnreden niederschlägt und hervorruft, der Allüberholende. Überhole du die Wettstreiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Schlachten überwindest du, o Indra, aller Feinde Schar, Den Bösen schlagend, allbesiegend, Vater du, die kämpfenden bezwinge nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, Индра, в атаках  
 Превосходишь всех противников.  

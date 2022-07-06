@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यकर्णम् मणिग्रीवम् अ꣡र्णस्  
 त꣡न् नो वि꣡श्वे वरिवस्यन्तु देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उस्रा꣡श् चाकन्तु उभ꣡येषु अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्यः । गिरः॑ । स॒द्यः । आ । ज॒ग्मुषीः॑ । आ । उ॒स्राः । चा॒क॒न्तु॒ । उ॒भये॑षु । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyakarṇam* ← *hiraṇya*
 - \[noun\], neuter
@@ -127,7 +127,7 @@ genre M
 **हिरण्यकर्णं** हिरण्यविकारकुण्डलाद्युपेतकर्णं **मणिग्रीवं** रत्नाद्युपेतकण्ठम् । एतद्द्वयं सर्वावयवस्याप्युपलक्षणम् । एवं सर्वाङ्गाभरणयुक्तम् **अर्णः** अरणीयं रूपं तद्वन्तं पुत्रादिकमित्यर्थः । उक्तलक्षणमस्मदीयं रूपं वा **नः** अस्माकं **विश्वे** सर्वे **देवाः** **वरिवस्यन्तु** परिचरन्तु प्रयच्छन्त्वित्यर्थः । अर्यः अरणीयो विश्वेषां देवानां संघः **जग्मुषीः** स्तोतुर्मुखान्निर्गच्छन्तीः **गिरः** स्तुतीः **उस्रा:**। विकारे प्रकृतिशब्दः । क्षीराज्यादीनि हवींषि च **सद्यः** अस्मदागमनानन्तरमेव **चाकन्तु** कामयन्ताम् ॥ छान्दसः शपः श्लुः परस्मैपदं च । यद्वा । यङ्लुकि नुगभावः ॥ आ चाकन्त्विति वा योज्यम् । पर्याप्तं कामयन्तामित्यर्थः । केष्विति तदुच्यते । **अस्मे** अस्माकं संबन्धिषु **उभयेषु** स्तोतृषु यष्टृषु च । यद्वा । अस्माकमुभयेषु ऐहिकामुष्मिकविषयेषु उभयविधेषु फलेषु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 **Arṇas** = rūpe, form; i.e., a son; may they be plural ased with both = may they reward us in both worlds; the text has only ubhayeṣu, in both
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The “flood” with golden ears and bejeweled necks—let all the gods  make it wide for us.  
 Let the ruddy ones [=Dawns?], coming here in an instant to the songs  of the stranger, find pleasure in both of us [=singers and patrons].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As is recognized by all, the flood (árṇaḥ) is the herd of gift cows, whose constant turbulent motion must have suggested the metaphor. Accentless maṇigrīvam Oldenberg considers a “monstrosity” due to faulty transmission. It must be a bahuvrīhi like immediately preceding híraṇyakarṇam, and I now wonder if the phrase híraṇyakarṇam maṇigrīvam actually represents a dvandva consisting of two bahuvrīhis (‘possessing golden ears and ornamented necks’), which could account for the single accent. The geminate m across the compound boundary (-karṇam maṇi-) might have been redactionally introduced from *-karṇa-maṇi-). The first members of the two compounds híraṇya- and maṇi- are the constituents of the phrase híraṇyena maṇínā in I.33.8, on which see my extensive discussion in “A Golden Amulet in Vedic and Avestan” (Ged. H. P. Schmidt).
 
@@ -155,23 +155,23 @@ The reason for the doubled ā́in c is not clear to me.
 cākantu is taken, plausibly, as haplologized from *cākanantu. See, most recently, Kümmel (131).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sea and all the Deities shall give us him with the golden ear and neck bejewelled.  
      Dawns, hasting to the praises of the pious, be pleased with us, both offerers and singers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wogende Masse, die Gold an den Ohren und Juwelen am Hals trägt, die sollen uns alle Götter gönnen. Die Morgenröten sollen alsbald zu dem Lobe des hohen Herrn erscheinend an beiden teilen von uns ihre Freude haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wallende Schar (?) mit Goldschmuck am Ohr und Perlen am Halse, die mögen uns alle Götter segnen; die Morgenröthen, herkommend zu den Liedern des frommen, mögen Gefallen haben an uns, den Sängern und den Spendern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) поток (скота) с золотом в ушах, драгоценными камнями на шее.  
 Да создают нам Все-Боги для него широкий простор!  

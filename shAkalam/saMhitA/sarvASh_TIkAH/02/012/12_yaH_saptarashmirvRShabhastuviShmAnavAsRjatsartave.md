@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सप्त꣡रश्मिर् वृषभ꣡स् तु꣡विष्मान्  
 अवा꣡सृजत् स꣡र्तवे सप्त꣡ सि꣡न्धून्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡म् आरो꣡हन्तं स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । रौ॒हि॒णम् । अस्फु॑रत् । वज्र॑ऽबाहुः । द्याम् । आ॒ऽरोह॑न्तम् । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 यःसप्तरश्मिः सप्तसङ्ख्याकाः पर्जन्यारश्मयोयस्य तेचरश्मयः वराहवःस्वतपसोविद्युन्महसोधूपयः शापयोगृहमेधाश्चेत्येते येचमेशिमिविद्विषः पर्जन्याः सप्तपृथिवीमभिवर्षन्तिवृष्टिभिरितितैत्तिरीयार- ण्यकेह्याम्नाताः । वृषभोवर्षकः तुविष्मान् वृद्धिमान्बलवान्वा सप्त सप्रणस्वभावाः सिन्धूनपः सर्तवे- सरणायअवासृजत् अवसृष्टवान् यद्वा गङ्गाद्याः सप्तमुख्यानदीरवासृजत् यश्चवज्रबाहुः सन् द्यान्दिव- मारोहन्तंरौहिणमसुरंअस्फुरत् जघान स्फुरस्फुरणेतुदादिः ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,33 +132,33 @@ genre M
 The seven-rayed: the seven rays, raśmayaḥ = seven forms of **Parjanya** (**Taittirīya** **Āraṇyaka** 1.9.4-5), or Indra, as the rain-cloud; or seven kinds of rain-clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mighty seven-reined bull who let loose the seven rivers to flow, who, with his mace in his arms, kicked away the son of Rohiṇī as he  was ascending to heaven – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who with seven guiding reins, the Bull, the Mighty, set free the Seven great Floods to flow at pleasure;  
      Who, thunder-armed, rent Rauhina in pieces when scaling heaven, He, O ye men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who with his seven rays, the bull, the mighty, Let loose the seven streams to flow in torrents; Who, bolt in arm, spurned Rauhiṇa, the demon, On scaling heaven bent: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ein gewaltiger Stier, der sieben Zügel braucht, die sieben Ströme losließ zum Laufen, der den himmelersteigenden Rauhina wegstieß mit der Keule im Arm - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mächt'ge Stier, er der mit sieben Zügeln die sieben Ströme frei liess, dass sie rannen, Der, blitzbewehrt, den Himmelsstürmer Rauhin zu Boden warf, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто – сильный бык с семью поводьями –  
 Выпустил семь рек для бега,  

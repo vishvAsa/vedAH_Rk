@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ण इन्दो महे꣡ र꣡ण  
 आ꣡पो अर्षन्ति सि꣡न्धवः  
 य꣡द् गो꣡भिर् वासयिष्य꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । गोभिः॑ । वा॒स॒यि॒ष्यसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** क्षरन् सोम **नः** अस्माकं स्वभूताय **रणे** रणाय । रणन्ति स्तुवन्ति देवानत्रेति रणो यज्ञः । अधिकरणे अप् । ङेर्यः' (पा. सू. ७.१.१३) इति न भवति सर्वविधीनां छन्दसि विकल्पितत्वात् । **महे** महते रणाय यज्ञाय तदर्थं **सिन्धवः** स्यन्दमानाः **आपः** वसतीवर्याख्याः सोमसेकार्थं तदा **अर्षन्ति** प्रगच्छन्ति । **यत्** यदा त्वं **गोभिः** गव्यैर्दधिक्षीरादिभिः **वासयिष्यसे** आच्छाद्यसे मिश्रितो भवसि तदापो गच्छन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, the flowing waters hasten to our great sacrifices when you are mixed with the curds and milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For our great joy the waters, the rivers rush forth, o drop,  
 when you will clothe yourself with cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pādas bc and esp. the remarkable causative future reflexive form vāsayiṣyase ‘you will cause yourself to be clothed’, see disc. in the comm. to the parallel passage IX.2.4.
 
@@ -112,23 +112,23 @@ No signs of cohesion.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, to our great delight the running waters flow to us,  
      When thou wilt robe thyself in milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Saft, uns zu großer Freude fließen die Flußwasser hervor, wenn du in Kuhmilch gehüllt werden sollst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilt voran der Ströme Flut, o Indu, uns zu hoher Lust, Wenn du mit Milch dich kleiden willst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प क्रमस्व आ꣡ भर  
 धृषता꣡ धृष्णो ज꣡नानाम्  
 अ꣡दाशूष्टरस्य वे꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अदा॑शूःऽतरस्य । वेदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे इन्द्र त्वम् **उप** **क्रमस्व** धनं प्रत्युपगच्छ । प्रवृत्तो भव वा दातुम् । हे **धृष्णो** धर्षक शत्रूणां **धृषता** धृष्टेन चेतसा युक्तः सन् **आ** **भर** आहर च । कस्य धनमाहरेति उच्यते । **जनानां** मध्ये **अदाशूष्टरस्य** अत्यन्तमदातृतमस्य **वेदः** धनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come here, and bring us, daring one, with your resolute (mind), the wealth of him who is pre-eminentlya niggard among men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hop to! Bring here boldly, bold one, for the peoples  
 the possessions of the very impious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come nigh, O Bold One, boldly bring hither the riches of the churl  
      Who giveth least of all the folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh ans Werk, bring uns kühnen Sinnes, du Kühner, die Habe des, der unter den Leuten am wenigsten spendet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schreite hin und bringe kecklich, kühner, her den Schatz des Mannes, Welcher weniger dir huldigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

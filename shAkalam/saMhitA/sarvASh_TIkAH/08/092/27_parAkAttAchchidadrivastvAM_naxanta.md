@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पराका꣡त्ताच् चिद् अद्रिवस्  
 तुवां꣡ नक्षन्त नो गि꣡रः  
 अ꣡रं गमाम ते वय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अर॑म् । ग॒मा॒म॒ । ते॒ । व॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parākāttāc* ← *parākāttāt*
 - \[adverb\]
@@ -85,19 +85,19 @@ genre M
 हे **अद्रिवः** वज्रवन्निन्द्र **नः** अस्मदीयाः **गिरः** इतो निर्गताः स्तुतयः **पराकात्तात्** । **चित्** अप्यर्थः । अतिदूरादपि **त्वां** **नक्षन्त** व्याप्नुवन्तु । किमुत समीपात्त्वामश्नुवतामिति । नक्षतेर्व्याप्तिकर्मणो नशतेर्वा' लेटि सिपि रूपम् । एवं सति स्तोतारः **वयं** **ते** त्वदीयं धनम् **अरम्** अलं पर्याप्तं **गमाम** त्वत्तो गच्छाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our praises reach you, thunderer, even from afar; may we obtain your (wealth) abundantly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even from a distance our hymns reach you, possessor of the stone. Let us go fittingly to you.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details open><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even from far away our songs reach thee, O Caster of the Stone:  
      May we come very close to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch von ferne sollen dich, du Herr des Preßsteins, unsere Lobreden erreichen; wir möchten dir recht kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch aus der Fern' o Schleuderer erreich' dich unser Lieder Schall; Wir mögen kommen dir zu pass.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

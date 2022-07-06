@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्रे सि꣡न्धूनाम् प꣡वमानो अर्षति  
 अ꣡ग्रे वाचो꣡ अग्रियो꣡ गो꣡षु गछति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुआयुधः꣡ सोतृ꣡भिः पूयते वृ꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अग्रे॑ । वाज॑स्य । भ॒ज॒ते॒ । म॒हा॒ऽध॒नम् । सु॒ऽआ॒यु॒धः । सो॒तृऽभिः॑ । पू॒य॒ते॒ । वृषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agre* ← *agra*
 - \[noun\], locative, singular, neuter
@@ -131,20 +131,20 @@ genre M
 **यः** सोमः **पवमानः** **सिन्धूनां** स्यन्दमानानामुदकानाम् **अग्रे** **अर्षति** गच्छति । तथा **अग्रियः** अग्रार्हः श्रेष्ठः **अग्रे** **वाचः** माध्यमिकाया अग्रे अर्षति। तथा **गोषु** रश्मिषु **गच्छति** । तथा **वाजस्य** अन्नस्य बलस्य वा लाभाय **महाधनं** संग्रामं **भजते** । सः **स्वायुधः** **वृषा** वर्षकः सोमः **सोतृभिः** अभिषवकर्तृभिः **पूयते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the front of the waters rushes the filtered (**Soma**), foremost (he rushes) in the front of the voice, he goes among the rays; in the front he engages in battle (to win) food; well-armed, the showerer (of benefits), he is purified by the offerers of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the forefront of the rivers, purifying himself he rushes; at the  forefront of speech he goes foremost among the cows.  
 At the forefront of the prize(-contest) he takes great stakes as his share.  The bull of good weapons is purified by the pressers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is structured by three pāda-initial forms of ágre + GEN, reinforced by agriyáḥ in b.
 
@@ -158,23 +158,23 @@ Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In forefront of the rivers Pavamana speeds, in forefront of the hymn, foremost among the kine.  
      He shares the mighty booty in the van of war: the well-armed Steer is purified by worshippers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An der Ströme Spitze rinnt Pavamana, an der Spitze der Rede geht er als Erster zu den Kühen. An der Spitze des Sieges erlangt er den großen Preis; er, der gute Waffen führt, wird von den Pressern geläutert, der Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voran den Strömen fliesset hell der rieselnde, voran dem Liede geht den Kühen er voraus, Voran der Beute theilt er grosse Schätze aus, von Pressern wird der schönbewehrte Held geklärt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

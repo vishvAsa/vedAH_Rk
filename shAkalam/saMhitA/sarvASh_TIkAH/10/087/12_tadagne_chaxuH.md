@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अग्ने च꣡क्षुः प्र꣡ति धेहि रेभे꣡  
 शफारु꣡जं ये꣡न प꣡श्यसि यातुधा꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्यं꣡ धू꣡र्वन्तम् अचि꣡तं नि꣡ ओष
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒थ॒र्व॒ऽवत् । ज्योति॑षा । दैव्ये॑न । स॒त्यम् । धूर्व॑न्तम् । अ॒चित॑म् । नि । ओ॒ष॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -121,7 +121,7 @@ popular
 हे **अग्ने** त्वं **रेभे** शब्दायमाने राक्षसे **तत्** **चक्षुः** तेजः **प्रति** **धेहि** प्रक्षिप **येन** चक्षुषा **शफारुजं** शफाभ्यामारुजन्तं शफसदृशैर्नखैः साधूनामाभिमुख्येन भञ्जकं **यातुधानं** राक्षसं **पश्यसि** । किंच **सत्यं** **धूर्वन्तम्** असत्येन हिंसन्तम् **अचितम्** अज्ञानं **दैव्येन** दिवि भवेन **ज्योतिषा** तेजसा **अथर्ववत्** **न्योष** नितरां दह । दध्यङ्ङथर्वा रक्षसां हन्तेति प्रागुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ popular
 With his hoof: with nails like hoofs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, in the hoarse-voiced (singer) fix that eye with which you see the  hoof-breaking sorcerer.  
 Like an Atharvan fire-priest, with your divine light burn down the  unobservant (sorcerer) who injures the true.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lead thou the worshipper that eye, O Agni, wherewith thou lookest on the hoof-armed demon.  
      With light celestial in Atharvan's manner burn up the foot who ruins truth with falsehood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Auge, o Agni, setze dem Barden ein, mit dem du den hufzerbrechenden Zauberer siehst! Wie Atharvan brenne mit deinem göttlichen Lichte den Ahnungslosen nieder, der die Wahrheit beugt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Auge, Agni, setze ein dem Sänger, mit dem du siehst den Huf-beraubten Nachtgeist, Mit Götterflamme brenne wie Atharvan den Thoren nieder, der dem Guten nachstellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вложи в певца, о Агни, этот глаз,  
 Которым видишь ты колдуна, разламывающего копыта!  

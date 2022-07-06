@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वा भृगुव꣡च् छुचे  
 मनुष्व꣡द् अग्न आहुत  
 अङ्गिरस्व꣡द् धवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒ङ्गि॒र॒स्वत् । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -80,35 +80,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **शुचे** स्वभावतः शुद्ध **आहुत** **अग्ने** **त्वा** त्वां **भृगुवत्** यथा भृगुस्तथा **मनुष्वत्** यथा च मनुस्तथा **अङ्गिरस्वत्** अङ्गिरोवच्च **हवामहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Holy **Agni**, to whom oblations are offered, we worship you in like manner (as you have beenworshipped) by **Bhṛgu**, by **Manus**, by **Aṅgirasa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you, o Agni blazing when bepoured, like Bhr̥gu, like Manu, like Aṅgiras, do we invoke.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O worshipped with oblations, pure Agni, we call on thee as erst,  
      Did Bhrgu, Manus, Angiras.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wir rufen, wie Bhrigu, wie Manu, wie die Angiras´ taten, dich, du reiner schmalzbegossener Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dich, o heller, rufen wir, wie Bhrigu, Manus, Angiras, O Agni, du beträufelter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также тебя, подобно Бхригу, о чистый,  
 Подобно Ману, о Агни, политый (жиром),  

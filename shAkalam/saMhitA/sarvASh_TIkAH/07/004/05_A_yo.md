@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यो꣡ यो꣡निं देव꣡कृतं ससा꣡द  
 क्र꣡त्वा हि꣡ अग्नि꣡र् अमृ꣡ताँ अ꣡तारीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡मिश् च विश्व꣡धायसम् बिभर्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तम् । ओष॑धीः । च॒ । व॒निनः॑ । च॒ । गर्भ॑म् । भूमिः॑ । च॒ । वि॒श्वऽधा॑यसम् । बि॒भ॒र्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -151,36 +151,36 @@ genre M
 **यः** अग्निः **देवकृतं** देवैः कल्पितं **योनिं** स्थानम् **आ** ससाद अध्यास्ते । किमर्थं देवाः स्थानं कल्पयन्त्यग्नेः इत्यत आह । **हि** यस्मात् कारणात् **अग्निः** **क्रत्वा** प्रज्ञया **अमृतान्** देवान् **अतारीत** दुर्गेभ्यस्तारयति । **तम्** इममग्निं **विश्वधायसं** विश्वस्य धारकम् **ओषधीः** ओषधयः। **वनिनश्च** वृक्षाश्च **गर्भं** गर्भं सन्तं बिभ्रति । **भूमिश्च** **बिभर्ति** । श्रुतमेव बिभर्तीति पदं बहुवचनान्ततया विपरिणतं सत् ओषधीभिर्वनिभिश्च संबध्यते ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The herbs, and the trees, and the earth, contain as a germ that all- supporting **Agni**, who occupies aplace provided by the gods, that by his functions he may convey (the offerings) to the immortals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has sat here upon the womb made by the gods—for Agni has  surpassed the deathless (gods) in his resolve (to sacrifice)—  
 that all-nurturing child do plants, trees, and the land carry.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath occupied his God-made dwelling, Agni, in wisdom hath surpassed Immortals.  
      A Babe unborn, the plants and trees support him, and the earth beareth him the All-sustainer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der an den gottbestimmten Platz sich gesetzt hat - denn Agni hat an Umsicht die Unsterblichen übertroffen - ihn tragen die Pflanzen und Bäume als Leibesfrucht, und die Erde, den Allnährenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der in gottgeschaffnen Schooss sich setzte, – denn Agni übertraf an Kraft die Götter, – Den Allernährer tragen Kräuter, Bäume, ihn trägt als Leibesfrucht die Mutter Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто уселся на место, приготовленное богами –  
 Ведь Агни силой духа превзошел бессмертных –  

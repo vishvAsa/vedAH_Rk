@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व श्रिया꣡ सुदृ꣡शो देव देवाः꣡  
 पुरू꣡ द꣡धाना अमृ꣡तं सपन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दशस्य꣡न्त उशि꣡जः शं꣡सम् आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 होता॑रम् । अ॒ग्निम् । मनु॑षः । नि । से॒दुः॒ । द॒श॒स्यन्तः॑ । उ॒शिजः॑ । शंस॑म् । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -118,42 +118,42 @@ genre M
 हे **देव** अग्ने **सुदृशः** **तव** **श्रिया** समृद्ध्या **देवाः** इन्द्रादयः **पुरु** अत्यधिकं **दधानाः** त्वयि प्रीतिं धारयन्तः **अमृतं** **सपन्त** स्पृशन्ति । **होतारं** होमनिष्पादकम् **अग्निं** **मनुषः** मनुष्याः **नि** **षेदुः** परिचरन्ति ऋत्विजः । किं कुर्वन्तः । **दशस्यन्तः** हविर्वितरन्तः **शंसं** फलम् **उशिजः** कामयमानस्य **आयोः** मनुष्यस्य यजमानस्यार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine (**Agni**), gods, (made) comely by your glory, and bearing (the) great (affection), sip the ambrosia; men adore Agni, the conveyer of theburnt-offering, presenting oblations on behalfof the instrumental tutor of the rite, desirous of (its) reward.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By the splendor of you (who are lovely to see), the gods are lovely to  see, o god. Receiving many things for themselves, they serve the  
 immortal one.  
 The fire-priests have seated Agni as the Hotar of Manu, giving homage  to him as the “Recitation of Āyu.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods through thy glory, God who art so lovely! granting abundant gifts gained life immortal.  
      As their own Priest have men established Agni; and serve him fain for praise from him who liveth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By thy beauty, O god, the gods are beautiful to behold 1. Assuming many (powers or goods) they attached themselves to immortality. Men have set down Agni as the Hotri, the Usigs, honouring (him), the praise of Âyu 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch deine, des Schönen, Herrlichkeit, o Gott, mehren und wahren die Götter die Unsterblichkeit. Als des Manu Opferpriester haben den Agni eingesetzt die willfährigen Usij, ihn den Preis des Ayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deinen Glanz sind schön, o Gott, die Götter, viel Gaben nehmend ehrten sie den ew'gen; Als Priester setzten Agni ein die Menschen, mit Lust das Lob des emsigen betreibend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря блеску, который свойствен тебе, прекрасному на вид, о бог, боги  
 Приобщаются к амрите, помещая (ее) во многих местах.  

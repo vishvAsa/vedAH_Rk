@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने कदा꣡ त आनुष꣡ग्  
 भु꣡वद् देव꣡स्य चे꣡तनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡र्तासो विक्षु꣡ ई꣡डियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । हि । त्वा॒ । ज॒गृ॒भ्रि॒रे । मर्ता॑सः । वि॒क्षु । ईड्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -107,46 +107,46 @@ genre M
 हे **अग्ने** **अध** अतः कारणात् **देवस्य** द्योतमानस्य **ते** तव संबन्धि **चेतनं** तेजः कदा **आनुषक्** अनुषक्तं **भुवत्** भवेत् ॥ लेट्यडागमः ।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  ‘ भूसुवोस्तिङि ' इति गुणप्रतिषेधः ॥ अतः कारणादित्युक्तम् । कस्माद्धेतोरित्युच्यते । **हि** यस्मात् कारणात् **मर्तासः** मनुष्याः **विक्षु** विड्भिः प्रजाभिः **ईड्यं** स्तुत्यं **त्वा** त्वां जगृभ्रिरे जगृहिरे गृह्णन्ति ॥ ग्रहेर्धातोर्लिटि ‘ हृग्रहोर्भः' इति भत्वम् । 'बहुलं छन्दसि' इति रुडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Agni**, is the light of you, bright-shining, to be manifested; for therefore have mortals accepted you as to be worshipped among mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, when will there be manifestation of you, the god, in the  regular order?  
 For it was therefore that the mortals seized you as the one to be  reverently invoked in the clans—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The point of the abrupt question opening this vs. must be that mortals have established Agni in his ritual role (vs. 1, 2cd), but Agni is not reliably fulfilling this role by manifesting himself at the proper times.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When shall thy glory as a God, Agni, be suddenly shown forth.  
      For mortal men have held thee fast, adorable in all their homes,
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni! When will the splendour of thee, the god, appear in the right way? For verily the mortals have seized thee who shouldst be magnified in the houses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Wann wird deine, des Gottes, Erscheinung wie sich's gebührt stattfinden? Denn darum haben dich die Sterblichen festgehalten als den in den Clanen zu berufenden Priester.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann wurde nach der Ordnung dir, o Agni, Gottes-Herrlichkeit? Da war's, als in die Häuser dich, die Menschen setzten als den Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, когда же произойдет, как положено,  
 Твое божественное явление?  

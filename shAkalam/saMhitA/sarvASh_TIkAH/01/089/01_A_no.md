@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो भद्राः꣡ क्र꣡तवो यन्तु विश्व꣡तो  
 अ꣡दब्धासो अ꣡परीतास उद्भि꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡प्रायुवो रक्षिता꣡रो दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 दे॒वाः । नः॒ । यथा॑ । सद॑म् । इत् । वृ॒धे । अस॑न् । अप्र॑ऽआयुवः । र॒क्षि॒तारः॑ । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,44 +123,44 @@ genre M
 **नः** अस्मान् **क्रतवः** अग्निष्टोमादयो महायज्ञाः **विश्वतः** सर्वस्मादपि दिग्भागात् **आ** **यन्तु** आगच्छन्तु । कीदृशाः क्रतवः । **भद्राः** समीचीनफलसाधनत्वेन कल्याणाः भजनीया वा **अदब्धासः** असुरैरहिंसिताः **अपरीतासः** शत्रुभिरपरिगताः अप्रतिरुद्धा इत्यर्थः । **उद्भिदः** शत्रूणामुद्भेतारः । ईदृशाः क्रतवः अस्मांस्तथा आगच्छन्तु । **अप्रायुवः** अप्रगच्छन्तः स्वकीयं रक्षितव्यमपरित्यजन्तः अत एव **दिवेदिवे** प्रतिदिवसं **रक्षितारः** रक्षां कुर्वन्तः एवंगुणविशिष्टाः सर्वे **देवाः** **नः** अस्माकं **सदमित्** सदैव **वृधे** वर्धनाय **यथा** **असन्** भवेयुस्तथा आगच्छन्तु इति संबन्धः ॥ अदब्धासः । ‘ दम्भु दम्भे'। दम्भो हिंसा । निष्ठायां ‘ यस्य विभाषा' इति इट्प्रतिषेधः । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अपरीतासः । ‘ इण् गतौ । पूर्ववत् कर्मणि निष्ठा । उभयत्र ‘ आज्जसेरसुक् । वृधे । ‘ वृध वृद्धौ '। संपदादिलक्षणो भावे क्विप् । सावेकाचः' इति विभक्तेरुदात्तत्वम् । असन् । ‘ अस भुवि '। लेटि अडागमः । ‘ बहुलं छन्दसि ' इति शपो लुगभावः । तस्य अङित्त्वात् ‘ असोरल्लोपः' इति अकारलोपाभावः । अप्रायुवः । ‘ इण् गतौ । अस्मात् प्रपूर्वात् छन्दसीणः' इति उण्प्रत्ययः । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । जसि जसादिषु च्छन्दसि वावचनम् ' इति गुणस्य विकल्पितत्वादभावे तन्वादित्वात् उवङ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May auspicious works, unmolested, unimpeded, and subversive (of foes), come to us from every quarter; may the gods, turning not away from us, but granting us protection day by day, be ever with us for our advancement.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let auspicious ideas come here to us from all sides—undeceivable,  uncircumscribable, bursting out—  
 so that the gods will be (ready) to increase us always, will be our  
 unfaltering protectors every day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subjunctive of √as plus infinitival vṛdhé, lit. “will be for the increasing/strengthening of…,” i.e., “will be (ready/available/amenable) to increase/strengthen” is found also in 5c: 1c vṛdhé ásan, 5c ásad vṛdhé.
 
 On áprāyu- see comm. ad V.80.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY powers auspicious come to us from every side, never deceived, unhindered, and victorious,  
      That the Gods ever may be with us for our gain, our guardians day by day unceasing in their care.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gute Gedanken sollen uns von allen Seiten kommen, unbeirrte, unerreichte, durchschlagende, auf daß die Götter uns immerdar zum Segen seien und unablässige Beschützer Tag für Tag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen heilvoll Kräfte nahn von jedem Ort, vorsprudelnd, unversehrt und ungehemmt, Damit die Götter immer uns zum Heile sein und uns beschirmen unablässig Tag für Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да придут к нам со всех сторон прекрасные силы духа,  
 Что нельзя обмануть, нельзя обойти, что бьют ключом, -  

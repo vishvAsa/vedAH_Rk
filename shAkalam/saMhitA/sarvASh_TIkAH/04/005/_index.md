@@ -18,7 +18,7 @@ title = "+005"
 चतुर्थे मण्डले प्रथमेऽनुवाके दश सूक्तानि ।' वैश्वानराय ' इति पञ्चदशर्चं पञ्चमं सूक्तं वामदेवस्यार्षं त्रैष्टुभं वैश्वानराग्निदेवताकम् । अत्रानुक्रमणिका- वैश्वानराय वैश्वानरीयम्' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 5 (301)  
 Agni Belonging to All Men [Agni Vaiśvānara]  
@@ -33,7 +33,7 @@ The following two verses (9–10) reflect on the dawn ritual and the kindling of
 Another Vaiśvānara hymn, VI.9, follows much the same trajectory as this one,  with similar reflections on the craft of poetry and the inspiration received from Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni Vaiśvānara
 </details>

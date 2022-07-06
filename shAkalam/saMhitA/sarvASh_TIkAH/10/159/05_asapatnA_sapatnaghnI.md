@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असपत्ना꣡ सपत्नघ्नी꣡  
 ज꣡यन्ति अभिभू꣡वरी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 रा꣡धो अ꣡स्थेयसाम् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 आ । अ॒वृ॒क्ष॒म् । अ॒न्यासा॑म् । वर्चः॑ । राधः॑ । अस्थे॑यसाम्ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asapatnā* ← *asapatna*
 - \[noun\], nominative, singular, feminine
@@ -89,37 +89,37 @@ popular;; epic anuṣṭubh (380)
 आ समन्तादवृक्षम् । अवृश्चिषम् । अच्छिदम् ॥ व्रश्चेर्लुङि ऊदित्त्वादिडभावे संयोगादिलोपे छान्दसं संप्रसारणम् ॥ तत्र दृष्टान्तः । **अस्थेयसामिव** । अस्थिरतराणां शत्रूणां यथा धनमप्रयत्नेन वृश्च्यते तथेत्यर्थः ॥ स्थिरशब्दादीयसुनि ' प्रियस्थिर० इत्यादिना स्थादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Free from rivals, the destructress of rivals, victorious, triumphant, I cut up the brilliance and wealth ofthe other (wives of **Indra**) as if it were the wealth of (enemies) who do not endure long.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without cowives, smiting cowives, conquering, overcoming—  
 I have ripped off the luster of the other women, like the gifts of the  
 feckless.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Destroyer of the rival wife, Sole Spouse, victorious, conqueror,  
      The others' glory have I seized as 'twere the wealth of weaker Dames.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Nebenbuhlerinnen, die Nebenbuhlerinnen schlagend, siegend, überlegen. Ich habe den Glanz der anderen Frauen an mich gerissen wie eine Schenkung derer, die nicht hartherzig sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mitfrauen schlug ich, trieb sie fort, besiegend, überwindend sie, Der andern Ansehn riss ich jetzt an mich wie Gut der Wanderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет у меня соперниц! Я – убийца соперниц,  
 Побеждающая, (всех) превосходящая!  

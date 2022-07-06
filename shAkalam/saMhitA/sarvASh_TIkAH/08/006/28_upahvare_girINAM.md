@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपह्वरे꣡ गिरीणां᳐꣡  
 संगथे꣡ च नदी꣡ना᳐म्  
 धिया꣡ वि꣡प्रो अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धि॒या । विप्रः॑ । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upahvare* ← *upahvara*
 - \[noun\], locative, singular, neuter
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **गिरीणां** पर्वतानाम् **उपह्वरे** उपह्वर्तव्ये प्रान्ते **नदीनां** सरितां **संगथे** संगमने **च** ईदृग्विधे देशे क्रियमाणया **धिया** यागक्रियया स्तुत्या वा **विप्रः** मेधावीन्द्रः **अजायत** प्रादुर्भवति । अतो वयमपि तादृशे देशे यजामः स्तुमो वेति भावः । गिरीणामित्यत्र 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,28 +86,28 @@ The wise Indra: **vipra**, the sage, Indra; or, medhāvi **somaḥ**;
 Dhiyā = understanding; **Soma** is producedby the thought that wise men will perform the sacrifice by me. The purport of the ṛca: men ought to sacrifice inthose plural ces where Indra is manifested
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In a remote place of the mountains and at the conjunction of the rivers the inspired poet was born with insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There where the mountains downward slope, there by the meeting of the streams  
      The Sage was manifest with song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Versteck der Berge und in der Vereinigung der Flüsse wurde der Seher unter Gebet geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An der Gebirge Ueberhang und an der Ströme Einigung Entsprang der weise durch Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На склоне гор  
 И при слиянии рек  

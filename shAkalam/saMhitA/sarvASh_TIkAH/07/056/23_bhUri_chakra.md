@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि चक्र मरुतः पि꣡त्रियाणि  
 उक्था꣡नि या꣡ वः शस्य꣡न्ते पुरा꣡ चित्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡द्भिर् इ꣡त् स꣡निता वा꣡जम् अ꣡र्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒रुत्ऽभिः॑ । उ॒ग्रः । पृत॑नासु । साळ्हा॑ । म॒रुत्ऽभिः॑ । इत् । सनि॑ता । वाज॑म् । अर्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -125,7 +125,7 @@ genre M
 हे **मरुतः** यूयं **भूरि** भूरीणि बहूनि **पित्र्याणि** अस्मत्पितृसंबन्धीनि धनदानादीनि कर्माणि **चक्र** कृतवन्तो भवत। **पुरा** **चित्** पूर्वकालेऽपि **वः** युष्माकम् **उक्थानि** प्रशस्यानि यानि कर्माणि प्रशस्यन्ते प्रख्यायन्ते तानि चक्रेति संबन्धः । **उग्रः** ओजस्वी **पृतनासु** युद्धेषु **मरुद्भिः** युष्माभिर्हेतुभिः **साळ्हा** शत्रूणामभिभविता भवति । **मरुद्भिरित्** मरुद्भिर्युष्माभिरेव हेतुभिः **अर्वा** स्तोत्रैरभिगन्ता **वाजम्** अन्नं **सनिता** संभक्ता भवति । यद्वा अर्वाश्वो वाजं युद्धं सनिता भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,33 +136,33 @@ genre M
 Marudbhir it sanitā vājam **arvā**: arvā = stotrairabhigantā, one who overcomes by praises; or, a horse; through the Maruts a horse is the obtainer (of success)in war
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Maruts, you have given rise to many solemn speeches from the  Forefathers, which have been recited to you long since: along with the Maruts the strong one is the victor in battles; just along  with the Maruts does the charger win the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the use of √kṛ ‘make’ (2nd pl. pf. cakra), it is not likely that the Maruts created the ukthā́ni themselves, though they are singers on other occasions; rather they provided the occasion and the subject for the poets of earlier eras to celebrate them. Though Renou’s ‘provoke’ is a bit strong, it’s the right idea. My ‘have given rise to’ is a bit weak.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full many a deed ye did for our forefathers worthy of lauds which, even of old, they sang you.  
      lle strong man, with the Maruts, wins in battle, the charger, with the Maruts, gains the booty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt viele väterliche Loblieder veranlaßt, die euch schon ehedem vorgetragen wurden. Durch die Marut bleibt der Gewaltige Sieger in den Schlachten, durch die Marut gewinnt der Renner den Kampfpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt erfüllt viel Bitten unsrer Väter, die sie vordem zu euch, o Maruts, sprachen; Durch Maruts ist der Held in Schlachten siegreich, durch sie erlangt das Ross den Preis des Wettlaufs.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы вызвали к жизни, о Маруты, у отцов (наших)  
 Много гимнов, которые давно уже исполнялись вам.  

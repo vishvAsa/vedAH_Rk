@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माया꣡भिर् इन्द्र मायि꣡नं  
 तुवं꣡ शु꣡ष्णम् अ꣡वातिरः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ते꣡षां श्र꣡वांसि उ꣡त् तिर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒दुः । ते॒ । तस्य॑ । मेधि॑राः । तेषा॑म् । श्रवां॑सि । उत् । ति॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
@@ -105,7 +105,7 @@ genre M
 सू. ३. २९२ ) इति नप्रत्ययः । नित्त्वादाद्युदात्तः । अतिरः । तरतेर्लङि व्यत्ययेन शः तस्य ङित्त्वेन गुणाभावात् ' ऋत इद्धातोः' इति इत्वम् । रपरत्वम् । विदुष्टे तस्य । गतमन्त्रे गतम् । मेधिराः ।  ‘ मिधृ मेधृ मेधाहिंसनयोः' । औणादिक इरन् । नित्त्वादाद्युदात्तः । श्रवांसि । नब्विषयत्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ genre M
 Śuṣṇa is an **asura** slain by Indra. Śuṣṇa = dryer up; bhutānām **śoṣaṇa**-hetum, the cause of the drying or withering of beings: heat or draught; Indra, as the rain puts an end to this; **indraḥ** śuṣṇum jaghāna (**Nirukta**. 3.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your tricks, Indra, you brought down tricky Śuṣṇa.  
 The wise know of that (act) of yours. Raise up their fame!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wily Susna, Indra! thou o'er-threwest with thy wondrous powers.  
      The wise beheld this deed of thine: now go beyond their eulogies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Listen hast du den listigen Susna überwunden, Indra. Das wissen von dir die Weisen; deren Ruhm erhöhe du!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Zauberkraft hast du, o Indra, den Zauberer Çuschna zu Boden gestreckt, das bezeugen dir die Weisen; deren Ruhm erhöhe du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Колдовскими чарами, о Индра, колдовского  
 Шушну ты поверг ниц.  

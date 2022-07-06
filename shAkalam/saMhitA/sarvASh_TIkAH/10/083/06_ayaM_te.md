@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ते अस्मि उ꣡प मे꣡हि अर्वा꣡ङ्  
 प्रतीचीनः꣡ सहुरे विश्वधायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡नाव द꣡स्यूँर् उत꣡ बोधि आपेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मन्यो॒ इति॑ । व॒ज्रि॒न् । अ॒भि । माम् । आ । व॒वृ॒त्स्व॒ । हना॑व । दस्यू॑न् । उ॒त । बो॒धि॒ । आ॒पेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -135,35 +135,35 @@ popular
 हे **सहुरे** शत्रूणां सहनशील **विश्वधायः** विश्वस्य धर्तमन्यो **अयं** जनोऽहं **ते** तव **अस्मि** कर्मकृत् । यत एवमतः **प्रतीचीनः** प्रतिगन्ता **अर्वाङ्** अस्मदभिमुखं **मा** मां **उप** **इहि** उपागच्छ। हे **मन्यो** **वज्रिन्** **माम्** **अभि** **आ** **ववृत्स्व** अभ्यावर्तस्व । किमर्थमभ्यागमनमिति चेदुच्यते । **हनाव** आवां **दस्यून्** शत्रून्। **उत** अपि च **आपेः** बन्धुं **बोधि** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here I am—yours! Come right up here near to me face to face, o  
 victorious one who suckles all.  
 Battle Fury, mace-bearer; turn here toward me—we two shall smite the  Dasyus—and be mindful of your friend.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither. I am all thine own; advancing turn thou to me, Victorious, All-supporter!  
      Come to me, Manyu, Wielder of the Thunder: bethink thee of thy friend, and slay the Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich hier bin dein, komme zurück zu mir her, du Überlegener, Allstärkender! Manyu, Keulenträger, wende dich mir zu; wir wollen beide die Dasyu´s schlagen, und gedenke deines Freundes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin ja dein, so wende dich zu mir hin, komm mir entgegen siegreich, alles schenkend; O Manju, komme mit dem Blitze zu mir, gedenk des Freundes, lass den Feind uns schlagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

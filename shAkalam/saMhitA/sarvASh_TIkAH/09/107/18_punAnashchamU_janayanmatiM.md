@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनान꣡श् चमू꣡ जन꣡यन् मतिं꣡ कविः꣡  
 सो꣡मो देवे꣡षु रण्यति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सी꣡दन् व꣡नेषु अव्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒पः । वसा॑नः । परि॑ । गोभिः॑ । उत्ऽत॑रः । सीद॑न् । वने॑षु । अ॒व्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punānaś* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -114,7 +114,7 @@ genre M
 **चमू** । सप्तम्याः पूर्वसवर्णदीर्घः। चम्वोरधिषवणफलकयोः **पुनानः** पूयमानोऽभिषूयमाणः **मतिं** स्तुतिं **जनयन्** उत्पादयन् **कविः** क्रान्तप्रज्ञ एतादृशः **सोमः** **देवेषु** इन्द्रादिषु **रण्यति**। किंच **अपः** वसतीवरीः **वसानः** आच्छादयन् **वनेषु** काष्ठेषु पात्रेषु **सीदन्** सोमः **गोभिः** गोविकारैः क्षीरादिभिः **परि** **अव्यत** परिदीयते । आच्छाद्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Purified in the cups: **camu** = camuṣu; effused on the plural nks
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified in the cup, a poet begetting thought, Soma rejoices  among the gods.  
 Clothing himself in waters, he has wrapped himself with cows as the  higher (oblation), sitting in the woods [/wooden cups].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma as úttara- is also found in 2d, where it is also associated with cows: śrīṇanto góbhir úttaram “preparing you [tvā 2c] with cows as the higher (oblation)”; see comm. there. I supply ‘oblation’ in both instances because of 1b sómo yá uttamáṃ havíḥ.
 
@@ -145,23 +145,23 @@ No particular internal cohesion, but a number of ties with other parts of the hy
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purified in the bowl and gendering the hymn, wise Soma joys among the Gods.  
      Robed in the flood, the Mighty One hath clad himself with milk and settled in the vats.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem Camugefäß sich läuternd, das fromme Denken erweckend ist der Seher Soma gern bei den Göttern. Er kleidet sich in Wasser, hat sich mit Milch umhüllt, der Trefflichste, und setzt sich in den Holzgefäßen nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Schalen rieselnd, Soma, Lied-erzeugend freut der weise bei den Göttern sich; In Flut gekleidet hat er sich mit Milch umhüllt, der mächt'ge, setzend sich ins Holz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь в чане, поэт, порождающий поэтическую мысль,  
 Сома находит удовольствие среди богов.  

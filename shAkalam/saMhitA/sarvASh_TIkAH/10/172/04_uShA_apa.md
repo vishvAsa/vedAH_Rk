@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उषा꣡ अ꣡प स्व꣡सुस् त꣡मः  
 सं꣡ वर्तयति वर्तनिं꣡ सुजात꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -28,7 +28,7 @@ genre M;; line affected by realignment
 उ॒षाः । अप॑ । स्वसुः॑ । तमः॑ । सम् । व॒र्त॒य॒ति॒ । व॒र्त॒निम् । सु॒ऽजा॒तता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
@@ -81,7 +81,7 @@ genre M;; line affected by realignment
 इयम् **उषाः** स्वसुः भगिन्या रात्रेः संबन्धि तमः अन्धकारम् अप **सं** वर्तयति । आत्मीयेन तेजसापगमयति । **सुजातता** सुजातत्वमात्मनः सुप्रजातत्वं च **वर्तनिं** रथं प्रापयति॥॥३०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,27 +92,27 @@ genre M;; line affected by realignment
 Sujātatā = her own prolific faculty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn (rolls) out of the way the darkness of her sister (Night), rolls her  track up in a ball, because she has been well born (just now).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dawn drives away her Sister's gloom, and, through her excellence, makes her retrace her path.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usas rollt das Dunkel der Schwester fort, sie rollt deren Bahn zusammen, weil sie die Edelgeborene ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgenröthe treibt hinweg der Schwester Dunkel auf den Weg mit edlem Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ушас мрак (своей) сестры (прогоняет) прочь.  
 Она свертывает ее след, потому что (сама) прекраснорожденная.

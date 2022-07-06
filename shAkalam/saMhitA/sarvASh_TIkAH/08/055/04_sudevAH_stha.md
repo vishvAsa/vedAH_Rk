@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुदेवा꣡ स्थ काण्वायना  
 व꣡यो-वयो विचर꣡न्तः  
 अ꣡श्वासो न꣡ चङ्क्रमत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Me
 अश्वा॑सः । न । च॒ङ्क्र॒म॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sudevā* ← *su*
 - \[adverb\]
@@ -81,30 +81,30 @@ genre M;; Vālakhilya;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Me
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May youu have the gods propitious to you, O descendants of **Kaṇva**, living through youth on youth;step out vigorously like steed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have the gods well on your side, you descendants of Kaṇva. Passing  from strength to strength  
 like horses they keep pace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt gute Götter, Kanviden; jedes Lebensalter durchlebend stolzieret ihr wie die Rosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von den Göttern seid ihr begünstigt, o Nachkommen des Kanva, Jugendalter auf Jugendalter durchschreitend, wie Rosse schreitet kräftig ihr einher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасные боги у вас, о потомки Канвы:  
 Проходя один период жизни за другим,  

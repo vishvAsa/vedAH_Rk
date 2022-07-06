@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा य꣡द् ऋषि꣡भ्यो मनीषां꣡  
 वाचो꣡ मतिं꣡ श्रुत꣡म् अदत्तम् अ꣡ग्रे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यज्ञं꣡ तन्वाना꣡स् त꣡पसाभ्य् अ᳡पश्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; Vālakhilya
 यानि॑ । स्थाना॑नि । अ॒सृ॒ज॒न्त॒ । धीराः॑ । य॒ज्ञम् । त॒न्वा॒नाः । तप॑सा । अ॒भि । अ॒प॒श्य॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
@@ -130,35 +130,35 @@ popular;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indra** and **Varuṇa**, I have seen what you formerly gave to the seers, wisdom, power of song, andfame, and the plural ces which the wise have prepared for themselves, as they spread the web of the sacrifice withholy austerities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa, in that you in the beginning gave to the seers  inspired thought, the thinking of speech, what is heard—  
 the insightful (seers) launched these as poems as they stretched out the  sacrifice. I looked upon them with fervor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the metrical shape of dīdihi see comm. ad IX.108.9.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna, als ihr im Anfang den Rishi´s Nachdenken, ausgedachte Rede, Gelehrsamkeit verliehet, da ergossen die Weisen diese als Gedichte, während sie das Opfer vollzogen; das erschaute ich mit heißem Bemühen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was ihr zuerst, o Indra-Varuna, den Dichtern gabt: Weisheit, den Sinn des Liedes, das berühmte [Lied?], die Stätten, welche die Weisen hervorbrachten, indem sie das Opfer durch heiliges Büsserwerk woben, das habe ich geschaut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, когда вначале вы даровали риши  
 Вдохновение, мысль (облеченную в) слова, то, что можно услышать,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खाय आ꣡ शिषामहि  
 ब्र꣡ह्म इ꣡न्द्राय वज्रि꣡णे  
 स्तुष꣡ ऊ षु꣡ वो नृ꣡तमाय धृष्ण꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्तु॒षे । ऊं॒ इति॑ । सु । वः॒ । नृऽत॑माय । धृ॒ष्णवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
@@ -89,40 +89,40 @@ genre M
 **सखायः** मित्रभूता हे ऋत्विजः **वज्रिणे** वज्रहस्ताय **इन्द्राय** **ब्रह्म** कर्तव्यमेतत्सूक्तरूपं स्तोत्रम् **आ** **शिषामहि** वयम् आशास्मः'। शासु अनुशिष्टौ'। लुङि च्लेरादेशः । इत्वषत्वे । व्यत्ययेनात्मनेपदम्। तत्र **वः** सर्वेषामेव युष्माकमर्थाय **नृतमाय** सर्वेषां नेतृतमाय यद्वा संग्रामेष्वायुधादीनां नेतृतमाय **धृष्णवे** शत्रूणां धर्षणशीलाय तस्मा इन्द्रायाहमेव **सु** सुष्ठु **स्तुषे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us earnestly, friends, address our prayer to **Indra**, the wielder of the thunderbolt, for you I praise thechief leader (in battles), the resolute (opposer of foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Comrades, we direct our formulation to Indra who bears the mace— I shall praise him on your behalf—to the most manly, bold one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes stuṣé here as an infinitive, but the nearby parallels he cites (VIII.21.9, 23.7) are unaccented and clearly 1st person. The switch between 1st pl. (ā́ śiṣāmahi) and 1st sg. (stuṣé) is not unusual in this kind of context, where the poet speaks in the 1st plural jointly for himself and his fellow ritual performers and in the 1st singular for himself alone, with a 2nd pl. address to those same comrades (vaḥ in b).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COMPANIONS, let us learn a prayer to Indra. whom the thunder arms,  
      To glorify your bold and most heroic Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Genossen! Wir wünschen fein dem Keulenträger Indra eine Erbauung zu singen für euch, dem Mannhaftesten, Kühnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Freunde, lasst uns ein Gebet dem blitzbewehrten Indra weihn; Gern sing' ich eurem tapfersten, dem muthigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Друзья, мы произносим  
 Молитву для Индры-громовержца.  

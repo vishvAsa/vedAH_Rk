@@ -8,7 +8,7 @@ title = "+031"
 सप्तमेऽनुवाके पञ्च सूक्तानि । तत्र ‘ त्वमग्ने प्रथमः' इति प्रथमं सूक्तमष्टादशर्चम् । आङ्गिरसो हिरण्यस्तूप ऋषिः । अष्टमीषोडश्यष्टादश्यः त्रिष्टुभः । शिष्टाः त्रिष्टुबन्तपरिभाषया जगत्यः । अग्निर्देवता । तथा च अनुक्रमणिका-’त्वमग्ने द्व्यूना हिरण्यस्तूप आग्नेयं त्रिष्टुबन्त्याष्टमीषोळश्यौ च' इति । प्रातरनुवाके आग्नेये क्रतौ आश्विनशस्त्रे च ‘त्वमग्ने प्रथमः' इति सूक्तम् । अथैतस्या रात्रेः' इति खण्डे • त्वमग्ने प्रथमो ङ्गिरा ऋषिर्नू चित्सहोजा अमृतो नि तुन्दते ' ( आश्व. श्रौ. ४. १३ ) इति सूत्रितम् । अभिप्लवषडहस्य तृतीयेऽहनि अग्निमारुते शस्त्रे इदं सूक्तं जातवेदस्यनिविद्धानीयम् । तथा च ‘तृतीयस्य त्र्यर्यमा ' इति खण्डे सूत्रितं-’त्वमग्ने प्रथमो अङ्गिरा इत्याग्निमारुतम्' (आश्व. श्रौ. ७. ७ ) इति । वाजपेये अग्निमारुते एतत्सूक्तं जातवेदस्यं निविद्धानीयं, ‘तृतीयेनाभिप्लविकेनोक्तं तृतीयसवनम् ' ( आश्व. श्रौ. ९. ९) इत्यतिदिष्टत्वात् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 31  
 Agni  
@@ -22,7 +22,7 @@ The remainder of the hymn (esp. vss. 12–15) begs for Agni’s protection for t
 tion,” designed to simulate Agni’s favor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni This is the first of five hymns attributed to Hiraṇyastūpa Āṅgirasa and the only one addressed to Agni. It is noteworthy that the hymn begins and ends with references to the Aṅgirases: 1a (agne ...) áṅgirā ṛ́ṣiḥ, 2a (agne ...) áṅgirastamaḥ and 17a (the last vs. before the extra-hymnic summary vs.) (agne) aṅgirasvád aṅgiraḥ, a reference to his parentage and a word that often plays off its phonological similarity to agní- (cf. RV I.1), a voc. of which occurs in every vs. in this hymn.
 

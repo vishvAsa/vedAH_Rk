@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बो꣡धद् य꣡न् मा ह꣡रिभ्यां  
 कुमारः꣡ साहदेवियः꣡  
 अ꣡छा न꣡ हूत꣡ उ꣡द् अरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अच्छ॑ । न । हू॒तः । उत् । अ॒र॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bodhad* ← *bodhat* ← *budh*
 - \[verb\], singular, Imperfect
@@ -86,7 +86,7 @@ genre M
 **साहदेव्यः** सहदेवनाम्नो राज्ञः पुत्रः **कुमारः** सोमकाभिधो राजा **हरिभ्याम्** अश्वाभ्याम् अश्वौ दातुं **मा** मां **यत्** यदा **बोधत्** बोधयामास इमौ तवाश्वाविति । तदा अहम् **अच्छ** आभिमुख्येन कुमारेण **हूतः** सन् **न** **उदरं** तावश्वावलब्ध्वा न निर्गतवानस्मि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,38 +97,38 @@ genre M
 I withdrew not: **acchā** na **hūta** udaram = ābhimukhena kumāreṇa hūta san tāvaśvāvalabdī vā na nirgatavān asmi, being called by the present prince, I did not go forth without receiving the two horses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If he will “awaken” me with two fallow bays—Prince Sāhadevya— I will “get up” like one summoned.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I interpr the apparent injunc. bódhat as a modal, rather than in the preterital value favored by most tr. -- and in fact follow Hoffmann (Injunk., 232) in taking it as a root-aor. subjunctive, not a pres. injunc. The poet is playfully reminding his patron that he’s owed a gift, and he couches this as a bit of a joke, using the ‘awaken’ value of √budh: “wake me up with a nice surprise and I’ll come and sing.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Sahadeva's princely son with two bay horses thought of me,  
      Summoned by him I drew not back.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When Sahadeva's son, the prince, thought of me with two bay horses 1, I rose up like one who is called.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als mich der Prinz Sahadevya mit zwei Falben weckte, da fuhr ich empor wie gerufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Damit der junge Sohn des Sahadeva mich mit zwei Rossen beschenke, kam ich ungerufen herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда меня разбудил двумя булаными конями  
 Царевич Сахадевья,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रुद्र꣡स्य ये꣡ मीळ्हु꣡षः स꣡न्ति पुत्रा꣡  
 यां꣡श् च ऊ नु꣡ · दा꣡धृविर् भ꣡रध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सा꣡ इ꣡त् पृ꣡श्निः सुभु꣡वे ग꣡र्भम् आ꣡धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒दे । हि । मा॒ता । म॒हः । म॒ही । सा । सा । इत् । पृश्निः॑ । सु॒ऽभ्वे॑ । गर्भ॑म् । आ । अ॒धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
@@ -148,37 +148,37 @@ genre M
 **मीळ्हुषः** सेक्तुः **रुद्रस्य** **पुत्राः** **ये** मरुतः **सन्ति** **दाधृविः** धरित्री पृश्निः अन्तरिक्षं **यांश्चो** **नु** यांश्च मरुतो नु **भरध्यै** भर्तुं क्षमा भवति । **विदे** **हि** सर्वज्ञाता हि **महः** महतामेषां **माता** **सा** पृश्निः **मही** महती। किंच **सा** **पृश्निः** **सुभ्वे** नृणां सम्यक् भवनाय **गर्भम्** उदकम् **आधात्** आदधाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They (who are) the sons of the showerer **Rudra**, whom the nursing (firmamen is able) to sustain, and of whom, the mighty ones, it is known that the great **Pṛśni** has received the germ for the benefit (of man).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who are the sons of Rudra the rewarder, and whom she was  stalwart (enough) to bear—  
 for she is known as the great mother of the great—just she, Pr̥śni,  
 implanted the embryo for good offspring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who are Sons of the rain-pouring Rudra, whom the long-lasting One had power to foster:  
      The Mighty Ones whose germ great Mother Prsni is known to have received for man's advantage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die Söhne des Brotherrn Rudra sind und die Empfangende sogleich als Leibesfrucht zu tragen fähig war - denn die Mutter kennt ihre Großen, sie die Große. Sie ist die Prisni; der Kräftigen hat er den Keim gepflanzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, welche Söhne sind des gnäd'gen Rudra, und die zu tragen kräftig war die Mutter, Sie zeigt sich als der Grossen grosse Mutter; dem starken Mann gab Priçni die entsprossnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что сыновья щедрого Рудры  
 И кого способная удержать для вынашивания (зачала)...  

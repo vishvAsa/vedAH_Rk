@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानास आश꣡वः  
 शुभ्रा꣡ असृग्रम् इ꣡न्दवः  
 घ्न꣡न्तो वि꣡श्वा अ꣡प द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 घ्नन्तः॑ । विश्वाः॑ । अप॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānāsa* ← *pavamānāsaḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आशवः** शीघ्राः **शुभ्राः** शोभमानाः **पवमानासः** क्षरन्तः **इन्दवः** दीप्ताः सोमाः **विश्वाः** सर्वान् **द्विषः** द्वेष्टॄन् शत्रून् **अप** **घ्नन्तः** मारयन्तः **असृग्रं** सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified **Soma**-juices flow swift and bright destroying all enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The swift, resplendent, self-purifying drops have surged,  
 smashing away all hatreds.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ This tṛca shows clear signs of unity, indeed of a monotonous sort. Like the pr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Pavamanas have been shed, the beautiful swift Soma-drops,  
      Driving all enemies afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sauberen Renner, die sich läuternden Säfte haben sich ergossen, alle Feinde vertreibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind die flammenden, die schnellen Tropfen, licht und schön, Verjagend aller Feinde Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ दि꣡शो ना꣡नासूर्याः  
 सप्त꣡ हो꣡तार ऋत्वि꣡जः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 दे॒वाः । आ॒दि॒त्याः । ये । स॒प्त । तेभिः॑ । सो॒म॒ । अ॒भि । र॒क्ष॒ । नः॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
@@ -131,37 +131,37 @@ popular;; epic anuṣṭubh (525);; repeated line
 **सप्त** **दिशः** । सोमो यस्यां दिशि वर्तते तद्व्यतिरिक्ताः सप्त भवन्ति । **नानासूर्याः** नानाविधैः सूर्यैरधिष्ठिता ऋतवो भवन्ति । नानालिङ्गत्वादृतूनां नानासूर्यत्वम् '(तै. आ. १.७) इत्याम्नानात् । यद्वा । नानासूर्या इति दिग्विशेषणम् । तथा **होतारः** वषट्कर्तारो होत्रादयः **सप्त** **ऋत्विजः** भवन्ति । किंच **आदित्याः** अदितेः पुत्रा धात्रादयो मार्तण्डवर्जिताः **ये** **सप्त** **देवाः** सन्ति । एतत्तु ‘अष्टौ पुत्रासो अदितेः' (ऋ. सं. १०.७२. ८) इत्यत्र प्रपञ्चयिष्यते । हे **सोम** **तेभिः** तैर्दिगादिभिः सर्वैः नः अस्मान् अभि **रक्ष** । एतत्तु त्वया विना न घटत इति तस्मात् **इन्द्राय** **इन्दो** **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Seven (are) the quarters of the world with different suns, seven (are) the ministrant priests, seven are the divine **Ādityas**-- with these, **Soma**, protect us; flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seven are the quarters, each with its separate sun; seven are the Hotars  sacrificing in due order.  
 The Āditya gods, who are seven—with them, o Soma, protect us.  
 – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven regions have their several Suns; the ministering priests are seven;  
      Seven are the Aditya Deities,-with these, O Soma, guard thou us. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben sind die Weltpole mit verschiedenen Sonnen, sieben Hotri´s die Opferpriester. Die sieben Götter Aditya´s, mit denen behüte uns, o Soma! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welches die sieben Weltgegenden sind, die von verschiedenem Sonnenschein erleuchtet werden, welches die sieben in den Jahreszeiten opfernden Priester, und welches die sieben Götter, die Aditja's sind, mit denen, o Soma, schütze uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Есть) семь сторон света с разными солнцами,  
 Семь жрецов-хотаров,  

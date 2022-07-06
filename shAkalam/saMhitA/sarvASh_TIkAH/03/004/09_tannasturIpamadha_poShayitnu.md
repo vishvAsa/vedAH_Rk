@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नस् तुरी꣡पम् अ꣡ध पोषयित्नु꣡  
 दे꣡व त्वष्टर् वि꣡ रराणः꣡ सियस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युक्त꣡ग्रावा जा꣡यते देव꣡कामः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यतः॑ । वी॒रः । क॒र्म॒ण्यः॑ । सु॒ऽदक्षः॑ । यु॒क्तऽग्रा॑वा । जाय॑ते । दे॒वऽका॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -132,41 +132,41 @@ genre M
 हेदेवत्वष्टः सृष्टिकर्तः विरराणः विशेषेणरममाणःत्वंअधानन्तरं नोस्मान् तुरीयन्तारकं पोष यित्नुपोषकन्तत्प्रसिद्धंरेतः विस्यस्वमोचय यतोविमोचनाद्वीरः स्त्ववान् कर्मण्यः कर्मसुकुशलः सुदक्षः सुबलः युक्तग्रावा अभिषवार्थग्रावयुक्तः सोमसुदित्यर्थः देवकामः देवान् क्रामयमानः पुत्रोजायते जायेत ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Tvaṣṭā**, being well plural ased, give issue to our procreative vigour, whence (a son), manly, devout, vigorous, wielder of the (**Soma**-bruising) stone, and reverencing the gods, may be born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O god Tvaṣṭar, unbind for us this flow of semen and what prospers,  granting (that)  
 from which a hero is born, fit for action and very skilled, who yokes up  the pressing stones and desires the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well pleased with us do thou O God, O Tvastar, give ready issue to our procreant vigour,  
      Whence springs the hero, powerful, skilled in action, lover of Gods, adjuster of the press-stones.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O divine Tvashtri, grant us and send forth this our seed which is to thrive: (the seed) from which a manly son is born able and skilful, who sets to work the press-stones, loving the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du, Gott Tvastri, entbinde uns freigebig den fruchtbaren Samen, aus dem ein tatkräftiger, verständiger Sohn geboren wird, der die Preßsteine in Gebrauch nimmt und die Götter liebt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diesen unsern Samen, welcher Frucht schafft, o du Gott Tvaschtar lass uns huldreich strömen, Durch den ein Sohn, ein thät'ger wohlgesinnter, ein Kelterer und Götterfreund entspringe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А ты, бог  
 Тваштар  

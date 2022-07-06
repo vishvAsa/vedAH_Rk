@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ तू꣡ नो अग्नि꣡र् नयतु प्रजान꣡न्न्  
 अ꣡छा र꣡त्नं देव꣡भक्तं य꣡द् अस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दियउ꣡ष् पिता꣡ जनिता꣡ सत्य꣡म् उक्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 धि॒या । यत् । विश्वे॑ । अ॒मृताः॑ । अकृ॑ण्वन् । द्यौः । पि॒ता । ज॒नि॒ता । स॒त्यम् । उ॒क्ष॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -151,21 +151,21 @@ genre M
 **प्रजानन्** सर्वं जानानः **सः** **अग्निः** **देवभक्तं** देवैः देवनशीलैः स्तोतृभिः संभजनीयम् **अस्य** अग्नेः संबन्धि **यत्** उत्तमं **रत्नं** धनमस्ति तद्रत्नम् **अच्छ** आभिमुख्येन **तु** क्षिप्रं **नः** अस्मान् **नयतु** प्रापयतु । **अमृताः** मरणधर्मरहिताः **विश्वे** सर्वे देवाः **धिया** हविर्वहनलक्षणेन कर्मणा हेतुना **यत्** यमग्निम् **अकृण्वन्** हविषां प्रापयितारमकुर्वन् । यस्य चाग्नेः **द्यौः** **पिता** पालयित्री **जनिता** जनयित्री च । 'अग्ने दिवः सूनुरसि प्रचेताः ' ( ऋ. सं. ३. २५. १ ) इति श्रवणात् । यद्वा । द्यौर्देवनशील आदित्यः पिता जनयिता च ।  ‘ आदित्यादग्निः' इत्याम्नानात् । **सत्यं** यथार्थभूतं तमग्निम् **उक्षन्** । घृताद्याहुतिभिरध्वर्य्वादयः सिञ्चन्ति ॥ देवभक्तम् ।  ‘ भज सेवायाम् । कर्मणि क्तः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः । उक्षन् । उक्ष सेचने'। लङि रूपम् ।  ‘ बहुलं छन्दसि ' इत्यडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that wise **Agni** conduct us to that wealth which is desired by the devout; he whom all the immortals have created for (the performance of) sacred oblations, the most rresplendent, liberate us from all animosities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Agni, knowing (the way), lead us to the treasure, which was  apportioned to him by the gods.  
 (The treasure) which all the immortals created with their insight, which  Father Heaven as begetter (created)—(that) they sprinkled (so it  
 became) real.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b I follow Hoffmann (Injunk., 175) in taking the rel. clause as devábhaktaṃ yád asya, rather than just yád asya with the standard tr. The sense doesn’t differ markedly.
 
@@ -186,28 +186,28 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Agni -for he knows the way- conduct us to all that he enjoys of God-sent riches,  
      What all the Immortals have prepared with wisdom, Dyaus, Sire, Begetter, raining down true blessings.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May this Agni, the knowing one, lead us to the god-given treasure which belongs to him 1. That (treasure) which all the immortals have created by their thought, which Dyaus, the father, the begetter (has created): that real (treasure) they have besprinkled 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni soll uns doch, des Weges kundig, zu dem gottgeschenkten Kleinod führen, das ihm gehört, das alle Unsterblichen, der Vater und Erzeuger Himmel, nach deinem Sinne wahr machten, du Stier.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns führe Agni, der des Weges kundig, zu gottertheiltem Schatze, der ihm eigen Was weisheitsvoll die Götter alle schufen, gewähre Djaus der Vater und Erzeuger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же Агни поведет нас, зная путь,  
 К сокровищу, выделенному богами, которое принадлежит ему,  

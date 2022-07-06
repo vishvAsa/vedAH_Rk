@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र ना꣡हुषीषु आँ꣡  
 ओ꣡जो नृम्णं꣡ च कृष्टि꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सत्रा꣡ वि꣡श्वानि पउं꣡सिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । पञ्च॑ । क्षि॒ती॒नाम् । द्यु॒म्नम् । आ । भ॒र॒ । स॒त्रा । विश्वा॑नि । पौंस्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -115,19 +115,19 @@ genre M
 हे **इन्द्र** **नाहुषीषु** । नहुष इति मनुष्यनाम । तत्संबन्धिनीषु **कृष्टिषु** प्रजासु । आकारः समुच्चये। **यत्** च **ओजः** बलं **नृम्णं** धनं **च** विद्यते । **यद्वा** यच्च **पञ्च** पञ्चानां **क्षितीनाम्** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्च क्षितयः । तेषां स्वभूतं **द्युम्नं** द्योतमानमन्नं तत् सर्वमस्मभ्यम् **आ** **भर** आहर प्रयच्छ । तथा **सत्रा** महान्ति **विश्वानि** सर्वाणि पौंस्यानि बलानि चास्मभ्यमाहर।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever strength and opulence (exist) among human beings, whatever be the sustenance of the five classes of men, bring **Indra** to us, as well (as) all great manly energies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The might and manliness that are in the Nahuṣa territories, Indra, or the brilliance that belongs to the five settlements—bring them here: all  the masculine powers altogether.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The main cl. begins in the middle (or rather towards the end) of pāda c, with ā́bhara. Since this phrase is only 3 syllables, the audience would not mistake the syntactic break for a pāda break despite the extra length of the c-pāda in Bṛhatī.
 
@@ -143,23 +143,23 @@ This pragātha is stitched together by the yád (vā) construction (7a, c, 8a, b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All strength and valour that is found, Indra, in tribes of Nahusas, and all the splendid fame that the Five Tribes enjoy  
      Bring, yea, all manly powers at once.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Stärke, o Indra, und die Manneskraft, die in den nahusischen Stämmen, oder die Herrlichkeit der fünf Völker, alle Manneskräfte insgesamt bring her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was unter Nachbarvölkern ist an Mannheit, Indra, und an Macht, Welch Gut bei den fünf Völkern ist, das bringe her, die Heldenkräfte allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ту мощь, о Индра, что у племен  
 Нахуши, и силу мужества,  

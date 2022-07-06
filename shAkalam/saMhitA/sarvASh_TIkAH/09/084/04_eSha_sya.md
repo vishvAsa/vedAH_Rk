@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ सो꣡मः पवते सहस्रजि꣡द्  
 धिन्वानो꣡ वा꣡चम् इषिरा꣡म् उषर्बु꣡धम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ए꣡न्द्रस्य हा꣡र्दि कल꣡शेषु सीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्दुः॑ । स॒मु॒द्रम् । उत् । इ॒य॒र्ति॒ । वा॒युऽभिः॑ । आ । इन्द्र॑स्य । हार्दि॑ । क॒लशे॑षु । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 **एष** **स्यः** सः **सोमः** **पवते** पूयते । कीदृश एषः । **सहस्रजित्** सहस्रस्य जेता । किं कुर्वन् । **वाचम्** ऋत्विजां स्तुतिरूपां वाचं **हिन्वानः** प्रेरयन् । कीदृशीं वाचम् । **इषिरां** गमनशीलां स्तुत्यं प्रति गन्त्रीम् **उषर्बुधम्** उषसि प्रबुद्धाम् । सोऽयम् **इन्दुः** सोमः **समुद्रं** समुद्रियं रसम् **उदियर्ति** उद्गमयति **वायुभिः** गन्तृभिरध्वर्य्वादिभिः वायुभिरेव वा प्रेर्यमाणः सन् । तथा **इन्द्रस्य** **हार्दि** । हार्दं प्रियम् । तद्धार्दि इन्द्रस्य प्रियवद्यथा भवति तथा **कलशेषु** द्रोणकलशप्रभृतिषु **आ** **सीदति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,34 +139,34 @@ genre M
 I.e., aindrasya hārdi, in such a way that Indra's heart is friendly
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very Soma is purifying himself, thousand-winning, spurring on the  vigorous speech that awakens at dawn.  
 The drop rouses up the sea with his winds; he sits in the heart of Indra in  the tubs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Notice the return of the god Vāyu of 1b in the guise of the common noun ‘wind(s)’ (vāyúbhiḥ) in c, juxtaposed with Indra in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winner of thousands, he, this Soma, flows along, raising a vigorous voice that wakens with the dawn.  
      Indu with winds drives on the ocean of the air, he sinks within the jars, he rests in Indra's heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma läutert sich Tausend gewinnend, die schlagfertige frühwache Rede in Bewegung setzend. Der Saft regt mit den Winden das Meer auf; in Indra´s Herz einziehend setzt er sich in den Krügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erbeutend tausend Güter rieselt Soma hier, die muntre Stimm erhebend, welche frühe wacht, Des Meeres Flut regt Indu durch die Stürme auf, und setzet in die Schüsseln sich für Indra's Bauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот сома очищается, завоевывая тысячи,  
 Торопя могучую речь, пробуждающуюся на заре.  

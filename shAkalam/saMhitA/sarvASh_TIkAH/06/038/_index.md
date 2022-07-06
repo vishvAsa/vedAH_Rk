@@ -8,7 +8,7 @@ title = "+038"
 ‘अपादितः' इति पञ्चर्चं पञ्चदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । ‘अपात्' इत्यनुक्रान्तम् । महाव्रते निष्केवल्य उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (479)  
 Indra  
@@ -18,7 +18,7 @@ The context of this hymn is the morning ritual, and its aim is to attract Indra 
 Especially in the first two verses the poet is coy about reference, and the audience  must guess the subjects of the verbs and the referents of the pronouns until the last  pāda of verse 2.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra The published introduction. states that reference is unclear in the hymn “until the last pāda of vs. 2”; this is somewhat misleading, in that a form of índra- is found in the second pāda of vs. 2 -- though the identity of the other referent there remains cloudy.
 </details>

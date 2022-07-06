@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ग् र꣡थं विश्व꣡वारं त उग्र  
 इ꣡न्द्र युक्ता꣡सो ह꣡रयो वहन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋधीम꣡हि सधमा꣡दस् ते अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 की॒रिः । चि॒त् । हि । त्वा॒ । हव॑ते । स्वः॑ऽवान् । ऋ॒धी॒महि॑ । स॒ध॒ऽमादः॑ । ते॒ । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāg* ← *arvāk*
 - \[adverb\]
@@ -129,20 +129,20 @@ genre M
 हे **उग्र** उद्गूर्णबल **इन्द्र** **युक्तासः** रथेन युक्ताः **हरयः** अश्वा: **ते** त्वदीयं **विश्ववारं** विश्वैर्वरणीयं **रथम्** **अर्वाक्** अस्मदभिमुखं **वहन्तु** आनयन्तु । **हि** यस्मात् **स्वर्वान्**। स्वः सुष्ठु अरणीयं गुणजातम् । तद्वान् **कीरिश्चित्** स्तोता भरद्वाज ऋषिः **त्वा** त्वां **हवते** आह्वयति तस्मात् कारणात् त्वदीयं रथमभिमुखं वहन्त्वित्यर्थः । वयं च **अद्य** इदानीं **ते** त्वया **सधमादः** सह माद्यन्तः **ऋधीमहि** समृद्धा भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, let your harnessed steeds bring down your all-desired chariot; your devoted adorer verily invokes you; may we today, partaking of your exhilaration, increase today (in prosperity).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Close to here let your yoked fallow bays convey your chariot, which  brings all desirable things, mighty Indra,  
 for even the weakling calls upon you, (as well as the man) of solar glory.  Might we achieve success as your feasting companions today.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take svàrvān as implicitly conjoined with kīríḥ, with the pair displaying the range of mortals who call upon Indra. This is one of Oldenberg’s suggestions; alternatively he suggests that it is proleptic, but this seems overly complex — though it seems to underlie Geldner’s interpr.: “denn auch die Arme ruft dich erleuchtet.”
 
@@ -156,23 +156,23 @@ On the shift in referent between the hárayaḥ in 1b (Indra’s horses) and the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET thy Bay Horses, yoked, O mighty Indra, bring thy car hither fraught with every blessing.  
      For thee, the Heavenly, e'en the poor invoketh: may we this day, thy feast-companions, prosper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herwärts sollen deine allbegehrten Wagen die angeschirrten Falben fahren, gewaltiger Indra, denn auch der Arme ruft dich erleuchtet. Wir möchten als deine Trinkgenossen dir heute angenehm sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, mächt'ger Indra, die geschirrten Füchse herfahren deinen reichbeladnen Wagen; Denn dich ja ruft der glanzbegabte Dichter, lass heut gedeihn uns, deine Festgenossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда твою колесницу со всем желанным, о грозный  
 Индра, пусть привезут запряженные буланые кони:  

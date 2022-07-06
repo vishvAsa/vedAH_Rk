@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने श꣡र्धन्तम् आ꣡ गण꣡म्  
 पिष्टं꣡ रुक्मे꣡भिर् अञ्जि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दिव꣡श् चिद् रोचना꣡द् अ꣡धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विशः॑ । अ॒द्य । म॒रुता॑म् । अव॑ । ह्व॒ये॒ । दि॒वः । चि॒त् । रो॒च॒नात् । अधि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -108,42 +108,42 @@ genre M;; repeated line
 हे अग्ने **शर्धन्तं** शत्रूनभिभवन्तं यज्ञायोत्सहमानं वा **गणं** मरुतां गणम् **आ** ह्वयेति शेषः । कीदृशं गणम् । **रुक्मेभिः** रुक्मैः रोचमानैः **अञ्जिभिः** आभरणैश्च **पिष्टम्** अवयवितं युक्तमित्यर्थः । **अद्य** अस्मिन् यागदिने **मरुतां** **विशः** प्रजाः । गणानित्यर्थः । तान् **रोचनात्** रोचमानात् **दिवः** द्युलोकात्। **अधि** इति पञ्चम्यर्थानुवादी। **चित्** पूरणः। **अव** अवस्तादस्मदभिमुखं **ह्वये** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke, **Agni**, the victorious company (of the **Maruts**) decorated with brilliant ornaments; (I invoke them), the people of the Maruts, to descend today from above the shining heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni—the vaunting flock, emblazoned with brilliants, with unguents, the clans of the Maruts I call down here today, even from the luminous  realm of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) supply “bring,” an impv. addressed to Agni, in the first hemistich.
 
 There seems no particularly reason to do so, since the acc. phrase of ab can be construed with áva hvaye in c. Perhaps it’s on the basis of the ā́in pāda a, but this is in the wrong position to be a gapped preverb. I don’t actually know what ā́is doing, but note that in the ring-compositional expressions in vss. 8-9, the ‘call’ verb is construed with ā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, that valorous company adorned with ornaments of gold,  
      The people of the Maruts, I call down to-day even from the luminous realm of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Bring die kraftbewußte Schar, die mit Goldmünzen, mit Zierraten geputzte her! Ich rufe heute die Clane der Marut sogar vom Lichtraum des Himmels herab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, jene kühne Schar, geziert mit Gold und reichem Schmuck, Der Maruts Stämme ruf' ich heute mir herab auch von des Himmels lichtem Raum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, (пригласи) дерзающую толпу,  
 Украшенную золотыми пластинками!  

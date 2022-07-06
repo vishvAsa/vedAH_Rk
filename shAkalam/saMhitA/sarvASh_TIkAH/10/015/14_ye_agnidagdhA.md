@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ अग्निदग्धा꣡ ये꣡ अ꣡नग्निदग्धा  
 म꣡ध्ये दिवः꣡ स्वध꣡या माद꣡यन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यथावशं꣡ तनु꣡वं कल्पयस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तेभिः॑ । स्व॒ऽराट् । असु॑ऽनीतिम् । ए॒ताम् । य॒था॒ऽव॒शम् । त॒न्व॑म् । क॒ल्प॒य॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -104,7 +104,7 @@ popular
 **ये** पितरः **अग्निदग्धाः** अग्निना भस्मीकृताः। श्मशानं प्राप्ता इत्यर्थः । **ये** च पितरः **अनग्निदग्धाः** श्मशानकर्म न प्राप्ताः **मध्ये** **दिवः** द्युलोकस्य मध्ये **स्वधया** हविर्लक्षणेनान्नेन **मादयन्ते** तृप्यन्ति' हे अग्ने **स्वराट्** स्वकर्मोपभोगेन दीप्यमानः **तेभिः** तैः पितृभिः सहितः सन् **असुनीतिं** प्राणानां विषयेषु नेतारमस्मत्पित्रन्तरात्मानम् **एतां** **तन्वम्** एतद्देवताशरीरं **यथावशं** यथाकामं **कल्पयस्व** समर्थयस्व । ग्रासयेत्यर्थः॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,7 +115,7 @@ popular
 Agnidagdhas: those whose bodies have been burnt by the obsequial fire; supreme lord: svarāt. =**Agni**; or **Yama** (**Yajus**. 19.60); asunītim tanvam = the body that leads to life-- a divine body; or long-lived
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those burned by fire and those not burned by fire who become  
 exhilarated at (the cry of) “svadhā” in the middle of heaven,  
@@ -123,23 +123,23 @@ along with them (go) as sovereign king (on the way) leading to (the
 other) life. Arrange your body as you wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who, consumed by fire or not cremated, joy in their offering in the midst of heaven,-  
      Grant them, O Sovran Lord, the world of spirits and their own body, as thy pleasure wills it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die im Feuer verbrannt und nicht im Feuer verbrannt, in der Mitte des Himmels sich der Geisterspeise erfreuen, mit denen geh als freier Herr diesen Weg ins Jenseits! Nimm nach Wunsch einen neuen Leib an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit den verbrannten und den nicht verbrannten, die lustig schwelgen in des Himmels Mitte, Mit denen führ, o Herrscher, diesen Körper zum Geisterreich und bild' ihn nach Gefallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, сожженный Агни, кто несожженный Агни,  
 Посреди неба радуется поминальной жертве, –  

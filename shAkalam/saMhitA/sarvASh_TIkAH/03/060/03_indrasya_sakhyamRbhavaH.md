@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य सख्य꣡म् ऋभ꣡वः स꣡म् आनशुर्  
 म꣡नोर् न꣡पातो अप꣡सो दधन्विरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विष्ट्वी꣡ श꣡मीभिः सुकृ꣡तः सुकृत्य꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सौ॒ध॒न्व॒नासः॑ । अ॒मृ॒त॒ऽत्वम् । आ । ई॒रि॒रे॒ । वि॒ष्ट्वी । शमी॑भिः । सु॒ऽकृतः॑ । सु॒ऽकृ॒त्यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -120,7 +120,7 @@ genre M
 **मनोर्नपातः** मनुष्यस्याङ्गिरसः पुत्राः **अपसः** यागादिलक्षणकर्मवन्तः **ऋभवः** **इन्द्रस्य** **सख्यं** समानख्यानत्वं **समानशुः** सम्यक् प्राप्नुवन् । तथेन्द्रस्य सख्यं प्राप्तास्त ऋभवः **दधन्विरे** । पूर्वं मनुष्यत्वेन मरणयोग्या अपीदानीमिन्द्रस्य सख्येन प्राणान् धारयन्ति । तथा च मन्त्रः - अधारयन्त वह्नयः ' (ऋ. सं. १. २०. ८) इति । **सौधन्वनासः** सुधन्वनामकस्यर्षेः पुत्रा ऋभवः **सुकृतः** शोभनकर्माणः सन्तः प्रभूतैः **शमीभिः** देवत्वप्राप्तिप्रतिबन्धनिवारणहेतुभिः कर्मभिः सुकृत्यया शोभनेन कर्मणा च **विष्ट्वी** व्याप्य **अमृतत्वमेरिरे** देवत्वं प्रापुः । तथा च मन्त्रान्तरमाम्नायते -- ‘ मर्तासः सन्तो अमृतवमानशुः ' ( ऋ. सं. १. ११०. ४ ) इति ॥ नपातः । नभ्राण्नपात! इत्यादिना नञः प्रकृतिभावः । दधन्विरे । धविर्गत्यर्थः । व्यत्ययेनात्मनेपदम् । लिटि रूपम् । ईरिरे ।  ‘ ईर गतौ ' । मन्त्रत्वात् आम् न भवति । निघातः। सुकृत्यया । करोतेर्भावे ‘कृञः श च ' इति क्यप् । प्रत्ययस्य व्यत्ययेनान्तोदात्तत्वम् । समासे कृदुत्तरस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Perpetuated: dadhanvire (as in adhārayanta, RV. 1.202) has no accusative ative; so, aded is: prāṇam, vitality, meaning immortal life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The R̥bhus attained the companionship of Indra. The artisans, the  children of Manu, raced.  
 The sons of Sudhanvan rose to immortality by applying themselves to  their labors, ritually acting well by good ritual action.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Friendship with Indra have the Rbhus, fully gained: grandsons of Manu, they skilfully urged the work.  
      Sudhanvan's Children won them everlasting life, serving with holy rites, pious with noble acts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ribhu´s erlangten des Indra Freundschaft; des Manu Enkel haben als Künstler sich auf die Fahrt begeben. Die Söhne des Sudhanvan haben die Unsterblichkeit erworben, nachdem sie mit rechtem Fleiße gearbeitet hatten, kunstfertig mit Kunstfertigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Indra Freundschaft hat die Ribhuschar erlangt, des Manu Enkel regten sich in schnellem Werk; Unsterblichkeit erlangten die Sudhanvaner, mit Eifer wirkend, künstlerisch mit Künstlerwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рибху полностью добились дружбы Индры.  
 Помчались отпрыски Ману, (искусные) мастера.  

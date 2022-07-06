@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ इ꣡न् निण्यं꣡ हृ꣡दयस्य प्रकेतइः꣡  
 सह꣡स्रवल्शम् अभि꣡ सं꣡ चरन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अप्सर꣡स उ꣡प सेदुर् व꣡सिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒मेन॑ । त॒तम् । प॒रि॒ऽधिम् । वय॑न्तः । अ॒प्स॒रसः॑ । उप॑ । से॒दुः॒ । वसि॑ष्ठाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -120,7 +120,7 @@ popular
 **त** **इत्** त एव वसिष्ठाः **निण्यं** तिरोहितं दुर्ज्ञानम् । ‘निण्यं सस्वः' इत्यन्तर्हितनामसु पाठात् । **सहस्रवल्शं** सहस्रशाखं संसारं **हृदयस्य** **प्रकेतैः** प्रज्ञानैः **अभि** **सं** **चरन्ति** । एवं स्वाच्छन्द्येन' अभिसंचरन्तस्ते **वसिष्ठाः** **यमेन** कारणात्मना सर्वनियन्त्रा **ततं** विस्तृतं **परिधिं** वस्त्रम्। परिधिरित्यनेन जन्मादिप्रवाहो विवक्षितः । तं **वयन्तोऽप्सरसः** जननीत्वेन **उप** **सेदुः** । अत्र वसिष्ठा इति बहुवचनं पूजायाम् । वसिष्ठः पूर्वं प्रजापतेरुत्पन्नं देहमुत्सृज्याप्सरःसु जायेयेति बुद्धिमकरोदिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ The hidden thousand-branched world: niṇyamsahasravalśam abhisañcaranti, they
 Yamena = sarvaniyantrā, by the restrainer or regulator of all; kāraṇātmanā, identical with cause,that is, by acts, as the causes of vital condition; the garb paridhim, vastram, spread, tatam, by him, is herevolution of life and death; janmādipravāhāḥ, weavin, vayantaḥ; connecting this with **apsarasaḥ**, the myphs,or, the nymph Urvaśī, who sat down or approached in the capacity of a mother, jananitvena, wearing thatvesture which he was destined by former nets to wear
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Only they converge upon the thousand-twigged secret with the insights  of their heart.  
 Weaving the covering (garment) stretched by Yama, they reverently  approached the Apsarases—the Vasiṣṭhas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the weaving, see published introduction. and vs. 12c, as well as comm. ad vs. 14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They with perceptions of the heart in secret resort to that which spreads a thousand branches.  
      The Apsaras brought hither the Vasisthas wearing the vesture spun for them by Yama.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie dringen nach den Ahnungen ihres Herzens in das tausendfach verzweigte Geheimnis ein. Während die an dem von Yama aufgespannten Rahmen weiter weben, verehren die Vasistha´s die Apsarasen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie sind es, die mit Einsicht eindringen in des Herzens tausendfach verzweigtes Gehcimniss, den Aufzug webend, den einst Jama spannte, umsassen die Vasischtha's die Apsarasen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это они озарениями сердца приближаются  
 К тайне с тысячей ветвей.  

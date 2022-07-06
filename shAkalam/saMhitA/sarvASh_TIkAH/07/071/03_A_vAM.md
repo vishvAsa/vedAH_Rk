@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थम् अवम꣡स्यां वि꣡उष्टौ  
 सुम्नाय꣡वो वृ꣡षणो वर्तयन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ अश्विना व꣡सुमन्तं वहेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्यूम॑ऽगभस्तिम् । ऋ॒त॒युक्ऽभिः॑ । अश्वैः॑ । आ । अ॒श्वि॒ना॒ । वसु॑ऽमन्तम् । व॒हे॒था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,37 +110,37 @@ genre M
 **अवमस्याम्** आसन्नायां **व्युष्टौ** व्युच्छन उषसि **वां** युवयोः **रथं** **सुम्नायवः** सुखेन योजयन्तोऽश्वाः **वृषणः** वर्षका युवाम् **आ** **वर्तयन्तु** । **स्यूमगभस्तिं** सुखरश्मिं स्यूतरश्मिं **वसुमन्तं** प्रदेयधनयुक्तं रथं हे **अश्विना** अश्विनौ **ऋतयुग्भिः** उदकयुक्तैः **अश्वैः** उदकप्रदैरश्वैः **आ** **वहेथाम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your docile and vigorous (horses) bring hither your chariot at the approaching dawn; conducthither, **Aśvins**, your radiating, wealth-laden chariot, with your rain-bestowing steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your bulls [=horses], showing us favor, turn your chariot here at the  nearest dawn.  
 Convey here your (chariot) bearing good things, for which the hands  (of the priests?) are its reins, with its horses in the harness of truth,  
 Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May your strong horses, seeking bliss, bring hither your chariot at the earliest flush of morning.  
      With coursers yoked by Law drive hither, Asvins, your car whose reins are light, laden with treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen sollen am jüngsten Morgen die wohlwollenden Bullen, die Hengste herfahren. Lenket, ihr Asvin, den gutreichen Wagen, bei dem die Zügel die Hände, die Strahlen sind, mit den zu rechter Zeit geschirrten Rossen her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die lieben Hengste mögen euren Wagen herbei nun rollen in der jüngsten Dämmrung, Der güterreich mit Riemenwerk versehn ist, den fahret her mit wohlgeschirrten Rossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть на самом раннем рассвете вашу колесницу  
 Прикатят благожелательные бычьи (кони)!  

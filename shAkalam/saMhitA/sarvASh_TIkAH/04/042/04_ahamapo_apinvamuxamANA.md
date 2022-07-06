@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् अपो꣡ अपिन्वम् उक्ष꣡माणा  
 धार꣡यं दि꣡वं स꣡दन ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ त्रिधा꣡तु प्रथयद् वि꣡ भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒तेन॑ । पु॒त्रः । अदि॑तेः । ऋ॒तऽवा॑ । उ॒त । त्रि॒ऽधातु॑ । प्र॒थ॒य॒त् । वि । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -112,7 +112,7 @@ genre M
 **अहम्** एव **उक्षमाणाः** सिञ्चतीः **अपः** **अपिन्वम्** असेचयम् । तथा **ऋतस्य** उदकस्य आदित्यस्य वा **सदने** स्थाने निमित्ते सति **दिवं** द्युलोकं **धारयम्** । यद्वा । उदकाधारे स्थाने दिवमादित्यं धारयम् । अहमेव **ऋतेन** उदकेन निमित्तेन **अदितेः** **पुत्रः** **ऋतावा** अभूवम् । **उत** अपि च **भूम** व्याप्तमाकाशं **त्रिधातु** त्रिप्रकारं **वि** विशेषेण **प्रथयत्** । मदर्थमेव क्षित्यादिलोकत्रयमकार्षीत् परमेश्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 As the abode of the water: sadane ṛtasya may imply, for the plural ce or sphere of the sun, the word ṛta is used for **udaka** or **āditya**; illustrating the three-fold elementary space: i.e., for me the creator has made the **three worlds**, madartham eva kṣityādilokatrayam akārśit **parameśvaraḥ**; or, simply, the earth with three ore-elements, tridhātu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I swelled the splashing (and mounting) waters; I upheld heaven on the  seat of truth.  
 Through the truth the son of Aditi possesses the truth, and he spread  wide the threefold earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I made to flow the moisture-shedding waters, and set the heaven firm in the scat of Order.  
      By Law the Son of Aditi, Law Observer, hath spread abroad the world in threefold measure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich ließ die triefenden Gewässer anschwellen, im Sitz des ewigen Gesetzes halte ich den Himmel. Nach dem Gesetz ist der Sohn der Aditi der gesetzmäßige Herr und er hat die Erde dreifach verbreitert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich liess die triefenden Gewässer schwellen, befestigte im heil'gen Sitz den Himmel; Der heilige Aditja hat gebreitet durch heil'ges Werk den dreigetheilten Weltraum.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я сделал набухшими текучие воды,  
 Я поддержал небо в сидении закона.  

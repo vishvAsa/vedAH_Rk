@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमी꣡षां चित्त꣡म् प्रतिलोभ꣡यन्ती  
 गृहाणा꣡ङ्गानु अपुवे प꣡रेहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्धे꣡नामि꣡त्रास् त꣡मसा सचन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 अ॒भि । प्र । इ॒हि॒ । निः । द॒ह॒ । हृ॒त्ऽसु । शोकैः॑ । अ॒न्धेन॑ । अ॒मित्राः॑ । तम॑सा । स॒च॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amīṣāṃ* ← *amīṣām* ← *adas*
 - \[noun\], genitive, plural, masculine
@@ -116,7 +116,7 @@ popular;; repeated line
 हे **अप्वे** पापाभिमानिनि देवते **अमीषां** योद्धृणां शत्रूणां **चित्तं** **प्रतिलोभयन्ती** विमोहयन्ती सती **अङ्गानि** तेषामवयवान् शिरआदिकान् गृहाण स्वीकुरु। **अभि** **प्रेहि** **अभिगच्छ**। तेषां समीपं गत्वा च **हृत्सु** हृदयेषु **शोकैः** **निर्दह** नितरां भस्मीकुरु । ते **अमित्राः** अस्मच्छत्रवः **अन्धेन** **तमसा** **सचन्तां** संगच्छन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ popular;; repeated line
 Apva: a goddess, apvepapābhimānini devate; or, sickness or fear; or, apiva: from apavi = who deprives of enjoyment (**Nirukta**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Confusing the perception of those yonder, seize their limbs, o Lady  Panic, and go away.  
 Go forth against them; with flames burn them in their hearts. Let those  without alliance keep company with blind darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bewildering the senses of our foemen, seize thou their bodies and depart, O Apva.  
      Attack them, set their hearts on fire and burn them: so let our foes abide in utter darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jener Sinn verwirrend, pack, Apva, ihre Glieder und geh mit ihnen ab! Geh drauf, versenge sie in ihrem Herzen mit Glut; die Feinde sollen in der stockdunklen Finsternis stecken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Krankheit, fliehe fort zu jenen Feinden, den Sinn betäubend, ihre Glieder packend; Zu ihnen geh und brenn ihr Herz mit Flammen; es mag der Feind in blindem Dunkel weilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

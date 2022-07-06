@@ -24,7 +24,7 @@ title = "+122"
 अथ द्वितीयाष्टके प्रथमोऽध्यायः आरभ्यते । शतर्चिनामाद्ये मण्डले चतुर्विंशत्यनुवाकाः । तेषु  ‘ कदित्था ' इति अष्टादशानुवाके षट् सूक्तानि । तत्र ‘ प्र वः पान्तम्' इति द्वितीयं सूक्तम् ।  ‘ पञ्चोना' इति अनुवर्तमानात् पञ्चदशर्चम् ।  ‘ ऋषिश्चान्यस्मादृषेः' इति परिभाषया कक्षीवानृषिः । अनादेशपरिभाषया त्रिष्टुप् । विश्वे देवा देवता । ‘प्र वो वैश्वदेवम्' इत्यनुक्रमणिका । अस्य विशेषविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 122  
 All Gods  
@@ -35,7 +35,7 @@ is appropriate for the following dānastuti, since the priestly gifts (dakṣi�
 The dānastuti is filled with personal names, and, as often, it is difficult to disen tangle the relationships among them. In fact it appears that we may be dealing with  competing potential patrons, each praised for a fleeting moment for his generosity  until a larger prize from a different patron is in the offing. In verse 12 the poet seems  to be inviting this competition, promising to act as a kind of kingmaker for whom ever he gets as patron, and in the difficult verse 13 the poet may be suggesting that  patrons with goods to offer are attempting to surpass competing patrons with their  largesse. This interpretation remains uncertain, however.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

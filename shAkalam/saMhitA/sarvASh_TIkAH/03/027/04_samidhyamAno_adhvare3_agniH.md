@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समिध्य꣡मानो अध्वरे꣡  
 अग्निः꣡ पवाक꣡+ ई꣡डियः  
 शोचि꣡ष्केशस् त꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 शो॒चिःऽके॑शः । तम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhyamāno* ← *samidhyamānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -76,41 +76,41 @@ genre M
 यः **अग्निः** **अध्वरे** यज्ञे **समिध्यमानः** घृताज्याहुतिभिः सम्यक् प्रज्वल्यमानः अत एव **शोचिष्केशः** ज्वालाकेशः **पावकः** शोधकः **ईड्यः** स्तोतृभिः प्रशस्यो भवति **तम्** इममभिमतफलार्थम् **ईमहे** वयं याचामहे ॥ ईड्यः । ‘ ईड स्तुती ' इत्यस्माण्ण्यत् । अस्य ‘ तित्स्वरितम् । इति स्वरितत्वे प्राप्ते 'ईडवन्द ' इत्यादिना आद्युदात्तत्वम् । ईमहे । ई कान्त्यादिषु । अयं धातुरत्र याच्ञार्थः । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit that **Agni**, who is being kindled at the sacrifice, the purifier, the adorable, whose hair is flame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being kindled in the rite, the purifying Agni to be summoned,  
 he with flaming hair—him do we beg.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kindled at sacrifices he is Agni, hallower, meet for praise,  
      With flame for hair: to him we seek.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, inflamed at the sacrifice, the purifier who should be magnified, whose hair is flame—him we approach (with prayers).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei der Opferhandlung entzündet ist der lautere Agni mit den Flammenhaaren anzurufen - an ihn wenden wir uns.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der helle Agni wird entflammt, beim Opferfest des Preises werth, Den flammenhaar'gen flehn wir an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигаемый во время обряда  
 Агни, очищающий, достойный призывов,  

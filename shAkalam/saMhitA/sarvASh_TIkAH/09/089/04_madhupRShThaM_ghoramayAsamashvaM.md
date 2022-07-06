@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धुपृष्ठं घोर꣡म् अया꣡सम् अ꣡श्वं  
 र꣡थे युञ्जन्ति उरुचक्र꣡ ऋष्व꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡नाभयो वाजि꣡नम् ऊर्जयन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वसा॑रः । ई॒म् । जा॒मयः॑ । म॒र्ज॒य॒न्ति॒ । सऽना॑भयः । वा॒जिन॑म् । ऊ॒र्ज॒य॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhupṛṣṭhaṃ* ← *madhu*
 - \[noun\], neuter
@@ -113,37 +113,37 @@ genre M
 **मधुपृष्ठं** मधुरपृष्ठभागं **घोरं** भयानकम् **अयासं** गन्तारम् **ऋष्वं** दर्शनीयमुक्तलक्षणाश्वस्थानीयं व्याप्तं सोमम् **उरुचक्रे** प्रभूतचक्रे **रथे** यथाश्वं रथे **युञ्जन्ति** रथिकास्तद्वत् प्रभूतचरणे रथे रंहस्य साधने यज्ञाख्ये रथे युञ्जन्ति । योजयन्त्यध्वर्य्वादयः । किंच **ईम्** एनं सोमं **स्वसारः** स्वयंसारिण्यः परस्परं स्वसृभूता वा **जामयः** बन्धुभूता अङ्गुलयः । एकहस्तनिष्पन्नत्वात् स्वसृत्वं जामित्वं च । एवंभूताः **मार्जयन्ति** शोधयन्ति । तदेवाह । **सनाभयः** समानबन्धनाः **वाजिनं** बलवन्तं सोमम् **ऊर्जयन्ति** बलिनं कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The priests) attach to the broad-wheeled car the glossy-backed terrible active graceful horse; the sister fingers cleanse him; the kinsfolk invigorate the mighty (**Soma**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The honey-backed, terrible, unbridled horse—they yoke that towering  one to the wide-wheeled chariot.  
 His sisters, his kin, groom him. Those who share an umbilical bond  
 nourish the prizewinner.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They harness to the broad-wheeled car the mighty Courser whose back bears meath, unwearied, awful.  
      The twins, the sisters brighten him, and strengthen-these children of one damethe vigorous Racer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das furchtbare Roß mit der Süßigkeit auf dem Rücken, das unverzagte spannen sie an den breiträdrigen Wagen, das überragende. Die gesippten Schwestern putzen ihn heraus, die Blutsverwandten stärken den Preisgewinner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie schirren an den Wagen, breit an Rädern, den hohen, hehren, milchbedeckten Renner, Es striegeln ihn die blutsverwandten Schwestern, die gleichentstammten kräftigen, den schnellen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страшного неутомимого коня с медом на спине  
 Они запрягают в колесницу с широкими колесами, (его) огромного.  

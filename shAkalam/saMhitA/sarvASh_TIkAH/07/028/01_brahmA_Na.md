@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मा ण इन्द्र उ꣡प याहि विद्वा꣡न्  
 अर्वा꣡ञ्चस् ते ह꣡रयः सन्तु युक्ताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡कम् इ꣡च् छृणुहि विश्वमिन्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । चि॒त् । हि । त्वा॒ । वि॒ऽहव॑न्त । मर्ताः॑ । अ॒स्माक॑म् । इत् । शृ॒णु॒हि॒ । वि॒श्व॒म्ऽइ॒न्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmā* ← *brahman*
 - \[noun\], accusative, plural, neuter
@@ -135,42 +135,42 @@ genre M
 हे **इन्द्र** त्वं **विद्वान्** जानन् **नः** अस्माकं **ब्रह्म** स्तोत्रं **उप** **याहि** । **ते** तव **हरयः** अश्वाश्च **अर्वाञ्चः** अस्मदभिमुखाः **युक्ताः** **सन्तु**। हे **विश्वमिन्व** विश्वप्रीणयितरिन्द्र **त्वा** त्वां **विश्वे** सर्वे **मर्ताः** मनुष्याः **चित्** **हि** यद्यपि **विहवन्त** पृथग्हवन्ते तथापि **अस्माकमित्** अस्माकमेव हवं **शृणुहि** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who are wise, come to our adoration; let your horses harnessed be before us; gratified of all(men), all mortals severally invoke you; hear, therefore, our (invocation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive up to our sacred formulations, Indra, as knowing one. Let your  yoked fallow bays be turned our way,  
 for although all mortals vie in invoking you, listen only to us, o  
 all-impeller.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich begins and ends with a form of víśva- ‘all’: #víśve … viśvam(-inva)#.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME to our prayers, O Indra, thou who knowest: let thy Bay Steeds be yoked and guided hither.  
      Though mortal men on every side invoke thee, still give thine ear to us, O All-impeller.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, zu unserem Zuspruch als Kenner; deine geschirrten Falben sollen die Richtung hierher nehmen. Zwar rufen dich alle Sterblichen um die Wette. Erhöre unseren Ruf, du Allbeweger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unsern Sprüchen komm, o Indra, achtsam und lenke her die angeschirrten Füchse; Wol rufen hier und dort dich alle Menschen, doch uns vor allen höre, Allerfreuer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди на наши священные слова, о Индра, как знаток!  
 К нам пусть направятся твои запряженные буланые кони -  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पवि꣡त्रे विचक्षणो꣡  
 ह꣡रिर् अर्षति धर्णसिः꣡  
 अभि꣡ यो꣡निं क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । योनि॑म् । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सः** **सोमः** **विचक्षणः** । पश्यतिकर्मैतत् । सर्वस्य द्रष्टा **हरिः** हरितवर्णः सोमः **धर्णसिः** सर्वस्य धारकः **पवित्रे** **अर्षति** गच्छति । पश्चात् **कनिक्रदत्** शब्दं कुर्वन् **योनिं** स्थानं द्रोणकलशम् **अभि** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The all-beholding **Soma**, green-tinted, all-sustaining rush to the filter (and thence) crying aloud to the pitcher.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the tawny one, wide-gazing, rushes steadily into the filter,  
 continually neighing toward his womb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-sighted, tawny-coloured, he flows to the sieve, intelligent,  
      Bellowing, to his place of rest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der hellsehende Falbe rinnt ausdauernd auf die Seihe, brüllend auf seine Wiege zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitblickend rennt der goldne Hengst zur Seihe hin, der kräftige, Entgegenwiehernd seinem Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

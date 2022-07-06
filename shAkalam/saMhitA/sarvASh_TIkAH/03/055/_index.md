@@ -8,7 +8,7 @@ title = "+055"
 ‘ उषसः पूर्वाः' इति द्वाविंशत्यृचं द्वितीयं सूक्तं त्रैष्टुभम् । 'उषसः' इत्यनुक्रमणिका । प्रजापतेरार्षं वैश्वदेवं ‘ प्रजापतिर्हि वैश्वदेवं ह” इति पूर्वसूक्ते हिहशब्दप्रयोगात्। सूक्तविनियोगो लैङ्गिकः । अत्राद्योषस्या ततः परं नवर्चोऽग्न्यादिदेवतास्ततः परा अहोरात्रदेवताका ततश्चतस्रो रोदस्योः पञ्चदशी द्युनिशोर्वा षोडशी दिग्देवताका ततः षड़ृचो वर्षत इन्द्रस्य केचिदग्नेस्त्वष्टुश्चेति मन्यन्ते ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 55 (289)  
 All Gods  
@@ -21,7 +21,7 @@ Not all the referents are clear in these riddling verses, and in some verses sev
 somian), or a prefiguring of Indra. Commentators differ in their identifications,  and those given in brackets here are sometimes provisional.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods As noted in the published introduction, this hymn is notable for its refrain, “great is the one and only lordship of the gods” (mahád devā́nām asuratvám ékam), with its juxtaposition of devá- and ásura-.
 </details>

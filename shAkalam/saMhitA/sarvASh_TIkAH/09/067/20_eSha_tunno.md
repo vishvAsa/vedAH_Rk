@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ तुन्नो꣡ अभि꣡ष्टुतः  
 पवि꣡त्रम् अ꣡ति गाहते  
 रक्षोहा꣡ वा꣡रम् अव्य꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 र॒क्षः॒ऽहा । वार॑म् । अ॒व्यय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **तुन्नः** । तुद व्यथने । ग्रावभिरभिव्यथितः सुतः अत एव सर्वैः **अभिष्टुतः** **एषः** अस्मदीयः सोमः **रक्षोहा** कर्मविघ्नकारिणां रक्षसां पापानां वा हन्ताभवत् । **अव्ययम्** अविमयमव्यवयवभूतं **वारं** वालं तेन कृतं **पवित्रं** दशापवित्रम् **अति** अतिक्रम्य **गाहते** द्रोणकलशं प्रविशति ॥ ॥१६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Soma**), bruised (with the stones), and praised by (all), the slayer of **rākṣasas**, plural nge through the woollen filter (into the vessel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, pounded, bepraised, plunges across the filter,  
 the sheep’s fleece, as demon-smasher.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pavítram áti gāhate / … vā́ram avyáyam “he plunges across the filter, the sheep’s fleece.” As for the fleece as Soma’s armor, see the very full expression in IX.98.2 pári ṣyá svānó avyáyam ráthe ná vármāvyata “This one, being pressed, has engirded himself in the sheep's fleece, as a man on a chariot does in armor.” Ober (II.77) also considers the armor to be the fleece.
 
@@ -104,23 +104,23 @@ This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This juice bruised by the pressing-stones and lauded passes through the sieve,  
      Slayer of demons, through the fleece.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser taucht mit Lobgesang zerstoßen unten durch die Seihe hindurch, durch das Schafhaar, die Unholde tötend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gestossen und besungen taucht sich dieser in der Seihe Netz, Der Bösen Feind ins Widderhaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот разбитый восхваленный  
 Ныряет сквозь цедилку,  

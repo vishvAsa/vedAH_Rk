@@ -8,7 +8,7 @@ title = "+080"
 ‘नह्यन्यम्' इति दशर्चमेकादशं सूक्तम् । अत्रेयमनुक्रमणिका--' न ह्यन्यं दशैकद्यूर्नौधसो गायत्रेऽन्त्या दैवी त्रिष्टुप्' इति । एकद्यूर्नाम नोधसः पुत्र ऋषिः । अन्त्या त्रिष्टुप् । सा च देवदेवत्या शिष्टा गायत्र्य ऐन्द्र्यः । द्वितीये पर्याये मैत्रावरुणशस्त्र आदितोऽष्टर्चः । सूत्रितं च - ' नह्यन्यं बळाकरमित्यष्टौ ' (आश्व. श्रौ. ६. ४) इति । महाव्रते निष्केवल्ये गायत्रतृचाशीतावाद्या विनियुक्ता । तथा च पञ्चमारण्यके शौनकः -' नह्यन्यं बळाकरमित्येतां प्रत्यवदधाति' (ऐ. आ. ५, २. ३) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 80 (689)  
 Indra (1–9), Gods (10)  
@@ -19,7 +19,7 @@ The poet seems to be withholding his highest praise for Indra until Indra has  e
 In the final verse, in a different meter, the poet names himself and reminds all the  gods (and goddesses, an unusual inclusion) that he has performed service for them,  demanding appropriate recompense.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

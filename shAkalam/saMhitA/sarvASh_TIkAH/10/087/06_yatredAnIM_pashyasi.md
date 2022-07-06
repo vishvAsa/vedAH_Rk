@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रेदा꣡नीम् प꣡श्यसि जातवेदस्  
 ति꣡ष्ठन्तम् अग्न उत꣡ वा च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् अ꣡स्ता विध्य श꣡रुवा शि꣡शानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । वा॒ । अ॒न्तरि॑क्षे । प॒थिऽभिः॑ । पत॑न्तम् । तम् । अस्ता॑ । वि॒ध्य॒ । शर्वा॑ । शिशा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatredānīm* ← *yatrā* ← *yatra*
 - \[adverb\]
@@ -128,35 +128,35 @@ popular
 हे **जातवेदः** उत्पन्नप्रज्ञ **अग्ने** त्वं **यत्र** पृथिव्यां **तिष्ठन्तम्** **उत** अपि च **चरन्तं** **यद्वान्तरिक्षे** **पथिभिः** आकाशमार्गेः **पतन्तं** गच्छन्तं यातुधानम् **इदानीं** संप्रति **पश्यसि** **तं** यातुधानम् **अस्ता** शराणां क्षेप्ता त्वं **शिशानः** शरांस्तीक्ष्णीकुर्वन् **शर्वा** शरेण **विध्य** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wherever you now behold him, **Agni** **Jātavedas**, whether standing or moving, or passing along thepaths in the firmament, do you, O shooter sharpening (your arrows), transfix him with your shaft.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When now you see him standing still or moving about, o Agni Jātavedas, or flying along the paths in the midspace, as archer pierce him with  your missile, sharpening it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where now thou seest Agni Jatavedas, one of these demons standing still or roaming,  
      Or flying on those paths in air's midregion, sharpen the shaft and as an archer pierce him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo du ihn jetzt stehen oder gehen siehst, Agni Jatavedas, oder auf den Wegen durch die Luft fliegen, da triff ihn als Schütze mit deinem Geschoß scharf schießend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo du ihn siehst nun stehen oder gehen, siehst du ihn fliegen auf der Lüfte Bahnen, O Wesenkenner Agni, dann als Schütze durchbohre ihn mit deinem Pfeil, dem scharfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где ты сейчас увидишь, Джатаведас,  
 Что он стоит, о Агни, или же бродит,  

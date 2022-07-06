@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्न आदितिया꣡स आसि꣡यं  
 तुवां꣡ जिह्वां꣡ शु꣡चयश् चक्रिरे कवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवे꣡ देवा꣡ हवि꣡र् अदन्ति आ꣡हुतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्वाम् । रा॒ति॒ऽसाचः॑ । अ॒ध्व॒रेषु॑ । स॒श्चि॒रे॒ । त्वे इति॑ । दे॒वाः । ह॒विः । अ॒द॒न्ति॒ । आऽहु॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -124,46 +124,46 @@ genre M;; repeated line
 हेअग्ने त्वांआदित्यासः अदितेःपुत्राइन्द्रादयः आस्यंस्वकीयम्मुखम्भक्षणपानादिसाधनं चक्रिरइतिव- क्ष्यमाणेनसम्बन्धः तथा हेकवे क्रान्तप्रज्ञ त्वामेवशुचयः शुद्धादीप्तावादेवाजिह्वांस्वकीयजिह्वास्था- नीयमास्वादनसाधनञ्चक्रिरे त्वन्मुखेनैवभक्षयन्ति त्वज्जिह्वयैवास्वादयन्तीत्यर्थः तथा त्वामेवराति- षाचः रातिर्दानन्दत्तंहविरादिधनंवा तेनसमवेताः देवाः अध्वरेषुयज्ञेषुसश्चिरे सेवन्ते त्वामेवप्रतीक्षन्ते विनात्वयास्वेषांहविर्भक्षणायोगात् एवङ्कृत्वात्वेत्वयिदेवाः सर्वे आहुतंसर्वतोदत्तंहविरदन्तिभक्षयन्ति एवंसर्वदेवोपकारिणम्महानुभावं स्तौमीत्यर्थः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Ādityas** have made you, **Agni**, their mouth; the pure (deities) have made you, **Kavi**, their tongue; the (gods), the givers of wealth, depdn upon you at sacrifices; they eat the offered oblation through you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, did the Ādityas make their mouth; you did the pure ones  make their tongue, o poet.  
 You do the Gift-Escorts escort in the ceremonies; in you do the gods  eat the poured oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relevant construction in d is probably tvé … ā́hutam “poured into you,” as it is in the even further distracted identical phrase in 14ab. The tr. of 13d should be corrected to “the gods eat the oblation poured into you.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, Agni, have the Adityas taken as their mouth; the Bright Ones have made thee, O Sage, to be their tongue.  
      They who love offerings cling to thee at solemn rites: by thee the Gods devour the duly offered food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Âdityas have made thee, O Agni, their mouth; the bright ones have made thee their tongue, O Sage. The Râti-sâk gods (i. e. the 'bounteous' gods) accompany thee at the sacrifices. In thee the gods eat the offering which is offered to them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, haben die Aditya´s zu ihrem Munde, dich die lauteren zu ihrer Zunge gemacht, o Seher. Dir folgen die von Gaben Begleiteten zum Opfer; in dir verzehren die Götter die geopferte Spende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu ihrem Munde machten die Aditja's dich, die glänzenden zur Zunge, weiser Agni, dich; Die Spendegötter folgten bei den Opfern dir; in dir geniessen Götter den geweihten Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, Адитьи (сделали своими) устами,  
 Тебя чистые сделали (своим) языком, о поэт.  

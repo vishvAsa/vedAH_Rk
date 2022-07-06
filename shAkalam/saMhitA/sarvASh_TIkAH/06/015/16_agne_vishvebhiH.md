@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वि꣡श्वेभिः सुअनीक देवइ꣡र्  
 ऊ꣡र्णावन्तम् प्रथमः꣡ सीद यो꣡निम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञं꣡ नय य꣡जमानाय साधु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कु॒ला॒यिन॑म् । घृ॒तऽव॑न्तम् । स॒वि॒त्रे । य॒ज्ञम् । न॒य॒ । यज॑मानाय । सा॒धु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 हे **स्वनीक** सुज्वाल **अग्ने** **विश्वेभिः** विश्वैः सर्वैः **देवैः** सह **ऊर्णावन्तम्** ऊर्णास्तुकावन्तं **योनिम्** उत्तरवेदिलक्षणं स्थानं **प्रथमः** सर्वेषु देवेषु मुख्यस्त्वं **सीद** उपविश। कीदृशं योनिम् । **कुलायिनम्** । कुलायो नीडम् । तत्सदृशं गुग्गुल्वादिसंभारेणोपेतम् । तथा च श्रूयते -- ' कुलायमिव ह्येतद्यज्ञे क्रियते यत्पैतुदारवाः परिधयो गुग्गुलूर्णास्तुकाः सुगन्धितेजनानि ' (ऐ. ब्रा. १. २८) इति । **घृतवन्तं** व्याघारणाज्ययुक्तम् । एवमुत्तरवेद्यां निषण्णस्त्वं **सवित्रे** हविषां प्रेरयित्रे **यजमानाय** । षष्ठ्यर्थे चतुर्थ्येषा । ईदृशस्य यजमानस्य **यज्ञं** **साधु** आर्जवेन **नय** देवान् प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,37 +124,37 @@ genre M
 Lined with wool: urṇāvantam, kulāyinam ghṛtavantam; the ṛca is quoted in **Aitareya** Brāhman.a; the altar is bult up like the nest of a brid, kulaya, with circles, padhayaḥ, of the wood of the khayar or **devadāru**, in which aviṣambandaḥ romaviśeṣaḥ, sheep's wool; and fragran resins, the materials of incense (**guggulu** dhupāt dhanam) are plural ced, ete uttaravedyām sthāpitaḥ, these appurtenances are plural ced in the northern altar. Of the protector of oblation: savitre yajamānāya = (in genitive tive case) ṣaṣṭyarthe caturthyeṣa; anuṣṭātre yajamānāya tadupakārārtham, for the sake of the benefit of the sacrificing instrumental tutor of the ceremony
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni of the lovely face, with all the gods sit first on the  
 woolly womb,  
 the ghee-rich one that forms a nest. Lead the sacrifice straight, for the  impeller (of the sacrificer), for the sacrificer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase “wooly womb” (ū́rṇāvantam yónim) is striking as a designation of Agni’s seat. Geldner (n. 16b) thinks it refers to the barhis, but in fact the fire is not placed on that dry grass, which might produce a conflagration disruptive to the ritual.
 
 I think it must rather refer to twigs and foliage still present on the firewood. In agreement with Geldner (who is hesitant -- see n. 16c) and Renou, I see a verseinternal enjambment: the two accusatives directly after the hemistich boundary, kulāyínaṃ ghṛtávantam, qualify yónim, which ends pāda b; then there is a syntactic break in the middle of the pāda, with dat. savitré construed with d, not c. This is unusual, but it is difficult to find a function for savitré in the preceding clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Together with all Gods, O fair-faced Agni, be seated first upon the woollined altar,  
      Nest-like, bedewed with oil. Bear this our worship to Savitar who sacrifices rightly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schöngesichtiger Agni! Mit allen Göttern setze dich als erster auf den wolligen Schoß, den nestartigen, schmalzreichen! Zu Savitri geleite das Opfer richtig für den Opfernden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, mit allen Göttern setze dich, o schöner, zuerst in den wollenweichen Schooss hin, in den fettbegabten, der einem Neste gleicht; das Opfer führe auf rechtem Wege dem opfernden Antreiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, вместе со всеми богами, о прекрасноликий,  
 Первым сядь на лоно из шерсти,  

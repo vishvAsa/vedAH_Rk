@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खायः क्र꣡तुम् इछत  
 कथा꣡ राधाम शर꣡स्य  
 उ꣡पस्तुतिम् भोजः꣡ सूरि꣡र् यो꣡ अ꣡ह्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; line affected by realignment
 उप॑ऽस्तुतिम् । भो॒जः । सू॒रिः । यः । अह्र॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
@@ -84,7 +84,7 @@ genre M;; line affected by realignment
 हे **सखायः** ऋत्विजोऽध्वर्य्वादयः **क्रतुं** कर्म इन्द्रसंबन्धिनम् **इच्छत** कर्तुम् । हे सखायः **शरस्य** । ‘शॄ हिंसायाम्' । हिंसकस्येन्द्रस्य **कथा** कथं **राधाम** साधयाम । किम् । उपस्तुतिं स्तोत्रम् । **यः** इन्द्रः **भोजः** शत्रूणां भोजयिता **सूरिः** प्रेरकः **अह्रयः** अनवनतः शत्रूणामिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,30 +95,30 @@ genre M;; line affected by realignment
 Therecompenser: **bhojaḥ** = śatrūṇām bhojayitā; (RV 8.3.24): the despoiler of enemies; (RV 2.14.10): phalasyadātāram rakṣitāram ca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O comrades, find the resolve: how shall we bring to success our  
 invocatory praise of Śara,  
 who is a benefactor, a patron without restraint?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O my companions, wish for power. How may we perfect Sara's praise,  
      The liberal princely patron, never to be harmed?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Freunde, suchet einen klugen Gedanken! Wie können wir das Lob des Sara treffen, der ein gastfreier nobler Herr ist, dessen man sich nicht zu schämen braucht?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Freunde, erstrebt Begeisterung: Wie vollenden wir das Lob des Çara, welcher ein freigiebiger, reichlich schenkender Herr ist?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

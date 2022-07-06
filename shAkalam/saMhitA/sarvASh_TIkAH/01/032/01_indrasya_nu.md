@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य नु꣡ वीरि꣡याणि प्र꣡ वोचं  
 या꣡नि चका꣡र प्रथमा꣡नि वज्री꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ वक्ष꣡णा अभिनत् प꣡र्वतानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अह॑न् । अहि॑म् । अनु॑ । अ॒पः । त॒त॒र्द॒ । प्र । व॒क्षणाः॑ । अ॒भि॒न॒त् । पर्व॑तानाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -132,7 +132,7 @@ genre M
 **वज्री** वज्रयुक्तः इन्द्रः **प्रथमानि** पूर्वसिद्धानि मुख्यानि वा **यानि** **वीर्याणि** पराक्रमयुक्तानि कर्माणि **चकार** तस्य **इन्द्रस्य** तानि **वीर्याणि** **नु** क्षिप्रं प्रब्रवीमि । कानि वीर्याणीति तदुच्यते । **अहिं** मेघम् **अहन्** हतवान् । तदेतदेकं वीर्यम् । **अनु** पश्चात् **अपः** जलानि **ततर्द** हिंसितवान् भूमौ पातितवानित्यर्थः । इदं द्वितीयं वीर्यम् । **पर्वतानां** संबन्धिनीः **वक्षणाः** प्रवहणशीलाः नदीः **प्र** **अभिनत्** भिन्नवान् कूलद्वयकर्षणेन प्रवाहितवानित्यर्थः । इदं तृतीयं वीर्यम् । एवमुत्तरत्रापि द्रष्टव्यम् ॥ वीर्याणि ।  ‘ शूर वीर विक्रान्तौ । ण्यन्तात् ' अचो यत्' इति यत् ।' णेरनिटि ' इति णिलोपः । **तित्स्वरितम्'** इति स्वरितत्वम् । यतोऽनावः' इत्याद्युदात्तत्वं न भवति । आद्युदात्तत्वे हि सुशब्देन बहुव्रीहौ ‘आद्युदात्तं द्व्यच्छन्दसि' इत्यनेनैवोत्तरपदाद्युदात्तत्वस्य सिद्धत्वात् ' वीरवीर्यौ च इति पुनस्तद्विधानमनर्थकं स्यात् । अतोऽवगम्यते यतोऽनावः' इत्याद्युदात्तत्वं वीरशब्दे न प्रवर्तते । इति । अतः परिशेषात् “ तित्स्वरितम्' इति प्रत्ययस्य स्वरितत्वमेव । वोचम् । अस्यतिवक्तिख्यातिभ्योऽङ्' इति च्लेः अङादेशः । ‘बहुलं छन्दस्यमाङयोगेऽपि' इति अडभावः । चकार । णलि लित्स्वरेण प्रत्ययात् पूर्वस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः । अहन् । लङि ‘इतश्च' इति इकारलोपे  ‘ हल्ङ्याब्भ्यः' इति तकारलोपः । अहिम् । आङ्पूर्वात् हन्तेः ‘आङि श्रिहनिभ्यां ह्रस्वश्च' (उ. सू. ४. ५७७ ) इति इप्रत्ययः; आङो ह्रस्वत्वं च । चशब्देन ‘वेञो डित् , समाने ख्यश्चोदात्तः' इति डित्त्वं पूर्वपदोदात्तत्वं चानुकृष्यते। ततः टिलोपे पूर्वपदस्योदात्तत्वम् । ततर्द।  ‘ उतृदिर् हिंसानादरयोः ।  ‘ तिङ्ङतिङः' इति निघातः । वक्षणाः । वक्ष रोषे'। ‘क्रुधमण्डार्थेभ्यश्च' (पा. सू. ३. २. १५१) इति युच् । चित्स्वरं बाधित्वा व्यत्ययेन प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M
 **Vṛtra**, also called Ahi, is alluded to as condensed accusative ulation of vapour figuratively **shut** up or obstructed by a cloud; Indra, with his thunderbolt or atmospheric prowess divides up the augmented mass yielding a vent for the rain to descend on the earth and moisten the fields
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now I shall proclaim the heroic deeds of Indra, those foremost deeds  that the mace-wielder performed:  
 He smashed the serpent. He bored out the waters. He split the bellies of  the mountains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WILL declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder.  
      He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I will proclaim the manly deeds of Indra, The first that he performed, the lightning-wielder. He slew the serpent, then discharged the waters, And cleft the caverns of the lofty mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Indra Heldentaten will ich nun verkünden, die ersten, die der Keulenträger getan hat: Er erschlug den Drachen, erbrach die Gewässer; er spaltete die Weichen der Berge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt will ich Indra's Heldenthaten singen, die ersten, die des Blitzes Herr vollbracht hat; Er schlug den Drachen, liess die Wasser strömen und spaltete der Wolkenberge Bäuche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индры героические деяния сейчас я хочу провозгласить:  
 Те первые, что совершил громовержец,  

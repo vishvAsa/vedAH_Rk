@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ईम् अ꣡ण्वीः समर्य꣡ आ꣡  
 गृभ्ण꣡न्ति यो꣡षणो द꣡श  
 स्व꣡सारः पा꣡रिये दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्वसा॑रः । पार्ये॑ । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समर्ये** समनुष्ये यज्ञे **पार्ये** **दिवि** सौत्येऽहनि **योषणः** स्त्रियः **स्वसारः** स्वयं सरन्त्यो दशसंख्याकाः **अण्वीः** अण्व्योऽङ्गुलयः । ‘अग्रुवः अण्व्यः' इत्यङ्गुलिनामसु पाठात् । **तमीं** तमेनं सोमम् **आ** **गृभ्णन्ति** आगृह्णन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,35 +97,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Pārye **divi** = sautye '**hani**, on the day of the **Soma** effusion; in 6.026.01, this term is explained as pārye **ahan**, in the final day, or in the time of extremity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him do the delicate ones grasp at the clash—the ten maidens [=fingers], the sisters—on the decisive day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. áṇu- ‘delicate, fine’, always in the fem., is used several times of the fingers in their task of pressing soma. Because fingers are, of course, joined in the hand they are also called sisters, as here.
 
 The ‘clash’ (samaryé) presumably refers to the pounding of the pressing stones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten sister maids of slender form seize him within the press and hold  
      Him firmly on the final day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn fassen die zehn feinen Frauen im Wettbewerb an, die Schwestern am entscheidenden Tage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn fassen zehn verschwisterte, zehn schlanke Jungfraun in den Kampf Am Tage der Entscheidung an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его захватывают в состязании  
 Десять тоненьких женщин –  

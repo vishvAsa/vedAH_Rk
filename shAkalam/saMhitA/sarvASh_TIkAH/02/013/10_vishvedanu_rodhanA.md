@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे꣡द् अ꣡नु रोधना꣡ अस्य पउं꣡सियं  
 ददु꣡र् अस्मै दधिरे꣡ कृत्न꣡वे ध꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प꣡रि परो꣡ अभवः सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 षट् । अ॒स्त॒भ्नाः॒ । वि॒ऽस्तिरः॑ । पञ्च॑ । स॒म्ऽदृशः॑ । परि॑ । प॒रः । अ॒भ॒वः॒ । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśved* ← *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
@@ -141,7 +141,7 @@ genre M
 विश्वेत् सुपांसुलुगितिजसआकारः सर्वाएवरोधनाः रोधस्वत्योनद्यः अस्येन्द्रस्यपौंस्यम्पुंसोभावः पौंस्यं वीर्यमितियावत् अनु तद्वीर्यमनुवर्तन्ते अस्मैइन्द्रायददुः हविर्लक्षणमन्नंयजमानाः प्रयच्छन्ति किञ्च कृत्नवेकर्मणाङ्कर्त्रेइन्द्रायधनन्दधिरे सर्वजनाधारयन्ति तथाचमन्त्रः—इन्द्रायद्यावओषधीरुता- पोरयिंरक्षन्तिजीरयोवनानीति । विष्टिरोविस्तीर्णः षट्सङ्ख्याकाऊर्वीः ताश्चद्यौश्चपृथिवीचाहश्चरा- त्रिश्चापश्चौषधयइत्येवंरूपाः ताअस्तभ्राः नियमितवानसि सन्दृशः सम्यक् पश्यन्तीतिसन्दृशोजनाः पञ्चजनान् परिसर्वतः परः पारयितापालयितावा अभवः भवसि गतमन्यत् ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,7 +152,7 @@ genre M
 Six expansive objects: ṣad. vistiraḥ = heaven, earth, day, night, water and plural nts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All things that obstruct have conceded that manliness is his. They have  set themselves as the stakes for the successful gambler.  
 You propped up the six far-flung (spaces), and you were on every  
@@ -160,7 +160,7 @@ side of the five sights [=the visible directions] and beyond. You are
 worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although víśved … rodhanā́(ḥ) must belong together semantically, it is difficult to make this work grammatically: rodhanā́in this sandhi pos. can’t be neut.
 
@@ -174,23 +174,23 @@ The awkward doubling of asya … asmai should be noted in the tr.: “… have c
 I have no idea what the second hemistich is about, except that it obviously involves some cosmogonic activity and the viṣṭíraḥ and the saṃdṛ́śaḥ are implicitly contrasted. In d pári paró shows phonetic play, but I do not understand the function of paráḥ here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All banks of rivers yielded to his manly might; to him they gave, to him, the Strong, gave up their wealth.  
      The six directions hast thou fixed, a five-fold view: thy victories reached afar. Worthy of lauds art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Bollwerke mussten ihm seine Stärke zugestehen; sie lieferten dem Gewinner ihren Schatz aus. Du hast die sechs Räume befestigt, die fünf Richtungen, und hast sie von jenseits umfasst - Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wälle alle wichen seiner Manneskraft, sie überliessen ihm, dem tüchtigen, den Schatz; Sechs Richtungen, fünf offenbare, stütztest du, und weiter noch umgabst du sie, das ist dein Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все препятствия всегда уступали его силе мужества.  
 (Все) отдавали (свои) богатства этому деятельному (богу).  

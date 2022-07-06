@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अस्मा꣡न् व꣡नस्प꣡तिर्  
 मा꣡ च हा꣡ मा꣡ च रीरिषत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अवसा꣡ आ꣡ विमो꣡चनात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 स्व॒स्ति । आ । गृ॒हेभ्यः॑ । आ । अ॒व॒सै । आ । वि॒ऽमोच॑नात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (424)
 यजमान आत्मनः श्रेय आशास्ते । **वनस्पतिः** वनस्पतिनिर्मितः **अयं** रथो रथारूढान् **अस्मान्** **मा** **च** **हाः** मा त्याक्षीत् । किंच **मा** **रीरिषत्** अस्मान् मा विनाशयतु । किंच **आ** **गृहेभ्यः** यावद्गृहान् प्राप्नुयाम तावदस्मभ्यं **स्वस्ति** भवतु । तथा **आ** **अवसै** । पञ्चम्यर्थे चतुर्थी । यावद्रथवेगावसानं तावत् । **आ** **विमोचनात्** यावद्रथयोजिताश्वविमोचनं तावत् स्वस्ति भवतु ॥ हाः । **ओहाक्** त्यागे' । लुङि ‘मन्त्रे घस' इत्यादिना सिचो लुक् । पुरुषव्यत्ययः । ‘चवायोगे प्रथमा' इति न निघातः । रीरिषत् । **रिष** हिंसायाम्' इत्यस्य ण्यन्तस्य लुङि चङि रूपम्। द्वितीयत्वान्निघातः । गृहेभ्यः । ग्रहेः ‘गेहे कः' इति कः । ‘पञ्चम्यपाङ्परिभिः' इति पञ्चमी । अवसै । ' षोऽन्तकर्मणि' । क्विप् । चतुर्थ्येकवचने आतो लोपाभावश्छान्दसः । वृद्धिः । एकादेशस्वरः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,36 +115,36 @@ popular;; epic anuṣṭubh (424)
 This lord of the forest: **vanaspati**, i.e. the timber of which the car is made
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this Lord of the Forest [=tree] here not leave us behind and not  cause us harm.  
 (Let there be) well-being all the way to the houses, to the unharnessing,  to the unhitching.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the problematic ā́vasā́ā́(Saṃhitā) / ā́ava’saí ā́(Pp.), see detailed disc.
 
 by Scarlatta (576-77), who lays out the various phonological and morphological possibilities. As he points out, the reading of Holland van Nooten, ā́ávasā ā́, with accent on the first a (possible on the basis of the Saṃhitā text) and deaccentuation of the final ā of the noun (contra both Saṃhitā and Pp), makes no sense (and does not conform to the transmitted text). The nominal form between the two ā́’s is by most accounts a root noun cmpd of √sā + áva. The question is what the case form is. I follow Whitney (§971a) and Oldenberg in reading -ās, contra the Pp., interpreting it (with Whitney and Oldenberg) as an irregular abl. sg. to this root noun cmpd. (expect *avasás) in infinitival usage. The parallelism in the hemistich supports this interpr., but see the other possibilities offered by Scarlatta.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not this sovran of the wood leave us forlorn or injure us.  
      Safe may we be until we reach our homes and rest us and unyoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Baum soll uns nicht zurücklassen, noch zu Schaden bringen. Bring uns heil bis nach Hause, bis zum Rastmachen, bis zum Ausspannen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge dieser Waldbaum [Wagen] uns im Stiche lassen noch auch beschädigen; Heil sei uns bis zu unsern Häusern hin, und bis zur Einkehr reiche unsere Wegezehrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это лесное дерево да не оставит  
 Нас, да не повредит (нам)!  

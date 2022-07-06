@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने प्रथमो꣡ अ꣡ङ्गिरा ऋ꣡षिर्  
 देवो꣡ देवा꣡नाम् अभवः शिवः꣡ स꣡खा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡जायन्त मरु꣡तो भ्रा꣡जदृष्टयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तव॑ । व्र॒ते । क॒वयः॑ । वि॒द्म॒नाऽअ॑पसः । अजा॑यन्त । म॒रुतः॑ । भ्राज॑त्ऽऋष्टयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -130,7 +130,7 @@ genre M
 हे **अग्ने** **त्वं** **प्रथमः** आद्यः आङ्गिरसानामृषीणां सर्वेषां जनकत्वात् । तादृशः अङ्गिरोनामक **ऋषिः** **अभवः** । तथा च ब्राह्मणं ---- येऽङ्गारा आसंस्तेऽङ्गिरसोऽभवन् ' (ऐ. ब्रा. ३. ३४ ) इति । तथा स्वयं **देवः** भूत्वा **देवानाम्** अन्येषां **शिवः** शोभनः **सखा** अभवः। **तव** **व्रते** त्वदीये कर्मणि **कवयः** मेधाविनः **विद्मनापसः** ज्ञानेन व्याप्नुवानाः ज्ञातकर्माणो वा **भ्राजदृष्ट्यः** दीप्यमानायुधाः **मरुतः** मरुत्संज्ञकाः देवाः **अजायन्त** ॥ विद्मनापसः । विद ज्ञाने'। विद्मो वेदनम् । बहुलग्रहणात् औणादिको मक्प्रत्ययः । तदस्यास्तीति पामादिलक्षणो नः ( पा. सू. ५. २. १०० )। प्रत्ययस्वरेणान्तोदात्तत्वम् । विद्मनानि अपांसि येषां ते विद्मनापसः । पूर्वपदस्य । अन्येषामपि दृश्यते इति दृशिग्रहणात् अवग्रहसमयेऽपि दीर्घत्वम् । अजायन्त । जनी प्रादुर्भावे ' । तस्य श्यनि “ ज्ञाजनोर्जा । (पा. सू. ७. ३.७९ ) इति जादेशः । भ्राजदृष्टयः । ‘भ्राजृ दीप्तौ ' । व्यत्ययेन शतृ । तस्य लसार्वधातुकानुदात्तत्वे धातुस्वरः । ‘ऋषी गतौ ' इत्यस्मात् ‘क्तिच्क्तौ च संज्ञायाम् ' इति क्तिजन्त ऋष्टिशब्दः । ततो बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,39 +141,39 @@ genre M
 He was the first, as the progenitor of all the **Aṅgirasas** which are the coals or cinders of the sacrificial fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, the first Aṅgiras, the seer, the god, became a kindly comrade  of the gods.  
 Under your commandment were born the sage poets working with their  know-how—the Maruts with glinting spears.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Wackernagel treats the structure of the bahuvrīhi vidmanā́pas- differently in different parts of the grammar. It is clear that the first member is the instr. of vidmán- ‘wisdom, know-how’, but in some places (II.1.234, III.268) he suggests that the 2nd member is the secondary adj. apás- (so also Grassmann) and that the first member is accented (as is customary in bahuvrīhis), but with end-accent vidmanā́, rather than the attested independent vidmánā (I.110.6, etc.)(so explicitly III.268). Elsewhere (esp. II.1.301) he groups it with other bahuvrīhis containing -as-stems as 2nd members, which have accented 2nd members (on the 1st syllable), such as pṛthu-pákṣas- (and cf. purū-rávasin 4b). The latter analysis must be correct: inter alia, we don’t expect bahuvrīhis of similar sense to have adjectives as 2nd members, and it seems arbitrary to assume ending accent of the instr. against the independent usage of -n-stems. Therefore, the cmpd. must represent vidmanā-ápas-, built to the neut. -as-stem ‘work’, inflected as a masc. nom. pl. because the cmpd. is a bahuvrīhi and hence an adjective. The meaning should be literally ‘having/displaying work with know-how’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, wast the earliest Angiras, a Seer; thou wast, a God thyself, the Gods' auspicious Friend.  
      After thy holy ordinance the Maruts, sage, active through wisdom, with their glittering spears, were born.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, (who art) the first Angiras Rishi, hast become as god the kind friend of the gods. After thy law the sages, active in their wisdom 1, were born, the Maruts with brilliant spears.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni warst der erste Angiras und Rishi, du der Gott der Götter guter Freund. In deinem Dienste wurden die Seher, die mit Weisheit wirken, geboren, die Marut mit funkelnden Speeren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, warst der erste Sänger Angiras, als Gott der Götter segnender Genosse du, In deinem Dienst entsprang der weisen Maruts Schar, die kunstvoll wirken, sie, die lanzenglänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, первый Ангирас, риши.  
 Ты стал богом – милым другом богов.  

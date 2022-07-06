@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध द्यउ꣡श् चित् ते अ꣡प सा꣡ नु꣡ व꣡ज्राद्  
 द्विता꣡नमद् भिय꣡सा स्व꣡स्य मन्योः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ चिद् विश्वा꣡युः शय꣡थे जघा꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अहि॑म् । यत् । इन्द्रः॑ । अ॒भि । ओह॑सानम् । नि । चि॒त् । वि॒श्वऽआ॑युः । श॒यथे॑ । ज॒घान॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -139,21 +139,21 @@ genre M
 **सा** प्रसिद्धा देवानामाश्रयत्वेन **द्यौश्चित्** द्युलोकोऽपि हे इन्द्र **अध** अधुनास्मिन् काले **द्विता** द्विधा द्विप्रकारात् **ते** त्वदीयात् **वज्रात्** **स्वस्य** आत्मीयात् **मन्योः** क्रोधाच्च **भियसा** भयेन **अप** **अनमत्** अपननाम। **नु** इति पूरणः । **विश्वायुः** बह्वन्नः **इन्द्रः** **यत्** यदा **अभ्योहसानम्** अभिगच्छन्तम् **अहिं** वृत्रं **शयथे** शयननिमित्ते । मरणायेत्यर्थः । **नि** **जघान** न्यवधीत् । **चित्** इति पूरणः । यदा वृत्रं जघानास्मिन् काले द्यौर्ननामेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when **Indra**, the giver of food, struck to the sleep (of death) the assailing Ahi.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then even Heaven, she [=Earth] likewise also, bent away from your  mace, through fear of your own battle fury,  
 when Indra struck down the vaunting serpent to lie there for a full  
 lifespan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The word and particle order of the 1st hemistich seems designed to produce despair in those of us who seek (and believe in) principles and rules for such ordering: ádha dyaúś cit te ápa sā́nú vájrād, dvitā́namat … seems randomly to scatter nouns, pronouns, and particles through the first pāda. However, I think that my interpr. of the first pāda imposes more rationality on the sequence than Geldner’s does and also eliminates at least one further problem. Note first the preverb ápa in the middle of the 1st pāda, though preverbs in tmesis (as this is, from anamat in b) usually move to metrical boundaries. [It is true that it appears directly after the caesura, but generally a preverb in tmesis takes this position only when the verb is in the same pāda, or such is my impression.] Note, moreover, the apparent doubling of the subject dyaúḥ with the pronoun sā́likewise in the middle of the same pāda, directly after the preverb. Note finally that after a beginning that seems to conform fairly well to Rigvedic word-order norms (extraclausal introductory ádha, noun+emphatic ptcl dyaúś cid, enclitic prn. in modified 2nd position te), the clause seems to begin over again: preverb ápa, prn. sā́(curiously, fem. sā́seems more inclined to 2nd position than masc. sá), modified 2nd pos. ptcl. nú. Geldner’s tr. simply ignores this stuttering start (“Da wich selbst der Himmel von deiner Keule ..”), and he also doesn’t comment on the fact that his interpr. implicitly requires dyaúḥ to be picked up by a fem. prn.: Grassmann lists this passage as one where that noun has fem.
 
@@ -170,23 +170,23 @@ Despite Grassmann and Lubotsky, a number of viśvā́yuḥ forms, which they ass
 Assuming the correctness of the above disc. of viśvā́yuḥ, Vṛtra’s fate, “to lie there for a full lifespan,” is somewhat ironic, since he’s dead: he will spend his full lifespan dead.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, e'en that heaven itself of old bent backward before thy bolt, in terror of its anger,  
      When Indra, life of every living creature, smote down within his lair the assailing Dragon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da wich selbst der Himmel vor deiner Keule und doppelt aus Furcht vor deinem Grimm zurück, als Indra den prahlerischen Drachen niederschlug, daß er für alle Zeit erlag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da bog der Himmel selbst vor seinem Blitz sich sogleich herab aus Furcht vor seinem Zorne, Als allgewaltig Indra schlug den Drachen, den lauernden zu Boden auf dem Lager.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут уж даже само это небо перед твоей важдрой  
 Сразу же склонилось, от страха перед яростью твоей,  

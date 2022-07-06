@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡णि ए꣡क उरुगायो꣡ वि꣡ चक्रमे  
 य꣡त्र देवा꣡सो म꣡दन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 त्रीणि॑ । एकः॑ । उ॒रु॒ऽगा॒यः । वि । च॒क्र॒मे॒ । यत्र॑ । दे॒वासः॑ । मद॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trīṇy* ← *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -70,34 +70,34 @@ genre M
 उरुगायो वि चक्रमे इति पदलिङ्गाद्विष्णुरुच्यते । **उरुगायः** उरुभिर्बहुभिर्गातव्यः । यद्वा । बहुषु देशेषु गन्ता बहुकीर्तिर्वा । सर्वान् शत्रून् स्वसामर्थ्येन शब्दयत्याक्रन्दयतीति वा उरुगायः । एतादृशः **एकः** असहायो विष्णुः **त्रीणि** पदानि भुवनानि **वि** **चक्रमे** साधु पादेन विक्रान्तवान् । ‘वेः पादविहरणे' (पा. सू. १. ३. ४१) इति क्रमतेरात्मनेपदम् । **यत्र** येषु लोकेषु **देवासः** इन्द्रादयो देवाः **मदन्ति** यजमानदत्तैर्हविर्भिर्माद्यन्ति तानि वि चक्रम इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One (**Viṣṇu**) wide-stepping, has traversed the **three worlds** where the gods rejoice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three (strides) this one, wide-going, has stridden, to where the gods  become exhilarated. [=Viṣṇu]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Another with his mighty stride hath made his three steps thither where the Gods rejoice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine, weitschreitend, hat die drei Schritte gemacht, da wo die Götter schwelgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine, weithinschreitend, that der Schritte drei, dorthin wo Götter sich erfreun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три (шага) один, далеко движущийся,  
 Прошагал (туда,) где блаженствуют боги.

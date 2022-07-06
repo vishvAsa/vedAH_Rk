@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡मिद्धो अग्न आहुत  
 देवा꣡न् यक्षि सुअध्वर  
 तुवं꣡ हि꣡ हव्यवा꣡ळ् अ꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 त्वम् । हि । ह॒व्य॒ऽवाट् । असि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -87,41 +87,41 @@ genre M
 हे **आहुत** यजमानैः आ समन्तात् हुत हे **स्वध्वर** शोभनयज्ञोपेत हे **अग्ने** **समिद्धः** सम्यग्दीप्तः **त्वं** **देवान्** द्योतमानानिन्द्रादीन् 'यक्षि यजस्व । **हि** यस्मात् कारणात् हे अग्ने त्वं **हव्यवाट्** **असि** हव्यानां वोढा भवसि । अतः कारणात् देवान् यजस्वेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are kindled and invoked, worship the gods at the holy rite, for you are the bearer of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are kindled, o Agni of poured offerings, sacrifice to the gods,  o you of good rites,  
 for you are the conveyor of oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, invoked and kindled, serve the Gods, thou skilled in sacrifice:  
      For thou art bearer of our gifts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being kindled, Agni into whom offerings are poured, sacrifice to the gods, best sacrificer, for thou art the carrier of oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entflammt, o Agni, mit Schmalz begossen sollst du die Götter verehren, du Wohlopfernder, denn du bist der Opferfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt, o Agni, opferreich, die Götter ehr beopferter; Du bist's ja, der die Opfer fährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, о Агни, (и) политый (жиром)  
 Принеси жертву богам, о прекрасно исполняющий обряд!  

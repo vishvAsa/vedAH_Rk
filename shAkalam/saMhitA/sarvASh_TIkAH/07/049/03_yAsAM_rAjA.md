@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡सां रा꣡जा व꣡रुणो या꣡ति म꣡ध्ये  
 सत्यानृते꣡ अवप꣡श्यञ् ज꣡नानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ आ꣡पो देवी꣡र् इह꣡ मा꣡म् अवन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 म॒धु॒ऽश्चुतः॑ । शुच॑यः । याः । पा॒व॒काः । ताः । आपः॑ । दे॒वीः । इ॒ह । माम् । अ॒व॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāsāṃ* ← *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
@@ -124,20 +124,20 @@ genre D;; repeated line
 **वरुणः** **यासाम्** अपां **राजा** स्वामी **मध्ये** मध्यमलोके **याति** गच्छति । किं कुर्वन् । **जनानां** प्रजानां **सत्यानृते** सत्यं चानृतं च **अवपश्यन्** । जानन्नित्यर्थः। **याः** आपः **मधुश्चुतः** रसं क्षरन्त्यः **शुचयः** दीप्तियुक्ताः **पावकाः** शोधयित्र्यः। **ता** **आपः** देव्यः **मां** रक्षन्त्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those whose sovereign, **Varuṇa**, passes in the middle sphere, discriminating the truth and falsehod ofmankind; those shedding sweet showers, pure and purifying; may those divine waters protect me here (on earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the middle of which King Varuṇa travels, looking down upon the  truth and falsehood of the peoples,  
 those, clear and pure, that drip honey—let those waters, goddesses, help  me here.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -147,28 +147,28 @@ Pādas 2c and 3c contain the same three words after the caesura, but with the fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those amid whom goes Varuna the Sovran, he who discriminates men's truth and falsehood-  
      Distilling meath, the bright, the purifying, here let those Waters, Goddesses, protect me.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 In midst of whom king Varuṇa is moving, And looking down surveys men's truth and falsehood: Who, clear and purifying, drip with sweetness: Here may those waters, goddesses, preserve me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deren Mitte König Varuna wandelt, Wahrheit und Lüge der Leute erspähend, die honigträufenden, reinen, lauteren, diese göttlichen Gewässer sollen mich hier betreuen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deren Flut Varuna fährt, der König, der Menschen Recht und Unrecht überschauend; Die lautern, hellen, die von Honig triefen, die göttlichen, sie mögen nun mir beistehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Среди кого движется посредине царь Варуна,  
 Взирая на правду и ложь у людей,  

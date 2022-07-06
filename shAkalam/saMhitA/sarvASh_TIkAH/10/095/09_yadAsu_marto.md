@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् आसु म꣡र्तो अमृ꣡तासु निस्पृ꣡क्  
 सं꣡ क्षोणी꣡भिः · क्र꣡तुभिर् न꣡ पृङ्क्ते꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्वासो न꣡ क्रीळ꣡यो द꣡न्दशानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 ताः । आ॒तयः॑ । न । त॒न्वः॑ । शु॒म्भ॒त॒ । स्वाः । अश्वा॑सः । न । क्री॒ळयः॑ । दन्द॑शानाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre D
 **यत्** यदा **आसु** **अमृतासु** अप्सरःसु **मर्तः** मनुष्यः पुरूरवाः **निस्पृक्** निःशेषेण स्पृशन् **क्षोणीभिः** वाग्भिः **क्रतुभिर्न** कर्मभिश्च **सं** **पृङ्क्ते** संपर्कं करोति । नकारः समुच्चयार्थः। **ताः** अप्सरसः **आतयः** आतिभूतास्तदानीं **स्वाः** **तन्वः** आत्मीयानि रूपाणि **न** **शुम्भत** न प्रकाशयन्ति । **अश्वासो** **न** अश्वा इव **क्रीळयः** संक्रीडमानाः **दन्दशानाः** दन्दशूका जिह्वाभिरात्मीयाः सृक्का भक्षयन्तः । ते यथा चापल्येन धावन्तः स्वरूपं न प्रयच्छन्ति रथिकाय तद्वदिति दुःखाद्ब्रूते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ Ducks: they clean theirbodies like ducks;
 Na = and (**nakāraḥ** samucchayārthaḥ); not; like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Urvaśī:] “When a mortal, going to caress immortal women, mingles  (with their bodies) amid their cries, as if by his intentions,  
 like ducks they preen their own bodies, like horses playful and  
 constantly nipping.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, loving these Immortal Ones, the mortal hath converse with the nymphs as they allow him.  
      Like swans they show the beauty of their bodies, like horses in their play they bite and nibble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Sterbliche, nach diesen Unsterblichen lüstern, sich mit den Gesellschafterinnen einigt, wie es nach ihrem Sinn ist, dann macht eure Leiber schön wie die Wasservögel, wie Pferde spielend, die sich beißen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn der Sterbliche mit den unsterblichen Weibern kosend sich mit den flutenden wie aus eigener Lust (?) mischt, dann schmücken sie ihre Leiber wie Tauchenten, wie lustige Rosse einander beissend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

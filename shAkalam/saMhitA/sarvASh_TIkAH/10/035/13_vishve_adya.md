@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे अद्य꣡ मरु꣡तो वि꣡श्व ऊती꣡  
 वि꣡श्वे भवन्तु अग्न꣡यः स꣡मिद्धाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वम् अस्तु द्र꣡विणं वा꣡जो अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । नः॒ । दे॒वाः । अव॑सा । आ । ग॒म॒न्तु॒ । विश्व॑म् । अ॒स्तु॒ । द्रवि॑णम् । वाजः॑ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -136,7 +136,7 @@ genre M
 **अद्य** अस्मिन्नहनि प्रधानयागदिवसे **विश्वे** सर्वे **मरुतः** **विश्वे** सर्वे मरुद्गणसहचरिता रुद्रादयो देवाश्च **ऊती** ऊत्यै रक्षणाय भवन्तु । अपि च **विश्वे** सर्वे **अग्नयः** आहवनीयादयः **समिद्धाः** संदीप्ताः **भवन्तु** । अपि च **विश्वे** सर्वे इन्द्रादयः **देवाः** **नः** अस्माकम् **अवसा** रक्षणेन **आ** **गमन्तु** आगच्छन्तु । किंच **अस्मे** अस्मासु **विश्वं** सर्वं **द्रविणं** धनं **वाजः** अन्नं च **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,29 +151,29 @@ Alternative: ūtī = tarpaṇam, satisfaction;
 Avasā = **tuṣṭi**, plural asure
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let all the Maruts today all (be there) with aid, let all the kindled fires  be (there with aid).  
 Let all the gods come here to us with help; let all wealth, (every) prize  be for us.1434 X.36
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day may all the Maruts, all he near us with aid: may all our fires be well enkindled.  
      May all Gods come to us with gracious favour. May spoil and wealth he ours, and all possessions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Marut sollen heute, alle mit ihrem Beistand da sein, alle entflammten Feuer sollen es sein. Alle Götter sollen uns mit ihrer Gunst kommen. Aller Besitz soll unser Gewinn sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Alle Maruts, alle entflammten Feuer, sie seien alle mit Hülfe hier; alle Götter mögen uns mit Hülfe nahen; aller Reichthum möge bei uns sein und alle Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все Маруты сегодня, (пусть будут) все с поддержкой!  
 Все костры пусть будут зажжены!  

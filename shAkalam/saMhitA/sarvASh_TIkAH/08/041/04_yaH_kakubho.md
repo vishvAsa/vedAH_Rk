@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ ककु꣡भो निधारयः꣡  
 पृथिव्या꣡म् अ꣡धि दर्शतः꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । माता॑ । पू॒र्व्यम् । प॒दम् । तत् । वरु॑णस्य । सप्त्य॑म् । सः । हि । गो॒पाःऽइ॑व । इर्यः॑ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ genre M;; repeated line
 **यः** वरुणः **पृथिव्यामधि** पृथिव्या उपरि **दर्शतः** दर्शनीयः सन् **ककुभः** दिशः **निधारयः** निधारयति **सः** वरुणः **माता** निर्माता । **पूर्व्यः** प्रत्नं **पदं** स्वर्गाख्यं स्थानं **सप्त्यम्** अस्माभिश्च सर्पणीयं **तत्** **वरुणस्य** स्वकृतम् । अपि च **स** **हि** स एव **इर्यः** ईश्वरः सन् **गोपाइव** गोपाल इव पशूनामस्माकं रक्षिता । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,36 +152,36 @@ genre M;; repeated line
 Measurer: **mātā** = nirmātā, the maker
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the one who fastened the peaks down upon the earth—the one  lovely to see—he was the measurer of the primordial place.  
 That is the leadership of Varuṇa, for he is like an energetic herdsman. – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax sáptya- is problematic. Most (though not Geldner) take it as a derivative of saptá ‘7’ (e.g., Renou ‘la septuplicité’, a fine coinage) and point to Varuṇa’s 7 sisters in 2e. His control over the 7 in 9e is perhaps more relevant. Geldner tr.
 
 “treue Freundschaft”; though he does not comment, he must derive it from sápti-, though the standard view of the meaning of the latter is now ‘team’ and those meanings seem quite distinct. If the word belongs with sápti-, which I think more likely than a connection with saptá (though 9e now gives me pause), it should mean something like ‘teamwork, cooperation’. The problem is that in this hymn Varuṇa is credited with doing everything on his own; his usual companions, Mitra and Aryaman, are absent. I therefore tentatively suggest that it is based on a syncopated form (sa-pti-) from a putative *sa-páti-, hence ‘joint leadership/lordship’ à ‘leadership, master-ship’. This is a very fragile suggestion, I realize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, visible o'er all the earth, stablished the quarters of the sky:  
      He measured out the eastern place, that is the fold of Varuna: like a strong herdsman is the God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Bergspitzen auf der Erde sichtbar befestigt hat, er mißt die vordere östliche Stelle ab. Das ist Varuna´s treue Freundschaft: er ist nämlich wie der wachsame Hirt. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der auf der Erde gründete, der Berge Höhn, der herrliche, Er misset aus den alten Platz der sieben Schwestern Varuna's; denn er ist wie ein mächt'ger Fürst. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто укрепил вершины (гор)  
 На земле, видный (отовсюду),  

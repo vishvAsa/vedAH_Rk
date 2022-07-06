@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वा꣡जं या꣡ता अ꣡पदुष्पदा य꣡न्  
 सु꣡वर्षाता प꣡रि षदत् सनिष्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घ्न꣡ञ् छिश्न꣡देवाँ अभि꣡ व꣡र्पसा भू꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒न॒र्वा । यत् । श॒तऽदु॑रस्य । वेदः॑ । घ्नन् । शि॒श्नऽदे॑वान् । अ॒भि । वर्प॑सा । भूत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **वाजं** शूरैर्गन्तव्यं संग्रामं **याता** **सः** इन्द्रः । ‘न लोकाव्यय” इति षष्ठीप्रतिषेधः । **अपदुष्पदा** अपगतदुष्टपतनेन **यन्** गच्छन् **सनिष्यन्** तत्र शत्रुधनानि संभक्तुमिच्छन् **परि** **षदत्** परिषीदति । कुत्रेति उच्यते । **स्वर्षाता** स्वर्षातौ सर्वलाभोपेते संग्रामे। किंच **अनर्वा** युद्धे अप्रत्यृत इन्द्रः **शतदुरस्य** शतद्वारस्य शत्रुपुरस्य अन्तर्निहितं **यत्** **वेदः** धनमस्ति तद्धनं **वर्पसा** आवरकेण बलेन **अभि** **भूत्** अभिभवति । किं कुर्वन् । **शिश्नदेवान्** अब्रह्मचर्यान् शतद्वारेषु शत्रुपुरसंबन्धिषु वर्तमानान् **घ्नन्** हिंसन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Phallus-worshippers: śiśnadevān is a **tatpuruṣa** compound; hence, themeaning would perhaps be: incontinent or licentious
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is the one who drives to the prize, though going with a (horse?)  whose “off” foot is lame [?]. At the winning of the sun, intending to  win he laid siege to it,  
 when, unassailable, smashing the phallus-worshipers, with his form he  prevailed over the property of (the place?) with a hundred doors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On most auspicious path he goes to battle he toiled to win heaven's light, full fain to gain it;  
      He seized the hundred-gated castle's treasure by craft, unchecked, and slew the lustful demons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er gelangt zum Siegerpreis mit einem Nichtlahmen gehend, im Kampf um die Sonne belagerte er, um sie zu gewinnen, als der Unerreichte in Verwandlung die Habe des Hunderttorigen beschlich und die Phallusanbeter erschlug.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit sicherm Schritte ging er aus auf Beute | und war bemüht, im Kampf sie zu erlangen, | als er den Schatz der hundertthor'gen Feste | mit Kraft errang, unhemmbar, Unhold tödtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он направляется за добычей, двигаясь (путем), далеким для хромого.  
 При завоевании солнца он окружил (его), стремясь завоевать,  

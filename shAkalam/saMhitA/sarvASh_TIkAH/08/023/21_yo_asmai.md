@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अस्मै हव्य꣡दातिभिर्  
 आ꣡हुतिम् म꣡र्तो अ꣡विधत्  
 भू꣡रि पो꣡षं स꣡ धत्ते वीर꣡वद् य꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 भूरि॑ । पोष॑म् । सः । ध॒त्ते॒ । वी॒रऽव॑त् । यशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -93,42 +93,42 @@ genre M
 **यः** **मर्तः** मनुष्यः **हव्यदातिभिः** हविर्दातृभिर्ऋत्विग्भिः **अस्मै** अग्नये **आहुतिम्** **अविधत्** विदधाति **सः** मनुष्यः **भूरि** बहु **पोषं** धनादिभिः पोषणम् **वीरवत्** पुत्रपौत्रादियुक्तं यशः कीर्तिं च **धत्ते** धारयति । तस्मै धनादीनि प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who by the (holy) presenters of oblations makes offerings to him, receives (from **Agni**) amplenourishment, with **male** progeny, and fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who has dedicated a poured offering with gifts of  
 oblations to him  
 receives abundant prosperity and glory in heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the apparent bad cadence produced by ávidhat, see remarks ad II.1.7, where Arnold’s suggestion to read a long augment is adopted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man who pays the worship due to him with sacrificial gifts  
      Obtains both plenteous nourishment and hero fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, der ihm die Opferung durch die Opferanteile recht gemacht hat, der empfängt reichlich Wohlstand und die Ehre vieler Söhne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche, der Opfertrank durch Opfergaben ihm geweiht, Dem wird zu Theil viel reiches Gut und Heldenruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот смертный, который послужил ему  
 Жертвенными дарами, (совершив) возлияние,  

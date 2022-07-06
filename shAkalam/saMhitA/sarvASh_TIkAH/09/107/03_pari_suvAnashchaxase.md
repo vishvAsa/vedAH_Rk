@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स्वान꣡श्° च꣡क्षसे देवमा꣡दनः  
 क्र꣡तुर् इ꣡न्दुर् विचक्षणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 परि॑ । सु॒वा॒नः । चक्ष॑से । दे॒व॒ऽमाद॑नः । क्रतुः॑ । इन्दुः॑ । वि॒ऽच॒क्ष॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -71,19 +71,19 @@ genre M
 **सुवानः** अभिषूयमाणः सोमः **चक्षसे** सर्वेषां दर्शनाय **परि** स्रवति । कीदृशः । **देवमादनः** देवानां तर्पयिता **क्रतुः** कर्ता **इन्दुः** पात्रेषु क्षरणशीलो दीप्तो वा **विचक्षणः** सर्वस्य विद्रष्टा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Being effused the **Indu** flows so as to be seen (of all)-- the exhilarator of the gods, the agent (in holy acts), the observer of all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being pressed all around to be seen—the exhilarator of the gods, the  wide-gazing drop that is resolve.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou make this vs. a separate cl., supplying a verb (“fliesst,” “coule”), generated from pári srava in 2a, suggested by the init. pári in 3a. This is certainly possible, but since this vs. is an afterthought to the pragātha, I take it as dependent on vs. 2, specifically 2ab, simply stringing together more descriptors of soma.
 
@@ -101,22 +101,22 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed out for all to see, delighting Gods, Indu, Far-sighted One, is mental power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt fließt der Saft sichtbar ab, der Gottberauschende, die weitschauende Weisheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rings gepresst [lieblich (?)] anzusehn der Götter erfreuende starke Indu, der weitschauende – –.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, (он течет) кругом, чтоб заявить о себе, (этот) пьянящий напиток богов,  
 Сила духа, сок, смотрящий далеко.

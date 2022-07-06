@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वो वय꣡म् प्रमिना꣡म व्रता꣡नि  
 विदु꣡षां देवा अ꣡विदुष्टरासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡भिर् देवाँ꣡ ऋतु꣡भिः कल्प꣡याति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । तत् । विश्व॑म् । आ । पृ॒णा॒ति॒ । वि॒द्वान् । येभिः॑ । दे॒वान् । ऋ॒तुऽभिः॑ । क॒ल्पया॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 इति भट्टभास्करविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे प्रथमः प्रपाठकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ genre M
 May the wise Agni: may Agni complete the whole, knowing at what seasons he should appoint the gods (to beworshipped); lit. = with what seasons he shoudl fix the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If we shall confound the commandments of you who know, o gods—we  who are so very unknowing—  
 knowing Agni fulfills all this through the ritual sequences by which he  will arrange the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When we most ignorant neglect the statutes of you, O Deities with whom is knowledge,  
      Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.
@@ -165,17 +165,17 @@ May Agni make good all that,
 He that knoweth the seasons wherein he may satisfy the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir eure Gebote verfehlen sollten, die gar Unwissenden die der Wissenden, o Götter, so möge der kundige Agni das alles wieder gutmachen nach den Zeiten, auf die er die Götter verteilen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir, o Götter, eur Gesetz verletzen, o ihr verständ'gen, wir die unverständ'gen, Dann gleicht dies alles Agni aus, wohl wissend, wie rechter Zeit die Götter er vertheile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если мы нарушим ваши заветы,  
 Совсем несведущие среди сведущих, о боги,  

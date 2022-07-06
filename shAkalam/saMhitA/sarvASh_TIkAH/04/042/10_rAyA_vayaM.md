@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 राया꣡ वयं꣡ ससवां꣡सो मदेम  
 हव्ये꣡न देवा꣡ य꣡वसेन गा꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्वा꣡हा धत्तम् अ꣡नपस्फुरन्तीम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताम् । धे॒नुम् । इ॒न्द्रा॒व॒रु॒णा॒ । यु॒वम् । नः॒ । वि॒श्वाहा॑ । ध॒त्त॒म् । अन॑पऽस्फुरन्तीम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
@@ -114,7 +114,7 @@ genre M
 **राया** धनेन **मदेम** **ससवांसः** युवां संभक्तारः **वयम्** । **हव्येन** **देवाः** मोदन्तु **यवसेन** च **गावः**। **तां** **धेनुं** प्रीणयित्रीं रयिं हे इन्द्रावरुणौ **विश्वाहा** विश्वस्य हन्तारौ **युवं** युवां **नः** अस्माकं **धत्तं** दत्तम् । कीदृशीम् । **अनपस्फुरन्तीम्** अनवहिंसिताम् । यद्वा । विश्वाहेत्यव्ययम् । सर्वदेत्यर्थः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 **Yajus**. 7.10; free from any imperfection: anapasphurantim = ahiṃsitam, unharmed; or, not going to another, ananyagāminam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having won, we should become elated by wealth, the gods by the  oblation, and the cows by pasture land.  
 All our days, o Indra and Varuṇa, grant to us the milk-cow that does  not kick.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, possessing much, delight in riches, Gods in oblations and the kine in pasture;  
      And that Milch-cow who ahrinks not from the milking, O Indra-Varuna, give to us daily.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen belohnt in Reichtum schwelgen, die Götter im Opfer, die Rinder auf der Weide. Gebet ihr, Indra und Varuna, uns allezeit diese Milchkuh, die beim Melken nicht ausschlägt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst froh uns sein des Guts, das wir erlangten, beim Opfer, Götter, Kühe auf der Weide, und solche Milchkuh, Varuna und Indra, gebt täglich uns, die nicht die Milch versage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Завоевав (награду), да опьянимся мы богатством,  
 Боги жертвой, коровы – пастбищем!  

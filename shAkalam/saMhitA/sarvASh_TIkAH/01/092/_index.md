@@ -8,7 +8,7 @@ title = "+092"
 ' एता उ त्याः ' इति अष्टादशर्चमष्टमं सूक्तं गोतमस्यार्षम् । आदितश्चतस्रो जगत्यः । त्रयोदश्याद्याः षडृच उष्णिहः । शिष्टा अष्टौ त्रिष्टुभः । उषा देवता । ' अश्विना वर्तिः ' इति अन्य्ृस्तृचोऽश्विदेवताकः । तथा चानुक्रान्तम्-' एता उ त्या द्व्यूनोषस्यं चतुर्जगत्यादि षळुष्णिगन्तं तृचोऽन्त्य आश्विनः ' इति । सूक्तविनियोगो लैङ्गिकः । प्रातरनुवाके उषस्ये क्रतौ जागते छन्दस्याश्विनशस्त्रे च ' एता उ त्याः ' इति चतस्रो विनियुक्ताः । सूत्रितं च -' एता उ त्या इति चतस्रो जागतम्  ( आश्व. श्रौ ४.१४) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 92  
 Dawn (1–15), Aśvins (16–18)  
@@ -19,7 +19,7 @@ All three of the segments in trimeter meter (that is, through vs. 12) contain ar
 The last two segments, in uṣṇih meter, to Dawn and the Aśvins respectively (vss.  13–15, 16–18), are, not surprisingly, less complex. Both hope for the arrival of the  divinities at the sacrifice, accompanied by plenty of presents.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dawn As indicated in the published introduction, vss. 1-4 and 5-8 appear to be parallel hymns, the first with multiple Dawns, the second with just one.
 </details>

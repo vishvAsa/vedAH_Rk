@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभ्य् अ᳡र्षत सुष्टुतिं꣡ ग꣡व्यम् आजि꣡म्  
 अस्मा꣡सु भद्रा꣡ द्र꣡विणानि धत्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृत꣡स्य धा꣡रा म꣡धुमत् पवन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 इ॒मम् । य॒ज्ञम् । न॒य॒त॒ । दे॒वता॑ । नः॒ । घृ॒तस्य॑ । धाराः॑ । मधु॑ऽमत् । प॒व॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre D
 हे मदीया ऋत्विजः **गव्यं** गोसमूहरूपं गोसंबन्धिनं वा **आजिं**  संघातम्  **अभ्यर्षत** अभिगच्छत अभिगमयत वा **सुष्टुतिं** शोभनां स्तुतिम् । अत्र गोशब्देनोदकानि गावो वोच्यन्ते । तत्संघातोऽभिप्रेतः । **अस्मासु** यजमानेषु **भद्रा** स्तुत्यानि 'द्रविणानि **धत्त** धारयत । स्तुत्या खलु फलं लप्स्यते । किंच **नः** अस्मदीयम् **इमं** **यज्ञं** **देवता** अत्र यष्टव्यान् देवान् **नयत** प्रापयत । **घृतस्य** **धारा** **मधुमत्** यथा तथा **पवन्ते** गच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ Priests: the text has no nominative native; Ṛtvijaḥ, priests are impied; an 
 **Gavya** = ghī; gods, approach the pious praise, and, the sacrifice at which ghī is offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward the lovely praise hymn, to the contest for cows; on us  confer auspicious chattels.  
 Lead this sacrifice here to the divinities for us. The streams of ghee  purify themselves like honey.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details open><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -145,23 +145,23 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send to our eulogy a herd of cattle bestow upon us excellent possessions.  
      Bear to the Gods the sacrifice we offer the streams of oil flow pure and full of sweetness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Strömt ein gutes Lobgedicht aus, machet ein Wettrennen um die Kühe! Bringet uns gesegneten Besitz, führt dies Opfer von uns zu den Göttern! Die Ströme des Ghrita klären sich zur Süßigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rinnt hin zum Loblied, zu der Kühe Wettlauf und uns verleihet reiche Güterfülle; Dies unser Opfer führet zu den Göttern; der Butter Ströme rieseln süsse Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струите прекрасное восхваление, (выиграйте) состязание  
 Ради коров! Дайте нам богатства, приносящие счастье!  

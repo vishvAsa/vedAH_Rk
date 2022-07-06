@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡च् छिष्टं꣡ चमु꣡वोर् भर  
 सो꣡मम् पवि꣡त्र आ꣡ सृज  
 नि꣡ धेहि गो꣡र् अ꣡धि त्वचि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 नि । धे॒हि॒ । गोः । अधि॑ । त्व॒चि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchiṣṭaṃ* ← *ucchiṣṭam* ← *ucchiṣṭa*
 - \[noun\], accusative, singular, neuter
@@ -91,7 +91,7 @@ genre M
 हे ऋत्विग्विशेष हरिश्चन्द्रदेवतापक्षे हे हरिश्चन्द्र इति वा **चम्वोः** सोमस्य भक्षत्वसंपादकयोः अधिषवणफलकयोः **शिष्टम्** अभिषवराहित्येन अवशिष्टं सोमम् **उत्** **भर** शकटस्योपरि हर । **सोमम्** अभिषुतं सोमं **पवित्रे** दशापवित्रे आ **सृज** आनीय प्रक्षिप। प्रक्षेपे सति अवशिष्टं सोमं **गोः** **त्वचि** आनडुहे चर्मणि **अधि** **नि** **धेहि** अध्यारोप्य स्थापय ॥ चम्वोः । ‘चमु अदने' । चम्यते भक्ष्यतेऽत्रेति चमूः । ‘कृपिचमि' ( उ. सू. १.८१ ) इत्यादिना औणादिक उप्रत्ययः । प्रत्ययस्वरः । सप्तमीद्विवचनस्य ‘उदात्तस्वरितयोर्यणः स्वरितः' इति स्वरितत्वम् । ‘उदात्तयणो हल्पूर्वात्' इति व्यत्ययेन न भवति । भर । ' हृग्रहोर्भः' । धेहि । ध्वसोरेद्धावभ्यासलोपश्च' (पा. सू. ६. ४. ११९ ) इति एत्वाभ्यासलोपौ । निघातः । त्वचि । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ genre M
 The hymn is to **Hariścandra**, a ministering priest or a divinity so named. The remains contained in **pātra** or plural tters are to be plural ced upon a cart (śakaṭasya upari) and having brought it away, cast it upon the **pavitra** (two or three blades of kuśa grass serving as a kind of filter). Or, through a strainer made of goat's hair (**tvaci**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring what is leftover up into the two wooden cups. Send the soma  surging into the filter.  
 Put it down upon the hide of the cow.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Take up in beakers what remains: the Soma on the filter pour,  
      and on the ox-hide set the dregs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nimm den Rest in der Somapresse heraus, schütte den Soma auf die Seihe, leg den Rest auf die Rindshaut nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm, was noch in den Schalen bleibt, den Soma giesse auf das Sieb, Und bring ihn in den Lederschlauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вынь остаток из выжималки,  
 Пропусти сому через цедилку  

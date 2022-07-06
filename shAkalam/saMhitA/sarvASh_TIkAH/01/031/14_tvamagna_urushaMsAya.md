@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्न उरुशं꣡साय वाघ꣡ते  
 स्पार्हं꣡ य꣡द् रे꣡क्णः परमं꣡ वनो꣡षि त꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ पा꣡कं शा꣡स्सि प्र꣡ दि꣡शो विदु꣡ष्टरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ध्रस्य॑ । चि॒त् । प्रऽम॑तिः । उ॒च्य॒से॒ । पि॒ता । प्र । पाक॑म् । शास्सि॑ । प्र । दिशः॑ । वि॒दुःऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -138,14 +138,14 @@ genre M
 हे **अग्ने** **त्वम्** **ऊरुशंसाय** बहुभिः स्तोतव्याय **वाघते** ऋत्विजे तदुपकारार्थं **स्पार्ह** स्पृहणीयं **परमम्** उत्तमं **यद्रेक्णः** धनमस्ति **तत्** धनं **वनोषि** अनुष्ठाता लभताम् इति कामयसे । तथा त्वम् **आध्रस्य** **चित्** सर्वतो धारणीयस्य पोषणीयस्य दुर्बलस्य यजमानस्यापि **प्रमतिः** प्रकृष्टबुद्धियुक्तः **पिता** पालकः इत्यभिज्ञैः **उच्यसे** । तथा **विदुष्टरः** अतिशयेनाभिज्ञस्त्वं **पाकं** शिशुम् । “ पोतः पाकोऽर्भको डिम्भः' (अम. २. ५. ३८) इत्यभिधानात् । यास्कोऽप्येवमाह-’पाकः पक्तव्यो भवति' (निरु. ३. १२)। तथाविधं यजमानं **प्र** **शास्सि** प्रकर्षेण अनुशिष्टं करोषि । तथा **दिशः** प्राच्यादिकाः **प्रशास्सि** । त्वदीयशासनाभावे अनुष्ठातॄणां विभ्रमः स्यात् । तथा च श्रूयते- देवा वै देवयजनमध्यवसाय दिशो न प्राजानन्' इति । स भ्रमो दक्षिणादिग्गत अग्निना निवर्तते । तदपि तत्रैवाम्नातं ’पथ्यां स्वस्तिमयजन् प्राचीमेव तया दिशं प्राजानन्नग्निना दक्षिणा' (तै. सं. ६. १. ५. १-२ ) इति । ऐतरेयिणापि तथैवाम्नातम्--’अथो एतं वरमवृणीत मयैव प्राची दिशं प्रजानाथाग्निना दक्षिणाम् ' ( ऐ. ब्रा. १. ७) इति ॥ उरुशंसाय । ‘शंसु स्तुतौ ' । शस्यते इति शंसः । कर्मणि घञ् । ञित्स्वरेणाद्युदात्तत्वम्। कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते। स्पार्हम् । स्पृहासंबन्धि । तस्येदम्' इति अण् । रेक्णः ।' रिचिर् विरेचने '। ‘रिचेर्धने घिच्च' (उ. सू. ४. ६३८) इति असुन् । चकारात् नुडागमः । ‘चजोः कु घिण्ण्यतोः ' ( पा. सू. ७. ३. ५२ ) इति कुत्वम् । आध्रस्य । ‘ ध्रे तृप्तौ ।' आदेच उपदेशेऽशिति' (पा. सू. ६. १.४५) इति आत्वम् । आतश्चेोपसर्गे ' ( पा. सू. ३.१.३६) इति कप्रत्ययः । शास्सि। शासु अनुशिष्टौ । अदादित्वात् शपो लुक् । सिपः पित्त्वादनुदात्तत्वे धातुस्वरः । पाकं च प्रशास्सि दिशश्च प्रशास्सि इत्यत्र चार्थो गम्यते । अतः ‘चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते । विदुष्टरः । विद्वच्छब्दात् तरपि ‘अयस्मयादीनि च्छन्दसि' (पा. सू. १. ४. २०) इति भसंज्ञायां ‘ वसोः संप्रसारणम्' इति संप्रसारणं परपूर्वत्वम् । 'शासिवसि' इति षत्वम् । तरपः पित्त्वादनुदात्तत्वे वसोः स्वरेण उकार उदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, desire (that the worshipper may acquire) that excellent wealth which is reqquisite for the many-commended priest; you are called the well-intentioned protector. You, who are all-wise, instrumental ucted the disciple, and (define) the points of the horizon.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, (are kindled as protector) for the cantor chanting far  and wide. What is the highest legacy worth seeking—that you win  
 (for him).  
@@ -153,35 +153,35 @@ Even of the feeble you are called (fatherly) solicitude and father. You
 instruct the simple, (instruct) the quarters, as the one who knows better.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again my interpr. differs from the standard, though not as radically as in vs. 13. Most tr. take ab as a single clause with, implicitly, an embedded nominal relative clause spā́rhaṃ yád réknaḥ paramám. The main clause resumes with vanóṣi, hence the accent, and the yád clause is picked up by tád. The problem is that the RV does not ordinarily allow embedded relatives; (almost) all relative clauses are either preor postposed, as M. Hale has argued in the past. I therefore supply the frame “you are kindled as protector” + DATIVE from the parallel vs. 13ab. Note that Agni as protector also begins the next verse (15).
 
 The phrase prá pā́kaṃ śā́ssi prá díśaḥ in d causes problems, because, despite the strong superficial parallelism, the two accusatives pā́kam and díśaḥ do not appear to be parallel. I have translated them as parallel, but admit the awkwardness. If the verb prá śāssi is used in the same way in both iterations, the “quarters,” that is, the geographical directions, are receiving the same instruction as the simple man. In support of this interpretation Elizabeth Tucker remarks “my guess is that the poet intends a contrast between two extremes (the limited simple man and the vast semi-divine quarters) as recipients of instruction from the one who is superior to all in knowledge.” Geldner supplies a different verb with the second prá phrase: “du (gibst) Weisungen,” suggesting that while pā́kam refers to the person who receives the instruction, díśaḥ might rather express the content (“directions”) of the instruction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni gainest for the loudly-praising priest the highest wealth, the object of a man's desire.  
      Thou art called Father, caring even for the weak, and wisest, to the simple one thou teachest lore.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, gainest 1 for the widely-renowned worshipper that property which is desirable and excellent. Thou art called the guardian and father even of the weak 2; thou instructest the simple, thou, the greatest sage, the quarters of the world 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni gewinnst für den Sänger, dessen Worte weit reichen, das was wünschenswerter höchster Besitz ist. Du heißest die Vorsehung, der Vater auch des Armen. Du belehrest den Unerfahrenen, du gibst Weisungen als der Kundigere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, schenkst dem Beter, welcher laut dich ruft,den besten Reichthum, der von vielen, wird begehrt, Des Armen Vater und Versorger heissest du, den Thoren strafst und lehrest du, o weisester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, для жреца, чьи слова разносятся далеко,  
 Добываешь то, что (есть) высшее вожделенное богатство,  

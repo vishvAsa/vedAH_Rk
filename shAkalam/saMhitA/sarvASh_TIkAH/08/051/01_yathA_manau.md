@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था म꣡नौ सां꣡वरणौ  
 सो꣡मम् इन्द्रा꣡पिबः सुत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पु꣡ष्टिगौ श्रु꣡ष्टिगौ स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 नीप॑ऽअतिथौ । म॒घ॒ऽव॒न् । मेध्य॑ऽअतिथौ । पुष्टि॑ऽगौ । श्रुष्टि॑ऽगौ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -92,35 +92,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you did drink, O **Indra**, the effused **Soma** beside **Manu**, the descendant of **Saṃvaraṇa**, byNīpātithi and Medhyātithi, by Puṣṭigu and Śruṣṭigu, O **Maghavan** (so do you drink it here).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as at Manu Sāṃvaraṇi’s you drank pressed soma, Indra,  
 and at Nīpātithi’s, at Medhyātithi’s, (do so) at Puṣṭigu’s, at Śruṣṭigu’s,  bounteous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 and 56.1.) This seems reasonable but unprovable. In that case Praskaṇva is probably the ṛṣi of pāda c.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du bei Manu, des Samvarana Sohne, den ausgepreßten Soma getrunken hast, Indra, bei Nipatithi, du Freigebiger, bei Medhyatithi, bei Pustigu, bei Srustigu-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du, o Indra, bei dem Manu, dem Nachkommen des Samvarana, den gepressten Soma getrunken hast, und bei dem Nīpātithi, o mächtiger, bei Medjātithi, bei Puschtigu und Çruschtigu [erg.: so trinke ihn auch hier].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как у Ману, сына Самвараны,  
 Пил ты, Индра, выжатого сому,  

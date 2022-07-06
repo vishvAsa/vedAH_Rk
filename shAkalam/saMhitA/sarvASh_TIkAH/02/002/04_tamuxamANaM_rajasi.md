@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उक्ष꣡माणं र꣡जसि स्व꣡ आ꣡ द꣡मे  
 चन्द्र꣡म् इव सुरु꣡चं ह्वार꣡ आ꣡ दधुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पाथो꣡ न꣡ पायुं꣡ ज꣡नसी उभे꣡ अ꣡नु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृश्न्याः॑ । प॒त॒रम् । चि॒तय॑न्तम् । अ॒क्षऽभिः॑ । पा॒थः । न । पा॒युम् । जन॑सी॒ इति॑ । उ॒भे इति॑ । अनु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 **तं** स्तुत्यतरं **रजसि** अन्तरिक्षे **आ** **उक्षमाणं** सर्वतः सिञ्चन्तं वृष्टिजलं रजसि पृथिव्यां वेद्यां घृतादिना आसिच्यमानं वा। **स्वे** स्वकीये **ह्वारे** विजने **दमे** यागगृहे **आ** **दधुः** आदधते । कीदृशं तम् । **चन्द्रमिव** **सुरुचम्** । चन्द्रमिति हिरण्यनाम। हिरण्यमिव शोभन1दीप्तिम् । पश्चात् प्रवृद्धावस्थायां **पृश्न्याः** **पतरं** द्युलोकस्यान्तरिक्षस्य गन्तारम् । **अक्षभिः** स्वकीयैर्ज्वालारूपैरवयवैः **चितयन्तं** चेतयमानम् । **पाथो** **न** **पायुम्** । उदकमिव रक्षकम् । **उभे** **जनसी** सर्वस्य जनयित्र्यौ द्यावापृथिव्यौ **अनु** व्याप्तम् । भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रापणाय द्युलोकगामिनमिति भावः । एवंरूपमग्निमादधते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ genre M
 Resplendent as gold: candram iva surucam = bright-shining,like the moon; **candra**, when neuter, is interpreted as a synonym of gold in the **Veda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, growing in the airy realm (as) in his own house, very bright like  gold, they have set on a meandering (course),  
 appearing (like) the flying (udder) of Pr̥śni [=cloud], observing with his  eyes along (the whole length of) both races [=gods and men], like the  protector of a path [?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A difficult vs. with multiple interpretations, which I will not treat in detail.
 
@@ -169,28 +169,28 @@ The other sense of citáyantam governs the rest of the vs.; the instr. akṣábh
 If we try to take it to as acc. to neut. pā́thas- ‘pen, fold’, which would work semantically (“observing … as a protector (does) a fold”), the accent is wrong; if we try to take it as gen. of pánth- ‘path’, which also works semantically (“like the protector of a path”), the length of the first vowel is wrong. Lubotsky tries to avoid this Scylla and Charybdis situation by identifying it as a 2nd du. pres. to √pā ‘protect’, but this makes more difficulties: who are the two subjects? (perhaps he means the two races, but they are in 3rd ps. ref.), and the placement of the ná is badly wrong. In the end I follow the ad hoc solution set out by Oldenberg (Noten): a gen. of the ‘path’ word makes most sense, and it may owe its anomalous long vowel to phonological attraction to pāyúm in the same syntagm along with some conflation with pā́thas-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have they set in his own dwelling, in the vault, like the Moon waxing, fulgent, in the realm of air.  
      Bird of the firmament, observant with his eyes, guard of the place as 'twere, looking to Gods and men.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They have established him who grows in the air, in his house, the serpent 1 with beautiful splendour like gold 2, the winged (son?) of Prisni 3 who lights up with his eyes both tribes (of gods and of men), like a guardian of the way (?) 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der im irdischen Raum im eignen Hause heranwächst, setzten sie, den wie Gold schönglänzenden, in den Vogel, den geflügelten Sohn der Prisni, der mit den Augen die beiden Geschlechter beobachtet wie ein Wächter die Wege.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie setzten ihn, der wächst im Luftraum, in sein Haus, den schlangengleichen, welcher hell wie Gold erglänzt, Der fliegt durch Wolken und mit seiner Augen Strahl Auf Erd' und Himmel wie ein Pfadbehüter schaut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого растущего в пространстве, (как) в собственном доме,  
 Прекрасно сверкающего, как золото, они поместили в тайник,  

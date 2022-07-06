@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा सो꣡मम् म꣡दाय क꣡म्  
 इ꣡न्द्र श्येना꣡भृतं सुत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡ती रा꣡जा विशा꣡म् अ꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । हि । शश्व॑तीनाम् । पतिः॑ । राजा॑ । वि॒शाम् । असि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
@@ -106,7 +106,7 @@ genre M
 हे **इन्द्र** त्वं **श्येनाभृतम्** । 'हृग्रहोर्भश्छन्दसि ' इति हकारस्य भकारः । द्युलोकात् श्येनरूपया गायत्र्याहृतं **सुतम्** अभिषुतं **सोमं** **मदाय** हर्षाय **पिब** । **कम्** इति पूरणः सुखार्थो वा । सुखेन सोमं पिब । हिशब्दो हेतौ । **हि** यस्मात् **त्वं** **शश्वतीनां** बह्वीनां **विशां** मरुद्गणानां सर्वेषां देवगणानां च **पतिः** पालयिता स्वामी **असि** भवसि तथा **राजा** स्वतेजसा दीप्यमानश्चासि । अतस्त्वं पूर्वं सोमं पिबेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,29 +117,29 @@ genre M
 Brought by the hawk: RV. 1.80.2; lord of all the divine hosts: śaśvatīnāṃ..viśām = bahunām marudgaṇān sarveṣām devagṇānām ca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the soma for exhilaration, Indra, the pressed soma brought by the  falcon,  
 for you are the lord, the king of each and every clan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink Soma to inspirit thee, juice, Indra, which the Falcon brought:  
      For thou art King and Sovran Lord of all the families of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, Indra, den Soma zum Rausche, den vom Falken gebrachten, den ausgepreßten, denn du bist der Herr und König über all die vielen Stämme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trink zum Rausche dir, den dir der Adler zugeführt; Denn aller Menschenstämme Herr und König bist du, Indra, ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей сому, чтобы опьяниться,  
 О Индра, принесенного орлом, выжатого –  

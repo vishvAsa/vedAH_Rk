@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने सुह꣡वो रण्व꣡संदृक्  
 सुदीती꣡ सूनो सहसो दिदीहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ वीरो꣡ अस्म꣡न् न꣡रियो वि꣡ दासीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । त्वे इति॑ । सचा॑ । तन॑ये । नित्ये॑ । आ । ध॒क् । मा । वी॒रः । अ॒स्मत् । नर्यः॑ । वि । दा॒सी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -138,35 +138,35 @@ genre M
 **सहसः** **सूनो** सहसः सुत हे **अग्ने** **सुहवः** स्वाह्वानः **रण्वसंदृक्** रमणीयसंदर्शनः **त्वं** **सुदीती** शोभनया दीप्त्या **दिदीहि** दीप्यस्व । किंच **तनये** **नित्ये** औरसे पुत्रे **त्वे** त्वं **सचा** सहायभूतः **मा** **आ** **धक्** माभिधाक्षीः । अपि च **अस्मत्** पृथग्भूतः अस्माकं वा । षष्ठ्यर्थे पञ्चमी । **वीरः** पुत्रः **नर्यः** नरहितः **मा** **वि** **दासीत्** नोपक्षीयेत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Shine wiḥ bright lustre, **Agni**, son of strength, you who are earnestly invoked, and of plural asant aspect;consume not the begotten son with whom you are associated; let not our **male** offspring, beneficial to man,perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, you are of easy summons and joy-bringing appearance. Be  brilliant with good brilliance, o son of strength. In company with you, let there be no falling short for our own lineage.  Let not the manly hero fade away among us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Agni, swift to hear, art fair of aspect: beam forth, O Son of Strength, in full effulgence.  
      Let me not want, with thee, a son for ever: let not a manly hero ever fail us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist leicht zu errufen, von erfreulichem Anblick, leuchte mit schönem Lichte, du Sohn der Kraft! Nicht soll es bei dir an einem eigenen leiblichen Sohn fehlen, nicht soll uns ein mannhafter Sohn mangeln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, schön zu rufen, hold zu schauen, Agni, mit schönem Strahle strahl, o Sohn der Stärke, bei dir kann Leid den eignen Stamm nicht treffen, kann nicht uns mangeln ein gewalt'ger Kriegsheld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, легко призываемы>, радостньгл на вид,  
 Засверкай, о сын силы, прекрас1(tm)м сверканием!  

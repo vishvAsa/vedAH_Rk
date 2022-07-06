@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ यं꣡ हिं꣡सन्ति धीत꣡यो न꣡ वा꣡णीर्  
 इ꣡न्द्रं न꣡क्षन्ती꣡द् अभि꣡ वर्ध꣡यन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गृण꣡न्ति गि꣡र्वणसं शं꣡ त꣡द् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यदि॑ । स्तो॒तारः॑ । श॒तम् । यत् । स॒हस्र॑म् । गृ॒णन्ति॑ । गिर्व॑णसम् । शम् । तत् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -127,43 +127,43 @@ genre M
 **यम्** **इन्द्रं** **धीतयः** कर्माणि परिचरणानि **न** **हिंसन्ति** न बाधन्ते । **वाणीः** वाण्यः स्तुतयश्च यं **न** बाधन्ते । दातुमसमर्थः पुरुषोऽन्यकृतैः परिचरणैः स्तुतिभिश्च भृशं खिद्यते अस्य चेन्द्रस्य बहुधनत्वाद्दातृत्वाच्च तस्मिन् प्रयुज्यमानानि परिचरणानि स्तोत्राणि च बाधहेतवो नाभूवन्नित्यर्थः । किं तर्हीत्यत आह । तमिन्द्रं **वर्धयन्तीः** वर्धयन्त्यः **अभि** **नक्षन्ति** अभिगच्छन्ति । अपि च **गिर्वणसं** गिरां संभक्तारमिन्द्रं **शतं** शतसंख्याकाः **स्तोतारः** **यदि** **गृणन्ति** स्तुवन्ति । **यत्** यदि च **सहस्रं** सहस्रसंख्याकाः स्तोतारः स्तुवन्ति **तत्** सर्वं स्तोत्रम् **अस्मै** इन्द्राय **शं** सुखकरं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All praises contributing to his exaltation proceed to **Indra**, whom no acts, no words can harm, since hundreds and thousands of adorers glorify him who is entitled to praise, and so afford him gratification.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, whom neither insightful thoughts nor voices harm; they just  approach him, making him strong.  
 When a hundred, when a thousand praisers sing to him who longs for  song, that is weal for him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 To say that praises don’t harm Indra seems a little odd: who would think that they would? nákṣanti is one of the few examples where íd by itself seems to induce accent on the verb; most of the putative examples (see Grassmann s.v. íd, §5, p. 206) involve pādainitial verbs that could owe their accent to their position. I am not entirely certain, however, that this passage exemplifies this property of íd, since initial índram in b could be enjambed over the pāda break, and nákṣanti start a new clause. V.32.5 presents an undoubted ex. of íd inducing verb accent.
 
 I interpr. yádi in c as *yad ī, i.e., an example of the enclitic acc. ī univerbated with a preceding yád (see my 2002 “RVic sīm and īm,” Fs. Cardona). This is a particularly clear ex., because of the parallel yád later in the pāda (*yád ī stotā́ra śatáṃ yát sahásram “when a hundred praisers, when a thousand”), where an imbalance of subordinators (“if a hundred praisers, when a thousand …”) would not make sense. Moreover the form is followed by a cons. cluster (yádi stotā́raḥ), so that the meter would be unaffected by *ī shortened to -i.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They make their way to Indra and exalt him, bim whom no prayers and no laudations trouble;  
      For when a hundred or a thousand singers. laud him who loves the song their praise delights him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem die Gedichte, die Sängerstimmen keinen Abbruch tuen, sie kommen vielmehr zu Indra ihn stärkend. Wenn hundert Sänger, wenn tausend den Lobliebenden preisen, so ist ihm das Recht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Lieder nicht misfallen, noch Gebete, zu Indra dringen recht sie, Kraft verleihend; Wenn hundert Sänger und wenn tausend preisen den liederlust'gen, so ist das ihm Labsal.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому не вредят ни стихи, ни голоса (певцов) –  
 Они достигают (этого) Индру, укрепляя (его).  

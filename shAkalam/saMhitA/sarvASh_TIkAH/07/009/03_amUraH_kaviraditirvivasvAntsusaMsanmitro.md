@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मूरः कवि꣡र् अ꣡दितिर् विव꣡स्वान्  
 सुसंस꣡न् मित्रो꣡ अ꣡तिथिः शिवो꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपां꣡ ग꣡र्भः प्रसु꣡व आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 चि॒त्रऽभा॑नुः । उ॒षसा॑म् । भा॒ति॒ । अग्रे॑ । अ॒पाम् । गर्भः॑ । प्र॒ऽस्वः॑ । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amūraḥ* ← *amūra*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 योऽग्निः **अमूरः** अमूढः **कविः** प्राज्ञः **अदितिः** अदीनः **विवस्वान्** दीप्तिमान् **सुसंसत्** शोभनसदनः शोभनसंवेदनो वा **मित्रः** प्रमीतेस्त्राता सर्वेषाम् **अतिथिः** अतिथिवत् पूज्यः **शिवः** शिवकरो जगतः **चित्रभानुः** चित्रदीप्तिः **उषसाम्** **अग्रे** मुखे **भाति** सोऽयम् **अपां** **गर्भः** सन् **प्रस्वः** जायमाना ओषधीः **आ** **विवेश** । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 Prasva a viveśa = jayamana **oṣadhiḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sage poet who is never misled—Aditi and Vivasvant, Mitra of good  fellowship and our kind guest—  
 with shimmering radiance, he radiates at the head of the Dawns. The  infant of the Waters has entered the fruitful ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise, ne.'er deceived, uncircumscribed, refulgent, our gracious guest, a Friend with good attendants,  
      Shines forth with wondrous light before the Mornings; the young plants hath he entered, Child of Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kluge Seher ist uns Aditi, Vivasvat, Mitra von schöner Gesellschaft, unser angenehmer Gast. Er leuchtet noch vor den Morgenröten in prächtigem Glanz; der Wasser Kind ist er in die sprossenden Pflanzen eingegangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sinn'ge, helle, schrankenlose Weise, der schön gesellte Freund, der holde Gast uns Erglänzt hellleuchtend in der Morgen Anbruch; der Wasser Sohn betrat die Blütenähren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мудрый поэт, Адити, Вивасват,  
 Прекрасно объединяющий Митра, гость наш милый...  

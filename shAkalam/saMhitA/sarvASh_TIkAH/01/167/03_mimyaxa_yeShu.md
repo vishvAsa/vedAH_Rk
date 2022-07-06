@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मिम्य꣡क्ष ये꣡षु सु꣡धिता घृता꣡ची  
 हि꣡रण्यनिर्णिग् उ꣡परा न꣡ ऋष्टिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सभा꣡वती विदथि꣡येव सं꣡ वा꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गुहा॑ । चर॑न्ती । मनु॑षः । न । योषा॑ । स॒भाऽव॑ती । वि॒द॒थ्या॑ऽइव । सम् । वाक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
@@ -119,7 +119,7 @@ genre M
 **सुधिता** सुष्ठु निहिता सुष्ठु हिता वा लोके **घृताची** घृतं क्षरणशीलमुदकमञ्चन्ती **हिरण्यनिर्णिक्** हितरमणीयरूपा । निर्णिगिति रूपनाम । एवंरूपा **ऋष्टिः** विद्युदाख्यायुधविशेषो वा **उपरा** **न** मेघमालेव **येषु** मरुत्सु **सं** **मिम्यक्ष**। म्यक्षतिर्गतिकर्मा। संगताभूत् । मेघपङ्क्तिविद्युतौ इमे अपि संगते इत्यर्थः । मेघपङ्क्तिर्विद्युच्चोभे दृष्टान्तेन विशेष्येते । **गुहा** निगूढा गुहायां वा अन्तरिक्षे **चरन्ती**। तत्र दृष्टान्तः । **मनुषो** **न** **योषा** मनुष्यस्य परिवृढादेर्महिषीवत् । सा यथा सुवेषा अन्तःपुरे एव मध्ये चरति तद्वत् । किं सर्वदैवमिति नेत्याह । **सभावती** । सभा जनसंघः। तद्वती। वर्षकाले आविर्भवन्तीत्यर्थः । तत्र दृष्टान्तः। **विदथ्या** **वाक्** इव । विदथो यज्ञ: । तदर्हतीति विदथ्यो प्रैषस्तोत्रादिरूपा वाक् । सा यथा यज्ञसभां प्राप्याविर्भवति तद्वत् । यद्वा । विदथ्या वेदनार्हा विवदमानयोर्वाक् । सा यथा सभावती तद्वत् । सैवंरूपा येषु मिम्यक्ष ते मरुतो देवयजनमागच्छन्त्वियर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 **Guhā** caranti manuṣo na **yoṣā**, going in the darkness of the sky, as if it was in private or in secret, like the wife of a man, who, although, is brilliantly attired, remains in the privacy of the feminine le apartments, suveṣāntahpura eva madhye **carati**; distinguished in assemblies: sabhāvati vidatheva sam. vāk; the first is referred to the lightning, which, at times, shows itself as if in an assembly, **sabhā**; the reference may also be to yoṣā, a woman who is not always restricted to the private chambers, but appears occasionally in public
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The Maruts), to whom (Rodasī) has been joined, positioned well, up  close to them like their own spear—she ghee-rich, garbed in gold,  
 roving in secret, like a young woman going to men when she’s bound for  the public hall [/provided with a public forum] like ceremonial speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the punning and diametrically opposed, negative and positive readings of this vs. mediated by sabhā́vatī, see the published introduction. Rodasī is depiced both as fit for the sabhā (gaming hall) like a young woman who goes there in secret [=whore], but also fit for the sabhā (assembly) like speech to be publicly uttered there (cf. the sabhéyo vípraḥ “the inspired poet appropriate to the sabhā in II.24.13). For the association between the sabhā and licentious sexual activity, see Falk (Bruderschaft, 90-92).
 
@@ -157,23 +157,23 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Close to them clings one moving in seclusion, like a man's wife, like a spear carried rearward,  
      Well grasped, bright, decked with gold there is Vak also, like to a courtly, eloquent dame, among them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An die sich angeschlossen hat wohlaufgenommen die in Schmalz wandelnde Rodasi, in Gold gekleidet wie der hintere Teil des Speers, heimlich mitkommend wie eines Menschen Weib, von einem Zuhörerkreis umgeben wie die gelehrte Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei denen glänzt der schöngeführte Löffel gleichwie der Griff des goldgeschmückten Schwertes, Der Buhle gleich, die heimlich kommt zum Manne, und gleich dem Wort in festlicher Versammlung,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Маруты,) к которым примкнула (Родаси), хорошо помещенная, (вся) в расплавленном масле,  
 В золотом наряде, словно близкое копье,  

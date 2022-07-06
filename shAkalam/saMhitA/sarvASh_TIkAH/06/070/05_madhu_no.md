@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धु नो द्या꣡वापृथिवी꣡ मिमिक्षताम्  
 मधुश्चु꣡ता मधुदु꣡घे म꣡धुव्रते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡हि श्र꣡वो वा꣡जम् अस्मे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दधा॑ने॒ इति॑ । य॒ज्ञम् । द्रवि॑णम् । च॒ । दे॒वता॑ । महि॑ । श्रवः॑ । वाज॑म् । अ॒स्मे इति॑ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhu*
 - \[noun\], accusative, singular, neuter
@@ -124,20 +124,20 @@ genre M
 **मधुश्चुता** उदकस्य क्षारयित्र्यौ **मधुदुघे** उदकदोग्ध्र्यौ **मधुव्रते** उदकार्थकर्माणौ **देवता** देवताभूते **अस्मे** अस्मासु **यज्ञं** **द्रविणं** धनं **च** **महि** महत् **श्रवः** यशः **वाजम्** अन्नं **सुवीर्यं** सुवीरत्वं च **दधाने** ददत्यौ **द्यावापृथिवी** द्यावापृथिव्यौ **नः** अस्मान् **मधु** मधुना ॥ तृतीयैकवचनस्य लुक् ॥ **मिमिक्षतां** सिञ्चताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Heaven and Earth, the effusers of water, the milkers of water, dischargers of the functions of water, divinities, the promoters of sacrifice, the bestowers of wealth, of renown, of food, of **male** posterity, combine together.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Heaven and Earth trickle honey on us, the two dripping with honey,  milking out honey, having honeyed commandments,  
 through their divinity establishing sacrifice for themselves, and material  wealth, great fame, the prize of victory, and an abundance of heroes  for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b madhudúghe reprises the same word in the same metrical position in 1b.
 
@@ -146,23 +146,23 @@ What ‘having honeyed commandments’ refers to is not clear to me; it is a hap
 I configure cd slightly differently from the standard, which takes yajñáṃ dráviṇaṃ ca as what H+E establish for the gods and the misc. acc. in d as what they do for us. My interpr. is informed by two passages in the immediately preceding hymn: VI.69.1 juṣéthāṃ yajñáṃ dráviṇaṃ ca dhattam “enjoy the sacrifice and confer wealth” and VI.69.6 dráviṇam dhattam asmé “confer wealth on us.” In both passages dráviṇam is implicitly or explicitly meant for us, while in the 1st yajñám is meant for the gods to enjoy. This matches the use of dráviṇa- elsewhere: it’s what mortals want and gods confer on them. I therefore construe dráviṇam as the first member of the complex NP to be taken with asmé in d (dráviṇaṃ ca … máhi śrávo vā́jam … suvī́ryam. Geldner (n. 5c) recognizes the problem but chooses to go with the pāda division. My interpr. has the further advantage of not having to take devátā as an honorary dative, but rather with the instr. value that it should have.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Heaven and Earth pour down the balmy rain for us, balm-dropping, yielding balm, with balm upon your path,  
      Bestowing by your Godhead sacrifice and wealth, great fame and strength for us and good heroic might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde, die honigtriefenden, honigmilchenden, honigwirkenden sollen uns Honig bereiten, den Göttern Opfer und Wohlstand einbringend, uns großen Ruhm, Lohn und Meisterschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst strömen uns, o Erd' und Himmel, Süssigkeit, die Meth ihr träufelt, Süsses strömt, süss wirkende, Die Opfer ihr und Gaben zu den Göttern bringt und grossen Ruhm zu uns und Labung, Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Медом пусть оросят нас Небо-и-Земля,  
 (Те, что) мед источают, медом доятся, чей завет - мед,  

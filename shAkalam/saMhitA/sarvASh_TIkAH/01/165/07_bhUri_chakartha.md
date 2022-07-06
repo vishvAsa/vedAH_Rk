@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि चकर्थ यु꣡जियेभिर् अस्मे꣡  
 समाने꣡भिर् वृषभ पउं꣡सियेभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र क्र꣡त्वा मरुतो य꣡द् व꣡शाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 भूरी॑णि । हि । कृ॒णवा॑म । श॒वि॒ष्ठ॒ । इन्द्र॑ । क्रत्वा॑ । म॒रु॒तः॒ । यत् । वशा॑म ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], accusative, singular, neuter
@@ -122,21 +122,21 @@ genre M
 अथैवमुक्ताः  इन्द्रं पुनराहुः । हे इन्द्र **वृषभ** वर्षितः त्वं भूरि **चकर्थ** प्रभूतं कृतवानसि सत्यमेव । तथापि **अस्मे** अस्माकं **समानेभिः** समानैः **युज्येभिः** अस्माभिर्युक्तैः **पौंस्येभिः** पुंसः कर्मभिः सामर्थ्यैरेव चकर्थ । न तु एक एवेत्यर्थः । हे **शविष्ठ** । शव इति बलनाम। हे इन्द्र बलवत्तम वयं **भूरीणि** **हि** त्वत्कृतादपि प्रभूतानि कर्माणि कृणवाम कृतवन्तः स्म । हे **इन्द्र** **क्रत्वा** क्रतुना कर्मणा **यत्** यद्वृष्ट्यादिकं **वशाम** कामयामहे । तानि त्वत्तोऽप्यधिकानीत्यर्थः । यतो वयं **मरुतः** ॥ छान्दसमनुदात्तत्वम् ॥ एतेन स्वमहत्त्वं स्थापितं भवति । स्वरो व्यस्तः । अथवा इन्द्रस्येदं वाक्यम् । हे मरुतः यत् यस्यैव तत् तस्यैव भवतु । तर्हि अहं च यूयं च सहैव क्रत्वा कर्मणा यद्वशाम यत् वृष्टिकर्मं कामयामहे तस्मादुदकं समानमेवेत्यर्थः । एवं मरुत इति निघातस्वरस्य व्याख्यानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Maruts**): Showerer (of benefits), you have done much; but it has been without united equal energies; for we, too, most powerful **Indra**, have done many things, and by our deeds (we are, as) we desire to be, Maruts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Leader of the Maruts:] You did many things when we were there, with  our united manly powers (ready) to be deployed, o bull;  
 we shall do many things in accordance with your purpose, o most  
 powerful Indra, when we, o fellow Maruts, shall wish it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In vs. 5 the Maruts spoke literally of yoking their teams to bring them for the journey, but in this vs. the same root √yuj is used metaphorically, in the gerundive yújya-, to indicate the Maruts’ powers that were available to be yoked/deployed by Indra, though he didn’t. Note also the adj. samāná- ‘common, joint’ (repeated from 1b) referring to the powers shared by the Maruts, in contrast to Indra’s constant lone state.
 
@@ -150,23 +150,23 @@ The dueling vocatives in d, índra and marutaḥ, are notable, esp. because they
 group is of course striking -- though well within the limits of poetic self-address we find elsewhere in the text (see disc. in my "Poetic Self-Reference in the Rig Veda and the Persona of Zarathustra,” Fs. Skjaervø, 2009). In this case I imagine a “spokesMarut” who takes the lead in addressing Indra but also turns to his own group for a chorus of affirmation (of the type, “right, guys?!”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, much hast thou achieved with us for comrades, with manly valour like thine own, thou Hero.  
      Much may we too achieve, O mightiest Indra, with our great power, we Maruts, when we will it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vieles hast du mit uns als Verbündeten, mit vereinten Kräften, du Bulle, getan. Vieles werden wir drum noch tun, du gewaltigster Indra, wenn wir ernstlich wollen, ihr Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Gar viel hast du vollbracht mit uns verbündet o starker, mit vereinten Heldenkräften, Und vieles werden wir, o Indra, wirken mit Kraft, o stärkster, wenn wir Maruts wollen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты многое совершил вместе с нами как с союзниками,  
 Общими (для нас) силами мужества, о бык.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् रुहा꣡व व꣡रुणश् च ना꣡वम्  
 प्र꣡ य꣡त् समुद्र꣡म् ईर꣡याव म꣡ध्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ प्रेङ्ख꣡ ईङ्खयावहै शुभे꣡ क꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अधि॑ । यत् । अ॒पाम् । स्नुऽभिः॑ । चरा॑व । प्र । प्र॒ऽई॒ङ्खे । ई॒ङ्ख॒या॒व॒है॒ । शु॒भे । कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 **यत्** यदा वरुणे प्रसन्ने सति अहं **वरुणश्च** उभौ **नावं** द्रुममयीं तरणसाधनभूताम् **आ** **रुहाव** उभावारूढावभूव । तां च नावं **यत्** यदा **समुद्रं** **मध्यं** समुद्रस्य मध्यं प्रति **प्र** **ईरयाव** प्रकर्षेण गमयाव । **यत्** यदा च **अपाम्** उदकानाम् **अधि** उपरि **स्नुभिः** गन्त्रीभिरन्याभिरपि नौभिः **चराव** वर्तावहै। तदानीं **शुभे** शोभार्थं **प्रेङ्खे** नौरूपायां दोलायामेव **प्र** **ईङ्खयावहै**। निम्नोन्नतैस्तरङ्गैरितश्चेतश्च प्रविचलन्तौ संक्रीडावहै । **कम्** इति पूरकः । यद्वा क्रियाविशेषणम् । कं सुखं यथा भवति तथेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,34 +139,34 @@ genre M
 With swift sailing vessels: snubhis' carāva gantrībhir naubhiḥ: with going, viz., ships; thenmay we both undulate: pra preṅkha īṅkhayāvahai śubhe kam: preṅkhe naurūpāyām dolāyām evapreṅkhayāvahai nimnonnatais taraṅgair itas' cetaśca pravicalantau saṅkrīḍāvahai, let us both sport, beingtossed here and there by the up and down waves, as it were in a swing, in the form of a ship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we two, Varuṇa and (I), will board the boat, when we two will raise  the middle of the sea,  
 when we two will voyage through the crests of the waters, we will swing  on the swing for beauty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Varuna and I embark together and urge our boat into the midst of ocean,  
      We, when we ride o'er ridges of the waters, will swing within that swing and there be happy.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When Varuṇa and I the boat have mounted And have propelled it to the midst of ocean; When we shall move across the waters' ridges We'll waver in the swing to raise its lustre.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir beide, ich und Varuna, das Schiff besteigen, wenn wir mitten ins Meer hinaussteuern, wenn wir über den Rücken des Wassers fahren werden, so wollen wir uns in der Schaukel schaukeln, um zu prangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ich das Schiff mit Varuna besteige, und beide wir zum hohen Meer es steuern, Wenn auf der Wogen Gipfeln wir dann wallen, dann schaukle uns die Schaukel hin zum Heile.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда мы двое восходим на корабль: Варуна и (я),  
 Когда выводим (корабль) на середину океана,  

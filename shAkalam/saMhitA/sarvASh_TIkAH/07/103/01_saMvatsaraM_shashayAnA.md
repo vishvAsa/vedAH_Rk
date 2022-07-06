@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 संवत्सरं꣡ शशयाना꣡  
 ब्राह्मणा꣡ व्रतचारि꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ मण्डू꣡का अवादिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 वाच॑म् । प॒र्जन्य॑ऽजिन्विताम् । प्र । म॒ण्डूकाः॑ । अ॒वा॒दि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃvatsaraṃ* ← *saṃvatsaram* ← *saṃvatsara*
 - \[noun\], accusative, singular, masculine
@@ -89,7 +89,7 @@ popular;; epic anuṣṭubh (424)
 अत्र निरुक्तम्-वसिष्ठोवर्षकामः पर्जन्यं तुष्टाव तं मण्डूका अन्वमोदन्त समण्डूकाननुमोदमानान्दृष्ट्वा तुष्टावेति मण्डूकामज्जूकामज्जना- न्मदतेर्वामोदतिकर्मणोमन्दतेर्वातृप्तिकर्मणोमण्डयतेरिति वैय्याकरणामण्डएषामोकइतिवा मण्डो मदेर्वा मुदेर्वातेषमेषाभवतीति । व्रतचारिणः व्रतं संवत्सरसत्रात्मकं कर्म आचरन्तोब्राह्मणाः लुप्तोपममेतत् एवं भूताब्राह्मणाइव संवत्सरं शरत्प्रभृति आवर्षर्तोरेकं संवत्सरं शशयानाः शिश्यानाः वर्षणार्थं तपश्चरन्तइव बिलएव सन्तः एते मण्डूकाः पर्जन्यजिन्वितां पर्जन्येन प्रीतां यया वाचा पर्जन्यः प्रीतोभवति तादृशीं वाचं प्रावादिषुः प्रवदन्ति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,14 +100,14 @@ popular;; epic anuṣṭubh (424)
 **Vasiṣṭha**, having praised Parjanya, in order to procure rain, observing thefrogs to be delighted by his praises, addressed them in this hymn. Practising penance = lit. lying still, i.e.performing penance for rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having lain still for a year, (like) brahmins following their  
 commandment,  
 the frogs have spoken forth a speech quickened by Parjanya.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This first vs. is in Anuṣṭubh, as opposed to the rest of the hymn, which is Triṣṭubh, and it reads like a scene-setting introduction. Oldenberg suggests that it’s an addition.
 
@@ -124,28 +124,28 @@ I now think the phrase brāhmaṇā́vratacāríṇaḥ “(like) brahmins follo
 The phrase vā́cam … prá √vad is reminiscent of nearby VII.101.1 tisró vā́caḥ prá vada in a hymn to Parjanya, who is the instigator of the frogs’ speech here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THEY who lay quiet for a year, the Brahmans who fulfil their vows,  
      The Frogs have lifted up their voice, the voice Parjanya hath inspired.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Resting in silence for a year, Like Brahmins practising a vow, The frogs have lifted up their voices, Excited by Parjanya's call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem sie ein Jahr lang still dalagen wie Brahmanen, die ein Gelübde einhalten, haben die Frösche jetzt von Parjanya geweckt ihre Stimme erhoben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Jahr lang haben sie geruht, die Priester dem Gelübde treu, Die Frösche stimmen an das Lied, das durch Pardschanja ward erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пролежав (неподвижно) год,  
 (Словно) брахманы, исполняющие обет,  

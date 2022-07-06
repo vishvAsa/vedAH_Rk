@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् उ ते अ꣡नुष्टुतिश्  
 चकृषे꣡ ता꣡नि पउं꣡सिया  
 प्रा꣡वश् चक्र꣡स्य वर्तनि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 प्र । आ॒वः॒ । च॒क्रस्य॑ । व॒र्त॒निम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -88,41 +88,41 @@ genre M
 **इयम्** इदानीं क्रियमाणा **अनुष्टुतिः** अनुकूला स्तुतिः **ते** तव स्वभूता । कुतस्त इति उच्यते । **तानि** प्रसिद्धानि वृत्रवधादीनि **पौंस्या** पुंस्त्वानि यतः **चकृषे** । अतस्त इत्यर्थः । हे इन्द्र **चक्रस्य** रथाधारस्य **वर्तनिं** मार्गं **प्रावः** प्रारक्षः । अथास्मद्यज्ञगमनाय रक्षःकृता चक्रमार्गबाधा यथा न भवति तथा रक्षसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This praise is yours, for you have achieved those exploits; you have guarded the road of ourchariot-wheel (to the sacrificial rite).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the praise that follows you: you did these manly deeds;  
 you furthered the turning of the wheel.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, “the turning of the wheel” (cakrásya vartaním) recalls the later designation for a universal monarch cakra-vartin ‘turner of the wheel’. The association of cakráṃ with √vṛt ‘turn’ is found elsewhere in the RV (cakráṃ ná vrttám ̥ I.155.6 = IV.31.4 = V.36.3; and a number of VPs, e.g., I.164.11 várvarti cakrám, II.11.20 ávartayat sū́ryo ná cakrám), but this seems the passage most implicated in power and sovereignty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This praise is verily thine own: thou hast performed these manly deeds,  
      And sped the wheel upon its way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein ist dieses Lob; du hast diese Taten getan; du halfst dem Laufe des Rades weiter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dies ist nun dein hohes Lob, du führtest diese Thaten aus, Des Rades Umlauf triebst du an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот это твое восхваление,  
 Ты совершил эти мужественные деяния.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा रम्भं꣡ न꣡ जि꣡व्रयो  
 ररभ्मा꣡ शवसस् पते  
 उश्म꣡सि त्वा सध꣡स्थ आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒श्मसि॑ । त्वा॒ । स॒धऽस्थे॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शवसस्पते** बलस्य पते **त्वा** त्वां वयं **जिव्रयः** क्षीणा वृद्धाः **रम्भं** **न** दण्डमिव **ररभ्म** रभामहे । तथा च यास्कः-’आरभामहे वा जीर्णा इव दण्डम् ' (निरु. ३. २१) इति । अपि च **त्वा** त्वां **सधस्थे** यज्ञे **उश्मसि** कामयामहे ॥ ॥ ४५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of might, we lean on you as the aged on a staff; we long for you in the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As elderly men grasp a staff, we have grasped hold of you, lord of  strength.  
 We want you in our seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Lord of Strength, we rest on thee, as old men rest upon a staff:  
      We long to have. thee dwell with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir halten uns an dich wie Greise an den Stab, o Herr der Kraft; wir wünschen dich zur Stelle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir stützen uns, o Herr der Kraft, auf dich, wie Greise auf den Stab, Dich wünschen wir in unserm Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За тебя мы ухватились,  
 Как старики за палку, о господин силы.  

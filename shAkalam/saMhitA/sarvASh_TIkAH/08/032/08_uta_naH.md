@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नः पितु꣡म् आ꣡ भर  
 संरराणो꣡ अ꣡विक्षितम्  
 म꣡घवन् भू꣡रि ते व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मघ॑ऽवन् । भूरि॑ । ते॒ । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -86,43 +86,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **मघवन्** **संरराणः** संरममाणस्त्वम् **अविक्षितम्** अविक्षीणं **पितुम्** अन्नम् । ‘पृक्षः पितुः' इत्यन्ननामसु पाठात् । **नः** अस्मभ्यम् **आ** **भर** आहर । **ते** तव **वसु** धनं **भूरि** अधिकं हि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gratified by us, bring us undiminished food, **Maghavan**, for vast is your wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And bring us food, granting it inexhaustible—  
 many are your goods, liberal one—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand Geldner’s tr. of saṃrarāṇáḥ as ‘mitteilsam’ (communicative, talkative) and as if it were an adjective modifying food (“bring us mitteilsam Speise…”). (I assume that the specialization of this German cmpd for [verbal] communication postdates Geldner’s language acquisition stage and his usage reflects some sense of teilen ‘divide, share’.) Kümmel (421) suggests that this participle means “bereitwillig, spendefreudig,” implying that it is used absolutely and doesn’t take an object. This certainly is possible here, but doesn’t bring us to Geldner’s rendering.
 
 In any case, the form here (-rarāṇáḥ to √rā) echoes rāráṇaḥ (to √ran) in 6a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, taking thy delight with us bring us still undiminished food:  
      Great is thy wealth, O Maghavan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bring uns mitteilsam Speise, die nie abnimmt! Du Gabenreicher hast viel Gut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und bring den Labetrunk uns her, der nie versiegt, o gnädiger; Denn, reicher, vieles Gut ist dein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И ты, награждающий, принеси нам  
 Неиссякающее питание!  

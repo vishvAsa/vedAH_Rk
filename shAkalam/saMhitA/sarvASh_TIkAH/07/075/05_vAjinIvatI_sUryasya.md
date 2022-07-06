@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाजि꣡नीवती सू꣡रियस्य यो꣡षा  
 चित्रा꣡मघा राय꣡ ईशे व꣡सूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ उछति व꣡ह्निभिर् गृणाना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ऋषि॑ऽस्तुता । ज॒रय॑न्ती । म॒घोनी॑ । उ॒षाः । उ॒च्छ॒ति॒ । वह्नि॑ऽभिः । गृ॒णा॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājinīvatī* ← *vājinīvat*
 - \[noun\], nominative, singular, feminine
@@ -98,43 +98,43 @@ genre M
 वाजिनीवती बह्वन्ना। यद्यप्युषोनामैतत् तथापि चित्रामघा इत्यस्याप्युषोनामकस्य पृथग्विद्यमानत्वादत्रैको योगरूढोऽवगन्तव्यः। **सूर्यस्य** **योषा** योषित् 'चित्रामघा विचित्रधना विचित्ररश्म्याख्यधना वा **रायः** धनस्याविशिष्टस्य तस्य **वसूनां** देवमनुष्यादिसर्वाश्रयाणां धनानां च **ईशे** ईष्टे । अथवा वसवो वासका रश्मयः । तेषामपीष्टे । **ऋषिष्टुता** ऋषिभिः स्तुता **जरयन्ती** प्राणिजातानि । उषाः खलु पुनःपुनरावर्तमाना प्राणिनामायुः क्षपयति । **मघोनी** धनवती **उषाः** **वह्निभिः** कर्मवोढृभिर्यजमानैः **गृणाना** स्तूयमाना **उच्छति** विभानं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bride **Sūrya**, the distributress (of food), the possessor of wonderful wealth, she rules overtreasures (of every kind) of riches; hymned by the ṛṣis, the waster away of life, the mistress of opulence, sherises glorified by the offerers (of oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessed of prize mares, the maiden of the Sun who brings bright  bounties has dominion over wealth, over goods.  
 Praised by seers, awakening (the world), bounteous Dawn dawns, being  hymned by the conveyors (of songs/oblations).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 citrá- reappears in b (cf. 2c and 3b).
 
 The polarized position of the phrases ṛ́ṣiṣṭutā (beg. of c) and váhnibhir gṛṇānā́ (end of d) helps anchor the application of váhni- ‘conveyor’ to ‘conveyor of ritual offerings’, since ‘praised by seers’ is unambiguous. Cf. also I.48.11 yé tvā grṇ̥ ánti váhnayaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She who is rich in spoil, the Spouse of Surya, wondrously opulent, rules all wealth and treasures.  
      Consumer of our youth, the seers extol her: lauded by priests rich Dawn shines out refulgent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Belohnungen bringende Maid des Surya mit prächtigen Geschenken gebeut über Reichtum, über Schätze. Von den Rishi´s besungen geht die gabenreiche Usas die Welt erweckend auf, von den Wortführern gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Sonnengottes labungsreiche Gattin, an Schätzen reich, besitzt der Güter Fülle; Gerühmt von Sängern, mächtig, Leben weckend erstrahlt sie hell, gepriesen von den Priestern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Несущая награду возлюбленная Сурьи,  
 С блестящими дарами, она повелевает богатством, благами.  

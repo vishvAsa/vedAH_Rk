@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शर꣡स्य चिद् आर्चत्क꣡स्यावता꣡द् आ꣡  
 नीचा꣡द् उच्चा꣡ चक्रथुः पा꣡तवे वाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡सुरये स्तरि꣡यम् पिप्यथुर् गा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श॒यवे॑ । चि॒त् । ना॒स॒त्या॒ । शची॑भिः । जसु॑रये । स्त॒र्य॑म् । पि॒प्य॒थुः॒ । गाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śarasya* ← *śara*
 - \[noun\], genitive, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **आर्चत्कस्य** ऋचत्कपुत्रस्य **शरस्य** एतत्संज्ञस्यापि स्तोतुः पिपासितस्य **पातवे** पानार्थं **नीचात्** नीचीनात् **अवतात्** कूपात् **उच्चा**, उच्चैरुपरिष्टात् **वाः** उदकं हे अश्विनौ युवाम् **आ** **चक्रथुः** आभिमुख्येन कृतवन्तौ । तथा हे नासत्यावश्विनौ **शचीभिः** युष्मदीयैः कर्मभिः परिचरणैः **जसुरये** श्रान्ताय **शयवे** **चित्** शयुनाम्ने ऋषये **स्तर्यं** निवृत्तप्रसवां **गाम्** अग्निहोत्रार्थस्य पयसो दोग्ध्रीं **पिप्यथुः** पयसा युवामापूरितवन्तौ ॥ पातवे ।' पा पाने '।' तुमर्थे सेसेन्° ' इति तवेन्प्रत्ययः । जसुरये । जसु हिंसायाम्'। जसिसहोरुरिन्' (उ. सू. २. २३१ )। स्तर्यम्। स्तीर्यते आच्छाद्यते प्रसवसामर्थ्याभावेन इति स्तरीः । ‘अवितॄस्तृतन्त्रिभ्य ई: ( उ. सू. ३. ४३८ ) इति ईकारप्रत्ययः । ‘वाच्छन्दसि ' इति अमि पूर्वत्वस्य विकल्पितत्वात् अभावे यणादेशः । ‘उदात्तस्वरितयोर्यणः०' इति परस्यानुदात्तस्य स्वरितत्वम् । पिप्यथुः । ‘प्यायी वृद्धौ'। लिटि व्यत्ययेन परस्मैपदम् । लिड्यङोश्च' (पा. सू. ६. १. २९ ) इति पीभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ genre M
 Śara = Ārcitka, son of Ṛcitka
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From the (dry [?]) well also of Śara, son of R̥catka, you supplied water  (flowing) upward from below for him to drink.  
 Also for starving Śayu, o Nāsatyas, with your powers you made his  
 sterile cow swell (with milk).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From the deep well ye raised on high the water, so that Rcatka's son, Sara, should drink it;  
      And with your might, to help the weary Sayu, ye made the barren cow yield milk, Nasatyas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Sara, den Sohn des Ricatka, holtet ihr zum Trinken aus dem Brunnen das Wasser aus der Tiefe nach oben. Für den verschmachtenden Sayu machtet ihr Nasatya´s durch eure Künste die unfruchtbare Kuh milchstrotzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus des Artschatka Çara Brunnen zogt ihr zum Trinken Wasser aufwärts aus der Tiefe Und kräftig liesst ihr dem erschöpften Çaju, die unfruchtbare Kuh, o Treue, schwellen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А для Шары, сына Ричатки, из колодца  
 Вы достали воду для питья снизу – вверх.  

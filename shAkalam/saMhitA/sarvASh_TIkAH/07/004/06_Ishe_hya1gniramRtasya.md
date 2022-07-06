@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡शे हि꣡ अग्नि꣡र् अमृ꣡तस्य भू꣡रेर्  
 ई꣡शे रायः꣡ सुवी꣡रियस्य दा꣡तोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ अ꣡प्सवः प꣡रि षदाम मा꣡दुवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । त्वा॒ । व॒यम् । स॒ह॒सा॒ऽव॒न् । अ॒वीराः॑ । मा । अप्स॑वः । परि॑ । स॒दा॒म॒ । मा । अदु॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
@@ -137,7 +137,7 @@ genre M
 **अमृतस्य** अन्नमुदकं वा । द्वितीयार्थे षष्ठी । **भूरेः** अधिकं **दातोः** दातुम् **अग्निः** **ईशे** ईष्टे **हि**। **सुवीर्यस्य** शोभनवीर्ययुक्तं **रायः** धनं दातुम् **ईशे** ईष्टे । अथ प्रत्यक्षस्तुतिः । **सहसावन्** हे बलवन्नग्ने **वयं** वसिष्ठाः **अवीराः** पुत्रादिरहिताः सन्तः **मा** **परि** **षदाम** मा पर्युपविशाम । **अप्सवः** रूपरहिताश्च सन्तः **मा** परि षदाम । तथा च यास्कः-’ अप्स' इति रूपनाम' (निरु. ५.१३) इति । **अदुवः** परिचरणहीनाश्च **मा** परि षदाम ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 Devoid of beauty: māsavāḥ rūparahitaḥ: apsas = **rūpa** (apsa iti rūpa **nāma**: **Nirukta** 5.13)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because Agni is the master of what is free of death [=alive] and  abundant, (because) he is the master of giving a wealth of men,  
 lacking men, let us not (sit around) you, o strong one; lacking lifebreath  or friendship, let us not sit around (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is Lord of Amrta. in abundance, Lord of the gift of wealth and hero valour,  
      Victorious God, let us not sit about thee like men devoid of strength, beauty, and worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Agni vermag den reichlichen Lebensbalsam, er vermag einen Schatz von guten Söhnen zu geben. Nicht wollen wir dich, du Mächtiger, ohne Söhne, ohne Vieh und ohne Achtung umsitzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er besitzt ja viele Götterspeise, vermag zu geben Heldenkraft und Reichthum; Nicht nahrungslos, nicht kinderlos, o mächt'ger, lass sitzen uns um dich, noch ohne Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь Агни владеет обильной силой жизни,  
 Владеет он даром богатства из прекрасных мужей.  

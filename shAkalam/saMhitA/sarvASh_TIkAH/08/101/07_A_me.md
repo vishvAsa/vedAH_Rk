@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मे व꣡चांसि उ꣡द्यता  
 द्युम꣡त्तमानि क꣡र्तुवा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 प्र꣡ति हव्या꣡नि वीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । या॒त॒म् । ना॒स॒त्या॒ । स॒ऽजोष॑सा । प्रति॑ । ह॒व्यानि॑ । वी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -99,37 +99,37 @@ genre M
 हे **नासत्या** नासत्यौ सत्यस्य प्रणेतारौ **सजोषसा** संगतौ **उभा** उभौ युवां **मे** जमदग्नेर्मम **उद्यता** उद्यतानि **द्युमत्तमानि** दीप्ततमानि **वचांसि** स्तोत्ररूपाणि वाक्यानि **कर्त्वा** कर्माणि च **आ** **यातम्** । किंच **हव्यानि** हवींषि **वीतये** भक्षणाय **प्रति** गच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O associated **Nāsatyās**, come both of you to my uplifted glorious praises and my rites, come topartake of my offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Drive) here to my upraised speeches, the most brilliant ones that are to  be performed—  
 drive, Nāsatyas, both of one accord, to make tracks toward the  
 oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 My songs are lifted up, and acts most splendid are to be performed.  
      Come hither, ye Nasatyas, with accordant mind, to meet and to enjoy my gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu meinen dargebrachten Reden, zu den glänzendsten Opferleistungen kommet, ihr beiden Nasatya´s, einmütig her, um die Opfergaben gern entgegenzunehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Liedern, die ich dargereicht, zu schönsten, die ich dichten will, Kommt beide her vereinigt, o Wahrhaftige, und zu den Opfern zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К моим вознесенным речам,  
 К самым блистательным свершениям,  

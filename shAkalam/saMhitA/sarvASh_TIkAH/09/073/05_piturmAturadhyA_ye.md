@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पितु꣡र् मातु꣡र् अ꣡धि आ꣡ ये꣡ सम꣡स्वरन्न्  
 ऋचा꣡ शो꣡चन्तः संद꣡हन्तो अव्रता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡चम् अ꣡सिक्नीम् भू꣡मनो दिव꣡स् प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ऽद्विष्टाम् । अप॑ । ध॒म॒न्ति॒ । मा॒यया॑ । त्वच॑म् । असि॑क्नीम् । भूम॑नः । दि॒वः । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
@@ -124,20 +124,20 @@ genre M
 **पितुर्मातुः** द्यावापृथिव्योः । ‘ द्यौर्मे पिता जनिता नाभिरत्र बन्धुर्मे माता पृथिवी महीयम्' (ऋ. सं. १.१६४.३३ ) इत्यादिषु द्यावापृथिव्योर्मातापितृत्वाम्नानात् । द्यावापृथिवीभ्यां **ये** सोमरश्मयः **अध्या** **समस्वरन्** अधिकं प्रादुर्भूता अभवन् ते **ऋचा** ऋत्विग्भिः क्रियमाणया स्तुत्या **शोचन्तः** दीप्यमानाः **अव्रतान्** कर्मरहितान् यजमानान् **संदहन्तः** सम्यग्विनाशयन्तस्ते रश्मयः **इन्द्रद्विष्टाम्** इन्द्राय द्वेषकारिणीम् । ‘क्ते च ' ( पा. सू. ६. २. ४५ ) इति पूर्वपदप्रकृतिस्वरः । इन्द्रेण द्विष्टां वा । **असिक्नीम्** । रात्रिनामैतत् । रात्रिवत्कृष्णरूपां **त्वचम्** । राक्षसमित्यर्थः । **मायया** कर्मणा प्रज्ञया वा **भूमनः** विस्तृताद्भूलोकात् **दिवस्परि** द्युलोकाच्च **अप** **धमन्ति** अपगतं कुर्वन्ति । अपघ्न्तीत्यर्थः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The rays) which were manifested in heaven and earth, illumined by the hymn (of praise), consuming the impious (sacrificers), drive away by their wisdom from earth and heaven the black-skinned (**rākṣasas**) hated by **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who sounded in unison from the father and the mother [=Heaven  and Earth], blazing with their verse, burning up those who follow no  commandment,  
 they blow away by magic power the black skin hated by Indra, from  earth and from heaven—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Sāyaṇa. and Renou but contra Geldner, I consider the father and mother of pāda a to be Heaven and Earth, matching that same pair in d. The reference is to the earthly and heavenly soma of 4a and b, which “sound in unison,” though also including the priest-poets, as disc. in the published introduction. They marshall their joint power, embodied in the māyā́associated with Varuṇa, against those “without commandments” (avratā́n); vratá- are of course esp. associated with Varuṇa, and by virtue of their presence in both heaven and earth can banish enemies from both places.
 
@@ -163,23 +163,23 @@ Their first pādas are nearly identical: ABL ABL ádhy ā́yé samásvaran “Th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'er Sire and Mother they have roared in unison bright with the verse of praise, burning up riteless men,  
      Blowing away with supernatural might from earth and from the heavens the swarthy skin which Indra hates.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die von Vater und Mutter her im Chorgesang erbrausten, in gebundener Rede erglühend, die Gesetzlosen versengend, die blasen durch Zaubermacht die dem Indra verhaßte schwarze Haut von Erde und Himmel fort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die mit Glanz vom Vater und der Mutter her erstrahlend rauschten, brennend weg der Frevler Schar, Sie blasen von der Erde und dem Himmel fort mit Zaubermacht die schwarze Haut, die Indra hasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, что дружно зазвучали от отца и матери,  
 Воспламеняясь от гимна, сжигая (врагов), лишенных обета,  

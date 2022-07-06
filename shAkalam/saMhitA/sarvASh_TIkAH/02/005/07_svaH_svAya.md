@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुवः꣡ सुवा꣡य धा꣡यसे  
 कृणुता꣡म् ऋत्वि꣡ग् ऋत्वि꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वने꣡मा ररिमा꣡ वय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्तोम॑म् । य॒ज्ञम् । च॒ । आत् । अर॑म् । व॒नेम॑ । र॒रि॒म । व॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
@@ -104,7 +104,7 @@ genre M
 अयमग्निः स्वः स्वयमेवस्वाय स्वकीयाय धायसेकर्मणेहविषान्धारणायवा ऋत्विक् होता जनिष्टे- त्यादिनोक्तलक्षणोहोतृपोतृप्रशास्त्राद्यृत्विग्रूपः सन् ऋत्विजंआर्त्विज्यं भावप्रधानोयन्निर्देशः देवर्त्विग्रू- पः सन् ऋत्विजम्मानुषमार्त्विज्यङ्कृणुताङ्करोतु वयञ्चतदनुग्रहात् आदनन्तरमेवस्तोत्रं यज्ञं चतदाश्रयं यागमपिअरंअलमत्यर्थंवनेम सम्भजेमहि ररिम ददेमहिचहविः यद्वा स्तोमंवनेमयज्ञं यज्ञयोग्यंहवीर- रिम ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,14 +115,14 @@ genre M
 The ministering priest: **Ṛtvij** or a priest in genitive ral, in which capacity, **Agni** is invited to officiate for himself
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him, as R̥tvij, make himself R̥tvij, to suckle himself.  
 Praise and sacrifice have we given. Then fittingly may we win (their  
 reward).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The convoluted but rhetorically balanced expression sváḥ svā́ya dhā́yase kṛṇutā́m ṛtvíg ṛtvíjam (“Let him, as Rtvij, ̥ make himself R̥tvij, to suckle himself”) makes explicit Agni’s double role in this hymn: he is both a divine version of each priest in turn and represents the corresponding human priest. Here as divine Ṛtvij he makes himself into the human Ṛtvij, whose function is to give nourishment to the ritual fire, that is, to himself -- a kind of closed and reflexive circle. Once the mechanism of the identifications that have run through the hymn has been laid bare, the poet briskly finishes up the hymn, beginning with the summary 2nd hemistich here.
 
@@ -131,28 +131,28 @@ Most tr. struggle to construe stómaṃ yajñáṃ ca with the closest verb, van
 Somewhat against my principles, I instead take ā́d áraṃ, vanéma as parenthetical and construe the first NP with rarimā́. (I have displaced the tr. of the ā́d clause to the right, because the parenthetical tr. was difficult to parse.) In favor of this interpr. is the fact that the standard tr. require ā́d to be in a highly unusual position, in the middle of its supposed clause. As it happens, Witzel Gotō interpr. the syntax as I do.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For his support let him perform as ministrant his priestly task;  
      Yea, song of praise and sacrifice: we have bestowed, let us obtain.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May He the Ritvig (priest) himself make the Ritvig (serve) for his own refreshment 1. And may we readily gain the praise and the sacrifice 2; we have offered it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er selbst soll zu seiner eigenen Befriedigung als Opferpriester den Opferpriester bestellen. Und mögen wir dann von dem Loblied und Opfer den rechten Gewinn haben. Wir haben es gespendet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Priester rüste selber sich den Priester zur Erquickung aus; Wir wollen Lied und Opfer nun ihm weihen, Gaben brachten wir,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть сам для своего удовлетворения  
 Жрец (-Агни) назначит жреца!  

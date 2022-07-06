@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे हि꣡ ष्मा म꣡नवे विश्व꣡वेदसो  
 भु꣡वन् वृधे꣡ रिशा꣡दसः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡न्ता नो अवृकं꣡ छर्दिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अरि॑ष्टेभिः । पा॒युऽभिः॑ । वि॒श्व॒ऽवे॒द॒सः॒ । यन्त॑ । नः॒ । अ॒वृ॒कम् । छ॒र्दिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -120,7 +120,7 @@ genre M
 **विश्ववेदसः** सर्वतो व्याप्तधनाः । बहुधना इत्यर्थः। तादृशाः **रिशादसः** रिशतां हिंसतां शत्रूणामसितार उपक्षपयितारो वा **विश्वे** **हि** **ष्म** सर्वे खलु देवाः **मनवे** । षष्ट्यर्थे चतुर्थी। मनोः **वृधे** वर्धनाथ **भुवन्** भवन्तु । स्तोत्रे मनुष्याय धनं दत्वा तं वर्धयन्तु इत्याशास्ते । ततो हे **विश्ववेदसः** सर्वधनाः सर्वज्ञा वा देवाः **अरिष्टेभिः** परैरहिंसितैः **पायुभिः** पालनैः सह **अवृकम्** । वृकः स्तेनः । तद्रहितम्। बाधारहितमित्यर्थः । तादृशं **छर्दिः** गृहं **नः** अस्मभ्यं **यन्त** प्रयच्छत । शत्रून् हृत्वा गृहेष्वस्माभिः कर्माणि कारयतेत्यर्थः । यन्तेति यमेर्लोटि छान्दसो विकरणस्य लुक् । तस्य तबादेशः । तेनानुनासिकलोपाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Safe from robbers: avṛkam stenarahitam = free from any annoyances, bādhārahitam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For they all, affording all possessions, caring for the stranger, will be  there for Manu, to increase him.  
 With invulnerable protectors, you who afford all possessions—hold out  to us shelter that keeps the wolf away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lords of all wealth, may they be strengtheners of man, destroyers of his enemies.  
      Lords of all wealth, do ye, with guards which none may harm, preserve our dwelling free from foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn alle die Allwissenden mögen dem Manu zum Gedeihen gereichen, die Herren-stolzen. Durch eure unverletzbaren Schützer reichet uns, ihr Allwissende, wolfs-sicheren Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn die allweisen sollen alle sein zum Heil dem Mann, die Feindvertilgenden; Mit unversehrten Hütern reicht, allweise, uns den Schutz, der vor dem Bösen schirmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же все вы всеведущие для Ману  
 Станете усилением, (вы,) заботящиеся о чужом (?)!  

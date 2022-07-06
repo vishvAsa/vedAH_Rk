@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡बोधि हो꣡ता यज꣡थाय देवा꣡न्  
 ऊर्ध्वो꣡ अग्निः꣡ सुम꣡नाः प्रात꣡र् अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महा꣡न् देव꣡स् त꣡मसो नि꣡र् अमोचि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम्ऽइ॑द्धस्य । रुश॑त् । अ॒द॒र्शि॒ । पाजः॑ । म॒हान् । दे॒वः । तम॑सः । निः । अ॒मो॒चि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
@@ -130,41 +130,41 @@ genre M
 अयं **होता** होमनिष्पादकः **अग्निः** **देवान्** यष्टव्यान् **यजथाय** यष्टुम् **अबोधि** बुध्यते । सोऽग्निः प्रातःकाले **सुमनाः** शोभनमनस्को यजमानानुग्रहबुद्धिः सन्  **ऊर्ध्वः** **अस्थात्** उत्तिष्ठति । **समिद्धस्य** अस्य **रुशत्** रोचमानं **पाजः** बलं ज्वालालक्षणम् **अदर्शि** दृश्यते । एवंभूतः **महान्** **देवः** **तमसः** अन्धकारात् **निरमोचि** निर्मुक्तोऽभूत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The offer of the oblation is awakened for the worship of the gods; favourably minded, **Agni** has rise up with the dawn; the radiant vigour of the kindled (fire) is manifested; the great deity has been liberated from the darkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Hotar has awakened to sacrifice to the gods. Benevolent Agni has  stood tall in the early morning.  
 As he is kindled, his brightening face has become visible. The great god  has become free from darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For worship of the Gods the Priest was wakened: at morning gracious Agni hath arisen.  
      Kindled, his radiant might is made apparent, and the great Deity set free from darkness.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Hotri has been wakened that there may be sacrifice for the gods. Gracious Agni has stood upright in the morning. When he has been kindled, his brilliant stream of flames has been seen. The great god has been released from darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hotri ist wach geworden, um den Göttern zu opfern. Wohlgemut hat sich Agni in der Frühe aufgerichtet. Die helle Gestalt des Entflammten ist erschienen; der große Gott hat sich aus dem Dunkel freigemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ward erweckt zum Gottesdienst der Priester, und auf stand Agni wohlgesinnt am Morgen; Es zeigte hell der Glanz sich des entflammten, der grosse Gott befreite sich vom Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробудился хотар, чтобы почтить богов.  
 Благожелательный Агни распрямился рано утром.  

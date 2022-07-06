@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡माय विअश्वव꣡त्  
 प꣡वमानाय गायत  
 महे꣡ सह꣡स्रचक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒हे । स॒हस्र॑ऽचक्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -74,20 +74,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे स्तोतारः **पवमानाय** दशापवित्रेण पूयमानाय पुनानाय वा **सोमाय** **प्र** **गायत** प्रकर्षेण सामगानं कुरुत । अभिष्टुत वा । कथमिव । **व्यश्ववत्** । यथा पूर्वं व्यश्वो नामर्षिः सोममगासीत् तद्वद्यूयमपि । कीदृशाय । **महे** महते देवेभ्यः स्वीक्रियमाणत्वेन गुणादिभिर्वा महत्त्वयुक्ताय **सहस्रचक्षसे** । प्रयोगबाहुल्यापेक्षमेतद्वचनम् । सहस्रसंख्याकस्तोत्रयुक्ताय । यद्वा । नानाविधैर्देवैरनेकधा द्रष्टव्याय सोमायेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing, as **Vyaśva** did, to the filtered **Soma** the great, the all-beholding.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing forth to self-purifying Soma, as Vyaśva did—  
 to the great one with a thousand eyes—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. contains an address (in pl.) to priest-singers to sing (gāyata), with comparison to a previous singer Vyaśva (vyaśvavát ‘like Vyaśva’) who did the same. Why Vyaśva appears here is something of a mystery. Aside from a bare mention in an Aśvin list hymn (I.112.15), Vyaśva is found only in VIII, where he is identified as a ṛṣi (VIII.9.10, 23.10) and his descendants receive the dakṣiṇā at the end of the sacrifice (VIII.24.28-29).
 
@@ -104,23 +104,23 @@ Again no signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing forth your songs, as Vyasva sang, to Soma Pavamana, to,  
      The Mighty One with thousand eyes;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmet den Gesang an auf den sich läuternden Soma wie Vyasva, auf den Großen, Tausendäugigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, singet nach Viaçva's Art dem Soma, ihm, dem flammenden, Dem grossen, tausendäugigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

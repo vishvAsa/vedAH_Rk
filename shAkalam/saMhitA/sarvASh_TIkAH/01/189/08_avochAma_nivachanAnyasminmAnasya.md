@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वोचाम निव꣡चनानि अस्मिन्  
 मा꣡नस्य सूनुः꣡ सहसाने꣡ अग्नउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 व॒यम् । स॒हस्र॑म् । ऋषि॑ऽभिः । स॒ने॒म॒ । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avocāma* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
@@ -110,42 +110,42 @@ genre M;; repeated line
 वयम् **अस्मिन्** अग्नौ **निवचनानि** नियमपूर्वकाणि वचांसि स्तोत्ररूपाणि **अवोचाम** ब्रूमः । अग्निर्विशेष्यते । **मानस्य** **सूनुः** । मीयत इति मानो मन्त्रः । तस्य सूनुरग्निः मन्त्रेण उत्पद्यमानत्वात् । सप्तम्यर्थे प्रथमा । मानस्य सूनौ **सहसाने** शत्रूणामभिभवितरि **अग्नौ** अवोचाम । **वयम्** एभिः **ऋषिभिः** अतीन्द्रियार्थप्रकाशकैर्मन्त्रैः साधनैः **सहस्रम्** अपरिमितं धनं **सनेम** संभजेमहि । विद्याम इति गतम् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We address our pious prayers to you, **Agni**, the son of prayer, the subduer of foes; may we procure, by these sacred supplications, infinite wealth, that we may thence obtain food, strength and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have spoke enigmas in his presence—I, the son of Māna, (have  spoken them) in the presence of mighty Agni.  
 May we win a thousand together with the seers. – May we know  
 refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him have we addressed our pious speeches, I, Mana's son, to him victorious Agni.  
      May we gain countless riches with the sages. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We have pronounced our invocations, I the son of Mâna 1, before this mighty Agni. May we obtain (our wishes) through a thousand Rishis. May we find a food-giving … rich in quickening rain 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben vertrauliche Worte vor ihm gesprochen, ich, der Sohn des Mana, vor dem mächtigen Agni. Wir wollen mit den Rishis Tausend verdienen, - Wir möchten einen gastlichen Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben liebe Worte ihm gesprochen, ich Mana's Sohn, dem allgewalt'gen Agni, Gib tausend Güter uns und diesen Sängern. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы произнесли для него тайные слова,  
 Я, сын Маны, для могущественного Агни.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरु꣡ णस् तनु꣡वे त꣡न  
 उरु꣡ क्ष꣡याय नस् कृधि  
 उरु꣡ णो यन्धि जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उ॒रु । नः॒ । य॒न्धि॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uru*
 - \[noun\], accusative, singular, neuter
@@ -94,7 +94,7 @@ genre M
 हे इन्द्र त्वं **नः** अस्माकं **तन्वे** आत्मजाय **उरु** प्रभूतं **कृधि** कुरु । सामर्थ्याद्धनं सुखं वेति गम्यते । तथा **तने** तत्पुत्राय **उरु** कृधि । तथा **क्षयाय** निवासाय **उरु** कृधि । **नः** अस्माकं **जीवसे** जीवनाय **यन्धि** प्रयच्छाभिमतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,28 +105,28 @@ genre M
 To our own selves: tanve tane = ātmajāya tat putrāya; cf. RV6.46.12 and 7.104.10
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make it wide for our own body and our lineage, wide for our dwelling. Extend it wide for us to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To us, ourselves, give ample room, give for our dwelling ample room  
      Give ample room to us to live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaff uns selbst und unseren Kindern Weite, schaff uns Weite zum Wohnsitz, gewähre uns Weite zum Leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns selbst und unsrer Kinderschar und unserm Wohnsitz schaffe Raum; Gib weiten Raum zum Leben uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

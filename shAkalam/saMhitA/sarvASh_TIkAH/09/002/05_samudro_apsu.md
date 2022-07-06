@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समुद्रो꣡ अप्सु꣡ मामृजे  
 विष्टम्भो꣡ धरु꣡णो दिवः꣡  
 सो꣡मः पवि꣡त्रे अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । प॒वित्रे॑ । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samudro* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
@@ -74,19 +74,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समुद्रः** । समुद्द्रवन्त्यस्माद्रसा इति समुद्रः । **विष्टम्भः** **दिवः** स्वर्गस्य **धरुणः** धारकश्च **अस्मयुः** अस्मत्कामः **सोमः** **अप्सु** उदकेषु ममृजे मृज्यते **पवित्रे** अभिषिच्यत इत्यर्थः ॥ ॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The juice-distilling **Soma**, the sustainer, the supporter of heaven, is purified in the water-- favouring us, (it is poured) into the straining cloth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sea has been groomed in the waters—the prop and buttress of heaven, the soma in the filter, seeking us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains several striking paradoxes, once they have been “unpacked.” First, “the sea has been groomed in the waters,” which seems to reverse volume relations: we would expect “the sea” (samudrá-) to be more larger and more extensive than the waters, but evidently the former can be contained and “groomed” (māmṛje) in the latter. The “sea” is of course soma, which is presumably so called on the basis of the usual aggrandizement of Soma’s cosmic associations.
 
@@ -97,23 +97,23 @@ It is tempting to supply “earth” in b, on the basis of IX.87.2 = 89.6 viṣt
 After the two cosmic identifications in a and b, in c we return to the focused reality of the ritual: the soma in the filter -- the usual toggling between the universal and the hyperparticular.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The lake is brightened in the floods. Soma, our Friend, heaven's prop and stay,  
      Falls on the purifying cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Meer des Soma ward im Wasser gereinigt, der die tragende Stütze des Himmels ist, der Soma, der in der Seihe uns gewogen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns freundlich klärt sich wie ein Meer in Wassern Soma, in dem Sieb, Er, der den Himmel stützt und hält.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Море (сомы) очистилось в водах,  
 Опора, столб неба,  

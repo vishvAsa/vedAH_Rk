@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं सो꣡माः सुता꣡ इमे꣡  
 स्तीर्ण꣡म् बर्हि꣡र् विभावसो  
 स्तोतृ꣡भ्य इ꣡न्द्रम् आ꣡ वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒तृऽभ्यः॑ । इन्द्र॑म् । आ । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विभावसो** विशेषेण भासमानवसुमन् । यद्वा । विशिष्टा भा विभाः प्रकृष्टदीप्तयः । ता निवसन्त्यत्रेति विभावसुरग्निः । हे तादृशाग्ने **तुभ्यं** त्वदर्थम् **इमे** **सोमाः** **सुताः** अभिषुताः । तथा **बर्हिः** **स्तीर्णम्** । तस्मात् **स्तोतृभ्यः** अस्मभ्यमस्मदर्थम् **इन्द्रं** सोमपानार्थम् **आ** **वह** आह्वय । यज्ञे प्रति प्रापयेत्यर्थः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent (**Agni**), these **Soma**-libations are effused for you, the clipped grass is spread; bring Indrahere for his worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you have these soma drinks here been pressed and the ritual grass  strewn, o you of radiant goods [=Agni].  
 Convey Indra hither for the praisers—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verse begins with a 2nd ps. pronoun túbhyam, and the content of what follows, until the end of b, seems entirely consonant with Indra as the 2nd ps. referent.
 
@@ -115,23 +115,23 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, O Lord of Light, are shed these Soma-drops, and grass is strewn  
      Bring Indra to his worshippers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich sind diese Soma´s ausgepreßt, ist das Barhis ausgelegt, du Glanzvoller. Fahre den Indra zu den Sängern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sind die Soma's hier gepresst, gestreut der Sitz, o Glänzender, Den Sängern fahr den Indra her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

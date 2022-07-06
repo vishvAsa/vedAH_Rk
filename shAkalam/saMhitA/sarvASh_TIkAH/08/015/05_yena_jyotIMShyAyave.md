@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न ज्यो꣡तींषि आय꣡वे  
 म꣡नवे च विवे꣡दिथ  
 मन्दानो꣡ अस्य꣡ बर्हि꣡षो वि꣡ राजसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 म॒न्दा॒नः । अ॒स्य । ब॒र्हिषः॑ । वि । रा॒ज॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -84,36 +84,36 @@ genre M;; 12 = 8+4
 हे इन्द्र **येन** आत्मीयेन मदेन **आयवे** और्वशेयाय **मनवे** विवस्वतः पुत्राय **च** **ज्योतींषि** सूर्यादीनि वृत्रादिभिरावृतानि तद्धरणेन **विवेदिथ** अलम्भयः। प्रज्ञापितवान् प्रकाशितवानसीत्यर्थः । तेन मदेन **मन्दानः** मोदमानस्त्वम् **अस्य** **बर्हिषः** वृद्धस्य यज्ञस्य **वि** **राजसि** विशेषेणेशिषे । यद्वा । अस्येति तृतीयार्थे षष्ठी । अनेन बर्हिषा वृद्धेन' हृष्यन् वि राजसि विशेषेण दीप्यसे ॥ ॥१७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whereby you have made the plural nets manifest to Ayu and to **Manu**, and rule rejoicing over this sacredrite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By which you found the lights for Āyu and Manu.  
 Becoming exhilarated, you rule over this ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith thou also foundest lights for Ayu and for Manu's sake:  
      Now joying in this sacred grass thou beamest forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem du dem Ayu und Manu das Licht gefunden hast. Dich berauschend bist du Herr über dieses Barhis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch welchen Licht dem Aju du und Manu zugewiesen hast; Dich freuend dieser Opferstreu erglänzest du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Опьянение,) благодаря которому ты нашел  
 Свет для Аю и для Ману.  

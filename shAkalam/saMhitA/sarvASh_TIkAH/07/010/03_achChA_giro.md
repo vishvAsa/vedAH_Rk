@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा गि꣡रो मत꣡यो देवय꣡न्तीर्  
 अग्निं꣡ यन्ति द्र꣡विणम् भि꣡क्षमाणाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हव्यवा꣡हम् अरति꣡म् मा꣡नुषाणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽस॒न्दृश॑म् । सु॒ऽप्रती॑कम् । सु॒ऽअञ्च॑म् । ह॒व्य॒ऽवाह॑म् । अ॒र॒तिम् । मानु॑षाणाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M
 **मतयः** स्तुतिरूपाः **देवयन्तीः** देवानिच्छन्त्यः **द्रविणं** धनं **भिक्षमाणाः** याचमानाः **गिरः** वाचः **सुसंदृशं** कल्याणसंदर्शनं **सुप्रतीकं** सुरूपं शोभनाङ्गं वा **स्वञ्चं** सुष्ुु गच्छन्तं **हव्यवाहं** हव्यानां वोढारं **मानुषाणाम्** **अरतिं** स्वामिनम् **अग्निम्** **अच्छ** अभि **यन्ति** अभिगच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devout praises and hymns, soliciting riches, proceed to **Agni**, who is of plural asant aspect, agreeableform, of graceful movement, the bearer of oblations, the ruler of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our songs and thoughts, serving the gods, come to Agni, seeking a share  in wealth,  
 to him of lovely appearance, of lovely face, and of lovely look, to him  conveying oblations as the spoked wheel of the descendants of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our songs and holy hymns go forth to Agni, seeking the God and asking him for riches,  
      Him fair to see, of goodly aspect, mighty, men's messenger who carries their oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Agni gehen die Lobesreden, die gottverlangenden Gedanken, um Reichtum bittend, zu ihm, der schön von Anblick, von Erscheinung und Bewegung ist, dem Opferfahrer, dem Rosselenker der Menschen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Agni gehen Lieder und Gebete, die Götter liebend und um Schätze bittend; Der schön von Antlitz, schön zu schau'n, voll Eifer das Opfer fährt, der Menschen reger Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Песни (и) мысли, обращенные к богам,  
 Движутся к Агни, прося о богатстве,  

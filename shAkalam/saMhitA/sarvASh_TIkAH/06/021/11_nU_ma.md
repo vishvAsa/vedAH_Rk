@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ म आ꣡ वा꣡चम् उ꣡प याहि विद्वा꣡न्  
 वि꣡श्वेभिः सूनो सहसो य꣡जत्रैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ म꣡नुं चक्रु꣡र् उ꣡परं द꣡साय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । अ॒ग्नि॒ऽजि॒ह्वाः । ऋ॒त॒ऽसापः॑ । आ॒सुः । ये । मनु॑म् । च॒क्रुः । उप॑रम् । दसा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 इयं च वैश्वदेवीत्युक्तम् । हे **सहसः** **सूनो** बलस्य पुत्रेन्द्र **विद्वान्** सर्वज्ञस्त्वं **यजत्रैः** यजनीयैः **विश्वेभिः** सर्वैर्देवैः सह **नु** क्षिप्रं **मे** मदीया वाचः स्तुतिरूपाणि वचांसि **उप** अभि **आ** **याहि** आगच्छ । एवंभूतमिन्द्रं प्रार्थयत ऐन्द्रत्वात् सूक्तस्य । **ये** देवाः **अग्निजिह्वाः** । अग्निर्जिह्वास्थानीयो येषां ते । **ऋतसापः** ऋतं यज्ञं स्पृशन्तः **आसुः** भवन्ति **ये** च देवाः **दसाय** शत्रूणामुपक्षपणाय **मनुं** राजर्षिम् **उपरं** दस्यूनामुपरिभवं **चक्रुः** कृतवन्तः तैः सहागच्छेति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,36 +150,36 @@ genre M
 Ye manum cakrur uparam dusāya śatrūṇām or dasyūnām uparibhavam = who made Manu the **rājarṣi**, manum rājarṣim, over or the overcomer of enemies, or the **Dasyus**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now drive here, right up to my speech, since you know, o son of  strength, together with all those worthy of the sacrifice,  
 who had Agni as their tongue and served the truth, who put Manu very  close to Dasa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c Geldner tr. āsúḥ as if it were a present: “die Agni zur Zunge haben und die Wahrheit pflegen.” Although this is contextually tempting, the pf. of √as is never presential. Cf. Kümmel (111): “Es ist stets (zumindest auch) vergangenheits bezogen gebraucht.” At best we could render it “who have (always) had Agni as their tongue …”; this might in fact be better.
 
 In any case the pf. āsúḥ in c matches cakrúḥ in d, and this latter action appears to be one in the distant past -- even though it’s not entirely clear what action it refers to. Interpr. is not helped by the fact that dása- is a hapax, though it is reasonable, with Geldner (n. 11d), to take it as “der mythische Stammvater der Dāsa’s oder Dasyu’s,” or indeed referentially identical with the well-attested stem dā́sa- referring to some variety of enemy to the Ārya (see Oldenberg, etc.). But what the relationship between Manu and Dasa is in this passage and what the gods were attempting to bring about are both unclear -- an unclarity also facilitated by the ambiguity of úpara-, which can mean, inter alia, ‘lower’, ‘closer’, or ‘later’. The published translation “… put Manu very close to Dasa” is opaque; in fact I do not now know what I meant by it. Geldner takes úpara- as ‘later’ and assumes that the gods made Manu Dasa’s successor (Nachfolger). I am now inclined towards Oldenberg’s solution, however: that the gods put Manu below (the ‘lower’ sense of úpara-) in the earthly region “for Dasa,” with the dative of malefit, not benefit: they set Manu to do to Dasa whatever he deserved. Michael Weiss comments “Wouldn't this most sense if it meant 'they made Manus superior to Dasa’? Could the original meaning of *upara- as preserved in Avestan, be kept here? For the sentiment cf. VI.19.13 śátroḥ-śatror úttara ít syāma.” this would be a neat solution, though I wonder whether a reading that requires the opposite sense (‘above’) of one of the senses of this stem (‘lower’) would be available.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now to my words come quickly thou who knowest, O Son of Strength, with all who claim our worship,  
      Who visit sacred rites, whose tongue is Agni, Gods who made Manu stronger than the Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun komme her, auf meine Rede, sie verstehend, du Sohn der Stärke, die den Manu dem Dasa zum Nachfolger gemacht haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun komme kundig her zu meinem Liede, o Sohn der Kraft mit allen opferwerthen, Die stets aus Agni tranken, Opfer hegten, den Menschen setzten über die Dämonen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди сейчас на мою речь как знаток  
 Со всеми, достойными жертвы, о сын силы,  

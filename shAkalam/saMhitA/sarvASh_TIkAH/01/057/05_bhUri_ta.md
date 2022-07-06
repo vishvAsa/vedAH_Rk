@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रि त इन्द्र वीरि꣡यं त꣡व स्मसि  
 अस्य꣡ स्तोतु꣡र् मघवन् का꣡मम् आ꣡ पृण  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इयं꣡ च ते पृथिवी꣡ नेम ओ꣡जसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । ते॒ । द्यौः । बृ॒ह॒ती । वी॒र्य॑म् । म॒मे॒ । इ॒यम् । च॒ । ते॒ । पृ॒थि॒वी । ने॒मे॒ । ओज॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūri*
 - \[noun\], nominative, singular, neuter
@@ -146,36 +146,36 @@ genre M
 हे **इन्द्र** **ते** तव **वीर्यं** सामर्थ्यं **भूरि** बहु । न केनाप्यवच्छेत्तुं शक्यते । तादृशस्य **तव** वयं **स्मसि** स्वभूता  भवामः । हे **मघवन्** **अस्य** **स्तोतुः** त्वां स्तुवतो यजमानस्य **कामम्** अभिलाषम् **आ** **पृण** आपूरय । **बृहती** **द्यौः** महान् द्युलोकोऽपि **ते** तव **वीर्यम्** **अनु** **ममे** अन्वमंस्त । इन्द्रेण सहावस्थानात् **इयं** **च** इयमपि **पृथिवी** **ते** तव **ओजसे** बलाय **नेमे** प्रह्वीबभूव । त्वद्बलाद्भीता सती अध एव वर्तते इति भावः ॥ स्मसि। अस भुवि । लटि ‘असोरल्लोपः' इति अकारलोपः । इदन्तो मसिः । पृण ।  ‘ पृण प्रीणने ' । अत्र प्रीतिहेतुतया पूरणं लक्ष्यते । तुदादित्वात् शप्रत्ययः । तस्य ङित्त्वाद्गुणाभावः । ममे । 'माङ् माने शब्दे च'। ङित्त्वात् आत्मनेपदम् । लिटि  ‘ आतो लोप इटि च ' इति आकारलोपः । नेमे । ' णमु प्रह्वत्वे '। लिटि ‘अत एकहल्मध्ये ' इति एत्वाभ्यासलोपौ । तिङ्ङतिङः' इति निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Great is your prowess, **Indra**; we are yours; satisfy **Maghavan**, the desires of this your worshipper, the vast heaven has acknowledged your might; this earth has been bowed down through your vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Abundant is your heroism, o Indra. We are yours: fulfill the desire of this  singer, o bounteous one.  
 Lofty heaven measures itself against your heroism, and this earth bends  to your power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great is thy power, O Indra, we are thine. Fulfil, O Maghavan, the wish of this thy worshipper.  
      After thee lofty heaven hath measured out its strength: to thee and to thy power this earth hath bowed itself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß ist deine Heldenkraft, o Indra; dein sind wir, erfülle dieses Sängers Wunsch, du Gabenreicher! Der hohe Himmel traute dir die Heldenstärke zu, und diese Erde hat sich deiner Kraft gebeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Heldenwerk ist gross, und dein sind wir, erfülle, starker Indra, dieses Sängers Wunsch; Der grosse Himmel ist das Abbild deiner Macht, und diese Erde beuget deiner Stärke sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велико твое мужество, о Индра. Мы – твои.  
 Исполни желание этого восхвалителя, о щедрый!  

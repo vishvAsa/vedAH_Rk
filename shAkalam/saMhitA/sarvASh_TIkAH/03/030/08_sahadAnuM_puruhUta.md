@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡दानुम् पुरुहूत क्षिय꣡न्तम्  
 अहस्त꣡म् इन्द्र स꣡म् पिणक् कु꣡णारुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपा꣡दम् इन्द्र तव꣡सा जघन्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि । वृ॒त्रम् । वर्ध॑मानम् । पिया॑रुम् । अ॒पाद॑म् । इ॒न्द्र॒ । त॒वसा॑ । ज॒घ॒न्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahadānum* ← *saha*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 हे पुरुहूत **इन्द्र** त्वं **सहदानुम्** । दानुः दानवी वृत्रमाता तया सह वर्तमानम् । तथा च मन्त्रवर्णः- दानुः शये सहवत्सा' (ऋ. सं. १. ३२. ९) इति । यद्वा सहदानुं दानुभिर्दानवैः सह वर्तत इति सहदानुः । तं **क्षियन्तं** बाधमानं **कुणारुं** क्वणनशीलं कंचिदसुरम् **अहस्तं** हस्तहीनं कृत्वा **सं** **पिणक्** सम्यक् चूर्णीकुरु । किंच हे **इन्द्र** **वर्धमानं** सर्वत इषुमात्र वर्धमानम् । स इषुमात्रमिषुमात्रं विष्वङ्ङवर्धत' (तै. सं. २. ४. १२. २) इति श्रुतेः। **पियारुं** हिंस्रं **वृत्रं** वृत्रासुरम् **अपादं** पादहीनं कृत्वा **तवसा** बलेन **अभि** **जघन्थ** हतवानसि । यद्वा सहदानुमुदकदानोपेतं क्षियन्तमाकाशे निवसन्तं कुणारुं गर्जन्तं वृत्रम् । वृणोत्याच्छादयति नभ इति वृत्रो मेघः । तमिमं वर्धमानं मेघं हस्तपादशून्यं कृत्वा संपिणक् संपिण्ढि। तथा च यास्कः -- ’अहस्तमिन्द्र कृत्वा संपिण्ढि परिक्वणनं मेघम् ' ( निरु. ६. १ ) इति ॥ सहदानुम् । 'दो अवखण्डने '। दाभाभ्यां नुः । इति नुप्रत्ययः । द्यतीति दानुर्दानवः । यद्वा दानुर्दानम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । क्षियन्तम् । ' क्षि निवासगत्योः '। तुदादित्वाच्छः । प्रत्ययस्वरः । पिणक् । ' पिष्लृ संचूर्णने' । रुधादित्वात् श्नम् । हेर्लुक् । षकारस्य ककारश्छान्दसः । कुणारुम् ।' कुण शब्दने'। बाहुलकाद्रूपसिद्धिः । आद्युदात्तः । जघन्थ ।' हन हिंसागत्योः' इत्यस्य लिटि थलि रूपम् । ' अभ्यासाच्च' इति धातुहकाररय घत्वम् । निघातः ।' उपदेशेऽत्वतः' इतीट्प्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ Kṣiyantam = badhamānam, rain opposing; or, nikaṭavartamānam, being near to
 Kuṇāru = either a proper name of an **asura**, a noisy one, kvaṇanaśīlam, or evil speaking, durvacavadanam; or, parikavaṇana, loud-sounding; anothe rinterpretation: crush the increasing cloud shedding water, sahadānum udakadānapetam; abiding in the sky, kṣiyantam ākāśe nivasantam; and thundering, kuṇārum = garjantam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one dwelling together with (his mother) Dānu, the handless vermin  did you utterly crush, much-invoked Indra.  
 With your powerful (mace), Indra, you smashed at the sneering footless  Vr̥tra, who was growing strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two difficult words, kúṇāru- (b) and píyāru- (c). It is surely no accident that they appear pāda-final in successive pādas and are rhyme forms. The former is a hapax (though the vs. is repeated in the VS [Mā XVIII.69, Kā XX.5.2]). It has been glossed ‘lame in the arm’ on the basis of a supposed connection with Ep, Cl kuṇi- ‘id.’ (cf., e.g., AiG II.2.288, KEWA s.v. kuṇiḥ, EWA s.v. kuṇāru-). But the chronological and morphological distance between the two words speaks against this connection, as does the fact that kuṇi- is likely a Dravidian borrowing (see KEWA).
 
@@ -149,23 +149,23 @@ Moreover, since Vṛtra is a snake and is specifically called ‘handless’ her
 The 2nd difficult word, píyāru-, is by comparison much simpler. It must be derived from √pī ‘sneer, taunt’, whose pres. pī́yati is attested 3x already in the RV. It contains the same pejorative -āru-suffix as kúṇāru-, śarā́ru- -- though it should be noted that not all -āru-suffixed words are pejorative: vandā́ru- is quite positive, and the mysterious hapax jábāru- (IV.5.7) is at worst neutral but probably positive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, Much-invoked! didst crush to pieces Kunaru handless fiend who dwelt with Danu.  
      Thou with might, Indra, smotest dead the scorner, the footless Vrtra as he waxed in vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mit der Danu zusammenhausenden handlosen Kunaru hast du zerschmettert, vielgerufener Indra. Auf den sich auswachsenden Vritra, den Feindseligen, den Fußlosen hast du, Indra, mit der starken Keule losgeschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der da lag sammt dem Dämon, vielgerufner, den trafst du, Indra, handlos ward er, armlahm; Den bösen Vritra, ihn der mächtig anwuchs, zerschlugst mit Kraft du, Indra, fusslos ward er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О многопризываемый, ты раздавил живущего  
 Вместе с Дану безрукого Кунару, о Индра.  

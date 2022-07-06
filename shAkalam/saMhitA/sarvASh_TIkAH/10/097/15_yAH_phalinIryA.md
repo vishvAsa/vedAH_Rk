@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 याः꣡ फलि꣡नीर् या꣡ अफला꣡  
 अपुष्पा꣡ या꣡श् च पुष्पि꣡णीः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡ नो मुञ्चन्तु अं꣡हसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 बृह॒स्पति॑ऽप्रसूताः । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अंह॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -102,36 +102,36 @@ popular;; epic anuṣṭubh (292)
 **याः** **फलिनीः** फलवत्यः **या** **अफलाः** फलवर्जिताः याः **अपुष्पाः** पुष्परहिताः **याश्च** **पुष्पिणीः** पुष्पवत्यः **बृहस्पतिप्रसूताः** । बृहस्पतिर्मन्त्राभिमानी देवः । तेनानुज्ञाताः। **ता** **नः** अस्मान् **अंहसः** **मुञ्चन्तु** मोचयन्तु ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether bearing fruit or barren, whether flowering or flowerless, may they, the progeny of **Bṛhaspati**,liberate us from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those that bear fruit and those without fruit, those without flowers and  those that have flowers—  
 impelled by Br̥haspati, let them release us from distress.1554 X.98
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let fruitful Plants, and fruitless, those that blossom, and the blossomless,  
      Urged onward by Brhaspati, release us from our pain and grief;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Früchte tragen und keine Früchte tragen, die nicht blühen und die blühen, sie sollen auf Geheiß des Brihaspati uns von Not erlösen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie mögen von Brihaspati erregt befreien uns von Noth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что приносят плоды (и) что бесплодные,  
 Не цветущие и что цветут, –  

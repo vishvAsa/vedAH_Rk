@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वावृजे सुप्रया꣡ बर्हि꣡र् एषाम्  
 आ꣡ विश्प꣡तीव बी꣡रिट इयाते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वायुः꣡ पूषा꣡ सुअस्त꣡ये नियु꣡त्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒शाम् । अ॒क्तोः । उ॒षसः॑ । पू॒र्वऽहू॑तौ । वा॒युः । पू॒षा । स्व॒स्तये॑ । नि॒युत्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 **एषां** यजमानानां संबन्धि **सुप्रयाः** शोभनान्नेन युक्तं **बर्हिः** कुशमयं **प्र** **ववृजे** प्रवृज्यते । आसाद्यत इत्यर्थः । **विश्पतीव** । इवेतीदानीमर्थे । इदानीमस्मदीयानां प्रजानां पालकौ **नियुत्वान्** । नियुच्छब्देन वडवा उच्यन्ते । तद्वान् **वायुः** **पूषा** च **विशां** प्रजानां **स्वस्तये** क्षेमाय **अक्तोः** रात्रेः संबन्धिन्याः **उषसः** सकाशात् पूर्वहूतौ पूर्वस्मिन्नाह्वाने सति **बीरिटे** अन्तरिक्षे **आ** **ड्याते** आगच्छताम् । यद्वा । विश्पतीवेत्युपमा। विशां मनुष्याणां बीरिटे गणे विश्पतीव राजानौ यथागच्छतां तद्वत् । अस्मिन् पक्षे विशामित्युभयत्र संबध्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 The two lords of people: viśpaīve vīrite iyāte antarikṣeāgacchatām: iva = idanīm, now; it may also connote a comparison, comparing Vāyu and Pūṣan to tworājās appearing among a crowd of attendants, yathā manuṣayāṇām gaṇe rājānau; cf. **Yaska** **Nirukta**.5.28; upon the close of the night: aktor uṣasaḥ pūrvahūtau = rātreḥ saṃbandhinyā uṣasaḥ sakāśātpūrvasmin āhvāne sate, there being the invocation preceding the proximity of the dawn in connection with thenight. Another interpretation: Pūṣan as the sun, appears after the prior invocation of the dawn upon the lightingof the sacrificial fire; Vāyu connotes **Agni**, of whom he is the friend; and who is the divinity of the nocturnalsacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one receiving very pleasurable offerings [=Agni] has twisted the  ritual grass for them [=gods]. Like two clanlords at [/in] bī́riṭa [?], they  hasten here,  
 (the clanlords) of clans, at (the coming) of dawn from night, at the Early  Invocation—Pūṣan and Vāyu with his team, for well-being.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a number of minor problems. The first is the usage of the verb in pāda a, med. pf. prá vāvṛje. Geldner and Renou interpr. it as passive, e.g. “Das Barhis ist … gelegt,” as does Kümmel (461). Since this is the only med. form of the pf., against several act. transitive ones, this is possible, but it should be noted that med. forms of the present are generally transitive. Cf. very similar VII.18.4 prá vṛñjate … barhíḥ, where the 3rd pl. form of the verb precludes a passive reading. Moreover, the passive reading would require the adj. suprayā́(ḥ) to modify neut. barhíḥ; in my opinion (contra Grassmann and possibly Geldner, Renou; see also Oldenberg’s somewhat cryptic n. to II.3.5), this form belongs to the s-stem suprayás- and is a nom. sg. masc., but even if this grammatical analysis is incorrect, I do not see any way to get a properly inflected neut. sg. in -ā(ḥ) out of any possible stem. The difficulty disappears if we take vāvṛje as transitive, supplying Agni from vs. 1 as subject. Undoubted acc. forms of the sstem adj. (suprayásam) modify Agni 3 times out of the 4 clear occurrences of the stem (II.2.1, 4.1, VI.11.4). Although Agni in his physical form as fire is not a likely twister of barhis, of course, he has just been identified as a Hotar in 1d and in his priestly role could perform other priestly actions.
 
@@ -158,23 +158,23 @@ The epithet niyútvan- ‘possessing a team’ is primarily used of Vāyu, and t
 Vāyu and Pūṣan do not generally appear together and do not form a natural pair; I don’t know the reason for their joint appearance here. As far as I know, Pūṣan has no part in the Morning Pressing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soft to the tread, their sacred grass is scattered: these go like Kings amid the band around them,  
      At the folks early call on Night and Morning,-Vayu, and Pusan with his team, to bless us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Barhis ist ans Feuer gelegt, für sie angenehm zu betreten. Wie zwei Clanfürsten in der Gefolgschaft ihrer Clanleute eilen auf den ersten Ruf bei Nacht und Morgen Vayu, Pusan mit dem Niyutgespann zum Heil herbei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Streu hat schön geschmückt der Ordner, wie Mann und Frau so nahen Erd' und Himmel; Wenn früh die Menschen Nacht und Morgen rufen, so nahn zum Heil mit Rossen Vaju, Puschan.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разложена для них жертвенная солома, на которую приятно ступить.  
 Словно два господина племени в толпе племен  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ या꣡ जि꣡गाति खर्ग꣡लेव न꣡क्तम्  
 अ꣡प द्रुहा꣡ तनु꣡वं गू꣡हमाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग्रा꣡वाणो घ्नन्तु रक्ष꣡स उपब्दइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 व॒व्रान् । अ॒न॒न्तान् । अव॑ । सा । प॒दी॒ष्ट॒ । ग्रावा॑णः । घ्न॒न्तु॒ । र॒क्षसः॑ । उ॒प॒ब्दैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -118,43 +118,43 @@ popular
 **या** राक्षसी **नक्तं** रात्रौ **द्रुहा** द्रोहेण युक्ता **खर्गलेव** उलूकीव **प्र** **जिगाति** प्रगच्छति । किं कुर्वती । **तन्वं** स्वकीयं शरीरम् **अप** **गूहमाना** अपवृण्वती प्रकाशयन्ती । **सा** राक्षसी **अनन्तान्** अपर्यन्तान् **वव्रान्** गर्तान् **अव** **पदीष्ट** अवाङ्मुखी पततु । **ग्रावाणः** सोमाभिषवार्थाः पाषाणाश्च **उपब्दैः** अभिषवशब्दैः **रक्षसः** राक्षसान् **घ्नन्तु** हिंसन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the cruel feminine le fiend who, throwing off the concealment of her person n, wanders about at night likean owl, fall headlong down into the unbounded caverns; may the sones that grind the **Soma** destroy therākṣasas by their noise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She who goes forth by night like a nightjar [?], concealing her own body  by deceit,  
 she should fall down into holes without end. Let the pressing stones  smash the demons with their tramplings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard rendering of khargálā- is ‘owl’; see, inter alia, Grassmann, EWA, and the various tr. of this vs. But I find this unlikely for several reasons. The ‘owl’ is found as úlūka- in 22a, so it is already represented in this sequence of vss. But, though one could argue that there are numerous types of owls, which could have different designations, there are other arguments against this identification. For one thing, if the word is onomatopoetic, as EWA suggests, kharg(a) is not a particularly owl-ish sound. I tentatively suggest the nightjar. A number of species of nightjars are found in the proper geographical area. As for behavior and appearance, judging from information aggregated from the internet, nightjars are nocturnal (“goes forth by night” prá … jígāti … náktam), feeding esp. at the twilights; the sexes are similar, and the birds are small and therefore could be considered typically female (hence the fem. khargálā-). They stay hidden on the ground by day (“concealing her own body by deceit” ápa druhā́tanvàṃ gū́hamānā): images on the internet show them visually almost indistinguishable from the ground and one YouTube video is entitled “Indian Nightjar -- Master of Camouflage”; acdg. to Wikipedia “During the day, the Indian nightjar lies still on the ground, concealed by its plumage; it is then difficult to detect, blending in with the soil.” Moreover, their cries are much easier to connect with 144 kharg(a) than an owl’s, being described as “a continuous churring” (the internet provides numerous recordings of various types of nightjars). Note that etymologically the “-jar” of nightjar is derived from its churring song -- and jar and kharg are reasonably close phonetically. Moreover, their genus name is Caprimulgus “goat-sucker,” based on the old belief that the birds suck milk from goats; if a similar belief was also found in India, it might seem to be the habit of a sinister or at least uncanny creature -- accounting for its inclusion here among the sorcerers in animal form.
 
 The ability of the soma-pressing stones to smash demons, referred to in d, is also found in the pressing stone hymn X.76.4 ápa hata rakṣáso bhaṅgurā́vataḥ “Smash away the demons with their wreckage,” which incidentally contains one of the three other occurrences of bhaṅgurā́vant- in the RV, besides the one in vs. 7 above. The demon-destroying ability of ritual implements, especially the noise made by their clashing, also reminds me of “Manu’s Cups,” whose clattering destroys Asuras. See the various Vedic prose versions of this in my Sacrificed Wife, pp. 21- 26.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She too who wanders like an owl at night-time, hiding her body in her guile and malice,  
      May she fall downward into endless caverns. May press-stones with loud ring destroy the demons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Unholdin, die wie eine Eule des Nachts zum Vorschein kommt, sich hinter einer Truggestalt verbergend, die soll in endlose Tiefe sinken! Die Preßsteine sollen mit ihrem Geklapper die Unholde erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gleich der Eule in der Nacht einherschleicht, mit trügerischem Sinn den Leib verbergend, Die sinke tief in bodenlose Brunnen, und Steine mögen schmetternd sie erschlagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ведьма,) которая является ночью, как сова,  
 С помощью обмана скрывая (свое) тело,  

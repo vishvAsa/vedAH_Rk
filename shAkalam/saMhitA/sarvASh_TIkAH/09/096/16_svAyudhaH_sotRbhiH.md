@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआयुधः꣡ सोतृ꣡भिः पूय꣡मानो  
 अभि꣡ अर्ष गु꣡हियं चा꣡रु ना꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ वायु꣡म् अभि꣡ गा꣡ देव सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि । वाज॑म् । सप्तिः॑ऽइव । श्र॒व॒स्या । अ॒भि । वा॒युम् । अ॒भि । गाः । दे॒व॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāyudhaḥ* ← *su*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 **स्वायुधः** शोभनायुधोपेतः । यद्वा । यज्ञे स्फ्यकपालादीनि दशायुधानि सन्ति । तद्वान् । **सोतृभिः** अभिषुण्वद्भिः **पूयमानः** त्वं **गुह्यं** गुहायां निहितं **चारु** कमनीयं **नाम** त्वदीयं रसात्मकं शरीरं स्तुतिभिः सह **अभ्यर्ष** कलशादीन्यभिगमय । किंच **सप्तिरिव** अश्व इव वर्तमानस्त्वं **श्रवस्या** । ‘सुपां सुलुक्' इति सप्तम्या आजादेशः । अस्मदीयायामन्नेच्छायां **वाजम्** अन्नमस्मभ्यम् **अभि** गमय । अपि च हे **देव** स्तोतव्य हे **सोम** **वायुं** प्राणं जीवनम् **अभि** गमय । **गाः** पशूंश्चास्मभ्यम् **अभि** गमय ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Well-armed, purified by those who express you, send your concealed desirable form (into the pitchers); like a horse bring us food in our desire for food; divine **Soma**, bring us life, bring us cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having good weapons, being purified by the pressers, rush to the dear  hidden name (of the cows? of Indra?),  
 to the prize, like a team with desire for fame, to Vāyu, to the cows, o  god Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The bahuvrīhi sv-āyudhá- ‘having good weapons’ echoes the odd command that ends the previous hymn in this structure, 12d janáyā́yudhāni “beget weapons!” This echo may have contributed to the attachment of 13-16 at that point in the text.
 
@@ -145,23 +145,23 @@ Soma’s goal in b, “the dear hidden name” (gúhyaṃ cā́ru nā́ma), has 
 16b) amṛ́ta- the drink of immortality. I would add Soma’s own name (see IX.92.2, 4 and comm. thereon), or the cows on the basis of IX.87.3 apīcyàm gúhyaṃ nā́ma gónām, or the gods, as in the immed. preceding hymn IX.95.2 devā́nāṃ gúhyāni nā́ma, or Indra on the basis of IX.109.14 bíbharti cā́rv índrasya nā́ma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleansed by the pressers, armed with noble weapons, stream to us the fair secret name thou bearest.  
      Pour booty, like a horse, for love of glory God, Soma, send us kine, and send us Vayu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gutbewaffnet, von den Pressenden geläutert, fließe deinem lieben Geheimnamen entgegen, dem Siegerpreis entgegen wie ein Rennpferd aus Ruhmbegierde, dem Vayu entgegen, den Kühen entgegen, o Gott Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt von den Pressern, schönbewaffnet lass strömen dein verborgnes, theures Wesen, Lauf wie ein Ross zum Kampfpreis ruhmbegierig, zu Vaju hin, o Gott, zur Milch, o Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хорошо вооруженный, очищаемый выжимателями,  
 Струись к (своему) милому тайному имени,  

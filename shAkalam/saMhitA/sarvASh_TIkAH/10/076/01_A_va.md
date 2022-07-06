@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ व ऋञ्जस ऊर्जां᳐꣡ वि꣡उष्टिषु  
 इ꣡न्द्रम् मरु꣡तो रो꣡दसी अनक्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡दः-सदो वरिवस्या꣡त उद्भि꣡दा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । यथा॑ । नः॒ । अह॑नी॒ इति॑ । स॒चा॒ऽभुवा॑ । सदः॑ऽसदः । व॒रि॒व॒स्यातः॑ । उ॒त्ऽभिदा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 हे ग्रावाणः वः युष्मान् **ऊर्जां** सारभूतानामन्नवतीनां वोषसां **व्युष्टिषु** विभातेषु सत्सु **आ** **ऋञ्जसे** आप्रसाधयामि । यूयं सोमेन **इन्द्रं** **मरुतो** **रोदसी** द्यावापृथिव्यौ च **अनक्तन** व्यञ्जयत । **नः** अस्मान् **उभे** **सचाभुवा** सहोत्पन्ने **अहनी** द्यावापृथिव्यौ **सदःसदः** सर्वेषु यागगृहेषु **वरिवस्यातः** परिचरतः। **उद्भिदा** उद्भेदकेन धनेन पूरयतामिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 Commencement: udbhidā = at their opening (or commencement) ahanī = the two halves ofthe day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I stretch straight toward you at the first dawn flushes of nourishment.  Anoint Indra, the Maruts, and the two world-halves,  
 so that both day and night, in partnership, will make every seat spacious  for us as they break out.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I GRASP at you when power and strength begin to dawn: bedew ye, Indra and the Maruts, Heaven and Earth,  
      That Day and Night, in every hall of sacrifice, may wait on us and bless us when they first spring forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich begehre eurer Kräfte jeden Morgen; besalbet Indra, die Marut, beide Welten, auf daß uns beide Tageshälften vereint erfolgreich jeden Sitz unbeengt machen sollen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich wünsche euch herbei nun beim Erstehn der Kraft, benetzt die Marut's, Indra und das Weltenpaar, Damit bei ihrem Anbruch Tag und Nacht zur Seite stehn und lieb uns machen jeden Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я направляю вас при проявлениях (ваших) сил,  
 Умастите Индру, Марутов, две половины мироздания,  

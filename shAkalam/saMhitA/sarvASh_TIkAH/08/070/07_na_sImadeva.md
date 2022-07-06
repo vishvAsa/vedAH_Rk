@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ सीम् अ꣡देव आपद्  
 इ꣡षं दीर्घायो म꣡र्तियः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ह꣡री इ꣡न्द्रो युयो꣡जते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 एत॑ऽग्वा । चि॒त् । यः । एत॑शा । यु॒योज॑ते । हरी॒ इति॑ । इन्द्रः॑ । यु॒योज॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 हे **दीर्घायो** नित्येन्द्र सः **अदेवः** इन्द्राख्यदेवरहितः **मर्त्यः** मरणधर्मा मनुष्यः **सीं** सर्वम् **इषम्** अन्नं **न** **आपत्** न प्राप्नोति । **यः** मर्त्योऽस्येन्द्रस्य **एतग्वा** **चित्** । एतवर्णावेवाश्वौ भवतोऽभिमतदेशगमनाय । **एतशा** एतशावश्वौ **युयोजते** योजयति रथे यज्ञं गन्तुम् । यश्च **इन्द्रः** **हरी** **युयोजते** तं न यः स्तौति । स न प्राप्नोतीति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,34 +125,34 @@ genre M
 **Āpas** = apa tad;**harī** **indraḥ** = indro **hari**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A godless mortal shall not acquire refreshment, o long-lived one!  
 Indra, who will yoke his two steeds that win dappled cows, who will yoke  his two fallow bays—1164 VIII.71
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For étagva- as ‘winning dappled cows’, see Thieme, Studien 67-68 and EWA s.v. The second hemistich is unconnected to the first; its two rel. clauses attach to the next verse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not a godless mortal gain this food, O thou whose life is long!  
      But one who yokes the bright-hued steeds, the Etasas, even Indra yoker of the Bays.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll der gottlose Sterbliche Speisegenuß erlangen, o Langlebiger! Welcher Indra sogar die beiden buntfarbigen Etasarosse anschirrt, die Hari´s anschirrt,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Sterblicher, der gottlos ist, hat Gut erlangt, Unsterblicher; Nur der erlangt's, der dir die schnellen Rosse schirrt, das Füchsepaar, o Indra, schirrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

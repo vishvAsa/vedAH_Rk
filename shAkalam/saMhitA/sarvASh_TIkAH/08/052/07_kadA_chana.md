@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कदा꣡ चन꣡ प्र꣡ युछसि  
 उभे꣡ नि꣡ पासि ज꣡न्मनी  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ तस्थाव् अमृ꣡तं दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 तुरी॑य । आ॒दि॒त्य॒ । हव॑नम् । ते॒ । इ॒न्द्रि॒यम् । आ । त॒स्थौ॒ । अ॒मृत॑म् । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kadācana*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ Sayana bhashya empty
 I.e. with **Varuṇa**, **Mitra** and **Aryaman**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never do you stay away; you protect both breeds [=gods and men]. O fourth Āditya, the invocation destined for you, for Indra, has  
 mounted to the immortal (world?) in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though the verse starts like its counterpart, 51.7, with kadā́caná [2ND SG.], the verses go off in different directions.
 
@@ -134,17 +134,17 @@ The elements in the second hemistich can be variously distributed. Like most int
 The vocative “fourth Āditya” (túrīyāditya) is somewhat surprising, but as Oldenberg suggests it must identify Indra as fourth, after the standard trio Mitra, Varuṇa, and Aryaman. Why Indra is called an Āditya in this particular context is not clear to me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch nicht einmal wirst du nachlässig. Du behütest die beiden Geschlechter. O vierter Aditya, die Anrufung ist bis zu deinem indrischen unsterblichen Namen im Himmel gedrungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimmer bist du fern; du schützest beide Geschlechter [Götter und Menschen]; o vierter Aditja, dein ist die Indraanrufung und der Göttertrank ist zum Himmel gestiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же никогда не бываешь равнодушным,  
 Ты охраняешь оба рода.  

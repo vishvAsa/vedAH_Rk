@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा꣡तजूतो व꣡ना वि꣡ अ꣡स्थाद्  
 अग्नि꣡र् ह दाति रो꣡मा पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 यत् । वात॑ऽजूतः । वना॑ । वि । अस्था॑त् । अ॒ग्निः । ह॒ । दा॒ति॒ । रोम॑ । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -85,38 +85,38 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **सिन्धूनां** स्यन्दनशीलानामपामयमग्निः **जामिः** बन्धुः । तासामुत्पादकत्वात्। तथा चाम्नातम्’ अग्नेरापः ' (तै. आ. ८. १) इति । यद्वा । देवेभ्यः पलायितोऽप्सु वर्तमानः सन् तासामपां बन्धुर्बभूवेत्यर्थः । तत्र दृष्टान्तः । **स्वस्रां** स्वसॄणां भ्रातेव । यथा भ्रातातिशयेन हितकरो भवति तद्वत् । तादृशोऽग्निः **वनानि** महान्त्यरण्यानि **अत्ति** भक्षयति । दहतीत्यर्थः। तत्र निदर्शनम् । **राजा** **इभ्यान्न** भियं यन्तीति नैरुक्तव्युत्पत्त्या इभ्याः शत्रवः । तान् यथा समूलं हिनस्ति तद्वत् । यद्वा । इभ्या धनिनः। तान् यथा धनमपहरन् राजा हिनस्ति तद्वदित्यर्थः । अपि च **यत्** यदा **वातजूतः** वातेन प्रेरितः सन् **वना** वनान्यरण्यानि **व्यस्थात्** उक्तप्रकारेण विविधमातिष्ठति दग्धुं प्रवर्तते तदानीम् **अग्निर्ह** असावग्निरेव **पृथिव्याः** भूमेः संबन्धीनि **रोम** औषधिरूपाणि रोमाणि **दाति** छिनत्ति। भूम्यामोषधिवनस्पतिजातं यदस्ति तत्सर्वं दहतीति भावः ॥ स्वस्राम् । आमो नुडभावश्छान्दसः । अस्थात् । लुङि ‘गातिस्था' इति सिचो लुक् । दाति । ‘दाप् लवने '। अदादित्वात् शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, sped by the wind, he has spread out through the wood,  
 Agni cuts the hair of the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 यद्वात॑जूतो॒ वना॒ व्यस्था॑द॒ग्निर्ह॑ दाति॒ रोमा॑ पृथि॒व्याः ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he has spread through the forests, driven by the wind, Agni shears the hair of the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 wenn er vom Winde getrieben sich im Holze ausbreitet, mäht Agni das Haar der Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verwandt den Fluten, – der Schwester Bruder, ausbeutend Hölzer, – wie Herrn die Diener; Wenn windgejagt er – durchstürmt die Wälder, dann schneidet Agni – der Erde Haar ab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

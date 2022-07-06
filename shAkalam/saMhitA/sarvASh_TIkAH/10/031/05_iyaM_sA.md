@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ सा꣡ भूया उष꣡साम् इव क्षा꣡  
 य꣡द् ध क्षुम꣡न्तः श꣡वसा समा꣡यन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नः शग्मा꣡स उ꣡प यन्तु वा꣡जाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । स्तु॒तिम् । ज॒रि॒तुः । भिक्ष॑माणाः । आ । नः॒ । श॒ग्मासः॑ । उप॑ । य॒न्तु॒ । वाजाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -129,14 +129,14 @@ genre M
 **लुमन्तः** । क्षुशब्दोऽन्नवाची शब्दवाची वा । अन्नवन्तः स्तुतिमन्तः कीर्तिमन्तो वेत्यर्थः । एवंभूता देवाः **शवसा** बलेन **यत्** यामस्मदीयां स्तुतिं प्रति **समायन्** समागच्छन् संप्राप्ताः **सा** **इयं** स्तुतिर्देवानां प्राप्या **भूयाः** भूयात् भवतु । **उषसामिव** **क्षाः** । यथा पृथिवी उषसां व्याप्त्या सर्वेषां प्राप्या भवति तद्वत् । किंच **जरितुः** स्तोतुः **अस्य** मम **स्तुतिं** **भिक्षमाणाः** याचमानाः **शग्मासः** । शग्ममिति सुखनाम । सुखाः सुखकराः **वाजाः** सुधन्वनः पुत्रास्त्रयोऽप्यृभुर्विभ्वा वाज इत्येते **नः** अस्मानाभिमुख्येन **उप** **यन्तु** उपगच्छन्तु ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this (our praise) be accessible like the earth at dawn, when the glorious (gods) assemble in theirmight; may the **Vājas**, the dispensers of happiness, come to us, soliciting the laudation of this (their) adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might this earth here be like (the place) of the dawns. When the  
 possessors of livestock [=gods? patrons?] have assembled here with  
@@ -144,23 +144,23 @@ their strength,
 desiring to partake of the praise of this singer, let the powerful prizes  approach us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like the Dawns' dwelling-place be this assembly, where in their might men rich in food have gathered.  
      Striving to share the praises of this singer. To us come strengthening and effectual riches!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Stätte soll wie die der Morgenröten werden, da die Viehbesitzer mit ihrer Macht zusammenkamen, dessen Lobpreis vom Sänger erbittend. Es sollen uns rechtschaffene Belohnungen zukommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sitz der Morgen gleiche dieser Sitz hier, wo nahrungsreiche kräftig sich vereinten, Verlangend recht nach dieses Sängers Loblied; es möge kräft'ge Labung zu uns kommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет это место, как у утренних зорь,  
 Потому что владельцы скота пришли вместе со (своей) силой,  

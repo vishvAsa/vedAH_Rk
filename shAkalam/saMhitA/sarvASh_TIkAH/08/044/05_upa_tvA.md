@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्वा जुहु꣡वो म꣡म  
 घृता꣡चीर् यन्तु हर्यत  
 अ꣡ग्ने हव्या꣡ जुषस्व नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । ह॒व्या । जु॒ष॒स्व॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **हर्यत** कामयमान **अग्ने** **मम** मदीयाः **घृताचीः** घृतमञ्चन्त्यः **जुह्वः** स्रुचः **त्वा** त्वाम् **उप** **यन्तु** । **नः** अस्माकं **हव्या** हव्यानि **जुषस्व** सेवस्व च ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,28 +96,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Opropitious one: haryata = kāmayamāna; amiable, beloved, spṛhaṇīya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let my ghee-filled offering spoons come near to you, delightful one. Agni, enjoy our oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beloved! let my ladles full of sacred oil come near to thee:  
      Agni, accept our offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir sollen meine Opferlöffel voll Schmalz nahen, du Beliebter. Agni, laß dir unsere Opfer schmecken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir mögen meine Löffel nahn, mit Schmalz gefüllt, o lieblicher; nimm, Agni, unsre Opfer an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть мои жертвенные ложки,  
 Полные жира, приблизятся к тебе, о желанный!  

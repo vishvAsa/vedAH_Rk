@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् उ · प्र꣡ ब्रूहि पूर्विया꣡णि  
 तुर꣡स्य · क꣡र्माणि न꣡व्य उक्थइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋघाय꣡माणो निरिणा꣡ति श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 यु॒धे । यत् । इ॒ष्णा॒नः । आयु॑धानि । ऋ॒घा॒यमा॑णः । नि॒ऽरि॒णाति॑ । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -113,41 +113,41 @@ genre M;; gautamī; see Arnold (1905) 240–1
 **उक्थैः** शस्त्रैः **नव्यः** स्तुत्यो य इन्द्रः **अस्येदु** अस्यैव **तुरस्य** युद्धार्थं त्वरमाणस्येन्द्रस्य **पूर्व्याणि** पुराणानि **कर्माणि** एतत्कृतानि बलकर्माणि हे स्तोतः **प्र** **ब्रूहि** प्रशंस। **यत्** यदा **युधे** योधनाय **आयुधानि** वज्रादीनि **इष्णानः** अभीक्ष्ण्येन प्रेरयन् **शत्रून्** **ऋघायमाणः** हिंसंश्चेन्द्रः **निरिणाति** अभिमुखं गच्छति। तदानीं प्र ब्रूहीति पूर्वेण संबन्धः । पूर्व्यम् इति पुराणनाम। ‘पूर्व्यम् अह्वाय' (नि. ३. ७. ५) इति पुराणनामसु पाठात् ॥ तुरस्य । ‘तुर त्वरणे ' । इगुपधलक्षणः कः । नव्यः । ‘णु स्तुतौ । ‘अचो यत्' इति यत् । गुणः । ‘धातोस्तन्निमित्तस्यैव ' इति अवादेशः । इष्णानः । ‘इष आभीक्ष्ण्ये ' । क्रैयादिकः । व्यत्ययेन आत्मनेपदम् । शानचः चित्त्वादन्तोतत्वम् । ऋघायमाणः। ‘नहि त्वा रोदसी उभे ऋघायमाणम् ' ( ऋ. सं. १, १०. ८) इत्यत्र व्युत्पादितम्। निरिणाति। ‘री गतिरेषणयोः'। क्र्यादिभ्यः श्ना'। ‘प्वादीनां ह्रस्वः' इति ह्रस्वत्वम्॥ तिपः पित्त्वादनुदात्तत्वे विकरणस्वरः शिष्यते । ‘तिङि चोदात्तवति' इति गतेः निघातः । यद्वृत्तयोगात् “ तिङ्ङतिङः' इति निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Proclaim, with new hymns, the former exploits of that quick-moving **Indra**, when wielding his weapons in battle, he encounters and destroys his enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of just this one, the precipitous—proclaim his former deeds anew with  solemn words,  
 when, propelling his own weapons to battle, showing his mettle, he  dissolves his rivals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this verse as a species of “poetic repair” of verse 12, see Jamison 2007: 66-67. The expected offering of praise to Indra thwarted in 12ab is successfully effected in 13ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing with new lauds his exploits wrought aforetime, the deeds of him, yea, him who moveth swiftly,  
      When, hurling forth his weapons in the battle, he with impetuous wrath lays low the foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine, des Überlegenen, früheren Taten verkünde aufs Neue in Lobgedichten, daß er nach seinen Waffen zum Kampfe verlangend, drohend den Feind niederwerfe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des starken Indra alte Heldenthaten verkünde nun aufs neue durch Gesänge, Wie er zum Kampfe seine Waffen schwingend, im Zorne bebend niederwirft die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его, стремительного (бога), прежние подвиги  
 Снова провозгласи в хвалебных песнях,  

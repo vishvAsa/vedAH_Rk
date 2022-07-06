@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पु꣡रं चरिष्णु꣡वं  
 वधइः꣡ शु꣡ष्णस्य स꣡म् पिणक्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡द् इन्द्र ह꣡वियो भु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । भाः । अनु॑ । च॒रः॒ । अध॑ । द्वि॒ता । यत् । इ॒न्द्र॒ । हव्यः॑ । भुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,7 +120,7 @@ genre M
 हे इन्द्र **त्वं** **शुष्णस्य** शोषकस्यासुरस्य **चरिष्ण्वं** चरणशीलम् ॥ ‘वा छन्दसि' इत्यभिपूर्वत्वस्य विकल्पितत्वाद्यणादेशः ॥ **पुरं** निवासस्थानं **वधैः** वज्रादिभिरायुधैः **सं** **पिणक्** समचूर्णयः । अभाङ्क्षीरित्यर्थः । पिनष्टेर्लङि मध्यमैकवचने रूपमेतत् । **अध** अपि च **भाः** भासमानः **त्वम्** **अनु** **चरः** तं शुष्णं हन्तुमन्वगच्छः । यद्वा । ....शुष्णस्य पुरभेदनानन्तरं भा दीप्तीस्त्वमनु चरः अन्वगच्छः । प्राप्तवानित्यर्थः । हे **इन्द्र** त्वं **यत्** यदा **द्विता** द्विधा द्विविधैः स्तोतृभिर्यष्टृभिश्च **हव्यः** ह्वातव्यः **भुवः** भवेः । तदानीं त्वं शुष्णस्य पुरं सं पिणगित्यन्वयः । भवतेर्लेटि सिप्यडागमः । छान्दसः शपो लुक् । ‘भूसुवोस्तिङि' इति गुणप्रतिषेधादुवङ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Two ways: **dvitā** **havyaḥ**, by praisersand by sacrificers, stotṛbhir yaṣṭṛbhiśca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You crushed completely the roving fortress of Śuṣṇa with your deadly  weapons.  
 You followed the light, (and shall) once again, when, Indra, you will  become the one to be summoned.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c I read the injunctive ánu caraḥ twice, once as preterite and once with future meaning, contrary to Geldner, who only takes it as a modal: “Du mögest … nachgehen” (followed by Klein II.121). The peculiar position of the ádha and the presence of dvitā́suggest this double interpretation to me, though admittedly pādafinal ádha dvitā́does occur elsewhere without this syntactic effect (e.g., I.132.3, VI.16.4).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Susna's quick moving castle thou hast crushed to pieces with thy bolts.  
      Thou, Indra, from of old, hast followed after light, since we have had thee to invoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du zerschmetterst des Susna wandelnde Burg mit den Waffen. Du mögest nun abermals dem Lichte nachgehen, wenn du zu Hilfe gerufen werden solltest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Çuschna wandelbare Burg hast durch Geschosse du zerschellt, So wandre nun, o Indra, recht dem Lichte nach, dass dich erreiche unser Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Движущуюся крепость Шушны  
 Ты разбил смертельным оружием.  

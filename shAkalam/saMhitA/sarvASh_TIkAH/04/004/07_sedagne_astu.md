@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 से꣡द् अग्ने अस्तु सुभ꣡गः सुदा꣡नुर्  
 य꣡स् त्वा नि꣡त्येन हवि꣡षा य꣡ उक्थइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡द् अस्मै सुदि꣡ना सा꣡सद् इष्टिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पिप्री॑षति । स्वे । आयु॑षि । दु॒रो॒णे । विश्वा॑ । इत् । अ॒स्मै॒ । सु॒ऽदिना॑ । सा । अ॒स॒त् । इ॒ष्टिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -159,31 +159,31 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the liberal man ever be prosperous who propitiate you with constant oblations and praises; may all the days in his arduous life be prosperous, and may this (his) sacrifice be (productive of reward).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, let just him be rich in portions, rich in gifts, who with regular  oblation, who with solemn words  
 seeks to please you during his own lifetime, in his own dwelling. All  (days) (will be) day-bright for him. This desire (of his) will come true.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not clear whether nítya- in this context has already developed its later technical sense of regular, obligatory ritual offering, as opposed to those performed irregularly for special purposes. Or whether it simply means, as Renou takes the phrase nítyena havíṣā, “une offrande personnelle.” I have pushed the last phrase sā́sad iṣṭíḥ to “this desire will be” -- that is, “will come true” -- rather than simply “this will be his desire” (so Geldner [Witzel Gotō]), since I otherwise find it difficult to interpr. the subjunctive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blest, Agni, be the man, the liberal giver, who with his lauds and regular oblation  
      Is fain to please thee for his life and dwelling. May all his days be bright: be this his longing.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let him, O Agni, be fortunate and blessed with good rain, who longs to gladden thee with constant offerings and hymns through his life in his house. May such longing ever bring auspicious days to him.
 </details>
@@ -196,17 +196,17 @@ Seeks to delight thee in his life in his house;
 May all days be happy for him; be that the will.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der soll glücklich, reich an Gaben sein, o Agni, der dich mit ständiger Opferspende und mit Liedern während seines Lebens in seinem Hause zu befriedigen wünscht. Lauter schöne Tage sollen ihm werden: Das sei der Wunsch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und Sprüchen Zu letzen strebt im Haus, so lang' er lebet, dem werde alles Glück, das sei die Bitte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет, о Агни, счастливым, богатым прекрасными дарами  
 Тот, кто постоянным жертвенным возлиянием, кто гимнами  

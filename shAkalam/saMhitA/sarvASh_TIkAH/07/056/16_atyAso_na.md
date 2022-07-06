@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्यासो न꣡ ये꣡ मरु꣡तः सुअ꣡ञ्चो  
 यक्षदृ꣡शो न꣡ शुभ꣡यन्त म꣡र्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वत्सा꣡सो न꣡ प्रक्रीळि꣡नः पयोधाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ते । ह॒र्म्ये॒ऽस्थाः । शिश॑वः । न । शु॒भ्राः । व॒त्सासः॑ । न । प्र॒ऽक्री॒ळिनः॑ । प॒यः॒ऽधाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atyāso* ← *atyāsaḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
@@ -120,20 +120,20 @@ genre M
 **अत्यासो** **न** अत्याः सततगामिनोऽश्वा इव **स्वञ्चः** सुष्ठु गच्छन्तः **ये** **मरुतः** **यक्षदृशो** **न** **मर्याः** यक्षस्योत्सवस्य द्रष्टारो मनुष्या इव **शुभयन्त** शोभन्ते **हर्म्येष्ठाः** हर्म्ये स्थिताः **शिशवो** **न** कुमारा इव **शुभ्राः** शोभमानाः **वत्सासो** **न** वत्सा इव **प्रक्रीळिनः** प्रकर्षेण क्रीडमानाः **ते** मरुतः **पयोधाः** पयस उदकस्य धारयितारो दातारो वा भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift-moving **Maruts** are like rapid horses, shining like men gazing at a festival innocent as childrenin the (paternal) mansion, frolicsome as calves, they are the dispensers of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts, well directed like racehorses—the young bloods beautify  themselves to look like wondrous apparitions;  
 they are beautiful like children who live in a grand house, playful like  calves still suckling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Each pāda in this vs. contains a simile marked by ná comparing the Maruts to domestic animals (a, d), spirits (b), and children (c). Except in c, the simile begins the pāda. The vs. contains only one finite verb, śubháyanta, in b; the functional role of the finite verb is filled instead by the adjectives that are the point of 85 contact between the simile and the frame. In the published translation I deliberately failed to render ab as the rel. cl. it technically is because the “which Maruts … they …” structure would have intruded upon the succession of similes.
 
@@ -144,23 +144,23 @@ So also Renou However, Geldner considers the possibility of a pass. sense in his
 Another oblation to the Maruts at the Sākamedha, besides the Gṛhamedha mentioned above (vs. 14), is made to the krīḍin- (‘playful’) Maruts on the 2nd day of the sacrifice (see, e.g., ŚB II: 20 and Eggeling, SBE XII.408). The characterization of them in d as prakrīḷínaḥ obviously makes ref. to this oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts, fleet as coursers, while they deck them like youths spectators of a festal meeting,  
      Linger, like beauteous colts, about the dwelling, like frisking calves, these who pour down the water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut, die von schönem Gange wie Rennpferde, die Jünglinge, die sich aufputzen wie Geisterseher, sie sind schmuck wie die Kinder in einem vornehmen Hause, wie Kälber spielend, die Milch saugen und Wasser bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Maruts, die wie schöngeschmückte Rosse, wie feur'ge Blitze funkeln, sie, die Männer, Wie schöne Kinder in dem Haus sich tummelnd, wie Kälber springend, wenn sie Milch gesogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты, которые прекрасны в движении, словно скакуны,  
 (Эти) молодые люди украшают себя, как воплощенное чудо.  

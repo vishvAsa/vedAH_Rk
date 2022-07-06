@@ -8,7 +8,7 @@ title = "+015"
 ‘तम्वभि' इति त्रयोदशर्चं तृतीयं सूक्तमौष्णिहमैन्द्रम् । पूर्वोक्तावेवर्षी । तथा चानुक्रम्यते--  ‘ तम्वभि सप्तोनौष्णिहम्' इति । महाव्रते निष्केवल्य औष्णिहतृचाशीतावुत्तमावर्जमेतत्सूक्तम् । सूत्र्यते हि--' तम्वभि प्र गायतेत्युत्तमामुद्धरति' (ऐ. आ. ५. २. ५) इति । आभिप्लविकेषूक्थ्येषु तृतीयसवने ब्रह्मशस्त्र आद्यस्तृचो वैकल्पिकोऽनुरूपः । सूत्रितं च- तम्वभि प्र गायत वयमु त्वामपूर्व्य ' (आश्व. श्रौ. ७.८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 15 (635)  
 Indra  
@@ -18,7 +18,7 @@ Attributed to the same poets as the preceding VIII.14, this hymn is a more conve
 Both the language and the structure of this hymn are straightforward, but its  relatively simplicity avoids the banal by the deft balancing of the powers in the two  contrastive sections of the hymn and the unembellished grandeur of the rhetoric.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

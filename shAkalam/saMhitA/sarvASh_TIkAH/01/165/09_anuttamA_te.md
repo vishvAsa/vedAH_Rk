@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नुत्तम् आ꣡ ते मघवन् न꣡किर् नु꣡  
 न꣡ त्वा꣡वाँ अस्ति देव꣡ता वि꣡दानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡नि करिष्या꣡ कृणुहि꣡ प्रवृद्ध
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 न । जाय॑मानः । नश॑ते । न । जा॒तः । यानि॑ । क॒रि॒ष्या । कृ॒णु॒हि । प्र॒ऽवृ॒द्ध॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anuttam* ← *anutta*
 - \[noun\], accusative, singular, neuter
@@ -140,7 +140,7 @@ genre M
 इदानीं ते मरुतो हर्षेण प्रत्याहुः । ॥ **आ** इति स्मरणे । स्मृतवन्तो वयम् इदानीं हे **मघवन्** **ते** त्वया **अनुत्तम्** अप्रेरितं **नकिर्नु** नैवास्ति । नु निश्चये । त्वया यदुक्तं तत्सत्यमित्यर्थः । हे देव **त्वावान्** त्वत्सदृशः **विदानः** विद्वान् ॥ व्यत्ययेन शानच् ॥ जयोपायवेदिता **देवता** देवः **न** **अस्ति** । किंच हे **प्रवृद्ध** अतिबल **जायमानः** **जातः** वा कश्चिद्देवो मर्त्यो वा त्वं **यानि** वृत्रवधादीनि **करिष्या** कर्तव्यानि **कृणुहि** कुरुषे तानि **न** **नशते** न व्याप्नोति । नशतिर्व्याप्तिकर्मा । नान्यः त्वच्चेष्टितानुकार्येवेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,13 +153,13 @@ Verily, **Maghavan**: anuttamā te maghavan nakir nu na = whatever is said by yo
 Anuttamā = an exclamation or assent that which is not sent or driven away
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Leader of the Maruts:] This is conceded to you, generous one: There is  no one like you known among the gods.  
 Neither one who is born nor one who was born will attain you. What  *you will do, do!—o you who are grown fully strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The form kariṣyā́is problematic for several reasons. Despite its sandhi position before k, it seems best to assume it represents 2nd sg. kariṣyā́s out of sandhi, even though kariṣyā́ḥ would be the proper sandhi form in this context. (The Pp.
 
@@ -170,24 +170,24 @@ simply reads kariṣyā́like the Saṃhitā text, but the standard tr. and comm
 to the future, or perhaps a 2nd sg. imperative to the future, neither of which is any better morphologically. The other long-shot possibility is to assume it’s an unusual gerundive formation in -iṣyá- in the neut. nom.-acc. pl., yielding “what things are to be done …” (so Sāyaṇa.). AiG II.2.368 mentions this possibility but prefers the subjunctive interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nothing, O Maghavan, stands firm before thee; among the Gods not one is found  
      thine equal.  
      None born or springing into life comes nigh thee. Do what thou hast to do, exceeding mighty?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An die dir zugestandene Macht, o Gabenschenker, reicht keiner je heran - nicht ist einer, der dir gliche, unter den Göttern bekannt - weder einer, der noch geboren wird, noch ein Geborener. Was du vorhast, das tu, du Erstarkter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Nichts ist fürwahr, o Held, dir unbezwinglich, dir gleich gibt's keinen unter allen Göttern, Kein lebender, kein früherer erreicht dich, so thu, o starker, was zu thun du vorhast.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда твоя (власть) не склонялась (ни перед кем), о щедрый.  
 Нет равного тебе, не известно (такого) среди богов!  

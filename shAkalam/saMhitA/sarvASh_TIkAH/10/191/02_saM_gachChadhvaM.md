@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ गछध्वं सं꣡ वदध्वं  
 सं꣡ वो म꣡नांसि जानताम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 संजानाना꣡ उपा꣡सते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 दे॒वाः । भा॒गम् । यथा॑ । पूर्वे॑ । स॒म्ऽजा॒ना॒नाः । उ॒प॒ऽआस॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -109,36 +109,36 @@ popular;; epic anuṣṭubh (424)
 हे स्तोतारः यूयं **सं** **गच्छध्वम्** । संगताः संभूता भवत” ॥ ‘समो गम्यृच्छि” इत्यादिना गमेरात्मनेपदम् ॥ तथा **सं** **वदध्वं** सह वदत । परस्परं विरोधं परित्यज्यैकविधमेव वाक्यं ब्रूतेति यावत् । ‘ व्यक्तवाचां समुच्चारणे ' ( पा. सू. १. ३. ४८) इति वदेरात्मनेपदम्। **वः** युष्माकं **मनांसि** **सं** **जानताम्** । समानमेकरूपमेवार्थमवगच्छन्तु ॥ ‘ संप्रतिभ्यामनाध्याने ' (पा. सू. १. ३. ४६ ) इति जानातेरात्मनेपदम् ॥ **यथा** **पूर्वे** पुरातनाः **देवाः** **संजानानाः** ऐकमत्यं प्राप्ता हविर्भागम् **उपासते** यथास्वं स्वीकुर्वन्ति तथा यूयमपि वैमत्यं परित्यज्य धनं स्वीकुरुतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Meet together, talk together, let your minds apprehend alike; in like manner as the ancient godsconcurring accepted their portion of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come together, speak together; together let your thoughts agree,  
 just as the gods of long ago, coming to an agreement together, reverently  approach their sacrificial portion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Assemble, speak together: let your minds be all of one accord,  
      As ancient Gods unanimous sit down to their appointed share.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geht zusammen, verständiget euch! Eure Sinne sollen einträchtig sein, wie die Götter vor Zeiten einträchtig bei ihrem Opferanteil saßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und aus dem Meer, dem wogenden, erzeugte sich des Jahres Lauf; Vertheilend Tag und Nacht beherrscht er alles, was die Augen schliesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе сходитесь! Вместе договаривайтесь!  
 Вместе пусть будут направлены ваши мысли.  

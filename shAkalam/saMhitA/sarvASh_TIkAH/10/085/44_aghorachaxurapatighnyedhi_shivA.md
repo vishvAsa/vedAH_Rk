@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡घोरचक्षुर् अ꣡पतिघ्नी एधि  
 शिवा꣡ पशु꣡भ्यः सुम꣡नाः सुव꣡र्चाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 वी॒र॒ऽसूः । दे॒वऽका॑मा । स्यो॒ना । शम् । नः॒ । भ॒व॒ । द्वि॒ऽपदे॑ । शम् । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aghoracakṣur* ← *aghora*
 - \[noun\]
@@ -140,7 +140,7 @@ popular;; repeated line
 हे वधु **त्वम्** **अघोरचक्षुः** क्रोधादभयंकरचक्षुः **एधि** भव । तथा **अपतिघ्नी** भव । तथा **पशुभ्यः** **शिवा** हितकरी भव **सुमनाः** **सुवर्चाः** च भव । वीरसूः पुत्राणामेव प्रसवित्री **देवकामा** **स्योना** सुखकरा च भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,35 +151,35 @@ popular;; repeated line
 Be very glorious: be beautiful in your person n; liṭ, = veryglorious
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be free from the evil eye, not husband-smiting, kindly to the livestock,  of good mind and good luster,  
 hero-bearing, god-loving, comfortable. Be weal for our two-footed,  
 weal for our four-footed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not evil-eyed, no slayer of thy husband, bring weal to cattle, radiant, gentlehearted;  
      Loving the Gods, delightful, bearing heroes, bring blessing to our quadrupeds and bipeds.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Free from the evil eye, thy husband hurting not, Kind to our beasts, be friendly, full of energy; Bear heroes, love the gods, and live in happiness; Bring welfare to our bipeds and our quadrupeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei ohne bösen Blick, nicht den Gatten tötend, freundlich den Tieren, wohlgemut, von blühendem Aussehen, Söhne gebärend, götterliebend, angenehm; sei unseren Zweifüßlern zum Glück und den Vierfüßlern zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein Unglück im Auge führend, den Gatten nicht verletzend, sei glückbringend dem Vieh, wohlgesinnt, glanzreich, Helden gebärend, Götter liebend, erfreuend; Heil möge sein unserm zweifüssigen und vierfüssigen Hausstand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не бросай грозных взглядов, не будь мужеубийцей,  
 Добрая к животным, дружелюбная, цветущего вида,  

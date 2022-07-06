@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡श्वन्तं हि꣡ प्रचेतसः  
 प्रतिय꣡न्तं चिद् ए꣡नसः  
 दे꣡वाः कृणुथ꣡ जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 देवाः॑ । कृ॒णु॒थ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaśvantaṃ* ← *śaśvantam* ← *śaśvat*
 - \[noun\], accusative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **प्रचेतसः** प्रकृष्टमतयो हे **देवाः** **शश्वन्तं** बहुमपि **प्रतियन्तं** **चित्** प्रतिगच्छन्तमपि शत्रुम् **एनसः** पापस्य कर्तारम् । अथवैनसः पापकृतः । व्यत्ययेन बहुवचनम् । पापकर्तारं **जीवसे** जीवनायास्माकं **कृणुथ** कुरुत । अस्मत्तो वियुक्तमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 O wisedeities, you help to life many a one who turns from sin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, o attentive gods, each and every man, even one coming back  from an offense,  
 do you make to live—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To every one, O ye Most Wise, who turneth even from sin to you,  
      Ye Gods vouchsafe that he may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn jeden, auch wenn er sich einer Sünde bewußt ist, lasset ihr Fürsorglichen leben, ihr Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn jedem schafft, o weise, ihr, wenn er vom Unrecht sich bekehrt, O Götter, dass er lebend sei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И каждому, о прозорливые,  
 Даже тому, кто возвращается, совершив грех,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व ते हे꣡ळो वरुण न꣡मोभिर्  
 अ꣡व यज्ञे꣡भिर् ईमहे हवि꣡र्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जन्न् ए꣡नांसि शिश्रथः कृता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 क्षय॑न् । अ॒स्मभ्य॑म् । अ॒सु॒र॒ । प्र॒चे॒त॒ इति॑ प्रऽचेतः । राज॑न् । एनां॑सि । शि॒श्र॒थः॒ । कृ॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -121,7 +121,7 @@ popular
 हे **असुर** +अनिष्व् अक्षेपणशील **प्रचेतः** प्रकर्षेण प्रज्ञायुक्त **राजन्** दीप्यमान वरुण +**अस्मभ्यम्** अस्मदर्थं **क्षयन्न्** अस्मिन् कर्मणि निवसन् **कृतान्य्** अस्माभिर् अनुष्ठितान्य् एनांसि पापानि शिश्रथः । श्रथितानि शिथिलानि कुरु ॥ हेळः । असुनो नित्त्वादाद्युदात्तत्वम् । यज्ञेभिः । बहुलं छन्दसीत्यैसभावः । ईमहे । ईङ् गतौ । विकरणस्य लुक् । क्षयन् । क्षिनिवासगत्योः । लटः शतृ । व्यत्ययेन शप् । आमन्त्रिताद्युदात्तत्वम् । असुर । असेरुरन् (उ १-४३) आमन्त्रितनिघातः । शिश्रथः । श्रथ दौर्बल्ये । चुरादिरदन्तः । छान्दसे लुङि णिश्रिद्रुस्रुभ्यः (पा ३-१-४८) इति च्लेश्चङ् । द्विर्भावहलादिशेषौ । अग्लोपित्त्वात् सन्वद्भावाभावेऽपि (पा ७-४-९३) बहुलं छन्दसि (पा ७-४-७८) इत्यभ्यासस्येत्वम् । पूर्ववदडभावः ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ popular
 **asura** = **aniṣṭa**-**kṣepaṇa**-**śila**, accusative tomed to cast off what is undesired; from seme, to throw
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beg to appease your anger by our acts of reverence, Varuṇa, appease  it by our sacrifices and offerings.  
 Holding sway, o attentive lord and king, you will loosen for us the guilt  we have created.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With bending down, oblations, sacrifices, O Varuna, we deprecate thine anger:  
      Wise Asura, thou King of wide dominion, loosen the bonds of sins by us committed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir bitten dir den Groll ab, Varuna, mit Verbeugungen, mit Gebeten, mit Opferspenden. Du, der die Macht hat, einsichtsvoller Asura, König, erlaß uns die getanen Sünden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspenden, Der du die Macht hast, weiser, ew'ger König, erlasse uns die Sünden, die wir thaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы смягчаем твой гнев, о Варуна,  
 Поклонениями, жертвами, возлияниями.  

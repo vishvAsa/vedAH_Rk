@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नप्तम् अप्सु꣡ दुष्ट꣡रं  
 सो꣡मम् पवि꣡त्र आ꣡ सृज  
 पुनीही꣡न्द्राय पा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒नी॒हि । इन्द्रा॑य । पात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anaptam* ← *anapta*
 - \[noun\], accusative, singular, masculine
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अनप्तं** शत्रुभिरनाप्तम् **अप्सु** आन्तरिक्ष्यासु । वर्तमानमिति शेषः। **दुष्टरम्** अन्यैरनभिभाव्यम् । न हि सोमं कश्चिदप्यतितरति । ईदृशं **सोमं** **पवित्रे** दशापवित्रे **आ** **सृज** प्रक्षिप हे अध्वर्यो । तत्रोच्यते । **इन्द्राय** इन्द्रस्य **पातवे** पातुं **पुनीहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cast into the filter the unassailable invincible (**Soma**), abiding in the waters (of the firmament) purify it for the drinking of **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Send the soma surging into the filter, the one difficult to overtake in the  waters (even) without the granddaughters(’ preparation) [?].  
 Purify him for Indra to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the hapax ánapta- is difficult. Insofar as there is a standard view, it is taken as ‘unwatered, undiluted’ (Grassmann ‘nicht wässerig’, Geldner ‘nicht verwässert’; EWA s.v. with lit.), while Renou prefers ‘inaccessible’. Although the connection with ‘water’ makes the most superficial sense, esp. given its juxtaposition with immediately following apsú ‘in the waters’, it doesn’t make ritual sense, in that the soma is watered during these steps in the sacrifice, and in this very pāda the soma is depicted as being “in the waters.” My own desperate suggestion is not appreciably better, that it is formed to naptī́- ‘granddaughter, niece’, used of the fingers that prepare the soma. Two of the six forms of this word are found in hymns by just this poet (Asita Kāśyapa or Devala Kāśyapa), IX.9.1, 14.5). The word would mean ‘without the granddaughters’ (for the accent, cf. words like áprajā- ‘without offspring’ and AiG II.1.239-40), that is, without their ritual ministrations.
 
@@ -102,23 +102,23 @@ The point would be (if there is a point) that the soma speeds through the waters
 The phrase apsú duṣṭára- is found also in nearby IX.20.6, so this must be the constituency here -- and apsú is not to be construed with ánaptam. As Renou points out, Soma is several time called ap-túr- ‘crossing the waters’ (e.g., IX.63.5, 21), and the expression here redistributes the elements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour on the sieve the Soma, ne'er subdued in waters, waterless,  
      And make it pure for Indra's drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den nicht verwässerten, im Wasser kaum zu überwindenden Soma laß auf die Seihe laufen; läutere ihn für Indra zum Trunke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den trocknen, der in Wassern siegt, den Soma giesse in das Sieb, Dem Indra läutre ihn zum Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Недоступного, непобедимого в водах  
 Сому вылей в цедилку:  

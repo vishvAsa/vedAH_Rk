@@ -8,7 +8,7 @@ title = "+039"
 ‘ आशुरर्ष' इति षडृचं पञ्चदशं सूक्तमाङ्गिरसस्य बृहन्मतेरार्षं गायत्रं पवमानसोमदेवताकम् । ‘ आशुरर्ष बृहन्मतिः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 39 (751)  
 Soma Pavamāna  

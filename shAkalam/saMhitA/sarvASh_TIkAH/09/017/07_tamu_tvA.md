@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा वाजि꣡नं न꣡रो  
 धीभि꣡र् वि꣡प्रा अवस्य꣡वः  
 मृज꣡न्ति देव꣡तातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मृ॒जन्ति॑ । दे॒वऽता॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **तमु** तमेव **त्वा** त्वां **वाजिनम्** अन्नवन्तं गमनवन्तं वा **नरः** नेतारः **विप्राः** मेधाविनोऽध्वर्वा“वदयः **धीभिः** कर्मभिः **मृजन्ति** शोधयन्ति **देवतातये** यज्ञार्थम् । किमिच्छवः । **अवस्यवः** अन्नमिच्छवः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sages, leaders of rites, desirous of sustenance, purify you who are the giver of food, with pious rites for the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The men, the inspired poets, seeking help, groom you, the prizewinning  horse,  
 with their insights, for the divine conclave.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men, the sages with their hymns, eager for help, deck thee strong &teed,  
      Deck thee for service of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Preisrenner, putzen die beredten Männer gunstsuchend mit frommen Gedanken zum Gottesdienst aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So streicheln hülfesuchend dich, das Ross, die Männer durch Gebet Mit Lied die Sänger zu dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, коня-победителя, мужи  
 Вдохновенные, ищущие помощи,  

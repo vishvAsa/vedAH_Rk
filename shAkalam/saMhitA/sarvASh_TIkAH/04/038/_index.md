@@ -8,7 +8,7 @@ title = "+038"
 ‘ उतो हि वाम्' इति दशर्चं षष्ठं सूक्तम् । वामदेव ऋषिः । त्रिष्टुप् छन्दः । दधिक्रा देवता । आद्या द्यावापृथिव्या। अत्रानुक्रमणिका – उतो हि दश दाधिक्रं हि द्यावापृथिव्याद्या ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (334)  
 Heaven and Earth (1), Dadhikrā (2–10)  
@@ -21,7 +21,7 @@ cially verse 4, where some of the translation is provisional.
 Although the Anukramaṇī assigns the first verse to Heaven and Earth, it is more  likely that Mitra and Varuṇa are the referents of the unspecified duals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dadhikrā The middle vss. of this hymn are introduced by repeated utá sma (5, 6, 8, 9), varied by utá syá in 7. As noted in the published introduction, this sequence of ‘and’s adds to the sense of speed.
 </details>

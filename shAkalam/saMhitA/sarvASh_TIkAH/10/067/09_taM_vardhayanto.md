@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वर्ध꣡यन्तो मति꣡भिः शिवा꣡भिः  
 सिंह꣡म् इव ना꣡नदतं सध꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡रे-भरे अ꣡नु मदेम जिष्णु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पति॑म् । वृष॑णम् । शूर॑ऽसातौ । भरे॑ऽभरे । अनु॑ । म॒दे॒म॒ । जि॒ष्णुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -108,37 +108,37 @@ genre M
 **सधस्थे** । सह तिष्ठन्त्यत्र देवा इति सधस्थमन्तरिक्षम् । तस्मिन् **सिंहमिव** **नानदतं** पुनःपुनः शब्दायमानं **वृषणं** कामानां वर्षितारं **जिष्णुं** जयशीलं **तं** **बृहस्पतिं** **वर्धयन्तः** मरुतो वयं **शूरसातौ** शूरैः संभजनीये **भरेभरे** संग्रामे **शिवाभिः** कल्याणीभिः स्तुतिभिः **अनु** **मदेम** अनुष्टुमः । स्तोतृपरत्वेन वा योजनीयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Magnifying the victorious **Bṛhaspati**, the showerer (of benefits), roaring in mid-heaven like a lion, letus praise him in the conflicts where heroes win, with auspicious praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our propitious thoughts strengthening him, ever roaring in his seat  like a lion,  
 we would celebrate Br̥haspati the bull, victorious at the contest of  
 champions, victorious in every raid,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In our assembly with auspicious praises exalting him who roareth like a lion,  
      Maywe, in every fight where heroes conquer, rejoice in strong Brhaspati the Victor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit lieblichen Gedichten ihn erhebend, der wie der Löwe an seinem Stande brüllt, wollten wir dem Brihaspati, dem Bullen, dem im Zweikampf, in jedem Streite Siegreichen, zujubeln;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Brihaspati durch heilsame Lieder stärkend, ihn, der wie ein Löwe auf seinem Lager brüllt, wollen wir ihm, dem Stiere, zujauchzen im Heldenkampfe, ihm, der in jeder Schlacht siegreich ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Усиливая его доброжелательными молитвами,  
 Громко ревущего, словно лев, на (своем) месте,  

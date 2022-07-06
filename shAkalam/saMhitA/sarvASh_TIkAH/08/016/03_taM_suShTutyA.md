@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ सुष्टुतिया꣡ विवासे  
 ज्येष्ठरा꣡जम् भ꣡रे कृत्नु꣡म्  
 महो꣡ वाजि꣡नं सनि꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 म॒हः । वा॒जिन॑म् । स॒निऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -81,43 +81,43 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **तम्** इन्द्रं **सुष्टुत्या** शोभनया स्तुत्या **आ** **विवासे** परिचरामि । कीदृशम् । **ज्येष्ठराजं** ज्येष्ठेषु प्रशस्यतमेषु देवेषु मध्ये राजमानम् । राजतेः ‘सत्सूद्विष' इति क्विप् । **भरे** संग्रामे **महः** महतो वृत्रवधादेः **कृत्नुं** कर्तारं **वाजिनम्** अन्नवन्तं बलवन्तं वा । किमर्थम् । **सनिभ्यः** धनेभ्यः । धनलाभायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I worship **Indra** with pious praises, glorious among the best (of beings), the achiever of great deeds inwar mighty for the acquisition (of wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With my good praise I seek to entice him, the preeminent king, effective  at raiding,  
 the prizewinner, for the gains of the great (prize?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 How to construe maháḥ in c is not clear. I tentatively take it as the gen. sg.
 
 of máh- and supply ‘prize’ or “wealth’. Lubotsky groups it with the adverbial maháḥ ‘greatly’, which is also possible. I do not understand how Geldner takes it grammatically, given his tr. “der grosse Beute macht,” which must somehow be rendering mahó vājínam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him I invite with eulogy, best King, effective in the fight,  
      Strong for the gain of mighty spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn bitte ich unter Lobpreisung her, den obersten König, der im Kampfe der Gewinner ist, der große Beute macht, um Belohnungen auszuteilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn gewinne ich durch Loblied, der als Feldherr wirkt im Kampfe, Reich an grossem Gut zum Schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его я хочу приманить прекрасным восхвалением,  
 Высшего царя, искусного в битве,  

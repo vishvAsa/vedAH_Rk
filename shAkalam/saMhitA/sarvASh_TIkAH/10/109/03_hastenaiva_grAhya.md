@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡स्तेनैव꣡ ग्राहि꣡य आधि꣡र् अस्या  
 ब्रह्मजाये꣡य꣡म् इ꣡ति चे꣡द् अ꣡वोचन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡था राष्ट्रं꣡ गुपितं꣡ क्षत्रि꣡यस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । दू॒ताय॑ । प्र॒ऽह्ये॑ । त॒स्थे॒ । ए॒षा । तथा॑ । रा॒ष्ट्रम् । गु॒पि॒तम् । क्ष॒त्रिय॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hastenaiva* ← *hastena* ← *hasta*
 - \[noun\], instrumental, singular, masculine
@@ -133,36 +133,36 @@ popular
 देवा बृहस्पतिमूचुः। हे ब्रुहस्पते अस्या आधिः। आधीयन्त आभरण्यान्यत्रेत्याधिः शरीरम् । उपसर्गे घोः किः। पा. ३-३-९२। इति किप्रत्ययः। अस्याः शरीरं हस्तेनैव ग्राह्यो ग्रुहीतव्यमेव। पुनस्ते देवा इदानीमियं ब्रह्मजायेत्येवावोचन्। अवादिषुः। चशब्दश्चेदर्थे। अत एव निपातैर्य्यद्यदिहन्तेति तिङो निघाताभावः। बॄञ् व्यक्तायां वाचि। लुङि बृवो वचिः। अस्यतिवक्तिख्यातिभ्योऽङ्गिति च्लेरङादेशः। वच उमित्युमागमः। अडागमस्व्वरः। इदवधारणे। एषा ब्रह्मजाया पुरा प्रह्ये। हि गतौ व्रुद्धौ च। कर्मण्यौणादिकः क्विप्। तुगभवश्छान्दसः। ङिद्वचने सञ्ज्ञापूर्वकस्य विधेरनित्यत्वाद्गुनाभावः। उदात्तस्वरितयोर्यण इति सुपः स्वरितत्वम्। प्रहिताय त्वया भार्यान्वॆषणार्थं प्रेशिताय दुताय तथा न तस्थे। स्वात्मानम् न प्रकाशयति। तिष्ठतेर्लिटि प्रकाशनस्थेयाख्ययोश्च। पा. १-३-२३। इत्यात्मनेपदम्। श्लाघह्नुङ् स्थाशपाम्। पा. १-४-३४। इति दूतस्य सम्प्रदानसञ्ज्ञा। तत्र दृष्टान्तः। यथा क्षत्रियस्य राज्ञो गुपितं रक्षितं राष्ट्रं राज्यं शत्रवे यथा न प्रकाशयति तद्वदसौ दौर्भाग्ययुक्ततया तस्मै स्वात्मानं न प्रकाशितवती। इदानीं तु तद्राहित्येन प्रकाशमानेयं ब्रह्मजायैवेत्यब्रुवन्॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And (the gods) said (to **Bṛhaspati**), "This plural dge of hers is to be taken by the **hand**, this is the wife ofBrahmā; she has not made herself known to the messenger sent (to seek her), so is the kingdom of a kṣatriyaprotected".”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The deposit is to be grasped only by her hand, just when they have  announced: “Here is the Brahmin’s wife.”  
 She does not stand for sending a messenger. In this way is the kingship  of the ruler protected.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man, her pledge, must by her hand be taken when they have cried, She is a Brahman's consort.  
      She stayed not for a herald to conduct her: thus is the kingdom of a ruler guarded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der eigenen Hand muß er ihr Pfand fassen, wenn sie entschieden haben: Dies ist des Brahmanen Weib. Nicht gestattete sie einen Boten zu schicken. So ist das Reich des Fürsten behütet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Mit der Hand ist ihr Unterpfand zu ergreifen, sie ist eines Brahmanen Gattin«, als sie so gesprochen hatten, so harrte sie nicht eines Boten, der sie beförderte; so blieb des Kriegers [ksatríyasya] Herrschaft bewahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Собственной рукой следует взять, что принадлежит ей,  
 Если провозгласили: Она жена брахмана.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ स꣡ स꣡खा यो꣡ न꣡ द꣡दाति स꣡ख्ये  
 सचाभु꣡वे स꣡चमानाय पित्वः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृण꣡न्तम् अन्य꣡म् अ꣡रणं चिद् इछेत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अप॑ । अ॒स्मा॒त् । प्र । इ॒या॒त् । न । तत् । ओकः॑ । अ॒स्ति॒ । पृ॒णन्त॑म् । अ॒न्यम् । अर॑णम् । चि॒त् । इ॒च्छे॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -140,42 +140,42 @@ popular
 व्यतिरेकेण निन्दामाह । **सः** पुरुषः **सखा** **न** भवति **यः** पुरुषः **सचाभुवे** सर्वदा सहभवनशीलाय **सचमानाय** सेवमानायोपसर्जनीभूताय **सख्ये** सखिजनाय **पित्वः** पितूनन्नानि **न** **ददाति** न प्रयच्छति । स सुहृन्न भवतीत्यर्थः । **अस्मात्** अदातुः सख्युः सः **अप** **प्रेयात्** अपगच्छेत् । यद्येनं परित्यज्य गच्छेत् ॥  ‘ इण् गतौ । लिङि यासुट् ॥ तर्हि **तदोकः** निवासः सदनं **न** **अस्ति** न भवति । सदनं हि बन्धुभिः परिवृतम् । स गतः पुरुषः **पृणन्तम्** अन्नादिकं प्रयच्छन्तम् **अन्यमरणं** **चित्** अर्यं स्वामिनमेव **इच्छेत्** कामयेत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is not a friend who gives not food to a friend, to an associate, to a companion; let him turn awayfrom him, that is not a (fitting) dwelling; let him seek another more liberal lord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is no companion who does not give of his food to a companion, who,  being in his company, accompanies him.  
 He should turn away from him; this is not a home. He should seek  
 another who gives, even a stranger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No friend is he who to his friend and comrade who comes imploring food, will offer nothing.  
      Let him depart-no home is that to rest in-, and rather seek a stranger to support him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He is no friend who gives not of his substance To his devoted, intimate companion: This friend should turn from him — here is no haven — And seek a stranger elsewhere as a helper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ist kein Freund, der dem Freunde von seiner Speise nichts gibt, dem treuen Kameraden. Er soll sich von ihm abwenden, hier ist seines Bleibens nicht; er suche einen anderen Geber, auch wenn der ein Fremder ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist kein Freund, wer nicht dem Freunde mittheilt, der zu ihm kommt und ihn um Nahrung anspricht; Er muss hinweggehn, hier ist nicht sein Bleiben, er sucht sich andern Geber, sei er fremd auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот не друг, кто не дает (своей) пищи  
 Другу, неразлучному товарищу.  

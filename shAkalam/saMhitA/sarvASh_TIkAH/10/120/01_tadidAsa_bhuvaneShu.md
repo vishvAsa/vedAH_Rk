@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡द् आस भु꣡वनेषु ज्य꣡यिष्ठं+  
 य꣡तो जज्ञ꣡ · उग्र꣡स् त्वेष꣡नृम्णः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु यं꣡ वि꣡श्वे म꣡दन्ति ऊ꣡माः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒द्यः । ज॒ज्ञा॒नः । नि । रि॒णा॒ति॒ । शत्रू॑न् । अनु॑ । यम् । विश्वे॑ । मद॑न्ति । ऊमाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -130,7 +130,7 @@ popular
 **तत्** जगत्कारणत्वेन सर्ववेदान्तप्रसिद्धम् । इच्छब्दोऽवधारणे। **भुवनेषु** ॥  ‘ भू सत्तायाम् ॥ सत्सु पृथिव्यादिषु लोकेषु मध्ये जगत्कारणं ब्रह्मैव **ज्येष्ठं** प्रशस्ततमम् **आस** बभूव । तस्य परमार्थत्वात् तद्व्यतिरिक्तानां व्यावहारिकत्वाच्च । यद्वा । ज्येष्ठं वृद्धतमं जगत्कारणत्वेन सर्वेषामादिभूतं बभूव ॥ अस्तेर्लिटि छन्दस्युभयथा' इति सार्वधातुकत्वात् ' अस्तेर्भूः' (पा. सू. २, ४, ५२ ) इति भूभावाभावः । यद्वा । वृद्धं तदेव ब्रह्म स्वप्रकाशतया आस दिदीपे ।  ‘ अस गतिदीप्त्यादानेषु' । अस्माल्लिटि रूपम् । **यतः** उपादानभूतात् यस्मात् ब्रह्मणः **उग्रः** उद्गूर्णः **त्वेषनृम्णः** प्रदीप्तबलः सूयात्मक इन्द्रः **जज्ञे** जातो बभूव । श्रूयते हि - ‘ चक्षोः सूर्यो अजायत' (ऋ. सं. १०. ९०. १३) इति ।  ‘ सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्' (ऋ. सं. १०. १९०. ३ ) इति च ॥  ‘ जनिकर्तः प्रकृतिः' (पा. सू. १. ४. ३० ) इति प्रकृतेरपादानसंज्ञायां यत इति पञ्चमी । जनेर्लिटि  ‘ गमहन' इत्यादिना उपधालोपः।  ‘ द्विर्वचनेऽचि' इति तस्य स्थानिवद्भावात् द्विर्वचनादि ।  ‘ यद्वृत्तान्नित्यम्' इति निघातप्रतिषेधः । स च **जज्ञानः** जायमान एव **सद्यः** शीघ्रं **शत्रून्** शातयितॄन मन्देहादीन् राक्षसान् **नि** **रिणाति** निहिनस्ति । यद्वा उपासकानां पापरूपान् शत्रून् निहन्ति । तथा च ब्राह्मणं - सद्यो ह्येष जातः पाप्मानमपाहत' (ऐ. आ. १. ३. ४ ) इति ॥ जज्ञान इति जनेर्लिटि कानचि रूपमेतत् । रिणाति । री गतिरेषणयोः।  ‘क्र्यादिः । प्वादीनां ह्रस्वः इति ह्रस्वत्वम् ॥ **विश्वे** सर्वे **ऊमाः** । अवन्ति रक्षन्तीत्यूमाः प्राणिनः । अवतेरौणादिको मन्प्रत्ययः ।  ‘ ज्वरत्वर° इत्यादिना वकारोपधयोः स्थाने ऊठ् । सर्वे प्राणिनः **यं** सूर्यास्मकमुद्यन्तमिन्द्रमनुलक्ष्य मदर्थमुदगात् मदर्थमुदगादिति **मदन्ति** हृष्यन्ति ॥  ‘ मदी हर्षे '। व्यत्ययेन शप् ॥ तथा च ब्राह्मणं-- भूतानि वै विश्व ऊमास्त एनमनुमदन्त्युदगादुगादिति' (ऐ.आ. १. ३. ४ ) इति । तैत्तिरीयकं च तस्मात्सर्वं एव मन्यते मां प्रत्युदगादिति' (तै. सं. ६. ५. ४. २) इति । यद्वा । यं स्तुत्यादिभिर्माद्यन्तमनु पश्चात् सर्वे प्राणिनोऽभीष्टप्राप्त्या हृष्यन्ति ॥  ‘ अनुर्लक्षणे' (पा. सू. १,४,८४) इत्यनोः कर्मप्रवचनीयत्वात् कर्मप्रवचनीययुक्त इति द्वितीया ॥ स इन्द्रो जज्ञ इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ That, is **Brahman**, the first cause: sadyohyeṣa **jātaḥ** pāpmānamapāh
 Ūmāḥ = **prāṇinaḥ**: **bhūtāni** vai **viśva** ūmāsta enmanu madanty udagād udagāditi: AitareyaĀraṇyaka 1.3.4; or, all the protecting deities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this was the foremost among living beings, from which the mighty  one of vibrant manly spirit was born.  
 As soon as he is born, he melts down his rivals, while all his helpers cheer  him on.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IN all the worlds That was the Best and Highest whence sprang the Mighty Gods, of splendid valour.  
      As soon as born he overcomes his foemen, be in whom all who lend him aid are joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das war das Höchste unter den Wesen, aus dem der Gewaltige von feurigem Mute geboren wurde. Eben geboren reißt er die Feinde zu Boden, dem alle Helfer zujubeln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das war fürwahr die herrlichste der Welten, aus der entsprang der mächt'ge, mannhaft starke, Geboren kaum vertilgt er schon die Feinde, dem alle Freunde froh entgegenjauchzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это было высшее из существ,  
 Откуда родился грозный с неистовым мужеством.  

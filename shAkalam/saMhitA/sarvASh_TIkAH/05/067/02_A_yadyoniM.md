@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् यो꣡निं हिरण्य꣡यं  
 व꣡रुण मि꣡त्र स꣡दथः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यन्तं꣡ सुम्नं꣡ रिशादसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ध॒र्तारा॑ । च॒र्ष॒णी॒नाम् । य॒न्तम् । सु॒म्नम् । रि॒शा॒द॒सा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -93,35 +93,35 @@ genre M
 **यत्** यस्मात् **हिरण्ययं** हितरमणीयं **योनिं** यज्ञभूमिं हे **वरुण** हे **मित्र** **आ** **सदथः** आगच्छथः तस्मात् **चर्षणीनां** मनुष्याणां **धर्तारा** धारकौ च हे **रिशादसा** हिंसकानां क्षेप्तारौ युवाम् अस्मभ्यं **सुम्नं** सुखं **यन्तं** कुरुतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you come, **Varuṇa** and **Mitra**, to the delightful plural ce of sacrifice, then, supporters of men, destroyers of foes, you bring felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Varuṇa and Mitra, when you two take your seat upon the golden womb, as maintainers of the separate peoples, offer your favor, o you caring for  the stranger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Varuna and Mitra, ye sit in your golden dwelling-place,  
      Ye Twain, supporters of mankind, foeslayers, give felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr euch in den goldenen Schoß setzet, Varuna, Mitra, die Erhalter der Völker, so gewähret eure Gunst, ihr Überlegene!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr euch, Mitra, Varuna, hinsetzet auf den goldnen Schooss, Der Menschenstämme Hüter ihr, so reicht ihr Feindverzehrer Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы усаживаетесь на (ваше)  
 Золотое лоно, о Варуна, о Митра,  

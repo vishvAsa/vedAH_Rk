@@ -8,7 +8,7 @@ title = "+009"
 ‘परि प्रिया' इति नवर्चं नवमं सूक्तम् । ऋष्याद्याः पूर्ववत् । परि प्रिया' इत्यनुक्रान्तम् । उक्तो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 9 (721)  
 Soma Pavamāna  
@@ -23,7 +23,7 @@ The final three verses (7–9), with their requests, cause little difficulty, by
 Sun of verse 3 lights up his mothers; he may also be the Sun in verse 4. In verse 7  we call upon Soma to help us combat darkness and in verse 8 to light up the lights.  The last word of the hymn (vs. 9) is “sun” (svàḥ). It seems that in this hymn Soma  is both identified with the Sun and seen as a force that can win and keep the light  that Vedic people so craved and worried about. This focus on the sun is also found  in the next hymn, IX.10.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure and often puzzling content of this hymn, see published introduction.
 </details>

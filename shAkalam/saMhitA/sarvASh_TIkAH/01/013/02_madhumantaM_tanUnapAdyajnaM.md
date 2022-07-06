@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धुमन्तं तनूनपाद्  
 यज्ञं꣡ देवे꣡षु नः कवे  
 अद्या꣡ कृणुहि वीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒द्य । कृ॒णु॒हि॒ । वी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhumantaṃ* ← *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **कवे** मेधाविन् अग्ने **तनूनपात्** एतन्नामकस्त्वम् **अद्य** अस्मिन् दिने **नः** अस्मदीयं **मधुमन्तं** रसवन्तं **यज्ञं** हविः **वीतये** भक्षणार्थं **देवेषु** **कृणुहि** कुरु प्रापय इत्यर्थः ॥ मधुमन्तम् । फलेपाटिनमिमनिजनां गुक्पटिनाकिधतश्च ' ( उ. सू. १. १८) इति मन्यतेः उप्रत्ययो धकारश्चान्तादेशः।  ‘ नित्' इत्यनुवृत्तेः प्रत्ययस्य नित्त्वादाद्युदात्तो मधुशब्दः । तनूनपात् । आमन्त्रितनिघातः । अद्य ।  ‘ सद्यः परुत्° ' ( पा. सू. ५. ३. २२) इत्यादिना अस्मिन् काले इत्यर्थे द्यप्रत्ययान्तो निपातितः ॥ प्रत्ययस्वरेणान्तोदात्तः ।  ‘ तद्धितश्चासर्वविभक्तिः ' ( पा. सू. १. १. ३८) इति अव्ययत्वात्  ‘ अव्ययादाप्सुपः ' ( पा. सू. २. ४. ८२ ) इत्युपरि सप्तम्या लुक् । संहितायाम्  ‘ अन्येषामपि दृश्यते' (पा. सू. ६. ३. १३७ ) इति दीर्घत्वम् । कृणुहि ।  ‘ कृवि हिंसाकरणयोश्च । इदितो नुम् धातोः ' ( पा. सू. ७, १. ५८ ) इति नुम् । लोटः सेर्हिरादेशः ।  ‘ धिन्विकृण्व्योर च ' ( पा.सू. ३. १. ८०) इति शपोऽपवादो विकरण उप्रत्ययः; तत्संनियोगेने वकारस्य अकारः । तस्य  ‘ अतो लोपः ' ( पा. सू. ६. ४. ४८) इति लोपः। तस्य स्थानिवद्भावात् लघूपधगुणो न भवति ।  ‘ उतश्च प्रत्ययादसंयोगपूर्वात् ' ( पा. सू. ६. ४. १०६ ) इति हेर्लुक् न भवति, “ उतश्च प्रत्ययाच्छन्दो वावचनम् ' ( पा. सू. ६. ४. १०६. १ ) इति वचनात् ।  ‘ तिङ्ङतिङः' इति निघातः । वीतये । मन्त्रे वृषेषपचमनविदभूवीरा उदात्त: ' (पा. सू. ३. ३. ९६ ) इति क्तिन् उदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,34 +96,34 @@ Tanūnapāt, deourer of clarified butter (tanūnapa); alternatively, **tanu** = 
 **Napāt** = **tanaya**, son or offspring; alternatively, napāt = who does not preserve, who destroys
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Tanūnapāt, make our sacrifice full of honey and make it be among  the gods  
 today, to be pursued, o poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Son of Thyself, present, O Sage, our sacrifice to the Gods today.  
      Sweet to the taste, that they may feast.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Tanuinapat 1! Make our sacrifice rich in honey and convey it to-day to the gods, O sage, that they may feast.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach unser Opfer süß und bring es heute zu den Göttern, daß sie es gern annehmen, o Weiser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das süsse Opfer fahre heut, o weiser Sohn des eignen Leibs Hin zu den Göttern zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Сделай) сладкой, о  
 Танунапат  

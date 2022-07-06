@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वं꣡ केतुं꣡ सविता꣡ देवो꣡ अश्रेज्  
 ज्यो꣡तिर् वि꣡श्वस्मै भु꣡वनाय कृण्व꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ सू꣡रियो रश्मि꣡भिश् चे꣡कितानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । अ॒प्राः॒ । द्यावा॑पृथि॒वी इति॑ । अ॒न्तरि॑क्षम् । वि । सूर्यः॑ । र॒श्मिऽभिः॑ । चेकि॑तानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvaṃ* ← *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, masculine
@@ -117,45 +117,45 @@ genre M
 **विश्वस्मै** सर्वस्मै **भुवनाय** लोकाय **ज्योतिः** तेजः **कृण्वन्** कुर्वन् **सविता** प्रेरकः **देवः** **ऊर्ध्वम्** उन्मुखं **केतुं** प्रकाशकं भानुम् **अश्रेत्** आश्रयति । **वि** **चेकितानः** सर्वं विशेषेण पश्यन् **सूर्यः** **रश्मिभिः** स्वकीयैः किरणैः **द्यावापृथिवी** द्युलोकभूलोकौ **अन्तरिक्षं** च **आप्राः** समन्तादपूरयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Savitā** displays his banner on high, diffusing light through all worlds; contemplating (all things), the sun has filled heaven and earth and the firmament with his rays.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Savitar has braced his beacon upright, making light for all creation. He has filled heaven and earth and the space between—the Sun showing  himself ever more widely with his rays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pādas of these two vss. are identical, save for the near synonyms bhānúm (13.2) and ketúm (14.2), which take 2nd position. The rest of the verses go their own ways, though Sūrya appears in the final pādas of both.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Producing light for all the world of creatures, God Savitar hath raised aloft his banner.  
      Making his presence known by sunbeams, Surya hath filled the firmament and earth and heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The god Savitri has sent his shine upward, producing light for the whole world. The Sun, shining with his rays, has filled Heaven and Earth and the air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri hat sein Banner aufgerichtet, der ganzen Welt Licht bereitend. Surya hat Himmel und Erde, die Luft angefüllt, mit seinen Strahlen prangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar liess hoch die Strahlen steigen, der ganzen Welt das helle Licht verschaffend; Der Sonnengott erfüllte Erd' und Himmel, die weite Luft mit seinen Strahlen leuchtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог Савитар направил прямо (свое) знамя,  
 Создавая свет для всего мира.  

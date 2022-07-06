@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुशिल्पे꣡ बृहती꣡ मही꣡  
 प꣡वमानो वृषण्यति  
 न꣡क्तोषा꣡सा न꣡ दर्शते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 नक्तो॒षसा॑ । न । द॒र्श॒ते इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suśilpe* ← *su*
 - \[adverb\]
@@ -76,41 +76,41 @@ genre M
 **सुशिल्पे** सुरूपे **बृहती** परिवृढे **मही** महत्यौ **न** संप्रति **दर्शते** दर्शनीये **नक्तोषासा** नक्तोषासौ **पवमानः** सोमः **वृषण्यति** कामयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pure-flowing (**Soma**) longs for the fair-formed wide-reaching mighty Night and Dawn not yet visible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one acts the bull to the two handsomely adorned  females, lofty and great,  
 Night and Dawn, like two (women) lovely to see.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The placement of the simile marker ná seems to make náktoṣā́sā ‘Night and Dawn’ part of the simile itself, rather than the frame, but, esp. given the rigid structure of Āprī hymns, where the pair Night and Dawn is one of the key words, this is not possible. We must just assume that the tendency to put ná after the first word of the phrase has taken over here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With passion Pavamana longs for the great lofty pair, well-formed  
      Like beauteous maidens, Night and Dawn
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach den beiden Schöngeschmückten, Hohen, Großen verlangt der sich Läuternde brünstig, nach Nacht und Morgen wie nach zwei schönen Frauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf Nacht und Morgen stürzt als Stier, die schönen, weiten, herrlichen, Die grossen sich der rieselnde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Павамана страстно желает  
 Двух нарядных, высоких, великих –  

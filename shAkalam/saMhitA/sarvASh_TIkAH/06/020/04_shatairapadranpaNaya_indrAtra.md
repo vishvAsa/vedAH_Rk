@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतइ꣡र् अपद्रन् पण꣡य इन्द्रा꣡त्र  
 द꣡शोणये कव꣡ये अर्क꣡सातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पित्वो꣡ न꣡ अरिरेचीत् किं꣡ चन꣡ प्र꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒धैः । शुष्ण॑स्य । अ॒शुष॑स्य । मा॒याः । पि॒त्वः । न । अ॒रि॒रे॒ची॒त् । किम् । च॒न । प्र ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatair* ← *śataiḥ* ← *śata*
 - \[noun\], instrumental, plural, neuter
@@ -118,7 +118,7 @@ genre M
 **अत्र** अस्मिन् **अर्कसातौ** । अर्कोऽन्नं प्राप्यतेऽस्मिन्नित्यर्कसातिर्युद्धम् । तस्मिन् **दशोणये** बहुहविष्कात् **कवये** मेधाविनः । पञ्चम्यर्थे चतुर्थी । हे **इन्द्र** त्वत्सहायात् कुत्सात् बिभ्यतः **पणयः** एतन्नामकासुराः **शतैः** शतसंख्याकैः बलैः सार्धम् **अपद्रन्** अपाद्रवन् । अपलायन्त । अपि चेन्द्रः **अशुषस्य** अशुष्कस्य । संपूर्णबलस्येत्यर्थः । **शुष्णस्य** एतन्नामकासुरस्य कुत्सस्य शत्रोः **मायाः** कपटान् **वधैः** हननसाधनैरायुधैः **न** **प्र** **अरिरेचीत्** प्ररिक्तानतिरिक्तान्नाकरोत् । **पित्वः** अन्नस्य । पितुरित्यन्ननामैतत् । **किं** **चन** किंचिदपि न प्रारिरेचीत् । तदीयमन्नं सर्वमप्यपाहारयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 From the sage: daśoṇaye kavaye = **bahu** kaviṣkāt medhāvinaḥ, from the wise man offeing many oblations, that is tvatsahāyakutsāt, from **Kutsa**, your ally; elsewhere Daśoṇi is the name of an **asura**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Paṇis were felled here by hundreds (of deadly weapons), o Indra, for  the sake of the ten-armed poet at the winning of the (sun’s) rays;  
 by the deadly weapons the magic powers of the voracious Śuṣṇa (were  felled). Nothing at all had he left over from the meal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read the instr. plurals opening the two hemistichs (śataíḥ 4a, vadhaíḥ 4c) “vertically” -- that is, as a single NP distributed over two clauses. This seems to be Geldner’s solution too: “Durch hundert (Streiche) …; durch (deine) Streiche …”; so also Oldenberg ZDMG 55.326. The fact that a form of √pad needs to be read in pāda c, matching apadran in pāda a supports this interpr. It would, however, be possible to interpr. śataíḥ as “by the hundreds,” referring to the felled Paṇis. So Kümmel (424).
 
@@ -159,23 +159,23 @@ As Geldner (n. 4-5) notes, these two vss. probably belong together as an account
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There, Indra, while the light was won, the Panis f1ed, 'neath a hundred blows, for wise Dasoni,  
      And greedy Susna's magical devices nor left he any of their food remaining.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch hundert Streiche sanken da die Pani´s hin für den zehnarmigen Kavi im Kampf um die Sonne, o Indra; durch deine Streiche sanken die Blendwerke des gefräßigen Susna. Nicht zog er irgend etwas der Speise vor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch hundert Hiebe stürzten da die Diebe, o Indra, und des bösen Çuschna Listen, Als sich Daçoni Glück erwarb, der Sänger, nichts übertraf da dieses Trankes Kräfte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От сотен (ударов) полегли там Пани, о Индра,  
 Ради десятирукого мудреца при завоевании солнца.  

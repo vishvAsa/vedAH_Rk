@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡र् इन्द्र भू꣡मिया अ꣡धि  
 वृत्रं꣡ जघन्थ नि꣡र् दिवः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 सृ॒ज । म॒रुत्व॑तीः । अव॑ । जी॒वऽध॑न्याः । इ॒माः । अ॒पः । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nir* ← *niḥ*
 - \[adverb\]
@@ -126,41 +126,41 @@ genre M;; repeated line
 हे **इन्द्र** **भूम्याः** **अधि** भूलोकस्योपरि **वृत्रं** **निः** **जघन्थ** निःशेषेण हतवानसि । तथा **दिवः** द्युलोकात् **निः** जघन्थ । हत्वा च **इमाः** **अपः** वृष्ट्युदकानि **अव** **सृज** अधः पातय । कीदृशीरपः । **मरुत्वतीः** मरुद्भिः संयुक्ताः **जीवधन्याः** जीवाः प्राणिनो धन्यास्तृप्ता याभिस्ताः । अन्यत् समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youu have struck **Vṛtra** from off the earth and from heaven; (now) let loose the wind-bound, life-sustaining rain, manifesting your own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth from the earth you smashed Vr̥tra, o Indra, forth from heaven. Release downward these waters, which are accompanied by the Maruts,  affording riches to the living.  
 – They cheer on your sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner suggests that the waters are “accompanied by the Maruts” (marútvatīḥ) because the waters here are storm-rains. Although in a Marut context this would seem reasonable, in this Vṛtra-smashing context the waters should not be rain but the rivers confined by Vṛtra, and this interpretation is in fact possible here. Note that Sarasvatī, the river par excellence, is called both marútvatī (II.30.8) and marútsakhā (VII.96.2); this association must be a mediated one: the river is accompanied by or the companion of the Maruts because their storm-rains swell the rivers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou smotest Vrtra from the earth, smotest him, Indra, from the sky.  
      Let these life-fostering waters flow attended by the Marut host, lauding thine own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, hast von der Erde, vom Himmel den Vritra vertrieben. "Laß los diese von den Marut begleiteten Gewässer, die alles Lebende reich machen!" - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, schlugst den Vritra fort vom Himmel, von der Erd' hinweg; Giess diese Flut der Maruts nun herab, die reich an Leben ist, erstrahl in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, с земли ты вышиб  
 Вритру, с неба вы(шиб).  

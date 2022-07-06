@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡यतं च प्र꣡ स्तुतं च प्र꣡ चावतम्  
 प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 ऊ꣡र्जं नो धत्तम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । ऊर्ज॑म् । नः॒ । ध॒त्त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jayataṃ* ← *jayatam* ← *ji*
 - \[verb\], dual, Present imperative
@@ -135,20 +135,20 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ युवां **जयतं** शत्रून् **च** जयतम् । **प्र** **स्तुतं** स्तोतॄन् **च** **प्र** **चावतम्** अस्मांश्च प्ररक्षतम् । अन्यत् सिद्धम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Conquer (**Aśvins**), your foes; protect and praise (your worshipper), grant progeny, give wealth, andunited with the dawn and with **Sūrya**, give us, Aśvins, strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Conquer and sing praise and offer help. – Provide progeny and provide  property.  
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The distribution of ca’s in pāda a is somewhat puzzling or, perhaps, syncopated, with the 2nd ca following preverb+verb (prá stutaṃ ca), though the other two preverb/verb combinations in this tṛca place the ca in the expected position after the preverb (ā́ca gachatam 10a and immediately following prá cāvatam 11a). This does not seem to be metri causa, or at least not in some obvious way.
 
@@ -163,23 +163,23 @@ The first hemistichs of the three verses in this tṛca are excessively provided
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Conquer your foes, protect us, praise your worshippers; bestow upon us progeny and affluence.  
      Accordant, of one mind with Surya and with Dawn, O Asvins, grant us vigolms strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieget und stimmet das Lob an und helfet weiter und bringet Kinder und bringet Reichtum, einträchtig mit Usas und Surya, bringet uns Kraft, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erweist euch rühmlich, sieget und beschützet uns, und schenket Kinder, schenket reiche Schätze uns, Vereinigt mit der Sonne und dem Morgenroth, o Ritter, gebet Speise uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Побеждайте вы двое и прославляйте (вашу победу), и помогайте (нам),  
 И дайте потомство, и дайте богатство,  

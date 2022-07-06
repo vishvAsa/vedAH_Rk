@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समान꣡म् एत꣡द् उदक꣡म्  
 उ꣡च् चइ꣡ति अ꣡व चा꣡हभिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं जिन्वन्ति अग्न꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 भूमि॑म् । प॒र्जन्याः॑ । जिन्व॑न्ति । दिव॑म् । जि॒न्व॒न्ति॒ । अ॒ग्नयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānam* ← *samāna*
 - \[noun\], nominative, singular, neuter
@@ -107,35 +107,35 @@ popular;; epic anuṣṭubh (424)
 **एतत्** प्रसिद्धम् **उदकं** **समानम्** एकरूपमित्यर्थः । **अहभिः** कैश्चिदहोभिः ग्रीष्मकालीनैः **उच्चैति** उर्ध्वं गच्छति । तथा अहभिः **वर्षकालीनैरेव** तदुदकम् **अव** **च** एति अवाङ्मुखं च गच्छति ॥ ‘चवायोगे प्रथमा ' इति प्रथमा विभक्तिर्न निहन्यते ॥ रश्मिनाड्यैव भूमिं प्राप्नोति । तदेवोच्यते । **पर्जन्याः** प्रीणयितारो मेघाः **भूमिं** **जिन्वन्ति** उदकसंस्त्यायेन सस्याद्युत्पादनद्वारा भूमिष्ठान् प्रीणयन्ति । तथा **अग्नयः** आहवनीयाद्याः स्वे हुते आहुत्या **दिवं** द्युलोकस्थान् देवान् **जिन्वन्ति** प्रीणयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The uniform water passes upwards and downwards in the course of days; clouds give joy to the earth; fires rejoice the heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This water remains the same: it goes up and down throughout the days. Thunderstorms vivify the earth, and fires vivify heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Uniform, with the passing days, this water mounts and fails again.  
      The tempest-clouds give life to earth, and fires re-animate the heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses gleiche Wasser steigt im Lauf der Tage auf und kommt herab. Die Regengötter erquicken die Erde, die Feuer erquicken den Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies allen gemeinsame Wasser steigt auf und kommt herab im Lauf der Tage; die Erde beleben die Regenwolken, den Himmel beleben die Feuer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта одна и таже вода  
 Движется вверх и вниз с течением дней.  

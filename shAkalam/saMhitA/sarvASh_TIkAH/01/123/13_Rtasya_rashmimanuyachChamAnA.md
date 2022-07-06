@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य रश्मि꣡म् अनुय꣡छमाना  
 भद्र꣡म्-भद्रं क्र꣡तुम् अस्मा꣡सु धेहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡सु रा꣡यो मघ꣡वत्सु च स्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उषः॑ । नः॒ । अ॒द्य । सु॒ऽहवा॑ । वि । उ॒च्छ॒ । अ॒स्मासु॑ । रायः॑ । म॒घव॑त्ऽसु । च॒ । स्यु॒रिति॑ स्युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -125,36 +125,36 @@ genre M
 हे उषः **ऋतस्य** सत्यभूतस्यादित्यस्य **रश्मिं** रश्मीन् अनुयच्छमाना अनुकूल्येन प्रवर्तमाना त्वं **भदभद्रं** **क्रतुं** तत्तत्कल्याणं स्तुत्यं वा लौकिकं वैदिकं कर्म तद्विषयां प्रज्ञां वा **धेहि** स्थापय । हे उषः **नः** अस्मदर्थं **सुहवा** सुष्ठु आहूता सती व्युच्छ तमो विवासय प्रकाशं कुर्वित्यर्थः। किमर्थमिति तदुच्यते । **मघवत्सु** । मघमिति धननाम । हविर्लक्षणधनयुक्तेषु **अस्मासु** यजमानेषु **रायः** **च** **स्युः** बहुविधानि धनानि संभवन्त्विति पूर्वोक्तेन क्रतुना सह समुच्चयार्थः शब्दः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Co-operating with the rays of the true (sun), confirm in us every propitious act; earnestly invoked byus today, disperse, Uṣā, (the darkness), that wealth may devolve upon us, (already) affluent (in sacrificial treasures).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guiding yourself following the rein of truth, place ever more auspicious  resolve in us.  
 O Dawn, easy to invoke, dawn forth to us today. Let there be riches  among us and among our bounteous (patrons).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Obedient to the rein of Law Eternal give us each thought that more and more shall bless us.  
      Shine thou on us to-day, Dawn, swift to listen. With us be riches and with chiefs who worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die du dem Zügel des Gesetzes gehorchest, lege stets trefflichen Gedanken in uns! O Usas, leuchte uns heute auf, leicht zu rufen! Uns und unseren Gönnern sollen Reichtümer gehören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Rechtes Zügel lenkend, Morgenröthe, verleihe Weisheit, Segen uns auf Segen; Leicht zu erflehen strahle du uns heute, uns und den Fürsten seien reiche Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Послушная узде космического закона,  
 Дай нам силу духа, приносящую счастье!  

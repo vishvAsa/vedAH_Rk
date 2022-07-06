@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गु꣡हा हितं꣡ गु꣡ह्यं गूळ्ह꣡म् अप्सु꣡  
 अ꣡पीवृतम् मायि꣡नं क्षिय꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 अ꣡हन्न् अ꣡हिं शूर वीरि꣡येण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 उ॒तो इति॑ । अ॒पः । द्याम् । त॒स्त॒भ्वांस॑म् । अह॑न् । अहि॑म् । शू॒र॒ । वी॒र्ये॑ण ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *guhā*
 - \[adverb\]
@@ -115,20 +115,20 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेशूरेन्द्र गुहागुहायांहितन्निहितं अतएवगुह्यं अप्रकाश्यङ्गूह्ळङ्गूढं अप्सुउदकेषुअपीवृतन्तिरोहितं अत्रैकस्मिन् तिरोधानरूपेर्थेपुनरुक्तयस्तिरोधानभूयस्त्वप्रतिपादनपराः अभ्यासेहिभूयानर्थोभवति यथाहोदर्शनीयाहोदर्शनीयेति तादृशम्मायिनम्मायाविनंअसुरङ्क्षियन्तं निवसन्तं उतोअपिचापोद्यां दिवं- चतस्तभ्वांसं स्वसामर्थ्येनस्तम्भयन्तं इत्थम्भूतमहिमसुरम्मेघंवावीर्येणसामर्थ्यभूतेन वज्रेण अहन् हतवानसि हनहिंसागत्योरित्यस्यलङिरूपम् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, hero, you have slain by your prow the glorified Ahi, hidden privy in a cave, lurking in concealment, covered by the waters in which he was abiding, and arresting the rains in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one placed in hiding, the hidden one hiding amid the waters, the  wily one dwelling under cover  
 and blocking the waters and the heaven—(that) serpent you smashed by  your heroic deed, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is oddly conceived. The problem is the double object of the pf. part.
 
@@ -139,23 +139,23 @@ Although √stambh ordinarily means ‘prop up, make fast’, in the latter sens
 In any case, against the published translation, I would take the pf. part. as expressing anteriority - “having blocked / who had blocked the waters and heaven.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, thou slewest in thy valour Ahi concealed in depths, mysterious, great enchanter,  
      Dwelling enveloped deep within the waters, him who checked heaven and stayed the floods from flowing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den im Versteck befindlichen, sich versteckenden, in den Gewässern versteckten, verborgen hausenden, zauberischen, und der Wasser und Himmel festgebannt hatte, den Drachen erschlugst du Held mit Manneskraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sich versteckt in Wasserflut sich bergend, den listigen, verhüllten, der sich hinstreckt, Und der die Wasser fesselt und den Himmel, den Drachen schlugst mit Männerkraft, o Held, du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тайне находящегося, тайно затаенного в водах,  
 Скрытно живущего, колдовского змея,  

@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुभ꣡गः स꣡ व ऊति꣡षु  
 आ꣡स पू꣡र्वासु मरुतो वि꣡उष्टिषु  
 यो꣡ वा नून꣡म् उता꣡सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यः । वा॒ । नू॒नम् । उ॒त । अस॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *subhagaḥ* ← *subhaga*
 - \[noun\], nominative, singular, masculine
@@ -98,41 +98,41 @@ genre M
 हे **मरुतः** **वः** युष्माकम् **ऊतिषु** रक्षासु सतीषु **सः** स्तोता **सुभगः** **आस** शोभनधनो भवति । अस्तेश्छान्दसो भूभावाभावः । यद्वा । सुभग आस दीप्यते । **अस** गतिदीप्त्यादानेषु' । कदेति चेत् उच्यते । **पूर्वासु** **व्युष्टिषु** पूर्वेष्वतीतेषु विवासितेषु दिवसेषु । यद्वा । पूर्वास्वागामिनीषु व्युष्टिषूषःसु । उषःकालोपलक्षितेषु दिवसेषु । **उत** अपि च **यः** मनुष्यः स्तोता यष्टा वा **नूनम्** अवश्यम् **असति** युष्माकं भवति । अस्तेः छान्दसः शपो लुगभावः । स सुभग इत्यन्वयः ॥ ॥३८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fortunate was he, **Maruts**, who, in former days, was secure in your protections, as is he who nowenjoys them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Very fortunate is he who was amid your forms of help at earlier  dawnings, o Maruts,  
 or who will be also now.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c the presence of both vā ‘or’ and utá ‘and’ is curious, as is the position of the latter. Klein (DGRV I.450) suggests that the placement of utá after nūnám means that it should be construed with that adv., and so vā and utá each retains its own force.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blest by your favouring help was he, O Maruts, at the earlier flushings of the morn,  
      And even now shall he be blest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glücklich war dieser in eurer Gunst an den frühen Morgen, ihr Marut, oder wer es jetzt sein mag,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer glücklich war durch eure Gunst, o Maruts, stets bei der vergangnen Morgen Schein, Der wird fürwahr auch jetzt es sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастлив тот с вашими поддержками,  
 (Кто) был при прежних зажиганиях (зорь),  

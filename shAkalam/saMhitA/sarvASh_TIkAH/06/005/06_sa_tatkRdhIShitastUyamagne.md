@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त꣡त् कृधि इषित꣡स् तू꣡यम् अग्ने  
 स्पृ꣡धो बाधस्व स꣡हसा स꣡हस्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡ज् जुषस्व जरितु꣡र् घो꣡षि म꣡न्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । श॒स्यसे॑ । द्युऽभिः॑ । अ॒क्तः । वचः॑ऽभिः । तत् । जु॒ष॒स्व॒ । ज॒रि॒तुः । घोषि॑ । मन्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,20 +136,20 @@ genre M
 हे **अग्ने** **सः** त्वम् **इषितः** प्रेषितः सन् **तूयं** क्षिप्रं **तत्** **कृधि** कुरु । किं तदित्यत आह । **सहस्वान्** बलवांस्त्वं **स्पृधः** स्पर्धमानान् **सहसा** बलेन परेषामभिभवनसमर्थेन तेजसा वा **बाधस्व** विनाशय । **द्युभिः** द्योतमानैस्तेजोभिः **अक्तः** संसिक्तस्त्वं **वचोभिः** स्तुतिरूपैर्वाक्यैः **यच्छस्यसे** यत्स्तूयसे । त्वामुद्दिश्य यत् स्तोत्रं स्तोतृभिः क्रियत इत्यर्थः । **तत्** **मन्म** मननीयं **घोषि**  घोषणीयं **जरितुः** स्तोत्रं **जुषस्व** सेवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accomplish quickly, **Agni**, that for which you are solicited; endowed with strength, oppose by strength our adversaries; be plural ased, you are anointed with radiance, by loud vociferation of your worshipper, by whom you are adored with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do this straightaway, o Agni, when prompted: thrust away rivals with  strength, strong one.  
 When you are praised through the days, anointed with words, then take  pleasure in the singer. Listen to his thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pāda-final sáhasā sáhasvān is morphologically entirely parallel to 4d tápasā tápasvān.
 
@@ -160,23 +160,23 @@ of juṣasva, with which ‘speech’ vel sim. should be supplied. So Geldner an
 On ghóṣi, which I take as an anomalous -si imperative, see comm. ad IV.4.8, which contains the other occurrence of this form. On the possible relationship between ghóṣi and śróṣi in VI.4.7, see comm. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do this, O Agni, when we urge thee, quickly, triumphant in thy might subdue our foemen.  
      When thou art praised with words and decked with brightness, accept this chanted hymn, the singer's worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tu nun aufgefordert schleunig dies, o Agni: Vertreib die Nebenbuhler mit Gewalt, du der Gewaltige! Wenn du gepriesen wirst, an jedem Tagesanbruch mit Reden gesalbt, so freue dich an diesem Gedicht des Sängers, höre auf sein Gedicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum thu dies schnell, zur That erregt, o Agni, verjag die Feinde durch Gewalt, gewalt'ger, Wenn, lichtgeschmückter, man dich preist mit Sprüchen, nimm gnädig an dies laute Lied des Sängers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быстро сделай это, поощренный, о Агни:  
 Сильный, силой прогони соперников!  

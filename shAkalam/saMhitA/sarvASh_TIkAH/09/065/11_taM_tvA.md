@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा धर्ता꣡रम् ओणि꣡योः  
 प꣡वमान सुवर्दृ꣡शम्  
 हिन्वे꣡ वा꣡जेषु वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒न्वे । वाजे॑षु । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** पूयमान पुनान वा हे सोम **ओण्योः**। द्यावापृथिवीनामैतत् । तयोः **धर्तारं** धारकमत एव **स्वर्दृशं** सर्वस्य सूर्यस्य वा द्रष्टारं सर्वैर्देवैर्द्रष्टव्यं वा **वाजिनं** बलवन्तं तं पूर्वोक्तगुणप्रसिद्धं **त्वा** त्वां **वाजेषु** संग्रामेषु **हिन्वे** प्रेरयामि । यद्वा । वाजेष्वन्नेषु विषयेषु हिनोमि । अन्नादिकं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, I urge you to grant us food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o self-purifying one, who look like the sun, the upholder of  (Indra’s?) two arms,  
 do I impel—the prize-seeker to the prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (n. 11a) I tentatively assume that the arms (oṇyòḥ) are Indra’s, since he was mentioned in the preceding vs. But as in IX.16.1 they might belong to the officiant.
 
@@ -112,23 +112,23 @@ Again, no particular signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I send thee forth to battle from the press, O Pavamana, Strong,  
      Sustainer, looker on the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Stützer seiner beiden Arme, o Pavamana, mit dem Sonnenauge sporne ich an, den Preisrenner im Kampf um die Siegerpreise.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du die Weltenschalen trägst, o Flammender, der Sonne gleich, Dich sporn' ich wie ein Ross zum Lauf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

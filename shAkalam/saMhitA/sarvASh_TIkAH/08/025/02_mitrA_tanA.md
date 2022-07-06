@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रा꣡ त꣡ना न꣡ रथि꣡या  
 व꣡रुणो य꣡श् च सुक्र꣡तुः  
 सना꣡त् सुजाता꣡ त꣡नया धृत꣡व्रता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स॒नात् । सु॒ऽजा॒ता । तन॑या । धृ॒तऽव्र॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitrā* ← *mitra*
 - \[noun\], nominative, dual, masculine
@@ -103,7 +103,7 @@ genre M
 **सुक्रतुः** शोभनकर्मा **यः** **वरुणः** सुकर्मा **मित्रा** **च** मित्रावरुणौ । कीदृशौ । **तना** । तन्वन्ति मुकुटकटकादिनेति तनानि धनानि । नश्चार्थे । धनानि च **रथ्या** रथ्यौ नेतारौ । यद्वा । धनानि कर्मणः कर्त्रपेक्षत्वात् प्रयच्छन्ताविति संबध्यते । तादृशौ रथ्यौ रथवन्तौ **सनात्** चिरादेव **सुजाता** सुजातौ शोभनजन्मानौ । तदेवाह । **तनया** तनयौ अदितेः पुत्रौ **धृतव्रता** धृतव्रतौ धृतकर्माणौ ता यजस इति पूर्वेण समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,14 +114,14 @@ genre M
 Charioteers: or, bringers ofriches, **tanā** **rathyā**; you are worshiped: you sacrifice to them, tā yajase (from the previous ṛca)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They are like two charioteers along the (home) stretch (of a  
 racecourse), the two allies [=mitras], Mitra and Varuṇa, who is of  strong will,  
 both well-born descendants from of old, whose commandments are  upheld.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The du. mitrā́is used in two different senses: on the one hand, in its appellative sense it refers to the two gods as allies; on the other mitrā́is a pregnant dual PN, meaning “Mitra (and Varuṇa),” with the “and Varuṇa” then pleonastically+++(=redundant)+++ supplied in pāda b in an “X and which Y” construction (váruṇo yáś ca).
 
@@ -130,23 +130,23 @@ Most take tánā as another dual (to thematic tána-), but struggle to interpr. 
 tánayā of course echoes tánā, though it belongs to a different stem (whichever interpr. of tánā is followed). In this case I accept the general interpr. as du. to tánaya-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, too, like charioteers are they, Mitra and sapient Varuna,  
      Sons high-born from of old, whose holy laws stand fast.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden sind dauernd verbündet wie zwei Wagenrosse, Mitra und der weise Varuna, die vor alters edelgeborenen leiblichen Söhne, die die Gebote aufrecht halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie stete Wagenlenker sie, Mitra, der starke Varuna, Die schöngebornen Söhne wahren stets das Recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митра и (тот,) который Варуна с прекрасной силой духа,  
 Постоянно (связанные), как два коня колесницы,  

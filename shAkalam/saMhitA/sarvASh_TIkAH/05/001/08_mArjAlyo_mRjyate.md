@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मार्जालि꣡यो मृज्यते स्वे꣡ द꣡मूनाः  
 कविप्रशस्तो꣡ अ꣡तिथिः शिवो꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वाँ अग्ने स꣡हसा प्रा꣡सि अन्या꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽशृङ्गः । वृ॒ष॒भः । तत्ऽओ॑जाः । विश्वा॑न् । अ॒ग्ने॒ । सह॑सा । प्र । अ॒सि॒ । अ॒न्यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mārjālyo* ← *mārjālyaḥ* ← *mārjālya*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 मार्जाल्यः संमार्जनीयोऽयमग्निः **मृज्यते** परिचर्यते । **स्वे** स्वकीये स्थाने । कीदृशोऽयम् । **दमूनाः** दानमना दान्तमना वा **कविप्रशस्तः** कविभिर्मेधाविभिः प्रशस्तः प्रकर्षेण स्तुत्यः **नः** अस्माकम् **अतिथिः** अतिथिवत् पूज्यः **शिवः** सुखकरश्च । **सहस्रशृङ्गः** अपरिमितज्वालः **वृषभः** वर्षिता फलानां **तदोजाः** । यत्प्रसिद्धं बलं तेजो वास्ति तदेवौजो यस्य तादृशः । सर्वबलस्वरूप इत्यर्थः । अथ प्रत्यक्षवादः । हे **अग्ने** **विश्वान्** **अन्यान्** स्वव्यतिरिक्तान् सर्वान् **सहसा** बलेन **प्रासि** । प्रेति परेत्यर्थे । पराभवसि । व्याप्तुं वा प्रभवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,34 +135,34 @@ genre M
 Of well-known might: tad ojaḥ = liṭ, having that strength; tad, that, implying that which is notorious, yat prasiddham balam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fit to be groomed, he is groomed in his own (house) as master of the  house, praised by poets, our kind guest.  
 A bull of a thousand horns and having its power, o Agni, you are ahead  of all the other (fires) by your strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, worshipful House-Friend, in his home is worshipped, our own auspicious guest, lauded by sages.  
      That strength the Bull with thousand horns possesses. In might, O Agni, thou excellest others.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who likes to be groomed, is groomed in his own (abode), the house-friend 1, praised by sages, our auspicious guest, the bull with a thousand horns who has the strength of such a one. O Agni! By this power thou surpassest all other (beings).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der sich gern putzt, er wird geputzt im eigenen Hause als der Hausherr, von den Sehern gefeiert, uns ein angenehmer Gast. Ein Stier mit tausend Hörnern, dessen Stärke besitzend, bist du allen anderen an Kraft voraus, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schmucke Hausfreund wird geschmückt im Heimsitz, der liebe Gast gepriesen von uns Sängern, Der tausendhörn'ge Stier, der solche Kraft hat, an Macht bist vor du allen andern, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он, охотно украшающийся, украшается в своем (доме как) хозяин дома,  
 Прославленный поэтами, милый наш гость.  

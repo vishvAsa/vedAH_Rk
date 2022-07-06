@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य त्व꣡म् · इन्द्र स्तो꣡मेषु चाक꣡नो  
 वा꣡जे वाजिञ् छतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 जुहूम꣡सि श्रवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 तम् । त्वा॒ । व॒यम् । सु॒दुघा॑म्ऽइव । गो॒ऽदुहः॑ । जु॒हू॒मसि॑ । श्र॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -113,21 +113,21 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Śatakratu**, you who are bountiful to him whose praises and oblations you delight in, we, desiringwealth, invoke you, as the milkers call a cow which bears abundant milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose praises, Indra, you will take pleasure when the prize (is set), you  prizewinner of a hundred resolves...  
 Eager for fame, we call to you, as milkers call on a cow who gives  
 good milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is structurally a mess. It seems at first to have made the same shift of the referent of the relative pronoun from Indra (vs. 3) to Indra’s client (vs. 4) as was made in the preceding hymn in vs. 6: yásya stómeṣu “in whose praises” refers to the praiser. But the resumptive pronoun tám refers not to the praiser but to Indra, as the phrase táṃ tvā makes explicit, and the single praiser of 4a, implicitly in the 3rd person (though see Scarlatta 225, who supplies “Zu mir”), corresponds to the 1st pl.
 
@@ -136,17 +136,17 @@ vayám in c.
 Geldner (followed by Scarlatta 225) takes vā́je as part of the voc. phrase in b: “du im Kampf Sieghafter, Ratreicher.” This is possible, I suppose, and even favored by the pāda boundary, but I take it as one of those locative absolutes without expressed participle, like common dháne “when the stake (is set).”
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dessen Lobliedern du, Indra, Freude haben sollst, du im Kampf Sieghafter, Ratreicher - dich rufen wir wie die Kuhmelker die gutmelke Kuh, Ruhm begehrend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An wessen Lobliedern du, o Indra, Gefallen findest und an wessen Labung, [dem bist du] labungsreich, o hundertfach wirkender; drum rufen wir dich wie die Melker eine schönmilchende Kuh, nach Schätzen begierig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В чьих восхвалениях, о Индра, ты находишь радость,  
 О стоумный победитель в борьбе…-  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ ज꣡नं दर्शता꣡ बोध꣡यन्ती  
 सुगा꣡न् पथः꣡ कृण्वती꣡ याति अ꣡ग्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ ज्यो꣡तिर् यछति अ꣡ग्रे अ꣡ह्नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृ॒ह॒त्ऽर॒था । बृ॒ह॒ती । वि॒श्व॒म्ऽइ॒न्वा । उ॒षाः । ज्योतिः॑ । य॒च्छ॒ति॒ । अग्रे॑ । अह्ना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -132,20 +132,20 @@ genre M
 **दर्शता** दर्शनीया **एषा** उषाः **बोधयन्ती** । कम् । **जनम्** । प्रसुप्तमित्यर्थः । **पथः** **सुगान्** सुगमनान् **कृण्वती** **अग्रे** सूर्यस्य पुरस्तात् **याति** गच्छति । कीदृश्युषाः **बृहद्रथा** प्रभूतरथा **बृहती** महती **विश्वमिन्वा** विश्वं व्याप्नुवाना विश्वतर्पणा वा । ईदृशी **उषाः** **अह्नाम्** **अग्रे** **ज्योतिः** तेजः **यच्छति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The lovely Dawn, arousing man, goes before (the sun) preparing practicable paths, riding in a spacious chariot; vast, expanding everywhere, she diffuses light at the commencement of the days.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, worthy to be seen, awakening the people, making the paths easy to  travel, drives in the vanguard  
 with a lofty chariot, herself lofty, setting all in motion. Dawn extends her  light in the vanguard of the days.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -155,23 +155,23 @@ Just as Savitar follows the lead (prayā́ṇam) of Dawn in 2d, the other gods f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She comes in front, fair, rousing up the people, making the pathways easy to be travelled.  
      High, on her lofty chariot, all-impelling, Dawn gives her splendour at the days' beginning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die Gerngesehene, die die Leute weckt und die Wege gangbar macht, geht voraus auf hohem Wagen, die Hohe, Allbewegende. Die Usas hält im Anbeginn der Tage ihr Licht hoch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sehenswerthe, die den Menschen aufweckt, sie fährt voran, die Pfade gangbar machend, Auf hohem Wagen hehr und allerfreuend, das Licht ausbreitend bei der Tage Anbruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она, красивая на вид, будящая людей,  
 Делающая пути легко проходимыми, едет впереди;  

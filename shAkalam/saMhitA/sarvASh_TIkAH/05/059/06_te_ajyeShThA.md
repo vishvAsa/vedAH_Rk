@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ अज्येष्ठा꣡ अ꣡कनिष्ठास उद्भि꣡दो  
 अ꣡मध्यमासो म꣡हसा वि꣡ वावृधुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिवो꣡ म꣡र्या आ꣡ नो अ꣡छा जिगातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽजा॒तासः॑ । ज॒नुषा॑ । पृश्नि॑ऽमातरः । दि॒वः । मर्याः॑ । आ । नः॒ । अच्छ॑ । जि॒गा॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -135,36 +135,36 @@ genre M
 **ते** मरुतः **अज्येष्ठाः** **अकनिष्ठासः** अकनिष्ठाः **उद्भिदः** उद्भेदयितारः शत्रूणाम् **अमध्यमासः** अमध्यमाः सर्वप्रकारैः समाः **महसा** तेजसा **वि** **ववृधुः** विवर्धन्ते । **सुजातासः** सुष्ठु संभूताः **जनुषा** जन्मना **पृश्निमातरः** पृश्नेः पुत्राः **मर्याः** मनुष्येभ्यो हिता यूयं **दिवः** सकाशात् **नः** अस्मान् **अच्छ** अभिमुखम् **आ** **जिगातन** सर्वतः प्रशंसत साध्वनुष्ठितमिति । उत्तरार्धः प्रत्यक्षकृतः । यद्वा । ये सुजाता जनुषा पृश्निमातरश्च तान् दिव आगतान् हे ऋत्विजो मर्या यूयमा जिगातन आगच्छत ते नोऽच्छ आगच्छतास्मदभिमुखम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “None of them are older, none younger (than the others); the destroyers of (foes), none hold a middle (rank), but all excel in glory; honourable by birth having **Pṛṣṇi** for your mother, do you, **Maruts**, favourable to man, come from heaven to our presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They, bursting forth with no oldest one, no youngest, no middle, have  grown forth in their greatness.  
 Noble by birth, having Pr̥śni as mother, young bloods of heaven—come  here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Having no eldest and no youngest in their band, no middlomost, preeminent they have waxed in might,  
      These Sons of Prsni, sprung of noble ancestry: come hitberward to us, ye bridegrooms of the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Ältesten, ohne Jüngsten, ohne Mittleren, alle an der Spitze sind sie in voller Größe ausgewachsen. Edel von Geburt, Söhne der Prisni, des Himmels Jungen, kommt zu uns her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sprudler, deren keiner jüngster, ältester, noch mittler ist, in Pracht und Grösse wuchsen sie; Die Priçnisöhne hochgeadelt von Geburt, des Himmels Mannen; kommet doch zu uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без старшего, без младшего, без среднего –  
 (Все) во главе, они выросли во всю мощь.  

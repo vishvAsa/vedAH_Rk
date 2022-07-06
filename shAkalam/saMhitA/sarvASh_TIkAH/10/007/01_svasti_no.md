@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्ति꣡ नो दिवो꣡ अग्ने पृथिव्या꣡  
 विश्वा꣡युर् धेहि यज꣡थाय देव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुष्या꣡ ण उरु꣡भिर् देव शं꣡सैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सचे॑महि । तव॑ । द॒स्म॒ । प्र॒ऽके॒तैः । उ॒रु॒ष्य । नः॒ । उ॒रुऽभिः॑ । दे॒व॒ । शंसैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasti*
 - \[noun\], accusative, singular, neuter
@@ -119,7 +119,7 @@ genre M
 हे **देव** दानादिगुणविशिष्ट **अग्ने** त्वं **दिवः** **पृथिव्याः** द्यावापृथिव्योः सकाशात् **नः** अस्मभ्यं **विश्वायुः** सर्वान्नं **स्वस्ति** पुत्रादि **यजथाय** देवयागार्थं **धेहि** प्रयच्छ । सर्वोपद्रवरहिताः सर्वान्नपुत्रयुक्ताश्च सन्तो वयं यथा यज्वानो भवेम तथास्मान् कुर्विति वाक्यशेषः । अपि च वयं **सचेमहि** । हे **दस्म** दर्शनीय **देव** अग्ने **उरुभिः** बहुभिः **शंसैः** शंसनीयैः **तव** संबन्धिभिः **प्रकेतैः** पालनोपायप्रज्ञानैः **नः** अस्मान् **उरुष्य** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ Abundant food: **viśvāyuḥ** = sarvānnam, agreeing with **svasti** (maleoffs
 Viśvāyuḥ = you, who are the sustainer of life; protect uṣ..hymns: tava dasma praketairuruṣyāṇa urubhirdeva śaṃsaiḥ = **darśanīya** **deva** bahubhiḥ śaṃsanīyais tava sambandhibhiḥ pālanopāyaprajñānair asmān **rakṣa**, protect us, beauteous god, by the many praiseworthy knowledges of the means ofprotection belonging to you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Provide well-being to us from heaven and from earth, (for us) to sacrifice  for a full lifetime, o god Agni.  
 
 Might we be accompanied by your visible signs, o wondrous one. Make  wide space for us in exchange for our wide lauds, o god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O AGNI, shared by all men living bring us good luck for sacrifice from earth and heaven.  
      With us be thine intelligence, WonderWorker! Protect us, God, with thy far-reaching blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, Gott Agni, vom Himmel, von der Erde allezeit Glück zum Opfern! Wir möchten deiner Erkennungszeichen teilhaft werden, du Meister. Hilf uns weiter mit deinen weitreichenden Worten, o Gott!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib allbelebend, Agni, uns zum Opfern, o Gott, des Himmels und der Erde Segen; Wir sei'n theilhaftig deines Lichts, o schöner, schaff weiten Raum durch grosse Huld, o Gott, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастье нам с неба, о Агни, (и) с земли  
 Даруй весь век, чтобы (мы) почитали (богов), о бог!  

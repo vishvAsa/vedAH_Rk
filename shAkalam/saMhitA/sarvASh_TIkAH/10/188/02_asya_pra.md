@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ प्र꣡ जात꣡वेदसो  
 वि꣡प्रवीरस्य मीळ्हु꣡षः  
 मही꣡म् इयर्मि सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 म॒हीम् । इ॒य॒र्मि॒ । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -76,35 +76,35 @@ genre M
 **जातवेदसः** जाताना वेदितुः **विप्रवीरस्य** । विप्रा मेधाविनो यजमाना वीराः पुत्रा यस्य ॥ तादृशस्य **मीळ्हुषः** सेक्तुः **अस्य** अग्नेः **महीं** महतीं **सुष्टुतिं** शोभनां स्तुतिं **प्र** **इयर्मि** प्रेरयामि ॥ ‘ऋ ‘ गतौ । जौहोत्यादिकः । ‘अर्तिपिपर्त्योश्च' इत्यभ्यासस्येत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer earnest and ample praise to this Ja-tavedas, the showerer (of benefits), whose sons areintelligent (worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For this Jātavedas here, whose heroes are poets, who grants rewards, I rouse forth a great praise hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I raise the lofty eulogy of Jatavedas, raining boons,  
      With sages for his hero band.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich hebe ein großes Loblied auf diesen belohnenden Jatavedas an, der die Männer beredt macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der aus weiter Ferne her hinstrahlet durch das ganze Land, Er führ' uns durch die Feinde hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я привожу в движение великую прекрасную хвалу  
 Этого щедрого Джатаведаса,  

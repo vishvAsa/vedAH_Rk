@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुः पुनानः꣡ प्रजा꣡म् उराणः꣡  
 क꣡रद् वि꣡श्वानि द्र꣡विणानि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 इन्दुः॑ । पु॒ना॒नः । प्र॒ऽजाम् । उ॒रा॒णः । कर॑त् । विश्वा॑नि । द्रवि॑णानि । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **पुनानः** पूयमानः **उराणः** । ' उराण उरु कुर्वाणः ' ( निरु. ६. १७) इति यास्कः । देवान् बहु कुर्वाणः **इन्दुः** सोमः **नः** अस्माकं **प्रजाम्** अपत्यादिका **विश्वानि** व्याप्तानि द्रविणानि धनानि च **करत्** करोतु । करोतेर्लङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,12 +91,12 @@ Extolling the gods: prajām is separated from **urāṇaḥ**;
 Urāṇaḥ = uru kurvāṇaḥ, i.e. devān **bahu** kurvāṇaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop being purified, being chosen, will make offspring and all  goods for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In all clear cases urāṇá- is passive, ‘being chosen’ (see comm. ad IV.6.3).
 
@@ -114,22 +114,22 @@ Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, while cleansed, keeping the people safe, shall give us all possessions for our own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der geläuterte Saft möge, Nachkommenschaft erbittend, uns alle Reichtümer schaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Indu flammend – die Seinen liebend, verschaff uns alle – erwünschten Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок сомы, очищаясь, выбрав себе потомство,  
 Пусть создаст все богатства для нас!

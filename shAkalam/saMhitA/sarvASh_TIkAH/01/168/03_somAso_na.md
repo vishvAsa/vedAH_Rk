@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मासो न꣡ ये꣡ सुता꣡स् तृप्त꣡अंशवो  
 हृत्सु꣡ पीता꣡सो दुव꣡सो न꣡ आ꣡सते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ह꣡स्तेषु खादि꣡श् च कृति꣡श् च सं꣡ दधे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । ए॒षा॒म् । अंसे॑षु । र॒म्भिणी॑ऽइव । र॒र॒भे॒ । हस्ते॑षु । खा॒दिः । च॒ । कृ॒तिः । च॒ । सम् । द॒धे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
@@ -135,7 +135,7 @@ genre M
 ये मरुतः **सुताः** अभिषुताः **तृप्तांशवः** तर्पितावयवाः **सोमासो** न सोमा इव । यथा वल्लीरूपाः सोमा अभिषवात्पूर्वमाप्यायनेन तृप्तावयवाः सन्तः पश्चात् सुताः अभिषुताः रसभूताः **पीतासः** पीताः सन्तः **हृत्सु** पातॄणां हृदयेषु **दुवसो** **न** **आसते** परिचरन्त इवासते तद्वत् ये मरुतो यज्ञे आहूतास्तृप्तावयवा भवन्ति ध्यायमानाः सन्तो हृत्सु हृदयेषु दुवसो न परिचरन्त इवासते । यद्वा । प्राणादिरूपेण शरीरे स्थिताः दुवसः परिचरन्त इव गमनादिचेष्टाः कुर्वन्त आसते । **एषामंसेषु** **रम्भिणीव** युवतमांसालम्बिनी योषिदिव **आ** **रारभे** आरेभे आश्लिष्यति । अवलम्बने सामर्थ्यात् शक्त्याख्यायुधविशेषो भुजलक्ष्मीर्वा । किंच **हस्तेषु** **खादिः** हस्तत्राणकः **च** **कृतिः** कर्तनी **च** खड्गलताष्टिश्च **सं** **दधे** संधीयते सम्यग्धृता भवति । परस्परसमुच्चयार्थाश्चकाराः । ये मरुतः उक्तरूपाः ते आविर्भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,36 +146,36 @@ genre M
 With well-nourished shoots: tṛptāṃśavaḥ = tṛptāvayavaḥ, having satisfied or well-nourished limbs; hangs (lance): what is suspended on the shoulders of the **Maruts** is not specified; the suggestion is, either a lance, **śakti** or the beuty of the arms, bhujalakṣmī
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, like soma drinks, pressed when their stalks are satiated, once  they have been drunk, sit in the hearts like friends—  
 on their shoulders (a spear) clings tight like a clinging woman; in their  hands both bangle and dagger are placed together.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ihéva śrṇ̥ va eṣāṃ, káśā hásteṣu …, the Maruts do have a whip, so an alternative tr. could be “spur them on with your own breath as whip” or “spur them on by yourselves with a whip.” The use of tmánā with a clearly marked simile in 5b may lend support to my interpr. of káśayā as an unmarked simile here.
 
 The qualifier “dustless” (aréṇavaḥ), in combination with codata ‘spur on’ (b) and acucyavuḥ ‘have made stir’ (c), evokes the common notion that dust gets stirred up by violent activity (see, e.g., I.56.4=IV.17.13, IV.42.5). It is thus a paradox: although the Maruts set many things in motion, they themselves remain unaffected by this movement and therefore dustless.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who, like Somas with their well-grown stalks pressed out, imbibed within the heart, dwell there in friendly wise.  
      Upon their shoulders rests as 'twere a warrior's spear and in their hand they hold a dagger and a ring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die wie die ausgepreßten Somatränke aus gesättigten Stengeln, wenn sie getrunken sind, im Herzen weilen die Günstlinge - auf ihren Schultern lehnt sich die Lanze wie eine Frau, die sich anlehnt. In Ihren Händen sind Spange und Schwert vereinigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Somasäften gleichen sie, den kräftigen, die eingeschlürft sich regen, nimmer wirkungslos, An ihre Schultern lehnt sich eine Lanze wohl, in ihren Händen halten Spange sie und Dolch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что подобны сокам сомы, выжатым из стеблей, насыщенных (влагой),  
 Пребывающим внутри, когда их выпьют, словно любимцы...  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो वायुं꣡ रथयु꣡जं कृणुध्वम्  
 प्र꣡ देवं꣡ वि꣡प्रम् पनिता꣡रम् अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡स्वीर् नो अ꣡त्र प꣡त्नीर् आ꣡ धिये꣡ धुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इ॒षु॒ध्यवः॑ । ऋ॒त॒ऽसापः॑ । पुर॑म्ऽधीः । वस्वीः॑ । नः॒ । अत्र॑ । पत्नीः॑ । आ । धि॒ये । धु॒रिति॑ धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -135,20 +135,20 @@ genre M
 हे मदीया ऋत्विजः **वः** यूयं **वायुं** देवं **रथयुजं** यज्ञगमनाय रथसंबद्धं **कृणुध्वं** कुरुध्वम् । **प्र** **देवं** द्योतमानं **विप्रं** विशेषेण कामानां पूरकं विप्रवत्पूज्यं वा **पनितारम्** ॥ कर्मणि कर्तृप्रत्ययः ॥ स्तुत्यमित्यर्थः । फलप्रदातारं वा **अर्कैः** अर्चनसाधनैर्मन्त्रैः **प्र** कृणुध्वं स्तुत । किंच **इषुध्यवः** गन्त्र्यः **ऋतसापः** यज्ञस्पृशः **पुरंधीः** पुरंध्यः स्त्रीरूपाः रूपवत्यो वा **वस्वीः** प्रशंस्याः **पत्नीः** देवपत्न्यः **अत्र** अस्मिन् यज्ञे **नः** अस्मदीयाय **धिये** कर्मणे तन्निष्पत्तये **आ** **धुः** आगतवत्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Prevail, (priests), by your prayers, on **Vāyu**, the divine, the fulfiller of desires, the adorable, to harness his chariot; may the light-moving accepters of sacrifice, the lovely and excellent wives (of the gods), come hither to our rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set Vāyu, who hitches up the chariot, in front; in front the god, the  inspired admirer, with your chants—  
 (you,) aiming (straight), serving the truth, (set in front) the creators of  plenty. Let them, (like?) good wives, create (plenty) here (in exchange)  for our visionary thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are again a number of ways to construe this vs., and I will concentrate on my own. Given the alternation I see in this hymn between the actions of gods and men, I think (with most) that the 2nd pl. subj. of prá … kṛṇudhvam is back to the mortal ritual officiants (as in 3cd), rather than the gods (as in 5a). I also take prá kṛṇudhvam to be the verb of all of abc, reinforced by prá opening b. This further means that the nominatives of c (iṣudhyáva ṛtasā́paḥ) refer to the mortals and the púraṃdhīḥ is acc. pl., not nom. as many take it. Crucial to this interpr. is the parallel cited by Oldenberg, X.64.7 prá vo vā́yuṃ rathayújaṃ púraṃdhiṃ, stómaiḥ krṇ̥ udhvam sakhyā́ya pūṣáṇam. “Set in front with your praises Vāyu, who hitches up the chariot, Plenitude, (and) Pūṣan for partnership,” with clear acc. púraṃdhim a parallel obj.
 
@@ -161,23 +161,23 @@ I do not entirely understand the position of ā́, which appears to be a preverb
 On iṣudhyú-, see comm. ad I.128.6 and my forthcoming article “Vedic iṣudhyá- and Oldenberg Avestan išud-, išūidiia-: The Aim of Praise.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring hither him who yokes the car, your Vayu, who praises with his songs, the God and Singer;  
      And, praying and devout, noble and prudent, may the Gods' Spouses in their thoughts retain us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet den seinen Wagen schirrenden Vayu geneigt, machet den redekundigen Gott, den Anerkennenden, mit Preisliedern geneigt - auf Belohnungen Anspruch erhebend als Pfleger der Wahrheit. Mögen die guten Gattinnen der Götter unserem Gedicht sie dabei gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Vaju stellt euch an als Wagenschirrer, den Gott als Sänger, der mit Liedern preise, Die frommen, guten, reichen Götterfrauen sie mögen strebend uns zur Andacht fördern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расположите к себе Ваю, запряженного в колесницу,  
 Рас(положите) с помощью песен вдохновенного бога, вызывающего удивление, –  

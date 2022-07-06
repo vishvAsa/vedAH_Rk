@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡वत् त꣡रस् तनु꣡वो या꣡वद् ओ꣡जो  
 या꣡वन् न꣡रश् च꣡क्षसा दी꣡धियानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रवायू स꣡दतम् बर्हि꣡र् ए꣡द꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 शुचि॑म् । सोम॑म् । शु॒चि॒ऽपा॒ । पा॒त॒म् । अ॒स्मे इति॑ । इन्द्र॑वायू॒ इति॑ । सद॑तम् । ब॒र्हिः । आ । इ॒दम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāvat*
 - \[noun\], nominative, singular, neuter
@@ -130,20 +130,20 @@ genre M
 हे **इन्द्रवायू** युवयोः **तन्वः** शरीरस्य **तरः** वेगः **यावत्** अस्ति **यावत्** च **ओजः** बलं **यावत्** च **नरः** कर्मणां नेतार ऋत्विजः **चक्षसा** ज्ञानेन **दीध्यानाः** दीप्यमाना भवन्ति तस्य सर्वस्यानुरूपं **शुचिपा** शुचेः सोमस्य पाताराविन्द्रवायू **शुचिं** शुद्धं **सोमम्** **अस्मे** अस्मदीयं **पातं** पिबतम् । **इदं** वेद्यां स्तीर्ण **बर्हिः** च **आ** **सदतं** पानार्थमासीदतम् । बर्हिष्युपविशतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As much as is your rapidity of body, as much as is your vigour, as much as the leaders (of rites) areilluminated by wisdom, (to such extent), drinkers of the pure (**Soma**) **Indra** and **Varuṇa**., drink this our pure Soma,and sit down upon this sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As long as there is endurance of the body, as long as there is strength, as  long as men keep reflecting with their sight,  
 (so long) drink the clear soma among us, you drinkers of the clear. Indra  and Vāyu, sit down here on this ritual grass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take ab as a series of subordinate clauses truncated without a main cl. By contrast, as I indicated in the published introduction, I think that the yā́vat ‘as long as’ clauses in ab project the future temporal limit to the institution of sacrifice, with cd inviting the gods to participate as long as it will last.
 
@@ -154,23 +154,23 @@ preceding hymn VII.90.4b, though the contexts are different.
 The 2nd du. act. aor. impv. pātam in c echoes the 2nd du. act. pres. pātháḥ in 2b, but these two root forms belong of course to two different roots √pā, ‘drink’ and ‘protect’ respectively. Both of them are anchored to their roots by root-noun cmpds closely preceding them, go-pā́‘cow-protectors’ (2a) and śuci-pā ‘drinkers of the clear (soma)’ (4a), both dual and both subject of the following verb. In fact śuci-pā looks both left and right, with elementary etymological figures on both sides: śúciṃ (sómaṃ) śucipā pātam ….
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So far as native power and strength permit you, so far as men behold whose eyes have vision,  
      O ye pure-drinkers, drink with us pure Soma: sit on this sacred grass, Indra and Vayu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So groß die Ausdauer des Körpers, so groß seine Kraft ist, so weit die Männer mit dem Auge schauen-Trinket beide bei uns vom klaren Soma, ihr Trinker des Klaren! Indra und Vayu! Setzet euch auf dieses Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soweit des Leibes Rüstigkeit und Kraft reicht, soviel die Männer schau'n mit ihren Blicken, Trinkt reinen Soma, ihr des Reinen Trinker, und setzt auf diese Streu euch, Indra-Vaju.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пока у тела (есть) сила преодоления, пока есть (мощь),  
 Пока мужи способны различать взглядом:  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा मतीना꣡म् पवते विचक्षणः꣡  
 सो꣡मो अ꣡ह्नः प्रतरीतो꣡ष꣡सो दिवः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रस्य हा꣡र्दि आविश꣡न् मनीषि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्रा॒णा । सिन्धू॑नाम् । क॒लशा॑न् । अ॒वी॒व॒श॒त् । इन्द्र॑स्य । हार्दि॑ । आ॒ऽवि॒शन् । म॒नी॒षिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -110,20 +110,20 @@ genre M
 अयं **सोमः** **पवते** अभिषूयते । कीदृशः सोमः । **मतीनाम्** । मतयः स्तोतारः । तेषां **वृषा** वर्षकः कामानां **विचक्षणः** विद्रष्टा **अह्नः** **उषसो** **दिवः** द्युलोकस्यादित्यस्य वा **प्रतरीता** प्रवर्धयिता। किंच **सिन्धूनां** स्यन्दमानानामुदकानां **क्राणा** कर्ता ॥ करोतेः शानचि • बहुलं छन्दसि ' इति विकरणस्य लुक् । सुः। ‘सुपां सुलुक्' इत्याकारः ॥ **कलशानवीवशत्** कामयते प्रवेष्टुम् । किं कुर्वन् । **इन्द्रस्य** **हार्दि** हृदयम् **आविशन्** प्रविशन् **मनीषिभिः** स्तुत इति शेषः । यद्वा । व्यवहितमपि मनीषिभिरित्येतत् पवत इत्यनेन संबध्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The all-obsergant **Soma**, the showerer (of the desires) of his eulogists, the increase of the day, the dawn, the sun; maker of rivers he desires to enter the pitchers, penetrating to **Indra**'s heart, (praised) by the wise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull of the thoughts, wide gazing, purifies himself—Soma, the  lengthener of day, of dawn, of heaven.  
 Through the action of the rivers he has made the tubs bellow, entering  the heart of Indra through (the action of) the inspired ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Bull of the thoughts” (vṛ́ṣā matīnā́m) is a slightly odd expression, but it fits the pattern of IX.76.4 pitā́matīnā́m, 96.5 janitā́matīnā́m, 103.4 netā́matīnā́m, though without obvious agentive content here —although Geldner interpr. ‘bull’ as ‘Befruchter’.
 
@@ -150,23 +150,23 @@ No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-seeing Soma flows, the Steer, the Lord of hymns, the Furtherer of day, of morning, and of heaven.  
      Mixt with the streams he caused the beakers to resound, and with the singers' aid they entered Indra's heart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle der Gedanken läutert sich, der Weitschauende, der Soma, der Ausdehner des Tages, der Morgenröte, des Himmels. Unter Mitwirkung der Ströme machte er die Krüge erdröhnen, in Indra´s Herz einziehend, von den Verständigen geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitschauend rieselt Soma, der Gebete Herr, des Tags, des Morgens und des Himmels Förderer; Er liess der Krüge Ströme rauschen eifrig jetzt, in Indra's Bauch eindringend durch der Priester Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

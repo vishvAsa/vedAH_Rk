@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छायं꣡ वो मरुतः श्लो꣡क एतु  
 अ꣡छा वि꣡ष्णुं निषिक्तपा꣡म् अ꣡वोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 उ॒त । प्र॒ऽजायै॑ । गृ॒ण॒ते । वयः॑ । धुः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchāyaṃ* ← *acchā*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M;; repeated line
 हे **मरुतः** **वः** युष्मान् **अयं** **श्लोकः** अस्मदीयमिदं स्तोत्रम् **अच्छ** **एतु** अभिगच्छतु । **निषिक्तपां** निषिक्तस्य गर्भस्य रक्षितारम् । यद्वा । चमसे निषिक्तानां सोमानां पातारम् । **अवोभिः** अस्मद्विषयरक्षणैर्युक्तं **विष्णुं** चास्मदीयं स्तोत्रम् **अच्छ** एतु । **उत** अपि च मरुतो विष्णुश्च **गृणते** स्तुवते मह्यं **प्रजायै** पुत्ररूपां प्रजां **वयः** अन्नं च **धुः** अधुः दधतु । हे मरुतो हे विष्णो **यूयं** **स्वस्तिभिः** अविनाशैः **नः** अस्मान् **सदा** सर्वदा **पात** रक्षत ॥ ॥ १॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this praise come, **Maruts**, before you; (may it come) before **Viṣṇu**, the guardian of the embryo,with his protecting faculties; may they both bestow upon (me), their adorer, progeny and food; and do you evercherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this signal-call of ours go to you, o Maruts, to Viṣṇu, who protects  the poured out (semen) with his help.  
 And let them establish vitality for the singer to produce progeny. – Do  you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this our song of praise reach you, O Maruts, and Visnu guardian of the future infant.  
      May they vouchsafe the singer strength for offspring. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu euch, ihr Marut, soll dieser Sang gelangen, zu Vishnu, der gnädig den Samen schützt. Und sie mögen dem Sänger zur Nachkommenschaft Kraft geben.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu euch, o Maruts, dringe dieses Loblied, zu Vischnu auch, der Leibesfrucht beschützet; Dem Sänger mögen Kraft sie leihn zur Zeugung, ihr Götter schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К вам, о Маруты, пусть направится этот звук,  
 К Вишну, охраняющему излитое (семя своими) поддержками!  

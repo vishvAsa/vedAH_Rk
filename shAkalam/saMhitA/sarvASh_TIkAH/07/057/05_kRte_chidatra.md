@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृते꣡ चिद् अ꣡त्र मरु꣡तो रणन्त  
 अनवद्या꣡सः शु꣡चयः पवाकाः꣡+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ वा꣡जेभिस् तिरत पुष्य꣡से नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । नः॒ । अ॒व॒त॒ । सु॒म॒तिऽभिः॑ । य॒ज॒त्राः॒ । प्र । वाजे॑भिः । ति॒र॒त॒ । पु॒ष्यसे॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
@@ -122,44 +122,44 @@ genre M
 **अत्र** अस्मिन् **कृते** **चित्** अस्मदीये यज्ञकर्मण्येव **मरुतो** **रणन्त** रमन्ताम् । कीदृशा मरुतः । **अनवद्यासः** अनिन्दिताः **शुचयः** दीप्तियुक्ताः **पावकाः** शोधका एवंभूता इति । किंच हे मरुतः **यजत्राः** यजनीया यूयं **नः** अस्मान् **सुमतिभिः** अनुग्रहबुद्धिभिः सुष्टुतिभिर्हेतुभिर्वा **प्र** **अवत** प्रकर्षेण पालयत । तथा **नः** अस्मान् **वाजेभिः** वाजैरन्नैः **पुष्यसे** पोषार्थं **प्र** **तिरत** प्रवर्धयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the **Maruts**, who are irreproachable, pure, and purifying, delight in this our ceremony; protect us,adorable Maruts, with favourable thoughts; be ever anxious to sustain us with food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts have taken pleasure in what has been done here  
 [=sacrifice]—those faultless, gleaming, pure ones.  
 Promote us with your favors, o you who deserve the sacrifice. Further us  with prizes for our thriving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou tr. raṇanta as a modal (“sollen sich … erfreuen”; “Que les Maruts se réjouissent …”), as does Hoffmann (259), who explicitly identifies it as a subjunctive, not an injunctive, flg. Renou (BSL 33.1: 6-7), who claims that -anta is a regular RVic subjunctive ending. I think a modal value, whether the form is identified as injunctive or subjunctive, is unnecessary and in fact fits the context less well than a preterital reading. Previous vss. refer to the performance of the sacrifice at which the Maruts are present (esp. 1ab and 2). They are now asked to provide benefits in return, and so we might assume that the sacrifice is now over (though 6ab gives me pause), an assumption supported by kṛté with its past reference: ‘what has been/was done’.
 
 In the published translation cid is not tr. I think it is a simple emphatic here “in just what has been done here,” which is somewhat stilted in Eng., or else (perhaps more likely) it actually emphasizes the following word átra: “in what has been done here” -- at our sacrifice, not at someone else’s. So Sāyaṇa. It could, of course, mean “also” or “even,” but neither of those makes sense in context -- nor does Geldner’s (/Hoffmann’s) “wenigstens” or Renou’s “(un peu) même.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May even what we have done delight the Maruts, the blameless Ones, the bright, the purifying.  
      Further us, O ye Holy, with your kindness: advance us mightily that we may prosper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut sollen sich wenigstens an diesem Geleisteten erfreuen, die Tadellosen, Reinen, Lauteren. Fördert uns mit eurem Wohlwollen, ihr Opferwürdige, bringet uns durch Belohnungen vorwärts um an Wohlstand zuzunehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An diesem Werk auch mögen sie sich freuen, die hellen, reinen, tadellosen Maruts; Mit eurer Huld erquicket uns, o hehre, durch Labung fördert uns zur vollen Blüte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть радуются Маруты хотя бы (тому, что) сделано сейчас,  
 (Они,) безупречные, чистые, очищающие!  

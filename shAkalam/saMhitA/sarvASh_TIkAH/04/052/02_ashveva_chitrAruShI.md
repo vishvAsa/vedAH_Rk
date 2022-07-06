@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वेव चित्रा꣡ अ꣡रुषी  
 माता꣡ ग꣡वाम् ऋता꣡वरी  
 स꣡खाभूद् अश्वि꣡नोर् उषाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सखा॑ । अ॒भू॒त् । अ॒श्विनोः॑ । उ॒षाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśveva* ← *aśvā*
 - \[noun\], nominative, singular, feminine
@@ -90,7 +90,7 @@ genre M
 **अश्वेव** **चित्रा** चायनीया **अरुषी** रोचमाना **गवां** रश्मीनां **माता** निर्मात्री **ऋतावरी** यज्ञवती **उषाः** **अश्विनोः** **सखा** समानख्याना सह स्तूयमाना **अभूत्** भवति । अश्विनोः उषसा सह स्तूयमानत्वात् सखित्वं परस्परम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,35 +101,35 @@ genre M
 Mother of the rays of light: **mātā** gavām = raśmiṇām mātā; she is the friend of the aśvins: the aśvins are to be worshipped together with the Dawn; since gavām = rays of light, the phrase **gavām ayana** relates to the winter solstice when the **mahāvrata** is initiateḍ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dappled bright and ruddy like a mare, the mother of cows, follower of truth, Dawn has become the companion of the Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With urú we can supply rájaḥ from 3a, where rájāṃsi occurs as the obj. of the same verb ā́√prā, or antárikṣam, the most common noun found with this neut.
 
 adj. and found in this phrase at the end of the immediately preceding hymn, IV.52.7b antárikṣam urú.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unfailing, Mother of the Kine, in colour like a bright red mare,  
      The Dawn became the Asvins' Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Buntfarbig, rötlich wie eine Stute, die zeitige Mutter der Kühe, ist Usas die Freundin der Asvin geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ritter Freundin glänzendroth ward Uschas, einer Stute gleich, Der Kühe heil'ge Mutter sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сверкающая, рыжая, словно кобылица,  
 Мать коров, соблюдающая закон,  

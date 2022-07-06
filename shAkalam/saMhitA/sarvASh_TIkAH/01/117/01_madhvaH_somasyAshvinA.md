@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्वः सो꣡मस्य अश्विना म꣡दाय  
 प्रत्नो꣡ हो꣡ता · आ꣡ विवासते वाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इषा꣡ यातं नासतियो꣡प वा꣡जैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब॒र्हिष्म॑ती । रा॒तिः । विऽश्रि॑ता । गीः । इ॒षा । या॒त॒म् । ना॒स॒त्या॒ । उप॑ । वाजैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, masculine
@@ -111,36 +111,36 @@ genre M
 हे अश्विनौ **मध्वः** मधुना माधुर्योपेतेन **सोमस्य** सोमेन **मदाय** युवयोर्मदार्थं **प्रत्नः** चिरंतनः **होता** होमनिष्पादको यजमानः **वां** युवाम् **आ** **विवासते** । विवासतिः परिचरणकर्मा । आङ् मर्यादायाम् । यथाशास्त्रं परिचरति । अपि च **रातिः** दातव्यं हविः **बर्हिष्मती** आस्तीर्णेन बर्हिषा युक्तम् । युष्मदर्थं बर्हिषि आसादितमित्यर्थः । तथा **गीः** स्तुतिलक्षणा वाक् च **विश्रिता** ऋत्विक्षु समवेता । तैः स्तुतिरपि क्रियते इत्यर्थः । अतो हे नासत्यावश्विनौ **इषा** अस्मभ्यं दातव्येनान्नेन **वाजैः** बलैश्च सह युवाम् **उप** **यातम्** अस्मत्समीपं प्राप्नुतम् ॥ मध्वः । ‘सुपा सुपो भवन्ति । इति तृतीयार्थे षष्ठी ।' जसादिषु च्छन्दसि वावचनम् ' इति • घेर्ङिति' इति गुणाभावे यणादेशः । मदाय । ‘मदी हर्षे ' । “ मदोऽनुपसर्गे ' इति अप् । रातिः । ‘रा दाने ' । कर्मणि क्तिन् । ‘मन्त्रे वृषेष ' इत्यादिना तस्योदात्तत्वम् । विश्रिता । ‘श्रिञ् सेवायाम् ' । कर्मणि निष्ठा ।' गतिरनन्तरः इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins** for your gratification by the plural asant **Soma**, your ancient worshipper adores you; the offering is poured upon the sacred gras, thehymn is ready (for repetition); come, **Nāsatyas**, with food and with vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The age-old Hotar [=Agni] seeks to win you in order for you to be  exhilarated on the honeyed soma, o Aśvins.  
 The gift accompanied by the ritual grass is laid out, (as is) my song. With  refreshment, with prizes of victory, journey here, o Nāsatyas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ASVINS, your ancient priest invites you hither to gladden you with draughts of meath of Soma.  
      Our gift is on the grass, our song apportioned: with food and strength come hither, O Nasatyas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Rausche des süßen Soma bittet euch, Asvin, der alte Hotri her. Für die Darbringung ist das Barhis hergerichtet, die Rede ist verteilt. Kommet herbei mit Labsal, mit Belohnungen, ihr Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Trunk des süssen Soma's euch zum Rausche, o Ritter, lockt euch her der alte Priester, Die Gab' ist aufgestellt, das Lied erklungen, o Treue, kommet her mit Trank und Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для опьянения сладким сомой, о Ашвины,  
 Хочет привлечь вас древний хотар.  

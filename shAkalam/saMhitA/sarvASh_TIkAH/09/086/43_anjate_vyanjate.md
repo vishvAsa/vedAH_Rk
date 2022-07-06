@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अञ्ज꣡ते · वि꣡ अञ्जते स꣡म् अञ्जते  
 क्र꣡तुं रिहन्ति म꣡धुनाभि꣡ अञ्जते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हिरण्यपावाः꣡ पशु꣡म् आसु गृभ्णते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सिन्धोः॑ । उ॒त्ऽश्वा॒से । प॒तय॑न्तम् । उ॒क्षण॑म् । हि॒र॒ण्य॒ऽपा॒वाः । प॒शुम् । आ॒सु॒ । गृ॒भ्ण॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *añjate* ← *añj*
 - \[verb\], plural, Present indikative
@@ -122,7 +122,7 @@ genre M
 सोममृत्विजः **अञ्जते** गोभिः । तथा **व्यञ्जते** विविधमञ्जन्ति । **समञ्जते** सम्यगञ्जन्ति । स्तुत्यर्थत्वादपुनरुक्तिः । तथा **क्रतुं** बलकर्तारं **रिहन्ति** लिहन्ति । आस्वादयन्ति देवाः । तथा पुनः **मधुना** गव्येन **अभ्यञ्जते** । तमेव सोमं **सिन्धोः** उदकस्य रसस्याधारभूते **उच्छ्वासे** उच्छ्रिते देशे **पतयन्तं** गच्छन्तम् ॥ ‘पत्लृ गतौ ' इत्यस्मात्स्वार्थे णिचि वृद्ध्यभावश्छान्दसः ॥ **उक्षणं** सेक्तारं **हिरण्यपावाः** हिरण्येन पुनन्तः **पशुं** द्रष्टारम् । ‘पशुः पश्यतेः ' (निरु. ३.१६) इति निरुक्तम् । **आसु** वसतीवरीषु **गृभ्णते** गृह्णन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ genre M
 Smear and grease and anoint: añjate, vyañjate and samañjate are synonyms; into the seething torrent: sindhor ucchvāse = liṭ, in the hreathing of the river; i.e., going to an elevated plural ce, the receptacle of the juice, rasasyādhārabhūte ucchrite deśe gacchantam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They anoint him—anoint him separately and jointly. They lick (him  who is) resolve; they anoint him with honey—  
 him, the ox flying in the burbling up of the river. (The waters,) who  
 purify the gold (of soma), grasp the stock-animal within themselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is striking with its series of identical verbs in pāda a, with pāda b ending with the same verb: añjáte vy àñjate sám añjate, … abhy àñjate.
 
@@ -163,23 +163,23 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They balm him, balm him over balm him thoroughly, caress the mighty strength and balm it with the meath.  
      They seize the flying Steer at the stream's breathing-place: cleansing with gold they grasp the Animal herein.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie salben sich, sie salben sich bunt, sie salben sich gleich, sie lecken seine Weisheit, sie besalben sich mit seiner Süßigkeit. Den im Aufbrausen des Stromes dahin schießenden Stier, das Tier halten die das Gold Läuternden in diesem Wasser fest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie salben ihn, durchsalben und umsalben ihn, den starken streicheln, salben sie mit süssem Trank; Den Stier, der in den Strudel sich des Stromes stürzt, das Thier ergreifen goldumglänzte in der Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

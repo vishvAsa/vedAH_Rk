@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ प्लतेः꣡ सूनु꣡र् अवीवृधद् वो  
 वि꣡श्व आदित्या अदिते मनीषी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्तावि ज꣡नो दिवियो꣡ ग꣡येन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ई॒शा॒नासः॑ । नरः॑ । अम॑र्त्येन । अस्ता॑वि । जनः॑ । दि॒व्यः । गये॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -111,36 +111,36 @@ genre M
 हे **विश्वे** **आदित्याः** सर्वे देवाः हे **अदिते** देवानां मातरेतन्नामिके देवि **वः** युष्मान् **मनीषी** प्राज्ञः स्तोता **प्लतेः** एतन्नामकस्यर्षेः **सूनुः** पुत्री गयो नामं **एव** एवमुक्तरीत्या **अवीवृधत्** स्तुतिभिरवर्धयत् । वर्धतेर्ण्यन्तस्य लुङि रूपम् । **अमर्त्येन** मनुष्यधर्मरहितेन स्तुतेन येन देवजनेन **नरः** मनुष्याः **ईशानासः** धनस्येश्वराः स्वामिनो भवन्ति सः **दिव्यः** दिवि भवः **जनः** देवगणः **गयेन** एतन्नामकेन मया **अस्तावि** अभिष्टुतोऽभूत् । स्तौतेः कर्मणि लुङि चङि रूपम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Universal deities and **Aditi**, thus has the prudent son of plural ti magnified you; the celestial people, theimmortal (company of the gods) through whom (when praised) men become the lords (of wealth) have beengloried by **Gaya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way has the son of Plati of inspired thought strengthened  you, all you Ādityas and Aditi.  
 The over-mastering superior men, the divine race, has been praised by  Amartya Gaya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus hatb the thoughtful sage, the son of Plati, praised you, O Aditi and all Adityas,  
      Men are made rich by those who are Immortal: the Heavenly Folk have been extolled by Gaya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also hat euch Plati´s Sohn erbaut, ihr Aditya´s alle, o Aditi, der Sinnreiche. Die mächtigen Herren und das himmlische Volk wurden von Amartya Gaya gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat verherrlicht euch der Sohn des Plati, o weise Aditi, Aditja's alle; Durch ew'ge Götter werden stark die Menschen; durch Gaja ist gerühmt das Volk des Himmels.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ जयु꣡षा रथिया यातम् अ꣡द्रिं  
 श्रुतं꣡ ह꣡वं वृषणा वध्रिमत्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡ति च्यवाना सुमति꣡म् भुरण्यू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 द॒श॒स्यन्ता॑ । श॒यवे॑ । पि॒प्य॒थुः॒ । गाम् । इति॑ । च्य॒वा॒ना॒ । सु॒ऽम॒तिम् । भु॒र॒ण्यू॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -104,43 +104,43 @@ genre M
 **रथ्या** हे रथारूढावश्विनौ **जयुषा** जयशीलेन रथेन **अद्रिं** मार्गे स्थितं पर्वतं वि **यातं** व्यबाधेथाम् । यातिरत्र वधकर्मा । तथा च निगमान्तरं -- विभिन्दुना नासत्या रथेन वि पर्वताँ अजरयू अयातम्' (ऋ. सं. १. ११६. २०) इति । **वृषणा** कामानां वर्षितारौ **वध्रिमत्याः** पुत्रार्थिन्याः **हवम्** आह्वानं **श्रुतं** शृणुतम् । **दशस्यन्ता** स्तोतृभ्यः कामान् प्रयच्छन्तौ **शयवे** युवां स्तुवते **गां** निवृत्तप्रसवां **पिप्यथुः** क्षीरेणाप्याययतम् । तथा च निगमान्तरं - 'शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम्' (ऋ. सं. १.११६.२२) इति । **इति** इत्थं **सुमतिं** सुष्टुतिं **च्यवाना** गच्छन्तौ **भुरण्यू** सर्वत्र गन्तारौ यज्ञस्य भर्तारौ वा भवतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Riders in your car, you have penetrated the mountain by your triumphant chariot; showerers (of benefits) you heard the invocation of **Vadhrimatī**; you have nourished, bountiful givers, the cow of **Śayu**-- and in this manner displaying benevolence are you everywhere present.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your victorious (chariot), you charioteers drove through the rock;  you harkened to the call of Vadhrīmatī, o bulls.  
 Showing favor to Śayu, you made his cow swell. Thus (did you show)  your benevolence, you stirring and bustling ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d I take íti as a summarizing device, indicating that the three exploits sketched in abc are examples of the Aśvins’ sumatí-. With Geldner I see no choice but to supply a verb like ‘you showed’ to govern the acc. sumatím.
 
 As is clear to all, cyávānā is at the least a play on the name Cyavāna (same accent), another client of the Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victors, car-borne, ye rent the rock asunder: Bulls, heard the calling of the eunuch's consort.  
      Bounteous, ye filled the cow with milk for Sayu: thus, swift and zealous Ones, ye showed your favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem siegreichen Wagen fuhret ihr Wagenlenker durch den Fels; ihr Bullen erhörtet den Ruf der Vadhrimati. Dem Sayu wart ihr gefällig und habt seine Kuh milchreich gemacht. Also erwieset ihr euer Wohlwollen, ihr Cyavana´s, ihr Eilige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Siegreich durchdringt den Fels ihr, Wagenlenker, vernahmt der Vadhrimati Ruf, ihr Helden, Zu Lieb' dem Çaju liesst die Kuh ihr schwellen, so eure Gunst erweisend, o ihr regen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На победной (колеснице), о двое колесничих, вы проехали сквозь скалу.  
 Вы услышали зов Вадхримати, о два быка.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवो꣡तासस् तुवा꣡ युजा꣡  
 अप्सु꣡ सू꣡र्ये मह꣡द् ध꣡नम्  
 ज꣡येम पृत्सु꣡ वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 जये॑म । पृ॒त्ऽसु । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvotāsas* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
@@ -82,7 +82,7 @@ genre M
 हे इन्द्र **त्वोतासः** त्वया रक्षिताः **त्वा** त्वया **युजा** सहायेन **अप्सु** स्नातुं सूर्यं द्रष्टुं च । स्नानादिव्यवहारं कर्तुं **सूर्ये** उदिते सति गमनादिव्यवहारं कर्तुमित्यर्थः। तदर्थ **पृत्सु** संग्रामेषु हे **वज्रिवः** वज्रवन्निन्द्र **महद्धनं** **जयेम** । शत्रून् संग्रामे जित्वा तेषां धनं लभेमेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,28 +93,28 @@ genre M
 Apsu sūrye: that we may perform our accusative tomed bathings in the water,and, when he sun is risen, may set about our accusative tomed tasks
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aided by you, with you as our yokemate, might we win in our battles a great stake in the waters and the sun, o mace-bearer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aided by thee, with thee allied, in frays for water and for sun,  
      Bolt-armed! may we win ample spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dir begünstigt, mit dir im Bunde wollen wir im Kampfe um Wasser, um die Sonne den großen Preis in den Schlachten ersiegen, du Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir beschützt, mit dir vereint, wird grosser Preis in Kämpfen uns Um Licht und Wasser, Blitzender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

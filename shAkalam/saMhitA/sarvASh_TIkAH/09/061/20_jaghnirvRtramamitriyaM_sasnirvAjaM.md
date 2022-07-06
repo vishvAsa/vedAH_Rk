@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡घ्निर् वृत्र꣡म् अमित्रि꣡यं  
 स꣡स्निर् वा꣡जं दिवे꣡-दिवे  
 गोषा꣡ उ अश्वसा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गो॒ऽसाः । ऊं॒ इति॑ । अ॒श्व॒ऽसाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jaghnir* ← *jaghniḥ* ← *jaghni*
 - \[noun\], nominative, singular, masculine
@@ -93,20 +93,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वम् **अमित्रियम्** अमित्रभवं **वृत्रं** शत्रुं **जघ्निः** हन्ता **असि** भवसि । किंच **दिवेदिवे** प्रतिदिनं **वाजं** संग्रामं **सस्निः** संभक्तासि । किंच **गोषाः** गवां दातासि । **अश्वसाः** अश्वानां दाता चासि ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the slayer of the hostile **Vṛtra**, the enjoyed of battle day by day, the giver of kine and the giver of horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smashing Vr̥tra the hostile, winning the prize every day,  
 you are a winner of cows and of horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Killing the foeman and his hate, and winning booty every day,  
      Gainer art thou of steeds and kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den feindlichen Vritra erschlagend, Tag für Tag den Siegerpreis gewinnend, Rinder und Rosse gewinnend bist du.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschlagend den verhassten Feind und Labung spendend Tag für Tag Verleihst du Rosse uns und Rind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убивающий враждебного Вритру,  
 Захватывающий награду день за днем,  

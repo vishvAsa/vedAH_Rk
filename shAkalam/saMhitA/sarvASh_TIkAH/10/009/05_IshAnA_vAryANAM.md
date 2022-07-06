@@ -6,14 +6,14 @@ ChandaH = "वर्धमाना"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡शाना वा꣡रियाणां᳐  
 क्ष꣡यन्तीश् चर्षणीना᳐꣡म्  
 अपो꣡ याचामि भेषज꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अ॒पः । या॒चा॒मि॒ । भे॒ष॒जम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśānā* ← *īśānāḥ* ← *īś*
 - \[verb noun\], accusative, plural
@@ -67,7 +67,7 @@ genre M
 **वार्याणां** वारिप्रभवानां व्रीहियवादीनां यद्वा वरणीयानां धनानाम् **ईशानाः** ईश्वराः **चर्षणीनां** मनुष्याणां **क्षयन्तीः** निवासयित्रीः **अपः** उदकानि **भेषजम्** । सुखनामैतत् । पापापनोदनं सुखं **याचामि** अहं प्रार्थये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -80,29 +80,29 @@ Precious: vāryāṇām = vāriprabhavānām vrīhiyavādinām, the products of 
 Bheṣajam = happiness driving away sin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who are mistresses of things of value, ruling over the settled  domains,  
 the Waters do I beseech for a healing remedy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 beg the Floods to give us balm, these Queens who rule o'er precious things,  
      And have supreme control of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die über die wünschenswerten Dinge verfügen, die über die Menschenvölker schalten, die Gewässer bitte ich um ihr Heilmittel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die herrschen über schönes Gut, gebieten über alles Volk, Sie fleh' um Arzenei ich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распоряжающиеся желанными благами,  
 Повелевающие народами  

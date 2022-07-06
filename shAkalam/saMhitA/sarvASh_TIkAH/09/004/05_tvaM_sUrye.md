@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वं꣡ सू꣡रिये न आ꣡ भज  
 त꣡व क्र꣡त्वा त꣡वोति꣡भिः  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -101,20 +101,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **त्वं** **तव** **क्रत्वा** **तव** **ऊतिभिः** स्वकर्तृकेण कर्मणा त्वत्कर्तृकाभी रक्षाभिश्च **नः** अस्मान् **सूर्ये** **आ** **भज** प्रापय । सिद्धमन्यत् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, (O **Soma**), by your power and your protections bring us to the sun, and make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give us a share in the sun through your resolve and your help.  
 – Then make us better off.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/004/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -124,23 +124,23 @@ These two vss. share not only the refrain pāda (c) found throughout the hymn, b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us our portion in the Sun through thine own mental power and aids;  
      And make us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib du uns an der Sonne Anteil durch deine Umsicht, deine Hilfen, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenke du uns Sonnenlicht, durch deine Kraft und deine Gunst Und mach' uns reicher nun an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надели ты нас долей в солнце  
 С помощью твоей силы духа, твоих поддержек  

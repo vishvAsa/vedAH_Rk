@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धा꣡योभिर् वा यो꣡ यु꣡जियेभिर् अर्कइ꣡र्  
 विद्यु꣡न् न꣡ दविद्योत् सुवे꣡भिः शु꣡ष्मैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋभु꣡र् न꣡ त्वेषो꣡ रभसानो꣡ अद्यौत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 शर्धः॑ । वा॒ । यः । म॒रुता॑म् । त॒तक्ष॑ । ऋ॒भुः । न । त्वे॒षः । र॒भ॒सा॒नः । अ॒द्यौ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhāyobhir* ← *dhāyobhiḥ* ← *dhāyas*
 - \[noun\], instrumental, plural, neuter
@@ -122,7 +122,7 @@ genre M
 **यः** अग्निः **धायोभिर्वा** धारकैरश्वैरिव **युज्येभिः** युज्यैः स्वयमेव युज्यमानैः **अर्कैः** अर्चनीयैः दीप्तिभिर्गच्छति सोऽग्निः **विद्युन्न** विद्युदिव **स्वेभिः** स्वकीयैः **शुष्मैः** शोषकैस्तेजोभिः **दविद्योत्** विद्योतते । **यः** च **मरुताम्** एतत्संज्ञकानां देवानां **शर्धो** **वा** बलमिव **ततक्ष** तनूकरोति सर्वं तीक्ष्णीकरोति । शोषयतीति यावत् । सोऽयम् **ऋभुर्न** उरु भासमानः सूर्य इव **त्वेषः** दीप्तः **रभसानः** वेगं कुर्वन् **अद्यौत्** विद्योतते प्रकाशते ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Ṛbhur-na = uru bhāsamāna **sūrya** iva, i.e. as the wide-shining suṇ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or who (flashes) at his feedings (of fuel) and at the associated chants  [/with his associated rays], (that one) keeps flashing like lightning with  his own tempests.  
 Or who fashioned the troop of Maruts like a R̥bhu [/craftsman], he,  turbulent and wild, has flashed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is structured as two vā alternatives; the reason for this is unclear. See Klein II.203-4.
 
@@ -150,23 +150,23 @@ The arká- of pāda a are most likely both chants and rays.
 Pāda b is once again metrically irregular: it has a caesura after 3 and its cadence consists of 4 heavy syllables (s u )vebhiḥ śúśmaiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, with supporting streams and rays that suit him, hath flashed like lightning with his native vigour.  
      Like the deft Maker of the band of Maruts, the bright impetuous One hath shone refulgent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der durch Labungen oder durch die ihm gehörigen Preisgesänge gestärkt wird, er leuchtet wie der Blitz aus eigenem Drange auf. Oder der die Heerschar der Marut wie ein Ribhu gebildet hat, der ist heftig, blendend aufgeleuchtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er mit seinen eignen Flammen züngelt, so strahlt er blitzgleich hell mit seinen Lichtern; Wenn kunstvoll er die Marutschar geformt hat, dem Künstler gleich, so strahlt er funkelnd, glanzreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) кто (усиливается) жертвенными кушаньями или связанными (с ним) песнями,  
 Словно молния, сверкает своими вспышками.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृ꣡ङ्गाणीवे꣡च् छृङ्गि꣡णां सं꣡ ददृश्रे  
 चषा꣡लवन्तः स्व꣡रवः पृथिव्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्माँ꣡ अवन्तु पृतना꣡जियेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वा॒घत्ऽभिः॑ । वा॒ । वि॒ऽह॒वे । श्रोष॑माणाः । अ॒स्मान् । अ॒व॒न्तु॒ । पृ॒त॒नाज्ये॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṅgāṇīvecchṛṅgiṇāṃ* ← *śṛṅgāṇi* ← *śṛṅga*
 - \[noun\], nominative, plural, neuter
@@ -104,20 +104,20 @@ popular
 स्वरवः स्वरमन्तश्चाषालवन्तः प्रतिमुक्तकण्टकाः । एवं विधा य़ूपाः पृथिव्यां शृङ्गिणां महषादीनां शृङ्णाणीवेत् विषाणानिव सन्ददृश्रे । सम्यक् दृश्यन्त एव । वा अपि च विहवे । विविधं हूयन्ते हवींष्यत्रेति विहवो यज्ञः । तस्म्न्न्यज्ञे वाघद्भिरृत्विभिः । वाघतो वृक्तबर्हिष इत्यृत्विङ्नामसु पाठात् । श्रोषमाणास्तैः क्रियमाणं स्तुतिलक्षणं शब्दं शृण्वन्तः । तादृशा यूपाः पृतनाज्येषु । पृतनाज्यशब्दः सङ्रामवाची । अदौ पृतनाज्यमिति सङ्रामनामसु पठितत्वात् । पृतनाज्येषु सङ्रामेषु । वधस्थलेष्विति यावत् । अस्मान्यजमानानवन्तु । रक्षन्तु । शृङ्गाणि । शॄ हिंसायामित्यस्माच्छृणातेर्ह्रस्वश्च । उ. १-१२५ । इति गन् नुडागमो धातोर्ह्रस्वश्च । नित्स्वरः । ददृश्रे । छन्दसि लुङ्ल लुङ्लिट इति लङर्थे लिट् । इरयो र इतीरेचो रे त्यादेशः । निघातः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Entire in all parts and girded with rings, they appear upon the earth like the horns of horned cattle; hearing (their praises) by the priests; may they protect us in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just like the horns of horned beasts they appear—the posts, with their  knobs, (standing) on the earth.  
 Or listening attentively at the competing invocation by the cantors, let  (the gods) help us at the battle drives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contrary to the standard tr., I think there is a change of subject in the 2nd half-verse. Rather than calling on the posts to help us, we turn again to the gods, who are the likely subject of avantu, just as they were in 8c. The types of help we ask them for are distinct but complementary: help for our sacrifice in 8c, help in battle and competition in 10d, a theme introduced by the vihavá- ‘competing invocation’ in 10c. The vā of 10c signals this disjunction and the return of the gods as subject.
 
@@ -126,28 +126,28 @@ Although Klein (DGRV II.203) suggests reading vā here as if for vaí, given tha
 [III.9-29 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those Stakes upon the earth with rings that deck them seem to the eye like horns of horned creatures;  
      Or, as upraised by priests in invocation, let them assist us in the rush to battle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like horns of horned animals the sacrificial posts with their head-pieces 1 are seen on the earth. Hearing (us) in the emulating call of the invoking (priests) may they protect us in the racings of battles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Hörner der gehörnten Tiere sehen die Pfosten aus, wenn sie mit dem Knauf versehen auf der Erde stehen. Im Wettkampf mit anderen Priestern uns vielleicht erhörend, sollen sie uns in den Kämpfen ihre Gunst schenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie sehen aus wie Hörner der Gehörnten, die knaufgezierten Säulen auf der Erde, Den Betern lauschend bei dem Götteranruf, sie sein uns hülfreich, wenn zum Kampf wir eilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они выглядят, как рога рогатых (животных),  
 Столбы с навершиями, (стоящие) на земле.  

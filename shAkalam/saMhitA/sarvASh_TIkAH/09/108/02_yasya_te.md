@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते पीत्वा꣡ वृषभो꣡ वृषाय꣡ते  
 अस्य꣡ पीता꣡ सुवर्वि꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡छा वा꣡जं न꣡ ए꣡तशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । सु॒ऽप्रके॑तः । अ॒भि । अ॒क्र॒मी॒त् । इषः॑ । अच्छ॑ । वाज॑म् । न । एत॑शः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -118,20 +118,20 @@ genre M
 **वृषभः** कामानां वर्षक इन्द्रः **यस्य** यं **ते** त्वां **पीत्वा** **वृषायते** वृषभ इवाचरति । किंच **स्वर्दृशः** सर्वस्य दर्शकस्य **अस्य** ते तव **पीता** पाने सति **सुप्रकेतः** सुप्रज्ञः **सः** इन्द्रः **इषः** शत्रूणामन्नानि **अभ्यक्रमीत्** अभिक्रामति । तत्र दृष्टान्तः। **वाजं** **नैतशः** । एतश इत्यश्वनाम । यथाश्वो वाजं संग्राममभिगच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By drinking whom the showerer **Indra** is invigorated, by drinking you who are the beholder of everything, the intelligent (Indra) reaches the viands (of the enemy) as a horse (reaches) the battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, having drunk of you, the bull acts as a bull, at the drinking of this  sun-finding (soma).  
 Bearing good marks he [=Soma] strode toward the refreshments, like  Etaśa toward the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents us with a syntactic trap of sorts. It appears to consist of a standard REL / COREL construction, with 2a beginning yásya te and 2c beg. sá. And indeed the rel. and the sá are coreferential; however, the grammatical person has changed from 2nd to 3rd. I therefore prefer (contra Geldner/Renou) to attach 2ab to the previous vs., in which Soma is also 2nd ps. Pāda b acts as a transition from Soma as 2nd ps. to Soma as 3rd ps., with asyá referring to him, but the parallelism between the two “drinking” expressions keeps it within the syntactic domain of the rel. clause.
 
@@ -151,23 +151,23 @@ There is syntactic dependence between the two vss., at least by my reading: 2ab 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, of whom having drunk the Steer acts like a steer. drinking of this that finds the light,  
      He, Excellently Wise, is come to strengthening food, to spoil and wealth like Etasa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, nach dessen Trunke der Bulle sich als Bulle fühlt, bei dem Trunke dieses Sonnen-finders, dieser Soma ist unter guten Vorzeichen auf die Speisegenüsse losgegangen wie Etasa auf den Kampfpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach dessen Trunk der Stier sich als ein Stier erweist, zu dieses Segenspenders Trunk Hat sich den Tränken nun genaht der herrliche, wie zu dem Preis das schnelle Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) испив которого, бык чувствует себя быком,  
 При питье этого находящего солнце (сока),  

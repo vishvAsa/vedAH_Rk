@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ हि꣡ अ꣡सि वीरयु꣡र्  
 एवा꣡ शू꣡र उत꣡ स्थिरः꣡  
 एवा꣡ ते रा꣡धियम् म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ए॒व । ते॒ । राध्य॑म् । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -93,20 +93,20 @@ genre M
 हे इन्द्र त्वं वीरयुः वीरान् युद्धकर्मणि समर्थान् शत्रून् हन्तुं कामयमानएवासि भवसि खलु । हि प्रसिद्धौ । अतएव त्वं शूरः सामर्थ्यवानेवभवसि । उतापिच स्थिरः सङ्ग्रामे धैर्यवान् भवसि एकत्रस्थित्वैव शत्रून् सम्प्रहरसीत्यर्थः । एवंसति ते तव मनोराध्यं स्तुतिभिराराधनीयमेव यतोनेन मनसा त्वं शत्रुवधं सङ्ग्रामे धैर्यादिकञ्च करोषीति तवमनएव सर्वैः स्तुत्यमित्यर्थः ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You verily love to smite the mighty, you are a hero and firm (in battle), yourmind is to be propitiated (bypraise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For as surely as you are one who acts the hero and as surely as you are a  steadfast champion,  
 just as surely is your thought to be realized—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Klein (318) takes utá as linking śū́raḥ and sthiráḥ “Certainly (thou art) heroic and firm,” but this assumes that śū́ra- can be adjectival, which, pace Grassmann, I don’t. Instead, despite its position, I take the utá as conjoining vīrayúḥ and śū́raḥ … sthiráḥ, a variant on the complementary pairing of vīrá- ‘hero’ and śū́ra- ‘champion’.
 
@@ -120,23 +120,23 @@ Geldner tr. rā́dhya- as “leicht zu gewinnen,” but I take it rather as “t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For so thou art the hero's Friend, a Hero, too, art thou, and strong:  
      So may thine heart be won to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sicherlich wünschest du Männer, sicherlich bist du selbst tapfer und standhaft, sicherlich ist dein Sinn leicht zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wahrlich du bist mannesstark und wahrlich du ein tapfrer Held, Dein Sinn fürwahr gewinnenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

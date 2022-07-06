@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ मा पीता꣡ यश꣡स उरुष्य꣡वो  
 र꣡थं न꣡ गा꣡वः स꣡म् अनाह प꣡र्वसु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उत꣡ मा स्रा꣡माद् यवयन्तु इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 ते । मा॒ । र॒क्ष॒न्तु॒ । वि॒ऽस्रसः॑ । च॒रित्रा॑त् । उ॒त । मा॒ । स्रामा॑त् । य॒व॒य॒न्तु॒ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -127,7 +127,7 @@ genre D
 **इमे** **पीताः** **यशसः** यशस्कराः **उरुष्यवः** अस्माकं रक्षाकामाः सोमाः **गावः** गोविकारभूता वध्र्यः **रथं** **न** रथमिव ता यथा रथं विस्रस्तं **पर्वसु** **समनाह** संदधते तद्वत् मां पीताः सोमाः पर्वसु संनह्यन्तु । किंच **ते** सोमाः **मा** मां **विस्रसः** विस्रस्तात् **चरित्रात्** चरणादनुष्ठानात् **रक्षन्तु** । सोमः पीतश्चेत् कर्म ह्यविस्रस्तं भवति । **उत** अपि च **मा** मां **स्रामात्** व्याधेः सकाशात् **इन्दवः** पीताः **यवयन्तु** पृथक्कुर्वन्तु ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,41 +138,41 @@ genre D
 Cows:**gāvaḥ** = Soma streams, as the Soma is mixed with milk, and thus considered the product of the cows; aloosely-knit worship: when the Soma is drunk, the ceremony becomes consolidated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These glorious (drops), when drunk, seek wide space. As cows [=leather  straps] do a chariot, it [=soma] knots (me) together in my joints.  
 Let the drops guard me from my foot slipping, and let them keep me  away from lameness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On anāha see Kümmel’s length and useful disc. (289). Flg. Oldenberg (accepted by Kümmel), I take it as a 3rd sg., not 2nd pl. with Geldner, Renou The nom. pl. imé … pītā́yaśása uruṣyávaḥ of pāda a is (silently) resumed by sg. “soma.” In order to demonstrate the change in number of the subject, my tr. appears to treat pāda a as a separate clause, which of course it is not. Among other things, the mā in Wackernagel’s Position in a is the obj. of sám anāha in b.
 
 Like 2a this hemistich is a paradox: the soma drops “seeking wide space” nonetheless tie the drinker together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These glorious drops that give me freedom have I drunk. Closely they knit my joints as straps secure a car.  
      Let them protect my foot from slipping on the way: yea, let the drops I drink preserve me from disease.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 These glorious, freedom-giving drops, when drunk by me, Have knit my joints together as do thongs a car. May these protect me now from fracturing a limb. And may they ever keep me from disease remote.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Getrunken werden diese geehrten Somatränke meine Nothelfer. Wie die Riemen den Wagen haltet ihr mich in den Gedanken zusammen. Diese Säfte sollen mich vor Beinbruch behüten und mich vor Lähmung bewahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Tränke hehr und hülfreich habt befestigt mich an den Gelenken, wie den Wagen Riemenwerk, Sie mögen schützen vor dem Gleiten meinen Fuss, und sie, die Indu's, vor Verrenkung wahren mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпиты эти славные (соки сомы,) уносящие вширь:  
 Как ремни – колесницу, вы связали меня в суставах.  

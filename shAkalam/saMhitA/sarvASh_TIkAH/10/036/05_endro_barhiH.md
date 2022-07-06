@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡न्द्रो बर्हिः꣡ सी꣡दतु पि꣡न्वताम् इ꣡ळा  
 बृ꣡हस्प꣡तिः सा꣡मभिर् ऋक्वो꣡ अर्चतु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽप्र॒के॒तम् । जी॒वसे॑ । मन्म॑ । धी॒म॒हि॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endro* ← *ā*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M;; repeated line
 **इन्द्रः** **बर्हिः** **आ** **सीदतु** । **इळा** माध्यमिका स्तनयित्नुलक्षणा वागपि **पिन्वतां** सिञ्चतु । **सामभिः** गीयमानः **ऋक्वः** स्तुतिमान् **बृहस्पतिः** अपि **अर्चतु** अस्मान् पूजयतु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ genre M;; repeated line
 Iḷā:the firmamental voice, i.e. thunder
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra sit here on the ritual grass; let the refreshing drink swell. Let  Br̥haspati the chanter chant along with the melodies.  
 We would compose a thought possessing good signs for our life. – This  help of the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full flow libations; on our grass let Indra sit; Brhaspati the singer laud with Sama hymns!  
      Wise be our hearts' imaginings that we may live. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll sich auf das Barhis setzen, die Opfergabe soll überquellen, Brihaspati, der Sänger, soll nach den Weisen singen. Wir möchten ein Lied von guter Vorbedeutung zu langem Leben dichten. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Trank sei reichlich, Indra setz sich auf die Streu, Brihaspati, der Sänger, stimme an das Lied, Zum Leben sei uns herrlich unser Andachtslied, die Huld der Götter wünschen, heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра усядется на жертвенную солому, пусть разбухнет Ида,  
 Брихаспати-певец пусть исполнит мелодии!  

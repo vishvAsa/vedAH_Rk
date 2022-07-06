@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् इन्द्र सुत꣡म् पिब  
 ज्ये꣡ष्ठम् अ꣡मर्तियम् म꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 धा꣡रा ऋत꣡स्य सा꣡दने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 शु॒क्रस्य॑ । त्वा॒ । अ॒भि । अ॒क्ष॒र॒न् । धाराः॑ । ऋ॒तस्य॑ । साद॑ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -100,35 +100,35 @@ genre M
 हे **इन्द्र** **सुतम्** अभिषुतम् **इमं** सोमं **पिब** । कीदृशम् । **ज्येष्ठम्** अतिशयेन प्रशस्यं **मदं** मदकरं **अमर्त्यम्** अमारकम् । सोमपानजन्यो मदो मदान्तरवन्मारको न भवतीत्यर्थः। तथा **ऋतस्य** यज्ञस्य संबन्धिनि **सदने** गृहे वर्तमानाः **शुक्रस्य** दीप्तस्यास्य सोमस्य **धाराः** त्वाम् **अभ्यक्षरन्** आभिमुख्येन संचलन्ति त्वां प्राप्नुवन्ति स्वयमेवागच्छन्तीत्यर्थः ॥ ज्येष्ठम् । प्रशस्यशब्दात् इष्ठनि  ‘ ज्य च ' ( पा. सू. ५. ३. ६१ ) इति ज्यादेशः । अक्षरन्। ‘क्षर संचलने' । छान्दसो लङ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Indra**, this excellent, immortal exhilarating libation, the dropf of which pellucid (beverage) flow towards you in the chamber of sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink this soma here, Indra, the preeminent immortal exhilaration. The streams of the clear (soma) have flowed to you in the seat of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This poured libation, Indra, drink, immortal, gladdening, excellent.  
      Streams of the bright have flowed to thee here at the seat of holy Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink, Indra, diesen ausgepreßten, den vorzüglichsten unsterblichen Rauschtrank! Die Ströme des klaren Soma flossen dir zu am Sitz der Opferordnung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, trinke diesen Saft, den besten Trank, der nie versiegt; Des klaren Soma Strom ergoss sich dir im Sitz des Heiligthums.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей, Индра, этот выжатый (сок),  
 Лучший бессмертный опьяняющий напиток!  

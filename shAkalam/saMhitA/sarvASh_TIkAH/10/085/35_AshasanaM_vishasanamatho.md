@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आश꣡सनं विश꣡सनम्  
 अ꣡थो अधिविक꣡र्तनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡नि ब्रह्मा꣡ तु꣡ शुन्धति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सू॒र्यायाः॑ । प॒श्य॒ । रू॒पाणि॑ । तानि॑ । ब्र॒ह्मा । तु । शु॒न्ध॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āśasanaṃ* ← *āśasanam* ← *āśasana*
 - \[noun\], nominative, singular, neuter
@@ -90,7 +90,7 @@ popular;; epic anuṣṭubh (380)
 **आशसनं** तूषाधानम्। तच्चान्यवर्णं भवति । **विशसनं** शिरसि निधीयमानम् । तादृशं दशान्ते निधीयमानम् **अधिविकर्तनं** यत्त्रिधा वासो विकृन्तन्ति । तान्याशसनादीनि वासांस्यवस्थितानि **सूर्यायाः** **रूपाणि** भवन्ति । तानि **पश्य**। एवंभूतान्याशसनादीनि पुरा सूर्यास्वशरीरे स्थितान्यमङ्गलानि वासांसि विधत्ते । **तानि** रूपाणि सूर्यावित् **ब्रह्मा** **तु** ब्राह्मण एव तस्माद्वाससः सकाशात् **शुन्धति** अपनयति ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,29 +105,29 @@ Viśasana = that which is to be plural ced on the head; that which is to be plur
 Adhivikartanam = the garment which is cut into three pieces. These terms may not relate todress, but to the cutting up of an animal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Carving up, carving open, and then cutting apart:  
 behold the forms of Sūryā! But the brahmin makes them clean.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fringe, the cloth that decks her head, and then the triply parted robe,-  
      Behold the hues which Surya wears these doth the Brahman purify.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es ist wie das Schlachten, Zerlegen und Zerschneiden. - Sieh die Farbe der Surya! Aber der Beschwörer reinigt sie.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ausschlachten, das Zerschneiden, das weitere Zertheilen; – so [blutig wie diese sind] sieh diese Erscheinungen der Suriā; doch der Brahmāne läutert sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Это) резание, разрезание  
 И разделывание на куски:  

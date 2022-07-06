@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्राह्मणा꣡सः सोमि꣡नो वा꣡चम् अक्रत  
 ब्र꣡ह्म कृण्व꣡न्तः परिवत्सरी꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आवि꣡र् भवन्ति गु꣡हिया न꣡ के꣡ चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ध्व॒र्यवः॑ । घ॒र्मिणः॑ । सि॒स्वि॒दा॒नाः । आ॒विः । भ॒व॒न्ति॒ । गुह्याः॑ । न । के । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brāhmaṇāsaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, plural, masculine
@@ -122,7 +122,7 @@ popular
 सोमिनः सोमयुक्ताः परिवत्सरीणं सांवत्सरिकं गावामयनिकं ब्रह्मस्तुतशस्त्रात्मकं कृण्वन्तः कुर्वन्तो ब्राह्मणासः लुप्तोपममेतत् ब्राह्मणाइव वाचं शब्दं अक्रत अकृषत इमे मण्डूकाः अपिच घर्मिणो घर्मेण प्रव् अर्ग्येण चरन्तः अध्वर्यवः अध्वरस्य नेतारः ऋत्विजइव सिष्विदानाः स्विद्यद्गात्राः गुत्द्याः घर्मकाले बिले निगूढाः केचित् केचन मण्डूकाः न सम्प्रति वृष्टौ सत्यां आविर्भवन्ति जायन्ते ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ popular
 The perennial prayer: or, the year-long prayer, a reference to gavām ayanam,sacrificial session, which commences and ends with the **atirātra** and lasts a whole year; person iring: adhvaryavogharmiṇaḥ siṣvidānāḥ: gharmiṇaḥ = having or bearing the vessel, or performing the rite so termed; or,suffering from gharma, heat or the hot season; the epithet is applied to the **adhvaryus** and also to the frogs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The brahmins, having soma, have made speech, creating their yearly  sacred formulation.  
 The Adhvaryus, having the hot ritual milk-drink (at the Pravargya  
 ritual), sweating, become visible; none are hidden.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 But as the day dawns, the frogs become visible, with their drive to mate overriding any instinct to flee or conceal themselves. This visibility is insistently conveyed by “[they] become visible; none are hidden” (āvír bhavanti gúhyā ná ké cit).
 
@@ -157,28 +157,28 @@ With the behavioral model of the frogs established in the first 6 vss., the next
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Brahmans with the Soma juice, performing their year-long rite, have lifted up their voices;  
      And these Adhvaryus, sweating with their kettles, come forth and show themselves, and none are hidden.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 These Soma-pressing Brahmins raise their voices And offer their recurrent year's devotion; And these Adhvaryu priests with kettles sweating Come forth to view, and none of them are hidden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die somafeiernden Brahmanen haben ihre Stimme erhoben, die jährliche Beschwörung machend. Nachdem sie in der Sonnenglut geschwitzt hatten, wie die Adhvaryu´s bei dem heißen Milchtrank, kommen sie jetzt zum Vorschein; keiner bleibt verborgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie somatrunkne Priester schreien laut sie, wenn sie ihr jährliches Gebet verrichten, Wie Opferdiener um den Kessel schwitzend erscheinen sie und keiner bleibt verborgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брахманы, занятые сомой, они возвысили голос,  
 Произнося молитву, отмечающую год.  

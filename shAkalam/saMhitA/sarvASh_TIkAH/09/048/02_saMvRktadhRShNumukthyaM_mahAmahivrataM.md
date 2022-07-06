@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡वृक्तधृष्णुम् उक्थि꣡यम्  
 महा꣡महिव्रतम् म꣡दम्  
 शत꣡म् पु꣡रो रुरुक्ष꣡णिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श॒तम् । पुरः॑ । रु॒रु॒क्षणि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃvṛktadhṛṣṇum* ← *saṃvṛkta* ← *saṃvṛj* ← *√vṛj*
 - \[verb noun\]
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **संवृक्तधृष्णुम्** । संवृक्ताः संछिन्ना धृष्णवो धर्षणशीलाः शत्रवो येनासौ संवृक्तधृष्णुः। तम् **उक्थ्यम्** उक्थार्हं प्रशस्यं महामहिव्रतं महनीयबहुकर्माणं **मदं** मदकरं **शतं** बहूनि **पुरः** शत्रूणां पुराणि **रुरुक्षणिं** विनाशयन्तं त्वां धनानीमह इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The overthrower of the resolute (foe), the praiseworthy, to whom many solemn observances are addressed, the exhilarator, the destroyer of a hundred cities (of the **asuras**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who have encoiled the bold and are worthy of hymns, having very  great commandments, exhilarating,  
 eager to break a hundred strongholds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is couched in the acc. and entirely dependent on vs. 1, qualifying Soma.
 
@@ -110,23 +110,23 @@ If pāda c refers to Soma’s desire to break out of confinement, it’s possibl
 A connection between the 100 strongholds in this vs. and the explicit Somaraub allusion in the next vs. was suggested by Hilldebrandt, but unfortunately rejected by Oldenberg— too fastidiously I think.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gladdening crusher of the bold, ruling with very mighty sway,  
      Destroyer of a hundred forts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Mutigen für sich gewinnt, dem preiswürdigen großen Gebieter, dem Rauschtrank, der hundert Burgen brechen will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den beutelust'gen, rühmlichen, den sehr gewalt'gen Somatrank, Der hundert Burgen leicht zerbricht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

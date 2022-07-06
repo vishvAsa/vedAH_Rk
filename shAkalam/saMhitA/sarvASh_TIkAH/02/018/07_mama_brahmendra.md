@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡म ब्र꣡ह्म इन्दर+ याहि अ꣡छा  
 वि꣡श्वा ह꣡री धुरि꣡ धिष्वा र꣡थस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मि꣡ञ् छूर स꣡वने मादयस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽत्रा । हि । वि॒ऽहव्यः॑ । ब॒भूथ॑ । अ॒स्मिन् । शू॒र॒ । सव॑ने । मा॒द॒य॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mama* ← *mad*
 - \[noun\], genitive, singular
@@ -123,36 +123,36 @@ genre M
 हेइन्द्र ममब्रह्मअस्मदीयामेवस्तुतिमच्छाभिलक्ष्यायाहि विश्वाव्याप्तौहरीरथस्यधुरियुगप्रान्तेधि- ष्व संयोजय पुरुत्रापुरुभिर्बहुभिर्यजमानैः त्वंविहव्योविविधंह्वातव्योबभूथ बभूविथ बभूथाततन्थ- जगृभ्यववर्थेतिनिपातनादिडभावः हिप्रसिद्धः हेशूर अस्मिन् सवनेयज्ञेमादयस्व सोमपाएनहृष्टो- भव ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come hither, **Indra**, (having heard) my prayer; yoke your two universal steeds to the pole of your chariot; you have been the object of invocation in many ways by many (worshippers), but now, hero, be exhilarated in this (our) sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here to my poetic formulation, Indra. Put all the pairs of fallow  bays on the yoke-pole of the chariot,  
 for you have become the one to be competitively summoned in many  places. In this soma-pressing, you warrior, find your exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this my prayer, O Indra, come thou hither: bind to thy car's pole all thy two Bay Coursers.  
      Thou art to be invoked in many places Hero, rejoice thyself in this libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu meiner Erbauungsrede komm, o Indra, lege alle beiden Falben an des Wagens Deichsel ! An vielen Orten solltest du zwar geladen werden; berausche dich, o Held, bei dieser Somaspende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her, o Indra, hier auf meine Bitte, schirr alle Rosse an des Wagens Deichsel; Zwar warest du von vielen anzurufen; doch freue recht an diesem Mahl dich, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На мою молитву приди, о Индра, привязав  
 К дышлу колесницы все пары буланых коней!  

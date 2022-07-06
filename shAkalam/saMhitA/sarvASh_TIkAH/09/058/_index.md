@@ -8,7 +8,7 @@ title = "+058"
 ‘तरत्सः' इति चतुर्ऋचं चतुस्त्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । “तरत्सः' इत्यनुक्रान्तम् ।। उक्तो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 58 (770)  
 Soma Pavamāna  
@@ -17,7 +17,7 @@ Avatsāra Kāśyapa
 A curious little hymn or hymn-fragment. All four verses have a pāda-length refrain,  which is entirely applicable to Soma, and the hymn begins with this same refrain.  The first verse is clearly a soma verse throughout, but verse 2 is more appropriate to  Dawn and verses 3 and 4 appear to be an abbreviated dānastuti. The patrons named  in verse 3 are identified as protegés of the Aśvins in I.112.23 (though with the first in  slightly different form); middle Vedic literature also has a confused tradition about  these same personages.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the curious structure and contents of this hymn, see the published introduction.
 

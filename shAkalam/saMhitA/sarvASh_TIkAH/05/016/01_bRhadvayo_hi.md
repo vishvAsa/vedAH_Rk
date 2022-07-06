@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् व꣡यो हि꣡ भान꣡वे  
 अ꣡र्चा देवा꣡य अग्न꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡र्तासो दधिरे꣡ पुरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यम् । मि॒त्रम् । न । प्रश॑स्तिऽभिः । मर्ता॑सः । द॒धि॒रे । पु॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -104,41 +104,41 @@ genre M
 यज्ञे **भानवे** दीप्तिमते अग्नये **बृहद्वयः** हवीरूपमन्नं दीयते **हि** । अतस्त्वमपि **देवाय** द्योतमानाय **अग्नये** वयः **अर्च** प्रयच्छ । **मर्तासः** मनुष्याः **यम्** अग्निं **मित्रं** **न** सखायमिव **प्रशस्तिभिः** प्रकृष्टाभिः स्तुतिभिः **पुरः** **दधिरे** पुरस्कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer abundant (sacrificial) food to the brilliant divine **Agni**, whom mortals have plural ced before them by praises as a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because there is lofty vitality for radiance, chant to the god Agni, whom mortals have installed to the fore, like Mitra, with their  
 proclamations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT power is in the beam of light, sing praise to, Agni, to the God  
      Whom men have set in foremost place like Mitra with their eulogies.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sing 1 (a song that gives) mighty vital power, to the light, to god Agni, whom the mortals have placed in front 2 like Mitra by their praises 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So singe denn dem göttlichen Licht Agni hohe Lebenskraft zu, dem die Sterblichen mit Lobeserhebungen den Vorsitz gaben wie einem Freunde dem Mitra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Hochgenuss dem strahlenden, dem Gotte Agni sing' ich nun, Den durch ihr Lob die Sterblichen gleich einem Freunde hoch geehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу воспеть (его) высокую жизненную силу –  
 Пламени, богу Агни,  

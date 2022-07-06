@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ वां वव्र꣡यामहे꣡  
 अथे꣡न्द्रम् इ꣡द् यजामहे  
@@ -17,7 +17,7 @@ ChandaH = "शक्वरी"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -38,7 +38,7 @@ genre M;; repeated line
 सः । नः॒ । क॒दा । चि॒त् । अर्व॑ता । गम॑त् । आ । वाज॑ऽसातये । गम॑त् । आ । मे॒धऽसा॑तये । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -158,7 +158,7 @@ genre M;; repeated line
 हे इन्द्राग्नी **वां** युवां **न** **वव्रयामहे** वयं धन न याचामहे । अथ **हि** अपि तर्हि **शविष्ठम्** अतिशयेन बलवन्तं **नृणां** **नरं** नेतॄणामपि नेतारम् **इन्द्रमित्** इन्द्रमेव **यजामहे** । **सः** इन्द्रः **नः** अस्मान् **अर्वता** अश्वेन **कदा** **चित्** **वाजसातये** अन्नलाभाय **आ** **गमत्** आगच्छति । कदाचित् **मेधसातये** यज्ञभजनाय **आ** **गमत्** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -169,37 +169,37 @@ genre M;; repeated line
 Do we not invoke you both: we do not invoke you both; to bestow upon us food: for thereceiving of food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we do not stick you two together in a hole. But we sacrifice to Indra  especially as strongest man among men.  
 He will come here to us sometime with his steed to win the prize; he will  come here to win wisdom.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax vavráyāmahe is somewhat puzzling. It appears to be a denom. to vavrá- ‘hole’, with accent retraction because it is transitive (so Jamison, -áya-, 88-89). This deriv. goes back to Bartholomae and is endorsed by Oldenberg, for want of anything better. But what is its point in context? Here Renou seems to show the way, taking it as oppositional to the following pāda, which begins with the contrastive particle átha: “But we sacrifice just (/especially) to Indra.” The idea is that, though the hymn is dedicated to both Indra and Agni, we don’t put the two gods in the same undifferentiated category, “in the (same) hole,” as it were, but treat them individually.
 
 As noted in the published introduction, the two gods are treated with more independence than in most Indra and Agni hymns (which isn’t saying much).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We set no snares to tangle you; Indra we worship and adore, Hero of heroes mightiest.  
      Once may he come unto us with his Steed, come unto us to win us strength, and to complete the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir stellen euch keine Falle, vielmehr verehren wir nur den Indra, den stärksten Mann unter den Männern. Er möge uns einmal zu Rosse kommen zum Gewinnen des Siegerpreises, er möge kommen zum Gewinnen der Meisterschaft. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn nimmermehr verschmähn wir euch, vor allem ehren Indra wir, Den Mann, der Männer kräftigsten; er komme stets zu Rosse her zu uns, um Labung zu empfahn. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы же не таимся перед вами:  
 Это Индру мы почитаем,  

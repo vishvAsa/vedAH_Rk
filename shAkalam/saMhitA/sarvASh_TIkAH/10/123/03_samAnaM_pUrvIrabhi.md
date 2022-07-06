@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समान꣡म् पूर्वी꣡र् अभि꣡ वावशाना꣡स्  
 ति꣡ष्ठन् वत्स꣡स्य मात꣡रः स꣡नीळाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रिह꣡न्ति म꣡ध्वो अमृ꣡तस्य वा꣡णीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । सानौ॑ । अधि॑ । च॒क्र॒मा॒णाः । रि॒हन्ति॑ । मध्वः॑ । अ॒मृत॑स्य । वाणीः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 **पूर्वीः** बह्व्यः **समानं** वेनस्यात्मनश्च साधारणं स्थानं प्राप्य **अभि** **वावशाना:** अभितः शब्दायमानाः । यद्वा । तमेव वेनमभिकामयमानाः। **वासस्य** वत्सस्थानीयस्य वैद्युताग्नेः **मातरः** मातृभूताः **सनीळाः** समाननिलया एवंविधा आन्तरिक्ष्या आपः **तिष्ठन्** तिष्ठन्ति । अपि च **ऋतस्य** उदकस्य **सानावधि** सानौ समुच्छ्रितेऽन्तरिक्षस्थाने **चक्रमाणाः** प्रवर्तमानाः **मध्वः** मधुरस्य **अमृतस्य** उदकस्य **वाणीः** वाण्यः शब्दाः **रिहन्ति** इमं वेनमर्चन्ति । अलंकुर्वन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ genre M
 Dark allusionsrefer to the agency of the thunder-clouds in sending rain; the calf, **vatsa** = vaidyutāgni, **agni** as the lightning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mothers of the calf, who are many though stemming from the same  nest, stand there bellowing [/yearning] toward the same (womb).  
 Having stridden onto the back of truth, the voices lick at the  
 immortal honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full many, lowing to their joint-possession, dwelling together stood the Darling's Mothers.  
      Ascending to the lofty height of Order, the bands of singers 'sip the sweets of Amrta.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Kalbes viele Mütter aus dem gleichen Neste stehen da, dem gemeinsamen Jungen zubrüllend. Über der Opferordnung Rücken schreitend lecken die Stimmen am süßen Göttertrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In gleicher Wohnung stehn des Kindes Mütter, und jauchzen zu die vielen ihm, dem einen; Die Scharen schlürfen süssen Thau des Himmels, hinschreitend an des ew'gen Himmels Wölbung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Многие матери теленка, происходящие из одного гнезда,  
 Стояли, призывно мыча общему (дитяте).  

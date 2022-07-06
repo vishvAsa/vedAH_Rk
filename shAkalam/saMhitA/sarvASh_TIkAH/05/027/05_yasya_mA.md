@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य मा परुषाः꣡ शत꣡म्  
 उद्धर्ष꣡यन्ति उक्ष꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सो꣡मा इव त्रि꣡आशिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अश्व॑ऽमेधस्य । दानाः॑ । सोमाः॑ऽइव । त्रिऽआ॑शिरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -88,7 +88,7 @@ genre M
 **यस्य** येन **अश्वमेधस्य** अश्वमेधेन **दानाः** दत्ताः **परुषाः** कामानां पूरकाः **शतम्** **उक्षणः** उक्षाणो बलीवर्दाः **मा** माम् **उद्धर्षयन्ति** उत्कर्षेण हर्षयन्ति हे अग्ने ते उक्षाणः **त्र्याशिरः** । दधिसक्तुपयोरूपास्तिस्र आशिरोऽधिश्रयणसाधनभूता येषां ते त्र्याशिरः । **सोमाइव** तव प्रीणनाय भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,35 +99,35 @@ genre M
 Triple-mixed Soma: mixed with curds, milk and parched grain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Such are) the gifts of Aśvamedha, whose hundred gray bulls  
 excite me like soma juices with their three additions [=milk, curds,  
 barley].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From whom a hundred oxen, all of speckled hue, delight my heart,  
      The gifts of Asvamedha, like thrice-mingled draughts of Soma juice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Asvamedha whose gifts, a hundred speckled bulls, delight me like Soma juices with threefold admixture 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen hundert gefleckte Stiere, des Asvamedha Geschenke, mich entzücken wie dreifach gemischter Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dessen hundert buntscheckige Ochsen mich sehr erfreuen, des A^vamedha Gaben sind wie Somatränke dreifach gemischt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи сто пятнистых быков –  
 Дары Ашвамедхи  

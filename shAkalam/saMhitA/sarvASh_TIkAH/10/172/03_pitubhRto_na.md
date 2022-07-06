@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पितुभृ꣡तो न꣡ त꣡न्तुम् इ꣡त्  
 सुदा꣡नवः प्र꣡ति दध्मो य꣡जामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -28,7 +28,7 @@ genre M;; line affected by realignment
 पि॒तु॒ऽभृतः॑ । न । तन्तु॑म् । इत् । सु॒ऽदान॑वः । प्रति॑ । द॒ध्मः॒ । यजा॑मसि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pitubhṛto* ← *pitu*
 - \[noun\], masculine
@@ -74,34 +74,34 @@ genre M;; line affected by realignment
 **पितुभृतो** न अन्नस्य भर्तार इव **सुदानवः** शोभनदाना वयं तन्तुमित् तन्तुं विस्तीर्णमेव **प्रति** दध्मः। उषसं प्रत्युपायनरूपेण धारयामः । तेन च यज्ञेन तमुषसं यजामसि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like bearers of food, liberal in our gifts, we spread the thread (of sacrifice before the dawn), andworship (her).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like those bringing food, having good gifts we lay out the thread (of  sacrifice): let us perform sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As nourishers we tie the thread, and, liberal with our bounty, offer sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Speiseträger gute Gaben bringend nehmen wir den Faden des Opfers wieder auf; wir opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Nahrungbringer legten wir an Gaben reich den Faden an und opfern dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как приносящие питание, мы, изливающие дары,  
 Наладили нить (и) приносим жертвы.

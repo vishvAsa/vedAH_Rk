@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ नु꣡ अस्य य꣡त् पदं꣡  
 हर्यत꣡स्य निधानि꣡यम्  
 प꣡रि द्यां꣡ जिह्व꣡यातनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 परि॑ । द्याम् । जि॒ह्वया॑ । अ॒त॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पवमाने सोमे **उतो** अपि च **अस्य** सोमदातुः **हर्यतस्य** प्रदानं कामयमानस्य मम **यत्पदं** **निधान्यं** हविषां निधानार्हमुत्तरवेदिलक्षणं तत्र स्थित्वाग्निः **द्यां** **परि** परितः **जिह्वया** ज्वालया **अतनत्** व्याप्नोत् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In the plural ce: **uttara** **veda** or the altar outside the enclosure
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And it’s just now that his place, the place of the delightful one, is to be  laid down:  
 he has stretched around heaven with his tongue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From where oblations must be laid, which is the Well-beloved's home,  
      He with his tongue hath compassed heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und sobald er seinen Platz erreicht hat, der zum Niedersetzen des begehrten Agni da ist, so hat Agni mit der Zunge den Himmel umspannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Orte, wo sich hingesetzt der Liebliche, umschlang er nun Mit seiner Zung' den Himmelsraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот то место, которое принадлежит  
 Этому желанному (Агни).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ देवइः꣡ शोभते वृ꣡षा  
 कवि꣡र् यो꣡नाव् अ꣡धि प्रियः꣡  
 वृत्रहा꣡ देववी꣡तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृ॒त्र॒ऽहा । दे॒व॒ऽवीत॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -92,41 +92,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं सोमः **सं** **शोभते** **देवैः** सह **योनौ** स्थाने स्वीयेऽधिष्ठितः **वृषा** कामानां वर्षकः **कविः** क्रान्तप्रज्ञः **प्रियः** प्रियभूतः सर्वेषां यद्वा प्रीणयिता **वृत्रहा** वृत्रस्य हन्ता **देववीतमः** अतिशयेन देवान् कामयमानः एवंमहानुभावः सोमः संशोभते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma**, the showerer (of benefits), the seer, the beloved, the destroyer of foes,t he most devout, shines in its appointed plural ce along with the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull becomes beautiful together with the gods, the dear poet in  his womb,  
 the smasher of obstacles, best pursuer of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma is given Indra’s epithet vṛtrahán- as in vs. 6 of the preceding hymn (IX.24).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Steer shines with the Deities, dear Sage in his appointed home,  
      Foe-Slayer, most beloved by Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Göttern macht sich der Bulle um die Wette schön, der liebe Seher in seiner Wiege, der Vritratöter, der die Götter am meisten einlädt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Göttern glänzt der Stier, der liebe Seher auf dem Sitz, Der Feinde schlägt und Götter labt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык украшается вместе с богами,  
 Милый поэт, на (своем) лоне,  

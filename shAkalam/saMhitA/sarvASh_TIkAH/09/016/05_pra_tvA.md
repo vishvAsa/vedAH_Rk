@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त्वा न꣡मोभिर् इ꣡न्दव  
 इ꣡न्द्र सो꣡मा असृक्षत  
 महे꣡ भ꣡राय कारि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒हे । भरा॑य । का॒रिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -81,44 +81,44 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वा** त्वां **नमोभिः** नमस्कारोपलक्षितैः स्तोत्रैरथवान्नैः सह **इन्दवः** **सोमाः** **प्र** **असृक्षत** प्राप्नुवन्ति । किमर्थम् । **महे** महते **भराय** संग्रामाय । कीदृशाः । **कारिणः** बलकरणशीलाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** juices flow to you, **Indra**, with praises, giving you vigour for the great conflict.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth to you, Indra, the drops, the soma juices, have surged with  
 homage—  
 for the great taking of the decisive victor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. begins prá tvā, reminiscent of the hymn opening prá te (1a), and the audience would surely assume -- not least because 2nd ps. is generally restricted to Soma in the IXth Maṇḍala (see Renou’s comm. here) -- that tvā refers to Soma. But this expectation is repaired (or dis-repaired) by the voc. índra that opens pāda b. See vs. 8 below.
 
 I take the referent of gen. kāríṇaḥ in c to be Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With humble homage, Indra, have the Soma-drops flowed forth to thee,  
      Contending for the glorious prize.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somasäfte haben sich unter Verbeugung zu dir, Indra, in Lauf gesetzt, um als Sieger großen Gewinn davonzutragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir ergossen demuthsvoll die Somatropfen, Indra, sich, die Sänger zu erhabnem Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С поклонениями были выпущены к тебе  
 Вперед капли, соки сомы, о Индра,  

@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो वृत्रहन्तम  
 इ꣡न्द्रस्येन्दो शिवः꣡ स꣡खा  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 यत् । सी॒म् । हव॑न्ते । स॒म्ऽइ॒थे । वि । वः॒ । मदे॑ । युध्य॑मानाः । तो॒कऽसा॑तौ । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,37 +124,37 @@ genre M;; repeated line
 हे **वृत्रहन्तम** शत्रूणामतिशयेन हन्तर्हे **इन्दो** हे सोम यः **त्वम्** **इन्द्रस्य** **शिवः** सुखकरः **सखा** मित्रभूतोऽसि स त्वं **नः** अस्मान् पाहीति शेषः । कदेति उच्यते। **तोकसातौ** । तोक इत्यपत्यनाम । सातिः। ‘षणु दाने ' इत्यस्माद्धातो रूपम् । दीयतेऽस्मिन्नपत्यमिति तोकसातिः संग्रामविशेषणम् । तस्मिन् । अतिमहतीत्यर्थः। **समिथे** संग्रामे **युध्यमानाः** युद्धं कुर्वाणाः शत्रुजनाः **सीं** सर्वतः **यत्** यदा **हवन्ते** युद्धार्थमस्मानाह्वयन्ति। तदास्माकं रक्षिता भवेत्यर्थः । कस्मिन् निमित्ते । **वि** **वो** **मदे** तव विविधहविर्जन्यहर्षनिमित्ते। **विवक्षसे** त्वं महान्भवसि । महतां हि पालनं युक्तमेवेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Utter destroyer of enemies, **Soma**, who are the auspicious friend of **Indra**, (protect us), when hostilewarriors everywhere call us to the combat that bestows offsprin; by your exhilration (preserve us); for you aremighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop that best smashes obstacles, you are for us Indra’s benevolent  comrade,  
 when they call upon him in the conflict as they do battle at the winning  of progeny.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Chief slayer of our foemen, thou, Indu, art Indra's gracious Friend,  
      When warriors invoke him-at your glad carouse -in fight, to win them offspring. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, o Saft, bist unseres Indra guter Freund, du Erzfeindetöter, wenn ihn im Streite die Kämpfenden anrufen, um Samen zu gewinnen - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schlägst am besten unsern Feind, o Indu, Indra's lieber Freund, Wenn sie dich rufen in der Schlacht die kämpfenden um Haus und Herd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о лучший убийца врагов,  
 Милый друг нашего Индры, о сок,  

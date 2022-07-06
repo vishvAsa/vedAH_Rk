@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡या नो अग्न ऋत꣡यन्न् ऋते꣡न  
 भु꣡वो न꣡वेदा उच꣡थस्य न꣡व्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡ह꣡म् प꣡तिं सनितु꣡र् अस्य꣡ रायः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वेद॑ । मे॒ । दे॒वः । ऋ॒तु॒ऽपाः । ऋ॒तू॒नाम् । न । अ॒हम् । पति॑म् । स॒नि॒तुः । अ॒स्य । रा॒यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
@@ -132,7 +132,7 @@ genre M
 हे **अग्ने** **ऋतयन्** सर्वप्राणिनां जीवनहेतुकमुदकं कुर्वन् **कया** केनापि **ऋतेन** सत्येन क्रियमाणेन कर्मणा **नः** **उचथस्य** अस्मदीयस्य स्तोत्रस्य **नवेदाः** ज्ञाता **भुवः** भवेः । **नव्यः** स्तुत्यः **ऋतूनां** **ऋतुपाः** । द्वितीयः ऋतुशब्दोऽनुवादकः । **देवः** द्योतमानोऽग्निः **मे** मां **वेद** वेत्तु । **सनितुः** भजमानस्य **अस्य** मम **रायः** पश्वादिलक्षणस्य धनस्य **पतिं** स्वामिनं तमग्निम् **अहं** **न** जानामि ॥ भुवः ।  ‘ भू सत्तायाम् '। लिङर्थे लेट्यडागमः । उवङादेशः । नवेदाः । न न वेत्तीति वेत्तीत्यस्मिन्नर्थे वर्तते । कथमेतल्लभ्यते । निपातनात् । द्विनञ्पूर्वस्यासुन्प्रत्ययान्तस्य वेदेरेकस्य नञो लोपोऽन्यस्य प्रकृतिभावश्च स्कन्दस्वामिना निपातितः। पाणिनिना तु  ‘ नभ्राण्नपात् ' इति सूत्रे न वेत्तीत्येतस्मिन्नर्थे निपातितः । अस्यार्थस्यानुपपन्नत्वात् स्कन्दस्वामिपक्ष एवाश्रीयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M
 I know him not as the Lord: na aham patim sanituḥ **asya** **rāyaḥ** = bhajamānasya asya māma rāyaḥ svāminām tam agnim aham na jānāmi, I do not know that Agni, the master of the riches of this one, or me, the enjoyer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In what fashion, o Agni, do you, speaking the truth according to the  truth, become aware of our newer speech?  
 The god who is rites-guardian of the rites’ sequence knows of me; I do  not (know) a lord other than him, the winner of wealth here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How hast thou, follower of the Law eternal, become the knower of a new song, Agni?  
      The God, the Guardian of the seasons, knows me: the Lord of him who won this wealth I know not.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How, O Agni, performing the Rita through Rita, mayst thou become a witness of our newest 1 hymn? The god, the protector of the seasons, knows of my seasons 2. I (do) not (know another) lord but him who attains (for us) this wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welcher Gesinnung wirst du Agni, der aus Wahrheit die Wahrheit liebt, Kenntnis von unserem neuesten Loblied nehmen? Der Gott, der der Hüter der Zeiten ist, kennt mich; ich kenne nicht den Herrn, noch den Gewinner dieses Reichtums.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann wirst du uns durch heil'ges Werk, du heil'ger, ein Zeuge Agni unsres neuen Spruches? Mich kennt der Gott, der Opferzeiten achtend, nicht ich den Herrn und Geber dieses Gutes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как же, о Агни, любящий закон ради закона,  
 Ты воспримешь наш новый гимн?  

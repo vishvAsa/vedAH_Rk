@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡द् वृषण्य꣡न्तीभियः  
 पुनानो꣡ ग꣡र्भम् आद꣡धत्  
 याः꣡ शुक्रं꣡ दुहते꣡ प꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 याः । शु॒क्रम् । दु॒ह॒ते । पयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvid*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृषण्यन्तीभ्यः** वृषणं सोममात्मन इच्छन्तीभ्यो वसतीवरीभ्यः **पुनानः** पूयमानो मिश्रयमाणः **गर्भं** स्वगर्भस्थानीयं रसं **कुवित्** बहु प्रभूतम् **आदधत्** करोति । **याः** आपः **शुक्रं** दीप्तं **पयः** **दुहते** स्ववत्साय सोमाय ताभ्यो गर्भमादधत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Many: kuvit; this may ablso be a interrogative particle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Will he indeed set an embryo for those females yearning for a bull, as he  is being purified—  
 for those who give the gleaming milk?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As disc. in the published introduction, this vs. metaphorically expresses the complex interaction between poetry, the thoughts (dhī́- 2c, dhītí- 4a, both fem.) recited at the Soma pressing, and the Soma/soma him-/itself. The (female) thoughts “yearn for the/a bull” (vṛṣaṇyá-) to swell (√pi 2c) and impregnate (gárbhaṃ √dhā 5b) them with his semen/juice, while at the same time they are Soma’s mothers (4c) and themselves “give the gleaming milk” (śukráṃ duhaté páyaḥ 5c) -- śukrám páyaḥ being often a kenning for both soma juice and semen (see Grassmann, nos. 3 and 7 s.v. śukrá). So they both produce the soma/semen and become pregnant by it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hath he not, purified, impregned the kine whb long to meet their Lord,  
      The kine who yield the shining milk?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewiß wird er, wenn er sich läutert, den nach dem Bullen Verlangenden eine Leibesfrucht zeugen, die die helle Milch aus ihm herausmelken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hat der geklärte Fracht gesetzt in Küh, die brünstig nach dem Stier, Und denen helle Milch entströmt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, очищаясь, он вложит зародыша  
 Жаждущим быка, (тем,)  

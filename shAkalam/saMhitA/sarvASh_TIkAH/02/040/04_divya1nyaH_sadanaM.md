@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवि꣡ अन्यः꣡ स꣡दनं चक्र꣡ उच्चा꣡  
 पृथिव्या꣡म् अन्यो꣡ अ꣡धि अन्त꣡रिक्षे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राय꣡स् पो꣡षं वि꣡ ष्यतां ना꣡भिम् अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 तौ । अ॒स्मभ्य॑म् । पु॒रु॒ऽवार॑म् । पु॒रु॒ऽक्षुम् । रा॒यः । पोष॑म् । वि । स्य॒ता॒म् । नाभि॑म् । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
@@ -133,7 +133,7 @@ genre D
 अन्यः तयोरेकः पूषाउच्चाउच्चैः उच्छ्रितेदिविद्युलोकेसदनंस्थानञ्चक्रेचकार अन्यः अपरः सोमः पृथिव्यामोषषिरूपेणअध्यन्तरिक्षेचचन्द्ररूपेणसदनञ्चक्रे तौ सोमापूषणौयुवाम्पुरुवारं बहुभिर्वरणी यं पुरुक्षुं बहुकीर्तिंरायस्पोषन्धनस्यपुष्टिं पश्वात्मकन्धनमित्यर्थः तथाचब्राह्मणं—पशवोवैरायस्पोष इति । अस्मेअस्माकं नाभिंविश्वस्यभोगस्यहेतुभूतमस्मभ्यंविष्यतां विमुञ्चताम्प्रयच्छतामित्यर्थः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ genre D
 Upon earth and in the firmament: Soma abides on earth; on the firmament, he is the moon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one made his seat in heaven high above; the other on earth and in  the midspace.  
 Let those two unleash for us thriving of wealth that brings many rewards  and many cattle; let them unloose the navel for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard assumption (Geldner [/Witzel Gotō], Renou) is that pāda a refers to Pūṣan and b to Soma, but the opposition between celestial and terrestrial/atmospheric dwelling places doesn’t seem to me to divide so neatly. Pūṣan seems often to be an earthly god, accompanying us on the ragged roads, finding our lost cattle, and Soma certainly has a celestial presence throughout the IXth Maṇḍala. I imagine that this contrastive pairing is meant to be a genuine riddle, which would require its audience to try out different solutions by bringing to mind everything they know about both gods and trying to match those characteristics with the description in this vs. The two different acc. phrases in cd can both be construed with the verb that lies between them, ví ṣyatām. There seems no reason to supply a diff. verb to govern the first acc. phrase as Geldner and Renou do. The slightly diff. renderings “unleash” and “unloose” in the pub. tr. were simply adapted to better fit their objects.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One in the heaven on high hath made his dwelling, on earth and in the firmament the other.  
      May they disclose to us great store of treasure, much-longed for, rich in food, source of enjoyment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine nahm seinen Sitz hoch im Himmel, der andere auf der Erde, in der Luft. Die beiden sollen uns vielbegehrten viehreichen Besitzzuwachs geben; sie sollen unseren Nabel von Nachkommenschaft entbinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine schuf am Himmel hoch den Sitz sich, der andre in der Luft und auf der Erde; Ergiesset beid' uns reichen Gutes Fülle an Schatz und Nahrung reiche, edle Sippe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один устроил себе сиденье высоко на небе,  
 Другой на земле (и) в воздушном пространстве.  

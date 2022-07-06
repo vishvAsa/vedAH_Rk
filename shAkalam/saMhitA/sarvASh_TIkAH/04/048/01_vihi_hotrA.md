@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विहि꣡ हो꣡त्रा अ꣡वीता  
 वि꣡पो न꣡ रा꣡यो अर्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 याहि꣡ सुत꣡स्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वायो॒ इति॑ । आ । च॒न्द्रेण॑ । रथे॑न । या॒हि । सु॒तस्य॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vihi* ← *vī*
 - \[verb\], singular, Present imperative
@@ -101,7 +101,7 @@ genre M
 हे **वायो** **विहि** वीहि भक्षय । **होत्राः** होमसाधिकाः सोमाहुतीः **अवीताः** अन्यैः पूर्वमभक्षिताः **विपो** **न** शत्रूणां वेपयिता राजेव। किंच **अर्यः** स्तोतुर्मम **रायः** धनानि । संपादयेति शेषः । हे वायो 'चन्द्रेण आह्लादकेन **रथेन** **आ** **याहि** **सुतस्य** सोमस्य पीतये पानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M
 Like a prince the terrifier of foes: vipo rāyo = śatrūṇām vepayitā rājeva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pursue the invocations not (yet) pursued, just as “the riches of the  stranger” [=the poets of the Āryas] pursue poetic inspirations.  
 – O Vāyu, drive here with your glittering chariot, to drink of the pressed  (soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation renders hótrā(ḥ) as ‘invocations’; this is possible, but it may also (or in addition) refer to ‘ritual offerings’, perhaps better in a Vāyu context.
 
@@ -127,23 +127,23 @@ As noted in the published introduction, the construction and meaning of the firs
 introduction, on the basis of VI.14.3 I believe that “the riches of the stranger” refers to the Ārya people in general and their poets in particular. In my reading of the simile here, this collectivity of poets is pursuing inspiration as avidly as Vāyu does invocations / libations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TASTE offerings never tasted yet, as bards enjoy the foeman's wealth.  
      O Vayu, on refulgent car come to the drinking of the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hab nach den Opfergaben Verlangen; unverlangt seien Reichtümer wie die Redekünste des Nebenbuhlers. Komm, Vayu, auf schimmerndem Wagen zum Trunke des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unberührten Opfern komm, gleich Reisern spriess des Frommen Gut; Auf lichtem Wagen komme her, o Vaju, zu des Saftes Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вкушай жертвы! Богатства  
 Чужого подобны словесам без вкуса.  

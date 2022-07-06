@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡ळे अग्निं꣡ सुअ꣡वसं न꣡मोभिर्  
 इह꣡ प्रसत्तो꣡ वि꣡ चयत् कृतं꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रदक्षिणि꣡न् मरु꣡तां स्तो꣡मम् ऋध्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रथैः॑ऽइव । प्र । भ॒रे॒ । वा॒ज॒यत्ऽभिः॑ । प्र॒ऽद॒क्षि॒णित् । म॒रुता॑म् । स्तोम॑म् । ऋ॒ध्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱe* ← *īḍ*
 - \[verb\], singular, Present indikative
@@ -124,21 +124,21 @@ genre M
 अहं श्यावाश्वः **अग्निं** **स्ववसं** स्वायत्तरक्षणं **नमोभिः** स्तोत्रैः **ईळे** स्तौमि । तत्स्तोत्रं **कृतम्** **इह** इदानीं **प्रसत्तः** प्रसन्नः प्रकर्षेण यज्ञं प्राप्तो वा सन् **नः** अस्मदर्थं **वि** **चयत्** विजानातु । **वाजयद्भिः** अन्नमिच्छद्भिः स्तोत्रैः **रथैरिव** रथैर्यथाभिमतं प्राप्नुवन्ति तद्वद्रंहणसाधनैः **प्र** **भरे** प्रकर्षेण संपादयाम्यभिमतम् । प्रदक्षिणित् प्रादक्षिण्येन गच्छन् **मरुतां** **स्तोमं** स्तोत्रम् **ऋध्यां** वर्धयेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I adore the protecting **Agni** with hymns; may he, propitiated on this occasion, approve of our acts; offer (worship with praises), intended to obtain food; as if (proceeding) with cars (to the goal), circumambulating (the fire); may I exalt the praise of the **maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I solemnly invoke helpful Agni with reverences. Seated in front, he will  pull out a perfect (“hand” of dice) for us.  
 I press forward as if with chariots seeking prizes. With respectful  
 circumambulation (of Agni) might I bring to fulfillment the praise of  the Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of the hymn, ī́ḷe agním, is a flipping of the opening of the first hymn in the RV, I.1.1 agním īḷe, but this phrase, in both orders, is found a number of times in the RV. However, it’s worth noting that this is the only other place where it opens a hymn. This is the only occurrence of the ppl. prasattá- ‘seated to the fore/in front’, and it here seems a substitute for the standard puróhita- ‘placed in front’, of Agni as the offering fire on the ritual ground. If ī́ḷe agním is a conscious evocation of RV I.1.1 (or a templatic Agni hymn), then prasattáḥ could be evoking the third word of I.1.1 (agním īḷe) puróhitam.
 
@@ -147,23 +147,23 @@ However, the gambling phrase that follows goes off in a very different direction
 126-28).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I LAUD with reverence the gracious Agni: here may he sit and part our meed among us.  
      As with spoil-seeking cars I bring oblation: turned rightward I will swell the Marut's, praise-song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, den gnädigen, rufe ich unter Verbeugungen an. Hierher gesetzt möge er für uns den großen Wurf treffen. Wie mit wettkämpfenden Wagen eile ich voraus; mit ihm zu meiner Rechten will ich das Loblied auf die Marut recht machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den güt'gen Agni preis' ich mit Verehrung, hierher gesetzt vertheil er unser Opfer; Ich spende wie mit gutbeladnem Wagen; der Maruts Lob vollführ ich rechtsgewendet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю Агни, удачно помогающего, с поклонениями.  
 Усевшись здесь, пусть он различит счастливый бросок для нас!  

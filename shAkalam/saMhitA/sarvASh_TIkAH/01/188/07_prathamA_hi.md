@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रथमा꣡ हि꣡ सुवा꣡चसा  
 हो꣡तारा दइ꣡विया कवी꣡  
 यज्ञं꣡ नो यक्षताम् इम꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; repeated line
 य॒ज्ञम् । नः॒ । य॒क्ष॒ता॒म् । इ॒मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prathamā* ← *prathama*
 - \[noun\], nominative, dual, masculine
@@ -80,41 +80,41 @@ genre M;; repeated line
 **प्रथमा** । मुख्यनामैतत् । प्रतमौ प्रकृष्टतमौ । हिः प्रसिद्धौ । **सुवाचसा** प्रियवचनौ **दैव्या** देवार्हौ **होतारा** देवानामाह्वातारौ होमनिष्पादकौ वा **कवी** मेधाविनौ एतौ **नः** अस्मदीयम् **इमं** **यज्ञं** **यक्षतां** यजतां गच्छतां वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let these two chief, well-spoken, divine sages, the invokers (of the gods), perform this our sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because they are the two foremost Divine Hotars, poets possessing  lovely speech,  
 let them perform this sacrifice of ours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let these two Sages first of all, heralds divine and eloquent,  
      Perform for us this sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the two fine-voiced divine Hotris, the sages, perform as the first this sacrifice for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sind ja die ersten schönredenden göttlichen Hotri und Seher; sie sollen für uns dies Opfer opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götterpriester weises Paar, das erste vielgepriesene, Vollbringe unser Opfer hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь (это) два первых сладкоречивых  
 Хотара  

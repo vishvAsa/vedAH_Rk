@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमे꣡ रो꣡दसी मही꣡  
 समीची꣡ सम꣡जग्रभीत्  
 त꣡मोभिर् इन्द्र तं꣡ गुहः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तमः॑ऽभिः । इ॒न्द्र॒ । तम् । गु॒हः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -84,35 +84,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** वृत्रः **मही** महत्यौ विस्तीर्णे **समीची** संगते **इमे** प्रत्यक्षत उपलभ्यमाने **रोदसी** द्यावापृथिव्यौ **समजग्रभीत्** सम्यगग्रहीत् । आवृणोदित्यर्थः । **तम्** असुरं हे **इन्द्र** त्वं **तमोभिः** अन्धकारैः **गुहः** संवृतमकरोः । अनाद्यनन्तं मरणलक्षणं तमः प्रावेशय इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have enveloped with darkness, **Indra**, him who had seized upon these spacious aggregated(realms of) heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who held together in his grasp these two great conjoined worlds, that one, o Indra, you hid with shades of darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hiddest deep in darkness itim, O Indra, who had set his grasp  
      On spacious heaven and earth conjoined.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der diese beiden großen Welten vereint umschlossen hielt, den versenktest du in Finsternis, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dieses grosse Weltenpaar umspannend fest zusammenschloss, Den hülltest du in Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто эти две великие половины вселенной  
 Вместе охватил собой,  

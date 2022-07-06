@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ पात꣡यन्ते अ꣡ज्मभिर्  
 गिरीणां꣡ स्नु꣡भिर् एषा᳐म्  
@@ -15,7 +15,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 प्र꣡ अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 य॒ज्ञम् । म॒हि॒ऽस्वनी॑नाम् । सु॒म्नम् । तु॒वि॒ऽस्वनी॑नाम् । प्र । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -90,7 +90,7 @@ genre M;; repeated line
 **ये** मरुतः **गिरीणां** मेघानां **स्नुभिः** प्रस्नवद्भिः **अज्मभिः** बलैः बलकरैरुदकैः सह **पातयन्ते** पतन्ति गच्छन्ति **एषां** मरुतां **महिष्वणीनां** प्रभूतध्वनीनां **यज्ञं** कुर्म इति शेषः । कृत्वा च **तुविष्वणीनां** बहुध्वनीनां **सुम्नं** सुखं तैः कृतम् **अध्वरे** यज्ञे **प्र** प्राप्नुयाम । अथवा चतुर्थ्यर्थे षष्ठी । प्रभूतस्वनेभ्यः सुम्नमुक्तलक्षणं हविः प्र प्राप्नुयामाध्वरे यज्ञे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,36 +101,36 @@ genre M;; repeated line
 Streaming trains:ajman = gamanam (RV 1.166.5), **saṅgrāma** (RV 1.112.17); here, balair balakarair udakaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who launch themselves in flight on their drives along the backs  of the mountains—  
 the sacrifice of those greatly noisy ones, the favor of those powerfully  noisy ones (you are likely to attain) while the ceremony is pro(ceeding).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referents of the plurals in this verse continue to be the Maruts of the previous verse, and I think that the same situation obtains: Indra is seeking the sacrifice and favor of the Maruts. I therefore supply iyakṣasi in this verse, again with sumnám as object. Thus one half of the VP is found in each verse: iyakṣasi in 17, sumnám in 18. (Geldner also supplies the same verb stem, but in the 1st sg., referring to the poet.) The medial transitive-causative pātáyante I take as a reflexive: ‘cause themselves to fly, launch themselves in flight’.
 
 On the pseudo-loc. absol. prā́dhvaré see comm. ad VIII.12.31-33.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We in the sacrifice perform their will whose voice is lifted high,  
      The worship of those Thundering Ories who o'er the ridges of these mountains fly in troops.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich mit ihren Schwärmen über die Rücken der Berge stürzen, dieser lautbrausenden Opfer, die Gunst der heftig Brausenden möchte ich bei dem Gottesdienst erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die in ihren Zügen über der Berge Gipfel fliegen, der sehr brausenden Verehrung, der laut brausenden Preis stell' ich voran beim Opferfest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Которые летают стаями  
 Через вершины гор, жертву  

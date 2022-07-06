@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ते अस्तु हर्यतः꣡  
 सो꣡म आ꣡ ह꣡रिभिः सुतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ तिष्ठ ह꣡रितं र꣡थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जु॒षा॒णः । इ॒न्द्र॒ । हरि॑ऽभिः । नः॒ । आ । ग॒हि॒ । आ । ति॒ष्ठ॒ । हरि॑तम् । रथ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 हे **इन्द्र** **हरिभिः**। हरन्ति सोमरसानेभिः इति हरयो ग्रावाणः । तैः **आ** **सुतः** सर्वतोऽभिषुतः **हर्यतः** कमनीयः **जुषाणः** प्रीतिविषयः **अयं** **सोमः** **ते** तुभ्यम् **अस्तु** । त्वं **हरिभिः** अश्वैर्युक्तं **हरितं** हरिद्वर्णं **रथम्** **आ** **तिष्ठ** अधितिष्ठ । ततः नः अस्मानभिलक्ष्य **आ** **गहि** आगच्छ । हर्यतः । ‘ हर्य गतिकान्त्योः' इत्यस्मात् ' भृमृदृशि°' इत्यादिना अतच्प्रत्ययः । चित्त्वादन्तोदात्तः । हरितम् । ‘ हृञ् हरणे'। ‘ हृश्याभ्यामितन् ' ( उ. सू. ३. ३७३ ) इतीतन्प्रत्ययः । नित्त्वादाद्युदात्तः । रथम् ।  रमु क्रीडायाम् । ‘ हनिकुषिनी ' इत्यादिना क्थन्प्रत्ययः । कित्त्वादनुनासिकलोपः । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,30 +141,30 @@ Haridhayasam = yellow-rayed;
 Harivarpasam = green-coloured
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this be gladdening to you—the soma pressed here by the golden  (stones).  
 Rejoicing, Indra, come here to us along with your golden (horses).  
 Mount the golden chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this delightsome Soma be expressed for thee by tawny stones.  
      Joying thereat, O Indra, with thy Bay Steeds come:. ascend thy golden-coloured car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma soll dir begehrenswert sein, der von den goldfarbigen Steinen ausgeschlagene. Indra! Komm gern mit den goldfarbigen Rossen her zu uns, besteige den goldigen Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es sei dir dieser holde Saft von goldnen Steinen ausgepresst, Mit goldnen Rossen, Indra, komm uns lustig her, besteig den goldnen Wagen du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть пожелаешь ты этого  
 Сому, выжатого золотистыми (камнями)!  

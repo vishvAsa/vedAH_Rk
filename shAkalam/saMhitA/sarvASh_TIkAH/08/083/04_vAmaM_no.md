@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वामं꣡ नो अस्तु अर्यमन्  
 वामं꣡ वरुण शं꣡सियम्  
 वामं꣡ हि꣡ आवृणीम꣡हे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒मम् । हि । आ॒ऽवृ॒णी॒महे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अर्यमन्** देव **वामं** वननीयं संभजनीयं धनं **नः** अस्माकम् **अस्तु** भवतु । हे **वरुण** **शंस्यं** सर्वं शंसनीयं स्तुत्य **वामं** धनमस्माकमस्तु । कुतः । हिशब्दो हेतौ । यस्मात्कारणाद्वयं **वामं** धनं युष्मान् **आवृणीमहे** याचामह इत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be wealth ours, **Aryaman**-- wealth worthy to be praised, **Varuṇa**; it is wealth which we ask.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let there be a treasure for us, o Aryaman; a treasure worthy of praise,  o Varuṇa,  
 for we would choose a treasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear wealth be Aryaman to us, Varuna dear wealth meet for praise:  
      Dear wealth we choose unto ourselves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück soll uns werden, Aryaman, preisliches Glück, Varuna, denn das Glück erbitten wir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns werde Schatz, o Arjaman, gepries'ner Schatz, o Varuna; Denn schönen Schatz begehren wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

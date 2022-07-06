@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ यम꣡स्य सा꣡दनं  
 देवमानं꣡ य꣡द् उच्य꣡ते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अयं꣡ गीर्भिः꣡ प꣡रिष्कृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 इ॒यम् । अ॒स्य॒ । ध॒म्य॒ते॒ । ना॒ळीः । अ॒यम् । गीः॒ऽभिः । परि॑ऽकृतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (380)
 **इदं** **यमस्य** नियन्तुरादित्यस्य वैवस्वतस्य वा **सदनं** स्थानम् । छान्दसः सांहितिको दीर्घः। **यत्** सदनं **देवमानं** देवैर्निर्मितमिति **उच्यते** सर्वत्र अभिधीयते । यद्वा । देवानां रश्मीनां निर्माणसाधनमिति गीयते । **अस्य** यमस्य प्रीणनाय **इयं** **नाळीः** वाद्यविशेषो वेणुः **धम्यते** वाद्यते । यद्वा । नाळीति वाङ्नाम । इयं स्तुतिरूपा वागस्य प्रीणनाय धम्यते उच्चार्यते । एवं सति **अयं** यमः **गीर्भिः** स्तुतिभिः **परिष्कृतः** अलंकृतोऽभूत् । ‘संपर्युपेभ्यः' इति सुडागमः । ‘परिनिविभ्यः । इति षत्वम् । “ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ popular;; epic anuṣṭubh (380)
 The hymn may be to **Āditya** and to Yama: **Taittirīya** Brāhmaṇa3.11.8; there is a dialogue between **Naciketas** and Yama in **Kaṭha Upaniṣad** on what becomes of the **soul** afterdeath; the father of Naciketas is named: Auddālaki and **Āruṇi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the seat of Yama, which is called the palace of the gods.  
 Here is his pipe blown; here is he adorned with hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here is the seat where Yama dwells, that which is called the Home of Gods:  
      Here minstrels blow the flute for him here he is glorified with songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist der Sitz des Yama, der der Götterpalast heißt. Diese seine Flöte wird geblasen, er wird mit Lobliedern verherrlicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist des Jama hoher Sitz, den man die Götterwohnung nennt; Man bläst auf dieser Pfeife ihm, durch Lieder ist er ausgeschmückt.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это обитель Ямы,  
 Которая называется жилищем богов.  

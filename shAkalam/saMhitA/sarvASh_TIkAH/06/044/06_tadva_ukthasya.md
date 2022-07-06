@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् व उक्थ꣡स्य बर्ह꣡णा  
 इ꣡न्द्रायोपस्तृणीष꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡ य꣡द् रो꣡हन्ति सक्षि꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विपः॑ । न । यस्य॑ । ऊ॒तयः॑ । वि । यत् । रोह॑न्ति । स॒ऽक्षितः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -97,7 +97,7 @@ genre M
 हे स्तोतारः **वः** युष्मदीयस्य **उक्थस्य** स्तोत्रस्य **तत्** **बर्हणा** बृहत्वं माहात्म्यम् **इन्द्राय** इन्द्रार्थम् उपस्तृणीषणि उपस्तरणीयम् । उपेत्य विस्तरणीयम् । इन्द्रो यथा स्तोत्रस्य माहात्म्यं जानीयात् तथा विस्तार्यत इत्यर्थः । **यस्य** इन्द्रस्य **ऊतयः** रक्षाः **विपो** **न** मेधाविन इव भवन्ति । सर्वकार्यकुशला इत्यर्थः । यद्वा नेति पूरकः । विपो विप्रस्य मेधाविनो यस्येन्द्रस्येति योज्यम् । **यत्** यस्मिंश्चेन्द्रे **सक्षितः** समाननिवासाः संहता ऊतयः **वि** **रोहन्ति** प्रादुर्भवन्ति तस्मा इन्द्रायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,13 +108,13 @@ genre M
 Vipo na, medhāvirat iva, that is, the protective measures or expedients of a sensible or wise man are capable for all affairs, **sarva** kāryakuśalaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It (is mine) to lay on your behalf, with the power of solemn speech, the  underlayer for Indra,  
 whose forms of helps are like inspired words, since, dwelling together,  they spread apart in their ascent.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is syntactically more complex and ritually more technical than the other two vss. in this tṛca.
 
@@ -140,23 +140,23 @@ Although this tṛca does not have glaring signs of unity, it particularly conce
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To seat your Indra, I will spread abroad with power this song of praise.  
      The saving succours that abide in him, like songs, extend and grow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Überschwenglichkeit eures Lobliedes will ich diese Unterlage dem Indra unterlegen, dessen Hilfen wie die Finger sind, weil sie beisammen wohnend nach allen Seiten hinauswachsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies will ich durch des Liedes Macht dem Indra wie ein Lager streun, Ihm, dessen Hülfen, Reisern gleich, aus gleicher Wurzel schiessen auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощью вашего гимна  
 Для Индры я хочу разостлать эту (подстилку),  

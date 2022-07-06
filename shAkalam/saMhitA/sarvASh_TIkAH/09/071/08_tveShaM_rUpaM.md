@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेषं꣡ रूपं꣡ कृणुते व꣡र्णो अस्य स꣡  
 य꣡त्रा꣡शयत् स꣡मृता से꣡धति स्रिधः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सं꣡ सुष्टुती꣡ न꣡सते सं꣡ गो꣡अग्रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒प्साः । या॒ति॒ । स्व॒धया॑ । दैव्य॑म् । जन॑म् । सम् । सु॒ऽस्तु॒ती । नस॑ते । सम् । गोऽअ॑ग्रया ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, neuter
@@ -151,7 +151,7 @@ genre M
 **अस्य** । अन्वादेशे अशादेशः । अस्य सोमस्य स्वभूतः **वर्णः** शत्रूणां निवारको रश्मिः **त्वेषं** दीप्यमानं **रूपं** **कृणुते** करोति । **सः** रश्मिः **यत्र** **समृता** । अर्तेः क्तिनि रूपम् । सम्यक् प्राप्यते योद्धृभिरत्रेति संग्रामः । अस्मिन् समृतौ युद्धे **अशयत्** शेते तिष्ठति । शीङो लङि ‘ बहुलं छन्दसि । इति शपो लुगभावः । तत्र युद्धे स रश्मिः **स्रिधः** शोषकाञ्छत्रून **सेधति** निषेधति । हिनस्तीति यावत् । वाक्यभेदादनिघातः । किंच **अप्साः** । सनोतेः विटि आत्वे कृते रूपम् । अपामुदकानां दाता । यद्वा वसतीवर्याख्यानामपां संभक्ता । सोऽयं **स्वधया** हवीरूपेणान्नेन सह **दैव्यं** देवानां संबन्धिनं **जनं** प्रति **याति** गच्छति । अपि च सोऽयं **सुष्टुती** सुस्तुत्या **सं** संगच्छते । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । किंच स सोमः **गोअग्रया** गवादिमुख्यया यथा वाचा स्तोतारः पशून् याचन्ते तया वाचा **सं** **नसते** संगतो भवति । नसतिर्गत्यर्थः । भिन्नवाक्यत्वादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,13 +162,13 @@ genre M
 His ray: **varṇa** = from vṛ, keeping off, beating back; 'his ray repelling his foes'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He makes for himself a glittering form—that is his color. When he has  lain down in the clash (of the pressing stones), he wards off errors.  
 Winning the waters, he drives by his own will to the divine folk. He joins  with the lovely praise hymn, with what is tipped with cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the responsions between 8a and 2b and between 8d and 3c, see comm. ad locc.
 
@@ -181,23 +181,23 @@ The sequence of tense in b is somewhat troubling. The main cl. contains a pres. 
 Properly speaking we would expect the acc. pl. to be accented *srídhaḥ, as it normally is. Formally this should be an oblique sg., but that analysis simply doesn’t work in context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His covering assumes a radiant hue; where'er he comes into the fight he drives the foe afar.  
      The Winner of the Floods, with food he seeks the host of heaven, he comes to praises glorified with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er nimmt ein funkelndes Aussehen an; dies ist seine Farbe. Wo er im Zusammenstoß erlag, beseitigt er die Schäden. Das Wasser gewinnend geht er aus eigenem Antrieb zu dem göttlichen Volke; er stimmt ein in den Lobgesang, in das Gebet, dem die Milchtränke vorangehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schafft sich lichte Schönheit, das ist seine Art, wo er verweilt, vertreibt die Feinde er im Kampf, Trank spendend geht voll Lust er zu der Götter Stamm, vereint sich liebend mit Gesang und Milcherguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он создает себе сверкающий облик: это цвет его.  
 Когда он полег в столкновении, он исправляет ошибки.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं हि꣡रण्यवन्धुरम्  
 इ꣡न्द्रवायू सुअध्वर꣡म्  
 आ꣡ हि꣡ स्था꣡थो दिविस्पृ꣡शम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । हि । स्थाथः॑ । दि॒वि॒ऽस्पृश॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -87,41 +87,41 @@ genre M
 हे **इन्द्रवायू** हिरण्यवन्धुरं हिरण्मयनिवासीधारकाष्ठोपेतं **दिविस्पृशं** द्युलोकम्पर्शिनं **स्वध्वरं** शोभनाध्वरवन्तं **रथम्** **आ** **स्थाथः** **हि** आस्थितौ खलु । यस्मादेवं तस्मादागच्छतमित्यर्थः । स्वध्वरं प्रत्यास्थाय इति वा व्याख्येयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mount, **Indra** and **Vāyu**, the golden-seated chariot, propitious to sacrifice, soaring to heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Vāyu, the chariot with the golden chariot box, good for the  ceremony,  
 touching heaven—because you will mount it—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner unaccountably tr. the apparent aor. subjunctive sthā́thaḥ as an impv.; Renou suggests that it may have a “nuance injonctive (malgré les désinences primaires).” Neither of these makeshifts seems necessary. Because of the hí I take this vs. as the foundation for the next, journey vs. -- first mount, then drive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For ye, O Indra-Vayu, mount the goldenseated car that aids  
      The sacrifice, that reaches heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besteiget darum den das Opfer verschönenden Wagen mit goldnem Sitze, der an den Himmel reicht, Indra und Vayu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn, Indra-Vaju, ihr besteigt den Wagen, der zum Himmel dringt, Den festlichen mit goldnem Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А потому взойдите на колесницу  
 С золотым сиденьем, о Индра-Ваю,  

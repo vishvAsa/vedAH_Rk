@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡राद्य꣡ देवा꣡ वृजिनं꣡ शृणन्तु  
 प्रत्य꣡ग् एनं शप꣡था यन्तु तृष्टाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्यैतु प्र꣡सितिं यातुधा꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वा॒चाऽस्ते॑नम् । शर॑वः । ऋ॒च्छ॒न्तु॒ । मर्म॑न् । विश्व॑स्य । ए॒तु॒ । प्रऽसि॑तिम् । या॒तु॒ऽधानः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parādya* ← *parā*
 - \[adverb\]
@@ -115,36 +115,36 @@ popular
 **अद्य** अस्मिन्नहनि **देवाः** अग्निपुरोगाः सर्वे देवाः **वृजिनं** प्राणिनां प्राणैवर्जितारं यातुधानं **परा** **शृणन्तु** । अथ **एनम्** आयान्तं राक्षसं **तृष्टाः** कटुका अस्माभिरुक्ताः **शपथाः** **प्रत्यक्** **यन्तु**। किंच **वाचास्तेनम्** अनृतवचनमेनं यातुधानं **शरवः** शराः **मर्मन्** मर्मणि **ऋच्छन्तु** गच्छन्तु । **विश्वस्य** व्याप्तस्याग्नेः **प्रसितिं** जालम् । तथा च यास्कः --- ‘ प्रसितिः प्रसयनात्तन्तुर्वा जालं वा ' (निरु. ६. १२) इति । जालं **यातुधानः** राक्षसः **एतु** गच्छतु ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let all the gods today destroy the murderous (**Yātudhāna**); let our sharp imprecations encounterhim; may the arrows hit the speaker of falsehood in a vital part; may the Yātudhāna go into the bondage of theall-pervading **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the gods pound away the crooked man today, and let his harsh  curses come back on him.  
 Let their missiles reach the man thieving with speech at his vulnerable  spot. Let the sorcerer meet the onslaught of every (god).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Gods destroy this day the evil-doer may each hot curse of his return and blast him.  
      Let arrows pierce the liar in his vitals, and Visva's net enclose the Yatudhana.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heute sollen die Götter den Falschen zerbrechen, auf ihn sollen die giftigen Flüche zurückfallen. Den Verhexer sollen die Geschosse treffen an seiner verwundbaren Stelle! Einem jeden soll der Zauberer ins Garn gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Bösen mögen Götter heut zermalmen, die rauhen Flüche auf ihn selbst sich kehren, Den Lügner Pfeile in die Weichen treffen, und jedem fall der Zaubrer in die Hände.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть разобьют сегодня боги лживого!  
 Пусть грубые проклятия обернутся против него самого!  

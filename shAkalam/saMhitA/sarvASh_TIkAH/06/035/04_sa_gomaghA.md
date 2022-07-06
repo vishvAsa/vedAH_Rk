@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ गो꣡मघा जरित्रे꣡ अ꣡श्वश्चन्द्रा  
 वा꣡जश्रवसो अ꣡धि धेहि पृ꣡क्षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भर꣡द्वाजेषु सुरु꣡चो रुरुच्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पी॒पि॒हि । इषः॑ । सु॒ऽदुघा॑म् । इ॒न्द्र॒ । धे॒नुम् । भ॒रत्ऽवा॑जेषु । सु॒ऽरुचः॑ । रु॒रु॒च्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 हे इन्द्र **सः** त्वं **जरित्रे** स्तोत्रे **गोमघाः** गवां दात्री: **अश्वश्चन्द्राः** अश्वैराह्लादयन्तीः **वाजश्रवसः** वाजैर्बलैः प्रसिद्धा एवंभूताः **पृक्षः** अन्नानि **भरद्वाजेषु** भरद्वाजपुत्रेष्वस्मासु **अधि** **धेहि** धारय । तथा **इषः** तान्यन्नानि **सुदुघां** शोभनदोग्ध्रीं **धेनुं** गां च हे **इन्द्र** **पीपिहि** प्यायय । अपि च ता इषो गौश्च **सुरुचः** शोभनदीप्तयो यथा भवन्ति तथा त्वं **रुरुच्याः** दीपयेः । शोभनदीप्तियुक्ताश्च ताः सन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant, **Indra**, to your adorer (abundant) food, productive of cattle, plural asant with horses, and renowned for vigour; multiply nourishment, and (cherish) the kine easily milked, and render them so that they may be resplendent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lay on for the singer nourishments whose bounty is cattle, whose glitter  is horses, whose fame is prizes of victory.  
 Swell the good-milking cow with refreshments, Indra. Might you make  them shine very bright among the Bharadvājas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both jaritré and gómaghā are repeated from the previous vs. (where they were not in the same clause), though the latter has changed gender: in 3c it is neut.
 
@@ -154,23 +154,23 @@ As for this verb, it should have transitive/causative value (‘make shine / ill
 This overlap is complicated by the fact that several apparent pf. forms rurucuḥ also have this value, in some of which lengthening the redupl. to *rūrucuḥ would provide a better cadence, though in our passage such a lengthening would produce a worse cadence. For disc. of these ambiguous forms see comm. ad IV.7.1, 16.4. As I say there, because the 3rd sg. pf. ruroca and the pf. part. are intransitive, I am inclined to think that the transitive 3rd pl. forms originated in the redupl. aor. but were absorbed by the pf., with shortening of the redupl. vowel.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant to the Singer food with store of cattle, splendid with horses and the fame of riches.  
      Send food to swell the milch-cow good at milking: bright be its shine among the Bharadvajas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring dem Sänger Stärkungen, in Kuhschenkung bestehend, durch Rosse ausgezeichnet, durch Ehrenpreise berühmt! Laß Speisen anschwellen, Indra, die gute Kuh! Bei den Bharadvaja´s solltest du dich in gutem Lichte zeigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib du dem Sänger rinderreiche Nahrung, die glänzend sei an Rossen und an Schätzen, Mach fett die Tränke, reich an Milch die Milchkuh; schönstrahlend strahl den Bharadvadschern, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надели восхвалителя подкреплениями,  
 Сопровождаемыми дарами из коров, отмеченными конями, прославленными наградами!  

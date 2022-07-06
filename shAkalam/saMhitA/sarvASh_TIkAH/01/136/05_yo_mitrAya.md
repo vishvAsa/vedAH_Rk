@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मित्रा꣡य व꣡रुणाया꣡विधज् ज꣡नो  
 अनर्वा꣡णं त꣡म् प꣡रि पातो अं꣡हसो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 स्तो꣡मैर् आभू꣡षति व्रत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 उ॒क्थैः । यः । ए॒नोः॒ । प॒रि॒ऽभूष॑ति । व्र॒तम् । स्तोमैः॑ । आ॒ऽभूष॑ति । व्र॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -168,38 +168,38 @@ genre M
 “अभि **रक्षति** अभितो रक्षति । कोऽस्य जनस्य विशेषः इति तत्राह । **यः** यजमानः **उक्थैः** शस्त्रैः **एनोः** एनयोर्मित्रावरुणयोः **व्रतं** कर्म **परिभूषति** परिगृह्णाति तथा यजमानो युष्मदीयं **व्रतं** कर्म **स्तोमैः** स्तोत्रैर्गानयुक्तमन्त्रसाध्यैः **आभूषति** सर्वतोऽलंकरोति ॥  ‘ भूष अलंकारे । भौवादिकः ॥ तम् अभिरक्षति इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever individual offers adoration to **Mitra** and **Varuṇa**, do you preserve him entirely unharmed from sin; (preserve) from sin the mortal who presents you (with oblations); may **Aryaman** protect him who is sincere in his devotion, who offers worship addressed to both (Mitra and Varuṇa) with prayers; who offers worship with praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The person who has done honor to Mitra and Varuṇa, that unassailable  one do you two protect all around from difficult straits—the pious  
 mortal from difficult straits.  
 Him Aryaman guards, him who aims straight following his commandment, him who with hymns tends to the commandment of these two—with  praises tends to their commandment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso, with worship serves Mitra and Varuna, him guard ye carefully, uninjured, from distress, guard from distress the liberal man.  
      Aryaman guards him well who acts uprightly following his law,  
      Who beautifies their service with his lauds, who makes it beautiful with songs of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Mann es dem Mitra und Varuna recht gemacht hat, den schützen sie unangefochten vor Not, den opferspendenden Sterblichen vor Not. Wer recht wandelt nach dem Gebot, den behütet Aryaman, wer mit Lobliedern des Dienstes beider wartet, mit Preisliedern ihres Dienstes wartet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Mann, der Varuna und Mitra dienend ehrt, den schützen sie, dass nimmer ihn Gefahr bedrängt, den frommen Menschen vor Gefahr, Und den beschirmet Arjaman, der rechtlich lebt nach dem Gesetz, Der das Gesetz der beiden mit Gesängen schmückt mit Sprüchen preiset ihr Gesetz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) человек, кто служил Митре (и) Варуне, –  
 (Сделав его) неуязвимым, они охраняют его со всех сторон от узости,  

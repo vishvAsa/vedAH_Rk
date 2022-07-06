@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मस्य धा꣡रा पवते नृच꣡क्षस  
 ऋते꣡न देवा꣡न् हवते दिव꣡स् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 समुद्रा꣡सो न꣡ स꣡वनानि विव्यचुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतेः॑ । र॒वथे॑न । वि । दि॒द्यु॒ते॒ । स॒मु॒द्रासः॑ । न । सव॑नानि । वि॒व्य॒चुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
@@ -112,20 +112,20 @@ genre M
 सोमस्य अभिषूयमाणस्य **धारा** **पवते** श्चोतते । कीदृशस्य सोमस्य । **नृचक्षसः** नृणां यजमानानां द्रष्टुः । स च **ऋतेन** यज्ञेन **देवान्** सोमभाज इन्द्रादीन **हवते**। कुत्र । **दिवस्परि** द्युलोकस्योपरि वर्तमानान् । **बृहस्पतेः** मन्त्रपालकस्य स्तोतुः **रवथेन** शब्देन स्तोत्रेण **वि** **दिद्युते** विद्योतते । **समुद्रासो** **न** समुद्रा इव पृथिवीं **सवनानि** यज्ञसंबन्धीनि **विव्यचुः** व्याप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The stream of the **Soma**, the contemplator of man, flows forth; it invites by the sacrifice the gods (who dwell) above the sky; it shines forth at the voice of the sacrificer; the libations cover (the earth) like rivers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It purifies itself—the stream of Soma, who has the gaze of men. With  truth he summons the gods from heaven.  
 With the roar of Br̥haspati he has flashed forth. Like seas they [=the  waters?] envelop the pressings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rhyming verbs pavate and havate take identical positions in pādas a and b respectively. See also 2d pavase, 3a pavate, 3b śrávase in the same position.
 
@@ -140,23 +140,23 @@ necessary in this context to express that value. Otherwise, the full-grade 3rd p
 Kümmel considers the injunc. excluded here, but in fact I think it’s quite possible: “they have enveloped the pressings,” parallel to ví didyute ‘has flashed forth’ in c, and might alter the tr. in to the preterital one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ON flows the stream of Soma who beholds mankind: by everlasting Law he calls the Gods from heaven.  
      He lightens with the roaring of Br aspati: h the lakes have not contained the pourings of juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Strom des Soma mit dem Herrscherauge läutert sich; er ruft ordnungsgemäß die Götter vom Himmel. Mit des Brihaspati lautem Schalle blitzt er auf. Wie die Meere und die Flüsse so haben sie die Somaspenden in sich aufgenommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rieselt hell des männerschaunden Soma Strom; die Götter ruft durch heil'ges Werk vom Himmel er; Er blitzet auf mit des Gebetsherrn Donnerton, die Meeresbecken fassen seine Säfte nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищается поток сомы со взглядом героя.  
 Он зовет с неба богов в соответствии с (вселенским) законом.  

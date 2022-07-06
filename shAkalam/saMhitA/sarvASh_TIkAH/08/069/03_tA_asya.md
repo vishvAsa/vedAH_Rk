@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अस्य सू꣡ददोहसः  
 सो꣡मं श्रीणन्ति पृ꣡श्नयः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त्रिषु꣡ आ꣡ रोचने꣡ दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 जन्म॑न् । दे॒वाना॑म् । विशः॑ । त्रि॒षु । आ । रो॒च॒ने । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -100,7 +100,7 @@ genre M;; repeated line
 **ताः** प्रसिद्धाः **सूददोहसः** । सूद इति कूपनाम । तत्सदृशदोहनाः **पृश्नयः** पृश्निवर्णा गावः **अस्य** इन्द्रस्य **सोमं** **श्रीणन्ति** मिश्रयन्त्याशिरेण । कदा । **त्रिषु** त्रिष्वपि सवनेषु । गावो विशेष्यन्ते । **देवानां** **जन्मन्** जन्मस्थाने । दिवीत्यर्थः । **दिवः** आदित्यस्य **आ** **रोचने** आरोचमाने । अनेन द्यौर्विशेष्यते । तस्मिन् स्थाने **विशः** निविशन्त्यः । यज्ञार्थोपयुक्तानां गवां द्युप्राप्तिः प्रसिद्धा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ Anapauraḥ = not struggling against being milked;
 Apasphurām =bursting forth, i.e. when the white cows come without starting away, ten take the gushing Soma for **Indra** todrink
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These dappled cows, which give the sweetening milk, prepare the soma  for him [=Indra].  
 At its birth the clans of the gods are in the three luminous realms of  heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas seem rather briskly to clear up the uncertainties of the previous verse, or give at least one reading thereof: soma, the cows that give the milk to mix with soma, and Indra (though not by name) are all present, and their relationships are clear.
 
@@ -132,23 +132,23 @@ The connection of the last half of the verse to what precedes is not clear, as G
 There is number discrepancy between pl. triṣú and sg. rocané, as also in the identical pāda in I.105.5b. On the basis of expressions like I.102.8 trī́ṇi rocanā́, V.69.1 trī́rocanā́, I.149.4 trī́rocanā́ni the two words must be construed together and a truncation of rocanéṣu must be assumed. I don’t quite know why, but Bloomfield (Rig-Veda Repetitions ad I.105.5) points out that rocané diváḥ is a frequent cadence, and it therefore may have imposed itself formulaically in this phrase. Also the alternation between trī́ and trī́ṇi and rocanā́and rocanā́ni in the formula may have made an alternative rocané to rocanéṣu seem acceptable. In fact loc. pl. rocanéṣu is only attested once.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The dappled kine who stream with milk prepare his draught of Soma juice:  
      Clans in the birth-place of the Gods, in the three luminous realms of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese scheckigen Kühe, die die Zutat zum Soma milchen, mischen seinen Soma. Bei seiner Geburt sind der Götter Clane in den drei Lichträumen des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe strömend süsse Milch, erwärmen seinen Opfertrank; In den drei Himmeln ist vereint der Götter Schar, wenn er entspringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

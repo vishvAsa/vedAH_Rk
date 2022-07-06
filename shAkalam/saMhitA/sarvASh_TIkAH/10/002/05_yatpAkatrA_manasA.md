@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् पाकत्रा꣡ म꣡नसा दीन꣡दक्षा  
 न꣡ यज्ञ꣡स्य मन्वते꣡ म꣡र्तियासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡जिष्ठो देवाँ꣡ ऋतुशो꣡ यजाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । तत् । होता॑ । क्र॒तु॒ऽवित् । वि॒ऽजा॒नन् । यजि॑ष्ठः । दे॒वान् । ऋ॒तु॒ऽशः । य॒जा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -124,7 +124,7 @@ genre M
 **दीनदक्षाः** सततयाजनेन दीनबला दीनोत्साहा वा **मर्त्यासः** मर्त्या मनुष्या ऋत्विजः **पाकत्रा** पाकेन । बहुलग्रहणादस्मादपि तृतीयार्थे त्राप्रत्यर्थः । पाकेन पक्तव्येन विशिष्टज्ञानरहितेनाल्पेन वा मनसा युक्ताः सन्तो यज्ञसंबन्धि **यत्** कर्म **न** **मन्वते** न जानन्ति तत् कर्म **विजानन्** **होता** देवानामाह्वाता होमनिष्पादको वा **क्रतुवित्** कर्मवित् **यजिष्ठः** देवानामतिशयेन यष्टा सः **अग्निः** स्विष्टकृत् **ऋतुशः** ऋतावृतौ स्वे स्वे यागयोग्ये काले **देवान्** **यजाति** यजतु हविर्भिः पूजयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Are unacquainted with the sacrifice: do not think of(remember) the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If, naively in their thinking and scant in skill, mortals do not pay heed to  the sacrifice,  
 discerning Agni, the Hotar, finding the resolve, will sacrifice to the gods  as best sacrificer according to the ritual sequence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, weak in mind, of feeble understanding, mortals bethink them not of sacrificing,  
      Then shall the prudent and discerning Agni worship the Gods, best worshipper, in season.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was die Sterblichen aus Einfalt im Herzen, in ihrem schwachen Verstand von dem Opfer nicht in acht nehmen, das soll Agni, der ratfindende Hotri, herauskennen, und dann als bester Opferer nach der Zeitfolge den Göttern opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Sterbliche, im Geiste schwach an Einsicht in Thorheit nicht des Gottesdiensts gedenken, So opfre weise, dies erkennend Agni, der beste Opfrer rechter Zeit den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чего смертные не разберут в жертвоприношении  
 От незрелой мысли (и) слабого разумения,  

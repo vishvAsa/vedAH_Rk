@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पौरो꣡ अ꣡श्वस्य पुरुकृ꣡द् ग꣡वाम् असि  
 उ꣡त्सो देव हिरण्य꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡द्-यद् या꣡मि त꣡द् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नकिः॑ । हि । दान॑म् । प॒रि॒ऽमर्धि॑षत् । त्वे इति॑ । यत्ऽय॑त् । यामि॑ । तत् । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pauro* ← *pauraḥ* ← *paura*
 - \[noun\], nominative, singular, masculine
@@ -128,43 +128,43 @@ genre M
 हे इन्द्र त्वम् **अश्वस्य** **पौरः** पूरयिता **असि** भवसि । तथा **गवां** **पुरुकृत्** बहुकर्तासि । हे **देव** **हिरण्ययः** हिरण्मयशरीरस्त्वम् **उत्सः** उत्ससदृशोऽसि । हे इन्द्र **त्वे** त्वयि वर्तमानं **दानम्** अस्मद्विषयं देयं धनं वा **नकिः** **परिमर्धिषत्** न कश्चिद्धिनस्ति । अतः **यद्यद्यामि** याचे **तदा** **भर** आहर मह्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the increaser of horses, the multiplier of cows; you, deity, with your golden body; none canharm the gifts laid up for me in you; bring me whatever I ask.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As multiplicity yourself, you are a multiplier of horseflesh, of cattle;  you are a golden wellspring, o god,  
 for no one will shun a gift in your (control). Whatever I beg for, bring  that here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although paurá- is generally a PN in the RV (see Mayrhofer, Die Personenname in der Ṛgveda-Saṃhitā s.v.), reflecting the patronymic it is morphologically, here it cannot be so meant. Among other things, Indra cannot be a descendent of Puru! In this passage it puns on purukṛ́t in the same pāda, as well as purūvaso in 3a, purū́in 8a. Geldner’s tr. takes account of this word play (“Mehrer der Rossherde”), but I don’t think that it should be construed with a genitive as he takes it. I take both genitives (áśvasya … gávām) with purukṛ́t (so also Scarlatta 76) and interpret paurá- as ‘stemming from / related to much(ness)’, that is, ‘muchness itself’; “multiplicity … multiplier” is an attempt to capture the pun in English without undue awkwardness.
 
 In c Geldner (also Oldenberg) takes dā́nam as subject: “bei dir bleibt die Gabe niemals aus,” but the verbal forms to √mṛdh are otherwise always transitive. Oldenberg cites VII.59.4 as parallel, but the parallelism is only apparent and the verb there is also transitive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Increaser of our steeds and multiplying kine, a golden well, O God, art thou,  
      For no one may impair the gifts laid up in thee. Bring me whatever thing I ask.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist Mehrer der Roßherde, Vermehrer der Rinderherde, ein goldener Born, o Gott, denn bei dir bleibt die Gabe niemals aus. Worum ich dich auch bitte, das bring mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du spendest Rosse, du vermehrst der Rinder Zahl, o Gott, des Goldes Quelle du; Denn nie erschöpfet deiner Gaben Fülle sich; was ich auch bitte, bring' herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты даришь коней, умножаешь (число) коров,  
 (Ты) золотой источник, о бог.  

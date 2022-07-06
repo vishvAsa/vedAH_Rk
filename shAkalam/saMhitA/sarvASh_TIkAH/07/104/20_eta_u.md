@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡ उ त्ये꣡ पतयन्ति श्व꣡यातव  
 इ꣡न्द्रं दिप्सन्ति दिप्स꣡वो अ꣡दाभियम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नूनं꣡ सृजद् अश꣡निं यातुम꣡द्भियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शिशी॑ते । श॒क्रः । पिशु॑नेभ्यः । व॒धम् । नू॒नम् । सृ॒ज॒त् । अ॒शनि॑म् । या॒तु॒मत्ऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -110,36 +110,36 @@ popular
 **त्ये** ते एते राक्षसाः **श्वयातवः** श्वभिः परिकरभूतैर्हिंसन्तः श्वभिः सह यान्तो वा **पतयन्ति** पतन्ति । ये **दिप्सवः** जिघांसवः सन्तः **अदाभ्यम्** अहिंस्यम् **इन्द्रं** **दिप्सन्ति** जिघांसन्ति तेभ्यः **पिशुनेभ्यः** पिशुनान् कपटान् हन्तुं **शक्रः** शक्त इन्द्रः **वधम्** आयुधमशनिरूपं **शिशीते** तीक्ष्णीकरोति । **यातुमद्भ्यः** राक्षसेभ्यः **नूनं** क्षिप्रम् **अशनिं** **सृजत्** विसृजतु हननार्थम् ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They advance, accompanied by dogs; desirous to destroy him, they assail the indomitable **Indra**;**Śakra** whets his thunderbolt for the miscreants; quickly let him hurl the bolt upon the fiends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These very dog-sorcerers are flying. Those inclined to deceit desire to  deceive Indra, the undeceivable.  
 The able one is honing his weapon of death for the slanderers. Now he  discharges the missile toward the sorcerers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They fly, the demon dogs, and, bent on mischief, fain would they harm indomitable Indra.  
      Sakra makes sharp his weapon for the wicked: now, let him cast his bolt at fiendish wizards.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese fliegen als Werwölfe umher. Den vor Schädigung sicheren Indra suchen die Schadensüchtigen zu schädigen. Sakra schärft für die Verleumder die Waffe. Möge er jetzt den Stein gegen die Zauberer schleudern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rennen dort die hundegleichen Geister, zu schäd'gen Indra, ihn, den niemand schädigt; Der starke schärft für Böse seine Waffe, jetzt schleudre er den Blitz auf die Gespenster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот они летают туда-сюда эти собачьи колдуны.  
 Желающие навредить, они стремятся навредить Индре, которому нельзя навредить.  

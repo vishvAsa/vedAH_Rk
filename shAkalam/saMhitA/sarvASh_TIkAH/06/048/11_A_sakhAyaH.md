@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सखायः सबर्दु꣡घां  
 धेनु꣡म् अजध्वम् उ꣡प न꣡व्यसा व꣡चः  
 सृज꣡ध्वम् अ꣡नपस्फुराम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सृ॒जध्व॑म् । अन॑पऽस्फुराम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M
 हे **सखायः** समानख्याना अध्वर्यवः **सबर्दुघाम्** । सबरिति पयसो नाम । अमरणहेतुभूतस्य पयसो दोग्ध्रीं **धेनुं** गाम् **आ** **अजध्वम्** अभिगच्छत । प्राप्नुत । केन साधनेन । **नव्यसा** नवीयसा नवतरेण **वचः** वचसाह्वानरूपेण शब्देन । तदनन्तरम् **अनपस्फुराम्** । स्फुरतिर्वधकर्मा । अनपबाध्यां तां धेनुम् **उप** **सृजध्वम्** । वत्सेनोपसृष्टां कुरुत । मरुद्देवत्यत्वात् मरुतां यागाय पयो दोग्धुमिति शेषः । अथवा मरुतां माता पृश्न्याख्या माध्यमिका वाक् धेनुः । हे सखायः स्तोतारः सबर्दुघां मरुज्जनहेतुभूतस्य पयसो दोग्ध्रीं धेनुं पृश्निं नव्यसा नवतरेण वचसा स्तोत्रेणोपाजध्वम् उपागच्छत । अनपस्फुरामनपबाधनीयां तां सृजध्वम् । बन्धनात् विसृजत । मुञ्चत । ईदृशी महती धेनुर्मरुतां माता किमु वक्तव्यं तेषां माहात्म्यमिति मरुत्स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,12 +89,12 @@ genre M
 **Dhenu**: this is the first of a series of ṛcas in which the **Maruts** are the deities, either with reference to the milk which is their appropriate offering at sacrifices, or to **Pṛśni**, the mythological mother of the Maruts, in the form of a cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Comrades, drive near a juice-yielding milk-cow with your newer speech. Send one who doesn’t kick—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On návyasā vácaḥ # see comm. ad VIII.39.2, I.26.2.
 
@@ -109,23 +109,23 @@ On these three vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O friends, with newest song drive her who freely pours her milk;  
      Loose her who never turns away;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Freunde! Treibt die immermelke Kuh mit der neuesten Rede her, laßt sie zum Melken zu, die nie ausschlägt;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Führt her die nektarmilchende, stromreiche, opferschmückende, Die Milchkuh, Freunde, unter neuem Lobgesang, und melkt die nicht sich sträubende,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Друзья, хорошо доящуюся  
 Корову пригоните сюда с помощью новой речи,  

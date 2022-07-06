@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व व्रते꣡ सुभ꣡गासः सियाम  
 सुआधि꣡यो वरुण तुष्टुवां꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्न꣡यो न꣡ ज꣡रमाणा अ꣡नु द्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒प॒ऽअय॑ने । उ॒षसा॑म् । गोऽम॑तीनाम् । अ॒ग्नयः॑ । न । जर॑माणाः । अनु॑ । द्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -111,36 +111,36 @@ genre M
 हेवरुण स्वाध्यः शोभनाध्यानाः तुष्द्टुवांसः स्तुतवन्तोवयं तवव्रतेत्वदीयेपरिचरणाख्ये कर्म- णिवर्तमानाः सुभगासःस्याम शोभनधनाभवेम अपिचगोमतीनांरश्मिभिर्युक्तानामुषसांउपायने उपा ममनेसति अग्नयोन यथाअग्नयोग्निहोत्रादिकर्मार्थंसमिध्यन्ते एवमनुद्यून् अनुदितञ्जरमाणास्त्वांस्तु वन्तोवयन्दीप्यमानाभवेम ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, **Varuṇa**, deeply meditating on you, earnestly praising you, and (engaged) in your worship, be prosperous; glorifying you daily, like the fires (that are kindled in your honour) at the coming of the luminous dawns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be possessed of good fortune under your commandment,  since with great attention we have recited your praises, Varuṇa,  
 (now) at the approach of the cattle-rich dawns, since we are awakening  like fires throughout the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 तव॑ व्र॒ते सु॒भगा॑सः स्याम स्वा॒ध्यो॑ वरुण तुष्टु॒वांसः॑ ।  
 उ॒पाय॑न उ॒षसां॒ गोम॑तीनाम॒ग्नयो॒ न जर॑माणा॒ अनु॒ द्यून् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deinem Gebote wollen wir glücklich sein, da wir dich, Varuna, in guter Absicht gepriesen haben, bei dem Nahen der rinderreichen Morgenröten tagtäglich wie die Opferfeuer früh erwachend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deinem Dienste lass uns hochbeglückt sein, die wir voll Andacht, Varuna, dich preisen Beim Nahn der rinderreichen Morgenröthen, wie Feuerflammen, welche täglich knistern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы счастливы в твоем завете,  
 Восхвалив (тебя,) о Варуна, с добрыми намерениями,  

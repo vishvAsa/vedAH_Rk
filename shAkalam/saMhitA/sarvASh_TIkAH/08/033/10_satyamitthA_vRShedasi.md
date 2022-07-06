@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्य꣡म् इत्था꣡ वृ꣡षे꣡द् असि  
 वृ꣡षजूतिर् नो अ꣡वृतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वृ꣡षो अर्वाव꣡ति श्रुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । हि । उ॒ग्र॒ । शृ॒ण्वि॒षे । प॒रा॒ऽवति॑ । वृषो॒ इति॑ । अ॒र्वा॒ऽवति॑ । श्रु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
@@ -117,36 +117,36 @@ genre M
 हे **उग्र** उद्गूर्णेन्द्र त्वं **सत्यम्** **इत्था** इत्थं **वृषेत्** कामानां वर्षक एव **असि** । **वृषजूतिः** वृषभिश्चाकृष्टः **नः** अस्माकम् **अवृतः** शत्रुभिरपरिवृतश्चासि । **वृषा** **हि** सेचक एव **शृण्विषे** श्रूयसे । **परावति** दूरेऽपि वृषैव **अर्वावति** समीपेऽपि वृषा सेचक एव **श्रुतः** वृषैवाश्रूयथाः ॥ ॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily (**Indra**), in this manner you are the showerer (of benefits), brought by vigorous (steeds) to us,unresisted (by foes); fierce (Indra), you are celebrated as a showerer (of benefits) when afar; you are celebratedas a showerer (of benefits) when near.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is truly so: you alone are the bull for us, with the speed of a bull,  unobstructable—  
 for as a bull, strong one, you are famed in the distance, as a bull famed  nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, verily, thou art a Bull, with a bull's rush. whom none may stay:  
      Thou Mighty One, art celebrated as a Bull, famed as a Bull both near and far.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrhaftig, so ist es: Du bist uns der Bulle mit Bullensprungkraft, unaufhaltsam, denn du Gewaltiger bist als Bulle in der Ferne berühmt und als Bulle in der Nähe berühmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du wahrlich bist ein rechter Stier, mit Stieres Andrang, ungehemmt, Als Stier, o starker, rühmt man in der Ferne dich, als Stier auch in der Nähe dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты и правда, в самом деле, бык,  
 С бычьим порывом, неудержимый для нас.  

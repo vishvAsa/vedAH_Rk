@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कः꣡ स्विद् वृक्षो꣡ नि꣡ष्ठितो म꣡ध्ये अ꣡र्णसो  
 यं꣡ तौग्रियो꣡ नाधितः꣡ पर्य꣡षस्वजत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उ꣡द् अश्विना ऊहथुः श्रो꣡मताय क꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प॒र्णा । मृ॒गस्य॑ । प॒तरोः॑ऽइव । आ॒ऽरभे॑ । उत् । अ॒श्वि॒ना॒ । ऊ॒ह॒थुः॒ । श्रोम॑ताय । कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **कः** **स्वित्** कश्चिदनुग्राहकः **वृक्षः** वृक्षविकारो रथः । विकारे प्रकृतिशब्दः । यद्वा । संस्तवाभिप्रायमेतत् । स्तोत्राख्यो वृक्ष इत्यर्थः । कीदृशो रथः । **निष्ठितः** निश्चलं वर्तमानः । कुत्रेति उच्यते । **अर्णसः** उदकस्य **मध्ये** । **यं** वृक्षं **तौग्र्यः** तुग्रपुत्रो भुज्युः **नाधितः** याचमानः **पर्यषस्वजत्** परिष्वक्तमकरोत् । आलम्बने दृष्टान्तः । **पतरोः** पतनशीलस्य मृगस्य मार्जयितुः शोधयितुर्हिंसादेः **आरभे** आलम्बनाय पर्णानीव । तानि यथा आलम्बनाय प्रभवन्ति तद्वत् । हे **अश्विनौ** **श्रोमताय** कीर्तिमत्त्वाय **उत्** **ऊहथुः** उर्ध्वं प्रापयथः । स्तुतिपक्षे स्तोत्राख्यं वृक्षमाश्रितवन्तं तमूहथुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 As leaves for the support: parṇā mṛgasya patatorivārabhe: **mṛga** = mārjaytrī śodhayitrī, a sweeper, a cleaner; thus, like leaves for the support or prop in the occurrence of injury, and the like, of a sweeper when falling, patanaśīlasya mārjayituḥ śodhayitur hiṃsāder ārabhe ālambanāya parṇāniva, as they are sufficient for support, tāni yathālambanāya prabhavanti tad vat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What tree emerged in the midst of the flood to which the son of Tugra  clung in his distress,  
 to grab hold of its leaves as if to the feathers of a wild bird in flight? You  carried him up, o Aśvins, for (his story) to be heard.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann, etc. (incl. Scarlatta, p. 648) I take níṣṭhita- to √sthā + nís, not ní.
 
@@ -152,23 +152,23 @@ The mṛgá- seems to be specifically a wild bird, like its Avestan cognate mər
 Geldner tr. śrómatāya kám as “(euch) zum Ruhme”; that is, the Aśvins will accrue fame from their rescue of Bhujyu. This is certainly possible, and the stem śrómatadoes mean ‘fame’ once elsewhere (cf. VIII.66.9), though it usually means, by my interpr., ‘attentive hearing’ (VI.19.10, VII.24.5). Here also I take it to mean ‘hearing’: ‘for hearing’, that is, for the story to be heard. Witzel Gotō tr. “zur Gehorsamkeit” and in the n. specify that it is Bhujyu who should be obedient. Since as far as I now Bhujyu hadn’t been disobedient, and certainly not to the Aśvins, I don’t understand the interpr., esp. as śrómata- doesn’t elsewhere mean ‘obedience’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What tree was that which stood fixed in surrounding sea to which the son of Tugra supplicating clung?  
      Like twigs, of which some winged creature may take hold, ye, Asvins, bore him off safely to your renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Baum war denn mitten im Meere hervorgewachsen, den der Tugrasohn in seiner Not umklammert hätte, um sich daran festzuhalten wie an dem Gefieder eines fliegenden Vogels? Ihr Asvin holtet ihn heraus euch zum Ruhme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Baum doch war es mitten in des Meeres Flut, den Tugras Sohn in seiner Noth umklammerte? Des Flügelrosses Fittige erfasste er, da fuhrt ihr Ritter ihn heraus zu grossem Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что это (было) за дерево, стоявшее посреди потока,  
 Которое охватил сын Тугры, попавший в беду,  

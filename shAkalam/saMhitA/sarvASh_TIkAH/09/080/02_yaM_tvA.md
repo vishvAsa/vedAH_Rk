@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा वाजिन्न् अघ्निया꣡ अभ्य् अ꣡नूषत  
 अ꣡योहतं यो꣡निम् आ꣡ रोहसि द्युमा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्राय सोम पवसे वृ꣡षा म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒घोना॑म् । आयुः॑ । प्र॒ऽति॒रन् । महि॑ । श्रवः॑ । इन्द्रा॑य । सो॒म॒ । प॒व॒से॒ । वृषा॑ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 हे **वाजिन्** अन्नवन् सोम **यं** **त्वा** त्वाम् अघ्न्याः अहननीया गावः **अभ्यनूषत** अभिष्टुवन्ति । आशिरार्थं स्थिताः शब्दायन्त इत्यर्थः । स त्वम् **अयोहतम्** । अय इति हिरण्यनाम । तेन तद्वान् पाणिर्लक्ष्यते । हिरण्मयेन पाणिना हतं संस्कृतं योनिं स्थानम् **आ** **रोहसि** **द्युमान्** दीप्तः सन् । ‘ अभि योनिमयोहतम्' (ऋ. सं. ९. १. २) इति ह्युक्तम् । किंच हे सोम **मघोनां** हविष्मतां यजमानानाम् **आयुः** आयुष्यं **महि** महत् **श्रवः** अन्नं यशो वा **प्रतिरन्** वर्धयन् **इन्द्राय** इन्द्रार्थं **पवसे** पूयसे । **वृषा** वर्षको **मदः** मदकरश्च त्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ genre M
 Whom the kine praise: aghnyaḥ = āhananīha **gāvaḥ**, the kine which are brought to the sacrifice and milked for the curds with which the Soma is mixed, are lowing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o prizewinner, toward whom the cows have bellowed—brilliant, you  mount the metal-hammered womb [=cup].  
 Lengthening the lifetime of the bounteous ones and their great fame, o  Soma, for Indra you purify yourself as bullish exhilaration.1314 IX.81
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On áyo-hata- see comm. ad IX.1.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, powerful Soma, thou to whom the cows have -lowed, ascendest bright with sheen, thine iron-fashioned home.  
      Thou, lengthening our princes' life and high renown, flowest for Indra as his might to gladdening drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Preisgewinner, dem die Kühe zugebrüllt haben, besteigst glänzend deine eisenbehauene Wiege. Der freigebige Gönner Lebenszeit und großen Ruhm mehrend läuterst du dich, Soma, für Indra als der bullenartige Rauschtrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du rascher, dem die Kühe jetzt entgegenschrien, steigst glänzend nieder in den erzbesehlagnen Schooss, Den Fürsten schenkend langes Alter, hohen Ruhm, du starker Trank, o Soma, strömst dem Indra zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О завоеватель награды, которого приветствовали (мычанием) коровы,  
 Сверкающий, ты восходишь на место, обитое железом.  

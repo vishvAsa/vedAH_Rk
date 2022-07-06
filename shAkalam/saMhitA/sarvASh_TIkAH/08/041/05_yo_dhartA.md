@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ धर्ता꣡ भु꣡वनानां᳐  
 य꣡ उस्रा꣡णाम् अपीचि꣡या  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । क॒विः । काव्या॑ । पु॒रु । रू॒पम् । द्यौःऽइ॑व । पु॒ष्य॒ति॒ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -136,14 +136,14 @@ genre M;; repeated line
 **यः** वरुणः **भुवनानां** **धर्ता** धारयिता **यः** च **उस्राणां** देवाधिष्ठानभूतानां रश्मीनाम् **अपीच्या** अपीच्यान्यन्तर्हितानि **गुह्या** गुह्यानि गुहायां निहितानि **नामानि** **वेद** जानाति **सः** वरुणः **कविः** प्राज्ञः सन् **काव्या** काव्यानि कविकर्माणि **पुरु** बहूनि **रूपं** **द्यौरिव** **पुष्यति** । सिद्धमन्यत् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is the sustainer of the worlds, who knows the hidden and secret names of the (solar) rays, he isthe sage who cherishes the acts of sages, as the heaven cherishes numerous forms; may all our adversariesperish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the upholder of the worlds, who knows the secret names of the  ruddy (dawns), their hidden names,  
 he is a poet who fosters the many poetic arts, as heaven does its  
@@ -151,28 +151,28 @@ he is a poet who fosters the many poetic arts, as heaven does its
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the displaced simile particle here, cf. comm. ad VIII.39.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who supports the worlds of life, he who well knows the hidden names mysterious of the morning beams,  
      He cherishes much wisdom, Sage, as heaven brings forth each varied form.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der Erhalter der Welten, der die verborgenen, geheimen Namen der Kühe weiß, er entfaltet als Seher viele Sehergaben wie der Himmel seine Farbe. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist es, der die Welten trägt, der Morgenröthen Namen kennt, die heimlichen, verborgenen; Der Weise lässt viel Weisheit blühn, gleichwie der Himmel seine Pracht. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто поддерживатель существ,  
 Кто знает скрытые  

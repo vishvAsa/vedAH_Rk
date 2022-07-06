@@ -6,13 +6,13 @@ ChandaH = "द्विपदा गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ सुता꣡सो मदि꣡न्तमाः  
 शुक्रा꣡ वायु꣡म् असृक्षत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ते । सु॒तासः॑ । म॒दिन्ऽत॑माः । शु॒क्राः । वा॒युम् । अ॒सृ॒क्ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -64,7 +64,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मदिन्तमाः** अतिशयेन मादयितारः **शुक्राः** दीप्यमानाः सुता अभिषुताः **ते** सोमाः **वायुं** शब्दम् **असृक्षत** असृजन् अकार्षुः । यद्वा वायुमेव सोमपानार्थमसृजन् । सोमेषु सुतेषु सत्सु वायुस्तत्पानार्थमागच्छति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -77,12 +77,12 @@ Or, utter a sound;
 Vāyum = śabdam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The clear pressed soma-juices, most invigorating, have surged to Vāyu.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -91,22 +91,22 @@ This tṛca, ascribed to Jamadagni, is unifed first and foremost by its meter, D
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brilliant, best givers of delight, these juices have sent Vayu forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ausgepreßten berauschendsten Geklärten haben den Vayu losgelassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Vaju sind die Tränk' entsandt die hellen, die berauschendsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти выжатые (соки), самые пьянящие,  
 Чистые, выпущены течь к Ваю.

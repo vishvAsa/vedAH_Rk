@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् म ऋत꣡म् इन्द्र शूर चित्र पातु  
 अपो꣡ न꣡ वज्रिन् दुरिता꣡ति पर्षि भू꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विश्व꣡प्स्न्यस्य स्पृहया꣡यियस्य राजन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क॒दा । नः॒ । इ॒न्द्र॒ । रा॒यः । आ । द॒श॒स्येः॒ । वि॒श्वऽप्स्न्य॑स्य । स्पृ॒ह॒याय्य॑स्य । रा॒ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -138,37 +138,37 @@ genre M
 हे शूर बलवन् चित्र चायनीय विविधरूपवा । इन्द्रामायोभिःपुरुरूपईयतइत्यादिषुदृष्टत्वात् । बहुविधरूप हे इन्द्र तत् प्रशस्तं त्वदीयं ऋतं सत्यं मा मां पातु सर्वतोरक्षतु । किञ्च हे वज्रिन् वज्रवन्निन्द्र भूरि सुपोलुक् भूरीणि बहूनि दुरिता दुरितानि पापानि अतिपर्षि अतीत्य पारय । तत्रदृष्टान्तः-अपोन यथा नाविकउदकानि मनुष्यान्पारयति तद्वदस्मान् पापानि पारय । हे राजन् दीप्यमान हे इन्द्र विश्वप्स्यस्य प्सइति रूपनाम रूपे साधु प्स्यं नकारोपजनश्छान्दसः । बहुरूपं तत् स्पृहयाय्यस्य सर्वैः स्पृहणीयं रायः क्रियाग्रहणमिति सम्प्रदानसञ्ज्ञा चतुर्थ्यर्थे बहुलमिति षष्ठी । तद्धनं नोस्मभ्यं आ आभिमुख्येन कदा दशस्येः कस्मिन्काले प्रयच्छेः तदा तव स्वभूतं सत्यं मां रक्षतु मह्यं धनं दत्वा कर्माणि च कारयित्वा मया हेतुभूतेन तुष्टाय्य मां पापरहितं कुर्वित्यर्थः ॥ १५ ॥वेदार्थस्यप्रकाशेन तमोहार्दं निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्सं- हिताभाष्ये षष्ठाष्टके षष्ठोध्यायः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, hero assuming many forms, may that truthfulness of you protect me; bear us, thunderer, over ourmany sins as over waters; when, radiant Indra, will you give us some wealth, desirable to all, manifold in itskinds?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, brilliant champion, let this truth be protective for me. Carry us  across manifold difficulties, as if across the waters.  
 When, King Indra, would you show us the favor of wealth, to be  
 eagerly sought like the distillate of all mother’s milk?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May thy truth, Indra, Wondrous Hero be my guard: bear me o'er much woe, Thunderer! as over floods.  
      When, Indra, wilt thou honour us with opulence, all-nourishing and much-to-be. desired, O King?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses wahre Wort soll mich schützen, tapferer, wunderbarer Indra! Hilf uns über die vielen Fährlichkeiten wie über ein Wasser, o Keulenträger! Wann wirst du, Indra, von deinem allgestaltigen, beneidenswerten Reichtum etwas ablassen, o König?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies mein frommes Werk, o Indra, glänzender Held, möge mich schützen; wie über Gewässer, o Blitzträger, fahre mich über vieles Ungemach. Wann, wirst du, Indra, uns Gut verehren, allnährendes, begehrenswerthes, o König?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это истинное (слово) пусть защитит меня, о отважный, блистательный Индра!  
 Перевези (нас), о громовержец, через многие невзгоды, как через воды!  

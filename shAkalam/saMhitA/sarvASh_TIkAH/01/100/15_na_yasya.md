@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ य꣡स्य देवा꣡ देव꣡ता न꣡ म꣡र्ता  
 आ꣡पश् चन꣡ श꣡वसो अ꣡न्तम् आपुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । प्र॒ऽरिक्वा॑ । त्वक्ष॑सा । क्ष्मः । दि॒वः । च॒ । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M;; repeated line
 **देवता** देवस्य दानादिगुणयुक्तस्य **यस्य** इन्द्रस्य **शवसः** बलस्य **अन्तम्** अवसानं **देवाः** वस्वाद्या देवगणाः **न** **आपुः** न आनशिरे तथा **मर्ताः** मनुष्याः **आपश्चन** आपोऽपि **न** प्रापुः । **सः** तादृश इन्द्रः **त्वक्षसा** शत्रूणां तनूकर्त्रा आत्मीयेन बलेन **क्ष्मः** पृथिव्याः **दिवश्च** स्वर्गस्य च **प्ररिक्वा** प्रकर्षेण रेचको भवति । लोकद्वयादप्यस्य बलमतिरिच्यते इत्यर्थः । मरुद्भिर्युक्तः सः **इन्द्रः** **नः** अस्माकम् **उती** ऊतये रक्षणाय **भवतु** ॥ देवता । देव एव देवता । ' देवात्तल्' इति स्वार्थे तल् । ‘सुपां सुलुक्' इति षष्ठ्याँ लुक् । मर्ताः । ‘मृङ् प्राणत्यागे'।' असिहसि ' इत्यादिना तन्प्रत्ययः । नितित्वादाद्युदात्तत्वम् । प्ररिक्वा । ‘ रिचिर् विरेचने '। ‘ अन्येभ्योऽपि दृश्यन्ते' इति क्वनिप् । अन्त्यविकारश्छान्दसः । त्वक्षसा। ‘ तक्षू त्वक्षू तनूकरणे '। असुन् । नित्त्वादाद्युदात्तत्वम् । क्ष्मः । क्षमा इति पृथिवीनाम । अतो धातोः' इत्यत्र ‘आतः' इति योगविभागात् इष्टसिद्धिः इत्यभिधानात् ङसि भसंज्ञायामाकारलोपः । यद्वा । 'क्ष्मायी विधूनने' । अस्मात् ' क्विप् च' इति क्विप् । वेरपृक्तलोपात् पूर्वं वलि लोपः। अन्यत् समानम्। उदात्तनिवृत्तिस्वरेण विभक्तेः उदात्तत्वम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M;; repeated line
 na yasya **deva** **devatā**: devatā = **devasya** = dānādi-**guṇa**-yuktasya, endowed with the properties of giving
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The limit of whose vast power no gods in their divinity, nor mortals,  nor even the waters have reached—  
 he projects with his energy beyond earth and heaven. – Accompanied  by the Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The limit of whose power not Gods by Godhead, nor mortal men have reached, nor yet the Waters.  
      Both Earth and Heaven in vigour he surpasseth. May Indra, girt by Maruts, he our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dessen Macht weder die Götter mit ihrer Göttlichkeit, noch die Sterblichen, nicht einmal die Gewässer das Ende erreicht haben, er ragt an Kraft über Erde und Himmel hinaus - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht Sterbliche, nicht Götter unter Göttern, das Meer nicht reicht an seiner Allmacht Ende, Er überragt an Stärke Erd' und Himmel, er mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот, предела чьей силы не достигли  
 Ни боги со (своей) божественностью, ни смертные, ни даже воды,  

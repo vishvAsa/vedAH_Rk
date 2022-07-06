@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡रिश्मशारुर् ह꣡रिकेश आयस꣡स्  
 तुरस्पे꣡ये यो꣡ हरिपा꣡ अ꣡वर्धत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ति वि꣡श्वा दुरिता꣡ पा꣡रिषद् ध꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अर्व॑त्ऽभिः । यः । हरि॑ऽभिः । वा॒जिनी॑ऽवसुः । अति॑ । विश्वा॑ । दुः॒ऽइ॒ता । पारि॑षत् । हरी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hariśmaśārur* ← *hari*
 - \[noun\]
@@ -117,7 +117,7 @@ genre M
 हरिश्मशारुर्हरितवर्णश्मश्रुर्हरिकेशो हरितवर्नकेश अयसोऽयोमयहृदयः। शत्रूणां घातक इत्यर्थः। एतादृशो य इन्द्रस्तुरस्पेये तूर्णं पातव्ये सोमे हरिपा हरितवर्नसोमपा अवर्धत वर्धते यश्चार्वद्भिर्गृन्तृभिर्हरिभिरश्वैः सोमैर्वा वाजिनीवसुः। वाजिनमन्नं हविर्लक्षणम् । तदस्या अस्तीति वाजिनी क्रिया। सैव वसु धनं यस्य स तथोक्तः। यज्ञधन इत्यर्थः। यद्वा। वाजिनमेव वाजिनी। तदेव धनं यस्य। स एवमुक्तलक्षण इन्द्रो हरी रथे योजयित्वा विश्वा विश्वानि सर्वाणि दुरितास्माकं दुरितानि पारिषत्। पारयतु। पारयतेर्लेटि सिप्यडागमः॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Through all difficulties: asmākamduritāni: i.e., our sins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Golden-bearded, golden-haired, made of metal, who, drinking the  golden (soma), has grown strong on the drink of surpassing,  
 who with his golden steeds, rich in prizewinning mares, will deliver his  two golden (horses) beyond all difficult ways,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At the swift draught the Soma-drinker waxed in might, the Iron One with yellow beard and yellow hair.  
      He, Lord of Tawny Coursers, Lord of fleet-foot Mares, will bear his Bay Steeds safely over all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit goldgelbem Barte, mit goldgelbem Haupthaar, ehern, der am Trank des überlegenen Soma sich stärkte, der Trinker des Goldgelben, der reich an Gewinnen durch die goldgelben Rennpferde, das Falbenpaar über alle Fährlichkeiten hinüberführen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des goldnen Trinker, der bei raschem Trunk erwuchs, mit goldnem Bart und goldnem Haar, der eherne, Mit goldnen Lenkern treibe er an Gaben reich das Rossepaar, das goldne hin durch alle Noth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Златобрадый, златовласый, железный,  
 Кто возрос при питье силы, пьющий золотистого (сому),  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पेम् असृक्षि वाजयु꣡र् वचस्यां꣡  
 च꣡नो दधीत नादियो꣡ गि꣡रो मे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुपे꣡शसस् करति जो꣡षिषद् धि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । नपा॑त् । आ॒शु॒ऽहेमा॑ । कु॒वित् । सः । सु॒ऽपेश॑सः । क॒र॒ति॒ । जोषि॑षत् । हि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upem* ← *upa*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 वाजयुः वाजमन्नमात्मनइच्छ्न्नहंईमेनांवचस्यां वचसःस्तोत्रस्येच्छांउपासृक्षि उपासृजामि उ- त्पादयामि अपान्नपातंस्तोतुम्प्रवृत्तोस्मीत्यर्थः सृजेश्छान्दसोलुङ् लिङ्सिचावात्मनेपदेष्विति सिचः कित्त्वाद्गुणाभावः सच नाद्योनदीनांशब्दकारिणीनाम्मेघस्थानामपांसम्बन्धीआशुहेमाआशुशीघ्रङ्ग न्ता हिगतावित्यस्मादन्येभ्योपिदृश्यन्तइतिमनिन् एवम्भूतोऽपान्नपात् अपाम्पौत्रस्थानीयः अद्भ्यओष धिवनस्पतयोजायन्ते ओषधिवनस्पतिभ्यएषोग्निर्जायतइतितत्पौत्रत्वं एतत्सञ्ज्ञकोदेवः गिरः गृणा- तीतिगीःस्तोता तस्यमे ममकुवित् बहुनामैतत् बहुलं चनः अन्नन्दधीत दधातुविदधातु प्रयच्छत्वित्य- र्थः अपिचास्मान् सुपेशसः शोभनरूपान् शोभनालङ्कारान्वाकरोति करोतुकरोतेर्व्यत्ययेनशप् कः करत्करतिकृधिकृतेष्वनदितेरितिविसर्जनीयस्यसत्वम् हियस्मादयन्देवः जोषिषत् स्तोत्राणिसेवते तस्मादस्मानेवमनुगृह्णात्वित्यर्थः जुषीप्रीतिसेवनयोः लेट्यडागमः विकरणःसिप् इडागमश्च हिचे- तिनिघातप्रतिषेधः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ genre M
 Grandson of the waters: apām **napāt**, the son of the trees or fuel which are the progeny of the rains; a different etymology makes the term an epithet of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, seeking prizes, have set loose my eloquence. The offspring of the rivers  should take delight in my hymns.  
 The Child of the Waters who impels swift (horses)—surely he will make  them well-ornamented? For he will savor (them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EAGER for spoil my flow of speech I utter: may the Floods' Child accept my songs with favour.  
      Will not the rapid Son of Waters make them lovely, for he it is who shall enjoy them?
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Desiring gain this eloquence I utter: May the streams' son accept my songs with gladness. Will he, the Son of Waters, of swift impulse, Perchance reward them well? He will enjoy them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dem Siegerpreis strebend habe ich meine Beredsamkeit ergossen. Der Flußentstammte möge an meiner Lobrede Gefallen finden. Gewiß wird der Apam Napat, der Rossetreiber, sie zieren, denn er soll seine Freude daran haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voll Schatzbegier ergoss ich meine Dichtkunst; der Ströme Spross nehm gnädig an die Lieder; Wird er sie schmücken schön, der rasche Treiber, der Wasser Sohn? denn er soll sie geniessen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь к награде, я излил (свое) красноречие.  
 Пусть речной (бог) получит удовольствие от моих песен!  

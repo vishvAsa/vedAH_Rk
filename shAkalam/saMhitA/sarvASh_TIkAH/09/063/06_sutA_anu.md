@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुता꣡ अ꣡नु स्व꣡म् आ꣡ र꣡जो  
 अभि꣡ अर्षन्ति बभ्र꣡वः  
 इ꣡न्द्रं ग꣡छन्त इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । गच्छ॑न्तः । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **बभ्रवः** बभ्रुवर्णाः **सुताः** अभिषुताः **इन्दवः** सोमाः **इन्द्रम्** **आ** **गच्छन्तः** आभिमुख्येन प्राप्नुवन्तः **स्वं** स्वकीयं **रजः** स्थानम् **अनु** प्रति **अभ्यर्षन्ति** अभिगच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The effused tawny-coloured **Soma**-juices going to **Indra** have to their own plural ce.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressed juices rush along their own realm, the brown ones,  
 the drops, going to Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ Thematically somewhat unified by the journey theme.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brown Soma-drops, effused that seek Indra, to their appropriate place  
      Flow through the region hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt rinnen die Braunen ihre eigene Strecke entlang, die Säfte, zu Indra gelangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die rothen Indu's ausgepresst, ergiessen durch den eignen Raum Der Luft zu Indra eilend sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरुष्या꣡ णो मा꣡ प꣡रा दा  
 अघायते꣡ जातवेदः  
 दुराधि꣡ये म꣡र्तिआय°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 दुः॒ऽआ॒ध्ये॑ । मर्ता॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uruṣyā* ← *uruṣya* ← *uruṣy*
 - \[verb\], singular, Present imperative
@@ -77,35 +77,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **जातवेदः** जातविद्य जातधन वाग्ने **नः** अस्मान् **उरुष्य** रक्ष। 'उरुष्यती रक्षाकर्मा' (निरु. ५. २३) इति यास्कः । **मा** **परा** **दाः** मा परादेह्यस्मान् । कस्मा इति स उच्यते । **अघायते** अघं पापमिच्छते **दुराध्ये** दुराध्यानाय दुर्विचिन्तकाय हिंसाबुद्धये **मर्ताय** मनुष्याय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Defend us, **Jātavedas**; deliver us not over to the malevolent, to the man whose thoughts are evil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Deliver us: do not hand us over to one who wishes evil, o Jātavedas, to the mortal of evil intent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Save us, O Jatavedas, nor abandon us to him who sins,  
      Unto the evil-hearted man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zeige uns einen Ausweg, gib uns nicht dem übelwollenden Sterblichen, der Böses im Sinn hat, preis, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schütze uns, o Wesenkenner, gib nicht hin uns dem Verfolger, Nicht dem bösgesinnten Manne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

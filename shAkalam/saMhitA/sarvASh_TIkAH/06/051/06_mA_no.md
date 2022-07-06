@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो वृ꣡काय वृकि꣡ये समस्मा  
 अघायते꣡ रीरधता यजत्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूयं꣡ द꣡क्षस्य व꣡चसो बभूव꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यू॒यम् । हि । स्थ । र॒थ्यः॑ । नः॒ । त॒नूना॑म् । यू॒यम् । दक्ष॑स्य । वच॑सः । ब॒भू॒व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 हे **यजत्राः** यष्टव्या देवाः **नः** अस्मान् **वृकाय** हिंसकाय स्तेनाय **वृक्ये** तस्य स्त्रियै च **मा** **रीरधत** मा वशं नैष्ट । मी वशीकुरुत । यद्वा । वृकोऽरण्यश्वा तस्य स्त्री वृकी । अपि च **समस्मै** सर्वस्मै **अघायते** अघमनर्थमस्माकमिच्छते शत्रुजनायास्मान् मा वशं नयत । **यूयं** **हि** यूयं खलु **नः** अस्माकं **तनूनां** शरीराणां **रथ्यः** नेतारः **स्थ** भवथ। **यूयम्** एव **दक्षस्य** अस्मदीयस्य बलस्य **वचसः** वाक्यस्य च नेतारः **बभूव** । अतः कारणात् अस्मान् मा रीरधतेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 To the robber: mā no vṛkāya vṛkye rīradhatā: hiṃsakāya, stenāya, to the injurer, the thief; tasya stiyai, to his woman or wife; **vṛka** may mean wild-dog or wolf, **araṇya** śvān; **vṛki** is a feminine le wolf
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t make us subject to the wolf, to the she-wolf, to any at all who  wishes us ill, o you who deserve the sacrifice,  
 for you are the charioteers of our bodies and you have become (the  
 charioteers) of (our?) skillful speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda d must remain in the domain of hí in c, as shown by the accent on babhūvá, as is recognized by the standard tr.
 
@@ -151,23 +151,23 @@ dákṣa- is ordinarily a noun, ‘skill’, but in the published translation I 
 In the latter I tr. as an adj. “with skillful words,” but in the former as two independent nouns “of skill and of speech.” I am uncertain which is correct. Renou is quite stern: “dákṣa- est nécessairement adjectif ici et en plusieurs passages …: inutile de chercher à éviter ici l’emploi, avec Grassmann, emploi qui est le seul subsistant en skt cl.” The Classical Skt. usage is suggestive, but I am wary of the absolutist language of “nécessairement” and “inutile”: very few things in RVic interpr. are absolutely necessary. I would therefore allow an alt. tr. here: “you have become (the charioteers) of (our) skill and speech.” That vs. 9 contains a cmpd. containing the noun, pūtá-dakṣa- ‘of refined skill’, though modifying the gods, might support a ‘skill’ interpr. here, esp. as the ‘charioteer’ motif is found there as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not up to any evil creature, as spoil to wolf or she-wolf, O ye Holy.  
      For ye are they who guide aright our bodies, ye are the rulers of our speech and vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Überantwortet uns nicht irgend einem Übelwollenden, einem Wolf oder einer Wölfin, ihr Verehrungswürdige, denn ihr seid die Lenker unserer Leiber, ihr seid die Lenker des rechten Wortes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gebt uns hin dem Wolfe, nicht der Wölfin, noch irgend einem Schädiger, o hehre; Denn ihr ja seid die Lenker unsrer Leiber, ihr war't es stets des Geistes und der Rede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не отдайте нас во власть ни волку, ни волчице,  
 Ни кому-нибудь злоумышляющему, о достойные жертвы!  

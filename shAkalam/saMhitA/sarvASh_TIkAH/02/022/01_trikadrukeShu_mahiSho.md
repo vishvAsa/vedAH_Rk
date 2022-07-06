@@ -6,7 +6,7 @@ ChandaH = "अष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡कद्रुकेषु महिषो꣡ य꣡वाशिरं  
 तुविशु꣡ष्मस्  
@@ -18,7 +18,7 @@ ChandaH = "अष्टिः"
 सत्य꣡म् इ꣡न्द्रं सत्य꣡ इ꣡न्दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -40,7 +40,7 @@ genre M;; line affected by realignment
 सः । ई॒म् । म॒मा॒द॒ । महि॑ । कर्म॑ । कर्त॑वे । म॒हाम् । उ॒रुम् । सः । ए॒न॒म् । स॒श्च॒त् । दे॒वः । दे॒वम् । स॒त्यम् । इन्द्र॑म् । स॒त्यः । इन्दुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trikadrukeṣu* ← *trikadruka*
 - \[noun\], locative, plural, masculine
@@ -187,7 +187,7 @@ genre M;; line affected by realignment
 गृत्समदोब्रूते महिषः महान्पूज्यः तुविशुष्मः बहुबलः तृपत् तृपप्रीणनेतुदादिः आगमानुशासन स्यानित्यत्वान्नुमभावः तृप्यन्निन्द्रः त्रिकद्रुकेषुज्योतिर्गौरायुरित्येतन्नामकेषुआभिप्लविकेष्वहस्सुसु तमभिषुतंयवाशिरंयवमयैःसक्तुभिर्मिश्रितं आङ् पूर्वस्यश्रीणातेःक्विपिअपस्पृधेथामित्यादिनाशिर इत्यादेशः तंसोमंविष्णुनासहापिबत् यथा वशत् पूर्वंयथा तं सोममकामयततथापिबत् वशकान्तौ बहुलञ्छन्दसीतिशपोलुगभावः पीत ससोमः महाम्महान्तमुरुन्तेजसाविस्तीर्णंईमेनमिन्द्रं ममादअमा दयत् किमर्थं महिमहद्वृत्रहननादिलक्षणं कर्मकर्तवेकर्तुं सत्यंयथार्थभूतः इन्दुः स्रवन् देवोदीप्यमानः ससोमः सत्यंयथार्थभूतं देवंसोमङ्कामयमानमेनमिन्द्रं सश्चत् सश्च्तिर्व्याप्तिकर्मा व्याप्नोतु ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -200,30 +200,30 @@ All the hymns in this **sūkta** occur in the **Sāmaveda**;
 **Mahiṣa** = **mahān**, grea, **pūjya**, worshipfult (epithte of Indra); each hymn has a refrain: sa enam saścad devo devam satyam indram **satya** **induḥ**: sa refers to **Indu** or the Soma, of which **deva** as well as satya are epithets; the verb saścat = **vyāpti** **karma**, pervading, in the imperative, vyāpnotu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among the Trikadrukas [=the Maruts?], the buffalo, snorting mightily, drank to his satisfaction the barley-mixed soma pressed by Viṣṇu, (as  much) as he wished.  
 It exhilarated the great and broad one to do his great deed.  
 – The god attends upon the god—the real Indu upon the real Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 त्रिक॑द्रुकेषु महि॒षो यवा॑शिरं तुवि॒शुष्म॑स्तृ॒पत्सोम॑मपिब॒द्विष्णु॑ना सु॒तं यथाव॑शत् ।  
 स ईं॑ ममाद॒ महि॒ कर्म॒ कर्त॑वे म॒हामु॒रुं सैनं॑ सश्चद्दे॒वो दे॒वं स॒त्यमिन्द्रं॑ स॒त्य इन्दुः॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei den Trikadruka´s trank der vielmutige Büffel sich an dem gerstegemischten Soma, dem von Vishnu gepreßten, satt, so viel er begehrte. Der hat ihn begeistert, das große Werk zu tun, ihn den großen, breiten. - Er stand ihm zur Seite, der Gott dem Gott, dem wahrhaften Indra der wahrhafte Indu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus den Drei-Eimern trank der Büffel, reich an Kraft, den Somasaft, den gerstgemischten trank mit Vischnu er nach Lust, so viel er wollt'; Der hat berauscht ihn, zu vollbringen grosses Werk, (ihn gross und weit); es folge ihm, dem Gott, der Gott, dem echten Indra Indu echt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На (праздниках) Трикадрука бык с мощным порывом  
 Напился досыта  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡हार्षं त्वा꣡विदं तुवा  
 पु꣡नर् आ꣡गाः पुनर्नव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वम् आ꣡युश् च ते ऽविदम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 सर्व॑ऽअङ्ग । सर्व॑म् । ते॒ । चक्षुः॑ । सर्व॑म् । आयुः॑ । च॒ । ते॒ । अ॒वि॒द॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āhārṣaṃ* ← *āhārṣam* ← *āhṛ* ← *√hṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
@@ -119,35 +119,35 @@ popular;; epic anuṣṭubh (424)
 हे व्याधिगृहीत **त्वा** त्वाम् **आहार्षं** मृत्योः सकाशादाहृतवानस्मि । अत एव **त्वा** त्वाम् **अविदम्** अलप्सि । है **पुनर्नव** पुनरभिनव **पुनरागाः** पुनरस्मत्समीपमागच्छ । हे **सर्वाङ्ग** सर्वैरविकलैरङैरुपेत **ते** तव **सर्वं** **चक्षुः** । उपलक्षणमेतत् । इन्द्रियवर्गं सकलम् **अविदं** लब्धवानस्मि । **ते** तव **आयुः** जीवनं **च** **सर्वं** संपूर्णमविदम् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have brought you here; I have found you. You have come here again, o  you who are new again.  
 O you with hale limbs, I have found your eye hale and your  
 lifetime whole.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So have I found and rescued thee thou hast returned with youth renewed.  
      Whole in thy members! I have found thy sight and all thy life for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe dich geholt, ich habe dich gefunden; du bist wiedergekommen, du Neugeborener. Heilen Körpers du, dein Auge habe ich heil und dein Leben habe ich heil gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewonnen bist du und erlöst, zurückgekommen frisch erneut; Gesund ist Auge dir und Leib, gefunden volles Alter dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я забрал тебя, я нашел тебя!  
 Ты снова вернулся, о обновленный!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡रन् वत्सो꣡ रु꣡शन्न् इह꣡  
 निदाता꣡रं न꣡ विन्दते  
 वे꣡ति स्तो꣡तव अम्बि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वेति॑ । स्तोत॑व्र् । अ॒म्ब्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *caran* ← *car*
 - \[verb noun\], nominative, singular
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वत्सः** । वत्सवच्चापलेन धावनाद्वत्स इत्युपचर्यते । अथवा वत्स इव संचरन् । इवशब्दो लुप्यते । **रुशन** श्वेतो भवन् **इह** अस्मिँल्लोके **निदातारं** निरोधकं **न** **विन्दते** न लभते । किंतु **स्तोतवे** स्तोतुम् **अम्ब्यं** स्तोतारं स्वयं **वेति** कामयते । अथवात्र वैद्युतोऽग्निरुच्यते । वैद्युतोऽयं रुशंश्चरंश्चेहान्तरिक्षे वत्सः सर्वदा वसन् वत्सस्थानीयो वा सन्निदातारं निरोधकं न विन्दते । किंतु स्तोतुमम्ब्यं माध्यमिकां वाचं वेति ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Here: iha = here, in this world, asmin loke, in the sky, antarikṣe; **Agni** the lightning and the praiser (ambya) isthe thunder
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gleaming calf, roaming here, does not find anyone to bind it. It pursues its mama to praise (her).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wandering here the radiant Calf finds none to fetter him, and seeks  
      The Mother to declare his praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das weiße Kalb, das hier wandelt, findet keinen, der es anbindet; es verlangt seine Mutter zu preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Kalb, das leuchtend wandert hier, hat keinen der es binde an, Die Mutter geht zu preisen er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Этот) светлый теленок, бродящий здесь,  
 Не находит того, кто привязал бы (его).  

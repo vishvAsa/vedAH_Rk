@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡हि मन्यो तव꣡सस् त꣡वीयान्  
 त꣡पसा युजा꣡ वि꣡ जहि श꣡त्रून्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा व꣡सूनि आ꣡ भरा तुवं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒मि॒त्र॒ऽहा । वृ॒त्र॒ऽहा । द॒स्यु॒ऽहा । च॒ । विश्वा॑ । वसू॑नि । आ । भ॒र॒ । त्वम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīhi* ← *abhī* ← *√i*
 - \[verb\], singular, Present imperative
@@ -135,36 +135,36 @@ popular
 हे **मन्यो** त्वम् **अभीहि** अभिगच्छास्मद्यज्ञम् । कीदृशस्त्वम् । **तवसः** बलवतोऽपि **तवीयान्** अत्यन्तं बलवान् । स त्वं **तपसा** अस्मत्पित्रा **युजा** सहायेन **शत्रून्** **वि** **जहि** । किंच **अमित्रहा** अमित्राणां हन्ता । अमित्रोऽस्निग्धः । तथा **वृत्रहा** आवरकाणां शत्रूणां हन्ता तथा . **दस्युहा** **च** । दस्युरुपक्षपणकारी शत्रुः । तादृश मन्युदेव **त्वं** **विश्वा** सर्वाणि **वसूनि** धनानि **नः** अस्मभ्यम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us Manyuu, who are the strongest of the strong; with **Tapas** as your ally overthrow ourenemies; do you who are the slayer of enemies, the slayer of adversaries, the slayer of foes, bring to us allriches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Attack, Battle Fury, stronger than strong. With Fervor as yokemate  smite away our rivals.  
 Foe-smiting, obstacle-smiting, and Dasyu-smiting, bring all good things  here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, Manyu, mightier tham the mighty; chase, with thy fervour for ally, our foemen.  
      Slayer of foes, of Vrtra, and of Dasyu, bring thou to us all kinds of wealth and treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh an, Manyu, stärker als der Starke! Mit Tapas im Bunde zerstreue die Feinde! Als Feindetöter, Vritratöter und Dasyutöter bring du alle Schätze uns her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Greif an, o Manju, stärker du als Stärke, mit Glut im Bunde schlage fort die Feinde, Du Gegner, Vritra und Dämonen tödtend, o bringe du herbei uns alle Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

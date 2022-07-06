@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡निक्रदद् अ꣡नु प꣡न्थाम् ऋत꣡स्य  
 शुक्रो꣡ वि꣡ भासि अमृ꣡तस्य धा꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हिन्वानो꣡ वा꣡चम् मति꣡भिः कवीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । इन्द्रा॑य । प॒व॒से॒ । म॒त्स॒रऽवा॑न् । हि॒न्वा॒नः । वाच॑म् । म॒तिऽभिः॑ । क॒वी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kanikradad* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
@@ -117,21 +117,21 @@ genre M
 अभिषूयमाणः सोमः ऋतस्य सत्यभूतस्य यज्ञस्य पन्थां पन्थानं मार्गमनु कनिक्रदत् पु- नःपुनः शब्दायते । अथप्रत्यक्षः अमृतस्यामरणधर्मस्य धाम स्थानभूतः मरणरहितइत्यर्थः । तादृशः शुक्रः शुक्लवर्णः त्वं विभासि विशेषेणराजसि मत्सरवान् मदकररसयुक्तः सत्वं इन्द्रायेन्द्रार्थं पवसे क्षरसि । कीदृशः कवीनां स्तोतॄणां मतिभिः सह वाचं शब्दं हिन्वानः प्रेरयन् पवसे ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Soma**) cries repeatedly upon the path of the sacrifice; you shine (being) the abode of immortality; possessing exhilaration you flow for **Indra**, sending forth your voice with the praises of the sages.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ever roaring along the path of truth, gleaming you radiate across the  domain of the immortal one [=sun?].  
 Providing the means for exhilaration, you purify yourself for Indra,  
 spurring on your own speech with the thoughts of the poets.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “domain for the cows” is echoed here by the “domain of the immortal one” (amṛ́tasya dhā́ma). As with the same phrase in IX.94.2 (q.v.), I suggest that the immortal one is the sun, and perhaps specifically milk as representative of the sun.
 
@@ -156,23 +156,23 @@ The first vs. of the tṛca contains a form of √sṛj, thus concatenating with
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright, bellowing aiong the path of Order, thou shinest as the form of life eternal.  
      Thou flowest on as gladdening drink for Indra, sending thy voice out with the hymns of sages.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Weg des Gesetzes entlang brüllend offenbarst du als Geklärter das Wesen des Göttertrankes. Du läuterst dich für Indra, berauschend, mit der Seher Dichtungen deine Stimme entsendend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinwiehernd durch des Opfers Pfad durchstrahlst du in hellem Licht des Göttertrankes Stätte, Dem Indra ströme hell voll starken Rauschtranks, die Stimm' erregend durch der Seher Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Громко ревя по пути вселенского закона,  
 Чистый, ты ярко освещаешь излюбленное место амриты.  

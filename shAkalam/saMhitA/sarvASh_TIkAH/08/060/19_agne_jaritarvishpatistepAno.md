@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने ज꣡रितर् विश्प꣡तिस्  
 तेपानो꣡ देव रक्ष꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दिव꣡स् पायु꣡र् दुरोणयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप्रो॑षिऽवान् । गृ॒हऽप॑तिः । म॒हान् । अ॒सि॒ । दि॒वः । पा॒युः । दु॒रो॒ण॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 हे **अग्ने** **देव** **जरितः** स्तोतः । स्तुत्येत्यर्थः । **विश्पतिः** प्रजानां पालकः **रक्षसः** राक्षसानां **तेपानः** संतापकोऽसि । **अप्रोषिवान्** यजमानगृहमत्यजन् । तदेवाह । **गृहपतिः** यजमानगृहस्य पालकश्च त्वं **महान्** अतिशयेन पूज्यः **असि** । **दिवः** द्युलोकस्य **पायुः**- पाता **दुरोणयुः** यजमानगृहस्य मिश्रयिता । सर्वदा वर्तमान इत्यर्थः । तादृशस्त्वं महानसीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ genre M
 Worthy of praise: jaritr. = the singer of praises; i.e. Agni = stutya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, o singer and god, you are the clanlord who burns the demons, the houselord who doesn’t go abroad; you are great—the protector  
 from heaven, but devoted to the house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, Praise-singer! Lord of men, God burner-up of Raksasas,  
      Mighty art thou, the ever-present Household-Lord, Home-friend and Guardian from the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, Sänger, als Stammesfürst die Unholde verbrennend, o Gott, als Hausherr dich nie vom Hause entfernend, bist du der Große, des Himmels Wächter, dem Hause anhänglich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, Sänger, Stammesherr, o Gott, verbrenn die Geisterschar, Als Hausherr nimmer weichend zeigst du mächtig dich, als Himmels Hüter, Hauses Hort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, о певец, как господин племен  
 Спаливший ракшасов, о бог,  

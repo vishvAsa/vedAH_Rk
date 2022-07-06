@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ हितो꣡ वि꣡ नीयते  
 अन्तः꣡ शुभ्रा꣡वता पथा꣡  
 य꣡दी तुञ्ज꣡न्ति भू꣡र्णयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यदि॑ । तु॒ञ्जन्ति॑ । भूर्ण॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **हितः** निहितः हविर्धाने **वि** **नीयते** तस्मात् स्थानादाहवनीयं प्रति । **अन्तः** तयोर्मध्यदेशे **शुभ्रावता** शोभावता **पथा** मार्गेण **यदि** यदा **तुञ्जन्ति** प्रयच्छन्ति देवेभ्यः **भूर्णयः** भरणशीला अध्वर्वाप दयः। तदा वि नीयत इति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,35 +91,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Plural ced in the cart: i.ṣ, plural ced in the **havirdhāna** he is brought to the āhavanīha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, propelled, is led through and within (the filter) along the path of beauty, when the fervent thrust him on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ppl. hitá- is potentially a pun, both ‘propelled’ (√hi) and ‘placed’ (√dhā), though in this case the former is dominant, given the journey theme of the rest of the vs. (and hymn).
 
 In c yádī is best read yád ī; see also IX.14.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a good horse is he led out, when on the path that shines with light  
      The mettled steeds exert their strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser wird zur Eile getrieben in die Seihe hinein abgeleitet auf dem von strahlenden Rossen befahrenen Wege, wenn sie ihn eifrig herausschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wird entsandt und fortgeführt auf seinem glanzbegabten Weg, Wenn ihn ergiessen Eifrige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот, посланный (жрецом), проводится  
 Вглубь (сосуда) сверкающим путем,  

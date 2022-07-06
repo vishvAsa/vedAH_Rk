@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा य꣡था नः पित꣡रः प꣡रासः  
 प्रत्ना꣡सो अग्न ऋत꣡म् आशुषाणाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षा꣡मा भिन्द꣡न्तो अरुणी꣡र् अ꣡प व्रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शुचि॑ । इत् । अ॒य॒न् । दीधि॑तिम् । उ॒क्थ॒ऽशसः॑ । क्षामा॑ । भि॒न्दन्तः॑ । अ॒रु॒णीः । अप॑ । व्र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे **अग्ने** **अध** अपि च **परासः** श्रेष्ठाः **प्रत्नासः** पुराणाः **ऋतं** सत्यभूतं यज्ञं **यथा** यथावत् **आशुषाणाः** अश्नुवानाः **नः** अस्माकं **पितरः** अङ्गिरसः **शुचि** दीप्तं स्थानम् **अयन्** अगच्छन् । तथा **दीधितिं** तेजश्चागच्छन् । किंच **उक्थशासः** उक्थानां शस्त्राणां शंसितारः **क्षाम** क्षयकारणं तमः पापं वा **भिन्दन्तः** विनाशयन्तोऽङ्गिरसः **अरुणी:** अरुणवर्णाः पणिभिरपहृता गा उषसो वा **अप** **व्रन्** अपावृण्वन् । प्रकाशितवन्त इत्यर्थः ॥ अयन् ।  ‘ इण् गतौ ' । लङि  ‘ इणो यण् ' इति यण् । व्यत्ययेन अडागमः । दीधितिम् । ‘दीधीङ् दीप्तिदेवनयोः' इत्यस्मात् क्तिनि ह्रस्वश्छान्दसः । नित्त्वादाद्युदात्तः । उक्थशासः । उक्थशब्द उपपदे: शंसु स्तुतौ ' इत्यस्मात्  ‘ मन्त्रे श्वेतवहोक्थशस्पुरोडाशो ण्विन् ' (पा. सू. ३. २. ७१) इति ण्विन् नकारलोपश्च निपातनादेव । पदकाले ह्रस्वश्छान्दसः । अरुणीः । गौरादिङीषन्तः । एकादेशस्वरः । व्रन् । वृणोतेर्लुङि ‘मन्त्रे घस इत्यादिना च्लेर्लुक् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,12 +143,12 @@ genre M
 Apavran = apāvṛṇumaḥ, with the sense of the potential
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then like our further forefathers of old, panting over the truth, o Agni, those reciting solemn speech (now) will come to the blazing (udder of  sacrifice [=Vala]), to visionary power. Splitting (heaven and) earth,  they (will) unclose the ruddy (cows [=dawns]).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛtám āśuṣānā́ḥ see comm. ad IV.1.13.
 
@@ -165,28 +165,28 @@ I think pāda c is appropriate for both the ancient Aṅgirases and the presentd
 The Pp. reads kṣā́mā in d as kṣā́ma, and most interpr. (save for Witzel Gotō) follow the Pp. and take this form as a singular, tr. “splitting the earth” -- as a reference only to the Vala myth (even though it is not the earth that gets split in that myth). But I think we should take the Saṃhitā form seriously, as the elliptical dual it appears to be, extracted from the dual dvandva dyā́vā-kṣā́mā. The phrase “splitting (heaven and) earth” would refer to the visual experience of dawn, when the appearance of the dawn light at the horizon seems to split sky from earth, allowing the light to flood in through the resulting slit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in the days of old our ancient Fathers, speeding the work of holy worship, Agni,  
      Sought pure light and devotion, singing praises; they cleft the ground and made red Dawns apparent.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And as our first, ancient fathers, O Agni, were aspiring after Rita 1—they attained to pure devotion 2, chanting their litanies. Cleaving the earth they disclosed the red (cows).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wie unsere fernsten Ahnen, die sich vor alters für das Rechte ereiferten, o Agni, so mögen jetzt die in Liedern Redenden zur Klarheit, zur Erkenntnis kommen. Den Boden spaltend sollen sie die rötlichen Usas aufdecken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als unsre Väter, sie die frühern, alten, anfachten einst das heil'ge Feur, o Agni, Da gingen strahlend zum Gebet die Sänger, den Boden spaltend fanden sie die Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот, подобно нашим отдаленным отцам,  
 Древним, о Агни, радевшим о законе,  

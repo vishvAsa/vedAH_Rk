@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कवि꣡म् मृजन्ति म꣡र्जियं  
 धीभि꣡र् वि꣡प्रा अवस्य꣡वः  
 वृ꣡षा क꣡निक्रद् अर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृषा॑ । कनि॑क्रत् । अ॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अवस्यवः** रक्षणकामाः **विप्राः** मेधाविन ऋत्विजः **धीभिः** अङ्गुलीभिः **मर्ज्यं** मर्जनीयं **कविं** क्रान्तकर्माणं यं सोमं **मृजन्ति** मार्जयन्ति सोऽयं **वृषा** सेचकः सोमः **कनिक्रत्** शब्दं कुर्वन् **अर्षति** धारया क्षरति ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The (worshippers) desiring protection, cleanse with their fingers the purifiable (**Soma**) the sage; with a noise the sprinkler (of benefits) flows forth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poets, seeking help, with their insights groom the sage poet  worthy to be groomed.  
 The bull rushes ever roaring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note kavím (of Soma) contrasting with víprāḥ, the human poets who groom him.
 
@@ -106,23 +106,23 @@ As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singers, seeking help, adorn the Sage who must be decked with songs:  
      Loud bellowing the Steer comes on,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es putzen den putzwürdigen Seher unter Gebeten die schutzsuchenden Redner. Brüllend rinnt der Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach Gunst verlangend läutern ihn, den Läutrungswerthen, andachtsvoll Die Sänger, brüllend rinnt der Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

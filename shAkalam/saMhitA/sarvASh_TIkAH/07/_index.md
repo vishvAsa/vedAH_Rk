@@ -3,7 +3,7 @@ title = "+07"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Sages  
 Maṇḍala VII is unusual because in this, the longest of the Family Books, almost all  the hymns are attributed to just one poet, Vasiṣṭha Maitrāvaruṇi, Vasiṣṭha the son  of Mitra and Varuṇa. According to the Anukramaṇī two hymns were composed  either by Vasiṣṭha or by Kumāra Āgneya (101, 102), and two hymns were joint compositions of Vasiṣṭha and his sons (32, 33). In 32, however, it assigns one pāda, or  at most one and a half verses, to Śakti Vāsiṣṭha, and the rest of the hymn is by his  father. The Anukramaṇī unequivocally attributes all the other one hundred hymns  of the maṇḍala to Vasiṣṭha alone.  
@@ -29,7 +29,7 @@ Another quite remarkable  hymn, although in a very different vein, is VII.103, t
 The Vasiṣṭha clan refrain, “Do you protect us always with your blessings,” occupies the final pāda of most of the triṣṭubh hymns in this maṇḍala.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary VII [VII.1-17 JPB]
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡निष् ट इन्द्र स꣡दने अकारि  
 त꣡म् आ꣡ नृ꣡भिः पुरुहूत प्र꣡ याहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡दो व꣡सूनि मम꣡दश् च सो꣡मैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 असः॑ । यथा॑ । नः॒ । अ॒वि॒ता । वृ॒धे । च॒ । ददः॑ । वसू॑नि । म॒मदः॑ । च॒ । सोमैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yoniṣ* ← *yoniḥ* ← *yoni*
 - \[noun\], nominative, singular, masculine
@@ -148,41 +148,41 @@ genre M
 हे **इन्द्र** **ते** तव **सदने** सदनार्थं **योनिः** स्थानम् **अकारि** । हे **पुरुहूत** **नृभिः** मरुद्भिः सार्धं **तं** योनिम् **आ** **प्र** **याहि** । **नः** अस्माकं **यथा** **अविता** रक्षिता **असः** भवसि नोऽस्माकं **वृधे** वर्धनाय **च** असः । तथा च  **वसूनि** **ददः** अस्मभ्यं देहि । **सोमैः** अस्मदीयैः **ममदः** मादयस्व **च** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A plural ce has been prepared for you in the sacrificial chamber; proceed to it, invoked of many, along withthe leaders (of rites the **Maruts**), inasmuch as you are our protector, (promote our) prosperity; grant us riches; beexhilarated by the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A womb has been made for you, Indra, on the seat (of the sacrifice).  Drive forth to it along with your men, much-invoked one,  
 so that you will be a helper for us and for our strengthening, and you will  give goods and will reach exhilaration through the soma drinks.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The conjoined phrase avitā́vṛdhé ca is not syntactically parallel in the strict sense, but both the agent noun avitár- and the purpose dative vṛdhé are properly construed with the 2nd sg. copula, subjunctive ásaḥ. For the latter, cf., e.g., I.89.5 … yáthā … ásad vṛdhé, and for the cooccurrence of the two terms VI.33.4 … avitā́ vṛdhé bhūḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A HOME is made for thee to dwell in, Indra: O Much-invoked, go thitherwith the heroes.  
      That thou, to prosper us, mayst be our Helper, vouchsafe us wealth, rejoice with draughts of Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Schoß ist für dich, Indra, auf dem Opfersitz hergerichtet; zu dem komm, du Vielgerufener, mit deinen Mannen, auf daß du uns ein Gönner und zum Gedeihen seiest, und Güter schenkest und dich am Soma berauschest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Heiligthum ist dir ein Schoos bereitet, dem nah', gerühmter Indra, mit den Männern, Dass du uns seist ein Helfer und ein Mehrer, uns Schätze gebst und dich erfreust am Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Место для тебя, о Индра, приготовлено на (жертвенном) сидении.  
 Приходи на него, о многопризываемый, со (своими) мужами,  

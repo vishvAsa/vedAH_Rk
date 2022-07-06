@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ वां शता꣡ नासतिया सह꣡स्रा  
 अ꣡श्वाना᳐म् पुरुप꣡न्था गिरे꣡ दात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धता꣡ र꣡क्षांसि पुरुदंससा स्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भ॒रत्ऽवा॑जाय । वी॒र॒ । नु । गि॒रे । दा॒त् । ह॒ता । रक्षां॑सि । पु॒रु॒ऽदं॒स॒सा॒ । स्यु॒रिति॑ स्युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 **नासत्या** हे अश्विनौ **वां** युवयोः **fगरे** । गृणातीति गीः स्तोता । तस्मै **अश्वानां** **शता** शतानि **सहस्रा** सहस्राणि च **पुरुपन्थाः** पुरुपन्था नाम राजा **सं** **दात्** संददाति । **वीर** हे वीरावश्विनौ ॥ द्विवचनस्य लुक् ॥ **गिरे** युवयोः स्तोत्रे **भरद्वाजाय** मह्यमपि **नु** क्षिप्रं **दात्** ददातु । किंच हे **पुरुदंससा** बहुकर्माणावश्विनौ युवयोरनुग्रहात् **रक्षांसि** **हता** हतानि **स्युः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Purupanthā, **Nāsatyās**, grant to him who praises you, hundreds and thousands of horses; may he give them, heroes, to **Bharadvāja**; achievers of great deeds, may the **rākṣasas** be slain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purupanthā has given altogether hundreds and thousands of horses for  (my) song for you;  
 to Bharadvāja he has given (them) for the song, o hero(es). Demonic  powers should be smashed, o you of many wondrous powers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in the immediately preceding vs. Hoffmann (230-31) interprets the two forms of dāt as modal, “soll … spenden.” The same objections apply.
 
@@ -150,23 +150,23 @@ The voc. vīra is stubbornly sg., though the reference must be to the du. Aśvin
 Perhaps, as Michael Weiss suggests, simply a shortened du. voc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nasatyas! Purupanthas offered hundreds, thousands of steeds to him who sang your praises,  
      Gave, Heroes! to the singer Bharadvaja. Ye-Wonder-Workers, let the fiends be slaughtered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Purupanthan gab zusammen Hunderte, Tausende von Rossen für euer Loblied, ihr Nasatya´s. Dem Bharadvaja gab er sie für das Loblied, ihr Helden. Die Unholde sollen erschlagen sein, ihr Meistertatenreiche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eurem Sänger, o ihr Biederen, gab Purupanthas hunderttausend Rosse; er gab sie jetzt, o Männer, dem Sänger Bharadvadscha; getödtet seien die Gespenster, o thatenreiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотни, о Насатьи, тысячи коней вместе  
 Дал Пурупантха за хвалебную песнь для вас.  

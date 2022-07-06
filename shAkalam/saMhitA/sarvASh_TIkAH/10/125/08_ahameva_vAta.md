@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् एव꣡ वा꣡त इव प्र꣡ वामि  
 आर꣡भमाणा भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एता꣡वती महिना꣡ स꣡म् बभूव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प॒रः । दि॒वा । प॒रः । ए॒ना । पृ॒थि॒व्या । ए॒ताव॑ती । म॒हि॒ना । सम् । ब॒भू॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -120,36 +120,36 @@ popular
 “पृथिव्या ॥ ‘ द्वितीयाटौः स्वेनः' (पा. सू. २, ४, ३४ ) इतीदम एनादेशः । अस्याः पृथिव्याः **परः** परस्तात् । द्यावापृथिव्योरुपादानमुपलक्षणम् । एतदुपलक्षितात् सर्वस्मात् विकारजातात् परस्ताद्वर्तमाना सङ्गोदासीनकूटस्थब्रह्मचैतन्यरूपाहं **महिना** महिम्ना **एतावती** **सं** **बभूव** । एतच्छब्देनोक्तं सर्वं परामृश्यते । एतत्परिमाणमस्याः ॥ यत्तदेतेभ्यः परिमाणे°' ( पा. सू. ५. २. ३९) इति वतुप् ।“ आ सर्वनाम्नः ( पा. सू.६.३.९१ ) इत्यात्वम् ॥ सर्वजगदात्मनाहं संभूतास्मि । महच्छब्दादिमनिचि 'टेः' (पा. सू. ६. ४. १५५ ) इति टिलोपः । ततः तृतीयायामुदात्तनिवृत्तिस्वरेण तस्या उदात्तत्वम्। छन्दसो मलोपः ॥ ॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I breathe forth like the wind giving form to all created worlds; beyond the heaven, beyond this earth(am I), so vast am I in greatness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, just like the wind, blow forth, grasping at all worlds,  
 beyond heaven, beyond this earth here—of such size in my greatness  have I come into being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I breathe a strong breath like the wind and tempest, the while I hold together all existence.  
      Beyond this wide earth and beyond the heavens I have become so mighty in my grandeur.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich wehe wie der Wind, alle Wesen erfassend, weiter als der Himmel, weiter noch als die Erde: Solch eine Größe bin ich geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin es, die da wehet gleich dem Winde, im Wehn ergreif' ich alles, was da lebet, Jenseit des Himmels, jenseit dieser Erde; so gross bin ich durch meine Macht und Grösse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я ведь вею, как ветер,  
 Охватывая все миры:  

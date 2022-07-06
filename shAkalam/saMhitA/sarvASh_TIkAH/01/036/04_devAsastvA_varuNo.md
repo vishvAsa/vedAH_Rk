@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡सस् त्वा व꣡रुणो मित्रो꣡ अर्यमा꣡  
 सं꣡ दूत꣡म् प्रत्न꣡म् इन्धते  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡स् ते ददा꣡श म꣡र्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 विश्व॑म् । सः । अ॒ग्ने॒ । ज॒य॒ति॒ । त्वया॑ । धन॑म् । यः । ते॒ । द॒दाश॑ । मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāsas* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
@@ -126,7 +126,7 @@ genre M
 हे **अग्ने** वरुणादयस्त्रयः **देवासः** देवाः **प्रत्नं** पुरातनं **दूतं** त्वां **सम्** **इन्धते** सम्यक् दीपयन्ति **यः** **मर्त्यः** मनुष्यो यजमानः **ते** तुभ्यं **ददाश** हविर्दत्तवान् **सः** यजमानः **त्वया** सहायभूतेन **विश्वं** सर्वं **धनं** **जयति** ॥ अर्यमा । अर्यान्मिमीते इत्यर्यमा । ‘ श्वनुक्षन्० ) ( उ. सू. १. १५७) इत्यादिना कनिन्प्रत्ययान्तो निपातितः । इन्धते । ‘ ञिइन्धी दीप्तौ ' । अस्मात् लटि झस्य अदादेशे श्नम् । ‘ श्नान्नलोपः ' ( पा. सू. ६. ४. २३ )। श्नसोरल्लोपः' इति अकारलोपः । ददाश । ‘ दाशृ दाने ' । लिटि णलि लित्स्वरेण प्रत्ययात्पूर्वस्य आकारस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 **Aryan** mimite: aryaman, he who measures or estimates properly the **aryas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods Varuṇa, Mitra, and Aryaman kindle you, their primordial  messenger.  
 With you, o Agni, that one wins every stake—the mortal who ritually  serves you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods enkindle thee their ancient messenger,--Varuna, Mitra, Aryaman.  
      That mortal man, O Agni, gains through thee all wealth, who hath poured offerings unto thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The gods, Varuna, Mitra, Aryaman, kindle thee, the ancient messenger. The mortal, O Agni, who worships thee, gains through thee every prize.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter Varuna, Mitra, Aryaman zünden dich, den altgewohnten Boten an. Jeden Siegespreis gewinnt durch dich, Agni, der Sterbliche, der dir gespendet hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als alten Boten zünden dich die Götter an, Varuna, Mitra, Arjaman; Durch dich gewinnet alles Gut der Sterbliche, der dir, o Agni, huldiget.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боги: Варуна, Митра, Арьяман – тебя,  
 Древнего вестника, вместе зажигают.  

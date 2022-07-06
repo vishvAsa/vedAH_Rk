@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ हर्यतो꣡ अ꣡र्जुने अ꣡त्के अव्यत  
 प्रियः꣡ सूनु꣡र् न꣡ म꣡र्जियः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 नदी꣡षु आ꣡ ग꣡भस्तियोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तम् । ई॒म् । हि॒न्व॒न्ति॒ । अ॒पसः॑ । यथा॑ । रथ॑म् । न॒दीषु॑ । आ । गभ॑स्त्योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **हर्यतः** स्पृहणीयः **प्रियः** प्रीणयिता **सूनुर्न** सूनुरिव **मर्ज्यः** मार्जनीयः सोमः **अर्जुने** अर्जुनवर्णे **अत्के** रूपे पवित्रे **आ** **अव्यत** आवृणोति । **तमीम्** एनं सोममङ्गुलयः **नदीषु** नदमानासु वसतीवरीषु **गभस्त्योः** बाह्वोः **आ** आभिमुख्येन **हिन्वन्ति** प्रेरयन्ति । तत्र दृष्टान्तः । **अपसो** **यथा** वेगवन्तो जनाः **रथं** संग्रामेषु प्रेरयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 In a shining robe: i.e., the filter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The delightful one has clothed himself in a silvery cloak, to be caressed  like a dear son.  
 The laborers propel him, in their two hands, as they would a chariot,  into the rivers.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -142,23 +142,23 @@ No particular signs of cohesion. River(s) appear in both vss., but with differen
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a dear son who must be decked, the Lovely One hath clad him in a shining robe.  
      Men skilful at their work drive him forth, like a car, into the rivers from their bands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Begehrenswerte hat sich in ein weißes Gewand gehüllt, auszuputzen wie ein lieber Sohn. Ihn treiben die Werktätigen wie einen Wagen zum Lauf in dem Wasser unter ihren Händen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der holde hat mit weissem Kleide sich umhüllt, zu schmücken wie ein lieber Sohn; Wie einen Wagen treiben ihn die eifrigen mit beiden Armen in die Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желанный завернуться в белый покров,  
 (Он) достойный, чтоб его нарядили, словно милого сына.  

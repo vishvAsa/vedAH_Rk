@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पाद् उ शिप्री꣡ अ꣡न्धसः  
 सुद꣡क्षस्य प्रहोषि꣡णः  
 इ꣡न्दोर् इ꣡न्द्रो य꣡वाशिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्दोः॑ । इन्द्रः॑ । यव॑ऽआशिरः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apād* ← *apāt* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
@@ -83,7 +83,7 @@ genre M
 शिप्री । शिप्रे हनू नासिके वा । शोभनहनुः । यद्वा । शिप्राः शीर्षण्याः । सुशिरस्त्राणः । सः **इन्द्रः** एव **प्रहोषिणः** प्रकर्षेण देवान् हविर्भिर्जुह्वतः **सुदक्षस्य** एतन्नामकस्य ऋषेः संबन्धि **यवाशिरः**। श्रीङ् पाके' । आङ्पूर्वस्य  ‘ अपस्पृधेथामानृचुः' इत्यादिना धातोः शिरादेशः । यवैरामिश्रितं यवैः सह पक्वम् **इन्दोः** सर्वतः पात्रेषु क्षरत् **अन्धसः** सोमलक्षणमन्नम् **अपात्** अपिबत् । यद्वा । अस्य सोमस्य भागमिन्द्रार्थं परिकल्पितं सोमांशमपिबत् । **उ** इत्यवधारणे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,37 +94,37 @@ genre M
 **Sudakṣa** = name of a ṛṣi; sudakṣasya prahoṣiṇaḥ = epithets of Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The belipped one has drunk of the stalk conferring good skill,  
 accompanied by oblations,  
 of the drop mixed with grain—has Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this new tṛca matches that of the first tṛca (1a): √pā (pā́ntam (1a) / ápāt (4a) … ándhasaḥ#.
 
 índor índro is an example of the word play, much beloved in IX, between índu- ‘drop’ and índra-, but this case is particularly nice because sandhi allows the two words to be identical, save for the reversal of the final two sounds (or ∼ ro).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra whose jaws are strong hath drunk of worshipping Sudaksa's draught,  
      The Soma juice with barley mixt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra mit der Trinkerlippe hat von dem kräftigen Trank, dem opferbegleiteten, getrunken, von dem mit Gerste gemischten Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trank der schlürfende, den kräftereichen Opfertrank, Den gerstgemischten Indusaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

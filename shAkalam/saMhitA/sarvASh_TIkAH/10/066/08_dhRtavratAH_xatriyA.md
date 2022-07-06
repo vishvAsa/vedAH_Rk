@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धृत꣡व्रताः क्षत्रि꣡या यज्ञनिष्कृ꣡तो  
 बृहद्दिवा꣡ अध्वरा꣡णाम् अभिश्रि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अपो꣡ असृजन्न् अ꣡नु वृत्रतू꣡रिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निऽहो॑तारः । ऋ॒त॒ऽसापः॑ । अ॒द्रुहः॑ । अ॒पः । अ॒सृज॒न् । अनु॑ । वृ॒त्र॒ऽतूर्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhṛtavratāḥ* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
@@ -112,7 +112,7 @@ genre M
 **धृतव्रताः** धृतकर्माणो जात्या **क्षत्रियाः** । यद्वा । क्षत्रं बलं तदर्हाः । **यज्ञनिष्कृतः** । यज्ञं प्रति निर्गमनं यज्ञनिः । तस्य कर्तारः **बृहद्दिवाः** महातेजस्काः **अध्वराणां** रक्षोभिरहिंसितानां यज्ञानाम् **अभिश्रियः** अभिसेवकाः **अग्निहोतारः** अग्निर्होता आह्वाता येषां तादृशाः **ऋतसापः**।  ‘ षप समवाये ' । सत्यभाजः अत एव **अद्रुहः** केषांचिदप्यद्रोग्धारः । यद्वा । द्रुहेः कर्मण्यौणादिकः क्विप् । कैश्चिदप्यहिंस्याः । एवंप्रभावा देवा: वृत्रतूर्ये  । वृत्रस्तूर्यते हिंस्यतेऽत्रेति वृत्रतूर्यः संग्रामः । तस्मिन् अपामावरकशत्रुवधे **अपः** उदकानि **अन्वसृजन्** अन्वसारयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 Vigour: **kṣatriyaḥ** = of the **kṣatriya** clan; or, strong
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The rulers whose commandments are upheld, who bring forth the  sacrifice, heaven-lofty ones, the full glory of the rite,  
 whose Hotar is Agni, who serve the truth without deceit—they let loose  the waters following on the triumph over Vr̥tra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Potent, with firm-fixt laws, arranging sacrifice, visiting solemn rites in splendour of the day,  
      Obeying Order, these whose priest is Agni, free from falsehood, poured the waters out when Vrtra died.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Herrscher, die die Gesetze aufrecht erhalten, das Opfer einrichten, im hohen Himmel wohnen, die Oberherren des Opfers, mit Agni als Hotri, der Wahrheit Pfleger, die Truglosen, sie ließen die Gewässer laufen nach Überwindung des Vritra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesetzbeschirmer, Herrscher, Opferschmückende, die himmlischen Verschönrer jedes Opferfests, Des Werkes Pfleger, deren Priester Agni ist, die holden machten Wasser frei im Vritrakampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

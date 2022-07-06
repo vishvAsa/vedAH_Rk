@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ धीभि꣡र् मनीषि꣡णो  
 मे꣡धिरासो विपश्चि꣡तः  
 अद्मस꣡द्याय हिन्विरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒द्म॒ऽसद्या॑य । हि॒न्वि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -69,36 +69,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मनीषिणः** मनस ईश्वराः **मेधिरासः** मेधाविनः **विपश्चितः** प्राज्ञा यजमानाः **धीभिः** कर्मभिः **अद्मसद्याय** अन्नस्य भजनाय **अग्निं** हिन्विरे प्रीणयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise, the intelligent, the sagacious, propitiate **Agni** with sacrifices for the attainment of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their insightful thoughts the inspired wise ones who are attentive  to poetic inspiration  
 have spurred Agni to join their meal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sages skilled in holy song and thin. kers with their thoughts have urged  
      Agni to share the sacred feast.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni treiben die nachsinnenden, redekundigen Weisen mit ihren Liedern an, sich zum Mahle zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni treiben andachtsvoll die weisheitsreichen Beter an, Begeistert zu dem Opfermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдумчивые, мудрые провидцы  
 (Своими) молитвами поторапливают  

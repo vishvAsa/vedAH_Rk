@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नोजवा अ꣡यमान  
 आयसी꣡म् अतरत् पु꣡रम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सो꣡मं वज्रि꣡ण आ꣡भरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 दिव॑म् । सु॒ऽप॒र्णः । ग॒त्वाय॑ । सोम॑म् । व॒ज्रिणः॑ । आ । अ॒भ॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manojavā* ← *manaḥ* ← *manas*
 - \[noun\], neuter
@@ -93,7 +93,7 @@ popular;; epic anuṣṭubh (424)
 **सुपर्णः** गरुत्मान् **मनोजवाः** मनोवेगः **अयमानः** गच्छन् **आयसीं** हिरण्मयीं **पुरं** नगरीम् **अतरत्** अतारीत्। ततः **दिवं** स्वर्गं **गत्वाय** गत्वा **वज्रिणे** इन्द्राय **सोमम्** **आभरत्** आहरच्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ popular;; epic anuṣṭubh (424)
 He brought the Soma to the thunderer: Legend : **Gāyatrī** as a bird fetchedSoma from heaven. āyasīm = metal, hiraṇmayīm, golden; an allusion to the cities of the demons as made ofmetal on earth, silver in the firmament and gold in heaven (**Aitareya** **Brāhmaṇa** 1.23)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer:] “Going at the speed of thought, it crossed the metal  stronghold [=sky?].  
 The fine-feathered (falcon), having gone to heaven, brought the soma to  the mace-bearer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stealing of the soma treated here logically precedes the outcome of the Vṛtra battle treated in 7 and 9, since Indra needed to drink the soma in order to fight Vṛtra, as is well known. I suggest that the theft is intercalated here, between two hemistichs about the vájra- (7cd, 9ab), not only because Rigvedic narratives are famously shattered chronologically, but also to play a trick. The vajrá- was let fly (a in 7d (apīpatat); in the next half-verse (8ab) the unspecified subject goes at the speed of thought. The default assumption would be that it is the flying mace, but cd disappoints our expectations by introducing the bird and the familiar soma-theft.
 
@@ -125,23 +125,23 @@ I take these three Anuṣṭubh verses as the singer’s performance of the reci
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On-rushing with the speed of thought within the iron fort he pressed:  
      The Falcon went to heaven and brought the Soma to the Thunderer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schnell wie der Gedanke eilend war er der ehernen Burg entronnen. Zum Himmel gelangte der Falke und brachte dem Keulenträger den Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gedankenschnelle Adler durchdrang eilend die eherne Wolkenburg, und als er zum Himmel gekommen, brachte er dem Blitzträger den Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мчась со скоростью мысли  
 Он прорвался сквозь железную крепость,  

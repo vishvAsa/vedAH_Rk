@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो भर विअ꣡ञ्जनं  
 गा꣡म् अ꣡श्वम् अभिअ꣡ञ्जनम्  
 स꣡चा मना꣡ हिरण्य꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सचा॑ । म॒ना । हि॒र॒ण्यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M
 हे इन्द्र त्वं **नः** अस्मभ्यं **व्यञ्जनं** **गामश्वमभ्यञ्जनं** तैलं च **आ** **भर**। **मना** मननीयानि **हिरण्यया** हिरण्मयान्युपकरणानि **सचा** सहाभरेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M
 Preciousgolden vessels: **manā** = mananīyāni; a vessel or a weight, i.e., with a weight of gold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us an ornament, a cow, a horse, an adornment,  
 along with golden jewelry.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring cattle, bring us ornament, bring us embellishment and steeds,  
      Give us, besides, two rings of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring das, was ziert, Rind, Roß, Salböl nebst goldener Schabracke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O bringe Schmuck und Rinder uns und Rosse und Geschmeide her Zugleich mit goldenem Geräth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

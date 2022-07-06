@@ -8,7 +8,7 @@ title = "+053"
 यमैच्छाम' इत्येकादशर्चमेकादशं सूक्तम् । देवानां वाक्यत्वाद्देवा ऋषयः । तदद्य' इति द्वृचस्य सौचीकोऽग्निर्ऋषिः।  ‘ तन्तु तन्वन् ' इत्याद्या अष्टमीवर्जिता जगत्यः । अष्टमी शिष्टाश्च त्रिष्टुभः । तथा चानुक्रान्तं -- तन्तुमाद्या जगत्योऽष्टमीवर्जम्' इति । शिष्टमुक्तम् । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 53 (879)  
 Agni [“Opferlied”]  
@@ -20,7 +20,7 @@ The next three verses (6–8) are again the speech of human priests, addressed  
 The most enigmatic verses of the hymn are the last three (9–11), in jagatī meter  (as opposed to the prevalent, but not ubiquitous triṣṭubh). They begin with the god  Tvaṣṭar, the “Fashioner” of the gods: he has fashioned drinking cups for the gods,  and now sharpens a hatchet for Brahmaṇaspati to use. Since Brahmaṇaspati has  a transparent name, “Lord of the Sacred Formulation,” he is almost surely going  to use the hatchet to hew a sacred formulation, the mystical verbal embodiment  of cosmic truth. In verse 10 the poets are urged to use the same types of tools,  presumably to fashion the same things: sacred formulations. Or, in another com mon metaphor, to create “hidden tracks” (that is, mystical verbal compositions).  Verse 11 may be an example of such a hidden track: it is certainly impenetrable  enough, with riddling and paradoxical images that several millennia of study have  not solved.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Priester:
 </details>

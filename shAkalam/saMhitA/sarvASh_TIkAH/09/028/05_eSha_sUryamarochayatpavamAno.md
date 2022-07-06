@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ सू꣡र्यम् अरोचयत्  
 प꣡वमानो वि꣡चर्षणिः  
 वि꣡श्वा धा꣡मानि विश्ववि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वा॑ । धामा॑नि । वि॒श्व॒ऽवित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -79,43 +79,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **सूर्यमरोचयत्** रोचयति स्वरसेन । **पवमानः** पूयमानः **विचर्षणिः** सर्वस्य द्रष्टा **विश्ववित्** सर्ववित् । न केवलं सूर्यं किंतु **विश्वा** सर्वाणि **धामानि** तेजःस्थानानि रोचयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This purified, all-contemplating, all-knowing (**Soma**) gives radiance to the sun and all the spheres (of light).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, self-purifying, boundless, made the sun shine,  
 as the all-knowing one (knowing) all the domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The c pāda, víśvā dhā́māni viśvavít, has the same neut. pl. acc. NP as 2c and the third word is phonologically similar to 2c āviśán. There are in principle three ways to construe víśvā dhā́māni: 1) as a 2nd object to arocayat in a (“made the sun shine (and) all the domains”); 2) as the goal of āviśán, supplied from 2c (“entering all domains”); 3) as the object of the root noun -víd- extracted the cmpd. viśva-víd- or as further specification of the 1st member of that cmpd. (so, either “all-knowing, (knowing) the domains” as in the published
 
 tr., or “knowing all, (viz.) all the domains”). Like the published translation, Renou chooses the first version of 3), and this seems the most rhetorically satisfying, while Geldner opts for a variant of the second version of 3, while being forced to the further step of interpr. dhā́māni as “forms” (“all Formen vollständig kennend”) on the basis of his interpr. of 2c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Pavamana, swiftand strong, Omniscient, gave spleudour to  
      The Sun and all his forms of light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser erleuchtete die Sonnen, sich läuternd, der Ausgezeichnete, alle Formen vollständig kennend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er zündete die Sonne an, der flammende, bewegliche, Der aller Stätten kundig ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Павамана заставил светить  
 Солнце, (он) очень подвижный,  

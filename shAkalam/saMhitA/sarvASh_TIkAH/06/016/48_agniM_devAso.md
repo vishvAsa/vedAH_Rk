@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ देवा꣡सो अग्रिय꣡म्  
 इन्ध꣡ते वृत्रह꣡न्तमम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तृळ्हा꣡ र꣡क्षांसि वाजि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 येन॑ । वसू॑नि । आऽभृ॑ता । तृ॒ळ्हा । रक्षां॑सि । वा॒जिना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -90,19 +90,19 @@ popular;; epic anuṣṭubh (424)
 **अग्रियं** मुख्यं **वृत्रहन्तमम्** अतिशयेन वृत्रस्य हन्तारमिमम् **अग्निं** **देवासः** देवाः **इन्धते** दीपयन्ति । **येन** अग्निना **वसूनि** असुरैरपहृतानि धनानि हविर्लक्षणान्यन्नानि वा **आभृता** असुरसकाशाद्यजमानाद्वाहृतानि । येन च **वाजिना** बलवताग्निना **रक्षांसि** यज्ञविरोधीनि **तृळ्हा** तृढानि हिंसितानि तमग्निमिन्धत इत्यन्वयः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods kindle **Agni** as the chief (of them); as the especial desroyer of **Vṛtra**; by whom the treasures (of the **asuras**) are carried off; by whom the **rākṣasas** are destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni do the gods kindle at the front, as the best obstacle-smasher by whom goods are brought here and the demonic powers crushed—by  the prizewinner.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
 <details open><summary><h2>47-48 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ This long hymn (or the short final tṛca) seems to end with a buried poetic sig
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods enkindle Agni, best slayer of Vrtra, first in rank,  
      The Mighty, One who brings us wealth and crushes down the Raksasas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter zünden den Agni als Ersten an, den Erzfeindetöter, den Sieghaften, der die Schätze heimgebracht, die bösen Geister zerschmettert hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ersten zünden die Götter den Agni an, den feindeschlagendsten, der Güter herbeibringt und kämpfend dreifach zertheilt die Gespenster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боги зажигают Агни  
 Как стоящего во главе, лучше всех убивающего врагов,  

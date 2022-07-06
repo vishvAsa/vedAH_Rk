@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ ष꣡ वि꣡भ्यो मरुतो वि꣡र् अस्तु  
 प्र꣡ श्येनः꣡ श्येने꣡भिय आशुप꣡त्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हव्य꣡म् भ꣡रन् म꣡नवे देव꣡जुष्टम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒च॒क्रया॑ । यत् । स्व॒धया॑ । सु॒ऽप॒र्णः । ह॒व्यम् । भर॑त् । मन॑वे । दे॒वऽजु॑ष्टम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -138,7 +138,7 @@ genre M
 अथैतदादिभिः श्येनः स्तूयते । हे **मरुतः** वेगेन मरुत्सदृशाः पक्षिणः सः प्रसिद्धः श्येनाख्यः विः पक्षी विभ्यः पक्षिभ्यो युष्मत्तः प्र सु **अस्तु** बलेन प्रकृष्टो भवतु । किंच श्येनेभ्यः शंसनीयगमनेभ्यः स्वसमानजातिभ्यः पक्षिभ्यः सकाशात् **आशुपत्वा** आशुपतनः शीघ्रगामी श्येनः प्रकृष्टो भवतु । 'सुपर्णः शोभनपतनः यत् यदा श्येनः **अचक्रया** चक्रवर्जितया स्वधया रथेन देवजुष्टं देवैः सेवितं **हव्यं** सोमलक्षणं हविः **मनवे** प्रजापतये भरत् अहरत द्युलोकसकाशादाहृतवान् । अत्र स्वधाशब्दो रथवाची अचक्रया स्वधया वर्तमानम् ' ( ऋ. सं. १०. २७. १९) इत्यादौ दर्शनात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ genre M
 With a wheelless car: acakrayā vadhayā = cakrarahitena rathena, with a car without wheels; the text has havyam, this is a metonymy for the Soma, which is said to have been brought from heaven by the **gāyatrī**, in the form of a hawk; by the hawk, we are to understand the **supreme spirit**, **parabrahma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let that bird stand out from (all other) birds, o Maruts, the swift-flying  falcon from (all other) falcons,  
 because the fine-feathered one, with his independent power that needed  no (chariot-)wheel, brought to Manu the oblation that is pleasing to  the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich sounds like a formal eulogistic opening, though I don’t know of any parallels elsewhere (quite possibly for want of looking).
 
@@ -169,23 +169,23 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Before all birds be ranked this Bird, O Maruts; supreme of falcons be this fleet-winged Falcon,  
      Because, strong- pinioned, with no car to bear him, he brought to Manu the Godloved oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vogel soll ja allen Vögeln voraus sein, ihr Marut, der schnellfliegende Adler allen Adlern, wenn der Beschwingte aus eigner Triebkraft ohne Räder dem Manu die gottgenehme Opferspeise bringen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voran sei dieser Vogel andern Vögeln, der schnelle Aar den Aaren, o ihr Maruts, Da selbstbewegten Triebs der Adler brachte den gottgeliebten Opfertrank den Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта птица должна быть далеко впереди (всех) птиц, о Маруты.  
 Быстро летящий орел – впереди (всех) орлов,  

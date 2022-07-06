@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि अग्ने समिधानो꣡ अर्वा꣡ङ्  
 इ꣡न्द्रेण देवइः꣡ सर꣡थं तुरे꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हा देवा꣡ अमृ꣡ता मादयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 ब॒र्हिः । नः॒ । आ॒स्ता॒म्् । अदि॑तिः । सु॒ऽपु॒त्रा । स्वाहा॑ । दे॒वाः । अ॒मृताः॑ । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M;; repeated line
 हे **अग्ने** **समिधानः** **अर्वाक्** अस्मदभिमुखस्त्वम् **इन्द्रेण** **तुरेभिः** त्वरितैः **देवैः** च **सरथं** समानरथं यथा भवति तथा **आ** **याहि** आगच्छ । **नः** अस्माकं **बर्हिः** अधि **आस्ताम्** **अदितिः** च **सुपुत्रा** कल्याणपुत्रा । **स्वाहा** **देवाः** च सर्वे **अमृताः** सन्तः **मादयन्ताम्** इति ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, kindled (into flame), come to our presence in the same chariot with **Indra**, and with the swiftmoving gods; may **Aditi**, the mother of excellent sons, sit down on the sacred grass, and may the immortal godsbe satisfied with the reverentially-offered oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey near here, o Agni, as you are kindled, on the same chariot with  Indra and the swift gods.  
 Let Aditi of good sons sit on our ritual grass. Svāhā! Let the immortal  gods rejoice!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come thou to us, O Agni, duly kindled, together with the potent Gods and Indra.  
      On this our grass sit Aditi, happy Mother, and let our Hail! delight the Gods Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm entflammt näher, o Agni, mit Indra und den höheren Göttern auf gleichem Wagen! Auf unser Barhis soll sich Aditi, die Mutter guter Söhne setzen. Unter Svaharuf sollen sich die unsterblichen Götter ergötzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet komme noch herbei, o Agni, vereint mit Indra und den starken Göttern; Auf unsrer Streu sitz' Aditi, die Mutter, die Götter mögen sich zum Heil berauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, о Агни, приезжай к нам сюда  
 Вместе с Индрой, с могучими богами на одной колеснице!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समान꣡म् उ त्य꣡म् पुरुहूत꣡म् उक्थि꣡यं  
 र꣡थं त्रिचक्रं꣡ स꣡वना ग꣡निग्मतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वयं꣡ वि꣡उष्टा उष꣡सो हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 परि॑ऽज्मानम् । वि॒द॒थ्य॑म् । सु॒वृ॒क्तिऽभिः॑ । व॒यम् । विऽउ॑ष्टौ । उ॒षसः॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
@@ -115,36 +115,36 @@ genre M
 हे अश्विनौ युवयोः **समानमु** साधारणमेव **त्यं** तं पुरुहूतं बहुभिराहूतम् **उक्थ्यं** प्रशस्यं **त्रिचक्रं** **सवना** सवनानि यज्ञान् **गनिग्मतं** प्रतिगच्छन्तं **परिज्मानं** परितो गन्तारं **विदथ्यं** यज्ञहितं **रथम्** **उषसः** **व्युष्टौ** **सुवृक्तिभिः** सुष्ठु दोषवर्जिताभिः स्तुतिभिः वयं **हवामहे** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “At break of dawn, (**Aśvins**), we invoke with pious prayers your common chariot, praised of many,adorable three-wheeled, frequenting religious rites, traversing all space, suitable at sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This your common three-wheeled chariot—much invoked and worthy of  praise, going again and again to the soma-pressings,  
 earth-encircling and worthy of the rites—do we invoke with well-twisted  (hymns) at the break of dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT general Car of yours, invoked by many a man, that comes to our libations, three-wheeled, meet for lauds,  
      That circumambient Car, worthy of sacrifice, we call with our pure hymns at earliest flush of dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen gemeinsamen Wagen, den vielgerufenen, preislichen, dreirädrigen, immer wieder zu den Trankspenden kommenden, herumfahrenden, weiser Rede würdigen, wollen wir mit Lobliedern bei Anbruch des Morgens anrufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen euren vielgerufnen Wagen her, den preisenswerthen, der zu den Gelagen eilt, Auf dreien Rädern ringsum läuft, den festlichen, durch schöne Lieder bei der Morgenröthe Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы призываем прекрасными гимнами при вспышке утренней зари  
 Ту общую многопризываемую, достойную хвалы  

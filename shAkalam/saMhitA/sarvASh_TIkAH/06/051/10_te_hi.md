@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ श्र꣡यिष्ठवर्चसस्+ त꣡ उ नस्  
 तिरो꣡ वि꣡श्वानि दुरिता꣡ न꣡यन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡धीतयो वक्मरा꣡जसत्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽक्ष॒त्रासः॑ । वरु॑णः । मि॒त्रः । अ॒ग्निः । ऋ॒तऽधी॑तयः । व॒क्म॒राज॑ऽसत्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -135,19 +135,19 @@ genre M
 ये देवा वक्ष्यमाणगुणाः **ते** **हि** ते खलु **श्रेष्ठवर्चसः** प्रशस्यतमदीप्तयो भवन्ति । अतः **त** **उ** त एव **नः** अस्माकं **विश्वानि** सर्वाणि **दुरिता** पापानि **तिरः** तिरोहितानि यथा भवन्ति तथा **नयन्ति** नयन्तु । विनाशयन्त्वित्यर्थः । ये वरुणादयो देवाः **सुक्षत्रासः** शोभनबलाः शोभनधना वा **ऋतधीतयः** सत्यकर्माणः **वक्मराजसत्याः** । वक्म वचनं स्तोत्रम् । तस्य राजान ईशाना वक्मराजाः स्तोतारः । तेषु सत्या अवितथाः । एवंभूतास्ते हीत्यन्वयः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they, exceeding in splendour, so guide us, that all iniquities may disappear, they, the very powerful **Varuṇa**, **Mitra**, **Agni**, practisers of truth, and faithful to those who are prominent in (their) praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For they possess the best luster and they lead us across all difficulties— those of good rule, Varuṇa, Mitra, Agni, whose inspired thoughts are  truth, who are in reality rulers of speech.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Judging from the repeated té and the u that follows the 2nd one (strikingly in the middle of a pāda), we should be dealing with two parallel clauses, one nominal, one verbal. The accent on náyanti shows that the 2nd clause is in the domain of the hí in pāda a. Geldner renders as two clauses, but does not seem to keep the 2nd in the hí domain; Renou ignores the té u and tr. as a single clause. There does not appear to be a main clause in the vs., unless we want to construe cd as a nominal main cl. (“they are of good rule …”).
 
@@ -158,23 +158,23 @@ Once again we meet the trio Varuṇa, Mitra, Agni (see comm. on vs. 3, and previ
 Consonant with the focus on truth in this hymn, pāda d is framed by the words ṛtá- and satyá-, the former as first member of a cmpd, the latter as last member. As was just noted, ṛtá-dhīti- is a well-formed bahuvrīhi with a parallel already in the hymn. But vakma-rā́ja-satya- is distinctly peculiar. For one thing, it has three members, which is unusual for the RV. But more striking is the final member satya-, whose relation to the prior (complex) member vakma-rā́ja(n)- is unclear. (Curiously, AiG doesn’t touch this cmpd.) Its only possible parallel is the even stranger ṛtá-jāta- satya-, with both ṛtá- and satyá-, in IV.51.7 (see comm. ad loc.). Grassmann glosses “dem Lenker der Gebete treu oder willfährig.” Geldner treats as two separate words “'die beredten Könige, die wahrhaften,” without commenting on this disjunction (or does he think it’s a dvandva?), though he cites Sāyaṇa. as interpr. “wahrhaftig gegen die Herren der Rede d.h. die Sänger,” which is also reflected in Grassmann’s gloss. Oldenberg’s “in Wahrheit Könige der Rede” and Renou’s “qui sont vraiment les rois de la parole (sacrale)” are in essential agreement, and the published translation follows them -- though I feel as though we’re all missing something.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For these are they who shine with noblest splendour; through all our troubles these conduct us safely-  
      Varuna, Mitra, Agni, mighty Rulers, trueminded, faithful to the hymn's controllers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sie besitzen das höchste Ansehen; sie führen uns über alle Fehltritte hinweg, Varuna, Mitra, Agni, die guten Herrscher, die rechtgesinnten, die beredten Könige, die wahrhaften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn sie, mit schönstem Glanz begabt, sie führen uns über alles Misgeschick hinüber, Schön waltend Mitra, Varuna und Agni, mit heil'gem Sinn und treu dem Redeführer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь они с наилучшим блеском, они же нас  
 Ведут через все трудности,  

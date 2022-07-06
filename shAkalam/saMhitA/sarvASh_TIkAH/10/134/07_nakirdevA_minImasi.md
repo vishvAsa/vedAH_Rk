@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किर् देवा मिनीमसि  
 न꣡किर् आ꣡ योपयामसि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡त्राभि꣡ सं꣡ रभामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M
 प॒क्षेभिः॑ । अ॒पि॒ऽक॒क्षेभिः॑ । अत्र॑ । अ॒भि । सम् । र॒भा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakir*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 हे **देवाः** इन्द्रादयः युष्मद्विषये **नकिः** **मिनीमसि** न किमपि हिंस्मः। मीङ् हिंसायाम् । क्रैयादिकः । मीनातेर्निगमे' इति ह्रस्वः । इदन्तो मसिः । आकारः समुच्चये। **नकिः** न किंच **योपयामसि** योपयामः। अननुष्ठानेन विमोहयामः ।  युप विमोहने । किं तर्हि । **मन्त्रश्रुत्यं** मन्त्रेण स्मार्यं श्रुतौ विधिवाक्ये प्रतिपाद्यं युष्मद्विषयं कर्म तत् **चरामसि** आचरामः । अनुतिष्ठामः। अपि च पक्षेभिः पक्षैः पक्षस्थानीयैः स्तुतशस्त्रैः **अपिकक्षेभिः** । अपिकक्षो नाम बाह्वोर्मध्यभागः । यज्ञस्य अपिकक्षभूतैर्हविर्भिः **अत्र** अस्मिन् यज्ञेऽभितः सर्वतो युष्मान् **सं** **रभामहे** सम्यगवलम्बामहे ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ genre M
 Wings and arms: metaphors for prayers andsacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, never do we confound, never do we efface (them):  
 we practice obedience to your solemn utterances.  
 We grab onto (you) here by the sides, by the shoulders.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Never, O Gods, do we offend, nor are we ever obstinate: we walk as holy texts command.  
      Closely we clasp and cling to you, cling to your sides, beneath your arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir versäumen nichts, o Götter, wir vertuschen nichts, wir halten darauf deinen Rat zu hören. An den Flanken, dicht an den Gurten klammern wir uns dabei fest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimmer, o Götter, übertreten wir eure Gebote [mántrā aus mantraçrútyam zu ergänzen], nicht verletzen wir sie, wir wandeln ihnen gehorsam; an eure Seiten unter den Achseln schliessen wir uns eng an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда, о боги, мы не нарушаем (наших заветов),  
 Никогда (ничего) не замазываем.  

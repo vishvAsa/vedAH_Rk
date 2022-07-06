@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡व्यसीं न꣡व्यसीं धीति꣡म् अग्न꣡ये  
 वाचो꣡ मतिं꣡ स꣡हसः सून꣡वे भरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 हो꣡ता पृथिव्यां꣡ नि꣡ अ꣡सीदद् ऋत्वि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । नपा॑त् । यः । वसु॑ऽभिः । स॒ह । प्रि॒यः । होता॑ । पृ॒थि॒व्याम् । नि । असी॑दत् । ऋ॒त्वियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 अहम् **अग्नये** **तव्यसीं** तवीयसीम् अतिशयेन वर्धयित्रीम् ॥ तवतिर्वृद्ध्यर्थः सौत्रो धातुः । अस्मात् तृजन्तात्  तुश्छन्दसि ' इति ईयसुन् । तुरिष्ठेमेयःसु ' इति तृलोपः । छान्दस ईकारलोपः॥ **नव्यसीं** नवतरामपूर्वां **धीतिं** यागलक्षणाम् उक्तगुणकं कर्म **प्र** **भरे** प्रकर्षेण करोमि । तथा उक्तलक्षणां **वाचो** **मतिं** स्तुतिरूपं कर्म भरे । कीदृशायाग्नये। **सहसः** बलस्य **सूनवे** पुत्राय । किंच **यः** अग्निः **अपां** **नपात्** तासां नप्ता । ‘ अद्भ्यः ओषधयः ओषधीभ्योऽग्निः' इति अग्नेर्नप्तृत्वम् । अथवा अपां न पातयिता वैद्युताग्निरूपेण प्रवर्षकत्वादिति भावः । तथा **प्रियः** यजमानस्य प्रीणयिता प्रियतमो वा तस्य **होता** होमनिष्पादकः सोऽग्निः **ऋत्वियः** प्राप्तकालः प्राप्तप्रदानसमयः सन् **पृथिव्यां** वेदिलक्षणायां **वसुभिः** निवासयोग्यैर्गवादिधनैः सहितः **न्यसीदत्** नितरां सीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,39 +144,39 @@ genre M
 The grandson of the waters: apām **napāt**; vegetable substances are the progeny of rain, and fire is the progeny of vegetable substances, timber, or fuel; upon the altar: pṛthivyām = lit. on the earth, on the mount of earth constituting the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I present a stronger, newer insight to Agni, the thinking of my speech to  the son of strength,  
 the Child of the Waters, who, together with the good ones [/Vasus], has  sat down upon the earth as our dear Hotar at his season.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Agni I present a newer mightier hymn, I bring my words and song unto the Son of Strength,  
      Who, Offspring of the Waters, bearing precious things sits on the earth, in season, dear Invoking Priest.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I bring forward my most powerful, entirely new (pious) thought (i. e. hymn). the prayer of my words 1 to Agni, the son of strength; he is the child of the Waters 2, the beloved one, who together with the Vasus has sat down on the Earth as a Hotri observing the appointed time (for sacrificing).
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 A mightier, newer hymn to Agni I present; My words and song to him, the son of strength, I bring. Who, offspring of the waters, with bright gods sat down. As regular and dear invoker, on the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein noch kraftvolleres neueres Gedicht trage ich dem Agni vor, die ausgedachte Rede dem Sohn der Kraft, dem Kind der Gewässer, der zusammen mit den Vasu´s als lieber Hotri sich auf Erden niederließ, die Zeiten einhaltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein kräft'ges, neues Lied bring' ich dem Agni dar, Gebet und Sprüche trag' ich vor dem Sohn der Kraft, Der Wasser Spross, der Götter Liebling stieg herab zur Erde als ein Priester, der die Bräuche kennt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я приношу Агни более сильное, более новое стихотворение,  
 Мысль, облеченную в слова, сыну силы,  

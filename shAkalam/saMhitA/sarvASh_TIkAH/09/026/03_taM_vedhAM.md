@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वेधा꣡म् मेध꣡याहियन्  
 प꣡वमानम् अ꣡धि द्य꣡वि  
 धर्णसि꣡म् भू꣡रिधायसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ध॒र्ण॒सिम् । भूरि॑ऽधायसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वेधां** विधातारं **पवमानं** **तं** **मेधया** प्रज्ञया **अह्यन्** प्रहिण्वन्ति । किं प्रति । **अधि** **द्यवि** द्युलोकं प्रति । पुनः कीदृशम् । **धर्णसिं** सर्वस्य धारकं **भूरिधायसं** बहूनां कर्तारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,36 +92,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bhūridhāyasam = bahūnām kartāram; it perhaps means, 'the nourisher of many'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, the ritual adept, have they impelled through their wisdom—the one  purifying himself in heaven,  
 steadfast, giving nurture to many.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the anomalous acc. sg. vedhā́m to vedhás- see Oldenberg ad loc.; AiG II.2.225, 725, III.283, 285. Renou’s suggestion that it may recall “l’origine lointaine ví-dhā” is best ignored, since Aves. vazdah- rules out a vṛddhi of -i- in the initial syllable of vedhás- (as Renou surely knew). Note that the correct pl. to the -as-stem, vedhásaḥ, is found in vs. 6.
 
 For the relationship between ádhi dyávi here and ā́diváḥ in 2c, see immed. above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, nourisher of many, Sage, creative Pavamana, they  
      Have sent, by wisdom, to the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Meister haben sie durch ihre Eingebung zur Eile getrieben, der sich am Himmel läutert, den Standfesten, viele Labenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Ordner, der am Himmel flammt, ihn trieben sie mit Andacht an, Den starken, welcher viele, nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого устроителя обряда, Паваману  
 С помощью мудрости поторопили на небо,  

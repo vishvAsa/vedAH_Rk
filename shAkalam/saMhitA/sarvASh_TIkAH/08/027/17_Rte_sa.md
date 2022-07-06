@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡ स꣡ विन्दते युधः꣡  
 सुगे꣡भिर् याति अ꣡ध्वनः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यं꣡ त्रा꣡यन्ते सजो꣡षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्य॒मा । मि॒त्रः । वरु॑णः । सऽरा॑तयः । यम् । त्राय॑न्ते । स॒ऽजोष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛte*
 - \[adverb\]
@@ -106,36 +106,36 @@ genre M
 एतन्नामकाः **सरातयः** समानदानास्त्रयो देवाः **सजोषसः** परस्परं संगताः सन्तः यं हव्यप्रदातारं **त्रायन्ते** स्वरक्षणैः पालयन्ति स धनादीनि विन्दतीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He gains (wealth) without war, he travels along the roads with quick (horses), whom **Aryaman**, Mitraand **Varuṇa**, alike munificent, and acting in concert, protect.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That one acquires without fighting; along (paths) easy to go on he  travels his routes,  
 whom Mitra, Varuṇa, and Aryaman protect—they of like generosity  and like delight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en without war he gathers wealth, and goes hisway on pleasant paths,  
      Whom Mitra, Varuna and Aryaman protect, sharing the gift,of one accord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der erwirbt ohne Kampf, er geht seine Wege auf guter Straße, wen Aryaman, Mitra, Varuna gleich günstig, einträchtig schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch ohne Kampf gewinnt er Gut, geht auf gebahnten Pfaden hin, Wen gleich an Huld Arjaman, Mitra, Varuna beschützen alle im Verein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без борьбы он находит (богатства),  
 Он проходит (свой) путь по легким (дорогам), –  

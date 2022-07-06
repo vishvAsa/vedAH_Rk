@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नो अग्न उ꣡प यज्ञ꣡म् ए꣡हि  
 प꣡ञ्चयामं त्रिवृ꣡तं सप्त꣡तन्तुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज्यो꣡ग् एव꣡ दीर्घं꣡ त꣡म आ꣡शयिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 असः॑ । ह॒व्य॒ऽवाट् । उ॒त । नः॒ । पु॒रः॒ऽगाः । ज्योक् । ए॒व । दी॒र्घम् । तमः॑ । आ । अ॒श॒यि॒ष्ठाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -130,7 +130,7 @@ popular
 भ्रातृषु हविर्वहनेषु मृतेषु मरणभीत्या कृतपलायनं गुहायां निगूढमग्निमग्न्याद्याः सूक्तद्रष्टार ऋषयोऽनयाह्वयन । हे **अग्ने** **नः** अस्माकम् **इमं** **यज्ञम्** **उप** **एहि** उपागच्छ । प्राप्नुहि। मा पलायिष्ठाः। कीदृशम् । **पञ्चयामं** यजमानपञ्चमैर्ऋत्विग्भिर्नियमितम् । यद्वा । धानाकरम्भादिभिः पञ्चभिः हविर्भिः पञ्चभिः प्रयाजैर्वा प्राप्तम् । **त्रिवृतं** पाकयज्ञहविर्यज्ञसोमयज्ञभेदेन सवनत्रयात्मना वा त्रिगुणं **सप्ततन्तुं** सप्त तन्तवस्तनितारः कर्मणां विस्तारयितारो होत्राद्याः सप्त वषट्कर्तारो यस्य । यद्वा । अग्निष्टोमोऽत्यग्निष्टोम उक्थ्यः षोळशी वाजपेयोऽतिरात्रोऽप्तोर्याम इति सप्तधा विस्तीर्यमाणम् । ईदृशं यज्ञमुपगत्य चानन्तरं **नः** अस्माकं **हव्यवाट्** हव्यानां हविषां वोढा **असः** भव ॥ अस्तेर्लेट्यडागमः ॥ **उत** अपि च **नः** अस्माकं पुरोगाः पुरतो गन्ता भव ॥ जनसनखनक्रमगमो विट् । ‘ विड्वनोरनुनासिकस्यात् ' इत्यात्वम् ॥ **ज्योक्** चिरकालम् **एव** अस्मान् परित्यज्य **दीर्घं** **तमः** महदन्धकारं गुहायाम् **आशयिष्ठाः** । आस्थाय शयनमकार्षीः । इत ऊर्ध्वं तस्मात् स्थानादस्मानागच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,28 +141,28 @@ popular
 Five oblations:or, regulated by five, i.e., by the **yajamāna** and the four chief priests, the **Hotā**, the **Udgātā**, the **Adhvaryu**,and the **Brahmā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Come right up to this sacrifice of ours here, Agni, with its five  tracks, three circles, seven threads. You will be our oblation-carrier and the one who goes in front of us. For  a long time indeed you have lain in long darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME to this sacrifice of ours, O Agni, threefold, with seven threads and five divisions.  
      Be our oblation-bearer and preceder: thou hast lain long enough in during darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Komme zu diesem unserem Opfer, das fünf Gänge, drei Schichten, sieben Fäden hat! Du sollst unser Opferfahrer und Anführer sein. Schon zu lange hast du im währenden Dunkel gelegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm, Agni, her zu diesem unserm Opfer, fünf Bahnen hat's, drei Räder, sieben Fäden; Dass du uns führest und das Opfer fahrest, zu lang' schon hast im Dunkel du gelegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди, о Агни, на это наше жертвоприношение,  
 С пятью путями, трехчастное, с семью нитями!  

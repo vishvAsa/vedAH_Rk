@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृतं꣡ यदा꣡ क꣡रसि जातवेदो  
 अ꣡थेम् एनम् प꣡रि दत्तात् पितृ꣡भ्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था देवा꣡नां वशनी꣡र् भवाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । गच्छा॑ति । असु॑ऽनीतिम् । ए॒ताम् । अथ॑ । दे॒वाना॑म् । व॒श॒ऽनीः । भ॒वा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛtaṃ* ← *śṛtam* ← *śrī*
 - \[verb noun\], accusative, singular
@@ -130,7 +130,7 @@ popular
 हे जातवेदः यदा प्रेतशरीरं श्रृतं पक्वं करसि करिष्यसि अथ ईं तदानीमेव एनं प्रेतं पित्रुभ्यः परिदत्तात् प्रयच्छ यदा अयं प्रेतः एतामग्निना कृतामसुनीतिं प्राणस्य नयनं प्राणप्रेरणं गच्छाति गच्छति प्राप्नोति अथ तदानीमेव देवानां वाशनी देवानां वशं प्रापि तोभवाति भवति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ popular
 When he proceeds to that world ofspirits: when he obtains the quickening of life, **prāṇa** preraṇam, wrought by **Agni**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you will have made him cooked to readiness, Jātavedas, then  deliver him to the forefathers.  
 When he will embark on the (way) leading to (the other) life, then he will  lead at the will of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast made him ready, Jatavedas, then do thou give him over to the Fathers.  
      When he attains unto the life that waits him, he shall become the Deities' controller.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du ihn gar gemacht haben wirst, o Jatavedas, dann überliefere ihn den Vätern; wenn er dieses Seelengeleite antreten wird, dann soll er Höriger der Götter werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du ihn gar gemacht, o Wesenkenner, dann sollst du ihn den Vätern übergeben Wenn er zu jener Geisterwelt gelangt ist, dann soll der Götter Unterthan er werden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приготовишь когда его, Джатаведас,  
 То передай его отцам!  

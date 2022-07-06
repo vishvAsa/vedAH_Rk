@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ वा꣡जं देव꣡हितं सनेम  
 म꣡देम · शत꣡हिमाः सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M;; repeated line
 अ॒या । वाज॑म् । दे॒वऽहि॑तम् । स॒ने॒म॒ । मदे॑म । श॒तऽहि॑माः । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -79,34 +79,34 @@ genre M;; repeated line
 **अया** अनया स्तुत्या देवहितं देवेन द्योतमानेनेन्द्रेण दत्तं **वाजम्** अन्नं **सनेम** वयं संभजेम । अपि च **सुवीराः** शोभनपुत्रोपेताः वयं **शतहिमाः** शतसंवत्सरान् **मदेम** हृष्याम ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, by this (praise), obtain food granted by the deity; may we, blessed with excellent **male** descendants, be happy for a hundred winters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With this (hymn) might we win the prize established by the gods.  – Having good heroes might we rejoice for a hundred winters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With this may we obtain strength God-appointed, and brave sons gladden us through a hundred winters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesem Liede möchten wir den gottbestimmten Lohn verdienen. Wir wollen, hundert Winter lebend, als Meister frohlocken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So lass uns gottbestimmte Kraft erlangen, froh sei'n wir, reich an Söhnen, hundert Jahre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этой (песней) да завоюем мы награду, установленную богами!  
 Да будем мы радоваться сто зим, имея прекрасных сыновей!

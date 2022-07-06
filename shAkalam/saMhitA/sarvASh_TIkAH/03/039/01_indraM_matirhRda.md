@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रम् मति꣡र् हृद꣡ आ꣡ वच्य꣡माना  
 अ꣡छा प꣡तिं स्तो꣡मतष्टा जिगाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र य꣡त् ते जा꣡यते विद्धि꣡ त꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या । जागृ॑विः । वि॒दथे॑ । श॒स्यमा॑ना । इन्द्र॑ । यत् । ते॒ । जाय॑ते । वि॒द्धि । तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -130,43 +130,43 @@ genre M
 विश्वामित्रः स्तौति । हे इन्द्र **हृदः** हृदयात् **वच्यमाना** उच्यमाना **स्तोमतष्टा** स्तोमकारिभिः कृता **मतिः** स्तुतिः **पतिं** सर्वस्य जगतः स्वामिनं  **अच्छ** अभिलक्ष्य **आ** **जिगाति** समन्तात् गच्छतु । **या** मदीया स्तुतिः **जागृविः** स्तुत्यस्य सर्वं जागरणं कुर्वाणा **विदथे** यज्ञे **शस्यमाना** भवति । हे **इन्द्र** **ते** त्वदर्थं **यत्** स्तोत्रं मत्तः **जायते** तत् **विद्धि** जानीहि । **तस्य** इति द्वितीयार्थे षष्ठी ॥ मतिः । ‘ मन्त्रे वृष ' इत्यादिना क्तिन्नुदात्त: । हृदः । हृदयशब्दस्य ‘ पद्दन्नोमास' ( पा. सू. ६, १. ६३ ) इत्यादिना हृदादेशः । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । वच्यमाना । ‘ वच परिभाषणे ' इत्यस्य कर्मणि यक् । संप्रसारणवश्छान्दसः । प्रत्ययस्वरः ॥ स्तोमतष्टा । ‘ तक्षू त्वक्षू तनूकरणे' इत्यस्य कर्मणि निष्ठा । ‘ तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् । जिगाति । ‘ गा स्तुतौ छन्दसि' इति जुहोत्यादिः । ‘ बहुलं छन्दसि ' इत्यभ्यासस्य इत्वम् । निघातः । जायते । ‘ जनी प्रादुर्भावे' इत्यस्य लटि रूपम् । यद्वृत्तयोगादनिघातः । विद्धि । ‘ विद ज्ञाने' इत्यस्य लोटि हेः “ हुझल्भ्यो हेर्धिः' इति ध्यादेशः । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The praise that is prompted by the heart, and is uttered by the reciters of sacred hymns, proceeds to the presence of the lord, and is his awakener when repeated at the sacrifice; be cognizant **Indra**, of this praise, which is born for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thought goes toward Indra as her husband, curling herself out of my  heart, crafted as praise,  
 she who is wakeful when recited at the rite. Indra—what is born for you,  know that.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 √vañc means ‘move crookedly, meander’, but encompasses a number of different types of such motion, including circular or wave-like motion. Here I think it refers, rather charmingly, to a bending, curling movement made in order to come out of a small opening. (English ‘scrunch’ might be accurate, but is also inelegant.) The poet’s heart is thus configured as a smallish container from which his thought must gracefully exit -- a characteristically female gesture perhaps. I very much doubt that she is galloping, à la Witzel Gotō.
 
 The published translation should be altered to “when being recited” to reflect the present participle and to match the identical phrase in 2b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra from the heart the hymn proceedeth, to him the Lord, recited, built with praises;  
      The wakening song sung forth in holy synod: that which is born for thee, O Indra, notice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra als ihrem Gatten kommt aus dem Herzen sich aufschwingend, zum Loblied geformt, die Dichtung, die frühwache, beim Opfer vorgetragen. Indra, nimm das Lied war, das für dich geboren wird!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Indra eilt das Lied zum Lob gedichtet, zu ihm, dem Herren, von Herzen ausgesprochen; Das früh erweckt beim Opferfest gesagt wird; für dich entspriesst es, wisse das, o Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Индре как к (своему) мужу устремляется  
 Молитва, вырывающаяся из сердца, вытесанная в виде восхваления,  

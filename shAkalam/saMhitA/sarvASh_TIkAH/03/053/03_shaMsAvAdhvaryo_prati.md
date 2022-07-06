@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡सावाध्वर्यो प्र꣡ति मे गृणीहि  
 इ꣡न्द्राय वा꣡हः कृणवाव जु꣡ष्टम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था च भूद् उक्थ꣡म् इ꣡न्द्राय शस्त꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । इ॒दम् । ब॒र्हिः । यज॑मानस्य । सी॒द॒ । अथ॑ । च॒ । भू॒त् । उ॒क्थम् । इन्द्रा॑य । श॒स्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃsāvādhvaryo* ← *śaṃsāva* ← *śaṃs*
 - \[verb\], dual, Present imperative
@@ -137,7 +137,7 @@ genre M
 शंसिष्यन् होताध्वर्युं ब्रूते । हे अध्वर्यो आवां **शंसाव** । होतस्त्वमेव शंससि । कथमहं शंसानि । अत आह । **प्रति** **मे** **गृणीहि** इति । त्वं मे प्रतिगृणीहि ।' ओथामोदैव' इत्यादिकः होतुरुत्साहजननः प्रतिगरः ( आश्व. श्रौ. ७. ११ )। तं दत्स्व' । तथा **इन्द्राय** **जुष्टं** प्रीतियुक्तं **वाहः** स्तोत्रं **कृणवाव** करवाव। त्वं **यजमानस्य** **इदं** **बर्हिः** अस्मिन् बर्हिषि **आ** **सीद** उपविश । **अथ** **च** अनन्तरम् **इन्द्राय** इन्द्रार्थमावाभ्यां क्रियमाणम् **उक्थं** शस्त्रं **शस्तं** प्रशस्तं **भूत्** भवतु ॥ शंसाव । 'शंसु स्तुतौ ' इत्यस्य लोट्युत्तमद्विवचने रूपम् । ‘ आडुत्तमस्य° ' इत्याडागमः । उत्तमस्य पिद्वद्भावादनुदात्तत्वे धातुस्वरः । मे। ‘ अनुप्रतिगृणश्च ' ( पा: सू: १. ४. ४१ ) इति संप्रदानसंज्ञा । जुष्टम् । नित्यं मन्त्रे' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 Do you concur with me: **prati** me gṛṇīhi; the **Hotā** is supposed to speak to Adhvaryu to direct their joint performance of some part of the ceremony
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let us both recite, Adhvaryu: sing in response to me. Let us both make a  vehicle enjoyable to Indra.  
 Sit right here on the ritual grass of the sacrificer. And then the hymn will  be recited to Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adhvaryu, sing we both; sing thou in answer: make we a laud acceptable to Indra.  
      Upon this sacrificer's grass he seated: to Indra shall our eulogy be uttered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß uns aufsagen, Adhvaryu! Antworte du mir! Wir wollen dem Indra das beliebte Gefährt machen. Setz dich auf das Barhis des opfernden und dann werde dem Indra das Lobgedicht vorgetragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst beid' uns singen, Priester, sing mir Antwort, dem Indra lasst uns liebes Lob bereiten; Hier setz dich nieder auf die Streu des Opfrers; dann sei dem Indra unser Spruch gesprochen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будем исполнять вдвоем, о адхварью! Отвечай мне!  
 Сделаем для Индры повозку, (которая ему) понравится!  

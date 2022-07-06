@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअध्वरा꣡सो म꣡धुमन्तो अग्न꣡य  
 उस्रा꣡ जरन्ते प्र꣡ति व꣡स्तोर् अश्वि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मं सुषा꣡व म꣡धुमन्तम् अ꣡द्रिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । नि॒क्तऽह॑स्तः । त॒रणिः॑ । वि॒ऽच॒क्ष॒णः । सोम॑म् । सु॒साव॑ । मधु॑ऽमन्तम् । अद्रि॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svadhvarāso* ← *su*
 - \[adverb\]
@@ -114,36 +114,36 @@ genre M
 **स्वध्वरासः** शोभनयागसाधनाः **मधुमन्तः** होतव्यसोमवन्तः **अग्नयः** गार्हपत्यादयः **उस्रा** सह निवसन्तावश्विनौ **प्रति** **वस्तोः** अन्वहमुषःकाले **जरन्ते** स्तुवन्ति । **यत्** यदा **निक्तहस्तः** समन्त्रेणोदकेन शोधितहस्तः **तरणिः** कर्मणस्तारयिता **विचक्षणः** विविधं द्रष्टा अध्वर्युः **सोमं** **मधुमन्तम्** **अद्रिभिः** ग्रावभिः **सुषाव** अभिषुतवान् । तदा तेऽग्नयः स्तुवन्ति तस्मादागच्छतमित्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ssacred fires, the instrumental uments of holy sacrifice the conveyers of libations, praise the associated **Aśvins** at the break of day, when the observant (priest) the conductor of the rite, with washed **hands** has expressed by the (grinding) stones the sweet-flavoured **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Providing good ceremonies, honey-filled, the ruddy fires awaken at dawn  in response to the Aśvins,  
 when the wide-gazing (priest), his hands washed, advancing (across the  ritual ground), has pressed the honeyed soma with stones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well knowing solemn rites and rich in meath, the fires sing to the morning Asvins at the break of day,  
      When with pure hands the prudent energetic priest hath with the stones pressed out the Soma rich in meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit schönem Opferwerk, mit Süßigkeit wachen die Feuer die Asvin heran um das Hellwerden der Morgenröte, wenn mit gewaschenen Händen, fleißig, umsichtig der Adhvaryu den süßen Soma mit Steinen ausgepreßt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Feuer rauschen festlich schön voll Süssigkeit den Rittern früh entgegen in der Morgenzeit, Wenn reiner Hand der unverdrossne, einsichtsvoll den honigsüssen Soma mit den Steinen presst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В окружении прекрасного обряда, богатые медом жертвенные костры  
 Вместе с зарей бодрствуют, маня Ашвинов на рассвете,  

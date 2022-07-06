@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ विदच् चित्रदृ꣡शीकम् अ꣡र्णः  
 शुक्र꣡सद्मनाम् उष꣡साम् अ꣡नीके  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिया꣡म् अस्तभ्नाद् वृषभो꣡ मरु꣡त्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; line affected by realignment
 अ॒यम् । म॒हान् । म॒ह॒ता । स्कम्भ॑नेन । उत् । द्याम् । अ॒स्त॒भ्ना॒त् । वृ॒ष॒भः । म॒रुत्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -120,20 +120,20 @@ genre M;; line affected by realignment
 **अयं** सोमः **चित्रदृशीकं** विचित्रदर्शनं यद्वा आश्चर्यत्वेन दर्शनीयम् **अर्णः** सर्वस्य प्रेरकं सौरं ज्योतिः **विदत्** लम्भयति । क स्मन् काले। **शुक्रसद्मनां** शुक्रं निर्मलमन्तरिक्षं सद्म सदनं यासां तासाम् **उषसाम्** **अनीके** प्रमुखे । उष:काल इत्यर्थः । अपि च **महान्** प्रवृद्धः **अयं** सोमः **महता** स्थविष्ठेन **स्कम्भनेन** स्तम्भनसाधनेन मध्यवर्तिनान्तरिक्षेण **द्यां** द्युलोकम् **उत्** **अस्तभ्नात्** ऊर्ध्वमस्थापयत् । यथाधो न पतति तथान्तरिक्षं तस्याधारत्वेन कृतवानित्यर्थः । कीदृशः सोमः । **वृषभः** वृष्टेर्जनयिता। सोमाहुत्या हि वृष्टिर्जन्यते । **मरुत्वान्** मरुद्भिर्युक्तः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This makes known the wonderfully beautiful and inspiring (solar) radiance) at the appearance of the dawns, whose dwelling is the firmament; this mighty (**Soma**) has sustained the heaven with a powerful support, th sender of rain, the leader of the winds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one found the flood with its brilliant appearance at the (fore)front  of the dawns with their gleaming seats.  
 This one, great, with a great pillar propped up heaven—he, the bull,  accompanied by the Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Holland & van Nooten Rig Veda edition divide the 2nd hemistich as … skámbhanenód # di yā́m, with úd the final of pāda a and di yā́m distracted and pāda-initial. But this is clearly wrong: úd is a preverb in tmesis with astabhnāt and should open the pāda, and dyā́m is rarely if ever distracted. Lubotsky’s division is correct.
 
@@ -150,23 +150,23 @@ the final vṛṣabhó marútvān “the bull accompanied by the Maruts”: mar�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He found the wavy sea of brilliant colours in forefront of the Dawns who dwell in brightness.  
      This Mighty One, the Steer begirt by Maruts, hath propped the heavens up with a mighty pillar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser fand die Flut, die prächtig anzusehen beim Erscheinen der im Lichte wohnenden Morgenröten. Dieser Große hat mit großer Stütze den Himmel emporgerichtet, der Bulle in Begleitung der Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er fand der Wasser Flut, die glänzend schimmert im Schein der Morgen, die im Lichte wohnen, Der grosse stützte mit der grossen Stütze, den Himmel hoch, der Stier umschart von Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он нашел стремнину, ярко сверкающую  
 Перед лицом утренних зорь, пребывающих в свете.  

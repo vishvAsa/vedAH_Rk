@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रिर् य꣡द् वाम् अवरो꣡हन्न् ऋबी꣡सम्  
 अ꣡जोहवीन् ना꣡धमानेव यो꣡षा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡गछतम् अश्विना शं꣡तमेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श्ये॒नस्य॑ । चि॒त् । जव॑सा । नूत॑नेन । आ । अ॒ग॒च्छ॒त॒म् । अ॒श्वि॒ना॒ । शम्ऽत॑मेन ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
@@ -105,7 +105,7 @@ genre M
 **अत्रिः** अस्मत्पिता **यत्** यदा **वां** युवाम् **अजोहवीत्** अस्तौषीत् **नाधमाना** याचमाना **योषा** योषिदिव । सा यथा पतिं प्रीणयति तद्वत् कुर्वन् **ऋबीसं** तुषाग्निमग्निकुण्डे क्षिप्तः सन् **अवरोहन** विमुञ्चन् अजोहवीत् । **श्येनस्य** चिज्जवसा श्येनस्य गरुत्मत इव वेगेन । चिदित्युपमार्थे । अथवा श्येनस्य जवसा वेगेन नूतनेन प्रथमोत्पनेन सततं गच्छतः श्येनस्य प्रथमजवेन **शंतमेन** अस्माकं सुखतमेन च रथेन तं रक्षितुम् आगच्छतं हे **अश्विना** ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ genre M
 Fire of chaff: the fire here is called ṛbīsam tuṣāgnim, a fire of chaff
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As when Atri, sinking down into the earth cleft, called upon you again  and again, like a young woman in need (at childbirth),  
 now by the very speed of a falcon, come here, Aśvins, with your most  luck-bringing (help).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Atri when descending to the cavem called on you loudly like a wailing woman.  
      Ye came to him, O Asvins, with the freshest and most auspicious fleetness of a falcon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Atri in den Glutofen hinabstieg und euch anrief wie eine Frau in Kindesnöten, da kamet ihr Asvin mit des Falken frischer, glückbringendster Eile herbei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Atri euch, zur Erdkluft niedersteigend, wie eine Gattin, Hülfe suchend anrief, da kamt ihr mit des Edelaares Schnelle, o Ritter, mit der neusten, segensreichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Атри, проваливаясь в яму,  
 Громко взывал к вам, как ищущая защиты женщина,  

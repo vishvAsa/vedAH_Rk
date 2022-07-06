@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृक्षो꣡ व꣡पुः पितुमा꣡न् नि꣡त्य आ꣡ शये  
 द्विती꣡यम् आ꣡ सप्त꣡शिवासु मातृ꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द꣡शप्रमतिं जनयन्त यो꣡षणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तृ॒तीय॑म् । अ॒स्य॒ । वृ॒ष॒भस्य॑ । दो॒हसे॑ । दश॑ऽप्रमतिम् । ज॒न॒य॒न्त॒ । योष॑णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣa*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 अयमग्निः **पृक्षः** अन्नसाधकः पाकादिना **वपुः** वपुष्मान् शरीराभिवृद्धिहेतुः **पितुमान्** हविर्लक्षणान्नयुक्तः **नित्यः** शाश्वतः। ईदृशः सन् प्रथमं पृथिवीस्थानः सन् **आ** **शये** आशेते । दाहपाकादि लौकिकं कर्म यज्ञादि वैदिकं कर्म च निर्वर्तयन् ध्रुवो भूमौ वर्तते इत्यर्थः । तथा **सप्तशिवासु** **मातृषु** सप्तलोकशिवकरीषु मातृस्थानीयासु हितकरीषु वृष्टिषु **द्वितीयम्** **आ** शेते । मध्यमस्थानो विद्युद्रूपो वा वर्तते । **अस्य** **वृषभस्य** वर्षितुरस्यैव वैद्युताग्नेः सहायत्वेन संबन्धिने **दोहसे** दोग्ध्रे आदित्यस्थोदकस्य वर्षयित्रे आदित्यरश्मये । दुहेः कर्तरि असुप्रत्ययः । तत्प्रवृत्तये **तृतीयम्** आशेते । द्युस्थानो वर्तते । यद्वा । अस्य वृषभस्य वर्षितुः प्रसिद्धस्यादित्यस्य संबन्धिने दोग्ध्रे रश्मये तत्प्रवृत्त्यर्थम् । आदित्यरश्मयो घर्मकाले भूमिस्थमुदकमाकृष्य सूर्यं प्रापय्य तत्र चिरकालं धृत्वा पुनरन्तरिक्षं प्राप्य मेघेषु स्थित्वा वर्षकाले प्रवर्षन्तीति प्रसिद्धम् । अतो रश्मेर्दोग्धृत्वम् । ईदृशं त्रिस्थानमग्निं महाभागं **योषणः** मिश्रणशीलाः सर्वा दिशः **जनयन्त** उत्पादयन्ति । सर्वासु दिक्षु प्रसृत इत्यर्थः । कीदृशं तम् । **दशप्रमतिम्** । दशसु दिक्षु प्रकृष्टमननवन्तं पूज्यत्वाय । यद्वा । मथनकाले दशभिरङ्गुलीभिरुत्पन्नं लोकत्रये दशदिक्षु च व्याप्तमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 The digestive faculty: pṛkṣaḥ = **anna** **sādhaka**, the perfecter or digester of food; the embodied: **vapuḥ** = **vapuṣmat**, having body; śarīrābhivṛddhihetuḥ, the causes of the growth of the body; the seven auspicious mothers: saptaśivāsu mātṛṣu, the rains fertilizing the seven **lokas**, or worlds; for the sake of milking this showerer: **asya** vṛṣabhasya dohase; allusion is to the rays of the sun; **agni** is identified with solar fire, or the sun in heaven, or as the solar rays, which in the hot season milk the earth by the evaporation of its moisture, and then conveyed to the solar region, whence it is transferred to the clouds, and in due season descends again as rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Abounding in food, he lies in his own (place) as the wondrous form  of nourishment; his second (wondrous form lies) here among the  
 mothers, sevenfold kindly.  
 His third (wondrous form, that) of the bull to be milked, have the young  women begotten—him of tenfold forethought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse concerns the three forms of Agni, with “form” expressed by neut.
 
@@ -156,28 +156,28 @@ The third form of fire, presented in cd, appears to be the ritual fire produced 
 Note that janayanta in b rhymes with anayanta in 1d in the same metrical position.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wonderful, rich in nourishment, he dwells in food; next, in the seven auspicious Mothers is his home.  
      Thirdly, that they might drain the treasures of the Bull, the maidens brought forth him for whom the ten provide.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The powerful one 1, rich in food, the true (friend of men) has entered the wondrous (body) 2. His second (form of existence) is in the seven kind mothers 3. The ten young females 4 have brought the third (form) of this bull forth, him the guardian, in order to milk him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der starke, wunderschöne, speisereiche Agni beschläft sie als rechtmäßiger Gatte. Zweitens liegt er in den Siebenholden, seinen Müttern. Drittens erzeugten zu seiner, des Bullen, Melkung ihn die jungen Frauen, der zehn Fürsorgerinnen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Labeross wohnt bei der eigenen Gestalt, die zweite wohnt den sieben holden Müttern bei, Als dritten zeugten, um zu melken diesen Stier, als den Beschützer zehn vereinte Jungfraun ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатый питанием, он ложится (как) близкий на силы наполнения, (его) чудный образ.  
 Во второй раз (ложится он) на семиждыблагодатных, матерей (своих).  

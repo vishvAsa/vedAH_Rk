@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ प्रकेत꣡ उभ꣡यस्य प्रविद्वा꣡न्  
 सह꣡स्रदान उत꣡ वा स꣡दानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अप्सर꣡सः प꣡रि जज्ञे व꣡सिष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒मेन॑ । त॒तम् । प॒रि॒ऽधिम् । व॒यि॒ष्यन् । अ॒प्स॒रसः॑ । परि॑ । ज॒ज्ञे॒ । वसि॑ष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -120,20 +120,20 @@ popular
 **सः** वसिष्ठः **प्रकेतः** प्रकृष्टज्ञानः **उभयस्य** उभयं दिवं च पृथिवीं च **प्रविद्वान्** प्रकर्षेण जानन् **सहस्रदानः** अभवत् । किमनेन सहस्रदान इति विशेषणेन **उत** **वा** अपि वा **सदानः** सर्वदानसहित एवाभवत् किंच **वसिष्ठः** **यमेन** कारणात्मना सर्वनियन्त्रा **ततं** विस्तृतं परिधिं वस्त्रम् । परिधिरित्यनेन संसारप्रवाहो विवक्षितः । तं **वयिष्यन्** **अप्सरसः** उर्वश्याः । **परि** इति पञ्चम्यर्थानुवादः । **जज्ञे** जातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the sage, cognizant of both worlds, was the donor of thousands; he was verily donation; wearingthe vesture spread spread by **Yama**, **Vasiṣṭha** was born of the **Apsaras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, foreknowing of both in his insight, possessing a thousand gifts and  one gift (more),  
 intending to weave the covering stretched by Yama, was born from the  Apsaras—Vasiṣṭha.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out (n. 12a), praketá- is otherwise only a noun, and so it is best to go against the Pp’s reading praketáḥ in favor of the loc. praketé. (Geldner also entertains the possibility of reading *sapraketáḥ.) The “both” are presumably both births; so Geldner
 
@@ -159,23 +159,23 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He thinker, knower both of earth and heaven, endowed with many a gift, bestowing thousands,  
      Destined to wear the vesture spun by Yama, sprang from the Apsaras to life, Vasistha.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der ahnend die doppelte Geburt voraus weiß, der tausend Geschenke hat, immerdar Geschenke hat, Vasistha wurde von der Apsaras geboren, um an dem von Yama aufgespannten Rahmen weiter zu weben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der kundige Erleuchter beider Welten, der tausend Gaben austheilt und reich an Gaben ist, der den durch Jama gespannten Aufzug weben sollte, Vasischtha ward geboren aus der Apsaras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот провидец, знающий о двойном (рождении),  
 Имеющий тысячу даров, всегда имеющий дары,  

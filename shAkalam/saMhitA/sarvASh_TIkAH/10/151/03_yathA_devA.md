@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था देवा꣡ अ꣡सुरेषु  
 श्रद्धा꣡म् उग्रे꣡षु चक्रिरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्मा꣡कम् उदितं꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 ए॒वम् । भो॒जेषु॑ । यज्व॑ऽसु । अ॒स्माक॑म् । उ॒दि॒तम् । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -105,35 +105,35 @@ popular;; epic anuṣṭubh (292)
 **देवाः** इन्द्रादयः असुरेषु उद्गूर्णबलेषु **यथा** **श्रद्धां** **चक्रिरे** अवश्यमिमे हन्तव्या इत्यादरातिशयं कृतवन्तः **एवं** श्रद्धावत्सु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** यष्टृषु **अस्माकम्** अस्मत्संबन्धिषु तेषु **उदितं** तैरुक्तं प्रार्थितं फलजातं कृधि कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the gods had faith in (their fight with) the **Asuras**, so grant the boon which has been asked for toour sacrificers who solicit happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just the gods created trust in themselves among the powerful lords, so among the benefactors who offer sacrifice make what has been spoken  by us trust(ed).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the Deities maintained Faith in the mighty Asuras,  
      So make this uttered wish of mine true for the liberal worshippers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Götter bei den mächtigen Asura´s sich Glauben verschafft haben, so mache diese unsere Rede bei den freigebigen Opferern vertrauenswürdig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du auch unser Wort vertraut den güt'gen Opferern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как боги создали себе  
 Веру среди грозных асуров,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उता꣡दः꣡ परुषे꣡ ग꣡वि  
 सू꣡रश् चक्रं꣡ हिरण्य꣡यम्  
 नि꣡ ऐरयद् रथी꣡तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नि । ऐ॒र॒य॒त् । र॒थिऽत॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utādaḥ* ← *uta*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च **सूरः** प्रेरकः **रथीतमः** अतिशयेन रथी नेतृतमो वा पूषा **परुषे** परुष्मति पर्ववति भास्वति वा **गवि** । गच्छतीति गौरादित्य: । तस्मिन् **हिरण्ययं** हिरण्मयं सुवर्णनिर्मितम् **अदः** तत् रथस्य **चक्रं** **न्यैरयत्** नितरां प्रेरयति स्म ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ Paruṣe gavi: parvavati, bhāsvati vā, the period-having or the shining;
 Gavi = **Āditya**, he who moves or revolves, gacchatīti gaur-**ādityaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And yonder golden wheel of the Sun  
 he set down in the “gray cow”—he the best charioteer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the content of this vs. is quite baffling, though the syntax and, for the most part, the lexicon are not. Geldner (n. 3) pronounces it a “dunkler Sagenzug,” and I can only agree. I have argued that it is connected with the even more baffling VI.48.17 (see comm. there) and that these two passages associate Pūṣan with the “tearing off the Sun’s wheel” myth that remains tantalizingly out of our reach. But this must remain speculation.
 
@@ -118,23 +118,23 @@ There is general consensus (Geldner, Renou, Klein loc. cit.) that Indra is the s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And there the best of charioteers hath guided through the speckled cloud  
      The golden wheel of Sura's car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und trieb der beste Wagenlenker damals bei Parusago das goldene Rad der Sonne ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dort stiess auf den bunten Stier das goldne Sonnenrad herab Er, der am besten Wagen lenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А там у пестрого быка  
 Герой, лучший из колесничих,  

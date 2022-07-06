@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ राति꣡स् तुवीमघ  
 वि꣡श्वेभिर् धायि धातृ꣡भिः  
 अ꣡धा चिद् इन्द्र मे स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अध॑ । चि॒त् । इ॒न्द्र॒ । मे॒ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -86,20 +86,20 @@ genre M
 हे **तुविमघ** । तुविरिति बहुनाम । बहुधनवन्निन्द्र **विश्वेभिः** विश्वैः **धातृभिः** कर्माधारकैः । यद्वा । देवानां हविर्दानेन पोषयितृभिः । सर्वैर्यजमानैस्तव **रातिः** गवाश्वधनादिदानं **धायि** तैर्धार्यते **एव** । दधातेर्लुङि कर्मणि रूपम् । चिदेवार्थे । **अध** अत एव हे **इन्द्र** एवंविध त्वं **मे** यष्टुर्ममापि **सचा** धनादिदानेन कर्मसहायो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of great wealth, your bounty is possessed by all your worshippers; therefore, **Indra**, be also myally.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as surely has your giving, powerfully liberal one, been ordained by  all the Ordainers.  
 And so, Indra, (you are) in partnership with me.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/28-29.md">
 <details open><summary><h2>28-29 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ Geldner tr. rā́dhya- as “leicht zu gewinnen,” but I take it rather as “t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So hath the offering, wealthiest Lord, been paid by all the worshippers:  
      So dwell thou, Indra, even with me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sicherlich ward von allen Opferveranstaltern die Gabe veranstaltet, du Vielschenkender; und doch bist du, Indra, bei mir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr, o reicher, Gabe ward von allen Gebern ausgetheilt, So sei denn Indra, du mit mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विरा꣡ट् सम्रा꣡ड् विभ्वीः꣡ प्रभ्वी꣡र्  
 बह्वी꣡श् च भू꣡यसीश् च याः꣡  
 दु꣡रो घृता꣡नि अक्षरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 दुरः॑ । घृ॒तानि॑ । अ॒क्ष॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *virāṭ* ← *virāj*
 - \[noun\], nominative, singular, feminine
@@ -87,7 +87,7 @@ genre M
 **विराट्** । विशेषेण राजन्त इति व्यत्ययेनैकवचनम् ॥ **सम्राट्** सम्यगिति पूज्यतरं राजमानाः ॥ अत्रापि व्यत्ययेनैकवचनम् ॥ **विभ्वीः** विभ्व्यो विविधं भवित्र्यः **प्रभ्वीः** प्रभ्व्यः प्रकर्षेण भवित्र्यः **बह्वीः** बह्व्यः **भूयसीः** लोकप्रसिद्धसंख्याभिः **च** भूयस्यश्च **याः** **दुरः** यज्ञगृहद्वारः सन्ति ताः **घृतानि** उदकानि प्राण्युपकारार्थम् **अक्षरन्** क्षरन्ति । यद्वा । बह्वीर्भूयसीरित्येते संख्यावचने । शिष्टानि तासां नामधेयानि ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 The doors: virāt samrāt. vibhvīḥ prabhvīḥ bahvīśca bhūyasīśca yāḥ: the last two epithets are epithets of number, and the rest are names
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wide-ruler and Complete-ruler, wide-ranging and preeminent, those  which are many and many more—  
 the Doors flowed ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sovran all-imperial Doors, wide, good, many and manifold,  
      Have poured their streams of holy oil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Prince, the Sovereign, the mighty ones, the eminent ones 1, the (Divine) Doors, which are many and more than many, have sent forth streams of ghee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viraj, (Herrscherin), Samraj (Allbeherrscherin), die ausreichenden, reichlichen, die viel und noch mehr sind, die Tore träuften Schmalz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Thore, herrschend weit und hoch, gewaltig, kräftig, gross an Zahl, In grösster Menge strömten Fett.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царящие отдельно, царящие вместе, просторные, могучие,  
 Многие и (те,) кого еще больше. –  

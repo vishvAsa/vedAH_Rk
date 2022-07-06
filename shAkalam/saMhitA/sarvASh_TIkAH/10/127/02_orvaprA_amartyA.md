@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओ꣡रु꣡ अप्रा अ꣡मर्तिया  
 निव꣡तो देवी꣡ उद्व꣡तः  
 ज्यो꣡तिषा बाधते त꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 ज्योति॑षा । बा॒ध॒ते॒ । तमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *orv* ← *ā*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **अमर्त्या** मरणरहिता **देवी** देवनशीला रात्रिः **उरु** विस्तीर्णमन्तरिक्षम् **आ** **अप्राः** । प्रथमतस्तमसापूरयति ॥  ‘ प्रा पूरणे '। आदादिकः । लङि व्यत्ययेन मध्यमः ॥ तथा **निवतः** नीचीनाँल्लतागुल्मादीन **उद्वतः** उत्थितान् वृक्षादींश्च स्वकीयेन तेजसावृणोति । तदनन्तरं तत् **तमः** अन्धकारं **ज्योतिषा** ग्रहनक्षत्रादिरूपेण तेजसा **बाधते** पीडयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,34 +92,34 @@ genre M
 Low plural ces: Low and high, refer to plural nts; the Night fills things with darkness andthen, lights up the darkness with the stars etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The immortal goddess has filled the broad (midspace), its depths and  heights;  
 with light she repels the darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal. she hath filled the waste, the Goddess hath filled height and depth:  
      She conquers darkness with her light.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Immortal goddess far and wide, She fills the valleys and the heights: Darkness she drives away with light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die unsterbliche Göttin hat den breiten Raum, die Tiefen und Höhen ausgefüllt. Mit ihrem Lichte verdrängt sie die Finsternis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Göttin, die unsterbliche, erfüllt die Thäler rings und Höhn, Und treibt durch Glanz das Dunkel fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бессмертная богиня заполнила  
 Широкое (пространство), низины (и) высоты.  

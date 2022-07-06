@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ न इन्द्र पीयत्न꣡वे  
 मा꣡ श꣡र्धते प꣡रा दाः  
 शि꣡क्षा शचीवः श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 शिक्ष॑ । श॒ची॒ऽवः॒ । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -85,41 +85,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** त्वं **पीयत्नवे**। पीयतिर्वधकर्मा । वधशीलाय हिंसाकारिणे शत्रवे **नः** अस्मान् **मा** **परा** **दाः** मा परित्याक्षीः । **मा** च **शर्धते** अभिभवित्रे अस्मान् मा परा दाः । ‘ शृधु प्रसहने ' इति धातुः। अपि तु हे **शचीवः** शक्तिमन्निन्द्र **शचीभिः** आत्मीयैः कर्मभिः **शिक्ष** अस्माननुशाधि । यद्वा । शिक्षतिर्दानकर्मा । अभीष्टं धनमस्मभ्यं देहि । यद्वा। शत्रून् जेतुं शिक्ष शक्तान् कर्तुमिच्छ । शकेः सनन्तस्य ‘ सनि मीमा' इति इसादेशेऽभ्यासलोपे च कृते लोटि रूपमेतत् ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Consign us not, **Indra**, to the slayer, not to an overpowering foe; doer of great deeds, enable us by youracts (to conquer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t hand us over to a taunter, Indra, nor to one who vaunts  himself.  
 Do your best (for us), able one, with your abilities.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the etymological and phonological figure śíkṣā śacīvaḥ śácībhiḥ. The desire to have a pāda consisting of only these related words may account for the absence of naḥ: śíkṣa- regularly takes a dative. Cf. the fuller expression in I.62.12 śíkṣā śacīvas táva naḥ śácībhiḥ. Of course naḥ can be easily supplied here from pāda a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not, Indra, as a prey unto the scornful or the proud:  
      Help, Mighty One, with power and might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns, Indra, nicht dem Hohnsprecher noch dem Überheblichen preis! Strenge dich nach deiner Macht an, du Mächtiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uebergib uns nicht dem Hasser, noch dem frechen, der uns trotzet, Stärke, starker, uns mit Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не выдай нас ни оскорбителю,  
 О Индра, ни кичливому!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡अग् वा꣡तो अ꣡व वाति  
 नि꣡अक् तपति सू꣡रियः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नि꣡अग् भवतु ते र꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 नी॒चीन॑म् । अ॒घ्न्या । दु॒हे॒ । न्य॑क् । भ॒व॒तु॒ । ते॒ । रपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nyag* ← *nyak* ← *nyāñc*
 - \[noun\], accusative, singular, neuter
@@ -99,7 +99,7 @@ popular;; epic anuṣṭubh (525)
 **वातः** वायुर्द्युलोकात् **न्यक्** नीचीनम् **अव** **वाति** गच्छति । **सूर्यः** च **न्यक्** **तपति** । **अघ्न्या** अहननीया गौः **नीचीनं** **दुहे** दुग्धे। एवं **ते** **रपः** पापं **न्यक्** नीचीनं **भवतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ popular;; epic anuṣṭubh (525)
 Touching the restored **Subandhu** with their **hands**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Downward does the wind blow; downward the sun gives heat.  
 The cow gives milk that goes downward; downward let your malady go.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wind blows downward from on high, downward the Sun-God sends his heat,  
      Downward the milch-cow pours her milk: so downward go thy pain and grief.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach unten weht der Wind, nach unten brennt die Sonne. Nach unten wird die Kuh gemolken, nach unten soll dein Gebreste fahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hernieder weht des Windes Hauch hernieder strahlt der Sonne Glut, Hernieder strömt die Milch der Kuh, so gehe niederwärts dein Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вниз дует ветер,  
 Вниз палит солнце,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कविं꣡ केतुं꣡ · धासि꣡म् भानु꣡म् अ꣡द्रेर्  
 हिन्व꣡न्ति शं꣡ राजियं꣡ रो꣡दसीयोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्ने꣡र् व्रता꣡नि पूर्विया꣡ महा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒र॒म्ऽद॒रस्य॑ । गीः॒ऽभिः । आ । वि॒वा॒से॒ । अ॒ग्नेः । व्र॒तानि॑ । पू॒र्व्या । म॒हानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
@@ -116,35 +116,35 @@ genre M
 **कविं** प्राज्ञं **केतुं** विश्वस्य प्रज्ञापकं **धासिम्** **अद्रेः** धर्तारमादर्तुः स्तोतुर्वा **भानुं** भासकं **शं** सुखकरं **रोदस्योः** द्यावापृथिव्योः **राज्यं** राजानं वैश्वानरमग्निं **हिन्वन्ति** । मदीयाः प्रीणयन्ति प्रेरयन्ति वा देवाः । अहं च **पुरंदरस्य** पुरां दारयितुः **अग्नेः** पूर्व्या पूर्व्याणि पुरातनानि **महानि** महान्ति **व्रतानि** कर्माणि **गीर्भिः** **आ** **विवासे** परिचरामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They propitiate the wise, the manifesting, the sustaining,t he enlightener of the pious, the giver ofhappiness, the sovereign of heaven and earth; I glorify the ancient and mighty works of **Agni**, the demolisher ofcities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They urge on the poet and beacon (of the sacrifice), the wellspring and  light beam from the stone, the luck and rule of the two world-halves. By my songs, I seek to gain the ancient and great commandments of  Agni the breaker of strongholds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sage, Sing, Food, Light,-they bring him from the mountain, the blessed Sovran of the earth and heaven.  
      I decorate with songs the mighty actions which Agni, Fort-destroyer, did aforetime.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Seher, das Banner, den Glanz, das Gemächte des Steins treiben sie zur Eile, das Heil und die Herrschaft beider Welten. Mit Lobreden erbitte ich für mich die früheren großen Werke des Burgenbrechers Agni:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen Führer, senden aus dem Fels sie als Licht und Lust zum Heil, zur Weltenherrschaft; Des Burgzerstörers Agni grosse Thaten, die alten schaff' ich her durch meine Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэта, знамя, поток (бессмертия), луч из скалы,  
 Они поторапливают (того, кто) царство двух миров.  

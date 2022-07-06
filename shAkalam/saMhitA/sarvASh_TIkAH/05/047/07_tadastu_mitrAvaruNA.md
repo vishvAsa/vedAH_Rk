@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अस्तु मित्रावरुणा त꣡द् अग्ने  
 शं꣡ यो꣡र् अस्म꣡भ्यम् इद꣡म् अस्तु शस्त꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡मो दिवे꣡ बृहते꣡ सा꣡दनाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒शी॒महि॑ । गा॒धम् । उ॒त । प्र॒ति॒ऽस्थाम् । नमः॑ । दि॒वे । बृ॒ह॒ते । साद॑नाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -127,36 +127,36 @@ genre M
 अत्र लिङ्गसिद्धा देवताः । हे **मित्रावरुणा** मित्रावरुणौ **तत्** **इदं** सूक्तं **शस्तं** स्तुतम् **अस्तु** भवतु । हे **अग्ने** **तत्** सूक्तं शस्तम् **अस्तु** । **अस्मभ्यं** **शं** सुखाय **योः** दुःखानाममिश्रणायेदं शस्तमस्तु । वयं च **अशीमहि** प्राप्नुयाम **गाधं** स्थितिम्' । **उत** अपि च **प्रतिष्ठां** स्थितेरविच्छित्तिं चाशीमहि । **नमः** नमस्करोमि **दिवे** द्योतमानाय सूर्याय **बृहते** महते **सादनाय** आश्रयाय विश्वस्य ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this (hymn), **Mitra** and **Varuṇa**, be valued (by you); may it, **Agni**, be valued (by you) as the means to us of happiness unmixed; may we (thence) obtain stability and permanence; reverence be to you and mighty asylum (of the universe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this, o Mitra and Varuṇa, let this (hymn), o Agni, be luck and  lifetime for us; let it be recited here.  
 Might we obtain a fording place and firm standing. Homage to Heaven,  the lofty seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be this our praise, O Varuna and Mitra may this be health and force to us, O Agni.  
      May we obtain firm ground and room for resting: Glory to Heaven, the lofty habitation!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das soll geschehen, Mitra und Varuna, das, o Agni; dieses Leid sei uns zu Glück und Heil vorgetragen. Wir möchten eine Furt und festen Grund finden. Ehre dem Himmel, dem hohen Wohnsitz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sei, o Mitra-Varuna, o Agni, uns Heil und Segen, das sei uns gepriesen; Wir mögen finden Furt und festen Boden; Anbetung sei dem Sitz, dem hohen Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет это, о Митра-Варуна! (Да будет) это, о Агни!  
 На счастье и благо нам да будет исполнен этот (гимн)!  

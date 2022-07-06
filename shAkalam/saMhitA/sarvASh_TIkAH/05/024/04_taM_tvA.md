@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा शोचिष्ठ दीदिवः  
 सुम्ना꣡य नून꣡म् ईमहे स꣡खिभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 तम् । त्वा॒ । शो॒चि॒ष्ठ॒ । दी॒दि॒ऽवः॒ । सु॒म्नाय॑ । नू॒नम् । ई॒म॒हे॒ । सखि॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -69,37 +69,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
 **शोचिष्ठ** अतिशयेन शोचिष्मन् **दीदिवः** स्वतेजोभिर्दीप्ताग्ने **तं** त्वां **सुम्नाय** सुखाय । सुम्नमिति सुखनाम् । तदर्थं **सखिभ्यः** समानख्यातिभ्यः पुत्रेभ्यः तदर्थं च **नूनम्** **ईमहे** याचामहे ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O strongest-blazing, shining (Agni), we now beg you for your favor for  (us, your) partners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee then, O Most Bright, O Radiant God, we come with prayer for happiness for our friends.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We entreat thee now, O brightest, shining (Agni), for thy grace, for our friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So bitten wir dich, du Glühendster, Glanzvoller, jetzt um Wohlwollen für uns Freunde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

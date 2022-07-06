@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यातम् उ꣡प भूषतम्  
 म꣡ध्वः पिबतम् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मा꣡ नो मर्धिष्टम् आ꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दु॒ग्धम् । पयः॑ । वृ॒ष॒णा॒ । जे॒न्या॒व॒सू॒ इति॑ । मा । नः॒ । म॒र्धि॒ष्ट॒म् । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M
 हे **अश्विना** युवाम् आ **यातम्** आगच्छतम् । आगत्य स **उप** समीपे **भूषतं** भवतम् । **मध्वः** मधुरं सोमरसं **पिबतम्** । पीत्वा च हे **वृषणा** वर्षकौ हे **जेन्यावसू** जेतव्यधनौ । जितधनावित्यर्थः । युवां **पयः** वृष्ट्युदकमन्तरिक्षात् **दुग्धम्** । **नः** अस्मान् **मा** **मर्धिष्टं** मा हिंस्तम् । ईदृशप्रार्थनाकरणमेव हिंसा' । **आ** **गतम्** आगच्छतं शीघ्रम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Aśvins**, tarry near us, drink of the sweet libation; showerers (of benefits), by whom riches arewon, milk the rain (from the firmament); harm us not; come hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here! Attend to us here! Drink of the honey, Aśvins!  
 The milk has been milked out, o bulls whose goods are worth winning.  Do not overlook us! Come here!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Approach ye and be near to us. drink, O ye Asvins, of the meath.  
      Draw forth the milk, ye Mighty, rich in genuine wealth: injure us not, and come to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her, machet euch fertig, trinket vom Süßtrank, Asvin! Die Milch ist gemolken, ihr Bullen, ihr Besitzer angestammten Gutes. Verschmähet uns nicht, kommet her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommet her und bleibt bei uns, ihr Ritter, trinkt den süssen Meth, Und melkt den Trank, o Helden reich an edlem Gut, o kommt herbei, verschmäht uns nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, оставайтесь,  
 Испейте меду, о Ашвины!  

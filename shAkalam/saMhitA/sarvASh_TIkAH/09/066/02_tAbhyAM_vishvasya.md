@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡भ्यां वि꣡श्वस्य राजसि  
 ये꣡ पवमान धा꣡मनी  
 प्रतीची꣡ सोम तस्थ꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒ती॒ची इति॑ । सो॒म॒ । त॒स्थतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tābhyāṃ* ← *tābhyām* ← *tad*
 - \[noun\], instrumental, dual, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** दशापवित्रेण पूयमान पुनान वा हे **सोम** **ये** **धामनी** पूर्वपक्षापरपक्षयोर्लतारूपस्य सोमस्य तवैकैकपर्णवृद्धिहासाभ्यां तव स्वभूतौ पूर्वादिपक्षौ । यद्वा ये धामनी नामनी अंशुसोमात्मके अपि **प्रतीची** त्वदभिमुखं गच्छन्तौ गच्छती वा पक्षौ नामनी वा **तस्थतुः** उपजग्मतुः **ताभ्यां** त्वं **विश्वस्य** सर्वस्य लोकस्य **राजसि** स्वामी भवसि । पूर्वादिपक्षाभ्यां सर्वलोकस्योपनायकत्वात्तस्य स्वामी भवसि । पृथिव्यामंशुनाम्ना मनुष्याणां सर्वेषामभीप्सितदानेन तस्य लोकस्य द्युलोके देवेभ्यः स्वसुधामयकलादानेन तेषां प्रीणयिता भवसि । देवाः खलु सोमस्यैकैकवृद्धिहासाभ्यां कलाः पिबन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Those two halves: **dhāmanī** = pūrvādipakṣau, the first and second fortnights of the lunar month, the sides or halves of the month resembling in their increase and decrease the sides of a creeper, whose leaves alternate; or, nāmāni aṃśusomātmake, the two names (**aṃśu** and Soma); 'on earth under the name aṃśu by granting the desires of all mankind (Soma rules) this world; in heaven by giving the gods your lunar digits you are the winner of their affections. The gods drink the digits of the (moon) Soma by means of their growth and diminution one by one (i.e., as the moon waxes and wanes); dhāmanī probably means the two abodes (or stations) of the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From those two you rule over all, self-purifying one—from the two  domains [=Heaven and Earth]  
 that stand facing (each other), o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The issue in this vs. is the identify of the two dhā́manī; dependent on the answer to that is the function of the du. pronoun tā́bhyām, which could be instr., dat., or abl.
 
@@ -119,23 +119,23 @@ contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'er all thou rulest with these Two which, Soma Pavamana, stand,  
      Turned, as thy stations, hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesen beiden herrschest du über das All, mit den beiden Formen, o Pavamana, die sich uns darbieten, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du flammender beherrschst das All durch beide Weltenstätten, die, O Soma, sich einander schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

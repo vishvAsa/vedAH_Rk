@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ तिया꣡ चिद् अ꣡च्युता  
 अ꣡ग्ने पशु꣡र् न꣡ य꣡वसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡ना वृश्च꣡न्ति शि꣡क्वसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धाम॑ । ह॒ । यत् । ते॒ । अ॒ज॒र॒ । वना॑ । वृ॒श्चन्ति॑ । शिक्व॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -108,40 +108,40 @@ genre M
 हे **अग्ने** **त्वं** **त्या** तानि काष्ठानि । चिच्छब्दोऽपिशब्दसमानार्थो भिन्नक्रमः। **अच्युता** अच्युतानि च्यावयितुमशक्यान्यपि । अत्सीति शेषः । तत्र दृष्टान्तः । **यवसे** घासे विसृष्टः **पशुर्न** पशुरिव । स यथा सर्वं भक्षयति तथा त्वं प्रौढकाष्ठादीनि क्षणमात्रेण दहसीत्यर्थः । हे **अजर** जरारहिताग्ने **यत्** यस्य ॥ ‘ सुपां सुलुक्° ' इति षष्ठ्या लुक् ॥ **शिक्वसः** दीप्तस्य **ते** तव **धाम** धामानि तेजांसि **वना** वननीयानि संभजनीयान्यरण्यानि **वृश्चन्ति** छिन्दन्ति भक्षयन्ति स त्वमिति पूर्वत्रान्वयः। **ह** इत्येतत्पादपूरणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You consume **Agni**, the unfallen (trees) as an animal (feeds) upon pasture, when, undecaying deity, the flames of you who are resplendent shear the forests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You (eat) just these unstirrable things, Agni, like livestock in a pasture. (This is your) principle: that your dexterous (flames?) hew the woods, o  unaging one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner, I supply the verb ‘eat’ in pāda a. Although Geldner does not give his reasons, the existence of a parallel passage in this Agni cycle gives a clear warrant:
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en things imperishable, thou, O Agni, like a gazing ox,  
      Eatest, when hosts, Eternal One! of thee the Mighty rend the woods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du frißt selbst die festen Hölzer, o Agni, wie ein Tier das Gras auf der Weide, wenn deine, des Geübten, Kräfte die Bäume fällen, du Alterloser.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Feste auch bemeisterst du, verzehrend Agni, wie das Vieh, Wenn, Ew'ger, deine Flammenschar das Holz zerspaltet, starker du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты (сотрясаешь) даже те (вещи, что) несотрясаемы,  
 О Агни, словно скот на пастбище,  

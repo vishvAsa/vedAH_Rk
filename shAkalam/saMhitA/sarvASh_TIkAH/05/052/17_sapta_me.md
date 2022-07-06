@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ मे सप्त꣡ शाकि꣡न  
 ए꣡कम्-एका शता꣡ ददुः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 नि꣡ रा꣡धो अ꣡श्वियम् मृजे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 य॒मुना॑याम् । अधि॑ । श्रु॒तम् । उत् । राधः॑ । गव्य॑म् । मृ॒जे॒ । नि । राधः॑ । अश्व्य॑म् । मृ॒जे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
@@ -126,7 +126,7 @@ genre M
 **सप्त** सप्तसंख्याकाः संघाः । सप्तगणा वै मरुतः ' (तै. सं. २. २. ११. १ ) इति श्रुतेः । अदितिगर्भे वर्तमानं वायुमिन्द्रः प्रविश्य सप्तधा विदार्य पुनरेकैकं सप्तधा व्यदारयत् ते एकोनपञ्चाशन्मरुद्गणा अभवन्निति पुराणेषु प्रसिद्धम् । ते च सप्तसंख्याकाः **शाकिनः** सर्वमपि कर्तुं शक्ताः । ते च **एकमेका** एकैको गणः **मे** मह्यं **शता** शतसंख्याकानि गवाश्वयूथानि **ददुः** दत्तवन्तः। प्रयच्छन्त्विति वा आशीः । तैर्दत्तं **यमुनायां** नद्याम् **अधि** । अयं सप्तम्यर्थानुवादी । तत्र **श्रुतं** प्रसिद्धं **गव्यं** गोसमूहात्मकं गोसंबन्धि वा **राधः** धनम् **उत्** **मृजे** उन्मार्जयामि । तथा तैर्दत्तम् **अश्व्यम्** अश्वसमूहात्मकं तत्संबन्धि वा **राधः** धनं **नि** **मृजे** निमार्ज्मि ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,12 +137,12 @@ genre M
 Upon the banks of Yamunā: yamunāyām **adhi** śrutam rādho gavyam: an extraordinary allusion anticipating **Gokula** of **Kṛṣṇa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seven upon seven the able ones gave me hundreds, one (hundred) each. At the Yamunā (River) a famous thing—I swept up bounty in cattle;  swept down bounty in horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By all standard interpr. the Maruts are the subjects of this dānastuti, but it is worth noting that they are not named -- and so it is possible that a set of human patrons, assimilated to the Maruts and thus endowed with their prestige, are the actual donors praised.
 
@@ -151,18 +151,18 @@ Note the etymological chaining between the subj. of 16e śíkvasaḥ and 17a ś�
 The unbalanced āmreḍita ékam-ekā is curiously formed. AiG III.395 suggests that the pl. ekā has been attracted to the following śatā́, whose attribute it is. It also seems an attempt, utilizing both sg. ékam and pl. ekā, to express the awkward distributive, of one hundred per each of seven Maruts, producing a total of plural hundreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mighty ones, the seven times seven, have singly given me hundred gifts.  
      I have obtained on Yamuna famed wealth in kine and wealth in steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die je sieben und sieben Mächten gaben mir je einhundert Kühe. An der Yamuna bekomme ich als Ehrenanteil die berühmte Schenkung von Kühen, streiche ich die Schenkung von Rossen ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Эти) семью семь доблестных  
 Дали мне одну за другой сотни (коров).  

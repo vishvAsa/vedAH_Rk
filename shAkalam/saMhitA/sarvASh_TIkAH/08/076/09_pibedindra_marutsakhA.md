@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बे꣡द् इन्द्र मरु꣡त्सखा  
 सुतं꣡ सो꣡मं दि꣡विष्टिषु  
 व꣡ज्रं शि꣡शान ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वज्र॑म् । शिशा॑नः । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibed* ← *pibet* ← *pā*
 - \[verb\], singular, Present optative
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **मरुत्सखा** त्वं **सुतम्** अभिषुतं **सोमं** **पिब** । किमर्थम् । दिविष्टिषु अस्माकमह्नामभिगमनेषु **दिवः** स्वर्गस्य वैषणेषु निमित्तेषु । पीत्वा च **ओजसा** बलेन सोमपानजनितेन **वज्रं** **शिशानः** तीक्ष्णीकुर्वन् । शत्रूञ्जहीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,29 +91,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 (RV 1.86.4): diviṣṭiṣu = in these solemnities which are means to obtainheaven; cf. RV 8.4.19
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just drink, o Indra, with the Maruts as comrades, the pressed soma at  the rituals of the day,  
 sharpening your mace with might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink, Indra, with thy Marut Friends, pressed Soma at the morning rites,  
      Whetting thy thunderbolt with strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink doch, Indra mit den Marut als Kameraden bei den heutigen Opfern den ausgepreßten Soma, indem du deine Keule mit Kraft schärfst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trink, Indra, mit der Marutschar den Somasäft beim Opferfest, Mit Kraft dir schärfend deinen Blitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

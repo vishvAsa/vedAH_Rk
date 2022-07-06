@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ मृष्टा꣡ अ꣡मर्तियाः  
 ससृवां꣡सो न꣡ शश्रमुः  
 इ꣡यक्षन्तः पथो꣡ र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इय॑क्षन्तः । प॒थः । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** सोमाः **मृष्टाः** दशापवित्रेण शोधिताः **अमर्त्याः** अमरणधर्माणः **ससृवांसः** हविर्धानात् सरन्तः **पथः** मार्गान् **रजः** लोकांश्च **इयक्षन्तः** गन्तुमिच्छन्तः **न** **शश्रमुः** न श्राम्यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified, immortal, issuing from the vessels, eager to traverse their (assigned) paths and the universe, they are never wearied.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These immortal ones, once groomed, have not flagged in their flowing, as they seek to reach the paths through the airy space.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner/Renou I take ná as neg. with pf. śaśramuḥ. In contrast, Kümmel (524, 551) takes it as the simile particle: “... sind wie [Rennpferde], die gelaufen sind, ermüdet ...” He cites (551 n. 1141) Delbrück (Altind. Syn. 376) for this interpr., but Delbrück in fact takes the ná as neg.: “… sind nicht müde geworden, obgleich sie gelaufen sind.” I assume that Kümmel so interpr. because of the position of ná after the participle, but in a Gāyatrī pāda the position before the verb is also the position after the NP -- there’s not a lot of space. I think it unlikely that the poets would ever say that the ever-running soma could get tired. Moreover, √śram almost always appears with neg.
 
@@ -106,23 +106,23 @@ My “that is to be higher still” is meant to capture the pseudo-gerundive for
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal, cleansed, these drops, since first they flowed, have never wearied, fain  
      To reach the regions and their paths.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sauber gemachten unsterblichen Säfte sind nach ihrem Laufe nicht müde, wenn sie die Wegstrecke zurücklegen wollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt, die Unsterblichen, ob eilend auch, ermüden nicht, Durch Pfade dringend in die Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти начищенные бессмертные (соки)  
 Не устают, хоть и мчались,  

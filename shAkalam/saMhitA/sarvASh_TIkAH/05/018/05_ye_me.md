@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ मे पञ्चाश꣡तं ददु꣡र्  
 अ꣡श्वानां᳐ सध꣡स्तुति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 नृव꣡द् अमृत नॄणा᳐꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 द्यु॒ऽमत् । अ॒ग्ने॒ । महि॑ । श्रवः॑ । बृ॒हत् । कृ॒धि॒ । म॒घोना॑म् । नृ॒ऽवत् । अ॒मृ॒त॒ । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -119,41 +119,41 @@ genre M
 **ये** मघवानो दातारः **मे** मह्यं **सधस्तुति** स्तुत्या सहितं त्वत्स्तोत्रसमनन्तरम् अश्वानां **पञ्चाशतं** **ददुः** हे **अमृत** **अग्ने** त्वं तेषां **मघोनां** **नृणां** **द्युमत्** दीप्तिमत् **महि** महत् **बृहत्** परिवृढं **नृवत्** परिचारकमनुष्ययुक्तं **श्रवः** अन्नं **कृधि** कुरु देहीत्यर्थः ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Immortal **Agni**, bestow upon those opulent men, who, upon (my) praise (of you), gave to me fifty horses, and brilliang, ample, and abundant food, (supporting numerous) dependants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For those who have given me fifty horses for our joint praise,  
 for the generous men, o Agni, make bright and great fame, lofty (fame)  filled with men, o immortal one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Immortal Agni, give the chiefs, heroes who institute the rite,  
      Heroes' illustrious, lofty fame, who at the synod met for praise presented me with fifty steeds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 On the liberal patrons who have given me fifty horses for my song of praise 1, bestow brilliant, mighty, high glory, O Agni; on those men (bestow glory) with (valiant) men, O immortal!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der freigebigen Herren, die mir fünfzig Rosse geschenkt haben unter einstimmigen Lobe, deren Ruhm mach glänzend, groß, hoch, o Agni, männerreich, du Unsterblicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die fünfzig Rosse mir verliehn, für den vereinten Preisgesang, Den Reichen schaffe hohen Ruhm, o Agni schönen, glänzenden; Und sei in Schlachten uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что подарили мне пятьдесят  
 Коней за общее восхваление, –  

@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हि꣡ त्वा पूषन्न् अजिरं꣡ न꣡ या꣡मनि  
 स्तो꣡मेभिः कृण्व꣡ ऋण꣡वो य꣡था मृ꣡ध  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 वा꣡जेषु द्युम्नि꣡नस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 अ॒स्माक॑म् । आ॒ङ्गू॒षान् । द्यु॒म्निनः॑ । कृ॒धि॒ । वाजे॑षु । द्यु॒म्निनः॑ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -190,7 +190,7 @@ genre M
 हे **पूषन्** **अजिरं** यज्ञदेशं प्रति गमनवन्तं **त्वा** त्वां **यामनि** गमने निमित्तभूते सति **स्तोमेभिः** स्तोमैः **प्र** **कृण्वे** प्रकृष्टं करोमि। तत्र दृष्टान्तः । यामनि शीघ्रगमनेऽजिरं न शीघ्रगामिनमश्वमिव । स यथा प्रस्तूयते तद्वत् । किंच **यथा** **मृधः** संग्रामानुद्दिश्य **ऋणवः** गच्छेः तथा प्र कृण्वे । यद्वा । यथा ऋणवः अस्मद्यज्ञं प्रति गच्छेः ॥  ‘ ऋणु गतौ'। तानादिकः। लेटि अडागमः ॥ तथा त्वां कृण्वे । किंच **मृधः** हिंसकान् योद्धॄन् संग्रामे **पीपरः** पारं नयसि ॥ पारयतेर्लुङि चडि रूपम् ॥ तत्र दृष्टान्तः । **उष्ट्रो** **न** । उष्ट्रो यथा भारं वोढा पारयति तद्वत् **मृधः** संग्रामात् पीपरः पारं नयसि । अतः कारणात् **त्वा** त्वां मयोभुवं सुखस्य भावयितारं **देवं** देवनशीलं पूषणं **मर्त्यः** मरणधर्मा मनुष्योऽहं **हुवे** आह्वयामि । किमर्थम् । **सख्याय** समानख्यानाय प्रियकरणाय । एवमाहूतः सन् **अस्माकमाङ्गूषान्** आघोषान् स्तोमान् ।  आङ्गूषः स्तोम आघोषः' इति यास्कः (५.११) । **द्युम्निनस्कृधि** द्योतनवतः कुरु । यद्वा । स्तोमान् यशोवतोऽन्नवतो वा कृधि अस्मत्स्तुत्या प्रीतस्त्वम् एवं कुर्वित्यर्थः । किंच **वाजेषु** संग्रामेषु **द्युम्निनः** अन्नवतः **कृधि** अस्मद्वैरिणो जित्वा तेषामन्नं मयि कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -201,7 +201,7 @@ genre M
 Uṣṭro na = like a camel; as a camel bears a burden; productive of benefit: dyumninaskṛdhi, make them possessed of wealth = **dyumna** = dyotanavataḥ, brilliant or having fame of food, yaśovataḥ or annavataḥ; in the reiteration, the latter is explained as the result of conquests.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So, Pūṣan, with praises I put you forward, like a nimble (horse) on its  course, so that you will get the negligent ones on the move—like a  
 camel you will carry (us) beyond the negligent ones.  
@@ -209,31 +209,31 @@ When I, a mortal, call upon you, a god, who are refreshment itself, for  fellows
 make our songs brilliant—make them brilliant when prizes (are at stake).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note krṇ̥ vá rṇ̥ ávo in b.
 
 The rather surprising appearance of the camel in c is best explained as Geldner does: the simile is incomplete and should read “as a camel (does) its load.” Still the camel adds a specificity that seems out of keeping with the context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, then, O Pusan, like a swift one on his way, I urge with lauds that thou mayst make the foemen flee, drive, camel-like, our foes afar.  
      As I, a man, call thee, a God, giver of bliss, to be my Friend,  
      So make our loudly-chanted praises glorious, in battles make them glorious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ich treibe dich, Pusan, mit Lobesworten wie einen Renner auf der Fahrt voran, auf daß du die Verächter auf den Trab bringst. Wie ein Kamel sollst du die Verächter fortschaffen. Wenn ich dich, den erfreulichen Gott als Sterblicher zum Freundesdienst aufrufe, so mache unsere Lieder zündend, mache sie in den Entscheidungskämpfen zündend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich, o Puschan, wie den schnellen Wanderer, bewege ich durch Loblied, dass du schlägst den Feind, dem Büffel gleich den Feind verjagst; Wenn ich, der Sterbliche, dich Gott der Freude bringt, zum Bündniss ruf', So lasse unsre Lobgesänge kräftig sein, in Schlachten lass sie kräftig sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь я подгоняю тебя вперед, о Пушан, восхвалениями,  
 Как скакуна – в движении, чтобы ты рассеял враждебные замыслы.  

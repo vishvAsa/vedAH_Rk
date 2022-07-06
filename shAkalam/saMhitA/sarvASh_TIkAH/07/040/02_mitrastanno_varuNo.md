@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्र꣡स् त꣡न् नो व꣡रुणो रो꣡दसी च  
 द्यु꣡भक्तम् इ꣡न्द्रो अर्यमा꣡ ददातु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वायु꣡श् च य꣡न् नियुवइ꣡ते भ꣡गश् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दिदे॑ष्टु । दे॒वी । अदि॑तिः । रेक्णः॑ । वा॒युः । च॒ । यत् । नि॒यु॒वैते॒ इति॑ नि॒ऽयु॒वैते॑ । भगः॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitras* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -134,43 +134,43 @@ genre M
 **मित्रः** देवः **नः** अस्मभ्यं **तत्** प्रसिद्धं धनं **ददातु** प्रयच्छतु । तथा **वरुणः** ददातु। **रोदसी** **च** द्यावापृथिव्यौ च दत्ताम् । तथा **इन्द्रः** **द्युभक्तं** द्युभिर्द्योतमानैः स्तोतृभिः सेवितं तद्धनं ददातु। **अर्यमा** च ददातु  तथा **अदितिः** **देवी** **रेक्णः** धनं **दिदेष्टु** तद्धनमस्मभ्यं दिशतु । **वायुश्च** **भगश्च** उभौ देवौ **यत्** धनं **नियुवैते** अस्मान्नितरां योजयेतां तद्धनमिति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Mitra** and **Varuṇa**, heaven and earth, **Indra** and **Āryaman**, give us that (wealth) which is meritedby brilliant (laudations); may the divine **Aditi** be disposed to give us riches, which **Vāyu** and **Bhaga** may preserveever in our keeping.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Mitra, Varuṇa, and the two World-Halves, let Indra and Aryaman  give us what is apportioned by heaven.  
 Let goddess Aditi designate the legacy that both Vāyu and Bhaga will  harness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A series of four singular nouns are the subject of dadātu, a singular verb.
 
 The verb niyuvaíte is esp. appropriate for Vāyu, who is regularly called niyútvant- ‘having a team’. Note the use of this adj. in the immed. preceding hymn, VII.39.2, where it must qualify Vāyu rather than Pūṣan, despite the word order (see comm. ad loc.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, dealt from heaven ' may both the Worlds vouchsafe us, and Varuna, Indra, Aryaman, and Mitra.  
      May Goddess Aditi assign us riches, Vayu and Bhaga make them ours for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra, Varuna und die beiden Rodasi, Indra und Aryaman sollen uns diese Himmelsgabe gewähren. Die Göttin Aditi soll uns als Besitz bestimmen, was Vayu und Bhaga uns zu eigen geben sollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Himmelsgut geb Varuna und Mitra, uns Erd' und Himmel, Arjaman und Indra; Es schenke Reichthum Aditi, die Göttin, und Bhaga, Vaju, die in Zügen fahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митра, Варуна и две половины вселенной этот.  
 Выделенный небом (дар) – Индра, Арьяман – пусть дадут нам!  

@@ -8,7 +8,7 @@ title = "+061"
 ‘अस्मा इदु प्र तवसे ' इति षोडशर्चं चतुर्थं सूक्तं नोधस आर्षमैन्द्रं त्रैष्टुभम् । अनुक्रान्तं च-- ‘अस्मा इदु षोळश' इति । अस्य सूक्तस्य नोधा द्रष्टा इत्येतद्ब्राह्मणे समाम्नायते- अस्मा इदु प्र तवसे तुरायेति नोधास्त एते प्रातःसवने ' ( ऐ. ब्रा. ६. १८) इति । षळहस्तोत्रियावापवत्सु चतुर्विंशमहाव्रतादिष्वहःसु माध्यंदिने सवने ब्राह्मणाच्छंसिशस्त्रे ‘ ब्रह्मणा ते ब्रह्मयुजा ' इत्यस्या आरम्भणीयाया ऊर्ध्वमहीनसूक्तसंज्ञमेतच्छंसनीयम्। तथा च सूत्रितम्- ‘अस्मा इदु प्र तवसे शासद्वह्निरितीतरावहीनसूक्ते ' ( आश्व. श्रौ. ७. ४ ) इति । ब्राह्मणं च भवति-’त एते प्रातःसवने षळहस्तोत्रियाञ्छस्त्वा माध्यंदिनेऽहीनसूक्तानि शंसन्ति ' इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 61  
 Indra  
@@ -29,7 +29,7 @@ With all the poetic fireworks on display the actual contents of the hymn may  se
 It is difficult to do justice to this tour de force of poetic craft, and many of its  finest effects have not been discussed here. It is, unfortunately, even more difficult to  do justice to it in English translation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra For general discussion of the intricate structure of this hymn, see the published
 

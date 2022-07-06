@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते शु꣡ष्मो वृषभ꣡ एतु पश्चा꣡द्  
 आ꣡ उत्तरा꣡द् अधरा꣡द् आ꣡ पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र द्युम्नं꣡ सु꣡वर्वद् धेहि अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । वि॒श्वतः॑ । अ॒भि । सम् । ए॒तु॒ । अ॒र्वाङ् । इन्द्र॑ । द्यु॒म्नम् । स्वः॑ऽवत् । धे॒हि॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -134,37 +134,37 @@ genre M
 हे इन्द्र **वृषभः** वर्षिता **ते** त्वदीयं **शुष्मः** बलम् **अर्वाङ्** अस्मदभिमुखः सन् **पश्चात्** पश्चिमभागात् **आ** **एतु** आगच्छतु । **उत्तरात्** उत्तरभागात् **आ** गच्छतु । अधरात् दक्षिणभागाच्चैतु। **पुरस्तात्** पूर्वभागाच्च **आ** गच्छतु । **विश्वतः** सर्वस्माद्दिग्भागात् **अभि** अस्मानभिलक्ष्य **आ** **समेतु** सम्यगागच्छतु । हे **इन्द्र** त्वं **स्वर्वत्** सुखयुक्तं **द्युम्नं** धनम् **अस्मे** अस्मभ्यं **धेहि** प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your invigorating srength come from the west, from the north, from the south, from the east; may it come to us from every quarter; grant us riches combined with felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your unbridled force, a bull, come here from behind, here from  above and below, here from in front.  
 Let it come altogether toward us from all sides. Indra, grant to us  
 sun-like brilliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let thine heroic strength come from behind us, before us, from above us or below us.  
      From every side may it approach us, Indra. Give us the glory of the realm of splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser dein Mut komme wie ein Stier von hinten, von oben, von unten, von vorne, von allen Seiten soll er herkommen. O Indra, verleih uns sonnenhaften Glanz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her komme deine Heldenkraft von oben, von unten her, von vorne und von hinten, Von allen Seiten komme nah herbei sie, o Indra, schenk uns glanzbegabten Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да придет твой пыл, (подобный) быку, сзади,  
 Сверху, снизу, спереди,  

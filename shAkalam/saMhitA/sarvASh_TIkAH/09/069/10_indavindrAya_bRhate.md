@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दव् इ꣡न्द्राय बृहते꣡ पवस्व  
 सुमॄळीको꣡+ अनवद्यो꣡ रिशा꣡दाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवइ꣡र् द्यावापृथिवी प्रा꣡वतं नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 भर॑ । च॒न्द्राणि॑ । गृ॒ण॒ते । वसू॑नि । दे॒वैः । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । प्र । अ॒व॒त॒म् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
@@ -109,41 +109,41 @@ genre M;; repeated line
 हे **इन्दो** सोम त्वं **बृहते** महते **इन्द्राय** तदर्थं **पवस्व** पात्रेषु क्षर । इन्द्र प्रत्यागच्छ वा । कीदृशः । **सुमृळीकः** इन्द्रस्य सुष्ठु सुखयिता अत एव **अनवद्यः** गर्हारहितः **रिशादाः** रिशतां बाधकानामसिता । एतादृशस्त्वमिन्द्राय पवस्व । किंच **गृणते** स्तुवते मह्यं **चन्द्राणि** आह्लादकानि **वसूनि** धनानि **भर** प्रयच्छ। किंच हे **द्यावापृथिवी** युवां च पवमानेन परिप्लुते सत्यौ **देवैः** सुभगैर्धनैः सह **नः** अस्मान् **प्रावतं** प्ररक्षतम् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, who do make (men) very happy, the blameless one, the destroyer of foes, flow for mighty **Indra**; bring to (me) your worshipper gratifying riches; heaven and earth, protect us with auspicious (riches).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, purify yourself for lofty Indra, since you are very merciful,  beyond reproach, caring for the stranger.  
 Bring gleaming goods to the singer. O Heaven and Earth, together with  the gods—further us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is oddly phrased: it contains the idiom ā́pavasva, which ordinarily means “attract X-ACC here through your purification” (see comm. ad IX.7.8 and passim), but though it has an acc. (jaṭháram), it would seem quite odd to say “attract Indra’s belly here through your purification.” It seems rather to be a variant of 9b índrasya hā́rdi … ā́viśa “enter the heart of Indra.” And the lexeme ā́pavate does seem to have a variant construction with acc. of goal. Cf. ā́pavasva … pavítram IX.25.6, 50.4 “purify yourself in(to?) the filter.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, flow thou on for lofty Indra, flow blameless, very gracious, foe-destroyer.  
      Bring splendid treasures to the man who lauds thee. O Heaven and Earth, with all the Gods protect. us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Saft! Läutere dich für den hohen Indra, mildtätig, untadelhaft, herrenstolz! Bringe blinkende Schätze dem Lobsänger! Himmel und Erde, mit den Göttern helfet uns weiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem grossen Indra flamme zu, o Indu, untadlig, gnädig und den Feind verzehrend, Dem Sänger bringe glanzbegabte Güter, seid mit den Göttern hold uns, Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О капля, очищайся для могучего Индры,  
 Очень снисходительная, безупречная, заботящаяся о чужом!  

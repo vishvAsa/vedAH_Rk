@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ सू꣡र उ꣡दिते  
 य꣡न् मध्यं꣡दिन आतु꣡चि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 जु꣡ह्वानाय प्र꣡चेतसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वा॒मम् । ध॒त्थ । मन॑वे । वि॒श्व॒ऽवे॒द॒सः॒ । जुह्वा॑नाय । प्रऽचे॑तसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -99,7 +99,7 @@ genre M
 हे **विश्ववेदसः** सर्वतो व्याप्तधना हे देवाः **यत्** यदा **अद्य** इदानीम् । यद्वा सूर्ये **उदिते** सति । **यत्** यदा **मध्यंदिने** दिवसस्य मध्ये । यद्वा **आतुचि** । आतुचिर्गमनार्थः । सूर्यस्य निम्रोचने । सायमित्यर्थः । **जुह्वानाय** अग्नौ हवींषि जुह्वते अत एव **प्रचेतसे** प्रकृष्टज्ञानाय **मनवे** एतन्नामकायर्षये मह्यं **वामं** वननीयं धनं **धत्थ** दत्थ तद्वृणीमह इत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,37 +110,37 @@ genre M
 Connecting this to the next ṛca: since you give thedesired (opulence) to Manu, therefore, we solicit of you...
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since today when the sun rose, since at midday, since at the (time of)  covering [=evening?],  
 you establish a thing of value for Manu the discerning oblator, o you  affording all possessions,  
 1088 VIII.28–29
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax ātúc- is difficult. See EWA s.v. Mostly for contextual reasons it is generally taken as referring to evening or night, and it has been connected to tvác- ‘skin’, with the sense of ‘covering over’. I have followed this interpr., though with full awareness of how fragile it is. For one thing ‘cover as if with skin’ (which must be the presumed semantic channel, one way or another) is not an altogether compelling way to get to ‘evening’. For another, tvác- ‘skin’ has no zero-grade forms.
 
 Scarlatta (182-83) discusses several possibilities. Besides the ‘covering’ hypothesis, he suggests, citing Schindler and Kümmel, that tvác- may belong with a root √*tuek̯ ‘sichtbar werden’ to which ātúc- could also belong, and that ātúc- might better be taken as an adj. with madhyáṃdine “when midday is clearly visible.” He is less disturbed than I am that this would leave the verse without a third temporal period; furthermore, given that midday is the most “clearly visible” of the three standard time periods, it seems unnecessary to mark it as such. Another problem with ātúc- is that one is reluctant to separate it from the dat. tucé ‘for progeny’ in 14c. However, it is difficult to connect them and still maintain sensible semantics in our verse. Scarlatta makes a creative attempt: evening is the time when one goes back to one’s children, so ‘zu den Kindern hin’ becomes ‘Rückkehr nach Hause’. I admire the ingenuity but I think the unlikeliness speaks for itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If ye to-day at sunrise, or at noon, or in the gloom of eve,  
      Lords of all riches, give fair treasure to the man, the wise man who hath sacrificed,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr heute bei Sonnenaufgang, wenn ihr am Mittag, bei Sonnenuntergang für Manu Gutes bestellt, für den opfernden Vorsorglichen, ihr Allwissende,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn heut bei Sonnenaufgang ihr, zu Mittag, und wenn's dunkel wird, Dem Menschen Reichthum schenkt, o allbesitzende, dem weisen, der geopfert hat,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если сегодня на восходе солнца,  
 Если в полдень (или) когда стемнеет,  

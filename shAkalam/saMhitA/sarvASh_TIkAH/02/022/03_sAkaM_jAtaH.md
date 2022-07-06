@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकं꣡ जातः꣡ क्र꣡तुना साक꣡म् ओ꣡जसा  
 ववक्षिथ  
@@ -17,7 +17,7 @@ ChandaH = "अतिशक्वरी"
 सत्य꣡म् इ꣡न्द्रं सत्य꣡ इ꣡न्दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -38,7 +38,7 @@ genre M;; line affected by realignment;; repeated line
 दाता॑ । राधः॑ । स्तु॒व॒ते । काम्य॑म् । वसु॑ । सः । ए॒न॒म् । स॒श्च॒त् । दे॒वः । दे॒वम् । स॒त्यम् । इन्द्र॑म् । स॒त्यः । इन्दुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃ* ← *sākam*
 - \[adverb\]
@@ -166,14 +166,14 @@ genre M;; line affected by realignment;; repeated line
 क्रतुनकर्मणाप्रज्ञयावासाकं सहजातः साकमोजसाबलेनसहववक्षिथ विश्वंवोढुमिच्छसि वहेः सन्नं तस्यलिटिमन्त्रत्वादाम्नभवति किञ्च त्वंवीर्यैः शत्रुहननादिलक्षणैः परक्रमैः साकं सह वृद्धः प्रवृद्धः मृ- धोहिंसकान्सङ्ग्रामान्वासासहिः नलोकाव्ययेतिषष्ठीप्रतिषेधः तेषामभिभविता विचर्षणिः पुण्यकृतोऽ पुण्यकृतश्चविशेषेणद्रष्टा स्तुवतेस्तोत्रङ्कुर्वाणाययजमानायराधः साधकं काम्यं प्रार्थनीयं वसुधनं दाता सन् ववक्षिथेतिसमन्वयः सैनमितिपरोक्षनिर्देशः सिद्धार्थश्च ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cognate with (pious) works and with power, you desire to support (the universe); mighty with heroic (energies); you are the subduer of the malevolent; (you are) the distinguisher (between the doer of good and ill); the giver of the substantial wealth he desires to him who praises you; may the divine (**Soma**) pervade the divine (**Indra**), the true Soma, the true (Indra).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born at once with resolve, at once with power, you increased—  
 you, grown strong at once with heroic powers, overpowering the  
@@ -183,23 +183,23 @@ desirable good.
 – The god attends upon the god—the real Indu upon the real Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brought forth together with wisdom and mighty power thou grewest great; with hero deeds subduing the malevolent, most swift in act;  
      Giving prosperity, and lovely wealth to him who praiseth thee. So may the God attend the God, true Indu Indra who is true.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zugleich mit deiner Umsicht geboren bist du zugleich mit deiner Stärke gewachsen, zugleich mit den Manneskräften gewachsen, die Verachter bezwingend, dich hervortuend, dem Lobsänger die Gabe, das erwünschte Gut schenkend. - Er stand ihm zur Seite, der Gott dem Gott, dem wahrhaften Indra der wahrhafte Indu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren schon mit weisem Geiste und mit Kraft, nahmst du noch zu, erwachsen schlägst die Feinde du mit Heldenkraft, du rüstiger, Begehrtes Gut verleihst dem Sänger du zum Lohn; es folge ihm, dem Gott, der Gott, dem echten Indra Indu echt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденный вместе с (твоей) силой духа, вместе с мощью  
 Возрастал ты (сам),  

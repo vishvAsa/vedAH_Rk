@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वानि भद्रा꣡ मरुतो र꣡थेषु वो  
 मिथस्पृ꣡ध्येव तविषा꣡णि आ꣡हिता  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡क्षो वश् चक्रा꣡ सम꣡या वि꣡ वावृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अंसे॑षु । आ । वः॒ । प्रऽप॑थेषु । खा॒दयः॑ । अक्षः॑ । वः॒ । च॒क्रा । स॒मया॑ । वि । व॒वृ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāni* ← *viśva*
 - \[noun\], nominative, plural, neuter
@@ -124,7 +124,7 @@ genre M
 हे **मरुतः** वः रथेषु युष्मत्संबन्धिरथेषु रंहणसाधनेषु **विश्वानि** **भद्रा** सर्वाणि कल्याणानि भोगयोग्यानि द्रव्याण्यस्मभ्यं प्रदेयानि फलानि वा अहितानि । तथा वः **अंसेष्वा** तदुपलक्षितभुजेष्वपि । आकारोऽप्यर्थे । **मिथस्पृध्येव** बलाधिक्यात् परस्परस्पर्धाविषयाणि **तविषाणि** बलानि अंसेषूक्तलक्षणान्यायुधानि वा आहितानि । किंच वः प्रपथेषु । प्रगताः पन्थानो येषु विश्रामस्थानेषु तानि प्रपथानि । तेषु **खादयः** खाद्यानि भक्ष्याण्याहितानि । यद्वा । प्रगतः पन्था यैस्तेषु पादाग्रेषु खादयः स्थिरा आभरणविशेषा आहिताः । किंच **अक्षो** **वः** युष्मत्संबन्धी रथ्यः अक्षः **चक्रा** तत्रोपनिबद्धानि चक्राणि **समया** समीपे तेषां परिसरे **वि** **ववृते** विशेषेण वर्तते । न कदाचिदपि चक्रेषु संलग्नो भवतीत्यर्थः । यस्मादेवं देवयजनगमनसाधनानि सन्ति तस्मात् शीघ्रमागच्छध्वमित्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 At your resting plural ces: prapatheṣu khādayaḥ, an indication of facilities for shelter and provisions to travellers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All good things are set on your chariots, Maruts—like powers competing  with each other.364 I.167  
 On your shoulders, in the vanguard, are spangles; your axle turns the  wheels separately but at the same time.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou make taviṣā́ṇi part of the frame, not the simile. This actually does not alter the sense very much, since they still read mithaspṛ́dhyā with taviṣā́ṇi in an “as if” construction. Given the structure of the hemistich and the need for something for mithaspṛ́dhyā to modify, I prefer to take it with the simile. My only reservation about putting taviṣā́ṇi in the simile is that the Maruts’ taviṣā́ṇi are mentioned in 1d.
 
@@ -156,23 +156,23 @@ What is going on in d depends on the interpr. of samáyā, for which see comm. a
 Alternatively, we could take cakrā́as neut. plural, assuming four wheels -- and though this would technically require two axles, “the axle” as a mechanical marvel could stand for both. (Rather like saying “the internal-combustion engine powers most of the cars on the highway,” even though every car has its own.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, in your cars are all things that are good: great powers are set as 'twere in rivalry therein.  
      Rings are upon your shoulders when ye journey forth: your axle turns together both the chariot wheels.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle schönen Sachen sind auf euren Wagen, o Marut, aufgeladen, die Kräfte, die gleichsam miteinander wetteifern. An euren Schultern sind auf Reisen die Spangen. Eure Achse läuft mitten durch die Räder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf eure Wagen ist, o Maruts, alles Heil gelegt und Kräfte, wie wetteifernd unter sich; An euren Schultern glänzen Spangen auf der Fahrt, und eure Achse dreht zugleich die Räder um.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все вещи, несущие счастье, о Маруты, на ваших колесницах  
 Сложены, сильные, словно соревнуясь друг с другом.  

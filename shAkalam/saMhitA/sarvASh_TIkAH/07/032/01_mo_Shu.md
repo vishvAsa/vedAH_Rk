@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ षु꣡ त्वा वाघ꣡तश् चन꣡  
 आरे꣡ अस्म꣡न् नि꣡ रीरमन्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इह꣡ वा स꣡न्न् उ꣡प श्रुधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒रात्ता॑त् । चि॒त् । स॒ध॒ऽमाद॑म् । नः॒ । आ । ग॒हि॒ । इ॒ह । वा॒ । सन् । उप॑ । श्रु॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 हे इन्द्र **त्वा** त्वां **वाघतश्चन** यजमाना अपि **अस्मत्** अस्मत्तः **आरे** दूरे **म** **नि** **रीरमन्** न नितरां रमयन्तु । अतस्त्वम् **आरात्ताच्चित्** दूरेऽपि वर्तमानोऽस्मदीयं **सधमादं** यज्ञम् **आ** **गहि** आगच्छ । **इह** **वा** अत्रापि वा **सन्** विद्यमानः **उप** **श्रुधि** अस्मदीयं स्तोत्रमुपशृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not, **Indra**, (other) worshippers detain you far from us; come from whatever distance to ourassembly; present at this ceremony, hear our (prayers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not (any other) cantors at all stop you at a distance from us.  
 Even from afar come here to our joint revelry, or being (already) here  hearken (to us),
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET none, no, not thy worshippers, delay thee far away from us.  
      Even from far away come thou unto our feast, or listen if already here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch andere Sänger sollen dich ja nicht fern von uns anhalten. Auch aus der Ferne komme zu unserem Opfergelage, oder wenn du hier bist, so höre zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich mögen selbst die Beter nicht zum Stillstand bringen fern von uns; Auch aus der Ferne komm zu unserm Mahle her, wenn hier du bist, so höre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть никакие (другие) жрецы  
 Не удержат тебя вдалеке от нас!  

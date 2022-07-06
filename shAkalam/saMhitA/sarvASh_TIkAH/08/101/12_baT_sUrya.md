@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡ट् सूरिय · श्र꣡वसा महाँ꣡ असि  
 सत्रा꣡ देव महाँ꣡ असि  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 विभु꣡ ज्यो꣡तिर् अ꣡दाभियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒ह्ना । दे॒वाना॑म् । अ॒सु॒र्यः॑ । पु॒रःऽहि॑तः । वि॒ऽभु । ज्योतिः॑ । अदा॑भ्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *baṭ*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 हे **सूर्य** त्वं **श्रवसा** श्रवणेन **महान्** सर्वाधिकः असि **बट्** सत्यम् । हे **देव** द्योतमान सूर्य त्वं **देवानां** मध्ये **मह्ना** महत्त्वेन **महान्** अधिकः **असि** **सत्रा** सत्यमेव । **असुर्यः** असुराणां हन्ता चासि । किंच त्वं देवानां **पुरोहितः** हितोपदेष्टासि। किंच ते **ज्योतिः** तेजः **विभु** महत् **अदाभ्यं** केनाप्यहिंस्यं च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 Slayer of the asuras: asuryaḥ = asurāṇām **hantā**; or, beneficent to living beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes indeed! Sūrya, you are great in fame; in every way, god, you  are great.  
 Because of his greatness the lordly one was set in front for the gods, as  the extensive undeceivable light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Presumably the sun’s light is ‘undeceivable’ (adābhyàm) because the sun is witness to everything.
 
@@ -144,23 +144,23 @@ As noted in the published introduction, the banality of these vss. is a surprisi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, Surya, thou art great in fame thou evermore, O God, art great.  
      Thou by thy greatness art the Gods' High Priest, divine, far-spread unconquerable light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrhaftig, du bist groß an Ruhm, Surya, du bist ganz und gar der Große, o Gott. Durch deine Größe hast du, der Asurische, den Vortritt unter den Göttern, du, das allmächtige, unbetörbare Licht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, Sonnengott, an Herrlichkeit bist du gross, nach allen Seiten, o Gott, bist du gross; durch deine Grösse bist du der himmlische Priester der Götter; stark, unvertilgbar ist dein Licht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, о Сурья, ты велик (своей) славой.  
 Ты полностью велик, о бог.  

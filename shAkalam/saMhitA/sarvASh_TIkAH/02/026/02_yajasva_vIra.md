@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जस्व वीर प्र꣡ विहि मनायतो꣡  
 भद्र꣡म् म꣡नः कृणुष्व वृत्रतू꣡रिये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ब्र꣡ह्मणस् प꣡तेर् अ꣡व आ꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ह॒विः । कृ॒णु॒ष्व॒ । सु॒ऽभगः॑ । यथा॑ । अस॑सि । ब्रह्म॑णः । पतेः॑ । अवः॑ । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
@@ -130,19 +130,19 @@ genre M
 ऋषिरात्मीयम्पुरुषंशास्ति हेवीर विशेषेण स्तुतीनाम्प्रेरक सखे यजस्व ब्रह्मणस्पतिं स्तुत्यापूजय मनायतः मनइवशीघ्रम्प्रवर्तमानान् हिंसकान् यद्वा अभिमन्यमानान् शत्रून्प्रति प्रविहि प्रकर्षेणयुद्धा र्थङ्गच्छ वीगत्यादिषु छान्दसोह्रस्वः वृत्रतूर्ये वृत्रतूर्ये वृत्राणामावरकाणां शत्रूणांहिंसहेतुभूतेसङ्ग्रा मेभद्रङ्कल्याणन्धार्ष्ट्योपेतम्मनः कृणुष्वकुरुष्व ब्रह्मणस्पतेरनुग्रहात्तवैवजयोभविष्यति तथाब्रह्मणस्प- तयेहविश्चरुपुरोडाशादिकं कृणुष्वकुरु यथात्वंसुभगः शोभनधनोअससिभवेः अस्तेर्लेट्यडागमः ब्रह्मणस्पतेर्यागेनत्वंशोभनधनोभविष्यसीतियावत् अपिच वयम्ब्रह्मणस्पतेरवोरक्षणंआआभिमुख्ये नवृणीमहे प्रार्थयामहे ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer worship, O man, (to **Brahmaṇaspati**); proceed resolutely against those who are meditating (hostility); keep your mind firm in contending against foes; offer oblations whereby you may be prosperous; we also solicit the protection of Brahmaṇaspati.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Perform the sacrifice for yourself, hero. Pursue those who display their  zeal. Set your mind well on the overcoming of obstacles. Make offering so that you will have good fortune. We choose the help of  the lord of the sacred formulation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The impv. vihi, with short root vowel (also III.21.5, IV.48.1, and possibly VI.48.17), must belong to the root pres. of √vī ‘pursue’, whose properly formed 2nd sg. impv. is vīhí (7x). The easiest way to explain its short vowel is by analogy to ihí belonging to the root pres. to √i ‘go’, with pres. indic. émi, éṣi, éti, and impv. étu, all strikingly well attested, which match vémi, véṣi, véti, and vétu.
 
@@ -151,23 +151,23 @@ Its object, manāyatáḥ, is ambiguous and for that reason its referent is not 
 Ludwig, negatively, referring to enemies. My tr. is meant to be neutral, since I think both are simultaneously possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Worship, thou hero, chase the arrogant afar: put on auspicious courage for the fight with foes.  
      Prepare oblation so that thou mayst have success. we crave the favouring help of Brahmanaspati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Opfere, o Mann, rede den sinnenden Priestern zu, fasse den löblichen Vorsatz zur Feindebesiegung; bereite das Opfer, auf daß du glücklich werdest. Wir erbitten dazu die Gunst des Brahmanaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring Opfer, Held, die wohlgesinnten feure an, und mache tüchtig deinen Geist zur Feindesschlacht, Bereit' dein Opfer, dass du reich an Gütern seist; die Hülfe des Gebets Herrn wünschen wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приноси жертвы, о герой, принимай благожелательных (богов)!  
 Настрой (свой) дух на покорение врагов!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरा꣡च् छ꣡त्रुम् अ꣡प बाधस्व दूर꣡म्  
 उग्रो꣡ यः꣡ श꣡म्बः पुरुहूत ते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृधी꣡ धि꣡यं जरित्रे꣡ वा꣡जरत्नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मे इति॑ । धे॒हि॒ । यव॑ऽमत् । गोऽम॑त् । इ॒न्द्र॒ । कृ॒धि । धिय॑म् । ज॒रि॒त्रे । वाज॑ऽरत्नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ārāc* ← *ārāt*
 - \[adverb\]
@@ -134,36 +134,36 @@ genre M
 हे **पुरुहूत** बहुभिराहूत **इन्द्र** तव **यः** **उग्रः** उद्गूर्णः **शम्बः** वज्रः। तथा च यास्कः--  ‘ शम्ब इति वज्रनाम शमयतेर्वा शातयतेर्वा' (निरु. ५, २४ ) इति । **तेन** वज्रेण **शत्रुम्** अस्मदरिम् **आरात्** अस्मत्समीपात् **दूरम्** **अप** **बाधस्व** त्वमपगमय। किंच **अस्मे** अस्मासु **यवमत** यवयुक्तं **गोमत्** गोयुक्तं च धनं **धेहि** निधेहि। किंच **जरित्रे** स्तोत्रे मह्यं **वाजरत्नां** रमणीयान्नं **धियं** कर्म **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoked of many, (**Indra**) drive far away the enemy with that fierce thunderbolt of yours; grant to us,Indra, wealth of barley and cattle; render to the worshipper his sacrifice productive of plural asant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thrust the rival far away into the distance with that mighty śamba-pole  of yours, o you who are much invoked.  
 Set (a mass of) barley and cattle on us, Indra. For the singer, make his  insight possessed of prizes as its ornaments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thy fierce bolt, O God invoked of many, drive to a distance from afar the foeman.  
      O Indra, give us wealth in corn and cattle, and make thy singer's prayer gain strength and riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Treib den Feind von ferne weit weg mit deiner gewaltigen Samba-Keule, o Vielgerufener! Bring uns Besitz von Korn und Rindern, Indra; mache dem Sänger das Gedicht reich belohnt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch aus der Ferne stosse fort die Feinde mit deiner starken Waffe, vielgerufner; Gib Fülle uns an Korn und Rindern, Indra, belohn des Sängers Lied mit reichen Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Издали прогони врага далеко прочь  
 Той грозной палицей, о многопризываемый!  

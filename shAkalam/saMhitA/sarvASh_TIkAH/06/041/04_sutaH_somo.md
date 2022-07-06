@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुतः꣡ सो꣡मो अ꣡सुताद् इन्द्र व꣡स्यान्  
 अयं꣡ श्रे꣡याञ् चिकितु꣡षे र꣡णाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡न वि꣡श्वास् त꣡विषीर् आ꣡ पृणस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒तम् । ति॒ति॒र्वः॒ । उप॑ । या॒हि॒ । य॒ज्ञम् । तेन॑ । विश्वाः॑ । तवि॑षीः । आ । पृ॒ण॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
@@ -126,36 +126,36 @@ genre M
 हे **इन्द्र** **सुतः** अभिषुतः **अयं** **सोमः** **असुतात्** अकृताभिषवात् सोमादन्यदीयात् **वस्यान्** वसीयान् वसुमत्तरः प्रशस्यतरः। तथा **चिकितुषे** विदुषेऽभिज्ञाय तुभ्यं **रणाय** रमणीयाय तदर्थं **श्रेयान्** श्रेष्ठश्च भवति । त्वामतिशयेन रमयितेत्यर्थः। हे **तितिर्वः** शत्रूणां तरितरिन्द्र **यज्ञं** यजनसाधनम् **एतं** सोमम् **उप** **याहि** उपागच्छ । **तेन** च सोमेन **विश्वास्तविषीः** सर्वाणि बलानि **आ** **पृणस्व** आपूरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed soma is better than unpressed, Indra, and this (soma) here is  even better, for the discriminating to enjoy.  
 Drive here to this sacrifice, you overcomer. Through it fulfill all your  powers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma when pressed excels the unpressed Soma, better, for one who knows, to give him pleasure.  
      Come to this sacrifice of ours, O Victor replenish all thy powers with this libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ausgepreßte Soma ist besser als der ungepreßte, Indra. Dieser ist noch vorzüglicher, dem Kenner gereicht er zur Lust. Zu diesem Opfer komm, du Überwinder. Mit ihm füll alle deine Kräfte auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebrauter Soma ist, o Indra, besser als ungebrauter, mehr zur Lust dem weisen; Zu diesem Opfer komm herbei, o Sieger, mit ihm erfülle alle deine Kräfte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый сома, о Индра, лучше невыжатого,  
 Он предпочтительнее знатоку для радостного возбуждения.  

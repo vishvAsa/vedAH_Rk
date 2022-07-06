@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ जाम꣡ये ता꣡नुवो रिक्थ꣡म् आरैक्  
 चका꣡र ग꣡र्भं सनितु꣡र् निधा꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्यः꣡ कर्ता꣡ सुकृ꣡तोर् अन्य꣡ ऋन्ध꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यदि॑ । मा॒तरः॑ । ज॒नय॑न्त । वह्नि॑म् । अ॒न्यः । क॒र्ता । सु॒ऽकृतोः॑ । अ॒न्यः । ऋ॒न्धन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 अभ्रातृकाया दुहितुः पुत्रिकाकरणात् सा रिक्थभाक् इत्युक्तम् । भ्रातृमत्यास्तस्या रिक्थभाक्त्वं नास्तीति ब्रूते । **तान्वः** तनूज औरसः पुत्रः **जामये** भगिन्यै **रिक्थं** पित्र्यं धनं न **अरैक्** न प्ररेचयति न प्रददाति । किं तर्हि । **सनितुः** एनां संभजमानस्य भर्तुः **गर्भम्** । षष्य्िर्थे द्वितीया ॥ गर्भस्य **निधानं** रेतःसेकनिधानीमेनां **चकार**। पाणिग्रहणेन संस्कृताम् एनां करोति । न तु तस्यै रिक्थं ददातीत्यभिप्रायः । ' असंस्कृतास्तु संस्कार्या भ्रातृभिः पूर्वसंस्कृतैः । भगिन्यश्च निजादंशाद्दत्त्वांशं तु तुरीयकम् ' ( याज्ञ. २. १२४ ) इति याज्ञवल्क्यस्मरणात् । स्त्रीपुंसलक्षणस्यापत्त्यस्यैकोत्पाद्य त्वाविशेषात् पुमपत्यस्य को विशेष इत्याशङ्क्य विशेषं दर्शयति । **यदि** यद्यपि **मातरः** मातापितरौ **वह्निम्** । अवह्निः स्त्री वह्निः पुमान् स्वभार्याया वोढ़ृत्वात् । अवह्निश्च वह्निश्च । तादृशं स्त्रीपुंसलक्षणमपत्यं **जनयन्त** । तथापि तयोर्मध्ये **अन्यः** पुंलक्षणः **सुकृतोः** शोभनय पिण्डदानादेः कर्मणः **कर्ता** भवति । **अन्यः** स्त्रीलक्षणः **ऋन्धन्** वस्त्रालंकारादिना ऋध्यमान एव भवति । पिण्डदानादिकर्तृत्वात् पुत्रो दायार्हः दुहितुस्तथात्वं नेति न दायार्हा सा तु केवलं परस्मै दीयते। तथा च निरुक्तं’--न जामये भगिन्यै । जामिरन्येऽस्यां जनयन्ति जामपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति । तान्व आत्मजः पुत्रो रिक्थं प्रारिचत्प्रादाच्चकारैनां गर्भनिधानीं सनितुर्हस्तग्राहस्य यदिह मातरोऽजनयन्त वह्निं पुत्रमवह्निं च स्त्रियमन्यतरः संतानकर्ता भवति पुमान्दायादोऽन्यतरोऽर्धयित्वा जामिः प्रदीयते परस्मै ' (निरु. ३. ६ ) इति ॥ तान्वः । तन्वाः प्राणाधिष्ठितत्वात्तनूः प्राणवती । तद्विकार इत्यर्थे ' प्राणिरजतादिभ्योऽञ्' इत्यञ् । संज्ञापूर्वकस्य विधेनित्यत्वाद्गुणाभावः । रिक्थम् । • रिचिर् विरेचने ।‘पातॄतुदिवचिरिचिभ्यस्थक्'। प्रत्ययस्वरः। अरैक्।' रिचिर् विरेचने' इत्यस्य लुङि सिचि ‘वदव्रज°' इत्यादिना वृद्धिः । 'बहुलं छन्दसि' इतीडभावः । हल्ङ्यादिसंयोगान्तलोपौ । निघातः । सनितुः । ‘षण संभक्तौ ' इत्यस्य तृचि रूपम् । निधानम् । दधातेर्ल्युटि रूपम् । लित्स्वरः। मातरः । ‘पिता मात्रा ' इति पितुः शेषे प्राप्ते मातुः शेषश्छान्दसः । द्विर्वचनस्य बहुवचनं पूजार्थम् । जनयन्त । जनेर्णिचि रूपम् । वह्निम् । पुमान् स्त्रिया ' ( पा. सू. १. २. ६७ ) इति वह्नेः शेषः । सुकृतोः । करोतेरौणादिकः क्तुप्रत्ययः । ऋन्धन् । 'ऋधु वृद्धौ' । व्यत्ययेन श्नम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ Born of the body: **tānvaḥ** = tanujaḥ na jāmaye riktham āraik, if there 
 Avahni = a daughter; one, the son, the performer of obsequial and other rites, is the heir, while the other is rindhan, ridhyamāna, to be increased or made wealthy, with dresses, ornaments and the like; cf. **Nirukta** 3.4-6
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The son of her body [=Agni?] has not left behind his leavings for her  sister [=Gārhapatya?]. He has made the womb [=Āhavanīya?] a  
 repository for the winner.  
 When the mothers [=fingers] begot the (offering-)conveyor, one of the  two good workers [=fire-churning sticks] was the actor, the other was  the one assuring success.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not see sufficient evidence in this vs. for the legalistic interpr. having to do with inheritance rights advanced by Oldenberg and Geldner (fld. by Witzel Gotō). Again, my interpr.
 
@@ -174,23 +174,23 @@ The second half-verse is fairly clear (for this hymn) in its description of the 
 The yádī opening the second half-verse is better taken as yád ī, with the enclitic pronoun. See 6a below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Son left not his portion to the brother, he made a home to hold him who should gain, it.  
      What time his Parents gave the Priest his being, of the good pair one acted, one promoted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der leibliche Sohn hat seiner Schwester das Erbe nicht überlassen; er machte ihren Mutterleib zu einer Schatzkammer des Gewinners. Wenn die Mütter den Opferfahrer erzeugen, so ist einer von den beiden Guttätern der Erzeuger, der andere ist der, der den Vorteil hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht überliess der Sohn [Agni, das am männlichen Reib- holze entstandene Feuer] die Erbschaft der Schwester [der am weiblichen Reibholze entstehenden Flamme]; er machte fern vom Mutterschooss sein Lager [indem er als Brennholz die Flammen des Holzstosses anzündet, und so seine Erbschaft antritt]; wenn ihn den Fährmann [Agni] seine Aeltern [die beiden Reibhölzer] zeugen, ist von den beiden schön wirkenden der eine [das männ- liche Reibholz] der zeugende, der andere [das weibliche Reibholz] der fördernde [oder gedeihende].,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Родной сын не оставил сестре наследства,  
 Он сделал (ее) чрево кладовой захватчика.  

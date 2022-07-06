@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा दुष्कृ꣡तो वव्रे꣡ अन्त꣡र्  
 अनारम्भणे꣡ त꣡मसि प्र꣡ विध्यतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् वाम् अस्तु स꣡हसे मन्युम꣡च् छ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यथा॑ । न । अतः॑ । पुनः॑ । एकः॑ । च॒न । उ॒त्ऽअय॑त् । तत् । वा॒म् । अ॒स्तु॒ । सह॑से । म॒न्यु॒ऽमत् । शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -130,7 +130,7 @@ popular
 हे इन्द्रासोमौ **दुष्कृतः** दुष्कर्मकारिणः राक्षसान् **वव्रे** वारके **अन्तः** मध्ये **अनारम्भणे** आलम्बनरहिते **तमसि** अन्धकारे **प्र** **विध्यतं** प्रवेश्य ताडयतम् । **यथा** येन प्रकारेणैषां मध्ये **एकश्चन** एकोऽपि राक्षसः **अतः** अस्मात्तमसः **पुनः** **न** **उदयत्** उद्गच्छेत् । तथा विध्यतमित्यर्थः । एतेर्लेट्यडागमः । इतश्च लोपः' इतीकारलोपः । गुणावादेशौ । **तत्** प्रसिद्धं **मन्युमत्** क्रोधयुक्तं **वां** युवयोः **शवः** बलं **सहसे** रक्षसामभिभवनाय **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,35 +141,35 @@ popular
 Inextricable: bottomless **ālambana**-rahita
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, spear the evil-doers within their hole out into  
 darkness that offers nothing to hold onto,  
 so that no one at all will come up from there again. Let this power of  yours, full of battle fury, be for vanquishing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich of this vs. contains 2 locative phrases, vavré antár (a) and anārambhaṇé támasi (b). Essentially all tr. are agreed that the two phrases are parallel and refer to the same place -- and this is reasonable and probably would be the default reading. This interpr. in turn leads some (see esp. Norman Brown and Oberlies I.473) to take this as a description of Hell, or the RV equivalent thereof. My interpr. is syntactically bolder, and perhaps less well supported, but it arises from my discomfort with equating the enclosed space denoted by vavrá- (which is several times used of the Vala cave, e.g., IV.1.13, V.31.3) with “ungraspable darkness.” Because these locales seem incompatible, I take vavré antár as referring to the place where the evil-doers are hiding / taking refuge, and the action enjoined on Indra and Soma in b is to roust them from this hole and thrust them into a dark void with no handhold, the very opposite of an enclosure. A similar use of vavré antár as a place from which creatures are ejected is found in the account of the Vala myth in V.31.3 prā́codayat sudúghā vavré antár “(Indra) impelled forth the good milkers (who were) within the cave.” The action there is of course benign, but the loc. phrase also refers to the original location of the cows, not their destination. I must confess, however, that vs. 17 in our hymn, with the phrase vavrā́m̐anantā́n “holes without end” into which the villainess is to fall, does give me pause. (On the other hand, vs. 17 is in a portion that was probably a late addition to the hymn; see published introduction.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Soma, plunge the wicked in the depth, yea, cast them into darkness that hath no support,  
      So that not one of them may ever thence return: so may your wrathful might prevail and conquer them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Stoßet die Übeltäter in die Grube, in die haltlose Finsternis, auf das auch nicht einer von da wieder herauskomme. Diese eure grimmige Kraft muß zur Bezwingung genügen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Uebelthäter, Indra-Soma, stürzt hinab in Finsterniss und in des tiefsten Brunnens Grund, Dass auch nicht einer aus der Tiefe wiederkehrt; das wirke siegend eure ungestüme Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, сбросьте злодеев  
 Вглубь (их) укрытия, во мрак без опоры,  

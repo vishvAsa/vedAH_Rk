@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो मही꣡म् अर꣡मतिं कृणुध्वम्  
 प्र꣡ पूष꣡णं विदथि꣡यं न꣡ वीर꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सातउ꣡ वा꣡जं रातिषा꣡चम् पु꣡रंधिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 भग॑म् । धि॒यः । अ॒वि॒तार॑म् । नः॒ । अ॒स्याः । सा॒तौ । वाज॑म् । रा॒ति॒ऽसाच॑म् । पुर॑म्ऽधिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 हे स्तोतारः **वः** यूयम् **अरमतिम्** उपरतिरहितां **महीं** महतीं भूमिं **प्र** **कृणुध्वम्** आह्वयत । तथा **विदथ्यं** यज्ञार्हं **वीरं** **न** सर्वेषां प्रेरकं च **पूषणम्** एतन्नामकं देवं **प्र** कृणुध्वम् । तथा **अस्याः** **धियः** **नः** अस्मदीयस्यास्य कर्मणः **अवितारं** रक्षितारं **भगं** देवं चाह्वयत । अपि च **सातौ** अस्मदीये यज्ञे युद्धे वा **वाजम्** ऋभूणामन्यतमं देवमाह्वयत । कीदृशं वाजम् । **रातिषाचं** दानसेवकं **पुरंधिं** पुराणां धारयितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoke, (worshippers), the unresisting earth, and the adorable hero, **Pūṣan**; (invoke) **Bhaga**, theprotector of this our sacrifice, and **Vāja**, the sustainer of old, the liberal of gifts to our solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set in front of yourselves great Devotion [/Aramati], in front Pūṣan, like  a hero deserving of the ceremonial distribution;  
 and Bhaga, who aids this insight of ours, and the prize at its winning,  and Plenitude the Gift-Escort.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The NP dhiyó avitā́ram, characterizing Bhaga, reprises the VP dhíyam … avantu in 7b, where the Maruts were the subject.
 
@@ -147,23 +147,23 @@ On niṣikta-pā́- see Oldenberg and now Scarlatta (306).
 I take prajā́yai as a quasi-infinitive. See also X.73.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring ye the great Aramati before you, and Pusan as the Hero of the synod,  
      Bhaga who looks upon this hymn with favour, and, as our strength, the bountiful Purandbi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset die große Aramati voran gehen und den Pusan wie einen im weisen Rate bewanderten Meister, und den Bhaga, den Förderer dieser Dichtung von uns und die von der Gabe begleitete Purandhi bei dem Gewinnen des Preises!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, schafft euch her die grosse Andachtsgöttin, den Puschan wie den Mann, der glänzt im Rathe, Den Bhaga auch, der unsre Bitte fördre, zum Gutserwerb die Spenderin, die reiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поставьте впереди для вас великую Арамати,  
 Впереди Пушана, как мужа, достойного жертвенных раздач,  

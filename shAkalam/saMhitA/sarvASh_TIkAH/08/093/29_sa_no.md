@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वि꣡श्वानि आ꣡ भर  
 सुविता꣡नि शतक्रतो  
 य꣡द् इन्द्र मॄळ꣡यासि+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । इ॒न्द्र॒ । मृ॒ळया॑सि । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **शतक्रतो** इन्द्र **सः** पूर्वोक्तलक्षणस्त्वं **विश्वानि** सर्वाणि **सुवितानि** । सुष्ठ्वीयते प्राप्यते येष्विति सुवितानि मङ्गलानि । सुपूर्वादेतेः क्ते प्रत्यये उवङादेशः । सर्वानभ्युदयान् **नः** अस्मभ्यमाहर । हे **इन्द्र** यदि **नः** अस्मान् सुखयसि तर्हि धनादिसहितानभ्युदयान् देहीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us all blessings, **Śatakratu**, if you have favour to us, **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring us all welfare, o you of a hundred resolves,  
 when you will show us mercy, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ A variant of the final pāda of the last tṛca (27c stotṛ́bhya indra mṛḷ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 स नो॒ विश्वा॒न्या भ॑र सुवि॒तानि॑ शतक्रतो ।  
 यदि॑न्द्र मृ॒ळया॑सि नः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns alle Wohlfahrt, o Ratreicher, wenn du, Indra, uns barmherzig sein willst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bringe, thatenreicher du, uns alles Wohlergehn herbei, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

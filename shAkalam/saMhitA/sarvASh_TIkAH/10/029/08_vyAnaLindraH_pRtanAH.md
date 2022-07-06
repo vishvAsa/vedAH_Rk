@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ आनळ् इ꣡न्द्रः पृ꣡तनाः सुओ꣡जा  
 आ꣡स्मै यतन्ते सखिया꣡य पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡म् भद्र꣡या सुमती꣡° चोद꣡यासे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । स्म॒ । रथ॑म् । न । पृत॑नासु । ति॒ष्ठ॒ । यम् । भ॒द्रया॑ । सु॒ऽम॒त्या । चो॒दया॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -128,14 +128,14 @@ genre M
 **स्वोजाः** शोभनबलः **इन्द्रः** **पृतनाः** शत्रुसेनाः **व्यानट्** व्याप्नोति । इन्द्रः संग्रामेषु केनाप्यप्रतिहन्यमानः सन् शत्रून् जयतीत्यर्थः। किंच **पूर्वीः** । अत्र पूर्वशब्द उत्कृष्टवाची । उत्कृष्टाः शत्रुसेना अप्रभवन्त्यः सत्यः **अस्मै** अस्येन्द्रस्य **सख्याय** संधित्वलक्षणाय सखित्वाय **आ** **यतन्ते** । संधिं कर्तुमिच्छन्तीत्यर्थः । अपरोऽर्धर्चः प्रत्यक्षकृतत्वाद्भिन्नं वाक्यम् । हे इन्द्र त्वं **यं** स्वीयं रथं **भद्रया** कल्याण्या **सुमत्या** शोभनथा परानुग्रहया बुद्ध्या **चोदयासे** यज्ञान् प्रति प्रेरयसि तं **रथम्** अस्मद्यज्ञं प्रत्यागन्तुं महतादरेण **आ** **तिष्ठ** आरोह। तत्र दृष्टान्तः । **पृतनासु** संग्रामेषु **रथं** **न** यथा स्वरथं महतादरेणातिष्ठसि तद्वत् । **स्म** इति पदपूरणः ॥ ॥२३॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The powerful **Indra** reaches the hosts (of the enemy), the mightiest (hosts) exert themselves to obtainhis friendship; ascend, Indra, that chariot which you direct with favourable intent (to our sacrifice), as a chariot(which you mount) against the armies (of the foe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very powerful Indra has penetrated the battling hosts. The many  (hosts) marshal themselves for him, for his comradeship.  
 Mount upon the hosts like a chariot that you will spur on with  
@@ -143,23 +143,23 @@ auspicious benevolence.
 Hymns X.30–34 are attributed to Kavaṣa Ailūṣa, though Oldenberg (1888: 234–35)  entertains the possibility that this group should be joined with the Vasukra hymns  that precede on the basis of shared phraseology.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath conquered in his wars, the Mighty: men strive in multitudes to win his friendship.  
      Ascend thy chariot as it were in battle, which thou shalt drive to us with gracious favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gewaltige Indra hat die Schlachten bestanden; viele Stämme bemühen sich um ihn zur Freundschaft. Besteige den Wagen wie in den Schlachten, den du glückbringender guter Absicht antreiben mögest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Feinde hat besiegt der starke Indra, nach seiner Freundschaft streben viele Scharen; Besteige wie in Schlachten deinen Wagen und treib ihn her mit segensreicher Güte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра выигрывал сражения, (он,) очень сильный.  
 Многие (племена) стремятся к дружбе с ним.  

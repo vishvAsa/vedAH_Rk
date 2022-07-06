@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् मित्र꣡स्य व꣡रुणस्याभिच꣡क्षे  
 सू꣡र्यो रूपं꣡ कृणुते द्यो꣡र् उप꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृष्ण꣡म् अन्य꣡द् धरि꣡तः स꣡म् भरन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अ॒न॒न्तम् । अ॒न्यत् । रुश॑त् । अ॒स्य॒ । पाजः॑ । कृ॒ष्णम् । अ॒न्यत् । ह॒रितः॑ । सम् । भ॒र॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -133,7 +133,7 @@ genre D
 **तत्** तदानीम् उदयसमये **मित्रस्य** **वरुणस्य** एतदुभयोपलक्षितस्य सर्वस्य जगतः **अभिचक्षे** आभिमुख्येन प्रकाशनाय **द्योः** नभसः **उपस्थे** उपस्थाने मध्ये **सूर्यः** सर्वस्य प्रेरकः सविता **रूपं** सर्वस्य निरूपकं प्रकाशकं तेजः **कृणुते** करोति । अपि च **अस्य** सूर्यस्य **हरितः** रसहरणशीला रश्मयः हरिद्वर्णाः अश्वा वा **अनन्तम्[१]** अवसानरहितं कृत्स्नस्य जगतो व्यापकं **रुशत्** दीप्यमानं श्वेतवर्णं **पाजः** । बलनामैतत् । बलयुक्तम् अतिबलस्यापि नैशस्य तमसो निवारणे समर्थम् **अन्यत्** तमसो विलक्षणं तेजः **सं** **भरन्ति** अहनि स्वकीयागमनेन निष्पादयन्ति । तथा **कृष्णं** कृष्णवर्णम् **अन्यत्** तमः स्वकीयापगमनेन रात्रौ । अस्य रश्मयोऽप्येवं कुर्वन्ति किमु वक्तव्यं तस्य माहात्म्यमिति सूर्यस्य स्तुतिः ॥ अभिचक्षे । संपदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । द्योः ।  ‘ ङसिङसोश्च ' ( पा. सू. ६. १. ११० ) इति पूर्वरूपता । उपस्थे ।  ‘ घञर्थे कविधानम्' इति कप्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । पाजः । पाति रक्षतीति पाजो बलम् । पातेर्बले जुट् च ' ( उ. सू. ४, ६४२) इति असुन् जुडागमश्च । छान्दसो मत्वर्थीयस्य विनो लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ genre D
 Mitra and Varuṇa, by metonymy, refer to the world. His rays: **haritaḥ**, may also mean his horses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sun takes on his own form in the lap of heaven, for Mitra and  Varuṇa to see.  
 His one surface, gleaming, is unbounded; the tawny (horses) together  bring the other, the black one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse (esp. cd) works better in the day-sun / night-sun model than vs. 4, but I am still skeptical about that interpr. and can provide one that allows the verse to confine itself to sunrise. I am especially dubious about the version of the day-sun / night-sun model promulgated by Geldner (/Witzel Gotō), Renou -- that the two surfaces of the sun are Mitra (bright) and Varuṇa (dark) respectively -- since this interpretation is likely anachronistic as it rests on a later Vedic conception of the two deities. Freed from that model, I take the genitives mitrásya váruṇasya of pāda a as dependent not on rūpám in b with most tr., but with abhicákṣe, following Maurer’s rendering of the syntax, hence my “for Mitra and Varuṇa to see.” This interpr. may be syntactically problematic, as we would expect a dative subject -- and do find a dative subject with this infinitive, even several times in Kutsa’s oeuvre (I.102.2 asmé sūryācandramásābhicákṣe “for us to see the sun and moon”; I.113.6 dabhrám páśyadbhya urviyā́vicákṣe “for (even) those who see (only) a little to gaze out widely”). The case discrepancy troubles me, but I must assume that, given that infinitives are verbal nouns, nominal rection prevailed here. It might better be translated “for the sight of M+V.” This interpretation fits the verse better conceptually and makes a nice thematic ring with 1b, which contains the common trope of the sun as the eye of Mitra and Varuṇa, using the word cákṣuḥ, derivationally related to (abhi-)cákṣe. The expression in our vs. is ambiguous; it could be turning the notion of sight on its head
 
@@ -173,28 +173,28 @@ As indicated in the published introduction, although at the time I was not certa
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the sky's lap the Sun this form assumeth that Varuna and Mitra may behold it.  
      His Bay Steeds well maintain his power eternal, at one time bright and darksome at another.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This form the Sun takes in the lap of heaven, That Varuṇa and Mitra may regard him. One glow of his appears unending, splendid; His bay steeds roll the other up, the black one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Farbe des Mitra, des Varuna lässt Surya im Schoße des Himmels schauen. Endlos weiß ist seine eine Erscheinung; die andere, schwarze legen die falben Stuten zusammen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor Varuna's und Mitra's Aug' entfaltet im Himmelsschooss die Sonne ihre Schönheit; Ohn' Ende führen bald den lichten Schimmer, und bald den dunklen ihre Stuten aufwärts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сурья принимает этот цвет Митры (и) Варуны,  
 Чтобы быть видимым в лоне неба.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो देवे꣡भिर् उ꣡प देव꣡हूतिम्  
 अ꣡ग्ने याहि꣡ व꣡षट्कृतिं जुषाणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तुभ्य॑म् । दे॒वाय॑ । दाश॑तः । स्या॒म॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M;; repeated line
 हे **अग्ने** **नः** अस्माकं **देवहूतिं** स्तोत्रं यज्ञं वा **देवेभिः** देवैः सार्धं **वषट्कृतिं** हविः  **जुषाणः** सेवमानस्त्वम् **उप** **आ** **याहि** । **देवाय** द्योतमानाय **तुभ्यं** वयं **दाशतः** परिचरन्तः **स्याम** भवेम । सिद्धमन्यत् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to our sacrifice, **Agni**, with the gods, propitiated by the sanctified oblations; may we be theofferers (of worship) to you who are divine, and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Travel here with the gods to our invocation to the gods, taking pleasure  in our vaṣaṭ-call, o Agni.  
 We would be those offering service to you, a god. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Agni, with the Gods to our invoking, come, pleased, to offerings sanctified with Vasat.  
      May we be his who pays thee, God, due honour. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Agni, mit den Göttern zu unserer Götterladung und laß dir den Vasatruf wohl gefallen. Dir, dem Gotte, wollen wir freigebige Spender sein. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Götteranruf komme mit den Göttern, o Agni, unsern Segensruf empfangend; Wir wollen dir, dem Gotte, sein Verehrer; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди с богами на наш призыв богов,  
 О Агни, наслаждаясь возгласом: Вашат!  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡निम् ए꣡क आ꣡ ससाद दियो꣡तनो  
 अन्त꣡र् देवे꣡षु मे꣡धिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 योनि॑म् । एकः॑ । आ । स॒सा॒द॒ । द्योत॑नः । अ॒न्तः । दे॒वेषु॑ । मेधि॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
@@ -74,39 +74,39 @@ genre M
 अत्र योनिमिति लिङ्गादग्निरुच्यते । अग्नये गृहपतये ' इत्यादिषु दृष्टत्वात् । **देवेषु** देवानाम् **अन्तः** मध्ये **द्योतनः** स्वतेजसा दीप्यमानः **मेधिरः** मेधावी । अथवा मेधाकाङ्क्षिणां स्तोतॄणां मेधादातृत्वेन मेधायुक्तः । एवंविधः **एकः** अग्निः **योनिं** स्थानभूतमाहवनीयादिकम् **आ** **ससाद** हविःस्वीकारणार्थमासीदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One (**Agni**) intelligent, resplended among the gods, is seated in his plural ce (the altar).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the womb this one has sat down flashing, the wise one among the  gods. [=Agni]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. depicts in fairly straightforward terms the installation of Agni on the ritual hearth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Another, luminous, occupies the place of sacrifice, Sage, among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine hat sich leuchtend in seinen Mutterschoß gesetzt, der Weise unter den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine setzte strahlend sich aufs Lager hin, der weise in der Götter Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один уселся на (материнское) лоно,  
 Сверкающий. (Он) мудрый среди богов.

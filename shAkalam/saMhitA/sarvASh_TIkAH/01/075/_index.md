@@ -8,7 +8,7 @@ title = "+075"
 जुषस्व ' इति पञ्चर्चं द्वितीयं सूक्तम् । अनुक्रान्तं च- जुषस्व पञ्च' इति । ऋष्याद्याः पूर्ववत् । प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तः सूक्तविनियोगः । पशौ स्तोकानुवचने आद्या विनियुक्ता । सूत्रितं च--’ प्रेषितः स्तोकेभ्योऽन्वाह जुषस्व सप्रथस्तमम्' (आश्व. श्रौ. ३. ४) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 75  
 Agni  
@@ -18,7 +18,7 @@ This short hymn begins (vs. 1) by urging Agni to enjoy our praise of him, which 
 Although the hymn is too brief to develop the theme of thwarted expectations  sketched above, it does uninsistently suggest that verbal form may trump content in  the construction of praise poetry and that the audience should be wary of being led  astray by a poet’s expressed intentions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

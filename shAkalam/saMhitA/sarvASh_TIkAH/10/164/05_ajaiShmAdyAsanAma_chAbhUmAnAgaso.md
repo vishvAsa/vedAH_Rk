@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡जैष्माद्या꣡सनाम च  
 अ꣡भूमा꣡नागसो वय꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 यो꣡ नो द्वे꣡ष्टि त꣡म् ऋछतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 जा॒ग्र॒त्ऽस्व॒प्नः । स॒म्ऽक॒ल्पः । पा॒पः । यम् । द्वि॒ष्मः । तम् । सः । ऋ॒च्छ॒तु॒ । यः । नः॒ । द्वेष्टि॑ । तम् । ऋ॒च्छ॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajaiṣmādyāsanāma* ← *ajaiṣma* ← *ji*
 - \[verb\], plural, Athematic s aor. (Ind.)
@@ -138,31 +138,31 @@ popular;; epic anuṣṭubh (525)
 **अद्य** अस्मिन् काले **अजैष्म** । जेतव्यानि सर्वाणि जितवन्तोऽभूम दुःस्वप्नस्य नष्टत्वात्। तदनन्तरम् **असनाम** **च** संभक्तव्यानि च समभजाम । तथा **वयम्** **अनागसः** अनपराधाश्च **अभूम** । जाग्रत्स्वप्नावस्थयोः संबन्धी **पापः** पापफलरूपः **सः** **संकल्पः** दुःस्वप्नाध्यवसायः **यं** शत्रुं वयं **द्विष्मः** **तम्** **ऋच्छतु** प्राप्नोतु । **यः** च **नः** अस्मान् **द्वेष्टि** **तमृच्छतु** प्राप्नोतु ॥॥२२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have triumphed today, we have won, we have become free from guilt; may evil designs formed inwaking or sleep be transferred to him whom we hate, be transferred to him who hates us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have conquered today, and we have won: we have become without  offense.  
 The waking dream, the evil intent—let it land on him whom we hate, let  it land on him who hates us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have prevailed this day and won: we are made free from sin and guilt.  
      Ill thoughts, that visit us awake or sleeping, seize the man we hate, yea, seize the man who hateth us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben heute gesiegt und gewonnen, wir sind der Sünde ledig geworden. Der böse Traum im Wachen, die böse Absicht, soll auf den fallen, den wir hassen, soll auf den fallen, der uns haßt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы победили сегодня и мы добились:  
 Мы стали безгрешными!  

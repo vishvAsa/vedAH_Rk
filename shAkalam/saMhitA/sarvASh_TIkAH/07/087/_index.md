@@ -8,7 +8,7 @@ title = "+087"
 ‘रदत्पथः' इति सप्तर्चं सप्तदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वारुणम् । अनुक्रान्तं च – रदत्सप्त ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 87 (603)  
 Varuṇa  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रसा꣡यियः प꣡यसा पि꣡न्वमान  
 ईर꣡यन्न् एषि म꣡धुमन्तम् अंशु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय सोम परिषिच्य꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पव॑मानः । स॒म्ऽत॒निम् । ए॒षि॒ । कृ॒ण्वन् । इन्द्रा॑य । सो॒म॒ । प॒रि॒ऽसि॒च्यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rasāyyaḥ* ← *rasāyya*
 - \[noun\], nominative, singular, masculine
@@ -104,14 +104,14 @@ genre M
 हे सोम रसाय्यः रसेरौणादिकआय्यप्रत्ययः । आस्वाद्यः पयसायुक्तः पिन्वमानः क्षरन् त्वं ईरयन् शब्दम्प्रेरयन् मधुमन्तं माधुर्योपेतं अंशुं रसभावं एषि प्राप्नोषि । अंशुःशमष्टमा- त्रोभवतीतियास्कः । अनेन सोमरसोभिधीयते । किञ्च हेसोम परिषिच्यमानः अद्भिः परि षिक्तस्त्वं पवमानः पवित्रेपूयमानःसन् सन्तनिं तनुविस्तारे इप्रत्ययः सन्ततान्धारां कृण्वन् कुर्वन्निन्द्राय इन्द्रार्थं एषि गच्छसि ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “plural asant to the taste, dripping with milk, you flow pouring forth the sweet-flavoured juice. **Soma**, when purified and sprinkled, you flow for **Indra** in a continuous stream.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Good to taste, swelling with milk, you go, setting in motion the  
 honeyed plant.  
@@ -119,7 +119,7 @@ Purifying yourself, you go, producing thunder, while being poured
 around for Indra, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On saṃtaní- see comm. ad IX.69.2.
 
@@ -136,23 +136,23 @@ The poet is supposed to be Upamanyu Vāsiṣṭha, presumably following up on th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swelling with milk, abounding in sweet flavours, urging the meath-rich plant thou goest onward.  
      Raising a shout thou flowest as they cleanse thee, when thou, O Soma, art effused for Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Würzig, von Milch schwellend gehst du, den süßen Stengel in Fluß bringend. Während du dich läuterst, gibst du den Ton an, wann du für Indra umgegossen wirst, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gar köstlich schmeckend, strotzend von dem Milchsaft den honigsüssen Saft entsendend gehst du, Getös' erregend gehst du, hellentflammter, o Soma, rings für Indra dich ergiessend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вкусный, набухший молоком,  
 Ты идешь, двигая медовый стебель.  

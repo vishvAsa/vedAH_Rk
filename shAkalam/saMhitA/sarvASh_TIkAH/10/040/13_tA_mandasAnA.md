@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ मन्दसाना꣡ म꣡नुषो दुरोण꣡ आ꣡  
 धत्तं꣡ रयिं꣡ सह꣡वीरं वचस्य꣡वे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्थाणु꣡म् पथेष्ठा꣡म् अ꣡प दुर्मतिं꣡ हतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कृ॒तम् । ती॒र्थम् । सु॒ऽप्र॒पा॒नम् । शु॒भः॒ । प॒ती॒ इति॑ । स्था॒णुम् । प॒थे॒ऽस्थाम् । अप॑ । दुः॒ऽम॒तिम् । ह॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -137,36 +137,36 @@ genre M
 हे अश्विनौ **मन्दसाना** मन्दसानौ **ता** तौ युवां **मनुषः** मनुष्यस्य मत्पतेः **दुरोणे** गृहे **वचस्यवे** युष्मत्स्तुतिकामायै मह्यं **सहवीरं** पुत्रादिसहितं **रयिं** धनम् **आ** **धत्तं** स्थापयतम् । किंच हे अश्विनौ **शुभस्पती** उदकस्य स्वामिनौ युवां पतिगृहं गच्छन्त्या मम **तीर्थं** पानाय **सुप्रपाणं** **कृतं** कुरुतम् । किंच युवां **पथेष्ठां** मार्गस्थं **स्थाणुं** वृक्षं **दुर्मतिं** दुर्बुद्धिं परिपन्थिनं च **अप** **हतम्** अपगमयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exulting, do you bestow riches, comprehending **male** progeny, in the house of my husband, on me,who desire to praise you; lords of waters, make the sacred ford good to drink; remove the tree that stands in theroad and the malevolent (enemy).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reaching exhilaration in the dwelling of Manu, provide wealth along  with heroes to the eloquent one.  
 Make a ford that offers good drink, o lords of beauty. Smash away the  post standing in our path, the malevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even so, rejoicing in the dwelling-place of man, give hero sons and riches to the eloquent.  
      Make a ford, Lords of splendour, where men well may drink: remove the spiteful tree-stump standing in the path.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr, die ihr euch in dem Hause des Menschen ergötzet, verleihet dem Beredsamen Wohlstand nebst Söhnen! Schaffet eine Furt mit guter Tränke, ihr Gatten der Schönheit; räumt den im Weg stehenden Pfahl, die Mißgunst, hinweg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So gebt nun, euch in dem Hause des Menschen freuend dem Liederkundigen Reichthum der mit allen Helden versehen sei; verschafft ihm eine Tränke mit gutem Tranke, o Herrn des Glanzes, und einen Ruheplatz auf dem Wege; den böse gesinnten schlagt hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое, радующиеся в доме человека,  
 Дайте красноречивому богатство, сопровождаемое сыновьями!  

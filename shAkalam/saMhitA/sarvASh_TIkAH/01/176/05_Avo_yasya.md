@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡वो य꣡स्य द्विब꣡र्हसो  
 अर्के꣡षु सानुष꣡ग् अ꣡सत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्रा꣡वो वा꣡जेषु वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ॒जौ । इन्द्र॑स्य । इ॒न्दो॒ इति॑ । प्र । आ॒वः॒ । वाजे॑षु । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
@@ -92,20 +92,20 @@ genre M;; repeated line
 हे **इन्दो** सोम तव **यस्य** **द्विबर्हसः** स्तोत्रहवीरूपद्विविधपरिवृढकर्मवतो यजमानस्य **अर्केषु** मन्त्रेषु **सानुषक्** सानुषङ्गः सातत्यम् असत् भवेत् तम् आवः । तं यजमान रक्षसि तर्पयसि वा । यद्वा ॥ कर्मणि षष्ठी ॥ यं द्वयोः स्थानयोः परिवृढं यमिन्द्रं हे इन्दो यदार्केषु सानुषगसत् भवेः तदावः अरक्षः अतर्पयो वा । तस्यैव **इन्द्रस्य** **आजौ** संग्रामे हे सोम **वाजिनं** तथान्नवन्तं तमिन्द्रं **वाजेषु** बलेष्वन्नेषु वा निमित्तभूतेषु **प्रावः** प्रकर्षेण अरक्षयः । पानसमये तर्पयित्वा संग्रामसमये बलवर्धनेन जयप्राप्तशत्रुधनतर्पणेन वा अरक्षः इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, you protect him in whose prayers, doubly devout, there is the combination (of praise and oblation); protect, especially, **Indra** in war; protect the vigorous Indra in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You aided (him,) the doubly exalted (Indra), so that the ridge-frequenter  [=soma] will be his at the chants.  
 In the contest, o drop, you helped Indra’s prize-seeker to the prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has elicited an extraordinary amount of discussion and disagreement, which cannot be fully rehearsed here. I will only sketch my own interpr., which is closest to Oldenberg’s. I take the ā́vaḥ that opens the verse as the verb of the main clause and the only surface word of that clause. The obj. ‘him’ (*tám), referent of the following rel. prn., has been gapped, exactly as in 3c. The cmpd. sānuṣák in b I analyze as sā́nu-ṣác- (rather than sa-ānuṣák- with Grassmann and others); it is a reference to soma, which famously grows in the mountains. For detailed disc. of the cmpd and the passage see Scarlatta (594), though I cannot follow his suggestion that the 2nd member belongs to √sañj ‘hang’ and refers to a quiver ‘hanging on the back’.
 
@@ -114,23 +114,23 @@ In d the published translation “helped him to prizes” goes a little too flue
 The loc. vā́jeṣu might better be taken as the usual truncated loc. absol. “when prizes (were at stake).” Most other tr. take c with ab, with d separate, whereas I attach c to d. There is no way to tell, but I think the contrast set up here is between the ritual (signalled by the loc. arkéṣu “at the chants”), where Indra will receive what he wants (soma), and the contest (ājaú), where Indra’s client will do so.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou helpest him the doubly strong whose hymns were sung unceasingly.  
      When Indra fought, O Soma, thou helpest the mighty in the fray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Saft halfst im Kampfe dem doppelstarken Indra, bei dessen Preisliedern der Höhlenbewohner dabei sein soll; du halfst dem Siegesgewinner in den Kämpfen um die Siegerpreise.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du halfest dem, der zwiefach schenkt, der unaufhörlich Lieder singt; Bei Indra's Wettkampf triebst du vor die Rosse, Indu, in dem Streit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты помогал, о сок, в сражении  
 Индре, обладающему двойной силой,  

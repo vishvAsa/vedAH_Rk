@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ श꣡र्म प꣡र्वताना᳐म्  
 ओ꣡ता꣡पां᳐꣡ वृणीमहे  
 द्या꣡वाक्षामा आरे꣡ अस्म꣡द् र꣡पस् कृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 द्यावा॑क्षामा । आ॒रे । अ॒स्मत् । रपः॑ । कृ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -95,35 +95,35 @@ genre M
 **पर्वतानां** मेघानां गिरीणां वा संबन्धि **शर्म** सुखं वयम् **आ** **वृणीमहे** आभिमुख्येन संभजामहे । **उत** अपि च **अपाम्** उदकानां च । है **द्यावाक्षामा** द्यावापृथिव्यौ **अस्मत्** **आरे** अस्मत्तो विप्रकृष्टे देशे **रपः** पापं **कृतं** कुरुतम् । अस्मत्तो वियोजयतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit the happiness of the mountains and of the waters; heaven and earth, remove sin far from us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would choose the shelter of the mountains and of the waters. O Heaven and Earth, put defect at a distance from us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fain would we have the sheltering aid of mountains and of water-floods:  
      Keep far from us iniquity, O Heaven and Earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Schutz der Berge und der Gewässer erbitten wir uns. Himmel und Erde, entfernet von uns Leibesschaden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hohen Berge Schirm und Schutz und der Gewässer wünschen wir; Schafft, Erd' und Himmel, fern von uns das Ungemach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы испрашиваем себе  
 Защиту гор, а также вод.  

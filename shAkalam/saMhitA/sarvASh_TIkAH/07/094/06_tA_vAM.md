@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वां गीर्भि꣡र् विपन्य꣡वः  
 प्र꣡यस्वन्तो हवामहे  
 मेध꣡साता सनिष्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मे॒धऽसा॑ता । स॒नि॒ष्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विपन्यवः** स्तोत्रमिच्छन्तः **प्रयस्वन्तः** हविर्लक्षणेनान्नेनोपेताः **सनिष्यवः** सनिं धनमात्मन इच्छन्तो वयं **मेधसाता** मेधानां यागानां सातौ संभजने निमित्तभूते सति हे इन्द्राग्नी **ता** तौ **वां** युवां **गीर्भिः** स्तुतिभिः **हवामहे** आह्वयामहे ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Eager to offer praise, bearing (sacrificial) food, desirous of wealth, we invoke you, **Indra** and **Agni**, withpraises, in the celebration of holy acts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two we invoke, expressing admiration with our hymns, dispensing  ritual delight,  
 seeking to win at the contest for wisdom.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ and is object of a 1st ps. verb (havāmahe “we call upon you two”) -- thus e
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eager to laudyou, we with songs invoke you, bearing sacred food,  
      Fain for success in sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch rufen wir mit Lobreden preisend und leckere Gaben bringend an, um bei dem Gewinnen des Opfers Gewinner zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum rufen wir mit Liedern euch voll Preislust Opfer bringend an, Verlangend bei dem Gottesdienst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих чествуя в хвалебных песнях,  
 Мы зовем, приготовив жертвенную усладу, –  

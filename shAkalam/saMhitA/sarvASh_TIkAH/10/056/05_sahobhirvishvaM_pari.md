@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡होभिर् वि꣡श्वम् प꣡रि चक्रमू र꣡जः  
 पू꣡र्वा धा꣡मानि अ꣡मिता मि꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रा꣡सारयन्त पुरुध꣡ प्रजा꣡ अ꣡नु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 त॒नूषु॑ । विश्वा॑ । भुव॑ना । नि । ये॒मि॒रे॒ । प्र । अ॒सा॒र॒य॒न्त॒ । पु॒रु॒ध । प्र॒ऽजाः । अनु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahobhir* ← *sahobhiḥ* ← *sahas*
 - \[noun\], instrumental, plural, neuter
@@ -120,7 +120,7 @@ popular
 मदीयाः पितरः **सहोभिः** बलैः स्वीयैः **विश्वं** सर्वं **रजः** लोकम् । ‘लोका रजांस्युच्यन्ते । इति निरुक्तम् । **पूर्वा** पूर्वाणि **धामानि** स्थानानि **अमिता** अन्यैरमितानि **मिमानाः** परिच्छिन्दन्तः **परि** **चक्रमुः** पर्यक्रामन् । किंच तथा कुर्वन्तः **विश्वा** सर्वाणि **भुवना** भूतजातानि **नि** **येमिरे** नियमितवन्तः । किंच **पुरुध** पुरुधा बहुप्रकारं **प्रजा** **अनु** ज्योतींष्युदकानि वा **प्रासारयन्त** प्रसारितवन्तः । अस्मपितरः पूर्वेऽङ्गिरसः स्वसामर्थ्येन सर्वं लोकं व्याप्य पुरातनानि ग्रहनक्षत्रादीनि परिच्छिद्य सर्वभूतानि नियम्य प्रजा अनूदकानि तेजांसि वा प्रसारितवन्त इत्यर्थः । अतस्त्वमप्येवं कुर्विति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ popular
 Measuring the ancient divisions: or, having sub-divided the plural nets, lunar asterisms etc.;distributeḍ..light: prāsārayanta, dispersing light or water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their powers they strode around the whole airy realm, measuring  the ancient, unmeasurable domains.  
 All living beings are held down within their bodies, but they have  
 extended themselves multiply through their offspring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They strode through all the region with victorious might, establishing the old immeasurable laws.  
      They compassed in their bodies all existing things, and streamed forth offipring in many successive forms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit ihren siegreichen Kräften haben sie den ganzen Raum umwandelt, die alten ungezählten Schöpfungen durchmessend. Alle Geschöpfe sind an ihre Leiber gebunden. In vielen Gliedern pflanzten sie ihre Nachkommenschaft fort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Kraft durchschritten sie den ganzen Raum der Luft, die unermessnen alten Stätten massen sie; In ihre Leiber kehrten alle Wesen ein, Nachkommen schafften nach und nach sie überall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своими силами они проделали путь вокруг всего пространства,  
 Меряя прежние неизмеренные формы.  

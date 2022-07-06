@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समि꣡धा य꣡स् त आ꣡हुतिं  
 नि꣡शितिम् म꣡र्तियो न꣡शत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 क्ष꣡यम् अग्ने शता꣡युषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒याऽव॑न्तम् । सः । पु॒ष्य॒ति॒ । क्षय॑म् । अ॒ग्ने॒ । श॒तऽआ॑युषम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
@@ -99,21 +99,21 @@ genre M
 हे **अग्ने**, **समिधा** समिन्धनहेतुभूतेनेध्मेन सह **ते** त्वदीयां **निशितिं** निशितां तनूकृतां मन्त्रसंस्कृताम्  **आहुतिं** **यः** **मर्त्यः** मनुष्यः **नशत्** व्याप्नुयात् । नशतिर्व्याप्तिकर्मा । **सः** मनुष्यो यजमानः **वयावन्तम्** । वयाः शाखाः पुत्रपौत्रादिलक्षणाः । तद्युक्तं **शतायुषं** बहुविधान्नं चिरकालजीवनं वा **क्षयं** गृहं **पुष्यति** पोषयति वर्धयति । तत्र चिरकालमवतिष्ठत इत्यर्थः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mortal who feeds your consecrated burnt offering with fuel enjoys, **Agni**, a dwelling peopled with descendants, and a life of a hundred years.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who after kindling (you) will achieve the offering to you and  the whetting of you,  
 he prospers his dwelling place, (so that it has many) branches and  
 hundred(-year) lifespans, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two adjectives vayā́vantam and śatā́yuṣam are best taken as proleptic, with Geldner and Renou
 
@@ -132,23 +132,23 @@ VI.1.9b yás ta ā́naṭ samídhā havyádātim “who after kindling you [lit.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mortal who with fuel lights thy flame and offers unto thee,  
      Supports a house with many a branch, Agni, to live a hundred years.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche es fertig gebracht hat, dir mit Brennholz zu opfern um dich anzufachen, der mehrt sein Haus, daß es sich weit verzweigt und man hundert Jahre lebt, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann, der durch Entzünden dir des Opfers Guss und Glut verschafft, Der erntet nahrungsreichen Sitz, und, Agni, hundertfache Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смертный, который с помощью дров (для костра)  
 Успешно приносит тебе возлияние и раздувает (тебя), -  

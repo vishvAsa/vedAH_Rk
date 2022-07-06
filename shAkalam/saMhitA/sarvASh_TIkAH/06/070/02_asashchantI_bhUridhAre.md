@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सश्चन्ती भू꣡रिधारे प꣡यस्वती  
 घृतं꣡ दुहाते सुकृ꣡ते शु꣡चिव्रते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ रे꣡तः सिञ्चतं य꣡न् म꣡नुर्हितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 राज॑न्ती॒ इति॑ । अ॒स्य । भुव॑नस्य । रो॒द॒सी॒ इति॑ । अ॒स्मे इति॑ । रेतः॑ । सि॒ञ्च॒त॒म् । यत् । मनुः॑ऽहितम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asaścantī* ← *a*
 - \[adverb\]
@@ -124,21 +124,21 @@ genre M
 **असश्चन्ती** असज्यमाने व्युदस्यन्त्यौ वा **भूरिधारे** बहुधारे । दिवो वृष्टिधाराः पृथिव्याश्चाहुत्युद्भूतरसधाराः । एवमुभयोरपि बहुधारत्वम्। **पयस्वती** उदकवत्यौ । तथा च यास्कः - ‘ असज्यमाने इति वा व्युदस्यन्त्याविति वा बहुधारे उदकवत्यौ ' (निरु. ५.२) इति । **शुचिव्रते** शुचिक्रिये द्यावापृथिव्यौ **सुकृते** शोभनकारिणे यजमानाय **घृतं** सस्यादिसमृद्धिहेतुमुदकं **दुहाते** । अथ प्रत्यक्षस्तुतिः। **रोदसी** हे द्यावापृथिव्यौ **अस्य** **भुवनस्य** भूतजातस्य **राजन्ती** ईशाने युवाम् **अस्मे** अस्मासु **रेतः** प्रजननसमर्थं वीर्यं **सिञ्चतम्** । **यत्** रेतः **मनुर्हितं** मनुष्येभ्यो हितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uncollapsing, many-showering, water retaining, yielding moisture, beneficent, pure in act; do you two, Heaven and Earth, rulers over created beings, grant us vigour, that may be favourable to (the increase of) mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never drying up, with abundant streams, rich in milk, they milk  out ghee for the good performer (of rituals), the two of pure  
 commandments.  
 Ruling over this creation, you two World-Halves, for us pour the semen,  as was established by Manu.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ madhu-dúgha- ‘milking out honey’ in 1b is reprised by the VP ghṛtáṃ du
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Everlasting Pair, with full streams, rich in milk, in their pure rule pour fatness for the pious man.  
      Ye who are Regents of this world, O Earth and Heaven, pour into us the genial flow that prospers meit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unversieglich, reichströmend, voll Milch, milchen sie Schmalz, lauteren Wirkens, für den Frommen. Ihr beiden Rodasi, die über diese Welt herrschen, ergießest uns den von Manu gestifteten Samen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr unvergleichlich, reich an Strömen, milchversehn, ergiesset Fett dem Frommen, schöner Thaten voll, O Erd' und Himmel, herrschend über diese Welt, ergiesset uns den Samen, der den Menschen frommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неиссякающие, обильно струящиеся, полные молока,  
 Они, чьи обеты чисты, доятся жиром для благочестивого.  

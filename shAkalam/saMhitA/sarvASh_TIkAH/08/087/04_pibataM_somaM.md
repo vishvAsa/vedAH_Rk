@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बतं सो꣡मम् म꣡धुमन्तम् अश्विना  
 आ꣡ बर्हिः꣡ सीदतं सुम꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गन्तं꣡ गौरा꣡व् इवे꣡रिणम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । व॒वृ॒धा॒नौ । उप॑ । सु॒ऽस्तु॒तिम् । दि॒वः । ग॒न्तम् । गौ॒रौऽइ॑व । इरि॑णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
@@ -112,35 +112,35 @@ genre M
 हे **अश्विना** अश्विनौ **मधुमन्तं** रसवन्तं मदवन्तं वा **सोमं** युवां **पिबतम्** । ततः **बर्हिः** बर्हिषि यज्ञे **सुमत्** शोभनम् **आ** सीदतम् । पश्चात् **ववृधानौ** सोमपानेन वृद्धौ **ता** तौ युवां **दिवः** द्युलोकात् **सुष्टुतिम्** अस्माभिः क्रियमाणां शोभनां स्तुतिम् **उप** गन्तं उपगच्छतम् । तत्र दृष्टान्तः । **गौराविव** यथा गौरमृगावन्यस्माद्देशात् **इरिणं** तटाकादिकं प्रति जलपानार्थमागच्छतस्तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, drink the exhilarating **Soma**, sit down in your radiance on the sacrificial grass; waxing strong(through the libation), come from heaven to our praises as two Gadras to a pool.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the honeyed soma, o Aśvins; sit close together on the ritual grass. Having grown strong, come from heaven right up to our good praise, like  buffaloes to a salt-pocket.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink ye the Soma rich in meath, ye Asvins Twain: sit gladly on the sacred grass.  
      So, waxen mighty, to our eulogy from heaven come ye as wild-bulls to the pool.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinket den versüßten Soma, Asvin; setzet euch auf das schöne Barhis! Euch erbauend kommet vom Himmel zum Preislied wie Büffel zu einem Rinnsal!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den honigsüssen Soma trinkt, o Ritter ihr, und setzt zugleich euch auf die Streu, So kommt erfreut vom Himmel zu dem Lobgesang herbei, wie Büffel an den Bach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пейте сладкого сому, о Ашвины,  
 Садитесь вместе на жертвенную солому!  

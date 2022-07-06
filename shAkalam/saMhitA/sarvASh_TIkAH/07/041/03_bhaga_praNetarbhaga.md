@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡ग प्र꣡णेतर् भ꣡ग स꣡त्यराधो  
 भ꣡गेमां꣡ धि꣡यम् उ꣡द् अवा द꣡दन् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡ग प्र꣡ नृ꣡भिर् नृव꣡न्तः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भग॑ । प्र । नः॒ । ज॒न॒य॒ । गोभिः॑ । अश्वैः॑ । भग॑ । प्र । नृऽभिः॑ । नृ॒ऽवन्तः॑ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhaga*
 - \[noun\], vocative, singular, masculine
@@ -145,20 +145,20 @@ genre M
 हे **भग** देव त्वं प्रणेता प्रकर्षेण नेतासि । तादृश **प्रणेतः** हे **भग** त्वं **सत्यराधः** सत्यधनोऽसि । तादृश सत्यराधो हे **भग** त्वं **नः** अस्मभ्यं **ददत्** कामान् प्रयच्छन् **इमाम्** अस्मदीयां **धियं** स्तुतिम् **उदव** उद्रक्ष फलयुक्तां कुरु । हे **भग** त्वं **गोभिरश्वैः** च **नः** अस्मान् **प्र** **जनय** प्रोद्भूतान् कुरु । हे **भग** त्वत्प्रसादाद्वयं **नृभिः** नेतृभिः पुत्रादिभिः **नृवन्तः** मनुष्यवन्तः **प्र** **स्याम** प्रभवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bhaga**, chief leader of rites, Bhaga, faithful granting (our wishes), fructify ceremony, enrich us withcattle and horses; may we Bhaga, be eminent with **male** descendants and followers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Bhaga the leader, o Bhaga whose generosity is real, o Bhaga—promote  this poetic insight of ours as you give to us.  
 Bhaga, propagate us with cows and horses; Bhaga, might we, possessed  of superior men, be preeminent through our men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the prātár of vs. 1 and 2a has disappeared, this vs. seems to contain a reminiscence of it: 1c #prātár bhágam is echoed by 3a #bhága prá(ṇe)tar (in opposite order), and pādas c and d then pick up prá ṇ(etar) of 3a in #bhága prá ṇo and #bhága prá nṛ́bhiḥ (latter without retroflexion). This is hardly the most sophisticated effect in Rigvedic poetry, but it is an illustration of the subtle concatenative effects that can provide unity and a throughline in even the most banal (as this hymn mostly is) composition.
 
@@ -172,23 +172,23 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bhaga our guide, Bhaga whose gifts are faithful, favour this song, and give us wealth, O Bhaga.  
      Bhaga, augment our store of kine and horses, Bhaga, may we be rich in men and heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bhaga, du Führer, Bhaga, du wahrhaft Belohnender, Bhaga, nimm dieses Gebet gut auf, indem du uns schenkst! Bhaga, mehre uns an Rindern, an Rossen; Bhaga, an Männern möchten wir reich sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns spendend, O Bhaga, mach uns reich an Ross und Rindern, und lass, o Bhaga, uns an Helden reich sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Бхага, ведущий вперед, о Бхага, истинно дарящий,  
 О Бхага, поддержи эту молитву, одаряя нас!  

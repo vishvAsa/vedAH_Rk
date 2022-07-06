@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्रीरा꣡ तनू꣡र् भवति  
 रु꣡शती पाप꣡यामुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्व꣡म् अ꣡ङ्गम् अभिधि꣡त्सते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 पतिः॑ । यत् । व॒ध्वः॑ । वास॑सा । स्वम् । अङ्ग॑म् । अ॒भि॒ऽधित्स॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśrīrā* ← *aśrīra*
 - \[noun\], nominative, singular, feminine
@@ -98,36 +98,36 @@ popular;; epic anuṣṭubh (380)
 अत्रापि वधूवासःसंस्पर्शनिन्दोच्यते । **तनूः** वरस्य संबन्धिनी अश्रीराः अश्रीका **भवति** । कथं स्याच्चेदिति उच्यते । **रुशती** । रुशदिति वर्णनाम । दीप्तया **अमुया** अनया **पापया** पापरूपया कृत्यया युक्ता चेत्तनूः । तदेवाह । **पतिर्यत्** यदि **वध्वो** **वाससा** **स्वमङ्गमभिधित्सते** परिधातुमिच्छति ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The (bridegroom's) body is lacking in beauty; shining with this wicked (**Kṛtyā**), when he wishes toclothe his own limbs with his wife's garments.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His body loses its splendor—glistening in that evil way—  
 when the husband is about to put on his own member the “garment” of  the bride.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unlovely is his body when it glistens with this wicked fiend,  
      What time the husband wraps about his limbs the garment of his wife.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unschön wird der Leib, der blendendweiße, gar so häßlich, wenn der Gatte mit dem Kleide der jungen Frau seinen eigenen Körper bedecken will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hässlich wird der glänzende Leib [des Gatten], wenn auf jene verkehrte Weise der Gatte mit dem Kleide der Gattin seinen Körper umhüllen will.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Некрасивым становится тело,  
 Отвратительно светлым,  

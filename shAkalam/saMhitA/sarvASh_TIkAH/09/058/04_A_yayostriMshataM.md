@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡योस् त्रिंश꣡तं त꣡ना  
 सह꣡स्राणि च द꣡द्महे  
 त꣡रत् स꣡ मन्दी꣡ धावति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तर॑त् । सः । म॒न्दी । धा॒व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ययोः** ध्वस्रपुरुषन्त्योः **त्रिंशतं** त्रिशतानि **सहस्राणि** **तना** वस्त्राणि **आ** **दद्महे** वयं प्रतिगृह्णीमः तयोरस्माभिः प्रतिगृहीतं तत्सर्वमप्रतिगृहीतमस्त्विति सोमऋषिः प्रार्थयत इति सोमस्यैव स्तुतिः । सिद्धमन्यत् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Three hundred thousand: Or, thirty robes and thousands
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At (the hands of) those two we take thirty and thousands in extent. – In crossing, the invigorating one runs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From whom we have accepted thus thousands and three times ten beside:  
      Swift runs this giver of delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von welchen beiden wir in einer Reihe dreißigtausend Kühe empfangen. - Er gelange über das Wasser, der Berauschende läuft ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von denen wir in einem fort dreissig und tausend empfangen haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

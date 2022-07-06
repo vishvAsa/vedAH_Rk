@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡स् ते सर्पिरासुते  
 अ꣡ग्ने श꣡म् अ꣡स्ति धा꣡यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ चित्त꣡म् म꣡र्तियेषु धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । ए॒षु॒ । द्यु॒म्नम् । उ॒त । श्रवः॑ । आ । चि॒त्तम् । मर्त्ये॑षु । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,42 +116,42 @@ genre M
 हे **सर्पिरासुते** घृताख्यान्न **अग्ने** **यः** त्वम् **आ** सर्वतो भवसि तादृशाय **धायसे** सर्वस्य धात्रे **ते** तुभ्यं **शमस्ति** सुखमस्ति । स्तुतेः सकाशात् । तथा चेत् **एषु** **मर्त्येषु** स्तोतृष्वात्रेयेषु **द्युम्नं** यशः **आ** **धाः** आधेहि। **उत** अपि च **श्रवः** अन्नम् आ धाः । **चित्तं** त्वदीयामनुग्रहबुद्धिमपि **आ** धाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, **Agni**, the accepter of the oblation, the upholder (of all), there is plural asure (from our praise); do you bestow upon these your worshippers wealth, and food and a heart (grateful for your favour).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (For the sacrificer), who is luck for you so that you suckle (everyone), o  Agni, o you having butter as your soma-drink,  
 establish brilliance and fame here among these mortals, (establish)  
 insight here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni to whom the oil is shed by him thou lovest to support,  
      Bestow upon these mortals fame and splendour and intelligence.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who satisfies thee for refreshment, O Agni who drinkest butter: mayst thou bestow splendour, renown, and (wise) mind on such mortals 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer es dir, Agni mit dem Schmalzaufguß, recht macht zur Labung, all den Sterblichen sollst du Glanz und Ruhm und Einsicht verleihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Gut du zu vertheilen hast, o fettgetränkter Agni du, Das schenke diesen Sterblichen, Ruhm, Herrlichkeit und weisen Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебе, о глотающий топленое масло  
 Агни, бывает на благо, чтобы ты насыщался, –  

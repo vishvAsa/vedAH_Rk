@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हि꣡ क्र꣡तुं वृह꣡थो यं꣡ वनुथो꣡  
 रध्र꣡स्य स्थो य꣡जमानस्य चोदउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मि꣡न् भय꣡स्थे कृणुतम् उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑सोमा । यु॒वम् । अ॒स्मान् । अ॒वि॒ष्ट॒म् । अ॒स्मिन् । भ॒यऽस्थे॑ । कृ॒णु॒त॒म् । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 हेइन्द्रासोमा इन्द्रासोमौ यंवैरिणंवनुथोहिंसथः वनुष्यतिर्हन्तिकर्मेतियास्कः । तङ्क्रतुन्द्वेषस्यकर्तारं- प्रहिवृहथः प्रकर्षेणोद्यच्छथःखलु उन्मूलयथइत्यर्थः वृहूउद्यमने तौदादिकः तथारध्रस्यराधकस्ययज- मानस्यचोदौशत्रूणाम्प्रेरकौस्थोभवथः तथा हेइन्द्रासोमौ युवंयुवांअस्मान् अविष्टमवतं अस्मिन्भयस्थे भयस्थानेयुद्धे घञर्थेकविधानमित्यधिकरणेकप्रत्ययः मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् लोकम्भ- यरहितंस्थानङ्कृणुतङ्कुरुतम् उइतिपदपूरणः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M
 Make the world free from fear: kṛṇutam u lokam = liṭ, make the world; the verb is not used in the sense of creating; to specify what is done, added: bhayarahitam = freed from fear
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you two rip away the resolve (of him) whom you combat, but you  are stimulators of (even) a feeble man who performs sacrifice.  
 You, Indra and Soma—help us. In this fearful place create wide space.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Witzel Gotō tr. radhrásya … yájamānasya as “des ermatteten Opferers” and further explain that sacrificing under the hot South Asian sun is exhausting. But surely the point is rather that even a resolute enemy gets slammed down by Indra and Soma (pāda a), while even a weakling gets pepped up if he performs sacrifice to them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whomso ye love, his power ye aid and strengthen; ye Twain are the rich worshipper's advancers.  
      Graciously favour us, Indra and Soma; give us firm standing in this time of danger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn dem nehmet ihr beide die Besonnenheit, auf den ihr es abgesehen habt. Ihr seid Ermutiger des opfernden Schwachen. Indra und Soma, stehet uns bei, schaffet freie Bahn in dieser gefahrvollen Lage!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Kraft vermehrt ihr, wenn ihr beide hold seid, die ihr den müden Opfrer kräftig anregt, Indra und Soma, helfet uns ihr beide, in dieser Noth verschaffet freien Raum uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы вырываете силу духа, которую вы подчиняете (себе).  
 Вы – два вдохновителя слабого жертвователя.  

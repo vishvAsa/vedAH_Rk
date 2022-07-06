@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि त्वाष्ट्र꣡म् ऊर्ज꣡यन्तीर् अजुर्यं꣡  
 स्तभूय꣡मानं वह꣡तो वहन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡काम् इव रो꣡दसी आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । अङ्गे॑भिः । दि॒द्यु॒ता॒नः । स॒धऽस्थे॑ । एका॑म्ऽइव । रोद॑सी॒ इति॑ । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], accusative, singular, neuter
@@ -109,7 +109,7 @@ genre M
 उर्जयन्तीरबलं बलिनं कुर्वन्त्यो वहतो वहनपरा नद्यो महि महान्तम् त्वाष्ठ्रं त्वष्ट्रुः सुतमजुर्यं जरयितुमनर्हं स्तभूयमानं लोकानां स्तम्भनं धारणमिच्छन्तमग्निं वहन्ति । धारयन्ति । सधस्थेऽपां समीपेंऽगेभिरवयवैर्दिद्युतानो दीप्यमानः सन् अग्नी रोदसी द्यावा पृथिव्यौ व्याविवेश । विविधं प्रविष्टवान् । रोदस्योर्दृष्टान्तः । एकामिव । यथा पुमानेकां स्त्रियं प्रविशति । तद्वत् ॥ त्वाष्ट्रम् । त्वष्टुरपत्यमित्यर्थे तस्यापत्यमित्यण् । प्रत्ययस्वरः । स्तभूयमानम् । स्तुभु स्तम्भनम् । तदिच्छन्तम् । सुप आत्मनः क्यच् । अकृत्सार्वधातुकयोरिति दीर्घः । तदन्ताद्व्यत्ययेन शानच् । अकारान्तत्वादाने मुक् । शानचोलसार्वधातुकस्वरेणातुदात्तत्वे कृते क्यजन्ताद्धातुस्वरः शिष्यते । अङ्गेभिः । बहुलं चन्दसीति भिस ऐसादेशाभावः । बहुवचने झल्येदित्येत्वम् । दिद्युशानः । द्युत दीप्तौ । छन्दसि लिट् । तस्य कानजादेश । द्विर्वचनं हलादिशेषे कृते द्यु इत्यसाभ्यासस्य द्युतिस्य्व्व्प्योः सम्प्रसारनम् । पा. ७-४-६७ । इति सम्प्रसारणम् । सम्प्रसारणाच्चेति पूर्वरूपत्वम् । चित्त्वादन्तोदात्तत्वम् । एकामिव । इवेन विभक्त्यलोपः पुर्व पदप्रकृति स्वरत्वं चेति वचनात्पूर्वपदप्रकृतिस्वरः । विवेश विश प्रवेशन इत्यस्माल्लिटि रूपम् । निघातः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,34 +120,34 @@ genre M
 One only wife: the text has ekām iva, like one, the pronoun being feminine nine; the additions are: yathā **pumān** ekām praviśati, as a man cohabits with one woman
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Nourishing the unaging son of Tvaṣṭar greatly, the carriers [=fingers of  the priests?] carry him [=the newborn fire], who stands fast.  
 Flaring out with his limbs in his abode, he entered the two world-halves  as if they were one woman.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strength-giving streams bear hither him eternal, fain to support the mighty work. of Tvastar.  
      He, flashing in his home with all his members, hath entered both the worlds as they were single.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Giving mighty vigour to the never-ageing son of Tvashtri 1, the streams 2 carry Him the firmly fixed one. Flashing in his abode with his limbs he has entered upon the two worlds as if they were one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Flüsse führen den alterlosen Sohn des Tvastri mit sich, ihn mächtig stärkend, den sich festhaltenden. An seinem Sitze mit den Gliedern ausstrahlend, ging er in beide Welten ein, als wären sie eine einzige Gattin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ströme [hierwol die Feuer- oder Luftströme] mächtig stärkend den himmlischen Spross des Tvaschtar, fahren den feststehenden [zum Himmel auf]; er, der mit seinen Gliedern [den Flammen] leuchtet auf seiner Stätte, geht ein in die beiden Wel- ten wie in eine [indem er sie durch seine feurige Bahn vereinigt].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно укрепляя нестареющего сына Тваштара  
 Реки везут его, упирающегося.  

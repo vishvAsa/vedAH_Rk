@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ देवा क्र꣡तुना पूर्विये꣡ण  
 युक्ता꣡ र꣡थेन तविषं꣡ यजत्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इदं꣡ तृती꣡यं स꣡वनम् पिबाथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आ । अ॒ग॒च्छ॒त॒म् । ना॒स॒त्या॒ । शची॑भिः । इ॒दम् । तृ॒तीय॑म् । सव॑नम् । पि॒बा॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -107,35 +107,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have come quickly, you two gods, with your car, endowed with ancient might, O sacred **Aśvins**,truthful ones, with your powers, drink this third libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, o gods worthy of the sacrifice, yoked by your age-old purpose,  with your chariot  
 come here to the powerful (soma?), o Nāsatyas, with your skills. You will  drink this Third Pressing here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Oldenberg both suggest reading *yuktvā́for yuktā́, and Geldner further suggests ráthe ná for ráthena. Although such emendations are legitimate in the poorly transmitted Vālakhilya, I see no reason to change the text if we can make it make sense as it stands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beiden Götter, schirret in der frühen Absicht die Stärke gleichsam an den Wagen, ihr Opferwürdige, und kommet mit euren Künsten, Nasatya´s! Ihr sollt diese dritte Somaspende trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter kommt mit eurer alten Einsicht, o hehre, kraftgeschirrt an euren Wagen; Ihr beiden Treuen kommt hierher mit Eifer und trinket diese dritte Opferspende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, о два бога, по первому побуждению  
 Запрягши силу в колесницу, о достойные жертв,  

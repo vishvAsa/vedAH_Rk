@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ संस्थे꣡ चिच् छत꣡क्रतुर्  
 आ꣡द् ईं कृणो꣡ति वृत्रहा꣡  
 जरितृ꣡भ्यः पुरूव꣡सुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒रि॒तृऽभ्यः॑ । पु॒रु॒ऽवसुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** प्रसिद्ध इन्द्रः **संस्थे** संग्रामे **शतक्रतुः** बहुकर्मा भवति अपि च **आत्** अनन्तरम् **ईम्** इदं शत्रुवधादिकं **कृणोति** करोति **चित्** एव अयमिन्द्रः **वृत्रहा** शत्रूणां हन्ता भवति । किंच **जरितृभ्यः** स्तोतॄणामर्थे पुरूवसुः बहुधनो भवति । न स्वार्थमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The slayer of **Vṛtra**, the accomplisher of a hundred exploits in war, achieves them that he may be thegiver of much wealth to his worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who as “hundred-intentioned one” then carries them out in the  concourse as Vr̥tra-smasher,  
 while providing many goods for the singers,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A novel construction, at least as interpreted by Geldner (fld. by Klein and accepted also by me). The word -kratu- ‘intention, resolve’ is extracted from Indra’s epithet śatá-kratu- and implicitly made object of kṛnóti, represented by the enclitic pronoun īm. See Geldner’s “der … hundertfach Rat weiss und ihn ausführt.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Satakratu, even in fight acts as a Vrtra-slayer s,till:  
      He gives his worshippers much wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der auch im Zusammenstoß hundertfachen Rat weiß und ihn ausführt, der Vritratöter, der für die Sänger viele Schätze hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der vielfach wirkt auch in der Schlacht und vieles dann den Sängern schafft, Der Vritratödter, reich au Gut,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Того,) у кого сотня замыслов при столкновении (в бою),  
 И он их исполняет, убийца врагов,  

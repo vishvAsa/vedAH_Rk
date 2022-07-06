@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नूनं꣡ जायताम् अय꣡म्  
 म꣡नुस् तो꣡क्मेव रोहतु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सद्यो꣡ दाना꣡य मं꣡हते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यः । स॒हस्र॑म् । श॒तऽअ॑श्वम् । स॒द्यः । दा॒नाय॑ । मंह॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -105,35 +105,35 @@ genre M;; repeated line
 **अयं** सावर्णिः **मनुः** **नूनं** क्षिप्रं **प्र** **जायतां** प्रजातो भवतु । धनादिभिः पुत्रादिभिश्च **रोहतु** प्रादुर्भवतु । तत्र दृष्टान्तः । **तोक्मेव** । यथा जलक्लिन्नं बीजं प्रादुर्भवति एवं कर्मफलसंयुक्तः स मनुः पुत्रादिभिः रोहतु । **यः** अयं मनुः **शताश्वं** बह्वश्वसंयुक्तं **सहस्रं** गवां **सद्यः** तदानीमेव **दानाय** **मंहते** अस्मा ऋषये दातुं प्रेरयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this **Manu** (**Sāvarṇi**) quickly be born, may he increase like (well- watered) seed, who sends meat once a thousand and a hundred horses for a present.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now let this Manu be propagated and let him grow like a sprout— he who is magnanimous in giving all at once a thousand (cows) along  with a hundred horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this man's sons be multiplied; like springing corn may Manu grow,  
      Who gives at once in bounteous gift a thousand kine, a hundred steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fortan soll dieser Manu sich fortpflanzen, wie die junge Saat soll er sprießen, der tausend Kühe nebst hundert Rossen mir an einem Tage zu schenken bereit ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es pflanze sich fort und gedeihe nun dieser Mann, wie ein Reis schiesse er empor, welcher mir tausend [Rinder] und hundert Rosse an einem Tage zum Geschenke gibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть продолжит впредь свой род тот  
 Человек, пусть растет он, как трава,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वायो भूष शुचिपा उ꣡प नः  
 सह꣡स्रं ते नियु꣡तो विश्ववार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्य देव दधिषे꣡ पूर्वपे꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उपो॒ इति॑ । ते॒ । अन्धः॑ । मद्य॑म् । अ॒या॒मि॒ । यस्य॑ । दे॒व॒ । द॒धि॒षे । पू॒र्व॒ऽपेय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -161,7 +161,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -172,14 +172,14 @@ genre M
 Offer you: upayāmi:as applied to Soma, which is brought in a vessel called upayāma, upayātam pātre gṛhītam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, drinker of the clear (soma), attend upon us. A thousand are  your teams, o you who bring all valuables.  
 
 The exhilarating stalk has been held out close to you, the first drinking  of which you have as your own, o god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 prá va índrāya mā́danaṃ, háryaśvāya gāyata “Sing forth your exhilarating (song) to Indra of the fallow bays,” though the dat. there is more likely controlled by the verb prá √gā. The connection between Vāyu and √mad is reinforced in the next vs.: 5c vā́yo … mādayasva.
 
@@ -192,7 +192,7 @@ In d amítra- seems deliberately positioned verse-final to contrast with aryá�
 Renou treats VII.93-94 in EVP XIV, starting p. 55.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O VAYU, drinker of the pure, be near us: a thousand teams are thine, Allbounteous Giver.  
      To thee the rapture-bringing juice is offered, whose first draught, God, thou takest as thy portion.
@@ -207,17 +207,17 @@ Whereof, O god, thou hast the first drink.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach dich, Vayu, Trinker des Klaren, für uns fertig; du hast tausend Niyutgespanne, du Allbegehrter. Dir ward der berauschende Trank hingesetzt, dessen Ersttrunk du Gott als Vorrecht besitzest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her, o Vaju, du des Reinen Trinker, o gabenreicher, tausend Rosse lenkst du; Dir ward gereicht das Kraut, das Rausch erreget, von dem du Gott den ersten Trunk erlangt hast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Постарайся для нас, о Ваю, пьющий чистого (сому)!  
 Тысяча упряжек(-даров) (есть) у тебя, о обладатель всего (самого) избранного.  

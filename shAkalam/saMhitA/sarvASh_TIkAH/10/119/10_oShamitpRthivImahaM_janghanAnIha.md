@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओष꣡म् इ꣡त् पृथिवी꣡म् अहं꣡  
 जङ्घ꣡नानीह꣡ वेह꣡ वा  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *oṣam*
 - \[adverb\]
@@ -90,36 +90,36 @@ popular;; repeated line
 **अहं** **पृथिवीम्** अभिलक्ष्य **ओषं** स्वतेजसा तापकमादित्यम् **इह** **वा** अन्तरिक्षे **इह** **वा** द्युलोके **जङ्घनानि** भृशं यापयानि । **इत्** इति पूरणः ॥ हन्तेर्गत्यर्थस्य यङ्लुगन्तस्य लोटि शपो लुगभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I will drive the scorching (sun) either here or there, for I have often drunk of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will keep smiting the earth to blazes—here or over there.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In one short moment will I smite the earth in fury here or there:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schnell will ich die Erde hier oder dorthin stoßen. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Nu will ich die Erde auch zerschmettern hier wol oder dort; Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поколочу я быстренько  
 Землю там или тут –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्विता꣡ यो꣡ वृत्रह꣡न्तमो  
 विद꣡ इ꣡न्द्रः शत꣡क्रतुः  
 उ꣡प नो ह꣡रिभिः सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 उप॑ । नः॒ । हरि॑ऽभिः । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvitā*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **वृत्रहन्तमः** अतिशयेन वृत्रस्य हन्ता **शतक्रतुः** नानाविधकर्मा **यः** **इन्द्रः** **द्विता** द्विधा **विदे** वृत्रवधादावुग्रकर्मा जगद्रक्षणकाले शान्तकर्मेति द्विप्रकारेण सर्वैर्ज्ञायते । **विद** ज्ञाने'। कर्मणि विहितस्य तप्रत्ययस्य लोपस्त आत्मनेपदेषु' इति तलोपः । स त्वं **हरिभिः** सह **सुतं** सोममुपयाहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Whose power is known in a two-fold way: i.e., you are known in your terribleform as the slayer of Vṛtra, etc., and in your merciful form as the protector of the world
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is known, now as before, as Indra, best smiter of Vr̥tra,  possessing a hundred resolves—  
 right up to our pressed soma with your fallow bays.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ As noted in the published introduction, the first pāda of the first verse of th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Known as best Vrtra-slayer erst, as Indra Satakratu, come  
      With Bay Steeds to the juice we shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der doppelt, als der Erzfeindetöter und als der ratreiche Indra, bekannt ist, komm mit den Falben zu unserem Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

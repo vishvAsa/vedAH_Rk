@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शीर्ष्णः꣡-शीर्ष्णो ज꣡गतस् तस्थु꣡षस् प꣡तिं  
 सम꣡या वि꣡श्वम् आ꣡ र꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 व꣡हन्ति हरि꣡तो र꣡थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒प्त । स्वसा॑रः । सु॒वि॒ताय॑ । सूर्य॑म् । वह॑न्ति । ह॒रितः॑ । रथे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śīrṣṇaḥ* ← *śīrṣan*
 - \[noun\], genitive, singular, neuter
@@ -112,7 +112,7 @@ genre M
 **शीर्ष्णःशीर्ष्णः** सर्वस्यापि शिरसः। तृतीयार्थे पञ्चमी । स्वस्वशिरसेत्यर्थ: । सूर्यं वहन्तीत्यनेन संबध्यते । अथवा शिरःशब्देन तद्वान् पदार्थो लक्ष्यते । वीप्सया तस्य कार्त्स्न्यमुच्यते। सर्वस्य श्रेष्ठमित्यर्थः। जगतः जङ्गमस्य **तस्थुषः:** स्थावरस्य **पतिं** **रथे** वर्तमानं सूर्यं **सुविताय** कल्याणाय **विश्वं** **रजः** **समया** सर्वलोकस्य समीपे। अभितः परितःसमया   (पा. म. २. ३. २. १ ) इत्यादिना समयाशब्दयोगात् द्वितीया । **सप्त** सप्तसंख्याकाः **स्वसारः** अन्यनिरपेक्षेण स्वयमेव सरन्त्यः   **हरितः** हरितवर्णा अश्वाः **वहन्ति** ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,30 +125,30 @@ The lord: śīrṣṇaḥ śīrṣṇo jagatastasthuṣaspatim. the lord of stat
 Head = a being with a head,**śiraḥ** śabdena tad van **padārthaḥ**, that is to say, the whole of such objects, tasya kartsnyam, or the best of all,sarvasya śreṣṭham; it thus implies only each or individual
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For his easy passage, the seven sisters—the antelopes on his chariot— convey the Sun—  
 the lord of each one, head by head, and of the moving and the  
 standing—through the whole dusky realm altogether.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of each single head, of fixt and moving things, equally through the whole expanse,  
      The Seven sister Bays bear Surya on his car, to bring us wealth and happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Herrn alles Lebenden-Haupt zum Haupt-und des Unbeweglichen, den Surya ziehen mitten durch den ganzen Luftkreis die sieben Schwestern, die Falbinnen am Wagen zu guter Fahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Herrn jedweden Wesens, was da geht und steht, ihn ziehn im Nu durch allen Raum, Den Sonnengott die sieben Stuten, Schwestern sie, im Wagen hin zu hohem Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Господина каждой головы, живого (мира и) неподвижного,  
 Посредине через все пространство  

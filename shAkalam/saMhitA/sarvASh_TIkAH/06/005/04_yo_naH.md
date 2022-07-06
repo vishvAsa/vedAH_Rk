@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः स꣡नुत्यो अभिदा꣡सद् अग्ने  
 यो꣡ अ꣡न्तरो मित्रमहो वनुष्या꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡पा तपिष्ठ त꣡पसा त꣡पस्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । अ॒जरे॑भिः । वृष॑ऽभिः । तव॑ । स्वैः । तप॑ । त॒पि॒ष्ठ॒ । तप॑सा । तप॑स्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 हे **अग्ने** **यः** शत्रुः **सनुत्यः** । सनुतरित्यन्तर्हितनाम । अन्तर्हिते देशे वर्तमानः सन् **नः** अस्मान् अभिदासत् उपक्षयति बाधते । **यः** च **अन्तर:** अभ्यन्तरवर्ती सन् हे **मित्रमहः** अनुकूलदीप्ते मित्राणां महयितर्वाग्ने **वनुष्यात्** हिंस्यात् **तम्** उभयविधं हे **तपिष्ठ** तप्तृतमाग्ने **तपसा** तेजसा **तपस्वान्** तेजस्वी त्वम् **अजरेभिः** जरारहितै: **वृषभि:** वर्षितृभिः वृष्टिहेतुभूतैः **तव** **स्वैः** स्वभूतैः असाधारणैस्तेजोभिः **तप** दह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, protector of (your) friends, who are most resplendent, blazing with radiance, consume with your own imperishable flames him who injures us abiding in secret, or when near to us design us harm.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever at a distance will assail us, whoever close by will be rapacious, o  Agni with Mitra’s might,  
 with your own unaging bulls [=flames], most scorching one, scorch him  with your scorching heat, o you of scorching heat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the extreme etymological figure that occupies the whole of pāda d: tápā tapiṣṭha tápasā tápasvān. For the last two words, see the parallel structure in 6b.
 
@@ -151,23 +151,23 @@ These two vss. are contrastively paired: each has a generalizing rel. clause des
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, whoever secretly attacks us, the neighbour, thou with Mitra's might! who harms us,  
      Burn him with thine own Steers for ever youthful, burning with burning heat, thou fiercest burner.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ein Fernstehender uns nachstellt, o Agni, wenn ein Nahestehender eifern sollte, du wie Mitra Gefeierter, so brenne ihn mit deinen eigenen bullengleichen alterlosen Flammen, mit deiner Brunst brennend, du Brennendster.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer in der Ferne, Agni, uns befehdet, wer nahe uns bekämpft, o freundereicher, Den brenn mit deinen ewig jungen Stieren, o glühendster, mit deiner Glut, an Glut reich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, находясь далеко, нас донимает, о Агни,  
 Кто, близкий, завидует, о великий, как Митра,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्षा꣡ समुद्रो꣡ अरुषः꣡ सुपर्णः꣡  
 पू꣡र्वस्य यो꣡निम् पितु꣡र् आ꣡ विवेश  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ चक्रमे र꣡जसस् पाति अ꣡न्तौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मध्ये॑ । दि॒वः । निऽहि॑तः । पृश्निः॑ । अश्मा॑ । वि । च॒क्र॒मे॒ । रज॑सः । पा॒ति॒ । अन्तौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 सौर्योऽयं तृचः । **उक्षा** उदकस्य कामानां वा सेक्ता **समुद्रः** समुन्दनः । यद्वा । संमोदन्ते अस्मिन् देवा इति समुद्रः । **अरुषः** आरोचमानः **सुपर्णः** सुगमनः **पूर्वस्य** । अवयवलक्षणेयम् । पूर्वदिगवयवस्य **पितुः** पालकस्यान्तरिक्षस्य **योनिम्** उत्पादकमवयवम् **आ** **विवेश** आविष्टवान् पश्चात् **दिवः** **मध्ये** **निहितः** **पृश्निः** । प्राश्नुत एनं वर्णं इति पृश्निरादित्यः । **अश्मा** सर्वत्र व्याप्तः । लुप्तोपमा वा । अश्मसदृशः **रजसः** अन्तरिक्षस्य **अन्तौ** पूर्वापरभागौ **वि** **चक्रमे** विक्रमते । **पाति** च जगत् । जगद्रक्षार्थं क्रमते इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 Many-tinted and pervading luminary: pṛṣṇir **aśmā** vicakrame rajaspatyantau: **aśma** = **vyāpaka** or **sarvatra** **vyāpta**, pervading; also, it means, a stone, an allusion to a **pāṣāṇa**, or stone, which in some ceremonies is plural ced in the **āhavanīya** fire; aśma may also imply a simile, the term of comparison being dropped, **luptopamā** vā aśmā **sādṛśaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (He is) a bull, the sea, a reddish eagle (that) entered the womb of the  age-old father.  
 The dappled stone deposited in the middle of heaven strode across (the  sky); he protects the two ends of the airy realm: (the Sun).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In this riddle vs. the referent is not explicitly named, and in fact an initially bewildering set of incompatible identifications comes pouring out: a bull, the sea, a bird, a stone. But all of them are possible aspects of the sun (for similar vocab. see IX.83.3), and esp. in the 2nd hemistich the position specified (“in the middle of heaven”) and the actions depicted point strongly to the sun -- a referent generally agreed upon by interpreters. The “womb of the age-old father” (pū́rvasya yónim pitúḥ) is a gender-bending, though understated, paradox. It is likely that the sun’s age-old father is Heaven (Dyaus Pitā) -- on the parental relationship of Heaven and Earth to Sūrya, see esp. I.160 -- in which case the womb is probably (lower-case) heaven, the place through which the sun travels. In the next pāda he is unambiguously situated there: mádhye divó níhitaḥ, so at least in this instance one of the side-riddles of the vs. is solved almost as soon as it is posed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steer, Sea, Red Bird with strong wings, he hath entered the dwelling-place of the Primeval Father.  
      A gay-hued Stone set in the midst of heaven, he hath gone forth and guards mid-air's two limits.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle, der Ozean, der rötliche Adler ging ein in den Schoß des uralten Vaters, als bunter Stein mitten an den Himmel gesetzt schritt er aus. Er bewacht beide Grenzen des Raumes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der rothe Stier, lichtflutend, schöngeflügelt, ging ein nun in den Schooss des alten Vaters; Als bunter Stein gesetzt in Himmels Mitte ging vor er, schützt des Luftraums beide Enden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык, океан, рыжий орел  
 Вошел в лоно древнего отца.  

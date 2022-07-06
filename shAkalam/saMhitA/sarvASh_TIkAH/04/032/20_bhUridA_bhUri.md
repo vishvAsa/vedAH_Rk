@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रिदा भू꣡रि देहि नो  
 मा꣡ दभ्र꣡म् भू꣡रि आ꣡ भर  
 भू꣡रि घे꣡द् इन्द्र दित्ससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 भूरि॑ । घ॒ । इत् । इ॒न्द्र॒ । दि॒त्स॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūridā* ← *bhūri*
 - \[noun\]
@@ -102,35 +102,35 @@ genre M
 हे **इन्द्र** **भूरिदाः** बहुप्रदस्त्वं **भूरि** बहु धनं **नः** अस्मभ्यं **देहि** प्रयच्छ । किंतु **दभ्रम्** अल्पं धनं **मा** प्रयच्छ । **भूरि** बहुलं धनमस्मभ्यम् **आ** **भर** आहर । किंच **भूरि** **इत्** अदभ्रमेव धनं **दित्ससि** **घ** अस्मभ्यं दातुमिच्छसि खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A bountiful giver are you, **Indra**; give bountifully to us; (give) not little; bring much; for verily you desire to give much.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O giver of much, give much to us. Not a little!—bring much here. Surely it is much that you want to give, o Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A bounteous Giver, give us much, bring much and not a trifling gift:  
      Much, Indra, wilt thou fain bestow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Vielgeber, gib uns viel; nicht wenig, viel bring mit. Du willst ja viel geben. Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vielschenkender, viel schenke uns, nicht wenig, bring uns viel herbei; viel willst du, Indra, geben ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О дающий много, дай нам много!  
 Не мало, (а) много принеси!  

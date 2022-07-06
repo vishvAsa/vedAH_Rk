@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡रित्वता व꣡र्चसा सू꣡रियस्य  
 श्रे꣡ष्ठै रूपइ꣡स् तनु꣡वं स्पर्शयस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सध्रीचीनो꣡ मादयस्वा निष꣡द्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माभिः॑ । इ॒न्द्र॒ । सखि॑ऽभिः । हु॒वा॒नः । स॒ध्री॒ची॒नः । मा॒द॒य॒स्व॒ । नि॒ऽसद्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haritvatā* ← *haritvat*
 - \[noun\], instrumental, singular, neuter
@@ -102,36 +102,36 @@ genre M
 हे **इन्द्र** **हरित्वता** ॥ हरिच्छब्दान्मतुपः ‘झयः' (पा. सू. ८.२.१०) इति वत्वम्॥ हरिद्वर्णयुक्तेन **सूर्यस्य** **वर्चसा** तेजसा तत्सदृशैः **श्रेष्ठैः** प्रशस्यतमैरात्मीयैः **रूपैः** **तन्वम्** आत्मीयं शरीरं मदीयं वा । यद्वा । तायत इति तनूर्यज्ञः । तं **स्पर्शयस्व** । तेजोयुक्तं कुरु । किंच **सध्रीचीनः** ।  ‘ विभाषाञ्चेरदिक्स्त्रियाम्' इति खप्रत्ययः ॥ मरुद्भिः सहाञ्चनस्त्वं **सखिभिः** सखिभूतैः **अस्माभिः** **हुवानः** आहूयमानः सन् **निषद्य** यज्ञे निषण्णो भूत्वा **मादयस्व** । सोमपानेन हृष्टो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Decorate your person n with most beautiful forms with the golden radiance of the sun; invoked by usyour friends, **Indra**, sit down and be exhilarated, accompanied by the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Cause your body to be touched by the golden luster of the sun, by its  fairest forms.  
 When you are invoked by us, your comrades, Indra, in common with us,  become exhilarated upon sitting down—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deck out thy body with the fairest colours, with golden splendour of the Sun adorn it.  
      O Indra, turn thee hitherward invited by us thy friends; be seated and be joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß deinen Leib vom goldigen Glanze der Sonne, von den schönsten Farben berührt werden! Von uns Freunden angerufen, Indra, berausche dich mit uns gemeinsam, dich hinsetzend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bedecke mit dem goldnen Glanz der Sonne und mit den schönsten Farben deinen Leib dir; Von uns gerufen setz dich, Indra, nieder, berausche dich vereint mit uns, den Freunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подставь (свое) тело золотисто-желтому  
 Блеску солнца, лучшим краскам!  

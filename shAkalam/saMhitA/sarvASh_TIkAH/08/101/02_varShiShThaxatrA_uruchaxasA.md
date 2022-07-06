@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡र्षिष्ठक्षत्रा उरुच꣡क्षसा न꣡रा  
 रा꣡जाना दीर्घश्रु꣡त्तमा  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 साकं꣡ सू꣡र्यस्य रश्मि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ता । बा॒हुता॑ । न । दं॒सना॑ । र॒थ॒र्य॒तः॒ । सा॒कम् । सूर्य॑स्य । र॒श्मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varṣiṣṭhakṣatrā* ← *varṣiṣṭha*
 - \[noun\]
@@ -106,7 +106,7 @@ genre M;; repeated line
 **वर्षिष्ठक्षत्रौ** अतिशयेन वृद्धबलौ **उरुचक्षसा** महादर्शनौ **नरा** नेतारौ कर्मणां **राजाना** दीप्यमानौ **दीर्घश्रुत्तमा** अतिशयेन विद्वांसौ **ता** तौ मित्रावरुणौ **बाहुता** **न** भुजाविव **सूर्यस्य** **रश्मिभिः** किरणैः **साकं** सह **दंसना** दंसनानि कर्माणि। ‘अप्नः' दंसः ' इति कर्मनाममु पाठात् । **रथर्यतः** प्राप्नुतः । यथा बाहू सह कर्म प्राप्नुतः तथा मित्रावरुणौ सह यज्ञं प्राप्नुत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ genre M;; repeated line
 Like two arms: i.e., they obtain the sacrifice as the armsaccomplish an object
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two possessing highest dominion and broad vision, superior men,  kings of longest fame,  
 with their wondrous skill as if with their arm-strength they drive their  chariot, together with the rays [/reins] of the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The abstract bāhútā- ‘arm-ness’ or ‘collectivity of arms’ occurs twice in the RV (otherwise in I.41.2). I think it must refer to the quintessential qualify of arms, namely strength (see bāhv-òjas- ‘having the strength of arms, armstrong’). Here, in the simile I think the point is that Mitra and Varuṇa guide the chariot with their supernatural skill (daṃsánā) as if with physical arms, the tools that less exalted charioteers would use. The arms of the two gods are found in the next pragātha, 4d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Supreme in sovran power, far-sighted, Chiefs and Kings, most swift to hear from far away,  
      Both, wondrously, set them in motion as with arms, in company with Surya's beams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die höchste Herrschaft haben, die weitblickenden Herren, die beiden Könige, die weitberühmtesten, die fahren mit Geschick gleichsam in ihren Armen mit den Strahlen der Sonne zusammen im Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden Männer weiten Blickes, höchster Macht, die weitberühmten Könige, Mit Wundermacht wie mit den Armen fahren sie der Sonne Zügel lenkend hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два обладающих высшей властью далеко смотрящих мужа,  
 Два царя, самых далекопрославленных,  

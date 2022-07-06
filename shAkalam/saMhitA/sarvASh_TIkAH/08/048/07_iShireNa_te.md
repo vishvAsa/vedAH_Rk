@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इषिरे꣡ण ते म꣡नसा सुत꣡स्य  
 भक्षीम꣡हि पि꣡त्रियस्येव रायः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हानीव सू꣡रियो वासरा꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 सोम॑ । रा॒ज॒न् । प्र । नः॒ । आयूं॑षि । ता॒रीः॒ । अहा॑निऽइव । सूर्यः॑ । वा॒स॒राणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣireṇa* ← *iṣira*
 - \[noun\], instrumental, singular, neuter
@@ -115,41 +115,41 @@ genre D
 **इषिरेण** इच्छावता **मनसा** **सुतस्य** **ते** सुतमभिषुतं त्वां **भक्षीमहि** । **पित्र्यस्य** पितृसंबन्धिनो धनस्येव धनमिव । पित्र्यं धनं यथैषणेन मनसोपभुञ्जते तद्वत् । भक्षित हे **सोम**  **राजन** स्वामिन् **नः** अस्माकम् **आयूंषि** **प्र** **तारीः** प्रवर्धय । **वासराणि** जगद्वासकानि **अहानि** **सूर्यः** इव । अत्र ‘ईषणेन वैषणेन वार्षणेन वा ’ (निरु. ४, ७) इत्यादि निरुक्तं ज्ञातव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we partake of you, effused, with a longing mind as (men enjoy) paternal wealth; King **Soma**,prolong our lives, as the sun the world-establishing day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a vigorous mind we would take a share of you when pressed, as of  ancestral wealth.  
 King Soma, lengthen our lifetimes, like the sun the dawning days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we enjoy with an enlivened spirit the juice thou givest, like ancestral riches.  
      O Soma, King, prolong thou our existence as Surya makes the shining days grow longer.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of this thy juice pressed out with mind devoted, We would partake as of paternal riches. Prolong the years of life for us, King Soma, As Sūrya lengthens out the days of spring-time.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit eifrigem Herzen wollen wir deinen Saft genießen wie den väterlichen Reichtum. König Soma, verlängere unsere Lebenszeiten wie die Sonne die morgendlichen Tage!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Soma, den mit muntern Sinn wir pressten, lass nehmen uns wie väterliches Erbtheil, Verlängre du, o König, unser Leben wie Sonnenglanz die lichterhellten Tage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ревностным духом мы хотим приобщаться  
 К твоему выжатому (соку), как (сын) – к отчему богатству.  

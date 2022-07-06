@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वो देव꣡स्य नयितु꣡र्+  
 म꣡र्तो वुरीत सखिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द्युम्नं꣡ वृणीत पुष्य꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वः॑ । रा॒ये । इ॒षु॒ध्य॒ति॒ । द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
@@ -90,7 +90,7 @@ genre M
 **विश्वः** सर्वः **मर्तः** **नेतुः** **देवस्य** । सवितुरित्यर्थः । तस्य **सख्यं** **वुरीत** वृणीत । **विश्वः** जनः **राये** धनस्य **इषुध्यति** ॥ पञ्चमलकारः ॥ ईशीत । तस्यानुग्रहात् सर्वां जनः **द्युम्नं** धनं **वृणीत** **पुष्यसे** पुष्ट्यै पर्याप्तं धनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M
 **Yajus**. 4.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Every mortal would choose the companionship of the god Leader. Every one aims at wealth and would choose brilliance, in order to thrive.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. (and hymn) opens cleverly: the 1st two words are víśvo devásya, and until we encounter the genitive ending on the 2nd word, we expect the “every god” that would be appropriate to an All God hymn. Instead, the 2nd pāda opens with the real referent of víśvaḥ, namely the polar opposite of ‘god’, mártaḥ ‘mortal’.
 
@@ -117,23 +117,23 @@ The first is clearly an optative, though it has a somewhat unexpected shape and 
 The second, vṛṇīta, is formally ambiguous: it can be an optative parallel to vurīta, as I have taken it (so also at least Renou), or simply an injunctive. I would suggest that the poet first deploys the rare but unambiguously optative vurīta to set the modal tone and then uses the more common vṛṇīta as its morphological parallel. But it would of course be possible to argue that the poet wishes to contrast the two modalities; so I interpr. Geldner
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET every mortal man elect the friendship of the guiding God.  
      Each one solicits him for wealth and seeks renown to prosper him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jeder Sterbliche soll sich die Freundschaft des göttlichen Führers erbitten. Jeder macht Anspruch auf Reichtum; er bitte sich aus, daß sein Ruhmesglanz sich mehre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Freundschaft des Gottes Najitar begehre jeder Sterbliche, Ein jeder zielt nach reichem Gut und suchet Macht sich zum Gedeih'n.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть каждый смертный выберет себе  
 Дружбу божественного вождя!  

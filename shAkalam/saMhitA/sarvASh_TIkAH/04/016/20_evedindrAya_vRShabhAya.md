@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡द् इ꣡न्द्राय वृषभा꣡य वृ꣡ष्णे  
 ब्र꣡ह्म अकर्म भृ꣡गवो न꣡ र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सन् न उग्रो꣡ अविता꣡ तनूपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नु । चि॒त् । यथा॑ । नः॒ । स॒ख्या । वि॒ऽयोष॑त् । अस॑त् । नः॒ । उ॒ग्रः । अ॒वि॒ता । त॒नू॒ऽपाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eved* ← *eva*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 **यथा** इन्द्रः **नः** अस्मदीयानि **सख्या** सख्यानि कर्माणि **नू** **चित्** क्षिप्रमेव **वियोषत्** न पृथक्कुर्यात् । **उग्रः** तेजस्वी **तनूपाः** शरीराणां पालक इन्द्रो यथा **नः** अस्मान् **अविता** रक्षिता **असत्** स्यात् । तथा वयं यजमानाः **एवेत्** एवमेवोक्तप्रकारेण **इन्द्राय** **वृषभाय** कामानां वर्षित्रे **वृष्णे** नित्यतरुणाय **ब्रह्म** स्तोत्रम् **अकर्म** अकुर्म । तत्र दृष्टान्तः । **भृगवः** दीप्तास्तक्षाणः **रथं** **न** रथमिव तद्वत् । यजमानेभ्यो यथेन्द्रोऽभीप्सितफलप्रदो भवति तथेन्द्रं यजमानाः स्तुवन्तीत्यर्थः ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,13 +152,13 @@ genre M
 Bhṛgavo na ratham: bhṛgavo = **dīptas** takṣāṇaḥ, bright or dexterous carpenters; i.e. as a wheelwright makes a chariot for a special purpose, so the worshipper performs worship in order to secure Indra's favour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way we have made a sacred formulation for Indra, the  bull-strong bull, as the Bhr̥gus do a chariot,  
 so that he will never keep us far away from his partnership, and he will  be our powerful helper, the protector of our bodies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. (Geldner [/Witzel Gotō]) take viyóṣat as intransitive, a view argued for by Narten (Sig. aor. 214), with a neut. pl. subj. (sakhyā́) of a sg. verb. For my argument for a trans. interpr. of this s-aorist, see comm. ad II.32.2. As at II.32.2 I take sakhyā́here as an instr. sg. of separation, though an acc. pl. obj. (“he will not keep our partnerships far away”) is also possible.
 
@@ -175,23 +175,23 @@ These two vss. provide a double ending to this hymn. The first (20) begins, as s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, as the Bhrgus wrought a car, for Indra the Strong, the Mighty, we our prayer have fashioned,  
      That he may, ne'er withdraw from us his friendship, but be our bodies' guard and strong defender.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So haben wir dem Indra, dem männlichen Bullen, eine Erbauung gemacht, wie die Bhrigu´s einen Wagen, auf daß sich niemals unsere Freundschaft löse und uns ein mächtiger Gönner und Leibesschützer sei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So haben wir dem starken Stiere, Indra, Gebet gemacht wie Bhrigu's einst den Wagen, Dass unsre Freundschaft nimmer er verschmähe und sei ein starker Schützer unsrer Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так для Индры, мужественного быка,  
 Мы создали молитву, словно Бхригу-колесницу,  

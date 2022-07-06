@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡र् इछन्ति तं꣡ ज꣡ने  
 रुद्र꣡म् परो꣡ मनीष꣡या  
 गृभ्ण꣡न्ति जिह्व꣡या सस꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गृ॒भ्णन्ति॑ । जि॒ह्वया॑ । स॒सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antar*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तं** **रुद्रम्** । रुत् दुःखम् । तस्य द्रावयितारम् । अथवा रुत् स्तुतिः । तया गन्तव्यम् । स्तुत्यमित्यर्थः । तादृशमग्निं **जने** यजमानार्थं **मनीषया** स्वप्रज्ञानेन **परः** परस्तात् पुरोदेशे **इच्छन्ति** स्थापयितुम् । त एव पश्चात् **ससं** स्वपन्तमग्निं **जिह्वया** । जन्ये जनकशब्दः । जिह्वाप्रभवया स्तुत्या **गृभ्णन्ति** गृह्णन्त्यङ्गुलिभिः । अत्र यास्कः - स्वप्नमेतन्मध्यमं ज्योतिरनित्यदर्शनम्।....द्वैधं सत्ता मध्यमे च स्थाने उत्तमे च । ' ( निरु. ५. ३) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 With their tongues: with their hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They seek him within (themselves) and among the people, (seek him) as  Rudra beyond inspired thought.  
 With his tongue they grasp the grain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are various ways to configure the places where “they seek.” I take antár in a pregnant sense, referring to the interior of the subject; the search expands to jáne, and finally to the place “beyond inspired thought” (paró manīṣayā). Since this phrase is also found in V.17.2, the two words must go together, whatever they are trying to convey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, glowing bright beyond all thought, they seek among the race of man;  
      With him for tougue they seize the food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie suchen ihn in der Fremde, den Rudra, der jenseits aller Vorstellung. Mit seiner Zunge halten sie die Nahrung fest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Menschen suchen Götter ihn, der heller glänzet als Gebet, Mit seiner Zunge trinken sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они ищут (его) среди народа,  
 (Этого) Рудру за пределами воображения.  

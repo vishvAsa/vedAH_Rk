@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समउ꣡ चिद् ध꣡स्तौ न꣡ समं꣡ विविष्टः  
 सम्मात꣡रा चिन् न꣡ समं꣡ दुहाते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज्ञाती꣡ चित् स꣡न्तौ न꣡ सम꣡म् पृणीतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒मयोः॑ । चि॒त् । न । स॒मा । वी॒र्या॑णि । ज्ञा॒ती इति॑ । चि॒त् । सन्तौ॑ । न । स॒मम् । पृ॒णी॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samau* ← *sama*
 - \[noun\], nominative, dual, masculine
@@ -147,41 +147,41 @@ popular
 अतिथिभ्यो धनमप्रयच्छन्नपि मम भ्राता दास्यतीति चेत् तत्र हेतुमाह। **समौ** **चिद्धस्तौ** समावपि **समं** समानं **न** **विविष्टः** कार्यं न व्याप्नुतः ॥  ‘ विष्लृ व्याप्तौ ' । जौहोत्यादिकः । संज्ञापूर्वकस्य विधेरनित्यत्वादभ्यासस्य गुणाभावः ॥ तथा **संमातरा** वत्सस्य मातरौ धेनू समे अपि **समं** समानं पयः **न** **दुहाते** । 'यमयोश्चित् सहजातयोः पुत्रयोरपि **समा** समानि **वीयाँणि** ”न सन्ति । तस्मात् **ज्ञाती** **चित्** एकस्मिन् कुले **सन्तौ** जातावपि **समं** **न** **पृणीतः** न प्रयच्छतः। तस्माद्यस्य धनमस्ति स एव दद्यादित्यर्थः ॥॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The two **hands** are alike, but they do not perform the same work; two cows calving at the same timedo not yield the same milk; two twins have not the same strength; two person ns of the same family do not displayequal liberality.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Two hands, even though the same, do not accomplish the same. Even two  (cows) with the same mother do not yield the same milk.  
 The heroic deeds even of twins are not the same. Two men, even though  they are kin, do not give the same.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The hands are both alike: their labour differs. The yield of sister milch-kine is unequal.  
      Twins even diffier in their strength and vigour: two, even kinsmen, differ in their bounty.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Two hands though equal make not what is equal; No sister cows yield milk in equal measure; Unequal is the strength even of twin children; The gifts of even kinsmen are unequal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwei Hände, obwohl sie gleich sind, schaffen nicht das Gleiche, zwei Kühe, auch wenn sie von der gleichen Mutter sind, geben nicht gleichviel Milch. Auch Zwillinge haben nicht die gleichen Kräfte, und auch zwei, die Blutsverwandte sind, schenken nicht gleichviel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gleichen Hände wirken doch nicht gleiches; nicht gleiches saugen Kinder gleicher Mutter, Auch Zwillingsbrüdern ist nicht gleiche Stärke; auch zwei Verwandte sind nicht gleich im Geben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Две руки, хоть и одинаковы, не делают одинаковой работы,  
 (Две коровы,) хоть и от одной матери, неодинаково доятся.  

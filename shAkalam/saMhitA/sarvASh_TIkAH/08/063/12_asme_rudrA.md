@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ रुद्रा꣡ मेह꣡ना प꣡र्वतासो  
 वृत्रह꣡त्ये भ꣡रहूतौ सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रज्येष्ठा अस्माँ꣡ अवन्तु देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । शंस॑ते । स्तु॒व॒ते । धायि॑ । प॒ज्रः । इन्द्र॑ऽज्येष्ठाः । अ॒स्मान् । अ॒व॒न्तु॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], locative, plural
@@ -120,7 +120,7 @@ genre M
 **अस्मे** अस्मान् **रुद्राः** **मेहना** उदकसेचनयुक्ताः **पर्वतासः** मेघाश्च **वृत्रहत्ये** वृत्रहननसाधने **भरहूतौ** संग्रामाह्वाने **सजोषाः** अस्मत्समानप्रीतिश्च **यः** इन्द्रः **शंसते** शस्त्रं पठते **स्तुवते** स्तोत्रं कुर्वते च यजमानाय **पज्रः** बलवान् वेगवान् वा **धायि** गच्छति स इन्द्रश्चेमे **इन्द्रज्येष्ठाः** **देवाः** **अस्मानवन्तु** रक्षन्तु । अस्मानिति पूरणः । अथवैवं योज्यम् । रुद्रा रुद्रपुत्रा मेहना सेचनेन युक्ताः पर्वताः पर्वतसदृशाः पूरणवन्तः प्रीणनवन्तो वा ।' पर्व पुनः पृणातेः प्रीणातेर्वा' (निरु. १. २०) इति निरुक्तम् । वृत्रहत्ये भरहूतौ सजोषाः सजोषसः सहायभूता मरुतो देवा इन्द्रज्येष्ठा उक्तलक्षण इन्द्रश्चास्मानवन्त्विति ॥ ॥ ४३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,7 +131,7 @@ genre M
 May the showering mountain-like (or filling, gratifying) **Maruts**, the sons of **Rudra**,allies in the battle-challenge which brings **Vṛtra**'s destruction; or, may the gods who shower wealth upon us, theRudras, and those who have stated festivals (**parvataḥ**), who are unanimous in the battle-challenge for thedestruction of Vṛtra-- may these gods with Indra at their head protect us and him who recites or mutters thepraises, or having accusative ulated wealth, offers oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us are the Rudras [=Maruts] in their profusion and the mountains  of one accord at the Vr̥tra-smashing, where the call is “Carry  
 (the day)!”  
@@ -139,31 +139,31 @@ The steadfast one who has been established for the praiser and
 presser—with him, Indra, as their chief let the gods help us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have no idea what the mountains have to do with anything and why they and the Maruts should be in agreement. (Geldner takes sajóṣāḥ only with the mountains, but this doesn’t help.) Since there is in fact no overt ‘and’, it is possible that the Maruts are being referred to as mountains (“… the Rudras, ‘mountains’ in their profusion, are of one accord…”).
 
 The relativization in cd is somewhat shifty: the yáḥ should refer to Indra, who is the first member of the compound in the main clause índrajyeṣṭhāḥ ‘having Indra as chief’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With us are raining Rudras, clouds accordant in call to battle, at the death of Vrtra,  
        
 The strong assigned to him who sings and praises. May Gods with Indra at their head protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf unserer Seite sind die Rudra´s bereitwillig, die Berge einträchtig in der Schlacht, bei dem Kampfruf. Mit Indra an der Spitze, der dem Lieder Vortragenden, dem Lobsingenden sich als treu bewährt hat, sollen uns die Götter beistehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit uns mögen in reicher Menge vereint sein die Rudra's und die Berge in der Feindesschlacht beim Kampfgeschrei, und der [Indra], welcher, dem rufenden und preisenden sich kräftig erwies, und mit dem Indra an der Spitze mögen uns alle Götter hold sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С нами (находятся) Рудры в большом числе, горы,  
 Единодушные при убийстве Вритры, при шуме битвы.  

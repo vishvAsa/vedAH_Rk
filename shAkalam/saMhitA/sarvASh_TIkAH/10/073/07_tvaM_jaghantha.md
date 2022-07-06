@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ जघन्थ न꣡मुचिम् मखस्युं꣡  
 दा꣡सं कृण्वान꣡ ऋ꣡षये वि꣡मायम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पथो꣡ देवत्रा꣡ अ꣡ञ्जसेव या꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । च॒क॒र्थ॒ । मन॑वे । स्यो॒नान् । प॒थः । दे॒व॒ऽत्रा । अञ्ज॑साऽइव । याना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,7 +124,7 @@ genre M
 हे इन्द्र **त्वं** **नमुचिम्** एतत्संज्ञकमसुरं **जघन्थ** हतवानसि। कीदृशम् । **मखस्युम्** ऋषेर्यज्ञं विधातुमिच्छन्तं यद्वा त्वदीयं धनमिच्छन्तम्। किं कुर्वन् । **दासम्** उपक्षपयितारं नमुचिमसुरम् **ऋषये** मनवे **विमायं** विगतमायं **कृण्वानः** कुर्वन्। **किंच** त्वं **देवत्रा** देवेषु मध्ये **मनवे** ऋषये सामान्येन मनुष्याय वा **पथः** मार्गान् **स्योनान्** **चकर्थ** कृतवानसि । अथवा **देवत्रा** देवेषु मध्ये गन्तव्यान् मार्गानिति वा संबन्धः। स्योनांश्चकर्थेत्युक्तमेव विवृणोति । अञ्जसेव **यानान्** इति । इवेत्येवकारार्थे । अञ्जसैवाकुटिलेनैव यानान् गन्तॄन् मार्गानकरोः अथवा मार्गेणाकुटिलेनैव गन्तॄंश्चकर्थं । यथा लोकेस्रुघ्नं गतो मार्गः काञ्चीं गतो मार्ग इति मार्गस्य गन्तृत्वोपचारः तद्वदत्रापि यातृत्वं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ Endeavouring to disturb the sacrifice: or, desiring your wealth;
 Mkhasyu = desiring to fight
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You smote Namuci who sought combat, rendering the Dāsa without  wiles, for the seer.  
 You made the paths comfortable for Manu, as if they went straightaway  to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 War-loving Namuci thou smotest, robbing the Dasa of his magic for the Rsi.  
      For man thou madest ready pleasant pathways, paths leading as it were directly God-ward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast den Dasa Namuci erschlagen, der den Noblen spielen wollte, für den Rishi, ihn seiner Zauberkraft beraubend. Du machtest für Manu die Wege bequem, die gleichsam stracks zu den Göttern gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schlugst den kampflustigen Nanutschi, um des Sängers Willen dem Dämon seine Zaubermacht raubend, du machtest dem Menschen seine Pfade leicht zugänglich, auf denen man wie auf geschmierter Bahn zu den Göttern kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты убил воинственного Намучи,  
 Для риши лишая (этого) дасу колдовской силы.  

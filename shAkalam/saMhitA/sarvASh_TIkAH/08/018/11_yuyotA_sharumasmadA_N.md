@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युयो꣡ता श꣡रुम् अस्म꣡द् आँ꣡  
 आ꣡दित्यास उता꣡मतिम्  
 ऋ꣡धग् द्वे꣡षः कृणुत विश्ववेदसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋध॑क् । द्वेषः॑ । कृ॒णु॒त॒ । वि॒श्व॒ऽवे॒द॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuyotā* ← *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
@@ -94,36 +94,36 @@ genre M
 हे आदित्याः **शरुं** हिंसकम् **अस्मदा** अस्मत्तश्च **युयोत** पृथक्कुरुत । **उत** अपि च **अमतिं** दुर्बुद्धिं च पृथकुरुत । हे **विश्ववेदसः** सर्वधनाः सर्वज्ञा वा **द्वेषः** द्वेष्टॄञ्छत्रून् **ऋधक्** पृथक् **कृणुत** कुरुत । अस्मत्तो वियोजयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Keep afar from us, **Ādityas**, malignity, ill-will; do you who are all- wise keep afar those who hate us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Keep the arrow from us, Ādityas, and thoughtlessness.  
 Set hostility aside, o you possessed of all possessions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Remove from us the arrow, keep famine, Adityas! far away:  
      Keep enmities afar from us, Lords of all wealth!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Haltet, o Aditya´s, das göttliche Geschoß von uns fern und die Ratlosigkeit; beseitigt die Feindschaft, ihr Allwissende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O haltet fern von uns den Pfeil, Aditja's, fern die Dürftigkeit, Und schaffet weg der Feinde Hass, allwissende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отведите от нас выстрел,  
 О Адитьи, а также отсутствие мыслей!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धुने꣡तयः सुप्रकेत꣡म् म꣡दन्तो  
 बृ꣡हस्पते अभि꣡ ये꣡ नस् ततस्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्पते र꣡क्षताद् अस्य यो꣡निम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृष॑न्तम् । सृ॒प्रम् । अद॑ब्धम् । ऊ॒र्वम् । बृह॑स्पते । रक्ष॑तात् । अ॒स्य॒ । योनि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhunetayaḥ* ← *dhuneti*
 - \[noun\], nominative, plural, masculine
@@ -109,14 +109,14 @@ genre M
 हे **बृहस्पते** **धुनेतयः** । धुना शत्रूणां कम्पयित्रीतिर्गतिर्येषां ते । तादृशाः **सुप्रकेतं** शोभनप्रज्ञं त्वां **मदन्तः** मादयन्तः **नः** अस्मत्संबन्धिनः **ये** ऋत्विजः **अभि** **ततस्रे** आत्मानमुपक्षिपन्ति स्तुवन्ति वा **अस्य** एषां **योनिं** कारणं यज्ञं यजमानं वा मां रक्षतात् रक्ष । योनिर्विशेष्यते । **पृषन्तं** फलानि सिञ्चन्तं **सृप्रं** सर्पणस्वभावम् अदब्धम् अहिंसितम् **ऊर्वम्** उरुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bṛhaspati**, protect the fruit-yielding, progressive, uninjured ample sacrifice of this (your worshipp0er, at which) they who are the terrifiers (of foes), the delighters of you who are possessed of great wisdom, glorify (you) in our behalf.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those [=Aṅgirases] of noisy tread, exulting at the good sign,  
 o Br̥haspati, who for us have battered at  
@@ -125,7 +125,7 @@ O Br̥haspati, (after their action) guard its womb [=(the contents of)
 the Vala cave, the cows].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rel. clause of abc (by most interpr. -- c could also go with d) has no main clause correspondent in this vs. As most interpr. take it, the pl. yé seems rather to refer to the Ṛṣis in vs. 1 and continue that sentence, forming a transition to the explicit Vala myth.
 
@@ -145,28 +145,28 @@ As indicated in the published introduction, this section concerns the unitary fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wild in their course, in well-marked wise rejoicing were they, Brhaspati, who pressed around us.  
      Preserve Brhaspati, the stall uninjured, this company's raining, ever-moving birthplace.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Bṛhaspati, come from the farthest distance They, cherishing the rite, for thee are seated. For thee streams, pressed with stones, and flowing channels, Distil on all sides mead in great abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die dröhnenden Schrittes, o Brihaspati, jubelnd unter guten Vorzeichen für uns ausgezogen sind nach der eingeschlossenen Herde, der buntscheckigen, breiten, unbeschädigten - Brihaspati schütze künftig deren Heimstätte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die brausend gehn, den herrlichen berauschend, Brihaspati, die gänzlich uns entleerten Das unversehrte Fass, das strömt und sprudelt, – Brihaspati beschütze dessen Schooss uns –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что с гулкой поступью, радуясь счастливому предзнаменованию,  
 О Брихаспати, напали для нас  

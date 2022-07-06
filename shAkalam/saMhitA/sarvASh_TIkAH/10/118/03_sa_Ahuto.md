@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ आ꣡हुतो वि꣡ रोचते  
 अग्नि꣡र् ईळे꣡नियो गिरा꣡  
 स्रुचा꣡ प्र꣡तीकम् अज्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 स्रु॒चा । प्रती॑कम् । अ॒ज्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -84,36 +84,36 @@ genre M
 **आहुतः** आभिमुख्येन हुतः ॥ ' गतिरनन्तरः' इति गतेः प्रकृतिस्वरः ॥ **गिरा** स्तुतिलक्षणया वाचा **ईळेन्यः** स्तोतव्यः **सः** **अग्निः** **वि** **रोचते** अत्यर्थं दीप्यते । तथा **प्रतीकं** सर्वेषां देवानां पूर्वमेव **स्रुचा** घृतसहितया **अज्यते** सिच्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who is to be glorified with the voice (of praise), blazes up when invoked, he is sprinkled with theladle before (the other gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When bepoured, he shines widely. Agni is to be reverently invoked with  a hymn;  
 his face is anointed with the ladle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Honoured with gifts he shines afar, Agni adorable with song:  
      The dripping ladle balms his face.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Schmalz begossen erstrahlt Agni, mit Lobreden anzurufen. Mit dem Löffel wird sein Angesicht gesalbt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Begossen leuchtet Agni auf, der mit Gesang zu preisen ist, Der Löffel salbt sein Angesicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Политый (жиром), ярко светит  
 Агни, которого надо призвать хвалебной песней.  

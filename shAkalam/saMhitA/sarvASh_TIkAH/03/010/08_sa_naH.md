@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पवाक+ दीदिहि  
 द्युम꣡द् अस्मे꣡ सुवी꣡रियम्  
 भ꣡वा स्तोतृ꣡भ्यो अ꣡न्तमः सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 भव॑ । स्तो॒तृऽभ्यः॑ । अन्त॑मः । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -97,41 +97,41 @@ genre M;; line affected by realignment
 नः पावकास्मत्सम्बन्धिनः पापस्य शोधक हे अग्ने स पूर्वमन्त्रे प्रतिपादितस्त्वं द्युमत्कान्तियुक्तं सुवीर्यं शोभनसामर्थ्योपेतं दानभोगार्हं धनमस्मे अस्मभ्यं दीदिहि । यद्वा द्युमत्तेजोयुक्तं सुवीर्यं शोभनवीर्योपेतं च यथा भवति तथास्मे अस्मदर्थं त्व दीदिहि । दीप्यस्व । किञ्च स्तोतृभ्यः । षष्ठ्यर्थे चतुर्थी । त्वद्विषयस्तुतिकारिणां होत्रादीनां स्वस्तयेऽविनाशनाय क्षेमायान्तमोऽन्तिकतमस्तेषामतिशयेन समीपवर्ती भव । पावक पूञ् पवने । अस्माद्धातोर्ण्वुच् । णित्त्वाद्वृद्धिः । वोरकादेशः । आमन्त्रितत्वादाष्टमिकमनुदात्तत्वम् । दीदिहि । दिवु क्रीडादौ । अस्माद्यङ् । तुजादीनामित्यभ्यासस्य दीर्घत्वम् । सञ्ज्ञापूर्वको विधिरनित्य इत्यभ्यासस्य गुणाभावः । बहुलं छन्दसीति यजो लुक् । लोटि सिप् । चर्करीतं परस्मै पदमदादिवच्चेति वचनाच्छवो लुक् । सिपो हिरादेशः । लोपो व्योर्वलीति वलोपः । हेरपित्त्वादगुणः । निघातः । द्युमत् । दिव उदित्युकारः । ह्रस्वनुड्भ्यामिति मतुप उदात्तत्वम् । सुवीर्यम् । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वम् । अन्तमः । अन्तोऽस्यास्तीत्यन्तिकः । अत इनिठनाविति ठन् । अतिशयेनान्तिक इत्यतिशायने तमबिति तमप् । तमे तादेश्चेति तादिलोपः । नित्त्वादाद्युदात्तः । स्वस्तये । प्रातिपदिकस्वरः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, our purifier, light up for us a brilliant progeny; be ever nigh to those who praise you for their well-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pure one, shine upon us a brilliant abundance of heroes.  
 Be very near to the praise singers for their well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Purifier, shine on us heroic glorious might:  
      Be nearest Friend to those who laud thee, for their weal.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus, O purifier, shine on us glorious abundance in heroes. Be the nearest (friend) to those who praise thee, for their welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leuchte, du Klarer, uns glänzende Meisterschaft zu! Sei der Vertraute der Sänger zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns strahle zu, o Flammender, die glanzbegabte Heldenkraft; Den Sängern sei recht nah' vertraut – zum Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О очищающий, воссвети нам  
 Богатство из прекрасных мужей, блистательное для нас!  

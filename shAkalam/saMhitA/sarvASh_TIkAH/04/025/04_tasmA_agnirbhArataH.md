@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मा अग्नि꣡र् भा꣡रतः श꣡र्म यंसज्  
 जियो꣡क् पश्यात् सू꣡रियम् उच्च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡रे न꣡र्याय नृ꣡तमाय नॄणा꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । इन्द्रा॑य । सु॒नवा॑म । इति॑ । आह॑ । नरे॑ । नर्या॑य । नृऽत॑माय । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **भारतः** हविषो भर्ताग्निः । ' प्राणो भूत्वा प्रजा धारयन् भारतः' इति वाजसनेयकम् । **अग्निः** **तस्मै** यजमानाय **शर्म** सुखं **यंसत्** यच्छेत् । किंचायमग्निः **ज्योक्** चिरकालम् **उच्चरन्तम्** उद्यन्तं **सूर्यं** **पश्यात्** पश्येत् । **यः** यजमानः **इन्द्राय** **सुनवामेत्याह** इन्द्रार्थं सोमाभिषवं कुर्यामिति ब्रवीति । कीदृशायेन्द्राय । **नरे** नेत्रे **नर्याय** नरहिताय **नृणां** नराणां नेतॄणां मध्ये **नृतमाय** नेतृतमाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 And long behold the rising sun: i.e., may the sacred fire long be hindled in the house of the sacrificer at the hour of sunrise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For him will Agni, the fire of the Bhāratas, hold out shelter, and for a  long time he will see the sun rising,  
 who says, “Let us press soma for Indra”—for the manly man, for the  best man of men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him shall Agni Bharata give shelter: long shall he look upon the Sun up-rising,  
      Who sayeth, Let us press the juice for Indra, man's Friend, the Hero manliest of heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm möge Agni, der Bharatide, Schutz verleihen, noch lange soll die Sonne aufgehen sehen, wer sagt: Wir wollen für Indra Soma auspressen, für den mannhaften, männlichsten Mann der Männer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den möge Agni Bharata beschützen, und lange schaue der der Sonne Aufgang, Der sagt: »dem Indra lasst uns Soma brauen, dem starken Mann, dem männlichsten der Männer.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, потомок Бхараты, пусть дарует защиту тому, -  
 Пусть тот долгое время видит, как восходит солнце, -  

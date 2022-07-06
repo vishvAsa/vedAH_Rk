@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡केभिः स꣡त्वभिः शूर शू꣡रैर्  
 वीर्या᳡ कृधि या꣡नि ते क꣡र्तुवानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हत्वी꣡ ते꣡षाम् आ꣡ भरा नो व꣡सूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज्योक् । अ॒भू॒व॒न् । अनु॑ऽधूपितासः । ह॒त्वी । तेषा॑म् । आ । भ॒र॒ । नः॒ । वसू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākebhiḥ* ← *asmāka*
 - \[noun\], instrumental, plural, masculine
@@ -138,42 +138,42 @@ genre M
 हेशूर शौर्यवन्निन्द्र अस्माकेभिरास्माकीनैः सत्वभिः परेषांसादकैः शूरैः शौर्योपेतैर्भटैः तानिवीर्या वीर्याणि वीरकर्माणिकृधिकुरु यानितेत्वयाकर्त्वानिकरणीयानि कृत्यार्थेतवैकेनि- तिकरोतेस्त्वन् प्रत्ययः ज्योक् चिरकालंअनुधूपितासः धूपायमानाहृदयामदीयाः शत्रवोभूव- न्नासन् हत्वीतान् हत्वा स्नात्व्यादयश्चेतीकारः तेषांशत्रूणां वसूनिधनानिनोस्मभ्यंआभर आहर ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Achieve, hero, along with our valiant heroes, the exploits that are to be achieved by you; long have (our enemies) been inflated (with pride); slay them, and bring to us their treasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our warriors, our champions, o champion, do the manly deeds  that are yours to be done.  
 For a long time they have been “besmoked” [=befuddled]. Having  
 smashed them, bring their goods to us here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The literal meaning of ánudhūpita- is fairly clear, ‘besmoked’, but there is disagreement about its sense. Grassmann suggests that it means ‘puffed up, arrogant’, while Geldner (/Witzel Gotō) think it refers to besieging enemy strongholds with fire and smoke. (If this were the case, one would think “a long time” was the wrong qualifier: smoke and fire should do the trick fairly quickly or not at all, I would think.) I am more in favor of Renou’s equivalence with mohita- ‘bewildered’, a negative mental state. In my view, ‘besmoked’ means either that their minds have been darkened and led astray to evil ways or that they have become confused / befuddled by our constant threats and attacks and it is time for us to administer the coup de grâce.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Perform, O Hero, with our valiant heroes the deeds heroic which thou hast to finish.  
      Long have they been inflated with presumption: slay them, and bring us hither their possessions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit unseren tapferen Soldaten, du Tapferer, vollbring die Heldentaten, die du zu tun vorhast ! Schon lange sind sie ausgeräuchert worden. Erschlag sie und bring uns ihre Schätze!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch unsre tapfere Helden, o du tapfrer, vollbring' die kühnen Thaten, die du thun willst; Zu lange waren jene aufgeblasen, erschlage sie und bring' uns ihre Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С нашими храбрыми воинами, о храбрец,  
 Соверши героические деяния, которые ты должен совершить!  

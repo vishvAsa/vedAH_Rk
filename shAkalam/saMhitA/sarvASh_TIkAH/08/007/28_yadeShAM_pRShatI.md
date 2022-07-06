@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् एषाम् पृ꣡षती र꣡थे  
 प्र꣡ष्टिर् व꣡हति रो꣡हितः  
 या꣡न्ति शुभ्रा꣡ रिण꣡न्न् अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यान्ति॑ । शु॒भ्राः । रि॒णन् । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषां** मरुतां **रथे** **पृषतीः** पृषद्भिः श्वेतबिन्दुभिर्युक्ता मृग्यः **यत्** यदा वहन्ति यदा च **प्रष्टिः** प्राशुः शीघ्रगामी । यद्वा । प्रमुखे युज्यमानः सन् । **रोहितः** पृषतः पृषद्भिर्युक्तो मृगः **वहति** तदानीं **शुभ्राः** शोभमाना मरुतः **यान्ति** गच्छन्ति । तेषां गमने च सति **अपः** उदकानि वृष्टिलक्षणानि **रिणन्** अरिणन् अगच्छन् । सर्वत्र प्रवहन्ति ॥  ‘ री गतिरेषणयोः । क्रैयादिकः । प्वादीनां ह्रस्वः'। छान्दसोऽडभावः। समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः' (पा. सू. ८. १. १८. ५) इति वचनादत्र पूर्वपदस्य वाक्यान्तरगतत्वात्  तिङ्ङतिङः ' इति निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Riṇan = as they flow in every direction, **sarvatra** pravahanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the chestnut side-horse guides the dappled (mares yoked) to their  chariot,  
 the resplendent ones drive; they let flow the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 práṣṭi- ‘side-horse’ is a rare word in the RV, occurring two other times in addition to a single instance of the deriv. práṣṭimant-. As often, the occurrence of a rare word can be attributed to phonological triggers; here prṣ̥́ atī ráthe / práṣṭir ...
 
@@ -109,28 +109,28 @@ róhitaḥ (with a nice scrambling of th à h...t in ráthe … róhitaḥ). Our
 Oldenberg suggests that riṇán(n) is a nom. sg. participle, modifying the subjects of yā́nti with incongruence of number. This seems unnecessary, since it can easily be a 3rd pl. injunctive, requiring no such grammatical adjustment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the red leader draws along their spotted deer yoked to the car.  
      The Bright Ones come, and shed the rain.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When the red leader in their car The spotted deer directs, the bright Gods go: may they the waters free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn an ihrem Wagen die Schecken und der Rotfuchs als Beipferd ziehen, so fahren die Schmucken aus und lassen die Wasser laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn nun ihr rothes Seitenpferd am Wagen beide Hirsche lenkt, So fahren hell sie, Wasser rinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда у них пестрые (антилопы запряжены) в колесницу,  
 (И) рыжая везет как пристяжная,  

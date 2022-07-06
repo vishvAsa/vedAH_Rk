@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प क्षत्र꣡म् पृञ्चीत꣡ ह꣡न्ति रा꣡जभिर्  
 भये꣡ चित् सुक्षितिं꣡ दधे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 न꣡ अ꣡र्भे अस्ति वज्रि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 न । अ॒स्य॒ । व॒र्ता । न । त॒रु॒ता । म॒हा॒ऽध॒ने । न । अर्भे॑ । अ॒स्ति॒ । व॒ज्रिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 ब्रह्मणस्पतिर्देवः **क्षत्रं** बलम् **उप** **पृञ्चीत** स्वात्मनि संपृक्तं कुर्यात् । ततः **राजभिः** वरुणादिभिः सह **हन्ति** शत्रून् मारयति । **भये** **चित्** भीतिहेतौ युद्धेऽपि **सुक्षितिं** **दधे** सुष्ठु निवासस्थैर्यं धारयति न तु पलायते । **वज्रिणः** वज्राद्यायुधवतः **अस्य** ब्रह्मणस्पतेः **महाधने** प्रभूतधननिमित्ते युद्धे **वर्ता** प्रवर्तयिता अन्यः कोऽपि **न** **अस्ति** स्वयमेव प्रवर्तते इत्यर्थः । महाधने इति संग्रामनाम, ‘महाधने समीके' (नि.२. १७. ४१ ) इति तन्नामसु पाठात् । तथा **तरुता** तरणस्योल्लङ्घनस्य कर्ता अन्यः कोऽपि **न** अस्ति । तथैव **अर्भे** स्वल्पे युद्धेऽप्यन्यः प्रवर्तयिता **न** अस्ति । पृञ्चीत।' पृची संपर्के'। लिङि रुधादित्वात् श्नम् । श्नसोरल्लोपः' इति अकारलोपः। प्रत्ययस्वरः । क्षत्रं पृञ्चीत राजभिर्हन्ति चेति समुच्चयलक्षणस्य चार्थस्य दर्शनात् ‘चादिलोपे विभाषा ' इति प्रथमायास्तिङ्विभक्तेर्निघातप्रतिषेधः । हन्तीत्येषा द्वितीयापि तिङः परत्वात् न निहन्यते । सुक्षितिम् । शोभना क्षितिः सुक्षितिः ।  ‘ मन्क्तिन' इत्यादिना उत्तरपदान्तोदात्तत्वम् । वर्ता । वर्ततेर्वृणोतेर्वा तृचि आगमानुशासनस्यानित्यत्वात् इडभावः । तरुता ।  ‘ तॄ प्वनतरणयोः ।  ‘ ग्रसितस्कभित°! (पा. सू. ७.२.३४ ) इत्यादिना तृचि उडागमो निपातितः। 'चितः' इत्यन्तोदात्तत्वम् । महाधने। महच्च तद्धनं च महाधनम्। 'आन्महतः' ( पा. सू. ६. ३. ४६ ) इति आत्वम् । तेन शब्देन तद्धेतुभूतः संग्रामो लक्ष्यते । अर्भे ।  ‘ ऋ  गतौ ' । अर्तिगॄभ्यां भन्' ( उ. सू. ३. ४३२ ) इति भन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,33 +145,33 @@ genre M
 The thunderbolt identifies **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He should inseminate his dominion. Together with the kings [=Ādityas],  he smites: even in peril he has established a good dwelling for himself. There exists no one to obstruct, no one to overcome the one who wields  the mace, be the stake great or small.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. (including Schmidt) render pṛñcītá with the anodyne ‘increase’, but úpa √pṛc is a sexual idiom (‘inseminate’ ← ‘engorge’; see, e.g., VI.28.8). The accent on this verb probably results from its adjacency to accented hánti (on which see, HO and JSK - reff.). Note the gapping out of compound in the contrastive phrase mahādhané … árbhe “when there is a large stake or a small,” where the independent loc. árbhe is functionally parallel to the 1st compound member mahā-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He amplifies his lordly might, with kings he slays: e'en mid alarms he dwells secure  
      In great or lesser fight none checks him, none subdues,--the wielder of the thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er möge seine Herrschaft mehren; er schlägt den Feind mit den Königen; auch in der Gefahr schafft er sich sichern Wohnsitz. Für ihn, der der Keulenträger Indra ist, gibt es im großen und kleinen Kampf keinen Wehrer noch Überwinder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er mehrt die Herrschaft, schlägt durch Fürsten jeden Feind, hat sichern Sitz auch in Gefahr; Ist er bewehrt, schlägt keiner ihn noch wehrt ihn ab, in grosser nicht und kleiner Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть он умножает (свое) владычество! С помощью царей он разбивает (врага).  
 Даже среди опасности он устраивает себе надежное место,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो रुद्र꣡स्य सून꣡वो नमन्ताम्  
 अद्या꣡ हूता꣡सो व꣡सवो अ꣡धृष्टाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बाधे꣡ मरु꣡तो अ꣡हुवाम देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । अर्भे॑ । म॒ह॒ति । वा॒ । हि॒तासः॑ । बा॒धे । म॒रुतः॑ । अह्वा॑म । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,37 +120,37 @@ genre M
 **रुद्रस्य** **सूनवः** पुत्रा मरुतः **अद्य** अस्मिन् काले **हूतासः** आहूताः सन्तः **नः** अस्मान् प्रति **आ** **नमन्ताम्** आनता भवन्तु । आगच्छन्तु । कीदृशाः । **वसवः** वासयितारः **अधृष्टाः** अन्यैरहिंसिताः। **यत्** यदा **ईम्** एनान् **मरुतः** **देवान्** **अर्भे** अल्पे **महति** प्रभूते **वा** **बाधे** संग्रामे **हितासः** निहिताः स्थिताः सन्तो वयम् **अह्वाम** आह्वयाम तदानीमद्येत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the sons of **Rudra**, givers of dwellings, the unsubdued, invoked on this occasion, stoop down to us, inasmuch as we call upon the divine **Maruts** that they may be our helpers in difficulty, great or small.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sons of Rudra incline themselves to us here, the unassailable  good ones invoked today,  
 since we, placed in petty or in great distress, have called upon the  
 Maruts, the gods—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day invited may the Sons of Rudra, resistless, excellent, stoop down to meet us;  
      For, when beset with slight or sore affliction, we ever call upon the Gods, the Maruts;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Söhne des Rudra sollen sich uns zuneigen, die unbezwinglichen Vasu´s heute gerufen, wenn wir in kleine oder große Bedrängnis gebracht, die Götter Marut angerufen haben;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Rudra Söhne mögen uns geneigt sein, die heut gerufnen, guten, unbesiegten, Die Maruts, die als Götter stets wir riefen, umringt von leichtem oder schwerem Drangsal.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть склонятся перед нами сыновья Рудры,  
 Призванные сегодня Васу неодолимые,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जु꣡ष्टो द꣡मूना अ꣡तिथिर् दुरोण꣡  
 इमं꣡ नो यज्ञ꣡म् उ꣡प याहि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शत्रूयता꣡म् आ꣡ भरा भो꣡जनानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । अ॒ग्ने॒ । अ॒भि॒ऽयुजः॑ । वि॒ऽहत्य॑ । श॒त्रु॒ऽय॒ताम् । आ । भ॒र॒ । भोज॑नानि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣṭo* ← *juṣṭaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
@@ -119,7 +119,7 @@ genre M
 **जुष्टः** पर्याप्तः **दमूनाः** दानमना दान्तमन वा **अतिथिः** तद्वत् **दुरोणे** गृहे पूज्यः सन् **इमं** **नः** अस्मदीयं **यज्ञम्** **उप** **याहि** उपागच्छ । **विद्वान्** जानन् हे **अग्ने** **विश्वाः** **अभियुजः** सर्वानभियोक्तॄन् **विहत्य** **शत्रूयतां** तेषां **भोजनानि** अन्नानि धनानि **आ** **भर** आहर । ‘ अतिथिरभ्यतितो गृहान्भवति' (निरु. ४. ५) इत्यादिनिरुक्तं द्रष्टव्यम् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre M
 Guest: atithirabhyatito gṛhān **bhavati** (**Nirukta** 4.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the pleasing lord of the house and the guest in the home, journey to  this our sacrifice since you are the knowing one.  
 Having smashed to pieces all attacks, o Agni, bring here the sustenance  of those challenging us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As dear House-Friend, guest welcome in the dwelling, to this our sacrifice come thou who knowest.  
      And, Agni, having scattered all assailants, bring to us the possessions of our foemen.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Welcome, as our household-god and the guest in our dwelling, come to this our sacrifice as the knowing one. Dispelling, O Agni, all (hostile) attempts, bring to us the possessions of those who are at enmity with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gern gesehen als Hausherr, als Gast im Hause komm her zu diesem Opfer von uns als Kenner! Alle Angriffe zerschlagend bringe den Wohlstand der Feindseligen her, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als lieber Hausfreund und als Gast im Hause komm kundig her zu diesem unsern Opfer, Vertilgend alle Gegner bring, o Agni, zu uns herbei der feindgesinnten Nahrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Насладившись как домашний (бог), гость в доме,  
 Приди на эту нашу жертву как знаток!  

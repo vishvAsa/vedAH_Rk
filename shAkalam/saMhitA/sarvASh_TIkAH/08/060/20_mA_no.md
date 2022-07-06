@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो र꣡क्ष आ꣡ वेशीद् आघृणीवसो  
 मा꣡ यातु꣡र् यातुमा꣡वताम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡ग्ने से꣡ध रक्षस्वि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प॒रः॒ऽग॒व्यू॒ति । अनि॑राम् । अप॑ । क्षुध॑म् । अग्ने॑ । सेध॑ । र॒क्ष॒स्विनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M
 हे **आघृणीवसो** दीप्तधनाग्ने **नः** अस्मान् **रक्षः** राक्षसादिः । ‘ रक्षो रक्षितव्यमस्मात् ' (निरु. ४. १८) इति यास्कः । **मा** **आ** **वेशीत्** सर्वतो न प्रविशतु । तथा **यातुमावताम्** । यातुर्यातना पीडा । तद्वतां यातुधानानां **यातुः** पीडा **मा** वेशीत् । हे **अग्ने** **अनिराम्** । इरान्नम् । अन्नाभावं दारिद्र्यं **क्षुधं** क्षपयितारं **रक्षस्विनः** बलवन्ति रक्षांसि च **परोगव्यूति** क्रोशद्वयाद्देशात् परस्तात् । एतदुपलक्षणम् । अत्यन्तं दूरदेशे **अप** **सेध** परिहर । अनिरा क्षुत् बाह्यानि रक्षांसि च न पीडयन्त्विति ॥ ॥ ३५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,7 +118,7 @@ Gavyūti: this is a measure = twokrośas; it implies an unlimited distance;
 Hunger: kṣudham = ksapayitāram, the destroyer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let demonic power not enter into us, nor the sorcery of those who  deploy sorcery, o you who have the goods of the glowing one  
 [=Pūṣan].  
@@ -126,28 +126,28 @@ Keep thirst and hunger away, far beyond the pasture-lands; o Agni,
 keep away those who deploy demonic power.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. āghṛṇīvaso is taken lit. by Geldner and Renou (‘Glutreicher’ and ‘riche en ardeur-de-feu’ respectively). But ā́ghr̥ṇi- is an epithet exclusively of Pūṣan, and it is highly unlikely that it would be used only here, in this awkward compound, without that reference. So it must mean ‘who has the goods of Pūṣan’ -- presumably the cows and other domestic stuff that are appropriate to this last pragātha.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let no fiend come among us, O thou rich in light, no spell of those who deal in spells.  
      To distant pastures drive faint hunger: far away, O Agni, chase the demons' friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll ein böser Geist in mich fahren, du Glutreicher, nicht der Zauber der Zauberer. Halte über eine Gavyuti weit ab die Dürre, den Hunger, die tückischen Menschen, Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht dringe Unheil zu uns ein, o glühender, noch Zauberei der Zauberer; Entkräftung, Hunger treibe fort aus unsrer Flur, o, Agni, und der Feinde Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не проникнет в нас ни вред от ракшаса, о (ты,) полный жара,  
 На колдовство колдующих!  

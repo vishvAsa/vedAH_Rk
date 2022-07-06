@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न र्तं꣡ धरु꣡णं धारयन्त  
 यज्ञ꣡स्य शाके꣡ परमे꣡ वि꣡ओमन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जातइ꣡र् अ꣡जाताँ अभि꣡ ये꣡ ननक्षुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । धर्म॑न् । ध॒रुणे॑ । से॒दुषः॑ । नॄन् । जा॒तैः । अजा॑तान् । अ॒भि । ये । न॒न॒क्षुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -125,7 +125,7 @@ genre M
 **ये** यजमानाः ”दिवः द्युलोकस्य **धरुणे** धारके **धर्मन्** यज्ञे **सेदुषः** आसीनान् **नॄन्** नेतॄन् **अजातान** देवान **जातैः** मनुष्यैर्ऋत्विग्भि **अभि** **ननक्षुः** अभिप्राप्नुवन्ति ते यजमानाः **यज्ञस्य** **धरुणं** धारकम् **ऋतं** सत्यरूपमग्निं **शाके** कर्मणि निमित्ते **परमे** उत्कृष्टे **व्योमन्** स्थाने उत्तरवेद्याम् **ऋतेन** स्तोत्रेण **धारयन्त** धारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M
 They are detaining by sacrifice: ṛtena ṛtam dharuṇam dhārayantaḥ, they, the **yajamānas**, hold or detain ṛtam dharuṇam yajñasya dhārakam satyam the true holder of sacrifice, that is, **Agni**, by the ceremony, parame vyomani utkṛṣṭe sthāne, in the best plural ce, that is, the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By truth they [=the priests] support truth, the support, on the powerful  (support) of the sacrifice in the highest heaven,  
 and (support) the superior men [=the gods], who have sat down on the  support at the foundation of heaven—they who have attained the ones  unborn by those born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By holy Law they kept supporting Order, by help of sacrifice, in loftiest heaven,-  
      They who attained with born men to the unborn, men seated on that stay, heaven's firm sustainer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By Rita they have supported the supporting Rita, near the powerful (performer) 1 of sacrifice, in highest heaven, the men who sit 2 on the supporting support of the sky, and who with born (men) attained to the unborn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Wahrheit gründeten sie die Wahrheit als Grundlage auf die Macht des Opfers im höchsten Himmel, die mit den geborenen Söhnen zu den ungeborenen in der Ordnung des Himmels auf festem Grunde sitzenden Herrn gelangt sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Heil'ges stützen sie den heil'gen Stützer im Werk des Opfers in dem höchsten Himmel, Gehn durch Geborne zu den Ungebornen, die an des Himmels fester Stütze sitzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью закона закон основали они как основу (мироздания),  
 Чтобы помочь жертве на высшем небосводе,  

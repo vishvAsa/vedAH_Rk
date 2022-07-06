@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡द् धि꣡ पुत्र सहसो वि꣡ पूर्वी꣡र्  
 देव꣡स्य य꣡न्ति ऊत꣡यो वि꣡ वा꣡जाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अद्रोघे꣡ण व꣡चसा सत्य꣡म् अग्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । दे॒हि॒ । स॒ह॒स्रिण॑म् । र॒यिम् । नः॒ । अ॒द्रो॒घेण॑ । वच॑सा । स॒त्यम् । अ॒ग्ने॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaddhi* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
@@ -127,41 +127,41 @@ genre M
 **सहसः** **पुत्र** बलस्य पुत्र हे **अग्ने** **देवस्य** देवनशीलस्य कर्मकरणप्रवृत्तस्य यजमानस्य **त्वत्** त्वत्तः सकाशात् **पूर्वीः** प्रभूताः **ऊतयः** विघ्नपरिहारेण कर्मपरिपालनादिरूपाः रक्षाः **वि** **यन्ति** **हि** विविधं गच्छन्ति खलु। तमिमं यजमानं प्राप्नुवन्ति । तथा **वाजाः** अन्नानि **वि** यन्ति । एनं यजमानं प्राप्नुवन्ति । किंच हे अग्ने **त्वं** **सहस्रिणं** सहस्रसंख्याकं **रयिं** धनं **नः** अस्मभ्यं **देहि** । तथा **अद्रोघेण** द्रोहरहितेन पापशून्येन **वचसा** वाक्येन युक्तं **सत्यं** सत्यशीलं सन्मार्गे प्रवर्तमानं पुत्रं च देहि प्रयच्छ” ॥ त्वत् । युमच्छब्दस्य पञ्चम्येकवचने त्वादेशः । ङसेः ‘एकवचनस्य च (पा, सू. ७. १. ३२) इत्यदादेशः । एकादेशस्वरः । पुत्र सहसः । ‘ परमपि छन्दसि ' इति पराङ्गवद्भावात् द्वयोः सर्वानुदात्तत्वम् । देहि । डुदाञ् दाने ' इत्यस्य लोटि ध्वसोरेद्धौ°' इति धातोरेत्वम् अभ्यासलोपश्च । निघातः । अद्रोघेण । 'द्रुह जिघांसायाम् । घञ् । द्रोघः । घकारश्छान्दसः । ‘ नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From you, verily, son of strength, many and various benefactions and various kinds of food devolve upon the devout (worshipper) do you grant us, **Agni**, infinite wealth, and (a son) observant of truth, with speech devoid of guile.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since from you, son of strength, a god’s many forms of help go outward,  and outward (also go) the prizes of victory,  
 give us real wealth consisting of thousands through your undeceiving  speech, Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Son of Strength, from thee come many succours, and powers abundant that a God possesses.  
      Agni, to us with speech that hath no falsehood grant riches, real, to be told in thousands.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 From thee indeed, O son of strength, proceed manifold divine blessings and gains 1. Give us thousandfold true wealth according to thy guileless word, O Agni!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn von dir, du Sohn der Kraft, gehen die vielen Gnaden des Gottes aus, die Belohnungen. Gib uns tausendfältigen Reichtum, wirklichen mit aufrichtigem Worte, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn von dir gehn, o Sohn der Stärke, viele Genüsse aus und viele Gotteshülfen; Verleihe du uns tausendfachen Reichthum, und Wahrheit, Agni, nebst wahrhafter Rede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это от тебя, о сын силы, исходят  
 Многочисленные поддержки бога, ис (ходят) награды.  

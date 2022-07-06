@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः क꣡ण्वम् मे꣡धातिथिं  
 या꣡भिर् व꣡शं द꣡शव्रजम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡भिर् नो अवतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 याभिः॑ । गोऽश॑र्यम् । आव॑तम् । ताभिः॑ । नः॒ । अ॒व॒त॒म् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -94,7 +94,7 @@ genre M
 हे अश्विनौ **याभिः** ऊतिभिः **कण्वम्** ऋषिं **मेधातिथिं** च **आवतम्** अरक्षतम् । **याभिः** च **वशम्** एतत्संज्ञं चावतम् । **याभिः** च गोशर्यम् । शीर्णा गौर्यस्य स गोशर्यः शयुः । तथा चाम्नातं-- शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम्' (ऋ. सं. १. ११६. २२) इति । ईदृशं गोशर्यं शयुमावतमरक्षतम् । हे **नरा** नेतारौ **ताभिः** ऊतिभिः **नः** अस्मान् **अवतं** रक्षतम् ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,30 +105,30 @@ genre M
 Gośarya: or, **śayu**, whose barrencow the **Aśvins** enabled to give milk; cf. RV. 1.116.22
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With (those forms of help) with which you helped Kaṇva and  
 Medhātithi, with which Vaśa Daśavraja,  
 with which Gośarya, with those help us, o men;
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aid us, O Heroes, for those hymns for which ye helped GoSarya erst,  
      Gave Vasa, Dasavraja aid, and Kanva and Medhatithi:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Hilfen, mit denen ihr dem Kanva, dem Medhatithi, mit denen ihr dem Vasa Dasaraja, mit denen ihr dem Gosarya beistandet, mit diesen stehet uns bei, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie dem Kanva, Medhatithi, dem Vaça, dem Daçavradscha, Goçarja Hülfe ihr erwiest, so helfet auch, o Männer, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те поддержки,) которыми Канве Медхатитхи,  
 Которыми Ваше Дашаврадже,  

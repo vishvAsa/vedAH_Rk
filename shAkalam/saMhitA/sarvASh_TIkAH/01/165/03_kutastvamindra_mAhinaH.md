@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡तस् तुव꣡म् इन्दर+ मा꣡हिनः स꣡न्न्  
 ए꣡को यासि सत्पते किं꣡ त इत्था꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वोचे꣡स् त꣡न् नो हरिवो य꣡त् ते अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सम् । पृ॒च्छ॒से॒ । स॒म्ऽअ॒रा॒णः । शु॒भा॒नैः । वो॒चेः । तत् । नः॒ । ह॒रि॒ऽवः॒ । यत् । ते॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kutas*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 हे **इन्द्र** **सत्पते** सतां पालक **त्वं** **माहिनः** महनीयः पूजनीयः अनुचरैरनुगन्तव्य इत्यर्थः । तथाभूतः **सन्** अपि **एकः** असहायः सन् **कुतः** **यासि** कुतः कारणाद्यासि । यद्वा । कुत्र यासि । **ते** तव **इत्था** इत्थं **किम्** । किं त्वमेवमेव किं न कोऽप्यनुचरोऽस्ति । किंच त्वं **समराणः** अस्माभिः संगच्छमानः **सं** **पृच्छसे** समीचीनं पृच्छसि । हे **हरिवः** हरिभ्यां तद्वन्निन्द्र **ते** तव **अस्मे** अस्मासु **यत्** वक्तुमिष्टतममस्ति **तत्** **नः** अस्मभ्यं **शुभानैः** शोभमानैर्वचनैः **वोचेः** ब्रूहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 You require what is right: sampṛcchase = samīcīnam pṛccase
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Leader of the Maruts:] Why do you travel alone, Indra, although you  are great, o lord of the settlements? Is this proper for you?  
 Confronting us, are you going to negotiate with us beautiful ones? You  should tell us what you have for us, o master of the fallow bays.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whence comest thou alone, thou who art mighty, Indra, Lord of the Brave? What is thy purpose?  
      Thou greetest us when meeting us the Bright Ones. Lord of Bay Steeds, say what thou hast against us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Woher kommst du, Indra, allein, der du doch ein Mächtiger bist, du rechtmäßiger Herr? Was hast du dabei für Absicht? Du willst mit uns paktieren, da du mit den Geputzten zusammengetroffen bist. Sag du uns das, o Falbenlenker, was du für uns hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Warum, o Indra, sonst dich gross erweisend, fährst du allein, o Herr, was liegt im Sinn dir? Wenn du uns prächt'ge triffst, so plauderst gern du? so sprich, was hast du wider uns, o Rossherr?«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Откуда ты, Индра? Хоть ты и могучий,  
 А идешь один, о господин сущего. Что ж это у тебя так?  

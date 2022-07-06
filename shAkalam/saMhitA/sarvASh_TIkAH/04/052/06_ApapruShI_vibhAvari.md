@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आपप्रु꣡षी विभावरि  
 वि꣡ आवर् ज्यो꣡तिषा त꣡मः  
 उ꣡षो अ꣡नु स्वधा꣡म् अव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 उषः॑ । अनु॑ । स्व॒धाम् । अ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpapruṣī* ← *āprā* ← *√prā*
 - \[verb noun\], nominative, singular
@@ -82,41 +82,41 @@ genre M
 हे **विभावरि** विभावति **उषः** त्वम् **आपप्रुषी** आपूरयन्ती तेजसा जगत् **ज्योतिषा** तेजसा **तमः** अन्धकारं **व्यावः** व्यावृणोः । किंच **अनु** पश्चात् **स्वधां** हविर्लक्षणमन्नम् **अव** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant Uṣas, filling (the world with light), you disperse the darkness with radiance; thereafter protect the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having filled it up, wide-radiant one, you have uncovered the darkness  with your light.  
 O Dawn, help (us) according to your independent power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The participles niveśáyan prasuván are reprised here as agentives prasavitā́ nivéśanaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast filled it, Fulgent One! thou layest bare the gloom with light.  
      After thy nature aid us, Dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem du sie anfüllst, du Strahlende, hast du durch dein Licht das Dunkel aufgedeckt. Usas, sei nach eigenem Ermessen gnädig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfüllend ihn erschlossest du durch Licht die Nacht, o strahlende; Nun folg, o Uschas, deinem Brauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заполняя (его), о ярко сверкающая,  
 Светом ты раскрыла мрак.  

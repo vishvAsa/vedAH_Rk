@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो हिंसीज् जनिता꣡ यः꣡ पृथिव्या꣡  
 यो꣡ वा दि꣡वं सत्य꣡धर्मा जजा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यः । च॒ । अ॒पः । च॒न्द्राः । बृ॒ह॒तीः । ज॒जान॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -135,7 +135,7 @@ popular;; repeated line
 स प्रजापतिः **नः** अस्मान् **मा** **हिंसीत्** मा बाधताम् । **यः** **पृथिव्याः** भूमेः **जनिता** जनयिता स्रष्टा । 'जनिता मन्त्रे ' इति णिलोपो निपात्यते । 'उदात्तयणो हल्पूर्वात् ' इति पृथिवीशब्दाद्विभक्तेरुदात्तत्वम् ॥ **यो** **वा** यश्च **सत्यधर्मा** सत्यमवितथं धर्म जगतो धारणं यस्य स तादृशः प्रजापतिः **दिवम्** अन्तरिक्षोपलक्षितान् सर्वान् लोकान् **जजान** जनयामास ॥  ‘ जनी प्रादुर्भावे '। णिचि वृद्धौ ‘जनीजॄष्क्नसुरञ्जः० ' इति मिरवात्  ‘ मिता हुस्वः' इति हुस्वत्वम् । ततो लिटि  ‘ °अमन्त्रे (पा. सू. ३. १. ३५) इति निषेधादाम्प्रत्ययाभावे तिपो णलि वृद्धौ ‘ लिति ' इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥ **यश्च** **बृहतीः** महतीः **चन्द्राः** आह्लादिनीः **अपः** उदकानि **जजान** जनयामास ॥  ‘ ऊडिदम् ' इत्यादिना अप्शब्दादुत्तरस्य शस उदात्तत्वम् ॥ तस्मै **कस्मै** इत्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,30 +148,30 @@ Who genitive rated: **Yajus**. 12.102: **bṛhatī** = **prathamaḥ**, who firs
 Waters = men: **manuṣya** vā apaścandraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him not do us harm—he who is the progenitor of earth or who,  with foundations that are real, engendered heaven,  
 and who engendered the gleaming, lofty waters. – Who is the god to  
 whom we should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Neer may he harm us who is earth's Begetter, nor he whose laws are sure, the heavens' Creator,  
      He who brought forth the great and lucid waters. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möge er uns schädigen, der der Schöpfer der Erde ist, oder der den Himmel erschaffen hat mit gültigen Gesetzen, und der die schimmernden hohen Gewässer erschaffen hat. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Himmel zeugte, Und auch die lichten, mächtigen Gewässer, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не причинит нам вреда (тот), кто родитель земли  
 Или кто породил небо, (тот,) чьи законы истинны,  

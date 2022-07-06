@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आसु अ꣡त्क आश꣡ये  
 वि꣡श्वा जाता꣡नि एषा᳐म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 परि॑ । धामा॑नि । मर्मृ॑शत् । वरु॑णस्य । पु॒रः । गये॑ । विश्वे॑ । दे॒वाः । अनु॑ । व्र॒तम् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M;; repeated line
 --- त्परिमृशतः **वरुणस्य** **पुरो** **गये** रथस्य पुरताद्भवति तस्य वरुणस्य पुरस्तात् **विश्वे** सर्वे **देवाः** **व्रतं** कर्म **अनु** गच्छन्तीत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,35 +144,35 @@ genre M;; repeated line
 ..who, going through these regions (of space) rests on all their tribes, surrounding allhomes-- all the gods are engaged in worship before Varuṇa's dwelling; may all our adversaries perish.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who lies on these [fem. =the waters?] (like) a cloak, while enveloping all  the created things of these [masc. =the gods?] and their domains—  
 in Varuṇa’s household, in front (of him), are all the gods, following his  commandment.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The purport of this verse and the referents of the unidentified fem. pl. (āsu, pāda a) and masc./neut. pl. (eṣām, pāda b) are completely unclear to me, and multiple suggestions have been made about the identities of these entities and the ways they might fit together. I roughly follow Oldenberg’s interpr., but cannot carry it further.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He wraps these regions as a robe; he contemplates the tribes of Gods and all the works of mortal men.  
      Before the home of Varuna all the Gods follow his decree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der als Umhüllung auf diesen Flüssen liegt, deren Geschlechter alle, deren Formen umfassend, aller Götter, die unter Varuna´s Anführung dessen Geboten folgen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter folgen dem Gesetz dort vor dem Sitz des Varuna, Der wie ein Mantel deckt die Welt, der Götter Stämme allesammt und ihre Stätten fest umfängt. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто на них лежит, (как) покров,  
 (Озирая) все рождения этих (богов),  

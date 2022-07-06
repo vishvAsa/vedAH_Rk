@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्त꣡ये वाजि꣡भिश् च प्रणेतः  
 सं꣡ य꣡न् मही꣡र् इ꣡ष आस꣡त्सि पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ अस्तु भ꣡ग इन्द्र प्रजा꣡वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रा॒यः । व॒न्तारः॑ । बृ॒ह॒तः । स्या॒म॒ । अ॒स्मे इति॑ । अ॒स्तु॒ । भगः॑ । इ॒न्द्र॒ । प्र॒जाऽवा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
@@ -122,21 +122,21 @@ genre M
 **प्रणेतः** प्रकर्षेण जगतो निर्वाहक हे **इन्द्र** अस्मान् **वाजिभिः** अश्वैः सहितान् कुरु **स्वस्तये** **च** अविनाशाय कुरु । **यत्** यदा त्वं **सम्** **आसत्सि** अस्माकं समीपे यज्ञनिर्वाहार्थमासीदसि तदा वयं **महीः** महान्ति **इषः** अन्नानि **पूर्वीः** प्रभूतानि **रायः** धनानि **वन्तारः** तेषां संभक्तारः सन्तः **बृहतः** महान्तः **स्याम** भवेम । किंच **प्रजावान्** अपत्योपेतं **भगः** धनम् **अस्मे** अस्मासु **अस्तु** भवतु ॥ आसत्सि । षद्लृ विशरणादिषु । ‘बहुलं छन्दसि' इति शपो लुक् । यद्योगादनिघातः । इषो राय इति च द्वे षष्ट्यर्थे द्वितीये । वन्तारः। ‘वन षण संभक्तौ ' इत्यस्य तृचि आगमानुशासनस्य अनित्यत्वादिडभावः । चित्स्वरः । स्याम। ' अस भुवि ' इत्यस्य लिङि रूपम् । अस्मे । अस्मच्छब्दस्य सप्तम्याः ‘सुपां सुलुक् ' इति शे इत्यादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Regulator (of the world, provide us) with horses for our welfare, and when you are seated near to us may we become mighty, enjoying abundant food, and ample riches, and may there be to us wealth accompanied by progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is for our well-being and with your prize-seeking (horses), o leader,  that you will sit down to many great refreshments.  
 Might we be winners of lofty wealth. Let your portion, conferring  
 offspring, be in us, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is difficult to know how to construe the first pāda of this vs. I take it as a nominal main clause expressing the purpose of the subordinate clause in b. Geldner (/Witzel Gotō) as a parallel subordinate clause with pāda b, for which a verb (ausziehst ‘set out for’) must be supplied -- all dependent on pāda c. Renou as part of a single subord. cl.
 
@@ -145,23 +145,23 @@ introduced by yád in b, also all dependent on c. Each of these solutions has dr
 However the various interpr. of ab differ, they all agree in taking āsátsi as the verb in the subor. cl. introduced by yád, thus showing the older non-imperatival (that is, subjunctive) value of the so-called “-si imperative.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When borne by strong Steeds for our weal, O Leader, thou seatest thee at many noble viands.  
      May we be winners of abundant riches. May Indra be our wealth with store of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du zum Heil mit deinen Siegesgewohnten, du Anführer, ausziehst, wenn du viele große Speisegenüsse in Besitz nimmst, so möchten wir die Gewinner großen Reichtums sein. Uns soll kinderreiches Glück zuteil werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn mit den Rossen du zum Heil, o Lenker, dich zu den vielen, reichen Tränken setzest, So seien wir Empfänger grossen Gutes, uns Indra sei ein kinderreicher Antheil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если на счастье со (своими) конями, приносящими награду, о вождь,  
 Ты завладеешь великой, обильной освежающей пищей,  

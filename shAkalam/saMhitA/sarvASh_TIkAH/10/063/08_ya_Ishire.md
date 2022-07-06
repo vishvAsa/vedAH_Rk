@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ई꣡शिरे भु꣡वनस्य प्र꣡चेतसो  
 वि꣡श्वस्य स्थातु꣡र् ज꣡गतश् च म꣡न्तवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अद्या꣡ देवासः पिपृता सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ते । नः॒ । कृ॒तात् । अकृ॑तात् । एन॑सः । परि॑ । अ॒द्य । दे॒वा॒सः॒ । पि॒पृ॒त॒ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -127,7 +127,7 @@ genre M
 **प्रचेतसः** प्रकृष्टज्ञानाः **मन्तवः** सर्वस्य वेदितार: **ये** देवा: **स्थातुः** स्थावरस्य **जगतः** जङ्गमस्य **विश्वस्य** सर्वस्य **भुवनस्य** लोकस्य **ईशिरे** ईश्वरा भवन्ति । अथ प्रत्यक्षकृतः । हे **देवासः** देवा य उक्तगुणाः **ते** यूयं **नः** अस्मान् **कृतात्** कायिकात्पापात् **अकृतात्** करचरणादिभिरकृतात् **एनसः** किंतु मानसात्पापाच्च **अद्य** अस्मिन्दिने **स्वस्तये** अविनाशायायुषोऽभिवृद्धये **पिपृत** पारयत । पापरहितान् कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ genre M
 I.e., from actual bodily sin and frommental sin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The forethoughtful counselors who are masters of the world, of  everything stationary and moving—  
 o gods, rescue us today from transgression done or not done—for  
 well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise Deities, who have dominion o'er the world, ye thinkers over all that moves not and that moves,  
      Save us from uncommitted and committed sin, preserve us from all sin to-day for happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche über die ganze Welt vorausdenkend herrschen, über alles was steht und geht als Sorger, ihr Götter, schützet uns heute vor getaner, vor ungetaner Sünde zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, welche weise herrschen über diese Welt, die über alles walten, was da geht und steht, O führet uns, ihr Götter, aus der Sünde heut aus unvollbrachter und vollbrachter hin zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

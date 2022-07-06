@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् वाम् पृक्षा꣡सो म꣡धुमन्तो अस्थुर्  
 आ꣡ सू꣡रियो अरुहच् छुक्र꣡म् अ꣡र्णः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मित्रो꣡ अर्यमा꣡ व꣡रुणः सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यस्मै॑ । आ॒दि॒त्याः । अध्व॑नः । रद॑न्ति । मि॒त्रः । अ॒र्य॒मा । वरु॑णः । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M;; repeated line
 हे मित्रावरुणौ **वां** युवयोरर्थाय **पृक्षासः** अन्नानि चरुपुरोडाशादीनि **मधुमन्तः** माधुर्योपेतानि तत्साधनान्योषध्यादीनि वा **उत्** **अस्थुः** संपादितान्यासन् । **सूर्यः** च **शुक्रं** दीप्तम् **अर्णः** अर्णवमन्तरिक्षम् **आ** **अरुहत्** आरोहति । **यस्मै** सूर्याय तद्गमनार्थम् **आदित्याः** अदितेः पुत्री देवाः **आध्वनः** मार्गान् **रदन्ति** विलिखन्ति साधयन्ति । के ते। **मित्रः** **अर्यमा** **वरुणः** च एते त्रयोऽपि देवाः सजोषसः समानप्रीतयः सन्तः । स देव आरुहदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For yo, (**Mitra** and **Varuṇa**), the sweet-flavoured viands have been prepared; the sun has ascended theshining firmament, for whom the **Ādityas** and the consentient Mitra, Varuṇa, **Aryaman** make ready paths.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The strengthening, honeyed ones [=offerings] belonging to you two  have risen up, and the Sun has mounted the gleaming flood—  
 he for whom the Ādityas—Mitra, Aryaman, and Varuṇa all together— clear his roads.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your coursers rich in store of sweets have mounted: to the bright ocean Surya hath ascended,  
      For whom the Adityas make his pathway ready, Aryaman, Mitra, Varuna, accordant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure starken, honigreichen Rosse sind heraufgekommen; Surya hat jetzt das lichte Meer erstiegen, dem die Aditya´s einträchtig die Wege vorzeichnen: Mitra, Aryaman, Varuna.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf stiegen eure methbeladnen Rosse; der Sonnengott bestieg die helle Lichtflut, Dem die Aditja's seine Bahnen brechen, Varuna, Mitra, Arjaman vereinigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возникли ваши обильные, полные меда (кони).  
 Сурья поднялся в светлый поток,  

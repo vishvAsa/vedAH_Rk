@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ आ꣡ गमद् इ꣡न्दरो+ यो꣡ व꣡सूनां  
 चि꣡केतद् दा꣡तुं दा꣡मनो रयीणा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चकमानः꣡ पिबतु दुग्ध꣡म् अंशु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ध॒न्व॒ऽच॒रः । न । वंस॑गः । तृ॒षा॒णः । च॒क॒मा॒नः । पि॒ब॒तु॒ । दु॒ग्धम् । अं॒शुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,43 +129,43 @@ genre M
 गमने दृष्टान्तः- **धन्वचरो न** धनुषा सह सञ्चरन् धानुष्क इव **वंसगो** वननीय-गमनः **तृषाणः** अत्यन्तन् तृषितः **चकमानः** कामयमानश् च सन् **दुग्धं** अभिषुतम् **अंशुंं** सोमं **पिबतु** ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Indra** who is the donor of wealth, who knows (how) to distribute riches, come (to our sacrifice) marching boldly like a warrior; and may he, being thirsty, and desirous (of the draught), drink of the effused **Soma** juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will come here—Indra, who will be attentive to the giving of the gift  of goods and riches.  
 Like a buffalo roaming the wasteplaces, thirsting, let him desirously  drink the milked plant.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation takes the phrase vásūnām … dā́mano rayīṇā́m as nested genitives (vásūnām and rayīṇā́m depending on dā́manaḥ), whose head noun is dā́tum.
 
 Both Geldner and Witzel Gotō break up the nouns into two phrases (though in different ways), with Witzel Gotō taking the verb cíketat in two different ways (pf. subj. / plupf. injunc.) with two different complements: “… der auf das Schenken von Gütern [i.e., vásūnām … dā́tum] achten soll, weil er sich ja auf die Schenkung von Schätzen [i.e., dā́mano rayīṇā́m] versteht.” This is more elegant than my pile-up of gifts and may well be right, though I’m not sure there’s sufficient signalling of the double meaning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY Indra come to us, he who knows rightly to give forth treasures from his store of riches.  
      Even as a thirsty steer who roams the deserts may he drink eagerly the milked-out Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra soll kommen, der Schätze zu schenken weiß und sich aufs Verschenken von Reichtümern versteht. Durstig wie ein in der Wüste wandernder Büffel soll er begierig den gemolkenen Stengel trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her komme Indra, der auf Reichthumsgabe sich wohl versteht, und Güter zu verschenken; Gleich durst'gem Stiere, der durch Wüsten wandert, so trink voll Lust er den gemolknen Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придет этот Индра, который умеет  
 Дарить блага, (понимает) в дарении богатств.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ नो अद्य꣡ वनस्पती  
 ऋष्वा꣡व् ऋष्वे꣡भिः सोतृ꣡भिः  
 इ꣡न्द्राय म꣡धुमत् सुतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 इन्द्रा॑य । मधु॑ऽमत् । सु॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -81,7 +81,7 @@ genre M
 **अद्य** अस्मिन् कर्मणि हे **वनस्पती** उलूखलमुसलरूपौ तौ युवाम् 'ऋष्वेभिः दर्शनीयैः **सोतृभिः** अभिषवहेतुभिः सह **ऋष्वौ** दर्शनीयौ भूत्वा **इन्द्राय** इन्द्रार्थं **मधुमत्** माधुर्योपेतं सोमद्रव्यं **नः** अस्मदीयं **सुतं** अभिषुणुतम् ॥ ता । ‘सुपां सुलुक्' इति आकारः । नो अद्य । ' प्रकृत्यान्तःपादम्” ' इति प्रकृतिभावः । वनस्पती । उभयपदप्रकृतिस्वरे प्राप्ते  आमन्त्रितस्य ' इति सर्वानुदात्तत्वम् । ‘प्लुतप्रगृह्या अचि (पा. सू. ६. १. १२५) इति प्रकृतिभावः । सुतम् । ' षुञ् अभिषवे'। ‘बहुलं छन्दसि ' इति विकरणस्य लुक् । निघातः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M
 Metonymy for the mortar and pestle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today, you two lords of the wood, towering, with the towering pressers press our honeyed (drink) for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Sovrans of the Forest, both swift, with swift pressers press to-day  
      Sweet Soma juice for Indra's drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr zwei Hölzer, presset uns heute aufgerichtet mit den aufgerichteten Auspressern den süßen Saft für Indra aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Bretter, presset beide heut dem Indra süssen Somasaft, Durch hohe Presser ihr erhöht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вы, два дерева, сегодня,  
 Высокие с высокими (жрецами-) выжимателями,  

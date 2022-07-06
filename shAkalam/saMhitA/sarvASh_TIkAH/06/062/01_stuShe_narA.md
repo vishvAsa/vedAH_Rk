@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तुषे꣡ न꣡रा दिवो꣡ अस्य꣡ प्रस꣡न्ता  
 अश्वि꣡ना हुवे ज꣡रमाणो अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यु꣡यूषतः प꣡रि उरू꣡ व꣡रांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या । स॒द्यः । उ॒स्रा । वि॒ऽउषि॑ । ज्मः । अन्ता॑न् । युयू॑षतः । परि॑ । उ॒रु । वरां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
@@ -117,20 +117,20 @@ genre M
 **दिवः** द्युलोकस्य **नरा** नेतारौ **अस्य** भुवनस्य **प्रसन्ता** प्रसन्तौ प्रभवन्तावीश्वरौ **अश्विना** अश्विनौ अश्वैरन्वितौ **स्तुषे** प्रगीतमन्त्रसाध्यैः स्तोत्रैः स्तोतुम् **अर्कैः** अप्रगीतमन्त्रसाध्यैः शस्त्रैः **जरमाणः** स्तुतिं कुर्वन् **हुवे** आह्वयामि । कीदृशावित्यपेक्षायाम् । **या** यौ **सद्यः** एव **उस्रा** शत्रूणां निवारकौ **व्युषि** व्युष्टौ निशायाः समाप्तौ **ज्मः** पृथिव्याः **अन्तान्** पर्यन्तान् **उरु** उरूणि **वरांसि** रूपस्यावरकाणि तमांसि च **परि** परितः **युयूषतः** पृथक्कुरुतः । अथवा वरांसि तेजांसि तमोनिवारणात् परि युयूषतः विस्तारयतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise the two leaders of heaven, the presiders over this world; I invoke the **Aśvins**, glorifying them with sacred hymns, them, who are ever the discomfiture (of foes), who at dawn scatter the investing glooms to the ends of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall praise the two outstanding men of this heaven; I call upon the  Aśvins, singing [/awakening] with my chants—  
 they who, at the breaking of the ruddy dawn, in a single day seek to  encompass the ends of the earth and its broad expanses,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The usual ambiguity of jára- ‘awake’ or ‘sing’, with the usual possible double application in a context like this, though járamāṇasya in 4a speaks for ‘sing’.
 
@@ -139,23 +139,23 @@ In c usrā́ is taken as du. by Grassmann, flg. the Pp. However, it more likely 
 followed by Heenen (Desid. 209). Such an interpr. would be conceptually possible: in the dim light of dawn and the morning mists, the Aśvins allow the boundaries of earth to be seen by “separating” them. However, I consider √yu ‘join’ more likely, in the sense, with pári, of ‘encompass’, referring to the usual round-the-world journey of the Aśvins. The constr. seems a conflation or crossing of the usual sadyáḥ [H+E] pári √i/yā [/VERB OF MOTION] expression “encircle heaven and earth in a single day,” as in I.115.3, 128.3, III.58.8, IV.45.7, etc., with the prior act of harnessing (√yu) the horses. For passages that incl. ántān (as here), see V.47.4, X.108.5: e.g., V.47.4 diváś caranti pári sadyó ántān “They circle around the ends of heaven in a single day.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I LAUD the Heroes Twain, this heaven's Controllers: singing with songs of praise I call the Asvins,  
      Fain in a moment, when the morns are breaking, to part the earth's ends and the spacious regions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich preise die beiden ausgezeichneten Herren dieses Himmels, die Asvin rufe ich als Frühbeter mit Preisliedern, die sogleich bei Aufgang der Morgenröte die Grenzen der Erde, die weiten Räume zu umspannen suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer preis' ich, dieses Himmels Herrscher, die Ritter ruf' ich, mit Gesängen rauschend, Die bei des Morgens Licht der Erde Enden, den weiten Raum im Flug umspannen wollen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я славлю двоих выдающихся повелителей этого неба,  
 Ашвинов я зову песнями, бодрствуя,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡त् सुहव्य꣡म् अङ्गिरः  
 सुदेवं꣡ सहसो यहो  
 ज꣡ना आहुः सुबर्हि꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 जनाः॑ । आ॒हुः॒ । सु॒ऽब॒र्हिष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -98,46 +98,46 @@ genre M
 हे **सहसो** **यहो** बलस्य पुत्र **अङ्गिरः** अङ्गनादिगुणयुक्ताग्ने यो यजमानः पूर्वमुक्तः **तमित्** तमेव यजमानं **सुहव्यं** शोभनहविष्कं **सुदेवं** शोभनदैवतं **सुबर्हिषम्** । बर्हिरिति यज्ञनाम । शोभनयज्ञं च **जनाः** सर्वे मनुष्याः **आहुः** कथयन्ति ॥ सुहव्यमित्यादिषु  नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । सहसो यहो। सुबामन्त्रिते° ' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायस्य आष्टमिकमामन्त्रितानुदात्तत्वम् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Him, **Aṅgiras**, son of strength, men call forunate in his sacrifice, his deity, his oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just he has good oblations, has the gods with him, o Aṅgiras, young  (son) of strength,  
 has a good ritual grass-strew—so the people say.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I recast the acc. to nom. in English, in order to be able to preserve verse structure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, Angiras, thou Son of Strength, all men call happy in his God,  
      His offerings, and his sacred grass.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Such a man the people call a giver of good oblations, O Aṅgiras, a friend of the gods, O son of strength 1, and a possessor of a good Barhis (or sacrificial grass).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den nennen die Leute einen guten Opferspender, einen Götterliebling, dessen Barhis gut ist, o Angiras, du jüngster Sohn der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den nennet reich gesegnet man, o Angiras, o Sohn der Kraft, An Opfern, Göttern und an Streu;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только его люди называют, о Ангирас,  
 Хорошо возливающим, хорошим для богов,  

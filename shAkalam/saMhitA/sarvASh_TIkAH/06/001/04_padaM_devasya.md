@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पदं꣡ देव꣡स्य न꣡मसा विअ꣡न्तः  
 श्रवस्य꣡वः श्र꣡व आपन्न् अ꣡मृक्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भद्रा꣡यां ते रणयन्त सं꣡दृष्टौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नामा॑नि । चि॒त् । द॒धि॒रे॒ । य॒ज्ञिया॑नि । भ॒द्राया॑म् । ते॒ । र॒ण॒य॒न्त॒ । सम्ऽदृ॑ष्टौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
@@ -111,7 +111,7 @@ genre M
 **देवस्य** द्योतमानस्याग्नेः **पदम्** आहवनीयस्थानं **नमसा** हविषा स्तोत्रेण वा **व्यन्तः** गच्छन्तः **श्रवस्यवः** अन्नमिच्छन्तः पूर्वे यजमानाः **श्रवः** सर्वत्र श्रूयमाणमन्नम् अमृक्तम् अन्यैरपरिबाध्यम् **आपन्** आप्नुवन्ति । हे अग्ने ते तव **भद्रायां** स्तुत्यायां **संदृष्टौ** निमित्तायां **रणयन्त** रमयन्ति । **यज्ञियानि** यज्ञयोग्यानि नामानि नमनीयानि वैश्वानरो जातवेदा इत्यादीनि दधिरे धारयन्ति । अथवा नमनसाधनानि स्तोत्राणि दधिरे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 They repeat those your names: nāmāni cid dadhire yajñīyāni, that is, such appellations as **jātavedas**, **vaiśvānara**, and means of adoration, stotrāṇi namanasādhanāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pursuing the track of the god with homage, seeking fame, they will attain  fame indestructible;  
 even the names they have assumed are worthy of worship. They take  pleasure in your auspicious manifestation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again Geldner claims that this verse is about the myth of the flight of Agni, presumably on the basis of padám devásya … vyántaḥ, but the track of the god doesn't have to be his flight, but simply the ritual cursus.
 
@@ -139,23 +139,23 @@ seems preferable to one that goes haring off into the mythological past.
 Note śrávaḥ … ámṛktam “indestructible fame” as a variation on the formula śrávaḥ … ákṣitam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who approached the God's abode with homage, eager for glory, won them perfect glory:  
      Yea, they gained even sacrificial titles, and found delight in thine auspicious aspect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Spur des Gottes unter Verneigung verfolgend, haben sie ruhmsuchend ungeschmälerten Ruhm erlangt. Sie erlangten sogar opferwürdige Namen, sie weideten sich an deinem holden Anblick.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ehrfurcht eilend zu des Gottes Stätte, erlangten sichern Schatz die Schatzbegier'gen, Empfingen auch verehrungswerthe Namen, ergötzten sich an deinem theuren Anblick.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Идя с поклонением по следу бога,  
 Ищущие славы достигли нерушимой славы.  

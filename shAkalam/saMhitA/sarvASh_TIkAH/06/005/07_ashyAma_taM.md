@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्या꣡म तं꣡ का꣡मम् अग्ने त꣡वोती꣡  
 अश्या꣡म रयिं꣡ रयिवः सुवी꣡रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अश्या꣡म द्युम्न꣡म् अजराज꣡रं ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒श्याम॑ । वाज॑म् । अ॒भि । वा॒जय॑न्तः । अ॒श्याम॑ । द्यु॒म्नम् । अ॒ज॒र॒ । अ॒जर॑म् । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
@@ -140,7 +140,7 @@ genre M
 किञ्च - हे अजर जरारहित अजरमक्षयं द्युम्नं यशः ते त्वृत्प्रसादात् अश्याम बिभृयाम । 'नञो जरमरमित्रमृताः' इत्यजरशब्दे उत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,7 +154,7 @@ may we obtain, imperishable Agni, imperishable fame (through you).”
 Yajrveda, 18.74
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we attain this desire, Agni, through your help.  
 May we attain  wealth, o wealthy one, which affords good heroes.  
@@ -162,12 +162,12 @@ May we attain the prize when we seek the prize.
 May we attain your  unaging brilliance, o unaging one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is characterized by etymological figures: b rayíṃ rayivaḥ, c vā́jam … vājáyantaḥ, d ajarājáram -- a stylistic tick found also in vss. 1, 4, and 6 -- see comm. ad locc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help us, that we may gain this wish, O Agni, gain riches, Wealthy One! with store of heroes.  
      Desiring strength from thee may we be strengthened, and win, Eternal! thine eternal glory.
@@ -182,17 +182,17 @@ May we win, O deathless, undying glory.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten diesen Wunsch durch deine Gnade erlangen, o Agni; wir möchten Reichtum an guten Söhnen, du Reicher, erlangen; wir möchten deinen nicht alternden Glanz erlangen, du Alterloser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfülle, Agni, diesen Wunsch uns hülfreich; lass Labung uns empfahn, die Labung bringen, Erlangen, reicher, heldbegabten Reichthum, erlangen deinen ew'gen Glanz, o Ew'ger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть достигнем мы с твоей помощью этого желания, о Агни!  
 Пусть достигнем мы богатства из прекрасных мужей, о обладатель богатства!  

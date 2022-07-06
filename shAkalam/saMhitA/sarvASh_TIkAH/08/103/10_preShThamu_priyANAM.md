@@ -6,14 +6,14 @@ ChandaH = "ह्रसीयसी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡यिष्ठम्+ उ प्रिया꣡णां᳐  
 स्तुहि꣡ आसाव अ꣡तिथिम्  
 अग्निं꣡ र꣡थानां᳐ य꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्निम् । रथा॑नाम् । यम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *preṣṭham* ← *preṣṭha*
 - \[noun\], accusative, singular, masculine
@@ -77,7 +77,7 @@ genre M
 हे **आसाव** स्तोतः **प्रियाणां** **प्रेष्ठं** प्रियतमम् **अतिथिम्** अभ्यागतं **रथानां** **यमं** यन्तारम् **अग्निम्** एव **स्तुहि** ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M
 **Āsāva** =stotā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Āsāva, praise the dearest of the dear ones, the guest,  
 Agni, the controller of chariots,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Oldenberg, Geldner, and Renou in taking āsāva as the voc. of a (hapax) PN, though it could be simply ‘o presser’ (ā́√su) as Grassmann takes it (and perhaps implicitly Mayrhofer, since it does not appear in his PN book). There are no implications either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Priest, presser of the juice! praise now the dearest Guest of all our friends,  
      Agni, the driver of the cars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Liebsten der Lieben, den Gast preise, o Asava, den Agni, den Lenker der Wagen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Trankbereiter, preise nun ihn, der geliebten liebsten Gast, Den Agni, der die Wagen lenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй, о Асава, гостя,  
 Самого любимого из любимых,  

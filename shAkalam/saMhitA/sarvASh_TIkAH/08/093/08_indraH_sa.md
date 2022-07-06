@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः स꣡ दा꣡मने कृत꣡  
 ओ꣡जिष्ठः स꣡ म꣡दे हितः꣡  
 द्युम्नी꣡ श्लोकी꣡ स꣡ सोमियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्यु॒म्नी । श्लो॒की । सः । सो॒म्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -106,7 +106,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** **इन्द्रः** **दामने** स्तोतृभ्यो धनादिदानायैव **कृतः** प्रजापतिना सृष्टः । किंच **ओजिष्ठः** ओजस्वितमः **सः** एवेन्द्रः **मदे**। माद्यन्त्यनेनेति" मदः सोमः । तस्मिंश्च प्रजापतिना सृष्टिकाले **हितः** । सोमपानार्थं च निहित इत्यर्थः । **द्युम्नी** । 'द्युम्नं द्योततेर्यशो वान्नं वा' इति । यशस्व्यन्नवान् वा अत एव **श्लोकी** । श्लोकः स्तुतिः । तद्वान् **सः** इन्द्रः **सोम्यः** सोमार्हो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Made = bale; Indra was created: by **Prajāpati** at the time ofcreation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra is the one made for giving. Strongest is he when ensconced in  exhilaration;  
 brilliant is he who, deserving of soma, receives the (invitatory) call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unusual syntactically, in having three non-initial sá's; what special effect is being aimed at is not entirely clear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra was made for giving, set, most mighty, o'er the joyous draught.  
      Bright, meet for Soma, famed in song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra ist zum Schenken geschaffen, der Stärkste ist für den Rausch bestimmt; er ist der Glanzvolle, Berühmte, Somawürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Gab' ist Indra angethan, der stärkste ist in Rausch versetzt, Er, licht und laut, dem Soma hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

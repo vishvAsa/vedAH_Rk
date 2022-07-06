@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अपप्तन्न् अरुणा꣡ भान꣡वो वृ꣡था  
 सुआयु꣡जो अ꣡रुषीर् गा꣡ अयुक्षत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रु꣡शन्तम् भानु꣡म् अ꣡रुषीर् अशिश्रयुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अक्र॑न् । उ॒षसः॑ । व॒युना॑नि । पू॒र्वऽथा॑ । रुश॑न्तम् । भा॒नुम् । अरु॑षीः । अ॒शि॒श्र॒युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 अरुण्यो गाव उषसाम् ' ( नि. १. १५. ७) इति । एवं गोभिर्युक्तं रथमारुह्य उषसः **पूर्वथा** पूर्वेष्वतीतेष्वहःस्विव **वयुनानि** सर्वेषां प्राणिनां ज्ञानानि **अक्रन्** अकार्षुः । उषःकाले जाते हि सर्वे प्राणिनो ज्ञानयुक्ता भवन्ति । तदनन्तरम् **अरुषीः** आरोचमानास्ताः उषसः **रुशन्तम्** ।  ‘ रुशदिति वर्णनाम रोचतेर्ज्वलतिकर्मणः ' (निरु. २. २० ) इति यास्कः । शुभ्रवर्णं **भानुं** सूर्यम् **अशिश्रयुः** असेवन्त । तेन सह एकीभवन्तीत्यर्थः ॥ अपप्तन् । 'पत्लृ गतौ । लुङि लृदित्त्वात् च्लेः अङादेशः ।  ‘ पतः पुम् ' ( पा. सू. ७. ४. १९) इति धातोः पुमागमः । अक्रन् । 'मन्त्रे घस ' इत्यादिना च्लेः लुक्। पूर्वथा ।' प्रत्नपूर्वविश्वेमात्थाल छन्दसि' (पा. सू. ५. ३. १११) इति इवार्थे थाल्प्रत्ययः । अशिश्रयुः । श्रिञ् सेवायाम् ।  ‘ बहुलं छन्दसि ' इति शपः श्लुः ।  ‘ सिजभ्यस्तविदिभ्यश्च । इति झेः जुस् । जुसि च ' ( पा. सू. ७. ३. ८३ ) इति गुणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Their purple rays have readily shot upwards; they have yoked the easily-yoked and ruddy kine (to their car); the deities of the dawn have restored, as of yore, the consciousness (of sentient creatures), and bright-rayed have attended upon the glorious sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Their ruddy beams have flown up at will. They have yoked their reddish  cows, easy to yoke.  
 The Dawns have made their patterns as of old. A gleaming beam have  the reddish ones propped up.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Readily have the purple beams of light shot up; the Red Cows have they harnessed, easy to be yoked.  
      The Dawns have brought distinct perception as before: red-hued, they have attained their fulgent brilliancy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die rötlichen Lichter sind plötzlich aufgeflogen; sie haben ihre rötlichen leichtgeschirrten Kühe angeschirrt. Die Usas haben wie früher die Zeiten bestimmt; die Roten haben ihr helles Licht aufgesteckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es flogen ihre goldnen Strahlen spielend auf, und fügsam schirrten sich die rothen Kühe an; Die Morgenröthen machten ihr Gewebe wie vordem, und liessen steigen hellen Glanz, die röthlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вверх внезапно взлетели алые лучи.  
 (Зори) запрягли алых коров, легко запрягаемых.  

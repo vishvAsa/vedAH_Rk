@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡र्हि स्वित् त꣡द् इन्दर+ य꣡न् नृ꣡भिर् नॄ꣡न्  
 वीरइ꣡र् वीरा꣡न् नीळ꣡यासे ज꣡याजी꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र द्युम्नं꣡ सु꣡वर्वद् धेहि अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्रि॒ऽधातु॑ । गाः । अधि॑ । ज॒या॒सि॒ । गोषु॑ । इन्द्र॑ । द्यु॒म्नम् । स्वः॒ऽवत् । धे॒हि॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *karhi*
 - \[adverb\]
@@ -142,7 +142,7 @@ genre M;; repeated line
 फलस्य विलम्बमसहमान ऋषिरनयापीन्द्रं पृच्छति । हे **इन्द्र** **कर्हि** **स्वित्** कदा खलु **तत्** भवेत् । **नृभिः** अस्मदीयैः पुरुषैः **नॄन्** शत्रुपुरुषान् तथा **वीरैः** अस्मदीयैः पुत्रैः **वीरान्** शत्रुपुत्रांश्च **यत्** **नीळयासे** त्वं संश्लेषयेः संयोजयेः ॥ नीळयतिः संश्लेषणकर्मा ॥ ईदृशं युद्धे यत्संश्लेषणं तत्कदा भवेदिति वितर्कः । अपि चास्मदर्थं त्वम् **आजीन्** संग्रामान् कदा **जय** जयेः । कदा च **गोषु** अभिगन्तृषु शत्रुषु विद्यमाना: **त्रिधातु** त्रिधातूः क्षीरदधिघृतानां त्रयाणां धारयित्रीः **गा:** **अधि** **जयासि** अधिकं जयेः । हे **इन्द्र** त्वं **स्वर्वत्** व्याप्तिमत् **द्युम्नं** धनम् **अस्मे** अस्मासु कदा **धेहि** धारयेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,36 +153,36 @@ genre M;; repeated line
 Threefold-food-supplying: tridhātu gāḥ, cows having three elements of nutriment, as milk, curds and butter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just when will it be, Indra, that you will place in your own nest our men  with your men, our heroes with your heroes? Win the contests!  
 With cattle at stake, you will win cattle three times over. Indra, grant to  us sunlit brilliance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Schmidt take the first hemistich as depicting a hostile encounter between two sets of men and heroes expressed by the verb nīḷáyāse (Geldner: “… dass du Herren mit Herren, Mannen mit Mannen in Kampf verwickeln wirst?”; HPS [153] “… dass du … handgemein (?) werden lässt?”); Oldenberg is less certain but suggests that “kämpfen machen, überwinden” is expected. But the basis of this hapax demon. nīḷáyāse, namely nīḷá- ‘nest’, invites an interpr. depicting a more intimate and amicable relationship (like the adj. sánīḷa- ‘of the same nest’, referring to brothers and comrades), and the middle voice reinforces that sense. In my 1983 monograph on -áya-formations, I follow an interpr. suggested by Insler, that the verb means ‘accept as equals’ (pp. 84-85). Although I think that may be an implication, I now think it can be taken more literally: ‘put in your own nest’. Indra is bringing our fighting men into intimate contact with his own (the Maruts and/or Aṅgirases [the latter being mentioned in vs. 5]) under his auspices; with these now conjoined forces he can win the contests and the cattle at stake.
 
 The accent of the denom. nīḷáyāse (expect *nīḷayā́se) has been retracted because the form is transitive (acc. nṛ́̄n … vīrā́n) and has been attracted into the -áyatransitive / causative class (see my 1983 monograph).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When wilt thou gatber men with men, O Indra, heroes with heroes, and prevail in combat?  
      Thou shalt win triply kine in frays for cattle, so, Indra, give thou us celestial glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann geschieht das denn, Indra, daß du Herren mit Herren, Mannen mit Mannen in Kampf verwickeln wirst? Gewinne die Kämpfe! Du sollst dreifach Rinder über Rinder erbeuten. Indra! Verleih uns sonnenhaften Glanz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann lässt du, Indra, Männer mit den Männern, mit Helden Helden streiten? sieg' im Kampfe; Dreifach erbeute Kühe zu den Kühen, o Indra, schenk uns glanzbegabten Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же (будет) это, о Индра, что ты мужей с мужами,  
 Героев с героями заставишь сцепиться (в бою)? Выигрывай состязания!  

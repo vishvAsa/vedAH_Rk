@@ -8,7 +8,7 @@ title = "+097"
 ‘यज्ञे दिवः' इति दशर्चमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभम् । प्रथमैन्द्री तृतीयानवम्योरिन्द्राब्रह्मणस्पती देवता दशम्या इन्द्राबृहस्पती शिष्टानां तु बृहस्पतिः । तथा चानुक्रान्तं - यज्ञे दशैन्द्र्यादि बार्हस्पत्यमन्त्यैन्द्री च तृतीयानवम्यावैन्द्राब्राह्मणस्पत्ये' इति। आभिप्लविकेषूक्थ्येषु तृतीयसवने स्तोमवृद्धौ ब्राह्मणाच्छंसिन इदमुत्तरं च सूक्तमावापार्थम् । सूत्रितं च–“यज्ञे दिवः' (आश्व. श्रौ. ७. ९) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 97 (613)  
 Indra (1), Br̥haspati (2, 4–8), Indra and  
@@ -25,7 +25,7 @@ only found in verses also containing the noun bráhman “sacred formulation.”
 Br̥haspati is identified here in this ritual context with the ultimate ritually oriented  god, Agni. This identification is found elsewhere; see especially V.43.12. It is noteworthy, but not surprising, that the usual mythological association of  Indra/Br̥haspati with the Vala cave is entirely absent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Bṛhaspati Renou treats this hymn in EVP XV.66-69. For the structure of the hymn and the covert identification of Bṛhaspati (/Indra) with Agni, see published introduction. This identification is argued for extensively by Schmidt (Bṛhaspati und Indra, 62-67, which also contains a complete tr. and philological comm.).
 </details>

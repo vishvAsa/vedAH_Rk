@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धृ꣡तव्रता आ꣡दितिया इ꣡षिरा  
 आरे꣡ म꣡त् कर्त रहसू꣡र् इवा꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भद्र꣡स्य विद्वाँ꣡ अ꣡वसे हुवे वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शृ॒ण्व॒तः । वः॒ । वरु॑ण । मित्र॑ । देवाः॑ । भ॒द्रस्य॑ । वि॒द्वान् । अव॑से । हु॒वे॒ । वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhṛtavratā* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
@@ -137,7 +137,7 @@ genre M
 हेधृतव्रताः धृतकर्माणः आदित्याः अदितेःपुत्राः इषिराः गमनशीलाः सर्वैभ्येषणीयाः प्रार्थानी- यावा हेविश्वेदेवाः मदारेमत्तोदूरदेशेआगः विहितानुष्ठानादिजनितम्पापङ्कर्तकुरुत करोतेश्छान्दसोवि- करणस्यलुक् तप्तनप्तनथनाश्चेतितबादेशः तत्रदृष्टान्तः—रहसूरिव रहसिअन्यैरज्ञातेप्रदेशेसूयतइतिर- हसूःव्यभिचारिणी सायथागर्भम्पातयित्वादूरदेशेपरित्यजतितद्वत् हेवरुण मित्र देवाः वोयुष्मदीयस्य भद्रस्ययुष्माभिःकरणीयंश्रेयोविद्वान् जानन्नहंश्रृण्वतः मत्कृतानि स्तोत्राणिश्रोत्रेणजानतोवोयुष्मान् अवसे रक्षणार्थंहुवेआह्वयामि ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,28 +148,28 @@ genre M
 Delivered in secret: rahasūriva; rahasyanyairajñāte pradeśe sūyata iti rahasūrvabhicāriṇī = like a loose woman who has child privately and who abandons it in some distant plural ce; this comparison is to the distant removal of sin prayed for
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You vigorous Ādityas of steadfast commandments, put at a distance from  me my offense, as a woman who gives birth in secret (does her baby). You who listen, Varuṇa, Mitra, (other) gods—knowing what is favorable,  I call to you for aid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 धृत॑व्रता॒ आदि॑त्या॒ इषि॑रा आ॒रे मत्क॑र्त रह॒सूरि॒वागः॑ ।  
 शृ॒ण्व॒तो वो॒ वरु॑ण॒ मित्र॒ देवा॑ भ॒द्रस्य॑ वि॒द्वाँ अव॑से हुवे वः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr eifrigen Aditya´s, die ihr die Gebote aufrecht haltet, beseitigt meine Sünde wie die heimlich Gebärende ihr Kind. Varuna und Mitra, ihr Götter, euch, die Erhörenden, rufe ich zur Gunst an, der ich die glückbringende kenne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesetzbeschirmer, kräftige Aditja's, schafft weg von mir die Schuld, wie Frucht der Schwangern; Euch, die ihr hört, Varuna, Mitra, Götter, ruf' ich zu Hülfe kundig eures Segens.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О ревностные Адитьи, поддерживающие обеты,  
 Далеко от меня уберите грех, сложно тайно рожающая (- своего ребенка)!  

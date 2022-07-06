@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ देवो꣡ विपा꣡ कृतो꣡  
 अ꣡ति ह्व꣡रांसि धावति  
 प꣡वमानो अ꣡दाभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मानः । अदा॑भ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विपा** अङ्गुल्या । ‘अथर्यो विपः' इत्यङ्गुलिनामसु पाठात् । **कृतः** अभिषुतः **एषः** सोमः **देवः** **पवमानः** क्षरन् **अदाभ्यः** केनाप्यहिंसितश्च सन् **ह्ररांसि** शत्रून् **अति** **धावति** हन्तुमभिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Hvarāṃsi dhāvati = hastens down declivities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This god, created by poetic inspiration, streaks across the tangles (of  sheep’s wool)  
 purifying himself, impossible to deceive.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression vipā́kṛtáḥ ‘created by poetic inspiration’ may seem a bit extreme -- after all soma/Soma exists and previously existed independently of the poets. But the usual RVic power attributed to the word is in play here: poetry brings to realization the gods and divine forces on the ritual ground.
 
 The s-stem hváras- belongs to the root √hvṛ ‘go crookedly, swerve’; in a soma context it refers to the curls and tufts of the wool on the sheepskin that serves as the soma filter, trapping the impurities in the just pressed juice. This physical reading seems preferable to the “obstacle” interpr. of Geldner, Renou, etc. In this regard, I would point out that the smooth, fluffy, brushed sheepskins available commercially are misleading: sheep on the hoof, particularly the shaggy mountain breeds presumably familiar to the Vedic people, have much more rugged and irregular wool.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This God, made ready with the hymn, runs swiftly through the winding ways,  
      Inviolable as he flows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott, durch Zurede bewogen, rennt über die Hindernisse, sich läuternd, nicht irre zu führen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gezeugt vom Priester rieselnd strömt durch das Geflecht der Wolle hin Der Gott, der unverletzliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог, созданный вдохновением,  
 Мчится сквозь препоны,  

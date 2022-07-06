@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नु꣡ वयं꣡ सुते꣡ या꣡ ते कृता꣡नि  
 इ꣡न्द्र ब्र꣡वाम या꣡नि नो जु꣡जोषः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡हते ऽय꣡म् मघ꣡वा स꣡र्वसेनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वेद॑त् । अवि॑द्वान् । शृ॒णव॑त् । च॒ । वि॒द्वान् । वह॑ते । अ॒यम् । म॒घऽवा॑ । सर्व॑ऽसेनः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -142,20 +142,20 @@ genre M
 हे **इन्द्र** **ते** त्वदीयानि यानि **कृतानि** कर्माणि सन्ति **नु** अद्य **वयं** स्तोतारः **सुते** सोमेऽभिषुते सति तानि कर्माणि **प्र** **ब्रवाम** प्रकर्षेण वदाम । त्वमपि **नः** अस्मदर्थं **यानि** कर्माणि **जुजोषः** असेवथाः तानि कर्माणि **अविद्वान्** इतः पूर्वमजानन् जनः **वेदत्** जानातु । **विद्वान्** **शृणवच्च** शृणुयाच्च । यद्वा विद्वान् जानन् पुरुषः शृणवच्च । अजानन्तमपि जनं श्रावयेच्च । **सर्वसेनः** सर्वाभिः सेनाभिर्युक्तः **मघवा** धनवान् विद्वान् जानन् **अयम्** इन्द्रो जानतश्च शृण्वतश्च तान् जनान् प्रति **वहते** अश्वैरुह्यते ॥ व्यत्ययेन कर्तृप्रत्ययः ॥ प्रापयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the libation is offered, **Indra**, we celebrate your exploits; those (exploits) which you have been praised (to achieve) for us; let him who is ignorant acquire knowledge (of them); let him who is acquainted (with them) make them known; this **Maghavan** (is) the lord of hosts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We shall now proclaim at the pressing the deeds that are yours, Indra,  which you will enjoy (hearing) from us.  
 He will learn who does not know, and he will hear who does know: “This  bounteous one is traveling here fully armed.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntax in the first hemistich is a little rough. yā́te kṛtā́ni in pāda a appears to be an embedded relative clause, a construction that is rare to non-existent in the RV. Its position between the preverb and the verb of the main cl. (prá … brávāma) makes it difficult to interpret it any other way. The fact that it is a nominal clause, an NP serving as direct object, may make the embedding seem less of a syntactic violation. (Note that Geldner simply ignores the rel. prn.) The main verb brávāma is accented because it is effectively in pāda-initial position: the initial accented voc. índra is extra-clausal.
 
@@ -166,23 +166,23 @@ It would be technically possible to take the first hemistich as consisting only 
 would save us from an embedded relative (see above), the rhetoric of the 1st hemistich, with prá nú vayám … brávāma reminiscent of I.32.1 índrasya nú vīryā̀ṇi prá vocam and similar passages, strongly suggests an annunciatory declaration rather than a subordination.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will tell, Indra, when we pour libation, what mighty deeds thou hast performed to please us.  
      Let him who knows not learn, who knows them listen: hither rides Maghavan with all his army.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun wollen wir bei Soma deine Taten verkünden, o Indra, die du von uns gern hören wirst. Es soll sie der Unkundige kennen lernen und der Kundige soll zuhören: Da fährt der Gabenreiche in voller Wehr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wolln wir, Indra, deine Thaten preisen bei diesem Safte, was von uns du gern hast, Wer nicht weiss, wisse, wer es weiss, vernehme: »Mit ganzer Heerschar fähret dieser mächt'ge.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас мы хотим провозгласить у выжатого (сомы)  
 Твои деяния, о Индра, которым ты у нас обрадуешься.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् निया꣡नं निअ꣡यनं  
 संज्ञा꣡नं य꣡त् परा꣡यणम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यो꣡ गोपा꣡ अ꣡पि तं꣡ हुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 आ॒ऽवर्त॑नम् । नि॒ऽवर्त॑नम् । यः । गो॒पाः । अपि॑ । तम् । हु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -95,34 +95,34 @@ popular;; epic anuṣṭubh (424)
 **नियानम्** । अधिकरणे ल्युट् । नियमेन यान्त्यागच्छन्ति गावोऽत्रेति नियानं गोष्ठाख्यं स्थानम्। **यत्** अस्तीति शेषः। यच्छब्दयोगात्तच्छब्दोऽध्याहर्तव्यः। हुव इति क्रियापदं सर्वत्रानुषज्यते । तत्स्थानं **हुवे** आह्वयामि । आह्वानमभिमुखीकरणं तेन चात्र तत्पूर्विका प्रार्थना लक्ष्यते । गोसहितं गोष्ठं प्रार्थय इत्यर्थः । **न्ययनम्** । भावे ल्युट् । नियमेन गृहं प्रति प्राप्तिलक्षणं गमनं यदस्ति तदपि प्रार्थये। **निवर्तनं** वने चरित्वा गृहं प्रति यदागमनमस्ति तदपि प्रार्थये । **यः** **अपि** **गोपाः** गवां पालकोऽस्ति **तम्** अपि हुवे प्रार्थये । सर्वगुणोपेता गाः प्रार्थय इत्यर्थः ॥ (वैकल्पिकपाठः -- ग-प्रार्थये । यत्र संगच्छंते इतरेतरं जानंतस्तत् संज्ञानं । अथ ततश्चरणार्थं पराचीना यत्र यंति तत्परायणं । चरित्वाधा आवर्तंते तदावर्तनं; मु-प्रार्थये । संज्ञान गोभिः सह ऐकमत्यं यदस्ति तदपि प्रार्थये । परायणं परागमनं वनं प्रति गवां चरणाय गमनं यदस्ति तदपि प्रार्थये । आवर्तनं वनचारिणीभिर्गोभिः सह प्रवर्तनं यदस्ति तदपि प्रार्थये।)
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Also the one who is the cowherd—I call him to the journeying back, the  coming back, the bringing to agreement, and the going away,  
 to the turning here and the turning back.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 call upon their herdsman, him who knoweth well their coming nigh,  
      Their parting and their home-return, and watcheth their approach and rest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Heimweg, die Rückkehr, die Eintracht, das Fortgehen, die Herkehr, die Heimkehr und auch den Hirten rufe ich an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ihr Entfernen, der ihr Nahn, Zusammen-, Auseinandergehn, Ihr Heimgehn und zur Ruhe gehn bewacht, den Hüter ruf' ich her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю то, что дорога домой, вход,  
 Согласие, что уход,  

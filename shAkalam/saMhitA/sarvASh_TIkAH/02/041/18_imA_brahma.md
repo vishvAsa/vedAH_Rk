@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ब्र꣡ह्म सरस्वति  
 जुष꣡स्व वाजिनीवति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रिया꣡ देवे꣡षु जु꣡ह्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 या । ते॒ । मन्म॑ । गृ॒त्स॒ऽम॒दाः । ऋ॒त॒ऽव॒रि॒ । प्रि॒या । दे॒वेषु॑ । जुह्व॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
@@ -98,14 +98,14 @@ genre M
 वाजिनीवति अन्नवति ऋतावरि उदकवति हेसरस्वति इमाइमानिब्रह्मब्रह्मणि हवींषि जुषस्व स्वीकुरु या यानि मन्म मननीयानि देवेषुप्रिया देवानाम्मध्येतुभ्यम्प्रियाणि देवेषुप्रियाणि वा तेत्वदर्थङ्गृत्समदाजुह्वति ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Sarasvatī**, abounding in food, abounding in water, be propitiated by these oblations, which the **Gṛtsamadas** offer as acceptable to you, and precious of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy these sacred formulations here, o Sarasvatī rich in  
 prize-winning mares,  
@@ -113,23 +113,23 @@ the thoughts dear to the gods that the Gr̥tsamadas pour for you,
 truthful one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enriched with sacrifice, accept Sarasvati, these prayers of ours,  
      Thoughts which GrtSamadas beloved of Gods bring, Holy One,to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesen Segensworten erfreue dich, o Sarasvati, an Belohnungen reiche, an den Gebeten, die dir, du Wahrhaftige, die Gritsamada´s als Opfer bringen, wie sie den Göttern lieb sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm an, o gabenreiche, hier Gebete, o Sarasvatī, Den Göttern liebe, welche wir ergiessen dir, o Heilige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся этими молитвами,  
 О Сарасвати, несущая награду,  

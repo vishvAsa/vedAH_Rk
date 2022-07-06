@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ गव्य꣡वो अ꣡नवो द्रुह्य꣡वश् च  
 षष्टिः꣡ शता꣡ सुषुपुः ष꣡ट् सह꣡स्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे꣡द् इ꣡न्द्रस्य वीरि꣡या कृता꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ष॒ष्टिः । वी॒रासः॑ । अधि॑ । षट् । दु॒वः॒ऽयु । विश्वा॑ । इत् । इन्द्र॑स्य । वी॒र्या॑ । कृ॒तानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 **गव्यवः** गोकामाः **अनवः** अनोः संबन्धिनः **द्रुह्यवः** द्रुह्योः संबन्धिनः **च** **वीरासः** वीराः **षष्टिः** **शता** शतानि । सहस्राणीत्यर्थः। **षट्** **सहस्रा** सहस्राणि च **षष्टिः** च अधि **षट्** अधिकाः षट् च **दुवोयु** दुवोयुवे । चतुर्थीलुक् । परिचरणकामाय सुदासे। ‘नमस्यति दुवस्यति' इति परिचरणकर्मसु पाठात् । **नि** सुषुपुः नितरां शेरते । निहता इत्यर्थः । तान्येतानि **विश्वा** विश्वानि **कृतानि** कार्याणि 'इन्द्रस्य **इत्** इन्द्रस्यैव **वीर्या** वीर्याणीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,36 +143,36 @@ Sixty- thousand: ṣaṣṭiḥ **śata** śat. **sahasra** ṣaṣṭir **adhi*
 Śatāni = thousands, sahasrānītyartham
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cow-seeking Anu and Druhyu people fell down to sleep—sixty  hundred, six thousand (of them).  
 (But on the other side there were just) sixty heroes with six on top, in  search of (Indra’s) favor. All these are the manly deeds of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is notable for its alliteration, making full use of all three sibilants: ṣaṣṭíḥ śatā́suṣupuḥ ṣáṭ sahásrā. The sums are tautological, as Oldenberg points out: sixty hundred and six thousand amounting to the same number. Both ‘sixty’ (ṣaṣṭíḥ) and ‘six’ (ṣáṭ) reappear in the next pāda. The standard interpr. is that these sixty-six in c are just an addition to the six thousand enumerated in the previous pāda. However, Oldenberg suggests that they constitute the opposite side, the ‘heroes’ (vīrā́saḥ) ‘seeking favor’ (duvoyú), who are fighting against those enumerated in pāda b. This interpr.
 
 has the merit of not requiring those two words to be used ironically (on the latter, see Geldner’s n. 14c), and it also makes the victory that much more impressive, that this small number, with Indra on their side, could defeat many multiples of themselves. The same point is made more forcefully in vs. 17. The same balance between the good guys and the bad guys, as it were, is found in the next vs., 15, where the Tṛtsus of ab are Indra’s allies, but their opposite numbers are found in cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Anavas and Druhyus, seeking booty, have slept, the sixty hundred, yea, six thousand,  
      And six-and-sixty heroes. For the pious were all these mighty exploits done by Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die rindergierigen Anu´s und Druhyu´s, sechzig hundert sechs tausend sechzig und noch sechs Männer sind ehrerbietig entschlafen. Alles Heldentaten, die Indra vollbracht hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kampfbegierigen Anu's und der Druhju's entschliefen sechzighundert, sechsmal tausend Und sechsundsechzig Helden zur Vergeltung; das alles sind des Indra Heldenthaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жаждущие быков ану и друхью  
 Шестьдесят сотен шесть тысяч шестьдесят  

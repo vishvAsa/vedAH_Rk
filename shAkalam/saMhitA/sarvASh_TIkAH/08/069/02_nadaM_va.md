@@ -6,7 +6,7 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नदं꣡ व ओ꣡दतीनां᳐  
 नदं꣡ यो꣡युवतीना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "उष्णिक्"
 धेनूना᳐꣡म् इषुध्यसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पति॑म् । वः॒ । अघ्न्या॑नाम् । धे॒नू॒नाम् । इ॒षु॒ध्य॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nadaṃ* ← *nadam* ← *nada*
 - \[noun\], accusative, singular, masculine
@@ -79,7 +79,7 @@ genre M
 **ओदतीनाम्** । ओदत्य उषसः  ‘ ओदती भास्वती' इति तन्नामसु पाठात् । तासां **नदम्** । उत्पादकमित्यर्थः । इन्द्रेण ह्युषस उत्पद्यन्त इन्द्रस्यैव सूर्यत्वात् । ' विवस्वदिन्द्र सुग्म्य' इति द्वादशादित्यमध्य इन्द्रः पठितः । तादृशमिन्द्रं हे यजमानाः **वः** युष्मदर्थम् । आह्वयतेत्यर्थः । तथा **योयुवतीनां** सर्वत्र मिश्रयन्तीनां नदीनां **नदं'** शब्दयितारं **वः** युष्मदर्थमाह्वयामि । **अघ्न्यानाम्** अहन्तव्यानां गवां **पतिम्** आह्वये । अथ प्रत्यक्षकृता । हे यजमान त्वं **धेनूनां** क्षीरादिना प्रीणयित्रीणां गवाम् **इषुध्यसि** अन्नमिच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M
 Author of the dawns: **anda** = utpādaka; Indrais called he author of the dawns as being identified with the sun, as one of the twelve **Ādityas**; inviolable ones:aghnyānām = cows
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You take aim at the roaring bull among your moist [=willing] females  and at the roaring bull among the females who keep hanging back,  
 at the lord of your prized milk-cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another verse with unclear reference: neither the 2nd singular subject of iṣudhyasi nor the bull and cows are clearly identified, and it is complicated by the fact that there are also two occurrences of 2nd plural vaḥ in the verse. I take the subject to be the same as that of ā́vivāsati in 1d, namely the praise hymn, with the common switch of persons. That the praise hymn is in reality inanimate is not in RVic discourse an obstacle to addressing it. The 2nd pl. vaḥ is then the same group of poets / ritual officiants as in 1a and 1c. As for the bull (nadá-, a and b) and the páti- (c), I agree with Geldner (n. 2) that it can be either Indra or soma. In the latter case, the referent is then the same as the índu- ‘drop’ that was the target of the hymn in 1ab; in the latter, the same as the unexpressed object of ā́vivāsati in 1cd. The cows are easier to account for if soma is the referent: they would then be the mixing milk as so often. If the bull is Indra, the cows may be the cows he brings us as largesse or praise hymns conceived of as cows (many words for hymn are feminine), and the sexual tinge of ab would be a nod to Indra’s hypersexuality. Probably both referents are meant.
 
@@ -106,23 +106,23 @@ On iṣudhyasi see comm. ad I.128.6 and my forthcoming article “Vedic iṣudhy
 divine target, the nadám … pátim must refer to the god receiving praise. Indra or Soma are both possible, of course.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou wishest for thy kine a bull, for those who long for his approach,  
      For those who turn away from him, lord of thy cows whom none may kill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf den Bullen eurer läufigen Kühe, auf den Bullen eurer abweisenden Kühe, auf den Gatten eurer Milchkühe erhebst du Anspruch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf euren Stier der quellenden, den Stier der sich vermischenden, Auf euren Herrn der milchenden, der Kühe zielst du opfernd hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

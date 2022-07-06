@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् उ त्वा तदि꣡दर्था  
 इ꣡न्द्र त्वाय꣡न्तः स꣡खायः  
 क꣡ण्वा उक्थे꣡भिर् जरन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 कण्वाः॑ । उ॒क्थेभिः॑ । ज॒र॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -78,43 +78,43 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** **त्वायन्तः** त्वामात्मन इच्छन्तः **सखायः** समानख्यानाः **वयं** **तदिदर्थाः** यत्त्वद्विषयं स्तोत्रं तदित्तदेवार्थः प्रयोजनं येषां तादृशाः सन्तः **त्वा** त्वां जरामहे स्तुमहे । **उ** इति पूरणः । **कण्वाः** कण्वगोत्रोत्पन्ना अस्मदीयाः पुत्रादयश्च **उक्थेभिः** उक्थैः शस्त्रैः **जरन्ते** त्वां स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Friends devoted, **Indra**, to you we, the descendants of **Kaṇva**, having your praise for our object, glorifyyou with prayers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have just this aim: as comrades devoted to you, Indra,  
 the Kaṇvas sing to you with their solemn words.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is a minor but neat example of syntactic modulation. The first pāda is in the 1st plural, the third in the 3rd plural, while the middle one is ambiguous: the plurals here can refer to vayám ‘we’ in pāda a or (coreferential with káṇvāḥ in c) serve as subject of the 3rd plural jarante. So pāda b, by being without inherent reference to grammatical person, allows "modulation" from 1st to 3rd person. I have taken pāda a as a nominal sentence, and b as having third person ref. and belonging with pāda c. But in fact the whole verse could be one sentence (as the tvā in pāda a suggests, since it should be the obj./goal of jarante in Wackernagel's Law position) with a harsh clash between vayám and jarante (which, notice, are the absolute first and last words of the verse, so we can go along as an audience on the happy assumption that the whole verse is in the 1st plural until the rude awakening of jarante).
 
 The bahuvrīhi tadídartha- is a nice example of phrasal univerbation, from tád íd ártham “just this (is the) aim.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, even this, O Indra, we implore. as thy devoted friends,  
      The Kanvas praise thee with their hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir, deine ergebenden Freunde, die nur dies eine Ziel haben, o Indra, die Kanviden besingen dich mit Lobgedichten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kanva's Enkel, deine treuen Freunde, hierauf nur gerichtet, Preisen, Indra, dich mit Sprüchen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы же, преданные тебе друзья,  
 О Индра, имеем только такую цель:  

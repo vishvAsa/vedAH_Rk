@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा दा꣡ अस्तु श्र꣡यिष्ठो+  
 अद्य꣡ त्वा वन्व꣡न् सुरे꣡क्णाः  
 म꣡र्त आनाश सुवृक्ति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मर्तः॑ । आ॒ना॒श॒ । सु॒ऽवृ॒क्तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -84,20 +84,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अग्ने **अद्य** इदानीं **क्रत्वा** कर्मणा परिचरणात्मना त्वां **वन्वन्** संभजन **दाः** हवींषि दाता यजमानः **श्रेष्ठः** अतिशयेन प्रशस्यः **अस्तु** । **सुरेक्णाः** शोभनधनश्चास्तु । तथा सः **मर्तः** मनुष्यः सुवृक्तिं त्वद्विषयां सुष्टुतिं च **आनाश** व्याप्नोतु । तव सर्वदा स्तोता भवत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the donor (of the oblation), propitiating you by his acts today, be exalted, and (rendered) very opulent; may (such) mortal be diligent in (your) praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Acccording to your will let the giver be best off, winning you today,  acquiring a good legacy.  
 The mortal has achieved a (hymn) with a good twist.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The krátu- is presumably Agni’s; cf. vs. 23 kavíkratuḥ used of him. Geldner tr.
 
@@ -106,23 +106,23 @@ krátvā as “Mit dem Gedanken,” and takes the interior pādas bc as the dire
 “with the intention”), this seems unnecessary. Although, as Geldner notes, krátvā in IV.1.1 does introduce such direct speech, it is marked there by íti, and the circumstances there are different as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich through his wisdom, noblest be the giver serving thee to-day:  
      The man hath brought his hymn of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Gedanken: "Der Geber soll der Vorzüglichste sein, der Reiche, der dich heute, o Agni, gewinnt hat der Sterbliche den Lobpreis auf dich zuwege gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilsamst sei der reiche Geber, der dich willig heut beschenket, Loblied hat der Mann ersonnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет даятель лучшим по силе духа,  
 Покоривший тебя сегодня – обладателем прекрасного имущества!  

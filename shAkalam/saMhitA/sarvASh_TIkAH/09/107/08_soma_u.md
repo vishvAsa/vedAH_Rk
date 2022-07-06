@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡म उ ष्वाणः꣡° सोतृ꣡भिर्  
 अ꣡धि ष्णु꣡भिर् अ꣡वीना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मन्द्र꣡या याति धा꣡रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अश्व॑याऽइव । ह॒रिता॑ । या॒ति॒ । धार॑या । म॒न्द्रया॑ । या॒ति॒ । धार॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -102,20 +102,20 @@ genre M
 **सोतृभिः** अभिषुण्वद्भिर्ऋत्विग्भिः **सुवानः** अभिषूयमाणः **सोमः** **अवीनां** स्नुभिः । ‘ मांस्पृत्स्नूनामुपसंख्यानम् ' (पा. सू. ६. १. ६३. १) इति सानुशब्दस्य स्नुभावः । समुच्छ्रितैर्वालैः पवित्रैः **अधि** **याति** अधिकं गच्छति । **उ** इति प्रसिद्धौ । **अश्वयेव** वडवयेव **हरिता** हरितवर्णया **धारया** **याति** । **मन्द्रया** मदकारिण्या **धारया** द्रोणकलशमभिगच्छति॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Effused by the effusers **Soma** is poured out upon the elevated fleeces; and proceeds with its green-tinted stream, as on a mare, proceeds with its exhilarating streams.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, being pressed by the pressers upon the backs of the sheep, drives with his stream as if with a golden horse, drives with his  
 delighting stream.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since áśvayā is fem., the tr. should be emended to “with a golden mare.” See Geldner’s disc. (n. 8cd) and dismissal of Roth’s proposed emendation (also rejected by Oldenberg), to bring out the comparison of the stream of soma to the urine stream of a horse, which, as Geldner points out, is still possible without emendation.
 
@@ -130,23 +130,23 @@ The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed out by pressers, Soma goes over the fleecy backs of sheep,  
      Goes, even as with a mare, in tawnycoloured stream, goes in exhilarating stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma wird von den Pressenden auf den Rücken der Schafe ausgepreßt und geht im Strome, der goldgelb wie der einer Stute ist, er geht in wohlklingendem Strome.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soma, gepresst von Pressern, eilt nun über wollne Wipfel hin, Gleich wie auf goldner Stute eilet er im Strom, im Strome, welcher Freude bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома, выжатый выжимателями,  
 На спине (цедилки) из овечьей шерсти  

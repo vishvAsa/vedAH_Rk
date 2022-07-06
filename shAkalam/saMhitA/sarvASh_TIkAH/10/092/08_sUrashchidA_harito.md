@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡रश् चिद् आ꣡ हरि꣡तो अस्य रीरमद्  
 इ꣡न्द्राद् आ꣡ क꣡श् चिद् भयते त꣡वीयसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिवे꣡-दिवे स꣡हुरि स्तन्न् अ꣡बाधितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भी॒मस्य॑ । वृष्णः॑ । ज॒ठरा॑त् । अ॒भि॒ऽश्वसः॑ । दि॒वेऽदि॑वे । सहु॑रिः । स्त॒न् । अबा॑धितः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūraś* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **सूरः** सूर्योऽपि **अस्य** इन्द्रस्य परमेश्वरस्य परमात्मन आज्ञां परिपालयितुं मन्वानः **हरितः** अश्वान् प्रेरयतीति शेषः । प्रेरयन्नध्वनि **आ** **रीरमत्** आभिमुख्येन रमयति । यः **कश्चित्** देवोऽपि सृष्टौ **भयते** बिभेति स देवः **तवीयसः** प्रवृद्धात् **इन्द्रात्** परमात्मनो भयादेव बिभेति । तथा च तैत्तिरीये पठितं - भीषास्माद्वातः पवते ' (तै. उ. २. ८) इत्यादिना । किंच **वृष्णः** कामानां वर्षितुः **भीमस्य** सर्वभयंकरस्य परमात्मनः परमेश्वरस्य **दिवेदिवे** अन्वहम् **अभिश्वसः** आभिमुख्येन श्वसतः **जठरात्** उदरादन्तरिक्षात् **सहुरिः** सहनशीलः **अबाधितः** बाधरहित: **स्तन्** स्तनयति शब्दं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Every god is in fear: cf. **Taittirīya** **Upaniṣad** 2.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=Indra] brought to a halt even the golden (horses) of the Sun, his  very own. Anyone feels fear before Indra the stronger,  
 before the snorting from the belly of the fearsome bull. Day after day  the victorious one thunders, unrepellable.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even the Sun's Bay Coursers hath lie held in check: each one fears Indra as the mightiest of all.  
      Unhindered, from the air's vault thunders day by day the loud triumphant breathing of the fearful Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die Sonne hielt ihre falben Stuten an. Vor Indra als Stärkerem fürchtet sich ein jeder, vor dem Bauche des furchtbaren Bullen, daß er ihn anschnaube. Tag für Tag siegreich donnerte er nie bedrängt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja auch der Sonne goldne Stuten hielt er an, vor Indra scheut sich jeder, als dem stärkeren, Vor seines Bauches Sausen des gewalt'gen Stiers; der Sieger donnert ungehindert Tag für Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

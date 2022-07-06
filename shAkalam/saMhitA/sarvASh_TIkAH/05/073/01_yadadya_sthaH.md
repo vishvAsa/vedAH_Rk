@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ स्थः꣡ पराव꣡ति  
 य꣡द् अर्वाव꣡ति अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् अन्त꣡रिक्ष आ꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । पु॒रु । पु॒रु॒ऽभु॒जा॒ । यत् । अ॒न्तरि॑क्षे । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -108,36 +108,36 @@ genre M
 हे **पुरुभुजा** बहुषु यज्ञेषु भोक्तारौ अधिकं रक्षितारौ वा हे **अश्विना** **यत्** यदि **अद्य** अस्मिन् काले **परावति** अत्यन्तं दूरदेशे द्युलोके **स्थः** भवथः । **यत्** वा **अर्वावति** अरणवति गन्तुं शक्ये प्रदेशे अन्तिके स्थः । **यत्** यदि **वा** अथवा **पुरु** बहुप्रदेशेषु स्थः । **यत्** यदि **अन्तरिक्षे** स्थः तस्मात्सर्वस्मात् अद्य **आ** **गतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether, **Aśvins**, you are at present far, whether you are nigh, whether you are (straying) many plural ces, or whether you are in mid-air, do you, who partake of many offerings, come hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether today you two are far distant, whether close by, o Aśvins, or whether—o you who bring many enjoyments many times—  
 (you are) in the midspace, come here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHETHER, O Asvins, ye this day be far remote or near at hand,  
      In many spots or in mid-air, come hither, Lords of ample wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Asvin heute in der Ferne, wenn ihr in der Nähe seid, oder wenn ihr vielmals Vielnützende im Luftreich seid, so kommt her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn heut ihr in der Ferne seid, wenn nahe, vielgeniessende, Wenn vielfach weilend, Ritter ihr, wenn in der Luft, so kommet her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если сегодня вы находитесь далеко,  
 Если близко, о Ашвины,  

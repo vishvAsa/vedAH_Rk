@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अइ꣡भिर् अग्ने सर꣡थं याहि अर्वा꣡ङ्  
 नानारथं꣡ वा विभ꣡वो हि꣡ अ꣡श्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अनुष्वध꣡म् आ꣡ वह माद꣡यस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 पत्नी॑ऽवतः । त्रिं॒शत॑म् । त्रीन् । च॒ । दे॒वान् । अ॒नु॒ऽस्व॒धम् । आ । व॒ह॒ । मा॒दय॑स्व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aibhir* ← *ā*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M;; repeated line
 हेअग्ने एभिः पूर्वोक्तैर्देवगणैःसार्धं सरथंसमानरथं नानारथंवा आत्मानं त्वद्रथेसमारोप्यया ह्यर्वाङ् अस्मदभिमुखमायाहि यतःकारणात् तेअश्वाः विभवः प्रभवः समर्थाः हिःप्रसिद्धौ पत्नी वतः तत्नीभिःसहितान् त्रिंशतन्त्रींश्च त्रयस्त्रिंशतन्देवांश्च अनुष्वधं बलार्थं अन्नार्थंवा आवहमादय स्व सोमेनेतिशेषः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,35 +143,35 @@ genre M;; repeated line
 The three and thirty divinities with their wives: patnīvatas triṃśatam trīṃśca devān: the first is, literally, having wives, but sometimes considered a proper name
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With these, o Agni, journey here near to us on the same chariot, or on a  different chariot, for your horses are wide-ranging.  
 Convey here the three and thirty gods along with their wives, in  
 accordance with your own will; make then rejoice!.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With these, borne on one ear, Agni, approach us, or borne on many, for thy steeds are able.  
      Bring, with their Dames, the Gods, the Three and-Thirty, after thy Godlike nature, and be joyful.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Come hither with them, O Agni, on one chariot or on many chariots, for thy horses are powerful. Bring hither, after thy nature, the thirty and the three gods with their wives, and rejoice (in the Soma).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen komm heran, o Agni, auf gleichem Wagen oder auf besondrem Wagen, denn du hast ausreichend Rosse. Die dreiunddreißig Götter mit ihren Frauen fahre aus eigener Vollmacht her und ergötze dich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit denen Agni komm auf gleichem oder verschiednen Wagen, stark sind ja die Rosse; Die drei und dreissig Götter nebst den Frauen, die fahre her freiwillig und berausch dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С ними, о Агни, на одной колеснице, приезжай сюда  
 Или на разных колесницах: ведь (у тебя) могучие кони!  

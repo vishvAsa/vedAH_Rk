@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् एनम् अ꣡ह्रुता इमा꣡  
 गि꣡रो अर्षन्ति सस्रु꣡तः  
 धेनू꣡र् वाश्रो꣡ अवीवशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धे॒नूः । वा॒श्रः । अ॒वी॒व॒श॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सम्** अर्षन्ति संगच्छन्ते **एनं** सोमम् अह्रुताः अकुटिलाः **गिरः** अस्मदीयाः स्तुतयः **सस्रुतः** सरन्त्यः । ताश्च **धेनूः** प्रीणयित्रीः स्तुतीः **वाश्रः** शब्दयन् **अवीवशत्** कामयते सोमः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e., 'our gratifying praises', pṛṇayitriḥ **stutiḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These unswerving songs, flowing together, rush to him.  
 Bellowing, he has made the milk-cows bellow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take avīvaśat here as trans./caus, as in nearby IX.32.3 -- an interpr. shared by Geldner and Renou (“… a fait mugir …”), though Renou takes the same form in 32.3 as non-caus. with acc. of goal. See comm. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him in one unitcd stream th-,se songs flow on straight forward. he,  
      Loud voiced, hath made the milch-kine low.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich vereinigend strömen zu ihm diese nicht abirrenden Reden zusammen. Der Brüller hat die Kühe zum Brüllen gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm eilen diese Lieder zu im Strom, nicht weichend; brüllend hat Der Kühe Brüllen er erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти песни, неотклоняющиеся, одним путем  
 Текут все вместе к нему.  

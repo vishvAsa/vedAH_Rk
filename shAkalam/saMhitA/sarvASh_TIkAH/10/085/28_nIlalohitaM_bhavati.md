@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नीललोहित꣡म् भवति  
 कृत्या꣡सक्ति꣡र् वि꣡ अज्यते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡तिर् बन्धे꣡षु बध्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 एध॑न्ते । अ॒स्याः॒ । ज्ञा॒तयः॑ । पतिः॑ । ब॒न्धेषु॑ । ब॒ध्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nīlalohitam* ← *nīla*
 - \[noun\]
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (380)
 **कृत्या** अभिचाराभिमानिनी देवता **नीललोहितं** भवति । नीलं च लोहितं च तस्या रूपं भवतीत्यर्थः । सा कृत्या **आसक्तिः** आसक्तास्यां संबद्धा **व्यज्यते** । त्यज्यत इत्यर्थः । तस्यां कृत्यायामपगतायाम् **अस्याः** वध्वाः **ज्ञातयः** **एधन्ते** वर्धन्ते । पतिः च **बन्धेषु** सांसारिकेषु **बध्यते** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ popular;; epic anuṣṭubh (380)
 **Kṛtyā**: goddess practising magic or magic person nified
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It [=bride’s garment] becomes dark red. [She=bride] becomes  witchcraft, a noose. She is smeared (with blood).  
 Her relatives are elated; her husband is bound in bonds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Her hue is blue and red: the fienod who clingeth close is driven off.  
      Well thrive the kinsmen of this bride the husband is bourid fast in bonds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dunkelblau und rot ist es, der Zauber, die Ansteckung malt sich darin. Es gedeihen ihre Verwandten, der Gatte wird in Fesseln gelegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dunkelroth ist die Farbe, die sich anhängende Hexe wird fortgetrieben; es gedeihen die Verwandten dieser [Braut], der Gatte wird mit festen Banden gebunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Иссиня-черной и красной бывает она.  
 Колдовская сила, загрязнения проявляются (в ней).  

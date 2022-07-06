@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुदा꣡से दस्रा व꣡सु बि꣡भ्रता र꣡थे  
 पृ꣡क्षो वहतम् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अस्मे꣡ धत्तम् पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 र॒यिम् । स॒मु॒द्रात् । उ॒त । वा॒ । दि॒वः । परि॑ । अ॒स्मे इति॑ । ध॒त्त॒म् । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 हे **दस्रा** दर्शनीयावश्विनौ **सुदासे** शोभनदानयुक्ताय राज्ञे पिजवनपुत्राय **रथे** **वसु** **बिभ्रता** युवां **पृक्षः** अन्नं **वहतं** प्रापितवन्तौ । **समुद्रात्** अन्तरिक्षात् । समुद्रम् इति अन्तरिक्षनाम। समुद्रः अध्वरम्' (नि. १. ३. १५) इति तन्नामसु' पाठात् । **उत** वा **दिवस्परि** अथवा स्वर्गात् पर्याहृत्य **पुरुस्पृहं** बहुभिः स्पृहणीयं **रयिं** धनम् **अस्मे** **धत्तम्** अस्मासु स्थापयतम् ॥ सुष्ठु ददातीति सुदाः । असुनि कृदुत्तरपदप्रकृतिस्वरत्वम् । दिवस्परि। ‘पञ्चम्याः परावध्यर्थे' (पा. सू. ८. ३. ५१) इति विसर्जनीयस्य सत्वम् । पुरुस्पृहम् ।' स्पृह ईप्सायाम् ' । चुरादिरदन्तः । पुरुभिः स्पृह्यते इति पुरुस्पृहः । कर्मणि घञ् । अतो लोपस्य स्थानिवत्त्वात् लघूपधगुणाभावः । ञित्स्वरेण उत्तरपदस्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरेण तदेव शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 Sudās is a **rāja**, son of Pījavana. Two Sudās are attested; one **Sudāsa** is of the solar line (**Viṣṇu Purāṇa**, 380); another is of the lunar line, son of **Divodāsa** (**Viṣṇu** **Purāṇa**, 454)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wondrous Aśvins, convey nourishments to the very generous one,  bringing goods on your chariot.  
 Whether from the sea or from heaven, grant much-desired wealth to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mighty Ones, ye gave Sudas abundant food, brought on your treasure-laden car;  
      So now vouchsafe to us the wealth which many crave, either from heaven or from the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet, ihr Meister Asvin, dem Freigebigen Gutes auf den Wagen und führet ihm Lebenskräfte zu! Schaffet uns Reichtum vom Meere oder vom Himmel herbei, vielbegehrten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sudas fuhrt im Gut-beladnen Wagen ihr, hülfreiche Ritter, Nahrung zu, O gebet aus dem Himmel oder aus dem Meer den vielbegehrten Reichthum uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Везя на колеснице добро для щедрого, о удивительные,  
 Доставьте (ему) подкрепления!  

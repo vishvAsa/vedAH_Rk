@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
 स्व꣡सारो जाम꣡यस् प꣡तिम्  
 महा꣡म् इ꣡न्दुम् महीयु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒हाम् । इन्दु॑म् । म॒ही॒युवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्र सर्वत्र पवमानः सोमः स्तूयते । तत्रादावृषिः सोमं प्रत्याह । मदीया अङ्गुलयस्त्वामभिषोतुं प्रेरयन्तीति । तदुच्यते । **स्वसारः** । अङ्गुलिनामैतत् । सुष्ठु कर्मसु प्रेर्यन्त ऋत्विग्भिरिति स्वसारः । **जामयः** एकस्मात्पाणेरुत्पन्नत्वात् परस्परं बन्धुभूताः **उस्रयः** कर्मार्थं निवसन्त्यः । सर्वत्र गन्त्र्य इत्यर्थः । तादृश्योऽङ्गुलयः **महीयुवः** त्वदभिषवं कामयमानाः सत्यः **सूरं** सुवीर्यं सोमे पीते वीर्यं भवतीति शोभनवीर्यकारणं वा सर्वेषां कर्मणि प्रेरकं वा तादृशं **पतिं** सर्वस्य स्थावरजङ्गमजातस्य स्वामिनं यस्माद्देवार्थमिज्यते अत एव **महां** देवेभ्यो दीयमानत्वेन महान्तं महनीयं वा **इन्दुं** ग्रहेषु स्यन्दमानं सोमं **हिन्वन्ति** प्रेरयन्ति । ‘हि वर्धनगत्योः' । स्वादिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kindred fingers diligently operating, eager to squeeze you forth, send out the invigorating the lord (of all), the mighty **Indu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The rosy (fingers) impel the sun; the kindred sisters impel their lord; those seeking the great impel the great drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identification of Soma with the Sun, noted passim above in the last two hymns, here begins the hymn.
 
@@ -113,23 +113,23 @@ pávamāna- and 3 also the impv. ā́… pavasva, but esp. in this hymn, the app
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE, glittering maids send Sura forth, the glorious sisters, close-allied,  
      Send Indu forth, their mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die morgendlichen treiben die Sonne zur Eile, die versippten Schwestern den Gatten, den großen Indra, sich geehrt fühlend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne senden morgenhell, den Gatten die verschwisterten, Den grossen Indu grossgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चका꣡र ता꣡ कृण꣡वन् नून꣡म् अन्या꣡  
 या꣡नि ब्रुव꣡न्ति वेध꣡सः सुते꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ मामृजे पु꣡र इ꣡न्द्रः सु꣡ स꣡र्वाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 जनीः॑ऽइव । पतिः॑ । एकः॑ । स॒मा॒नः । नि । म॒मृ॒जे॒ । पुरः॑ । इन्द्रः॑ । सु । सर्वाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
@@ -146,43 +146,43 @@ genre M
 **वेधसः** स्तोत्राणां विधातारः **सुतेषु** सोमेष्वभिषुतेषु **यानि** कर्माणि **ब्रुवन्ति** तानि वृत्रवधादीनि कर्माणीन्द्रः पूर्वस्मिन् काले **चकार** । **नूनं** संप्रत्यपि **अन्या** अन्यानि कर्माणि **कृणवत्** कुर्यात् । अपि च सः **इन्द्रः** **सर्वाः** **पुरः** शत्रुनगरीः **समानः** समवृत्तिः **एकः** असहायः **पतिः** **जनीरिव** जाया इव **सु** **नि** **मामृजे** सम्यक् शोधयेत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such exploits as his worshippers, when the **Soma** is effused, proclaim that he has achieved, let himnow perform; may **Indra**, equal (to the task) and unaided, possess all the riches (of the **asuras**) as a husband hiswives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He did those (deeds)—he will now do others—which the ritual adepts  proclaim at the pressings.  
 As a single common husband does his wives, Indra has dragged down all  the strongholds to submission.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ní √mṛj see comm. ad II.38.3. The idiomatic sense ‘drag down forcefully’ (as in I.140.2, where Agni drags down trees like an elephant) allows the idiom to develop a sense not only of coercion (on the part of the agent) but of submission (on the part of the object), which is probably responsible for its use of a husband’s action towards his wives.
 
 The use of sárva- rather than víśva- for ‘all’ may be a sign of lateness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These deeds he did; let him achieve new exploits, such as the priests declare at their libations.  
      Indra hath taken and possessed all castles, like as one common husband doth his spouses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat diese Taten getan und wird jetzt andere tun, die die Meister bei Soma verkünden. Wie der alleinige gemeinsame Gatte seine Frauen, so hat Indra alle Burgen heftig an sich gedrückt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies hat gethan er, andres thue jetzt er, was bei den Mahlen hoch die Ordner rühmen, Wie seine Weiber ein vermählter Gatte, so unterwirft sich alle Burgen Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он совершил эти подвиги (и) совершит теперь другие,  
 О которых говорят устроители (обряда) за выжатыми соками.  

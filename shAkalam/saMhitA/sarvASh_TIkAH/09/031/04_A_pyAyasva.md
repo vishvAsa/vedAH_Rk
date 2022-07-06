@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ प्यायस्व स꣡म् एतु ते  
 विश्व꣡तः सोम वृ꣡ष्णियम्  
 भ꣡वा वा꣡जस्य संगथे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 भव॑ । वाज॑स्य । स॒म्ऽग॒थे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,37 +85,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** त्वं वायुभिरद्भिश्च **आ** **प्यायस्व** प्रवृद्धो भव । **ते** त्वां **विश्वतः** **वृष्ण्यं** वर्षयोग्यं , बलं **समेतु** संगच्छताम् । **संगथे** संग्रामे **वाजस्य** अन्नस्य प्रापकः **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be well nourished, **Soma**; may vigour come to you from all sides, be (the giver) of strength in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Swell here, and let bullish power come together for you from all  
 sides, Soma.  
 Be at the gathering for the prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, wax great. From every side may vigorous powers unite in thee:  
      Be in the gathering-Place of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Quill auf! Von überall soll deine Bullenstärke zusammenkommen, o Soma! Sei dabei, wo der Gewinn sich anhäuft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft zusammenströmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Набухай! Пусть соберется  
 Со всех сторон твоя бычья сила, о сома!  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वा꣡ य꣡त् ते त्रेति꣡नी भू꣡द्  
 यज्ञ꣡स्य धूर्षु꣡ स꣡द्मन्  
 सजू꣡र् ना꣡वं स्व꣡यशसं स꣡चायोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒ऽजूः । नाव॑म् । स्वऽय॑शसम् । सचा॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
@@ -98,34 +98,34 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे इन्द्र **ते** तव स्वभूता **त्रेतिनी** । त्रेताग्नित्रयम् । तद्वती त्रेतिनी क्रिया । सा **यत्** यदा **ऊर्ध्वा** उन्नता प्रवृत्ता **भूत्** अभूत् । यद्योगादनिघातः । कुत्र स्थाने इति । **यज्ञस्य** यागस्य **सद्मन्** सदने । केष्विति । **धूर्षु** कर्मणां वोढृष्वृत्विक्षु । तदानीं **सजूः** यजमानेन मरुद्भिर्वा सह प्रीयमाणः सन् **आयोः** मनुष्यस्य यजमानस्य **सचा** सह तेन सां **स्वायत्तयशस्कं** यशःसाधनं  **नावं** तरणसाधनं तरणिम् । आरोहसीति शेषः । एकमेव रथं यजमान आरोहति स्वतरणार्थं तदेव तस्य साधकमारोहसीत्यर्थः । यद्वा । नावं रथं स्वयशसमायोर्यजमानस्य सचा सहायभूतः सजूस्तेन सह प्रीयमाण आरोहेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the threefold one has become upright for you upon the yokepoles  of the sacrifice, in its place,  
 then, jointly with these two [=horses?], (make?/board?) a boat that has  its own glory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When threefold flame burns high for thee, to rest on poles of sacrifice,  
      Thou with the living joyest in the self-bright Ship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Dreiheit der Opferfeuer für dich sich aufrichtet in des Opfers Joch an ihrem Sitze, so besteigst du zugleich in Gesellschaft dieser beiden das selbstherrliche Schiff.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn das dreifache Feuer sich hoch aufgerichtet hat an der Vorderseite [den Deichseln oder Zugscheiten] des Opfers vor deinem Sitze, hast du zugleich mit jenen beiden [Rossen] Gefallen an dem selbstglänzenden Schiffe [des Opfers].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ввысь поднялось для тебя тройное пламя (алтаря)  
 В дышлах жертвы на (их) сиденье,  

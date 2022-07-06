@@ -6,14 +6,14 @@ ChandaH = "उष्णिग्गर्भा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ मे अ꣡श्वियानां᳐  
 ह꣡रीणां᳐ नितो꣡शना  
 उतो꣡ नु꣡ कृ꣡त्वियानां᳐ नृवा꣡हसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उ॒तो इति॑ । नु । कृत्व्या॑नाम् । नृ॒ऽवाह॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -84,43 +84,43 @@ genre M
 ऋषिः प्रतिगृहीतावश्वावाह। **हरीणां** हरितवर्णानाम् **अश्व्यानाम्** अश्वसंघानां मध्ये **नितोशना** नितोशनौ । तोशतिर्हिंसाकम। शत्रूणामत्यन्तं बाधकृतौ **उतो** अपि च **कृत्व्यानां** युद्धकर्मणि कुशलानां च स्वकुशलमिति बाधकौ **नृवाहसा** नृवाहसौ आयुधनेतॄणां मनुष्याणां वोढारौ **ता** तावश्वौ **मे** मह्यं **नु** क्षिप्रं सौषाम्णेन वरुणा दत्तौ भवेताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Among bay horses these two are pre-eminently the destroyers (of foes), and of those eager in combat;the two strong bearers of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two are overflowing with (bounties) of horses, with fallow bays,  for me;  
 and the two (horses) that carry men (are overflowing) with those that  get results.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is puzzling, in part because the identity of “these two” (tā́) is not clear nor is the sense of nitóśana- + GEN. The lexeme ní √tuś means ‘overflow with, spill down’ with an acc. of the largesse so spilled. See, e.g., IX.63.23 ní tośase rayím "You [=Soma] spill down wealth" (cf. IV.38.1, VIII.54.8). I take the genitives here as objective gens., corresponding to the acc. in the VP. Since both áśvyānām and hárīṇāṃ refer to horses, we might want the two that are overflowing with them to be the human (or possibly divine) givers. This is possible, if we take them as the two patrons who give horses in 22ab (and not the one who gives a chariot in 22c). Or it could be a reference to Mitra and Varuṇa (so Renou). But du. nṛvā́hasā ‘carrying men’ in 23c and vājínāv árvantā “prize-winning chargers” in 24c must surely be horses (probably the silvery and silver horses of 22ab), and this suggests that the duals earlier in vs. 23 should have the same referent. This is Geldner’s solution, and he considers this expression shorthand for saying that the two horses given are worth as much as a whole herd of horses. This may be correct, but it is a bit difficult to wring it from the text.
 
 kṛ́tvya- ‘effective, getting results’ is several times used of horses (VI.2.8, IX.46.1, IX.101.2), and in this context that should be the default interpr. as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These two shall bring me further gain of troops of tawny-coloured steeds,  
      The carriers shall they be of active men of war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden Rosse sind mir Schenker von falben Roßherden und die beiden Männerfahrenden von siegentscheidenden Rossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie beide sind mir Spender gelbrother Rossescharen und Beförderer tüchtiger Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти двое – мои дарители  
 Богатств из буланых коней,  

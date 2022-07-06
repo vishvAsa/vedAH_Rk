@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ अन्य꣡त्रा चिद् अद्रिवस्  
 तुव꣡न् नो जग्मुर् आश꣡सः  
 म꣡घवञ् छग्धि꣡ त꣡व त꣡न् न ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मघ॑ऽवन् । श॒ग्धि । तव॑ । तत् । नः॒ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -100,36 +100,36 @@ genre M
 हे **अद्रिवः** वज्रवन्निन्द्र त्वं धनवान् दाता चेत्यपरिज्ञाय **नः** अस्मदीयानि **आशसः** आशंसनानि अभिलाषाः **त्वत्** त्वत्तः **अन्यत्र** देवादौ **नू** **चित्** पुरा **जग्मुः** अगच्छन् । तत्र फलं नालभन्त । इदानीं त्वं धनवान् दानशील इत्यस्माभिर्ज्ञातम् । अत एव हे **मघवन्** धनवन्निन्द्र **तव** त्वदीयं **तत्** शत्रुपुरविदारणलब्धं धनम् **ऊतिभिः** त्वद्रक्षणैः **नः** अस्मभ्यं **शग्धि** देहि । शग्धीति दानकर्मा । शक्नोतेर्लोटि छान्दसो विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, our solicitations have been formerly addressed to other gods, than you; giveus, **Maghavan**, of your (spoil and guard it) for us with (your) protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never have our hopes gone to any other place than you, o master of the  stones.  
 Bounteous one, exert your ability for us with your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Thunderer, never have our prayers gone forth to any God but thee:  
      So help us, Maghavan, with thine assistance now.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Niemals gingen unsere Wünsche zu einem anderen als dir, du Herr des Preßsteins. Mach das für uns möglich durch deine Hilfen, Freigebiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu keinem andern als zu dir gehn unsre Wünsche, Schleuderer, Durch deine Hülfen, mächtiger, gewähr sie uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда ни к кому иному, о хозяин давильных камней,  
 Чем ты, не шли наши желания!  

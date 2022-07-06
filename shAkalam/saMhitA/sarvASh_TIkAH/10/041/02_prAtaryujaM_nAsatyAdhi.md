@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातर्यु꣡जं नासत्या अ꣡धि तिष्ठथः  
 प्रातर्या꣡वाणम् मधुवा꣡हनं र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कीरे꣡श् चिद् यज्ञं꣡ हो꣡तृमन्तम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विशः॑ । येन॑ । गच्छ॑थः । यज्व॑रीः । न॒रा॒ । की॒रेः । चि॒त् । य॒ज्ञम् । होतृ॑ऽमन्तम् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātaryujaṃ* ← *prātar*
 - \[adverb\]
@@ -125,36 +125,36 @@ genre M
 हे **नासत्या** नासत्यभूतौ सत्यस्य प्रणेतारौ वा **नरा** नेतारावश्विनौ युवां **प्रातर्युजं** प्रातःकालेऽश्वैर्युज्यमानं **प्रातर्यावाणं** प्रातर्गन्तारं **मधुवाहनं** मधुनोऽमृतस्य वाहकं तं **रथम्** **अधि** **तिष्ठथः**। आरोहतमित्यर्थः । **यज्वरीः** यजनशीलाः **विशः** प्रजाः **येन** रथेन **गच्छथः** । **येन** च **कीरेश्चित्** स्तोतुरपि **होतृमन्तम्** ऋषियुक्तं **यज्ञं** गच्छथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ascend, **Nāsatyās**, your nectar-bearing chariot, which is harnessed at dawn, and set in motion atdawn, with which, leaders (of rites), you go to the people who are engaged in worship, to the priest-administeredsacrifice, **Aśvins**, of (your) adorer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Nāsatyas, you mount the early-yoked, early-driving, honey-bringing  chariot,  
 by which you go to the sacrificing clans, o men, and to the sacrifice even  of a weak man, with its Hotar, Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, O Nasatyas, mount that early-harnessed Car, that travels early, laden with its freight of balm,  
      Wherewith ye, Heroes, visit clans who sacrifice, even the poor man's worship where the priest attends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Nasatya´s besteiget den in der Frühe geschirrten in der Frühe kommenden, Honig bringenden Wagen, mit dem ihr zu den opfernden Häusern geht, ihr Herren, auch zu des Mittellosen Opfer, bei dem der Hotri zugegen ist, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den früh geschirrten Wagen, welcher frühe fährt, besteigt ihr treuen, ihn, der süsse Tränke fährt, Auf dem ihr Männer zu den frommen Stämmen kommt, ihr Ritter zu des Sängers und des Priesters Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы восходите, о Насатьи, на запрягаемую рано утром,  
 Выезжающую рано утром колесницу, везущую мед,  

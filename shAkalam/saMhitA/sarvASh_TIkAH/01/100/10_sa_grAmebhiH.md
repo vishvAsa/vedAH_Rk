@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ग्रा꣡मेभिः स꣡निता स꣡ र꣡थेभिर्  
 विदे꣡ वि꣡श्वाभिः कृष्टि꣡भिर् नु꣡ अद्य꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । पौंस्ये॑भिः । अ॒भि॒ऽभूः । अश॑स्तीः । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,41 +128,41 @@ genre M;; repeated line
 **सः** इन्द्रः **ग्रामेभिः** मरुत्संघैः सह **सनिता** फलानां प्रदाता भवति । **सः** च **अद्य** अस्मिन्नहनि **नु** क्षिप्रं **विश्वाभिः** **कृष्टिभिः** सर्वैर्मनुष्यैः **रथेभिः** इन्द्रसंबन्धिभिः रथैः करणभूतैः **विदे** विज्ञायते । अपि च **सः** इन्द्रः पौंस्येभिः स्वकीयैर्बलैः **अशस्तीः** अशंसनीयान् शत्रून् **अभिभूः** अभिभवन् वर्तते । **मरुत्वान्** सः **इन्द्रः** **नः** अस्माकं रक्षणाय **भवतु** ॥ ग्रामेभिः । ‘ बहुलं छन्दसि ' इति भिस ऐसभावः । ‘ग्रामादीनां च ' (फि. सू. ३८ ) इत्याद्युदात्तत्वम् । विदे। ‘ विद ज्ञाने'। कर्मणि लट् ।' बहुलं छन्दसि' इति विकरणस्य लुक् । ' लोपस्त आत्मनेपदेषु' इति तलोपः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, along with his attendants, is a benefactor; he is quickly recognized by all men today, through his chariots; by his manly energies he is victor over unruly (adversaries); may **Indra**, associated with the **Maruts**, be our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a winner with his hordes, a winner with his chariots, he is known by  all the communities now today.  
 He with his male powers prevails over taunts. – Accompanied by the  Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On grā́ma- as ‘horde, roving band’ see comm. ad X.27.19.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hosts on foot and cars he winneth treasures: well is he known this day by all the people.  
      With manly might he conquereth those who hate him. May Indra, girt by Maruts, be our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er gewinnt mit dem Heerbann, er mit dem Streitwagen; er wird auch heute noch von allen Völkern gekannt. Er bringt mit seinen Manneskräften die Lästerzungen zum Schweigen - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Heere und durch Wagen macht er Beute, er macht sich heute kund bei allen Völkern; Durch Manneskraft bewältigt er die Bösen, er mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он добывает с отрядами воинов, он – с колесницами.  
 Он и сегодня известен всем народам.  

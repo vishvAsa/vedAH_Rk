@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्म꣡द् एत꣡या सुकीर्तिया꣡  
 अ꣡श्विना श्वेत꣡या धिया꣡  
 व꣡हेथे शुभ्रयावाना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वहे॑थे॒ इति॑ । शु॒भ्र॒ऽया॒वा॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *smad* ← *smat*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 हे **शुभ्रयावाना** शोभनशीलगमनवन्तौ हे **अश्विना** अश्विनौ सुकीर्त्या शोभनस्तुत्या **श्वेतया** श्वेतजलया **धिया** धारयित्र्या हिरण्मयकूलवत्वादुभयकूलस्थितानां प्राणिनां धनदानेन पोषयित्र्या **एतया** नद्या **स्मत्** सुमत् शोभनं **वहेथे** युवां स्तुतिं प्राप्नुथः । एषा युवामस्तौदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M
 On its banks: the river is said to have praised the Aśvins, as the ṛṣi livedon its banks. These banks are golden, and consequently enrich those who live near
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with this good praise and bright insight  
 do you travel, o Aśvins driving beautifully.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, with that glorious fame come hither, through our brilliant song,  
      Come ye whose ways are marked with light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen mit dieser Ruhmrede, o Asvin, mit dem glänzenden Gedicht fahret ihr beide in prunkendem Zuge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf diesem hochgepriesenen, lichthellen Liede fahret her, O Ritter, die im Glanz ihr fahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с этой достойной хвалой,  
 О Ашвины, со светлой молитвой  

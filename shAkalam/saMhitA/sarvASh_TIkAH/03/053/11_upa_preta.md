@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प प्रे꣡त कुशिकाश् चेत꣡यध्वम्  
 अ꣡श्वं राये꣡ प्र꣡ मुञ्चता सुदा꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था यजाते व꣡र आ꣡ पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 राजा॑ । वृ॒त्रम् । ज॒ङ्घ॒न॒त् । प्राक् । अपा॑क् । उद॑क् । अथ॑ । य॒जा॒ते॒ । वरे॑ । आ । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 हे **कुशिकाः** कुशिकगोत्रोत्पन्ना हे पुत्राः **उप** **प्रेत** अश्वस्य समीपे प्रकर्षेण गच्छत । तत्र गत्वा केतयध्वं सावधाना भवत । यद्वा । अश्वरक्षिणः सावधानान् कुरुत । **सुदासः** पैजवनस्य राज्ञः **अश्वं** **राये** तस्य दिग्विजयेन धनलाभाय **प्र** **मुञ्चत** । **राजा** देवानां स्वामीन्द्रः **वृत्रं** कर्मविघ्नकारिणमसुरं **प्रागपागुदक्** पूर्वपश्चिमोत्तरेषु देशेषु **जङ्घनत्** भृशं हतवान् । तस्मादश्वं विमुञ्चतेति भावः। **अथ** अनन्तरं **पृथिव्याः** **वरे** उत्तमे देवयजनदेशे **यजाते** स राजा यजेत ॥ चेतयध्वम् । चिती संज्ञाने' इत्यस्य ण्यन्तस्य लोटि रूपम् । आमन्त्रितस्याविद्यमानवत्त्वेन तिङ उत्तरत्वान्न निघातः ।जङ्घनत् ।' हन हिंसागत्योः ' इत्यस्य यङ्लुकि “ नुगतोऽनुनासिकान्तस्य ' इत्यभ्यासस्य नुगागमः । तदन्ताल्लेट्यडागमः। प्राक् । अञ्चतेः क्विनि रूपम् ।“ अनिगन्तोऽञ्चतौ वप्रत्यये ' इति गतेः स्वरः। यजाते । यजतेर्लेट्याडागमः । निघातः । वरे । ' वृञ् वरणे ' इत्यस्मात् ' ग्रहवृदृनिश्चिगमश्च ' इत्यप्प्रत्ययः । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Approach, **Kuśikas**, the steed of **Sudās**; animate (him), and let him loose to (win) riches (for the **raja**); for the king (of the gods) has slain **Vṛtra** in the East, in the West, in the North, therefore let (Sudās) worship him in the best (regions) of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come forth, Kuśikas; make yourselves known. Release the horse of  Sudās, to (gain) wealth.  
 The king will smash the obstacle to the east, to the west, to the north.  Then he will sacrifice on the best part of the earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is supposed to depict the Aśvamedha of King Sudās, and the releasing of the horse in b and the smiting of obstacles in all directions in c, followed by a sacrifice in d, certainly support this interpr.
 
@@ -149,23 +149,23 @@ As Watkins points out (Dragon, p. 208), although this form of the intens. of √
 </details>
 
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come forward, Kusikas, and be attentive; let loose Sudas's horse to win him riches.  
      East, west, and north, let the King slay the foeman, then at earth's choicest place perform his worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gehet ihm zur Seite, ihr Kusika´s, gebet acht, lasset das Roß des Sudas frei, um Reichtum zu gewinnen! Der König möge den Feind im Ost, im West, im Nord schlagen; dann soll er am besten Platz der Erde opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schreitet vor, o Kuçiker, merket auf, lasset dem Rosse des Sudas die Zügel schiessen um Reichthum zu gewinnen; der König schlage den Feind im Ost, West und Nord, dann opfere er im weiten Raum der Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подойдите, о потомки Кушики, обратите внимание,  
 Отпустите коня Судаса, (чтобы он завоевал) богатство!  

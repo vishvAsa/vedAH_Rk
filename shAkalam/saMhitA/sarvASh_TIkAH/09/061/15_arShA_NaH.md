@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्षा णः सोम शं꣡ ग꣡वे  
 धुक्ष꣡स्व पिप्यु꣡षीम् इ꣡षम्  
 व꣡र्धा समुद्र꣡म् उक्थि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वर्ध॑ । स॒मु॒द्रम् । उ॒क्थ्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arṣā* ← *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** त्वं **नः** अस्माकं **गवे** **शं** सुखम् **अर्ष** क्षर । अपि च **पिप्युषीं** प्रवृद्धम् **इषम्** अन्नं **धुक्षस्व** पूरय । किंच **उक्थ्यं** प्रशस्यं **समुदम्** उदकं **वर्ध** वर्धय ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, pour prosperity upon our cattle, milk forth (for us) nutritious food; augment the laudable water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush as weal for our cow, Soma; milk out swelling refreshment.  
 Increase the sea, worthy of hymns.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, pour blessings on our kine, pour forth the food that streams with milk  
      Increase the sea that merits laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe, o Soma, zum Heil für unser Vieh! Gib strotzende Nahrung als Milch, mehre den preislichen Ozean!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heil ström', o Soma, unserm Vieh, ergiesse deinen fetten Trank, Vergrössre das berühmte Meer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Теки, сома, на благо нашего скота!  
 Доись набухшей усладой!  

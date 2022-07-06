@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रो꣡ग्रा꣡म् पीतिं꣡ वृ꣡ष्ण इयर्मि सत्या꣡म्  
 प्रयइ꣡ सुत꣡स्य हरिअश्व तु꣡भ्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धीभि꣡र् वि꣡श्वाभिः श꣡चिया गृणानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । धेना॑भिः । इ॒ह । मा॒द॒य॒स्व॒ । धी॒भिः । विश्वा॑भिः । शच्या॑ । गृ॒णा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *progrām* ← *pra*
 - \[adverb\]
@@ -119,36 +119,36 @@ genre M
 हे **हर्यश्व** इन्द्र **वृष्णे** वर्षकाय **तुभ्यम्** **उग्राम्** उद्गूर्णं **सत्यां** **पीतिं** सोमपानं **प्र** **इयर्मि** प्रेरयामि । किमर्थम् । **प्रयै** प्रगमनाय । कस्य पीतिम् । **सुतस्य** अभिषुतस्य । अतो हे **इन्द्र** **शच्या** शक्या प कर्मणा वा युक्तः **गृणानः** स्तूयमानस्त्वं **विश्वाभिः** सर्वाभिः **धेनाभिः** स्तुतिवाग्भिः विश्वाभिः **धीभिः** सर्वैः कर्मभिश्च **इह** अस्मिन् यज्ञे **मादयस्व** तृप्यस्व । ‘मद तृप्तियोगे' । आत्मनेपदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of bay steeds, showerer (of benefits), I send you strong good drink that you may proceed; **Indra**,who are glorified for your prowess, be exhilarated at this (ceremony) with praises, with all rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I rouse forth the drink of pressed soma, mighty and true, for the bull— for you to drive forth, o possessor of the fallow bays.  
 Indra, make yourself exhilarated here with our nourishing streams, while  being ably hymned with all our insightful thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To make thee start, a strong true draught I offer to thee, the Bull, O thou whom Bay Steeds carry.  
      Here take delight, O Indra, in our voices while thou art hymned with power and all our spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bringe dem Bullen einen gewaltigen Trunk zu, einen echten dir, du Falbenfahrer, vom Ausgepreßten, auf daß du dich auf die Fahrt machest. Indra, ergötze dich hier an den Reden, an allen Lobliedern, nach Kräften gepriesen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sende starken, ächten Trank des Saftes, o Füchselenker, dir dem Stier zum Schlürfen; Erfreu dich, Indra, hier des süssen Milchtranks, durch alle Lieder eifervoll gepriesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ वां सो꣡मा अप्सु꣡ आ꣡ सुता꣡ इह꣡  
 अध्वर्यु꣡भिर् भ꣡रमाणा अयंसत  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 सो꣡मासो अ꣡ति अव्य꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 यु॒वा॒ऽयवः॑ । अति॑ । रोमा॑णि । अ॒व्यया॑ । सोमा॑सः । अति॑ । अ॒व्यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -158,7 +158,7 @@ genre M
 हे **वायो** **वां** युवयोः तव च इन्द्रस्य च स्वभूताः **इमे** **सोमाः** **अप्सु** अस्मदीयेषु कर्मसु ॥ ‘ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ॥ **इह** अस्मिन् अभिषवस्थाने **सुताः** **अध्वर्युभिः** **भरमाणाः** तैर्भ्रियमाणाः गृहीता होतुं वा ह्रियमाणाः॥ कर्मणि कर्तृप्रत्ययः॥सन्तः **आ** **अयंसत** आगच्छन्त युवयोर्नियता भवन्ति । किंच त एव सोमाः **शुक्राः** शुभ्रा दीप्ताः **अयंसत** नियता भवन्ति । किंच **एते** **आशवः** व्यापकाः सोमाः **वां** युबां प्रीणयितुमिति शेषः । **तिरः** **पवित्रं** तिर्यग्भूतं सोमान्तर्धायकं वा ऊर्णामयं पवित्रम् **अभ्यसृक्षत** अभिलक्ष्य असृज्यन्त सृष्टा भवन्ति ॥ सृजेः कर्मणि लुङि  ‘ लिङ्सिचावात्मनेपदेषु ' इति सिचः कित्त्वात् गुणाभावः अमागमाभावश्च ॥ किंच **युवायवः** युवां कामयमानाः ”सोमासः  सोमाः **अव्यया** अव्ययानि अच्छिन्नानि **रोमाणि** पवित्रसंबन्धीनि अविरोमाणि । यद्वा । अव्यया अविमयानि ॥ मकारो लुप्यते । तादृशानि रोमाणि **अति** अतिक्रम्य पात्रात् गच्छन्तीति शेषः । पुनस्त एवं विशेष्यन्ते । अति अतिशयेम **अव्यया** व्ययरहिताः सोमासः सोमाः असृक्षतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -169,7 +169,7 @@ genre M
 Abhyasṛkṣata **tiraḥ** pavitram: pavitram is a term applied to bundle of **kuśa** grass, which is supposed to purify the Soma or the butter poured upon it; it is here explained the receiver of the Soma plural ced slopingly or obliquely, or a filter or a strainer made of **wool**. atiromāṇyavyayā somāso atyavyayā: Soma having gone through (ati) the unclipped (avyayāni for acchinnāni) hairs; or, **avyaya** = avimayāni, made from the sheep, sheep's wool; fall into the vessel that receives them; in the second occurrence, avyayā = unexpended, unexhausted
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These soma drinks were pressed here in the waters for you two. Being  carried, they have been guided by the Adhvaryus—o Vāyu, the  
 gleaming (soma drinks) have been guided.  
@@ -177,7 +177,7 @@ They have surged toward you two, swift across the filter,
 seeking you two beyond the sheep’s fleece—the soma drinks beyond the  sheep’s (fleece).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -187,24 +187,24 @@ As indicated in the published introduction, this tṛca is constructed in parall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma juices pressed for you in waters here, borne by attendant priests, are offered up to you: bright, Vayu, are they offered up.  
      Swift through the strainer have they flowed, and here are shed for both of you,  
      Soma-drops, fain for you, over the wether's fleece, Somas over the wether's fleece.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für euch beide sind diese Somatränke hier ins Wasser ausgepreßt. Von den Adhvaryu´s aufgetragen sind sie dargereicht, sind die klaren dir, Vayu, dargereicht. Diese sind für euch beide durch die Seihe gesprengt wie rasche Rosse, nach euch verlangend durch die Schafhaare, die Somatränke durch die Schafhaare.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Wasser sind die Soma's hier euch ausgepresst, gebracht von Dienern sind sie hier euch dargereicht, die hellen, Vaju, dargereicht; Euch beiden sind ergossen sie, die schnellen durch die Seihe hier; Zu euch hindringend durch der Widderwolle Sieb die Soma's durch das Widderfell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти соки сомы выжаты здесь для вас в водах.  
 Приносимые адхварью (соки сомы) поданы,  

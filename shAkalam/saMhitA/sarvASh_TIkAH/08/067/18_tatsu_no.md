@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सु꣡ नो न꣡व्यं स꣡न्यस  
 आ꣡दित्या य꣡न् मु꣡मोचति  
 बन्धा꣡द् बद्ध꣡म् इवादिते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब॒न्धात् । ब॒द्धम्ऽइ॑व । अ॒दि॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -99,7 +99,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तत्** बन्धकं **नः** अस्माकं **सु** सुष्ठु **नव्यं** स्तुत्यं **सन्यसे** संभजनाय भवतु । अस्माकं मोचनेन स्तुत्यं भवत्वित्यर्थः । हे **आदित्याः** अदितेः पुत्रा हे **अदिते** त्वदनुग्रहात् **यत्** **मुमोचति** मुञ्चत्यस्मान् बन्धनसाधनं पूर्वं यत् प्रतिबन्धकत्वादासीत् तदेव युष्मदनुग्रहादस्मान् मुञ्चतु । यद्वा । युष्माकं यद्रक्षणमस्मान् मुञ्चति तत् सुष्ठु स्तुत्यं संभजनाय भवत्विति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,33 +110,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 That which releases us: either the net or your favour; the net itself is supposed be thefavour of the gods to become as it were the instrumental ument of deliverance
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is the new (life) for an older (man) that will free us, o Ādityas, like a bound man from his bondage, o Aditi.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the phrase návyaṃ sányase see comm. ad VIII.24.26, with argument for supplying ‘life’ with návyam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this new mercy profit us, which, ye Adityas, frees like one,  
      Bound from his bonds, O Aditi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das wäre auch dem Ältesten von uns etwas ganz neues, ihr Aditya´s, was uns befreien könnte wie den Gefangenen aus den Banden, o Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum alten fügt dies neue ihr, Aditja's, was, o Aditi, Uns löst wie Sklaven von dem Strick,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Присоедините) же это новое (к тому, что было) раньше,  
 О Адитьи, (новое,) которое освободило бы нас,  

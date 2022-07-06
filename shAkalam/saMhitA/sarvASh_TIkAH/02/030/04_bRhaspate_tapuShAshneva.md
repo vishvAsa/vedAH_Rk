@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्पते त꣡पुषा꣡श्नेव विध्य  
 वृ꣡कद्वरसो अ꣡सुरस्य वीरा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवा꣡ जहि श꣡त्रुम् अस्मा꣡कम् इन्द्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यथा॑ । ज॒घन्थ॑ । धृ॒ष॒ता । पु॒रा । चि॒त् । ए॒व । ज॒हि॒ । शत्रु॑म् । अ॒स्माक॑म् । इ॒न्द्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 हेबृहस्पते बृहताम्परिवृढानाम्पालयितरिन्द्र तपुषातापकेनदीप्तेनवज्रेणअश्नेवअशन्याइव वृक द्वरसः संवृतद्वारस्यासुरस्यवीरान्पुत्रान् यद्वा संवृतद्वारान् असुरस्यवीरन् विध्य ताडय वृणोतेः सृवृभूषिमुषिभ्यः किदितिकर्मणिकन्प्रत्ययः द्रुगतौ अस्मादौणादिकोऽसन्प्रत्ययः वृकाणि संवृतानि द्वरांसि द्वाराणियेषां बहुव्रीहौपूर्वपदप्रकृतिस्वर्त्वम् हेइन्द्र पुराचित् पुरापिधृषता धर्षकेणवज्रेण- यथाजघन्थ त्वंहतवानेव एवमेवास्माकंशत्रुञ्जहि नाशय हन्तेर्जइतिर्होजादेशः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Bṛhaspati = **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Br̥haspati, with searing heat, as if with a stone, pierce the heroes of  the (rival) lord, with their wolfish gait.  
 Just as you also smote boldly before, so smite our rival, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is nicely framed with vocc., #bṛ́haspate … indra#, thus inviting their identification.
 
@@ -146,23 +146,23 @@ Geldner (/Witzel Gotō) take vṛ́kadvaras- as a PN, but Wackernagel’s explan
 ardhám √kṛ ‘go halves’ (also VI.44.18) strikes me as an idiomatic or slangy expression, which may fit with the rare (and also possibly lower-register) future impv. kṛṇutāt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As with a bolt, Brhaspati, fiercely flaming, pierce thou Vrkadvaras', the Asura's, heroes.  
      Even as in time of old with might thou slewest, so slay even now our enemy, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati! Triff mit deinem Feuerbrand wie mit einem Schleuderstein die Mannen des Asura Vrikadvaras. Wie du schon früher mutig erschlagen hast, so erschlag unseren Feind, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit heissem Stein, Brihaspati, durchbohre des wölfisch tück'schen bösen Geistes Mannen; Wie du vordem geschlagen kühnen Muthes, so schlage jetzt auch unsre Feinde, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брихаспати, встреть огнем, как метательным камнем,  
 Мужей Асуры, по-волчьи бегающих!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ हो꣡तारम् अध्वर꣡स्य प्र꣡चेतसं  
 व꣡ह्निं देवा꣡ अकृण्वत  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अग्नि꣡र् ज꣡नाय दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दधा॑ति । रत्न॑म् । वि॒ध॒ते । सु॒ऽवीर्य॑म् । अ॒ग्निः । जना॑य । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -120,37 +120,37 @@ genre M
 **देवाः** 'प्रचेतसं प्रकृष्टमतिमग्निम् **अध्वरस्य** यज्ञस्य **वह्निं** वोढारं **होतारं** च **अकृण्वत** अकुर्वन् । किमर्थमित्यत आह । स च अग्निः “ विधते परिचरते **दाशुषे** हविषां प्रदात्रे **जनाय** **सुवीर्यं** शोभनवीर्योपेतं **रत्नं** रमणीयं धनं **दधाति** ददात्वित्यर्थः ॥ ॥२२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods have made the wise (**Agni**) the ministrant priest, and bearer of the sacrifice. Agni giives to theman who performs the prescribed rite and presents (the offering), wealth, with virtuous **male** posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods made him, the attentive Hotar of the rite, their conveyor (of  oblations).  
 Agni grants treasure and an abundance of good heroes to him who  
 worships, to the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have the Gods appointed Priest of sacrifice, oblation-bearer, passing wise.  
      Agni gives wealth and valour to the worshipper, to folk who offer up their gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen machten die Götter zum Priester des Opfers, den Klugen, zu ihrem Fahrer. Agni bringt dem Verehrer, dem opfernden Mann das Kleinod, die Meisterschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opferfahrer machten ihn die Götter sich, den Priester, der das Opfer kennt; Dem, der ihm huldigt, schenkt er Schatz und Heldenkraft, Agni dem Manne, der ihn ehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого прозорливого боги сделали  
 Хотаром обряда, возницей (жертв).  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ वि꣡श्वा त꣡विषी सध्रि꣡अग् घिता꣡  
 त꣡व रा꣡धः सोमपीथा꣡य हर्षते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृश्चा꣡ श꣡त्रोर् अ꣡व वि꣡श्वानि वृ꣡ष्णिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तव॑ । वज्रः॑ । चि॒कि॒ते॒ । बा॒ह्वोः । हि॒तः । वृ॒श्च । शत्रोः॑ । अव॑ । विश्वा॑नि । वृष्ण्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -125,44 +125,44 @@ genre M
 हे इन्द्र **त्वे** त्वयि **विश्वा** **तविषी** सर्वं बलं **सध्र्यक्** सध्रीचीनं अपराङ्मुखं यथा भवति तथा **हिता** निहितम् । तथा **तव** **राधः** मनः **सोमपीथाय** सोमपानाय **हर्षते** हृष्यति । किंच **तव** **बाह्रोः** हस्तयोः **हितः** अवस्थितः **वज्रः** **चिकिते** अस्माभिर्ज्ञायते । अतः **शत्रोः** शातयितुर्वैरिणः **विश्वानि** सर्वाणि **वृष्ण्या** वृष्ण्यानि वीर्याणि **अव** **वृश्च** छेदनं कुरु ॥ सहाञ्चतीति सध्र्यक् । अञ्चतेः  ‘ ऋत्विक् ' इत्यादिना क्विन् ।' अनिदिताम्' इति नलोपः । समासे ‘सहस्य सध्रिः' इति सहशब्दस्य सध्र्यादेशः ।  ‘ चोः कुः' इति कुत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते ' अद्रिसध्र्योरन्तोदात्तत्वनिपातनं कृत्स्वरनिवृत्त्यर्थम् ' ( पा. सू. ६. ३. ९५. १ ) इति वचनात् सध्र्यादेशः अन्तोदात्तः । तस्य यणादेशे ‘ उदात्तस्वरितयोर्यणः' इति परस्यानुदात्तस्य स्वरितत्वम् । राधः । राप्नोति समृद्धो भवत्यनेन । राधोऽत्र मन उच्यते । असुनो नित्त्वादाद्युदात्तत्वम् । सोमपीथाय । ‘पा पाने'।  ‘ पातॄतुदिवचि° ' इत्यादिना थक्प्रत्ययः ।  ‘ घुमास्था" ' इति ईत्वम् । हर्षते । **हृष** तुष्टौ । श्यनि प्राप्ते व्यत्ययेन शप् आत्मनेपदं च । चिकिते । कित ज्ञाने'। 'छन्दसि लुङ्लङ्लिटः' इति वर्तमाने कर्मणि लिट् । बाह्वोः ।  ‘ उदात्तयणः' इति विभक्तेरुदात्तत्वम् । वृश्च ।  ‘ ओव्रश्चू छेदने । तौदादिकः । ग्रहिज्यादिना संप्रसारणम् । विकरणस्वरः । संहितायां ‘द्व्यचोऽतस्तिङः' इति दीर्घत्वम् । वृष्ण्या । वृष सेचने '। औणादिको नक्प्रत्ययः । तत्र भवानि वृष्ण्यानि।  ‘ भवे छन्दसि' इति यत्।  ‘ यतोऽनावः' इत्याद्युदात्तत्वम् ।' शेश्छन्दसि ' इति शेर्लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In you, **Indra**, is all vigour fully concentrated; you will delight to drink the **Soma**; it is known by us that the thunderbolt is deposited in your **hands**; cut off all prowess from the foe.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In you every power has been placed toward the same end. Your  
 generosity excites itself to drink the soma. Your mace has become visible, placed in your arms: hew down the  
 bullish strengths of your rival.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrasing of pāda b is conceptually backwards, strikingly so. Ordinarily Indra drinks the soma and is moved to be generous, whereas here his (latent) generosity rouses itself in anticipation of the soma.
 
 víśvāni carelessly omitted in published translation: “all the bullish strengths.” More alliteration: vṛścā́śátror áva víśvāni vṛ́ṣnyā, with sequences of v with either i or ṛ, followed by ś or ṣ (with a few more v’s and a ś thrown in).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All power and might is closely gathered up in thee; thy bounteous spirit joys in drinking Soma juice.  
      Known is the thunderbolt that lies within thine arms: rend off therewith all manly prowess of our foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dich ist alle Stärke insgesamt gelegt; deine Freigebigkeit freut sich auf den Somatrunk. Deine Keule tut sich hervor, wenn sie dir in die Arme gelegt wird. Beschneide alle Kräfte des Feindes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dich sind alle Kräfte insgesammt gelegt; dein holder Sinn erfreut sich an dem Somatrunk, Es zeigt der Blitz sich, der in deinen Armen ruht, des Feindes Kräfte haue alle du herab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вся сила сосредоточена в тебе для одной цели.  
 Твоя щедрость радуется питью сомы.  

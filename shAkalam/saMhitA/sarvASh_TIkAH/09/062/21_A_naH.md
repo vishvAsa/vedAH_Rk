@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः सो꣡मम् पवि꣡त्र आ꣡  
 सृज꣡ता म꣡धुमत्तमम्  
 देवे꣡भ्यो देवश्रु꣡त्तमम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वेभ्यः॑ । दे॒व॒श्रुत्ऽत॑मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विजः **नः** अस्माकं **देवश्रुत्तमम्** अत्यन्तं देवैः श्रूयमाणं **मधुमत्तमम्** अतिशयेन मधुमन्तं **सोमं** **देवेभ्यः** इन्द्राद्यर्थं **पवित्रे** दशापवित्रे **आ** **सृजत** साधयत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour upon the filter for us for the sake of the gods the most sweet-flavoured **Soma**, most audible to the godṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Into the filter send our soma, the most honeyed  
 for the gods, the most audible to the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour for the Gods into the sieve our Soma very rich in sweets,  
      Him whom the Gods most gladly hear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset unseren süßesten Soma auf die Seihe laufen für die Götter, der von den Göttern am liebsten gehört wird!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den gern die Götter hören, giesst den Göttern zu den süssesten, Den Soma in die Seihe ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

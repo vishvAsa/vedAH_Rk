@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ईम् एनाँ उशतो꣡ अभ्य् अ꣡वर्षीत्  
 तृष्या꣡वतः प्रावृ꣡षि आ꣡गतायाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्यो꣡ अन्य꣡म् उ꣡प व꣡दन्तम् एति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ख्ख॒ली॒कृत्य॑ । पि॒तर॑म् । न । पु॒त्रः । अ॒न्यः । अ॒न्यम् । उप॑ । वद॑न्तम् । ए॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -116,7 +116,7 @@ popular
 उशतः कामयमानान् तृष्यावतः तृष्णावत एनान्मण्डूकान्प्रावृषि वर्षर्तौ आगतायां आगते सति यद्यदा अभ्यवर्षित् पर्जन्योजलैरभिषिञ्चति ईमिति पूरणः तदानीं अक्खलीकृत्य अक्खलइति शब्दानुकरणम् अक्खलशब्दं कृत्वा पुत्रः पितरं न पितरमिव अन्यो मण्डूकः वदन्तं शब्दयन्तमन्यं मण्डूकं उपैति प्राप्नोति ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,42 +127,42 @@ popular
 Akhkhalīkṛtyā = makingn the imitative sound akhkhala, i.e. with inarticulateejaculations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When it has rained on them, who are yearning and thirsting, when the  rainy season has come,  
 saying “akhkhala” [/repeating syllables] like a son to a father (at  
 lessons), one goes up close to the other who is speaking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains the famous hapax akhkhalīkṛ́tya with the otherwise nonoccurring (in Skt.) cluster -khkh-. The word was brilliantly explained by Thieme (KZ [1951] 109 = KlSch 138). He sees it as the first attested cvi formation in Sanskrit.
 
 The base noun is akṣára- ‘syllable’, and the sense would be ‘making syllables’ -- a reference to the Indian pedagogical technique, still in use today in traditional instruction, of students repeating the text after the teacher, syllable by syllable, word by word. Here the teacher would be the father, as was most likely the original situation -- hence pitáraṃ ná putráḥ “like a son to his father.” Since even in RVic times the language used in instructing young boys would surely have been an early form of Middle Indo-Aryan, it would not be surprising that this technical pedagogical term should appear in MIA garb: akṣára should yield *akkhara- in early MIA -- and in fact does; cf. Pāli akkhara-. This has simply been transformed into the more “froggy” sounding *akhkhara- à akhkharī- in the cvi formation. This onomatopoetic rendering of a frog call is worthy to take its place beside the better known imitation in Aristophanes’s brekekekex koax koax. In fact, because the word does double duty in this passage -- imitating frog vocalizations directly, while implicitly comparing the frog chorus to the call-and-response style of childhood instruction -- our word seems even more ingenious and well chosen than the Greek. And it is quite striking that both the Greek and the Sanskrit immediately convince as froggy, though they are phonologically very distant from each other.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When at the coming of the Rains the water has poured upon them as they yearned and thirsted,  
      One seeks another as he talks and greets him with cries of pleasure as a son his father.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When showers have streamed around them, eager, thirsty, Upon the advent of the rainy season, With joyful croak the one draws near the other Who greets him, as a son comes near his father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald es auf die Gierigen, Durstigen bei Eintritt der Regenzeit geregnet hat, kommt unter lautem Quaken einer auf den Zuruf des anderen zu wie der Sohn zum Vater.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn im Beginn der Regenzeit der Regen auf die begier'gen, dürstenden herabfällt, Dann geht mit lautem Lachen einer schwatzend zum andern hin, gleichwie der Sohn zum Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как только с наступлением времени дождей  
 На них, страстно желающих (этого), мучимых жаждой, попал дождь,  

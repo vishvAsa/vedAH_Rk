@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्ति सो꣡मो अयं꣡ सुतः꣡  
 पि꣡बन्ति अस्य मरु꣡तः  
 उत꣡ स्वरा꣡जो अश्वि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । स्व॒ऽराजः॑ । अ॒श्विना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asti* ← *as*
 - \[verb\], singular, Present indikative
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयं** पुरोवर्ती **सोमः** **सुतः** मरुदर्थमस्माभिरभिषुतः **अस्ति** विद्यते । तस्मात् **अस्य** । अन्वादेशे । एनं सुतं सोमं **स्वराजः** स्वयं दीप्यमानाः । स्वतेजसा नान्यदीयेनेत्यर्थः । तादृशाः **मरुतः** **पिबन्ति** । **उत** अपि च **अश्विना** अश्विनौ च सोमं पिबतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Svarājaḥ: anepithet of **asya** (Somasya) not of **marutaḥ**; This Soma, the self-resplendent is effused (by us); Maruts drink of it,and the Aśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here it is—this pressed soma. They drink of it—the Maruts,  
 and also the self-ruling ones [=Ādityas] and the Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of this vs. seems unnecessarily over-annunciatory, with both ásti and ayám, each equivalent to “here is.” One would have been enough.
 
 There is some dissension about the referent of svarā́jaḥ, which cannot, of course, modify the (dual) Aśvins. Grassmann, flg. Ludwig, takes it as a gen. sg. referring to soma. The stem modifies the Maruts in V.58.1, and as a nom. pl. could match marútaḥ in b, except that the utá is then wrongly placed. Geldner and Oldenberg are surely right that it refers to the Ādityas (as in VII.66.6), who appear individually in the next vs. and who are esp. associated with vratá’s, mentioned already in vs. 2. Klein (DGRV I.439), however, essentially rejects this solution for reasons that aren’t clear to me and calls the issue “unresolved.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here is the Soma ready pressed of this the Maruts drink, of this  
      Self-luminous the Asvins drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma ist ausgepreßt, davon trinken die Marut, auch die Selbstherrscher, die Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma hier ist ausgepresst, es trinket ihn die Marutschar, die Ritter auch den glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Есть этот выжатый сома;  
 Его пьют Маруты,  

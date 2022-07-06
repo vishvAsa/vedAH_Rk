@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो मित्रावरुणा  
 घृतइ꣡र् ग꣡व्यूतिम् उक्षतम्  
 म꣡ध्वा र꣡जांसि सुक्रतू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 मध्वा॑ । रजां॑सि । सु॒क्र॒तू॒ इति॑ सुऽक्रतू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **सुक्रतू** शोभनकर्माणौ हे मित्रावरुणौ **नः** अस्माकं **गव्यूतिं** गवां मार्गं गोनिवासस्थानं **घृतैः** क्षरणसाधनैः पयोभिः **आ** **उक्षतं** समन्तात् सिञ्चतम् । अस्मभ्यं दोग्ध्रीर्गाः प्रयच्छतमिति भावः। **रजांसि** अस्मदावासस्थानानि **मध्वा** मधुरेण रसेन सिञ्चतम् ॥ गव्यूतिम् । गोर्यूतौ छन्दसि ' इति वान्तादेशः । मध्वा । सर्वविधीनां छन्दसि विकल्पितत्वादत्र नुमागमाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ Gavyūti = the path or sacrifice, or a field;
 Thṛtaiḥ = pure water, sprinkle our pastures with rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra and Varuṇa, sprinkle our pastureland with ghee,  
 the realms with honey, you of good resolve.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Mitra-Varuna, sapient Pair, bedew our pasturage with oil,  
      With meatb the regions of the air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra und Varuna! Besprengt unseren Weidegang mit Schmalz, mit Honig die Landstriche, ihr Wohlbedachten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Treffliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Митра-Варуна, окропите  
 Потоками жира наше пастбище,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रापर्वता बृहता꣡ र꣡थेन  
 वामी꣡र् इ꣡ष आ꣡ वहतं सुवी꣡राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡र्धेथां गीर्भि꣡र् इ꣡ळया म꣡दन्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वी॒तम् । ह॒व्यानि॑ । अ॒ध्व॒रेषु॑ । दे॒वा॒ । वर्धे॑थाम् । गीः॒ऽभिः । इळ॑या । मद॑न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāparvatā* ← *indrāparvata*
 - \[noun\], vocative, dual, masculine
@@ -113,36 +113,36 @@ genre M
 **इन्द्रापर्वता** इन्द्रश्च पर्वतश्च । हे इन्द्रापर्वतौ **बृहता** **रथेन** आगत्य **वामीः** वननीयाः **सुवीराः** शोभनपुत्रोपेताः **इषः** अन्नानि **आ** **वहतम्** अस्मदर्थं धारयतम् । प्रयच्छतमित्यर्थः । किंच हे देवौ द्योतमानौ **अध्वरेषु** अस्मत्संबन्धिषु यज्ञेषु **हव्यानि** हवनयोग्यानि पुरोडाशादीनि हवींषि **वीतं** भक्षयतम् । तथा **इळया** अस्माभिर्दत्तेन हविषा **मदन्ता** हृष्यन्तौ युवां **गीर्भिः** स्तुतिलक्षणाभिः अस्मदीयाभिर्वाग्भिः **वर्धेथां** समृद्धौ भवतम् ॥ इन्द्रापर्वता । आमन्त्रितस्य पादादित्वात् षाष्ठिकमाद्युदात्तत्वम् । सुवीराः । बहुव्रीहौ ‘वीरवीर्यौ च ' इत्युत्तरपदाद्युदात्तत्वम् । वीतम् । वी कान्त्यादिषु इत्यस्य लोटि अदादित्वाच्छपो लुक् । प्रत्ययस्वरः । वर्धेथाम् । ‘वृधु वृद्धौ ' इत्यस्य लोटि आथामो लसार्वधातुकस्वरे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Parvata**, bring hither, in a spacious car, delightful viands (genitive rative of) good progeny; partake, deities, of the oblations (offered)at (our) sacrifices, and gratified by the (sacrificial) food, be elevated by our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and “Mountain” [=Indra’s mace?], with a lofty chariot convey  hither precious nourishments, providing good heroes.  
 Pursue the oblations at our ceremonies, o gods. Become strengthened by  our hymns, becoming exhilarated on the refreshing drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ON a high car, O Parvata and Indra, bring pleasant viands, with brave heroes, hither.  
      Enjoy the gifts, Gods, at our sacrifices wax strong by hymns, rejoice in our oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Parvata! Bringet auf eurem hohen Wagen das liebe Labsal guter Söhne mit! Habt beide Gelüst nach den Spenden bei den Opfern, ihr Götter; erbauet euch an den Lobreden, an der Ilaspende euch gütlich tuend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra und Parvata, auf grossem Wagen fahrt schöne mit tapfern Männern versehene Labungen herbei; verzehrt die Tränke bei den Opfern, o Götter, werdet beide erquickt durch Lieder, durch Trank euch berauschend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра и Парвата, на высокой колеснице  
 Привезите ценные жертвенные подкрепления, состоящие из прекрасных сыновей!  

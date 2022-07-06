@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ द꣡क्षेण म꣡नसा जायते कवि꣡र्  
 ऋत꣡स्य ग꣡र्भो नि꣡हितो यमा꣡ परः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गु꣡हा हितं꣡ ज꣡निम ने꣡मम् उ꣡द्यतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यूना॑ । ह॒ । सन्ता॑ । प्र॒थ॒मम् । वि । ज॒ज्ञ॒तुः॒ । गुहा॑ । हि॒तम् । जनि॑म । नेम॑म् । उत्ऽय॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 प्रसङ्गात् सोमसूर्ययोराविर्भावमाह । **दक्षेण** प्रवृद्धेन **मनसा** सह **सं** **जायते** पृथिव्याः सम्यग्जायते । तथा **ऋतस्य** उदकस्यैव **गर्भः** गर्भस्थानीयः । यद्वा । सत्यस्य यज्ञस्य मध्ये गर्भः शब्दनीयः स्तुत्यः । स एव सोमः **परः** परस्तादन्तरिक्षे **यमा** यमेन नियमेन देवैः **निहितः** सः । सूर्याद्धि वृष्टिर्भवति । तस्मात्सोमः सूर्यात्मकतयावस्थित इत्यर्थः । एवं यूना। **ह** इत्यवधारणे। युवानावेव सन्तौ तौ **प्रथमं** जननकाले **वि** **जज्ञतुः** । अयं सोमोऽयं सूर्य इति विशेषेण ज्ञायते । तयोश्चार्धं **जनिम** जन्म **गुहा** गुहायां **हितं** निहितं भवति । तयोः **नेमम्** अर्धं च **उद्यतं** प्रकाशितं भवति । दिवा सूर्यः प्रादुर्भवति रात्री चन्द्रमा इ   ति ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,13 +148,13 @@ genre M
 This may refer to the fact that rain is caused by the sun, with which Soma is identified; the last part of the verse may refer to the sun, which appears in the daytime, and the moon, which appears at night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with skill and mind the poet is born; the embryo of truth was  deposited beyond the twins [=Heaven and Earth].  
 Those two were the first to recognize that there were two youths: the  (one) birth deposited in secret and the other held aloft.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As disc. in the published introduction, this is an omphalos vs., which provides the solution to the paradoxes set up in the earlier vss. of the hymn, albeit in veiled form -
 
@@ -178,23 +178,23 @@ Following Geldner on pāda d, the first mentioned birth “deposited in secret�
 Given this interpr. of the 2nd hemistich, it is quite possible that pādas a and b refer to these two different births: the poet born with skill and mind (a) would be the earthly Soma, equipped for his ritual role, while the one deposited beyond the twins (b) would obviously be the heavenly one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With energetic intellect the Sage is born, deposited as germ of Law, far from the Twins.  
      They being young at first showed visibly distinct the Creature that is half-concealed and half-exposed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Seher wird gleich mit dem rechten Verstand geboren. Das Kind der Wahrheit war vor den Zwillingen verborgen. Als Jüngling haben sie ihn zuerst ausfindig gemacht. Verborgen ist seine eine Geburt, die andere ist, wenn er dargebracht wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise ist durch starke Geisteskraft erzeugt, als Spross des Rechtes hinters Zwillingspaar versetzt; Sie beide, jung noch, sahen da zuerst den Spross, der im Verborgnen lag, noch nicht herausgeholt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэт рождается вместе с силой действия (и) мыслью,  
 Зародыш (вселенского) закона, спрятанный по ту сторону близнецов.  

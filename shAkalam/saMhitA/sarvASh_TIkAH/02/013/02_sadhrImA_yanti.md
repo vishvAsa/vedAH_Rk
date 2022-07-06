@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सध्री꣡म् आ꣡ यन्ति प꣡रि बि꣡भ्रतीः प꣡यो  
 विश्व꣡प्स्नियाय प्र꣡ भरन्त भो꣡जनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡स् ता꣡कृणोः प्रथमं꣡ सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒नः । अध्वा॑ । प्र॒ऽवता॑म् । अ॒नु॒ऽस्यदे॑ । यः । ता । अकृ॑णोः । प्र॒थ॒मम् । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadhrīm* ← *sadhri*
 - \[noun\], accusative, singular, masculine
@@ -139,41 +139,41 @@ genre M
 सध्री अञ्चतेर्लुक् छान्दसःसहस्यसध्रिरितिसध्र्यदेशः अन्तोदात्तत्वेननिपातितः सध्रीचीनाः पय- उदकम्परिपरितोबिभ्रतीर्बिभ्राणाः ईंएतानद्यः आय्न्तिसर्वतोगच्छन्ति तानद्योविशप्स्याय विश्वासा- मपामाश्रयभूतायसमुद्रयभोजनं भुज्यतइतिभोजनम्पयः प्रभरन्त प्रकर्षेणसम्पादयन्ति कुतएतत्तदाह प्रवताम्प्रवणवतान्निम्नगानाम्पयसामनुष्यदे कृत्यार्थेतवैकेन्केन्यन्यत्वनइतिक्रेन् प्रत्ययः अनुष्यन्दनीयो- ध्वामार्गः समानएकोहियस्तातानिसोमोत्पादननदीप्रवर्तनादीनिकर्माणिप्रथमम्पूर्वंअक्रुणोः अकरोः सतादृङ्महिमोपेतस्त्वंउक्थ्योसि सर्वैःप्रशस्योभवसि ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The aggregated (streams) come, bearing everywhere the water, and conveying it as sustenance for the asylum of all rivers, (the ocean); the samepath is (assigned) to all the descending (currents) to follow; and as he, who has (assigned) them (their course), you, (**Indra**), are especially to be praised.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward a single goal they [=the waters] come, bringing milk throughout.  They bring forth sustenance for him [=Indra?] who is all mother’s milk  (for us).  
 The downward sloping (watercourses) share the same road to flow along.  You, who did these things first, are worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pres. part. to the redupl. pres. bíbhratīḥ in a seems to contrast functionally with the finite injunc. (prá) bharanta in b, with the former expressing the regular, repetitive action of the waters bringing milk, while the latter expresses a one-time or at least notably separate action.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They come trooping together bearing milk to him, and bring him sustenance who gives support to all.  
      The way is common for the downward streams to flow. Thou who didst these things first art worthy of our lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie laufen nach dem gemeinsamen Ziel, ihre Milch mit sich führend, sie bringen ihm, der alle Formen annimmt, Nahrung: Die Ströme haben den gleichen Weg zu laufen. Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann dringen Kühe, Milch ihm bringend, in ihn ein; der alles nährt, dem bringen sie die Nahrung dar; Dieselbe Bahn zum Fliessen ist den stürzenden; der dies du thatest, du bist höchsten Preises werth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они движутся к одной цели, распространяя молоко.  
 Они приносят еду (ему,) всех кормящему (?).  

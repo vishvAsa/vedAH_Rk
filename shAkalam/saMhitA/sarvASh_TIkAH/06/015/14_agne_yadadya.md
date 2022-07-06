@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने य꣡द् अद्य꣡ विशो꣡ अध्वरस्य होतः  
 प꣡वाकशोचे वे꣡ष् टुवं꣡ हि꣡ य꣡ज्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हव्या꣡ वह यविष्ठ या꣡ ते अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ता । य॒जा॒सि॒ । म॒हि॒ना । वि । यत् । भूः । ह॒व्या । व॒ह॒ । य॒वि॒ष्ठ॒ । या । ते॒ । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -142,20 +142,20 @@ genre M
 हे **अध्वरस्य** **होतः** यज्ञस्य निष्पादक **पावकशोचे** शोधकदीप्ते एवंभूत हे **अग्ने** **अद्य** अस्मिन् काले **विशः** मनुष्यस्य यजमानस्य **यत्** कर्तव्यं तत् **वेः** कामयस्व । **हि** यस्मात् **त्वं** **यज्वा** देवानां यष्टा भवसि तस्मात् **ऋता** ऋते यज्ञे **यजासि** देवान् यज । अपि च **महिना** महिम्ना स्वमाहात्म्येन **यत्** यस्मात् **वि** **भूः** विभवसि व्याप्तो भवसि अतः कारणात् हे **यविष्ठ** युवतमाग्ने **ते** तुभ्यं त्वदर्थम् **अद्य** इदानीं **या** यानि हव्यानि जुहुमस्तानि **हव्या** हव्यानि हवींषि **वह** । स्वकीयां स्विष्टकृदाख्यां तनुं प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, minister of the sacrifice, bright wiht purifying lustre, approve of that (worship) which is this day celebrated by the instrumental tutor of the rite; you verily are the sacrificer, therefore address the worship (to the gods); and since by your greatness you are all-pervading, therefore, youngest (of the gods), accept the oblations which are today (presented) to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, pure-flamed Hotar of the ceremony, when today you pursue  (the oblations) of the clan—for you are the sacrificer—  
 you will offer true (hymns?) as sacrifice when you have become manifest  in your greatness. O youngest one, convey the oblations that are  yours today.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is a 13-syllable Triṣṭubh; as Oldenberg notes (ZDMG 55.313 and Noten), it would be possible to delete init. ágne without affecting sense, but on the other hand it is difficult to see why it would have been secondarily appended.
 
@@ -170,23 +170,23 @@ In c mahinā́fits semantically much better in the subordinate yád clause than 
 With Lüders (438) I take ṛtā́as neut. acc. pl. and supply ‘hymns’ (Lieder), rather than taking it as an instr. sg.; this interpr. is supported by VII.39.1 ṛtám … yajāti, with the neut. sg. acc. Note the phonetic interplay of v, h, and y in d havyā́vaha yaviṣṭha yā́…
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whate'er to-day thou, bright-flamed Priest, enjoyest from the man's rite-for thou art sacrificer-  
      Worship, for duly dost thou spread in greatness: bear off thine ofrerings of to-day, Most Youthful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Da du heute der Opferpriester des Stammes zu sein begehrst, du Hotri des Gottesdienstes, du Reinflammiger - denn du bist der Opfernde - so mögest du die rechten Opfer vollziehen, wenn du dich in voller Größe entfaltest. Fahre die Opferspenden, du Jüngster, die dir heute geopfert werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn zu den Menschen heut, o Opferpriester, mit hellem Licht du kommst – denn du bist Opfrer – So opfre das, was recht ist, hoch erwachsen, die Tränke fahr, die heute dein sind, jüngster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, так как сегодня ты хочешь (быть жрецом) племени,  
 О хотар обряда, о (бог) с очищающим пламенем, – ты ведь жертвователь –  

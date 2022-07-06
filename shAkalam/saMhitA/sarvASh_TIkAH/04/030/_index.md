@@ -8,7 +8,7 @@ title = "+030"
 ‘ नकिरिन्द्र ' इति चतुर्विंशत्यृचं नवमं सूक्तं वामदेवस्यार्षं गायत्रम् । अष्टमी चतुर्विंशी च द्वे अनुष्टुभौ । इन्द्रो देवता ।' दिवश्चिद्धा' इत्ययं तृच उषोदेवताक इन्द्रदेवताकश्च । तथा चानुक्रान्तं -- ‘नकिश्चतुर्विंशतिर्दिवश्चित्तृच उषस्यश्च गायत्रं ह्यष्टम्यन्त्ये चानुष्टुभौ ' इति । अतिरात्रे तृतीये पर्याये मैत्रावरुणशस्त्रे उत्तमावर्जमिदं सूक्तम् । तथा च सूत्रितं- नकिरिन्द्र त्वदुत्तर इत्युत्तमामुद्धरेत्' ( आश्व. श्रौ. ६. ४ ) इति ।।॥३॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 30 (326)  
 Indra  
@@ -21,7 +21,7 @@ ily. This theme seems to be announced in verse 3c, immediately preceding the sto
 The other deeds are related in cursory fashion, one per verse, and the abundance  of forms of utá “and” emphasizes the additive nature of the hymn, especially in its  second part. In this it resembles the catalogue hymns devoted to the Aśvins’ rescues  and favors to men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः पूषा꣡ प꣡वमानः सुरात꣡यो  
 मित्रो꣡ गछन्तु व꣡रुणः सजो꣡षसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡ष्टा सविता꣡ सुय꣡मा स꣡रस्वती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । म॒रुतः॑ । वा॒युः । अ॒श्विना॑ । त्वष्टा॑ । स॒वि॒ता । सु॒ऽयमा॑ । सर॑स्वती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **सुरातयः** सुदानाः ”सजोषसः संगताः पूषादयो देवाः **आ** **गच्छन्तु** **नः** अस्मान् अस्माकं यज्ञं वा । तथा **सुयमा** । यम्यते नियम्यत इति यमो विग्रहः । सुविग्रहा **सरस्वती** चागच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 May the genitive rous (gods) meet together to us-- Pūṣan, Pavamāna, Mitra, Varuṇa, Bṛhaspati, the Maruts, Vāyu, the Aśvins, Tvaṣṭā, savitā, and beautiful Sarasvatī. \[
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Pūṣan, self-purifying (Soma), Mitra, and Varuṇa come here in  fellowship, bringing us lovely presents—  
 and Br̥haspati, the Maruts, Vāyu, the Aśvins, Tvaṣṭar, Savitar, and  
 Sarasvatī, who is easy to guide.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since śéva in pāda a must be a vocative morphologically, its accent is unexpected in this pāda-medial position. There are two factors that might have contributed to it, which, however, cancel each other out. On the one hand, the point of contact between the simile “like a wife to her husband” and the frame is this very adj. ‘kindly’, and so an underlying fem. nom. sg. *sévā must also be assumed. This overlap between an expected nom. and the voc. addressed to the correspondent of the wife, namely Soma, may have led to the anomalous accentuation. On the other hand, if the simile was felt to be a self-contained clause, śéva would begin a new clause or at least a new syntactic unit. I’m not sure that either is sufficient, but I weakly favor the second.
 
@@ -154,23 +154,23 @@ context, it’s a 1st sg. subjunctive, and the contents of the poet’s direct s
 The sú in c is in an unusual position, but it is in the same position as sú in the preceding hymn, IX.81.3, attributed to the same poet. There Oldenberg suggested (and I followed) reading it with the following noun as cmpd. *sucetúnā. I follow the same path here, reading *sujīváse, though this time without Oldenberg’s imprimatur. The case here is not as strong. With regard to IX.81.3 the putative cmpd sucetú- exists independently, while the transmitted stem cetú- does not. Here the opposite is true: the infinitival dat. jīváse is quite well attested, whereas sujīvás- is not found. This gives me pause about the emendation, but even without it, I think that sú should be read with jīváse and with its lexical value, not merely as a particle: “… to live well.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither let Pusan Pavamana come to us, Varuna, Mitra, bountiful, of one accord,  
      The Maruts, Asvins, Vayu, and Brhaspati, Savitar, Tvastar, tractable Sarasvati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen uns Pusan, Pavamana, die Gabenreichen, Mitra und Varuna einträchtig kommen, Brihaspati, dieMarut, Vayu, die Asvin, Tvastri, Savitri, Sarasvati, die lenksame!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es komme flammend Puschan, Mitra, Varuna, an Gaben reich und gleichen Sinnes her zu uns, Der Wind, die Ritter, Maruts, der Gebetesherr Sarasvati die holde, Tvaschtar, Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да придут к нам Пушан, Панавама,  
 (Боги) с прекрасными дарами, единодушные, Митра, Варуна,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡कश् चिद् अस्य वारण꣡ उराम꣡थिर्  
 आ꣡ वयु꣡नेषु भूषति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्र प्र꣡ चित्र꣡या धिया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । इ॒मम् । नः॒ । स्तोम॑म् । जु॒जु॒षा॒णः । आ । ग॒हि॒ । इन्द्र॑ । प्र । चि॒त्रया॑ । धि॒या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛkaś* ← *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 वृकश्चित् स्तेनोपि वारणो वारयिता सर्वस्य सन्नपि उरामथिः शत्रूणां मार्गे गच्छतां प्रथिता सन्नपि अस्येन्द्रस्य वयुनेषु मार्गेषु प्रज्ञानेषु वा आभूष- ति आनुकुल्यमेव भजते अतीव हिंस्रोपीन्द्रस्यानुकूलोभवतीत्यर्थः । यद्वा अस्येति कर्मणि षष्ठी अमुमिन्द्रंउक्तरूपः वृकोपि वयुनेषु स्तोत्रेषु आभुषति सत्वमिमं नः स्तोमं जुजुषाणः प्रीयमाणः आगहि आगच्छ । हे इन्द्र चित्रया धिया कर्मणा स्तुतिलक्षणेन निमित्तेन प्र प्रकर्षेनागहि शीघ्रमागच्छ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,28 +137,28 @@ genre M
 Destroyer of travelling enemies: **vṛkas**' cidvāraṇa urāmathiḥ: from ur, to go; but, **Yāska** (**Nirukta** 5.21): the obstructing wolf, destroying the sheep; in hisways: vayuneṣu = **prajña**-neṣu, in his counsels
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even a wolf—wild and sheep-stealing—attends to its own patterns. Come here, having found pleasure in this praise song of ours with its  shimmering insight, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even the wolf, the savage beast that rends the sheep, follows the path of his decrees.  
      So graciously accepting, Indra, this our praise, with wondrous thought come forth to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der wilde Wolf, der das Schaf würgt, wartet er auf seine Zeiten. Komm du gern zu diesem Loblied von uns; Indra, erscheine mit merklicher Absicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sogar der Wolf, der wilde, welcher Schafe würgt, er fügt in Indra's Ordnung sich; So komm, o Indra, freundlich her zu unserm Lob geh vor mit schöner Achtsamkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже лютый волк, задирающий овец,  
 Считается с его обычаями.  

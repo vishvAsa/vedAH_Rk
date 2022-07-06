@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ना꣡मभिर् मरु꣡तो वक्षि वि꣡श्वान्  
 आ꣡ रूपे꣡भिर् जातवेदो हुवानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे गन्त मरुतो वि꣡श्व ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञम् । गिरः॑ । ज॒रि॒तुः । सु॒ऽस्तु॒तिम् । च॒ । विश्वे॑ । ग॒न्त॒ । म॒रु॒तः॒ । विश्वे॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,41 +129,41 @@ genre M
 हे **जातवेदः** जातप्रज्ञाग्ने **हुवानः** अस्माभिराहूयमानः सन् **विश्वान्** **मरुतः** सर्वानपि स्तोत्रभाजो हविर्भाजश्च देवान् **नामभिः** इन्द्रवरुणेत्यादिलक्षणैः **आ** **वक्षि** आवहसि । **रूपेभिः** सहस्राक्षवज्रहस्तत्वादिलक्षणै रूपैः **आ** वक्षि वहसि यज्ञम् । किंच हे **मरुतः** **विश्वे** सर्वे यूयं **यज्ञम्** अस्मदीयं यज्ञसंबन्धि हविर्वा **जरितुः** स्तोतुः संबन्धिनीः **गिरः** स्तुतिवचांसि **सुष्टुतिं** तत्साध्यां शोभनफलां स्तुतिं च । अवयविन्या: स्तुतेरेकत्वादेकवचनम् । अवयवानां बहुत्वाद्बहुवचनम् ॥ उक्ते यज्ञस्तुती अभिलक्ष्य **गन्त** आगच्छत । **विश्वे** **च** यूयम् **ऊती** ऊत्या रक्षया च सह गन्त ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring hither **Jātavedas**, who are invoked by us all, the **Maruts**, under their several names and forms; come all you Maruts, with all your protecting faculties, to the sacrifice, the paises, and the adoration of the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey all the Maruts according to their (individual) names, according  to their (individual) forms, o Jātavedas, when you are invoked.  
 The sacrifice, the hymns, and the lovely praise of the singer—all you  Maruts, all come (to these) with your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The instr. pl.s nā́mabhiḥ and rūpébhiḥ identically positioned in pādas a and b seem both to refer to individuated Maruts and also to make reference to the concept later to be called nāmarūpa ‘name and form’ referring to the pairing of words and things differentiating the separate entities of creation. This unusual distinguishing of individual Maruts is then countered by the insistent repetition of víśve ‘all’ referring to them as an undifferentiated class in pāda d. In that pāda I take the first víśve as voc. pl. with marutaḥ (accented because pāda-initial) and the 2nd as a nom. with the verb, but this grammatical separation may not be nec. if the two víśve-s are there to match ‘names’ and ‘forms’ respectively. Viśve Marutaḥ also semi-equates them with the Viśve Devāḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoked by us bring hither, jatavedas the Maruts all under their names and figures.  
      Come to the sacrifice with aid all Maruts, all to the songs and praises of the singer!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Führ alle Marut nach ihrem Namen heran, nach ihren Gestalten, o Jatavedas, wenn du darum angerufen wirst: Zum Opfer, zu den Lobesworten und zum Lobpreis des Sängers kommet alle, ihr Marut, alle in Gnaden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fahr alle Maruts her, o Wesenkenner, und lad' sie ein nach Namen und Gestalten; Zu Opfer, Liedern und zum Lob des Sängers kommt her mit Hülfe, o ihr Maruts alle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привези Марутов (в соответствии) с (их) именами - всех  
 (В соответствии) с (их) формами, о Джатаведас, когда тебя зовут.  

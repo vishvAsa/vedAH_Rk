@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अग्ने द्युम्न꣡म् आ꣡ भर  
 य꣡त् सास꣡हत् स꣡दने कं꣡ चिद् अत्रि꣡णम्  
 मन्युं꣡ ज꣡नस्य दूढि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒न्युम् । जन॑स्य । दुः॒ऽध्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -98,41 +98,41 @@ genre M
 हे **अग्ने** **तत्** **द्युम्नम्** **आ** **भर** अस्मभ्यमाहर । **यत्** **सदने** गृहे वर्तमानं **कं** **चित्** कमपि **अत्रिणम्** अत्तारं राक्षसादिकं **सासहत्** अत्यर्थमभिभवेत् । तथा **दूढ्यः** दुर्धियः पापबुद्धेः शत्रुजनस्य **मन्युं** क्रोधं यच्च द्युम्नमभिभवेत् तदाहरेत्यन्वयः । ‘ ध्यै च ' इति पृषोदरादिपाठात् दुरो रेफस्योत्वं उत्तरपदादेष्टुत्वं च ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Agni**, that power which may overcome any cannibal (entering) into our abode, thewrath of any malignant (being).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, bring here the brilliance that will overpower any devourer in  his seat  
 and the battle fury of the ill-intentioned man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the near mirror-image dyumnám (a) and manyúm (c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us the splendour, Agni, which may overcome each greedy fiend in our abode,  
      The wrath of evil-hearted folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen deinen Glanz bring uns, o Agni, der jedem im Hause befindlichen Atrin bezwingt und den Eifer des Böses sinnenden Menschen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Macht, o Agni, bring herbei, die jeden Feind in seinem Sitze übermannt, Und jedes bösen Mannes Wuth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот блеск принеси (нам), о Агни,  
 Который одолел бы любого атрина в доме,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने समिधानं꣡ यविष्ठिय  
 देवा꣡ दूतं꣡ चक्रिरे हव्यवा꣡हनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्वेषं꣡ च꣡क्षुर् दधिरे चोदय꣡न्मति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒रु॒ऽज्रय॑सम् । घृ॒तऽयो॑निम् । आऽहु॑तम् । त्वे॒षम् । चक्षुः॑ । द॒धि॒रे॒ । चो॒द॒यत्ऽम॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -131,41 +131,41 @@ genre M
 हे **यविष्ठ्य** युवतम **अग्ने** **समिधानं** सम्यगिध्यमानं **त्वां** **हव्यवाहनं** हविषां वोढारं **दूतं** **चक्रिरे** कृतवन्तः **देवाः** । त्रयाणामग्नीनां मध्ये हव्यवाहनः खलु पूर्वं देवैर्हविर्वहनाय दूतः कृतः ।  ‘ हव्यवाहनो देवानाम् ' (तै. सं. २. ५. ८.६) इति हि श्रुतिः । किंच **उरुज्रयसं** प्रभूतवेगं **घृतयोनिम्** । घृतं योनिः कारणं यस्य तम् । **आहुतं** त्वां **चोदयन्मति** । चोदयन्ती मतिर्यस्य तच्चोदयन्मति । **त्वेषं** दीप्तं **चक्षुः** उक्तलक्षणं सर्वप्रकाशकं चक्षुःस्थानीयं कृत्वा **दधिरे** देवा मनुष्याश्च । मत्या हि चक्षुश्चोद्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, young (of the deities), the gods have made you, when kindled, their messenger, the bearer of oblations; you, who are rapid in movement, and of whom butter is the source, they have made, when invoked, the brilliant eye (of the universe), instrumental gated by the understanding.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, o youngest one, did the gods make their messenger, the  conveyor of the oblations, when you were kindled.  
 They have established you of wide expanse, having your birthplace in  ghee, anointed (with ghee), as the flaring eye that propels thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods, Most Youthful Agni, have made thee, inflamed, the bearer of oblations and the messenger.  
      Thee, widely-reaching, homed in sacred oil, invoked, effulgent, have they made the Eye that stirs the thought.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, when kindled, O youngest one, the gods have made their messenger and bearer of oblations. Thee who extendest over wide spaces, who dwellest in ghee, into whom offerings are poured, they have made their eye, impetuous, stirring thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Entzündeten, du jüngster Agni, haben die Götter zu ihrem Boten und Opferfahrer gemacht. Den Breitbahnigen, Schmalzgebetteten, mit Schmalz Begossenen haben sie zum funkelnden Auge, das die Gedanken weckt, gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, den entflammten, machte sich die Götterschar zum Boten, jüngster Agni, der die Opfer fährt, Der weit sich dehnt, beträufelt Fett im Schoosse birgt, zum hellen Auge dich, der du den Geist belebst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, зажженного, о самый юный,  
 Боги сделали вестником, увозящим жертвы.  

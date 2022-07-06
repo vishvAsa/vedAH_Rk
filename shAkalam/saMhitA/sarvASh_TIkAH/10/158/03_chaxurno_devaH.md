@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡क्षुर् नो देवः꣡ सविता꣡  
 च꣡क्षुर् न उत꣡ प꣡र्वतः  
 च꣡क्षुर् धाता꣡ दधातु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 चक्षुः॑ । धा॒ता । द॒धा॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
@@ -90,36 +90,36 @@ popular
 **सविता** प्रेरकः **देवः** **नः** अस्माकं **चक्षुः** प्रकाशकमिन्द्रियमिन्द्रियानुग्राहकं तेजो वा **दधातु** । **उत** अपि च **पर्वतः** इन्द्रसहचरः पर्वताख्योऽपि देवः **नः** अस्माकं **चक्षुः** विदधातु । **धाता** सर्वस्य विधातादित्यानामन्यतमश्च **नः** अस्माकं **चक्षुः** विदधातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Savitā** grant us sight, may **Parvata** (grant) us sight; may **Dhātā** (grant) us sight.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eye [=sun] (let) god Savitar (place) for us, and the eye (let) the  Mountain;  
 the eye let the Placer place for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Savitar the God, and may Parvata also give us sight;  
      May the Creator give us sight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri soll uns das Augenlicht, und der Berg soll uns das Augenlicht, der Schöpfer uns das Augenlicht gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar geb' hellen Blick, und hellen Blick uns auch der Wind, Der Schöpfer schaff uns hellen Blick.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Способность видеть (пусть даст) нам бог Савитар,  
 Способность видеть нам также Парвата,  

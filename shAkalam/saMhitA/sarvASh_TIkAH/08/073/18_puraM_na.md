@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡रं न꣡ धृष्णव् आ꣡ रुज  
 कृष्ण꣡या बाधितो꣡ विशा꣡  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
@@ -94,7 +94,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **धृष्णो** धर्षक सप्तवध्रे त्वं **कृष्णया** आकर्षया **विशा** प्रवेशयन्त्या पेटिकया **बाधितः** त्वं ततो निर्गत्य तामेव **आ** **रुज** पीडय अश्विनोरनुग्रहात् । एवं स्वयं स्वात्मानं प्रेष्यति । अथवा गोपवनः सप्तवध्रिमेवं ब्रवीति । **वां** युवयोः **अवः** रक्षणं गमनं वा समीपे । तत्र त्रिषु वर्गेषु “ अन्ति षत्' इत्युत्तरोऽर्धर्चोऽन्वितपदाध्याहारेण योज्यः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,29 +105,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Addressed by Saptavadhri to himself or by Gopavana toSaptavadhri; distrissed by: kṛṣṇayā ye bādhito viśā = distressed by the black people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Break (it) like a fortress, o bold one, you who were oppressed by the  black clan.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By the black band encompassed round, break it down, bold one, like a fort.  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerbrich, du Kühner das Gefängnis wie eine Burg, von dem schwarzen Stamme bedrängt!" - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerbrich ihn, o kühner, wie die Burg, wenn du von der schwarzen Schar bedrängt wirst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 – О отважный, проломи, словно крепость,  
 Осажденный черным племенем!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ यज्ञे꣡न द꣡क्षिणया स꣡मक्ता  
 इ꣡न्द्रस्य सख्य꣡म् अमृतत्व꣡म् आनश꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तेभ्यः॑ । भ॒द्रम् । अ॒ङ्गि॒र॒सः॒ । वः॒ । अ॒स्तु॒ । प्रति॑ । गृ॒भ्णी॒त॒ । मा॒न॒वम् । सु॒ऽमे॒ध॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -123,7 +123,7 @@ genre M
 नाभानेदिष्ठः स्वपित्रा मनुनाभ्यनुज्ञातः सत्रमासीनानङ्गिरसोऽभ्येत्य मां प्रतिगृह्णीत युष्मभ्यं यज्ञं प्रज्ञापयामीति यदुक्तवान् तदुच्यते । इतिहासस्तु इदमित्थेति पूर्वसूक्ते ' नाभानेदिष्ठं शंसति नाभानेदिष्ठं वै मानवम्' ( ऐ. ब्रा. ५. १४ ) इति ब्राह्मणानुसारेण  ‘ मनुः पुत्रेभ्यो दायं व्यभजत् ' ( तै. सं. ३. ३. ९. ४ ) इति तैत्तिरीयब्राह्मणानुसारेण च सप्रपञ्चमभिहितः । तथा चास्या ऋचोऽयमर्थः । **यज्ञेन** यजनीयेन हविषा **दक्षिणया** ऋत्विग्भ्यो देयया **समक्ताः** संगताः **ये** अहीनैकाहसत्राणि कुर्वन्तो यूयम् **इन्द्रस्य** **सख्यं** सखिकर्म अत एव **अमृतत्वम्** अमरणधर्मं देवत्वम् **आनश** आनशिध्वे प्राप्ताः स्थ । अश्नोतेर्लिटि मध्यमे व्यत्ययेन बहुवचनम् । ‘अश्नोतेश्च' इति नुडागमः । यद्वृत्तयोगादनिघातः । हे **अङ्गिरसः** **तेभ्यः** **वः** युष्मभ्यं **भद्रं** कल्याणं कर्म **अस्तु** । हे **सुमेधसः** सुप्रज्ञा हे अङ्गिरसः ते यूयमिदानीमागत **मानवं** मनोः पुत्रं मां **प्रति** **गृभ्णीत** प्रतिगृह्णीत । मयि प्रतिगृहीते सति यज्ञं साधु करिष्यामीति तदर्थं प्रतिगृह्णीत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 **Manuḥ** putrebhyodāyam vyabhajat: **Taittirīya** **saṃhitā** 3.1.9.4; upon you, Aṅgirasas; cf. the legend in the ṛca 1 of previoussūkta. Nābhānediṣṭha is represented as undertaking to complete their sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who, anointed with the sacrifice and the priestly gift, achieved the  fellowship of Indra and immortality,  
 for you, o Aṅgirases, let there be good fortune. – Accept the descendant  of Manu, o you of good wisdom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE, who, adorned with guerdon through the sacrifice, have won you Indra's friendship and eternal life,  
      Even to you be happiness, Angirases. Welcome the son of Manu, ye who are most wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ihr durch euer Opfer, euren Opferlohn ausgezeichnet, des Indra Freundschaft und die Unsterblichkeit erlangt habt, euch, Angiras`, soll Glück werden! - Nehmet mich, den Manusproß auf, ihr Weisen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr mit Opfer und mit Opferlohn, versehn des Indra Gunst erlangt habt und Unsterblichkeit, Euch werde hohes Glück zu Theil, o Angiras; o nehmt, ihr weisen, freundlich auf den Menschensohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы,) что отмечены жертвой (и) наградой за жертву  
 (И) достигли дружбы с Индрой, бессмертия,  

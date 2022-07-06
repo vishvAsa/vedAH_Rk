@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सक्ष꣡णो दिवियः꣡ क꣡ण्वहोता  
 त्रितो꣡ दिवः꣡ सजो꣡षा वा꣡तो अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आजिं꣡ न꣡ जग्मुर् आशु꣡अश्वतमाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पू॒षा । भगः॑ । प्र॒ऽभृ॒थे । वि॒श्वऽभो॑जाः । आ॒जिम् । न । ज॒ग्मुः॒ । आ॒श्व॑श्वऽतमाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 अत्र लिङ्गोक्तदेवता: । प्र जग्मुरिति संबन्धः। **सक्षणः** यज्ञं सेवमानः शत्रूणां सोढा वा **दिव्यः** दिवि भवः **कण्वहोता** । कण्वा ऋषयो मेधाविनो वा होतार आह्वातारो यस्य स तथोक्तः । **त्रितः** त्रिषु क्षित्यादिस्थानेषु तायमानः **दिवः** सूर्येण सह **सजोषाः** समानगतिः समानप्रीतिर्वा **वातः** उक्तलक्षणकः वायुः **अग्निः** **पूषा** पोषक एतन्नामा **भगः** च **प्रभृथे** प्रभरणवत्यस्मिन्यज्ञे उक्ताः सर्वदेवाः **विश्वभोजाः** विश्वरक्षकाः कृत्स्नात्तारो वा **आश्वश्वतमाः** प्रकृष्टगमनाश्ववतां श्रेष्ठाः सन्तः **आजिं** **न** संग्राममिव **प्र** **जग्मुः** प्रगच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 **Trita**: may be an epithet of Vāyu; the threefold, pervading the three regions of heaen, mid-air and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The heavenly victor with Kaṇva as Hotar, (i.e.,) Trita from heaven, and  the Wind, and Agni in joint enjoyment,  
 Pūṣan, and all-nourishing Bhaga have come to the (ritual) presentation  like those with swiftest horses to a contest.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The parade of ill-assorted divinities and semi-divinities continues. The sequence is made more muddled by the fact that Trita is always a shadowy figure, who is probably (but not certainly) the same as Āptya in vs. 9 (Āptya being Trita’s usual patronymic) and Trita in 10 and who is probably (but not certainly) the referent of pāda a here: “the heavenly victor with Kaṇva as Hotar.” If he is the referent of pāda a, it is slightly odd that he is both qualified as ‘heavenly’ (divyáḥ) and said to be ‘from heaven’ (diváḥ, pāda b). It might be best, with Geldner (/Witzel Gotō) to take diváḥ as the place-from-which of all the figures mentioned; however, Wind and Agni are normally associated with the midspace and the earth respectively, and Pūṣan and Bhaga are not particularly heavenly deities. It’s worth noting that divyá- continues the poet’s habit of using deriv. -ya-adjectives in place of (or perhaps here beside) their nominals, and so the doubling divyá- / diváḥ might not be so odd after all.
 
@@ -151,23 +151,23 @@ In our vs. there is no finite verb to construe it with in tmesis, but note the l
 The loc. prabhṛthé and the acc. ājím both serve as goal with jagmuḥ -- another ex. of the poet’s penchant for slightly off-balance parallels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The heavenly Victor, he whose priest is Kanva, Trta with Dyaus accordant, Vata, Agni,  
      All-feeding Pusan, Bhaga sought the oblation, as they whose steeds are fleetest seek the contest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Himmel sind einträchtig der himmlische Antreiber Trita, dessen Opferpriester Kanva war, und Vata, Agni, Pusan, Bhaga, der Allspeisende zu der Darbringung ausgezogen wie die Besitzer der schnellsten Rosse zum Wettlauf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Sieger, welchem Kanva opfert, des Himmels Trita, Feuer, Wind vereinigt; Beim Opfer allernährend Bhaga, Puschan, sie kamen wie zum Kampf mit schnellsten Rossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отправились небесный покоритель, чей хотар Канва,  
 Трита с неба, единодушный (с богами). Вата, Агни,  

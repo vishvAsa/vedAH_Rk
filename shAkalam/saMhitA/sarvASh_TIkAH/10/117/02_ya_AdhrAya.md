@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आध्रा꣡य चकमाना꣡य पित्वो꣡  
 अ꣡न्नवान् स꣡न् रफिता꣡योपजग्मु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उतो꣡ चित् स꣡ मर्डिता꣡रं न꣡ विन्दते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स्थि॒रम् । मनः॑ । कृ॒णु॒ते । सेव॑ते । पु॒रा । उ॒तो इति॑ । चि॒त् । सः । म॒र्डि॒तार॑म् । न । वि॒न्द॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -133,41 +133,41 @@ popular
 **यः** पुरुषः स्वयम् **अन्नवान्** **सन्** अपि **आध्राय** । अधार्यतेऽसावित्याध्रो दुर्बलः । तस्मै **पित्वः** पितूनन्नानि **चकमानाय** कामयमानाय । चकमानः कान्तिकर्मा । **रफिताय** । रफतिर्हिंसार्थः । दारिद्र्येण हिंसिताय **उपजग्मुषे** गृहं प्रत्यागताय अतिथये **मनः** आत्मीयमन्तःकरणम् अदाने **स्थिरं** **कृणुते** कुरुते । मनःस्थैर्थकरणेन तं क्लेशयतीत्यर्थः ॥ कृणुते । कृवि हिंसाकरणयोः'। धिन्विकृण्व्योरच्च' इत्युप्रत्ययः । करोतेर्वा व्यत्ययेन श्नुः ।  ‘ विकरणस्वरः सतिशिष्टोऽपि लसार्वधातुकस्वरं न बाधते ' (पा. म. ६. १. १५८, ११ ) इति लसार्वधातुकस्वरः । न केवलं क्लेशकरणम् अपि तु **पुरा** तस्य पुरस्तादेव **सेवते** भोगान् । **सः** अपि **मर्डितारम्** आत्मनः सुखयितारं **न** **विन्दते** । न कुत्रापि लभते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who, possessed of food, hardens his heart against the feeble man craving nourishment, againstthe sufferer coming to him (for help), and pursues (his won enjoyment even) before him, that man finds noconsoler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever—when a man, weak and broken, has approached desiring  nourishment—though he has food,  
 hardens his heart, though he always used to be his friend, he also finds  no one to show mercy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man with food in store who, when the needy comes in miserable case begging for bread to eat,  
      Hardens his heart against him-even when of old he did him service-finds not one to comfort him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who, of abundant food possessed, makes hard his heart Towards a needy and decrepit suppliant Whom once he courted, come to pray to him for bread: A man like this as well finds none to pity him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer selbst Speise hat, aber gegen den Armen, der Speise begehrend, klappernd kommt, sein Herz verhärtet und doch früher sein Freund war, auch der findet keinen, der sich seiner erbarmet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer einem Dürft'gen, der nach Trunk verlangend lechzt, dem Armen, der ihm hungernd naht, nicht Nahrung gibt, Sein Herz verhärtet gegen den, der flehend kommt, der findet nimmer den, der seiner sich erbarmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, имея еду для бедного, жаждущего пищи,  
 Убогого, пришедшего (просить),  

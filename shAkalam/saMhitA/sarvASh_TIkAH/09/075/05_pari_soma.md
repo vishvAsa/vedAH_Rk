@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि सोम प्र꣡ धनुवा सुअस्त꣡ये  
 नृ꣡भिः पुनानो꣡ अभि꣡ वासयाशि꣡रम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡भिर् इ꣡न्द्रं चोदय दा꣡तवे मघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ये । ते॒ । मदाः॑ । आ॒ह॒नसः॑ । विऽहा॑यसः । तेभिः॑ । इन्द्र॑म् । चो॒द॒य॒ । दात॑वे । म॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे **सोम** **स्वस्तये** अविनाशाय **परि** **प्र** **धन्व** पात्राणि परितः प्रगच्छ । धविर्गत्यर्थः । किंच **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **पुनानः** पूयमानस्त्वम् **आशिरम्** आश्रयणं  क्षीरादिकम् **अभि** **वासय** आच्छादय । संयोजयेति यावत् । **आहनसः** । ‘ आहननवन्तो वचनवन्तः । (निरु. ४,१५ ) इति यास्कः । शत्रूणामाभिमुख्येन हन्तारोऽभिहन्यमाना अभिषूयमाणाः स्तुतिमन्तः शब्दवन्तो वा **विहायसः** । महन्नामैतत् । महान्तः **ते** त्वदीयाः **ये** **मदाः** मदहेतवो रसाः सन्ति **तेभिः** तैः सोमैरस्माभिर्दीयमानैः  **मघं** मंहनीयं धनमस्मभ्यं **दातवे** दातुम् **इन्द्रं** **चोदय** प्रेरय ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,7 +141,7 @@ genre M
 Loud-sounding: āhanasas = having slaughter, or having utterance; or, being struck or pressed; or, having praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run forth all around, Soma, for our well-being. As you are being purified  by men, dress yourself in the milk-mixture.  
 With those exhilarating drinks of yours, luxuriant and expansive,  
@@ -149,28 +149,28 @@ stimulate Indra to give us bounty.
 1310 IX.76–77
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (n. 5c) insists that āhanáso víhāyasaḥ is gen. sg. with te, rather than nom. pl. with mádāḥ (Grassmann, Renou, published translation). That is of course possible, but the difference is fairly minor whether the phrase modifies Soma or his exhilarating drinks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, Soma, flow to bring prosperity: cleansed by the men, invest thee with the milky draught.  
      What gladdening drinks thou hast, foaming, exceeding strong, even with these incite Indra to give us wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne im Kreise weiter, o Soma, zum Heile, von den Männern geläutert lege das Kleid der Milch an! Deine Räusche, des Üppigen in voller Körperkraft, mit denen feure Indra an, daß er eine Gabe schenke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, ströme rings hervor zum Wohlergehn, geklärt von Männern hülle ein die warme Milch, Und welche Tränke kräftig dir und schwellend sind, mit denen treibe Schatz zu geben Indra an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Беги вперед кругами, о сома, (нам) на счастье,  
 Очищаемый мужами, оденься в добавление молока!  

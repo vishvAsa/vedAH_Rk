@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दितिर् नो दि꣡वा पशु꣡म्  
 अ꣡दितिर् न꣡क्तम् अ꣡द्वयाः  
 अ꣡दितिः पातु अं꣡हसः सदा꣡वृधा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 अदि॑तिः । पा॒तु॒ । अंह॑सः । स॒दाऽवृ॑धा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
@@ -88,7 +88,7 @@ genre M;; line affected by realignment
 **नः** अस्माकं **पशुम्** **अदितिः** अदीना अखण्डनीया वा देवमाता **दिवा** अहनि **पातु** रक्षतु । तथा **अद्वयाः** बाह्याभ्यन्तरभेदेन प्रकारद्वयरहिता सर्वदैकप्रकारा कपटरहिता सा **अदितिः** **नक्तं** रात्रौ चास्मदीयं गवादिपशुजातं रक्षतु । तथास्मानपि **अंहसः** पापात् पातु रक्षतु । केन साधनेन । **सदावृधा** सर्वदा वृद्धिमतात्मीयेन रक्षणेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M;; line affected by realignment
 Free from duplicity: advayāḥ = kapaṭarahitā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Aditi (protect) our livestock by day, let Aditi the unduplicitous (do  so) by night;  
 let ever-strengthening Aditi protect us from narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There may be phonetic play between dívā in a and ádvayāḥ in b, faciliated by the áditiḥ that opens each pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aditi guard our herd by day, Aditi, free from guile, by night,  
      Aditi, ever strengthening, save us from grief!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aditi, die zuverlässige, soll am Tag, Aditi des Nachts unser Vieh behüten, die Aditi uns vor Ungemach, die immer gedeihliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Heerden schütz' uns Aditi bei Tage, Aditi bei Nacht, Vor Noth die treue Aditi, erquickend stets.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адити (пусть хранит) наш скот днем,  
 Адити недвоедушная – ночью,  

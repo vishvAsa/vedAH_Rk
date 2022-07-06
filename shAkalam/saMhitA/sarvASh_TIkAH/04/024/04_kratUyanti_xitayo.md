@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्रतूय꣡न्ति क्षित꣡यो यो꣡ग उग्र  
 आशुषाणा꣡सो मिथो꣡ अ꣡र्णसातौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡न् ने꣡म इन्द्रयन्ते अभी꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । यत् । विशः॑ । अव॑वृत्रन्त । यु॒ध्माः । आत् । इत् । नेमे॑ । इ॒न्द्र॒य॒न्ते॒ । अ॒भीके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratūyanti* ← *kratūy*
 - \[verb\], plural, Present indikative
@@ -120,21 +120,21 @@ genre M
 हे **उग्र** उद्गूर्णबलेन्द्र **आशुषाणासः** व्याप्नुवन्तः **क्षितयः** मनुष्याः । क्षितय इति मनुष्यनामैतत् । **अर्णसातौ** सस्यादिफलसिद्ध्यर्थमुदकलाभे निमित्ते सति **मिथः** परस्परं **योगे** संबन्धे सति **क्रतूयन्ति** क्रतूनि कर्माणीच्छन्ति । **यत्** यदा **युध्माः** योधयित्र्यः **विशः** प्रजाः **अभीके** युद्धे । अभीक इति संग्रामनामैतत् । **सम्** **अववृत्रन्त** संवर्तन्ते परस्परं संगच्छन्ते **आदित्** तदानीमेव **नेमे**  केचन भाग्यवन्तो योधकाः **इन्द्रयन्ते** युद्धे इन्द्रमिच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful **Indra**, men variously dispersed, come mutually together to celebrate sacred rites for the sake of obtaining rain; when men who are combatants assemble in battle, there are some of them who rely upon Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The settled peoples show their resolve at the hitching up (for battle), o  powerful one, while they are gasping on opposite sides in the winning  of the flood.  
 
 When the battling clans have rolled together, just then do those on the  one side seek Indra at the moment of confrontation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ‘winning of the flood’ (árṇasātau) presumably refers, as Geldner, etc., point out, to the battle to control water resources, esp. dwelling places near water.
 
@@ -153,23 +153,23 @@ Note also the similarity of the predicates of the two néme constructions: indra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong God! the folk at need put forth their vigour, striving together in the whirl of battle.  
      When warrior bands encounter one another some in the grapple quit themselves like Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Völker sinnen auf Kriegsfahrt, du Gewaltiger, gegenseitig sich aneifernd zum Kampf um Wasserplätze. Wenn die streitbaren Stämme aneinandergeraten sind, dann verlangen die einen im entscheidenden Augenblick nach Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Völker mühn sich bei dem Werk, o Starker, im Kampfgewühle aufeinander schnaubend; Wenn handgemein der Streiter Scharen wurden, dann wirken diese Indra-gleich im Treffen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

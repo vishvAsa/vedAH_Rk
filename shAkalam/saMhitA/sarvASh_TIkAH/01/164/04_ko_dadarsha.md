@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ ददर्श प्रथमं꣡ जा꣡यमानम्  
 अस्थन्व꣡न्तं य꣡द् अनस्था꣡ बि꣡भर्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 को꣡ विद्वां꣡सम् उ꣡प गात् प्र꣡ष्टुम् एत꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भूम्याः॑ । असुः॑ । असृ॑क् । आ॒त्मा । क्व॑ । स्वि॒त् । कः । वि॒द्वांस॑म् । उप॑ । गा॒त् । प्रष्टु॑म् । ए॒तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ popular
 एवं प्रपञ्चस्य कालायत्ततां प्रतिपाद्य तस्य कारणभूतस्य परमेश्वरस्य अविषयत्वमाह। **कः** **ददर्श** को द्रष्टुं शक्नुयात् । कदा । **प्रथमं** सृष्टेः पूर्वम् । अव्याकृतावस्थायामित्यर्थः । किम् । **जायमानं** प्रथमभावविकारमापन्नम् । उत्पद्यमानं प्रपञ्चमित्यर्थः । दुर्ज्ञेयत्वे हेतुमाह । **यत्** यस्मात् **अस्थन्वन्तम्** अस्थिमन्तं सशरीरम् । उपलक्षणमेतत् । कार्यभावमापन्नमित्यर्थः । **अनस्था** अस्थिरहिता अशरीरा सांख्यप्रसिद्धा प्रकृतिः वेदान्तप्रसिद्धा ईश्वरायत्ता माया **बिभर्ति** गर्भवदन्तर्धारयति । अव्याकृतावस्थायाम् अनस्थः अशरीरः परमेश्वरो बिभर्ति । यदा केवलः परमेश्वरो मायाशबलितः सन्निदं जगन्निर्मितवान् उत्पत्तिसमये देहादिसहितस्य कस्यचिदभावात् को ददर्श । तदानीं मनो नित्यमात्मा च नित्यः तत्संयोगात् कश्चिदात्मा जानातीति चेत् सोऽपि न संभवतीत्यत आह । **भूम्याः** संबन्धि पार्थिवं स्थूलशरीरं **असुः** प्राणः तदुपलक्षितं सूक्ष्मशरीरं **असृक्** शोणितम् । एतत्सप्तधातूपलक्षकम् । यद्यपि शरीरं पञ्चभूतात्मकं तथापि भूतद्वयप्रत्यक्षत्वात् तदपेक्षयोक्तम् । **आत्मा** तैः संबद्धश्चेतनः **क्व** **स्वित्** कुत्रास्ते । न कश्चिदस्तीत्यर्थः । नान्यत्किंचन मिषत् ' (ऐ. आ. २. ४. १ ) इति श्रुतेः । **विद्वांसं** जगत्कारणविषयज्ञानवन्तमन्यं गुर्वेदिकम् **एतत्** कारणं **प्रष्टुं** **कः** शिष्योऽल्पमतिः **उप** **गात्** उपगच्छति । तादृशो देहेन्द्रियसंघातरूपः आत्मा तस्मिन् समये कुत्रास्ति । प्रष्टा प्रतिवक्ता च उभावपि नास्तीत्यर्थः, न तु तद्द्वितीयमस्ति ततोऽन्यद्विभक्तं यत्पश्येत्' इति श्रुतेः । यद्वा । प्रथमं प्रथमभाविनं जगतः कारणभूतं को ददर्श कः साक्षात्करोति । जायमानमस्थन्वन्तं मनुष्यम् अनस्थिकः परमेश्वरः सशरीरमशरीर: यत् यस्मात् बिभर्ति । द्रष्टुरपि तत्कार्यत्वात् इति भावः । शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ Asuḥ = breath, the **sūkṣma śarīra**, or suble body;
 **Asṛj** = blood, the aggregate elements of which the body is formed; ātmā or **cetanā**, the thinking principle, although connected with gross and subtle form, is nowhere perceptible as a separate object, and not to be apprehended, either by pupil or teacher
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has seen the first one [=the Sun/Agni] as he is being born, when his  boneless (mother) [=the Waters?] carries the one having bones [=the  one who is a living being]?  
 Where is the life, blood, and breath of the earth? Who will approach the  knowing one to ask this?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who hath beheld him as he sprang to being, seen how the boneless One supports the bony?  
      Where is the blood of earth, the life, the spirit? Who may approach the man who knows, to ask it?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer hat den zuerst Geborenen gesehen, da die Knochenlose den Knochigen trägt? Wo ist denn der Erde Lebensgeist, Blut und Seele? Wer trifft einen Wissenden um danach zu fragen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer hat den zuerst geborenen Knochenbegabten [das Urwesen] gesehen, wenn ihn der knochenlose [Himmel oder Erdboden oder beides vereint im Chaos] trägt? Wo ist doch der Erde Athem, Blut, Seele? Wer mag zu dem wissenden gehen, dies zu erfragen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто видел первого рождающегося,  
 Когда костистого несет бескостная?  

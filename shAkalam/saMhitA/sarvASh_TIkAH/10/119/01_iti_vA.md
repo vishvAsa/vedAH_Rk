@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ति वा꣡ इ꣡ति मे म꣡नो  
 गा꣡म् अ꣡श्वं सनुयाम् इ꣡ति  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iti*
 - \[adverb\]
@@ -93,7 +93,7 @@ popular
 **इति** **वै** इति खलु **इति** एवंप्रकारेण **मे** मदीयं **मनः** वर्तते । तं प्रकारं दर्शयति । **गामश्वं** च **सनुयां** स्तोतृभ्यः प्रयच्छामि **इति** । षणु दाने । तानादिकः। इतिशब्दो हेतौ । यस्मात् **कुवित्** बहुवारं **सोमस्य** सोमम् **अपां** पीतवानस्मि ॥  ‘ क्रियाग्रहणं कर्तव्यम्' इति सोमस्य संप्रदानसंज्ञा। चतुर्थ्यर्थे बहुलम् ' इति षष्ठी। ‘ पा पाने ' । लुङि • गातिस्था ' इति सिचो लुक् । कुविद्योगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,28 +108,28 @@ Iti = yasmāt;
 Kuvit =bahuvāram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes for sure! Yes (says) my mind: I could win cow and horse—yes! – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS, even this was my resolve, to win a cow, to win a steed:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So, ja so ist mein Sinn: Ich möchte Rind und Roß verschenken. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hierhin und dorthin steht mein Sinn, geb' ich ein Ross? geb' ich ein Rind? Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, вот так у меня на душе  
 Я хотел бы добыть быка (и) коня –  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा तु꣡ अस्य꣡ गिर्वणः  
 सुत꣡स्य पूर्वपा꣡ इव  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 चा꣡रुर् म꣡दाय पत्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ऽकृतस्य । र॒सिनः॑ । इ॒यम् । आ॒ऽसु॒तिः । चारुः॑ । मदा॑य । प॒त्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -103,7 +103,7 @@ genre M
 हे **गिर्वणः** गीर्भिवननीय स्तुतिभिः संभजनीयेन्द्र **सुतस्य** अभिषुतस्य **अस्य** सोमस्य । ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥ इममभिषुतं सोमं **तु** क्षिप्रं **पिब** । तत्र दृष्टान्तः । **पूर्वपाइव** । पूर्वः सर्वेभ्यो देवेभ्यः प्रथमभावी सन् पिबतीति पूर्वपा वायुः । स इवैन्द्रवायवे मुख्ये ग्रहे सर्वेभ्यो देवेभ्यः पूर्वं पिबेत्यर्थः। कीदृशस्य सोमस्य । **परिष्कृतस्य** अभिषवादिभिः संस्कृतस्य ॥ ‘ संपर्युपेभ्यः' (पा. सू. ६. १. १३७ ) इति करोतेर्भूषणे सुट् ।' परिनिविभ्यः' (पा. सू. ८. ३. ७० ) इति सुटः षत्वम् ॥ **रसिनः** रसवतः । अपि च **इयमासुतिः** अयमासवो मदकरः **चारुः** शोभनः सोमरसः **मदाय** हर्षाय हर्षजननाय **पत्यते** संपद्यते । पत्लृ गतौ ' । यद्वा । पत्यतिरैश्वर्यकर्मा । मदाय मदस्य पत्यते ईष्टे । मदोत्पादने शक्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,29 +114,29 @@ genre M
 The first drinker Vāyu: pūrvapāḥ = vāyu, who,having arrived first in the race, drank the **Soma** before the other gods. The allusion is to the principal grahalibation, called Aindravāyava, which **Indra** and Vāyu share together: **Aitareya** **Brāhmaṇa** 2.25
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink of this pressed (soma), you who long for songs, like the first  drinker [=Vāyu].  
 This pressed drink of the juicy, thoroughly prepared (soma), cherished  for invigoration, acts the lord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So drink, thou Lover of the Song, as the first drinker, of this juice.  
      This the outpouring of the savoury sap prepared is good and meet to gladden thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink doch von diesem Saft, du Lobbegehrender, wie der Vortrinker! Dieses Tränklein des zubereiteten würzigen Soma, das angenehme, reicht zum Rausche hin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trink von dem gepressten Trank, als erster Trinker, liederfreut; Dies Saftgebräu des Tranks, des wohlbereiteten, ist lieblich, recht zum Rausch geschickt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испей же его, о любитель песен,  
 Этого выжатого (сомы) – как пьющий первым!  

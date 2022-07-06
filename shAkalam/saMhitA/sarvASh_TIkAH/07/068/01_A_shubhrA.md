@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ शुभ्रा यातम् अश्विना सुअ꣡श्वा  
 गि꣡रो दस्रा जुजुषाणा꣡ युवा꣡कोः  
 हव्या꣡नि च प्र꣡तिभृता वीतं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ह॒व्यानि॑ । च॒ । प्रति॑ऽभृता । वी॒तम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -102,36 +102,36 @@ genre M
 हे **शुभ्रा** दीप्तौ **स्वश्वा** शोभनाश्वौ हे **अश्विना** अश्विनौ **आ** **यातम्** अस्मद्यज्ञमागच्छतम् । **दस्रा** शत्रूणामुपक्षपयितारौ युवां **युवाकोः** युवां कामयमानस्य मम **गिरः** स्तुतीः **जुजुषाणा** सेवमानौ भवतमिति शेषः । न केवलं स्तुतिं किंतु नः अस्मदीयानि **प्रतिभृता** संभृतानि **हव्यानि** हवींषि **च** **वीतं** भक्षयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Illustrious **Aśvins**, lords of handsome horses, come hither, propitiated; Dasrasā, by the praises of youradorer, and partake of our consecrated oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beautiful Aśvins, wondrous ones, journey here with your good horses,  enjoying the songs of him seeking you  
 and the oblations brought before you. Pursue our (offerings).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME, radiant Asvins, with your noble horses: accept your servant's hymns, ye Wonder-Workers:  
      Enjoy oblations which we bring to greet you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahret her, ihr schmucken Asvin, mit schönen Rossen und freuet euch der Lobreden eures Dieners, ihr Meister, und der angebotenen Opferspenden: Kommet gern zu uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her ihr schönen, rossbegabten Ritter, nehmt an, ihr hehren, des Getreuen Lieder, Verzehret unsre dargebrachten Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, о красивые Ашвины, обладатели прекрасных коней,  
 Наслаждаясь, о чудесные, песнями того, кто вам предан,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अङ्ग꣡ त्वा ब्र꣡ह्मणः सोम गोपां꣡  
 कि꣡म् अङ्ग꣡ त्वाहुर् अभिशस्तिपां꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मद्वि꣡षे त꣡पुषिं हेति꣡म् अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 किम् । अ॒ङ्ग । नः॒ । प॒श्य॒सि॒ । नि॒द्यमा॑नान् । ब्र॒ह्म॒ऽद्विषे॑ । तपु॑षिम् । हे॒तिम् । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -137,14 +137,14 @@ popular;; repeated line
 **किमङ्ग** इति प्रसिद्धिद्योतकौ निपातौ । हे **सोम** **त्वा** त्वां खलु **ब्रह्मणः** मन्त्रस्य कर्मणो वा ब्रह्मजातेर्वा **गोपां** गोपायितारम् **आहुः** कथयन्ति पुराविदः । तथा **नः** अस्माकम् **अभिशस्तिपाम्** अभिशंसकेभ्यः शत्रुभ्यः पालयितारं त्वामेव खल्वाहुः । यद्वा। अङ्गेत्यभिमुखीकरणे । अङ्ग हे सोम किंकारणं त्वां ब्रह्मणो गोपामाहुः । किंकारणं वा त्वामस्माकमभिशस्तिपामाहुः । **निद्यमानान्** परैर्दूष्यमणान् **नः** अस्मान् **अङ्ग** हे सोम किंकारणं **पश्यसि** । त्वामेव सर्वे ब्रह्मणो रक्षकं शत्रुभ्यः पालकं च कथयन्ति अतोऽस्मासु परैर्निन्द्यमानेष्वौदासीन्यं तवानुचितम् । अतः **ब्रह्मद्विषे** ब्राह्मणद्वेष्ट्रे तस्मै **तपुषिं** तापकं **हेतिम्** आयुधम् **अस्य** क्षिप । प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Why have they called you, **Soma**, the protector of pious prayer? Why (have they called you) our defender against calumny? Why do you behold us subjected to reproach? Cast your destroying weapon upon the adversary of the **brahman**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do they not (call) you, o Soma, the herdsman of the sacred  
 formulation? Do they not call you our protector from taunt?  
@@ -152,28 +152,28 @@ Do you not see us being scorned? Hurl your scorching lance at the
 hater of the formulation!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (and to a lesser extent Renou) takes the repeated kím aṅgá as “why?” But this seems more insulting to Soma than seems wise if we are urging him to strike our enemies. I take it rather as marking a series of solemn rhetorical question setting out the reasons why Soma should come to our aid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Why then, O Soma, do they call thee keeper of prayer? Why then our guardian from reproaches?  
      Why then beholdest thou how men revile us? Cast thy hot dart at him who hates devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Warum nennen sie gerade dich, o Soma, den Hüter der feierlichen Rede, warum nennen sie gerade dich, o Soma, unseren Schützer gegen üble Nachrede? Warum siehst du mit an, wie gerade wir geschmäht werden? Schleudere dein glühendes Geschoß auf den Feind der feierlichen Rede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Warum doch nennt man dich der Andacht Hüter? warum dich den, der vor dem Fluch uns schützet? Warum doch, Soma, siehst du uns verachtet? schiess heisse Pfeile auf den Andachthasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что же тебя, о Сома, защитником молитвы,  
 Что же тебя называют нашим защитником от наговора?  

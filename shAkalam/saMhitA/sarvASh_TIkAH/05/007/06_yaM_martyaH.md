@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् म꣡र्तियः पुरुस्पृ꣡हं  
 विद꣡द् वि꣡श्वस्य धा꣡यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡स्ततातिं चिद् आय꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । स्वाद॑नम् । पि॒तू॒नाम् । अस्त॑ऽतातिम् । चि॒त् । आ॒यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -86,41 +86,41 @@ genre M
 **यम्** अग्निं **पुरुस्पृहं** बहुभिः स्पृहणीयं **विदत्** वेत्ति । **मर्त्यः** यजमानः **विश्वस्य** **धायसे** सर्वस्य व्यापारार्थं **पितूनाम्** अन्नानां **प्र** **स्वादनं** प्रकर्षेण स्वादूकर्तारम् **अस्ततातिम्** अस्ते गृहे निवासकर्तारम् **आयवे** अन्नार्थं यजमानार्थं वा । **चित्** पूरण:॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Him who is the desired of many, the (devout) man recognizes as the sustainer of all, the flavour of food, the provider of dwellings for men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The much coveted one whom the mortal finds in order that he suckle  everyone [=both gods and mortals],  
 (the one who is) the sweetening of foods and also the homeland for Āyu,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom, sought of many, mortal man hath found to be the Stay of all;  
      He who gives flavour to our food, the home of every man that lives.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He whom the mortal has acquired, the much-desired (god), for the refreshment of every one, the sweetener of nourishment, the homestead for the Âyu—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Vielbegehrten, den der Sterbliche fand zur Sättigung eines jeden, den Schmackhaftmacher der Speisen, die wahre Heimstätte für den Ayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der vielbegehrte, den der Mensch zur Pflege alles Gutes fand, Er, der verschönt die Tränke all, und der des Menschen Heimat ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) многожеланный (бог), которого смертный  
 Нашел для (жертвенного) насыщения каждого,  

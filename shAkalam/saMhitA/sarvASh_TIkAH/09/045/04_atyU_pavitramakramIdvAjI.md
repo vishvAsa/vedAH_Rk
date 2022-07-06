@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्य् ऊ पवि꣡त्रम् अक्रमीद्  
 वाजी꣡ धु꣡रं न꣡ या꣡मनि  
 इ꣡न्दुर् देवे꣡षु पत्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दुः॑ । दे॒वेषु॑ । प॒त्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aty* ← *ati*
 - \[adverb\]
@@ -85,44 +85,44 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्दुः** सोमः **वाजी** अश्वः **यामनि** गमने **धुरं** **न** रथस्य धुरं यथा तथा **पवित्रम्** **अति** **अक्रमीत्** अतिगच्छति । **देवेषु** देवानां मध्ये **पत्यते** गच्छति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** passes the filter as a horse in going passes the shaft (of the chariot); he proceeds to the midst of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has stepped beyond the filter, like a prize-seeking (horse) the  
 chariot-pole on its course.  
 The drop plays the lord among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am not certain what the simile depicts, what it means for a horse to “step beyond the chariot-pole (dhúr-).” Renou suggests that the dhúr- is being used here as a pole to mark the limit of the racecourse, but I do not know of another example of dhúr- in this sense. It’s possible that the simile depicts the moment when, as a horse is starting to pull a chariot, it's been hanging back from its tackle and now it pulls on it and pushes beyond it, but my ignorance about the interaction between horses and their tackle makes this interpr.
 
 uncertain. Note also that dhúram here phonetically echoes dúraḥ ‘doors’ in 3c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He through the sieve hath passed, as comes a courser to the pole, to run  
      Indu belongs unto the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist über die Seihe gelaufen wie das Rennpferd auf der Fahrt über die Deichsel hinaus. Der Saft gehört den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon drang er durch das Sieb hindurch, wie auf der Fahrt ein Ross durchs Joch, Der Indu ist der Götter Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

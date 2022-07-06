@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ त्वा म꣡दा बृह꣡द् इन्द्र स्वधाव  
 इमे꣡ पीता꣡ उक्षयन्त द्युम꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मत्सरा꣡सो जर्हृषन्त प्रसा꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒हाम् । अनू॑नम् । त॒वस॑म् । विऽभू॑तिम् । म॒त्स॒रासः॑ । ज॒र्हृ॒ष॒न्त॒ । प्र॒ऽसह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -114,20 +114,20 @@ genre M
 हे **स्वधावः** अन्नवन् **इन्द्र** **मदाः** मदकराः **ते** **इमे** **पीताः** सोमाः **द्युमन्तं** दीप्तिमन्तं **त्वा** त्वां **बृहत्** अत्यन्तम् **उक्षयन्त** सेचयन्तु । अपि च हे इन्द्र त्वां **मत्सरासः** मदकराः सोमाः **जर्हृषन्त** भृशं हर्षयन्तु । कीदृशम् । **महां** महान्तं प्रभूतम् **अनूनं** सर्वगुणैर्न्यूनतारहितम् । संपूर्णगुणमित्यर्थः । **तवसं** प्रवृद्धं **विभूतिं** विभवन्तं **प्रसाहं** शत्रूणामभिभवितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Abounding in food, **Indra**, let these exhilarating draughts copiously bedew you, the resplendent; let the inebriating juices delight you who are mighty, deficient in no (excellence), powerful, manifold, the overcomer of foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The exhilarating drinks here, when drunk, make you grow loftily  brilliant, o autonomous Indra;  
 the invigorating drinks continually excite (you who are) great, without  deficiency, powerful, distinguished, conquering—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
 <details open><summary><h2>03-05ab ...{Loading}...</h2></summary>
 
@@ -137,23 +137,23 @@ mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root �
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These gladdening drops, O Indra, Self-sustainer, quaffed shall augment thee in thy mighty splendour.  
      Yea, let the cheering drops delight thee greatly, great, perfect, strong, powerful, all-subduing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Rauschtränke mögen getrunken, du eigenartiger Indra, dich den Glänzenden hoch aufrichten; den Großen, Vollkommenen, Starken, Mächtigen mögen die berauschenden kampffroh machen, den Siegreichen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Indra, stärkten mächtig diese Tränke, selbstherrlicher, den lichten die getrunknen, Den grossen, starken, ganz vollkommnen, mächt'gen erfreuten die berauschenden, den Sieger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти пьянящие соки, о Индра самосущий,  
 Когда они выпиты, пусть сильно укрепят тебя, блистательного;  

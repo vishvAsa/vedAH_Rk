@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् वाम् पृक्षा꣡सो म꣡धुमन्त ईरते  
 र꣡था अ꣡श्वास उष꣡सो वि꣡उष्टिषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सु꣡वर् ण꣡ शुक्रं꣡ तनुव꣡न्त आ꣡ र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒प॒ऽऊ॒र्णु॒वन्तः॑ । तमः॑ । आ । परि॑ऽवृतम् । स्वः॑ । न । शु॒क्रम् । त॒न्वन्तः॑ । आ । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -120,36 +120,36 @@ genre M
 **पृक्षासः** पृक्षास्त्रिविधान्नवन्तः **मधुमन्तः** सोमरसोपेताः **अश्वासः** अश्वयुक्ताः **वां** युवयोः **रथाः** । यद्वा । मधुमन्तः पृक्षा रथा अश्वासोऽश्वाः **उषसो** **व्युष्टिषु** व्युच्छनेषु सत्सु **उत्** **ईरते** उन्मुखं गच्छन्ति । किं कुर्वन्तः । **परीवृतं** परितो व्याप्तं **तमः** **आ** सर्वतः **अपोर्णुवन्तः** अपाकुर्वन्तः **स्वर्न** आदित्य इव **शुक्रं** दीप्तं **रजः** तेजश्च **तन्वन्तः** । आकारश्चार्थे । यद्वा । रजोऽन्तरिक्षं शुक्रं दीप्तं तन्वन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your food-bearing, **Soma**-laden, well-horsed chariots, appearing at the opening of the dawn, scattering the surrounding darkness like the sun, and spreading bright radiance over the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up rise your nourishing, honey-filled chariots and horses at the break  of dawn,  
 uncovering the darkness that had been confined and stretching like the  blazing sun through the dusky realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth come your viands rich with store of pleasant meath, and cars and horses at the flushing of the dawn,  
      Stripping the covering from the surrounded gloom, and spreading through mid-air bright radiance like the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Wagen und Pferde, die stärkungs- und honigreichen, fahren bei Hellwerden der Morgenröte aus, die ganz zugedeckte Finsternis aufdeckend, wie die helle Sonne den Raum durchziehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf steigen eure honigreichen Ladungen, und Ross und Wagen bei der Morgenröthe Strahl; Durch Licht enthüllend die verdeckte Finsterniss, die Luft durchstrahlend gleich dem hellen Sonnenschein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши колесницы (и) кони, несущие питательную силу, богатые медом,  
 Отбывают, когда зажигается заря,  

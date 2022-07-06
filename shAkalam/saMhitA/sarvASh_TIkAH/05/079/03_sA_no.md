@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ नो अद्या꣡भर꣡द्वसुर्  
 वि꣡ उछा दुहितर् दिवः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 यो इति॑ । वि । औच्छः॑ । सही॑यसि । स॒त्यऽश्र॑वसि । वा॒य्ये । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -125,21 +125,21 @@ genre M;; repeated line
 हे **दुहितर्दिवः** उषः **आभरद्वसुः** आहृतधना **सा** प्रसिद्धा त्वं **नः** अस्माकम् **अद्य** अस्मिन् दिने **व्युच्छ** तमो विवासय । हे 'सहीयसि **यो** या । उकारोऽनर्थकः । या त्वं पूर्वं **व्यौच्छः** साद्यापीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Daughter of heaven, who are the bringer of opulence, dawn upon us today, as, bright-born, and praised for (the gift of) horses, you have dawned upon the powerful **Satyaśravas**, the son of **Vayya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As one bringing goods hither, dawn forth for us today, o Daughter of  Heaven—  
 you who dawned forth at the mightier Satyaśravas Vāyya’s  
 – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 yó beginning pāda c represents yā́+ u (note Pp. yó íti), but the apparent masc.
 
@@ -169,23 +169,23 @@ with 2nd ps. impvs.; see my 1992 “Vedic ‘sá figé’: An inherited sentence
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, bringing treasure, dawn to-day on us thou Daughter of the Sky,  
      As thou, O mightier yet. didst shine for Satyatravas, Vayya's son, high-born! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leuchte du uns heute schätzebringend auf, o Himmelstochter, die du bei dem mächtigeren Satyasravas Vayya aufleuchtetest, du Edelgeborene, Rosseschenkende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So leuchte, Himmelstochter, uns und bring auch heute Güter her, Wie du erstrahlt beim stärkeren, bei Vajja's Sohn, Satjaçravas, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажгись для нас ярко сегодня,  
 Принося добро, о дочь неба, та,  

@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कर्णगृ꣡ह्या मघ꣡वा शौरदेवियो꣡  
 वत्सं꣡ नस् त्रिभ्य꣡ आ꣡नयत्  
 अजां꣡ सूरि꣡र् न꣡ धा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒जाम् । सू॒रिः । न । धात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *karṇagṛhyā* ← *karṇa*
 - \[noun\], masculine
@@ -91,7 +91,7 @@ genre M
 अयं **मघवा** इन्द्रः **त्रिभ्यः** हिंसकेभ्यः सकाशात् **शौरदेव्यः** । दीव्यन्ति क्रीडन्त इति देवा योद्धारः। शूराश्च ते देवाश्च शूरदेवाः । तेषां हितं शौरदेवं युद्धम्। तत्संबन्धिन्यो गाः। युद्धे शत्रून् हत्वा तत्संबन्धिन्य इत्यर्थः । ताः **वत्सं** **न** । नेति चार्थे। वत्ससहिता अस्मभ्यं **कर्णगृह्य** कर्णे गृहीत्वा **आनयत्** आनयतु । **सूरिर्न** प्रेरकः स्वामीव **धातवे** पानाय **अजां** यथा स आनयति कर्णे गृहीत्वा तद्वदिति ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ Vatsam naḥ = vatsam naḥ, **vatsa** sahitaḥ;
 Sauradevaḥ = cow, i.e.connected with or won in battle (sauradevam)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bounteous son of Śūradeva, having grabbed hold of its ear, led a  calf here to us three,  
 a patron (leading) a nanny-goat to give suck (to three kids).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See comment on 12. The thematic connection between the verses is underscored by the presence of the verb ‘grab’ in each, but note that vs. 15, part of the hymn proper, has the older form √grabh (sáṃ gṛbhāya), while the dānastuti, belonging to a more popular level of language, has the younger √grah (-gṛ́hya).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The noble, Suradeva's son, hath brought a calf, led by the car to three of us.  
      As a chief brings a goat to milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der freigebige Sohn des Suradeva führte uns dreien ein Kalb zu, an den Ohren es packend, wie eine Geiß den drei Zicklein, um daran zu saugen, der noble Herr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei den Ohren es ergreifend, führte uns dreien der Spross des Çuradeva, der reiche, je ein Kalb zu, wie ein Opferherr die Ziege, damit sie Milch gebe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ भि꣡क्षमाणो अमृ꣡तस्य चा꣡रुण  
 उभे꣡ द्या꣡वा का꣡वियेना वि꣡ शश्रथे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡दी देव꣡स्य श्र꣡वसा स꣡दो विदुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तेजि॑ष्ठाः । अ॒पः । मं॒हना॑ । परि॑ । व्य॒त॒ । यदि॑ । दे॒वस्य॑ । श्रव॑सा । सदः॑ । वि॒दुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **सः** पवमानः **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य । ‘क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा । चतुर्थ्यर्थे बहुलम्' (पा. सू. २.३.६२) इति षष्ठी । चारूदकं **भिक्षमाणः** यष्टृभिर्याच्यमानः सन् **उभे** । द्यावादेशस्य द्वंद्वे विहितत्वादत्रोत्तरपदाभावे द्वंद्वः प्रतीयते । उभे द्यावापृथिव्यौ **काव्येन** कविकर्मणा **वि** **शश्रथे** विवृते करोति । यज्ञनिमित्तेन उदकेन संपूरयतीत्यर्थः । किंच **तेजिष्ठाः** अतिशयेन दीप्तानि **अपः** उदकानि **मंहना** महत्त्वेन **परि** **व्यत** वरणार्थं परित आच्छादयति । **यदि** यदा ऋत्विजः **देवस्य** द्योतमानस्य सोमस्य **सदः** स्थानं **श्रवसा** हविषा युक्ताः सन्तः **विदुः** यागार्थं जानन्ति लभन्ते तदा परित आवृणोतीति । ‘ विद ज्ञाने'।' सिजभ्यस्त°' इति झेर्जुसादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Opens: i.e., fills them with water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking a share of the dear immortal one, through his poetic skill he has  loosened both, Heaven (and Earth), from each other.  
 He lavishly wraps himself in the glinting-sharp waters when, by the god’s  [=Soma’s] fame, they [=waters] know his seat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Longing for lovely Amrta, by his wisdom he divided, each apart from other, earth and heaven.  
      He gladly wrapped himself in the most lucid floods, when through their glory they found the God's resting-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um den schönen Göttertrank bittend hat er mit Seherweisheit beide, Himmel und Erde, von einander gelöst. In die scharf wirkenden Wasser hüllt er sich bereitwillig, wenn sie durch des Gottes Ruhm seinen Sitz in Erfahrung bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verlangend nach des schönen Göttertranks Gemisch, erschloss er Erd' und Himmel sich durch Seherkraft, Er hüllt mit Lust sich in die liebsten Fluten ein, wenn sie mit Glanz verweilen in des Gottes Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь к милому (миру) бессмертия,  
 Своею поэтической силой он разделил оба (мира); небо (и землю).  

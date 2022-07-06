@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्ति꣡ मित्रावरुणा  
 सुअस्ति꣡ पथ्ये रेवति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्वस्ति꣡ नो अदिते कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ genre M;; epic anuṣṭubh (424)
 स्व॒स्ति । नः॒ । इन्द्रः॑ । च॒ । अ॒ग्निः । च॒ । स्व॒स्ति । नः॒ । अ॒दि॒ते॒ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasti*
 - \[noun\], nominative, singular, neuter
@@ -115,7 +115,7 @@ genre M;; epic anuṣṭubh (424)
 हे **मित्रावरुणा** अहोरात्राभिमानिदेवौ **स्वस्ति** कुरुतम् । हे **पथ्ये**। पन्थाः अन्तरिक्षमार्गः । तत्र हिता मार्गाभिमानिनी देवी । हे तादृशि **रेवति** धनवति देवि **स्वस्ति** कृधि । **इन्द्रश्चाग्निश्च** प्रत्येकं **नः** अस्मभ्यं **स्वस्ति** कृधि । हे **अदिते** देवि **नः** **स्वस्ति** **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ Pathye = goddess presiding over the **antarikṣa**;
 Revati = goddess presiding over riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Well-being, o Mitra and Varuṇa, well-being, o rich Path.  
 Well-being for us (let) Indra and Agni—well-being, o Aditi, make  
 for us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details open><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -149,23 +149,23 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prosper us, Mitra, Varuna. O wealthy Pathya, prosper us.  
      Indra and Agni, prosper us; prosper us thou, O Aditi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück sei uns, o Mitra und Varuna, Glück, du reiche Pathya; Glück soll uns Indra und Agni bringen, Glück schaff uns, o Aditi!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schafft Heil uns, Mitra, Varuna und Heil, o reicher Himmelsraum, Und Indra uns und Agni Heil, und schaff uns Heil, o Aditi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На благо – о Митра-Варуна!  
 На благо – о Патхья богатая!  

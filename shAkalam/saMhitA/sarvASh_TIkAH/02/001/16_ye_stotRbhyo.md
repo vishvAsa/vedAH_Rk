@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ स्तोतृ꣡भ्यो गो꣡अग्राम् अ꣡श्वपेशसम्  
 अ꣡ग्ने राति꣡म् उपसृज꣡न्ति सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्मान् । च॒ । तान् । च॒ । प्र । हि । नेषि॑ । वस्यः॑ । आ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -147,46 +147,46 @@ genre M
 अनयाहोतास्तुतिनिगमव्याजेनाभिमतमाशास्ते हेअग्ने सूरयोमेधाविनः प्रेरयितारोवाये यजमा- नाः स्तोतृभ्यःस्तुतिकर्तृभ्योगोअग्राङ्गावोग्रगामिन्योयस्यास्तादृशीङ्गोप्रमुखांअश्वपेशसं पेशइतिरूप- नाम अश्वेननिरूपणीयांएतद्द्वयम्प्राधान्याभिप्रायं गौश्चाश्वश्चाजाश्चेतिदक्षिणापरिगणनेषुगवाश्वयोः प्राथम्यात् तादृशींरातिंउपसृजन्तिददते तान्यजमानानस्मांश्चर्त्विजोवस्वोवसीयः श्रेष्ठंस्वर्गादिस्था- नंआसर्वतः प्रहिणेषि प्रकर्षेणनयसिखलुनयेत्यर्थः हिप्रसिद्धौ वयञ्चसुवीराशोभनपुत्रादिसहिताविद- थेयज्ञेब्रुहत् महत् मन्त्रजातंवदेम उञ्चारयामः स्तुमइत्यर्थः ॥ १६ ॥यज्ञेनवर्धतेतित्रयोदशर्चन्द्वितीयंसूक्तं मण्डलद्रष्टुर्गृत्समदस्यार्षं मण्डलादिष्वाग्नेयमितिपरिभाषया- ग्नेयं तुशब्दानुकर्षादिदमपिजागतम् यज्ञेनसप्तोनेत्यनुक्रान्तम् प्रातरनुवाकाश्विनशस्त्रयोर्जागतेछन्द- स्यस्यविनियोगः सूत्रन्तुपूर्वसूक्तएवोक्तम् तथाचतुर्विंशिकेतृतीयसवनेजातवेदस्य निविद्धानीयमिदं यज्ञेनवर्धतेत्याग्निमारुतमितिसूत्रितत्वात् पृष्ठ्याभिप्लवषडहयोर्द्वितीयेहन्यपि जातवेदस्यनिविद्धा- नमिदम् चातुर्विंशिकन्तृतीयसवनमिति चतुर्विंशादतिदिष्टत्वात् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious are they who present, as a gift, to the reciters of your praises, an excellent cow and an excellent horse; do you, **Agni**, lead both us and them to the best of abodes, (or heaven), that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The patrons—those who dispatch to the praisers a gift tipped with cows  and ornamented with horses, o Agni—  
 lead both us and them forth to a better state. – May we speak loftily at  the ritual distribution, in possession of good heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the function or position of hí, though the latter question is more tractable.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The princely worshippers who send to those who sing thy praise, O Agni, guerdon graced with kine and steeds,-  
      Lead thou both these and us forward to higher bliss. With brave men in the assembly may we speak aloud.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The liberal lords who pour out, O Agni, over thy praisers gifts at the head of which there are cows 1, the ornament of which are horses: lead both ourselves and them to welfare. May we speak loud in the assembly 2, rich in valiant men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die reichen Gönner, die den Sängern eine Schenkung zutreiben mit Rindern an der Spitze und mit Rossen als Glanzpunkt, o Agni, diese und uns führe also zum Glück! - Wir möchten das große Wort führen als Meister in der weisen Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Edlen die Geschenk' an Ross und Rindern reich in Füll' ergiessen, Agni, uns, der Sängerschar, sie, so wie uns geleite hin zu schönerm Gut; lasst laut im Chore bei dem Fest uns singen = 193, 13
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) покровители, которые щедро дают певцам,  
 О Агни, дар с коровами во главе, с конями как украшением, -  

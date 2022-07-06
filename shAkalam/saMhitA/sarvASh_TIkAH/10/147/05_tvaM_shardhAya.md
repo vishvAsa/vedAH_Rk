@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ श꣡र्धाय महिना꣡ गृणान꣡  
 उरु꣡ कृधि मघवञ् छग्धि꣡ रायः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पित्वो꣡ न꣡ दस्म दयसे विभक्ता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । नः॒ । मि॒त्रः । वरु॑णः । न । मा॒यी । पि॒त्वः । न । द॒स्म॒ । द॒य॒से॒ । वि॒ऽभ॒क्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -128,36 +128,36 @@ genre M
 हे इन्द्र **त्वं** **महिना** महता स्तोत्रेण **गृणानः** स्तूयमानः सन् **शर्धाय** शर्धं बलम् **उरु** **कृधि** विस्तीर्णं कुरु। हे **मघवन** **रायः** धनानि च **शग्धि** अस्मभ्यं प्रयच्छ । हे **दस्म** दर्शनीयेन्द्र **विभक्ता** विशेषेण धनानां भाजयिता **त्वं** **मित्रो** **वरुणो** **न** मित्रवद्वरुणवच्च **मायी** प्रज्ञायुक्तः सन् **नः** अस्मभ्यम् । नः संप्रत्यर्थे । संप्रति **पित्वः** अन्नानि **दयसे** प्रयच्छसि ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorified by great (praise), **Maghavan**, spread forth your might, bestow riches (upon us); beautifulIndra who are wise like **Mitra** and **Varuṇa** the distributer (of riches), you give us food now.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You—being sung, make wide (space) for the troop with your greatness,  bounteous one; show mastery over wealth.  
 You are an ally [/Mitra] to us, wily like Varuṇa. You distribute (wealth)  like an apportioner of food, wondrous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now for our band, O Maghavan, when lauded, make ample room with might, and grant us riches.  
      Magician thou, our Varuna and Mitra, deal food to us, O Wondrous, as Dispenser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaff du gepriesen durch deine Macht der Heerschar Raum, o Gabenreicher, erwirke Reichtum! Du bist uns Mitra, ein Freund, listig wie Varuna. Wie ein Verteiler der Speise teilst du, Meister, die Schätze aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schaff unsrer Schar durch deine Macht, o mächt'ger, gepriesner, Raum, beschenke sie mit Schätzen; Wie Mitra du, wie Varuna, der weise als Trank-Vertheiler theil uns zu, o hehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспеваемый, создай ты (своим) величием широкий простор  
 Для войска, о щедрый, достань богатства!  

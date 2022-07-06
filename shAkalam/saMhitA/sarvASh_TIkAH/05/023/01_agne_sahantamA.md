@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने स꣡हन्तम् आ꣡ भर  
 द्युम्न꣡स्य प्रास꣡हा रयि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आसा꣡ वा꣡जेषु सास꣡हत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वाः॑ । यः । च॒र्ष॒णीः । अ॒भि । आ॒सा । वाजे॑षु । स॒सह॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 किं कुर्वन्नित्याह - आसा आसनमात्रेणैव । आसेः क्विप्, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । सहेर्लेटि 'बहुलं छन्दसि' इति शपश्श्लुः, द्विर्वचने तुजादित्वादभ्यासस्य दीर्घत्वम् । यद्वा - यङ्लुगन्तात् 'लेटोडाटौ' इत्यडागमः तुजादित्वाभावे, अजादेरभावात् 'अभ्यस्तानामादिः' इत्वाद्युदात्तत्वाभावः, 'अच्यनिटि' इत्यत्र हि 'ङित्यजादौ' इत्युक्तम् । 'अनुदात्ते च' इति तर्हि प्राप्नोति? 'छन्दस्युभयथा' इत्यार्धधातुकत्वात् न भविष्यतीत्यदोषः । यद्वा - चुरादिण्यन्तात् 'छन्दसि लुङ्लङ्लिटः' इति लुङ्चङादि, वर्णव्यत्ययेनाभ्यासस्याकारः, 'चङ्यन्यतरस्याम्' इत्युपोत्तमस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,19 +119,19 @@ genre M
 A son: the text has rayim, riches; the explanation is metaphorical, rendering it putram, a son
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, bring here wealth that is overpowering through the power of  your brilliance  
 and that, with prizes at stake, will be powerful over the lands by means  of my mouth [=my speech].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By thy fair splendour's mighty power, O Agni, bring victorious wealth,  
      Wealth that o'ercometh all mankind, and, near us, conquereth in fight.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, bring hither, through the power of thy splendour, powerful wealth which may manifestly prevail over all tribes in the (contests for) booty.
 </details>
@@ -145,17 +145,17 @@ And openly prevaileth in contests for booty.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Bring Reichtum ein, der durch die Übermacht seines Glanzes überwältigend ist, der über alle Völker durch den Mund des Sängers in den Kämpfen das Übergewicht haben soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring Agni Reichthum, welcher siegt durch Uebermacht gewalt'ger Kraft, Der alle Menschen überragt und in den Kämpfen Sieg gewinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, принеси богатство,  
 Овладевающее властью блеска,  

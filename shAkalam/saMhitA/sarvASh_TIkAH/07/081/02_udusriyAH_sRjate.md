@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उस्रि꣡याः सृजते सू꣡रियः स꣡चाँ  
 उद्य꣡न् न꣡क्षत्रम् अर्चिव꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स꣡म् भक्ते꣡न गमेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तव॑ । इत् । उ॒षः॒ । वि॒ऽउषि॑ । सूर्य॑स्य । च॒ । सम् । भ॒क्तेन॑ । ग॒मे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **सूर्यः** सर्वस्य प्रेरक आदित्यः **उस्रियाः** रश्मीन् **सचा** सह युगपदेव **उत्** **सृजते** उद्गमयति । तथा **उद्यत्** उद्गच्छत् प्रादुर्भवत् **नक्षत्रं** नभसि दृश्यमानं ग्रहनक्षत्रादिकम् अर्चिवत् दीप्तिमत् करोति । सौरेण तेजसा हि नक्तं चन्द्रप्रभृतीनि नक्षत्राणि भासन्ते। सुषुम्णः सूर्यरश्मिश्चन्द्रमा गन्धर्वः (वा. सं. १८.४०) इति हि निगमः । एवं च सति हे **उषः** उषोदेवते **तव** **सूर्यस्य** **च** **व्युषि** विवासने प्रकाशने सति **भक्तेन** अन्नेन **सं** **गमेमहि** वयं संगच्छेमहि । इच्छब्दः पूरकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ genre M
 Renders the plural nets:the moon and plural nets shine at night with light derived from the solar ray: saurena tejasā hi naktamchandraprabhṛtīni **nakṣatrāṇi** bhasante
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sun sends the ruddy (cows) surging up all together, as that heavenly  body itself goes up with his rays.  
 O Dawn, just at your first flush and that of the sun, might we be united  with what is apportioned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sun ascending, the refulgent Star, pours down his beams together with the Dawn.  
      O Dawn, at thine arising, and the Sun's, may we attain the share allotted us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sonne treibt gleichzeitig die Kühe aus, das aufgehende, strahlende Gestirn. Bei deinem und der Sonne Aufleuchten, o Usas, möchten wir zu unserem Speiseanteil kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es giesst zugleich die Sonne ihre Strahlen aus, wenn sich erhebt das Glanzgestirn, Bei deinem und der Sonne Schein, o Morgenroth, werd' uns des Glückes Loos zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сурья в это время выгоняет алых коров,  
 Восходящее блистательное светило.  

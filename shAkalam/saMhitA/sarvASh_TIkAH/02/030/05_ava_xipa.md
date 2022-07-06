@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व क्षिप दिवो꣡ अ꣡श्मानम् उच्चा꣡  
 ये꣡न श꣡त्रुम् मन्दसानो꣡ निजू꣡र्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्माँ꣡ अर्धं꣡ कृणुताद् इन्द्र गो꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तो॒कस्य॑ । सा॒तौ । तन॑यस्य । भूरेः॑ । अ॒स्मान् । अ॒र्धम् । कृ॒णु॒ता॒त् । इ॒न्द्र॒ । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre M
 हेइन्द्र दिवोनभसः सकाशादश्मानं अश्मवत्कठिनं वज्रंउच्चाउच्चैर्वर्तमानस्त्वंअवक्षिपअस्मदीयान् शत्रूणुद्दिश्यावस्तात् क्षिप येनवज्रेणामन्दसानः स्तोतृभिःस्तूयमानःसन् शत्रुन्निजूर्वाः न्यहिंसीः जुवीं- र्हिंसार्थः लेट्याडागमः तथातोकस्यपुत्रस्यभूरेर्भर्तव्यस्यपौत्रस्यसातौ सम्भजने निमित्ते सप्तम्येषासं भजनार्थ तथाहेइन्द्र गोनाङ्गवांसम्भजनार्थञ्चास्मान् अस्माकं विभक्तिव्यत्ययः अर्धं समृद्धिङ्कृणुतात्कुरु गोःपादान्तेइतिगोशब्दस्यामोनुडागमः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, who are on high, cast down fromheaven the adamantine (thunderbolt), wherewith, when exhilarated, you did slay your foe; and make us affluent in the possession of many sons, and grandsons, and cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hurl down from heaven the stone on high, with which you, exulting (in  soma), will rub out your rival.  
 After that go halves with us in the winning of progeny, of abundant  descendants, and of cattle, o Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cast down from heaven on high thy bolt of thunder wherewith in joy thou smitest dead the foeman.  
      For gain of children make us thine, O Indra, of many children's children and of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wirf hoch vom Himmel den Stein herab, mit dem du somatrunken den Feind vertilgen sollst ! Wenn es gilt, reichlichen leiblichen Samen zu gewinnen, wenn Kühe, so mach mit uns halbpart, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel hoch wirf nieder deinen Blitzstein, mit dem du lustig niederbrennst den Frevler; Lass uns erlangen Kinder viel und Enkel und theil' uns mit die Hälfte deiner Rinder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Скинь с высокого неба камень,  
 Которым ты, опьяненный (сомой), спалишь врага!  

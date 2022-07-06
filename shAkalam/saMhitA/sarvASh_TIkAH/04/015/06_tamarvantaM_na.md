@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अ꣡र्वन्तं न꣡ सानसि꣡म्  
 अरुषं꣡ न꣡ दिवः꣡ शि꣡शुम्  
 मर्मृज्य꣡न्ते दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 म॒र्मृ॒ज्यन्ते॑ । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,48 +85,48 @@ genre M
 यजमानाः **अर्वन्तं** न शीघ्रगामिनमश्वमिव **सानसिं** संभजनीयं **दिवः** **शिशु** **न** द्युलोकस्य पुत्रभूतं सूर्यमिव **अरुषम्** आरोचमानं **तम्** अग्निं **दिवेदिवे** प्रतिदिनं **मर्मृज्यन्ते** भृशं परिचरणं कुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They diligently worship him daily who is like a horse (to convey oblations), who is liberal and resplendent as the son of heaven, (the sun).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him like a winning steed, like the red child of heaven [=soma?],  
 they keep grooming day after day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni here is compared with soma, though without mention of that word.
 
 The comparison is esp. obvious in the verb marmrjyánte ‘they keep grooming’, since √mṛj is a signature word for soma, and in the descriptive phrase in b. As Oldenberg (SBE) points out, soma is often called aruṣá- ‘red’ (though it must be admitted that Agni is too), and ‘child of heaven’ (diváḥ śíśu-) is also a somyan epithet (IX.33.5, 38.5, though cf. VI.49.2 where it modifies Agni). As discussed in the published introduction, this covert reference to soma ushers in the Dānastuti for Prince Sāhadevya, whose nickname is Somaka (9c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Day after day they dress him, as they clean a horse who wins the prize.  
      Dress the red Scion of the Sky.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Him they clean day by day like a racer that wins (booty), like (Soma), the red young child of Heaven 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn putzen sie Tag für Tag wie ein gewinnbringendes Roß, wie das rötliche Kind des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn schmücken Tag für Tag sie aus gleich einem Ross, das Preis gewinnt, Ihn, als den rothen Himmelsspross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, словно скакуна, захватывающего добычу,  
 Словно рыжее дитя неба,  

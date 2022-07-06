@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सप्त꣡ धीति꣡भिर् हितो꣡  
 नद्यो᳡ अजिन्वद् अद्रु꣡हः  
 या꣡ ए꣡कम् अ꣡क्षि वावृधुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 याः । एक॑म् । अक्षि॑ । व॒वृ॒धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **याः** नद्यः यम् **एकं** मुख्यं सोमम् **अक्षि** अक्षीणं **ववृधुः** वर्धयन्ति **सः** सोमः **धीतिभिः** अङ्गुलिभिः । ‘ रशना धीतयः' इत्यङ्गुलिनामसु पाठात् । **हितः** निहितः सन् **अद्रुहः** द्रोहवर्जिताः **सप्त** सप्तसंख्याकाः **नद्यः** नदीः **अजिन्वत्** प्रीणयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,13 +99,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Seven guileless rivers: sapta is separated from dhītibhiḥ and connected with nadyaḥ; cf. RV 10.008.04
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Propelled by seven insightful thoughts, he quickened the rivers without  deceit,  
 they who strengthened him as the single eye.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the “seven insightful thoughts” see also 8.4.
 
@@ -122,23 +122,23 @@ As noted in the published introduction, I consider this an omphalos hymn, with v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged by the seven devotions he hath stirred the guileless rivers which  
      Have magnified the Single Eye.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch sieben fromme Gedanken angespornt, hat er die truglosen Flüsse belebt, die das eine Auge gestärkt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch sieben Bräuche eingesetzt, erquickt die holden Ströme er, Durch die das eine Auge wächst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поторопленный семью молитвами,  
 Он оживил безобманные реки,  

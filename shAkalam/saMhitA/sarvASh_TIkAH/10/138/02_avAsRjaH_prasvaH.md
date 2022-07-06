@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वासृजः प्रसु꣡वः श्वञ्च꣡यो गिरी꣡न्  
 उ꣡द् आज उस्रा꣡ अ꣡पिबो म꣡धु प्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शुशो꣡च सू꣡र्य ऋत꣡जातया गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अव॑र्धयः । व॒निनः॑ । अ॒स्य॒ । दंस॑सा । शु॒शोच॑ । सूर्यः॑ । ऋ॒तऽजा॑तया । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avāsṛjaḥ* ← *avasṛj* ← *√sṛj*
 - \[verb\], singular, Imperfect
@@ -120,36 +120,36 @@ genre M
 हे इन्द्र **प्रस्वः**। प्रसूतिर्जन्म । तद्धेतुभूता अपः **अवासृजः** । आवरकान्मेघादधः पातितवानसि । तथा **गिरीन्** पर्वतान् बलेन गोमतो बिलस्य पिधानाय निहितान् **श्वञ्चयः** अगमयः । अभैत्सीरित्यर्थः।  ‘श्वचि गतौ । अस्माण्ण्यन्ताल्लङि 'बहुलं छन्दस्यमाङ्योगेऽपि ' इत्यडभावः ।  ‘ समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः ' (पा. सू. ८. १. १८.५) इति वचनात पूर्वपदस्यासमानवाक्यगतत्वेनास्य ' तिङ्ङतिङः' इति निघाताभावः। तथा वलासुरेण बिले निहिता **उस्राः** गाः पर्वतभेदनानन्तरम् **उदाजः** उदगमयः । ततः पयोदध्याज्यादिकं **प्रियम्** अनुकूलं **मधु** मधुरं हविः **अपिबः** पीतवानसि । यद्वा । श्रयणसाधनासु तासु गोष्वागतातु यजमानैः प्रियमभीष्टं मधु सोमास्मकमपिबः पिबसि । तथा **वनिनः** वनसंबद्धान् वृक्षान् । यद्वा । वनमित्युदकनाम । तद्युक्तान् समुद्रान्। **अवर्धयः** वृष्टिप्रदानेन वर्धयसि । **ऋतजातया** । ऋतं यज्ञम् । तदर्थं जातं जन्म यस्याः तथा **गिरा** वेदात्मिकया वाचा स्तूयमानस्य **अस्य** इन्द्रस्य **दंससा** कर्मणा आवृण्वतो वृत्रादेरपि नोदनात्मकेन **सूर्यः** **शुशोच** नभसि प्रदिदीपे। यद्वा। ऋतजातया गिरेति सूर्यस्यैव विशेषणम् । त्रयीरूपया वाचा प्रदीप्यत इत्यर्थः । ‘ऋग्भिः पूर्वाह्णे दिवि देव ईयते ' (तै. ब्रा. ३. १२. ९, १ ) इत्यादिकं तैत्तिरीयकमत्रानुसंधेयम् ॥ शुशोचेत्यस्य पदापरत्वेऽपि पादादित्वादपादादाविति पर्युदासस्यानुवृत्तेर्निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have sent forth the genitive rative (waters), you have cleft the mountains, you have fetched forth thecows, you have quaffed the delicious **Soma**, you have caused the trees of the forest to grow; through his exploitsby means of the voice produced for the sacrifice the sun has shone bright.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You released the fecund females, and you made the mountains bend. You  drove up the ruddy ones, and you drank the dear honey [=soma].  
 By your wondrous power you made the wooden (cups) strong for it. The  Sun blazed forth with the song born of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou sentest forth productive powers, clavest the hills, thou dravest forth the kine, thou drankest pleasant meath.  
      Thou gavest increase through this Tree's surpassing might. The Sun shone by the hymn that sprang from Holy Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du befreitest die trächtigen Tiere, du machtest die Berge nachgiebig. Du triebst die Kühe heraus, du trankst den lieben Süßtrank. Die Bäume ließest du durch dessen Wirksamkeit wachsen; Surya glühte durch das aus der Wahrheit geborene Loblied.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du machtest frei die Mütter, regtest auf die Höhn, du führtest aus die Kühe, trankst den lieben Meth, Und liesst die Bäume wachsen durch des Methes Kraft; die Sonn' erglänzte durch das fromm erzeugte Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты выпустил стельных (коров), растворил горы,  
 Выгнал наружу утренние зори, выпил приятного меду.  

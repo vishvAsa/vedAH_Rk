@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मृत्योः꣡ पदं꣡ योप꣡यन्तो य꣡द् अइ꣡त  
 द्रा꣡घीय आ꣡युः प्रतरं꣡ द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शुद्धाः꣡ पूता꣡ भवत यज्ञियासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ॒प्याय॑मानाः । प्र॒ऽजया॑ । धने॑न । शु॒द्धाः । पू॒ताः । भ॒व॒त॒ । य॒ज्ञि॒या॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mṛtyoḥ* ← *mṛtyu*
 - \[noun\], genitive, singular, masculine
@@ -115,7 +115,7 @@ popular
 "यज्ञियासः यज्ञार्हा यज्ञसंपादिनो यजमानाः **प्रजया** पुत्रपौत्रादिकया **धनेन** गवाश्वादिकेन च **आप्यायमानाः** वर्धमानाः सन्तः शुद्धाः जन्मान्तरसंचितदुरितक्षयात् शुद्धाः **भवत** । **पूताः** वर्तमानजन्मोपचितदुरितक्षयाच्च पूता भवत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,34 +128,34 @@ Be cleansed and pure: **śuddhaḥ** = pure from the decay caused by the sins ac
 **Pūtaḥ** = pure from the decay caused by the sins of the present life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Effacing the footprint of death when you have gone, establishing for  yourselves a longer, more extended lifetime,  
 swelling up with offspring and wealth, become cleansed and purified, o  you who are worthy of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As ye have come effacing Mrtyu's footstep, to further times prolonging your existence,  
      May ye be rich in children and possessions. cleansed, purified, and meet for sacrificing.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Since ye have come, the trace of death effacing, Till future days prolonging your existence: With offspring and with riches thriving greatly, Do ye, O pious men, be pure and holy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem ihr gegangen seid, des Todes Spur verwischend und euer Leben noch weiter verlängernd, so werdet, an Kindern und Reichtum zunehmend, rein und lauter, ihr Opferwürdigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Todes Spur verwischend, als ihr kamet, und lange euer künft'ges Leben dehnend, An Reichthum wachsend und an Schar der Kinder, o fromme, werdet reinen Sinns und lauter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы уйдете, стирая след смерти,  
 Пронося дальше (свою) долгую жизнь,  

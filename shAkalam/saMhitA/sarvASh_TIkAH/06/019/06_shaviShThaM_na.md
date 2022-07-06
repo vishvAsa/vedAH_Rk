@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡विष्ठं न आ꣡ भर शूर श꣡व  
 ओ꣡जिष्ठम् ओ꣡जो अभिभूत उग्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं दा हरिवो मादय꣡ध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । द्यु॒म्ना । वृष्ण्या॑ । मानु॑षाणाम् । अ॒स्मभ्य॑म् । दाः॒ । ह॒रि॒ऽवः॒ । मा॒द॒यध्यै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaviṣṭhaṃ* ← *śaviṣṭham* ← *śaviṣṭha*
 - \[noun\], accusative, singular, neuter
@@ -119,20 +119,20 @@ genre M
 हे **शूर** विक्रान्तेन्द्र **शविष्ठं** बलवत्तमं **शवः** बलं **नः** अस्मभ्यम् **आ** **भर** आहर । हे **अभिभूते** शत्रूणामभिभावुकेन्द्र **उग्रम्** अप्रसह्यम् **ओजिष्ठम्** ओजस्वितमम् **ओजः** दीप्तिमस्मभ्यमा भर । **विश्वा** विश्वानि सर्वाणि **वृष्ण्या** वृष्ण्यानि सेचनसमर्थानि **द्युम्ना** द्युम्नानि द्योतमानानि यानि धनानि **मानुषाणां** मनुष्याणां भोग्यतया कल्पितानि हे **हरिवः** हरिवन्निन्द्र तानि धनानि **मादयध्यै** अस्मान् मादयितुम् **अस्मभ्यं** **दाः** प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, hero **Indra**, most vigorous vigour; subduer (of enemies, bestow upon us) most energetic and fierce energy; grant, lord of steeds, all the bright and invigorating (treasures) fit for men, to make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us, o overpowering champion, the strongest strength, the  mightiest mighty might.  
 All things brilliant and bullish that belong to the sons of Manu—give  them to us, o master of the fallow bays, to exhilarate us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is notable for the superlative etymological figures: double śáviṣṭham … śávaḥ “strongest strength” (or, in fact, triple, since śūra ‘hero’ is ultimately related to these words) and triple ójiṣṭham ójaḥ … ugrám “mightiest mighty might.” The triple etym. connection of the first phrase is better conveyed by Geldner’s “Bring uns, du Starker, die stärkste Stärke” than by the published translation Note also that the adjacent words in b ójo abhibhūta “… might, o overpowering one,” though not syntactically connected here, form a bahuvrīhi modifying Indra in the preceding hymn, VI.18.1 abhíbhūti-ojas- ‘of overpowering strength’.
 
@@ -146,23 +146,23 @@ As noted in the published introduction, all three of these vss. contain the phra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring unto us the mightiest might, O Hero, strong and most potent force, thou great Subduer!  
      All splendid vigorous powers of men vouchsafe us, Lord of Bay Steeds, that they may make us joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, du Starker, die stärkste Stärke, die gewaltigste gewaltige Gewalt, du Überlegener. Alle Herrlichkeiten und Kräfte der Menschen gib uns, o Falbenlenker, um Freude zu machen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die stärkste Stärke bring uns her, o Starker, die mächtigste, gewalt'ge Macht, o Sieger, Die Güter alle und der Menschen Kräfte gib, zu erfreun uns, o du Rosselenker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Храбрейшую храбрость принеси нам, о храбрец,  
 Сильнейшую силу, о победоносный, грозную.  

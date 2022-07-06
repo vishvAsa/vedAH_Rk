@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो देव देवाँ꣡  
 अ꣡छा वोचो विदु꣡ष्टरः  
 श्र꣡द् वि꣡श्वा वा꣡रिया कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्रत् । विश्वा॑ । वार्या॑ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -94,7 +94,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** अग्ने **उत** अपि च **नः** अस्मान् **देवान्** **अच्छा** **वोचः** अभिब्रूयाः । सम्यगनुष्ठितवन्त इति । तथा **विदुष्टरः** विद्वत्तमान् वोचः । तथा कृत्वा **विश्वा** सर्वाणि **वार्या** वरणीयानि धनानि देवसंबन्धीनि **श्रत्** सत्यानि **कृधि** कुर्वस्माकम् । अथवास्मदीयानि सर्वाणि वरणीयानि हवींषि श्रत् सत्यानि कुरु । देवान् प्रापयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,34 +105,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Profoundlyskilled: viduṣṭaras = vidvattamān, an epithet of Agni, you most wise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And as one who knows better, invite the gods for us, o god.  
 Make our trust (in the sacrifice) into all things worth desiring,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the only occurrence of śrád- outside the inherited univerbated idiom śrád √dhā ‘trust/put trust in’. As I have discussed elsewhere, ‘trust’ is often specifically trust in the efficacy of the sacrifice, and I think that’s the meaning being tapped here: realize our trust in the sacrifice’s success with tangible results.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, God, as skilfullest of all, call for us bitherward the Gods:  
      Give all our wishes sure effect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und lade, o Gott, die Götter zu uns als der Kundigere! Sichere uns alle begehrenswerten Güter zu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ruf uns, Gott, die Götter her, der du am besten es verstehst, Und alles Gut vertrau uns an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

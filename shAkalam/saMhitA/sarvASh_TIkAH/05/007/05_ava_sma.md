@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्म य꣡स्य वे꣡षणे  
 स्वे꣡दम् पथि꣡षु जु꣡ह्वति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भू꣡मा पृष्ठे꣡व रुरुहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । ई॒म् । अह॑ । स्वऽजे॑न्यम् । भूम॑ । पृ॒ष्ठाऽइ॑व । रु॒रु॒हुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 **यस्य** अग्नेः **वेषणे** परिचर्यायां **पथिषु** होममार्गेषु रश्मिषु **स्वेदं** स्रवदाज्यम् **अव** अधोमुखं **जुह्वति** अध्वर्यवः तदानीम् **ईम्** एनमग्निम् **अभि** **रुरुहुः** **अह** । अभ्यारोहन्त्येवाज्यधाराः । अह इति विनिग्रहार्थीयः । **स्वजेन्यं** स्वोत्पन्नं **भूम** । बहु भवतीति भूमापत्यम् । तत् **पृष्ठेव** पितुः पृष्ठदेशानिव । पुत्राः यथा पितुरङ्कम् आरोहन्ति तद्वत् ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,33 +115,33 @@ genre M
 **Bhūmā** pṛṣṭheva = liṭ, likemany or much on the back; **bahu** bhavatiti bhūmā apatyam; **pṛṣṭha** implies the back of the father, pituḥ pṛṣṭo deśān iva, as boys mount upon the fathers' side, so do the flames, **putra** yathā pituraṅkam ārohanti tad vat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose service they again pour down their sweat upon his paths, they have mounted this land of his own noble birth like the backs (of  horses).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He in whose service on the ways they offer up their drops of sweat,  
      On him is their high kin have they mounted, as ridges on the earth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He at whose officiating (men) pour down the offering of their sweat on the paths—to Him who is noble by his own nature, the worlds have risen as to ridges (of hills)—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dessen Dienste sie unterwegs Schweiß opfern, sie haben das heimatliche Land wie Reiter die Pferderücken erstiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf ihn, den Blutsfreund, stiegen hin die Wesen, wie auf Bergeshöhen, Bei dessen Dienst sie vielen Schweiss vergiessen auf die Pfad' hinab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) на службе у кого  
 Они проливают пот на дорогах, –  

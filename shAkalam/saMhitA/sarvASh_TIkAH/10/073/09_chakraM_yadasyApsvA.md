@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चक्रं꣡ य꣡द् अस्य अप्सु꣡ आ꣡ नि꣡षत्तम्  
 उतो꣡ त꣡द् अस्मै म꣡धु इ꣡च् चछद्यात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡यो गो꣡षु अ꣡दधा ओ꣡षधीषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पृ॒थि॒व्याम् । अति॑ऽसितम् । यत् । ऊधः॑ । पयः॑ । गोषु॑ । अद॑धाः । ओष॑धीषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
@@ -128,36 +128,36 @@ genre M
 अश्येन्द्रस्य चक्रमायुधं यदप्सु अन्तरिक्षे निषण्णं उतो अपि च तदायुध मस्मा इन्द्राय मधु च्च्छद्यात् वशं नयति। यत्पृथिव्यामतिषितं निमित्तं ऊधः ऊधसो मेघात् तदुदकं पयः गोष्वोषधीशु चादधा इति॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When his thunderbolt rode everywhere in the firmament, it also subjugated the water to him; the waterwhich is let loose upon the earth puts milk into cows and herbs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When his wheel was sunk down in the waters. And that should seem  just honey to him,  
 the udder bound tight onto the earth, the milk that you placed in the  cows and in the plants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the sweet Soma juices make him happy to cast his quoit that lies in depth of waters.  
      Thou from the udder which o'er earth is fastened hast poured the milk into the kine and herbage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sein Rad im Wasser festsitzt, auch das würde ihm Honig dünken. Als das Euter auf Erden fest zugebunden war, da legtest du die Milch in die Kühe, in die Pflanzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und als sein Rad in die Fluten sich senkte, da dünkte es ihm süss wie Honig; und als das Euter [der Kuh und die Saftkanäle der Pflanzen] unterbunden [d.h. saftlos] war, da legtest du [adadhā tonlos zu lesen] Saft [oder Milch] in die Kühe und Pflanzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда колесо его попало в воду,  
 И это могло бы ему показаться медом!  

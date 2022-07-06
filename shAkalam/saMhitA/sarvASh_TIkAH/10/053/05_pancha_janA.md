@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡ञ्च ज꣡ना म꣡म होत्रं꣡ जुषन्तां  
 गो᳐꣡जाता उत꣡ ये꣡ यज्ञि꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡रिक्षं दिविया꣡त् पातु अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 पृ॒थि॒वी । नः॒ । पार्थि॑वात् । पा॒तु॒ । अंह॑सः । अ॒न्तरि॑क्षम् । दि॒व्यात् । पा॒तु॒ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pañca* ← *pañcan*
 - \[noun\], nominative, plural, masculine
@@ -123,36 +123,36 @@ popular;; repeated line
 **पञ्च** जनाः देवादयः **मम** **होत्रं** हवमाह्वानं **जुषन्तां** सेवन्तम्। अपि च **गोजाताः** भूम्यामुत्पन्नाः । यद्वा । गोशब्देन तज्जं पय आदिकमुच्यते । हविरर्थं प्रादुर्भूता इत्यर्थः । तादृशा ये सन्ति । **उत** अपि च **ये** यज्ञियासः यज्ञार्हाः सन्ति ते मम होत्रं जुषन्ताम्। किंच **पृथिवी** पृथिवीदेवता **पार्थिवात्** पृथिवीसंबन्धात् **नः** अस्मान् **अंहसः** पापात् **पातु** रक्षतु । तथा **अन्तरिक्षम्** अन्तरिक्षदेवता **दिव्यात्** आन्तरिक्षादंहसः पापसकाशात् **अस्मान्** **पातु** ॥ ॥१३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the fiver orders of men, may those who were born for the sake of ghī, may those who areentitled to worship be plural ased by my (discharge of) the office of **hotā**; may earth preserve us from all earthly sin;may the firmament preserve us from heavenly (sin).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] Let the five peoples take pleasure in my Hotarship—and the  cow-born and those who are worthy of the sacrifice.  
 Let Earth protect us from earthly constraint; let the Midspace protect  us from heavenly (constraint).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Five Tribes be pleased with mine oblation, and the Cow's Sons and all who merit worship.  
      From earthly trouble may the earth protect us, and air's mid realm from woe that comes from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die fünf Völker sollen an meinem Hotri-Amt Wohlgefallen haben, die kuhgeborenen und die opferwürdigen Götter. Die Erde soll uns vor irdischer Not schützen, das Luftreich soll uns vor himmlischer Not schützen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die fünf Geschlechter, die Gestirn-entsprossnen, die heil'gen mögen meinen Trank geniessen.« Die Erde schütze uns vor ird'schem Unheil, die Luft beschütz uns vor des Himmels Plage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть пять народов наслаждаются моей службой хотара,  
 (А также) рожденные от коровы и те, что достойны жертв!  

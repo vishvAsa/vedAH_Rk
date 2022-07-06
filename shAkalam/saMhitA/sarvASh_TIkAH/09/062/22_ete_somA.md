@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ सो꣡मा असृक्षत  
 गृणानाः꣡ श्र꣡वसे महे꣡  
 मदि꣡न्तमस्य धा꣡रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒दिन्ऽत॑मस्य । धार॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -72,19 +72,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **गृणानाः** स्तूयमानाः **एते** इमे **सोमाः** **महे** महते **श्रवसे** अन्नाय **मदिन्तमस्य** मादयितृतमस्य रसस्य **धारया** **असृक्षत** ऋत्विग्भिः सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These lauded **Soma** juices are let flow for the sake of abundant food in a stream for the most exhilarating (juice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These soma juices, while being hymned, have surged for great fame in a stream of most exhilarating (soma).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -94,23 +94,23 @@ gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 cont
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Into his stream who gladdens best these Soma juices have been poured,  
      Lauded with songs for lofty fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Somatränke sind losgelassen worden zu großem Ruhme gepriesen, mit dem Strome des Berauschendsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind die Soma's hier gepriesen nun zu hohem Ruhm, Im Strome des berauschendsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

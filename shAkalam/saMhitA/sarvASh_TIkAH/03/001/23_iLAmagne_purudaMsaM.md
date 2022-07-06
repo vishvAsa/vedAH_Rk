@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ळाम् अग्ने पुरुदं꣡सं सनिं꣡ गोः꣡  
 शश्वत्तमं꣡ ह꣡वमानाय साध  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने सा꣡ ते सुमति꣡र् भूतु अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्यात् । नः॒ । सू॒नुः । तन॑यः । वि॒जाऽवा॑ । अ॒ग्ने॒ । सा । ते॒ । सु॒ऽम॒तिः । भू॒तु॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
@@ -127,7 +127,7 @@ genre M
 इयंसर्वेषाम्पशूनाम्पशुपुरोडाशस्यस्विष्टकृतः पुरोनुवाक्या सूत्र्यतेहि—इळामग्नेपुरुदंसंसनिङ्गो र्होतायक्षदग्निम्पुरोळाशस्यस्वदस्वहव्यासमिषोदिदीहीतिपुरोळाशस्विष्टकृतइति । हेअग्नेपुरुदंसम्बहु कर्माणं गोः गवांसनिम्प्रदात्रीं इळाम्भूमिंहवमानायस्तुवते मह्यंशश्वत्तमं चिरकालं यथा भवतित था साध साधय नोस्माकंसूनुःपुत्रः तनयः सन्तानस्यविस्तारयिता विजावापुत्रपौत्रादिरूपेणस्व यंविजायतइतिविजावास्यात् हेअग्ने साप्रसिद्धातेसुमतिः त्वदीयाअनुग्रहबुद्धिः अस्मेअस्मासु भूतु भवतु ॥ २३ ॥वैश्वानरायेतिपञ्चदशर्चन्द्वितीयंसूक्तं तथाचानुक्रान्तं—वैश्वानरायपञ्चोनावैश्वानरीयन्तुजागतं त्विति विश्वामित्रऋषिः जगतीछन्दः वैश्वानरोग्निर्देवता पृष्ठ्याभिप्लविकयोस्तृतीयेहन्याग्निमा रुतेवैश्वानरायधिषणामितिवैशानरनिविद्धानीयंसूक्तं तृतीयस्येतिखण्डेसूत्रितम्—वैश्वानरायधिष णान्धारावरामरुतइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 This hymn is the refrain of several subsequent **sūktas**; this hymn also occurs in the **Sāmaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 – Make the milk-libation, the very wondrous winning of the cow,  succeed, o Agni, for him who invokes you most constantly.  
 There should be for us a son and a lineage that proliferates. Agni, let  this your favor be for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As holy food, Agni, to thine'invoker give wealth in cattle, lasting, rich in marvels.  
      To us he born a son, and spreading offspring. Agni, be this thy gracious will to us-ward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Procure, O Agni, for ever, to him who implores thee, (the gift of) nourishment 1, the wonderful acquiring of the cow. May a son be ours, offspring that continues our race. Agni, may this favour of thine abide with us!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erziel, o Agni, Segen, den vielwirkenden Lohn einer Kuh für den am häufigsten rufenden Sänger! Ein leiblicher Sohn, der das Geschlecht fortpflanzt, soll uns werden. Agni, diese Gnade von dir soll uns zuteil werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Beter schaff als Labung wunderreichen Besitz an Rindern fort und fort, o Agni, Ein eigner Sohn sei uns und Stammvermehrung, das sei uns, Agni, deine Gunsterweisung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приведи прямо к цели, о Агни, жертвенный напиток (и) многообещающую награду  
 В виде коровы для того. кто постоянно призывает (богов)!  

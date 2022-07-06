@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡मासो अधन्विषुः  
 प꣡वमानास इ꣡न्दवः  
 श्रीणाना꣡ अप्सु꣡ मृञ्जत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्री॒णा॒नाः । अ॒प्ऽसु । मृ॒ञ्ज॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -72,20 +72,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमासः** सोमाः **पवमानासः** पूयमानाः **इन्दवः** दीप्ताः **प्र** **अधन्विषुः** । धन्वतिर्गतिकर्मा। प्रगच्छन्ति । किंच **श्रीणानाः** गोभिः श्रयमाणाः **अप्सु** वसतीवरीषु च **मृञ्जत** मृज्यन्ते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified effused **Soma**-juices have flowed forth-- mixing (with curds and milk) they are cleansed in the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma juices have run forth, the self-purifying drops.  
 Brought to readiness, they have been groomed in the waters.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -95,24 +95,24 @@ The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HITHERWARD have the Soma streamed,  
      the drops while they are purified:  
      When bIent, in waters they are rinsed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somasäfte sind sich läuternd hervorgeströmt, mit Milch gemischt werden sie im Wasser gereinigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Soma's sind hervorgeströmt, die milchgemischten, rieselnden, Zur Reinigung im Wasserbad.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соки сомы побежали вперед,  
 Паваманы, капли.  

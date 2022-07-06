@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡ची ते चक्रे꣡ यातिया꣡  
 वियानो꣡ अ꣡क्ष आ꣡हतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡रोहत् प्रयती꣡ प꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अनः॑ । म॒न॒स्मय॑म् । सू॒र्या । आ । अ॒रो॒ह॒त् । प्र॒ऽय॒ती । पति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śucī* ← *śuci*
 - \[noun\], nominative, dual, masculine
@@ -97,36 +97,36 @@ popular;; epic anuṣṭubh (380)
 **यात्याः** गच्छन्त्याः **ते** तव अनसः **चक्रे** चङ्क्रमणशीले रथाङ्गे **शुची** श्रोत्रे आस्ताम् । **व्यानः** तव व्यानो वायुः **अक्षः** । उभयरथचक्रच्छिद्रगामिनी या काष्ठा सा च रथस्य सर्वं भारं वहति । सोऽक्षो व्यानोऽभूत् । **मनस्मयं** मनोमयम् **अनः** शकटं **सूर्या** **पतिं** सोमं प्रति **प्रयती** प्रकर्षेण गच्छन्ती **आरोहत्** आरूढवती । पतिं प्रति जिगमिषोर्मनोरूपस्य रथस्य पत्युर्गुणश्राविणी श्रोत्रे एव चक्रे अभूतां व्यानो धारको वायुश्चेष्टकोऽक्षोऽभूदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The two swift-moving wheels were your pure (cars). **Vāyu** was the fastened axle, **Sūrya** mountedthe chariot of the Mind, going to her lord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two gleaming ones [=Heaven and Earth?] were your two wheels as  you drove. Breath was hammered in as the axle.  
 Sūryā mounted the wagon made of mind, as she went forth to her  husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Clean, as thou wentest, were thy wheels wind, was the axle fastened there.  
      Surya, proceeding to her Lord, mounted a spirit-fashioried car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Reinen sind deine Räder, wann du fährst; der Hauch ist als Achse befestigt. Den geistigen Wagen bestieg Surya, als sie zum Gatten verzog.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Leuchtend waren deine beiden Räder als du fuhrst, eilend die hineingesteckte Achse, den durch ihr Herz erzeugten Wagen bestieg Suriā, als sie zum Gatten fuhr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два сверкающих – два твоих колеса при езде.  
 Дыхание – укрепленная ось.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्य हि꣡ स्व꣡यशस्तर  
 आसा꣡ विधर्मन् म꣡न्यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मन्द्र꣡म् परो꣡ मनीष꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । नाक॑म् । चि॒त्रऽशो॑चिषम् । म॒न्द्रम् । प॒रः । म॒नी॒षया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -103,7 +103,7 @@ genre M
 हे **विधर्मन्** । विशिष्टो धर्मो यस्यासौ विधर्मा स्तोता। तस्य संबोधनम् । हे स्तोतः **स्वयशस्तरः** सुयशसां मध्येऽतिशयेन सुयशास्त्वं **मनीषया** प्रकृष्टबुद्ध्या साधनेन **तं** प्रसिद्धम् **अस्य** अमुं **हि** अग्निम् आसा आस्येन वाचा **मन्यसे** स्तौषि । किंविशिष्टमग्निम् । **नाकं** सुखम् । अकं दुःखम् । न विद्यतेऽकं यस्य सः । तं **चित्रशोचिषं** चित्रतेजसं **मन्द्रं** स्तुत्यं **परः** परस्तात् स्थितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,34 +114,34 @@ genre M
 Performer of various functions: vidharman, may apply to the ṛṣi or the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, by reason of the mouth of this one [=both Agni and the poet], o  distributor [=sacrificer], you think yourself to have greater glory for  yourself,  
 (you should summon) him, the vault of heaven with his shimmering  blaze, the delighting one beyond inspired thinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Near him thou seemest mightier still in native glory, set to hold  
      Apart yon flame-hued vault of heaven, lovely beyond the thought of man.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For thou art manifestly considered as his (i. e. Agni's) disposer, highly brilliant by thyself 1: (magnify then Agni who is) a firmament of bright splendour, lovely beyond 2 thought 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn durch seinen Mund kommst du dir noch selbstherrlicher vor, Vidharman - ihn halte ich für den Himmel, den wunderbar Flammenden, erfreulichen, der jenseits aller Vorstellung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor seinen Augen dünkst du dich, o Himmelsraum viel herrlicher; Doch übertrifft an Weisheit er den lieben, lichtgeschmückten Dom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это благодаря его устам,  
 О Видхарман, ты считаешь себя наделенным более самостоятельной славой, (чем другие).  

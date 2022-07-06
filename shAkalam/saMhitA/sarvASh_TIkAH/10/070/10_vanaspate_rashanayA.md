@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नस्पते रशन꣡या नियू꣡या  
 देवा꣡नाम् पा꣡थ उ꣡प वक्षि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वतां द्या꣡वापृथिवी꣡ ह꣡वम् मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्वदा॑ति । दे॒वः । कृ॒णव॑त् । ह॒वींषि॑ । अव॑ताम् । द्यावा॑पृथि॒वी इति॑ । हव॑म् । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 हे **वनस्पते** वनस्पतिविकार यूप **विद्वान्** जानानस्त्वं **रशनया** रज्ज्वा **नियूय** बद्ध्वा परिव्याय **पाथः** अन्नं **देवानाम्** इन्द्रादीनाम् **उप** **वक्षि** उपवह प्रापय । ततः **देवः** वनस्पतिः **स्वदाति** हविष्प्रापणेन स्वदयतु । तथा **हवींषि** अस्माभिर्दत्तानि **कृणवत्** देवानां करोतु । तथा **मे** मदीयं **हवं** देवविषयाह्वानं **द्यावापृथिवी** द्यावापृथिव्यौ **अवतां** रक्षताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M
 Vanaspati: the sacrificial **post** or stake (**yūpa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Forest, harnessing it with a halter, convey it into the fold  of the gods, as you know how.  
 The god will sweeten and prepare the offerings. Let Heaven and Earth  aid my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-knowing, binding with thy cord, bring hither, Lord of the Wood, the Deities' assembly.  
      The God prepare and season our oblations may Heaven and Earth be gracious to my calling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Baum, mit dem Strick festbindend führe das Tier kundig in die Obhut der Götter! Der Gott mache schmackhaft und bereite die Opferspenden. Himmel und Erde mögen meinen Ruf bevorzugen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Opferpfosten, mit dem Strang dich schirrend, fahr kundig her nun zu dem Ort der Götter; Der Gott bereite, mache süss die Tränke, hold seien meinem Rufe Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 лесное дерево  
 , привязав (жертвенное животное) веревкой,  

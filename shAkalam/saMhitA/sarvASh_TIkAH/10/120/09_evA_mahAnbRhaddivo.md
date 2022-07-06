@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ महा꣡न् बृह꣡द्दिवो अ꣡थर्वा  
 अ꣡वोचत् स्वां꣡ तनु꣡वम् इ꣡न्द्रम् एव꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हिन्व꣡न्ति च श꣡वसा वर्ध꣡यन्ति च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स्वसा॑रः । मा॒त॒रिभ्व॑रीः । अ॒रि॒प्राः । हि॒न्वन्ति॑ । च॒ । शव॑सा । व॒र्धय॑न्ति । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -117,36 +117,36 @@ popular
 **महान्** गुणैरधिकः **अथर्वा** । उपचाराज्जन्ये जनकशब्दः । अथर्वणः पुत्रो बृहद्दिवाख्य ऋषिर्देवेषु मध्ये **इन्द्रमेव** प्रति **स्वाम्** आत्मीयां **तन्वं** विस्तृतां स्तुतिमू एवम् **अवोचत्** प्रोक्तवान् । वचेर्लुङि  ‘ अस्यतिवक्ति' इत्यादिना च्लेरादेशः ।  ‘ वच उम्' इत्युमागमः । पादादित्वान्न निहन्यते । अपि चैनमेव **इन्द्रं** **मातरिभ्वीः** मातरि सकलस्य भूतजातस्य निर्मात्र्यां भूमौ भवन्त्यो वर्तमानाः । भवतेः  अन्येभ्योऽपि दृश्यन्ते' इति वनिप् । ' वनो र च' इति ङीब्रेफौ । जसि वा छन्दसि' इति पूर्वसवर्णदीर्घः । पृषोदरादित्वाद्वर्णलोपः । **अरिप्राः** अपापाः **स्वसारः** स्वयमेव सरन्त्यः परस्परं भगिन्यो वा गङ्गाद्या नद्यः **हिन्वन्ति** यागसाधनत्वेन प्रीणयन्ति । हिविः प्रीणनार्थः । भौवादिकः । व्यत्ययेन शः । इदित्त्वात् नुम् । यद्वा ।  ‘ हि गतौ वृद्धौ च ' । स्वादिभ्यः इनुः । वृष्ट्यर्थं तमिन्द्रमुपगच्छन्ति । गत्वा च **शवसा** थागजन्येन बलेन तं **वर्धयन्ति** **च** ॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus the great **Bṛhaddiva**, son of **Atharvan**, repeated his diffused (praise) to **Indra**. The unsulliedsiister (streams) abiding in the mother (earth), to Indra, and augment him with strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this way, great Br̥haddiva, the Atharvan, addressed his own self—that  is, Indra.  
 The stainless sisters, who stay by their mother, speed him with swelling  strength and make him strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus hath Brhaddiva, the great Atharvan, spoken to Indra as himself in person.  
      The spotless Sisters, they who are his Mothers, with power exalt him and impel him onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also hat der große Brihaddiva Atharvan zu ihm selbst, zu Indra gesprochen: Die unbefleckten Schwestern, die bei der Mutter wohnen, treiben kräftig zur Eile und stärken ihn an Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat Brihaddiva, der grosse Priester, den Indra als sein eignes Selbst gerufen; Die unvermählten fleckenlosen Schwestern, erquicken ihn und stärken ihn mit Kräften.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так великий Брихаддива Атхарван  
 Воззвал к Индре (,как) к самому себе.  

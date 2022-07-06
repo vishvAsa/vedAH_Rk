@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ससर्परी꣡र् अ꣡मतिम् बा꣡धमाना  
 बृह꣡न् मिमाय जम꣡दग्निदत्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्र꣡वो देवे꣡षु अमृ꣡तम् अजुर्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । सूर्य॑स्य । दु॒हि॒ता । त॒ता॒न॒ । श्रवः॑ । दे॒वेषु॑ । अ॒मृत॑म् । अ॒जु॒र्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasarparīr* ← *sasarparīḥ* ← *sasarparī*
 - \[noun\], nominative, singular, feminine
@@ -107,7 +107,7 @@ genre M
 **जमदग्निदत्ता** जमदग्निभिः प्रज्वलिताग्निभिर्ऋषिभिरस्मभ्यं दत्ता **अमतिम्** अज्ञानं **बाधमाना** **ससर्परीः** सर्वत्र शब्दरूपतया सर्पणशीला वाक् **बृहत्** प्रभूतं यथा भवति तथा **मिमाय** नभसि शब्दं करोति । सैषा **सूर्यस्य** **दुहिता** वाग्देवता **देवेषु** इन्द्रादिषु **अजुर्यं** क्षयरहितम् **अमृतम्** अमृतलक्षणं **श्रवः** अन्नम् **आ** **ततान** समन्तात् स्वाहाकारवाचा' तनोति ॥ जमदग्निदत्ता । ‘दाण् दाने' इत्यस्य निष्ठायां ‘दो दद्धोः' इति ददादेशः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः । अजुर्यम् । ‘जॄ वयोहानौ '। ऋहलोर्ण्यत्'। ‘ बहुलं छन्दसि' इत्युत्वम् ।' नञ्सुभ्याम् ' इत्यन्तोदात्तत्वम् ॥२१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,14 +118,14 @@ genre M
 Given by Jamadagni: jamadagni **dattā** = given by the ṛs;is maintaining a blazing jamat-jvalat, fire, **agni**; mighty sound: the sound of thunder or the like in the sky; food among the gods: as the prayers or exclamation which accompanies the burnt offering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The squirming, sappy (cow called) Sasarparī, given by the Jamadagnis,  banishing neglect, has bellowed loftily.  
 (She like) the Daughter of the Sun has stretched (their [=the  
 Jamadagnis’]) fame, immortal and unaging, to the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -146,23 +146,23 @@ The next question to ask is why Sasarparī “banishes neglect” (ámatim bā́
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sasarpari, the gift of Jamadagnis, hath lowed with mighty voice dispelling famine.  
      The Daughter of the Sun hath spread our glory among the Gods, imperishable, deathless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sasarpari, die die geistige Armut verbrannt, brüllte laut, die von Jamadagni geschenkte. Des Surya Tochter breitete bis zu den Göttern ihren unsterblichen, unverwelklichen Ruhm aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reichlich strömende Kuh [siehe Anmerkungen], die den Mangel abwehrt, brüllte laut; die von Dschamadagni geschenkte, sie, die Tochter der Sonne, verbreitete bei den Göttern als preisenswerthes Gut, das unvergängliche Amrita.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сасарпари, прогоняющая безмыслие,  
 Громко замычала, (она,) данная Джамадагни.  

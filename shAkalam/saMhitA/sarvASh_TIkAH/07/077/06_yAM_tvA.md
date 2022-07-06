@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यां꣡ त्वा दिवो दुहितर् वर्ध꣡यन्ति  
 उ꣡षः सुजाते मति꣡भिर् व꣡सिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 सा । अ॒स्मासु॑ । धाः॒ । र॒यिम् । ऋ॒ष्वम् । बृ॒हन्त॑म् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
@@ -127,36 +127,36 @@ genre M;; repeated line
 हे **दिवो** **दुहितः** **उषः** **सुजाते** शोभनजनने **यां** **त्वा** त्वां **मतिभिः** स्तोत्रैः **वसिष्ठाः** **वर्धयन्ति** **सा** त्वम् **अस्मासु** वसिष्ठेषु **ऋष्वं** प्रदीप्तं **बृहन्तं** महान्तं **रयिं** धनं **धाः** धेहि ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Well-manifested Uṣas, daughter of heaven, do you, whom the **Vasiṣṭhas** magnify with praises, bestowupon us brillian and infinite wealth; and do you, (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whom the Vasiṣṭhas strengthen with their thoughts, o Daughter of  Heaven, well-born Dawn,  
 as that one place in us wealth high and lofty. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Usas, nobly-born, Daughter of Heaven, whom the Vasisthas with their hymns make mighty,  
      Bestow thou on us vast and glorious riches. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmelstochter, edelgeborene Usas, die die Vasistha´s mit Gedichten erbauen, bring du zu uns riesigen, großen Reichtum!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Himmels Tochter, welche die Vasischtha's, mit Liedern preisen, edle Morgenröthe, Gib Reichthum uns, erhabenen, gewalt'gen. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о дочь неба, которую усиливают  
 Васиштхи, о Ушас прекраснорожденная, (своими) молитвами,  

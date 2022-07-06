@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वायु꣡र् न꣡ यो꣡ नियु꣡त्वाँ इष्ट꣡यामा  
 ना꣡सत्येव ह꣡व आ꣡ श꣡म्भविष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पूषा꣡ इव धीज꣡वनो ऽसि सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒श्वऽवा॑रः । द्र॒वि॒णो॒दाःऽइ॑व । त्मन् । पू॒षाऽइ॑व । धी॒ऽजव॑नः । अ॒सि॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
@@ -136,41 +136,41 @@ genre M
 **यः** सोमः **नियुत्वान्** । नियुतो वायोरश्वाः । तद्वान् **वायुर्न** वायुरिव **इष्टयामा** इष्टगमनः । **नासत्येव** अश्विनाविव **हवम्** आह्वानमाकर्ण्य **आ** सर्वतः **शंभविष्ठः** सुखस्य भावयितृतमः । **द्रविणोदाइव** धनदातेव' **त्मन्** आत्मनि **विश्ववारः** विश्वैर्वरणीयो भवति तद्वद्विश्ववारोऽसि । **पूषेव** पोषकः सवितेव **धीजवनः** मनोवेगः **असि** । यद्वा कर्मणां प्रवर्तयितासि हे **सोम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, who like **Vāyu** with his **Niyut** steeds go where you list, who like the **Nāsatyās** on hearing the invocation do grant abundant felicity, you are of yourself desired by all like the giver of wealth, you are like **Pūṣan**, swift as thought.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, who like Vāyu with his team maintain your desired course, who like  the Nāsatyas are most availing at a summons,  
 who like the Treasure-Giver in person bring all desirable things—like  Pūṣan you give speed to insight, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take iṣtá- in the cmpd. iṣtá-yāman- as belonging to the root √iṣ ‘send’ (e.g., “[d]er seine Fahrt beeilt” and see Geldner’s n. 3a). But as Oldenberg (ZDMG 62 [1908] 473-74) points out, we should then expect *iṣitá-yāman-. (Like me, Oldenberg attributes iṣṭá- here to √iṣ ‘seek, desire’, though his interpr. of the cmpd. differs from mine.) The parallel passages with iṣṭáye in conjunction with √yā that Geldner adduces in his n. (and others he doesn’t cite) all belong, in my opinion, to ‘seek, desire’, not ‘send’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Vayu with his team, moving at pleasure, most gracious when invoked like both Nasatyas,  
      Thou art thyself like the Wealth-Giver, Soma! who grants all boons, like song-inspiring Pusan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der seine Fahrt beeilt wie Vayu mit dem Vielgespann, wie die Nasatya´s am entgegenkommendsten bei dem Anruf; allbegehrt wie Dravinodas selbst, wie Pusan bist du, Soma, ein Gedankenerwecker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Vaju, der mit Vielgespann nach Wunsch fährt, wie's Ritterpaar, beim Ruf zum Heile eilend, Wie Schätzespender, reich an allen Gütern, wie Puschan bist du, Soma, Andacht weckend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, как Ваю, снабженный упряжками, словно Насатьи,  
 Спешащие при выезде, самый благосклонный к призыву,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ सीम् अ꣡कृण्वन् त꣡मसे विपृ꣡चे  
 ध्रुव꣡क्षेमा अ꣡नवस्यन्तो अ꣡र्थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्प꣡शं वि꣡श्वस्य ज꣡गतो वहन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । सूर्य॑म् । ह॒रितः॑ । स॒प्त । य॒ह्वीः । स्पश॑म् । विश्व॑स्य । जग॑तः । व॒ह॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -133,14 +133,14 @@ genre M
 **ध्रुवक्षेमाः** स्थिरनिवासाः सृष्टिकर्तारो देवाः **सीं** सर्वतः **तमसे** तमसः **विपृचे** पृथक्करणाय **अर्थं** जगल्लक्षणं कार्यम् **अनवस्यन्तः** अविमुञ्चन्तः कुर्वन्त एव **यं** सूर्यम् **अकृण्वन्** असृजन्नित्यर्थः । **यह्वीः** महत्यः **सप्त** सप्तसंख्याकाः **हरितः** अश्वाः **विश्वस्य** समस्तस्य **जगतः** प्राणिसमूहस्य **स्पशं** प्रेरकत्वेन ज्ञातारं **तं** **सूर्यं** **वहन्ति** धारयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Seven great courses convey that sun, whom the (deities), occupants of enduring mansions, and not heedless (of their offices), have formed for the driving away of darkness, (and who is) the animator of the whole world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one whom they created to pull apart the darkness—those  
 [=Ādityas?] with fixed peaceful abodes, who do not unharness until  
@@ -148,35 +148,35 @@ The one whom they created to pull apart the darkness—those
 that Sun, do the seven golden mares, youthfully exuberant, convey as spy  of the whole moving world.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the Ādityas as the subj. of ákṛṇvan, since the Sun is their spy (see pāda d). It could also be, more generally, the gods, as Oldenberg (SBE), Geldner, and Renou take it.
 
 In any case it is certainly not the other pl. entity mentioned in cd, the seven golden mares.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him whom they made to drive away the darkness, Lords of sure mansions, constant to their object,  
      Him who beholds the universe, the Sun-God, seven strong and youthful Coursers carry onward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him whom (the gods) dwelling in firm peace, and never losing their object, have created for dispersing the darkness—Him, the Sun, the all-observer, the seven young fallow mares carry forward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den sie dazu bestimmten, das Dunkel zu zerteilen, sie die auf festem Grunde stehen und ihr Tagwerk nie einstellen, diesen Surya fahren die sieben jüngsten falben Stuten, den Beobachter der ganzen Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den zu des Dunkels Scheuchung sie erschufen, die sicher wohnen, nicht vom Ziele weichen; Den Sonnengott, der alle Welt beschauet, ihn fahren sieben lichte, schnelle Stuten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого они создали, чтобы он опустошил мрак,  
 Они с прочной обителью – (его,) не упускающего (своей) цели,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृषभं꣡ चर्षणीनां᳐꣡  
 विश्व꣡रूपम् अ꣡दाभियम्  
 बृ꣡हस्प꣡तिं व꣡रेणियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 बृह॒स्पति॑म् । वरे॑ण्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
@@ -71,19 +71,19 @@ genre M
 **चर्षणीनां** मनुष्याणां **वृषभम्** अभिमतफलवर्षकं **विश्वरूपं** व्याप्तरूपम् । यद्वा । विश्वरूपानामकगोवाहनोपेतम् । तथा च मन्त्रवर्णः -- बृहस्पतिर्विश्वरूपामुपाजत ' ( ऋ. सं. १. १६१. ६ इति । **अदाभ्यं** केनाप्यतिरस्करणीयं **वरेण्यं** सर्वैर्भजनीयं **बृहस्पतिम्** । अभिमतफलं याचे ‘ इति पूर्वेणान्वयः ॥ विश्वरूपम् ।  ‘ बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । यद्वा । विश्वरूपास्य अस्तीति अर्शआदित्वात् अच्प्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । अदाभ्यम् ।  ‘ दभेश्चेति वक्तव्यम्' इति ण्यत्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer (of benefits) on men, the omniform, the irreproachable, the excellent **Bṛhaspati**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the bull of the settled domains, having all forms, undeceivable, Br̥haspati worthy to be chosen.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -93,23 +93,23 @@ Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull of men, whom none deceive, the wearer of each shape at will,  
      Brhaspati Most Excellent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Bullen der Völker, den alle Gestalten tragenden, untrügbaren, den begehrenswerten Brihaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den herrlichen Brihaspati, der allgestaltig, ungetäuscht, Des Männervolks Gebieter ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быку народов,  
 Имеющему много обличий, не терпящему обмана  

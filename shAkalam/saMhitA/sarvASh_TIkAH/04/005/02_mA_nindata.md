@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ निन्दत य꣡ इमा꣡म् म꣡ह्य° रातिं꣡  
 देवो꣡ ददउ꣡ म꣡र्तियाय स्वधा꣡वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानरो꣡ नृ꣡तमो यह्वो꣡ अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पाका॑य । गृत्सः॑ । अ॒मृतः॑ । विऽचे॑ताः । वै॒श्वा॒न॒रः । नृऽत॑मः । य॒ह्वः । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -118,41 +118,41 @@ genre M
 हे होत्रादयः अमुं वैश्वानरमग्निं **मा** **निन्दत** निन्दां मा कुरुत । स्तुतेत्यर्थः । **यः** **देवः** दीप्यमानोऽग्निः **स्वधावान्** अस्मद्दत्तेन हविर्लक्षणेनान्नेन तद्वान् सन् **मर्त्याय** मरणधर्माय **पाकाय** परिपक्वप्रज्ञाय **मह्यं** यजमानाय **इमाम्** इदानीं दीयमानप्रकारां **रातिं** धनं **ददौ** दत्तवान् । स विशेष्यते । **गृत्सः** मेधावी । मेधाविनामैतत् । **अमृतः** अमरणस्वभावः **विचेताः** विशिष्टप्रज्ञः **वैश्वानरः** विश्वैर्नरैः अहवनीयादिरूपेण नीयमानः **नृतमः** नेतृतमः फलादीनां **यह्वः** महान् । महन्नामैतत् । **अग्निः** अङ्गनादिगुणविशिष्टः। तादृशमग्निं स्तुतेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Reproach not the divine (**Agni**), who, accepting the oblation, has given this wealth to me, his mortal (worshipper) of mature (intellect); Agni, who is wise, immortal, discriminating, (who is) **Vaiśvānara**, chief conductor (of rites), the mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not spurn (him), the self-empowered god who gave this bounty to me,  a mortal,  
 a simple man—he shrewd, discriminating, the immortal Vaiśvānara,  most manly, youthfully exuberant Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Reproach not him who, God and selfreliant, vouchsafed this bounty unto me a mortal,-  
      Deathless, discerner, wise, to me the simple, Vaisvanara most manly, youthful Aini.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Do not reproach Him, the self-dependent one, who has given this bounty to me, the god to the mortal, the clever one to the simple, the wise immortal, the most manly, restless1 Agni Vaisvânara.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tadelt den nicht, der mir dieses Geschenk gab, der freischaltende Gott den Sterblichen, der kluge, unsterbliche, verständige den Einfältigen, der mannhafteste Vaisvanara, der jüngste Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht schmähet den, der diese grosse Gabe dem Sterb- lichen der Gott als Herrscher schenkte, dem Thoren er, der kluge, ew'ge weise, der Männerhort, der kühne, rasche Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не хулите (того,) кто меня наделил этим даром,  
 Смертного – бог, следующий своему обычаю,  

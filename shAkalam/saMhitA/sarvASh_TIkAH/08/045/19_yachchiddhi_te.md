@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् चिद् धि꣡ ते अ꣡पि व्य꣡थिर्  
 जगन्वां꣡सो अ꣡मन्महि  
 गोदा꣡ इ꣡द् इन्द्र बोधि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गो॒ऽदाः । इत् । इ॒न्द्र॒ । बो॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacciddhi* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -105,41 +105,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अपि** **चित्** अपि च हे **इन्द्र** **ते** तुभ्यं **यत्** यदा हि **व्यथिः** दारिद्र्येण व्यथिताः **जगन्वांसः** गन्तारो वयम् **अमन्महि** विष्टुमः तदा **नः** अस्माकं **गोदा** **इत्** गवां दातैव भवामीति **बोधि** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whenever, repairing to you in our distress, we offer our praises, attend to us, **Indra**, as a giver of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For even though we’ve thought that we’ve been going a wayward course  to you,  
 still become for us a giver of cows, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The logical relation between the subordinate clause (ab) and main clause (c) is somewhat indirect. The point seems to be that though we think that our behavior towards Indra has not been entirely straightforward and proper, we hope that he will continue to be generous to us despite our failings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When even now, when we have been in trouble, we have thought of thee,  
      O Indra, give us gifts of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obschon wir ja des Glaubens sind, einen Fehltritt gegen dich begangen zu haben, so sei uns, Indra, doch ein Kuhschenker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wenn wir je dir waren werth als die, die deine Wege gehn, So schenke, Indra, Rinder uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хоть мы и сознавали,  
 Что колебались в отношении тебя,  

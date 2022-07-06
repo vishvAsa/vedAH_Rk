@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दे꣡वीः षळ् उर्वीर् उरु꣡ नः कृणोत  
 वि꣡श्वे देवास इह꣡ वीरयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ रधाम द्विषते꣡ सोम राजन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मा । हा॒स्म॒हि॒ । प्र॒ऽजया॑ । मा । त॒नूभिः॑ । मा । र॒धा॒म॒ । द्वि॒ष॒ते । सो॒म॒ । रा॒ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devīḥ* ← *devī*
 - \[noun\], vocative, plural, feminine
@@ -133,7 +133,7 @@ popular
 हे **षट्** **उर्वीः** षट्संख्याका उर्व्यः । एताश्चान्यत्राम्नायन्ते -- ' षण्मोर्वीरंहसः पान्तु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्च इति । ईदृश्यो हे **देवीः** देव्यः ॥ जसि वा छन्दसि । इति पूर्वसवर्णदीर्घः ।  ‘ नामन्त्रिते समानाधिकरणे सामान्यवचनम् ' इत्यस्याविद्यमानत्वनिषेधेन षळुर्वीरित्यनयोरामन्त्रितयोः पदात्परत्वादाष्टमिकमामन्त्रितानुदात्तत्वम् ॥ ता यूयम् **उरु** विस्तीर्णं धनं **नः** अस्माकं **कृणोत** कुरुत ॥  ‘ कृवि हिंसाकरणयोश्च ।  ‘ धिन्विकृण्व्योरच्च ' इत्युप्रत्ययः ।  ‘तप्तनप्तनथनाश्च । इति तस्य तबादेशः ॥ हे **विश्वे** सर्वे **देवासः** देवाः यूयं च **इह** अस्मिन् धने प्राप्तव्ये विषये **वीरयध्वं** विक्रामयत । यथा वयं तद्धनं लभेमहि तथा वीर्यवन्तो यूयं प्रयतध्वमित्यर्थः ॥  ‘ वीर विक्रान्तौ । अपि च **प्रजया** पुत्रादिरूपया **मा** **हास्महि** वयं मा परित्यज्येमहि । **मा** च **तनूभिः** शरीरैस्त्यज्येमहि । अस्मान् कदाचिदपि पुत्रादयः शरीराणि च मा परित्याक्षुरित्यर्थः ॥ **ओहाक्** त्यागे । अस्मात् कर्मणि लुङि चिण्वद्भावाभावे रूपमेतत् ॥ तथा हे **राजन्** राजमान यद्वास्माकं स्वामिन् हे **सोम** **द्विषते** अप्रीतिं कुर्वते ॥ द्विषेः शतरि अदादित्वात् शपो लुक् । 'शतुरनुमः । इति विभक्तेरुदात्तत्वम् । 'षष्ठ्यर्थे चतुर्थी वक्तव्या ' इति चतुर्थी ॥ द्विषतः शत्रोः  **मा** **रधाम** मा वशं प्राप्नुयाम तथा त्वं कुर्वित्यर्थः ।  ‘ रध्यतिर्वशगमने ' (निरु. ६. ३२ ) इति यास्कः । यद्वा । द्विषते शत्रवे तदर्थं मा रधाम । परिपक्वा हननार्हा मा भूम ॥  ‘ रध हिंसासंराद्ध्योः । संराद्धिः पाक इति तद्वृत्तिः । माङि लुङि पुषादित्वात् च्लेरङादेशः ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ popular
 You six: heaven, earth, day, night, water and plural nts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You six broad goddesses, create broad (space) for us. All you gods, act as  heroes here.  
 May we not be bereft of offspring, nor of our own bodies. May we not  become subject to him who hates us, o King Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye six divine Expanses, grant us freedom: here, all ye Gods, acquit yourselves like heroes.  
      Let us not lose our children or our bodies: let us not benefit the foe, King Soma!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr sechs göttlichen Räume, gebet uns Raum, alle Götter zeiget euch hier als Männer! Nicht möchten wir der Kinder noch des eigenen Leibes verlustigt gehen; nicht wollen wir dem Feinde erliegen, König Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier als Helden, Nicht sei Verlust an Leben uns und Kindern, gib nicht uns preis dem Hasser, König Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вы, шесть божественных широких (пространств), создайте нам широкий (простор)!  
 О Все-Боги, проявите себя здесь как герои!  

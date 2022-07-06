@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प्रयुछन्न् अ꣡प्रयुछद्भिर् अग्ने  
 शिवे꣡भिर् नः पायु꣡भिः पाहि शग्मइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡निमिषद्भिः प꣡रि पाहि नो जाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अद॑ब्धेभिः । अदृ॑पितेभिः । इ॒ष्टे॒ । अनि॑मिषत्ऽभिः । परि॑ । पा॒हि॒ । नः॒ । जाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aprayucchann* ← *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
@@ -115,51 +115,51 @@ genre M
 हे **अग्ने** **अप्रयुच्छन्** अस्मासु अप्रमाद्यन् ॥'युच्छ प्रमादे' । अविच्छिन्नप्रवृत्तिः सन् 'अप्रयुच्छद्भिः अप्रमाद्यद्भिः अनवधानरहितैः **शिवेभिः** मन्त्रकल्याणैः **शग्मैः** सुखकरैः **पायुभिः** रक्षणप्रकारैः **न:** अस्मान् **पाहि** रक्ष। किंच हे **इष्टे** सर्वैः एषणीयाग्ने **जाः** जायमानोऽस्माभिर्दीप्यमानः सन् **अदब्धेभिः** अहिंसितैः अदृपितेभिः केनचिदप्यपरिभूतैः ॥ ‘ दृप दृम्फ उत्क्लेशे '। तौदादिकः ॥ **अनिमिषद्भिः** निमेषरहितैः अनलस्वभावैः ईदृशैः लक्षणै: **नः** अस्मान् **परि** परितः **पाहि** पालय । यद्वा । उपर्युपरि जायन्ते इति जाः । नो जाः अस्मत्संबन्धिनीः पुत्रपौत्रादिरूपाः प्रजाः परि **पाहि** परितो रक्ष । न केवलमस्मान् किंतु अस्मत्पुत्रपौत्रादीनपि रक्ष ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, never heedless (of us), guard us with never heedless, auspicious, and joy-bestowing cares; do you, who are desired (by all), protect us, and those born of us, with unobstructed unovercome, and never slumbering (vigilance).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Staying close, o Agni, protect us with your kindly, able protectors that  stay close.  
 With your undeceivable, undistracted, unwinking (protectors), o object  of our quest, protect our kindred all around.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With most interpr., I take unaccented iṣṭe at the end of c, also found at the end of its pāda in VI.8.7, as a voc. to a -ti-stem, built to √iṣ ‘seek’. Although such a form and usage is unusual, Geldner’s suggestion, that it is truncated from *iṣtébhiḥ (Geldner ‘lieben’), seems less likely. See Oldenberg’s scathing criticism of the same emendation ad VI.8.7 in ZDMG 55.296 (=KlSch. 755).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Keep us incessantly with guards that cease not, Agni, with guards auspicious, very mighty.  
      With guards that never slumber, never heedless, never beguiled. O Helper, keep our children.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Preserve us, O Agni, never failing with thy never-failing, kind and mighty guardians; protect our people all around with those undeceived, undismayed, never slumbering (guardians), O thou our wish 2!
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Incessantly with guards unceasing, Agni, That are auspicious and strong, protect us. With guards that slumber not, unfailing, watchful, Preserve, O helper, all our children safely.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schirme uns, o Agni, unablässig mit deinen unablässigen, freundlichen, wirksamen Schirmern; mit den betörten, nie zerstreuten, lieben, die die Augen nie schließen, beschirme unsere Kinder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüte uns mit holden starken Hütern, mit unabläss'gen, Agni, unablässig, Mit unbethörten, Herr, und unverwirrten, die nimmer schlummern, schütze unsre Kinder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, неустанный, с неустанными,  
 Милостивыми, доблестными защитниками защити нас!  

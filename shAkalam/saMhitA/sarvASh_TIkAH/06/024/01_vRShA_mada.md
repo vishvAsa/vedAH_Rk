@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा म꣡द इ꣡न्दरे+ श्लो꣡क उक्था꣡  
 स꣡चा सो꣡मेषु सुतपा꣡ ऋजीषी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्युक्षो꣡ रा꣡जा गिरा᳐꣡म् अ꣡क्षितोतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्च॒त्र्यः॑ । म॒घऽवा॑ । नृऽभ्यः॑ । उ॒क्थैः । द्यु॒क्षः । राजा॑ । गि॒राम् । अक्षि॑तऽऊतिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -116,20 +116,20 @@ genre M
 **सोमेषु** सोमवत्सु यागेषु **इन्द्रे** सोमपानजनितः मदः वृषा यजमानस्य कामानां वर्षको भवति । यद्वा । सर्वजनाह्लादकस्य वर्षणस्य कर्ता भवति । **उक्था** उक्थेन शस्त्रेण **सचा** सह **श्लोकः** स्तोत्ररूपः शब्दः वृषा भवति । सुतपाः अभिषुतस्य सोमस्य पाता **ऋजीषी** ऋजीषं गतरसमपि सोमं न परित्यजन् **मघवा** धनवान् स चेन्द्रः **नृभ्यः** स्तुतीनां नेतृभ्यः **उक्थैः** स्तोत्रैः **अर्चत्र्यः** अर्चनीयो भवति । **द्युक्षः** द्युलोकनिवासः **गिरां** स्तुतीनां **राजा** ईश्वर इन्द्रः **अक्षितोतिः** अक्षीणरक्षश्च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “At the rites at which **soma** (is offered) the exhilaration (produced) in **Indra** is a shower (of benefits to the offerer); so is the chanted hymn with the (recited) prayer, therefore the drinker of the soma, the partaker of the stale soma, **Maghavan**, is to be propitiated by men with praises; dweller in heaven, he is the lord of sacred songs, unwearied in the protection (of his votaries).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bullish exuberance, noise, and solemn words are in Indra; he is the  drinker of the pressings and in possession of the silvery drink, when  the soma juices are in his company.  
 He is worthy to be chanted by men with solemn words as the bounteous  one, the heaven-ruling king of hymns, whose help is imperishable.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 That avīḥ of c is also the verb of d is suggested by passages like I.110.9 vā́jebhir no vā́jasātau aviḍḍhi, VIII.46.11 dhíyo vā́jebhir āvitha with √av and an instr.
 
@@ -146,23 +146,23 @@ On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STRONG rapturous joy, praise, glory are with Indra: impetuous God, he quaffs the juice of Soma:  
      That Maghavan whom men must laud with singing, Heaven-dweller, King of songs, whose help is lasting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullenhafter Rausch, Ruhmeslied und Lobgedichte gehören zu Indra, zu den Somatränken gehört der Somatrinker, der Trinker des Trestersafts. Als der Gabenreiche ist er in Liedern für die Männer zu preisen, der himmlische König der Lieder, dessen Gnade unerschöpflich ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stark ist bei Indra Rauschtrank, Lob und Sprüche, bei Somaspenden stark der gier'ge Trinker; Mit Spruch zu preisen ist von Männern Indra, der Lieder Herr, der lichte, sicher helfend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мужественное опьянение, хвалебное пение, гимны (предназначены) Индре, –  
 (А он,) пьющий сок, богатый выжимками, (привержен) струям сомы.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡शोचि अग्निः꣡ समिधानो꣡ अस्मे꣡  
 उ꣡पो अदृश्रन् त꣡मसश् चिद् अ꣡न्ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छ्रिये꣡ दिवो꣡ दुहितु꣡र् जा꣡यमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अचे॑ति । के॒तुः । उ॒षसः॑ । पु॒रस्ता॑त् । श्रि॒ये । दि॒वः । दु॒हि॒तुः । जाय॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśocy* ← *aśoci* ← *śuc*
 - \[verb\], singular, Aorist passive
@@ -126,36 +126,36 @@ genre M
 **अस्मे** अस्माभिः **समिधानः** समिध्यमानः सन् **अग्निः** **अशोचि** दीप्यते। तमसश्चित् तमसोऽपि **अन्ताः** पर्यन्ताः प्रदेशाः **उपो** अदृश्रन् उपदृश्यन्ते सर्वैः । **केतुः** सर्वस्य प्रज्ञापकः सूर्यः **दिवो** **दुहितुः** **उषसः** **पुरस्तात्** पूर्वस्यां दिशि **श्रिये** शोभायै **जायमानः** सन् **अचेति** ज्ञायते । यस्मादेवं तस्माद्युवयोरागमनसमयः । अत आगच्छतमिति शेषः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Kindled by us, **Agni** blazes, the extremities of the darkness are seen near at **hand**, the banner (of thesun) is perceived rising with the glory on the east of the dawn, the daughter of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has blazed up, being kindled among us, and the very borders of  darkness have become visible.  
 In the east Dawn’s beacon has come into view—(the beacon) of Heaven’s  daughter, which is being born for glory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brightly hath Agni shone by us enkindled: the limits even of darkness were apparent.  
      Eastward is seen the Banner of the Morning, the Banner born to give Heaven's Daughter glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das entzündete Feuer ist bei uns entflammt; selbst der Finsternis Ende ist erschienen. Im Osten hat sich das Banner der Morgenröte, der Himmelstochter, bemerkbar gemacht, das zur Schönheit geboren wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von uns entzündet strahlet hell nun Agni, und sichtbar wurden selbst des Dunkels Enden; Der Morgenröthe Schein erglänzt im Osten zum Schmuck geboren für des Himmels Tochter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запылал у нас зажженный Агни.  
 Показались края даже у самого мрака.  

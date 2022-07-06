@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अ꣡रातिर् ईशत  
 देव꣡स्य म꣡र्तियस्य च  
 प꣡र्षि त꣡स्या उत꣡ द्विषः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 पर्षि॑ । तस्याः॑ । उ॒त । द्वि॒षः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -86,46 +86,46 @@ genre M
 हेअग्ने त्व्दनुग्रहात् नोस्मानरातिः अदानंशत्रुत्वं यद्वा छन्दस्यरातिशब्दः शत्रुवाचीस्त्रीलिङ्गोभ- वति अदाताशत्रुः माईशत पराभवितुंशक्तोमाभूत् माविषयीकुर्यात् अरातिर्विशेष्यते देवस्यचमर्त्ग- स्यचसम्बन्धिनी तैःकारिता उतअपिचतस्याउभयविधायाः द्विषः अस्मदरातेः पर्षि स्यचमर्त्यस्यचसं- बन्धिनी तैःकारिता उतअपिचतस्याउभयविधायाः द्विषः अस्मदरातेः पर्षि पूरय ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let no enemy prevail against us, whether of god or man; protect us from both such foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let hostility of god and mortal not gain mastery over us.  
 Rescue us from it and from hatred.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On īśata in the mā́prohibitive see comm. ad I.23.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let no malignity prevail against us, either God's or man's.  
      Save us from this and enmity.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May no malign power of a god or of a mortal overcome us. Help us across such hostile power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll die Mißgunst eines Gottes noch eines Sterblichen über uns Macht bekommen. Hilf uns von dieser und von der Feindschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht herrsche Missgunst über uns des Gottes, noch des Sterblichen; Davon befrei uns und vom Hass.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не овладеет нами немилость  
 Бога и смертного!  

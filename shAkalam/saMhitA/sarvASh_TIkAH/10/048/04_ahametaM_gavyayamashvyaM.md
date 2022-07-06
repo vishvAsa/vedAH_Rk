@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् एतं꣡ गव्य꣡यम् अ꣡श्वियम् पशु꣡म्  
 पुरीषि꣡णं सा꣡यकेना हिरण्य꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡न् मा सो꣡मास उक्थि꣡नो अ꣡मन्दिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पु॒रु । स॒हस्रा॑ । नि । शि॒शा॒मि॒ । दा॒शुषे॑ । यत् । मा॒ । सोमा॑सः । उ॒क्थिनः॑ । अम॑न्दिषुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -113,36 +113,36 @@ genre M
 **अहमेतं** **गव्ययं** गोमयम् **अश्व्यम्** अश्वमयं **हिरण्ययं** हिरण्यालंकारोपेतं **पुरीषिणम्** । पुरीषमुदकं क्षीररूपम् । तद्वन्तं **पशुं** शत्रुसंबन्धिनम् । जात्येकवचनम् । पशुसंघमित्यर्थः । तं **सायकेन** आयुधेन अजयम् । तथा **पुरु** पुरूणि **सहस्रा** सहस्राणि शस्त्राणि **नि** **शिशामि** संस्करोमि **दाशुषे** हविर्दत्तवते यजमानाय । वैरिविनाशायेत्यर्थः । कदेति उच्यते । **यत्** यदा **मा** मां **सोमासः** सोमाः **उक्थिनः** शस्त्रोपेताः सन्तः अथवा सोमेन शस्त्रैश्चोपेता यजमानाः **अमन्दिषुः** तर्पयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I conquered) by my shaft this (wealth) comprehending kine, horses, herds, water, and gold; I givemany thousands to the donor (of the oblation) when libations and praises have afforded me delight.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I (win) livestock in cows and horses, overflowing and golden, with my  weapon.  
 Many thousands do I “grind down” for the pious man, when the soma  drops accompanied by hymns have brought me to exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I won myself these herdi of cattle, steeds and kine, and gold in ample store, with my destructive bolt.  
      I give full many a thousand to the worshipper, what time the Somas and the lauds have made me glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich erbeutete jene Rinder- und Roßherde, die dungreiche, goldgeschmückte, mit meinem Geschoß. Viele Tausende steche für den Opferspender nieder, wann mich die Somatränke, von Lobliedern begleitet, berauscht haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich treibe Ross- und Rinderheerden schnell herbei und reichversehnen goldnen Schatz durch mein, Geschoss; Viel tausend Güter führ' ich dem Verehrer zu, wenn Somatrank und Loblied mich begeistert hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это богатство из коров и коней, скот,  
 Дающий изобилие, золотой (я захватил одним) выстрелом.  

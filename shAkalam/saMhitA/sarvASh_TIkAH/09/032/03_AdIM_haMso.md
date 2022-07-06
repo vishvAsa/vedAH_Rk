@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् ईं हंसो꣡ य꣡था गणं꣡  
 वि꣡श्वस्यावीवशन् मति꣡म्  
 अ꣡त्यो न꣡ गो꣡भिर् अज्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्यः॑ । न । गोभिः॑ । अ॒ज्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आत्** अपि च **ईम्** अयं सोमः **हंसो** **यथा** **गणं** जनसंघं स्वगतिविशेषेण स्वनेन वा प्रविशति तद्वत् **विश्वस्य** सर्वस्य स्तोतृजनस्य **मतिं** स्तुतिं बुद्धिं वा **अवीवशत्** वशं नयति । स च सोमः **अत्यो** **न** अश्व इव **गोभिः** गव्यैरुदकैर्वा **अज्यते** सिच्यते स्निग्धीक्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 As a swan, by its peculiar gait or voice excites the admiration of its flock as it enters it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then, just as (the lead) wild goose (sets) its flock (to honking), he has  made the thought of everyone bellow.  
 Like a steed he is anointed [/driven together] with the cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two similes (ab and c respectively), each a bit trickily constructed.
 
@@ -125,23 +125,23 @@ The ā́d that begins both these vss. does not seem to have its usual “(just) 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now like a swan he maketh all the company sing each his hymn:  
      He, like a steed, is bathed in milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann hat er wie eine Gans ihre Schar, so eines jeden Gebet laut werden lassen. Er wird mit Milch wie ein Rennpferd gesalbt, preisgekrönt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt lockt er jedem Lieder ab wie seinem Volk der Gänserich. Man salbt mit Milch ihn wie ein Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут, словно гусь – стаю,  
 Он заставил звучать молитву каждого.  

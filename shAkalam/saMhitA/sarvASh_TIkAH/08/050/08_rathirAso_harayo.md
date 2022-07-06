@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रथिरा꣡सो ह꣡रयो ये꣡ ते अस्रि꣡ध  
 ओ꣡जो वा꣡तस्य पि꣡प्रति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ये꣡भिः सु꣡वः परी꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 येभिः॑ । नि । दस्यु॑म् । मनु॑षः । नि॒ऽघोष॑यः । येभिः॑ । स्व१॒॑रिति॑ स्वः॑ । प॒रि॒ऽईय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathirāso* ← *rathirāsaḥ* ← *rathira*
 - \[noun\], nominative, plural, masculine
@@ -105,7 +105,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,30 +116,30 @@ Sayana bhashya empty
 Or, of **Manus**, dasyum **manuṣaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fit for the chariot are your fallow bays, which, unfailing, cross over the  power of the wind,  
 with which you made the Dasyu heed because of Manu, with which  you speed around the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The versions pattern closely together despite variant semantics: (aj)irā́so / (rath)irā́so hárayo yé te … (a); vā́tā… /...vā́tasya … (b); yébhir ... mánuṣaḥ (c); yébhiḥ (...) svàr … (d).
 
 The poor transmission of the Vālakhilya is probably responsible for the faulty accent of nighóṣayaḥ (for *nighoṣáyaḥ)(so Oldenberg). There is also unnecessary doubling of the preverb ní (which does not affect the meter, however).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine falben Wagenpferde, die ohne Unfall zu erleiden des Windes Kraft überholen, mit denen du den Dasyu vor Manu zum Schweigen brachtest, mit denen du die Sonne einholest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die holden Rosse, welche deinen Wagen ziehn, sind schneller als des Windes. Wehn, – Mit denen du des Menschen Feind zu Boden wirfst, und rings den Aetherraum durchfährst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (На тех) везущих колесницу буланых конях, которые безошибочно  
 Превосходят силу штормового ветра,  

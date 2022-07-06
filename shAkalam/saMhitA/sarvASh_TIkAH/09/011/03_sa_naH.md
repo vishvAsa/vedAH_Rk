@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पवस्व शं꣡ ग꣡वे  
 शं꣡ ज꣡नाय श꣡म् अ꣡र्वते  
 शं꣡ राजन्न् ओ꣡षधीभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शम् । रा॒ज॒न् । ओष॑धीभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **राजन्** दीप्यमान सोम **सः** प्रसिद्धस्त्वं **नः** अस्माकं **गवे** **शं** सुखं **पवस्व** क्षर । **जनाय** पुत्रादये च **शं** पवस्व । **अर्वते** अश्वाय च **शं** पवस्व । **ओषधीभ्यः** च **शं** पवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiant (**Soma**), do you pour prosperity upon our cattle, upon our people, upon our horses, and upon our plural nts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself as weal for our cow, weal for our people, weal for our  charger,  
 weal for our plants, o king.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring, by thy flowing, weal to kine, weal to the people, weal to steeds.  
      Weal, O thou King, to growing plants
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich zum Heil für unser Rind, zum Heil für unsere Leute, zum Heil für das Rennpferd, zum Heil für die Gewächse, o König!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle Heil für unser Vieh, für Männer Heil und für das Ross, O König, den Gewächsen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся ты на благо нашей коровы,  
 На благо народу, на благо скаковому коню,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ न एना꣡ पवया꣡ पवस्व  
 अ꣡धि श्रुते꣡ श्रवा꣡यियस्य तीर्थे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृक्षं꣡ न꣡ पक्वं꣡ धूनवद् र꣡णाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ष॒ष्टिम् । स॒हस्रा॑ । नै॒गु॒तः । वसू॑नि । वृ॒क्षम् । न । प॒क्वम् । धू॒न॒व॒त् । रणा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -113,14 +113,14 @@ genre M
 हेसोम उतापिच श्रवाय्यस्य सर्वैः श्रवणीयस्य सोमस्य तव श्रुते प्रसिद्धौ यद्वा षष्ठ्य र्थेचतुर्थी श्रुतः शब्दस्य तीर्थे स्थाने नोस्माकं स्वभूतेयज्ञे एना अनया पवया पूयमानया धारया अधि अधिकं पवस्व क्षर । नैगुतः नीचीनं गवन्ते शब्दायन्तइति निगुतः शत्रवः । तेषां हन्तृत्वेन सम्बन्धी सोयंसोमः षष्टिं सहस्रा षष्टिसङ्ख्याकानि सहस्राणि वसूनि धनानि रणाय शत्रूणां जयार्थं धूनवत् अस्माकमकम्पयत् प्रायच्छदितियावत् । कथमिव वृक्षन्नपक्वं पक्वफलं वृक्षं यथा कम्पयति फलार्थी तद्वत् ॥ ५३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And flow with this filtered stream at the renowned station ofyou who are worthy of renown; (the **Soma**) the destroyer of enemies has shaken down (for us) sixty thousand treasures for victory as (one shakes) a tree whose fruit is ripe.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And with this purification purify yourself for us at the famous ford  of the (prize/wealth) worthy of fame [=place of distribution of  
 dakṣiṇās?].  
@@ -128,7 +128,7 @@ The challengers’ challenger [=Indra?] will shake off sixty thousand
 goods like ripe (fruit) from a tree, for our joy.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The mystery deepens in this vs. The first pāda is superficially just a variant of 52a, but it poses several problems. On the one hand pavayā́looks like an instr. sg. to a fem. pavā́-, whose more archaic instr. pavā́is found in 52a. But the accentuation is wrong: it should be
 
@@ -159,23 +159,23 @@ The simplistic repetition of the previous tṛca contrasts markedly with the con
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow on for us with this purification to the famed ford of thee whose due is glory.  
      May the Foe-queller shake us down, for triumph, like a tree's ripe fruit, sixty thousand treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und läutere diese durch deine Läuterung uns zu an der berühmten Furt des Sravayya, der Ruhmbringenden. Der Naiguta möge uns zur Freude die sechzigtausend Schätze wie die Früchte vom reifen Baume herabschütteln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und flamme hell mit diesem Flammenstrome an der berühmten Furt des preisenswerthen; Der Feindbezwinger schüttle wie vom Fruchtbaum uns sechzigtausend Schätze her zur Freude.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также очищайся для нас (этим) очищением,  
 (давая) эти (блага) на знаменитом броде Шравайи!  

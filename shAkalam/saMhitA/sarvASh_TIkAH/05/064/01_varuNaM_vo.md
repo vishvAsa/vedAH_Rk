@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡रुणं वो रिशा꣡दसम्  
 ऋचा꣡ मित्रं꣡ हवामहे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जगन्वां꣡सा सु꣡वर्णरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ । व्र॒जाऽइ॑व । बा॒ह्वोः । ज॒ग॒न्वांसा॑ । स्वः॑ऽनरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
@@ -93,36 +93,36 @@ genre M
 **वः** युवयोर्मध्ये ॥ व्यत्ययेन बहुवचनम् ॥ **रिशादसम्** । रिशन्ति हिंसन्तीति रिशाः शत्रवः । तेषां प्रेरकं **स्वर्णरं** स्वर्गस्य नेतारम् । एतद्व्यवहितमप्युभयत्र संबध्यते । एवंविधं **वरुणम्** उक्तलक्षणं **मित्रं** च **ऋचा** मन्त्रेण **हवामहे** आह्वयामः । अथ अवयुत्योच्यते । **व्रजेव** गोयूथानीव 'बाह्वोः बलेन **परि** **जगन्वांसा**  परिगच्छन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, **Mitra** and **Varuṇa**, with this hymn; each the discomfiter of foes, the conductor to heaven, like (two herdsmen) driving, by (the strength of their) arms, the herds of cattle before them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With our verse we summon for you all Mitra and Varuṇa, who cares for  the stranger,  
 who, like corrals, have encompassed the realm of solar glory in their  two arms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You, foeman-slaying Varuna and Mitra, we invoke with song,  
      Who, as with penfold of your arms, encompass round the realm of light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den überlegenen Varuna, den Mitra rufen wir für euch mit einem Vers an, die beide den Svarnara wie das Doppelgehege der Arme einschließen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Feindverzehrer Varuna, und Mitra rufen wir mit Lied, Die in die Arme schliessen rings zwei Hürden gleich den Glanzesherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Варуну, карающего врагов (?),  
 Митру мы зовем для вас гимном,  

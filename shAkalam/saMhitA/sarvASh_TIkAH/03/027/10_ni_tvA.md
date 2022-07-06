@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ त्वा दधे व꣡रेणियं  
 द꣡क्षस्येळा꣡ सहस्कृत  
 अ꣡ग्ने सुदीति꣡म् उशि꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । सु॒ऽदी॒तिम् । उ॒शिज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M
 उक्तार्थः अनयर्चा विव्रियते । **सहस्कृत** मथनाख्येन बलेन निष्पन्न हे **अग्ने** **सुदीतिं** शोभनदीप्तियुक्तम् **उशिजं** पुरोडाशादिहविः कामयमानम् । यद्वा कर्मार्थिभिः काम्यमानम् । अत एव **वरेण्यं** तैर्वैरणीयं **त्वा** एवंविधं त्वां **दक्षस्य** दुहिता **इळा** वेद्यादिलक्षणा भूमिः **नि** **दधे** अग्निहोत्रादिकर्मसमृद्य्वर्थं नितरां दधार ॥ इळा । ‘ ईड स्तुतौ ' ।' पुंसि संज्ञायाम् ' इत्यत्र प्रायिकवचनात् स्त्र्यर्थेऽपि घप्रत्ययः । ह्रस्वश्छान्दसः । संज्ञापूर्वकस्य विधेरनित्यत्वात् अगुणः । ईड्यन्ते स्तूयन्तेऽस्यां यजमानैर्देवा इतीळा भूमिः । उदात्तनिवृत्तिस्वरेणान्तोदात्तः । प्रत्ययस्वरः । उशिजम् । वश कान्तौ' इत्यस्मात् ' वशः किच्च' इतीजिप्रत्ययः । कित्त्वात्संप्रसारणम् । वष्टि हविः कामयते उश्यते काम्यते कर्मार्थिभिः इति वा उशिक् अग्निः । प्रत्ययस्वरः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,34 +95,34 @@ genre M
 Iḷā = earth or the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have installed you, the one to be chosen, (the father) of skill, o you  who are made with strength by the libation;  
 (I have installed) you, the bright shining fire-priest, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee have I stablished, Excellent, O strengthened by the sage's prayer,  
      Thee, Agni, longing, nobly bright.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I have laid thee down 1, the excellent one, with the nourishment 2 of Daksha, O thou who art produced by power, O Agni, thee the resplendent one, O Usig 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den zu Erwählenden, habe ich eingesetzt, du von der Id mit Kraft erzeugter Sohn des Daksa, den leuchtenden Usij, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich holden setzte nieder ich, durch Trunk der gekräftigter, Den Agni, welcher heischend glänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я устроил тебя, достойного избрания,  
 (Отца) Дакши, о ты, созданный силой с помощью возлияния,  

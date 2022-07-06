@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमो꣡ अग्ने वीत꣡तमानि हव्या꣡  
 अ꣡जस्रो वक्षि देव꣡तातिम् अ꣡छ  
 प्र꣡ति न ईं सुरभी꣡णि वियन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्रति॑ । नः॒ । ई॒म् । सु॒र॒भीणि॑ । व्य॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imo* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
@@ -96,36 +96,36 @@ genre M
 हे **अग्ने** त्वम् **अजस्रः** अनवरतः सन् **इमो** इमानि **वीततमानि** अतिशयेन कान्तानि **हव्या** हव्यानि **देवतातिं** देवानां समूहम् अभि **वक्षि** वह । **अच्छ** गच्छ त! **नः** अस्मदीयानि **सुरभीणि** शोभनानि **ईम्** एतानि हव्यानि देवाः **प्रति** **व्यन्तु** प्रत्येकं कामयन्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, who are imperishable, bear these most acceptable oblations to the presence of the assembly ofthe gods; and may our fragran (offering) gratify them severally.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, Agni, these oblations are most sought: unwearying, convey them  to the divine assembly.  
 Let them [=the gods] seek these, our sweet-scented (oblations).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, bear thou, Eternal, these most welcome oblations to the Deities' assembly:  
      Let them enjoy our very fragrant presents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese angenehmsten Opfergaben fahre ohne zu ermatten zur Götterschar, Agni! Sie sollen unsere duftenden Spenden entgegennehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und, Agni, diese liebsten Opfergüsse fährst unermüdlich hin du zu den Göttern; Sie lass geniessen unsre duft'gen Speisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот, о Агни, жертвенные дары, самые желанные.  
 Отвези (их), не иссякая, сонму богов!  

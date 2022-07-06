@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जज्ञानः꣡ सो꣡मं स꣡हसे पपाथ  
 प्र꣡ ते माता꣡ महिमा꣡नम् उवाच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युधा꣡ देवे꣡भ्यो व꣡रिवश् चकर्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । इ॒न्द्र॒ । प॒प्रा॒थ॒ । उ॒रु । अ॒न्तरि॑क्षम् । यु॒धा । दे॒वेभ्यः॑ । वरि॑वः । च॒क॒र्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
@@ -128,7 +128,7 @@ genre M;; repeated line
 हे इन्द्र त्वं **जज्ञानः** जायमान एव **सहसे** बलाय **सोमं** **पपाथ** पीतवानसि । **ते** तव **महिमानं** महत्त्वं **माता** त्वदीया जनन्यदितिः **प्र** **उवाच** प्रोक्तवती । संवादसूक्ते ‘अयं पन्था' इत्यादिके ‘नही न्वस्य' (ऋ. सं. ४. १८. ४) इत्यर्धर्चादारभ्य आदित्येन्द्रमहत्त्वस्योक्तत्वात् । अतः कारणात् हे **इन्द्र** त्वम् **उरु** विस्तीर्णम् **अन्तरिक्षम्** **आ** **पप्राथ** स्वतेजसापूरितवानसि । अपि च **युधा** युद्धेन **देवेभ्यः** स्तोतृभ्यो देवेभ्य एव वा **वरिवः** धनं **चकर्थ** कृतवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,35 +139,35 @@ genre M;; repeated line
 Your mother: a reference to Aditi's speech; cf. RV 4.018.04
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On being born, you drank the soma for strength. Your mother  
 proclaimed your greatness.  
 Indra, you filled the wide midspace; through combat you made a wide  realm for the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I might now slightly alter the tr. of the pf. part. jajñānáḥ to ‘having (just) been born’ to put emphasis on Indra’s prodigious actions immediately after his birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, newly-born, for strength didst drink the Soma; the Mother told thee of thy future greatness.  
      O Indra, thou hast filled mid-air's wide region, and given the Gods by battle room and freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eben geboren hast du den Soma zur Siegeskraft getrunken. Die Mutter sagte deine Größe voraus. Du, Indra, hast den weiten Luftraum ausgefüllt; durch Kampf hast du den Göttern Freiheit verschafft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du trankst geboren kaum zur Stärkung Soma, und deine Grösse machte kund die Mutter; Du fülltest aus die weite Luft, o Indra, und schafftest weiten Raum durch Kampf den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва родившись, ты напился сомы для силы.  
 Мать провозгласила твое величие.  

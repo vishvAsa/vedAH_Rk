@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ रुद्रा꣡सः सु꣡मखा अग्न꣡यो यथा  
 तुविद्युम्ना꣡ अवन्तु एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 श꣡र्धांसि अ꣡द्भुतैनसाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 दी॒र्घम् । पृ॒थु । प॒प्र॒थे॒ । सद्म॑ । पार्थि॑वम् । येषा॑म् । अज्मे॑षु । आ । म॒हः । शर्धां॑सि । अद्भु॑तऽएनसाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -143,21 +143,21 @@ genre M
 **ते** मरुतः **रुद्रासः** रुद्रपुत्राः **सुमखाः** शोभनयज्ञाः **अग्नयो** **यथा** अग्नय इव **तुविद्युम्नाः** प्रभूतदीप्तयः । अथवा अग्निसदृशास्तुविद्युम्नाः प्रभूतधनाः **अवन्तु** रक्षन्तु **एवयामरुत्** एतन्नामानमृषिं माम् । **पार्थिवम्** । पृथिव्यत्रान्तरिक्षम् । तत्संबन्धि **दीर्घम्** आयतं **पृथु** विस्तीर्णं **सद्म** सदनं **पप्रथे** मरुद्भिः प्रथितमभूत् । **अद्भुतैनसाम्** अपापानां **येषाम्** **अज्मेषु** गमनेषु **महः** महान्ति **शर्धांसि** च **आ** गच्छन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those **Rudras**, the objects of worship, like resplendent fires, protect Evayāmarut; they, whose ethereal dwelling, extended and wide, has been made illustrious (by them), and of whom, exempt from blame, the mighty energies (are manifested) in their courses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these Rudras, good battlers, like fires powerfully brilliant, be of aid— Maruts on the march.  
 Long and broad the earthly seat spreads out,  
 when at the drives of them, whose offenses are beyond harm, the troops  of great (Viṣṇu) ap(proach).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., too, reprises earlier material: there is a 3rd “fires” simile, this time marked with yathā, not ná, and extended over the pāda boundary (agnáyo yathā, tuvidyumnā́ḥ); avantu in b echoes avatu in 6b in the same metrical position; the ‘seat’ returns for the third time (pāda c), with yet a different word: sádman- versus 3c sadhástha- and 4b sádas-.
 
@@ -174,23 +174,23 @@ It may mean this here as well -- the Maruts are not more trickable than the Ādi
 Note the figure in c: pṛthú paprathe … pā́rthivam, which is both phonological and etymological
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the Rudras, mighty warriors, Evayamarut, with splendid brilliancy, like fires, be our protectors;  
      They whose terrestrial dwelling-place is wide-extended, whom none suspect of sin, whose bands have lofty courage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rudrasöhne, die freigebigen, wie Agni glanzreichen sollen gnädig sein - Vishnu ist der, mit dem die Marut gern kommen -. Der irdische Sitz hat sich lang und breit ausgedehnt, wenn bei ihren Aufzügen die Heerscharen des großen Vishnu, bei denen Sünden unbekannt sind, herankommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kampfeshelden, die wie Flammen strahlen, die sehr glänzenden mögen hülfreißh sein Evajämarut; ihr Sitz auf Erden breitet sich aus lang und breit, der fleckenlosen, bei deren  Zügen sich des grossen [Vischnu] Scharen zeigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти Рудры очень оживленные, словно огни,  
 С мощными вспышками – да помогут они нам! – (и Вишну) вместе с быстродвижущимися Марутами.  

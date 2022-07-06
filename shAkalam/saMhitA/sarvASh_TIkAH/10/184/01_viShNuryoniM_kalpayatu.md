@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्णुर् यो꣡निं कल्पयतु  
 त्व꣡ष्टा रूपा꣡णि पिंशतु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 धाता꣡ ग꣡र्भं दधातु ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 आ । सि॒ञ्च॒तु॒ । प्र॒जाऽप॑तिः । धा॒ता । गर्भ॑म् । द॒धा॒तु॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
@@ -102,14 +102,14 @@ popular;; epic anuṣṭubh (292)
 विष्णुः व्यापको देवः **योनिं** गर्भाधानस्थानं **कल्पयतु** करोतु । **त्वष्टा** तनुकर्ता एतत्संज्ञको देवश्च **रूपाणि** निरूपकाणि स्त्रीत्वपुंस्त्वाभिव्यञ्जकानि चिह्नानि **पिंशतु** अवयवीकरोतु ॥  ‘ पिश अवयवे । मुचादित्वान्नुम् ॥ एवं प्रक्लृप्तायां योन्यां प्रजापतिः रेतः **आ** **सिञ्चतु** निषिञ्चतु । विसृजत्वित्यर्थः । **धाता** धारको देवो हे जाये **ते** तव **गर्भं** गर्भरूपेण परिणतं तद्रेतः **दधातु** ॥ तत्रैव धारयतु । स्रावपातापप्रसवा मा भूवन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Viṣṇu** construct the womb, may **Tvaṣṭā** fabricate the members, may **Prajāpati** sprinkle (theseed), may **Dhātā** cherish your embryo.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Viṣṇu arrange the womb; let Tvaṣṭar carve the forms.  
 Let Prajāpati pour out (the semen); let the Placer place the embryo  
@@ -117,23 +117,23 @@ in you.
 1658 X.185–186
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY Visnu form and mould the womb, may Tvastar duly shape the forms,  
      Prajapati infuse the stream, and Dhatar lay the germ for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vishnu soll den Mutterschoß bereiten, Tvastri soll die Formen bilden, Prajapati soll den Samen eingießen, der Schöpfer soll dir eine Leibesfrucht machen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es bilde Vischnu deinen Schooss, Gestalten forme Tvaschtar dir, Es ströme dir Pradschapati, der Schöpfer schaffe Leibesfrucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вишну пусть подготовит лоно!  
 Тваштар пусть вытешет формы!  

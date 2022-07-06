@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ च पू꣡र्व ऋ꣡षयो ये꣡ च नू꣡त्ना  
 इ꣡न्द्र ब्र꣡ह्माणि जन꣡यन्त वि꣡प्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्मे इति॑ । ते॒ । स॒न्तु॒ । स॒ख्या । शि॒वानि॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -132,20 +132,20 @@ genre M;; repeated line
 **ये** **च** **पूर्वे** प्राक्तनाः **ऋषयः** **ये** **च** **नूत्नाः** नूतनाः **विप्राः** मेधाविन ऋषयः **ब्रह्माणि** स्तोत्राणि **जनयन्त** अजनयन्त तेष्विव **अस्मे** अस्मास्वपि हे **इन्द्र** **ते** तव **सख्या** सख्यानि **शिवानि** भद्राणि **सन्तु** । स्पष्टमन्यत् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your auspicious regards, **Indra**, be directed towards us, as they have been to those pious sages,ancient or recent, who have originated (your) praises, and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither the older seers nor the new ones, the inspired poets, who have  created sacred formulations, Indra.  
 Let there be friendly fellowship of you for us. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation interpr. asmé as a dat. But the parallel in IV.10.8 śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé, where the -mé pronominal form is anchored as a loc. by devéṣu, makes a loc. reading more likely. Cf. also VI.18.5 tán naḥ pratnáṃ sakhyám astu yuṣmé. I would therefore change the tr. to “Let there be friendly fellowship of you among [or, with] us.”
 
@@ -158,23 +158,23 @@ The subject of the verb in 8b, úd aśnuvanti, is not specified. In my view the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Among all Rsis, Indra, old and recent, who have engendered hymns as sacred singers,  
      Even with us be thine auspicious friendships. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mögen auch die früheren Rishi´s und die neueren, die Redegewaltigen, dir, Indra, erbauliche Worte gedichtet haben, so soll uns deine wohlwollende Freundschaft gehören! Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den alten Sängern, Indra, und den neuen, die dir Gebet erzeugten in Begeistrung, Uns seien huldvoll deine Brüderschaften. (Ihr Götter, schützt uns stets mit eurem Segen.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть прежние риши и теперешние  
 Поэты слагали тебе молитвы, о Индра, –  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 से꣡मां꣡ वेतु व꣡षट्कृतिम्  
 अग्नि꣡र् जुषत नो गि꣡रः  
 य꣡जिष्ठो हव्यवा꣡हनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यजि॑ष्ठः । ह॒व्य॒ऽवाह॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *semāṃ* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -84,36 +84,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यजिष्ठः** यजनीयतमो यष्टृतमो वा **हव्यवाहनः** हव्यानां हविषां वोढा **सः** **अग्निः** **इमां** **वषट्कृतिम्** अस्माभिर्दीयमानामाहुतिं **वेतु** कामयतां भक्षयतु वा । **नः** अस्माकं **गिरः** स्तुतीश्च **जुषत** सेवताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that most adorable **Agni**, the bearer of oblations, accept our offering, gratified by our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him pursue this vaṣaṭ-call. Agni takes pleasure in our songs,  
 as the best sacrificer, as the conveyor of oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he enjoy this hallowed gift, Agni accept our songs, who bears  
      Oblations, best of worshippers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er soll auf diesen Vasatruf gern kommen, Agni soll an unseren Lobreden Gefallen finden, der beste Opferer, der Opferfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er acht' auf diesen Segensruf und nehme unsre Lieder an, Er, der am besten Opfer fährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть он одобрит этот возглас: Вашат!  
 Пусть Агни наслаждается нашими песнями,  

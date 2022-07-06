@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्वप्नजस् तर꣡णयः सुशे꣡वा  
 अ꣡तन्द्रासो अवृका꣡ अ꣡श्रमिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने त꣡व नः पा᳐न्तु अमूर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ते । पा॒यवः॑ । स॒ध्र्य॑ञ्चः । नि॒ऽसद्य॑ । अ॒ग्ने॒ । तव॑ । नः॒ । पा॒न्तु॒ । अ॒मू॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asvapnajas* ← *a*
 - \[adverb\]
@@ -119,26 +119,26 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All-wise **Agni**, may your protecting (rays), unslumbering alert, propitious, unslothful, benignant, unwearied, co-operating, having taken their plural ce (at this sacrifice), preserve us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These—sleepless, (ever) advancing, very friendly, tireless, never  wearying, keeping the wolf away—  
 these protectors of yours, directed to a single goal—let them settle  down and protect us, o ungullible Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing no slumber, speedy and propitious, alert and ever friendly, most unwearied,  
      May thy protecting powers, unerring Agni, taking their places here, combined, preserve us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May those guardians of thine, infallible Agni, sitting down together protect us, the never sleeping, onward-pressing, kind, unwearied ones, who keep off the wolf, who never tire.
 </details>
@@ -151,17 +151,17 @@ May thy guardians, O Agni, taking their places here united,
 Protect us, O wise one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nie schläfrig, durchhaltend, freundlich, unverdrossen, den Wolf abwehrend, am wenigsten ermüdend sollen diese deine Schutzgeister sich vereint niederlassen und uns schützen, du besonnener Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch ermüden, Die Hüter, Agni, die du hast, die mögen zusammen sitzend uns behüten, weiser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бессонные, преодолевающие (трудности), очень дружелюбные,  
 Неутомимые, устраняющие лютого врага, меньше всех изнуряющиеся,  

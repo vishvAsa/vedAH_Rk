@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवमान सुष्टुतिं꣡  
 वृष्टिं꣡ देवे꣡भियो दु꣡वः  
 इषे꣡ पवस्व संय꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒षे । प॒व॒स्व॒ । स॒म्ऽयत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -76,20 +76,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** पूयमान पुनान वा सोम **सुष्टुतिं** शोभनस्तुतियुक्तां **वृष्टिं** **देवेभ्यः** देवानां **दुवः** । 'सुपां सुलुक्° ' इति चतुर्थ्यां लुक् । दुवसे परिचरणाय **आ** **पवस्व** आगमय । त्वं यथा मदीयया स्तुत्या वृष्टिर्भविष्यति तथा कुर्वित्यर्थः । किं चास्माकम् **इषे** अन्नार्थं च **संयतं** सम्यगस्मान् संगच्छन्तीं वृष्टिं कुरु । यद्वा । दुवः परिचर्यामभिलक्ष्य क्रियमाणां सुष्टुतिं शोभनस्तुतिरूपां वृष्टिम् । बहुस्तुतिमित्यर्थः । एतां देवेभ्यः प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour, purified (**Soma**), a well-praised shower for the worship of the gods; (pour) a continual shower for our food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying one, by purifying yourself bring here good praise, rain,  and friendship from the gods,  
 continuously for refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take devébhyaḥ as dat. with dúvaḥ: “Eifer für die Götter,” “l’hommage aux dieux,” whereas in the published translation I take it as an abl., “friendship from the gods.” The issue is the multivalence of dúvas- and its derivatives; in the meaning ‘friendship’ it generally refers to the mutually agreeable relationship between men and gods.
 
@@ -107,23 +107,23 @@ pávamāna- and 3 also the impv. ā́… pavasva, but esp. in this hymn, the app
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour on us, Pavamana, rain, as service and rain praise for Gods:  
      Pour all to be our nourishment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, läutere ein gutes Loblied herbei, Regen, Eifer für die Götter, andauernd zu guter Nahrung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Göttern riesle, rieselnder, du Gaben zu und Lobgesang, Zum Trunk die Flut, die stetig strömt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡त् स्व꣡श्चन्द्रम् अ꣡मवद् य꣡द् उक्थि꣡यम्  
 अ꣡कृण्वत भिय꣡सा रो꣡हणं दिवः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सु꣡वर् नृषा꣡चो मरु꣡तो꣡ ऽमदन्न् अ꣡नु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । मानु॑षऽप्रधनाः । इन्द्र॑म् । ऊ॒तयः॑ । स्वः॑ । नृ॒ऽसाचः॑ । म॒रुतः॑ । अम॑दन् । अनु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 **बृहत्** बृहत्साम स्तोतारो यजमानाः **भियसा** वृत्रभयेन **यत्** यदा **उक्थ्यम्** उक्थार्हं स्तोत्रयोग्यम् **अकृण्वत** अकुर्वन् । कीदृशं बृहत्साम । **स्वश्चन्द्रं** स्वकीयेन चन्द्रेणाह्लादकेन तेजसा युक्तं **अमवत्** । अमति शत्रुन् रुजत्यनेनेति अमो बलम् । तद्युक्तम् । **दिवः** स्वर्गस्य **रोहणम्** आरोहणहेतुभूतम् । एवंविधेन स्तोत्रेण वृत्राद्भीता इन्द्रमस्तोषतेत्यर्थः । **यत्** यदा **मानुषप्रधनाः** ।' प्रकीर्णान्यस्मिन्धनानि भवन्ति' (निरु. ९. २३) इति नैरुक्तव्युत्पत्त्या प्रधनमिति संग्रामनाम। मनुष्यहितसंग्रामाः **ऊतयः** **स्वः** द्युलोकस्य रक्षितारः **मरुतः** **नृषाचः** प्राणरूपेण नॄन् सेवमाना भूत्वा **इन्द्रम्** अपि तेनैव रूपेण **अनु** **अमदन्** आनुपूर्व्येण हर्षं प्रापयन् । तदानीं स इन्द्रो वृत्रवधं प्रति उद्युक्तो बभूवेति शेषः ॥ स्वश्चन्द्रम् । स्वकीयं चन्द्रं यस्य । “ ह्रस्वाच्चन्द्रोत्तरपदे मन्त्रे' (पा. सू. ६. १. १५१ ) इति सुट् । श्रुत्वेन शकारः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । भियसा । भीशब्दस्य तृतीयैकवचने छान्दसः असुगागमः तस्य उदात्तत्वं च । नृषाचः ।  ‘ षच समवाये । अयं सेवनार्थ इति यास्कः । वहश्च' (पा. सू. ३. २. ६४ ) इत्यत्र चशब्दस्यानुक्तसमुच्चयार्थत्वादस्मादपि ण्विप्रत्ययः । अमदन् । मदी हर्षे'। णिचि ‘मदी हर्षग्लेपनयोः' इति घटादिषु पाठात् मित्त्वे सति ‘मितां ह्रस्वः' इति ह्रस्वत्वम् । लङि ‘ छन्दस्युभयथा' इति शप आर्धधातुकत्वात् ' णेरनिटि ' इति णिलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Sāma is added to bṛhat. The alusion is to Sāma, a verse of the Ṛk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is lofty, self-luminous, formidable, and praiseworthy [=Indra in form  of sun]—in fear they made that their own means of ascent to heaven,  
 when the forms of help appropriate to human prize-contests, (that is,)  the Maruts, accompanying that superior man [=Indra], cheered on  
 Indra, their sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another puzzling verse, and my interpretation is accordingly not at all certain.
 
@@ -152,23 +152,23 @@ However, I think there is more going on here, for in the 2nd hemistich Indra is 
 I do not quite understand the bhíyasā of b, though it obviously must be considered in connection with the same word in the same metrical position in the b pāda of the next verse. I assume it refers here to the awe- and fear-inspiring aspects of Indra in his celestial form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In fear they raised the lofty self-resplendent hymn, praise giving and effectual, leading up to heaven,  
      When Indra's helpers fighting for the good of men, the Maruts, faithful to mankind, joyed in the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter machten mit Furcht den hohen Aufstieg zum Himmel, der selbstleuchtend, gewaltig, preisenswert ist, als die wie Menschen um den Siegerpreis kämpfenden Hilfen, als die Marut ihrem Herren folgend dem Indra der Sonne zujubelten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihren hohen, ungestümen, leuchtenden, preiswerthen Zug zum Himmel kräftig sie vollbracht, Als für die Menschen kämpfend männerhold im Licht die Maruts jauchzten mit dem Indra helfend ihm,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возвышенно, наделено собственным блеском, грозно, достойно гимна то, что  
 (Боги) в страхе совершили восхождение на небо,  

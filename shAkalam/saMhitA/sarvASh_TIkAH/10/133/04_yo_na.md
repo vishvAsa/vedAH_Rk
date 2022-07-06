@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ न इन्द्राभि꣡तो ज꣡नो  
 वृकायु꣡र् आदि꣡देशति  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 जियाका꣡ अ꣡धि ध꣡न्वसु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒धः॒ऽप॒दम् । तम् । ई॒म् । कृ॒धि॒ । वि॒ऽबा॒धः । अ॒सि॒ । स॒स॒हिः । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,36 +131,36 @@ genre M;; repeated line
 हे **इन्द्र** **यः** **जनः** **वृकायुः** । वृको हिंसकोऽरण्यश्वा स्तेनो वा । स इवाचरन् **नः** अस्मान् **अभितः** सर्वतः **आदिदेशति** अभिलक्ष्य आयुधान्यतिसृजति । दिशतेर्लेट्यडागमः । छान्दसः शपः श्लुः । नाभ्यस्तस्याचि पिति' इत्यत्र  ‘ बहुलं छन्दसीति वक्तव्यम्' इति वचनात् प्रतिषेधाभावे लघूपधगुणः ।  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । **तमीं** तमिमं जनम् **अधस्पदं** पादस्याधस्ताद्वर्तमानं **कृधि** कुरु। करोतेश्छान्दसो विकरणस्य लुक् ।' श्रुशृणुपॄकृवृभ्यः' इति हेर्धिः। यतस्त्वं **विबाधः** विशेषेण बाधिता शत्रूणां **सासहिः** **अभिभविता** च **असि**। सिद्धः शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who, like a wolf, prowls around us, O **Indra**, cast him beneath our feet, for you are theresister, the overcomer (of foes); may the bowstrings on the bows of our enemies be destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, the folk all about who, acting the wolf, will set their sights on us, set them beneath our feet. You are an overpowering oppressor.  
 – Let the little bowstrings of the other squirts burst on their bows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The robber people round about, Indra, who watch and aim at us,-  
      Trample them down beneath thy foot; a conquering scatterer art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches Volk allenthalben in räuberischer Absicht uns bedroht, Indra, das tritt unter die Füße; du bist ein überlegener Verscheucher. - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Volk was, Indra, um uns her voll Mordlust feindlich uns bedroht, Das stürze unter deinen Fuss, du bists, der siegreich es verjagt; Zerreissen soll den anderen die Sehne, die den Bogen spannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой свирепый народ, о Индра,  
 Со всех сторон на нас нацеливается,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सोम देव꣡वीतये  
 सि꣡न्धुर् न꣡ पिप्ये अ꣡र्णसा  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡छा को꣡शम् मधुश्चु꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अं॒शोः । पय॑सा । म॒दि॒रः । न । जागृ॑विः । अच्छ॑ । कोश॑म् । म॒धु॒ऽश्चुत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -105,21 +105,21 @@ genre M;; repeated line
 हे **सोम** **देववीतये** देवानां पानाय तदर्थम् **अर्णसा** वसतीवर्याख्येनोदकेन **प्र** **पिप्ये** प्रप्यायसे । तत्र दृष्टान्तः । **सिन्धुर्न** । यथा सिन्धुरुदकेन प्रपिप्ये प्रप्यायते तद्वत् । प्यायतेर्लिटि ‘ लिड्यङोश्च ' इति पीभावः । ततः स त्वं **मदिरो** **न** मदकरः सुरादिरिव **जागृविः** जागरणशीलः। यद्वा । नः संप्रत्यर्थे । इदानीं मदकरो जागरणशीलस्त्वम्। **अंशोः** लताखण्डस्य **पयसा** रसेन **मधुश्चुतं** मधुररसस्य क्षारयितारं **कोशं** द्रोणकलशम् **अच्छ** अभिगच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are fed with water, **Soma**, like a river, for the banquet of the gods; with the juice of your filament you go to the honey-dropping receptacle, exhilarating, vigilant.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, like a river that has swollen with its flood, you have swollen  forth with the milk of the plant to pursue the gods,  
 wakeful like an exhilarating drink, toward the cask dripping  
 with honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich of this vs. is structured exactly like the more expansive 10a-c above: with a vocative soma in the 1st pāda and a following 3rd ps.
 
@@ -141,23 +141,23 @@ No particular signs of cohesion. River(s) appear in both vss., but with differen
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma,-for the feast of Gods, river-like he hath swelled with surge,  
      With the stalk's juice, exhilarating, resting not, into the vat that drops with meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Soma bist für die Göttereinladung angeschwollen wie die Sindhu mit ihrer Flut. Mit der Milch des Stengels munter machend wie der berauschende Branntwein gehst du in die von Süßigkeit überfließende Kufe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich wie das Meer von Wogenflut schwoll Soma an zum Göttermahl, Wie mit des Krautes Milch berauschend munter eilt zum Fass er, das von Honig trieft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Про(двигаясь) вперед, о сома, для приглашения богов (ты набух),  
 Как набухла Синдху со (своей) стремниной.  

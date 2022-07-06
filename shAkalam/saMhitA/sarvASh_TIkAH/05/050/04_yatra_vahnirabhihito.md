@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र व꣡ह्निर् अभि꣡हितो  
 दुद्र꣡वद् द्रो꣡णियः पशुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡र्णा धी꣡रेव स꣡निता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नृ॒ऽमनाः॑ । वी॒रऽप॑स्त्यः । अर्णा॑ । धीरा॑ऽइव । सनि॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -96,7 +96,7 @@ genre M
 **यत्र** यस्मिन्यज्ञे **वह्निः** यज्ञस्य वोढा **अभिहितः** यूपं प्रापितः **द्रोण्यः** यूपार्हः **पशुः** **दुद्रवत्** गच्छति यूपं प्रति तत्र **नृमणाः** यजमानमनाः सविता **वीरपस्त्यः** । वीरा ऋत्विग्यजमानाः पुत्रभृत्यादयो वा तद्वत्पस्त्यं गृहं यस्य स तादृशः । प्रेरितगृहो वा । पुत्राद्युपेतगृहप्रदः इत्यर्थः । **सनिता** संभक्ता भवति । **अर्णा** अरणकुशला **धीरेव** योषिदिव । यद्वा । अर्णानि हवींष्यभिलक्ष्य सनिता भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,13 +107,13 @@ genre M
 Whence the victim: **yatra** vahnir **abhihitaḥ** = where the fire is plural ced; may also be **vahni**, yajñasya **voḍhā**, the bearer of the sacrifice, which, from the following epithet, droṇya, fit for the tree, that is, for the **yūpa**, or post to which the animal is tied, must mean **paśu**, the victim; like a clever wife: **arṇa**) dhīreva = araṇākuśala yosidviva, like a woman skilful in going or in plural asing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the harnessed draft-animal will run, the beast seeking the wooden  cup [=soma],  
 the manly minded one [=Indra], with a dwelling full of heroes, (will) win  the floods, like wise (thoughts?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is quite obscure, but seems metaphorically to depict the soma sacrifice. The problems are, as usual, conpounded by the fact that the two (or one?) principal actor(s) are not identified. Interpr. of the vs. differ, and I will not discuss them all in detail.
 
@@ -134,23 +134,23 @@ As just noted, the simile dhī́reva [= dhīrā / iva] is problematic. It is tem
 Reluctantly, with a similarly reluctant Oldenberg, I take it as a neut. pl., meaning ‘wise (thoughts)’. This is unsatisfying because the adj. dhī́ra- otherwise only refers to animates. There are partial parallels for √san with thoughts/wisdom as obj., e.g., IX.9.9 sánā medhā́m, X.143.3 síṣāsataṃ dhíyaḥ, but not with dhī́ra-. A possibly more promising interpr. is suggested by Renou, who points out that the only other neut. form of dhī́ra- is found with janū́ṃṣi ‘races’ in VII.86.1; this also seems to underlie Tichy’s “wie verständige (Wesen).” I would now emend the published translation to “… like the wise (races).” This isn’t a great deal better, but it at least deals with the problem of animate/inanimate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where fire is set, and swiftly runs the victim dwelling in the trough,  
      He wins, with heroes in his home, friendly to man, like constant streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo das angeschirrte Zugtier im Laufe ist, das in der Holzkufe befindliche Tier, da wird der Mutige, der ein Haus voll Söhnen besitzt, die Fluten gewinnen wie ..........
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo auch das angeschirrte Thier, und Vieh der Krippe laufen mag; Der Helden hold und gastlich ist, schenkt Fluten ihnen wie das Meer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда бежит запряженный тяжеловоз,  
 Зверь, обитающий в деревянном сосуде,  

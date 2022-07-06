@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दुवा꣡भ्यां ह꣡रिभ्याम् इन्द्र याहि  
 आ꣡ चतु꣡र्भिर् आ꣡ षड्भि꣡र् हूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अयं꣡ सुतः꣡ सुमख मा꣡ मृ꣡धस् कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । अ॒ष्टा॒भिः । द॒शऽभिः॑ । सो॒म॒ऽपेय॑म् । अ॒यम् । सु॒तः । सु॒ऽम॒ख॒ । मा । मृधः॑ । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 हेइन्द्र होतृभिराहूयमानस्त्वं द्वाभ्यांहरिभ्यामश्वाभ्यामिमंयज्ञम्प्रति सोमपानार्थमायाहि चतुर्भि- र्हरिभिरायाहि तथाषड्भिरागच्छ सोमपेयं पापाने कर्मणिअचोयत् ईद्यतीतीत्वं पातव्यंसोमम्प्रतिअ- ष्टाभिरश्वैरायाहि अष्टनोदीर्घादितिविभक्तेरुदात्तत्वं दशभिर्हरिभिरागच्छ सुमख सुयज्ञ सुधनवा हेइन्द्र अयंसोमस्त्वदर्थंसुतः अभिषुतः अतोयज्ञस्यमृधोहिंसाः माकः माकार्षीः करोतेर्लुङिमन्त्रेघसे- त्यादिनाचेर्लुक् गुणेकृते हल्ङ्यादिनासिपोलोपः यद्यपीन्द्रस्यद्वावेवहरीतथापितयोर्विभूतिभेदान्ना- नात्वं अतोश्वबहुत्वमविरुद्धम् ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 With two horses: Although the horses of Indra are but two, yet, from their supernatural faculties, they may multiply themselves without limit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your two fallow bays, Indra, journey here, with your four and with  your six, when you are summoned,  
 with your eight and your ten, to the soma-drinking. Here is the pressed  soma, generous one: do not disdain it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, come hitherward with two Bay Coursers, come thou with four, with six when invocated.  
      Come thou with eight, with ten, to drink the Soma. Here is the juice, brave Warrior: do not scorn it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit zwei Falben, o Indra, mit vieren, mit sechsen, da du gerufen wirst, mit acht, mit zehn zum Somatrunk. Dieser Soma ist ausgepreßt, o Freigebiger, verschmäh ihn nicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komme Indra her mit zweien Füchsen, mit vieren komm, mit sechsen angeruf'ner, Mit acht, mit zehnen her zum Somatrunke; hier steht der Soma, nicht verschmäh ihn, lust'ger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, приезжай на двух буланых конях,  
 На четырех, на шести, призываемый (нами),  

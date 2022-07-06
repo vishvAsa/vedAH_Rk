@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि त्वाग्ने पु꣡रं वयं꣡  
 वि꣡प्रं सहस्य धीमहि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हन्ता꣡रम् भङ्गुरा꣡वताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 धृ॒षत्ऽव॑र्णम् । दि॒वेऽदि॑वे । ह॒न्तार॑म् । भ॒ङ्गु॒रऽव॑ताम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -99,36 +99,36 @@ popular;; epic anuṣṭubh (424)
 हे **सहस्य** सहसे हित सहसो जात वा **अग्ने** **पुरं** पूरकं **विप्रं** मेधाविनं **धृषद्वर्णं** धर्षकरूपं **भङ्गुरावतां** भङ्गुरकर्मयुक्तानां रक्षसां **दिवेदिवे** प्रत्यहं **हन्तारं** हिंसितारं **त्वा** त्वां **वयं** पायुनामधेया भारद्वाजा रक्षसां हननाय **परि** **धीमहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We meditate, strength-born **Agni**, on you, the accomplisher (of rites), the sage, of fearful form, thedestroyer of the treacherous day by day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would set you, the inspired poet, all around (us) as our fortress, o  mighty Agni,  
 displaying bold color every day, smiter of (the demonic powers) along  with their wreckage—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We set thee round us as a fort, victorious Agni, thee a Sage,  
      Of hero lineage, day by day, destroyer of our treacherous foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als einen Burgwall wollen wir dich, den Redekundigen, du übermächtiger Agni um uns legen, dich von kühnem Aussehen, Tag für Tag, den Töter der Hinterlistigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, starker Agni, setzen wir als Burg, o weiser, um uns her; Der kühn du glänzest Tag für Tag, und die verderblichen erschlägst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тобою, вдохновенным, о Агни, как крепостью,  
 Мы хотим окружить себя, о сильный,  

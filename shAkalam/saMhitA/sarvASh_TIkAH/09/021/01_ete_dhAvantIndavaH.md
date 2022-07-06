@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ धावन्ति इ꣡न्दवः  
 सो꣡मा इ꣡न्द्राय घृ꣡ष्वयः  
 मत्सरा꣡सः सुवर्वि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒त्स॒रासः॑ । स्वः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -77,36 +77,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** **सोमाः** **इन्द्राय** **धावन्ति** गच्छन्ति । कीदृशा एते । **इन्दवः** क्लेदयितारो दीप्ता वा **घृष्वयः** घर्षणशीलाः **मत्सरासः** मादयितारः **स्वर्विदः** स्वर्लोकस्य लम्भयितारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These flowing **Soma**-juices, foe-destroying, exhilarating, heaven-conferring, have gone to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These are running for Indra, these drops, the ardent soma juices,  
 bringing exhilaration and finding the sun,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra flow these running drops, these Somas frolicsome in mood.  
      Exhilarating, finding light;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Somasäfte rinnen erwartungsfroh für Indra, berauschend, das Himmelslicht findend;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatropfen strömen hier, die lustigen, zu Indra hin, Berauschend, schaffend Himmelsglanz,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти капли, соки сомы  
 Бегут, радостные, для Индры,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्वाद्भ्यो꣡ अ꣡दाभियः  
 प꣡वस्व ओ꣡षधीभियः  
 प꣡वस्व धिष꣡णाभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑स्व । धि॒षणा॑भ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasvādbhyo* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -67,7 +67,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वम् **अद्भ्यः** वसतीवरीभ्यः **अदाभ्यः** अंशुभ्यश्च **पवस्व** क्षर । अपि च **ओषधीभ्यः** **पवस्व** क्षर। किंच **धिषणाभ्यः** ग्रावभ्यः **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -78,28 +78,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 With filaments: adābhyaḥ = n. sing. 'inviolable'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself undeceivable for the waters; purify yourself for the plants; purify yourself for the Holy Places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward from the waters, flow, inviolable, from the plants:  
      Flow onward from the pressing-boards.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich für die Gewässer, ohne dich betören zu lassen, läutere dich für die Pflanzen, läutere dich für die priesterlichen Werke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trugloser, riesle aus der Flut und riesle aus den Kräutern her Und aus den Schalen riesle hell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

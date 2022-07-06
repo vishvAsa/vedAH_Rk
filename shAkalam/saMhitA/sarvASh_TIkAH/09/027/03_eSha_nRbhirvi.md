@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ नृ꣡भिर् वि꣡ नीयते  
 दिवो꣡ मूर्धा꣡ वृ꣡षा सुतः꣡  
 सो꣡मो व꣡नेषु विश्ववि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । वने॑षु । वि॒श्व॒ऽवित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** **सोमः** **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **वि** **नीयते** विविधं नीयते । एष कीदृशः । **दिवः** द्युलोकस्य **मूर्धा** शिरोवत्प्रधानभूतः **वृषा** अभिमतवर्षकः **सुतः** अभिषुतः । कुत्र नीयते । **वनेषु** वननीयेषु वनसंभूतद्रुमविकारेषु वा पात्रेषु । **विश्ववित्** सर्वज्ञ एष इति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,35 +100,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Into the wooden vessels: **vaneṣu** = desirable; or, 'wooden' vessels, vananīyeṣu vanasaṃbhūta **druma** vikāreṣu vā pātreṣu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one is led through (the filter) by men—the head of heaven, the bull,  the pressed  
 soma in the wooden (vessels), acquiring [/knowing] all.  
 1260 IX.28–29
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root-noun cmpd viśva-víd- is ambiguous, between ‘all-knowing’ and ‘allacquiring’ (see Scarlatta 489). In this context, given svar-jít- ‘winning the sun’ (2b) and satrājít- ‘winning compeltely’ (4c), ‘acquiring all’ seems to work better; however, the very next hymn contains two instances of the same cmpd (IX.28.1, 5), where ‘knowing all’ is favored.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men conduct him, Soma, Steer, Omniscient, and the Head of Heaven,  
      Effused into the vats of wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser wird von den Männern auf die Seihe abgeleitet, das Haupt des Himmels, der ausgepreßte Bulle, der Soma in die Holzgefäße, der Allwissende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wird von Männern in das Holz geführt, der allbesitzende, Soma, der Stier, des Himmels Haupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он проводится мужами через (цедилку),  
 Глава неба, бык, выжатый  

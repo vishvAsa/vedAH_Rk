@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्या꣡ नः स꣡रस्वती  
 घोरा꣡ हि꣡रण्यवर्तनिः  
 वृत्रघ्नी꣡ वष्टि सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 वृ॒त्र॒ऽघ्नी । व॒ष्टि॒ । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -84,20 +84,20 @@ genre M
 **उत** अपि च **स्या** सा प्रसिद्धा **सरस्वती** **घोरा** शत्रूणां भयकारिणी **हिरण्यवर्तनिः** । वर्ततेऽनेनेति वर्तनी रथः । हिरण्यमयो वर्तनिर्यस्याः सा तथोक्ता । वृत्रघ्नी वृत्राणां शत्रूणां हन्त्री । एवंभूता सा सरस्वती **नः** अस्मदीयां सुष्टुतिं शोभनां स्तुतिं **वष्टि** कामयताम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the fierce **Sarasvatī**, riding in a golden chariot, the destructress of enemies, be plural ased by our earnest laudation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this Sarasvatī, having a golden course, fearsome,  
 obstacle-smashing, wants our good praise—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs.-initial utá seems to introduce the tṛca, as does the identically placed utá in vs. 10.
 
@@ -112,23 +112,23 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, this divine Sarasvati, terrible with her golden path,  
      Foe-slayer, claims our eulogy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese furchtbare Sarasvati mit goldenen Rädern, die Feindetöterin wünscht von uns ein Loblied:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die auf goldnen Pfaden kommt, die mächtige Sarasvati, Die Feinde schlägt, begehrt Gesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А эта Сарасвати,  
 Грозная, с золотым путем,  

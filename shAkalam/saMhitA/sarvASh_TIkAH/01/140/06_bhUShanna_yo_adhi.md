@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡षन् न꣡ यो꣡ अ꣡धि बभ्रू꣡षु न꣡म्नते  
 वृ꣡षेव प꣡त्नीर् अभि꣡ एति रो꣡रुवत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भीमो꣡ न꣡ शृ꣡ङ्गा दविधाव दुर्गृ꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ओ॒जा॒यमा॑नः । त॒न्वः॑ । च॒ । शु॒म्भ॒ते॒ । भी॒मः । न । शृङ्गा॑ । द॒वि॒धा॒व॒ । दुः॒ऽगृभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūṣan* ← *bhūṣ*
 - \[verb noun\], nominative, singular
@@ -122,19 +122,19 @@ genre M
 **यः** अग्निः **बभ्रूषु** बभ्रुवर्णास्वोषधीषु भरणकुशलासु वा जगताम् **अधि** अधिकं **नम्नते** नमति काष्ठानि प्रविशति । नमतेर्लेटि अडागमः । व्यत्ययेन श्ना । यद्वा । लटि छान्दसः शपः श्लुः । व्यत्ययेन हलादिशेषाभावः॥ **भूषन्न** भूतान्येव स्वतेजसा भूषयन्निव। किंचायं प्रविशन् **वृषेव** सेक्ता वृषभ इव **पत्नीः** तमेव पालयित्रीः समर्धयित्रीः ओषधीः **रोरुवत्** । रौतेर्यङ्लुगन्तात् शतरि ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ अत्यर्थं शब्दयन् **अभ्येति** अभितो गच्छति । प्रथमम् ओषधीः प्रविश्य पश्चात् प्रबुद्धः सन् ता एव दहतीत्यर्थः । किंचैवं कृत्वा **ओजायमानः** । ओज इति बलनाम । स्वयं बलमिवाचरन् ॥ ‘कर्तुः क्यङ् सलोपश्च' इति क्यङ्सलोपौ ॥ धूमादिभिर्विना केवलं तेजोरूप एव सन् **तन्वश्च** **शुम्भते** स्वशरीरभूता ज्वाला अपि दीपयति पोषयतीत्यर्थः । किंच प्रवृद्धज्वालः **दुर्गृभिः** केनचिदपि ग्रहीतुमशक्यः सन् **भीमो** **न** भयंकरो मृग इव स यथा दुर्ग्रहः सन् शृङ्गं चालयति तद्वदयमपि शृङ्गाणि' शृङ्गवदुन्नता ज्वालाः **दविधाव** अत्यर्थं चालयति ॥ धुनोतेर्यङ्लुगन्तात् लिटि रूपम् । अस्य च दाधर्त्यादौ इति शब्देन संग्रहो द्रष्टव्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He stoops down among the bushes as if embellishing them (with his lustre), and rushes roaring like a bull amongst (a herd of) cows; thence increasing in intensity, he enhances (the fierceness) of his form, and is difficult to be arrested as a formidable (animal), when he brandishes his horns. Like a bull amongst: vṛṣeva pantir abhyeti; patnir = pālayitrīḥ, those who cherish him, **Agni**, i.e., bushes, timber; patnī = a cow\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who, like a busy attendant, keeps bending over the brown (females  [=plants])—he goes toward (them) like a bull to his wives, constantly  bellowing. And, showing his power, he beautifies their [?] bodies. Like a fearsome  (bull), the one difficult to grasp keeps shaking his horns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The concentration of intensives continues in this verse: námnate (a), róruvat (b), davidhāva (d).
 
@@ -157,28 +157,28 @@ This proposed split reference seems to me to break the thematic unity of the ver
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Amid brown plants he stoops as if adorning them, and rushes bellowing like a bull upon his wives.  
      Proving his might, he decks the glory of his form, and shakes his horns like one terrific, hard to stay.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he bends down over the brown (plants) 1 like a busy (servant), he roars and approaches his wives like a bull. Displaying his power he adorns his bodies with beauty; like a terrible beast, difficult to seize, he shakes his horns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sich über die braunen Hölzer beugt, wie einer, der bereit ist; er bespringt sie brüllend wie der Bulle die Weibchen. Und seine Kraft zeigend macht er seine Leiber schön; wie ein furchtbarer Büffel schüttelt er die Hörner, schwer zu packen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sich geschäftig über braune Hölzer neigt, er eilet brüllend wie ein Bull den Kühen zu, Und Kraft erweisend lässt er strahlen seinen Leib, die Hörner schüttelnd wie ein furchtbar wilder Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он мощно склоняется над коричневыми (деревьями), как тот, кто готов,  
 Ревя, он спаривается (с ними), словно бык с коровами.  

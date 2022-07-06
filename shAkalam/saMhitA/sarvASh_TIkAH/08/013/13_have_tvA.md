@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡वे त्वा सू꣡र उ꣡दिते  
 ह꣡वे मध्यं꣡दिने दिवः꣡  
 जुषाण꣡ इन्द्र स꣡प्तिभिर् न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 जु॒षा॒णः । इ॒न्द्र॒ । सप्ति॑ऽभिः । नः॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *have* ← *hvā*
 - \[verb\], singular, Present indikative
@@ -96,36 +96,36 @@ genre M
 हे **इन्द्र** **सूरे** सूर्ये **उदिते** उदयं प्राप्ते सति प्रातःसवने त्वां **हवे** आह्वये। तथा **दिवः** दिवसस्य **मध्यंदिने** मध्यभागे माध्यंदिनसवने त्वां **हवे** आह्वये । हे इन्द्र स त्वं **जुषाणः** प्रीयमाणः सन् **सप्तिभिः** सर्पणशीलैरश्वैः **नः** अस्मान् **आ** **गहि** आगच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke you when the sun is risen; I invoke (you) at mid-day; being propitited, come to us, **Indra**, withyour gliding steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call upon you when the sun has risen; I call upon (you) at the day’s  midday.  
 Rejoicing, Indra, come here to us with your teams.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call thee when the Sun is risen, I call thee at the noon of day:  
      With thy car-horses, Indra, come wellpleased to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe dich bei Sonnenaufgang, ich rufe dich um die Mittagszeit des Tages; komm gern zu uns, Indra, mit deinen Gespannen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich ruf' bei Sonnenaufgang ich, dich in des Tages Mitte an; Mit den Gespannen komme froh, o Indra, her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову тебя на восходе солнца,  
 Я зову в середине дня –  

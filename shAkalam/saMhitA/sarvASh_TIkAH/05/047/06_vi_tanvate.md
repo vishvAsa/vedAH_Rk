@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ तन्वते धि꣡यो अस्मा अ꣡पांसि  
 व꣡स्त्रा पुत्रा꣡य मात꣡रो वयन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिव꣡स् पथा꣡ वधु꣡वो यन्ति अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒प॒ऽप्र॒क्षे । वृष॑णः । मोद॑मानाः । दि॒वः । प॒था । व॒ध्वः॑ । य॒न्ति॒ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -111,20 +111,20 @@ genre M
 **अस्मै** सूर्याय **धियः** स्तुतीः **अपांसि** कर्माणि च **वि** **तन्वते** विस्तारयन्ति यजमानाः । **पुत्राय** पुत्रस्थानीयाय **मातरः** निर्मात्र्य उषसो दिशो वा **वस्त्रा** वस्त्राणि **वयन्ति** निष्पादयन्ति । वस्त्रसदृशानि तेजांसि निबिडानि संपादयन्तीत्यर्थः । **वृषणः** सेक्तुः सूर्यस्य **उपप्रक्षे** उपपर्चने संपर्के सति **मोदमानाः** हृष्यन्तः **वध्वः** वधूस्थानीया रश्मयः **दिवस्पथा** सूर्यसंबन्धिना मार्गेण **अच्छ** अस्मदभिमुखं **यन्ति** गच्छन्ति प्रसरन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To him (worshippers) multiply praises and acts of adoration; for (him as for) a son, the (divine) mothers weave garments (of light); rejoicing in the contact of their impregnation, the wives of the sun, (the solar rays), come to our presence by the path of the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They stretch out their insightful thoughts, their (ritual) labors (as warp)  for him; the mothers weave garments for their child.  
 The bulls, delighting in coupling, go to their wives along the path of  heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the last real vs. of the hymn, preceding the meta-reference to the hymn itself and wishes for its efficacy (vs. 7).
 
@@ -137,23 +137,23 @@ masc. or fem. or acc. pl. fem. Geldner in his Nachtr. does confront the morpholo
 With Oldenberg I take upaprakṣé as loc. to a them. stem upaprakṣáIf this interpr. of the vs. is correct, it provides the hymn with a thematic ring compositional structure. The first two vss. provide the materials that will return in vs. 6. Vs. 1 introduces the inspired thought coming from heaven and established at the sacrifice, thus linking the divine and human worlds, and vs. 2 sketches the highway linking these two worlds, the encircling paths. In vs. 6 the inspired thought of vs. 1 is represented by the dhíyaḥ (insightful thoughts) produced by the unnamed priests (ab), and these thoughts are configured as the new brides of the bullish gods who have utilized the paths of vs. 2 to come to the sacrifice and unite with them. The interior vss. present the sun (vs. 3) but concentrate on the ritual fire (vss. 4-5). Given the emphasis on the ritual and its connection to heaven, I’m not quite sure why the sun intrudes in 3—perhaps its journey across the sky is compared or contrasted with the journey between heaven and earth we find elsewhere in the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For him they lenghten prayers and acts of worship: the Mothers weave garments for him their offspring.  
      Rejoicing, for the Steer's impregning contact, his Spouses move on paths or heaven to meet him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für ihn entfalten sie ihre Gedanken, ihre Werke; die Mütter weben die Kleider für den Sohn. Auf ihre Befruchtung durch den Bullen sich freuend ziehen die Frauen hin auf dem Pfade zum Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete spannen aus ihm das Gewebe; die Mütter weben für den Sohn Gewänder; Sich zu begatten gehn die lust'gen Stiere hin zu den Bräuten auf dem Pfad des Himmels.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для него протягиваются (нити -) поэтические мысли, (жертвенные) труды.  
 Матери ткут одежду для сына.  

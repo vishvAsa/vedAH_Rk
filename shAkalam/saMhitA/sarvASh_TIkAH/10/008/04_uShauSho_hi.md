@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उष꣡-उषो हि꣡ वसो अ꣡ग्रम् ए꣡षि  
 तुवं꣡ यम꣡योर् अभवो विभा꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जन꣡यन् मित्रं꣡ तनु꣡वे सुआ꣡यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ताय॑ । स॒प्त । द॒धि॒षे॒ । प॒दानि॑ । ज॒नय॑न् । मि॒त्रम् । त॒न्वे॑ । स्वायै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣa* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular
@@ -124,7 +124,7 @@ genre M
 हे **वसो** स्वेन तेजसा सर्वस्याच्छादयितर्वसुमन् वा प्रशस्य वा अग्ने **त्वम्** **उषउषः** सर्वस्या एवोषसः **अग्रं** पूर्वम् **एषि** प्राप्नोषि । अपि च **यमयोः** युग्मयोः परस्परमवियुक्तयोरहोरात्रयोः **विभावा** दीप्तिमान् **अभवः** भवसि । **तन्वे** **स्वायै** आत्मीयाच्छरीरात् **मित्रम्** आदित्यं **जनयन्** उत्पादयन् **सप्त** **पदानि** सप्तसंख्याकानि धिष्ण्यादिस्थानानि **ऋताय** यज्ञार्थं **दधिषे** धारयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M
 Mitra: the sun; seven plural ces: theseven altars for the fire: dhisṇyā etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you go at the forefront of every dawn, o good one, you have  become the far-radiant one at (the time of) the twins [=Night and  
 Dawn?].  
 For truth you have set your seven steps, begetting an alliance [/Mitra] for  the sake of your own body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Vasu thou precedest every Morning, and still hast been the Twins' illuminator.  
      For sacrifice, seven places thou retainest while for thine own self thou engenderest Mitra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du gehst jeder Usas voraus, du Guter; du wardst der Erheller der beiden Zwillinge. Dem Gesetz hast du die sieben Schritte getan, dir selbst in ihm einen Freund schaffend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o guter, führst die Morgenröthen, du hast erhellt die Schwestern, Nacht und Morgen, Du hast gesetzt des Opfers sieben Stätten, den Freund erzeugend deinem eignen Leibe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты идешь впереди каждой утренней зари, о благой.  
 Ты был (тем, кто) освещает обоих близнецов.  

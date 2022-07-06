@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्ने याहि मरु꣡त्सखा  
 रुद्रे꣡भिः सो꣡मपीतये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 माद꣡यस्व सु꣡वर्णरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सोभ॑र्याः॒ । उप॑ । सु॒ऽस्तु॒तिम् । मा॒दय॑स्व । स्वः॑ऽनरे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgne* ← *ā*
 - \[adverb\]
@@ -94,42 +94,42 @@ genre M
 हे **अग्ने** **मरुत्सखा** मरुतां प्रियस्त्वं **स्वर्णरे** अस्माकं यजनलक्षणे कर्मणि **सोमपीतये** सोमपानाय **रुद्रेभिः** रुदैर्मरुद्भिः सह **आ** **याहि** आगच्छ । **सोभर्याः** सोभरेर्मम **सुष्टुतिं** शोभनां स्तुतिं चोपागच्छ । **मादयस्व** । स्तुतिं श्रुत्वा सोमं पीत्वात्मानं मादय च ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who have the **Maruts** as your friends, come with the **Rudras** to drinkt he **Soma**; come to thepraises of Sobhari; delight yourself at our solemn rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, drive here, as comrade of the Maruts, along with the Rudras,  for soma-drinking.  
 (Drive) to the good praise of Sobhari. Make yourself euphoric in the  presence of Svarṇara.Volume III
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the fem. form sóbharyāḥ referring to the poet, see comm. ad VIII.22.15.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Friend of the Maruts, Agni, come with Rudras to the Soma-draught,  
      To Sobhar's fair song of praise, and be thou joyful in the light.  
      VALAKHILYA
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, komm als der den Marut Befreundete mit den Rudra´s zum Somatrunk, zu Sobhari´s Loblied! Ergötze dich am Svarnarasoma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, komm, du Marutfreund, mit Rudra's zu dem Somatrunk, berausche dich beim Lobgesang des Sobharī, o Glanzesherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приди, дружа с Марутами,  
 Вместе с Рудрами для питья сомы  

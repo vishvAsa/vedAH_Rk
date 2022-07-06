@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किष् ट एता꣡ व्रता꣡ मिनन्ति  
 नृ꣡भ्यो य꣡द् एभ्यः꣡ श्रुष्टिं꣡ चक꣡र्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 नकिः॑ । ते॒ । ए॒ता । व्र॒ता । मि॒न॒न्ति॒ । नृऽभ्यः॑ । यत् । ए॒भ्यः । श्रु॒ष्टिम् । च॒कर्थ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakiṣ* ← *nakir*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,33 +94,33 @@ Sayana bhashya empty
 Samānair nṛbhiḥ = with equal leaders or men, i.e. with the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 None transgress these commandments of yours,  
 since you have given attentive hearing to these men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 नकि॑ष्ट ए॒ता व्र॒ता मि॑नन्ति॒ नृभ्यो॒ यदे॒भ्यः श्रु॒ष्टिं च॒कर्थ॑ ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When thou hast listened to these heroes, no one breaks those laws of thine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht übertreten sie diese deine Gebote, da du diesen Herren Gehorsam geleistet hast
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Niemand kann hemmen – all dies dein Wirken, wenn diesen Männern – Gehör du schenkest; Das ist dein Werk ja, – dass du verbündet mit gleichen Helden – Schmach schlägst und tilgest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

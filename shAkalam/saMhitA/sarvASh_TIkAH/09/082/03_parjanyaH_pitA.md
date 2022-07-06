@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पर्ज꣡न्यः पिता꣡ महिष꣡स्य पर्णि꣡नो  
 ना꣡भा पृथिव्या꣡ गिरि꣡षु क्ष꣡यं दधे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सं꣡ ग्रा꣡वभिर् नसते वीते꣡ अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वसा॑रः । आपः॑ । अ॒भि । गाः । उ॒त । अ॒स॒र॒न् । सम् । ग्राव॑ऽभिः । न॒स॒ते॒ । वी॒ते । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 यस्य **महिषस्य** महतः **पर्णिनः** पर्णवतः पतनवतो वा सोमस्य **पर्जन्यः** **पिता** जनकः स सोमः **पृथिव्याः** **नाभा** नाभौ नाभिस्थानीये हविर्धाने **गिरिषु** गिरिसंबन्धिग्रावसु **क्षयं** निवासं **दधे** धारयत्यभिषवसमये । **उत** अपि च **स्वसारः** अङ्गुलयः **आपः** वसतीवर्यः **गाः** आशिरार्थाः स्तुतयो वा **अभि** **असरन्** अभिसरन्ति । **सं** **नसते** संगच्छते च **ग्रावभिः** साकम् । कुत्र । **वीते** कान्ते **अध्वरे** यज्ञे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Parjanya: i.e., the rain; **somaḥ** is implied in mahiṣasya parṇinaḥ and is the subject of dadhe. The mountains are the grinding-stones; the navel of the earth is the oblation. **svasaraḥ** = fingers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Parjanya is the father of the feathered [/leafy] buffalo. In the navel of the  earth, on the mountains he has established his dwelling place.  
 The sister waters have also flowed to the cows. He will unite with the  stones when the ceremony is undertaken.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Parjanya is the Father of the Mighty Bird: on mountains, in earth's centre hath he made his home.  
      The waters too have flowed, the Sisters, to the kine: he meets the pressing-stones at the beloved rite.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parjanya ist der Vater des befiederten, des belaubten Büffels; im Mittelpunkt der Erde, auf den Bergen hat er seinen Wohnsitz genommen. Auch die verschwisterten Gewässer sind zu den Kühen geeilt. Mit den Steinen kommt er in Berührung, wenn das Opfer zugerichtet ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des grossen Adlers Vater ist das Blitzgewölk; im Schooss der Erde, auf den Bergen nahm er Platz, Die Wasser, seine Schwestern, rannen hin zur Milch, und mit den Steinen buhlt er bei dem Opferwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Парджанья – отец буйвола крылатого.  
 На пупе земли, в горах он устроил себе жилье.  

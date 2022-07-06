@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ नो ये꣡षु वरुण  
 क्षत्र꣡म् बृह꣡च् च बिभृथः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 कृतं꣡ राये꣡ सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒रु । नः॒ । वाज॑ऽसातये । कृ॒तम् । रा॒ये । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -108,36 +108,36 @@ genre M
 हे **वरुणा** मित्रावरुणौ **युवं** युवां **नः** अस्माकं **क्षत्रं** बलं **बृहत्** ब्रह्म परिवृढमन्नं **च** **येषु** स्तोत्रेषु निमित्तेषु **बिभृथः** धारयथः युवाभ्यां धृतम् अन्नं च **नः** अस्मभ्यं **वाजसातये**  अन्नस्य लाभाय यज्ञाय वा **राये** धनाय **स्वस्तये** क्षेमाय च **उरु** विस्तीर्णं **कृतं** कुरुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Mitra** and **Varuṇa**, bring us strength and abundant (food) for (those praises) which (we offer); be largely bountiful to us in food, in riches, in prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us, among whom you two maintain your dominion (here) and aloft,  o Varuṇa— for us make wide space to win the prize for the sake of wealth and  
 well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With those, moreover, among whom ye hold your high supremacy,  
      Vouchsafe us room that we may win strength for prosperity and wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide, Mitra und Varuna, sollt uns, denen ihr die mächtige Herrschaft erhaltet, ihr sollt uns freie Bahn zum Siegesgewinn, zum Reichtum, zum Glück bereiten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schafft und welchen hohe Macht ihr, Mitra-Varuna, verleiht, Zum Guterlangen weite Bahn, zum Reichthum und zum Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для нас, среди которых, о Варуна (и Митра),  
 Вы поддерживаете господство и высокую (защиту),  

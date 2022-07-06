@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ रण्वा꣡ · सुव꣡स्येव पुष्टिः꣡  
 सं꣡दृष्टिर् अस्य हियान꣡स्य द꣡क्षोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्यो न꣡ र꣡थ्यो दोधवीति वा꣡रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । यः । भरि॑भ्रत् । ओष॑धीषु । जि॒ह्वाम् । अत्यः॑ । न । रथ्यः॑ । दो॒ध॒वी॒ति॒ । वारा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -113,20 +113,20 @@ genre M
 अस्याग्नेः पुष्टिः शरीरवृद्धिः रण्वारमणीयाशब्दयुक्तावा तत्रदृष्टान्तः—स्वस्यपुष्टिरिवयथालोके स्वकीयापुष्टिः स्वस्मैरमणीयाभवतितद्वत् यद्वास्याग्नेःसम्बन्धिनीपुष्टिः यथायजमानविषयारण्वातद्वत् किञ्च हियानस्यसमृद्धिङ्गच्छतोव्याप्नुवतोधक्षोः काष्ठान् दिधक्षोःदग्धुमिच्छोरस्याग्नेः सन्दृष्टिः सन्द- र्शनाविर्भावोपिरण्वा योग्निरोषधीषुकाष्ठेषुजिह्वाञ्ज्वालां जात्येकवचनं ज्वालाः विभरिभ्रत् अत्य- र्थंविहिरतिकम्पयतीत्यर्थः हरतेर्यङ् लुगन्तत्वेनदाधर्त्यादिषुनिपातिताल्लेट्यडागमः यद्योगादनि- घातः तत्रदृष्टान्तः—रथ्योरथार्होऽत्योन वाजीयथा वारान् दंशवारणसाधनान् बालान् दोधवीति कम्पयतितद्वत् योग्निर्ज्वालाःकम्पयति अस्याग्नेःपुष्टिःरण्वेति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cherishing of **Agni** is as agreeable as (the cherishing) of one's self; (plural asant) is his appearance, when spreading abroad, and consuming (the fuel); he brandishes his flame among the bushes, as a chariot-horse lashes with his tail.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His thriving, like one’s own, brings delight; delightful is his whole  appearance when he is being urged on, about to burn.  
 He who is flicking his tongue hither and yon among the plants, like a  steed at a chariot he keeps twitching his tail.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The predicate adj. raṇvā́qualifies both puṣṭíḥ and sáṃdṛṣṭiḥ; for the latter see X.64.11 raṇváḥ sáṃdṛṣṭau.
 
@@ -139,28 +139,28 @@ bháribhrat must be predicated in the rel. cl. and dodhavīti interpreted as the
 Because of the equine simile and imagery, the primary reading of dodhavīti vā́rān must be “twitches his tail(-hairs),” but a second reading “shakes out choice things” is also invited.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sweet is his growth as of one's own possessions; his look when rushing fain to burn is lovely.  
      He darts his tongue forth, like a harnessed courser who shakes his flowing tail, among the bushes.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 His prosperity is delightful as good pasture (?) 1; delightful is his appearance when the burning one is driven forward, he who quickly shaking his tongue among the plants waves 2 his tail mightily like a chariot-horse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erfreulich ist sein Wachsen wie das des eigenen Besitzes, sein Anblick, wenn der Brennlustige sich in Lauf setzt, der in den Pflanzen züngelnd - wie ein Wagenroß schüttelt er seinen Schweif.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie eignes Gut sieht man ihn gerne wachsen, und liebt das Bild des brennenden, geschürten, Der zu den Pflanzen seine Zunge ausstreckt, der wie ein Wagenross die Schweife schüttelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Радостно его процветание, как у собственного имущества;  
 (Радостен) его вид, когда он кидается, стремясь сжигать.  

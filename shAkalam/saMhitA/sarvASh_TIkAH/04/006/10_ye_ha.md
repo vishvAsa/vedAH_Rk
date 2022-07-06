@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ह त्ये꣡ ते स꣡हमाना अया꣡सस्  
 त्वेषा꣡सो अग्ने अर्च꣡यश् च꣡रन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुविष्वण꣡सो मा꣡रुतं न꣡ श꣡र्धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श्ये॒नासः॑ । न । दु॒व॒स॒नासः॑ । अर्थ॑म् । तु॒वि॒ऽस्व॒नसः॑ । मारु॑तम् । न । शर्धः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -118,42 +118,42 @@ genre M
 हे **अग्ने** **ये** **ह** खलु **त्ये** ते प्रसिद्धाः **सहमानाः** शत्रूनभिभवन्तः **अयासः** गमनशीलाः **त्वेषासः** दीप्ताः **दुवसनासः** परिचरणीयाः **ते** त्वदीयाः **अर्चयः** रश्मयः **श्येनासो** **न** अश्वा इव **अर्थं** गन्तव्यं **चरन्ति** गच्छन्ति । कीदृशाः। **मारुतं** **शर्धः** **न** मरुत्संबन्धी गण इव **तुविष्वणसः** तुविस्वना अधिकध्वनयो भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those, your rays, **Agni**, triumphant, wide-spreading, radiant, adorable, go like hawk-faced horses (to their goal), loud-sounding like the company of the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These rays of yours, Agni, which proceed, overwhelming, irrepressible,  turbulent,  
 are like falcons going the distance to the goal, very noisy like the  
 Marutian troop.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These brightly-shining games of thine, O Agni, that move for ever restless, allsubduing,  
      Like falcons hasting eagerly to the quarry, roar loudly like the army of the Maruts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Those victorious, never-tiring 1, fierce flames of thine, O Agni, which move about, hasten 2 to their goal like hawks; they roar mightily like the host of the Maruts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Flammen, die überwältigend, unverzagt, furchtbar einhergehen, wie Adler dem Ziele zustrebend, laut rauschend wie die marutische Schar, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja diese deine Strahlen, welche siegreich und rastlos wandern, ungestüm, o Agni, Wie Adler fliegend ferne hin zum Ziele, mit lautem Rauschen wie die Marutscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А эти твои языки пламени, которые движутся,  
 Одолевая, неутомимо, о Агни, устрашая,  

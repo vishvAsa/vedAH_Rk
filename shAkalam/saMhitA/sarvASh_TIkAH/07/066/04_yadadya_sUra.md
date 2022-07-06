@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ सू꣡र उ꣡दिते  
 अ꣡नागा मित्रो꣡ अर्यमा꣡  
 सुवा꣡ति सविता꣡ भ꣡गः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सु॒वाति॑ । स॒वि॒ता । भगः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **यत्** धनमस्माकमपेक्षितं तत् **अद्य** अस्मिन् काले **सूर** **उदिते** सति प्रातःसवने **अनागाः** पापहन्ता **मित्रोऽर्यमा** **सविता** **भगः** चैते प्रत्येकं **सुवाति** प्रेरयेत् । अथवा । अनागा मित्रोऽर्यमा दाता भवतु । तदीप्सितं धनं भगो भजनीयः सविता सुवाति प्रेरयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Mitra**, the destroyer of sin, **Aryaman**, **Savitā**, **Bhaga**, bestow (upon us), today at sun-rise what (wepray for).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If today, at the rising of the sun, the one free of offense [=the Sun],  Mitra, Aryaman,  
 Savitar, and Bhaga will each impel (us),
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So when the Sun hath risen to-day, may sinless Mitra, Aryaman,  
      Bhaga, and Savitar sendus forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn heute bei Sonnenaufgang Mitra, Aryaman, Savitri, Bhaga die Schuldlosen bestimmen werden,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was bei der Sonne Aufgang heut der heil'ge Mitra, Arjaman, Bhaga und Savitar verleihn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если сегодня на восходе солнца  
 Митра, Арьяман (провозгласят нас) безгрешными,  

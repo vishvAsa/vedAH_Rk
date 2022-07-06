@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्वा सिन्धो शि꣡शुम् इ꣡न् न꣡ मात꣡रो  
 वाश्रा꣡ अर्षन्ति प꣡यसेव धेन꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् आसाम् अ꣡ग्रम् प्रव꣡ताम् इ꣡नक्षसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 राजा॑ऽइव । युध्वा॑ । न॒य॒सि॒ । त्वम् । इत् । सिचौ॑ । यत् । आ॒सा॒म् । अग्र॑म् । प्र॒ऽवता॑म् । इन॑क्षसि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 हे **सिन्धो** **त्वा** त्वां **शिशुमिन्न** **मातरः** मातरः पुत्रमिव **वाश्राः** शब्दयन्त्य इतरा नद्यः **अभि** **अर्षन्ति** अभिगच्छन्ति । **पयसेव** **धेनवः** पयसा युक्ता नवप्रसूतिका गाव इव । किंच **युध्वा** युद्धकृत् **राजेव** **त्वमित्** त्वमेव **सिचौ** सिच्यमानौ तटौ **नयसि** उदकपूरं **यत्** यदा  **आसां** **प्रवतां** त्वया सह गच्छन्तीनाम् **अग्रम्** अग्रे **इनक्षसि** व्याप्नोषि । सर्वासां पुरतो गच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,7 +150,7 @@ genre M
 Your two wings: your flowing combatants; or, wings of an army
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you, Sindhu, like mothers to their young, like milk-cows with their  milk do they [=tributary rivers] rush bellowing.  
 It’s you who lead them as a battling king does the two “seams” (of  
@@ -158,23 +158,23 @@ the army), when you seek to reach the front rank of these sloping
 (waters).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like mothers to their calves, like milch kine with their milk, so, Sindhu, unto thee the roaring rivers run.  
      Thou leadest as a warrior king thine army's wings what time thou comest in the van of these swift streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie eilen dir zu, o Sindhu, wie die Mütter ihrem Jungen, wie die Kühe brüllend mit ihrer Milch. Du führest sie an wie ein kämpfender König seine beiden Heerflügel, wann du die Spitze dieser Ströme zu gewinnen suchest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Sindhu, eilen wie die Mütter ihrem Kind, wie mit der Milch die Kühe, rauschend Fluten zu, Du führst sie wie der Fürst im Kampf die Heeresschar, wenn du an dieser schnellen Ströme Spitze eilst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе, о Синдху, бросаются они,  
 Как матери к дитяте, как дойные коровы, ревущие от молока.  

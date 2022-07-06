@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वा꣡ अरण्यानि꣡र् हन्ति  
 अन्य꣡श् चे꣡न् ना꣡भिग꣡छति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यथाका꣡मं नि꣡ पद्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 स्वा॒दोः । फल॑स्य । ज॒ग्ध्वाय॑ । य॒था॒ऽकाम॑म् । नि । प॒द्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -101,7 +101,7 @@ popular;; epic anuṣṭubh (292)
 **न** **वै** न खलु ”अरण्यानिः अरण्यानी **हन्ति** तत्र निवसन्तं हिनस्ति । यदि **अन्यः** व्याघ्रचौरादिः **नाभिगच्छति** । तर्हि ”स्वादोः रसवत आम्रादेः **फलस्य** । द्वितीयार्थे षष्ठी। फलं ”जग्ध्वाय भक्षयित्वा तत्र निवसन् पुरुषः ”यथाकामं यथेच्छं ”नि **पद्यते** निगच्छति वर्तते ॥ क्त्वाप्रत्यये ‘अदोजग्धिर्ल्यप्ति किति ' ( पा. सू. २. ४. ३६ ) इति जग्ध्यादेशः ।  ‘ क्त्वो यक् ' ( पा. सू. ७. १. ४७ ) इति यक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ popular;; epic anuṣṭubh (292)
 Some other: as a tiger or robber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In truth, the Lady of the Wilderness does no slaughter, if someone else  does not attack.  
 Having eaten sweet fruit, one settles down at pleasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Goddess never slays, unless some murderous enemy approach.  
      Man eats of savoury fruit and then takes, even as he wills, his rest.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Never does Araṇyānī hurt, Unless one goes too near to her; When she has eaten of sweet fruit. At her own will she goes to rest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Frau des Waldes tötet ja nicht, wenn nicht ein anderer nahe kommt. Man ißt süße Frucht und legt sich nach Wunsch nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Waldesfrau verletzet nie, wenn nicht ein andrer sie beschleicht; Wenn sie von süsser Frucht gezehrt, geht sie zur Ruh, wie ihr's beliebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Араньяни и правда не убивает,  
 Если другой (кто) не подойдет.  

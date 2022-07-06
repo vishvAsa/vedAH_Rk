@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धारयतम् पृथिवी꣡म् उत꣡ द्या꣡म्  
 मि꣡त्रराजाना वरुणा म꣡होभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡व वृष्टिं꣡ सृजतं जीरदानू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 व॒र्धय॑तम् । ओष॑धीः । पिन्व॑तम् । गाः । अव॑ । वृ॒ष्टिम् । सृ॒ज॒त॒म् । जी॒र॒दा॒नू॒ इति॑ जीरऽदानू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhārayatam* ← *dhāray* ← *√dhṛ*
 - \[verb\], dual, Imperfect
@@ -114,36 +114,36 @@ genre M
 हे **मित्रराजाना** । मित्रभूताः स्तोतारो राजानः स्वामिन ईश्वरा भवन्ति ययोः सकाशात्  तौ मित्रराजानौ। हे **वरुणा** । प्रतियोग्यपेक्षया द्विवचनम् । अत्र पादादित्वादाद्यं पदं न निहन्यते । वरुणेत्येतस्य तु आमन्त्रितं पूर्वमविद्यमानवत्' इति पूर्वस्याविद्यमानवत्त्वेनास्यैव पादादित्वादनिघातत्वं युक्तम् । नैवं भवति । ‘नामन्त्रिते समानाधिकरणे सामान्यवचनम्' इति वरुणेत्येतस्यामन्त्रितसमानाधिकरणत्वादस्य च सामान्यवचनत्वादविद्यमानवत्त्वाभावेन पादादित्वाभावादुत्तरस्य निघातत्वं युक्तम् ॥ हे देवौ **महोभिः** तेजोभिः स्वसामर्थ्यैः **पृथिवीमुत** अपि च **द्याम्** **अधारयतम्** । हे देवौ युवाम् **ओषधीः** **वर्धयतं** वृष्टिप्रेरणेन । **गाः** **पिन्वतं** गवाश्वादीन् वर्धयतम् । तदर्थं **वृष्टिम्** **अव** **सृजतम्** अवाङ्मुखं प्रेरयतं हे  **जीरदानू** क्षिप्रदानौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Royal **Mitra** and **Varuṇa**, you uphold, by your energies, earth and heaven; prompt benefactors, cause the plural nts to grow, give nourishment to the cattle, send down the rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You upheld the earth and heaven, o you two kings, Mitra and Varuṇa, by  your great powers.  
 Make the plants grow! Swell the cows! Send the rain gushing down, o  you of lively waters!744 V.63
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mitra-Varuna, ye by your greatness, both Kings, have firmly stablished earth and heaven,  
      Ye caused the cows to stream, the plants to flourish, and, scattering swift drops, sent down the rain-flood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr festigt Himmel und Erde, Mitra und Varuna, ihr Könige, durch eure Herrlichkeit. Mehret die Kräuter, machet die Kühe strotzend, gießet den Regen herab, ihr Rausch spendende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr machtet fest die Erde und den Himmel mit Macht, o Herrscher Varuna und Mitra; den Pflanzen schafft Gedeihen, Milch den Kühen, o Thau-erreger, giesst herab den Regen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы удержали Землю и Небо,  
 О Митра-Варуна, о два царя, (своими) силами.  

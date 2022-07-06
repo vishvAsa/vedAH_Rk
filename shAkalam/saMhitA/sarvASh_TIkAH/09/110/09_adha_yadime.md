@@ -6,14 +6,14 @@ ChandaH = "ऊर्ध्वबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध य꣡द् इमे꣡ पवमान रो꣡दसी  
 इमा꣡ च वि꣡श्वा भु꣡वनाभि꣡ मज्म꣡ना  
 यूथे꣡ न꣡ निष्ठा꣡ वृषभो꣡ वि꣡ तिष्ठसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यू॒थे । न । निः॒ऽस्थाः । वृ॒ष॒भः । वि । ति॒ष्ठ॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -109,20 +109,20 @@ genre M
 हे **पवमान** सोम **अध** अनन्तरं **यत्** यथा **इमे** **रोदसी** द्यावापृथिव्यौ **इमा** इमानि **विश्वा** विश्वानि **भुवना** भूतजातानि **च** **मज्मना** बलेन **अभि** तिष्ठसि स त्वं तथा कुर्वन् भुवनेषु **वि** **तिष्ठसे** । तत्र दृष्टान्तः । **यूथे** **न** यथा कश्चित् **वृषभः** गवां यूथे' वृन्दे **निःष्ठाः** निःष्ठितो वर्तते तद्वद्यूथस्थानीयेषु भूतजातेषु निःष्ठितो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since, **Pavamāna**, you by your might are chief over these two worlds and all these living beings, as a bull is ruler in a herd of kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, o self-purifying one, in that (you) sur(mount) these two worlds  here and all these creatures by your greatness,  
 outstanding like a bull in the herd you extend yourself over them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On niṣṭhā́- see comm. ad III.31.10.
 
@@ -136,23 +136,23 @@ Considerably clearer than the previous tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As long as thou, O Pavamana, art above this earth and heaven and all existence in thy might,  
      Thou standest like a Bull the chief amid the herd.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dann du, Pavamana, diese beiden Welten und alle diese Geschöpfe an Größe überragst, so verteile du dich wie ein Bulle, der sich auf die Herde verteilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn flammend du zu diesen beiden Welten dringst, zu allen diesen Wesen nun mit deiner Kraft, Wie in die Heerd' ein starker Bull, dann dringst du ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда, о Павамана, эти две половины вселенной  
 И все миры (ты) пре(взошел) величием,  

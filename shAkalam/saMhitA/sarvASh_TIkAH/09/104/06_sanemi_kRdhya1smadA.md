@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नेमि कृधि꣡ अस्म꣡द् आ꣡  
 रक्ष꣡सं कं꣡ चिद् अत्रि꣡णम्  
 अ꣡पा꣡देवं द्वयु꣡म् अं꣡हो युयोधि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अप॑ । अदे॑वम् । द्व॒युम् । अंहः॑ । यु॒यो॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanemi*
 - \[adverb\]
@@ -92,42 +92,42 @@ genre M
 हे सोम **अस्मत्** अस्मासु **सनेमि** । पुराणनामैतत् । पुराणं सख्यं **कृधि** कुरु। **आ** अपि च **अत्रिणम्** अदनशीलं **कं** **चित्** **रक्षसम्** **अप** युध्यस्व । कीदृशम् । **अदेवम्** अदेवनशीलं **द्वयुं** द्वयवन्तं सत्यानृतयुक्तं बाह्याभ्यन्तरमायायुक्तं वा । किंच **नः** अस्माकम् **अंहः** पापं चाप **युयोधि** संप्रहर । युध्यतेः ' बहुलं छन्दसि' इति शपः श्लुः । ' वा छन्दसि' इति हेर्ङित्त्वाभावाद्गुणः । धलोपश्छान्दसः । यौतेर्वा श्लौ पूर्ववद्रूपम् ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Show us (your) ancient (friendship); (drive off) the voracious **rākṣasa**, the impious, the double dealer-- drive away our sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Put away from us bag and baggage any demonic devourer whatsoever. Keep away from us the godless double-dealing one, away difficult straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On sánemi see comm. ad VII.38.7.
 
 I do not understand why kṛdhí is accented.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive utterly away from us each demon, each voracious fiend,  
      The godless and the false: keep sorrow far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaff uns gänzlich den Unhold, jeden Atrin, den doppelzüngigen Gottlosen vom Halse, halte die Not von uns ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schaffe ganz von uns hinweg Gespenster, jeden fressenden, Entfern den falschen Götterhasser und die Noth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай (, чтобы убрался) от нас совсем  
 Ракшас, любой атрин!  

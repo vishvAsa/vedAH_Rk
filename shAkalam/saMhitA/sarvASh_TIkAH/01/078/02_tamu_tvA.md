@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा गो꣡तमो गिरा꣡  
 राय꣡स्कामो दुवस्यति  
 द्युम्नइ꣡र् अभि꣡ प्र꣡ णोनुमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 द्यु॒म्नैः । अ॒भि । प्र । नो॒नु॒मः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,41 +85,41 @@ genre M;; repeated line
 **रायस्कामः** धनकामः **गोतमः** यमग्निं **गिरा** स्तुत्या **दुवस्यति** परिचरति **तमु** तमेव त्वां **द्युम्नैः** द्योतमानैः स्तोत्रैराभिमुख्येन पुनःपुनः स्तुमः ॥ रायस्कामः । रायो धनानि कामयते इति रायस्कामः । 'कर्मण्यण् । तत्पुरुषे कृति बहुलम् ' इति बहुलवचनात् अलुक् । ' ऊडिदम् । इत्यादिना पूर्वपदस्य विभक्तेरुदात्तत्वम् । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । अतः कृकमिकंसकुम्भ ' ( पा. सू. ८. ३. ४६ ) इति विसर्जनीयस्य सत्वम् । दुवस्यति । ‘दुवस उपतापे परिचरणे च' । कण्ड्वादिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you; that (**Agni**) whom **Gotama**, desirous of riches, worships with praise, we offer adoration with commendatory (hymns).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And to you with a hymn does Gotama, desirous of wealth, show  friendship.  
 – We keep bellowing to (you), with éclat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee, as thou art, desiring wealth Gotama worships with his song:  
      We laud thee for thy glories' sake.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Gotama 1 desirous of riches exalts thee, as thou art, with his song. We praise thee aloud with (songs full of) splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir huldigt Gotama mit Lobeswort, im Wunsche nach Reichtum. Hellauf schreien wir dir zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dich verehret Gotama nach Schätzen lüstern mit dem Lied; Wir preisen dich mit hellem Sang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя одаривает песнью  
 Готама, жаждущий богатств.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡द् वो अद्य꣡ महा꣡नां᳐  
 देवा꣡ना᳐म् अ꣡वो वृणे  
 त्म꣡ना च दस्म꣡वर्चसाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्मना॑ । च॒ । द॒स्मऽव॑र्चसाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे मरुतः **महानां** मंहनीयानां महतां वा **त्मना** **च** आत्मनैवालंकरणैर्विनापि **दस्मवर्चसां** दर्शनीयतेजस्कानामत एव **देवानां** द्योतमानानां **वः** युष्माकम् **अवः** पालनं **कत्** कदाहं **वृणे** संभजे । वृङ् संभक्तौ' । क्रैयादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O shall I today possess your protection, mighty deities, beautiful bright in yourselves (thoughunadorned)?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do I today choose the help of you gods, who are great  
 and by nature of wondrous luster?
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -109,24 +109,24 @@ I take the initial kád in both verses as a question particle, introducing a rhe
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What favour do I claim this day of you  
      great Deities, you who are  
      Wondrously splendid in yourselves?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Gunst erbitte ich heute von den großen Göttern, und die selbst von vollkommenem Glanze sind?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie find' ich heute eure Gunst, die ihr erhabene Götter seid, Und wunderherrlich selbst erstrahlt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какую милость я выбираю себе сегодня  
 У вас, великих богов,  

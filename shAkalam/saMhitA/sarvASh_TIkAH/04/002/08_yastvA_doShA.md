@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा दोषा꣡ य꣡ उष꣡सि प्रशं꣡सात्  
 प्रियं꣡ वा त्वा कृण꣡वते हवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡म् अं꣡हसः पीपरो दाशुवां꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अश्वः॑ । न । स्वे । दमे॑ । आ । हे॒म्याऽवा॑न् । तम् । अंह॑सः । पी॒प॒रः॒ । दा॒श्वांस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 हे अग्ने **यः** पुमान् **दोषा** दोषायां रात्रौ त्वां **प्रशंसात्** संस्तुयात् । **यः** च **उषसि** प्रातःकाले त्वां प्रशंसेत् । **हविष्मान्** संभृतहविष्को यः **वा** यजमानः **त्वा** त्वां **प्रियं** हविर्भिः प्रीतं **कृणवते** कुर्यात् । **आ** अथ **दाश्वांसं** हविर्दत्तवन्तं **तं** तादृशं यजमानं **स्वे** **दमे** स्वकीये गृहे **हेम्यावान्** सुवर्णनिर्मितकक्ष्यावान् **अश्वो** **न** अश्व इव संचरंस्त्वम् **अंहसः** पापरूपाद्दारिद्र्यात् **पीपरः** पारं नय । तस्मै यजमानाय बहु धनं प्रयच्छेत्यर्थः । दोषा । सप्तम्या आकारः । प्रशंसात् ।  ‘ शंसु स्तुतौ ' । लेटि आडागमे रूपम् । कृणवते । ‘कृवि हिंसाकरणयोः' इत्यस्य लेटि ‘धिन्विकृण्व्योर च 'इत्युप्रत्ययः।‘लेटोऽडाटौ ' इत्यडागमः । यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः। हेम्यावान्। हेम अर्हति । 'छन्दसि च ' इति यः । पीपरः । पॄ पालनपूरणयोः' इत्यस्य ण्यन्तस्य लुङि चङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,39 +146,39 @@ genre M
 Aśvo na sve dame hemyāvān = suvarṇanirmita kakṣyāvān, having a girth made of gold, the epithet is applied to the horse, though separated by sve dame, in his own house
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever at evening, whoever at dawn will celebrate you, or offering an  oblation will make you a dear (friend)  
 in his own house—like a horse with much spurring you will carry that  pious man out of narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because the loc. phrase své dáma ā́“in his own house” in c does not seem to fit the equine simile there, in the published translation I took it implicitly with ab. However, cf. I.143.4 agníṃ táṃ gīrbhír hinuhi svá ā́dáme “urge Agni on with songs here in his own home,” with a form of √hi and the same loc. phrase. If the hapax hemyā́-vant- is derived from √hi (so Oldenberg, SBE and Noten, generally now accepted) and means something like ‘possessing/receiving impulsion, much impelled’, the spurring or impulsion may refer to hymns and be happening in Agni’s own home. So an alternative tr. might be “receiving the spurring (of hymns) in your own house, like a horse you will carry …” The separation of hemyā́vān from the simile áśvo ná invites but does not require reading hemyā́vān primarily with the frame, not the simile.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso sings praise to thee at eve or morning, and, with oblation, doth the thing thou lovest,-  
      In his own home, even as a goId-girt courser, rescue him from distress, the bounteous giver.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The sacrificer who praises thee in the evening and in the morning and gratifies thee; that liberal man thou shouldst bring across all distress, like a well-impelled horse 1, (dwelling) in his house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dich des Nachts, wer am Morgen lobt oder dich mit Opfergaben zum Freunde macht, dem Spender sollst du im eigenen Haus aus der Not helfen wie ein angesporntes Roß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dich besingt am Abend, wer am Morgen, wer opferreich willkommnes dir erweiset, Gleich wohlgepflegtem Ross im eignen Hause, den führ hinaus aus Drangsal, den Verehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебя ночью, кто на заре прославляет  
 Или, принося возлияние, делает тебя другом,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृता꣡नी꣡द् अस्य क꣡र्तुवा  
 चे꣡तन्ते दस्युत꣡र्हणा  
 ऋणा꣡ च धृष्णु꣡श् चयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋ॒णा । च॒ । धृ॒ष्णुः । च॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛtānīd* ← *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अस्य** यस्य एतस्य सोमस्य **दस्युतर्हणा** दस्यूनामसुराणां नाशकानि **कर्त्वा** कर्माणि सः **इत्** अस्माभिरेव सोऽयं **धृष्णुः** धृष्टः सोमो यजमानानाम् **ऋणा** **च** ऋणान्यपि **चयते** कामप्रदानेन चातयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Cetanti may also mean, 'are conscious'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His deeds done and to be done, crushing the Dasyus, are conspicuous, and the bold one exacts recompense for debts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His task is done: his crushings of the Dasyus are made manifest:  
      He sternly reckoneth their debts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Dasyuzerschmetterungen, die er getan hat und noch tun wird, sind bekannt, und mutig treibt er die Bußen ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was ihm zu thun, hat er gethan, seht, wie er die Dämonen schlug, Und Sünden straft, der kühne Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

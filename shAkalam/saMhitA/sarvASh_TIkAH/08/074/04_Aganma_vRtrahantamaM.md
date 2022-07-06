@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡गन्म वृत्रह꣡न्तमं  
 ज्य꣡यिष्ठम्+ अग्नि꣡म् आ꣡नवम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आर्क्षो꣡ अ꣡नीक ए꣡धते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । श्रु॒तर्वा॑ । बृ॒हन् । आ॒र्क्षः । अनी॑के । एध॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āganma* ← *āgam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
@@ -90,7 +90,7 @@ genre M
 **वृत्रहन्तमं** पापानामतिशयेन हन्तारं **ज्येष्ठं** प्रशस्यम् **आनवं** मनुष्यसंबन्धिनं तेषां हितकारिणम् **अग्निम्** **आगन्म** आगता वयम् । पूजार्थं बहुवचनम् । **यस्य** अग्नेः **अनीके** ज्वालासंघे **बृहन्** महान् **आर्क्षः** ऋक्षपुत्रः **श्रुतर्वा** नाम राजा **एधते** वर्धते । कर्म करोतीत्यर्थः । तमग्निमागन्मेति समन्वयः । एवं श्रुतर्वाणं भिक्षयागतो गोपवनोऽग्निं स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M
 ...who with his host of rays is kindled inŚrutarvān, the son of Ṛkṣa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have come to the best smasher of obstacles [/of Vr̥tra], preeminent  Agni [/the chief fire] belonging to the Anu,  
 before whose face lofty Śrutarvan, the son of R̥kṣa, flares up;
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 édhate is a pun. Though its general purport is ‘thrive’, it is still transparently related to √idh ‘kindle’, and the thriving is a result of flaring up, as of a flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To noblest Agni, Friend of man, best Vrtra-slayer, are we come,  
      Him in whose presence Rksa's son, mighty Srutarvan, waxes great;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind dem Erzfeindetöter genaht, dem Agni, dem obersten Anusproß, in dessen Angesicht der hohe Srutarvan, des Riksa Sohn, gedeiht;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir nahn dem feindetödtendsten, dem besten Agni, der uns hold, Vor dessen Angesicht gedeiht Çrutarvan, Rikscha's hoher Sohn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

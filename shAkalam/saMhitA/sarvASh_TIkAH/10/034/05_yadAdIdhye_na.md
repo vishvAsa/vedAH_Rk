@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् आदी꣡ध्ये न꣡ दविषाणि एभिः  
 पराय꣡द्भ्यो अ꣡व हीये स꣡खिभ्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡मी꣡द् एषां निष्कृतं꣡ जारि꣡णीव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 निऽउ॑प्ताः । च॒ । ब॒भ्रवः॑ । वाच॑म् । अक्र॑त । एमि॑ । इत् । ए॒षा॒म् । निः॒ऽकृ॒तम् । जा॒रिणी॑ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -135,14 +135,14 @@ popular
 **यत्** यदा अहम् **आदीध्ये** ध्यायामि तदानीम् **एभिः** अक्षैः **न** **दविषाणि** न दूषये न परितपामि । यद्वा । न दविषाणि न देविष्यामीत्यर्थः । **परायद्भ्यः** स्वयमेव परागच्छद्भ्यः **सखिभ्यः** सखिभूतेभ्यः कितवेभ्यः **अव** **हीये** अवहितो भवामि । नाहं प्रथममक्षान् विसृजामीति । किंच **बभ्रवः** बभ्रुवर्णा अक्षाः **न्युप्ताः** कितवैरवक्षिप्ताः सन्तः **वाचमक्रत** शब्दं कुर्वन्ति । तदा संकल्पं परित्यज्य अक्षव्यसनेनाभिभूयमानोऽहम् **एषाम्** अक्षाणां **निष्कृतं** स्थानं **जारिणीव** यथा कामव्यसनेनाभिभूयमाना स्वैरिणी संकेतस्थानं याति तद्वत् **एमीत्** गच्छाम्येव ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When I relect, (then I say), "I will plural y no more with them". I pay attention to my friends who desert(me); and the tawny dice rattle as they are thrown; I hasten to their accusative tomed plural ce as a harlot (to anassignation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When I resolve, “I will not play with them,” I am bereft of my  
 comrades, who go off (without me).  
@@ -150,28 +150,28 @@ And as soon as, scattered down, the brown (dice) have raised their
 voice, I just go to their appointed place, like a girl with a lover.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I resolve "I will not play with them, I will remain behind when my friends [= fellow-gamblers] depart [to play]",  
      and the brown dice, thrown on the board, have rattled, like a fond girl I seek the place of meeting.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When to myself I think, "I'll not go with them, I'll stay behind my friends that go to gamble," And those brown nuts, thrown down, have raised their voices, I go, like wench, straight to the place of meeting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich mir vornehme: ich will nicht mehr mit ihnen spielen, ich bleibe hinter den fortgehenden Kameraden zurück - und wenn die geworfenen Braunen ihre Stimme erheben, so eile ich doch zu ihrem Stelldichein wie eine Buhlin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wenn ich denk': nicht will ich ferner spielen, so weichen von mir alle meine Freunde; Und hör ich dann die braunen Würfel fallen, so eil' ich wie zum Stelldichein die Buhle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда я решаю: Я не буду играть с ними,  
 Отстану от уходящих товарищей, –  

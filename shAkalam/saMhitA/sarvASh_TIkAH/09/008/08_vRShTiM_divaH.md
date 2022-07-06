@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृष्टिं꣡ दिवः꣡ प꣡रि स्रव  
 द्युम्न꣡म् पृथिविया꣡ अ꣡धि  
 स꣡हो नः सोम पृत्सु꣡ धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सहः॑ । नः॒ । सो॒म॒ । पृ॒त्ऽसु । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** त्वं **दिवः** द्युलोकात् **वृष्टिं** वर्षं **परि** **स्रव** वर्ष । **पृथिव्या** **अधि** पृथिव्याम् । अधिः सप्तम्यर्थानुवादः । **द्युम्नम्** अन्नं चोत्पादयेति शेषः । **नः** अस्माकं **सहः** बलं च **पृत्सु** संग्रामेषु **धाः** धेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour down rain from heaven, and abundance upon the earth; uphold our strength, **Soma**, in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stream rain from heaven and heavenly brilliance from the earth.  
 Confer strength in battles on us, Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 वृ॒ष्टिं दि॒वः परि॑ स्रव द्यु॒म्नं पृ॑थि॒व्या अधि॑ ।  
 सहो॑ नः सोम पृ॒त्सु धाः॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ströme Regen vom Himmel, Herrlichkeit von der Erde her! Gib uns, Soma, die Übermacht in den Kämpfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel ströme Regen her und Reichthum von der Erde Grund, In Schlachten, Soma, gib uns Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Излей кругом дождь с неба,  
 Блеск с земли!  

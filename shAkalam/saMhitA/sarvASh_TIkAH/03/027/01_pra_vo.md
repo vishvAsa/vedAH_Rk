@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो वा꣡जा अभि꣡द्यवो  
 हवि꣡ष्मन्तो घृता꣡चिया  
 देवा꣡ञ् जिगाति सुम्नयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 दे॒वान् । जि॒गा॒ति॒ । सु॒म्न॒युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -75,7 +75,7 @@ genre M
 हे ऋतवः **वाजाः** । वजन्ति गच्छन्तीति वाजा मासाः । **अभिद्यवः** । अभितो द्यवो दिवसा येष्वित्यभिद्यवोऽर्धमासाश्च । **हविष्मन्तः** हविर्भाजो देवाः। **घृताच्या** । घृतमञ्चतीति घृताची गौः । तथा च तैत्तिरीयकं-- देवा हविष्मन्तो गौर्घृताची' (तै. सं.२.५.७.४) इति । यद्वा हविष्मन्तो हविषः क्षीरादेः प्रदातारः पशवो घृताच्या । घृतमञ्चति प्राप्नोतीति घृताची स्रुक् । तथा च वाजसनेयकं--- ‘ पशवो हविष्मन्तः स्रुग्घृताची' इति । तया घृताच्या सहिता हविष्मन्तो देवाः पशवश्च मासाश्चार्धमासाश्चेति सर्वे **वः** युष्माकं यजनार्थं प्रभवन्ति । तेषु वाजादिषु प्रभवत्सु सत्सु **सुम्नयुः** सुखमात्मन इच्छन् यजमानः **देवाञ्जिगाति** यज्ञद्वारा देवान् प्राप्नोति । उक्तार्थे तैत्तिरीय ब्राह्मणं- प्र वो वाजा इत्यन्वाह मासा वै वाजा अर्धमासा अभिद्यवो देवा हविष्मन्तो गौर्घृताची यज्ञो देवाञ्जिगाति यजमानः सुम्नयुः ' ( तै. सं. २, ५, ७. ४) इति ॥ अभिद्यवः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । घृताच्या । ‘ घृ क्षरणदीप्त्योः '। अस्मात् । अञ्जिघृषिभ्यः क्तः' (उ. सू. ३. ३६९) इति कर्मणि क्तः । घृतमाज्यमञ्चतीति ' ऋत्विग्दधृक्' इत्यादिना क्विन् । **अनिदिताम्'** इत्युपधालोपः। 'अञ्चतेश्चोपसंख्यानम् ' इति ङीप् ।' चौ ' इति पूर्वपदान्तोदात्तत्वम् । जिगाति । गातिः गत्यर्थः । छान्दसो जुहोत्यादिः । निघातः । सुम्नयुः । सुम्नं सुखमात्मन इच्छन्निति" ‘सुप आत्मनः क्यच्' । 'क्याच्छन्दसि ' इत्युः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,34 +92,34 @@ Abhīdyavaḥ = arddha māsāḥ, half months;
 **Ghṛtāci** = gau; another meaning is, **sruk**, a ladle; pra implies prabhavanti, all these preside over your sacrificing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth to you (go) the heaven-bound prizes, bearing offerings, by the  ghee-filled (ladle).  
 He [=Agni?] goes to the gods, seeking their favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IN ladle dropping oil your food goes in oblation up to heaven,  
      Goes to the Gods in search of bliss.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Forward (goes) your 1 strength tending heavenward, rich in offerings, with the (ladle) full of ghee. To the gods goes (the worshipper) desirous of their favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure für die Himmelswelt bestimmten Ehrengaben, in Opferspenden bestehend, sollen mit dem Schmalzlöffel zum Vorschein kommen. Zu den Göttern geht er, ihre Gunst suchend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern eilt der gütige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть (двинутся) вперед ваши награды, предназначенные для неба.  
 Обильные жертвенным возлиянием, вместе с полной жира (ложкой)!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपा꣡यातं दाशु꣡षे म꣡र्तियाय  
 र꣡थेन वाम꣡म् अश्विना व꣡हन्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दि꣡वा न꣡क्तम् माधुवी त्रा꣡सीथां नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यु॒यु॒तम् । अ॒स्मत् । अनि॑राम् । अमी॑वाम् । दिवा॑ । नक्त॑म् । मा॒ध्वी॒ इति॑ । त्रासी॑थाम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upāyātaṃ* ← *upāyātam* ← *upāyā* ← *√yā*
 - \[verb\], dual, Present imperative
@@ -105,36 +105,36 @@ genre M
 हे अश्विनौ युवाम् **उपायातम्** उपागच्छतमस्मदाह्वानं प्रति । किमर्थम् । **दाशुषे** हविषां दात्रे यजमानाय तदर्थं **रथेन** **वामं** वननीयं धनं **वहन्ता** वहन्तौ । **अस्मत्** अस्मत्तः **युयुतं** पृथकुरुतम् । किम् । **अनिराम्** । इरान्नम् । तदभावं दारिद्र्यमित्यर्थः । **अमीवां** रोगं च । हे **माध्वी** मधुमन्तौ युवां **नः** अस्मान् **दिवा** **नक्तं** सर्वदा **त्रासीथां** रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to the mortal, the donor (of oblations) bringing desired wealth in your chariot; keep afar from usfamine and sickness; day and night, **Mādhvis**, protect us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey to the pious mortal, conveying what is desirable by your chariot,  Aśvins.  
 By day and during the night keep thirst and affliction from us, o you rich  in honey. You two should deliver us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing rich treasure in your car, O Asvins, come to the mortal who presents oblation.  
      Keep at a distance penury and sickness; Lovers of Sweetness, day and night preserve us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her zum opfernden Sterblichen und bringet auf dem Wagen Gutes mit, Asvin! Haltet von uns Verdorrung und Krankheit Tag und Nacht, ihr Süßesliebende, ab und schirmet uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt herbei zum sterblichen Verehrer, im Wagen fahrend schönes Gut, o Ritter, Wehrt ab von uns die Mattigkeit und Krankheit, seid Retter uns bei Tag und Nacht, o holde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к почитающему (вас) смертному,  
 Везя на колеснице, о Ашвины, ценное добро!  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो भद्रे꣡ण श꣡र्मणा  
 युष्मा꣡कं नावा꣡ वसवः  
 अ꣡ति वि꣡श्वानि दुरिता꣡ पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अति॑ । विश्वा॑नि । दुः॒ऽइ॒ता । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -87,36 +87,36 @@ genre M
 हे ”वसवः वासयितारः आदित्याः **ते** पूर्वोक्तगुणा यूयं **भद्रेण** शोभनेन **शर्मणा** सुखेन **युष्माकं** **नावा** **नः** अस्मान् **विश्वानि** सर्वाणि **दुरिता** दुर्गमनानि **अति** **पिपर्तन** पिपृत अतिपारयत ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Convey us, **Vasus**, in your vessel, with auspicious felicity, beyond all calamities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o good ones—with your beneficial shelter as a boat  
 carry us to the far shore, beyond all difficulties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with auspicious sheltering aid do ye, O Vasus, carry us  
      Beyond all trouble and distress, borne in your ship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Guten, helfet uns mit eurem segensreichen Schutze als Schiff über alle Klippen hinweg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fahret ihr, o gute, uns hinüber über alle Noth, Durch euren segensreichen Schutz auf eurem Schiff.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью вашей благородной защиты  
 Переправьте нас (как) на ладье  

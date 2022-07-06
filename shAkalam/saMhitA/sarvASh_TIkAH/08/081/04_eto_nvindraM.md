@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡तो नु इ꣡न्द्रं स्त꣡वाम  
 इ꣡शानं व꣡स्वः स्वरा꣡जम्  
 न꣡ रा꣡धसा मर्धिषन् नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 न । राध॑सा । म॒र्धि॒ष॒त् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eto* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
@@ -93,41 +93,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अस्मदीया जनाः **एतो** आगच्छतैव **नु** क्षिप्रम्। किं कर्तुम् । **स्तवाम** **इन्द्रम्** । कीदृशं तम् । **वस्वः** वसुनः धनस्य **ईशानं** स्वामिनं **स्वराजं** स्वयमेव राजमानं स्वर्गे राजमानं वा । **नः** अस्मान् इन्द्रेणानुगृहीतान् **राधसा** धनेनान्यो धनी **न** **मर्धिषत्** न बाधताम् । आढ्यानामस्मत्समानानामप्याढ्यत्वाय स्तवामेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten here, let us glorify **Indra** the lord of wealth, the self- resplendent, let none vex, us by his wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come now! Let us praise Indra, the sovereign king who holds sway  over goods.  
 He will not neglect us with his generosity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the accent on stávāma see disc. ad VIII.29.14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, let us glorify Indra, Lord supreme of wealth, Self-ruling King:  
      In bounty may he harm us not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlan, jetzt wollen wir Indra preisen, den Selbstherrscher, der über das Gut schaltet. Er möge uns mit seiner Gabe nicht zurücksetzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt nun, lasst uns Indra preisen, der selbstherrschend Gut besitzet; Nicht versäum' er uns mit Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

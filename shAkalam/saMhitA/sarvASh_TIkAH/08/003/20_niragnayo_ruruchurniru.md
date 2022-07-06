@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡र् अग्न꣡यो रुरुचुर् नि꣡र् उ सू꣡रियो  
 निः꣡ सो꣡म इन्द्रियो꣡ र꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 कृषे꣡ त꣡द् इन्द्र पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 निः । अ॒न्तरि॑क्षात् । अ॒ध॒मः॒ । म॒हाम् । अहि॑म् । कृ॒षे । तत् । इ॒न्द्र॒ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nir* ← *niḥ*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 हे **इन्द्र** **महां** महान्तं कृत्स्नस्य जगतो व्यापकम् **अहिम्** आहननशीलं वृत्रं यदा त्वम् **अन्तरिक्षात्** आकाशात् **निः** **अधमः** निरगमयः । धमतिर्गतिकर्मा । **तत्** तदानीं **पौंस्यं** वृत्रहननहेतुभूतं बलं **कृषे** कुरुषे पुरस्कुरुषे । करोतेश्छान्दसो विकरणस्य लुक् । **अग्नयः** च त्रिस्थानगताः **निः** **रुरुचुः** निःशेषेण दिदीपिरे । **सूर्यः** प्रेरक आदित्योऽपि निःशेषेण दिदीपे । **इन्द्रियः** इन्द्रेण सेव्यः **रसः** रसात्मकोऽमृतमयः **सोमः** च निःशेषेण दिदीपे। अग्न्यादयः सर्वे पूर्वं वृत्रेणावृतत्वान्निष्प्रभाः सन्त इदानीं तस्मिन्नावरके हते सम्यक् प्राकाशिषतेत्यर्थः ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you had expelled the mighty Ahi from the firmament, then the fires blazed out, the sun shoneforth, the ambrosial **Soma** destined for **Indra** flowed out, and you, Indra, did manifest your manhood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fires shone out, out the sun, out the soma, the Indrian sap.  
 You blew the great serpent out from the midspace: that manly act did  you perform, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -159,23 +159,23 @@ The preverb níḥ is the theme of this pragātha, with seven occurrences, six p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright were the flaming fires, the Sun gave forth his shine, and Soma, Indra's juice, shone clear.  
      Indra, thou blewest the great Dragon from the air -. men must regard that valorous deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Feuer kamen glänzend zum Vorschein, und die Sonne, und Soma, der indrische Saft kam zum Vorschein. Aus dem Luftraum bliesest du hinweg den großen Drachen: Diese Mannestat hast du vollbracht, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es leuchteten die Feuer auf, der Sonne Glanz, der Somasaft, des Indra Trank; Du bliesest weg die grosse Schlange aus der Luft, dies Manneswerk hast du vollbracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвенные костры прогнали (своим) светом, Сурья про(гнал),  
 Про(гнал) сома – сок, свойственный Индре.  

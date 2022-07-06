@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ बभ्रो वृषभ चेकितान  
 य꣡था देव न꣡ हृणीषे꣡ न꣡ हं꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वदेम विद꣡थे सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 ह॒व॒न॒ऽश्रुत् । नः॒ । रु॒द्र॒ । इ॒ह । बो॒धि॒ । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -134,48 +134,48 @@ genre M;; repeated line
 हेबभ्रो जगतोभर्तः बभ्रुवर्णवा वृषभ कामानांवर्षितः चेकितान सर्वञ्जानन् हेदेवद्योतमान रुद्र यथायेनप्रकारेणनहृणीषेनक्रुध्यसि नचहंसि हृणीङ्लज्जायां अयङ्क्रुध्यतिकर्माच एव एवंहवनश्रुत् अस्मदीयमाह्वानंश्रृण्वन् नोस्मान् हेरुद्र इहास्मिन्देशे बोधिबुद्भ्यस्व विदथेयज्ञे गृहेवासुवीराः शोभ- नपुत्राः सन्तः ब्रुहत्प्रौढं त्वदीयंस्तोत्रंवदेमोच्चारयाम ॥ १५ ॥धारावराइतिपञ्चदशर्चन्द्वितीयंसूक्तं गार्त्समदम्मारुतं अन्त्यात्रिष्टुप् शिष्टाजगत्यः तथाचानुक्रान्त- म्—धारावरामारुतन्त्रिष्टुबन्तमिति पृष्ठ्याभिप्लवषडहयोस्तृतीयेहन्याग्निमारुतशस्रस्यइदम्मारुतनि- विद्धानं सूत्रितञ्च—वैश्वानरायधिषणान्धारावरामरुतस्त्वमग्नेप्रथमोअङ्गिराइत्याग्निमारुतमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cherisher of the world, showerer (of benefits), omniscient and divine (**Rudra**), hearer of our invocation, so consider us on this occasion, that you may not be irate, nor slay us; but that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You red-brown bull, constantly visible—(let it be) so, that you do not  become angry, o god, and you do not smite.  
 Hearing our calls, be aware of us here, Rudra. – May we speak loftily at  the ritual distribution, in possession of good heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation, the yáthā cl. is rendered as a purpose cl. (“… that you do not become angry …”), but yáthā purpose cls. always take the subjunctive, as Macdonell
 
 already pointed out. It should rather be construed with the vs.-initial evā́, in the usual “just as …, so …” relationship, though with the usual order reversed. Macdonell also recognized this, but suggested that evā́is “to be taken with c, since in the normal syntactical order if should follow yáthā in the sense which it has here.” This is a trickier piece of syntax than I think can be justified — hopscotching the evā́over the whole yáthā clause — and the contents of c do not conform to the standard usage of summary evā́. Instead I think evā́sums up the successful achievement of the wishes expressed in the preceding vs. (and perhaps in the whole preceding hymn): “even as you are not angry and do not smite, so (it is): the missile has avoided us, the bows are unstrung, etc.” This is somewhat hard to render in Engl., but I would change the published translation to “Just as you are not angry and do not smite, so (it has come to pass).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O tawny Bull, thus showing forth thy nature, as neither to be wroth, O God, nor slay us.  
      Here, Rudra, listen to our invocation. Loud may we speak, with heroes, in assembly.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 So brown-hued, mighty Rudra, widely famous, Here to our invocations be attentive, As not, O god, to rise in wrath and slay us. May we speak loud with heroes in the synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So sei es, du rotbrauner, staunenerregender Bulle, daß du weder zürnest noch tötest, o Gott. Sei hier, o Rudra, ein Ruferhörer ! Wir möchten das große Wort führen als die Meister in der weisen Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als solcher dich, o brauner Stier, erweisend, der nicht, o Gott, du zürnest, noch vertilgest, Sei unsres Rufs Erhörer hier, o Rudra; lasst laut im Chore bei dem Fest uns singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Да будет) так, о бурый, поражающий (воображение) бык,  
 Что ты, о бог, не разгневаешься (и) не убьешь!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध क्र꣡त्वा मघवन् तु꣡भ्य° देवा꣡  
 अ꣡नु वि꣡श्वे अददुः सोमपे꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरः꣡ सती꣡र् उ꣡परा ए꣡तशे कः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । सूर्य॑स्य । ह॒रितः॑ । पत॑न्तीः । पु॒रः । स॒तीः । उप॑राः । एत॑शे । करिति॒ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -133,36 +133,36 @@ genre M
 अधापिच हेमघवन् धनवन्निन्द्र क्रत्वा क्रतुना त्वदीयेनकर्मणा विश्वे सर्वे देवाः द्योतमानावह्न्यादयः तुभ्यं त्वदर्थं सोमपेयं सोमपानं अन्वददुः आनुपूर्व्येणदत्तवन्तः ततःप्रभृतीन्द्रोदेवेभ्यः सर्वेभ्योधिकोभवदित्यर्थः तथाचश्रूयते-समहान्भूत्वादेवता अब्रवीदुद्धारम्म -उद्धरतेत्यादि । हेइन्द्र यत् यस्त्वं पतन्तीरागच्छन्तीःपुरःसतीःपुरस्ताद्भवतीः सूर्यस्यसम्बन्धिनीः हरितोवडवाः उपराउपरतीः मन्दगतीःएतशे एतशाख्यायऋषये अकःअकार्षीत् एतशोहि स्वभावेनसूर्येणसहस्पर्धामकरोदितियावत् तथाचनिगमान्तरे-प्रैतशंसूर्येपस्पृधानंसौवश्व्येसुष्विमावदिन्द्रइति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Then, for this exploit, all the gods gave you **Maghavan**, in succession, the **Soma** beverage; whence you have retarded, for the sake of **Etaśa**, the advancing horses of the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then according to your will, o bounteous one, all the gods conceded the  soma-drinking to you,  
 when you put the flying golden mares of the Sun behind, though they  were in front, in (the presence of) Etaśa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus all the Gods, O Maghavan, delivered to thee of their free will the draught of Soma;  
      When thou for Etasa didst cause to tarry the flying mares of Surya racing forward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da gestanden dir alle Götter nach Wunsch den Somatrunk zu, du Gabenreicher, als du des Surya fliegende Falbinnen, die voraus waren, unter Etasa ins Hintertreffen brachtest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da räumten willig dir die Götter alle, o allgewalt'ger, ein den Trunk des Soma, Als du der Sonne schnelle, lichte Stuten, die vorderen dem Lenkross folgen liessest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут с готовностью, о щедрый, все боги  
 Передали тебе напиток сомы,  

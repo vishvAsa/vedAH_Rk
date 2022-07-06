@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हि꣡ श्र꣡यिष्ठवर्चसा+  
 रा꣡जाना दीर्घश्रु꣡त्तमा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऋता꣡वाना ज꣡ने-जने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । सत्प॑ती॒ इति॒ सत्ऽप॑ती । ऋ॒त॒ऽवृधा॑ । ऋ॒तऽवा॑ना । जने॑ऽजने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -101,35 +101,35 @@ genre M
 **ता** **हि** तौ खलु मित्रावरुणौ **श्रेष्ठवर्चसा** प्रशस्ततेजस्कौ **राजाना** ईश्वरौ **दीर्घश्रुत्तमा** दूरदेशादाह्वानश्रोतृतमौ । **ता** तौ **सत्पती** सतां यजमानानां स्वामिनौ **ऋतावृधा** यज्ञस्योदकस्य वा वर्धयितारौ **जनेजने** सर्वेषु स्तोतृषु निमित्तेषु **ऋतावाना** गमनवन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They two, verily excelling in radiance, royal (deities), who hear (invocations) from the greatest distance; lords of the virtuous, favourers of the sacrifice, are in movement (for the good of) each individual man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since these two are kings of most glorious luster and farthest fame, they are lords of the settlement, who grow through the truth and possess  the truth, among every people.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For they are Kings of noblest might, of glorious fame most widely spread;  
 Lords of the brave, who strengthen Law, the Holy Ones with every race.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sie sind die Könige von höchstem Ansehen, die weithin bekanntesten. Sie sind die rechtmäßigen Herren, die Mehrer des rechten, rechthandelnd gegen jedermann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn beide sind von hellstem Glanz und weitberühmte Könige, Gebieter, die des Rechts sich freun, die heiligen, in jedem Volk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь они два царя  
 С ярчайшим блеском, о которых слышно дальше всех.  

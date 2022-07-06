@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡म् अग्ने अस्मे꣡ इ꣡षम् ए꣡रयस्व  
 वइ꣡श्वानर द्युम꣡तीं जातवेदः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृथु꣡ श्र꣡वो दाशु꣡षे म꣡र्तियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यया॑ । राधः॑ । पिन्व॑सि । वि॒श्व॒ऽवा॒र॒ । पृ॒थु । श्रवः॑ । दा॒शुषे॑ । मर्त्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
@@ -113,36 +113,36 @@ genre M
 हे **जातवेदः** जातप्रज्ञ **वैश्वानर** विश्वनरहित **अग्ने** **ताम्** **इषम्** एषणीयां वृष्टिं **द्युमतीं** दीप्तिमतीम् **अस्मे** अस्मभ्यम् **एरयस्व** प्रेरयस्व । वृष्ट्या त्रैलोक्यं द्योतते हि । यद्वा । द्युमतीं तामिषमन्नमेरयस्व । तथा च श्रूयते---तस्माद्यस्यैवेह भूयिष्ठमन्नं भवति स एव भूयिष्ठं लोके विराजति' (ऐ. ब्रा. १.५) इति । अथवा इषमेषणीयां तां द्युमतीं भास्वतीं दीप्तिमेरयस्व । **यया** इषा **राधः** धनं **पिन्वसि** पालयसि । अपि च हे **विश्ववार** विश्वैर्वरणीयाग्ने **पृथु** विस्तीर्णं **श्रवः** यशः **दाशुषे** मर्त्याय यजमानाय पिन्वसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Send to us, **Agni**, (who are) **Vaiśvānara** **Jātavedas**, that brilliant sustenance whereby you conferwealth, and (grant), all-desired Agni, abundant food to the mortal, the donor (of the oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Send the heaven-bright refreshing drink for us, o Agni Vaiśvānara, o  Jātavedas,  
 by which you swell your bounty and broad fame for the pious mortal, o  you who grant all wishes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send us that strength, Vaisvanara, send it, Agni, that strength, O Jatavedas, full of splendour,  
      Wherewith, all-bounteous God, thou pourest riches, as fame wide-spreading, on the man who offers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses herrliche Labsal verschaff uns, Agni Vaisvanara, Jatavedas, mit dem du deine Freigebigkeit überfließen lässest, Allbegehrter, den weiten Ruhm für den opfernden Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Güterfülle sende uns, o Agni, o Männerhort, die schöne, Wesenkenner, Durch die, allreicher, du vermehrst die Habe, den grossen Schatz dem sterblichen Verehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создай нам, о Агни, эту жертвенную усладу,  
 О Вайшванара, сверкающую, о Джатаведас,  

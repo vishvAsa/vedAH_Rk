@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य वि꣡श्वानि ह꣡स्तयोर्  
 ऊचु꣡र् व꣡सूनि नि꣡ द्विता꣡  
 वीर꣡स्य पृतनाष꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वी॒रस्य॑ । पृ॒त॒ना॒ऽसहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -79,40 +79,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वीरस्य** वीर्यवतः **पृतनासहः** । पृतनाः शत्रुसेनाः । तासामभिभवितुः **यस्य** इन्द्रस्य **हस्तयोः** बाह्रोः **विश्वानि** सर्वाणि **द्विता** दिव्यपार्थिवरूपेण द्वैधं वर्तमानानि **वसूनि** विद्यन्ते इति **नि** **ऊचुः** ऋषयो नितरां वदन्ति तमिन्द्रं हुव इति पूर्वत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the **hands** of whom, the eroic subduer of hostile armies, (the sages) have declared, are all the treasures in both (heaven and earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose two hands all good things are at home, now as before— (in the hands) of the hero, victorious in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ūcuḥ to √vac and supplies hitāni with ní: “In dessen Händen … alle Güter, wie man sagt, nieder(gelegt sind),” but Oldenberg’s view, that ūcuḥ belongs to √uc, which regularly takes the preverb ní in the meaning ‘be accustomed to, be at home in’, is preferable. (And in fact Geldner admits as much in n. 8a.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him in whose hands they say are stored all treasures from the days of old,  
      The Hero, conquering in the fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dessen Händen aber und aber alle Güter, wie man sagt, niedergelegt sind, in des Helden und Schlachtensiegers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen beiden Händen ja fürwahr die Güter alle ruhn, Des Helden der die Feinde schlägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Того,) в чьи руки, говорят,  
 (Были) в(ложены) искони все блага,  

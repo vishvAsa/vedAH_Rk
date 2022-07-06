@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम नृमा꣡दनः  
 प꣡वस्व चर्षणीस꣡हे  
 स꣡स्निर् यो꣡ अनुमा꣡दियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सस्निः॑ । यः । अ॒नु॒ऽमाद्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **त्वं** नृमादनः नृणां मादयिता त्वं **चर्षणीसहे** । चर्षणयो मनुष्या द्वेष्टारः । तेषां समभिभवित्र इन्द्राय **पवस्व** क्षर **यः** त्वं **सस्निः** शुद्धः **अनुमाद्यः** स्तुत्यः स पवस्वेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,37 +88,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The conqueror of enemies: **Sāmaveda** replaces carṣaṇīdhṛtiḥ for carṣaṇīsahe, i.e. an epithet of Soma, 'laid hold of by men', or 'the protection of men'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bringing exhilaration to superior men, o Soma, purify yourself for the  one who conquers the territories,  
 you who are the winner to be celebrated.  
 1258 IX.25–26
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although in the published translation pāda c is unequivocally applied to Soma (“you who are …”), the text is ambiguous: the rel. cl. of pāda c, sásnir yó anumā́dyaḥ, could have either Soma or Indra (under the epithet carṣaṇīsáh-, which ends the preceding pāda) as antecedent.
 
 In IX anumā́dya- is otherwise used of Soma, including two vss. later (24.6) as well as 76.1, 107.11, but it applies to Indra in VI.34.2. Since Indra was just called “conquerer of territories,” the use of sásni- ‘winner’ for the subj. of anumā́dya- makes Indra a distinct possibility. I think the ambiguity is meant; this is another ex. of the trade-off of identities discussed ad vs. 2. See further below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious, to be hailed with joy, O Soma, flow, delighting men,  
      To him who ruleth o'er mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich, Männer berauschend, o Soma, für den Völkerbezwinger, der als der Gewinner zu bejubeln ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Weltbezwinger riesle hin o Soma, heldberauschender, Ein rühmenswerther Spender du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о сома, опьяняющий мужей,  
 Очищайся для завоевателя народов,  

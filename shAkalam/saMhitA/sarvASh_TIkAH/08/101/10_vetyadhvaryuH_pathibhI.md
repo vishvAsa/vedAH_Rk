@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वे꣡ति अध्वर्युः꣡ पथि꣡भी र꣡जिष्ठैः  
 प्र꣡ति हव्या꣡नि वीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शु꣡चिं सो꣡मं ग꣡वाशिरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । नि॒यु॒त्वः॒ । उ॒भय॑स्य । नः॒ । पि॒ब॒ । शुचि॑म् । सोम॑म् । गोऽआ॑शिरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vety* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
@@ -99,7 +99,7 @@ genre M
 हे **नियुत्वः** नियुत्संज्ञकाश्ववन् वायो **अध्वर्युः** हविर्धानात् **रजिष्ठैः** ऋजुतमैः **पथिभिः** मार्गैः **वेति** गच्छति । **वीतये** भक्षणाय तव भक्षणानि **हव्यानि** हवींषि च **प्रति** नयतीति शेषः । **अध** अथ **नः** अस्माकं संबन्धिनम् **उभयस्य** उभयविधं सोमम् । कर्मणि षष्ठी। **पिब** । उभयविधत्वं दर्शयति । **शुचिं** शुद्धं **सोमं** **गवाशिरं** गव्येन पयसा मिश्रितं चेति ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ genre M
 Priest comes: i.e., from thehavirdhāna, a cart for the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Adhvaryu pursues (you) along the straightest paths, (for you) to  receive the oblations.  
 Then, teamster, drink of both of ours—the pure soma and the one  mixed with milk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He comes by straightest paths, as ministering Priest, to taste the sacrificial gifts.  
      Then, Lord of harnessed teams I drink of the twofold draught, bright Soma mingled with the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Adhvaryu begehrt auf den richtigsten Wegen die Opfergaben darzubringen. Nun trink, du Niyutfahrer, von beidem bei uns, den reinen und den milchgemischten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf gradsten Wegen führt der Opferpriester hin die Tränke zu dem Opfermahl, So trink, bespannter, unsern beiderseit'gen Trank, den reinen, milchgemischten Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью направляется самыми прямыми путями,  
 Чтобы принести жертвы.  

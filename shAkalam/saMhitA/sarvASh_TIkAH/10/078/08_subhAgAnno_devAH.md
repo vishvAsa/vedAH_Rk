@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुभागा꣡न् नो देवाः कृणुता सुर꣡त्नान्  
 अस्मा꣡न् स्तोतॄ꣡न् मरुतो वावृधानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सना꣡द् धि꣡ वो रत्नधे꣡यानि स꣡न्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अधि॑ । स्तो॒त्रस्य॑ । स॒ख्यस्य॑ । गा॒त॒ । स॒नात् । हि । वः॒ । र॒त्न॒ऽधेया॑नि । सन्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *subhāgān* ← *subhāga*
 - \[noun\], accusative, plural, masculine
@@ -131,14 +131,14 @@ genre M
 अनया स्तुतिमुपसंहरति । हे **मरुतः** **देवाः** **ववृधानाः** स्तुत्या वर्धमाना यूयं **स्तोतॄन्** **नः** अस्मान् **सुभागान्** सुधनान् **कृणुत** कुरुत । तथा **सुरत्नान्** शोभनरत्नान् कृणुत । यद्वा । सुरत्नान् शोभनरमणीयस्तोत्रानस्मानिति संबन्धनीयम् । किंच यूयं **सख्यस्य** **स्तोत्रस्य** सखिभूतं स्तोत्रम् **अधि** **गात** अधिगच्छत । **वः** युष्माकं **रत्नधेयानि** रत्नदानानि अस्मद्विषयाणि **सनाद्धि** चिरकालादारभ्य खलु **सन्ति** ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Maruts**, magnified (by our praise), render us, your praisers, prosperous and opulent; come tothis friendly laudation, for your precious bounties have been long (bestowed upon us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, make us possessed of good portions, good treasures,  
 strengthening us as your praisers, o Maruts, when you have been  
@@ -148,23 +148,23 @@ occasions for the conferring of treasures have been yours.
 The next two Agni hymns (79–80) belong together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, send us happiness and make us wealthy, letting us singers prosper, O ye Maruts.  
      Bethink you of our praise and of our friendship: ye from of old have riches to vouchsafe us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Macht uns, ihr Götter, glücklich, belohnt, uns Lobsänger, o Marut, euch erbauend! Gedenket des Lobliedes und der Freundschaft, denn schon seit langer Zeit teilet ihr Belohnungen aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Macht uns glücklich, o ihr Götter, und schatzreich, o Maruts, uns Sänger erlabend; gedenkt unseres Lobgesanges und unserer Freundschaft; denn von Alters her sind bei euch Güterspenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даруйте нам, о боги, счастливую долю, прекрасные сокровища,  
 Нам, восхвалителям, о Маруты, (благодаря которым) вы усилились!  

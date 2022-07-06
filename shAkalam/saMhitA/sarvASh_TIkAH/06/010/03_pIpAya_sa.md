@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पीपा꣡य स꣡ श्र꣡वसा म꣡र्तियेषु  
 यो꣡ अग्न꣡ये ददा꣡श वि꣡प्र उक्थइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्रज꣡स्य साता꣡ गो꣡मतो दधाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 चि॒त्राभिः॑ । तम् । ऊ॒तिऽभिः॑ । चि॒त्रऽशो॑चिः । व्र॒जस्य॑ । सा॒ता । गोऽम॑तः । द॒धा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīpāya* ← *pyā*
 - \[verb\], singular, Perfect indicative
@@ -125,20 +125,20 @@ genre M
 **सः** यजमानः **मर्त्येषु** मनुष्येषु मध्ये **श्रवसा** अन्नेन **पीपाय** वर्धते **विप्रः** मेधावी **यः** यजमानः **उक्थैः** स्तुतिभि: सार्धं हवींषि **ददाश** प्रयच्छति । **तं** यजमानं **चित्रशोचिः** विचित्रदीप्तिरग्निः **चित्राभिः** आश्चर्यभूताभिः **ऊतिभिः** रक्षाभिः **गोमतः** गोभिर्युक्तस्य **व्रजस्य** गोष्ठस्य **साता** सातौ संभजने **दधाति** धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He thrives in abundance among men, who, pious, presents to **Agni** (oblations) with prayers; the wonderfully radian Agni plural ces him with marvellous protection in the enjoyment of pasturage full of herds of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That one is swollen with praise among mortals who as inspired poet  performs ritual service for Agni with solemn words.  
 With brilliant help the one of brilliant flame sets him [=the poet] to the  winning of a stable full of cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. also appears to be deliberately misleading, though less so than vs. 2.
 
@@ -147,23 +147,23 @@ It begins pīpā́ya sá “he becomes swollen.” Although √pī ‘swell’ i
 I would emend the tr. of pāda a: śrávasā should be rendered ‘with fame’, not ‘with praise’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mid mortal men that singer thrives in glory who offers gifts with hymns of praise to Agni,  
      And the God, wondrous bright, with wondrous succours helps him to win a stable filled with cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Redekundige schwillt an Ruhm unter den Sterblichen an, der gegen Agni mit Lobliedern freizügig war. Ihm verhilft der wunderbar Glühende durch seine wunderbaren Hilfen zum Gewinn der rinderreichen Hürde;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Sterblichen ist reich an Ruhm der Sänger, der stets dem Agni huldiget mit Sprüchen; Dem schaffet er, der hell erstrahlt, Erlangung des kuhgefüllten Stalls durch schöne Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот среди смертных стал набухшим от славы,  
 Кто, вдохновенный, почтил Агни гимнами.  

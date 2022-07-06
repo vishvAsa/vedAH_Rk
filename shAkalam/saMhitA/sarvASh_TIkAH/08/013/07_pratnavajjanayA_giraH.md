@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्नव꣡ज् जनया गि꣡रः  
 शृणुधी꣡ जरितु꣡र् ह꣡वम्  
 म꣡दे-मदे ववक्षिथा सुकृ꣡त्वने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 मदे॑ऽमदे । व॒व॒क्षि॒थ॒ । सु॒ऽकृत्व॑ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratnavaj* ← *pratna*
 - \[noun\]
@@ -94,7 +94,7 @@ genre M;; line affected by realignment
 हे इन्द्र **प्रत्नवत्** पुरा यथा स्तोतृभ्योऽपेक्षितफलप्रदानेन स्तुतीर्जनयसि एवमिदानीमपि **गिरः** स्तुतीः **जनय** उत्पादय । **जरितुः** स्तोतुः **हवम्** आह्वानं च **शृणुधि** शृणु। जानीहि। तादृशस्त्वं **मदेमदे** सोमेन तर्पणे तर्पणे सति **सुकृत्वने** शोभनकर्त्रे यजमानाय **ववक्षिथ** अपेक्षितं फलं वहसि ददासीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,24 +105,24 @@ genre M;; line affected by realignment
 Genitive rate your eulogies: i.e.,by granting the expectedfruits
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As of old, I will give birth to the songs: hear the call of the singer. At every revel you have waxed strong for the one who performs  
 (rituals) well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Generate songs even as of old, give car unto the singer's call.  
      Thou for the pious hast grown great at each carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie früher will ich eine Lobrede dichten, erhöre den Ruf des Sängers! In jedem Rausche bist du gewachsen, zu Gunsten des Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу создавать песни, как раньше.  
 Услышь призыв певца!  

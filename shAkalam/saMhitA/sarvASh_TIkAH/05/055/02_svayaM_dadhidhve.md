@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वयं꣡ दधिध्वे त꣡विषीं य꣡था विद꣡  
 बृह꣡न् महान्त उर्विया꣡ वि꣡ राजथ  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 उ॒त । अ॒न्तरि॑क्षम् । म॒मि॒रे॒ । वि । ओज॑सा । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svayaṃ* ← *svayam*
 - \[adverb\]
@@ -128,43 +128,43 @@ genre M;; repeated line
 हे मरुतो यूयं **स्वयम्** असहायेनैव **दधिध्वे** धारयध्वे कुरुध्व इत्यर्थः । किम् । **तविषीं** बलं सामर्थ्यम् । **यथा** **विद** जानीथ । अप्रतिबद्धसामर्थ्या इत्यर्थः । हे 'महान्तः यूयम् **उर्विया** उरवः सन्तः **वि** राजथ। **उत** अपि च **अन्तरिक्षम्** **ओजसा** बलेन **वि** **ममिरे** व्याप्नुथ । शुभमित्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, you have of yourselves maintained your vigour according as you judge (fit); you shine most mighty and vast, and you pervade the firmament with your power; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You yourselves assumed your power, as you know (how). Loftily, you  great ones, widely do you reign [/shine forth].  
 And through the midspace they measured themselves with their  
 strength. – As they drove in beauty their chariots rolled along.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb ví rājatha can mean either ‘shine forth’ or ‘reign over’; both fit the context and the subject, though given pāda a “you assumed your power,” perhaps ‘rule’ has the edge. The root noun cmpd virā́j- seems confined to the ‘rule’ sense, when it does not refer to the meter by that name.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, as ye wist, have gained of your own selves your power: high, O ye Mighty Ones, and wide ye shine abroad.  
      They with their strength have even measured out the sky.  
      Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von selbst habt ihr euch Stärke zugelegt, wie ihr wißt. Ihr Großen führet weit und breit das hohe Regiment. Und sie durchmessen mit Kraft den Luftraum. - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr nehmet Kraft aus eigner Macht, wie sich's gebührt; ihr leuchtet weithin, o ihr grossen, kräftiglich, Und auch die Luft durchmessen sie mit Allgewalt, es rollen ihre Wagen, wenn zum Schmuck sie gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы сами приобрели силу, как вы знаете.  
 Вы правите высоко (и) широко, о великие.  

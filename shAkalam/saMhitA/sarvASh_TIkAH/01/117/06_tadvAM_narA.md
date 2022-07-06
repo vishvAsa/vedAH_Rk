@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वां नरा शं꣡सियम् पज्रिये꣡ण  
 कक्षी꣡वता नासतिया प꣡रिज्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शतं꣡ कुम्भाँ꣡ असिञ्चतम् म꣡धूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श॒फात् । अश्व॑स्य । वा॒जिनः॑ । जना॑य । श॒तम् । कु॒म्भान् । अ॒सि॒ञ्च॒त॒म् । मधू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -108,36 +108,36 @@ genre M
 हे नरा नेतारौ नासत्यावश्विनौ **परिज्मन्** परिगमने अभीष्टस्य प्रापणे निमित्तभूते सति **पज्रियेण** पज्राणाम् अङ्गिरसां कुले जातेन **कक्षीवता** मया **वां** युवयोः संबन्धि **तत्** कर्म **शंस्यम्** प्रकर्षेण शंसनीयम् । तच्छब्दश्रुतेः यच्छब्दाध्याहारः । यत् **जनाय** अपेक्षमाणाय पुरुषाय **वाजिनः** वेगवतः तदीयस्य **अश्वस्य** **शफात्'** निर्गतैः **मधूनां** मधुभिः शतसंख्याकान् **कुम्भान्** **असिञ्चतम्** अपूरयतम् । सिञ्चतिरत्र पूरणार्थः । यदेतन्मधुना पूरणं तत् शंस्यम्' इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That (exploit) of yours, leaders (of sacrifice), is to be celebrated, **Nāsatyas**, by **Kakṣīvat**, of the race of Pajra, when you filled for the (expectant) man a hundred vases of sweet (liquors) from the hoof of your fleet horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (deed) of yours in your earth-encircling course, o men, deserves to  be praised by Kakṣīvant, the son of Pajra, o Nāsatyas:  
 from the hoof of your prizewinning horse, you poured a hundred pots  of honey for the people.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kaksivan, Pajra's son, must laud that exploit of yours, Nasatyas, Heroes, ye who wander!  
      When from the hoof of your strong horse ye showered a hundred jars of honey for the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Tat von euch muß Kaksivat Krisniya laut verkünden auf seiner Fahrt, ihr Herren Nasatya´s: Aus dem Hufe des preisgewinnenden Rosses schenket ihr seinen Leuten hundert Krüge der süßen Getränke ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Werk, o treue Männer, ist zu rühmen vom Padschrasohn Kakschivat aller Orten; Dass aus des schnellen Rosses Huf den Menschen ihr hundert Kübel süssen Tranks ergosset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ваше (деяние), о два мужа, должно быть прославлено  
 Паджрия Какшивантом, о Насатьи. Во время (вашего) кругового странствия  

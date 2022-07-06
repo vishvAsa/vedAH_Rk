@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपां꣡ न꣡पाद् आ꣡ हि꣡ अ꣡स्थाद् उप꣡स्थं  
 जिह्मा꣡नाम् ऊर्ध्वो꣡ विद्यु꣡तं व꣡सानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रण्यवर्णाः प꣡रि यन्ति यह्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । ज्येष्ठ॑म् । म॒हि॒मानम् । वह॑न्तीः । हिर॑ण्यऽवर्णाः । परि॑ । य॒न्ति॒ । य॒ह्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
@@ -124,42 +124,42 @@ genre M
 अपान्नपात्सञ्ज्ञकोग्निः उपस्थंअपामुपस्थानं अन्तरिक्षंआह्यस्थात् आस्थितवानारूढवान् खलु किङ्कुर्वन् जिह्नानाङ्कुतिलगतीनामपाम्मध्येऊर्ध्वः स्वयमूर्ध्वञ्ज्वलन् विद्युतंविद्योतमानम्मेघंवसानः आच्छादयन् अन्तरिक्षमास्थायवर्षणङ्कृतवान् तस्यवर्षितुरपान्नपातः ज्येष्ठम्प्रशस्यतमम्महिमानम्माहा त्म्यंवहन्तीः वहन्त्यः सर्वत्रप्रापयन्त्यः यह्वीर्यह्व्यः महत्यः हिरण्यवर्णाः नदीनामैतत् हिरण्य वन्निर्मलरूपानद्यः परियन्ति परितोगच्छन्ति अपान्नप्त्नामहतीवृष्टिरस्माकम्प्रवहणायोत्पादिताइति कृतज्ञतयातदीयम्माहात्म्यंसर्वत्रप्रकटयन्त्यइवनद्यः प्रवहन्तीत्यर्थः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The grandson of the waters has ascended the firmament above (the region) of the tortuously-moving (clouds), arrayed in lightning; the broad and golden-coloured (rivers) spread around, bearing (to all quarters) his exceeding glory.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the Child of the Waters has mounted the lap of those who are  sloping, (himself) erect, clothing himself in the lightning flash,  
 as they carry his preeminent greatness, the golden-hued exuberant  
 maidens circle around him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Waters' Son hath risen, and clothed in lightning ascended up unto the curled cloud's bosom;  
      And bearing with them his supremest glory the Youthful Ones, gold-coloured, move around him.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Their son has mounted the lap of the prostrate, Standing erect and clothed around with lightning. And bearing on with them his highest greatness, The swift streams, golden-coloured, flow around him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Apam Napat hat ihren Schoß bestiegen, aufrecht stehend, während sie quer liegen, in Blitz sich kleidend. Seine höchste Hoheit tragend umkreisen ihn die goldfarbigen Jugendlichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wasser Sohn bestieg den Schooss der schrägen Gewölke aufrecht, mit dem Blitz umkleidet, Und fahrend seine hocherhabne Grösse gehn um ihn her die goldgefärbten Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь Апам Напат взошел на лоно (вод,)  
 Текущих под уклон, (он,) стоящий прямо, рядящийся в молнию  

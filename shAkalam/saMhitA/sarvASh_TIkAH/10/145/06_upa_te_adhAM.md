@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प ते ऽधां स꣡हमानाम्  
 अभि꣡ त्वाधां स꣡हीयसा  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 पथा꣡ वा꣡र् इव धावतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 माम् । अनु॑ । प्र । ते॒ । मनः॑ । व॒त्सम् । गौःऽइ॑व । धा॒व॒तु॒ । प॒था । वाःऽइ॑व । धा॒व॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -131,36 +131,36 @@ popular;; epic anuṣṭubh (525)
 हे पते ”ते तव **सहमानां** सपत्न्या अभिभवित्रीमिमामोषधिम् ”उप ”अधाम् । शिरस उपाधानं करोमि । ”सहीयसा अभिभवितृतरेण तेनोपधानेन त्वाम् **अभि** **अधाम्** अभितो धारयामि । ”ते तव भर्तुः ”मनः ”माम् अनुलक्ष्य **प्र** **धावतु** प्रकर्षेण शीघ्रं गच्छतु । तत्र निदर्शनद्वयमुच्यते । ”गौरिव यथा गौः ”वत्सं शीघ्रं गच्छति ”पथा निम्नेन मार्गेण **वारिव** वारुदकं यथा स्वभावतो गच्छति तद्वत् । अनेन निदर्शनद्वयेनौत्सुक्यातिशयः स्वाभाविकत्वं च प्रतिपाद्यते ॥ ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I make you the triumphant (herb) my pillow, I support you with that more triumphant (pillow); let yourmind hasten to me as a cow to her calf, let it speed on its way like water. not fear assail you?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On you [=husband] have I laid the (plant) that wins victory; I have  harnessed you with an even more victorious one.  
 Let your mind run forth after me, like a cow after a calf, like water along  its path.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have gained thee for vanquisher, have grasped thee with a stronger spell.  
      As a cow hastens to her calf, so let thy spirit speed te me, hasten like water on its way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe dir das siegende Kraut aufgelegt, ich habe dich mit dem Siegesstarken umwunden. Mir soll dein Sinn nachlaufen wie die Kuh dem Kalbe, soll wie das Wasser auf seinem Wege laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir leg' die kräftige ich an, bekränz' dich mit dem stärkeren, Zu mir hin eile vor dein Sinn wie zu dem Kalb die Mutterkuh wie Wasser läuft auf seiner Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подложила я тебе побеждающую (траву),  
 Обложила я тебя (этой) очень победной.  

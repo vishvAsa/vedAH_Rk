@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व द्युम꣡न्तो अर्च꣡यो  
 ग्रा꣡वेव उच्यते बृह꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्वानो꣡ अर्त त्म꣡ना दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒तो इति॑ । ते॒ । त॒न्य॒तुः । य॒था॒ । स्वा॒नः । अ॒र्त॒ । त्मना॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -110,42 +110,42 @@ genre M
 हे अग्ने **तव** **अर्चयः** रश्मयः **द्युमन्तः** दीप्तिमन्तो भवन्ति। **बृहत्** महान् त्वं **ग्रावेव** अभिषवग्रावेव **उच्यते** स्तूयसे । **उतो** अपि च **त्मना** आत्मना **दिवः** द्योतमानस्य **ते** तव **स्वानः** शब्दः **तन्यतुर्यथा** मेघगर्जितमिव **अर्त** उद्गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant, **Agni**, are your rays; mighty are you termed, like the stone (that bruises the **Soma**), and your voice spontaneously spreads through the sky like thundeṛ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your flames are brilliant: (they resound) as the pressing stone  
 resounds aloft,  
 and just like thunder from heaven your roar has arisen by itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Resplendent are thy rays of light: loud is thy voice like pressing-stones.  
      Yea, of itself thy thunder goes forth like the roaring of the heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy brilliant flames resound mightily like the pressing-stone (of the Soma) 1. And thy roaring arose like thunder by itself from heaven 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glänzend sind deine Strahlen; sie tönen laut wie der Preßstein, und dein Brausen erhebt sich leibhaftig wie der Donner des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wie der Pressstein laut ertönt, so deine hellen Flammen auch, Und wie des Himmels Donnerton erhob von dir sich das Gebraus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя сверкающие лучи.  
 (Ты трещишь) громко, как звучит давильный камень,  

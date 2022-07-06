@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह तिय꣡द् इन्द्र कु꣡त्सम् आवः  
 शु꣡श्रूषमाणस् तनु꣡वा समर्ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रन्धय आर्जुनेया꣡य शि꣡क्षन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दास॑म् । यत् । शुष्ण॑म् । कुय॑वम् । नि । अ॒स्मै॒ । अर॑न्धयः । आ॒र्जु॒ने॒याय॑ । शिक्ष॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -112,20 +112,20 @@ genre M
 हे **इन्द्र** **त्वं** **ह** त्वं खलु **त्यत्** तदा **तन्वा** शरीरेण **शुश्रूषमाणः** उपचरन् **समर्ेा** मर्यैर्मर्त्यैर्योद्धभिः सहिते युद्धे **कुत्सम्** **आवः** अरक्षः । कदेत्यत्राह । **यत्** यदा **आर्जुनेयाय** अर्जुन्याः पुत्राय **अस्मै** कुत्साय **शिक्षन्** धनं प्रयच्छन् **दासं** दासनामकमसुरं **शुष्णं** च **कुयवं** च **नि** **अरन्धयः** नितरां वशमानयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Aiding him with your person n, **Indra**, you had defended **Kutsa** in combat when you had subjugatedDāsa, **Śuṣṇa** and **Kuyava**, giving (their spoil) to that son of **Arjuni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just you, o Indra, helped Kutsa, while seeking fame for yourself with  your own body in the clash,  
 when for him you weakened the Dāsa Śuṣṇa bringing bad harvest, doing  your best for Arjuna’s offspring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is repeated in IV.38.7, there of Dadhikrā the racehorse. (This repetition is not noted in Bloomfield Rig-Veda Repetitions) Renou at IV.38.7 and Geldner here (but not there) take śúśrūṣamānaḥ as meaning something like “putting oneself at the disposal (of someone else, here Kutsa).” I assume that they are thinking of the enlarged root √śruṣ ‘be obedient’, but the two meanings seem quite distinct to me - I can’t see Indra being obedient to any man - and formally our participle is a well-formed desiderative to √śru. In both places I take it as meaning “desiring to be heard/famed’; here Indra also helps out Kutsa, but at least part of his aim is to ensure his own fame.
 
@@ -134,23 +134,23 @@ In IV.38.7 there is no subsidiary beneficiary, and so the focus on the subject a
 The word dā́sam beginning c plays off both (á)dāśuṣo in 1c and sudā́sam in 3b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, verily, Indra, gavest help to Kutsa, willingly giving car to him in battle,  
      When, aiding Arjuneya, thou subduedst to him both Kuyava and the Dasa Susna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, halfst damals dem Kutsa, mit deiner Person dich im Kampf ihm zur Verfügung stellend, als du ihm den D?sa Susna, den Kuyava, unterwarfst, um dem Arjuneya, dem Kutsa, nützlich zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, halfest dazumal dem Kutsa, selbst gegenwärtig ihn im Kampf erhörend, Als Çuschna du, den Dämon schlechter Ernte, dem Ardschuneja huldvoll übergabest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же, Индра, Кутсу поддержал,  
 Сам служа ему службу в сражении,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡वा द्युम्नी꣡ वाध्रिअश्वोत꣡ गोपा꣡  
 मा꣡ त्वा तारीद् अभि꣡मातिर् ज꣡नानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ नु꣡ वोचं वा꣡ध्रिअश्वस्य ना꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शूरः॑ऽइव । घृ॒ष्णुः । च्यव॑नः । सु॒ऽमि॒त्रः । प्र । नु । वो॒च॒म् । वाध्रि॑ऽअश्वस्य । नाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
@@ -128,36 +128,36 @@ genre M
 हे **वाध्र्यश्व** वध्र्यश्वकुले जाताग्ने **द्युम्नी** । 'द्युम्नं द्योततेर्यशो वान्नं वा'। तद्वान् **भव** । **उत** अपि च **गोपाः** गोपयिता भव । किंच **त्वा** त्वाम् कश्चिदपि **मा** **तारीत्** मा हिनस्तु । यतः **जनानां** शत्रूणाम् **अभिमातिः** अभिभवनशीलमानयुक्तोऽभिभविता भवसि । किंच शूरइव बलवानिव **धृष्णुः** शत्रुधर्षणशीलः तस्मात् **च्यवनः** तेषां च्यावयिता भवसि । अथ **वाध्र्यश्वस्य** अग्नेस्तव **नाम** अग्निर्जातवेदा वैश्वानर इत्यादीनि नामानि **नु** क्षिप्रं **सुमित्रः** **अहं** **प्र** **वोचं** प्रब्रवीमि । तस्मान्मेऽन्नादियुक्तो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Kinsman of Vadhryaśva, be the possessor of food and our protector; let no one assail you, (for youare) the overcomer of men; like a resolute warrior (you are) the overthrower (of enemies); I, **Sumitra**, celebratethe names of the kinsmen of **Vadhyaśva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become possessed of brilliance, o son of Vadhryaśva, and our herdsman.  Let the hostile intent of the peoples not overtake you.  
 A rouser like a bold champion, a good ally—I shall now proclaim the  name of Vadhryaśva’s son.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be splendid, guard us Kinsman of Vadhryasva: let not the enmity of men o'ercome thee,  
      Like the bold hero Cyavana, I Sumitra tell forth the title of Vadhryaiva's Kinsman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei glanzreich, Kind des Vadhryasva, und ein Schützer; nicht sollen die Anschläge der Menschen über dich Macht bekommen! Sei mutig wie ein Aufrüttler, und doch ein Sumitra, ein guter Freund. Ich will jetzt den Namen des Vadhryasvafeuers verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei, Vādhriaçva, Hüter und Erfreuer, nie überwinde dich der Menschen Arglist; Kühn wie ein Held, erschütternd und befreundet, will ich den Namen Vādhriaçva's kund thun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

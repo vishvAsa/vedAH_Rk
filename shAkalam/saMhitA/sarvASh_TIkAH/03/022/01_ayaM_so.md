@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ सो꣡ अग्नि꣡र् य꣡स्मिन् सो꣡मम् इ꣡न्द्रः  
 सुतं꣡ दधे꣡ जठ꣡रे वावशानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ससवा꣡न् स꣡न् स्तूयसे जातवेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒ह॒स्रिण॑म् । वाज॑म् । अत्य॑म् । न । सप्ति॑म् । स॒स॒वान् । सन् । स्तू॒य॒से॒ । जा॒त॒ऽवे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 गाथी ब्रूते । अयम् उत्तरवेद्यामाहुत्यधिकरणभूताहवनीयरूपतया दृश्यमानः **अग्निः** **सः** तथाविधः खलु **वावशानः** सोमं कामयमानः **इन्द्रः** **यस्मिन्** अग्नौ **सुतम्** अभिषवादिसंस्कारोपेतं **सोमं** **जठरे** स्वोदरे **दधे** दधार । तस्मात् तादृशमहिमोपेतः सोऽग्निरिति पूर्वेणान्वयः । किंच हे **जातवेदः** **सहस्रिणम्** । सहस्रं नानारूपतां युद्धे यो भजति स सहस्री। तम् **अत्यं** वेगवशात अतनशीलं **सप्तिं** **न** अश्वमिव **वाजम्** आज्यौषधिसोमाद्यनेकप्रकारं हविर्लक्षणमन्नं **ससवान** भेजिवान् **सन्** त्वं **स्तूयसे** स्तोतृभिरस्माभिः स्तूयमानो वर्तसे ॥ दधे । दधातेर्लिटि  ‘ लिटस्तझयोरेशिरेच् ' इति तप्रत्ययस्य एश् इत्यादेशः । यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः । वावशानः ।  ‘ वश कान्तौ ' इत्यस्य यङ्लुकि ' दीर्घोऽकितः' इत्यभ्यासस्य दीर्घः । व्यत्ययेन शानच् । चित्स्वरः । ससवान् ।' षण संभक्तौ । क्वसाविडभावः । नलोपः । प्रत्ययस्वरः । स्तूयसे ।  ‘ ष्टुञ् स्तुतौ ' । कर्मणि यक् ।' अकृत्सार्वधातुकयोः° ' इति दीर्घः । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M
 Pañcacitirūpā agnayo **devatā**: each hymn is separately recited as the **adhvaryu** constructs a pit or an altar, **iṣṭakā**, for collecting cayana or **citi** a sacrificial fire; cf. **Yajus**. 12.47.51; plural ced: dadhe jaṭhare svodare d_dhāra: one verb is also applied to yasmin, the fire in which the Soma was plural ced; sahasriṇam vājam atyam na saptim sasavān = enjoying a thousandfold food like a quick-going horse; i.e. like a horse that enjoys various properties in battle, sahasram nānārūpatām yuddhe yo bhajati sa **sahasri** tam aśvamiva; another interpretation: sahasriṇam is related to **somam**, worthy or fit for a thousand libations, somam saharārham; atyam and saptim to vājam food, exhilarating, modakaram, and satisfying tṛptikaram na, meaning 'now' **samprati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is Agni, in whom the bellowing Indra has received the pressed soma  in his belly.  
 As (we praise) a steed, a team-horse, (that has won) the prize of a  
 thousand, you are praised, Jātavedas, since you are victorious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS is that Agni whence the longing Indra took the pressed Soma deep within his body.  
      Winner of spoils in thousands, like a courser, with praise art thou exalted, Jatavedas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 This is that Agni with whom the desiring Indra took the pressed Soma into his body. Having obtained thousandfold strength like a horse, a racer 1, thou art praised, O Gâtavedas!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist der Agni, durch den Indra den ausgepreßten Soma voll Verlangen in seinem Bauch aufgenommen hat. Wie ein Renngespann, das tausendfältigen Preis gewonnen hat, wirst du als der Gewinner gelobt, o Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Feuer ist's aus welchem Indra gierig den ausgepressten Soma in den Leib nimmt, Die tausendfache Speis', o Wesenkenner, gleich schnellem Ross ergreifend wirst gelobt du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Агни, в котором Индра, страстно желающий,  
 Принял в живот выжатого сому.  

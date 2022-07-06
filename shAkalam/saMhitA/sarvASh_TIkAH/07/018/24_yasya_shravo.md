@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य श्र꣡वो रो꣡दसी अन्त꣡र् उर्वी꣡  
 शीर्ष्णे꣡-शीर्ष्णे विबभा꣡जा विभक्ता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ युध्यामधि꣡म् अशिशाद् अभी꣡के
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒प्त । इत् । इन्द्र॑म् । न । स्र॒वतः॑ । गृ॒ण॒न्ति॒ । नि । यु॒ध्या॒म॒धिम् । अ॒शि॒शा॒त् । अ॒भीके॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -117,21 +117,21 @@ genre M
 विस्तीर्णयोर्द्यावापृथिव्योर्मध्ये वर्तत इत्यर्थः । यश्च सुदाः **विभक्ता** धनस्य प्रदाता **शीर्ष्णेशीर्ष्णे** श्रेष्ठाय श्रेष्ठाय **विबभाज** धनं प्रददौ तं सुदासं **सप्तेत्** सप्तैव लोकाः **इन्द्रं** **न** इन्द्रमिव **गृणन्ति** स्तुवन्ति । किंच **स्रवतः** नद्यः **अभीके** युद्धे **युध्यामधिं** युध्यामधिनामकं सपत्नं **नि** **अशिशात्** न्यहन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven worlds praise (**Sudāsa**) as if he were **Indra**; him whose fame (spreads) through thespacious heaven and earth; who, munificent, has distributed (wealth) on every eminent person n, and (for him) theflowing (rivers) have destroyed Yudhyamadhi in war.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He whose fame the Apportioner has apportioned to every head between  the two wide world-halves,  
 they hymn (him) just as the seven streams do Indra. He “whetted  
 down” Yudhyāmadhi at the moment of encounter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The śrávas- in pāda a echoes the one in 23d.
 
@@ -144,23 +144,23 @@ The fame being distributed is presumably that of Sudās, though covertly assimil
 The PN yudhyāmadhí is obviously a speaking name, with some form of √yudh ‘fight’ embedded in it. See Oldenberg for various possibilites for its formation. It is tempting to see as its base a 1st pl. middle *yúdhyāmahi “let’s fight,” with the older expected 1st pl. ending *-madhi before de-occlusion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him whose fame spreads between wide earth and heaven, who, as dispenser, gives each chief his portion,  
      Seven flowing Rivers glorify like Indra. He slew Yudhyamadhi in close encounter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Ruhm zwischen den beiden Welten sich ausbreitet, der auf jeden Kopf als Verteiler die Beute verteilt hat, ihn preisen sie wie die sieben Ströme den Indra. Er hat den Yudhyamadhi im Zweikampf niedergestochen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dessen Ruhm sich zwischen den beiden weiten Welten verbreitet, der jedem Haupte Gaben zutheilt als Vertheiler, ihn preisen wie den Indra die sieben Ströme, er streckte den Judhjamadhi zu Boden im Kampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чья слава (распространилась) между двух обширных миров,  
 (Тот) как раздатель раздал (дары) на каждую голову.  

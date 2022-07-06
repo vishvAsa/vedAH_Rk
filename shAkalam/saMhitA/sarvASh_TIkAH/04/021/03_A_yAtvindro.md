@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यातु इ꣡न्द्रो दिव꣡ आ꣡ पृथिव्या꣡  
 मक्षू꣡ समुद्रा꣡द् उत꣡ वा पु꣡रीषात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पराव꣡तो वा स꣡दनाद् ऋत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वः॑ऽनरात् । अव॑से । नः॒ । म॒रुत्वा॑न् । प॒रा॒ऽवतः॑ । वा॒ । सद॑नात् । ऋ॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,20 +120,20 @@ genre M
 **मरुत्वान्** मरुद्भिः सहितः **इन्द्रः** **नः** अस्माकम् **अवसे** रक्षणाय **दिवः** स्वर्गलोकात् **आ** **यातु** आगच्छतु । **पृथिव्याः** भूलोकाच्च **मक्षु** शीघ्रम् **आ** यातु । **उत** **वा** अथवा **समुद्रात्** अन्तरिक्षलोकाच्चायातु । समुद्र इत्यन्तरिक्षनाम ‘ सगरः समुद्रः अध्वरम् ' ( नि. १. ३. १५ ) इति तन्नामसु पाठात् । अथवा **पुरीषात्** उदकादायातु । पुरीषमित्युदकनाम ‘ मधु पुरीषं पिप्पलम् ' ( नि. १. १२. १२ ) इति तन्नामसु पाठात् । **स्वर्णरात्** स्वरादित्यो नरो नेता यस्य तस्माल्लोकाद्वा आयातु । **परावतो** **वा** दूराद्वा आयातु । **ऋतस्य** उदकस्य **सदनात्** स्थानात् मेघलोकाद्वा आयातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, accompanied by the **Maruts** come quickly for our protection, from the heaven, from the earth, from the firmament, or from the waters; from the sphere of the sun, from (any) distant region, from the abode of the rains.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra along with the Maruts drive here from heaven or from the  earth, swiftly from the sea or from fertile ground,  
 from the realm of solar glory, or from afar, from the seat of truth, to  help us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. also recalls the opening vs. of the preceding hymn. There the verb ā́… yāsat ‘he will drive here’ is construed with two ablatives of place-from-which (near and far), plus ávase ‘for help’ + naḥ. Here ā́yātu, also with ávase naḥ, is construed with no fewer than six ablatives of the same type, elaborating on the near/far contrast to provide a universe of choices.
 
@@ -142,23 +142,23 @@ On púrīṣa- see comm. ad I.163.1.
 Geldner (/Witzel Gotō) take svàrṇara- as a PN, but this interpr. does not fit the pattern of the vs., and moreover svàrṇara- as PN seems to be confined to Maṇḍala VIII. See Mayrhofer (PN, s.v.), who also sees the name only in VIII.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither let Indra come from earth or heaven, hither with speech from firmament or ocean;  
      With Maruts, from the realm of light to aid us, or from a distance, from the seat of Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll alsbald vom Himmel, von der Erde kommen, vom Meere oder vom Urquell, von Svarnara, uns zum Beistand in Begleitung des Marut, oder aus der Ferne von dem Sitz des Gesetzes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es komme Indra her von Erd' und Himmel, vom Meer hereilend oder von dem Dunstraum, Vom Sonnengott zu Hülf' uns mit den Maruts, von Ferne oder von der Opferstätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придет Индра с неба, с земли,  
 Или (пусть придет) быстро из океана, из (небесного) источника,  

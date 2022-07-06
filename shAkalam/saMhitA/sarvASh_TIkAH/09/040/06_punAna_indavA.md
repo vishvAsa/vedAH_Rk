@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनान꣡ इन्दव् आ꣡ भर  
 सो꣡म द्विब꣡र्हसं रयि꣡म्  
 वृ꣡षन्न् इन्दो न उक्थि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृष॑न् । इ॒न्दो॒ इति॑ । नः॒ । उ॒क्थ्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -86,35 +86,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** **सोम** **पुनानः** पूयमानस्त्वम् **आ** **भर** आहर । किम् । **रयिं** धनम् । कीदृशं धनम् । **द्विबर्हसं** द्वयोः द्युपृथिव्याख्ययोः स्थानयोः परिवृद्धम् । तदेवाह । हे **इन्दो’** **वृषन्** वर्षक **नः** अस्मभ्यम् **उक्थ्यं** स्तुत्यं धनमा भर ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, **Soma**, being purified, bring us wealth from both worlds; Indu, showerer (of benefits), (bring us) glorious (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified, o drop, bring hither double-lofty wealth—o Soma, bullish drop—bring us wealth worthy of hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, Soma, being cleansed, bring hither riches doublypiled,  
      Wealth, mighty Indu, meet for lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du dich läuterst, o Somasaft, so bring uns doppeltgroßen Reichtum, preislichen, du bullenhafter Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt bringe, Indu, her o Soma, zwiefach reichen Schatz Uns rühmenswerthen, Indu, Stier!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

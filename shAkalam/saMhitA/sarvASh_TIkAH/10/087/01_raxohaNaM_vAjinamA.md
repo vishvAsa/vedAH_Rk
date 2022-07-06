@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रक्षोह꣡णं वाजि꣡नम् आ꣡ जिघर्मि  
 मित्र꣡म् प्र꣡थिष्ठम् उ꣡प यामि श꣡र्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ नो दि꣡वा स꣡ रिषः꣡ पातु न꣡क्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 शिशा॑नः । अ॒ग्निः । क्रतु॑ऽभिः । सम्ऽइ॑द्धः । सः । नः॒ । दिवा॑ । सः । रि॒षः । पा॒तु॒ । नक्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rakṣohaṇaṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
@@ -137,20 +137,20 @@ popular;; repeated line
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer clarified butter to the powerful **Agni**, the slayer of **rākṣasas**, I approach the most spaciousdwelling, the friend (of worshippers); Agni sharpening (his flames) is kindled by pious men; may he guard us frommalignant spirits by day and by night.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The demon-smiter—I besprinkle him as the prizewinner; I beseech him  as Mitra [/an ally] for broadest shelter.  
 Agni, sharpening himself, fully kindled according to (our) intentions— let him protect us from harm by day, let him by night.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I BALM with oil the mighty Raksas-slayer; to the most famous Friend I come for shelter  
      Enkindled, sharpened by our rites, may Agni protect us in the day and night from evil.
@@ -164,17 +164,17 @@ May Agni, enkindled with our offerings, sharpening (his dart)
 Guard us by day, [6] from harm and by night.
 ꣡</details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Unholdtöter, den sieghaften, besprenge ich; bei dem Freunde suche ich breiteste Zuflucht. Agni soll sich scharf machen, nachdem er mit bestimmten Absichten entzündet ist, und uns am Tag und des Nachts vor Schaden bewahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnten Schutz an, Geschärft ist Agni und mit Kraft entzündet; er schütze Tag und Nacht uns vor Verderben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убийцу ракшасов победоносного я кроплю (жиром).  
 Как к другу обращаюсь я за самой широкой защитой.  

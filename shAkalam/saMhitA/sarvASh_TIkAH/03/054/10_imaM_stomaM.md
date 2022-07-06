@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ स्तो꣡मं रोदसी प्र꣡ ब्रवीमि  
 ऋदूद꣡राः शृणवन्न् अग्निजिह्वाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आदित्या꣡सः कव꣡यः पप्रथानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । स॒म्ऽराजः॑ । वरु॑णः । युवा॑नः । आ॒दि॒त्यासः॑ । क॒वयः॑ । प॒प्र॒था॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे **रोदसी** द्यावापृथिव्यौ **इमं** युष्मदीयं **स्तोम** स्तोत्रं **प्र** **ब्रवीमि** प्रकर्षेण वदामि । **ऋदूदराः** । ऋदु मृदु उदरं येषां ते ऋदूदराः । यद्वा । मृदुरुदरे सोमो येषां ते ऋदूदराः । **अग्निजिह्वाः** । अग्निर्जिह्वास्थानीयो येषां ते तथोक्ताः । **सम्राजः** सम्यग्दीप्यमानाः **युवानः** नित्यतरुणाः । यद्वा । यजमानान् अभिमतफलैर्मिश्रीकुर्वन्तः । **कवयः** क्रान्तदर्शिनः **पप्रथानाः** स्वानि स्वानि कर्माणि प्रथयन्तो मित्रादयो देवाः **शृणवन्** तदिदं स्तोत्रं शृण्वन्तु ॥ शृणवन् ।  ‘ श्रु श्रवणे ' इत्यस्य लेट्यडागमः । अग्निजिह्वाः । त्रिचक्रादित्वादन्तोदात्तत्वम् । पप्रथानाः ।  ‘ प्रथ प्रख्याने ' इत्यस्य कानचि रूपम् । चित्त्वादन्तोदात्तः ॥ .॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,36 +121,36 @@ genre M
 Proclaiming: paprathānāḥ = svāni svāni karmāṇi prathayantaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise here I proclaim, you two world-halves. The tender-hearted  ones having Agni as their tongue will hear it—  
 the youthful sovereign kings, Mitra, Varuṇa, the Ādityas, sage poets,  extending far and wide.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. forms a sort of ring with vs. 1, enclosing the Heaven and Earth hymnlet of vss. 2-9. Like vs. 1 it begins with imám followed by a word for hymn (1a imám … śūṣám, 10a imáṃ stómam), and with 1cd it contains a verb form of √śru ‘hear’ with god(s) as subject (10b).
 
 On ṛdūdára- see EWA s.v. ARD, though he is somewhat cagey about its formation. I assume the 2nd member is udára- ‘belly’, with the literal sense ‘moistbellied’ being equivalent to our ‘tender-hearted’. This assumes a bahuvrīhi with an adjectival first member of the form ṛdu-, a shape (disyllabic adj. ending in -i- or -u-) that often triggers (or is at least associated with) 2nd member accent in bahuvrīhis (see AiG II.1.296ff.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This laud, O Heaven and Earth, to you I utter: let the kind-hearted hear, whose tongue is Agni,  
      Young, Sovran Rulers, Varuna and Mitra, the wise and very glorious Adityas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Loblied trage ich vor, ihr Rodasi. Die weichherzigen Götter sollen es hören, deren Zunge Agni ist, die jugendlichen Allkönige Mitra, Varuna, die Aditya´s, die weit und breit bekannten Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch sprech' ich aus, o Welten, dieses Loblied, die feuerzung'nen, holden, mögen hören, Die jungen weisen Varuna und Mitra, die weitberühmten Herrscher, die Aditja's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такую хвалу я провозглашаю, о две половины вселенной.  
 Да услышат (ее) мягкосердечные (боги), чей язык - Агни,  

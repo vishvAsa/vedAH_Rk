@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवावि꣡यो नः परिषिच्य꣡मानाः  
 क्ष꣡यं सुवी꣡रं धनुवन्तु सो꣡माः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तारो न꣡ दिविय꣡जो मन्द्र꣡तमाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒ऽय॒ज्यवः॑ । सु॒ऽम॒तिम् । वि॒श्वऽवा॑राः । होता॑रः । न । दि॒वि॒ऽयजः॑ । म॒न्द्रऽत॑माः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāvyo* ← *devāvyaḥ* ← *devāvī*
 - \[noun\], nominative, plural, masculine
@@ -102,7 +102,7 @@ genre M
 देवाव्यः अवतेस्तर्पणार्थस्य अवितृस्तॄतन्त्रिभ्यईरिति ईप्रत्ययः । उदात्तस्वरितयो र्यण- इति जसःस्वरितत्वम् । देवानां तर्पयितारः परिषिच्यमानाः परितः पात्रेषु सिच्यमानाः सोमाः नोस्माकं सुवीरंशोभनपुत्रं क्षयं गृहं धन्वन्तु प्रेरयन्तु । कीदृशाः सुमतिं शोभन- मतिं यजमानं आयज्यवः यष्टुमिच्छवः विश्ववाराः विश्वैर्वरणीयाः होतारोन होतारोयथा देवानिन्द्रादीन् स्तुवन्ति एवं दिवियजः दिवि द्युलोकस्थितानिन्द्रादीन् देवान् यजन्तः । दिव् शब्दे तत्पुरुषेकृतिबहुलमिति सप्तम्याअलुक् । मन्द्रतमाः अत्यन्तम्मदकराः ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,13 +113,13 @@ genre M
 Endeavouring to gain the favour of the gods: āyajyavaḥ sumatim viśvavārāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pursuing the gods while being poured around, let the soma drinks run  to a dwelling place rich in good heroes,  
 bringing favor here through sacrifice, possessing all desirable things,  sacrificing at day(break) like Hotars, most gladdening.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation omits the enclitic naḥ; it should be revised to “Pursuing the gods for us while …” Geldner takes kṣáyam in b as an Inhaltsakk. (“… sollen … ein Haus … herströmen” (sim. but more elaborate, Renou). But a dwelling place is a particularly unlikely object to “stream,” and I prefer to see it as goal (as also Scarlatta 398).
 
@@ -140,23 +140,23 @@ The poet is named as Mṛḍīka Vāsiṣṭha, who is also the poet of X.150. I
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused by us let God-delighting Somas bring as they flow a home with noble heroes.  
      Rich in all boons like priests acquiring favour, the worshippers of heaven, the best of Cheerers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Göttereinladend sollen die eingegossenen Somasäfte uns ein Haus mit tüchtigen Söhnen herströmen, Gunst erbittend, allbegehrt, gleich den Hotri´s die Götter im Himmel verehrend, sehr erfreuend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen männerreiche Habe strömen die ringsergossnen Soma's, Götter labend, Die güterreichen opfernd Huld uns bringen, erfreuend sehr, wie Opferer des Himmels.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приглашающие богов, разливаемые вокруг,  
 Пусть соки сомы в (своем) беге дадут нам жилище с прекрасными сыновьями,  

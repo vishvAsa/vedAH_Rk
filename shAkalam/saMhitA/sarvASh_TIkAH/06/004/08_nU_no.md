@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नो अग्ने अवृके꣡भिः सुअस्ति꣡  
 वे꣡षि रायः꣡ पथि꣡भिः प꣡र्षि अं꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡देम · शत꣡हिमाः सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । सूरिऽभ्यः॑ । गृ॒ण॒ते । रा॒सि॒ । सु॒म्नम् । मदे॑म । श॒तऽहि॑माः । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -127,36 +127,36 @@ genre M
 हे **अग्ने** **नः** अस्मान् **अवृकेभिः** । वृकाः स्तेनाः । तद्रहितैः **पथिभिः** मार्गैः **रायः** धनानि **नु** क्षिप्रं **स्वस्ति** क्षेमेण **वेषि** गमय प्रापय । **अंहः** अंहसः पापात् **पर्षि** । उक्तलक्षणैर्मार्गैः पारय चास्मान् । यानि त्वया **सूरिभ्यः** स्तोतृभ्यो देयानि सुम्नानि **ता** तानि **सुम्नं** सुम्नानि सुखानि **गृणते** स्तुवते मह्यं **रासि** देहि । वयं च **शतहिमाः** शतं हेमन्तान् संवत्सरान् **सुवीराः** । वीर्याज्जायन्त इति वीराः पुत्रादयः । शोभनपुत्रपौत्रादिसहिताः सन्तः **मदेम** हृष्याम ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Quickly conduct us, **Agni**, by unmolested paths, to riches and prosperity; (convey us) beyond sin; those delights which you give to your adorers (extend) to him who (now) glorifies you, and may we, living for a hundred winters, and blessed with excellent posterity, be happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now for us, Agni, pursue well-being and riches along wolfless paths.  Carry us across narrow straits.  
 Grant these things to the patrons and favor to the singer. – Having good  heroes might we rejoice for a hundred winters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, Agni, on the tranquil paths of riches come to us for our weal: save us from sorrow.  
      Grant chiefs and bard this boon. May we live happy, with hero children, through a hundred winters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun erstrebe, o Agni, für uns auf wolfssicheren Wegen Glück und Reichtümer, hilf uns aus der Not! Diese schenke den Lohnherren, dem Sänger schenke deine Gunst! Wir wollen, hundert Winter lebend, als Meister frohlocken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun führ zum Heil uns, Agni, mit den Holden, auf Reichthums Pfaden führe uns durch Drangsal; Der dies den Fürsten singt, dem schenke Huld du, froh sei'n wir, reich an Söhnen, hundert Winter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ну, Агни, иди благополучно по путям,  
 Где нет волков, к богатствам! Переправь нас через узость!  

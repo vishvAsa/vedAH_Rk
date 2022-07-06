@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡ र꣡जांसि सुय꣡मासो अ꣡श्वा  
 र꣡थो य꣡द् वाम् प꣡रि अ꣡र्णांसि दी꣡यत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्वः पि꣡बन्ता उष꣡सः सचेथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हि॒र॒ण्ययाः॑ । वा॒म् । प॒वयः॑ । प्रु॒षा॒य॒न् । मध्वः॑ । पिब॑न्तौ । उ॒षसः॑ । स॒चे॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvo* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -117,43 +117,43 @@ genre M
 हे अश्विनौ **युवोः** युवयोः 'अश्वाः रथवोढारः 'रजांसि रञ्जकान् लोकान् 'सुयमासः शोभननियमनाः । लोकत्रयसंचारिण इत्यर्थः । कदेति आह । 'यत् यदा **वां** 'रथः अर्णांसि अरणीयान् अभिमतदेशान् 'परि **दीयत्** परिगच्छेत् परितो गच्छति वा । तदेत्यर्थः । दीयतिर्गतिकर्मा, ‘ दीयति तकति' (नि. २. १४. ६९ ) इति तत्कर्मसु पाठात् । किंच रथागमनकाले **वां** युवयोः **पवयः** वज्रा रथनेमयो वा 'हिरण्ययाः हिरण्मयाः **प्रुषायन्** प्रुष्णन्त्यभिमतम् । यद्वा। हिरण्ययानि पवयो मधुपात्राणि वां युवाभ्यामर्थाय । यस्मादेवं तस्मात् युवां 'मध्वः मधुनो मधुसदृशस्य सोमरसस्य ॥ कर्मणि षष्ठी ॥ सोमरसं पिबन्तौ आस्वादयन्तौ **उषसः** उषःसंबन्धिनि काले 'सचेथे यज्ञं संगच्छेथे । अत्र क्रमो न विवक्षितः । उषःकाले एवागत्य मधुरं सोमरसं पिबतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, your horses are traversers of the (three) regions, when your chariot proceeds to (its desired) quarters; the golden fellies of your wheels grant (whatever is wished for); drinking the **Soma**, you participate in the morning (rite).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your easily controlled horses (fly around) the airy realms, when your  chariot flies around the floods.  
 Your golden wheel-rims spray (honey); drinking of the honey you  
 accompany the dawns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra Geldner (/Witzel Gotō) I supply ‘honey’ as the obj. of pruṣāyan on the basis of IV.43.5 … mádhu vām pruṣāyan, etc.; it can be recovered contextually from pāda d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIGHTLY your coursers travel through the regions when round the sea of air your car is flying.  
 
 Your golden fellies scatter drops of moisture: drinking the sweetness ye attend the Mornings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure lenksamen Rosse durcheilen die Räume, wenn euer Wagen um die Meerfluten fliegt. Es triefen eure goldnen Radschienen. Vom süßen Trank trinkend begleitet ihr die Usas´.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn durch die Luft die schöngelenkten Rosse und euer Wagen durch die Fluten hinfliegt, Dann triefen reichlich eure goldnen Schienen und süsses trinkend eint ihr euch den Morgen;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши легко управляемые кони (пересекают) пространства  
 Когда ваша колесница летает кругом над потоками.  

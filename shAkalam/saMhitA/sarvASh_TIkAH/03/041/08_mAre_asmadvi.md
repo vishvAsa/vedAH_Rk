@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡रे꣡ अस्म꣡द् वि꣡ मुमुचो  
 ह꣡रिप्रिय अर्वा꣡ङ् याहि  
 इ꣡न्द्र स्वधावो म꣡त्स्वेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इन्द्र॑ । स्व॒धा॒ऽवः॒ । मत्स्व॑ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māre* ← *mā*
 - \[adverb\]
@@ -99,41 +99,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **हरिप्रिय** हरी अश्वौ प्रियौ यस्य तादृश हे इन्द्र **अस्मत्** अस्मत्तः **आरे** दूरे रथे योजितावश्वौ **मा** **वि** **मुमुचः** मा विमोचय । ताभ्यामुपेत एव **अर्वाङ्** अस्मदाभि मुख्येन **याहि** आगच्छ। हे **स्वधावः** सोमलक्षणान्नवन’“इन्द्र **इह** अस्मिन् देवयजने **मत्स्व** सोमं पीत्वा हृष्टो भव ॥ अस्मत् । अस्मच्छब्दस्य पञ्चमीबहुवचनस्य ‘पञ्चम्या अत् ' (पा. सू. ७. १. ३१ ) इत्यदादेशः । मुमुचः ।' मुच्लृ मोक्षणे ' इत्यस्य ण्यन्तस्य छान्दसे लुङि चङि रूपम् । अभ्यासस्य दीर्घाभावश्छान्दसः । ‘न माङयोगे' इत्यडभावः । निघातः । हरिप्रिय । आमन्त्रितस्य पादादित्वात् षाष्ठिकमाद्युदात्तत्वम् । मत्स्व । मदि स्तुत्यादिषु इत्यस्य लोटि ' बहुलं छन्दसि ' इति विकरणस्य लुक् । आमन्त्रितस्याविद्यमानत्वेन पादादित्वादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lover of horses, **Indra**, loosen not your steeds while far from us, but come (with them) to our presence; enjoyer of the offering, be exhilarated at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not unharness at a distance from us; drive nearby, you who are dear  to your fallow bays.  
 O autonomous Indra, become exhilarated here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most take hári-priya- as ‘loving the hári’ (e.g., Renou “qui aimes les alezans”); I have reversed the direction of affection: “dear to the fallow bays,” primarily because better attested puru-priyá- means ‘dear to many’ not ‘loving many’, though the accent difference between them may signal a difference in meaning. (However, the special accentual behavior of compounded puru- muddies the waters.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou to whom thy Bays are dear, loose not thy Horses far from us:  
      Here glad thee, Indra, Lord divine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spann nicht weit von uns aus, komm herwärts du Falbenfreund! Berausche dich hier, o eigenmächtiger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht kehre ein von uns entfernt; komm her, der du den Soma liebst; Hier freu dich, Indra, herrlicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко от нас не распрягай (коней,)  
 О (бог,) любящий буланых коней! Сюда приезжай!  

@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थो नियु꣡त्वान् वक्षद् अ꣡वसे  
 अभि꣡ प्र꣡यांसि सु꣡धितानि वीत꣡ये  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 इ꣡न्द्रश् च रा꣡धसा꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 वायो॒ इति॑ । आ । च॒न्द्रेण॑ । राध॑सा । आ । ग॒त॒म् । इन्द्रः॑ । च॒ । राध॑सा । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -173,7 +173,7 @@ genre M
 केवलं वायुं स्तुत्वा व्यासक्ततया इन्द्रवायू स्तौति । हे **वायो** त्वामिन्द्रं च **वां** युष्मान् **रथः** युवयोः संबन्धी रथः **नियुत्वान्** नियुद्भिरश्वैः तद्वान् सन्” **आ** **वक्षत्** देवयजनं प्रति युष्मानावहतु॥ वहेर्लेटि अडागमः ।  ‘ सिब्बहुलम् ' इति सिप् ॥ यद्यपि नियुतो वायोरेव रथस्योचिताः तथापि व्यासक्तदेवतात्वात् सहैवागमनात् इन्द्रार्थमपि वहन्ति । किमर्थम् । **अवसे** गमनाय रक्षणाय वा । पुनश्च किमर्थम्। **प्रयांसि** अन्नानि सोमलक्षणानि **सुधितानि** सुष्ठु गृहीतानि **वीतये** तेषां भक्षणाय। तथा **हव्यानि** **वीतये** इतरेषां सवनीयपुरोडाशादीनां खादनाय ॥ वेतेः क्तिन् ।  ‘ मन्त्रे वृष°' इत्यादिना तस्योदात्तत्वम् ॥ किंच **मध्वः** मधुररसस्य **अन्धसः** अन्नस्य सोमरूपस्य ॥ कर्मणि षष्ठी ॥ मधुरं सोमं **पिबतम्** । यतः **पूर्वपेयम्** इतरदेवेभ्यः पूर्वपानं **वां** युवयोः **हितम्** ॥ पातेः ' अचो यत्' इति यत् ।  ‘ ईद्यति' इति ईकारः ॥ अभिमतम् । अतः प्रथमं पिबतमित्यर्थः । यद्यपि इन्द्रादपि वायोः पूर्वपानं त्वं हि पूर्वपा असि' ( ऋ. सं. ४. ४६. १ ), ' देव दधिषे पूर्वपेयम्' (ऋ. सं. ७. ९२. १ ) इत्यादिषु सर्वत्र प्रसिद्धं तथापि इन्द्रस्य इतरदेवेभ्यः पूर्वं वायुना सह पानं च इन्द्रतुरीयार्थवादनब्राह्मणे  ‘ देवा वै सोमस्य राज्ञोऽग्रपेये न समपादयन् ' ( ऐ. ब्रा. २. २५) इत्यत्र प्रतिपादितम् । किंच आगमनसमये हे **वायो** त्वम् **इन्द्रश्च** **चन्द्रेण** अस्मदाह्लादकेन हिरण्येन **राधसा** गवादिरूपेण धनेन च सह **आ** **गतम्** आगच्छतम्। **राधसा** रत्नेन धनेन सह **आ** **गतम्** ॥ गमेर्लोटि छान्दसः शपो लुक् । अनुदात्तोपदेश' इति अनुनासिकलोपः । लुङि च ' मन्त्रे घस' इति च्लेर्लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -184,14 +184,14 @@ genre M
 Precedence is given to Vāyu; Vāyavāgatam, nominative is in the singular and the verb in the dual; indraśca-āgatam, implying therefore, that one of the two is understood
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The chariot with its team will convey you two here for aid, to pursue the  well-placed pleasurable offerings—o Vāyu, to pursue the oblations.  
 Drink of the honey of the stalk, for the first drinking was established for  you two.  
 O Vāyu, you two come here with shimmering bounty—and Indra, you  two come here with bounty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vā́yav índraś ca construction here unfolds over two pādas.
 
@@ -206,24 +206,24 @@ As indicated in the published introduction, this tṛca is constructed in parall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The chariot with its team of horses bring you both, to guard us and to taste the well-appointed food, Vayu, to taste the offerings!  
      Drink of the pleasant-flavoured juice: the first draught is assigned to you.  
      O Vayu, with your splendid bounty come ye both, Indra, with bounty come ye both.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide soll der mit den Niyut bespannten Wagen herfahren zur Gunst, um die wohlbereiteten Labetränke zu genießen, o Vayu, um die Opfergaben zu genießen. Trinkt beide vom süßen Trank, denn euch ist der Ersttrunk bestimmt! Vayu und Indra, kommt mit blinkender Ehrengabe her, kommt mit der Ehrengabe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch fahr der vielbespannte Wagen zum Genuss, zu diesen aufgetragnen Speisen hin zum Mahl, o Vaju, zu dem Opfermahl; Trinkt beide von dem süssen Kraut; denn erster Trunk ist euch geweiht, O Vaju, Indra, kommt mit reicher Gabe her, mit reicher Gabe kommt herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да привезет вас двоих колесница с упряжками (нам) на помощь,  
 Хорошо расставленные жертвенные услады чтобы вкушать,  

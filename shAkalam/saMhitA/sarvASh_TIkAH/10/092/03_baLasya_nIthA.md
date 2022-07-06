@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब꣡ळ् अस्य नीथा꣡ वि꣡ पणे꣡श् च मन्महे  
 वया꣡ अस्य प्र꣡हुता आसुर् अ꣡त्तवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡ज् ज꣡नस्य दइ꣡वियस्य चर्किरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 य॒दा । घो॒रासः॑ । अ॒मृ॒त॒ऽत्वम् । आश॑त । आत् । इत् । जन॑स्य । दैव्य॑स्य । च॒र्कि॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *baḍ* ← *baṭ*
 - \[adverb\]
@@ -130,36 +130,36 @@ genre M
 **विपणेः** अस्माभिर्विविधं पणितव्यस्य स्तुत्यस्याग्नेः **नीथा** नीथान्यस्मत्संबन्धीनि प्रज्ञानानि **बट्** सत्यानि स्युरिति **मन्महे** वयं कामयामहे । किंच **अस्य** अग्नेः **वयाः** अस्मदीया अन्नाहुतयः **अत्तवे** भक्षणाय **प्रहुताः** **आसुः** भवेयुरिति कामयामहे । किंच **यदा** यस्मिन् काले **घोरासः** घोराः अग्नेर्ज्वाला: **अमृतत्वम्** अविनाशित्वम् **आशत** प्राप्नुवन्ति **आदित्** अनन्तरमेवास्माकमृत्विजः **दैव्यस्य** देवेषु भवस्य **जनस्य** अग्नेरर्थाय **चर्किरन्** किरेयुः। अग्नौ हवींषि प्रक्षिपेयुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We desire that our notion of that adorable (**Agni**) may be true, and that our oblations may be to him forfood. When his formidable (flames) attain immortality, then may our priests scatter (oblations for the benefit) ofthe divine being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yes indeed! we discriminate between his counsels and those of a niggard.  Twigs have been bepoured for his eating.  
 When the fearsome ones [=Aṅgirases] reached immortality, just after  that did they pay tribute to the divine race.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, we discriminate his and the niggard's ways: his branches evermore are sent forth to consume.  
      When his terrific flames have reached the Immortal's world, then men remember and extol the Heavenly Folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrhaftig, wir wissen zwischen seinen Weisen und denen des Pani zu unterscheiden. Zweige wurden ihm zum Essen geopfert. Als die Furchtgebietenden die Unsterblichkeit erlangt hatten, da gedachten sie rühmend des göttlichen Volkes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sondern traun sein Wesen und des Geizigen, begossen waren seine Aeste zum Genuss; Als die erhabnen drangen zur Unsterblichkeit, da, da gedachte rühmend man des Göttervolks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

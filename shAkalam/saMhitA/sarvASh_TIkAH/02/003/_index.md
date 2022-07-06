@@ -8,7 +8,7 @@ title = "+003"
 ' समिद्धो अग्निः ' इत्येकादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभम् । सप्तमी जगती । समिद्धोऽग्निरग्निना नराशंसतनूनपादादय एकादश प्रयाजदेवताः । ' समिद्ध एकादशाप्रं सप्तमी जगती ' इत्यनुक्रमणिका । पशौ शुनकानामिदमाप्रीसूक्तम् । गृत्समदस्यापि शुनकत्वात् । ' समिद्धो अग्निरिति शुनकानाम् ' ( आश्व. श्रौ. ३.२) इति हि सूत्रितम् ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3 (194)  
 Āprı̄  
@@ -18,7 +18,7 @@ This is one of the ten so-called Āprī hymns in the R̥gveda, a litany recited 
 sitional techniques. This version is somewhat fuller and verbally richer than most,  encouraged by the relatively capacious measures of triṣṭubh meter. For a minimalist  version, see I.13.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Āprī
 </details>

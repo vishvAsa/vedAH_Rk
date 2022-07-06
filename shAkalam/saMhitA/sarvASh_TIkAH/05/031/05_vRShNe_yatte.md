@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡ष्णे य꣡त् ते वृ꣡षणो अर्क꣡म् अ꣡र्चान्  
 इ꣡न्द्र ग्रा꣡वाणो अ꣡दितिः सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रेषिता अभ्य् अ꣡वर्तन्त द꣡स्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्र॑ऽइषिताः । अ॒भि । अव॑र्तन्त । दस्यू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
@@ -129,21 +129,21 @@ genre M
 हे **इन्द्र** **यत्** यदा **वृषणः** सेचनसमर्था मरुतः **वृष्णे** कामानां वर्षित्रे **ते** तुभ्यम् **अर्कं** स्तोत्रम् **अर्चान्** अस्तुवन् अकुर्वन्नित्यर्थः । तदा **अदितिः** अदीनाः ॥ वचनव्यत्ययः ॥ **ग्रावाणः** अभिषवपाषाणाः **सजोषाः** संगता बभूवुरिति शेषः । **अनश्वासः** अश्ववर्जिताः **अरथाः** रथहीनाः **इन्द्रेषिताः** इन्द्रेण प्रेषिताः **पवयः** पवमाना गच्छन्तः **ये** मरुतः **दस्यून्** शत्रून् **अभ्यवर्तन्त** अभिभूतान् कुर्वन्तो वर्तन्ते स्म ते मरुतोऽर्चानिति संबन्धः ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **Maruts**, the showerers (of benefits), glorify you, **Indra**, the showerer (of desires), with praises, and the exulting stones delight (to bruise the **Soma**), then, without horses, without chariots, they, the purifying (Maruts), dispatched by Indra, have overcome the **Dasyus**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When for you the bull, o Indra, the bulls and the pressing stones will  chant a chant, with Aditi in concord—  
 the (pressing stones like) wheel-rims which, (even) without horses,  
 without chariots, but impelled by Indra, rolled over the Dasyus—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike 4a where I separate the identically positioned enclitic gen. from the following instr., I do take asya here with krátubhiḥ, which, unlike svadháyā, is frequently found with a gen. With Geldner I think the referent is Indra (contra Witzel Gotō, who take it to be Vṛtra-Śuṣṇa).
 
@@ -171,23 +171,23 @@ Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt”
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When heroes sang their laud to thee the Hero, Indra! and stones and Aditi accordant,  
      Without or steed or chariot were the fellies which, sped by Indra, rolled upon the Dasytis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als dir, dem Bullen, die Bullen, o Indra, den Lobgesang anstimmten, da waren die Preßsteine, die Aditi einverstanden, welche Steine wie Radschienen von Indra entsandt, ohne Roß und Wagen auf die Dasyu´s losgingen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der Saftstrom, Da rollten Räder ohne Ross und Wagen beeilt von Indra über alle Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда тебе, быку, быки пропели песнопения,  
 Давильные камни, о Индра, (и) Адити (были) единодушны.  

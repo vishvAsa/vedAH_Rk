@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हर्य꣡न्न् उष꣡सम् अर्चयः  
 सू꣡र्यं हर्य꣡न्न् अरोचयः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र वि꣡श्वा अभि꣡ श्रि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒द्वान् । चि॒कि॒त्वान् । ह॒रि॒ऽअ॒श्व॒ । व॒र्ध॒से॒ । इन्द्र॑ । विश्वा॑ । अ॒भि । श्रियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haryann* ← *haryan* ← *hary*
 - \[verb noun\], nominative, singular
@@ -104,42 +104,42 @@ genre M
 हे **इन्द्र** **हर्यन्** सोमं कामयमानस्त्वम् **उषसम्** उषःकालम् **अर्चयः** पूजयसि । तथा **हर्यन्** उदिते सूर्ये सोमं कामयमानस्त्वं **सूर्यम्** **अरोचयः** दीपयसि । हे **हर्यश्व** इन्द्र “ विद्वान् एतत्सर्वं जानानः **चिकित्वान्** अस्मदभिलषितफलविषयज्ञानवांस्त्वं **विश्वाः** सर्वाः **श्रियः** नः संपदः **अभि** **वर्धसे** अभिमतफलप्रदानेनाभितो वर्धयसि । चिकित्वान् । ' कित ज्ञाने इत्यस्य क्वसौ रूपम् । प्रत्ययस्वरः । वर्धसे । **वृधु** वर्धने' इत्यस्य अन्तर्भावितण्यर्थस्य लटि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring (the **Soma**), you honour the dawn; desirng the Soma, yu have lighted up the sun; knowing and discriminating (all our wishes), lord of the tawny steeds, you augment upon us all (sorts of) prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being glad, you made the dawn beam; being glad, you made the  
 sun shine.  
 Knowing, observant, you wax strong over all the beauties, o Indra of the  golden horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two pāda-final -áya-causatives, arcayaḥ (a) and arocayaḥ (b), are also near phonological matches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In love thou madest Usas glow, in love thou madest Surya shine.  
      Thou, Indra, knowing, thinking, Lord of Tawny Steeds, above all glories waxest great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gern hast du die Morgenröte erstrahlen, gern die Sonne leuchten lassen. Mit Wissen und Bedacht wächst du goldrossiger Indra über alle Herrlichkeiten hinaus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast das Frühroth hold entflammt, den Soma hold in Glut gesetzt, Mit goldnen Rossen, Indra, weise voll Verstand erhebst du dich zu allem Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желая, ты зажег утреннюю зарю,  
 Солнце ты зажег, желая.  

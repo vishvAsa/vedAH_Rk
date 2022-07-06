@@ -8,7 +8,7 @@ title = "+063"
 त्वं महान्' इति नवर्चं षष्ठं सूक्तं नोधस आर्षं त्रैष्टुभमैन्द्रम् । अनुक्रम्यते च--त्वं नव ' इति । समूळ्हे दशरात्रे द्वितीये छन्दोमे मरुत्वतीयशस्त्रे एतत्सूक्तम् ।  ‘ विश्वजितोऽग्निं नरः' इति खण्डे सूत्रितं - तां सु ते कीर्तिं त्वं महाँ इन्द्र यो ह ' ( आश्व. श्रौ. ८.७ ) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 63  
 Indra  
@@ -19,7 +19,7 @@ The tone of the hymn also differs from the two previous ones: it is far more  ma
 mary verse applicable to the “Fallow-bay-yoking” oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

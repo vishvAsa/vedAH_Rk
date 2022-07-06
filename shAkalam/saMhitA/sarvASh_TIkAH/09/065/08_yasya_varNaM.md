@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य व꣡र्णम् मधुश्चु꣡तं  
 ह꣡रिं हिन्व꣡न्ति अ꣡द्रिभिः  
 इ꣡न्दुम् इ꣡न्द्राय पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दु॑म् । इन्द्रा॑य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अध्वर्य्वादयः **वर्णं** शत्रूणां वारकम् । येनासौ पीयते तेन मत्तेन शत्रवः संप्रहार्यन्त इति शत्रुनिवारणसमर्थम् । **मधुश्चुतं** मधुररसस्य च्यावयितार **हरिं** हरितवर्णम् **इन्दुम्** । इन्धेरेतद्रूपमत्रेष्यते । सर्वतो दीप्यमानम्।' उन्दी क्लेदने ' इत्यस्माद्वा । अभिषवानन्तरं पात्रेषु क्षरणशीलम् । **यस्य** सोमस्य तव कारणमंशुम् **अद्रिभिः** **हिन्वन्ति** प्रेरयन्ति । अभिषुण्वन्तीत्यर्थः। **इन्द्राय** **पीतये** इन्द्रस्य पानाय । तदर्थमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(That **Soma**) whose juice they squeeze out with the stones, foe-repelling, honey-dropping, green-tinted, for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him whose tawny hue, dripping with honey, they impel (like) a fallow  bay with the stones,  
 the drop for Indra to drink,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of the first hemistich is somewhat tricky. The rel. yásya must refer to soma, with the rel. cl. hanging off vs. 7. In pāda a the yásya qualifies várṇam ‘color’, which serves as obj. of hinvánti in b. “They impel his color” is a slightly odd locution, and it becomes odder in b, with the acc. hárim. The stem hári- is a color term and could qualify várṇa- (“tawny color”), but it also is regularly applied directly to soma (e.g., in vss. 12 and 25 of this hymn) and also identifies Indra’s horse(s). Geldner (n. 8b) cleverly suggests that hári- is to be read twice, with the second reading an unmarked simile referring to a horse of the appropriate color. This provides a more appropriate obj. for hinvánti (“they impel (like) a fallow bay (horse)”), while connecting the putative horse with the “tawny color” (várṇam … hárim) that is the 1st obj. of the verb.
 
@@ -104,23 +104,23 @@ Again no signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose coloured sap they drive with stones, the yellow meath-distilling juice,  
      Indu for Indra, for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen honigtriefende Farbe sie wie einen Falben mit den Steinen in Fluß bringen, den Saft für Indra zum Trunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess helle Flut von Honig trieft, dess Ross sie spornen durchs Gestein, Zum Trunk dem Indra, Indu ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

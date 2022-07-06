@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईं र꣡थो न꣡ भुरिषा꣡ळ् अयोजि  
 महः꣡ पुरू꣡णि सात꣡ये व꣡सूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡वर्षाता व꣡न ऊर्ध्वा꣡ नवन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आत् । ई॒मिति॑ । विश्वा॑ । न॒हु॒ष्या॑णि । जा॒ता । स्वः॑ऽसाता । वने॑ । ऊ॒र्ध्वा । न॒व॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 **स** **ईं** सोऽयं सोमः **भुरिषाट्** भूरिभारस्य सोढा **रथो** **न** रथ इव भुरिषाट्  प्रभूतस्य भारस्य सोढा **अयोजि** युज्यते । कीदृशः सः । **महः** महान् । किमर्थमयोजि । **पुरूणि** बहूनि **वसूनि** धनानि **सातये** अस्मभ्यं दातुम् । **आदीं** योगानन्तरं **विश्वा** विश्वानि सर्वाणि नहुष्याणि । नहुषो मनुष्याः । तेषां संबन्धीनि **जाता** जातान्यस्मद्विरोधीनि **ऊर्ध्वा** उन्मुखानि **वने** वननीये **स्वर्षाता** स्वर्षातौ । संग्रामनामैतत् । स्वर्गलाभयुक्ते संग्रामे **नवन्त** गच्छन्तु । नवतिर्गतिकर्मा । यद्वा। सोमं संग्रामे युद्धार्थिनः संगच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ After this: i.e., after harnessing of the wagon. **ūrdhvā** = asmād virodhād
 Svarṣātā = locative of svarṣāti, 'that which is fitted for the attainment of heaven, i.e., battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It has been yoked, like a chariot that conquers much, as the great one to  win many goods.  
 Therefore, all creatures stemming from Nahus, standing upright beside  the wood(en cup), roar at him at the winning of the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 kavyaíḥ... nahuṣyèbhiḥ, where it refers to poets. That interpr. would fit the context here as well, since the Nahusian creatures are roaring at the soma on the ritual ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a capacious car hath it been harnessed, the Mighty; to acquire abundant treasures.  
      Then in the sacrifice they celebrated all triumphs won by Nahus -n the battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ward wie ein vielbezwingender Streitwagen angeschirrt, der Große, um viele Schätze zu gewinnen. Dann schreien ihm alle nahusischen Geschlechter zu im Kampf um das Sonnenlicht, bei der Holzkufe aufrecht stehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vielfassend wie ein Wagen ist geschirrt er, der grosse, viele Güter zu gewinnen, Nun mögen zu ihm aller Menschen Stämme zur Glückserlangung nahn wie Bäume ragend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это он был запряжен как колесница, покоряющая многих,  
 Великий, для захвата многих благ.  

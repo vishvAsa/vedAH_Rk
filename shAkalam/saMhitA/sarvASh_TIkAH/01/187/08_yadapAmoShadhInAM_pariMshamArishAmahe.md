@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अपा꣡म् ओ꣡षधीना᳐म्  
 परिंश꣡म् आरिशा꣡महे  
 वा꣡तापे पी꣡व इ꣡द् भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वाता॑पे । पीवः॑ । इत् । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **यत्** येन **अपामोषधीनां** संबन्धि **परिंशं** परिलेशं परितः सुखकरमन्नम् **आरिशामहे** आस्वादयामः भक्षयामः तेन अन्नोदकसारेण हे **वातापे** । वातेन प्राणेन आप्नोति स्वनिर्वाहमिति वातेनाप्यायत इति वा वातापि शरीरम् । हे शरीर त्वं **पीव** **इत्** आप्यायित एव **भव** । अन्नोदकाभ्यां शरीरवृद्धिः प्रसिद्धा । यद्वा । यद्यपि अपामोषधीनां परिंशं लेशमास्वादयामः तथापि हे वातापे वातवत्सर्वव्यापक पितो त्वम् अल्पमपि पीवः पीवानेव भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,33 +92,33 @@ genre M
 Vātāpe pīva id **bhava**: **vātāpi** = **śarīra**, that which is sustained by vitality, **vāta**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we bite off a full share of the waters and plants,  
 o you friend of the winds—become just the fat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pariṃśám is a hapax, and as Mayr. points out, its proximity to phonologically similar āriśāmahe suggests that it’s an Augenblicksbildung, perhaps as a blend of pári and áṃśa- ‘portion’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever morsel we consume from waters or from plants of earth, O Soma, wax thou fat thereby.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir den Rahm der Wasser, der Pflanzen kosten, dann werde uns, du Freund des Vata zu Speck.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir der Kräuter schönsten Theil und der Gewässer an uns ziehn, Dann werde fett, du schwellender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если мы отведаем лучшее (?).  
 (Что есть) у вод, у растений,  

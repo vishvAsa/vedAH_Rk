@@ -8,7 +8,7 @@ title = "+099"
 ‘कं नः' इति द्वादशर्चं नवमं सूक्तं वैखानसस्य वम्रस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रान्तं – कं नो वम्रो वैखानसः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 99 (925)  
 Indra  

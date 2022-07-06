@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ पवा꣡ पवस्वैना꣡ व꣡सूनि  
 माँश्चत्व꣡ इन्दो स꣡रसि प्र꣡ धन्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरुमे꣡धश् चित् त꣡कवे न꣡रं दात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब्र॒ध्नः । चि॒त् । अत्र॑ । वातः॑ । न । जू॒तः । पु॒रु॒ऽमेधः॑ । चि॒त् । तक॑वे । नर॑म् । दा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -132,7 +132,7 @@ genre M
 हे सोम अया अनया पवा पवमानया धारया सह एना एनानि वसूनि धनानि पवस्व क्षर । पवा पूङ्पवने अन्येभ्योदृश्यन्तइतिविच् प्रत्ययः आर्धधातुकलक्षणोगुणः सावे- काचइतितृतीयायाउदात्तत्वम् । तथा हेइन्दो तथा त्वं मांश्चत्वे मन्यमानानां चातके सरसि उदके वसतीवर्याख्ये प्रधन्व प्रगच्छ । ततः अत्र अस्मिन् सोमे पूयमानेसति ब्रध्नः चित् सर्वेषां प्रज्ञापकः मूलभूतोवा आदित्योपि वातोन वातइव जूतः वेगितःसन् किञ्च पुरुमे- धः चित् बहुविधयज्ञइन्द्रश्चित् इन्द्रोपि तकवे तकतिर्गतिकर्मसुपठितः अस्मादौणादिकऊन् प्रत्ययः सोममभिगच्छते स्तुतिभिः मह्यं नरं कर्मनेतारं पुत्रं दात् प्रयच्छतु हेसोम त्वया तर्पितौ सन्ताविन्द्रादित्यौ मह्यं पुत्रं प्रयच्छता मित्यर्थः ॥ ५२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ Advance to the brown water: māṃścatva = manyamānānām cātake, 'scaring aw
 Badhraḥ = the illuminator of all or the root of all--the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By purifying yourself with this purification bring goods here in this way.  O drop, at (the time of) the hiding of the moon [=early morning] run  forth into the lake.  
 The copper-colored (Sun/Fire), sped like the wind, is also there. The  very wise one [=Soma?] also gives (to us) the superior man [=Indra?]  to make the charge.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The tṛca begins deceptively straightforwardly, with a call to Soma to purify himself and bring goods. The pāda-final vásūni concatenates with the one ending 51a. Given this acc. with pávasva we must assume the idiom ā́pavasva ‘bring ACC through your purification.” The preverb ā́may be concealed in one of the accented final long ā́-s in the pāda, most likely pavā́, which can be pavā́+ ā́, putting the preverb in the standard position right before the verb, or enā́. Or perhaps, if enā́ is adverbial in the meaning ‘here’ (so Grassmann, s.v. enā́, col. 300; AiG III.524-25), it takes the function of ā́in this lexeme. However, I am inclined, with Sāyaṇa. (see Geldner’s n. 52a), to take enā́as an aberrant neut. pl. with vásūni - hence ‘these goods’. See AiG III.525, which hesitatingly allows the poss. of neut. pl. elsewhere.
 
@@ -174,23 +174,23 @@ The simplistic repetition of the previous tṛca contrasts markedly with the con
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour forth this wealth with this purification: flow onward to the yellow lake, O Indu.  
      Here, too, the Ruddy, wind-swift, full of wisdom, Shall give a son to him who cometh quickly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch diese Läuterung läutere uns die genannten Güter her, rinne in den Mamscatva-See, o Saft! Auch ein Bradhnaroß sei darunter, rasch wie der Wind; auch möge der weisheitsvolle Soma dem Renner einen Herrn geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem Lichtstrom flamme Güter her uns, zum See lauf Indu wenn der Mond erbleichet; Das Flammenross, hier gleich dem Wind beflügelt, das reiche gab dem emsigen den Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся этим очищением, (давая) эти блага,  
 Теки вперед, о сок сомы, в озеро Маншчатва!  

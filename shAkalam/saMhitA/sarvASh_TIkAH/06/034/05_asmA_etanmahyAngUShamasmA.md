@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्मा एत꣡न् म꣡हि आङ्गूष꣡म् अस्मा  
 इ꣡न्द्राय स्तोत्र꣡म् मति꣡भिर् अवाचि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो विश्वा꣡युर् अविता꣡ वृध꣡श् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अस॑त् । यथा॑ । म॒ह॒ति । वृ॒त्र॒ऽतूर्ये॑ । इन्द्रः॑ । वि॒श्वऽआ॑युः । अ॒वि॒ता । वृ॒धः । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -122,20 +122,20 @@ genre M
 **अस्मै** इन्द्राय **महि** महत् **एतत्** **आङ्गूषं** स्तोत्रं **मतिभिः** स्तोतृभिः **अवाचि** उक्तमभूत् । **अस्मा** **इन्द्राय** **स्तोत्रम्** इति पुनरुक्तिरादरार्था । **विश्वायुः** सर्वत्र गन्ता सः **इन्द्रः** **महति** प्रभूते **वृत्रतूर्ये** संग्रामे **यथा** येन प्रकारेणास्माकम् **अविता** रक्षकः **वृधः** वर्धयिता **च** **असत्** भवेत् तथावाचीत्यन्वयः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To this **Indra** has this earnest eulogy been addressed by the devout, in order that the all-pervading Indra may be our defender and exalter in the great conflict with (our) foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is (weal) for him: a great song for him, a praise hymn for Indra has  been spoken through our composed thoughts,  
 so that, in the great overcoming of Vr̥tra [/obstacles], Indra will be our  lifelong helper and strengthener.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The balance and reciprocity between god and worshipers evident earlier in the hymn also characterizes its ending. The last thing said about Indra is that he is our ‘strengthener’ (vṛdháḥ 5d), just as our offerings, both material and verbal, have strengthened him (vardháyantīḥ 3b, vāvṛdhuḥ 4d).
 
@@ -160,23 +160,23 @@ In c the phrase (abhí) sáṃ yád ā́paḥ “when the waters con(verge) (on 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him this mighty eulogy, to Indra hath this our laud been uttered by the poets,  
      That in the great encounter with the foemen, Loved of all life, Indra may guard and help us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm ist das recht: Ein hoher Lobgesang ward ihm, ein Preislied mit Bedacht dem Indra vorgetragen, auf daß Indra in der großen Feindeschlacht ein lebenslänglicher Helfer und Förderer sei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesungen ist ihm dieses grosse Preislied, der Lobgesang dem Indra mit Gebeten, Damit im grossen Kampf mit Feinden Indra der Helfer sei, alllabender Beschützer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ему это (на благо): великое хвалебное пение этому  
 Индре, прославление вместе с молитвами было исполнено,  

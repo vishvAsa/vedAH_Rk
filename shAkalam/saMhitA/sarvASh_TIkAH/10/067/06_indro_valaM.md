@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो वलं꣡ रक्षिता꣡रं दु꣡घानां  
 करे꣡णेव वि꣡ चकर्ता र꣡वेण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रोदयत् पणि꣡म् आ꣡ गा꣡ अमुष्णात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्वेदा॑ञ्जिऽभिः । आ॒ऽशिर॑म् । इ॒च्छमा॑नः । अरो॑दयत् । प॒णिम् । आ । गाः । अ॒मु॒ष्णा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **इन्द्रः** ईश्वरो बृहस्पतिः **दुघानां** क्षीरस्य दोग्ध्रीणां गवां **रक्षितारं** **वलम्** असुरं **करेणेव** सायुधकर इव स्थितेन **रवेण** शब्देन वलं **वि** **चकर्त** विचिच्छेद । किंच **स्वेदाञ्जिभिः** । स्वेदाञ्जयो मरुतः क्षरदाभरणाः । तैः सह **आशिरम्** आश्रयणं संयोगम् **इच्छमानः** कामयमानः सः **पणिं** वलस्थानुचरमेतन्नामानमसुरम् **अरोदयत्** व्यनाशयत् । ततस्तेनापहृताः **गाः** **अमुष्णात्** आजहार ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,28 +126,28 @@ genre M
 Shining with person iration: dripping ornaments, or having streaming ornaments,kṣaradābharaṇaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra cut apart Vala, the guard over the milkers, with a roar like a tool. Seeking the milk-mixture with (his comrades) anointed with sweat, he  made the niggard wail: he stole the cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As with a hand, so with his roaring Indra cleft Vala through, the guardian of the cattle.  
      Seeking the milk-draught with sweatshining comrades he stole the Pani's kine and left him weeping.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat den Vala, den Bewacher der Milchkühe, durch sein Gebrüll wie mit der Hand zerschnitten. Mit den Schweißbetupften die Milch suchend brachte er den Pani zum Weinen; er raubte seine Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra zerbrach mit Krachen die Höhle, welche die Milchkühe verschloss, wie mit der Faust, und mit den schweisstriefenden Genossen die Zumischung der Milch begehrend, versetzte er den Paṇi in Trauer und raubte ihm die Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Валу, хранителя дойных коров, Индра  
 Ревом (своим) разрубил на куски, словно рукой.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः प꣡रिज्मा त꣡नयस्य मज्म꣡ना  
 द्विमाता꣡ तूर्षु꣡ तर꣡णिर् विभू꣡षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । त्रि॒ऽमन्तुः॑ । अभ॑वत् । वि॒ऽच॒क्ष॒णः । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -116,7 +116,7 @@ genre M;; repeated line
 **परिज्मा** परितो गन्ता वायुः **तनयस्य** आत्मीयस्य पुत्रस्याग्नेः । अग्निर्हि व्यानवृत्त्यात्मना वर्तमानेन वायुना मथ्यमानः सन् जायते । तथा च श्रूयते-' अथ यः प्राणापानयोः संधिः स व्यानः। अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोति ' ( छा. उ. १. ३. ३; ५) इति । यद्वा । सृष्ट्यादौ वायुसकाशादुत्पन्नत्वादग्नेः पुत्रत्वम् । आम्नायते च-’वायोरग्निः' ( तै. आ. ८. १ ) इति । एवं स्वपुत्रस्याग्नेः **मज्मना** बलेन युक्तः सन् **द्विमाता** द्वयोर्लोकयोः निर्माता । अग्निः पृथिवीस्थानो वायुरन्तरिक्षस्थानः । उभयर्मिलितयोः उभयनिर्मातृत्वमुपपन्नम् । यद्वा । द्विमातेति तनयस्य विशेषणम् । ‘सुपां सुलुक् । इति षष्ठ्याः सुः । द्विमातृकस्य द्वाभ्यामरणिभ्यां जातस्य। एवंभूतो वायुर्हे अश्विनौ **याभिः** ऊतिभिः हेतुभूतैः पालनैः **तूर्षु** तरीतृषु धावत्सु मध्ये **तरणिः** अतिशयेन तरीता शीघ्रगामी 'विभूषति विभवति व्याप्तो भवति । यद्वा । विशेषेण सर्वमलंकरोति । अपि च ”त्रिमन्तुः त्रयाणां मन्ता त्रिविधेषु पाकयज्ञहविर्यज्ञसोमयज्ञेष्वासादितज्ञानः कक्षीवान् **याभिः** युष्मदीयाभिरूतिभिः **विचक्षणः** विशिष्टज्ञानयुक्तः **अभवत्** । **ताभिः** सर्वाभिः **ऊतिभिः** अस्मानागच्छतम् ॥ परिज्मा । परिपूर्वात् अज गतिक्षेपणयोः' इत्यस्मात् ‘श्वन्नुक्षन् ' इत्यादौ निपात्यते । तूर्षु । ‘तॄ प्लवनतरणयोः । ‘बहुलं छन्दसि ' इति उत्वम् । हलि च ' इति दीर्घः । यद्वा । त्वरतेः क्विप् । ज्वरत्वर' इत्यादिना वकारोपधयोः ऊठ् । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । विभूषति । भवतेर्लेटि अडागमः । ‘सिब्बहुलं लेटि' इति सिप् । यद्वा । ‘भूष अलंकारे'। भौवादिकः । विचक्षणः । ‘अनुदात्तेतश्च हलादेः' इति युच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M;; repeated line
 Endowed with the vigour of his son: **Agni** is the son of Va-yu; vāyor-**agniḥ** (**Taittirīya** **Āraṇyaka** 8.1), either as genitive rated, in the character of digestive warmth, by the vital airs, or as having been excited into flame by the wind at the time of creation; Measurer of the two world: dvīmātṛ may relate to the wind inconjunction with Agni, as the occupants of the firmament and the earth, respectively; or, explained as the son of two mothers, or the two sticks used for attrition, and hence, applicable to Agni; Learned in the three kinds of sacrifice: Or, trimantu, acquaintd with the **pāka-yajñas**, or offering sof food; the **havir yajñas**, or oblations of clarified butter, and the **soma yajñas**, or libations of **Soma**. Trimantu = Kakṣīvat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those through which the earth-encircler [=Wind] is distinguished in the  might of his extension, through which he of two mothers [=Agni] is  distinguished, transiting in his transits,  
 through which the wide-gazing one [=Soma] became of triple thought— with those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, this verse seems to display extended double reference between three gods associated with the morning pressing and the Aśvins’ chariot, an association produced by shared epithets, though I must admit that there are many loose ends in this interpretation. See also Renou’s n.
 
@@ -148,23 +148,23 @@ Note that there is an implicit numerical ordering of the subjects of the three p
 In sum, although the vocabulary of this verse has tantalizing resonances with other passages and although I am fairly certain there is a pervasive double meaning, I do not feel I (or anyone else) has entirely “cracked” this verse. The tack taken by Geldner (/Witzel Gotō) of simply taking Parijman, Dvimātar, and Trimantu as PNs is the easy way out but does not advance the interpretation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The aids wherewith the Wanderer through his offspring's might, or the Two-Mothered Son shows swiftest mid the swift;  
      Wherewith the sapient one acquired his triple lore,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Parijman durch die Größe der Nachkommenschaft und Dvimatri in den Wettkämpfen siegreich sich hervortut, durch die Trimantu hellsehend ward - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die der Himmelswandrer mit des Sehers Macht, der zwiegeborne siegreich sich in Schlachten zeigt, Durch die Trimantu reiche Einsicht sich erwarb, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) Париджман выделяется благодаря обилию потомства  
 (И) Двиматар, победоносный в состязаниях,  

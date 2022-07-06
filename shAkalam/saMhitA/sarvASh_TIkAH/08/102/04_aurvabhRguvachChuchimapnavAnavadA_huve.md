@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 और्वभृगुव꣡च् छु꣡चिम्  
 अप्नवानव꣡द् आ꣡ हुवे  
 अग्निं꣡ समुद्र꣡वाससम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । स॒मु॒द्रऽवा॑ससम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aurvabhṛguvac* ← *aurva*
 - \[noun\], masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समुद्रवाससं** समुद्रमध्यवर्तिनं वाडवं **शुचिं** शुद्धम् **अग्निम्** **और्वभृगुवत्** यथा और्वभृगुः **अप्नवानवत्** यथाप्नवानः तथा **आ** **हुवे** आह्वयाम्यहम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,28 +98,28 @@ AurvaBhṛgu: Aurva, the descendant of Bhṛgu (sometimes he is called the son, 
 Apnavāna: mentioned as one of the **Bhṛgus** in RV 4.7.1; dwelling in the midst of the sea:samudravāsasam = samudramadhyavartinām, clothed or hidden by the sea
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like Aurva and Bhr̥gu, like Apnavāna, I call upon the gleaming one, upon Agni, whose garment is the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Aurva Bhrgu used, as Apnavana used, I call the pure  
      Agni who clothes him with the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Aurva und Bhrigu, wie Apnavana rufe ich den reinen Agni her, der sich in das Meer einhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Aurva, Bhrigu rufe ich, wie Apnavāna Agni her, Den lichten, meerumkleideten,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно Аурве и Бхригу, подобно Апнаване,  
 Я призываю чистого  

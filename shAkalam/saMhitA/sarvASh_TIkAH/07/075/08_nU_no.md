@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नो गो꣡मद् वीर꣡वद् धेहि र꣡त्नम्  
 उ꣡षो अ꣡श्वावद् पुरुभो꣡जो अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 मा । नः॒ । ब॒र्हिः । पु॒रु॒षता॑ । नि॒दे । कः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -144,41 +144,41 @@ genre M;; repeated line
 हे **उषः** **नु** **नः** अस्मभ्यं **गोमत्** बहुभिर्गोभिर्युक्तं **वीरवत्** वीरैः पुत्रैरुपेतं **रत्नं** रमणीयं धनं **पुरुभोजः** बह्वन्नं च **अस्मे** अस्मासु **धेहि** देहि । पादभेदादस्मे इति पुनरभिधानम् । **नः** अस्माकं **बर्हिः** यज्ञं **पुरुषता** पुरुषतायां पुरुषसमूहेषु । अस्मत्सदृशेष्वित्यर्थः । **निदे** निन्दायै **मा** **कः** मा कार्षीः । यथा ते निन्दन्ति तथा मा कुर्वित्यर्थः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, Uṣas, wealth, comprising cattle horses, abundant food, and **male** offspring; let not oursacrifice incur reproach among men; and do you (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, o Dawn, establish for us a treasure consisting of cows, of heroes,  and of horses, providing much nourishment to us.  
 Do not put our ritual grass to scorn among men. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since it directly follows vāvaśanta ‘(the cows) keep bellowing (7d)’, nū́no opening the vs. is surely meant to evoke the root √nu ‘bellow, roar’, also used of bovines, with its (pseudo?) intensive (á)nūnot (also nónuv-), though of course it really consists of particle followed by enclitic pronoun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Dawn, now give us wealth in kine and heroes, and horses, fraught with manifold enjoyment.  
      Protect our sacred grass from man's reproaches. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun bring das Kleinod, Usas, in Rindern, in Mannen, in Rossen bestehend, das vielen zugute kommt! Laß unser Barhis nicht vor den Menschen schmähen!-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun gib uns Gut an Rindern reich und Männern, an Rossen und an Nahrung, Morgenröthe, Halt fern von unsrer Streu der Menschen Tadel; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надели нас сокровищами из коров, мужей,  
 Коней, (сокровищем), о Ушас, богатым наслаждениями!  

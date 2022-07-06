@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ मृ꣡षा श्रान्तं꣡ य꣡द् अ꣡वन्ति देवा꣡  
 वि꣡श्वा इ꣡त् स्पृ꣡धो अभि꣡ अश्नवाव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त् सम्य꣡ञ्चा मिथुना꣡व् अभ्य् अ꣡जाव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 जया॑व । इत् । अत्र॑ । श॒तऽनी॑थम् । आ॒जिम् । यत् । स॒म्यञ्चा॑ । मि॒थु॒नौ । अ॒भि । अजा॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -131,20 +131,20 @@ popular
 भोः पत्नि त्वया मया **न** **मृषा** **श्रान्तम्** । व्यर्थं नैव खिन्नमावाभ्याम् । **यत्** यस्मात् **देवाः** **अवन्ति** रक्षन्ति तपोभिः प्रीता देवाः। **विश्वाः** सर्वाः **स्पृधः** **अभ्यश्नवाव** अभितो व्याप्नुयाव । **अत्र** अस्मिन् संसारे **शतनीथम्** अपरिमितभोगप्राप्तिसाधनम् **आजिं** प्राप्तिं परस्परं **जयाव** जयलक्षणं सुरतसंग्रामं वा जयाव। **यत्** यस्मात् **सम्यञ्चा** सम्यक् परस्परं गच्छन्तौ प्रजयन्तौ वा मिथुना **मिथुनौ** स्त्रीपुरुषरूपौ सन्तौ **अभ्यजाव** त्वं चाहमपि परस्परमभिजयावेत्येवं तयोक्तं संभोगं संभावयामास ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Agastya**): Penance has not been practised in vain; since the gods protect us, we may indulge all our desires; in this world we may triumph in many conflicts, if we exert ourselves mutually together.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agastya:] “Not in vain is the labor that the gods help. Let us two take on  all contenders;  
 let us two win here the contest of a hundred stratagems, when as a united  couple we will drive on.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the first two of the three 1st du. subjunctives (b abhy áśnavāva, c jáyāva, d abhy ájāva) as hortatory, with the third, in a subordinate clause, as future in value.
 
@@ -153,23 +153,23 @@ Pāda d has been variously interpreted. The major issue is what (if anything) is
 However, I’m not sure that any object needs to be supplied; the published translation reflects an absolute usage ‘drive on’. Another small issue is the sense of mithunaú. For Insler (Vedic mith, 165), it is used contrastively with samyáñcā: “if we, who are now opposed, shall race on in harmony.” But the standard use of mithunaú to refer to the complementary oppositional halves of a pair, esp. a married couple, makes this otherwise appealing reading less likely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 न मृषा॑ श्रा॒न्तं यदव॑न्ति दे॒वा विश्वा॒ इत्स्पृधो॑ अ॒भ्य॑श्नवाव ।  
 जया॒वेदत्र॑ श॒तनी॑थमा॒जिं यत्स॒म्यञ्चा॑ मिथु॒नाव॒भ्यजा॑व ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht vergeblich ist das Mühen, das die Götter begünstigen. Wir werden es mit allen Nebenbuhlerschaften aufnehmen. Wir wollen hier den Wettlauf mit seinen hundert Ränken gewinnen, wenn wir als vereintes Paar das Schiff steuern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weil die Götter den unterstützen, der sich redlich bemüht, so werden wir beide alle Gegner überwinden; wir werden dann gewinnen den hundert Listen darbietenden Wettkampf, wenn wir zu einem Paar vereinigt sie treiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не напрасно старание, которому содействуют боги.  
 Мы вдвоем выстоим в любых сражениях.  

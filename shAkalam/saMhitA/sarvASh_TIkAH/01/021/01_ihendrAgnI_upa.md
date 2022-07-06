@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहे꣡न्द्राग्नी꣡ उ꣡प ह्वये  
 त꣡योर् इ꣡त् स्तो꣡मम् उश्मसि  
 ता꣡ सो꣡मं सोमपा꣡तमा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ता । सोम॑म् । सो॒म॒ऽपात॑मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihendrāgnī* ← *iha*
 - \[adverb\]
@@ -97,35 +97,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इह** अस्मिन्कर्मणि **इन्द्राग्नी** देवौ **उप** **ह्वये** आह्वयामि **तयोरित्** इन्द्राग्न्योरेव **स्तोमं** स्तोत्रं **उश्मसि** कामयामहे । **सोमपातमा** अतिशयेन सोमं पातुं क्षमौ तौ द्वौ देवौ **सोमं** पिबताम् इति शेषः ॥ इन्द्राग्नी । अत्र देवताद्वन्द्वेऽपि पूर्वपदस्य आनङ् न भवति । तत्र हि द्वन्द्वे इत्यनुवृत्तौ पुनर्द्वन्द्वग्रहणात् लोकप्रसिद्धसाहचर्याणामेव द्वन्द्वे आनङ् इत्युक्तम् (का. ६. ३. २६ )। तस्मात् अत्र अवग्रहे ह्रस्व इन्द्रशब्दः ।  ‘ समासस्य ' इत्यन्तोदात्तत्वम् । ‘देवताद्वन्द्वे च ' ( पा. सू. ६. २. १४१ ) इति उभयपदप्रकृतिस्वरत्वं तु न भवति । अग्निशब्दस्यानुदात्तादित्वेन ‘नोत्तरपदेऽनुदात्तादौ ' ( पा. सू. ६. २. १४२ ) इति प्रतिषेधात् । उश्मसि ।' वश कान्तौ । लटो मस् । ‘इदन्तो मसि' (पा. सू. ७. १. ४६ ) इति इकारोपजनः । अदादित्वात् शपो लुक् । मसेर्ङित्त्वात् ' ग्रहिज्या° ' इत्यादिना संप्रसारणम् । ता सोमपातमा । उभयत्र ‘सुपां सुलक्°' इति आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoke hither **Indra** and **Agni**, to whom we desire to present our praise; let them, who are both copious drinkers of the **Soma** juice, (accept the libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call Indra and Agni here. For those two alone we desire a praise hymn. They are the best soma-drinkers of soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA and Agni I invoke fain are we for their song of praise:  
      Chief Soma-drinkers are they both.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni rufe ich hierher; wir wünschen ihren Lobpreis; die beiden sind die größten Somatrinker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra und Agni ruf' ich her, denn deren Lob begehren wir; Die besten Somatrinker sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда Индру-Агни я призываю.  
 Это их хвалить мы стремимся.  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू᳐꣡ न इ꣡द् धि꣡ वा꣡रियम्  
 आसा꣡ सचन्त सूर꣡यः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 उतइ꣡धि पृत्सु꣡ नो वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ऊर्जः॑ । न॒पा॒त् । अ॒भिष्ट॑ये । पा॒हि । श॒ग्धि । स्व॒स्तये॑ । उ॒त । ए॒धि॒ । पृ॒त्ऽसु । नः॒ । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M;; repeated line
 हे अग्ने **नः** अस्मभ्यं **वार्यं** वरणीयं धनं **नु** क्षिप्रं प्रयच्छ । **इद्धि** इति पूरणौ । यतः **सूरयः** स्तोतारस्त्वत्तः सकाशात् **आसा** आस्येन स्तोत्रेण **सचन्त** धनं लभन्ते । किंच हे **ऊर्जा** **नपात्** अन्नस्य न पातयितः बलस्य पुत्र वा **अभिष्टये** अभीच्छते मह्यमन्नं प्रयच्छेति शेषः । **पाहि** । अस्मानापद्यो   रक्ष । **स्वस्तये** क्षेमाय पश्वादिलक्षणस्य धनस्य क्षेमार्थं **शग्धि** त्वां याचे ॥ व्यत्ययेन मध्यमः ॥ शक्तो भवेति वा । हे अग्ने **उत** अपि च **पृत्सु** पृतनासु **नो** **वृधे** समृद्धये **एधि** भव ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,35 +133,35 @@ genre M;; repeated line
 Be alert for our prosperity: śagdhi svastaye: i.e., yace, I ask for; or, it may mean, śakto **bhava**, be able
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since the desirable reward is now just ours, our patrons follow after the  mouth (of Agni and the poet).  
 O child of nourishment, protect us that we prevail. Be capable that we  have well-being.  
 – And be present to strengthen us in battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, too, the princes shall obtain excellent riches by our lips.  
      Protect us for our welfare: lend thy succour, O thou Son of Strength. Be near in fight to prosper us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Now indeed our liberal lords have manifestly attained 1 treasure. Offspring of vigour! Protect us for the sake of victory! Help us to welfare! And assist us to grow strong in fights i
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So bring uns nun wünschenswertes Gut - die freigebigen Patrone stimmen mit dem Munde zu. Kind der Kraft! Nimm uns in Schutz zur Überlegenheit. Tu, was du kannst, zum Heil und sei uns in den Kämpfen zur Stärkung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So jetzt auch unsre Opferherrn begehren schönes Gut von dir, Beschütz, beschenke sie zum Heil, zum Beistand, o du Sohn der Kraft; Und sei in Schlachten uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Принеси) же нам сейчас избранный дар!  
 (Наши) покровители присоединяются (к этому) через уста (бога).  

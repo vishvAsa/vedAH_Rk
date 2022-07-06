@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवा꣡ ऋतावृ꣡ध  
 ऋतु꣡भिर् हवनश्रु꣡तः  
 जुष꣡न्तां यु꣡जियम् प꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 जु॒षन्ता॑म् । युज्य॑म् । पयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -78,7 +78,7 @@ genre M
 **ऋतावृधः** ऋतस्य यज्ञस्य वर्धकाः **ऋतुभिः** कालविशेषैः **हवनश्रुतः** हवनस्य स्तोत्रस्य श्रोतारः तस्मिंस्तस्मिन् यागकाले स्तूयमाना ईदृशाः **विश्वे** सर्वे **देवाः** **युज्यं** योग्यं **पयः** आमिक्षारूपं **जुषन्तां** सेवन्ताम् । श्रूयते हि - ‘ तप्ते पयसि दध्यानयति सा वैश्वदेव्यामिक्षा' इति ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,12 +91,12 @@ Yuyam **payas**, a mixture of milk and curds, termed **āmikṣā**: cf. tapte p
 Āmikṣā: a mixture of boiled and coagulated milk, curd AV. x, 9, 13 TS. VS. S'Bṛ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let all the gods, strong through truth, hearing the calls in their turns, enjoy the associated milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich here does assay a little figure: ṛtā- ṛtú- across the pāda boundary.
 
@@ -113,23 +113,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May all the Gods who strengthen Law, with Rtus, listening to our call,  
      Be pleased with theit appropriate draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter, die die Wahrheit mehren, die zu ihren Zeiten auf die Ladungen hören, sollen sich die ihnen zukommende Milch schmecken lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den willkommnen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все-Боги, умножающие закон,  
 Слышащие призывы в положенное время,  

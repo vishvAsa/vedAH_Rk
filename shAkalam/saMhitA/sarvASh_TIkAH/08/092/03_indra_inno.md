@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र इ꣡न् नो महा꣡नां᳐  
 दाता꣡ वा꣡जानां᳐ नृतुः꣡  
 महाँ꣡ अभिज्ञु꣡ आ꣡ यमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 म॒हान् । अ॒भि॒ऽज्ञु । आ । य॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -85,7 +85,7 @@ genre M
 **इन्द्र** **इत्** पूर्वोक्तलक्षण इन्द्र एव **नः** अस्मभ्यं **महानां** महतां **वाजानाम्** अन्नानाम् । यद्वा । महानाम् । वर्णव्यत्ययः । मघानां धनानां वाजानामन्नानां च **दाता** भवतु । कीदृशः । नृतुः। ‘नृतिशृध्योः कूः' (उ. सू. १. ९१) इति कूप्रत्ययः । ह्रस्वछान्दसः । सर्वस्य नर्तयिता । यद्वा। ‘नॄ नये । औणादिकस्तुप्रत्ययः। धातोर्हस्वश्छान्दसः । स्तोतृभ्यो गवादिनेता। अत एव **महान्** स इन्द्रः **अभिजु** अभिगतजानुकमस्मभ्यम् **आ** **यमत्** आयच्छतु ददातु । यद्वा स इन्द्रोऽभिज्ञ्वस्मदभिमुखमागच्छद्धनं स्वहस्तयोः परिगृह्यास्मान्नयतु । धनं यत्वास्मभ्यं ददात्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,14 +96,14 @@ genre M
 Who causes all to rejoice: nṛtuḥ = nartayitā, he who causes all to dance; RV 2.22.4;bringer (**neta**) of kine to your votaries
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s Indra who is the giver to us of great prizes, the dancer.  
 The great one, in a crouch [=driving posture], will guide (the  
 prizes) here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What posture abhijñú designates is not clear. Geldner thinks it involves bending the knees and sinking down, Scarlatta (345) that Indra crouches down because he is so large. I think rather that, as in I.37.10, it indicates a slightly crouching position, with knees bent, for driving a chariot (note I.37.10 abhijñú yā́tave “abhijñu to drive”), in this case to bring the prizes to us. The word nṛtúḥ ‘dancer’ at the end of b is suggestive, so that abhijñu might instead, or also, be a dancing posture.
 
@@ -118,23 +118,23 @@ What posture abhijñú designates is not clear. Geldner thinks it involves bendi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra the Dancer be to us the giver of abundant strength:  
      May he, the mighty, bring it near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, der Vortänzer, ist uns ein Geber großer Belohnungen; der Große möge sie reichen, indem er sich in die Kniee läßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja Indra, er, der grosse Fürst, sei grosser Schätze Spender uns Und thürm bis an das Knie sie auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

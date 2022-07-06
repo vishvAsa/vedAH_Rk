@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नइ꣡ता꣡वद् अन्ये꣡ मरु꣡तो य꣡थेमे꣡  
 भ्रा꣡जन्ते रुक्मइ꣡र् आ꣡युधैस् तनू꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समान꣡म् अञ्जि꣡ अञ्जते शुभे꣡ क꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । रोद॑सी॒ इति॑ । वि॒श्व॒ऽपिशः॑ । पि॒शा॒नाः । स॒मा॒नम् । अ॒ञ्जि । अ॒ञ्ज॒ते॒ । शु॒भे । कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *naitāvad* ← *na*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **इमे** ईदृशाः **मरुतः** **यथा** यत्परिमाणं धनादिकं ददति **अन्ये** मरुद्व्यतिरिक्ता देवाः **एतावत्** धनादिकं **न** दद्युरित्यर्थः । ते च **रुक्मैः** रोचमानैराभरणैः **आयुधैः** स्वकीयास्त्रैः **तनूभिः** आत्मीयैः केवलैरङ्गैश्च **भ्राजन्ते** सर्वदा भासन्ते । कश्चिदेकवाक्यतामाह। यथेमे मरुतो रुक्मादिभिर्भ्राजन्ते नैतावदेतद्व्यतिरिक्ता भ्राजन्त इति । अपि च **रोदसी** द्यावापृथिव्यौ **पिशानाः** प्रकाशयन्तः **विश्वपिशः** व्याप्तदीप्तय एवंभूताः मरुतः **शुभे** शोभायै **समानं** सदृशरूपम् **अञ्जि** आभरणम् **आ** **अञ्जते** स्वकीयावयवेष्वभिव्यक्तीकुर्वन्ति । **कम्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No other (deities give) such (good things) as the **Maruts**, as they shine with brilliant (ornaments),weapons and person ns; illumining heaven and earth, wide-radiating, they heighten their common lustre for (our)good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The others do not glitter like these Maruts here, with their brilliants,  their weapons, their bodies.  
 All adorned, themselves adorning the two world-halves, they smear a  common unguent on themselves for beauty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes anyé with marútaḥ: “Nicht glänzen andere Marut so sehr wie diese …” But both the position of yáthā, which in its simile-marking role should follow the first term of the simile, and common sense (who would the other Maruts be?) strongly suggest that anyé refers to a group separate from the Maruts. By my rules anyé should be definite, and I think Renou is correct in supplying ‘gods’. This would make sense in a ritual context: the other divine visitors at the ritual (save for Indra) are pretty drab compared with the Maruts.
 
@@ -152,23 +152,23 @@ The middle part. piśāná- is an isolated form: the only apparent attestation o
 tr. Oldenberg suggests several other possible relations (see also Renou’s n.), including that ródasī might be an internal / Inhalts-type of acc., expressing the ornament, hence “wearing the two world-halves as adornment.” Oldenberg ultimately rejects this interpr., as does the published translation, but it remains a possibility, one that would better reflect the medial form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No others gleam so brightly as these Maruts with their own forms, their golden gauds, their weapons.  
      With all adornments, decking earth and heaven, they heighten, for bright show, their common splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht glänzen andere Marut so sehr wie diese in Goldschmuck, Waffen, am Leibe. Allgeschmückt, Himmel und Erde schmückend, legen sie sich die gleiche Farbe auf, um zu prangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht glänzen andre so wie diese Maruts an goldnem Schmuck, an Waffen und an Leibern, Die alles schmückend reich die Welten schmücken, mit gleichem Glanze salben sie zur Pracht sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Другие так не блистают, как эти Маруты  
 С (их) золотыми пластинками, оружием, (сверкающими) телами.  

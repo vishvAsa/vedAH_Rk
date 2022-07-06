@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्न꣡थद् वृत्र꣡म् उत꣡ सनोति वा꣡जम्  
 इ꣡न्द्रा यो꣡ अग्नी꣡ स꣡हुरी सपर्या꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡हस्तमा स꣡हसा वाजय꣡न्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इ॒र॒ज्यन्ता॑ । व॒स॒व्य॑स्य । भूरेः॑ । सहः॑ऽतमा॑ । सह॑सा । वा॒ज॒ऽयन्ता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śnathad* ← *śnathat* ← *śnath*
 - \[verb\], singular, Present conjunctive (subjunctive)
@@ -107,20 +107,20 @@ genre M
 स पुरुषः **वृत्रम्** आवरकं शत्रुं **श्नथत्** हिनस्ति । **उत** अपि च **वाजम्** अन्नं बलं वा **सनोति** लभते । **यः** पुरुषः **सहुरी** शत्रूणामभिभवितारौ इन्द्राग्नी **सपर्यात्** परिचरेत् । इतरेतरयोगात् उभयत्र पूर्ववत् द्विवचनम् । कीदृशाविन्द्राग्नी । **भूरेः** प्रभूतस्य **वसव्यस्य** वसुसमूहस्य । यद्वा । स्वार्थिको यत् । धनस्य **इरज्यन्ता** ईशानौ स्वामिनौ । इरज्यतिरैश्वर्यकर्मा। **सहसा** बलेन **सहस्तमा** अतिशयेनाभिभवितारौ शत्रूणां **वाजयन्ता** वाजं हविर्लक्षणमन्नमात्मन इच्छन्तौ ॥ यद्वा । वाजं स्तोतृभ्यो दातव्यमन्नं कामयमानौ ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He ovecomes his enemy, and acquires food, who worships the victorious **Indra** and **Agni**, the lords of infinite opulence, most powerful in strength, desirous of (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He pierces the obstacle and wins the prize who will serve Indra and Agni,  the mighty ones  
 who have control over abundant goods, the two most mighty with their  might as they seek the victory prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vocab. of this vs. shows a slight tendency towards morphological elaboration: in addition to the straightforward sáhastamā sáhasā, there is sáhurī to the same root but with the rare suffix -uri; the deriv. vasavyà- for ‘goods’, rather than standard vásu (as in the preceding hymn VI.59.9). This latter word returns at the end of the hymn.
 
@@ -137,23 +137,23 @@ Narten discusses śnáthat in n. 810, where she rather says that though it's use
 Unfortunately a root aor. injunc. *śnathīt would have been easy to build, so the thematization cannot be the result of avoiding a problematic form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE slays the foe and wins the spoil who worships Indra and Agni, strong and mighty Heroes,  
      Who rule as Sovrans over ample riches, victorious, showing forth their power in conquest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der stößt den Feind nieder und gewinnt den Siegespreis, wer Indra und Agni, die Übermächtigem, hochhält, die über großen Reichtum gebieten, die an Macht Mächtigsten, nach dem Siegespreis strebenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schlägt den Feind und der erlanget Beute, der Indra-Agni, die gewalt'gen, ehret, Die über vieles reiche Gut gebieten, die kräftigsten, die überstark an Macht sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сталкивает врага и захватывает добычу (тот,)  
 Кто почитает Индру и Агни победоносных,  

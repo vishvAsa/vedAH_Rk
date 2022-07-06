@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां वि꣡श्वाभिर् ऊति꣡भिः  
 प्रिय꣡मेधा अहूषत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 जु꣡ष्टं यज्ञं꣡ दि꣡विष्टिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ता । व॒र्तिः । या॒त॒म् । उप॑ । वृ॒क्तऽब॑र्हिषः । जुष्ट॑म् । य॒ज्ञम् । दिवि॑ष्टिषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -103,7 +103,7 @@ genre M
 हे अश्विनौ **प्रियमेधाः** । मेधो यज्ञः । प्रियतमयज्ञा यजमानाः । यद्वा । प्रियमेधा एतन्नामक ऋषिः । पूजायां बहुवचनम् । यष्टार ऋषिर्वा **विश्वाभिरूतिभिः** सर्वैः पालनैः सह । अथवा अवतिः याञ्चाकर्मा । सर्वैरभिलषितयाचनैः सहिताः **अहूषत** आह्वासिषुः आह्वासीत् । आत्मनः पालनहेतुकत्वेन । यद्वाभिलषितदानाय वामाह्वयन्ति । **ता** तौ युवां **वृक्तबर्हिषः** आस्तरणार्थं छिन्नबर्हिषो यष्टुः संबन्धि जुष्टं सर्वैर्देवैः सेवितं पर्याप्तं वा **यज्ञं** यजनीयं हविः प्रति **दिविष्टिषु** दिवसानामह्नामागमनेषु प्रातःकालेषु यज्ञेषु वा **वर्तिः** । वर्तन्तेऽत्रेति वर्तिगृहम् । तत् **उप** **आ** **यातं** हविःस्वीकरणार्थं युवामागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,28 +114,28 @@ genre M
 The worshippers: **priyamedhaḥ** =those whose sacrifices are acceptable; or, a reference to Ṛṣi **Priyamedha**; with all your protections: viśvābhirūtibhiḥ = with prayers for all desirable blessings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Priyamedhas have called you here with all your forms of help. Drive your course right up to the pleasing sacrifice of the man who has  twisted the ritual grass at the rituals of daybreak.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Priyamedhas bid you come with all the succours that are yours.  
      Come to his house whose holy grass is trimmed, to dear sacrifice at the morning rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch haben mit all euren Hilfen die Priyamedha´s hergerufen. Machet eure Umfahrt zu dem beliebten Gottesdienst dessen, der Barhis herumgelegt hat an den Opfern des heutigen Tages!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Prijamedha's luden euch durch aller Art Genüsse ein, So kommt zur Stätte dessen, der die Streu geschmückt, geniesst das Opfer bei dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К вам со всеми (вашими) поддержками  
 Воззвали (люди) Приямедха.  

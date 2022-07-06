@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ह श्रुत꣡ इ꣡न्दरो+ ना꣡म देव꣡  
 ऊर्ध्वो꣡ भुवन् म꣡नुषे दस्म꣡तमः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छि꣡रो भरद् दा᳐स꣡स्य स्वधा꣡वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अव॑ । प्रि॒यम् । अ॒र्श॒सा॒नस्य॑ । स॒ह्वान् । शिरः॑ । भ॒र॒त् । दा॒सस्य॑ । स्व॒धाऽवा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 देवोद्योतमानः श्रुतः कीर्तिमान् अतएवदस्मतमः सर्वैरतिशयेनदर्शनीयः सइन्द्रः मनुषेमनोरर्थंउ र्ध्वोभुवत् कामप्रदानेप्रवृत्तेउदङ्मुखोभवतु नामप्रसिद्धौ हेतिपूरणः तदुच्यते साह्वान् शत्रूनभिभवन् स्वधावान् बलवानिन्द्रः अर्शसानस्यलोकम्बाधमानस्यदासस्यएतन्नामकस्यासुरस्यप्रियंशिरःअवभरत् अधःपातयतु हरतेर्लेट्यडागमः हृग्रहोर्भः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M
 Dāsa = a slave, here said to be the nameof an **asura**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The god famed as Indra by name, he the most wondrous, rose upright  for Manu.  
 The able, independent one carried away the Dāsa Arśasāna’s very  
 own head.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He verily, the God, the glorious Indra, hath raised him up for man, best Wonder-Worker.  
      He, self-reliant, mighty and triumphant, brought low the dear head of the wicked Dasa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser unter dem Namen Indra berühmte Gott erhob sich für Manu, der größte Meister. Als Sieger trennte er den lieben Kopf des Dasa Arsasana ab, der Eigenmächtige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Gott, dess Name hoch berühmt ist, Indra, erhob sich, Wunder für den Menschen wirkend; Des Schädigers geliebtes Gut erbeutend, riss ab das Haupt des Dämons der gewalt'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог, прославленный под именем Индры,  
 Поднялся ради человека, самый удивительный.  

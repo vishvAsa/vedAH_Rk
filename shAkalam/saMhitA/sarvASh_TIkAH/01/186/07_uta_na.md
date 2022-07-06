@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ न ईम् मत꣡यो अ꣡श्वयोगाः  
 शि꣡शुं न꣡ गा꣡वस् त꣡रुणं रिहन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुरभि꣡ष्टमं नरां᳐꣡ नसन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । ई॒म् । गिरः॑ । जन॑यः । न । पत्नीः॑ । सु॒र॒भिःऽत॑मम् । न॒राम् । न॒स॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **उत** अपि च **ईम्** एनं **तरुणं** नित्ययुवानमिन्द्रं **मतयः** अस्मद्बुद्धयः **अश्वयोगाः** अश्वसमानप्राप्तयः **रिहन्ति** आस्वादयन्ति स्तुवन्तीत्यर्थः । तत्र दृष्टान्तः । **गावः** दोग्र्योः  धेनवः **शिशुं** **न** शिशुमिव वत्समिव तं यथा लिहन्ति तद्वत् । तदेवाह । **तमीं** तमेवैनं **नरां** नराणां यजमानानां **सुरभिष्टमम्** अतिशयेन सुरभिं **जनयः** फलस्योत्पादयित्र्यः **गिरः** स्तुतयः **नसन्त** व्याप्नुवन्ति । नसतिर्व्यप्तिकर्मा । तत्र दृष्टान्तः । **जनयः** **न** उत्पादयित्र्यः **पत्नीः** पत्न्यः पतिमिव ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 Most fragrant fruit: surabhiṣṭamam = atiśayena surabhim, exceedingly fragrant
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And our horse-yoked thoughts lick him like cows their tender young. Our songs approach him, the sweetest smelling of men, like  
 wedded wives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cmpd. áśva-yoga-, bahuvrīhi by accent, is somewhat peculiar; it might be closest to the type vájra-bāhu- ‘having an arm that has a mace (in it)’, hence ‘having a yoke that has horses (attached to it)’?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him too our hymns delight, that yoke swift horses, like mother cows who lick their tender youngling.  
      To him our songs shall yield themselves like spouses, to him the most delightful of the Heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und es schmeicheln ihm unsere als Rosse angeschirrten Gedichte, wie Kühe ihr zartes Junges lecken. Ihn, den duftendsten der Männer liebkosen die Lobreden wie die Gattinnen den Mann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete eilen wie geschirrte Rosse, wie Kühe, die das junge Kalb belecken, Den lieblichsten der Männer küssen unsre Gesänge wie den Mann vermählte Frauen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: наши молитвы – упряжки коней (облизывают Индру),  
 Словно коровы лижут нежного теленка.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नस् त्राध्वं ते꣡ अवत  
 त꣡ उ नो अ꣡धि वोचत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दूरं꣡ नैष्ट पराव꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । नः॒ । प॒थः । पित्र्या॑त् । मा॒न॒वात् । अधि॑ । दू॒रम् । नै॒ष्ट॒ । प॒रा॒ऽवतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -127,7 +127,7 @@ genre M
 हे देवाः **ते** यूयं **नः** अस्मान् **त्राध्वं** बाधकेभ्यो रक्षोभ्यस्त्रायध्वम् । **ते** यूयम् **अवत** धनादिप्रदानैरस्मान् रक्षत । **ते** एव देवाः **नः** अस्मान् **अधि** **वोचत** अधिकं भवन्तः कर्मकारिणो धनादिमन्तश्च भवन्त्विति यूयं ब्रूत । किंच हे देवाः **मानवात्** । मनुः सर्वेषां पिता । तत आगतात् **पित्र्यात्'** पिता मनुर्यं मार्गं चक्रे तस्मात् **पथः** मार्गात् **नः** अस्मान् **मा** **नैष्ट** मा नयत । अपनयनं मा कुरुतेत्यर्थः । सर्वदा ब्रह्मचर्याग्निहोत्रादिकर्माणि येन मार्गेण भवन्ति तमेवास्मान्नयत । किंतु **दूरं** य एतद्व्यतिरिक्तो विप्रकृष्टमार्गोऽस्ति तस्मात् **अधि** । अधिकमित्यर्थः । अस्मानपनयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ genre M
 From the paternal paths of Manu: Manu is said to be theuniversal father, and the paths he enjoins are those of austerity and ceremonial. **brahmacarya** agnihotrādikarmāṇi yena mārgeṇa **bhavanti** tam evam asmānnayata; lead us not away from the far-reaching paternalpath of Manu, but away from any which is distant therefrom
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us; help us; speak on our behalf.  
 Do not lead us far away from the path of the fathers, of the sons of  
 Manu, into the distance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such defend and succour us, with benedictions speak to us:  
      Lead us not from our fathers' and from Manu's path into the distance far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beschützet uns, steht uns bei und seid uns Fürsprecher; führet uns nicht vom väterlichen Wege des Manu weit ab in die Fernen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So rettet uns, so helfet uns, so sprechet doch uns freundlich zu, Nicht führt uns von dem Menschenpfad der Väter ab, in weite Fernen nicht hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спасайте вы нас, помогайте вы (нам),  
 А также вступайтесь вы за нас!  

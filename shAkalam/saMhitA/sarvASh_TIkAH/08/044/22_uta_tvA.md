@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वा धीत꣡यो म꣡म  
 गि꣡रो वर्धन्तु विश्व꣡हा  
 अ꣡ग्ने सख्य꣡स्य बोधि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । स॒ख्यस्य॑ । बो॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -87,37 +87,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **अग्ने** **त्वा** त्वां **मम** **धीतयः** कर्माणि **गिरः** स्तुतयश्च **विश्वहा** सर्वदा **वर्धन्तु** वर्धयन्तु । **नः** अस्माकं **सख्यस्य** सख्यं सखिकर्म स्तुत्यादिकं **बोधि** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May my rites also and my praises ever invigorate you **Agni**, take thought of our friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And let my visionary thoughts, let my hymns strengthen you at  
 all times.  
 Agni, take cognizance of our comradeship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, let my meditations, let my songs exalt thee evermore.  
      Think, Agni, of our friendly bond,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich sollen allezeit meine Dichtungen, meine Lobreden groß machen. Agni, gedenke unserer Freundschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es stärke meine Andacht dich und meine Lieder allezeit, Nimm, Agni, unsrer Freundschaft wahr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также мои произведения,  
 (Мои) хвалебные песни пусть все дни усиливают тебя!  

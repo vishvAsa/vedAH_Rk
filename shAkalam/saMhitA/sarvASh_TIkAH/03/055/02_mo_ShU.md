@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ षू꣡ णो अ꣡त्र जुहुरन्त देवा꣡  
 मा꣡ पू꣡र्वे अग्ने पित꣡रः पदज्ञाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 पु॒रा॒ण्योः । सद्म॑नोः । के॒तुः । अ॒न्तः । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -144,43 +144,43 @@ genre M;; repeated line
 हे **अग्ने** **अत्र** अस्मिन् काले **देवाः** **नः** अस्मान् **सु** सुष्ठु **मो** **जुहुरन्त** मा हिंस्युः । तथा **पदज्ञाः** कर्माण्यनुष्ठाय देवपदमनुभवन्तः **पूर्वे** पुरातनाः **पितरः** **मा** हिंसिषुः । यस्मात् **केतुः** यज्ञानां प्रज्ञापकः सूर्यः **पुराण्योः** पुरातनयोः **सद्मनोः** । सीदन्त्यनयोर्देवमनुष्या इति सद्मनी रोदसी । तयोः **अन्तः** मध्ये उदेति । तस्मादत्र मा हिंसन्त्वित्यर्थः । **महद्देवानाम्** इत्यादि पूर्ववत् ॥ जुहुरन्त । ‘हृ प्रसह्यकरणे' । लुङि जुहोत्यादित्वात् श्लुः । व्यत्ययेनात्मनेपदम् । 'बहुलं छन्दसि ' इत्युत्वम् । संज्ञापूर्वकस्य विधेरनित्यत्वाददादेशाभावेऽन्तादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the gods, **Agni**, now do us harm, nor the ancient progenitors, who have come to know the degree (of divinity); nor the manifester of light between the two ancient dwellings (earth and heaven, the sun); for great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not the gods deflect us here, nor the ancient Fathers who know the  track [/word], o Agni.  
 Between the two seats of the two age-old ones [=Heaven and Earth] is  your beacon. – Great is the one and only lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For juhuranta see comm. ad I.43.8; I take the form to √hvṛ ‘go crookedly’, not √hṛ ‘anger, be angry’. The point here is that the gods and the ancestors, who themselves know the path/word, should not keep us from following this same ritual cursus. There is no question of anger that I can see.
 
 The standard interpr., that c refers to the beacon of the kindled ritual fire visible between heaven and earth, is surely correct. This kindled fire is referred to more straightforwardly in the next vs., 3c sámiddhe agnaú.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the Gods here injure us, O Agni, nor Fathers of old time who know the region,  
      Nor the sign set between two ancient dwellings. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dabei mögen uns die Götter und die spurenkundigen Vorfahren ja nicht irreführen, o Agni. Zwischen den Sitzen der beiden uralten Rodasi ist deine Leuchte. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht, Agni, mögen jetzt uns Götter täuschen, noch auch die alten wegekund'gen Väter, Du Fackel zwischen beiden grossen Sitzen; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не рассердятся тут на нас ни боги,  
 Ни прежние отцы, о Агни, знающие след.  

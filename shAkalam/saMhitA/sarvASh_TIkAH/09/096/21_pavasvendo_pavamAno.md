@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्वेन्दो प꣡वमानो म꣡होभिः  
 क꣡निक्रदत् प꣡रि वा꣡राणि अर्ष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं ते र꣡सो मदिरो꣡ ममत्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्रीळ॑न् । च॒म्वोः॑ । आ । वि॒श॒ । पू॒यमा॑नः । इन्द्र॑म् । ते॒ । रसः॑ । म॒दि॒रः । म॒म॒त्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasvendo* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -119,20 +119,20 @@ genre M
 हे **इन्दो** सोम **महोभिः** पूजकैर्ऋत्विग्भिः **पवमानः** पूयमानस्त्वं **पवस्व** क्षर । ततः **कनिक्रदत्** भृशं शब्दं कुर्वन् **वाराणि** अवेर्वालानि पवित्राणि **परि** **अर्ष** परिगच्छ । किंच **पूयमानः** त्वं **चम्वोः** अधिषवणफलकयोः **क्रीळन** संक्रीडमानः सन् **आ** **विश** पात्राणि प्रविश । अनन्तरं **मदिरः** मदकरः **ते** त्वदीयः **रसः** **इन्द्रं** **ममत्तु** मोदयतु । माद्यतेः ‘ बहुलं छन्दसि' इति श्लुः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Indu**, purified by the venerable (priests), rush through the filter crying repeatedly, sporting enter the plural nks purified, let your exhilarating beverage exhilarate **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, o drop, as self-purifying one, with your mighty powers.  Constantly roaring, rush around the fleeces.  
 Playing, enter the two cups while being purified. Let your exhilarating  sap exhilarate Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
 <details open><summary><h2>20-21 ...{Loading}...</h2></summary>
 
@@ -142,23 +142,23 @@ Again these two vss. belong to separate mini-hymns, but they are clearly concate
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow on with might as Pavamana, Indu flow loudly roaring through the fleecy filter.  
      Enter the beakers sporting, as they cleanse thee, and let thy gladdening juice make Indra joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Saft, dich in voller Herrlichkeit läuternd; brüllend umfließe die Wollhaare! Spielend zieh in die beiden Camugefäße ein, wenn du geläutert wirst! Den Indra soll dein berauschender Saft berauschen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Indu, rieselnder, mit Lichtglanz, und ströme wiehernd durch der Seihe Wolle, Geh springend ein gereinigt in die Schüsseln, den Indra soll dein Rauschetrank berauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сок, как Павамана, со всей мощью,  
 Громко ревя, теки по ситу!  

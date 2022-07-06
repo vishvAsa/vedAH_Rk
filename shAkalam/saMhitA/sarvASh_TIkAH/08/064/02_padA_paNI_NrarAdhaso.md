@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पदा꣡ पणीँ꣡र् अराध꣡सो  
 नि꣡ बाधस्व महाँ꣡ असि  
 नहि꣡ त्वा क꣡श् चन꣡ प्र꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न॒हि । त्वा॒ । कः । च॒न । प्रति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
@@ -85,35 +85,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पणीन्** लुब्धात् **अराधसः** यष्टव्यधनरहितान् केवलधनान् **पदा** पादेन अतिक्रम्य **नि** नितरां **बाधस्व** । **त्वा** त्वां तव **कश्चन** कश्चिदपि देवोऽसुरो मनुष्यो वा **प्रति** प्रतिनिधिः सदृशो **नहि** अस्ति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Crush with your foot the **paṇis** who offer no oblations; you are mighty; there is none else like unto you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your foot stamp down the ungenerous niggards. You are great, for no one is equal to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Crush with thy foot the niggard churls who bring no gifts. Mighty art thou  
      There is not one to equal thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stoß die Knicker, die Pani´s, die nichts schenken, mit dem Fuße nieder! Du bist der Große; gegen dich kommt keiner auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Boden stosse mit dem Fuss die kargen Knicker, grosser du; Denn keiner kommt dir irgend gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ночью столкни скупцов  
 Недарящих! Ты велик.  

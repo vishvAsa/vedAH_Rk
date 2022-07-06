@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡न्द्रस्य कुक्षा꣡ पवते मदि꣡न्तम  
 ऊ꣡र्जं व꣡सानः श्र꣡वसे सुमङ्ग꣡लः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्री꣡ळन् ह꣡रिर् अ꣡तियः स्यन्दते वृ꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒त्यङ् । सः । विश्वा॑ । भुव॑ना । अ॒भि । प॒प्र॒थे॒ । क्रीळ॑न् । हरिः॑ । अत्यः॑ । स्य॒न्द॒ते॒ । वृषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endrasya* ← *ā*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 अयं सोमः **इन्द्रस्य** **कुक्षा** कुक्षौ **आ** **पवते** आसिच्यते । किमर्थम् । **श्रवसे** तस्यान्नाय यष्टुर्वा अन्नसिद्ध्यर्थम् । सोमो विशेष्यते। **मदिन्तमः** मादयितृतमः **ऊर्जं** **वसानः** बलकरं रसमाच्छादयन् । ‘ अपो वसानः' (ऋ. सं. ९. ७८, १ ) इति ह्युक्तम् । **सुमङ्गलः** शोभनमङ्गलप्रदः । **सः** सोमः **प्रत्यङ्** **विश्वा** **भुवना** सर्वाणि भूतजातानि **अभि** **पप्रथे** अभिप्रथयति । दिवि उदितः सन् **क्रीळन्** वेद्यां संक्रीडमानः **हरिः** हरितवर्णः **अत्यः** अतनकुशलः **वृषा** वर्षक: **स्यन्दते** रसरूपेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M
 For his food: or, for the sake of getting food for the sacriricer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The most exhilarating one purifies himself in the cheek of Indra, the  one of good omen clothing himself in nourishment [=milk], for fame. He spreads himself out facing toward all creatures. Playful, the tawny  bullish steed flows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On kukṣí- as ‘cheek’, not ‘belly’, see comm. ad III.36.8, VIII.92.24. Here the context is not diagnostic and might in fact slightly favor ‘belly’, esp. given vs. 1 of the next hymn (IX.81) by the same poet, which contains jaṭháram ‘belly’.
 
 However, the preponderance of evidence for ‘cheek’ elsewhere is pretty strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Best giver of delight, he flows to Indra's throat, robing himself in might, Auspicious One, for fame.  
      He spreads himself abroad to meet all things that be: the vigorous Tawny Steed flows sporting on his way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In des Indra Bauch läutert sich der Berauschendste, sich mit Kraft gürtend, zum Ruhme der Glückbringer. Angesichts aller Wesen hat er sich ausgebreitet; spielend fließt der falbe bullenstarke Renner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Indra's Magen rieselt der berauschendste, in Kraft gekleidet, segensreich zu hohem Ruhm; Er dehnt sich weit, zu allen Wesen hingewandt, und hüpfend eilt der goldne Hengst, der kräftige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В животе у Индры очищается самый пьянящий,  
 Рядясь в питательную силу, благоприятный для славы.  

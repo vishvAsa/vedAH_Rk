@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमे꣡व नः सुहवा आ꣡ हि꣡ ग꣡न्तन  
 नि꣡ बर्हि꣡षि सदतना र꣡णिष्टन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡ष्टर् देवे꣡भिर् ज꣡निभिः सुम꣡द्गणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । म॒न्द॒स्व॒ । जु॒जु॒षा॒णः । अन्ध॑सः । त्वष्टः॑ । दे॒वेभिः॑ । जनि॑ऽभिः । सु॒मत्ऽग॑णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ameva* ← *amā*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 इवशब्दोवधारणे हेसुहवाः शोभनाह्वानाः त्वष्टृप्रभृतयः नोस्मान् अमेवसहैवआगन्तन आग च्छत गमेश्छान्दसःशपोलुक् तप्तनप्तनथनाश्चेतितनबादेशः हिशब्दःपूरणः आगत्यचबर्हिषि वेद्या मास्तीर्णेनिषदतन निषण्णाभवत सदेश्छान्दसःसीदादेशाभावः उपविश्यच रणिष्टन रमध्वं रण शब्दार्थः अत्रक्रीडायांवर्तते धातूनामनेकार्थत्वात् अस्माच्छान्दसोलुङ् पूर्ववत्तनबादेशः अथानन्त रं हेत्वष्टः देवेभिरन्यैः देवैर्जनिभिर्देवपत्नीभिश्चसुमद्गणः शोभनगणस्त्वंअन्धसः सोमलक्षणस्यान्न स्य द्वितीयार्थेषष्ठी सोमलक्षणमन्नञ्जुजुषाणः सेवमानोमन्दस्व तृप्तोभव ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 **Yajus**. 26.24; addressed to devapatnyaḥ, the wives of the gods, and then to Tvaṣṭā along with them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if to home, come to us here, all you of easy call; then sit on the ritual  grass and take pleasure.  
 Then, o Tvaṣṭar, become exhilarated on the stalk, having delighted in the  call, flocking with the divine ones, (namely) the Wives (of the Gods).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As sometimes elsewhere, hí with the first of two imperatives signals that the second action depends on the first. Despite the masc. gender of devébhiḥ, I do not think it identifies a different group from the wives (jánibhiḥ), but that the latter further specifies the neutral devébhiḥ. In this I follow Renou ad VI.50.13, which contains the same phrase (also X.64.10). Tvaṣṭar is strongly associated with the wives of the gods and in all clear cases only with them. It is worth noting that the RV contains no examples of fem.
 
@@ -154,23 +154,23 @@ My tr. of jujuṣānáḥ “having delighted (in the call),” with “call” 
 only occurs with “call,” as a prior action to the event time of the matrix verb. But in the book based on his diss. (Participles in Rigvedic Sanskrit, 2015) he has revised this view, at least for this passage and allows jujuṣāṇáḥ to be construed with ándhasaḥ, with the main verb mandasva ‘become exhilarated!’ logically following the action of enjoyment (pp. 210-11, 214-15; passage tr. on 215). I would tentatively revise the published translation to “having delighted, become exhilarated on the stalk!” Because of the VP mándasva … ándhasaḥ in the first vs. of the next, closely related hymn (II.36.1) I do not take ándhasaḥ with jujuṣāṇáḥ here, or at least not primarily.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us, ye swift to listen: as at home upon the sacred grass sit and enjoy yourselves.  
      And, Tvastar, well-content be joyful in the juice with Gods and Goddesses in gladsome company.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So kommet denn zu uns wie nach Hause, ihr leicht zu Errufende; setzet euch auf das Barhis, seid fröhlich! Und berausche du dich gern am Trank, o Tvastri, mit dem lieben Gefolge der Götter und ihrer Frauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wie zur Heimat kommt ihr, gernerhörende, setzt auf die Streu euch nieder und ergötzet euch; Auch du erfreu geniessend an dem Kraute dich mit Göttern, Tvaschtar, und der Frauenschar gesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так придите же к нам, как домой, о легко призываемые,  
 Сядьте на жертвенную солому, веселитесь!  

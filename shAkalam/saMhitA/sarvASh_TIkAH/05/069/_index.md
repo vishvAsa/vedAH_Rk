@@ -8,7 +8,7 @@ title = "+069"
 ‘त्री रोचना ' इति चतुर्ऋचं त्रयोदशं सूक्तम् । उरुचक्रिर्नामात्रेय ऋषिः । त्रिष्टुप् छन्दः । मित्रावरुणौ देवता । अनुक्रम्यते च - ‘ त्री रोचना चतुष्कमुरुचक्रिः' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 69 (423)  
 Mitra and Varuṇa  

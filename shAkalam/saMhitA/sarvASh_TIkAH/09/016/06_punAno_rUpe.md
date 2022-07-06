@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानो꣡ रूपे꣡ अव्य꣡ये  
 वि꣡श्वा अ꣡र्षन्न् अभि꣡ श्रि꣡यः  
 शू꣡रो न꣡ गो꣡षु तिष्ठति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शूरः॑ । न । गोषु॑ । ति॒ष्ठ॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -93,7 +93,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अव्यये** अविमये **रूपे** रूप्यमाणे वस्त्रे **पुनानः** पूयमानः **विश्वाः** सर्वाः **श्रियः** शोभाः **अभि** **अर्षन्** अभिगच्छन् **गोषु** निमित्तासु **शूरो** **न** शूर इव स यथा संग्रामे तिष्ठति तद्वदसौ **तिष्ठति** पात्रे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,33 +104,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Kine: **Soma** being mixed with milk, here called by metonymy, kine
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified within the sheep’s shape, rushing toward all that is glorious, like a champion he stands among the cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c the loc. góṣu can be shared by simile and frame: in the frame it refers to the milk into which the soma has entered, in the simile to the cows that a champion wins in the raid or battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purified in his fleecy garb, attaining every beauty, he  
      Stands, hero-like, amid the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Schafhülle sich läuternd, auf alle Herrlichkeiten zufließend hält er Stand wie der Tapfere im Kampf um die Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geklärt im wollnen Schmuckgewand, ergiessend aller Schönheit Glanz, Steht bei den Kühen er als Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь в овечьем облике,  
 Струясь ко всем почестям,  

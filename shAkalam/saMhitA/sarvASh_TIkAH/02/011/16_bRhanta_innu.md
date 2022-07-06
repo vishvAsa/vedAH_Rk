@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡न्त इ꣡न् नु꣡ ये꣡ ते तरुत्र  
 उक्थे꣡भिर् वा सुम्न꣡म् आवि꣡वासान्  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 तुवो꣡ता इ꣡द् इन्द्र वा꣡जम् अग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 स्तृ॒णा॒नासः॑ । ब॒र्हिः । प॒स्त्य॑ऽवत् । त्वाऽऊ॑ताः । इत् । इ॒न्द्र॒ । वाज॑म् । अ॒ग्म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhanta* ← *bṛhantaḥ* ← *bṛhat*
 - \[noun\], nominative, plural, masculine
@@ -117,36 +117,36 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 तरुत्रआपद्भिस्तरकहेइन्द्र येपुमांसः सुम्नं सुखकरं त्वामुक्थेभिः उक्थैः शस्त्रैः आविवासान्परिचरे- युः विवासतेर्लेट्यडागमः तेइत् तएवपुमांसः नुक्षिप्रंअविलम्बेनबृहन्तोमहान्तः भवन्ति वेतिपूरणः किञ्च बर्हिःस्तृणानासः वेद्याम्बर्हिराच्छादयन्तः येत्वाम्परिचरन्ति तेत्वोताइत् त्वयारक्षिताःसन्तएव- पस्त्यावत् गृहसहितंवाजमन्नमग्मन् गच्छन्ति ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Liberator (from evil), they who worship you, the giver of happiness, with holy hymns, quickly become great; they who strew the sacred grass (in honour of you) are protected by you, and, together with their famiies, obtain (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now just those lofty ones [=priests], who will try to win your favor, o  you surpassing one, either by their hymns  
 or in strewing the ritual grass that provides (you) a dwelling place, have  come to the prize, helped just by you, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great, verily, are they, O thou Protector, who by their songs of praise have won the blessing.  
      They who strew sacred grass to be thy dwelling, helped by thee have got them strength, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß sind fürwahr nur die, die etwa durch Loblieder deine Gunst gewinnen können, du Überwinder, wenn sie das Platz bietende Barhis auslegen. Mit deinem Beistand, o Indra, sind sie zu Sieg gelangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die edlen Männer, welche jetzt, o Retter, durch Andachtssprüche deine Gunst gewannen, Und die zum Sitzen dir das Lager streuten, durch dich, o Indra, kamen die zum Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно же, высоки те, о спаситель,  
 Кто или гимнами старается добыть (твое) расположение,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ मे अस्य꣡ प्रतीवि꣡यम्  
 इ꣡न्द्रनासतिया गतम्  
 देवा꣡ देवे꣡भिर् अद्य꣡ सच꣡नस्तमा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दे॒वा । दे॒वेभिः॑ । अ॒द्य । स॒चनः॑ऽतमा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,41 +87,41 @@ genre M
 हे **इन्द्रनासत्या** इन्द्राश्विनौ **सचनस्तमा** । **षच** समवाये । ‘कृत्यल्युटः ' इति कर्मणि ल्युट् । अतिशयेन सर्वैः समवेतव्यौ सेव्यमानौ युवां **प्रतीव्यम्** । वी गत्यादिषु । अधिकरणे औणादिकः क्विप् । प्रतिशब्दस्य वीप्सार्थोऽस्ति । पुनःपुनर्वियन्ति भक्षयन्ति हवींषि देवा अत्रेति प्रतीवीर्यज्ञः । तम् **अस्य** पुरोवर्तिनः **मे** मम संबन्धिनं यज्ञम् **अद्य** अस्मिन् दिने **देवेभिः** देवैः सार्धम् आ **गतम्** आगच्छतम् । यद्वा। मे मम अस्य क्रियमाणस्य स्तोत्रस्य प्रतीव्यं प्रतिगतं यथा भवति तथाभिमुख्येनायातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Nāsatyās**, who are most accessible, come to this my sacrifice; come, gods, today with(other) divinities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two—come here to receive this (offering) of mine, Indra and  Nāsatyas—  
 as two gods joined in greatest delight with the gods today.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is somewhat curiously constructed. It contains, probably, a dual dvandva whose 2nd member is itself dual: índra-nāsatyā ‘o Indra and the two Nāsatyas’. Since the form is in the voc. it is actually impossible to determine if it is in fact a dual dvandva or two separate vocc., índra nāsatyā, sg. and du. Although in most dual dvandvas the first member also has dual inflection (type índrā-váruṇā), see indra-vāyū́, with stem form in the first member and a single 2nd member accent; its voc. is índra-vāyū, which would match the template found here. In any case, the verb is dual (gatam), and the rest of the verse (pāda c) is couched in the dual. This either means that Indra is being ignored (which is possible, since the hymn is dedicated to the Aśvins) or that the dual dvandva índra-nāsatyā is being treated as if it contained two entities, rather than one+two (which is also possible). For another number mismatch, see vs. 11.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To welcome this mine offering, O ye Indra-like Nasatyas, come  
      As Gods of best accord this day with other Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, Indra und die Nasatya´s, zu meiner Darbringung, ihr Götter mit den Göttern heute recht einträchtig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu diesem meinem Mahle kommt mit Indra, o ihr Treuen, her, Ihr Götter mit den Göttern heut in Huld vereint.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На это мое приглашение  
 Приезжайте, о Индра-Насатьи,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां दाना꣡य ववृतीय दस्रा  
 गो᳐꣡र् ओ꣡हेण तौग्रियो꣡ न꣡ जि꣡व्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जूर्णो꣡ वाम् अ꣡क्षुर् अं꣡हसो यजत्रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒पः । क्षो॒णी इति॑ । स॒च॒ते॒ । माहि॑ना । वा॒म् । जू॒र्णः । वा॒म् । अक्षुः॑ । अंह॑सः । य॒ज॒त्रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,21 +123,21 @@ genre M
 हे **दस्रा** शत्रूणामुपक्षपयितारावश्विनौ **वां** युवयोः **दानाय** अस्मदभिमताय युवाभ्यां वाहयितुम् **आ** **ववृतीय** आवर्तयामि यागदेशम् ॥ वृतेरन्तर्भावितण्यर्थस्येदम् ॥ केन साधनेनेति तदुच्यते । **गोः** स्तुतिरूपाया वाचः **ओहेन** वहनेन साधनेन । यद्वा । आवर्तनकाल उच्यते । गोर्गन्त्र्याः उषसो वहनेन। 'जिव्रिः जीर्णो जयशीलो वा **तौग्र्यो** **न** तुग्राख्यस्य राज्ञः पुत्रो भुज्युरिव । स यथा शत्रुभिः संताड्य समुद्रे पातितो युवां परितोष्य स्वोद्धाराय स्वसमीपमानयत तद्वदित्यर्थः । इयमाख्यायिका ‘तुग्रो ह' (ऋ. सं. १. ११६. ३), ‘भुज्युमंहसः पिपृथः' (ऋ. सं. १०.६५.१२), ‘ नासत्या भुज्युम्' (ऋ. सं. १. ११६. ४ ) इत्यादिषु प्रसिद्धा च । किमाश्चर्यमहमावर्तयामीति । किंतु **अपः** **क्षोणी**। अप इत्यन्तरिक्षनाम (नि. १.३.८)। क्षोणीति पृथिवीनाम (नि. १. १.७)। द्यावापृथिव्यावपि **वां** युवयोः **माहिना** माहात्म्येन युवयोः प्रसादेन सर्वोपकारिण्याविति ख्यातिं सर्वप्रदेशव्यापित्वं वा **सचते** सेवते प्रत्येकम् । यद्वा । वां माहिना यजमानो द्यावापृथिव्यौ सचते । किंच हे **यजत्रा** यष्टव्यौ प्रसादादयमृषिः **जूर्णः** जरया जीर्णाङ्गः सन् **अंहसः** पापात् जरालक्षणात् प्रमुच्य अक्षुः चिरकालव्याप्तो दीर्घजीवी भूयात् । यद्वा । हे यजत्रा वां प्रसादात् जूर्णो जीर्णो यजमानः अंहसो दुरितस्य हन्त्रीरप उक्तलक्षणानि सोमरसरूपाण्युदकानि क्षोणी क्षोण्याम् ॥ सप्तम्यर्थे प्रगृह्यम् ॥ भूम्यां चिरकालमक्षुर्व्याप्तः सन् महिना माहात्म्येन सचते । द्वितीयो वामित्ययमादरार्थः ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Dasras**, may I bring you, by the vehicle of my prayers, (hither), to bestow (upon me your aid), like the infirm son of **Tugra**; heaven and earth combine (to worship you) through your greatness; may this, your aged (worshipper), adorable (**Aśvins**), enjoy long life, (exempt) from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a laud might I turn you here for the giving of a cow, as the  
 time-worn son of Tugra did, o wondrous ones—  
 a great roar (as if) of water accompanies you two great ones—(might  I,) worn out from anxiety and without cattle, (turn) you (here), o you  who are worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Yet another near impossible verse.
 
@@ -148,23 +148,23 @@ The second hemistich is more contested. Most tr. take kṣoṇī́as dual acc, w
 depends crucially on Thieme’s ingenious (and to me convincing) analysis of ákṣu- as ‘without cattle’, formed in opposition to kṣumánt- ‘having cattle’, and containing an underlying *p(a)śu-. (See EWA s.v. ákṣu2 ; Mayrhofer accepts this analysis.) The standard tr. are founded on ákṣu- ‘net’, found several times in the AV; Thieme allows the possibility of a second reading with the ‘net’ word, which seems a bit stretched.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Tugra's ancient son may I, ye Mighty, bring you to give your gifts with milk-oblations.  
      Your greatness compasseth Earth, Heaven, and Waters: decayed for you is sorrow's net, ye Holy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich möchte euch, Meister, zum Schenken bringen durch Anpreisung der Kuhmilch, wie der greise Tugrasohn. Eure mächtige Hilfe sucht das Wasser, beide Welten auf. Abgenutzt ist eure Stange infolge der Not, ihr Opferwürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Geben möcht' ich euch, o hehre, stimmen, euch Milch anbietend wie der greise Bhudschju, Des Wassers Flut geht mächt'gen euch zur Seite, für euch ist morsch das Netz der Noth, o heil'ge!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу вас, о чудесные, повернуть к дарению  
 С помощью расхваливания (молока) коровы, подобно старому сыну Тугры.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी म꣡दथः स्वे꣡ दुरोणे꣡  
 य꣡द् ब्रह्म꣡णि रा꣡जनि वा यजत्रा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । परि॑ । वृ॒ष॒णौ॒ । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M;; repeated line
 **यजत्रा** यष्टव्यौ हे **इन्द्राग्नी** **स्वे** **दुरोणे** स्वकीये गृहे निवासस्थाने **यत्** यदि **मदथः** हृष्यथः । **यत्** यदि **वा** **ब्रह्मणि** ब्राह्मणे अन्यस्मिन्यजमाने हविः स्वीकरणायागत्य हृष्यथः। यदि वा **राजनि** क्षत्रिये युद्धे साहाय्यं कर्तुमागत्य हृष्यथः । **अतः** **परि** परितोऽस्मात् सर्वस्मात् स्थानात हे **वृषणौ** कामानां वर्षिताराविन्द्राग्नी **आ** **यातं** **हि** अगच्छतमेव । औदासीन्यं मा कार्ष्टम् । अन्यत् पूर्ववत् ॥ मदथः ।  ‘ मदी हर्षे '। व्यत्ययेन शप् । यजत्रा । अमिनक्षि' इत्यादिना यजतेः कर्मणि अत्रन् ।  ‘ सुपां सुलुक् ' इति विभक्तेः आकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ Yad brahmaṇi **rājani** vā: brāhmaṇe anyasmin yajamāne, a different inst
 Rājani = kṣatriye, of a warrior
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra and Agni, you are reaching exhilaration in your own  dwelling, when at a brahmin’s or at a king’s, o you who deserve the  
 sacrifice,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If in your dwelling, or with prince or Brahman, ye, Indra-Agni, Holy Ones, rejoice you,  
      Even from thence, ye mighty Lords, come hither, and drink libation of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr, Indra und Agni, euch im eignen Hause gütlich tut, wenn bei einem Brahmanen oder König, ihr Opferwürdige, so kommet doch ja von dort her, ihr Bullen, und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra-Agni, ihr im eignen Hause, beim Priester oder König schwelgt, ihr hehren, So kommt von da zu uns doch her, ihr Stiere, und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра и Агни, вы захмелеете в своем жилище,  
 Если у брахмана или у царя, о достойные жертв,  

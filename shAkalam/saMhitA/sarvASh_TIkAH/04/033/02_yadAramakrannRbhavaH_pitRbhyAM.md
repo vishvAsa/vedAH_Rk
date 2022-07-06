@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡रम् अ꣡क्रन्न् ऋभ꣡वः पितृ꣡भ्याम्  
 प꣡रिविष्टी वेष꣡णा दंस꣡नाभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धी꣡रासः पुष्टि꣡म् अवहन् मना꣡यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आत् । इत् । दे॒वाना॑म् । उप॑ । स॒ख्यम् । आ॒य॒न् । धीरा॑सः । पु॒ष्टिम् । अ॒व॒ह॒न् । म॒नायै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadāram* ← *yadā*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 **यदा** यस्मिन् काले **ऋभवः** **पितृभ्यां** मातापितृभ्यां **परिविष्टी** परिवेषणेन परिचर्यया **वेषणा** वेषणेन व्याप्त्या । यद्वा वेषेण जरद्रूपयोर्युवत्वकरणेन **दंसनाभिः** अन्यैश्चमसनिर्माणादिकर्मभिः **अरम्** अत्यर्थम् **अक्रन्** **आदित्** अनन्तरमेव **देवानाम्** इन्द्रादीनां **सख्यं** सखित्वं समानख्यानत्वं देवतात्वम् **उप** आयन् आगमन् । “ युवशा कर्त्वा' ( ऋ. सं. १.१६१. ३ ) इति देवत्वप्राप्तेरेकान्तत्वेन देवैरुक्तत्वादिति भावः । किंच **धीरासः** धीरा बुद्धिमन्तस्तेषां **पुष्टिं** गवादिविषयां **मनायै** मतिकृते यजमानाय **अवहन** वहन्ति धारयन्ति । यद्वा । सविषयां पुष्टिं मनायै मनसे प्रकृष्टमनस्कत्वायावहन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **ṛbhus**, by honouring their parents with renovated (youth), and by other works, had achieved enough, they thereupon proceeded to the society of the gods, and, considerate, they bring nourishment to the devout (worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the R̥bhus made fit preparations for their parents by their  attentiveness, industry, and wondrous skills,  
 right then they came into companionship with the gods. Clever, they  brought prosperity to their zeal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Rbus had with care and marvels done proper service to assist their Parents,  
      They won the friendship of the Gods; the Sages carried away the fruit of their devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Ribhu´s den Eltern gedient hatten mit Aufwartung, Besorgung und Kunstfertigkeiten, da erst erlangten sie die Freundschaft der Götter. Die Werkkundigen brachten der Dichtung Zuwachs;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als sie den Aeltern ihre Dienste thaten mit Wunderkraft die Ribhu's eifrig wirkend, Da kamen sie zur göttlichen Gemeinschaft, die weisen trugen Heil davon zum Lohne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Рибху послужили двоим родителям  
 Заботой, трудом, чудесными деяниями,  

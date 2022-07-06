@@ -8,7 +8,7 @@ title = "+125"
 ‘ प्राता रत्नम् ' इति सप्तर्चं पञ्चमं सूक्तं काक्षीवतम् । दानस्य स्तूयमानत्वात् दानदेवत्यं ' या तेनोच्यते सा देवता ' ( अनु. २. ५ ) इति परिभाषितत्वात् । त्रैष्टुभम् । उपेत्यादिके द्वे जगत्यौ ।  ‘ प्राता रत्नं सप्त स्वनयस्य दानस्तुतिरुपजगत्यौ ' इत्यनुक्रमणिका ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 125  
 Svanaya’s Dānastuti  
@@ -20,7 +20,7 @@ The other section (vss. 1–3) is quite different. It consists of an apparent di
 more inclined to receive the itinerant Prātaritvan because he may be entertaining  a god in disguise, and the Prātaritvan is not only seeking payment for his ritual  work, the dakṣiṇā whose giver is lyrically celebrated in verses 4–7, but also himself  brings (or claims to bring) goods and good fortune for his host, as is emphasized  in all three verses of this portion of the hymn. The relationship between them is  also presented as somewhat coercive or threatening in the second half of verse 2  (which unfortunately contains several hapaxes and is therefore not very clear). The  Kāṭhaka Saṃhitā narrative, a version of “Manu’s Cups,” depicts that threat much  more strongly, as an aspect of the “anxieties of hospitality.” For further discussion  see Jamison (1996a: 184–89).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 (The Early-coming one.) Svayana's Dānastuti For a sustained treatment of the “early-coming one” (prātáritvan-) see Jamison, Sac.Wife 184-89.
 </details>

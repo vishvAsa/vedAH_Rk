@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् त्वा यामि सुवी꣡रियं  
 त꣡द् ब्र꣡ह्म पूर्व꣡चित्तये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ये꣡न प्र꣡स्कण्वम् आ꣡विथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येन॑ । यति॑ऽभ्यः । भृग॑वे । धने॑ । हि॒ते । येन॑ । प्रस्क॑ण्वम् । आवि॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -115,7 +115,7 @@ genre M
 हे **इन्द्र** **तत्** **सुवीर्यं** शोभनवीर्यं **त्वा** त्वां **यामि** याचामि । छान्दसो वर्णलोपः । तथा **तत्** **ब्रह्म** परिवृढमन्नं **पूर्वचित्तये** पूर्वप्रज्ञानायान्येभ्यः पूर्वमेव लाभाय त्वां याचामि । **धने** **हिते** अभीष्टे सति **येन** सुवीर्येण **यतिभ्यः** कर्मसूपरतेभ्योऽयष्टृभ्यो जनेभ्यः सकाशाद्धनमाहृत्य **भृगवे** महर्षये प्रयच्छसि । यद्वा । कर्मसु नियता अङ्गिरसो यतयः । तेषामर्थं धनं प्रयच्छसि । तादर्थ्ये चतुर्थी। **येन** च ब्रह्मणा **प्रस्कण्वं** कण्वप्रभवं कण्वस्य पुत्रमृषिम् **आविथ** ररक्षिथ। तदुभयं याचामीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Taken from those: yena yatibhyo **dhane** hite: yatibhyaḥ = karmasu uparatebhyoyaśtribhyo janebhyo sakāśād dhanam **āhṛtya**, having taken the wealth from men not offering sacrifices, orceasing to perform holy acts; the wealth given to Bhṛgu, for the benefit of the sages, the **Aṅgirasas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I beg you for a mass of good heroes and for the sacred formulation to  be first in your thought.  
 That with which, when the stake was set, (you were there) for the Yatis  and for Bhr̥gu, with which you helped Praskaṇva,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -146,23 +146,23 @@ In 9c a verb needs to be supplied. Although the sentiment seems to be essentiall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I crave of thee that hero strength, that thou mayst first regard this prayer,  
      Wherewith thou holpest Bhrgu and the Yatis and Praskanva when the prize was staked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bitte dich um die Meisterschaft, um das wirkungsvolle Wort, um zuerst bedacht zu werden, durch welches du den Yati´s, dem Bhrigu bei ausgesetztem Preise zu Hilfe kamst, mit welchem du dem Praskanva beigestanden hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich bitt' ich um die Heldenkraft, um die Begeisterung zuerst, Mit der du einst den Jati's, als der Kampf entbrannt, dem Bhrigu, dem Praskanva halfst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я прошу тебя об этом прекрасном мужестве,  
 Об этом священном слове – чтобы прежде всего обдумать,  

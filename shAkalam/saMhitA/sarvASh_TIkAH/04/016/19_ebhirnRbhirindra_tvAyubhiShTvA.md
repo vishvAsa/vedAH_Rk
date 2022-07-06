@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एभि꣡र् नृ꣡भिर् इन्दर+ त्वायु꣡भिष् ट्वा  
 मघ꣡वद्भिर् मघवन् वि꣡श्व आजउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षपो꣡ मदेम शर꣡दश् च पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 द्यावः॑ । न । द्यु॒म्नैः । अ॒भि । सन्तः॑ । अ॒र्यः । क्ष॒पः । म॒दे॒म॒ । श॒रदः॑ । च॒ । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
@@ -122,20 +122,20 @@ genre M
 हे मघवन् धनवन् **इन्द्र** **विश्वे** विश्वस्मिन् **आजौ** संग्रामे **त्वायुभिः** शत्रुजयार्थं त्वां कामयमानैः **मघवद्भिः** त्वदर्थं दीयमानहविर्लक्षणैर्धनैरुपेतैः **एभिः** प्रत्यक्षेणोपलभ्यमानैः **नृभिः** पुत्रपौत्राद्यैः परिजनैः सहिता वयं यजमानाः **द्युम्नैः** धनैः **द्यावो** **न** द्योतमानाः प्रकाशमाना धनिनो यथा तथा **अर्यः** अरीन् शत्रून् **अभि** **सन्तः** अभिभवन्तः **क्षपः** सर्वा रात्रीः **पूर्वीः** बह्वीः **शरदश्च** संवत्सरांश्च **मदेम** स्तवाम । यजमानाः सर्वेषु कालेषु स्तोत्रैरिन्द्रं हर्षयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In every battle, **Maghavan**, may we, along with those men who trust in you and offer rich gifts, like those who are resplendent with riches, triumphing over their foes, glorify you many nights and years.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While we dominate the strangers in every contest with these men who  seek you, Indra, with the bounteous ones, o bounteous one,  
 just as the heavens dominate with their heavenly brilliance, may we find  elation through many nights and autumns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. supply a verb in ab: Geldner “rufe ich,” Witzel Gotō “bitten … wir.” This seems unnecessary: the instr. phrases in ab can be parallel to dyumnaíḥ in the simile in c, all controlled by the participial phrase abhí sántaḥ “(we) dominating” in c.
 
@@ -148,23 +148,23 @@ Although Geldner construes dyumnaíḥ not in the simile but as an attribute of 
 of that passage as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, with these men who love thee truly, free givers, Maghavan, in every battle,  
      May we rejoice through many autumns, quelling our foes, as days subdue the nights with splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesen dir ergebenen Männern, o Indra, mit den freigebigen, du Freigebiger, rufe ich dich in jedem Kampfe. Die Nebenbuhler an Glanz überragend wie der Himmel die Erde, möchten wir viele Nächte und Herbste schwelgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesen Männern, Indra, die dich lieben, die mächtig sind in jedem Kampf, o mächt'ger, Lass Feind besiegend, wie die Himmel glänzend, uns froh sein viele Tag' und viele Jahre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью этих мужей, о Индра, любящих тебя, (я) тебя (призываю),  
 С помощью щедрых, о щедрый, в каждом состязании,  

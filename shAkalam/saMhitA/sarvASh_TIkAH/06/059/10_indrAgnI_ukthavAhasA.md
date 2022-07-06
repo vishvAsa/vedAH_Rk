@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी उक्थवाहसा  
 स्तो꣡मेभिर् हवनश्रुता  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वा॑भिः । गीः॒ऽभिः । आ । ग॒त॒म् । अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -104,36 +104,36 @@ genre M;; repeated line
 हे **उक्थवाहसा** उक्थैः स्तुतिभिः वहनीयौ हे **हवनश्रुता** हवनस्याह्वानस्य श्रोतारौ एवंभूतौ हे **इन्द्राग्नी** **स्तोमेभिः** स्तोत्रैः **विश्वाभिः** सर्वाभिः **गीर्भिः** शस्त्ररूपाभिर्वाग्भिश्च हेतुभूताभिः **आ** **गतम्** आगच्छतम् । किमर्थम्। **अस्य** अस्मदीयस्य **सोमस्य** **पीतये** पानार्थम् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, who are to be attracted by hymns; you, who hear our invocation (accompanied) by praise and by all adorations, come hither to drink of this **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni whose conveyance is hymns, who listen to the  summons through our praise songs,  
 through all our songs—come here to drink this soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Agni, who accept the laud, and hear us for our praise,  
      Come near us, drawn by all our songs, to drink of this our Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni, von den Lobgedichten angezogen, von den Lobliedern gerufen, ihr Ruferhörer, mit allen Lobesworten, kommet her, um diesen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ruf' ihr hört und Spruch empfangt, o Indra-Agni, kommt herbei, Durch Lob, durch alle Lieder hier gelockt zu dieses Soma Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, привлекаемые гимнами,  
 (Призванные) восхвалителями, слышащие призыв!  

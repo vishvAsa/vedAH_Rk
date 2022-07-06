@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुविक्षं꣡ ते सु꣡कृतं सूम꣡यं ध꣡नुः  
 साधु꣡र् बुन्दो꣡ हिरण्य꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ऋदूपे꣡ चिद् ऋदूवृ꣡धा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । ते॒ । बा॒हू इति॑ । रण्या॑ । सुऽसं॑स्कृता । ऋ॒दु॒ऽपे । चि॒त् । ऋ॒दु॒ऽवृधा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tuvikṣaṃ* ← *tuvikṣam* ← *tuvikṣa*
 - \[noun\], nominative, singular, neuter
@@ -116,7 +116,7 @@ genre M
 एषा निरुक्ते एकमपि पदं विहाय यास्केन व्याख्याता तदेवलिख्यते-तुविक्षं बहुविक्षेपं महाविक्षेपं वा ते सुकृतं सूमयं सुसुखं धनुः साधयिता ते बुन्दोहिरण्मयः उभौ ते बाहू रण्यौ रमणीयौ सङ्ग्राम्यौ वर्दूपे अर्दनपातिनौ गमनपातिनौमर्मण्यर्दनवेधिनौ गमनवेधिनौ वेति ॥ ११ ॥पुरोळशन्नइति दशर्चमष्टमं सूक्तं काण्वस्य कुरुसुतेरार्षं आद्यानवगायत्र्योदशमी बृहती इन्द्रोदेवता । तथाचानुक्रान्तं-पुरोळाशं दशबृहत्यन्तमिति । सूक्तविनियोगोलैङ्ङ्गिकः । महाव्रते निष्केवल्ये गायत्रतृचाशीतौ आद्यास्तिस्रऋचः । तथाच सूत्रितं-पुरोळाशन्नोअन्धसइति तिस्रइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Ṛdu = **mṛdu**; **madhu**, **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Powerfully ruling, well-made, made of boar is your bow, the golden  Bunda, that aims straight.  
 Your two arms are fit for battle, well-equipped, increasing injury even  for one who protects himself from injury.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sūmáya- is generally analyzed as having the adverbial prefix su- ‘good’, hence ‘aus gutem Stoff’ (Geldner). However, AiG II.2.770 reports a suggestion of Thieme's (apparently only reported in AiG, not published) that it's ‘aus Eber(-zahn) verfertigt’, with an unextended root noun sū- ‘(wild) pig, boar’, which is the basis of sūkará- ‘boar’ (already RV VII.55.4) and which has numerous IE cognates.
 
@@ -152,23 +152,23 @@ On these verses as possible explanatory additions to the Emuṣa version given e
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most deadly is thy bow, successful, fashioned well: good is thine arrow, decked with gold.  
      Warlike and well equipped thine arms are, which increase sweetness for him who drinks the sweet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele verwundend, wohlgemacht, aus gutem Stoff ist dein Bogen, der treffliche, goldene Bunda. Deine beiden Arme sind kampflustig, wohlgeformt, die verwundbaren Stellen treffend auch bei dem, der sie schützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gut ist dein Bogen, viele tilgend, schönbereitet, gut treffend ist dein goldner Pfeil; erfreulich und schön gefüllt sind deine Arme, und Süssigkeit liebt dein Lippenpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно сделан из прекрасного материала твой мощно ранящий лук,  
 Достигает цели золотая стрела.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡द꣡म् ए꣡कम् ए꣡को अस्मि निष्षा꣡ळ्  
 अभी꣡ दुवा꣡ कि꣡म् उ त्र꣡यः करन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कि꣡म् मा निन्दन्ति श꣡त्रवो अनिन्द्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 खले॑ । न । प॒र्षान् । प्रति॑ । ह॒न्मि॒ । भूरि॑ । किम् । मा॒ । नि॒न्द॒न्ति॒ । शत्र॑वः । अ॒नि॒न्द्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīdam* ← *abhi*
 - \[adverb\]
@@ -151,36 +151,36 @@ genre M
 अहम् **इदम्** इदानीम् **एकं** शत्रुम् **एकः** असहाय एव सन् **अभि** **अस्मि** अभिभवामि । किंच **निष्षाट्** सपत्नान्निःषहमाणोऽहं **द्वा** द्वावप्यसह्यौ शत्रू **अभि** अस्मि । **किमु** किं वा **त्रयः** शत्रवः **करन्ति** कुर्वन्ति । तानप्यभिभवामीत्यर्थः । किं बहुना । **खले** **न** खलनिष्पादने यथा जीर्णव्रीह्यादिस्तम्बाननायासेन प्रतिहन्ति कर्षकः तद्वत् **पर्षान्** निष्ठुरान् **भूरि** बहून् शत्रून् **प्रति** **हन्मि** । **मा** माम् **अनिन्द्राः** इन्द्ररहिता इन्द्रमजानन्त इन्द्रविरोधिनः **शत्रवः** मामिन्द्रं **किं** **निन्दन्ति** । निन्दितुमशक्ता इत्यर्थः । अत्र ‘ अभिभवामि' (निरु. ३. १०) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Single, I overcome my single (adversary); (over-powering them) I overcome two foes; what can threeenemies who know not **Indra** revile me?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One against one here, I am the utter victor—and against two. What can  three do?  
 I strike against a multitude, like sheaves on a threshing floor. Do my  rivals, who have no Indra, scorn me?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒भी॒३॒॑दमेक॒मेको॑ अस्मि नि॒ष्षाळ॒भी द्वा किमु॒ त्रयः॑ करन्ति ।  
 खले॒ न प॒र्षान्प्रति॑ हन्मि॒ भूरि॒ किं मा॑ निन्दन्ति॒ शत्र॑वोऽनि॒न्द्राः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da bin ich Einer, gegen Einen Sieger, gegen Zwei. Was machen mir auch Drei aus? Wie die Garben auf der Tenne dresche ich eine Mehrzahl. Wozu schmähen mich die Feinde, die keinen Indra als Gott haben?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich einer bin der einen Welt Bewält'ger; was können zwei, was können drei mir anthun? Wie Garben auf der Tenne dresch' ich viele; was tadeln mich die indralosen Feinde?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот я один победитель против одного,  
 Против двоих. Что же трое (мне) сделают?  

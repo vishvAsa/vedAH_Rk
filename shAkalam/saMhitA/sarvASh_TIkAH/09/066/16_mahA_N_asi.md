@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ असि सोम ज्ये꣡ष्ठ  
 उग्रा꣡णाम् इन्द ओ꣡जिष्ठः  
 यु꣡ध्वा स꣡ञ् छ꣡श्वज् जिगेथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 युध्वा॑ । सन् । शश्व॑त् । जि॒गे॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -90,19 +90,19 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** त्वं **महान्** **असि** यतस्त्वं देवानां प्रीणयितासि खलु। त्वं **ज्येष्ठः** प्रशस्यतमो भवसि । किंच हे **इन्दो** पवमान त्वम् **उग्राणाम्** उद्गूर्णबलानामपि **ओजिष्ठः** ओजस्वितमो भवसि । त्वं **युध्वा** **सन्** शत्रुभिः सह युद्धं कुर्वन्नेव **शश्वत्** सर्वदा **जिगेथ** तांस्तेषां धनानि च जितवानसि ।' जि जये'। थलि ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कवर्गादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, you are great, most worthy to be praised; **Indu**, (you are) the most vigorous of the mighty; engaged in battle you ever triumph.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great are you, Soma, preeminent, strongest of the strong, o drop. Being a battler, you win every time.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Renou points out, sán here is non-concessive. Instead it seems to have a function rather like the one I identified in III.30.5 (see comm. ad loc.), namely a definitional one: where, on the basis of the description of the god’s activities or qualities, he is assigned an agentive title.
 
@@ -117,23 +117,23 @@ The first two vss. are linked lexically and by their investment in grammatical c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Best art thou, Soma, of the great, Strongest of strong ones, Indu: thou  
      As Warrior ever hast prevailed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß bist du, Soma, der Oberste, o Saft, der Gewaltigen Gewaltigster. Als Streiter hast du jedesmal gesiegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross bist, Soma, du, der beste, Indu, und der starken stärkster, Stets bist Sieger du im Kampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

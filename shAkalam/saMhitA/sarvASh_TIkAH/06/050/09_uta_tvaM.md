@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वं꣡ सूनो सहसो नो अद्य꣡  
 आ꣡ देवाँ꣡ अस्मि꣡न् अध्वरे꣡ ववृत्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡व स्याम् अग्ने अ꣡वसा सुवी꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्याम् । अ॒हम् । ते॒ । सद॑म् । इत् । रा॒तौ । तव॑ । स्या॒म् । अ॒ग्ने॒ । अव॑सा । सु॒ऽवीरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 **उत** अपि च हे **सहसः** **सूनो** बलस्य पुत्राग्ने **त्वम्** **अद्य** अस्मिन् काले **नः** अस्मदीये **अस्मिन्नध्वरे** यागे **देवान्** यष्टव्यानिन्द्रादीन् **आ** **ववृत्याः** आवर्तय । आगमय । अपि च **अहं** **ते** तव **रातौ** धनस्य दाने **सदमित्** सर्वदैव वर्तमानः **स्यां** भवेयम् । तथा हे **अग्ने** **तव** **अवसा** त्वदीयेन रक्षणेन **सुवीरः** शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेतश्च **स्यां** भवेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And do you, son of strength, bring back today the deities to this our sacrifice; may I be ever in (the enoyment of) your bounty; may I, through your protection, **Agni**, be blessed with excellent **male** descendants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you, Son of Strength—you should turn the gods hither to us today  to this ceremony here.  
 Might I be always within (the sphere of) your giving; by your help might  I possess good heroes, Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “within (the sphere of)” is an attempt to render the loc. rātaú, since “Might I always be in your giving” is hard to parse. Klein’s (DGRV I.422) “Might I be ever (present) at thy giving” is more elegant. I might emend the published translation to “Might I always be (there) at your giving.”
 
@@ -164,23 +164,23 @@ These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛty
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And thou, O Son of Strength, do thou turn hither the Gods to-day to this our holy service.  
      May I for evermore enjoy thy bounty and, Agni, by thy grace be rich in heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch du, o Sohn der Kraft, mögest uns heute die Götter zu diesem Opfer herlenken. Ich möchte immer bei deiner Schenkung sein; durch deine Gnade möchte ich ein Meister sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wende du, o Sohn der Kraft, uns heute die Götter her zu dieser Opferfeier; Stets möcht ich sein in deiner Gunst, o Agni, durch deinen Beistand reich an tapfern Söhnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также ты, о сын силы, сегодня к нам  
 Поверни богов на этом обряде!  

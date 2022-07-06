@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमाव् अने꣡न वां  
 यो꣡ वां घृते꣡न दा꣡शति  
 त꣡स्मै दीदयतम् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -30,7 +30,7 @@ genre D
 तस्मै॑ । दी॒द॒य॒त॒म् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomāv* ← *agnīṣomau* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -82,20 +82,20 @@ genre D
 हे अग्नीषोमौ **वां** युवयोः संबन्धी **यः** यजमानः **अनेन** **घृतेन** उत्पवनादिभिः संस्कृतेनाज्येन युक्तं हविः **वां** युवाभ्यां **दाशति** प्रयच्छति **तस्मै** यजमानाय **बृहत्** प्रभूतं धनं **दीदयतं** प्रकाशयतं प्रयच्छतमित्यर्थः । दाशति । दाशृ दाने '। शप्तिपोः पित्त्वादनुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । दीदयतम् । दीदयतिः। दीप्तिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** and **Soma**, give ample (recompense) to him who presents to you both, this clarified butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni and Soma, whoever piously honors you with this (oblation), who  honors you with ghee,  
 for him shine loftily.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All standard tr. take b vṛṣabhásyeva te rávaḥ as the main cl. to the yád cl.
 
@@ -116,23 +116,23 @@ All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is dou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni and Soma, unto him who worships you with holy oil  
      Shine forth an ample recompense.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma! Wer euch mit diesem Opfer, wer euch mit Schmalz beschenkt, dem leuchtet hoch auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der euch mit diesem Liede ehrt, mit Butter, Agni-Soma, euch, Dem strahlet hohes Gut herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, кто почитает вас  
 Этой (жертвой), кто (почитает) вас жиром, –  

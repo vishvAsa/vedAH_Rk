@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां यज्ञो꣡ नासतिया हवि꣡ष्मान्  
 कृत꣡ब्रह्मा समरि꣡यो भ꣡वाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमा꣡ ब्र꣡ह्माणि ऋच्यन्ते युव꣡भ्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । प्र । या॒त॒म् । वर॑म् । आ । वसि॑ष्ठम् । इ॒मा । ब्रह्मा॑णि । ऋ॒च्य॒न्ते॒ । यु॒वऽभ्या॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -130,37 +130,37 @@ genre M
 हे **नासत्या** अश्विनौ **वां** युवयोः **यः** यज्ञः यजमानः **समर्यः** ऋत्विग्रूपैर्मर्त्यैः सहितः सन् **हविष्मान्** हविषा युक्तः **कृतब्रह्मा** कृतस्तोत्ररूपकर्मा **भवाति** भवति तं **वरं** वरणीयं **वसिष्ठम्** **आ** **उप** **प्र** **यातं** प्रकर्षेणोपागच्छतम् । **इमा** इमानि **ब्रह्माणि** मन्त्रजातानि **युवभ्यां** युवाभ्यामर्थायागमनाय **ऋच्यन्ते** स्तूयन्ते । क्रियन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Nāsatyās**, to the excellent **Vasiṣṭha**, the worshiper who, accompanied by the priests, ispresent, offering oblations and repeating praises; these prayers are recited to (bring) you (hither).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our sacrifice, battle-ready with its offerings and (newly) created  
 formulations, will become yours, Nāsatyas.  
 Journey forth to Vasiṣṭha according to his wish. These formulations are  being chanted for you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to the sacrifice offered you, Nasatyas, with men, oblations, and prayer duly uttered.  
      Come to Vasistha as his heart desireth, for unto you these holy hymns are chanted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches Opfer auch mit Spenden und bereiteter Erbauung im Wettbewerb für euch, Nasatya´s, stattfinden mag, kommet nach Wunsch zu Vasistha! Diese erbaulichen Worte werden für euch beide angestimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Festesopfer, das euch, o wahrhafte, an Speisen reich sei und an frommen Bitten, Kommt her mit Freude und zu dem Vasischtha; Denn diese Lieder werden euch gesungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда для вас, о Насатьи, будет жертва, сопровождаемая возлияниями,  
 Состязание, связанное с сотворенными молитвами,  

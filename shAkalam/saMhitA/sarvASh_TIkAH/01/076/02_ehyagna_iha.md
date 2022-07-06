@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡हि अग्न इह꣡ हो꣡ता नि꣡ षीद  
 अ꣡दब्धः सु꣡ पुरएता꣡ भवा नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡जा महे꣡ सौमनसा꣡य देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अव॑ताम् । त्वा॒ । रोद॑सी॒ इति॑ । वि॒श्व॒मि॒न्वे इति॑ वि॒श्व॒म्ऽइ॒न्वे । यज॑ । म॒हे । सौ॒म॒न॒साय॑ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ehy* ← *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
@@ -123,7 +123,7 @@ genre M
 हे **अग्ने** **एहि** आगच्छ। **इह** अस्मिन् यज्ञे **होता** देवानामाह्वाता सन् **नि** **षीद** उपविश। **नः** अस्माकं **पुरएता** पुरतो गन्ता **सु** **भव** सुष्ठु भव । यस्मात्त्वम् **अदब्धः** राक्षसादिभिः अहिंस्योऽसि । तादृशं त्वां **विश्वमिन्वे** सर्वं व्याप्नुवत्यौ **रोदसी** द्यावापृथिव्यौ **त्वा** त्वाम् **अवतां** रक्षतां । आगत्योपविश्य च द्यावापृथिवीभ्यां रक्षितश्च सन् **महे** महते **सौमनसाय** सौमनस्याय **देवान्** दानादिगुणयुक्तान् इन्द्रादीन् 'यज हविर्भिः पूजय ॥ नि षीद । सदिरप्रतेः ' इति षत्वम् । सौमनसाय । सुमनसो भावः सौमनसम् । तस्येदम् ' इति संबन्धसामान्ये इति अण्प्रत्ययः। स चात्र भावलक्षणे संबन्धविशेषे पर्यवस्यति । यद्वा । ‘ हायनान्तयुवादिभ्योऽण् ' (पा. सू. ५. १. १३० ) इति भावे अण् । युवादिष्वस्य पाठो द्रष्टव्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,35 +134,35 @@ genre M
 Sit down: in the chamber where burnt offerings are presented
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come hither, Agni; sit down here as Hotar. Become an undeceivable  leader for us.  
 Let the two world-halves, which set everything in motion, aid you.  
 Sacrifice to the gods for great benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, Agni; sit thee down as Hotar; be thou who never wast deceived our leader.  
      May Heaven and Earth, the all-pervading, love thee: worship the Gods to win for us their favour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Come hither, Agni, sit down here as a Hotri. Become our undeceivable leader 1. May Heaven and Earth, the all-embracing, protect thee. Offer the sacrifice to the gods that they may be highly gracious to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Agni, nimm hier als Hotri deinen Sitz ein! Sei fein unser unbetörbarer Anführer! Dir sollen beide Welten beistehen, die alles Zuwegebringenden. Opfere den Göttern zu hoher Zufriedenheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm Agni her und setz dich hin als Priester, und sei uns schön ein zuverläss'ger Führer, Dir seien hold allsegnend Erd' und Himmel; den Göttern opfre uns zu grosser Freude.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди, о Агни, сюда! Сядь как хотар!  
 Будь на благо нашим предводителем, не терпящим обмана!  

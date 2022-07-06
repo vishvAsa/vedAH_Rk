@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मृज्यते सुक꣡र्मभिर्  
 देवो꣡ देवे꣡भियः सुतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मही꣡र् अपो꣡ वि꣡ गाहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि॒दे । यत् । आ॒सु॒ । स॒म्ऽद॒दिः । म॒हीः । अ॒पः । वि । गा॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -108,44 +108,44 @@ genre M;; repeated line
 **देवेभ्यः** देवार्थं **सुतः** अभिषुतः **देवः** द्योतमानः स्तोतव्यो वा **सः** सोमः **सुकर्मभिः** ऋत्विग्भिः **मृज्यते** परिपूयते । **यत्** यदायं सोमः **आसु** प्रजासु **संददिः** सम्यग्धनदानशील इति **विदे** ज्ञायते तदानीं **महीः** महतीः **अपः** वसतीवरीः **वि** **गाहते** विशेषेणाभिगच्छति । यदा सोममभिषुण्वन्ति तदा तेभ्यो धनं प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Effused for the gods, the god **Soma** is cleansed by the skilful (priests); when he is recognized among these (people) as the giver (of riches), he plural nges into the mighty waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is groomed by those who work well [=fingers], the god pressed for  the gods.  
 As his complete attachment to them [=waters] is known, he plunges  
 through the great waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of pāda c is not immediately apparent; its interpr. develops from an appreciation of the idiom inherent in the noun saṃdadí-. As discussed esp. ad I.139.1 (but see also IX.10.8, 79.4), the lexeme sám √dā belongs to √dā ‘tie’ and is used in the quite narrow idiom ‘tie/attach navel [ACC] to navel [LOC]’, generally as a metaphor to assert or display a family tie between something human and earthly and something divine and in heaven. In Renou’s words (n. to our passage): “partout dit du nombril comme point d’attache entre terre et ciel; on pourra donc ici même suppléer nā́bhiḥ” - though his tr. “quand il se reconnaît dans les (eaux que) voici, s’unissant (à elles)” reflects that interpr. only darkly, at best. The earthly/heavenly connection, in lapidary shorthand, seems to be the intent of our passage, though ‘navel’ is absent. In this particular case I would accept Lüders’s constantly asserted conception of the heavenly waters and their connection to Soma. Here because Soma’s umbilical tie to the heavenly waters (represented by the prn. āsu fem. loc.) is well known, he plunges into the ritual waters - though Lüders (23-39) identifies the two sets of waters exactly oppositely: the āsu are the earthly waters, and the “great waters” (mahī́r apáḥ) the heavenly ones. The other occurrence of saṃdadí- at II.39.7 is more attenuated even than this one.
 
 Note that ví gāhate here forms a ring with prá gāhate in 2b, which might support my view that the great waters are the ones at the ritual.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is effused and beautified, a God for Gods, by skilful men.  
      He penetrates the mighty floods collecting all he knows therein.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott wird von den Werktüchtigen geputzt, für die Götter ausgepreßt. Da er sich bewußt ist, daß er zu ihnen gehört, taucht er in die großen Gewässer ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom thät'gen wird gereinigt er, der Gott den Göttern ausgepresst, Wenn er sich mit den Fluten trifft, so taucht er in die grossen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он начищается прекрасно действующими (жрецами),  
 Бог, выжатый для богов.  

@@ -8,7 +8,7 @@ title = "+151"
 ‘ मित्रं न यम्' इति नवर्चमेकादशं सूक्तं दैर्घतमसं जागतं मैत्रावरुणम् । आद्या मैत्र्येव । अत्रानुक्रमणिका -- मित्रं नव मैत्रावरुणं हि जागतं मैत्र्याद्या ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 151  
 Mitra and Varuṇa  
@@ -21,7 +21,7 @@ Mitra and Varuṇa make their appearance in verse 2, as sacrificial partners of 
 As mentioned above, the highly wrought and cryptic treatment of the sacrifice  and Mitra and Varuṇa’s place in it is succeeded, starting with the second half of  verse 6, by a fairly uncomplex restatement of the major themes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa The published introduction. gives a conspectus of the hymn, esp. the difficult first 5 vss.
 </details>

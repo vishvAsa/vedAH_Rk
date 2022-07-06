@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वं꣡ सूकर꣡स्य दर्दृहि  
 त꣡व दर्दर्तु सूकरः꣡  
@@ -15,7 +15,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 नि꣡ षु꣡ स्वप
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -34,7 +34,7 @@ genre D;; repeated line
 स्तो॒तॄन् । इन्द्र॑स्य । रा॒य॒सि॒ । किम् । अ॒स्मान् । दु॒च्छु॒न॒ऽय॒से॒ । नि । सु । स्व॒प॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -104,41 +104,41 @@ genre D;; repeated line
 हे सारमेय **त्वं** सूकरस्य वराहस्य । द्वितीयार्थे  षष्ठी । दर्दृहि विदारय । **सूकरः** अपि **तव** दर्दर्तु विदारयतु । युवयोर्नित्यवैरित्वात् । अस्मान् मा दशेत्यर्थः । स्तोतॄन इत्यर्धर्चः पूर्वस्यामृचि व्याख्यातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you rend the hog; let the hog rend you; why do you assail the worshippers of **Indra**? Why do youintimidate us? Go quietly to sleep.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Keep tearing at the boar; let the boar keep tearing at you.  
 You are barking at the praisers of Indra. Why do you torment us? Go  to sleep!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On √sas, again see my ‘sleep’ art. cited ad vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be on thy guard against the boar, and let the boar beware of thee.  
      At Indra's singers barkest thou? Why dost thou seek to terrify us? Go to sleep.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerr an dem Eber, oder der Eber soll an dir zerren! Du bellst des Indra Lobsänger an. Was bedrohst du uns? Schlaf fein ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wilden Eber packe an, der Eber stürze sich auf dich; Was bellst du Indra's Sänger an? warum willst du uns Böses thun? – O schlaf in Ruh!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Растерзай ты кабана,  
 (Или) кабан пусть растерзает тебя.  

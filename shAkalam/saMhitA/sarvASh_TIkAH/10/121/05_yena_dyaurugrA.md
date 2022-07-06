@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न द्यउ꣡र् उग्रा꣡ पृथिवी꣡ च दॄळ्हा꣡+  
 ये꣡न सु꣡व स्तभितं꣡ ये꣡न ना꣡कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यः । अ॒न्तरि॑क्षे । रज॑सः । वि॒ऽमानः॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -121,36 +121,36 @@ popular;; repeated line
 **येन** प्रजापतिना **द्यौः** अन्तरिक्षम् **उग्रा** उद्गूर्णविशेषगहनरूपा वा । **पृथिवी** भूमिः **च** **दृळ्हा** येन स्थिरीकृता । **स्वः** स्वर्गश्च **येन** **स्तभितं** स्तब्धं कृतम् । यथाधो न पतति तथोपरि अवस्थापितमित्यर्थः । ग्रसितस्कभितस्तभित०' इति निपात्यते ॥ तथा **नाकः** आदित्यश्च **येन** अन्तरिक्षे स्तभितः । **यः** च **अन्तरिक्षे** **रजसः** उदकस्य **विमानः** निर्माता । तस्मै **कस्मै** इत्यादि गतम् ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By whom the sky was made profound and the earth solid, by whom heaven and the solar sphere werefixed, who was the measure of the water in the firmament -- let us offer worship with an oblation to the divine Ka.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By whom the mighty heaven and earth were made firm; by whom the sun  was steadied, by whom the firmament;  
 who was the one measuring out the airy realm in the midspace— – Who  is the god to whom we should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By him the heavens are strong and earth is stedfast, by him light's realm and sky-vault are supported:  
      By him the regions in mid-air were measured. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den der gewaltige Himmel und die Erde gefestigt ist, durch den die Sonne gestützt wird und das Firmament, der in der Luft den Raum durchdringt. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch den der Himmel stark ist, fest die Erde, der Aetherraum, des Himmels Dom gestützt ist, Der in der Luft den weiten Kaum durchmessen, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кем грозно небо, кем тверда земля,  
 Кем установлено солнце, кем – небосвод,  

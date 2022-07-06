@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वद्मा꣡ सूनो सहसो नो वि꣡हाया  
 अ꣡ग्ने तोकं꣡ त꣡नयं वाजि꣡ नो दाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡देम · शत꣡हिमाः सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वा॑भिः । गीः॒ऽभिः । अ॒भि । पू॒र्तिम् । अ॒श्या॒म् । मदे॑म । श॒तऽहि॑माः । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vadmā* ← *vadman*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M;; repeated line
 हे **सहसः** **सूनो** **अग्ने** **विहायाः** । महन्नामैतत् । महांस्त्वं **नः** अस्माकं **वद्मा** वदिता हितोपदेष्टा भव । अपि च **तोकं** पुत्रं **तनयं** तत्पुत्रं च **वाजि** अन्नयुक्तं **नः** अस्मभ्यं **दाः** देहि । अहं स्तोता **विश्वाभिः** सर्वाभिः **गीर्भिः** त्वद्विषयाभिः **पूर्तिं** कामानां संपूर्तिम् **अभि** **अश्याम्** अभिप्राप्नुयाम् । अन्यद्गतम् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,36 +144,36 @@ genre M;; repeated line
 Same as in RV. 3.005.11
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, son of strength, eloquent, of extensive power, grant us progeny  and posterity and prizewinning (steeds).  
 With all my hymns may I attain to fulfillment. – Having good heroes  might we rejoice for a hundred winters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou separate pādas a and b, and Geldner’s tr. seems at least potentially to take the subj. of a, vadmā́, as non-coreferntial with Agni (“Ein Redner … (werde) uns ... zuteil”), but since vadmán- occurs only here and in nearby VI.4.4, where it definitely refers to Agni, I do not see the point.
 
 A factor influencing the Geldner/Renou separation of the pādas may be the apparent presence of enclitic naḥ in both pādas: … no víhāyā(ḥ)# / … no dāḥ#. However, the second naḥ should almost certainly be read as the final syllable of the preceding vājí, thus *vājínaḥ, acc. pl. of vājín-, a possibility floated by Geldner in n. 6b. Note only does this reading eliminate the pleonastic+++(=redundant)+++ enclitic, but it also eliminates the only supposed neut. nom./acc. sg. to vājín-, which would be required to modify neut. tókam (e.g., Geldner “siegestekrönten leiblichen Samen”). A change is only required in the Pp.; the Saṃhitā text is undisturbed. An asterisk should be inserted in the published translation before “prize-winning.” The seemingly late position of naḥ in pāda a, before the final word víhāyāḥ, is actually not so late after all: it can count as (modified) Wackernagel’s position, after an accented initial word (vadmā́) followed by the phrasal vocative sūno sahasaḥ. ## 014 Agni
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eloquent, Son of Strength, Most Mighty, Agni, vouchsafe us seed and offspring, full of vigour.  
      May I by all my songs obtain abundance. May brave sons gladden us through a hundred winters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Redner in voller Kraft werde uns, o Sohn der Stärke, zuteil. O Agni, gib uns siegesgekrönten leiblichen Samen! Mit allen Reden möchte ich reichen Lohn erlangen. Wir wollen, hundert Winter lebend, als Meister frohlocken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als kräft'ger Rufer schenk, o Sohn der Kraft uns, o Agni, Kinder, Enkel, reich an Nahrung; Durch alle Lieder mög' ich Lohn erlangen; froh sei'n wir, reich an Söhnen, hundert Winter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Будь) нам деятельным защитником, о сын силы!  
 О Агни, дай нам детей и внуков, завоевывающих награду!  

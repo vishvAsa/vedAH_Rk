@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् रोदसी प्रदि꣡वो अ꣡स्ति भू꣡मा  
 हे꣡ळो देवा꣡नाम् उत꣡ मर्तियत्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रक्षोयु꣡जे त꣡पुर् अघं꣡ दधात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 तत् । आ॒दि॒त्याः॒ । व॒स॒वः॒ । रु॒द्रि॒या॒सः॒ । र॒क्षः॒ऽयुजे॑ । तपुः॑ । अ॒घम् । द॒धा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -117,7 +117,7 @@ genre M
 ”रोदसी हे द्यावापृथिव्यौ हे **आदित्या:** हे **वसवः** **रुद्रियासः** हे रुद्रपुत्रा मरुतः **मर्त्यत्रा** मर्त्येषु अश्विनोः परिचारकेषु **देवानां** **यत्** **हेळ:** क्रोधः **भूम** महान् **अस्ति** **तत्** हेळ: **तपुः** तापकं **रक्षोयुजे** रक्षोभिर्युक्ताय रक्षसां स्वामिने प्रेरकाय वा **अघम्** आहन्तृ **दधात** कुरुत । अथवा रक्षोयुजे रक्षोभिर्युक्ताय यज्वने अघमाहन्तृ कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,36 +128,36 @@ genre M
 Rakṣoyuje = rākṣasam svāmine prerakāya vā; rakso.obhir yuktāya yajvane, one who sacrifices, assisted or joined by the rākṣasas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O world-halves, the anger of gods and among mortals that exists from  of old on earth,  
 direct that evil heat at the yokemate of demons, o Ādityas, Vasus, and  Rudriyas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The grammatical identity of bhū́mā (Pp. bhū́ma) is disputed. Geldner considers it to belong to a (hapax) adj. stem *bhū́man- derived from bhūmán- ‘abundance’, used adverbially (“reichlich”). This does not seem to have much to recommend it. More appealing is to make it somehow related to a word for ‘earth’. Renou tries an instr. of bhū́man- ‘earth’, but not with much conviction. Oldenberg rehearses -- mostly to firmly reject -- other possibilities, incl. the one that I favor: that it is the loc. of bhū́mi-. He objects that we should expect (and do indeed get) bhū́myām to this fem. stem, but at this period I don’t think this would be necessary for a fem. short-i-stem. His other object is more cogent, that to a short-i-stem we would expect bhū́mau pāda-final. I don’t have a clinching arg. against this, but would point out that there is some variation in these patterns. And this pāda seems to be playing with the heaven / earth distinction by other means: we first have the two world halves (rodasī), followed by (pra-)dívaḥ … bhū́mā, which distantly evokes dyā́vā-bhū́mī. The off-balance pairing is matched by the off-balance pairing of gods and mortals discussed immediately below.
 
 The conjoined NP devā́nām utá martyatrā́“of gods and among mortals” shows the familiar god / mortal opposition, but what Klein (DGRV I.311-12) calls “a peculiar absence of morphological parallelism.” It is tempting to make it mean “the anger of the gods towards mortals,” but I think utá is there precisely to block that reading, pace Scarlatta (429) “Den Groll der Götter … der auch auf die Sterblichen gerichtet …ist.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whate'er from olden time, Heaven, Earth! existeth great object of the wrath of Gods and mortals,  
      Make that, Adityas, Vasus, sons of Rudra, an evil brand to one allied with demons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Groll der Götter und bei den Sterblichen, der seit lange reichlich vorhanden ist, o Himmel und Erde, den machet, o Aditya´s, Vasu´s, Rudasöhne, zur bösen Glut für den, der mit dem Unhold verbündet ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Zorn der Götter, o ihr Welten beide, von Alters her auf der Erde ruht und auf den Menschen, den werfet, o Aditja's, Vasu's, Rudra's, auf den Gefährten der Nachtgeister, die heisse Plage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) гнев богов и (тот, что) среди смертных,  
 Который, о две половины вселенной, от века существует на земле,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् ए꣡क इत्था꣡ पुरु꣡  
 उरु꣡ चष्टे वि꣡ विश्प꣡तिः  
 त꣡स्य व्रता꣡नि अ꣡नु वश् चरामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 तस्य॑ । व्र॒तानि॑ । अनु॑ । वः॒ । च॒रा॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -98,41 +98,41 @@ genre M
 मित्रस्य कर्माण्याह । **विश्पतिः** विशां पालयिता अनयोर्मित्रावरुणयोः **एकः** **अयं** मित्रः **पुरु** पुरूणि बहूनि च **उरु** उरूणि च द्रव्याणि **इत्था** इत्थं **वि** **चष्टे** स्वतेजसा पश्यति । **तस्य** मित्रस्य **व्रतानि** कर्माणि **वः** युष्मदर्थम् **अनु** **चरामसि** अनुचरामः । कुर्म इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This one, the lord of man (**Mitra**), contemplates many vast things; we follow his rites for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (Sun) here, as clanlord, gazes widely—the one (gazing) over  the many.  
 We proceed according to his commandments and yours [=Ādityas’].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 itthā́is not sufficiently represented in the published translation I would now insert “just so” after “the many.” ánu … carāmasi could also be subjunctive (so Geldner), “we shall proceed,” though the undoubted indicative ánu … saścima in the parallel phrase in 17ab supports an indicative interpr. here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here this one God, the Lord of men, looks forth exceeding far and wide:  
      And we, for your advantage, keep his holy laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Stammesfürst dort schaut ganz allein über vieles weithin. Seinen Geboten wollen wir für euch nachkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schauet dieser eine hier, der Hausherr viel und weit hinaus; Wir folgen dessen Satzungen, o Götter, nach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот (Сурья) совсем один  
 Далеко осматривает многое как господин племен.  

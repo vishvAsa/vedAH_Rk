@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते अ꣡न्तः श꣡वसो धायि अस्य꣡  
 वि꣡ तु꣡ बाबधे रो꣡दसी महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूथे꣡वाप्सु꣡ समी꣡जमान ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । ता । सू॒रिः । पृ॒ण॒ति॒ । तूतु॑जानः । यू॒थाऽइ॑व । अ॒प्ऽसु । स॒म्ऽईज॑मानः । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 हे इन्द्र **ते** तव **अस्य** उक्तगुणस्य **शवसः** बलस्य **अन्तः** अवसानं **न** **धायि** । अत्र केवलोऽपि दधातिरवपूर्वार्थो द्रष्टव्यः । नावाधायि । अस्माभिर्नाज्ञायीत्यर्थः । यद्बलं **रोदसी** द्यावापृथिव्यौ **महित्वा** महत्त्वेन **तु** क्षिप्रं **वि** **बाबधे** यस्माद्बलात् द्यावापृथिव्यौ बिभीत इत्यर्थः । **ता** तद्बलं **सूरिः** स्तोता **तूतुजानः** त्वरितः सन् **ऊती** ऊत्या तर्पकेण हविषा **समीजमानः** सम्यग्यजन् **आ** **पृणति** आपूरयति । तत्र दृष्टान्तः । **यूथेव** **अप्सु** उदकेषु गवां यूथानीव यथा गोपालः अपः पाययन्नद्भिस्तर्पयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,13 +140,13 @@ genre M
 Ūti = ūtya, i.e. tarpakena haviṣā, with the satisfying oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No limit has been set for this vast power of yours. He forced apart the  two world-halves with his greatness.  
 With his help our patron [=Indra] brings these things to fulfillment as he  keeps thrusting, as if driving his herds together to the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another tricky etymological figure is found in the hapax cmpd satya-satvan, both members of which have developed their own lexical senses but both derived from √as ‘be’.
 
@@ -155,23 +155,23 @@ For prapathin see comm. ad I.166.9.
 The stem carṣaní- returns as the last word of the hymn, echoing 1d, for which see published introduction. The ring composition is rather perfunctory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No limit of thy might hath been appointed, which by its greatness sundered earth and heaven.  
      These the Prince filleth full with strong endeavour, driving, as 'twere, with help his flocks to waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser deiner Kraft ist keine Grenze gesetzt, vielmehr drängt er beide Welten auseinander durch seine Größe. Alle diese Wünsche erfüllt der edle Herr sich beeifernd in seiner Gnade, der sie in der Hand hält, wie der gute Hirt die Herden im Wasser zusammenhält.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gibt's ein Ende dieser deiner Stärke; mit seiner Grösse drängt er fort das Weltpaar, Dies alles wirket eifervoll der reiche, durch Trunk erquickt, wie Heerden an dem Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не положено предела этой силе твоей.  
 Он же (своим) величием оттесняет в разные стороны две половины вселенной.  

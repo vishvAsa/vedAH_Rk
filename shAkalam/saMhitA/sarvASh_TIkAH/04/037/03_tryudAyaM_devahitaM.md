@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिउदायं꣡ देव꣡हितं य꣡था व  
 स्तो꣡मो वाजा ऋभुक्षणो ददे꣡ वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युष्मे꣡ स꣡चा बृह꣡द्दिवेषु सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जु॒ह्वे । म॒नु॒ष्वत् । उप॑रासु । वि॒क्षु । यु॒ष्मे इति॑ । सचा॑ । बृ॒हत्ऽदि॑वेषु । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tryudāyaṃ* ← *tri*
 - \[noun\]
@@ -125,7 +125,7 @@ genre M
 **त्र्युदायं** त्र्युदयं सवनत्रयगमनोपेतं **देवहितं** सोमाख्यमन्नं देवेभ्यो हितं देवैर्वा विहितम् । तृतीयसवनस्थम् इत्यर्थः । तत् **यथा** **वः** युष्मान् **ददे** धारयति । हे **वाजाः** हे **ऋभुक्षणः** ऋभवो यथा **स्तोमः** स्तोत्रं **वः** ददे धारयति । **उपरासु** । उप देवयजनसमीपे रमन्ते इत्युपराः । तासु **विक्षु** प्रजासु **बृहद्दिवेषु** प्रभूतदीप्तिषु देवेषु मध्ये **मनुष्वत्** मनुरिव **युष्मे** युष्मदर्थं **सचा** सह अनेकग्रहेषु प्रस्थितं **जुह्वे** जुहोमि **सोमम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ genre M
 I offer you: juhve manuṣvat uparasu vikṣu yuṣme sacā bṛhad diveṣu **somam**: upara = those who are plural ased or sport near the worship of the gods, devayajana samīpe ramantaḥ; tāsu vikṣu-prajāsu = in or among such people; bṛhaddiveṣu is an epithet of deveṣu implied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as the thrice ascending (soma-pressing) has been established by the  gods for you and the praise song has been given to you, o Vājas, o  
 R̥bhukṣans,  
 I, like Manu, offer the soma among the clans below [=humans] to you  together with the (clans) of lofty heaven [=gods].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your threefold going near is God-appointed, so praise is given you, Vajas and Rbhuksans.  
      So, Manus-like, mid younger folk I offer, to you who are aloft in heaven, the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie euch das ... von den Göttern bestimmt ist und euch, Vaja´s, Ribhuksan´s, das Preislied gewährt wurde, so opfere ich unter den nachgeborenen Clanen, wie Manu tat, euch in Gesellschaft der Himmlischen den Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie euch dreimal'ges gottgeliebtes Opfer und Loblied, Vadscha's, Ribhu's, euch geweiht war, Künd' ich, wie Manus, euch in untern Häusern den Soma an, die hoch ihr wohnt im Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раз (выжимание) с тремя восхождениями (на алтарь) установлено богами для вас  
 (И) вам предназначено восхваление, о Ваджи, Рибхукшаны,  

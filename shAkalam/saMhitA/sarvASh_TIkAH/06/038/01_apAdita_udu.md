@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पाद् इत꣡ उ꣡द् उ नश् चित्र꣡तमो  
 मही꣡म् भर्षद् द्युम꣡तीम् इ꣡न्द्रहूतिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡नस्य रातिं꣡ वनते सुदा꣡नुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पन्य॑सीम् । धी॒तिम् । दैव्य॑स्य । याम॑न् । जन॑स्य । रा॒तिम् । व॒न॒ते॒ । सु॒ऽदानुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apād* ← *apāt* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
@@ -119,20 +119,20 @@ genre M
 **चित्रतमः** चायनीयतम आश्चर्यतमो वा स इन्द्रः **नः** अस्मदीयात् **इतः** अस्मात् ग्रहचमसादेः **अपात्** सोमं पिबतु । यद्वा । इतोऽस्मात् शत्रोर्नोऽस्मान् अपात् पातु रक्षतु । **उदु** इत्येतौ पूरणौ । तथा **महीं** महतीं **द्युमतीं** दीप्तिमतीम् **इन्द्रहूतिम्** इन्द्रस्य स्तुतिं **भर्षत्** स इन्द्रो बिभर्तु धारयतु । **दैव्यस्य** देवसंबन्धिनो **जनस्य** **यामन्** यामनि यज्ञे क्रियमाणां **पन्यसीं** स्तुत्यतमां **धीतिं** परिचरणरूपां क्रियां **रातिं** दातव्यं हविश्च **सुदानुः** शोभनदान इन्द्रः **वनते** संभजतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the most marvellous **Indra** drink from this (our cup); may he acknowledge our earnest and brilliant invocation; may the munificent (Indra) accept the offering and the praiseworthy adoration at the sacrifice of the devout worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=Agni?] has drunk from here; the most glittering one will carry up  our great, heaven-bright invocation to Indra.  
 On his journey he of good gifts will win a more admirable insightful  thought as present for the divine folk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The unclear reference just noted is found in the first word of the hymn, 3rd sg. aor. ápāt ‘he has drunk’, whose subject is not expressed. On the one hand, this is an Indra hymn and Indra is the prototypical drinker of soma (cf., e.g., the opening of nearby VI.40.1 índra piba, as well as ápāḥ in the 1st vs. of the next hymn, nearly identical to our verb and with Indra clearly meant as subj.), so we might expect Indra as subject. On the other, the most likely referent of the almost immediately following nominative citrátamaḥ, who bears the invocation upward, is Agni, and as the mouth of the gods, he can also be considered to drink (though not usually soma). Parsimony might suggest that the two unidentified subjects in the first hemistich are identical, hence Agni. In the published translation I supply Agni, with ?, but I am not at all certain that the first subject isn’t Indra. Or, more likely, that the poet meant to leave it open.
 
@@ -152,23 +152,23 @@ As noted in the published introduction, I think vs. 2 functions as complementary
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE hath drunk hence, Most Marvellous, and carried away our great and splendid call on Indra.  
      The Bounteous, when we serve the Gods, accepteth song yet more famous and the gifts we bring him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat daraus getrunken und es möge der Wunderbarste unsere große, glänzende Indraladung sich ausersehen. Das beste Gedicht als Gabe für das himmlische Volk begehrt der freigebige Indra auf seiner Fahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er trank hieraus, nun nehme auf der schönste den glänzenden, den grossen Indra-anruf; Das herrliche Gebet empfängt am Feste des Götterstamms der reiche und die Spende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он выпил из него, а наш ярчайший  
 Пусть (теперь) примет великое сверкающее приглашение Индры.  

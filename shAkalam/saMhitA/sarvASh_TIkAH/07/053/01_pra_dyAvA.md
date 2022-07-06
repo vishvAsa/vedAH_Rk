@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ द्या꣡वा यज्ञइः꣡ पृथिवी꣡ न꣡मोभिः  
 सबा꣡ध ईळे बृहती꣡ य꣡जत्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरो꣡ मही꣡ दधिरे꣡ देव꣡पुत्रे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ते इति॑ । चि॒त् । हि । पूर्वे॑ । क॒वयः॑ । गृ॒णन्तः॑ । पु॒रः । म॒ही इति॑ । द॒धि॒रे । दे॒वपु॑त्रे॒ इति॑ दे॒वऽपु॑त्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -129,41 +129,41 @@ genre M
 **यजत्रे** यजनीये **बृहती** बृहत्यौ महत्यौ **द्यावा** **पृथिवी** द्यावापृथिव्यौ **यज्ञैः** यागैः **नमोभिः** स्तोत्रैश्चाहं स्तोता **सबाधः** बाधासहितः । ऋत्विजां संबाधयुक्त इत्यर्थः । **प्र** **ईळे** प्रकर्षेण स्तौमि । **मही** महत्यौ **देवपुत्रे** । देवाः पुत्रा ययोस्ते । **ते** **चिद्धि** तादृश्यौ खल्वपि द्यावापृथिव्यौ **पूर्वे** पुरातनाः **कवयः** गृणन्तः स्तुवन्तः **पुरः** **दधिरे** पुरस्तात् स्थापयामासुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Attended by a concourse (of priests) I worship the adorable and mighty Heaven and Earth withsacrifices and praises, those wo great ones of whom the gods are the sons, whom ancient sages glorifying haveformerly detained.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I urgently invoke Heaven and Earth, the lofty ones worthy of the  sacrifice, with sacrifices and acts of reverence,  
 for the ancient poets who also hymned them set in front those two great  ones whose sons are the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The té that opens the 2nd hemistich is ambiguous: it can be nom. pl. m., modifying kaváyaḥ, or acc. du. f., providing the object of puráḥ … dadhiré.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AS priest with solemn rites and adorations I worship Heaven and Earth, the High and Holy.  
      To them, great Parents of the Gods, have sages of ancient time, singing, assigned precedence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zuvor rufe ich Himmel und Erde unter Opfern und Verbeugungen eindringlich an, die Hohen, Opferwürdigen, denn auch die früheren Seher haben lobpreisend diese beiden großen Göttereltern vorangestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Opfern ehr' ich eifervoll in Demuth die hohen heil'gen Himmel und die Erde, Denn hoch sind sie, die grossen Götterältern, geehrt von alten Dichtern, die sie priesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прежде всего я настойчиво зову Небо-и-Землю  
 Жертвами (и) поклонениями, высоких, достойных жертв.  

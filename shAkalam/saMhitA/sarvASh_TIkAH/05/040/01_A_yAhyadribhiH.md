@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि अ꣡द्रिभिः सुतं꣡  
 सो꣡मं सोमपते पिब  
 वृ꣡षन्न् इन्द्र वृ꣡षभिर् वृत्रहन्तम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वृष॑न् । इ॒न्द्र॒ । वृष॑ऽभिः । वृ॒त्र॒ह॒न्ऽत॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -94,35 +94,35 @@ genre M
 हे इन्द्र **आ** **याहि** अस्मद्यज्ञमागच्छ । आगत्य च हे **सोमपते** सोमस्य स्वामिन्निन्द्र **अद्रिभिः** ग्रावभिः **सुतं** अभिषुतं **सोमं** पिब । हे **वृषन्** फलस्य वर्षयितः **वृत्रहन्तम** अतिशयेन शत्रूणां हन्तृतम **वृषभिः** वर्षकैर्मरुद्भिः सहा याहि पिब च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Indra**, (to our sacrifice); drink, lord of the **Soma**, of the juice expressed by the stones; showerer (of benefits), utter destroyer of **Vṛtra**, (come) with the showering (**Maruts**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive hither. Drink the soma pressed with stones, you lord of soma— bullish Indra, with your bulls, best smasher of obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord,  
      Indra best Vrtra-slayer Strong One, with the Strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, trink den mit Steinen ausgeschlagenen Soma, du Somaherr, du Bulle Indra, mit den Bullen, du größter Vritratöter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm, trinke Soma, Somaherr, den dir die Steine kelterten, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

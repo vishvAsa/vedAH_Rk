@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ तुर्व꣡णिर् महाँ꣡ अरेणु꣡ पउं꣡सिये  
 गिरे꣡र् भृष्टि꣡र् न꣡ भ्राजते तुजा꣡ श꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दुध्र꣡ आभू꣡षु राम꣡यन् नि꣡ दा꣡मनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येन॑ । शुष्ण॑म् । मा॒यिन॑म् । आ॒य॒सः । मदे॑ । दु॒ध्रः । आ॒भूषु॑ । र॒मय॑त् । नि । दाम॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 **सः** इन्द्रः **तुर्वणिः** शत्रूणां हिंसिता क्षिप्रकारी वा । • तुर्वणिस्तूर्णवनिः ' ( निरु. ६. १४ ) इति यास्कः । तूर्णसंभजन इति तस्यार्थः । **महान्** प्रवृद्धश्च भवति । तस्येन्द्रस्य **शवः** बलं **पौंस्ये** वीरैः पुरुषैः कर्तव्ये संग्रामे **अरेणु** अनवद्यं **तुजा** शत्रूणां हिंसकं सत् **भ्राजते** दीप्यते। तत्र दृष्टान्तः । **गिरेः** पर्वतस्य **भृष्टिर्न** ऋङ्गमिव । तद्यथोन्नतं सद्दीप्यते तद्वत्। **आयसः** अयोमयकवचयुक्तदेहः **दुध्रः** दुष्टानां शत्रूणां धर्तावस्थापयिता एवंभूत इन्द्रः **मदे** सोमपानेन हर्षे सति **येन** बलेन **शुष्णं** सर्वस्य शोषकमसुरं **मायिनं** मायाविनम् **आभूषु** कारागृहेषु **दामनि** बन्धके निगडे **नि** **रमयत्** न्यवासयत् । तद्वलमिति पूर्वेणान्वयः ॥ तुर्वणिः । तुर्वी हिंसार्थः । अस्मात् औणादिकः अनिप्रत्ययः । अरेणु । रेणुवदाच्छादकत्वात् रेणुशब्देनावद्यमुच्यते । बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । तुजा। ‘तुज हिंसायाम्'। इगुपधलक्षणः कः। ‘सुपां सुलुक्' इति विभक्तेः आकारः। दुध्रः। दुष्टान् ध्रियतेऽवस्थापयतीति दुध्रः । ‘धृञ् अवस्थाने' इत्यस्मात् अन्तर्भावितण्यर्थात् मूलविभुजादित्वात् कप्रत्ययः (पा. सू. ३. २. ५. २)। यणादेशः । रेफलोपश्छान्दसः । रमयत् । अमन्तत्वात् मित्त्वे  ‘ मितां ह्रस्वः' इति ह्रस्वत्वम् । छान्दसः संहितायां दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,7 +140,7 @@ genre M
 **Āyasaḥ** = of iron, i.e. whose body is defended by armour of metal; an intimation of **Indra** as an idol
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is surpassing and great in masculine strength, (even) without  raising dust. Like the peak of a mountain his power glints with its  thrusting,  
 (the power) with which his headstrong metal (weapon), in his  
@@ -148,30 +148,30 @@ exhilaration and among those standing by him, brought wily Śuṣṇa
 down to rest in fetters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Like a mountain peak, … glints with its thrusting” - the image seems to that of a pointed, snow-capped mountain, with the snow shining in the sun and the point appearing to thrust into the sky, though of course it doesn’t move.
 
 Again Geldner suggests that pāda-final śávaḥ could be for instr. śávasā, though he doesn’t so tr. - only wistfully remarks that ab could be a single sentence if śávaḥ were instr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious, great is he; in manly battle shines, unstained with dust, his might, as shines a mountain peak;  
      Wherewith the iron one, fierce e'en against the strong, in rapture, fettered wily Sushna fast in bonds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Überlegene, groß an Manneskraft auch ohne Staub. Wie die Zacke des Berges glüht vor Eifer seine Kraft, mit der der Eisenfeste im Rausche, in Sachen seiner Anhänger hartnäckig, den Zauberer Susna in Fesseln zur Ruhe brachte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist siegreich, der grosse; staublos erglänzt in der Heldenschar wie des Felsens Zacke durch Ungestüm seine Kraft, durch welche im Rausche der vordringende eherne [Blitz] den listigen Çuschna bei seinen Gehülfen in Fesseln schlug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он – победитель, великий в деле мужества, (даже) без пыли (сражений).  
 Словно вершина горы, сверкает пылом (его) мощь неистовая,  

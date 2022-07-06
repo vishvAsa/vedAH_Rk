@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡त्य् अग्ने मिथुना꣡ दह  
 यातुधा꣡ना किमीदि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡दब्धं विप्र म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 सम् । त्वा॒ । शि॒शा॒मि॒ । जा॒गृ॒हि । अद॑ब्धम् । वि॒प्र॒ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praty* ← *prati*
 - \[adverb\]
@@ -96,7 +96,7 @@ popular;; epic anuṣṭubh (424)
 हे **अग्ने** त्वं **मिथुना** मिथुनभूतानि **किमीदिना** । किमिदानीमिति ये चरन्ति ते किमीदिनः । तान् । तथा च यास्कः - ‘ किमीदिने किमिदानीमिति चरते किमिदं किमिदमिति वा ' ( निरु. ६. ११ ) इति । **यातुधाना** यातुधानान्राक्षसान् **प्रति** **दह**। किंच हे **विप्र** मेधाविन्नग्ने **अदब्धं** केनाप्यहिंसितं **त्वा** त्वां मन्मभिः स्तुतिभिरहं **सं** **शिशामि** स्तौमीत्यर्थः । अतस्त्वं **जागृहि** निद्रां मा कुरु । बुध्यस्वेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,30 +107,30 @@ popular;; epic anuṣṭubh (424)
 Kimīdins: a kind of **rākṣasas**; **Nirukta** 6.11: those who wander about saying kimidānīm, what now? or kim idam, what is this?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Burn against the pair of sorcerers, the two worm-eaters.  
 I sharpen you, the undeceivable—awaken!—with my thoughts, o  
 inspired poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Burn thou the paired Kimidins, brun, Agni, the Yatudhana pairs.  
      I sharpen thee, Infallible, with hymns. O Sage, be vigilant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Versenge, Agni, das Zauber- und Kimidin-Paar! Ich mache dich scharf - sei wachsam - mit meinen Gebeten dich den Untrüglichen, du Redekundiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brenn die gepaarten Zauberer und Frevelgeister, Agni, fort, Durch Lieder schärf' ich, weisen dich, sei wachsam, du untrüglicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испепели, о Агни, пары  
 Колдунов (и) кимидинов!  

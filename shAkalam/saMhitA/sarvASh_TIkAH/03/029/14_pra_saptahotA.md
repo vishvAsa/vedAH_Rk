@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सप्त꣡होता सनका꣡द् अरोचत  
 मातु꣡र् उप꣡स्थे य꣡द् अ꣡शोचद् ऊ꣡धनि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् अ꣡सुरस्य जठ꣡राद् अ꣡जायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 न । नि । मि॒ष॒ति॒ । सु॒ऽरणः॑ । दि॒वेऽदि॑वे । यत् । असु॑रस्य । ज॒ठरा॑त् । अजा॑यत ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,41 +122,41 @@ genre D
 **सनकात्** सनातनोऽग्निः **सप्तहोता** । सप्त होतारो होत्रका यस्यासौ सप्तहोता सन् **प्र** **अरोचत** गार्हपत्यस्थानेऽदीप्यत । **यत्** यदा **मातुः** पृथिव्याः **उपस्थे** उत्सङ्गे तत्रापि **ऊधनि** ऊधःस्थाने उत्तरवेद्याम् **अशोचत** अशोभत तदा सोऽग्निः **सुरणः** । सुष्ठु रणयति शब्दयतीति सुरणः । सर्वैः कमनीयतया दृश्यमानः सन् **दिवेदिवे** प्रतिदिनं **न** **नि** **मिषति** न निद्राति । किंतु सर्वदा यज्ञार्थं जागर्त्येव  । **यत्** यस्मात् **असुरस्य** अग्नेः प्रेरकस्यारणीरूपस्य काष्ठस्य **जठरात्** उदरात् **अजायत** कर्मार्थमुदपद्यत तस्मान्न निमिषतीति पूर्वेणान्वयः ॥ अरोचत ।  ‘ रुच दीप्तौ ' इत्यस्य लङि रूपम् । निघातः । अशोचत् ।  ‘ शुच दीप्तौ । ऊधनि । सकारस्य नकारश्छान्दसः । मिषति ।  ‘ मिषु सेचने ' इत्यस्य लटि रूपम् । सुरणः ।  ‘रण शब्दे '।  ‘ तत्करोति° ' इति णिच् । तस्मात् अकृच्छ्रार्थे खल् । लित्स्वरः । असुरस्य ।  ‘ असु क्षेपणे ' इत्यस्मात् ' असेरुरन्' इत्युरन्प्रत्ययः । अस्यतीत्यसुरः । नित्स्वरः । जठरात् ।  ‘ जनी प्रादुर्भावे' इत्यस्मात्  ‘ जनेररष्ठ च ' ( उ. सू. ५. ७१६ ) इत्यरप्रत्ययः ठकारश्चान्तादेशः । प्रत्ययस्वरः । अजायत । जनी प्रादुर्भावे ' इत्यस्य लङि श्यनि  ‘ ज्ञाजनोर्जा ' इति धातोर्जादेशः । यद्योगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who has seven ministering priests, shines eternally; when he has blazed upon the bosom and lap of his mother (earth), he is vociferous (with delight); day by day he never slumbers after he is born from the interior of the (spark) emitting wood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From of old, bringing the seven Hotars, he has shone forth in the lap of  his mother when he blazed upon her udder.  
 Day after day, greatly delighting, he does not blink after he has been  born from the belly of the lord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Served by the seven priests, he shone forth from ancient time, when in his Mother's bosom, in her lap, he glowed.  
      Giving delight each day he closeth not his eye, since from the Asura's body hewas brought to life.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He the god of the seven Hotris shone forth from of old, when he flamed up in his mother's lap, at her udder. Day by day the joyous one never closes his eyes, when he has been born from the Asura's (i. e. of the Heaven's?) belly 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von sieben Opferpriestern umgeben erstrahlte er seit alters, wenn er im Schoße der Mutter, an ihrem Euter erglühte. Nicht schließt der Erfreuliche Tag für Tag die Augen, nachdem er aus dem Leibe des Asura geboren wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Alters her erstrahlte der von sieben Priestern be- diente, als er glänzte au der Mutter Schooss und Euter, nicht nickt er ein der Tag für Tag erfreuende, seit er erzeugt ward aus dem Leib des Himmlischen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Окруженный семью хотарами, сверкал он издревле,  
 Когда в лоне матери пламенел у ее вымени.  

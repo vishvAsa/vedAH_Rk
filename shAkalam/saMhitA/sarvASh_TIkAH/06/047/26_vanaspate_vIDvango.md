@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नस्पते वीडु꣡अङ्गो हि꣡ भूया꣡  
 अस्म꣡त्सखा प्रत꣡रणः सुवी꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आस्थाता꣡ ते जयतु जे꣡तुवानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 गोभिः॑ । सम्ऽन॑द्धः । अ॒सि॒ । वी॒ळय॑स्व । आ॒ऽस्था॒ता । ते॒ । ज॒य॒तु॒ । जेत्वा॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
@@ -121,7 +121,7 @@ popular
 हे **वनस्पते** वनस्पतिविकार रथ त्वं वीड्वङ्गः दृढावयवः **भूयाः** भव । **अस्मत्सखा** वयं सखायो यस्य स तादृशश्च भव । **प्रतरणः** प्रवर्धयिता **सुवीरः** शोभनैर्वीरैः शूरभटैः पुत्रादिभिर्वा युक्तश्च भव । अपि च त्वं **गोभिः** गोविकारैश्चर्मभिः **संनद्धो** **असि** सम्यक् बद्धो भवसि । तादृशस्त्वं **वीळयस्व** अस्मान् दृढीकुरु । **ते** तव **आस्थाता** त्वयि अवस्थितो रथी च **जेत्वानि** जेतव्यानि शत्रुसैन्यानि **जयतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ popular
 Be manned by warriors: suvīro **bhava** = śūrabhaṭt.aiḥ putrādibhir vā **yuktaḥ**, joined with warriors, or with sons and the rest; you are wrapped with cow-hides: **gobhiḥ** sannaddhosi = you are bound together by cow; govikāraiḥ, by what are formed from cattle; in the next ṛca, gobhirāvṛtam = carmabhiḥ parita aveṣṭitam, encompassed round with hides, as if the exterior of the war-chariot especially were so strengthened; or, encompassed with rays of light, or with splendours, gobhiḥ, tejobhiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O tree, because you should become firm-limbed, a comrade to us,  furthering (us), affording good heroes,  
 you are knotted together with cows [=leather (straps)]. Be firm! Let the  one who mounts you win what is to be won.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because of the hí, I have made ab the causal foundation for the beginning of c. If we are willing to allow hí to be some kind of unspecified emphatic, the clauses can be disjoined, with the first hemistich simply “you should become …” As in the matching sequence … pratáraṇaḥ suvī́raḥ in I.91.19, ‘lifetime’ could be supplied as the implicit obj. of pratáraṇah.
 
@@ -153,23 +153,23 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the wood, be firm and strong in body: be, bearing us, a brave victorious hero  
      Show forth thy strength, compact with straps of leather, and let thy rider win all spoils of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So mögest du denn, o Baum, fest an Gliedern sein, unser Kamerad, der weiterhilft, ein guter Held. Du bist mit Rindsleder zusammengebunden; halte fest! Dein Wagenlenker soll die Beute ersiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wagengestell, sei fest an deinen Gliedern, uns ein Gefährte, vordringend, heldenfahrend; mit Riemen bist du geschnürt, zeige dich fest; der auf dir steht, möge erbeuten, was zu erbeuten ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О дерево, будь же крепко членами,  
 Наш товарищ, выручающий (нас) добрый герой!  

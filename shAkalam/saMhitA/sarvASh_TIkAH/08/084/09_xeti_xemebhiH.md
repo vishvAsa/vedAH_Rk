@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षे꣡ति क्षे꣡मेभिः साधु꣡भिर्  
 न꣡किर् यं꣡ घ्न꣡न्ति ह꣡न्ति यः꣡  
 अ꣡ग्ने सुवी꣡र एधते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । सु॒ऽवीरः॑ । ए॒ध॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
@@ -95,36 +95,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** यो मनुष्यः **साधुभिः** साधयद्भिः **क्षेमेभिः** पालनैः सह **क्षेति** स्वगृहे निवसति । तथा **यं** जनं **नकिः** न केचन **घ्रन्ति** न हिंसन्ति । **यः** एव **हन्ति** शत्रून् स्वयमेव हन्ति । स मनुष्यस्तव स्तोता खलु । अन्यथा तस्यैतावन्न घटते । ततः स स्तोता **सुवीरः** शोभनपुत्रादियुक्तः सन् **एधते** आत्मीयगृहेषु धनादिभिर्वर्धते ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who dwells at home with all-efficient protections, whom none can harm, but who himself harms (hisenemies)-- he, **Agni**, (your worshipper), waxes strong with heroic offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He dwells peacefully in peaceful ways that bring success—whom no one  smites, but who himself smites.  
 O Agni, whoever is rich in heroes thrives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, he dwells in rest and peace who smites and no one smites again:  
      With hero sons he prospers well
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wohnt in guter Ruhe als einer, den man nicht erschlägt, der selbst erschlägt; er gedeiht, o Agni, im Besitz guter Söhne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, Agni, wohnt in Sicherheit, wen niemand schlägt, wer selber schlägt, An Helden reich gedeihet der.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Кого ты охраняешь, тот) живет в добром мире,  
 Никто его не убьет, он убивает сам.  

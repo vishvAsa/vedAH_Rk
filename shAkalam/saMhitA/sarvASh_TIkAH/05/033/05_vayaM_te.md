@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते꣡ त इन्दर+ ये꣡ च न꣡रः  
 श꣡र्धो जज्ञाना꣡ या᳐ता꣡श् च र꣡थाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡गो न꣡ ह꣡व्यः प्रभृथे꣡षु चा꣡रुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । अ॒स्मान् । ज॒ग॒म्या॒त् । अ॒हि॒ऽशु॒ष्म॒ । सत्वा॑ । भगः॑ । न । हव्यः॑ । प्र॒ऽभृ॒थेषु॑ । चारुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -141,7 +141,7 @@ genre M
 हे **इन्द्र** **ये** **च** **नरः** कर्मणां नेतार ऋत्विग्यजमाना **वयं** स्मः **ते** वयं **ते** त्वदीयाः । कीदृशा वयम् । **शर्धः** बलं **जज्ञानाः** उत्पादयन्तः स्तुतिभिः **याताश्च** होतुं त्वां प्राप्ताश्च **रथाः** रंहणशीलाश्च । किंच हे 'अहिशुष्म । अहिरयनात् । सर्वतो व्याप्तबलेन्द्र त्वदनुग्रहात् **हव्यः** स्तुत्यः प्रतिभटेराह्वातव्यो वा **चारुः** संगन्ता **सत्वा** भृत्यादिः **प्रभृथेषु** संग्रामेषु यज्ञेषु वा **अस्मान्** **आ** **जगम्यात्** आगच्छेत् । **भगो** **न** भग इव हव्यश्चारुः । भगदेवो यथास्मत्सहाय आगच्छति तथा भृत्यादिरागच्छेदित्यर्थः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ genre M
 All-powerful Indra: ahiśuṣma is an epithet of Indra, sarvato vyāptabala, of all-pervading strength; like Bhaga in battles: satvā bhago na **havyaḥ** prabhṛtheṣu **cāruḥ**: prabhṛta = war or sacrifice; hence, may a faithful folloer or ally, **sarva** bhṛtyādiḥ, come, like Bhaga, as an associate, **cāru** saṅgantā, tobe commanded, **havya**, in sacrifices, or defied, pratibhaṭairāhvātavya, in battles; as the divine Bhaga comes as our ally, so may followers and others come
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We are yours, Indra—as are the superior men born as a troop  
 [=Maruts?] and the driving-chariots.  
 As a consummate warrior he [=Indra] should come here to us, o you  with the serpent’s hiss—dear, like Bhaga to be invoked at our forays  [/dear like a portion to be offered at our (ritual) presentations].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What constitutes the predicate in ab is disputed. Flg. Oldenberg and the model of VII.30.4, I take ab as constituting an “X and which Y” construction, with doubled “and which Y” (more accurately schematized as “X and which Y and (which) Z”).
 
@@ -178,23 +178,23 @@ I take the simile in d as an elaborate pun, playing on the double sense of the t
 The first meanings just given for the three items coalesce into one simile, the second ones in another.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are we, Indra; thine are all these people, conscious of might, whose cars are set in motion.  
      Some hero come to us, O Strong as Ahi beauteous in war, to be invoked like Bhaga.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir hier und die Herren sind als deine Heerschar geboren, o Indra, und die ausfahrenden Wagen. Uns möge, du Schlangenwütiger, ein Krieger kommen, wie Bhaga anzurufen, willkommen bei den Unternehmungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sind wir, dein die Schar-gebornen Männer, die Maruts, dein die Wagen, die da fahren, Mit Helden komm er, die wie Schlangen zischen, zu uns, wie Bhaga lieb, zum Mahl geladen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы и эти мужи, о Индра,  
 Родившиеся как твое войско, и эти выезжающие колесницы -  

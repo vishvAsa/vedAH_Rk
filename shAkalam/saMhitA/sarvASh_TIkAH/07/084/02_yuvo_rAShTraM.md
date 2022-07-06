@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡ राष्टर꣡म् बृह꣡द् इन्वति द्यउ꣡र्  
 यउ꣡ सेतृ꣡भिर् अरज्जु꣡भिः सिनीथः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुं꣡ न इ꣡न्द्रः कृणवद् उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ । नः॒ । हेळः॑ । वरु॑णस्य । वृ॒ज्याः॒ । उ॒रुम् । नः॒ । इन्द्रः॑ । कृ॒ण॒व॒त् । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvo* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -134,35 +134,35 @@ genre M
 हे इन्द्रावरुणौ **युवोः** युवयोः **बृहत्** महत् **राष्ट्रं** राज्यं **द्यौः** द्युलोकरूपम् **इन्वति** वृष्ट्या सर्वान् प्रीणयति । **यौ** युवां **सेतृभिः** बन्धकैः **अरज्जुभिः** रज्जुरहितैः रोगादिभिः **सिनीथः** पापकृतो बध्नीथः। ‘षिञ् बन्धने' इति धातुः । तयोर्मध्ये **वरुणस्य** वारयितुर्देवस्य **हेळः** क्रोधः **नः** अस्मान् **परि** **वृज्याः** परिवृणक्तु । परित्यज्यान्यत्र गच्छतु । **इन्द्रः** **उ** इन्द्रश्च **उरुं** विस्तीर्णं **लोकं** स्थानं **कृणवत्** करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your vast kingdom of heaven gratifies (the world with rain), you who bind (the sinner) with bonds notmade of rope; may the wrath of **Varuṇa** pass away from us; may **Indra** prepare for us a spacious region.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven speeds the lofty rule of you two, who bind with ropeless bonds. Might the anger of Varuṇa avoid us. Indra will make a wide, wide world  for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dyaus quickens and promotes your high dominion who bind with bonds not wrought of rope or cordage.  
      Far from us still be Varuna's displeasure may Indra give us spacious room to dwell in.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure hohe Herrschaft fördert der Himmel, die ihr durch Knebler ohne Stricke knebelt. Uns möge des Varuna Groll verschonen; Indra soll uns geräumigen Platz schaffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Himmel fördert eure grosse Herrschaft, die ihr mit Banden bindet ohne Stricke; Mög' uns der Zorn des Varuna vermeiden, und weite Freiheit Indra uns gewähren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вашей высокой власти содействует небо,  
 (Власти тех,) кто связывает привязями без веревок.  

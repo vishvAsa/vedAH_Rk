@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡पुर् नु꣡ त꣡च् चिकितु꣡षे चिद् अस्तु  
 समानं꣡ ना꣡म धेनु꣡ प꣡त्यमानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सकृ꣡च् छुक्रं꣡ दुदुहे पृ꣡श्निर् ऊ꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मर्ते॑षु । अ॒न्यत् । दो॒हसे॑ । पी॒पाय॑ । स॒कृत् । शु॒क्रम् । दु॒दु॒हे॒ । पृश्निः॑ । ऊधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vapur* ← *vapuḥ* ← *vapus*
 - \[noun\], nominative, singular, neuter
@@ -125,7 +125,7 @@ genre M
 **तत्** प्रसिद्धं **समानम्** एकरूपम् । मरुतः सर्वदा समानरूपाः । तथा च निगमान्तरम् --  ‘ अज्येष्ठासो अकनिष्ठास एते ' ( ऋ. सं. ५.६०.५ ) इति । **नाम** स्थिराणामपि नामकं **धेनु** प्रीणयितृ **पत्यमानं** सर्वदा गच्छत् **वपुः** मरुतां रूपं **चिकितुषे** विदुषे स्तोत्रे **नु** क्षिप्रम् **अस्तु** प्रादुर्भवतु। **चित्** इति पूरकम् । किंच तद्रूपं **मर्तेषु** मर्त्यलोके **अन्यत्** ओषधिवनस्पत्यादिकं **दोहसे** कामान् दोग्धुं **पीपाय** आप्याययति । किंच मरुतामेव निर्देशात् **पृश्निः** अन्तरिक्षं **सकृत्** संवत्सरस्य वर्षासु **शुक्रं** शुक्लवर्णम् **ऊधः** उदकं **दुदुहे** क्षरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ That ever cherishes: martteṣu anyad dohase pīpāya = tad rūpam (marutām), m
 Pṛśni: implies the firmament, which, by the influence of the winds, sends down its milk, i.e. rain, once, i.e. at the rainy season
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this be a marvel even for one who (truly) perceives—(though) owning  the same name “milker,”  
 while the one stays swollen to give milk to mortals, only once did Pr̥śni  milk the gleaming (milk/semen) from (the other) udder.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'EN to the wise let that be still a wonder to which the general name of Cow is given.  
      The one hath swelled among mankind for milking: Prsni hath drained but once her fair bright udder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das muß selbst für den Kenner etwas Erstaunliches sein, was den gleichen Namen Kuh trägt: während das eine Euter bei den Menschen zum Melken angeschwollen ist, hat Prisni nur einmal ihr weißes Euter milchen zu lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bewundernswerth ist das auch dem Verständ'gen, was an sich trägt der Milchkuh gleichen Namen; Das eine schwillt, dem Menschen Milch zu geben, einmal liess Priçni Milch ihr Euter strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже для знатока это должно быть чудесным явлением,  
 Носящим одинаковое имя: дойная корова:  

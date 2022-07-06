@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र तु꣡भ्यम् इ꣡न् मघवन्न् अभूम  
 वयं꣡ दात्रे꣡ हरिवो मा꣡ वि꣡ वेनः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कि꣡म् अङ्ग꣡ रध्रचो꣡दनं तुवाहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नकिः॑ । आ॒पिः । द॒दृ॒शे॒ । म॒र्त्य॒ऽत्रा । किम् । अ॒ङ्ग । र॒ध्र॒ऽचोद॑नम् । त्वा॒ । आ॒हुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -129,43 +129,43 @@ genre M
 हे **मघवन्** धनवन् **इन्द्र** **दात्रे** कामानां दात्रे **तुभ्यमित्** तुभ्यमेव **वयं** शेषभूताः **अभूम** । यद्वा । त्वदर्थमेव दात्रे हविषां दात्रे वर्तमाना अभूम । हे **हरिवः** हरिवन्निन्द्र अतः कारणात् **मा** **वि** **वेनः** मा विगतकामो भूः । अस्मान् सर्वदा कामयस्व । वेनतिः कान्तिकर्मा । **मर्त्यत्रा** मर्त्येषु मनुष्येषु मध्ये **आपिः** बन्धुस्त्वत्तोऽन्यः कश्चिदपि **नकिः** **ददृशे** नैव दृश्यते । किमनेन विशेषकथनेन । **अङ्ग** हे इन्द्र **त्वा** त्वां **रध्रचोदनं** रध्रस्य राधकस्य समृद्धस्य धनस्य चोदने चोदयितारम् **आहुः** कथयन्ति पुराजाः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, possessor of affluence, we have recourse to you, the bountiful, lord of steeds, be not unfavourable to us; no other kinsman is beheld (by us) among men; who else have they called yo the bestower of wealth?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, we have become ready just for you, the giver, you generous  possessor of the fallow bays. Do not lose the track.  
 No one has shown himself as our friend among mortals. Do they not  call you a rouser (even) of the weak?
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am not sure of the exact nuance of √bhū + DAT. Grassmann takes it as meaning ‘angehören, eigen sein’, with a rare dat. here, instead of the gen. usual in this idiom (his no. 13). Geldner renders it thus (“dir … haben wir uns zu eigen gegeben”). Even with the gen., Grassmann identifies very few passage with this value, and most of these should be otherwise interpr., and I also wonder about an augmented aor. in such a sense. The published translation is by contrast “we have become ready for you,” and I think something like this is the intention (perhaps “we are here for you”). We are awaiting his advent at the ritual and the generosity he will display there, but there is some worry that he will fail to show up, as the 2nd clause of the 1st hemistich shows.
 
 Note that the fairly rare root √ven appears here soon after the appearance of its deriv. venyá- in 8d. It is possible that this lexical association led to the grafting of this tṛca onto the previous one in this loose collection of short hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We turn to thee as Giver, liberal Indra. Lord of the Bay Steeds, be not thou ungracious.  
      No friend among mankind have we to lookto: why have men called thee him who spurs the niggard?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, dir dem Schenker haben wir uns zu eigen gegeben, du gabenreicher Falbenlenker. Wende deinen Blick nicht ab! Unter den Sterblichen hat sich kein Freund gezeigt. Warum nennt man gerade dich den Ermutiger des Schwachen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sind zu eigen, Indra, dir, dem Geber; nicht kehr dich ab, o mächt'ger Rosselenker; Nicht unter Menschen zeigt der rechte Freund sich; warum sonst nennt man dich der Matten Kräft'ger?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, это тебе, о щедрый, мы стали принадлежать  
 Как дарителю. О хозяин буланых коней, не отводи взгляда!  

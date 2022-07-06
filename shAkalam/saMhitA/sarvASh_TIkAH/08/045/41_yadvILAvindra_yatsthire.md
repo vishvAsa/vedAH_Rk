@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वीळा꣡व् इन्द्र य꣡त् स्थिरे꣡  
 य꣡त् प꣡र्शाने प꣡राभृतम्  
 व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वसु॑ । स्पा॒र्हम् । तत् । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्र** त्वया च **वीळौ** दृढे परैः कम्पयितुमशक्ये **यत्** धनं **पराभृतं** विन्यस्तं **यत्** च **स्थिरे** स्वयमचले पराभृतं **यत्** चापि **पर्शाने** विमर्शनक्षमे पराभृतं **तत्** **स्पार्हं** **वसु** **आ** **भर** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Parśāne = vimarśanakṣame; or, a well, kūpādi; i.e. hiding wealth in theside of a well
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is in a firm place, what in a solid place, Indra, what has been  borne away into a deep place—  
 the craved good thing—bring that here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Tndra, that which is concealed in strong firm place precipitous:  
      Bring us the wealth for which we long
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was am festen, was am sicheren Ort, was in einer Senke versteckt ist, Indra, das begehrenswerte Gut, das bring mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was in der Feste, in der Burg, was, Indra, in der Schlucht sich birgt, Das Gut bring' her, das wir ersehnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что в твердом месте, о Индра, что в прочном,  
 Что в низине спрятано,  

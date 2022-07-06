@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡द्रोघम् आ꣡ वहोशतो꣡ यविष्ठिय  
 देवाँ꣡ अजस्र वीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 म꣡न्दस्व धीति꣡भिर् हितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । प्रयां॑सि । सु॒ऽधि॒ता । आ । व॒सो॒ इति॑ । ग॒हि॒ । मन्द॑स्व । धी॒तिऽभिः॑ । हि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adrogham* ← *adrogha*
 - \[noun\], accusative, singular, masculine
@@ -110,36 +110,36 @@ genre M
 **अद्रोघम्** अद्रोग्धारं मां प्रति हे **यविष्ठ्य** युवतम **अजस्र** नित्य **आ** वह आनय । कान् । **उशतः** अस्मदर्थं कामयमानान् **देवान्** । किमर्थम् । **वीतये** हविर्भक्षणाय । हे **वसो** वासकाग्ने **सुधिता** सुनिहितानि **प्रयांसि** अन्नानि **अभि** **गहि** अभिगच्छ । आगत्य च **धीतिभिः** स्तुतिभिः **हितः** निहितः सन् **मन्दस्व** । यद्वा । धीतिभिर्मन्दस्वेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most youthful, eternal one, bring the longing gods to me guileless, to eat (the oblation); giver ofdwellings, approach the well-plural ced food; rejoice, being set in your plural ce with praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without deception, convey the eager gods here for them to pursue (the  offerings), o youngest one, untiring.1144 VIII.60  
 Come here to the well-placed pleasing offerings, o good one. Take  delight as you are spurred on [/set in place] by our insights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most Youthful and Eternal, bring the longing Gods to me, the guileless, for the feast.  
      Come, Vasu, to the banquet that is well-prepared: rejoice thee, gracious, with our songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu mir, der ohne Falsch ist, fahre die verlangenden Götter her, daß sie´s nach dem Opfer gelüste, du Jüngster, nie Ermattender! Zu den wohlbereiteten Genüssen komme her, du Guter! Ergötze dich durch die Dichtungen angeregt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O jüngster, fahr die Götter freundlich her zum Mahl, o ewiger, die willigen, O guter, geh zu schöngesetzten Speisen hin, erfreue dich, durch Lied geehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Безобманно привози жаждущих (этого) богов,  
 О самый юный, неистощимый, для (их) приглашения!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ यो꣡ ररप्श꣡ ऋ꣡षिभिर् न꣡वेभिर्  
 वृक्षो꣡ न꣡ पक्वः꣡ सृ꣡णियो न꣡ जे꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छा विवक्मि पुरुहूत꣡म् इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मर्यः॑ । न । योषा॑म् । अ॒भि । मन्य॑मानः । अच्छ॑ । वि॒व॒क्मि॒ । पु॒रु॒ऽहू॒तम् । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -128,21 +128,21 @@ genre M
 **पक्वः** पक्वफलः **वृक्षो** **न** वृक्ष इव । अत्र सृणिशब्दोऽङ्कुशवाची । तेनायुधमात्रं लक्ष्यते । **सृण्यः** आयुधकुशलः **जेता** **न** शत्रूविजयी वीरपुरुष इव **यः** **नवेभिः** नवैर्नूतनैः **ऋषिभिः** **वि** **ररप्शे** विविधं स्तूयते । स्तोताहं **पुरुहूतं** बहुभिराहूतं तम् **इन्द्रम्** **अच्छ** अभि लक्षीकृत्य **विवक्मि** विशेषेण वच्मि स्तौमि । तत्र दृष्टान्तः । **अभि** **मन्यमानः** मदीयेयं योषिदित्यभिजानन् **मर्यः** मर्त्यः **योषां** **न** स्त्रीमिव तद्वत् ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like a man boasting of his wife, I glorify that **Indra** who is invoked of many, who is hymned by recent sages (who is) like a tree with ripe fruit, like a victorious (warrior), skilful in arms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who abounds in new seers like a fruited tree, who is a winner like a  man with a sickle,  
 much-invoked Indra do I invite here, setting my mind on him like a  
 dashing youth on a maiden.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my opinion, the first half-vs. consists of two separate similes, the second of which, sṛ́ṇyo ná jétā, needs to be fleshed out. In the first one Indra with his abundant seers is like a tree with ripe fruit (vṛkṣó ná pakváḥ). In the second Indra the winner/conquerer is like a man who harvests the fruit with a sickle -- or more likely who harvests grain, the crop having subtly changed, with the pakvá- ‘ripened’ held constant. Cf. X.101.3 nédīya ít srṇ̥ yàḥ pakvám éyāt “the ripe (grain) should come even closer to our sickles.” For ripe grain see I.66.3 yávo ná pakvó jétā jánānām “Ripe like grain, a conquerer of peoples,” which also contains jétar-, though in my view in an independent syntagm.
 
@@ -151,23 +151,23 @@ The simile in the 2nd half-vs. is striking because it casts Indra as a maiden (y
 virapśín-. In the currently favored etym. the “root” √rapś was extracted ultimately from the nominal virapśá- ‘abundance’ (the basis for virapśín-), itself constructed from a dvandva of vīrá- ‘men’ and paśú- ‘beasts’ (see EWA s.v. virapśá-). It’s important to note, however, that this etym. is soundly rejected by Kümmel (417-18), though I still favor it. The two forms of the thematic pres. rapśa- (IV.45.1, X.113.2) are both immediately preceded by the preverb ví, which (by most lights) has been secondarily extracted from the cmpd. Our perfect form here, rarapśé, is also construed with ví, but with yáḥ intervening, and the other pf. form (VI.18.12) lacks ví but appears with prá in distant tmesis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who is sung aloud by recent sages, like a ripe-fruited tree, a scythe-armed victor,-  
      I, like a bridegroom thinking of his consort, call hither Indra, him invoked of many;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Überfluß hat an neuen Rishi´s, wie ein reifer Baum, wie ein Sichelmann, der Sieger. Wie ein Junggeselle, dessen Sinn nach einer jungen Frau steht, lade ich dich, den vielgerufenen Indra, ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der mit neuen Sängern reich versehn ist, gleich reifem Baum, wie Schnitter bei der Ernte, Den vielgerufnen Indra ruf' ich zu mir, sowie der Mann die Gattin voll Verlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто необычайно богат новыми риши,  
 Словно спелое дерево (-плодами), словно жнец (-зерном), победитель...  

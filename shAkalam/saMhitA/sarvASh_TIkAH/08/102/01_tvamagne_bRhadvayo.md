@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने बृह꣡द् व꣡यो  
 द꣡धासि देव दाशु꣡षे  
 कवि꣡र् गृह꣡पतिर् यु꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 क॒विः । गृ॒हऽप॑तिः । युवा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -86,35 +86,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **देव** द्योतमान **अग्ने** **कविः** क्रान्तकर्मा **गृहपतिः** गृहपालकः **युवा** नित्यतरुणः **त्वं** **दाशुषे** हविषां प्रदात्रे यजमानाय **बृहद्वयः** महदन्नं **दधासि** प्रयच्छसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Agni**, the ever young, the wise, the protector of the household, it is you who give abundant foodto the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, establish lofty vitality for your pious server, god, as sage poet, houselord, youth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LORD of the house, Sage, ever young, high power of life, O Agni, God,  
      Thou givest to thy worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Gott Agni, verleihst dem Opferspender hohe Kraft, du der jugendliche Seher und Hausherr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schenkest hohe Kraft, o Gott, o Agni, dem Verehrenden, O weiser, junger Hausherr du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, даешь высокую  
 Жизненную силу, о бог, (своему) почитателю,  

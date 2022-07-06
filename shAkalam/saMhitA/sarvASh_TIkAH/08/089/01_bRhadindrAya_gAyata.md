@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् इ꣡न्द्राय गायत  
 म꣡रुतो वृत्रह꣡न्तमम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 देवं꣡ देवा꣡य जा꣡गृवि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येन॑ । ज्योतिः॑ । अज॑नयन् । ऋ॒त॒ऽवृधः॑ । दे॒वम् । दे॒वाय॑ । जागृ॑वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -98,7 +98,7 @@ genre M
 हे **मरुतः** । ‘रु शब्दे'। मितं रुवन्तीति मरुतः । हे मितभाषिणः स्तोतारः **वृत्रहंतमम्** अतिशयेन पापविनाशनं **बृहत्** साम **इन्द्राय** इन्द्रार्थं **गायत** अस्मदीययज्ञे गानं कुरुत । **ऋतावृधः** सत्यस्य यज्ञस्य वा वर्धका विश्वे देवाः **देवाय** द्योतमानायेन्द्राय **देवं** देवनशीलं --- **जागृवि** सर्वेषां जागरणशीलं **ज्योतिः** सूर्यं **येन** साम्ना **अजनयन्** इन्द्रार्थमुदपादयन् तत्साम गायतेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,28 +109,28 @@ genre M
 **Bṛhat sāman**: a particular **sāman**; here, it means a mighty hymn; bywhich the upholders: i.e. the **viśve devāḥ** produced the sun for Indra by means of the **Bṛhat** sāman; i.e.theyproduced Indra's own wakeful radiance thereby
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra, o Maruts, sing the lofty (sāman) that best smites Vr̥tra, with which those who are strong through truth [=Maruts or gods] gave  birth to the light, god(like) and wakeful, for the god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra sing the lofty hymn, Maruts that slays the Vrtras best.  
      Whereby the Holy Ones created for the God the light divine that ever wakes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet, ihr Marut, dem Indra das hohe Lied, das feindetötendste, durch das die Wahrheitsmehrer das Licht erzeugten, das göttliche für den Gott, das frühwache!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra singt ein hohes Lied, Maruts, ein Feind vernichtendes, Wodurch das Licht die heiligen erzeugten einst, den ewig wachen Gott dem Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пропойте Индре высокий (напев),  
 О Маруты, лучше всех убивающий врагов,  

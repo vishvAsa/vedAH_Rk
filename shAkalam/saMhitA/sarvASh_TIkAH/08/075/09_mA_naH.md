@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नः समस्य दूढि꣡यः  
 प꣡रिद्वेषसो अंहतिः꣡  
 ऊर्मि꣡र् न꣡ ना꣡वम् आ꣡ वधीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऊ॒र्मिः । न । नाव॑म् । आ । व॒धी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -85,37 +85,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समस्य** सर्वस्य **परिद्वेषसः** परितो द्विषतः **दूढ्यः** पापबुद्धेः **अंहतिः** हननं **मा** **आ** **वधीत्** मा हिंस्यात् । **नावम्** **ऊर्मिः** समुद्रतरङ्ग इव । स यथा तां पीडयति तद्वन्मा वधीदित्यर्थः । अत्र ‘मा नः सर्वस्य दुर्धियः' (निरु. ५. २३) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the onset of any evil-minded adversary harm us as the wave (overwhelms) a ship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not the coercion of anyone of evil intention and  
 encompassing hatred  
 crash down on us, like a wave on a boat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the sinful tyranny of any fiercely hating foe  
      Smite us, as billows smite a ship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll uns von irgend einem übelgesinnten Feinde Ungemach treffen wie die Welle das Schiff.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge eines tückischen Bedrängers Hass zerschlagen uns, Gleich wie das Schiff der Wogendrang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

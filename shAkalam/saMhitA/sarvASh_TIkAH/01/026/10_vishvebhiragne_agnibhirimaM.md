@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेभिर् अग्ने अग्नि꣡भिर्  
 इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चः  
 च꣡नो धाः सहसो यहो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 चनः॑ । धाः॒ । स॒ह॒स॒ । य॒हो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
@@ -89,7 +89,7 @@ genre M
 **सहसः** बलस्य **यहो** पुत्र हे देवतारूप **अग्ने** विश्वेभिः **अग्निभिः** सर्वैराहवनीयादिभिर्युक्तस्त्वम् **इमम्** अस्मदीयं **यज्ञम्** **इदम्** अस्मदीयं **वचः** स्तोत्रं च सेवमानः **चनः** अन्नं **धाः** अस्मभ्यं धेहि ॥ विश्वेभिः । ‘बहुलं छन्दसि' इति भिस ऐसादेशाभावः । चनः। चायृ पूजानिशामनयोः । ‘चायेरन्ने ह्रस्वश्च' ( उ. सू. ४. ६३९ ) इति असुन्; तसंनियोगेन नुडागमश्च । नित्त्वादाद्युदात्तत्वम् । धाः । लुङि • गातिस्था' इति सिचो लुक् ।' बहुलं छन्दस्यमाङ्योगेऽपि इति अडभावः । सहसो यहो इति ‘सुबामन्त्रिते' इति पराङ्गवद्भावात् ' आमन्त्रितस्य च  इति षष्ठ्यामन्त्रितसमुदायो निहन्यते ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M
 Sahaso yaho = balasya **putra**, son of strength
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, along with all the fires, take delight in this sacrifice and in this  speech,  
 o young (son) of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all thy fires, O Agni, find pleasure in this our sacrifice,  
      And this our speech, O Son of Strength.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 With all Agnis (i. e. with all thy fires), O Agni, accept this sacrifice and this prayer, O young (son) of strength 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit allen anderen Agni´s nimm, Agni, dieses Opfer, dieses Wort gern an, jüngster Sohn der Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Feuern, Agni, nimm dies Opfer an und dieses Lied Mit Wohlgefallen, Sohn der Kraft!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе со всеми Агни, о Агни,  
 Прими благосклонно, о юный (сын) силы,  

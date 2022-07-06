@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र त्व꣡म् अविते꣡द् असि  
 इत्था꣡ स्तुवतो꣡ अद्रिवः  
 ऋता꣡द् इयर्मि ते धि꣡यम् मनोयु꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 ऋ॒तात् । इ॒य॒र्मि॒ । ते॒ । धिय॑म् । म॒नः॒ऽयुज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -101,41 +101,41 @@ genre M;; line affected by realignment
 हे **अद्रिवः** वज्रवन् **इन्द्र** **त्वम्** **इत्था** इत्थमनेन प्रकारेण **स्तुवतः** स्तोत्रं कुर्वतो यजमानस्य **अवितेदसि** रक्षितैव भवसि । यत एवमतः कारणादहमपि **ऋतात्** यज्ञाद्धेतो: **मनोयुजं** मनसा मननीयेन स्तोत्रेण प्राप्यां **ते** त्वदीयां **धियम्** अनुग्रहबुद्धिम् **इयर्मि** प्राप्नोमि । यद्वा। ऋतात् सत्यभूतात्त्वतः स्तोत्रेण युक्तं त्वत्प्रीतिकरं कर्माहं प्राप्नोमि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thunderbolt-bearing **Indra**, you are the protector of him who thus eulogises you; I seek through sacrificefor your favour, which is to be gained by praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, it is only you who are the helper of him who praises just so, o  master of the stones.  
 From out of the truth I raise to you my insight yoked by mind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See remarks on the repetition in pāda a under vs. 15 above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Caster of the Stone, thou helpest him who praises thee:  
      From sacrifice I send to thee a mindyoked hymn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Du bist der Helfer des also Lobsingenden, du Herr des Preßsteins. In rechter Absicht lasse ich das mit dem Gedanken bespannte Gedicht zu dir gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Helfer, Indra, bist du ja des Preisenden, o Schleuderer; Dir send' ich geistgeschirrtes Lied aus treuem Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, ведь ты бываешь, в самом деле,  
 Помощником восхвалителя, о хозяин давильных камней!  

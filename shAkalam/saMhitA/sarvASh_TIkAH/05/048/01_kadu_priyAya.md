@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡द् उ प्रिया꣡य धा꣡मने मनामहे  
 स्व꣡क्षत्राय स्व꣡यशसे महे꣡ वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अपो꣡ वृणाना꣡ वितनो꣡ति मायि꣡नी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽमे॒न्यस्य॑ । रज॑सः । यत् । अ॒भ्रे । आ । अ॒पः । वृ॒णा॒ना । वि॒ऽत॒नोति॑ । मा॒यिनी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -128,7 +128,7 @@ genre M
 अत्र वैद्युताग्निसंस्तवः । **कदु** कदा। उ इति पूरणः । **प्रियाय** सर्वेषां प्रियभूताय । वृष्टिद्वारा हविरादिप्रयोजकत्वात् सर्वप्रियत्वमस्य प्रसिद्धम् । तादृशाय **धाम्ने** तेजसे वैद्युताय । उत्तरवाक्ये अभ्रे अपः वितनोति इति वक्ष्यमाणत्वादिदं लभ्यते । कीदृशाय। **स्वक्षत्राय** स्वभूतबलाय किंच **स्वयशसे** स्वभूतान्नाय । सर्वमप्यन्नं ह्यस्य स्वम् । **महे** महते पूज्याय **वयं** कदा **मनामहे** स्तवाम । **यत्** । उत्तरत्र स्त्रीलिङ्गनिर्देशात् या इति विपरिणमयितव्यम् । या आग्नेयी शक्तिः **आमेन्यस्य** समन्तान्मातव्यस्य **रजसः** अन्तरिक्षस्य । अपरिमितमपि नभ इयदिति सर्वैर्मीयते । संबन्धिनि **अभ्रे** मेघे **आ** अधि मेघस्योपरि **अपः** उदकानि वृष्टिलक्षणानि **वितनोति** विस्तारयति **वृणाना** आच्छादयन्ती सेव्यमाना वा **मायिनी** । मायेति प्रज्ञानाम । प्रज्ञावती सती । यत् यस्य संबन्धिनी माध्यमिकी वागिति वा योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 This is addressed to Agni as the lightning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What shall we compose for the self-ruling, self-glorious great one  [=Agni?] for his own dear establishment,  
 when the mistress of artifice [=Dawn?], choosing the waters in the dark  cloud of the variegated dusky realm, stretches them forth.724 V.49
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. follows that of Oldenberg in most particulars, but is also informed by my view that the hymn as a whole is a Dawn hymn (see published introduction.). I therefore think that in the 1st hemistich the dative recipient of the poets’ compositions is Agni, not, per Oldenberg, Varuṇa, nor, per Renou, Indra. (Geldner and Witzel Gotō do not identify the recipient.) Although the descriptors in b are not strongly typical of Agni, the “own dear foundation” (priyā́ya dhā́m(a)ne) in pāda a would be appropriate for the establishment of the offering fire at the beginning of the morning sacrifice.
 
@@ -157,23 +157,23 @@ vitarturá-, ādardirá-, as he suggests. Modifying rájas- ‘(dusky) realm’,
 And what happens within that frame? In my view the image is that of dawn in a partly cloudy sky. The conceit is that the rays of Dawn spreading across the cloudy sky look like streams of water -- water that Dawn has appropriated from the cloud (“choosing the waters in the dark cloud” abhrá ām̐apó vṛṇānā́). Since the image makes sense with the transmitted apáḥ ‘waters’, I see no reason to follow Oldenberg (and partly Witzel Gotō) in assuming it stands for *ápaḥ ‘work’. The same phrase “choosing the waters” is also found in IX.94.1, though in a very different context. I explain it there as a deliberate poetic deformation of the common expression apó vasāná- “clothing oneself in the waters.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT may we meditate for the beloved Power, mighty in native strength and glorious in itself,  
      Which as a magic energy seeking waters spreads even to theimmeasurable middle region's cloud?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was sollen wir dichten auf das liebe, selbstherrschende, selbstherrliche große Geschlecht, wenn die Zauberische im Gewölk des wandelbaren Luftraums die Wasser sich erwählt und verbreitet?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was doch ersinnen wir der lieben Götterschar, der grossen, die aus eigner Macht erglänzt und herrscht, Im mutterlosen Luftraum, den die Künstlerin, die Wasser wählend ausspannt in dem Dunstgewölk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что же придумаем мы для приятного сонма (богов),  
 Обладающего собственной властью, собственным блеском, великого,  

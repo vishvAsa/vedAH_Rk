@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जा꣡यमानः परमे꣡ वि꣡ओमन्  
 वायु꣡र् न꣡ पा꣡थः प꣡रि पासि सद्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पत्याय जातवेदो दशस्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । भुव॑ना । ज॒नय॑न् । अ॒भि । क्र॒न् । अप॑त्याय । जा॒त॒ऽवे॒दः॒ । द॒श॒स्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे वैश्वानर **सः** प्रसिद्धस्त्वं **परमे** दूरस्थे **व्योमन्** अन्तरिक्षे **जायमानः** सूर्यरूपेण प्रादुर्भवन् **वायुर्न** यथा वायुः द्विदेवत्यग्रहेषु प्रथमं सोमं पिबति तथा **पाथः** सोमं **सद्यः** **परि** **पासि** परिपिबसि । यद्वा । वायुरिव पाथो जलं परि पासि परिपिबसि । शोषयसीत्यर्थः । किंच है **जातवेदः** जातधनाग्ने **त्वं** **भुवना** भुवनान्युदकानि । **भूतं** भुवनम्' इत्युदकनामसु पाठात् । **जनयन्** अपत्याय अपत्यवत्पालनीयाय यजमानाय **दशस्यन्** कामान् प्रयच्छन् **अभि** **क्रन्** वैद्युतात्मना अभिक्रन्दसि अभिगर्जसि वा ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ genre M
 Drink (Soma): In the cups dedicated to two deities thelibation is offered first to Vāyu or to **Vaiśvānara**; or, you drink or dry up water like the wind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being born in the highest heaven, at once you protect the fold on every  side like Vāyu.  
 Giving birth to living beings, you cry out, doing service to their  
 descendants, Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born in the loftiest heaven thou in a moment reachest, like wind, the place where Gods inhabit.  
      Thou, favouring thine offspring, roaredst loudly when giving life to creatures, Jatavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im höchsten Himmel geboren hegst du sofort dein Gehege wie Vayu. Der du die Wesen erzeugtest, du wieherst ihnen zu, indem du zu Nachkommenschaft behilflich bist, o Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren kaum im höchsten Himmelsraume durchwanderst schnell du wie der Wind den Luftpfad; Du schriest die Wesen an, da du sie zeugtest, o Wesenkenner, den entsprossnen huldreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рождаясь на высшем небе,  
 Словно Ваю, ты обходишь, охраняя, (свое) владенье за один день.  

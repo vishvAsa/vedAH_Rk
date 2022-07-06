@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अपो꣡ · वि꣡ दु꣡रो वि꣡षूचीर्  
 इ꣡न्द्र दॄळ्ह꣡म्+ अरुजः प꣡र्वतस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 साकं꣡ सू꣡र्यं जन꣡यन् द्या꣡म् उषा꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 राजा॑ । अ॒भ॒वः॒ । जग॑तः । च॒र्ष॒णी॒नाम् । सा॒कम् । सूर्य॑म् । ज॒नय॑न् । द्याम् । उ॒षस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -122,36 +122,36 @@ genre M
 हे **इन्द्र** **त्वं** **दुरः** वृत्रेणावृताः **अपः** **विषूचीः** विविधमञ्चन्त्यो यथा सर्वतः प्रसृता भवन्ति तथा **वि** असृजः । यतस्त्वं **पर्वतस्य** पर्ववतो मेघस्य **दृळ्हं** दृढमपां बन्धकप्रदेशम् **अरुजः** अभाङ्क्षीः । अपि च त्वं **जगतः** संबन्धिनीनां **चर्षणीनां** प्रजानां **राजाभवः** अधिपतिर्भवसि । किं कुर्वन् । **सूर्यं** **द्यां** द्युलोकम् **उषसं** च तमसा प्रावृतम् एतत्त्रितयं साकं युगपदेव **जनयन्** प्रादुर्भावयन् । प्रकाशयन्नित्यर्थः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have set the obstructed waters free o flow in all directions; you have fractured the solid (barrier) of the cloud; you are lord over the people of the world, making manifest together the sun, the sky, and the dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You (sent) forth the waters, (opened) wide the doors in every direction.  Indra, you broke the fastness of the mountain.  
 You became the king of the moving world and of the settled domains,  begetting at once the sun, heaven, and dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, thou breakest up the floods and portals on all sides, and the firmness of the mountain.  
      Thou art the King of men, of all that liveth, engendering at once Sun, Heaven, and Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du ließest die Gewässer durch die Tore nach allen Seiten laufen. Indra, du sprengtest die Feste des Berges auf. Du wardst König über die Welt, über die Völker, der du miteinander Sonne, Himmel, Morgenröte erschufest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du brachst des Wassers mannichfache Thore, die Feste auch des Wolkenfelsens, Indra, Du warst der Welt und aller Menschen König und schufest Sonne, Himmel, Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты (выпустил течь) воды через врата во все стороны.  
 О Индра, ты проломил твердь горы;  

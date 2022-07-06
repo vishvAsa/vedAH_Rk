@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने श꣡र्ध महते꣡ सउ꣡भगाय  
 त꣡व द्युम्ना꣡नि उत्तमा꣡नि सन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शत्रूयता꣡म् अभि꣡ तिष्ठा म꣡हांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । जः॒ऽप॒त्यम् । सु॒ऽयम॑म् । आ । कृ॒णु॒ष्व॒ । श॒त्रु॒ऽय॒ताम् । अ॒भि । ति॒ष्ठ॒ । महां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे **अग्ने** त्वं **महते** प्रभूताय **सौभगाय** अस्माकं शोभनधनत्वाय **शर्ध** शत्रून् सहस्व । तथा **तव** संबन्धीनि **द्युम्नानि** धनानि तेजांसि वा **उत्तमानि** उत्कृष्टानि **सन्तु** भवन्तु । किंच हे अग्ने त्वं **जास्पत्यम्** । जा जाया च पतिश्च जायापती । तयोः कर्म जास्पत्यम् । तत् **सुयमं** सुष्ठु नियमनोपेतम् । अन्योन्यसंश्लिष्टमित्यर्थः । **सम्** **आ** **कृणुष्व** सम्यक् कुरुष्व । अपि च **शत्रूयतां** शत्रुमात्मन इच्छतां सपत्नानां **महांसि** तेजांसि **अभि** **तिष्ठ** आक्रमस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 **Yajus**. 33.12; preserve in concord: sam jāspatyam suyamam kṛṇuṣva, make perfect the well-connected duty of wife and husband
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, show yourself off for the sake of great good fortune. Let your  brilliance be very high.  
 Let our united household be easy to control. Surmount the great powers  of those who act as our rivals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Show thyself strong for mighty bliss, O Agni, most excellent be thine effulgent splendours.  
      Make easy to maintain our household lordship, and overcome the might of those who hate us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, show thy prowess for the sake of great bliss. May thy splendours be highest. Make our householdership easy to conduct 1. Set thy foot on the greatness of those who show enmity to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, sei stark zu großem Glücke, dein Glanz soll der höchste sein! Bring eine Haushaltung zustande, die leicht zu lenken ist; überbiete die Herrlichkeiten der Feindseligen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erweise kühn zu hohem Glück dich, Agni; es seien dein die höchsten Herrlichkeiten; Verschaffe du uns leichtgelenkten Hausstand, der Feindgesinnten Kräfte überwinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, крепчай для великого благополучия!  
 Да будут твои вспышки самыми высокими!  

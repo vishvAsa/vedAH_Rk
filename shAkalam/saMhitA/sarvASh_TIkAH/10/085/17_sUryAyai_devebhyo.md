@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूरिया꣡यै देवे꣡भियो  
 मित्रा꣡य व꣡रुणाय च  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इदं꣡ ते꣡भ्यो ऽकरं न꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ये । भू॒तस्य॑ । प्रऽचे॑तसः । इ॒दम् । तेभ्यः॑ । अ॒क॒र॒म् । नमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūryāyai* ← *sūryā*
 - \[noun\], dative, singular, feminine
@@ -103,36 +103,36 @@ popular;; epic anuṣṭubh (380)
 **सूर्यायै** सूर्यस्य पत्न्यै **देवेभ्यः** अग्न्यादिभ्यः **मित्राय** **वरुणाय** च **ये** च **भूतस्य** भूतजातस्य **प्रचेतसः** सुमतयोऽभिमतप्रदा भवन्ति **तेभ्यः** सर्वेभ्यः इदं **नमः** नमस्कारम् **अकरं** करोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer this adoration to **Sūrya**, to the gods, to **Mitra** and **Varuṇa**, (and to all those) who areconsiderate to created beings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Sūryā, to the gods, to Mitra and Varuṇa—  
 those who are forethoughtful of creation—to them I have made this  obeisance here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Surya and the Deities, to Mitra and to Varuna.  
      Who know aright the thing that is, this adoration have I paid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Surya, den Göttern, Mitra und Varuna, die der Schöpfung kundig sind, habe ich diese Verbeugung gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Suriā, den Göttern, dem Mitra und Varuna, welche des Seienden kundig sind, denen habe ich dies Anbetungslied gemacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сурье, богам,  
 Митре и Варуне,  

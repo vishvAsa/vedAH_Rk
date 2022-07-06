@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुष्टीवा꣡नो हि꣡ दाशु꣡षे  
 देवा꣡ अग्ने वि꣡चेतसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त्र꣡यस्त्रिंशतम् आ꣡ वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तान् । रो॒हि॒त्ऽअ॒श्व॒ । गि॒र्व॒णः॒ । त्रयः॑ऽत्रिंशतम् । आ । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śruṣṭīvāno* ← *śruṣṭīvānaḥ* ← *śruṣṭīvan*
 - \[noun\], nominative, plural, masculine
@@ -109,7 +109,7 @@ O Agni and the gods, wise ones, do hear the worshiper:
 O you with a red-horse, delighting in Vedic chants, bring those 33 gods!
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,34 +120,34 @@ O you with a red-horse, delighting in Vedic chants, bring those 33 gods!
 **Aitareya** **Brāhmaṇa**, 2,18 refes to two classes of 33 divinities each; the first one are **Somapās** (drinkers of **Soma**); and the second are person nifications of sacrifices: 11 prayājas, 11 anuyājas, 11 **upayājas** (propitiated with oblations of clarified butter, not libations of Soma)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, o Agni, the discriminating gods give attentive hearing to the  pious man,  
 bring them here, the three and thirty, you with the ruddy horses, you who  long for song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Gods who understand give ear unto the worshipper:  
      Lord of Red Steeds, who lovest song, bring thou those Three-and-Thirty Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The wise gods, O Agni, are ready to listen to the worshippers: conduct them hither, the thirty-three, O lord of red horses, thou who lovest our praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die weisen Götter sind dem Opfernden Erhörer, o Agni. Diese Dreiunddreißig fahre her, du Rotrossiger, Lobbegehrender!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die weisen Götter hören gern, o Agni, auf den Huldiger, O Liederfreund, rothrossiger, die dreiunddreissig fahre her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь внемлют почитающему (их)  
 Прозорливые боги, о Агни!  

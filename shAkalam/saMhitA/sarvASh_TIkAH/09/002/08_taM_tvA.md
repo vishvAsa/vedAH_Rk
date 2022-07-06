@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा म꣡दाय घृ꣡ष्वय  
 उलोककृत्नु꣡म्† ईमहे  
 त꣡व प्र꣡शस्तयो महीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तव॑ । प्रऽश॑स्तयः । म॒हीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम यस्य **तव** **प्रशस्तयः** प्रशंसाः **महीः** महत्यः **घृष्वय** **उ** त्वत्प्रसादाच्छत्रूणां धर्षणशीलाय यजमानायैव **लोककृत्नुम्** उत्तमस्य लोकस्य कर्तारं **तं** त्वां सोमं **मदाय** **ईमहे** वयं याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,36 +99,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Praśastayo **mahiḥ** is read as, praśastaye mahe in **Sāmaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We implore you, who make wide space, for ardent exhilaration.  
 To you belong great praise songs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression mádāya ghṛ́ṣvaya in the Saṃhitā text may be deliberately ambiguous. The Pp. reads dat. ghṛ́ṣvaye, which is supported by IX.16.1 as well as VIII.64.12, but IX.101.8 has ... mádāya ghṛ́ṣvayaḥ “(cows) avid for exhilaration,” which would allow a tr. here “we, avid for exhilaration …” Although the published translation follows the Pp.
 
 (as do Geldner and Renou), I think both readings may be intended.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee who givest ample room we pray, to win the joyous draught:  
      Great are the praise& due to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Platzmacher, gehen wir um fröhlichen Rausch an; groß ist dein Lob.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum wünschen wir, der Raum du schaffst, zum muntern Rausche dich herbei, Gross ist die Gunst, die du gewährst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это к тебе, создателю простора,  
 Мы обращаемся за радостным опьянением.  

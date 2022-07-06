@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशां꣡ रा꣡जानम् अ꣡द्भुतम्  
 अ꣡ध्यक्षं ध꣡र्मणाम् इम꣡म्  
 अग्नि꣡म् ईळे स꣡ उ श्रवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । ई॒ळे॒ । सः । ऊं॒ इति॑ । श्र॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विशां** प्रजानां **राजानम्** ईश्वरम् **अद्भुतं** महान्तं **धर्मणां** कर्मणाम् **अध्यक्षम्** अनुसंधातारं यं **इममग्निमीळे** स्तौमि **स** **उ** स एवाग्निः **श्रवत्** अस्मदीयां स्तुतिं शृणोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise this **Agni**, the sovereign of men, the wonderful, the superintendent of holy acts; may he hearme.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The infallible ruler of the clans, this overseer here of the (ritual)  statutes—  
 Agni do I reverently invoke: he will listen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I pray to Agni, King of men, the Wonderful, the President  
      Of holy Laws: may he give ear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den König der Stämme, diesen geheimen Aufseher über die Satzungen, den Agni rufe ich an: Er soll hören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wunderbaren Menschenherrn, den Hüter aller Ordnungen, Den Agni preis' ich, höre er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царя племен, этого удивительного (бога),  
 Следящего за обычаями,  

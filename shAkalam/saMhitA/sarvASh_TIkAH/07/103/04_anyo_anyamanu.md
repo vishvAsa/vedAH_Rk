@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्यो꣡ अन्य꣡म् अ꣡नु गृभ्णाति एनोर्  
 अपा꣡म् प्रसर्गे꣡ य꣡द् अ꣡मन्दिषाताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृ꣡श्निः सम्पृङ्क्ते꣡ ह꣡रितेन वा꣡चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒ण्डूकः॑ । यत् । अ॒भिऽवृ॑ष्टः । कनि॑स्कन् । पृश्निः॑ । स॒म्ऽपृ॒ङ्क्ते । हरि॑तेन । वाच॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
@@ -115,20 +115,20 @@ popular
 एनोः एनयोर्द्वयोर्मण्डूकयोः अन्योमण्डूकः अन्यं मण्डूकं अनुगम्य गृभ्णाति गृह्णाति अपां उदकानां प्रसर्गे प्रसर्जने वर्षणे सति यद्यदा अमन्दिषातां हृष्टावभूताम् यद्यदा च अभिवृष्टः पर्जन्येनाभिषिक्तः कनिष्कन् स्कन्दयतेर्यङ्लुङन्तस्य रूपम् भृशं स्कन्दं उत्प्लवं कुर्वन्- पृश्निः पृश्निवर्णोमण्डूकः हरितेन हरितवर्णेनान्येन मण्डूकेन वाचं सम्पृङ्क्ते संयोजयत उभावपि एकविधं शब्दं कुर्वाते तदानीमन्यः अन्यमनुगृभ्णातीत्यन्वयः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One of these two congratulates the other as they are both delighting in the forthcoming of rain; thespeckled frog, leaping up repeatedly when moistened (by the shower), joins greetings with the green one.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One of the two grasps the other from behind, when they have become  exhilarated in the discharge of the waters,  
 when the frog, rained upon, has hopped and hopped, and the speckled  one mixes his speech with the green one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb in the first pāda, ánu gṛbhṇāti, is generally rendered with an anodyne ‘greet’ (Macdonell, Maurer, Doniger; sim. Renou ‘salue’), ‘support’ (unterstützt, Geldner), or is given a specifically ritual interpr. (Thieme, Gedichte). But the lexeme has a straightforward literal sense ‘grasp in following, grasp from behind’, and this literal meaning exactly describes the posture of frog mating (“amplexus”), with the male grasping the female around her middle with his forefeet (sometimes facilitated by so-called “nuptial pads” developed during the mating season). Since once achieved, this posture is held for long periods—hours, days, even weeks or months—it would be visually salient to any Vedic bard outdoors during the rainy season, which is also the frog mating season. The only potential problem with my interpr. is that the obj. of the verb is masc. anyám. However, the expression here anyó anyám “the one … the other” is already stereotypical in the RV for any mutual activity and will soon be frozen as the adverb anyonyam ‘mutually’. Moreover it is not impossible that the original text had a fem. *anyā́m (anyó *anyā́m ánu gṛbhṇāti enoḥ): four-syllable openings almost always have a heavy fourth syllable (see Arnold, 136 188), whereas the transmitted text has a light one. Thus *anyā́m could have been changed redactionally to anyám on the basis of the later adverb.
 
@@ -137,28 +137,28 @@ Note the phonetic echo … ámandiṣātām / maṇḍū́kaḥ.
 The intens. kániṣkan in c, ‘hopped and hopped, continually hopped’, is a nice description of the apparently random and chaotic “scramble competition” of male frogs seeking partners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Each of these twain receives the other kindly, while they are revelling in the flow of waters,  
      When the Frog moistened by the rain springs forward, and Green and Spotty both combine their voices.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The one of them the other hails with welcome, When in the flow of waters they have revelled; When rained upon the frogs become exultant, He that is Spotty joins his voice to Tawny's.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einer von zweien unterstützt den anderen, wenn beide über den Losbruch der Gewässer erfreut sind, wenn der Frosch im Regen hin und her hüpft, und der Gefleckte seine Stimme mit dem Grünen vereinigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine hüpft zum andern hin, umfasst ihn, wenn durch des Wassers Strömen sie berauscht sind; Und dann vom Nass bespült der Frosch herbeispringt, der bunte mit dem gelben mischt die Stimme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из (каждой) пары одна приветствует другую,  
 Когда обе радуются низвержению вод,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ सो꣡मो अ꣡धि त्वचि꣡  
 ग꣡वां क्रीळति अ꣡द्रिभिः  
 इ꣡न्द्रम् म꣡दाय जो꣡हुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । मदा॑य । जोहु॑वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** अंशुरूपः **सोमः** **गवां** **त्वचि** आनडुहचर्मणि । अधिशब्द उपर्यर्थद्योतकः । चर्मण्युपरि **अद्रिभिः** ग्रावभिः सह **क्रीडति** अभिषवाय संक्रीडते । किं कुर्वन् । **मदाय** सोमपानेन मादयितुम् **इन्द्रं** **जोहुवत्** भृशमाह्वयन् । एतेन तत्काल इन्द्रविषयां स्तुतिं कुर्वन्तीत्यवगम्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e. then the priests by means of the Soma, perform Indra's praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Soma plays on the hide of cows with the stones,  
 repeatedly invoking Indra to exhilaration.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma, through the pressing-stones, is sporting on the oxhide, and  
      Summoning Indra to the draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma spielt mit den Steinen auf der Kuhhaut, den Indra zum Rausche laut ladend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma hüpft durch Steine nun hernieder auf die Rinderhaut, Den Indra rufend zu dem Rausch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

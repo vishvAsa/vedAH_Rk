@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सी꣡रा युञ्जन्ति कव꣡यो  
 युगा꣡ वि꣡ तन्वते पृ꣡थक्  
 धी꣡रा देवे꣡षु सुम्नया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 धीराः॑ । दे॒वेषु॑ । सु॒म्न॒ऽया ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sīrā* ← *sīra*
 - \[noun\], accusative, plural, neuter
@@ -87,7 +87,7 @@ popular
 **कवयः** मेधाविन ऋत्विजः **सीरा** सीराणि कर्षणसाधनानि **युञ्जन्ति** योजयन्ति । **युगा** युगान्यपि **पृथक्** परस्परं **वि** **तन्वते** भिन्नप्रदेशानि कुर्वन्ति । कीदृशाः कवयः । **देवेषु** विषये **धीराः** धीमन्तः । किमर्थम् । सुम्नया । सुम्नमिति सुखनाम । सुखेच्छया । सुम्नशब्दात् क्यजन्ताद्भावे ‘ अ प्रत्ययात्' इत्यकारप्रत्ययः । ‘सुपां सुलुक्' इति तृतीयाया आकारः । अथवा धीरा धीमन्तो देवेषु सुम्नया सुम्नेन । देवेषु सुखं भूयादिति । ‘सुपां सुलुक्' इति विभक्तेर्याजादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,27 +98,27 @@ popular
 Happiness: sumnayā = to give plural asure to the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poets hitch up the plows; they stretch the yokes across separately— the insightful ones in search of favor among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise, through desire of bliss from Gods, the skilful bind the traces fast, And lay the yokes on either side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seher schirren die Pflüge, sie stecken einzeln die Joche vor, die Kenner, um bei den Göttern Gunst zu erwirken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die es verstehen, spannen die Stränge an und legen die Joche gesondert auf, die weisen voll Liebe zu den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэты запрягают плуги с сеялками,  
 По отдельности надевают хомуты  

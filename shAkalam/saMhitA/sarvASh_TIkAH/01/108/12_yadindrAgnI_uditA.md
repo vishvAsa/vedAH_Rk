@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी उ꣡दिता सू꣡रियस्य  
 म꣡ध्ये दिवः꣡ स्वध꣡या माद꣡येथे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । परि॑ । वृ॒ष॒णौ॒ । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **उदिता** उदितस्योदयं प्राप्तस्य **सूर्यस्य** आदित्यस्य संबन्धिनः **दिवः** द्योतमानस्य अन्तरिक्षस्य **मध्ये** मध्यभागे **स्वधया** आत्मीयेन तेजसा हविर्लक्षणेनान्नेन वा **यत्** यस्मात् कारणात् **मादयेथे** तृप्तौ भवथः तस्मात् कारणात् **अतः** सर्वस्मादन्तरिक्षभागात् हे कामाभिवर्षकाविन्द्राग्नी आगच्छतम् । आगमनानन्तरमभिषुतं सोमं **पिबतम्** ॥ उदिता । ‘सुपां सुलुक्° ' इति षष्यातम डादेशः । दिवः । ऊडिदम्' इति विभक्तेरुदात्तत्वम् । मादयेथे ।  ‘ मद तृप्तियोगे । चुरादिरात्मनेपदी ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Although, **Indra** and **Agni**, in the midst of the sky, on the rising of the sun, you may be exhilarated by your own splendour, yet, showerers of benefits, come hither from wherever you maybe, and drink of the effused **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra and Agni, at the rising of the sun in the middle of the  heaven you bring yourselves to exhilaration by your own power,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, when the Sun to the mid-heaven hath mounted, ye take delight in food, O Indra-Agni,  
      Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr, Indra und Agni, im Aufgang der Sonne, in der Mitte des Himmels euch nach eigenem Ermessen ergötzet, so kommt doch ja von dort her, ihr Bullen, und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra-Agni, ihr bei Sonnenaufgang, zu Mittag euch berauscht am süssen Tranke, So kommt von da zu uns doch her, ihr Stiere, und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра и Агни, на восходе солнца  
 (Или) в середине дня вы опьяняетесь по своему желанию,  

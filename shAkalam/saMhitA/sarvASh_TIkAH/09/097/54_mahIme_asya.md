@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हीमे꣡ अस्य वृ꣡षना꣡म शूषे꣡  
 माँ꣡श्चत्वे वा पृ꣡शने वा व꣡धत्रे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पामि꣡त्राँ अ꣡पाचि꣡तो अचेतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अस्वा॑पयत् । नि॒ऽगुतः॑ । स्ने॒हय॑त् । च॒ । अप॑ । अ॒मित्रा॑न् । अप॑ । अ॒चितः॑ । अ॒च॒ । इ॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahīme* ← *mahi*
 - \[noun\], accusative, singular, neuter
@@ -119,7 +119,7 @@ genre M
 महि महती प्रभूते वृषनाम सुपांसुलुगितिसुपोलुक् वृषनामनी वर्षणनमने शराणां वर्षणं शत्रूणां नमनं इमे एते द्वेकर्मणी अस्यसोमस्य शूषे सुखकरेभवतः । येच कर्मणी मांश्चत्वे अश्वनामैतत् । मक्षू चरतीति अश्वैःक्रियमाणेयुद्धे तत्साध्यत्वात् यु वा अपिवा पृशने स्पर्शनसाध्ये बाहुयुद्धे वधत्रे शत्रूणांहिंसनशीले भवतः सोयं निगुतः नीचैः शब्दायमानान् शत्रून् अस्वापयत् ताभ्यामसूषपत् । अवधीदित्यर्थः । किञ्च स्रेहयत् प्राद्रवयत् सङ्ग्रामाच्छत्रून् । अथप्रत्यक्षकृतः हेसोम सत्वं अमित्रान् शात्रून् अपाच अपा- गमय । तथा अचितः अग्निचयनमकुर्वतो नास्तिकांश्च इतोस्मत्सकाशात् अपाच अपगमय अचतिर्गतिकर्मा ॥ ५४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ Pṛśane = bāhuyuddhe, an arm-fight (person nal combat);
 Unbelievers: **acitaḥ** = those who do not make an agnicayanam (preparation of the sacred fire-plural ce), i.e., infidels
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of him—“Bull” his name—there are these two great forceful weapons  of death either at the hiding of the moon or at the caressing  
 [=mixing soma with milk]:  
@@ -142,7 +142,7 @@ he put the challengers to sleep and “snowed” them. Turn back from
 here those without alliance (with us), back those without perception.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The difficulties do not let up here, esp. in the 1st hemistich. The clearest thing here is the asya, which presumably, because of its lack of accent, must refer to the naigutáḥ in 53cd. This same figure is also the subject of the verbs in c.
 
@@ -188,23 +188,23 @@ The simplistic repetition of the previous tṛca contrasts markedly with the con
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eagerly do we pray for those two exploits, at the blue lake and Prsana, wrought in battle.  
      He sent our enemies to sleep and slew thern, and turned away the foolish and unfriendly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden machen seinen großen Namen Bulle aus, sein Ungestüm und seine Waffe, sei es bei Mamscatva, sei es bei Prisana. Er schläferte die Schwätzer ein und beschneite sie. Wende die Feinde ab, von hier die Toren ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross wie des Stiers sind seine starken Keulen, bald streichelnd, bald den hellen Saft erpressend; In Schlaf und Tod versenkte er die Schmäher; vertrieb von hier die unverständ'gen Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его великое имя бык (дали ему) эти две (вещи):  
 Неистовство (и) смертельное оружие, будь то в Маншчатве или в Пришане.  

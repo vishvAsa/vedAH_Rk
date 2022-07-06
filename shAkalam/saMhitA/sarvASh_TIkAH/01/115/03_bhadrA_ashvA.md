@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रा꣡ अ꣡श्वा हरि꣡तः सू꣡रियस्य  
 चित्रा꣡ ए꣡तग्वा अनुमा꣡दियासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि द्या꣡वापृथिवी꣡ यन्ति सद्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 न॒म॒स्यन्तः॑ । दि॒वः । आ । पृ॒ष्ठम् । अ॒स्थुः॒ । परि॑ । द्यावा॑पृथि॒वी इति॑ । य॒न्ति॒ । स॒द्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, masculine
@@ -112,46 +112,46 @@ genre D
 **भद्राः** कल्याणाः । अश्वाः एतग्वाः इत्येतदुभयम् अश्वनाम। तत्रैकं क्रियापरं योजनीयम् । **अश्वाः** तुरगा व्यापनशीला वा **हरितः** हर्तारः **चित्राः** विचित्रावयवाः **अनुमाद्यासः** अनुक्रमेण सर्वे स्तुत्या मादनीया एवंभूताः **सूर्यस्य** **एतग्वाः** अश्वाः । यद्वा । एतं गन्तव्यं मार्गं गन्तारोऽश्वाः। एतं शबलवर्णं वा प्राप्नुवन्तोऽश्वाः । **नमस्यन्तः** अस्माभिः नमस्यमानाः सन्तः **दिवः** अन्तरिक्षस्य **पृष्ठम्** उपरिप्रदेशं पूर्वभागलक्षणम् **आ** **अस्थुः** आतिष्ठन्ति प्राप्नुवन्ति। यद्वा । हरितो रसहरणशीला: रश्मयः भद्रादिलक्षणविशिष्टाः दिवः पृष्ठं नभःस्थलमातिष्ठन्ति । आस्थाय च **द्यावापृथिवी** द्यावापृथिव्यौ **सद्यः** तदानीमेव एकेनाह्ना **परि** **यन्ति** परितो गच्छन्ति व्याप्नुवन्तीत्यर्थः ॥ अश्वाः ।  ‘ अशू व्याप्तौ ' ।  ‘ अशिप्रुषि° ' इत्यादिना क्वन् । एतग्वाः ।  ‘ इण् गतौ ।  ‘ असिहसि । इत्यादिना कर्मणि तन्प्रत्ययः । गमेरौणादिको भावे ड्वप्रत्ययः । एतमेतव्यं प्रति ग्वो गमनं येषां ते तथोक्ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अनुमाद्यासः । **मदि** स्तुतौ । अस्मात् ण्यन्तात् ‘अचो यत्' । यतोऽनावः' इत्याद्युदात्तत्वम् । नमस्यन्तः ।  ‘ नमोवरिवः० ' इति पूजार्थे क्यच् । व्यत्ययेन कर्मणि कर्तृप्रत्ययः । अस्थुः । तिष्ठतेश्छन्दसो वर्तमाने लुङ् । गातिस्था° ' इति सिचो लुक् ।  ‘ आतः । इति झेः जुस् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The auspicious, swift horses of the sun, well-limbed, road-traversing, who merit to be plural ased with praise, revernced byus, have ascended to the summit of the sky, and quickly circumambulate earth and heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The auspicious tawny horses of the Sun—the brilliant ones, worth  cheering on, that win dappled cows—  
 bringing reverence, they have mounted the back of heaven. They circle  around heaven and earth in a single day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For étagva- see comm. on VIII.70.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious are the Sun's Bay-coloured Horses, bright, changing hues, meet for our shouts of triumph.  
      Bearing our prayers, the sky's ridge have they mounted, and in a moment speed round earth and heaven.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The brilliant steeds, bay coursers of the sun-god. Refulgent, dappled, meet for joyful praises, Wafting our worship, heaven's ridge have mounted, And in one day round earth and sky they travel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die glückbringenden falben Stuten des Surya, die prangenden Etagva´s haben von Jubel begrüßt, sich beugend den Rücken des Himmels erstiegen. In einem Tag umwandeln sie Himmel und Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schönen, goldnen, lichten Sonnenrosse, die schimmernden, begrüsst von Jubelliedern, Sie stiegen andachtsvoll zur Himmelshöhe und gehn in einem Tag' um Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодатные рыжие кобылицы Сурьи,  
 Яркие, пестрые, вызывающие восторг,  

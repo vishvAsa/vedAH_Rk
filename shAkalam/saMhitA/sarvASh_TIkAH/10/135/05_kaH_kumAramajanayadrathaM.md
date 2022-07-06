@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कः꣡ कुमार꣡म् अजनयद्  
 र꣡थं को꣡ नि꣡र् अवर्तयत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अनुदे꣡यी य꣡था꣡भवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 कः । स्वि॒त् । तत् । अ॒द्य । नः॒ । ब्रू॒या॒त् । अ॒नु॒ऽदेयी॑ । यथा॑ । अभ॑वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -115,33 +115,33 @@ popular;; epic anuṣṭubh (380)
 रिक्तस्यान्यस्यासंभवं किंशब्देनाक्षेपवाचिना दर्शयति । कुमारं मां कः पिताजनयत् । न कोऽपि । ' अजो नित्यः शाश्वतः ' ( क. उ. २. १८) इति श्रुत्युक्तरूपोऽहं भवामि । कश्च शरीरात्मकं रथं निरवर्तयत् निर्वर्तयति । मद्व्यतिरिक्तस्य निर्वर्तयितुरभावात् तथा निर्वर्त्यस्यान्यस्यासंभवाच्च । अद्य अस्मिन् काले सार्वात्म्यानुभवदशायां तं तं प्रकारं कः स्वित् को नाम नोऽस्माकं ब्रूयात् यथा येन प्रकारेण अनुदेयी अनुदातव्या मद्व्यतिरिक्तान्यपदार्थसत्ता अभवत् भवतिं । स प्रकारोऽपि दुर्वचन इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama? Poet?:] Who begat the lad? Who sent the chariot rolling out? Who could tell us this today, how the (debt) came to be forgiven?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who was the father of the child? Who made the chariot roll away?  
      Who will this day declare to us how the funeral gift was made?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer hat den Knaben erzeugt, wer hat den Wagen gefertigt? Wer vermöchte uns denn heute das zu sagen, wie seine Amme war?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer hat den Knaben doch gezeugt, wer rollte seinen Wagen fort, Und wer mag heute sagen uns, wie er zurückgegeben ward.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто породил мальчика?  
 Кто выкатил колесницу?  

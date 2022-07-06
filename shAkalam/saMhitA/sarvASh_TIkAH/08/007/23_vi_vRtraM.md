@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ वृत्र꣡म् पर्वशो꣡ ययुर्  
 वि꣡ प꣡र्वताँ अराजि꣡नः  
 चक्राणा꣡ वृ꣡ष्णि पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 च॒क्रा॒णाः । वृष्णि॑ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अराजिनः** राज्ञा केनचित्स्वामिनानधिष्ठिताः। यद्वा । राजा स्वामी अस्य न विद्यत इत्यराजेन्द्रः । तद्युक्तः । **वृष्णि** वीर्यवत् पौस्यं बलं **चक्राणाः** कुर्वाणा मरुतः **वृत्रम्** आवरकमसुरं मेघं वा **पर्वशः** पर्वणि पर्वणि भेदेन **वि** **ययुः** विशिष्टं वधमगमयन् । तथा **पर्वतान्** गिरींश्च विशिष्टं वधं प्रापयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Independent of a ruler, they have divided **Vṛtra** joint by joint; they have shattered the mountains,manifesting manly vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They drove Vr̥tra apart, joint by joint, apart the mountains lacking  rules [/radiance],  
 performing a bullish manly deed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 arājín- is a hapax. Though it is obviously derived from a root √rāj, it is not clear whether it belongs to ‘shine’ (so Grassmann ‘nicht glänzend’, Renou ‘sans éclat’) or ‘rule’ (Geldner ‘die herrenlosen Berge’; Oldenberg ‘königlos’) -- or both, as I suspect. Although neither root yields compelling sense as a negated quality of mountains, the phrase should be interpreted in light of 1c ví párvateṣu rājatha, where I see the same pun.
 
@@ -120,28 +120,28 @@ The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They sundered Vrtra limb from limb and split the gloomy mountain-clouds,  
      Performing a heroic deed.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 They joint by joint have Vṛtra rent, And rent the gloomy mountain clouds, Performing an heroic feat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie haben gliedweise den Vritra durchfahren und die herrenlosen Berge, indem die eines Bullen Krafttat vollführten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Glied für Glied zertraten sie den Vritra und die dunklen Höhn, Vollendend starke Mannesthat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они переехали Вритру по суставам,  
 Пере(ехали) горы, (оказавшиеся таким образом) без блеска,  

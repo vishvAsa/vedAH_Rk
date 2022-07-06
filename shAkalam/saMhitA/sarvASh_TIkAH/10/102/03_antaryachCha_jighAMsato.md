@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡र् यछ जि꣡घांसतो  
 व꣡ज्रम् इन्द्राभिदा꣡सतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सनुत꣡र् यवया वध꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दास॑स्य । वा॒ । म॒घ॒ऽव॒न् । आर्य॑स्य । वा॒ । स॒नु॒तः । य॒व॒य॒ । व॒धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antar*
 - \[adverb\]
@@ -100,35 +100,35 @@ popular
 हे **इन्द्र** **जिघांसतः** हन्तुमिच्छतः **अभिदासतः** अभिद्रुह्यतः शत्रोः **वज्रम्** अन्तर्यच्छ अन्तर्गमय । तदेवाह । हे **मघवन्** धनवन्निन्द्र **दासस्य** **वा** उपक्षीणस्याल्पस्य **आर्यस्य** अभिगन्तव्यस्य महतो **वा** शत्रोः **वधम्** । वज्रनामैतत् । हननसाधनं वज्रं **सनुतः** । अन्तर्हितनामैतत् । अन्तर्हितं गूढं प्रयुज्यमानं **यवय** पृथक्कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Restrain, **Indra**, the thunderbolt of the malignant threatening (foe); ward off, **Maghavan**, the secretweapon (of our foe), be he **Dāsa** or **Ārya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hold in check the mace of the assailant who seeks to smite (us), o Indra. Keep far away the murderous weapon, whether of the Dāsa or of the  Ārya, o bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, cast thy bolt among assailants who would slaughter us:  
      The weapon both of Dasa and of Arya foe keep far away, O Maghavan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halte, Indra, die Keule des Bedrohenden auf, der zu Fall bringen will! Halte abseits das Geschoß des Dasa oder Ariers, du Gabenreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lenke, o Indra, deinen Blitz mitten unter die mordlustigen, die uns befeinden, halte fern, o mächtiger, sowol des Barbaren als des Ariers Mordwaffe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

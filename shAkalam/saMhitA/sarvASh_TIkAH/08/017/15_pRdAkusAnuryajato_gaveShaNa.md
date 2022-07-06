@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृ꣡दाकुसानुर् यजतो꣡ गवे꣡षण  
 ए꣡कः स꣡न्न् अभि꣡ भू꣡यसः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्रं सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 भूर्णि॑म् । अश्व॑म् । न॒य॒त् । तु॒जा । पु॒रः । गृ॒भा । इन्द्र॑म् । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛdākusānur* ← *pṛdākusānuḥ* ← *pṛdākusānu*
 - \[noun\], nominative, singular, masculine
@@ -107,7 +107,7 @@ genre M;; repeated line
 **पृदाकुसानुः** । पृदाकुः सर्पः । स इव सानुः समुच्छ्रितः । तद्वदुन्नतशिरस्क इत्यर्थः । यद्वा । पृदाकुवत् सानुः संभजनीयः । स यथा बहुभिर्मणिमन्त्रौषधादिभिः संसेव्यो नाल्पैः एवमिन्द्रोऽपि बहुभिः स्तोत्रादिभिर्यत्नैः सेव्य इत्यर्थः । **यजतः** यष्टव्यः गवेषणः गवामेषयिता प्रापयिता एवंगुणको य इन्द्रः **एकः** **सन्** असहायः केवल एव सन् **भूयसः** बहुतराञ्छत्रूनभिभवति **भूर्णिं** भरणशीलम् **अश्वं** व्याप्नुवन्तं तम् **इन्द्रं** **सोमस्य** **पीतये** पानार्थं **पुरः** अस्माकं पुरस्तात् **नयत्** नयति प्रापयति । सामर्थ्यात् स्तोतेति लभ्यते । केन साधनेन । **तुजा** क्षिप्रगामिना **गृभा** ग्रहणसाधनेन स्तोत्रेण । यद्वा । अश्वमिति लुप्तोपममेतत् । यथा वोढारमश्वं दुर्ग्रहं पाशेनानयन्ति एवमुक्तेन प्रकारेण महानुभावमिन्द्रं स्तुत्या स्तोतानयतीत्यर्थः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,36 +120,36 @@ With head uplifted: pṛdākusānu = pṛdākuḥ **sarpaḥ**, a serpent; sa iv
 **Sānu** = saṃbhajanīya, to be served or propitiated asa snake is, with many gems, **mantras**, medicaments; sa yatha bahubhir maṇimantrauṣadhādibhis saṃsevyonālpai evam indropi bahubhis stotrādibhir yatnais **sevyaḥ**; by a rapid seizure: gṛbha = means of seizing, i.e. apraise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pr̥dākusanu, worthy of the sacrifice, seeking cattle—even though he is  one, he sur(rounds) the many.  
 He leads forward, by thrust and grasp, the ardent horse that is Indra, to  drink of the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The PN should be Pṛdākusānu, with a second long ā. The published translation should be corrected.
 
 In c the unaccented form gṛbhā in the Holland & van Nooten Rig Veda edition edition is a mistake for gṛbhā́, with the Pp.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Holy Prdikusanu, winner of the spoil, one eminent o'er many men,  
      Lead on the wild horse Indra with his vigorous grasp forward to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pridakusanu, der Verehrungswürdige, auf Rinderbeute Ausziehende, der allein vielen überlegen ist, der soll das ungeduldige Roß mit raschem Griff vorführen, den Indra zum Trunk des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der (Held), dessen Oberfläche wie eine Schlangenhaut glänzt, der ehrwürdige, kampflustige, der allein einer grössern Schar widersteht (Indu?), führe mit kräftigem Griff das feurige Ross, den Indra, zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придакусану, достойный жертв, отправившийся на поиски коров,  
 Один превосходящий (всех),  

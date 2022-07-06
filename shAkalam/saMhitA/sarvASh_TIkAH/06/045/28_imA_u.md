@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ त्वा सुते꣡-सुते  
 न꣡क्षन्ते गिर्वणो गि꣡रः  
 वत्सं꣡ गा꣡वो न꣡ धेन꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व॒त्सम् । गावः॑ । न । धे॒नवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -89,20 +89,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिर्वणः** गीर्भिर्वननीयेन्द्र **सुतेसुते** सोमेऽभिषुते अभिषुते सति **इमाः** अस्मदीयाः **गिरः** स्तुतयः **त्वा** त्वां **नक्षन्ते** व्याप्नुवन्ति । **धेनवः** दोग्ध्र्यः **गावो** **न** गाव इव **वत्सम्** । यथा शीघ्रं वत्सं व्याप्नुवन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These our praises tend, as the libationsa are repeatedly poured out, eagerly to you who are gratified by praise, as the milch kine (hasten) to their calves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These songs come near to you at every pressing, o you who long  for songs,  
 as milk-cows do their calf—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although, as just noted, there’s no unity in the tṛca, there is some continuity between tṛcas. Like the first vs. of the previous tṛca (25), this one has polarized nom. #imā́ḥ … gíraḥ# “these songs” framing the first hemistich, which responds to the acc. gíraḥ in the middle of the tṛca before that (23c). Moreover, the simile “like cows their calf” (28c) reprises “like mothers their calf” in 25c.
 
@@ -117,23 +117,23 @@ Again no unity in the tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These songs with every draught we pour come, Lover of the Song, to thee,  
      As milch-kine hasten to their young
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir, du Lobbgehrender, kommen bei jedem Somaopfer die Lobreden wie die Milchkühe zum Kalb,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir eilen diese Lieder zu, o Liederfreund, bei jedem Mahl, Wie Kühe zu dem Kalbe gehn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот эти хвалебные песни при каждом выжатом соме  
 Приближаются к тебе, о жаждущий хвалебных песен,  

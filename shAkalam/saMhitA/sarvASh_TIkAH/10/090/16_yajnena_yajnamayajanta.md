@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञे꣡न यज्ञ꣡म् अयजन्त देवा꣡स्  
 ता꣡नि ध꣡र्माणि प्रथमा꣡नि आसन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त्र पू꣡र्वे साधियाः꣡ स꣡न्ति देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 ते । ह॒ । नाक॑म् । म॒हि॒मानः॑ । स॒च॒न्त॒ । यत्र॑ । पूर्वे॑ । सा॒ध्याः । सन्ति॑ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
@@ -128,14 +128,14 @@ popular;; repeated line
 **यत्र** यस्मिन् विराट्प्राप्ति-रूपे नाके **पूर्वे** **साध्याः** पुरातना विराड्-उपास्ति-साधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्-प्राप्ति-रूपं स्वर्गं **ते** **महिमानः** तद्-उपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Those great ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the sacrifice the gods performed the sacrifice for themselves: these  were the first foundations.  
 These, its greatness, accompanied (it) to heaven’s vault,  
@@ -168,7 +168,7 @@ The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
 </details>
 
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, sacrificing, sacrificed the victim these were the earliest holy ordinances.  
      The Mighty Ones attained the height of heaven, there where the Sidhyas, Gods of old, are dwelling.
@@ -179,17 +179,17 @@ Gods, sacrificing, sacrificed the victim these were the earliest holy ordinances
 The Gods adored the Sacrifice with worship: these were the statutes of primeval ages. Those mighty ones attained the cope of heaven, there where the Sadhyas, Gods of old, are dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Opfer opferten die Götter dem Opfer. Dies waren die ersten Normen des Opfers. Diese Mächte schlossen sich dem Himmel an, in dem die früheren Götter, die Sadhya´s, sich befinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, die erhabenen, gelangten zum Gipfel des Himmels, wo die alten zu gewinnenden [sādhyās] Götter sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвою боги пожертвовали жертве.  
 Таковы были первые формы (жертвоприношения).  

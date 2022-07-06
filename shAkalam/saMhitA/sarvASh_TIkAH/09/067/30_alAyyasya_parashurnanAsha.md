@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अला꣡यियस्य परशु꣡र् ननाश  
 त꣡म् आ꣡ पवस्व देव सोम  
 आखुं꣡ चिद् एव꣡ देव सोम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 आ॒खुम् । चि॒त् । ए॒व । दे॒व॒ । सो॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *alāyyasya* ← *alāyya*
 - \[noun\], genitive, singular, masculine
@@ -95,7 +95,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अलाय्यस्य** । अर्तेरौणादिक आय्यप्रत्ययः । कपिलकादित्वाल्लत्वम्। अभिगमनशीलस्य शत्रोः **परशुः** छेदकः पवमानः **तम्** एव शत्रुं **ननाश** नाशयतु नास्मानपापान् । ततो हे **देव** दीप्यमान **सोम** **आ** **पवस्व** अस्मदाभिमुख्येन गच्छ। किंच हे **देव** द्योतमान स्तुत्य वा हे **सोम** **आखुं** **चित्** ।' खनु अवदारणे' । सर्वस्याहन्तारमपि **तं** शत्रुम् **एव** बाधस्व नास्मानपापानिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,13 +106,13 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 The battle-axe: **paraśuḥ** = chedakaḥ **pavamānaḥ**, as if Soma were metaphorically called a battle-axe and implored to turn his edge against foes only (tam eva śatrum nāśayatu)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The axe [=flame] of the one not to be stilled [=Agni] (has) disappeared.  By purifying yourself bring it here, o god Soma,  
 so also the rat [=Rudra?], o god Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. is extremely puzzling and my tr. and interpr.
 
@@ -127,23 +127,23 @@ The real puzzle in this vs. is pāda c, which presents ākhúm as an apparently 
 Why this vs. ended up in this hymn I have no idea - except as a composite hymn it may have attracted various vss. that were floating around, and since it addresses Soma and uses a standard Somian verb (ā́√pū), the hymn may have seemed as good a place as any to stash this vs. It clearly has nothing to do with the two Soma vss. that preceded nor with the added summary vss. that follow. It also appears to be a younger vs., given the -l-form and the non-RVic word ā́khu-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lost is Alayya's axe. O Soma, God do thou send it back hither in thy flow  
      Even, Soma, God, if 'twere a mole.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Axt des Alayya ist verschwunden; die läutere her, Gott Soma, die wie ein Maulwurf versteckte, Gott Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des sich nicht duckenden [?Indra?] Beil hat diesen erreicht; riesle her, o Gott Soma; auch den Maulwurf sogar riesle her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исчез топор Алайи.  
 Доставь его, очищаясь, о бог сома,  

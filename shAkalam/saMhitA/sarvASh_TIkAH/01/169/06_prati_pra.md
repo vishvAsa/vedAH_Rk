@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति प्र꣡ याहीन्द्र मीळ्हु꣡षो नॄ꣡न्  
 महः꣡ पा꣡र्थिवे स꣡दने यतस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तीर्थे꣡ न꣡ अर्यः꣡ पउं꣡सियानि तस्थुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । यत् । ए॒षा॒म् । पृ॒थु॒ऽबु॒ध्नासः॑ । एताः॑ । ती॒र्थे । न । अ॒र्यः । पौंस्या॑नि । त॒स्थुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 हे **इन्द्र** त्वं **मीळ्हुषः** उदकसेक्तॄन् **नॄन्** जगन्नेतॄन् नराकारान् वा **महः** महतः मेघान् **प्रति** **प्र** याहि अभिगच्छ । मेघानां वृत्ररूपेण नराकारत्वं युक्तम् । गत्वा च **पार्थिवे** **सदने** । पृथिवीत्यन्तरिक्षनाम । तत्संबन्धिनि स्थाने **यतस्व** प्रयत्नं कुरु । तैः सह युध्यस्वेत्यर्थः । यद्वा । हविष्प्रदातॄन् कर्मनिर्वाहकान् महतो यजमानान् प्रति गच्छ। गत्वा च पार्थिवे सदने देवयजने यतस्व । यत्नं कुरु हविर्भोजनाय । अध अपि **यत्** यदा **एषां** त्वत्साहाय्यकारिणां मरुतां संबन्धिनः **पृथुबुध्नासः** विस्तीर्णमूलाः **एताः** पृषद्वर्णा गन्तारो वा अश्वाः **अर्यः** अरेः शत्रोः **पौंस्यानि** **तीर्थे** **न** युद्धमार्गं इव **तस्थुः** तिष्ठन्ति मेघानाक्रमन्ते । यद्वा । एषां मरुतां पृथुबुध्नासो बृहन्मूला एताः कृष्णवर्णा मेघास्तिष्ठन्ति । तत्र दृष्टान्तः । अर्यः अरणीयस्य स्वामिनः पौंस्यानि बलानि तीर्थं न राजवीथ्यां यथा तिष्ठन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ Like the manly energies: tīrthe **nāryaḥ** pauṃsyāni tasthuḥ: **ārya**
 Tīrthe = yuddhamārge, the way of battle; another rendering: the broad-based, dark-coloured clouds stand like the manly armies of a prince, svāminaḥ, on the royal road, **rājā** vithyām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive forth toward the men who grant rewards [=Maruts], Indra. Take  your place on the earthly seat of the great one [=Marut flock],  
 now when their wide-striding antelopes have come to a standstill, like the  manly forces of a stranger at a ford.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question in the first hemistich is what to do with maháḥ. Geldner must take it as an acc. construed with yatasva: “vergleiche dich mit [come to terms with] den Grossen ...” But this pushes the sense and syntax of medial √yat, which generally refers to physical placement (an interpr. encouraged by the seat [sádane] here) and never otherwise takes an acc. Renou takes it as adverbial, while Witzel Gotō maintain Geldner’s acc. pl. but read it with nṝ́n in the previous pāda (“den … grossen Männern”), starting a new clause with pā́rthive. I take it as gen. sg., referring to the Marut flock, as in 1a.
 
@@ -158,23 +158,23 @@ Alternatively it could refer to Agni and the earthly seat could be the ritual gr
 On pṛthubudhná-, lit. ‘broad based’, see Thieme’s brief remarks (Fremdling, p. 63 with n. 1). As he points out, it should not refer to the antelopes’ broad Untergestell (with Geldner), since antelopes are not particularly bulky, but rather to the large amount of ground they cover. I take ‘base’ as equivalent to ‘stride’, somewhat like English ‘wheelbase’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring forth the Men who rain down boons, O Indra: exert thee in the great terrestrial region;  
      For their broad-chested speckled deer are standing like a King's armies on the field of battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, den gnädigen Herren entgegen, vergleiche dich mit den Großen am irdischen Wohnsitz, nun da ihre breitspurigen Antilopen Halt gemacht haben wie die Streitkräfte eines Machthabers an einer Flußtränke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den gnäd'gen Männern schliess dich an, o Indra, und dringe kräftig hin zum Sitz der Erde, Da, wo der Maruts breitbehufte Schecken wie an der Furt des Kriegers Scharen stehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, иди вперед, навстречу щедрым мужам.  
 Мощно займи свое место на земном сидении,  

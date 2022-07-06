@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शर्यणा꣡वति सो꣡मम्  
 इ꣡न्द्रः पिबतु वृत्रहा꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 बल॑म् । दधा॑नः । आ॒त्मनि॑ । क॒रि॒ष्यन् । वी॒र्य॑म् । म॒हत् । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaryaṇāvati* ← *śaryaṇāvant*
 - \[noun\], locative, singular, masculine
@@ -125,7 +125,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **शर्यणावति** । शर्यणावन्नाम कुरुक्षेत्रस्य जघनार्धे सरः । तत्र स्थितं सोमं **वृत्रहा** **इन्द्रः** **पिबतु** । कीदृशः । **आत्मनि** **बलं** दधानः बलं निदधानः अत एव **महत्** **वीर्यं** करिष्यन् शत्रून् प्रति । तस्मात् **इन्द्रायेन्दो** **परि** स्रव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,33 +136,33 @@ popular;; epic anuṣṭubh (525);; repeated line
 Śaraṇyāvat: a lake in the **Kurukṣetra** region
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra, Vr̥tra-smasher, drink the soma in the reed-filled (place), placing strength in himself as he is about to perform a great heroic deed. – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a lacks a syllable - no obvious fix. Distraction to *śari yaṇā́vati would produce three light syllables at the beginning of the pāda, which would be highly unusual, and the stem is not otherwise found distracted. On the word see comm. ad VIII.6.39.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET Vrtra-slaying Indra drink Soma by Saryanavan's side,  
      Storing up vigour in his heart, prepared to do heroic deeds. Flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Soma in Saryanavat soll Indra, der Vritratöter, trinken, sich Kraft zulegend, wenn er eine große Heldentat vollbringen will. Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es trinke Soma aus dem Fass der Feindetödter Indra jetzt, Sich schaffend Kraft zum grossen Werk, das er nun auszuführen strebt; dem Indra ström', o Indu, zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть выпьет Индра, убийца Вритры,  
 Сому в Шарьянавате,  

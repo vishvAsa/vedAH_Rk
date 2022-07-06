@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡साम य꣡था सुषखा꣡य एन  
 सुअभिष्ट꣡यो नरां᳐꣡ न꣡ शं꣡सैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुरो꣡ न꣡ क꣡र्म न꣡यमान उक्था꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अस॑त् । यथा॑ । नः॒ । इन्द्रः॑ । व॒न्द॒ने॒ऽस्थाः । तु॒रः । न । कर्म॑ । नय॑मानः । उ॒क्था ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāma* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -128,20 +128,20 @@ genre M
 हे **एन** इन ईश्वर इन्द्र **यथा** सुसखायः शोभनत्वद्रूपसहायवन्तः **असाम** भूयास्म किंच **स्वभिष्टयः** शोभनाभ्येषणाः शोभनाभीष्टाश्चासाम । किमिव । **नरां** **न** **शंसैः** । नराणां राजादीनां शंसैः शंसनैरिव । स्तुतिभिर्यथा मनुष्याः शोभनाभीष्टा भवन्ति तद्वत् । इदानीं परोक्षेणाह । **नः** अस्मभ्यम् **इन्द्रः** **वन्दनेष्ठाः** अस्मत्स्तुतौ वर्तमानः सन् **तुरो** **न** त्वरमाण इव नः अस्माकं **कर्म** **उक्था** उक्थैः शस्त्रैः **नयमानः** फलं प्रापयन् स्तुत्या तुष्टः सन् अस्मदीयेन कर्मणा फलप्रापयिता **यथा** **असत्** भवेत् । हे ऋत्विजः तथा कुरुतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be, as it were, your valued friends, O Lord, and obtain our desires, like those (who gain their objects) by the praise of princes. May **Indra**, propitiated by our eulogies, be brought to the sacrifice by our hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that we shall be in good fellowship with him and through him  possess good dominance, as if through the lauds of men—  
 so that Indra will be there for us, standing upon our praise, leading our  hymns, like a powerful one (leading) the work [/ritual performance].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The yáthā purpose clauses of this vs. are to be roughly construed with the initial evā́of 8a.
 
@@ -158,23 +158,23 @@ The part. náyamāna(ḥ) is identical to the form in 3c, but there the part. is
 has a self-beneficial meaning, “indem er (seine) Preissprüche mit sich führt,” but even that seems contextually difficult -- although I guess any praises Indra “leads” are ultimately for him. For leading song, see gāthā-nī́- (I.190.1 [also Agastya],VIII.92.2), the latter also of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may we in this One be well befriended, well aided as it were through praise of chieftains,  
      That Indra still may linger at our worship, as one led swift to work, to hear our praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß wir an ihm einen guten Freund haben und durch ihn den Vorrang bekommen wie durch das Lob der Herren; auf daß Indra bei unserem Lob verweile, die Preislieder leitend wie ein Meister die Arbeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Damit wir hier mit gutem Freund vereint sein, und reich an Hülfen wie durch Lob der Männer, Dass Indra unsre Preisgesänge höre und Sprüche leite, wie der Fürst die Arbeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть благодаря ему у нас будет добрый друг  
 (И) превосходство, как (это) бывает при прославлениях мужей!  

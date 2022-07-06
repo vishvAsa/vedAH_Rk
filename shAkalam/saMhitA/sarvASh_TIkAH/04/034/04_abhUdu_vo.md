@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡भूद् उ वो विधते꣡ रत्नधे꣡यम्  
 इदा꣡ नरो दाशु꣡षे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡हि तृती꣡यं स꣡वनम् म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पिब॑त । वा॒जाः॒ । ऋ॒भ॒वः॒ । द॒दे । वः॒ । महि॑ । तृ॒तीय॑म् । सव॑नम् । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
@@ -125,36 +125,36 @@ genre M
 हे **नरः** नेतार ऋभवः **वः** युष्माकमनुग्रहात् **इदा** इदानीं तृतीये सवने **रत्नधेयं** दातव्यं रत्नं **विधते** । विधतिः परिचरणकर्मा । स्तुत्या परिचरते **दाशुषे** हविर्दत्तवते **मर्त्याय** यजमानाय मह्यम् **अभूत्** भवतु । तदर्थं हे **वाजाः** **ऋभवः**। एतदद्वयं विभ्वनामकस्याप्युपलक्षणम् । इतरापेक्षया प्रत्येकं बहुवचनम् । यूयं **पिबत** । तदर्थं **वः** **ददे** । किम् । **महि** महत्प्रभूतं **तृतीयं** **सवनम्** । तत्संबन्धिनं सोममित्यर्थः । किमर्थम् । **मदाय** हर्षाय तृप्तये वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Now, leaders (of rites), the treasure that ought to be presented is to be given to the mortqal performing (the sacred rite), the offerer (of the libation); drink, **Vājas** (drink), **Ṛbhus**; I present it to you at the third solemn (diurnal) ceremony for your exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now there has come to be the conferring of treasure for him honoring  you, for the pious mortal, o fine men.  
 Drink, o Vājas, o R̥bhus! The great Third Pressing has been given to you  for your exhilaration.614 IV.35
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now for the mortal worshipper, O Heroes, for him who served you, was the gift of riches.  
      Drink, Vajas, Rbhus! unto you is offered, to gladden you, the third and great libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt ist für euren Verehrer, für den opfernden Sterblichen die Zeit für eure Belohnung gekommen, ihr Herren. Trinket, ihr Vaja´s, ihr Ribhu´s; euch ist das große dritte Trankopfer zum Rausche gewährt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch heute ward, o Männer, eurem Diener, dem sterblichen Verehrer, reiche Spende; O trinket Vadscha's, Ribhu's; denn gegeben ward euch der grosse dritte Trunk zum Rausche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот сейчас началась раздача сокровищ  
 Для почитающего вас, о мужи, для поклоняющегося смертного.  

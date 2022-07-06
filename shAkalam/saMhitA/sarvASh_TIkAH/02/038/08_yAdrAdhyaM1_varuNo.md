@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 याद्राधि꣡यं व꣡रुणो यो꣡निम् अ꣡प्यम्  
 अ꣡निशितं निमि꣡षि ज꣡र्भुराणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्थशो꣡ ज꣡न्मानि सविता꣡ वि꣡ आ꣡कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्वः॑ । मा॒र्ता॒ण्डः । व्र॒जम् । आ । प॒शुः । गा॒त् । स्थ॒ऽशः । जन्मा॑नि । स॒वि॒ता । वि । आ । अ॒क॒रित्य॑कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yādrādhyaṃ* ← *yādrādhyam*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 वरुणः याद्राध्यं यातां गच्छतां राध्यंराधनीयं अप्यंआप्तुंयोग्यं अनिशितं अतीक्ष्णं सुखकर मितियावत् योनिंस्थानन्निमिषि निमेषे सवितुरस्तमयेसति विश्रमार्थम्प्राणिभ्यः प्रयच्छति वरुण स्यरात्रेर्निर्वाहकत्वात् जर्भुराणोभृशङ्गच्छन् विश्वः सर्वोमार्ताण्डोम्रुतात् भिन्नादण्डादुत्पद्यमानः पक्षी आगात् आगच्छति विश्वःपशुरपि व्रजं गोष्ठमागात् सविताप्रेरकः स्थाशः स्थानेस्थानेज न्मानिजातानिभूतानिव्याकः पृथगकार्षीत् ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 On the closing of the eyes of Savitā: Varuṇa especially presiding over the night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As far as (Savitar’s) benefit extends, Varuṇa (has come) to his watery  womb, restlessly darting about at (every) blink (of the eye).  
 Every mortal creature, (every) domestic beast has come to its pen.  
 Savitar has distributed the races according to their stations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The general purport of this vs. is clear: it both summarizes Savitar’s distribution of the creatures (esp. in pāda d) and hints (esp. in pāda c) at their return to their own special places at night. But the first half-verse is quite challenging and my interp. is not fully worked out.
 
@@ -161,23 +161,23 @@ introduction, the vss. enumerates the separate spheres assigned to the various c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With utmost speed, in restless haste at sunset Varuna seeks his watery habitation.  
      Then seeks each bird his nest, each beast his lodging. In due place Savitar hath set each creature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna geht, sobald es möglich ist, in seine Wasserheimat, der rastlos im Augenzwinkern hin und her zuckt. Jeder Vogel ging in sein Nest, das Vieh in den Pferch. Je nach ihrem Standort hat Savitri die Arten gesondert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So gut er kann, sucht auf den Schooss der Wasser der Fisch am Abend, er, der rastlos zappelt, Des Eies Sohn das Nest, den Stall die Heerde; nach ihrem Sitz schied Savitar die Thierwelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Варуна (удаляется) в (свое) водное лоно, доступное морским животным,  
 (Он,) без устали вспыхивающий в один миг.  

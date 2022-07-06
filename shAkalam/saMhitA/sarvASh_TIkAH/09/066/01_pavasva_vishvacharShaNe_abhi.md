@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व विश्वचर्षणे  
 अभि꣡ वि꣡श्वानि का꣡विया  
 स꣡खा स꣡खिभ्य ई꣡डियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सखा॑ । सखि॑ऽभ्यः । ईड्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -71,21 +71,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **विश्वचर्षणे** सर्वव्यापित्वेन सर्वस्य द्रष्टर्हे सोम **सखा** स्तुत्यस्तोतृयष्टृयष्टव्यलक्षणेन संबन्धेन सखिभूतस्त्वम् **ईड्यः** स्तोतव्यः सन् **सखिभ्यः** हविष्प्रदानेनोपकारकत्वात् मित्रभूतेभ्योऽस्मभ्यं **विश्वानि** सर्वाणि **काव्या** । कवेः कर्माणि काव्यानि । ब्राह्मणादित्वात् ष्यञ्। सर्वाणि स्तोत्राणि **अभि** लक्षीकृत्य **पवस्व** आगच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All-seeing (**Soma**), who are the adorable friend (of the worshippers), flow for (us your) friends towards all (our) hymns of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, you who are common to all the separate peoples,  
 (surging) toward all products of poetic skill,  
 a comrade for your comrades, to be reverently invoked.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The b pāda lacks a verb: Geldner supplies (silently) “zu gewinnen,” Renou parenthetically “pour (atteindre).” The pāda is found 3x elsewhere (IX.23.1, 62.25, 63.25); in two the vs. contains a form of √sṛj ‘surge’ (asṛgram 23.1, asṛkṣata 63.25) and I therefore supply that verb here.
 
@@ -102,23 +102,23 @@ contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR holy lore of every sort, flow onward thou whom all men love.  
      A Friend to be besought by friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, bei allen Völkern Bekannter, um alle Sehergaben zu gewinnen, als Freund für die Freunde anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, aller Menschen Hort, uns alle Sehergaben her, Ein Freund den Freunden, preisenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म स꣡द्म हर्यत꣡स्य पस्ति꣡योर्  
 अ꣡त्यो न꣡ वा꣡जं ह꣡रिवाँ अचिक्रदत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡द् व꣡यो दधिषे हर्यत꣡श् चिद् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒ही । चि॒त् । हि । धि॒षणा॑ । अह॑र्यत् । ओज॑सा । बृ॒हत् । वयः॑ । द॒धि॒षे॒ । ह॒र्य॒तः । चि॒त् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 उतापि च हर्यतस्य कमनीयस्येन्द्रस्य सद्म सदनं पस्त्यॊर्द्यावापृथिव्योः सम्बन्धि। सोऽयमत्यो नाश्व इव वाजं सङ्ग्रामं हरिवानश्ववानचिक्रात्। गच्छति। तथा हि यस्माद्धे इन्द्र त्वां मही महती धिषणा स्तुतिरोजसा बलेन युक्तमिन्द्र महर्यत् कामयते। चिदिति पूरणः। अतो वाजमचिक्रदत्। तथा सति हर्यतः कामयमानस्य यजमानस्य ब्रुहन्महद्वयोऽन्नमा दधिषे। धारयसि। आप्रयच्छसि। चिदिति पूरणः॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ As a charger: he neighed after the food like a horse;
 Harivān = possessinghorses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the seat of the gladdening (soma) is in both dwelling places. The  possessor of golden (horses/soma) has roared toward the prize like a  racehorse.  
 Because even the great (Earth), the Holy Place, was gladdened by your  might, you took on lofty vigor—yourself also gladdening.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, to the Dear One's seat in homes of heaven and earth the Bay Steeds' Lord hath whinnied like a horse for food.  
      Then the great wish hath seized upon him mightily, and the Beloved One hath gained high power of life,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und der Sitz des Beliebten ist in beiden Wohnungen. Wie ein Rennpferd nach dem Siegerpreis wiehert, hat der Falbenlenker nach dem Siegestrunk geschrieen; denn auch die große Dhisana trug gewaltig Verlangen. Du hast dir große Kraft zugelegt, selbst gar beliebt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Herr der goldnen wiehert, wie ein Ross den Trog, den Sitz des Soma an, dem beide Welten hold; Denn kräftig stimmt der Welten Schalen er zur Huld, es nimmt der holde viele Nahrung in sich auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А сидение желанного (находится) в двух местах обитания.  
 Как конь скаковой (ржет) навстречу награде, взревел хозяин буланых коней!  

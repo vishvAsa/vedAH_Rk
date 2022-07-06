@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋजिप्य꣡ ईम् इ꣡न्द्रावतो न꣡ भुज्युं꣡  
 श्येनो꣡ जभार बृहतो꣡ अ꣡धि ष्णोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ध या꣡मनि प्र꣡सितस्य त꣡द् वेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तरिति॑ । प॒त॒त् । प॒त॒त्रि । अ॒स्य॒ । प॒र्णम् । अध॑ । याम॑नि । प्रऽसि॑तस्य । तत् । वेरिति॒ वेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛjipya* ← *ṛjipyaḥ* ← *ṛjipya*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **ऋजिप्यः** ऋजुगामी **श्येनः** **इन्द्रवतः** इन्द्रो रक्षको यस्य तस्मात् **बृहतः** महतः **अधि** उपरि **स्नोः** स्थितात् द्युलोकात् **ईम्** एनं सोमं **जभार** आजहार । तत्र दृष्टान्तः । इन्द्रवतः । इन्द्रः समर्थः । तद्वतो देशात् **भुज्युं** न भुज्युनामकं राजानं यथाश्विनावाजह्रतुस्तद्वत् । **अध** तदानीं **यामनि** युद्धे **प्रसितस्य** कृशानोरस्त्रैर्बद्धस्य **वेः** गन्तुः **अस्य** श्येनस्य **अन्तः** मध्ये स्थितं **पतत्रि** पतनशीलं **तत्** **पर्णं** **पतत्** अपतत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 **Antaḥ** parṇam tan madhye sthitam; one nail of the left foot and the shaft was broken by the collision, the fragments of the nail became the quills of the fretful porcupine, those of the arrow, water-snakes, flying foxes, and worms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flying straight, the falcon brought him to the companions of Indra from  the lofty back (of heaven), just as (the Aśvins brought) Bhujyu (home,  with their birds).  
 A feather *of the winged one, of the bird launched then on its course,  flew between (heaven and earth).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. ṛjipyá- = Aves. ərəzifiia- (and other Iranian forms). I favor the old notion that it contains a Caland form of ‘straight’ (ṛjú-, etc.) + *pt-ya-, with a zero-gr.
 
@@ -158,23 +158,23 @@ The expression patatrí … parṇám “winged feather” strikes me as odd -- 
 no change to the Saṃhitā text.) Grammatically this is not difficult: -(i)ya- adjectives are made regularly to -a-stems, including -trya- to -tra-, like mitríya/mítrya- to mitrá-, which also has mitrín- beside it. There's a pátatra- 'wing', beside patatrín-, so there's no reason why not to have a patatríya-. Gen. patatríyasya then modifies véḥ. It is worth noting that a number of occurrences of patatrín- modify ví-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Falcon bore him from heaven's lofty summit as the swift car of Indra's Friend bore Bhujyu.  
      Then downward bither fell a flying feather of the Bird hasting forward in his journey.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da trug ihn vorauseilend der Adler von dem hohen Himmelrücken zu den Indraanhängern wie die Flügelrosse den Bhujyu aus dem Meere; da flog zwischen Himmel und Erde diese Flügelfeder von ihm, dem auf seiner Bahn dahinschießenden Vogel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vordringend trug der Aar vom hohen Gipfel ihn fort, wie einst des Indra Schar den Bhudschju; Dann, flog hindurch sein schönbeschwingter Fittig, des Vogels, der dahinschoss auf dem Wege.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (То) прямо летящий орел понес его  
 С высокой вершины к сторонникам Индры, как Бхуджью.  

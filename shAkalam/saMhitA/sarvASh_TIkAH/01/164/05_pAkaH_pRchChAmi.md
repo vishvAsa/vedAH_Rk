@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा꣡कः पृछामि म꣡नसा꣡विजानन्  
 देवा꣡नाम् एना꣡ नि꣡हिता पदा꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ तत्निरे कव꣡य ओ꣡तवा꣡ उ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 व॒त्से । ब॒ष्कये॑ । अधि॑ । स॒प्त । तन्तू॑न् । वि । त॒त्नि॒रे॒ । क॒वयः॑ । ओत॒वै । ऊं॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pākaḥ* ← *pāka*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ popular
 **पाकः** पक्तव्यः अपक्वमतिः अहं **मनसा** असंस्कृतेन **अविजानन** अतिगहनं तत्त्वं विशेषेण ज्ञातुमशक्नुवन् **पृच्छामि** प्रश्नं करोमि । अज्ञाने कारणमाह । **एना** एनानि **पदानि** संदेहास्पदानि तत्त्वानि **देवानां** **निहितानि** देवानामपि गूढानीत्यर्थः । यद्वा । देवानां पदानि तत्त्वानि निधिवद्गोपयित्वा स्थापितानि । अतः पृच्छामि तत्त्वज्ञानोपयोगायेति शेषः । तानि कानीति उच्यते । **वत्से** सर्वस्य निवासभूते **बष्कये** । बडिति सत्यनाम । तत् कषतीति बष्कयः आदित्यः । यद्वा । बष्कयो नाम एकहायनो वत्सः । पुनरपि वत्सशब्दस्य पृथग्निर्देशात् बष्कयशब्देन तत्कालमात्रं लक्ष्यते । तस्मिन्नादित्ये **अधि** अधिकं **सप्त** **तन्तून्** तायमानान् सप्त सोमसंस्थान् **कवयः** मेधाविनो यजमानाः **ओतवै** जगद्रूपतिर्यक्तन्तून वेतुं **वि** **तत्निरे** वितन्वन्ति । यद्वा । सप्त तन्तवः सप्त छन्दांसि । तानि वितन्वन्ति । किमर्थम् । ओतवै सप्तसोमसंस्थारूपतिर्यकन्तुसंतानाय । यज्ञनिर्माणायेत्यर्थः । यज्ञानां स्थितेः सूर्याधीनत्वात् इति भावः । ईदृशं तत्त्वं पृच्छामीत्यर्थः ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ Immature: **pākaḥ** = lit. ripening, being or making mature; here, it is equa
 Baṣkaye = āditye; the lit. meaning is, a yearling calf, just as **vatsa** also means a calf; the term vatse is already used, hence, baṣkaya = time or the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Naïve, not understanding, in my mind I ask about these imprinted  tracks of the gods.  
 Upon the full-grown calf [=the fire] the poets have stretched the seven  warp-threads (of the sacrifice) in order to weave.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unripe in mind, in spirit undiscerning, I ask of these the Gods' established places;  
      For up above the yearling Calf the sages, to form a web, their own seven threads have woven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Tor, der in seinem Verstand sich nicht auskennt, frage ich nach den darin hinterlassenen Spuren der Götter. An dem ausgewachsenen Kalbe zogen die sieben Seher sieben Fäden auf, um daran zu weben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich unkundiger frage, mit meinem Geiste es nicht erkennend, nach diesen eingesetzten Stätten der Götter; über dem einjährigen Kalbe [der Sonne in ihrem Jahreslauf] spannten die weisen [Götter] sieben Fäden aus zum Weben [wol die sieben Jahresopfer eines Opfercyklus].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Глупец, я спрашиваю, не различая мыслью,  
 Про эти оставленные следы богов.  

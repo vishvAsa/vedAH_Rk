@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡ग एव꣡ भ꣡गवाँ अस्तु देवास्  
 ते꣡न वय꣡म् भ꣡गवन्तः सियाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ नो भग पुरएता꣡ भवेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । त्वा॒ । भ॒ग॒ । सर्वः॑ । इत् । जो॒ह॒वी॒ति॒ । सः । नः॒ । भ॒ग॒ । पु॒रः॒ऽए॒ता । भ॒व॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhaga* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
@@ -145,7 +145,7 @@ genre M
 हे देवाः **भगः** देवः **एव** **भगवान्** धनवान् **अस्तु** । **तेन** भगेन देवेन धनेन वा **वयं** **भगवन्तः** **स्याम** धनवन्तो भवेम । हे **भग** **तं** प्रसिद्धं **त्वा** त्वां **सर्व** **इत्** सर्व एव जनः **जोहवीति** भृशं पुनःपुनर्वाह्वयति । हे **भग** देव **सः** त्वम् **इह** अस्मिन् यज्ञे **नः** अस्माकं **पुरएता** पुरोगन्ता **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,13 +156,13 @@ genre M
 Bhaga:Bhaga eva **bhagavān** **astu** dhanavān, having wealth; **pura** eta = **puro** ganta, one who goes before; may mean,**purohita**, or family priest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Bhaga himself be possessed of portion, o gods. In this way might we  be possessed of portion [/accompanied by Bhaga].  
 Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The punning continues here with a clever twist: even Bhaga himself should become possessed of a portion (bhágavant-) (a); (only) in this way (téna) will we become bhágavant- (b). In other words, Bhaga needs to get his own portion before he can pass it on to us.
 
@@ -178,23 +178,23 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend us.  
      As such, O Bhaga, all with might invoke thee: as such be thou our Champion here, O Bhaga.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bhaga allein muß der Glückbringer sein, ihr Götter. Durch ihn möchten wir glücklich sein. Dich, Bhaga, ruft jedermann an; du Bhaga, sei uns hier der Anführer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reich sein; Drum ruft zu dir, o Bhaga, wahrlich jeder, so gehe du, o Bhaga, hier voran uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это Бхага пусть будет носителем счастья, о боги!  
 С ним (и) мы пусть будем счастливыми!  

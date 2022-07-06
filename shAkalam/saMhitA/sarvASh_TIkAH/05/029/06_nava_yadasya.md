@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡व य꣡द् अस्य नवतिं꣡ च भोगा꣡न्  
 साकं꣡ व꣡ज्रेण मघ꣡वा विवृश्च꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रइ꣡ष्टुभेन व꣡चसा बाधत द्या꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अर्च॑न्ति । इन्द्र॑म् । म॒रुतः॑ । स॒धऽस्थे॑ । त्रैस्तु॑भेन । वच॑सा । बा॒ध॒त॒ । द्याम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
@@ -113,7 +113,7 @@ genre M
 यद्यदा मघवा धनवानिन्द्रः अस्येत्यनेनशम्बरउच्यते अस्यशम्बरस्यसम्बन्धीनि नवनवसङ्ख्याकानि नवतिञ्च नवतिसङ्ख्याकानिच भोगान् पुराणि भोगानित्यन्तोदात्तः पुरवचनः साकं युगपदेव वज्रेण विवृश्चत् व्यवृश्चत् अभिनत् तदामरुतःसधस्थे सहस्थाने युद्धेवा स्थितमिन्द्रं त्रैष्टुभेन त्रिष्टुछन्दस्केनवचसा वाग्रूपेण स्तोत्रेणार्चन्ति अस्तुवन् इन्द्रः एवंस्तुतःसन् द्यां मरुद्भिःप्रयज्यमानेन- मन्त्रेणदीप्तंशम्बराख्यमसुरं बाधताबाधत पिपीडे ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,14 +124,14 @@ genre M
 Cities: the text has bhogān = cities, bhogān ityantodāttaḥ puravācanaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the bounteous one hews apart his [=Vr̥tra’s] nine and ninety coils  at one blow with his mace,  
 the Maruts chant to Indra at the seat (of conflict). With speech in  
 triṣṭubh meter he thrusts heaven (away from earth).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra’s two actions in this vs. are expressed by injunctives (vivṛścát b, bādhata d), as in the preceding vs. (kaḥ 5d), but the middle verb, árcanti in c, is emphatically present. The configuration here, #árcantī́ndram marútaḥ, matches that of 1c #árcanti tvā marútaḥ. See Hoffmann (Injunk. 165) on this vs., who seems to think the “timeless, mentioning” function of the injunctive can be so distant from a real preterite that it can drag in present indicatives. I would attribute it rather to the attempt in this hymn to associate the heroic deeds of the past with the activities of the present sacrificers. It is also barely possible that the text originally read
 
@@ -141,23 +141,23 @@ preserved before vowel, but later reint. as pres. -nti after -nt regularly becam
 The -í- could then have been lengthened, as if a sandhi product of árcanti índram, with no metrical consequences. The change would have been facilitated by the model of likewise pāda-initial árcanti in 1c, as well as arcanti in 12b. Still, on balance I find this unlikely. Other examples of preserved -nt because of early misparsing as -nti occur before the enclitic pronoun īm, and the result in either case would be -ntīm. See disc. ad I.67.4, etc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Maghavan with the thunderbolt demolished his nine-and-ninety castles all together,  
      The Maruts, where they met, glorified Indra: ye with the Trstup hymn obstructed heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als der Gabenreiche dessen neunundneunzig Windungen auf einmal mit der Keule zerhieb, da besingen die Marut den Indra auf der Stelle. Durch die Tristubhrede trieb er den Himmel in die Enge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er des Dämons neunundneunzig Schanzen der starke mit dem Blitz zerbrach auf einmal – Den Indra preisen auf dem Sitz die Maruts – so schlug den Himmel er mit lautem Jubel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда девяносто и девять колец его  
 Щедрый сразу размозжил дубиной,  

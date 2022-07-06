@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ हि꣡ ष्मा पुरुभुजेम꣡म् एधतुं꣡  
 विष्णापु꣡वे दद꣡थुर् व꣡स्यïष्टये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ता । वा॒म् । विश्व॑कः । ह॒व॒ते॒ । त॒नू॒ऽकृ॒थे । मा । नः॒ । वि । यौ॒ष्ट॒म् । स॒ख्या । मु॒मोच॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -134,7 +134,7 @@ genre M;; repeated line
 हे **पुरुभुजा** पुरुभुजौ पुरूणां बहूनां धनादिदानेन भोजयितारौ । यद्वा । बहूनां स्तोतॄणां पालयितारावश्विनौ । **युवम्** । **हि** **ष्म** इत्यवधारणे । युवामेव **इममेधतुम्** । एधतेः ‘एधिवहोश्चतुः' ( उ. सू. १, ७८ ) इति चतुप्रत्ययः । चित्त्वादन्तोदात्तः । इमां धनादिवृद्धिं **विष्णाप्वे** । विष्णोः सर्वेषां देवानां मुख्यत्वात् तद्ग्रहणे सर्वे देवा गृहीता भवन्ति । विष्ण्वादीन् कर्मणा व्याप्नोतीति विष्णापूः । पृषोदरादिः । यद्वा । विष्णुं सर्वग्रहेषु व्याप्तं सोमं दशापवित्रेणापुनातीति । तस्य चतुर्थी विष्णाप्व इति । एतन्नामके मम पुत्रे पौत्रे वा । पुत्राय पौत्राय वा । इमां धनादिवृद्धिं **ददथुः** अदत्तम् । किमर्थम् । **वस्यइष्टये** वसीयसः प्रशस्तधनस्येष्टय इच्छां पूरयितुम् ।' क्रियार्थोपपदस्य । (पा. सू. २. ३. १४ ) इति चतुर्थी । **ता** **वाम्** इति पूर्ववद्वयाख्येयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,34 +145,34 @@ genre M;; repeated line
 Viṣnāpu = name of the ṛṣi's son or grandson
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you two have given this radiance to Viṣṇāpū to seek a better state, o  you who provide many enjoyments,  
 Viśvaka calls upon you at the making of bodies. – Do not keep us away  from partnership with you. Release (him?)!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The thematic connection between VIII.84 and our hymn suggested ad vs. 2 continues here: edhatú- ‘radiance’, only here in the RV, echoes edhate in VIII.84.9, which characterizes the successful devotee of Agni -- there tr. ‘thrives’, though ‘blazes brightly’ or sim. would be more vivid and literal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Already have ye Twain, possessors of great wealth, prospered Visnapu thus for gain of what is good.  
      Visvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr vielen Nützende habt ja dem Visnapu dieses Glück verliehen, auf daß er sein Heil suche. - Euch ruft Visvaka um der Nachkommenschaft willen. Löset nicht unsere Freundschaft! Spannet aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr ja habt, o güterreiche, dies Gedeihn dem Vischnapu gegeben zu dem Schatzgewinn; Drum rufet euch zum Schutz des Lebens Viçvaka; nicht weicht von unsrer Freundschaft, spannt die Rosse aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это вы двое, о многополезные, дали Вишнапу  
 Это счастье, что надо искать лучшего.  

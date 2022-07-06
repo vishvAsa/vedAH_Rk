@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡द् दिवा꣡ न꣡ पृथिव्या꣡नु मन्ये  
 न꣡ यज्ञे꣡न नो꣡त꣡ श꣡मीभिर् आभिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ हीयताम् अतियाज꣡स्य यष्टा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒ब्जन्तु॑ । तम् । सु॒ऽभ्वः॑ । पर्व॑तासः । नि । ही॒य॒ता॒म् । अ॒ति॒ऽया॒जस्य॑ । य॒ष्टा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -141,7 +141,7 @@ popular
 अतियाजो नाम कश्चिदृषिरस्मादृजिश्वन उत्कृष्टः स्यामहमिति बुद्ध्या देवान् यियक्षुरास । ऋषिस्तदीयं यजनं निराचष्टाद्यया । **न** **तत्** अतियाजस्य ऋषेः तत् यजनं **दिवा** द्युलोकेन तत्रत्येन देवगणेन युक्तमित्यहं न **अनु** मन्ये । अनुमतिं न करोमि । **न** च **पृथिव्या** पार्थिवेनापि देवगणेन युक्तमिति नानु मन्ये । **न** च **यज्ञेन** मयानुष्ठितेन सदृशं तदित्यहं नानु मन्ये। **उत** अपि च **आभिः** **शमीभिः** अन्यैरपि मया कृतैरेभिः कर्मभिः सदृशमित्यपि **न** अनु मन्ये। मया वशीकृता देवाः तदीयं यजनं नाङ्गीकुर्वन्ति स चानभिज्ञत्वात् सम्यक् यष्टुमपि न शक्नोतीति भावः। अपि च **तम्** ऋषिं **सुभ्वः** सुष्ठु भवन्तः **पर्वतासः** पर्वता इन्द्रेण. प्रहिताः सन्तः **उब्जन्तु** हिंसन्तु। उब्जिर्हिंसाकर्मा । तथा तस्य **अतियाजस्य** ऋजिश्वनोऽप्यतिशयेनाहं देवान् यजामीति बुद्ध्या युक्तस्य ऋषेर्यो **यष्टा** याजकः सः **नि** **हीयतां** नितरां हीनो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ popular
 Ṛjiśvan pronounces an imprecation upon Atiyāja, a rival priest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not by Heaven nor by Earth do I concede this, not by my sacrifice and  not by these ritual labors.  
 Let the well-founded mountains crush him. Let the sacrificer of an  
 excessive sacrifice be bent double.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The instr. of ab, in two semantic sets -- Heaven and Earth, sacrifice and ritual labors -- apparently are the entities that the speaker swears by.
 
@@ -177,23 +177,23 @@ It is unfortunately impossible to capture in Engl. the play between ánu √man 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS I allow not in the earth or heaven, at sacrifice or in these holy duties.  
      May the huge mountains crush him down: degraded be Atiyaja's sacrificing patron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht gebe ich dies dem Himmel, nicht bei der Erde zu, nicht bei dem Opfer noch bei diesen Verrichtungen. Ihn sollen die massigen Berge einschließen; der Veranstalter eines Überopfers soll den Kürzeren ziehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht lob' ich dies beim Himmel, bei der Erde, nicht bei dem Opfer, noch bei diesen Werken; Die wucht'gen Berge mögen ihn erdrücken, es sinke hin des falschen Opfrers Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни перед небом, ни перед землей я не соглашусь с этим,  
 Ни перед жертвой, ни перед этими трудами (во время обряда)!  

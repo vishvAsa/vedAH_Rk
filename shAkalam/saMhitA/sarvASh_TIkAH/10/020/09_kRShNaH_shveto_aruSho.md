@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष्णः꣡ श्वेतो꣡ अरुषो꣡ या꣡मो अस्य  
 ब्रध्न꣡ ऋज्र꣡ उत꣡ शो꣡णो य꣡शस्वान्  
 हि꣡रण्यरूपं ज꣡निता जजान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 हिर॑ण्यऽरूपम् । जनि॑ता । ज॒जा॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣṇaḥ* ← *kṛṣṇa*
 - \[noun\], nominative, singular, masculine
@@ -98,7 +98,7 @@ genre M
 अत्र यच्छब्दमध्याहृत्य योज्यम् । **यामः** । याति गच्छत्यस्मिन्निति यामो रथः प्रजापतिना निर्मितः । कीदृशः । **कृष्णः** असितवर्णः **श्वेतः** सितवर्णः **अरुषः** आरोचमानः **ब्रध्नः** महान्  **ऋज्रः** ऋजुगामी **उत** अपि च **शोणः** रक्तवर्णः **यशस्वान्** कीर्तिमान् । यद्वा । यश इति धननाम् । हविर्लक्षणेन धनेन युक्तः। **हिरण्यरूपं** सुवर्णसदृशं तं रथम् **अस्य** अग्नेरर्थाय **जनिता** सर्वस्य जगतो जनयिता प्रजापतिः **जजान** जनयामास । अस्मै दत्तवानित्यर्थः । कथमेकस्यैव रथस्य कृष्णादिनानारूपत्वं संभवतीति चेत् अग्नेः सामर्थ्यातिशयेन संभवतीत्यर्थः । यद्वा । हिरण्यरूपमिति रथवाचिना शब्देन सह सामानाधिकरण्यात् कृष्णादिशब्दा द्वितीयान्तत्वेन योज्याः । अत्र सर्वगुणोक्तरथवत्तयाग्निः स्तूयत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 His chariot is black: or, white, brilliant, vast, straight going, red and glorious; that thechariot should be of different colours is because of the exceeding power of **Agni**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Black, white, and red is his course; coppery, silver, and ruddy is glorious  (Agni).  
 The begetter has begotten him of golden form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The path he treads is black and white and red, and striped, and brown, crimson, and glorious.  
      His sire begat him bright with hues of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schwarz, weiß, rot ist seine Bahn; rotbraun, schimmelfarben und rot ist der Geehrte. Goldfarbig hat ihn der Erzeuger erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schwarz, weiss und roth ist seine Bahn; flammenfarbig, licht und braun ist der herrliche; als einen goldfarbenen hat ihn der Erzeuger erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Черный, белый, красный его путь.  
 Блистательный (бывает) желто-красным, красноватым и ярко-красным.  

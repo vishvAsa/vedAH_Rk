@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡हन्तु त्वा रथेष्ठा᳐꣡म्  
 आ꣡ ह꣡रयो रथयु꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अन्ये꣡षां या꣡ शतक्रतो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ति॒रः । चि॒त् । अ॒र्यम् । सव॑नानि । वृ॒त्र॒ऽह॒न् । अ॒न्येषा॑म् । या । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
@@ -102,37 +102,37 @@ genre M
 हे **वृत्रहन्** **शतक्रतो** बहुप्रज्ञ **रथेष्ठां** रथस्थम् **अर्यम्** ईश्वरं **त्वा** त्वां **रथयुजः** रथे युक्ताः **हरयः** अश्वाः **अन्येषां** **या** यानि सवनानि सन्ति तानि **तिरः** तिरस्कुर्वन्तः **सवनानि** अस्मदीयानि सवनानि **आ** **वहन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Śatakratu**, slayer of **Vṛtra**, let your horses, yoked to your car, bring you, the lord, riding in your chariot,(to our sacrifices), avoiding those sacrifices (offered) by others.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who bestride the chariot—let the fallow bays, yoked to the chariot,  convey you hither,  
 even across what belongs to the stranger, across the pressings that  
 belong to others, you Vr̥tra-smasher of a hundred resolves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast mounted on thy car let thy yoked Bay Steeds carry thee,  
      Past other men's libations, Lord of Hundred Powers, thee, Vrtra-slayer, thee our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen dich, den Wagensteher, die an den Wagen geschirrten Falben herfahren, vorbei sogar an dem hohen Herrn, an den Trankspenden, die anderen gehören, o Vritratöter, Ratreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Wagenlenker, fahre her die angeschirrte Füchseschar, Vorüber an den Somaspenden anderer, der treu du bist, vielwirkender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезут тебя, стоящего на колеснице,  
 Буланые кони, запряженные в колесницу,  

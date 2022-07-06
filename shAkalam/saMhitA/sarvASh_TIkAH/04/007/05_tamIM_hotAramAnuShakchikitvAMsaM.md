@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ईं हो꣡तारम् आनुष꣡क्  
 चिकित्वां꣡सं नि꣡ षेदिरे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡जिष्ठं सप्त꣡ धा꣡मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 र॒ण्वम् । पा॒व॒कऽशो॑चिषम् । यजि॑ष्ठम् । स॒प्त । धाम॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -95,41 +95,41 @@ genre M
 ऋत्विगादयो मनुष्याः **आनुषक्** अनुपूर्व्येण **होतारं** देवानामाह्वातारं **चिकित्वांसं** जानन्तम् ॥  ‘कित ज्ञाने '। लिटः क्वसुः । द्विर्भावहलादिशेषचुत्वदीर्घाः। प्रत्ययस्वरः ॥ **तमीं** तमिममग्निं **नि** **षेदिरे** निषादयन्ति स्म । कीदृशम् । **रण्वं** रमणीयं पावकशोचिषं शोधकदीप्तिं **यजिष्ठं** यष्टृतमं **सप्त** सप्तभिः **धामभिः** तेजोभिर्युक्तम् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They (the worshippers) have seated him in his due order, the invoker (of the gods), the intelligent, the agreeable, the purifyingly-radiant, the performer of frequent sacrifice, (brilliant) with seven flames.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him as observant Hotar did they set down in the regular order— gladdening, pure-flamed, best sacrificing, throughout his seven  
 domains—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him the intelligent have they placed duly as Invoking Priest,  
      Welcome, with sanctifying flame, best worshipper, with sevenfold might;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him the knowing one they have set down in the right way as the Hotri, the gay one with his purifying flames, the best sacrificer with his seven (forms 1)—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn haben sie als den kundigen Hotri, wie sich's gebührt, eingesetzt, den erfreulichen, flammenreinen, der nach sieben Formen am besten opfert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn setzten fort und fort sie ein, als Priester ihn, der hell erglänzt, Den muntern, flammenstrahlenden, nach sieben Bräuchen opfernden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, знающего, они усадили  
 Хотаром, как положено,  

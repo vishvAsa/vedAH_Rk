@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ शिशीता सुवृक्ति꣡भिस्  
 त्वेषं꣡ स꣡त्वानम् ऋग्मि꣡यम्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 उ॒तो इति॑ । नु । चि॒त् । यः । ओज॑सा । शुष्ण॑स्य । आ॒ण्डानि॑ । भेद॑ति । जेष॑त् । स्वः॑ऽवतीः । अ॒पः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -138,7 +138,7 @@ genre M;; repeated line
 हे स्तोतारः **त्वेषं** दीप्तं **सत्वानं** संभक्तारं धनानाम् **ऋग्मियं** ऋगर्हमृग्भिः स्तोतव्यं **तम्** इन्द्रं **सुवृक्तिभिः** स्तुतिभिः **शिशीत** संस्कुरुत । **उतो** **नु** **चित्** अपि च **यः** इन्द्रः **ओजसा** बलेन **शुष्णस्य** शुष्णनामकस्यासुरस्य **आण्डानि** अण्डजातान्यपत्यानि **भेदति** अभिनत् सः **स्वर्वतीः** दिव्यानि **अपः** सलिलानि **जेषत्** जयतु । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,14 +149,14 @@ genre M;; repeated line
 Eggs of Śuṣṇa : śuṣṇasyaaṇḍāni = egg-born offspring; aṇḍajātāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hone him [=Indra] with well-twisted (hymns)—the turbulent one, the  “real thing,” worthy of verses.  
 And he who even now will split the “eggs” of Śuṣṇa with his strength,  he will conquer the waters along with the sun.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “eggs” of Śuṣṇa are probably his progeny (so Oldenberg, Geldner); see X.68.7, adduced by Geldner, also X.22.11 śúṣṇasya ... jātáṃ víśvaṃ and X.61.13 śúṣṇasya … puruprajātásya. They can’t be testicles, given the number.
 
@@ -165,23 +165,23 @@ The standard interpr. takes jéṣat (e) as parallel to bhédati (d) and still p
 requires that cde all hang off the tám of a, despite the utá. Klein (DGRV I.302) seems to suggest that the verse is structured as an “X and which Y construction” (tám … utá … yáḥ), but as far as I know, the X and Y in such constructions always have different referents.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inspire him with your holy hymns, the Hero bright and glorious,  
      Him who with might demolisbeth even the brood of Susna, and winneth for us the heavenly streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn machet durch Loblieder scharf, den furchtgebietenden preiswürdigen Krieger, und der alsbald mit Kraft des Susna Eier zerbrechen und die Gewässer samt der Sonne ersiegen soll. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn schärfet durch der Lieder Drang, den kühnen, starken, preislichen, Und er, der nun mit grosser Kraft zerbricht des Çuschna böse Brut, gewinn des Himmels Wasserflut. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заострите прекрасными произведениями этого  
 Ярого воина, достойного гимнов,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नून꣡म् ब्र꣡ह्मणस् प꣡तिर्  
 म꣡न्त्रं वदति उक्थि꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 देवा꣡ ओ꣡कांसि चक्रिरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यस्मि॑न् । इन्द्रः॑ । वरु॑णः । मि॒त्रः । अ॒र्य॒मा । दे॒वाः । ओकां॑सि । च॒क्रि॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **ब्रह्मणस्पतिः** देवः **उक्थ्यं** शस्त्रयोग्यं **मन्त्रं** **नूनम्** अवश्यं **प्र** **वदति** होतृमुखे स्थितः सन् प्रब्रूते । **यस्मिन्** मन्त्रे इन्द्रादयश्च सर्वे **देवाः** **ओकांसि** स्थानानि **चक्रिरे** । तादृशं सर्वदेवप्रतिपादकं मन्त्रमिति पूर्वत्रान्वयः ॥ मन्त्रम् । मत्रि गुप्तभाषणे ' । पचाद्यच् । वृषादिषु पाठादाद्युदात्तत्वम् । उक्थ्यम् उक्थार्हम्। छन्दसि च ' इत्यर्थे यप्रत्ययः । यद्वा ।  ‘ भवे छन्दसि ' इति यत् ।  ‘ सर्वे विधयश्छन्दसि विकल्प्यन्ते ' इति वचनात् । यतोऽनावः' इत्याद्युदात्तत्वाभावे व्यत्ययेन ‘तित्स्वरितम् ' इति स्वरितत्वम् । ओकांसि ।  ‘ उच समवाये  । समवयन्त्यत्रेति अधिकरणे औणादिकोऽसुन् । बहुलग्रहणात् कुत्वं द्रष्टव्यमिति ‘ओक उचः के ' इत्यत्र वृत्तौ इत्युक्तम् (का. ७. ३. ६४ )। चक्रिरे । इरेचः चित्त्वादन्तोदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ genre M
 This and the next verse are to be recited at **Agniṣṭoma** as prayers to Indra and the **Maruts**. **Hotā** recites the prayer (**mantra**) aloud (pravadati), by the mouth (**ukthya**); in the mantra, Indra and the other **devās** rest. The next verse explains how the mantra brings them to the presence of the worshipper: indrādi-sarvadevatāpratipādakam mantram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now the Lord of the Sacred Formulation proclaims the mantra worthy  to be spoken,  
 in which Indra, Varuṇa, Mitra, Aryaman, and the gods have made  
 their home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now Brahmanaspati speaks forth aloud the solemn hymn of praise,  
      Wherein Indra and Varuna, Mitra, Aryaman, the Gods, have made their dwelling place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt hebt Brahmanaspati das zum Preis bestimmte Dichterwort an, an dem Indra, Varuna, Mitra, Aryaman, die Götter ihr Behagen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun stimmet der Gebetesherr ein preisbegabtes Spruchlied an, An welchem Indra und die Götter sich erfreun, Varuna, Mitra, Arjaman.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот сейчас Брахманаспати  
 Исполняет стих, заключающий в себе хвалу,  

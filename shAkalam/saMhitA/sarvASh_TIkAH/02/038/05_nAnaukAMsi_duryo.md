@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡नउ꣡कांसि दु꣡रियो वि꣡श्वम् आ꣡युर्  
 वि꣡ तिष्ठते प्रभवः꣡ शो꣡को अग्नेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡न्व् अस्य के꣡तम् इषितं꣡ सवित्रा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज्येष्ठ॑म् । मा॒ता । सू॒नवे॑ । भा॒गम् । आ । अ॒धा॒त् । अनु॑ । अ॒स्य॒ । केत॑म् । इ॒षि॒तम् । स॒वि॒त्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nānaukāṃsi* ← *nānā*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 प्रभवः प्रभूतः अग्नेः शोकः तेजः दुर्यःगृह्यः गृहेभवः नानौकांसियजम्मानानां पृथग्भूतान् गृहान् वितिष्ठते अधितिष्ठति विश्वमायुः सर्वमन्नञ्चाधितिष्ठति आयुः सूनृतेत्यन्ननामसुपाठात् माताउषाः सवित्राअन्विषितम्प्रेषितं अस्यकेतं प्रज्ञापकंअग्नेः ज्येष्ठम्प्रथमं अग्निहोत्राख्यम्भागं सून वेअग्नयेआधात् आदधाति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 The **agnihotra** rite is to be performed at dawn, which may be therefore considered as enjoined or instrumental gated by the rising sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The domestic blaze of fire is dispersed prominently throughout the  houses, one for each, for (each one’s) whole lifetime.  
 The mother has set out the best portion for her son, according to his  intention, which has been aroused by Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ví tiṣṭhate should be evaluated in conjunction with víṣṭhitaḥ in 6a and ví tasthuḥ in 7b.
 
@@ -154,23 +154,23 @@ Geldner (/Witzel Gotō) take a and b as separate clauses (sim. Falk). My renderi
 The blazing up of the home fire is accompanied by the evening meal, rather charmingly depicted here: the mother reserving the best of it for her son; the son with his appetite stimulated by the coming of evening.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tlirough various dwellings, through entire existence, spreads, manifest, the household light of Agni.  
      The Mother gives her Son the goodliest portion, and Savitar hath sped to meet his summons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ins Haus gehört, begibt sich in die verschiedenen Wohnungen, jedes Alter; die entstehende Glut des Feuers breitet sich aus. Das beste Teil hat die Mutter dem Sohne hingesetzt, nach seinem von Savitri geweckten Verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Häusern rings zu allem, was da lebet, vertheilt sich Hauses Feuer hell erglänzend; Das beste Theil legt vor dem Sohn die Mutter, weil Savitar ihm die Begier erregt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По-разному в жилищах (людей) распространяется домашний (огонь),  
 На весь век, мощное пламя Агни.  

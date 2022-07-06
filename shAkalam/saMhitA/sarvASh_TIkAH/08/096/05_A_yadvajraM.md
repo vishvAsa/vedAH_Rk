@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् व꣡ज्रम् बाहुवो꣡र् इन्द्र ध꣡त्से  
 मदच्यु꣡तम् अ꣡हये ह꣡न्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ ब्रह्मा꣡णो अभिन꣡क्षन्त इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । पर्व॑ताः । अन॑वन्त । प्र । गावः॑ । प्र । ब्र॒ह्माणः॑ । अ॒भि॒ऽनक्ष॑न्तः । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 हे **इन्द्र** **बाह्वोः** **वज्रम्** आयुधम् । कीदृशम् । **मदच्युतं** शत्रूणां मदस्य च्यावयितारं **यत्** यदा **आ** **धत्से** आदधासि । किमर्थम् । **अहये** अहिनामानमसुरं मेघं वा **हन्तवै** । **उ** इत्यवधारणे । हन्तुमेव । किंच यदा वेन्द्रेणाहिनामकेऽसुरे हते सति **पर्वताः** जगदापूरका मेघाः **प्र** **अनवन्त** । ‘नु शब्दे । प्रकर्षेणाशब्दयन् । यदा वा **गावः** तत्स्थान्युदकानि च प्रकर्षेण ध्वनिमकुर्वन् । उदकान्यध्वनयन्नित्यत्र याजुषो निगमः- ‘ यददः संप्रयतीरहावनदता हते तस्मादा नद्यो नाम स्थ' (तै. सं. ५. ६. १. २; अ. सं. ३. १३. १ ) इति । तुरीयः पादः परोक्षः । तदानीम् **अभिनक्षन्तः** अभित इन्द्रं स्तुतिभिर्हविर्भिर्गच्छन्तः **ब्रह्माणः** ब्राह्मणाः **इन्द्रं** पर्यचरन् । यद्वा । ब्रह्माणः ।  ‘ बृह वृद्धौ'। प्रवृद्धाः पर्वतादय इन्द्रमस्तुवन्निति ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,14 +145,14 @@ Cows: cowsare the waters pent within the clouds;
 Brāhmaṇas = the mountains
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra, in your two arms you took the mace stirred by  
 exhilaration, to smite the serpent,  
 the mountains bellowed forth, and forth the cows, forth the formulators  [=Maruts] approaching Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verbal counterpart to 2nd sg. dhatsé in the relative cl. (ab) is augmented ánavanta in the main clause (cd). I would therefore prefer to take dhatsé as a medial, preterital perfect, rather than as a present. Grassmann and Lu identify it as present, Geldner translates it as one, and Kümmel (p. 275) explicitly claims that -i-liaison forms belong to the perfect, while those without the -i- are presents. Nonetheless, I think we can interpret dhatsé, the only such 2nd sg., as a perfect, next to very common dadhiṣé, esp. as only this form would fit in a Triṣṭubh cadence.
 
@@ -161,23 +161,23 @@ The accent on main-clause ánavanta must result from its membership in the repea
 I take the formulators in d as the Maruts; Geldner suggests either Aṅgirases or Maruts. Since the next tṛca (vss. 7-9) clearly contains the 1st ps. speech of the Maruts, and the next verse (6) has 1st ps. speech that can reasonably attributed to the Maruts, their introduction here would not be surprising.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time, O Indra, in thine arms thou tookest thy wildly rushing bolt to Slay the Dragon,  
      The mountains roared, the cattle loudly bellowed, the Brahmans with their hymns drew nigh to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, Indra, die Keule in die Arme nimmst, die rauscherregte, um den Drachen zu erschlagen, da schrieen die Berge auf, die Kühe, die Hohenpriester, zu Indra kommend:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als, Indra, du den Blitz in deinen Arm nahmst, den ungestümen, zu der Schlang' Erlegung, Da jauchzten laut die Berge, laut die Kühe, und laut die Beter, zu dem Indra dringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

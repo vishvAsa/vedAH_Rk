@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ भ꣡न्दमाने उष꣡सा उ꣡पाके  
 उत꣡ स्मयेते तनु꣡वा वि꣡रूपे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो मरु꣡त्वाँ उत꣡ वा म꣡होभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यथा॑ । नः॒ । मि॒त्रः । वरु॑णः । जुजो॑षत् । इन्द्रः॑ । म॒रुत्वा॑न् । उ॒त । वा॒ । महः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -114,41 +114,41 @@ genre M
 भन्दमाने स्तूयमाने उपाकेपरस्परं सङ्गते उषसानक्ता अन्योन्यापेक्षयाद्विवचनं नक्तोषसौरा त्र्यहनी आ आगच्छतां उतअपिच विरूपेपृथग्रूपे तन्वाप्रकाशरूपेणशरीरेण स्मयेते प्रकाशेते मित्रोवरुणः उतवाअपिच इन्द्रः मरुत्वांश्च नोस्मान् यथाजुजोषत् यथासेवेत तथा महोभिस्ते जोभिर्युक्तेन्द्र मेद्यावापृथिव्यौकुरुताम् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the adored Day and Night, combined or separate, be manifest in bodily form, so that **Mitra**, **Varuṇa**, **Indra**, or (the latter), attended by the **Maruts**, may rejoice us by their glories.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming joyful here, Dawn and Night are close by, and they both smile,  though in body they have different forms,  
 so that Mitra will rejoice in us, and Varuṇa, and also Indra along with  the Maruts, through their great powers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Night and Dawn, lauded, hither come together, both smiling, different are their forms in colour,  
      That Varuna and Mitra may accept us, and Indra, girt by Maruts, with his glories.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Hither (shall come) the two Dawns 1, the neighbourly (goddesses) of glorious appearance 2. Of different forms, they both smile. (They shall come) that Mitra and Varuna may be satisfied with us, and Indra accompanied by the Maruts with their powers 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Morgen und Nacht die gelobten, nachbarlichen setzen sich her und sie lächeln uns zu, beide an Körper verschiedenartig, so wie Mitra, Varuna Wohlgefallen an uns haben mögen oder auch Indra mit den Marut in ihrer Herrlichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor uns erscheinen glänzend Nacht und Morgen, uns lächeln an die ungleichfarb'gen Schönen, Damit uns hold sei Varuna und Mitra und Indra mit der Marutschar im Festschmuck.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляемые  
 Ушас (и Ночь)  

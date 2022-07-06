@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाव꣡र्त ये꣡षां रा᳐या꣡  
 युक्ता꣡ एषां हिरण्य꣡यी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वृ꣡था इव विष्ट꣡अन्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ने॒मऽधि॑ता । न । पौंस्या॑ । वृथा॑ऽइव । वि॒ष्टऽअ॑न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāvarta* ← *vṛt*
 - \[verb\], singular, Perfect indicative
@@ -101,36 +101,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **येषां** देवानां स्वभूतेन **राया** अस्मभ्यं दातव्येन धनेन **युक्ता** स्तुतिः आववर्त तेषां **एषाम्** अर्थाय **हिरण्ययी** हिरण्मयी हिरण्यालंकारवत् प्रीतिकरास्मन्मुखात् पुनःपुनरावर्तत इत्यर्थः । तत्र दृष्टान्तः । ”पौंस्या पौंस्यानि बलानि **नेमधिता** **न** नेमधितौ संग्रामे **विष्टान्ता** व्याप्तावसाना **वृथेव** यथा घटिकायन्त्रमाला तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those whose (praise) arrives, accompanied by wealth, of them it is (as) a golden (ornament), likemanly powers in battle reaching the conclusion as it were, without an effort.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They whose (priestly gift) comes rolling, their (priestly gift) is golden,  yoked with wealth—  
 (it is) like manly forces when facing the other side, like one whose ends  have been accomplished [?] at will.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose chariot-seat hath come again laden with wealth and bright with gold,  
      Lightly, with piercing ends, as 'twere two ranks of heroes ranged for fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deren Daksina mit Reichtum kommt - geschirrt ist ihre goldene Daksina mit ......... Enden wie die Streitkräfte im Kampfe, wie das Schöpfrad.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Deren mit Gut beladene goldene Achse, die mit beiden [Enden durch die Naben] geht, rollte wie aus eigner Lust, gleich Heldenscharen in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

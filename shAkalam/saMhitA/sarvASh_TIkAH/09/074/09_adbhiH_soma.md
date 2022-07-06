@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्भिः꣡ सोम पपृचान꣡स्य ते र꣡सो  
 अ꣡व्यो वा꣡रं वि꣡ पवमान धावति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्व꣡दस्वे꣡न्द्राय पवमान पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । मृ॒ज्यमा॑नः । क॒विऽभिः॑ । म॒दि॒न्ऽत॒म॒ । स्वद॑स्व । इन्द्रा॑य । प॒व॒मा॒न॒ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
@@ -120,42 +120,42 @@ genre M
 हे **पवमान** पवित्रेण पूयमान हे **सोम** **अद्भिः** वसतीवर्यादिभिरुदकैः **पपृचानस्य** संपृच्यमानस्य **ते** तव **रसः** **अव्यः** अवेः **वारं** वालं दशापवित्रं **वि** **धावति** विविधं प्राप्नोति । ततो हे **मदिन्तम** मादयितृतम हे **पवमान** सोम त्वं **कविभिः** क्रान्तकर्मभिर्ऋत्विग्भिः **मृज्यमानः** पूयमानः सन् **इन्द्राय** **पीतये** इन्द्रस्य पानार्थं **स्वदस्व** प्रियरसो भव ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, when you are diluted with the water your juice passes through the woollen fleece; cleansed by the sages, O exhilarating purified (Soma), be sweet-flavoured for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your juice, when you have been infused with the waters, runs through the  sheep’s fleece, o self-purifying one.  
 Being groomed by the poets, become sweet for Indra to drink, o most  exhilarating self-purifying one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I just noted, this vs. seems to be an extra-hymnic afterthought and is stylistically and thematically detached from the rest of the hymn. It is the only one containing 2nd ps. reference, which is insistently carried here by four vocc. (a soma, b pavamāna, c madintama, d pavamāna), an enclitic prn. te (a), and an impv. (d svádasva). It also contains only the 2nd naming of soma (cf. 7b) and the only forms of the root √pū, as well as other standards of the somic lexicon (a rása-; b ávyo vā́ram, ví √dhāv; c √mṛj, madintama; d índrāya … pītáye). In other words, all the clichés - maddeningly absent from the rest of the hymn - are trotted out, like a global example of poetic repair, as if to say, “if you were too dim to figure it out, this is what it was about!” It is not possible to decide whether Kakṣīvant himself added this magic decoder ring or whether it was appended secondarily. IX.74 is the last of the 9-vs. trimeter hymns, so it could have originally been an 8-vs. hymn to which the clarifying vs. was added. The fact that vs. 8 is in Triṣṭubh in an otherwise Jagatī hymn might indirectly suggest that, since final vss. are sometimes in a different meter from the rest of their hymn and, if we remove vs. 9, vs. 8 would be the final vs., ending with Kakṣīvant’s plea for dāna. But it is certainly possible to imagine Kakṣīvant having his little joke by supplying the key to the hymn in an appendix vs. ### 75-79
 This next group of hymns is attributed to Kavi Bhārgava, also the poet of the Gāyatrī hymns IX.47-49. They are refreshingly free of the puzzles and contortions of the first set of trimeter hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, thy juice when thou art blended with the streams, flows, Pavamana, through the long wool of the sheep.  
      So, cleansed by sages. O best giver of delight, grow sweet for Indra, Pavamana! for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Saft, o Soma, wenn du mit Wasser gesättigt bist, läuft durch das Schafhaar, o Pavamana. Von den Weisen sauber gemacht, du Berauschendster, sei schmackhaft zum Trunke für Indra, o Pavamana!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Saft, o Soma, der mit Wasser ist vermischt, o flammender, durchströmt des Widders Wolle rings, So schmecke gut denn, flammender, berauschendster zum Trunk dem Indra, von den Priestern du geklärt!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя, смешанного с водой, о сома, сок  
 Бежит через цедилку из овечьей шерсти, о Павамана.  

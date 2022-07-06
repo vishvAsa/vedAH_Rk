@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्रो꣡ हो꣡ता गृह꣡पतिर्  
 अ꣡ग्ने दूतो꣡ विशा꣡म् असि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 या꣡नि देवा꣡ अ꣡कृण्वत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । विश्वा॑ । सम्ऽग॑तानि । व्र॒ता । ध्रु॒वा । यानि॑ । दे॒वाः । अकृ॑ण्वत ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandro* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 हे **अग्ने** त्वं **मन्द्रः** हर्षहेतुः **होता** देवानामाह्वाता **विशां** यजमानरूपाणां प्रजानां **गृहपतिः** गृहस्य पालकः **दूतः** देवदूतः **असि** । **त्वे** त्वयि **विश्वा** **व्रता** सर्वाणि कर्माणि **संगतानि** । ‘ व्रतं कर्वरम् ' ( नि. २. १. ७) इति कर्मनामसु व्रतशब्दः पठितः । पृथिव्यादयः **देवाः** **ध्रुवा** स्थिराणि **यानि** कर्माणि **अकृण्वत** कृतवन्तः । पृथिवी धारयति पर्जन्यो वर्षति सूर्यः प्रकाशयति तान्येतानि त्वयि संगतानीति पूर्वत्रान्वयः ॥ गृहपतिः । ‘पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । ‘ सुपां सुलुक् ' इति सप्तम्येकवचनस्य शेआदेशः । त्वमावेकवचने' इति मपर्यन्तस्य त्वादेशः । ‘ शेषे लोपः' इति टिलोपपक्षे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम्; अन्त्यलोपपक्षे तु एकादेशस्वरेण । संगतानि । गमेः कर्मणि निष्ठायाम् ' एकाचः° ' (पा. सू. ७. २. १०) इति इट्प्रतिषेधः । ‘ अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः। ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । व्रता ध्रुवा इत्युभयत्र शेर्लोपः । अकृण्वत । ‘ कृवि हिंसाकरणयोश्च । व्यत्ययेनात्मनेपदम् । इदित्त्वात् नुम् । ‘ धिन्विकृण्व्योर च' इति उप्रत्ययः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Dūto viśām asi: **devadūta**; viśām is connected with **gṛhapati**, lord of the dwelling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the delighting Hotar, the lord of the household, and the  messenger of the clans.  
 In you are gathered together all the enduring commandments that the  gods made.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art a cheering Priest, Lord of the House, men's messenger:  
      All constant high decrees established by the Gods, gathered together, meet in thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou art the cheerful Hotri and householder, O Agni, the messenger of the clans. In thee all the firm laws are comprised which the gods have made 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wohlredende Hotri und Hausherr und Bote der Clangenossen bist du Agni. In dir laufen all die feststehenden Satzungen zusammen, die die Götter geschaffen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Menschen Bote, Hauses Herr, ein Priester hold bist Agni du; In dir vereinen alle festen Bräuche sich, die von den Göttern eingesetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты – радостный хотар, хозяин дома,  
 О Агни, вестник племен.  

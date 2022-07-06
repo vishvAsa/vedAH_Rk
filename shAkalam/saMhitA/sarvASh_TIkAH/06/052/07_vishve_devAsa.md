@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवास आ꣡ गत  
 शृणुता꣡ म इमं꣡ ह꣡वम्  
 ए꣡द꣡म् बर्हि꣡र् नि꣡ षीदत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; repeated line
 आ । इ॒दम् । ब॒र्हिः । नि । सी॒द॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -97,20 +97,20 @@ genre M;; repeated line
 हे **विश्वे** **देवासः** सर्वे देवाः **आ** **गत** आगच्छत । आगत्य च **मे** मदीयम् **इमं** **हवम्** इदमाह्वानं **शृणुत** । श्रुत्वा च **इदम्** आस्तीर्णं **बर्हिः** **आ** **नि** **षीदत** आस्तीर्णे बर्हिषि निषण्णा भवत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, universal gods, hear this my invocationl; sit down upon this sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All you gods, come here. Hear this call of mine.  
 Sit down here on this ritual grass.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -120,23 +120,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear this mine invocation; come hither, O Universal Gods,  
      Be seated on this holy grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter alle, kommet, erhöret diesen Ruf von mir, setzet euch auf dieses Barhis nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Götter alle, kommt herbei, vernehmet diesen meinen Ruf Und setzet euch auf diese Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, придите!  
 Услышьте этот мой зов!  

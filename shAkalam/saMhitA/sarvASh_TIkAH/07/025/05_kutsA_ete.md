@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡त्सा एते꣡ ह꣡रिअश्वाय शूष꣡म्  
 इ꣡न्द्रे स꣡हो देव꣡जूतम् इयानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ त꣡रुत्राः सनुयाम वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒त्रा । कृ॒धि॒ । सु॒ऽहना॑ । शू॒र॒ । वृ॒त्रा । व॒यम् । तरु॑त्राः । स॒नु॒या॒म॒ । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kutsā* ← *kutsāḥ* ← *kutsa*
 - \[noun\], nominative, plural, masculine
@@ -125,44 +125,44 @@ genre M
 **एते** **वयं** वसिष्ठाः **हर्यश्वाय** हरिनामकाश्वायेन्द्राय **शूषं** सुखकरं स्तोत्रं **कुत्साः** कुर्वाणाः । करोतेः कुत्सशब्दनिष्पत्तिः । **इन्द्रे** **देवजूतं** देवैः प्रेरितं **सहः** बलम् इयानाः याचमानाः **तरुत्राः** दुर्गाणि तीर्णाः सन्तः **वाजं** बलं **सनुयाम** लभेमहि । अपि च हे **शूर** **वृत्रा** वृत्राणि शत्रून् **सुहना** हन्तुं सुशकानि **सत्रा** सर्वदा **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These (**Vasiṣṭhas**) are offering grateful (adoration) to the lord of bay steeds, soliciting the strengthassigned by the gods to **Indra**; make our enemies, Indra, easy to be overcome, and may we, safe from peril,enjoy abundance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Kutsas are those (who chant) a fortifying (hymn) to the one of the  fallow bays, begging for the god-sped might in Indra.  
 Make the obstacles utterly easy to smash, o champion. May we,  
 victorious, win spoils.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of my tr. of this verse is meant to capture the odd order of noun and demonstrative, kútsā eté … With Geldner I supply a form of √ṛc ‘chant’ as the main verb of the first hemistich, since this verb takes śūṣám as object in a number of passages (e.g., I.9.10, X.96.2).
 
 Cf. nearby VII.23.6 vásiṣṭhāso abhí arcanty arkaíḥ, with the nom. pl. subj. of a group of contemporary singers and the verb √ṛc in the last vs. of the hymn (VII.25.6 is repeated from VII.24.6).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here are the Kutsas supplicating Indra for might, the Lord of Bays for God-sent conquest.  
      Make our foes ever easy to be vanquished: may we, victorious, win the spoil, O Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Kutsa´s haben dem Falbenfahrer ein anfeuerndes Lied gesungen, bei Indra um gottgesandten Sieg bittend. Mach die Feinde auf einmal leicht zu erschlagen, o Held. Wir möchten als die Überlegenen den Siegespreis gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um Stärkung flehn den Indra diese Kutsa's, um gotterregte Kraft den Füchselenker; Lass stets, o Held, uns leicht die Feinde schlagen, und siegreich lasse Beute uns erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (люди) из рода Кутсы (исполнили) воинственную песнь повелителю буланых коней,  
 Прося у Индры возбужденной богом силы.  

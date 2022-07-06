@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आछ꣡द्विधानैर् गुपितो꣡  
 बा꣡र्हतैः सोम रक्षितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡ ते अश्नाति पा꣡र्थिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ग्राव्णा॑म् । इत् । शृ॒ण्वन् । ति॒ष्ठ॒सि॒ । न । ते॒ । अ॒श्ना॒ति॒ । पार्थि॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ācchadvidhānair* ← *ācchad*
 - \[noun\], feminine
@@ -98,7 +98,7 @@ popular;; epic anuṣṭubh (380)
 हे **सोम** **आच्छद्विधानैः** । आच्छादयन्ति विधानानि येषां विद्यन्ते त आच्छद्विधानाः । तैः **गुपितः** । तथा **बार्हतैः** गुपितः स्वानभ्राजाङ्घार्यादिभिः सप्तभिः सोमपालैः रक्षितः त्वम् । एते वा अमुष्मिँल्लोके सोममरक्षन् ' (तै. सं. ६.१.१०.५) इति ब्राह्मणम् । **ग्राव्णामिच्छृण्वन्** अभिषवग्राव्णां ध्वनिं शृण्वन्नेव **तिष्ठसि** । **ते** त्वां **पार्थिवः** पार्थिवो जनः **न** **अश्नाति** । न हि द्युस्थश्चन्द्ररूपः सोमोऽत्रत्यैः पानयोग्यो भवति । चन्द्रमा वै सोमो देवानामन्नं तं पौर्णमास्यामभिषुण्वन्ति' (श. ब्रा. ११.१.५.३ ) इति वाजसनेयकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,30 +109,30 @@ popular;; epic anuṣṭubh (380)
 Bārhats: the guardians of the Soma, **Svāna**, **Bhrāja**,Āṅghārya etc.: **Taittirīya** **Saṃhitā** 6.1.10.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protected by those whose regulation is sheltering, guarded by those  belonging to heights, o Soma,  
 you just stay listening to the pressing stones. No earth-dweller  
 consumes you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, secured by sheltering rules, guarded by hymns in Brhati,  
      Thou standest listening to the stones none tastes of thee who dwells on earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dem zu deiner Bedeckung Bestimmten behütet, o Soma, von dem im hohen Himmel Wohnenden bewacht, stehst du da auf die Preßsteine horchend. Kein Irdischer genießt von dir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Schutz versehen stehst du da, | durch Sprüche, Soma, wohl beschirmt | und hörend auf der Steine Schall; | kein irdischer geniesst von dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спрятанный теми, кто поставлен (тебя) скрывать,  
 Защищенный могущественными, о Сома,  

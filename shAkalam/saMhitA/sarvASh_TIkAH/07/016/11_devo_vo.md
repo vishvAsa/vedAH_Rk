@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवो꣡ वो द्रविणोदाः᳐꣡  
 पूर्णां꣡ विवष्टि आसि꣡चम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡द् इ꣡द् वो देव꣡ ओहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उत् । वा॒ । सि॒ञ्चध्व॑म् । उप॑ । वा॒ । पृ॒ण॒ध्व॒म् । आत् । इत् । वः॒ । दे॒वः । ओ॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 **द्रविणोदाः** धनानां दाता **देवः** अग्निः **वः** युष्मदीयां **पूर्णां** हविषा **आसिचम्** आसिक्तां स्रुचं **विवष्टि** कामयते । अतः **उत्** **सिञ्चध्वं** **वा** सोमेन पात्रम् । **उप** **पृणध्वं** **वा** सोमम् । वाशब्दौ समुच्चयार्थौ । ध्रुवग्रहेण होतृचमसं पूरयत चाग्नये सोमं यच्छत चेत्यर्थः । **आदित्** अनन्तरमेव **देवः** अग्निः **वः** युष्मान् **ओहते** वहति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ genre M
 Pour out the contents: udva siñcadhvan upavā pṛṇadhvam, sprinkle and fill up; the first is a reference to the vessel, and the second to Agni: dhruvāgraheṇa **hotr**. tve tvayi camasam pūrayata śa agnaye **somam** yacchata ityarthaḥ: the meaning is, both fill thevessel with the dhruvāgraha and present **Soma** to Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The god Wealth-Giver [=Agni] wishes your full outpouring.  
 Pour it out or fill it up: only then will the god honor you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The God who gives your wealth demands a full libation poured to him.  
      Pour ye it forth, then fill the vessel full again: then doth the God pay heed to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott Dravinodas wünscht von euch voll eingeschenkt. Gießet auf oder füllet nach, dann belobt euch der Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Gott, der Reichthum euch ertheilt, nimmt eure volle Schale an; Bald giesst sie aus, bald wieder füllet ganz sie an, dann achtet recht der Gott auf euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог Дравинодас хочет  
 От вас полного возлияния.  

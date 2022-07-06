@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡ता꣡याम उ꣡प गव्य꣡न्त इ꣡न्द्रम्  
 अस्मा꣡कं सु꣡ प्र꣡मतिं वावृधाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡वां के꣡तम् प꣡रम् आव꣡र्जते नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒ना॒मृ॒णः । कु॒वित् । आत् । अ॒स्य । रा॒यः । गवा॑म् । केत॑म् । पर॑म् । आ॒ऽवर्ज॑ते । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāyāmopa* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
@@ -120,21 +120,21 @@ genre M
 देवाः परस्परमेवं कथयन्ति । हे देवाः **गव्यन्तः** पणिनामकेनासुरेणापहृता अस्मदीया गाः प्राप्तुमिच्छन्तो यूयं **एत** आगच्छत । युष्माभिः सहिता वयम् **इन्द्रं** गवानयनक्षमम् **उप** **अयाम** प्राप्तवाम । स चेन्द्रः **अनामृणः** हिंसकरहितः सन् **अस्माकं** देवानां **प्रमतिं** गोलाभेन हर्षयित्वा प्रकृष्टां बुद्धिं **सु** **ववृधाति** सुष्ठु वर्धयति । **आत्** अनन्तरं स इन्द्रः **अस्य** **रायः** धनस्य **गवां** गोरूपस्य संबन्धि **परं** **केतं** उत्कृष्टं ज्ञानं **नः** अस्माकं **कुवित्** **आवर्जते** अधिक प्रापयति ॥ इत ।  ‘ इण् गतौ '। अदादित्वात् शपो लुक् । अयाम । एतेर्लोडुत्तमबहुवचने  ‘ आडुत्तमस्य पिच्च इति आडागमः । पिद्वद्भावात् सार्वधातुकलक्षणे गुणे अयादेशः । न च “ इणो यण् ' (पा. सू. ६. ४. ८१) इति यणादेशः ।  ‘ मध्येऽपवादाः पूर्वान् विधीन् बाधन्ते' (परिभा. ६०) इति वचनात् तस्य इयङादेशापवादत्वात् । अतः परत्वात् गुणेन यणादेशो बाध्यते । पिद्वद्भावात् प्रत्ययस्यानुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् । गव्यन्तः । गा आत्मनः इच्छन्तः ।  ‘ सुप आत्मनः क्यच् ' इति गोशब्दात् कर्मणः क्यच् । वान्तो यि प्रत्यये ' ( पा. सू. ६. १. ७९ ) इति अवादेशः । प्रत्ययान्तात् धातोर्लटः शतृ । तस्य अदुपदेशात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । प्रमतिम् । मन्यतेः क्तिनि ‘अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः ।  ‘ तादौ च° ' ( पा. सू. ६. २. ५० ) इति गतेः प्रकृतिस्वरत्वम् । ववृधाति । वृधु वृद्धौ'। लेटि आडागमः।  ‘ बहुलं छन्दसि ' इति शपः श्लुः । संहितायामभ्यासस्य दीर्घश्छान्दसः । अनामृणः ।  ‘ मृण हिंसायाम् । मृणन्ति हिंसन्तीति मृणाः । इगुपधलक्षणः कः । न सन्ति अमृणाः अस्य इति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अस्य रायः ।  ‘ ऊडिदम्' इत्युभयत्र विभक्तेरुदात्तत्वम् । गवाम् । 'सावेकाचः' इति प्राप्तस्य विभक्त्युदात्तस्य न गोश्वन्साववर्ण ' इति प्रतिषेधः । केतम् । **कित** ज्ञाने'। घञन्त आद्युदात्तः । आवर्जते ।  ‘ वृजी वर्जने '। अदादित्वात् शपो लुकि प्राप्ते ' बहुलं छन्दसि ' इति तदभावः । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकत्वेन धातुस्वरः ।  ‘ तिङि चोदात्तवति' (पा. सू. ८. १. ७१ ) इति गतेरनुदात्तत्वम् । कुविद्योगात् ‘निपातैर्यद्यदिहन्त' (पा. सू. ८. १. ३०) इत्यादिना निघातप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, let us get to **Indra**, (to recover our stolen cattle), for he, devoid of malice, exhilarates our minds; thereupon he will bestow upon us perfect knowledge of this wealth, (which consists) of kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come on! Let us go up close to Indra, seeking cattle. Will he increase his  solicitude for us?  
 With no one to hinder him, will he perhaps then turn his distant  
 intention toward us for this wealth, for cattle?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is no overt interrogative marker in b, but the kuvíd of c may suggest a similar question in b.
 
@@ -147,23 +147,23 @@ forms in turn generated the oppositional trans. act. vāvṛdhāti.
 I take kétam páram in d as referring to Indra’s “distant intention” (which we hope to move closer to us; see úpa in 1a, 2a), rather than our “highest wish,” as is standard. The middle voice of āvárjate may support this. However the other interpretation is certainly possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, fain for booty let us seek to Indra: yet more shall he increase his care that guides us.  
      Will not the Indestructible endow us with perfect knowledge of this wealth, of cattle?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt, wir wollen Indra angehen, die wir auf die Kühe aus sind. Er möge fest seine Fürsorge für uns mehren. Vielleicht daß er, der kein Hindernis kennt, dann unserem höchsten Wunsch nach diesem Reichtum, nach Kühen geneigt sein wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, lasst uns Indra Heerden heischend angehn, dass er für uns recht seine Sorge steigre; Wird dann der unbesiegte unsrer höchsten Begier nach Schatz und Rindern nicht sich fügen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придите! Мы пойдем к Индре, желая коров:  
 Да усилит он как следует заботу о нас!  

@@ -14,7 +14,7 @@ title = "+051"
 अथाष्टमं व्याख्यातुमारभते । ' इदमु त्यत्' इत्येकादशर्चं षष्ठं सूक्तं वामदेवस्यार्षं त्रैष्टुभमुषोदेवताकम् । इदमुषस्यं तु' इत्यनुक्रान्तम् । प्रातरनुवाके उषस्ये क्रतौ त्रैष्टुभे छन्दस्याश्विनशस्त्रे इदं सूक्तम् । सूत्रितं च - उषो वाजेनेदमु त्यत् ' (आश्व. श्रौ. ४. १४) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 51 (347)  
 Dawn  
@@ -26,7 +26,7 @@ As V. Yareham suggested (in an unpublished paper presented at the University  of
 Otherwise, the imagery is of the usual type for dawn hymns:  the brilliant  beauty of the dawns in contrast to the darkness, which they banish; their abrupt  arising in the east and their subsequent journey; and the prayers for largesse,  reminding us that the dakṣiṇā, the priestly gifts, were distributed at the dawn  sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dawn It is worth noting that the nom. (and voc.) pl. of uṣás- is consistently uṣásaḥ in this hymn (every vs. but 10), with short suffixal vowel -- the newer form replacing inherited uṣā́saḥ.
 

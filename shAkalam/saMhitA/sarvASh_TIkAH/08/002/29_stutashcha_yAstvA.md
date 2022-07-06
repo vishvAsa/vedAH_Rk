@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तु꣡तश् च या꣡स् त्वा व꣡र्धन्ति  
 महे꣡ रा꣡धसे नृम्णा꣡य  
 इ꣡न्द्र कारि꣡णं वृध꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इन्द्र॑ । का॒रिण॑म् । वृ॒धन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stutaś* ← *stutaḥ* ← *stut*
 - \[noun\], nominative, plural, feminine
@@ -86,19 +86,19 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** **कारिणं** कर्मणां कर्तारं **वृधन्तः** वर्धयन्तो ये **स्तुतः** स्तोतारः **याः** **च** तदीयाः स्तुतयः **त्वा** त्वां **वर्धन्ति** वर्धयन्ति । किमर्थम् । **महे** महते **राधसे** धनाय **नृम्णाय** बलाय च । उभयोर्लाभार्थम् । ते तदुभयं लभन्त इत्यध्याहारः। यद्वा । उत्तरत्र ते सत्रा दधिरे शवांसि इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who praising you magnify you, **Indra**, the instrumental tutor of rites, and those (hymns which glorify) youhave (for their object) great riches and strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The praises that strengthen you for great generosity and manly action, o Indra, strengthening (you) as the decisive victor,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">
 <details open><summary><h2>29-30 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ Verse 29 consists of a relative clause (beginning stútaś ca yā́ḥ) conjoine
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And lauds which strengthen thee for great bounty and valour, and exalt  
      Indra who doeth glorious deeds,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Lobgesänge, die dich erheben, zu großer Freigebigkeit und Mannestat den Siegesgewinner erhebend, o Indra,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gesänge, die dich stärken, grosse Manneskraft zu schenken, Mögen deinen Sänger segnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И хвалы, которые тебя вдохновляют  
 На великое дарение, на мужественное деяние,  

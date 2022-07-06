@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुवी꣡रं रयि꣡म् आ꣡ भर  
 जा꣡तवेदो वि꣡चर्षणे  
 जहि꣡ र꣡क्षांसि सुक्रतो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ज॒हि । रक्षां॑सि । सु॒ऽक्र॒तो॒ इति॑ सुऽक्रतो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suvīraṃ* ← *su*
 - \[adverb\]
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **जातवेदः** जातप्रज्ञान जातधन वा **विचर्षणे** विशेषेण द्रष्टरग्ने **सुवीरं** शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेतं **रयिं** धनम् **आ** **भर** आहर। तथा हे **सुक्रतो** सुकर्मन्नग्ने **रक्षांसि** च **जहि** विनाशय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Jātavedas**, all-beholdeer, bring us wealth with good posterity; doer of good deeds, destroy the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wealth in good heroes bring here, o unbounded Jātavedas.  
 Smash the demonic forces, o you of good resolve.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. ushers in a set of forms of √bhṛ (also vss. 36, 40, 41, 47, 48).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O active Jatavedas, bring riches with store of hero sons:  
      Slay thou the demons, O Most Wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns Besitz an guten Söhnen, du ausgezeichneter Jatavedas, erschlag die bösen Geister, du Wohlverständiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her bringe heldenreiches Gut, regsamer Wesenkenner du, Gespenster tödte wohlgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам богатство, состоящее из прекрасных мужей,  
 О Джатаведас, владеющий народами!  

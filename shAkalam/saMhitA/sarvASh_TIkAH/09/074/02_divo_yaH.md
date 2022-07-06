@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ य꣡ स्कम्भो꣡ धरु꣡णः सु꣡आतत  
 आ꣡पूर्णो अंशुः꣡ परिए꣡ति विश्व꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 समीचीने꣡ दाधार स꣡म् इ꣡षः कविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । इ॒मे इति॑ । म॒ही इति॑ । रोद॑सी॒ इति॑ । य॒क्ष॒त् । आ॒ऽवृता॑ । स॒मी॒ची॒ने इति॑ स॒म्ऽई॒ची॒ने । दा॒धा॒र॒ । सम् । इषः॑ । क॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -129,7 +129,7 @@ genre M
 **दिवः** द्युलोकस्य **स्कम्भः** विष्कम्भयिता संरोद्धा **धरुणः** सर्वस्य धारकः । यद्वा । पृथिव्या धारकः । विष्टम्भो दिवो धरुणः पृथिव्याः ' ( ऋ. सं. ९.८९.६ ) इत्याम्नानात् । तादृशः **स्वाततः** सुष्ठु सर्वत्र **विततः** विस्तृतः अत एव **आपूर्णः** पात्रेषु संपूर्णः **यः** **अंशुः** सोमात्मकः **विश्वतः** सर्वतः **पर्येति** परिगच्छति । ‘तिङि चोदात्तवति' इति गतेर्निघातः । **सः** सोमः **इमे** **रोदसी** द्यावापृथिव्यौ **आवृता** संभजनीयेन कर्मणा **यक्षत्** यजतु । स्वबलेन संयोजयत्वित्यर्थः । ततः सोऽयं **समीचीने** परस्परं संगते द्यावापृथिव्यौ **दाधार** धारयांचकार । ‘तुजादीनाम्' इत्यभ्यासस्य दीर्घः । अनन्तरं **कविः** क्रान्तकर्मा **इषः** अन्नानि स्तोतृभ्यः **सं** प्रयच्छतु । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,13 +142,13 @@ The prop of the earth: cf. RV. 9.089.06; may he unite: yakṣat = saṃyojayatu;
 Āvṛta = by its own unaided strength
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (soma) plant, the prop and buttress of heaven, which, when well  extended and fully filled, encompasses in every direction,  
 that (plant) will offer sacrifice to these two great world-halves when they  turn hither. The poet unites the united pair and the refreshing drinks.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The soma plant as pillar connecting heaven and earth and filling the midspace (ab) gives way to the plant as sacrificer (c)—an abrupt conceptual transition somewhat jarring to modern sensibilities.
 
@@ -159,23 +159,23 @@ The standard tr. take ā́vṛ́tā as instr., with a variety of interpr.: Geldn
 Pāda d contains the only ex. of sám √dhṛ in the RV (and one of the few in Vedic). I would now be inclined to give it a more literal tr.: “the poet holds together …” The poet in this case is of course Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A far-extended pillar that supports the sky the Soma-stalk, filled full, moves itself every way.  
      He shall bring both these great worlds while the rite proceeds: the Sage holds these who move! together and all food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Stengel tragende schöngerichtete Säule des Himmels ist, und als vollgesogener Stengel rings umkreist, er möge diese beiden großen Welthälften nach dem Herkommen verehren. Er hält das vereinigte Paar und alle Labungen zusammen, der Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der als des Himmels Strebepfeiler schön erhöht als reichgefüllter Soma rings das All umfängt, Den zwei vereinten hergewandten Welten soll der weise opfern, alle Tränke hegt er treu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто опора неба, прекрасно протянутая основа,  
 Набухшее растение, (сок, который) повсюду движется кругами,  

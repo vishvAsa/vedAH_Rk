@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पस्तुतिं न꣡मस उ꣡द्यतिं च  
 श्लो꣡कं यंसत् सविते꣡व प्र꣡ बाहू꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मृगो꣡ न꣡ भीमो꣡ ऽरक्ष꣡सस्° तु꣡विष्मान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । क्रत्वा॑ । अ॒ह॒न्यः॑ । यः । अस्ति॑ । मृ॒गः । न । भी॒मः । अ॒र॒क्षसः॑ । तुवि॑ष्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upastutiṃ* ← *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
@@ -122,7 +122,7 @@ genre M
 अयं बृहस्पतिः **उपस्तुतिं** यजमानेनोपेत्य क्रियमाणां स्तुतिं **नमसः** हविर्लक्षणस्यान्नस्य **उद्यतिम्** उद्धारं **च** **श्लोकम्** अन्यो यो मन्त्रविशेषोऽस्ति तं च **प्र** **यंसत्** प्रकर्षेण यतते स्वीकर्तुम् । यजमानो वा तत्सर्वं प्रयच्छत्यस्मै । तत्र दृष्टान्तः । **सवितेव** सूर्य इव । स यथा स्तोत्रादिकं स्वीकरोति तद्वत् । यजमानप्रदानपक्षे सविता सर्वस्य प्रसविता सूर्य इव । स यथा बाहुभ्यः प्रकाशादि प्रयच्छति तद्वत् **बाहू** बाहुभ्यां यजमानोऽपीत्यर्थः। तस्य महत्त्वमाह । **अरक्षसः** स्वविरोधिरक्षोरहितस्य **अस्य** बृहस्पतेः **क्रत्वा** कर्मणा सामर्थ्येन **अहन्यः** अह्नि साधुः **यः** सूर्यः **अस्ति** सः **भीमः** **न** **मृगः** इव भयजनकः सिंहादिरिव भीमो भयहेतुः **तुविष्मान्** बलवान् परिभ्रमतीति शेषः । यस्य माहात्म्येन मन्त्राभिमानिनो बृहस्पतेः सामर्थ्यात् मन्देहाद्यसुराञ्जित्वातितेजस्वी भवति तादृशो महानुभावो यजमानदत्तं हविरादिकं स्वीकरोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 He: or, the pronoun may apply to the **yajamāna**, who exerts himself to offer the praise, the oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A praise song and an offering of reverence, as well as his signal-call, will  he hold forth, like Savitar his two arms—  
 (the call) that happens every day according to his will, (the call) of the  undemonic, which is powerful like a fearsome wild beast.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The praise, the verse that offers adoration, may he bring forth, as the Sun sends his arms out,  
      He who gives daily light through this God's wisdom, strong as a dread wild beast, and inoffensive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Lobgesang und die dargebrachte Huldigung, den Ruf möge er wie Savitri die Arme erheben, der nach seinem Ratschluß tagtäglich stattfindet, der Ruf des Arglosen, furchtbar wie ein wildes Tier, gewaltig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Lob und Preis und des Gebets Verrichtung streck er empor, wie Savitar die Arme, Der tageshell durch seines Geistes Kraft ist, des Bösen Zwingherr, wie ein Löwe furchtbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваление и возносимое почитание,  
 Возглас пусть направит ввысь (Брихаспати), как Савитар, - руки,  

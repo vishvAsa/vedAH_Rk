@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ य꣡द् अग्नेः꣡ स꣡हस्वतो  
 विश्व꣡तो य꣡न्ति भान꣡वः  
 अ꣡प नः शो꣡शुचद् अघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 अप॑ । नः॒ । शोशु॑चत् । अ॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -86,20 +86,20 @@ popular;; repeated line
 **सहस्वतः** सहनवतः शत्रूनभिभवतः **अग्नेः** **भानवः** दीप्तयः **विश्वतः** सर्वतः सर्वस्मादपि प्रदेशात् **प्र** **यन्ति** प्रकर्षेणोद्गच्छन्ति। **यत्** यस्मादेवं तस्मात्तेनाग्नितेजसा अस्मदीयम् **अघं** नश्यतु । यन्ति । ' इणो यण् ' (पा. सू. ६. ४. ८१ ) इति यणादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since the victorious flames of **Agni** penetrate universally, may our sin be repented of.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the beams of powerful Agni go forth in all directions  
 —(you) blazing away the bad for us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -109,28 +109,28 @@ These three middle verses, before the refrain becomes reintegrated into the vers
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As ever-conquering Agni's beams of splendour go to every side,  
      May his light chase our sin away.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When the rays of the mighty Agni go forth on all sides—driving away evil with thy light—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn des gewaltigen Agni Strahlen nach allen Seiten ausgehen - sei das Übel von uns hinwegflammend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Agni's Strahlen überall hindringen, des gewaltigen, So strahl er Leid von uns hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда движутся вперед отовсюду  
 Лучи могучего Агни,  

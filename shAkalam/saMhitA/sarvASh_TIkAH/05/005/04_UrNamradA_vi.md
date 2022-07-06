@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊ꣡र्णम्रदा वि꣡ प्रथस्व  
 अभि꣡ अर्का꣡ अनूषत  
 भ꣡वा नः शुभ्र सात꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 भव॑ । नः॒ । शु॒भ्र॒ । सा॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrṇamradā* ← *ūrṇamradāḥ* ← *ūrṇamradas*
 - \[noun\], nominative, singular, masculine
@@ -82,7 +82,7 @@ genre M
 हे **ऊर्णम्रदाः** ऊर्णाकम्बलवत् मृदु हे बर्हिः **वि** **प्रथस्व** प्रथय । **अर्काः** स्तोतारः **अभि** **अनूषत** स्तुवन्ति । हे **शुभ्र** दीप्त **सातये** धनाय तद्दानाय वा **नः** अस्माकं **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ genre M
 (Grass): the **barhis**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having the softness of wool, spread widely, (o ritual grass): the chants  have cried out to you.  
 Be here to win gain for us, beautiful one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Spread thyself out, thou soft as wool The holy hymns have sung to thee.  
      Bring gain to us, O beautiful!
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Soft like wool 1 spread thyself (O Barhis). The hymns have been sung to thee. Be to us for success, O beautiful (Barhis)!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weich wie Wolle breite dich aus - die Gesänge sind angestimmt worden - sei uns, du sauberes Barhis zu Gewinn behilflich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Breit aus dich, wollenweicher Sitz, dir sind Gesänge angestimmt; Sei, reiner, hold uns zum Empfang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мягкая, как шерсть, растелись!  
 Напевы зазвучали в лад.  

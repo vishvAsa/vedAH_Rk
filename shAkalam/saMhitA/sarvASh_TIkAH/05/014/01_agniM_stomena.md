@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ स्तो꣡मेन बोधय  
 समिधानो꣡ अ꣡मर्तियम्  
 हव्या꣡ देवे꣡षु नो दधत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 ह॒व्या । दे॒वेषु॑ । नः॒ । द॒ध॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -79,39 +79,39 @@ genre M
 हे स्तोतः **अमर्त्यम्** अमरणधर्माणम्  **अग्निं** **स्तोमेन** स्तोत्रेण **बोधय**। स्वाभिलषितार्थसिद्धये प्रबोधय । योऽग्निः **समिधानः** स्तोत्रैः सम्यक् प्रकाशमानः सः **नः** **हव्या** अस्मदीयानि हव्यानि हवींषि **देवेषु** **दधत्** निदधातु ॥ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Waken the immortal **Agni** with praise, that, being kindled, he may bear our oblations to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni—awaken him with a praise song, kindling the immortal one. He will place our oblations among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ENKINDLING the Immortal, wake Agni with song of praise: may he bear our oblations to the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Awaken 1 Agni by thy song of praise, kindling (him) the immortal one. May he place our offerings among the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Loblied wecke den Agni, den Unsterblichen entzündend! Er bringe unsere Opferspenden zu den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni weck durch Loblied auf, entzündend den unsterblichen, Zu Göttern bring die Opfer er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни пробуждай восхвалением,  
 Воспламенив бессмертного.  

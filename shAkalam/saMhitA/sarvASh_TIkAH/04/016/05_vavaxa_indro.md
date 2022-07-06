@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ववक्ष꣡ इ꣡न्द्रो अ꣡मितम् ऋजीषी꣡  
 उभे꣡ आ꣡ पप्रौ रो꣡दसी महित्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ यो꣡ वि꣡श्वा भु꣡वना बभू꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अतः॑ । चि॒त् । अ॒स्य॒ । म॒हि॒मा । वि । रे॒चि॒ । अ॒भि । यः । विश्वा॑ । भुव॑ना । ब॒भूव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
@@ -126,20 +126,20 @@ genre M
 **ऋजीषी** । ऋजीषशब्देन निष्पिष्टो विगतसारः सोमोऽभिधीयते । तद्वान् **इन्द्रः** परमैश्वर्ययुक्तः **अमितम्** इयत्तारहितं महिमानं **ववक्षे** उवाह । किंच **महित्वा** महत्त्वेन स्वेन महिम्ना **उभे** **रोदसी** उभे द्यावापृथिव्यौ **आ** **पप्रौ** समन्तादपूरयत् । **यः** इन्द्रः **विश्वा** **भुवना** सर्वाणि भुवनानि **अभि** **बभूव** तिरश्चकार । अतश्चित् एभ्योऽपि विश्वेभ्यो भुवनेभ्यः **अस्य** इन्द्रस्य **महिमा** **वि** **रेचि** अतिरिरिचे । अधिको बभूवेत्यर्थः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, as the accepter of the stale **Soma**, sustains infinite greatness, and has filled both heaven and earth by his magnitude; therefore has the vastness of him who has surpassed all the regions, exceeded (the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing the silvery drink, Indra increased without limit. He filled  both world-halves with his greatness.  
 Even beyond that did it reach—the greatness of him who surmounted  all the worlds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛjīṣī́see immed. preceding comment.
 
@@ -153,23 +153,23 @@ sg. mahitvā́- works nicely in a Triṣṭubh cadence. Curiously enough English
 Skt. words with ‘greatness’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, Impetuous One, hath waxed immensely: he with his vastness hath filled earth and heaven.  
      E'en beyond this his majesty extendeth who hath exceeded all the worlds in greatness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra wuchs ins Ungemessene den Trestersaft trinkend; mit seiner Größe füllte er beide Welthälften an. Und noch darüber hinaus dehnte sich seine Größe aus, der alle Welten überragt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kühne Indra unermesslich wachsend, durchdrang mit seiner Grösse beide Welten; Und drob hinaus noch ragte dessen Umfang, der stärker ward als alles, was da lebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, пьющий выжимки сомы, вырос безмерно.  
 Он заполнил обе половины вселенной (своим) величием.  

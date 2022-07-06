@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् मर्जयन्त सुक्र꣡तुम्  
 पुरोया꣡वानम् आजि꣡षु  
 स्वे꣡षु क्ष꣡येषु वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्वेषु॑ । क्षये॑षु । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -77,21 +77,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुक्रतुं** शोभनप्रज्ञं सुकर्माणं वा **आजिषु** संग्रामेषु **पुरोयावानं** शत्रुहननार्थं पुरत एव गन्तारं **वाजिनं** बलवन्तं तादृशमग्निं यजमानाः **स्वेषु** आत्मीयेषु **क्षयेषु** गृहेषु **मर्जयन्त** निर्मथितमग्निमलंकुर्वन्ति । परिचरन्तीति यावत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They keep him bright in their houses, (**Agni**) famed for glorious deeds, the mighty one who pressesforward in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They groom him, the very resolute one who goes in front at the  
 contests,  
 the prizewinner, in their own dwelling places.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The small interpretive issue in this verse is who is the referent of svéṣu.
 
@@ -100,23 +100,23 @@ Geldner/Renou take it as Agni, while I think it’s the unidentified pl. subject
 More to the point, in my opinion, is that 6ab … káro, víśvā asmábhyaṃ sukṣitī́ḥ “… you will make all dwellings lovely for us” and 9a kṣéti kṣémebhiḥ “he [=the favored mortal] dwells peacefully in peaceful ways …” associate dwellings with the mortal worshipers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hirn Wise and Strong they glorify, the foremost Champion in the fray,  
      And mighty in his dwelling-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn putzen sie, den Einsichtsvollen, den Anführer in den Kämpfen, der im eigenen Heim gewinneinbringend ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn schmücken sie, den trefflichen, der in den Kämpfen Führer ist, Im eignen Sitz den kräftigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они начищают (его,) исполненного прекрасной силой духа,  
 Мчащегося впереди в состязаниях,  

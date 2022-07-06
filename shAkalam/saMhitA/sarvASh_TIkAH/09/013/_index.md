@@ -18,7 +18,7 @@ title = "+013"
 तत्र सोमः पुनानः' इति नवचं त्रयोदशं सूक्तम् । असितो देवलो वर्षिः। सोमो देवता । ‘ पवमानगुणः सोमो विज्ञेयः काश्यपावृषी । इति विद्यादनुक्तेऽपि लाघवाया दृळ्हच्युतात् ॥ ‘सोमः इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 13 (725)  
 Soma Pavamāna  
@@ -27,7 +27,7 @@ Asita Kāśyapa or Devala Kāśyapa
 The first verse, with its mention of Vāyu and Indra, identifies this as the first soma offering of the day. Otherwise the hymn is a confection of clichés familiar from  many other soma hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This hymn is dominated by forms of med. pávate (vss. 2-4, 8-9), with the first vs. containing instead med. punānáḥ. Only vss. 6-7 lack such forms. Perhaps coincidentally, these two vss. are the only ones containing similes.
 

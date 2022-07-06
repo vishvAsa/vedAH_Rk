@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रयि꣡र् न꣡ चित्रा꣡ सू꣡रो न꣡ संदृ꣡ग्  
 आ꣡युर् न꣡ प्राणो꣡ नि꣡त्यो न꣡ सूनुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 र॒यिः । न । चि॒त्रा । सूरः॑ । न । स॒म्ऽदृक् । आयुः॑ । न । प्रा॒णः । नित्यः॑ । न । सू॒नुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, feminine
@@ -88,20 +88,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 रयिरिति दशर्चं द्वैपदमध्ययनतः पञ्चर्चं द्वितीयं सूक्तं पराशरस्यार्षमाग्नेयम् । अनुक्रान्तं च । रयिरिति ॥ विनियोगो लैङ्गिकः ॥Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[1-2\] **Agni** who is like wondrous wealth, like the all-surveying Sun, like vital breath, like a well-conducted son, like a rider-bearing steed, like a milk-yielding cow, who is pure and radiant, consumes the forests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Glittering like wealth, like the sight of the sun,  
 like life-breath, like one’s own son;
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fem. gender of citrā́is a problem. The standard solution (see, e.g., Grassmann) is to assume that rayí-, which is normally masc., is occasionally fem. (so also, supposedly, in nearby I.68.7, though see disc. there). I find this unsatisfactory and explain the gender by assuming that citrā́modifies not only rayíḥ but also fem.
 
@@ -114,28 +114,28 @@ More problematic is ā́yur ná prāṇáḥ, where the first word should be the
 noun ā́yus- ‘lifetime’, since Grassmann’s supposed adjectival stem ā́yu- ‘beweglich’ does not exist (only the neut. noun ā́yu-, also ‘lifetime’). Thus, properly speaking, we should have an equational simile “breath like lifetime,” represented in Renou’s “souffle-animé comme la vie (même)” and Witzel Gotō “der Atem gleichsam als Leben.” Nonetheless I consider the interpretation as an improper compound, as in Geldner’s “wie der Lebenshauch,” to make more sense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE the Sun's glance, like wealth of varied sort, like breath which is the life, like one's own son,  
      Like a swift bird, a cow who yields her milk, pure and refulgent to the wood he speeds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like unto excellent wealth, like unto the shine of the sun, like unto living breath, like unto one's own 1 son.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ansehnlicher Reichtum, wie der Sonne Anblick, wie der Lebenshauch, wie der leibliche Sohn
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie schöner Reichthum, – wie Sonne strahlend, wie Hauch und Leben – wie eigner Sohn lieb; Wie schneller Vogel – eilt ins Gehölz er, wie Milch die Kuh lässt, – hellstrahlend, leuchtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

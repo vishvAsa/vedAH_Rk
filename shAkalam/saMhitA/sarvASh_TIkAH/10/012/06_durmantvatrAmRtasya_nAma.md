@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुर्म꣡न्तु अ꣡त्र अमृ꣡तस्य ना꣡म  
 स꣡लक्ष्मा य꣡द् वि꣡षुरूपा भ꣡वाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने त꣡म् ऋष्व पाहि अ꣡प्रयुछन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 य॒मस्य॑ । यः । म॒नव॑ते । सु॒ऽमन्तु॑ । अग्ने॑ । तम् । ऋ॒ष्व॒ । पा॒हि॒ । अप्र॑ऽयुच्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *durmantv* ← *durmantu*
 - \[noun\], nominative, singular, neuter
@@ -119,36 +119,36 @@ genre M
 यत् यस्य अमृतस्य मरणधर्मरहितस्य सूर्यस्य अस्य मरणधर्मराहित्यन्तु—सूर्येविषमास- जामीत्यमृस्याचि प्रसिद्धम् । तादृशस्य सम्बन्धिनाम नामकमुदकं अत्र अस्यां पृथिव्यां विषु- रूपा नानारूपं भवाति भवति । उदकस्य नानारूपत्वं—याआपोदिव्याइतिमन्त्रे स्फुटमुक्तम् । कीदृशं तत् दुर्मन्तु निरपराधं प्रह्वस्वभावत्वात् । पुनः कीदृशं सलक्ष्मा मधुररसलक्षणो- पेतम् । किञ्च यः सूर्यः यमस्य संयमिनीपतेः सुमन्तु सुतरामपराधं मातृताडनरूपं मनवते अवबुध्यते यद्वा धातूनामनेकार्थत्वात् क्षमतइत्यर्थः । तं तादृशं जलजनकं सर्वज्ञं क्षमाशी- लं सूर्यं हे ऋष्व महन्नग्ने अप्रयुच्छन्नप्रमाद्यन् त्वं पाहि आहुतिप्रदानेन रक्षणद्वारा आत्म- रक्षणं प्रार्थयते ऋषिः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hard to understand is the nature of the immortal, for although of one origin, she is of a different form;cherish him diligently, great **Agni**, who understands **Yama**'s nature easy to be understood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Difficult to contemplate is the name of the immortal (male) in the case  “that (the female) will have the same ‘marks’ [=family characteristics]  (though) dissimilar form [=gender].”  
 Whoever will contemplate Yama’s (name that is) good to contemplate— protect him unremittingly, o lofty Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 'Tis hard to understand the Immortal's nature, where she who is akin becomes astranger.  
      Guard ceaselessly, great Agni, him who ponders Yama's name, easy to be comprehended.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von üblem Angedenken ist darin des Unsterblichen Yama Name, daß Blutsverwandtes fremdartig sein soll. Wer aber an des Yama Namen von gutem Angedenken denkt, den schütze ohne Unterlaß, du erhabener Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schwer zu begreifen ist hier des Unsterblichen Wesen »Als wäre die gleichentsprungne fremden Ursprungs« [836, 2]. Wer aber Jama's leichtzubegreifendes Wesen begreift, den schütze, o erhabner Agni, unablässig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дурной памяти при этом имя бессмертного,  
 Из-за того что (женщина) с одинаковыми признаками становится чужой.  

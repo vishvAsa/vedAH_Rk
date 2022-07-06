@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सर्जि स्कम्भो꣡ दिव꣡ उ꣡द्यतो म꣡दः  
 प꣡रि त्रिधा꣡तुर् भु꣡वनानि अर्षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गिरा꣡ य꣡दि निर्णि꣡जम् ऋग्मि꣡णो ययुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अं॒शुम् । रि॒ह॒न्ति॒ । म॒तयः॑ । पनि॑प्नतम् । गि॒रा । यदि॑ । निः॒ऽनिज॑म् । ऋ॒ग्मिणः॑ । य॒युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
@@ -123,7 +123,7 @@ genre M
 **दिवः** द्युलोकस्य **स्कम्भः** स्कम्भयिता धारकः **उद्यतः** सोमः **असर्जि** सृज्यते । अभिषूयते इत्यर्थः । किंच **त्रिधातुः** । द्रोणकलशाधवनीयपूतभृदाख्यास्त्रयो धातवो यस्य स तथोक्तः । तादृशो **भुवनानि** उदकानि **अर्षति** गच्छति । **अंशुं** सोमं **पनिप्नतं** शब्दायमानं **मतयः** पूजकाः **रिहन्ति** लिहन्ति आस्वादयन्ति । कदा। **यदि** **निर्णिजं** निर्णिक्तम् । यद्वा । निर्णिगिति रूपनाम। रूपवन्तमित्यर्थः । तम् **ऋग्मिणः** स्तोतारः **गिरा** स्तुत्या **ययुः** गच्छन्ति तदा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Triple beverage: tridhātu = three vessle, the droṇakalaśa, **āhavanīya** and putabhṛt; or, just, three metallic ores: gold, silver, lead/coopper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It has been sent surging—the prop of heaven, the exhilarating drink  held aloft. It rushes threefold around the worlds.  
 The thoughts lick the plant that always excites wonder, when the  
 versifiers have come to array it with a hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a skambhó diváḥ reminds us of 35d divó viṣṭambháḥ with a diff.
 
@@ -168,23 +168,23 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loosed is the heavens! support, the uplifted cheering juice: the triply-mingled draught flows round into the worlds.  
      The holy hymns caress the stalk that claims our praise, when singers have approached his beauteous robe with song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ward ausgegossen, der Pfeiler des Himmels, der emporgehaltene Rauschtrank; er fließt mit drei Bestandteilen um die Welten. Die Dichtungen lecken an dem schreienden Stengel, wenn die Versdichter mit ihrer Rede Staat machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen ist als Himmels Stütze jetzt der Trank, dreitheilig strömt der dargereichte durch die Welt; Gebete küssen den bewundernswerthen Saft, wenn zu dem Prächt'gen Sänger eilen mit dem Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

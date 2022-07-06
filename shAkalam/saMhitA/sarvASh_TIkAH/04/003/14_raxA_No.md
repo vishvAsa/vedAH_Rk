@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡क्षा णो अग्ने त꣡व र꣡क्षणेभी  
 रारक्षाणः꣡ · सुमख प्रिणानः꣡°  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहि꣡ र꣡क्षो म꣡हि चिद् वावृधान꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । स्फु॒र॒ । वि । रु॒ज॒ । वी॒ळु । अंहः॑ । ज॒हि । रक्षः॑ । महि॑ । चि॒त् । व॒वृ॒धा॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
@@ -126,46 +126,46 @@ genre M
 **सुमख** सुयज्ञ सुधनेति वा हे **अग्ने** **ररक्षाणः** भृशमस्माकं रक्षिता **प्रीणानः** हविर्भिः प्रीतः त्वं **तव** **रक्षणेभिः** त्वदीयैरवनैः **नः** अस्मान् **रक्ष** पालय । **प्रति** **स्फुर** अस्मान् प्रति दीप्यस्व। **वीळु** दृढम् **अंहः** पापं **वि** **रुज** विशेषेण नाशय। किंच **महि** **चित्** महदपि **वावृधानं** वर्धमानं वृद्धं वा बाधकं **रक्षः** **जहि** ॥ नः ।  ‘ नश्च धातुस्थोरुषुभ्यः' इति संहितायां णत्वम् । ररक्षाणः । रक्षेर्यङ्लुकि चानशि रूपम् । जहि । ‘हन हिंसागत्योः'। लोटि ‘हन्तेर्जः' इति जादेशः । आभाच्छास्त्रीयस्यासिद्धत्वात् ‘अतो हेः' इति लुक् न भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, worthily worshipped, counservator, conciliated (by our offerings), protect us with your protections; enlighten us; entirely extirpate our sin; overcome the great and exulting **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guard us, Agni, with your guards, ever guarding when you are gratified,  you good combatant [/very generous].  
 Spring toward rigid constraint and break it apart; smash demonic force,  even though it has grown great.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Once again in this hymn Agni seems to be indirectly identified with Rudra, here by the use of the adj. súmakha-, used explicitly of Rudra in 7b. The ambiguity of this word works well here also.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, keep us safe with thy protection, loving us, honoured God! and ever guarding.  
      Beat thou away, destory severe affliction slay e'en the demon when he waxes mighty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Protect us, O Agni, with all thy protection, thou who art protected, O martial one 1, and art gladdened (by us). Sparkle forth, and destroy even strong evil! Slay the Rakshas even though it has grown large.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütz uns, Agni, mit deinen Schutzmitteln schützend, wenn du befriedigt bist, du Freigebiger! Stoße zurück, zerbrich die starke Not, erschlag den bösen Geist, auch wenn er mächtig erstarkt ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüt, o Agni, uns durch deine Huten, und holdgesinnt, o Held, du starker Hüter, O stoss hinweg, zerbrich das harte Drangsal, und das Gespenst, auch wenn es hoch sich aufthürmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити нас, о Агни, мощно защищающий своими  
 Защитами, когда тебе угодили, о очень воинственный!  

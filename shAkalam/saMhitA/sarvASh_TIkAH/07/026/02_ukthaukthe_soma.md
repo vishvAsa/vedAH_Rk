@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्थ꣡-उक्थे सो꣡म इ꣡न्द्रम् ममाद  
 नीथे꣡-नीथे मघ꣡वानं सुता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समान꣡दक्षा अ꣡वसे ह꣡वन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । स॒ऽबाधः॑ । पि॒तर॑म् । न । पु॒त्राः । स॒मा॒नऽद॑क्षाः । अव॑से । हव॑न्ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uktha* ← *ukthe* ← *uktha*
 - \[noun\], locative, singular, neuter
@@ -119,14 +119,14 @@ genre M
 **यत्** यस्मात् **उक्थेउक्थे** शस्त्रेशस्त्रे क्रियमाणे **सोमः** **मघवानम्** **इन्द्रं** 'ममाद मादयति **नीथेनीथे** स्तोत्रेस्तोत्रे क्रियमाणे **सुतासः** अभिषुताः सोमाः मादयन्ति तस्मात् **ईम्** एनमिन्द्रं **सबाधः** परस्परं मिलिताः **समानदक्षाः** समानोत्साहा ऋत्विजः **पुत्राः** **पितरं** **न** पितरमिव **अवसे** तर्पणाय स्वरक्षणाय वा **हवन्ते** । शस्त्रैः स्तोत्रैश्च स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** effused with reiterated prayer delights **Indra**; the effused juices, (offered) with repeatedpraise, (exhilarate) **Maghavan**; therefore, (the priests), combining together and making like exertion, invoke Indrafor protection, as sons (apply) to a father.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, unpressed, does not exhilarate Indra, nor do pressings  
 unaccompanied by sacred formulations (exhilarate) the  
@@ -134,23 +134,23 @@ bounteous one.
 For him I beget a hymn that he will enjoy, a newer manly one, so that he  will listen to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At every laud the Soma gladdens Indra: pressed juices please him as each psalm is chanted,  
      What time the priests with one united effort call him to aid, as sons invoke their father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei jedem Lobgedicht hat Soma den Indra begeistert, bei jeder Weise die Säfte den Gabenreichen, wenn sie ihn dringlich wie die Söhne den Vater einwillig zur Hilfe rufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Spruch um Spruch erfreut den Indra Soma, bei Lied um Lied den mächt'gen die gepressten, Wenn eifervoll, wie Söhne ihren Vater, zu Hülf ihn rufen alle eines Sinnes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С каждой хвалой сома всегда радовал Индру,  
 С каждым напевом выжатые соки – щедрого,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्रा꣡ज्ञी श्व꣡शुरे भव  
 सम्रा꣡ज्ञी श्वश्रुवा꣡म् भव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सम्रा꣡ज्ञी अ꣡धि देवृ꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 नना॑न्दरि । स॒म्ऽराज्ञी॑ । भ॒व॒ । स॒म्ऽराज्ञी॑ । अधि॑ । दे॒वृषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samrājñī*
 - \[noun\], nominative, singular, feminine
@@ -92,36 +92,36 @@ popular;; epic anuṣṭubh (380)
 हे वधु श्वशुरादिषु त्वं **सम्राज्ञी** **भव**। **देवृषु** । देवरेष्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be a **queen** to your father-in-law, be a queen to your mother-in-law, be a queen to your husband'ssister, be a queen to your husband's brother.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become sovereign queen over your father-in-law; become sovereign  queen over your mother-in-law.  
 Become sovereign queen over your sister-in-law, sovereign queen over  your brothers-in-law.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over thy husband's father and thy husband's mother bear full sway.  
      Over the sister of tby lord, over his brothers rule supreme.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei oberste Herrin über den Schwäher, sei oberste Herrin über die Schwägerin, sei oberste Herrin über die Schwäger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei Oberherrin über den Schwäher, Oberherrin über die Schwieger, Oberherrin über des Mannes Schwester, Oberherrin über des Mannes Brüder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повелительницей над свекром будь!  
 Повелительницей над свекровью будь!  

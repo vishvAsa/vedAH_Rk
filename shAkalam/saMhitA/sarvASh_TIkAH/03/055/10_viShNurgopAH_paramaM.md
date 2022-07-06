@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्णुर् गोपाः꣡ परम꣡म् पाति पा꣡थः  
 प्रिया꣡ धा꣡मानि अमृ꣡ता द꣡धानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒ग्निः । ता । विश्वा॑ । भुव॑नानि । वे॒द॒ । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
@@ -132,43 +132,43 @@ genre M;; repeated line
 **विष्णुः** व्याप्तः **गोपाः** सर्वस्य गोपायिता **प्रिया** प्रियतमानि **अमृता** क्षयरहितानि **धामानि** तेजांसि **दधानः** सोऽग्निः **परमं** **पाथः** स्थानं **पाति** रक्षति । यद्वा । धामानि लोकधारकाणि अमृता उदकानि दधानः सन् परमं पाथः उदकस्य स्थानमन्तरिक्षं पाति । सः **अग्निः** **ता** तानि **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **वेद** जानाति ॥ गोपाः । गोपायतेः क्विपि अतोलोपयलोपौ । अग्निष्टा इत्यत्र सहितायां  ‘ युष्मत्तत्ततक्षुःष्वन्तःपादम्' इति षत्वम् ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pervading and protecting (all), possessing grateful and immortal radiance, he preserves the supreme path (or the rains), for **Agni** knows all these worlds; great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Viṣṇu, the cow-protector, protects the highest pen, establishing his own  dear, immortal domains.  
 Agni knows all these worlds. – Great is the one and only lordship of  the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse continues the theme of vss. 8-9, Agni’s role as go-between. Its point is to show us that Agni as messenger reaches to the highest places in heaven, those defined by the endpoint of Viṣṇu’s famous striding. But the introduction of Viṣṇu also initiates the transition from the exclusive focus on Agni and his kindling.
 
 Note the alliteration: (go)pā́ḥ paramaṃ pāti pā́thaḥ, priyā́…
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Visnu, the guardian, keeps the loftiest station, upholding dear, immortal dwelling-places.  
      Agni knows well all these created beings. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vishnu, der Wächter, hütet den höchsten Hort, seine lieben, unsterblichen Formen annehmend. Agni kennt alle diese Welten. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der thät'ge Hüter schirmt die höchste Stätte, die lieben Sitze gründend unvergänglich; Es kennet Agni alle diese Welten; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вишну-пастух охраняет высшее пастбище,  
 Осуществляя (свои) собственные установления, бессмертные.  

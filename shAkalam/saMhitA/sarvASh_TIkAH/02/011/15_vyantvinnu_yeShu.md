@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व्य꣡न्तु इ꣡न् नु꣡ ये꣡षु मन्दसान꣡स्  
 तृप꣡त् सो꣡मम् पाहि द्रह्य꣡द् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 अ꣡वर्धयो द्या꣡म् बृह꣡द्भिर् अर्कइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 अ॒स्मान् । सु । पृ॒त्ऽसु । आ । त॒रु॒त्र॒ । अव॑र्धयः । द्याम् । बृ॒हत्ऽभिः॑ । अ॒र्कैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vyantv* ← *vyantu* ← *vī*
 - \[verb\], plural, Present imperative
@@ -119,7 +119,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेइन्द्र येषुतवसहायभूतेषुमरुत्सु मन्दसानोमाद्यन् भवसि तेमरुतोनुक्षिप्रंव्यन्तु सोमम्भक्षयन्तु इत् इवार्थे द्रह्यत् दृंहतेरिदंरूपं आत्मानं दृढीकुर्वन् त्वन्तृपत् तर्पयन्तमिमंसोमम्पाहि पिबतरुत्र शत्रूणांहिं- सकहेइन्द्र बृहद्भिर्बलवद्भिः अर्कैरर्चनीयैर्मरुद्भिःसहितस्त्वं आइतिचार्थे तेना स्मान् द्याञ्च सुसुष्ठुपृ- त्सुसङ्ग्रामेषु पशुपुत्रादिभिरस्मान् अस्मत् पालनेनचदिवमवर्धयः यद्वा येषुसोमेषुमन्दसानोमोद- मानोभवसि तेसोमाव्यन्तु त्वाङ्गच्छन्तु शेषम्पूर्ववत् ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,37 +132,37 @@ Let those in whom you are: may those Maruts or those Soma, in which you delight;
 Arkaiḥ = arcanīyaiḥ, to be adored (the Maruts)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now let just those (soma juices) pursue you—those among whom  (you) are becoming exhilarated. Steadfastly drink our soma to your  satisfaction, Indra.  
 (Be) near to us in battles, o surpassing one. You have strengthened  
 heaven through lofty chants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 And another -- or rather the same mandasānáḥ in the nominal rel. clause introduced by yéṣu.
 
 JPB supplies “be” as the verb in pāda c; I’m inclined to follow Geldner (/Witzel Gotō) in supplying a form of √vṛdh ‘strengthen’, generated from ávardhayaḥ beginning d. Geldner suggests the impv. vardhaya. It would also be possible simply to read ávardhayaḥ with both pādas: “you have strengthened us in battles (and) have strengthened heaven …”]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let those enjoy in whom thou art delighted. Indra, drink Soma for thy strength and gladness.  
      Thou hast exalted us to heaven, Preserver, in battles, through the lofty hymns that praise thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dir sollen sie verlangen, an denen du dich zu berauschen pflegst. Trink dich satt, trink tüchtig Soma, Indra ! Stärke uns fein in den Kämpfen, du Überwinder ! Du stärktest den Himmel durch die hohen Schlachtgesänge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen trinken, was du, Indra, gern hast, o trinke tüchtig, recht nach Lust den Soma; In unsern Kämpfen hilf uns schön, o Retter; den Himmel schmücktest du mit hellen Strahlen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так пусть же войдут дружелюбно (те соки сомы), которыми ты опьяняешься!  
 Пей сому досыта, мощно, о Индра!  

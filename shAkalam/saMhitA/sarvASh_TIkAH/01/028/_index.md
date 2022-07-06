@@ -9,7 +9,7 @@ unicode_script = "devanagari"
 ‘यत्र ग्रावा' इति पञ्चमं सूक्तं नवर्चम् । आदितः षडनुष्टुभः । ' आयजी' इत्याद्यास्तिस्रो गायत्र्यः । आदितश्चतसृणाम् इन्द्रो देवता । ततो द्वे उलूखलदेवत्ये । तदनन्तरभाविन्यौ उलूखलमुसलोभयदेवताके । अन्त्यायाः “ उच्छिष्टम्' इत्यस्याः हरिश्चन्द्राधिषवणचर्मसोमानामन्यतमो देवता । तथा च बृहद्देवतायामुक्तम्-' चर्माधिषवणीयं वा सोमं वान्त्या प्रशंसति'( बृहद्दे. ३. १०१ ) इति । तदुक्तमनुक्रमण्याम्-' यत्र ग्रावा नव षळनुष्टुबादि यच्चिद्ध्यौलूखल्यौ परे मौसल्यौ च प्रजापतेर्हरिश्चन्द्रस्यान्त्या चर्मप्रशंसा वा' इति । आद्याश्चतस्रः अञ्जःसवे होमे विनियुक्ताः । पञ्चम्याद्याश्चतस्रः अभिषवे। अन्त्या द्रोणकलशे सोमावनयने । तथा च ब्राह्मणम्-' अथ हैतं शुनःशेपोऽञ्जःसवं ददर्श तमेताभिश्चतसृभिरभिसुषाव यच्चिद्धि त्वं गृहेगृह इत्यथैनं द्रोणकलशमभ्यवनिनायोच्छिष्टं चम्वोर्भरेत्येतयर्चाथ हास्मिन्नन्वारब्धे पूर्वाभिश्चतसृभिः सस्वाहाकाराभिर्जुहवांचकार' (ऐ. बा. ७. १७) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 28  
 Indra (1–4), the Mortar (5–6), the Mortar and Pestle (7–8),  Prajāpati Hariścandra or the Soma-Pressing Hide (9)  
@@ -24,7 +24,7 @@ Since one of the aims of introducing the Sacrificer’s Wife into ritual was to 
 And what does our poet think about the new model? Although treating the  soma-pressing as if it were a cooking demonstration might seem to debase and  desolemnize it, the cheerful tone and the reassuring presence of Indra, the consum mate soma-drinker (who also seems to favor the introduction of the Wife in other  hymns), appears to indicate approval of the ritual innovation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra (Abbreviated Soma Rite) See introduction. for detailed discussion of my interpretation of the context of the hymn, which differs significantly from the standard view. I discuss this further in a treatment of the prehistory of the śrauta/gṛhya ritual split: “Vedic Ritual: The Sacralization of the Mundane and the Domestication of the Sacred” (Thite Fs., 2019, ed. Lauren Bausch).
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्वा꣡हा त्वा सुम꣡नसः सुच꣡क्षसः  
 प्रजा꣡वन्तो अनमीवा꣡ अ꣡नागसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 जियो꣡ग् जीवाः꣡ प्र꣡ति पश्येम सूरिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त्ऽयन्त॑म् । त्वा॒ । मि॒त्र॒ऽम॒हः॒ । दि॒वेऽदि॑वे । ज्योक् । जी॒वाः । प्रति॑ । प॒श्ये॒म॒ । सू॒र्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāhā*
 - \[adverb\]
@@ -126,37 +126,37 @@ genre M
 हे **सूर्य** **त्वा** त्वां **सुमनसः** प्रीतियुक्तमनस्काः **सुचक्षसः** सुदर्शनाः **प्रजावन्तः** पुत्राद्युपेताः **अनमीवाः** रोगरहिताः **अनागसः** अपराधवर्जिताश्च वयं **विश्वाहा** सर्वदा यजेमेति शेषः । किंच हे **मित्रमहः** मित्राणां पूजयितः **सूर्यं** **दिवेदिवे** प्रतिदिनम् **उद्यन्तम्** उदयं प्राप्नुवन्तं **त्वा** त्वां **ज्योक्** चिरं **जीवाः** जीवन्तो वयं **प्रति** **पश्येम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, constantly happy in mind, sound of sight, blessed with posterity, exempt from sickness,devoid of sin, daily (worship you); may we, enjoying long life behold you, **Sūrya**, who are the cherisher of yourfriends rising day by day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Always may we—of good mind, of good eye, rich in offspring, without  disease, without blame—  
 living a long time look upon you rising every day, o Sun who have  
 Mitra’s might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cheerful in spirit, evermore, and keen of sight, with store of children, free from sickness and from sin,  
      Long-living, may we look, O Surya, upon thee uprising day by day, thou great as Mitra is!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchten wir dich allezeit, Gutes denkend, Gutes schauend, kinderreich, ohne Krankheit, ohne Sünde, dich, wie ein Freund Geehrter, Tag für Tag noch lange lebend wieder aufgehen sehen, o Surya.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit frohem Sinn und hellem Auge immerdar, an Kindern reich und ohne Krankheit, ohne Schuld, O Freundereicher, mögen wir dich Tag für Tag aufsteigen sehn, noch lange lebend, Sonnengott!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Повсюду тебя (мы,) благожелательные, с добрым взглядом,  
 Имея потомство, без болезней, невиновные,  

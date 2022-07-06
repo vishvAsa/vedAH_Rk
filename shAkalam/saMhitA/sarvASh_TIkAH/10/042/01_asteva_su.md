@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्तेव सु꣡ प्रतरं꣡ ला꣡यम् अ꣡स्यन्  
 भू꣡षन्न् इव प्र꣡ भरा स्तो꣡मम् अस्मै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ रामय जरितः सो꣡म इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वा॒चा । वि॒प्राः॒ । त॒र॒त॒ । वाच॑म् । अ॒र्यः । नि । र॒म॒य॒ । ज॒रि॒त॒रिति॑ । सोमे॑ । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asteva* ← *astā* ← *astṛ*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 **प्रतरं** प्रवृद्धतरं **लायं** संश्लेषणं हृदयवेधिनं शरं **सु** सुष्ठु **अस्यन्** क्षिपन् **अस्तेव** यथा क्षेप्ता धानुष्कः **भूषन्निव** यथा च अलंकारमलंकुर्वन् अलंकर्ता तद्वत् **स्तोममस्मै** इन्द्राय **प्र** **भर** प्रापय । हे अन्तरात्मन् त्वमिति शेषः । किंच हे **विप्राः** मेधाविनः यूयं **वाचा** स्तुत्या **अर्यः** अरेः शत्रोः **वाचं** **तरत** नितरां तरत । निराकुरुतेत्यर्थः॥ हे **जरितः** स्तोतः त्वं **सोमे** सोमयागे **इन्द्रं** **नि** **रमय** क्रीडय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 A larger arrow: lāyam = adhering, from li, i.e., heart-poiercing arrow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like an archer in ambush who shoots farther, like a busy attendant,  bring forth the praise song for him.  
 With your speech, o inspired poets, surpass the speech of the stranger.  Bring Indra to rest at our soma, o singer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EVEN as an archer shoots afar his arrow, offer the laud to him with meet adornment.  
      Quell with your voice the wicked's voice, O sages. Singer, make Indra rest beside the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Schütze, der geduckt recht weit schießt, wie einer, der zum Empfang bereit ist, bring ihm das Loblied dar! Ihr Redekundigen, überbietet mit eurer Rede die Rede des Nebenbuhlers; halte, o Sänger, Indra beim Soma an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Schützen gleich weit werfend meine Lanze, bring' ich ihm Lob dar wie ein Trankbereiter; Durch Lied besiegt des Feindes Lied, o Barden, den Indra fessle, Sänger, bei dem Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как стрелок, посылающий стрелу очень далеко,  
 Как тот, кто готов, вознеси ему хвалу!  

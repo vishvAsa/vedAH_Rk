@@ -8,7 +8,7 @@ title = "+038"
 ' उदु ष्यः ' इत्येकादशर्चं षष्ठं सूक्तं गार्त्समदं त्रैष्टुभं सवितृदेवताकम् । अत्रानुक्रमणिका- ' उदु ष्य एकादश सावित्रम् ' इति । व्यूढे दशरात्रे षष्ठेऽहनि वैश्वदेवशस्त्रे एतत्सूक्तं सावित्रनिविद्धानीयम् । ' व्यूळ्हश्चेत् ' इति खण्डे सूत्रितं-' षष्ठस्योदु ष्य देव इति गार्त्समदम् ' ( आश्व. श्रौ. ८.८) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (229)  
 Savitar  
@@ -18,7 +18,7 @@ This hymn is typically, and in our view rightly, identified as an evening hymn, 
 that as it may, most of the images in the hymn are applicable to evening in general. The first six verses present a lovely series of images of the quiet and rest that  evening brings to the natural and the human world—almost ironically because the  daily round of busy movement ceases at the “impulsion” of the “Impeller” (the  literal meaning of Savitar). In the following two verses (7–8), Savitar’s ability to  bring each creature to its home place at night is extended: he also has assigned to  all categories of creatures their proper position in the natural world. The remainder  of the hymn celebrates the power of Savitar even over the gods (vs. 9) and asks for  his gifts (10–11). The latter verse makes reference to Savitar’s distribution of beings  to their separate realms by asking for gifts from heaven, the waters, and the earth.  Savitar’s apportioning of benefits in these last verses return us to the theme of the  first verse (1cd), which announced his gifts to gods and to the mortal sacrificer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Savitar The word vratá- ‘commandment’ is prominent in this hymn (vss. 2, 3, 6, 7, 9).
 

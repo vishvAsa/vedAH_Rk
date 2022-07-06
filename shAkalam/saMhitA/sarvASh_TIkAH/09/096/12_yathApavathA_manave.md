@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था꣡पवथा म꣡नवे वयोधा꣡  
 अमित्रहा꣡ वरिवोवि꣡द् धवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रे सं꣡ तिष्ठ जन꣡या꣡युधानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ए॒व । प॒व॒स्व॒ । द्रवि॑णम् । दधा॑नः । इन्द्रे॑ । सम् । ति॒ष्ठ॒ । ज॒नय॑ । आयु॑धानि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathāpavathā* ← *yathā*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M
 हे सोम **यथा** पुरा त्वं **मनवे** राज्ञे **वयोधाः** अन्नस्य धाता तथा **अमित्रहा** शत्रूणां हन्ता **वरिवोवित्** धनस्य लम्भयिता **हविष्मान्** पुरोडाशादियुक्तः सन् **अपवथाः** तस्मै धनादिकं प्रदातुं यथागच्छः एवमस्मभ्यमपि **द्रविणं** धनं **दधानः** प्रयच्छन् **पवस्व** अस्मदभिमुखमागच्छ । किंच अस्माभिर्दीयमानस्त्वम् **इन्द्रे** **सं** **तिष्ठ** सम्यक् तिष्ठ । अपि च **आयुधानि** त्वदीयानि **जनय** तस्मै प्रकाशय । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you did flow to **Manu** possessing food, slaying enemies, acquiring wealth, having oblations, so now flow bringing us riches; abide you in **Indra**; make manifest (your) weapons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even as you purified yourself for Manu, as conferrer of vitality, smiter  of foes, finder of wide space, accompanied by oblations,  
 just so purify yourself now, conferring wealth. Stand side-by-side by  Indra. Generate weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As pointed out in the published introduction, this vs. is strongly marked as a hymnfinal vs., with complementary yáthā ‘even as’ (ab) and evā́‘in just this way’ (cd) clauses, bringing this 4-versed hymn to a close. The matches between clauses are more expicit than in some such structures: the two finite verbs, impf. ápavathāḥ and impv. pavasva, match exactly save for tense/mood, and the root noun cmpd. vayodhā́ḥ of pāda a is recast as a syntagm dráviṇaṃ dádhānaḥ in c with the same root √dhā.
 
@@ -154,23 +154,23 @@ The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As thou didst flow for Manu Life-bestowing, Foe-queller, Comforter, rich in oblations,  
      Even thus flow onward now conferring riches: combine with Indra, and bring forth thy weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du dich für Manu kraftspendend geläutert hast, die Feinde erschlagend, einen Ausweg findend, von Opferspenden begleitet, so läutere dich Reichtum bringend! Geselle dich zu Indra, bring deine Waffen zum Vorschein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du dem Manu strömtest, Kraft verleihend, die Feinde schlagend, Segen spendend, trunkreich, So riesle jetzt auch, reiche Schätze schenkend, mit Indra steh und schaffe ihm die Waffen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как очищался ты для Ману, давая телесную силу,  
 Убивая недругов, создавая широкий простор, сопровождаемый возлияниями,  

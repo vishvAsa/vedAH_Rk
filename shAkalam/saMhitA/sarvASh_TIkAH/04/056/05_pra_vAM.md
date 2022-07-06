@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वाम् म꣡हि द्य꣡वी अभि꣡  
 उ꣡पस्तुतिम् भरामहे  
 शु꣡ची उ꣡प प्र꣡शस्तये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 शुची॒ इति॑ । उप॑ । प्रऽश॑स्तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -81,19 +81,19 @@ genre M
 हे द्यावापृथिव्यौ **द्यवी** द्योतमाने **वां** युवाभ्याम् **उपस्तुतिं** स्तोत्रं **महि** महत् प्रभूतम् **अभि** **प्र** **भरामहे** प्रकर्षेण संपादयामः । **शुची** शुद्धे युवां **प्रशस्तये** प्रशंसितुम् **उप** । उपसर्गश्रुतेरुचितक्रियाध्याहारः । उप गच्छाम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We offer earnest praise you both resplendent (Heaven and Earth); we approach you who are pure to offer adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We present to you two, great (Earth and) Heaven, a praise-invocation to be proclaimed to you two gleaming ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase máhi dyávī is very problematic morphologically. It echoes the first two words of the hymn: mahī́dyā́vāpṛthivī “great Heaven and Earth,” but in a very refracted form. I do not have a solution for how it came to take the form it has (for various suggestions, see Oldenberg and the standard tr., as well as lit. cit. therein, e.g.
 
@@ -106,23 +106,23 @@ I can spin a line of analogies: dyávī is a rough-and-ready nominative sg., bui
 But I can’t imagine why anyone would create such a form, particularly to a stem so well known to every RVic poet. If it participated in a phonetic or semantic figure, there might be motivation but I see none.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To both of you, O Heaven and Earth, we bring our lofty song of praise,  
      Pure Ones! to glorify you both.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir tragen euch beiden, dem großen Himmel und der Erde das Preislied vor; wir besingen die lauteren zum Ruhme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Erd' und Himmel bringen wir entgegen unsern Preisgesang, Euch reinen zur Verherrlichung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вам двоим, о великие Небо и Земля,  
 Мы приносим хвалебную песнь,  

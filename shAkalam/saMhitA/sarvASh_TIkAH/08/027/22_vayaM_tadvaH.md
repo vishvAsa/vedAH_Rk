@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ त꣡द् वः सम्राज आ꣡ वृणीमहे  
 पुत्रो꣡ न꣡ बहुपा꣡यियम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ये꣡न व꣡स्यो ऽन꣡शामहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒श्याम॑ । तत् । आ॒दि॒त्याः॒ । जुह्व॑तः । ह॒विः । येन॑ । वस्यः॑ । अ॒नशा॑महै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -117,37 +117,37 @@ genre M
 हे **सम्राजः** सम्यग्दीप्यमाना देवाः **पुत्रो** **न** । एकवचनं छान्दसम् । युष्माकं पुत्रा इव स्थिताः पुत्रा यथा पितृभिः पोष्यास्तद्वद्युष्माभिः पोष्याः **वयम्** । **बहुपाय्यं** बहुभिर्भोज्य **वः** युष्मत्संबन्धि **तत्** धनम् **अश्याम** प्राप्नुयाम । **येन** धनेन **वस्यः** वसीयोऽतिशयेन वसुमत्वम् **अनशामहै** अश्नवामहै प्राप्नुमः ॥ अश्नोतेर्लोटि व्यत्ययेन श्नम्प्रत्ययः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit of you, resplendent deities, as a son (of a father), that which is to be enjoyed by many;offering oblations, may we obtain that (wealth), **Ādityas**, by which we may possess abundance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would choose this much-protecting (shelter) of yours, o sovereign  kings, as a son would (his father’s shelter).  
 May we, pouring the oblation, reach that by which we shall reach a  
 better (state), o Ādityas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then we, imperial Rulers, claim of you this boon, your wide protection, as a son.  
      May we, Adityas, offering holy gifts, obtain that which shall bring us greater bliss.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So erbitten wir von euch, ihr Allherrscher, diesen viele schützenden Schirm wie ein Sohn. Wir wollen Opfer opfernd das erreichen, ihr Aditya´s, daß wir zum Glück kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wünschen wir von euch den Schutz, der viele schirmt, o Allgebieter, wie ein Sohn; Uns Opfergiessern schenkt, Aditja's, solches Gut, wodurch noch schönres wir empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы у вас, о вседержители, выбираем это,  
 Дающее большую защиту, как сын (у отца).  

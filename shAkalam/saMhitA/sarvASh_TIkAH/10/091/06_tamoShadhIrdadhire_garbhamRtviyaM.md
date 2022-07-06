@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ओ꣡षधीर् दधिरे ग꣡र्भम् ऋत्वि꣡यं  
 त꣡म् आ꣡पो अग्निं꣡ जनयन्त मात꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अन्त꣡र्वतीश् च सु꣡वते च विश्व꣡हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । इत् । स॒मा॒नम् । व॒निनः॑ । च॒ । वी॒रुधः॑ । अ॒न्तःऽव॑तीः । च॒ । सुव॑ते । च॒ । वि॒श्वहा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 **ऋत्वियम्** ऋतौ प्राप्तं **गर्भं** गर्भभूतं तं प्रकृतमग्निम् **ओषधीः** ओषध्यः **दधिरे** धारयन्ति । **तम्** एव **अग्निं** **मातरः** धारकत्वेन मातृस्थानीया **आपः** च **जनयन्त** जनयन्ति । किंच **वनिनः** वनस्पतयः **च** **समानं** गर्भभावेन प्रवेशात् स्वतुल्यं **तमित्** तमेवाग्निं जनयन्ति । किंच तमेवाग्निम् **अन्तर्वतीः** गर्भवत्यः **वीरुधः** ओषधयः **च** **विश्वहा** सर्वदा **सुवते** जनयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ genre M
 Samānam = equal to (or like)themselves, since he enters them as an embryo
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The plants conceived him as their embryo at the proper season; the  waters as his mothers begot this Agni.  
 Both the woody (plants) and the sprouts (become) pregnant and give  birth to him who is just the same everywhere.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, duly coming as their germ, have plants received: this Agni have maternal Waters brought to life.  
      So in like manner do the forest trees and plants bear him within them and produce him evermore.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn empfingen die Pflanzen als rechtzeitige Leibesfrucht; den Agni erzeugten die Gewässer als seine Mutter. Mit ihm gehen gleichmäßig die Bäume und die Gewächse schwanger und gebären ihn allezeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Keim empfingen Pflanzen ihn zu rechter Zeit, als Mütter haben die Gewässer ihn erzeugt, Denselben nun die Bäume und die Kräuter auch, und immerdar gebären ihn die schwangeren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его усвоили растения как своевременную завязь.  
 Этого Агни воды породили как матери.  

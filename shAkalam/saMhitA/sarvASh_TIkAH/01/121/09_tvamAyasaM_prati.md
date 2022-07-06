@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् आयस꣡म् प्र꣡ति वर्तयो गो꣡र्  
 दिवो꣡ अ꣡श्मानम् उ꣡पनीतम् ऋ꣡भ्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छु꣡ष्णम् अनन्तइः꣡ परिया꣡सि वधइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कुत्सा॑य । यत्र॑ । पु॒रु॒ऽहू॒त॒ । व॒न्वन् । शुष्ण॑म् । अ॒न॒न्तैः । प॒रि॒ऽयासि॑ । व॒धैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -111,7 +111,7 @@ genre M
 हे इन्द्र **त्वं** **गोः** गन्तुः शुष्णस्यासुरस्य वधार्थम् **आयसम्** अयोमयं वज्रं **प्रति** **वर्तयः** आभिमुख्येन व्यसृजः । कीदृशं वज्रम् । **दिवः** द्युलोकात् **ऋभ्वा** दीप्तेन त्वष्ट्रा **उपनीतम्** आनीतम् **अश्मानं** शीघ्रं शत्रोर्व्यापकम् । **यत्र** यदा हे **पुरुहूत** पुरुभिर्बहुभिः स्तोतृभिराहूतेन्द्र **कुत्साय** एतत्संज्ञाय ऋषये **शुष्णं** शोषकमसुरम् **अनन्तैः** निरवधिकैः **वधैः** हननसाधनैरायुधैः **वन्वन्** हिंसन् **परियासि** परितः गच्छसि । तदानीं तद्वधार्थं वज्रं प्रत्यवर्तयः इत्यर्थः । अश्मानम् । अशू व्याप्तौ । अन्येभ्योऽपि दृश्यन्ते ' इति मनिन् । ऋभ्वा ।' जसादिषु च्छन्दसि वावचनम्' इति नाभावस्य विकल्पितत्वादभावे यणादेशः । वन्वन् । 'वनु याचने' । अत्र हिंसार्थः । तथा च यास्कः -- ‘वनुष्यतिर्हन्तिकर्मानवगतसंस्कारो भवति' ( निरु. ५. २ ) इति । वधैः ।  ‘ हनश्च वधः' इति हन्तेः करणे अप्; तत्संन्नियोगेन वधादेशश्च । स चान्तोऽन्तोदात्तः । तस्य अतो लोपे सति उदात्तनिवृत्तिस्वरेण प्रत्ययस्योदात्तत्वम् ॥हे इन्द्र **त्वं** **गोः** गन्तुः शुष्णस्यासुरस्य वधार्थम् **आयसम्** अयोमयं वज्रं **प्रति** **वर्तयः** आभिमुख्येन व्यसृजः । कीदृशं वज्रम् । **दिवः** द्युलोकात् **ऋभ्वा** दीप्तेन त्वष्ट्रा **उपनीतम्** आनीतम् **अश्मानं** शीघ्रं शत्रोर्व्यापकम् । **यत्र** यदा हे **पुरुहूत** पुरुभिर्बहुभिः स्तोतृभिराहूतेन्द्र **कुत्साय** एतत्संज्ञाय ऋषये **शुष्णं** शोषकमसुरम् **अनन्तैः** निरवधिकैः **वधैः** हननसाधनैरायुधैः **वन्वन्** हिंसन् **परियासि** परितः गच्छसि । तदानीं तद्वधार्थं वज्रं प्रत्यवर्तयः इत्यर्थः । अश्मानम् । अशू व्याप्तौ । अन्येभ्योऽपि दृश्यन्ते ' इति मनिन् । ऋभ्वा ।' जसादिषु च्छन्दसि वावचनम्' इति नाभावस्य विकल्पितत्वादभावे यणादेशः । वन्वन् । 'वनु याचने' । अत्र हिंसार्थः । तथा च यास्कः -- ‘वनुष्यतिर्हन्तिकर्मानवगतसंस्कारो भवति' ( निरु. ५. २ ) इति । वधैः ।  ‘ हनश्च वधः' इति हन्तेः करणे अप्; तत्संन्नियोगेन वधादेशश्च । स चान्तोऽन्तोदात्तः । तस्य अतो लोपे सति उदात्तनिवृत्तिस्वरेण प्रत्ययस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ Brought by Ṛbhu from heaven: divo ānītam Ṛbhvā;
 Ṛbhu = **Tvaṣṭā**, fabricator of **Indra**'s thunderbolt. Śuṣṇa = drought; Indra removes drought for the benefit of his worshippers,by many drops of rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ingenious, you rolled back from the cow the metallic stone of heaven,  which had been brought nearby,  
 when, o much-invoked one, vanquishing Śuṣṇa, you kept encircling him  with endless deadly weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The puzzle in this verse is what is happening to the cow (góḥ) -- which depends on what case the word is in and on the interpretation of the VP práti vartayaḥ … áśmānam. If the VP is taken as hostile (“turn the stone against X”), góḥ is difficult to fit in, since as a gen.-abl. it can’t easily be a target. See the standard tr., plus Hoffmann (Inj. 191), for various attempts to wrestle with this possibility.
 
@@ -139,23 +139,23 @@ However, the VP can instead mean “roll the stone back,” with góḥ an ablat
 Another problem is the present tense pariyā́si of d, in a hymn otherwise couched in the mythological past. In conjunction with anantá- ‘endless’, I suggest that the present is used here to express a past continuative ‘kept Xing’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hurledst forth from heaven the iron missile, brought by the Skilful, from the sling of leather,  
      When thou, O Much-invoked, assisting Kutsa with endless deadly darts didst compass Susna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du kehrtest geschickt den dargereichten ehernen Spieß der Kuh in den Himmelskeil um, wobei du Vielgerufener für Kutsa Partei nehmend den Susna mit endlosen Streichen einholest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schleudertest den eisernen, von Ribhu geschenkten Keil des Himmels aus dem Riemen, Als, vielgerufner, du dem Kutsa helfend mit Hieben ohne Zahl den Çuschna anfielst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты заставил повернуть железную (ваджру с ремнем) из коровьей (кожи),  
 Небесную пращу, принесенную искусным (Тваштаром?),  

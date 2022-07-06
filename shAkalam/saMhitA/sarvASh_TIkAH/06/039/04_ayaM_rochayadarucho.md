@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ रोचयद् अरु꣡चो रुचानो꣡  
 अयं꣡ वासयद् वि꣡ ऋते꣡न पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवर्वि꣡दा ना꣡भिना चर्षणिप्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । ई॒य॒ते॒ । ऋ॒त॒युक्ऽभिः॑ । अश्वैः॑ । स्वः॒ऽविदा॑ । नाभि॑ना । च॒र्ष॒णि॒ऽप्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -110,20 +110,20 @@ genre M
 **अयम्** इन्द्रः **रुचानः** रोचमानः सूर्यात्मना दीप्यमानः **अरुचः** प्रकाशरहितान् तमसा मलीमसान् सर्वलोकान् **रोचयत्** प्रकाशयति । तथा **पूर्वीः** बह्वीरुषसश्च **अयम्** इन्द्रः **ऋतेन** सत्यभूतेन सर्वत्र गमनशीलेन वा तेजसा **वि** **वासयत** व्यापयति । तत्रत्यानि तमांसि निवर्तयतीत्यर्थः । तथा **ऋतयुग्भिः** ऋतेन स्तोत्रेण युज्यमानैः **अश्वैः** **नाभिना** संनद्धेन **स्वर्विदा** सुष्ट्वरणीयस्य धनस्य लम्भकेन रथेन **चर्षणिप्राः** चर्षणीनां मनुष्याणां कामैः पूरयिता सन् **अयम्** एवेन्द्रः **ईयते** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This radiant (**Indra**) has illumined the non-radiant (worlds); he has pervaded many dawns with true lustre the benefactor of men moves in (a chariot) drawn by horses, harnessed by praise, laden with riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here, himself shining, makes the unshining ones shine. This one  makes the many (dawns) dawn forth through truth.  
 This one speeds with his horses whose yoke is truth, with his sun-finding  (wheel-)nave, as he fills the domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Whether the referent of the ‘unshining’ (arúcaḥ) is the same as that of the ‘unlit’ (adyútaḥ) of 3a, namely the nights (aktū́n 3a), is unclear. Hoffmann suggests so, with ?, and I see nothing against it. Both adyút- and arúc- are hapaxes in the RV, so we can’t bring to bear other usages of these words.
 
@@ -146,23 +146,23 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He shone and caused to shme the worlds that shone not. By Law he lighted up the host of Mornings.  
      He moves with Steeds yoked by eternal Order, contenting men with nave that finds the sunlight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser erleuchtete leuchtend die lichtlosen Welten; dieser hat zu rechter Zeit die vielen Morgen scheinen lassen. Dieser fährt mit den rechtzeitig geschirrten Rossen, mit der sonnebringenden Nabe die Länder erfüllend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die lichtlos waren, machte licht der lichte, nach heil'gem Brauch erhellte er die vielen Er eilt mit den durch Recht geschirrten Rossen mit segensreicher Nabe Welt durchdringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сверкающий вызвал сверкание несверкавших (миров).  
 Этот зажег по закону многие (утренние зори).  

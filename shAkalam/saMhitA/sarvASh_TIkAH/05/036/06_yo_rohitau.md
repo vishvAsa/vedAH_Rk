@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ रो꣡हितौ वाजि꣡नौ वाजि꣡नीवान्  
 त्रिभिः꣡ शतइः꣡ स꣡चमानाव् अ꣡दिष्ट  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रुत꣡रथाय मरुतो दुवोया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यूने॑ । सम् । अ॒स्मै॒ । क्षि॒तयः॑ । न॒म॒न्ता॒म् । श्रु॒तऽर॑थाय । म॒रु॒तः॒ । दु॒वः॒ऽया ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -112,44 +112,44 @@ genre M
 सम्भानुनेतिपञ्चर्चं पञ्चमंसूक्तं अत्रेर् आर्षन् त्रैष्टुभम् ऐन्द्रं - सम्भानुना पञ्चात्रिर् इत्य् अनुक्रमणिका। विनियोगो लैङ्गिकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, may all men bow in obedience to that youthful Śrutaratha, the possessor of abundance, who has bestowed (upon us) two bay steeds accompanied by three hundred (cattle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who, possessing prizewinning mares, has allotted (to me) two  prizewinning chestnuts accompanied by three hundred (cows?),  
 to him, the youth, let the settled peoples together do homage, to  
 Śrutaratha, o Maruts, in friendship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sudden intrusion of the Maruts here is somewhat puzzling, but final vss.
 
 often open out to a wider set of gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maruts, let all the people in obeisance bow down before this youthful Srutaratha,  
      Who, rich in steeds, gave me two dark red horses together with three hundred head of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor diesem jugendlichen Srutaratha sollen sich die Stämme ehrerbietig verneigen, ihr Marut, der reichbelohnend zwei siegreiche Rotfüchse von dreihundert Kühen begleitet uns bestimmt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem rosserreichen, der zwei rothe Rosse, verbunden mit dreihundert Gaben schenkte Çrutaratha, dem Jüngling, mögen huld'gen die Völker all', o Maruts, mit Bewundrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) богатый дарами, который назначил (нам) двух ярко-рыжих  
 Победоносных коней, сопровождаемых тремя сотнями (коров), -  

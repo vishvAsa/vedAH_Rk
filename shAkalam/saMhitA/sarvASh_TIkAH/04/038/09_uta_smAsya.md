@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म अस्य पनयन्ति ज꣡ना  
 जूतिं꣡ कृष्टिप्रो꣡ अभि꣡भूतिम् आशोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रा दधिक्रा꣡ असरत् सह꣡स्रैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒त । ए॒न॒म् । आ॒हुः॒ । स॒म्ऽइ॒थे । वि॒ऽयन्तः॑ । परा॑ । द॒धि॒ऽक्राः । अ॒स॒र॒त् । स॒हस्रैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -116,41 +116,41 @@ genre M
 **उत** **स्म** अपि च खलु **अस्य** दधिक्राव्णः **अभिभूतिम्** अभिभवित्रीं **जूतिं** पराभिभूतिं चेत्युभयं वा जनाः **पनयन्ति** स्तुवन्ति । कीदृशस्यास्य । **कृष्टिप्रः** । कृष्टयो मनुष्याः । तेषां पूरकस्य **आशोः** व्याप्तस्य वेगवतो वा । **उत** अपि च **एनं** **समिथे** संग्रामे **वियन्तः** विविधं गच्छन्तो जना अयं **दधिक्राः** देवः **सहस्रैः** अनुचरैः परिवृतः **परा** **असरत्** इति अस्मान् विहायान्यान् हन्तुं गत इति **आहुः** । यद्वा । एनमेवमाहुः । वियन्तः शत्रवः परा । भवन्तीति शेषः । दधिक्राः सहस्रैरसरत् गच्छतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men praise the overpowering rapidty of that fleet (steed), who is the accomplisher (of the desires) of mankind, and following him to battle, they have said, Dadhikrā with (his) thousands has gone forth against the foe.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the peoples admire the speed of him who fills the territories, the  superiority of the swift one.  
 And they say about him as they disperse at the encounter: “Dadhikrā has run away with thousands.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg points out, the contrastive lexemes sám √i and ví √i are juxtaposed in samithé viyántaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The people praise the overpowering swiftness of this fleet Steed who giveth men abundance.  
      Of him they say when drawing back from battle. Dadhikras hath sped forward with his thousands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Leute preisen laut seine Schnelligkeit, die Überlegenheit des Renners, der alle Länder erfüllt. Und sie sagen von ihm, wenn sie auf dem Kampffeld auseinandergehen; Dadhikra ist mit Tausenden abgezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und seinen Lauf bewundern alle Menschen, die Uebermacht des schnellen Weltdurchdringers, Und von ihm sagen die im Kampfe fliehen: Dadhikra ist mit Tausenden entflohen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: люди славят его скорость, превосходство  
 Быстрого (коня,) заполняющего страны.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ वां नासतिया  
 उक्थइ꣡र् आचुच्युवीम꣡हि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 एवे꣡त् काण्व꣡स्य बोधतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यत् । वा॒ । वाणी॑भिः । अ॒श्वि॒ना॒ । ए॒व । इत् । का॒ण्वस्य॑ । बो॒ध॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -96,7 +96,7 @@ genre M;; repeated line
 हे नासत्यौ **अद्य** इदानीम् **उक्थैः** शस्त्रैः **यत्** यथा येन प्रकारेण **वां** युवाम् **आचुच्युवीमहि** आगमयेम हे अश्विनौ **यद्वा** यथा **वाणीभिः** उक्थव्यतिरिक्ताभिरपि वाग्भिः स्तुतिभिः युवामागमयेम **एवेत्** एवमेव तथैव **काण्वस्य** मम तदुक्थादिकं **बोधतम्** अवगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,14 +107,14 @@ genre M;; repeated line
 "Regard (the prayers) of me, the son of **Kāṇva**, that we may bring you down by these prayers andpraises"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If today we would move you with our hymns, o Nāsatyas,  
 or with our voices, o Aśvins, even so, take note only of the son  
 of Kaṇva.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last pāda of the verse (d) is identical with the last pāda of vs. 3 (c), but the point is very different. In vs. 3 the poet asks the Aśvins to pay attention only to him despite the activities of other poets; here it’s “we” who are moving the Aśvins, but the poet still asks for their exclusive attention. Given the constant interchange between 1st singular and plural in ritual situations, I find it difficult to think that the poet is trying to distance himself from his priestly comrades and get the Aśvins all to himself. But I don’t have a good explanation.
 
@@ -133,23 +133,23 @@ has full grade in some kind of imitation of the full grade of act. 3rd pl. imper
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, O Nasatyas, we this day make you speed hither with our hymns,  
      Or, Asvins, with our songs of praise, remember Kanya specially.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir heut euch Nasatya´s durch Lobgedichte hertreiben könnten oder durch die Gesangestimmen, o Asvin, so achtet ja des Kanvasohnes!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei's, dass wir heut durch Sprüche euch herbeiziehn, o wahrhaftige, O Ritter, sei's durch Chorgesang, so achtet auf den Kānva recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если б мы могли сегодня, о Насатьи,  
 Пригнать вас гимнами,  

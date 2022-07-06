@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युष्मा꣡दत्तस्य मरुतो विचेतसो  
 रायः꣡ सियाम रथि꣡यो व꣡यस्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ रारन्त मरुतः सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । यः । युच्छ॑ति । ति॒ष्यः॑ । यथा॑ । दि॒वः । अ॒स्मे इति॑ । र॒र॒न्त॒ । म॒रु॒तः॒ । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuṣmādattasya* ← *yuṣmādatta*
 - \[noun\], genitive, singular, masculine
@@ -107,7 +107,7 @@ genre M
 हे **विचेतसः** विविधप्रज्ञा हे **मरुतः** **युष्मादत्तस्य** युष्माभिर्दत्तस्य **वयस्वतः** अन्नवतः **रायः** धनस्य **स्याम** भवेम स्वामिनः । के। **रथ्यः** रथस्वामिनो वयम् । **यः** युष्माभिर्दत्तो राः **न** **युच्छति** न च्यवते । **यथा** **दिवः** सकाशात् **तिष्यः** आदित्यो न युच्छति । तथा **अस्मे** अस्मासु **सहस्रिणम्** अपरिमितं **रारन्त** रमयत हे **मरुतः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,13 +118,13 @@ genre M
 Tiṣya: = **Āditya**; it is the eighth lunar mansion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we be the charioteers of the vigorous wealth given by you,  discriminating Maruts,  
 which does not stay away (from us), any more than Tiṣya [=Dog Star]  from heaven. By us enjoy (wealth) in thousands, Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb in d, rāranta, presents difficulties both morphologically and semantically. Formally it has received a variety of analyses: Grassmann classifies it (impossibly) with √radh ‘subdue’; as Oldenberg notes, in context it would best belong to √rā ‘give’, but it is hard to make this work formally. Given the long redupl.
 
@@ -135,23 +135,23 @@ classifies it as a med. (3rd sg.) injunc. to that root, but there are no other m
 impv., with (as often) irregular full grade (see also Geldner n. 13d). This poses problems semantically. It should mean ‘enjoy’, with the Maruts as subject. The gapped obj. is qualified by sahasrín- ‘possessing/in thousands’; as Renou points out, this is a stable epithet of rayí- ‘wealth’. And this is the problem: the Maruts have just given us wealth; we should be the ones enjoying it. Gods never enjoy wealth -- they distribute it. Geldner suggests in his n. that the thousandfold wealth they enjoy is “in Gestalt von Opfern,” which is certainly a good try (probably the best available). Oldenberg tries to make the verb into what looks like a reflexive causative: “macht [den Reichtum] bei uns sich erfreuen” -- that is, the Maruts should make the wealth be happy to stay by us. Witzel Gotō go one step further in the causativization process: “(An diesem Reichtum) … macht, dass man sich hier bei uns daran freue … am tausendfachen.” But these last two attempts to separate the Maruts from the enjoyment are unconvincing, because no other forms to this stem show this causative tendency. I think we must stick with the meaning imposed by parallel forms (so also Renou) and deal, perhaps as Geldner does, with the Maruts enjoying riches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sage Maruts, may we be the drivers of the car of riches ful I of life that have been given by you.  
      O Maruts, let that wealth in thousands dwell with us which never vanishes like Tisya from the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr klugen Marut, wir möchten Lenker des von euch geschenkten lebenskräftigen Reichtums sein, der nicht von uns weicht, so wenig wie Tisya vom Himmel. Bei uns freuet euch an dem tausendfachen Reichtum, ihr Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O weise Maruts, lasst uns Wagenlenker sein des labungsreichen uns von euch geschenkten Guts, Das nicht sich fern hält wie des Himmels Glanzgestirn; o Maruts gebt uns tausend Güter in die Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О прозорливые Маруты, пусть станем мы колесничими  
 Данного вами богатства, заключающегося в жизненной силе,  

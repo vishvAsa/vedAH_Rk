@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सोम पितृ꣡भिः संविदानो꣡  
 अ꣡नु द्या꣡वापृथिवी꣡ आ꣡ ततन्थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ सियाम प꣡तयो रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 तस्मै॑ । ते॒ । इ॒न्दो॒ इति॑ । ह॒विषा॑ । वि॒धे॒म॒ । व॒यम् । स्या॒म॒ । पत॑यः । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,41 +116,41 @@ genre D;; repeated line
 हे **सोम** **त्वं** **पितृभिः** सह **संविदानः** संगच्छमानः **द्यावापृथिवी** द्यावापृथिव्यौ **अनु** **आ** **ततन्थ** क्रमेण विस्तारयसि । **तस्मै** सोमाय **हविषा** **विधेम** परिचरेम । **वयं** **रयीणां** धनानां **पतयः** **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, you in conjunction with the fathers do stretch our successively heaven and earth-- to you let usdo worship with oblations, may we be lords of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, coming to agreement with the forefathers, extend through  heaven and earth.  
 To you, drop, we would do ceremonial honor with an oblation. May we  be lords of riches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Associate with the Fathers thou, O Soma, hast spread thyself abroad through earth and heaven.  
      So with oblation let us serve thee, Indu, and so let us become the lords of riches,
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Uniting with the Fathers thou, O Soma, Hast over Heaven and Earth thyself extended. So, Indu, we would serve thee with oblation: Thus we would be the lords of ample riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, bist mit den Vätern im Einvernehmen, du reichst so weit wie Himmel und Erde. Dir, o Saft, wollen wir darum mit Opfer aufwarten; wir wollen Herren der Reichtümer sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, du vereinigt mit den Vätern, hast dich verbreitet über Erd' und Himmel; Dem Indu möchten wir mit Opfer dienen, und möchten sein Besitzer aller Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, сома, находясь в согласии с отцами,  
 Простерся вдоль неба и земли.  

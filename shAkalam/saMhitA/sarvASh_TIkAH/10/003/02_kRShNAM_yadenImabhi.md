@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कृष्णां꣡ य꣡द् ए꣡नीम् अभि꣡ व꣡र्पसा भू꣡ज्  
 जन꣡यन् यो꣡षाम् बृहतः꣡ पितु꣡र् जा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवो꣡ व꣡सुभिर् अरति꣡र् वि꣡ भाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऊ॒र्ध्वम् । भा॒नुम् । सूर्य॑स्य । स्त॒भा॒यन् । दि॒वः । वसु॑ऽभिः । अ॒र॒तिः । वि । भा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṛṣṇāṃ* ← *kṛṣṇām* ← *kṛṣṇa*
 - \[noun\], accusative, singular, feminine
@@ -129,7 +129,7 @@ genre M
 सोऽग्निः **यत्** यदा **कृष्णां** कृष्णवर्णाम् **एनीं** गच्छन्तीं रात्रिं **वर्पसा** आत्मीयेन ज्वालालक्षणेन रूपेण **अभि** **भूत्** अभिभवति । किं कुर्वन् । **बृहतः** महतः **पितुः** सर्वस्य जगतः पालयितुः पितृभूताद्वादित्यात **जां** जायमानां **योषाम्** उषसं **जनयन्** अभिव्यञ्जयन्। तदानीम् **अरतिः** गमनशीलोsग्निः **दिवः** द्युलोकस्य **वसुभिः** वासयितृभिराच्छादकैः संधुक्षणसमर्थैरात्मीयैस्तेजोभिः **सूर्यस्य** **भानुं** दीप्तिम् **ऊर्ध्वम्** उपरिष्टात् **स्तभायन्** स्तम्भयन् वि **भाति** विशेषेण दीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ genre M
 Daughter of the great father: the Dawn, the daughter of the Sun; treasures of heaven: vasubhiḥ =developing or kindling splendours
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When with his form he has prevailed over black, mottled (Night),  begetting the young woman [=Dawn], the child of a lofty father  
 [=Heaven],  
 propping upright the radiance of the sun, the spoked wheel of heaven  beams widely with the Vasus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Having o'ercome the glimmering Black with beauty, and bringing forth the dame the Great Sire's Daughter,  
      Holding aloft the radiant light of Surya, as messenger of heaven he shines with treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er in einer Verwandlung die schwarze buntfarbige Nacht beschlich, die junge Frau erzeugend, das Kind des großen Vaters, so erglänzt der Lenker des Himmels mit den Vasu´s, indem er den aufgerichteten Strahl des Surya stützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er durch Glanz besiegt die schwarze Hirschkuh, des hohen Vaters holde Tochter zeugend, Und hoch empor der Sonne Glanz errichtend, erstrahlt er thätig mit des Himmels Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда благодаря обманному облику он овладел черной пестрой (Ночью),  
 Порождая юную женщину, потомство могучего отца,  

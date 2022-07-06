@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ क्र꣡तुः स꣡ म꣡रियः स꣡ साधु꣡र्  
 मित्रो꣡ न꣡ भूद् · अ꣡द्भुतस्य रथीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श उ꣡प ब्रुवते दस्म꣡म् आ꣡रीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 तम् । मेधे॑षु । प्र॒थ॒मम् । दे॒व॒ऽयन्तीः । विशः॑ । उप॑ । ब्रु॒व॒ते॒ । द॒स्मम् । आरीः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -139,7 +139,7 @@ genre M
 **स** **हि** अग्निः **क्रतुः** कर्मणां कर्ता । **सः** एव **मर्यः** मारयिता विश्वस्योपसंहर्ता **साधुः** साधयितोत्पादयितापि **सः** एव **अद्भुतस्य** अभूतस्यालब्धस्य धनस्य **रथीः** रंहयिता प्रापयिता **भूत्** भवति । तत्र दृष्टान्तः । **मित्रो** **न** । यथा सखा धनानि प्रापयति तद्वत् । एवंभूतो योऽग्निः **तम्** एव **मेधेषु** यज्ञेषु **देवयन्तीः** देवयन्त्यो देवानात्मन इच्छन्त्यः **विशः** प्रजाः **प्रथमम्** **उप** **ब्रुवते** । स्तुतिभिरुपेत्य प्रधानभूतः इति कथयन्ति। कीदृश्यो विशः। **दस्मं** दर्शनीयं तमग्निम् **आरीः** गच्छन्त्यः भजन्त्यः इत्यर्थः ॥ मर्यः । मृङ् प्राणत्यागे । अस्मात् अन्तर्भावितण्यर्थात् 'छन्दसि निष्टर्क्य° ' इत्यादौ निपातनात् यत् कृत्यल्युटो बहुलम्' इति बहुलवचनात् कर्तरि द्रष्टव्यः । ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । देवयन्तीः ।' वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । आरीः । ‘ऋ गतौ'। ‘ जनिघसिभ्यामिण्' (उ. सू. ४. ५६९ ) इति बहुलग्रहणादस्मादपि इण्प्रत्ययः । ‘ कृदिकारादक्तिनः' इति ङीष् । ‘वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् । व्यत्ययेनाद्युदात्तत्वम्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,38 +150,38 @@ genre M
 Marya and **sādhu** = destroyer and reviver; or, killer or extirpator of all and the producer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he is resolve; he is a young buck; he is on target. Like an envoy he  has become charioteer of the unerring. Him, the wondrous one, do the god-seeking Ārya clans entreat first at  the ritual offerings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the verbal play in … ná bhūd ádbhut(asya) …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For he is mental power, a man, and perfect; he is the bringer, friend-like, of the wondrous.  
      The pious Aryan tribes at sacrifices address them first to him who doeth marvels.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For he is wisdom 1, he is manly, he is straightforward; like Mitra he has become the charioteer of the mysterious 2. Therefore the Aryan clans 3, longing for the gods, address him, the wonderful one, as the first at the sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist die Einsicht, er der Jüngling, er ein Vortrefflicher. Wie Mitra ist er der Lenker wunderbarer Einsicht. Ihn, den Meister, rufen zuerst die gottergebenen arischen Stämme bei den Opfern an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er ist Held, ist Mann, ist sichrer Führer, und wie ein Freund verbognen Gutes Fährmann. Ihn reden an zuerst die frommen Stämme, der Arier beim Opfermahl den thät'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь он – сила духа, он – юный муж, он – тот, кто приводит к цели.  
 Как Митра, он бывает возницей (всего) небывалого.  

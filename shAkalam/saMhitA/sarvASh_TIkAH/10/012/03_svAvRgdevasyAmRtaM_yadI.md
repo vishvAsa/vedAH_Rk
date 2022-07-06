@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वा꣡वृग् देव꣡स्य अमृ꣡तं य꣡दी गो꣡र्  
 अ꣡तो जाता꣡सो धारयन्त उर्वी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दुहे꣡ य꣡द् ए꣡नी दिवियं꣡ घृतं꣡ वाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । दे॒वाः । अनु॑ । तत् । ते॒ । यजुः॑ । गुः॒ । दु॒हे । यत् । एनी॑ । दि॒व्यम् । घृ॒तम् । वारिति॒ वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāvṛg* ← *svāvṛj*
 - \[noun\], nominative, singular, neuter
@@ -140,7 +140,7 @@ genre M
 **देवस्य** अग्नेः **स्वावृक्** स्वार्जनम् **अमृतम्** उदकं स्वतेजसः सकाशात् **यदि** यदोपद्यते तदा **अतः** अस्मात् **गोः** उदकात् **जातासः** उत्पन्ना ओषधयः **उर्वी** द्यावापृथिव्यौ धारयन्ति । **विश्वे** **देवाः** सर्वे स्तोतारः **ते** तव संबन्धि **तत्** **यजुः** उदकस्य तद्दानम् **अनु** **गुः** अनुगायन्ति । **एनी** श्वेता दीप्तिः **दिव्यं** दिवि भवं **घृतं** क्षरत् **यत्** **वाः** वृष्टिलक्षणं यदुदकं दुहे दोग्धि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,29 +151,29 @@ genre M
 The products from it: **amṛta** = the rain (which is consequent upon theburnt offerings) and the products from it are plural nts ant trees
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s the god’s own acquisition: the immortal (drink) that comes from the  cow. “Those born therefrom uphold the two wide (worlds)”—  
 this sacrificial formula of yours do all the gods follow, when the speckled  (cow) gives as her milk the heavenly ghee, the water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the cow's nectar wins the God completely, men here below are heaven's sustainers.  
      All the Gods came to this thy heavenly Yajus which from the motley Pair milked oil and water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Nektar der Kuh in der eigenen Gewalt des Gottes steht, so erhalten die aus dieser Kuh geborenen Marut die beiden Welthälften. Alle Götter mögen diesem deinem Opferspruch willfahren, daß die bunte Kuh das himmlische Schmalz, das Wasser milche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn leicht vom Gott der Trank der Kuh erlangt wird, dann stützen die erquickten beide Welten; Die Götter alle gehn zu deinem Opfer, wenn himmlisch Fett und Nass die Hirschkuh strömet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда у бога в распоряжении напиток бессмертия коровы,  
 (То) рожденные от нее поддерживают две широкие (половины вселенной).  

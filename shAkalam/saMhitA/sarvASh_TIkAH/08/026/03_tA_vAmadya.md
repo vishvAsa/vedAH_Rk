@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वाम् अद्य꣡ हवामहे  
 हव्ये꣡भिर् वाजिनीवसू  
 पूर्वी꣡र् इष꣡ इष꣡यन्ताव् अ꣡ति क्षपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पू॒र्वीः । इ॒षः । इ॒षय॑न्तौ । अति॑ । क्ष॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -83,7 +83,7 @@ genre M
 हे **वाजिनीवसू** अन्नयुक्तधनवन्तावश्विनौ **पूर्वीः** बहूनि **इषः** अन्नानि **इषयन्तौ** । ‘इषु इच्छायाम् । इच्छन्तौ **ता** तौ प्रसिद्धौ **वां** युवाम् **अद्य** अस्मिन् यागदिने **अति** **क्षपः** क्षपाया अतिक्रमे । उषःकाल इत्यर्थः । तस्मिन्नुषःकाले **हव्येभिः** हविर्लक्षणैरन्नैः सह वयं **हवामहे** आह्वयामः । आश्विनशस्त्रस्य तत्र शस्यमानत्वादुषःकाल एवाह । याग इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,20 +94,20 @@ genre M
 At dawn: ati **kṣapaḥ** kṣapāya atikrame = at the passing of night, uṣaḥ kāle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We call you today with our oblations, you who bring prizewinning mares  as goods,  
 as you become refreshed on the many refreshments beyond the nights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 havāmahe havyébhiḥ “we call with oblations” is a word play between the the roots √hu ‘pour, libate’ and √hū/hvā ‘call’ and economically refers to the two complementary aspects of Vedic sacrifice, the verbal and the material. It is the mirror image of the trope “pour prayers.” iṣáyantau can belong either to trans. iṣáyati to √iṣ ‘send’ (so Grassmann, Lubotsky) or intrans. iṣáyati ‘prosper’. I tentatively opt for the latter, with a cognate acc. of respect, iṣáḥ, hence “prosper, become refreshed with respect to refreshments.” It is not entirely clear to me which root affiliation is represented by Geldner’s “spenden” (probably ‘send’?) or Renou’s “sécrétant à titre de jouissance” (probably ‘prosper’?).
 
 I suggest that áti kṣapáḥ “beyond the nights” refers to the Atirātra soma (“overnight soma”) offered to the Aśvins the morning after, as it were.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with oblations we invoke you, rich in ample wealth, to-day,  
      When night hath passed, O ye who send us plenteous food.  
@@ -115,17 +115,17 @@ So with oblations we invoke you, rich in ample wealth, to-day,
      And, for his glory, mark your zealous servant's lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum laden wir euch beide heute mit Opferspenden, ihr Reichlohnende, die über die Nächte hinweghelfend viele Labsale spenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So laden labungsreiche euch, auch heute wir durch Opfer ein; Die viele Gaben ihr auf lange Zeit verleiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сегодня я призываю вас двоих  
 Жертвами, о богатые наградами,  

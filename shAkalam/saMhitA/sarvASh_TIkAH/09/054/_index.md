@@ -8,7 +8,7 @@ title = "+054"
 अस्य प्रत्नाम्' इति चतुर्ऋचं त्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘ अस्य प्रत्नाम्' इत्यनुक्रान्तम् । उक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 54 (766)  
 Soma Pavamāna  
@@ -19,7 +19,7 @@ Like the last hymn, this one withholds unambiguous identification until the end 
 the “wrong” referent. Rather, the hymn is structured as a series of explicit riddles: a  form of the pronoun ayám “this one” opens each of the first three verses (and also  2b), and what is predicated of “this one” fits, or can fit, the Soma paradigm. The  explicit solution to the riddle is given in the last pāda of verse 3, with the name  Soma prominently situated. And the final verse brings the drop (índu) and Indra  together in the same way as IX.53.4.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the riddling structure of this hymn, see published introduction. Each of the first three vss.
 

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिर् नरा शय꣡वे या꣡भिर् अ꣡त्रये  
 या꣡भिः पुरा꣡ म꣡नवे गातु꣡म् ईष꣡थुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । शारीः॑ । आज॑तम् । स्यूम॑ऽरश्मये । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -125,7 +125,7 @@ genre M;; repeated line
 हे **नरा** नेतारावश्विनौ **पुरा** पूर्वस्मिन्काले **शयवे** एतत्संज्ञकाय ऋषये **गातुं** दुःखान्निर्गमनलक्षणं मार्गं **याभिः** ऊतिभिः **ईषथुः** युवां वाञ्छितवन्तौ कृतवन्तावित्यर्थः । किं तत् । सामर्थ्यात् ‘शयवे चिन्नासत्या शचीभिः ' ( ऋ. सं. १. ११६. २२ ) इत्यस्यामृचि प्रतिपादितम् । तथा **अत्रये** ऋषये शतद्वारे यन्त्रगृहेऽसुरैः पीड्यमानाय संतापकारिणः अग्नेः शीतेनोदकेन शीतकरणलक्षणं गातुं दुःखनिर्गमनहेतुभूतं मार्गं **याभिः** ऊतिभिर्युवामिष्टवन्तौ । एतच्च हिमेनाग्निं घ्रंसमवारयेथाम्' (ऋ. सं. १. ११६. ८) इत्यादौ प्रसिद्धम् । तथा **मनवे** एतन्नाम्ने राजर्षये **याभिः** ऊतिभिः यवादिधान्यवापनादिरूपं गातुं दारिद्र्यनिर्गमनहेतुं मार्गं युवां कृतवन्तौ । तथा च मन्त्रान्तरं- यवं वृकेणाश्विना वपन्ता ' ( ऋ. सं. १. ११७. २१ ) इति । अपि च स्यूमरश्मये स्यूतः संबद्धः रश्मिर्दीप्तिर्यस्य तस्मै एतत्संज्ञकाय ऋषये **याभिः** ऊतिभिः **शारीः** । शरो नाम वेणुविशेषः । तद्विकारभूता इषूः **आजतं** शत्रून्प्रति प्रैरयतम् । ताभिरूतिभिरित्यादि पूर्ववत् ॥ नरा। ‘नृ नये'। ‘ऋदोरप्'। ‘सुपां सुलुक् ' इति विभक्तेः आकारः । शयवे ।' शीङ् स्वप्ने । भृमृशीतॄचरि° ' ( उ. सू. १. ७. ) इत्यादिना उप्रत्ययः । ईषथुः । ‘इषु इच्छायाम्'। लिटि अथुसि ‘°असवर्णे' ( पा. सू. ६. ४. ७८) इति पर्युदासात् अभ्यासस्य इयङादेशाभावे सवर्णदीर्घः । शारीः । विकारार्थे शरशब्दात् “ अनुदात्तादेश्च' इति अञ् । ' टिड्ढाणञ्” ' इति ङीप् । स्यूमरश्मये । ‘षिबु तन्तुसंताने' । सिवेः औणादिको मन्प्रत्ययः ।' च्छ्वोः शूठ्' इति ऊठ् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M;; repeated line
 Gātum iṣathuḥ, you wishem to go (out of evil or danger). Manu was a **rājaṛṣi**, whom the **Aśvins** extricated from want, by teaching him the art of sowing seeds of barley and other grains. Syūmaraśmi was a ṛṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which, o superior men, you sought a way for Śayu, with  which for Atri, with which for Manu long ago,  
 with which you drove the (cows?) of Śara for Syūmarśmi—with those  forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Śyumarśmi in the published translation is a typo for Śyumaraśmi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith, O Heroes, ye vouchsafed deliverance to Sayu, Atri, and to Manu long ago;  
      Wherewith ye shot your shafts in Syumarasmi's cause.--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr Herren für Sayu, mit denen ihr für Atri, mit denen ihr vormals für Manu einen Weg suchtet, mit denen ihr dem Syumarasmi die Kühe des Sara zutriebt, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch welche ihr dem Çaju und dem Atri einst, durch die dem Manu ihr zu hohem Glück verhalft, Durch die dem Sjumaraçmi Pfeile ihr gebracht, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) – для Шаю, какими – для Атри,  
 Какими – некогда для Ману вы искали путь,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वं꣡ हि꣡ वृत्रहन्न् एषा᳐म्  
 पाता꣡ सो꣡माना᳐म् अ꣡सि  
 उ꣡प नो ह꣡रिभिः सुत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 उप॑ । नः॒ । हरि॑ऽभिः । सु॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वृत्रहन्** वृत्रस्य पापस्य वा हन्तरिन्द्र । हिशब्दो हेत्वर्थे। यस्मात् **त्वम्** **एषाम्** अस्मदीयानां **सोमानां** **पाता** पानकर्ता **असि** भवसि । एषाम् इति इदमोऽन्वादेशे अशोदेशोऽनुदात्तश्च । अतस्त्वम् अश्वैः सह सोमं पातुमुपयाहि आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, you are the drinker of these **Soma** juices, come with your steeds to our effused libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, Vr̥tra-smiter, are the drinker of these soma-drinks—  
 right up to our pressed soma with your fallow bays.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ As noted in the published introduction, the first pāda of the first verse of th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vrtra-slayer, thou art he who drinks these drops of Soma: come  
      With Bay Steeds to the juice we shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, Vritratöter, bist der Trinker dieser Soma´s; komm mit den Falben zu unserem Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o Vritratödter, bist's, der diese Somasäfte trinkt, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

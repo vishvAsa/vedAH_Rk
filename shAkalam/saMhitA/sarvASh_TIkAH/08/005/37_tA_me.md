@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ मे अश्विना सनीनां꣡  
 विदिया꣡तं न꣡वाना᳐म्  
@@ -15,7 +15,7 @@ ChandaH = "बृहती"
 सह꣡स्रा द꣡श गो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M
 यथा॑ । चि॒त् । चै॒द्यः । क॒शुः । श॒तम् । उष्ट्रा॑नाम् । दद॑त् । स॒हस्रा॑ । दश॑ । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -114,32 +114,32 @@ genre M
 हे अश्विना अश्विनौ **ता** तादृशौ युवां **नवानाम्** अभिनवानां श्रेष्ठानां **सनीनां** संभजनीयानां धनानाम् । कर्मणि षष्ठी । ईदृशानि धनानि **मे** मह्यं दापयितुं **विद्यातं** जानीतम् । **यथा** **चित्** येन खलु प्रकारेण **चैद्यः** चेदिपुत्रः **कशुः** एतत्संज्ञो राजा **उष्ट्रानां** **शतं** तथा **गोनां** गवां **दश** **सहस्रा** दशसंख्यानि सहस्राणि **ददत्** दद्यात् तथा विद्यातमिति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Become appraised, **Aśvins**, of my recent gifts, how that **Kaśu**, the son of **Cedi**, has presented me with ahundred camels and ten thousand cows.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, may you know of my new winnings—  
 how Kaśu, the lord of the Cedi, will give a hundred camels, ten  
 thousand cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Asvins, find for me my share of new-presented gifts,  
      As Kasu, Cedi's son, gave me a hundred head of buffaloes, and ten thousand kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin sollet von mir von den neuen Belohnungen erfahren, wie Kasu, des Cedi Sohn, hundert Kamele schenkte und zehntausend Kühe;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы должны узнать от меня,  
 О Ашвины, о новых награждениях,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था वि꣡प्रस्य म꣡नुषो हवि꣡र्भिर्  
 देवाँ꣡ अ꣡यजः कवि꣡भिः कविः꣡ स꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने मन्द्र꣡या जुहु꣡वा यजस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ए॒व । हो॒त॒रिति॑ । स॒त्य॒ऽत॒र॒ । त्वम् । अ॒द्य । अग्ने॑ । म॒न्द्रया॑ । जु॒ह्वा॑ । य॒ज॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -119,41 +119,41 @@ genre M
 **कविः** क्रान्तदर्शी **सन्** **कविभिः** मेधाविभिर्ऋत्विग्भिः सह **विप्रस्य** मेधाविनः **मनुषः** मनोर्यज्ञे **हविर्भिः** चरुपुरोडाशादिभिः हे अग्ने **यथा** **देवान्** **अयजः** एवमेव **होतः** होमनिष्पादक **सत्यतर** अतिशयेन सत्सु साधो **अग्ने** **त्वम्** **अद्य** अस्मिन् यज्ञे **मन्द्रया** हर्षयित्र्या **जुह्वा** होमसाधनभूतया स्रुचा **यजस्व** देवान् हविर्भिः पूजय ॥ मनुषः । ‘ मन ज्ञाने । ‘ बहुलमन्यत्रापि ' इति मनेः उसिन्प्रत्ययः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As at the sacrifice of the holy **Manu**, you, a sage amongst sages, did worship the gods with oblations, so also, **Agni**, veracious invoker of the gods, do you today (present the oblations), with an exhilarating ladle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you sacrificed to the gods with the oblations of the inspired poet  Manu, along with the poets, yourself a poet,  
 even so, o Hotar most truly present, o Agni, today perform sacrifice with  your gladdening tongue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As with oblations of the priestly Manus thou worshippedst the Gods, a Sage with sages,  
      So now, O truthfullest Invoker Agni, worship this day with joy-bestowing ladle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As thou didst perform sacrifice to the gods with the sacrificial food of the wise Manu 1, a sage together with sages, thus, O highly truthful Hotri, perform thou the sacrifice to-day, O Agni, with thy joy-giving sacrificial ladle 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du mit des redekundigen Manu Spenden den Göttern opfertest, unter Sehern selbst ein Seher, so opfere du heut, o wahrhaftigster Hotri Agni, mit wohltönender Zunge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie mit des Sängers Manus Opfergüssen die Götter du verehrt mit weisen, weise, So ehr auch jetzt, du allertreuster Priester, o Agni, sie mit deiner holden Zunge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно тому, как с помощью возлияний вдохновенного Мануса,  
 Ты принес жертву богам, с помощью поэтов – ты, (сам) поэт,  

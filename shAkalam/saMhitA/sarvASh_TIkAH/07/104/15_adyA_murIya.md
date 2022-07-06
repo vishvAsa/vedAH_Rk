@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्या꣡ मुरीय य꣡दि यातुधा꣡नो अ꣡स्मि  
 य꣡दि वा꣡युस् तत꣡प पू꣡रुषस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ मा मो꣡घं या꣡तुधाने꣡ति आ꣡ह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अध॑ । सः । वी॒रैः । द॒शऽभिः॑ । वि । यू॒याः॒ । यः । मा॒ । मोघ॑म् । यातु॑ऽधान । इति॑ । आह॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adyā* ← *adya*
 - \[adverb\]
@@ -131,41 +131,41 @@ popular
 इयमपि शपथरूपैव । **यदि** अहं वसिष्ठः **यातुधानः** राक्षसः **अस्मि** **अद्य** अस्मिन्नेव दिने **गुरीय** म्रियेय । अपि **वा** **पुरुषस्य** मनुष्यस्य **आयुः** जीवितं **यदि** अहं राक्षसो भूत्वा **ततप** हिंसितवानस्मि तर्ह्यप्यहमद्य म्रियेयेत्यन्वयः । **अध** अथैवं स्यात् अहं वसिष्ठस्त्वं राक्षस इति तर्हि **सः** त्वं **दशभिः** **वीरैः** पुत्रैः । उपलक्षणमेतत् । सर्वैर्बन्धुजनैः **वि** **यूयाः** वियुक्तो भवेः । **यः** राक्षसः **मा** मां **मोघं** मृषैव हे **यातुधान** हे राक्षस **इति** संबोध्य **आह** ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I this day die if I am a spirit of ill, or if I have ever injured the life of any ma; may you be deprived(**rākṣasa**) of your ten sons, who have falsely called me by such an appellation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let me die today if I am a sorcerer, or if I have scorched the lifespan  of a man.  
 And he should be separated from ten (generations of?) heroes, whoever  says falsely to me: “you sorcerer.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I use the standard English rendering of yātudhā́na- (with cognates well attested also in Oldenberg and Middle Iranian) as ‘sorcerer’ (German Zauberer), without any implications about what practices this figure might engage in. Since in the RV the word is found only in “popular” discourse, he presumably doesn’t work his ill through orthodox ritual means.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may I die this day if I have harassed any man's life or if I be a demon.  
      Yea, may he lose all his ten sons together who with false tongue hath called me Yatudhana.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Noch heute will ich sterben, wenn ich ein Zauberer bin oder wenn ich das Leben eines Menschen verbrannt habe. Und der soll um zehn Söhne kommen, der fälschlich zu mir sagt: du Zauberer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heut will ich sterben, wenn ich Zauber übte, und wenn ich quälte eines Menschen Leben, Drum gehe seiner Freunde der verlustig, der lügnerisch mich einen Zaubrer nannte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я умер бы сегодня же, если б был колдуном,  
 Или если б сжег срок жизни человека!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पवि꣡त्रवन्तः प꣡रि वा꣡चम् आसते  
 पितइ꣡षाम् प्रत्नो꣡ अभि꣡ रक्षति व्रत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 धी꣡रा इ꣡च् छेकुर् धरु꣡णेषु आर꣡भम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हः । स॒मु॒द्रम् । वरु॑णः । ति॒रः । द॒धे॒ । धीराः॑ । इत् । शे॒कुः॒ । ध॒रुणे॑षु । आ॒ऽरभ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavitravantaḥ* ← *pavitravat*
 - \[noun\], nominative, plural, masculine
@@ -126,7 +126,7 @@ genre M
 **पवित्रवन्तः** पवित्रेण शोधकेन सामर्थ्येन युक्ताः सोमस्य रश्मयः **वाचं** सोमस्थितां माध्यमिकां वाचं **परि** **आसते** पर्युपविशन्ति । सोमोऽन्तरिक्षे तिष्ठति खलु ‘सोमो वै राजा गन्धर्वेष्वासीत् ' ( ऐ. ब्रा, १.२७) इत्याम्नानात् । ततः **प्रत्नः** पुराणः **एषां** रश्मीनां **पिता** अयं सोमश्च **व्रतं** प्रकाशनात्मकं कर्म **अभि** **रक्षति** अवितं करोति । किंच **वरुणः** सर्वस्य स्वतेजसाच्छादकः सोऽयं सोमः **महः** महत् **समुद्रम्** । अन्तरिक्षनामैतत् । महदन्तरिक्षं तै रश्मिभिः **तिरो** **दधे** अन्तर्हितमकरोत् । सर्वं व्याप्नोदिति यावत् । तमिमं सोमं **धीराः** । **इत्** अवधारणे । कर्मणि कुशलाः प्राज्ञा एवर्त्विजः **धरुणेषु** सर्वस्य धारकेषु वसतीवर्याख्येषूदकेषु **आरभम्** आरब्धुं **शेकुः** शक्नुवन्ति च । रभेस्तुमर्थे ' शकि णमुल्कमुलौ' (पा. सू. ३. ४. १२ ) इति कमुल्। लित्स्वरेण मध्योदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,14 +137,14 @@ genre M
 The voice of the firmament: vācam = voice of the firmament (or middle world) residing in the Soma; 'Soma stand in the firmament; the King Soma sit among the **gandharvas**'' (somo vai **rājā** gandharveṣvāsīt) (**Aitareya** **Brāhmaṇa**). The voice of the firmament is thunder, and the rays of the Soma refer to the moon or the Soma juices identified with the rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Provided with the filter, they take their seats around speech. Their  ancient father guards his commandment.  
 As great Varuṇa, (Soma) has hidden himself in the sea. Only the  
 insightful have been able to take hold of his supports.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again, the subject of the verb in pāda a is unexpressed. On the basis of pavítravant- ‘provided with the filter’, one might expect that the referent is the ritual officiants, but note that the other occurrence of this -vant- stem in IX, at IX.101.4, modifies sómāḥ. Again, I think both readings are meant.
 
@@ -172,23 +172,23 @@ The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With sanctifying gear they sit around the song: their ancient Father guards their holy work from harm.  
      Varuna hath o'erspread the mighty sea of air. Sages had power to hold him in sustaining floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seihe haltend warten sie der Rede; der alte Vater wacht über ihre Regel. Der große Varuna hat den Ozean verborgen. Nur die Sachkundigen vermochten ihn in seinen Unterlagen zu erfassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie lagern in der Seihe sich um das Getön, ihr alter Vater hütet des Gesetzes Brauch; Das Somameer verhüllt der grosse Varuna, die Weisen wissen ihn zu fassen im Gefäss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С цедилками дожидаются они речи.  
 Их древний отец охраняет завет.  

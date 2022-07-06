@@ -8,7 +8,7 @@ title = "+019"
 ‘अग्निं होतारम्' इति पञ्चर्चं सप्तमं सूक्तं त्रैष्टुभमाग्नेयं गाथिन आर्षम् । तथा चानुक्रान्तम्’ अग्निं होतारं गाथी ह' इति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 19 (253)  
 Agni  

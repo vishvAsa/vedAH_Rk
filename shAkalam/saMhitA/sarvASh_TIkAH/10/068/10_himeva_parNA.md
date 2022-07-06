@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिमे꣡व पर्णा꣡ मुषिता꣡ व꣡नानि  
 बृ꣡हस्प꣡तिनाकृपयद् वलो꣡ गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡त् सू꣡र्यामा꣡सा मिथ꣡ उच्च꣡रातः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न॒नु॒ऽकृ॒त्यम् । अ॒पु॒नरिति॑ । च॒का॒र॒ । यात् । सूर्या॒मासा॑ । मि॒थः । उ॒त्ऽचरा॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *himeva* ← *himā* ← *hima*
 - \[noun\], instrumental, singular, neuter
@@ -113,7 +113,7 @@ genre M
 **हिमेव** यथा हिमेन **पर्णा** पर्णानि पद्मपत्राणि **मुषिता** मुषितानि भवन्ति तद्वद्वलेन **वनानि** वननीयानि गोधनानि मुषितान्यभूवन् । अथ गवामन्वेषणाय **बृहस्पतिना** आगतेन हेतुना **वलः** **अकृपयत्** अस्मै ता मुषिताः **गाः** प्रायच्छत् । तत्र **अननुकृत्यम्** अननुकरणीयम् **अपुनः** कर्तव्यं च तत्कर्म **चकार** । यथा तत्पश्चात्करणीयं न भवति यथा पुनरकरणीयं तथाकार्षीदित्यर्थः। किं तदिति आह । **सूर्यामासा** सूर्याचन्द्रमसौ **मिथः** परस्परमहोरात्रयोः **उच्चरातः** उच्चरत इति **यात्** तच्चकार । यादिति दीर्घश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 Trees: vanāni = vananīyāni, the desirable wealth of cows; as leaves are carried off bywinter, so the desirable cows were carried off by Vala had pity on **Bṛhaspati** coming in search of the cows; i.e.,gave him the cows. He made this, i.e. the mutual rising of the sun and moon, which cannot be made afterwards,which cannot be made again
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the woods (lament) their leaves stolen by cold, Vala lamented for the  cows (stolen) by Br̥haspati.  
 He performed an inimitable (deed), not to be repeated as long as the  sun and moon will rise in alternation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As trees for foliage robbed by winter, Vala mourned for the cows Brhaspati had taken.  
      He did a deed ne'er done, ne'er to be equalled, whereby the Sun and Moon ascend alternate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Bäume ihre vom Frost geraubten Blätter, so vermißte Vala die von Brihaspati geraubten Kühe. Etwas Unnachahmbares hat er getan, das sich nicht wiederholt, solange Sonne und Mond abwechselnd aufgehen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Bäume, die durch Frost des Laubs beraubt sind, betrauert' Vala die geraubten Kühe; Brihaspati, was unnachahmlich, that er, dass Sonn' und Mond in stetem Wechsel aufgehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как деревья (оплакивают) листья, похищенные морозом,  
 (Так) Вала оплакивал коров, (похищенных) Брихасвати.  

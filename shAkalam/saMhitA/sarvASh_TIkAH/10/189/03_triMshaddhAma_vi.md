@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिंश꣡द् धा꣡म वि꣡ राजति  
 वा꣡क् पतंगा꣡य धीयते  
 प्र꣡ति व꣡स्तोर् अ꣡ह द्यु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 प्रति॑ । वस्तोः॑ । अह॑ । द्युऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triṃśad* ← *triṃśat*
 - \[noun\], accusative, singular, feminine
@@ -87,7 +87,7 @@ popular
 **त्रिंशद्धाम** धामानि स्थानानि । वचनव्यत्ययः। **वस्तोः** वासरस्याहोरात्रस्यावयवभूतानि । अहशब्दोऽवधारणे । **द्युभिः** सूर्यस्य दीप्तिभिरेव **वि** राजति विराजन्ते विशेषेण दीप्यन्ते । व्यस्ययेनैकवचनम् । मुहूर्तान्यत्र धामान्युच्यन्ते । पञ्चदश रात्रेः पञ्चदशाह्नः । **पतङ्गाय** । पतति गच्छतीति पतङ्गः सूर्यः । तस्मै स्तुतिरूपा **वाक्** प्रति **धीयते** प्रतिमुखं स्तोतृभ्यः क्रियते । यद्वा । वस्तोरहनि त्रिंशद्धामानि । घटिकाभिप्रायमेतत् । त्रिंशद्घटिकाः । अत्यन्तसंयोगे द्वितीया । एतावन्तं कालं **द्युभिः** दीप्तिभिरसौ सूर्यो वि राजति । विशेषेण दीप्यते । तस्मिंश्च समये वाक् त्रयीरूपा तस्मै सूर्यरूपाय पतङ्गाय प्रति धीयते प्रतिमुखं धार्यते । सूर्यं सेवत इत्यर्थः । श्रूयते हि -- ऋग्भिः पूर्वाह्णे दिवि देव ईयते यजुर्वेदे तिष्ठति मध्ये अह्नः' (तै. ब्रा. ३. १२. ९. १ ) इत्यादि । यदा त्विदं सूक्तं सर्पराज्ञ्या आत्मस्तुतिः तदा सूर्यात्मना स्तूयत इत्यवगन्तव्यम् ॥ ॥ ४७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ Stations = **muhūrtas**, or periods of 48 minutes; voice of praise: **pataṅga
 Dhāma= either 30 muhūrtas (making up 24 hours), or as the thirty days of the month during every one of which thediligent **yajamāna** sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He shines [/rules] over the thirty domains. Speech is established for  the bird  
 at each dawn and throughout the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Song is bestowed upon the Bird: it rules supreme through thirty realms  
      Throughout the days at break of morn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die dreißig Stufen herrscht er. Dem Vogel wird die Stimme verliehen jeden Morgen mit Tagesanbruch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wesenkenner fördere durch seinen Strahl, der götterwärts Die Tränke fährt, das Opfer uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он управляет тридцатью стоянками (дня).  
 Птица(-Солнце) наделяется речью  

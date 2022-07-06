@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रिया꣡ वो ना꣡म हुवे तुरा꣡णाम्  
 आ꣡ य꣡त् तृप꣡न् मरुतो वावशानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 प्रि॒या । वः॒ । नाम॑ । हु॒वे॒ । तु॒राणा॑म् । आ । यत् । तृ॒पत् । म॒रु॒तः॒ । वा॒व॒शा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
@@ -78,42 +78,42 @@ genre M
 [हे **मरुतः** **तुराणां** शत्रूणां हिंसकानां त्वरावतां वा **वः** युष्माकं **प्रिया** प्रियेण **नाम** नाम्ना **आ** **हुवे** आह्वयामि। **यत्** येनानेन **वावशानाः** कामयमानाः सन्तः **तृपत्** तृप्तिं गच्छन्ति ॥] ॥२३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke your beloved names, **Maruts**, destroyers (of foes), that they who are desirous of the offeringmay be satisfied.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call the dear names of you precipitate ones,  
 when you are here bellowing to your hearts’ content, o Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The metrical decay noted for 8cd continues here. Although the first half of the vs. has the expected 10 syllables with a word boundary after 5 -- thus allowing a division into two DV pādas -- the opening of b is huve, an unaccented verb. In the immediately preceding vs. pāda b opens with accented yuyóta, which must owe its accent to its pāda-initial position, as there are no syntactic features favoring it. The DV here is far less sensitive to the pāda boundary. Even more clearly, the second half of the vs. is an undoubted Triṣṭubh, since it has 11 syllables and a caesura after the first 4, with the unaccented voc. maruto spanning syllables 5-7.
 
 Both Geldner and Renou (also Lubotsky) take vāvaśānā́ḥ to √vaś ‘want, desire’ with the supposed object being soma, but I think it makes more sense, and requires less machinery, to assign it to √vāś ‘bellow’. Otherwise too much has been gapped and needs to be supplied; cf. Renou’s expansive parenthesis: “… pour qu’à satiété … (vous vous gorgiez de soma, le) désirant-avec-force.” See the same disagreement about the affiliation of the same participle in VII.36.6, with comm. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your dear names, conquering Maruts, we invoke, calling aloud till we are satisfied.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer, der Hochstehenden, liebe Namen rufe ich an, auf daß ihr Marut euch gierig zur Genüge mit Soma begießet;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe eure – der raschen Namen, Dass ihr begier'gen – euch labt, o Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я называю ваши милые имена – могущественных (богов), -  
 Чтобы вы насытились (сомой), о Маруты, страстно желая (этого).

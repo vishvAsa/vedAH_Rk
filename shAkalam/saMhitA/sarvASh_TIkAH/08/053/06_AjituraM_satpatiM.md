@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आजितु꣡रं स꣡त्पतिं विश्व꣡चर्षणिं  
 कृधि꣡ प्रजा꣡सु आ꣡भगम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 क्र꣡तुम् पुनत꣡ आनुष꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 प्र । सु । ति॒र॒ । शची॑भिः । ये । ते॒ । उ॒क्थिनः॑ । क्रतु॑म् । पु॒न॒ते । आ॒नु॒षक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ājituraṃ* ← *ājituram* ← *ājitur*
 - \[noun\], accusative, singular, masculine
@@ -112,37 +112,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make rich in children that chief of all me, who is victorious in battle and a strong protector; properthoroughly with your powers your singers who cintinually purify their minds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make the lord of the settlements surpassing in the contest, governing all  domains, sharer in offspring.  
 With your powers lengthen (the lifetime of those) who, equipped with  solemn words, purify your resolve following the proper order,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply “lifetimes” (ā́yūṃṣi) in c, because ā́yus- is the standard object of prá √tṛ. Geldner assumes that the object is the referent of the following relative clause (yé ta ukthínaḥ … (“Fördere fein … die, welche als deiner Lobsänger…”). This is possible, but ignores the usual idiom.
 
 What it means to “purify (Indra’s) resolve” isn’t clear to me, but the phrase occurs elsewhere (cf. VIII.12.11, 13.1). In any case the father of the patron Dasyave Vṛka is Pūtakratu (see VIII.56.2, also 4), so this is a pun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach den rechtmäßigen Herrn in den Kämpfen siegreich, unter allen Völkern bekannt, der Kinder teilhaft! Fördere fein durch deine Bemühungen die, welche als deine Lobsänger ihren Geist gründlich klären.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Fürsten aller Menschen, der in Schlachten siegt, den mache du an Kindern reich; Und deine Sänger fördre recht durch deine Kraft, die immer läutern ihren Geist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай (этого) истинного господина победителем в бою,  
 Победителем всего людского рода, наделенных потомством!  

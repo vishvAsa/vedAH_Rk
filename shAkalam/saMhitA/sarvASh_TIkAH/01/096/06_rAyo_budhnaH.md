@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रायो꣡ बुध्नः꣡ संग꣡मनो व꣡सूनां  
 यज्ञ꣡स्य केतु꣡र् मन्मसा꣡धनो वेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒मृ॒त॒ऽत्वम् । रक्ष॑माणासः । ए॒न॒म् । दे॒वाः । अ॒ग्निम् । धा॒र॒य॒न् । द्र॒वि॒णः॒ऽदाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
@@ -118,41 +118,41 @@ genre M;; repeated line
 योऽग्निः **रायः** धनस्य **बुध्नः** मूलभूतः । आहुतिद्वारा सर्वेषां धनानां कारणत्वात् । **वसूनां** निवासहेतूनां धनानां **संगमनः** संगमयिता स्तोतॄणां प्रापयिता **यज्ञस्य** दर्शपूर्णमासादेः **केतुः** केतयिता ज्ञापयिता **वेः** आत्मानमभिगच्छतः पुरुषस्य **मन्मसाधनः** मननीयस्याभिलषितस्य साधयिता **अमृतत्वं** स्वकीयामरणत्वं रक्षमाणासः पालयन्तः **देवाः** **एनं** धनस्य दातारम् **अग्निं** धारयन्ति ॥ रायः । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । संगमनः । नन्द्यादिलक्षणो ल्युः । वेः । वी गत्यादिषु । अस्मात् औणादिकः इप्रत्ययः टिलोपश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The source of opulence, the bestower of riches, the director of the sacrifice, the accomplisher of the desires (of the man) who has recourse to him; him the gods, preserving their immortality, retain as the giver of (sacrificial) wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The foundation of wealth, the assembler of goods, the beacon of the  sacrifice, the bird bringing our thoughts to success.  
 Protecting their immortality, protecting him, the gods uphold Agni, the  wealth-giver.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Root of wealth, gathering-place of treasures, banner of sacrifice, who grants the suppliant's wishes:  
      Preserving him as their own life immortal, the Gods possessed the wealth-bestowing Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (He is) the base of wealth, the assembler of all goods 1, the beacon of sacrifice, the fulfiller of thought, the bird 2. In order to guard their immortality the gods have held him, Agni, as the giver of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Grundlage des Reichtums, der Sammler der Schätze, des Opfers Banner, die Erfüller der Gebete, der Vogel - Ihre Unsterblichkeit wahrend erhalten die Götter Agni, den Schätzespender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Reichthums Boden und der Schätze Sammler, des Opfers Fahn', des Sängers Wunscherfüller; Ihn schützend als Unsterblichkeits-Gewährer, als Schätzespender wahrten ihn die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Основа богатства, стечение благ,  
 Знамя жертвы, исполнитель молитв, птица...  

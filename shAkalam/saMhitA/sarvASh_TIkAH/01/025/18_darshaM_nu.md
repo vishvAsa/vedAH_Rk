@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡र्शं नु꣡ विश्व꣡दर्शतं  
 द꣡र्शं र꣡थम् अ꣡धि क्ष꣡मि  
 एता꣡ जुषत मे गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ए॒ताः । जु॒ष॒त॒ । मे॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *darśaṃ* ← *darśam* ← *dṛś*
 - \[verb\], singular, Present injunctive
@@ -94,7 +94,7 @@ genre M
 **विश्वदर्शतं** सर्वैर्दर्शनीयम् अस्मदनुग्रहार्थमत्राविर्भूतं वरुणं **दर्शं** **नु** अहं दृष्टवान् खलु । **क्षमि** क्षमायां भूमौ **रथं** वरुणसंबन्धिनम् **अधि** **दर्शम्** आधिक्येन दृष्टवानस्मि । **एताः** उच्यमानाः **मे**  **गिरः** मदीयाः स्तुतीः **जुषत** वरुणः सेवितवान् ॥ दर्शम् । दृशेः ‘इरितो वा ' (पा. सू. ३. १. ५७ ) इति चेः अङादेशः । ‘ऋदृशोऽङि गुणः' (पा. सू. ७. ४. १६ ) इति गुणः । विश्वदर्शतम् । दृशेः ‘ भृमृदृशि° ' ( उ. सू. ३. ३९० ) इत्यादिना अतच्प्रत्ययान्तो दर्शतशब्दः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् ( पा. सू. ६. २. १०६. २ )। यद्वा । विश्वं दर्शनीयमस्येति बहुव्रीहिः । ‘बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । क्षमि । आतो धातोः ' (पा. सू. ६. ४. १४०) इत्यत्र आतः इति योगविभागात् आकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,28 +105,28 @@ genre M
 An allusion to **Varuṇa** as an image
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now I see him, lovely for all to see; I see his chariot upon the earth. He enjoys these songs of mine.124 I.26
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now saw I him whom all may see, I saw his car above the earth:  
      He hath accepted these my songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sehen möchte ich jetzt den von allen gern gesehenen, sehen seinen Wagen auf Erden; er möge an diesen Lobreden von mir Gefallen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O säh' ich ihn allsichtbar nun und seinen Wagen auf der Flur; Vernähm' er gerne dies mein Lied!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот бы мне сейчас увидеть того, кого хотят увидеть все!  
 Вот бы мне увидеть (его) колесницу (, спускающуюся) на землю!  

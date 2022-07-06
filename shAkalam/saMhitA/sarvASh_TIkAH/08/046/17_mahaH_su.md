@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महः꣡ सु꣡ वो अ꣡रम् इषे  
 स्त꣡वामहे  
@@ -16,7 +16,7 @@ ChandaH = "जगती"
 गा꣡ये त्वा न꣡मसा गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M
 य॒ज्ञेभिः॑ । गीः॒ऽभिः । वि॒श्वऽम॑नुषाम् । म॒रुता॑म् । इ॒य॒क्ष॒सि॒ । गाये॑ । त्वा॒ । नम॑सा । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
@@ -121,20 +121,20 @@ genre M
 हे इन्द्र **महः** महतः **वः** । तवेत्यर्थः। व्यत्ययेन बहुवचनम् । **अरं** गमनमस्मद्विषयमिच्छामि । अर्तेररमिति रूपम् । तदर्थं **मीळ्हुषे** सेक्त्रे **अरंगमाय** संपूर्णगमनाय **जग्मये** गमनशीलाय यज्ञं प्रति एवंभूताय देवाय **स्तवामहे** । त्वां स्तुम इत्यर्थः । केन साधनेनेति तदुच्यते । **यज्ञेभिः** यजनसाधनैर्हविर्भिर्यज्ञैरेव वा **गीर्भिः** स्तुतिभिः । हे देव **विश्वमनुषां** विश्वेषां मनुष्याणां यष्टॄणाम् **इयक्षसि** एतैरिज्यसे । **मरुतां** संबन्धी त्वम् । किंच **त्वा** त्वां **नमसा** नमस्कारेण **गिरा** स्तुत्या च **गाये** स्तुवे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I desire the coming of you, the mighty one, we give praise with oblations and ymns to the showerer whohastens readily (to the sacrifice), associated with the **Maruts**, you are worshipped of all men; I glorify you withadoration and praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We shall praise you great ones [=Maruts] for the rewarder fit for  nourishment, who comes fittingly, who comes regularly [=Indra]. Through the sacrifices and the hymns of all the peoples of Manu, you  [=Indra] are likely to attain (the favor) of the Maruts.  
 I sing to you reverently with a hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another very disturbed verse. My interpretation follows Oldenberg in great degree, but with crucial deviations.
 
@@ -145,24 +145,24 @@ In de (if this is the correct division), I take gen. pl. viśvámanuṣām with 
 If this assumption is correct, we must then ask why Indra would seek to attain the favor of the Maruts. The key to that is probably the odd snatch of dialogue in the last hymn (VIII.45.37-38), in which Indra complains that the Maruts deserted him in his time of need; here he seeks their good will as support in the Vṛtra battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We praise, so that the Mighty One may speed to you, Pourer of boun ies, Traveller, prepared to go.  
      Thou favourest the Maruts known to all, by song and sacrifice.  
      With song and praise I sing to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, die großen Marut - ich beeile mich recht, - loben wir fein vor dem freigebigen, gern kommenden, oft sich einstellenden Indra, - mit Opfern und Lobreden auf die allen Menschen bekannten Marut suchst du dies zu erreichen, - ich besinge dich unter Verbeugung mit Lobeswort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sehr hoch preisen wir euren zur Hülfe herbeieilenden, gnädigen, hülfreichen, kommenden, mit Opfern und Liedern strebst du nach den allen Menschen angehörigen Maruts; ich singe dir anbetungsvoll mit meinem Liede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас, великих, мы прославляем прекрасно для (Индры) спешащего,  
 Щедрого, помогающего, вечно движущегося.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ शुष्मी꣡ असिष्यदद्  
 अन्त꣡रिक्षे वृ꣡षा ह꣡रिः  
 पुनान꣡ इ꣡न्दुर् इ꣡न्द्रम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नः । इन्दुः॑ । इन्द्र॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एष** **शुष्मी** बलवान् सोमः **अन्तरिक्षे** दशापवित्रे **असिष्यदत्** स्यन्दते । कीदृश एषः । **वृषा** वर्षकः **हरिः** हरितवर्णः **पुनानः** पूयमानः **इन्दुः** दीप्तश्चैव **इन्द्रमा** इन्द्रं च अभिगच्छतीति शेषः ।  आ इति चार्थे ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,36 +92,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Antarikṣe = the filter, i.e. the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, the tempestuous tawny bull, has flowed in the midspace,  
 toward Indra—the drop as it is becoming purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The last vs. of the hymn splits the locational difference found in vs. 5: Soma here flows in the midspace (antárikṣe), between the heavenly Soma and the soma on earth on the ritual ground.
 
 On śuṣmī́see comm. ad 29.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra in the firmament this mighty tawny Steer hath flowed,  
      This Indu, being purified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser feurige, falbe Bulle floß durch die Luft, der sich läuternde Saft zu Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist geströmt, der kräftige, der goldne Stier zu Indra hin, Indu, der lautre, durch die Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот необузданный хлынул  
 В воздушное пространство к Индре,  

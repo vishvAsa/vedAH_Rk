@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो हरीणा᳐म् पत  
 इ꣡न्दो देव꣡प्सरस्तमः  
 स꣡खेव स꣡ख्ये न꣡रियो रुचे꣡ भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सखा॑ऽइव । सख्ये॑ । नर्यः॑ । रु॒चे । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -98,41 +98,41 @@ genre M
 हे **हरीणां** **पते** **नः** अस्मदीयानां हरितवर्णानां पशूनां स्वामिन् हे **इन्दो** सोम **देवसरस्तमः** अतिशयेन दीप्तरूपोपेतः **सः** त्वं **नर्यः** कर्मनेतृभ्य ऋत्विग्भ्यो हितः स त्वं **नः** अस्माकं **रुचे** **भव** दीप्तिकरो भव । किमिव । **सखेव** यथा सखा **सख्ये** मित्राय दीप्तिकरो भवति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of our bay-coloured (cattle), **Indu**, who have a most brilliant form, do you who are kind to the priests be for a light to us as a friend (gives light) to a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, lord of the fallow bays, as the one who best affords delight to  the gods,  
 like a manly comrade for a comrade, be there for our illumination.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda in each begins sá no, followed by a GEN.PL. + pate voc. expression, with deaccented gen. pl. The second pāda begins with voc. indo, followed by the cmpd. devá-psaras-, in the splv. in 105, but the simple nom. sg. in 104. See disc. ad 104.4 for the parenthetical nature of 104.4b. The structure of c in both is sákheva sákhye … bhava. In 104.5c in between we get a splv., perhaps a delayed match to the splv. in 105.5b. The filler in 105c is different.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the tawny, Indu thou who art the God's most special food,  
      As Friend to friend, for splendour be thou good to men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, o Herr der Falben, o Saft, der den Göttern am besten mundet, verhilf wie ein mannhafter Freund seinem Freunde zu Ansehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, unsrer Rosse Herr, du bist der götternährendste, Sei kräftig uns zum Glanze wie der Freund dem Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О господин наших буланых коней,  
 О сок сомы, самый пиршественный для богов,  

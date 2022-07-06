@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपस्था꣡य मात꣡रम् अ꣡न्नम् ऐट्ट  
 तिग्म꣡म् अपश्यद् अभि꣡ सो꣡मम् ऊ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महा꣡नि चक्रे पुरुध꣡प्रतीकः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽय॒वय॑न् । अ॒च॒र॒त् । गृत्सः॑ । अ॒न्यान् । म॒हानि॑ । च॒क्रे॒ । पु॒रु॒धऽप्र॑तीकः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upasthāya* ← *upasthā* ← *√sthā*
 - \[verb noun\]
@@ -120,20 +120,20 @@ genre M
 स इन्द्रः **मातरम्** **उपस्थाय** प्रार्थयित्वा **अन्नमैट्ट** तामन्नमयाचत । ‘ईळिरध्येषणाकर्मा: ( निरु. ७. १५) इति यास्कः । ततस्तस्याः **ऊधः** ऊधसि क्षीररूपेण स्थितं तिग्मं दीप्तं **सोमम्** अभि **अपश्यत्** सर्वतोऽदर्शत्। **गृत्सः** । अभिकाङ्क्ष्यते सर्वैर्देवैः शत्रुहननार्थमिति गृत्स इन्द्रः। **अन्यान्** सपत्नान् **प्रयवयन”** स्वस्वस्थानात् प्रकर्षेणोच्चालयन् **अचरत्** सर्वत्र चरति । किंच **पुरुधप्रतीकः** तेजोयोगात् बहुधा विक्षिप्ताङ्ग सन् **महानि** महान्ति वृत्रहननादीनि कर्माणि **चक्रे** ॥ उपस्थाय । तिष्ठतेर्ल्यपि ' घुमास्था" ' इतीत्वे प्राप्ते न ल्यपि ' इति प्रतिषेधः । लित्स्वरः । ऐट्ट । ईळिर्याञ्चार्थः । तस्माल्लङि रूपम् । ‘आडजादीनाम् ' इत्याडागमः । ष्टुत्वम् । निघातः । तिग्मम् । तिज निशाने ' अस्मात् ‘युजिरुचितिजां कुश्च ' इति मक्प्रत्ययः कवर्गादेशश्च । प्रयवयन्।' यु मिश्रणामिश्रणयोः ' इत्यस्य ण्यन्तस्य शतरि रूपम् । लित्स्वरः । गृत्सः । ‘गृधु अभिकाङ्क्षायाम्'। ‘गृधिपण्योर्दकौ च ' इति सप्रत्ययो दकारश्चान्तादेशः । वृषादित्वात् आद्युदात्तः । पुरुधप्रतीकः । पुरुशब्दः' इह संख्यावाची । ‘संख्याया विधार्थे धा' इति धाप्रत्ययः । ह्रस्वछान्दसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Approaching his mother he asked for food, and beheld the acrid **Soma** upon her bosom; eager he proceeds, dislodging the adversaries (of the gods); and, putting forth manifold (energy), he performed great (deeds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On approaching his mother, he called for food; he looked upon the sharp  soma as his udder.  
 Clever, he took care to keep away the others; of manifold countenances,  he performed great things himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not clear who the “others” (anyā́n) are whom he keeps away, but the medial pf. in the next pāda (cakre) implicitly claims that he did the great things (mahā́ni; cf. vīryā̀ṇi … mahā́ni in III.36.1cd) by himself, that is, without the help of others.
 
@@ -147,23 +147,23 @@ These two vss. are noteworthy for containing 3 gerunds, upasthā́ya, abhibhū́
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Desiring food he came unto his Mother, and on her breast beheld the pungent Soma.  
      Wise, he moved on, keeping aloof the others, and wrought great exploits in his varied aspects.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor seine Mutter tretend rief er nach Speise; er schaute nach dem scharfen Soma als dem Euter. Die anderen pflegte der Kluge fernzuhalten. Große Taten vollbrachte er, der vielerlei Gesichter trägt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hineilend bat die Mutter er um Speise, den scharfen Soma sah er da, das Euter; Verscheuchend andre, eilte er begierig, und grosse Werke that der vielgestalt'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Держась возле матери, он попросил еды.  
 Он смотрел на острого сому как на (материнскую) грудь.  

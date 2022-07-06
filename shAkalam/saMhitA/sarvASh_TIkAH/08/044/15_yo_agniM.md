@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अग्निं꣡ तनु꣡वो द꣡मे  
 देव꣡म् म꣡र्तः सपर्य꣡ति  
 त꣡स्मा इ꣡द् दीदयद् व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तस्मै॑ । इत् । दी॒द॒य॒त् । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **मर्तः** मनुष्यः **दमे** गृहे **अग्निं** **देवं** **तन्वः** धनस्य प्राप्त्यर्थमिति शेषः । ‘भोजनं तना' इति धननामसु पाठात् । **सपर्यति** परिचरति **तस्मा** **इत्** तस्मा एव **वसु** धनं दीदयत्। सोऽग्निः प्रयच्छति ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Wealth: **tanvaḥ** dhanasya prāptyartham (Naigh. 2.10); or, in his own house
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who serves god Agni in his own house,  
 just for that man will he bring goods to light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mortal man who serves the God Agni within his own abode,  
      For him he causes wealth to shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche den Gott Agni im eigenen Hause hochhält, dem bringt sein Licht Gutes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Agni in dem eignen Haus, den Gott der Sterbliche verehrt, Dem wahrlich strahlt er Gut herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой смертный в доме своем  
 Почитает бога Агни,  

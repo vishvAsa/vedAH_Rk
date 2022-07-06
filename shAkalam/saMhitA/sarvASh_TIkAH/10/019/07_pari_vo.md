@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि वो विश्व꣡तो दध  
 ऊर्जा꣡ घृते꣡न प꣡यसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ते꣡ रय्या꣡ सं꣡ सृजन्तु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 ये । दे॒वाः । के । च॒ । य॒ज्ञियाः॑ । ते । र॒य्या । सम् । सृ॒ज॒न्तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -114,34 +114,34 @@ popular;; epic anuṣṭubh (424)
 हे देवाः **विश्वतः** सर्वतः स्थितान् **वः** युष्मान् **ऊर्जा** गोसंबन्धिना दधिलक्षणेनान्नेन **घृतेन** आज्येन **पयसा** क्षीरेण च **परि** **दधे** संधारयामि । युष्मभ्यं हविर्द्वारेण प्रयच्छामि । न केवलमात्मानं पुष्णामीत्यर्थः । एतज्ज्ञात्वा **ये** के च **देवाः** **यज्ञियाः** यज्ञार्हाः सन्ति **ते** देवाः **नः** अस्मान् **रय्या** गोलक्षणेन धनेन **सं** **सृजन्तु** संयोजयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On every side I surround you with nourishment, ghee, and milk.  
 Whatever gods there are who are worthy of the sacrifice, let them join us  with wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 offer you on every side butter and milk and strengthening food.  
      May all the Holy Deities pour down on us a flood of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von allen Seiten versehe ich euch mit kräftiger Nahrung, mit Schmalz, mit Milch. Welche Götter alle die Opferwürdigen sind, die sollen uns des Reichtums teilhaft machen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umgib von allen Seiten uns mit Nahrung und mit fetter Milch, Die hehren Götter mögen uns Reichthum ergiessen allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со всех сторон я наделяю вас  
 Питательной силой, жиром, молоком.  

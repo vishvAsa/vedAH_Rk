@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ यो꣡ हो꣡ता कि꣡र् उ स꣡ यम꣡स्य  
 क꣡म् अ꣡प्य् ऊहे य꣡त् समञ्ज꣡न्ति देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था देवा꣡ दधिरे हव्यवा꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 अहः॑ऽअहः । जा॒य॒ते॒ । मा॒सिऽमा॑सि । अथ॑ । दे॒वाः । द॒धि॒रे॒ । ह॒व्य॒ऽवाह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -136,7 +136,7 @@ popular;; repeated line
 **यः** **अयं** **होता** **सः** **किः** को भवति । कीदृशो भवति । तस्य को व्यापार इत्यर्थः । तस्योत्तरमुच्यते । **यमस्य** मृत्योः भीतः सन्निति शेषः । **कमपि** हुतम् **ऊहे** वहति । यद्वा सर्वऋत्विजातं नियमयतीति यमो यजमानः । तस्य कमपि हुतमूहे वहति देवान्प्रति । **यत्समञ्जन्ति** यद्धविः प्राप्नुवन्ति **देवाः** । किंचाग्निः **अहरहः** प्रतिदिनमग्निहोत्रार्थं **जायते** प्रादुर्भवति । तथा **मासिमासि** प्रतिमासं जायते पितृयज्ञार्थम्। एतत्कालद्वयमुपलक्षणं पक्षचतुर्मासषण्माससंवत्सरादीनाम् । अपरे पुनरेवमाहुः । अहरहः सूर्यत्मना जायते मासिमास चन्द्रात्मनेति । **अथ** तमिममग्निं **देवा** **दधिरे** **हव्यवाहं** हविषां वोढारम् । एवमग्निः स्वात्मानं स्वयमेवोक्तवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ popular;; repeated line
 Afraid of Yama: yamasya **bhītaḥ** san = afraid of Yama, i.e., of death; or, yajamānasya, kam = kam **kutam**, whatoffering of the worshipper; or, (the servant) of Yama, Agni as the burner of the dead; day by day: the **agnihotra** ismade daily to the gods, **pitṛ-yajña** is made monthly to the **pitṛs**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Sacificer?:] This one here who is the Hotar—who is he to Yama? Whom  am I calling upon when the gods anoint (him)?  
 Every day he is born, every month. And so the gods have installed him  as conveyor of the oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who is the Priest? Is he the Priest of Yama? On whom is thrust this God-appointed honour?  
      He springs to life each month, each day that passes; so Gods have made him their oblation-bearer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Hotri, was ist er dem Yama? Für wen darf er sich halten, daß ihn die Götter mit Schmalz besalben? Tag für Tag, Monat um Monat wird er erzeugt, und die Götter haben ihn zu ihrem Opferführer bestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ist dieser Priester auch wol Jama's Priester? weiss er auch wol, was Götter gern geniessen? –« »Erzeugt wird Tag für Tag und Mond für Mond er«, da setzten sie ihn ein zum Opferfahrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот, кто хотар, что же он для Ямы?  
 За кого он себя принимает, что боги (его) мажут жиром?  

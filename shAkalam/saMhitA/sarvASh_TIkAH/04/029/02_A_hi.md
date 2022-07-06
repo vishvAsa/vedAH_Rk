@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ हि꣡ ष्मा या꣡ति न꣡रियश् चिकित्वा꣡न्  
 हूय꣡मानः सोतृ꣡भिर् उ꣡प यज्ञ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुष्वाणे꣡भिर् म꣡दति सं꣡ ह वीरइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽअश्वः॑ । यः । अभी॑रुः । मन्य॑मानः । सु॒ऽस्वा॒णेभिः॑ । मद॑ति । सम् । ह॒ । वी॒रैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 **नर्यः** नृभ्यो हितः **चिकित्वान्** सर्वं जानन् **सोतृभिः** सोममभिषुण्वद्भिर्ऋत्विग्भिः **हूयमानः** आहूयमान इन्द्रोऽस्मदीयं **यज्ञम्** **उप** प्रति **आ** **याति** आगच्छतु । **हि** **स्म** इति पूरणौ । **स्वश्वः** शोभनाश्वोपेतः **अभीरुः** निर्भयशीलः सुस्वानेभिः सुन्वद्भिर्यजमानैः **मन्यमानः** स्तूयमानः **यः** इन्द्रः **वीरैः** शूरैर्मरुद्भिः सह **सं** **मदति** **ह** सह माद्यत्येव। स इन्द्र आगच्छत्विति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, the friend of man, the omniscient, come to the sacrifice when invoked by the offerers of libations; he is possessed of good horses, who is fearless honoured by the effusers of libations, who rejoices with the heroes (the **Maruts**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the manly one, ever attentive, drives here, when being called by the  pressers to the sacrifice—  
 he who, with his good horses, thinking himself non-frightening, becomes  exhilarated along with the heroes who have pressed the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase ábhīrur mányamānaḥ is troublesome. The other three occurrences of ábhīru- all mean ‘fearless’, but “thinking himself fearless” is an odd thing to say about Indra. For one thing, he’s such a mighty warrior that there seems no need to assert fearlessness about a creature for whom fear would be unthinkable (though recall his flight at the end of I.32, where he’s compared to a “frightened falcon” [śyenó ná bhītáḥ I.32.14]). For another, X mányate (/-yamāna-) expressions almost always identify the content of the thought as being the wrong idea about oneself or someone else. But surely it’s not that Indra thinks he’s fearless but is actually terrified. For this reason I take this bahuvrīhi to mean ‘not having -- that is, not producing -- fear’ (in others). This is a sense that Grassmann allows (‘nicht furchterregend’), though for a different passage. The point here would be that Indra is coming to the sacrifice to have a jolly soma drink-up with the pressers, thinking he’s just a regular guy, not a terror-inspiring deity. Note that he “produces fearlessness” (kárat … ábhayam) for us in the next vs. ### 03
 I take vājayádhyai not to the denom. vājayá- ‘seek prizes’, but the primary - áya- formation vājáya- ‘rouse’. It shows accent shift in the -dhyai infinitive, just as mandayádhyai does.
@@ -143,23 +143,23 @@ I take vājayádhyai not to the denom. vājayá- ‘seek prizes’, but the prim
 If we maintain the transmitted text, I do not know what to do with prá in b, apparently interrupting the expression júṣtām ánu … díśam (though this interruption is mitigated by its immediately flg. the caesura). √mand does appear with prá, though not terribly often, so it might go with the infinitive. Or one can supply a verb of motion: “(he goes / send him) forth to make him reach exhilaration.” Geldner cites similar pū́rvam ánu prá díśam in I.95.3 and also suggests that an impv. parallel to śrāváya should be supplied. However, the most likely solution is that endorsed by Oldenberg: to read pradíśam, a reading already found in Grassmann
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Man's Friend, to this our sacrifice he cometh marking how he is called by Soma-pressers.  
      Fearless, and conscious that his Steeds are noble, he joyeth with the Soma-pouring heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn der Mannhafte kommt aufmerksam herbei, wenn er von den Somapressenden zum Opfer gerufen wird, mit schönen Rossen, der für furchtlos gilt und mit den pressenden Männern zusammen zecht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon kommt ja her der tapfere vernehmend, zum Opfer her gerufen von den Pressern, Mit schönen Rossen, furchtlos sich erweisend, mit Männern schwelgt er, die den Soma pressten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь приходит мужественный, внимательный,  
 Когда зовут его выжиматели (сомы) на жертву,  

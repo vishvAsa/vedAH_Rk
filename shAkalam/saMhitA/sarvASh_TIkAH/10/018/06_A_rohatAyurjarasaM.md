@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रोहता꣡युर् जर꣡सं वृणाना꣡  
 अनुपूर्वं꣡ य꣡तमाना य꣡ति ष्ठ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीर्घ꣡म् आ꣡युः करति जीव꣡से वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒ह । त्वष्टा॑ । सु॒ऽजनि॑मा । स॒ऽजोषाः॑ । दी॒र्घम् । आयुः॑ । क॒र॒ति॒ । जी॒वसे॑ । वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -124,7 +124,7 @@ popular
 हे मृतस्य स्वजनाः पुत्रपौत्रादयः **जरसं** जरां **वृणानाः** संभजमाना यूयम् **आयुः** जीवनम् **आ** **रोहत** अधितिष्ठत । **अनुपूर्वम्** आनुपूर्व्येण । अव्ययीभावः । पूर्वो ज्येष्ठः । ज्येष्ठानुपूर्व्या **यतमानाः** प्रयत्नं कुर्वन्तो यूयं **यति** **स्थ** यत्संख्याका भवथ । यच्छब्दाच्छान्दसो डतिः । **सुजनिमा** शोभनजननः **त्वष्टा** एतन्नामको देवः **सजोषाः** भवद्भिः संगतः सन् **इह** अस्मिन् कर्मणि प्रवृत्तानां **वः** युष्माकं **जीवसे** जीवनाय **दीर्घं** प्रभूतम् **आयुः** **करति** करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,34 +135,34 @@ popular
 Striving one after the other: the eldest first; of good racesof men, being at one (with you), grant you (busy) at this (sacrifice), a long life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mount your lifetime, choosing old age, taking your place each following  the last, as many as you are.  
 Here will Tvaṣṭar, affording good birth, in concert (with the Wives of the  Gods), make a long lifetime for you to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Live your full lives ap! find old age delightful, all of you striving one behind the other.  
      May Tvastar, maker of fair things, be gracious and lengthen out the days of your existence.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Do ye attain long life, old age selecting, As many as you are combined in order. May Tvaṣṭar, well-disposed, the skilled creator, Produce forthwith long life for your existence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steiget auf, langes Leben, das Alter euch ausbittend, in der richtigen Reihenfolge euch anschließend, so viele wie ihr seid! Möge Tvastri, der gute Geburten gibt, damit einverstanden euch hienieden lange Frist zum Leben gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Lebens Kraft erreicht zu hohem Alter, wie viel ihr seid, zu einem Zug verbunden; Der Gutes zeugt, mit euch vereinigt, Tvaschtar verschaffe lange Dauer eurem Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимайтесь вы, выбирая себе (долгую) жизнь (и) старость,  
 В правильном порядке смыкая ряды, сколько (вас) есть!  

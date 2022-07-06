@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवा꣡ अनमस्यन् भियाना꣡स्  
 तुवा꣡म् अग्ने त꣡मसि तस्थिवां꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मर्तियो अवतु ऊत꣡ये नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 वै॒श्वा॒न॒रः । अ॒व॒तु॒ । ऊ॒तये॑ । नः॒ । अम॑र्त्यः । अ॒व॒तु॒ । ऊ॒तये॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -112,20 +112,20 @@ genre D
 हे वैश्वानर **तमसि** अन्धकारे **तस्थिवांसं** स्थितवन्तं **त्वां** **विश्वे** सर्वे **देवाः** **अनमस्यन्** नमस्कुर्वन्ति । कुतो हेतोः । **भियानाः** अन्धकाराद्भीताः । तादृशः **अमर्त्यः** मरणरहितः **वैश्वानरः** अग्निः **नः** अस्मान् **ऊतये** ऊत्या रक्षणेन **अवतु** रक्षतु । पुनरुक्तिरादरार्था ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the gods, alarmed, venerate you, **Agni**, abiding in darkness; may **vaiśvānara** preserve us with his protection; may the immortal Agni preserve us with his protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the gods, in fear, offered homage to you, Agni, while you were (still)  standing in the darkness.  
 Let Vaiśvānara give help to aid us; let the immortal one give help to  aid us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final vs. of the hymn forms the outer frame of the omphalos structure with vs. 1. We have already noted the responsion of hemistich-initial vaiśvānaráḥ in 1c and 7c and the only two occurrences of the stem agní- in 1d and 7b. Another important verbal repetition is támas-, the last word of vs. 1, found in 7b in the phrase támasi tasthivā́ṃsam “(Agni,) standing in darkness.” The sentence in which this is found seems an odd way to end a hymn: “all the gods, in fear (bhiyānā́ḥ), offered homage (anamasyan) to you, while you were standing in darkness.” Why are the gods afraid and what time period does the augmented imperfect refer to? And why is this somewhat downbeat statement the real end of the hymn (the last hemistich being a generic request for aid)? I don’t have certain answers to these questions, but I think the omphalos structure gives us some guidance. This final vs. seems not simply to circle round to the 1st vs., but in fact to take us to a time (right) before the events depicted in the first vs. In vs. 1 Agni overcame the darkness with his light (1d); here he is still in darkness, before he has become equipped with light, before he has been kindled, in fact. The gods are afraid because they fear he won’t light up -- and, reading between the lines, he will only light up if the human ritualists kindle him.
 
@@ -143,23 +143,23 @@ And of course it is Agni Vaiśvānara who is the source of the poet’s revelati
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All the Gods bowed them down in fear before thee, Agni, when thou wast dwelling in the darkness.  
      Vaisvanara be gracious to assist us, may the Immortal favour us and help us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter verehrten dich aus Furcht, als du, Agni, im Dunkel dich aufhieltest. Vaisvanara soll uns gnädig sein zur Gnade, der Unsterbliche soll uns gnädig sein zur Gnade!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter alle beugten sich in Ehrfurcht vor dir als, Agni, du im Dunkel standest; Der Menschenhort sei uns zum Schutze hülfreich, uns der unsterbliche zum Schutze hülfreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все боги поклонились тебе в страхе,  
 О Агни, когда ты пребывал во тьме.  

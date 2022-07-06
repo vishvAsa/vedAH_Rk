@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य त्रिधा꣡तु अ꣡वृतम्  
 बर्हि꣡स् तस्था꣡व् अ꣡संदिनम्  
 आ꣡पश् चिन् नि꣡ दधा पद꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आपः॑ । चि॒त् । नि । द॒ध॒ । प॒दम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -103,7 +103,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यस्य** अग्नेः **त्रिधातु** त्रिः **अवृतम्** अनावृतं च **असंदिनम्** अबद्धं च । स्तरणकाले हि बर्हिरबद्धं भवति । बर्हिस्तस्थौ आसनार्थं तिष्ठति तस्मिन्नग्नौ **आपश्चित्** आपोऽपि **पदं** **नि** **दध** निदधति । अन्तरिक्ष्या माध्यमिके पदं निदधतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,12 +116,12 @@ Waters find their plural ce in him: waters rest in **Agni**, who abides as light
 Tridhātu = threeelements
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose ritual grass still stands uncut, not yet triply bundled— even his footprint you waters have deposited.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t really understand this verse, but it seems to conjoin technical ritual references with an allusion to the myth of Agni’s flight and his concealment in the waters -- and these two interpretive strains are somewhat at cross purposes.
 
@@ -132,23 +132,23 @@ But in ritual context the water’s setting down Agni’s footprint may refer to
 14c and Hillebrandt, Rit. Lit. 110), and therefore from a ritual point of view the preparations are proceeding smoothly. The next verse gives support to this alternative.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The waters find their place in him, for whom the threefold sacred grass  
      Is spread unbound, unlimited.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen dreifaches Barhis noch unbedeckt, ungeschnitten dasteht. Selbst ihr Gewässer habt eure Spur hinterlassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Wasser, setztet hin den Platz ihm, dessen dreigetheilte Streu Noch unbeengt ist, unbeschränkt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чья трехслойная жертвенная солома  
 Остается неперевернутой, несвязанной,  

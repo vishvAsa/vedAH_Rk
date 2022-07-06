@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ पवस्व मदिरो꣡ म꣡दाय  
 उदग्राभ꣡स्य नम꣡यन् वधस्नइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गव्यु꣡र् नो अर्ष प꣡रि सोम सिक्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 परि॑ । वर्ण॑म् । भर॑माणः । रुश॑न्तम् । ग॒व्युः । नः॒ । अ॒र्ष॒ । परि॑ । सो॒म॒ । सि॒क्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -112,20 +112,20 @@ genre M
 हे सोम मदिरोमदकरस्त्वं उदग्राभस्य क्रियाग्रहणङ्कर्तव्यमिति कर्मणः सम्प्रदानसञ्ज्ञा चतु र्थ्यर्थेबहुलमितिषष्ठी । उदग्राभं उदकग्राहिणम्मेघं वधस्नैः हननसाधनैरायुधैः नमयन् वृष्ट्य- र्थम्प्रह्वीकुर्वन् मदाय मदार्थमेव पवस्व एवं पात्रेषुक्षर । किञ्च रुशन्तं आरोचमानं श्वेतं वर्णं परिभरमाणः परितोबिभ्रत् सिक्तः पवित्रेसिच्यमानस्त्वं गव्युः नोस्माकं गाइच्छन् पर्यर्ष परिगच्छ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus flow, the exhilarator, for **Indra**'s exhilaration bowing down the rain-holder with (your) weapons, assuming brilliant colour, desirous of our cattle, flow, **Soma**, sprinkled (into the filter).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself thus, an exhilarating one for exhilaration, bowing with  your weapons (those) of the water-grasper.  
 Encompassing the glistening color, seeking cows, rush to us, when you  are poured around, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was noted just above, the hymn-summary quality of the evā́opening this vs. is not sufficiently represented. I would now alter the tr. to “Just in this way purify yourself …” The etym. figure madiró mádāya is reminiscent of matsaró mádāya in the previous tṛca (11d), and pāda-final mádāya is prominent in the first part of this hymn (5b, 10b, 11d, 15a).
 
@@ -147,23 +147,23 @@ The poet is supposed to be Upamanyu Vāsiṣṭha, presumably following up on th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So flow thou on inspiriting, for rapture, aiming deatb-shafts at him who stays the waters,  
      Flow to us wearing thy resplendent colour, effused and eager for the kine, O Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So läutere dich, berauschend zum Rausche, mit den Schlägen die des Wasserfassers parierend. Weiße Farbe annehmend fließe uns, nach den Kühen verlangend, wann du umgegossen bist, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle flammend denn zur Lust berauschend, den Dieb der Flut mit Keulen niederschmetternd, Ringshin verbreitend deine lichte Farbe, kampflustig, Soma, ström' uns rings ergossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся так, пьянящий для опьянения,  
 Смертельными ударами отражая (удары) захватчика воды!  

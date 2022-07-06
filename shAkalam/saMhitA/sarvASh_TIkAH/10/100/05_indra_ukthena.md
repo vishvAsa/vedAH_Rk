@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र उक्थे꣡न श꣡वसा प꣡रुर् दधे  
 बृ꣡हस्पते प्रतरीता꣡सि आ꣡युषः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 य॒ज्ञः । मनुः॑ । प्रऽम॑तिः । नः॒ । पि॒ता । हि । क॒म् । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -125,36 +125,36 @@ genre M;; repeated line
 अयम् **इन्द्रः** **उक्थेन** **शवसा** स्तुत्येन बलेन **परुः** पर्व यज्ञियमस्मदीयं वा **दधे** धारयति । हे **बृहस्पते** **आयुषः** ममायुष्यस्य **प्रतरीता** प्रवर्धयिता **असि** भव । तथा **यज्ञो** **मनुः** मन्ता **प्रमतिः** प्रकृष्टा मतिर्यस्य सः **नः** **पिता** पालकः सन् **कं** सुखं प्रयच्छतु । यद्वा । यज्ञो मन्त्रो बुद्धिश्च प्रत्येकं सुखं प्रयच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By his laudable strength **Indra** supports my limb; you, **Bṛhaspati**, are the prolonger of my life. May thesacrifice, the sage **Manu**, (being) our protector, (grant) us happiness. We long for the universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra with his vast power has appropriated the articulation (of the  sacrifice?) along with our hymn. O Br̥haspati, you are the lengthener  of lifetime.  
 The sacrifice is Manu, for it is solicitude, is certainly a father to us. – We  choose wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath given the body with its song and strength: Brhaspati, thou art the lengthener of life.  
      The sacrifice is Manu, Providence, our Sire. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat durch den Lobpreis an Kraft ein Gelenk angesetzt. Brihaspati, du bist der Verlängerer unseres Lebens. Das Opfer ist Manu, denn es ist unsere Vorsehung und Vater. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra empfing mit Spruch und Kraft das Somakraut; Brihaspati, du dehnest unser Leben aus; Das Opfer ist uns Manu, wie ein Vater hold; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡यताम् इव तन्यतु꣡र्  
 मरु꣡ताम् एति धृष्णुया꣡  
 य꣡च् छु꣡भं याथ꣡ना नरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । शुभ॑म् । या॒थन॑ । न॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jayatām* ← *ji*
 - \[verb noun\], genitive, plural
@@ -82,35 +82,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मरुतां** देवानां **तन्यतुः** शब्दः **धृष्णुया** धार्ष्ट्ययुक्तः सन् **एति** गच्छति। केषामिव । **जयतां** विजययुक्तानां शूराणां भटानाम् **इव** । हे **नरः** नेतारः मरुतः यूयं **यत्** यदा **शुभं** शोभनं देवयजनं **याथन** प्राप्नुथ । तदा त्वदीयः शब्दो गच्छतीति पूर्वत्रान्वयः ॥ तन्यतुः ।  ‘ तनु विस्तारे '। ऋतन्यञ्जि° ' ( उ. सू. ४. ४४२ ) इत्यादिना यतुच्प्रत्ययः । धृष्णुया। ञिधृषा प्रागल्भ्ये '। ' त्रसिगृधिधृषिक्षिपेः क्नुः' ( पा. सू. ३. २. १४०)।' सुपां सुलुक्° ' इति सोः याजादेशः । चित्त्वादन्तोदात्तः । याथन ।' तप्तनसनथनाश्च' इति थनादेशः । यच्छब्दयोगात् निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whenever, leaders (of men), you accept an auspicious (offering), then the shout of the **Maruts** spreads with exultation, like (that) of conquerors.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The thundering of (you) Maruts, like that of victors, goes boldly, when, o men, you drive in beauty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fierce comes the Maruts' thundering voice, like that of conquerors, when ye go  
      Forward to victory, O Men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ungestüm ergeht der Marut Donner wie der Donnerruf der Sieger, wenn ihr Herren im Prunkzug ausfahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie kühner Sieger Donnergang, so dringt der Maruts Toben vor, Wenn, Männer, ihr zum Glänze eilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно рождается гром  
 Марутов, как (грозный клич) победителей,  

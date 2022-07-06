@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि द्युक्षः꣡ सन꣡द्रयिर्  
 भ꣡रद् वा꣡जं नो अ꣡न्धसा  
 स्वानो꣡° अर्ष पवि꣡त्र आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सु॒वा॒नः । अ॒र्ष॒ । प॒वित्रे॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **द्युक्षः** दीप्तः **सनद्रयिः** दीयमानधनः सोमः **नः** अस्माकं **वाजं** बलम् **अन्धसा** अन्नेन सह  **परि** **भरत्** परिभरतु प्रयच्छतु। अथ प्रत्यक्षस्तुतिः । हे सोम **सुवानः** अभिषूयमाणस्त्वं **पवित्रे**  **आ** **अर्ष** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **Sāmaveda** has svano for suvāno
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven-ruling, gaining wealth, bringing a prize to us with your stalk, being pressed, rush around into the filter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was pointed out in the published introduction, two parallel governing compounds, sanádrayiḥ 'gaining wealth' (1a) and maṃhayád-rayiḥ 'readying wealth' (5c), open and close the hymn. The former also resonates with the adjacent expression across the pāda boundary, bhárad vā́jam. This phrase cannot help but remind us of the personal name bharádvāja-, which is of course in form also a governing cmpd. This stem is primarily confined to Maṇḍala VI, which is attributed to this ṛṣi and his family, but it would surely be known throughout RVic circles. Note also that some vss. and hymns in IX are attributed by the Anukramaṇī to Bharadvāja or a Bhāradvāja: Bharadvāja IX.67.1-3, Vasu Bhāradvāja IX.80-82, Ṛjiśvan Bhāradvāja IX.98 (jointly with Ambarīṣa Vārṣāṅgira), 108.6-7.
 
@@ -115,23 +115,23 @@ injunc., with Soma as its subj. This requires a shift of ps. from 3rd (ab) to 2n
 Maṇḍala IX contains several occurrences of this form; cf. for the phraseology here IX.44.1 … bíbhrad arṣasi. I also find suggestive the two exx. of bíbhrad vájram (VI.20.9, 23.1) “bearing the mace,” with vájram a phonological multiform of vā́jam; since these are both in the Bharadvāja maṇḍala, they are likely meant to evoke that name. See comm. ad VI.20.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WEALTH-WINNER, dwelling in the sky, bringing us vigour with the juice,  
      Flow to the filter when effused.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herumfahrend möge der Himmlische Reichtümer erwerbend, uns durch seinen Trank Gewinn einbringen. Ausgepreßt fließe auf die Seihe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Reichthumspender bring' uns Kraft durch seinen Saft, der himmlische, Gepresst ergiess dich in das Sieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

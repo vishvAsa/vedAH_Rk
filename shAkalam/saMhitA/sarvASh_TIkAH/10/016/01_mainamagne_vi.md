@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मइ꣡नम् अग्ने वि꣡ दहो मा꣡भि꣡ शोचो  
 मा꣡स्य त्व꣡चं चिक्षिपो मा꣡ श꣡रीरम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थेम् एनम् प्र꣡ हिणुतात् पितृ꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । शृ॒तम् । कृ॒णवः॑ । जा॒त॒ऽवे॒दः॒ । अथ॑ । ई॒म् । ए॒न॒म् । प्र । हि॒णु॒ता॒त् । पि॒तृऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mainam* ← *mā*
 - \[adverb\]
@@ -148,7 +148,7 @@ popular
 हे अग्ने एनं प्रेतं माविदहः विशेषेण दग्धं भस्मीभूतं माकुरु माभिशोचः अभितः शोकेन सन्तापेन युक्तं माकुरु । अस्य त्वचं माचिक्षिपः इतस्ततोविक्षिप्तां माकुरु शरीर- मपि विक्षिप्तं माकुरु । हे जातवेदः अग्ने यदा त्वं श्रृतं पक्वं सुदग्धं कृणवः करिष्यसि अथ तदानीं ईमेनं प्रेतं पितृभ्यः प्राहिणुतात् पितृसमीपे प्रेरय ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,29 +159,29 @@ popular
 The first six ṛcas are to be recited at (orupon) the death of an initiated person n-- dīkṣitamaraṇe; not his skin nor his body: may be an allusion to thespiritual, or suṣma **śarīra**; do not reduce him to **ashes**, bhamībhūtam mā **kuru**\]..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t burn him through, Agni; don’t scorch him; don’t singe his skin,  nor his body.  
 When you will make him cooked to readiness, Jātavedas, then impel him  forth to the forefathers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Burn him not up, nor quite consume him, Agni: let not his body or his skin be scattered.  
      O Jatavedas, when thou hast matured him, then send him on his way unto the Fathers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verbrenn ihn nicht ganz, o Agni, verglüh ihn nicht, versenge nicht seine Haut noch seinen Körper! Wenn du ihn gar gemacht haben wirst, o Jatavedas, dann entlaß ihn zu den Vätern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verbrenn ihn nicht, verzehr ihn nicht, o Agni, zersprenge nicht die Haut ihm und die Glieder; Wenn du ihn gar gemacht, o Wesenkenner, dann sollst du ihn zu unsern Vätern senden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не сожги его, Агни, дотла, не спали!  
 Не испепели его кожу и тело!  

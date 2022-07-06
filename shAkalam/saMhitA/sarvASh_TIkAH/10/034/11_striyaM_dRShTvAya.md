@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्त्रि꣡यं दृष्ट्वा꣡य कितवं꣡ तताप  
 अन्ये꣡षां जायां꣡ सु꣡कृतं च यो꣡निम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अग्ने꣡र् अ꣡न्ते वृषलः꣡ पपाद
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पू॒र्वा॒ह्णे । अश्वा॑न् । यु॒यु॒जे । हि । ब॒भ्रून् । सः । अ॒ग्नेः । अन्ते॑ । वृ॒ष॒लः । प॒पा॒द॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *striyaṃ* ← *striyam* ← *strī*
 - \[noun\], accusative, singular, feminine
@@ -145,41 +145,41 @@ popular
 **कितवं** कितवः । विभक्तिव्यत्ययः । **अन्येषां** स्वव्यतिरिक्तानां पुरुषाणां **जायां** जायाभूतां **स्त्रियं** नारीं सुखेन वर्तमानां **सुकृतं** सुष्ठु कृतं **योनिं** गृहं **च** दृष्ट्वाय मज्जाया दुःखिता गृहं चासंस्कृतमिति ज्ञात्वा **तताप** तप्यते । पुनः **पूर्वाह्णे** प्रातःकाले **बभ्रून्** बभ्रुवर्णान् **अश्वान्** व्यापकानक्षान् **युयुजे** युनक्ति । पुनश्च **वृषल:** वृषलकर्मा **सः** कितवो रात्रौ अग्नेरन्ते समीपे **पपाद** शीतार्तः सन् शेते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gamester, having observed the happy wife and well-ordered home of others, suffers regret; yet inthe forenoon he puts to the tawny steeds, and at night the sinner lies down by the fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It scorched the gambler to see a woman—the wife and well-ordered  home of others.  
 Since early in the day he hitched up his brown horses [=dice], the “little  bullock” fell [=left off gambling and sought shelter] (only) at the end  of the fire [=late at night].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sad is the gambler when he sees a woman, another man's wife, and his well-ordered dwelling.  
      He yokes the brown horses [= the dice] in the early morning, and in the evening he sinks down beside [his] fire, a beggar.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 It pains the gambler when he sees a woman Another's wife, and their well-ordered household. He yokes those brown steeds early in the morning, And when the fire is low sinks down a beggar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es peinigt den Spieler, als er das Eheweib und das wohlbereitete Lager anderer sah. Da er schon am Vormittag die braunen Rosse angespannt hatte, so sank er elend in der Nähe des Feuers nieder:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schmerzt den Spieler, wenn er nur ein Weib sieht, die Gattin und den schönen Heimsitz andrer; Die braunen Würfel schirrt er früh am Morgen und spät am Feuer sinkt er kraftlos nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Игрок стал мучиться, увидев женщину –  
 Жену других и (их) уютный домашний очаг.  

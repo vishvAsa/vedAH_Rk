@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिरण्य꣡यी वां᳐ र꣡भिर्  
 ईषा꣡ अ꣡क्षो हिरण्य꣡यः  
 उभा꣡ चक्रा꣡ हिरण्य꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒भा । च॒क्रा । हि॒र॒ण्यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyayī* ← *hiraṇyaya*
 - \[noun\], nominative, singular, feminine
@@ -74,42 +74,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अश्विनौ **वां** युवयोः **रभिः** आरम्भणीयालम्भनभूता रथस्य **ईषा** **हिरण्ययी** हिरण्मयी हिरण्यविकारा । **अक्षः** च **हिरण्ययः** हिरण्मयो हिरण्यनिर्मितः । ‘ईषा अक्षादिषु च्छन्दसि । (पा. सू. ६. १. १२७, २) इति प्रकृतिभावः । अपि च **उभा** उभे द्वे अपि **चक्रा** चक्रे रथचरणे **हिरण्यया** हिरण्मये सुवर्णनिर्मिते। ‘सुपां सुलुक्' इति द्विवचनस्याकारः । ‘ऋत्व्यवास्त्व्यवास्त्व इत्यादिना हिरण्यशब्दान्मयटो मलोपो निपात्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Golden is its supporting shaft, golden the axle, golden both the wheels.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Golden your chariot-shaft, golden your chariot-pole and your axle; golden both your wheels—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntactic disorder continues here. The main clause corresponding to vs. 28 is vs. 30; this intermediate verse, the middle one of the tṛca, is an elaborate nominal sentence couched entirely in the nominative and functions as an extensive parenthesis further specifying the features of the chariot found in 28a (in the acc.).
 
 On ubhā́cakrā́“both wheels,” with apparent neut. pl. for expected du cakré see comm. ad X.10.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Golden is its supporting shaft, the axle also is of gold,  
      And both the wheels are made of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Golden ist eure Lehne, die Deichsel, golden die Achse; beide Räder sind golden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Gold ist Achse, Deichsel euch, und euer Zugscheit ist von Gold, Und golden euer Räderpaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Золотые у вас поручни,  
 Оглобли, ось золотая,  

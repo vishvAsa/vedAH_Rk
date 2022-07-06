@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मात꣡रा सू꣡रियेणा कवीना꣡म्  
 अ꣡वासयद् रुज꣡द् अ꣡द्रिं गृणानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् उस्रि꣡याणाम् असृजन् निदा꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सु॒ऽआ॒धीभिः॑ । ऋक्व॑ऽभिः । वा॒व॒शा॒नः । उत् । उ॒स्रिया॑णाम् । अ॒सृ॒ज॒त् । नि॒ऽदान॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -110,20 +110,20 @@ genre M
 **सः** इन्द्रः **मातरा** मातरौ दिवं च पृथिवीं च **कवीनां** क्रान्तदर्शिनामङ्गिरसामर्थाय **सूर्येण** **अवासयत्** प्राकाशयत् । किं कुर्वन् । **अद्रिं** गवामदर्शनाय वलेन स्थापितं पर्वतं **रुजत्** भञ्जन् । यद्वा । कवीनाम् अङ्गिरसामिति तृतीयार्थे षष्ठी । अङ्गिरोभिः **गृणानः** स्तूयमान इति संबन्धः । अपि च **स्वाधीभिः** शोभनध्यानैः **ऋक्वभिः** स्तोतृभिरङ्गिरोभिः **वावशानः** पुनः पुनः काम्यमानः सन् **उस्रियाणां** वलस्य भृत्यैः पणिभिरपहृतानां गवां **निदानं** बन्धनम् **उत्** **असृजत्** अमोचयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He has obtained the parent (worlds, heaven and earth), with the sun, for the sake of the sages, (he **aṅgirasas**), and, glorified (by them), he has shattered the mountain; repeatedly wished for by his adorers intently meditating (upon him), he has cast off the fetters of the kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He made the two mothers of the poets shine with the sun; he broke the  rock as he was being hymned.  
 Bellowing [/being eager] along with the very attentive versifiers, he let  loose the binding of the ruddy cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the “two mothers/parents of the poets” (mātárā … kavīnā́m) has been much discussed; see esp. Oldenberg, as well as Geldner (n. 2ab) and Schmidt (Bṛhaspati und Indra 151).
 
@@ -143,23 +143,23 @@ On mitájñu- see Scarlatta 344; it is used here in a context very similar to ab
 The second hemistich contains a series of balanced etymological figures: púraḥ purohā́sákhibhiḥ sakhīyán, … kavíbhiḥ kavíḥ sán. I am somewhat puzzled by the nom. sg. pres. part. sán, which is usually concessive, but which should not have that function here. The use of sán is esp. surprising because it breaks the parallelism of the two rhyming post-caesura phrases in cd: … sákhibhiḥ sakhīyán, … kavíbhiḥ kavíḥ sán. We should expect rather *kavīyán, matching sakhīyán, and in fact the stem kavīyánt- does exist (IX.94.1 kavīyán, also in pāda-final position). Perhaps an exact match would have been considered too sing-songy, and the near-match phonologically of -íḥ sán with -īyán suggested the figure without insisting on it. Or else the poet wanted to emphasize that Indra is indeed a poet, in addition to his usual roles as victorious warrior and first comrade among comrades. In the latter case, the phrase might be tr. “being himself a poet along with poets.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Amid the sages, with the Sun he brightened the Parents: glorified, he burst the mountain;  
      And, roaring with the holy-thoughted singers, he loosed the bond that held the beams of Morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er erleuchtete die beiden Mütter der Seher durch die Sonne; er erbrach gepriesen den Fels. Mit den gutessinnenden Sängern macht e er begierig die Fessel der Kühe los.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er machte hell der weisen Götter Aeltern durch Sonnenlicht, zerbrach den Fels, der hehre; Von jubelnden begrüsst, die auf ihn schauten, band los er da den Strang der rothen Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он осветил двух матерей поэтов  
 Солнцем, пробил скалу, когда его воспели.  

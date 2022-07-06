@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वेधा꣡ अ꣡दृप्तो अग्नि꣡र् विजान꣡न्न्  
 ऊ꣡धर् न꣡ गो꣡नां स्वा꣡द्मा पितूना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वे॒धाः । अदृ॑प्तः । अ॒ग्निः । वि॒ऽजा॒नन् । ऊधः॑ । न । गोना॑म् । स्वाद्म॑ । पि॒तू॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vedhā* ← *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
@@ -79,41 +79,41 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[3-4\] The wise, the humble, and discrimating **Agni**, is the giver of flavour to food, as the udder of cows (gives sweetness to the milk); invited (to the ceremony), he sits in the sacrificial chamber, diffusing happiness like a benevolent man, amongst mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Discerning Agni is the undistracted ritual expert;  
 like the udder of cows he is the sweetness of foods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born in the dwelling like a lovely son, pleased, like a strong steed, he bears on the folk.  
      What time the men and I, with heroes, call, may Agni then gain all through Godlike power.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (Agni is) a worshipper (of the gods), never foolish, (always) discriminating; (he is) like the udder of the cows; (he is) the sweetness of food 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein unbeirrter Meister, der sich auskennt, ist Agni. Wie der Kühe Euter ist er das, was die Speisen schmackhaft macht
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es kennet Agni, – der treue Sorger der Kühe Euter, – der Tränke Labsal, Der anzuflehn ist – als Freund dem Menschen, sich lieblich setzend – in Hauses Mitte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

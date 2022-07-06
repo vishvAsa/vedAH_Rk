@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् वि꣡श्वानि का꣡विया  
 चक्रे꣡ ना꣡भिर् इव श्रिता꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 त्रि॒तम् । जू॒ती । स॒प॒र्य॒त॒ । व्र॒जे । गावः॑ । न । स॒म्ऽयुजे॑ । यु॒जे । अश्वा॑न् । अ॒यु॒क्ष॒त॒ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -137,21 +137,21 @@ genre M;; repeated line
 सह स्थापयितुं **युजे** युञ्जन्ति तथास्माकमभियोगाय **अश्वानयुक्षत** सपत्ना युञ्जन्ति । अतस्तदुपद्रवपरिहाराय वरुणं परिचरतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In whom all pious acts are concentrated, like the nave in the (centre of the) wheel, worship him quicklywho abides in the **three worlds**; as men assemble the cattle in their pasture, so do (our foes) collect their horses(to assail us); may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whom are fixed all poetic arts—(he is) like the nave in a wheel. Do  honor to Trita [/the third one] with alacrity.  
 Like oxen in a pen to be yoked together, they have yoked the horses for  yoking.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The iva in the simile is also displaced to the right, as in the previous vs. The simile is also more complex than it first appears. The obvious way to render it is “In whom are fixed all poetic arts like the nave in a wheel,” with Varuṇa the wheel and the poetic arts the nave, but the more likely image is that the spokes are fit into the nave -- with Varuṇa the nave and the unexpressed spokes the poetic arts.
 
@@ -160,23 +160,23 @@ I have no idea what or who tritá- stands for.
 The images in de are also somewhat skewed. Geldner takes the two pādas separately, with d a nominal sentence with infinitival saṃyúje as predicate, despite the yoking vocabulary common to both pādas. He must do that because the gā́vaḥ in d must be nom., but corresponds logically to the acc. áśvān in e. Oldenberg suggests taking gā́vaḥ as acc. (as also possibly in IX.24.2, on which see comm. ad loc.). I take the two pādas together, classifying it as another example of case disharmony in a simile (Jamison 1982), enabled by the syntactic multifunctionality of the infinitival saṃyúje, yujé (with both act. and pass. readings). Scarlatta’s attempt (431) to construe the two pādas together and also account for the cases shows the pitfalls, as it wanders off into fanciful territory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In whom all wisdom centres, as the nave is set within the wheel.  
      Haste ye to honour Trita, as kine haste to gather in the fold, even as they muster steeds to yoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem alle Sehergaben stecken wie die Nabe im Rad. Haltet den Trita mit Eifer in Ehren! Wie die Kühe in der Hürde sind sie zur Vereinigung fertig. Sie haben ihre Rosse zur Fahrt angeschirrt. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In welchem alle Weisheit ruht wie in dem Rad die Nabe sitzt; Wie Rinder man im Stall vereint, wie Rosse man zusammenschirrt; verehrt den Trita eifervoll. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В ком укреплены все поэтические силы,  
 Словно ступица в колесе –  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ भाति अग्नि꣡र् उष꣡साम् अ꣡नीकम्  
 उ꣡द् वि꣡प्राणां देवया꣡ वा꣡चो अस्थुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पीपिवां꣡सम् अश्विना घर्म꣡म् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒र्वाञ्चा॑ । नू॒नम् । र॒थ्या॒ । इ॒ह । या॒त॒म् । पी॒पि॒ऽवांस॑म् । अ॒श्वि॒ना॒ । घ॒र्मम् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **उषसामनीकम्** अनीकभूतः । अनीकं मुखम् । उषसि प्रबुध्यमान इत्यर्थः। तादृशः **अग्निः** **आ** **भाति** दीप्यते । यद्वा । उषसां मुखम् आ भाति दीपयति । उषःकाले ह्यग्नयः प्रतिबोध्यन्ते । किंच **विप्राणां** मेधाविनां स्तोतॄणां **देवयाः** देवकामाः **वाचः** स्तोत्राणि **उत्** **अस्थुः** उत्तिष्ठन्ति। यस्मादेवं तस्मात् हे **रथ्या** रथस्वामिनावश्विनौ **अर्वाञ्चा** अस्मदभिमुखाञ्चनौ **नूनम्** अद्यास्मिन् यागदिने **इह** आ **यातम्** । कं प्रति । **पीपिवांसं** स्वाङ्गैः परिवृढं **घर्मं** प्रदीप्तं यज्ञम् । यद्वा । पीपिवांसमाप्यायितं वसतीवरीभिः क्षरद्रूपं सोमरसम् । अथवा घृतादिना पीपिवांसं धर्मं प्रवर्ग्यम् **अच्छ** अभिलक्ष्य इह यातम् । प्रवर्ग्येऽस्य सूक्तस्य विनियोगः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M
 Agni lights up the face of the dawns: ābhāti agnir uṣasām anīkam: anīkam = mukham, or the verse may be rendered: Agni, the face of beginning of the dawns, shines; come hither today: pipivāṃsam gharmam **accha** = svāṅgaiḥ parivṛdham pradīptam yajñam, to the bright sacrifice, vast or developed with all its members; or, pipivāṃsam = āpyayitam, nourished, with the Somajuice or with clarified butter; **gharma**, again, may mean the vessel so called or the **pravargya** ceremony, at which it is used, being fed or nourished, pipivāmsam, with the butter and curds it contains
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni shines toward the face of Dawn. The words of inspired poets,  traveling to the gods, have arisen.  
 Now, o you two charioteers, directed this way, journey here toward this  hot-(vessel) swelling (with milk), Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, the bright face of the Dawns, is shining; the singers' pious voices have ascended.  
      Borne on your chariot, Asvins, turn you hither and come unto our full and rich libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni beleuchtet das Antlitz der Usas; der Redekundigen Worte sind gottwärts gehend emporgestiegen. Kommt nunmehr herbei hierher, ihr zwei Wagenfahrer, zu dem quellenden Milchtrank, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni bestrahlt der Morgenröthen Antlitz; es stiegen auf der Sänger fromme Lieder; Kommt nah herbei, o Wagenlenker beide, o Ritter, nun zum trankgefüllten Kessel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни освещает лик утренних зорь.  
 Идя к богам, поднялись речи вдохновенных.  

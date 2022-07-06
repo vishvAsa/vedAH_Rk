@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ गा꣡वो न꣡ भू꣡र्णयस्  
 त्वेषा꣡ अया꣡सो अ꣡क्रमुः  
 घ्न꣡न्तः कृष्णा꣡म् अ꣡प त्व꣡चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 घ्नन्तः॑ । कृ॒ष्णाम् । अप॑ । त्वच॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ये** अभिषुताः सोमाः **गावो** **न** उदकानीव तानि यथा तूर्णमधः पतन्ति तद्वत् । एवं वोपमीयन्ते । यथा गावः स्वगोष्ठं प्रत्याशु गच्छन्ति तद्वत् । अथवा गावः स्तुतिवाचः । ता यथा स्तुत्यं प्रति क्षिप्रं प्राप्नुवन्ति तद्वत् । **भूर्णयः** क्षिप्राः **त्वेषाः** दीप्ताः **अयासः** अया गमनशीलाः **कृष्णां** **त्वचम्** । कृष्णा त्वग्रक्षाः । तम् **अप** **घ्नन्तः** निघ्नन्तः । त्वचिः संवरणकर्मा। ईदृग्भूताः सोमाः **प्र** **अक्रमुः** । तान् स्तुतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,13 +101,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Liṭ, the black skin, or the black cover (i.e. darkness); **rākṣasas** as the person nification of darkness of the night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who strode forth like cattle—frenzied, turbulent, unruly,  
 smashing away the black skin [=Dasyus]—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., consisting entirely of a rel. cl., is not resumed by a main cl. Vs. 2, which might be configured as the main cl., is couched in the 1st pl., not the 3rd pl. like vs. 1, and it also has a very different tone. There is no reason, with Renou, to supply an anodyne introductory cl. “(Je chante les soma)” to provide a main cl. -- in fact, the abruptness of the expression and its incompleteness enhance the sense of violence.
 
@@ -126,23 +126,23 @@ These two vss. are somewhat illuminated by IX.73.4-5, containing some very simil
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ACTIVE and bright have they come forth, impetuous in speed like bulls,  
      Driving the black skin far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ungeduldig wie Rinder, furchtgebietend, unverdrossen hervorgekommen sind, wie schwarze Haut vertreibend-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ungestüme Stiere sind die muntern, glänzenden genaht, Verjagend weit die schwarze Haut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Мы воспеваем соки сомы,) которые выступили вперед,  
 Как возбужденные, неистовые, неутомимые быки,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सन्न् इ꣡त् त्वे꣡ आह꣡वनानि भू꣡रि  
 भु꣡वो वि꣡श्वेभिः सुम꣡ना अ꣡नीकैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वयं꣡ वर्धस्व तनु꣡वं सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्तु॒तः । चि॒त् । अ॒ग्ने॒ । शृ॒ण्वि॒षे॒ । गृ॒णा॒नः । स्व॒यम् । व॒र्ध॒स्व॒ । त॒न्व॑म् । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asann* ← *asan* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -126,36 +126,36 @@ genre M
 हे अग्ने **त्वे** त्वयि **आहवनानि** हवींष्याहुतयो वा **भूरि** बहूनि **असन्नित्** भवन्त्येव । त्वं च **विश्वेभिः** विश्वैः **अनीकैः** तेजोभिस्त्वद्विभूतिभिरग्निभिर्वा सह **सुमना:** **भुवः** भव । हे **अग्ने** **स्तुत:** स्तोतुः । स्तौतीति स्तुत् । स्तोत्रं **ऋण्विषे** शृणु । हे **सुजात** कल्याणप्रादुर्भावाग्ने **गृणानः** स्तूयमानस्त्वं **स्वयं** स्वयमेव **तन्वं** स्वां तनुं मम तनुं वा **वर्धस्व** वर्धयस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In you, **Agni**, are many offerings; do you with all your flames be propitious; favourably hear (the praises)of the worshipper; and do you of auspicious manifestation being glorified, spontaneously magnify (your) person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There will surely be many offerings poured in you, and you will become  benevolent in all your faces.  
 Though praised, o Agni, you are (already) renowned, as you are being  sung. By yourself make your own body strong, o well-born one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full many oblations are in thee collected: with all thine aspects thou hast waxen gracious.  
      Thou art already famed as praised and lauded, yet still, O nobly born, increase thy body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Opfergaben sollen in dir geopfert werden; mit allen Gesichtern mögest du freundlich sein. Zwar bist du Gepriesener und Gelobter schon berühmt, Agni, doch mehre auch selbst deinen Leib, du Edler!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sollen werden viele Opfergüsse, sei wohlgesinnt durch alle deine Strahlen; Gelobt, o Agni, lässt du gern dich hören; so stärke deinen Leib, o schöngeborner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же будет много возлияний в тебя!  
 Пусть будешь ты милостив всеми (своими) ликами!  

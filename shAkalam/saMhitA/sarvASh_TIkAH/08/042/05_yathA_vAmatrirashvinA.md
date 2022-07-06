@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था वाम् अ꣡त्रिर् अश्विना  
 गीर्भि꣡र् वि꣡प्रो अ꣡जोहवीत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 नास॑त्या । सोम॑ऽपीतये । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -97,36 +97,36 @@ genre M;; repeated line
 हे नासत्यावश्विनौ **वां** युवां विप्रः प्राज्ञः **अत्रिः** यथा **गीर्भिः** स्तुतिभिः सोमपीतये **अजोहवीत्** तथाहमपि जोहवीमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In like manner as the pious **Atri**, **Aśvins**, invoked you with hymns, so (I invoke you), **Nāsatyās**, todrink the **Soma**; may all our enemies perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as the inspired Atri kept calling to you two, Aśvins, with his hymns, for you to drink the soma, o Nāsatyas.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the sage Atri with his hymns, O Asvins, called you eagerly,  
      Nasatyas, to the Soma-draught. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie euch, Asvin, der redekundige Atri mit Lobreden anrief, ihr Nasatya´s zum Somatrunk. All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie euch der Sänger Atri rief durch seine Lieder, Ritter euch, O treue, zu dem Somatrunk. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобно тому как вас Атри вдохновенный  
 Громко призывал (своими) хвалебными песнями,  

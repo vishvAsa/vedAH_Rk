@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः क꣡श् चिद् रि꣡रिक्षति  
 रक्षस्तुवे꣡न म꣡र्तियः  
 सुवइः꣡ ष꣡ ए꣡वै रिरिषीष्ट यु꣡र् ज꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्वैः । सः । एवैः॑ । रि॒रि॒षी॒ष्ट॒ । युः । जनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -94,36 +94,36 @@ genre M
 **यः** **कश्चित्** **मर्त्यः** मनुष्यः **नः** अस्मान् **रक्षस्त्वेन** रक्षोभावेन पिशाचाद्यात्मना **रिरिक्षति** जिहिंसिषति । ‘रिष हिंसायाम्' इति धातुः । **सः** मनुष्यः **स्वैः** **एवैः** आत्मीयैरेव चेष्टितैः **रिरिषीष्ट** हिंसितो भूयात् । सः **जनः** **युः** यातापगमनशीलश्च भवतु । यद्वा । स जनः स्वैरेव गमनैर्युर्दुःखं गच्छन् हिंसितो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that man who, from his diabolical nature seeks to do us evil-- may he, injuring himself by his owndevices, incu that evil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever mortal seeks to harm us with demonry,  
 that man should harm his own lifetime by his own devices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever mortal with the powe r of demons fain would injure us,  
      May he, impetuous, suffer harm by his own deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche auch aus Falschheit uns schädigen will, der Manu soll durch sein eigenes Trachten sein Leben schädigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Sterblicher durch Zauberkunst uns irgend zu beschäd'gen sucht, Der schade selbst sich durch sein Thun, der falsche Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если какой-нибудь смертный  
 Захочет навредить нам (своею) колдовской природой,  

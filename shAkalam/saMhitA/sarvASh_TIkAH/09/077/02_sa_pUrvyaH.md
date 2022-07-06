@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पूर्वियः꣡ पवते यं꣡ दिव꣡स् प꣡रि  
 श्येनो꣡ मथाय꣡द् इषित꣡स् तिरो꣡ र꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कृशा꣡नोर् अ꣡स्तुर् म꣡नसा꣡ह बिभ्यु꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । मध्वः॑ । आ । यु॒व॒ते॒ । वेवि॑जानः । इत् । कृ॒शानोः॑ । अस्तुः॑ । मन॑सा । अह॑ । बि॒भ्युषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 **सः** सोमः **पूर्व्यः** प्रत्नः **पवते** पूयते । अभिषूयत इत्यर्थः । **यं** सोमं **दिवः** द्युलोकात्, **श्येनः** **इषितः** स्वमात्रा प्रेषितः सन् **परि** **मथायत्** पर्यमथ्नात् **तिरः** तीर्णं तिरस्कुर्वन् । किम् । **रजः** तृतीयं लोकम् । **सः** एव सोमः **मध्वः** मधुररसं सोमम् **आ** **युवते** यौति पृथक्करोति द्युलोकात् । स्वयं **वेविजान** **इत्** चलन् अधो गच्छन् **कृशानोः** सोमपालस्य **अस्तुः** शरक्षेप्तुः सकाशात् **बिभ्युषा** भीतेन **मनसाह** । मध्व आ युवत इति संबन्धः । कृशानोः सोमपालत्वं ब्राह्मणे स्पष्टमुक्तं- कृशानुः सोमपालः सव्यस्य पदः' (ऐ. ब्रा. ३. २६ ) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,36 +144,36 @@ genre M
 He detaches: saḥ = Soma; a reference to the hawk, who is afraid of Kṛśānu, the protector of Soma. The legend is in **Aitareya** **Brāhmaṇa** 3.26
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The primordial one purifies himself—he whom the falcon, propelled  across the airy realm, stole from heaven.  
 Quivering, with a mind fearing Kr̥śānu the archer, it [=falcon] binds on  the honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gen. obj. of ā́yuvate, mádhvaḥ, is hard to interpret; it certainly doesn’t seem likely to be a partitive.
 
 I don’t know what to do with the particle áha, which is oddly positioned in the middle of a pāda interrupting an NP. Renou’s “d’un coeur, ah! rempli de crainte” is appealing, but áha doesn’t ordinarily have such an exclamatory value, as far as I can see - and it’s a little too conveniently superimposable on our (both French and English) “ah!”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On flows that Ancient One whom, hitherward, from heaven, sped through the region of the air, the Falcon snatched.  
      He, quivering with alarm and terrified in heart before bow-armed Krsanu, holdeth fast the sweet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läutert sich erstmals, den der ausgesandte Falke vom Himmel durch die Lüfte raubte. Er rafft fliehend von der Süßigkeit an sich, mit vor dem Schützen Krisanu bangendem Herzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rieselt hell der alte, den vom Himmel her der Adler holte, schiessend durch den Raum der Luft; Er hält ihn fest, den süssen Trank, ob zitternd auch, im Herzen bebend vor des Bogenspanners Schuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищается этот (сома) изначальный, кого с неба  
 Похитил орел, кинувшийся, пересекая пространство.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्वजि꣡ते धनजि꣡ते सुवर्जि꣡ते  
 सत्राजि꣡ते नृजि꣡त उर्वराजि꣡ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्राय सो꣡मं यजता꣡य हर्यत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒श्व॒ऽजिते॑ । गो॒ऽजिते॑ । अ॒प्ऽजिते॑ । भ॒र॒ । इन्द्रा॑य । सोम॑म् । य॒ज॒ताय॑ । ह॒र्य॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvajite* ← *viśva*
 - \[noun\]
@@ -137,7 +137,7 @@ genre M
 हेअध्वर्यो इन्द्राय सोमम्भर सम्पादय कीदृशायविश्वजिते सर्वस्यजेत्रे तदेवप्रपञ्चयतिधनजिते शत्रु विजयेनतदीयधनानाञ्जेत्रे स्वर्जिते स्वर्गस्यजेत्रे अधिपतये सत्राजिते सत्रासन्ततं जयशीलायमहतोजे त्रेवा नृजिते नृणान्नायकानाञ्जेत्रे उर्वराजिते उर्वरासर्वसस्याढ्याभूः तस्याजेत्रे अश्वजिते गोजितेबले नापहृतानाङ्गवाञ्जेत्रे अज्निते वृत्रेणाक्रान्तानामपाञ्जेत्रे यजताय यजनियाय तस्माइन्द्रायहर्यतं हर्यग तिकान्त्योः भृमृदुशीत्यादिनाकर्मण्यतच् कमनियं स्पृहणीयंवा सोमम्भरेतिसमन्वयः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 The lord of all: all the terms are compounds with jit = lit. conqueror, as viśvajite, dhanajite, svarjite; but, the sense is best expressed by **adhipati**, lord of or lord over
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him winning everything: winning the stakes, winning the sun; to him  winning in every way, winning men, winning fields;  
 to him winning horses, winning cattle, winning waters; to Indra, worthy  of the sacrifice, bring his beloved soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the Lord of all, the Lord of wealth, of light; him who is Lord for ever, Lord of men and tilth,  
      Him who is Lord of horses, Lord of kine,of floods, to Indra, to the Holy bring sweet Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm, der alles ersiegt, Beute ersiegt, Sonnenlicht ersiegt, völlig besiegt, Männer besiegt, Ackerland ersiegt, Rosse, Rinder, Gewässer ersiegt, dem opferwürdigen Indra bringe den begehrten Soma dar!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Allbesieger, der erbeutet alles Gut an Beute, Glanz, an Männern und an Feldern auch, Der Rosse, Rinder und Gewässer sich gewinnt, dem hehren Indra bring' den lieben Soma dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Завоевывающему все, завоевывающему добычу, завоевывающему небо,  
 Завоевывающему всегда, завоевывающему мужей, завоевывающему пашню,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वीहि꣡ पुरोळा꣡शम्  
 आ꣡हुतं तिरो꣡अह्नियम्  
 स꣡हसः सूनु꣡र् असि अध्वरे꣡ हितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 सह॑सः । सू॒नुः । अ॒सि॒ । अ॒ध्व॒रे । हि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -82,41 +82,41 @@ popular
 हे **अग्ने** **तिरोअह्नयम्** अह्नि तिरोहिते सति **आहुतम्** आ समन्तात् हुतं **पुरोडाशं** पुरोडाशाख्यं हविः **वीहि** भक्षय । **अध्वरे** अस्मिन्यज्ञे **सहसः** **सूनुः** बलस्य पुत्रस्त्वं **हितः** **असि** आहवनीयादिस्थानेष्वस्माभिर्निहितोऽसि । तस्माद्वीहीति शेषः ॥ वीहि । वी कान्तिगत्यादिषु । लोटि रूपम् । हेरपित्वादन्तोदात्तत्वम् । आहुतम् । जुहोतेः कर्मणि क्ते ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । तिरोअह्नयम् । अह्नि भवमह्नयम् । ‘भवे छन्दसि ' इति यत् । तिरोभूतमह्न्यं यस्मिन् काले स तिरोअह्नयः । रात्रिकाल इत्यर्थः ।  ‘ कालध्वनोरत्यन्तसंयोगे' इति द्वितीया ।  ‘ प्रकृत्यान्तःपादम्' इत्येङः प्रकृतिभावः । बहुव्रीहौ पूर्वपदस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Eat, **Agni**, the cakes and butter offered as the day disappears; you, son of strength, are stationed (by us) at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, seek after the offered sacrificial cake “aged overnight.”  
 You are the son of strength, installed in the rite.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, enjoy the cake of meal and our oblation three days old:  
      Thou, Son of Strength, art stablished at our sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, accept eagerly the sacrificial cake which has been offered, which has stood overnight. Thou art the son of strength, established at the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Hab nach dem geopfertem Reiskuchen Gelüst, der einen Tag alt ist. Du, der Sohn der Stärke, bist zum Opfer bestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Kuchen iss, o Agni, du, der gestern gor, mit Guss versehn, Als Sohn der Kraft beim Opferfest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, одобри рисовую лепешку,  
 Политую (сомой,) бродящим вторые сутки!  

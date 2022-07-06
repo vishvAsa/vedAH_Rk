@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ ते अग्न उच꣡थानि वेधो  
 जु꣡ष्टानि सन्तु म꣡नसे हृदे꣡ च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धि श्र꣡वो देव꣡भक्तं द꣡धानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श॒केम॑ । रा॒यः । सु॒ऽधुरः॑ । यम॑म् । ते॒ । अधि॑ । श्रवः॑ । दे॒वऽभ॑क्तम् । दधा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], nominative, plural, neuter
@@ -133,49 +133,49 @@ genre M
 हे **वेधः** । मेधाविनामैतत् । मेधाविन् **अग्ने** **एता** **उचथानि** एतानि इदानीमस्माभिः प्रयुक्तानि स्तोत्राणि **ते** तव **मनसे** मनोवृत्तये **हृदे** तद्वृत्तिमते अन्तःकरणाय **च** **जुष्टानि** **सन्तु** प्रियाणि भवन्तु । **ते** तव संबन्धिनः **सुधुरः** सुष्ठु निर्वाहकस्य । यद्वा । शोभनं धूर्वति दारिद्र्यं हिनस्तीति सुधूः । तादृशस्य **रायः** धनस्य **यमं** नियमनं कर्तुं **शकेम** शक्ता भूयास्म । किं कुर्वन्तः । **देवभक्तं** देवैः संभजनीयं **श्रवः** हविर्लक्षणमन्नम् **अधि** **दधानाः** अग्नेरुपरि धारयन्तः । अग्नौ हविर्भिर्होमं कुर्वन्तः इत्यर्थः ॥ उचथानि । **वच** परिभाषणे । रुविदिभ्यां कित्' (उ. सू. ३. ३९५) इति विधीयमानः अथप्रत्ययः कित्त्वं च बहुलवचनादस्मादपि भवति । वच्यादिना संप्रसारणम् । जुष्टानि ।  जुष्टार्पिते व च्छन्दसि, नित्यं मन्त्रे (पा. सू. ६. १. २०९ - २१० ) इत्याद्युदात्तत्वम् । हृदे। ‘ पद्दन्° ' इत्यादिना हृदयशब्दस्य हृदादेशः । शकेम। ‘ शक्लृ शक्तौ । ‘ लिङ्याशिष्यङ्' । सुधुरः । धुर्वी हिंसार्थः । ‘ क्विप् च ' इति क्विप् । राल्लोपः' इति वकारलोपः । ‘ न पूजनात्' इति समासान्तप्रतिषेधः । देवैर्भक्तं देवभक्तम् । ' तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥ ॥ २० ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these our praises, sapient **Agni**, be grateful to you, both in mind and heart; may we be competent to detain your well-supporting wealth, offering upon you their share of the (sacrificial food of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these solemn speeches be pleasing to you, o Agni, ritual expert—to  your mind and heart.  
 Might we be able to control (the prizewinning horses) of your wealth,  (so they are) amenable to the chariot-pole, while we acquire the fame  apportioned by the gods.  
 The next, rather sizable group of twenty hymns is attributed to Gotama Rāhūgaṇa,  who could be the father or other ancestor of the poet of I.58–64, Nodhas Gautama.  If so, the dazzling skill of the son is not on view in the work of his father in the  opening Agni hymns (74–79) or in the All God hymns (89–90), which seem more  dutiful than engaged, but when he treats other gods, especially the Maruts (85–88)  and Dawn (92), his poetry can be inspired.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s interpr. of pāda c is persuasive. II.5.1 śakéma vājíno yámam (also III.27.3, VIII.24.22) contains the missing horses supplied here. I take sudhúraḥ as proleptic.
 
 For pāda d cf. 5d and 7b; for devábhakta- cf. dyúbhakta- in 6b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these our hymns of praise, Agni, Ordainer, be pleasant to thee in thy heart and spirit.  
      May we have power to hold thy steeds of riches, laying on thee the God-sent gift of glory.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May these hymns, O Agni, worshipper (of the gods), be grateful to thee, to thy mind and heart. May we be able to bridle thee, the well-harnessed wealth 1, acquiring the glory which the gods have assigned us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Loblieder sollen. O Meister Agni, deinem Sinn und Herzen lieb sein. Wir möchten imstande sein, die wohlgeschirrten Rosse deines Reichtums zu lenken, gottgeschenkten Ruhm auf uns häufend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, Ordner, diese Sprüche mögen willkommen deinem Sinne sein und Herzen; Lass lenken uns des Reichthums schöne Rosse, und gotterlangte Herrlichkeit uns finden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни-знаток, да будут эти высказывания  
 Приятны тебе: и уму, и сердцу!  

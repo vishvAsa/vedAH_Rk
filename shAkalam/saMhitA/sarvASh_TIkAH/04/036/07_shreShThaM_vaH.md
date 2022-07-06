@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रे꣡ष्ठं वः पे꣡शो अ꣡धि धायि दर्शतं꣡  
 स्तो꣡मो वाजा ऋभवस् तं꣡ जुजुष्टन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡न् व एना꣡ ब्र꣡ह्मणा꣡ वेदयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 धीरा॑सः । हि । स्थ । क॒वयः॑ । वि॒पः॒ऽचितः॑ । तान् । वः॒ । ए॒ना । ब्रह्म॑णा । आ । वे॒द॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], nominative, singular, neuter
@@ -134,36 +134,36 @@ genre M
 **श्रेष्ठम्** अत्युत्कृष्टमत एव **दर्शतं** दर्शनीयं **वः** युष्माकं **पेशः** रूपम् **अधि** **धायि** अधिनिहितम् । अतस्तदुचितो यः **स्तोमः** स्तोत्रमस्मत्कृतमस्ति हे **वाजा** **ऋभवस्तं** स्तोमं स्तोत्रं **जुजुष्टन** सेवध्वम् । ये यूयं **धीरासो** **हि** धीमन्तः प्रसिद्धाः **कवयः** मेधाविनः **विपश्चितः** ज्ञानवन्तः **स्थ** भवत **तान्वः** युष्मान् **एना** एनेन **ब्रह्मणा** मन्त्रेण शस्त्रात्मकेन **आ** **वेदयामसि** । अथवोक्तलक्षणाः विपश्चितः स्तोतारो यान् । स्तुवन्तीति शेषः । तान् ब्रह्मणा आ वेदयामसि प्रज्ञापयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “An excellent and agreeable form has been assumed by you; (this is our own) praise; **Vājas** and **Ṛbhus** be gratified (thereby), for you are wise, experienced, and intelligent; such we make you known (to be) by this (our) prayer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 An excellent, beautiful robe has been placed upon you: (this) song of  praise, o Vājas, R̥bhus. Take pleasure in it!  
 Because you are insightful poets perceiving inspired words, we dedicate  (it) to you with this formulation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you hath been assigned the fairest ornament, the hymn of praise: Vajas and Rbhus, joy therein;  
      For ye have lore and wisdom and poetic skill: as such, with this our prayer we call on you to come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schönste gerngesehene Zierde ward euch zugelegt: ein Loblied, ihr Vaja´s, Ribhu´s; an dem erfreut euch, denn ihr seid weise redekundige Seher. Euch laden wir mit diesem Segenswort ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schönste Schmuck, der prächt'ge ward euch angelegt, das Loblied, Vadscha's, Ribhu's, nehmet huldreich an; Denn kunstverständig seid ihr, weise Dichter ihr, drum laden wir mit diesem Andachtslied euch ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Лучшее украшение надето на вас, приятное для глаз, -  
 Восхваление, о Ваджи, Рибху. Наслаждайтесь им!  

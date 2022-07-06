@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् एनम् इदा꣡ हियो꣡  
 अ꣡पीपेमेह꣡ वज्रि꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ नून꣡म् भूषत श्रुते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । ऊं॒ इति॑ । अ॒द्य । स॒म॒ना । सु॒तम् । भ॒र॒ । आ । नू॒नम् । भू॒ष॒त॒ । श्रु॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -106,7 +106,7 @@ genre M
 वयं यजमाना एनमिन्द्रं वज्रिणं इदा इदानीं त्द्यश्च इह अत्र अपीपेम आप्याययाम सोमेन । तस्माउ तस्माएवाद्यात्र समना समनाय सङ्ग्रामार्थं सुतमभिषुतं सोमं भर हरत हे अध्वर्य्वादयः । नूनमिदानीं श्रुते स्तोत्रे श्रुतेसति आभूषत आभवत्वागच्छतु ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,30 +117,30 @@ genre M
 From success in battle: savane =**samanā**, for battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At this time yesterday we made the mace-bearer drink here;  
 today, in the same way, bring the pressed soma to him. Now attend  
 upon the renowned one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, verily, yesterday we let the Thunder-wielder drink his fill.  
      So in like manner offer him the jifice today. Now range you by the Glorious One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben ihn gestern um diese Zeit hier getränkt, den Keulenträger; ihm bringe heute in gleicher Weise den ausgepreßten Saft! Richtet euch jetzt nach dem Gehörten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben ihn auch gestern schon den blitzbewehrten hier getränkt, In gleicher Weise bring auch heute ihm den Saft, auf, dienet dem berühmten jetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уже вчера мы щедро напоили  
 Здесь этого громовержца.  

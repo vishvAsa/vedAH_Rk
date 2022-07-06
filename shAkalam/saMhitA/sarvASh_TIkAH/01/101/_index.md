@@ -8,7 +8,7 @@ title = "+101"
 प्र मन्दिने' इति एकादशर्चमष्टमं सूक्तमाङ्गिरसस्य कुत्सस्यार्षम् । अष्टम्याद्याश्चतस्रस्त्रिष्टुभः शिष्टाः सप्त जगत्यः । इन्द्रो देवता । तथा चानुक्रान्तं - ' प्रमन्दिन एकादश कुत्स आद्या गर्भस्राविण्युपनिषच्चतुस्त्रिष्टुबन्तम्' इति । दशरात्रस्य नवमेऽहनि मरुत्वतीये एतत्सूक्तम् । विश्वजितः' इति खण्डे सूत्रितं- ‘प्र मन्दिन इमा उ त्वेति मरुत्वतीयम्' (आश्व. श्रौ. ८.७.) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 101  
 Indra  
@@ -25,7 +25,7 @@ By contrast, the triṣṭubh verses (8–11) switch to direct address to Indra 
 As for content, it is largely familiar, praising Indra for his victories over various  enemies, for his aid to mortals hard pressed in battle, and for his steadfast lordship.  Needless to say, the Marut element is quite strong, as in the preceding hymn (I.110).  The most striking formulation may be found in the first verse, with its image of  Indra causing the fortresses of the enemy to abort their fetuses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

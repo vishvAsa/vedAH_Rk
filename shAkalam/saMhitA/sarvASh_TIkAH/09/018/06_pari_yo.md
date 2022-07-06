@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि यो꣡ रो꣡दसी उभे꣡  
 सद्यो꣡ वा꣡जेभिर् अ꣡र्षति  
 म꣡देषु सर्वधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मदे॑षु । स॒र्व॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **यः** सोमः **उभे** **रोदसी** द्यावापृथिव्यौ **सद्यः** तदानीमेव **वाजेभिः** अन्नैः **परि** **अर्षति** परिगच्छति । सोमाहुत्या द्यावापृथिव्यावन्नवत्यौ करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You are he) who at once supplies both heaven and earth with viands; you are the giver of all things to those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who on the same day rushes around both worlds with the prizes of  victory—  
 – You are the one who confers wholeness in the raptures of exhilaration.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -111,23 +111,23 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who in a moment mightily floweth around these two world-halvcs:  
      All-bounteous art thou in carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der beide Welten alsbald mit seinen Trophäen umströmt. - Im Rausche bist du der Allgewährer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und der durch beide Welten rinnt an einem Tag mit Labungen; Bei den Gelagen schenkst du Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сразу же обтекает обе  
 Половины вселенной со (своими) наградами, –  

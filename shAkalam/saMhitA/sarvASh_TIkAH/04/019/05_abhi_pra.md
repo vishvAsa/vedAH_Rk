@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्र꣡ दद्रुर् ज꣡नयो न꣡ ग꣡र्भं  
 र꣡था इव प्र꣡ ययुः साक꣡म् अ꣡द्रयः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ वृताँ꣡ अरिणा इन्द्र सि꣡न्धून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अत॑र्पयः । वि॒ऽसृतः॑ । उ॒ब्जः । ऊ॒र्मीन् । त्वम् । वृ॒तान् । अ॒रि॒णाः॒ । इ॒न्द्र॒ । सिन्धू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 हे **इन्द्र** त्वाम् **अद्रयः** मरुतः **जनयः** जनन्यः **गर्भं** **न** पुत्रमिव **अभि** **प्र** **दद्रुः** अभिजग्मुः । किंच **रथाइव** रंहणशीला रथा यथा तथा वृत्रवधार्थं त्वया **साकं** **प्र** **ययुः** प्रकर्षेण अयासिषुः । हे इन्द्र त्वं **विसृतः** विसरणशीला नदीः **अतर्पयः** अद्भिरपूरयः । तथा **ऊर्मीन्** मेघान् **उब्जः** अवधीः । तथा **त्वं** वृतान् वृत्रेणावृतान् **सिन्धून्** अपः **अरिणाः** प्रैरयः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** have hastened to you like mother to their young; like chariots they have rushed in along (with you); you, **Indra**, have satisfied the following streams; you have shattered the clouds; you have set free the obstructed rivers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They burst, as women burst out their embryo. Like chariots the stones  went forth all at once.  
 You satisfied (the waters) flowing widely, and you subdued their waves.  You made the blocked rivers flow, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They ran to thee as mothers to their offspring: the clouds, like chariots, hastened forth together.  
      Thou didst refresh the streams and force the billows: thou, Indra, settest free obstructed rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Frauen taten sie ihren Leibesschoß auf, wie Wagen setzten sich die Felsen mit einem Male in Bewegung. Du befriedigtest die den Fels durchbrechenden Flüsse, dämmtest ihre Wogen ein; du ließest die eingeschlossenen Ströme laufen, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie eilten fort wie Mütter zu dem Kinde, die Steine rollten alle fort wie Wagen; Die Wasser letztest du, die Wogen fassend, ergossest, Indra, die gefangnen Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно женщины (в родах), они раскрыли (свою) утробу,  
 Словно колесницы, сразу двинулись скалы.  

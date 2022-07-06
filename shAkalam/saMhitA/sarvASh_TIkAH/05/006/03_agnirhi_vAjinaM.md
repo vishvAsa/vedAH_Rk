@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् हि꣡ वाजि꣡नं विशे꣡  
 द꣡दाति विश्व꣡चर्षणिः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 अ॒ग्निः । रा॒ये । सु॒ऽआ॒भुव॑म् । सः । प्री॒तः । या॒ति॒ । वार्य॑म् । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -125,42 +125,42 @@ genre M;; repeated line
 **अग्निर्हि** अयमग्निः खलु **विशे** यजमानाय **वाजिनम्** अन्नवन्तं पुत्रमश्वमन्नं वा **ददाति** । **विश्वचर्षणिः** । विश्वे चर्षणयो मनुष्या रक्षणीया अर्चका वा यस्य स तथोक्तः । यद्वा । पश्यतिकर्मैतत् । सर्वस्य द्रष्टा **अग्निः** **राये** धनार्थिने । अथवा द्वितीयार्थे चतुर्थी । धनं **स्वाभुवं** सुष्ठु सर्वत्र व्याप्तं **वार्यं** सर्वैर्वरणीयं **प्रीतः** सन् **याति** यमयति । दातुं वा गच्छति । इषमित्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the all-beholding, gives, verily, to the man (who worships him, a son) possessing abundant food; Agni, when propitiated proceeds (to bestow) that wealth which is of its own nature precious; do you, Agni, bring food to your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since Agni, who belongs to all domains, gives the prizewinner [=Agni?]  to the clan,  
 (since) Agni (gives the prizewinner) that is very ready for wealth, when  pleased, he journeys to what is valued.  
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the God of all mankind, gives, verily, a steed to man.  
      Agni gives precious gear for wealth, treasure he gives when he is pleased. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For Agni, dwelling among all tribes, gives a racer to the clan. Agni (gives a racer) that is truly helpful for (winning) wealth 1: he (the racer) being well cherished, will attain precious gain. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Agni, der allen Völkern angehört, schenkt dem Clan einen Sieger, Agni ein Rennpferd, das zu Reichtum tüchtig ist. Froh geht es auf begehrenswertes Gut aus. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Agni schenket schnelles Ross dem Menschen er, der Menschenhort, Und Agni schönbereites Gut, der liebe gibt uns reichen Schatz; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь Агни дает племени  
 Победителя, (он,) принадлежащий всем народам,  

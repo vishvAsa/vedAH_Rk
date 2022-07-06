@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वच्यस्व म꣡हि प्स꣡रो  
 वृ꣡षेन्दो द्युम्न꣡वत्तमः  
 आ꣡ यो꣡निं धर्णसिः꣡ सदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । योनि॑म् । ध॒र्ण॒सिः । स॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **महि** महान् **वृषा** कामानां वर्षक: **द्युम्नवत्तमः** यशस्वितमः **धर्णसिः** धर्ता त्वं **प्सरः** पानीयमन्धः **आ** **वच्यस्व** अस्मान् प्रत्यागमय । **योनिं** स्वकीयं स्थानम् **आ** **सदः** आसीद च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indu**, do you, the mighty showerer (of blessings) most glorious upholder, send us food, and sit down in yours own plural ce.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Coil yourself toward great enjoyment, o drop, as the most  
 heaven-bright bull. Sit steadfast on your womb.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. of (ā́) vacyasva (√vañc) here is ‘gallop’ (Geldner, Renou), but the root itself means something like ‘move crookedly’ (see comm. ad III.39.1 inter alia). Kulikov (Vedic - ya-presents) devotes considerable space to this -yá-pres. (218-24), rather desperately attempting to account for its apparent passive accentuation (vacyáte). He concludes that the subject of this pres. “always refers to beings set in motion and directed by someone else, not moving on its [sic] own,” and was originally the passive counterpart of a posited transitive redupl. pres. **vívaṅkti [double star is Kulikov’s]. I find this over-elaborate -- and since the subjects are generally horses, or entities configured as horses, and since RVic horses have considerable agency of their own with regard to movement -- not terribly convincing. In this particular case, the verb is in the imperative, and it is difficult to see how something incapable of moving on its own could be commanded to do so. Four of the ten occurrences of this pres. stem are imperatival, three of them 2nd sg. as here. (the fourth is 3rd pl.). As discussed ad III.39.1, etc., I consider one of the nuances of this verb to be ‘coil, twist’, and here I see the soma circling and twisting its way into the cup; the preverb pári ‘around’ is a regular part of the description of soma’s movements around the filter and into the vessels.
 
@@ -106,23 +106,23 @@ I take the injunc. sadaḥ in the sense of an impv.; see Hoffmann (Injunk. 263) 
 On the sa-aor. ádhukṣa-, here in 3rd sg. mid. adhukṣata, see Narten (Sig.Aor. 143- 44).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As mighty food speed hitherward, Indu, as a most splendid Steer:  
      Sit in thy place as one with strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Galoppiere her, o Saft, ein großer Genuß, der glanzvollste Bulle; setze dich dauernd in deine Wiege!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum grossen Mahle quillt hervor, o Indu, als der schönste Hengst Und setz dich kräftig in den Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мчись (к нам) галопом, (ты) великий праздник,  
 Бык, самый блистательный, о капля!  

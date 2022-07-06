@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा सुतपाव् इमं꣡ सुतं꣡  
 सो꣡मम् पिबतम् म꣡दियं धृतव्रता  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति स्व꣡सरम् उ꣡प याति पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । रथः॑ । अ॒ध्व॒रम् । दे॒वऽवी॑तये । प्रति॑ । स्वस॑रम् । उप॑ । या॒ति॒ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
@@ -117,20 +117,20 @@ genre M
 **इन्द्रावरुणा** हे इन्द्रावरुणौ **सुतपौ** सुतस्य सोमस्य पातारौ युवां **मद्यं** मदकरं **सुतम्** अभिषुतम् **इमं** **सोमं** **पिबतम्** । किंच **धृतव्रता** हे धृतकर्माणौ **युवोः** युवयोः **रथः** **अध्वरम्** उद्दिश्य **देववीतये** देवानां पानार्थं **पीतये** युवयोरपि सोमपानार्थं **स्वसरं** मार्ग **प्रति** **उप** **याति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Varuṇa**, observant of holy duties, drinkers of the **Soma**, drink this exhilarating effused libation; your chariot approaches along the road to the sacrifice, (that you may partake) of the food of the gods and drink (the Soma).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa, soma-drinkers—drink this exhilarating pressed  soma here, o you of steadfast commandments.  
 Your chariot drives to the ceremony for attracting the gods, (as if) to  good pasture to drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ On the annunciatory forms of ayám in these three vss., see published introducti
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 True to Law, Indra-Varuna, drinkers of the juice, drink this pressed Soma which shall give you rapturous joy.  
      Your chariot cometh to the banquet of the Gods, to sacrifice, as it were home, that ye may drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna, ihr Somatrinker, trinket diesen ausgepreßten berauschenden Soma, die ihr die Gebote aufrecht haltet. Euer Wagen kommt zum Opfer zur Götterlust, zur Frühmesse zum Trunk des Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trinkt, ihr Somatrinker, Indra, Varuna, den Somasaft, den Rauschtrank, die ihr Recht beschirmt; eur Wagen fährt zum Opfer, zu dem Göttermahl, zur Tränke hin, damit ihr Soma trinken mögt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, пьющие выжатого (сому), этого выжатого  
 Сому выпейте, пьянящего, о вы, чей завет крепок!  

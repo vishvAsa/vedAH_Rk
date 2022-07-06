@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुवर्जेषे꣡ भ꣡र आप्र꣡स्य व꣡क्मनि  
 उषर्बु꣡धः सुव꣡स्मिन् अ꣡ञ्जसि  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 भद्रा꣡ भद्र꣡स्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 अ॒स्म॒ऽत्रा । ते॒ । स॒ध्र्य॑क् । स॒न्तु॒ । रा॒तयः॑ । भ॒द्राः । भ॒द्रस्य॑ । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svarjeṣe* ← *svar*
 - \[adverb\]
@@ -161,7 +161,7 @@ genre M
 अयमिन्द्रः स्वर्जेषे स्वर्गगमनसाधने **भरे** संग्रामे । युद्धे आभिमुख्येन हतस्य स्वर्गो ‘ द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ' ( परा. ३. २५ ) इत्यादिस्मृतिषु प्रसिद्धः । **आप्रस्य** आपनशीलस्य शत्रुवधाय इतस्ततः व्याप्तस्य ॥ औणादिको रः ॥ शूरस्य **वक्मनि** मार्गभूते **स्वस्मिन्** स्वभूते **अञ्जसि** अभिव्यक्तिमति कपटादिरहिते । पुनः स एव विशेष्यते । **स्वस्मिन्** **अञ्जसि** स्वकीयेऽञ्जसि मुख्ये महति संग्रामे । यद्वा । स्वस्मिन् अञ्जसि शत्रौ स्वयमेव अप्रच्छन्नत्वेनागते सति अहन् शत्रून् हिनस्ति । कस्य संग्रामे इति तदुच्यते । आप्रस्य आपनशीलस्य आ समन्तात् इन्द्रस्य प्रीणयितुर्वा **उषर्बुधः** उषःकाले अनुष्ठानाय प्रबुध्यमानस्य **क्राणस्य** यागं कुर्वाणस्य ॥ करोतेः शतरि छान्दसः शपो लुक् ॥ अस्य यजमानस्य शत्रून् **अहन्** हिनस्ति । अतः कारणात् अयम् **इन्द्रः** **शीर्ष्णाशीर्ष्णोपवाच्यः** सर्वेषां शिरसा प्रणम्यः स्तुत्यः ॥ ‘ शीर्षश्छन्दसि ' ( पा. सू. ६. १. ६० ) इति उदात्तनिवृत्तिस्वरेण अन्तोदात्तत्वम् । ‘ नित्यवीप्सयोः' इति द्विर्भावः ॥ तत्र दृष्टान्तः । **यथा** **विदे** सर्वज्ञाय शिरसा प्रणतिः क्रियते स्तूयते च तथैनमित्यर्थः । यद्वा यथा विदे येन प्रकारेण हन्तव्यं शत्रुं जानासि तं तं प्रहंसि ॥ वेत्तेर्व्यत्ययेनात्मनेपदम् । पुरुषव्यत्ययः । ‘ लोपस्त आत्मनेपदेषु ' इति तलोपः ॥ अथवा । यथा विदे यं यं विन्दसे लभसे शत्रुं तं तं मारयसि । अतः कारणात् स्तुत्यः इत्यर्थः ॥ अस्मिन् पक्षे छान्दसो विकरणस्य लुक् । पूर्ववत् तलोपः ॥ किंच हे इन्द्र **ते** **रातयः** तव संबन्धीनि धनानि दानानि **अस्मत्रा** अस्मास्वेव **सध्र्यक्** सह एकोद्योगेन **सन्तु** भवन्तु ॥ सहपूर्वादञ्चतेः ‘ऋत्विक्' इत्यादिना क्विन् । **सहस्य** सध्रिः' इति सध्र्यादेशः। अद्रिसध्र्योः अन्तोदात्तनिपातनं कृत्स्वरनिवृत्यर्थमिति स चान्तोदात्तः । उदात्तस्वरितयोर्यण: ' इति स्वरितः ॥ किंच **भद्रस्य** स्तुत्यस्य **रातयः** अस्मासु दत्तानि दानानि **भद्राः** अतिस्थिराणि सन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -176,7 +176,7 @@ Vakma = vakmani, own, peculiar;
 Mārge = in the road or path, i.e. honest, straight, free from fraud, kapaṭādirahite or open, unconcaled, apracchanne
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the match to win the sun, at the speech of the Propitiator, at the  very anointing of the one who wakes at dawn [=Agni]—at the very  
 anointing of the one being prepared [=soma]—  
@@ -184,7 +184,7 @@ on (that) day Indra is to be invoked by every head [=person], in the way  that i
 Toward us only let your gifts be directed—the auspicious gifts of the  auspicious one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas abc consist entirely of four locative expressions (with their genitives); this heavily signposted syntactic pattern allows (/forces) the first word of d, áhan(n) to be interpreted as the loc. sg. of áhar ‘day’ rather than the 2nd/3rd sg. root impf. of √han, which otherwise would be strongly favored in an Indra context. (Note that the identical opening, áhann índro, is found at IV.28.3, with the verb.) The locatives in 1d, f also reinforce the loc. reading, esp. asmín áhani (1d). I don’t know exactly what to call this poetic trick -- it is aggressively a non-pun.
 
@@ -193,24 +193,24 @@ Pādas abc consist entirely of four locative expressions (with their genitives);
 The use of ‘head’ (śíras-/śīrṣán-) to refer to an individual person is not, as far as I know, otherwise found in the RV, though the semantic dev. is obvious and precedented in English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In war which wins the light, at the free-giver's call, at due oblation of the early-rising one, oblation of the active one,  
      Indra slew, even as we know--whom each bowed head must reverence.  
      May all thy bounteous gifts be gathered up for us, yea, the good gifts of thee the Good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Kampf, wenn es gilt das Sonnenlicht zu gewinnen, bei der Rede des Fürbitters, wenn der frühwache Agni seine Salbung bekommt, wenn der angemachte Soma seine Salbung bekommt; an dem Tage ist Indra, wie bekannt, Haupt für Haupt anzurufen. Auf uns sollen sich deine Gaben vereinigen, die glückbringenden Gaben des Glückbringenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dem glanzverschaffenden Kampfe, bei dem Rufe des eifrigen, bei der eignen Ausschmückung des früh wachen [Agni], bei der eignen Ausschmückung des wirksamen; Indra erschlug [die Feinde] nach seiner Weise, er der von jedem Wesen anzurufen ist; bei uns mögen sein deine Gaben allesammt, des heilbringenden heilbringende Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В состязании за победу над солнцем, при исполнении гимна-апри,  
 Когда пробуждающийся на заре (Агни) получает свое помазание,  

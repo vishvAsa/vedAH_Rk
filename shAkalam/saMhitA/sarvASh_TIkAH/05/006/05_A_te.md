@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते अग्न ऋचा꣡ हविः꣡  
 शु꣡क्रस्य शोचिषस् पते  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 सुऽच॑न्द्र । दस्म॑ । विश्प॑ते । हव्य॑ऽवाट् । तुभ्य॑म् । हू॒य॒ते॒ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,42 +123,42 @@ genre M;; repeated line
 हे **शोचिषः** दीप्तेः **पते** स्वामिन् **अग्ने** **शुक्रस्य** दीप्तस्य **ते** तुभ्यम् **ऋचा** मन्त्रेण सह **हविः** हूयते । हे **सुश्चन्द्र** सुष्ठ्वाह्लादक शोभनहिरण्य वा हे **दस्म** शत्रूणामुपक्षपयितः **विश्पते** विशां प्रजानां पालक **हव्यवाट्** हविषो वोढः । इषमिति गतम् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, radiant **Agni**, lord of light, giver of plural asure, destroyer (of foes), protector of man, the bearer of oblations, to you the oblation is offered with the sacred verse; do you bring to your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, for you the offering is poured here, accompanied by our verse, o  lord of the glistening flame,  
 beautifully shimmering, wondrous clanlord, and conveyor of oblations. – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee the splendid, Lord of flame, bright, wondrous, Prince of men, is brought.  
      Oblation with the holy verse, O Agni, bearer of our gifts.  
      Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To thee 1, O Agni, our oblation is offered with a Rik, O lord of bright splendour, highly brilliant, wonderful lord of the clan, carrier of oblations! Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, o Agni, wird das Opfer mit einem Vers, du Herr der hellen Glut, schönleuchtender Meister, Stammesherr, Opferfahrer, nur dir geopfert. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Loblied wird dir Opferguss, o Agni, Herr des hellen Lichts, O hehrer Hausherr, leuchtender, ergossen, der du Opfer fährst; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это для тебя, о Агни, жертвенное возлияние с гимном,  
 О господин светлого пламени,  

@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यं शुक्रा꣡सः शु꣡चयस् तुरण्य꣡वो  
 म꣡देषु उग्रा꣡ इषणन्त भुर्व꣡णि  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 असुर्या᳡त् पासि ध꣡र्मणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 त्वम् । विश्व॑स्मात् । भुव॑नात् । पा॒सि॒ । धर्म॑णा । अ॒सु॒र्या॑त् । पा॒सि॒ । धर्म॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -148,7 +148,7 @@ genre M
 हे वायो **तुभ्यं** त्वदर्थं **शुक्रासः** दीप्ताः **शुचयः** शुद्धाः । सोमस्य पातारोऽत्यन्तं शुद्धा भवन्ति । किमु वक्तव्यं तेषां शुद्धत्वे। **तुरण्यवः** त्वरणयुक्ताः त्वां प्राप्तुं **उग्राः** उद्गूर्णतेजसः सोमाः **मदेषु** तव मदेषु निमित्तभूतेषु **भुर्वणि** भरणवति यागे **इषणन्त** आहवनीयं प्रति गच्छन्ति इच्छन्ति वा ॥ व्यत्ययेन आत्मनेपदम् । शश्नमौ द्वौ विकरणौ ॥ किंच अपां **भुर्वणि** मेघे **इषन्त** उदकमिच्छन्ति उत्पादयितुम् । अग्नौ हूयमानस्य आहुतेरादित्यद्वारा वृष्ट्युत्पादकत्वात् । यद्वा । यजमानाः त्वामुद्दिश्य आजुह्वाना अपां वर्षणम् इषन्त इच्छन्ति। किंच हे वायो **भगं** भजनीयं **त्वां** **त्सारी** त्सरणवान् अत्यन्तभीतः **दसमानः** उपक्षीणो यज्ञविघातकैः पयोव्रतादिनियमैर्वा यजमानः **तक्ववीये** तस्कराणां यज्ञविघातिनाम् अन्यत्र गमनाय **ईट्टे** स्तौति ॥  ‘ ईड स्तुतौ '। अदादित्वात् शपो लुक् ॥ यतः **त्वं** **विश्वस्माद्भुवनात्** सर्वस्माल्लोकात् भूतजाताद्वा लोकत्रयसंबन्धिनो भयात् **धर्मणा** अस्मदीयहविषां धारणेन **पासि** पालयसि । किंच **असुर्यात्** असुरसंबन्धिनो भयात् विशेषेण **पासि** **धर्मणा** अस्मद्धारणेन पोषणेन वा युक्तः सन् । यत एवं करोषि अतः स्तौमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,14 +161,14 @@ The oblations that are offered to fire are the remote cause of the rain;
 Bhurvan = **yāga**, a sacrifice; and, a cloud; You who are auspicious: tvām bhagamo takvavīye: bhajanīyam, that which is to be enjoyed, that which is agreeable or acceptable; taskarāṇām **yajña**- vighatinām **anyatra** gamanāya, for causing to go elsewhere thieves,i.e., obstructers of sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you do the glittering, gleaming, rapid, strong ones [=soma drinks /  horses] set themselves aquiver at the revels—(like waves) of the waters  they set themselves aquiver.  
 You does the stealthy (hunter), as he wearies, reverently invoke for good  fortune in his swooping pursuit.  
 You drink before every creature by statute—you drink because of your  lordship by statute.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the plethora of -an-forms in abc: turaṇyávaḥ, iṣananta, bhurváṇi (2x).
 
@@ -195,24 +195,24 @@ Fronted forms of the 2nd sg. pronoun begin most of the metrically significant se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee the pure bright quickly-flowing Soma-drops, strong in their heightening power, hasten to mix themselves, hasten to the water to be mixed.  
      To thee the weary coward prays for luck that he may speed away.  
      Thou by thy law protectest us from every world, yea, from the world of highest Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich regen sich die klaren, reinen, eilenden, in berauschender Wirkung starken Somasäfte im Gewoge, regen sich im Gewoge des Wassers. Dich ruft der hungrige Jäger um Glück auf der Jagd an. Du schützest, wie es dir zukommt, vor aller Welt; du schützest vor der Asuramacht, wie es dir zukommt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es regen dir die hellen, reinen, eilenden die starken bei dem Somatrunk den Strudel auf, den Strudel der Gewässer auf; Der schleichende, verschmachtende, er fleht dich emsig an um Heil; Nach deiner Art beschirmst vor jedem Wesen du, beschirmest vor der Geisterwelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя прозрачные чистые быстрые (соки сомы),  
 (Грозные) при опьянениях, устремляются в волнении,  

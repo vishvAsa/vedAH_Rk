@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ कर्मा꣡षतरा अस्मै  
 प्र꣡ च्यौत्ना꣡नि देवय꣡न्तो भरन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡सतियेव सु꣡ग्मियो रथेष्ठाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 जुजो॑षत् । इन्द्रः॑ । द॒स्मऽव॑र्चाः । नास॑त्याऽइव । सुग्म्यः॑ । र॒थे॒ऽस्थाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
@@ -115,7 +115,7 @@ genre M
 **ता** तानि **अषतरा** अर्षतराणि व्याप्ततराणि वा हवींषि **अस्मै** इन्द्राय तदर्थं **कर्म** कुर्मः संपादयामः ॥ कृञ्श्छान्दसे वर्तमानार्थे लुङि ‘मन्त्रे घस ' इति च्लेर्लुक् । छन्दस्युभयथा ' इति अर्धधातुकत्वेन ङित्त्वाभावाद्गुणः ॥ **च्यौत्नानि** च्यावयितॄणि दृढानि स्तोत्राणि कर्माणि स्वकीयानि सामर्थ्यानि वा **देवयन्तः** देवानात्मन इच्छन्तो यजमानाः **प्र** **भरन्ते** प्रकर्षेण संपादयन्ति । तद्वद्वयमपि संपादयाम इत्यर्थः । **दस्मवर्चाः** दर्शनीयतेजाः शत्रूपक्षयणबलो वा **नासत्येव** नासत्याविव अश्विनाविव । तौ हि द्यावापृथिव्यात्मानौ । ताविव **सुग्म्यः** सुगम्यः सुखेन गन्तुं शक्यः रथेष्ठाः रथे वर्तमान एवंभूतः सन् **जुजोषत्** अस्मत्कृतं स्तोत्रादि कर्म सेवताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Substantial adorations: cyautnāni = causing to fall down; but, this explained as dṛḍhāni, firm, hard
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have done these more attainable *deeds [=ritual activities] for him.  Those seeking the gods carry the actions further.  
 He will enjoy them—Indra of wondrous luster, coming easily like the  Nāsatyas, standing upon his chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg begins his n. on this verse with the cheerful comment “Wohl hoffnungslos,” and it is well to bear this in mind. The difficulties are located in the first pāda, which is seriously deficient in syllables (at best 9, probably 8), has a bad cadence, and contains a hapax á/ā́ṣatarā at which all tr. and comm. throw up their hands. The line is probably corrupt, and my attempts to fix it should be read with skepticism. The meter can be ameliorated by assuming a haplology of acc. pl. kárma adjacent to the identical verb, 1st pl. karma: tā́←kárma> karma (or tā́karma ←kárma>). [I now see that a similar haplology is proposed by Witzel Gotō in the n. to this passage.] (For a less dramatic proposed haplology in Agastya’s oeuvre, see comm. ad I.180.3.) If we detach á/ā́ṣatarā from sandhi with the preceding word (contra Holland & van Nooten Rig Veda edition’s karmā́ṣatarā), the line would have eleven syllables, though it still would have an irreparably bad cadence.
 
@@ -153,23 +153,23 @@ The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him we offer welcomest oblations, the pious bring their strength-inspiring praises.  
      May Indra, wondrous in his might, accept them, car-borne and swift to move like the Nasatyas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese ........ haben wir für ihn zubereitet; die Gottverlangenden beginnen ihre Werke. Indra, mit dem Glanz eines Meisters möge daran Gefallen finden, der wie die Nasatya´s ein Wagenfahrer ist, mit dem man gut fährt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Indra lasst uns diese Gaben fördern, die Frommen bringen ihm die Kraftgesänge; Er, herrlich strahlend, möge sie empfangen, zum Heil im Wagen fahrend gleich den Rittern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы создали для него более привлекательные (?) (гимны).  
 Преданные богам (люди) начинают (свои) приготовления.  

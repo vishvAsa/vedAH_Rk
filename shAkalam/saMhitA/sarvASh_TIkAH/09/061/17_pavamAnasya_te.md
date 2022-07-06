@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानस्य ते र꣡सो  
 म꣡दो राजन्न् अदुछुनः꣡  
 वि꣡ वा꣡रम् अ꣡व्यम् अर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि । वार॑म् । अव्य॑म् । अ॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
@@ -84,19 +84,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **राजन्** दीप्यमान सोम **पवमानस्य** क्षरतः **ते** तव **अदुच्छुनः** रक्षोवर्जितः **मदः** मदकरः **रसः** **अव्यम्** अविमयं **वारं** वालं दशापवित्रम् **अर्षति** अभिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bright shining **Soma**, the juice of you, when your flow enters the woollen filter, exhilarating free from evil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are purifying yourself, o king, your sap, the exhilarating  drink that brings no misfortune, rushes through the sheep’s fleece.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ This tṛca is unified by the simple device of stationing a form of pávamāna- 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The gladdening and auspicious juice of thee, of Pavamana, King!  
      Flows o'er the woollen straining-cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Saft, wenn du dich läuterst, o König, fließt als heilvoller Rauschtrank durch das Schafhaar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Saft, dein segensreicher Trank, o König, der du hell erstrahlst, Ergiesst sich durch das Widderhaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок у тебя, Паваманы,  
 Опьянение, устраняющее беду, о царь,  

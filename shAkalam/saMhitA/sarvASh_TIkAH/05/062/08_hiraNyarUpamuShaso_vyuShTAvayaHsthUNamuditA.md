@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यरूपम् उष꣡सो वि꣡उष्टाव्  
 अ꣡यस्थूणम् उ꣡दिता सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡तश् चक्षाथे अ꣡दितिं दि꣡तिं च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । रो॒ह॒थः॒ । व॒रु॒ण॒ । मि॒त्र॒ । गर्त॑म् । अतः॑ । च॒क्षा॒थे॒ इति॑ । अदि॑तिम् । दिति॑म् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyarūpam* ← *hiraṇya*
 - \[noun\], neuter
@@ -119,7 +119,7 @@ genre M
 **उषसो** **व्युष्टौ** । प्रातःकाल इत्यर्थः । **सूर्यस्य** **उदिता** उदितावुदये । स एव कालः प्रकारान्तरेणोक्तः । तस्मिन् काले **हिरण्यरूपम्** **अय:स्थूणम्** अयोमयशङ्कुं **गर्तं** रथं हे **वरुण** हे **मित्र** युवां गर्तम् **आ** **रोहथः** यज्ञं प्राप्तुम् । **अतः** अस्माद्धेतोः **अदितिम्** अखण्डनीयां भूमिं **दितिं** खण्डितां प्रजादिकां **च** **चक्षाथे** पश्यथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Ditim = dinam, base or nāstikavṛttam, an infidel
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two mount the throne possessing golden color at the break of dawn,  (the throne) possessing a metal pillar at the rising of the sun,  
 o Mitra and Varuṇa. From there you observe guiltlessness and guilt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye mount your car gold-hued at break of morning, and iron-pillared when the Sun is setting,  
      And from that place, O Varuna and Mitra, behold infinity and limit~tion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr besteiget bei dem Aufleuchten der Morgenröte den goldfarbigen, bei Sonnenaufgang den erzsäuligen Hochstuhl, o Mitra und Varuna. Von da überschauet ihr Unschuld und Schuld.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den goldgeschmückten Thron auf ehrnen Säulen besteigt ihr bei der Morgenröthe Leuchten, Beim Sonnenaufgang, Varuna und Mitra, von dort schaut ihr, was endlos, was begrenzt ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На выглядящий, как золото при воспламенении утренней зари,  
 Трон с бронзовой колонной на восходе солнца  

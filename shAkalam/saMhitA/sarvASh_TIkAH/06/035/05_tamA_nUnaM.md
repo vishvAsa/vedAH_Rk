@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् आ꣡ नूनं꣡ वृज꣡नम् अन्य꣡था चिच्  
 छू꣡रो य꣡च् छक्र वि꣡ दु꣡रो गृणीषे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आङ्गिरसा꣡न् ब्र꣡ह्मणा विप्र जिन्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । निः । अ॒र॒म् । शु॒क्र॒ऽदुघ॑स्य । धे॒नोः । आ॒ङ्गि॒र॒सान् । ब्रह्म॑णा । वि॒प्र॒ । जि॒न्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 हे इन्द्र त्वं **नूनम्** अद्यतनं **वृजनं** बाधकमस्मदीयं शत्रुम् **अन्यथा** **चित्** अन्येनैव प्रकारेण योजय । येन प्रकारेण सर्वे जीवन्ति तद्विलक्षणं प्रकार मरणाख्यं प्रापयेत्यर्थः । आकारः पूरकः । हे **शक्र** सर्वकार्येषु शक्तेन्द्र **शूरः** शौर्यापेतः **वि** **दुरः** विशेषेण दारयिता शत्रूणाम् । यद्वा । दुरो द्वाराणि शत्रुसंबन्धीनि विघटयंस्त्वं **यत्** यस्मात् **गृणीषे** अस्माभिः स्तूयसे तस्मात् कारणात् **शुक्रदुघस्य** शुक्राणां निर्मलानां दोग्धुरिन्द्रस्य **धेनोः** वाचः स्तोत्रात् **मा** **निररं** मा निर्गच्छेयम् । यद्वा । शुक्रस्य पयसो दोग्ध्र्या धेनोस्त्वया दत्ताया गोः सकाशात् मा निर्गच्छेयम् ॥ अरमित्याख्यातम् ‘ऋ ‘ गतौ ' इत्यस्य रूपम् ॥ सा सर्वदास्मासु निवसत्वित्यर्थः । हे **विप्र** प्राज्ञेन्द्र **आङ्गिरसान्** अङ्गिरोगोत्रजानस्मान् **ब्रह्मणा** अन्नेन **जिन्व** प्रीणय ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ Into a different course: i.e. consign him to death, a course different from that
 Dhenoḥ = **vacas**, stotrat, from praise; or, may I never depart from the milch cows given, Indra, by you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This community here and now do I sing, as (I did) also at another time,  when as champion, able one, you (opened) wide the doors.  
 May I not miss out on the milk-cow whose milk is clear (soma) [/semen].  Quicken the Āṅgirases, o inspired poet, with your sacred formulation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the first hemistich of this vs. is quite unclear; I am not at all certain my interpr. is correct, but I don’t think it’s appreciably worse than any others, which I will not treat at length. One observation about it, which doesn’t really aid in its interpr., is that it seems to play off the Agastya Triṣṭubh refrain (I.165.15d, etc.) vidyā́meṣáṃ vṛjánaṃ jīrádānum “May we find refreshment and a community having lively waters.” A large proportion of the occurrences of vṛjánam are found in that refrain. The jinva at the end of our vs. picks up the jīrá- of the refrain, and its íṣam is matched by our íṣaḥ in 4c.
 
@@ -172,23 +172,23 @@ The rest of the vs. is much less problematic. The most important thing to note i
 Also in d, bráhmaṇā is ring-compositionally related to bráhma in 1a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lead otherwise this present foeman, Sakra! Hence art thou praised as Hero, foe destroyer  
      Him who gives pure gifts may I praise unceasing. Sage, quicken the Angirases by devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu diesem Opferbund komm jetzt wie sonst, da du, Mächtiger, gepriesen wirst als Held, der die Tore aufschließt. Nicht möchte ich entbehren die Milchkuh des den hellen Samen milchenden Soma. Belebe die Angirasiden mit der Kraft des Wortes, du Redegewaltiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch jetzt wie sonst erwähl' ich diesen Mann mir; wenn, starker, du als Held die Thüren aufthust, Nicht fehl mir dann der Stier, dess Same strömet, beleb', o weiser, durch Gebet die Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(езжай) сейчас в эту жертвенную общину, как и в другие разы,  
 О герой, когда, о могучий, тебя воспевают (как) от(крывающего) врата.  

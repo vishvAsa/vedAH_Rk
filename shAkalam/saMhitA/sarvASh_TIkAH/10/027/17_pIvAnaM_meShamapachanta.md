@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पी꣡वानम् मेष꣡म् अपचन्त वीरा꣡  
 नि꣡उप्ता अक्षा꣡ अ꣡नु दीव꣡ आसन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पवि꣡त्रवन्ता चरतः पुन꣡न्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 द्वा । धनु॑म् । बृ॒ह॒तीम् । अ॒प्ऽसु । अ॒न्तरिति॑ । प॒वित्र॑ऽवन्ता । च॒र॒तः॒ । पु॒नन्ता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīvānam* ← *pīvas*
 - \[noun\], accusative, singular, masculine
@@ -113,7 +113,7 @@ popular
 **वीराः** प्रजापतेः पुत्रा अङ्गिरसः **पीवानं** स्थूलम् । मेदोमांसादियुक्तमित्यर्थः। **मेषम्** अजम् **अपचन्त** प्रजापतिरूपस्येन्द्रस्यार्थाय पक्ववन्तोऽभवन् । पशुयागं कुर्वन्त इत्यर्थः । किंच। लुप्तोपममेतत् । यथा देवानाम् **अक्षाः** **दीवे** देवने रमणस्थाने **न्युप्ताः** निक्षिप्ताः सन्तः **अनु** **आसन्** संक्रीडमानयोर्द्वयोरेकतरस्यानुगता भवन्ति तथा सर्वेऽङ्गिरसः प्रजापतेरनुगता भवन्ति। **द्वा** अङ्गिरसां मध्ये द्वावङ्गिरसौ **धनुम्** । धनुशब्दोऽत्र धनुःशब्दपर्यायो धनशब्दपर्यायो वा । धनुर्यथा वधसाधनं तथाज्ञानादिवधसाधनं धनवत्प्रीतिकरं वा। कपिलमित्यर्थः । **बृहतीं** प्रजापतेराज्ञया वर्धयित्रीं प्रकृतिम् **अप्स्वन्तः** प्रकृतिस्थानां सूक्ष्मणामुदकानां मध्ये **चरतः** प्रजापत्यादेशादाराधयतः। कीदृशौ । **पवित्रवन्ता** पवित्रवन्तौ । मन्त्रः पवित्रमुच्यते । ध्यानसाधनप्रणवमन्त्रवन्तौ **पुनन्ता** शुद्धौ। प्रणवध्यानेनात्मानं संस्कुर्वन्तावित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,28 +130,28 @@ Dhanum = themeans of killing ignorance and the like, or the doer of kindness, i.
 Bṛhatīm = the increase by commandof Prajāpati, i.e., Prakṛti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The heroes cooked a fat ram; there were dice strewn down for gaming. Two roam the lofty steppe [=heaven?], provided with filters, purifying  (soma?) in the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Heroes dressed with fire the fatted wether: the dice were thrown by way of sport and gaming.  
      Two reach the plain amid the heavenly waters, hallowing and with means of purifying.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Männer brieten sich einen feisten Widder; die hingeschütteten Würfel lagen zum Spiel bereit. Zwei sind dabei, mit Filtern versehen den hohen Quell im Wasser zu läutern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Einen fetten Widder brieten sich die Männer, zum Spiele dienten ihnen die niedergeworfenen Würfel; zwei von ihnen gehen hin zu der Wolkeninsel, der hoch hervorragenden mitten unter den Gewässern, reinigend mit Reinigungsmitteln versehen (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

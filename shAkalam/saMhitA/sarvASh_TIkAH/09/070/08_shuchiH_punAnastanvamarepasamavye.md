@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिः पुनान꣡स् तनु꣡वम् अरेप꣡सम्  
 अ꣡व्ये ह꣡रिर् नि꣡ अधाविष्ट सा꣡नवि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रिधा꣡तु म꣡धु क्रियते सुक꣡र्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 जुष्टः॑ । मि॒त्राय॑ । वरु॑णाय । वा॒यवे॑ । त्रि॒ऽधातु॑ । मधु॑ । क्रि॒य॒ते॒ । सु॒कर्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **अरेपसं** पापरहितम् । यद्वा । ‘रिपि गतौ । गतिरहितम् । पात्रे स्थितमित्यर्थः । तादृशं **तन्वम्** आत्मीयं शरीरं **पुनानः** शोधयन् अत एव **शुचिः** पूतो दीप्यमानो वा **हरिः** हरितवर्णः सोमः **सानवि** सानुनि समुच्छ्रिते **अव्ये** अविवालकृते दशापवित्रे **न्यधाविष्ट** ऋत्विग्भिर्निधीयते । ‘ धूञ् कम्पने । स्यसिच्सीयुट्तासिषु' ( पा. सू. ६. ४. ६२ ) इति कर्मणि लुङि चिण्वदिट् । णित्त्वाद्वृद्धिः । ततः **मित्राय** **वरुणाय** **वायवे** एतेभ्यः **जुष्टः** पर्याप्तः **त्रिधातु** त्रिसंधानो वसतीवरीभिर्दध्ना पयसा संस्पृष्टः सोमः **त्रिधातु** तादृशं **मधु** मदकरः सोमः **सुकर्मभिः** शोभनकर्मयुक्तैर्ऋत्विग्भिः **क्रियते** मित्रादिदेवार्थं प्रदीयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 Sinless: Or, motionless, i.e., plural ced the vessel; the three ingredients: tridhātu, three ores; or, water, curds, and milk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gleaming, purifying his spotless body, the tawny one has run down  onto the sheep’s back,  
 pleasing to Mitra, Varuṇa, and Vāyu. The honey is made threefold by  those who make it well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright, making pure his body free from spot and stain, on the sheep's back the Golden-coloured hath flowed down.  
      Acceptable to Mitra, Vayu, Varuna, he is prepared as threefold meal by skilful men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Klar seinen makellosen Leib läuternd ist der Falbe jetzt auf den Schafrücken abgeflossen, dem Mitra, Varuna, Vayu willkommen. Von den Geschickten wird der Süßtrank aus drei Bestandteilen bereitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der hell entflammte hat gereinigt seinen Leib den fleckenlosen glänzend auf der Seihe Höh, Beliebt bei Vaju und bei Mitra, Varuna wird dreifach durch die eifrigen der Meth gebraut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дочиста очищающий (свое) беспорочное тело,  
 Золотистый стал стекать на спину овечьей (цедилки),  

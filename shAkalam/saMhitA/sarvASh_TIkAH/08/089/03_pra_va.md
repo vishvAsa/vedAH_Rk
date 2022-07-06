@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ व इ꣡न्द्राय बृहते꣡  
 म꣡रुतो ब्र꣡ह्म अर्चत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 व꣡ज्रेण शत꣡पर्वणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वृ॒त्रम् । ह॒न॒ति॒ । वृ॒त्र॒ऽहा । श॒तऽक्र॑तुः । वज्रे॑ण । श॒तऽप॑र्वणा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -103,36 +103,36 @@ genre M;; repeated line
 हे **मरुतः** मितराविणः स्तोतारः **बृहते** महते **वः** स्तुत्यस्तोतृत्वलक्षणेन संबन्धेन युष्मदीयाय **इन्द्राय** **ब्रह्म** सामलक्षणं स्तोत्रं **प्र** **अर्चत** प्रोच्चारयत । ततः **वृत्रहा** वृत्रस्य पापस्य वा हन्ता **शतक्रतुः** शतविधकर्मा बहुविधप्रज्ञो वेन्द्रः **शतपर्वणा** शतसंख्याकधारेण **वज्रेण** एतन्नामकेनायुधेन **वृत्रम्** अपामावरकं वृत्राख्यमसुरं **हनति** युष्माभिरभिष्टुतः सन् हन्तु । हन्तेर्लेट्यडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, utter forth the hymn to your great **Indra**; let **Śatakratu**, the slayer of **Vṛtra**, smite Vṛtra with hishundred-edged thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To lofty Indra, o Maruts, chant your sacred formulation.  
 He will smite Vr̥tra—the Vr̥tra-smiter of a hundred resolves—with his  mace of a hundred joints.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing to your lofty Indra, sing, Maruts, a holy hymn of praise.  
      Let Satakratu, Vrtra-slayer, kill the foe with hundred-knotted thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmet für den hohen Indra euer stärkendes Lied an, ihr Marut! Der Vritra-Erleger, der Ratreiche erlege den Vritra mit der hundertknorrigen Keule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, eurem hohen Indra singt, o Maruts, ein erhabnes Lied, Den Vritra schlag der thatenreiche Vritrafeind mit seinem hundertzack'gen Blitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пропойте для высокого Индры,  
 О Маруты, ваше священное слово!  

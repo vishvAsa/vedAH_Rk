@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नस्प꣡तिम् पवमान  
 म꣡ध्वा स꣡म् अङ्ग्धि धा꣡रया  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भ्रा꣡जमानं हिरण्य꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 स॒हस्र॑ऽवल्शम् । हरि॑तम् । भ्राज॑मानम् । हि॒र॒ण्यय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanaspatim* ← *vanaspati*
 - \[noun\], accusative, singular, feminine
@@ -85,36 +85,36 @@ popular;; epic anuṣṭubh (424)
 हे **पवमान** सोम **हरितं** हरितवर्णं **हिरण्ययं** कदाचिद्धिरण्मयवर्णं व **भ्राजमानं** दीप्यमानं **सहस्रवल्शं** सहस्रशाखं **वनस्पतिं** देवं **धारया** धारामयेण **मध्वा** मधुना **समङ्ग्धि**  अङ्क्ष्व । संस्कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure **Soma**, consecrate with your streaming ambrosia the green bright golden-hued **Vanaspati** with its thousand branches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying one, with your honeyed stream anoint the Lord of the  Forest,  
 the tawny one with a thousand branches, blazing, golden.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, with the meath in streams anoint Vanaspati,  
      The ever-green. the golden-hued, refulgent, with a thousand boughs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Baum salbe du Geläuterter mit deinem süßen Strome, den tausendzweigigen, grünen, strahlenden, goldenen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Waldesbaum, o rieselnder, benetze mit dem süssen Strom, Den goldnen, feuerfarbenen, der hell mit tausend Zweigen glänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дерево  
 , о Павамана,  

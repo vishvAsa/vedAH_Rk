@@ -8,7 +8,7 @@ title = "+163"
 ‘यदक्रन्दः' इति त्रयोदशर्चं सप्तमं सूक्तं दैर्घतमसं त्रैष्टुभम् । अश्वस्य स्तूयमानत्वात्तद्देवत्यम् । ‘यदक्रन्दः सप्तोना' इत्यनुक्रमणिका । आश्वमेधिके मध्यमेऽहनि उपाकरणाय अवस्थितम् अश्वम् आद्याभिरेकादशभिः स्तौति । तथा च त्रीणि सुत्यानि' इति खण्डे सूत्रितं - तमवस्थितमुपाकरणाय यदक्रन्द इत्येकादशभिः स्तौत्यप्रणुवन्' (आश्व. श्रौ. १०. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 163  
 Praise of a Horse (Aśvastuti)  
@@ -19,7 +19,7 @@ In our opinion, the rest of the hymn concerns the horse’s journey to heaven,  
 As this lyrical passage comes toward its end, the figure of the horse reasserts  itself, and the connections to 162 become stronger again. In the much-discussed  verse 10, in our opinion the arrangement of the divine horses, compared to the  V-shaped formation of geese in flight, refers to the divine mounts that accompany  the sacrificed horse in 162.21. Verse 11 addresses the horse as it flies in the guise of  the sun-bird, but we return to the real world of the sacrifice in verse 12, which in  ring-compositional fashion picks up the procession of goat and horse to slaughter  that began 162, reprising some of the language of that hymn as well (úpa prā́gāt “has gone forth” in 163.12–13 and 162.7; puró nīyate “is led in front” in 163.12 and  162.3). The summary verse (13) sends the horse on his way and again expresses  hopes for a return on our sacrificial investment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Praise of a horse (Aśvastuti) Krick translates and comments extensively on this hymn (307-11), though with a particular point of view.
 </details>

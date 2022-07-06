@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ यज्ञे꣡षु यज्ञि꣡यास ऊ꣡मा  
 आदितिये꣡न ना꣡म्ना श꣡म्भविष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡श् च या꣡मन् अध्वरे꣡ चकानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ते । नः॒ । अ॒व॒न्तु॒ । र॒थ॒ऽतूः । म॒नी॒षाम् । म॒हः । च॒ । याम॑न् । अ॒ध्व॒रे । च॒का॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -118,7 +118,7 @@ genre M
 **ते** **हि** ते खलु **यज्ञेषु** यागेषु **यज्ञियासः** यज्ञार्हा यष्टव्याः **ऊमाः** अवितारः **आदित्येन** **नाम्ना** आदित्यसंबन्धिनोदकेन **शंभविष्ठाः** सुखस्य भावयितारः । यद्वा । आदित्याख्येन नाम्नादित्यनामकेन देवेन सह शंभविष्ठाः । **ते** मरुतः **नः** अस्मान् **अवन्तु** । **रथतूः** रथतुरो रथस्य यशगमनसाधनस्य त्वरयितारः सन्तः **मनीषां** स्तुतिमवन्तु रक्षन्तु । कीदृशास्ते । **अध्वरे** **यामन्** यागगमने **महः** महद्धविः **चकानाः** कामयमानाः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Under the name of **Ādityas**: or, by meansof the water connected with **Āditya** (the sun)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For they are helpers worthy to receive sacrifice at the sacrifices, the best  luck-bringers, by the Ādityan name.  
 Let them aid our inspiration, (like a horse) that outstrips chariots, as  they take pleasure in the journey of their great (host) and in the  ceremony.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For these are helps adored at sacrifices, bringing good fortune by their name Adityas.  
      Speeding on cars let them protect our praises, delighting in our sacrifice and worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese bei dem Opfer zu verehrenden Helfer, die heilsamsten mit dem aditischen Namen, die sollen unsere Gebete bevorzugen, die Wagen überholend und bei ihrer großen Ausfahrt am Opfer Gefallen findend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So mögen denn die ehrwürdigen Genossen bei dem Opfer, die durch der Aditja's Wesen am meisten Heil bringen, unser Gebet befördern, mit den Wagen herbeieilend, und rechtes Gefallen finden an dem Feste und der Opferfeier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти помощники на жертвоприношениях, достойные жертв,  
 Самые благотворные из-за (своего) имени Адитьев,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातर्या꣡व्णः सहस्कृत  
 सोमपे꣡याय सन्तिय  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 बर्हि꣡र् आ꣡ सादया वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इ॒ह । अ॒द्य । दैव्य॑म् । जन॑म् । ब॒र्हिः । आ । सा॒द॒य॒ । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātaryāvṇaḥ* ← *prātar*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 हे **सहस्कृत** बलेन मथित **सन्त्य** फलदातः **वसो** निवासहेतुभूताग्ने **इह** देवयजनदेशे **अद्य** अस्मिन् दिने **सोमपेयाय** सोमपानार्थं प्रातर्याव्णः प्रातरागच्छतो देवान् **दैव्यं** **जनम्** अन्यमपि देवताजनं **बर्हिः** **आ** **सादय** यज्ञं प्रापय ॥ प्रातर्याव्णः । शसि ‘अल्लोपोऽनः' इति अकारलोपः। सहस्कृत । सहतेऽभिभवत्यनेनेति सहो बलम् । तेन क्रियते इति सहस्कृतः । ‘ ओजःसहोऽम्भस्तमसस्तृतीयायाः' (पा. सू. ६. ३. ३) इति अलुगभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,34 +108,34 @@ genre M
 Strength-genitive rated: an apparent reference to production of fire by friction
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O might-made comrade, those who travel early for soma-drinking, the divine folk—here today make them sit on the ritual grass, o  
 good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Good, bounteous, Son of Strength, this day seat here on sacred grass the Gods  
      Who come at early morn, the host of heaven, to drink the Soma juice
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O strength-made, good (Agni), make the gods who come in the morning, the divine host, sit down here to-day on our sacrificial grass, O Vasu, to drink the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Krafterzeugter, Wahrhafter ! Heiße die Frühausfahrer, das göttliche Volk heute hier auf das Barhis zum Somatrunk sich setzen, du Guter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O krafterzeugter, setze her zum Somatrunke auf die Streu Die frühe kommen, trefflicher, o guter, heut die Götterschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выезжающих утром (богов), о созданный силой,  
 На питье сомы, о истинный,  

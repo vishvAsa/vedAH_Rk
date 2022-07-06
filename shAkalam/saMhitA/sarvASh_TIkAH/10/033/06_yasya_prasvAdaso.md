@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य प्र꣡स्वादसो गि꣡र  
 उपम꣡श्रवसः पितुः꣡  
 क्षे꣡त्रं न꣡ रण्व꣡म् ऊचु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 क्षेत्र॑म् । न । र॒ण्वम् । ऊ॒चुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -81,7 +81,7 @@ genre M
 हे राजन् **उपमश्रवसः** तव **पितुः** **यस्य** मित्रातिथेः **गिरः** वाचः प्रस्वादसः प्रकर्षेण स्वादयित्र्यः । तत्र दृष्टान्तः। **ऊचुषे** सेवमानाय दरिद्राय दानार्थं प्रकल्पितं **रण्वं** रमणीयं **क्षेत्रं** **न** यथा क्षेत्रं स्वादयितृ तद्वदित्यर्थः । उत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M
 Thisand the following ṛcas are explained as the consolatory verses addressed by **Kavaṣa** to Upamaśravas on thedeath of his father king **Mitra**-**tithi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (I chose) the father of Upamaśravas for whom there were sweet songs, delightful like a dwelling place for one at home in it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sire of Upamasravas, even him whose words were passing sweet,  
      As a fair field is to its lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Vater des Upamasravas, dessen Worte angenehm waren, erfreulich wie die Flur für den Heimischen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Upamaçravas Vater war es, dessen Lieder lieblich waren wie ein erfreuender Wohnsitz, dem, der daran Gefallen hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отца Упамашраваса,  
 Чьи речи (были) сладостны,  

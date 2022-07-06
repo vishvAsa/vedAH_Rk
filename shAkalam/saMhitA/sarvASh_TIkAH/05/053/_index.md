@@ -8,7 +8,7 @@ title = "+053"
 ' को वेद जानम् ' इति षोडशर्चं नवमं सूक्तम् । श्यावाश्व ऋषिः । आद्यापञ्चमीदशम्येकाशीपञ्चदश्यः ककुभः षष्ठीसप्तमीनवमीत्रयोदशीचतुर्दशीषोडश्यः सतोबृहत्योऽष्टमी द्वादशी च गायत्र्यौ द्वितीया बृहती तृतीयानुष्टुप् चतुर्थी पुरउष्णिक् । मरुतो देवता । तथा चानुक्रान्तं - ' को वेद षोळश ककुब्बृहत्यनुष्टुप् पुरउष्णिक् ककुप्सतोबृहत्यौ गायत्री सतोबृहती ककुभौ गायत्री सतोबृहत्यौ ककुप्सतोबृहती ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 53 (407)  
 Maruts  
@@ -20,7 +20,7 @@ The hymn opens (vss. 1–2), as often, with questions—what is the origin of  M
 ning: to what sacrificer have the Maruts gone? The hope is of course that they have  come or will come to us, and the blessings we wish to receive are detailed in the final  verses (14–16.)
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts For the complex metrical structure of the hymn, see published introduction. Despite the numerous different names for the meters, with few meters repeated in adjacent vss., they are all combinations of 8- and 12-syllable pādas, and so the hymns is metrically more harmonious than the long list of meters implies.
 </details>

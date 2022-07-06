@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्यो न꣡ ह्यानो꣡° अभि꣡ वा꣡जम् अर्ष  
 सुवर्वि꣡त् को꣡शं दिवो꣡ अ꣡द्रिमातरम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मः पुनान꣡ इन्द्रिया꣡य धा꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । प॒वित्रे॑ । अधि॑ । सानौ॑ । अ॒व्यये॑ । सोमः॑ । पु॒ना॒नः । इ॒न्द्रि॒याय॑ । धाय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **अत्यो** **न** अश्व इव **हियानः** प्रेर्यमाणः **वाजं** संग्रामम् **अभि** **अर्ष** अभिगच्छ । तथा **स्वर्वित्** सर्ववित् **कोशं** द्रोणकलशं **दिवः** द्युलोकात् अद्रिमातरम् । अद्रिर्मेघः। तेन तज्जन्यमुदकं लक्ष्यते । तस्य निर्मातारमभ्यर्ष । अथ प्रत्यक्षकृतः । **वृषा** वर्षकः **सोमः** **अव्यये** अविमये **अधि** **सानौ** । अधीति सप्तम्यर्थानुवादी । समुच्छ्रिते तस्मिन् **पुनानः** पूयमानो भवति । किमर्थम् । **धायसे** धारकाय **इन्द्रियाय** तदर्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 For Indra's strength: dhāyase = dhārakāya; or, 'to Indra's supporting', i.e. to support Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a steed being spurred, rush to the prize, to the cask of heaven,  whose mother is the stone—  
 you, the finder of the sun, the bullish Soma, being purified in the filter,  on the sheep’s back, for Indra’s suckling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a is metrically disturbed, despite apparently having 12 syl. With Arnold and Holland & van Nooten Rig Veda edition, best to read *hyānáḥ for hiyānáḥ (as sometimes elsewhere), to avoid a too early or too late caesura and a bad Jagatī cadence. The pāda is then a fine Triṣṭubh.
 
@@ -163,23 +163,23 @@ concern the swift journey of the soma drinks, which is compared to that of swift
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a steed urged to battle, finder of the light; speed onward to the cloud-born reservoir of heaven,  
      A Steer that o'er the woolly surface seeks the sieve, Soma while purified for Indra's nourishment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Renne wie ein angesporntes Roß nach dem Siegerpreis, die Sonne findend, zur Kufe des Himmels, deren Mutter der Stein ist, du der Bulle in der Seihe auf dem Rücken von Schurwolle, der Soma, der sich läutert, um die indrische Kraft zu haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gespornt wie zu dem Preis der Renner ströme hin zum felsentsprossnen Himmelskrug, gewinnend Glanz, Ein Hengst zur Seihe auf den wollnen Gipfel hin, gereinigt Soma zu des Indra Sättigung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

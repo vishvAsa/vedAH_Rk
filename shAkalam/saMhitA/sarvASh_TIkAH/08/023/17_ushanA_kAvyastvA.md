@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡ना काविय꣡स् तुवा  
 नि꣡ हो꣡तारम् असादयत्  
 आयजिं꣡ त्वा म꣡नवे जात꣡वेदसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ॒ऽय॒जिम् । त्वा॒ । मन॑वे । जा॒तऽवे॑दसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśanā* ← *uśanas*
 - \[noun\], nominative, singular
@@ -78,36 +78,36 @@ genre M
 हे अग्ने **काव्यः** कविपुत्रः **उशना** एतन्नामक ऋषिः **मनवे** राज्ञे । तस्य गृह इत्यर्थः । **आयजिम्** आभिमुख्येन यष्टारं **जातवेदसं** जातप्रज्ञं **त्वा** त्वाम् । पुनस्त्वाशब्द आदरार्थः । त्वमेव **होतारं** होमनिष्पादकं **नि** **असादयत्** नितरामुपावेशयत् ॥ विश्व हि त्वां सजोषसो देवासो दूतमक्रत । श्रुष्टी दैव प्रथमो यज्ञियौ भुवः॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Uśanā**, the son of **Kavi**, has established you, **Jātavedas**, as the ministrant priest, you as the offererof sacrifice, for **Manu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Uśanā Kāvya set you down as Hotar—  
 you to win (goods) by sacrifice for Manu as Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Usana Kavya stablished thee, O Agni, as Invoking Priest:  
      Thee, Jatavedas, Sacrificing Priest for man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usanas Kavya setzte dich zum Hotri ein, dich den Jatavedas, für Manu zum Fürbitter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es setzte einst zum Opferer dich ein Uçana Kavia, Dich Wesenkenner, der du Gut dem Menschen bringst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кавья Ушанас усадил  
 Тебя как хотара,  

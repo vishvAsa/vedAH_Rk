@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡भिं यज्ञा꣡नां स꣡दनं रयीणा꣡म्  
 महा꣡म् आहाव꣡म् अभि꣡ सं꣡ नवन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यज्ञ꣡स्य केतुं꣡ जनयन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वै॒श्वा॒न॒रम् । र॒थ्य॑म् । अ॒ध्व॒राणा॑म् । य॒ज्ञस्य॑ । के॒तुम् । ज॒न॒य॒न्त॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nābhiṃ* ← *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
@@ -111,7 +111,7 @@ genre M
 **यज्ञानां** ज्योतिष्टोमादियागानां **नाभिं** नहनं बन्धकं तथा **रयीणां** धनानां **सदनं** स्थानमैकनिलयं **महां** महान्तम् **आहावम्** । आहूयन्तेऽस्मिन्नाहुतय इत्याहावः । तादृशम् । यद्वा । वृष्ट्युदकधारणमाहावं निपानस्थानीयम् । एवंभूतमग्निम् **अभि** अभितः **सं** **नवन्त** स्तोतारः सम्यक् स्तुवन्ति । तथा **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **अध्वराणां** यज्ञानां **रथ्यं** रथिनम् । यथा रथी स्वरथं नयति तद्वन्नेतारं ग्राहयितारं गमयितारं **यज्ञस्य** **केतुं** प्रज्ञापकम् । एवंविधमग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **जनयन्त** जनयन्ति मथनेनोत्पादयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 The bond of sacrifices: nābhim yañānām: **nābhi** = vahanam, bandhakam, the connecting link or binding of differing rites
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Navel of sacrifices, seat of riches, the great watering trough—toward  (him) did they cry out together.  
 Vaiśvānara, charioteer of the ceremonies, beacon of the sacrifice—(him)  the gods begot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On mahā́m as acc. sg. masc. see AiG III.251, EWA s.v. mahā́nt, p. 338.
 
@@ -146,23 +146,23 @@ There are only three finite verbs in this two-vs. sequence, all injunctives: 1d 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have they praised, mid-point of sacrifices, great cistern of libations, seat of riches.  
      Vaisvanara, conveyer of oblations, ensign of worship, have the Gods engendered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Nabel der Opfer, dem Sitz der Reichtümer, der großen Tränke brüllten sie insgesamt zu. Den Vaisvanara haben die Götter zum Wagenfahrer der Opfer, zum Wahrzeichen des Gottesdienstes gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opfer Nabel, ihn den Sitz der Schätze, begrüssten alle, ihn den grossen Eimer, Den Männerhort, der Opfergaben Fährmann, die Götter zeugten ihn als Opfers Banner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пуп жертвоприношений, седалище богатств, Ликуя, приветствовали они как великий водопой.  
 Вайшванару, колесничего обрядов,  

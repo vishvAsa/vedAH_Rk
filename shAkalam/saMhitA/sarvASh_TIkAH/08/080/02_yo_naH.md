@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नः श꣡श्वत् पुरा꣡विथ  
 अ꣡मृध्रो वा꣡जसातये  
 स꣡ त्वं꣡ न इन्द्र मॄळय+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सः । त्वम् । नः॒ । इ॒न्द्र॒ । मृ॒ळ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -89,43 +89,43 @@ genre M;; repeated line
 **यः** **अमृधः** अहिंसकः **नः** अस्मान् **वाजसातये** अन्नलाभाय **पुरा** पूर्वम् **आविथ** रक्षितवान् । हे **इन्द्र** **स** **त्वं** **नः** अस्मान् **शश्वत्** सदा **मृळय** सुखय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O you, the invulnerable, who have always in former times protected us for the battle, do you, **Indra**,make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who, not shirking, in the past, time after time, helped us to win  the prize,  
 be merciful to us, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes b in semi-independence of a: “… für die Lohngewinnung nicht gering zu schätzen.” This seems to be because of VII.67.5, which, however, doesn't seem to be parallel enough to require this interpretation here.
 
 Note the phonological similarity of the value-heavy words marḍitā́ram (1b), mṛḷaya (1c, 2c), belonging to √mṛḍ ‘have mercy’, and ámṛdhraḥ ‘not shirking, not neglectful’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou who hast ever aided us kindly of old to win the spoil,  
      As such, O Indra, favour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du uns schon früher immer wieder beigestanden hast, für die Lohngewinnung nicht gering zu schätzen, sei du uns barmherzig, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du uns stets geholfen hast zur Preisgewinnung, eifervoll, Du, Indra, sei uns holdgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

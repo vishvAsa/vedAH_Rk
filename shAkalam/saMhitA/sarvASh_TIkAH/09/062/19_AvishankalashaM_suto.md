@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आविश꣡न् कल꣡शं सुतो꣡  
 वि꣡श्वा अ꣡र्षन्न् अभि꣡ श्रि꣡यः  
 शू꣡रो न꣡ गो꣡षु तिष्ठति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 शूरः॑ । न । गोषु॑ । ति॒ष्ठ॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āviśan* ← *āviś* ← *√viś*
 - \[verb noun\], nominative, singular
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सुतः** अभिषुतः सोमः **कलशं** द्रोणम् **आविशन्** **विश्वाः** सर्वाः **श्रियः** संपदः **अभि** **अर्षन्** अस्मानभिगमयन् **गोषु** शत्रूणां पशुषु **शूरो** **न** यथा शूरो निःशङ्कः **तिष्ठति** तद्वद्यज्ञेषु निःशङ्कस्तिष्ठति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 I.e. as a hero resolutely stands among the enemy's cattle, so the **Soma** resolutely stands among the sacrifices
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed, entering the tub, rushing to all that is glorious,  
 he stands among the cows like a champion.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -118,23 +118,23 @@ There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pouring all glories hither, he, effused and entering the jar,  
      Stands like a hero mid the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt in den Krug einziehend, auf alle Herrlichkeiten zufließend hält er stand wie der Tapfere im Kampf um die Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter Kühen wie ein Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मन्यु꣡म् म꣡र्तियाना᳐म्  
 अ꣡दब्धो नि꣡ चिकीषते  
 पुरा꣡ निद꣡श् चिकीषते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 पु॒रा । नि॒दः । चि॒की॒ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -73,36 +73,36 @@ genre M
 **सः** इन्द्रः **मन्युं** क्रोधम् । केषाम् । **मर्त्यानाम्** । **अदब्धः** केनाप्यहिंसितः सन् **नि** **चिकीषते** निकरोति । किं मन्यु प्राप्यैव नेत्याह । **निदः** निन्दायाः **पुरा** पूर्वमेव **चिकीषते** । यदा तं निन्दितुमिच्छति कश्चित्ततः पूर्वमेव तं निकरोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unharmed he brings low the wrath of mortals; ere any one can reproach him, he brings him low.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not to be outwitted, he watches out for the fury of mortals,  
 watches out before the insult (comes).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He spieth out the wrath of man, he who can never be deceived:  
      Ere blame can come he marketh it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Unbetörte erforscht die Absicht der Sterblichen; noch bevor sie den Tadel aussprechen, erforscht er sie.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der Untrügliche, beschaut den Eifer aller Sterblichen, Bewahret vor dem Schmäher sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

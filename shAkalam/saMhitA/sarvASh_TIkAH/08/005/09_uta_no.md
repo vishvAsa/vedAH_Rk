@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो गो꣡मतीर् इ꣡ष  
 उत꣡ साती꣡र् अहर्विदा  
 वि꣡ पथः꣡ सात꣡ये सितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि । प॒थः । सा॒तये॑ । सि॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **अहर्विदा** अह्नो लम्भयितारौ । यद्वा । अह्नि प्रभातसमये वेदितव्यौ स्तोतव्यौ । **नः** अस्मभ्यं **गोमतीः** बहुभिर्गोंभिर्युक्ताः इषः अन्नानि दत्तमिति शेषः। **उत** अपि च **सातीः** संभजनीया दातव्या वा रायश्चास्मभ्यं दत्तम् । सनतेः सनोतेर्वा कर्मणि क्तिन् । ‘जनसनखनाम्' इत्यात्वम् ।' उतियूति' इत्यादिना क्तिन उदात्तत्वं निपात्यते । अपि चास्माकं **सातये** उक्तानां गवादीनां लाभाय संभजनाय वा **पथः** तदुपायरूपान् मार्गान् **वि** **सितं** विशेषेण बध्नीतम् । यथान्ये न प्रविशन्ति तथा कुरुतमित्यर्थः। 'षिञ् बन्धने । छान्दसो विकरणस्य लुक् । यद्वा । उपसर्गवशादयं धातुः स्वार्थविपरीते बन्धनाभावे वर्तते । प्रस्मरणं प्रस्थानमिति यथा। पथो मार्गान् वि सितं विमुञ्चतम् । प्रदर्शयतमित्यर्थः । पथिञ्छब्दोऽन्तोदात्तः । तस्य शसि टिलोप उदात्तनिवृत्तिस्वरेण शस उदात्तत्वम्
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ And close the path: **vi pathaḥ** sātaye sitam = asmākam gavādīnāmlābhā
 Vi = vimuñcatampradarśayatam ma-rgān, open, or, show to us the paths of profit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And refreshments along with cattle and winnings, too, o finders of  the days—  
 unfasten the paths for us to win (them).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Renou (explicitly) and Geldner (implicitly) supply as the verb of ab voḷhám ‘convey’ from 10c. This is not impossible, and the duplication of some vocabulary (9a gómatīr íṣa(ḥ): 10 gómantam … rayím … áśvāvatir íṣaḥ) may favor it. But the two verses belong to different tṛcas, a fact that should disfavor such automatic filling in the blanks. I in fact think that ab can be construed with c. That pāda asks the gods to “unfasten” the paths (ví patháḥ … sitam), in other words, to make the way clear, for winning (sātáye). The dat. infinitive sātáye frequently takes an accusative of what is to be won (among many exx., cf., e.g., IX.88.2 purū́ṇi sātáye vásūni). I see no reason why the accusatives of ab cannot be the object of this infinitive; with the acc. in b, sātī́ḥ, we would have not only a cognate accusative construction, but one involving two forms of the same stem. Alternatively the accusatives in ab could serve as objects of ví … sitam, thus parallel to patháḥ. Cf. VIII.23.29, where both accusatives found here are the objects of ápā vṛdhi ‘uncover’, semantically similar to ví … sitam: VIII.23.29bc tváṃ no gómatīr íṣaḥ / mahó rāyáḥ sātím agne ápā vṛdhi “Uncover for us refreshments consisting of cows and the winning of great wealth, o Agni.” Hence in our passage “(Unfasten) refreshments and winnings; unfasten the paths for winning.” See further disc. ad vs. 21 below, which lends additional support to the 2nd alternative.
 
@@ -115,23 +115,23 @@ The epithet aharvíd- (4x, twice in this hymn) can contain either √vid ‘know
 Scarlatta (480-81) considers either possible, though his tr. reflect the former. In I.2.2 and I.156.4 I choose ‘know’, because both passages seem to involve knowledge of the ritual day, but esp. in the latter I recognize the possibility of ‘find’. (See comm. thereon.) By contrast the published translation of this hymn has ‘find’ for both occurrences. I do not feel strongly either way, but since this hymn begins with the Aśvins accompanying Dawn (vss. 1-2) and the immediately preceding vs. (8) has a mention of their traversing the nights, I mildly favor ‘find’, expressing the Aśvins’ advent in the early morning, bringing the daylight with them. Note also svarvidā ‘finders of the sun’ of the Aśvins in nearby VIII.8.7. This latter well-attested cmpd. seems universally to be analysed as containing ‘find’, not ‘know’; cf. Scarlatta 491-92.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Finders of the Day, that we may win us food of kine and wealth,  
      Open the paths for us to tread.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bringet uns gute Speisen nebst Kühen, Gewinne, ihr Zeitkenner! Machet die Wege frei zum Gewinn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Tagerheller, öffnet uns die Pfade, dass Geschenke wir Und rinderreiches Gut empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также (даруйте) нам подкрепления, приносящие коров,  
 А также добычу, о знающие (урочный) час!  

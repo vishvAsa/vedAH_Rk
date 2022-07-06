@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्वा वरन्ते अन्य꣡था  
 य꣡द् दि꣡त्ससि स्तुतो꣡ मघ꣡म्  
 स्तोतृ꣡भ्य इन्द्र गिर्वणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स्तो॒तृऽभ्यः॑ । इ॒न्द्र॒ । गि॒र्व॒णः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -83,36 +83,36 @@ genre M
 हे **इन्द्र** **गिर्वणः** गिरां संभक्तः **स्तुतः** अस्माभिः संस्तुतः **यत्** यदा **स्तोतृभ्यः** अस्मभ्यं **मघं** धनं **दित्ससि** दातुमिच्छसि । तदा **त्वा** त्वाम् **अन्यथा** प्रकारान्तरेण **न** **वरन्ते** न निवारयन्ति । किंतु सर्वेऽप्यनुकूला एव भवन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “None change your purpose, **Indra**, object of laudation, when, being praised, you desire to bestow wealth upon the praisers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They cannot deflect you to another way, when, praised, you wish to  give bounty  
 to the praisers, o Indra longing for songs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They turn thee not another way, when, lauded, Lover of the Song,  
      Thou wilt give wealth to those who praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht halten sie dich auf andere Weise ab, wenn du gepriesen den Sängern eine Gabe schenken willst, du lobbegehrender Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht hemmen sie dich anderwärts, wenn du, gerühmter, spenden, willst, den Sängern Indra, hold dem Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебе не препятствуют никоим образом,  
 Когда, восхваленный, ты хочешь дать подарок  

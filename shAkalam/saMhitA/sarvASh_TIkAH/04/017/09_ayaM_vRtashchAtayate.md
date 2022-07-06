@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वृ꣡तश् चातयते समीची꣡र्  
 य꣡ आजि꣡षु मघ꣡वा शृण्व꣡ ए꣡कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्य꣡ प्रिया꣡सः सखिये꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । वाज॑म् । भ॒र॒ति॒ । यम् । स॒नोति॑ । अ॒स्य । प्रि॒यासः॑ । स॒ख्ये । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -117,20 +117,20 @@ genre M
 **मघवा** धनवान् **यः** इन्द्रः **आजिषु** संग्रामेषु **एकः** मुख्य एव **शृण्वे** श्रूयते । **अयम्** इन्द्रः **समीचीः** संगताः **वृतः** । वृण्वन्त्याच्छादयन्ति लोकानिति वृतः शत्रुसेनाः । ताः **चातयते** नाशयति । **अयम्** इन्द्रः **यं** **वाजं** यदन्नं **सनोति** यजमानाय ददाति तं वाजं **भरति** यजमानस्य तदन्नं दातुं बिभर्ति । स्तोतारो वयम् **अस्य** एवंभूतस्येन्द्रस्य **सख्ये** सखित्वे प्रियासः प्रियाः **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Maghavan**, who destroys assembled hosts, is he who is renowned as chief in battles; he brings the food which he bestows (upon the worshipper); may we be held dear in his friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one forces his united opponents into hiding, he who alone is famed  as the bounteous one in contests.  
 This one brings the prize that he wins. Might we be dear to him in his  partnership.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Alone renowned as Maghavan in battles, he frighteneth away assembled armies.  
      He bringeth us the booty that he winneth may we, well-loved, continue in his friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er treibt die vereinten Heerscharen in die Flucht, der in den Schlachten als der Freigebige bekannt ist. Er bringt die Beute heim, die er gewinnt. In seiner Freundschaft möchten wir die Lieben sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist's, der forttreibt die gescharten Feinde, der als der einz'ge Held im Kampf gerühmt wird, Er bringt herbei das Gut, das er erbeutet, in seiner Freundschaft möchten wir beliebt sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он обращает в бегство собравшиеся вместе отряды,  
 (Тот,) кто один слывет щедрым в боях,  

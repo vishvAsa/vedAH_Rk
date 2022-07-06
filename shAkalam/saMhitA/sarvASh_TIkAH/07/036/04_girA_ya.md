@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गिरा꣡ य꣡ एता꣡ युन꣡जद् ध꣡री त  
 इ꣡न्द्र प्रिया꣡ सुर꣡था शूर धायू꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ सुक्र꣡तुम् अर्यम꣡णं ववृत्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । यः । म॒न्युम् । रिरि॑क्षतः । मि॒नाति॑ । आ । सु॒ऽक्रतु॑म् । अ॒र्य॒मण॑म् । व॒वृ॒त्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
@@ -134,14 +134,14 @@ genre M
 अस्याः पूर्वोऽर्धर्च इन्द्रस्तुतिरपरोऽर्यम्णः स्तुतिः । हे **शूर** विक्रान्त **इन्द्र** **ते** तव **प्रिया** प्रियौ **सुरथा** सुष्ठुरंहणौ **धायू** धारकौ **एता** एतौ **हरी** त्वदीयावश्वौ **यः** जनः **गिरा** स्तुतिरूपया वाचा **युनजत्** रथे युञ्ज्यात् हे इन्द्र त्वम् अस्य यागमायाहीति शेषः । **यः** अर्यमा **रिरिक्षतः** हिंसितुमिच्छतः शत्रोः संबन्धिनं **मन्युं** कोपं **प्र** **मिनाति** प्रकर्षेण हिनस्ति **सुक्रतुं** शोभनकर्माणम् **अर्यमणम्** **आ** **ववृत्यां** स्तुत्यावर्तयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, (come to the sacrifice of the man) who, by his adoration, has harnessed (to your car) theseyour favourite, graceful and vigorous horses; may I bring hither **Aryaman**, the doer of good deeds, who baffles thewrath of the malevolent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will yoke with a hymn these two fallow bays of yours, o  champion Indra, the two dear ones, good at the chariot, seeking  
 fodder,  
@@ -149,7 +149,7 @@ I (as that person) would turn hither the very resolute god of custom  [/Aryaman,
 who wishes to do harm.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of this vs. is skewed: the first hemistich contains a typical generalizing rel. cl. referring to proper ritual performance (“who[ever] will yoke …”). It is couched in the 3rd sg. and contains a pres. subjunctive (yunájat). In the 2nd hemistich, pāda c contains another 3rd sg. rel. cl., this time with a pres. indic. (or possibly subj.) (minā́ti), but without a ritual focus, and pāda d contains a 1st sg.
 
@@ -164,23 +164,23 @@ Note the faint phonological figure of (b) suráthā śūra dhā(yu) / d su(k)rá
 I follow JPB (Ādityas, 171-72) in taking aryáman- here as a descriptor of Indra. As Brereton points out, it makes no sense for Aryaman to appear when the poet is seeking to attract Indra. Moreover, the action of pāda c, confounding battle fury, is much more appropriate for Indra (cf., e.g., nearby VII.18.16 índro manyúm manyumyò mimāya), who is also the most common referent for the adj. sukrátu- ‘very resolute’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I bring hither with my song, O Indra, wise Aryaman who yokes thy dear Bay Horses,  
      Voracious, with thy noble car, O Hero, him who defeats the wrath of the malicious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der durch seine Lobrede diese deine lieben Falben, die rennlustigen am schönen Wagen, o Held Indra, anschirren soll, der die böse Absicht des Schadenssüchtigen vereitelt, den wohlwollenden Aryaman möchte ich herbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der durch Lied an schönen Wagen schirrte dir, Indra, diese lieben durst'gen Rosse, Und der die Wuth des Schadensücht'gen sänftigt, den Arjaman, den holden, lock' ich zu mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) кто хвалебной песней может запрячь эту пару твоих буланых коней,  
 О Индра, славных, (везущих) прекрасную колесницу, о герой, крепких (?) :  

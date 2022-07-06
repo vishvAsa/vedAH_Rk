@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पश्यं ग्रा꣡मं व꣡हमानम् आरा꣡द्  
 अचक्र꣡या स्वध꣡या व꣡र्तमानम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सद्यः꣡ शिश्ना꣡ प्रमिनानो꣡ न꣡वीयान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सिस॑क्ति । अ॒र्यः । प्र । यु॒गा । जना॑नाम् । स॒द्यः । शि॒श्ना । प्र॒ऽमि॒ना॒नः । नवी॑यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
@@ -117,7 +117,7 @@ popular
 **अपश्यं** वसुक्रोऽहं प्रजापतिरूपमिन्द्रं सम्यग्ज्ञानेन दृष्टवानस्मि । कीदृशम् । **ग्रामं** भूतसंघं **वहमानं** वाहयन्तम् । सृजन्तमित्यर्थः । कुतः । **आरात्** दूरात् । उपादानकारणात्प्रकृतित इत्यर्थः ॥ **अचक्रया** चक्रवर्जितया रथहीनया **स्वधया** स्वयमात्मानं धारयन्त्या सेनया **वर्तमानम्** आगच्छन्तम् । एवंभूतमपश्यमित्यर्थः । किंच **अर्यः** सर्वस्य स्वामीन्द्रः **जनानां** यजमानानां कार्यत्वेन संबन्धिनः **युगा** युगानि यज्ञकालविशेषान् **प्र** **सिषक्ति** प्रकर्षेण सेवते । कीदृशः । **सद्यः** तदानीमैव **शिश्ना** शिश्नानि । ‘शिश्नं श्नथतेः ' ( निरु. ४. १९) इति निर्वचनात् श्नथितॄणि ताडयितॄणि राक्षसादिवृन्दानि **प्रमिनानः** प्रकर्षेण हिंसन् **नवीयान्** शरीरेण च बलपौरुषनयनादिभिश्च नवतरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,30 +128,30 @@ popular
 Herds:śiśnā = destructive herds or fākṣasas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I saw the horde [=year?] on the move from afar, turning by its own  power, without a wheel. It escorts forward the generations of peoples of the stranger,  
 diminishing their “tails” at the same time as transforming itself  
 ever anew.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I saw a troop advancing from the distance moved, not by wheels but their own God-like nature.  
      The Friendly One seeks human generations, destroying, still new bands of evil beings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sah von ferne einen Clan auf der Fahrt, der sich aus eigener Triebkraft ohne Räder bewegte. Er verfolgt die Geschlechter des hohen Herrn und der anderen Leute, die männlichen Glieder alsbald schwächend, selbst sich verjüngend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sah die Schar aus der Ferne herfahren, die ohne Rad durch eigne Kraft sich bewegt; der gütige [Sonnengott, oder Savitar?] geht voran den Geschlechtern der Menschen, in einem Tage sich erneuend, Dämonen [çiçnâ hier gleich çiçnádevān] vertilgend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

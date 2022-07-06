@@ -8,7 +8,7 @@ title = "+074"
 ‘शिशुर्न' इति नवर्चं सप्तमं सूक्तं दैर्घतमसस्य कक्षीवत आर्षं पवमानसोमदेवताकम् । अष्टमी त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रम्यते- शिशुर्न कक्षीवांस्त्रिष्टुबष्टमी' इति । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 74 (786)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ hymn (IX.73) and achieves this ambiguity by the same means, the suppression of  
 The primary doubled reference arises from the identification of soma with rain.  Particularly in the central verses 4–6 the entities and actions described can apply to  either or both; for example, the men “pissing down” the unnamed substance in 4d  may either be the Maruts producing rain or the priests producing soma. Toward the  end the discourse becomes more clearly somian, and these are the verses in which  the words “soma” and “self-purifying” appear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Curiously, a much translated hymn, found in Doniger 121-24, Maurer 85-88, despite its difficulties.
 

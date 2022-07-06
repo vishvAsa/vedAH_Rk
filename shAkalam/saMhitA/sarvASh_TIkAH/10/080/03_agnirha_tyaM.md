@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ह त्यं꣡ ज꣡रतः क꣡र्णम् आव  
 अग्नि꣡र् अद्भ्यो꣡ नि꣡र् अदहज् ज꣡रूथम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् नृमे꣡धम् प्रज꣡यासृजत् स꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । अत्रि॑म् । घ॒र्मे । उ॒रु॒ष्य॒त् । अ॒न्तः । अ॒ग्निः । नृ॒ऽमेध॑म् । प्र॒ऽजया॑ । अ॒सृ॒ज॒त् । सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -136,37 +136,37 @@ genre M
 **अग्निर्ह** अयमग्निः खलु **त्यं** तं प्रसिद्धं **जरतः** **कर्णं** जरत्कर्णनामानमृषिम् **आव** ररक्ष । तथायम् **अग्निः** **अद्भ्यः** **जरूथम्** एतन्नामानमसुरम् **निरदहत्** निर्दग्धवान् । तथा **अग्निरत्रिं** महर्षिं **घर्मे** **अन्तः** ऋबीसेऽवस्थितम् **उरुष्यत्** ररक्ष । तथायम् **अग्निर्नृमेधम्** एतन्नामकऋषिं **प्रजया** पुत्रादिलक्षणया **सम्** **असृजत्** संयुयोज ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** verily has protected Jaratkarṇa; he has consumed Jarūtha with his flames; Agni rescued **Atri** inthe hot fissure; Agni furnished Nṛmedha with progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni helped this Jaratkarṇa [/ear of the old man]; Agni burned Jarūtha  out from the waters.  
 Agni gave freedom to Atri, (who was) within the hot vessel; Agni  
 brought Nr̥medha together with offspring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni rejoiced the car of him who praised lim, and from the waters burnt away jarutha.  
      Agni saved Atri in the fiery cavem, and made Nrmedha rich with troops of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni stand jenem Jaratkarna bei, Agni brannte den Jarutha von den Gewässern weg. Agni befreite den Atri in der Glut; Agni machte den Nrimedha der Nachkommenschaft teilhaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es labte Agni einst das Ohr des Greises und trieb durch Glut Dscharutha aus den Wassern; Er half dem Atri in der heissen Spalte, beschenkte reich mit Kindern den Nrimedha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни выручил того самого Джараткарну.  
 Агни сжег дотла Джарутху из воды.  

@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यो ये꣡ ते सहस्रि꣡णो  
 र꣡थासस् ते꣡भिर् आ꣡ गहि  
 नियु꣡त्वान् सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 नि॒युत्वा॑न् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -88,7 +88,7 @@ genre M
 हेवायो तेत्वदीयायेसहस्रिणः सहस्रसङ्ख्याकारथासः रथाः तेभिस्तैर्नियुत्वान् नियुद्भिर्युक्त स्त्वं सोमपीतये सोमपानार्थमागह्यागच्छ नानारूपत्वात् वायोः सर्वाभिर्विभूतिभिः सहा- गमनं प्रार्थ्यतइतिभावः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre M
 **Yajus**. 27.32
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, the chariots in thousands that are yours—with them come here, you with your teams, for soma-drinking.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -114,23 +114,23 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O VAYU, come to us with all the thousand chariots that are thine,  
      Team-borne, to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu! Du hast tausendfache Wagen, mit denen komm, mit dem Niyutgespann fahrend, zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit tausend Wagen die du hast, o Yāju, komme her zu uns, Zum Somatrunk mit Vielgespann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, те тысячные колесницы,  
 Что (есть) у тебя, – приезжай на них,  

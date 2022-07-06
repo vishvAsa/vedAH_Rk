@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुता꣡ इ꣡न्द्राय वाय꣡वे  
 सो꣡मासो द꣡धिआशिरः  
 निम्नं꣡ न꣡ यन्ति सि꣡न्धवो अभि꣡ प्र꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 नि॒म्नम् । न । य॒न्ति॒ । सिन्ध॑वः । अ॒भि । प्रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
@@ -90,35 +90,35 @@ genre M;; line affected by realignment;; repeated line
 **इन्द्राय** **वायवे** च **सोमासः** सोमाः **दध्याशिरः** दध्याश्रयणाः **सुताः** अभिषुताः संपादिताः । ते च **निम्नं** गर्तं **सिन्धवः** **न** नद्य इव हे इन्द्रवायू युवाम् **अभि** **यन्ति** **प्रयः** अन्नरूपाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** juices mixed with curds are poured out to **Indra** and to **Vāyu**; the sacrificial viands proceed to you as rivers flow downwards.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressed soma drinks mixed with curds are for Indra and for Vāyu. Like rivers to the deep, they go to satisfaction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra and for Vayu pressed are Soma juices blent with curd,  
      As rivers to the lowland flow: come to the food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt sind für Indra, für Vayu die Somatränke, mit saurer Milch gemischt; sie gehen wie Ströme talwärts zur Labung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra und dem Vaju sind gebraut die Soma's, milchgemischt Wie Flüsse gehn sie niederwärts – euch zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжаты для Индры и Ваю  
 (Соки) сомы, смешанные с кислым молоком.  

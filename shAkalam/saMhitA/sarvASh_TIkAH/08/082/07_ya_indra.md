@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इन्द्र चमसे꣡षु आ꣡  
 सो꣡मश् चमू꣡षु ते सुतः꣡  
 पि꣡बे꣡द् अस्य त्व꣡म् ईशिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पिब॑ । इत् । अ॒स्य॒ । त्वम् । ई॒शि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ते** त्वदर्थं **सुतः** अभिषुतः **यः** **सोमः** **चमसेषु** एतन्नामकेषु पात्रेषु तथा **चमूषु** । चमन्ति यजन्त्यत्रेति चम्वो ग्रहाः । तेषु च **आ** सर्वतः अस्ति **अस्य** तमेतं सोमं **पिबेत्** । इदवधारणे । पिबैव । कथमस्य सोमपानयोग्यता तत्राह । हे इन्द्र **त्वमीशिषे** तस्य त्वमेवेश्वरो भवसि खलु । यत एवं ततः पिबेति समन्वयः । 'ईश ऐश्वर्ये '। लटि ‘ईशः से (पा. सू. ७. २. ७७ ) इतीडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The bowls: Soma libations are poured from two kinds of vessels: the **camasas**, i.e. cups, and thegrahās, or saucers (here called **camu**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, the soma in the beakers and in the cups that has been pressed  for you—  
 drink of it. You are master of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma, Indra, which is shed in chalices and vats for thee,  
      Drink thou, for thou art Lord thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der für dich in den Bechern ist, der in den Camugefäßen gepreßte Soma, von dem trinke doch, Indra; du hast das Anrecht darauf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma, der in Bechern steht, in Schalen, Indra, dir gepresst, Den trinke, dir gehört er an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

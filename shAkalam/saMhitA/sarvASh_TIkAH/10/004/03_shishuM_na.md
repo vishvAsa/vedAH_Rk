@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡शुं न꣡ त्वा जे꣡नियं वर्ध꣡यन्ती  
 माता꣡ बिभर्ति सचनस्य꣡माना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जि꣡गीषसे पशु꣡र् इवा꣡वसृष्टः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 धनोः॑ । अधि॑ । प्र॒ऽवता॑ । या॒सि॒ । हर्य॑म् । जिगी॑षसे । प॒शुःऽइ॑व । अव॑ऽसृष्टः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
@@ -111,35 +111,35 @@ genre M
 हे अग्ने **जेन्यं** जयशीलं **त्वा** त्वां **शिशुं** **न** पुत्रमिव **वर्धयन्ती** पोषयन्ती **माता** पृथिवी **सचनस्यमाना** संपर्कमिच्छन्ती सती **बिभर्ति** धारयति । स त्वं **हर्यन्** कामयमानः सन्नस्मिँल्लोके **धनोरधि** । अधिः सप्तम्यर्थद्योतकः । अन्तरिक्षात् **प्रवता** प्रवणेन मार्गेण **यासि** यज्ञं प्रत्यागच्छसि । किंच त्वम् **अवसृष्टः** यष्टृभिर्हविरादाय **जिगीषसे** देवान् प्रति गन्तुमिच्छसि । कथमिव । **पशुरिव** । यथा विमुक्तः पशुर्गोष्ठं प्रत्यागच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Raising you like a thoroughbred foal, your mother carries you, seeking  your joint delight.  
 From the high plain you drive eagerly along the slope. Like a herd  
 animal set loose, you are seeking to gain your livelihood.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Making thee grow as 'twere some noble infant, thy Mother nurtures thee with sweet affection.  
      Over the desert slopes thou passest longing, and seekest, like some beast set free, thy fodder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein im Hause geborenes Kind dich großziehend trägt dich die Mutter getreulich. Du kommst aus deinem Ursprung verlangend auf deiner Bahn; wie ein losgelassenes Tier willst du den Lauf gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Mutter, die dich wie ein edles Kind nährt, sie trägt und pflegt dich, ihre Huld erweisend; Begierig eilst du, aus der Wolke stürzend, suchst Nahrung auf wie die entlassne Heerde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Растя тебя, как ребенка родного,  
 Носит (тебя) преданная мать.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दि स्तुत꣡स्य मरुतो अधीथ꣡  
 इत्था꣡ वि꣡प्रस्य वाजि꣡नो ह꣡वीमन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नू꣡ चिद् य꣡म् अन्य꣡ आद꣡भद् अ꣡रावा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒क्षु । रा॒यः । सु॒ऽवीर्य॑स्य । दा॒त॒ । नु । चि॒त् । यम् । अ॒न्यः । आ॒ऽदभ॑त् । अरा॑वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadi*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 **वाजिनः** हविर्लक्षणान्नवतः **विप्रस्य** मेधाविनो मम संबन्धिनि **हवीमन्** हविष्मति हविषा युक्ते स्तोत्रे क्रियमाणे सति हे **मरुतः** यूयं **यदि** यस्मात् कारणात् **स्तुतस्य** स्तुतं मदीयं स्तोत्रम् **इत्था** इत्थमनेन प्रकारेण **अधीथ** अवगच्छथ तस्मात् कारणात् हे मरुतः यूयं **सुवीर्यस्य** शोभनपुत्रोपेतस्य मस्तः रायः रायं धनम् । द्वितीयार्थे षष्ठी। **मक्षु** शीघ्रं **दात** दत्त । **अरावा** अरातिः शत्रुभूतः **अन्यः** जनः **यं** रायं **नू** **चित्** **आदभत्** नैवाभिहन्यात् । तद्धनमस्मभ्यं दत्तेति संबन्धः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If, **Maruts**, you justly appreciate the praise of the devout offerer of (sacrificial) food, conjoined withoblations, then promptly bestow (upon us) riches, comprehending excellent **male** posterity, such as no unfriendlyman can take away.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If, Maruts, you give study to what is praised in just this way at the  invocation of the prizewinning inspired poet,  
 right away give of wealth consisting of heroes, which another man, a  non-giver, will never swindle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phonological figure of the two words adhīthá, itthā́straddling the pāda boundary of ab provide a nice little study in syllable weight. (The echo is of course obscured by the application of sandhi in the Saṃhitā text: adhīthéthā́). If we add in the opening of the vs., yádi, the echo is even more pronounced: yádi … adhīthá, itthā́, with (y)ádi doubling adhī.
 
@@ -151,23 +151,23 @@ By my rules, we might expect that anyáḥ in d should be definite (‘the other
 ādábhāt, which would fix the meter and fit the sense (in fact, the published translation renders the verb as if a subj.: ‘will … swindle’), though no doubt the temptation should be resisted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, Maruts, ye regard the praise recited here at this mighty singer invocation,  
      Vouchsafe us quickly wealth with noble heroes, wealth which no man uho hateth us may injure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Marut des Lobpreises eingedenk seid, da der Redekundige sieggekrönte Sänger also ruft, so gebet alsbald einen Schatz von Meistern, den niemals ein anderer Mißgünstiger hintergehen soll!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wirklich ihr des Lobs gedenkt, o Maruts, bei dem Gebet des opferreichen Sängers; So gebet bald ihm männerreiche Habe die nie ein andrer neidisch ihm verkürze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если в самом деле, о Маруты, вы заботились о прославлении,  
 Когда (раздается) призыв вдохновенного (поэта), владеющего наградой,  

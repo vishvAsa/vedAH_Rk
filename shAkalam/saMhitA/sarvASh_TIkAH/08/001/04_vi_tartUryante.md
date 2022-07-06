@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ तर्तूर्यन्ते मघवन् विपश्चि꣡तो  
 अर्यो꣡ वि꣡पो ज꣡नाना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वा꣡जं ने꣡दिष्ठम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । क्र॒म॒स्व॒ । पु॒रु॒ऽरूप॑म् । आ । भ॒र॒ । वाज॑म् । नेदि॑ष्ठम् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -107,20 +107,20 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **विपश्चितः** विद्वांसस्त्वदीयाः स्तोतारः **अर्यः** अभिगन्तारः **जनानां** शत्रूणां **विपः** वेपयितारः सन्तः **वि** **तर्तूर्यन्ते** भृशमापदो वितरन्ति अतिक्रामन्ति । तादृशस्त्वम् **उप** **क्रमस्व** उपगच्छास्मान् । **पुरुरूपं** बहुरूपम् नेदिष्ठम् अन्तिकतमं **वाजम्** अन्नम् **ऊतये** तर्पणाय **आ** **भर** अस्मभ्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sages (your worshippers), **Maghavan**, the overcomers (of foes), the terrifiers of (hostile) people,pass over various (calamities by your aid); come near and bring manysorts of food, and available for ourpreservation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O bounteous one, the poetic inspirations, those attentive to poetic  inspiration—the ones belonging to the stranger (and those belonging)  to (our) peoples—keep crisscrossing each other.  
 Hop to! Bring here (to be) nearest a prize of many forms, for help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Following Oldenberg I take both vipaścítaḥ and vípaḥ as nom. pl., rather than taking the latter as a genitive sg. (with Geldner et al.). The thought is that the poets and their products that belong to and emanate from the competing sides - that of the stranger and that of our peoples - keep crossing each other in their efforts to reach and attract Indra. For a thorough discussion of the possibilities of this hemistich see Oldenberg, who calls it a “Musterbeispiel für Vieldeutigkeit.” The intensive ví tartūryante brilliantly captures the constant roiling motion of these competitive elements.
 
@@ -129,23 +129,23 @@ The abrupt imperative úpa kramasva seems to merit a slangy tr.
 nédiṣṭham appears to be functioning proleptically: bring it here so that it will be nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those skilled in song, O Maghavan among these men o'ercome with might the foeman's songs.  
      Come hither, bring us strength in many a varied form most near that it may succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es überbieten sich wechselseitig die Reden des Redekundigen - des hohen Herrn und der gemeinen Leute - o Gabenreicher. Geh ans Werk, bring vielartigen Gewinn in nächster Nähe, um deine Gunst zu zeigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die weisen streben mannichfach, o mächtiger, die treuen Sänger dieses Volks, O komm herbei und bringe reiche Labung her, die schnell uns zum Genusse führt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С разных сторон наступают, о щедрый, (твои) прозорливцы  
 (И) чужие вдохновенные (поэты других) людей.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ने꣡न्द्रो हवि꣡षा कृत्वी꣡  
 अ꣡भवद् द्युम्नी꣡ उत्तमः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 असपत्ना꣡ कि꣡लाभुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 इ॒दम् । तत् । अ॒क्रि॒ । दे॒वाः॒ । अ॒स॒प॒त्ना । किल॑ । अ॒भु॒व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yenendro* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
@@ -123,36 +123,36 @@ popular;; epic anuṣṭubh (380)
 **येन** **हविषा** **इन्द्रः** मम भर्ता **कृत्वी** कर्मणां कर्ता **अभवत्** 'भवति । तथा **द्युम्नी** । द्युम्नं द्योतमानं यशोऽन्नं वा । तद्वान् **उत्तमः** उत्कृष्टतमश्च येन हविषा भवति । हे **देवाः** स्तोतार ऋत्विजः **तत्** **इदं** हविः **अक्रि** अकारि ॥ जयार्थिभिर्भवद्भिः क्रियताम् । यद्वा । हे यष्टव्या देवाः तदिदं हविरक्र्यहमपि । करोतेर्लुङीटि ' मन्त्रे घस इति च्लेर्लुक् । अत एव कारणादहम् **असपत्ना** **किल** शत्रुरहिता खलु **अभुवम्** अभूवम् । छान्दसो ह्रस्वः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That oblation, O gods, has been offered by which **Indra** offering it has become renowned and mostpowerful; I freed myself from my rival wives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The oblation through which Indra, when he performed it, became the  highest brilliant one,  
 that (oblation) I have now performed, o gods: I have therefore become  without cowives.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Oblation, that which Indra gave and thus grew glorious and most high,-  
      This have I offered, O ye Gods, and rid me of each rival wife.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welcher Opferspende Indra opferte und der Glänzende, Höchste wurde, diese habe ich, ihr Götter, jetzt vollzogen. Ich ward wirklich ohne Nebenbuhlerinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dasselbe Opfer habe ich vollbracht, durch welches Indra auch, O Götter, einst sich Glanz erwarb; nun bin ich frei von Nebenfraun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) жертва, совершив которую, Индра  
 Стал сверкающим, самым высшим,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡रश् चिद् र꣡थम् प꣡रितक्मियायाम्  
 पू꣡र्वं करद् उ꣡परं जूजुवां꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरो꣡ द꣡धत् सनिष्यति क्र꣡तुं नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भर॑त् । च॒क्रम् । एत॑शः । सम् । रि॒णा॒ति॒ । पु॒रः । दध॑त् । स॒नि॒ष्य॒ति॒ । क्रतु॑म् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūraś* ← *sūraḥ* ← *svar*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 इन्द्रः **परितक्म्यायां** संग्रामे । परितो गच्छन्त्यस्यां भटाः इति परितक्म्या संग्रामः। एतशाख्येन ऋषिणा सह योद्धुः **सूरश्चित्** सूर्यस्यापि संबन्धिनं **जूजुवांसं** वेगेन गच्छन्तं **रथम्** **उपरम्** उपरतव्यापारं **पूर्वं** करत् पुराकरोत् । **एतशः** एतशाय ॥ विभक्तिव्यत्ययः ॥ इन्द्रः पूर्वं द्विचक्रस्य रथस्यैकं **चक्रं** **भरत्** अहरत् । स इन्द्रस्तेन चक्रेणासुरान् **सं** **रिणाति** हिनस्ति । अपि च **पुरो** दधत् अस्मान् पुरस्कुर्वन् **नः** अस्मदीयं **क्रतुं** यज्ञं **सनिष्यति** संभजतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,35 +136,35 @@ genre M
 Etaśa has borne away the wheel: bharaccakram **etaśaḥ**: etaśaḥ is put for etasaya, he, Indra, has taken the wheel for Etaśa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very chariot of the Sun, (which is) in front, at the decisive turning  he will put behind, (though) it is speeding.  
 Etaśa [=the Sun’s horse] bore the wheel; he restores it. Putting (the  
 chariot?) in front (again?), he will gain our intention.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I think that this vs. is structured by the implicit contrast between jātá- and náviṣṭha-, both used of Indra, but I seem to be alone in this (though see Grassmann’s lapidary comment s.v. náviṣṭha). Geldner (/Witzel Gotō) take náviṣṭham as adverbial (Geldner “aufs neue,” Witzel Gotō “zum letzten Mal”). This is certainly possible, but if it is taken as modifying Indra, the sense becomes more complex and interesting. In the first hemistich “I” announce the famous stable Indra of myth and authority, born (jātám) for these roles and continuously occupying them, but in the second hemistich it is the Indra of the ritual who’s the focus -- the Indra who is newly brought to every new ritual and whose epiphany is like a new creation every time, caused by the ritual actions themselves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When night was near its close he carried forward e'en the Sun's chariot backward in its running.  
      Etaga brought his wheel and firmly stays it: setting it eastward he shall give us courage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch den Wagen der Sonne, der vorausgeeilt war, brachte er im entscheidenden Augenblick ins Hintertreffen. Etasa trug das Rad davon; er stellt es her. Wenn er ihn an die Spitze bringt, wird er unsere Absicht erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sonnenwagen, welcher rückwärts eilte im Morgendunkel, bracht er wieder vorwärts; Das Sonneross stellt her das Rad und lenkt es; und fördernd wird es Stärke uns verleihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже колесницу солнца, вырвавшуюся вперед,  
 Сделал он в решающий момент отстающей.  

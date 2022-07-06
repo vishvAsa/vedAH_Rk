@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि प्र꣡ धन्व इ꣡न्द्राय सोम  
 स्वादु꣡र् मित्रा꣡य पूष्णे꣡ भ꣡गाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 परि॑ । प्र । ध॒न्व॒ । इन्द्रा॑य । सो॒म॒ । स्वा॒दुः । मि॒त्राय॑ । पू॒ष्णे । भगा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -74,19 +74,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे **सोम** **स्वादुः** स्वादुरसस्त्वम् **इन्द्राय** **मित्राय** **पूष्णे** **भगाय** एतेभ्यो देवेभ्यः **परि** **प्र** **धन्व** परितः पात्रेषु प्रक्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Soma** who are sweet-flavoured, for **Indra**, **Mitra**, **Pūṣan**, and **Bhaga**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run forth and around for Indra, o Soma, sweet for Mitra, Pūṣan,  and Bhaga.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -95,22 +95,22 @@ No particular signs of cohesion, beyond the mention of Soma’s divine recipient
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PLEASANT to Indra's Mitra's, Pusan's Bhaga's taste, sped onward, Soma, with thy flowing stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne ringsum ab, Soma, süß für Indra, für Mitra, Pusan, Bhaga!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ringsum entströme – dem Indra, Soma, dem Mitra lieblich – dem Puschan, Bhaga.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Беги вперед кругами, о сома, для Индры,  
 Вкусный для Митры, Пушана, Бхаги!

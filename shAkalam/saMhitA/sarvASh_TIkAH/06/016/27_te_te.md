@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ ते अग्ने तुवा꣡ऊता  
 इष꣡यन्तो वि꣡श्वम् आ꣡युः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वन्व꣡न्तो अर्यो꣡ अ꣡रातीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 तर॑न्तः । अ॒र्यः । अरा॑तीः । व॒न्वन्तः॑ । अ॒र्यः । अरा॑तीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -94,36 +94,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **अग्ने** **ते** त्वदीया ये त्वां स्तुवन्ति **ते** स्तोतारः **त्वोताः** त्वयोता रक्षिता अत एव **इषयन्तः** इषमात्मन इच्छन्तः सन्तः विश्वं सर्वम् **आयुः** अन्नं लभन्त इति शेषः । आयुरेव वा शतवर्षलक्षणमिषयन्त इच्छन्तः प्राप्नुवन्तीति शेषः । तथा **अर्यः** अरीनभिगन्त्रीः **अरातीः** काश्चित् शत्रुसेनाः **तरन्तः** अतिक्रामन्तः **अर्यः** अभिगन्त्रीः **अरातीः** काश्चन शत्रुसेनाः **वन्वन्तः** हिंसन्तश्च भवन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those, **Agni**, who are protected by you, wishing for the whole (term of) life (obtain it), overcoming hostile assailants, destroying hostile assailants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those aided by you, Agni, (are ones) prospering through their whole  lifetime,  
 overcoming the hostilities of the stranger, vanquishing the hostilities of  the stranger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, Agni, these are helped by thee, who strong and active all their lives,  
      O'ercome the malice of the foe, fight down the malice of the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sind deine Schützlinge, Agni, die des vollen Lebens sich erfreuen sollen, die der Kargheit des Geldprotzen entgehen, die die Mißgunst des Geldprotzen überwinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die du unterstützest, Agni, machen frisch ihr ganzes Leben, Ueberwindend böse Feinde, (kämpfend wider böse Feinde.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они твои, о Агни, поддержанные тобой,  
 Полные сил весь (свой) срок жизни,  

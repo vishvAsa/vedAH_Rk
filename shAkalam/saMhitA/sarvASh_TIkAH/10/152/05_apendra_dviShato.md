@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पेन्द्र द्विषतो꣡ म꣡नो  
 अ꣡प जि꣡ज्यासतो वध꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡रीयो यवया वध꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 वि । म॒न्योः । शर्म॑ । य॒च्छ॒ । वरी॑यः । य॒व॒य॒ । व॒धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apendra* ← *apa*
 - \[adverb\]
@@ -100,36 +100,36 @@ popular;; epic anuṣṭubh (292)
 हे इन्द्र **द्विषतः** द्वेष्टुः शत्रोः **मनः** **अप** जहि । **जिज्यासतः** अस्माकं वयोहानिमिच्छतश्च **वधं** हननसाधनमायुधं च **अप** जहि । **मन्योः** शत्रुसंबन्धिनः क्रोधाच्चास्मान् रक्ष। **वरीयः** उरुतरं **शर्म** सुख विशेषेण **यच्छ** देहि। **वधं** शत्रुकृतं हननं च **यवय** अस्मत्तः पृथक्कुरु ॥ ॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Frustrate the purpose of him who hates us, (baffle) the weapon of him who seeks to overpower us,grant us entire security from his wrath of (his) weapon.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Away with the thought of him who hates (us), Indra; away with the  deadly weapon of the one who seeks to despoil (us).  
 Extend shelter (to us) from battle fury. Keep the deadly weapon a wide  way away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Baffle the foeman's plan, ward off his weapon who would conquer us.  
      Give shelter from his furious wrath, and keep his murdering dart afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Halt, Indra, des Hassers Absicht ab, die Mordwaffe des, der uns Gewalt antun will! Breite deinen Schirm vor seinem Grimme aus, lenke die Mordwaffe weit ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wend' Indra ab des Hasseers Sinn, des Siegeslustigen Geschoss, Gewähr uns Schutz vor seiner Wuth, weit treibe weg das Mordgeschoss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Отведи) прочь, о Индра, мысль ненавистника,  
 Прочь смертельное оружие того, кто хочет (нас) победить!  

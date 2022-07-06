@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡ इन्दर+ भरत꣡स्य पुत्रा꣡  
 अपपित्वं꣡ चिकितुर् न꣡ प्रपित्व꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जि꣡यावाजम् प꣡रि णयन्ति आजउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हि॒न्वन्ति॑ । अश्व॑म् । अर॑णम् । न । नित्य॑म् । ज्या॒ऽवाज॑म् । परि॑ । न॒य॒न्ति॒ । आ॒जौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -116,7 +116,7 @@ genre M
 हे **इन्द्र** **भरतस्य** **पुत्राः** भरतवंश्याः **इमे** विश्वामित्राः **अपपित्वम्** अपगमनं वसिष्ठेभ्यः **चिकितुः** जानन्ति । **प्रपित्वं** प्रगमनं **न** जानन्ति । शिष्टैः सह तेषां संगतिर्नास्ति । बाह्याः एव त इत्यर्थः । अपि च **आजौ** संग्रामे **नित्यं** सहजम् **अरणं** **न** अरिमिव वसिष्ठान् प्रति **अश्वं** **हिन्वन्ति** प्रेरयन्ति । ततश्च **ज्यावाजं** बलं धनुः **परि** **णयन्ति** । वसिष्ठान् हन्तुं शरसंधानेन चरन्ति ॥ ॥ २३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ Sons of Bharata: descendants of **Viśvāmitra** whose enmity to the lineage of 
 Niruktam: sa vasiṣṭhadveṣī ṛk-aham ca kapiṣṭhalo **vasi**.ṣhaḥ atas **tana** nirbravīmi, this and the previous verse are inimical to the Vasiṣṭhas and he is of the race of Vasiṣṭha, of the **Kapiṣṭhala** branch
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Are these the sons of Bharata, Indra? They take note of the non-meal,  not the meal.  
 They spur the alien horse, not their own. At the contest they lead  
 around the one whose prize is (just) a bowstring.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The good sense / bad sense problem continues, or returns, here. The sons of Bharata are ceremonially presented to us, with the here-and-now deictic imé. And we know from vs. 12 that the Bharata people (bhā́rata- jána-) are our people. But here they (or the subjects of the three 3rd pl. verbs: cikituḥ b, hinvánti c, pári ṇayanti d) seem to make the same bad choices that were visible in vss. 22-23, esp. 23b. The continuation of the 3rd pl. verbs invites us to make the Bharatas subjects also in vs. 22.
 
@@ -156,23 +156,23 @@ The first vs. of this sequence (21) is quite straightforward; vs. 22 is more com
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These men, the sons of Bharata, O Indra, regard not severance or close connexion.  
      They urge their own steed as it were another's, and take him, swift as the bow's string, to battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Diese Söhne des Bharata verstehen sich nur auf das Abfallen, nicht auf den Endlauf. Sie spornen das eigene Roß an, als wäre es ein fremdes; sie führen den Renner, der die Schnellkraft einer Bogensehne hat, beim Wettlauf im Kreise herum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, diese Söhne des Bharata haben das Ferne im Auge, nicht das Nahe, sie entsenden [beim Wettrennen] das eigne Ross gleichwie ein fremdes; das sehnenstarke führen sie zum Wettlauf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти сыновья Бхараты, о Индра,  
 Разбираются только в отступлении, не в конечном рывке.  

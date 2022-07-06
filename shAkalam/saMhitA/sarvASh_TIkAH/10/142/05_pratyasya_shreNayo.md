@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति अस्य श्र꣡यणयो+ ददृश्र  
 ए꣡कं निया꣡नम् बह꣡वो र꣡थासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡अङ्ङ् उत्ताना꣡म् अनुए꣡षि भू꣡मिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 बा॒हू इति॑ । यत् । अ॒ग्ने॒ । अ॒नु॒ऽमर्मृ॑जानः । न्य॑ङ् । उ॒त्ता॒नाम् । अ॒नु॒ऽएषि॑ । भूमि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praty* ← *prati*
 - \[adverb\]
@@ -112,37 +112,37 @@ popular
 **अस्य** अग्नेर्दहतः **श्रेणयः** ज्वालापङ्क्तयः **प्रति** ददृश्रे प्रतिदृश्यन्ते । - - -तद्वत् । अत्र सामर्थ्यादुपमानप्रतीतिः । हे **अग्ने** **बाहू** । तृतीयार्थे प्रथमा । बाहुभ्यां बाहुस्थानीयैर्ज्वालासमूहै। **अनुमर्मृजानः** सर्वं वनं मृजञ्शोधयन् । दहन्नित्यर्थः । **न्यङ्** न्यञ्चन् प्रह्वीभवन् **उत्तानाम्** ऊर्ध्वाभिमुखां भूमिं **यत्** यदा **अन्वेषि** अनुगच्छसि तदानीमस्य श्रेणयो ददृश्र  इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His lines (of flame) are visible, like one array of many chariots, when clearing away (the forests) withyour arms (of flame) you march, **Agni**, over the prostrate earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His ranks have appeared opposite—many chariots (along) a single  downward course—  
 when, o Agni, continually stroking your two arms, you go, bending  
 downward, along the upstretching earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apparent are his lines as he approaches the course is single, but the cars are many,  
      When, Agni, thou, making thine arms resplendent, advancest o'er the land spread out beneath thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Man sieht seine Reihen; es ist eine Anfahrt und viele Wagen, wann du, Agni, die Arme anschmiegend niedergebeugt auf der ausgestreckten Erde entlang gehst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es wurden sichtbar seine Wagenreihen, nur eine Strasse, aber viele Wagen; Wenn Agni du, ausstreckend deine Arme, herabkommst auf die hingestreckte Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его шеренги видны (отовсюду):  
 Один выезд, много колесниц,  

@@ -8,7 +8,7 @@ title = "+056"
 ‘य एनम् ' इति षड़ृचं सप्तमं सूक्तं भरद्वाजस्यार्षं पौष्णम् । अन्त्यानुष्टुप् आदौ पञ्च गायत्र्यः । तथा चानुक्रांतं - ‘ य एनमन्त्यानुष्टुप्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 56 (497)  
 Pūsaṇ  
@@ -19,7 +19,7 @@ There are several novelties in the hymn as well. The hymn begins by naming  Pū�
 In verse 2 Indra appears as Pūṣan’s companion; this partnership is further devel oped in the next hymn, VI.57. The third verse is the most puzzling of the hymn.  Nothing further is known about this story—if it is a story—of Pūṣan, the Sun’s char iot wheel, and the gray cow, though we suspect that it is connected with the extremely  puzzling nearby verse VI.48.17, also of Pūṣan. If so, this associates Pūṣan with Indra  in the tearing off of the wheel of the Sun’s chariot, a myth found in scattered pieces  elsewhere. The “gray cow” may also be a naturalistic reference to a cloudy dawn  twilight, with the sun rising through it. Whatever lies behind it, the image is striking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan
 </details>

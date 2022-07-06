@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो र꣡थेषु पृ꣡षतीर् अयुग्धुवम्  
 प्र꣡ष्टिर् वहति रो꣡हितः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡बीभयन्त मा꣡नुषाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । वः॒ । यामा॑य । पृ॒थि॒वी । चि॒त् । अ॒श्रो॒त् । अबी॑भयन्त । मानु॑षाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre M
 हे मरुतः **रथेषु** भवदीयेषु **पृषतीः** बिन्दुयुक्ता मृगीः **उपो** सामीप्येनैव **अयुग्ध्वं** योजितवन्तः । **प्रष्टिः** एतत्संज्ञको वाहनत्रयमध्यवर्ती युगविशेषः **रोहितः** मृगावान्तरजातिर्लोहितवर्णः **वहति** रथं नयति । **वः** युष्माकं **यामाय** गमनाय **पृथिवी** **चित्** अन्तरिक्षमपि **आ** **अश्रोत्** आभिमुख्येन अशृणोत् अनुजानातीत्यर्थः। पृथिवीत्यन्तरिक्षनाम, ‘पृथिवी भूः स्वयंभु' (नि.१.३.९) इति तन्नामसु पाठात् । **मानुषाः** भूलोकवर्तिनः पुरुषाः **अबीभयन्त** स्वयं भीताः सन्तोऽन्येषामपि भीतिमुत्पादितवन्तः। उपो' इति निपातद्वयसमुदायात्मकमन्यन्निपातान्तरम् । ' ओत् ' (पा. सू. १. १. १५) इति प्रगृह्यत्वम् । अयुग्ध्वम् । लुङि ‘झलो झलि' ( पा. सू. ८. २. २६ ) इति सकारस्य लोपः ।  ‘ चोः कुः' इति कुत्वम् । रोहितः ।  ‘ रुहे रश्च लो वा ' ( उ. सू. ३. ३७४ ) इति इतन्प्रत्ययान्तः । नित्त्वादाद्युदात्तः । यामाय। यमेर्भावे घञ् । ‘कर्षात्वतः' इत्यन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । अश्रोत् ।  ‘ श्रु श्रवणे'।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । अबीभयन्त ।  ‘ ञिभी भये '। अस्मात् ण्यन्तात् लुङि ‘ भीस्म्योर्हेतुभये ' (पा. सू. १. ३. ६८) इत्यात्मनेपदम् ।  ‘ बिभेतेर्हेतुभये ' (पा. सू. ६. १. ५६ ) इति आत्वस्य विकल्पितत्वात् पक्षे ' भियो हेतुभये पुक् (पा. सू. ७. ३. ४० ) इति पुक् प्राप्नोति। तन्न क्रियते, आगमानुशासनस्यानित्यत्वात् । णौ चङ्युपधह्रस्वत्वादि (पा. सू. ७. ४. १) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ Praṣṭiḥ = a kind of yoke, in the middle of three steeds harnessed to a car
 Rohita = a red deer which bears (vahati) or drags the car (ratham nayati).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have harnessed the dappled mares to your chariots; the  
 chestnut-red pulls as your side horse.  
 Even the earth has listened for your journey and the sons of Manu have  become afraid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye to your chariot have yoked the spotted deer: a red deer, as a leader, draws.  
      Even the Earth herself listened as ye came near, and men were sorely terrified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt an die Wagen die Schecken gespannt, der Rotfuchs zieht als Beipferd. Auf euren Anmarsch horchte selbst die Erde; die Menschen wurden erschreckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gazellen habt ihr an die Wagen euch geschirrt, zur Seite fährt ein rothes Ross, Ja, eurem Zuge hat die Erde still gelauscht, und alle Menschen sind voll Furcht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы запрягли в колесницы пестрых (антилоп),  
 Рыжая везет как пристяжная.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते गा꣡त्राद् अग्नि꣡ना पच्य꣡मानाद्  
 अभि꣡ शू꣡लं नि꣡हतस्यावधा꣡वति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवे꣡भ्यस् त꣡द् उश꣡द्भ्यो रात꣡म् अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मा । तत् । भूम्या॑म् । आ । श्रि॒ष॒त् । मा । तृणे॑षु । दे॒वेभ्यः॑ । तत् । उ॒शत्ऽभ्यः॑ । रा॒तम् । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -136,7 +136,7 @@ popular
 हे अश्व **ते** तव **अग्निना** **पच्यमानात्** गात्रात् **यत्** ऊष्मरूपं रसो वा यत्किंचित् **अवधावति** । तथा **निहतस्य** निःशेषेण हतस्य तव यदङ्गं रसरूपं **शूलम्** अभिलक्ष्य अवधावति निर्गच्छति। **तत्** तदङ्गं **भूम्यां** **मा** **आ** **श्रिषत्** आश्लिष्टं मा भूत् ॥ श्रिषेः पुषादित्वात् अङ्॥ पाकसमये तथा **मा** **तृणेषु** विशसनसमये दर्भेषु मा अपगच्छतु । तर्हि तत्पतितं कुत्र गच्छत्विति चेत् उच्यते। **तत्** तादृशम् **उशद्भ्यः** कृत्स्नं हविः कामयमानेभ्यः **देवेभ्यः** **रातं** दत्तम् **अस्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ popular
 Gātrād agninā pacyamānād abhi śūlam:in the preceding hymn, śṛtapākam = boiling; and a **ukha**, a pot or cauldron is specified in hymn 13 for the same purpose; this use is at variance with the use of **śūla** or spit; the inference is that part was boiled and part was roasted; it is suggested that the portion that falls may be the **rasa**, the dripping, which is to be received upon **darbha** grass, afterwards probably to be thrown on the fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What runs down from your leg as it’s being cooked by the fire when you  have been impaled on the spit—  
 let that not stick to the ground nor to the grasses; let it be given to the  gods, who are eager for it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What from thy body which with fire is roasted, when thou art set upon the spit, distilleth,  
      Let not that lie on earth or grass neglected, but to the longing Gods let all be offered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was von deinem am Feuer gebratenen Körperteil abrinnt, wenn du an den Spieß gesteckt bist, das soll nicht auf den Boden, nicht an den Gräsern hängen bleiben. Den verlangenden Göttern soll das gespendet sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was aus deinem am Feuer gebratenen Gliede, wenn du an den Bratspiess gesteckt bist, herabträufelt, das möge nicht auf die Erde fallen, nicht auf die Gräser, den begehrenden Göttern möge es gespendet sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что вытекает из части твоего тела, поджариваемой на огне.  
 Когда ты нанизан на вертел, –  

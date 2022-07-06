@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्णे꣡न गातु꣡म् अप्तु꣡रो विविद्रिरे  
 धि꣡यो हिन्वाना꣡ उशि꣡जो मनीषि꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रे हिन्वाना꣡ द्र꣡विणानि आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽस्वरा॑ । नि॒ऽसदा॑ । गाः । अ॒व॒स्यवः॑ । इन्द्रे॑ । हि॒न्वा॒नाः । द्रवि॑णानि । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
@@ -104,36 +104,36 @@ genre M
 धियोहिन्वानाः स्तुतीरिन्द्रेप्रेरयन्तः उशिजः इन्द्रङ्कामयमानाः मनीषिणोमेधाविनोङ्गिरसः अप्तु रः अपाम्प्रेरकाः इन्द्राद्गातुङ्गवाम्मार्गंयज्ञेनतपसाविविद्रिरे लेभिरे ततः अवस्यवः रक्षणमिच्छन्तः इन्द्रे गाः स्तुतीर्हिन्वानाः हिगतिवृद्भ्योः स्वादिः प्रेरयन्तः तेङ्गिरसः अभिस्वराअभितः स्वरः स्वरणंशब्द नंयस्यतेनस्तोत्रेणनिषदाउपसदनेनचद्रविणानिगोधनानिआशत आप्नुवन् अश्नोतेर्लुङि बहुलञ्छन्दसी तिविकरणस्यलुक् ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise **Uśijas**, celebrating his praises, have obtained by their sacrifice, from the sender of water (knowledge) of the path (of their cattle); seeking the aid of **Indra**, and celebrating his praises, they have acquired, whilst uttering hymns and offering adoration (valuable) treasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By means of the sacrifice, the fire-priests of inspired thinking, crossing  the waters, found for themselves a way, sending forth their insights.  
 By their cry and assembly, seeking help (they obtained) cows; sending  forth (their insights) to Indra, they obtained goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By sacrifice the yearning sages sending forth their songs found furtherance from him who speeds the flood.  
      In Indra seeking help with worship and with hymn, they drew him to themselves and won them kine and wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Opfer fanden die Usij den Weg, die Gewässer überschreitend, ihren Gedanken Schwung gebend, nachsinnend. Unter Zuruf und Niedersitzen haben sie hilfesuchend, sich anspornend, von Indra die Kühe, die Schätze erlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Opfer schafften Heil sich die geschäftigen, Gebete sendend, weisheitsvoll die strebenden; Durch Anruf und Verehrung, ihrem Indra hold, erlangten, Hülfe suchend, Kühe sie und Schatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью жертвы Ушиджи нашли выход,  
 (Они,) пересекающие воды, возбуждающие поэтическую мысль, мудрые.  

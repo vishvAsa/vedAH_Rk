@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्रा꣡ कृणुध्वं धि꣡य आ꣡ तनुध्वं  
 ना꣡वम् अरित्रप꣡रणीं कृणुध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡ञ्चं यज्ञ꣡म् प्र꣡ णयता सखायः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इष्कृ॑णुध्वम् । आयु॑धा । अर॑म् । कृ॒णु॒ध्व॒म् । प्राञ्च॑म् । य॒ज्ञम् । प्र । न॒य॒त॒ । स॒खा॒यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandrā* ← *mandra*
 - \[noun\], accusative, plural, feminine
@@ -136,36 +136,36 @@ popular
 **मन्द्रा** मन्द्राणि मदकराणि स्तोत्राणि **कृणुध्वं** कुरुध्वं हे सखायः । ‘कृवि हिंसाकरणयोः । ‘ धिन्विकृण्व्योरच्च ' इत्युप्रत्यर्थः । अकारश्चान्तादेशः । यद्वा करोतेर्व्यत्ययेन श्नुः । तथा **धियः** कर्माणि चयनप्रदेशकर्षणादीनि **आ** **तनुध्वं** विस्तारयत । तथा **अरित्रपरणीं** कर्षणादिरूपेणारित्रेण पारयितव्यां नावं चयनाख्यां **कृणुध्वं** कुरुध्वम् । तथा **आयुधा** आयुधानि सीरयुगादीनि **अरम्** अलं **कृणुध्वम्** । हे **सखायः** ऋत्विजः **प्राञ्चं** प्रागञ्चनं **यज्ञं** यष्टव्यमग्निं **प्र** **णयत** प्रकर्षेण नयत । आदौ कर्षणं प्राञ्चं कुरुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Construct exhilarating (hymns), spread forth praises, construct the ship which is propelled by oars,prepare your weapons, make ready, lead forth, O friends, the herald, the adorable (**Agni**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make things delightful; stretch out your insightful thoughts (on the  loom); make a boat that crosses (the water) with its oars.  
 Set your weapons in order; prepare them right. Lead the sacrifice forth  to the east, comrades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make pleasant hymns, spin out your songs and praises: build ye a ship equipped with oars for transport.  
      Prepare the implements, make all things ready, and let the sacrifice, my friends, go forward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet die Gedanken wohlgefällig, spannet die auf den Webstuhl, machet ein Schiff, das mit Rudern hinüber bringt, machet die Waffen fertig, haltet sie bereit, leitet das Opfer vorwärts, ihr Genossen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schafft, was erfreut, und webet die Gebete, durch Ruder lasst eur Schiff zum Ziele dringen; Nun macht zurecht und schmücket die Geräthe, das Opfer lasst, o Freunde, vorwärts schreiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделайте (все) приносящим радость, натяните поэтические мысли,  
 Создайте ладью, перевозящую на веслах,  

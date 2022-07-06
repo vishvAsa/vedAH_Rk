@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा शृणीहि त꣡पसा यातुधा꣡नान्  
 प꣡राग्ने र꣡क्षो ह꣡रसा शृणीहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रासुतृ꣡पो अभि꣡ शो꣡शुचानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 परा॑ । अ॒र्चिषा॑ । मूर॑ऽदेवान् । शृ॒णी॒हि॒ । परा॑ । अ॒सु॒ऽतृपः॑ । अ॒भि । शोशु॑चानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -110,36 +110,36 @@ popular
 हे **अग्ने** **यातुधानान्** **तपसा** तापेन **परा** **शृणीहि** मारय । किंच **रक्षो** **हरसा** त्वदीयेनौष्ण्येन **परा** **शृणीहि** । किंच **मूरदेवान्** मारकव्यापारान् राक्षसान् **अर्चिषा** स्वकीयेन  तेजसा **परा** **शृणीहि** । अपि च **असुतृपः** मनुष्याणामसुभिस्तृप्ता ये तानपि **परा** शृणीहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroy the **Yātudhānas** with your scorching fire; destroy the **rākṣasas**, **Agni**, with your heat;destroy with your radiance those who believe in vaid gods, fiercely blazing, destroy the insatiable.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pound away the sorcerers with your heat; pound away the demonic with  your blaze, o Agni.  
 Pound away those who have fools for gods with your flame and away  those who steal life, ever blazing against them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With fervent heat exterminate the demons; destroy the fiends with burning flame, O Agni.  
      Destroy with fire the foolish gods' adorers; blaze and destrepy the insatiable monsters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerbrich mit deiner Brunst die Zauberer, zerbrich, o Agni, mit deiner Glut den bösen Geist! Zerbrich mit deiner Flamme die Götzendiener, zerbrich versengend die Lebensräuber!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Glut durchstoss die Zauberer, o Agni, durchstoss den Nachtgeist mit der Flammenspitze; Mit deinem Strahl durchstoss die Götzendiener, mit Glut vernichtend, die am Leben zehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разбей пылом (своим) колдунов!  
 Разбей жаром, о Агни, ракшаса!  

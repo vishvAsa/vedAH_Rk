@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡मच् चन꣡ त्वा युवतिः꣡ परा꣡स  
 म꣡मच् चन꣡ त्वा कुष꣡वा जगा꣡र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡मच् चिद् इ꣡न्द्रः स꣡हसो꣡द् अतिष्ठत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मम॑त् । चि॒त् । आपः॑ । शिश॑वे । म॒मृ॒ड्युः॒ । मम॑त् । चि॒त् । इन्द्रः॑ । सह॑सा । उत् । अ॒ति॒ष्ठ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mamac* ← *mamat*
 - \[adverb\]
@@ -122,7 +122,7 @@ popular
 सूक्तशेषेण ऋषिरिन्द्रं स्तौति । हे इन्द्र **ममञ्चन** माद्यन्त्येव । प्रमत्तैवेत्यर्थः । **युवतिः** त्वदीया मातादितिः **त्वा** त्वां **परास** पराचिक्षेप । किंच कुषवानाम्नी काचित् राक्षसी सा **ममच्चन** प्रमत्तैव **त्वा** त्वां **जगार** गिरति स्म । हे इन्द्र **ममच्चित्** प्रमाद्यन्त्य एव **आपः** **शिशवे** जाताय तुभ्यं ममृड्युः सुखयांचक्रुः । भमञ्चित् माद्यन्नेव **इन्द्रः** **सहसा** स्वेन वीर्येण **उदतिष्ठत्** सूतिकागृहात् राक्षसीं बाधमानः सन् उत्कर्षेण तस्थौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ popular
 Kuṣavā = a **rākṣasi**, whom Indra, although at first swalled by her, drove out of the lying-in chamber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Various voices of the waters:] It was not because of me that the young  woman cast you aside. It was not because of me that Kuṣavā (Evil  
 Birth) swallowed you.  
 But it was certainly because of me that the waters would show mercy  to the child. It was certainly because of me that Indra stood up with  his might.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question in this vs. is what to do with gūrtā́(ḥ). The standard tr. take it as modifying the temporal expression pūrvī́r uṣásaḥ śarádaś ca -- hence, e.g., Geldner’s “[v]iele gelobte Morgen und Herbste.” This is grammatically fine and perhaps also supported by the fact that the adj. is in the same pāda as the temporal expression.
 
@@ -158,23 +158,23 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I cast thee from me, mine,-thy youthful mother: thee, mine own offspring, Kusava hath swallowed.  
      To him, mine infant, were the waters gracious. Indra, my Son, rose up in conquering vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um meinetwillen hat dich die junge Frau nicht beseitigt, noch hat dich um meinetwillen die Kusava verschlungen. Um meinetwillen mögen sich die Gewässer des Kindes erbarmt haben, um meinetwillen erhob sich plötzlich der Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt stiess dich aus die jugendliche Mutter, und jetzt verschlang dich Kuschava, die Strömung, Jetzt waren hold dem jungen Spross die Wasser, und jetzt erhob mit Allgewalt sich Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из-за меня юная жена тебя не выкинула.  
 Из-за меня Кушава тебя не проглотила.  

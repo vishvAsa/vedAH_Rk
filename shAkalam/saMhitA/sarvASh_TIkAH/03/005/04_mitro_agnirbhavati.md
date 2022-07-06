@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रो꣡ अग्नि꣡र् भवति य꣡त् स꣡मिद्धो  
 मित्रो꣡ हो꣡ता व꣡रुणो जात꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मित्रः꣡ सि꣡न्धूनाम् उत꣡ प꣡र्वतानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । अ॒ध्व॒र्युः । इ॒षि॒रः । दमू॑नाः । मि॒त्रः । सिन्धू॑नाम् । उ॒त । पर्व॑तानाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 इयमृक् अग्निंसर्वात्मकत्वेनस्तौति यद्यदासमिद्धोग्निः तदामित्रोभवतिसूर्योभवति मित्रएवसन् होताभवति वरुणोभवति जातवेदाः जातप्रज्ञः समित्रः अध्वर्युर्भवति दमूनाःदानमनाः दान्त मनावासएवइषिरः प्रेरकोवायुर्भवति उतअपिच सिन्धूनान्नदीनां पर्वतानाञ्चमित्रः सहायो भवति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 The hymn attempts to identify Agni with Mitra, the sun, and of both with Varuṇa and Vāyu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni becomes Mitra when he is kindled. As the Hotar, he is Mitra; as  Jātavedas, Varuṇa.  
 As the vigorous Adhvaryu and the lord of the household, he is Mitra,  the Mitra of the rivers and mountains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is Mitra when enkindled duly, Mitra as Priest, Varuna, Jatavedas;  
      Mitra as active minister, and House-Friend, Mitra of flowing rivers and of mountains.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni becomes Mitra 1, when he has been kindled; he the Hotri (Agni becomes) Mitra; he, Gâtavedas, (becomes) Varuna. The quick Adhvaryu, the domestic (god, Agni, becomes) Mitra, the Mitra (i. e. friend or ally) of the rivers and of the mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni wird Mitra, wenn er angezündet ist; Mitra ist er als Hotri, Varuna als Jatavedas. Als eifriger Adhvaryu, als Hausgebieter ist er Mitra, Mitra der Flüsse und Berge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt, ist Agni Mitra, und als Priester und Wesenkenner Varuna und Mitra, Ein Freund als Diener und als thät'ger Hausherr, ein Freund der Ströme und der hohen Berge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митрой становится Агни, когда зажжен,  
 Митрой – (когда) хотар, Варуной – (когда) Джатаведас,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡क्षन् ना꣡सतियाभियाम्  
 प꣡रिज्मानं सुखं꣡ र꣡थम्  
 त꣡क्षन् धेनुं꣡ सबर्दु꣡घाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तक्ष॑न् । धे॒नुम् । स॒बः॒ऽदुघा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *takṣan* ← *takṣ*
 - \[verb\], plural, Present injunctive
@@ -71,7 +71,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नासत्याभ्याम्** अश्विदेवप्रीत्यर्थं **रथं** **तक्षन्** ऋभवो देवाः कंचिद्रथमतक्षन् तक्षणेन संपादितवन्तः । कीदृशम् । **परिज्मानं** परितो गन्तारं **सुखं** उपर्युपवेशने सुखकरम् । किंच ”धेनुx कांचिद्गां **तक्षन्** । धातूनामनेकार्थत्वात् तक्षतिरत्र संपादनवाची । कीदृशीं धेनुम् । **सबर्दुघां** सबरः क्षीरस्य दोग्ध्रीम् ॥ तक्षन् ।' बहुलं छन्दसि° ' ( पा. सू. ६. ४. ७५ ) इति अडभावः । नासत्याभ्याम् । न विद्यते सत्यं ययोस्तौ असत्यौ । न असत्यौ नासत्यौ ।' नभ्राण्नपात्' ( पा. सू. ६. ३. ७५) इत्यादिना नलोपाभावः। परिज्मानम् । अजेः परिपूर्वस्य  ‘ श्वन्नुक्षन् ' ( उ. सू. १. १५७ ) इत्यादिना मन्प्रत्यये अकारलोपः आद्युदात्तत्वं च निपातनात् । सबर्दुघाम् । सबः पयः दोग्धीति सबर्दुघा । 'दुहः कब्धश्च ' ( पा. सू. ३. २. ७० ) इति कप् । सबर् इति रेफान्तं प्रातिपदिकं क्षीरवाची इति संप्रदायविदः। कपः पित्त्वादनुदात्तत्वम् । धातुस्वर एव शिष्यते । समासे कृदुत्तरपदप्रकृतिस्वरः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -82,33 +82,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 They carved (tatakṣuḥ) Indar's horse; they did it mentally (**mānasa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They fashioned for the Nāsatyas an earth-circling, well-naved chariot; they fashioned a juice-yielding milk-cow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though Geldner (/Witzel Gotō) takes sabardúgha- as the cow’s name, the word has a literal sense that works well in context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They for the two Nasatyas wrought a light car moving every way:  
      They formed a nectar-yielding cow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie zimmerten den Nasatya´s den umherfahrenden, leichtlaufenden Wagen, sie bildeten die Kuh des Sabardugha.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den treuen Rittern schufen sie den Wagen, der im Fluge kreist, Und auch die Kuh, die Nektar strömt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они вытесали для двух Насатьев  
 Быстроходную колесницу, объезжающую вокруг (вселенной).  

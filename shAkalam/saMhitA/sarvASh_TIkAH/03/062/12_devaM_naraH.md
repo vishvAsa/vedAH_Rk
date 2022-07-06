@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवं꣡ न꣡रः सविता꣡रं  
 वि꣡प्रा यज्ञइः꣡ सुवृक्ति꣡भिः  
 नमस्य꣡न्ति धिये꣡षिताः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 न॒म॒स्यन्ति॑ । धि॒या । इ॒षि॒ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
@@ -77,20 +77,20 @@ genre M
 **नरः** कर्मणां नेतारः **विप्राः** मेधाविनोऽध्वर्य्वादयः **धियेषिताः** कर्मणा बुद्ध्या वा प्रेर्यमाणाः सन्तः **सवितारं** **देवं** त्वां **यज्ञैः** यजनीयैर्हविर्भिः **सुवृक्तिभिः** शोभनस्तोत्रैश्च **नमस्यन्ति** परिचरन्ति ॥ नमस्यन्ति । नमोवरिवश्चित्रङः क्यच् ' इति क्यच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Devout and wise men, impelled by intelligence, adore the divine **Savitā** with sacrifices and sacred hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To god Savitar do the men, the inspired poets, give reverence with  sacrifices and well-twisted hymns,  
 when impelled by insight.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men, singers worship Savitar the God with hymn and holy rites,  
      Urged by the impulse of their thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die redekundigen Männer verehren den Gott Savitri mit Opfern, mit Lobliedern, von frommen Gedanken getrieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar verehren sie mit Opfer und mit Lobgesang, Die Sänger, andachtsvoll erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохновенные мужи поклоняются  
 Богу Савитару жертвами, прекрасными гимнами,  

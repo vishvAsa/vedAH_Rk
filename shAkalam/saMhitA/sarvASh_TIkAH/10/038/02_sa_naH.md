@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः क्षुम꣡न्तं स꣡दने वि꣡ ऊर्णुहि  
 गो꣡अर्णसं रयि꣡म् इन्द्र श्रवा꣡यियम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡था वय꣡म् उश्म꣡सि त꣡द् वसो कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्याम॑ । ते॒ । जय॑तः । श॒क्र॒ । मे॒दिनः॑ । यथा॑ । व॒यम् । उ॒श्मसि॑ । तत् । व॒सो॒ इति॑ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -139,7 +139,7 @@ genre M
 हे **इन्द्र** **सः** सर्वानुग्राहकत्वेन प्रसिद्धस्त्वं **नः** अस्माकं **सदने** गृहे **क्षुमन्तम्** अन्नवन्तं शब्दवन्तं वा **गोअर्णसम्** । गावोऽर्णं उदकमिव प्रवृद्धा यस्मिन् । तं **श्रवाय्यं** श्रवणीयं **रयिं** धनं **व्यूर्णुहि** विविधमाच्छादय । किंच हे **वसो** वासक **शक्र** इन्द्र **जयतः** शत्रुं **ते** तव प्रसादाद्वयं **मेदिनः** मेदसा युक्ता बलवन्तः **स्याम** भवेम । किं बहूक्त्या । **यथा** यत् **वयमुश्मसि** कामयामहे **तत्** सर्वं **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,29 +150,29 @@ genre M
 Comprisingfood and herds of cattle: where cattle are abundant like water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Uncover for us at our seat wealth in livestock, flooding with cows, worthy  of fame, o Indra.  
 May we share the fat with you when you win, able one. As we want it,  make it so, good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At home disclose to us opulence rich in food, streaming with milk, O Indra, meet to be renowned.  
      Sakra, may we be thine, the friendly Conqueror's: even as we desire, O Vasu, so do thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erschließe uns, Indra, an Ort und Stelle Reichtum an Vieh, an Rinderfülle, der zum Ruhm gereicht! Wir möchten deine Verbündeten sein, wenn du siegest, o Mächtiger. Wie wir wollen, du Gütiger, also tu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In unserm Sitz erschliess uns nahrungsreichen Schatz, der reich an Rindern, preisenswerth, o Indra, sei; Wir wollen, starker Sieger, deine Freunde sein; wie wir es wünschen, so gewähr es, Guter, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Открой (и) на нашем месте богатство, состоящее из скота,  
 Изобилующее коровами, достойное славы, о Индра!  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा त्वा वृ꣡षणं हुवे  
 व꣡ज्रिञ् चित्रा꣡भिर् ऊति꣡भिः  
 वृ꣡षन्न् इन्द्र वृ꣡षभिर् वृत्रहन्तम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 वृष॑न् । इ॒न्द्र॒ । वृष॑ऽभिः । वृ॒त्र॒ह॒न्ऽत॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -90,36 +90,36 @@ genre M;; repeated line
 हे **वज्रिन्** वज्रवन् **इन्द्र** **वृषा** सोमरसस्य सेक्ताहं **वृषणं** त्वां **हुवे** आह्वयामि । किमर्थम् । **चित्राभिः** चायनीयाभिः **ऊतिभिः** रक्षाभिर्निमित्तभूताभिः । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Effusing the libation, I invoke you, the showerer (of benefits), for your marvellous protections; showerer (of benefits), **Indra**, utter destroyer of **Vṛtra**, come with the showering (**Maruts**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bullish I call upon you, the bullish, o possessor of the mace, with your  bright help.  
 Bullish Indra, with your bulls, best smasher of Vr̥tra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As strong I call on thee the Strong, O Thunder-armed, with various aids,  
      Indra, best Vrtra-slayer, Strong One with the Strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Bulle rufe ich nach dir, dem Bullen, du Keulenträger, mit deinen wunderbaren Gnaden, du Bulle Indra, mit den Bullen, du größter Vritratöter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich ruf' ich an, der Stier den Stier, o Blitzer, an Genüssen reich, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

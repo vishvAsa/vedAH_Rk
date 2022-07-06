@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उद्नः꣡ फलिग꣡म् भिन꣡न्  
 नि꣡अक् सि꣡न्धूँर् अवा꣡सृजत्  
 यो꣡ गो꣡षु पक्वं꣡ धार꣡यत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । गोषु॑ । प॒क्वम् । धा॒रय॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -88,37 +88,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **उद्नः** उदकार्थं **फलिगं** मेघम् । रैवतः फलिगः' इति मेघनामसु पाठात् । **भिनत्** अभिनत् । **सिन्धून्** अपश्च अन्तरिक्षात् **न्यक्** अर्वाक् **अवासृजत्** । **यः** च **गोषु** **पक्वं** पयः **धारयत्** अधारयत् । स इन्द्र इत्यर्थः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who clove the cloud for (the issue of) the rain, who sent down the waters, who plural ced the mature (milk)in the cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who split the bolt of the water and released the rivers  
 downward,  
 who fixed the cooked (milk) fast in the cows,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who cleft the water-cloud in twain, loosed rivers for their downward flow,  
      And set the ripe milk in the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der des Wassers Räuber zerspaltete, die Flüsse abwärts laufen ließ, der in den Kühen die gekochte Milch festlegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der des Wassers Stall erbrach, herab die Ströme rinnen liess Und gare Milch den Kühen gab,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто расколол вместилище воды  
 (И) выпустил реки течь вниз,  

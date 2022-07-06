@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ररे꣡ हव्य꣡म् मति꣡भिर् यज्ञि꣡यानां  
 न꣡क्षत् का꣡मम् म꣡र्तियानाम् अ꣡सिन्वन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सक्षीम꣡हि यु꣡जियेभिर् नु꣡ देवइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 धात॑ । र॒यिम् । अ॒वि॒ऽद॒स्यम् । स॒दा॒ऽसाम् । स॒क्षी॒महि॑ । युज्ये॑भिः । नु । दे॒वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rare* ← *rā*
 - \[verb\], singular, Perfect indicative
@@ -109,21 +109,21 @@ genre M
 **यज्ञियानाम्** । चतुर्थ्यर्थे षष्ठी । यज्ञार्हेभ्यो देवेभ्यः **मतिभिः** अस्मदीयाभिः स्तुतिभिः सह **हव्यं** हविः **ररे** अस्माभिर्दीयते । **मर्त्यानां** मनुष्याणामस्माकं **कामम्** अभिलाषम् **असिन्वन्** अप्रतिबध्नवन्नग्निः **नक्षत्** अस्मदीयं यज्ञं व्याप्नोतु । हे देवा यूयम् **अविदस्थम्** अनुपक्षपणीयं **सदासां** सर्वदा संभजनीयं **रयिं** धनं **धात** अस्मभ्यं दत्त । **नु** अद्य वयं **युज्येभिः** सहायभूतैरिह यज्ञे समागतैः **देवैः** **सक्षीमहि** । यद्वा । न्वित्युपमार्थे । युज्येभिर्नु बन्धुभिरिव देवैः सक्षीमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The oblation is offered together with praises to the adorable deities; may (**Agni**), unaverse to the desireof mortals, be present; bestow (upon us gods), unwasting, all-benefiting riches; and may we today be associatedwith the assembled deities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have bestowed an oblation along with poetic thoughts on those worthy  of the sacrifice. The insatiable one [=Agni] will attain the desire of  
 mortals.  
 Confer inexhaustible ever-winning wealth. Might we be accompanied by  the gods, who will now be our yokemates.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take yajñíyānām as gen. for dat., as in 2a.
 
@@ -134,23 +134,23 @@ In b I assume that Agni obtains from the gods, and then gives to mortals, what t
 In d I take the position of nú within the instr. phrase yújyebhir nú devaíḥ seriously, indicating that the gods are now to be our yokemates, now that we have made successful sacrifice to them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as the holy wish, the gift is offered: may he, unsated, come when men desire him.  
      Give never-failing ever-conquering riches: with Gods for our allies may we be victors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe mit Gedichten die Spende für die Opferwürdigen dargebracht. Der schlingende Agni möge den Wunsch der Sterblichen erlangen. Bringet Reichtum, unerschöpflichen, immer gewinnenden! Wir möchten nun mit den vereinten Göttern zusammen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebracht ist Opfer nach der Götter Willen; der Menschen Wunsch erfüllt vom nimmer satten; O gebt uns reiches Gut, das nimmer, schwindet; lasst den verbundnen Göttern uns vereint sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я посвятил возлияние вместе с молитвами достойным жертв (богам).  
 Пусть (Агни) необузданный достигнет желания смертных!  

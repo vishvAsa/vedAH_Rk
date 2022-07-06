@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् भुज्युं꣡ समुद्र꣡ आ꣡  
 र꣡जसः पार꣡ ईङ्खित꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ना꣡सत्या सात꣡ये कृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 या॒तम् । अच्छ॑ । प॒त॒त्रिऽभिः॑ । नास॑त्या । सा॒तये॑ । कृ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -101,36 +101,36 @@ genre M
 हे अश्विनौ **युवं** युवां **समुद्रे** उदधौ निमग्नं **रजसः** उदकस्य **पारे** प्रान्ते तरङ्गसमूहे **ईङ्खितं** डोलायितम् एवंभूतं **भुज्युं** तुग्रपुत्रम् **अच्छ** अभि **पतत्रिभिः** पक्षोपेतैर्नौविशेषैः सह **आ** **यातम्** आगतवन्तौ स्थः । आगत्य च हे **नासत्या** सत्यस्य नेतारौ सत्यस्वभावौ वा हे अश्विनौ **सातये** युवयोः संभजनाय समर्थं **कृतं** पुनर्युवामकुरुतम् ॥ करोतेर्लङि छान्दसो विकरणस्य लुक् । अडभावश्च । लुङि वा मन्त्रे घस' इति च्लेर्लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You came with winged (steeds) to **Bhujyu** (immersed) in the ocean, at the world's end, perturbed; and,leaders, of truth, you restored him to your worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bhujyu, pitched and tossed in the sea at the far end of the airy realm— you drove to him with your winged ones. O Nāsatyas, make (our  
 insight?) to win.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Twain to Bhujyu tossed about in ocean at the region's end,  
      Nasatyas, with your winged sterds came nigh, and gave him strength to win.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Bhujyu, der im Meere am Ende der Welt schaukelte, kamet ihr mit den geflügelten Rossen; ihr Nasatya´s halfet seinem Gebet zum Sieg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Bhudschju, der geschaukelt ward im Meere jenseit dieser Luft, O Treue, eiltet ihr herbei auf Flügelrossen, gabt ihm Huld.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы к Бхуджью, качавшемуся  
 В море, в конце света,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुनीथो꣡ घा स꣡ म꣡र्तियो  
 य꣡म् मरु꣡तो य꣡म् अर्यमा꣡  
 मित्रः꣡ पा᳐꣡न्ति अद्रु꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मि॒त्रः । पान्ति॑ । अ॒द्रुहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sunītho* ← *su*
 - \[adverb\]
@@ -87,35 +87,35 @@ genre M
 **स** **मर्त्यः** मनुष्यो यजमानः **सुनीथः** सुयज्ञः सुनयनो वा भवति । **घ** इति प्रसिद्धौ । स इत्युक्तं कमित्याह । **यं** यजमानं **मरुतः** देवाः **पान्ति** रक्षन्ति **अद्रुहः** अद्रोहकर्तारः । तथा **यमर्यमा** पाति । यं च **मित्रः** पाति । स एवं भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fortunate in sacrifice is that mortal whom the guileless **Maruts**, whom **Aryaman** and **Mitra**, protect.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That mortal has good guidance whom the Maruts, whom Aryaman and Mitra protect—those without deceit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair guidance hath the mortal man whom Aryaman, the Marut host,  
      And Mitra, void of guile, protect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche ist gut geführt, den die Marut, den Aryaman und Mitra, die Truglosen, beschützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche fürwahr ist wohlgeleitet, den Varuna, den Arjaman, Mitra beschützen, die holdgesinnten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно ведом тот смертный,  
 Кого Маруты, кого Арьяман,  

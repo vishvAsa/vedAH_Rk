@@ -8,7 +8,7 @@ title = "+085"
 ‘ इन्द्राय' इति द्वादशर्चमष्टादशं सूक्तं भृगुगोत्रस्य वेनस्यार्षं पवमानसोमदेवताकम् । एकादशीद्वादश्यौ त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रान्तम्-' इन्द्राय द्वादश वेनो भार्गवो द्वित्रिष्टुबन्तम्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 85 (797)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ The second section (vss. 5–8) is quite straightforward and focuses on the puri
 As noted the final four verses (9–12) strongly resemble the Vena hymn (X.123),  but they are considerably easier to decode. They concern heavenly Soma, who is  identified with the sun, but who also appears in a number of different guises: a bull,  a poet, and a king (all in vs. 9), an ox (vs. 10), an eagle, a child, and a bird (vs. 11),  and finally a Gandharva (vs. 12).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the four-vs. sequences and their contents, see published introduction.
 

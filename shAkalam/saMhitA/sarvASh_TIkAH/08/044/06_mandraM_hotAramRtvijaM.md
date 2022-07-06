@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्रं꣡ हो꣡तारम् ऋत्वि꣡जं  
 चित्र꣡भानुं विभा꣡वसुम्  
 अग्नि꣡म् ईळे स꣡ उ श्रवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒ग्निम् । ई॒ळे॒ । सः । ऊं॒ इति॑ । श्र॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **मन्द्रं** मादनं **होतारं** देवानामाह्वातारम् **ऋत्विजम्** ऋतौ यष्टव्यं **चित्रभानुं** चित्रदीप्तिं **विभावसुं** दीप्तिधनम् **अग्निम्** ईळे स्तौमि । **सः** अग्निः **श्रवत्** अस्मदीयां स्तुतिं शृणोत्वेव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,30 +101,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Priest: ṛtvijam = ṛtau yaṣṭavyam, he who is to be worshipped in dueseason; in RV. 5.22.2 = ṛtuyaṣṭāram, he who offers in due season
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gladdening Hotar, seasonable offerer, of bright radiance, with  
 far-radiant goods,  
 Agni do I reverently invoke—he will listen—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I worship Agni-may he hear!-the cheerful, the Invoker, Priest,  
      Of varied splendour, rich in light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den wohlredenden Hotri, den Opferpriester, den prächtig glänzenden, glanzreichen Agni rufe ich an; er soll hören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Opferer der hell erstrahlt, den holden Priester, glanzbegabt, Den Agni preis' ich, höre er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Радостного хотара, жреца,  
 С яркими лучами, блистательного,  

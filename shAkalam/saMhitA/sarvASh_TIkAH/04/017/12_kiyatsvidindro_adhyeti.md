@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡यत् स्विद् इ꣡न्द्रो अ꣡धि एति मातुः꣡  
 कि꣡यत् पितु꣡र् जनितु꣡र् यो꣡ जजा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वा꣡तो न꣡ जूत꣡ स्तन꣡यद्भिर् अभ्रइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । अ॒स्य॒ । शुष्म॑म् । मु॒हु॒कैः । इय॑र्ति । वातः॑ । न । जू॒तः । स्त॒नय॑त्ऽभिः । अ॒भ्रैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiyat*
 - \[noun\], accusative, singular, neuter
@@ -132,7 +132,7 @@ genre M
 यः **इन्द्रः** **मातुः** जनन्याः सकाशात् **कियत्स्वित्** यावद्बलम् **अध्येति** अधिगच्छति । **पितुः** सकाशात् **कियत्** यावद्बलमधिगच्छति । **यः** इन्द्रः **जनितुः** जनयितुर्यस्मात् प्रजापतेः सकाशादिदं दृश्यमानं जगत् **जजान** अजनयत् । **यः** इन्द्रः तस्मात् प्रजापतेः सकाशात् **अस्य** जगतः **शुष्मं** यावद्धलं **मुहुकैः** मुहुर्मुहुः **इयर्ति** प्रेरयति । **स्तनयद्भिः** गर्जद्भिः अभ्रैः मेघेः **जूतः** प्रेरितः **वातो** **न** वायुरिव तथा स इन्द्रः स्तोतृभिर्जूतः प्रेरितः हविष्यदानार्थमाहूतो भवति ॥॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ genre M
 His progenitor: **Prajāpati**; as the wind is driven by thundering clouds: The simile is applied to Indra: as the wind is impelled by thunder-clouds, so Indra is influenced by the hymns of the worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How much does Indra know of his mother, how much of his father, his  begetter, who begot him?  
 He who in an instant raises his tempest, as the wind does when sped by  thundering clouds,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The exact sense of ádhy eti is not entirely clear. It generally means ‘study’ from the literal meaning ‘go over’ (matching the English idiom exactly), but shows various semantic developments: ‘give thought to, take cognizance of, be mindful of, trouble oneself with’, etc. In all cases, the lexeme ádhi √i has a mental sense (though III.54.9 has a secondary literal reading): I.71.10, 80.15; III.54.9; V.44.13; VII.56.15; VIII.83.7, 91.3; IX.67.31, 32; X.33.7, 32.3, 100.4. Here I think we should read the expression in the light of vs. 4, with its apparent uncertainty about Indra’s parentage
 
@@ -160,23 +160,23 @@ I take the rel. cl. of cd with the following vs. The two share the verb íyarti,
 I take muhukaíḥ as a temporal adverbial instr., expressing how suddenly Indra can erupt -- even though I have revised my view on muhuké in the preceding hymn (IV.16.17 -- see comm. there). I do not think “raises his tempest with/by sudden skirmishes” is what is meant here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What is the care of Indra for his Mother, what cares he for the Father who begat him?  
      His care is that which speeds his might in conflicts, like wind borne onward by the clouds that thunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was kümmert sich Indra wohl viel um seine Mutter, was um den Vater, den Erzeuger, der ihn erzeugt hat? Der dein Ungestüm durch die Schlachtrufe antreibt wie der jagende Wind durch die donnernden Wolken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wieviel verdankt denn Indra seiner Mutter, dem Vater auch, dem Zeuger, der ihn zeugte? Er der im Nu hoch seine Kraft emportrieb, gleichwie der Wind mit Donnerwolken eilend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Насколько же Индра беспокоится о (своей) матери,  
 Насколько об отце-родителе, который породил (его)?  

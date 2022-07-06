@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ देवो꣡ दूतो꣡ अजिर꣡श् चिकित्वा꣡न्  
 तुव꣡द् देवापे अभि꣡ मा꣡म् अगछत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡धामि ते द्युम꣡तीं वा꣡चम् आस꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र॒ती॒ची॒नः । प्रति॑ । माम् । आ । व॒वृ॒त्स्व॒ । दधा॑मि । ते॒ । द्यु॒ऽमती॑म् । वाच॑म् । आ॒सन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -130,36 +130,36 @@ popular
 **देवः** कश्चित् **दूतः** **अजिरः** गमनशीलः **चिकित्वान्** चेतनावान् हे **देवापे** त्वत् त्वत्तः सकाशात् त्वया प्रेषितः सन् **माम्** अभि **आ** **अगच्छत्** अभ्यागच्छतु । हे बृहस्पते **प्रतीचीनः** अस्मदभिमुखः **मां** **प्रति** **आ** **ववृत्स्व** मां प्रत्यागच्छ। **ते** तुभ्यं त्वदर्थं **द्युमतीं** दीप्तियुक्तां **वाचं** स्तुतिरूपां **दधामि** **आसन्** आस्येऽस्मदीये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let a divine messenger quick and intelligent sent, **Devāpi**, by you come to me. Come, **Bṛhaspati**, tome, turning towards me; I have in my mouth a brilliant eulogium for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Br̥haspati:] “The quick messenger god [=Agni], taking cognizance,  went from you, Devāpi, to me.  
 Turn here, face to face in front of me: I place heaven-bright speech in  your mouth.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The God, intelligent, the speedy envoy whom thou hast sent hath come to me, Devapi:  
      Address thyself to me and turn thee hither within thy lips will I put brilliant language.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der flinke göttliche Bote, der kundige, ist von dir, Devapi, zu mir gekommen. Wende dich hinwiederum an mich; ich lege dir die glänzende Rede in den Mund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Als rascher, weiser Götterbote nahte von dir gesandt zu mir dein Ruf, Devapi, Mit Eifer strebend wende dich zu mir her; ich leg' ein glänzend Lied in deinen Mund dir.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Божественный вестник, быстрый (и) сведущий,  
 Пришел от тебя ко мне, о Девапи.  

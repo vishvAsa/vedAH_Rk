@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो विभा꣡वा चक्ष꣡णिर् न꣡ व꣡स्तोर्  
 अग्नि꣡र् वन्दा꣡रु वे꣡दियश् च꣡नो धात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषर्भु꣡द् भू꣡द् अ꣡तिथिर् जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒श्वऽआ॑युः । यः । अ॒मृतः॑ । मर्त्ये॑षु । उ॒षः॒ऽभुत् । भूत् । अति॑थिः । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 **वस्तोः** अहनि **चक्षणिर्न** प्रकाशकः सूर्य इव **विभावा** विशेषेण दीप्यमानः **वेद्यः** सर्वैर्ज्ञातव्यो लम्भनीयो वा **सः** **अग्निः** **नः** अस्मभ्यं **वन्दारु** वन्दनीयं स्तुत्यं **चनः** अन्नं **धात्** दधातु प्रयच्छत्वित्यर्थः। **विश्वायुः** सर्वान्नः सर्वेषां जीवनहेतुर्वा **अमृतः** मरणरहितः **अतिथिः** हविर्वहनाय सततगामी **जातवेदाः** जातानां वेदिता जातधनो वा एवंभूतः **यः** अग्निः **मर्त्येषु** मनुष्येषु यजमानेषु **उषर्भुद्भूत्** उषःकालेऽग्निहोत्रहोमार्थं प्रबुद्धो भवति स इति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Agni**, who, like the illuminator of the day, is resplendent and cognizable (by all), gran us commendable food; he who is the life of all, immortal, who knows all that exists, who is our guest, waking among men at dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Far radiant like a vision at dawn, Agni worthy to be acquired takes  delight in our extolling—  
 he who through his whole life has been the immortal among the mortals,  their guest who awakes at dawn, the Jātavedas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes both vibhā́vā and cakṣáṇiḥ as transitive: “Er ist unser Erleuchter wie der Erheller am Morgen.” But well-attested vibhā́van- does not elsewhere take an object or an objective gen. (on X.8.4 see comm. ad loc. [once it exists]). By contrast, cakṣáṇi- is a hapax and so its value is more up-in-the-air. AiG II.2.207 takes it as an agent noun ‘Erheller’ and explains it (p. 208) as a nominalization of an infinitive in - áni; in our passage cakṣáṇir ná “als Anzeiger” is said to rest on *cakṣáṇi ná “wie um anzuzeigen.” But this is not how RVic similes work, and further a class of -áni infinitives is marginal at best (see most recently Keydana, Infinitive im Ṛgveda pp.
 
@@ -152,23 +152,23 @@ In the 2nd hemistich it is uncertain (but not terribly important) which of the n
 The collocation uṣarbhúd- átithi- recurs in VI.15.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni, radiant Herald of the morning, meet to be known, accept our praise with favour.  
      Dear to all life, mid mortal men Immortal, our guest, awake at dawn, is Jatavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist unser Erleuchter wie der Erheller am Morgen; Agni möge merkbar an dem Lobeswort Gefallen finden, der der Unsterbliche unter den Sterblichen, lebenslang ihr frühwacher Gast ward, der Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Agni, strahlend als des Morgens Leuchte, der kennenswerthe nehme unser Lob an, Der lebensvoll, bei Sterblichen unsterblich, der Wesenkenner, früh erwacht zu Gast war.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот наш озаряющий (бог), словно (Сурья,) смотрящий на заре,  
 Агни, достойный, чтоб его знали, пусть радуется хвале,  

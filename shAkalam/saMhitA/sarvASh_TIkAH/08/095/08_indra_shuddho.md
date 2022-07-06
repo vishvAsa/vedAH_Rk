@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र शुद्धो꣡ न आ꣡ गहि  
 शुद्धः꣡ शुद्धा꣡भिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शुद्धो꣡ ममद्धि सोमियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शु॒द्धः । र॒यिम् । नि । धा॒र॒य॒ । शु॒द्धः । म॒म॒द्धि॒ । सो॒म्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -107,7 +107,7 @@ genre M
 हे **इन्द्र** **शुद्धः** अस्मदीयैः सामभिः शस्त्रैश्च परिशुद्धस्त्वं **नः** अस्मान् **आ** **गहि** आगच्छ । **शुद्धाभिरूतिभिः** । ऊतयो मरुतः । अवन्ति सर्वत्र गच्छन्तीति वा । तेऽपि सामभिः शस्त्रैः परिपूताः । तैर्मरुद्भिः सह **शुद्धः** पापरहितस्त्वमा गहि । आगत्य च **शुद्धः** त्वं **रयिं** धनमस्मासु **नि** **धारय** नितरां स्थापय । किंच **शुद्धः** त्वं **सोम्यः** सोमार्हो भूत्वा **ममद्धि** सोमेन माद्य । ‘मदी हर्षे' । लोटि ‘बहुलं छन्दसि' इति शपः श्लुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,13 +118,13 @@ genre M
 Protecting hostws: the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra—cleansed, come here to us; (come) cleansed with cleansed help. Cleansed, lay down a foundation of wealth; cleansed, become  
 exhilarated as the one deserving of soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -134,23 +134,23 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, come thou pure to us, with pure assistance, pure thyself.  
      Pure, send thou riches down to us, and, meet for Soma, pure, be glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, komm gereinigt rein zu uns, rein mit reinen Hilfen! Gereinigt verleih uns Reichtum, gereinigt berausche dich als der Somawürdige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, reiner Indra, komm zu uns, mit reinen Hülfen, reiner du, Du reiner, schenke Reichthum uns, berausch am Soma, reiner, dich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, чистым приходи к нам,  
 Чистый, с чистыми поддержками!  

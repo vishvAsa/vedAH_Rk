@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ षीम् इ꣡द् अ꣡त्र गु꣡हिया द꣡धाना  
 उत꣡ क्षत्रा꣡य रो꣡दसी स꣡म् अञ्जन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡र् मही꣡ स꣡मृते धा꣡यसे धुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । मात्रा॑भिः । म॒मि॒रे । ये॒मुः । उ॒र्वी इति॑ । अ॒न्तः । म॒ही इति॑ । समृ॑ते॒ इति॒ सम्ऽऋ॑ते । धाय॑से । धु॒रिति॑ धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 २॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 They have set limits: sam mātrābhir mamire = mātrābhiḥ rodasyau iyattayā paricchinne cakruḥ, wiḥ the elements they made determinate divisions of heaven and earth by so much, i.e., to a definite limit or extent
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, in depositing their own secret (tracks/names) in safety just here,  they ornamented the two world-halves for their dominion. (When) they fully measured (them) with their measures, they held fast  the two broad (worlds). They have put apart the two great ones,  
 which were fitted together, to give (us) nourishment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Before addressing the question of what pādas a and b have to do with each other thematically, we must first consider the small technical issue of the placement of utá at the beginning of pāda b. Since pāda a contains a participle (dádhānāḥ) and pāda b a main verb (sám añjan), it is unlikely that utá is conjoining the two pādas.
 
@@ -166,23 +166,23 @@ The verb in d, antáḥ … dhuḥ, is not a standard expression for ‘separate
 I take dhā́yase as belonging to √dhā ‘suckle, nourish’, like the rest of the occurrences of this -as-stem. Renou (EVP), Kümmel (395), and Witzel Gotō all follow this root assignment, but Geldner and Renou (Hymnes spéc.) take it to √dhā ‘place’: “damit sie (die Herrschaft) ausüben” and “pour qu’ils se tiennent stables,” respectively. The separation of the two worlds is often presented as a boon for humans, so the ‘nourish’ interpr. seems more fitting, and the usual analysis of dhā́yas- supports it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Assuming in this world mysterious natures, they decked the heaven and earth for high dominion,  
      Measured with measures, fixed their broad expanses, set the great worlds apart held firm for safety.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und sie salbten beide Rodasi zur Herrschaft, indem sie hier ihre geheimen Spuren hinterließen. Sie haben die beiden in ihren Maßen gleich gemacht und die Welten in Ordnung gehalten. Sie schieden die beiden Großen, die zusammengestoßen waren, damit sie die Herrschaft ausüben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort niederlegend das Geheimnissvolle, schmückten sie beide Welten zur Herrschaft aus, und massen sie mit Massen ab, dehnten sie weit aus, und stellten die beiden verbundenen geson- dert hin zur Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оставляя здесь совсем в стороне тайные вещи,  
 Они помазали на власть оба мира.  

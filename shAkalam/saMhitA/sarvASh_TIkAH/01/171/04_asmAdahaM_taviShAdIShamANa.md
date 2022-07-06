@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡द् अहं꣡ तविषा꣡द् ई꣡षमाण  
 इ꣡न्द्राद् भिया꣡ मरुतो रे꣡जमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡नि आरे꣡ चकृमा मॄळ꣡ता+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यु॒ष्मभ्य॑म् । ह॒व्या । निऽशि॑तानि । आ॒स॒न् । तानि॑ । आ॒रे । च॒कृ॒म॒ । मृ॒ळत॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmād* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
@@ -119,36 +119,36 @@ genre M
 हे **मरुतः** शृणुत । **अहम्** **अस्मात्** प्रसिद्धात् **तविषात्** बलवतः **इन्द्रात्** तत्सकाशात् **भिया** भीत्या **ईषमाणः** पलायमानः पुरतः स्थातुमशक्तः तथा **रेजमानः** वेपमानश्चाभवम् । ततश्च किमायातमिति अत आह । यानि **युष्मभ्यं** **हव्या** हवींषि **निशितानि** संस्कृतानि **आसन्** **तानि** तान्येव **आरे** **चकृम** । दूरे कृतवन्तो वयमिन्द्रभयात् । अतः **नः** अस्मान् अनपराधिनः **मृळत** मृळयत सुखयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, through fear of that violent **Indra**, I fly, trembling, (from his presence); the oblations that had been prepared for you have been put away; nevertheless, have patience with us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Then was) I retreating from this mighty one, Maruts, trembling from  fear of Indra.  
 These oblations (of soma) were sharpened for you, but we have sent  them away. Have mercy upon us!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I fled in terror from this mighty Indra, my body trembling in alarm, O Maruts.  
      Oblations meant for you had been made ready; these have we set aside: for this forgive us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor diesem Starken zurückweichend, vor Indra aus Furcht zitternd, ihr Marut sage ich: Für euch waren die Opferspenden angespießt. Diese haben wir entfernt. Verzeihet uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich flieh' aus Furcht vor diesem ungestümen erschreckt, o Maruts, zitternd vor dem Indra; Zur Stärkung waren Tränke euch bereitet, wir brauten fern von euch sie, seid uns gnädig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отступая перед этим могучим,  
 Трясясь от страха, о Маруты, перед Индрой, я (говорю:)  

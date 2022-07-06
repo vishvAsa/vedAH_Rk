@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡जोहवीन् नासतिया करा꣡ वाम्  
 महे꣡ या꣡मन् पुरुभुजा पु꣡रंधिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रण्यहस्तम् अश्विनाव् अदत्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्रु॒तम् । तत् । शासुः॑ऽइव । व॒ध्रि॒ऽम॒त्याः । हिर॑ण्यऽहस्तम् । अ॒श्वि॒नौ॒ । अ॒द॒त्त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajohavīn* ← *ajohavīt* ← *johav* ← *√hvā*
 - \[verb\], singular, Imperfect
@@ -111,7 +111,7 @@ genre M
 वध्रिमती नाम कस्यचिद्राजर्षेः पुत्री नपुंसकभर्तृका । सा पुत्रलाभार्थमश्विनावाजुहाव । तदाह्वानं श्रुत्वाश्विनावागत्य तस्यै हिरण्यहस्ताख्यं पुत्रं ददतुः । तदेतदाह । **पुरुभुजा** बहूनां पालकौ प्रभूतहस्तौ वा हे नासत्यावश्विनौ **महे** महनीये पूजनीये **यामन्** यामनि । याति गच्छतीति याम स्तोत्रम् । तस्मिन्सति **करा** अभिमतफलस्य कर्तारौ **वां** युवां पुरंधिः बहुधीः वध्रिमती । वध्रिः पुत्रोत्पादनाशक्तः पण्डकः । तद्वती एतत्संज्ञा राजपुत्री **अजोहवीत्** । पुनः पुनः स्तुत्या पुत्रलाभार्थम् आहूतवती । युवां च **वध्रिमत्याः** तत् **आह्वानं** **श्रुतम्** अशृणुतम् । तत्र दृष्टान्तः। **शासुरिव** । यथा शासुः आचार्यस्य वचनं शिष्योऽवहितः सन् ऐकाग्र्येण शृणोति तद्वत् ।श्रुत्वा च हे **अश्विनौ** तस्यै **हिरण्यहस्तं** सुवर्णमयपाणिं हितरमणीयपाणिं वा एतत्संज्ञं पुत्रम् **अदत्तं** प्रयच्छतम् ॥ अजोहवीत् । ह्वयतेर्यङ्लुगन्तात् लङ्। यङो वा' इति तिप ईडागमः । करा । करोतेः पचाद्यच् । ‘सुपां सुलुक्°' इति विभक्तेः आकारः । यामन् । ‘अतो मनिन्क्वनिब्वनिपश्च' इति मनिन् ।' सुपां सुलुक्' इति सप्तम्या लुक् । श्रुतम् । लङि ‘बहुलं छन्दसि' इति विकरणस्य लुक् । ‘बहुलं छन्दस्यमाङ्योगेऽपि' इति अडभावः । शासुः । शास्तुः । ‘शासु अनुशिष्टौ । ‘शंसिशसिशासि° '(उ. सू. २. २५० ) इत्यादिना संज्ञायां तृन् । इडभावः । छान्दसस्तलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 Vadrimati was the wife of a certain **rājaṛṣi**, who was im\\potent. The Aśvins, propitiated by her prayers, gave her a son
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Puraṃdhi has called upon your two hands again and again, o Nāsatyas,  you of many delights [/of many arms], for what is great on your  journey.  
 You two heard (the call) of Vadhrimatī like a command. You gave (her  a son) with golden hands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the great rite the wise dame called, Nasatyas, you, Lords of many treasures, to assist her.  
      Ye heard the weakling's wife, as 'twere an order, and gave to her a son Hiranyahasta.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Hände, ihr Nasatya´s, rief während eurer Ausfahrt zu großem Beistand Purandhi an, ihr Vielnützende. Ihr Asvin hörtet auf diesen Ruf der Vadhrimati, als wäre es ein Befehl und schenket ihr den Hiranyahasta.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Treue, rief als Helfer an Purandhi bei grossem Fest, o güterreiche Ritter, Der Frau des Schwächlings hörtet wie aufs Wort ihr, und gabt zum Sohn ihr den Hiranjahasta.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас призвал как помощников, о Насатьи,  
 Пурамдхи во время (вашего) выезда для великого (свершения), о многополезные.  

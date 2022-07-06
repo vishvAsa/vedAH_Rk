@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡राशं꣡सः सुषूदति  
 इमं꣡ यज्ञ꣡म् अ꣡दाभियः  
 कवि꣡र् हि꣡ म꣡धुहस्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 क॒विः । हि । मधु॑ऽहस्त्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *narāśaṃsaḥ* ← *narāśaṃsa*
 - \[noun\], nominative, singular, masculine
@@ -76,41 +76,41 @@ genre M
 **नराशंसः** नरैः शंसनीयोऽयमग्निः **इमं** यज्ञम् इदं हविः वा 'सुषूदति सुष्ठु प्रेरयति । स देवः सुष्टु अदाभ्यः अहिंस्यः केनापि **कविः** मेधावी **मधुहस्त्यः** मधुरहस्त्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Narāśaṃsa animates this sacrifice he who is uninjurable, who verily is wise and sweet-handed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The undeceivable Narāśaṃsa will sweeten this sacrifice,  
 for he is the poet with honey in his hands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Narasamsa, ne'er beguiled, inspiriteth this sacrifice:  
      For sage is he, with sweets in hand.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the unbeguiled Narâsamsa make this sacrifice ready; for he is a sage with honey in his hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Narasamsa, der Unbeirrte, macht dies Opfer schmackhaft, denn er ist der Weise, mit Honig in der Hand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Männerpreis vollendet schön dies Opfer, der untrügliche; Denn Süsses hat er in der Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нарашанса  
 , не поддающийся обману,  

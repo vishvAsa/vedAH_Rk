@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वय꣡म् मघवन् पू꣡र्विये ध꣡न  
 इ꣡न्द्रत्वोताः सासह्याम पृतन्यतो꣡  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 वाजय꣡न्तो भ꣡रे कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 अ॒स्मिन् । य॒ज्ञे । वि । च॒ये॒म॒ । भरे॑ । कृ॒तम् । वा॒ज॒ऽयन्तः॑ । भरे॑ । कृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -161,7 +161,7 @@ genre M
 हे **मघवन्** । मघः सौख्यम् । तद्वन्निन्द्र **त्वया** साधनेन युक्ताः **वयम्** । अत एव इन्द्रत्वोताः अतिप्रबलेनेन्द्रेण त्वया रक्षिताः सन्तः ॥ ‘ प्रत्ययोत्तरपदयोश्च ' इति त्वादेशः । छान्दसम् आत्वम् ॥ **पृतन्यतः** पृतनाम् आत्मन इच्छतः प्रबलसेनायुक्तान् शत्रून् **ससह्याम** अभिभवेम। तथा **वनुष्यतः** अस्मत्प्रहाराय आगच्छतः शत्रून् **वनुयाम** तेषामागमनात्पूर्वमेव वयं संभजेम । किंच **पूर्व्ये** **धने** **अस्मिन्यज्ञे** **नेदिष्ठे** अत्यन्तसंनिहिते **अस्मिन्नहनि** अभिषवयुक्ते अद्यतने अहनि **सुन्वते** यजमानाय तदर्थम् **अधि** **वोच** । तं हविष्प्रदं यजमानं यज्ञं वा **नु** क्षिप्रमधिकं ब्रूहि ॥ लोटि व्यत्ययेन अङ् । ‘ वच उम्। किंच हे इन्द्र वयं यजमानाः **भरे** संग्रामे **कृतं** जयस्य कर्तारं त्वामुद्दिश्य तज्जयार्थं **वाजयन्तः** हविर्लक्षणान्नम् उपाचरन्तः **वि** **चयेम** । स्तोत्रादिकं हविरादिकं वा विचिनुयाम ॥ चिनोतेर्व्यत्ययेन शप् ॥ पुनः कीदृशं त्वाम् । **भरे** देवानां संग्रामे असुरजये देवानां सम्यग्भरणे वा **कृतं** कर्तारम् । भर इति संग्रामनाम, ‘ भरतेर्वा हरतेर्वा' (निरु. ४. २४) इति यास्कः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -172,7 +172,7 @@ genre M
 Bhare kṛtam = saṅgrāme jayasya kartāram; **bhara** iti saṅgrāmanāma, bharatervā haratervā (**Nirukta** 4.24)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With you, bounteous Indra, aided by you, may we overcome those who  do battle over the foremost stakes—may we win against those who  
 seek to win.  
@@ -182,7 +182,7 @@ match—seeking the prize, (may we pull out) the perfect one at
 the match.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation I treat the first member of the three-member cmpd índratvotāḥ as if it were a voc., since the lit. “aided by you, Indra” seems clumsy.
 
@@ -191,24 +191,24 @@ The verb ádhi vocā could also be a 1st sg. subj., but with most tr. I take it 
 With Geldner I consider ví cayema bháre kṛtám (f) a gambling expression; for another such expression see the previous hymn, I.131.5d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HELPED, Indra Maghavan, by thee in war of old, may we subdue in fight the men who strive with us, conquer the men who war with us.  
      This day that now is close at hand bless him who pours the Soma juice.  
      In this our sacrifice may we divide the spoil, showing our strength, the spoil of war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dir, du Gabenreicher, wollen wir im Kampf um den ersten Preis, mit deinem Beistand, o Indra, die Gegner besiegen, wollen wir die Eifersüchtigen übertrumpfen. An diesem nächsten Tage entscheide doch ja zu Gunsten des Somaopfernden. Bei diesem Opfer wollen wir den höchsten Wurf im Gewinnspiel aussuchen, nach dem Siegerpreis strebend den höchsten Wurf im Gewinnspiel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch dich, o mächtiger, mögen wir in dem alten Kampfe, von dir, o Indra, unterstützt die Feinde besiegen, überwinden die bekämpfenden; an diesem nächsten Tage mögest du nun dem Somapresser Muth einsprechen; bei diesem Opfer mögen wir die im Kampf gemachte Beute vertheilen, wir nach Gut verlangenden die im Kampf gemachte Beute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тобою, о щедрый, в (борьбе) за первую ставку,  
 Поддержанные тобою, Индрой, мы хотим одолеть нападающих,.  

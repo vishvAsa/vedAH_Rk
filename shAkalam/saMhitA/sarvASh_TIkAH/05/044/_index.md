@@ -25,7 +25,7 @@ title = "+044"
 ’तं प्रत्नथेति त्रयोदशानामेको शिष्ट्वाहूय दूरोहणं रोहेत्' (आश्व. श्रौ. ९. ९) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 44 (398)  
 All Gods  
@@ -57,7 +57,7 @@ As an aside, we might mention what appears to be a sly joke, located in almost  
 Although numerous puzzles remain in the hymn, we hope to have shown that  it is far from “hopeless.” It can be read as a consistent unity (though the unity we  see may not be the only possible one), and, as so often with complex hymns in the  R̥gveda, it is a meditation not only on the ritual but also on poetic craft.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods On the manifold difficulties of this hymn and a possible framework in which to interpret them (as a hymn simultaneously applicable to Agni and Soma), see published introduction.
 </details>

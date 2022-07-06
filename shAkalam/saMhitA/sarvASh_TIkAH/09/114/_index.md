@@ -8,7 +8,7 @@ title = "+114"
 ‘य इन्दोः' इति चतुर्ऋचमेकादशं सूक्तम् । ऋष्याद्याः: पूर्ववत् । तथा चानुक्रम्यते -- य इन्दोश्चतुष्कम्' इति । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 114 (826)  
 Soma Pavamāna  

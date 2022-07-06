@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अर्य꣡ इन्द्र तनुहि श्र꣡वांसि  
 ओ꣡ज स्थिरे꣡व ध꣡न्वनो ऽभि꣡मातीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡निभृष्टस् तनु꣡वं वावृधस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्म॒द्र्य॑क् । व॒वृ॒धा॒नः । सहः॑ऽभिः । अनि॑ऽभृष्टः । त॒न्व॑म् । व॒वृ॒ध॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 हे **इन्द्र** **अर्यः** स्वामी त्वं **श्रवांसि** अन्नानि । श्रव इत्यन्ननाम । अस्मभ्यं **वि** **तनुहि** विस्तारय । प्रयच्छ ॥ तनोतेर्लोटि उतश्च प्रत्ययाच्छन्दसि वावचनम् (पा. सू. ६. ४.१०६. १ ) इति हेर्लुगभावः ॥ तथा **अभिमातीः** । अभितो मातिर्मानं येषां तेऽभिमातयः शत्रवः । तान् प्रति **ओजः** आत्मीयं वीर्यं **स्थिरेव** स्थिराण्येव **धन्वनः** धनूंषि च विस्तारय । तैः शत्रूञ्जहीत्यर्थः । अपि च **अस्मद्र्यक्** अस्मदभिमुखाञ्चनः ॥  ‘ विष्वग्देवयोश्च टेरद्र्यञ्चतौ° १ ( पा. सू. ६, ३, ९२ ) इत्यद्र्यादेशः अद्रिसध्र्योरन्तोदात्तत्वेन निपातनात् ( पा, सू, ६, ३, ९५, १ ) उदात्तस्वरितयोर्यणः०' इति धातोरकास्यानुदात्तस्य स्वरितत्वम् ॥ **सहोभिः** आत्मीयैर्बलैः **वावृधानः** प्रवृद्धः अत एव अनिभृष्टः शत्रुभिरपरिभवनीयस्त्वं **तन्वम्** आत्मीयं शरीरं वावृधस्छव वर्धय । यद्वा । तन्वम् । तन्यत इति तनूर्यज्ञः । तं वर्धय । त्वदागमनेन हि यज्ञो वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M
 Augment your form: or,augment the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Loosen the fame of the stranger, Indra, and his might and hostilities like  the taut (strings) of a bow.  
 Turning toward us, having grown strong in your powers, unblunted,  
 make your body strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Extend afar the votary's fame and glory, as the firm archer's strength drives off the foeman.  
      Ranged on our side, grown strong in might that conquers, never defeated, still increase thy body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spann, Indra, des Nebenbuhlers Ruhm ab, seine Kraft, seine Anschläge wie die Straffheit des Bogens! Für uns dich stark machend an Kräften unabgestumpft, mache deinen Leib stark!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, steigre des ergebnen Kräfte, spann seine Kraft an, wie des Bogens Sehnen; Zu uns gewandt an Siegerkraft erstarkend, lass, nicht erlahmend, deinen Körper wachsen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ослабь, о Индра, славу врага.  
 (Его) мощь, словно тугие луки, (его) преследования!  

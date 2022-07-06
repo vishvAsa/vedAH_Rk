@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निक्र꣡मणं निष꣡दनं विव꣡र्तनं  
 य꣡च् च प꣡ड्बीशम् अ꣡र्वतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वा ता꣡ ते अ꣡पि देवे꣡षु अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यत् । च॒ । प॒पौ । यत् । च॒ । घा॒सिम् । ज॒घास॑ । सर्वा॑ । ता । ते॒ । अपि॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nikramaṇaṃ* ← *nikramaṇam* ← *nikramaṇa*
 - \[noun\], nominative, singular, neuter
@@ -124,41 +124,41 @@ popular;; repeated line
 यत् **निक्रमणम्** । नितरां क्रमते यत्र तन्निक्रमणं स्थानम् । नितरां सीदत्यत्रेति **निषदनम्** । **विवर्तनं** विविधवर्तनम् इतस्ततो लुण्ठनं यत्र तत् ॥ सर्वत्राधिकरणे ल्युट् ॥ **यच्च** **अर्वतः** **अश्वस्य** **पडबीशं** पदबन्धनम् । यद्वा । बन्धनं पट् तद्वान् प्रदेशः। अत्र सर्वत्र देवार्थस्याश्वस्य रोमादीनामपि निरर्थकत्वाभावाय तत्स्थानमपि स्वीक्रियते । यद्वा । क्रियापरावगन्तव्या । आलम्भसमये निग्रहेण या निक्रमणादयश्चेष्टाः सन्ति ता इत्यर्थः । **यच्च** **पपौ** यदुदकमपिबत् । **यच्च** **घासिम्** अदनीयं तृणादिकं **जघास** अभक्षयत् । हे अश्व **ते** तव **ता** तानि सर्वाणि निक्रमणादीनि **देवेष्वस्तु** सन्तु देवेषु व्याप्नोतु तान्यपि निरर्थकानि मा भूवन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the plural ce of going forth, of tarrying, of rolling on the ground; the foot-fastening of the horse, (the water) that he has drunk, the grass that he has eaten; may all these be thine among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The gear) that made him set his stride, come to a halt, and turn aside,  and the foot-fetter of the steed,  
 and what he drank and what fodder he ate—let all this of yours be also  among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The -ana-suffix on the nominals in pāda a marks them as transitive/causative in sense; I take these neut. singulars as referring to the tack that produce the various movements of the horse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The starting-place, his place of rest and rolling, the ropes wherewith the Charger's feet were fastened,  
      The water that he drank, the food he tasted,--among the Gods, too, may all these attend thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Worauf es schreitet, sich niederläßt, sich wälzt, und die Fußfessel des Rennpferdes, was es getrunken und an Futter gefressen hat, all das soll von dir bei den Göttern sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Worauf der Renner getreten, worauf er sich gelagert und herumgewälzt hat, und was seines Fusses Fessel war; was er[453] getrunken, und das Futter, was er verzehrt hat, das alles sei dein eigen bei den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На что он ступает, на что опускается, на чем катается,  
 И что ножные путы скакуна,  

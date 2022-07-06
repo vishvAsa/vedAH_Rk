@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡च् चन꣡ त्वो वि꣡ चिकेतद् एषां  
 सत्यो꣡ म꣡न्त्रः कविशस्त꣡ ऋ꣡घावान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवनि꣡दो ह प्रथमा꣡ अजूर्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्रिः॒ऽअश्रि॑म् । ह॒न्ति॒ । चतुः॑ऽअश्रिः । उ॒ग्रः । दे॒व॒ऽनिदः॑ । ह॒ । प्र॒थ॒माः । अ॒जू॒र्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etac* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
@@ -132,7 +132,7 @@ genre M
 **एषाम्** एतयोर्मध्ये ॥ बहुवचनं पूजार्थम् । यद्वा । तदनुचरापेक्षया बहुवचनम् ॥ एतयोर्मध्ये **त्वः** **चन** एक एव **एतत्** वक्ष्यमाणं सामर्थ्यरूपं कर्म **वि** **चिकेतत्** विशेषेण चेतति अनुतिष्ठतीत्यर्थः । सः विशेष्यते । स एकः **सत्यः** अबाध्यः सत्सु भवो वा **मन्त्रः** मननवान् **कविशस्तः** कविभिर्मेधाविभिः शंसनीयः **ऋघावान** हिंसावान् । अनेन वक्ष्यमाणस्य सामर्थ्यस्य संभाविता। प्रतिपादिता अभवदित्युक्तम् । किं तत् इत्याशङ्क्याह । **त्रिरश्रिम्** । अश्रित्रयोपेतमायुधं त्रिरश्रि । तद्वन्तम् ॥ मत्वर्थो लुप्यते ॥ उपलक्षणमेतत् । सर्वायुधसंपन्नमित्यर्थः । एतन्नामानं वा । **चतुरश्रिः** ततोऽप्यधिकायुधवान्। न केवलमायुधसामर्थ्यं किंतु **उग्रः** स्वयमुद्गूर्णबलः **हन्ति** हिनस्ति अतिबलं शत्रुम् । किंच युवयोः एकस्यैव सामर्थ्येन **देवनिदो** **ह** देवनिन्दकास्तु **प्रथमाः** समर्थाः सन्तोऽपि **अजूर्यन्** स्वयमेव जीर्णा भवन्ति ॥ जीर्यतेः श्यनि ‘ बहुलं छन्दसि इति उत्वम् ॥ युवयोर्मध्ये एकोऽपि महाबलः । मिलितयोस्तु सामर्थ्ये किमु वक्तव्यमिति भावः । अथवा । एषां युवयोः एतत् उत्तरत्र वक्ष्यमाणं सामर्थ्यम् एकः सत्यादिलक्षणो वि चिकेतत् विशेषेण जानाति । शेषं पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,14 +143,14 @@ genre M
 Etaccana tvā eṣām = etayor madhye tvasvana ekaḥ, one of you tow, the plural ral is honorific; **Mitra** or **Varuṇa**,if one of you can do such things (etad), how much more irresistible must you be together; or, eṣām = tad **anucara**, their followers of worshippers; triraśrim. hanti caturaśriḥ = lit. he who has a quadrangular weapon kills him who has a triangular one; i.e. implying one with most arms or weapons, adhikāyudhavān is more than a match for one who has fewer or inferior arms or weapons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many a one will not comprehend this (formulation?) of theirs, (but) the  virile mantra, proclaimed by poets, comes true.  
 The mighty four-edged (weapon) smites one with three edges; the  
 scorners of the gods were the first to waste away.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis of acíttam bráhma in 5c, I tentatively supply bráhma as the referent of etád here, which is the object of ví ciketat, and of tȧd in 3b, the object of ciketa. The web of neut. sg. + √cit is tight in these vss.; note also that our bráhma is touted as the ultimate weapon in the last hemistich of the hymn (7c). Pādas a and b in this verse are implicitly contrastive, so the referent of etád should be something that harmonizes with mántra-, but it cannot be mántra- itself, because that word is masc.
 
@@ -163,23 +163,23 @@ Whether the four-edged and three-edged weapons have precise referents is not cle
 Closer to the occurrence of cáturaśri- in 2a is áśman- ‘stone’ in 1d (i.e., the pāda immediately before). Since stones can be hurled (cf. I.172.2 āré áśmā yám ásyatha) and I know of no passage where the vajra is, if cáturaśri- has any clear referent in IV.22.2, it is probably the stone, not the mace. It is perhaps worth noting that IV.22.1c contains a string of words referring to ritual speech: bráhma stómam … ukthā́, which suggests at least an indirect connection between ritual speech and the four-edged weapon, as here. This leaves the three-edged weapon. Does it have a precise reference (say, a trident associated with non-divinities) or is the poet simply expressing the truism that higher numbers beat lower ones and four edges is better than three?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This might of theirs hath no one comprehended. True is the crushing word the sage hath uttered,  
      The fearful four-edged bolt smites down the three-edged, and those who hate the Gods first fall and perish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch das sieht mancher von diesen Menschen nicht ein. Wahr ist das von den Sehern verkündete drohende Dichterwort: Der gewaltige Vierkant schlägt den Dreikant: die Götterschmäher wurden zuerst altersschwach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht jeder Mensch vermag es zu verstehen; doch bleibet wahr das mächt'ge Wort der Seher: »Die starke Vierkantwaffe schlägt den Dreikant; zuerst vergingen stets die Götterhasser.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не каждый из них поймет это.  
 Истинно произнесенное поэтами потрясающее высказывание:  

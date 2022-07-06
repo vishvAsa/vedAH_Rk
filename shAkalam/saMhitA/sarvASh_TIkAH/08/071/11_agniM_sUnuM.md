@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ सूनुं꣡ स꣡हसो जात꣡वेदसं  
 दाना꣡य वा꣡रियाणा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 हो꣡ता मन्द्र꣡तमो विशि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 द्वि॒ता । यः । भूत् । अ॒मृतः॑ । मर्त्ये॑षु । आ । होता॑ । म॒न्द्रऽत॑मः । वि॒शि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -106,7 +106,7 @@ genre M;; repeated line
 **अग्निं** **सहसः** **सूनुं** बलस्य पुत्रं **जातवेदसं** जातधनं **वार्याणां** वरणीयानां गवादिधनानां **दानाय** गिरः अच्छ यन्त्वित्यनुवर्तते । **यः** अग्निः **अमृतः** अमरणधर्मा देवेषु भवति सः **मर्त्येष्वा** । आकारश्चार्थे । मनुष्येषु चाभूत् अभवदित्येवं **द्विता** द्वैधं भवति । देवेष्वमृतत्वमस्य प्रसिद्धं मनुष्येषु कीदृशोऽभूदिति उच्यते । **विशि** विक्षु यजमानरूपासु प्रजासु **होता** होमनिष्पादकः **मन्द्रतमः** मादयितृतमश्च भवति । अच्छ यन्विति समन्वयः । अथवा योऽमृतो द्विता द्वित्वं द्वैधं द्विप्रकारोऽभूत् । कथम् । मर्त्येषु सामान्येन दाहपाकादिसाधनोऽभवदित्येतत् प्रसिद्धं विशि यजमानरूपायां तु होता मन्द्रतमः अभवदित्येवं द्वित्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ Wh os doubly immortal (amonggods) and among men, a being equivalent to ca;
 Viśi = vikṣu **yajamāna** rūpasu; in the house or in the family
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Agni, the son of strength, Jātavedas, for a gift of valuable things, (Agni,) who once again has come to be the immortal here among  
 mortals, the most delighting Hotar in the clan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Agni Jatavedas, to the Son of Strength, that he may give us precious gifts,  
      Immortal, from of old Priest among mortal men, the most delightful in the house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Agni, dem Sohn der Kraft, zu Jatavedas, daß er Kostbarkeiten schenke, der abermals, der Unsterbliche bei den Sterblichen, in der Niederlassung der wohlredendste Opferpriester ward.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wesenkenner Agni, ihm, dem Sohn der Kraft, damit er Güter uns verleih, Ihm, der fürwahr unsterblich bei den Sterblichen, im Haus der liebste Priester ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

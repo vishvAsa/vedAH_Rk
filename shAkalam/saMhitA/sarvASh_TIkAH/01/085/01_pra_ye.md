@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ शु꣡म्भन्ते ज꣡नयो न꣡ स꣡प्तयो  
 या꣡मन् रुद्र꣡स्य सून꣡वः सुदं꣡ससः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡दन्ति वीरा꣡ विद꣡थेषु घृ꣡ष्वयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 रोद॑सी॒ इति॑ । हि । म॒रुतः॑ । च॒क्रि॒रे । वृ॒धे । मद॑न्ति । वी॒राः । वि॒दथे॑षु । घृष्व॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -128,20 +128,20 @@ genre M
 **ये** **मरुतः** **यामन्** यामनि गमने निमित्तभूते सति **प्र** **शुम्भन्ते** प्रकर्षेण स्वकीयान्यङ्गानि अलंकुर्वन्ति **जनयो** **न** जाया इव । यथा योषितः स्वकीयान्यङ्गान्यलंकुर्वन्ति तद्वत् । कीदृशा मरुतः । **सप्तयः** सर्पणशीलाः **रुद्रस्य** **सूनवः** । रोदयति सर्वमन्तकाले इति रुद्रः परमेश्वरः । तस्य पुत्राः । **सुदंससः** शोभनकर्माणः । एतदेवोपपादयति । **हि** यस्मात् मरुतः **रोदसी** द्यावापृथिव्यौ **वृधे** वृष्टिप्रदानादिना वर्धनाय **चक्रिरे** कृतवन्तः । अतः सुदंसस इत्यर्थः । **वीराः** विशेषेण शत्रुक्षेपणशीलाः **घृष्वयः** घर्षणशीलाः । महीरुहशिलोच्चयादेर्भञ्जका इत्यर्थः । एवंभूतास्ते मरुतः **विदथेषु** । विदन्त्येषु यष्टव्यतया देवानिति विदथा यज्ञाः। तेषु **मदन्ति** सोमपानेन हृष्यन्ति ॥ शुम्भन्ते । शुभ शुम्भ दीप्तौ' । भौवादिकः । जनयः । जायन्ते आस्वपत्यानीति जनयो जायाः।  ‘ इन्सर्वधातुभ्यः इति इन्प्रत्ययः । यामन् ।  ‘ या प्रापणे ' ।  ‘ कृत्यल्युटो बहुलम्' इति बहुलवचनात् “ आतो मनिन्’ इति भावे मनिन् ।' सुपां सुलुक्° ' इति सप्तम्याः लुक् । सुदंससः । दंसः इति कर्मनाम । शोभनं दंसो येषाम् । सोर्मनसी अलोमोषसी ' इत्युत्तरपदाद्युदात्तत्वम् । चक्रिरे ।  ‘ हि च' इति निघातप्रतिषेधः । वृधे । **वृधु** वृद्धौ । संपदादिलक्षणो भावे क्विप् । **सावेकाचः'** इति विभक्तेरुदात्तत्वम् । मदन्ति । मदी हर्षे '। श्यनि प्राप्त व्यत्ययेन शप् । पादादित्वात् निघाताभावः । विदथेषु ।  ‘ विद ज्ञाने ।  ‘ रुविदिभ्यां कित्' इति अथप्रत्ययः । घृष्वयः ।  ‘ घृषु संघर्षे '।  ‘ कृविघृष्वि° । इत्यादिना विन्प्रत्ययान्तो निपात्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** who are going forth decorate themselves like feminine les; they are gliders (through the air), the sons of **Rudra**, and doers of good works by which they promote the welfare of earth and heaven; heroes, who grind (solid rocks), they delight in sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who go forth in beauty like wives, spanned together on their  journey, the sons of Rudra, possessing wondrous power—  
 for the Maruts made the two world-halves grow strong—the heroes  reach exhilaration, eager at the rites.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because of the frequent association of the root √śu(m)bh with verbs of motion, esp. √yā ‘drive’ (cf., e.g., nearby I.88.2 śubhé káṃ yānti and cmpds śubhaṃ-yā́(van- )), I interpret prá … śúmbhante more dynamically than most tr. (e.g., Geldner “Die sich wie Frauen schön machen…”), esp. given yā́man in the same clause.
 
@@ -152,23 +152,23 @@ This clause contains a periphrastic causative cakriré vṛdhé with a medial pe
 It is also worth noting (though I don’t quite know what to do with this fact) that of the fifteen occurrences of cakriré / cakrire in the RV, four of them are found in this hymn (vss. 2, 7, 10 in addition to this one), a strikingly large percentage. And that the three finite verbs in vs. 2 are all medial 3rd pl. with strong subject involvement: pāda a mahimā́nam āśata “obtained (their own) greatness,” b cakrire sádaḥ “made (their own) seat,” and c ádhi śríyo dadhire “put on (their own) splendours.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THEY who are glancing forth, like women, on their way, doers of mighty deeds, swift racers, Rudra's Sons,  
      The Maruts have made heaven and earth increase and grow: in sacrifices they delight, the strong and wild.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich wie Frauen schön machen, die Gespanne auf der Fahrt, die guteswirkenden Rudrasöhne - denn die Marut haben beide Welten hochgebracht - die Männer berauschen sich an den weisen Reden, darauf begierig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Rudra Söhne, die an Wunderthaten reich auf ihrer Fahrt schön prangen wie gescharte Fraun, Die Maruts sind's, die Erd' und Himmel segneten, die lust'gen Helden freuen bei den Festen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, кто украшает себя, как женщины, (как) упряжки  
 В дорогу, сыновья Рудры, совершающие прекрасные деяния, -  

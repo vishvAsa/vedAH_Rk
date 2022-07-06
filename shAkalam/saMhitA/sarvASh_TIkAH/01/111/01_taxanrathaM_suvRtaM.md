@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡क्षन् र꣡थं सुवृ꣡तं विद्मना꣡पसस्  
 त꣡क्षन् ह꣡री इन्द्रवा꣡हा वृ꣡षण्वसू  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡क्षन् वत्सा꣡य मात꣡रं सचाभु꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तक्ष॑न् । पि॒तृऽभ्या॑म् । ऋ॒भवः॑ । युव॑त् । वयः॑ । तक्ष॑न् । व॒त्साय॑ । मा॒तर॑म् । स॒चा॒ऽभुव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *takṣan* ← *takṣ*
 - \[verb\], plural, Present injunctive
@@ -121,44 +121,44 @@ genre M
 **विद्मनापसः** उत्कृष्टेन ज्ञानेन निष्पाद्यकर्माणो लाभवत्कर्माणः वा ऋभवः **रथम्** अश्विनोः आरोहणार्थं **सुवृतं** शोभनवर्तनं सुचक्रं वा **तक्षन्** अकुर्वन् । तथा **इन्द्रवाहा** इन्द्रस्य वाहनभूतौ **हरी** । हरणशीलावेतत्संज्ञकावश्वौ **तक्षन्** कृतवन्तः । कीदृशौ । **वृषण्वसू** सेचनसमर्थेन दृढतरेण धनेन बलेन वा युक्तौ । अपि च **पितृभ्यां** स्वकीयाभ्यां मातापितृभ्यां वृद्धाभ्यां **युवत्** यौवनोपेतं **वयः** आयुः **ऋभवः** **तक्षन्** कृतवन्तः । तथा **वत्साय** **मातरं** गां **सचाभुवं** सहभुवं सह वर्तमानां **तक्षन्** अकुर्वन् ॥ तक्षन् । तक्षू त्वक्षू तनूकरणे ' । लङि • बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । सुवृतम् । शोभनं वर्तते इति सुवृत् ।' वृतु वर्तने ।  ‘ क्विप् च ' इति क्विप् । विद्मनापसः ।  ‘ विद ज्ञाने'। अन्येभ्योऽपि दृश्यन्ते ' इति दृशिग्रहणात् भावे मनिन् । संज्ञापूर्वकस्य विधेरनित्यत्वात् गुणाभावः । बहुलवचनात् अलुक् । यद्वा ।  ‘ विद्लृ लाभे' । औणादिको भावे मक् । ततः पामादिलक्षणो नप्रत्ययः । विद्मनं लाभवत् अपः कर्म येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । छान्दसः पूर्वसवर्णदीर्घः । इन्द्ववाहा । इन्द्रं वहतः इतीन्द्रवाहौ ।' वहश्च ' इति ण्विप्रत्ययः ।  ‘ अत उपधायाः' इति वृद्धिः ।  ‘ सुपां सुलुक्' इति विभक्तेः आकारः । वृषण्वसू । वृष सेचने ।  ‘ कनिन्युवृषितक्षि° ' इत्यादिना कनिन् । नित्त्वादाद्युदात्तत्वम् । वृषण्वस्वश्वयोरुपसंख्यानम् । ( पा. सू. १. ४. १८. ४) इति वसुशब्दे उत्तरपदे वृषण्भावः । . बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । युवत् । अत्र युवञ्शब्दः सामर्थ्यात् प्रवृत्तिनिमित्तं युवत्वमात्रमाचष्टे । तदस्यास्त्यस्मिन्” इति युवत् छान्दसो वर्णलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Ṛbhus**, possessed of skill in their work, constructed (for the **Aśvins**) a well-built car; they framed the vigorous horses bearing **Indra**; they gave youthful existence to their parents; they gave to the calf its accompanying mother.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They fashioned the smooth-rolling chariot, working with their  
 know-how; they fashioned the two fallow bays that convey Indra and  bring bullish goods.  
 They fashioned—the R̥bhus—for their parents youthful vigor; they  fashioned for the calf a mother to stay by it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vidmanā́pasaḥ is formally odd, though clear in meaning. Given the independent instr. vidmánā in the preceding hymn (I.110.6), we might expect a phrase *vidmánā *apásaḥ “working with know-how,” with the internally derived apás- ‘laboring’ to neut. ápas- ‘labor’. But though the sandhi would support this interpr., the accents are wrong on both words. For Wackernagel’s somewhat confused treatment of the cmpd., see comm. ad I.31.1. The correct analysis is, in my view, vidmanā-ápas-, a bahuvrīhi built to the neut. s-stem ápas- ‘labor’, work’, with the instr. to vidmán- as 1st member. The 2nd member receives the accent, somewhat unusually for a bahuvrīhi, like some other cmpds. with -as-stems as 2nd member.
 
 Geldner refuses to tr. vṛ́ṣaṇvasū, which seems just peevish, given the far more difficult words he’s willing to tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WORKING with skill they wrought the lightly rolling car: they wrought the Bays who bear Indra and bring great gifts.  
      The Rbhus for their Parents made life young again; and fashioned for the calf a mother by its side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie zimmerten den gutlaufenden Wagen der Asvin, kundig zu Werk gehend; sie zimmerten das Falbenpaar, das den Indra fährt, das ......Ihren Eltern zimmerten die Ribhu´s jugendliches Alter; sie zimmerten dem Kalbe eine begleitende Mutter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schnellen Wagen schuf die weise Künstlerschar, die stiergewalt'gen Füchse, die den Indra ziehn, Die Ribhu's schufen Jugendkraft dem Aelternpaar, dem Kalb die Mutter, die mit ihm sich neu vereint.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они смастерили легкоходную колесницу со знанием дела.  
 Они смастерили двоих коней, везущих Индру, полных мужеских сил.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अ꣡त्य इव मृज्य꣡ते  
 गो꣡भिर् म꣡दाय हर्यतः꣡  
 तं꣡ गीर्भि꣡र् वासयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तम् । गीः॒ऽभिः । वा॒स॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आदिभिर्वा मृज्यते मिश्र्यते । किमर्थम् । **मदाय** देवानाम् । कीदृशः । यः **हर्यतः** कान्तः । **तं** सोमं **गीर्भिः** स्तुतिभिः **वासयामसि** वासयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,34 +97,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 With milk: or, with the vasatīvarī water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who is groomed like a steed with cows [=milk], for exhilaration,  the delightful one—  
 him do we clothe with hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phonological near-identity of instr. pl. góbhiḥ and gīrbhíḥ allows them to be conceptually assimilated to each other, and note that vāsáya- ‘clothe’ is frequently also used with góbhiḥ: e.g., IX.8.5 sáṃ góbhir vāsayāmasi (also IX.2.4, 14.3, 66.13).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE will enrobe with sacred song the Lovely One who, as a Steed,  
      Is decked with milk for rapturous joy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wie ein Rennpferd geputzt wird mit der Milch zur Berauschung, der Begehrenswerte, ihn decken wir mit Lobreden zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der wie ein Ross gereinigt wird mit Milch zum Rausch, der liebliche, Ihn hüllen wir mit Liedern ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

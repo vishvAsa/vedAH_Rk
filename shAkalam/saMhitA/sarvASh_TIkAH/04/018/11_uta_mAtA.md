@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ माता꣡ महिष꣡म् अ꣡न्व् अवेनद्  
 अमी꣡ तुवा जहति पुत्र देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खे विष्णो वितरं꣡ वि꣡ क्रमस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अथ॑ । अ॒ब्र॒वी॒त् । वृ॒त्रम् । इन्द्रः॑ । ह॒नि॒ष्यन् । सखे॑ । वि॒ष्णो॒ इति॑ । वि॒ऽत॒रम् । वि । क्र॒म॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -129,42 +129,42 @@ popular
 **उत** अपि च हे मदीय **पुत्र** इन्द्र **अमी** वह्नयादयः **देवाः** **त्वा** त्वां **जहति** त्यजन्ति । इत्युक्तवतीन्द्रस्य **माता** अदितिः इन्द्रं **महिषं** महान्तम् । महिष इति महन्नामैतत् । **अन्ववेनत्** अयाचत । **अथ** अनन्तरं हे **विष्णो** व्यापनशील हे **सखे** मित्रभूत हरे त्वं **वृत्रं** **हनिष्यन्** हन्तुम् इच्छन् **वितरं** **वि** **क्रमस्व** अतिपराक्रमी भव इति **इन्द्रः** विष्णुम् 'अब्रवीत उवाच ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His mother inquired of the mighty **Indra**, have these deities deserted you, my son? then Indra and **Viṣṇu**, my friend (if you) purpose slaying **Vṛtra** exert your greatest prowess.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And his mother followed the track of the buffalo, (thinking,) “Yonder  gods are abandoning you, my son.”  
 Then Indra said as he was about to smash Vr̥tra: “Viṣṇu, my  
 companion, stride out widely.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The plot gets a bit murky here. His mother, having sent him off alone in vs. 10, now follows him, with the fear that the gods are abandoning him. This seems to happen much later, just before the Vṛtra battle and long after the birth and her own abandonment of the baby. But, despite her fears about the other gods, Indra finds a companion on his own -- Viṣṇu, who is not usually a party to the Vṛtra battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then to her mighty Child the Mother turned her, saying, My son, these Deities forsake thee.  
      Then Indra said, about to slaughter Vrtra, O my friend Vrtra, stride full boldly forward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die Mutter blickte dem Büffel nach: "Mein Sohn, jene Götter lassen dich im Stich." Da sprach Indra, im Begriff den Vritra zu erschlagen: "Freund Vishnu, schreite so weit als möglich aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann wandte sich zum hohen Sohn die Mutter: »Mein Sohn, die Götter lassen dich im Stiche.« Und Indra sprach, den Streich nach Vritra führend, »o Vischnu, Freund, geh etwas doch zur Seite.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И мать оглянулась на буйвола:  
 Те боги, о сын, тебя подводят.  

@@ -6,7 +6,7 @@ ChandaH = "विराट्पूर्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ इन्द्रअग्नि꣡भ्याम्  
 अ꣡हावि हवियं꣡ शूष्यं  
@@ -16,7 +16,7 @@ ChandaH = "विराट्पूर्वा"
 इ꣡षं गृण꣡त्सु दिधृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M
 ता । सू॒रिषु॑ । श्रवः॑ । बृ॒हत् । र॒यिम् । गृ॒णत्ऽसु॑ । दि॒धृ॒त॒म् । इष॑म् । गृ॒णत्ऽसु॑ । दि॒धृ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evendrāgnibhyām* ← *eva*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 **एव** एवमिदानीं क्रियमाणप्रकारेण । स्तुतिसाहित्येनेत्यर्थः । **इन्द्राग्निभ्यां** **हव्यं** हविः **अहावि** परित्यक्तमासीत् । कीदृशं तत् । **शूष्यं** बलकरम् । किमिव । **अद्रिभिः** ग्रावभिः **पूतम्** अभिषुतं **घृतं** न सोमरसमिव । तद्यथा युवाभ्यां प्रदीयते तद्वच्चरुपुरोडाशादिकमपि । **ता** तौ देवौ **सूरिषु** मेधाविष्वस्मासु **बृहत्** प्रभूतं **श्रवः** अन्नं यशो वा **रयिं** धनं च **दिधृतं** धारयतम् **इषम्** अन्नं **गृणत्सु** स्तुवत्सु दिधृतम् । पुनरुक्तिरादरार्था ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ genre M
 Like the Soma juice expressed: ghṛtam na pūtam adribhiḥ: mention of the stones restricts the sense of ghṛtam to the Soma effusion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus to Indra and Agni this forceful oblation [/invocation] has been  offered, like ghee purified by stones.  
 You two, fix lofty fame fast in the patrons, wealth in the singers—fix  refreshment in the singers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 havyá, so accented, is generally ‘oblation’, as opposed to hávya- ‘invocation’.
 
@@ -160,23 +160,23 @@ However, in this case it is difficult not to see a pun, with the hymn just compl
 This pun may help explain the curious expression “like ghee purified by stones” (ghṛtáṃ ná pūtám ádribhiḥ). The problem of course is that it is soma, not ghee, that is purified by stones. It is very doubtful that stones could play a role in preparing melted butter (pity the poor cow), and although the root √pū is occasionally used of ghṛtá- (e.g., VI.10.2 and esp. the very similar VIII.12.4 ghṛtáṃ ná pūtám adrivaḥ) -- and consider the English term for ghee, “clarified butter” -- it is overwhelming characteristic of soma. The standard tr. deal with the disharmony in this simile by separating it into two -- e.g., Geldner “durch die Presssteine (gepresst), wie Schmalz geklärt.” By contrast, I think the ill-assorted technology in the simile was deliberately introduced, to match the same punning lack of fit in the frame, where the forceful/noisy havyá- has been poured (áhāvi): the jarring “ghee pressed by stones” calls attention to the more subtle mismatch in the frame. We might almost call this ritual synaesthesia.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The strength-bestowing offering thus to Indra-Agni hath been paid, as butter, purified by stones.  
      Deal to our princes high renown, deal wealth to those who sing your praise, deal food to those who sing your praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also wurde Indra und Agni ein anreizendes Opfer dargebracht, durch die Preßsteine gepreßt, wie Schmalz geklärt. Sichert also den Lohnherren hohen Ruhm, Reichtum den Lobsängern, sichert den Lobsängern Speisegenuß!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wurde kräft'ger Opferguss von Steinen, reiner Butter gleich, dem Indra, Agni ausgepresst. Sie mögen hohen Ruhm den Herrn, und Gut verleihn den Preisenden, (und Trunk verleihn den Preisenden.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так Индре-Агни была принесена жертва,  
 Сопровождаемая гимном, очищенная словно жир, (выжатая) камнями.  

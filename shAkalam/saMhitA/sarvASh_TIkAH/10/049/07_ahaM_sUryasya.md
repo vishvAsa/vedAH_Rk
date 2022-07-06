@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ सू꣡र्यस्य प꣡रि यामि आशु꣡भिः  
 प्र꣡ एतशे꣡भिर् व꣡हमान ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ऋ꣡धक् कृषे · दा꣡सं कृ꣡त्वियं ह꣡थैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । मा॒ । सा॒वः । मनु॑षः । आह॑ । निः॒ऽनिजे॑ । ऋध॑क् । कृ॒षे॒ । दास॑म् । कृत्व्य॑म् । हथैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -125,36 +125,36 @@ genre M
 **अहं** **सूर्यस्य** देवस्य **आशुभिः** शीघ्रगामिभिः **एतशेभिः** एतशवर्णैरश्वैः **वहमानः** उह्यमानः **ओजसा** आत्मीयेन बलेन प्रकर्षेण **परि** **यामि** परिगच्छामि सूर्यात्मना । किंच **यत्** यदा **मा** मां **मनुषः** मनुष्यस्य **सावः** सोमाभिषवः **आह** ब्रूते । आह्वयतीत्यर्थः । किमर्थमाह । **निर्णिजे** । निर्णिगिति रूपनाम । यज्ञस्वरूपायेत्यर्थः । तदानीं **कृत्व्यं** कर्तव्यम् । हन्तव्यमित्यर्थः । **दासम्** उपक्षपयितारं शत्रुं **हथैः** हननसाधनैः **ऋधक्कृषे** पृथक्करोमि । ऋधगित्ययं पृथगर्थे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Conveyed by the swift white horses of **Sūrya**, I hasten forth by my power; when the effused libation ofa man invokes me to the brilliant form of the sacrifice, I drive off with my weapons the destroyer who is to beslain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I drive around with the swift (horses) of the Sun, being conveyed forth  in my might by the Etaśas.  
 When the soma-pressing of Manu says to me (that it [=soma] is) for my  raiment, I will sideline (even) the effective Dāsa with my thrusts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I travel round about borne onward in my might by the fleet-footed dappled Horses of the Sun.  
      When man's libation calls me to the robe of state I soon repel the powerful Dasyu with my blows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich überhole mit den Rennern des Surya, mit den Etasa´s kraftvoll vorausfahrend. Als die Anweisung des Menschen mir zur Verkleidung riet, da beseitigte ich mit meinen Streichen den siegesgewissen Dasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich eile, vorwärts fahrend mit den schimmernden, den raschen Sonnen-Rossen rings mit grosser Kraft; Wenn mich des Menschen Somasaft zum Trunke lud, dann schaff' durch Hiebe ich den starken Dämon fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я езжу кругом на быстрых (конях) Сурьи,  
 Мощно продвигаясь вперед на Эташах.  

@@ -6,14 +6,14 @@ ChandaH = "ऊर्ध्वबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् ईं के꣡ चित् प꣡श्यमानास आ꣡पियं  
 वसुरु꣡चो दिविया꣡ अभ्य् अ᳡नूषत  
 वा꣡रं न꣡ देवः꣡ सविता꣡ वि꣡ ऊर्णुते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वार॑म् । न । दे॒वः । स॒वि॒ता । वि । ऊ॒र्णु॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -106,20 +106,20 @@ genre M
 **आत्** अनन्तरं **पश्यमानासः** एनं पश्यन्तः **दिव्याः** दिवि भवाः **वसुरुचः** नाम **के** **चित्** **आप्यं** बन्धुं साधुम् **ईम्** एनं सोमम् **अभ्यनूषत** अभ्यस्तुवन् । कस्मादनन्तरमिति उच्यते । **देवः** द्योतमानः **सविता** सर्वस्य प्रेरकः सूर्यः **वारम्** आवरकमन्धकारं **न** **व्यूर्णुते** नापगमयति तदैनमस्तुवन् । सूर्योदयात् प्रागेव हि सोमं स्तुवन्ति खलु ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Beholding him certain celestial Vasurucas praise him as a kinsman before the shining **Savitā** drives away the obstructing (darkness).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because of that, seeing for themselves a friendship with him who is  radiant with goods [=Soma], some heavenly beings roared to him.  
 He uncovers the fleece as the god Savitar uncovers a desirable thing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to follow from vs. 5; it begins ā́d ‘just after that, because of that’, which signals temporal or logical nexus - though what that nexus is remains unclear to me. The indefinite ké cid of pāda a also echoes the káṃ cid of 5b, but, again, the reasons why escape me. The vs. isn’t as desperately difficult as 5 but it has more than its share of problems.
 
@@ -149,23 +149,23 @@ A very challenging tṛca, esp. the last two vss.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then, beautifully radiant, certain Heavenly Ones, have sung to him their kinship as they looked thereon,  
      And Savitar the God opens as 'twere a stall.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da haben gewisse Leute, die seine Bundesgenossenschaft sahen, himmlische vom Glanze der Vasu´s, ihm zugeschrieen. Er deckt wie Gott Savitri seinen verborgenen Schatz auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt haben alle himmlischen, erstrahlenden ihm zugejauchzt erblickend den Befreundeten, Reichthum erschliesst er gleich dem Gotte Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тогда, видя союз (с сомой), некие небесные  
 (Существа,) сверкающие, как Васу, приветствовали его криками.  

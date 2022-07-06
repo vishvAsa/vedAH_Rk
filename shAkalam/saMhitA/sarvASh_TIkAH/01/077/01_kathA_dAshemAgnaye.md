@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ दाशेम अग्न꣡ये का꣡ अस्मै  
 देव꣡जुष्टा उच्यते भामि꣡ने गीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡ता य꣡जिष्ठ इ꣡त् कृणो꣡ति देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यः । मर्त्ये॑षु । अ॒मृतः॑ । ऋ॒तऽवा॑ । होता॑ । यजि॑ष्ठः । इत् । कृ॒णोति॑ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -132,48 +132,48 @@ genre M
 **अस्मै** **अग्नये** **कथा** **दाशेम** कथं हवींषि ददाम । अग्नेरनुरूपं यज्ञं कर्तुमशक्ता वयमित्यर्थः । अथवा अस्मै **भामिने** तेजस्विनेऽग्नये **देवजुष्टा** सर्वैः देवैः सेवितव्या **गीः** वाक् स्तुतिरपि **का** कीदृशी **उच्यते** । तादृशीं स्तुतिमपि कर्तुं न शक्ता इत्यर्थः । **अमृतः** मरणरहितः **ऋतावा** ऋतवान् सत्यवान् यज्ञवान् वा **होता** देवानामाह्वाता होमनिष्पादको वा **यजिष्ठः** अतिशयेन यष्टा एवंभूतः **यः** अग्निः **मर्त्येषु** मरणधर्मसु अस्मासु वर्तमानः सन् **देवान्** **इत्** **कृणोति** हविर्भिर्युक्तान्करोत्येव । तादृशायाग्नये कथा दाशेमेति पूर्वेणान्वयः ॥ कथा । ' था हेतौ च च्छन्दसि ' इति थाप्रत्ययः ॥ भामिने । 'भा दीप्तौ ।' अर्तिस्तुसु° ' इत्यादिना मन्प्रत्ययः । ततो मत्वर्थीय इनिः । ऋतावा ‘ छन्दसीवनिपौ' इति मत्वर्थीयो वनिप्। **अन्येषामपि** दृश्यते' इति दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What (oblations) may we offer to **Agni**? What praise is addressed to the luminous (Agni) that is agreeable to the gods? that Agni who is immortal and observant of truth, who is the invoker of the gods, the performer of sacrifices, and who, (present) amongst men, conveys oblations to the deities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How should we do pious service to Agni? Which hymn enjoyable to the  gods is spoken to him, the radiant—  
 the one who, the immortal among mortals, the truthful Hotar, as the  best sacrificer just does so [=sacrifices] to the gods?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All tr. take the kṛṇóti in d as if it were ā́kṛṇóti as in 2b, with the meaning “attract the gods hither.” But the ā́√kṛ idiom in vs. 2 is medial, and there is no ā́here.
 
 I prefer to take kṛṇóti as a dummy verb, standing for yájati, extracted from yájiṣṭhaḥ ‘best sacrificer’. Hence “does so,” that is “sacrifices.” This also helps account for the íd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How shall we pay oblation unto Agni? What hymn, Godloved, is said to him refulgent?  
      Who, deathless, true to Law, mid men a herald, bringeth the Gods as best of sacrificers?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How shall we sacrifice to Agni? What words, agreeable to the god, shall be addressed to him, the luminous one, who, being immortal and righteous, the Hotri, the best sacrificer, conveys the gods to the mortals 1?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie sollen wir dem Agni opfern, welche Lobrede wird dem Strahlenden als gottgefällig vorgetragen? Der der Unsterbliche unter den Sterblichen, als rechtmäßiger, bestopfernder Hotri die Götter gewinnt;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie sollen wir dem Agni dienen? welch Lied beliebt bei Göttern tönt dem glanzbegabten? Der heilig unter Sterblichen unsterblich als bester Opfrer uns die Götter herschafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как почтить нам Агни? Какая речь,  
 Приятная богу, (должна) произноситься для этого сверкающего  

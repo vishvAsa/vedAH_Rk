@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अद्य꣡ वाम् अयं꣡  
 स्तो꣡मो वा꣡हिष्ठो अ꣡न्तमः  
 युवा꣡भ्याम् भूतु अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यु॒वाभ्या॑म् । भू॒तु॒ । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -81,35 +81,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अद्य** इदानीम् **अस्माकम्** **अयं** **स्तोमः** अस्मदीयं स्तोत्रं हे अश्विनौ **वां** युवयोः **वाहिष्ठः** वाहयितृतमः प्रापयितृतमः सन् **युवाभ्याम्** **अन्तमः** अन्तिकतमः अतिशयेन समीपवर्ती **भूतु** भवतु । ' तमे तादेश्च' (पा. सू. ६. ४. १४९. ९) इत्यन्तिकशब्दस्य तादिर्लुप्यते । भवतेश्छान्दसः शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this our praise today be conveyed successfully to you, **Aśvins**, and be most near to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today let this praise song of ours, which best conveys you nearest, be for you two, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this our hymn of praise to-day, most powerful to bring you, be,  
      O Asvins, nearest to your hearts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses unser Loblied soll euch heut am meisten anziehen, soll euch am meisten nahe gehen, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies unser Loblied möge euch, o Ritter, das willkommenste Und liebste sein am heut'gen Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это наше восхваление сегодня  
 Пусть притягивает вас больше всех,  

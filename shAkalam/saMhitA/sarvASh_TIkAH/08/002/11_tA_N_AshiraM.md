@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ताँ꣡ आशि꣡रम् पुरोळा꣡शम्  
 इ꣡न्द्रेमं꣡ सो꣡मं श्रीणीहि  
 रेव꣡न्तं हि꣡ त्वा शृणो꣡मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 रे॒वन्त॑म् । हि । त्वा॒ । शृ॒णोमि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
@@ -86,41 +86,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** **तान्** पूर्वोक्तान् सोमान् **आशिरं** श्रयणद्रव्यं च क्षीरादिकं **श्रीणीहि** मिश्रय यागार्थम् । तदनन्तरं **पुरोळाशं** धानाकरम्भादिलक्षणं सवनीयपुरोडाशम् **इमम्** अस्मदीयं **सोमं** च श्रीणीहि मिश्रय । प्रथमं भक्षितं पुरोळाशं पश्चात्पीतेन सोमेन संयोजयेत्यर्थः । तव प्रार्थने को हेतुरिति चेत् । **हि** यस्मात् **रेवन्तं** रयिमन्तम् । ‘ रयेर्मतौ बहुलम्' इति संप्रसारणम् । बहुलधनं त्वां **शृणोमि** त्वं बहुधन इति सर्वत्र श्रूयते अतः कारणात् त्वामेव प्रार्थयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mix, **Indra**, the milk and **Soma**, (add) the cake to this libation. I hear that you are possessed of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Prepare these: the milk mixture, the offering cake, and this soma here,  o Indra,  
 for I hear that you are endowed with riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is a little odd to command Indra to undertake the sacrificial preparations that are really our job. Presumably once again (see VIII.1.19) Indra is conceived of as the indirect agent: by coming to our sacrifice he sets our preparations in motion, and our impetus for this preparation is the knowledge that he has riches to distribute.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, pour in milk, prepare the cake, and mix the Soma-draught.  
      I hear them say that thou art rich.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mische diese, die Milch, den Reiskuchen und diesen Soma, o Indra, denn ich höre, du seiest reich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen Milchguss, diesen Kuchen und den Soma, Indra, mische; Denn ein reicher bist du, hör' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смешивай их: добавление молока,  
 Жертвенную лепешку, о Индра, этого сому!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धि꣡यं वो अप्सु꣡ दधिषे सुवर्षां꣡  
 य꣡या꣡तरन् द꣡श मासो꣡ न꣡वग्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अया꣡ धिया꣡ तुतुर्यामा꣡ति अं꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒या । धि॒या । स्या॒म॒ । दे॒वऽगो॑पाः । अ॒या । धि॒या । तु॒तु॒र्या॒म॒ । अति॑ । अंहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
@@ -125,20 +125,20 @@ genre M
 हे देवाः **वः** युष्माकं **धियं** स्तुतिम् **अप्सु** अब्निमित्तां **स्वर्षां** सर्वस्य दात्रीं **दधिषे** धारयामि ॥ व्यत्ययेन मध्यमः ॥ **यया** धिया कर्मणा **नवग्वाः** अङ्गिरसः **दश** **मासः** **अतरन्** सत्रमनुतिष्ठन्तः **अया** अनया **धिया** **देवगोपाः** देवैर्गुप्ताः **स्याम** भवेम । **अया** **धिया** **अंह:** पापम् **अति** **तुतुर्याम** अतितरेम ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer to you, (gods), for the sake of water, an all-bestowing sacrifice, whereby the nine-months ministrants have completed the ten-months rite; may we, by this sacrifice, be the protected of the gods; may we, by this sacrifice, cross over the boundaries of sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have acquired the poetic vision that wins the sun in the waters, with  which the Navagvas passed ten months.  
 Through this vision may we be those who have gods as our herdsmen;  through this vision may we pass beyond constraint.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most interpr. construe apsú with dadhiṣe and tr. the latter as ‘you have placed’, hence “you have placed your dhī́in the waters.” But med. forms of √dhā generally mean ‘acquire, assume’, and furthermore the standard interpr. is either nonsensical or requires a substantial backstory -- such as Oldenberg’s “[ein] Zauber für Wiedererscheinen der Sonne nach langen Regengüssen.” I follow Geldner in taking apsú with svarṣā́m “das … die Sonne im Wasser gewinnt”; the sun was manifestly in the water(s) in the immediately preceding vs. -- however metaphorically we wish to interpret those waters (I would take them as the floods of dawn light we encountered in vs. 2). Thus “winning the sun in the waters” is simply an expression for causing the sun to rise at dawn. For further disc. on the place of this vs. in the hymn, see published
 
@@ -149,23 +149,23 @@ The number discrepancy between 2nd pl. vaḥ and 2nd sg. dadhiṣe is easily acc
 As in vss. 5-6, these two distinct 2nd ps. references are joined in a joint 1st pl. in cd (syāma … tuturyāma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I lay upon the Floods your hymn, lightwinning, wherewith Navagvas their ten months completed.  
      Through this our hymn may we have Gods to guard us: through this our hymn pass safe beyond affliction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast das Gebet verrichtet, das für euch die Sonne im Wasser gewinnt, mit dem die Navagva´s die zehn Monate ausdauerten. Durch dieses Gebet wollen wir gottbehütet sein, durch dieses Gebet wollen wir die Not überdauern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eu'r Lied, was Licht schafft, gabest du den Wassern, durch das die Neuner zehn der Monde füllten; Durch dies Gebet lasst sein uns Gott-beschirmet, durch dies Gebet lasst Noth uns überwinden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я сотворил молитву, завоевывающую для вас солнце в воде,  
 Благодаря которой Навагва выдержали десять месяцев.  

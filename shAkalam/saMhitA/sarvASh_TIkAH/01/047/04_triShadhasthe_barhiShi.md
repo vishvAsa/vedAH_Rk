@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिषधस्थे꣡ बर्हि꣡षि विश्ववेदसा  
 म꣡ध्वा यज्ञ꣡म् मिमिक्षतम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 युवां꣡ हवन्ते अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कण्वा॑सः । वा॒म् । सु॒तऽसो॑माः । अ॒भिऽद्य॑वः । यु॒वाम् । ह॒व॒न्ते॒ । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triṣadhasthe* ← *triṣadhastha*
 - \[noun\], locative, singular, neuter
@@ -101,36 +101,36 @@ genre M
 हे **विश्ववेदसा** सर्वज्ञावश्विनौ **त्रिषधस्थे** कक्ष्यात्रयरूपेणास्तीर्णतया त्रिषु स्थानेष्ववस्थिते **बर्हिषि** दर्भे स्थित्वा **मध्वा** मधुरेण रसेन **यज्ञं** **मिमिक्षतं** सेक्तुमिच्छतम् । हे **अश्विना** **वां** युष्मदर्थं **सुतसोमाः** अभिषुतसोमयुक्ताः **अभिद्यवः** अभिगतदीप्तयः **कण्वासः** **युवाम्** उभौ **हवन्ते** आह्वयन्ते ॥ त्रिषधस्थे । त्रिषु स्थानेषु सह तिष्ठतीति त्रिषधस्थं बर्हिः ।' सुपि स्थः' इति कप्रत्ययः । ‘आतो लोप इटि च ' इति आकारलोपः । ‘सध मादस्थयोश्छन्दसि ' ( पा. सू. ६. ३. ९६ ) इति सहशब्दस्य सधादेशः । मध्वा । आगमानुशासनस्यानित्यत्वात् नुमभावः । ‘जसि च' इत्यत्र ‘ जसादिषु च्छन्दसि वावचनम् ' ( पा. सू. ७. ३. १०९. १ ) इति वचनात् नाभावाभावश्च । मिमिक्षतम् । मिह सेचने '। सनि ' एकाचः' इति इट्प्रतिषेधः ।' हलन्ताच्च' इति सनः कित्त्वात् लघूपधगुणाभावः । अभ्यासहलादिशेषौ । ढत्वकत्वषत्वानि । सुतसोमाः । सुतः सोमो यैः । बहुव्रीहिस्वरः । अभिद्यवः । द्युः इति अहर्नाम । तेन तत्संबन्धी प्रकाशो लक्ष्यते । अभिगता द्युम् । अत्यादयः क्रान्ताद्यर्थे द्वितीयया' (पा. म. २. २. १८. ४) इति समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Omniscient **Aśvins**, stationed on the thrice-heaped sacred grass, sprinkle the sacrifice with the sweet juice; the illustrious **Kaṇvas**, with effused libations, invoke you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you providing all possessions, mix the sacrifice with honey on the  ritual grass, on which are three seats.  
 The heaven-bound Kaṇvas, having pressed soma for you, call upon you  two, Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Omniscient Asvins, on the thrice-heaped grass bedew with the sweet juice the sacrifice.  
      The sons of Kanva, striving heavenward, call on you with draughts of Soma juice out-poured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem dreisitzigen Barhis würzet das Opfer mit Süßigkeit, ihr Allwissende! Die dem Himmel zugetanen Kanva´s rufen euch, Asvin, bei ausgepreßtem Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Benetzt das Opfer auf der dreigetheilten Streu, allreiche ihr, mit Süssigkeit; Die Kanvasöhne, himmelstrebend rufen euch, o Ritter, Soma bringend her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О всеведущие, на жертвенной соломе, разложенной в трех местах,  
 Медом окропите жертву!  

@@ -8,7 +8,7 @@ title = "+073"
 ‘स्रक्वे' इति नवर्चं षष्ठं सूक्तमाङ्गिरसस्य पवित्रस्यार्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रम्यते- स्रक्वे पवित्रः' इति । प्रवर्ग्येऽभिष्टव एतत् सूक्तम् । सूत्रितं च-' स्रक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः ' ( आश्व. श्रौ. ४.६ ) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 73 (785)  
 Soma Pavamāna  
@@ -20,7 +20,7 @@ Another thematic strain is the deployment of the power of this unified sound  ag
 Many individual puzzles remain, but the overall structure and purpose of the  hymn are clear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the key to this hymn, see published introduction. Oldenberg argues that it is a hymn for rain, but I don’t see that (nor does Geldner), despite the presence of Varuṇa. Both Geldner and Oldenberg properly remark on the repeated phrase sám asvaran.
 

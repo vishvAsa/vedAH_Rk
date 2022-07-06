@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ऋत्वि꣡या उ꣡प वा꣡चः सचन्ते  
 स꣡र्गो न꣡ यो꣡ देवयता꣡म् अ꣡सर्जि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡भ्वा꣡भवत् स꣡म् ऋते꣡ मातरि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । सः । हि । अञ्जः॑ । वरां॑सि । विऽभ्वा॑ । अभ॑वत् । सम् । ऋ॒ते । मा॒त॒रिश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 **तं** बृहस्पतिम् **ऋत्विया** वर्षर्तुसंबन्धिन्यः **वाचः** माध्यमिकाः **उप** **सचन्ते** समीपे सेवन्ते । **यः** **सर्गो** **न** उदकस्य स्रष्टापि । नशब्दोऽप्यर्थे । **देवयतां** देवानिच्छतां यजमानानाम् **असर्जि** फलम् । यद्वा । देवं तमिच्छतां मनुष्याणाम् असर्जि सृष्टवान्वृष्ट्युदकम् । यद्वा । ऋत्वियाः प्राप्तकालीना वाचः होत्रादिप्रेरिता वाचः उप सचन्ते तं यः सर्गो न उदकसृष्टिरिव । **सः** स एव **बृहस्पतिः** **अञ्जः** **हि** व्यञ्जकः खलु। तस्मिन् वर्षति सर्वे भवन्ति। अत एव **विभ्वा** विभुर्व्याप्तः **मातरिश्वा** वृष्टिनिर्मातरि अन्तरिक्षे चेष्टमानो वायुसदृशो वा **वरांसि** वरणीयानि वृष्ट्यादिफलानि संपादयन् **ऋते** उदके निमित्तभूते सति **सम्** **अभवत्** संभूतः । अथवा । अञ्जो यज्ञियानां व्यञ्जकः मातरिश्वा फलस्य निर्मातरि यज्ञे श्वसिता वर्तमानः स बृहस्पतिर्ऋते यज्ञे निमित्तभूते सति वरांसि वरणीयानि हवींषीच्छन् विभ्वा विभुः समभवत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 The hymns of the rainy season: ṛtivyā = varṣarttu sambandhinyo **vācaḥ**, prayers connected with the season of the rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Words follow close upon him in proper sequence, like a gush that has  been sent gushing from those serving the gods,  
 for Br̥haspati, far-ranging straightway through the wide spaces, has  become equal to Mātariśvan in regard to truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On him wait songs according to the season even as a stream of pious men set moving.  
      Brhaspati--for he laid out the expanses--was, at the sacrifice, vast Matarisvan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm streben rechtzeitig die Reden zu, die wie ein Erguß der Gottergebenen sich ergossen haben, denn dieser Brihaspati, stracks die weiten Räume durchdringend, ward im rechten Werk ein zweiter Matarisvan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm huldigen die festlichen Gesänge, der wie ein Zug der Frommen sich ergossen, Brihaspati, denn er verschönt die Welten, und kräftig war beim Opfer Matariçvan.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Во время обрядов к нему стремятся речи,  
 Словно возлияние, которое возлито (у людей,) любящих богов.  

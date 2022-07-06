@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व स्या꣡ वो मरुतः स्वधा꣡ आसीद्  
 य꣡न् मा꣡म् ए꣡कं सम꣡धत्ताहिह꣡त्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य श꣡त्रोर् अ꣡नमं वधस्नइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । हि । उ॒ग्रः । त॒वि॒षः । तुवि॑ष्मान् । विश्व॑स्य । शत्रोः॑ । अन॑मम् । व॒ध॒ऽस्नैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 **स्या** सा **स्वधा** तदुदकं बलं वा **वः** युष्माकं संबन्धि **क्व** आसीत् नैवासीदित्यर्थः । अस्माकमुदकं त्वमनुभवसीति ब्रूथ। **यत्** या स्वधा **एकम्** असहायं माम् **अहिहत्ये** वृष्टयर्थं मेघहननकर्मणि वृत्रवधे वा **समधत्त** सहितमभूत् । समासीदिति संबन्धः । असहायस्य कथमिति मतं सेत्स्यतीति अतः आह । **अहं** **हि** अहं खलु **उग्रः** उद्गूर्णबलः **तविषः** बलवान् **तुविष्मान्** महत्त्वोपेतोऽस्मि । यस्मात् अतिबलोऽहं तस्मात् **विश्वस्य** कृत्स्नस्य **शत्रोः** मेघस्य । शत्रुरेवायम् ॥ कर्मणि षष्ठी ॥ सर्वं शत्रुसंघं वधस्नैः वधरूपैः शोधनैः वधकौशलैरित्यर्थः । यद्वा । वध इति वज्रनाम । वधस्नैर्वज्रस्यासनैः क्षेपणप्रकारैः । अनमम् अनमयम् । अन्तर्भावितण्यर्थोयम् ॥ वशीकरोमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**): Where, **Maruts**, has that (sacrificial) food been assigned to you, which, for the destruction of Ahi was appropriated to me alone; for I indeed am fierce and strong, and mighty, and have bowed down all mine enemies with death-dealing shafts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Where was this independent will of yours, Maruts, when you  tasked me alone to smash the serpent?  
 For I, the powerful and mighty, possessed of might, humbled with my  weapons those of every rival.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the length in ūgrá- here and 10c. Lubotsky (2000 [“Vedic root vṛ …,” Indoarisch, Iranisch und die Indogermanistik]: 320 n. 16) attributes it to compensatory lengthening from *hí uHgrás, after laryngeal metathesis from *hi Hugrás, but I find the proposed metathesis counterintuitive (despite the other exx. he adduces); one would rather expect the laryngeal to remain where it is as a hiatus-filler. Moreover, assuming that this remained as a synchronic rule in the RV is quite hard to accept.
 
@@ -162,23 +162,23 @@ Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by tax
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where was that nature then of yours, O Maruts, that ye charged me alone to slay the Dragon?  
      For I in truth am fierce and strong and mighty. I bent away from every foeman's weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo war denn diese eure Selbständigkeit, ihr Marut, als ihr mich im Drachenkampf allein ließet? Denn ich, der Gewaltige, Starke, Überlegene parierte jedes Feindes Waffen mit meinen Waffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Wo war, o Maruts, damals dies eur Wünschen, als ihr allein mich liesst im Drachenkampfe? Ich freilich, stark, gewaltig, vielvermögend schlug jeden Feind mit meinen Waffen nieder.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где же была та ваша природа, о Маруты,  
 Когда вы оставили меня одного (в борьбе) со змеем?  

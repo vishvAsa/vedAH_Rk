@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सोम पा꣡तवे  
 नृ꣡भिर् यतः꣡ सुआयुधो꣡ मदि꣡न्तमः  
 प꣡वस्व म꣡धुमत्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 पव॑स्व । मधु॑मत्ऽतमः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -80,20 +80,20 @@ genre M;; repeated line
 हे **सोम** **मधुमत्तमः** अतिशयेन माधुर्योपेतस्त्वम् **इन्द्राय** **पातवे** पानार्थं **पवस्व** कलशे क्षर । कीदृशः । **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **यतः** संयतः **स्वायुधः** शोभनस्फ्यकपालाद्यायुधोपेतः **मदिन्तमः** मादयितृतमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, collected by the priests, well-armed, most exhilarating, most sweet-flavoured, flow for **Indra** to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra to drink, o Soma—held by men, having good weapons and  most exhilarating,  
 purify yourself as the most honeyed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As pointed out in the published introduction, the beginning of vs. 1, pávasva mádhumattama, índrāya soma …, recurs here, framing the vs., which begins índrāya soma and ends with the pāda pávasva mádhumattama.
 
@@ -108,23 +108,23 @@ No particular signs of cohesion, but see the ring compositional elements connect
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, for Indra's drink do thou, led by the men, well-wcaponcd and most gladdening,  
      Flow on with greatest store of sweets.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich für Indra zum Trunke, Soma, von den Männern gelenkt, mit guten Waffen, berauschendst, süßest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra riesle du zum Trunk, gelenkt von Männern, schönbewehrt, du süssester, O Sorna, du berauschendster!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сома, Индре для питья,  
 Направленный мужами, хорошо вооруженный,  

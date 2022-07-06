@@ -8,7 +8,7 @@ title = "+051"
 ‘उदु त्यत्' इति षोडशर्चं द्वितीयं सूक्तमृजिश्वन आर्षं वैश्वदेवम् ।  त्रयोदश्याद्यास्तिस्र उष्णिहः षोडश्यनुष्टुप् शिष्टास्त्रिष्टुभः । तथा चानुक्रान्तम्- उदु त्यत्षोळश त्र्युष्णिगनुष्टुबन्तम् ' इति । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 51 (492)  
 All Gods  
@@ -21,7 +21,7 @@ The omphalos verses (6–7), marked by initial repeated mā́ “don’t!,” be
 The remaining verses (13–16) may have been appended to this hymn because they  chiefly concern various malefactors whom we wish to banish or destroy, including  the cheat (ripú, vs. 13) and the (clearly human) “wolf” (vŕ̥ka, vs. 14), both of which  were also mentioned as dangers in the omphalos verses (“cheat” vs. 7, “wolf” vs. 6).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods For the structure of this hymn (or, rather, composite of two hymns), see published
 

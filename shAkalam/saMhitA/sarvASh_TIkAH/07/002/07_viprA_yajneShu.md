@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡प्रा यज्ञे꣡षु मा꣡नुषेषु कारू꣡  
 म꣡न्ये वां जात꣡वेदसा य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ देवे꣡षु वनथो वा꣡रियाणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऊ॒र्ध्वम् । नः॒ । अ॒ध्व॒रम् । कृ॒त॒म् । हवे॑षु । ता । दे॒वेषु॑ । व॒न॒थः॒ । वार्या॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], vocative, plural, masculine
@@ -122,35 +122,35 @@ genre M
 हे दैव्या होतारौ **विप्रा** मेधाविनौ **जातवेदसा** जातधनौ **मानुषेषु** मनुष्यैः क्रियमाणेषु **यज्ञेषु** **कारू** कर्मणां कर्तारौ **वां** युवां **यजध्यै** यष्टुं **मन्ये** स्तौमि । किंच **हवेषु** हवनेषु स्तोत्रेषु सत्सु **नः** अस्माकम् **अध्वरम्** अकुटिलं यज्ञम् **ऊर्ध्वं** देवाभिमुखं **कृतं** कुरुतं च । अपि च **ता** तौ युवां **देवेषु** विद्यमानानि **वार्याणि** धनानि **वनथः** संभजथः । तान्यस्मभ्यं संप्रयच्छथ इत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am minded to adore you two sages, the ministrants at sacrifices of men, from celebrated, convey ouroffspring aloft, and acquire (for our use) the precious (treasures preserved) among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I think you two inspired praise poets [=divine Hotars] at the sacrifices of  the sons of Manu are both Jātavedas and are to perform the sacrifice. Raise up our rite at our calls. You will win desirable rewards (for us)  among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You, Bards and Singers at men's sacrifices, both filled with wisdom, I incline to worship.  
      Send up our offerings when we call upon you, and so among the Gods obtain us treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden beredten Dichter bei den menschlichen Opfern, euch gedenke ich zu verehren, die beiden Jatavedas´. Hebet unser Opfer empor während der Götteranrufungen; ihr beide gewinnet bei den Göttern köstliche Dinge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Priester beide, Wesenkenner, Dichter, will ich verehren bei der Menschen Opfern; Erhöht die Feier uns bei unserm Rufen, und führt den Göttern zu die Opfergaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два вдохновенных  
 (хотара)  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वयं꣡ कवि꣡र् विधर्त꣡रि  
 वि꣡प्राय र꣡त्नम् इछति  
 य꣡दी मर्मृज्य꣡ते धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यदि॑ । म॒र्मृ॒ज्यते॑ । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svayaṃ* ← *svayam*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यदि** **कविः** क्रान्तकर्मा अयं सोमः **धियः** धीभिः। विभक्तिव्यत्ययः। धीतिभिः । अङ्गुलीभिरित्यर्थः । **मर्मृज्यते** शोध्यते तर्हि **स्वयं** स्वयमेव **विप्राय** मेधाविने **विधर्तरि** कामानां विधातरीन्द्रे **रत्नं** रमणीयं धनम् **इच्छति** । इन्द्रेण धनं दापयितुमिच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Indra, the granter of wishes: vidhartari = vidhātarindre; adding, indreṇa dhanam dāpayitum icchati, he desires to cause Indra to give wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Himself a sage poet, he seeks a treasure for the inspired poet at (the  hands of) the distributor,  
 as he keeps grooming his insightful thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the disputed interpr. of vidhartári, see comm. ad VIII.70.2. As I disc. there, I interpr. the form not as an infinitive (with many), but as the loc. of the agent noun that it is morphologically. Here I envisage Soma in the role of a facilitator: he wants the vípra (presumably the human poet) to get a dakṣiṇā from the patron (/apportioner: vidhartár-), and sets about making that happen.
 
@@ -107,23 +107,23 @@ dhíyaḥ. It is difficult to construct an “if” reading.
 The subj. of marmrjyáte is unspecified and unclear; it could either be Soma as kaví or the human vípra - or both.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seer and Sustainer, he himself desireth riches for the sage  
      When he embellisheth his songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst wünscht der Seher dem Beredten die Belohnung auszuteilen, wenn er die Gedanken herausputzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er selbst, der weise, wünschet dann dem Sänger Schätze zu verleihn, Wenn dieser ihm Gebete schmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

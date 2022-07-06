@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ त इन्दो सुभु꣡वं सुपे꣡शसं  
 र꣡सं तुञ्जन्ति प्रथमा꣡ अभिश्रि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आवि꣡स् ते शु꣡ष्मो भवतु प्रियो꣡ म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 निद॑म्ऽनिदम् । प॒व॒मा॒न॒ । नि । ता॒रि॒षः॒ । आ॒विः । ते॒ । शुष्मः॑ । भ॒व॒तु॒ । प्रि॒यः । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -139,37 +139,37 @@ genre M
 पूर्वत्र ‘ अद्रयस्त्वां बप्सति' इत्युक्तं तदेवोच्यते । हे **इन्दो** सोम **एव** एवा.... क्रियमाणप्रकारेण **ते** तव **सुभ्वं** शोभनभवनं **सुपेशसम्** । पेश इति रूपनाम । सुरूपं **रसं** **प्रथमाः** प्रथममेव । यद्वा । प्रथम इति मुख्यनाम। **प्रथमाः** मुख्याः। ग्रावाणोऽध्वर्यवो वा **अभिश्रियः** अभिश्रयन्तः सन्तः **तुञ्जन्ति** प्रेरयन्ति । हे **पवमान** **निदंनिदम्** अस्मन्निन्दकं सर्वमपि शत्रुं **नि** **तारिषः** विनाशय । **ते** तव **शुष्मः** बलकरः **प्रियः** प्रियभूतः **मदः** मदकरो रसः **आविः** **भवतु** ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus, **Indu**, the chief (priests) making the mixture send forth your well-lodged, well-formed juice (**rasa**); purified **Soma**, destroy (our) reviler; let your potent, delightful, exhilarating (juice) appoear.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, o drop, do those foremost ones, excelling in splendor,  express your sap of good essence and good ornament.  
 Self-purifying one, you will undermine every scorn(er). Let your  
 tempestuous spirit, your dear exhilaration become manifest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So do they hurry on thy strong and beauteous juice, O Indu, as the first ingredient of the draught.  
      Bring low, thou Pavamana, every single foe, and be thy might shown forth as sweet and gladdening drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also schlage deinen kräftigen, schönfarbigen Saft, o Indra, die ersten Meister aus. Jeden Tadel unterdrücke, o Pavamana! Es offenbare sich dein Ungestüm, dein lieber Rausch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fördern dir, o Indu, deinen kräftigen und schönen Saft die ersten Ströme warmer Milch, Zu Boden schmettre, Flammender, jedweden Feind, der liebe Rauschtrank zeige sich als deine Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о капля, первые устроители (обряда) выбивали  
 Твой мощный, прекрасно выглядящий сок.  

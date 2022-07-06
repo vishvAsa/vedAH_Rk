@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वाम् भागो꣡ नि꣡हितो यजत्रा  
 इमा꣡ गि꣡रो नासतियो꣡प यातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ दाशुवां꣡सम् अवतं श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 पिब॑तम् । सोम॑म् । मधु॑ऽमन्तम् । अ॒स्मे इति॑ । प्र । दा॒श्वांस॑म् । अ॒व॒त॒म् । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -118,30 +118,30 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O sacred ones, this your portion has been plural ced for you, O truthful ones, come to these your praises;drink among us the sweet **Soma**, succour your worshipper with your powers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is a portion deposited for you, you worthy of the sacrifice; here are  hymns, o Nāsatyas—drive up to them.  
 Drink the honeyed soma among us. Foster the pious man with your skills.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Anteil ist für euch aufgetischt, ihr Opferwürdige; kommet her zu diesen Lobreden, Nasatya`s! Trinket den versüßten Soma bei uns, helfet dem Opfernden mit euren Künsten vorwärts!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist eur Antheil hingestellt, o hehre, o kommt, ihr Treuen, her zu diesen Liedern; Bei uns geniesst den honigsüssen Soma, mit euren Kräften helfet dem Verehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот выставлена ваша доля, о достойные жертв  
 Приезжайте, о Насатьи, на эти песни!  

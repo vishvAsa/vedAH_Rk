@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् पृछ꣡न्ती व꣡ज्रहस्तं रथेष्ठा꣡म्  
 इ꣡न्द्रं वे꣡पी व꣡क्वरी य꣡स्य नू꣡ गीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गातु꣡म् इषे न꣡क्षते तु꣡म्रम् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तु॒वि॒ऽग्रा॒भम् । तु॒वि॒ऽकू॒र्मिम् । र॒भः॒ऽदाम् । गा॒तुम् । इ॒षे॒ । नक्ष॑ते । तुम्र॑म् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -119,19 +119,19 @@ genre M
 पूर्वयोपालब्ध इन्द्र ऋषये कामान् प्रायच्छत् ततः स कामपूर्ण ऋषिराह । **वज्रहस्तं** वज्रपाणिं **रथेष्ठां** रथे स्थितं **तम्** **इन्द्रं** पृच्छन्ती अर्चयन्ती । पृच्छतिरर्चतिकर्मा । **वेपी** । वेपो यागादिलक्षणं कर्म । तद्वती **वक्वरी** गुणानां वक्त्री **गीः** ईदृशी स्तुतिः **यस्य** यजमानस्य भवति । कीदृशमिन्द्रं पृच्छन्ती। **तुविग्राभं** तुवीनां बहूनां ग्रहीतारं तुविकूर्मिं बहुकर्माणं **रभोदां** रभसो बलस्य दातारम् । **नु** इति पूरणः । स यजमानः **गातुं** सुखम् **इषे** गच्छति । किंच **तुम्रं** ग्लापयितारं शत्रुम् **अच्छ** अभिमुखं **नक्षते** गच्छति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He whose ceremonial and eulogistic hymn is commemorating **Indra**, the holder of the thunderbolt, seated in his car, the accepter of many, the doer of many great deeds, the bestower of strength, proceeds promptly to acquire happiness, and encounters (with confidence) the malevolent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The quivering, surging (song), asking about him whose hand holds the  mace, who stands upon the chariot—about Indra, whose song it is— (him who is) powerfully grasping, powerfully ranging, taking on wild  frenzy—(the song) seeks her way; she catches up to the bulging one  [=Indra].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is beset with difficulties, starting with the syntax, on which see Oldenberg
 
@@ -148,23 +148,23 @@ Stepping back from the formal difficulties of the vs., we can try to fit its con
 That we have moved from the plural male poets/singers of vss. 2 and 4 to the lone female song (fem. gī́ḥ) makes the mismatch of power all the clearer. The verb nákṣate in the final clause brings us back to nakṣad-dābhá- in vs. 2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who for car-borne Indra, armed with thunder, hath a hymn, craving, deeply-piercing, fluent,  
      Who sends a song effectual, firmly-grasping, and strength-bestowing, he comes near the mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach ihm, dem Wagenfahrer mit der Keule in der Hand, nach Indra, dem die schwungvolle, beflügelte Lobrede gehört, der den großen Griff hat, nach dem Vielausrichtenden, Mutleihenden fragend, sucht die Rede ihren Weg und gelangt zu den Starken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra ruft das Lied, der steht im Wagen den Blitz im Arme, dem der rege Ruf gilt, Zu ihm, der stark ergreift und wirkt, der Kraft gibt, beeilt den Lauf es und erreicht den feisten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спрашивая о нем, с ваджрой в руке стоящем на колеснице,  
 Об Индре, кому принадлежит сейчас трепещущая перекатывающаяся хвалебная песнь,  

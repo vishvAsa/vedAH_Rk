@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी अवम꣡स्याम् पृथिव्या꣡म्  
 मध्यम꣡स्याम् परम꣡स्याम् उत꣡ स्थः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । परि॑ । वृ॒ष॒णौ॒ । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M;; repeated line
 हे **इन्द्राग्नी** **अवमस्यां** पृथिव्यां संनिकृष्टायामस्यां भूम्यां **यत्** यदि **स्थः** वर्तमानौ भवथः । यदि वा **मध्यमस्यां** पृथिव्यामन्तरिक्षलोके । अत्र पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते । यथा  ‘ यो द्वितीयस्यां तृतीयस्यां पृथिव्यामस्यायुषा नाम्ना ' ( तै. सं. १. २. १२. १ ) इति । **उत** अपि च **परमस्याम्** उत्कृष्टायां दूरे वर्तमानायां पृथिव्यां द्युलोके यदि वा वर्तेथे । **अतः** सर्वस्मात् स्थानात् हे **वृषणौ** आगच्छतम् । आगमनानन्तरं सुतं सोमं **पिबतम्** ॥ अवमस्याम् । अवमशब्दादुत्तरस्य ङेर्व्यत्ययेन स्याडागमः । एवमुत्तरत्रापि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether, **Indra** and **Agni**, you are in the lower, the central, or the upper region of the world, showerers of benefits, come hither from wherever you may be, and drink of the effused **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra and Agni, you are on the lowest earth, on the middle  one, and on the highest one,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ I do not see the purpose of two almost identical vss., but with the relative pos
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether, O Indra-Agni, ye be dwelling in lowest earth, in central, or in highest.  
      Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr, Indra und Agni, im nächsten Erdteil, im mittleren, wenn ihr am entferntesten seid, so kommt doch ja von dort her, ihr Bullen, und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra-Agni, ihr im tiefsten Weltraum, im mittelsten und höchsten auch verweilet, So kommt von da zu uns doch her, ihr Stiere, und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра и Агни, вы находитесь на ближней земле,  
 На средней, а также на дальней,  

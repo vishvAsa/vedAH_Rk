@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्री꣡ रोचना꣡ दिविया꣡ धारयन्त  
 हिरण्य꣡याः शु꣡चयो धा꣡रपूताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुशं꣡सा ऋज꣡वे म꣡र्तियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अस्व॑प्नऽजः । अ॒नि॒ऽमि॒षाः । अद॑ब्धाः । उ॒रु॒ऽशंसाः॑ । ऋ॒जवे॑ । मर्त्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
@@ -108,41 +108,41 @@ genre M
 त्रीरोचनात्रीणिरोच्नानिरोचमानान्यग्न्यादीनितेजांसि दिव्यादिव्यानिदिविभवानिधारयन्त आदित्याअवस्थापयन् किमर्थं ऋजवेऋजीकायउपार्जकायस्तोत्राणां मर्त्यायमनुष्यायभोगसिद्भ्यर्थ मितियावत् कीदृशाआदित्याः हिरण्ययाः हिरण्मयाः हिरण्यालङ्कृतसर्वाङ्गः यद्वा हितरमणीय वेषाः शुचयोदीप्यमानाः धारपूताः उदकधारयाक्षालिताइवनिर्मलाः अस्वप्नजः असञ्चातस्वप्नाः सुपांसुलुगितिजसःसुः अपरआह अस्वप्नजः अस्वपन्तः विगतनिद्राः स्वपितृषोर्नजिङितिनजिङ्प्र- त्ययइति तदेतत्पदकारस्यानभिमतम् अनिमिषाः निमेशराहिताः अदब्धाः असुरादिभिरहिंसिताः उरुशंसाः उरुभिर्बहुभिःशंसनीयाः स्तोतव्याः एवङ्गुणविशिष्टाअधारयन्तेत्यन्वयः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Ādityas**, decorated with golden ornaments, brilliant, purified by showers, who never slumber, nor close their eyelids, who are unassailable, and praised by many, uphold the three bright heavenly regions for the sake of the upright man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They uphold the three heavenly realms of light—(themselves) golden,  gleaming, and pure as a stream (of soma).  
 (They are) unsleeping, unwinking, undeceivable, and widely proclaimed  for the straightforward mortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Golden and splendid, pure like streams of water, they hold aloft the three bright heavenly regions.  
      Ne'er do they slumber, never close their eyelids, faithful, far-ruling for the righteous mortal.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of golden aspect, radiant, bright, as sword-blades, They have upheld the three light realms of heaven. They slumber not, nor close their eyes, unfailing They rule afar to help the truthful mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie erhalten die drei himmlischen Lichträume, sie die goldigen, reinen, wie Somagüsse lauteren. Nicht bedürfen sie des Schlafes, noch schließen sie die Augen, nicht sind sie zu betören, deren Wort für den rechtschaffenen Sterblichen weithin reicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie tragen die drei lichten Himmelsräume, sind golden, hell und lauter wie die Ströme, Sind unverletzlich, schlafend nicht noch schlummernd, weithin den frommen Sterblichen beschirmend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они поддерживают три светлых небесных пространства,  
 (Они,) золотистые, сверкающие, очищенные, как потоки (сомы),  

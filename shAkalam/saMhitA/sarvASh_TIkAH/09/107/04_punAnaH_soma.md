@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानः꣡ सोम धा꣡रया  
 अपो꣡ व꣡सानो अर्षसि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उ꣡त्सो देव हिरण्य꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । र॒त्न॒ऽधाः । योनि॑म् । ऋ॒तस्य॑ । सी॒द॒सि॒ । उत्सः॑ । दे॒व॒ । हि॒र॒ण्ययः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -106,7 +106,7 @@ genre M;; repeated line
 हे **सोम** **पुनानः** पूयमानस्त्वम् **अपः** उदकानि वसतीवर्याख्यानि **वसानः** आच्छादयन् **धारया** **अर्षसि** पवित्रं गच्छसि । ततः **रत्नधाः** रत्नानां दाता त्वम् **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **सीदसि** । हे देव द्योतमान सोम **उत्सः** प्रस्यन्दनशीलस्त्वं **हिरण्ययः** हिरण्मयो हिरण्यस्योत्पत्तिस्थानं खलु । यद्वा देवानां हितरमणीयो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ genre M;; repeated line
 Devānām hitaramaṇīyaḥ = **deva** **hiraṇyayaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, you rush while being purified in a stream and clothing yourself  in the waters.  
 Conferring treasure, you sit here upon the womb of truth as the golden  wellspring, o god.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -133,23 +133,23 @@ Both vss. describing Soma taking his seat (4c, 5b). There is also concatenation 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleansing thee, Soma, in thy stream, thou flowest in a watery robe:  
      Giver of wealth, thou sittest in the place of Law, O God, a fountain made of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geläutert fließest du, Soma, in Strömen, dich in das Wasser hüllend. Du, der Lohnbringer, setzest dich auf den ordnungsgemäßen Platz, du der goldene Born, o Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gehüllt in Wasser fliessest du im Strom, o Soma, flammender, Und setzest spendend in den Schooss des Opfers dich, o Gott, als goldne Quelle du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, о сома, потоком,  
 Ты течешь, рядясь в воды.  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि या꣡ बृहतो꣡ दिवो꣡  
 अभि꣡ यूथे꣡व प꣡श्यतः  
 ऋता꣡वाना सम्रा꣡जा न꣡मसे हिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋ॒तऽवा॑ना । स॒म्ऽराजा॑ । नम॑से । हि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -90,42 +90,42 @@ genre M
 **या** यौ मित्रावरुणौ **बृहतो** **दिवः** द्योतमानान् देवान् **अधि** **पश्यतः** । तत्र दृष्टान्तः ॥ **यूथेव**। यथा वृषभो गोयूथानि रन्तुम् **अभि** अभिमुखं पश्यति तद्वदेतौ स्ववीर्येणासुरान् हत्वा देवान् नोदयितुं पश्यत इत्यर्थः । कीदृशौ । **ऋतावाना** सत्यवन्तौ **सम्राजा** सम्राजौ सम्यग्दीप्यमानौ **नमसे** हविषे **हिता** हितौ प्रियौ पश्यत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(These are they) who look upon the great deities as (a bull contemplates) the herd, sovereignsobservant of truth and propitious to adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two who from lofty heaven look down upon (us) as if upon  
 your herds,  
 the truth-possessing ones were installed as sovereign kings for reverence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “your herds” of the published translation should rather be “their herds.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Twain, who from the lofty sky seem to look down on herds below,  
      Holy, imperial Lords, are set to be revered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die vom hohen Himmel her die Geschöpfe wie die Herden überschauen, die gesetzhegenden Allkönige, recht für die Huldigung geschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, die vom hohen Himmel her die Heerden gleichsam überschaun, Gerechte Herrscher zur Verehrung hingestellt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) двое, которые с высокого неба  
 Наблюдают (за людьми), как за стадами,  

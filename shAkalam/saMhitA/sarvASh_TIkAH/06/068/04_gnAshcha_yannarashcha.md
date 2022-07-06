@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्ना᳐꣡श् च य꣡न् न꣡रश् च वावृध꣡न्त  
 वि꣡श्वे देवा꣡सो नरां᳐꣡ स्व꣡गूर्ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दियउ꣡श् च · पृथिवि भूतम् उर्वी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । ए॒भ्यः॒ । इ॒न्द्रा॒व॒रु॒णा॒ । म॒हि॒ऽत्वा । द्यौः । च॒ । पृ॒थि॒वि॒ । भू॒त॒म् । उ॒र्वी इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gnāś* ← *gnāḥ* ← *gnā*
 - \[noun\], nominative, plural, feminine
@@ -127,41 +127,41 @@ genre M
 **नरां** नृणां मनुष्याणां मध्ये **ग्नाश्च** स्त्रियश्च । 'मेना ग्ना  इति स्त्रीणाम् ' (निरु. ३. २१) इति यास्कवचनात् । **नरश्च** पुरुषाश्च **विश्वे** सर्वे **देवासः** देवाः स्तोतारः ॥ देवासः इत्यत्र ‘ पुमान् स्त्रिया ' इत्येकशेषात् देव्यश्च देवाश्च देवास इति निदेशः पुंवन्निर्देशः ॥ **स्वगूर्ताः** स्वयमुद्यताः **यत्** यदा **ववृधन्त** स्तुतिभिर्वर्धयन्ते तदा हे इन्द्रावरुणौ **महित्वा** महत्त्वयुक्तौ **एभ्यः** स्तोतृभ्यः **प्र** **भूतं** प्रभवतम् । हे **द्यौः** **पृथिवि** **च** उभे **उर्वी** विस्तीर्णे युवामेभ्यः प्र भूतमित्यनुषङ्गः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When among mankind, both **males** and feminine les, and when all the gods spontaneously striving glorify you, **Indra** and **Varuṇa**, you become pre-eminent in greatness over them, as do you, wide heaven and earth (surpass them also).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When all the gods, both ladies and men, grow strong, (their praises) sung  for their own sake by (our) men,  
 you stand out from them by your greatness, o Indra and Varuṇa, (and  also you two) wide ones, o Heaven and Earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, matī́nām occurs here for the 3rd time, while juṣéthām is repeated from 1c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though dames and men have waxen strong and mighty, and all the Gods selfpraised among the Heroes,  
      Ye, Indra-Varuna, have in might surpassed them, and thus were ye spread wide, O Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als alle Götter - Frauen und Männer - die sich selbst Lobenden unter den Männern, stark wurden, da waret ihr beide, Indra und Varuna, ihnen an Größe voraus, und ihr beide, Himmel und Erde, die weiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn alle Götter, Weiber auch und Männer, sich mächtig zeigen, hochgelobt von Sängern, Seid ihr voran doch, Varuna und Indra, wie Himmel gross und wie die weite Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда (божественные) жены и мужи обрели силу,  
 Все боги, самопрославленные среди мужей,  

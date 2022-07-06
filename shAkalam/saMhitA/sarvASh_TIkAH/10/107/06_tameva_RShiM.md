@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् एव꣡ ऋ꣡षिं त꣡म् उ ब्रह्मा꣡णम् आहुर्  
 यज्ञनि꣡यं सामगा꣡म् उक्थशा꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यः꣡ प्रथमो꣡ द꣡क्षिणया ररा꣡ध
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । शु॒क्रस्य॑ । त॒न्वः॑ । वे॒द॒ । ति॒स्रः । यः । प्र॒थ॒मः । दक्षि॑णया । र॒राध॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -134,7 +134,7 @@ popular
 **तमेव** दक्षिणाया दातारम् **ऋषिम्** अतीन्द्रियार्थदर्शिनं यद्वा सत्कर्मकरणेन ऋषिमित्याहुः । तथा **तमु** तमेव **ब्रह्माणमाहुः** । किंच तमेव **यज्ञन्यम्** ॥ ‘णीञ् प्रापणे '। क्विप्  । ‘उदात्तस्वरितयोर्यणः०' इत्यमः स्वरितत्वम् ॥ यज्ञस्य नेतारमध्वर्युमित्याहुः । तमेव **सामगां** साम्नां गातारमिति । तथा **उक्थशासम्** । ‘शन्सु स्तुतौ'। क्विप् । संहितायां दीर्घश्छान्दसः। उक्थशसं शस्त्राणां शंसितारं होतारमिति ब्रुवन्ति । दक्षिणादानेन तत्कर्मणः परिग्रहात्। **सः** दाता **शुक्रस्य** दीप्यमानस्य ज्योतिषः **तिस्रः** **तन्वः** अग्निवैद्युतादित्यात्मकानि त्रीणि शरीराणि **वेद** जानाति ॥ यद्वा । शुक्रस्य दीप्तस्याग्नेराहवनीयाद्यात्मकानि त्रीणि शरीराणि जानाति । **प्रथमः** मुख्यः **यः** जनः **दक्षिणया** **रराध** ऋत्विगादीनाराधयति ॥ ‘राध संसिद्धौ' । लिटि रूपम् । लित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,7 +147,7 @@ Armies: asenyā = senārhāṇi na **bhavanti**, your words are not equal to arm
 Aniṣavyaḥ = iśvarhāṇi na santu parākramarāhityena, let them not be equal to arrows through yourabsence of prowess
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They say that just he is the seer, he the creator of sacred formulations,  the leader of the sacrifice, the singer of chants, the reciter of  
 solemn words.  
@@ -155,23 +155,23 @@ He knows the three bodies of the blazing one—he who first found
 success with the priestly gift.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They call him Rsi, Brahman, Sama-chanter, reciter of the laud, leader of worship.  
      The brightly-shining God's three forms he knoweth who first bestowed the sacrificial Guerdon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den nennen sie den eigentlichen Rishi, den den Brahman, den Opferleiter, den Samasänger, den Liedvortrager, der kennt die drei Körper des Lichts, der zuerst die Daksina zugeführt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den wahrlich nennt man einen Dichter, den einen Brahmanen, einen Leiter des Opfers, einen Liedsänger, einen Spruchsager, der kennt die drei Gestalten des glänzenden [Agni], welcher zuerst mit dem Opferlohn zu Stande gekommen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только того называют риши, того брахманом,  
 Ведущим жертву, поющим мелодию, произносящим гимн,  

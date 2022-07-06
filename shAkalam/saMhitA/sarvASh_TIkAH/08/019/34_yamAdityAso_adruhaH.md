@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् आदित्यासो अद्रुहः  
 पारं꣡ न꣡यथ म꣡र्तियम्  
 मघो꣡नां᳐ वि꣡श्वेषां᳐ सुदानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; line affected by realignment
 म॒घोना॑म् । विश्वे॑षाम् । सु॒ऽदा॒न॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -77,7 +77,7 @@ genre M;; line affected by realignment
 हे **अद्रुहः** अद्रोग्धारः हे **सुदानवः** हे **आदित्यासः** अदितेः पुत्रा मित्रादयः **मघोनां** हविष्मतां **विश्वेषां** सर्वेषां मध्ये **यं** **मर्त्यं** मनुष्यं यजमानं **पारं** **नयथ** आरब्धस्य कर्मणः समाप्तिं प्रापयथ । स तत्फलं लभत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ genre M;; line affected by realignment
 When you conduct to the limit: yam nayatha pāram, whom you ledto the opposite bank
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you Ādityas without deceit—the mortal whom you lead to the  far shore—  
 you who are the best givers among all the generous—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
 <details open><summary><h2>34-35 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ These two vss. are so interrupted by heavy voc. phrases addressed to the Āditya
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The mortal whom, Adityas, ye, Guilelew, lead to the farther bank  
      Of all the princes, Bounteous Ones
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen Sterblichen ihr truglosen Aditya´s ans andere Ufer führet, ihr Gabenreichste unter allen Freigebigen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welche Sterblichen ihr, o wohlwollende, gabenreiche Aditja's, über alle Gewalthaber hinaus führt [Nachsatz fehlt].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) смертный; которого вы, о безобманные Адитьи,  
 Перевозите на другой берег,  

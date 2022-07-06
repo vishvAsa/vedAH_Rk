@@ -8,7 +8,7 @@ title = "+014"
 'यदिन्द्राहम् ' इति पञ्चदशर्चं द्वितीयं सूक्तं गोषूक्त्यश्वसूक्तिनोः काण्वगोत्रयोरार्षं गायत्रमैन्द्रम् । तथा चानुक्रान्तं—'यदिन्द्र पञ्चोना गोषूक्त्यश्वसूक्तिनौ काण्वायनौ ' इति । महाव्रते निष्केवल्य एतत्सूक्तम् । तथैव पञ्चमारण्यके सूत्र्यते - यदिन्द्राहं यथा त्वं प्र सम्राजं चर्षणीनामिति सूक्ते' (ऐ. आ. ५. २. ५) इति । तृतीये पर्याये ब्रह्मशस्त्रेऽपीदं सूक्तम् । सूत्रितं च-'यदिन्द्राहं प्र ते महे' (आश्व. श्रौ. ६. ४) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 14 (634)  
 Indra  
@@ -20,7 +20,7 @@ sible indirect reference in the R̥gveda, see I.104.3.)
 The gāyatrī meter and tr̥ca structure, combined with the conversational tone of  the opening verses, give this hymn a light texture and informal style that contrast  nicely with the more ponderous Indra hymns in the early parts of Maṇḍala VIII.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

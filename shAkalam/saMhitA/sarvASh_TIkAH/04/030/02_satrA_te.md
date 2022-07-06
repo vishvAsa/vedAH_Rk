@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रा꣡ ते अ꣡नु कृष्ट꣡यो  
 वि꣡श्वा चक्रे꣡व वावृतुः  
 सत्रा꣡ महाँ꣡ असि श्रुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स॒त्रा । म॒हान् । अ॒सि॒ । श्रु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrā*
 - \[adverb\]
@@ -92,41 +92,41 @@ genre M
 हे इन्द्र **कृष्टयः** प्रजाः **ते** त्वाम् **अनु** लक्षीकृत्य **सत्रा** सत्यमेव **ववृतुः** वर्तन्ते । तत्र दृष्टान्तः । **विश्वा** विश्वानि व्याप्तानि **चक्रेव** चक्राणीव । यथा चक्राणि शकटमनुवर्तन्ते तद्वत् । हे इन्द्र **महान्** त्वं **सत्रा** सत्यमेव **श्रुतः** विश्रुतः **असि** । गुणैः प्रख्यातो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily men are attached to you as are all the wheels (to the body of the wagon); in truth you are great and renowned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Altogether do the peoples turn, like wheels, following all things that  are yours.  
 Altogether are you famed as great.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes víśvā with kṛṣṭáyaḥ, but in this sandhi situation it would have to represent a corruption of víśvāś. See Oldenberg for disc. of this form. I take it as a neut. acc. pl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like chariot-wheels these people all together follow after thee:  
      Thou ever art renowned as Great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hinter dir liefen alle Völker insgesamt her wie die Räder hinter dem Roß. Du bist mit einem Male als der Große berühmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir rollen gleich wie Räder nach die Menschenstämme allzumal, Als gross wirst immer du gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За тобой устремились все народы вместе,  
 Как колеса (телеги – за конем).  

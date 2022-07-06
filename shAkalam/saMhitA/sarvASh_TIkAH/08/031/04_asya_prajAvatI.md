@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्य प्रजा꣡वती गृहे꣡  
 अ꣡सश्चन्ती दिवे꣡-दिवे  
 इ꣡ळा धेनुम꣡ती दुहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इळा॑ । धे॒नु॒ऽमती॑ । दु॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -78,7 +78,7 @@ genre M
 **प्रजावती** पुत्रादियुक्तम् **असश्चन्ती** । सश्चतिर्गतिकर्मा । अगमनशीलं तादृशं **धेनुमती** । पयसा सर्वान् धिनोति प्रणयतीति धेनुर्गौः । तत्सहितम् ”इळा अन्नम् **अस्य** यष्टुः **गृहे** **दिवेदिवे** अहरहः **दुहे** देवैः दुह्यते । यद्वा । इळेति गवां देवता । सा स्थिरा धेनुमती । गवां पतित्वात् धेनुभिर्धेनुमती । इळा गोदेवता । देवैः प्रेरिता सती अस्य यजमानस्य गृहे दोग्धा । पुत्रादिकमस्मै ददातीत्यर्थः । दुहेर्लटि ‘लोपस्त आत्मनेपदेषु ' इति तलोपः । अत्र इज्यास्तवः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ genre M
 In his house perpetual abundance, accompanied by progeny and cattle, is milked day by day; or, Iḷā =goddess of cows; hence, duhe = milks forth, bestows
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In his house inexhaustible Refreshment, possessed of offspring  
 and milk-cows, gives milk day after day.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Each day that passes, in his house flows his libation, rich in milk,  
      Exhaustless, bringing progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Hause gibt die kinder- und kuhreiche Ila ohne zu versiegen Tag um Tag Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Haus wird Tag für Tag der Trunk gemelkt, der nie versiegt, Der reichlich Milch und Kinder gibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У того в доме богатая потомством,  
 Богатая дойными коровами Ида,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡शुर् न꣡ जातो꣡ अ꣡व चक्रदद् व꣡ने  
 सु꣡वर् य꣡द् वाजी꣡ अरुषः꣡ सि꣡षासति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡म् ईमहे सुमती꣡ श꣡र्म सप्र꣡थः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दि॒वः । रेत॑सा । स॒च॒ते॒ । प॒यः॒ऽवृधा॑ । तम् । ई॒म॒हे॒ । सु॒ऽम॒ती । शर्म॑ । स॒ऽप्रथः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 स पवमानः सोमः **वने** वननीये वसतीवर्याख्य उदके **जातः** उत्पन्नः **शिशुर्न** शिशुरिव **अव** **चक्रदत्** अवाङ्मुखं क्रन्दति । तदोदकमध्ये पतञ्छब्दं करोति खलु। **यत्** यदा **वाजी** बलवानन्नवान् वा **अरुषः** आरोचमानः । यद्वा । वाज्यश्व इव अरुषः । अर्तेरुषच् । गमनशीलः सोमः **स्वः** स्वर्गलोकं **सिषासति** संभक्तुमिच्छति । सनोतेः सनीडभाव आत्वम् । ‘ सनोते:०' इति सांहितिकं षत्वम् । सोऽयं **पयोवृधा** गवामोषधीनां च क्षीरस्य वर्धकेन’ **रेतसा** उदकेन सह **दिवः** द्युलोकात् **सचते** पार्थिवं लोकं समवैति । **तं** तादृशं प्रसिद्धं सोमं **सप्रथः** सर्वतः पृथुतरं धनादिना युक्तं **शर्म** गृहं तद्वयं **सुमती** । ‘सुपां सुलुक्°' इति तृतीयायाः पूर्वसवर्णदीर्घः । सुमत्या शोभनया स्तुत्या **ईमहे** याचामहे । ईमह इति याञ्चाकर्मा। ‘ ईङ् गतौ । देवादिकः । छान्दसः श्यनो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 Brilliant: or, swift as a horse; that nourish the kine: payovṛdhā, that feeds the milk of kine and the sap of herbs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a new-born (calf), he has roared down into the wood(en vessel).  When the ruddy racehorse strives to win the sun,  
 he keeps company with the milk-strong semen of heaven. We implore  him for extensive protection through his benevolence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Contra the standard tr. (Geldner, Renou, Lüders [265], Doniger, Maurer), I take b with c, not with a, since the logical relation between a and b is weak and there are two ostensibly different subjects, while c follows from b. In b Soma, configured as a racehorse, seeks to win the sun, which in its brightness is the cosmic equivalent of the milk that is the goal of the ritual soma’s journey (see also IX.76.2). In c he “keeps company with” (sacate) the semen of heaven (divó rétasā). On the cosmic plane this is the rain; in the ritual it is the water with which the soma is mixed after filtering and before the mixing with milk - though here the two acts of mixture, with water and with milk, may be conflated, with rain/mixing water referred to as payovṛ́dh- ‘milkstrong’. For a slightly clearer passage see IX.84.5. The fact that the verbs of b and c, síṣāsati and sacate, recur in the climactic vs. 7 (see below) supports my view of the structure of this vs. In d most tr. take sumatī́as ours (e.g., Doniger “with kind thoughts we pray …”), whereas I assign it to Soma. In general sumatí- can belong either to mortals or to gods, and very little is at stake here - though I still favor my interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BORN like a youngling he hath clamoured in the wood, when he, the Red, the Strong, would win the light of heaven.  
      He comes with heavenly seed that makes the water swell: him for wide-spreading shelter we implore with prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie das neugeborene junge Tier brüllt er auf das Holzgefäß herab, wenn der rötliche Preisrenner die Sonne zu gewinnen sucht. Er vereinigt sich mit des Himmels milchreichem Samen. Ihn bitten wir freundlich um seinen ausgedehnten Schirm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Wasser schreit er wie ein neugebornes Kind, wenn nach des Himmels Glanz der rothe Renner strebt; Dem Milch-durchtränkten Himmelssamen eint er sich; den flehn mit Andacht wir um ausgedehnten Schutz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как новорожденный ребенок, он заревел, с(пускаясь) в деревянный сосуд.  
 Когда рыжий победоносный конь хочет завоевать солнце.  

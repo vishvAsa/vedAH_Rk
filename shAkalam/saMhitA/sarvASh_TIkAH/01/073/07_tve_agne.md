@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ अग्ने सुमति꣡म् भि꣡क्षमाणा  
 दिवि꣡ श्र꣡वो दधिरे यज्ञि꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृष्णं꣡ च व꣡र्णम् अरुणं꣡ च सं꣡ धुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नक्ता॑ । च॒ । च॒क्रुः । उ॒षसा॑ । विरू॑पे॒ इति॒ विऽरू॑पे । कृ॒ष्णम् । च॒ । वर्ण॑म् । अ॒रु॒णम् । च॒ । सम् । धु॒रिति॑ धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -133,48 +133,48 @@ genre M
 हे **अग्ने** **सुमतिं** शोभनामनुग्रहात्मिकां बुद्धिं **भिक्षमाणाः** याचमानाः **यज्ञियासः** यज्ञार्हाः सर्वे देवाः **दिवि** द्योतमाने **त्वे** त्वयि **श्रवः** हविर्लक्षणमन्नं **दधिरे** अस्थापयन् । अग्निर्देवानामन्नादः' (तै. ब्रा. ३.१.४.१.) इति श्रुतेः। तदनन्तरं तादृशे हविर्युक्तायानुष्ठानाय **विरूपे** विविधरूपे **उषसा** उषःकालोपलक्षितमहः । **नक्ता** **च** नक्तं रात्रिं च **चक्रुः** अकुर्वन् । एतदेव स्पष्टयति । **कृष्णं** **च** **वर्णं** रात्र्यां श्यामलवर्णमन्धकारम् अह्नि **अरुणम्** आरोचनं श्वेतवर्णं तेजः **च** **सं** **धुः** सम्यक् स्थापितवन्तः ॥ त्वे। सुपां सुलुक् ' इति सप्तम्याः शेआदेशः । नक्ता । तेनैव द्वितीयाया डादेशः । उषसा । तेनैव विभक्तेः आकारः । धुः । डुधाञ् धारणपोषणयोः' । लुङि ‘गातिस्था०' इति सिचो लुक् । आतः' इति झेः जुसादेशः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The gods), who are entitled to worship, soliciting your good will, have entrusted to you, resplendent **Agni**, the (sacrificial) food, and, (for the due observance of sacred rites), they have made the night and morning of different colours, or black and purple.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking a portion of favor in you, those worthy of worship [=gods] set  their fame in heaven.  
 They made night and dawn of different forms, and they put together  the black color and the red.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. agne was inadvertently omitted from the published translation, so “o Agni” should be inserted after “in you.” The second pāda could also mean “they acquired fame in heaven.” The phrase should be read with 5d bhāgáṃ devéṣu śrávase dádhānāḥ and 10c ádhi śrávo devábhaktaṃ dádhānāḥ. The latter passage, especially, suggests that ‘acquire’ is the better rendering.
 
 The accented cakrúḥ in c can be explained, following Klein (DGRV I.176-77), as triggered by the “rhetorically complementary nature of pādas c and d.” There is no need to take the ca in c as a subordinator, particularly because subordinating ca introduces conditional clauses. Note the contrast between ví(rūpe) and sáṃ (dhuḥ), a common rhetorical pairing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, with thee, soliciting thy favour, the holy Ones have gained glory in heaven.  
      They made the Night and Dawn of different colours, and set the black and purple hues together.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Imploring favour from thee, O Agni, the worshipful (gods) have won glory in the sky. They have made Night and Dawn of different shapes; they have joined the black and red colour (to Night and Dawn).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem sie von dir, Agni, sich die Gunst ausbitten, haben die Opferwürdigen im Himmel Ruhm erworben. Sie haben Nacht und Morgen, die ungleichen, geschaffen, die dunkle und die rötliche Farbe aneinander gefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir, o Agni, holden Sinn erbittend, erlangten Ruhm im Himmel die verehrten; Sie machten ungleichfarbig Nacht und Morgen, die rothe Farbe an die schwarze fügend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испрашивая, о Агни, у тебя благословения,  
 Достойные жертв (боги) приобрели славу на небе.  

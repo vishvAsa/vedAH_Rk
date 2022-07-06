@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ त꣡म् मन्ये यो꣡ व꣡सुर्  
 अ꣡स्तं यं꣡ य꣡न्ति धेन꣡वः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 अस्त॑म् । अर्व॑न्तः । आ॒शवः॑ । अस्त॑म् । नित्या॑सः । वा॒जिनः॑ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 **तम्** **अग्निं** **मन्ये** स्तौमि । **यः** अग्निः **वसुः** वासकः । **यम्** **अस्तं** सर्वेषां गृहवदाश्रयभूतं **धेनवः** **यन्ति** गच्छन्ति प्रीणयितुम् । **अस्तम्** उक्तलक्षणम् **अर्वन्तः** अरणवन्तोऽश्वाः । **आशवः** शीघ्रगामिनो यन्ति । तथा **नित्यासः** नित्यप्रवृत्तयः **वाजिनः** हविर्लक्षणान्नवन्तः यजमाना यम् **अस्तं** यन्ति तं मन्ये । **इषम्** अन्नं **स्तोतृभ्यः** अस्मभ्यम् **आ** **भर** अग्ने ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M
 Astam = gṛham
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I think of Agni, who is the good one, to whom milk-cows go home, swift chargers (go) home, and our own prizewinners (go) home.  
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I VALUE Agni that good Lord, the home to which the kine return:  
      Whom fleet-foot coursers seek as home, and strong enduring steeds as home. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I think of that Agni who is a Vasu, to whom the milch-cows go home, the swift horses (go) home, (our) own racers (go) home. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni habe ich im Sinn, der der Gute ist, zu dem die Kühe heimkehren, die raschen Rennpferde heimkehren, die eigenen Sieger heimkehren. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des guten Agni denke ich, zu dem die Kühe kehren heim, Und heim die schnellen Renner auch, die steten Priester kehren heim; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я думаю о том Агни, который добр,  
 К которому возвращаются домой дойные коровы,  

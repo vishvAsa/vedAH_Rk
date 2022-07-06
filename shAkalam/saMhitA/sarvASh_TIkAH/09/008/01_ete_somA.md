@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ सो꣡मा अभि꣡ प्रिय꣡म्  
 इ꣡न्द्रस्य का꣡मम् अक्षरन्  
 व꣡र्धन्तो अस्य वीरि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वर्ध॑न्तः । अ॒स्य॒ । वी॒र्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -86,41 +86,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** अभिषुता इमे **सोमाः** **अस्य** इन्द्रस्य **वीर्यं** शक्तिं **वर्धन्तः** वर्धयन्तः **इन्द्रस्य** **कामं** काम्यं **प्रियं** प्रीतिकरं रसम् **अभि** **अक्षरन्** अभिपवन्ते अभ्यवर्षन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These **Soma** juices distil the dear desire of **Indra**, increasing his vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These soma juices have flowed toward Indra’s own desire,  
 increasing his heroic power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c, várdhanto asya vīryàm, is structured like 1c and 8c in the immediately preceding hymn, IX.7, though here asya must refer to Indra, not Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 OBEYING Indra's dear desire these Soma juices have flowed forth,  
      Increasing his heroic might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Somasäfte sind Indra´s liebem Wunsch entgegengeflossen, seine Manneskraft erhöhend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somatränke strömten hier dem lieben Wunsch des Indra zu, Sie stärken seine Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти соки сомы потекли  
 Навстречу милому желанию Индры,  

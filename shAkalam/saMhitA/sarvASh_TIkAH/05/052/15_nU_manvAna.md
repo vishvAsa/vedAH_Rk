@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ मन्वान꣡ एषां᳐  
 देवाँ꣡ अ꣡छा न꣡ वक्ष꣡णा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 या꣡मश्रुतेभिर् अञ्जि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दा॒ना । स॒चे॒त॒ । सू॒रिऽभिः॑ । याम॑ऽश्रुतेभिः । अ॒ञ्जिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -96,21 +96,21 @@ genre M
 **नु** क्षिप्रम् **एषां** मरुताम् । एतान् मरुत इत्यर्थः । **मन्वानः** स्तुवन् **देवान्** मरुद्व्यतिरिक्तान् **वक्षणा** वहनेन निमित्तेन **अच्छ** अभिप्राप्तुं **न** मनुते । स स्तोता **सूरिभिः** मेधाविभिः **यामश्रुतेभिः** शीघ्रगमनेन विश्रुतैः **अञ्जिभिः** फलस्य व्यञ्जकैर्मरुद्भिः ॥ सर्वाः पञ्चम्यर्थे तृतीयाः ॥ उक्तलक्षणेभ्यो मरुद्यःप् **दाना** अभिमतदानानि **सचेत** संगच्छते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorifying them promptly, desiring not to bring (other) deities to (his) presence, let (the worshipper) associate his gifts with those wise (divinities) renowned for their velocity, and distributors (of rewards).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now (a man) paying mind to them, (who approaches) to the gods as if  to udders,  
 he would keep company with a gift, through (the auspices of) the  
 patrons famed on the course [=Maruts] and by their unguents.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is a variant of 14, with the parts somewhat differently distributed.
 
@@ -128,23 +128,23 @@ The real problem in this vs. is vakṣáṇā. In the published translation I fo
 neut. nom. pl. (“wie zu den Göttern die Stärkungen”); Witzel Gotō maintain the ‘udder’ analysis but take it as a nom. sg.: “Der … (wendet) sich den göttlichen (Maruts) zu wie ein Schlauch (der gefüllt sein will).” This last is the most ingenious and does the least violence to the morphology / repertoire of stems, but the image is an odd one, to say the least. My explanation, admittedly rather weak, starts from the similar patterning of vss. 14 and 15: 1) the ácha + acc. gods noted above (though ácha differently positioned), in each case requiring a verb to be supplied; 2) dānā́(beg. of 14b/15c); 3) the parallel endings of the b pādas: 14b … ná yoṣánā / 15c … ná vakṣánā. The final word of each of these pādas is problematic: yoṣáṇā has the wrong accent, vakṣáṇā has the wrong ending. I suggest that the words were mutually adjusted to each other, either in composition or redactionally. Oldenberg already suggested (in his n. 2) that yoṣáṇā might owe its accent to vakṣáṇā, but the suggestion was halfhearted since he really wanted to emend the accent of vakṣáṇā to *vákṣaṇā, as I just noted. However, this seems the best explanation of the accent of yoṣáṇā, and conversely this allows us also to assume that acc. pl. *vakṣáṇāḥ lost its -ḥ to match yoṣánā. Although this may seem no different from Geldner’s and Renou’s arbitrary conferral of neut. gender, my explanation is contextually tied and has some possibility of being correct.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thinking of these now let him come, as with the escort of the Gods,  
      And with the splendid Princes, famed for rapid courses, to the gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der jetzt ihrer gedenkt und zu den Göttern kommt wie das Kalb zum Euter, der soll seiner Gabe teilhaft werden durch die freigebigen Herren, die durch ihre Fahrt berühmt sind, die buntgezeichneten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ihrer denkt, vereine sich, wie Opfer zu den Göttern dringt, Mit Gaben nun den Glänzenden, den festberühmten, salbenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Думающий о них сейчас  
 (Пусть приникнет) к богам, как (теленок) к вымени,  

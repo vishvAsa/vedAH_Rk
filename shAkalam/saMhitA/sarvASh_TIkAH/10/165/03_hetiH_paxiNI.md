@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हेतिः꣡ पक्षि꣡णी न꣡ दभाति अस्मा꣡न्  
 आष्ट्र्या꣡म् पदं꣡ कृणुते अग्निधा꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो हिंसीद् इह꣡ देवाः कपो꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शम् । नः॒ । गोभ्यः॑ । च॒ । पुरु॑षेभ्यः । च॒ । अ॒स्तु॒ । मा । नः॒ । हिं॒सी॒त् । इ॒ह । दे॒वाः॒ । क॒पोतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
@@ -140,36 +140,36 @@ popular
 **पक्षिणी** पक्षोपेता **हॆतिः** हननहेतुः कपोतः **अस्मान्** **न** **दभाति** न हिनस्तु । **आष्ट्र्यां** व्याप्तायामरण्यान्याम् **अग्निधाने** अग्निर्निधीयतेऽस्मिन्नित्यग्निसहिते प्रदेशे **पदं** स्थानं **कृणुते** करोति । तत्रैव प्रदेशे निवसत्वित्यर्थः । यद्वा । अश्नन्त्यस्मिन्नित्याष्ट्री पचनशाला । तस्याम् । अग्निधाने यत्र पचनाग्निर्निधीयते तस्मिन् प्रदेशे पदं पादनिधानं कृणुते करोति । तद्धेतुको बाधो नोऽस्माकं न भवत्वित्यर्थः । अपि च **नः** अस्माकं **गोभ्यश्च** **पुरुषेभ्यश्च** **शं** सुख शंसनीयानां दोषाणां शान्तिर्वा **अस्तु** भवतु । हे **देवाः** **इह** अस्मिन् गृहे **कपोतः** **नः** अस्मान् **मा** **हिंसीत्** । युष्मदनुग्रहात् मा बाधताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the winged weapon (of mischief) do us no harm; he takes his plural ce upon the touchwood, the seatof **Agni**; may prosperity attend our cattle and our people, let not the pigeon, gods, do us harm in this (dwelling).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The winged missile will not take us by deception. In the corner [?] it sets  its footprint in the fireplace.  
 Let there be weal for our cattle and for our humans. Let the dove not  harm us here, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the Arrow that hath wings distract us: beside the fire-place, on the hearth it settles.  
      May, it bring welfare to our men and cattle: here let the Dove, ye Gods, forbear to harm us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das geflügelte Geschoß soll uns nicht überfallen; sie setzt in der Küche ihren Fuß auf den Herd. Heil sei unseren Rindern und Leuten; nicht bringe uns hier die Taube Schaden, o Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir durch Wunsch, durch Tadel oder Verwünschung, wachend oder schlafend uns vergangen haben, so möge Agni alle widerwärtigen Uebelthaten ferne von uns hinwegthun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не повредит нас крылатый дротик!  
 Он забирается на очаг в доме.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रम् अ꣡श्वाय गायति  
 श्रुत꣡कक्षो अ꣡रं ग꣡वे  
 अ꣡रम् इ꣡न्द्रस्य धा꣡मने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अर॑म् । इन्द्र॑स्य । धाम्ने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aram*
 - \[adverb\]
@@ -74,7 +74,7 @@ genre M
 श्रुतकक्षो नामर्षिः गवाश्वादिन्द्रं स्तौति । अयं **श्रुतकक्षः** एतन्नामक ऋषिः **अश्वाय** इन्द्रेण दीयमानायाश्वायैतदर्थम् **अरम्** अलं **गायति** इन्द्रविषयं स्तोत्रं करोति । तथा **गवे** **अरम्** अलं गायति । **इन्द्रस्य** इन्द्रकर्तृकाय **धाम्ने** गृहाय तदर्थं च **अरं** पर्याप्तं स्तौति । यदश्वादिकमिन्द्रः प्रयच्छति तस्मै गायतीति । यद्वा । इन्द्रस्येति कर्मणि षष्ठी । गवादिलाभार्थमिन्द्रं स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,12 +85,12 @@ genre M
 Sings for ahorse: indrasya dhāmne = for a house given by Indra; or, Indra's heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Śrutakakṣa [“Famous Armpit”] sings fit for a horse, fit for a cow, fit for the “fundament” [/bestowal] of Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">
 <details open><summary><h2>24-25 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now Srutakaksa sings his song that cattle and the steed may come,  
      That Indra's very self may come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Srutakaksa singt genügend für ein Roß, genügend für ein Rind, genügend für Indra´s Eigenschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Rosse passend und dem Rind, stimmt Çrutakakscha Lieder an, Und passend, Starker, deiner Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

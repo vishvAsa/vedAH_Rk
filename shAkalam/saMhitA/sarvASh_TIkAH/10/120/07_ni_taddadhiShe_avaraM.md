@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ त꣡द् दधिषे अ꣡वरम् प꣡रं च  
 य꣡स्मिन्न् आ꣡विथ अ꣡वसा दुरोणे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त इनोषि क꣡र्वरा पुरू꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । मा॒तरा॑ । स्था॒प॒य॒से॒ । जि॒ग॒त्नू इति॑ । अतः॑ । इ॒नो॒षि॒ । कर्व॑रा । पु॒रूणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -122,7 +122,7 @@ popular
 **तत्** तस्मिन् यजमानस्य गृहे **अवरम्** अल्पं भौमं धनं **परम्** उत्कृष्टं दिवि भवं धनं **च** हे इन्द्र त्वं **नि** **दधिषे** निदधासि । निक्षिपसि । **यस्मिन्** **दुरोणे** गृहे **अवसा** । अन्ननामैतत् । तर्पणकेनान्नेन हविर्लक्षणेन **आविथ** अवसि तृप्यसि ॥ अवतेस्तृप्त्यर्थात्  ‘ छन्दसि लुङलङ्लिटः इति सार्वकालिको लिट् । अत आदेः' इत्यभ्यासस्यात्वम् ।  ‘ यद्वृत्तान्नित्यम्' इति निघातप्रतिषेधः ॥ अपि च **मातरा** सकलस्य भूतजातस्य निर्मात्र्यौ द्यावापृथिव्यौ **जिगत्नू** गमनशीले इतस्ततः प्रचलन्त्यौ **आ** **स्थापयसे** स्वकीये स्थानेऽवस्थापयसि । नैश्चल्येन यथावतिष्ठते तथा करोषीत्यर्थः ।  ‘ विष्वक् तस्तम्भ पृथिवीमुत द्याम् ' (ऋ. सं. १०. ८९. ४ ) इति निगमान्तरम् । हे इन्द्र **अतः** कारणात् **पुरूणि** बहूनि **कर्वरा** । कर्मनामैतत् । कर्वराणि ॥ ‘शेश्छन्दसि बहुलम् । इति शेर्लोपः॥ कर्माणि लौकिकानि वैदिकानि च **इनोषि** प्राप्नोषि ॥  ‘ इण् गतौ ' । व्यत्ययेन श्नुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ popular
 Two wandering mothers: i.e., heaven and earth:viṣvak tastambha pṛthivīmuta dyām: RV 10.89.4)\]. over the great self-ruling herd of cattle, and he opened all his doors.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You deposited this, both the nearer and the farther, in the house in which  you helped with your help.  
 You cause the two parents [=Heaven and Earth], who were in motion, to  stay still, and then you spur on many deeds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou in that house which thy protection guardeth bestowest wealth, the higher and the lower.  
      Thou stablishest the two much-wandering Mothers, and bringest many deeds to their completion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen näheren und ferneren Schatz legst du nieder in dem Hause in dem du mit deiner Gunst brünstig warst. Du gebotest den beiden flüchtigen Eltern Halt. Darauf bringst du viele Arbeiten zuwege.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast bewahrt das untre Gut, das obre, im Hause, wo mit deiner Huld du hold bist; Du stütztest fest die Wandrer, deine Aeltern, und dann vollbringst du viele Heldenthaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это нижнее и верхнее (богатство) ты вкладываешь  
 В (тот) дом, в котором ты был милостив (своей) милостью.  

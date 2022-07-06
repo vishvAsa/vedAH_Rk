@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जो꣡षि अग्ने समि꣡धं जो꣡षि आ꣡हुतिं  
 जो꣡षि ब्र꣡ह्म ज꣡नियं जो꣡षि सुष्टुति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उश꣡न् देवाँ꣡ उशतः꣡ पायया हविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्वे॑भिः । विश्वा॑न् । ऋ॒तुना॑ । व॒सो॒ इति॑ । म॒हः । उ॒शन् । दे॒वान् । उ॒श॒तः । पा॒य॒य॒ । ह॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *joṣy* ← *joṣi* ← *juṣ*
 - \[verb\], singular, Aorist conj./subj.
@@ -130,37 +130,37 @@ genre M
 हेअग्ने समिधं जोषिजुषस्व आहुतिं जोषिजुषस्व ब्रह्मशस्त्रञ्जन्यं जनेभ्योहितं जोषि जुषस्व सुष्टुतिंशोभनस्तोत्रं जोषिजुषस्व किञ्च वसो सर्वेषामावासभूत हेअग्ने उशतःकामयमानान् महः महतः विश्वान् सर्वान् देवान् उशन् कामयमानस्त्वं ऋतुनातपस्यसञ्ज्ञकेनसह तथा विश्वेभिः सर्वैः देवैः सहहविः हवीरूपंसोमम्पायय ॥ ६ ॥उदुष्यइत्येकादशर्चंषष्ठंसूक्तङ्गार्त्समदन्त्रैष्टुभंसवितृदेवताकं अत्रानुक्रमणिका उदुष्यएकादशसावि- त्रमिति व्यूढेदशरात्रेषष्ठेहनिवैशदेवशस्त्रीतत्सूक्तंसावित्रनिविद्धानीयं व्यूढश्चेदितिखण्डेसूत्रितम्— षष्ठस्योदुष्यदेवइतिगार्त्समदमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be plural ased, **Agni**, with the fuel; be plural ased with the oblation; be plural ased with the sacred prayer that is good for man; be plural ased with holy praise, asylum of all; Agni, willing (to accept oblations), render all the great gods desirous (of the same), and with them all, and with the Ṛtu drink the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy the kindling, Agni; enjoy the oblation; enjoy the sacred  
 formulation stemming from your people; enjoy the lovely praise.  
 With all (the gods?), good one, eagerly make all the great gods eagerly  drink the oblation in their turn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, accept the fuel and our offered gift: accept the prayer of man, accept our eulogy,  
      Do thou with all, with Rtu, O thou Excellent, fain, make the great Gods all fain taste the gift we bring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß dir, Agni, das Brennholz, laß dir die Opferspende gefallen, laß dir den für das Volk gesprochenen Segen, laß dir das Preislied gefallen! Mit allen Göttern gib allen großen Göttern zu ihrer Zeit gern den verlangenden die Opfergabe zu trinken, du Guter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm an das Brennholz, Agni, und den Opferguss nimm an die Andacht, nimm das schöne Loblied an; Mit allem, Guter, tränk die grossen Götter du, zur Zeit mit Opfer willig du die willigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайся, о Агни, дровами, наслаждайся возлиянием,  
 Наслаждайся молитвой людской, наслаждайся прекрасным восхвалением!  

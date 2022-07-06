@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् ईं रेभा꣡सो अस्वरन्न्  
 इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 धृत꣡व्रतो हि꣡ ओ꣡जसा स꣡म् ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment
 स्वः॑ऽपतिम् । यत् । ई॒म् । वृ॒धे । धृ॒तऽव्र॑तः । हि । ओज॑सा । सम् । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M;; line affected by realignment
 रेभासः रेभृशब्दे शब्दयितारः स्तोतारः यद्वा रेभासः कश्यपपुत्रारेभाः एतन्नामकाऋषयः ईमेनमिन्द्रं समस्वरन् सम्यगशब्दयन् समस्तुवन् । किमर्थं सोमस्य पीतये सोमपानाय । किञ्च स्वर्पतिं स्वर्गस्यपालयितारं धनस्यस्वामिनंवा ईमेनमिन्द्रं यद्यदा वृधे हविर्भिर्वर्धनाय संस्तुवन्ति तथा धृतव्रतो धृकर्मेन्द्रः ओजसा बलेन स्तोतृभिः ऊतिभिर्मरुद्धिः पालनैश्चसह सङ्गच्छते स्तुतिभिर्बलम्मरुद्भिः पालनं चेन्द्रस्य भवतित्यर्थः ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,30 +128,30 @@ genre M;; line affected by realignment
 United: by the praises of the worshippers he acquires strength, and the **Maruts** are hisguards
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The “raspers” have cried out in unison to him, to Indra to drink of  the soma,  
 so as to increase him, the lord of the sun. For he of steadfast  
 commandments is united with strength and with help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bards joined in song to Indra so that he might drink the Soma juice,  
      The Lord of Light, that he whose laws stand fast might aid with power and with the help he gives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Lobsänger haben zusammen dem Indra zugesungen, Soma zu trinken, dem Herrn der Sonne, auf daß sie ihn zum Erstarken bringen, denn der Gebieter ist mit seiner Kraft, seinen Hilfen vereint.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gemeinsam besangen die Sänger den Indra zum Trunke des Soma's, den Glanzesherrn, damit der Gesetzbeschützer zum Heile sei mit seiner Kraft durch Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Певцы вместе воспели  
 Индру для питья сомы,  

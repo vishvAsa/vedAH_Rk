@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सिंहं꣡ नसन्त म꣡धुवो अया꣡सं  
 ह꣡रिम् अरुषं꣡ दिवो꣡ अस्य꣡ प꣡तिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्य च꣡क्षसा प꣡रि पाति उक्षा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शूरः॑ । यु॒त्ऽसु । प्र॒थ॒मः । पृ॒च्छ॒ते॒ । गाः । अस्य॑ । चक्ष॑सा । परि॑ । पा॒ति॒ । उ॒क्षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *siṃhaṃ* ← *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
@@ -120,20 +120,20 @@ genre M
 **सिंहं** शत्रूणां हिंसकं सिंहसदृशं **मध्वः** उदकस्य **अयासं** प्रेरकं **हरिं** हरितवर्णम् **अस्य** **दिवः** द्युलोकस्य **पतिं** पालकं सोमं **नसन्त** व्याप्नुवन्ति यजमानाः। **युत्सु** संग्रामेषु **शूरः** **प्रथमः** देवानां मध्ये मुख्यः सोमः **गाः** पणिभिरपहृताः **पृच्छते** मार्गज्ञान् । पणीन् हत्वा गा लब्धुं गोमार्गं पृच्छतीत्यर्थः । किंच **अस्य** **चक्षसा** सामर्थ्येन **उक्षा** सेक्ता देवेन्द्रः **परि** **पाति** विश्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The worshippers) reach the lion-like (**Soma**) the dispenser of water, green-tinted, red, the protector of this heaven; a hero in battles, first (among the gods) he seeks the (stolen) cows; by his might the sprinkler (**Indra**) protects (the universe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=waters or cows] draw near the unbridled lion of honey, the tawny,  ruddy master of this heaven.  
 The champion, first in battles, asks for the cows for himself. The young  bull protects them all around with his gaze.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann, Geldner, and Oldenberg (flg. Lanman, Noun Inflec. 414) take mádhvaḥ as a nom. pl.
 
@@ -144,23 +144,23 @@ mádhvaḥ (see the list in Grassmann) the form can be interpr. as a gen. sg. to
 Geldner seems to take ayā́sam with pátim rather than siṃhám, but given that the adj. appears in the same pāda with the lion and given that another animal, the horse, is described as ayā́sam in the next vs. (4a), “unbridled lion” seems more likely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They come to him, red, tawny, Lord of Heaven, the watchful Guardian of the meath, the Lion.  
      First, Hero in the fight, he seeks the cattle, and with his eye the Steer is our protector.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die süßen Milchkühe berühren den Löwen, den unverzagten, rotgelben Herrn dieses Himmels. Als der vorderste Held in den Kämpfen erkundigt er sich nach den Kühen, mit seinem Auge behütet sie der Stier.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem raschen Löwen nahten süsse Tränke, dem rothen Hengst, dem Herrscher dieses Himmels, Der Held verlangt im Kampf zuerst nach Kühen; der Stier bewacht das All mit seinem Blicke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неутомимого льва ласкают (потоки) меда,  
 Золотистого, алого господина этого неба.  

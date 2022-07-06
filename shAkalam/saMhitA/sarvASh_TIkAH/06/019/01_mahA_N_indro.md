@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ इ꣡न्द्रो नृव꣡द् आ꣡ चर्षणिप्रा꣡  
 उत꣡ द्विब꣡र्हा अमिनः꣡ स꣡होभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुः꣡ पृथुः꣡ सु꣡कृतः कर्तृ꣡भिर् भूत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒स्म॒द्र्य॑क् । व॒वृ॒धे॒ । वी॒र्या॑य । उ॒रुः । पृ॒थुः । सुऽकृ॑तः । क॒र्तृऽभिः॑ । भू॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -137,21 +137,21 @@ genre M
 **नृवत्** यथा नेता राजा भृत्यादीनां कामानां पूरयिता तद्वत् **चर्षणिप्राः** चर्षणीनां स्तोतृजनानां कामानां पूरकः **महान्** प्रभूतः **इन्द्रः** **आ** गच्छतु । आ इत्युपसर्गदर्शनात् गच्छत्वित्याख्यातस्याध्याहारः । **उत** अपि च **द्विबर्हाः** द्वयोर्लोकयोः परिवृढः **सहोभिः** शत्रुबलैः **अमिनः** अहिंसनीयः इन्द्रः **अस्मद्य्** क् अस्मदभिमुखं यथा भवति तथा **वीर्याय** वीरकर्मकरणाय **ववृधे** वर्धते । **उरुः** शरीरेण विस्तीर्णः **पृथुः** गुणैः प्रथितः **कर्तृभिः** यजमानैः **सुकृतः** **भूत्** सुष्ठु परिचरितो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the great **Indra**, who is as a monarch the fulfiller (of the desires) of men, come hither; may he who is mighty over the two (realms of space), uninjurable by (hostile) offers, increase (in capacity) for heroism in our presence; may he who is great (in body), eminent (in qualities), be honoured by the performers (of pious acts).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is Indra—manful, filling the domains and doubly lofty,  
 undiminishing in his powers.  
 Inclined toward us, he has been strengthened for his heroic deed. Wide  and broad, he was well made by his makers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation should read “manfully” with adverbial nṛvát.
 
@@ -173,23 +173,23 @@ These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “w
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT, hero-like controlling men is Indra, unwasting in his powers, doubled in vastness.  
      He, turned to us, hath grown to hero vigour: broad, wide, he hath been decked by those who serve him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß ist Indra, ganz wie ein Mann, die Völker erfüllend und doppelt stark, ungemindert an Kräften. Für uns ist er zur Heldentat herangewachsen, umfangreich, breit ward er, wohlerzeugt durch seine Erzeuger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an Kräften, Uns zugewandt erwuchs zu Heldenmacht er weit, breit und schön gebildet von den Bildnern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Велик Индра, подобно (знатному) мужу наполняет он народы,  
 А также крепок вдвойне, (и никаким) силам не извести его.  

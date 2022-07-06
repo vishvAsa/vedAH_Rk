@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा सह꣡स्रचक्षसम्  
 अ꣡थो सह꣡स्रभर्णसम्  
 अ꣡ति वा꣡रम् अपाविषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अति॑ । वार॑म् । अ॒पा॒वि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **सहस्रचक्षसं** बहुदर्शनम् **अथो** अपि च **सहस्रभर्णसं** बहुभरणं **तम्** अभिषुतं **त्वा** त्वां **वारं** वालं दशापवित्रम् **अति** **अपाविषुः** ऋत्विजः पावयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, the thousand-eyed, and the supporter of thousands, they make to flow through the filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, possessing a thousand eyes and bringing a thousand presents, they have purified across the fleece.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The deriv. -bharṇas- in sahásra-bharṇas- is somewhat puzzling: it is difficult to see what motivated its formation and indeed to fix its meaning. It is found 4x (once as a repetition), only in IX, always in the acc. sg. occupying the last 6 syllables of a dimeter line (here, IX.64.25 [=98.1], 64.26), modifying Soma (here), vā́c- (IX.64.25, 26), rayí- (IX.98.1), though the referent never appears in the pāda with the adj. and so the adj. is loosely connected with its referent at best. Here it is obviously meant to match sahásra-cakṣas- ‘having a thousand eyes’ in the same metrical position in the preceding pāda, and for this reason I think it possible that this passage is the locus for its creation. But the match is not very good: though both are -as-stems, the suffixes (-nas- versus -as-) aren’t superimposable.
 
@@ -107,23 +107,23 @@ The chaining described in the published introduction. here involves repeating sa
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee who hast thousand eyes to see, bearer of thousand burthens, they  
      Have filtered through the fleecy cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Tausendäugigen und Tausendaufwiegenden haben sie durch die Seihe geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt liessen durch die Wolle sie dich, der du tausend Augen hast Und tausend Gaben, rieseln hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

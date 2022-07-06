@@ -8,7 +8,7 @@ title = "+031"
 ‘प्र सोमासः' इति षडृचं सप्तमं सूक्तं राहूगणस्य गोतमस्यार्षं सौम्यम्। 'प्र सोमासो गोतमः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 31 (743)  
 Soma Pavamāna  

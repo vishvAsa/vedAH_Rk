@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् अस्य ते꣡ ध्वस꣡यन्तो वृ꣡थेरते  
 कृष्ण꣡म् अ꣡भ्वम् म꣡हि व꣡र्पः क꣡रिक्रतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभिश्वस꣡न् स्तन꣡यन्न् ए꣡ति ना꣡नदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । सी॒म् । म॒हीम् । अ॒वनि॑म् । प्र । अ॒भि । मर्मृ॑शत् । अ॒भि॒ऽश्व॒सन् । स्त॒नयन् । एति॑ । नान॑दत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -127,48 +127,48 @@ genre M
 **आत्** अनन्तरम् अस्य स्तूयमानस्याग्ने **ते** प्रसिद्धा विस्फुलिङ्गाः **वृथा** सहैव **ईरते** सर्वतो गच्छन्ति । कीदृशास्ते । **ध्वसयन्तः** तमांसि ध्वंसयन्तः तथा **कृष्णवर्णम्** **अभ्वं** महान्तमभिभवद्गमनमार्गं **महि** महत् **वर्पः** रूपं प्रकाशं **करिक्रतः** अत्यर्थं कुर्वन्तः। कस्मिन् काले इति तदुच्यते । **यत्** यदा **महीं** महतीम् **अवनिं** भूमिं **सीं** सर्वतः **मर्मृशत्** पुनःपुनरामृशत् ॥ मृशेर्यङलुगन्तात् शतरि ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ **अभिश्वसन** सर्वतश्चेष्टमानः स्तनयन् शब्दं कुर्वन् **नानदत्** अत्यर्थं शब्दयन् ॥ पूर्ववत् प्रत्ययस्वरौ ॥ अभितः प्रकर्षेण **एति** गच्छति । यदा इतस्ततो जिह्वाभिर्लेलिहानो भुगुभुगुध्वनिं कुर्वन् ज्वलति तदैव विस्फुलिङ्गा उद्भवन्तीत्यर्थः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thereupon those (flames of **Agni**) extend together in all directions, dispersing gloom, and spreading great light along the path of darkness; when (Agni) illumines repeatedly the whole earth, and proceeds panting thundering, and roaring aloud.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 After that do these (flames) of his, producing smoke, rise at will, making  and remaking a black void and a great form,  
 while he goes forth, stroking the great (earth) as his streambed, snorting,  thundering, constantly roaring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. contains three “intensive” participles: kárikrataḥ, mármṛśat, and nā́nadat. All three, in my opinion, express repetitive or repeated action. In particular kárikrataḥ, in my tr. ‘making and remaking’, nicely reflects the constantly changing shape of the smoke rising from the raging flames.
 
 I take mahī́m ‘great’ (fem.) separately from avánim and referring to the earth; by this interpr. the whole earth serves as Agni’s course (‘stream bed’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dispelling on their way the horror of black gloom, making a glorious show these flames of his fly forth,  
      When o'er the spacious tract he spreads himself abroad, and rushes panting on with thunder and with roar.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he stroking his wide course proceeds panting, thundering, roaring, then those sparkling (rays) of his fly about wildly, displaying wondrous darkness, a large sight 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann brechen ausgelassen seine Flammen hervor, Funken stiebend, indem sie das schwarze Ungeheuer, die große Gestalt hervorwirbeln. Wenn er zupackend, anschnaubend, donnernd, laut brüllend seine , mächtige Bahn zieht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann steigen spielend seine sprüh'nden Flammen auf, wenn schwarzes Graun und grosse Pracht er wechselnd schafft, Wenn kräftig er die grosse Himmelsbahn durchstreicht, wenn schnaufend, donnernd er und laut erdröhnend geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот легко приходят в движение эти его дымящие (языки пламени),  
 Создающие черное чудище – великую личину,  

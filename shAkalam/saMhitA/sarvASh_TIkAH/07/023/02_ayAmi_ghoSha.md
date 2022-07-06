@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡यामि घो꣡ष इन्द्र देव꣡जामिर्  
 इरज्य꣡न्त य꣡च् छुरु꣡धो वि꣡वाचि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡नी꣡द् अं꣡हांसि अ꣡ति पर्षि अस्मा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न॒हि । स्वम् । आयुः॑ । चि॒कि॒ते । जने॑षु । तानि॑ । इत् । अंहां॑सि । अति॑ । प॒र्षि॒ । अ॒स्मान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayāmi* ← *yam*
 - \[verb\], singular, Aorist passive
@@ -131,7 +131,7 @@ genre M
 **यत्** यदा **शुरुधः** । शुचं रुन्धन्तीति शुरुध ओषध्यः। **इरज्यन्त** वर्धन्ते तदा हे **इन्द्र** त्वदर्थं **विवाचि** स्तोतरि **देवजामिः** देवानां बन्धुः **घोषः** । स्तुतिरूपः शब्दो घोषः । **अयामि** अकारि । अपि च **जनेषु** मध्ये केनापि **स्वमायुः** स्वजीवितं नहि **चिकिते** न ज्ञायते । यैः **आयुः** क्षीयते **तानीत्** तानि सर्वाण्येव **अंहांसि** पापानि **अस्मान्** **अति** **पर्षि** अतिपारय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ When the plural nts grow up: yacchurudho irajyanta = oṣadhyo varddhante;
 Śurudh =a cow
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cry that is the gods’ kinsman has been offered, Indra, as the rich  spoils were put in order at the verbal contest.  
 Because (the length of) their own lifetime is not perceptible to people,  carry us across just these straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the echoes at the beginning and end of the first pāda: áyāmi … (dev)ájāmi(r). As often, the local patterns created by the use of hapaxes (as devájāmiis in the RV) may help account for their deployment.
 
@@ -159,23 +159,23 @@ I don’t understand Geldner’s rendering of pāda b, where he seems to take si
 The root noun cmpd vívāc- echoes the redupl. pres. vivakmi in the preceding hymn, VII.22.5, though of course the vi’s have nothing to do with each, being the preverb and the reduplicating syllable respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A cry was raised which reached the Gods, O Indra, a cry to them to send us strength in combat.  
      None among men knows his own life's duration: bear us in safety over these our troubles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das den Göttern vertraute Geschrei hat sich erhoben, o Indra, da über die Gewinner im Wettstreit entschieden wird; denn unter den Menschen wird die eigene Lebensdauer nicht gekannt. So hilf du über diese Ängste hinweg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gottverwandte Ruf erscholl, o Indra, als in der Schlacht Befehl die Helden gaben; Nicht ja erkennt der Mensch des Lebens Länge; so führ uns über diese Todesnöthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вознесся крик, о Индра, родственный богам,  
 Когда назначались награды в словесном состязании.  

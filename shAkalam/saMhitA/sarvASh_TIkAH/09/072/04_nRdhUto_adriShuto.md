@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नृ꣡धूतो अ꣡द्रिषुतो बर्हि꣡षि प्रियः꣡  
 प꣡तिर् ग꣡वाम् प्रदि꣡व इ꣡न्दुर् ऋत्वि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡चिर् धिया꣡ पवते सो꣡म इन्द्र ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पुर॑न्धिऽवान् । मनु॑षः । य॒ज्ञ॒ऽसाध॑नः । शुचिः॑ । धि॒या । प॒व॒ते॒ । सोमः॑ । इ॒न्द्र॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nṛdhūto* ← *nṛ*
 - \[noun\], masculine
@@ -126,21 +126,21 @@ genre M
 हे **इन्द्र** पवमानगुणविशिष्टेन्द्र **ते** त्वदर्थं **बर्हिषि** यज्ञेयं **सोमः** **धिया** स्वेन कर्मणा धारया वा **पवते** पात्रेषु स्यन्दते । कीदृशः। **नृधूतः** कर्मनेतृभिर्मनुष्यैः शोधितः  **अद्रिषुतः** ग्रावभिरभिषुतः **प्रियः** देवानां प्रीणयिता **गवां** **पतिः** स्वामी । इन्द्रो गा अलभत तस्माद्गवां स्वामी ॥ **प्रदिवः** । पुराणनामैतत् । पुराणः **इन्दुः** पात्रेषु क्षरन् **ऋत्वियः** ऋतौ जातः । 'ऋतोरण्' छन्दसि घस्' (पा, सू, ५, १, १०५- १ ० ६ ) इति घस् । सित्त्वेन पदसंज्ञायां भसंज्ञानिमित्त ओर्गुणो न भवति । **पुरंधिवान्** । ‘ पुरंधिर्बहुधीः ' (निरु, ६, १३) इति यास्कः । बहुकर्मवान् **मनुषः** मनुष्यस्य **यज्ञ** साधनः “ शुचिः। दीप्यमानः । यद्वा । दशापवित्रेण शुद्धः । एवंगुणः सोमः इन्द्रार्थं पवत इति संबन्धः  ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Shaken by the men, expressed by the stones, the delight (of the gods), the lord of cattle, ancient, distilling (in the vessels) born in due season, (the **Soma** is plural ced) on the sacrd grass; intelligent, the material of the sacrifice of man, pure, the Soma flows for you, **Indra**,of his own accord.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rinsed by men, pressed by stones, the dear one on the ritual grass, the  husband of the cows, from of old the drop that follows the ritual  
 seasons,  
 accompanied by Plenitude, assuring success to the sacrifice of Manu,  gleaming, with insight he purifies himself for you, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although both Geldner and Renou tr. -dhūta- as ‘shaken’, I prefer the more technical soma-ritual sense ‘rinse’. On √dhāv (∾ √dhavi ∾ √dhū) ‘rinse’ as a semantic specialization of the same root meaning ‘shake’, see EWA s.v. DHAVI , Gotō [1st Cl.
 
@@ -163,23 +163,23 @@ Both vss. also begin with a sequence of AGENT/INSTR. + past part. expressions: 4
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Washed by the men, stone-pressed, dear on the holy grass, faithful to seasons, Lord of cattle from of old,  
      Most liberal, completing sacrifice for men, O Indra, pure bright Soma, Indu, flows for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem Barhis von Männern durchgeschüttelt, mit Steinen ausgeschlagen, seit Alters der beliebte Gemahl der Kühe, der die Zeiten einhaltende Somasaft, von der Wunscherfüllung begleitet, des Menschen Opfer ausrichtend, wird der reine Soma mit Kunst für dich, Indra, geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gespült von Männern, steingepresst, lieb auf der Streu, der Kühe Herr, der stets zur rechten Zeit erscheint, Der reiche Indu, der des Menschen Opfer pflegt, hell strömt der Soma, Indra, dir mit Andacht zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взболтанный мужами, выжатый камнями на жертвенной соломе от века  
 Милый супруг коров, сок, своевременно (выжимаемый),  

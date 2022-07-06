@@ -8,7 +8,7 @@ title = "+043"
 यो अत्यइव' इति षडृचमेकोनविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । “यो अत्यइव' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 43 (755)  
 Soma Pavamāna  

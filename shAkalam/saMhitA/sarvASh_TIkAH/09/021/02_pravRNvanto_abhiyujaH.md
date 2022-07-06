@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रवृण्व꣡न्तो अभियु꣡जः  
 सु꣡ष्वये वरिवोवि꣡दः  
 स्वयं꣡ स्तोत्रे꣡ वयस्कृ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्व॒यम् । स्तो॒त्रे । व॒यः॒ऽकृतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravṛṇvanto* ← *pravṛṇvantaḥ* ← *pravṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
@@ -69,20 +69,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रवृण्वन्तः** सुवानं प्रकर्षेण संभजन्तः तथा **अभियुजः** अभियोजयितारः **सुष्वये** सुष्ठु अभिषवकर्त्रे **वरिवोविदः** । ‘ वरिवः' इति धननाम । तस्य लम्भयितारः **स्वयं** **स्तोत्रे** **वयस्कृतः** अन्नस्य कर्तारः । एते धावन्तीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showing favour, assailing foes, giving wealth to him who rightly effuses them, and bestowing food spontaneously on their praiser.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Warding off attackers, finding wide space for the presser,  
 by themselves creating vitality for the praiser.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. lacks a finite verb and can go either with vs. 1 or vs. 3 (or both): they all have as subj. the plural soma juices.
 
@@ -91,23 +91,23 @@ The lexeme prá √vṛ is rare and generally means ‘cover [with INSTR.]’ (e
 However, here and in VII.82.6 it must mean ‘ward off’ (← ‘obstruct forward’?) vel sim.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Driving off foes, bestowing room upon the presser, willingly  
      Bringing their praiser vitalforce.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Angriffe abwehrend, dem pressenden Nothelfer, dem Sänger von selbst Kraft verleihend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Abwehrend aller Feinde Schar, dem Presser spendend hohes Glück, Und selbst dem Sänger schaffend Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отражающие атаки,  
 Находящие простор для выжимателя (сомы),  

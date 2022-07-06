@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ण्वास इन्द्र ते मतिं꣡  
 वि꣡श्वे वर्धन्ति पउं꣡सियम्  
 उतो꣡ शविष्ठ वृ꣡ष्णियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒तो इति॑ । श॒वि॒ष्ठ॒ । वृष्ण्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaṇvāsa* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ते** त्वदीयां **मतिं** बुद्धिं **पौंस्यम्**। बलनामैतत्। बलं च **विश्वे** सर्वे **कण्वासः** कण्वाः स्तोतारः कण्वगोत्रा वा ऋषयः **वर्धन्ति** वर्धयन्ति । ‘छन्दस्युभयथा' इति शप आर्धधातुकत्वात् ‘णेरनिटि' इति णिलोपः । **उतो** अपि च हे **शविष्ठ** शवस्वितम बलवत्तम। ‘ विन्मतोर्लुक् । ‘टेः' इति टिलोपः। ईदृशेन्द्र **वृष्ण्यं** त्वदीयं वीर्यं बलकर्म च कण्वासो वर्धयन्त्येव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All the **Kaṇvas**, **Indra**, magnify your wisdom, your manhood, and, most mighty one, your strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Kaṇvas all strengthen their thought for you, Indra, and your  manliness  
 and your bullishness, most powerful one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, the Kanvas all exalt thy wisdom and thy manly power,  
      And, Mightiest! thine heroic strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kanva´s alle bestärken deine Absicht, Indra, deine Manneskraft und deine Stierkraft, du Mächtigster.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kanva's alle stärken dir, o Indra, Muth und Manneskraft, Und, stärkster, deine Heldenmacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все Канвы, о Индра, усиливают  
 Твою волю, мужество,  

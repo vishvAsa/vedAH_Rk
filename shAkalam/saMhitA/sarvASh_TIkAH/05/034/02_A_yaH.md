@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यः꣡ सो꣡मेन जठ꣡रम् अ꣡पिप्रत  
 अ꣡मन्दत मघ꣡वा म꣡ध्वो अ꣡न्धसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रभृष्टिम् उश꣡ना वधं꣡ य꣡मत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । मृ॒गाय॑ । हन्त॑वे । म॒हाऽव॑धः । स॒हस्र॑ऽभृष्टिम् । उ॒शना॑ । व॒धम् । यम॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **यः** **मघवा** **सोमेन** **जठरं** स्वकीयम् **आ** सर्वतः **अपिप्रत** अपूरयत् **मध्वः** मधुररसस्य **अन्धसः** सोमस्य पानेन **अमन्दत** अतृप्यत्। **यत्** यदा **ईम्** अयं **मृगाय** एतन्नामकाय असुराय **हन्तवे** तं हन्तुं **महावधः** महावज्रः **सहस्रभृष्टिः** अपरिमिततेजाः **उशना** कामयमानः शत्रुं यद्वोशनसा सह **वधं** वज्रं **यमत्** उदयच्छत् तदापिप्रत अमन्दत च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 Thousand-edged: **sahasra** bhṛṣṭim = aparimita **tejas**, of unbounded lustre
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who filled his belly with soma, the bounteous one, drew exhilaration  from the honey, the stalk,  
 when Uśanā, possessing the great weapon, held the thousand-spiked  weapon (out to him), to smash the wild beast.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The overall structure of the vs. is the first issue to address. The first hemistich begins with a rel. clause (in a) with accented verb ápiprata; the second pāda begins with another accented verb, ámandata, which can owe its accent either to its pāda-initial position or to being part of the rel. cl. of pāda a. I choose the former interpr., making b into the main cl. of the vs. (so also Hoffmann, Injunk., 244). Geldner and Witzel Gotō choose the second, with ab containing two parallel rel. clauses. Since the 2nd hemistich consists of a dep. cl. beginning with yád in c, with its accented verb yámat in d, this leaves the vs. without a main cl. Witzel Gotō remedy this by providing a main cl.
 
@@ -163,23 +163,23 @@ to a thematic stem, a 3rd sg. thematic-type injunc. yámat can be backformed.
 On them. ápiprata see Narten 1969 = Kl. Sch. 108-24, esp. 109, 121-24.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who filled full his belly with the Soma's juice, Maghavan, was delighted with the meath's sweet draught,  
      When Usana, that he might slay the monstrous beast, gave him the mighty weapon with a thousand points.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Freigebige, der sich mit Soma den Bauch gefüllt hatte und sich am süßen Trank berauschte, als Usanas, der die großen Waffen hat, ihm die Waffe mit tausend Zacken reichte, um das Tier zu erlegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem mächtigen, der sich mit Soma ganz den Bauch gefüllt und sich berauscht hat an dem süssen Kraut, Dass er voll Lust die tausendzack'ge Waffe schwing', das Wild zu tödten, er, der grosse Waffe trägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Щедрый – (тот,) кто наполнил брюхо сомой,  
 Опьянился медовым напитком,  

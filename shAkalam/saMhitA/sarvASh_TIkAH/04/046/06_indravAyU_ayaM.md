@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रवायू अयं꣡ सुत꣡स्  
 तं꣡ देवे꣡भिः सजो꣡षसा  
 पि꣡बतं दाशु꣡षो गृहे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 पिब॑तम् । दा॒शुषः॑ । गृ॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indravāyū* ← *indra*
 - \[noun\], masculine
@@ -84,35 +84,35 @@ genre M
 हे **इन्द्रवायू** **अयं** सोमः **सुतः** अभिषुतः । **तं** सोमं **देवेभिः** देवैः **सजोषसा** समानप्रीतौ **दाशुषः** हविर्दातुः **गृहे** यागशालायां **पिबतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Vāyu**, this (libation) is poured out sympathizing with the gods, drink it in the dwelling of the donor.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Vāyu, here is the pressed (soma): in concert with the gods drink it in the house of the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, Indra-Vayu, is the juice: drink it, accordant with the Gods,  
      Within the giver's dwelling-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vayu! Hier ist Soma gepreßt, den trinket einträchtig mit den Göttern im Hause des Opferspenders!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier, Indra-Vaju, ist der Saft, den trinkt in des Verehrers Haus, Vereinigt mit der Götter Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Ваю, вот выжатый сок.  
 Единодушные с богами,  

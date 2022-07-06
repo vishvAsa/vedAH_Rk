@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡य उक्थे꣡भिर् जरन्ते  
 तुवा꣡म् अ꣡छा जरिता꣡रः  
 सुत꣡सोमा अहर्वि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 सु॒तऽसो॑माः । अ॒हः॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāya* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 हे **वायो** **जरितारः** स्तोतार ऋविग्यजमानाः **त्वामच्छ** त्वामभिलक्ष्य **उक्थेभिः** आज्यप्रउगादिशस्त्रैः **जरन्ते** स्तुवन्ति। कीदृशाः। 'सुतसोमाः अभिषुतेन सोमेनोपेताः। **अहर्विदः** । अहःशब्द एकेनाह्ना निष्पाद्येऽग्निष्टोमादिक्रतौ वैदिकव्यवहारेण प्रसिद्धः । ऋत्वभिज्ञा इत्यर्थः । ‘अर्चति गायति' इत्यादिषु चतुश्चत्वारिंशत्स्वर्चतिकर्मसु धातुषु **जरते** ह्वयति' (नि. ३. १४, ८) इति पठितम् । स्तुतेरपि अर्चनाविशेषत्वात् औचित्येनात्र स्तुत्यर्थों जरतिधातुः । अच्छशब्दस्य संहितायां ‘निपातस्य च' ( पा. सू. ६. ३. १३६ ) इति दीर्घः । सुतसोमा इत्यत्र बहुव्रीहित्वात् पूर्वपदप्रकृतिस्वरः ( पा. सू. ६. २. १ )। अहर्विद इत्यत्र समासस्वरं ( पा. सू. ६. १. २२३ ) बाधित्वा ‘तत्पुरुषे तुल्यार्थ° ( पा. सू. ६. २. २) इत्यादिना द्वितीयापूर्वपदप्रकृतिस्वरे प्राप्ते तदपवादत्वेन ‘गतिकारकोपपदात्कृत (पा. सू. ६. २. १३९ ) इति कृदुत्तरपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,34 +91,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 With **ukthas** = with **śastras** (hymns of praise recited, not chanted or sung
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vāyu, with their hymns the singers sing you here—  
 they who have pressed soma, who understand the (ritual) days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner suggests that jarante here can be ambiguous, belonging not only to ‘sing’, but also to ‘awaken’, with identical present stem. This is possible, but only with an intransitive sense of ‘awaken’: “the singers awaken / wake up to you,” since the ‘awaken’ present is only intrans. (see Gotō 1987: 150). In any case surely the primary sense is ‘sing’, given the the etymological figure produced by its grammatical subj. jaritā́raḥ ‘singers’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing the days, with Soma juice poured forth, the singers glorify  
      Thee, Vayu, with their hymns of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu! Mit Lobgedichten singen die Sänger dir zu bei ausgepreßtem Soma der Zeiten kundig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Feste kundig nahen nun, o Vaju, mit den Sprüchen dir Die Sänger und mit Somatrank
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 O Ваю, в хвалебных песнях славят  
 Тебя певцы,  

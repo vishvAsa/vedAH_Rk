@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡स्तोष् पते प्र꣡ति जानीहि अस्मा꣡न्  
 सुआवेशो꣡ अनमीवो꣡ भवा नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । त्वा॒ । ईम॑हे । प्रति॑ । तत् । नः॒ । जु॒ष॒स्व॒ । शम् । नः॒ । भ॒व॒ । द्वि॒ऽपदे॑ । शम् । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
@@ -140,7 +140,7 @@ genre M
 हे **वास्तोष्पते** गृहस्य पालयितर्देव त्वम् **अस्मान्** त्वदीयान् स्तोतॄनिति **प्रति** **जानीहि** प्रबुध्यस्व । तदनन्तरं **नः** अस्माकं **स्वावेशः** शोभननिवेशः **अनमीवः** अरोगकृच्च **भव** । किंच वयं **त्वा** त्वां **यत्** धनम् **ईमहे** याचामहे त्वमपि **तत्** धनं **नः** अस्मभ्यं **प्रति** **जुषस्व** प्रयच्छ । अपि च **नः** अस्माकं **द्विपदे** पुत्रपौत्रादिजनाय **शं** सुखकरः **भव** । **चतुष्पदे** अस्मदीयाय गवाश्वादिवर्गाय च **शं** सुखकरो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,14 +151,14 @@ genre M
 Protector: vastoṣpati: **pati**, lord or protector of the **Vastu**, the foundation of a house, put for the house itself; cf.Colebrooke, Asiatic Researches, Vol. VIII, p. 390
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Dwelling Place, greet us. Become easy to enter and  without affliction for us.  
 When we entreat you, favor us in return: become weal for our  
 two-footed, weal for our four-footed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On práti √jñā see comm. ad III.45.4.
 
@@ -172,23 +172,23 @@ On práti √juṣ see comm. ad IX.92.1.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ACKNOWLEDGE us, O Guardian of the Homestead: bring no disease, and give us happy entrance.  
      Whate'er we ask of thee, be pleased to grant it, and prosper thou quadrupeds and bipeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herr der Wohnstatt! Heiße uns willkommen! Der Eingang bei dir sei glückbringend; sei du uns frei von Krankheit! Worum wir dich bitten , das tu uns zu Gefallen; sei unseren Zweifüßlern zum Glück und den Vierfüßlern zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wohnungsherr, erkenn uns als die deinen, schaff guten Eingang uns, entfern die Leiden; Was wir dich bitten, das gewähr uns huldreich, zum Heil sei Menschen und zum Heil den Thieren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вастошпати, признай нас!  
 Будь дарующим нам счастливый вход (в дом), отсутствие болезней!  

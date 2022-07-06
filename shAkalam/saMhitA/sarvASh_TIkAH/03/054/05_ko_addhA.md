@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ अद्धा꣡ वेद क꣡ इह꣡ प्र꣡ वोचद्  
 देवाँ꣡ अ꣡छा पथि꣡या का꣡ स꣡म् एति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रेषु या꣡ गु꣡हियेषु व्रते꣡षु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ददृ॑श्रे । ए॒षा॒म् । अ॒व॒मा । सदां॑सि । परे॑षु । या । गुह्ये॑षु । व्र॒तेषु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 **कः** वा **अद्धा** सत्यभूतं तादृशमर्थं **वेद** वेत्ति । **कः** वा **इह** अस्मिन् प्रज्ञातमर्थं **प्र** **वोचत्** प्र ब्रवीति । किं तत्तदुच्यते । **देवान्** **अच्छ** अभिलक्ष्य **का** **पथ्या** पथि साधुः समीचीनः को वा मार्गः **समेति** सम्यक् प्राप्नोतीति । इममर्थं न कश्चिज्जानाति । न कोऽपि ब्रवीति । किं ते देवा विद्यन्ते । बाढमित्याह । **एषां** दिवि स्थितानां नक्षत्ररूपाणां देवानाम् **अवमा** अधोमुखानि **सदांसि** स्थानानि **ददृशे** दृश्यन्ते । तथापि **परेषु** उत्तमेषु **गुह्येषु** दुर्ज्ञानेषु **व्रतेषु** कर्मसु अनुष्ठितेषु **या** यानि दिवि देवस्थानानि लभ्यन्ते तत्रागन्तुं को मार्ग इति वेदमन्तरेण न कश्चिज्जानातीत्यभिप्रायः ॥ अद्धा । स्वरादिष्वन्तोदात्तत्वेन पठितत्वादन्तोदात्तः । वोचत् । ‘ब्रूञ् व्यक्तायां वाचि'। लुङि • ब्रुवो वचिः' इति वच्यादेशः ।  ‘ अस्यतिवक्तिख्यातिभ्योऽङ्' इति च्लेरादेशः । ‘वच उम्' इत्युमागमः । निघातः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,14 +146,14 @@ genre M
 Abiding plural ces are beheld: as the constellations; superior mysterious rites: in the latter they are made known, it is said, by the **Veda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who knows for certain? Who will here proclaim (it)? What is the pathway  that leads to the gods?  
 Their lowest seats are visible, (but those) that are amid the highest  
 hidden commandments... ?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is also found in the famous cosmogonic (or anti-cosmogonic) hymn X.129, as 6a. The final pāda of that hymn, X.129.7d, ends with an incomplete sentence “or if he does not know …?” (yádi vā ná véda). Though all the standard tr.
 
@@ -164,23 +164,23 @@ We can only discover so much. As for grammar, I take the yā́of d as a neut. pl
 referring to sádāṃsi in c (so also Renou, though with a slightly different interpr. of the rest). Geldner (/Witzel Gotō) instead take it as a fem. nom. sg. referring to the pathyā̀in b, with c as parenthetical. I do not entirely understand the vratéṣu in d. The hidden commandments may be the laws that govern the further reaches of the cosmos.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What pathway leadeth to the Gods? Who knoweth this of a truth, and who will now declare it?  
      Seen are their lowest dwelling-places only, but they are in remote and secret regions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer weiß es gewiß, wer kann es hier verkünden, welcher Weg zu den Göttern geht? - Sichtbar sind ihre untersten Sitze - welcher Weg zu ihrem fernsten, verborgenen Walten führt?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer weiss es recht, wer mag es recht verkünden? wo ist der Pfad, der zu den Göttern führet? Zu sehen sind nur ihre tiefsten Sitze, verborgen ihre höchsten Wirkungsstätten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто поистине, знает, кто здесь провозгласит:  
 Какой путь идет к богам?  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡न् न꣡क्तं त꣡द् दि꣡वा म꣡ह्यम् आहुस्  
 त꣡द् अयं꣡ के꣡तो हृद꣡ आ꣡ वि꣡ चष्टे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अस्मा꣡न् रा꣡जा व꣡रुणो मुमोक्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शुनः॒शेपः॑ । यम् । अह्व॑त् । गृ॒भी॒तः । सः । अ॒स्मान् । राजा॑ । वरु॑णः । मु॒मो॒क्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -151,36 +151,36 @@ popular
 **तदित्** तदेव वरुणविषयं स्तोत्रं **नक्तं** रात्रौ **मह्यं** शुनःशेपाय **आहुः** कर्तव्यत्वेनाभिज्ञाः कथयन्ति। तथा **दिवा** अपि **तत्** एव आहुः। **हृदः** मदीयमनसो निष्पन्नः **अयं** **केतः** प्रज्ञाविशेषोऽपि **तत्** एव कर्तव्यत्वेन **आ** **वि** **चष्टे** सर्वतो विशेषेण प्रकाशयति । **गृभीतः** गृहीतः यूपे बद्धः **शुनःशेपः** एतन्नामको जनः **यं** वरुणम् **अह्वत्** आहूतवान् **सः** **वरुणः** **राजा** **अस्मान्** शुनःशेपान् **मुमोक्तु** बन्धात् मुक्तं करोतु ॥ मह्यम् । ‘ङयि च' इत्याद्युदात्तत्वम् । आहुः । ‘ब्रुवः पञ्चानाम् ' (पा. सू. ३. ४. ८४ ) इति ब्रूञो लटि झेः उसादेशः, धातोः आहादेशश्च । हृदः । ‘पद्दन्' ( पा. सू. ६. १. ६३ ) इत्यादिना हृदयशब्दस्य हृदादेशः । ‘उडिदंपदादिः' इति पञ्चम्या उदात्तत्वम् । शुनःशेपः । शुन इव शेपो यस्य इति समासे शुनः शेपपुच्छलाङ्गूलेषु संज्ञायां षष्ठ्या अलुग्वक्तव्यः' (पा. सू. ६. ३. २१. ४) इति अलुक् । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते ' उभे वनस्पत्यादिषु ' (पा. सू. ६. २. १४०) इति पूर्वोत्तरपदयोः युगपत् प्रकृतिस्वरत्वम् । अह्वत् । ह्वेञो लुङि ‘लिपिसिचिह्वश्च' (पा. सू. ३. १. ५३ ) इति च्लेः अङादेशः । ‘आतो लोप इटि च' ( पा. सू. ६. ४. ६४ ) इति आकारलोपः । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । गृभीतः । ‘हृग्रहोर्भः' इति भत्वम् । सो अस्मान् ।' प्रकृत्यान्तःपादम्' इति प्रकृतिभावः । मुमोक्तु । ‘बहुलं छन्दसि' इति विकरणस्य श्लुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (your praise) they repeat to me by night and by day; this knowledge speaks to my heart; may he whom the fettered Śunahśepas has invoked, may the regal **Varuṇa** set us free.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They say to me just this at night, this by day; my intuition looks out  here from my heart toward this:  
 The one whom Śunaḥśepa called upon when he was seized, let him,  King Varuṇa, release us!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nightly and daily this one thing they tell me, this too the thought of mine own heart repeateth.  
      May he to whom prayed fettered Sunahsepa, may he the Sovran Varuna release us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das versichern sie mir bei Nacht, das am Tag, das sagt mir aus dem Herzen die Erwartung: Er, den der in Bande geschlagene Sunahsepa angerufen hat, der König Varuna muß uns freilassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sagt man mir des Nachts und das bei Tage, das kündet mir des eignen Herzens Stimme: Es wird befrein uns Varuna der König, den einst gefangen Çunasçepa anrief.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О том ночью, о том днем мне твердят,  
 О том этот знак явлен из сердца:  

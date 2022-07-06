@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उग्रः꣡ स꣡न्न् अ꣡निष्टृत  
 स्थिरो꣡ र꣡णाय सं꣡स्कृतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ने꣡न्द्रो योषति आ꣡ गमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यदि॑ । स्तो॒तुः । म॒घऽवा॑ । शृ॒णव॑त् । हव॑म् । न । इन्द्रः॑ । यो॒ष॒ति॒ । आ । ग॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -120,42 +120,42 @@ genre M
 **यः** **उग्रः** उद्गूर्ण ओजस्वी वा **सन्** भवन् **अनिष्टृतः** शत्रुभिरनिस्तीर्णः **स्थिरः** अचलः **रणाय** युद्धाय **संस्कृतः** शस्त्रैरलंकृतः सोमैर्वा संस्कृतः सः **इन्द्रः** **मघवा** धनवान् **यदि** **स्तोतुः** **हवम्** आह्वानं **शृणवत्** शृणोति तर्ह्यन्यत्र **न** **योषति** न गच्छति । किंतु **आ** **गमत्** तत्रैवागच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is fierce, unmoved (by foes) and firm, ready equipped for battle-- if **Maghavan** hears theinvocation of his adorer, he will not go apart (from us) but come here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Though being strong, unprostratable, steadfast, perfected for battle, if the bounteous one will hear the call of a praiser, Indra will not stay  away. He will come here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 At first glance it is hard to find a concessive sense for the pres. part. sán in pāda a, despite its usual value. Indeed Geldner takes ab as an independent nominal clause and begins a new sentence in c. However, the idea may be that although Indra is very tough and primed for battle, he’ll drop everything and come when we call him to the sacrifice.
 
 The sense ‘perfected’ for sáṃskṛta- may be anachronistic; if so, ‘entirely readied’ or the like can substitute.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he, the Mighty, ne'er o'erthrown, steadfast, made ready for the fight,  
      When Indra Maghavan lists to his praiser's call, he will not stand aloof, but come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gewaltig, nicht zu Boden gestreckt, standhaft, zum Kampfe gerüstet ist. - Wenn der Gabenreiche des Sängers Ruf hören sollte, dann möge Indra nicht fernbleiben: er soll herkommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn zu der Schlacht gerüstet er, der starke, nie gestürzte Held, Der mächt'ge Indra auf des Sängers Rufen hört, dann säumt er nicht, dann kommt er her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, будучи грозным, не повергнут ниц,  
 Стоек, готов на битву...  

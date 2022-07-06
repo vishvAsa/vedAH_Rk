@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अयं꣡ त्वां꣡ वृषा꣡कपिश्  
 चका꣡र ह꣡रितो मृगः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 यस्मै॑ । इ॒र॒स्यसि॑ । इत् । ऊं॒ इति॑ । नु । अ॒र्यः । वा॒ । पु॒ष्टि॒ऽमत् । वसु॑ । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -125,36 +125,36 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे इन्द्र **त्वां** प्रति **हरितः** हरितवर्णः **मृगः** मृगभूतः **अयं** वृषाकपिः। मृगजातिर्हि वृषाकपिः । **किं** प्रियं **चकार** अकार्षीत् । **यस्मै** वृषाकपये **पुष्टिमत्** पोषयुक्तं **वसु** धनम् **अर्यो**  **वा** उदार इव स त्वं **नु** क्षिप्रम् **इरस्यसीत्** प्रयच्छस्येव । यः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What (favour) has this tawny deer **Vṛṣākapi** done to you that you should like a liberal (benefactor)bestow upon him wealth and nourish me; **Indra** is above all (the world).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “What has this tawny beast Vr̥ṣākapi done to you—  
 or to the thriving goods of the stranger—that you are jealous of him?” – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What hath he done to injure thee, this tawny beast Vrsakapi,  
      With whom thou art so angry now? What is the votary's foodful store? Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was hat dir dieser Vrisakapi getan, das gelbliche Tier, auf den du wohl gar neidisch bist, oder der blühende Besitz des vornehmen Herrn?" - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so zürnest? oder ist es des frommen nahrungsreiches Gut [was du ihm neidest]? Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

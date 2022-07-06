@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् इ꣡त् ते अस्य꣡ वीरि꣡यस्य चर्किरन्  
 म꣡देषु वृषन्न् उशि꣡जो य꣡द् आ꣡विथ  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 श्रवस्य꣡न्तः सनिष्णत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 ते । अ॒न्याम्ऽअ॑न्याम् । न॒द्य॑म् । स॒नि॒ष्ण॒त॒ । श्र॒व॒स्यन्तः॑ । स॒नि॒ष्ण॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -162,7 +162,7 @@ genre M
 हे इन्द्र **आत्** अत एव हेतोः **ते** **वीर्यस्य** तव संबन्धिने वीर्याय तदभिवृद्धये **चर्किरन्** पुनः पुनः सोमं विकिरन्ति । किरतेर्यङ्लुगन्तात् व्यत्ययेन शः ॥ सर्वेषु सवनेषु वितरन्ति यजमानाः । अत इत्युक्तं कुत इत्याह । **मदेषु** **वृषन्** सोमजनितमदेषु सत्सु हे कामानां वर्षितः **उशिजः** त्वां कामयमानान् यजमानान् **यत्** यतः कारणात् **आविथ** रक्षसि । किंच **सखीयतः** तव सखित्वमात्मन इच्छतोऽस्मान् **यत्** यस्मात् **आविथ** तर्पयसि अभिमतेन प्रीणयसि अतश्चर्किरन् । किंच हे इन्द्र **एभ्यः** यजमानेभ्यः **कारं** शब्दं सिंहनादलक्षणं **चकर्थ** करोषि ॥ करोतेः कर्मणि घञ् । ‘कर्षात्वतः इत्यन्तोदात्तत्वम् ॥ कुत्रेति तदुच्यते । **पृतनासु** संग्रामेषु । किमर्थम् । **प्रवन्तवे** प्रकर्षेण वनितुं संभक्तुम् । युद्धाय हि धीराः संभजन्ते ॥ वनतेस्तुमर्थे तवेन्प्रत्ययः । ‘ तादौ च° ' इति गतेः प्रकृतिस्वरत्वम् ॥ किंच **ते** तव संग्रामवासिनः त्वयि **अन्यामन्याम्** अन्यांश्चान्यांश्च अन्यमन्यं प्रति ॥ कर्मव्यतिहारे सर्वनाम्नो द्विर्वचनम् ॥ **नद्यं** नदिं सन्तोषं समृद्धिम् ॥ ‘टुनदि समृद्धौ । पूर्वरूपत्वं बाधित्वा छान्दसो यणादेशः ॥ **सनिष्णत** संभजन्ते ॥ सनेलेंटि' सिब्बहुलम्' इति सिप् । इट् । व्यत्ययेन पुनः श्नाप्रत्ययः । ‘ आत्मनेपदेष्वनतः' इत्यदादेशे ‘श्नाभ्यस्तयोरातः' इत्याकारलोपः । छान्दसः टेः एत्वाभावः ॥ तथा **श्रवस्यन्तः** अन्नमिच्छन्तो जयाल्लब्धमन्नं काङ्क्षन्तः **सनिष्णत** संभजन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -175,36 +175,36 @@ Uttered a shout: cakartha kāram;
 **Kāra** = **śabda**, sound; **siṃhanāda**-lak.ṣaṇam = war-cry; i.e. you have done a deed, i.e., performed a service
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since then they have constantly celebrated this manly deed of yours at  the revels: that, o bull, you aided the fire-priests—that you aided those  acting as comrades.  
 You made “Game,” for them to prevail in battles.  
 They kept winning one river after another—seeking fame they kept winning.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take kāráṃ √kṛ in d as an expression from gambling: lit. “to do (the decisive) deed,” “to make ‘game’,” that is, “to win.” See kāráṃ √hvā in V.29.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And they have bruited far this hero-might when thou, O Strong One, in thy joy helpest thy suppliants, who sought to win thee for their Friend.  
      Their battle-cry thou madest sound victorious in the shocks of war.  
      One stream after another have they gained from thee, eager for glory have they gained.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und erst recht rühmen sie im Somarausch diese Heldentat von dir, du Bulle, daß du den Usij beigestanden hast, daß du denen beigestanden hast, die sich als Freunde bewährten. Du halfst ihnen in den Kämpfen den Sieg gewinnen. Sie haben einen Strom nach dem anderen gewonnen, auf Ruhm ausgehend gewonnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da rühmten sie auch diese deine Heldenkraft, als du im Rausch, o starker, halfst den heischenden, als den befreundeten du halfst; Du schafftest ihnen hohen Ruhm und liesst in Schlachten siegen sie; Von dir erlangten immer neue Segensflut, die schatzbegier'gen Segensflut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тех пор славят этот твой героический подвиг,  
 Что ты, о бык во время опьянений, помог Ушиджам,  

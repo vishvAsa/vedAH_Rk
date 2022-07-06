@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्या꣡म ते सुमतिं꣡ देवयज्य꣡या  
 क्षय꣡द्वीरस्य त꣡व रुद्र मीढुवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡रिष्टवीरा जुहवाम ते हविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒म्न॒ऽयन् । इत् । विशः॑ । अ॒स्माक॑म् । आ । च॒र॒ । अरि॑ष्टऽवीराः । जु॒ह॒वा॒म॒ । ते॒ । ह॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
@@ -123,41 +123,41 @@ genre M
 हे **मीढ्वः** सेक्तः कामाभिवर्षक नित्यतरुण वा **रुद्र** **क्षयद्वीरस्य** क्षपितप्रतिपक्षस्य मरुद्भिर्युक्तस्य वा **तव** **सुमतिं** शोभनां कल्याणीमनुग्रहात्मिकां बुद्धिं **ते** त्वत्संबन्धिनो वयं **देवयज्यया** देवयागेन त्वद्देवत्येन यज्ञेन **अश्याम** प्राप्नवाम। त्वं च **अस्माकं** **विशः** प्रजाः अभिलक्ष्य **आ** **चर** आगच्छ। किं कुर्वन् । **सुम्नायन्नित्** । सुम्नमिति सुखनाम । तासां प्रजानां सुखमिच्छन्नेव सुखप्रद एव भवेत्यर्थः । ततो वयम् **अरिष्टवीराः** । वीर्याज्जायन्ते इति वीराः प्रजाः । अरिष्टा अहिंसिता वीरा येषां तथाभूताः सन्तः **ते** तुभ्यं **हविः** चरुपुरोडाशादिकं **जुहवाम** चोदिते आधारे प्रक्षिपाम ॥ सुमतिम् । मतिर्मननम् । शोभनं मननं यस्यां बुद्धौ सा सुमतिः ।  ‘ नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् । देवयज्यया ।  ‘ छन्दसि निष्टर्क्य' इत्यादौ यजेः यप्रत्ययो निपात्यते स्त्रीलिङ्गता च । मीढ्वः । मिह सेचने'। ‘दाश्वान्साह्वान्मीढ्वान्°२' इति क्वसुप्रत्ययान्तो निपातितः । संबुद्धौ ‘ मतुवसो रुः' इति रुत्वम् । सुम्नायन् । सुम्नं परेषामिच्छति । छन्दसि परेच्छायामपि ' इति क्यच् । न च्छन्दस्यपुत्रस्य ' इति ईत्वदीर्घयोर्निषेधः ।  ‘ देवसुम्नयोर्यजुषि काठके ' ( पा. सू. ७. ४. ३८) इति विधीयमानम् आत्वं व्यत्ययेन अत्रापि द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Rudra**, showerer (of benefits), may we obtain, through our worship of the gods, the favour of you, who are the destroyer of heroes;come to our posterity, purposing to promote their happiness, while we, having our sons in safety, offer you oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we attain your benevolence though sacrifice to the gods, the  benevolence of you who rule over heroes, o reward-granting Rudra.  
 Bestowing only favor, come roaming toward our clans: possessing heroes  who cannot be harmed, we will pour you an oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the cognate acc. in juhavāma … háviḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By worship of the Gods may we, O Bounteous One, O Rudra, gain thy grace, Ruler of valiant men.  
      Come to our families, bringing them bliss: may we, whose heroes are uninjured, bring thee sacred gifts,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten durch Gottesdienst deine, des Männerbeherrschers, Huld erlangen, o belohnender Rudra. Wohlwollend komme zu unseren Niederlassungen. Mit heilen Männern möchten wir dir Opfer darbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass deine Gunst erlangen, gnäd'ger Rudra, uns, des Männerherrschers durch die Götterhuldigung, Zu unsern Häusern komme her recht hold gesinnt, lass unverletzt an Männern uns das Opfer weihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря жертве богам мы хотим оказаться в милости  
 У тебя, властвующего над мужами, о щедрый Рудра!  

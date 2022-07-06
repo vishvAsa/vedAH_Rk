@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनान꣡ इन्दव् आ꣡ भर  
 सो꣡म द्विब꣡र्हसं रयि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वानि दाशु꣡षो गृहे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । वसू॑नि । पु॒ष्य॒सि॒ । विश्वा॑नि । दा॒शुषः॑ । गृ॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -96,35 +96,35 @@ genre M
 हे **इन्दो** दीप्यमान हे **सोम** **पुनानः** पूयमानस्त्वं **द्विबर्हसं** द्वयोः स्थानयोः परिबृंहणशीलं **रयिं** धनमस्मभ्यम् **आ** **भर** आहर देहि । **त्वं** हि **दाशुषः** हविर्दत्तवतो यजमानस्य **गृहे** स्थित्वा **विश्वानि** सर्वाणि **वसूनि** धनानि **पुष्यसि** पोषयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, **Soma**, when purified bring us the riches of both worlds; you foster all treasures in the house of the donor (of the libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While being purified, o Soma drop, bring here doubly lofty wealth. You foster all goods in the house of the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, while they cleanse thee bring, O Soma, doubly-waxing wealth  
      Thou in the worshipper's abode causest all treasures to increase.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geläutert bring uns, o Somasaft, doppeltstarken Reichtum zu! Du mehrest alle Güter im Hause des Opferspenders.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, bringe rieselnd du den zwiefach starken Reichthum her, Ja, alle Güter lassest du erblühn in des Verehrers Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, о сок сомы, принеси (нам),  
 О сома, богатство двойной прочности!  

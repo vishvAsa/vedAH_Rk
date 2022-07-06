@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु त्वा꣡हिघ्ने अ꣡ध देव देवा꣡  
 म꣡दन् वि꣡श्वे कवि꣡तमं कवीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवे꣡ ज꣡नाय तनु꣡वे गृणानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 करः॑ । यत्र॑ । वरि॑वः । बा॒धि॒ताय॑ । दि॒वे । जना॑य । त॒न्वे॑ । गृ॒णा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **देव** द्योतमानेन्द्र **त्वा** त्वाम् **अध** अस्मिन् काले **विश्वे** सर्वे **देवाः** स्तोतारः **अहिघ्ने** मेघहननाय । वृष्टिप्रदानायेत्यर्थः । **अनु** **मदन्** अनुमदन्ति अनुस्तुवन्ति । कीदृशं त्वाम् । **कवीनां** मेधाविनां मध्ये **कवितमम्** अत्यन्तं कविम् । **यत्र** यस्मिन् काले **गृणानः** स्तोतृभिः स्तूयमानस्त्वं **बाधिताय** दारिद्र्यादिभिः पीडिताय **दिवे** स्तोत्रे **जनाय** **तन्वे** स्तोतॄणां तनयाय च **वरिवः** धनं **करः** अकरोः अददाः । अथवा हे देवेन्द्र अधास्मिन् काले विश्वे सर्वे देवाः सुराः । अहिर्वृत्र एवोच्यते । तस्य हननाय कवीनां कवितमं त्वामनुमदन्ति । यत्र यस्मिन् स्तोत्रे सति बाधिताय असुरैः पीडिताय दिवे द्युलोकनिवासाय जनाय तन्वे शोभायै वृत्रहननेन तव शोभार्थं वरिवश्चकर्थ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,36 +138,36 @@ genre M
 When propitiated: **yatra** varivo bādhitāya dive janāya tanve gṛṇaḥ **karaḥ** = yasmin kāle piditya stotre janāya tat tanayāya ca dhanam stūyamāṇo adadaḥ = when being praised, you have given ease to the celestial people through the relief, tanve, śobhāyai, caused by the demolition of Ahi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then, o god, all the gods cheer you on for the serpent-smashing, (you)  the best poet of poets,  
 when you will create wide space for oppressed heaven, for its people  and for yourself as you are being sung.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The aor. subjunctive káraḥ is generally taken as preterital, an interpr.
 
 licensed by Grassmann, who identifies it as “Impf.” But this is morphologically irresponsible, and further, given the injunc. mádan in the main cl. (b), a proper subj. value is quite possible. I think this is an example of the standard rhetorical move to take Indra’s signal mythological deeds and make them a model for his behavior in the future, to our benefit. The next and final vs. continues this point of view. See Hoffmann (Injunk. 55 and n. 37) for a similar assessment, though he also envisions the possibility of “Konjunktiv im präteritalen Sachverhalt.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, O God, the wisest of the Sages, all Gods were joyful when thou slewest Ahi.  
      When lauded for thyself, thou gavest freedom to sore-afflicted Heaven and to the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da jubelten alle Götter dir, o Gott, dem Weisesten der Weisen im Drachenkampf zu, in dem du gepriesen dem bedrängten Himmel, dem Volke, dir selbst einen Ausweg schufest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da jauchzten dir, o Gott, die Götter alle, der klugen klügstem zu, o Drachentödter, Als dem bedrängten Rettung du verschafftest, dem Volk, dem Himmel und dir selbst, gepriesner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А при убийстве змея тобой восторгались  
 Все боги, о бог, мудрейший из мудрых.  

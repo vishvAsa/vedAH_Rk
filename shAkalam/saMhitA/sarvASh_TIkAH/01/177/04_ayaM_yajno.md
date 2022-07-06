@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ यज्ञो꣡ देवया꣡ अय꣡म् मिये꣡ध  
 इमा꣡ ब्र꣡ह्माणि अय꣡म् इन्द्र सो꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बा निष꣡द्य वि꣡ मुचा ह꣡रीह꣡°
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्ती॒र्णम् । ब॒र्हिः । आ । तु । श॒क्र॒ । प्र । या॒हि॒ । पिब॑ । नि॒ऽसद्य॑ । वि । मु॒च॒ । हरी॒ इति॑ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -145,7 +145,7 @@ genre M
 अहर्गणेषु मध्येष्वहःसु हारियोजनग्रहस्य याज्या । अग्निष्टोमोऽत्यग्निष्टोमः' इति खण्डे सूत्रितम्- अयं यज्ञो देवया अयं मियेध इतीतरेषु ' ( आश्व. श्रौ. ६. ११ ) इति ॥ हे **इन्द्र** **अयं** **यज्ञो** **देवयाः** देवान् गच्छन् भवति । तथा **अयं** यज्ञः **मियेधः** । मेधः पशुः । पशुवै मेधः' इति हि श्रुतिः । **इमा** इमानि **ब्रह्माणि** मन्त्राः । अयं सुतः **सोमः** । **स्तीर्णं** **बर्हिः** आसनायास्तृता दर्भाः । एते पदार्थास्त्वदुचिता एवं संपादिताः । हे **शक** इन्द्र **तु** पुनः किमित्युक्ते **आ** **प्र** **याहि** प्रकर्षेण शीघ्रमागच्छ । आगत्य च **निषद्य** बर्हिष्युपविश्य **पिब** सोमम् । तदर्थम्। **इह** अस्मिन् देवयजने **हरी** अश्वौ **वि** **मुच** वियोजय ॥ छान्दसो नुमभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,29 +156,29 @@ genre M
 This is the offering of the victim: **ayam** miyedha; miyedha is an epithet of **yajña**, from **medha** = **paśu**, a victim
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the sacrifice, proceeding to the gods; here is the ritual meal, here  the sacred formulations, here the soma, Indra.  
 The ritual grass is strewn. Drive forth toward it here, able one. Drink,  having sat down on it. Unharness your two fallow bays here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here is God-reaching sacrifice, here the victim; here, Indra, are the prayers, here is the Soma.  
      Strewn is the sacred grass: come hither, Sakra; seat thee and drink: unyoke thy two Bay Coursers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist das Opfer, das zu den Göttern geht, dies das Opfermahl, diese die erbaulichen Reden, dies der Soma, o Indra. Das Barhis ist ausgelegt, komm doch her, du Mächtiger, nimm Platz und trink, spann hier die Falben aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist das Opfer, hier die Götterspeise, hier die Gebete, hier, o Indra, Soma, Gestreut das Lager, komm doch her, o starker, sitz nieder, trinke, löse ab die Füchse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот жертва, идущая к богам, вот жертвенная похлебка,  
 Вот молитвы, вот, о Индра, сома.  

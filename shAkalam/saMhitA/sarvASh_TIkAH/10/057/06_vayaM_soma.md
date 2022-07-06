@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ सोम व्रते꣡ त꣡व  
 म꣡नस् तनू꣡षु बि꣡भ्रतः  
 प्रजा꣡वन्तः सचेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 प्र॒जाऽव॑न्तः । स॒चे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -78,7 +78,7 @@ popular
 हे **सोम** देव **वयं** बन्ध्वादयः **तव** **व्रते** त्वदीये कर्मणि । व्रतमिति कर्मनाम । तव **तनूषु** त्वदीयेष्वङ्गेषु च मनः **बिभ्रतः** तात्पर्ययुक्तां बुद्धिं धारयन्तः.”प्रजावन्तः प्रजाभिः पुत्रपौत्रादिभिर्युक्ताः सन्तः **सचेमहि** संगच्छेमहि । जीवं व्रातं चेति शेषः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ popular
 **Yajus**. 3.56: Soma is especially the deity at sacrifices to the **pitṛs**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under your commandment, o Soma, bearing mind in our bodies,  
 may we, along with our offspring, keep company with it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma with the spirit still within us, blest with progeny,  
      May we be busied in the law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten, o Soma, in deinem Dienste, den Geist im Körper tragend, mit Nachkommenschaft gesegnet ihr angehören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deinem Dienste mögen wir, o Soma, reich an Kindern, sein, Den Geist bewahrend in dem Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим, о сома, (живя) в твоем обете,  
 Неся дух в телах,  

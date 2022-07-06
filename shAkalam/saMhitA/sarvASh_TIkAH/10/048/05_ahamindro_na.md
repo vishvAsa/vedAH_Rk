@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् इ꣡न्द्रो न꣡ प꣡रा जिग्य इ꣡द् ध꣡नं  
 न꣡ मृत्य꣡वे अ꣡व तस्थे क꣡दा चन꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 न꣡ मे पूरवः सखिये꣡ रिषाथन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सोम॑म् । इत् । मा॒ । सु॒न्वन्तः॑ । या॒च॒त॒ । वसु॑ । न । मे॒ । पू॒र॒वः॒ । स॒ख्ये । रि॒षा॒थ॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -142,36 +142,36 @@ genre M
 **इन्द्रः** सर्वस्य धनस्य स्वामी **अहं** **धनम्** आत्मीयं **न** **परा** **जिग्य** **इत्** नैव पराभावयामि । मदीयं धनं न पराभूयत इत्यर्थः। किंचाहं **मृत्यवे** सर्वेषां मारकाय **कदा** **चन** कदापि **न** **अव** **तस्थे** नावस्थितो भवामि । इन्द्रभक्ता न मृत्युभाजो भवन्ति किल किमु वक्तव्यमिन्द्रस्य मृत्युविरहे । यस्मादेवं तस्मात् **सोमं** **सुन्वन्तः** हे यजमानाः **वसु** युष्मदपेक्षितं धनं **मा** **इत्** मामेव **याचत** । हे **पूरवः** मनुष्याः **मे** **सख्ये** **न** **रिषाथन** मा रिष्टा भवथ। मत्सख्यं मा विनाशयत ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I, **Indra**, am not surpassed in affluence; I never yield to death; pouring forth the **Soma** libation, ask ofme wealth; O men, forfeit not my friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am Indra: only I have not had the stake won away, and never have  I given way to death.  
 Just when you are pressing soma, beg me for good things. You will not  suffer harm in partnership with me, o Pūrus.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra am I none ever wins my wealth from me never at any time am I a thrall to death.  
      Pressing the Soma, ask riches from me alone: ye, Purus, in my friendship shall not suffer harm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich Indra habe nie den Gewinn verspielt, und auch nicht einmal war ich dem Tod verfallen. Presset Soma aus und bittet mich um Gut! In meiner Freundschaft sollt ihr Puru´s keinen Schaden erleiden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich Indra gebe nimmer meine Beute hin; und auch dem Tode falle nimmer ich anheim; Presst Soma nur, dann mögt ihr fordern jedes Gut, in meiner Freundschaft trifft euch Menschen nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я, Индра, никогда не проигрывал ставки,  
 (И) ни разу не попадался смерти.  

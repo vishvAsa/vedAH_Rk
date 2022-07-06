@@ -8,7 +8,7 @@ title = "+077"
 ‘जज्ञानः' इत्येकादशर्चमष्टमं सूक्तं काण्वस्य कुरुसुतेरार्षम् । आद्या नव गायत्र्यो दशमी बृहत्येकादशी सतोबृहती । इन्द्रो देवता । तथा चानुक्रान्तं- जज्ञान एकादश प्रगाथान्तम्' इति । महाव्रते निष्केवल्ये 'जज्ञानो नु शतक्रतुः' इत्येषा । तथैव पञ्चमारण्यके सूत्रितं- जज्ञानो नु शतक्रतुरित्येका' (ऐ. आ. ५. २. ३) इति
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 77 (686)  
 Indra  
@@ -22,7 +22,7 @@ The last two verses (10–11) are in different meter. The first gives a précis 
 ing the Viṣṇu verse onto the Viṣṇu-less version found in the gāyatrī portion of the  hymn. The final verse (11) is a high rhetorical celebration of the Bunda bow and of  Indra’s arms that wield it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

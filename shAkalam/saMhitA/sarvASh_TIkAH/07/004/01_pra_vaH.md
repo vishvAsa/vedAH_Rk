@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वः शुक्रा꣡य भान꣡वे भरध्वं  
 हव्य꣡म् मतिं꣡ च अग्न꣡ये सु꣡पूतम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡र् वि꣡श्वानि विद्म꣡ना जि꣡गाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । दैव्या॑नि । मानु॑षा । ज॒नूंषि॑ । अ॒न्तः । विश्वा॑नि । वि॒द्मना॑ । जिगा॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -122,37 +122,37 @@ genre M
 हे हविषां वोढारः **वः** यूयं **शुक्राय** शुभ्राय **भानवे** दीप्ताय **अग्नये** सुपूतं सुशुद्धं **हव्यं** **मतिं** स्तुतिं च **प्र** **भरध्वम्** । **यः** अग्निः **दैव्यानि** **मानुषा** मानुषाणि च **विश्वानि** **जनूंषि** जातानि **अन्तः** अन्तरा **विद्मना** प्रज्ञानेन मार्गेण वा **जिगाति** गच्छति । देवान् मनुष्यांश्च अन्तरा हवींषि नेतुं वर्तत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer your sacred oblation, and praise the bright and radiant **Agni**, who passes with wisdom between alldivine and human beings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring forth your offering and your thought, well-purified, to the flaming  ray of light, to Agni,  
 who with wisdom goes among all races, the divine ones and those  
 descended from Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING forth your gifts to his refulgent splendour, your hymn as purest offering to Agni,  
      To him who goes as messenger with knowledge between all songs of men and Gods in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet dem Agni zu hellem Glanz euer wohlgeklärtes Opfer und Gebet dar, der zwischen allen göttlichen und menschlichen Geschlechtern kundig als Bote geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bringt eurem Agni, ihm, dem hellen Lichte, Gebet und Opfer dar als reinste Gabe, Der zwischen allen göttlichen Geschlechtern und menschlichen mit weisem Sinne wandert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принесите светлому блеску – Агни  
 Вашу жертву и хорошо очищенную молитву,  

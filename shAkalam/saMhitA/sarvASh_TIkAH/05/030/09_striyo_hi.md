@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्त्रि꣡यो हि꣡ दास꣡ आ꣡युधानि चक्रे꣡  
 कि꣡म् मा करन्न् अबला꣡ अस्य से꣡नाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थो꣡प प्रइ꣡द् युध꣡ये द꣡स्युम् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न्तः । हि । अख्य॑त् । उ॒भे इति॑ । अ॒स्य॒ । धेने॒ इति॑ । अथ॑ । उप॑ । प्र । ऐ॒त् । यु॒धये॑ । दस्यु॑म् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *striyo* ← *striyaḥ* ← *strī*
 - \[noun\], accusative, plural, feminine
@@ -149,7 +149,7 @@ genre M
 **दासः** उपक्षपयिता नमुचिरसुरः **स्त्रियः** स्त्री: **आयुधानि** युद्धसाधनानि **चक्रे** **हि** कृतवान् खलु । इन्द्रेण सह योद्धुं प्रहितवानित्यर्थः । **अस्य** असुरस्य संबन्धिन्यः **अबलाः** स्त्रीरूपाः **सेनाः** **मा** मां **किं** **करन्** । किं कुर्युरिति मन्यमान इन्द्रस्तासां मध्ये **अस्य** असुरस्य **धेने** प्रीणयित्र्यौ सुरूपे **उभे** द्वे स्त्रियौ **अन्तः** **अख्यत्** **हि** गृहमध्ये निदधे खलु । **अथ** अनन्तरम् **इन्द्रः** **दस्युं** नमुचिं **युधये** युद्धाय **उप** **प्रैत्** उपप्रागच्छत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -160,14 +160,14 @@ genre M
 What will his feminine le hosts do unto me? Indra is supposed to say this; the two his best beloved: decapitation of Namuci by Indra is related in the **gadā** section of the **Śalya parva** of the **Mahābhārata**; Namuci through fear of Indra, took refuge in the solar rays; Indra promised that he would not harm him if he came forth, but broke his promise, and, on Namuci's issuing forth, cut off his head; by this he incurred the guilt of brahmanicide, for, Namuci was a **brahman**, but Indra was taught expiation of his sin by **Brahmā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because the Dāsa made women his weapons, what can they do to me?  His armies lack strength.694 V.31  
 Since he [=Indra] distinguished both his [=the Dāsa’s?] streams,  
 therefore Indra advanced on the Dasyu to fight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For women as weapons see not only I.104.3 mentioned in the published introduction. but also X.27.10 and disc. ad loc. For my interpretation of the sense of this vs., see published introduction. I am tolerably certain about my reading of the first hemistich, but pāda c is more challenging and has given rise to some curious interpretations. Geldner tr. “denn er hatte darunter seine zwei Frauenbrüste entdeckt,” commenting (perplexingly, at least to me) “Die beiden Milchbrüste für seine beiden Frauen” (n. 9c). (One would assume there would be four in all, at any rate.) Oldenberg thinks the two dhéne refer to the two liquids in the Namuci myth and ultimately (see his ref. to his own NGGW 1893 art. [=KlSch.
 
@@ -184,23 +184,23 @@ tr. to “detected/recognized both of his (weapons) as (just) streams.” Though
 V.30.12, 14: The Anukr. takes ṛṇaṃcayá- as the PN of the king, and the standard interpr. follow this, incl. the published translation I now wonder if it is at least a speaking name - and perhaps not a name at all but a descriptor: “requiting debts.” The royal patron who distributes largesse to poets and priests at a sacrifice is, from the point of view of the ritual economy, requiting his debts to them, who attracted the gods to the sacrifice and entertained them, leading them to grant tangible and intangible rewards to the patron.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Women for weapons hath the Dasa taken, What injury can his feeble armies To me?  
      Well he distinguished his two different voices, and Indra then advanced to fight the Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Dasa hatte nämlich Weiber zu seinen Waffen gemacht - "Was können mir seine schwächlichen Wehren anhaben?" So sprach Indra, denn er hatte darunter seine zwei Frauenbrüste entdeckt. Darauf ging Indra vor, um den Dasyu zu bekämpfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Weiber nahm der Dämon sich zur Heerschar, »Was können thun mir seine schwachen Scharen?« Er sah ihn zwischen seinen beiden Weibern; zu kämpfen eilte Indra mit dem Dämon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь женщин сделал даса (своим) оружием.  
 Что могут сделать мне бессильные его войска? –  

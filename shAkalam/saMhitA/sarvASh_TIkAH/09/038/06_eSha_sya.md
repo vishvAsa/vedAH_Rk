@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ पीत꣡ये सुतो꣡  
 ह꣡रिर् अर्षति धर्णसिः꣡  
 क्र꣡न्दन् यो꣡निम् अभि꣡ प्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्रन्द॑न् । योनि॑म् । अ॒भि । प्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -87,37 +87,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एष** **स्यः** स सोमः **पीतये** पानाय **सुतः** अभिषुतः **हरिः** हरितवर्णः **धर्णसिः** धारकः **प्रियं** स्वप्रियभूतं **योनिं** स्थानं द्रोणकलशं **क्रन्दन्** शब्दयन् **अभि** **अर्षति** गच्छति ॥ ॥ २८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That green-tinted, all-sustaining (**Soma**), when effused for the drinking (of the gods), rushes crying aloud to its beloved plural ce.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very one, the tawny one pressed for drinking, rushes steadily, neighing toward his own dear womb.  
 1268 IX. 39–40
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Poured for the draught, this tawny juice  
      flows forth, intelligent, crying out,  
      Unto the well-beloved place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Derselbige zum Trunke ausgepreßte Falbe rinnt ausdauernd brüllend auf seine liebe Stätte zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und er zum Trunk erzeugt, der Hengst, der goldne, starke rennt dahin, Anwiehernd den geliebten Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

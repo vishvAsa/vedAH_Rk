@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ हत्वा꣡हिम् अ꣡रिणात् सप्त꣡ सि꣡न्धून्  
 यो꣡ गा꣡ उदा꣡जद् अपधा꣡ वल꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 संवृ꣡क् सम꣡त्सु स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । अश्म॑नोः । अ॒न्तः । अ॒ग्निम् । ज॒जान॑ । स॒म्ऽवृक् । स॒मत्ऽसु॑ । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,20 +134,20 @@ genre M
 यः अहिम्मेघं हत्वा मेघहननङ्कृत्वासप्तसर्पणशीलाः सिन्धून् स्यन्दनशीलाअपः अरिणात् प्रैरयत् यद्वा सप्तगङ्गायमुनाद्यामुख्यानदीररिणात् रीङ्श्रवणे क्र्यादिः यश्चबलस्यबलनामकस्यासुरस्यअप- धा तत्कर्तृकात्तिरोधानान्निरुद्धागाउदाजत् निरगमयत् अपधा अपपूर्वाद्दधातेरातश्चोपसर्गेइतिभावे- अङ्प्रत्ययः सुपांसुलुगितिपञ्चम्याआकारः यश्चअश्मनोः अश्नुतेव्याप्नोत्यन्तरिक्षमित्यश्मामेघः अत्य- न्तमृदुरूपयोर्मेघयोरन्तर्मध्येवैद्युतमग्निञ्जजान उत्पादयामास यश्चसमत्सु सम्भक्षयन्तियोद्धॄणामायूं- षीतिसमदःसङ्ग्रामाः तेषुसंवृक् हिनस्ति वृणक्तेर्हिंसार्थस्यक्विपिरूपं सइन्द्रोनाहमिति ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, who having destroyed Ahi, set free the seven rivers; who recovered the cows detained by **Bala**; who genitive rated fire in the clouds; who is invincible in battle; he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who, having smashed the serpent, let flow the seven rivers, who drove  away the cattle by uncovering Vala,  
 who produced the fire between two stones, gathering the winnings in  contests – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 yó gā́udā́jad ápa hí valáṃ váḥ. The alternative lexeme may have been used here because a root noun to √vṛ, vṛ-t- with empty -t as always with roots ending in short resonants, risks being mistaken for a root noun to √vṛt.
 
@@ -156,28 +156,28 @@ Because starting fires with stones is not the standard method in the RV -- it us
 Note saṃvṛ́k samátsu sa …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who slew the Dragon, freed the Seven Rivers, and drove the kine forth from the cave of Vala,  
      Begat the fire between two stones, the spoiler in warriors' battle, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who slew the serpent, freed the seven rivers, Who drove the cattle out from Vala's cavern. Who fire between two rocks has generated, A conqueror in fights: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der den Drachen erschlug und die sieben Ströme laufen ließ, der die Kühe heraustrieb nach Beseitigung des Vala, der zwischen zwei Steinen Feuer erzeugte, der Spielgewinner in den Kämpfen - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ahi schlug, die sieben Ströme freiliess, die Kühe trieb aus dem Versteck des Vala, Der zwischen den zwei Festen Feuer zeugte, im Kampf gewann, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, убив змея, пустил струиться семь рек,  
 Кто выгнал коров, (этот) устранитель Валы,  

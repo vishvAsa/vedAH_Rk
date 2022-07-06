@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् वृत्रा꣡णि जङ्घनद्  
 द्रविणस्यु꣡र् विपन्य꣡या  
 स꣡मिद्धः शुक्र꣡ आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम्ऽइ॑द्धः । शु॒क्रः । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -72,7 +72,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विपन्यया** स्तुत्या स्तूयमानः **द्रविणस्युः** द्रविणं धनं स्तोतॄणामिच्छन् यद्वा हविर्लक्षणं  धनमात्मन इच्छन् **अग्निः** **वृत्राणि** आवरकाणि रक्षःप्रभृतीनि तमांसि वा **जङ्घनत्** भृशं हन्तु । कीदृशोऽग्निः । **समिद्धः** सम्यग्दीप्तः अत एव **शुक्रः** शुक्लवर्णः **आहुतः** हविर्भिरभिहुतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,30 +83,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Alternative interpretation: Agni entirely destroys all by manifold worship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni will keep smashing obstacles, seeking chattels, amid  
 admiration—  
 kindled, blazing when bepoured (with ghee)—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni slay the Vrtras,-fain for riches, through the lord of song,  
      Served with oblation, kindled, bright.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möge Agni die Feinde erschlagen, nach ihrem Besitz trachtend, unter Beifall, der entflammt hell wird, wenn mit Schmalz begossen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Feinde schlage, Agni, todt im Beutedrang mit Wundermacht, Entflammt, beopfert, hellen Lichts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Агни разобьет врагов,  
 Ища богатств, при (всеобщем) восхищении,  

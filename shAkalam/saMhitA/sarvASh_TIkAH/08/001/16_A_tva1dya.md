@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तु꣡ अद्य꣡ सध꣡स्तुतिं  
 वावा꣡तुः स꣡ख्युर् आ꣡ गहि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡धा ते वश्मि सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ऽस्तुतिः । म॒घोना॑म् । प्र । त्वा॒ । अ॒व॒तु॒ । अध॑ । ते॒ । व॒श्मि॒ । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 हे इन्द्र **वावातुः** संभक्तुस्त्वां सेवमानस्य **सख्युः** स्तोतुः **सधस्तुतिम्** अन्यैर्ऋत्विग्भिः सह क्रियमाणां स्तुतिम् **अद्य** इदानीं **तु** क्षिप्रम् **आ** **गहि** आगच्छ । **मघोनां** हविष्मतामन्येषामपि यजमानानाम् **उपस्तुतिः** स्तोत्रं **त्वा** त्वां **प्र** **अवतु** प्रगच्छतु प्रतर्पयतु वा। **अध** अधुना **सुष्टुतिं** त्वद्विषयां शोभनां स्तुतिमहमपि **वश्मि** कामये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,12 +122,12 @@ genre M
 Laudation = laudation made byhim together with manyother priests; subsidiary praise: upatutiḥ = stotram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here today to the joint praise from your favorite and comrade. Let the invitatory praise of the bounteous ones help you forward. Then  I am eager for good praise for you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phraseology of this verse echoes some previous ones: its opening ā́tv àdyá is identical to 10a, and vāvā́tar- ‘favorite’ occurs in the RV only here and in 8b (in the same position).
 
@@ -142,23 +142,23 @@ Note the concentration of nominal forms of the root √stu ‘praise’ in these
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come now unto the common laud of thee and of thy faithful friend.  
      So may our wealthy nobles' praise give joy to thee. Fain would I sing thine eulogy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm doch heute zu dem gemeinsamen Lobpreis deines anhänglichen Freundes! Der Beifall der Gönner soll dich ermuntern; darum wünsche ich deinen Lobpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm heute zu dem Lobgesang das liebenden Genossen her; Erfreuen möge dich der Opferherren Preis, auch ich begehre deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди же сегодня на совместное восхваление  
 (Твоего) друга-почитателя!  

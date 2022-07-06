@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा को꣡शम् मधुश्चु꣡तम्  
 अ꣡सृग्रं वा꣡रे अव्य꣡ये  
 अ꣡वावशन्त धीत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अवा॑वशन्त । धी॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -72,7 +72,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 धारानिर्गमनप्रसङ्गादभिधीयते । **मधुश्चुतं** मधुररसस्य च्यावयितारं क्षारयितारं **कोशं** द्रोणकलशम् **अच्छ** अभिलक्ष्य **अव्यये** अविमये अविस्वभूते वा **वारे** वाले दशापवित्रे **असृग्रं** सोमा ऋत्विग्भिः सृज्यन्ते । सृजेः कर्मणि तिङां तिङो भवन्ति' इति झो रमादेशः। किंच **धीतयः** । अङ्गुलिनामैतत् । धयन्ति पिबन्त्याभिरिति । अस्मदीया अङ्गुलयः **अवावशन्त** तान् सोमान् पुनःपुनर्मार्जनार्थं कामयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,13 +83,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 I.e., our fingers desire the **Soma** juices in order to cleanse them again and again
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward the cask dripping with honey they have surged onto the sheep’s  fleece.  
 The insightful thoughts have bellowed.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They have been poured upon the fleece towards the meath-distilling vat:  
      The holy songs have sounded forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach der von Süßigkeit überfließenden Kufe sind sie auf das Schafhaar losgelassen. Laut haben die Gebete geschrieen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen durch des Widders Haar zur honigreichen Kufe hin, Und die Gebete schollen laut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वि꣡श्वानि तिष्ठति  
 पुनानो꣡ भु꣡वनोप꣡रि  
 सो꣡मो देवो꣡ न꣡ सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । दि॒वः । न । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -84,36 +84,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पुनानः** पूयमानः **अयं** **सोमः** **विश्वानि** सर्वाणि **भुवना** भुवनानि सर्वेषां भुवनानाम् **उपरि** **तिष्ठति** । तत्र दृष्टान्तमाह । **देवो** **न** **सूर्यः** । यथा सूर्यो देवः सर्वेषां भुवनानामुपरि तिष्ठति तद्वदयं सोमोऽपीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified **Soma**, like the divine sun, abides above all regions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, being purified, stands above all beings  
 like the Sun-god: he is Soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, shining in his splendour, stands high over all things that exist-  
      Soma, a God as Surya is.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser sich läuternde Soma steht über allen Welten wie Gott Surya.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hoch über alle Wesen steigt empor der Soma, hellentflammt, Gleichwie die Sonne dieser Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он находится над всеми  
 Мирами, когда очищается,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ चन꣡ त꣡त् सूरि꣡भिर् आनश्यां  
 त꣡व ज्या꣡य इन्दर+ सुम्न꣡म् ओ꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रिव꣡रूथेन न꣡हुषा शविष्ठ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वया॑ । यत् । स्तव॑न्ते । स॒ध॒ऽवी॒र॒ । वी॒राः । त्रि॒ऽवरू॑थेन । नहु॑षा । श॒वि॒ष्ठ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -118,20 +118,20 @@ genre M
 हे **सधवीर** वीरैः सहित **शविष्ठ** बलवत्तमेन्द्र **वीराः** स्तोतारः **त्रिवरूथेन** । त्रीणि वरूथान्यावरकाणि भुवनानि यस्य तेन । **नहुषा** शत्रूणां बन्धकेन **त्वया** दत्तं **यत्** **सुम्नं** सुखम् **ओजः** बलं च **स्तवन्ते** स्तुवन्ति हे **इन्द्र** **तव** त्वया दत्तं **ज्यायः** अतिशयेन प्रशस्यं **तत्** सुम्नमोजः **अहं** **चन** अहमपि भरद्वाजः **सूरिभिः** मदीयैः स्तोतृभिः सह **आनश्यां** प्राप्नुयाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May I, with my fellow-worshippers, obtain that your most excellent felicity and vigour, which, most mighty **Indra**, associate of heroes, the pious celebrate (as bestowed) by you, who are the humiliator (of foes), the protector of the three (worlds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might I also, together with my patrons, attain this, the greater favor and  might that are yours, Indra,  
 when along with you our heroes are praised, you who have our heroes  as companions, along with Nahus who provides threefold defense, o  strongest one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes tváyā as the agent with stávante: “dass die Helden … von dir gelobt werden.” But Indra as the praiser of mortals seems off; tváyā is better taken as an instr. of accompaniment, esp. given the larger context of the hymn, in which Indra works for and in conjunction with mortals (see esp. disc. ad vs. 4 with regard to sácā).
 
@@ -142,23 +142,23 @@ Geldner takes the instr. phrase trivárūthena náhuṣā as referring to Indra:
 I would also take issue with Geldner’s bleaching of trivárūtha- from ‘having/providing threefold defense’ to simply ‘threefold’. This cmpd. otherwise has its full lexical value, mostly modifying śárman- ‘shelter’, and the simplex várūtha- ‘defense’ is robustly attested, so the 2nd cmpd member had not become opaque.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May I too, with the liberal chiefs, O Indra, acquire thy blin supreme and domination,  
      When, Mightiest! Hero-girt! Nahusa heroes boast them in thee, the triply-strong Defender.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch ich möchte mit den freigebigen Patronen diese deine höhere Gunst und Stärke erlangen, o Indra, daß die Helden, du Heldengenosse, von dir gelobt werden, da du ein dreifacher Nahus bist, du Gewaltigster.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch mich lass nun erlangen mit den Fürsten, o Indra, deine grösste Huld und Stärke, Wenn, Heldenfreund, du Beifall schenkst den Helden, o stärkster, dreifachschirmender Genosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я тоже вместе со щедрыми покровителями хочу достигнуть той  
 Твоей высшей, о Индра, милости (и) силы,  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनेहो꣡ मित्र अर्यमन्  
 नृव꣡द् वरुण शं꣡सियम्  
 त्रिव꣡रूथम् मरुतो यन्त नश् छर्दिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्रि॒ऽवरू॑थम् । म॒रु॒तः॒ । य॒न्त॒ । नः॒ । छ॒र्दिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aneho* ← *anehaḥ* ← *anehas*
 - \[noun\], accusative, singular, neuter
@@ -89,7 +89,7 @@ genre M
 हे **मित्र** हे **अर्यमन्** हे **वरुण** हे **मरुतः** ते सर्वे यूयम् **अनेहः** अहिंसितं **नृवत्** नृभिः पुत्रादिभिरुपेतं **शंस्यं** स्तुत्यं **त्रिवरूथं** त्रयाणां शीतातपवर्षाणां निवारकं यद्वा त्रिभूमिकं **छर्दिः** गृहं **नः** अस्मभ्यं **यन्त** यच्छत दत्तेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ genre M
 Trivarūtham, a guard against heat, cold and wet; or, tribhūmikam, three-storied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Mitra, Aryaman, and Varuṇa, o Maruts—your faultless, manly,  praiseworthy  
 protection providing threefold defense—extend that to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Grant us a home with triple guard, Aryaman, Mitra, Varuna!  
      Unthreatened, Maruts! meet for praise, and filled with men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reichet uns, Mitra, Aryaman, Varuna euren dreifachen unfehlbaren Schutz, den mannhaften, löblichen, o Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reicht uns, Mitra, Arjaman, Varuna, dreifach schirmenden, gepriesnen, sichern, starken Schutz, o Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даруйте нам безошибочную,  
 О Митра-Арьяман, мужественную,  

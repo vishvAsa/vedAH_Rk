@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् उ वो यज्ञ꣡म् महयन् न꣡मोभिः  
 प्र꣡ हो꣡ता मन्द्रो꣡ रिरिच उपाके꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ यज्ञि꣡याम् अर꣡मतिं ववृत्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यज॑स्व । सु । पु॒रु॒ऽअ॒नी॒क॒ । दे॒वान् । आ । य॒ज्ञिया॑म् । अ॒रऽम॑तिम् । व॒वृ॒त्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -117,21 +117,21 @@ genre M
 हे देवाः **वः** युष्माकं **यज्ञं** नमोभिः नमस्कारैर्युक्ता इमे स्तोतारो वा यजमाना वा **सं** **महयन्** सम्यक् पूजयन्ति । **उ** इति पूरकः । **मन्द्रः** स्तुतिशीलः **उपाके** अस्माकं समीपे स्थितोऽस्मदीयः **होता** **प्र** **रिरिचे** अन्येभ्यो होतृभ्योऽतिरिच्यते । हे यजमान त्वं **देवान्** **सु** सुष्ठु **यजस्व** । हे **पुर्वणीक** बहुतेजस्विन्नग्ने त्वं **यज्ञियां** यज्ञार्हाम् **अरमतिं** भूमिम् **आ** **ववृत्याः** आवर्तय । तथा च निगमान्तरे - आ नो महीमरमतिं सजोषाः' ( ऋ. सं. ५. ४३. ६) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The (worshippers) offer you, (gods), this sacrifice, with prostrations; the ministrant priest, who is nearus repeating pious praise, excels (all others); worship well the gods; resplendent (**Agni**), make the venerableearth revolve.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They magnify the sacrifice for you all with acts of reverence; the  
 gladdening Hotar [=Agni] is projecting in the nearness.  
 Sacrifice well to the gods, o you of many faces. You should turn hither  Aramati [/Devotion] worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pl. subj. of mahayan in pāda is unclear; the most likely referent would be the priestly colleagues of the 1st ps. sg. poet subj. of huvé in 2d; in this spirit Geldner supplies “die Sänger,” Renou “les chanteurs.” However, Oldenberg adduces the almost identical passage VII.61.6 sám u vāṃ yajñám mahayaṃ námobhiḥ with 1st sg.
 
@@ -150,23 +150,23 @@ But generally when Agni’s tongue is mentioned, it is as the instrument for eat
 For dāti see comm. ad IV.8.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They glorify your sacrifice with worship, yet the glad Priest near them is left unequalled.  
      Bring the Gods hither, thou of many aspects: turn hitherward Aramati the Holy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohl mögen die Sänger euer Opfer durch ihre Verbeugungen erhöhen, der wohlredende Hotri Agni vor uns übertrifft sie. Verehre fein, du Vielgesichtiger, die Götter! Mögest du die opferwürdigen Aramati herführen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Man schmücket recht mit Ehrfurcht euer Opfer; hoch ragt vor uns der freudenreiche Priester; Verehre schön die Götter, vielgestalt'ger, und wende her die heil'ge Andachtsgöttin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Певцы) возвеличили вместе вашу жертву поклонениями,  
 (А) сладкозвучный хотар превзошел (их) на глазах.  

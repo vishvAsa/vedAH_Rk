@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ स्तो꣡मा नरां꣡ नृतम तु꣡भ्यम्  
 अस्मद्रि꣡अञ्चो द꣡दतो मघा꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा च शू꣡रो अविता꣡ च नॄणा꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तेषा॑म् । इ॒न्द्र॒ । वृ॒त्र॒ऽहत्ये॑ । शि॒वः । भूः॒ । सखा॑ । च॒ । शूरः॑ । अ॒वि॒ता । च॒ । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -130,20 +130,20 @@ genre M
 हे **नृतम** नेतृतम **इन्द्र** **तुभ्यं** **नरां** नेतॄणां ये **एते** **स्तोमाः** संघाः **मघानि** मंहनीयानि - हवींषि **ददतः** ददन्तः **अस्मद्र्यञ्चः** अस्मदभिमुखाः अभूवन्निति शेषः । **तेषां** **नृणां** **वृत्रहत्ये** संग्रामे **शिवः** कल्याणकृत् 'भूः भव। **सखा** **च** भूः । **अविता'** रक्षिता **च** भूः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Chief leader (of rites), these praises of man addressed to you revert to us, who are the offerers of(sacrificial) riches; do you be propitious to such men, (**Indra**), in conflicts with enemies; be their friend, their hero,and protector.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These praises are for you, o most manly of men. Those granting  bounties, inclined toward us—  
 o Indra, become kindly disposed to them at the obstacle-smashing, as a  champion who is both comrade and helper of men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 We might have expected an unaccented gen. pl. *narām in the voc. phrase with nṛtama, but don’t get it. There are no unaccented occurrences of this genitive. It would be possible instead to read narā́m with eté stómāḥ (“these praises of men”), but nṛ́tama- + gen. pl. of nṛ́- is a fixed phrase, though usually with nṛṇā́m (I.77.4, III.51.4, IV.25.4, etc.). I am now inclined to read narā́m with both stómā(ḥ) and nṛtama. It is positioned between them, adjacent to both. The published translation could be modified to “These praises of men are for you, o most manly of men.” The first gen. is subjective. Note the co-occurrence of narā́m, the older gen. pl. to nṛ́-, and the newer one nṛṇā́m in this verse.
 
@@ -152,23 +152,23 @@ Geldner takes b as an independent nominal clause, while I consider it a sort of 
 Although d looks to contain a simple conjoined NP, each of whose members consists of two members, sákhā śū́raḥ and avitā́nṛṇā́m, each with a ca between the two members (so Geldner, JSK I.195), I prefer to take śū́raḥ as the principal predication of Indra, with the other two terms, sákhā and avitā́nṛṇā́m, secondarily predicated of Indra as śū́ra-. Although this introduces a minor complication in word order, the fact that śū́ra- is overwhelmingly a noun and is used independently of Indra in the very next pāda (11a) persuades me that this analysis is correct, especially since both “comrade” and “helper of men” are terms that explicitly encode Indra’s relationship to men, while “champion” is of a different order. The distribution of ca’s makes no problems for this analysis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are these lauds, O manliest of heroes, lauds which revert to us and give us riches.  
      Favour these, Indra, when they fight with faemen, as Friend and Hero and the heroes' Helper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Loblieder sind für dich, du Mannhaftester der Männer; uns sollen die Geber von Geschenken zugetan sein. Diesen Herren sei in der Feindeschlacht freundlich, ein tapferer Genosse und Helfer den Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O stärkster Mann, dir gelten dieser Männer Gesänge, welche Schätze uns verschaffen; Sei, Indra, du Beschützer dieser Männer, ihr holder Freund und Held im Feindeskampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти хвалы, о самый мужественный из мужей, для тебя.  
 К нам (пусть) обратятся дающие щедрые дары!  

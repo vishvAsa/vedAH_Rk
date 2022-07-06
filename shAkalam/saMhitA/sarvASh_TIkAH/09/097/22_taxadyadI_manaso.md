@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡क्षद् य꣡दी म꣡नसो वे꣡नतो वा꣡ग्  
 ज्ये꣡ष्ठस्य वा ध꣡र्मणि क्षो꣡र् अ꣡नीके  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जु꣡ष्टम् प꣡तिं कल꣡शे गा꣡व इ꣡न्दुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आत् । ई॒म् । आ॒य॒न् । वर॑म् । आ । वा॒व॒शा॒नाः । जुष्ट॑म् । पति॑म् । क॒लशे॑ । गावः॑ । इन्दु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
@@ -131,7 +131,7 @@ genre M
 वेनतः वेनोवेनतेःकान्तिकर्मणइतियास्कः । कामयमानस्य मनसः मन्यतेःस्तुतिकर्मणः स्तोतुर्वाक् स्तुतिलक्षणायद्येनन्तक्षत् संस्करेति वाशब्दउपमार्थे यथा धर्मणि निमित्तात् कर्मसंयोगइतिसप्तमी धारकं योगक्षेमविषयं कर्मोद्दिश्य क्षोःशब्दायमानस्य अनीके सङ्ग्राम- मुखे तत्र स्थितस्य जानपदिकस्य वाक् ज्येष्ठस्य द्वितीयार्थेषष्ठी प्रशस्यतमं राजानं यथा- स्तौति तथास्तोतुर्वाक् सोमंस्तौतीत्यर्थः । आदनन्तरमेव वरं वरणीयं जुष्टं देवानां मदाय- पर्याप्ते पतिं सर्वस्य पालकं कलशे स्थितं इन्दुं ईमेनं सोमं वावशानाः कामयमानाः गावआयन् पयसा स्वीये नमि श्रयितुमागच्छन्ति ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,14 +142,14 @@ genre M
 For the support he affords: dharmaṇi = the reason (**nimitta**) of the praise; i.e. the duty of acquisition and preservation (or the duty of securing property), **yogakṣema** viṣayam **karma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the speech from the mind of the seeker fashioned him [=Soma]  on the foundation of the preeminent one [=Agni or Indra?] or  
 face-to-face with the cattle,  
 thereupon the cows came to him at will, bellowing—to the delightful  husband, the drop, in the tub.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read yádī in pāda a as yád ī ‘when him’. Note the parallel īm in pāda c, before a vowel (īm āyan), while our ī occurs before m (ī mánaso) and could in principle represent a degeminated *īm mánaso (though I don’t think this is nec.). As Geldner (n. 22ab) implies, the point of this pāda is that the ritual speech of the priest-poet essentially creates the sacral drink soma [/god Soma] from the mere juice of the soma plant.
 
@@ -172,23 +172,23 @@ Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not oth
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the loving spirit's word had formed him Chief of all food, by statute of the Highest,  
      Then loudly lowing came the cows to Indu, the chosen, well-loved Master in the beaker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So oft ihn die Rede aus dem Geiste des schauenden Sehers heraus formte oder bei der Entscheidung angesichts des besten Stückes Vieh, da kamen nach Wunsch zu dem Safte als dem beliebten Gatten voll Verlangen die Kühe in dem Kruge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihn voll Liebe schuf das Wort des Geistes, wie in des Höchsten Reich, im Sitz der Speise, Da gingen jauchzend wie zum lieben Gatten voll Lust die Kühe in dem Kelch zu Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда речь (, рожденная) из мысли провидца, придает форму (соме),  
 Или при устройстве лучшего (жертвоприношения) в присутствии скота,  

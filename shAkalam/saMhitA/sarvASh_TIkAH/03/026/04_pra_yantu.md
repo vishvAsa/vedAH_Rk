@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ यन्तु वा꣡जास् त꣡विषीभिर् अग्न꣡यः  
 शुभे꣡ स꣡म्मिश्लाः पृ꣡षतीर् अयुक्षत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ वेपयन्ति प꣡र्वताँ अ꣡दाभियाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृ॒ह॒त्ऽउक्षः॑ । म॒रुतः॑ । वि॒श्वऽवे॑दसः । प्र । वे॒प॒य॒न्ति॒ । पर्व॑तान् । अदा॑भ्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -113,41 +113,41 @@ genre M
 **वाजाः** वेगवन्तः **अग्नयः** **प्र** **यन्तु** जलमभिलक्ष्य गच्छन्तु । गताश्च तेऽग्नयः **तविषीभिः** बलयुक्तैः मरुद्भिः **शुभे** जले **संमिश्लाः** परस्परं संगताः सन्तः **पृषतीः** बिन्दून् **अयुक्षत** अयुञ्जन् । जले बिन्दुनकुर्वन् । यद्वा वाजाः वेगवन्तोऽग्नयस्तविषीभिर्बलयुक्तैर्मरुद्भिर्जलमनुलक्ष्य प्रयन्तु गच्छन्तु । ते च मरुतः शुभे जले संमिश्ला अग्निभिः संगताः सन्तः पृषतीश्चित्रवर्णा वाहनरूपा वडवा अयुक्षत । रथे मेघभेदनार्थे ता अयौक्षुः । रथारूढास्ते **विश्ववेदसः** प्राणिकृतकर्माभिज्ञानयुक्ताः **अदाभ्याः** केनाप्यतिरस्कार्याः **मरुतः** एवंविधा वायवः **बृहदुक्षः** प्रभूतसेक्तॄन् **पर्वतान्** मेघान् **प्र** **वेपयन्ति** । यथा प्रभूता वृष्टिर्भवति तथा मेघान् चालयन्ति ॥ तविषीभिः । ‘ तव गतौ ' इति सौत्रो धातुः । अस्मात् ‘तवेर्णिद्वा' इति टिषच् निच्च । तवन्ति संचरन्त्याकाशे इति तविषा वायवः । ‘ टिड्ढाणञ्' इति ङीप् । लिङ्गव्यत्ययः । नित्त्वादाद्युदात्तः । पृषतीः । ‘पृषु सेचने' ' पॄ पालनपूरणयोः' इति वा । अस्मात् वर्तमाने ‘पृषद्बृहन्महत्' इति निपातनादतिप्रत्ययः शतृवद्भवति। ‘उगितश्च' इति ङीप् । पर्षन्तीति पृषत्यः शीकराः । पृणन्ति पालयन्तीति पृषत्यो वडवाः । अयुक्षत । ' युजिर् योगे' इत्यस्य लुङि सिचि रूपम् । निघातः । बृहदुक्षः ।' उक्ष सेचने ' इत्यस्मात्क्विप् । कृदुत्तरपदप्रकृतिस्वरः । वेपयन्ति । टुवेपृ कम्पने '। निघातः । पर्वतान् । ' पर्व पूरणे' इत्यस्मात् ' भृमृदृशि° ' इत्यादिना अतच् । पर्वति पूरयति भूमिमुदकेन इति पर्वतो मेघः । व्यत्ययेनाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the swift fires combined with the vigorous winds proceed to the pure (region of the water), uniting the drops (of rain); the **Maruts** irresistible, all-knowing, agitate the copious-shedding clouds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the prizes of victory go forth. Blended with their powers, the fires  have hitched up their spotted antelopes for beauty.  
 Growing aloft, providing all possessions, the undeceivable Maruts make  mountains tremble.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let them go forth, the strong, as flames of fire with might. Gathered for victory they have yoked their spotted deer.  
      Pourers of floods, the Maruts, Masters of all wealth, they who can ne'er be conquered, make the mountains shake.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the Vâgas 1 come forward, the Agnis with their powers. United 2 they have harnessed the spotted deer for their triumphal procession 3. The Maruts, mightily growing, the all-wealthy, make the mountains tremble, the unbeguiled ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ehrengaben sollen zum Vorschein kommen! Mit ihren Stärken haben sich die Agni´s zu voller Pracht vereint. Ihre scheckigen Antilopen haben sie angeschirrt, die hochgewachsenen, allwissenden Marut. Die Unbeirrten machen die Berge erzittern;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor mögen gehn mit Kraft die raschen, Flammen gleich, sie schirrten an zum Schmuck vereint die Hirsche sich, Die Maruts, Regen strömend, die allwissenden, erschüttern rings die Berge, die untrüglichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть двинутся вперед награды со (своими) силами! (Многие) Агни,  
 Смешавшись (с ними), запрягли пестрых (антилоп) для блеска.  

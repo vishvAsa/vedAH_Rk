@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नो रयि꣡म् पुरुवी꣡रम् बृह꣡न्तं  
 द꣡स्रा मि꣡माथाम् उभ꣡येषु अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सध꣡स्तुतिम् आजमीळ्हा꣡सो अग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नरः॑ । यत् । वा॒म् । अ॒श्वि॒ना॒ । स्तोम॑म् । आव॑न् । स॒धऽस्तु॑तिम् । आ॒ज॒ऽमी॒ळ्हासः॑ । अ॒ग्म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **नु** क्षिप्रं **नः** अस्माकं **रयिं** धनं **पुरुवीरं** बहुपुत्रोपेतं **बृहन्तं** महान्तं हे **दस्रा** अश्विनौ **मिमाथां** कुरुतम् । **उभयेषु** पुरुमीळ्हाजमीळ्हेषु **अस्मे** अस्मासु **यत्** यदा **नरः** नेतार ऋत्विजः पुरुमीळ्हसंबन्धिनः **वां** युवयोः **स्तोमं** स्तोत्रम् **आवन्** अगमन् प्राप्ताः । तथा **सधस्तुतिं** सहस्तुतिम् **आजमीळ्हासः** अजमीळ्हसंबन्धिनोऽपि तैः सह **अग्मन्** अगमन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 For us both: the two ṛṣis, the authors of the **sūkta**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, wondrous ones, measure out lofty wealth conferring many heroes  to us both [=singers and patrons].  
 As the superior men furthered your praise, o Aśvins, the Ājamīḷhas have  come to your joint praise.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now for us both, mete out, O WonderWorkers, riches exceeding great with store of heroes,  
      Because the men have sent you praise, O Asvins, and Ajamilhas come to the laudation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun teilet uns einen großen Schatz von vielen Söhnen zu, uns beiderseitig, ihr Meister! Da die Herren euren Lobpreis bevorzugten, so sind zum gemeinsamen Preis die Ajamilha´s hergekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun messt uns zu, o hehre, grossen Reichthum, den heldenreichen, uns, den beiden Theilen; Weil euch, o Ritter, Lob die Männer weihten, zum Chorgesang die Adschanidha's kamen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отмерьте же нам сейчас высокое богатство,  
 Состоящее из многих мужей, о удивительные, нам: тем и другим!  

@@ -8,7 +8,7 @@ title = "+043"
 ‘ प्र वो यज्ञेषु ' इति पञ्चर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वदेवम्। ‘प्र वः पञ्च ' इत्यनुक्रान्तम् । सूक्तविनियोगो लैङ्गिकः । प्रथमे छन्दोमे प्रउगशस्त्रे ‘प्र वो यज्ञेषु ' इति वैश्वदेवस्तृचः । सूत्रितं च -- ‘ प्र वो यज्ञेषु देवयन्तो अर्चन् प्र क्षोदसा धायसा सस्र एषेति प्रउगम् ' (आश्व. श्रौ. ८. ९) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 43 (559)  
 All Gods  
@@ -18,7 +18,7 @@ This hymn has even less interest in individual gods than the most recent in this
 ship are crucial to our well-being.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 

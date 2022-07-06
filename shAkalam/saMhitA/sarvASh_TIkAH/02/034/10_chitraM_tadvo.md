@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चित्रं꣡ त꣡द् वो मरुतो या꣡म चेकिते  
 पृ꣡श्न्या य꣡द् ऊ꣡धर् अ꣡पि आप꣡यो दुहुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रितं꣡ ज꣡राय जुरता꣡म् अदाभियाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । नि॒दे । नव॑मानस्य । रु॒द्रि॒याः॒ । त्रि॒तम् । जरा॑य । जु॒र॒ताम् । अ॒दा॒भ्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *citraṃ* ← *citram* ← *citra*
 - \[noun\], nominative, singular, neuter
@@ -130,7 +130,7 @@ genre M
 हेमरुतः वोयुष्माकं तत् चित्रं चायनीयंयामप्रापणं चेकिते सर्वैर्ज्ञायते इदानीम्परोक्षवदाह अपि- शब्दःप्रसिद्धौ यद्यदाखलुपृश्न्याः माध्यमिकायावाचःसम्बन्धिनं ऊधः उद्धतम्मेघं आपयः प्रापयितारो- मरुतः दुहुःदुहन्ति दुहेश्छान्दसोलिट् छन्दसिचेतिवक्त्व्यमितिद्विर्वचनाभावः यद्वा यदाचनवमानस्य स्तुवतः त्रितस्यनिदे निन्दकायशत्रवेहिंसाङ्कृतवन्तइतिशेषः णिदिकुत्सायां क्विप् चेतिक्विप् तदानीं हेअ दाभ्याः अहिंस्याः रुद्रियाः रुद्रस्यपुत्रामरुतः त्रितमृषिञ्जुरतांहिंसतांशत्रूणां जरायजरणायविनाश- नायअभूतेतिशेषः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,14 +143,14 @@ Seizing the udder of heaven: pṛśnyā yad ūdhar api āpayo duhuḥ: **pṛśn
 Trita = a ṛṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This bright course of yours, Maruts, appears ever more brightly, when  the close friends have milked the udder of Pr̥śni,  
 or when (they have set) Trita [/the third (heaven)] to scorning (as does)  a roarer [=thunder], (set him) to aging (as do) those who age, you  
 undeceivable sons of Rudra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. strenuously develops the “golden” theme that appeared in 9d -- a color more descriptive of the fiery than the watery. An even stronger indication of the transition to Agni proper is the gerund niṣádyā ‘having sat down’: the lexeme ní √sad is closely associated with Agni’s installation on the ritual ground (see, e.g., the next hymn, II.36.4).
 
@@ -165,23 +165,23 @@ The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-known, ye Maruts, is that wondrous course of yours, when they milked Prsni's udder, close akin to her.  
      Or when to shame the bard who lauded, Rudra's Sons, ye O infallible brought Trita to decay.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese eure wunderbahre Fahrt, ihr Marut, ist denkwürdig, ob die Freunde dabei das Euter der Prisni melken, oder ob ihr untrüglichen Rudrasöhne dem Trita helfet, um den Tadel des Lobsängers, um das Alter der Alternden auf sich zu nehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es zeigt sich Marut's, dieser euer lichter Zug, wenn ihr der Priçni Euter melkt, die euch gebar, Und wenn dem Feind des Sängers, Rudrasöhne ihr, den Trita schickt, der altern macht, Untrügliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ярко выделяется тот ваш выезд, о Маруты,  
 Когда (Маруты-) друзья доят вымя Пришни,  

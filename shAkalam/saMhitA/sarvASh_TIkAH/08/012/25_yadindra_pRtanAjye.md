@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र पृतना꣡जिये  
 देवा꣡स् त्वा दधिरे꣡ पुरः꣡  
 आ꣡द् इ꣡त् ते हर्यता꣡ ह꣡री ववक्षतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 आत् । इत् । ते॒ । ह॒र्य॒ता । हरी॒ इति॑ । व॒व॒क्ष॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -95,19 +95,19 @@ genre M;; line affected by realignment
 हे **इन्द्र** **पृतनाज्ये** । संग्रामनामैतत् । पृतनाः सेना अजन्ति गच्छन्त्यस्मिन्निति वा पृतना जीयतेऽत्रेति वा पृतनाज्यं संग्रामः । तत्र **त्वा** त्वां **यत्** यदा **देवाः** **पुरः** **दधिरे** वृत्रहननाय पुरतोऽधारयन् **आदित्** अनन्तरमेव **हर्यता** हर्यतौ कान्तौ । **हर्य** गतिकान्त्योः ' । 'भृमृदृशि' इत्यादिनौणादिकोऽतच्प्रत्ययः । ईदृशौ **हरी** अश्वौ **ते** त्वां **ववक्षतुः** अवहताम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Indra**, the gods plural ced you foremost in the battle, then your beloved horses bore you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra, at the battle-charge the gods set you in front, just after that your two beloved fallow bays waxed strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening verse of this tṛca echoes that of the last tṛca (22), with 22ab índram …, devā́so dadhire puráḥ matched by 25b devā́s tvā dadhiré puráḥ.
 
@@ -121,23 +121,23 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Gods, O Indra, get thee foremost in the furious fight,  
      Then thy two beautiful Bay Steeds carried thee on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als dich, Indra, die Götter im Kampf an die Spitze gestellt hatten, da erst sind deine geliebten Falben groß geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Indra dich zur Feindesschlacht die Götter hatten ausersehn, Da wuchs empor dein Füchsepaar, das herrliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Индра, в состязании  
 Боги тебя поставили впереди,  

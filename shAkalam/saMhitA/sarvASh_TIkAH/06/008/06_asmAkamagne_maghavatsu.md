@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अग्ने मघ꣡वत्सु धारय  
 अ꣡नामि क्षत्र꣡म् अज꣡रं सुवी꣡रियम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वइ꣡श्वानर वा꣡जम् अग्ने त꣡वोति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । ज॒ये॒म॒ । श॒तिन॑म् । स॒ह॒स्रिण॑म् । वैश्वा॑नर । वाज॑म् । अ॒ग्ने॒ । तव॑ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -122,41 +122,41 @@ genre M
 हे **अग्ने** **अस्माकम्** । सप्तम्यर्थे षष्टी । अस्मासु **मघवत्सु** हविर्लक्षणेन धनेन युक्तेषु **क्षत्रं** धनं **धारय** स्थापय । कीदृशम् । **अनामि** अनमनीयमनपहार्यम् **अजरं** जरारहितमनश्वरं **सुवीर्यं** शोभनवीर्योपेतम् । किंच हे **वैश्वानर** **अग्ने** **तवोतिभिः** त्वत्संबन्धिभी रक्षणैः **वयं** **शतिनं** शतसंख्यायुक्तं शतपुरुषयुक्तं वा तथा **सहस्रिणं** **वाजम्** अन्नं **जयेम** लभेमहि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant, **Agni**, to us who are affluent in (offerings), wealth that cannot be taken away, that is exempt from decay, and that comprehends excellent **male** descendants may we obtain, Agni **vaiśvānara**, hundreds and thousands of viands through your protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among our benefactors, o Agni, uphold dominion, unbowed and  unaging, and an abundance of heroes.  
 May we conquer spoils in hundreds and thousands, o Vaiśvānara Agni,  with your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take ajáram with suvī́ryam (e.g., “die unbeugsame Herrschaft, das nicht verwelkende Heldentum”), while I take it with kṣátram. The Geldner/Renou interpr. is perfectly possible, and there are no grammatical or syntactic features to allow a clear decision. My interpr. is based on the rhetorical arg. that the two privative adjectives (ánāmi and ajáram) belong together, but I can also see that rhetoric might also favor parallel phrases: PRIV-ADJ. X, PRIV-ADJ. Y. My other, quite faint, consideration was that the adj. ajára- was used of the king (=Agni) in the previous vs. (rājan … ajara) and would transfer easily from the king to his dominion (kṣatrá-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou bestow, O Agni, on our wealthy chiefs, rule, with good heroes, undecaying, bending not.  
      So may we win for us strength. O Vaisvanara, hundredfold, thousandfold, O Agni, by thy help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhalte unseren Gönnern, o Agni, die unbeugsame Herrschaft, das nicht verwelkende Heldentum! Wir wollen hundertfachen, tausendfachen Siegergewinn erringen durch deine Gnaden, o Vaisvanara Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bewahre, Agni, unsern Fürsten ungebeugt und ungeschwächt die Herrschaft und die Heldenkraft, Uns lass gewinnen hundert-, tausendfaches Gut, durch deine Hülfen, Agni, o du Menschenhort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сохрани, о Агни, у наших щедрых покровителей  
 Несгибаемую власть, непреходящее обилие прекрасный мужей!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सम्रा꣡जो अ꣡सुरस्य प्र꣡शस्तिम्  
 पुंसः꣡ कृष्टीना꣡म् अनुमा꣡दियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡न्दे दारुं꣡ व꣡न्दमानो विवक्मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑स्यऽइव । प्र । त॒वसः॑ । कृ॒तानि॑ । वन्दे॑ । दा॒रुम् । वन्द॑मानः । वि॒व॒क्मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 **दारुं** पुरां भेत्तारं **वन्दे** । **वन्दमानः** सन् **सम्राजः** सर्वस्य भुवनस्येश्वरस्य **असुरस्य** बलवतः **पुंसः** वीरस्य । पौंस्यमिति वीर्यमुच्यते । तथा च यास्कः-’ पुमान् पुरुमना भवति पुंसतेर्वा ' ( निरु. ९.१५) इति । **कृष्टीनां** जनानाम् अनुमाद्यस्य स्तुत्यस्य **तवसः** बलवतः **इन्द्रस्येव** तस्य वैश्वानरस्य प्रशस्तिं स्तुतिं **कृतानि** कर्माणि च **प्र** **विवक्मि** प्रब्रवीमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 Demolisher ofcities: dārum vande = **puram** bhettāram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (I proclaim) the praise of the universal king and lord, of the man to be  celebrated by the settlements.  
 Extolling the deeds of the mighty one—I extol the breaker—I proclaim  them like those of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PRAISE of the Asura, high imperial Ruler, the Manly One in whom the folk shall triumph-  
      I laud his deeds who is as strong as Indra, and lauding celebrate the Fort-destroyer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Oberherrn, des Asura Lob verkünde ich, des Mannes der Völker, dem man zujubeln muß. Wie des Indra Taten verkünde ich die des Starken lobend, indem ich den Lobredner dabei lobe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Lob des himmlischen Gebieters sing' ich des Völkerhelden, dem mit Recht man zujauchzt; Die Thaten rühm' ich des wie Indra starken, lobsingend ruf' ich ihn, den Burgzerbrecher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я) про(возглашаю) хвалу вседержителя Асуры,  
 Мужа народов, кого надо бурно приветствовать.  

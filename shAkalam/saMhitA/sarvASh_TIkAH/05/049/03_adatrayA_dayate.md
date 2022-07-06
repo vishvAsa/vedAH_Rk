@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अदत्रया꣡ दयते वा꣡रियाणि  
 पूषा꣡ भ꣡गो अ꣡दितिर् व꣡स्त उस्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हानि भद्रा꣡ जनयन्त दस्माः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । विष्णुः॑ । वरु॑णः । मि॒त्रः । अ॒ग्निः । अहा॑नि । भ॒द्रा । ज॒न॒य॒न्त॒ । द॒स्माः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adatrayā* ← *a*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 अयमग्निः **अदत्रया** अदनीयानि ॥ अदेरौणादिकोऽत्रप्रत्ययः । सुपां सुलुक् ' इति याजादेशः । अथवा अत्तीत्यदत्रा जिह्वा । तया **वार्याणि** वरणीयानि काष्ठानि **दयते** । दयतिरनेककर्मात्र दहने वर्तते । दहतीत्यर्थः । सामर्थ्यादग्निरिति गम्यते । यद्वा । अदनीयानि वरणीयान्यन्नानि दयते ॥ ददाति यजमानाय ॥ ‘दय दानगतिहिंसाबलाख्यानेषु ' ॥ कीदृशोऽग्निः । **पूषा** पोषकः **भगः** भजनीयः **अदितिः** अखण्डनीयः । यद्वा । पूषादयस्त्रयोऽपि प्रत्येकमदनीयानि वार्याणि चान्नानि दयते । **उस्रः** सूर्यः **वस्ते** आच्छादयति । सामर्थ्यात्तेजांसि । इन्द्रादयः पञ्चापि देवाः **दस्माः** दर्शनीयाः **अहानि** सर्वाण्यागन्तॄणि **भद्रा** शोभनानि **जनयन्त** जनयन्ति । दिवसानां यागदानादिविशिष्टत्वमेव भद्रत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ genre M
 Bestow excellent viands: adatrayā dayate vāryāṇi: adatrayā = adanīyāni, eatables; Agni consumes excellent consumable timbers, varaṇīyāni kāṣṭhāni dahate; the other terms are epithets: nourishing, the desirable, the uninjurable Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Traveling to those lacking gifts, (each god) distributes valuables—Pūṣan,  Bhaga, Aditi—at the dawning of the ruddy (Dawn).  
 Indra, Viṣṇu, Varuṇa, Mitra, Agni—the wondrous ones beget lucky days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax adatrayā́is universally taken as an adverbial instr. built to a fem.
 
@@ -158,23 +158,23 @@ This phrase vásta usráḥ is found 3 other times, all pāda final, with the ot
 suggest that it rests on a u-stem loc. sg. *-av / -o, which would yield the sequence directly, but at the cost of positing an alternative loc. sg. ending with little or no support.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not for reward doth Pusan send his blessings, Bhaga, or Aditi: his garb is splendour.  
      May Indra, Visniu, Varuna, Mitra, Agni produce auspicious days, the Wonder-Workers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne ein Gegengeschenk zu erlangen teilen Pusan, Bhaga, Aditi am Anbruch des Morgens die wünschenswerten Gaben aus. Indra, Vishnu, Varuna, Mitra, Agni, die Meister, mögen glückliche Tage anbrechen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch unbeschenkt verschenket reiche Schätze Puschan, Bhaga, Aditi lichtgekleidet, Indra, Vischnu, Varuna, Mitra, Agni, die prächt'gen mögen sel'ge Tage zeugen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Безвозмездно раздают лучшие (дары)  
 Пушан, Бхага, Адити, когда зажигается заря.  

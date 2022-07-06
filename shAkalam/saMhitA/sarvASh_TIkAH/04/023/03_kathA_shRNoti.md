@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ शृणोति हूय꣡मानम् इ꣡न्द्रः  
 कथा꣡ शृण्व꣡न्न् अ꣡वसाम् अस्य वेद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कथइ꣡नम् आहुः प꣡पुरिं जरित्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 काः । अ॒स्य॒ । पू॒र्वीः । उप॑ऽमातयः । ह॒ । क॒था । ए॒न॒म् । आ॒हुः॒ । पपु॑रिम् । ज॒रि॒त्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -118,20 +118,20 @@ genre M
 **इन्द्रः** परमैश्वर्ययुक्तः **हूयमानम्** आह्वयन्तं स्तोतारं कथा कथं **शृणोति** । स्तोत्राणि **शृण्वन्** **अस्य** स्तोतुः संबन्धीनि **अवसां** रक्षणानि **कथा** कथं च **वेद** वेत्ति । **पूर्वीः** पुरीतनानि **अस्य** इन्द्रस्य संबन्धीनि **उपमातयः** दानानि **काः** **ह** कानिचित् सन्तीति शेषः । तानि दानानि **जरित्रे** स्तोतुः संबन्धिनां कामानां **पपुरिं** पूरयितारम् **एनम्** इन्द्रं **कथा** कथं च **आहुः** वदन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How is that **Indra** hears (the worshipper) who invokes him? and, hearing, how does he know his necessities? what are his gifts of old; why have they termed him the fulfiller (of the desires) of him who offers praise?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How does Indra hear (the call) being called? How, hearing it, does he  know (the place for) his unhitching?  
 What are his many distributions (of goods)? How do they call him a  provider for the singer?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann, Geldner, et al. take hūyámānam to refer to the call or summons to Indra (e.g., Geldner “Wie hört Indra den Ruf?”). Kulikov (-ya-presents, 307-8) rejects this interpr., noting that this is the only instance of such a construction: normally the subject of the passive is the deity being invoked. Although he reluctantly admits that it might correspond to the rare transitive type in which what is spoken is the object of the verb (1.17.9), he prefers to derive this form from √hu ‘pour’ and translates “How does Indra hear the (libation) being offered?” -- that is, the sound of the pouring. A different reconsideration is found in Witzel Gotō, who interpr. hūyámāna- in the standard way, as having the deity invoked as its subject -- but they think Indra is listening to the summons to a different deity than Indra. Although I recognize that the standard interpr. may have glided too swiftly over the problems with hūyámāna-, the two revisionist versions both seem overelaborate and implausible to me. Since it is undeniable that forms of √hū do sometimes take what is spoken as obj. (see the above-cited I.17.9, as well as juxtaposed occurrences of hávya- in VI.21.1 with comm. there), I think we must allow this rare usage in the passive as well, a point made very economically by Oldenberg My tr. follows that of Thieme (p. 31) “Wie hört Indra den [Ruf], der gerufen wird?” In b ávasām is taken by all modern comm. and tr. as the gen. pl. of ávas- ‘help’ that it appears to be. Although this gen. pl. is not otherwise attested (the only pl.
 
@@ -144,23 +144,23 @@ One of the reasons I favor this solution has to do with the asya. In the ‘help
 For úpamāti- from úpa √mā ‘mete out’, see comm. ad VIII.40.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How heareth Indra offered invocation? How, hearing, marketh he the invoker's wishes?  
      What are his ancient acts of bounty? Wherefore call they him One who filleth full the singer?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie hört Indra den Ruf? Wie weiß er, wenn er hört, ihm zu helfen? Welches sind seine vielen Zuwendungen? Wie kommt es, daß sie ihn den Beschenker des Sängers nennen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie höret Indra, was der Mensch ihm zuruft? wie kennt er hörend, was den Menschen löset? Und welche vielen Gaben schenket Indra? wie nennt man ihn des Sängers reichen Spender?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как слышит Индра призыв?  
 Слыша (его), как умеет отозваться помощью на него?  

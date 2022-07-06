@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कवि꣡म् इव प्र꣡चेतसं  
 यं꣡ देवा꣡सो अ꣡ध द्विता꣡  
 नि꣡ म꣡र्तियेषु आदधुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नि । मर्त्ये॑षु । आ॒ऽद॒धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अध** अपि च **देवासः** देवा इन्द्रादयः **यम्** अग्निं **मर्त्येषु** मनुष्येषु **द्विता** द्विधा **नि** **आदधुः** गार्हपत्याहवनीयात्मकत्वेन द्विधा निहितवन्तः । तत्र दृष्टान्तः। **कविमिव** **प्रचेतसम्** । प्रकृष्टज्ञानं कविं क्रान्तकर्माणं पुरुषं यथा द्विधा कार्यद्वयेऽन्यो नियोजयति तद्वत् । यद्वा । दिवि पृथिव्यां च निहितवन्तः । भूमौ तु हविराहरणार्थं दिवि तु हविष्प्रदानार्थमिति द्वैधं विधानं कृतवन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,34 +92,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Two-fold function: **Agni**'stwo functions are the **gārhapatya** and **āhavanīya** fires, or it may refer to his offices connected with thesaacrifice in heaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, discerning like a sage poet, whom the gods now once again  
 have set down among mortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 According to Geldner (probably correctly), this vs. refers to Agni’s flight and subsequent discovery and reinstallation by the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom as a far-foreseeing Sage the Gods have, from the olden time,  
      Established among mortal men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vorausdenkend wie ein Seher, den die Götter da abermals bei den Menschen eingesetzt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise wie ein Seher ist, und den die Götter lange schon Bei Menschen haben eingesetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прозорливого, как поэт,  
 (Того,) кого боги с самого начала  

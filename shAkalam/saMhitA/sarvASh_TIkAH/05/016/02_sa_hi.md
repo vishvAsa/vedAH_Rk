@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ द्यु꣡भिर् ज꣡नानां᳐  
 हो꣡ता द꣡क्षस्य बाहुवोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भ꣡गो न꣡ वा꣡रम् ऋण्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । ह॒व्यम् । अ॒ग्निः । आ॒नु॒षक् । भगः॑ । न । वार॑म् । ऋ॒ण्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 यः **अग्निः** **हव्यं** हविः **आनुषक्** देवेष्वनुषक्तं करोति **बाह्रोः** भुजयोः **दक्षस्य** बलस्य **द्युभिः** द्युतिभिर्युक्तः **सः** अग्निः **जनानां** यजमानानां **होता** देवानामाह्वाता भवति । **भगो** **न** सूर्य इव **वारं** वरणीयं धनं **वि** **ऋण्वति** विशेषेण प्रयच्छति मनुष्येषु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,34 +119,34 @@ genre M
 Bhaga = **Sūrya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because he is the Hotar of the peoples in the arms of skill throughout  the days,  
 Agni allots the oblation in the proper sequence, like Bhaga a wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He by the splendour of his arms is Priest of every able man.  
      Agni conveys oblation straight, and deals, as Bhaga deals, his boons.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For he, Agni, the Hotri of men, day by day, in the arms of Daksha, discloses the offering in the due way, as Bhaga 1 (discloses) a treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er wurde als der Opferpriester der Menschen mit Tagesanbruch erzeugt in den Armen des geschickten Daksa. Agni teilt nach Gebühr das Opfer aus wie Bhaga die Wunschgabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Agni giesset Tag für Tag Kraft in der Menschen Arm hinein; Den Guss erschliesst er fort und fort, wie seinen Schatz ein reicher Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это он все дни как хотар  
 Людей (возникает) в руках у искусного.  

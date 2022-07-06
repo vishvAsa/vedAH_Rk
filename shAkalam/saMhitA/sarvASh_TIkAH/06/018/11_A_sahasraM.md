@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सह꣡स्रम् पथि꣡भिर् इन्द्र राया꣡  
 तु꣡विद्युम्न तुविवा꣡जेभिर् अर्वा꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡देव ई꣡शे पुरुहूत यो꣡तोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या॒हि । सू॒नो॒ इति॑ । स॒ह॒सः॒ । यस्य॑ । नु । चि॒त् । अदे॑वः । ईशे॑ । पु॒रु॒ऽहू॒त॒ । योतोः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 हे **तुविद्युम्न** बहुधन हे **सहसः** **सूनो** बलस्य पुत्र **इन्द्र** । ' ओजसो जातमुत मन्य एनम्' (ऋ. सं. १०. ७३. १०) इति निगमान्तरे बलपुत्रत्वं सिद्धम् । **राया** धनेन युक्तस्त्वं **सहस्रं** सहस्रेण । बहुभिरित्यर्थः । **तुविवाजेभिः** बहुबलैः **पथिभिः** । पतन्ति गच्छन्त्यमीभिरिति पन्थानो वाहाः । तैः **अर्वाक्** मदभिमुखः सन् **आ** **याहि** आगच्छ । हे **पुरुहूत** बहुभिराहूतेन्द्र **यस्य** तव **योतोः** बलादिभिः पृथक्कर्तुं **अदेवः** कश्चिदसुरः **नू** **चित्** **ईशे** नेष्टे । अत्र नू चिदिति निषेधार्थे वर्तते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,36 +139,36 @@ genre M
 Potobhistuvi vājebhiḥ: i.e. vāhaiḥ, vehicles, or sometimes horses; the epithet is: bāhubalaiḥ, very storng or powerful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along a thousand paths affording powerful prizes, o powerfully  brilliant Indra, drive here in our direction with wealth,  
 o much summoned son of strength, whom a godless man never has the  power to repel.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann takes the referent of yásya as ‘wealth’ (see col. 1114, s.v. yótu-). But it is far more likely that it is Indra, whom we are urging to come here -- and whose arrival might be threatened by the actions of the ungodly man. (It is not possible to determine from Geldner’s tr. (“den”) what he thinks the referent is.) The relationship between yāhí and yótoḥ might be clearer if the rel. clause were tr. “… never has the power to keep away.” On yótoḥ see now also Keydana (Inf., 77-78), who does not consider it a true infinitive. He takes yásya simply as the determiner of a gen. action noun yótu-. I am more inclined to see yótuḥ as an infinitive, and therefore consider yásya as an example of “attraction” to the case of the infinitive from an underlying obj. *yám.
 
 The dative to the same stem does function as an infinitive and takes acc. rection: VIII.71.15 agním dvéṣo yótavai no gṛṇīmasi (cf. VIII.18.5 dvéṣāṃsi yótave).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With wealth, by thousand paths come hither, Agni, paths that bring ample strength, O thou Most Splendid.  
      Come, Son of Strength, o'er whom, Invoked of many! the godless hath no power to keep thee distant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm herwärts, Indra, auf tausend Wegen, die viel Gewinn bringen, mit Reichtum, du Glanzreicher, du Sohn der Stärke, Vielgerufener, den niemals ein Ungott abzuwehren vermag!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her auf tausend segensreichen Pfaden mit reichem Gut, o güterreicher Indra, Komm, Sohn der Kraft, dem kein Gottloser jemals zu widerstehn vermochte, vielgerufner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тысячью путей, о Индра, таящих большую награду,  
 О ты с большим блеском, приди в наши края с богатством,  

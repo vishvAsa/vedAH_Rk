@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुष्मी꣡ श꣡र्धो न꣡ मा꣡रुतम् पवस्व  
 अ꣡नभिशस्ता दिविया꣡ य꣡था वि꣡ट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्राप्साः पृतनाषा꣡ण् न꣡ यज्ञः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आपः॑ । न । म॒क्षु । सु॒ऽम॒तिः । भ॒व॒ । नः॒ । स॒हस्र॑ऽअप्साः । पृ॒त॒ना॒षाट् । न । य॒ज्ञः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuṣmī* ← *śuṣmin*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 हे सोम **शुष्मी** । शुष्मं बलं शोषणात् । बलवांस्त्वं **मारुतं** **शर्धो** **न** मरुतां बलमिव **पवस्व** । तत्र दृष्टान्तमेव स्पष्टयति । **यथा** **दिव्या** **विट्** प्रजा **अनभिशस्ता** । अभिशासो निन्दा । अनिन्दिता पवते । ‘ मरुतो वै देवानां विशः '(तै. सं. २. २. ५, ७) इति हि ब्राह्मणम् । किंच **आपो** **न** उदकानीव **मक्षु** क्षिप्रं पवमानस्त्वं **सुमतिः** **भव** **नः** अस्माकम् । किंच **सहस्राप्साः**। अप्स इति रूपनाम । बहुरूपस्त्वं **पृतनाषाट्** पृतनानामभिभवितेन्द्र इव **यज्ञः** यष्टव्यो भवसीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ genre M
 The divine blameless folk: i.e., the Maruts: maruto vai devānām **viśaḥ** (**Taittirīya** **Saṃhitā** 2.2.5.7)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Tempestuous like the troop of Maruts, purify yourself, impervious to  calumny like that heavenly clan.  
 Quickly become benevolence for us, having a thousand ripples like the  waters, like a sacrifice that conquers in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take the simile in c to be ā́po ná makṣū́(Geldner: “rasch wie das Wasser”), but makṣū́is an adverb, and so the simile would not be well formed. Renou deals with this problem by supplying a participle, “(agissant) promptement comme les eaux.” I take makṣū́rather with the imperatival clause that follows: sumatír bhavā naḥ. It is worth noting that makṣū́is almost always initial, and if we detach the simile ā́po ná it could be so here as well.
 
@@ -151,23 +151,23 @@ Note that pṛtanāṣā́ṭ forms a ring with bhuriṣā́ṭ in 2a.
 The retroflex initial of -ṣā́h- in this cmpd is the result of the assimilation of -sto the retroflex final in the nom. sg. -ṣā́ṭ; see Schindler (Rt. Nouns p. 48): 5 of the 9 forms of this cmpd are nom. sg. The retroflex is then spread throughout the paradigm (acc. sg. 3x, gen. sg. 1x) and also into the deriv. pṛtanāṣā́ya- (III.37.1). On the variable length of the root syllable in the oblique (-ṣā́ham 1x, -ṣáham, -as 3x), see Scarlatta (612-13).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward like the potent band of Maruts, like that Celestial Host whom none revileth.  
      Quickly be gracious unto us like waters, like sacrifice victorious, thousand-fashioned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ungestüm wie das Heer der Marut läutere dich, unbescholten wie der himmlische Clan, rasch wie das Wasser; sei uns wohlgesinnt, tausendgestaltig wie das Schlachten gewinnende Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle feurig, wie die Schar der Maruts, unangefochten wie das Heer des Himmels Und wie Gewässer sei uns schnell gewogen, wie's Opfer, tausend nährend, Schlacht gewinnend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, словно неистовая толпа Марутова,  
 Как беспорочное небесное племя.  

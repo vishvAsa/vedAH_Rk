@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयुजो꣡ अ꣡समो नृ꣡भिर्  
 ए꣡कः कृष्टी꣡र् अया꣡सियः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 पू॒र्वीः । अति॑ । प्र । व॒वृ॒धे॒ । विश्वा॑ । जा॒तानि॑ । ओज॑सा । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayujo* ← *ayujaḥ* ← *ayuja*
 - \[noun\], nominative, singular, masculine
@@ -111,7 +111,7 @@ genre M;; repeated line
 **अयुजः** असहायः **असमः** असदृशोऽन्यैः **नृभिः** देवैः **एकः** मुख्यः **अयास्यः** उपक्षपयितुमशक्यः **पूर्वीः** कृष्टीः पूर्वतन्यः प्रजाः **अति** **प्र** **ववृधे** अतिप्रवर्धते । किंच **विश्वा** सर्वाणि **जातानि** इदानीमुत्पन्नानि **ओजसा** बलेनाति प्र वावृधे । **भद्राः** हि **इन्द्रस्य** **रातयः** । अथवा । अयमृषिरयुजोऽसहायोऽन्यैरसदृश एक एव सन् पूर्वीः प्रजा जातानि सर्वाण्यप्यतिक्रम्य वर्धते । शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,7 +122,7 @@ genre M;; repeated line
 Unlike the other gods: nṛbhiḥ =devaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Without yokemate, without equal among superior men,  
 irrepressible—he alone  
@@ -130,23 +130,23 @@ has grown strong over the many peoples, over all created things, with  his might
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sole among chiefs, companionless, impetuous, and peerless, he  
      Hath waxen great o'er many folk, yea., over all things born, in might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Genossen, den anderen Männern nicht vergleichbar, ist der Unverzagte allein über viele Völker, über alle Kreaturen an Stärke hinausgewachsen. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, ohne Gleichen, unerreicht von Männern, überragt allein Die vielen Völker an Gewalt und alle Wesen, ewig wach; des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без союзников, не сравнимый с мужами,  
 Неистовый, (он) один  

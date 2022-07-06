@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्पते या꣡ परमा꣡ पराव꣡द्  
 अ꣡त आ꣡ त ऋतस्पृ꣡शो नि꣡ षेदुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्व श्चोतन्ति अभि꣡तो विरप्श꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तुभ्य॑म् । खा॒ताः । अ॒व॒ताः । अद्रि॑ऽदुग्धाः । मध्वः॑ । श्चो॒त॒न्ति॒ । अ॒भितः॑ । वि॒ऽर॒प्शम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
@@ -124,14 +124,14 @@ genre M
 हे **बृहस्पते** **या** प्रसिद्धा **परमा** उत्कृष्टा **परावत्** अत्यन्तं दूरभूता वसतिः स्वर्गाख्यास्ति । यद्वा लिङ्गव्यत्ययः । परमं स्थानमस्ति । **अतः** अस्माद्देशात् । आ इत्यर्वागर्थे । अधस्तात् **ते** तव संबन्धिनः **ऋतस्पृशः** यज्ञं स्पृशन्तोऽश्वाः **नि** **षेदुः** निषण्णा भवन्ति । **तुभ्यं** **खाता** अवता:। लुप्तोपमैषा । यथा खाताः कूपाः **अभितः** **श्चोतन्ति** तद्वत् **अद्रिदुग्धाः** ग्रावभिरभिषुताः सोमा: **विरप्शं** विशेषेण शब्देन स्तोत्रं यथा भवति तथा **मध्वः** मधुररसं श्चोतन्ति स्रवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those (steeds), **Bṛhaspati**, which had come from that distant (region), the best (of all), have sat down in connection with the ceremony, and to you the **Soma** juices expressed by the stones flow copiously, (accompanied) by the sounds of praise, like deep wells that supply water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Br̥haspati, that which is the farthest distance, (coming) from there  have those who touch the truth [=Aṅgirases] sat down here (for  
 sacrifice) for you.  
@@ -139,7 +139,7 @@ For you do the deep-dug springs, milked by the stone, drip an
 abundance of honey all about.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Ths vs. also contains phonetic echoes of Bṛhaspati: ṛtaspṛ́ś(o) (b) and (vi)rapś(ám) (d). Another phonetic pattern worthy of note, though it doesn’t directly reference Bṛhaspati, is the unbroken sequence of short and long a, starting with yā́in pāda a (right after initial bṛ́haspate) and continuing into pāda b, till right before ṛtaspṛ́śo, the echo of the name: ā a a ā a ā a, a a ā a.
 
@@ -156,23 +156,23 @@ As indicated in the published introduction, this section concerns the unitary fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, from thy remotest distance have they sat down who love the law eternal.  
      For thee were dug wells springing from the mountain, which murmuring round about pour streams of sweetness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati! Aus weitester Ferne gekommen haben sie für dich eine Opfersitzung gehalten, den rechten Brauch hegend. Für dich träufen die gegrabenen Brunnen, die mit Steinen gemolken werden, den Überschwang der Süßigkeit nach allen Seiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sind aus fernster Ferne hergekommen, Brihaspati, die nun das Opfer hegen; Dir sind gegraben steinentquollne Brunnen, sie träufeln rings des süssen Trankes Fülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брихаспати, та даль, что самая крайняя,  
 Оттуда (пришли) они (и) сели, для тебя соблюдая закон.  

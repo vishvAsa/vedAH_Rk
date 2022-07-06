@@ -8,7 +8,7 @@ title = "+062"
 ‘प्रो अस्मै' इति द्वादशर्चं तृतीयं सूक्तं काण्वस्य प्रगाथस्यार्षम् । पञ्चपदा पङ्क्तिः । सप्तम्याद्यास्तिस्रो बृहत्यः । इन्द्रो देवता । अत्रानुक्रमणिका- प्रो अस्मै द्वादश प्रगाथः पाङ्क्तं सप्तम्याद्याश्च तिस्रो बृहत्यः' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 62 (671)  
 Indra  
@@ -19,7 +19,7 @@ A pleasantly limpid praise of Indra, which emphasizes Indra’s pleasure in prai
 The final verse, as often, is a summary, and it seems to establish the truth value  of the whole preceding hymn, as well as the précis given in the last half-verse. The  refrain found in every verse establishes the cheerful tone from the start.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इन्दो शतग्वि꣡नं  
 रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
 भ꣡रा सोम सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भर॑ । सो॒म॒ । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** पात्रेषु क्षरन् हे **सोम** **नः** अस्मभ्यम् **आ** **भर** संपादय देहि । किमिति उच्यते । **शतग्विनम्** । शतं गावो यस्य स शतगुः । तद्वन्तं **गोमन्तं** प्रशस्तपशुमन्तम् **अश्विनम्** अश्वयुक्तं **सहस्रिणं** सहस्रसंख्याकं **रयिं** धनं पुत्रं वा आ भर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, **Soma**, bring us thousand-fold wealth, consisting of hundreds of cows, having excellent cows and horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us, o drop, wealth in cattle and horses—  
 a hundredfold, a thousandfold, o soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share �
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Indu, bring us wealth in steeds and cattle hundredfold:  
      Bring wealth, O Soma, thousandfold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, o Saft, hundertfältigen Reichtum an Rindern und Rossen, tausendfältigen, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring', Indu, hundertfaches Gut an Rindern und an Rossen uns, O Soma, tausendfaches her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(неси) нам, о капля, сотенное  
 Богатство, состоящее из коров (и) коней,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अस्य बाहू꣡ शिथिरा꣡ बृह꣡न्ता  
 हिरण्य꣡या दिवो꣡ अ꣡न्ताँ अनष्टाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सू꣡रश् चिद् अस्मा अ꣡नु दाद् अपस्या꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नू॒नम् । सः । अ॒स्य॒ । म॒हि॒मा । प॒नि॒ष्ट॒ । सूरः॑ । चि॒त् । अ॒स्मै॒ । अनु॑ । दा॒त् । अ॒प॒स्याम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **शिथिरा** शिथिलौ दानार्थं प्रसारितौ **बृहन्ता** बृहन्तौ महान्तौ **हिरण्यया** हिरण्ययौ सुवर्णमयौ **अस्य** सवितुः संबन्धिनौ **बाहू** हस्तौ **दिवः** अन्तरिक्षस्य **अन्तान्** पर्यन्तान् **उत्** **अनष्टाम्** ऊर्ध्वौ सन्तौ व्याप्नुवताम् । **नूनम्** अद्य **अस्य** ईदृग्भूतस्य सवितुः **सः** तादृशः **महिमा** महत्त्वं **पनिष्ट** अस्माभिः स्तूयते । **सूरश्चित्** सूर्योऽपि **अस्मै** सवित्रे **अपस्यां** कर्मेच्छाम् **अनु** **दात्**  अनुददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,12 +140,12 @@ genre M
 Suraścid **asmā** anudād apasyām = sūryo asminsavitre karmecchām anudadātu, may **Sūrya** subsequently give to that Savitā the desire for acts.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His two golden arms, pliant and lofty, have reached up to the ends of heaven. Now this greatness of his has been marveled at. Even the sun has ceded  to him his task.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take the aor. injunc. paniṣṭa in c as modal, but the aor.
 
@@ -164,23 +164,23 @@ Although Savitar’s role as god of evening, causing the world and its activitie
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Golden, sublime, and easy in their motion, his arms extend unto the bounds of heaven.  
      Now shall that mightiness of his he lauded: even Surya yields to him in active vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine gelockerten großen goldenen Arme haben sich bis zu den Grenzen des Himmels erstreckt. Jetzt sei diese seine Größe gepriesen; auch die Sonne ordnet ihre Tätigkeit ihm unter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Himmelsende reichten seine Arme, die goldenen, die schlanken, die erhabnen; Nun wird bewundert diese seine Grösse; an Thatkraft steht ihm nach sogar die Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его руки, мягкие, большие, золотые  
 Простерлись ввысь до краев неба.  

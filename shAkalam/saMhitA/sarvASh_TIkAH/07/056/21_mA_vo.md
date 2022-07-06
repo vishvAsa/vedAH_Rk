@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ वो दात्रा꣡न् मरुतो नि꣡र् अराम  
 मा꣡ पश्चा꣡द् दघ्म रथियो विभागे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् ईं सुजातं꣡ वृषणो वो अ꣡स्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । स्पा॒र्हे । भ॒ज॒त॒न॒ । व॒स॒व्ये॑ । यत् । ई॒म् । सु॒ऽजा॒तम् । वृ॒ष॒णः॒ । वः॒ । अस्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -136,41 +136,41 @@ genre M
 हे **मरुतः** **वः** युष्माकं **दात्रात्** दानात् **मा** **निरराम** वयं मा निर्गमाम । यूयमस्मान् परित्यक्त्वान्येभ्यो धनं मा दत्तेत्यर्थः । हे **रथ्यः** रथवन्तो मरुतः **विभागे** युष्मदीयस्य धनस्य दाने **पश्चात्** **मा** **दध्म** । दध्यतिर्गतिकर्मा । वयं पश्चाद्भागिनो मा भूम। यूयं प्रथममस्मभ्यमेव दत्तेति यावत् । **स्पार्हे** स्पृहणीये **वसव्ये** धनसमूहे यूयं **नः** अस्मान् **आ** **भजतन** भागिनः कुरुत । हे **वृषणः** वर्षितारो मरुतः **वः** युष्माकं **सुजातं** शोभनजनं **यत्** वसव्यम् **अस्ति** तस्मिन् भागिनः कुरुतेति संबन्धः । **ईम्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Never, **Maruts**, may we be excluded from your bounty; let us not, lords of chariots, be last in itsapportionment; make us sharers in that desirable opulence which, showerers (of benefit), is born of you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let us not miss out on your gift, o Maruts; let us not lag behind at the  distribution, o charioteers.  
 Give us a share in the goods we crave, whatever you have of good  quality, o bulls.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. sujātá- ‘well-born’ generally refers to gods, or at least to mortals; it is only here used of material goods (implicitly vasavyà- in the preceding pāda, hence my ‘of good quality’. Of course, it is possible that vasavyà- here refers, at least partly, to human capital (sons), as apparently in II.9.5 ubháyam te ná kṣīyate vasavyàm ... krdhi páti ̥ ṃ svapatyásya rāyáḥ, where the second category of “goods of both types” (ubháyam … vasavyàm) is “wealth in good descendents” (svapatyásya rāyáḥ). But I don’t think this is a necessary interpr.: “well-born/produced” is likely available to semantic extension. 87
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Never, O Maruts, may we lose your bounty, nor, car-borne Lords! be hitidmost when ye deal it.  
      Give us a share in that delightful treasure, the genuine wealth that, Bulls! is your possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht möchten wir eurer Gabe entraten, nicht bei der Verteilung zu kurz kommen, ihr Wagenfahrer. Gebet uns Anteil an dem begehrenswerten Gute, was ihr auch immer an trefflichem Gute habt, ihr Bullen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzieht uns nicht, o Maruts, eure Gabe, noch setzt zurück uns bei des Guts Vertheilung; Theilt aus an uns begehrte Güterfülle, von allem was, o Stiere, schön euch beiwohnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не лишимся мы вашего дара, о Маруты!  
 Да не останемся мы позади при разделе, о колесничие!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ का꣡विया वेध꣡सः श꣡श्वतस् कर्  
 ह꣡स्ते द꣡धानो न꣡रिया पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्रा꣡ चक्राणो꣡ अमृ꣡तानि वि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । भु॒व॒त् । र॒यि॒ऽपतिः॑ । र॒यी॒णाम् । स॒त्रा । च॒क्रा॒णः । अ॒मृता॑नि । विश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -148,7 +148,7 @@ genre M
 कः । करोतेश्छान्दसो लुङ् । मन्त्रे घसेति च्लेर्लुक् । हल्ङ्याभ्य इति तकारलोपः । नर्या । नरशब्दाद्धितार्थे गवादिलक्षणो यत्प्रत्ययो द्रष्टव्यः (पा ५-१-२) यद्वा । तत्र साधुरिति यत् । चक्राणः । करोतेर्लटः शानच् । बहुलं छन्दसीति विकरणस्य श्लुः । नन्वेवं सत्यभ्यस्तानामादिरित्याद्युदात्तत्वं प्राप्नोति । एवम् । तर्हि लिटः कानजस्तु । तस्यार्धधातुकत्वेनाभ्यास्ताद्युदात्तत्वाभावे चित्स्वर एव शिष्यते ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,41 +161,41 @@ Svatmabhimukham **karoti**, he makes them present or applicable to himself;
 **Śaśvata** = **vedhas** or **brahmā**, creator, the eternal; an apparent indication of the identification of the first cause, identified with, yet distinct from Agni and other elemental deities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He outdoes the poetic skills of each and every ritual expert, taking in his  hand many manly powers.  
 Agni has become the wealth-lord of wealth, making wholly his own all  immortal things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme ní √kṛ, literally ‘make/do down’, idiomatically means to surpass one’s opponent with regard to some quality by “putting” or “bringing” [them] “down.” Indeed the English idiom “put down” is very close, but I chose not to use it because it doesn’t convey quite the right sense with the right case frame. The verb generally takes an acc. of the quality in question; the person who is outdone can be either in the acc. (X.49.8), hence a double acc., or gen. (II.23.12), and there is some disagreement among tr. about which construction we have here, since vedhásaḥ śáśvataḥ can be either gen. sg. or acc. pl. Geldner opts for the acc. pl. in the tr., but offers the gen. sg. as alternative in his n.; Oldenberg, Renou, Witzel Gotō choose the sg., as I have done, though for no principled reason.
 
 The náryā ‘manly powers’ in b contrasts both with kā́vyā in a and amṛ́tāni in d. The first contrast would be between, roughly, warrior skills and verbal skills, the second between human (though of course nṛ́- can often be used of gods, too) and divine. For the latter pairing note that the two acc. pls. are construed with similar verbs: middle participles to reduplicated formations, dádhānaḥ and cakrāṇáḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOUGH holding many gifts for men, he humbleth the higher powers of each wise ordainer.  
      Agni is now the treasure-lord of treasures, for ever granting all immortal bounties.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He has brought down (i. e. surpassed) the wisdom of many a worshipper 1, he who holds in his hand all manly power. Agni has become the lord of treasures, he who brought together all (powers of) immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An Sehergabe stellt er alle Meister in Schatten, der viele Manneskräfte in der Hand hält. Agni ward der Herr der Reichtümer, der alle unsterblichen Kräfte insgesamt sich angeeignet hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er übertrifft jedwedes Ordners Weisheit, in Händen tragend viele Männergaben; Der Schätze Schatzherr ist geworden Agni, vollbringend alles stets, was unvergänglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По вспышкам вдохновения он превосходит любого искушенного (жреца),  
 Держа в руке многие силы мужества.  

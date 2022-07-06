@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनश्वो꣡ जातो꣡ अनभीशु꣡र् अ꣡र्वा  
 क꣡निक्रदत् पतयद् ऊर्ध्व꣡सानुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ मित्रे꣡ धा꣡म व꣡रुणे गृण꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒चित्त॑म् । ब्रह्म॑ । जु॒जु॒षुः॒ । युवा॑नः । प्र । मि॒त्रे । धाम॑ । वरु॑णे । गृ॒णन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anaśvo* ← *an*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 स एवादित्यः **अनश्वः** यद्यपि शीघ्रगाम्यश्वरहितः तथा **अनभीशुः** आलम्बनाधारप्रग्रहस्थानीयरश्मिरहितः तथापि **अर्वा** **जातः** शीघ्रगमनवान् संपन्नः । तथाविधोऽयमादित्यः **कनिक्रदत्** अत्यर्थं क्रन्दयन् । क्रन्देर्यङ्लुगन्तात् शतरि दाधर्त्यादौ निपात्यते ॥ **ऊर्ध्वसानुः** उपर्युपरि समुच्छ्रयणः सन् **पतयत्** गच्छति । **अचित्तं** चित्ताविषयं **ब्रह्म** परिवृढम् उक्तरूपं कर्म **मित्रे** **वरुणे** च उभयोः **धाम** तेजःस्थानं **युवानः** मिश्रयन्तः तयोर्धाम्नि आरोपयन्तः तथा **प्र** **गृणन्तः** युवयोः तेजःप्रभवमिति प्रकर्षेण स्तुवन्तः **जुजुषुः** सेवन्ते । मनुष्याः सूर्यस्य निरालम्बान्तरिक्षसंचारात्मकं कर्म वरुणमित्रयोरधीनम् इति स्तुवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ Connecting the inconceivable mystery: acittambrahma **yuvānaḥ**: acittam = **
 **Brahma** = parivṛḍham uktarūpam **karma**, the act of which the nature is declared very great
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born without a horse, a steed without a rein, ever whinnying he [=Sun]  flies with arched back.  
 (Though it cannot be) comprehended, the youths [=Maruts? Aṅgirases?  gods?] enjoy the formulation, as in (the presence of) Mitra and Varuṇa  they hymn their ordinance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is taken universally as a reference to the Sun, and my published translation follows this understanding. However, this identification may not be very strong: although, as Geldner says, the Sun is sometimes imagined as a horse, sometimes as a chariot, it can scarcely be thought to whinny (kánikradat) -- this detail must simply be attached because of the horse image -- and the ‘high’ or ‘arched’ back (ūrdhvásānu-) may be appropriate to the path of the sun across the sky but does not fit the round shape of the actual heavenly body. Nonetheless, I don’t have a better idea.
 
@@ -152,23 +152,23 @@ In the published translation the rendering of acíttam in c should be “(Though
 In the published translation “their ordinance” does not sufficiently make clear that it’s the ordinance of Mitra and Varuṇa (as in 4d mitrásya váruṇasya dhā́ma), not that of the youths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unbridled Courser, born but not of horses, neighing he flieth on with back uplifted.  
      The youthful love mystery thought-surpassing, praising in Mitra-Varuna, its glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Roß geboren, ohne Zügel, selbst ein Renner fliegt er wiehernd mit aufgerichtetem Rücken. Die Jungen freuen sich über das unbegriffene Geheimwort, indem sie das Gebilde vor Mitra und Varuna loben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren ohne Ross und Zügel, wiehernd fliegt auf der Renner mit erhobnem Rücken; Das kaum verstandne Lied gefällt der Jugend, die Varuna's und Mitra's Satzung preiset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденный не как конь, без поводьев, (однако) стремительный,  
 С громким ржанием он летит спиною кверху.  

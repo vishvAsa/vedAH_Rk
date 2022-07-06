@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पा꣡ता सुत꣡म् इ꣡न्दरो+ अस्तु सो꣡मं  
 ह꣡न्ता वृत्रं꣡ व꣡ज्रेण मन्दसानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सुर् धीना꣡म् अविता꣡ कारु꣡धायाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गन्ता॑ । य॒ज्ञम् । प॒रा॒ऽवतः॑ । चि॒त् । अच्छ॑ । वसुः॑ । धी॒नाम् । अ॒वि॒ता । का॒रुऽधा॑याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pātā* ← *pā*
 - \[verb\], singular, periphrast. future
@@ -126,20 +126,20 @@ genre M
 अयम् **इन्द्रः** **सुतम्** अभिषुतं **सोमं** **पाता** **अस्तु** साधु पाता भवतु ॥ साधुकारिणि तृन् । अत एव ‘न लोकाव्यय ' इति षष्ठीप्रतिषेधात् द्वितीया । एवं हन्तेत्यादावपि द्रष्टव्यम् ॥ तेन च सोमेन **मन्दसानः** माद्यन् **वज्रेण** आयुधेन **वृत्रम्** आवरकं शत्रुं **हन्ता** अस्तु भवतु । एतदुभयार्थं **परावतश्चित्** दूरदेशादपि **यज्ञम्** **अच्छ** अस्मदीयं यज्ञमभि **गन्ता** भवतु । दूरदेशस्थोऽपि शीघ्रमस्मद्यज्ञे सोमपानाय आगच्छत्वित्यर्थः। कीदृश इन्द्रः। **वसुः** सर्वेषां निवासयिता **धीनां** ध्यातॄणां स्तोतॄणां कर्मणां वा **अविता** रक्षिता **कारुधायाः** कारूणां कर्तॄणां यजमानानां धारयिता ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** be the drinker of this effused **Soma**, and, exhilarated by it, become the destroyer of **Vṛtra** by the thunderbolt; may he come, although from afar, to our sacrifice, (he who is) the giver of dwellings, the upholder of the celebrator (of religious).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra be the one who drinks the pressed soma, who smashes the  obstacle [/Vr̥tra] with his mace in his exhilaration,  
 who goes to the sacrifice, even from far away, who is the good helper of  insights, providing nourishment to the bard.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is characterized by three root-accented agent nouns (pā́tā a, hántā b, gántā c), all pāda-initial, all with acc. obj./goal. Then in d the pattern is switched: a suffix-accented agent noun (avitā́), interior in its pāda (immed. after caesura) with (objective) gen. complement. All of them are presumably predicates of astu in pāda a. I consider this simply an instance of the RVic tendency to shake up established patterns; I doubt that the poet is attempting to draw a distinction between Indra’s habitual roles as drinker, smiter, and goer, in contrast to a situational role as helper, as Tichy claims (Die Nomen agentis auf -tar- im Vedischen, 298-99; cf. 257 and passim). Among other things, “help” is one of the most frequent things we ask Indra to do for us; it is surely one of his standard, habitual roles. It happens that there is no root-accented *ávitar-, though avitár- is extremely common, and so no such form was available to match the first three -tar- stems in this vs. I do not know if the gap is accidental or systemic.
 
@@ -155,23 +155,23 @@ Another soma tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra drink this Soma poured to please him, and cheered therewith slay Vrtra with his thunder.  
      Come to our sacrifice even from a distance, good lover of our songs, the bard's Supporter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll der Trinker des Soma sein, mit seiner Keule der Erleger des Vritra, wann er berauscht ist, der das Opfer selbst aus der Ferne aufsucht, der gütige Gönner der Lieder, der Brotgeber des Dichters.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es trinke Indra den gepressten Soma, erquickt nun schlag' er mit dem Blitz den Vritra; Zum Opfer komm er auch aus weiter Ferne, der Dichterhort, der Andacht holder Gönner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра будет пить выжатого сому,  
 Опьяненный, пусть убивает Вритру ваджрой,  

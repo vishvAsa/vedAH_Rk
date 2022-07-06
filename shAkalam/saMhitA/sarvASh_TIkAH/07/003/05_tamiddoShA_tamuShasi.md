@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् दोषा꣡ त꣡म् उष꣡सि य꣡विष्ठम्  
 अग्नि꣡म् अ꣡त्यं न꣡ मर्जयन्त न꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीदा꣡य शोचि꣡र् आ꣡हुतस्य वृ꣡ष्णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि॒ऽशिशा॑नाः । अति॑थिम् । अ॒स्य॒ । योनौ॑ । दी॒दाय॑ । शो॒चिः । आऽहु॑तस्य । वृष्णः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -124,36 +124,36 @@ genre M
 **यविष्ठं** युवतमम् **अतिथिम्** अतिथिवत् पूज्यं **तमित्** तमेव **अग्निं** **दोषा** दोषायां रात्रौ **उषसि** वासरेऽपि **तम्** एव **अस्य** अग्नेः **योनौ** स्थाने आहवनीयायतने धिष्ण्ये वा **निशिशानाः** दीपयन्तः **नरः** मनुष्याः **अत्यं** **न** सततगमनयुक्तं वोढारमश्वमिव **मर्जयन्त** परिचरन्ति । **आहुतस्य** च 'वृष्णः कामानां वर्षितुरग्नेस्तस्य **शोचिः** ज्वाला **दीदाय** दीप्यते ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men cherish that youthful **Agni** at evening and at dawn, as (they tend) a horse; lighting him as a guestin his proper station; the radiance of the showerer (of benefits), to whom the oblation is offered, shines brightly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the evening and at dawn our men groom just that very young Agni  like a stallion,  
 sharpening their guest in his womb. His flame shines when the bull is  offered oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men have decked him both at eve and morning, Most Youthful Agni, as they tend a courser.  
      They kindle him, a guest within his dwelling: bright shines the splendour of the worshipped Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn putzen die Männer abends, ihn am Morgen, den jüngsten Agni wie ein Rennpferd, indem sie dem Gast an seiner Geburtsstätte Appetit machen. Es leuchtet seine Flamme, wenn der Bulle mit Schmalz begossen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn striegelten am Abend und am Morgen, den jüngsten Agni, wie ein Ross die Männer, Den Gast in seinem eignen Sitz entflammend; es glänzt die Flamme des getränkten Stieres.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его вечером, его на рассвете – самого юного  
 Агни начищают мужи, словно скакового коня,  

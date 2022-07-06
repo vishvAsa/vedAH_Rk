@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जिह्वा꣡भिर् अ꣡ह न꣡न्नमद्  
 अर्चि꣡षा जञ्जणाभ꣡वन्  
 अग्नि꣡र् व꣡नेषु रोचते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निः । वने॑षु । रो॒च॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jihvābhir* ← *jihvābhiḥ* ← *jihvā*
 - \[noun\], instrumental, plural, feminine
@@ -71,41 +71,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अग्निः** **जिह्वाभिरह** ज्वालाभिरेव **नन्नमत्** वनस्पतीनत्यन्तं नमयन् **अर्चिषा** तेजसा **जञ्जणाभवन्** ज्वलन् । ‘जञ्जणाभवन् मल्मलाभवन्' इति ज्वलतिकर्मसु पाठात् । **वनेषु** अरण्येषु **रोचते** प्रकाशते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bowing down (the trees) with his tongues (of flame), and blazing with splendour, **Agni** shines in theforests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bending back and forth with his tongues, flickering here and there with  his flame,  
 Agni shines brightly in the woods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On jañj see comm. ad I.168.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bending him down with all his tongues, he flickers with his fiery glow  
      Splendid is Agni in the woods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seinen Zungen auf und ab fahrend, mit der Flamme hin und her flackernd leuchtet Agni in den Wäldern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit seinen Zungen beugend sich und funkelnd mit der Flamme Glanz Erstrahlet Agni in dem Holz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Изгибаясь (своими) языками,  
 Вспыхивая пламенем,  

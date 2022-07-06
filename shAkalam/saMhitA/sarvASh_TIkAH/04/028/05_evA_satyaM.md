@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ सत्य꣡म् मघवाना युवं꣡ त꣡द्  
 इ꣡न्द्रश् च सोम ऊर्व꣡म् अ꣡श्वियं गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रिरिच꣡थुः क्षा᳐꣡श् चित् ततृदाना꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । अ॒द॒र्दृ॒त॒म् । अपि॑ऽहितानि । अश्ना॑ । रि॒रि॒चथुः॑ । क्षाः । चि॒त् । त॒तृ॒दा॒ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -116,20 +116,20 @@ genre M
 हे **सोम** त्वं च **इन्द्रश्च** इति युवामुभौ **ऊर्वं** महान्तम् **अश्व्यम्** अश्वसमूहं **गोः** गवां समूहं च **आदर्दृतम्** आदरयतम् । **अपिहितानि** पणिभिराच्छादितानि गवां वृन्दानि **क्षाश्चित्** पणीनां
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Possessors of wealth, destroyers of foes, **Indra** and **Soma**, it is indeed true that you have distributed great numbers of horses, and of the cattle which had been concealed and the land which you had recovered by your strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way (did it come) true, o bounteous ones: you two, o Indra  and Soma, kept pounding the horse-pen and that of the cow;  
 you gave leave to the things that were covered with the stone [=waters/ cows] (to flow), having drilled through even the places of the earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note #índraś ca here and #índraś ca(krám) in 2b. Also, presumably we get a reverse Vāyav Indraś ca construction here (índraś ca soma rather than standard soma índraś ca), so that Indra can be pāda-initial, as in 1b, 2b.
 
@@ -140,23 +140,23 @@ of riricáthuḥ, but the last three words, kṣā́ś cit tatṛdānā́as a si
 The cadence of b is bad and would be improved by reading *tātṛdānā́, as Arnold suggested and Oldenberg seems tentatively to accept.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, of a truth, Indra and Soma, Heroes, ye burst the stable of the kine and horses,  
      The stable which the bar or stone obstructed; and piercing through set free the habitations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So ist es wahr, ihr Freigebige. Indra und Soma, ihr habt damals das Roß- und Rinderversteck erbrochen und die mit einem Stein verschlossenen Schätze freigegeben wie die aufgebrochene Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist eur rechtes Werk, o mächt'ge beide, den Stall der Ross und Rinder, Indra-Soma, Und das vom Fels verschlossne brachet auf ihr, und machtet frei die Stätten, sie erschliessend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такова истина, о щедрые. Тогда вы оба,  
 О Индра и Сома, взломали укрытие с конями  

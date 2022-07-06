@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡व् इ꣡द् दुःशं꣡सम् म꣡र्तियं  
 दु꣡र्विद्वांसं रक्षस्वि꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उदधिं꣡ ह꣡न्मना हतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽभो॒गम् । हन्म॑ना । ह॒त॒म् । उ॒द॒ऽधिम् । हम॑ना । ह॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāv* ← *tau* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -95,7 +95,7 @@ genre M
 हे इन्द्राग्नी **तौ** युवां **दुःशंसं** दुष्टाभिशंसनं **दुर्विद्वांसं** दुर्विज्ञानं **रक्षस्विनं** बलवन्तम् **आभोगम्** आहृत्यास्मत्तोऽपहृत्य भोक्तारं **मर्त्यं** मनुष्यं शत्रुं **हन्मना** हननसाधनेनायुधेन **हतं** हिंस्तम् । उक्तमेवार्थं दृष्टान्तेन द्रढयति । **उदधिम्** । लुप्तोपममेतत् । उदधानं कुम्भमिव । यथा कुम्भोऽनायासेन भिद्यत एवमनायासेनैव शत्रुमायुधेन युवां हिंस्तम् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,14 +106,14 @@ genre M
 Rapacious: ābhogam = he who enjoys good things taken from theworshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just you two—(strike) the evil-speaking, evil-knowing mortal of  demonic power—  
 strike the snake with a stroke; strike the water-(with)holder with a  
 stroke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 3rd ps. ref. of the nom. du. in vs. 11 is transformed into 2nd ps. ref. by the 2nd du. impv. hatam in 12b, mediated by the dual prn. tāú, which in this context, with a flg. impv., can have either 3rd or 2nd ps. ref. (see my “sá figé”).
 
@@ -122,23 +122,23 @@ Geldner and Renou take ābhogá- and udadhí- as PNs, which seems odd since both
 As for ābhogá, Oldenberg seriously doubts the gloss ‘snake’ found, e.g., in Grassmann But I’m somewhat puzzled as to why. There is certainly a root √bhuj ‘bend, coil’ distinct from √bhuj ‘enjoy, benefit’, and bhogá- definitely means ‘(snake’s) coil’ in reference to Vṛtra in V.29.6 ... bhogā́n sākáṃ vájreṇa maghávā vivṛścát “the bounteous one hews apart his [=Vr̥tra's] … coils at one blow with his mace.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slay ye the wicked man whose thought is evil of the demon kind.  
      Slay him who stays the waters, slay the Serpent with your deadly dart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erschlaget beide den schlechtredenden Sterblichen von schlechter Einsicht, den Tückevollen! Erschlaget den Abhoga mit der Waffe, erschlaget den Udadhi mit der Waffe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann schlaget fort den bösen Mann, den unverständ'gen Zauberer, Den Drachen schlagt mit starkem Schlag, den Drachen, der die Flut verschliesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так (убейте) же вы двое злоречивца-смертного,  
 Обладающего дурным знанием, похожего на ракшаса!  

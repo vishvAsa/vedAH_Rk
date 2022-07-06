@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ हि꣡ अस्य वीर꣡स्य  
 भूरिदा꣡वरीं सुमति꣡म्  
 त्रिषु꣡ जात꣡स्य म꣡नांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 त्रि॒षु । जा॒तस्य॑ । मनां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -83,42 +83,42 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **अस्य** इन्द्रस्य **वीरस्य** विक्रान्तस्य **भूरिदावरीं** बहुधनस्य दात्रीं **सुमतिं** कल्याणीं मतिमनुग्रहबुद्धिं **विद्मा** **हि** जानीमः खलु । तथा **त्रिषु** भूम्यादिषु त्रिषु लोकेषु **जातस्य** तत्कार्यार्थं प्रादुर्भूतस्य **मनांसि** हृदयानि च जानीमः । अतस्तस्येन्द्रस्य यथा प्रीतिर्जनिष्यते तथा स्तोत्रं कुर्म इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We know the munificent genitive rosity of the hero (**Indra**); of the purposes of him who is manifest in thethree worlds (we are aware).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For we know the much-giving benevolence of him,  
 the hero,  
 and the thoughts of him who was born in the three.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of “the three” in c is not clear; perhaps again the three pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For well we know this Hero's love, most liberal of the boons he gives,  
      His plans whom the three worlds display.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir kennen ja seine vielschenkende Gnade, des Helden, die Gesinnung des an drei Orten Geborenen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wir kennen dieses Helden gabenreiche Gunsterweisung, Des dreifach gebornen Güte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы знаем милость этого героя,  
 Влекущую за собой обильное дарение,  

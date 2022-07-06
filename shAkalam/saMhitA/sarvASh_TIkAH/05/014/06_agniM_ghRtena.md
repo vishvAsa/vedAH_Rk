@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ घृते꣡न वावृधुः  
 स्तो꣡मेभिर् विश्व꣡चर्षणिम्  
 सुआधी꣡भिर् वचस्यु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सु॒ऽआ॒धीभिः॑ । व॒च॒स्युऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -73,41 +73,41 @@ genre M
 ऋत्विजः **विश्वचर्षणिं** विश्वस्य द्रष्टारं **स्वाधीभिः** शोभनाध्यानैः **वचस्युभिः** स्तुतिकामैर्देवैः समेतम् **अग्निं** **घृतेन** **स्तोमेभिः** स्तोमैः स्तोत्रैः **ववृधुः** अवर्धयन् ॥ ॥ ६ ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They have augmented, **Agni**, the beholder of all, with oblations and with praises, along with the gods, the objects of pious meditation, desirous of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, governing all territories, have they increased with ghee and  praise songs  
 of good insight and eloquence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They have exalted Agni, God of all mankind, with oil and hymns  
      Of praise, devout and eloquent.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They have made Agni grow by ghrita, him who dwells among all tribes, and by longing, eloquent praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni haben sie mit Schmalz und wohlbedachten, beredten Lobliedern groß gemacht, den allen Völkern Gehörigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Schmalz und Liedern haben sie Agni gestärkt, den Menschenhort, Mit andachtsvollen, rauschenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни они подкрепили жиром,  
 Восхвалениями, внимательными,  

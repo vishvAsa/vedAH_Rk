@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान सुवी꣡रियं  
 रयिं꣡ सोम रिरीहि नः  
 इ꣡न्दव् इ꣡न्द्रेण नो युजा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । इन्द्रे॑ण । नः॒ । यु॒जा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** क्लिद्यमान **पवमान** **सोम** त्वं **सुवीर्यं** शोभनवीर्योपेतं **रयिं** धनं **नः** अस्माकं संबन्धिना **इन्द्रेण** **युजा** सहायेन **नः** अस्मभ्यं **रिरीहि** देहि ॥ ॥ ३७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure-dropping **Soma**, grant us wealth with excellent **male** offspring, grant it to us, **Indu**, with **Indra** as our ally.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying Soma, give us wealth and an abundance of heroes,  
 o drop, along with Indra as our yokemate.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The índo- índra- figure appears yet again, in different cases (voc., instr.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma Pavamana, give us riches and heroic strength,-  
      Indu! with. Indra for ally.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Soma Pavamana, gewähre uns die Meisterschaft, Reichtum, uns, o Saft, mit Indra im Bunde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, schenk uns Heldenkraft und Reichthum uns, o rieselnder, Mit Indra, Indu; uns gesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, обилие прекрасных мужей,  
 Богатство даруй нам, о сома,  

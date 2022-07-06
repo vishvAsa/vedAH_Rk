@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आभूषे꣡ण्यं वो मरुतो महित्वनं꣡  
 दिदृक्षे꣡ण्यं सू꣡रियस्येव च꣡क्षणम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 उ॒तो इति॑ । अ॒स्मान् । अ॒मृ॒त॒ऽत्वे । द॒धा॒त॒न॒ । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ābhūṣeṇyaṃ* ← *ābhūṣeṇyam* ← *ābhūṣeṇya*
 - \[noun\], nominative, singular, neuter
@@ -119,21 +119,21 @@ genre M;; repeated line
 हे **मरुतः** **वः** युष्माकं **महित्वनं** महत्त्वम् **आभूषेण्यं** स्तुत्यम् । किंच **सूर्यस्येव** **चक्षणं** रूपमिव **दिदृक्षेण्यं** दर्शनीयम् । **उतो** अपि च **अस्मान्** अमृतत्वे मोक्षे स्वर्ग इत्यर्थः । तत्र **दधातन** धारयत । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your might, **Maruts**, is to be glorified; it is to be contemplated like the orb of the sun; sustain us ever in immortality; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your greatness is to be emulated, o Maruts; the sight of you is desirable  to see like the sighting of the sun.734 V.56  
 And establish us in immortality. – As they drove in beauty their  
 chariots rolled along.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ābhūṣéṇya- as a quasi-desiderative gerundive, parallel to didṛkṣénya- ‘desirable to be seen’ -- hence ‘desirable to become’ à ‘to be emulated’. However it may simply mean ‘to be attended upon’.
 
@@ -142,24 +142,24 @@ The utá introducing the impv. in c is awkwardly rendered as ‘and’. Klein (D
 However, ‘therefore’ for utá does not have much support (3 passages cited by Klein out of over 750) or a clear path of development, and a closer look at the context does not yield a causal “X, therefore Y” interpr. It is possible that the morphologically ambiguous dadhātana is not an imperative but an injunctive, which would yield a more acceptable pendant “and you establish us in immortality.” And it is also possible that the utá here loosely matches the other 3rd-pāda utá-s in 2c, 7c, while anticipating 5a #úd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maruts, your mightiness deserves to be adored, sight to be longed for like the shining of the Sun.  
      So lead us with your aid to immortality.  
      Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu ehren ist eure Größe, ihr Marut, sehenswert euer Anblick wie der der Sonne. Verhelfet auch uns zur Unsterblichkeit! - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Maruts, eure Grösse ist des Rühmens werth, und schön zu schauen wie der Sonne Angesicht; Auch uns, o Männer, führet zur Unsterblichkeit; es rollen eure Wagen, wenn zum Schmuck ihr geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойно почитания ваше величие, о Маруты.  
 Достойна взоров (ваша толпа), словно появление солнца.  

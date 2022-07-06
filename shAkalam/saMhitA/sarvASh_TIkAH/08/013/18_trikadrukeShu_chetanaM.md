@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡कद्रुकेषु चे꣡तनं  
 देवा꣡सो यज्ञ꣡म् अत्नत  
 त꣡म् इ꣡द् वर्धन्तु नो गि꣡रः सदा꣡वृधम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 तम् । इत् । व॒र्ध॒न्तु॒ । नः॒ । गिरः॑ । स॒दाऽवृ॑धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trikadrukeṣu* ← *trikadruka*
 - \[noun\], locative, plural, masculine
@@ -90,7 +90,7 @@ genre M;; line affected by realignment
 **त्रिकद्रुकेषु** । त्रिकद्रुका नाम ज्योतिर्गौरायुरिति त्रीण्याभिप्लविकान्यहानि । तेषु **देवासः** देवाः **चेतनं** चेतयितारमिन्द्रं **यज्ञं** यष्टव्यम् **अत्नत** अतन्वत अकृषत । तनोतेर्लङि छान्दसो विकरणस्य लुक् । ‘तनिपत्योश्छन्दसि' इत्युपधालोपः । **तमित्** तमेवेन्द्रं **नः** अस्माकं **गिरः** स्तुतयश्च वर्धयन्तु । कीदृशम् । **सदावृधं** सर्वदा स्तोतॄणां वर्धयितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,13 +101,13 @@ genre M;; line affected by realignment
 Superintending: **cetana** = cetayitrī, causing to bewise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods stretched for themselves a noteworthy sacrifice among the  Trikadrukas.  
 Just him [=Indra] let our hymns increase—him who ever increases.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See the discussion of the tṛca as a whole above.
 
@@ -122,23 +122,23 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At the Trkadrukas the Gods span sacrifice that stirred the mind:  
      May our songs strengthen him who still hath strengthened us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei den Trikadruka´s haben die Götter das denkwürdige Opfer ausgeführt. Dasselbe sollen unsere Lobreden noch mehr gedeihen lassen, das immer Gedeihliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In den drei Kufen woben da die Götter schönes Opferwerk; Ihn kräft'ge unsrer Lieder Schall, den Kräftiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На(праздниках) трикадрука превосходную  
 Жертву принесли боги.  

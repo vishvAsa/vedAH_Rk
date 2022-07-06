@@ -8,7 +8,7 @@ title = "+018"
 ‘ परि सुवानः' इति सप्तर्चमष्टादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘परि सुवानः सप्त' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 18 (730)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ The most salient feature of this hymn is its pāda-length refrain, promising hea
 It is noteworthy that the word “soma” is found only in the first verse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure of this hymn, see published introduction.
 </details>

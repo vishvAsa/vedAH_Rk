@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् प्रत्न꣡था पूर्व꣡था विश्व꣡थेम꣡था  
 ज्येष्ठ꣡तातिम् बर्हिष꣡दं सुवर्वि꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आशुं꣡ ज꣡यन्तम् अ꣡नु या꣡सु व꣡र्धसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒ती॒ची॒नम् । वृ॒जन॑म् । दो॒ह॒से॒ । गि॒रा । आ॒शुम् । जय॑न्तम् । अनु॑ । यासु॑ । वर्ध॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -136,7 +136,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,14 +147,14 @@ genre M
 **Yajus**. 7.12; by such praises you exalt him: Or, anu yāsu vardhase may be applied to **Indra**, you prosper, Indra, by such praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him—in the primordial way, in the earlier way, in every way, in this way  here—(him who is) preeminence (itself), who sits on the ritual grass  
 and finds the sun,  
 him facing toward (our) community will you milk out with song, the swift  one conquering (the cows? the waters?), among whom you grow strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Save for the fronted pronoun tám, this hymn opens with a remarkable series of universalizing adverbs, identically formed with -(á-)thā suffix and linking the current ritual situation (the final one in the series, imáthā ‘in this way here’, a hapax) to that of every time and place: pratnáthā pūrváthā viśváthā. This may give us a foretaste of the poet’s laying bare the underlying identity of the two central ritual substances, fire and soma, and of the service accorded them in the sacrifice.
 
@@ -177,23 +177,23 @@ loc. pl. and a form of √vṛdh in these passages is striking, and it is Agni a
 Thus, in my opinion, by the end of the vs. the poet has narrowed down the possible referents and set up the rhetorical situation that will dominate the rest of the hymn: an unidentified masc. sg. referent, who can be simultaneously Agni and Soma, and a set of fem. pl. attendants, likewise unidentified, who are connected to the masculine figure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in the first old times, as all were wont, as now, he draweth forth the power turned hitherward with song,  
      The Princedom throned on holy grass, who findeth light, swift, conquering in the' plants wherein he waxeth strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus ihm, dem Barhissitzer, dem Sonnenfinder, sollst du wie in früherer Zeit, wo die Vorfahren, wie alle, wie die Gegenwärtigen den Vorrang für uns und hinwiederum einen Opferbund mit dem Loblied herausmelken und ein Rennpferd, das Kühe gewinnt, an denen du nach und nach reich wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] aus diesem [Soma], der auf die Streu gestellt ist, und Glück verschafft, dir Oberherrschaft und Kraftfülle, aus dem hergewandten durch Hülfe des Liedes, aus dem scharfen, der die [Säfte] gewinnt, an denen du erstarkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наподобие древних, наподобие прежних, наподобие всех, наподобие этих (теперешних)  
 (Ты должен подоить) верховного владыку, (того, кто сидит) на жертвенной соломе, кто находит небо!  

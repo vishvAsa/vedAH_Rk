@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ हि꣡ मां꣡ तव꣡सं वर्ध꣡यन्ति  
 दिव꣡श् चिन् मे बृहत꣡ उ꣡त्तरा धूः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अशत्रुं꣡ हि꣡ मा ज꣡निता जजा꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पु॒रु । स॒हस्रा॑ । नि । शि॒शा॒मि॒ । सा॒कम् । अ॒श॒त्रुम् । हि । मा॒ । जनि॑ता । ज॒जान॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -131,7 +131,7 @@ popular
 **हि** यस्मात्कारणात् **एव** एवमुक्तप्रकारेण **तवसं** प्रवृद्धं **मां** स्तोतारः स्तुतिभिः स्तुवन्तो वीर्येण **वर्धयन्ति** तस्मात्कारणात् **बृहतः** महतः **मे** मम इन्द्रस्य **दिवश्चित्** द्युलोकादपि **धूः** स्तुतिः **उत्तरा** उद्गततराधिकतरा । किंच **पुरु** पुरूणि बहूनि **सहस्रा** शत्रूणां सहस्राणि **साकं** युगपत् **नि** शिशामि तनूकरोमि। हिनस्मीत्यर्थः । **हि** यस्मात्कारणात् **जनिता** सर्वस्य जनयिता प्रजापतिः **मा** मामिन्द्रम् **अशत्रुम्** अविद्यमानशत्रुं **जजान** जनितवान् ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ popular
 Increase my strength: tavasam = augment me so as to make me strong;genitive rator: aśatrum = the genitive rator has engendered me, without any enemies whom I could not overcome
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Because in this way they grow me strong, higher even than lofty  heaven is my chariot-pole.  
 Many thousands do I “grind down” all at once, for the begetter begot me  as one without rival.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus do they magnify me, me the mighty higher than even high heaven is my car-pole.  
      I all at once demolish many thousands: my Sire begot me with no foe to match me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn also erheben sie mich, den Starken; meine Deichsel überragt den hohen Himmel. Viele Tausende steche ich auf einmal nieder, denn mein Erzeuger hat mich ohne einen überlegenen Gegner erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »So preisen ja die Sänger mich, den starken, den hohen Himmel überragt mein Wagen; Viel tausend werf' auf einmal ich zu Boden; denn unbesiegbar zeugte mich der Vater,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот меня, сильного, все увеличивают они.  
 Мое дышло даже выше, чем далекое небо.  

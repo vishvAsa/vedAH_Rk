@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वापृथिवी꣡ जनयन्न् अभि꣡ व्रता꣡  
 आ꣡प ओ꣡षधीर् वनि꣡नानि यज्ञि꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡शं देवा꣡सस् तनु꣡वी नि꣡ मामृजुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तरि॑क्षम् । स्वः॑ । आ । प॒प्रुः॒ । ऊ॒तये॑ । वश॑म् । दे॒वासः॑ । त॒न्वि॑ । नि । म॒मृ॒जुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvāpṛthivī*
 - \[noun\], accusative, dual, feminine
@@ -116,37 +116,37 @@ genre M
 **देवासः** देवा इन्द्रादयः **द्यावापृथिवी** द्यावापृथिव्यौ **अभि** अभिलक्ष्य **व्रता** व्रतेन स्वेन कर्मणा **आपः** । सुब्व्यत्ययः । अप उदकानि **ओषधीः** च तथा **यज्ञिया** यज्ञार्हान् **वनिनानि** वने भवान् पलाशादीन् वृक्षान् **जनयन्** उदपादयन् । किंच ते देवाः **स्वः** सर्वम् **अन्तरिक्षम्** **आ** **पप्रुः** तेजसापूरयन्ति । किमर्थम् । **ऊतये** रक्षणाय शत्रुभ्यो बाधाभावाय । अपि च **वशं** काम्यमानम्। ' वशिरण्यरुपसंख्यानम् ' ( पा. सू. ३. ३. ५८. ३) इत्यकर्तरि कारकेऽप् । तं यज्ञं   **तन्वि** स्वशरीरे **नि** **ममृजुः** नितरां शुद्धमलंकृतं चक्रुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods engendered the heaven and earth with their respective functions, the waters, the plural nts, thesacred trees; they filled the whole firmament (with lustre) for its protection; they graced the desirable (sacrifice) intheir own person ns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They begot heaven and earth to their commandments, and the waters,  the plants, and the trees belonging to the sacrifice.  
 They filled the midspace and the sun to give help. The gods clasped  
 their will to themselves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Holy Ones engendered, for their several laws, the heavens and earth, the waters, and the plants and trees.  
      They filled the firmament with heavenly light for help: the Gods embodied Wish and made it beautiful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde erschufen sie für die heiligen Werke, die Gewässer, Pflanzen, die heiligen Bäume; den Luftraum erfüllten sie mit Sonnenlicht zum Beistand. Die Götter eigneten sich die Herrschaft an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu ihrem Dienste zeugten Erd' und Himmel sie, die Wasser, Kräuter und die heil'gen Bäume auch, Die Luft, den Aether füllten sie zur Labung an, die Götter legten das Verlangen in den Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

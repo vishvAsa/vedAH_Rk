@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रोत꣡ म꣡र्तियाय क꣡म्  
 अ꣡रिणा इन्द्र सू꣡रियम्  
 प्रा꣡वः श꣡चीभिर् ए꣡तशम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्र । आ॒वः॒ । शची॑भिः । एत॑शम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrota* ← *yatra*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M
 **यत्र** यस्मिन् संग्रामे **उत** अपि च हे **इन्द्र** त्वं **मर्त्याय** मनुष्याय एतशाख्याय ऋषये **सूर्यम्** **अरिणाः** अहिंसीः । **कम्** इति पूरणः । तदानीं **शचीभिः** युद्धकर्मभिः **एतशम्** एतत्संज्ञकमृषिं **प्रावः** प्रकर्षेणारक्षः ॥॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In which (contests), **Indra** you have, for the sake of a mortal, discomfited the sun, and have protected **Etaśa** by (your) exploits.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And when for the mortal you let the Sun slip,  
 and you helped Etaśa through your powers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The purport of this verse is something of a puzzle. I think the point is that the journey undertaken by Indra in vs. 4 has finally brought him here, with both his battle-lust and his equipment on full display, in order to drink soma with the ritualists (including the “I” of the speaker). Cf. nearby IV.29.2, where Indra presents himself in a non-intimidating way (or so he thinks) and “becomes exhilarated along with the heroes who have pressed the soma.” Here his arrival is at sunrise, and “I” have a share in the soma along with Indra at that time. In order to make sense of 6c, we need to understand/supply ábhakṣi from 5c (as Geldner [/Witzel Gotō] do also). Although Klein (DGRV II.129) thinks the two ádha’s in c have different functions, the pointed parallel structure of that short pāda -- ádha LOC ádha LOC -- makes that conclusion quite unlikely in its strong form -- though I think it is the case that the formal parallelism conceals a functional distinction (different from the one suggested by Klein). The question is how to construe the locatives, and it is here that the sácā in 5c comes into play. As I noted apropos of that pāda, the sácā there seems just to signal that the loc. sū́rye is a functional loc. absol. In our pāda c there is no sácā, but I think it should be understood. On the one hand, it again (silently) marks sū́rye as a loc. absol.; however, with índre I suggest it has lexical value (as it likely has in the two occurrences of tvé sácā in the next hymn [IV.32.3c, 4a]), indicating that “I” take my share in Indra’s company. What I am suggesting is that a non-overt sácā, supplied on the basis of its occurrence in the previous vs., has two different functions in a single pāda, a pāda whose structure suggests that its parts should be rigidly parallel. This is not sufficiently conveyed by the published translation -- I am not sure that English is up to conveying it -- which I would now emend to “(I have taken my share) now in (company with) you, now in (company with) the sun (i.e., at sunrise).”
 
@@ -112,23 +112,23 @@ Klein (DGRV I.431-32). It would be better if the first one were in vs. 5, not vs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When also for a mortal man, Indra, thou speddest forth the Sun,  
      And holpest Etasa with might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wo du, Indra, dem Sterblichen zulieb die Sonne laufen ließest, da standest du nach Kräften dem Etasa bei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als du den Sterblichen zum Heil die Sonne, Indra, triebst zum Lauf, Ihr Ross durch Kräfte fördertest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда для смертного  
 Ты привел в движение солнце, о Индра, –  

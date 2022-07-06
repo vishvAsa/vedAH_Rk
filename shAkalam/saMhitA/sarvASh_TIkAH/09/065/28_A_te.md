@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते द꣡क्षम् मयोभु꣡वं  
 व꣡ह्निम् अद्या꣡ वृणीमहे  
 पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पान्त॑म् । आ । पु॒रु॒ऽस्पृह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम यष्टारो वयं **ते** तव स्वभूतं **दक्षं** बलम् **अद्य** अस्मिन् यागदिने आभिमुख्येन **आ** **वृणीमहे** संभजामहे। कीदृशम्। **मयोभुवं** सुखस्य भावकं **वह्निं** धनादीनां प्रापकं **पान्तं** शत्रुभ्यो रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं काम्यमानं बलमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have recourse today to your strength, the source of happiness, the bearer (of good things), the defender (against foes), the desired of many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here your skill, which is joy itself, we choose today, here (you as)  draft-animal,  
 here the much coveted drink,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We choose to-day that chariot-steed of thine, the Strong, that brings us bliss,  
      The Guardian, the desire of all,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein tüchtiges erfreuliches Wagenroß bitten wir uns heute aus, den vielbegehrten Trank,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen heut uns deine Kraft, die schnell dahinfährt, Freude bringt, Die vielbegehrte, schützende,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ त्वा यज्ञ꣡स्य सा꣡धनम्  
 अ꣡ग्ने हो꣡तारम् ऋत्वि꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 जीरं꣡ दूत꣡म् अ꣡मर्तियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒नु॒ष्वत् । दे॒व॒ । धी॒म॒हि॒ । प्रऽचे॑तसम् । जी॒रम् । दू॒तम् । अम॑र्त्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -100,46 +100,46 @@ genre M
 हे **अग्ने** **देव** **मनुष्वत्** यथा मनुर्यागदेशे निदधाति तद्वद्वयं त्वां **नि** **धीमहि** अत्र स्थापयामः। कीदृशम् । **यज्ञस्य** **साधनं** यज्ञनिष्पादकं **होतारमृत्विजं** ऋतौ वसन्तादिके यष्टारं **प्रचेतसं** प्रकृष्टज्ञानयुक्तं **जीरं** शत्रूणां वयोहानिकरं **दूतं** देवानां दूतस्थानीयम् अमर्त्यं मरणरहितम्॥ मनुष्वत् औणादिकोसिप्रत्ययान्तो मनुस्शब्दः । तेन तुल्यं क्रिया चेद्वतिः ' (पा. सू. ५. १. ११५ ) इति बतिप्रत्ययः । अयस्मयादित्वेन भत्वात् रुत्वाद्यभावः । धीमहि । 'डुधाञ् धारणपोषणयोः '। लिङि अभ्यासलोपश्छान्दसः। जीरम् । जु इति सौत्रो धातुः । ‘ जोरी च' ( उ. सू. २. १८१ ) इति रक्प्रत्ययः । कात्यायनस्त्वाह-रकि ज्यः संप्रसारणे जीरेति ( पा. सू. १. १. ४. ६ ) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We plural ce you, **Agni**, as **Manu** plural ced you, who are the implement of sacrifice, the invoker, the ministering priest, very wise, the destroyer (of foes), immortal, the messenger (of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, as the furtherer of the sacrifice, as the Hotar seasonably  sacrificing  
 would we install you, just as Manu did, o god—and as the discerning,  quick, immortal messenger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another lexical reminiscence across verses: 10d mā́nuṣaḥ# ‘descendant of Manu’ and 11c #manuṣvát ‘like Manu’. As with the other examples, it is the last word of the previous verse that is matched in the next.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Manu, we will stablish thee, Agni, performer of the rite,  
      Invoker, ministering Priest, exceeding wise, the swift immortal messenger.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Agni, let us put thee down (on the altar) as Manus did, O god, to be the performer of the sacrifice, the Hotri, the wise priest, the quick immortal messenger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir setzen dich ein, Agni, als Ausrichter des Opfers, als Hotri-Priester, o Gott, wie man getan hat, dich den Klugen, den flinken Boten, den unsterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Manus setzen wir, o Gott, dich als den Opferfördrer ein, Als Priester, Agni, und als rechten Opferer, als schnellen, ew'gen Boten dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы помещаем тебя как исполнителя жертвы,  
 О Агни, как хотара, регулярно жертвующего,  

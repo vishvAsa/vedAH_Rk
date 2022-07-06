@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 के꣡ मे मर्यकं꣡ वि꣡ यवन्त गो꣡भिर्  
 न꣡ ये꣡षां गोपा꣡ अ꣡रणश् चिद् आ꣡स  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡जाति पश्व꣡ उ꣡प नश् चिकित्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ये । ई॒म् । ज॒गृ॒भुः । अव॑ । ते । सृ॒ज॒न्तु । आ । अ॒जा॒ति॒ । प॒श्वः । उप॑ । नः॒ । चि॒कि॒त्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
@@ -140,7 +140,7 @@ genre M
 **के** **मे** मदीयं **मर्यकं** मर्त्यसंघं राष्ट्रं **गोभिः** सह **वि** **यवन्त** वियुक्तमकुर्वन् । गा भृत्यांश्च व्ययोजयन्। **येषां** **गोपाः** अस्माकं गोपयिता: **अरणश्चित्** अभिगन्ता **न** **आस** बभूव। सोऽयमग्निः । **ये** द्वेषिणः **ईम्** एनं जनसंघं राष्ट्रं **जगृभुः** गृह्णन्ति । **ते** **अव** **सृजन्तु** नश्यन्तु । किंच **चिकित्वान्** चेतनावान् अस्मद्विषयज्ञानवानग्निः **नः** अस्माकं **पश्वः** पशून् **उप** **आजाति** उपागच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,34 +151,34 @@ genre M
 Who have disunited my people from the cattle: ke me maryakam viyavanta **gobhiḥ** = what enemies have despoiled my kingdom; an invincible protector: **Agni**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who will keep my little young blood separate from the cattle, which have  never had a stranger as their herdsman?  
 They who have kept hold of him, let them release him. The watchful one  will drive the animals to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who separate my young bull from the cattle, they whose protector was in truth no stranger?  
      Let those whose hands have seized upon them free them. May he, observant, drive the herd to us-ward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who have separated my young bull from the cows that 1 had no cow-herd, not even a stranger? May those who have held him, let him loose. May he, the knowing one, lead the cattle towards us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer sind die, welche mir das Männchen von den Kühen getrennt haben, die keinen Hirten, auch keinen fremden hatten? Freigeben sollen sie ihn, die ihn festhielten. Er soll die Herde zu uns eintreiben als Kundiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer hält mein Stierlein fest zusammt den Kühen, die keinen Hirten hatten, nah noch ferne? Die fest ihn hielten, sollen frei ihn geben; der Weise treibe her zu uns die Heerde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто те, (что) разъединили моего мужичка с коровами,  
 У которых не было пастуха, даже чужого?  

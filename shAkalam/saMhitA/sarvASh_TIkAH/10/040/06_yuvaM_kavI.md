@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ कवी꣡ ष्ठः प꣡रि अश्विना र꣡थं  
 वि꣡शो न꣡ कु꣡त्सो जरितु꣡र् नशायथः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आसा꣡ भरत निष्कृतं꣡ न꣡ यो꣡षणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । ह॒ । मक्षा॑ । परि॑ । अ॒श्वि॒ना॒ । मधु॑ । आ॒सा । भ॒र॒त॒ । निः॒ऽकृ॒तम् । न । योष॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -132,7 +132,7 @@ genre M
 हे **अश्विना** अश्विनौ **कवी** मेधाविनौ **युवं** युवां **रथं** परि **ष्ठः** परितो भवथः । अथ **जरितुः** स्तोतुर्यज्ञं प्रति गमनाय **नशायथः** रथं प्राप्नुथः । तत्र दृष्टान्तः । **कुत्सः** **न** । यथा कुत्सश्चेन्द्रश्च सरथमधितिष्ठतः । तथा च मन्त्रान्तरं -- यासि कुत्सेन सरथमवस्युस्तोदो वातस्य हर्योरीशानः ' (ऋ. सं. ४. १६. ११ ) इति । किंच हे **अश्विना** अश्विनौ **युवोर्ह** युवयोः खलु स्वभूतं **मधु** **मक्षा** मक्षिका **आसा** आस्येन **परि** **भरत** बिभर्ति । तत्र दृष्टान्तः । **निष्कृतं** **न** यथा निष्कृतं संस्कृतं मधु **योषणा** नारी तद्वदित्यर्थः। तथा च मन्त्रान्तरम् -- उत स्था वां मधुमन्मक्षिकारपन्मदे सोमस्यौशिजो हुवन्यति ' ( ऋ. सं. १. ११९. ९) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ genre M
 As Kutsa...men: Kutsa and **Indra** ride in the same chariot; cf. RV 4.16.11; as a woman: cf. RV 1.119.2
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “You two poets circle around your chariot, o Aśvins; you arrive at the  clans of the singer, as Kutsa (arrived at the poet/Kavi Uśanā).  
 The bee holds the honey of you two encircled with her mouth, o  Aśvins, as a young woman (holds) a tryst (within her mouth) [=keeps  quiet about it].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, ye are wise: as Kutsa comes to men, bring your car nigh the folk of him who sings your praise.  
      The bee, O Asvins, bears your honey in her mouth, as the maid carries it purified in her hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr seid zwei Weise, ihr Asvin fahret euren Wagen umher; ihr kommet wie Kutsa in die Häuser des Sängers. Euch, Asvin, vertraute die Biene mit dem Munde den Honig an wie die Maid den Treffort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Ritter haltet weise euren Wagen auf, wie Kutsa dringt ihr zu des Sängers Stämmen hin; Die Biene trug im Munde euch den Honig zu; o Ritter, wie zum Stelldichein das Mädchen kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как двое мудрых, о Ашвины, вы окружаете колесницу.  
 Как Кутса, вы посещаете дома певца.  

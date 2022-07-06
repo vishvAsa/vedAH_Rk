@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् उ त्वा दि꣡वा सुते꣡  
 वयं꣡ न꣡क्तं हवामहे  
 अस्मा꣡कं का꣡मम् आ꣡ पृण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्माक॑म् । काम॑म् । आ । पृ॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **वयं** **त्वा** त्वां **दिवा** अहनि **सुते** सोमेऽभिषुते **हवामहे** आह्वयामः । तथा **वयं**  **नक्त** हवामहे । आहूत आगत्य **अस्माकं** **काममा** **पृण** आपूरय ॥ ॥ ४४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you when the **Soma** is effused by day, we invoke you by night; fulfil our desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We by day at the pressing and we by night call upon you:  
 fulfill our desire!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on thee both night and day to taste the flowing Soma juice:  
      Do thou fulfil our heart's desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen dich am Tag, wir des Nachts bei Soma; erfülle unseren Wunsch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen dich am Tage an und in der Nacht beim Somasaft, Erfülle unsre Wünsche doch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы (зовем) тебя днем у выжатого (сомы),  
 Мы зовем ночью.  

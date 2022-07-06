@@ -8,7 +8,7 @@ title = "+027"
 ‘ किमस्य मदे' इत्यष्टर्चं चतुर्थं सूक्तं भरद्वाजस्यार्षम् । अनुक्रान्तं च– किमस्यान्त्या चायमानस्याभ्यावर्तिनो दानस्तुतिः' इति । भरद्वाज ऋषिः । त्रिष्टुप् छन्दः । अन्त्यायास्तु दानस्तुतिरूपत्वात् ‘या तेनोच्यते' इति न्यायेन दानमेव देवता । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 27 (468)  
 Indra  
@@ -19,7 +19,7 @@ The unqualified comprehensiveness of Indra’ production—“being,” “what 
 The final verse is a dānastuti, praising and detailing the gift made by Abhyāvartin  Cāyamāna to the poet. The poet gives his patron the epithets “bounteous,” a stan dard qualification of Indra (as in vs. 3 in this very hymn), and “universal king,” also  regularly used of Indra (among other divinities). He thus verbally associates his  patron with the unlimited power of Indra, as it was portrayed earlier in the hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ श꣡त्रोः सोम वृ꣡ष्णियं  
 नि꣡ शु꣡ष्मं नि꣡ व꣡यस् तिर  
 दूरे꣡ वा सतो꣡ अ꣡न्ति वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दू॒रे । वा॒ । स॒तः । अन्ति॑ । वा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -96,36 +96,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अभिषूयमाण **सोम** त्वं **शत्रोः** **वृष्ण्यं** वर्षकं बलं **नि** **तिर** । निपूर्वस्तिरतिर्नाशार्थः । नाशय । तथा शत्रोः **शुष्मं** शोषकं तेजः **नि** तिर । तस्यैव **वयः** अन्नं च **नि** तिर । कीदृशस्य शत्रोः । **दूरे** **वा** **सतः** अस्मत्तो दूरे वर्तमानस्य **अन्ति** वा सतोऽन्तिके वर्तमानस्य वा ॥ ॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroy, **Soma**, the vigour, the energy, the subsistence of our enemy, whether he be far off or nigh.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, undermine the bull-like power of our rival, his tempestuousness,  his vigor,  
 whether he be in the distance or nearby.1254 IX.20–21
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, bring down the foeman's might, his vigorous strength and vital powe'r,  
      Whether he be afar or near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Soma, halte des Feindes Männlichkeit, seinen Mut, seine Kraft nieder, mag er fern oder nahe sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vernichte, Soma, Macht und Muth des Feindes, seine Jugendkraft, Mag nahe oder fern er sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По(дави), о сома, мужество врага,  
 По(дави его) неистовство, подави силу жизни,  

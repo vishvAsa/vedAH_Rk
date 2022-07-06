@@ -8,7 +8,7 @@ title = "+041"
 ‘प्र ये गावः' इति षडृचं सप्तदशं सूक्तं काण्वस्य मेध्यातिथेरार्षं  गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रान्तं- प्र ये गावो मेध्यातिथिः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 41 (753)  
 Soma Pavamāna  

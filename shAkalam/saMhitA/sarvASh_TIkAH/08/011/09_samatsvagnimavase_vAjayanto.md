@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम꣡त्सु अग्नि꣡म् अ꣡वसे  
 वाजय꣡न्तो हवामहे  
 वा꣡जेषु चित्र꣡राधसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वाजे॑षु । चि॒त्रऽरा॑धसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samatsv* ← *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
@@ -75,36 +75,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समत्सु** सहमदनेषु संग्रामेषु **वाजयन्तः** बलमिच्छन्तो वयम् **अवसे** रक्षणार्थम् **अग्नि** हवामहे । कीदृशम् । **वाजेषु** संग्रामेषु **चित्रराधसं** चायनीयधनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring strength, we call upon **Agni** for protection in battles; upon him who is the granter of wonderfulriches (won) in conflicts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In combats we call upon Agni for help as we seek the prize,  
 upon him who provides brilliant bounties when prizes (are at stake).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When we are seeking strength we call Agni to help us in the strife,  
      The giver of rich gifts in war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In den Kämpfen rufen wir, nach dem Siegerpreis trachtend, den Agni zum Beistand, in den Wettstreiten ihn, der ausgezeichnete Belohnungen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Schlachten rufen Agni wir um Hülfe beutegierig an, In Kämpfen den begüterten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В сражениях Агни на помощь  
 Мы призываем, стремясь к награде,  

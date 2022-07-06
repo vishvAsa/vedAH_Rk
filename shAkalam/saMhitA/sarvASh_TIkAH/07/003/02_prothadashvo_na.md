@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रो꣡थद् अ꣡श्वो न꣡ य꣡वसे अविष्य꣡न्  
 यदा꣡ महः꣡ संव꣡रणाद् वि꣡ अ꣡स्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ध स्म ते व्र꣡जनं कृष्ण꣡म् अस्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आत् । अ॒स्य॒ । वातः॑ । अनु॑ । वा॒ति॒ । शो॒चिः । अध॑ । स्म॒ । ते॒ । व्रज॑नम् । कृ॒ष्णम् । अ॒स्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prothad* ← *prothat* ← *pruth*
 - \[verb\], singular, Present injunctive
@@ -130,36 +130,36 @@ genre M
 **यवसे** घासे **अविष्यन्** भक्षयन् **प्रोथत्** शब्दं कुर्वन् संचरन् वा **अश्वो** न अश्व इव **महः** महतः **संवरणात्** निरोधात् दावरूपोऽग्निः **यदा** **व्यस्थात** संततेषु वृक्षेषु वितिष्ठते **आत्** तदा **अस्य** अग्नेः **शोचिः** अर्चिः **अनु** **वातः** **वाति** । अथ प्रत्यक्षस्तुतिः । **अध** अनन्तरं हे अग्ने **ते** तव **व्रजनं** वर्त्म **कृष्णमस्ति** भवति । **स्म** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, like a neighing steed about to feed upon the forage, (**Agni**) springs up from the vast-enclosing(forest) then the wind fans his flame; and black, (Agni), is your course.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has snorted like a hungry horse in his pasture, when he has stood  free of his great enclosure.  
 Then the wind fans his flame, and as always your track is black.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a steed neighing eager for the pasture, when he hath stepped forth from the great enclosure:  
      Then the wind following blows upon his splendour, and, straight, the path is black which thou hast travelled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er schnaubt freßlustig wie ein Roß auf der Weide, wenn es aus dem großen Gehege ausgekommen ist. Dann weht der Wind, hinter seiner Flamme her, und schwarz ist dann seine Bahn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich wie ein Ross, das nach dem Grase lechzet, so schnauft' er, als vom grossen Herd er aufbrach; Dann wehet seiner Flamme nach der Windzug; und alsobald ist schwarz auch deine Strasse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он храпит, словно конь на лугу, жадный (до еды),  
 Когда он вырвался из большого загона.  

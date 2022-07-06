@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षा꣡ हो꣡त्रा वि꣡श्वम् अश्नोति वा꣡रियम्  
 बृ꣡हस्प꣡तिर् अर꣡मतिः प꣡नीयसी  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡वीवशन्त मति꣡भिर् मनीषि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ग्रावा॑ । यत्र॑ । म॒धु॒ऽसुत् । उ॒च्यते॑ । बृ॒हत् । अवी॑वशन्त । म॒तिऽभिः॑ । म॒नी॒षिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -115,14 +115,14 @@ genre M
 होत्रा। वाङ्नामैतत् आहूयन्तेऽनया देवा इति। सा वाग्वार्यं वरणीयं विश्वं सर्वं पश्वादिसहितं धनं व्यश्नोति। विविधं व्याप्नुते। कीदृशी। बृहस्पतिर्बृहतां महतां पालयित्री अरमतिः पर्याप्तस्तुतिः यद्वा कुत्राप्यनुपरता पनीयस्य अत्यन्तं देवानां स्तोत्रकारिणी। यत्र यस्यां होत्रायाम् मधुषुत् सोममभिषुण्वन्बृहद्महान्ग्रावोच्यते अभिधीयते। स्तूयत इत्यर्थः। तं स्तुतिमन्तं यज्ञं मनीशिणो देवा मतिभिः स्तुतिभिः सहावीवशन्त। कामयन्ते। वष्टेर्ण्यन्तस्य लुङि रूपं यद्वा। मनीशिणः स्तोतारः स्तुतिभिर्देवान्यज्ञं कामयमानान्कुर्वन्ति॥१६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That voice of invocation, the protectress of the mighty, never ceasing, the panegyrist (of the gods),the pious, by their praises, make the god desirous (of the sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hotrā (Libation) reaches through to everything of value—as do  
 Br̥haspati and Aramati [/Devotion], the very admirable.  
@@ -130,23 +130,23 @@ Where the honey-pressing pressing-stone is given lofty voice, the
 inspired thinkers have bellowed with their thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This invocation wins all good that we desire Brhaspati, highly-praised Aramati, are here,  
      Even where the stone that presses meath rings loudly out, and where the sages make their voices heard with hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Hotra erlangt alles Wünschenswerte und durch sie Brihaspati und die löbliche Aramati, da wo der Süßes auspressende Stein hell erklingt, und die Sinnenden mit ihren Gebeten laut gerufen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Hotra hier erreichet alles schöne Gut, Brihaspati, Aramati, die herrliche, Hier, wo der Pressstein Soma pressend laut ertönt, mit Liedern hell gesungen hat der Weisen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

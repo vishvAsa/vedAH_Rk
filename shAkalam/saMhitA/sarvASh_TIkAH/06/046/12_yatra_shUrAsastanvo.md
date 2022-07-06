@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र शू꣡रासस् तनु꣡वो वितन्वते꣡  
 प्रिया꣡ श꣡र्म पितॄणा᳐꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अचि꣡त्तं याव꣡य द्वे꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । य॒च्छ॒ । त॒न्वे॑ । तने॑ । च॒ । छ॒र्दिः । अ॒चित्त॑म् । य॒वय॑ । द्वेषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 **यत्र** यस्मिन् काले **शूरासः** शूराः शौर्यवन्तो योद्धारः **तन्वः** स्वकीयानि शरीराणि **वितन्वते** विस्तारयन्ति स्वामिनो जयाय शत्रूणां पुरतो दर्शयन्ति । तथास्मिन् काले **प्रिया** प्रियाणि **शर्म** शर्माणि स्थानानि **पितॄणां** जनकानां संबन्धीनि । तैरर्जितानीति यावत् । एतानि च वितन्वते शत्रूणां पुरस्तात् विस्तारयन्ति । परित्यजन्तीति यावत् । **अध** **स्म** अस्मिन् काले **तन्वे** शरीराय **तने** तनयाय **च** **छर्दिः** छादनम् आयुधानां निवारकं कवचम् **अचित्तं** शत्रुभिरज्ञातं यथा भवति तथा **यच्छ** प्रयच्छ । शत्रुज्ञानात् पूर्वमेव देहीत्यर्थः । अपि च **द्वेषः** द्वेष्टॄन शत्रून् **यावय** तेभ्यो वियोजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ genre M
 The plural asant abode of their progenitors: **priyā** **śarma** pitṛṇām = priyāṇi sthānāni janakānām sambandhinī, the beloved plural ces in relation with progenitors; tanvo vitanvate, they spread out or rest their person ns; or, they spread out before the enemy the sites won by their forefathers until they abandon them, parityajanti yāvat; i.e. until they, the enemy, **desis** fom the attack; an unsuspected defence: chardiracittam = kavacam śatrubhir ajñātam, armour unknown by the enemies
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where champions stretch wide their own dear bodies as shelter for their  ancestors.  
 So then, as ever, hold out protection to our body and lineage. Keep  
 away unforeseen hatred.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation contains a grammatical error. It takes priyā́as modifying fem.
 
@@ -155,23 +155,23 @@ On the particular connection of vs. 12 with vs. 9 see immed. below.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us, where heroes strain their bodies in the fight, the shelter that our fathers loved.  
      To us and to our sons give refuge: keep afar all unobserved hostility.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Tapferen ihre Leiber breit machen und die lieben Schilde der Väter, da gewähre uns selbst und den Kindern Schutz! Wehre die unerwartete Feindschaft ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo ihre Leiber Helden dehnen breit und hoch, der Väter lieben Schutz und Schirm, Da reiche du uns und den Kindern deinen Schutz, treib unversehns die Feinde fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где герои простирают (свои) тела  
 (И) любимые щиты отцов,  

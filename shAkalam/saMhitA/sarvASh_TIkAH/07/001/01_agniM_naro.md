@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ न꣡रो दी꣡धितिभिर् अर꣡ण्योर्  
 ह꣡स्तच्युती जनयन्त प्रशस्त꣡म्  
 दूरेदृ꣡शं गृह꣡पतिम् अथर्यु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दू॒रे॒ऽदृश॑म् । गृ॒हऽप॑तिम् । अ॒थ॒र्युम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -85,7 +85,7 @@ genre M
 **नरः** नेतार ऋत्विजः **प्रशस्तं** प्रकर्षेण स्तुतं **दूरेदृशं** दूरे दृश्यमानं दूरे पश्यन्तं वा **गृहपतिं** गृहाणां पालकम् **अथर्युम्** आगम्यमतनवन्तं वा **अग्निम्** **अरण्योः** विद्यमानं **हस्तच्युती** हस्तप्रच्युत्या हस्तगत्या **दीधितिभिः** अङ्गुलिभिः **जनयन्त**। दीधितयोऽङ्गुलयो भवन्ति धीयन्ते कर्मसु । अरणी प्रत्यृत एने अग्निः समरणाज्जायत इति वा । हस्तच्युती हस्तप्रच्युत्या जनयन्त प्रशस्तं  दूरेदर्शनं गृहपतिमतनवन्तम् ' ( निरु. ५.१०) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M
 Atharya: **āgamya** atanavat, not spreading or dispersing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our men gave birth to Agni in the two fire-churning sticks, by their  insights and the motion of their hands—to him who is proclaimed,  
 to the flaming houselord, visible far away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE men from fire-sticks, with their hands' swift movement, have, in deep thought, engendered glorious Agni,  
      Far-seen, with pointed flame, Lord of the homestead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni erzeugten die Männer unter innerem Erschauen mit Handbewegung aus den Reibhölzern, den trefflichen, weithin sichtbaren Hausherren, den pfeilartigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hehren Agni zeugten aus den Hölzern durch Handbewegung andachtsvoll die Männer, Den weitgeseh'nen, flammenden, den Hausherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, о мужи, силами вдохновения из двух кусков дерева  
 Порождайте движением руки, (его,) прославленного,  

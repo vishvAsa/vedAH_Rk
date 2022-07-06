@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नस्वन्ता स꣡त्पतिर् मामहे मे  
 गा꣡वा चे꣡तिष्ठो अ꣡सुरो मघो꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वइ꣡श्वानर त्रि꣡अरुणश् चिकेत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रै॒वृ॒ष्णः । अ॒ग्ने॒ । द॒शऽभिः॑ । स॒हस्रैः॑ । वैश्वा॑नर । त्रिऽअ॑रुणः । चि॒के॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anasvantā* ← *anasvat*
 - \[noun\], accusative, dual, masculine
@@ -106,42 +106,42 @@ genre M
 अत्री राजर्षीणां दानमग्नेः पुरतोऽनेन सूक्तेनावर्णयत् । हे **वैश्वानर** विश्वेषां नराणां नेतः **अग्ने** **सत्पतिः** सतां पालयिता **चेतिष्ठः** ज्ञातृतमः **असुरः** बलवान् **मघोनः** मघवा धनवान् ॥ प्रथमार्थे ङसिः ॥ **त्रैवृष्णः** त्रिवृष्णपुत्रः **त्र्यरुणः** त्र्यरुणः इत्येतन्नामा राजर्षिः **अनस्वन्ता** अनस्वन्तौ अनसा शकटेन संयुक्तौ **गावा** गावावनड्वाहौ गवां हिरण्यानां वा **दशभिः** **सहस्रैः** सह **मे** मह्यं **ममहे** ददौ । “ महि दाने '। स राजर्षिः **चिकेत** सर्वैर्जनैरनेन दानेन ज्ञायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** who are the protector of the good, most wise, powerful and opulent; Tryaruṇa, the son of Trivṛṣṇa, has become renowned, **Vaiśvānara**, in that he has bestowed upon me a pair of cattle with a wagon, and with them thousands of treasure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The lord of settlements has readied for me two oxen together with an  ox-cart—he, the most illustrious lord, more (illustrious) than (any  
 other) generous patron.  
 Tryaruṇa, son of Trivr̥ṣan, is illustrious through his tens of thousands  (of cattle), o Agni Vaiśvānara.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Godlike hero, famousest of nobles, hath granted me two oxen with a wagon.  
      Trvrsan's son Tryaruna hath distinguished himself, Vaisvanara Agni! with ten thousands.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The good lord has presented me with two oxen together with a car, the most brilliant Asura among the liberal givers 1. Tryaruna, the son of Trivrishan, O Agni Vaisvânara 2, has distinguished himself by (his gift of) ten thousand (cows?) 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der rechtmäßige Herr hat mir zwei Rinder samt Karren geschenkt, der Gebieter, der ausgezeichneter als jeder andere freigebige Patron ist. Tryaruna, der Sohn des Trivrisan, hat sich durch Zehntausend ausgezeichnet, o Agni Vaisvanara;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der tapfere Fürst hat mir zwei Stiere nebst Wagen geschenkt, der göttliche, der ausgezeichnetste der Reichen [maghónam zu lesen nach Delbrück's Vermuthung], Triaruna, der Sohn des Trivrischan, o allen Menschen holder Agni, zeichneten sich aus durch zehntausend [Gaben].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Добрый господин щедро одарил меня двумя быками  
 С повозкой, (этот) Асура, более приметный, чем (любой другой) покровитель.  

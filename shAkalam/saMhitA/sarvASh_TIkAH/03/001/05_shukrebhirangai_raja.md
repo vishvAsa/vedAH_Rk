@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुक्रे꣡भिर् अ꣡ङ्गै र꣡ज आततन्वा꣡न्  
 क्र꣡तुम् पुनानः꣡ कवि꣡भिः पवि꣡त्रैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रि꣡यो मिमीते बृहती꣡र् अ꣡नूनाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शो॒चिः । वसा॑नः । परि॑ । आयुः॑ । अ॒पाम् । श्रियः॑ । मि॒मी॒ते॒ । बृ॒ह॒तीः । अनू॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śukrebhir* ← *śukrebhiḥ* ← *śukra*
 - \[noun\], instrumental, plural, neuter
@@ -116,41 +116,41 @@ genre M
 अग्निः शुक्रेभिः शुक्रैरङ्गैस्तेजोभिरजोन्तरिक्षमाततन्वान् आततन्वन् व्याप्नुवन् क्रतुं कर्मणां कर्तारं यजमानं कविभिः क्रान्तप्रज्ञैः स्तोतव्यैर्वापवित्रैः शोधकैस्तेजोभिः पुनानः शोधयन् शोचि र्दीप्तिंवस्त्रस्थानीयम्परिपरितोवसानः आच्छादयन् अपांअपस्यातां कर्मवतां आयुरन्नं बृहतीः प्रभू ताः अनूनाः सम्पूर्णाः श्रियः सम्पदश्च मिमीतेकरोति ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Spreading through the firmament with shining limbs, sanctifying the rite with intelligent and purifying (energies), and clothed with radiance, he bestows upon the worshiper abundant food and great and undiminished prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stretching through the airy realm with his blazing limbs, purifying his  resolve through the sage poets as his purifying filters,  
 clothing himself all around in flame, and being the life of the waters, he  measures out his splendors, lofty and never wanting.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Spreading with radiant limbs throughout the region, purging his power with wise purifications,  
      Robing himself in light, the life of waters, lie spreads abroad his high and perfect glories.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Spreading with his bright limbs to the aerial space, purifying his power 1 by wise purifications, clothing himself in light, the life of the waters 2, he creates mighty, perfect beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seinen lichten Gliedern den Raum durchdringend, seinen Geist klärend durch die Klärungsmittel der Seher, in Glut sich kleidend und in der Wasser Lebenskraft, entfaltet er seine hohe, vollkommene Schönheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit lichten Gliedern dringend durch die Lüfte, durch weises Läutern seinen Sinn durchläuternd, In Licht gekleidet um die Flut der Wasser erlangt er grosse, ganz vollkomm'ne Schönheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распространяясь в пространстве (своими) сверкающими членами  
 Очищая силу духа очищениями – поэтами,  

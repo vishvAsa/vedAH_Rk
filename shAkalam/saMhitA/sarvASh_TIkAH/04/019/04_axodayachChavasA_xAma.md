@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡क्षोदयच् छ꣡वसा क्षा꣡म बुध्नं꣡  
 वा᳐꣡र् ण꣡ वा꣡तस् त꣡विषीभिर् इ꣡न्द्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वाभिनत् ककु꣡भः प꣡र्वतानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हानि॑ । औ॒भ्ना॒त् । उ॒शमा॑नः । ओजः॑ । अव॑ । अ॒भि॒न॒त् । क॒कुभः॑ । पर्व॑तानाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akṣodayacchavasā* ← *akṣodayat* ← *kṣoday* ← *√kṣud*
 - \[verb\], singular, Imperfect
@@ -108,36 +108,36 @@ genre M
 **इन्द्रः** परमैश्वर्ययुक्तः **शवसा** बलेन **बुध्नम्** अन्तरिक्षं **क्षाम** क्षीणोदकम् **अक्षोदयत्** संपिपेष । तत्र दृष्टान्तः । **वातः** वायुः **तविषीभिः** बलैः **वार्ण** उदकमिव तद्वत् । किंच **ओजः** बलम् **उशमानः** कामयमान इन्द्रः **दृळ्हानि** दृढानि स्थिराण्यप्यभ्राणि **औभ्नात्** अभाङ्क्षीत् । तथा **पर्वतानां** गिरीणां **ककुभः** पक्षान् **अवाभिनत्** अत्यन्तमभैत्सीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, by his strength, has agitated the exhausted firmament, as wind, by its violent (gusts, agitates) the water; exulting in his strength, he has divided the solid (clouds), and has shattered the peaks of the mountains.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra made the earth shake to its bottom with his strength, as the wind  does the water with its forces.  
 He knotted up the strongholds, eager in his own strength; he cut down  the peaks of the mountains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra with might shook earth and her foundation as the wind stirs the water with its fury.  
      Striving, with strength he burst the firm asunder, and tore away the summits of the mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra zerstäube mit Kraft den Erdboden wie der Wind das Wasser durch seine Stärke. Er zwang die Festen, seine Kraft aufbietend, er schnitt die Flügel der Berge ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Erdengrund erregte Indra kräftig, gleichwie der Wind mit Ungestüm das Wasser; Das Feste bog er, Kraft erweisend, nieder und schlug herab die Gipfel der Gebirge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он сотряс мощно землю, основание,  
 Словно ветер – воду, Индра (своими) силами.  

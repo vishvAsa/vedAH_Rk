@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वो गु꣡हा चकृम भू꣡रि दुष्कृतं꣡  
 ना꣡वि꣡ष्टियं वसवो देवहे꣡ळनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 माकिः॑ । नः॒ । दे॒वाः॒ । अनृ॑तस्य । वर्प॑सः । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M;; repeated line
 हे देवाः **वः** युष्माकं **गुहा** गुहायां प्रच्छन्ने देशे **भूरि** प्रभूतं **दुष्कृतं** पापम् । द्रोहमित्यर्थः । **न** **चकृम** । तथा **आविष्ट्यम्** आविः संभूतं **देवहेळनं** देवानां क्रोधनं तन्निमित्तं द्रोहं **न** चकृम हे **वसवः** वासका देवाः । किंच हे **देवाः** **नः** अस्माकम् **अनृतस्य** **वर्पसः** रूपस्य प्राप्तिः **माकिः** मा भूत्। इतः परं मानुषं रूपं मा भूदित्यर्थः । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,30 +139,30 @@ genre M;; repeated line
 Unreal form: let us not have a human body after this life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither in secret nor in the open have we done to you much ill-doing,  angering to the gods, you good ones.  
 Let no one of us be of the shape of untruth, o gods. – We choose  
 wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not often have we sinned against you secretly, nor, Vasus, have we openly provoked the Gods.  
      Not one of its, ye Gods, hath worn an alien shape. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben weder heimlich viele Sünde wider euch begangen, noch offenkundig ein Götterärgernis, ihr Guten. Nicht sollt ihr Götter uns auf den bloßen Schein des Unrechts hin bestrafen! - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht im Verborgnen haben wir der Sünde viel, noch offnen Frevel an euch Göttern je verübt; Bei uns sei nie, o gute, trügerische List; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः शं꣡ताती भ꣡वथो ददाशु꣡षे  
 भुज्युं꣡ या꣡भिर् अ꣡वथो या꣡भिर् अ꣡ध्रिगुम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ओ॒म्याऽव॑तीम् । सु॒ऽभरा॑म् । ऋ॒त॒ऽस्तुभ॑म् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -121,7 +121,7 @@ genre M;; repeated line
 हे अश्विनौ **ददाशुषे** हवींषि दत्तवते यजमानाय **याभिः** ऊतिभिः **शंताती** सुखस्य कर्तारौ **भवथः** । **याभिः** च ऊतिभिः **भुज्युं** तुग्रस्य पुत्रम् **अवथः** । **याभिः** च **अध्रिगुम्** । अधिगुर्देवानां शमिता । ' अध्रिगुश्चापापश्च उभौ देवानां शमितारौ ' (तै. ब्रा. ३. ६. ६. ४ ) इति श्रुतेः । अपि च **ऋतस्तुभम्**। ऋतं सत्यं स्तोभत्युच्चारयतीति ऋतस्तुप् । एतत्संज्ञमृषिम् **ओम्यावतीम्** । ओम्या इति सुखनाम । तद्युक्तां **सुभरां** सुखेन भरणीयाम् इषं याभिः ऊतिभिः प्रापयथः। **ताभिः** सर्वाभिः **ऊतिभिः** सहास्मानप्यागच्छतम् ॥ शंताती। ‘शिवशमरिष्टस्य करे' (पा. सू. ४. ४. १४३ ) इति तातिल्प्रत्ययः । ‘लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । ददाशुषे । **दा** दाने '। लिटः क्वसुः । ‘वसोः संप्रसारणम्' इति संप्रसारणम् । **शासिवसिघसीनां** च ' इति षत्वम् ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ genre M;; repeated line
 Adhrigu was a sacrificer, immolator, along with **Capa**, of the gods: **adhrigus** **capas** ca devānām śamitārau (**Taittirīya** **Brāhmaṇa** 3.6.6.4; **Ṛtastubh** was a ṛṣi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you become weal for the pious man, with which you  aid Bhujyu, with which Adhrigu,  
 (and make) (the woman) R̥tastubh comfortable and easy-bearing—with  those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problem in these obscure fragments of tales is to decide which of the words are PNs and which are adjs. In c Geldner takes the three fem. acc. as separate names, but I prefer to take omiyā́vatīm and subhárām as proleptic adjectives, since both stems are found earlier in the hymn in full lexical usage (omyā́vantam 7b, subhárā(ḥ) 2a). Sim. Scarlatta (p. 639), Remmer (Frauennamen, p. 85).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye bring great bliss to him who offers gifts, wherewith ye have protected Bhujyu, Adhrigu,  
      And good and gracious Subhara and Rtastup,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr dem Opferspender heilbringend seid, mit denen ihr dem Bhujyu beisteht, mit denen dem Adhrigu, mit denen ihr der Omyavati, der Subhara, der Ritastubh beigestanden habt, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die ihr segnet den, der euch gehuldigt hat, durch die ihr helft dem Bhudschju und dem Adhrigu, Der Subhara, der holden und dem Ritastubh, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) вы бываете благословенными для почитающего (вас),  
 Какими – вы помогаете Бхуджью, какими – Адхригу,  

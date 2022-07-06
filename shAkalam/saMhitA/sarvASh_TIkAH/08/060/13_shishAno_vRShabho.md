@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡शानो वृषभो꣡ यथा  
 अग्निः꣡ शृ꣡ङ्गे द꣡विधुवत्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सुज꣡म्भः स꣡हसो यहुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ति॒ग्माः । अ॒स्य॒ । हन॑वः । न । प्र॒ति॒ऽधृषे॑ । सु॒ऽजम्भः॑ । सह॑सः । य॒हुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
@@ -102,7 +102,7 @@ genre M
 अयम् **अग्निः** **शृङ्गे** **शिशानः** तीक्ष्णीकुर्वन् **वृषभो** **यथा** **दविध्वत्** कम्पयति शिरः एवं शृङ्गस्थानीया ज्वालाः शिशानस्तीक्ष्णीकुर्वन् दविध्वत् कम्पयति शिरः । **अस्य** अग्नेः **हनवो** **न** हनव इव हनुस्थानीया ज्वालाः **तिग्माः** **न** **प्रतिधृषे** प्रतिधर्षितुमशक्याः । योऽग्निः **सुजम्भः** सुदंष्ट्रः **सहसो** **यहुः** सहसः पुत्रः अस्य हनव इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ Not to be resisted: na = iva (hanava iva);
 Na = pratīdhṛṣe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a bull sharpening his horns, shaking them again and again,  is Agni.  
 His sharp jaws are not to be withstood: well fanged is the young (son)  of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is even as a bull who whets and brandishes his horns.  
      Well-sharpened are his jaws which may not be withstood: the Child of Strength hath powerful teeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Bulle, der die Hörner wetzt, und hin und her schüttelt, ist Agni. Seinen scharfen Kinnladen ist nicht zu trotzen; er hat gute Beißzähne, der jüngste Sohn der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stier, der seine Hörner wetzt und rasch bewegt, ist Agni gleich; Unwiderstehlich, scharf und stark ist sein Gebiss, scharfzahnig ist der Sohn der Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни – словно бык, заостряющий  
 Рога, яростно трясущий (ими).  

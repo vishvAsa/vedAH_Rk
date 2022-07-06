@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व स्य꣡ वीरः꣡ को꣡ अपश्यद् इ꣡न्द्रं  
 सुख꣡रथम् ई꣡यमानं ह꣡रिभ्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् ओ꣡को ग꣡न्ता पुरुहूत꣡ ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । रा॒या । व॒ज्री । सु॒तऽसो॑मम् । इ॒च्छन् । तत् । ओकः॑ । गन्ता॑ । पु॒रु॒ऽहू॒तः । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -135,20 +135,20 @@ genre M
 **वज्री** वज्रवान् **पुरुहूतः** बहुभिराहूतः **यः** इन्द्रः **राया** देयेन धनेन सह **सुतसोममिच्छन्** अभिषुतसोमं यजमानमन्विच्छन् **ऊती** ऊत्यै रक्षायै **तत्** तस्य यजमानस्य **ओकः** गृहं **गन्ता** प्राप्तो भवति **वीरः** विक्रान्तः **स्यः** स इन्द्रः **क्व** कुत्र विद्यते । **सुखरथं** शोभनाक्षद्वारः रथो यस्य स सुखरथः । सुष्ठु खनति लिखति भूमिमिति वा सुखम् । तादृग्रथम् । ‘सुहितं खेभ्यः खं पुनः खनतेः ' ( निरु. ३. १३ ) इति यास्कः । **हरिभ्यां** स्ववाहनाभ्याम् अश्वाभ्याम् **ईयमानं** गच्छन्तम् **इन्द्रं** कोऽपश्यत् कश्च ददृशे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where is that hero? who has seen **Indra** seated in his easy chariot travelling with his horses, the thunder, the invoked of many, who, desirous of the libation is proceeding with riches to the habitation (of his worshipper) for his preservation?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where is this hero? Who has seen Indra of the well-naved chariot  speeding with his two fallow bays,  
 the mace-bearer, who, seeking one who has pressed the soma, will come  to that home, when he is much invoked, with wealth, with help?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the distance between them and the syntagms in between, I take rāyā́ and ūtī́as parallel polarized instr. to be construed primarily with gántā. Geldner and Witzel Gotō differently, though also differently from each other.
 
@@ -164,23 +164,23 @@ Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHERE is that Hero? Who hath looked on Indra borne on light-rolling car by Tawny Coursers,  
      Who, Thunderer, seeks with wealth the Soma-presser, and to his house goes, much-invoked, to aid him?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo ist der Held, wer sah den Indra auf leichtem Wagen mit den Falben fahren, der nach einem sucht, der mit Reichtum Soma auspreßt, und zu solchem Hause gnädig kommt, der viel gerufene Keulenträger?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo ist der Mann? wer hat geschaut den Indra, der mit den Füchsen fährt auf schnellem Wagen, Zur Stätte kommt, den Somapresser suchend mit Gut und Huld, der vielgerufne Blitzer?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где этот герой? Кто видел Индру,  
 Едущего на легкоходной колеснице, (запряженной) двумя булаными конями,  

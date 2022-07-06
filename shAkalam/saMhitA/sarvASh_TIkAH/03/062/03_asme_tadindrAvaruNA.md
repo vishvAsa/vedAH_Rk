@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ त꣡द् इन्द्रावरुणा व꣡सु ष्याद्  
 अस्मे꣡ रयि꣡र् मरुतः स꣡र्ववीरः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡न् हो꣡त्रा भा꣡रती द꣡क्षिणाभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्मान् । वरू॑त्रीः । श॒र॒णैः । अ॒व॒न्तु॒ । अ॒स्मान् । होत्रा॑ । भार॑ती । दक्षि॑णाभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -119,7 +119,7 @@ genre M
 **इन्द्रावरुणा'** हे इन्द्रावरुणौ **अस्मे** अस्मासु **तत्** अभिलषितं तादृशं **वसु** धनं **स्यात्** भवतु । हे **मरुतः** **सर्ववीरः** सर्वेषुः कर्मसु वीरः समर्थः **रयिः** पुत्रपौत्रयुक्तः पशुसंघः ।  ‘ पशवो वै रयिः' इति तैत्तिरीयकम् । सः **अस्मे** अस्माकं भवतु । **वरूत्रीः** सर्वैः संभजनीया देवपत्न्यः **शरणैः** । शृणन्ति शीतादिक्लेशमिति शरणानि गृहाः । तैः **अस्मान्** **अवन्तु** । **होत्रा** । हूयन्तेऽस्यां हवींषीति । यद्वा । हूयते तत्र प्राण इति होत्रा वाक् । तथा च श्रुतिः - ‘ वाचि हि प्राणं जुहुमः प्राणे वा वाचम्' इति । यद्वा । होत्रेति यज्ञनाम । हूयते अत्र हविरिति । यज्ञश्च वागुच्यते । ‘वाचं यच्छन्ति वाग्वै यज्ञः ' ( ऐ. ब्रा. ५. २४ ) इति ब्राह्मणम् । तादृशी **भारती** सरस्वती **दक्षिणाभिः** गोरूपाभिर्दक्षिणाभिः यद्वा उदाराभिर्वाग्भिः **अस्मान्** पालयतु ॥ वसु ष्यात् इत्यत्र संहितायां पूर्वपदात् ' इति षत्वम् । वरूत्रीः ।  ‘ ग्रसितस्कभित°' इत्यादिना ङीबन्तत्वेन निपातनादिष्टसिद्धिः । होत्रा ।' हु दानादनयोः । **हुयामाश्रुभसिभ्यस्त्रन्** इत्यधिकरणे त्रन्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre M
 Wives of the gods: the text has only varutrīḥ; this is explained as sarvaiḥ sambhajanīya, devapatnayaḥ, to be admired by all; the wives of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May there be goods for us, o Indra and Varuṇa; wealth in hale heroes  for us, o Maruts.  
 Let the Shielding Goddesses aid us with their shelters; (let) Hotrā Bhāratī (help) us with her priestly gifts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “Shielding Goddesses” (pl.) appear here and in VII.34.22. In both cases they are associated with śaraṇá- ‘shelter’. A singular várūtrī- also occurs 4x, once (I.22.10) in association with hótrā bhā́ratī as here. Beyond their/her protective role, the várūtrī appear(s) to be featureless.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra-Varuna, ours be this treasure ours be wealth, Maruts, with full store of heroes.  
      .May the Varutris with their shelter aid us, and Bharati and Hotri with the Mornings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns soll das Gut gehören, Indra und Varuna, uns ein Schatz von lauter Söhnen, ihr Marut. Uns sollen die Schützerinnen mit ihrem Schutz den Vorzug geben, uns Hotra, Bharati mit ihren Ehrengaben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Gut sei uns, o Varuna und Indra, und Schatz an allen Helden reich, o Marut's, Die Schützerinnen mögen hold uns schützen, Hotra und Bharati, uns Kühe schenkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У нас, о Индра-Варуна, пусть будет это добро,  
 У нас, о Маруты, богатство, состоящее из одних героев!  

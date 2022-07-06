@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो ने꣡दिष्ठं द꣡दृशान आ꣡ भर  
 अ꣡ग्ने देवे꣡भिः स꣡चनाः सुचेतु꣡ना  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 म꣡थीर् उग्रो꣡ न꣡ श꣡वसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 महि॑ । स्तो॒तृऽभ्यः॑ । म॒घ॒ऽव॒न् । सु॒ऽवीर्य॑म् । मथीः॑ । उ॒ग्रः । न । शव॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -178,7 +178,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अग्ने** **सः** त्वं **नः** **नेदिष्ठम्** अत्यन्तसमीपे **ददृशानः** वेद्यां ददृशानः दीप्तत्वेन दृश्यमानः **देवेभिः** **सचना:** इतरैर्देवैः समानान्नः । अग्निमुखेनैव इतरेषां हविःस्वीकारात् समानान्नत्वम् । **सुचेतुना** शोभनेन चेतनेन चेतसा वा । पुनस्तदेव विशेष्यते । **सुचेतुना** शोभनचेतोवता मया ॥ औणादिक उः । बहुव्रीहौ नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् ॥ युक्तेन । त्वदायत्ते मयि अनुग्रहयुक्तेनेत्यर्थः । तादृशस्त्वं **महः** पूजनीयानि **रायः** धनानि **आ** **भर** अस्माकमाहर । हे अग्ने **शविष्ठ** बलवन्नग्ने **नः** अस्मभ्यं **महि** महदन्नं महतीं कीर्तिं वा **कृधि** कुरु संपादय । शविष्ठेति संबोधितत्वात् तदेव प्रार्थ्यते इति गम्यते । किमर्थम् । **संचक्षे** सम्यग्दर्शनीयत्वाय **अस्यै** अस्याः पृथिव्याः संबन्धिने **भुजे** भोगाय । यद्वा । संचक्षे भुजे इति सामानाधिकरण्यम् । सम्यग्दर्शनीयाय भोगायेत्यर्थः । न केवलं यजमानेभ्योऽस्मभ्यमेव अपि तु **स्तोतृभ्यः** स्तोत्रकर्तृभ्योऽपि हे मघवन् अन्नवन्नग्ने सुवीर्यं शोभनपुत्रभृत्याद्युपेतं धनं शोभनसामर्थ्यं वा कृधि कुरु । किंच शवसा बलेन युक्तः सन् **मथीः** अस्मद्विरोधनो नाशय । लुङि ‘ ह्वयन्तक्षण° ' इति वृद्धिप्रतिषेधः । कारकपक्षे औणादिक ईकारः । आद्युदात्तश्छान्दसः ॥ यद्वा । मथीः मथनवांस्त्वम् अस्मदर्थं शवसा बलेन युक्तो भवेति शेषः । तत्र दृष्टान्त । **उग्रो** **न** **शवसा** । यथा कश्चित् क्रूरः शवसा बलेन मथीर्भवति तद्वत् ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -189,7 +189,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **Ugra** na **savasa**: kaścin **krūra**, some one cruel or fierce
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming visible in the nearest nearness, bring here to us, o Agni, in  concert with the gods, (riches) through your kind attention—great  riches through your kind attention.  
 Make us regard something great, o most powerful one, for our  
@@ -197,7 +197,7 @@ benefit here.
 Plunder, churn a great mass of good heroes for the praisers, liberal  one—like a mighty (warrior) with vast power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The latter part of this verse shows a nice phonological pattern, with the initial words in the pāda being c mahó, d máhi, f máhi, but g máthīr. The first three all belong of course to the mah (‘great’) family, but the last is a verb form whose apparent near match with the two preceding máhi belies its independent grammatical identity.
 
@@ -208,29 +208,29 @@ In de most tr. (including me) take máhi … nas kṛdhi, saṃcákṣe … as a
 In máthīḥ I see the same pun on the two roots √math as was found in 7c. Here the plundering sense is appropriate to the simile ugró ná śávasā “like a mighty (warrior) with vast power,” while the churn sense is attached to Agni as fire the substance. Although the ritual fire is churned (passively), we can imagine Agni using the same means that produced him (churning) to produce something for us. (So, more or less, Geldner) Narten (KlSch 24; followed apparently by Witzel Gotō) feels that máthīḥ here can only have the ‘rob’ sense, because only fire can be the obj. of the ‘churn’ sense, but this opinion displays, at least in my view, the often deficient poetic and imaginative sense of the Erlangen school.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, beheld by us in nearest neighbourhood, accordant with the Gods, bring us, with gracious love, great riches with thy gracious love.  
      Give us O Mightiest, what is great, to see and to enjoy the earth.  
      As one of awful power, stir up heroic might for those who praise thee, Bounteous Lord!
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus being seen by us, bring near to us, O Agni, graciously united with the gods, benignantly, great wealth benignantly. Make us behold great (bliss of valiant offspring 1), O mightiest one, that we may obtain such enjoyment. Produce great bliss of valiant offspring, O bountiful Lord, (as fire is produced) by attrition, for those who praise thee, like a strong hero in thy might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du in nächster Nähe erscheinst, bring, Agni, uns einträchtig mit den Göttern aus Wohlwollen große Reichtümer aus Wohlwollen! Laß uns, Mächtigster, Großes schauen um dies zu genießen. Reib uns Sängern, du Freigebiger, große gute Sohnschaft heraus, wie ein Starker das Feuer mit Kraft austreibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In nächster Nähe, Agni du, geschaut von uns, vereinigt mit den Göttern bringe wohlgesinnt uns grossen Reichthum wohlgesinnt, Recht grosses lass, o kräftigster, uns sehen und geniessen hier, Errege grosse Heldenkraft, o mächtiger, den Sängern, starker du an Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Давая себя увидеть совсем близко, принеси нам,  
 О Агни, единый с богами, по доброй воле,  

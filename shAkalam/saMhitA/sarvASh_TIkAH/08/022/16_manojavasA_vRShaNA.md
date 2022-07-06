@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नोजवसा वृषणा मदच्युता  
 मक्षुंगमा꣡भिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 पूर्वी꣡भिः पुरुभोजसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒रात्ता॑त् । चि॒त् । भू॒त॒म् । अ॒स्मे इति॑ । अव॑से । पू॒र्वीभिः॑ । पु॒रु॒ऽभो॒ज॒सा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manojavasā* ← *manaḥ* ← *manas*
 - \[noun\], neuter
@@ -105,36 +105,36 @@ genre M
 हे **मनोजवसा** मनोवच्छीघ्रं गच्छन्तौ **वृषणा** वृषणौ धनानां वर्षितारौ **मदच्युता** । माद्यन्तीति मदाः शत्रवः । तेषां च्यावयितारौ **पुरुभोजसा** बहूनां भोक्तारौ रक्षकौ यद्वा बहून् स्तोतॄन् धनादिभिर्भोजयन्तौ हे अश्विनौ **मक्षुंगमाभिः** शीघ्रं गच्छन्तीभिः **ऊतिभिः** रक्षाभिः **पूर्वीभिः** बहुभिः **अस्मे** अस्माकम् **अवसे** रक्षणाय **आरात्ताञ्चित्** अन्तिक एव **भूतं** भवतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Aśvins**), who are swift as thought, the showerers (of benefits), prostrators of the arrogant, the givers ofenjoyment to many, be ever near unto us, for our security, with many and prompt protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With (your chariot) swift as thought, o bulls roused to exuberance, with  your forms of help that come quickly,  
 even from far away come to be here for our help with your many (forms  of help), you who bring many benefits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rapid as thought, and strong, and speeding to thejoy, bringing.your swiftly-coming help,  
      Be to us a protection even from far away Lords of great wealth, with many aids.'
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem gedankenschnellen Wagen erscheint uns, ihr stolzen Bullen, auch aus der Ferne zum Beistand mit euren vielen pünktlichsten Hilfen, ihr Vielnützende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gedankenschnelle Helden, lusterregende, erscheint mit schnellen Hülfen uns, Aus weiter Ferne eilet, um uns beizustehn, mit vielen, die ihr viele nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О два быка, вызывающие радость, на быстрой, как мысль, (колеснице)  
 Прибудьте к нам на помощь даже издалека  

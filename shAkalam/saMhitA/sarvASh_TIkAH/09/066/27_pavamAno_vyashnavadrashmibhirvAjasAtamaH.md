@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो वि꣡ अश्नवद्  
 रश्मि꣡भिर् वाजसा꣡तमः  
 द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दध॑त् । स्तो॒त्रे । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -81,19 +81,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **पवमानः** सोमः **रश्मिभिः** स्वदीप्तिभिः **व्यश्नवत्** सर्वं जगद्व्याप्नोतु । कीदृशः । **वाजसातमः** अतिशयेनान्नस्य दाता बलस्य संभक्ता वा । तथा **स्तोत्रे** पवमानस्तोत्रं कुर्वते मनवे **सुवीर्यं** सुवीर्योपेतं पुत्रं धनं वा **दधत्** विदधत् प्रयच्छन् व्याप्नोतु । अश्नोतेर्लेट्यडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the purified **Soma**, the most liberal dispenser of food, pervade (the world) with his rays, granting excellent **male** offspring to the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one will pervade with his rays, the best winner of prizes, establishing for the praiser an abundance of heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In this vs. we seem to have returned to the identification of Soma with the sun, as shown esp. by raśmíbhiḥ “with his rays” - this instr. pl. being reserved almost exclusively for the sun’s rays (see, e.g., nearby IX.61.8 sū́ryasya raśmíbhiḥ). The image is of the sun / Soma pervading space, with Soma’s rays being the traces of the golden liquid as it spreads across the filter.
 
@@ -109,23 +109,23 @@ jáṅghnataḥ in 25a, which picks up the same stem (in the nom. jáṅghanat) 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Pavamana, best to win the booty, penetrate with rays,  
      Giving the singer hero strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pavamana möge mit seinen Strahlen durchdringen, der am meisten Siegespreise gewinnt, der dem Sänger die Meisterschaft verleiht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit seinen Strahlen dringe durch der flammende, der Kraft verleiht, Dem Sänger schenk' er Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

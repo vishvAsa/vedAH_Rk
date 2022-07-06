@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षन्न् इन्द्र वृषपा꣡णास इ꣡न्दव  
 इमे꣡ सुता꣡ अ꣡द्रिषुतास उद्भि꣡दस्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 सुमॄळीको꣡+ न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 गीः॒ऽभिः । गि॒र्वा॒हः॒ । स्तव॑मानः । आ । ग॒हि॒ । सु॒ऽमृ॒ळी॒कः । नः॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣann* ← *vṛṣan*
 - \[noun\], vocative, singular, masculine
@@ -177,37 +177,37 @@ genre M
 हे **इन्द्र** **वृषन्** वर्षितः कामानाम् **इमे** पुरतो दृश्यमानाः **इन्दवः** सोमाः **सुताः** त्वदर्थमभिषुताः । कीदृशास्ते । **वृषपानासः** अभिमतवर्षकेण त्वया पातव्याः **अद्रिसुतासः** अद्रिभिर्दृढैः पाषाणैरभिषवसाधनैः सुताः **उद्भिदः** उद्भेदका वर्षस्य' । त एव पुनर्विशेष्यन्ते । **उद्भिदः** बलस्य उद्भेदका उद्भिन्ना वा पर्वतादौ तादृशाः सोमाः **तुभ्यं** **सुतासः** त्वदर्थमेवाभिषुताः। किंच **ते** तादृशाः सोमाः **त्वा** त्वां **मन्दन्तु** तर्पयन्तु । कुत्रेति तदुच्यते । **दावने** दानवति यागे। अभिमतदानाय वा । तथा **महे** महते **चित्राय** चायमानाय विचित्राय नानाविधाय वा **राधसे** धनाय । किंच हे **गिर्वाहः** गिरां स्तुतीनामस्मदीयानां वोढः ॥ ‘ वहिहाधाञ्भ्यः' इति असुन् ॥ **गीर्भिः** अस्मत्स्तुतिभिः स्तवमानः सन् **आ** **गहि** आगच्छ । **नः** अस्मान् **सुमृळीकः** सुष्ठु मृडयिता सन् **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, showerer (of blessings), these effused **Soma**, (expressed) by stones, and which have sprung (from mountain), are for your drinking; these libations have burst forth for you; may they satisfy you as an offering presented (in the hope of receiving) great and wonderful riches. Acceptor of laudations, come to us, glorified by our hymns; come to us well plural ased.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O bull Indra—these pressed drops, the drink of a bull, pressed by the  stones, are bursting out—for you are the pressed (drops) bursting  out.  
 Let them invigorate you to giving, to great, glittering generosity. Being praised with songs, you whose vehicle is songs, come here—very  compassionate to us, come here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma-drops, strong Indra! drink for heroes, poured, pressed out by pressing-stones, are welling forth for thee, for thee the drops are welling forth.  
      They shall make glad thy heart to give, to give wealth great and wonderful.  
      Thou who acceptest praise come glorified by hymns, come thou to us benevolent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullengleicher Indra, diese bullentränkenden Somasäfte sind ausgepreßt, mit Steinen ausgepreßt, die hervorbrechenden, für dich ausgepreßt die hervorbrechenden. Die sollen dich begeistern zum Schenken, zu großer, ansehnlicher Gabe. Mit Liedern gepriesen, von Lobliedern Angezogener, komm her, komm gnädig her zu uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, Stier, die stiergetrunknen Indu's sind vom Stein gepresst die Säfte hier, die quellenden, gekeltert dir die quellenden Zum Geben mögen sie erfreun zu grosser reicher Gabe dich; Durch Lied gepriesen komme her, o Liederfreund, o komme huldreich her zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О бык – Индра, эти соки – напиток быка,  
 Выжаты, выжаты камнями, бурлящие через край,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ भू꣡यिष्ठं ना꣡सत्याभ्यां विवे꣡ष  
 च꣡निष्ठम् पित्वो꣡ र꣡रते विभागे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नूर्ध्वभासः स꣡दम् इ꣡त् तुतुर्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । तो॒कम् । अ॒स्य॒ । पी॒प॒र॒त् । शमी॑भिः । अनू॑र्ध्वऽभासः । सद॑म् । इत् । तु॒तु॒र्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -121,36 +121,36 @@ genre M
 **यः** यजमानः **विभागे** हविर्विभागवति' यागे **नासत्याभ्याम्** अश्विभ्यां **भूयिष्ठं** **चनिष्ठम्** । ‘चन इत्यन्ननाम ' (निरु. ६. १६ )। बह्वन्नं कर्म **विवेष** करोति । **पित्वः** ॥ कर्मणि षष्ठी ॥ अन्नं च **ररते** ददाति **सः** यजमानः **अस्य** आत्मन एव **तोकं** पुत्रं **पीपरत्** पालयेत् **शमीभिः** कर्मभिः । **अनूर्ध्वभासः** अनुन्नततेजस्कान् । यद्वा । ऊर्ध्वभासोऽग्नयः । अग्निरहितानयष्टॄन **सदमित्** सदैव **तुतुर्यात्** हिंस्यात्
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who, in the appointment (of the offerings), presents to the **Nāsatyas** the most ample (share) of (the sacrificial) food, who gives (them) the largest portion of the viands, secures, by his acts, the welfare of his son, and ever has the advantage of those who light no sacred fires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has toiled most for the Nāsatyas and will give the most pleasing  (offering) at the distribution of food,  
 he carries his offspring across by his labors. He would ever pass beyond  those who do not raise their radiance on high.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath served most often the Nasatyas, and gives the sweetest food at distribution,  
      Furthers with his own holy works his offspring, and ever passes those whose flames ascend not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer für die Nasatya´s am meisten angerichtet hat, wer das Beste spendet bei der Verteilung der Speise, der bringt seine Nachkommenschaft glücklich durch mit seinen frommen Leistungen. Er möge jederzeit die überbieten, deren Flamme nicht emporschlägt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dargebracht das meiste hat den Rittern, das liebste spendet bei des Tranks Vertheilung, Der schafft den Kindern Segen durch sein Wirken, besieget den, dess Flamme nicht empordringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто больше всего Насатьям приготовил,  
 (Кто) самое лучшее отдает при разделе пищи,  

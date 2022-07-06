@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वो न꣡ क्र꣡न्दञ् ज꣡निभिः स꣡म् इध्यते  
 वैश्वानरः꣡ कुशिके꣡भिर् युगे꣡-युगे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द꣡धातु र꣡त्नम् अमृ꣡तेषु जा꣡गृविः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । अ॒ग्निः । सु॒ऽवीर्य॑म् । सु॒ऽअश्व्यम् । दधा॑तु । रत्न॑म् । अ॒मृते॑षु । जागृ॑विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
@@ -134,14 +134,14 @@ genre M
 यः **वैश्वानरः** अग्निः **कुशिकेभिः** स्तोत्रं कुर्वाणैर्होत्रादिभिः **युगेयुगे** प्रतिदिनं समिध्यते आज्याहुतिप्रक्षेपेण' सम्यक् दीप्यते । तत्र दृष्टान्तः । **अश्वो** **न** इति । यथा जातोऽश्वः **क्रन्दन्** हेषारवं कुर्वन् **जनिभिः** जनयित्रीभिः वडवाभिः स्तन्यप्रदानेन प्रतिदिनं सम्यक् पोष्यते तद्वत् । **अमृतेषु** मरणधर्मरहितेषु देवेषु मध्ये **जागृविः** ज्वालया जाग्रत् दीप्यमानः **सः** **अग्निः** **सुवीर्यं** शोभनापत्ययुक्तं **स्वश्व्यं** शोभनाश्वादिपशुयुक्तं **रत्नम्** उत्तमं धनं **नः** अस्माकं **दधातु** विदधातु प्रयच्छतु ॥ युगेयुगे । ‘नित्यवीप्सयोः ' इति द्विर्वचनम् । परस्याम्रेडितत्वात् अनुदात्तत्वे पूर्वपदप्रकृतिस्वरः । स्वश्व्यम् । अश्वशब्दः क्वन्प्रत्ययान्तः आद्युदात्तः । बहुव्रीहौ ‘आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । यकारोपजनश्छान्दसः । यद्वा । अश्वेषु साधवोऽश्व्याः । तत्र साधुः ' इति यत् । यतोऽनावः' इत्याद्युदात्तत्वम् । बहुव्रीहौ पूर्वोक्तस्वरः । दधातु । दधातेर्लोटि रूपम् । रत्नम् ।' रमु क्रीडायाम् । “ रमेस्त च ' इत्यधिकरणे नप्रत्ययस्तकारश्चान्तादेशः । रमन्तेऽस्मिन्निति रत्नम् । नित्' इत्यनुवृत्तौ आद्युदात्तः । जागृविः । क्विन्प्रत्ययान्तः । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vaiśvānara** is kindled in every age by the **Kuśikas** as a neighing foal (is nourished) by its mother; may that **Agni**, vigilant among the immortals, give us wealth with excellent offspring and good horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whinnying like a horse, he is kindled by the females [=the fingers of  the priest]; Vaiśvānara (is kindled) by the Kuśikas, generation after  
 generation.  
@@ -149,28 +149,28 @@ Let Agni, awake among the immortals, grant us treasure and an
 abundance of good men and good horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Age after age Vaisvanara, neighing like a horse, is kindled with the women by the Kusikas.  
      May Agni, he who wakes among Immortal Gods, grant us heroic strength and wealth in noble steeds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Vaisvânara, neighing like a horse, is kindled by the women 1, by the Kusikas, from age to age; may this Agni give us abundance in valiant men and in horses and treasures, he who wakes among the immortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Pferd wiehernd wird er durch die Frauen entzündet, der Vaisvanara von den Kusika´s in jedem Geschlecht. Agni soll uns die Meisterschaft, die besten Rosse, das Kleinod einbringen, indem er auf die Unsterblichen wartend wachsam ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Fingern wird entflammt er, wiehernd wie ein Ross, der Männerhort von Kuçikern, von Stamm zu Stamm; Es schenk' uns Agni reiche Füll' an Mann und Ross, und Schatz, der wache unter den Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ржущий, словно конь, он зажигается женами  
 Вайшванара (зажигается людьми из племени) Кушики из поколения в поколение.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रइ꣡ष꣡ स्तो꣡मः पृथिवी꣡म् अन्त꣡रिक्षं  
 व꣡नस्प꣡तीँर् ओ꣡षधी राये꣡ अश्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो माता꣡ पृथिवी꣡ दुर्मतउ꣡ धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वःऽदे॑वः । सु॒ऽहवः॑ । भू॒तु॒ । मह्य॑म् । मा । नः॒ । मा॒ता । पृ॒थि॒वी । दुः॒ऽम॒तौ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praiṣa* ← *pra*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 **एष** **स्तोमः** स्तुतिः पृथिव्यादिदेवताः **प्र** **अश्याः** प्राप्नोतु । किमर्थम् । **राये** धनार्थम् । **देवोदेवः** सर्वोऽपि देवः **मह्यं** मदर्थं **सुहवो** **भूतु** स्वाह्वानो भवतु । **नः** अस्मान् **दुर्मतौ** **माता** सर्वस्य निर्मात्री । यद्वा । अत्रेर्भौमत्वाद्विशेषेण माता । तादृशी **पृथिवी** **मा** **धात्** मा स्थापयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May this praise reach to earth, to the midspace, to the trees, to the  plants, for wealth.  
 Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -155,23 +155,23 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this my laud reach earth and air's mid-region, and forest trees and plants to win me riches.  
      May every Deity be swift to listen, and Mother Earth with no ill thought regard me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Lob soll zur Erde, zum Luftreich, zu Bäumen und Pflanzen gelangen, mir zum Reichtum. Jeder Gott soll für mich gut zu errufen sein. Nicht soll uns die Mutter Erde in Mißgunst bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Erde, Luft, die Bäume und die Kräuter erreiche dieses Loblied, Reichthum schaffend, Ein jeder Gott erhöre recht mein Rufen; nicht geb uns hin der Ungunst Mutter Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть достигнет это восхваление земли, воздушного пространства,  
 Лесных деревьев, растений – ради богатства!  

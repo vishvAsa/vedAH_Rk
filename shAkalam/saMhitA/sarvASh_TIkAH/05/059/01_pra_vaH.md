@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ व स्प꣡ळ् अक्रन् सुविता꣡य दाव꣡ने  
 अ꣡र्चा दिवे꣡ प्र꣡ पृथिव्या꣡ ऋत꣡म् भरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡नु स्व꣡म् भानुं꣡ श्रथयन्ते अर्णवइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒क्षन्ते॑ । अश्वा॑न् । तरु॑षन्ते । आ । रजः॑ । अनु॑ । स्वम् । भा॒नुम् । श्र॒थ॒य॒न्ते॒ । अ॒र्ण॒वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 हे मरुतः **वः** युष्मभ्यं **सुविताय** सुष्ठु प्राप्तव्याय **दावने** हविष्प्रदानाय **स्पट्** स्प्रष्टा होता **प्र** प्रकर्षेण **अक्रन्** क्रन्दति स्तौति । वः युष्मान् वा सुष्ठु प्राप्तव्याय दानायाक्रन् ॥ क्रन्दतेः शब्दकर्मणो लडर्थे लङि तिपि रूपम् ॥ हे होतः **दिवे** द्योतमानाय द्युदेवाय **प्र** **अर्च** प्रकर्षेण स्तुहि हे आत्मन् । तथा **पृथिव्यै** पृथिव्याश्च **ऋतं** स्तोत्रं **भरे** संपादयामि । द्यावापृथिव्यावपि मरुतामाधारत्वादत्र निपातभाजौ भवतः । किंच ते मरुतः **अश्वान्** व्यापकानुदकसंघान् **उक्षन्ते** सिञ्चन्ति । **रजः** **आ** अन्तरिक्षमा सर्वतः **तरुषन्ते** तरन्ति संचरन्ति । **स्वं** **भानुं** स्वकीयं तेजः **अर्णवैः** मेघैः सह **अनु** **श्रथयन्ते** अनुश्लेषयन्ति अनुकूलं प्रापयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ genre M
 The priest: spas', nominative spat, for spraśta, one who touches the oblations, or the fire, an unusual term for the **Hotā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your scout has stridden forth, to give good faring. I will chant to heaven.  I proffer my truth [=hymn] to the earth.  
 They sprinkle the horses, passing through the dusky realm. They let their  own radiance slacken with floods (of rain).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was indicated in the published introduction, the referent of the ‘spy’ (spáṭ) is unclear.
 
@@ -170,23 +170,23 @@ Another ambiguous form is táruṣanta (in sandhi) in c, which can be resolved e
 táruṣantaḥ. In the first instance it owes its accent to its clause-init. position; in the latter, because it’s a participle. Since this stem has exactly 3 forms in all of Skt. -- this one, an active taruṣema, and a med. 3rd pl. (-anta replacement?) taruṣanta, there is no way to tell, though, since taruṣanta could also belong to an underlyingly active stem, I’m somewhat inclined towards the act. part.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YOUR spy hath called to you to give prosperity. I sing to Heaven and Earth and offer sacrifice.  
      They bathe their steeds and hasten through the firmament: they spread abroad their radiance through the sea of cloud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach euch ausspähend hat er aufgebrüllt, um euch guten Fortgang zu geben. Ich will dem Himmel singen, der Erde trage ich die wahrhafte Rede vor. Sie begießen ihre Rosse, wann sie den Raum durcheilen; sie lösen durch die Regenfluten ihren Glanz auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Späher rauschte, und um Segen zu empfahn, sing' ich dem Himmel, bring mein Werk der Erde dar; Die Maruts schmücken Rosse und durchziehn den Raum; sie mildern ihren hellen Glanz durch Regenguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш соглядатай громко поднял голос, чтобы дать счастливый ход (делу).  
 Я хочу петь небу. Я приношу земле истинную речь.  

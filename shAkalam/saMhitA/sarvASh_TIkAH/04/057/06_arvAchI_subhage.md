@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ची सुभगे भव  
 सी꣡ते व꣡न्दामहे तुवा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡था नः सुफ꣡ला꣡ससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 यथा॑ । नः॒ । सु॒ऽभगा॑ । अस॑सि । यथा॑ । नः॒ । सु॒फला॑ । अस॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvācī* ← *arvāñc*
 - \[noun\], nominative, singular, feminine
@@ -110,7 +110,7 @@ popular;; epic anuṣṭubh (424)
 हे **सुभगे** **सीते** त्वम् **अर्वाची** अर्वागञ्चना **भव** । **त्वा** त्वां **वन्दामहे** स्तुवीमहि । **यथा** **नः** **सुभगाससि** शोभनधना भवसि । **यथा** **नः** **सुफलाससि** तथा वन्दामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,28 +123,28 @@ popular;; epic anuṣṭubh (424)
 Sītā = a furrow; a person nification of the deity; the wood supporting the furrow, sītādhārakāṣṭham, which **Indra** is to take hold of, indra gṛhṇatu; if **kāṣṭha** is a quarter of the horizon, sītā may mean the sky, sa, she, is interpreted as **dyau**, the sky
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become inclined our way, well-portioned Furrow. We will extol you, so that you will be well-portioned for us, so that you will be well-fruited  for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious Sita, come thou near: we venerate and worship thee  
      That thou mayst bless and prosper us and bring us fruits abundantly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei geneigt, du holde Furche; wir loben dich, auf daß du uns hold seiest; auf daß du uns gute Frucht bringest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 reiche Furche, sei du uns nahe, wir verehren dich, damit du uns segensreich, damit du uns fruchtreich seiest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приблизься к нам, о борозда,  
 Приносящая счастье! Мы хотим славить тебя,  

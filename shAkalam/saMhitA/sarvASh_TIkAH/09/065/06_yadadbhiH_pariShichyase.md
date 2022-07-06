@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्भिः꣡ परिषिच्य꣡से  
 मृज्य꣡मानो ग꣡भस्तियोः  
 द्रु꣡णा सध꣡स्थम् अश्नुषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्रुणा॑ । स॒धऽस्थ॑म् । अ॒श्नु॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -71,20 +71,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **गभस्त्योः** । बाहुनामैतत् । बभसति दीपयन्ति निर्मथ्नन्यात्भ्यामग्निमिति गभस्ती बाहू । तयोः **मृज्यमानः** ताभ्यां शोध्यमानः सन् **अद्भिः** । सोमसेचनार्थं चतुर्विधा आपः । ताभिर्वसतीवरीभिरेकधनाभिश्च **यत्** यदा **परिषिच्यसे** परितः सिच्यमानो भवसि तदानीं **द्रुणा** दुममयेन पात्रेण गृह्यमाणः सन् **सधस्थम्** । सह तिष्ठन्त्यत्रेति सधस्थं स्थानं ग्रहचमसादिकम् । **अश्नुषे** प्राप्नोषि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When cleansed by the **hands** you are sprinkled with the water, (taken up) with the wooden vessel you attain your abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are poured all around with waters, being groomed in the  two hands,  
 you attain to your seat by means of the wooden (vessel).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On druṇā́see comm. ad IX.1.2.
 
@@ -98,23 +98,23 @@ No obvious signs of unity
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou art cleansed with both the hands and dipped in waters, with the wood.  
      Thou comest to the gathering-place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du mit Wasser begossen wirst, zwischen den Händen gereinigt, so nimmst du deinen Sitz aus Holz ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du durch Flut ergossen wirst, gereinigt von den Armen du, Erreichst du auf dem Holz den Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं युञ्जते मरु꣡तः शुभे꣡ सुखं꣡  
 शू꣡रो न꣡ मित्रावरुणा ग꣡विष्टिषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिवः꣡ सम्राजा प꣡यसा न उक्षतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रजां॑सि । चि॒त्रा । वि । च॒र॒न्ति॒ । त॒न्यवः॑ । दि॒वः । स॒म्ऽरा॒जा॒ । पय॑सा । नः॒ । उ॒क्ष॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -127,36 +127,36 @@ genre M
 हे मित्रावरुणौ युवयोरनुग्रहात् **मरुतः** **शुभे** उदकार्थं **सुखं** शोभनाक्षद्वारं **रथं** **युञ्जते** अश्वैर्योजयन्ति । **शूरो** **न** शूर इव । स यथा युद्धार्थं रथं युनक्ति तद्वत् । **गविष्टिषु** गवामुदकानाम् एषणेषु निमित्तेषु **चित्रा** चायनीयानि **रजांसि** लोकान् **तन्यवः** ततास्ते मरुतः **वि** **चरन्ति** विविधं चरन्ति । तस्मात् तैः सहितौ हे **सम्राजा** युवां **दिवः** द्युलोकात् **पयसा** उदकेन **नः** अस्मान् **उक्षतं** सिञ्चतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** harness their easy-going chariot, **Mitra** and **Varuṇa**, for (the emission of) water, as a hero (harnesses his war-car); their forms traverse the different spheres to distribute the rain; do you, therefore, supreme rulers, shed upon us water from heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts harness their easy-running chariot for beauty, like a  champion on cattle raids, o Mitra and Varuṇa.  
 Thunder ranges through the shimmering air. O sovereign kings, sprinkle  us with milk from heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts yoke their easy car for victory, O Mitra-Varuna, as a hero in the wars.  
      The thunderers roam through regions varied in their hues. Imperial Kings, bedew us with the milk of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut schirren ihren leichten Wagen zur Prunkfahrt an wie ein Held auf den Beutezügen nach Rindern, o Mitra und Varuna. Grelle Donner durchziehen die Lüfte. Ihr beiden Allherrscher, netzet uns mit der Milch des Himmels!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den raschen Wagen schirrn die Maruts an zum Prunk, wie in den Schlachten, Mitra-Varuna, der Held; Die Luft durchwandern sie, die lauten Donnerer, benetzt uns mit des Himmels Milch, o Könige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты запрягают для блеска легкоходную колесницу,  
 Словно герой, о Митра-Варуна, отправляясь в поисках коров.  

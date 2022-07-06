@@ -14,7 +14,7 @@ title = "+005"
 अथाष्टमो व्याख्यातुमारभ्यते । अष्टमे मण्डले प्रथमेऽनुवाके चत्वारि सूक्तानि व्याकृतानि । ‘दूरात्' इत्येकोनचत्वारिंशदृचं पञ्चमं सूक्तं कृण्वगोत्रस्य ब्रह्मातिथेरार्षम्। आदितः षट्त्रिंशद्गायत्र्यः । ततो द्वे बृहत्यौ। अन्तिमानुष्टुप् । अन्त्येषु पञ्चस्वर्धर्चेषु चेदिपुत्रस्य कशुनाम्नो राज्ञो दानं स्तूयते । अतस्तद्देवताकाः । शिष्टा आश्विन्यः । तथा चानुक्रान्तं - दूरादेकान्नचत्वारिंशद्ब्रह्मातिथिराश्विनं द्विबृहत्यनुष्टुबन्तमन्त्याः पञ्चार्धर्चाश्चैद्यस्य कशोर्दानस्तुतिः' इति । प्रातरनुवाकाश्विनशस्त्रयोराश्विने क्रतौ गायत्रे छन्दसि अन्त्यतृचवर्जमिदं सूक्तम् । सूत्र्यते हि-- दूरादिहेवेति तिस्र उत्तमा उद्धरेत्' (आश्व. श्रौ. ४. १५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 5 (625)  
 Aśvins  
@@ -25,7 +25,7 @@ The hymn begins not with the Aśvins but with the appearance of the (unnamed)  D
 The last three verses (37–39) are a dānastuti praising the gift of one Kaśu, lord  of the Cedis. His previous, fairly modest, gift is mentioned in verse 38, with the  hope that the Aśvins will have the opportunity to see a more magnificent version in  verse 37. And in verse 39 Kaśu is implicitly challenged to make an unparalleled gift,  so that other men will not win greater praise for their generosity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

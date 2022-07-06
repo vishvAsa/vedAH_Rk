@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह त्य꣡द् इन्दर+ चोदीः स꣡खा  
 वृत्रं꣡ य꣡द् वज्रिन् वृषकर्मन् उभ्नाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ द꣡स्यूँर् यो꣡नाव् अ꣡कृतो वृथाषा꣡ट्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । ह॒ । शू॒र॒ । वृ॒ष॒ऽम॒नः॒ । प॒रा॒चैः । वि । दस्यू॑न् । योनौ॑ । अकृ॑तः । वृ॒था॒षाट् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -138,7 +138,7 @@ genre M
 हे **इन्द्र** **त्वं** **ह** त्वं खलु **सखा** कुत्सस्य सहायः सन् **त्यत्** तत् प्रसिद्धं धनं जयलक्षणं यशो वा **चोदीः** प्रेरितवान् अकार्षीरित्यर्थः । हे **वृषकर्मन्** वृष्ट्युदकसेचनरूपकर्मोपेत **वज्रिन्** वज्रवन्निन्द्र **वृत्रं** सर्वस्य धनस्यावरीतारं कुत्सस्य शत्रुं **यत्** यदा उभ्नाः अतुभ्नाः अहिंसीः । अपि च हे **शूर** शत्रूणां प्रेरक **वृषमणः** कामाभिवर्षकमनस्केन्द्र **वृथाषाट्** अनायासेन शत्रूणामभिभविता त्वं **यद्ध** यदा खलु **योनौ** वीरैर्मिश्रणीये संग्रामे **दस्यून्** कुत्सस्योपक्षयितॄन् अन्यान् शत्रून् **पराचैः** परागमनैः **वि** **अकृतः** पराङ्मुखा यथा भवन्ति तथा व्यच्छिनः । तदानीं कुत्सः सर्वं यशः प्राप्नोदित्यर्थः ॥ चोदीः । ‘चुद प्रेरणे । लुङि ' नेटि' (पा. सू. ७. २. ४ ) इति सिचि वृद्धिप्रतिषेधः । उभ्नाः ।  ‘ णभ तुभ हिंसायाम् । क्रैयादिकः । लङि सिमि तल्लोपश्छान्दसः ।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि' इति अडभावः । पराचैः इत्येतदव्ययं नीचैरुच्चैरितिवत् इति भट्टभास्करमिश्रः । ‘पराचैः पराञ्चनैः ' (निरु. ११. २५) इति निरुक्तम् । दस्यून् ।' दीर्घादटि समानपादे' इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वा' इति ऊकारस्य सानुनासिकता । अकृतः ।  ‘ कृती छेदने । लङि सिपि तुदादित्वात् शप्रत्ययः । आगमानुशासनस्यानित्यत्वात् ‘शे मुचादीनाम् इति नुमागमस्याभावः । शस्य ङित्त्वात् गुणाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ genre M
 Dasyus are enemies of **Kutsa**: kutsasyopakṣayatāraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You then, Indra, as partner provided the spur, when you knotted up  Vr̥tra, you mace-bearer of bullish deeds,  
 when, you champion of bullish mind, you cut apart the Dasyus in their  womb far away, as one who is victorious at will.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details open><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -165,24 +165,24 @@ tváṃ ha tyád provides the opening of the next four verses. Although tyád is
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That, as a friend, thou furtheredst, O Indra, when, Thunderer, strong in act, thou crushedst Vrtra;  
      When, Hero, thou, great-souled, with easy conquest didst rend the Dasyus in their  
      distant dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, hast da als Verbündeter Mut gemacht, als du tatengewaltiger Keulenträger den Vritra bändigtest, als du bullenmutiger Held in der Ferne die Dasyu´s in ihrem Neste zerhiebst, mühelos siegend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das auch betriebst als Freund du eifrig, Indra, dass Vritra du bezwangst mit Blitz, gewalt'ger, Dass ferne du in ihrem Sitz die Bösen, stiermuth'ger Held, mit schnellem Sieg zerstücktest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты в самом деле, о Индра, вдохновлял (нас) как союзник,  
 Когда обуздал Вритру, о громовержец, готовый к мужественным деяниям,  

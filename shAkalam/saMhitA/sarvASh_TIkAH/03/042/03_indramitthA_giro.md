@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रम् इत्था꣡ गि꣡रो म꣡म  
 अ꣡छागुर् इषिता꣡ इतः꣡  
 आवृ꣡ते सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 आ॒ऽवृते॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -84,41 +84,41 @@ genre M
 हे इन्द्र **इषिताः** त्वदर्थं प्रेरिताः **इत्था** इत्थमनेन प्रकारेण उच्यमानाः **मम** **गिरः** स्तुतिलक्षणा वाचः **इन्द्रं** त्वाम् **इतः** अस्माद्देवयजनदेशात् **अच्छागुः** आभिमुख्येन गच्छन्तु । किमर्थम् । **सोमपीतये** सोमपानार्थम् **आवृते** त्वामावर्तयितुम् ॥ इत्था । इदंशब्दात् “ था हेतौ च छन्दसि ' इति व्यत्ययेन थाप्रत्ययः । इदमः ‘एतेतौ रथोः' इति इदित्यादेशः । प्रत्ययस्वरः । अच्छ। ‘अच्छ गत्यर्थवदेषु ' इति गतिसंज्ञा । अगुः । ‘ इण् गतौ ' इत्यस्य लुङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May my praises, addressed from hence and in thi smanner, attain **Indra**, to bring him hither to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Indra have my songs gone just so, sent from here,  
 to turn him hither for soma-drinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the alliteration framing the first two pādas: #índram itthā́… iṣitā́itáḥ#.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra have my songs of praise gone forth, thus rapidly sent hence,  
      To turn him to the Soma-draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra sind meine Reden ergangen, darum von hier entsandt, daß er zum Somatrunk einkehre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu ihm, dem Indra, eilen hin von hier entsandt die Lieder mein, Zu lenken ihn zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так направились к Индре мои  
 Хвалебные песни, посланные отсюда,  

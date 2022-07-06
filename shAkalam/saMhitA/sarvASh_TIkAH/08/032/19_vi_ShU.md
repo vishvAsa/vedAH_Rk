@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षू꣡ चर स्वधा꣡ अ꣡नु  
 कृष्टीना꣡म् अ꣡नु आहु꣡वः  
 इ꣡न्द्र पि꣡ब सुता꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑ । पिब॑ । सु॒ताना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **आहुवः** आह्वातव्यस्त्वं **कृष्टीनां** मनुष्याणां **स्वधाः** हवींषि **अनु** **सु** सुष्ठु **वि** **चर** । द्वितीयः **अनु** पूरणः । 'सुतानाम् अभिषुतान् सोमांश्च पिब ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who are to be invoked of man, come to their offered viands, drink of (their) libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wander widely following your own power, following the invocations of  the communities.  
 Indra, drink of the pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go with thy God-like nature forth, go where the folk are calling thee:  
      Drink, Indra, of the drops we pour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh nach Belieben den Anrufungen der Völker nach; trink, Indra, von den Somasäften!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geh schnell dahin nach deiner Lust, wohin der Menschen Schar dich ruft, Und von den Säften, Indra, trink.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Охотно иди по своей воле  
 На приглашения народов!  

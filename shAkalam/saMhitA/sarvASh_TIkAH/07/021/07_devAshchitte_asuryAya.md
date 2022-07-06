@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡श् चित् ते असुरि꣡याय पू꣡र्वे  
 अ꣡नु क्षत्रा꣡य ममिरे स꣡हांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं वा꣡जस्य जोहुवन्त सातउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । म॒घानि॑ । द॒य॒ते॒ । वि॒ऽसह्य॑ । इन्द्र॑म् । वाज॑स्य । जो॒हु॒व॒न्त॒ । सा॒तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāś* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
@@ -114,7 +114,7 @@ genre M
 **पूर्वे** **देवाश्चित्** असुरा अपि **असुर्याय** बलाय **क्षत्राय** । क्षदिर्हिंसाकर्मा । बलं हिंसां चोभे कर्तुमित्यर्थः । हे इन्द्र **ते** तव **सहांसि** बलानि **अनु** **ममिरे** ॥ ‘हीने ' ( पा. सू. १.४.८६ ) इत्यनुः कर्मप्रवचनीयः ॥ तव बलेभ्यो हीना ममिर इत्यर्थः । तथा च निगमान्तरम्- ’ अनु ते द्यौर्बृहती वीर्यं ममे ' ( ऋ. सं. १.५७.५) इति । अथ परोक्षस्तुतिः। **इन्द्रः** शत्रून् **विषह्य** **मघानि** मंहनीयानि धनानि **दयते** भक्तेभ्यः प्रयच्छति । अपि च **इन्द्रं** **वाजस्य** अन्नस्य **सातौ** लाभार्थं **जोहुवन्त** स्तुवन्ति स्तोतार आह्वयन्ति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ Asūryāya = balāya, to strength;
 Kṣatrāya: from kṣadi, to injure, hiṃsayam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the gods, the ancient ones, measured their strengths (as inferior)  to your lordship, your dominion.  
 Indra, having conquered, distributes bounties. It is Indra whom (men)  keep calling to in the winning of victory’s prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the juxtaposition of the gods (devā́ḥ) and Indra’s “lordship” (asuryā̀ya).
 
 For the meaning of the idiom ánu √mā, see Kümmel (279). It parallels the concessive sense of ánu √dā ‘concede’ and ánu √dhā ‘id.’
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even the earlier Deities submitted their powers to thy supreme divine dominion.  
      Indra wins wealth and deals it out to other's: men in the strife for booty call on Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die älteren Götter trauten dir zur Asurawürde, zur Herrschaft die Kraft zu. Indra teilt Gaben aus, wenn er gesiegt hat. Den Indra rufen sie an, wenn es sich um den Gewinn des Siegerpreises handelt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alten Götter Kraft sogar muss weichen der Herrschermacht und Geisteskraft, die dein ist; Nach seinem Sieg vertheilt die Schätze Indra; ihn ruft man an, um Beute zu erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже прежние боги отставали по (своим) силам  
 От твоей асурской власти.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡नि वाम् अश्विना वीरि꣡याणि  
 प्र꣡ पूर्विया꣡णि आय꣡वो अवोचन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रासो विद꣡थम् आ꣡ वदेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब्रह्म॑ । कृ॒ण्वन्तः॑ । वृ॒ष॒णा॒ । यु॒वऽभ्या॑म् । सु॒ऽवीरा॑सः । वि॒दथ॑म् । आ । व॒दे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -123,36 +123,36 @@ genre M
 **अश्विना** हे अश्विनौ **वां** युवयोः संबन्धीनि **पूर्व्याणि** प्रत्नानि **एतानि** इदानीं मयोक्तानि **वीर्याणि** वीरकर्माणि **आयवः** मनुष्याः मदीयाः पित्रादयः **प्र** **अवोचन्** उक्तवन्तः । वयं च हे **वृषणा** कामाभिवर्षकौ अश्विनौ युवाभ्यां **ब्रह्म** मन्त्रात्मकं स्तोत्रं **कृण्वन्तः** कुर्वन्तः **सुवीरासः** सुवीराः शोभनैः वीरैः पुत्रादिभिरुपेताः सन्तः **विदथं** यज्ञम् **आ** **वदेम** आभिमुख्येन स्तुतीः उच्चारयाम' । यद्वा । विदथं वेदयन्तम् अतिथिं तदपेक्षितप्रदानेन आवदेम आभिमुख्येन प्रियपूर्विकां वाचमुच्चारयाम ॥ कृण्वन्तः । ‘कृवि हिंसाकरणयोश्च'। इदित्त्वात् नुम् । लटः शतृ । धिन्विकृण्व्योर च' इति उप्रत्ययः । अकारान्तादेशश्च । अतो लोपे सति स्थानिवद्भावात् लघूपधगुणाभावः । सुवीरासः । शोभना वीरा येषां ते तथोक्ताः । ‘आज्जसेरसुक्' । वीरवीर्यौ च ' इत्युत्तरपदाद्युदात्तत्वम् । विदथम् । “ विद ज्ञाने'। रुविदिभ्यां कित्' इति अथप्रत्ययः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These, your ancient exploits, **Aśvins**, our forefathers have celebrated, and we offer adoration to you, showerers (of benefits) repeating your praises, accompanied by our dependants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sons of Āyu have proclaimed these your ancient heroic deeds, o  Aśvins,  
 creating for you a poetic formulation, o bulls. Obtaining good heroes,  we would announce the ritual distribution.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These your heroic exploits, O ye Asvins, done in the days. of old, have men related.  
      May we, addressing prayer to you, ye Mighty, speak with brave sons about us to the synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese früheren Heldentaten von euch, Asvin, haben die Ayu´s verkündet. Euch Erbauung bereitend, ihr Bullengleiche, wollen wir als Meister Weisheit verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, diese eure Heldenthaten, die alten haben laut gerühmt die Menschen, Gebet verrichtend euch, o Helden, werden wir reich an Helden zur Versammlung reden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти ваши, о Ашвины, прежние  
 Героические деяния провозгласили Аю.  

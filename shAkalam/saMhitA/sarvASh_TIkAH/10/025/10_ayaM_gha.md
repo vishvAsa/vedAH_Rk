@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ घ स꣡ तुरो꣡ म꣡द  
 इ꣡न्द्रस्य वर्धत प्रियः꣡  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒यम् । क॒क्षीव॑तः । म॒हः । वि । वः॒ । मदे॑ । म॒तिम् । विप्र॑स्य । व॒र्ध॒य॒त् । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -125,37 +125,37 @@ genre M;; repeated line
 अयं **घ** ईदृशः खलु **सः** प्रसिद्धः अस्माभिरभिषुतः सोमः **तुरः** सर्वकार्येषु त्वरणशील:  **मदः** मदकरः **प्रियः** **इन्द्रस्य** तर्पयिता **वर्धत** अस्मदीयां मतिमवर्धयत् । **अयं** सोमः **कक्षीवतः** एतदाख्यस्यर्षेः । कीदृशस्य । **महः** महतः **विप्रस्य** मेधाविनः **मतिं** प्रज्ञां **वर्धयत्** अवर्धयत् । तद्वदस्माकमपि मतिं वर्धयेदित्यर्थः । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such is the **Soma** which, swiftly moving, exhilarating, acceptable to **Indra**, has given increase (to ourunderstanding); it has increased the intelligence of the great and pious **Kakṣīvat** in your exhilaration; for youare mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here he is: the exhilarating, overpowering one dear to Indra grows  strong;  
 he strengthens the thought of great Kakṣīvant, the inspired poet.  
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Victorious is this gladdening drink: to Indra dear it grows in strength.  
      This-at your glad carouse -enhanced the mighty hymn of the great sage Kaksivan. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser mächtige, dem Indra liebe Rauschtrank ward stark. Dieser stärkte des großen Kaksivat, des Redekundigen, dichterischen Gedanken - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist fürwahr ein kräft'ger Trank, des Indra Liebling zeig' sich gross, Er ist's, der einst Kakschivat's Geist, des grossen Dichters, hat entflammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот мощный пьянящий напиток,  
 Приятный для Индры, стал крепким.  

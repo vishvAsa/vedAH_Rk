@@ -8,7 +8,7 @@ title = "+049"
 स्तुषे जनम्' इति पञ्चदशर्चं षष्ठं सूक्तं भारद्वाजस्य ऋजिश्वन आर्षं वैश्वदेवम् । अन्त्या षट्पञ्चाशदक्षरा शक्करी शिष्टास्त्रिष्टुभः । तथा चानुक्रान्तं --- स्तुषे पच्चोन ऋजिश्वा ह वैश्वदेवं ह शक्वर्यन्तम् ' इति । व्यूळ्हे दशरात्रे पञ्चमेऽहनीदं वैश्वदेवनिविद्धानम् । सूत्रितं च - ऋभुर्विभ्वा स्तुषे जनमिति वैश्वदेवम् ' (आश्व. श्रौ. ८. ८) इति । आद्या महानाम्नीव्रते जप्या ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 49 (490)  
 All Gods  
@@ -21,7 +21,7 @@ There is no obvious ritual or other significance to the order of gods in this hy
 in the Mitra and Varuṇa verse (1) and in the Tvaṣṭar verse (9). The reference shifts  between the 3rd and 2nd person, with the former predominating. The final verse of  the hymn, in a slightly different meter (triṣṭubh but with an extra pāda), mentions  no specific gods, but asks all of them for benefits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods The verb ‘quicken, enliven’ (√jinv) appears at widely scattered intervals in this hymn (6b jinvatam, 11c jínvathā, 14d jinvatu), but enough to count as a leitmotif.
 </details>

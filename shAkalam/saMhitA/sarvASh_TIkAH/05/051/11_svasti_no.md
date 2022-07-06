@@ -6,7 +6,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्ति꣡ नो मिमीताम् अश्वि꣡ना भ꣡गः  
 सुअस्ति꣡ देवी꣡ अ꣡दितिर् अनर्व꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 सुअस्ति꣡ द्या꣡वापृथिवी꣡ सुचेतु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्व॒स्ति । पू॒षा । असु॑रः । द॒धा॒तु॒ । नः॒ । स्व॒स्ति । द्यावा॑पृथि॒वी इति॑ । सु॒ऽचे॒तुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasti*
 - \[noun\], accusative, singular, neuter
@@ -118,7 +118,7 @@ genre M
 **नः** अस्मभ्यम् **अश्विना** अश्विनौ **स्वस्ति** अविनाशं क्षेमं **मिमीतां** कुरुताम् । **भगः** च **स्वस्ति** क्षेमं मिमीताम् । तथा **देव्यदितिः** च स्वस्ति मिमीताम् । **अनर्वणः** अप्रत्यृतः **पूषा** **असुरः** शत्रूणां निरसिता प्राणानां बलानां दाता वा नः **स्वस्ति** दधातु । **नः** अस्मभ्यं **द्यावापृथिवी** द्यावापृथिव्यावपि **सुचेतुना** शोभनेन प्रज्ञानेन विशिष्टे **स्वस्ति** मिमीताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 May the Aśvins contribute: **svasti** : svasti no mimītām aśvinā = avinaśam kṣemam, imperishable prosperity; or, literally well-being, welfare
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Well-being let the Aśvins, let Fortune mete out to us; well-being let the  goddess Aditi, let the unassailable ones.  
 Well-being let lord Pūṣan establish for us; well-being let Heaven and  Earth, with kind attention.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 anarváṇaḥ receives far more attention than I think it deserves. See esp. Oldenberg
 
@@ -154,23 +154,23 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Bhaga and the Asvins grant us health and wealth, and Goddess Adid and he whom none resist.  
      The Asura Pusan grant us all prosperity, and Heaven and Earth most wise vouchsafe us happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück sollen uns die Asvin zuteilen, Glück Bhaga, die Göttin Aditi, all die Unerreichten. Glück soll uns Pusan, der Asura, schaffen, Glück Himmel und Erde aus Wohlwollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögen Bhaga und die Ritter Heil verleihn, der Schrankenlose, Heil die Göttin Aditi, Uns schenke Heil der lebensreiche Puschan auch, und Heil der Himmel und die Erde wohlgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благо пусть отмерят нам Ашвины, Бхага!  
 Благо – богиня Адити непобедимая!  

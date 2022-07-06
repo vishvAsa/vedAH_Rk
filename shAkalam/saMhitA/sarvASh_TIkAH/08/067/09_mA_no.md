@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो मृचा꣡ रिपूणां᳐꣡  
 वृजिना꣡नाम् अविष्यवः  
 दे꣡वा अभि꣡ प्र꣡ मृक्षत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 देवाः॑ । अ॒भि । प्र । मृ॒क्ष॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अविष्यवः** रक्षितुमिच्छन्तः **देवाः** **नः** अस्मान् **वृजिनानां** हिंसकानां रिपूणां **मृचा** । मृचिर्हिँसाकर्मा । ' यत्क्षुरेण मर्चयता सुपेशसा ' (आश्व. गृ. १. १७. १५) इत्यादिषु तथा दृष्टत्वात् । हिंसकेन जालेन **मा** अभि **प्र** **मृक्षत**। अभिमर्शनमुपरि जालस्य प्रेरणं मा कुरुत । यद्वा। मृचा जालेन प्राप्ता बाधा नोऽस्माकं मा भवतु । हे देवाः यूयं च परिमार्जयत परिहरत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Abhipramṛkṣata: from mṛj instrumental ad of mṛṣ: let us not (be tormented) by the destructive net of our enemies,deliver us from it.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t (harm) us with the harm of crooked cheats.  
 O gods greedy to help, seize them!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In ab I supply a transitive form of √mṛc ‘harm’ to be construed with the cognate instr. root noun. The fact that the verb of pāda c, (abhí prá) mṛkṣata, though derived from √mṛś ‘touch’, could technically be an s-formation to √mṛc makes the generation of a verb from that root easier, and in fact we might consider mṛkṣata as representing both ‘harm’ and ‘seize’. Oldenberg notes the phonological play.
 
 In its other two occurrences aviṣyú- has the negative sense ‘greedy’ and is clearly related to avasá- ‘food’, etc. (see EWA s.v. avasá-), but here it must be positive. I assume a portmanteau pun, combining ‘greedy’ with an association with √av ‘help’, resulting in ‘greedy[=eager] to help’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Gods who fain would lend your aid, destroy not us as ye destroy  
      Your enemies who go astray.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht uns mit der Mordwaffe der listigen Schelme, ihr Speisegierigen - Packet zu, ihr Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht packt uns, die ihr gerne helft, o Götter, durch Beschäd'gung an der Feinde, die voll Tücke sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не поразите нас смертельным оружием  
 Лживых врагов,  

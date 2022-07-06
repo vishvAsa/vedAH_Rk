@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡न्दस्वा सु꣡ सु꣡वर्णर  
 उते꣡न्द्र शर्यणा꣡वति  
 म꣡त्स्वा वि꣡वस्वतो मती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मत्स्व॑ । विव॑स्वतः । म॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandasvā* ← *mandasva* ← *mand*
 - \[verb\], singular, Present imperative
@@ -75,7 +75,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **इन्द्र** **शर्यणावति** । शर्यणा नाम कुरुक्षेत्रवर्तिनो देशाः। तेषामदूरभवं सरः शर्यणावत् । “ मध्वादिभ्यश्च' इति स्वार्थिको मतुप् । **मतौ** बह्वचः' इति दीर्घः । ‘ संज्ञायाम् इति वत्वम् । तस्मिन् सरसि विद्यमाने **स्वर्णरे** सर्वैर्ऋत्विग्भिर्नेतव्ये यज्ञे **सु** सुष्ठु **मन्दस्व** माद्य तृप्तो भव । अपि च **विवस्वतः** परिचरणवतो यजमानस्य **मती** मत्या च **मत्स्व** मदं प्राप्नुहि । मतिशब्दात्तृतीयायाः ‘सुपां सुलुक्' इति पूर्वसवर्णदीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,33 +88,33 @@ Heaven-guiding: or, to be offered by all the priests, svarṇare = sarvair ṛtv
 Śaryaṇāvat: the country of **Kurukṣetra** and Śaryaṇāvat is a lake in the neighbourhood
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Reach exhilaration in the presence of Svarṇara and, o Indra, in the  reed-filled (place).  
 Become exhilarated by the thought of Vivasvant.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I give śaryaṇā́vati its literal meaning, deriving ultimately from śará-, śárya- ‘reed, stick’, rather than taking it as a PN as Geldner does, since in other places it seems to have literal content. On the analysis see Thieme Unters. p. 40 n. 2. But a PN, esp. in this context, is certainly possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rejoice, O Indra, in the light, rejoice in Saryandyan, be Glad in the sacrificer's hymn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berausche dich fein in Svarnara und in Saryanavat, Indra; berausche dich an der Dichtung des Vivasvat!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreu dich recht, o Glanzesherr, o Indra an dem Somasee, Und an des lichten Priesters Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяняйся хорошенько в Сварнаре,  
 А также, о Индра, в Шарьянавате!  

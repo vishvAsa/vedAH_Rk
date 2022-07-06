@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म ते वनस्पते  
 वा꣡तो वि꣡ वाति अ꣡ग्रम् इ꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुनु꣡ सो꣡मम् उलूखल
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अथो॒ इति॑ । इन्द्रा॑य । पात॑वे । सु॒नु । सोम॑म् । उ॒लू॒ख॒ल॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre D
 **उत** अपि च हे **वनस्पते** उलूखलरूप वृक्ष **ते** अग्रमित् तव पुरत एवं **वातो** **वि** **वाति** स्म । त्वरोपेतमुसलप्रहारैर्वायुर्विशेषेण प्रसरति खलु । अथो अनन्तरं हे **उलूखल** **इन्द्राय** इन्द्रोपकारार्थं **पातवे** पातुं **सोमं** **सुनु** सोमाभिषवं कुरु ॥ वनस्पते । पारस्करादित्वात् सुट् । कार्ये कारणशब्दः । पातवे । 'पा पाने '। तुमर्थे सेसेन् ' इति तवेन्प्रत्ययः । ‘ञ्नित्यादिर्नित्यम् ' इत्याद्युदात्तत्वम् । सुनु । ' उतश्च प्रत्ययादसंयोगपूर्वात्' इति हेर्लक्। विकरणस्वरेणान्तोदात्तत्वम् । पादादिवादनिघातः । उलूखल । उर्ध्वं खम् अस्य इति उलूखलः । पृषोदरादिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,33 +119,33 @@ genre D
 **Vanaspati** = a large tree; metonymy for the mortar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, o lord of the wood [=pestle?], the wind blows through your top. So then, press the soma for Indra to drink, o mortar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reference in this verse is not entirely clear, but “the lord of the wood” (vánaspáti-, ordinarily a word for tree, or an esp. prominent tree, then applied the sacrificial post) is probably here the pestle and metaphorically the erect penis. If so, ágram might be better tr. ‘tip’ than ‘top’ and the whole clause as “the wind blows across [rather than ‘through’] your tip.” In an unpublished paper on this hymn, "Rgveda I.28 and the Two Forms of Pressing Soma," Hanns-Peter Schmidt cites a Kuntāpa verse AV 20.136.6 = ŚŚS 12.24.2.7, which he tr. "The harlot, stepping over the mortar, said, 'Just as on thee, o tree (o wooden mortar), they strike (with the pestle) so may they strike on me,'" which also shows the connection of mortar and pestle with unlicensed sex. If the tr. is correct, the “lord of the wood” there is the mortar, not the pestle, as it seems to be here. In vs. 8 below, both the mortar and the pestle seem to be so called.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Sovran of the Forest, as the wind blows soft in front of thee,  
      Mortar, for Indra press thou forth the Soma juice that he may drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und um deine Spitze, o Holz, wehte der Wind. Nun schlag den Soma für Indra zum Trinken aus, du Mörser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dir, o Mörserkeule, weht der Wind vor deinem Angesicht; Dem Indra presse nun zum Trunk den Soma aus, o Mörser du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А самую твою верхушку,  
 О дерево, ветер обвевает.  

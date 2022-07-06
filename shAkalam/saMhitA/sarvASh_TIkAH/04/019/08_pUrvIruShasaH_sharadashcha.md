@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूर्वी꣡र् उष꣡सः शर꣡दश् च गूर्ता꣡  
 वृत्रं꣡ जघन्वाँ꣡ असृजद् वि꣡ सि꣡न्धून्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सीरा꣡ इ꣡न्द्रः स्र꣡वितवे पृथिव्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 परि॑ऽस्थिताः । अ॒तृ॒ण॒त् । ब॒द्ब॒धा॒नाः । सी॒राः । इन्द्रः॑ । स्रवि॑तवे । पृ॒थि॒व्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
@@ -110,37 +110,37 @@ genre M
 **वृत्रं** वृत्राख्यमसुरं **जघन्वान्** हतवानिन्द्रः **गूर्ताः** तमिस्रया गीर्णाः **पूर्वीः** बह्वीः **उषसः** **शरदश्च** संवत्सरांश्च **वि** **असृजत्** विशेषेण ससर्ज । तथा **सिन्धून्** वृत्रेणावृतान्युदकानि व्यसृजत् । किंच **इन्द्रः** **परिष्ठिताः** मेघेषु परितः स्थिताः **बद्बधानाः** वृत्रेण परितो बध्यमानाः **सीराः** नदीः । सीरा इति नदीनामैतत् । **पृथिव्या** पृथिवीरूपेण मार्गेण **स्रवितवे** स्रवितुं गमनार्थम् **अतृणत्** अविध्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Having slain **Vṛtra**, he has liberated many mornings and years (that had been) swallowed up by darkness, and has set the rivers free; **Indra** has released the imprisoned rivers, encompassed (by the cloud), to flow upon the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having smashed Vr̥tra, he set loose the rivers, welcomed [/gurgling]  through many dawns and autumns.  
 Indra drilled out the streams, which had been surrounded and hard  
 pressed, to flow along the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through many a morn and many a lovely autumn, having slain Vrtra, lie set free the rivers.  
      Indra hath set at liberty to wander on earth the streams encompassed pressed together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele gelobte Morgen und Herbste ließ er die Wasser laufen; nachdem er den Vritra erschlagen hatte. Indra zapfte die umstellten eingezwängten Flüsse an, um über die Erde zu fließen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viel liebe Tag' und Jahre durch liess Indra die Ströme rinnen nach dem Fall des Vritra; Er machte frei die festgebannten Ströme zu fliessen auf der Erde, die umstellten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много прославленных зорь и осеней  
 Он пускал течь реки, убив Вритру.  

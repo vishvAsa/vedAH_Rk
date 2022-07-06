@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ चित्रं꣡ ददथुर् भो꣡जनं नरा  
 चो꣡देथां सूनृ꣡तावते  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 पि꣡बतं सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒र्वाक् । रथ॑म् । सऽम॑नसा । नि । य॒च्छ॒त॒म् । पिब॑तम् । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -106,36 +106,36 @@ genre M;; repeated line
 हे अश्विनौ **युवं** युवां **चित्रं** चायनीयं **भोजनं** धनं **ददथुः** धारयेथे। तद्धनं **सूनृतावते** स्तुतिवते स्तोत्रे **चोदेथां** प्रेरयतम् । तदर्थं **समनसा** समानमनस्कौ सन्तौ **रथं** युवयोः संबन्धिनम् **अर्वाङ्** अस्मदभिमुखं **नि** **यच्छतं** नियमयतम् । तथा कृत्वा **सोम्यं** सोमसंबन्धिनं **मधु** मधुररसं पिबतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are possessed, leaders (of rites), of marvellous wealth; bestow upon him who sincerely praisesyou; alike favourable-minded, direct your chariot to our presence; drink the sweet **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two have given brilliant sustenance, o you fine men. Hurry it to the  liberal-minded one.  
 You of one mind—stop your chariot nearby. Drink the soma-honey!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heroes, ye bestow wonderful nourishment. send it to him whose songs are sweet  
      Accordant, both of you, drive your car down to us, and drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt wunderbare Speise gegeben, ihr Herren; beeilt euch für den Freigebigen! Lenket eines Sinnes euren Wagen herwärts, trinket den somischen Süßtrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt geschenkt, o Männer, mannichfaches Gut, dem liederreichen führt es zu; Den Wagen lenkt, o gleichgesinnte nah herbei und trinkt den süssen Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы даете поразительную пищу, о два мужа, –  
 Доставьте ее тому, кто богат песнями!  

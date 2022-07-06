@@ -8,7 +8,7 @@ title = "+160"
 ‘ ते हि ' इति पञ्चर्चं चतुर्थं सूक्तं दैर्घतमसं जागतं द्यावापृथिव्यम् । ‘ते हि ' इत्यनुक्रान्तम् ॥ चतुर्विंशेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्धानमेतत्सूक्तं - ‘ते हि द्यावापृथिवी यज्ञस्य वो रथ्यमिति वैश्वदेवम् ' ( आश्व. श्रौ. ७. ४ ) इति सूत्रितत्वात् । तथा पृष्ठ्याभिप्लवषडहयोर्द्वितीयेऽहनि वैश्वदेवे द्यावापृथिव्यं निविद्धानीयं, चातुर्विंशिकं तृतीयसवनम् ( आश्व. श्रौ. ७. ६) इति आभिप्लविके द्वितीयेऽहनि अतिदिष्टत्वात्। आभिप्लविकात् द्वितीयादह्नः पृष्ठ्यस्य द्वितीयेऽहनि एतत्सूक्तमतिदेशतः प्राप्तं, ‘पृष्ठ्यस्याभिप्लवेनोक्ते अहनी आद्ये आद्याभ्याम् ' ( आश्व. श्रौ.  ७. १०) इति सूत्रितत्वात् । प्रथमा आश्विनशस्त्रे विनियुक्ता ।  ‘ संस्थितेष्वाश्विनाय' इत्यत्र सूत्रितं - ते हि द्यावापृथिवी विश्वशंभुवा विश्वस्य देवीमृचयस्य ' ( आश्व. श्रौ. ६. ५) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 160  
 Heaven and Earth  
@@ -19,7 +19,7 @@ One of the notable features of 159 is the relationship between Heaven and Earth 
 Once seen, the pervasive underlying identity of these two hymns cannot be denied,  but it is an index of the art of Dīrghatamas that the poems strike the audience as com pletely distinct and that, as far as we are aware, their patterned similarity has not previ ously been recognized—unlike other such pairs, like the Vālakhilya hymns VIII.49–50,  51–52, or IV.13–14, IX.104–105, as discussed by Bloomfield (1916: 13–14).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
 </details>

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नून꣡म् अश्विना युवं꣡  
 वत्स꣡स्य गन्तम् अ꣡वसे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 युयुतं꣡ या꣡ अ꣡रातयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । अ॒स्मै॒ । य॒च्छ॒त॒म् । अ॒वृ॒कम् । पृ॒थु । छ॒र्दिः । यु॒यु॒तम् । याः । अरा॑तयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre M
 हे **अश्विना** अश्विनौ **युवं** युवां **वत्सस्य** स्तोतुर्मम **अवसे** रक्षणार्थं **नूनम्** अवश्यम् **आ** **गन्तम्** आगच्छतम् । आगत्य च **अस्मै** ऋषये **अवृकं** बाधकरहितं **पृथु** विस्तीर्णं **छर्दिः** गृहं **प्र** **यच्छतं** प्रदत्तम् । तथा **याः** **अरातयः** अदानशीलाः शत्रुभूताः प्रजास्ताः **युयुतं** स्तोतृभ्यः पृथक्कुरुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ genre M
 Protection: vatsasya avase: **vatsa** = stotā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here and now, o Aśvins, come to the aid of Vatsa.  
 Hold out to him broad shelter that keeps the wolf at bay; keep away  
 whatever hostilities there are.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To help and favour Vatsa now, O Asvins, come ye hitherward.  
      Bestow on him a dwelling spacious and secure, and keep malignities away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet nunmehr, o Asvin, zum Beistand des Vatsa; gewähret ihm euren vor Wölfen schützenden, breiten Schirm, haltet die Mißgunst fern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, beide, kommt herbei recht bald nun zu des Vatsa Schutz; Ihm breitet aus den weiten, unbestrittnen Schirm und haltet fern, die gottlos sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тотчас же приезжайте вы,  
 О Ашвины, на помощь Ватсе!  

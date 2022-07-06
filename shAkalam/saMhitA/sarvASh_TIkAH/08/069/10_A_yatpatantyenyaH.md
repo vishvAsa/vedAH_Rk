@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡त् प꣡तन्ति एनि꣡यः  
 सुदु꣡घा अ꣡नपस्फुरः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सो꣡मम् इ꣡न्द्राय पा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒प॒ऽस्फुर॑म् । गृ॒भा॒य॒त॒ । सोम॑म् । इन्द्रा॑य । पात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -92,35 +92,35 @@ genre M
 **यत्** यदा **एन्यः** एतवर्णाः शुभ्रवर्णा नद्यः **आ** **पतन्ति** आगच्छन्ति सर्वतः प्रवहन्ति । कीदृश्यः। **सुदुघाः** सुदोहाः **अनपस्फुरः**। अपस्फुरोऽपस्फुरा अप्रवृद्धाः। अतादृश्योऽनपस्फुरः । अत्यन्तं प्रवृद्धा इत्यर्थः । यद्वा । सुदुघाः प्रवृद्धा एतवर्णा गावो यदा पयआद्यर्थाय आ पतन्ति तदा **अपस्फुरम्** । अत्रापशब्दो धात्वर्थानुवादी । अत्यन्तप्रवृद्धं **सोममिन्द्राय** **पातवे** पातुं **गृभायत** ग्रहणं कुरुत । अथवानपस्फुर इत्यत्राप्यपशब्दोऽनुवादी धात्वर्थस्य । तथा सत्ययमर्थः । यदा एन्यो नद्योऽनपस्फुरोऽप्रवृद्धोदका पतन्ति वृष्टिरल्पा यदा भवति तदा सोममिन्द्रार्थं संपादयतेति ॥ ॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the bright fertilizing rivers flow with diminished waters, then take the overflowing **Soma** for Indrato drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the speckled (cows), who yield good milk and never kick, fly here, take hold of the kicking soma for Indra to drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When bither speed the dappled cows, unflinching, easy to be milked,  
      Seize quickly, as it bursts away, the Soma juice for Indra's drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die bunten, leicht zu melkenden, sich nicht entziehenden Kühe herbeieilen, so haltet fest den sich entziehenden Soma für Indra zum Trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn kommt der bunten Kühe Schar, die ohne Sträuben Milch ergiesst, So fasst den Soma, der sich sträubt, Zum Trunk dem Indra kräftig an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धा꣡मन् ते वि꣡श्वम् भु꣡वनम् अ꣡धि श्रित꣡म्  
 अन्तः꣡ समुद्रे꣡ हृदि꣡ अन्त꣡र् आ꣡युषि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡म् अश्याम म꣡धुमन्तं त ऊर्मि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अ॒पाम् । अनी॑के । स॒म्ऽइ॒थे । यः । आऽभृ॑तः । तम् । अ॒श्या॒म॒ । मधु॑ऽमन्तम् । ते॒ । ऊ॒र्मिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhāman*
 - \[noun\], locative, singular, neuter
@@ -129,7 +129,7 @@ genre D
 **ते** त्वदीये **धामन्** धामनि तेजःस्थाने **विश्वं** **भुवनम्** **अधि** **श्रितम्** । **अन्तः** **समुद्रे** वडवाग्नित्वेन **हृद्यन्तः** सर्वप्राणिनां हृदये वैश्वानरत्वेन **आयुषि** अन्ने सर्व प्राण्याहारत्वेन । यद्वा । आयुषीत्येतत् हृद्विशेषणम् । जठराग्निना खल्वायुः धार्यते । **अपामनीके** उदकसंस्त्याये वैद्युताग्नित्वेन **समिथे** संग्रामे च शौर्याग्निरूपेण । एवं सर्वेषु स्थानेषु वर्तमानं धाम । तस्मिन् धामनि **यः** ऊर्मिर्घृतरूप उदकरूपो वा रसः **आभृतः** स्थापितः **ते** त्वदीयं **तं** रसं **मधुमन्तं** माधुर्योपेतम् **अश्याम** व्याप्नुयाम ॥ ॥ ११ ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,28 +140,28 @@ genre D
 **Dhāman** te viśvam bhuvanam adhiśritam: dhāman = **tejaḥ** sthāne, in the plural ce of brightness or heat (or vibhutyam, superhuman power); the purport is to identify all things with Agni, present in the ocean as submarine fire, in men as **vaiśvānara**, an etymological pun from **viśva**, all and **nara**, man; in life, āyuṣi, as the vital principle, or **āyus**. may mean food, **anna**, when the digestive fire is intended; in the assembled waters or the firmament, as lightning; in war, as the metaphorical fire of valour; that sweet-flavoured wave: **ūrmiḥ** ya ābhṛtaḥ, the wave which is so deposited, sthāpitaḥ, may imply either the butter of the oblation, or water in the shape of rain. The reference to **madhu** in this and previous verse, establish that the implied reference is o **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the living world is firmly fixed in your domain, within the sea in  your heart, within your lifespan.  
 The one that was borne hither at the forefront of the waters in their  joining, that one may we attain—your most honeyed wave.Volume II
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The universe depends upon thy power and might within the sea, within the heart, within all life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dein Wesen ist die ganze Welt gestellt, auf deine Lebenskraft im Meer, im Herzen. Deine süße Woge, die auf dem Antlitz der Gewässer in deren Zusammenfluß herangebracht ward, die möchten wir erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An deine Stätte schmiegt die ganze Welt sich an, im Meer, im Herzen, und in allem, was da lebt; Erlangen mögen deine süsse Welle wir, die hingetragne zur Vermischung mit der Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На тебя как на основу опирается все мироздание  
 В океане – сердце, в силе жизни.  

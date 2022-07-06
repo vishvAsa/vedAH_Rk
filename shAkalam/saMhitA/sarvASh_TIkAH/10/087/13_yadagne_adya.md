@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अग्ने अद्य꣡ मिथुना꣡ श꣡पातो  
 य꣡द् वाच꣡स् तृष्टं꣡ जन꣡यन्त रेभाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡या विध्य हृ꣡दये यातुधा꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 म॒न्योः । मन॑सः । श॒र॒व्या॑ । जाय॑ते । या । तया॑ । वि॒ध्य॒ । हृद॑ये । या॒तु॒ऽधाना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -128,36 +128,36 @@ popular
 हे **अग्ने** **यत्** यदा **अद्य** अस्मिन्नहनि **मिथुना** स्त्रीपुंसौ **शपातः** परस्परमाक्रोशतः **यत्** यदा **रेभाः** स्तोतारः **वाचः** संबन्धि **तृष्टं** कटुकं परस्पराक्रोशलक्षणमधरं वा **जनयन्त**। परस्परमाक्रोशन्तीत्यर्थः । तदा **मन्योः** दीप्तस्य क्रुद्धस्य वा तव । तथा च यास्कः - ‘ मन्युर्मन्यतेर्दीप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा ' ( निरु. १०. २९) इति । **मनसः** सकाशात् **या** **शरव्या** इषुः **जायते** **तया** शरव्यया **यातुधानान्** राक्षसान् **हृदये** 'विध्य ताडय। मारयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Today, **Agni**, when the married pair curse each other, then the praisers produce bitter words (in angeragainst each other), do you pierce the **Yātudhānas** through the heart with your arrow, which is genitive rated fromyour wrathful mind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What today two opponents will utter as curses (at each another), o Agni,  what harshness of speech those with hoarse voices will give birth to,  
 what missile is born from the mind’s fury, with that pierce the sorcerers  in the heart.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, what curse the pair this day have uttered, what heated word the worshippers have spoken,  
      Each arrowy taunt sped from the angry spirit,-pierce to the heart therewith the Yatudhanas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was heute, Agni, ein streitendes Paar flucht, was Giftiges an Rede die Barden vorbringen, was als Pfeilregen des Zorns aus dem Geiste geboren wird, damit triff die Zauberer ins Herz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn paarweis' heut die Bösen fluchen, Agni, wenn redend rauhe Worte sie erzeugen, Dann mit dem Pfeilschuss, der dem Zorn entstammet, durchbohr der bösen Zaubergeister Herzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что, о Агни, сегодня проклинают пары,  
 Что грубого в речи порождают певцы,  

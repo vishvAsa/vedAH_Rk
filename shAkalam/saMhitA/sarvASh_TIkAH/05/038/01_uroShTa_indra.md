@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरो꣡ष् ट इन्द्र रा꣡धसो  
 विभ्वी꣡ रातिः꣡ शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द्युम्ना꣡ सुक्षत्र मंहय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । नः॒ । वि॒श्व॒ऽच॒र्ष॒णे॒ । द्यु॒म्ना । सु॒ऽक्ष॒त्र॒ । मं॒ह॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uroṣ* ← *uroḥ* ← *uru*
 - \[noun\], genitive, singular, neuter
@@ -96,41 +96,41 @@ genre M
 हे **इन्द्र** **शतक्रतो** बहुकर्मन् **ते** तव **उरोः** प्रभूतस्य **राधसः** धनस्य **रातिः** दानं **विभ्वी** महती । **अध** अतः कारणात् **नः** अस्मभ्यं हे **विश्वचर्षणे** सर्वस्य द्रष्टः **सुक्षत्र** शोभनधनेन्द्र । क्षत्रमिति धननाम । **द्युम्ना** द्युम्नानि **धनानि** **मंहय** प्रयच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** of many exploits, liberal is the distribution of your abundnat riches; therefore, all-beholder, possessor of excellent wealth, bestow upon us opulence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Extensive is the giving of your broad largesse, o Indra of a hundred  resolves.  
 So make ready to give to us brilliant things, you of good lordship who  govern all domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is somewhat awk., with (by my interpr. and Geldner’s) a genitive phrase uróḥ … rā́dhasaḥ “of your broad largess” dependent on an almost synonymous nom. phrase vibhvī́rātíḥ “extensive giving.” Witzel Gotō apparently take the first not as gen., but as abl., indicating the source of the giving: “Von deiner … weitreichenden Gunst aus entfaltet sich die Gabe.” This seems like a good idea and mitigates the awkwardness. I would then change the published translation to “Your extensive giving (comes) from your broad generosity.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WIDE, Indra Satakratu, spreads the bounty of thine ample grace:  
      So, Lord of fair dominion, Friend of all men, give us splendid wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reichlich ist die Gabe deiner ausgedehnten Freigebigkeit, du ratreicher Indra. Darum spende uns Herrlichkeiten, allbekannter guter Herrscher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gab' ist gross, vielwirkender, o Indra, deines reichen Guts; So schenk uns, aller Menschen Freund, viel Reichthum, mächtig herrschender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У твоей широкой щедрости, о Индра,  
 Обильный дар, о стоумный.  

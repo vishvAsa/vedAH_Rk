@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अविष्टं꣡ धीषु꣡ अश्विना न आसु꣡  
 प्रजा꣡वद् रे꣡तो अ꣡ह्रयं नो अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुर꣡त्नासो देव꣡वीतिं गमेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । तो॒के । तन॑ये । तूतु॑जानाः । सु॒ऽरत्ना॑सः । दे॒वऽवी॑तिम् । ग॒मे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aviṣṭaṃ* ← *aviṣṭam* ← *av*
 - \[verb\], dual, Aorist imperative
@@ -126,36 +126,36 @@ genre M
 हे **अश्विना** अश्विनौ **नः** अस्मान् **आसु** **धीषु** एषु कर्मसु **अविष्टं** रक्षतम् । **नः** अस्मभ्यम् **अह्रयम्** अक्षीणं **प्रजावत्** पुत्राद्युपेतं पुत्रोत्पादनसमर्थं **रेतः** **अस्तु** । **वां** युवयोरनुग्रहाल्लब्धे **तोके** पुत्रे **तनये** तत्पुत्रादौ च **तुतुजानाः** अभिमतं धनं प्रयच्छन्तः **सुरत्नासः** शोभनधनाश्च सन्तः **देववीतिं** देवानां वीतिः प्राप्तिर्यस्मिंस्तादृशं यज्ञम् **आ** **गमेम** आगच्छेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect us, **Aśvins**, in these pious acts, may our procreative power fail not; but (through your favour)possessing sons and grandsons, distributing desired riches and enjoying ample wealth, may we accomplish theworship of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Help us in these insights, Aśvins. Let our child-producing seed be  abundant.  
 Propagating ourselves in kith and kin, possessing good riches, we would  go to our godly pursuit of you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Favour us in these prayers of ours, O Asvins. May we have genial vigour, ne'er to fail us.  
      So may we, strong in children and descendants, go, wealthy, to the banquet that awaits you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Helfet uns, ihr Asvin, bei diesen Gedichten; kinderreicher Same soll uns werden, dessen man sich nicht schämt. In leiblicher Nachkommenschaft uns fortpflanzend wollen wir gutbelohnt die Götterladung an euch begehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seid hold, o Ritter, uns bei diesen Bitten; sei kinderzeugend, reichlich unser Same; Nach Kind und Enkeln eifrig strebend mögen mit Schatz versehn zu eurem Mahl wir kommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержите вы нас, о Ашвины, с этими произведениями!  
 Да будет наше семя дающим потомство, обильным!  

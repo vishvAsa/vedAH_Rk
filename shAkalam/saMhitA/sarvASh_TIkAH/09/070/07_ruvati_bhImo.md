@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रुव꣡ति भीमो꣡ वृषभ꣡स् तविष्य꣡या  
 शृ꣡ङ्गे शि꣡शानो ह꣡रिणी विचक्षणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गव्य꣡यी त्व꣡ग् भवति निर्णि꣡ग् अव्य꣡यी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । योनि॑म् । सोमः॑ । सुऽकृ॑तम् । नि । सी॒द॒ति॒ । ग॒व्ययी॑ । त्वक् । भ॒व॒ति॒ । निः॒ऽनिक् । अ॒व्ययी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ruvati* ← *ru*
 - \[verb\], singular, Present indikative
@@ -133,7 +133,7 @@ genre M
 **भीमः** शत्रूणां भयंकरः **वृषभः** कामानामुदकानां वा वर्षणः **विचक्षणः** सर्वस्य विदर्शनशीलः स पवमानः **तविष्यया** । तु इति वृद्ध्यर्थः । अस्मात् “ अच इः' (उ. सू. ४. १३८ ) इति इप्रत्ययः । तस्मादिच्छायामर्थे क्यच् । सर्वप्रातिपदिकेभ्यः (का. ७.१.५१.३ ) इति सुगागमः । आत्मनो बलेच्छया **हरिणी** हरितवर्णे द्वे **शृङ्गे** **शिशानः** तीक्ष्णीकुर्वन् द्रोणकलशं प्रति द्वाभ्यां धाराभ्यां स्थाल्याग्रयणं गृह्णाति । तदुच्यते । ते धारारूपशृङ्गे तीक्ष्णीकुर्वन् **रुवति** शब्दायते । ‘रु शब्दे'। ‘बहुलं छन्दसि' इति शः । ततः सः **सोमः** **सुकृतं** सुष्ठु कृतं **योनिं** स्वस्थानं द्रोणकलशम् **आ** **नि** **षीदति** समन्तात्तिष्ठति । तस्य सोमस्य **निर्णिक्** निर्नेक्त्री परिशोधयित्री **गव्ययी** गोमयी **त्वग्भवति** । आनडुहे हि चर्मणि सोमाभिषवः । एवम् **अव्ययी** अविमयी त्वक् च निर्नेक्त्री भवति । तद्धि दशापवित्रापेक्ष्यमभिहितम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre M
 His green-tinted horns: i.e., the streams of the Soma juice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fearsome bull bellows forcefully, sharpening his golden horns,  wide-gazing.  
 Soma sits down upon his well-made womb. His skin comes to be made  of cattle; his garment of sheep.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fearful Bull is bellowing with violent might, far-sighted, sharpening his yellowcoloured horns.  
      Soma assumes his seat in the well-fashioned place: the cowhide and the sheepskin are his ornament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllt der furchtbare Bulle im Gefühl seiner Stärke, die goldenen Hörner wetzend, der Weitschauende. Soma setzt sich in den wohlbereiteten Schoß nieder. Vom Rind ist das Fell, vom Schaf sein neues Kleid.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es brüllt der Stier, der schreckliche, mit Ungestüm, die goldnen Hörner wetzend schaut er weithin aus, Es setzt sich Soma auf den schöngeschmückten Schooss, sein Fell vom Rinde und vom Schafe sein Gewand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ревет страшный бык с огромной силой,  
 Оттачивая золотистые рога, глядя далеко.  

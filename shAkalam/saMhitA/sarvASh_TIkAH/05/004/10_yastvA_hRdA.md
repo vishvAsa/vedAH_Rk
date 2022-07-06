@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा हृदा꣡ कीरि꣡णा म꣡न्यमानो  
 अ꣡मर्तियम् म꣡र्तियो जो꣡हवीमि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजा꣡भिर् अग्ने अमृतत्व꣡म् अश्याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जात॑ऽवेदः । यशः॑ । अ॒स्मासु॑ । धे॒हि॒ । प्र॒ऽजाभिः॑ । अ॒ग्ने॒ । अ॒मृ॒त॒ऽत्वम् । अ॒श्या॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **यः** **मर्त्यः** मरणधर्माहम् **अमर्त्यम्** अविनाशं **त्वा** त्वां **कीरिणा** स्तुत्यादिषु विक्षिप्तेन **हृदा** हृदयेन युक्तः **मन्यमानः** स्तुवन् **जोहवीमि** अत्यर्थमाह्वयामि । यद्वा । स्तोतृवाचकेन कीरिणाशब्देन स्तुतिरुपलक्ष्यते । स्तुतियुक्तेन मनसा त्वां मन्यमानो जोहवीमि । हे **जातवेदः** **यशः** धनं प्रजां वा **अस्मासु** **धेहि** । **प्रजाभिः** त्वद्दत्ताभिर्हे **अग्ने** अहम् **अमृतत्वं** संतत्यविच्छेदलक्षणम् **अश्यां** प्राप्नुयाम् । प्रजामनु प्रजायसे तदु ते मर्त्यामृतम्' (तै. ब्रा. १. ५. ५. ६ ) इति हि श्रुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,34 +126,34 @@ genre M
 Immortality: an unbroken succession of descendants, amṛtatvam santatyaviccheda lakṣaṇam (amṛtatvam = tadu te partyāmṛtam : **Taittirīya** **Brāhmaṇa** 1.5.5.6); another text may be cited: prajām anu prajāyate tad u te martyamṛtam, when progeny is born after progeny, that verily is the immortality of your mortality
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thinking with a simple heart, I, a mortal, who repeatedly invoke you,  an immortal—  
 among us grant glory, o Jātavedas. May I attain immortality through  offspring, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As I, remembering thee with grateful spirit, a mortal, call with might on thee Immortal,  
      Vouchsafe us high renown, O Jatavedas, and may I be immortal by my children.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When I, the mortal, call thee, the immortal, thinking of thee with humble mind 1, bestow glory on us, O Gâtavedas; may I attain immortality, O Agni, with my offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich mit dem bloßen Herzen deiner gedenkend, ich der Sterbliche nach dir dem Unsterblichen rufe, so verleih uns, o Jatavedas, Ehre! Durch Kinder möchte ich, Agni, Unsterblichkeit erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der dankerfüllten Herzens dein gedenkend, ich Sterblicher dich rufe, der unsterblich; O Wesenkenner schenke hohen Ruhm uns und lass durch Kinder mich unsterblich werden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Думая о тебе от чистого сердца,  
 Когда я, смертный, зову тебя, бессмертного –  

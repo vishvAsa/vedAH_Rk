@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अन्ये꣡ प꣡रि आसते  
 अस्म꣡त् स्तो꣡मेभिर् अश्वि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 गीर्भि꣡र् वत्सो꣡ अवीवृधत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒त्रः । कण्व॑स्य । वा॒म् । ऋषिः॑ । गीः॒ऽभिः । व॒त्सः । अ॒वी॒वृ॒ध॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -101,35 +101,35 @@ genre M
 **अस्मत्** अस्मत्तः **अन्ये** व्यतिरिक्ताः स्तोतारः **स्तोमेभिः** स्तोत्रैः **अश्विना** अश्विनौ देवौ **किं** **पर्यासते** । अस्मद्यतिरिक्ताः केऽप्यश्विनौ स्तोतुं न शक्नुवन्तीत्यर्थः । कण्वस्य ऋषेः **पुत्रः** **ऋषिः** मन्त्रद्रष्टा **वत्सः** **गीर्भिः** स्तुतिभिर्हे अश्विनौ **वां** युवाम् अवीवृधत् अवर्धयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What others than ourselves adore the **Aśvins** with praises? The Ṛṣi **Vatsa**, the son of **Kaṇva**, hasmagnified you with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do those other than us sit around (you) with their praise songs, Aśvins? The son of Kaṇva, the seer Vatsa, has strengthened you with his hymns!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do others more than we adore the Asvins with their hymns of praise?  
      The Rsi Vatsa, Kanva's son, hath magnified you with his songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Warten noch andere als wir mit Lobliedern auf die Asvin? Des Kanva Sohn, der Rishi Vatsa, hat euch mit Lobreden erbaut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was huld'gen andre noch als wir, den beiden Rittern mit Gesang? Mit Liedern hat des Kanva Sohn, der Dichter Vatsa euch erfreut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почему другие, чем мы,  
 Служат восхвалениями Ашвинам?  

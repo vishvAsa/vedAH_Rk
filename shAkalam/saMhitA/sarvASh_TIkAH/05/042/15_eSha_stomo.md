@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्तो꣡मो मा꣡रुतं श꣡र्धो अ꣡छा  
 रुद्र꣡स्य सूनूँ꣡र् युवन्यूँ꣡र् उ꣡द् अश्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡प स्तुहि पृ꣡षदश्वाँ अया꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कामः॑ । रा॒ये । ह॒व॒ते॒ । मा॒ । स्व॒स्ति । उप॑ । स्तु॒हि॒ । पृष॑त्ऽअश्वान् । अ॒यासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -123,20 +123,20 @@ genre M
 **एषः** मया संपादितः **स्तोमः** स्तोत्रं **मारुतं** **शर्धः** मरुतां बलम् **अच्छ** अभिमुखम् **अश्याः** प्राप्नोतु । समुदायरूपेण स्तुत्वा समुदायिरूपेणाह। **रुद्रस्य** **सूनून्** । एषां रुद्रेण पुत्रत्वेन परिक्लृप्तिरसकृदुक्ता। **युवन्यून** यूनो मिश्रणेच्छून्वा **उत्** उन्नतमत्यधिकम् अश्याः व्याप्नुहि हे मनः । **कामः** संकल्पः **राये** धनार्थं **मा** मां स्वस्ति अविनश्वरं हवते आह्वयनि प्रेरयतीत्यर्थ:। यस्मादेवं तस्मात् पृषदश्वान् पृषद्वर्णाश्वोपेतान् **अयासः** यज्ञगन्तॄन् **उप** उपेत्य स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this hymn reach up to the presence of the might of the **Maruts** the youthful sons of **Rudra**; the desire of riches incites me to holiness; glorify those who go to sacrifice on spotted steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May this praise reach up to the Marutian troop, to the youthful sons  of Rudra.  
 Desire calls me to wealth with well-being. Praise the unruly ones with  dappled horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details open><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -146,23 +146,23 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this my laud attain the troop of Maruts, those who are youths in act, the Sons of Rudra.  
      The wish calls me to riches and well-being: praise the unwearied Ones whose steeds are dappled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Lob soll bis zu der marutischen Heerschar, bis zu den jugendfrohen Söhnen des Rudra empordringen. Der Wunsch ruft mich zu Reichtum und Glück: Besinge die mit gefleckten Rossen Fahrenden, die Unverdrossenen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Loblied dring' empor zur Schar der Maruts, hin zu des Rudra jugendlichen Söhnen; Der Wunsch nach Reichthum ruft mich an zum Heile: »die muntern Lenker bunter Rosse preise.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть достигнет это восхваление толпы Марутов  
 Юных сыновей Рудры!  

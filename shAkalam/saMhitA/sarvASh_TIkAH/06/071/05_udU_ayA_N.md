@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ऊ अयाँ उपवक्ते꣡व बाहू꣡  
 हिरण्य꣡या सविता꣡ सुप्र꣡तीका  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रीरमत् पत꣡यत् क꣡च् चिद् अ꣡भ्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । रोहां॑सि । अ॒रु॒ह॒त् । पृ॒थि॒व्याः । अरी॑रमत् । प॒तय॑त् । कत् । चि॒त् । अभ्व॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 **सविता** **उपवक्तेव** अस्माकमधिवक्तेव **हिरण्यया** हिरण्मयौ **सुप्रतीका** शोभनावयवौ **बाहू** **उत्** **अयान्** उद्यच्छतु । योऽयं **पृथिव्याः** पृथिवीपर्यन्तात् **दिवः** अन्तरिक्षस्य **रोहांसि** उच्छ्रितप्रदेशान् **अरुहत्** रोहति । **पतयत्** गच्छत् **कच्चित्** यत्किंचित् **अभ्वं** महत् सर्वं वस्तुजातं तिरोहितम् **अरीरमत्** रमयति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,39 +122,39 @@ genre M
 Like an orator: upavaktā iva, like one who addresses or advises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And up has Savitar raised his golden arms with their lovely fronts like  the Upavaktar priest.  
 He has mounted the heights of heaven, of earth; he has brought to rest  whatever is flying, even the formless [=wind].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner, flg. Sāyaṇa, supplies rayím in ab, quite persuasively because the same phrase apatyasā́cam śrútyam explicitly modifying rayím is found in I.117.23, II.30.11. Renou suggests rather śúṣmam on the basis of c, but this does not enter into the same formulaic nexus and seems a less likely gift in any case.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a Director, Savitar hath extended his golden arms, exceeding fair to look on.  
      He hath gone up the heights of earth and heaven, and made each monster fall and cease from troubling.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Like one who rouses, Savitar has stretched out His golden arms that are so fair of aspect. The heights of heaven and earth he has ascended, And made each flying monster cease from troubling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri hat die goldigen Arme, die von schönem Ansehen, erhoben wie der Upavaktri. Er hat die Höhen des Himmels, der Erde bestiegen, und jedes fliegende Ungetüm hat er zur Ruhe verwiesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die glänzendschönen, goldnen Arme streckte Gott Savitar empor wie ein Gebieter, Bestieg des Himmels und der Erde Höhen, zur Ruhe bracht' er jedes jähe Grauen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он воздел кверху руки, словно (жрец-) упавактар,  
 Золотые, прекрасного вида (руки, этот) Савитар.  

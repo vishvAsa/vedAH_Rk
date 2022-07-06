@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अकृणोद् उष꣡सः सुप꣡त्नीर्  
 अयं꣡ सू꣡र्ये अदधाज् ज्यो꣡तिर् अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रिते꣡षु विन्दद् अमृ꣡तं नि꣡गूळ्हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । त्रि॒ऽधातु॑ । दि॒वि । रो॒च॒नेषु॑ । त्रि॒तेषु॑ । वि॒न्द॒त् । अ॒मृत॑म् । निऽगू॑ळ्हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 **अयं** सोमः **उषसः** उषःकालान् **सुपत्नीः** शोभनः पतिः पालकः सूर्यो यासामुषसां तादृशीः **अकृणोत्** अकरोत् । **अयम्** एव **सूर्ये** सूर्यमण्डले **अन्तः** मध्ये **ज्योतिः** तेजः **अदधात्** निहितवान् । **त्रिधातु** सवनत्रयरूपेण त्रिप्रकारम् **अयं** लतारूपः सोमः **दिवि** द्युलोके **रोचनेषु** रोचमानेषु **त्रितेषु** तृतीये स्थाने ततेषु विस्तृतेषु देवेषु **निगूळ्हं** नितरां गूढमदृश्यतया वर्तमानम् **अमृतम्** अमृतत्वकारणं पीयूषं **विन्दत्** अविन्दत् अलभत । हे इन्द्र त्वत्साहाय्यादेवमेवं सोमः कृतवानिति इन्द्रस्य स्तुतिरधिगन्तव्या। यद्वा । इदंशब्देनेन्द्र एव परामृश्यते । अयमिन्द्र उषसः शोभनपतिका अकरोत् । अयमेव सूर्येऽन्तर्ज्योतिरदधात् । दिवि द्युलोके रोचमानेषु त्रितेषु त्रिस्थानगतेषु देवेषु मध्येऽयमेवेन्द्रस्त्रिधातु सवनत्रयात्मना त्रिप्रकारं निगूढ़ं पात्रैः संवृतममृतममरणहेतुभूतं सोममन्विदत् अलभत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 **Ayam** tridhātu **divi** rocaneṣu, triteṣu, triteṣu vindat **amṛtam** nigūḷham = Soma becomes as it were ambrosia when received or concealed in the vessels at the three diurnal ceremonies, which ambrosia is properly deposited with the gods abiding in the third bright sphere, or in heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one gave the dawns a good husband; this one placed light within  the sun.  
 This one found the threefold immortal one hidden in heaven among the  third realms of light.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out (n. 23cd), in the 2nd hemistich Soma the god is differentiated from soma the drink, with the god finding the distant, hidden drink.
 
@@ -164,23 +164,23 @@ As noted in the published introduction, repetition also characterizes this tṛc
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Dawns he wedded to a glorious Consort, and set within the Sun the light that lights him.  
      He found in heaven, in the third lucid regions, the threefold Amrta in its close concealment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser gab den Usas einen guten Gemahl, dieser legte das Licht in die Sonne. Dieser fand im Himmel bei den Lichtern, bei den Trita´s den dreifach verborgenen Göttertrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Morgenröthen schafft' er gute Gatten, und setzte hellen Lichtglanz in die Sonne; Er fand im Himmel in den dritten Sphären dreifach gemischten Göttertrank, verborg'nen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он дал утренним зорям хорошего мужа,  
 Он вложил свет в солнце.  

@@ -8,7 +8,7 @@ title = "+141"
 ‘बळित्था' इति त्रयोदशर्चं द्वितीयं सूक्तं दैर्घतमसं जागतम् । अन्त्ये त्रिष्टुभौ । अग्निर्देवता । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 141  
 Agni  
@@ -22,7 +22,7 @@ The rest of the hymn is somewhat more conventional, beginning with verse 9,  whe
 All in all, a tour de force of virtuosity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni See published introduction. for discussion of enjambement and other special effects in this hymn.
 </details>

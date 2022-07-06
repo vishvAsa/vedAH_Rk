@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ध नूनं꣡ य꣡द् वा यज्ञे꣡  
 य꣡द् वा पृथिविया꣡म् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उग्र꣡ उग्रे꣡भिर् आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 अतः॑ । नः॒ । य॒ज्ञम् । आ॒शुऽभिः॑ । म॒हे॒ऽम॒ते॒ । उ॒ग्रः । उ॒ग्रेभिः॑ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaddha* ← *yat*
 - \[adverb\]
@@ -122,35 +122,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether you are now present at a sacrifice, or whether you are abroad on the earth, come from thencewith your swift steeds to our sacrifice, O you of lofty counsel, come, strong one, with the strong (steeds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whether now (you are) either at (another’s) sacrifice or (elsewhere) on  the earth,  
 from there come here to our sacrifice with your swift (horses), you of  great thought, powerful with your powerful (ones).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reason for the three yád’s in ab isn’t clear. It may be that the duplications and unnecessary markings noted in this verse and the preceding one are signs of apprentice compositions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du jetzt, sei es bei einem Opfer oder sonstwo, auf der Erde bist, so komm von da mit deinen Rennern zu unserem Opfer, du Hochherziger, als Gewaltiger mit den gewaltigen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du bei einem Opfer jetzt, und wenn du auf der Erde weilst, So komm von da zu unserm Opfer hochgesinnt, mit starken Rennern, starker du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если (ты) сейчас или на жертвоприношении,  
 Или же (еще где) на земле (находишься),  

@@ -9,7 +9,7 @@ title = "+159"
 सूत्र्यते हि--' एतेनैव कामेनोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते ' ( आप. गृ. ९.२) इति । अत्र एतेन इति प्रकृतं सपत्नीबाधनं परामृश्यते ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 159 (985)  
 Against Cowives  

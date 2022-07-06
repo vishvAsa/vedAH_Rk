@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दियउ꣡श् चिद् अस्य अ꣡मवाँ अ꣡हेः स्वना꣡द्  
 अ꣡योयवीद् भिय꣡सा व꣡ज्र इन्द्र ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡दे सुत꣡स्य श꣡वसा꣡भिनच् छि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒त्रस्य॑ । यत् । ब॒द्ब॒धा॒नस्य॑ । रो॒द॒सी॒ इति॑ । मदे॑ । सु॒तस्य॑ । शव॑सा । अभि॑नत् । शिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
@@ -126,42 +126,42 @@ genre M
 **अमवान्** बलवान् **द्यौश्चित्** द्युलोकोऽपि **अस्य** **अहेः** वृत्रस्य **स्वनात्** शब्दात् **भियसा** भयेन **अयोयवीत्** अत्यर्थं पृथग्भूत आसीत् । अकम्पतेत्यर्थः । हे **इन्द्र** **ते** तव **सुतस्य** अभिषवादिभिः संस्कृतस्य सोमस्य पानेन **मदे** हर्षे जाते सति त्वदीयः **वज्रः** **रोदसी** द्यावापृथिव्यौ **बद्बधानस्य** बाधनशीलस्य **वृत्रस्य** **शिरः** **यत्** यदा **शवसा** बलेन **अभिनत्** अच्छिनत् । तदानीं द्युलोको भयराहित्येन निश्चलो बभूवेति शेषः ॥ अयोयवीत् ।' यु मिश्रणामिश्रणयोः '। अस्मात् यङ्लुगन्तात् लङि ‘यङो वा ' (पा. सू. ७. ३. ९४ ) इति अपृक्तप्रत्ययस्य ईडागमः । अडागम उदात्तः । बद्बधानस्य ।  ‘ बाधृ विलोडने ' । ताच्छीलिके चानशि  ‘ बहुलं छन्दसि ' इति शपः श्लुः । हलादिशेषाभावो धातोर्ह्रस्वत्वं च छान्दसत्वात् । चितः' इत्यन्तोदात्तत्वम् ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The strong heaven was rent asunder with fear at the clamour of that Ahi, when you, **Indra**, was inspired by (drinking) the effused (**Soma**), and your thunderbolt in its vigour struck off the head of **Vṛtra**, the obstructor of heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even formidable heaven kept retreating from the sound of this serpent  and in fear at your mace, Indra,  
 when, in the exhilaration of the pressed soma, with your vast power  you split the head of Vr̥tra, who was pressing harder and harder  
 upon the two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I agree with Geldner (against Pp, Grassmann, Oldenberg, Renou, Witzel Gotō) that loc. vájre should be read for Pp. nom. vájraḥ and that this locative is functionally, but not grammatically, parallel with áheḥ svanā́t “from the sound of the serpent.” With Geldner and Oldenberg (and back at least to Ludwig), I see no choice but to accent the apparent voc. rodasī as ródasī. In the published translation it should therefore be marked with an asterisk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then Heaven himself, the mighty, at that Dragon's roar reeled back in terror when, Indra, thy thunderbolt  
      In the wild joy of Soma had struck off with might the head of Vrtra, tyrant of the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sogar der gewaltige Himmel wich aus Furcht vor dem Getöse dieses Drachens deiner Keule aus, o Indra, als du im Rausche des Soma mit Macht den Kopf des Vritra spaltest, der die beiden Welthälften bedrängte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da barst der starke Himmel selbst vor dem Geschrei des Drachens voller Furcht, o Welten, als dein Blitz, O Indra, voller Kraft des Vritra Haupt zerschlug, des eingezwängten, als vom Soma du berauscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Само грозное небо из-за рева этого змея  
 Отступило от страха, когда твоя ваджра, о Индра,  

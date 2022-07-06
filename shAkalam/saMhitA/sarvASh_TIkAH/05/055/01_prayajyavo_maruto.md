@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡यज्यवो मरु꣡तो भ्रा꣡जदृष्टयो  
 बृह꣡द् व꣡यो दधिरे रुक्म꣡वक्षसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ईय॑न्ते । अश्वैः॑ । सु॒ऽयमे॑भिः । आ॒शुऽभिः॑ । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prayajyavo* ← *prayajyavaḥ* ← *prayajyu*
 - \[noun\], nominative, plural, masculine
@@ -121,20 +121,20 @@ genre M
 **प्रयज्यवः** प्रकर्षेण यष्टारः **भ्राजदृष्टयः** दीप्तायुधाः **मरुतः** **बृहत्** प्रभूतं **वयः** यौवनलक्षणं प्रभूतमन्नं वा **दधिरे** धारयन्ति । **रुक्मवक्षसः** हारयतवक्षस्काः । ते मरुतः **सुयमेभिः** सुखेन नियमितुं शक्यैः **आशुभिः** शीघ्रगैः **अश्वैः** **ईयन्ते** प्राप्यन्ते । **शुभं** शोभनं यथा भवति तथा । यद्वा । उदकमभिलक्ष्य **यातां** गच्छतां मरुतां **रथाः** अपि **अनु** **अवृत्सत** अनुवर्तन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The adorable **Maruts**, armed with bright lances and cuirassed with golden breast-plural tes, enjoy vigorous existence; may the ears of the quick-moving (Maruts) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts, worshiped at the forefront of the sacrifice, with glinting  spears and brilliants on their breasts, assumed their lofty vigor.  
 They speed with their horses, swift but easy to control. – As they drove  in beauty their chariots rolled along.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question about práyajyu- is how technically it is meant; I here follow Renou
 
@@ -143,23 +143,23 @@ The first hemistich recalls vs. 11 in the previous hymn, esp. in the bahuvrīhi 
 The idiom śúbham √yā is used of the Maruts elsewhere, in nearby V.57.2 as well as I.23.11; cf. also the cmpds śubhaṃ-yā́(van)-. My “drove in beauty” is of course a conscious echo of Byron’s “She walks in beauty, like the night.” A different kind of English resonance would be offered by “gone to glory.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH gleaming lances, with their breasts adorned with gold, the Maruts, rushing onward, hold high power of life.  
      They hasten with swift steeds easy to be controlled. Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die opfersamen Marut mit blinkenden Speeren, mit Goldmünzen auf der Brust haben sich hohe Kraft zugelegt. Sie eilen mit lenksamen schnellen Rossen. - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schnellen Maruts angethan mit blankem Speer, Gold an den Brüsten haben grosse Kraft erlangt, Mit leichtgelenkten raschen Rossen eilen sie, es rollen ihre Wagen, wenn zum Schmuck sie gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почитаемые в начале обряда Маруты со сверкающими копьями  
 С золотыми пластинами на груди приобрели высокую жизненную силу.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡रो ये꣡ के꣡ च अस्म꣡द् आ꣡  
 वि꣡श्वे꣡त् ते꣡ वाम꣡ आ꣡ सियुः  
 अग्निं꣡ हवि꣡षा व꣡र्धन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अ॒ग्निम् । ह॒विषा॑ । वर्ध॑न्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
@@ -105,7 +105,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **नरः** नेतारः **ये** **के** **च** ये केचित् पुत्रपौत्रादयः **अस्मत्** अस्माकं सन्ति । आकारः पूरकः । **ते** पुत्रपौत्रादयः **वामे** वननीये संभजनीये **विश्वेत्** विश्वस्मिन्नेव पश्वादिधने **आ** **स्युः** आ समन्ताद्भवेयुः । उपविशेयुरित्याशास्महे । किं कुर्वन्तः । **अग्निम्** अङ्गनादिगुणविशिष्टं देवं **हविषा** पुरोडाशादिकेन **वर्धन्तः** वर्धयन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 All the men who belong to us: i.e., the sons and grandsons of the worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whichever superior men are from among us, they should all be “in  the money”  
 when they make Agni increase with their oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blest evermore be all the men who come from us, who magnify  
      Agni with sacrificial gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Männer , die zu uns gehören, die sollen alle im Glück sein, da sie den Agni mit Opfergabe groß machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Alle Männer von den unsern mögen sämmtlich Glück erlangen, Die mit Opfer Agni stärken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие бы мужи от нас ни (исходили),  
 Все они будут счастливы,  

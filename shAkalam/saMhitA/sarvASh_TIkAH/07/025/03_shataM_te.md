@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ ते शिप्रिन् ऊत꣡यः सुदा꣡से  
 सह꣡स्रं शं꣡सा उत꣡ राति꣡र् अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ द्युम्न꣡म् अ꣡धि र꣡त्नं च धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ज॒हि । वधः॑ । व॒नुषः॑ । मर्त्य॑स्य । अ॒स्मे इति॑ । द्यु॒म्नम् । अधि॑ । रत्न॑म् । च॒ । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
@@ -125,7 +125,7 @@ genre M
 हे शिप्रिन् उष्णीषिन्निन्द्र **ते** त्वदीयाः **शतं** बह्यः ी **ऊतयः** रक्षाः **सुदासे** शोभनदानाय मह्यं सन्तु । **सहस्रं** **शंसाः** शंसनीयाः कामाश्च सन्तु। **उत** अपि च **रातिः** धनम् **अस्तु** । **वनुषः** हिंसकस्य **मर्त्यस्य** **वधः** हिंसासाधनमायुधं च **जहि** । अपि च **अस्मे** **अधि** अस्मासु **द्युम्नं** दीप्तिमदन्नं यशो वा **रत्नं** **च** **धेहि**। तथा च यास्कः- द्युम्नं द्योततेर्यशो वान्नं वा । अस्मे द्युम्नमधि रत्नं च धेहि । अस्मासु द्युम्नं च रत्नं च धेहि' (निरु. ५. ५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M
 Dyumnam = either food or fame: **Nirukta**. 5.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let there be a hundred forms of your help for Sudās, you of the (lovely)  lips, a thousand your lauds and giving.  
 Smash the weapon of the rapacious mortal. Set brilliance and treasure  upon us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 God of the fair helm, give Sudas a hundred succours, a thousand blessings, and thy bounty.  
      Strike down the weapon of our mortal foeman: bestow upon us splendid fame and riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Hilfen hast du für den freigebigen Sudas, den Lippenspitzer, tausendfach soll dein Lob und deine Schenkung sein. Schlage die Waffe des neidischen Sterblichen fort! Auf uns häufe Glanz und Kleinode!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sudas schenk als Gabe hundert Hülfen und tausend Hulden, du mit schönem Helme; Die Todeswaffe wehre ab des Feindes, und uns verleihe dauernd Glanz und Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотня поддержек у тебя для Судаса, о прекрасногубый.  
 Да будет тысяча восхвалений и дарение!  

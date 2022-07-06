@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईम् पाहि य꣡ ऋजीषी꣡ त꣡रुत्रो  
 यः꣡ शि꣡प्रवान् वृषभो꣡ यो꣡ मतीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ इन्द्र चित्राँ꣡ अभि꣡ तृन्धि वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । गो॒त्र॒ऽभित् । व॒ज्र॒ऽभृत् । यः । ह॒रि॒ऽस्थाः । सः । इ॒न्द्र॒ । चि॒त्रान् । अ॒भि । तृ॒न्धि॒ । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,20 +132,20 @@ genre M
 हे इन्द्र **ऋजीषी** । ऋजीषशब्देन गतरसः सोमोऽभिधीयते । तद्वान् **यः** त्वं **तरुत्रः** शत्रूणां तारकोऽसि **यः** त्वं **शिप्रवान्** शोभनहनुरसि **यः** त्वं **मतीनां** स्तोतॄणाम् ॥ मन्यतेः स्तुतिकर्मणः कर्तरि क्तिच् ॥ **वृषभः** कामानां वर्षितासि **सः** त्वम् **ईम्** एनं सोमं **पाहि** पिब । हे इन्द्र यस्त्वं **वज्रभृत्** वज्रधरः **यः** त्वं **गोत्रभित्** गोत्राणां पर्वतानां मेघानां वा भेत्तासि **यः** त्वं **हरिष्ठाः** हर्योः स्थातासि हे **इन्द्र** **सः** त्वं **चित्रान्** विचित्रान् **वाजान्** अन्नानि **अभि** **तृन्धि** अस्मभ्यं प्रकाशय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink it, **Indra**, you who enjoy the flavourless **Soma**; you who are the preserver, the handsome-chinned, the showerer (of benefits) on those who praise you; who are the breaker of mountains, the wielder of the thunderbolt, the curber of steeds, do you bestow upon us various food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink it! You who are the victorious possessor of the silvery drink, who  are the belipped, who are the bull of poetic thoughts,  
 who are the cowpen-splitter, the mace-bearer, who are the mounter of  fallow bays, you, Indra—drill through to the shimmering prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again I think the “drink!” imperative is semi-detached from the rest of the vs., a mere interruption of the sequence of rel. clauses with Indra as subj., which begins with a fully realized clause in 1cd and continues in 2abc with a set of five compressed definitional nominal clauses with an izafe-like feel.
 
@@ -160,23 +160,23 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink it thou God who art impetuous victor, Lord of our hymns, with beauteousjaws, the Hero,  
      Render of kine-stalls, car-borne, thunder-wielding, so pierce thy way to wondrous strength, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink ihn, der du der Trinker des Trestersafts, der Überwinder bist, der die Lippen nach dem Soma öffnet, der Befruchter der Gedanken, der Kuhbergspalter, der Keulenträger, der Falbenlenker. Indra, schlage du ansehnliche Gewinne heraus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trink ihn denn, vordringend du und siegreich, der gross an Lippen du der Andacht Stier bist, Stallöffner du, Blitzträger, Rossbesteiger, erschliesse, Indra, dir die reichen Laben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей же его, о (ты.) кто пьет сому из выжимок, спаситель,  
 Кто жаден губами, кто оплодотворитель молитв,  

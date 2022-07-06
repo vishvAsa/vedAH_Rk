@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ क्ष꣡येण क्ष꣡मियस्य ज꣡न्मनः  
 सा꣡म्राजियेन दिविय꣡स्य चे꣡तति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अनमीवो꣡ रुदर+ जा꣡सु नो भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अव॑न् । अव॑न्तीः । उप॑ । नः॒ । दुरः॑ । च॒र॒ । अ॒न॒मी॒वः । रु॒द्र॒ । जासु॑ । नः॒ । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -126,19 +126,19 @@ genre M
 **स** **हि** स खलु रुद्रो देवः **क्षम्यस्य** । क्षमायां पृथिव्यां भवः। तस्य **जन्मनः** जनस्य **क्षयेण** ऐश्वर्येण **चेतति** प्रज्ञायते । **दिव्यस्य** जनस्य च **साम्राज्येन** ऐश्वर्येण प्रज्ञायते । शेषः प्रत्यक्षकृतः । हे **रुद्र** देव त्वं च **अवन्तीः** त्वां स्तोत्रैस्तर्पयन्तीः **नः** अस्मदीयाः प्रजाः **अवन्** पालयन् **दुरः** दुर्याणि अस्मदीयानि गृहाणि **उप** **चर** उपगच्छ। किंच त्वं **नः** अस्मदीयासु प्रजासु **अनमीवः** । अमीवा रोगः । तामकुर्वन् **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is known by his rule over those of terrestrial birth, by his sovereignty over those of celestial (origin);protecting our progeny, **Rudra**, propitiating you (by praise), come to our dwellings, and be to them a guardianagainst disease.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For in consequence of his dwelling place he takes cognizance of the  earthly race and, in consequence of his universal rule, of the heavenly. Providing help, proceed toward our doors that provide help (in return).  Bring no affliction to our children, Rudra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The complementary etymological and morphological figure ávann ávantīḥ is noteworthy, but I have no idea what “helping/helpful doors”(ávantīr dúraḥ) are or do. Perhaps it is an indirect way to refer to the sacrificial offerings humans make to help the gods, in return for the help (etc.) they receive from the gods, in this case Rudra. As Renou suggests ad loc. (EVP XV.161), “dúraḥ … s’oriente vers «maison»” and the emphasis in this vs. and the next on the protection of our children and offspring may have invited this allusion to the house.
 
@@ -162,23 +162,23 @@ anamīváḥ (… bhava) “be without affliction,” while 3d contains the stro
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He through his lordship thinks on beings of the earth, on heavenly beings through his high imperial sway.  
      Come willingly to our doors that gladly welcome thee, and heal all sickness, Rudra., in our families.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn vermöge seines Wohnsitzes hat er acht auf das irdische Geschlecht vermöge seines Allherrschertums auf das himmlische. Komm freundlich zu unserem freundlich gesinnten Hause; bring keine Krankheit über unsere Nachkommen, o Rudra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er nimmt wahr vom hohen Throne seines Reichs des irdischen Geschlechtes und des himmlischen; Komm gern zu unsern Häusern, die dich gerne sehn, und lass kein Leid, o Rudra, unsern Kindern nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь благодаря (своему) жилью он наблюдает  
 За земным родом, благодаря высшей власти – за небесным.  

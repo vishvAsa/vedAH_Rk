@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवे꣡ ते चक्रे꣡ सूरिये  
 ब्रह्मा꣡ण ऋतुथा꣡ विदुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡द् अद्धात꣡य इ꣡द् विदुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अथ॑ । एक॑म् । च॒क्रम् । यत् । गुहा॑ । तत् । अ॒द्धा॒तयः॑ । इत् । वि॒दुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
@@ -114,7 +114,7 @@ popular;; epic anuṣṭubh (380)
 अथ स्वयमेव स्वात्मानं प्रति सूर्यां वदति । हे **सूर्ये** ते तव **द्वे** **चक्रे** प्रज्ञाते पुरा दृष्टे द्वे एव चन्द्रसूर्यात्मके **ऋतुथा** ऋतुषु विनिर्दिष्टे चक्रे **ब्रह्माणः** ब्राह्मणाः विदुः । **अथैकं** **चक्रं** तृतीयं संवत्सरात्मकं **गुहा** गुहायां निहितं **यत्** अस्ति **तदद्धातय** **इत्** । एतन्मेधाविनामसु पठितम् (नि. ३. १५, २१ ) । मेधाविन एव **विदुः** जानन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ popular;; epic anuṣṭubh (380)
 The single wheel: the two wheels are explained as tthe sun and moon, thethird wheel is the year
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your two wheels, o Sūryā—the brahmins know (them) according to  their season.  
 But the one wheel that is hidden—that just the experts know.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Brahmans, by their seasons, know, O Surya, those two wheels of thine:  
      One kept concealed, those only who are skilled in highest truths have learned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine zwei Räder, o Surya, kennen die Brahmanen genau, aber das eine Rad, das verborgen ist, das kennen nur die Wahrheitskenner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei Räder deines Wagens, o Suriā, kennen die Brahmanen der Wahrheit gemäss; das eine, was verborgen ist, das kennen nur die tiefforschenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два твоих колеса, о Сурья,  
 Брахманы доподлинно знают.  

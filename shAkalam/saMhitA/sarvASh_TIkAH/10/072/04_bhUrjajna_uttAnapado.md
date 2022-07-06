@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡र् जज्ञ उत्तान꣡पदो  
 भुव꣡ आ꣡शा अजायन्त  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द꣡क्षाद् उ अ꣡दितिः प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अदि॑तेः । दक्षः॑ । अ॒जा॒य॒त॒ । दक्षा॑त् । ऊं॒ इति॑ । अदि॑तिः । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
@@ -102,7 +102,7 @@ popular;; epic anuṣṭubh (380)
 **भूः** **उत्तानपदः** वृक्षात् **जज्ञे** । तथा **भुवः** सकाशात् **आशाः** **अजायन्त** । तथा **अदितेः** **दक्षः** **अजायत** उत्पन्नः । **दक्षादु** दक्षादपि **अदितिः** **परि** अजायत । न स्वोत्पन्नं कार्यं स्वस्यैव कारणमपि भवतीति विप्रतिषिद्धमिति वाच्यम् । यास्काचार्य इदमेव वाक्यमुदाहृत्य विरोधमाशङ्क्य पर्यहरत् । तथा हि -- ‘ अदितेर्दक्षो अजायत दक्षाद्वदितिः परीति च । तत्कथमुपपद्येत समानजन्मानौ स्यातामित्यपि वा देवधर्मेणेतरेतरजन्मानौ स्यातामितरेतरप्रकृती ' ( निरु. ११. २३) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,29 +113,29 @@ popular;; epic anuṣṭubh (380)
 Sāyṇa remarks: It may be objected that there is acontradiction here, since a self-produced effect cannot be the cause of itself. The venerable **Yāska** removingthis objection has questioned and refuted the inconsistency. He says (**Nirukta** 11.23), 'It may be objected, howcan it be that Dakṣa was born from Aditi and afterwards Aditi from Dakṣa? The answer is, either they were borntogether or by a divine law they reciprocally gave birth to each other and shared each other's nature' "
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The earth was born from the one whose feet were opened up; from the  earth the regions of space were born.  
 From Aditi, Dakṣa was born, and from Dakṣa, Aditi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Earth sprang from the Productive Power the regions from the earth were born.  
      Daksa was born of Aditi, and Aditi was Daksa's Child.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Erde wurde von den Kauernden geboren, aus der Erde entstanden die Welträume. Von Aditi wurde Daksa geboren und von Daksa die Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Welt aus der Gebärerin, der Welten Räume aus der Welt, Dakscha entsprang aus Aditi, aus Dakscha wieder Aditi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Земля родилась от (существа) с ногами, простертыми кверху.  
 От земли родились стороны света.  

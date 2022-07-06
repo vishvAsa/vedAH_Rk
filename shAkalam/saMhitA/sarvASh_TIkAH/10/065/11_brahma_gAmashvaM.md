@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्म गा꣡म् अ꣡श्वं जन꣡यन्त ओ꣡षधीर्  
 व꣡नस्प꣡तीन् पृथिवी꣡म् प꣡र्वताँ अपः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡र्या व्रता꣡ विसृज꣡न्तो अ꣡धि क्ष꣡मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सूर्य॑ । दि॒वि । रो॒हय॑न्तः । सु॒ऽदान॑वः । आर्या॑ । व्र॒ता । वि॒ऽसृ॒जन्तः॑ । अधि॑ । क्षमि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 **ब्रह्म** वर्धनसाधनमन्नम् । अन्नेन हि सर्वाः प्रजा वर्धन्ते । **गामश्वम्** एतत्प्रभृतीन् पशून् तथा **ओषधीर्वनस्पतीन्** च तथा **पृथिवीं** विस्तीर्णां भूमिं **पर्वतान्** शिलोच्चयान् वृष्ट्या जगदापूरकान् मेघान्वा **अपः** उदकानि अन्तरिक्षं वा एतान् **जनयन्त:** उत्पादयन्तः किंच **दिवि** द्युलोके **सूर्यम्** आदित्यं **रोहयन्तः** **सुदानवः** शोभनदानास्तेऽमी देवाः **अधि** **क्षमि** । आत इति योगविभागात् (पा. सू. ६.४, १४० ) आकारलोपः । क्षमायां पृथिव्याम् **आर्या** श्रेष्ठानि कल्याणानि **व्रता** ब्रतानि कर्माणि यागादीनि **विसृजन्तः** प्रसारयन्तः सर्वत्र वर्तन्ते । तान् वयं धनं याचामह इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Genitive rating food:**brahman** = vṛdh to sustain, foster
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those of good gifts, begetting the sacred formulation, the cow, the  horse, the plants, the trees, the earth, the mountains, the waters,  
 causing the sun to mount in heaven, loosing the Āryas’ commandments  upon the earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They generated prayer, the cow, the horse, the plants, the forest trees, the earth, the waters, and the hills.  
      These very bounteous Gods made the Sun mount to heaven, and spread the righteous laws of Aryas o'er the land.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sind es, die das Segenswort, die Kuh, das Roß erschufen, die Pflanzen, die Bäume, die Erde, die Berge, die Gewässer, die die Sonne am Himmel aufsteigen lassen, die Gabenschönen, und die arischen Machtgebote über die Erde ausbreiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebet erzeugend, Rind und Ross und alles Kraut, des Waldes Bäume, Erde, Berge, Wasserflut, Die Sonn' am Himmel steigen lassend, gabenreich, verbreiten auf der Erde sie der Arjer Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

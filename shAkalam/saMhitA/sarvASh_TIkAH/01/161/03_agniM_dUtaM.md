@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ दूत꣡म् प्र꣡ति य꣡द् अ꣡ब्रवीतन  
 अ꣡श्वः क꣡र्त्वो र꣡थ उते꣡ह꣡ क꣡र्तुवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡नि भ्रातर् अ꣡नु वः कृत्वी꣡ ए꣡मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 धे॒नुः । कर्त्वा॑ । यु॒व॒शा । कर्त्वा॑ । द्वा । तानि॑ । भ्रा॒तः॒ । अनु॑ । वः॒ । कृ॒त्वी । आ । इ॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -168,7 +168,7 @@ popular
 हे आगत देव **अग्निम्** अङ्गनादिगुणविशिष्टं **दूतं** दूतकर्म प्राप्तवन्तं त्वां **प्रति** **यत्** यत्कार्यम् **अब्रवीतन** अब्रुवन् । व्यत्ययेन मध्यमः । पूर्ववत् तनप् ॥ किमिति **अश्वः** **कर्त्वः** । एकस्मादश्वादश्वान्तरं कर्तव्यमित्यर्थः । अश्वादश्वमतक्षत ' ( ऋ.सं. १. १६१. ७) इति वक्ष्यमाणत्वात् ॥  ‘ कृत्यार्थे तवैकेन्' इति त्वन्प्रत्ययः ॥ **उत** अपि च **रथः** कर्त्वः कर्तव्यः । **धेनुः** कर्त्वा । चर्मरहिता मृता गौः नित्यदोग्ध्री पुनर्नूतना कार्या । तदुत्तरत्र ‘ निश्चर्मणो गामरिणीत धीतिभिः ' ( ऋ.सं. १. १६१. ७ ) इति वक्ष्यमाणत्वात् । तथा **द्वा** द्वौ पितरौ जीर्णौ सन्तो पुनः **युवशा** युवानौ शयानौ प्रकृष्टयौवनोपेतौ **कर्त्वा** कर्तव्यौ । हे **भ्रातः** अग्ने युष्माकं देवानां तैरुक्तानि कर्माणि कृत्वा **अनु** पश्चात् **कृत्वी** कृत्व्या कर्मणा **एमसि** एमः आभिमुख्येन प्राप्नुमः ॥  ‘ इण् गतौ । इदन्तो मसिः॥ यद्वा । ऋषेरिदं वाक्यम् । हे ऋभवः यूयमागतमग्निं दूतं प्रति यदब्रवीतन यत्कार्यं वक्ष्यमाणरूपं कर्तव्यत्वेन वदथ अङ्गीकुरुथ तानि सर्वाणि संपाद्य हे भ्रातरग्ने कृत्व्या कर्मणैमसीति ब्रूथेत्यृषिराह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -179,29 +179,29 @@ popular
 Cf. **sūktas** 20, 110 and 111 which relate the marvelsof the **Ṛbhus**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you replied to the messenger Agni, “A horse must be made, and a  chariot also must be made here.  
 A milk-cow must be made, and the two must be made young. When we  have done these things, brother, we will follow you [=gods].”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What to the envoy Agni in reply ye spake, A courser must be made, a chariot fashioned here,  
      A cow must be created, and the Twain made young. When we have done these things, Brother, we turn to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was ihr dem Boten erwidertet: " Wir müssen noch ein Roß anfertigen und den Wagen hier anfertigen, eine Kuh anfertigen und zwei jung machen. Wenn wir das getan haben, dann kommen wir euch nach, Bruder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihr dem Boten Agni drauf erwidertet: »Wir wollen einen Wagen machen und ein Ross, und eine Kuh, zwei Alten Jugendkraft verleihn; Ist das vollbracht, dann, Bruder, gehn wir an eur Werk.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) что вы ответили Агни-вестнику:  
 Надо сделать коня, а также колесницу здесь надо сделать.  

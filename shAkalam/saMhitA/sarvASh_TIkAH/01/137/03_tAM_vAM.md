@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तां꣡ वां धेनुं꣡ न꣡ वासरी꣡म्  
 अंशुं꣡ दुहन्ति अ꣡द्रिभिः  
@@ -17,7 +17,7 @@ ChandaH = "अतिशक्वरी"
 सो꣡म आ꣡ पीत꣡ये सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 अ॒यम् । वा॒म् । मि॒त्रा॒व॒रु॒णा॒ । नृऽभिः॑ । सु॒तः । सोमः॑ । आ । पी॒तये॑ । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
@@ -160,38 +160,38 @@ genre M
 **वां** युवयोः संबन्धिनम् **अंशुं** वल्लीरूपं सोमं **दुहन्ति** संपादयन्त्यध्वर्यवः । किमिव । **तां** प्रसिद्धामग्निहोत्राद्यर्थां **वासरीं** सर्वाङ्गाच्छादितपयस्कां बहुक्षीरामित्यर्थः । यद्वा । पयआदिनाच्छादयित्रीम् ॥ ‘वस आच्छादने'। औणादिकः अरिप्रत्ययः। ' कृतिकारादक्तिनः' इति ङीष् । यद्वा । केवलः औणादिकः अरप्रत्ययः स्वार्थिकः अण् ॥ **धेनुं** **न** प्रीणयित्रीं गामिव । केन साधनेनेति तदाह । **अद्रिभिः** अभिषवसाधनैर्ग्रावभिः । किच **अद्रिभिः** तैरेव साधनैः **सोमं** युष्मदर्थमेव **दुहन्ति** वल्लीरूपं सोमं युष्मदर्थमेव उदकेन आप्लाव्य रसं दुहन्ति। किंच **अर्वाञ्चा**  अस्मदभिमुखौ सन्तौ **सोमपीतये** सोमपानाय **अस्मत्रा** अस्मत्त्रातारौ युवां **नः** अस्मदीयं यज्ञम् **उप** **गन्तम्** उपागच्छतम्। किंच **वां** युष्मदर्थम् **अयं** **सोमः** **नृभिः** नेतृभिर्यज्ञनिर्वाहकैर्ऋत्विग्भिः **सुतः** अभिषुतः । किंच **आ** **पीतये** संपूर्णपानाय **सुतः** अतः आगच्छतमित्यर्थः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They milk for you two with stones, that succulent creeper, like a productive cow; they milk the **Soma** with stones; come to us as our protectors; be present with us to drink the Soma; thos Soma has been effused, **Mitra** and **Varuṇa**, for you both; effused for your drinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This plant, like a dawn cow, do they milk for you two with the stones— the soma they milk with the stones.  
 Come here right to us, into our midst, nearby, to drink the soma.  
 Here it is, pressed by men for you two, Mitra and Varuṇa—the soma  pressed for drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As 'twere a radiant-coloured cow, they milk with stones the stalk for you, with stones they milk the Soma-plant.  
      May ye come nigh us, may ye turn hither to drink the Soma juice.  
      The men pressed out this juice, Mitra and Varuna, pressed out this Soma for your drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Stengel melken sie für euch mit den Steinen wie die Kuh am Morgen, den Soma melken sie mit den Steinen aus. Kommt zu uns herbei zum Somatrunk! Dieser ist für euch beide, Mitra und Varuna, von den Männern ausgepreßt, der Soma zum Trunke ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Steinen melken sie den Schaft, wie eine Kuh im Morgenroth, mit Steinen melken Soma sie; Ihr möget kommen zu uns her, recht nahe zu dem Somatrunk, Euch ist der Soma, Mitra-Varuna, gebraut, von Männern euch zum Trunk gebraut
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для вас двоих, как ту утреннюю корову,  
 Они доят стебель камнями,  

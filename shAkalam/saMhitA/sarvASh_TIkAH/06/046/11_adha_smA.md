@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध स्मा नो वृधे꣡ भव  
 इ꣡न्द्र नाय꣡म् अवा युधि꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 दिद्य꣡वस् तिग्म꣡मूर्धानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । अ॒न्तरि॑क्षे । प॒तय॑न्ति । प॒र्णिनः॑ । दि॒द्यवः॑ । ति॒ग्मऽमू॑र्धानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -108,20 +108,20 @@ genre M
 हे **इन्द्र** **अध** **स्म** तदानीं **नः** अस्माकं **वृधे** वर्धनाय **भव** । अपि च **नायं** योऽस्माकं नयो नेता **युधि** युद्धे तमपि **अव** रक्ष। तदेत्युक्तं कदेत्याह । **पर्णिनः** पक्षवन्तः **तिग्ममूर्धान:** तीक्ष्णास्याः **दिद्यवः** दीप्ता बाणा: **यत्** यदा' **अन्तरिक्षे** व्योम्नि  **पतयन्ति** शत्रुभिर्विसृष्टाः पतन्ति तदानीं वृधे भवेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, be (favourable) at present to our success; protect our leader in battle when the feathered, sharp-pointed, shining shafts fall from the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So then, as ever, be there to strengthen us. Indra, help our leader in  the fight,  
 when the feathered, sharp-headed arrows fly in the midspace,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is a bare variant of 3d: both contain the complex verbal construction vṛdhé √bhū ‘be for strengthening / be there to strengthen’, each with the complement enclitic naḥ. The only difference is the placement of the impv.: initial bhávā in 3d, final bhava in 11a, differing only in accent and, possibly, in the length of the final vowel: the Pp. resolves the cross-pāda sandhi bhavéndra with short bhava, like 10d, but a long vowel would be equally possible.
 
@@ -138,23 +138,23 @@ On the particular connection of vs. 12 with vs. 9 see immed. below.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And now, O Indra, strengthen us: come near and aid us in the fight,  
      What time the feathered shafts are flying in the air, the arrows with their sharpened points.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann sei uns zur Stärke, Indra, schütze den Anführer im Kampf, wenn die gefiederten Geschosse mit den spitzen Köpfen in der Luft fliegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei nun, o Indra, uns zum Heil und hilf dem Führer in der Schlacht, Wenn in den Lüften fliegen die gefiederten Geschosse, deren Spitzen scharf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затем будь нам для усиления в боях!  
 О Индра, помоги в бою (нашему) вождю,  

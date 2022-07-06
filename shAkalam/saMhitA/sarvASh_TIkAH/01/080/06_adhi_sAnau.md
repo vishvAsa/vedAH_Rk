@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि सा꣡नौ नि꣡ जिघ्नते  
 व꣡ज्रेण शत꣡पर्वणा  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 म॒न्दा॒नः । इन्द्रः॑ । अन्ध॑सः । सखि॑ऽभ्यः । गा॒तुम् । इ॒च्छ॒ति॒ । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M;; repeated line
 इन्द्रः **शतपर्वणा** शतसंख्याकधाराभिर्युक्तेन **वज्रेण** **सानौ** **अधि** **नि** **जिघ्नते** । अधिः सप्तम्यर्थानुवादी । समुच्छ्रिते वृत्रस्य कपोलादौ स्थाने नितरां हिनस्ति । स च **इन्द्रः** **मन्दानः** मन्दमानः स्तूयमानः सन् 'सखिभ्यः समानख्यानेभ्यः स्तोतृभ्यः **अन्धसः** अन्नस्य **गातुं** मार्गमुपायम् **इच्छति** । अन्यत् पूर्ववत् ॥ मन्दानः । मदि स्तुतौ ' । कर्मणि शानचि यक्। छन्दस्युभयथा' इति शानच आर्धधातुकत्वात् अतोलोपयलोपौ । अनुदात्तेतः परत्वात् शानचो लसार्वधातुकानुदात्तत्वे सति यक एवोदात्तत्वम् । अनुदात्ते शानचि तस्य यको लोपे सति उदात्तनिवृत्तिस्वरेण शानच उदात्तत्वं प्राप्नोति । एवं तर्हि शानच आर्धधातुकत्वादेव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एवावशिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** has struck him on the temple with his hundred-edged thunderbolt, and, exulting, wishes to provide means of sustenance for his friends, manifesting his own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He keeps smashing down on his back with the hundred-jointed mace. Indra, exhilarated from the stalk, seeks a way for his comrades.  
 – They cheer on his sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse paraphrases and expands vs. 2. The nominal expression in 2b ási bhū́ri parādadíḥ is turned into the verb parādádāti in 6b; śikṣasi in 2d is echoed by śikṣatu in 6c; the phrase bhū́ri te vásu is repeated verbatim (2e, 6d); and the dative beneficiaries in 2 (yájamānāya 2d, suvaté 2e) are replaced by dāśúṣe (6b) and, more tellingly, asmábhyam (6c). The source of the wealth that Indra distributes is also made clear: it belonged to the stranger and is presumably plunder.
 
@@ -144,23 +144,23 @@ I don’t see any real difference between áva jighnate (5) and ní jighnate (6)
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hundred-jointed thunderbolt Indra hath struck him on the back,  
      And, while rejoicing in the juice, seeketh prosperity for friends, lauding his own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er schlägt mit der hundertknorrigen Keule auf den Nacken ein; von Soma berauscht sucht Indra den Freunden freie Bahn. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf Vritra's Scheitel schleudert er mit seinem hundertzack'gen Blitz, Den Freunden schaffet Indra Heil, vom Trank des Somakrauts berauscht, und strahlt in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он поражает его в спину  
 Ваджрой с сотней сочленений.  

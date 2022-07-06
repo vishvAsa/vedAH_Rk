@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡र्वे नन्दन्ति यश꣡सा꣡गतेन  
 सभासाहे꣡न स꣡खिया स꣡खायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रं हितो꣡ भ꣡वति वा꣡जिनाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कि॒ल्बि॒ष॒ऽस्पृत् । पि॒तु॒ऽसनिः॑ । हि । ए॒षा॒म् । अर॑म् । हि॒तः । भव॑ति । वाजि॑नाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
@@ -109,41 +109,41 @@ popular
 **सखायः** समानख्यानाः समानज्ञानाः **सर्वे** सभ्या मनुष्याः **सभासहेन** सभां सोढुं शक्नुवता **सख्या** ऋत्विजां सखिभूतेन यज्ञं प्रति **आगतेन** **यशसा** यशस्विना सोमेन हेतुना **नन्दन्ति** हृष्टा भवन्ति । स **हि** स एव सोमः **एषां** जनानां **किल्बिषस्पृत्** । यः स्वस्मादन्यः पुरुषः श्रेष्ठतामश्नुते  स किल्बिषं भवति बाध्यत्वेन । यथा पापं सदाचारैः बाधितव्यं भवति तद्वत् । पापरूपस्य शत्रोर्बाधकः । यद्वा । यज्ञे साध्वनुप्रवचनाकरणेन यत्किल्बिषमेषां जायते तद्यो बाधते स किल्बिषस्पृत् । तथा त्वं **पितुषणिः** । पितुरित्यन्ननाम दक्षिणा वा । तमनेन सोमेन सनोति यजमानः संभजत इति तादृशः । तेषामन्नदक्षिणादातेत्यर्थः । किंच **हितः** पात्रेषु निहितः सोमः **वाजिनाय** । इन्द्रियं वीर्यं वाजिनम् । तेषां वीर्याय तत्कर्तुम् **अरम्** अलं पर्याप्तः समर्थो **भवति** ।  ‘ सर्वे नन्दन्ति यशसागतेनेत्यन्वाह यशो वै सोमो राजा ' इत्यादिकम् इन्द्रियं वै वीर्यं वाजिनमाजरसं हास्मै वाजिनं नापच्छिद्यते ' इत्यन्तं ब्राह्मणमत्रानुसंधेयम् (ऐ.ब्रा. १. १३) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All frinends rejoice when the friendly (libation), the support of the assembly (of the priests), has arrived(at the sacrifice); for (**Soma**), the remover of iniquity, the giver of sustenance, being plural ced (in the vessels), issufficient for their invigoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All his companions rejoice with a companion who has come in glory,  who is overpowering in the assembly,  
 for, rescuing them from their errors and winning sustenance for them,  he is fittingly spurred onward to the competition.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All friends are joyful in the friend who cometh in triumph, having conquered in assembly.  
      He is their blame-averter, food-provider prepared is he and fit for deed of vigour.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 All friends rejoice when their companion famous Returns from the assembly hall a victor. He drives away reproach and wins them nurture: He is sent out as fitted for the contest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Genossen freuen sich über den geehrten Genossen, der als der Sieger in der Versammlung ankommt, denn er bewahret sie vor Fehle, verdient für sie Brot. Zum Wettkampf vorgeschickt stellt er seinen Mann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Freunde freun sich alle ihres Freundes, wenn herrlicher als Haupt der Dichter ankommt; Er bessert ihre Fehler, hilft zum Wohlstand und stellt sich selbst bereit zum Sänger-Wettkampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все товарищи радуются за (своего) товарища,  
 Пришедшего со славой, победителя в состязании.  

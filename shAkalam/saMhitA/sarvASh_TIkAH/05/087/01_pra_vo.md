@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो महे꣡ मत꣡यो यन्तु वि꣡ष्णवे  
 मरु꣡त्वते गिरिजा꣡ एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 धु꣡निव्रताय श꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 प्र । शर्धा॑य । प्रऽय॑ज्यवे । सु॒ऽखा॒दये॑ । त॒वसे॑ । भ॒न्दत्ऽइ॑ष्टये । धुनि॑ऽव्रताय । शव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -135,7 +135,7 @@ genre M
 **प्र** **यन्तु** प्रगच्छन्तु **गिरिजाः** वाचि निष्पन्नाः **मतयः** स्तुतयः । कस्मै । **वः** तुभ्यम् । वचनव्यत्ययः । **विष्णवे** व्याप्तायेन्द्राय विष्णवे वा **मरुत्वते** मरुद्भिस्तद्वते । कस्य स्तुतय इत्युच्यते । **एवयामरुत्** एतन्नामकस्य ऋषेः ॥ षष्ठ्या लुक् ॥ अथवा अयमृषिर्गिरिजाः स्तुतेर्जनयिता भवति । उत्तरार्धे मरुत्स्तुतिः। किंच **प्र** यन्तु स्तुतयः । कस्मै । **शर्धाय** बलाय मारुताय । इतरत् सर्वं बलविशेषणम् । **प्रयज्यवे** प्रकर्षेण यष्टव्याय **सुखादये** शोभनाभरणाय । खादिः आभरणविशेषः । ‘हस्तेषु खादिश्च' ( ऋ. सं. १. १६८. ३); ‘ पत्सु खादयः' (ऋ. सं. ५. ५४, ११) इति च श्रुतेः । **तवसे** बलवते **भन्ददिष्टये** । स्तुतिरूपा इष्टिर्यस्य तद्धन्ददिष्टि । तस्मै **धुनिव्रताय** मेघानां चालनं कर्म यस्य तादृशाय **शवसे** गमनवते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,14 +148,14 @@ Viṣṇu attended by the Maruts: viṣṇave marutvate: viṣṇave is an adjec
 Alternative: viṣṇave vā, or to Viṣṇu\] \[This **sūkta** is attributed to ṛṣi evayāmarut; this is perhaps an epiithet of the Maruts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your thoughts go forth to mighty, mountain-born Viṣṇu,  
 accompanied by the Maruts—Maruts on the march—  
 to the troop worshiped at the beginning of the sacrifice, well-spangled, powerful, fortunate in their quest, of boisterous commandment, (who  are) strength (itself).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The grammatical identity of girijā́(in sandhi) ‘moutain-born’ is problematic (see Oldenberg’s disc.). The Pp. takes it as girijā́ḥ, which could be nom. pl. fem. (so Grassmann and Renou) and modify ‘thoughts’, but this makes little sense: the thoughts in question are surely home-grown, as it were, not outsourced from a mountain. (Though Oldenberg’s offhand suggestion that the cmpd might mean “in der Rede geboren,” with otherwise unattested loc. sg. of gír- ‘hymn’, is worth considering as a second punning reading, suitable for ‘thoughts’. See girā́in 3a.) girijā́ḥ could likewise be nom. sg. masc. and refer to Viṣṇu. This is the basis for Geldner’s first Satzparenthese “-- er ist der Berggeborene, mit dem die Marut gern kommen --” and he is followed by Scarlatta (136).
 
@@ -171,23 +171,23 @@ The adjectivally accented taváse beginning d points up the nominally accented r
 On dhúni-vrata- see comm. ad V.58.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Visnu, to the Mighty whom the Maruts follow let your hymns born in song go forth, Evayamarut;  
      To the impetuous, strong band, adorned with bracelets, that rushes on in joy and ever roars for vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum großen Vishnu in Gesellschaft der Marut sollen sich eure Gedanken aufmachen - er ist der Berggeborene, mit dem die Marut gern kommen - zu der opferliebenden Heerschar mit schönen Spangen, zu der starken Macht, die einen Lobredner sucht, von lärmendem Treiben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor mögen schreiten eure in der Höhe entsprungenen (?) Lieder zu dem grossen, von den Maruts umgebenen Vischnu Evajämarut, vorschreiten zu der ringgeschmückten Schar, der kräftig vordringenden, starken, die in glänzendem Zuge dahineilt, und brausend wirkt, der mächtigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть устремятся ваши мысли к великому Вишну,  
 Сопровождаемому Марутами – он рожден на горе, он вместе с быстродвижущимися Марутами, –  

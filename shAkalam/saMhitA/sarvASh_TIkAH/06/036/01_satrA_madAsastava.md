@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रा꣡ म꣡दासस् त꣡व विश्व꣡जन्याः  
 सत्रा꣡ रा꣡यो अ꣡ध ये꣡ पा꣡र्थिवासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् देवे꣡षु धार꣡यथा असुर्य᳡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒त्रा । वाजा॑नाम् । अ॒भ॒वः॒ । वि॒ऽभ॒क्ता । यत् । दे॒वेषु॑ । धा॒रय॑थाः । अ॒सु॒र्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrā*
 - \[adverb\]
@@ -113,43 +113,43 @@ genre M
 हे इन्द्र **तव** त्वदीयाः **मदासः** सोमपानजनिता मदाः **सत्रा** । सत्यनामैतत् । सत्यं **विश्वजन्याः** सर्वजनहिता भवन्ति । यद्वा । सत्रेति महन्नाम । महान्तस्तव मदा इति योज्यम् । **अध** अपि च **पार्थिवासः** पृथिव्युपलक्षिते लोकत्रये भवास्त्वदीयाः **ये** **रायः** धनसमूहाः सन्ति तेऽपि **सत्रा** सत्यं विश्वजनहिता भवन्तीत्यन्वयः । किंच त्वं **वाजानाम्** अन्नानां **सत्रा** सत्यं **विभक्ता** दाता **अभवः** भवसि । यद्वा । सत्रा महतां वाजानामिति योऽयम् । **यत्** यस्मात्त्वं **देवेषु** मध्ये **असुर्यं** बलं **धारयथाः** अतः कारणात्त्वमेवं करोषीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Truly are your exhilarations beneficial to all men; truly are the riches which exist on earth (beneficial to all men); truly are you the distributor of food; wherefore you maintain vigour among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Completely yours are the exhilarating (drinks) stemming from all  peoples, and completely the riches that come from the earth.  
 Completely have you become the apportioner of prizes, as you uphold  your lordship among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the stem viśvá-janya- is of course a bahuvrīhi and has the basic meaning ‘possessing all peoples’ vel sim., the point here must be that all peoples prepare soma for Indra, hence my ‘stemming from all peoples’ referring to the soma drinks. The reciprocity between the people’s offering of exhilarating drinks and Indra’s apportioning of prizes (c) is clear.
 
 The published translation renders the injunc. dhāráyathāḥ as a present; it could also have past value: “when/as you upheld …” As it is elsewhere (cf. W. E. Hale, Ásura- in Early Vedic Religion, 59-62), asuryà- ‘lordship’ is ascribed to Indra, and the fact that he maintains this lordship ‘among the gods’ (devéṣu) demonstrates once again that devá- / ásura- is not yet an antithetical or hostile pairing in the RV. This same Indra cycle contains a similar expression: VI.20.2 ánu … asuryàṃ devébhir dhāyi víśvam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THY raptures ever were for all men's profit: so evermore have been thine earthly riches.  
      Thou still hast been the dealer-forth of vigour, since among Gods thou hast had power and Godhead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ganz und gar sind dein, die allen Völkern bekannten Räusche, und dein ganz und gar die Reichtümer, die auf Erden sind. Ganz und gar wardst du der Verteiler der Siegerewinne, als du unter den Göttern die Asurawürde behauptetest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets war dein Rausch Gemeingut aller Menschen; und alle Güter, die der Erde eigen; Du warst Vertheiler aller reichen Schätze, als göttlich Sein du bei den Göttern wahrtest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всецело знакомы всем опьянения твои,  
 Всецело также богатства, которые земные,  

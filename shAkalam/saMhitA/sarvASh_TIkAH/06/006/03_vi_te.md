@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ ते वि꣡ष्वग् वा꣡तजूतासो अग्ने  
 भा꣡मासः शुचे शु꣡चयश् चरन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡ना वनन्ति धृषता꣡ रुज꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तु॒वि॒ऽम्र॒क्षासः॑ । दि॒व्याः । नव॑ऽग्वाः । वना॑ । व॒न॒न्ति॒ । धृ॒ष॒ता । रु॒जन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -120,20 +120,20 @@ genre M
 हे **शुचे** शुद्ध दीप्त वा **अग्ने** **ते** त्वदीयाः **वातजूतासः** वातेन प्रेरिताः शुचयः निर्मलाः  **भामासः** दीप्तयः **विष्वक्** सर्वतः **वि** **चरन्ति** विविधं गच्छन्ति । **तुविम्रक्षासः** बहूनि काष्ठानि स्पृशन्तः **दिव्याः** दिवि द्योतमानेऽग्नौ भवाः **नवग्वाः** नूतनगमनास्ते रश्मयः **वना** वनानि **वनन्ति** संभजन्ते । दहन्तीत्यर्थः । किं कुर्वन्तः । **धृषता** धर्षकेण तेजसा **रुजन्तः** वनानि भञ्जयन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure **Agni**, your bright flames, fanned by the wind, spread wide in every diection, consuming abundant (fuel); divine, fresh-rising, they plural y upon the woods, enveloping them in lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sped by the wind, your flaming beams, o flaming Agni, spread out wide  asunder.  
 Powerfully destructive, (like) the heavenly Navagvas, they conquer the  woods, breaking them boldly—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Alliteration continues, with ví … víṣvak (a), śuce śúcayaḥ (b), návagvā vánā vananti (cd). The first two are etymological figures; in the third, intricately structured one, vánā vananti is not, but mimics one.
 
@@ -142,28 +142,28 @@ Flg. Geldner (fld. by Renou), I assume that the Navagvas are in an unmarked simi
 The identity of the root found in tuvi-mrakṣá- is disputed; see EWA s.v. MARC, with √mṛc ‘harm’, √mṛj ‘wipe’, and √mṛś ‘touch’ all possibly in play. √mṛc ‘harm’ seems the most likely to me. The Schwebeablaut outcome -mrakṣ- is standard when -kṣ- ending the root syllable would yield a super-heavy cluster *-rkṣ. Cf. drakṣyati (not *darkṣyati) to √dṛś (see AiG I.212-13). Any of the roots just listed would follow this pattern.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Incited by the wind thy flames, O Agni, move onward, Pure One! pure, in all directions.  
      Thy most destructive heavenly Navagvas break the woods down and devastate them boldly.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thy flames when driven by the wind, O Agni, Disperse, O pure one, pure in all directions; And thy divine Navagvas, most destructive, Lay low the woods and devastate them boldly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Winde getrieben gehen deine hellen Lohen, du heller Agni, nach allen Seiten auseinander. Die mächtig zerreibenden Flammen überwinden die Hölzer wie die himmlischen Navagva´s sie herzhaft zerbrechend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, Geschart zu Neunen, himmlisch vielverzehrend, bewält'gen sie die Wälder kühn zermalmend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Гонимые ветром, о Агни, во все стороны  
 Расходятся твои светлые лучи, о светлый.  

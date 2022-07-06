@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡पर्तु मा त꣡द् ऋत꣡स्य प्रवा꣡चनं  
 देवा꣡नां य꣡न् मनुषि꣡या अ꣡मन्महि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वाः॑ । इत् । उ॒स्राः । स्पट् । उत् । ए॒ति॒ । सूर्यः॑ । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pipartu* ← *pṛ*
 - \[verb\], singular, Present imperative
@@ -135,37 +135,37 @@ genre M;; repeated line
 **यत्** **ऋतस्य** यज्ञस्य सत्यस्य वा संबन्धि **देवानां** **प्रवाचनं** प्रकर्षेण गुणानां कथनं स्तोत्रं **मनुष्याः** वयम् **अमन्महि** कर्तुं जानीमः **तत्** प्रवाचनं **मा** मां पिपर्तु पालयतु । किंच **सूर्यः** **विश्वाः** सर्वाः **उस्राः** उषसः **स्पट्** स्पृशन्नवगच्छन् वा **उदेति** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that glorification of the gods which men repeat in connection with the rite preserve me; the sunrises visiting all the lustre of the dawn; we solicit the kindled fire for our welfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this proclamation of truth carry me through, the one that as sons  of Manu we have thought up for the gods:  
 “Through all the ruddy (dawns) the Sun, as spy, (always) goes up.”  
 – We beseech Agni, when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Further me this declaring of Eternal Law, the Law of Gods, as we mortals acknowledge it!  
      The Sun goes up beholding all the rays of morn. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Verkündigung der Wahrheit über die Götter, deren wir Menschen eingedenk sind, soll uns weiterhelfen. Alle Morgen geht Surya als Späher auf. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fördre die Verkündigung des göttlichen Gesetzes mich, die wir als Menschen ausgeführt; Als Späher geht die Sonne alle Morgen auf; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть спасет меня это провозглашение закона богов,  
 Которое мы, люди, задумали!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दियउ꣡श् च नः पृथिवी꣡ च प्र꣡चेतस  
 ऋता꣡वरी रक्षताम् अं꣡हसो रिषः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मा । दुः॒ऽवि॒दत्रा॑ । निःऽऋ॑तिः । नः॒ । ई॒श॒त॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 **प्रचेतसा** सुबुद्धी **ऋतावरी** यज्ञवत्यौ सत्यवत्यौ **द्यौश्च** **पृथिवी** **च** द्यावापृथिव्यावुभे **नः** अस्मान् **रिषः** हिंसकात् **अंहसः** पापाच्च **रक्षताम्** । किंच **दुर्विदत्रा** कुत्सितज्ञाना **निर्ऋतिः** मृत्युदेवता **नः** अस्माकं **मा** **ईशत** ईश्वरी मा भूत् । किंच वयं **देवानां** संबन्धि **तत्** असाधारणम् **अवः** रक्षणम् **अद्य** अस्मिन्नहनि प्रधानयागदिवसे **वृणीमहे** प्रार्थयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Nirṛti: mṛtyudevatā, thedivinity of death
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both Heaven and Earth—let those two discerning truthful ones guard us  from narrow straits, from harm.  
 Let Dissolution, bad to meet, not gain mastery over us. – This help of  the gods we choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Dyaus and Prthivi, wise, true to Holy Law, keep us in safety from distress and injury.  
      Let not malignant Nirrti rule over us. We crave to-day this gracious favour of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde, die weisen, die gesetzmäßigen, sollen uns vor Not und Schaden behüten, Nicht soll das unerbittliche Verderben Macht über uns haben. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Himmel und die Erde, sie, die heiligen, die weisen mögen schirmen vor des Feindes Drang, Nicht soll beherrschen uns die böse Nirriti, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Небо и Земля, мудрые,  
 Подчиняющиеся закону, защитите нас от беды (и) от вреда!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ इ꣡द् उ त्य꣡द् अ꣡नु दायि एषाम्  
 ए꣡को य꣡द् वव्ने꣡ भू꣡रेर् ई꣡शानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सउ꣡वश्विये · सु꣡ष्विम् आवद् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 प्र । एत॑शम् । सूर्ये॑ । प॒स्पृ॒धा॒नम् । सौव॑श्व्ये । सुष्वि॑म् । आ॒व॒त् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -127,7 +127,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 "अनु **दायि** अकारीत्यर्थः । उत्तरार्धस्येयमाख्यायिका । स्वश्वो नाम कश्चित् राजा । स च पुत्रकामः सूर्यमुपासांचक्रे । तस्य च सूर्य एव पुत्रो बभूव । तेन सह एतशनाम्नो महर्षेर्युद्धं जातमिति तदेतदिहोच्यते । अयम् इन्द्रः सौवश्व्ये स्वश्वपुत्रे **सूर्ये** पस्पृधानं स्पर्धमानं **सुष्विं** सोमानामभिषोतारम् **एतशम्** एतत्संज्ञकमृषिं  **प्र** **आवत्** प्रारक्षत् ॥ दायि । बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः । वव्ने । वनु याचने '। लिटि व्यत्ययेन उपधालोपः । पस्पृधानम् । ‘स्पर्ध संघर्षे '। अस्मात् लिटः कानच् । द्विर्वचने ‘शर्पूर्वाः खयः' इति पकारः शिष्यते । धात्वकारस्य लोपो रेफस्य संप्रसारणं च पृषोदरादित्वात् । चित्त्वादन्तोदात्तत्वम् । सौवश्व्ये। स्वश्वः इति जनपदशब्दः क्षत्रिये संज्ञात्वेन वर्तते । ‘वा नामधेयस्य वृद्धसंज्ञा वक्तव्या' (पा. सू. १. १. ७३. ५) इति वृद्धसंज्ञायां ‘वृद्धेत्कोसलाजादाञ्ञ्यङ्' (पा. सू. ४. १. १७१ ) इति अपत्यार्थे ञ्यङ्प्रत्ययः । ‘न य्वाभ्यां पदान्ताभ्याम् । (पा. सू. ७. ३. ३) इति वृद्धेः प्रतिषेधः ऐजागमश्च । ञित्त्वादादाद्युदात्तत्वम् । सुष्विम्। ‘षुञ् अभिषवे'।' उत्सर्गश्छन्दसि' (पा. सू. ३. २. १७१. २) इति अस्मात् किन्प्रत्ययः । लिङ्वद्भावात् द्विर्भावः । यणादेशः । उवङादेशाभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ genre M;; gautamī; see Arnold (1905) 240–1
 Legend: A king names Svaśva (lord of good horses, su **aśva**) was desirous of a son; he worshipped Sūrya, who was also born as the son of a king. There was a dispute between him and ṛṣi Etaśa. Indra sided with the latter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to this one has this (soma-drinking?) been conceded by them  [=gods], since he alone won (it?), becoming master of much.  
 Indra aided Etaśa, who was contending for the sun; he will aid the  
 soma-presser contending for good horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Geldner’s suggestion (in n. to 15a, followed by Witzel Gotō) that the unexpressed subject that is being conceded to Indra is the soma-drink. The parallel he adduces, V.29.5, contains the gods, the soma-drink, the concession, and Etaśa: ádha krátvā maghavan túbhyaṃ devā́ánu víśve adaduḥ somapéyam yát sū́ryasya harítaḥ pátantīḥ puráḥ satī́r úparā étaśe káḥ Then according to your will, o bounteous one, all the gods conceded the soma-drinking to you, when you put the flying golden mares of the Sun behind, though they were in front, in Etaśa('s presence).
 
@@ -156,23 +156,23 @@ Etaśa is the horse of the Sun and is not, as far as I know, a soma-presser (the
 Another phonetic play: d saúvaśvi ye súṣvim
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now unto him of these things hath been given what he who rules alone o'er much, electeth.  
      Indra hath helped Etasa, Soma-presser, contending in the race of steeds with Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm Ward das von ihnen zugestanden, was er allein errungen hat, der über vieles Macht hat. Dem um den Surya kämpfenden Etasa, dem Somaopferer, stand Indra bei im Wettstreit um die besten Rosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ist ihm das von Göttern zugestanden, was er begehrt, der eine viel besitzend, Er half dem Ross im Wettlauf mit der Sonne, dem Frommen half zu hohem Glücke Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему из (всех) них было дано то,  
 Чего он один мог добиться, властвуя над многим.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुहान꣡ ऊ꣡धर् दिविय꣡म् म꣡धु प्रिय꣡म्  
 प्रत्नं꣡ सध꣡स्थम् आ꣡सदत्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 नृ꣡भिर् धूतो꣡ विचक्षणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽपृच्छ्य॑म् । ध॒रुण॑म् । वा॒जी । अ॒र्ष॒ति॒ । नृऽभिः॑ । धू॒तः । वि॒ऽच॒क्ष॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *duhāna* ← *duhānaḥ* ← *duh*
 - \[verb noun\], nominative, singular
@@ -103,7 +103,7 @@ genre M
 **मधु** मदकरं **प्रियं** प्रीणनकारि **दिव्यं** दिवि भवम् **ऊधः** सोमवल्लीलक्षणं **दुहानः** सोमः **प्रत्नं** पुरातनं **सधस्थम्** । सह तिष्ठन्त्यत्रेति सधस्थं स्थानम्। अन्तरिक्षम् **आसदत्** आसीदति । सदेर्लुङि रूपम् । ततः **आपृच्छ्यं** कर्मण्याप्रष्टव्यं **धरुणं** कर्मणो धारयितारं यजमानं **वाजी** अन्नवान् सोमः **अर्षति** । तस्मा अन्नं दातुमभिगच्छति । कीदृशः । **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **धूतः** अदाभ्यगृहे परिशोधितः । तैरेनं चतुराधूनोति पञ्चकृत्वः सप्तकृत्वो वा' इत्यापस्तम्बेन सूत्रितम् । **विचक्षणः** सर्वस्य विद्रष्टा ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,14 +114,14 @@ genre M
 The...celestial udder: i.e., the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Milking the heavenly udder of his own dear honey, he has taken his  ancient seat.  
 The prizewinner rushes to the support worthy of the asking, the  
 wide-gazing one rinsed by men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann, Geldner, Renou all take dhūtáḥ to √dhū ‘shake’, but given apsú dhūtá- in IX.62.5, X.104.2, I prefer √dhū, dhāv ‘rinse’.
 
@@ -135,23 +135,23 @@ Both vss. describing Soma taking his seat (4c, 5b). There is also concatenation 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Milking the heavenly udder for dear meath, he hath sat in the ancient gatheringplace.  
      Washed by the men, the Strong Farseeing One streams forth nutriti us food that all desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem himmlischen Euter die liebe Süßigkeit herausmelkend hat er sich an seinen altgewohnten Platz gesetzt. Von den Männern geschüttelt rinnt der weitschauende Preisgewinner nach der aufzusuchenden Unterlage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ausmelkend aus des Himmels Euter lieben Meth, hast du dich auf den Sitz gesetzt; Der schnelle strömet dem ersehnten Fasse zu, bewegt von Männern, weiten Blicks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Доясь приятной сладостью из небесного вымени,  
 Он уселся на древнее место.  

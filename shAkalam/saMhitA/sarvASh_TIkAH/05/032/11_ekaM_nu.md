@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कं नु꣡ त्वा स꣡त्पतिम् पा꣡ञ्चजन्यं  
 जातं꣡ शृणोमि यश꣡सं ज꣡नेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दोषा꣡ व꣡स्तोर् ह꣡वमानास इ꣡न्द्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । मे॒ । ज॒गृ॒भ्रे॒ । आ॒ऽशसः॑ । नवि॑ष्ठम् । दो॒षा । वस्तोः॑ । हव॑मानासः । इन्द्र॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 हे इन्द्र **त्वा** त्वाम् **एकं** **नु** मुख्यमेव **जनेषु** सर्वेषु मनुष्येषु मध्येऽहं मन्त्रद्रष्टा **शृणोमि** ऋषिमुख्येभ्यः । कीदृशम् । **सत्पतिं** सतां पालकं **पाञ्चजन्यं** पञ्चजनेभ्यो मनुष्येभ्यो हितं **जातम्** उत्पन्नं **यशसं** यशोयुक्तम् । **दोषा** क्षपायां **वस्तोः** वासरे च **हवमानासः** स्तुवन्तः **आशसः** कामानां शंसमानाः **मे** मदीया: प्रजाः **नविष्ठम्** अतिशयेन स्तुत्यं **तम्** **इन्द्रं** जगृभ्रे गृह्णन्तु स्वीकुर्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily I hear you as chief among men, the protector of the good, friendly to the five classes of beings, the begotten, the renowned; may my (progeny), representing (their wishes), and uttering, his praises night and day, propitiates the glorified **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I hear of you as born the sole master of settlements, belonging to the  five peoples, glorious among the peoples,  
 (while) my hopes have grabbed (always) for the newest Indra, calling on  him (every) evening and dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I hear that thou wast born sole Lord of heroes of the Five Races, famed among the people.  
      As such my wishes have most lately grasped him, invoking Indra both at eve and morning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich höre, daß du allein als der rechtmäßige Herr über die fünf Völker geboren bist, geehrt unter den Völkern. Ihn haben meine Wünsche aufs neue festgehalten, die abends und morgens nach Indra rufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rühmt bei Menschen als den einz'gen Herrn man der fünf Geschlechter, den in Glanz gebornen, Drum fassen dich aufs neuste meine Wünsche; den Indra rufen abends wir und morgens.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот слышу я, что ты родился как единственный  
 Благой повелитель пяти народов, покрытый славой среди народов.  

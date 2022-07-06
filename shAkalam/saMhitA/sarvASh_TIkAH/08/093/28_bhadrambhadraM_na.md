@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्र꣡म्-भद्रं न आ꣡ भर  
 इ꣡षम् ऊ꣡र्जं शतक्रतो  
 य꣡द् इन्द्र मॄळ꣡यासि+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । इ॒न्द्र॒ । मृ॒ळया॑सि । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **शतक्रतो** शतविधकर्मन् शतप्रज्ञ वा **इन्द्र** **भद्रंभद्रं** कल्याणतममथ सुखोत्पादकं वा धनं **नः** अस्मभ्यम् **आ** **भर** आसंपादय देहि । तथा **इषम्** अन्नम् **ऊर्जम्** अन्नरसं यद्वा बलवदन्नं  च देहि । **नः** अस्मान् **यत्** यदि **मृळयासि** सुखयसि तर्हि तद्धनादिकं देहीति । ‘मृड सुखने'। ण्यन्तस्य लेट्याडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us what is most auspicious, **Śatakratu**, (bring us) food and strength, if you have favour to us,**Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring us every good thing, every refreshment and nourishment, o you  of a hundred resolves,  
 when you will show us mercy, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -113,7 +113,7 @@ A variant of the final pāda of the last tṛca (27c stotṛ́bhya indra mṛḷ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring to us all things excellent, O Satakratu, food and strength:  
      For, Indra, thou art kind to us.  
@@ -121,17 +121,17 @@ Bring to us all things excellent, O Satakratu, food and strength:
      Fbr, Indra, thou art kind to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns alles Gute, Speisegenuß, Stärkung, o Ratreicher, wenn du, Indra, uns barmherzig sein willst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O führe Heil auf Heil uns zu, vielwirkender und Speis' und Trank, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

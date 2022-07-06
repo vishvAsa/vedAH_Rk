@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नूनं꣡ यातम् अश्विना  
 र꣡थेन सू꣡रियत्वचा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 क꣡वी ग꣡म्भीरचेतसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 भुजी॒ इति॑ । हिर॑ण्यऽपेशसा । कवी॒ इति॑ । गम्भी॑रऽचेतसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -96,36 +96,36 @@ genre M
 हे **भुजी** हविषां भोक्तारौ यद्वा स्तोतृभिरन्नानां भोजयितारौ सर्वस्य जगतः पालकौ वा हे **हिरण्यपेशसा** हिरण्मयालंकारौ हिरण्मयावयवौ वा हे **कवी** क्रान्तदर्शिनौ स्तोतव्यौ वा हे **गम्भीरचेतसा** प्रशस्तज्ञानौ ईदृशौ हे **अश्विना** अश्विनौ सूर्यत्वचा सूर्यवद्भासमानेन **रथेन** **नूनम्** अवश्यमस्मान् **आ** **यातम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvin**, partakers of sacrificial food, decorated with golden ornaments, wise, and endowed with profoundintellects, come verily in your chariot, invested with solar radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now drive here with your sun-skinned chariot, o Aśvins,  
 you benefactors decorated in gold, you poets of deep perception.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come now, ye Asvins, on your car decked with a sun-bright canopy,  
      Bountiful, with your golden forms, Sages with depth of intellect.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet auch gewiß, ihr Asvin, auf dem Wagen mit der sonnenhellen Haut, ihr Nutzbringer, ihr Goldgeschmückten, ihr Seher von tiefer Einsicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf eurem Wagen, Ritter, kommt nun her, der wie die Sonne glänzt, Mit Gold geschmückt, erfreuende, o Seher ihr von tiefem Geist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас приезжайте, о Ашвины,  
 На колеснице, сверкающей, как солнце,  

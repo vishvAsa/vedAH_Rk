@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡धद् य꣡स् ते सुदा꣡नवे  
 धिया꣡ म꣡र्तः शश꣡मते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 द्विषो꣡ अं꣡हो न꣡ तरति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऊ॒ती । सः । बृ॒ह॒तः । दि॒वः । द्वि॒षः । अंहः॑ । न । त॒र॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛdhad* ← *ṛdhat* ← *ṛdh*
 - \[verb\], singular, Aorist conj./subj.
@@ -105,20 +105,20 @@ genre M
 **ऋधत्** । स यजमान ऋध्नुयात् हे अग्ने **सुदानवे** शोभनदानाय तुभ्यम् ॥ षष्ठ्यर्थं चतुर्थी ॥ तव संबन्धिना **धिया** कर्मणा **यः** **मर्तः** मरणधर्मा यजमानः **शशमते** शाम्यति । यद्वा । शमतिः स्तुतिकर्मा । त्वदर्थं कर्मणा युक्तः सन् स्तौति । **सः** यजमानः **बृहतः** महतः **दिवः** दीप्तस्य तव संबन्धिन्या **ऊती** ऊत्या रक्षया **द्विषः** द्वेष्टॄन् **अंहो** **न** आहननशीलं पापमिव **तरति** अतिक्रामति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the mortal prosper who propitiates you (his) benefactor, by holy rites; through the protection of you who are resplendent, he overcomes those who hate him, as if they were mortal sins.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who will bring (the sacrifice) to fulfillment with his insight  and will perform ritual labor for you of good gifts,  
 with the help of lofty heaven he crosses hatreds like narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problematic form in this vs. is the first word ṛ́dhat. It clearly belongs with the root aor. attested primarily in the opt. (ṛdhyā́ma, etc.) but also found once in the participle ṛdhánt-, with expected suffixal accent. It is the root accent that distinguishes the form here. Oldenberg (ZDMG 55.279 = KlSch 738; also Noten) suggests that it is a neut. part. used adverbially, with accent shift (*ṛdhát à ṛ́dhat) -- claiming that adverbial accent shift can go either way, simply marking an oppositional formation. But the standard exx. (dravát to drávati) involve a rightward shift, and in any case the whole notion of adverbial accent shift has recently been called into question (see Emily Barth’s Cornell diss.). Renou considers both possibilities and opts finally for the adverb, while Geldner takes it as a finite form. I prefer to take it as an aor.
 
@@ -143,23 +143,23 @@ VI.1.9b yás ta ā́naṭ samídhā havyádātim “who after kindling you [lit.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the man thrive who travails sore, in prayer, far thee the Bountiful.  
      He with the help of lofty Dyaus comes safe through straits of enmity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, der es dir, dem Gabenschönen, recht macht und mit Andacht den Dienst versieht, der kommt durch die Gnade des hohen Himmels über die Anfeindungen wie über die Not hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann gedeihet, welcher dir, dem reichen, dienet andachtsvoll; Er, durch des grossen Himmels Schutz, durchsetzt den Feind wie eine Schlucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Смертный, который удачно трудится с помощью молитвы  
 Для тебя, обладающего прекрасными дарами, –  

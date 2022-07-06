@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡न् मही꣡ मिथती꣡ स्प꣡र्धमाने  
 तनूरु꣡चा शू꣡रसाता य꣡तैते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सत्रा꣡ हतं सोमसु꣡ता ज꣡नेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अदे॑वऽयुम् । वि॒दथे॑ । दे॒व॒युऽभिः॑ । स॒त्रा । ह॒त॒म् । सो॒म॒ऽसुता॑ । जने॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 **मही** महत्यौ **मिथती** परस्परं हिंसन्त्यौ। यद्वा । मेथतिराक्रोशकर्मा । परस्परमाक्रोशन्त्यौ । **स्पर्धमाने** स्पर्धां कुर्वन्त्यौ **तनूरुचा**--- **हतं** हिंस्तम् । तथा **सोमसुता** सोममभिषुण्वता **जनेन** यजमानसंघेनासोमसुतं जनं हिंस्तम् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,29 +115,29 @@ genre M
 As two large: sam yan **mahī** mithati spardhamāne tanūrucā śūrasātāyataite: lit. two large reviling rivalling may strive together
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the two great opposing (forces) mutually contending, shining with  their own bodies, array themselves at the contest of champions,  
 at the rite of distribution do you two smash utterly the man unallied to  the gods with those allied to the gods, with the soma-pressing folk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When two great hosts, arrayed against each other, meet clothed with brightness, in the fierce encounter  
      Stand ye beside the godly, smite the godless; and still assist the men who press the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die beiden streitenden, wetteifernden Heerhaufen am Leibe glänzend im Heldenkampf sich messen, dann schlaget im Opferwettstreit vollständig den Götterfeindlichen durch die Götterfreundlichen, durch das somapressende Volk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn beide Reihen, wechselseitig kämpfend, in blanker Wehr zum Kampf zusammenstossen, Dann schlaget stets im Treffen durch die Frommen die Gottverächter, durch die Somapresser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда выстраиваются две великие враждующие, бросающие вызов (друг другу)  
 (Армии), сверкая телами, чтобы захватить (награду) героев,  

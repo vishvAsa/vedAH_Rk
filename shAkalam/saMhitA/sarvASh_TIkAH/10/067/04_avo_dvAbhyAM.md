@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवो꣡ दुवा꣡भ्याम् पर꣡ ए꣡कया गा꣡  
 गु꣡हा ति꣡ष्ठन्तीर् अ꣡नृतस्य से꣡तौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् उस्रा꣡ आ꣡कर् वि꣡ हि꣡ तिस्र꣡ आ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । तम॑सि । ज्योतिः॑ । इ॒च्छन् । उत् । उ॒स्राः । आ । अ॒कः॒ । वि । हि । ति॒स्रः । आव॒रित्यावः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avo* ← *avas*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 पणयो गा आहृत्य त्रिषु स्थानेषु निदधुः । **अवः** अवस्तात्स्थिताः **अनृतस्य** तमसः **सेतौ** स्थाने **गुहा** गुहायां **तिष्ठन्तीः** **गाः** **द्वाभ्यां** स्थानाभ्यामुदाजत् । ततः **परः** परस्तादवस्थिता गाः **एकया** एकेन स्थानेन उदगमयत् । तदेवाह। **बृहस्पतिः** तस्मिन् **तमसि** **ज्योतिः** कर्तुम् **इच्छन्** तत्र स्थिताः **उस्राः** गाः **उत्** **आकः** उदकार्षीत् । प्रादुर्भूता अकार्षीत् । इत्थमयं तिस्रः असुराणां द्वारः **वि** **आवः** विवृतवान् खलु। वृणोतेर्लुङि ‘मन्त्रे घस' इति च्लेर्लुक्।  ‘ बहुलं छन्दसि' इत्याडगमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bṛhaspati** purposing to bring light into the darkness drove out the cows standing in the cave in theplace of darkness below by two (ways), and those above by one (way); he opened the three (doors of the”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With two (gates) below, with one above, the cows standing hidden in the  fetter of untruth—  
 Br̥haspati, seeking light in the darkness, brought up the ruddy ones, for  he opened up the three (gates).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apart from one, away from two above him, he drave the kine that stood in bonds of falsehood.  
      Brhaspati, seeking light amid the darkness, drave forth the bright cows: three he made apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unten durch zwei, oben durch eine Tür hat Brihaspati die in den Banden des Unrechts versteckten Kühe, im Dunkeln das Licht suchend, herausgeholt, denn er hatte die drei Türen geöffnet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe [Lichtstrahlen], welche unterhalb zweier [Verschlüsse] und oberhalb des dritten verborgen standen an den Wehren, die der Ungerechte aufgethürmt hatte, sie, die schimmernden, brachte Brihaspati, Licht in der Finsterniss suchend, heraus; denn er schloss die drei Verschlüsse auf. [Die zwei Verschlüsse sind wol West und Ost, unter denen die Abend- und Morgenstrahlen verborgen liegen, und die dritte die Himmelskuppe, oberhalb deren die Tagesstrahlen verschlossen gedacht sind].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внизу через двое (ворот), вверху через одни  
 Брихаспати, ищущий свет во мраке,  

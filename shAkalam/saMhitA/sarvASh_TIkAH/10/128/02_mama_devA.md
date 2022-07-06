@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡म देवा꣡ विहवे꣡ सन्तु स꣡र्व  
 इ꣡न्द्रवन्तो मरु꣡तो वि꣡ष्णुर् अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ह्यं वा꣡तः पवतां का꣡मे अस्मि꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मम॑ । अ॒न्तरि॑क्षम् । उ॒रुऽलो॑कम् । अ॒स्तु॒ । मह्य॑म् । वातः॑ । प॒व॒ता॒म् । कामे॑ । अ॒स्मिन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mama* ← *mad*
 - \[noun\], genitive, singular
@@ -127,36 +127,36 @@ popular
 **सर्वे** **देवाः** **विहवे** संग्रामे यज्ञे वा **मम** **सन्तु** ममैव साधका भवन्तु । के पुनस्ते । **इन्द्रवन्तः** इन्द्रेण युक्ताः **मरुतो** **विष्णुरग्निः** च । तथा **अन्तरिक्षं** **मम** **उरुलोकं** विस्तीर्णप्रकाशकम् **अस्तु** ॥  ‘ लोकृ दर्शने ' । भावे घञ् । लोक आलोकः प्रकाशः । उरुर्लोको यस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ अपि च **अस्मिन्** **कामे** कामयितव्ये फले निमित्तभूते सति **वातः** वायुः **पवताम्** अनुगुणं प्रवातु ॥  ‘ पूङ् पवने '। भौवादिकः ।  ‘ ऊडिदम् ' इत्यादिना इदमः सप्तम्या उदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May all the gods be on my side in battle, the **Maruts** with **Indra**, **Viṣṇu** and **Agni**; may the expandedfirmament be mine, may the wind blow (propitiously) to this my desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mine be all the gods at the competing invocation: the Maruts together  with Indra, Viṣṇu, and Agni.  
 Mine be the midspace, providing a broad place. For me, at my desire, let  the wind purify itself [=blow].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May all the Gods be on my side in battle, the Maruts led by Indra, Visnu, Agni.  
      Mine be the middle air's extended region, ani may the wind blow favouring these my wishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mein sollen bei dem Wettrufen alle Götter sein, die Marut nebst Indra, Vishnu, Agni! Mein soll das weiträumige Luftreich sein, mir soll der Wind günstig wehen bei diesem Wunsche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei meinem Anruf seien alle Götter die Marutschar mit Indra, Vischnu, Agni, Mein sei die Luft mit ihrem weiten Raume, mir ströme hell der Wind zu diesem Wunsche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Моими пусть будут Все-Боги во время призыва-состязания:  
 Маруты с Индрой, Вишну, Агни!  

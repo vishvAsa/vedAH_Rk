@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡स्तच्युतेभिर् अ꣡द्रिभिः  
 सुतं꣡ सो꣡मम् पुनीतन  
 म꣡धाव् आ꣡ धावता म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मधौ॑ । आ । धा॒व॒त॒ । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hastacyutebhir* ← *hasta*
 - \[noun\], masculine
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विजः **हस्तच्युतेभिः** हस्तप्रच्युतैः **अद्रिभिः** अभिषवग्रावभिः ”सुतम् अभिषुतं **सोमं** **पुनीतन** पवित्रे पावयत । अपि च **मधौ** मदकरे सोमे **मधु** गव्यं पयः **आ** **धावत** प्रक्षिपत ॥ ॥३६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purify the **Soma** which has been effused by the stones whirled by the **hands**; mix the sweet (milk) in the inebriating juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify the soma pressed with stones set in motion by the hands.  
 Rinse the honey in honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purify Soma when effused with stones which bands move rapidly,  
      And pour the sweet milk in the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutert den Soma, den die von Händen bewegten Steine ausgepreßt haben; rühret Süßigkeit in die Süßigkeit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma reinigt, der gepresst von Hand-bewegten Steinen ist, Durchspült mit Süss den süssen Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайте сому, выжатого  
 Камнями, руками, приведенными в движение!  

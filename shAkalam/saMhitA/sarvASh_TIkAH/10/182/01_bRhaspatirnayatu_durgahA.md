@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्प꣡तिर् नयतु दुर्ग꣡हा तिरः꣡  
 पु꣡नर् नेषद् अघ꣡शंसाय म꣡न्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था करद् य꣡जमानाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 क्षि॒पत् । अश॑स्तिम् । अप॑ । दुः॒ऽम॒तिम् । ह॒न् । अथ॑ । क॒र॒त् । यज॑मानाय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ popular
 **बृहस्पतिः** बृहतां देवानां पतिः पालयिता ॥ ' तद्बृहतोः करपत्योश्चोरदेवतयोः सुट् तलोपश्च ' ( पा. म. ६.१. १५७) इति सुडागमस्तलोपश्च । ' उभे वनस्पत्यादिषु' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥ **दुर्गहा** दुर्गमनानां हन्ता स देवः **तिरः** **नयतु** तिरस्कर्तव्यानि पापान्यपसारयतु । **अघशंसाय** अस्माकमनर्थमाशंसमानाय पुरुषाय **मन्म** । मन्यतेर्दीप्तिकर्मणो मन्म । दीप्तमायुधं **पुनर्नेषत्** नयतु । नयतेर्लेट्यडागमः । ' सिब्बहुलम् ' इति सिप् । अपि च **अशस्तिम्** अयशस्विनं शत्रुं **क्षिपत्** क्षिपतु अस्मत्तः प्रेरयतु । **दुर्मतिं** दुर्बुद्धिं च **अप** **हन्** अपहन्तु । **अथ** अनन्तरं **शं** रोगाणां शमनं **योः** भयानां यावनं च **करत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ popular
 Difficulties: duragaha = destroyer of those who go wickedly; or, may he lead usacross difficulties
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Br̥haspati lead (our thought) across the difficult depths, but for the  utterer of evil he will lead his thought back (against him).  
 – He hurls aside malediction and smites away ill-will; then he will create  luck and life for the sacrificer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRHASPATI lead us safely over troubless and turn his evil thought against the sinner;  
      Repel the curse, and drive away ill-feeling, and give the sacrificer peace and cornfort!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati soll über die schlechten Furten hinwegbringen; er lenke den Anschlag auf den Übelredenden zurück. Er stoße die Afterrede von sich, wehre die Mißgunst ab und schaffe dem Opfernden Glück und Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns führe der Gebetsherr durch Gefahren, und geb' zurück den bösen Plan dem Bösen, Er werfe fort den Fluch und schlag' das Unheil, und schaffe dann dem Opfrer Heil und Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати пусть ведет через труднопроходимые места!  
 Пусть отведет он назад к злоречивому (его) заклинание!  

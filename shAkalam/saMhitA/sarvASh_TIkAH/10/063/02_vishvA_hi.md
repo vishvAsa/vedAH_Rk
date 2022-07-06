@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा हि꣡ वो नमसि꣡यानि व꣡न्दिया  
 ना꣡मानि देवा उत꣡ यज्ञि꣡यानि वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡ पृथिव्या꣡स् ते꣡ म इह꣡ श्रुता ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ये । स्थ । जा॒ताः । अदि॑तेः । अ॒त्ऽभ्यः । परि॑ । ये । पृ॒थि॒व्याः । ते । मे॒ । इ॒ह । श्रु॒त॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
@@ -141,7 +141,7 @@ genre M
 हे **देवाः** इन्द्रादयः । हिरवधारणे । **वः** युष्माकमेव **नामानि** नमनीयानि **विश्वा** सर्वाणि शरीराणि **नमस्यानि** नमस्कारार्हाणि भवन्ति **वन्द्या** वन्द्यानि स्तोतव्यानि च भवन्ति । **उत** अपि च **वः** युष्माकं तानि शरीराणि **यज्ञियानि** यज्ञार्हाणि भवन्ति । **ये** यूयम् **अदितेः** अदीनात् द्युलोकात् **अद्भ्यः** । अन्तरिक्षनामैतत् । अन्तरिक्षात् । परिः पञ्चम्यर्थद्योतकः । **पृथिव्याः** च **जाताः** प्रादुर्भूताः **स्थ** भवथ **ते** यूयम् **इह** अस्मिन्यज्ञे आगत्य **मे** मदीयं **हवम्** आह्वानं **श्रुत** शृणुत ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ genre M
 Appellations:nāmāni = śarīrāṇi, bodies or forms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For all your names, o gods, are worthy of homage, worthy of praise, and  they are worthy of the sacrifice.  
 You who were born from Aditi or from the waters, who from the earth,  listen to my call here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For worthy of obeisance, Gods, are all your names, worthy of adoration and of sacrifice.  
      Ye who were born from waters, and from Aditi, and from the earth, do ye here listen to my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn alle eure Namen sind ehrwürdig, lobwürdig, ihr Götter, und anbetungswert. Die ihr von der Aditi abstammet, vom Wasser, die ihr von der Erde, erhöret hier meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alle eure Namen, o ihr Götter, sind des Betens, der Verehrung und des Opfers werth; Die aus dem Himmel, aus der Erd', aus Wassern ihr geboren seid, vernehmet hier nun meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

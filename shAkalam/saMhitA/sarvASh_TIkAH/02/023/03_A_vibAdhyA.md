@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ विबा꣡ध्या परिरा꣡पस् त꣡मांसि च  
 ज्यो꣡तिष्मन्तं र꣡थम् ऋत꣡स्य तिष्ठसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रक्षोह꣡णं गोत्रभि꣡दं सुवर्वि꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । भी॒मम् । अ॒मि॒त्र॒ऽदम्भ॑नम् । र॒क्षः॒ऽहन॑म् । गो॒त्र॒ऽभिद॑म् । स्वः॒ऽविद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,37 +118,37 @@ genre M
 हेबृहस्पते परिरपः परितःरपःपापरूपंरक्षः यद्वा रपलपव्यक्तायांवाचि क्विप् परिवदतोनिन्दकान् तमांसिचविबाध्यतेज्सानिराकृत्य ज्योतिष्मन्तञ्ज्योतिषातद्वन्तं ऋतस्ययज्ञस्यप्रापकं भीमंशत्रूणाम्भयं करं अमित्रदम्भनं शत्रूणां हिंसकं तदेवाह रक्षोहणं रक्षसांहन्तारं गोत्रभिदं मेघानाम्भेत्तारं स्वर्विदं स्वर्गस्यलम्भकंरथमातिष्ठसि अधितिष्ठसि ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Having repelled revilers and (dispersed) the darkness you stand **Bṛhaspati**, on the radiant chariot of sacrifice, (which is) formidable (to foes), the humiliator of enemies, the destroyer of evil spirits, the cleaver of the clouds, the attainer of heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having pressed away evasive chatter and darkness, you mount truth’s  light-bearing chariot,  
 which terrifies, which vanquishes enemies, o Br̥haspati, and which  
 smashes demons, splits cowpens, and finds the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou hast chased away revilers and the gloom, thou mountest the refulgent car of sacrifice;  
      The awful car, Brhaspati, that quells the foe, slays demons, cleaves the stall of kine, and finds the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem du die Ausreden und die Finsternis des Herzens zerstreust, besteigest du den lichten Wagen des Gesetzes, o Brihaspati, den furchtbaren, der die Feinde überlistet, die Unholde tötet, die Kuhhöhle aufsprengt, das Himmelslicht findet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Dunkel jagend und die grausig summenden, besteigst den hellen Wagen du des Opferwerks, Den hehren, welcher Feinde tilgt, Gebetes Herr, Gespenster tödtet, Heerden schenkt und Glanz verschafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рассеяв перешептывания и мрак,  
 Ты восходишь на сверкающую колесницу (вселенского) закона,  

@@ -8,7 +8,7 @@ title = "+094"
 दशमेऽनुवाके दश सूक्तानि । तत्र ‘गौर्धयति' इति द्वादशर्चमाद्यं सूक्तमाङ्गिरसस्य बिन्दुनाम्नः पूतदक्षनाम्नो वार्षं गायत्रं मरुद्देवताकम् । तथा चानुक्रम्यते- ‘ गौर्धयति द्वादश बिन्दुः पूतदक्षो वा मारुतम्' इति । सूक्तविनियोगो लैङ्गिकः । प्रातःसवने सोमातिरिक्त एकं शस्त्रमुपजायते । तत्राद्यस्तृचोऽनुरूपः । सूत्रितं च - ‘अस्ति सोमो अयं सुतो गौर्धयति मरुतामिति स्तोत्रियानुरूपौ' (आश्व. श्रौ. ६. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 94 (703)  
 Maruts  
@@ -20,7 +20,7 @@ It is the first tr̥ca (vss. 1–3) that is the most problematic, however. It en
 The identification of the Maruts’ mother with Aditi in the first tr̥ca and the  ascription to them of epithets and activities characteristic of other gods in the rest of the hymn presumably stem from the same motive: to universalize the Maruts and  make them a species of All Gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

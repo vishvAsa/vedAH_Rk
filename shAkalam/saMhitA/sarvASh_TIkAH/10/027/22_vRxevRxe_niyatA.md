@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृक्षे꣡-वृक्षे नि꣡यता मीमयद् गउ꣡स्  
 त꣡तो व꣡यः प्र꣡ पतान् पूरुषा꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय सुन्व꣡द् ऋ꣡षये च शि꣡क्षत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अथ॑ । इ॒दम् । विश्व॑म् । भुव॑नम् । भ॒या॒ते॒ । इन्द्रा॑य । सु॒न्वत् । ऋष॑ये । च॒ । शिक्ष॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛkṣe* ← *vṛkṣa*
 - \[noun\], locative, singular, masculine
@@ -131,7 +131,7 @@ popular
 **वृक्षेवृक्षे** सर्वस्मिन् वृक्षमये धनुषि **नियता** संबद्धा **गौः** गोसंबन्धिनी स्नायुमती **मौर्वी** **मीमयत्** । मीमयतिः शब्दकर्मा। आकृष्यमाणा सती शब्दं करोति । **ततः** तस्माद्धनुषः **पुरुषादः** शत्रुजनानामत्तारः। मारयितार इत्यर्थः । **वयः** पक्षिसदृशा गन्तारो बाणाः **प्र** **पतान्** शत्रून् प्रति प्रपतन्ति। **अथ** तदानीम् **इन्द्राय** इन्द्रार्थं **सुन्वत्** सोमयागं कुर्वत् **ऋषये** **च** **शिक्षत्** कर्मणां द्रष्ट्र ऋत्विजे च संपूर्णां दक्षिणां दददपि **इदम्** ईदृशं **विश्वं** समस्तं **भुवनं** भूतजातं **भयाते** इन्द्राद्बिभेति । अन्यत्किमुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ popular
 Lit. :The cow lows attaached tree by tree (to different trees), the man-eating birds fly out from it (?from the tree)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Held in check within every tree, the cow [=fire?] will bellow. From there  the man-eating birds [=flames?] will fly forth.  
 Then all this creation here will be afraid, though pressing (soma) for  Indra and doing its best for the seer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bound fast to,every tree the cow is lowing, and thence the man-consuming birds are flying,  
      Then all this world, though pressing juice for Indra and strengthening the Rsi, is affrighted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An jedem Baume befestigt brüllt die Kuh, von da sollen die menschenfressenden Vögel auffliegen. Dann wird diese ganze Welt Furcht bekommen, dem Indra Soma pressend und dem Rishi zu Diensten stehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An jedem Baume angebunden brüllt die Kuh [des Todes, vgl. Vers 20], von dort her fliegen vor die den Menschen verzehrenden Vögel; darum ist diese ganze Welt voll Furcht, jeder braue dem Indra Soma, und beschenke den Sänger [um dem Tode zu entgehen].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

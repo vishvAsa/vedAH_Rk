@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ ष्मा ध꣡न्व आ꣡क्षितं  
 दा꣡ता न꣡ दा꣡ति आ꣡ पशुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऋभु꣡र् अ꣡निभृष्टतविषिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हिरि॑ऽश्मश्रुः । शुचि॑ऽदन् । ऋ॒भुः । अनि॑भृष्टऽतविषिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -103,7 +103,7 @@ genre M
 **स** **हि** **ष्म** स खल्वग्निः **धन्व** निरुदकप्रदेशम् **आक्षितं** तृणकाष्ठादिभिराक्षितम् **आ** **दाति** सर्वतः खण्डयति दहतीत्यर्थः । **दाता** तृणादिखण्डयिता **पशुः** **न** पशुरिव । पशुर्यथा तृणजातं क्रमेण भक्षयति तद्वत् । **हिरिश्मश्रुः** हिरण्यश्मश्रुः **शुचिदन्** दीप्तदन्तः **ऋभुः** उरु भवन् । महानित्यर्थः । **अनिभृष्टतविषिः** अपीडितबलः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,33 +116,33 @@ He crops the dry ground: dhanvākṣitam **dāti**: **dhanvā** = a plural ce wi
 Ākṣitam = tṛṇakāṣṭhādibhir ākṣiptam, tossed over with grass, timber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because like a mower, he again mows the uninhabitable wasteland like a  grazing animal— he of golden beard and blazing teeth, the craftsman whose might is  never blunted—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as a herd that crops the grass he shears the field and wilderness,  
      With flashing teeth and beard of gold, deft with his unabated might.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He indeed, the beast, mows off deserts and habitable land like a mower, the golden-bearded with brilliant teeth, the Ribhu of undecaying strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die Steppe, das bewohnte Land mäht er wie ein Mäher, recht wie ein grasendes Tier, der mit goldenem Barte, mit blanken Zähnen, ein Ribhu von ungeschwächter Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch immer grüne Auen mäht er ab, wie keine Heerd' es kann, mit hellem Zahn und goldnem Bart, der starke, ewig frisch an Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это он пустыню (и) заселенную землю  
 Косит, словно косец, словно (пасущийся) скот (все сьедает),  

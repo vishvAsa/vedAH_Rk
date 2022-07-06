@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श श्यावा꣡ ऋध꣡द्रयो  
 वीत꣡वारास आश꣡वः  
 मथ्रा꣡ नेमिं꣡ नि꣡ वावृतुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 म॒थ्राः । ने॒मिम् । नि । व॒वृ॒तुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
@@ -79,7 +79,7 @@ genre M
 **दश** दशसंख्याकाः **श्यावाः** श्याववर्णाः **आशवः** अश्वाः **नेमिं** रथनेमिं **नि** **वावृतुः** निवर्तयन्ति । रथं वहन्तीत्यर्थः । ईदृशास्ते **ऋधद्रयः** प्रवृद्धवेगाः **वीतवारासः** क्रान्तबलाः प्राप्तबला वा आशवः **मथ्राः'** मथनशीलाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,14 +90,14 @@ genre M
 Of complee power: vītavārāsaḥ = krāntabalaḥ prāptabala vā, having sleektails
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ten dusky (stallions), following wealth to fulfillment,  
 straight-tailed, swift,  
 skittish, have turned the felly homeward.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛdhád-rī/i- see Thieme 1958 (Fs. Turner): 157, EWA 118 (s.v. ARDH). Thieme tr. ‘luckily reaching wealth’. The nearby passage VIII.48.2 śraúṣṭīva dhúram ánu rāyá rdhy ̥ āḥ seems to confirm a connection between -rī/i and rayí. I tr. 48.2 “like an obedient mare the chariot pole you should follow riches to fulfillment” and adopt that interpretation here.
 
@@ -106,23 +106,23 @@ Their tails are presumably straight because they are going so fast their tails a
 Geldner takes mathrá- as a geographical designation: Mathra horses. But I see no reason not to connect it with √math ‘churn, agitate’, hence ‘skittish’. See also I.181.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten browns that make my wealth increase, fleet steeds whose tails are long and fair,  
      Turn with swift whirl my chariot wheel;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zehn dunkelbraune Matharosse, den Lauf gewinnende Renner mit geradem Schweife, wendeten im Kreise um,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn schnelle Rappen des Ridhadrī mit langgestreckten Schwänzen drehten rollend den Radkranz um.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять темно-коричневых успешно добывающих богатство  
 Коней матхра с прямыми хвостами  

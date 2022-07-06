@@ -8,7 +8,7 @@ title = "+052"
 ‘ प्र श्यावाश्व ' इति सप्तदशर्चमष्टमं सूक्तम् । अत्रेयमनुक्रमणिका –' प्र श्यावाश्व त्र्यूना श्यावाश्वो मारुतं ह तत्पङ्क्तिः षष्ठ्यन्त्या च ' इति । आत्रेयः श्यावाश्व ऋषिः । ‘ह तत्' इति प्रयोगात् इदमादीनि दश सूक्तानि मरुद्देवत्यानि । षष्ठी सप्तदशी च पङ्क्त्यौ शिष्टाः पङ्क्त्यन्तपरिभाषयानुष्टुभः । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 52 (406)  
 Maruts  
@@ -22,7 +22,7 @@ ceding verses (15–16).
 The density of imagery throughout is remarkable; we will give just one example,  from verse 9. There the Maruts are said to “clothe themselves in wool in the Paruṣṇī River.” The “wool” must stand for foam, off-white and fluffy like newly shorn wool.  But the river foam is yet another metaphorical substitute for something else, namely  clouds, which the Maruts as storm gods would be clothed in—all of this conveyed  in an economical half-verse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts The pattern of the mention of the Maruts’ name in this hymn is worth noting: it might be called a “versified paradigm” (à la I.1) with a hole in it. The various oblique forms of the plural stem marút- are densely clustered at the beginning of the hymn: instr. marúdbhiḥ (1b), gen. marútām (3c), loc. marútsu (4a), dat. marúdbhyaḥ (5d), and acc. marútaḥ (6d) -- each oblique case represented (if abl. is lumped with dat.), each once only. In addition there are three forms of the vṛddhied mā́rutam in the neut. acc. sg. later in the hymn (8a, 13c, 14a). However, though these gods are frequently referred to in the nom. pl. in the hymn, beginning with yé in 1c, and once in the voc. (dhṛṣṇavaḥ 14c), there are no forms of the nom. marútaḥ or the voc. márutaḥ / marutaḥ, although these are the most common forms of this stem in the RV. After the paradigm has been established in the early part of the hymn (1-6), there are no further occurrences of the simple stem in the 11 remaining vss. (7-17), only the three vṛddhi forms. I don’t know what, if anything, to make of this, but it does not seem by chance.
 

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न स्त꣡वान आ꣡ भर  
 गायत्रे꣡ण न꣡वीयसा  
 रयिं꣡ वीर꣡वतीम् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 र॒यिम् । वी॒रऽव॑तीम् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ७२ ) इत्यात्मनेपदम् । लटः शानच् । कर्तरि शप् । 'बहुलं छन्दसि ' ( पा. सू. २. ४. ७३ ) इति लुगभावः । गुणावादेशौ । ‘ आने मुक्' (पा. सू. ७. २.८२ ) इति मुक् न भवति, ‘ अनित्यमागमशासनम् ' ( परिभा. ९६ ) इत्यागमानुशासनस्य अनित्यत्वात् । शपः पित्त्वादनुदात्तत्वम् । शानचश्चित्वादन्तोदात्तस्य अदुपदेशात् शपः परत्वात् लसार्वधातुकानुदात्तत्वम् । धातुस्वर एव शिष्यते । भर । ‘ हृग्रहोर्भश्छन्दसि ' (पा. सू. ८. २. ३२. १ ) इति भत्वम् । गायत्रेण । गायत्र्याः संबन्धि गायत्रम् । तस्येदम् ' ( पा. सू. ४. ३. १२० ) इति अण्प्रत्ययः । प्रत्ययस्वरः । नवीयसा । नवशब्दात् आतिशायनिकः ईयसुन्प्रत्ययः । नित्त्वादाद्युदात्तः । वीरवतीम् । मतुब्ङीपोः पित्त्वादनुदात्तत्वम् । अकारः प्रातिपदिकस्वरेणोदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praised with our newest hymn, bestow upon us riches and food, the source of progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being praised with our newer song, bring us  
 wealth, a refreshment made of heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So lauded by our newest song of praise bring opulence to us,  
      And food, with heroes for our sons.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thus praised by us with our new Gayatra hymn, bring us wealth of valiant men and food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem neuesten Gesangeslied gepriesen bring du uns einen Schatz, das Labsal vieler Söhne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepriesen durch das neuste Lied, o Agni, bring uns Reichthum her, Und Labetrunk und Heldenschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославляемый новым песнопением,  
 Привези нам богатство –  

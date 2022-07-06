@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ स्विन् नो रा꣡जा जगृहे क꣡द् अस्य  
 अ꣡ति व्रतं꣡ चकृमा को꣡ वि꣡ वेद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छ्लो꣡को न꣡ याता꣡म् अ꣡पि वा꣡जो अ꣡स्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । चि॒त् । हि । स्म॒ । जु॒हु॒रा॒णः । दे॒वान् । श्लोकः॑ । न । या॒ताम् । अपि॑ । वाजः॑ । अस्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim*
 - \[adverb\]
@@ -156,14 +156,14 @@ genre M
 किंस्विच्छब्दो वितर्कार्थे । किंवा **राजा** दीप्यमानोऽग्निः **नः** अस्माकं स्वभूतानि हवींषि स्तुतीश्च **जगृहे** परिगृह्णीयात् किंवा **अस्य** अग्नेः **अति** **व्रतम्** अतिपूजितं परिचरणाख्यं कर्म **चकृम** वयं क्रियास्म । कर्मवैगुण्याद्भीतस्य पूर्वार्ध एतद्वचनमुक्तम् । उत्तरार्धं इदानीं तन्निराक्रियते । **हि** **स्म** इतीमौ पूरणौ । **चित्** इत्युपमार्थे । **जुहुराणः** स्निग्धेनाहूयमानः **मित्रः** स्निग्धो यथागच्छेत् तथा । **न** इति संप्रत्यर्थे । **श्लोकः** अस्मदीया स्तुतिलक्षणा वाक् **देवान्** इन्द्रादीन् **यातां** गच्छतु । **अपि** **वाजः** हविराख्यं चान्नं यत् **अस्ति** तदपि देवान प्रति गच्छतु । देवाः स्तुतिं हविश्च प्रतिगृह्णन्त्वित्यर्थः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “But will the royal **Agni** accept our oblation? Have we duly performed our vows to him? Who decides?As a friend affectionately invited, so let our praise now proceed to the gods; together with the sacrificial food thatis left over.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Why has king (Varuṇa) grasped [/complained about] us? What  
 commandment of his have we transgressed? Who fully understands?  
@@ -171,23 +171,23 @@ For Mitra, even when angry [/moving crookedly], is like a signal-call  (going) t
 chariots).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hath the King siezed us? How have we offended against his holy ordinance? Who knoweth?  
      For even Mitra mid the Gods is angry there are both song and strength for those who come not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hat uns denn der König Varuna gefaßt? Was haben wir wider sein Gebot getan? Wer weiß es gewiß? Denn auch Mitra, indem er die Götter verführt, nimmt am Siegespreis teil wie der gleichmäßige Ruf der Fahrenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was hat uns König Varuna ergriffen? was thaten gegen sein Gebot wir? sagt es; Auch Mitra kann die Götter irre führen; es naht der starke, wie der Schall der Wandrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почему же нас обвинил царь (Варуна)?  
 Что сделали мы против его завета? Кто (это) точно знает?  

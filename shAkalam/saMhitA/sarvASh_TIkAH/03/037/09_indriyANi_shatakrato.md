@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्रिया꣡णि शतक्रतो  
 या꣡ ते ज꣡नेषु पञ्च꣡सु  
 इ꣡न्द्र ता꣡नि त आ꣡ वृणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑ । तानि॑ । ते॒ । आ । वृ॒णे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indriyāṇi* ← *indriya*
 - \[noun\], nominative, plural, neuter
@@ -88,41 +88,41 @@ genre M
 **शतक्रतो** हे **इन्द्र** **ते** तव संबन्धिषु **पञ्चसु** **जनेषु** गन्धर्वाः पितरो देवा असुरा रक्षांसि इत्येषु **या** यानि **इन्द्रियाणि** रूपग्रहणादिसामर्थ्यानि स्थितानि **ते** त्वदीयानि **तानि** इन्द्रियाण्यहम् **आ** **वृणे** संभजे । यद्वा पञ्चजनेषु निषादपञ्चमेषु चतुर्षु जनेषु यानीन्द्रियाणि सामर्थ्यानि तानि त्वदीयान्यहमावृणे ॥ इन्द्रियाणि । इन्द्रियमिन्द्रलिङ्गमिन्द्रदृष्टमिन्द्रसृष्टमिन्द्रजुष्टमिन्द्रदत्तमिति वा' इति धच्प्रत्ययान्तत्वेन निपातनादन्तोदात्तः । वृणे । ‘वृङ् संभक्तौ ' इत्यस्य लटि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, object of many rites, I regard the organs of sense, that exist in the five races (of beings dependent) on you as yours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your Indrian powers that are among the five peoples—  
 Indra of a hundred resolves—those I want for myself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the indriyā́ṇi dispersed among the five peoples, see Proferes (2007: 65).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Satakratu, powers which thou mid the Five Races hast displayed-  
      These, Indra, do I claim of thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Kraftäußerungen, die unter den fünf Völkern bekannt sind, die erbitte ich mir von dir, ratreicher Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fünf Geschlechtern zeigst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те доблести Индры, о стоумный,  
 Которые у тебя среди пяти народов,  

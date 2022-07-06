@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अह्वे वा꣡जसातय  
 इ꣡न्द्रम् भ꣡राय शुष्मि꣡णम्  
 भ꣡वा नः सुम्ने꣡ अ꣡न्तमः स꣡खा वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 भव॑ । नः॒ । सु॒म्ने । अन्त॑मः । सखा॑ । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -95,7 +95,7 @@ genre M;; line affected by realignment
 **तं** पूर्वोक्तगुणं **शुष्मिणं** बलवन्तम् **इन्द्रं** **वाजसातये** बलानामन्नानां वा सातिर्लाभो यस्मिन् तादृशाय **भराय** संग्रामाय । यद्वा । भ्रियन्ते तस्मिन् हवींषीति भरो यज्ञः । प्रायेण संग्रामनामानि यज्ञनामत्वेन च दृश्यन्ते । भराय यज्ञार्थम् अह्वे आह्वये। ‘लिपिसिचिह्वश्च'  ‘ आत्मनेपदेष्वन्यतरस्याम्' इति ह्वयतेश्छान्दसे लुडि च्लेरादेशः । हे इन्द्र त्वं **सुम्ने** सुखे धने वा लिप्सिते सति **नः** अस्माकम् **अन्तमः** अन्तिकतमः संनिकृष्टतमः **भव**। ‘तमे तादेश्च' इत्यन्तिकशब्दस्य तादिलोपः । तथा **वृधे** वर्धनार्थं च **सखा** समानख्यानो मित्रभूतो भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M;; line affected by realignment
 **Bhara** = sacrifice; for our happiness: when wealth or happiness is sought,
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call on him, on Indra the tempestuous, for the winning of prizes, for  plunder.  
 Become, for us in your favor, our closest comrade, for strengthening.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “I call” in the published translation is a careless error for “I have called,” tr. augmented ahve and should be changed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, to win strength, have I invoked, even Indra mighty for the fray.  
      Be thou most near to us for bliss, a Friend to aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra habe ich angerufen, um den Siegerpreis zu erringen, zum Gewinn den Ungestümen. Sei uns in Huld der nahestehende Freund zum Gedeihen!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову для захвата награды этого  
 Индру, для добычи – неистового.  

@@ -8,7 +8,7 @@ title = "+016"
 ‘ आ सत्यो यातु ' इत्येकविंशत्यृचं षष्ठं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैन्द्रम् । अत्रेयमनुक्रमणिका -- ’आ सत्यः सैकैन्द्रम्' इति । तत्र ‘ऐन्द्रम्' इत्युक्तत्वादग्न्यधिकारो निवृत्त इत्यवगम्यते । चतुर्विंशेऽहनि माध्यंदिनसवने मैत्रवरुणशस्त्रे इदं द्वितीयमहीनसूक्तम् । तथा च सूत्रितम्-  आ सत्यो यात्वित्यहीनसूक्तं द्वितीयं मैत्रावरुणः ' ( आश्व. श्रौ. ७. ४) इति । समूळ्हे दशरात्रे नवमेऽहनि निष्केवल्यशस्त्रे इदं सूक्तम् । तथा च सूत्रितम्-‘आ सत्यो यात्वहं भुवं तत्त इन्द्रियमिति निष्केवल्यम्' ( आश्व. श्रौ. ८. ७) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 16 (312)  
 Indra  
@@ -21,7 +21,7 @@ The remainder of the hymn consists of appeals to Indra for help in contests and 
 The hymn is full of deep and surface puns, phonological play, and subtle echoes  across verses, and the poet takes some delight in setting up and then frustrating our  grammatical and mythological expectations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

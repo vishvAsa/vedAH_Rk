@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्री꣡ळन् नो रश्म आ꣡ भुवः  
 स꣡म् भ꣡स्मना वायु꣡ना वे꣡विदानः  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 सु꣡संशिता वक्षि꣡यो वक्षणेस्थाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ताः । अ॒स्य॒ । स॒न् । धृ॒षजः॑ । न । ति॒ग्माः । सुऽसं॑शिताः । व॒क्ष्यः॑ । व॒क्ष॒णे॒ऽस्थाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *krīﾱan* ← *krīḍ*
 - \[verb noun\], nominative, singular
@@ -120,7 +120,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे 'रश्मे रश्मिमन्नग्ने **क्रीळन्** वनेषु क्रीडन् **भस्मना** स्वकार्येण भसितेन **वायुना** प्रेरकेण मरुता च **सं** **वेविदानः** सम्यक् ज्ञायमानस्त्वं **नः** अस्माकम् **आ** **भुवः** । अभिमुखो भव । **वक्षणेस्थाः** वक्षणे वह्नौ स्थिताः **वक्ष्यः** । हविर्वहन्तीति वक्ष्यो ज्वालाः । **सुसंशिताः** सुतीक्ष्णाः **धृषजः** शत्रूणां धर्षिकाः **ताः** ज्वालाः **अस्य** यजमानस्य मम **न** **तिग्माः** न तीक्ष्णाः **सन्** सन्तु ॥ अस्तेर्लेटि रूपम् ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,35 +133,35 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Tigmā = **tīkṣṇaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Playing, o ray of light, you are here for us, ever finding yourself in  alliance with the biting Wind.  
 Hurl those well-sharpened flames, like daring warriors their sharp  
 (weapons), o you who stand in the belly [=fire pit].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beam of light, come to us in sportive fashion, finding thyself close to the wind that fans thee.  
      These flames of his are wasting flames, like arrows keen-pointed, sharpened, on his breast.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sporting, O beam of light, appear to us, joined with the ash, with the wind. May those well sharpened … of his, standing on …, be sharp like… 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spielend, o Strahl, mögest du uns beistehen, dich mit dem schnaubenden Winde vereinigend. Diese seine ......... Flammen mögen spitzig wie ........., wohl geschärft sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Munter hüpfend, o Strahl, sei uns hülfreich, dich mischend mit dem verzehrenden Winde; diese seine Flammen seien scharf wie kühne Helden, die wohlgeschärften, die sich auf dem fahrenden [Agni?] befinden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Играя, о луч, будь нам помощником,  
 Соединяясь с колючим ветром!  

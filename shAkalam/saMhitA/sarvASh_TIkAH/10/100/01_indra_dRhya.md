@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र दृ꣡ह्य मघवन् त्वा꣡वद् इ꣡द् भुज꣡  
 इह꣡ स्तुतः꣡ सुतपा꣡ बोधि नो वृधे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वेभिः॑ । नः॒ । स॒वि॒ता । प्र । अ॒व॒तु॒ । श्रु॒तम् । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 हे **इन्द्र** मघवन् धनवन् त्वं **त्वावदित्** त्वत्सदृशमेव शत्रुबलं **दृह्य** मारय । किमर्थम् । **भुजे** अस्माकं भोगाय। तदर्थम् **इह** अस्मिन् यज्ञे **स्तुतः** सन् **सुतपाः** सुतस्य अभिषुतस्य सोमस्य पाता **बोधि** बुध्यस्व । भवेत्यर्थः । किमर्थम् । **नः** अस्माकं वृधे वर्धनाय । किंच **देवेभिः** देवैः सह  **नः** अस्माकं **श्रुतं** विश्रुतं यज्ञं **सविता** सर्वस्य स्वस्वकर्मसु प्रेरको देवः **प्रावतु** प्ररक्षतु । किंच **सर्वतातिम्** । स्वार्थिकस्तातिल् । सर्वां सर्वात्मिकाम् । यद्वा । सर्वे तायन्तेऽस्यामिति सर्वतातिः । छान्दसो दीर्घः । तादृशीम् **अदितिम्** अखण्डनीयां देवमातरम् **आ** **वृणीमहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Aditi: sarvatāti = all; or, all-pervading, from tai, to extend
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, stand fast, bounteous one. A thing like you is to be enjoyed.  Praised as the soma-drinker, be here for our strengthening.  
 Let Savitar, along with the gods, further our (speech, so it is) heard. – We  choose wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be, like thyself, O Indra, strong for our delight: here lauded, aid us, Maghavan, drinker of the juice.  
      Savitar with the Gods protect us: hear ye Twain. We ask for freedom and complete felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Freigebiger Indra, bleib fest! Ein Gut wie dich muß man nutzen. Hier gepriesen sei du, der Somatrinker, uns zum Gedeihen! Savitri mit den Göttern soll dem gehörten Worte von uns den Vorzug geben! - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Halt an, o starker Indra, und geniess dein Theil, sei hier, gepriesner Somatrinker, uns zum Heil; Den Trank geniess uns mit den Göttern Savitar; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यव् आ꣡ तु꣡ हि꣡ षिञ्च꣡  
 सो꣡मं वीरा꣡य शिप्रि꣡णे  
 भ꣡रा सुत꣡स्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भर॑ । सु॒तस्य॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryav* ← *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अध्वर्यो** **शिप्रिणे** हनूमते **वीराय** शूरायेन्द्राय **सोमं** **तु** **हि** क्षिप्रमेव **आ** **सिञ्च** । **सुतस्य** सुतं सोमं **पीतये** पानाय च **भर** आहर च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Adhvaryu**, quickly pour forth the **Soma** to the hero **Indra** with the goodly jaws; bring the Soma for hisdrinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryu! Pour out the soma for the belipped hero.  
 Bring of the pressing (for him) to drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hí in the first imperative clause provides the logical basis for the second one. See Brereton 2012.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now to the Hero fair of cheek, Adhvaryu, pour the Soma forth:  
      Bring of the juice that he may drink
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu! So schenk doch für den Helden mit geöffneten Lippen den Soma ein; trag ihm vom Safte auf zum Trunke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, Priester, giesse Soma zu dem Mann, der schon die Lippen spitzt, Und reich den Saft zum Trunk ihm dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью, наливай же  
 Сому для прекрасногубого героя!  

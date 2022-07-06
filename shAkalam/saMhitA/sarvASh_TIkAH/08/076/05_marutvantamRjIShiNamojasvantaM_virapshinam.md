@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मरु꣡त्वन्तम् ऋजीषि꣡णम्  
 ओ꣡जस्वन्तं विरप्शि꣡नम्  
 इ꣡न्द्रं गीर्भि꣡र् हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । गीः॒ऽभिः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
@@ -67,7 +67,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मरुत्वन्तं** मरुद्भिस्तद्वन्तम् **ऋजीषिणम्** । अभिषुतशेष ऋजीषः । स च तृतीयसवने पुनः सूयते । तद्वन्तम् **ओजस्वन्तम्** । ओजो नामाष्टमी दशा । शरीरवृद्ध्युपेतमित्यर्थः । **विरप्शिनम्** । महन्नामैतत् । महान्तमेवंमहानुभावम् **इन्द्रं** **गीर्भिः** स्तुतिभिः **हवामहे** आह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -78,29 +78,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Residue: ṛjīṣiṇam, the residue of the Soma (ṛjīṣa) being offered at theTṛtīya evening oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Accompanied by the Maruts, possessing the silvery drink, mighty,  conferring abundance—  
 Indra do we invoke with songs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mighty, impetuous, begirt by Maruts, him who loudly roars,  
      Indra we invocate with songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den marutbegleiteten Indra, den Trestertrinker, den starken, im Überfluß lebenden, rufen wir mit Lobliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den mächt'gen mit der Marutschar, der vorwärts dringt mit Kraft begabt, Mit Liedern rufen Indra wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

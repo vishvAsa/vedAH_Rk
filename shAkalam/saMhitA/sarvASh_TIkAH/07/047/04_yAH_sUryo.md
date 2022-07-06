@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 याः꣡ सू꣡रियो रश्मि꣡भिर् आतता꣡न  
 या꣡भ्य इ꣡न्द्रो अ꣡रदद् गातु꣡म् ऊर्मि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ते । सि॒न्ध॒वः॒ । वरि॑वः । धा॒त॒न॒ । नः॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
@@ -123,7 +123,7 @@ genre M;; repeated line
 **सूर्यः** देवः **याः** अपः **रश्मिभिः** स्वकीयैः किरणैः **आततान** विस्तारयति । सूर्यो हि रश्मिभिरुदकसारमादाय वर्षतीत्यर्थः । **याभ्यः** अद्भ्यश्च **ऊर्मिम्** । अर्तेरिदं रूपम् गमनयोग्यं **गातुं** मेघेभ्यो निर्गमनसाधनं मार्गम् **इन्द्रः** अपि **अरदत्** वज्रेण मेघांस्ताडयन् प्रयच्छति हे **सिन्धवः** आपः **ते** यूयं **नः** अस्मभ्यं **वरिवः** धनं **धातन** धत्त प्रयच्छत । ते इति सिन्धुशब्देन समानाधिकरणत्वात् पुंलिङ्गत्वम् । हे अब्देवताः **यूयं** सर्वदा **नः** अस्मान् कल्याणैः पालयत ॥१४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M;; repeated line
 Indra: the sun having convertedthe waters of the earth into clouds, Indra, by his thunderbolt, cleaves the latter, and the water condensed falls asrain.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward whom the sun has stretched out with its rays, for whom Indra  has dug out a way, a wave,  
 do you, o Rivers, provide wide space for us. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom Surya with his bright beams hath attracted, and Indra dug the path for them to travel,  
      May these Streams give us ample room and freedom. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über welche die Sonne dich mit ihren Strahlen ausgedehnt hat, denen Indra die Bahn furchte, die Woge: ihr Ströme macht uns freie Bahn!-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr durchstrahlt seid von der Sonne Lichtern, und denen Indra weite Bahn gebrochen, O schaffet ihr uns weiten Raum, ihr Ströme, ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Над кем Сурья протянулся (своими) лучами,  
 Кому Индра пробуравил путь, (подняв) волну,  

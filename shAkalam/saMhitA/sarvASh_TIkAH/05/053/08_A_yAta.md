@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यात मरुतो दिव꣡  
 आ꣡न्त꣡रिक्षाद् अमा꣡द् उत꣡  
 मा꣡व स्थात पराव꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 मा । अव॑ । स्था॒त॒ । प॒रा॒ऽवतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -85,20 +85,20 @@ genre M
 हे **मरुतः** **परावतः** अत्यन्तदूरदेशात् **दिवः** द्युलोकात् **आ** **यात** । तथा **अन्तरिक्षात्** **आ** यात । **उत** अपि च **अमात्** अस्माल्लोकादा यात । परावत इत्यत्रापि वा योज्यम् । परावतो दूरदेशे तत्र तत्र द्युलोकादौ **माव** **स्थात** अवस्थितिं मा कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Maruts**, from heaven, from the firmament, or from this (earth); tarry not far off.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive hither, Maruts, from heaven, from the midspace, and from  nearby.  
 Do not stay away at a distance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The abl. parāvátaḥ is somewhat odd with mā́va sthāta “don’t stay away”; we would expect loc. parāváti, which is quite well-attested. It may be that parāvátaḥ has simply been harmonized with the ablatives in ab: divá(ḥ) … antárikṣād amā́t.
 
@@ -117,23 +117,23 @@ Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Maruts, come from heaven, from mid-air, or from near at hand  
      Tarry not far away from us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt her, ihr Marut, vom Himmel, von der Luft und von daheim; ziehet nicht ab in die Fernen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel kommt, o Maruts her, aus weiter Luft, von nahem Ort, nicht bleibet in der Ferne stehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, о Маруты, с неба,  
 Из воздушного пространства, а также из дому!  

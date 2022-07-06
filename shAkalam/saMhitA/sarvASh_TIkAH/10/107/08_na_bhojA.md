@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ भोजा꣡ मम्रुर् न꣡ निअर्थ꣡म् ईयुर्  
 न꣡ रिष्यन्ति न꣡ व्यथन्ते ह भोजाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एत꣡त् स꣡र्वं द꣡क्षिणैभ्यो ददाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒दम् । यत् । विश्व॑म् । भुव॑नम् । स्वः॑ । च॒ । ए॒तत् । सर्व॑म् । दक्षि॑णा । ए॒भ्यः॒ । द॒दा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -139,7 +139,7 @@ popular
 **भोजाः** भोजयितारो धनादिदानेन दातारः **न** **मम्रुः** न म्रियन्ते । देवत्वं भजन्त इत्यर्थः ॥ अत एव **न्यर्थम्** ॥  ‘ऋ गतौ । उषिकुषिगार्तिभ्यस्थन् (उ, सू. ३. ४)। समासे थाथादिस्वरः ॥ निकृष्टां गतिं **न** **ईयुः** न प्राप्नुवन्ति ॥ ' इण् गतौ । लिटि ‘ दीर्घ इणः किति' (पा. सू. ७. ४, ६९ ) इति दीर्घः ॥ तथा **न** **रिष्यन्ति** । कैश्चिदप्यहिंसिता भवन्ति । कर्मणि व्यत्ययेन परस्मैपदम् । अत एव **भोजाः** दातारः **न** **व्यथन्ते** । परस्परं न भीता न बाधिता वा भवन्ति । **ह** प्रसिद्धौ । किंच **इदं** परिदृश्यमानं **विश्वं** सर्वं **भुवनं** **यत्** भूतजातमस्ति **स्वश्च** स्वर्गलोकश्च **एतत्सर्वं** **दक्षिणा** स्वयम् **एभ्यः** तद्दातृभ्यः **ददाति** प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,29 +150,29 @@ popular
 Headed by Ayasya:or, unwearying; will retract their words: liṭ, vomit, i.e., reject
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The benefactors have not died, nor have they gone to a failed end; the  benefactors are not harmed, nor do they falter.  
 What is this whole world and the sun, all this does the priestly gift give  to them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The liberal die not, never are they ruined: the liberal suffer neither harm nor trouble.  
      The light of heaven, the universe about us,-all this doth sacrificial Guerdon give them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gastfreien sterben nicht, sie haben nie einen Fehlgang getan; die Gastfreien nehmen keinen Schaden, sie kommen nie zu Fall. Diese ganze Welt und das Himmelslicht, das alles gibt ihnen die Daksina.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Freigiebigen sterben nicht, sie gerathen nicht ins Elend; die Freigiebigen leiden nicht Schaden, sie wanken nimmer; was diese ganze Welt, was das Lichtreich in sich fasst, das alles gibt der Opferlohn den Gebern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Щедрые (никогда) не умирают, не идут к ложной цели,  
 Не терпят ущерба, не теряют равновесия щедрые.  

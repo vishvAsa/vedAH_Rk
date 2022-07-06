@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ देवासो अ꣡वथ वा꣡जसातौ  
 यं꣡ शू꣡रसाता मरुतो हिते꣡ ध꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡रिष्यन्तम् आ꣡ रुहेमा सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रा॒तः॒ऽयावा॑नम् । रथ॑म् । इ॒न्द्र॒ । सा॒न॒सिम् । अरि॑ष्यन्तम् । आ । रु॒हे॒म॒ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -111,36 +111,36 @@ genre M
 हे **देवासः** देवाः **वाजसातौ** अन्नभजनेऽन्नलाभे वा **यं** रथम् **अवथ** रक्षथ हे **मरुतः** **शूरसाता**। संग्रामनामैतत् शूराः स्यन्ति खिद्यन्तेऽत्रेति शूराः सीयन्ते विनाश्यन्ते योद्धृभिरत्रेति । तस्मिन्युद्धे **यं** रथं **हिते** निहिते **धने** धनमुद्दिश्य ।  ‘ निमित्तात्कर्मसंयोगे ' ( प. सू. २. ३. ३६. ६) इति सप्तमी । तदुद्दिश्य रक्षथ । सर्वेषां देवानां मुख्यत्वादिन्द्रमेवाभिलक्ष्य  वदत्युत्तरार्धेन। हे **इन्द्र** सर्वेषां मुख्य प्रातर्यावाणं   प्रातरेव युद्धं प्रति गन्तारं **सानसिं** संभजनीयम् **अरिष्यन्तं** कैश्चिदप्यहिंसितम् । यद्वा । इन्द्रसहायानां मरुतामबाधकम् । तं **रथं** **स्वस्तये** अस्माकं रक्षणाय वयम् **आ** **रुहेम** आरोहेम ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The chariot) which, deities, you protect for the supply of food; that which, **Maruts**, (you protect) inbattle for the sake of the deposited spoil; may we mount, **Indra**, the early-moving desirable irresistible chariot forour well- being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which one, o gods, you help at the contest for prizes, which one, o  Maruts, you help at the contest of champions when the stake is set,  
 that early-traveling, winning chariot, which suffers no harm, might we  mount, o Indra—for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which ye guard and grace in battle, O ye Gods, ye Maruts, where the prize is wealth, where heroes win,  
      That conquering Car, O Indra, that sets forth at dawn, that never breaks, may we ascend for happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchen Wagen ihr Götter bevorzuget im Kampfe um den Siegerpreis, welchen ihr Marut begünstigt im Kampfe um den Tapfersten, wann der Preis ausgesetzt ist, den frühausfahrenden, gewinnbringenden, unbeschädigten Wagen möchten wir, Indra, besteigen zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen, den, o Götter, ihr im Krieg beeilt, und in der Schlacht, o Maruts, bei entbranntem Kampf, Der frühe kommt, o Indra, und den Preis gewinnt, der nicht zerbricht, den lasst besteigen uns zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

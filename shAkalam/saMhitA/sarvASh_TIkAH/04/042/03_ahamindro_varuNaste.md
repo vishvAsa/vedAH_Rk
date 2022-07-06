@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् इ꣡न्द्रो व꣡रुणस् ते꣡ महित्वा꣡  
 उर्वी꣡ गभीरे꣡ र꣡जसी सुमे꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् ऐरयं रो꣡दसी धार꣡यं च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वष्टा॑ऽइव । विश्वा॑ । भुव॑नानि । वि॒द्वान् । सम् । ऐ॒र॒य॒म् । रोद॑सी॒ इति॑ । धा॒रय॑म् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -128,37 +128,37 @@ genre M
 **अहं** त्रसदस्युः **इन्द्रः** इन्द्रोऽप्यस्मि । अहं **वरुणः** च । **ते** **महित्वा** महित्वेन **उर्वी** विस्तीर्णे **गभीरे** दुरवगाहे अवकाशवत्यौ वा **सुमेके** सुरूपे **रजसी** द्यावापृथिव्यौ ते अप्यहमेव । **विद्वान्** जानन्नहं **त्वष्टेव** प्रजापतिरिव **विश्वा** **भुवनानि** सर्वाणि भूतानि **समैरयं** संप्रैरयम् । **रोदसी** द्यावापृथिव्यौ **धारयं** **च** धृतवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am **Indra**, I am **Varuṇa**, I am those two in greatness; (I am) the vast, profound, beautiful, heaven and earth; intelligent, I give **Tvaṣṭā**-like animation to all beings; I uphold earth and heaven\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I, Varuṇa, am Indra. By my greatness, these two realms, wide and deep,  have strong support.  
 Like Tvaṣṭar, knowing all living beings, I pressed together the two  
 world-halves and upheld them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I Varuna am Indra: in their greatness, these the two wide deep fairly-fashioned regions,  
      These the two world-halves have I, even as Tvastar knowing all beings, joined and held together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich Varuna bin Indra. Diese beiden weiten tiefen, festbegründeten Räume kenne ich in ganzer Größe und alle Geschöpfe wie Tvastri; ich habe die beiden Welten zustande gebracht und erhalte sie.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin, o Indra, Varuna, und mein ist das tiefe, weite, segensreiche Weltpaar, Als weiser Künstler schuf ich alle Wesen, den Himmel und die Erde, ich erhielt sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я, Варуна, – Индра. Эти два широких,  
 Глубоких, хорошо установленных пространства  

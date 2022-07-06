@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः सोम स꣡हो जु꣡वो  
 रूपं꣡ न꣡ व꣡र्चसे भर  
 सुष्वाणो꣡ देव꣡वीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒स्वा॒नः । दे॒वऽवी॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **देववीतये** देवपानाय देवानां कामाय वा **सुष्वाणः** अभिषूयमाणोऽभिषुतो भव त्वम् । **सहः** शत्र्वभिभवनसमर्थं बलं **जुवः** । जु इति गत्यर्थः। शत्रून् प्रति शीघ्रगमनं च । यद्वा । सर्वतो गमनशीलं बलं च । **न** इति चार्थे । **वर्चसे** ।  वर्च दीप्तौ । दीप्त्यै सर्वत्र प्रकाशनाय **रूपं** च **नः** अस्मभ्यम् **आ** **भर** आहर प्रयच्छ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Be) expressed for the banquet of the gods;bestow on us, **Soma**, strength, speed and a form for brilliance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring to us here, o Soma, strength and speed, as if in physical form, for  luster,  
 when you have been pressed to seek the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The s-stem neut. júvas- is a hapax, contrasting with the more conventionally formed and somewhat better attested jávas-. The zero-gr. root syllable is of course anomalous (see AiG II.2.232, without explanation), though see nearby dúvaḥ (vs. 3b), whatever its source. It may owe its form (or have been encouraged in maintaining its form) by the properly formed homonymous root noun pl. (vayo-)júvaḥ (to -jū́-) in the same metrical position in 26a below, as well as the aforementioned dúvaḥ also in the same position in 3b (cf. also ābhúvaḥ 27a, mayobhúvam 28a). A somewhat similar explan. is given by Renou Given the contextual triggers in this passage, it is probably wise not to invest too much in a deep diachronic account of the anomalous root syllable.
 
@@ -123,23 +123,23 @@ The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed for the banquet of the Gods, O Soma, bring us might, and speed,  
      Like beauty for a brilliant show.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns die Überlegenheit, o Soma, Schnelligkeit wie Schönheit unserem Aussehen, wenn du zur Götterladung ausgepreßt wirst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewandheit bringe her und Kraft wie Schönheit, Soma, uns zum Glanz Zum Göttermahle ausgepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

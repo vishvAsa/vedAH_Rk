@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ नो वाजसा꣡तमं  
 रयि꣡म् अर्ष पुरुस्पृ꣡हम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तुविद्युम्नं꣡ विभ्वास꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्दो॒ इति॑ । स॒हस्र॑ऽभर्णसम् । तु॒वि॒ऽद्यु॒म्नम् । वि॒भ्व॒ऽसह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -87,19 +87,19 @@ genre M
 हे **इन्दो** दीप्त **वाजसातमम्** अत्यन्तं बलप्रदमन्नप्रदं वा **रयिं** धनं पुत्रं वा **नः** अस्माकम् **अभि** ‘“अर्ष अभिगमय । कीदृशम् । **पुरुस्पृहं** बहुभिः स्पृहणीयं **सहस्रभर्णसं** बहुविधभरणम् । अनेकपोषणयुक्तमित्यर्थः। **तुविद्युम्नम्** । ‘द्युम्नं द्योततेर्यशो वान्नं वा ' (निरु. ५.५) इति यास्कः । बह्वन्नं बहुयशोयुक्तं वा **विभ्वसहम्** । विभ्व इति महन्नाम । महतोऽभिभवितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us, **Indu**, strength-bestowing riches, desired bymany, supporting many, far-celebrated and overcoming mighty (foes).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, stream to us the wealth coveted by many that best wins the prize, bringing a thousand presents, powerfully brilliant, vanquishing (even)  the distinguished.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the pattern set in motion by vāja-sā́tama-, see ad vs. 12.
 
@@ -110,23 +110,23 @@ In the rt. noun cmpd vibhvā-sáham Geldner, Renou, and Scarlatta (609-10) take 
 It is possible that vibhvā- does signal a pun on the Ṛbhu PN, but only as a secondary reading. One of the other Ṛbhus is named Vāja, and vāja- is the 1st member of a different rt. noun cmpd in this vs., also with a root meaning ‘win’ in the same semantic sphere as √sah: vāja-sā́tama- ‘best at winning prizes’. No one to my knowledge suggests that vāja- in that cmpd has the primary reading ‘PN, one of the Ṛbhus’, but vāja- may have enabled a pun on vibhvā-. In fact, it’s worth noting that, as Scarlatta points out (609 n. 875), vibhvāsáham gives a bad cadence, and *vibhū-ṣáham (as in vibhū́-vasu- ‘having distinguished goods’) would be better. So perhaps that 1st member *vibhū- was altered to vibhvā- to allow this punning reading.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STREAM on us riches that are sought by many, best at winning strength  
      Riches, O Indu, thousandfold, glorious, conquering the great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe, um uns siegverleihendsten Reichtum zu gewinnen, der vielbegehrt, o Saft, tausendaufwiegend, glanzvoll ist, welcher den des Vibhvan noch übertrifft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiesse kraftverleihendsten und vielbegehrten Reichthum uns, O Indu, tausendfältigen, der glanzreich ist und Helden zwingt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струи нам лучше всех захватывающее награду  
 Богатство, многожеланное,  

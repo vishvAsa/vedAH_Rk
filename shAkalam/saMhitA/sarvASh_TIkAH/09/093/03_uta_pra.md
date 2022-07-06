@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ प्र꣡ पिप्य ऊ꣡धर् अ꣡घ्नियाया  
 इ꣡न्दुर् धा꣡राभिः सचते सुमेधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ श्रीणन्ति व꣡सुभिर् न꣡ निक्तइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मू॒र्धान॑म्् । गावः॑ । पय॑सा । च॒मूषु॑ । अ॒भि । श्री॒ण॒न्ति॒ । वसु॑ऽभिः । न । नि॒क्तैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 **उत** अपि च **अघ्न्यायाः** । अघ्न्येति गोनाम । अहन्तव्याया गोः **ऊधः** पयःस्थानं सोमः **प्र** **पिप्ये** । ओषध्यादिषु सोमः प्रविश्य प्रकर्षेणाप्याययति । प्यायतेर्लिटि लिड्यङोश्च ' इति पीभावः । **सुमेधाः** शोभनप्रज्ञः सोऽयम् **इन्दुः** सोमः **धाराभिः** सचते समवैति संगच्छते । ततः **गावः** **चमूषु** । चमन्ति भक्षयन्यत्र सोममिति चम्वो ग्रहादयः । तेषु स्थितं **मूर्धानं** समुच्छ्रितमिमं सोमं **पयसा** श्वेतेन **अभि** **श्रीणन्ति** अभित आच्छादयन्ति । तत्र दृष्टान्तः । **निक्तैः** प्रक्षालितैः **वसुभिर्न** वस्त्रैर्यथाच्छादयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Nourish the cow's udder: the Soma entering the herbs, etc., nourishes the cow who eats them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the udder of the inviolable cow has swelled forth; the drop of good  wisdom is accompanied by streams.  
 The cows prepare his head with their milk in the cups, as if with freshly  washed goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The tr. “prepare” for abhí śrīṇanti in b does not harmonize well with the simile vásubhir ná niktaíḥ “as if with freshly washed goods.” Nor does the interpr.
 
@@ -140,23 +140,23 @@ put forth by Narten (“Ved. śrīṇā́ti …,” KZ 100 [1987] = KlSch 340ff.
 something like “they beautify his head …,” which is not far from ‘bring to perfection’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, swollen is the udder of the milch-cow: thither in streams goes very sapient Indu.  
      The kine make ready, as with new-washed treasures, the Head and Chief with milk within the vessels.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und das Euter der Kuh ist angeschwollen, der weisheitsreiche Saft hat Ströme im Gefolge. Die Kühe mischen und bedecken mit ihrer Milch sein Haupt in den Camugefäßen wie mit frisch gewaschenen guten Sachen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geschwollen ist das Euter schon der Milchkuh, der weise Indu geht mit ihr in Strömen; Sein Haupt bedecken Kühe in den Bechern mit warmer Milch wie mit gewaschnen Kleidern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также набухло вымя коровы:  
 Очень мудрый сок сомы сопровождается потоками.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वाग्ने म꣡म स्तु꣡तो  
 वाश्रा꣡य प्रतिह꣡र्यते  
 गोष्ठं꣡ गा꣡व इवाशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गो॒ऽस्थम् । गावः॑ऽइव । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -84,43 +84,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **अग्ने** **त्वा** त्वां **मम** आङ्गिरसस्य **स्तुतः** स्तुतयः **वाश्राय** वाशनशीलाय वत्साय **प्रतिहर्यते** पयः कामयमानाय दोग्धुं **गोष्ठं** **गावइव** यथा गावः प्रविशन्ति तथा **आशत** प्राप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “My praises hasten to you, **Agni**, as cows enter their stalls (to give milk) to the thirsting calves.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you, Agni, have my praises reached—(the praises generated) for  the bellowing one who yearns for (them)—  
 like cows their cow-stall.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the case disharmony between acc. tvā in a and the dat. phrase in b, I take them both as referring to Agni (so also Oldenberg). Geldner takes the dat. in b as part of the simile in c, referring to a calf awaiting the cows coming to its stall. (Renou’s tr.
 
 seems to combine the two.) But vs. 2a ásmai te pratiháryate (and cf. VIII.44.2 práti … harya) establishes Agni as the primary referent here, though a secondary connection with a calf (via the bellowing) isn’t impossible. As for the case difference, vs. 2 provides a possible solution, since the verb there is jánāmi ‘I generate’, construed with the dat. of benefit. Hence my “(praises generated)” here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 My praises, Agni, go to thee, as the cows seek the stall to meet,  
      The lowing calf that longs for milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und zu dir, Agni, sind meine Loblieder wie die Kühe zum brüllenden, erwartenden Kalbe in den Stall gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir eilen meine Lieder zu, wie Kühe, Agni, in den Stall Zum Kalbe, das verlangend brüllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также мои хвалы достигли  
 Тебя, как коровы – стойла,  

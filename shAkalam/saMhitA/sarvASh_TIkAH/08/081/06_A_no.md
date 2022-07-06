@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो भर द꣡क्षिणेन  
 अभि꣡ सव्ये꣡न प्र꣡ मृश  
 इ꣡न्द्र मा꣡ नो व꣡सोर् नि꣡र् भाक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इन्द्र॑ । मा । नः॒ । वसोः॑ । निः । भा॒क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -99,41 +99,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **इन्द्र** **नः** अस्मभ्यम् **आ** **भर** । आहृत्य **दक्षिणेन** **सव्येन** च हस्तेनोभाभ्यां हस्ताभ्याम् **अभि** **प्र** **मृश** । प्रयच्छेत्यर्थः। **नः** अस्मान् **वसोः** धनात् **मा** **निर्भाक्** मा निर्भाक्षीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us (gifts) with your right **hand**, and with your left bestow them on us; exclude us not, **Indra**, fromwealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring to us with your right hand; seize with your left.  
 Indra, don’t deal us out of goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verbs ā́√bhṛ and (abhí) prá √mṛś are also paired in VIII.21.16 drḍ̥ hā cid aryáḥ prá mrśḁ̄ bhy ā́bhara “Seize hold of even the firmly fixed (goods) of the stranger and bring them here.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, with thy right hand bring, and with thy left remember us.  
      Let us not lose our share of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns mit der Rechten, greif mit der Linken zu! Indra, schließ uns nicht von dem Gute aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring uns Schätze mit der Rechten, greife zu mit deiner Linken, Theile Gut uns mit, o Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

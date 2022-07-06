@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इ꣡न्द्रो गा꣡ अजयत् सं꣡ हि꣡रण्या  
 स꣡म् अश्विया꣡ मघ꣡वा यो꣡ ह पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रायो꣡ विभक्ता꣡ सम्भर꣡श् च व꣡स्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ए॒भिः । नृऽभिः॑ । नृऽत॑मः । अ॒स्य॒ । शा॒कैः । रा॒यः । वि॒ऽभ॒क्ता । स॒म्ऽभ॒रः । च॒ । वस्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -130,20 +130,20 @@ genre M
 **यो** **ह** यः खलु **मघवा** धनवान् **इन्द्रः** **गाः** असुराणां **सम्** **अजयत्** सम्यक् जितवान् भवति । किंच **हिरण्या** हिरण्यानि हितरमणीयानि शत्रुसंबन्धीनि धनानि **सम्** अजयत् । तथा **अश्विया** अश्वियानि शत्रुसंबन्धिनोऽश्वसमूहान् सम्यक् जयति स्म । तथा **पूर्वीः** बह्वीः शत्रुसेनाः समजयत् । इन्द्रः सर्वान् शत्रून् जित्वा सकलमपि पश्वादिधनमपहृतवानित्यर्थः। **शाकैः** सामर्थ्यैः **नृतमः** नेतृतमः पश्वादीनामतिशयेन निर्वाहकः स इन्द्रः **एभिर्नृभिः** नेतृभिः स्तोतृभिः स्तुतः सन् **अस्य** **रायः** पश्वादिरूपस्य धनस्य **विभक्ता** स्तोतृभ्यो विभागस्य कर्ता । दाता भवतीत्यर्थः । किंच **वस्वः** वसुनो धनस्य **संभरश्च** संभर्ता धारकश्च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the lord of opulence, who has overcomemany (enemies), has completely won (their) cattle, (their) gold, (their) horses; chief leader by his energies, praised by these his worshippers, he is the distributor of riches, the bestower of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra conquered the cows altogether, altogether (the bounties) in gold and  horses—he who through the many (autumns) is a bounteous patron,  
 the best of men with these able men of his, the apportioner of wealth  and the one who brings the goods altogether.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stem aśvi yá- with suffixal accent is ordinarily a PN; the adj. ‘equine’ is regularly áśv i ya-. However, as noted by AiG II.2.816 the accent of -ya- derivatives is variable, often within the same stem. The initial-accented áśvya- in the plural generally modifies maghā́(ni) or rā́dhāṃsi. Here I am inclined to supply maghā́ni ‘bounties’ suggested by adjacent maghávā; cf. … maghā́ni maghávā in 8d and the repeated forms of maghávan- in this portion of the hymn (7d, 8d, 9b, 13b, 13d).
 
@@ -152,23 +152,23 @@ The referent of pūrvī́ḥ isn’t clear. Geldner (/Witzel Gotō) supplies ‘
 Moreover, in this group of hymns pūrvī́ḥ is used in temporal expressions: IV.16.19 kṣapáḥ … śarádaś ca pūrvī́ḥ “through many nights and autumns,” IV.18.4 sahásram mā́saḥ … śarádaś ca pūrvī́ḥ “for a thousand months and many autumns,” IV.19.8 pūrvī́r uṣásaḥ śarádaś ca “through many dawns and autumns.” I therefore take it that way here, as a temporal expression in a nominal rel. cl. with maghávā as the predicate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath won all kine, all gold, all horses,-Maghavan, he who breaketh forts in pieces;  
      Most manly with these men of his who help him, dealing out wealth and gathering the treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat Rinder, Gold, Rossherden zusammenerobert, der Freigebige, der viele Burgen erobert hat, mit diesen Männern, seinen Hilfstruppen, er der Mannhafteste, der Verteiler des Reichtums und Zusammenbringer von Gut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Kampf gewann viel Gold und Rinder Indra, Rossscharen er, der mächt'ge Burgzerstörer; Der männlichste mit Männern, seinen Helfern, vertheilt den Reichthum, speichert auf die Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра согнал вместе коров, со (гнал) золото,  
 Со(гнал) табуны коней, щедрый (бог), который (разграбил) многие (крепости),  

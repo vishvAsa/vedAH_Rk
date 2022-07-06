@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवा꣡व् इमउ꣡ वा꣡तौ वात  
 आ꣡ सि꣡न्धोर् आ꣡ पराव꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡रान्यो꣡ वातु य꣡द् र꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दक्ष॑म् । ते॒ । अ॒न्यः । आ । वा॒तु॒ । परा॑ । अ॒न्यः । वा॒तु॒ । यत् । रपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvāv* ← *dvau* ← *dvi*
 - \[noun\], nominative, dual, masculine
@@ -117,36 +117,36 @@ popular;; epic anuṣṭubh (380)
 **इमौ** दृश्यमानौ **द्वौ** **वातौ** पुरोवातः पश्चाद्वातश्च **आ** **सिन्धोः** आ समुद्रात् । मर्यादायामाकारः । यद्वा **आ** **परावतः** समुद्रादपि यो दूरदेशः तं देशमवधीकृत्य **वातः** गच्छतः । ‘वा गतिगन्धनयोः । आदादिकः । तयोर्वातयोः **अन्यः** एको हे स्तोतः **ते** तव **दक्षं** बलम् **आ** **वातु** आगमयतु । **अन्यः** च त्वदीयं **यद्रपः** पापं तत् **परा** **वातु** परागमयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These two winds blow to the regions which are far beyond the ocean; may the one bring you vigour,may the other blow away all evil.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two winds blow from the river to the far distance.  
 Let the one blow skill here for you; let the other blow far away what is  malady.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two several winds are blowing here, from Sindhu, from a distant land.  
      May one breathe energy to thee, the other blow disease away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese beiden Winde wehen von der Sindhu her in die Ferne. Der eine soll dir Kraft zuwehen, der andere soll das Gebreste fortwehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei Winde sind es hier, die wehn, vom Meere und vom fernen Land; Der eine wehe Kraft dir zu, der andre dein Gebrechen fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два эти ветра дуют  
 С реки (и) с дальней стороны.  

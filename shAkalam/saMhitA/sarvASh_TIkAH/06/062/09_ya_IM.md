@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ईं रा꣡जानाव् ऋतुथा꣡ विद꣡धद्  
 र꣡जसो मित्रो꣡ व꣡रुणश् चि꣡केतत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रो꣡घाय चिद् व꣡चस आ꣡नवाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ग॒म्भी॒राय॑ । रक्ष॑से । हे॒तिम् । अ॒स्य॒ । द्रोघा॑य । चि॒त् । वच॑से । आन॑वाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 **यः** नरः **रजसः** समस्तस्य लोकस्य । ‘लोका रजांस्युच्यन्ते' इति यास्केनोक्तत्वात् । **राजानौ** **ईम्** एतौ अश्विनौ **ऋतुथा** काले काले **विदधत्** परिचरति तं **मित्रो** **वरुणः** च **चिकेतत्** जानीयात् । मित्रवरुणप्रभृतयो" देवा एनं विदुरित्यर्थः । किंचायं परिचारकः **गम्भीराय** महाबलाय **रक्षसे** राक्षसाय **हेतिं** घातकमायुधम् **अस्य** अस्यति । क्षिपति । प्रथमपुरुषस्य मध्यमपुरुषेण व्यत्ययः । **द्रोघाय** अभिद्रोहात्मकाय **आनवाय** मनुष्यसंबन्धिने **वचसे** **चित्** वचनायैव हेतिमस्यति । मनुष्याणामभिद्रोहाय एनम् आस्कन्दतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Droghāya cid vacase ānavāya = abhidrohātmakāya manuṣyasambhandine vacanāya eva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which (one of) the two kings, Mitra or Varuṇa, will keep watch over the  airy realm, regulating it according to the proper sequence—  
 hurl your missile at the deep-embedded demonic power and also at the  deceitful speech of the Anu people.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the syntax of this vs. is unregulated. However, the sense is quite clear. The first hemistich consists of a rel. clause, whose rel. prn.
 
@@ -144,23 +144,23 @@ I take rájasaḥ as the gen. obj. of cíketat (so also Oldenberg), in the usual
 The second hemistich has no direct syntactic connection to the first, though again it is quite clear what is meant. It contains a 2nd sg. impv. asya ‘hurl’, which must be addressed to the referent of the rel. prn. in ab -- that is, either Mitra or Varuṇa. Although it is common to change person reference even within RVic vss., it is somewhat unusual to do so in this kind of syntagm. In d Renou calls the phrase dróghāya cid vácase a bahuvrīhi “défait,” for *droghavacas- [he gives no accent], like drogha-vā́c-. Judging from his tr. “auf den gar verlogenen Anuiden,” Geldner seems to agree. But this seems unnec.; the dative targets of the missile in c and d are both s-stem abstracts, rákṣas- ‘demonic power’ and vácas- ‘speech’ respectively. I see no reason to try to manipulate the target in d to be personal. Scarlatta (469) interpr. as I do.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he who knows, as Varuna and Mitra, air's realm, appointing both the Kings in season,  
      Against the secret fiend cast forth his weapon, against the lying words that strangers utter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer auch von euch beiden, Mitra oder Varuna, - die beiden Könige des Luftreiches - ihn entdeckt, je zu seiner Zeit schaltend, wirf du das Geschoß nach dem versteckten Unhold, auf den gar verlorenen Anuiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer zu den rechten Zeiten sie [Mitra und Varuna] als die beiden Könige bedient (?) – – Auf den Luftraum achte Mitra und Varuna (?) – – Schleudre [o Rudra] deine Lanze auf das tiefe Nachtgespenst, auf jede trügerische menschliche Rede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто правит в соответствии с порядком, (а именно,) два царя:  
 Митра (или) Варуна, (и) озирает воздушный простор -  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्वा देवा꣡स आशत  
 न꣡ म꣡र्तियासो अद्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 न꣡ त्वा देवा꣡स आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्वा॑ । जा॒तानि॑ । शव॑सा । अ॒भि॒ऽभूः । अ॒सि॒ । न । त्वा॒ । दे॒वासः॑ । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -108,35 +108,35 @@ genre M;; repeated line
 हे अद्रिवो वज्रवन्निन्द्र त्वा त्वां देवासः त्वदन्ये सर्वे देवाः नाशत स्वकर्मणा स्वबलेन वा नव्याप्नुवन्ति । नमर्त्यासो मर्त्या मनुष्याश्च न व्याप्नुवन्ति । कुतएतदवसीयते तदाह-विश्वा विश्वानि सर्वाणि जातानि भूतजातानि शवसा स्वबलेनैवाभिभूरसि अभिभावुकोसि भवसि । तस्मात् नत्वादेवासआशतेतिगतार्थः ॥ ९ ॥ चातुर्विंशिकेहनि माध्यन्दिनसवने ब्राह्मणाच्छंसिनो विश्वाःपृतनाइति वैकल्पिकःस्तोत्रियः । सूत्रितञ्च-विश्वाःपृतनाअभिभतरन्नरं तमिन्द्रं- जोहवीमीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thunderer, neither gods nor mortals equal you by their acts; you surpass all beings by your might, thegods equal you not.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods have not attained you, nor mortals, o possessor of the stone. You dominate all created things with your vast power. The gods have  not attained you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Caster of the Stone, nor Gods nor mortals have attained to thee.  
      Thou in thy might surpassest all that hath been made: the Gods have not attained to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht haben dich Götter noch Sterbliche erreicht, du Herr des Preßsteins. Allen Geschöpfen bist du an Kraft überlegen, nicht haben dich die Götter erreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter nicht erreichen dich, nicht Sterbliche, o Schleuderer; An Stärke übertriffst du alles Lebende, die Götter nicht erreichen dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя не достигли боги  
 И смертные, о хозяин давильных камней.  

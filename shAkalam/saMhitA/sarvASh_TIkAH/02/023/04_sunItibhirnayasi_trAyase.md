@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुनीति꣡भिर् नयसि त्रा꣡यसे ज꣡नं  
 य꣡स् तु꣡भ्यं दा꣡शान् न꣡ त꣡म् अं꣡हो अश्नवत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृ꣡हस्पते म꣡हि त꣡त् ते महित्वन꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ब्र॒ह्म॒ऽद्विषः॑ । तप॑नः । म॒न्यु॒ऽमीः । अ॒सि॒ । बृह॑स्पते । महि॑ । तत् । ते॒ । म॒हि॒ऽत्व॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sunītibhir* ← *sunītibhiḥ* ← *sunīti*
 - \[noun\], instrumental, plural, feminine
@@ -131,7 +131,7 @@ genre M
 हेबृहस्पते सुनीतिभिः शोभनानीतयोतेसुनीतयः सन्मार्गाःतैर्जनन्नयसि अपेक्षितफलम्प्रापयसि त्रायसेजनमापद्भ्योरक्षसिच किञ्च योयजमानःतुभ्यं हविर्लक्षणमन्नन्दाशात् प्रयच्छेत् दाश्रृदाने लेट्या डागमः तमंहः पापम्पापरूपदारिद्र्यं वानाश्नवत् नप्राप्नुयात् अश्नोतेर्लेटिव्यत्ययेनपरस्मैपदं अडागमः ब्रह्मद्विषः ब्राह्मणानाम्मन्त्रणांवाद्वेष्टुः तपनः तापकोसि किञ्च मन्युमीः मन्योःक्रोधस्यपरेषाञ्ज्ञानस्य वाहिंसकोसि मीङ् हिंसायां क्विप् तेतवतत्तादृशं महिमहत्प्रभूतं महित्वनं माहात्म्यमस्ति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ genre M
 Him who hates holy prayers: brahmadviṣaḥ = those who hate either the **brāhmaṇas**,or the **mantras** or prayers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You guide with good guidance, and you rescue the man who will do  (ritual) service for you. Distress will not reach him.  
 Confounding his fury, you are the scorcher of him who hates the sacred  formulation. Br̥haspati, great is that greatness of yours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou leadest with good guidance and preservest men; distress o'ertakes not him who offers gifts to thee.  
      Him who hates prayer thou punishest, Brhaspati, quelling his wrath: herein is thy great mightiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit guten Weisungen leitest du, schützest du den Mann, der dir zu spenden pflegt; ihn soll keine Not treffen. Du schaffst brennende Pein, du vereitelst den bösen Eifer des Feindes des Priesterworts: Das ist deine hehre Größe, o Brihaspati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch schöne Leitung leitest, rettest du den Mann; der dich verehret, nicht erreicht Bedrängniss den; Die Andachthasser brennend, hemmst du ihre Wuth; das ist, Gebets Herr, deine grosse Allgewalt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ведешь с помощью добрых указаний, ты спасаешь человека,  
 Который тебя почитает, – узость не застигнет его.  

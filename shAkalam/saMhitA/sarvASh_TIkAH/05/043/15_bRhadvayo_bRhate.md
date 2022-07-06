@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् व꣡यो बृहते꣡ तु꣡भ्यम् अग्ने  
 धियाजु꣡रो मिथुना꣡सः सचन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो माता꣡ पृथिवी꣡ दुर्मतउ꣡ धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 दे॒वःऽदे॑वः । सु॒ऽहवः॑ । भू॒तु॒ । मह्य॑म् । मा । नः॒ । मा॒ता । पृ॒थि॒वी । दुः॒ऽम॒तौ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -137,7 +137,7 @@ genre M;; repeated line
 **बृहत्** प्रभूतं **वयः** अन्नं हे **अग्ने** बृहते **तुभ्यं** **धियाजुरः** कर्मणा जीर्णाः **मिथुनासः** पत्नीभिः सहिताः **सचन्त** सेवन्ते । ‘जायापती अग्निमादधीयाताम्' इत्यादिश्रुतेः । अधिकाराध्याये षष्ठे स्त्रिया अप्यधिकारः स च पत्या सह (पू. मी. ६ . १. २४ ) इति हि प्रतिपादितम् । अवशिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,34 +148,34 @@ genre M;; repeated line
 Jointly offer: jāyāpati agnim adadhīyātām, let husband and wife worship or keep up Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lofty vigor for lofty you, Agni, do those rivalrous (priestly) pairs, who  reach old age through their insight, pursue.  
 Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Renou and Witzel Gotō take pāda a as a separate nominal clause. This is certainly possible, and an alternative tr. of the hemistich could be “to you, the lofty one, there (belongs) lofty vigor, Agni. The … (priestly) pairs attend upon (you).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, great vital power is thine, the mighty: pairs waxing old in their devotion seek thee.  
      May every Deity be swift to listen, and Mother Earth with no ill thought regard me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An deine, des Hotri, hohe Kraft, o Agni, halten sich die in Andacht ergrauten Ehepaare. Jeder Gott soll für mich gut zu errufen sein. Nicht soll uns die Mutter Erde in Mißgunst bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir Agni weihen grosse Kraft, dem grossen, im Andachtswerk ergrauet die verbundnen; Ein jeder Gott erhöre recht mein Rufen; nicht geb' uns hin der Ungunst Mutter Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высокая сила (присуща) тебе, высокому, о Агни.  
 (За тобой) следуют пары, состарившиеся в молитве.  

@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वः श꣡र्धं र꣡थानां᳐  
 त्वेषं꣡ गण꣡म् मा꣡रुतं न꣡व्यसीना᳐म्  
 अ꣡नु प्र꣡ यन्ति वृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अनु॑ । प्र । य॒न्ति॒ । वृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -91,20 +91,20 @@ genre M
 **तं** मारुतमित्यनेन संबध्यते । **वः** युष्माकं प्रेरकं **नव्यसीनां** नूतनानां **रथानां** **शर्धं** बलं **त्वेषं** दीप्तं तं **मारुतं** **गणं** च स्तौमीत्यर्थः । यद्वा । रथानां रंहणशीलानां वो युष्माकं शर्धं परेषामभिभावुकं गणं स्तौमीत्येकमेव वाक्यम् । अथ परोक्षकृतः । **वृष्टयः** युष्मान् **अनु** **प्र** **यन्ति** प्रकर्षेण गच्छन्ति । यद्वा । वर्षका मरुतोऽनु अनुकूलं प्रकृष्टं यन्ति गच्छन्ति ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise that brilliant company of the **Maruts**, who have your strength of recent chariots, you whom the rains attend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your troop of chariots, the glittering Marut flock of newer (“hymns”  [=thunderclaps])  
 do the rains come following after.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In some ways this vs. is both a variant and a repair of vs. 5. Like that vs. it begins with an acc. phrase referring to the Maruts’ chariots. Following (ánu) them come the rains: ánu prá yanti vṛṣṭáyaḥ, a variant of 5c vṛṣṭī́… yatī́r iva “(fem. pl. ) coming with their rain,” where I supplied ‘waters’ as the referent of the participle.
 
@@ -121,23 +121,23 @@ marútām were actually in the passage), due to “metrical exigencies” (again
 I therefore propose that we should supply such a word with návyasīnām in 10b. (In the published translation it is ‘hymns’.) But this produces an odd locution, “the Marut flock of newer (hymns),” with semantically ill-assorted elements joined -- or so it seems at first glance. But remember that the poet is depicting a metaphorical thunderstorm: the rains, undisguised, come last, but I think we have both thunder and lightning earlier in the vs.: the flock is tveṣám ‘glittering’ (though, I must admit, the word sometimes just means ‘turbulent’: see vā́ta-tviṣ- ‘turbulent as the wind’ in the next hymn, V.54.3), which can represent the lightning. And the flock also consists of “hymns,” which in this context can be the regular booming of thunder claps.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That brilliant gathering of your cars, the company of Maruts, of the Youthful Ones,  
      The rain-showers, speeding on, attend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesem eurem Wagenheer, der schreckhaften marutischen Schar der neuesten Marut folgen die Regengüsse nach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es folgen eurem Wagenzug, der ungestümen jugendlichen Marutschar, Die Regengüsse eilend nach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За этим вашим отрядом колесниц,  
 За грозной толпой марутовой из только что (прибывших Марутов)  

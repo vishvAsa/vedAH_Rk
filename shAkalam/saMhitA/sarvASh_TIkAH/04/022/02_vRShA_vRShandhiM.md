@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा वृ꣡षन्धिं च꣡तुरश्रिम् अ꣡स्यन्न्  
 उग्रो꣡ बाहु꣡भ्यां नृ꣡तमः श꣡चीवान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स्याः प꣡र्वाणि सखिया꣡य विव्ये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श्रि॒ये । परु॑ष्णीम् । उ॒षमा॑णः । ऊर्णा॑म् । यस्याः॑ । पर्वा॑णि । स॒ख्याय॑ । वि॒व्ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -111,7 +111,7 @@ genre M
 **वृषा** कामानां वर्षिता **वृषन्धिं** मेघभेदनद्वारेण वर्षं कुर्वन्तं **चतुरश्रिं** चतसृभिः अश्रिभिः धाराभिरुपेतं वज्रं **बाहुभ्यां** हस्ताभ्याम् **अस्यन्** शत्रुषु प्रक्षिपन् **उग्रः** उद्गूर्णबलः **नृतमः** नेतृतमः **शचीवान** कर्मवानिन्द्रः **ऊर्णाम्** आच्छादिकां परुष्णीं पर्ववतीं नदीं **श्रिये** आश्रयणार्थम् **उषमाणः** सेवमान: भवति । **यस्याः** नद्याः **पर्वाणि** भिन्नान् देशान् **सख्याय** सखिकर्मणे **विव्ये** संवृतवान्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 The investing Paruṣṇi: ūrṇām paruṣṇīm = acchādikām parvavatīm nadīm, the river having joints or bends covering; whose bordering districts he has frequented: the text is, yasyāḥ parvāṇi sakhyāya vivye = liṭ, those joints through friendship he has approached; the explanation: yasyāḥ nadhyaḥ bhinnān deśān sakhikarmaṇe saṃvṛtavān, the separate districts of which river he has, for the sake of friendly acts,covered or concealed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull, hurling with his arms the four-edged (weapon), which is the  repository of bullish strength—the powerful, most manly, able one,  
 clothing himself in Paruṣṇī River [/gray] wool [=foam] for beauty—(the  Paruṣṇī River) in whose tufts he has wrapped himself for partnership  (with the Maruts).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax vṛ́ṣandhi- has been variously explained. Oldenberg rejects the reading as “sinnlos” and suggests an emendation to *tríṣandhi-, remarking that the vajra is so described in AV XI.10.3, 27. The influence of preceding vṛ́ṣā would account for the change. Hoffmann (MSS 8 [1956]: 15 = Aufs. II.395-96) instead suggests it is a haplology of vṛ́ṣa-saṃdhi- ‘mit starker Verbindung’, which in his view describes the binding of the head of the vajra, which he thinks was a hammer-like weapon, to the shaft. One of the unexamined assumptions of both Oldenberg’s and Hoffmann’s interpretations is that the weapon referred to here is the vajra and that this is identical to the stone (áśman-) in 1d. As I argue ad I.152.2 (see comm. thereon), there is no reason to assume here that the stone = vajra or that the unnamed weapon in 2a is identical to both. A form of vájra- is found in 3c, but it need not be the same as the weapon(s) referred to in 1d and 2a -- and in fact there is some reason to believe it is not, as the weapon here is being ‘hurled’ (ásyan), and to my knowledge the vajra is never thrown while stones regularly are (e.g., I.172.2). In my opinion the weapon in 2a is the stone of 1d and the qualifier vṛ́ṣandhi- is a formation like iṣu-dhí- ‘repository of arrows, quiver’, uda-dhí- ‘repository of water, spring, basin’, utsa-dhí- ‘fountainhead’ — hence ‘repository of bullish(ness)’. The difference in accent can be attributed to the influence of immediately preceding vṛ́ṣā. The combining form vṛ́ṣan-, rather than more common vṛ́ṣa-, is also found in vṛ́ṣaṇvant- and vṛ́ṣaṇ-vasu-.
 
@@ -143,23 +143,23 @@ The unexpressed connection with the Maruts via the passage just cited is also ex
 The word párvan- usually refers to a joint or segment; with Geldner, I take it in this image to refer to tufts or articulated hunks of foam, like tufts of wool. With Geldner I also think there’s a secondary word association between páruṣṇī- and párvan- (/ páru(ṣ)-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bull, hurler of the four-edged rain-producer with both his arms, strong, mighty, most heroic;  
      Wearing as wool Parusni for adornment, whose joints for sake of friendship he hath covered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bullenhafte, der die einen Bullen enthaltende vierkantige Keule mit den Armen schleudert, der Gewaltige, Mannhafteste, Mächtige, der zum Prunk sich in die Parusni wie Wolle kleidet, deren Flocken er zur Freundschaft umgelegt hat:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der starke Held, den vierfachschneid'gen Blitzstrahl mit beiden Armen schleudernd, kräftig, mannhaft, Zum Schmuck sich kleidend in die flock'ge Wolle, aufsparend ihre Flocken für die Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обладатель бычьей силы, швыряющий двумя руками бычью  
 Четырехгранную (ваджру), грозный, самый мужественный, могучий  

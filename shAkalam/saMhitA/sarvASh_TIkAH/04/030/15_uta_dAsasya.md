@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ दास꣡स्य वर्चि꣡नः  
 सह꣡स्राणि शता꣡वधीः  
 अ꣡धि प꣡ञ्च प्रधीँ꣡र् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अधि॑ । पञ्च॑ । प्र॒धीन्ऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -78,20 +78,20 @@ genre M
 **उत** अपि च हे इन्द्र त्वं **प्रधीनिव** चक्रस्य परितः स्थितान् शङ्कूनिव हिंसकान् **पञ्च** **शता** पञ्चशतानि पञ्चशतसंख्याकान् **सहस्राणि** सहस्रसंख्याकान् **दासस्य** लोकानामुपक्षपयितुः **वर्चिनः** वर्चिनामकस्यासुरस्य संबन्धिनोऽनुचरान् पुरुषान् **अधि** अधिकम् **अवधीः** हतवानसि ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have slain the five hundreds and thousands (of the followers) of the slave Varin, (surrounding) him like the fellies (round the spokes of the wheel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you smote the hundreds and thousands (of men) of the Dāsa  Varcin,  
 and five in addition, like the outer parts of wheels.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of Dasa Varcin's thou didst slay the hundred thousand and the five,  
      Crushed like the fellies, of a car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch hast du Tausende, Hunderte und noch fünf Mannen des Dasa Yarcin wie Speichenbretter zerschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und hunderttausend Mannen auch und fünf des Dämons Vartschin schlugst Wie Rades Felgen du entzwei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Также тысячи, сотни  
 И еще пять (мужей) дасы Варчина  

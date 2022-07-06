@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णो वृणजन्न् अघा꣡  
 दुर्गा꣡णि रथि꣡यो यथा  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 स्याम॑ । इत् । इन्द्र॑स्य । शर्म॑णि । आ॒दि॒त्याना॑म् । उ॒त । अव॑सि । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -129,42 +129,42 @@ genre M;; repeated line
 **परि** **वृणजन्** परिवर्जयन्तु **नः** अस्माकम् **अघा** अघानि पापानि । तत्र दृष्टान्तः । **दुर्गाणि** दुर्गमनान् प्रदेशानवटधिष्ण्यादिकान् यथा परिवर्जयन्ति तद्वत् । **इन्द्रस्य** **शर्मणि** **स्याम** भवेम वयम् । **उत** अपि च आदित्यानाम् **अवसि** रक्षणे च स्याम ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our sins avoid us as charioteers inaccessible plural ce; may we abide in **Indra**'s happiness and in theprotection of the Ādiyas; your aids are void of harm, your aids are true aids.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Evils will avoid us, as charioteers avoid hard places.  
 Might we be in the shelter of Indra and the help of the Ādityas.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile is slightly skewed, though, as in English, the case frame with ‘avoid’ works either way. It might be expected that “we” would be compared to the (presumably) nominative rathyàḥ ‘charioteers’, but grammatically “we” are parallel to the hard places (durgā́ṇi). Of course technically both durgā́ṇi and rathyàḥ can be either nom. or acc. pl., so that the skewing could be avoided: “Evils will avoid us, as hard places avoid charioteers.” But this produces an unintentionally comic picture, and I follow Geldner and Renou in the case distribution.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As drivers of the car avoid ill roads, let sorrows pass us by.  
      May we be under Indra's guard, in the Adityas' favouring grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns sollen die Übel meiden wie Wagenlenker die schlimmen Wege. Wir möchten unter dem Schirm des Indra und in dem Schutz der Aditya´s sein. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gefahren mögen meiden uns, wie Wagenlenker üblen Weg; Wir mögen sein in Indra's Hut und recht in der Aditja's Schutz; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть злые силы избегают нас,  
 Словно колесничие – плохих дорог!  

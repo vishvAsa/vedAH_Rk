@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानम् अवस्यवो  
 वि꣡प्रम् अभि꣡ प्र꣡ गायत  
 सुष्वाणं꣡ देव꣡वीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ष्वा॒णम् । दे॒वऽवी॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
@@ -75,42 +75,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अवस्यवः** रक्षणकामा उद्गात्रादयः यूयं **पवमानं** शोधकं **विप्रं** विशेषेन देवानां प्रीणयितारं विप्रवच्छुद्धं वा । अथवा विप्र इति मेधाविनाम। मेधाविनम्। **देववीतये** देवपानाय **सुष्वाणं** सूयमानम् **अभि** **प्र** **गायत** आभिमुख्येन प्रकर्षेण स्तुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing aloud, you who are desirous of (divine) protection to he purifying wise **Soma**, effused for the beverage of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who are seeking help, sing forth to the self-purifying inspired poet, who has been pressed to pursue the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not make this clear, but the addressees are pl., presumably the priests.
 
 The identification of Soma as a vípra- supports the suggestion ad IX.12.8 in the preceding hymn that vípra- refers to Soma there as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing forth, ye men who long for help, to Pavamana, to the Sage,  
      Effused to entertain the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf den Pavamana singet, ihr Gunstsuchenden, auf den Redekundigen, der zur Götterladung ausgepreßt ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besingt, o hülfsbegierige, den rieselnden, begeisterten, Gepressten zu dem Göttermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жаждя помощи, воспойте  
 Паваману вдохновенного,  

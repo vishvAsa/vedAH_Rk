@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हस्कारा꣡द् विद्यु꣡तस् प꣡रि  
 अ꣡तो जाता꣡ अवन्तु नः  
 मरु꣡तो मॄळयन्तु+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒रुतः॑ । मृ॒ळ॒य॒न्तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haskārād* ← *haskārāt* ← *haskāra*
 - \[noun\], ablative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हस्कारात्** दीप्तिकरात् **विद्युतः** विशेषेण दीप्यमानात् **अतः** अन्तरिक्षात् **परि** **जाताः** सर्वत उत्पन्ना मरुतः **नः** अस्मान् **अवन्तु** रक्षन्तु। तथाविधाः **मरुतः** **नः** अस्मान् **मृळयन्तु** सुखयन्तु ॥ हस्कारात् । हसे हसने ' । अत्र तु प्रकाशमात्रे वर्तते । अस्मात् संपदादिलक्षणः क्विप् । अस्मिन् उपपदे  ‘ डुकृञ् करणे ' इत्यस्मात् ‘कर्मण्यम् ' (पा, सू. ३. २. १) इति अण्प्रत्ययः । तत्पुरुषे तुल्यार्थ' इत्यादिना पूर्वपदप्रकृतिस्वरत्वे प्राप्ते  ‘ गतिकारक ' इत्यादिना कृदुत्तरपदप्रकृतिस्वरत्वम् । अतः कृकमि ' ( पा. सू. ८. ३, ४६ ) इत्यादिना विसर्जनीयस्य सत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Haskarād-**vidyutaḥ** = variously shining, i.e. **antarikṣa** or firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born out of the laughing lightening, from there let them help us; let the Maruts be merciful to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born of the laughing lightning. may the Maruts guard us everywhere  
      May they be gracious unto Us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Lachen des Blitzes geboren sollen sie uns davor schützen; die Marut sollen uns gnädig sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Marut's, die aus munterm Blitz erzeugt sind, mögen helfen uns Von dort her und uns gnädig sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От смеха молнии рожденные  
 Пусть защитят они нас от нее!  

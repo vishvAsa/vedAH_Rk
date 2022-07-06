@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ व꣡रुण उत꣡ मित्रो꣡ अग्ने  
 तुवां꣡ वर्धन्ति मति꣡भिर् व꣡सिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्वे इति॑ । वसु॑ । सु॒ऽस॒ण॒नानि॑ । स॒न्तु॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -119,36 +119,36 @@ genre M;; repeated line
 हे अग्ने **त्वं** **वरुणः** असि । **उत** अपि च त्वं **मित्रः** असि जगतः प्रमीतेस्त्रातासि । **त्वां** **वसिष्ठाः** **मतिभिः** स्तुतिभिः **वर्धन्ति** वर्धयन्ति । **त्वे** त्वयि विद्यमानानि **वसु** वसूनि **सुसननानि** सुसंभजनानि **सन्तु** इति । स्पष्टमन्यत् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are **Varuṇa**, you are **Mitra**, **Agni**; the **Vasiṣṭhas** augment you with praises; may liberally distributedriches be (extant) in you, and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, are Varuṇa and Mitra. You do the Vasiṣṭhas make strong  through their thoughts.  
 In you let there be good things easy to gain. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, thou art Varuna and Mitra: Vasisthas with their holy hymns exalt thee.  
      With thee be most abundant gain of treasure. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist Varuna und Mitra; dich stärken die Vasistha´s mit Gebeten. Bei dir sollen Schätze leicht zu gewinnen sein. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist, o Agni, Varuna und Mitra, dich stärkten durch Gebete die Vasischtha's; Von dir sei leicht das Gut uns zu erlangen. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Tы – Варуна, а также Митра, о Агни.  
 Тебя усиливают Васиштхи молитвами.  

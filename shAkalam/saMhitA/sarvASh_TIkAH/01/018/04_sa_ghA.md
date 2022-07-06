@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ घा वीरो꣡ न꣡ रिष्यति  
 य꣡म् इ꣡न्द्रो ब्र꣡ह्मणस् प꣡तिः  
 सो꣡मो हिनो꣡ति म꣡र्तियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । हि॒नोति॑ । मर्त्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्रः** देवः **यं** **मर्त्यं** यक्ष्यमाणं **हिनोति** प्राप्नोति वर्धयति वा । तथा **ब्रह्मणस्पतिः** देवो हिनोति । तथा **सोमः** हिनोति । **सः** **घ** स एव यजमानः **वीरः** वीर्ययुक्तः सन् **न** **रिष्यति** न विनश्यति ॥ घ । चादिरनुदात्तः । संहितायाम् ' ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् ' इति दीर्घः । ब्रह्मणस्पतिः । उक्तम् । हिनोति । ' हि गतौ वृद्धौ च । **स्वादिभ्यः** श्नुः'। तिपः पित्त्वात् श्नुप्रत्ययस्वर एव शिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The liberal man, whom **Indra**, **Brahmaṇaspati**, and **Soma** protect, never perishes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That hero is certainly not harmed whom Indra, whom the Lord of the  Sacred Formulation,  
 whom Soma urges on—(though he is) mortal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ne'er is the mortal hero harmed whom Indra, Brahmanaspati,  
      And Soma graciously inspire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Mann kommt wahrlich nicht zu Schaden, welchen Sterblichen Indra, Brahmanaspati, Soma aneifern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche wird nicht verletzt, der Mann, den der Gebetesherr, Den Indra und den Soma liebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот муж не гибнет,  
 Кого Индра, Брахманаспати,  

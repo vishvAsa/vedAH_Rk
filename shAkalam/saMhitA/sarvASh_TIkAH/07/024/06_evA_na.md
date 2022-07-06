@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न इन्द्र वा꣡रियस्य पूर्धि  
 प्र꣡ ते महीं꣡ सुमतिं꣡ वेविदाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इष॑म् । पि॒न्व॒ । म॒घव॑त्ऽभ्यः । सु॒ऽवीरा॑म् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -124,41 +124,41 @@ genre M;; repeated line
 हे **इन्द्र** **नः** अस्मान् **एव** एवं **वार्यस्य** । तृतीयार्थे षष्ठी। वरणीयेन धनेन **पूर्धि** पूरय । **ते** तव **महीं** महतीं **सुमतिम्** अनुग्रहबुद्धिं **वेविदाम** भृशं लभेमहि । **मघवद्भ्यः** हविष्मद्भ्योऽस्मभ्यं **सुवीरां** शोभनपुत्रादियुताम् **इषम्** अन्नं **पिन्व** प्रयच्छेत्यर्थः । स्पष्टमन्यत् ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In this manner, **Indra**, satisfy us (with the gift) of desirable (wealth); may we repeatedly experience yougreat giver; bestow upon us who are opulent (in offerings) food with **male** descendants; do you ever cherish uswith blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just so, Indra, give to us of what is choice. May we continually procure  your great benevolence.  
 Swell nourishment rich in heroes for the bounteous ones [=patrons].  – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For pūrdhi see EWA s.v. PARIī2 ‘give’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With precious things. O Indra, thus content us: may we attain to thine exalted favour.  
      Send our chiefs plenteous food with hero children. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also gib uns, Indra, vom Besten mit vollen Händen! Wir möchten deine große Gunst erfahren. Gib den Lohnherren die Freude guter Söhne vollauf! - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So, Indra, fülle uns mit schöner Gabe; erlangen lass uns deine grosse Güte; Den Fürsten schenke männerreiche Labung; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так наполни нас, Индра, лучшим богатством!  
 Мы очень хотели б испытать твою великую благосклонность!  

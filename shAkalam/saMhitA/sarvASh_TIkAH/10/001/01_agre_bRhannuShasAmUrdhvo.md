@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्रे बृह꣡न्न् उष꣡साम् ऊर्ध्वो꣡ अस्थान्  
 निर्जगन्वा꣡न् त꣡मसो ज्यो꣡तिषा꣡गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ जातो꣡ वि꣡श्वा स꣡द्मानि अप्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अ॒ग्निः । भा॒नुना॑ । रुश॑ता । सु॒ऽअङ्गः॑ । आ । जा॒तः । विश्वा॑ । सद्मा॑नि । अ॒प्राः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agre* ← *agra*
 - \[noun\], locative, singular, neuter
@@ -140,7 +140,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **बृहन्** महानेषोऽग्निः उषसाम् अग्रे उषसामुपर्युषःकाले **ऊर्ध्वः** प्रज्वलितः सन् ज्वालारूपेण **अस्थात्** तिष्ठति। ततः **तमसः**। रात्रिनामैतत् । रात्रेः **निर्जगन्वान्** निर्गतः ॥ गमेः क्वसाविडभावे रूपम् ॥ निगतो निष्क्रान्तवान् सोऽग्निः **ज्योतिषा** स्वीयेन तेजसा लक्षितः सन् **आगात्** । गार्हपत्याद्विह्रियमाण आहवनीयं प्रत्यागच्छति । अनन्तरं **स्वङ्गः** शोभनज्वालावयवः **जातः** कर्मार्थं समुत्पन्न एषः **अग्निः** **रुशता**। रोचतेर्ज्वलतिकर्मण इदं रूपम् । आरोचमानेन । यद्वा । रुशतिर्हिंसार्थः। तमसां हिंसकेन । **भानुना** तेजसा विश्वा **सद्मानि** सर्वाँल्लोकान् यद्वा सदनानि यज्ञगृहाणि **आ** **अप्राः** आपूरयति । ‘प्रा पूरणे'।' तिङां तिङो भवन्ति' इति तिपः सिबादेशः । अत्र वाजसनेयकम्-‘अग्रे बृहन्नुषसामूर्ध्वो अस्थादित्यग्रे ह्येष बृहन्नुषसामूर्ध्वस्तिष्ठति । निर्जगन्वान्तमसो ज्योतिषागादिति निर्जगन्वान् रात्रेस्तमसो ज्योतिषैति । अग्निर्भानुना रुशता स्वङ्ग इत्यग्निर्वा एष भानुना रुशता स्वङ्ग आ जातो विश्वा सद्मान्यप्रा इतीमे वै लोका विश्वा सद्मानि तानेष जात आपूरयति' (श. ब्रा. ६. ७. ३. १०) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,29 +153,29 @@ Radiance = that ofthe sun: ; issuing forth: of the fire as brought from the **g�
 Dwellings: viśvāsadmāni tāneṣa **jāta** a-pūrayati (**Śatapatha Brāhmaṇa** 6.7.3.10)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the forefront of the dawns he has stood upright on high. Having gone  out from darkness, he has come here with light.  
 With his luminous beam, Agni, beautiful of limb, has filled all the seats  at his birth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HIGH hath the Mighty risen before the dawning, and come to us with light from out the darkness.  
      Fair-shapen Agni with white-shining splendour hath filled at birth all human habitations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Noch vor den Morgenröten hat er sich hoch aufgerichtet; aus dem Dunkel heraustretend ist er mit seinem Lichte gekommen. Agni mit hellem Scheine, von schönen Gliedern hat eben geboren alle Wohnsitze erfüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Morgen-Anbruch steht der hohe aufrecht, mit Lichtschein kommt er aus dem Dunkel steigend, Mit hellem Glanz hat Agni, schön an Gliedern, geboren nun erfüllt die Sitze alle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Еще) до зорь он поднялся высоко вверх;  
 Выйдя из мрака, он пришел со (своим) светом.  

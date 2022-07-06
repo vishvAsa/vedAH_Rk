@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् य꣡द् इ꣡न्द्रो महते꣡ दानवा꣡य  
 व꣡धर् य꣡मिष्ट स꣡हो अ꣡प्रतीतम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य जन्तो꣡र् अधमं꣡ चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । वज्र॑स्य । प्रऽभृ॑तौ । द॒दाभ॑ । विश्व॑स्य । ज॒न्तोः । अ॒ध॒मम् । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -123,37 +123,37 @@ genre M
 **यत्** यदा **इन्द्रो** **महते** प्रभूताय **दानवाय** वृत्रासुराय **सहः** शत्रूणामभिभवितृ **अप्रतीतं** केनाप्यप्रतिगतं **वधः** वज्रम् **उत्** **यमिष्ट** उदयच्छत् । **यत्** यदा **वज्रस्य** **प्रभृतौ** प्रहृतौ प्रहरणे सति ॥ ‘ हृग्रहोर्भः' इति भत्वम् ॥ **ईम्** एनं वृत्रं **ददाभ** अहिंसीत् तदा **विश्वस्य** सर्वस्य **जन्तोः** प्राणिनः **अधमं** नीचं **चकार** अकरोत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Indra** raised his powerful irresistible weapon against the mighty **Dānava**, when he struck him with the blow of the thunderbolt, he made him the lowest of all creatures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Indra held up to the great Dānava his weapon, which was  
 unopposable might itself,  
 when at the proffering of the mace he outwitted him, he made him the  lowest of all creation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When 'gainst the mighty Danava his weapon Indra uplifted, power which none could combat,  
      When at the hurling of his bolt he smote him, he made him lower than all living creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Indra gegen den großen Danava die Waffe erhob, seine unwiderstehliche Stärke, als er ihn im Schlag mit der Keule überlistete, da machte er ihn zum Untersten der ganzen Kreatur.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Indra lenkte auf den grossen Dämon den Todeskeil, die Kraft, die unbesiegbar, Und ihn versehrte bei des Blitzes Schleudern, da stürzt' er tief ihn unter alle Wesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Индра против великого Данавы  
 Поднял смертельное оружие – (свою) не знающую равных силу,  

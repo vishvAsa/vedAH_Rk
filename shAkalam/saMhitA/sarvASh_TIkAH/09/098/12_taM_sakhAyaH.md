@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ सखायः पुरोरु꣡चं  
 यूयं꣡ वयं꣡ च सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सने꣡म वा꣡जपस्तियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒श्याम॑ । वाज॑ऽगन्ध्यम् । स॒नेम॑ । वाज॑ऽपस्त्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -89,19 +89,19 @@ genre M
 हे **सखायः** स्तोतारः **सूरयः** प्राज्ञाः **यूयं** **वयं** **च** यजमानाः **पुरोरुचं** पुरतो रोचमानं **वाजगन्ध्यं** बलकरसाधुगन्धोपेतं सोमम् **अश्याम** अश्नीयाम पिबेम । किंच **वाजपस्त्यम्** अन्नयुक्तगृहसहितं यद्वा बलकरं सोमं **सनेम** संभजेमहि । सोमेन बलान्नगृहादीनि भवन्तीत्यर्थः ॥ ॥२४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May you and we, intelligent friends, eat the bright **Soma** fragrant and invigorating, may we obtain food and dwellings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O comrades, might we and you, our patrons, attain him who shines in front, whose prizes are to be secured. Might we gain him who offers a house  full of prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn ends with two pāda-final cmpds whose first member is vā́ja- (vā́ja-gandhi yam [c], vā́ja-pasti yam [d]), just as its first pāda ends with the same (save for accent): 1a vāja-sā́tamam - thus producing a satisfying ring encompassing the whole poem.
 
@@ -122,23 +122,23 @@ But we must now confront the issue of the cmpd type. By accent vā́jagandhya- i
 The formation of the hapax vā́ja-gandhi ya- may have been aided by the fact that “proper” bahuvrīhis with corresponding elements are rare to non-existent. That is, examples of bahuvrīhis of the shape GRDV + NOUN are surprisingly difficult to find (at least surprising to me), though bahuvrīhis with verbal adjective 1st members are common - when the verbal adj. is a ppl. Cmpds like sutá-soma- ‘having pressed soma’, vṛktá-barhis- ‘having twisted ritual grass, vṛddhá-śavas- ‘having increased power’ are ubiquitous and easily formed, but a search through Grassmann for bahuvrīhis with gerundive 1st members came up short. The only such cmpds I found are the hapax avāryá-kratu- ‘possessing unobstructable resolve’ (VIII.92.8), with a negated grdv., and váreṇya-kratu- ‘whose resolve is worthy to be chosen’ (VIII.43.12) - save for an-avadyá-rūpa- ‘possessing faultless form’ (X.68.3) with the lexicalized negated grdv. avadyá- ‘fault’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Friends, may the princes, ye and we, obtain this Most Resplendent One.  
      Gain him who hath the smell of strength, win him whose home is very strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Voranleuchtenden möchten wir, ihr Freunde, und ihr, die freigebigen Gönner, erlangen, der wagenhohen Lohn bringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der voranstrahlt, mögen wir, die Fürsten und, o Freunde, ihr Erlangen ihn, der Schatz besitzt, und dessen Schatz man gern ergreift.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого сверкающего впереди, о друзья,  
 Вы, богатые покровители, и мы  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभा꣡ वाम् इन्द्रअग्नी आहुव꣡ध्या  
 उभा꣡ रा꣡धसः सह꣡ मादय꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभा꣡ वा꣡जस्य सात꣡ये हुवे वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । दा॒तारौ॑ । इ॒षाम् । र॒यी॒णाम् । उ॒भा । वाज॑स्य । सा॒तये॑ । हु॒वे॒ । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
@@ -128,20 +128,20 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke you both, **Indra** and **Agni**, to be present at the sacrifice; and both together to be exhilarated by the (sacrificial) food; for you are both donors of food and riches, and therefore I invoke you both for the obtaining of sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You both, Indra and Agni, are to be called upon; both together are to  invigorate yourselves on bounty.  
 You both are givers of refreshments, of riches; you both do I call upon  to win the victory prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the insistent ubhā́see published introduction.
 
@@ -156,7 +156,7 @@ On the connection of these vss. to the hymn, see published introduction. For the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, I will call you hither and make you joyful with the gifts I offer.  
      Ye Twain are givers both of food and riches: to win me strength and vigour I invoke you.
@@ -172,17 +172,17 @@ You both I summon for the winning of strength.
 
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide, Indra und Agni, will ich herrufen; beide sollen sich zusammen der Opfergaben erfreuen. Beide sind die Geber von Speisegenüssen, von Reichtümern; euch beide rufe ich, um den Lohn zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch beide, o Indra-Agni, will ich herbeirufen, euch beide zugleich mit Gaben ergötzen, euch beide, die ihr Labetränke und Schätze gebt, lade ich ein, euch beide zum Empfang der Opferspeise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас обоих, о Индра-Агни, я хочу призвать  
 Оба (вы) вместе должны радоваться (жертвенному) дару.  

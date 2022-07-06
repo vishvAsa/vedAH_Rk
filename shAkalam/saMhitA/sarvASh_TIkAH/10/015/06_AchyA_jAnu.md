@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡च्या जा꣡नु दक्षिणतो꣡ निष꣡द्य  
 इमं꣡ यज्ञ꣡म् अभि꣡ गृणीत वि꣡श्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् व आ꣡गः पुरुष꣡ता क꣡राम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 मा । हिं॒सि॒ष्ट॒ । पि॒त॒रः॒ । केन॑ । चि॒त् । नः॒ । यत् । वः॒ । आगः॑ । पु॒रु॒षता॑ । करा॑म ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ācyā* ← *āñc* ← *√añc*
 - \[verb noun\]
@@ -134,36 +134,36 @@ popular;; repeated line
 पितॄणामयं स्वाभाविको धर्मः ‘अथैनं पितरः प्राचीनावीतिनः सव्यं जान्वाच्य' (श. ब्रा. २. ४. २. २ ) इति वचनात् । हे पितरः **विश्वे** सर्वे यूयं **जानु** **आच्य** भूमौ निपात्य **दक्षिणतः** दक्षिणपार्श्वे **निषद्य** उपविश्य **इमम्** अस्मदीयं **यज्ञमभि** **गृणीत** अभिष्टुत । विशिष्टतृप्तियोगात् परया प्रीत्या सगुणोऽयं यज्ञ इति प्रशंसतेत्यर्थः । अपि च **वः** युष्माकं **यत्** किंचित् कर्मवैगुण्यजनितम् **आगः** अपराधं **पुरुषता** मनुष्यत्वेन हेतुना **कराम** वयं कृतवन्तः हे **पितरः** तेन **केन** **चित्** अप्यपराधेन **नः** अस्मान् **मा** **हिंसिष्ट** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Having sat down on the right side withbended knee, do you all accept this sacrifice. Harm us notPitṛs, for any offence which through human (infirmity) we may have committed towards you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having bent your knee, having sat down to the south, greet this sacrifice  here—all of you.  
 Do not harm us, o forefathers, because of any offense that we may do  to you in our human way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bowing your bended knees and seated southward, accept this sacrifice of ours with favour.  
      Punish us not for any sin, O Fathers, which we through human frailty have committed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Knie gebeugt, zur Rechten im Süden, sich hinsetzend heißet alle diese Opfer gut! Tut uns kein Leid an wegen irgend eines Verstoßes, ihr Väter, den wir nach Menschenart wider euch begehen könnten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nachdem ihr mit gebeugtem Knie zur Rechten gesetzt euch, nehmet alle gern dies Opfer; Ihr Väter, straft uns nicht um eine Sünde, die wir an euch nach Menschenart verüben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сев справа, подогнув колено,  
 Воспойте все эту жертву!  

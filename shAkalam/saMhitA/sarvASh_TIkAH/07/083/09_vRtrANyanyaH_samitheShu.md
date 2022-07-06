@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृत्रा꣡णि अन्यः꣡ समिथे꣡षु जि꣡घ्नते  
 व्रता꣡नि अन्यो꣡ अभि꣡ रक्षते स꣡दा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ इन्द्रावरुणा श꣡र्म यछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हवा॑महे । वा॒म् । वृ॒ष॒णा॒ । सु॒वृ॒क्तिऽभिः॑ । अ॒स्मे इति॑ । इ॒न्द्रा॒व॒रु॒णा॒ । शर्म॑ । य॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
@@ -114,36 +114,36 @@ genre M
 हे इन्द्रावरुणौ युवयोः **अन्यः** एक इन्द्रः **वृत्राणि** शत्रून् **समिथेषु** संग्रामेषु **जिघ्नते** हन्ति । **अन्यः** एको वरुणः **सदा** सर्वदा **व्रतानि** कर्माणि **अभि** **रक्षते** अभितः सर्वतो रक्षति । हे **वृषणा** कामानां वर्षिताराविन्द्रावरुणौ तथाविधौ **वां** युवां **सुवृक्तिभिः** सुप्रवृत्ताभिः स्तुतिभिः **हवामहे** आह्वयामहे । आहूतौ च युवाम् **अस्मे** अस्मभ्यं **शर्म** सुखं **यच्छतं** दत्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One of you destroys enemies inbattle, the other ever protects religious observances; we invoke you,showerers (of benefits), with praises; bestow upon us, **Indra** and **Varuṇa**, felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one [=Indra] smashes obstacles in battles; the other [=Varuṇa] ever  guards his commandments.  
 We summon you two, you bulls, with our intricate hymns. Extend your  protection to us, Indra and Varuṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One of you Twain destroys the Vrtras in the fight, the Other evermore maintains his holy Laws.  
      We call on you, ye Mighty, with our hymns of praise. Vouchsafe us your protection, Indra-Varuna.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The one in battle-conflicts slays the demon foes, The other evermore his sacred statutes guards. We call on you with well-turned hymns, O mighty ones: To us, O Indra-Varuṇa, protection grant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine von euch erschlägt in den Kämpfen die Feinde, der andere wacht beständig über den Gesetzen. Wir rufen euch beide, ihr Bullen, mit Lobliedern; gewähret uns euren Schirm, Indra und Varuna!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один (из вас) убивает врагов в сражениях,  
 Другой всегда охраняет заветы.  

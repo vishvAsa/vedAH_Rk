@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ तं꣡ जिनन्ति बह꣡वो न꣡ दभ्रा꣡  
 उरु꣡ अस्मा अ꣡दितिः श꣡र्म यंसत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रियः꣡ सुप्रावीः꣡ प्रियो꣡ अस्य सोमी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्रि॒यः । सु॒ऽकृत् । प्रि॒यः । इन्द्रे॑ । म॒ना॒युः । प्रि॒यः । सु॒प्र॒ऽअ॒वीः । प्रि॒यः । अ॒स्य॒ । सो॒मी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -141,20 +141,20 @@ genre M
 **दभ्राः** अल्पाः **बहवो** **न** बहवोऽपि शत्रुजनाः **तं** यजमानं **न** **जिनन्ति** न हिंसन्तु । य इन्द्राय सुनवामेत्याह तमिति पूर्वेण संबन्धः । **अदितिः** इन्द्रमाता **अस्मै** यजमानाय **उरु** विस्तीर्णं **शर्म** सुखं **यंसत्** यच्छतु । किंच **इन्द्रे** इन्द्राय **सुकृत्** शोभनयागादीनां कर्ता यजमानः **प्रियः** भवति। **मनायुः** इन्द्रविषयस्तुतिकामश्चास्येन्द्रस्य ”प्रियः भवति। **सुप्रावीः** सुष्ठु प्राविता सुष्ठु प्रगच्छन्नुपगच्छन् वा यजमानोऽस्येन्द्रस्य **प्रियः** भवति । **सोमी** सोमवान् यजमानः **अस्य** इन्द्रस्य **प्रियः** भवति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Him neither many nor few can molest; may **Aditi** grant him infinite happiness; the performer of pious acts is dear (to **Indra**); dear to Indra is he whose mind is intent upon him; dear is he who approaches him with homage; dear to him is the offerer of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The many do not overpower him, nor the few. Aditi will hold out wide  shelter for him.  
 Dear to Indra is the good performer (of sacrifice), dear the zealous man,  dear the hard-striver, dear the provider of soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -164,23 +164,23 @@ For suprāvī́-/duṣprāvī́- see comm. ad I.34.4.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him neither few men overcome, nor many to him shall Aditi give spacious shelter.  
      Dear is the pious, the devout, to Indra dear is the zealous, dear the Soma-bringer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn vergewaltigen weder viele noch wenige, Aditi soll ihm breiten Schirm gewähren. Lieb ist dem Indra, wer frommes Werk tut, lieb der Dichter, lieb, wer gut zuspricht, lieb ist ihm, wer Soma hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht wenige bezwingen den, nicht viele, und weiten Schutz wird Aditi ihm reichen; Dem Indra ist der Fromme lieb, der Weise, der Emsige ihm lieb, der Somabringer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ему не вредят ни многие, ни немногие.  
 Адити дарует ему широкую защиту.  

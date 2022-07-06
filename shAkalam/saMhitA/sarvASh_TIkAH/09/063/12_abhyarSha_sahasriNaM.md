@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ अर्ष सहस्रि꣡णं  
 रयिं꣡ गो꣡मन्तम् अश्वि꣡नम्  
 अभि꣡ वा꣡जम् उत꣡ श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒भि । वाज॑म् । उ॒त । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhi*
 - \[adverb\]
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम त्वं **सहस्रिणं** बहुसंख्याकं **गोमन्तं** गोभिर्युक्तम् **अश्विनम्** अश्ववन्तं **रयिं** धनम् **अभ्यर्ष** अस्मानभिगमय । **उत** अपि च **वाजं** बलं **श्रवः** अन्नं चास्मान् **अभि** गमय ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring to us thousandfold wealth with cattle and horses; bring vigour and food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward wealth in thousands of cows and of horses,  
 toward the prize of victory and fame.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ No particular unity, though vss. 11-12 are concerned with wealth.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send riches hither with thy stream in thousands, both of steeds and kine,  
      Send spoil of war and high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ströme her zu tausendfältigem Reichtum an Rindern und Rossen, zu Gewinn und Ruhm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ströme tausendfachen Schatz an Rindern, Rossen uns herbei Und Labetrunk und Ruhm uns zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

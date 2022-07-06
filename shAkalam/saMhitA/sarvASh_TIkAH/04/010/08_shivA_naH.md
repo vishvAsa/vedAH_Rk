@@ -6,7 +6,7 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शिवा꣡ नः सख्या꣡  
 स꣡न्तु भ्रात्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "उष्णिक्"
 सा꣡ नो ना꣡भिः स꣡दने स꣡स्मिन् ऊ꣡धन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 सा । नः॒ । नाभिः॑ । सद॑ने । सस्मि॑न् । ऊध॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śivā* ← *śiva*
 - \[noun\], nominative, plural, neuter
@@ -107,7 +107,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अग्ने** **नः** अस्मदीयानि **सख्या** सख्यानि सखित्वानि **भ्रात्रा** भ्रात्राणि भ्रातृसंबन्धीनि कर्माणि **देवेषु** द्योतमानेषु **युष्मे** युष्मासु ॥ ‘सुपां सुलुक्' इति सप्तमीबहुवचनस्य शेआदेशः ॥ **शिवा** शिवानि **सन्तु** मङ्गलानि भवन्तु । **सा** सखित्वभ्रातृकर्मसंततिः **सदने** देवानां स्थाने **सस्मिन्नूधन्** सर्वस्मिन् यज्ञे **नः** अस्माकं **नाभिः** बन्धनं भवति ॥ ॥ १० ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ In the sphere: no **nābhiḥ** sadane: **nābhi**, bandhanam, binding our faste
 Sasminnūdhan = sarvasmin yajñe, in every sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our comradeship be propitious, our brotherhood, o Agni, (with  respect) to you gods.  
 This navel [=Agni/sacrifice] of ours is in the same seat, at the same udder  (with you).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second pāda should read sántu bhrātrā́gne, with coalescence of the avowels. This also entails reading, out of sandhi, unaccented agne, contra Pp and Holland & van Nooten Rig Veda edition.
 
@@ -135,28 +135,28 @@ The impv. sántu is accented because it’s initial in the pāda.
 The expression śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé is very similar to VI.18.5 tán naḥ pratnáṃ sakhyám astu yuṣmé, which I take as existential. On the basis of that passage and of VII.22.9 (=X.23.7) asmé te santu sakhyā́śivā́ni, I think this passage should be harmonized with the others and interpreted as existential: “Let there be a propitious partnership for us among [or, with] you, the gods.” For further disc., incl. of the loc. pronoun, cf. comm. ad VI.18.5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, with you Gods, prosperous be our friendships and kinships.  
      Be this our bond here by this place, thine al tar.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May our friendship, O Agni, our brotherhood with you, the gods, be blessed. This is our navel (i. e. relation) in our seat, in this udder 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heilvoll soll unser Freundschaft, unsere Bruderschaft mit euch Göttern sein, o Agni. Dies ist unsere Verwandtschaft im Hause am gleichen Euter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile sein wir – Genossen, Brüder – mit euch den Göttern, – Das sei uns Freundschaft hier im Sitz, am Busen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут благоприятны наши  
 Дружеские союзы (и) братские отношения,  

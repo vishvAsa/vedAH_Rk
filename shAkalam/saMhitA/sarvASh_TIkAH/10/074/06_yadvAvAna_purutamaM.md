@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वावा꣡न पुरुत꣡मम् पुराषा꣡ळ्  
 आ꣡ वृत्रहा꣡ इ꣡न्द्रो ना꣡मानि अप्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् ईम् उश्म꣡सि क꣡र्तवे क꣡रत् त꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अचे॑ति । प्र॒ऽसहः॑ । पतिः॑ । तुवि॑ष्मान् । यत् । ई॒म् । उ॒श्मसि॑ । कर्त॑वे । कर॑त् । तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -134,14 +134,14 @@ genre M
 **यत्** यदा **पुरुतमम्** अत्यन्तं प्रवृद्धतमं वृत्रं **ववान** हन्ति पुराषाट् शत्रुपुराणामभिभविता इन्द्रः तदानीम् **आ** अनन्तरमेव **वृत्रहेन्द्रः** **नामानि** उदकानि **अप्राः** पूरयति । व्यत्ययेन मध्यमः । सोऽयमिन्द्रः **प्रासहः** शत्रूणां प्रकर्षेणाभिभविता **पतिः** सर्वस्य स्वामी **तुविष्मान्** । तुवीति बहुनाम तत्सामर्थ्याद्धनं परिगृह्यते । बहुधन इत्यर्थः । ईदृशः सन् **अचेति** सर्वैः प्रज्ञातः । स महानिन्द्रः **यदीं** यदेतत्कर्म **उश्मसि** वयं कामयामहे **तत्** **करत्** करोत्येव । इदं भवत्विदं भवत्विति यत्कामयामहे तत्तदानीमेव करोत्येव नोदास्त इत्यर्थः ।  ‘ सैतदेव प्रत्यपद्यत यद्वावान पुरुतमं पुराषाट्' (ऐ. ब्रा. ३. २२) इत्यादिकं ब्राह्मणमत्र द्रष्टव्यम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Indra**, the destroyer of cities, had slain the most mighty (**Vṛtra**), then he the Vṛtra-slayer filledthe waters; he was manifest (to all), the subduer of enemies, the lord of all, the most opulent; may he do thatwhich we desire to have done.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the previous victor won the latest of many, Indra the  
 Vr̥tra-smasher fulfilled his names:  
@@ -149,23 +149,23 @@ he appeared as the powerful lord of victory. What we wish him to do,  that he wi
 The next two hymns (75–76) are attributed to different poets, at least the second  quite fancifully, by the Anukramaṇī, but clearly form a dyad (Oldenberg 1888: 236  n. 3). The first is devoted to the rivers, the second to the pressing stones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Since he who won of old anew hath triumphed, Indra hath earned his name of Vrtra-slaycr.  
      He hath appeared, the mighty Lord of Conquest. What we would have him do let him accomplish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da er, der Burgenbezwinger, am häufigsten gewonnen hat, so hat der Vritratöter Indra seinen Namen Genüge getan. Er hat sich ausgezeichnet als der starke Herr der Gewalt. Was wir wünschen, daß er tue, das möge er tun.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weil ewig siegreich er den steten Feind schlug, macht Indra wahr des Vritratödters Namen Er zeigt sich nun als starker Herr des Sieges, er thue das, was wir von ihm begehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как (этот) от века побеждающий добился очень многого,  
 Убийца Вритры – Индра заполнил (многие) имена.  

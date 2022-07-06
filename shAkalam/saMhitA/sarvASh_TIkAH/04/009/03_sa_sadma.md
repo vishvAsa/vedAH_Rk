@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ स꣡द्म प꣡रि णीयते  
 हो꣡ता मन्द्रो꣡ दि꣡विष्टिषु  
 उत꣡ पो꣡ता नि꣡ षीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒त । पोता॑ । नि । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M
 **सः** अग्निः **सद्म** यज्ञगृहं **परि** **णीयते** ऋत्विग्भिः परितो नीयते । नीयमानः सन् **दिविष्टिषु** योगेषु **मन्द्रः** मदनीयः स्तुत्यः सोऽग्निः **होता** च भवति । **उत** अपि च **पोता** सन् **नि** **षीदति** यज्ञगृहे उपविशति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,34 +97,34 @@ genre M
 Hotā and Potā: two of the sixteen priests; Hotā is the offerer of oblation; the function of the Potā is unclear
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is led around his seat as the Hotar, gladdening at the rituals of  day(break),  
 and he sits down as the Potar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Around the altar is he led, welcome Chief Priest at solemn rites,  
      Or as the Potar sits him down.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He, the joy-giving Hotri, is led around the sacred seat at the heaven-aspiring sacrifices. And he sits down as the Potri also.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er wird um seinen Sitz herumgeführt, der wohlredende Hotri bei den Morgenopfern, und als Potri setzt er sich nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wird um den Altar geführt als Priester hold beim Gottesdienst, Und setzt sich hin als Läuterer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его обводят вокруг сидения,  
 Веселого хотара, на жертвенных праздниках.  

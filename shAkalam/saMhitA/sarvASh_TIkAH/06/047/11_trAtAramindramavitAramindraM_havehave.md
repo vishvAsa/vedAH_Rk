@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्राता꣡रम् इ꣡न्द्रम् अविता꣡रम् इ꣡न्द्रं  
 ह꣡वे-हवे सुह꣡वं शू꣡रम् इ꣡न्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुअस्ति꣡ नो मघ꣡वा धातु इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ह्वया॑मि । श॒क्रम् । पु॒रु॒ऽहू॒तम् । इन्द्र॑म् । स्व॒स्ति । नः॒ । म॒घऽवा॑ । धा॒तु॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trātāram* ← *trātṛ*
 - \[noun\], accusative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 **त्रातारं** शत्रुभ्यः पालयितारम् **इन्द्रम्** आह्वयामि । तथा **अवितारं** कामैस्तर्पयितारम् **इन्द्रम्** आह्वयामि । **हवेहवे** सर्वेष्वाहवनेषु **सुहवं** सुखेनाह्वातुं शक्यं **शूरं** शौर्यवन्तं **शक्रं** सर्वकार्येषु शक्तं **पुरुहूतं** पुरुभिर्बहुभिः पालनार्थमाहूतमेवंविधम् **इन्द्रं** **ह्वयामि** आह्वयामि । एवमाहूतः **मघवा** धनवान् सः **इन्द्रः** **स्वस्ति** अविनाशं **नः** अस्मभ्यं **धातु** ददातु । यद्वा । अस्माकं विदधातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke, at repeated sacrifice, **Indra**, the preserver, the protector, the hero, who is easily propitiated, Indra, the powerful, the invoked of many; may Indra, the lord of affluence, bestow upon us prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra the protector, Indra the helper, Indra the champion good to call  at every call—  
 I call on Indra, the able one, called on by many. Let bounteous Indra  establish well-being for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 √hvā is the signature word here.
 
@@ -152,23 +152,23 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra the Rescuer, Indra the Helper, Hero who listens at each invocation,  
      Sakra I call, Indra invoked of many. May Indra Maghavan prosper and bless us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Retter Indra, den Schützer Indra, den bei jeder Anrufung leicht zu errufenden Helden Indra rufe ich, den mächtigen, vielgerufenen Indra. Glück soll uns der freigebige Indra bringen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Retter Indra und den Helfer Indra, der jeden Ruf erhört, den Helden Indra, Den vielgerufnen, starken Indra ruf' ich, er gebe Wohlsein uns, der mächt'ge Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спасителя Индру, помощника Индру,  
 Героя Индру, легко призываемого при каждом зове,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोळा꣡ अग्ने पचत꣡स्  
 तु꣡भ्यं वा घा प꣡रिष्कृतः  
 तं꣡ जुषस्व यविष्ठिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 तम् । जु॒ष॒स्व॒ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puroḍā* ← *puroḍāś*
 - \[noun\], nominative, singular, masculine
@@ -83,40 +83,40 @@ popular
 **यविष्ठ्य** युवतम हे **अग्ने** यः **पुरोळाः** । पुरोडाशन्तेऽध्वर्य्वादयः४ एनमिति पुरोडाः पुरोडाशः। **पचतः** कपालयोः पक्वोऽस्ति । स च **तुभ्यं** त्वदर्थं **परिष्कृतः** **वा** **घ** पर्यग्निकरणादिभिरलंकृतः खलु । **तम्** इमं पुरोडाशं **जुषस्व** सेवस्व ॥ पुरोळाः ।  ‘ दाशृ दाने ' इत्यस्मात् पुरस्पूर्वात् ' मन्त्रे श्वेतवहोक्थशस्पुरोडशो ण्विन् ' ( पा. सू. ३. २. ७१ ) इति कर्मणि ण्विनि कृते ' श्वेतवहादीनां डस्पदस्य ' ( पा. सू. ३. २. ७१. १) इति डस्प्रत्यये च कृते ' अवयाः श्वेतवाः पुरोडाश्च ' ( पा. सू. ८. २, ६७ ) इति निपातनाद्दकारस्य डत्वम् । पुरोडाशन्त एनमिति पुरोडाः पुरोडाशः । डकारस्य लकारो बह्वृचसांप्रदायिकः । कृदुत्तरपदस्वरः । पचतः । ‘डुपचष् पाके' इत्यस्मात्  ‘ भृमृदृशि' इत्यादिना कर्मणि अतच्प्रत्ययः । पच्यतेऽसाविति पचतः पक्वः । चित्स्वरः । घा ।  ‘ ऋचि तुनुघ' इत्यादिना संहितायां दीर्घः । परिष्कृतः ।  ‘ संपर्युपेभ्यः करोतौ भूषणे' (पा. सू. ६. १. १३७ ) इति करोतेः सुडागमः ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । यविष्ठ्य । यविष्ठ एव यविष्ठ्यः ।  ‘ पादार्घाभ्यां च ' इत्यत्र चकारेण वस्वादीनां स्वार्थे यत्प्रत्ययस्योपादानात् यविष्ठेयत्यत्र स्वार्थिको यत्प्रत्ययः ( का. ५. ४. २५ )। आमन्त्रितत्वान्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cakes and butter are dressed, **Agni**, and verily prepared for you; accept them youngest (of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrificial cake has been cooked, o Agni, or rather, perfected for you. Enjoy it, o youngest one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the sacrificial cake hath been prepared and dressed for thee:  
      Accept it, O Most Youthful God.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The sacrificial cake, O Agni, has been baked or made ready for thee: accept it graciously, O youngest (god).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Reiskuchen ist gar, o Agni, oder vielmehr für dich zubereitet; den laß dir schmecken, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebacken ist der Kuchen dir, und, Agni, dir zurecht gemacht, Gniesse ihn, o jüngster du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Испеклась, о Агни, рисовая лепешка,  
 Или, вернее, для тебя она приготовлена.  

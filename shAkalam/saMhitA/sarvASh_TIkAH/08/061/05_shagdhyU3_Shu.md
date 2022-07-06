@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शग्धि꣡ ऊ षु꣡ शचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡नु शूर च꣡रामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भग॑म् । न । हि । त्वा॒ । य॒शस॑म् । व॒सु॒ऽविद॑म् । अनु॑ । शू॒र॒ । चरा॑मसि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śagdhy* ← *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
@@ -115,7 +115,7 @@ genre M
 हे **शचीपते** **इन्द्र** **शग्धि** देह्यभिमतम् । **विश्वाभिः** सर्वाभिः **ऊतिभिः** मरुद्भिः सह । हे **शूर** **भगं** **न** भाग्यमिव **यशसं** यशस्विनं **वसुविदं** धनस्य लम्भकं **त्वा** त्वाम् **अनु** **चरामसि** अनुचरामः । परिचरामेत्यर्थः ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,28 +126,28 @@ genre M
 All your helping powers: the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Exert your ability, o master of ability, o Indra, through all your help, for we follow after you who are like Bhaga, glorious and finding goods,  o champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, with all thy saving helps give us assistance, Lord of power.  
      For after thee we follow even as glorious bliss, thee, Hero, finder-out of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach es fein möglich, Herr der Macht, Indra, mit allen deinen Hilfen, denn wir laufen dir nach wie einem angesehenen gnädigen Herrn, der Schätze erwirbt, o Held.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O sei du hülfreich, Herr der Kraft, mit allen Hülfen, Indra, uns; Denn wie zum reichen Geber, welcher Güter schenkt, so streben wir zu dir, o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай же (это) вполне возможным, о повелитель силы,  
 О Индра, благодаря всем (своим) поддержкам!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ विश्ववि꣡त् पवते मनीषी꣡  
 सो꣡मो वि꣡श्वस्य भु꣡वनस्य रा꣡जा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ वा꣡रम् अ꣡व्यं सम꣡या꣡ति याति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द्र॒प्सान् । ई॒रय॑न् । वि॒दथे॑षु । इन्दुः॑ । वि । वार॑म् । अव्य॑म् । स॒मया॑ । अति॑ । या॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -121,20 +121,20 @@ genre M
 विश्ववित् सर्वस्यवेत्ता अतएव मनीषी मेधावी विश्वस्य भुवनस्य सर्वस्य लोकस्य राजा स्वामी एषसोमः पवते क्षरति । एतदेव विवृणोति । विदथेषु विन्दन्ति जानन्त्य- त्रदेवानिति । यद्वा विन्दन्ति लभन्ते विदथायज्ञास्तेषु द्रप्सान् रसकणान् ईरयन् प्रेरयन् । इन्दुः सोमः अव्यं अविभवं वारं वालं पवित्रं समया उभयतः व्यतियाति व्यतीत्यगच्छ- ति ॥ ५६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This all-knowing sage **Soma**, the sovereign of the whole world, flows forth; distilling his drops at the sacrifices, **Indu** passes through the sheep's hair on both sides.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, knowing all, possessing inspired thoughts, purifies himself— Soma, the king of all creation.  
 Rousing the droplets at the rites, the drop proceeds over and across the  sheep’s fleece all at once.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonological play in d: ví vā́ram ávyaṃ samáyā́ti yāti. The last bit is reminiscent of 54d, in that the phonological agreement crosscuts the word divisions: we have rhyming -yā́ti yāti, but the first yā́ti is to be segmented (samá)yā áti.
 
@@ -153,23 +153,23 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Soma here, the Wise, the All-obtainer, flows on his way as King of all existence.  
      Driving the drops at our assemblies, Indu completely traverses the fleecy filter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser allwissende, gedankenreiche Soma läutert sich, der Herr der ganzen Welt; Tropfen hervortreibend, unter weisen Reden geht der Saft mitten durch das Schafhaar hindurch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Allwissend strömet leuchtend dieser weise, der Soma, er, des ganzen Weltalls König, Die Tropfen sendend schreitet bei den Festen quer durch des Widders Wolle strömend Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищается этот всезнающий хранитель мудрости,  
 Сома – царь всего мироздания.  

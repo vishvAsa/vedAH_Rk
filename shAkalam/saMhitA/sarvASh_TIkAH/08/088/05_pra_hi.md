@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ हि꣡ रिरिक्ष꣡ ओ꣡जसा  
 दिवो꣡ अ꣡न्तेभियस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡नु स्वधां꣡ ववक्षिथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न । त्वा॒ । वि॒व्या॒च॒ । रजः॑ । इ॒न्द्र॒ । पार्थि॑वम् । अनु॑ । स्व॒धाम् । व॒व॒क्षि॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -110,19 +110,19 @@ genre M
 हे इन्द्र **दिवः** द्युलोकस्य पर्यन्तेभ्यः **ओजसा** । हिरवधारणे । स्वबलेनैव **प्र** **रिरिक्षे** प्रकर्षेणातिरिक्तो भवसि । रिचेर्लटि • बहुलं छन्दसि' इति श्लुः । प्रत्ययस्वरः । किंच हे **इन्द्र** **पार्थिवं** पृथिव्यां भवः **रजः** लोकः **त्वा** त्वां महता स्वशरीरेण **न** **विव्याच** न व्याप्नोति । द्यावापृथिवीभ्यामपि स्वतः स त्वं बलेन समर्थों भवसीत्यर्थः । एवंभूतः सन्नस्माकं **स्वधाम्** अन्नमुदकं वा **अनु** **ववक्षिथ** अनुवोढुमिच्छ । वहेः सनन्तस्य छान्दसे लिटि रूपम् । मन्त्रत्वादामभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, by your might you extend beyond the limits of heaven, the region of the earth cannot contain you;design to bring us food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you project beyond the limits of heaven with your strength, the earthly realm does not contain you, Indra. You have waxed strong  following your independent power.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -132,23 +132,23 @@ jā́yathā(ḥ) in 5a echoes jáyā(ḥ) in the immediately preceding pāda (4d
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For in thy might thou stretchest out beyond the boundaries of heaven.  
      The earthly region, Indra, comprehends thee not. After thy Godhead hast thou waxed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du reichst ja mit deiner Stärke über des Himmels Grenzen hinaus; nicht faßt dich der irdische Raum, Indra; du bist nach eigenem Triebe gewachsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du ja überragst an Kraft des weiten Himmels Enden auch, Und dich umfasst, o Indra, nicht der Erde Raum; aus eigner Kraft erwuchsest du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь силой ты выходишь  
 За пределы неба,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡था ते अङ्गिरस्तम  
 अ꣡ग्ने वेधस्तम प्रिय꣡म्  
 वोचे꣡म ब्र꣡ह्म सानसि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वो॒चेम॑ । ब्रह्म॑ । सा॒न॒सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *athā* ← *atha*
 - \[adverb\]
@@ -80,20 +80,20 @@ genre M
 हे **अङ्गिरस्तम** अतिशयेनाङ्गनादिगुणयुक्त । यद्वा । अङ्गिरसां वरिष्ठ । **वेधस्तम** । वेधा इति मेधाविनाम । अतिशयेन मेधाविन् **अग्ने** । **अथ** अनन्तरं **ते** तुभ्यं **सानसि** संभजनीयं **प्रियं** प्रीतिकरं **ब्रह्म** स्तोत्रं **वोचेम** वक्तारो भूयास्म ॥ वोचेम । लिङयाशिष्यड्'। ' वच उम्' इति उमागमः । सानसि । ‘वन षण संभक्तौ' । ‘सानसिधर्णसि' इत्यादौ असिच्प्रत्ययान्तो निपात्यते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And then, most wise **Agni**, chief of the **Aṅgiras**, may we address (to you) an acceptable and gratifying prayer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then, o Agni, best of Aṅgirases, best of ritual adepts, something  dear to you  
 might we speak—a winning sacred formulation.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -104,28 +104,28 @@ The two verses also contain four superlatives in -tama-, each to a stem ending i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, Agni, will we say to thee, O wisest and best Angiras,  
      Our precious, much-availing prayer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And may we then pronounce to thee, O highest Aṅgiras, Agni, best worshipper, a prayer agreeable to thee and successful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann wollen wir dir, du erster Angiras, du größter Meister Agni, ein liebes Erbauungslied aufsagen, ein einträgliches.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Huldvollster, bester Angiras, wir sprechen, Agni, ein Gebet, Das lieb dir sei und Segen bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О лучший из Ангирасов, Агни, самый мудрый,  
 Вот мы хотим вознести тебе  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् इ꣡न्द्रो म꣡देषु आ꣡  
 ग्राभं꣡ गृभ्णीत सानसि꣡म्  
 व꣡ज्रं च वृ꣡षणम् भरत् स꣡म् अप्सुजि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 वज्र॑म् । च॒ । वृष॑णम् । भ॒र॒त् । सम् । अ॒प्सु॒ऽजित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -103,7 +103,7 @@ genre M;; line affected by realignment;; repeated line
 **आ** अनन्तरम् **इन्द्रः** **अस्येत्** अस्य सोमस्यैव **मदेषु** संजातेषु **सानसिं** सर्वैः संभजनीयं **ग्राभं** ग्राहं ग्रहीतव्यं धनुः **गृभ्णीत** गृह्णाति । ‘ हृग्रहोर्भः° ' इति भत्वम् । किंच **अप्सुजित्** उदकार्थं वृत्रस्य जेता । यद्वा आप इत्यन्तरिक्षनाम । अन्तरिक्षेऽहिनामकस्य जेता। इन्द्रः **वृषणं** वर्षितारं **वज्रं** **च** **सं** **भरत्** संबिभर्तु । बिभर्तेर्लेट्यडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,14 +114,14 @@ genre M;; line affected by realignment;; repeated line
 Conquering the Vṛtra in the waters: 'Conquering the Vṛtra for the sake of the waters'; or, conquering ahi in the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, in the raptures of just this (soma), grabbed a handful  
 bringing gain,  
 and he carried the bullish mace—he who is entirely victorious in the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The etym. figure grābháṃ gṛbhṇīta seems to belong to dicing vocab.; see comm. ad VIII.81.1 and Lüders (Würfelspiel, 49-50).
 
@@ -143,23 +143,23 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra in his raptures gain from him the grasp that gathers spoil,  
      And, winning waters, wield the steerstrong thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Rausche möge Indra den einträglichen Griff tun, und er trage die bullengleiche Keule, aller Gewässer Ersieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es thue nun von ihm berauscht, Indra den segensreichen Griff, Und trage, siegreich im Gewölk, den starken Blitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В опьянениях им Индра  
 Пусть возьмет взятку, обеспечивающую захват,  

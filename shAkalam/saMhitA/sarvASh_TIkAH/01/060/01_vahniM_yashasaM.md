@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡ह्निं यश꣡सं विद꣡थस्य केतुं꣡  
 सुप्रावि꣡यं · दूतं꣡ सद्यो꣡अर्थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राति꣡म् भरद् भृ꣡गवे मातरि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द्वि॒ऽजन्मा॑नम् । र॒यिम्ऽइ॑व । प्र॒ऽश॒स्तम् । रा॒तिम् । भ॒र॒त् । भृग॑वे । मा॒त॒रिश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vahniṃ* ← *vahnim* ← *vahni*
 - \[noun\], accusative, singular, masculine
@@ -104,7 +104,7 @@ genre M
 अर्तेः कर्तरि थन्प्रत्ययः । सद्य एवार्थों गन्ता सद्योअर्थः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । यदि तु ‘अव्यये नञ्कुनिपातानामिति वक्तव्यम् ' (पा. सू. ६. २. २. ३ ) इति अव्ययग्रहणेन त्रितयं गृह्येत तर्हि बहुव्रीहिस्वरो भविष्यति । मातरिश्वा । सर्वनिर्माणहेतुत्वात् माता अन्तरिक्षम् । श्वसितिरत्र गतिकर्मा। मातरि अन्तरिक्षे श्वसिति गच्छतीति मातरिश्वा । ‘ श्वन्नुक्षन्' इत्यादौ निपातनात् रूपसिद्धिः । यद्वा । मातरि अन्तरिक्षे शु आशु असति गच्छतीति मातरिश्वा । ‘ अस गतिदीप्त्यादानेषु ' इत्यस्मात् औणादिको ड्वन्प्रत्ययः । एतच्च यास्केनोक्तम् ( निरु. ७. २६ ) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,34 +115,34 @@ genre M
 Rātim bhṛguṇām, son of the **Bhṛgus**; or, the wind brought **Agni** to the sage Bhṛgu, as a friend (**rāti**); cf. **arāti** = enemy, one who is not a friend. Offspring of two parents: eigher of heaven and earth, or of the two pieces of wood
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Glorious conveyor and beacon of the rite, pursuing (his ritual duties)  well, the messenger who immediately (reaches) his goal,  
 of double birth, celebrated like wealth—Mātariśvan brought him as a  gift to Bhr̥gu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As 'twere Some goodly treasure Matarisvan brought, as a gift, the glorious Priest to Bhrgu,  
      Banner of sacrifice, the good Protector, child of two births, the swiftly moving envoy.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Mâtarisvan brought (Agni) to Bhrigu as a gift precious like wealth, of double birth 1, the carrier, the famous, the beacon of the sacrifice 2, the ready and immediately successful messenger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den geehrten Wagenfahrer, das Banner des Opfers, den Boten, der gut zuredet und alsbald sein Ziel erreicht, den Zweigeborenen, wie Reichtum Gepriesenen bracht Matarisvan dem Bhrigu als Gabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schönen Fährmann und des Opfers Banner, den Boten, der sehr emsig rasch zum Ziel dringt, Den zwiegebornen gleich gepriesnem Reichthum, bracht als Geschenk dem Bhrigu Matariçvan.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославленного возницу, знамя жертвенного собрания,  
 Самого полезного вестника, сразу (идущего) к цели,  

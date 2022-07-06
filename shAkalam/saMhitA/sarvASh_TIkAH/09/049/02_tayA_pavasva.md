@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡या पवस्व धा꣡रया  
 य꣡या गा꣡व इहा꣡ग꣡मन्  
 ज꣡न्यास उ꣡प नो गृह꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जन्या॑सः । उप॑ । नः॒ । गृ॒हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tayā* ← *tad*
 - \[noun\], instrumental, singular, feminine
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **तया** तादृश्या **धारया** **पवस्व** क्षर। कीदृश्येत्यत्राह। **यया** यादृश्या त्वदीयया धारया **जन्यासः** जन्याः शत्रुजनपदभवाः **गावः** **इह** अस्मिँल्लोके **नः** अस्माकं संबन्धि **गृहम्** **उप** **आगमन्** उपागच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow in such a stream that the cattle belonging to the (enemy's) nation may come here to our dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself in that stream by which the people’s cows  
 will come here, right up to our house.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The intent of this vs. is pretty clear, though the expression is a bit contorted: presumably our offering of soma will bring cows as a reward, but how the cows will come “by a stream” of purified soma is unclear. I imagine them in single file, but I don’t think that’s what’s meant.
 
@@ -110,23 +110,23 @@ The adj. qualifying cows, jánya-, is generally interpr. as pregnantly ‘belong
 Note that úpa naḥ is somewhat displaced, though not as much as ā́sú naḥ in 1a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward with that stream of thine, whereby the cows have come to us,  
      The kine of strangers to our home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich in diesem Strome, mit dem die Rinder anderer Leute hierher kommen mögen zu unserem Hause!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit solchem Strome riesle hell, durch welchen Rinder kommen her In unser Haus, vorzügliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

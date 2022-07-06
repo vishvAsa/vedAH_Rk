@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् इ꣡त् साप्त꣡स्य चर्किरन्न्  
 आ꣡नूनस्य म꣡हि श्र꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 च꣡क्षुषा चन꣡ संन꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 श्यावीः॑ । अ॒ति॒ऽध्व॒सन् । प॒थः । चक्षु॑षा । च॒न । स॒म्ऽनशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -90,31 +90,31 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let them praise the seven-yoked team, great is the strength of that which is not yet full-grown; thedark-brown mares have rushed along the paths so that no eye can follow them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From here on they will keep paying tribute to the sevenfold (gift). Great  is the praise of (the gift) that lacks nothing.  
 When the dusky (mares) dust over the paths, they are not to be  
 encompassed by the eye.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann sollen sie der treuen Freundschaft des Königs lobend gedenken. Groß ist der Ruhm der vollständigen Gabe. Während die schwarzbraunen Stuten die Wege in Staub hüllen, sind sie auch mit dem Auge nicht ganz zu erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann gedachte man des [geschenkten] Siebengespannes; gross ist die Kraft des noch nicht ganz ausgewachsenen; die schwarzen Stuten durchstoben die Wege, so rasch, dass man sie mit dem Auge nicht einholen kann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот тут пусть вспомнят они, восхваляя упряжку из семи коней -  
 Великую славу полноценного (дара):  

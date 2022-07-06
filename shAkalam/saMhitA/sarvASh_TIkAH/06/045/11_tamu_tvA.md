@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा यः꣡ पुरा꣡सिथ  
 यो꣡ वा नूनं꣡ हिते꣡ ध꣡ने  
 ह꣡वियः स꣡ श्रुधी ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हव्यः॑ । सः । श्रु॒धि॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -106,20 +106,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **तमु** **त्वा** तमेव त्वां स्तुम इति शेषः । **यः** त्वं **पुरा** पूर्वस्मिन् काले **हव्यः** ह्वातव्यः **आसिथ** बभूविथ धनलाभार्थम् । **यो** **वा** यश्च त्वं **हिते** शत्रुषु निहिते **धने** निमित्तभूते सति **नूनम्** अद्यापि हव्यः ह्वातव्यो बभूविथ **सः** त्वमस्मदीयं **हवं** स्तोत्रं **श्रुधि** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(We invoke) you, such as you are, you who have been invocable of old, and who are now to be invoked for the wealth held (by the foe); hear our invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just you, who were before or who are now to be called upon when the  stake is set.  
 Hear our call!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is worth noting that in the temporally contrastive rel. clauses (a: purā́ ‘previously’, b: nūnám ‘now’) whose joint predicate is the grdv. hávyaḥ (see above), the one with past reference has an overt copula, pf. ā́sitha, while the one with current reference has the copula gapped.
 
@@ -136,23 +136,23 @@ Both vss. begin tám u tvā, with the iteration of this phrase in 11a still part
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such as thou wast of old, and art now to be called on when the prize  
      lies ready, listen to our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, der du es früher warst oder der du jetzt anzurufen bist, wann der Kampfpreis ausgesetzt ist. Erhöre du den Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, der du jetzt und früher auch dabei warst, wenn's den Kampfpreis galt, Du rufenswerther, hör den Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это тебя, такого, как ты был прежде  
 Или как сейчас, надо призывать,  

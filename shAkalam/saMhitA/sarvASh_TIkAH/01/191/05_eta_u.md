@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡ उ त्ये꣡ प्र꣡त्य् अदृश्रन्  
 प्रदोषं꣡ त꣡स्करा इव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡तिबुद्धा अभूतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अदृ॑ष्टाः । विश्व॑ऽदृष्टाः । प्रति॑ऽबुद्धाः । अ॒भू॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -101,7 +101,7 @@ popular;; epic anuṣṭubh (525)
 **त्ये** एते **ते** सर्पाः प्रत्यदृश्रन् प्रतिदृश्यन्ते रात्रौ श्वासादिलिङ्गेन । यद्वा । ते रात्रौ हन्तारो दिवा एते प्रतिदृश्यन्ते । तत्र दृष्टान्तः । **प्रदोषम्** । रात्रिर्दोषा । रात्रिं प्रति तमसाभिभूतासु रात्रिषु **तस्कराइव** हिंसकाश्चौरा दृश्यन्ते यथा तद्वत् । कीदृशास्ते । **अदृष्टाः** अपरिदृश्यमानाः **विश्वदृष्टाः** विश्वं दृष्टं यैस्ते तादृशाः प्रतिदृश्यन्ते । अतो हे नराः **प्रतिबुद्धा** **अभूतन** भवत ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,34 +112,34 @@ popular;; epic anuṣṭubh (525)
 Discovered in the dark: as snakes by their breathing; yet all are seen by them: viśvadṛṣṭā, undertood it as a **bahuvrīhi** compound
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these very ones have come into sight in the early evening, like  thieves.  
 You no-see-ums seen by all, you have become recognized.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. does seem to refer to such insects, those that become active at twilight when the wind drops. For example, although there are numerous types of mosquitoes and different species have different feeding patterns, it seems (from a quick Google search) that most species feed at dawn and dusk and a few hours into the dark.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or these, these reptiles, are observed, like lurking thieves at evening time.  
      Seers of all, themselves unseen: be therefore very vigilant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sind wieder erschienen bei Anbruch des Dunkels wie die Diebe. Ihr Unsichtbaren seid allgesehen, erkannt worden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese sind in der Nacht wieder sichtbar geworden, wie Diebe, ihr unbemerkten Gewürme seid von allen bemerkt und wahrgenommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти самые же снова показались  
 К вечеру, словно воры.  

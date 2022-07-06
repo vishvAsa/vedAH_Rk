@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡भिः सू꣡र्यम् उष꣡सम् मन्दसानो꣡  
 अ꣡वासयो अ꣡प दॄळ्हा꣡नि+ द꣡र्द्रत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नुत्था꣡ अ꣡च्युतं स꣡दसस् प꣡रि स्वा꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒हाम् । अद्रि॑म् । परि॑ । गाः । इ॒न्द्र॒ । सन्त॑म् । नु॒त्थाः । अच्यु॑तम् । सद॑सः । परि॑ । स्वात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
@@ -125,20 +125,20 @@ genre M
 हे इन्द्र **येभिः** यैः सोमैः **मन्दसानः** मोदमानस्त्वं **सूर्यं** सर्वस्य प्रेरकं देवम् **उषसम्** उषोदेवतां च **अवासयः** स्वस्थाने न्यवासयः । अथवा सूर्योषसौ यथा तमांसि विवासयतस्तथाकार्षीः । किं कुर्वन् । **दृळ्हानि** दृढानि तमांसि **अप** **दर्द्रत्** अपदारयन् । किंच हे **इन्द्र** त्वं पणिभिः अपहृताः **गाः** **परि** **सन्तं** परितो विद्यमानं **महां** महान्तम् **अद्रिं** पर्वतं **नुत्थाः** अनुदः। कीदृशम् । **स्वात्** स्वकीयात् **सदसः** स्थानात् **परि** परितः **अच्युतम्** अविचालितं विनाशरहितम् । स्थिरमित्यर्थः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By which (juices) being exhilarated you have appointed the sun and the dawn (to their offices), driving away the solid (glooms); you have penetrated, **Indra**, the mountain, unmoved from its own seat, concealing the cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming exhilarated on which, you made the sun and dawn to shine, as  you shattered the strongholds.  
 You shoved the great, immoveable rock that was enclosing the cattle  from its own seat, Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
 <details open><summary><h2>03-05ab ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root �
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gladdened whereby, bursting the firm enclosures, thou gavest splendour to the Sun and Morning.  
      The mighty rock that compassed in the cattle, ne'er moved, thou shookest from its seat, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von denen begeistert du die Sonne, das Morgenrot leuchten ließest, indem du die Feste aufsprengtest. Den großen Fels, der die Kühe gefangen hielt, hast du von seinem Platz gestoßen, den unbeweglichen, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die erquickt, die Sonn' und Morgenröthen erhellt du hast, zersprengend alles Feste; Den grossen Fels, der, Indra, barg die Kühe, den starren stiessest du von seinem Sitze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьянев от которых солнце (и) утреннюю зарю  
 Ты зажег, взрывая твердыни.  

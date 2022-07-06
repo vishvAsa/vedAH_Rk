@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ च पुरा꣡ च स꣡दनं रयीणां꣡  
 जात꣡स्य च जा꣡यमानस्य च क्षा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒तः । च॒ । गो॒पाम् । भव॑तः । च॒ । भूरेः॑ । दे॒वाः । अ॒ग्निम् । धा॒र॒य॒न् । द्र॒वि॒णः॒ऽदाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -143,46 +143,46 @@ genre M;; repeated line
 नू च इति निपातसमुदायः अद्य इत्यस्यार्थे । 'नू चिदिति निपातः पुराणनवयोर्नु च' ( निरु. ४.१७) इति यास्कः । **नू** **च** अद्य अस्मिन्काले **पुरा** **च** **रयीणां** सर्वेषां धनानां **सदनम्** आवासस्थानं **जातस्य** उत्पन्नस्य कार्यजातस्य **जायमानस्य** उत्पद्यमानस्य **च** **क्षां** निवासयितारं **सतश्च** सर्वत्र विद्यमानस्वभावस्य नित्यस्य चाकाशादेः **भवतश्च** सद्भावं प्राप्नुवतः **भूरेः** असंख्यातस्य अन्यस्य च भूतजातस्य **गोपां** गोपायितारं रक्षितारं **द्रविणोदां** धनप्रदं एवंगुणविशिष्टम् **अग्निं** **देवाः** **धारयन्** हविर्वोढृत्वेन धारयन्ति । नू च । ऋचि तुनुघ°' इति दीर्घः। रयीणाम् । ‘ नामन्यतरस्याम्' इति नाम उदात्तत्वम् । क्षाम् । ‘क्षि निवासगत्योः '। अस्मात् णिच् । वृद्ध्यायादेशौ। ण्यन्तात् क्विप् । णेरनिटि' इति णिलोपः । ‘ वेरपृक्तलोपाद्वलि लोपो बलीयान्' इति पूर्वं ‘ लोपो व्योर्वलि' इति यलोपः । न च णिलोपस्य स्थानिवत्त्वं, न पदान्तद्विर्वचनवरेयलोप ' इति प्रतिषेधात् । यद्वा । ‘ क्षै जै षै क्षये । अस्मात् क्विप् ।' आदेचः० ' इति आत्वम् । सतः । अस्तेः शतरि अदादित्वात् शपो लुकू । ‘ श्नसोरल्लोपः' इति अकारलोपः । ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods retain **Agni** as the giver of (sacrificial) wealth, who now is, and heretofore has been, the abode of riches, the receptacle of all that has been, and all that will be, born, and the preserver of all (that) exists, (as well as of all) that are coming into existence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both now and before the seat of riches, the ground of what has been  born and is being born,  
 the herdsman of what is and of much coming into being—Agni, the  wealth-giver, do the gods uphold.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The full integration of the refrain into the syntactic structure of the verse is signalled by the shift from nominative reference to Agni to accusative, clear first in kṣā́m in b, since sádanam in a is neuter and could be in either case -- the common use of a morphologically ambiguous form as pivot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now and of old the home of wealth, the mansion of what is born and what was born aforetime,  
      Guard of what is and what will be hereafter,--the Gods possessed the wealth bestowing Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him who is now and who was formerly the abode of wealth, the earth 1 (i. e. the dwelling-place or support) of what is born and of what will be born, the shepherd and guardian of what is and of much that comes into being. The gods have held Agni as the giver of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der jetzt und vormals der Sitz der Reichtümer ist, die Heimstätte des Geborenen und Zukünftigen, den Hüter des Seienden und des vielen Werdenden. - Die Götter erhalten Agni, den Schätzespender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sitz der Schätze jetzt und vormals, Agni, den Boden des gebornen und zukünft'gen, Der viel behütet, was da ist und sein wird, als Schätzespender wahrten ihn die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Его, кто) и сейчас, и прежде – сиденье богатств,  
 Обиталище рожденного и рождающегося,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वद्मा꣡ हि꣡ सूनो अ꣡सि अद्मस꣡द्वा  
 चक्रे꣡ अग्नि꣡र् जनु꣡षा अ꣡ज्म अ꣡न्नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जेव जेर् अवृके꣡ क्षेषि अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । नः॒ । ऊ॒र्ज॒ऽस॒ने॒ । ऊर्ज॑म् । धाः॒ । राजा॑ऽइव । जेः॒ । अ॒वृ॒के । क्षे॒षि॒ । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vadmā* ← *vadman*
 - \[noun\], nominative, singular, masculine
@@ -148,20 +148,20 @@ genre M
 हे **सूनो** सहसः पुत्र । यद्वा ‘षू प्रेरणे' । सर्वस्य प्रेरकाग्ने **वद्मा** वदनीयः स्तुत्यः **असि** **हि** । परः पादः परोक्षकृतः । अद्मसद्वा अद्मसु अदनीयेषु हविःषु सीदन् हविःस्वीकरणायोपविशन् **अग्निः** **जनुषा** जन्मना स्वभावतः एव अज्म । गृहनामैतत् । गृहम् **अन्नं** च यजमानानां **चक्रे** करोति । **ऊर्जसने** ऊर्जस्यान्नस्य दातरग्ने **नः** अस्मभ्यं **सः** तादृशः **त्वम्** **ऊर्जम्** अन्नं **धाः** देहि । तथा **राजेव** **जेः** अस्मच्छत्रून् जय । एतत्सर्वार्थम् **अवृके** राक्षसादिभिर्बाधकैर्वियुक्तेऽस्मदीयेऽग्न्यागारे **अन्तः** मध्ये **क्षेषि** निवस ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sons of strength, you are to be praised; **Agni**, sitting upon the (sacrificial) viands, has given (to his worshippers), from their birth, habitation and food giver of strength, bestow strength upon us; triumph like a prize, so that you may abide in our unassailed (dwelling).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o son (of strength), are eloquent when you sit for your meal. Agni  right from birth has made his own course into his food.  
 You, o winner of nourishment, establish nourishment for us. Like a king,  you have conquered; you dwell peacefully in a place without wolves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rare word vadmán- is found only here and in VI.13.6, also belonging to this cycle. It presumably presupposes a neut. *vádman- ‘speech’, from which vadmán- was derived by accent shift, like neut. bráhman- à adj. brahmán-. vadmā́ here participates in a phonetic figure with pāda-final admasádvā, where both the 1st cmpd member adma and the 2nd sádvā match the basic phonological structure of vadmā́.
 
@@ -170,23 +170,23 @@ The immediate context in VI.13.6 is similar, vadmā́ sūno sahaso no víhāyā,
 The phrase “son of strength” is hypercharacteristic of this Agni cycle: besides
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art a Singer, Son! our feast-companion: Agni at birth prepared his food and pathway.  
      Therefore vouchsafe us strength, O Strength-bestower. Win like a King: foes trouble not thy dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, o Sohn, bist redselig, wenn du am Mahle sitzest - Agni hat sich gleich bei seiner Geburt seine Bahn zur Speise gemacht -. Du mögest uns, du Stärkegewinner, Stärkung schaffen. Wie ein König siegest du und wohnst in Sicherheit vor Wölfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Sänger bist, o Sohn, du, Tischgenosse; nach seiner Weise schuf die Bahn sich Agni; So gib du uns, o stärkereicher, Stärke, als König siege, sicher ist dein Wohnsitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты, о сын, речист, сидя за (жертвенной) пищей.  
 С рождения сделал себе Агни пищу (своим) путем.  

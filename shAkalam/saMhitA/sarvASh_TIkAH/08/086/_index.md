@@ -8,7 +8,7 @@ title = "+086"
 ‘उभा हि दस्रा' इति पञ्चर्चं षष्ठं सूक्तम् । विश्वको नाम कृष्णस्य पुत्रः कृष्ण एव वर्षिः । जगती छन्दः । अश्विनौ देवता । तथानुक्रम्यते-- ’उभा हि पञ्च विश्वको वा कार्ष्णिर्जागतम्' इति । विनियोगो लिङ्गादवगन्तव्यः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 86 (695)  
 Aśvins  
@@ -18,7 +18,7 @@ This hymn clearly depicts a precise situation, with the poet Viśvaka making a d
 of the Aśvin myths it is intriguing and probably ultimately unknowable. The Viśvaka/Viṣṇāpū episode seems only to occupy the first three verses, which  may form a tr̥ca, as Oldenberg suggests (Noten ad loc.). The last two verses (4–5)  retain the final-pāda refrain (of vss. 1–3), but omit the repeated c-pāda with its  mention of Viśvaka. The appeal to Indra for help (vs. 4) and the praise of truth (vs.  5) seem loosely attached to the rest of the hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins
 </details>

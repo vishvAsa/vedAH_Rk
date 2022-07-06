@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तर꣡णिं वो ज꣡नानां᳐  
 त्रदं꣡ वा꣡जस्य गो꣡मतः  
 समान꣡म् उ प्र꣡ शंसिषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒मा॒नम् । ऊं॒ इति॑ । प्र । शं॒सि॒ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taraṇiṃ* ← *taraṇim* ← *taraṇi*
 - \[noun\], accusative, singular, masculine
@@ -81,41 +81,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अस्मदीयाः पुरुषाः **वः** युष्माकं **जनानां** पुत्रपौत्रादीनां **तरणिं** तारकं **त्रदं** शत्रूणां तर्दयितारं **गोमतः** पशुमतोऽन्नस्य दातारं चेन्द्रं **समानमु** साधारणमेव **प्र** **शंसिषं** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise our common (**Indra**), the deliverer of your families, the slayer (of your enemies, the bestower) ofriches in cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I laud him to you as the surpassing one, as driller of the bovine prize  for the peoples,  
 and as one common (to all)—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 jánānām may go with taráṇim, as Geldner takes it (“Den Durchhelfer der Menschen”); I construe it with b, because taráṇi- doesn’t otherwise take a genitive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have I magnified, our Lord in, common, Guardian of your folk,  
      Discloser of great wealth in kine;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Durchhelfer der Menschen, den Herausschlager von Gewinn an Rindern, der immer derselbe ist, will ich euch preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der die Feinde euch besiegt, den rinderreichen Stall erschliesst, Mit euch vereint ist, preis' ich nun,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спасающего народы,  
 Выбивающего добычу, состоящую из коров,  

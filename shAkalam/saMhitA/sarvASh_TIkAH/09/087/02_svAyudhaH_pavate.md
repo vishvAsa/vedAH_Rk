@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुआयुधः꣡ पवते देव꣡ इ꣡न्दुर्  
 अशस्तिहा꣡ वृज꣡नं र꣡क्षमाणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विष्टम्भो꣡ दिवो꣡ धरु꣡णः पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पि॒ता । दे॒वाना॑म् । ज॒नि॒ता । सु॒ऽदक्षः॑ । वि॒ष्ट॒म्भः । दि॒वः । ध॒रुणः॑ । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāyudhaḥ* ← *su*
 - \[adverb\]
@@ -117,42 +117,42 @@ genre M
 **स्वायुधः** शोभनायुधः **इन्दुः** सोमः **देवः** **पवते** । स च देवः **अशस्तिहा** रक्षोहा **वृजनम्** उपद्रवं **रक्षमाणः** **पिता** पालकः **देवानां** तथा **जनिता** उत्पादकः **सुदक्षः** सुबलः **दिवः** **विष्टम्भः** विशेषेण स्तम्भयिता **पृथिव्याः** च **धरुण** धारकः । एवंमहानुभावः पवते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine, **Indu** well-armed flows forth, the destroyer of **rākṣasas**, averting calamity, the protector of the gods, the progenitor, the powerful one, the prop of heaven, the support of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He of good weapons, the god, the drop purifies himself, smiting  
 malediction, protecting the community,  
 the father, begetter of the gods, possessing good skill, prop of heaven,  buttress of the earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two links to the preceding hymn, despite their difference in meter: most of pāda c pitā́devā́nāṃ janitā́… is identical to IX.86.10b, with each closing with a word that conforms to its cadential template; the first two words of d, viṣṭambhó divó, are identical to IX.86.35d divó viṣṭambháḥ, but in opposite order, with minimal metrical difference. (Our pāda is repeated in IX.89.6, while the order in 86.35 is repeated in IX.108.16.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, the well-armed God, is flowing onward, who quells the curse and guards from treacherous onslaught,  
      Father, begetter of the Gods, most skilful, the buttress of the heavens and earth's supporter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlbewaffnet läutert sich der göttliche Saft, die Afterreden niederschlagend, den Opferbund schützend, der Vater und verständige Erzeuger der Götter, des Himmels Stütze, der Träger der Erde;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Indu flammt, bewehrt mit guten Waffen, den Bösen tödtend, die Gemeinde schützend, Der Götter starker Vater und Erzeuger, des Himmels Pfeiler und der Erde Stütze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хорошо вооруженный, очищается бог, сок (сомы),  
 Убивая злоречивых, охраняя общину,  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने वीहि꣡ हवि꣡षा य꣡क्षि देवा꣡न्  
 सुअध्वरा꣡ कृणुहि जातवेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; repeated line
 अग्ने॑ । वी॒हि । ह॒विषा॑ । यक्षि॑ । दे॒वान् । सु॒ऽअ॒ध्व॒रा । कृ॒णु॒हि॒ । जा॒त॒ऽवे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -82,34 +82,34 @@ genre M;; repeated line
 हे जातवेदः जातधन **अग्ने** **वीहि** देवानभिगच्छ। **हविषा** **देवान्** **यक्षि** यज च। **स्वध्वरा** स्वध्वरान् शोभनयज्ञांश्च **कृणुहि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** **Jātavedas**, repair to the gods, worship them with the oblation, render them plural ased by thesacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, pursue them with the offering, sacrifice to the gods. Make the rites  good, Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Taste, Agni: serve the Gods with our oblation. Offer good sacrifices, Jatavedas!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, bitte die Götter her und verehre sie mit der Opfergabe. Versieh den Gottesdienst gut, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, komm mit Opfer, ehr die Götter, erwünschte Feier wirk, o Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приглашай возлиянием богов (и) почитай (их)!  
 Создай прекрасные обряды, о Джатаведас!

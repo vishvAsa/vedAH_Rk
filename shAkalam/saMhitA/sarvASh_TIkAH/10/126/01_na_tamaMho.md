@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡म् अं꣡हो न꣡ दुरितं꣡  
 दे꣡वासो अष्ट म꣡र्तियम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 मित्रो꣡ न꣡यन्ति व꣡रुणो अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment
 स॒ऽजोष॑सः । यम् । अ॒र्य॒मा । मि॒त्रः । नय॑न्ति । वरु॑णः । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -111,36 +111,36 @@ genre M;; line affected by realignment
 हे **देवासः** देवाः ॥ आज्जसेरसुक् ॥ **तं** **मर्त्यं** मनुष्यम् **अंहः** पापं **दुरितं** तत्फलरूपं दुर्गमन च **न** **अष्ट** न प्राप्नोति ॥ अशेश्छान्दसे लुङि ‘झलो झलि' इति सिचो लोपः। अडभावश्छान्दसः ॥ अरीन्नियच्छतीति **अर्यमा** प्रमीतेस्त्रायको देवः मित्रः पापानां निवारयिता देवः **वरुणः** । एते त्रयो देवाः **सजोषसः** संगताः समानं प्रीयमाणा वा भवन्तः **द्विषः** द्वेष्टॄन् शत्रूनतिक्रम्य **यं** स्तोतारं **नयन्ति** अभिमतं देशं प्रापयन्ति तं नाष्टेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Neither sin nor sorrow, O gods, affect the man whom **Aryaman**, **Mitra** and **Varuṇa**, being alike plural asedby him, conduct beyond (the reach of) his enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, neither narrow straits nor difficult passage reach that mortal whom Aryaman, Mitra, and Varuṇa lead of one accord—beyond  
 hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No peril, no severe distress, ye Gods, affects the mortal man,  
      Whom Aryaman and Mitra lead, and Varima, of one accord, beyond his foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Sterblichen hat niemals Not noch Gefahr betroffen, o Götter, welchen Aryaman, Mitra, Varuna vereint führen - über alle Anfeindungen hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht Noth, o Götter, noch Gefahr erreichet je den Sterblichen, Den Varuna, den Arjaman und Mitra leiten im Verein – durch jeden Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни беда, ни опасность не настигнет  
 Того смертного. О боги,  

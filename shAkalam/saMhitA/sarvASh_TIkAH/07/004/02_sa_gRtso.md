@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ गृ꣡त्सो अग्नि꣡स् त꣡रुणश् चिद् अस्तु  
 य꣡तो य꣡विष्ठो अ꣡जनिष्ट मातुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡रि चिद् अ꣡न्ना स꣡म् इ꣡द् अत्ति सद्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सम् । यः । वना॑ । यु॒वते॑ । शुचि॑ऽदन् । भूरि॑ । चि॒त् । अन्ना॑ । सम् । इत् । अ॒त्ति॒ । स॒द्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,36 +136,36 @@ genre M
 **सः** **चित्** स एव **गृत्सः** मेधावी । तथा च यास्कः- गृत्स इति मेधाविनाम' ( निरु. ९.५)। **अग्निः** **तरुणः** तारको भवति । तदा **यतः** यदा **मातुः** अरण्याः **यविष्ठः** युवतमः सन् **अजनिष्ट** । **यः** अग्निः **शुचिदन्** दीप्तदन्तः **वना** वनानि **सं** **युवते** आत्मना संयोजयति । किंच **भूरि** **चित्** भूरीण्यपि **अन्ना** स्वीयान्यन्नानि **सद्यः** **इत्** सद्य एव **सम्** **अत्ति** सम्यक् भक्षयति ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the sagacious **Agni** be our conductor from the time that he is orn, most youthful, of his mother; hewho, bright-toothed, attacks the forest, and quickly devours his abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Agni be sharp-witted, though of tender age, since he has been born  as his mother’s youngest,  
 who with his flaming teeth completely grips the pieces of wood. He  completely eats his food all at once, even though it be abundant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise must this Agni be, though young and tender, since he was born, Most Youthful, of his Mother;  
      He who with bright teeth seizeth fast the forests, and eats his food, though plenteous, in a moment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Obwohl noch Kind, muß Agni schon erfahren sein, sobald er als Jüngster aus der Mutter geboren wird, der hellen Zahns die Hölzer festhält. Gar viele Speisen ißt er auf in kurzer Frist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Agni sei das Kind der Mutter, aus deren Schooss als jüngster er entstammt ist, Er, der das Holz mit hellem Zahn verzehret und viele Speisen auf einmal geniesset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет искусен этот Агни, хоть он и молод,  
 Как только он родился от матери как самый юный,  

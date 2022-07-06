@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् अस्मै सप्त꣡ धेन꣡वो दुदुह्रे  
 सत्या꣡म् आशि꣡रम् पूर्विये꣡ वि꣡ओमनि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 चा꣡रूणि चक्रे य꣡द् ऋतइ꣡र् अ꣡वर्धत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 च॒त्वारि॑ । अ॒न्या । भुव॑नानि । निः॒ऽनिजे॑ । चारू॑णि । च॒क्रे॒ । यत् । ऋ॒तैः । अव॑र्धत ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 **अस्मै** पवमानाय **पूर्व्ये** पूर्वैः कृते **व्योमनि** । विविधमोमावनं गमनं देवानामत्रेति व्योम यज्ञः । तस्मिन् स्थिताय । यद्वा । प्रत्ने व्योमन्यन्तरिक्षे वर्तमानाय । **त्रिः** **सप्त** एकविंशतिसंख्याकाः **धेनवः** प्रीणयित्र्यो गावः **सत्यां** यथार्थभूताम् **आशिरम्** आश्रयणसाधनं क्षीरादि **दुदुहे** दुहन्ति । यद्वा । त्रिः सप्त द्वादश मासाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविंशः' (तै. सं.५.४.१२.२) इत्येतैः सर्वैः सह गोषु पय उत्पाद्यते तद्भावो दुहन्त इति । किंचायं सोमः **अन्या** अन्यानि **चत्वारि** **भुवनानि** उदकानि वसतीवरीस्तिस्रश्चैकधना इति तानि चतुःसंख्याकानि **चारूणि** कल्याणान्युदकानि **निर्णिजे** निर्णेजनाय परिशोधनाय परिपोषणाय वा **चक्रे** । कदा करोति । **यत्** यदा अयम् **ऋतैः** यज्ञैः **अवर्धत** वर्धितवान् तदा करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ genre M
 Thrice seven kine: may signify the 12 months, the 5 seasons, the 3 worlds and the sun; the four waters are the vasatīvarī waters and the three **ekadhana**) waters (**Taittirīya** **saṃhitā** 5.4.12.2)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times seven milk-cows have milked out for him the real  
 milk-mixture in the foremost distant heaven.  
 He made the four other dear worlds to be his raiment, when he grew  strong through the truths [=hymns].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE three times seven Milch-kine in the eastern heaven have for this Soma poured the genuine milky draught.  
      Four other beauteous Creatures hath he made for his adornment, when he waxed in strength through holy rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal sieben Kühe gaben für ihn die echte Mischmilch im ersten Himmelsraum. Vier andere schöne Wesen machte er sich zum Festgewand, als er nach den Regeln groß wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es liessen sieben Kühe dreimal strömen ihm den wahren Milchtrank in dem höchsten Himmelsraum, Vier andre theure Wesen legte er sich an zum Schmuck, als er durch heil'ges Werk gekräftigt war.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды семь дойных коров доились для него  
 Истинным молоком для смешения на древнем небосводе.  

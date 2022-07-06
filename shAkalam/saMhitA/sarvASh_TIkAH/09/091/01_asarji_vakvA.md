@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सर्जि व꣡क्वा र꣡थिये य꣡थाजउ꣡  
 धिया꣡ मनो꣡ता प्रथमो꣡ मनीषी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जन्ति व꣡ह्निं स꣡दनानि अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दश॑ । स्वसा॑रः । अधि॑ । सानौ॑ । अव्ये॑ । अज॑न्ति । वह्नि॑म् । सद॑नानि । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
@@ -115,7 +115,7 @@ genre M
 **वक्का** शब्दयमानः । ‘वच परिभाषणे'। वनिप् । एतादृशः पवमानः सोमः **आजौ** । अजन्ति कर्मार्थमृत्विज इत्याजिर्यज्ञः । तस्मिन् **धिया** कर्मणा स्तोत्रेण वा साकम् **असर्जि** सृज्यते पात्रेष्विति । तत्र दृष्टान्तः। **रथ्ये** **यथा** रथार्ह आजौ । संग्रामनामैतत् अजन्ति प्रक्षिपन्ति आयुधान्यत्रेति । तस्मिन्नश्वो यथा धियाङ्गुल्या सृज्यते तद्वत् । कीदृशः । **मनोता** यस्मिन् देवानां मनांस्योतानि प्रोतानि सः । तथा च ब्राह्मणं - तस्मिन् हि तेषां मनांस्योतानि ' (ऐ. ब्रा. २.१०) इति । **प्रथमः** सर्वेषां देवानां मुख्यः **मनीषी** । मनस ईषा मनीषा स्तुतिः । तद्वान् । **दश** **स्वासरः** दशसंख्याका अङ्गुलयः **सदनानि** यज्ञगृहाणि **अच्छ** अभिमुखीकृत्य **वह्निं** वोढारं सोमं **सानौ** समुच्छ्रिते । अधिः सप्तम्यर्थानुवादकः । **अव्ये** अविभवे अविवालेन कृते पवित्रे **अजन्ति** प्रेरयन्ति । ‘ अज गतिक्षेपणयोः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,36 +126,36 @@ genre M
 On whom the minds of the gods are fixed: tasmin hi teṣām manāṃsyotāni (**Aitareya** **Brāhmaṇa** 2.10)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Billowing, he has been let loose as if at a chariot contest—the foremost  inspired thinker with his insight.  
 The ten sisters drive the draft-horse on the sheep’s back toward the seats.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in several places in the comm. (see lexical list), the root √vañc refers to a number of types of non-linear motion: undulate, curl, coil, etc., with these meanings also distributed among the derivatives of the root, esp. vákvan-. Here my tr. ‘billowing’ refers to the motion of the waves of the liquid soma; cf. X.148.5 ūrmír ná … vákvāḥ “billowing like a wave.” The published translation doesn’t adequately represent the two divergent derivatives of √man ‘think, bring to mind’, manótar- and manīṣī́. The latter, by itself, means ‘possessing inspired thought, inspired thinker’. The former, a rarer derivative, means, in my view, someone who pays mental attention, a ‘minder’. See comm. ad II.9.4. I would emend the tr. here to “the minder, the foremost inspired thinker with his insight.” The point here, I think, is that Soma not only has inspired thoughts of his own but pays attention to those of the human celebrants.
 
 The ten sisters are, as usual, the fingers of the officiant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As for a chariot-race, the skilful Speaker, Chief, Sage, Inventor, hath, with song, been started.  
      The sisters ten upon the fleecy summit drive on the Car-horse to the resting places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Galoppierend ist er losgesprengt wie in einem Wagenrennen, mit Verständnis nachdenkend, der erste Denker. Die zehn Schwestern treiben das Zugtier auf dem Schafrücken zu seinen Sitzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilt der Tummler wie beim Wagenrennen, mit Kunst der weise, erste Liederfinder; Zehn Schwestern treiben auf der Wolle Gipfel das Wagenross heran zu seinen Sitzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он выпущен, скачущий, как на состязании колесниц,  
 Первый хранитель мудрости, сочиняющий с (большим) искусством,  

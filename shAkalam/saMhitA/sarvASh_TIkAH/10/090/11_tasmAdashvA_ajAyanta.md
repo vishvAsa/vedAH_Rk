@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्माद् अ꣡श्वा अजायन्त  
 ये꣡ के꣡ च उभया꣡दतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡स्माज् जाता꣡ अजाव꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 गावः॑ । ह॒ । ज॒ज्ञि॒रे॒ । तस्मा॑त् । तस्मा॑त् । जा॒ताः । अ॒जा॒वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -114,32 +114,32 @@ popular;; epic anuṣṭubh (380)
 **तस्मात्** पूर्वोक्ताद्यज्ञात् **अश्वा** **अजायन्त** उत्पन्नाः। तथा **ये** **के** **च** अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च उभयादतः ऊर्ध्वाधोभागयोरुभयोः दन्तयुक्ताः सन्ति तेऽप्यजायन्त। तथा **तस्मात्** यज्ञात् **गावः** च **जज्ञिरे** । किंच **तस्मात्** यज्ञात् **अजावयः** च **जाताः** ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From it horses were born and whatever animals have teeth in both jaws. Cows were born from it. From it were born goats and sheep.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From it were horses born, from it all cattle with two rows of teeth:  
      From it were generated kine, from it the goats and sheep were born.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als sie den Purusa auseinander legten, in wie viele Teile teilten sie ihn? Was ward sein Mund, was seine Arme, was werden seine Schenkel, was seine Füße genannt?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was ward sein Mund? was seine Arme? was seine Schenkel? wie wurden seine Füsse genannt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Пурушу расчленяли,  
 На сколько частей разделили его?  

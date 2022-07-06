@@ -8,7 +8,7 @@ title = "+124"
 ‘ उषा उच्छन्ती ' इति त्रयोदशर्चं चतुर्थं सूक्तं दैर्घतमसः कक्षीवत आर्षं त्रैष्टुभमुषस्यम् । ‘ उषा उच्छन्ती ' इत्यनुक्रान्तम् । विनियोगस्तु पूर्वसूक्ते एवोक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 124  
 Dawn  
@@ -21,7 +21,7 @@ she reveals herself like an elephant kneeling to drink; and she wakens the sleep
 Nothing in the rest of the hymn is quite so quirky, but the standard tropes are  well handled. The common counterpoint between individual Dawn and the multi tude of identical dawns that have preceded and will follow today’s dawn is found  in verses 2–3, 6, and 9. Another common theme, the diversity of beings that Dawn  awakens, appears in verses 1, 6, and 12. The final verses of the hymn raise the hope  of gifts and rewards that will come with the dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dawn
 </details>

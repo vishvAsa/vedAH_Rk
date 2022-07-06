@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विदा꣡ चिन् नु꣡ महान्तो ये꣡ व ए꣡वा  
 ब्र꣡वाम दस्मा वा꣡रियं द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षुभा꣡ म꣡र्तम् अ꣡नुयतं वधस्नइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वयः॑ । च॒न । सु॒ऽभ्वः॑ । आ । अव॑ । य॒न्ति॒ । क्षु॒भा । मर्त॑म् । अनु॑ऽयतम् । व॒ध॒ऽस्नैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidā* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -130,14 +130,14 @@ genre M
 हे **महान्तः** मरुतः **नु** क्षिप्रं यूयं **विद** जानीथ स्तोत्रम् । हे **दस्माः** दर्शनीयाः **वः** युष्मान् **ये** **एवाः** गन्तारो युष्मान् भजमानाः **वार्यं** वरणीयं हविः **दधानाः** ददाना धारयन्तो वा वयं **ब्रवाम** स्तुतिम् । यद्वा । ये वो यूयमित्यर्थः । ये यूयमेवाः अस्मद्यज्ञमभिगन्तारस्ते विद । चिदिति पूरणः । **वयश्चन** आगन्तारश्चैते मरुतः **सुभ्वः** सुष्ठु भवन्तः प्रवृद्धाः **आ** अस्मदभिमुखम् **अव** **यन्ति** गच्छन्ति । किं कुर्वन्तः । **क्षुभा** क्षोभकेण सहितं **मर्तं** मरणधर्माणं वैरिणम् **अनुयतम्** अभिगतं **वधस्नैः** आयुधैः परिहरन्तः अव यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty **Maruts**, of goodly aspect, quickly hear (the praises) that we who repair to you repeat, offering acceptable (oblations); (the Maruts) coming hither, well disposed, come down to us, (destroying) with their weapons the mortals opposed to them, (overcome) by agitation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just by our knowledge, o great ones [=Maruts], we shall say which are  your ways, wondrous ones, as we acquire what is choice.  
 And like birds, those of good essence [=Maruts] swoop down here  
@@ -145,7 +145,7 @@ in pursuit with their fluttering to the mortal held by murderous
 weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another opaque vs., whose difficulties begin with the first word vidā́. This is taken as the 2nd pl. pf. by Grassmann, Geldner, Witzel Gotō. (Renou unaccountably takes it as a 1st sg. ‘Je sais …’, without comment -- presumably a careless error for véda.) I follow Oldenberg in taking it as the instr. of the root noun to the same root.
 
@@ -164,23 +164,23 @@ The phonological play with va/ā that we noted earlier in the hymn (particularly
 váya(ḥ) ... subhvà(ḥ) ... vadhasnaíḥ — which draws attention to the thematic connection between this vs. and vs. 5.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We know your ways, ye Mighty Ones receiving choice meed, ye Wonderful, we will proclaim it.  
      Even strong birds descend not to the mortal who strives to reach them with swift blow and weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr allein, ihr Großen, wisset, welches eure Absichten sind; wir wollen es sagen, ihr Meister, erwünschte Opferspende darbringend - nicht einmal die stattlichen Vögel wissen es: Die Marut kommen herab zu dem Sterblichen, der durch ihre Erschütterung, ihre Waffen gefügig wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr grossen kennt ja eure eignen Gänge, viel Gut empfangend rühmen wir's, o hehre, Wie starke Vögel schiessen schnell herab sie zum Menschen, der mit Mordgeschoss verfolgt wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле я знаю, о могучие, каковы ваши обычаи.  
 Мы скажем (об этом), о удивительные, принося (вам) избранную (жертву).  

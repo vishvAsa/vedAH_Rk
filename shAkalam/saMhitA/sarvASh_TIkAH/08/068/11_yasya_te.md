@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते स्वादु꣡ सखियं꣡  
 स्वाद्वी꣡ प्र꣡णीतिर् अद्रिवः  
 यज्ञो꣡ वितन्तसा꣡यियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 य॒ज्ञः । वि॒त॒न्त॒साय्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -74,36 +74,36 @@ genre M;; repeated line
 हे **अद्रिवः** वज्रवन्निन्द्र **यस्य** स्तुत्यत्वेन प्रसिद्धस्य **ते** तव **सख्यं** **स्वादु** अतीवानुभवार्हम् । किंच ते **प्रणीतिः** प्रणयनं धनादीनां **स्वाद्वी** स्वादु सुहर्षकम् । तथोभे त्वद्विषयो **यज्ञः** च **वितन्तसाय्यः** विशेषेण तननीयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, the thunderer, whose friendship is sweet, sweet too is your liberality, and your sacrificepre-eminently to be performed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whose fellowship is sweet, whose leadership is sweet, o master of  the stones—  
 yours is the sacrifice worth tussling over.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Thunderer, thou whose friendship and whose onward guidance both are sweet,  
      Thy sacrifice must be prepared.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, dessen Freundschaft süß, dessen Führung süß ist, du Herr des Preßsteins, dein Opfer ist vielbegehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, dessen Freundschaft lieblich ist, und dessen Leitung, Schleuderer, Und dessen Opfer man beeilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

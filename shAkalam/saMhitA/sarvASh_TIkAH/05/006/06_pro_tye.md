@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रो꣡ त्ये꣡ अग्न꣡यो अग्नि꣡षु  
 वि꣡श्वम् पुष्यन्ति वा꣡रियम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ते । हि॒न्वि॒रे॒ । ते । इ॒न्वि॒रे॒ । ते । इ॒ष॒ण्य॒न्ति॒ । आ॒नु॒षक् । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pro* ← *pra*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M;; repeated line
 **प्रो** प्रैव **पुष्यन्ति** **त्ये** ते **अग्नयः** धिष्ण्या **अग्निषु** गार्हपत्यादिषु । यद्वा । लौकिका अग्नयः तेजःपदार्थोऽग्निषु वैदिकेषु **विश्वं** सर्वं **वार्यं** वरणीयमपेक्षितं धनं पुष्यन्ति । **ते** अग्नयः **हिन्विरे** प्रीणयन्ति । **इन्विरे** व्याप्नुवन्ति च । **ते** **इषण्यन्ति** अन्नमिच्छन्ति । **आनुषक्** सर्वत्रानुषक्तम् । तत्राग्निसामान्याभिप्रायेणैकवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,35 +141,35 @@ genre M;; repeated line
 These fires cherish: pro tye agnayo agniṣu viśvam puṣyanti vāryam: prapuṣyanti **dhiṣṇyā** gārhapatyādiṣu, they nourish exceedingly, by their intensity, wealth dhanam (implied), in the household and other fires; i.e., the primary flames of Agni, when manifested in the household fires, are the source of riches
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these fires are at the forefront among fires. They foster everything  of value.  
 They hasten it; they speed it; they drive it onward in proper order.  
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Agnis in the seats of the fire nourish each thing most excellent.  
      They give delight, they spread abroad, they move themselves continually. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Those Agnis make everything precious prosper in the Agnis; they drive forward (precious wealth); they incite it; they speed it hither in the due way 1. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Feuer haben unter allen Feuern den Vorrang; sie haben alles Begehrenswerte in Fülle. Sie werden angespornt, sie werden getrieben, sie eilen, wie sich´s gehört. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Blüte bringen alles Gut durch Feuer diese Feuer hier; Sie eilen sich, sie treiben sich, sie regen an ohn' Unterlass; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те самые огни впереди (других) огней.  
 Они дают процветание всему желанному богатству.  

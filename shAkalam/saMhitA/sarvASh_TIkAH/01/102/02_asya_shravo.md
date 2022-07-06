@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ श्र꣡वो नदि꣡यः सप्त꣡ बिभ्रति  
 द्या꣡वाक्षा꣡मा पृथिवी꣡ दर्शतं꣡ व꣡पुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श्रद्धे꣡ क꣡म् इन्द्र चरतो वितर्तुर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मे इति॑ । सू॒र्या॒च॒न्द्र॒मसा॑ । अ॒भि॒ऽचक्षे॑ । श्र॒द्धे । कम् । इ॒न्द्र॒ । च॒र॒तः॒ । वि॒ऽत॒र्तु॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -111,7 +111,7 @@ genre M
 **अस्य** इन्द्रस्य **श्रवः** यशः कीर्तिं सप्त इमं मे गङ्गे' इत्यस्यामृचि प्राधान्येन प्रतिपादिता गङ्गाद्याः सप्तसंख्याकाः **नद्यः** **बिभ्रति** धारयन्ति । वृत्रहननेन इन्द्रस्य यत् वृष्टेः प्रदातृत्वं तत्प्रभूतजलोपेता नद्यः प्रकटयन्तीत्यर्थः । अपि च **द्यावाक्षामा** द्यावापृथिव्यौ । **पृथिवी** इति अन्तरिक्षनाम । अन्तरिक्षं चास्य सूर्यात्मना वर्तमानस्येन्द्रस्य **दर्शतं** सर्वैः प्राणिभिर्दर्शनीयं **वपुः** । रूपनामैतत् । प्रकाशात्मकं रूपं धारयन्ति । किंच हे **इन्द्र** **अस्मे** अस्माकम् **अभिचक्षे** द्रष्टव्यानां पदार्थानामाभिमुख्येन प्रकाशनार्थं **श्रद्धे** **कं** श्रद्धार्थम् । चक्षुषा दृष्टे हि वस्तुनि इदं सत्यमिति श्रद्धोत्पद्यते । कमित्येतत् पादपूरणम् । तदुभयार्थं सूर्याचन्द्रमसौ **वितर्तुरं** परस्परव्यतिहारेण तरणं पुनः पुनर्गमनं यथा भवति तथा **चरतः** । वर्तेते । त्वमेव तद्रूपः सन् वर्तसे इत्यर्थः ॥ अस्य । “ उडिदम्' इति विभक्तेरुदात्तत्वम् । द्यावाक्षामा । द्यौश्च क्षामा च । ' दिवो द्यावा' इति द्यावादेशः । ‘सुपां सुलुक् ' इति विभक्तेः डादेशः । देवताद्वन्द्वे च ' इति उभयपदप्रकृतिस्वरत्वम् । दर्शतम् । भृमृदृशि° ' इत्यादिना अतच् । सूर्याचन्द्रमसा । सूर्यश्च चन्द्रमाश्च । “ देवताद्वन्द्वे च ' इति पूर्वपदस्य आनङादेशः । ‘सुपां सुलुक् ' इति विभक्तेः आकारः । चन्द्रमःशब्दो दासीभारादित्वात् पूर्वपदप्रकृतिस्वरेण मध्योदात्तः । अतो ‘देवताद्वन्द्वे च' इति प्राप्तस्य उभयपदप्रकृतिस्वरस्य ‘नोत्तरपदेऽनुदात्तादावपृथिवी ' इति प्रतिषेधः । अभिचक्षे । चक्षेः प्रकाशनार्थात् संपदादिलक्षणो भावे क्विप् । तादर्थ्ये चतुर्थी । श्रद्धे । दृशिग्रहणात् दधातेर्भावे विच् । चतुर्थ्येकवचने ‘ आतो धातोः' इति आकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । वितर्तुरम् । तरतेर्यङ्लुगन्तात् औणादिकः कुरच्” । बहुलं छन्दसि ' इति उत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -122,36 +122,36 @@ genre M
 Ahi and **Vṛtra** are differently-formed clouds. **Rauhina** = an **asura**, possibly, a red cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His fame do the seven rivers bear; Heaven and Earth, the Broad One,  (bear) his wondrous form, lovely to see.  
 For us to look upon (it), to put our trust in (him), the Sun and Moon  roam, traversing in regular alternation, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase dyā́vākṣā́mā pṛthivī́is striking because pṛthivī́‘earth’ either doubles the less common ‘earth’ word kṣā́mā in the du. dvandva or else serves as the epithet (‘the broad’) it historically was. Indeed because pṛthivī́is grammatically ambiguous (sg. or du.), it could modify both heaven and earth, or it could stand as a second elliptical du. referring to both. The same phrase is found in III.8.8 and, with - bhū́mī rather than kṣā́mā, in X.65.4.
 
 I believe that there is a closer connection between the two halves of the verse than the standard tr. seem to. In my opinion the sun and moon roam alternately in order to provide constant illumination, so that we can see Indra’s “wondrous form lovely to see” (darśatáṃ vápuḥ) and therefore put trust in him, that is, in his existence. Remember that a constant source of worried speculation in the RV is whether Indra exists or not -- a worry that is regularly alleviated by his epiphany on our ritual ground. Here the mere sight of his form will allay our worries and allow us to trust that he exists. Geldner attributes the actions of cd just to the fact that Indra is the creator of sun and moon, while Renou has us looking at the sky.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Seven Rivers bear his glory far and wide, and heaven and sky and earth display his comely form.  
      The Sun and Moon in change alternate run their course, that we, O Indra, may behold and may have faith.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seinen Ruhm tragen die sieben Flüsse; Himmel und Erde, das weite Land tragen seine schöne Erscheinung. Sonne und Mond wandeln abwechselnd, uns zum Sehen und an dich zu Glauben, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel seine schöne Pracht; In stetem Wechsel wandern Sonne hin und Mond, dass wir sie schauen, und, o Indra, dir vertraun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его славу несут семь рек –  
 Небо-и-Земля, земной простор (несут) его прекрасный облик.  

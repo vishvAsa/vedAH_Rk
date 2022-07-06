@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व्रते꣡न स्थो ध्रुव꣡क्षेमा  
 ध꣡र्मणा यातय꣡ज्जना  
 नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 नि । ब॒र्हिषि॑ । स॒द॒त॒म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vratena* ← *vrata*
 - \[noun\], instrumental, singular, neuter
@@ -93,36 +93,36 @@ genre M;; repeated line
 हे मित्रावरुणौ युवां **धर्मणा** जगद्धारकेण **व्रतेन** कर्मणा योगेन **ध्रुवक्षेमा** **स्थः** अविचलितस्थानौ भवथः । **यातयज्जना** । यातयन्तः कर्मसु प्रवर्तयन्तो जना ऋत्विजो ययोस्तौ यातयज्जनौ । अथवा यातयन्तः शत्रून् हिंसन्तो जना भृत्या ययोस्तौ । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Steady are you in your functions, whom men animate by (their) devotion; come and sit down upon the sacred grass to drink the **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By your commandment, you are those two who give peaceful dwellings  that endure, who arrange the peoples according to your foundation.  
 – Sit down upon the ritual grass to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By Ordinance and Law ye dwell in peace secure, bestirring men.  
      Sit on the sacred grass to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch euer Gebot seid ihr Friedenserhalter, von Rechts wegen einet ihr die Völker. Setzet euch beide auf das Barhis zum Somatrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Thron ist fest durch das Gesetz; durch Recht vereint die Menschen ihr; Setzt nieder euch zum Somatrunke auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря завету (богов) вы даете (людям) прочный мир,  
 Благодаря установлению (людей) вы объединяете народы.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ ऊ षु꣡ णो महो꣡ यजत्रा  
 भूत꣡ देवास ऊत꣡ये सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ स्था꣡ निचेता꣡रो अ꣡मूराः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । वाजा॑न् । अन॑यत । वि॒ऽयन्तः॑ । ये । स्थ । नि॒ऽचे॒तारः॑ । अमू॑राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -123,7 +123,7 @@ genre M
 अनयर्षिरङ्गिरस आशास्ते । हे **यजत्राः** यष्टव्याः **देवासः** देवाः **ते** यूयम्। **उ** इति पूरणः । **महः** महते **नः** अस्माकम् **ऊतये** रक्षणाय **सजोषाः** संगताः **भूत** भवत । **ये** च यूयम् अङ्गिरसो मह्यं **वाजान्** अन्नानि **अनयत** प्रापयथ **वियन्तः** सततमुक्थाय विविधं गच्छन्तः सन्तः । **ये** च यूयम् **अमूराः** अमूढाः । षष्ठाहःप्रयोगमौढ्यरहिता इत्यर्थः । तादृशाः **निचेतारः** गवां विविक्तारः **स्थ** भवथ। ते सजोषा भूतेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Adorable divinities: **Aṅgirasas**; being no longer perplexed: i.e., by the sixth day's ceremonials whichNābhānediṣṭha had enabled them to complete
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (...we now beg this:) “O gods worthy of the sacrifice, become joined  together for great help for us,  
 you who, (now) departing, led prizes (here), and who are observers who  are never fooled.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be to us, then, ye Gods who merit worship, be ye of one accord our strong protection,  
      Who went on various ways and brought us vigour, ye who are undeceivable explorers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr verehrungswürdigen Götter, seid ihr uns fein einmütig zu großer Gnade, die ihr im Auseinandergehen die Belohnungen zuführtet, die ihr nie irrende Prüfer seid!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum erweist euch uns nun gross, o ihr ehrwürdigen Götter, zur Hülfe vereint, die ihr Nahrungen herbrachtet, euch vertheilend, die ihr untrügliche Rächer seid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

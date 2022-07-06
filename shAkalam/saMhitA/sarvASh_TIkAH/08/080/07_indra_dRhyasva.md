@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र दृ꣡ह्यस्व पू꣡र् असि  
 भद्रा꣡ त एति निष्कृत꣡   
 इयं꣡ धी꣡र् ऋत्वि꣡यावती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इ॒यम् । धीः । ऋ॒त्विय॑ऽवती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -86,7 +86,7 @@ genre M
 हे **इन्द्र** त्वं **दृह्यस्व** दृढो भव संग्रामे । त्वं **पूरसि** पुरमसि । यथा पुरमविचलितं तद्वत्त्वमसि । अथवा। अस्मदीये यज्ञे दृढो भव । त्वं पुनरन्ययज्ञजिगमिषुर्मा भूः । त्वं पूः पूरकः कामानामसि । किमत्र विद्यत इति चेदुच्यते । **निष्कृतं** निष्कर्तारं **ते** त्वां **भद्रा** कल्याणी **इयं** **धीः** स्तुतिः क्रिया वा **ऋत्वियावती** । ऋतुशब्दः कालोपलक्षकः । स्वकालोपेता सती **एति** गच्छति । यद्वा । ते निष्कृतं स्थानमेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,34 +97,34 @@ genre M
 You are strong as a city: or, be firmly settled (in our sacrifice), youare the fulfiller of desires, **pūRakaḥ** kāmānām asi; the repeller of enemies: niṣkṛtam = niṣkartāram; or,this auspicious sacrifice comes to your appointed (plural ce)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, stand fast. You are a stronghold. The lucky woman goes to a  rendezvous with you—  
 this visionary thought conforming to her season [/the ritual sequence].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A clever image that modulates from b to c. In b a lucky female is going to an assignation with Indra, playing on Indra’s known character as a hyper-virile pursuer of women. But in c this female is identified as a dhī́- a visionary thought (embodied as a poem), a word that is of course feminine. The adj. ṛtvíyāvatī is suitable for both the woman in b (‘conforming to her menstrual cycle’) and the poem in c (‘comforming to the ritual sequence’). This adjective is also found at VIII.12.10 with the same double application (though with dhītí- rather than dhī́-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, be firm: a fort art thou. To thine appointed place proceeds  
      The auspicious hymn in season due.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, bleibe fest; du bist eine Burg! Als Schöne geht diese Dichtung zu deinem Treffort, die rechte Zeit einhaltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei stark, du Indra, eine Burg, zu dir hin eilet dies Gebet, Das regelrechte, glänzende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

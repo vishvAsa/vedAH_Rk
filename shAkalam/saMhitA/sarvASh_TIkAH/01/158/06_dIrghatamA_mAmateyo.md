@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दीर्घ꣡तमा मामतेयो꣡  
 जुजुर्वा꣡न् दशमे꣡ युगे꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ब्रह्मा꣡ भवति सा꣡रथिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । अर्थ॑म् । य॒तीना॑म् । ब्र॒ह्मा । भ॒व॒ति॒ । सार॑थिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dīrghatamā* ← *dīrghatamāḥ* ← *dīrghatamas*
 - \[noun\], nominative, singular, masculine
@@ -93,7 +93,7 @@ genre M
 **दीर्घतमाः** एतन्नामा महर्षिः स च **मामतेयः** ममतायाः पुत्रः **दशमे** **युगे** दशयुगपर्यन्तं महानुभावयोरश्विनोः प्रभावात् पूर्वोक्ताद्दुःखाद्विमुक्तोऽत्यन्तसुखी स्वपुत्रभार्यादिभिः सहितो जीवितवान्। दशमे युगे अतीते सति जुजुर्वान् जीर्णः वलीपलितगात्रो बभूव । एवंभूतः सन् **अर्थं** पुरुषैरर्थ्यमानं कर्मफलं स्वर्गादिकं **यतीनां** प्राप्नुवतीनाम् **अपाम्** अप्कार्याणां प्रजानाम् । यद्वा । अपाम् अपसां कर्मणाम् अर्थं प्रयोजनं यतीनां तासां प्रजानाम् । **ब्रह्मा** ब्रह्मसदृशः परिवृढः **भवति** । किंच **सारथिः** तद्वन्निर्वाहको भवति देवो भवतीत्यर्थः । एवमस्य वृत्तान्तं मन्त्रोऽनुवदति। स्वयं वा स्वात्मानं पारोक्ष्येण अश्विनोर्महानुभावत्वं प्रकटयितुं ब्रवीति ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ Parivṛḍha = the progenitor,or creator of people. apām = apkāryāṇām, of
 Sāratiḥ = lit. a charioteer; i.e. a conveyer, to heaven, a deity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dīrghatamas, the son of Mamatā, though having grown old in the tenth  stage (of life),  
 becomes the chariot-driver of the waters that are moving toward their  goal and the formulator (of the truth).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dirghatamas the son of Mamata hath come to length of days in the tenth age of human kind.  
      He is the Brahman of the waters as they strive to reach their end and aim: their charioteer is he.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dirghatamas, der Mamata Sohn, der Hohepriester wird als Greis im zehnten Lebensalter der Wagenlenker der nach ihrem Ziele strebenden Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dīrghatamas, der Sohn der Mamata, ist gealtert im zehnten Menschenalter; er ist der Brahmane, der die ihrem Ziele zustrebenden Gewässer gelenkt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Диргхатамас, сын Маматы,  
 Старик в десятом периоде жизни,  

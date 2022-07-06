@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चक्रा꣡थे हि꣡ सध्रि꣡अङ् ना꣡म भद्रं꣡  
 सध्रीचीना꣡ वृत्रहणा उत꣡ स्थः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡ष्णः सो꣡मस्य वृषणा꣡ वृषेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तौ । इ॒न्द्रा॒ग्नी॒ इति॑ । स॒ध्र्य॑ञ्चा । नि॒ऽसद्य॑ । वृष्णः॑ । सोम॑स्य । वृ॒ष॒णा॒ । आ । वृ॒षे॒था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cakrāthe* ← *kṛ*
 - \[verb\], dual, Perfect indicative
@@ -131,20 +131,20 @@ genre M
 हे **इन्द्राग्नी** **भद्रं** कल्याणं **नाम** स्वकीयं नामधेयं 'सध्र्यक् सहगतमिन्द्राग्नी इत्येवं संयुक्तं **चक्राथे** युवां कृतवन्तौ । **उत** अपि च हे **वृत्रहणौ** वृत्रस्यासुरस्य हन्ताराविन्द्राग्नी **सध्रीचीना** सहाञ्चन्तौ वृत्रवधार्थं संगतौ **स्थः** भवथः । **हि** यस्मादेवं तस्मात् हे **वृषणा** कामानां वर्षिताराविन्द्राग्नी **तौ** युवां सध्र्यञ्चौ सहितावेव सन्तौ **निषद्य** वेद्यामुपविश्य **वृष्णः** सेक्तुः **सोमस्य** आत्मीयं भागम् **आ** **वृषेथां** स्वकीये उदरे आसिञ्चेथाम् ॥ सध्र्यक् । सहशब्दोपपदादञ्चतेः ‘ऋत्विक्' इत्यादिना क्विन् । 'अनिदिताम्' इति नलोपः। ‘सहस्य सध्रिः ।  ‘ अद्रिसध्र्योरन्तोदात्तनिपातनं कृत्स्वरनिवृत्त्यर्थम् ' ( पा. सू. ६. ३. ९५. १ ) इति वचनात् सध्र्यादेशोऽन्तोदात्तः । यणादेशे ‘उदात्तस्वरितयोर्यणः' इति स्वरितत्वम् । सध्रीचीना। विभाषाञ्चेरदिक्स्त्रियाम्' इति स्वाथै खः ।  ‘ सुपां सुलुक्' इति विभक्तेः आजादेशः । वृत्रहणौ । संहितायाम् आवादेशे  ‘ लोपः शाकल्यस्य ' इति वलोपः । वृषेथाम् । वृष सेचने'। व्यत्ययेन शः आत्मनेपदं च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have made your associated names renowned, since, slayers of **Vṛtra**, you have been allied (for his death); the showerers of benefits, **Indra** and **Agni**, are the two seated together (on the altar); receive (your portion) of the **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you two made your own joint name auspicious, and you two, o  Vr̥tra-smashers, are conjoined.  
 O Indra and Agni, you bulls, having sat down jointly, drench yourselves  in the bullish soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The signature word of this vs. is sadhryàñc- / sadhrīcīná- ‘joint(ly), conjoined’, which occurs prominently in the first three pādas. The final pāda is dense with phonological and etymological play: vṛ́ṣṇaḥ … vṛṣaṇā́vṛṣethām.
 
@@ -162,23 +162,23 @@ As noted in the published introduction, vs. 3 attributes Indra’s characteristi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For ye have won a blessed name together: yea, with one aim ye strove, O Vrtra-slayers.  
      So Indra-Agni, seated here together, pour in, ye Mighty Ones, the mighty Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr habt euch vereint einen guten Namen gemacht und ihr seid vereint die Vritratöter. Laßt euch vereint nieder, Indra und Agni; ihr Bullen, schüttet in euch vom bullenstarken Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt vereint ja eure hehren Namen und seid vereinigt, o ihr Vritratödter, Drum setzt vereint euch nieder, Indra-Agni, und schlürft, o Stiere, ein den Stier, den Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь с одной целью мы создали себе счастливое имя,  
 С одной целью вы стали оба убийцами Вритры.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षो अग्निः꣡ स꣡म् इध्यते  
 अ꣡श्वो न꣡ देववा꣡हनः  
 तं꣡ हवि꣡ष्मन्त ईळते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 तम् । ह॒विष्म॑न्तः । ई॒ळ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣo* ← *vṛṣaḥ* ← *vṛṣa*
 - \[noun\], nominative, singular, masculine
@@ -90,41 +90,41 @@ genre M
 संभृतहविष्का यजमानाः **ईळते** कर्मसिद्ध्यर्थं स्तुवन्ति ॥ वृषा उ। गुणः । उञमवलम्ब्य प्रगृह्यसंज्ञा । देववाहनः । वह प्रापणे ' इत्यस्माण्ण्यन्तात्कर्तरि ल्युः । लित्स्वरः । समासे कृदुत्तरपदस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The offerers of oblations glorify that **Agni** who is the showerer (of benefits) and is the bearer of the offerings to the gods as a horse (bears his rider to his home).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull Agni is kindled, conveying the gods like a horse.  
 Bearing offerings, they summon him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is kindled as a bull, like a horsebearer of the Gods:  
      Men with oblations worship him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the manly, is kindled, he who draws hither the gods like a horse. The (worshippers) rich in offerings magnify him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle Agni wird entzündet, der wie ein Roß die Götter fährt. Ihn berufen sie mit den Opfergaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, der Stier, wird hell entflammt, gleich wie ein Ross, das Götter fährt, Ihn ehren wir mit Opfertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык-Агни воспламеняется,  
 (Он,) словно конь, везущий богов.  

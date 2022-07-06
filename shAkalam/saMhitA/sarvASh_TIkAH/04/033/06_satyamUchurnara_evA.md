@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्य꣡म् ऊचुर् न꣡र एवा꣡ हि꣡ चक्रु꣡र्  
 अ꣡नु स्वधा꣡म् ऋभ꣡वो जग्मुर् एता꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वेनत् त्व꣡ष्टा चतु꣡रो ददृश्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒ऽभ्राज॑मानान् । च॒म॒सान् । अहा॑ऽइव । अवे॑नत् । त्वष्टा॑ । च॒तुरः॑ । द॒दृ॒श्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
@@ -133,37 +133,37 @@ genre M
 **नरः** मनुष्यरूपा ऋभवः **सत्यमूचुः** सत्यमेवाब्रुवन् । **हि** यस्मादेते **एव** एवं **चक्रुः** चतुरोऽकुर्वन् । यथोक्तं तथैव कृतत्वात् इत्यभिप्रायः । **अनु** चतुर्धाकरणानन्तरम् **एतां** तृतीयसवनगतां **स्वधां** सोमाख्यममृतम् **ऋभवो** **जग्मुः** । ‘एकं चमसं चतुरस्कृणोतन, साकं देवैर्यज्ञियासो भविष्यथ' (ऋ. सं. १.१६१. २) इति श्रुतत्वात् । अथ **त्वष्टा** देवः **विभ्राजमानान्** **अहेव** अहानीव दीप्यमानान् **चमसान्** **चतुरो** **ददृश्वान्** दृष्टवान् सन् **अवेनत्** अकामयत॥ अङ्गीचकारेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The men, (the **Ṛbhus**), spoke the truth, for such (ladles) they made, and thereupon the Ṛbhus partook of that libation; **Tvaṣṭā**, beholding the four ladles, brilliant as day, was content.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The noble men spoke the truth, for they did exactly that. According to  their will, the R̥bhus followed that (will of theirs).  
 Having seen the four cups, Tvaṣṭar gazed at them, bright shining  
 like days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men spake truth and even so they acted: this Godlike way of theirs the Rbhus followed.  
      And Tvastar, when he looked on the four beakers resplendent as the day, was moved with envy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Männer hatten wahr gesprochen, denn sie taten also; sie gingen diesen ihren eigenen Weg. Tvastri machte Augen, als er die vier Becher erblickte, die wie die neuen Tage erglänzten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer sprachen wahr, denn so geschah's auch, die Ribhu's führten diesen ihren Plan aus; Doch Tvaschtar, als er sah der Becher viere wie Tageslicht erglänzen, wurde neidisch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Правду сказали мужи, ведь они так и сделали.  
 Рибху последовали этой своей природе.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिश꣡ङ्गभृष्टिम् अम्भृण꣡म्  
 पिशा꣡चिम् इन्द्र स꣡म् मृण  
 स꣡र्वं र꣡क्षो नि꣡ बर्हय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 सर्व॑म् । रक्षः॑ । नि । ब॒र्ह॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *piśaṅgabhṛṣṭim* ← *piśaṅga*
 - \[noun\]
@@ -85,7 +85,7 @@ popular
 दशरात्रस्य षष्ठेऽहनि प्रउगशस्त्रे ऐन्द्रतृचस्य ‘अवर्मह इन्द्र' इत्यादिके प्रथमाद्वितीये । **षष्ठस्य'** इति खण्डे सूत्रितम्- अवर्मह इन्द्र वृषन्निन्द्र' ( आश्व. श्रौ. ८. १ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,36 +96,36 @@ popular
 **Piśācī** = decay
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pulverize the tawny-spiked, ballsy Piśāci entirely, Indra.  
 Tear down every demon.304 I.134
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This last verse of the colloquially bloodthirsty first hymn of the composite pulls out all the stops with striking interlocking phonetic figures in ab: #piśaṅga ...
 
 \#piśā́cim ... and (piśáṅg)abhrṣṭ̥ im ambhr̥ṇám# ... (s)ám mr̥ṇa# The latter sequence helps explain why we have another impossible hapax: ambhṛṇá-; as often, difficult words appear in contexts that play on their phonological shape. Again, wisdom would suggest leaving it untr. or at least tr. with a vague contextually generated term like ‘monstrous’, but I have had the temerity to suggest another very shaky etymology. I suggest that this is a colloquial deriv. of the lexeme ánu √bhṛ, a euphemistic idiom that refers to sexual assault and penetration -- e.g., in the cosmic incest myth (X.61.5). See comm. ad I.88.6 and Jamison 1981 (“A Vedic sexual pun: ástobhayat, anubhartrī, and RV I.88.6,” Acta Orientalia 42 [1981] 55- 63). The initial am would represent an apocopated form of the preverb ánu, a change that fits the register in the rest of the hymn. My ‘ballsy’ is an attempt to capture the slangy irreverence. Since Piśācas are later associated with sexual misconduct towards women -- at least on the basis of the Paiśāca “marriage” (e.g., MDŚ III.34), which involves taking advantage of a maiden who is asleep, intoxicated, or disordered -- a sexual interpr. of the adjective qualifying the Piśāci here would be entirely fitting. The same idiom, with an even more MIA cast, may be found in AirĀr ambhaṇa- ‘Bauch der Laute’ (belly of the lute); as discussed in my 1981 paper, the vīnā bears some resemblance to male genitalia and jokes about its shape are still current in South Asia.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, crush and bray to bits the fearful fiery-weaponed fiend:  
      Strike every demon to the ground.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den rotzackigen, ungeheuerlichen Pisaci zermalme, Indra, jeden Dunkelgeist strecke nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den mit feurigen Spitzen besetzten nebelhaften Piçātschi, o Indra, vernichte, das ganze Gespenstergeschlecht strecke nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, раздави пишачи  
 С красноватыми зубцами, очень страшного (?)!  

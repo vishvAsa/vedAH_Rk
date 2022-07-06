@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र स्प꣡ळ् उत꣡ वृत्रहा꣡  
 परस्पा꣡ नो व꣡रेणियः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡ पश्चा꣡त् पातु नः पुरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । र॒क्षि॒ष॒त् । च॒र॒मम् । सः । म॒ध्य॒मम् । सः । प॒श्चात् । पा॒तु॒ । नः॒ । पु॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -120,40 +120,40 @@ genre M
 अयम् **इन्द्रः** **स्पट्** सर्वस्य ज्ञाता । स्पशतिर्ज्ञानकर्मा । **उत** अयं **वृत्रहा** वृत्रहन्ता **परस्पाः** परपालयिता **नः** अस्माकं **वरेण्यः** वरणीयः । **सः** इन्द्रः **नः** अस्माकम् । पुत्रमिति शेषः । **रक्षिषत्** रक्षतु । **चरमं** पुत्रं तथा स रक्षिषत् । **सः** **मध्यमं** पुत्रं रक्षिषत् । **सः** **नः** अस्मान् **पश्चात्** रक्षिषत् । **नः** **पुरः** पुरस्तात् रक्षिषत् ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the all-knower, the slayer of **Vṛtra**, the protector, is to be chosen by us; may he guard our (son),our last (son), our middle (son), may he protect us from behind and before.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, spy and Vr̥tra-smasher, protector from afar, is worth our choosing. He will guard the last one of us and the midmost. Let him protect us  from behind and from in front.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sandhi form índra that opens pāda a can be either vocative or nominative. Because of the 3rd ps. verbs of cd, I take it as nominative.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra is Vrtra-slayer, guard, our best defender from the foe.  
      May he preserve our last and middlemost, and keep watch from behind us and before.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra ist Späher, und der Vritratöter ist unser vorzüglichster Schütze aus der Ferne. Er schütze den Letzten von uns, er den Mittleren. Er schütze uns hinten und vorn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist's, der späht und Feinde schlägt, und Indra, der uns herrlich schirmt; Er schütze unsern letzten, unsern mittelsten, behüte hinten uns und vorn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра разведчик и убийца Вритры,  
 Он наш избранный защитник.  

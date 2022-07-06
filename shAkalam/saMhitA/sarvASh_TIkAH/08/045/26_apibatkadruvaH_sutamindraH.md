@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पिबत् कद्रु꣡वः सुत꣡म्  
 इ꣡न्द्रः सह꣡स्रबाहुवे  
 अ꣡त्रादेदिष्ट पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्र॑ । अ॒दे॒दि॒ष्ट॒ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apibat* ← *pā*
 - \[verb\], singular, Imperfect
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्रः** **कद्रुवः** कद्रुनामकस्यर्षेः संबन्धिनं **सुतम्** अभिषुतं सोमम् **अपिबत्** पीतवान् । **सहस्रबाह्वे** सहस्रबाहोः शत्रूंश्चाहन्निति शेषः । **अत्र** अस्मिन्नवसरे **पौंस्यम्** इन्द्रस्य वीर्यम् **अदेदिष्ट** अदीप्यत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Sahasrabāhve = battle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra drank the pressed (soma) of Kadrū for that which possesses a  thousand-arms [=battle?].  
 Then he displayed his own masculine power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann takes sahásrabāhve (with distraction, -bāhuve) as belonging to a ustem and as a poetic synonym for ‘battle’. I find this suggestion quite attractive, though this type of kenning is somewhat unusual for the RV. Geldner and Oldenberg (see also EWA s.v. bāhú-; Mayrhofer PN) take it as a thematized -bāhva- in the locative as a PN (Geldner: “bei Sahasrabāhva”). Though Grassmann’s interpretation gives the richer semantics, the problem is of course that the dative sg. should be -bāhave, not -bāh u ve. AiG III.139 also identifies it as a thematic locative, but allows a lexical meaning “in der tausendarmigen Schlacht,” flg. Sommer). I still think it may be a dative, with the alternative -ve ending (e.g., páśve beside paśáve), but a locative with lexical value is also possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battle of a thousand arms Indra drank Kadru's Soma juice:  
      There he displayed his manly might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra trank der Kadru Saft bei Sahasrabahva. Da offenbarte er seine Mannesstärke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es trank den Soma aus dem Fass Indra zur tausendarm'gen Schlacht, Da wies er seine Manneskraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он выпил выжатого (сому) из коричневого сосуда,  
 Индра при тысячерукой (битве).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ आ꣡ वहतं रयिं꣡  
 शत꣡वन्तं सहस्रि꣡णम्  
 पुरुक्षुं꣡ विश्व꣡धायसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒रु॒ऽक्षुम् । वि॒श्वऽधा॑यसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], dative, plural
@@ -75,7 +75,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अश्विनौ **अस्मे** अस्मभ्यं **रयिं** धनं **आ** **वहतम्** आनयतम् । कथंभूतम् । **शतवन्तं** शतसंख्योपेतं **सहस्रिणं** सहस्रसंख्योपेतं च **पुरुक्षुं** बहुनिवासं यद्वा पुरुभिर्बहुभिः स्तुत्यं **विश्वधायसं** विश्वेषां सर्वेषामस्मदीयानां धारकम् ।' वहिहाधाम्भ्यश्छन्दसि' इति दधातेरसुन्। णित्' इत्यनुवृत्तेर्णिद्वद्भावेन युगागमः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,29 +86,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Desired by many:to be praised by many, bahubhiḥ; or, giving a home to many, bahunivāsam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us wealth in hundreds and thousands,  
 consisting of much livestock, nourishing all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring riches hither unto us in hundreds and in thousands, source  
      Of plenteous food, sustaining all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet uns hundertzählenden, tausendfachen Reichtum an vielem Vieh, der alle sättigt, mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns fahret reiches Gut herbei, das hundertfach und tausendfach, Viel Speise hegt und alles nährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нам привезите богатство  
 Сотенное, тысячное,  

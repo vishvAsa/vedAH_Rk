@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्ये꣡द् अ꣡र्वन्तो रंहयन्त आश꣡वस्  
 त꣡स्य द्युम्नि꣡तमं य꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 न꣡ म꣡र्तियकृतं नशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । तम् । अंहः॑ । दे॒वऽकृ॑तम् । कुतः॑ । च॒न । न । मर्त्य॑ऽकृतम् । न॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasyed* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
@@ -132,36 +132,36 @@ genre M
 यः पूर्वोक्तः **तस्येत्** तस्यैव **आशवः** व्यापनशीलाः **अर्वन्तः** अश्वाः **रंहयन्ते** वेगं कुर्वन्ति । शत्रून् प्रसहन्त इत्यर्थः। **द्युम्नितमं** दीप्तिमत्तमं **यशः** कीर्तिश्च **तस्य** एव भवति । यद्वा । द्युम्नमिति धननाम । धनवत्तमं यशोऽन्नं च तस्य भवति । अपि च **देवकृतम्** देवैः कृतम् **अंहः** पापं **कुतश्चन** कस्मादपि हेतोः **तं** **न** **नशत्** न प्राप्नोति । **न** **मर्त्यकृतं** मनुष्यैः कृतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Of him assuredly the rapid horses rush (on the foe); his is most brilliant glory; him no evil, whether thework of gods or of men, ever assails.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is his steeds that speed swiftly, his glory that is most brilliant,  
 and no anxiety, whether god-made or mortal-made, will reach him from  anywhere.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Verily swift to run are his fleet-footed steeds, and most resplendent fame is his.  
      No trouble caused by Gods or wrought by mortal man from any side o'ertaketh him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Rennpferde laufen schnell, ihm wird glänzender Ruhm zuteil. Ihn wird nicht von irgendwoher von Gott oder von Menschen verursachte Not heimsuchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem eilen seine muntern Renner rasch voran, dem wird der schönste Glanz zu Theil, Den trifft von keiner Seite Noth, von Göttern nicht, noch auch von Sterblichen bewirkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У него быстро бегут скаковые кони,  
 У него самая сверкающая слава;  

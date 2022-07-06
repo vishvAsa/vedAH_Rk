@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व द्रप्सो꣡ अंशुम꣡तीम् अतिष्ठद्  
 इयानः꣡ कृष्णो꣡ दश꣡भिः सह꣡स्रैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प स्ने꣡हितीर् नृम꣡णा अधत्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आव॑त् । तम् । इन्द्रः॑ । शच्या॑ । धम॑न्तम् । अप॑ । स्नेहि॑तीः । नृ॒ऽमनाः॑ । अ॒ध॒त्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -160,14 +160,14 @@ genre M
 तस्यानुचरान् हत्वा तं द्रुतं गच्छन्तम् असुरं **अपाधत्त** हतवान् ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The swift-moving **Kṛṣṇa** with ten thousand (demons) stood on the **Aṃśumatī**; by his might Indracaught him snorting (in the water); he, benevolent to man, smote his malicious (bands).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Droplet descended into the Aṃśumatī (River),  
 the black one speeding with the ten thousand.  
@@ -175,7 +175,7 @@ Indra with his skill helped him as he blew.
 The manly minded one repelled the “blizzards” (of attacking warriors?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ca in c is one of the rare examples of subordinating ca in the RV, as shown by the accent induced on the verb vavártat; see Klein DGRV I.240-41. Its position, about which Klein does not comment, is peculiar, but it can probably be accounted for metrically. In this particular Atijagatī line (13 syl.), there is a natural break after the first two words (5 syllables), máṃhiṣṭho gīrbhír, and the rest of the line behaves as if it were a dimeter (8-syl.) line, ā́ca yajñíyo vavártat, with initial preverb followed by the enclitic conjunction.
 
@@ -195,7 +195,7 @@ I am inclined to see it as a treatment of the ritual step of rinsing the soma in
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Black Drop sank in Amsumati's bosom,  
 advancing with ten thousand round about it.  
@@ -203,17 +203,17 @@ Indra with might longed for it as it panted:
 the hero-hearted laid aside his weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drapsa stieg in die Amsumati hinab, Krishna ist im Anzug mit zehntausend Kriegern. Ihm stand Indra bei, dem mit aller Kraft Blasenden. Der Mannhafte wendete die Heerhaufen ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fiel der Tropfen in die Somaströmung, der dunkle, eilend mit zehntausend andern; Der kräftig gor, genossen hat ihn Indra, der männlich kühne trieb hinweg die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡ उ त्वा वि꣡ चक्षते  
 स꣡खाय इन्द्र सोमि꣡नः  
 पुष्टा꣡वन्तो य꣡था पशु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ष्टऽव॑न्तः । यथा॑ । प॒शुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -83,35 +83,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वा** त्वां **सोमिनः** अभिषुतसोमाः **सखायः** **इम** **उ** इम एव खल्वस्मदीया जनाः **पुष्टावन्तः** संभृतघासाः **यथा** **पशुं** पशुमिव **वि** **चक्षते** विपश्यन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These friends, effusing the **Soma**, look on you, **Indra**, as men with their fodder ready (look) on theircattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These comrades here, possessing the soma, watch out for you, Indra, as those who have flourishing (cattle) watch out for their livestock.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, these friends of ours, supplied with Soma, wait and look to thee,  
      As men with fodder to the herd.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese somafeiernden Freunde schauen nach dir, Indra, aus, wie die Viehzüchter nach ihrem Vieh.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf dich, o Indra, blicken hier die Freunde, Soma bringend, aus, Wie auf das Vieh die mästenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти друзья, приготовившие сому,  
 О Индра, выискивают тебя,  

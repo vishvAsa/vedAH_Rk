@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वो न꣡ चक्रदो वृ꣡षा  
 सं꣡ गा꣡ इन्दो स꣡म् अ꣡र्वतः  
 वि꣡ नो राये꣡ दु꣡रो वृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वि । नः॒ । रा॒ये । दुरः॑ । वृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
@@ -98,20 +98,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्दो** सोम **वृषा** त्वम् **अश्वो** **न** अश्व इव **सं** **चक्रदः** संक्रन्दसे । अपि च **गाः** पशून् **अर्वतः** अश्वांश्चास्मभ्यं **सं** प्रयच्छसीति शेषः। किंच **नः** अस्माकं **राये** धनाय **दुरः** द्वाराणि **वि** **वृधि** विवृतानि कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, the sprinkler, you nigh like a horse; you give us cattle, you give us horses; open the doors for our wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, the bull, whinny like a horse. Sur(round) the cows, sur(round) the  steeds, o drop;  
 open up the doors for wealth for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, the bull theme gets suddenly muted in this vs.; in compensation, as it were, other animals are introduced: a horse (a), cows and steeds (b).
 
@@ -129,23 +129,23 @@ As noted in the published introduction, this opening tṛca is marked by the ide
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indu, as a vigorous horse, hast neighed together steeds and kine:  
      Unbar for us the doors to wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Roß wiehernd sollst du, der Bulle, uns Rinder und Rennpferde zusammen-brüllen, brausen, o Saft. Öffne uns die Tore zum Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O wiehere gleich wie ein Hengst uns Ross' und Rinder, Indu, her, Des Reichthums Thore öffne uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

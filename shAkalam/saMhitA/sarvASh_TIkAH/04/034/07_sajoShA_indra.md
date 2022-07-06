@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजो꣡षा इन्द्र व꣡रुणेन सो꣡मं  
 सजो꣡षाः पाहि गिर्वणो मरु꣡द्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग्ना꣡स्प꣡त्नीभी रत्नधा꣡भिः सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्रे॒ऽपाभिः॑ । ऋ॒तु॒ऽपाभिः॑ । स॒ऽजोषाः॑ । ग्नाःपत्नी॑भिः । र॒त्न॒ऽधाभिः॑ । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे **इन्द्र** त्वं **वरुणेन** रात्र्याभिमानिदेवेन **सजोषाः** समानप्रीतिः सन् **सोमं** **पाहि** पिब । हे **गिर्वणः** गीर्भिर्वननीय संभजनीयेन्द्र त्वं **मरुद्भिः** **सजोषाः** संगतः सन् सोमं **पाहि** पिब ॥ किंच **अग्रेपाभिः** प्रथमपातृभिः **ऋतुपाभिः** ऋतुयाजदेवैश्च **ग्नाः** पत्नीभिः । स्त्रीणां पालयित्र्यो देव्यो ग्नाः पत्न्यः । ताभिः ।  ‘ मेना ग्ना इति स्त्रीणाम् ' ( निरु. ३. २१ ) इति निरुक्तम् । **रत्नधाभिः** रमणीयधनदातृभिर्ऋभुभिः सह पिब । यद्वा । एतत् ग्नाः पत्नीभिरित्यस्य विशेषणम् । ताभिर्वा **सजोषाः** सोमं पिब ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ Sympathizing: sajoṣaḥ; sajoṣa indra varuṇena **somam** pāhi = liṭ, In
 Ṛtus: ṛtupābhiḥ = ṛtuyajadevaiḥ, the deities to whom the ṛtu sacrifice is dedicated; wives of the gods: gnāspatnībhiḥ = wives of the gods, strīṇām pālayitryaḥ, the feminine le protectors of women, implying the goddesses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with Varuṇa, o Indra, (drink) the soma. Together with the  Maruts, drink the soma, o you longing for the songs.  
 With those drinking first, with those drinking in ritual sequence, (drink)  together; with the Wives (of the Gods) conferring treasure, (drink)  
 together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Close knit with Varuna drink the Soma, Indra; close-knit, ilymn-lover! with the Maruts drink it:  
      Close-knit with drinkers first, who drink in season; close-knit with heavenly Dames who give us treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Trink einträchtig mit Varuna den Soma, einträchtig mit den Marut, du Lobbegehrender, einträchtig mit den zuerst trinkenden, zu ihrer Zeit trinkenden Ribhu´s, einträchtig mit den Belohnung bringenden Göttinnnen-Gemahlinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Varuna vereinigt trink, o Indra, den Soma, Freund der Lieder, mit den Marut's, Vereint den ersten und den spätern Trinkern, den Götterweibern, welche Schätze schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Единодушный с Варуной, о Индра, (пей) сому!  
 Единодушный с Марутами пей, о любящий хвалебные песни!  

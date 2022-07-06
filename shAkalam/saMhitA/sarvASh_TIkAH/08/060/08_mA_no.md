@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो म꣡र्ताय रिप꣡वे रक्षस्वि꣡ने  
 मा꣡घ꣡शंसाय रीरधः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शिवे꣡भिः पाहि पायु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अस्रे॑धत्ऽभिः । त॒रणि॑ऽभिः । य॒वि॒ष्ठ्य॒ । शि॒वेभिः॑ । पा॒हि॒ । पा॒युऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -105,36 +105,36 @@ genre M
 **नः** अस्मान् **मर्ताय** मरणधर्माय **रिपवे** शत्रवे हिंसित्रे **रक्षस्विने** बलवते **मा** **रीरधः** वशमानय । तथा **अघशंसाय** पापशंसकाय **मा** रीरधः । हे **यविष्ठ्य** युवतम **अस्रेधद्भिः** अहिंसकैः **तरणिभिः** तारकैः **शिवेभिः** सुखकरैः **पायुभिः** पालनैः नोऽस्मान् **पाहि** रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Subject us not to a strong mortal enemy, nor to the malevolent; O most youthful, guard us with yourunharming delivering auspicious protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not make us subject to a mortal who is a cheat possessed of  demonic power, nor to one who utters evil.  
 O youngest one, protect us with your protectors that are unfailing,  overwhelming, but kindly.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us not as a prey to mortal enemy, nor to the wicked friend of fiends.  
      With conquering guards, auspicious, unassailable, protect us, O Most Youthful God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns nicht dem betrügerischen, tückischen Sterblichen, nicht dem Übelredenden in die Hand! Schütze uns, du Jüngster, mit deinen nie fehlenden, durchhelfenden, freundlichen Schützern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht gib uns preis dem Menschen, der uns feindlich ist, noch unheilvollem Zauberer, Mit raschen Hütern, die uns heilsam, freundlich sind, beschütze du, o jüngster, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не отдай нас во власть ни обманчивому  
 Коварному смертному, ни тому, кто говорит злое!  

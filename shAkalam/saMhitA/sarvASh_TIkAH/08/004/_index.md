@@ -8,7 +8,7 @@ title = "+004"
 ‘यदिन्द्र' इत्येकविंशत्यृचं चतुर्थं सूक्तं काण्वगोत्रस्य देवातिथेरार्षम् । वृक्षाश्चिन्मे' इत्येषा पुरउष्णिक् शिष्टास्त्वयुजो बृहत्यो युजः सतोबृहत्यः । ‘ स्थूरं राधः' इत्यादिभिस्तिसृभिः कुरुङ्गदानस्य स्तूयमानत्वात्तास्तद्देवताकाः । तत्पूर्वाः पञ्चदश्याद्याश्चतस्रः पूषदेवताका इन्द्रदेवताका वा शिष्टा ऐन्द्र्यः । तथा चानुक्रान्तं-- यदिन्द्र सैका देवातिथिस्तृचोऽन्त्यः पुरउष्णिगन्तः कुरुङ्गस्य दानस्तुतिस्तत्पूर्वाश्चतस्रः पौष्ण्यो वा' इति । महाव्रते निष्केवल्ये बार्हततृचाशीतावाद्याश्चतुर्दशर्चः शंसनीयाः । तथैव पञ्चमारण्यके---’ यदिन्द्र प्रागपागुदगिति चतुर्दश' (ऐ. आ. ५. २. ४ ) इति । चातुर्विंशिकेऽहनि माध्यंदिने सवनेऽच्छावाकशस्त्र आद्यः प्रगाथो वैकल्पिकः स्तोत्रियः । सूत्र्यते हि -- ’ यदिन्द्र प्रागपागुदग्यथा गौरो अपा कृतम्' (आश्व. श्रौ. ७. ४) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 4 (624)  
 Indra (1–14), Indra or Pūsan (15–18), Kurun ̣ ̇ga’s  Dānastuti (19–21)  
@@ -22,7 +22,7 @@ rection: descriptions of pious men who benefit from Indra.
 The Pūṣan section (though the Anukramaṇī offers a choice of Indra or Pūṣan  as the deity, it is clearly Pūṣan) makes the requests for gifts overt, and it serves as a  transition to the dānastuti proper. The penultimate verse of the Pūṣan section (17)  in fact seems to refer to a different Kaṇva poet, Pajra Sāman (see VIII.6.47), who  has his own gifts to praise—as our poet turns to his own in verse 18, apparently  sequestering his share of the cattle in a different pasture. The dānastuti (vss. 19–21)  is fairly straightforward in its first two verses, but the final verse (21) is entirely  opaque, at least to these translators.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

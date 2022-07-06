@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ सो꣡ अस्मि यः꣡ पुरा꣡  
 सुते꣡ व꣡दामि का꣡नि चित्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 तम् । मा॒ । व्य॒न्ति॒ । आ॒ऽध्यः॑ । वृकः॑ । न । तृ॒ष्णऽज॑म् । मृ॒गम् । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -130,42 +130,42 @@ genre M;; repeated line
 हे देवाः **पुरा** पूर्वस्मिन् काले **सुते** युष्मद्यागार्थं सोमेऽभिषुते **कानि** **चित्** कतिपयानि स्तोत्राणि **यः** **अहं** **वदामि** उक्तवानस्मि **सः** एवाहम् **अस्मि** न तु अन्यः कश्चित् । तस्मात् किमर्थं मां परित्यजथ । **तं** तादृशं माम् **आध्यः** अभिलषितपुत्राद्यप्राप्त्या जनिता मानस्यो व्यथाः **व्यन्ति** भक्षयन्ति । तत्र दृष्टान्तः । **तृष्णजं** जाततृष्णं पिपासन्तम् उदकं प्रति गच्छन्तं **मृगं** **वृको** **न** यथा अरण्यश्वा मध्येमार्गं भक्षयति तद्वत् । अन्यत् पूर्ववत् ॥ व्यन्ति । वी गत्यादिषु । अदादित्वात् शपो लुक् ।' तन्वादीनां छन्दसि बहुलमुपसंख्यानम्' इति बहुलवचनात् यण् । आध्यः । आधीयते मनसि स्थाप्यते इति आधिः । ' उपसर्गे घोः किः ' ( पा. सू. ३. ३. ९२ )। ‘ आतो लोप इटि च' इत्याकारलोपः । ‘ जसादिषु च्छन्दसि वावचनम्' इति ' जसि च ' इति गुणस्य विकल्पनात् अभावे यणादेशः । तृष्णजम् । 'तृष पिपासायाम्'। 'स्वपितृषोर्नजिङ' ( पा. सू. ३. २. १७२ ) इति नजिङ् । पदकारस्त्वेवं मन्यते-- अन्येष्वपि दृश्यते' इनि दृशिग्रहणस्य सर्वोपाधिव्यभिचारार्थत्वात् केवलादपि जनेर्डप्रत्ययः । तृष्णा जाता यस्य । 'ङ्यापोः संज्ञाच्छन्दसोर्बहुलम् ' इति ह्रस्वत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “I am he, Gods, who formerly recited (your praise) when the libation was poured out; yet sorrows assail me, like a wolf (that falls upon) a thirsty deer. Heaven and earth, be conscious of this (my affliction).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am one who used (always) to speak some (speeches) at the pressing. But cares (now) pursue this same me, like a wolf a thirsting wild beast. – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the force of purā́+ PRES as past progressive / habitual: “was always speaking, used to speak.” Since the verse contrasts the previous behavior of the speaker (a good ritualist, a hard-working poet) with his current mentally unhinged state, I take tám mā as “this (same) me” -- -- identifying the new careworn me with the old unfazed me. However, the nearly rhyming 8a (see below) may have had something to do with the tám here.
 
 Note that ādhíyaḥ occupies the same metrical position as dūḍhíyaḥ in 6d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I am the man who sang of old full many a laud when Soma flowed.  
      Yet torturing cares consume me as the wolf assails the thirsty deer. Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin noch derselbe, der früher bei Soma dies und jenes redete. Nun verfolgen mich die Sorgen wie ein Wolf das durstige Wild. - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin derselbe, der auch sonst beim Soma spricht gar manchen Spruch, Jetzt dringen Sorgen auf mich ein, wie Wölfe auf ein dürstend Wild. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я – тот самый, кто раньше  
 Произносил нечто над выжатым (сомой).  

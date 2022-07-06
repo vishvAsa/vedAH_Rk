@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो मही꣡म् अर꣡मतिं सजो꣡षा  
 ग्नां᳐꣡ देवीं꣡ न꣡मसा रात꣡हव्याम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ग्ने वह पथि꣡भिर् देवया꣡नैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मधोः॑ । मदा॑य । बृ॒ह॒तीम् । ऋ॒त॒ऽज्ञाम् । आ । अ॒ग्ने॒ । व॒ह॒ । प॒थिऽभिः॑ । दे॒व॒ऽयानैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 अत्राग्निं संबोध्य ग्नादेवताया आवाह्यत्वादस्याग्निर्ग्ना वा देवता । हे **अग्ने** **सजोषाः** अस्माभिः सह प्रीयमाणस्त्वं **ग्नां** **देवीं** सर्वैर्गन्तव्यामेतन्नामिकां देवताम् । 'मेना ग्ना इति स्त्रीणाम् ( निरु. ३. २१ ) इति यास्कः । **नः** अस्मदर्थं **देवयानैः** देवैर्गन्तव्यैः **पथिभिः** मार्गैः **आ** अभिमुखम् **आ** **वह** । कीदृशीम् । **महीं** महतीम् **अरमतिम्** आ समन्ताद्रममाणां सर्वत्र गन्त्रीं वा **नमसा** स्तोत्रेण सह **रातहव्याम्** । रातं दत्तं दानाय संकल्पितं हव्यं यस्यास्ताम् । दत्तहविष्कामित्यर्थः । किमर्थम् । **मधोः** मधुरस्य सोमस्य **मदाय** । पुनः कीदृशीम् । **बृहतीं** प्रवृद्धाम् **ऋतज्ञां** यज्ञमभिजानतीम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ genre M
 Gnā = **strī**, a woman, a wife; commonly expresses the wife of a deity; here, it is a proper name, gnām = etannāmikām devatām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hither to us, in agreement (with her), (bring) great Devotion [/Aramati],  lady goddess, on whom the oblation is bestowed with reverence,  
 the lofty knower of truth—for the exhilarating drink of honey, bring  her hither, Agni, along the paths the gods travel.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring by God-traversed paths, accordant, Agni, the great Aramati, Celestial Lady,  
      Exalted, worshipped with our gifts and homage, who knoweth holy Law, to drink sweet Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring, damit einverstanden, uns die hohe Aramati her, die göttliche Frau, der unter Verbeugung Opfer gespendet werden, zum Rausche des Süßtranks, die hehre gesetzeskundige auf den gottbefahrenen Wegen, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fahr her uns, Agni, gleichgesinnt, die grosse, erhab'ne Andacht, die des Werkes kundig Die Opfer nimmt, die Götterfrau, mit Ehrfurcht zum Somarausch auf gottbetretnen Pfaden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Привези) сюда великую Арамати, согласный (с нею),  
 Божественную жену, которой приносят жертву с поклонением,  

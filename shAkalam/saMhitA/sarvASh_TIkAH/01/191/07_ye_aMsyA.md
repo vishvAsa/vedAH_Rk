@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ अं꣡सिया ये꣡ अ꣡ङ्गियाः  
 सूची꣡का ये꣡ प्रकङ्कताः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वे साकं꣡ नि꣡ जस्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अदृ॑ष्टाः । किम् । च॒न । इ॒ह । वः॒ । सर्वे॑ । सा॒कम् । नि । ज॒स्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -103,7 +103,7 @@ popular;; epic anuṣṭubh (525)
 **ये** **अंस्याः** अंसार्हाः अंसगाः अंसे भवा अंसाभ्यां खादन्तो वा । तथा **ये** **अङ्ग्याः** अङ्गगा अङ्गेन शरीरेण हन्तारो वा लूतिकादयः । **सूचीकाः** सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः । ये च **प्रकङ्कताः** प्रकृष्टविषाः प्रकृष्टगामिनो वा महोरगाः **अदृष्टाः** अदृश्यमानाः **किं** **चन** यत्किंचित्सर्पजातमस्ति । **इह** अस्मिन् समीपे **वः** युष्माकं किमस्ति । अतो यूयं **सर्वे** **साकं** सह नितरां **जस्यत** मुञ्चत अस्मान् ॥ ‘जसु मोक्षणे' । दैवादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,29 +118,29 @@ Aṃsyā = being suited to the shoulders, moving with or by them, born or produc
 Aṃgyā = moving with the body or poisoning with the body, as certain spiders, whose contact is poisonous, and the like; who stings with sharp fangs: sucīkāḥ, having sharp needle-like stings, like a scorpion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ones on (my) shoulders, the ones on (my) limbs, the little needle  bugs with their stingers out—  
 you no-see-ums, there is nothing at all for you here. All of you, get  worn down at once!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Biters of shoulder or of limb, with needle-stings, most venomous,  
      Unseen, whatever ye may be, vanish together and be gone.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Stechmücken, die ihr an der Schulter, an den Gliedern seid, ihr Prakankata´s, ihr Unsichtbaren, hier gibt es gar nichts für euch. Verschmachted alle zusammen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch stechendes Gewürm an den Schultern, an den Gliedern ist, welch Ungeziefer, ihr unbemerkten Insekten, welcher Art ihr auch seid, verschwindet alle insgesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что на плечах, что на членах,  
 (Те,) что жалящие праканката,  

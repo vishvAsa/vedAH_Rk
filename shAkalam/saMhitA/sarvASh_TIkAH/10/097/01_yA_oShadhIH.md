@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ओ꣡षधीः पू꣡र्वा जाता꣡  
 देवे꣡भ्यस् त्रियुग꣡म् पुरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शतं꣡ धा꣡मानि सप्त꣡ च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 मनै॑ । नु । ब॒भ्रूणा॑म् । अ॒हम् । श॒तम् । धामा॑नि । स॒प्त । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -112,7 +112,7 @@ popular;; epic anuṣṭubh (292)
 **याः** ओषधीः ओषधयः **पूर्वाः** पुरातन्यः **जाताः** उत्पन्नाः । केभ्यः सकाशात् । **देवेभ्यः** जगन्निर्मातृभ्यः । यद्वा । देवा द्योतमाना ऋतवः । तेभ्यः। कस्मिन् काले। **त्रियुगं** त्रिषु युगेषु । विशेषेण प्रादुर्भावापेक्षया कृतादियुगत्रयमुक्तं कलौ त्वत्यन्ताल्पत्वादुपेक्षितम् ।.अथवा त्रिषु युगेषु वसन्ते प्रावृषि शरदि चेत्यर्थः । **अहं** बभ्रूणां बभ्रुवर्णानां सोमाद्योषधीनां **शतं** **सप्त** **च** **धामानि** अनुलेपमार्जनाभिषेकादिरूपेणाश्रयभूतानि स्थानानि **नु** क्षिप्रं मनै मन्ये । संभावयामीत्यर्थः । अत्र वाजसनेयकं-’या औषधीः पूर्व जाता देवेभ्यस्त्रियुगं पुरेत्यृतवो वै देवास्तेभ्य एतास्त्रिः पुरा जायन्ते वसन्ते प्रावृषि शरद मनै नु बभ्रूणामहमिति सोमो वै बभ्रुः सोम्या ओषधय औषधः पुरुषः शतं धामानीति यदिदं शतायुः शतार्घः शतवीर्य एतानि हास्य तानि’ शतं धामानि सप्त चेति । य एवेमे सप्त शीर्षन्प्राणास्तानेतदाह' (श. ब्रा. ७. २. ४. ३६ ) इति । अत्र निरुक्तं च--' या औषधयः पूर्व जाता देवेभ्यस्त्रीणि युगानि पुरा मन्ये नु तद्बभ्रूणामहं बभ्रुवर्णानां भरणानां हरणानामिति वा शतं धामानि सप्त चेति । धामानि त्रयाणि भवन्ति स्थानानि नामानि जन्मानीति । जन्मान्यत्राभिप्रेतानि सप्तशतानि सप्त शतं पुरुषस्य मर्मणां तेष्वेना दधति' (निरु. ९.२८) इति॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ Devebhyaḥ = the shiningseasons;
 Triyugam = the three seasons, spring, the rains and autumn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The plants that were born earlier, the third generation before the gods— I shall now call to mind the one hundred and seven forms of those  
 brown (plants).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HERBS that sprang up in time of old, three ages earlier than the Gods,-  
      Of these, whose hue is brown, will I declare the hundred powers and seven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Kräuter, die zuerst entstanden sind, drei Zeitalter vor den Göttern, der Bräunlichen hundert und sieben Arten will ich nun gedenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Kraut, das aus der Urzeit stammt, – drei Alter vor den Göttern selbst – In hundertsiebenfacher Art, vom grünenden will dichten ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) растения, что родились сначала,  
 На три поколения раньше богов,  

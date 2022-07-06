@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋषभ꣡म् मा समाना꣡नां  
 सप꣡त्नानां विषासहि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 विरा꣡जं गो꣡पतिं ग꣡वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 ह॒न्तार॑म् । शत्रू॑णाम् । कृ॒धि॒ । वि॒ऽराज॑म् । गोऽप॑तिम् । गवा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣabham* ← *ṛṣabha*
 - \[noun\], accusative, singular, masculine
@@ -101,36 +101,36 @@ popular;; epic anuṣṭubh (525)
 हे सपत्ननाशनाभिमानिन्निन्द्र **मा** मां **समानानां** सदृशानामस्मत्कुलीनानां मध्ये **ऋषभम्** ऋषभवत्प्रशस्तं **कृधि** कुरु। तथा **स**  पत्नानां शत्रूणां विषासहिं विशेषेणाभिभवितारं कुरु। येऽस्मत्कुल एव जाता अस्माकमेवानिष्टमाचरन्ति ते सपत्नाः । अपि च **शत्रूणाम्** अन्येषामपि शातयितॄणां वैरिणां हन्तारं हिंसितारं **कृधि** कुरु । तथा **विराजं** विशेषेण राजमानं **गोपतिं** गोस्वामिनं च मां कुरु । न केवलमेकस्या एव गोः पतिम् अपि तु सर्वासामित्याह **गवाम्** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make me, **Indra**, (renowned like) a bull among my equals, victor over my rivals, the slayer of my”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make me bull over my equals, widely victorious over my rivals,  
 smiter of my rivals, wide-ruling cattle-lord of cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAKE me a bull among my peers, make me my rivals, conqueror:  
      Make me the slayer of my foes, a sovran ruler, lord of kine
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach mich zum Bullen unter meines Gleichen, zum Bezwinger der Nebenbuhler, zum Töter der Feinde, zum Gebieter, zum Besitzer von Kühen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mach unter gleichen mich zum Stier, der seine Nebenbuhler schlägt, Zum Feindestödter mache mich, zum König und zum Rinderherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быком среди подобных (мне),  
 Угнетателем соперников,  

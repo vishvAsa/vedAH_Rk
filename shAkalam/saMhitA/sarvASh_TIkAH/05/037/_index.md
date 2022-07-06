@@ -8,7 +8,7 @@ title = "+037"
 ‘सं भानुना' इति पञ्चर्चं पञ्चमं सूक्तमत्रेरार्षं त्रैष्टुभमैन्द्रम् । 'सं भानुना पञ्चात्रिः' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 37 (391)  
 Indra  
@@ -19,7 +19,7 @@ There are two pieces of onomastic verbal play that look outside the hymn  proper
 priate to find this answer given at the beginning of this hymn here, as it is the first in  a series of hymns attributed to Atri, among which is V.40.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

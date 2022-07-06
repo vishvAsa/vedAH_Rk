@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुर् अ꣡त्यो न꣡ वाजसृ꣡त्  
 क꣡निक्रन्ति पवि꣡त्र आ꣡  
 य꣡द् अ꣡क्षार् अ꣡ति देवयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । अक्षाः॑ । अति॑ । दे॒व॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -87,35 +87,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयम् **इन्दुः** **वाजसृत्** संग्रामसरणः **अत्यो** **न** अश्व इव **पवित्र** **आ** पवित्रे **कनिक्रन्ति** शब्दं करोति । **यत्** यदा **अक्षाः** क्षरति । क्षर संचलने' इत्यस्माच्छान्दसे लुङि तिपि सिच् । ‘ बहुलं छन्दसि' इतीडभावः । इडभावे च ' रात्सस्य ' इति सलोपः । **देवयुः** देवकामः सन् तदा शब्दं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rushing into battle, sounds in the rough, beloved of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop, like a steed running for the prize, keeps neighing in the filter, when he has overflowed it, in search of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like courser racing to the prize Indu, the lover of the Gods,  
      Roars, as he passes, in the sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft wiehert in der Seihe wie ein um den Siegerpreis laufendes Rennpferd, wenn er darüber geflossen ist, nach den Göttern verlangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Indu wiehert wie ein Ross, das Preis erstrebt, zur Seihe hin, Wenn er hindurchrinnt Göttern hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

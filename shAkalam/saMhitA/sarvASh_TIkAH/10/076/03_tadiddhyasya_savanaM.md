@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡द् धि꣡ अस्य स꣡वनं विवे꣡र् अपो꣡  
 य꣡था पुरा꣡ म꣡नवे गातु꣡म् अ꣡श्रेत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रे꣡म् अध्वरे꣡षु अध्वराँ꣡ अशिश्रयुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 गोऽअ॑र्णसि । त्वा॒ष्ट्रे । अश्व॑ऽनिर्निजि । प्र । ई॒म् । अ॒ध्व॒रेषु॑ । अ॒ध्व॒रान् । अ॒शि॒श्र॒युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -122,37 +122,37 @@ genre M
 **इत्** इति पूरणः । अस्य ग्राव्णः **तत्** **सवनम्** अभिषवोपेतमस्मदीयं सोमयागाख्यम् **अपः** कर्म **विवेः** व्याप्नोतु । विपूर्वस्य वेतैर्लङ्यदादित्वाच्छपो लुक् । वेतैर्विपूर्वस्य वा छान्दसे श्लौ वापररूपमिति संदेहादनवग्रहः । समासस्वरः । **यथा** **पुरा** मनवे राज्ञे **गातुं** गमनम् **अश्रेत्** आजगाम तद्वत् व्याप्नोतु । किंच **गोअर्णसि** गोरूपे अपहृतैर्गोभिः परिवृते तथा **अश्वनिर्णिजि** । निर्णिगिति रूपनाम । अश्वरूपे । अपहृतैरश्वैर्वृत इत्यर्थः । ईदृशे **त्वाष्ट्रे** त्वष्टुः पुत्रे हन्तव्ये सतीति शेषः । **ईम्** एतान् **अध्वरान्** असुरैरहिंस्यानध्वरसाधकान् चोपलान् **अध्वरेषु** अशिश्रयुः आश्रयन्ति पूर्वे यजमानाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this (sacrificial) work of this grinding-stone the effusion of the **Soma**, spread as it went formerlyalong the path to **Manu**; when the son of **Tvaṣṭā**, hidden by the (stolen) cows, and assuming the form of ahorse, (was to be slain), the worshippers had recourse at the sacrifices to the inviolable (upper grinding-stones).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For it has labored at just this pressing, at its task. Just as previously  (Indra) set the course for Manu  
 to Tvaṣṭar’s (wealth?), which was flooding with cows and arrayed in  
 horses, they have set ceremonies upon ceremonies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Juice that this Stone pours out removes defect of ours, as in old time it brought prosperity to man.  
      At sacrifices they established holy rites on Tvastar's milk-blent juice bright with the hue of steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese Trankspende hat sein Werk vollbracht - wie sie ehedem dem Manu den Weg geebnet hat - bei dem Tvastrisohn, der eine Masse von Kühen hatte und mit seinen Rossen Staat machte. Sie haben Opfer zu Opfer gefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn der von ihm gepresste Saft durchdrang die Flut, wie früher er dem Manu sichern Gang geschafft; Bei Tvaschtar's Sohn, der reich an Ross und Rindern war, da reihten Priester ein Fest an das andre an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это самое выжимание привело к цели его деятельность,  
 Как некогда оно вымостило путь для Ману  

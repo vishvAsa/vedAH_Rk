@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ च इह꣡ पित꣡रो ये꣡ च ने꣡ह꣡  
 यां꣡श् च विद्म꣡ याँ꣡ उ च न꣡ प्रविद्म꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वधा꣡भिर् यज्ञं꣡ सु꣡कृतं जुषस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 त्वम् । वे॒त्थ॒ । यति॑ । ते । जा॒त॒ऽवे॒दः॒ । स्व॒धाभिः॑ । य॒ज्ञम् । सुऽकृ॑तम् । जु॒ष॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -158,36 +158,36 @@ popular
 **ये** **च** **पितरः** **इह** अस्मत्समीपे वर्तन्ते ये **च** **इह** **न** सन्ति । **यांश्च** पितॄन् विद्म संनिकृष्टत्वाज्जानीमः **याँ**  **च** **न** अपि च न **प्रविद्म** विप्रकृष्टत्वाद्वयं न विजानीमः । **यति** **ते** यावन्तस्ते भवन्ति तान् सर्वान् यथोक्तान हे **जातवेदः** उत्पन्न सर्ववस्तुविषयज्ञानाग्ने त्वं वेत्थ जानासि। **स्वधाभिः** हविर्लक्षणैरन्नैः **सुकृतं** साधु कृतं यज्ञं जुषस्व प्रीत्या गृहाण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You know, **Jātavedas**, those **Pitṛs**, how many they may be, who are not in this world, those whom weknow, and those whom we do not fully know; enjoy this pious sacrifice offered together with **svadhās**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both the forefathers who are here and those who are not here, both  those whom we know and those whom we do not know,  
 you know how many they are, o Jātavedas. Through your own powers  [/at svadhā-calls], enjoy the well-performed sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Jatavedas, knowest well the number of Fathers who are here and who are absent,  
      Of Fathers whom we know and whom we know not: accept the sacrifice wellprepared with portions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Väter, die hier sind, und die nicht hier sind, die wir kennen und die wir nicht kennen, du kennst sie, so viele ihrer sind, o Jatavedas. Genieße nach eigenem Ermessen das wohlbereitete Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Väter welche hier, und die nicht hier sind, und die wir kennen und die nicht wir kennen, Du weisst wie viel es sind, o Wesenkenner, mit Lust geniess das schön bereite Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие отцы здесь, и какие не здесь,  
 Каких мы знаем и каких не узнаем, –  

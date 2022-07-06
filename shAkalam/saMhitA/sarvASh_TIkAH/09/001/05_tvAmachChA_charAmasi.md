@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अ꣡छा चरामसि  
 त꣡द् इ꣡द् अ꣡र्थं दिवे꣡-दिवे  
 इ꣡न्दो तुवे꣡ न आश꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । त्वे इति॑ । नः॒ । आ॒ऽशसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -94,36 +94,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** यागेषु क्लिद्यमान सोम **त्वामच्छ** त्वां प्रति **चरामसि** वयं चरामः। **दिवेदिवे** प्रतिदिनमस्माकं **तदित्** तदेव त्वत्परिचरणमेव **अर्थं** कार्यं नान्यत्कार्यमस्ति । **नः** अस्माकम् **आशसः** आशंसनान्यपि **त्वे** त्वय्येव नान्यत्र ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you we come, O dropping (**Soma**); for you only is this our worship day by day, our prayers are to you, none other.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward you do we proceed; this is just our goal every day.  
 O drop, in you are our hopes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, we draw nigh to thee, with this one object day by day:  
      To thee alone our prayers are said
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir kommen wir zu demselben Zwecke Tag für Tag. Zu dir, o Saft, gehen unsere Wünsche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu diesem Zwecke gehen wir an jedem Tage hin zu dir, Auf dich, o Indu, hoffen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе мы направляемся  
 С одной и той же целью день за днем.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो ग꣡व्येभिर् अ꣡श्वियैः  
 सह꣡स्रेभिर् अ꣡ति ख्यतम्  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अश्विनौ **गव्येभिः** गोसमूहैः **अश्व्यैः** अश्वसमूहैः **सहस्रेभिः** सहस्रसंख्याकैः **मा** अस्मान् **अति** **ख्यतम्** । अतीति प्रतीत्यस्मिन्नर्थे । मा निवारयतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ Pass us not by: mā ati khyatām;
 Atikhyaḥ = pratikhyaḥ, pratyākhyaḥ, do not reject (or neglect) uṣ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not overlook us with your thousands of cattle and horses.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pass us not by, remember us with thousands both of kine aud steeds:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Übersehet uns nicht mit den Tausenden von Rindern und Rossen! - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit tausend Gaben, die ihr schenkt an Rind und Ross, versäumt es nicht; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не проглядите нас  
 С тысячами коров (и) коней!  

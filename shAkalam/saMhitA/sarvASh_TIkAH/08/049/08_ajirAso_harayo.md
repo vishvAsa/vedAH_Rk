@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अजिरा꣡सो ह꣡रयो ये꣡ त आश꣡वो  
 वा꣡ता इव प्रसक्षि꣡णः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ये꣡भिर् वि꣡श्वं सु꣡वर् दृशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 येभिः॑ । अप॑त्यम् । मनु॑षः । प॒रि॒ऽईय॑से । येभिः॑ । विश्व॑म् । स्वः॑ । दृ॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajirāso* ← *ajirāsaḥ* ← *ajira*
 - \[noun\], nominative, plural, masculine
@@ -110,7 +110,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,30 +121,30 @@ Sayana bhashya empty
 Or, with which you encircle alḷ..
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Nimble are your fallow bays, which are swift and overpowering like  the winds,  
 with which you speed around the progeny of Manu, with which (you  speed around) the whole (world), (for it) to see the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner interprets the first relative clause as only consisting of yé te “die du hast,” but all things being equal, I try to avoid interpretations that require embedded relative clauses (though see the pseudo-izafe in 3b above), and in this case a relative clause that extends to the end of b is perfectly possible. That 50.8 has the same structure is an additional support for this interpretation.
 
 The corresponding verse in the twinned hymn, VIII.50.8d, contains yébhiḥ svàḥ parī́yase. I therefore think that parī́yase in our c also has domain over d, also containing svàḥ. Geldner, by contrast, supplies kṛṇóṣi, to produce a periphrastic causative “mit denen du die ganze Welt die Sonne schauen (lässest).”
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den flinken, raschen Falben, die du hast, gewaltig wie der Sturmwind, mit denen du bei Manu´s Nachkommenschaft herumkommest, mit denen du die ganze Welt die Sonne schauen lässest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beweglich sind die goldnen Renner, die du hast, die vorwärts dringen wie der Wind, Mit denen rings den Stamm des Manus du umfährst und rings das All der Sonne gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (На тех) ретивых буланых быстрых конях, которые у тебя (есть),  
 Сокрушительных, как штормовой ветер,  

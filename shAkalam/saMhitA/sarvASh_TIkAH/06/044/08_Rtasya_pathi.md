@@ -6,7 +6,7 @@ ChandaH = "विराट् त्रिष्थुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य पथि꣡ वेधा꣡ अपायि  
 श्रिये꣡ म꣡नांसि देवा꣡सो अक्रन्  
@@ -14,7 +14,7 @@ ChandaH = "विराट् त्रिष्थुब्वा"
 व꣡पुर् दृश꣡ये वेन्यो꣡ वि꣡ आवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 दधा॑नः । नाम॑ । म॒हः । वचः॑ऽभिः । वपुः॑ । दृ॒शये॑ । वे॒न्यः । वि । आ॒व॒रित्या॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -124,20 +124,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **ऋतस्य** यज्ञस्य **पथि** मार्गे **वेधाः** विधाता सर्वस्य द्रष्टा सोमः **अपायि** । इन्द्रेण पीतोऽभूत् । यद्वा । बेधा विधातेन्द्रोऽपायि । सोमं पिबतु ॥ व्यत्ययेन कर्तरि चिण् ॥ तस्मिन् सोमे इन्द्रस्य **मनांसि** **श्रिये** श्रयितुं **देवासः** देवाः स्तोतारः ऋत्विज: **अक्रन्** कर्माणि कुर्वन्ति । स चेन्द्रः **नाम** शत्रूणां नामकं **महः** महदात्मीयं **वपुः** शरीरं **दधानः** धारयन् **वचोभिः** स्तुतिभिः **वेन्यः** वननीयः संभजनीयश्च सन् **दृशये** दर्शनार्थं **व्यावः** विवृणोतु प्रकाशयतु । अनुकूलं तेज इति शेषः । यद्वा । वेन्य इति वेनतेः कान्तिकर्मणो रूपं वपुरिति च रूपनाम । वेन्यः कमनीयो। वपुर्भास्वरं रूपं दृशये दर्शनार्थं व्यावः विवृणोतु वचोभिः स्तूयमानः सन् ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma**, creator (of all), on the path of sacrifice, has been drunk; the worshippers have presented it to gratify the mind (of **Indra**); may he, the humiliator (of his foes), possessing a vast body, propitiated by our praises, become manifest to our view.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On the path of truth, the ritual adept has been drunk. The gods have  set their minds for glory.  
 Acquiring the name of “great” by (ritual) speeches, the one worthy of  the quest has disclosed his wondrous form to be seen.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The passive interpr. of the pf. part. papāná- in 7b is affirmed by the pass.
 
@@ -166,23 +166,23 @@ The tṛca concerns soma and contains lexical and thematic responsions.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In course of Law the sapient juice was quaffed: the Deities to glory turned their mind.  
      Winning through hymns a lofty title, he, the Lovely, made his beauteous form apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem rechtmäßigen Wege ist der Meister Soma jetzt getrunken. Die Götter haben ihren Sinn auf den Vorrang gerichtet. Indem er durch Reden einen großen Namen bekommt, hat der Schauwürdige seine Pracht zum Sehen enthüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf Opfers Pfaden – trank er den holden, die Götter lenkten – zum Heil die Sinne; Des grossen Namen – durch Sprüch' empfangend enthüllte Schönheit lieblich er zu schauen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На пути закона был выпит созидатель.  
 Боги направили (свои) мысли на благо.  

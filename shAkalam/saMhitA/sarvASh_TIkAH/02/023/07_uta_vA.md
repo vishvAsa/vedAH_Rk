@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ वा यो꣡ नो मर्च꣡याद् अ꣡नागसो  
 अरातीवा꣡ म꣡र्तिअः° सानुको꣡ वृ꣡कः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुगं꣡ नो अस्यइ꣡ देव꣡वीतये कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । अप॑ । तम् । व॒र्त॒य॒ । प॒थः । सु॒ऽगम् । नः॒ । अ॒स्यै । दे॒वऽवी॑तये । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -133,36 +133,36 @@ genre M
 उतवाअपिचहेबृहस्पते अरातीवाअभिमुख्मागमनवान् सानुकः समुच्छ्रितः सानुसमुच्छ्रितमिति यास्कः । वृकः वृकआदाने धनादीनामादाता योमर्तोमनुष्यः अनागसोपराधहीनान्नोस्मान्मर्चयात् मर्चयतिर्हिसाकर्मा हिंस्यात् तम्मर्तं पथोवैदिकान्मार्गादपवर्तय निवर्तय नोस्माकं अस्यैदेववीतये देवानांवीतिंसोमभक्षणमर्चयतीतिदेववीतिर्यज्ञः अस्यै देववीतयेअस्मै यज्ञायनोस्माकंसुगंसुष्ठुगन्त- व्यम्मार्गङ्कृधिकुरु यज्ञानुष्ठानायसुमतिन्देहीत्यर्थः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Turn aside from (the true) path, **Bṛhaspati**, the arrogant and savage man who advances to injure us, although unoffending and keep us in the right way for (the completion of) this offering to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or if a hostile mortal, a lone wolf, is about to injure us who are without  offense,  
 Br̥haspati, turn him away from our path. Make an easy way for this our  pursuit of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, too, who threatens us without offence of ours, the evilminded, arrogant, rapacious man,-  
      Him turn thou from our path away, Brhaspati: give us fair access to this banquet of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wenn ein mißgünstiger Sterblicher, ein ........ Wolf uns schuldlosen Abbruch tun will, so lenke ihn vom Wege ab, o Brihaspati; schaff uns guten Weg für diese Götterladung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und den auch, der unschuld'ge uns beschädiget, den schlechtgesinnten Sterblichen, den gier'gen Wolf, Den, o Gebets Herr, wende ab von unserm Pfad, und schaffe guten Zugang uns zum Göttermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или же если кто накинется на нас, безвинных,  
 Враждебный смертный,...волк –  

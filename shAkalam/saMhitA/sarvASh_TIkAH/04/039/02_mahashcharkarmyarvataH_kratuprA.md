@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡श् चर्कर्मि अ꣡र्वतः क्रतुप्रा꣡  
 दधिक्रा꣡व्णः पुरुवा꣡रस्य वृ꣡ष्णः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दद꣡थुर् मित्रावरुणा त꣡तुरिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यम् । पू॒रुऽभ्यः॑ । दी॒दि॒ऽवांस॑म् । न । अ॒ग्निम् । द॒दथुः॑ । मि॒त्रा॒व॒रु॒णा॒ । ततु॑रिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
@@ -114,21 +114,21 @@ genre M
 **क्रतुप्राः** कर्मणां पूरकोऽहं **महः** महतः **अर्वतः** अरणवतः **पुरुवारस्य** पुरुभिः बहुभिर्वरणीयस्य **वृष्णः** वर्षकस्य **दधिक्राव्णः** स्तुतिं **चर्कर्मि** अत्यर्थं करोमि । हे **मित्रावरुणा** मित्रावरुणौ युवां **ततुरिं** तारकं **यं** **दीदिवांसं** **नाग्नि** दीप्यमानमग्निमिव स्थितं **पूरुभ्यः** मनुष्येभ्यस्तेषामुपकाराय **ददथुः** धारयथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fulfiller of religious rites, I reiterate the praise of the great Dadhikrā, the liberal, many-honoured showerer (of benefits), whom **Mitra** and **Varuṇa** gave for the good of many, the transporter (beyond calamity), as brilliant as **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fulfilling my conception, I pay tribute to the great steed, to  
 Dadhikrāvan, the bullish one of many favors,  
 whom, triumphant, shining like fire, you gave to the Pūrus, o Mitra and  Varuṇa, as one triumphant for the Pūrus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take kratu-prā́- as referring to the poet’s own krátu- ‘intention, conception’
 
@@ -145,23 +145,23 @@ Maurer (324-25) renders puruvā́ra- as ‘richly tailed’ (vā́ra- ‘tail-ha
 In the 2nd hemistich pūrúbhyaḥ … táturim was mistakenly tr. twice in the publ tr. Eliminate the last phrase “as one triumphant for the Pūrus.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise the mighty Steed who fills my spirit, the Stallion Dadhikravan rich in bounties,  
      Whom, swift of foot aind shining bright as Agni, ye, Varuna and Mitra, gave to Purus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rühme aller Gedanken erfüllend den großen Renner Dadhikravan, den vielbegehrten Hengst, den ihr, Mitra und Varuna, den Puru´s geschenkt habt, den Überwinder, der wie Feuer strahlt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Begeistert rühm' ich ihn, den grossen Renner, den gabenreichen Stier, den Dadhikravan, Der hell wie Agni leuchtet, den als Sieger den Menschen gaben Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преисполненный силы духа, я восхваляю великого скакуна.  
 Дадхикравана, жеребца с пышным хвостом,  

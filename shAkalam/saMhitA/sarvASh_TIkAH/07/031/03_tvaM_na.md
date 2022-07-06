@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ न इन्द्र वाजयु꣡स्  
 तुवं꣡ गव्युः꣡ शतक्रतो  
 तुवं꣡ हिरण्ययु꣡र् वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वम् । हि॒र॒ण्य॒ऽयुः । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वं** **नः** अस्माकं **वाजयुः** अन्नकामो भव । हे **शतक्रतो** **त्वं** नोऽस्माकं **गव्युः** गोकामो भव । हे **वसो** वासयितरिन्द्र **त्वं** हिरण्ययुः हिरण्यकामोऽपि भव । छन्दसि परेच्छायामपि दृश्यते क्यच् ' इति क्यच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, be willing to give us food; be willing, **Śatakratu**, to give us cattle; be willing, donor ofdwelling, to us gold.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, are seeking spoils for us; you are seeking cows, o you of a  hundred resolves;  
 you are seeking gold, o good one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ There is no obvious noun to supply with asyá ‘of this’ in c. Geldner suppli
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Lord of boundless might, for us thou winnest strength and kine,  
      Thou winnest gold for us, Good Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, trachtest für uns nach dem Siegerpreis, du nach Rindern, du Ratreicher, nach Gold, du Gütiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, hundertwirkender, o guter, du erstrebst für uns Viel Nahrung, Rindbesitz und Gold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты для нас, о Индра, – приносящий добычу,  
 Ты – приносящий коров, о стоумный,  

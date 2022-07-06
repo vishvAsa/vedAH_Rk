@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡हन्ति सीम् अरुणा꣡सो रु꣡शन्तो  
 गा꣡वः सुभ꣡गाम् उर्विया꣡ प्रथाना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बा꣡धते त꣡मो अजिरो꣡ न꣡ वो꣡ळ्हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अप॑ । ई॒ज॒ते॒ । शूरः॑ । अस्ता॑ऽइव । शत्रू॑न् । बाध॑ते । तमः॑ । अ॒जि॒रः । न । वोळ्हा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
@@ -115,7 +115,7 @@ genre M
 **अरुणासः** लोहितवर्णाः **रुशन्तः** दीप्यमानाः **गावः** रश्मयः ।  ‘ किरणा गावः । इति रश्मिनामसु पाठात् । **सुभगाम्** **उर्विया** उर्वीं विस्तीर्णां **प्रथानां** प्रथमानां **सीम्** एनामुषोदेवतां **वहन्ति** । सेयमुषोदेवता **शूरो** **अस्तेव** वीरः क्षेप्तेव **शत्रून्** **तमः** **अपेजते** अपगमयति ।  **वोळ्हा** सेनायाः **अजिरो** **न** क्षिप्रगामी शत्रून् यथा बाधते तथा तमांसि **बाधते** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Kine: **gāvaḥ** = raśmayaḥ, rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy, glistening cows convey her of good portion as she spreads  widely.  
 Like a champion archer his rivals, she drives away darkness; she repels it  like a quick (chariot-)driver.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner points out (n. 3cd), the acc. śátrūn must be read as the obj. of both similes and acc. támaḥ ‘darkness’ as the obj. of both frames, though the former only appears in c and the latter in d. The two similes compare Dawn not only to a male figure, but to a skillful, highly trained male warrior: archer and chariot-driver.
 
@@ -142,23 +142,23 @@ In c the simile marker iva occurs after the 2nd term, not the 1st (might expect
 cf. I.70.11 ásteva śū́raḥ, IV.36.6 śū́ro ástā, I.8.4 śū́rebhir ástṛbhiḥ, and, with lexical substitution, II.42.2 vīró ástā. There is also the fact that in similes with three terms matching two different cases, there’s some fluctuation in the position of the simile marker.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Red are the kine and luminous that bear her the Blessed One who spreadeth through the distance.  
      The foes she chaseth like a valiant archer, like a swift warrior she repelleth darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rötlich weiße Stiere fahren die Holde, die sich weithin ausbreitet. Sie treibt das Dunkle fort wie ein tapferer Schütze die Feinde; sie bedrängt das Dunkel wie ein behender Wagenfahrer die Feinde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fahren sie die rothen, lichten Stiere, die selige, die weithin sich verbreitet; Das Dunkel scheucht sie, wie ein starker Schütze den Feind verjagt, gleich schnellem Wagenlenker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Везут алые сверкающие  
 Быки счастливую, простирающуюся далеко.  

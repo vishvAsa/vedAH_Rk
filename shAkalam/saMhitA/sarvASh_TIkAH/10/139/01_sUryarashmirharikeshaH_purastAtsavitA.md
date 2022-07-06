@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡र्यरश्मिर् ह꣡रिकेशः पुर꣡स्तात्  
 सविता꣡ ज्यो꣡तिर् उ꣡द् अयाँ अ꣡जस्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सम्प꣡श्यन् वि꣡श्वा भु꣡वनानि गोपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्य॑ । पू॒षा । प्र॒ऽस॒वे । या॒ति॒ । वि॒द्वान् । स॒म्ऽपश्य॑न् । विश्वा॑ । भुव॑नानि । गो॒पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūryaraśmir* ← *sūrya*
 - \[noun\], masculine
@@ -125,7 +125,7 @@ popular
 “सविता सर्वस्य प्रेरको देवः **पुरस्तात्** पूर्वस्यां दिशि **अजस्रम्** अनवरतं **ज्योतिः** तेजः **उदयान्** उद्याति उद्गमयति ॥ यातेरन्तर्भावितण्यर्थात् छन्दसो लङ् । व्यत्ययेन वहुवचनम्। संहितायां  ‘ दीर्घादटि समानपादे ' इति नकारस्य रुत्वम् । आतोऽटि नित्यम् ' इति सानुनासिक आकारः ॥ **तस्य** सवितुः **प्रसवे** प्रेरणेऽनुज्ञायां सत्यां **विद्वान्** जानन् **गोपाः** गोपायिता रक्षिता **पूषा** पोषको देव आदित्यः **याति** नभसि गच्छति । किं कुर्वन् । **विश्वा** विश्वानि सर्वाणि **भुवनानि** भूतजातानि **संपश्यन्** सम्यक् प्रकाशयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ popular
 **Yajus**. 17.58: **Agni** is the deity, takingSavitā as an epithet, the genitive rator. In this ṛca, Savitā is the deity presiding over he period immediately afterdawn and **Sūrya** presides over the rest of the day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the rays of the sun, with golden hair, Savitar has raised up the  unaging light from the east.  
 At his instigation Pūṣan travels—the knowing cowherd surveying all  beings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SAVITAR, golden-haired, hath lifted eastward, bright With the sunbeams, his eternal lustre;  
      He in whose energy wise Pusan marches, surveying all existence like a herdsman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Sonne Strahlen, mit goldigem Haare hat Savitri im Osten sein unverlöschliches Licht aufgesteckt. Auf seine Anweisung wandelt der kundige Pusan, der Hirt, der alle Geschöpfe überwacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ew'ge Licht hat Savitar von Osten emporgelenkt, goldhaarig, sonnenstrahlig, Auf seinen Antrieb wandert Puschan kundig beschauend alle Wesen als der Hirte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С лучами солнца, с золотистыми волосами Савитар  
 Простер вверх на востоке немеркнущий свет.  

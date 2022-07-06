@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ सबा꣡धः शशमानो꣡ अस्य  
 न꣡शद् अभि꣡ द्र꣡विणं दी꣡धियानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡मो जगृभ्वाँ꣡ अभि꣡ य꣡ज् जु꣡जोषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दे॒वः । भु॒व॒त् । नवे॑दाः । मे॒ । ऋ॒ताना॑म् । नमः॑ । ज॒गृ॒भ्वान् । अ॒भि । यत् । जुजो॑षत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -122,43 +122,43 @@ genre M
 **सबाधः** सपत्नानां पीडासहितः **शशमानः** इन्द्रविषयां स्तुतिं कुर्वन् **दीध्यानः** कर्मभिः दीप्यमानो यजमानः **अस्य** इन्द्रस्य संबन्धि **द्रविणं** पश्वादिधनं **कथा** कथम् **अभि** **नशत्** अभिप्राप्नोति । **नमः** हविर्लक्षणमन्नं **जगृभ्वान्** गृहीतवानिन्द्रः **यत्** यदा **अभि** **जुजोषत्** माम् अभिसेवेत तदा **देवः** दीप्यमान इन्द्रः **मे** मदीयानाम् **ऋतानां** स्तोत्राणां **नवेदाः** अतिशयेन ज्ञाता **भुवत्** भवेत् । अत्र निपातस्थो नकारोऽतिशयवाची ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How does he who glorifies **Indra**, and is diligent in his worship, although encountering opposition, obtain from him wealth? may the divine Indra be the appreciation of my praises, when accepting the sacrificial food he is propitiated towards me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How will the man who has zealously labored and produced insights  attain the material goods that belong to him [=Indra]?  
 The god will take cognizance of my truths, when he has accepted the  homage that he will enjoy.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take dī́dhyānaḥ as parallel to śaśamānáḥ, referring to the verbal/mental work at the sacrifice as opposed to the physical -- hence my tr. ‘produced insights’.
 
 Other tr. seem to me to attenuate the semantics.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How doth the priest who laboureth, ever longing, win for himself the wealth which he possesseth?  
      May he, the God, mark well my truthful praises, having received the homage which he loveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie kann er, der eifrig den Opferdienst besorgt, seinen Reichtum erlangen, wie er ihn sich wünscht? Der Gott nehme meiner rechten Worte wahr, die Huldigung annehmend, an der er seine Freude haben wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie doch erlangt, wer eifervoll ihm dienet, mit Andacht aufmerkt, seine Güterspende? Der Gott sei Zeuge meiner frommen Werke, ergreifend das Gebet, an dem er Lust hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как может тот, кто ревностно трудится для него,  
 Достигнуть богатства, вознося молитву?  

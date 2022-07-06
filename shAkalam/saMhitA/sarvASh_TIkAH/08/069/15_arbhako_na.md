@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्भको꣡ न꣡ कुमारको꣡  
 अ꣡धि तिष्ठन् न꣡वं र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पित्रे꣡ मात्रे꣡ विभुक्र꣡तुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । प॒क्ष॒त् । म॒हि॒षम् । मृ॒गम् । पि॒त्रे । मा॒त्रे । वि॒भु॒ऽक्रतु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arbhako* ← *arbhakaḥ* ← *arbhaka*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 अयमिन्द्रः **अर्भको** **न** अल्पशरीरः **कुमारकः** कुमारक इव **नवं** स्तुत्यं **रथम्** **अधि** **तिष्ठत्** अधितिष्ठति । **सः** इन्द्रः **महिषं** महान्तं **मृगं** मृगवदितस्ततो धावन्तं सर्वैर्मृग्यं वा **विभुक्रतुं** बहुकर्माणं मेघं **पक्षत्** पचति । वृष्टयभिमुखं करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,37 +121,37 @@ He makes ready: pac = to cook, to mature, vṛṣṭyabhimukham **karoti**,Indra
 **Mṛga** = deer-like, wandering hither and thither like a deer, to be soughtby all; He roasts (with his thunderbolt) the wild mighty buffalo (the cloud) for his father and mother
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a teeny-tiny wee little boy, he mounted his new chariot.  
 He cooked the wild buffalo of prodigious will for his father and  
 mother.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the extreme diminutivization in arbhakó ná kumārakáḥ, signalled by the two -ká-suffixed forms. Presumably the point, in this account of Boyhood Deeds, is to emphasize how small and weak he was to accomplish such deeds.
 
 Both Geldner and Oldenberg are troubled by vibhukrátu- as a qualifier of the buffalo. Oldenberg goes so far as to suggest it should be nominative, but was attracted into the accusative by the preceding accusatives (which, note, are not even adjacent or in the same pāda). This seems unlikely (and unworthy of the usually punctilious Oldenberg). Geldner also manoeuvres the adjective into referring not to the krátu- of the buffalo, but rather to that of the father and mother: “Er kochte das Büffeltier für Vater und Mutter, das ihrem Verlangen genügte.” I do not understand how he is interpreting the vibhu-, nor do I see any difficulty with assigning the quality named in the compound to the buffalo: that the buffalo is formidable makes the feat of a tiny boy cooking it (and presumably first catching it) all the greater.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, yet a boy exceeding small, mounted his newly-fashioned car.  
      He for his Mother and his Sire cooked the wild mighty buffalo.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein kleines Knäbchen bestieg er den neuen Wagen. Er kochte das Büffeltier für Vater und Mutter, das ihrem Verlangen genügte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als kleiner, zarter Knabe schon bestieg den neuen Wagen er; Dem Vater und der Mutter briet den kraftbegabten Büffel er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

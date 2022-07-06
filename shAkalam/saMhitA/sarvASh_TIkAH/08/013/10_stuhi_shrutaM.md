@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तुहि꣡ श्रुतं꣡ विपश्चि꣡तं  
 ह꣡री य꣡स्य प्रसक्षि꣡णा  
 ग꣡न्तारा दाशु꣡षो गृहं꣡ नमस्वि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 गन्ता॑रा । दा॒शुषः॑ । गृ॒हम् । न॒म॒स्विनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
@@ -84,36 +84,36 @@ genre M;; line affected by realignment
 हे स्तोतः **विपश्चितं** विशिष्टज्ञानं **श्रुतं** विश्रुतं प्रख्यातं तमिन्द्रं **स्तुहि** प्रशंस । **यस्य** इन्द्रस्य **हरी** अश्वौ **प्रसक्षिणा** शत्रूणां प्रसहनशीलौ **नमस्विनः** हविष्मतः **दाशुषः** दत्तवतो यजमानस्य **गृहं** **गन्तारा** गमनशीलौ च तमिन्द्रं स्तुहीति संबन्धः । गमेस्ताच्छीलिकस्तृन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise the renowned, the sapient (**Indra**), whose victorious horses proceed to the dwelling of the devoutdonor (of the libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise the famous one who is attentive to poetic inspiration, to whom  belong the two overpowering fallow bays  
 that go to the house of the pious and reverential man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise him, the Glorious, skilled in song, Lord of the two victorious Bays:  
      They seek the worshipper's abode who bows in prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lobsinge dem berühmten redekundigen Indra, dessen überlegene Falben zum Hause des sich verneigenden Opferers zu kommen pflegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen preise, der berühmt, und dessen Rosse sieggewohnt Hineilen zu des frommen Haus, des betenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй прославленного прозорливца,  
 Чья пара буланых победоносных коней  

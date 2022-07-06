@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वर्षीर् वर्ष꣡म् उ꣡द् उ षू꣡ गृभाय  
 अ꣡कर् ध꣡न्वानि अ꣡तिएतवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत꣡ प्रजा꣡भ्यो अविदो मनीषा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अजी॑जनः । ओष॑धीः । भोज॑नाय । कम् । उ॒त । प्र॒ऽजाभ्यः॑ । अ॒वि॒दः॒ । म॒नी॒षाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avarṣīr* ← *avarṣīḥ* ← *vṛṣ*
 - \[verb\], singular, Athematic s aor. (Ind.)
@@ -125,14 +125,14 @@ popular
 इयमतिवृष्टिविमोचनी । हे पर्जन्य त्वम् **अवर्षीः** वृष्टवानसि । **वर्षमुदु** **षू** **गृभाय** उत्कृष्टं सु सुष्ठु गृभाय गृहाण । परिहरेत्यर्थः। **धन्वानि** निरुदकप्रदेशान् **अकः** जलवतः कृतवानसि । किमर्थम् । **अत्येतवा** **उ** अतिक्रम्य गन्तुम् । **ओषधीः** **अजीजनः** उदपादयः । किमर्थम् । **भोजनाय** धनाय भोगाय वा । **कम्** इत्ययं ‘शिशिरं जीवनाय कम्' इतिवत्पादपूरणः ( निरु. १. १० )। **उत** अपि च **प्रजाभ्यः** सकाशात् **मनीषां** स्तुतिम् **अविदः** प्राप्तवानसि ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have rained; now check well the rain; you have made the deserts capable of being crossed; you have given birth to plural ns for (man's) enjoyment; verily you have obtained laudation from the people.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You have rained rain: (now) hold it back. You have made the  
 wastelands able to be traversed.  
@@ -140,28 +140,28 @@ You have begotten the plants for nourishment, and you have found
 (this?) inspired thought for the creatures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hast poured down the rain-flood now withhold it. Thou hast made desert places fit for travel.  
      Thou hast made herbs to grow for our enjoyment: yea, thou hast won thee praise from living creatures.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thou hast shed rain; pray now withhold it wholly; Thou hast made passable all desert places. To serve as food thou hast made plants to flourish: And hast received the gratitude of creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast regnen lassen, hör auch fein auf! Du hast die Wüsten passierbar gemacht, du hast die Pflanzen zur Speisung hervorgebracht und fandest für die Geschöpfe ein Dankgebet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liessest Ströme regnen, nun halt inne; die trocknen Steppen machtest du durchschreitbar, Du liessest Kräuter spriessen uns zur Nahrung und hast den Deinen ihr Gebet erhöret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты вызвал дождь – так прекрати же его вовремя!  
 Ты сделал пустыни легкопроходимыми,  

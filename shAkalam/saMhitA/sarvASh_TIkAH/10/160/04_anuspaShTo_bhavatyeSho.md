@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नुस्पष्टो भवति एषो꣡ अस्य  
 यो꣡ अस्मै रेवा꣡न् न꣡ सुनो꣡ति सो꣡मम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मद्वि꣡षो हन्ति अ꣡नानुदिष्टः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 निः । अ॒र॒त्नौ । म॒घऽवा॑ । तम् । द॒धा॒ति॒ । ब्र॒ह्म॒ऽद्विषः॑ । ह॒न्ति॒ । अन॑नुऽदिष्टः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anuspaṣṭo* ← *anuspaṣṭaḥ* ← *anupaś* ← *√paś*
 - \[verb noun\], nominative, singular
@@ -125,14 +125,14 @@ genre M
 **अस्य** यजमानस्य **एषः** इन्द्रः **अनुस्पष्टः** दृष्टिगोचरो भवति **वः** **रेवान्** धनवान् **अस्मै** इन्द्राय **सोमं** **सुनोति** अभिषुणोति । **मघवा** धनोपेत इन्द्रः **तं** यजमानम् **अरत्नौ** हस्ते **निः** **दधाति** भयान्निकृष्य धारयति रक्षिता सन् धृत्वा च **अननुदिष्टः** तेनानुक्तोऽप्रार्थित एव सन् **ब्रह्मद्विषः** ब्राह्मणद्वेष्टॄन् शत्रून्  **हन्ति** हिनस्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is mindful of him who, as a rich man, offers **Soma** to him; possessed of riches (**Indra**) holds him inhis **hand**, and unsolicited destroys (his enemies) who hate the **Brāhmaṇa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That one becomes spied out by him—the rich man who does not press  soma for him.  
 The bounteous one holds him out by the elbow [=at arm’s length?].  
@@ -140,23 +140,23 @@ The one without precedent [=Indra] smites the haters of sacred
 formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He looks with Ioving favour on the mortal who, like a rich man, pours for him the Soma.  
      Maghavan in his bended arm supports him: he slays, unasked, the men who hate devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wird von ihm bemerkt, der Reiche, der ihm nicht Soma auspreßt. Den holt sich der Gabenreiche am Ellbogen heraus; er erschlägt die Feinde des heiligen Wortes unaufgefordert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es wird erspäht von ihm ein jeder, welcher, obwol er reich ist, ihm nicht Soma keltert, Der starke holt heraus aus dem Versteck ihn, schlägt ungebeten jeden, der Gebet hasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приметным для него становится тот  
 Богатый, кто не выжимает ему сому.  

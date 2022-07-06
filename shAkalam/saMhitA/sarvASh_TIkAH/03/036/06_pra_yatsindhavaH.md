@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ य꣡त् सि꣡न्धवः प्रसवं꣡ य꣡था꣡यन्न्  
 आ꣡पः समुद्रं꣡ रथि꣡येव जग्मुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् ईं सो꣡मः पृण꣡ति दुग्धो꣡ अंशुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अतः॑ । चि॒त् । इन्द्रः॑ । सद॑सः । वरी॑यान् । यत् । ई॒म् । सोमः॑ । पृ॒णति॑ । दु॒ग्धः । अं॒शुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 सिन्धवो नद्यो यथा प्रसवम् । प्रकर्षेण सूयत इति प्रसवः कामः । तमनुसृत्य यद्यदा प्रायन् प्रकृष्टमतिदूरं समुद्रं गच्छन्ति तदापो महान्तं समुद्रं रथ्येव रथिन इव जग्मुः । प्रीणनार्थं गच्छन्ति । तद्वत् अतश्चित्सदसोऽस्मादप्यन्तरिक्षादसाविन्द्रो वरीयान् । उरुतरः खलु । यदीं यमेनमिन्द्रं दुद्ग्धोऽभिषुतोऽंशुर्लताखण्दरूपोऽल्पः सोमः पृणति प्रीणयति । यथाल्पा नद्योऽल्पीयांसि च जलानि महान्तं समुद्रं प्रीणयन्ति तद्वदल्पतरोंऽशुभुतः सोमो वरीयांसमिन्द्रं प्रीणयति ॥ प्रसवम् । सवतेः कर्मण्यप् । थाथादिस्वरः । आयन् । अयतेर्लङि रुपम् । यद्योगादनिघातः । रध्येव । रथेस्येमे रथ्याः । रथाद्यदिति यत् । सुपां सुलुगिति सुपो डादेशः । तित्स्वरितः । इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरः । जग्मुः । गमेर्लिटि रूपम् । गमहनेत्यादिनोपधालोपः । निघातः । वरीयान् उरुशब्दादीयसुनि प्रियस्थिरेत्यादिना वरादेशः । नित्त्वादाद्युदात्तः । पृणति । पृण प्रीणने । तुदादिः । यद्योगादनिघातः । दुग्धः । दुहेः क्तः । एकाच इतीट् प्रतिशेधः । दादेर्धातोर्घ इति हकारस्य घत्वम् । झषस्तथोर्धोऽधः । प्रत्ययस्वरः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ genre M
 The comparison: as small rivers and scanty waters contribute to the vast ocean, so the **Soma**, however insignificant, contributes to the gratification of the great Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the rivers set forth like a shot, their waters went to the sea like  (two) charioteers.  
 But Indra is wider even than that seat [=sea], when soma, the milked  plant, fills him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On prasaváṃ yáthā see disc. of dravád yáthā ad III.35.2. In b the problem is the simile rathyèva -- more precisely what the nominal in that sequence represents. The Pp. resolves it, not surprisingly, as rathyā̀. Grassmann takes this as an instr. to rathī́- ‘charioteer’; Geldner also takes it as an instr. but to a stem rathyā̀- ‘Fahrstrasse’ (see Oldenberg, ZDMG 61 [1907] 831-32 = Kl.Sch.262-63). Oldenberg himself (so apparently also Renou) favors a nom. pl. rathyàḥ with double application of sandhi. This is possible (see similar possible situation in III.35.3), but I wonder if it does not reflect the du. rathyā̀it appears to be. This hemistich reads like a brief reprise of Viśvāmitra and the rivers (III.33). For one thing, the past tenses (impf. áyan a, pf.
 
@@ -165,23 +165,23 @@ The next three vss. ring changes on the theme of large bodies of water and large
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As floods according to their stream flow onward, so to the sea, as borne on cars, the waters.  
      Vaster is Indra even than his dwelling, what time the stalk milked out, the Soma, fills him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Ströme sich gleichsam in Galopp setzten, da kamen die Wasser zum Meere wie auf einer Fahrstraße. Noch breiter als dieser Sitz ist Indra, wenn ihn der Soma, der ausgemolkene Stengel anfüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als wie zum Sturze vor die Ströme eilten, so rollten Rädern gleich zum Meer die Wasser; Und dann wird Indra breiter als sein Sitz noch, wenn ihn der Soma, der gemelkte Saft füllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда реки, словно по побуждению, двинулись вперед,  
 Воды устремились в океан, будто (погоняемые) колесничим.  

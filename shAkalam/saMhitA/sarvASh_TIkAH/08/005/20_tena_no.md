@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡न नो वाजिनीवसू  
 प꣡श्वे तोका꣡य शं꣡ ग꣡वे  
 व꣡हतम् पी꣡वरीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वह॑तम् । पीव॑रीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वाजिनीवसू** । वाजोऽन्नं बलं वा । तद्युक्तधनौ **नः** अस्माकं **पश्वे** पशवे अश्वादिलक्षणाय । ‘जसादिषु छन्दसि वावचनम्' इति धेर्ङिति' इति गुणस्य विकल्पितत्वाद्यण् ॥ **तोकाय** पुत्राय **गवे** च । जात्यभिप्रायं सर्वत्रैकवचनम्। पशुप्रभृतिभ्यः **शं** सुखं यथा भवति तथा **पीवरीः** प्रवृद्धान् **इषः** अन्नानि **तेन** भवदीयेन रथेन **वहतम्** आवहतं प्रापयतम् । दत्तमित्यर्थः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Affluent in oblations, bring to us with that (chariot) abundant food, so that there may be prosperity inhorses, progeny, and cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you rich in prizewinning mares, with it bring weal for our livestock,  our offspring, and our cow,  
 and refreshments rich in fat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of téna ‘with it’ is not clear. Although the verse sequence might suggest the skin-bag of vs. 19, the chariot makes more sense, and in 30a, where pāda a is repeated, it does seem to refer to the chariot or parts thereof.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For this, ye Lords of ample wealth, bring blessing for our herd, our kine,  
      Our progeny, and plenteous food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem bringet, o Gewinnreiche, unserem Vieh und Nachwuchs und dem Rind Wohlsein und fette Labung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dem, o güterreiche, bringt, zum Heil für Kinder, Vieh und Rind Uns fette Labetränke her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В нем, о богатые наградами, привезите нам  
 Благополучие для скота, потомства, быка  

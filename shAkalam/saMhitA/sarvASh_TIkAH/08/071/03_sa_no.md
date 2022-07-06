@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वि꣡श्वेभिर् देवे꣡भिर्  
 ऊ꣡र्जो नपाद् भ꣡द्रशोचे  
 रयिं꣡ देहि विश्व꣡वारम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 र॒यिम् । दे॒हि॒ । वि॒श्वऽवा॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -96,7 +96,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अग्ने **सः** स्तुत्यस्त्वं **नः** अस्मभ्यं वस्वो वसु धनमुप मासि प्रयच्छसि । हे **ऊर्जो** **नपात्** बलस्य नप्तर्न पातयितर्वा हे **भद्रशोचे** स्तुत्यप्रकाश । तदेवादरार्थं पुनराह। **रयिं** धनं **विश्ववारं** सर्वैर्वरणीयं धनं **देहि** । अथवा यद्वसूप मासि अस्मभ्यं दातुं तद्धनं गृहादिलक्षणं तच्च रयिं दानार्हं गोहिरण्यादिकं च देहीत्यपुनरुक्तिः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,33 +107,33 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Withall the gods: sa no vasva upamāsi = sa no viśvebhir devebhiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O child of nourishment, of fortunate flame, along with all the gods give us wealth consisting of all desirable things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, with all the Gods, O Son of Strength, auspicious in thy flame.  
      Give us wealth bringing all things good.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May your propitious coursers whirl your chariot Toward us at the dawn now flushing on us. Bring it, by traces drawn and fraught with riches, Hither with horses yoked by Order, Aśvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib du mit allen Göttern uns allbegehrten Reichtum, du schönflammendes Kind der Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darum gib mit allen Göttern, Sohn der Kraft, der hell du funkelst, Reichthum uns mit allen Schätzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

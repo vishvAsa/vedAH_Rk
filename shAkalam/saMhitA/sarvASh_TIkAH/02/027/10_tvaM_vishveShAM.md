@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ वि꣡श्वेषां वरुणासि रा꣡जा  
 ये꣡ च देवा꣡ असुर ये꣡ च म꣡र्ताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अश्या꣡मा꣡यूंषि सु꣡धितानि पू꣡र्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श॒तम् । नः॒ । रा॒स्व॒ । श॒रदः॑ । वि॒ऽचक्षे॑ । अ॒श्याम॑ । आयूं॑षि । सुधि॑तानि । पूर्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -130,7 +130,7 @@ genre M
 हेअसुर शत्रूणाङ्क्षेपकवरुण त्वंविश्वेषांसर्वेषांराजासि केषां येचदेवाःदेवजनाः येचमर्तामरणधर्मा- णोमनुष्याः तेषामित्यर्थः अतस्त्वन्नोस्मभ्यंशतंशरदः शतसङ्ख्याकान्संवत्सरान् विचक्षे विशेषेणदर्श- नायरास्वप्रयच्छ रादाने व्यत्ययेनात्मनेपदम् वयञ्चपूर्वापूर्वैः सुधितानिसुष्ठुहितानिशतसंवत्सरलक्ष- णान्यायूंषिअश्याम व्याप्नुयाम सुधितवसुधितनेमधितधिष्वधिषीयचेतिनिपात्यते गतिरनन्तरइति- गतेः प्रकृतिस्वरत्वम् सुपांसुलुगितितृतीयायाडादेशः ॥ १० ॥ आदित्यदेवताकेपशौनदक्षिणेत्येषाहविषोयाज्या सूत्रितञ्च—तिस्रोभूमीर्धारयन् त्रीँरुतद्यून्न- दक्षिणाविचिकितेनसव्येति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,33 +141,33 @@ genre M
 The text has **pūrvā**, prior, former; explained as: pūrvair devaiḥ, by the former gods or divine sages
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the king of all, Varuṇa, both gods and mortals, o lord. Give us a hundred autumns to gaze far. We would reach the secure  lifetimes of former times.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou over all, O Varuna, art Sovran, be they Gods, Asura! or be they mortals.  
      Grant unto us to see a hundred autumns ours be the blest long lives of our forefathers.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thou art, O Varuṇa, of all the sovereign, Both of the gods, O Asura, and mortals. To us vouchsafe to see a hundred autumns: May we attain to lives prolonged and happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Varuna, bist König über alle, über die Götter, o Asura, und die Sterblichen. Gewähre uns hundert Herbste zu schauen ! Wir möchten die früheren wohlgesetzten Lebensalter erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Varuna, du bist der König aller, o himmlischer, der Götter und der Menschen, O lass uns hundert Herbste noch erschauen, und uns erreichen hohes sel'ges Alter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты Варуна – царь для всех,  
 И для тех, кто боги, о Асура, и для тех, кто смертные.  

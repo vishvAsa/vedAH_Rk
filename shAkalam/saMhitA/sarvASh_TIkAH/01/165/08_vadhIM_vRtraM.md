@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡धीं वृत्र꣡म् मरुत इन्द्रिये꣡ण  
 स्वे꣡न भा꣡मेन तविषो꣡ बभूवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुगा꣡ अप꣡श् चकर व꣡ज्रबाहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । ए॒ताः । मन॑वे । वि॒श्वऽच॑न्द्राः । सु॒ऽगाः । अ॒पः । च॒क॒र॒ । वज्र॑ऽबाहुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vadhīṃ* ← *vadhīm* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
@@ -131,20 +131,20 @@ genre M
 इदानीम् इन्द्रः आह । हे **मरुतः** **अहम्** इन्द्रः **इन्द्रियेण** **स्वेन** **भामेन** कोपेन **तविषः** बलवान् **बभूवान्** भूतः संपन्नः । कस्मै कमिति तदुच्यते । **मनवे** मनोरर्थाय **एताः** **विश्वश्चन्द्राः** सर्वाह्लादकाः **सुगाः** सुगमनाः सर्वत्र नद्यादिषु गमनशीलाः **अपः** वृष्ट्युदकानि **चकर** चकार कृतवानस्मि । यतोऽहं **वज्रबाहुः** । अनेन सहायनैरपेक्ष्यमुक्तं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**): By my own prowess, **Maruts**, I, mighty in my wrath, slew **Vṛtra**; armed with my thunderbolt, I created all these pellucid genitive ly-flowing waters for (the good of) man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] O Maruts, I smashed Vr̥tra with my Indrian strength, having  become mighty through my own rage.  
 Bearing my mace in my arms, I made these all-gleaming waters go easily  to Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Injunctive 1st sg. vádhīm belongs to the root aor. stem of this seṭ root, whose well-attested 2nd and 3rd sg. are (á)vadhīs, (á)vadhīt. The 1st sg. should be *vadham, which is nowhere attested. The -ī- has simply been imported from the 2nd/3rd sg.; vádhīm is attested once elsewhere in the RV, in the late hymn X.28.7.
 
@@ -155,23 +155,23 @@ Pāda-final viśváścandrāḥ produces an irregular cadence of four heavy syll
 The same problem afflicts the other cmpds of -ścandra- (áśva-, svá-, hári- and puru-, su-), which either show up in metrically indifferent positions or positions in which a light 2nd syllable would be favored (besides Triṣṭubh cadence, also right after an opening of 4, where a break ̆- - is distinctly bad). There are no forms where the meter is improved by reading -ścandra-. Although the obvious solution is simply to read *-candra-, I am puzzled as to how the -ścandra- forms won out. The duplicate pair ścandrá- / candrá- are for the most part in complementary distribution, with candrá- an independent adj. and 1st cmpd member and ścandrá- 2nd cmpd member (after vowel); ścandrá- appears 3x uncompounded, but in these cases it is in a sequence that functions like a quasi-cmpd (purú ścandrám III.31.15, pṛthú ścandrám IV.2.13, and possibly ádhi ścandrám VIII.65.11). So viśvá-ścandra- has the expected alternant, though in almost all cases a metrically unfavorable one. Must we reckon with a replacement of the originally correct -ścandra- by *-candra-, yielding a metrically usable form, and then redactional restoration of the -ścandra-? This hypothesis seems over-complex, but I don’t have a better one. In any case the poet seems to be toying with the form: the next pāda (8d) contains the offending sequence śc, though split across a word boundary (apáś cakara), and in 12c a candrá- compd., candrá-varṇā(ḥ) occupies the same pāda-final slot. Its initial also participates in the śc sequence: marutaś candrá-, so that the first member is effectively *ścandrá-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vrtra I slew by mine own strength, O Maruts, having waxed mighty in mine indignation.  
      I with the thunder in my hand created for man these lucid softly flowing waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich erschlug den Vritra, ihr Marut, mit der Indrakraft, durch meinen eigenen Grimm stark geworden. Ich habe diese allschimmernden Gewässer für Manu wegsam gemacht mit der Keule im Arm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Den Vritra schlug mit Indrakraft ich, Maruts, durch eignen Grimm bin ich so stark geworden; Ich war's, der den allglänzenden Gewässern, den Blitz im Arm, zum Menschen freie Bahn brach.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я убил Вритру, о Маруты, благодаря мощи Индры,  
 Став сильным от своей ярости.  

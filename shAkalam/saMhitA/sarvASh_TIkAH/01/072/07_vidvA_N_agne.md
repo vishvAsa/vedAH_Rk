@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्वाँ꣡ अग्ने वयु꣡नानि क्षितीनां꣡  
 वि꣡ आनुष꣡क् छुरु꣡धो जीव꣡से धाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡तन्द्रो दूतो꣡ अभवो हविर्वा꣡ट्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न्तः॒ऽवि॒द्वान् । अध्व॑नः । दे॒व॒ऽयाना॑न् । अत॑न्द्रः । दू॒तः । अ॒भ॒वः॒ । ह॒विः॒ऽवाट् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
@@ -141,49 +141,49 @@ genre M
 **शुरुधः** । शुचम् । रुन्धन्तीति शुरुधः । क्विप्चेति क्विप् । पूर्वपदस्यान्त्यलोपः । पृषोदरादित्वात् ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are cognizant of all things to be known, ever provide for the subsistence of men, grief-alleviating (food); so shall you be the diligent bearer of oblations, and messenger of the gods, knowing the paths between (earth and heaven), by which they travel.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Knowing the patterns of the settled peoples, o Agni, distribute  
 proliferating riches in proper order (for them) to live.  
 Inwardly knowing the roads leading to the gods, you have become the  tireless messenger carrying the oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of “for them” in the tr. of b is the “settled peoples” of a.
 
 On the possible relationship between the ádhvanaḥ here and the padā́of 6b, see disc. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, knower of men's works, hast sent us good food in constant course for our subsistence:  
      Thou deeply skilled in paths of Gods becamest an envoy never wearied, offering-bearer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Knowing, O Agni, the established orders 1 of (human) dwellings, distribute in due order gifts 2 that they may live. Knowing the ways which the gods go 3, thou hast become the unwearied messenger, the bearer of oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, Der du die Wege der Völker kennst, teile die Gaben der Reihe nach aus zum Leben! Du wardst der unermüdliche Bote, der Opferfahrer, der die von Göttern begangenen Pfade herauskennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, Agni, du der Menschen Werke kennest, gib nacheinander Tränke uns zum Leben; Der Wege kundig, die die Götter wandern, warst unermüdet Bote du und Opfrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, знающий границы (людских) поселений,  
 Даруй по очереди подкрепления, чтобы (люди) жили!  

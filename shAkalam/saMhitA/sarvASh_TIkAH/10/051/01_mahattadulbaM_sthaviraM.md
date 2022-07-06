@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡त् त꣡द् उ꣡ल्बं स्थ꣡विरं त꣡द् आसीद्  
 ये꣡ना꣡विष्टितः प्रविवे꣡शिथापः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जा꣡तवेदस् तनु꣡वो देव꣡ ए꣡कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विश्वाः॑ । अ॒प॒श्य॒त् । ब॒हु॒धा । ते॒ । अ॒ग्ने॒ । जात॑ऽवेदः । त॒न्वः॑ । दे॒वः । एकः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahat*
 - \[noun\], nominative, singular, neuter
@@ -131,7 +131,7 @@ popular
 **तदुल्बं** वक्ष्यमाणं तत् प्रावरणं **महत्** **स्थविरम्** अत्यन्तं स्थूलं च **तत्** तत् **आसीत्** येन उल्बेन **आविष्टितः** आवेष्टितः सन् हे अग्ने **प्रविवेशिथापः** उदकानि प्रविष्टवानसि । हे **अग्ने** **जातवेदः** जातप्रज्ञ **ते** **विश्वाः** सर्वाः **तन्वः** तनूः सर्वांण्यङ्गानि **बहुधा** बहुप्रकारम् **एकः** देवः **अपश्यत्** दृष्टवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ popular
 **Taittirīya** **Saṃhitā** 2.6.6: Agnihad three elder brothers, who were killed by the **Vaṣaṭkāra** (utterance of **vaṣaṭ**!) in the form of a thunderbolt,and by Havirvāhana (conveyance of oblations to the gods), the oblation bearer of the gods. Agni **Śaucika**,afraid of sharing the fate of his elder brothers, fled and his himself in the deep water. The fishes betrayed hisretreat to the gods who were searching for him, and upon this discovery the dialogue recorded in this and thefollowing two **sūktas** is supposed to have occurred
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gods:] Great was that caul and sturdy it was, enveloped in which you  entered the waters.  
 All your bodies in their multiple forms, o Agni Jātavedas, did a single  god see.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LARGE was that covering, and firm of texture, folded wherein thou enteredst the waters.  
      One Deity alone, O Jatavedas Agni, saw all thy forms in sundry places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß, stark war jene Haut, in die eingehüllt du ins Wasser eingegangen bist. Ein Gott erschaute vielfach alle deine Leiber, o Agni Jatavedas:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross ist und dicht der Balg, mit dem umkleidet du in das Wasser bist entflohn, o Agni; Doch ist ein Gott, der alle deine Glieder, o Wesenkenner, hier und dort gesehn hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощной, крепкой была то оболочка,  
 Окутанный которой, ты проник в воды.  

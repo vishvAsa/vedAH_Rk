@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वां꣡ दूत꣡म् अग्ने अमृ꣡तं युगे꣡-युगे  
 हव्यवा꣡हं दधिरे पायु꣡म् ई꣡डियम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विभुं꣡ विश्प꣡तिं न꣡मसा नि꣡ षेदिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दे॒वासः॑ । च॒ । मर्ता॑सः । च॒ । जागृ॑विम् । वि॒ऽभुम् । वि॒श्पति॑म् । नम॑सा । नि । से॒दि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -128,37 +128,37 @@ genre M
 हे **अग्ने** **त्वां** **देवासः** देवाः **च** **मर्तासः** मनुष्याः **च** **दूतं** **दधिरे** विदधिरे कृतवन्तः । कीदृशं त्वाम् । **अमृतम्** अमरणं 'युगेयुगे काले काले तत्तद्यागानुष्ठानसमये **हव्यवाहं** हव्यानां हविषां वोढारं **पायुं** पालयितारम् **ईड्यं** स्तुत्यम् । अपि च त उभयविधा **जागृविं** जागरणशीलं **विभुं** व्याप्तं **विश्पतिं** विशां प्रजानां पालयितारं तमग्निं **नमसा** नमस्कारेण हविर्लक्षणान्नेन वा **नि** **षेदिरे** उपसेदिरे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, have gods and men in every age retained as their messenger, immortal bearer of oblations, beneficent, adorable; they have plural ced him with reverence (upon the altar), vigilant, pervading, the protector of mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, have they established in every generation as immortal  messenger, as oblation-conveyor, as protector to be reverently invoked.  
 
 Both gods and mortals set down with homage the wakeful one as their  far-extending clanlord.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men, Agni, in each age have made thee, Deathiess One, their envoy, offering-bearer, guard adorable.  
      With reverence Gods and mortals have established thee, the ever-watchful, omnipresent Household Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Unsterblichen, o Agni, machten sie in jedem Zeitalter zum Boten, zum Opferfahrer, den anzurufenden Schützer. Götter und Sterbliche setzten den Wachsamen als ihren mächtigen Stammesfürsten unter Verbeugung ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Boten setzten, Agni, dich unsterblichen, als Opferfahrer, werthen Hüter, allezeit Die Götter und die Menschen ein, den wachenden, den starken Fürsten setzten hin sie ehrfurchtsvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, бессмертного, о Агни, они поставили вестником,  
 Отвозящим жертвы из поколения в поколение, защитником, достойным призывов.  

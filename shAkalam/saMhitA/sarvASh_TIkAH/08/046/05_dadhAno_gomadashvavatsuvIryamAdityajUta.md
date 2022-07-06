@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡धानो गो꣡मद् अ꣡श्ववत्  
 सुवी꣡रियम् आदित्य꣡जूत एधते  
 स꣡दा राया꣡ पुरुस्पृ꣡हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सदा॑ । रा॒या । पु॒रु॒ऽस्पृहा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhāno* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
@@ -85,36 +85,36 @@ genre M
 **आदित्यजूतः** आदित्यप्रेरित आदित्यानुगृहीतो यजमानः **गोमत्** गोभिरुपेतम् **अश्ववत्** अश्वैरुपेतं **सुवीर्यं** शोभनवीर्योपेतं पुत्रं **दधानः** धारयन् **एधते** वर्धते **सदा** सर्वदा । किंच **पुरुस्पृहा** बहुभिः स्पृहणीयेन **राया** धनेन सदैधते ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is directed by **Āditya** ever increases, possessing abundance of kine and horses and vigorouschildren; he increases in wealth longed for by many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Acquiring (wealth) in cows and horses and an abundance of heroes,  impelled by the Ādityas, he flares up  
 with much craved wealth always.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kine, steeds, and hero strength he gains, and prospers, by the Adityas sped,  
      Ever in wealth which all desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinder- und Rossebesitz, die Meisterschaft erlangend nimmt er von den Aditya´s gefördert allezeit an vielbeneidetem Reichtum zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besitz an Rind und Ross und Heldenreichthum empfangend, gedeiht er stets an vielbegehrtem Gut, von den Aditja's begünstigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Получая владение коровами, владение конями,  
 Богатство из прекрасных мужей, он всегда процветает  

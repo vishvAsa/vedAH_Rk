@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुगु꣡र् असत् सुहिरण्यः꣡ सुअ꣡श्वो  
 बृह꣡द् अस्मै व꣡य इ꣡न्द्रो दधाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मुक्षी꣡जयेव प꣡दिम् उत्सिना꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । त्वा॒ । आ॒ऽयन्त॑म् । वसु॑ना । प्रा॒तः॒ऽइ॒त्वः॒ । मु॒क्षीज॑याऽइव । पदि॑म् । उ॒त्ऽसि॒नाति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sugur* ← *suguḥ* ← *sugu*
 - \[noun\], nominative, singular, masculine
@@ -117,20 +117,20 @@ genre M
 अत्र कक्षीवतः पिता आनीतेन धनेन संतुष्टः राजानं बहुप्रकारेण आशास्ते । असौ स्वनयो राजा **सुगुः** **असत्** । शोभनैर्बहुभिर्गोभिस्तद्वान् भवतु । तथा **सुहिरण्यः** सुष्ठु हितरमणीयैर्धनैस्तद्वान् भवतु । तथा **स्वश्वः** शोभनैरश्वैस्तद्वान् सन् । **अस्मै** राज्ञे प्रदात्रे **बृहत्** प्रभूतं **वयः** अन्नम् **इन्द्रः** परमेश्वरो धर्मदेवता **दधाति** दधातु ददातु । यतः अयं राजा अस्मै गोहिरण्याश्वान्नानि बहुसंख्याकानि दत्तवान् अतस्तेषामभिवृद्धिप्रार्थना उचितैव । कस्यैवमाशीरिति स उच्यते । **यः** यो राजा **प्रातरित्वः** प्रातरागामिन्नतिथे पुत्र **आयन्तं** गुरुकुलात् आगतं  **पदिं** पथिकं यदृच्छया गन्तारं **त्वा** त्वां **वसुना** अन्नसाधनेन गवादिधनेन **उत्सिनाति** गमनतः उत्कृष्टं बध्नाति गतिं निरुणद्धीत्यर्थः । प्रतिबन्धे दृष्टान्तः उच्यते । **मुक्षीजयेव** **पदिम्** । मुच्यमाना सती बन्धनं जनयतीति मुक्षीजा मृगपक्ष्यादिबन्धनी रज्जुः । तया पाशको यथा पदिं गन्तारं मृगपक्ष्यादिकम् उत्सिनाति बध्नाति तथा मयाननुज्ञातमपि त्वां गमनं प्रतिबध्य गवादीष्टदानादिना यो राजा तोषयति स एवं भवत्विति । पदिरिति पदं व्याचक्षणेन यास्केन तदुदाहरणमयं मन्त्रः व्याख्यातः  ‘ सुगुर्भवति ततनाच्च' ( निरु. ५, १९ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he (the **Rājā**) be rich in kine, in gold, in horses; may **Indra** grant abundant food to him who delays you, returning home in the early morning, by costly gifts, as (a hunter arrests the) wandering (animals) by his snares.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [The host:] “He will have good cows, good gold, good horses—for him  Indra establishes lofty vigor—  
 he who, o early-comer, binds you up like a pard [?] with a thong [?], when  you come hither with goods.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first three pādas of this verse are in the standard high Rigvedic register and present the unsurprising themes of prosperity and reciprocity, but the fourth pāda violently wrenches the verse in an unexpected direction. The placidly happy relationship between host and guest depicted in vss. 1 and 2abc takes a sinister and coercive turn, but what precisely that turn consists of is partly obscured by the fact that pāda d contains two hapaxes (mukṣī́jā- and pádi-) and a very rare lexeme (úd √sā/si, otherwise only AV VI.112.2-3). What is clear is that the host derives great benefit from the visit of the early-coming one if he forces him to stay -- “ties him up” in fact.
 
@@ -145,23 +145,23 @@ My interpr. of pádi- rests on even less evidence. I suggest, very tentatively, 
 Avestan, suggests that it was known to Vedic speakers), and the desire to make the pun would have led K. to use an otherwise obscure word for wild animal here. Given the discrepancy in morphology (no forms of the shape *pṛdi- are attested in any relevant language) and the chronological gap, this gossamer hypothesis probably should be discarded -- but there is nothing stronger to take its place (and it gave me the opportunity to use the English word ‘pard’).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich shall he be in gold and kine and horses. Indra bestows on him great vital power,  
      Who stays thee, as thou comest, with his treasure, like game caught in the net, O early comer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Reiche: "Schöne Rinder, schönes Gold, schöne Rosse soll er besitzen; hohe Manneskraft verleiht Indra dem, der dich, wenn du mit Schätzen ankommst, o Morgengast, wie den Vogel in der Schlinge einfängt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schöne Rinder und Rosse, schönes Gold wird dem zu Theil, und grosse Lebenskraft schenkt Indra dem, welcher, o früh kommender, einen solchen, wie du bist, durch Güter fängt, wie das laufende Wild in der Schlinge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У него должны быть прекрасные коровы, прекрасное золото, прекрасные кони,  
 Индра дает ему большую телесную силу –  

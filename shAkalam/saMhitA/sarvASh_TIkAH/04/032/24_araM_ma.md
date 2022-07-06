@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रम् म उस्र꣡यामणे  
 अ꣡रम् अ꣡नुस्रयामणे  
 बभ्रू꣡ या꣡मेषु अस्रि꣡धा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ब॒भ्रू इति॑ । यामे॑षु । अ॒स्रिधा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aram*
 - \[adverb\]
@@ -81,34 +81,34 @@ genre M
 हे इन्द्र **अस्रिधा** अस्रिधावहिंसकौ **बभ्रू** बभ्रुवर्णौ त्वदीयावश्वौ **यामेषु** गमनेषु प्राप्तेषु सत्सु **उस्रयाम्णे** । उस्राभ्यामनडुद्भ्यां युक्तेन रथेन यातीत्युस्रयामा । तस्मै **मे** मह्यम् **अरम्** अलं पर्याप्तकारिणौ भवताम् । अनुस्रयाम्णे पद्भ्यामेव गच्छते मह्यम् **अरं** पर्याप्तकारिणौ भवताम् ॥ ॥ ३० ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your two innocuous brown (steeds) are sufficient at sacrifices for me, whether going (to them) in (a wagon drawn by) oxen, or going without (such) a conveyance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ready for me when I travel at dawn, ready (for me) when I don’t, the two brown ones don’t falter on their travels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For me the Bays are ready when I start, or start not, with the dawn, Innocuous in the ways they take.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bereit sind sie beide für mich, wenn ich früh ausfahre, bereit, wenn ich spät ausfahre, die beiden Braunen, die auf den Ausfahrten keinen Unfall erleiden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn früh ich reise, sind bereit, wenn spät ich reise, mir zur Hand Die Braunen, heilsam auf der Fahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Готова для меня, выезжающего рано,  
 Готова (для меня), выезжающего поздно,  

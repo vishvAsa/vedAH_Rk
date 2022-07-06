@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रभङ्गी꣡ शू꣡रो मघ꣡वा तुवी꣡मघः  
 स꣡म्मिश्लो विरि꣡याय क꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 नि꣡ या꣡ व꣡ज्रम् मिमिक्ष꣡तुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । ते॒ । बा॒हू इति॑ । वृष॑णा । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो । नि । या । वज्र॑म् । मि॒मि॒क्षतुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prabhaṅgī* ← *prabhaṅgin*
 - \[noun\], nominative, singular, masculine
@@ -105,7 +105,7 @@ genre M
 अयं **मघवा** इन्द्रः **प्रभङ्गी** प्रभञ्जनशीलः **शूरः** **तुवीमघः** प्रभूतधनः **संमिश्लः** सम्यक् मिश्रयिता । किमर्थम् । **वीर्याय** शत्रूणां वीर्यकरणाय । **कम्** इति पादपूरणः । एवंमहानुभावो भवति । अथ प्रत्यक्षवादः । हे इन्द्र **ते** **उभा** उभावपि **बाहू** **वृषणा** वर्षकौ कामानां हे **शतक्रतो** बहुप्रज्ञ **या** यौ **वज्रम्** आयुधं **नि** **मिमिक्षतुः** परिगृह्णीतः ॥ ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ genre M
 Conductor to victory:sammiślo vīryāya = samyak miśrayitā śatrūṇām vīryakaraṇāya = bringing us into successful collisionwith our enemies; i.e., minging, or associated, with us to display his might
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shattering champion, bounteous patron of powerful bounty, equipped  for heroic action—  
 o you of a hundred resolves, both your arms are bulls, which hold fast  to the mace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A crushing Warrior, passing rich is Maghavan, endowed with all heroic might.  
      Thine arms, O Satakratu, are exceeding strong, arms which have grasped the thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerschmetternd, tapfer, freigebig, gabenreich ist er, zur Heldentat gewappnet. Deine beiden Arme sind bullenhaft, die die Keule festhalten, Ratreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der stark du bist, ein Held zerschmetternd, reich an Macht, verbündet uns zur Heldenthat, Vielwirkender, gewaltig sind die Arme dir, die niederschleuderten den Blitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Герой-проломитель, щедрый (бог) с мощными дарами,  
 Связанный с геройским подвигом:  

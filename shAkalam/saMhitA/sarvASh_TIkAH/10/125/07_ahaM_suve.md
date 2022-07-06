@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ सुवे पित꣡रम् अस्य मूर्ध꣡न्  
 म꣡म यो꣡निर् अप्सु꣡ अन्तः꣡ समुद्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उता꣡मूं꣡ द्यां꣡ वर्ष्म꣡णो꣡प स्पृशामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ततः॑ । वि । ति॒ष्ठे॒ । भुव॑ना । अनु॑ । विश्वा॑ । उ॒त । अ॒मूम् । द्याम् । व॒र्ष्मणा॑ । उप॑ । स्पृ॒शा॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -137,37 +137,37 @@ popular
 ' द्यौः पिता' ( तै. ब्रा. ३.७.५.४) इति श्रुतेः पिता द्यौः । **पितरं** दिवम् **अहं** **सुवे** प्रसुवे जनयामि। ‘आत्मन आकाशः संभूतः ' (तै. आ. ८. १) इति श्रुतेः । कुत्रेति तदाह। **अस्य** परमात्मनः **मूर्धन्** मूर्धन्युपरि । कारणभूते तस्मिन् हि वियदादिकार्यजातं सर्वं वर्तते तन्तुषु पट इव। **मम** च **योनिः** कारणं **समुद्रे** । समुद्भवन्त्यस्माद्भूतजातानीति समुद्रः परमात्मा । तस्मिन् **अप्सु** व्यापनशीलासु धीवृत्तिषु **अन्तः** मध्ये यद्ब्रह्म चैतन्यं तन्मम कारणमित्यर्थः । यत ईदृग्भूता अहमस्मि **ततः** हेतोः **विश्वा** विश्वानि सर्वाणि भुवनानि भूतजातानि **अनु** प्रविश्य **वि** **तिष्ठे**। विविधं व्याप्य तिष्ठामि ॥ ' समवप्रविभ्यः स्थः' ( पा. सू. १.३.२२) इत्यात्मनेपदम् ॥ **उत** अपि च **अमूं** **द्यां** विप्रकृष्टदेशेऽवस्थितं स्वर्गलोकम् । उपलक्षणमेतत् । एतदुपलक्षितं कृत्स्नं विकारजातं **वर्ष्मणा** कारणभूतेन मायात्मकेन मदीयेन देहेन **उप** स्पृशामि। यद्वा । अस्य भूलोकस्य मूर्धन् मुर्धन्युपर्यहं पितरमाकाशं सुवे। समुदे जलधावप्सूदकेष्वन्तर्मध्ये मम योनिः कारणभूतोऽम्भृणाख्य ऋषिर्वर्तते । यद्वा । समुद्रेऽन्तरिक्षेऽप्स्वम्मयेषु देवशरीरेषु मम कारणभूतं ब्रह्म चैतन्यं वर्तते । ततोऽहं कारणात्मिका सती सर्वांणि भुवनानि व्याप्नोमि । अन्यत्समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I bring forth the paternal (heaven) upon the brow of this (Supreme Being), my birthplace is in the midstof the waters; from thence I spread through all beings, and touch this heaven with my body.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I give birth to Father (Heaven?) on his (own?) head [=Agni?]; my womb  is in the waters, in the sea.  
 Thence I spread forth across all worlds, and yonder heaven with its  
 height I touch.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On the world's summit I bring forth the Father: my home is in the waters, in the ocean.  
      Thence I extend o'er all existing creatures, and touch even yonder heaven with my forehead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gebäre den Vater im Haupte dieser Welt; mein Ursprung ist im Wasser, im Meere. Von da verbreite ich mich über alle Welten und rühre mit dem Scheitel an den Himmel dort.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich zeug' des Weltalls Vater in der Höhe, mein Sitz ist in den Wassern, in dem Meere, Von da verbreit' ich mich in alle Wesen, berühr' mit meinem Scheitel dort den Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я рождаю отца на вершине этого (мира)  
 Мое лоно в водах, в океане.  

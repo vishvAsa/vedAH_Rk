@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते सा꣡धिष्ठो अ꣡वस  
 इ꣡न्द्र क्र꣡तुष् ट꣡म् आ꣡ भर  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡स्निं वा꣡जेषु दुष्ट꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । च॒र्ष॒णि॒ऽसह॑म् । सस्नि॑म् । वाजे॑षु । दु॒स्तर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -103,36 +103,36 @@ genre M
 हे **इन्द्र** **ते** तव **यः** **साधिष्ठः** अतिशयेन साधकः **क्रतुः** उक्तलक्षणं कर्म प्रज्ञा वास्ति **तं** क्रतुं नः **अवसे** अस्मद्रक्षणाय **अस्मभ्यम्** **आ** **भर** आहर । कीदृशं तम् । **चर्षणीसहं** सर्वेषां मनुष्याणामभिभवितारं **सस्निं** संस्नातं शुद्धं **वाजेषु** संग्रामेषु **दुष्टरम्** अन्यैरनभिभाव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Perfect for our protection, **Indra**, that your act which is most effective, which is the subduer of men, holy, and difficult to be encountered in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your resolve to help that best brings success, Indra, bring that here— the resolve that conquers the territories for us, a winner difficult to  
 surpass in the (contests for) prizes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA, for our assistance bring that most effectual power of thine,  
      Which conquers men for us, and wins the spoil, invincible in fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine beste Absicht zu helfen ist, die bring mit für uns, die völkerbezwingende, gewinnende, in den Kämpfen unüberwindliche, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kraft, o Indra, bringe her, die uns am schnellsten fördern mag, Die menschenüberwindende, die Beute schafft, im Kampfe siegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твой замысел, который лучше всего достигает цели,  
 Чтобы помочь, – принеси его нам,  

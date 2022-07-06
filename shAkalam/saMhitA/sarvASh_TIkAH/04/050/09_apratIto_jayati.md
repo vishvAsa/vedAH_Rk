@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प्रतीतो जयति सं꣡ ध꣡नानि  
 प्र꣡तिजन्यानि उत꣡ या꣡ स꣡जन्या  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्म꣡णे रा꣡जा त꣡म् अवन्ति देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒व॒स्यवे॑ । यः । वरि॑वः । कृ॒णोति॑ । ब्र॒ह्मणे॑ । राजा॑ । तम् । अ॒व॒न्ति॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apratīto* ← *apratītaḥ* ← *apratīta*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 स एव **अप्रतीतः** अन्यैरप्रतिगतः सन् यानि धनानि **प्रतिजन्यानि** प्रतिस्पर्धिजनसंबन्धीनि **उत** अपि च **सजन्या** जनसंबन्धीनि **धनानि** **सं** **जयति**। **यः** **राजा** **अवस्यवे** अवसीयसे धनरहिताय रक्षणमिच्छते **ब्रह्मणे** ब्राह्मणाय वा प्रीणनमिच्छते बृहस्पतये वा **वरिवः** धनं **कृणोति** करोति ददाति । स उक्तप्रकारेण महान् भवति । **तम्** एव **देवाः** **अवन्ति** रक्षन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,13 +135,13 @@ Sajanyā = allies of his enemies, instrumental ad\].of his own people;
 **Brahmā** = brāhmaṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unopposable, he wins riches belonging to his opponents and those  belonging to his allies.  
 The king who makes wide space for the Formulator seeking aid, him do  the gods aid.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The shift from divine to human just noted above in vss. 7-8 comes full circle in this vs. The human Formulator is, it seems, in need of aid from the king (avasyáve … brahmáṇe), but if the king provides this aid he himself receives aid from the gods (tám avanti devā́ḥ).
 
@@ -155,28 +155,28 @@ This last section consisting of two vss. introduces Indra by name for the first 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, unopposed, is master of the riches.of his own subjects and of hostile people.  
      The Gods uphold that King with their protection who helps the Brahman when he seeks his favour.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He unresisted ever wins the riches Of his own people and surrounding foemen. The king who to the priest desiring favour Gives liberty, receives the gods' protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Widerstand gewinnt er die Schätze von Feind und Freund. Welcher König dem schutzsuchenden Brahmanen einen Ausweg aus Not schafft, den begünstigen die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unbesiegt gewinnt er alle Schätze der Gegner und den Verwandten; den König, welcher dem Hülfe suchenden Brahmanen Hülfe schafft, den unterstützen die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Беспрепятственно завоевывает он богатства  
 Вражеские, а также и союзнические.  

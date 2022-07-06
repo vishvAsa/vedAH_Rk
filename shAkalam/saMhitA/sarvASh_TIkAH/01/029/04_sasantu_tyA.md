@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सस꣡न्तु त्या꣡ अ꣡रातयो  
 बो꣡धन्तु शूर रात꣡यः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सह꣡स्रेषु तुवीमघ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 आ । तु । नः॒ । इ॒न्द्र॒ । शं॒स॒य॒ । गोषु॑ । अश्वे॑षु । शु॒भ्रिषु॑ । स॒हस्रे॑षु । तु॒वि॒ऽम॒घ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasantu* ← *sas*
 - \[verb\], plural, Present imperative
@@ -109,38 +109,38 @@ genre M;; repeated line
 **त्याः** अस्माभिरदृश्यमानाः परोक्षास्ताः **अरातयः** **अदानशीलाः** शत्रवः **ससन्तु** निद्रां कुर्वन्तु । हे **शूर** शौर्ययुक्तेन्द्र **रातयः** दानशीलाः बन्धवः **बोधन्तु** अस्मान् बुध्यन्ताम् । अन्यत् पूर्ववत् ॥ ससन्तु । प्रत्ययस्वरः । अरातयः । ‘रा दाने '। ‘मन्त्रे वृष° ' इत्यादिना भावे क्तिन् । न विद्यते रातिः एष्विति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । नञ्सुभ्याम् ' इति तु ‘सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति न भवति । यद्वा । ‘क्तिच्क्तौ च संज्ञायाम् ' इति कर्तरि क्तिच् । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । बोधन्तु । पादादित्वात् “ तिङ्ङतिङः' इति निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those who are our enemies, slumber, and those, O hero, who are our friends, be awake; **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them sleep who offer no gifts, but let your gifts be awake, o  
 champion.  
 – Give us hope for resplendent cows and horses in the thousands, o  powerfully generous Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, let hostile spirits sleep, and every gentler genius wake:  
      Do thou, O Indra, give us hope of beauteous horses and of kine,  
      In thousands, O most wealthy One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlafen sollen jene Unholdinnen, wachen sollen die Huldinnen, du Held. Mach uns doch Hoffnung auf tausend schmucke Kühe und Rosse, o freigebiger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass schlafen alle geizigen, lass wachen Held die gebenden, Du, Indra, mach uns herrlich doch an Rindern, Rossen, glänzenden, an tausenden, sehr reicher du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть заснут те недоброжелатели!  
 Пусть бодрствуют, о герой, доброжелатели!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र क्षत्र꣡म् · अभि꣡ वाम꣡म् ओ꣡जो  
 अ꣡जायथा वृषभ चर्षणीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुं꣡ देवे꣡भ्यो अकृणोर् उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अप॑ । अ॒नु॒दः॒ । जन॑म् । अ॒मि॒त्र॒ऽयन्त॑म् । उ॒रुम् । दे॒वेभ्यः॑ । अ॒कृ॒णोः॒ । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -117,14 +117,14 @@ popular
 हे **इन्द्र** **क्षत्रं** क्षतात्त्रायकं **वामं** वननीयं **ओजः** बलमभिलक्ष्य **अजायथाः** उत्पन्नोऽसि । हे **वृषभ** कामानां वर्षितः **चर्षणीनां** मनुष्याणामस्माकम् ॥ ‘नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥ **अमित्रयन्तम्** । अमित्रः शत्रुः । स इवाचरन्तं **जनम्** **अपानुदः** अपागमयः । **देवेभ्यः** च **उरुं** विस्तीर्णं **लोकं** स्वर्गाख्यम्   **अकृणोः** अकार्षीः । उशब्दः समुच्चये ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have been born, **Indra**, endowed with protecting and desirable vigour; benefactor of mankind, youdid drive away the man who was unfriendly(to us), you prepared a spacious region for the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, you were born to dominion and to might worth winning, you bull  of the settled domains.  
 You drove away the people that are not allies. You made a wide  
@@ -132,23 +132,23 @@ wide-place for the gods.
 1656 X.181–182
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, mighty Indra, sprangest into being as strength for lovely lordship o'er the people.  
      Thou drovest off the folk who were unfriendly, and to the Gods thou gavest room and freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, du wurdest zu guter Herrschaft und Stärke geboren, du Bulle der Völker. Du vertriebst das feindselige Volk und machtest für die Götter weiten Platz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebieter; Du stiessest fort das Volk, das uns befeindet, und schafftest auch den Göttern weite Freiheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, ты родился для прекрасной власти,  
 Для силы, о бык народов.  

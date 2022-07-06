@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् इदा꣡ हियो꣡ न꣡रो  
 अ꣡पीप्यन् वज्रिन् भू꣡र्णयः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उ꣡प स्व꣡सरम् आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । इ॒न्द्र॒ । स्तोम॑ऽवाहसाम् । इ॒ह । श्रु॒धि॒ । उप॑ । स्वस॑रम् । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -113,44 +113,44 @@ genre M
 हे **वज्रिन्** **इन्द्र** यं **त्वां** **भूर्णयः** हविर्भिर्भरणशीलाः **नरः** कर्मणां नेतारो यजमानाः **इदा** अद्य **ह्यः** च **अपीप्यन्** सोममपाययन् **सः** त्वं **स्तोमवाहसां** स्तोत्रवाहकानामस्माकं स्तोत्रम् **इह** यज्ञे **श्रुधि** शृणु। **स्वसरं** गृहं च । 'दुर्याः स्वसराणि' इति गृहनामसु पाठात् । **उप** **आ** **गहि** उपागच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thunderer, your worshippers, ready with their oblations, have today and yesterday made you drink (theSoma); listen, **Indra**, here to us who offer you praise and come you to our dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At this time yesterday these fervent men made you drink,  
 o mace-bearer.  
 Listen here to those whose vehicle is the praise song, Indra; come right  up to the good pasture.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The redupl. form ápīpyan is implicitly assigned by Geldner to √pā ‘drink’ as a redupl. (causative) aorist: “Dich haben … die … Männer getränkt,” an analysis I follow. However, the majority opinion is that it belongs to √pī ‘swell’, which is not out of the question. The competing claims and morphological possibilities are discussed above ad VIII.66.7 with regard to apīpema. Our form here could have the expected zero-grade to an athematic stem (ápīpy-an), and the long reduplication could be correct for a causative reduplicated aorist, although since the cluster -py- is undistracted here, a short reduplication might be expected (type AV atitrasan).
 
 However, since most of the forms of the act. redupl. aorist paradigm would not have such a cluster (*ápīpet, etc.), the long reduplication would surely be generalized. For further disc. of the proposed formation see VIII.66.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O THUNDERER, zealous worshippers gave thee drink this time yesterday.  
      So, Indra, listen here to those who bring the laud: come near unto our dwellingplace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich haben gestern um diese Zeit die rührigen Männer getränkt, du Keulenträger. Höre, Indra, auch diesmal auf die durch Loblied dich anziehenden Sänger; komm her zur Frühmesse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Blitzer, haben hier getränkt die Männer gestern eifervoll; Drum höre den, der hier, o Indra, Lob dir bringt, und komm zu unsrer Tränke her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя еще вчера напоили  
 Старательные мужи, о громовержец.  

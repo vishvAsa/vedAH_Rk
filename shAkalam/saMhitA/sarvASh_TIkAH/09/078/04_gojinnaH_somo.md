@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गोजि꣡न् नः सो꣡मो रथजि꣡द् धिरण्यजि꣡त्  
 सुवर्जि꣡द् अब्जि꣡त् पवते सहस्रजि꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्वा꣡दिष्ठं द्रप्स꣡म् अरुण꣡म् मयोभु꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यम् । दे॒वासः॑ । च॒क्रि॒रे । पी॒तये॑ । मद॑म् । स्वादि॑ष्ठम् । द्र॒प्सम् । अ॒रु॒णम् । म॒यः॒ऽभुव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gojin* ← *go*
 - \[noun\], masculine
@@ -147,20 +147,20 @@ genre M
 एतानि सोम पर्वमानो अस्मयुः सत्यानि कृण्वन् द्रविणान्यर्षसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** flows for us, the conqueror of cattle, of chariots, of gold, of heaven, of water, of thousandfold (wealth), whom the gods have made for (their) drinking, exhilarating, most sweet-flavoured, dropping, purple, causing happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Winning cows for us, winning chariots and gold, winning the sun and the  waters, winning thousands, Soma purifies himself,  
 whom the gods have made their exhilarating draught for drinking, the  sweetest ruddy drop, who is joy itself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this vs. see published introduction.
 
@@ -177,23 +177,23 @@ paramó yáḥ in the published translation, but there is no particular support 
 Fortunately the rest of the vs. is relatively straightforward. The “fingers” that grow on the earth are the parts of the plant: if soma is ephedra intermedia (wfhich grows in the Himalayas), it has slender upright shoots that could be conceived of as fingers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma flows on for u's as winner of the kine, winner of thousands, cars, water, and light, and gold;  
      He whom the Gods have made a gladdening draught to drink, the drop most sweet to taste, weal-bringing, red of hue.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma läutert sich, uns, Rinder, Wagen, Gold, die Sonne, Wasser gewinnend, Tausende gewinnend, den die Götter als Rauschtrank zu ihrem Trunke bestimmten, den süßesten Tropfen, den rötlichen, labenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erbeutend Rinder, Wagen, Gold, des Himmels Glanz, Gewässer, tausend Güter, rieselt Soma uns, Den sich die Götter als den süssesten ersahn, zum Trunk den rothen Tropfen, welcher Lust gewährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома очищается для нас, завоевывая коров, завоевывая колесницы, завоевывая золото,  
 Завоевывая солнце, завоевывая воды, завоевывая тысячи,  

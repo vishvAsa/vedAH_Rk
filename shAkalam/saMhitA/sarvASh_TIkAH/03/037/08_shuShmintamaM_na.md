@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुष्मि꣡न्तमं न ऊत꣡ये  
 द्युम्नि꣡नम् पाहि जा꣡गृविम्  
 इ꣡न्द्र सो꣡मं शतक्रतो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑ । सोम॑म् । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuṣmintamaṃ* ← *śuṣmintamam* ← *śuṣmintama*
 - \[noun\], accusative, singular, masculine
@@ -75,7 +75,7 @@ genre M
 **शतक्रतो** हे **इन्द्र** **शुष्मिन्तमं** बलवतां मध्येऽतिशयेन बलवन्तं **द्युम्निनं** दीप्तिमन्तम् । यद्वा शुष्मिन्तमं शत्रूणां शोषकतमं द्युम्निनं यशस्विनम्। **जागृविं** जागरणशीलम् । पीतः सोमो जागृविः स्वप्ननिवारक इति । तादृशं **नः** अस्माकं संबन्धिनं **सोमम्** **ऊतये** अस्माकं रक्षणाय **पाहि** अत्रागत्य पिब ॥ शुष्मिन्तमम् । तमपः पित्वादनुदात्तत्वे प्रत्ययस्वरः । पाहि । पातेर्लोटि • बहुलं छन्दसि ' इति शपो लुक् । निघातः । जागृविः । क्विन्प्रत्ययान्तः । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -86,29 +86,29 @@ genre M
 **Pītaḥ** **somaḥ** svapnanivāraka = drinking the soma is preventive of sleep
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the most unbridled, brilliant, wakeful soma—  
 Indra of a hundred resolves—to aid us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink thou the Soma for our help, bright, vigilant, exceeding strong,  
      O Indra, Lord of Hundred Powers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink unseren feurigsten, glänzenden, wachhaltenden Soma zum Beistand, du ratreicher Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trink zur Hülfe uns, den stärksten, muntern, glänzenden, O Indra, hundertwirkender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы поддержать (нас), пей нашего  
 Самого буйного, блистательного,  

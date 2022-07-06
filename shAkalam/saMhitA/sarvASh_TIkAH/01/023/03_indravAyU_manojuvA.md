@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्रवायू꣡ मनोजु꣡वा  
 वि꣡प्रा हवन्त ऊत꣡ये  
 सहस्राक्षा꣡ धिय꣡स् प꣡ती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒ह॒स्र॒ऽअ॒क्षा । धि॒यः । पती॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indravāyū* ← *indra*
 - \[noun\], masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विप्राः** मेधाविनः ऋत्विग्यजमानाः **ऊतये** रक्षणार्थम् **इन्द्रवायू** **हवन्ते** आह्वयन्ति । कीदृशौ मनोजुवौ मन इव वेगवेत्तरौ **सहस्राक्षा** सहस्रनयनयुक्तौ । यद्यपि इन्द्र एव सहस्राक्षः तथापि च्छत्रिन्यायेन वायुरपि तथोच्यते । **धियस्पती** कर्मणः बुद्धेर्वा पालकौ ॥ मनोजुवा । जवतिर्गतिकर्मा । मनोवत् जवतः इति मनोजुवा मन इव वेगयुक्तौ । कृदुत्तरपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्° ' इति आकारः । विप्राः । औणादिको रन् । रन्प्रत्ययान्तः आद्युदात्तः। ऊतये। ऊतियूति' इत्यादिना क्तिनः उदात्तत्वम् । सहस्राक्षा। सहस्रम् अक्षीणि ययोस्तौ ।  ‘ बहुव्रीहौ सक्थ्यक्ष्णोः ' ( पा. सू. ५. ४. ११३ ) इति षच् समासान्तः । बहुव्रीहिस्वरे प्राप्ते समासान्तप्रत्ययस्य सतिशिष्टत्वात्  ‘ चितः 'इत्यन्तोदात्तत्वम् । धियः ।  ‘ सावेकाचः' इति ङस उदात्तत्वम् ।  ‘ षष्ठ्याः पतिपुत्र' इति संहितायां विसर्जनीयस्य सकारः । पती । डत्यन्तः आद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,28 +101,28 @@ Sahasrākṣau = Indra, as person nified heaven, signifying its expansiveness or
 **Manojavā** = swift as thought, attribute of Vāyu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Vāyu, mind-swift, do the inspired poets call for help— the thousand-eyed lords of insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singers' for their aid, invoke Indra and Vayu, swift as mind,  
      The thousand-eyed, the Lords of thought.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vayu, die gedankenschnellen rufen die Beredten zur Gnade, die tausendäugigen Meister des fromme Gedankens.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Hülfe ruft der Sänger Schar sie, die mit tausend Augen schaun, Gedankenschnell, die Andachtsherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру-Ваю быстрые мыслью  
 Вдохновенные зовут для поддержки,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡न्य आ꣡ दर्दिरच् छता꣡  
 सह꣡स्रा वाजी꣡ अ꣡वृतः  
 इ꣡न्द्रो यो꣡ य꣡ज्वनो वृधः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । यः । यज्व॑नः । वृ॒धः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *panya* ← *panyaḥ* ← *panya*
 - \[noun\], nominative, singular, masculine
@@ -81,41 +81,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **वाजी** बलवान् **शता** वीराणां शतानि **सहस्रा** सहस्राणि च **आ** **दर्दिरत्** आभिमुख्येन दास्यति सोऽयम् **इन्द्रः** शत्रुभिः **अवृतः** **पन्यः** स्तुत्यो भवति । **यज्वनः** विधिनेष्टवतो यजमानस्य **वृधः** वर्धयिता च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The powerful **Indra**, the discomfiter of hundreds and thousands, unchecked (by foes), is adorable; hewho is the benefactor of the sacrificer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The admirable one will tear out hundreds, thousands (of goods)—he  the unobstructable prizewinner,  
 Indra, who is the strengthener of him who offers sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The intensive (that is, iterative-frequentative) dardirat is appropriate to the multiple objects implied.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May be, unchecked, strong, meet for praise, bring hundreds, thousands forth to light,  
      Indra who aids the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der lobenswerte Beutemacher möge unaufhaltsam Hunderte, Tausende herausschlagen, Indra, der der Förderer des Opfernden ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der herrliche erschloss an Gut uns hunderttausend ungehemmt, Des Frommen Helfer, Indra, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Удивительный завоеватель наград  
 Пусть выбьет сотни, тысячи беспрепятственно,  

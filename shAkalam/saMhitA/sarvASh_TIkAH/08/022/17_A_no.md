@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो अ꣡श्वावद् अश्विना  
 वर्ति꣡र् यासिष्टम् मधुपातमा नरा  
 गो꣡मद् दस्रा हि꣡रण्यवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 गोऽम॑त् । द॒स्रा॒ । हिर॑ण्यऽवत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,36 +87,36 @@ genre M;; repeated line
 **मधुपातमा** अतिशयेन मधोः सोमस्य पातारौ **नरा** नेतारौ **दस्रा** सर्वैर्दर्शनीयौ हे अश्विनौ **नः** अस्माकं **वर्तिः** । वर्तन्तेऽत्रेति वर्तिर्गृहम् । तत् **अश्वावत्** अश्वयुक्तं **गोमत्** गवादियुक्तं **हिरण्यवत्** सुवर्णकनकादियुक्तं कृत्वा **आ** **यासिष्टम्** आगच्छतम् । यद्वा । अस्मान् प्रति वर्तिर्यज्ञमार्गम् अश्वादियुक्तं कृत्वागच्छतम् । यातेलुङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, of goodly aspect, leaders (of rites), deep drinkers of the **Soma**, come to our dwelling aboundingwith horses, with cattle, with gold.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, you superior men who are first to drink the honey, to us here  drive your course providing horses,  
 cattle, and gold, o wondrous ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Wonder-Workers, to our home, our home, O Asvins, rich in cattle, steeds, and gold,  
      Chief drinkers of the Soma's juice
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu uns machet, ihr Herren Asvin, die ihr am liebsten den Süßtrank trinkt, eure Umfahrt, die Rosse, Rinder und Gold einbringende, o Meister!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt Ritter ihr zu unserm Hof, der reich mit Gold, mit Ross und Rind versehen ist, O hehre Somatrinker ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нам, о Ашвины, совершите (свой) объезд,  
 Приносящий коней, о два мужа, лучше всех пьющие мед,  

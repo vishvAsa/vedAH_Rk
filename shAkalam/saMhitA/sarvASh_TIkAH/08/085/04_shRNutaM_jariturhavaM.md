@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृणुतं꣡ जरितु꣡र् ह꣡वं  
 कृ꣡ष्णस्य स्तुवतो꣡ नरा  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **नरा** नरौ सर्वस्य नेतारावश्विनौ **जरितुः** । तच्छीलार्थे तृन् । व्यत्ययेनान्तोदात्तत्वम् । जरितुः स्तवनशीलस्य संप्रति **स्तुवतः** स्तोत्रं कुर्वतः **कृष्णस्य** एतन्नामकस्यर्षेः संबन्धि **हवं** युष्मद्विषयमाह्वानं **शृणुतम्** । यद्वा । जरितुरन्यदेवानां स्तोतुः स्तुवत इदानीं युवयोः स्तोत्रकारिणस्तस्य हवं शृणुतम् । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of all), hear the invocation of **Kṛṣṇa**, the hymner, who praises you-- that you may drink theexhilarating **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear the call of Kr̥ṣṇa the praising singer, o men,  
 to drink of the honeyed soma.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ The Anukramaṇī identifies the poet as Kṛṣṇa Āṅgirasa.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 List, Heroes, to the singer's call, the call of Krsna lauding you,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret des Sängers Ruf, des lobsingenden Krishna, ihr Herren, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vernehmt den Ruf des preisenden, des Sängers Krischna, Männer ihr, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Слушайте зов воспевателя,  
 Восхваляющего (вас) Кришны, о два мужа,  

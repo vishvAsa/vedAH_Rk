@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यो वीर प्र꣡ महे꣡ सुता꣡नाम्  
 इ꣡न्द्राय भर स꣡ हि꣡ अस्य रा꣡जा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गीर्भि꣡र् वावृधे꣡ गृणता꣡म् ऋ꣡षीणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । पू॒र्व्याभिः॑ । उ॒त । नूत॑नाभिः । गीः॒ऽभिः । व॒वृ॒धे । गृ॒ण॒ताम् । ऋषी॑णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
@@ -123,20 +123,20 @@ genre M
 हे **वीर** हविषां विशेषेण प्रेरयितः **अध्वर्यो** **महे** महते अस्मै **इन्द्राय** **सुतानाम्** । कर्मणि षष्ठी । सुतानभिषुतान् सोमान् **प्र** **भर** प्रहर प्रगमय । **स** **हि** खलु इन्द्रः **अस्य** सोमस्य **राजा** स्वामी भवति । **यः** इन्द्रः **पूर्व्याभिः** पूर्वकाले कृताभिः **उत** अपि च **नूतनाभिः** इदानीं क्रियमाणाभिः **गृणतां** स्तुवताम् **ऋषीणां** संबन्धिनीभिः **गीर्भिः** उभयविधाभिः स्तुतिभिः **वावृधे** वर्धते । स इन्द्रो यस्मात् सोमस्य राजा तस्मादस्मै सोमः प्रदेय इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ministrant priests offer libations to the mighty **Indra**, for he is their king, he who has been exalted by the ancient and recent hymns of adoring sages.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Adhvaryu, hero, give of the pressed (soma drinks) to great Indra, for  he is its king,  
 he who has grown strong by the previous and the present songs of  singing seers.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains disharmony of number in a constructio ad sensum: The priest is urged to offer of the pressed (soma-drink)s in the plural (sutā́nām); the reason for this is immediately given in the 2nd part of pāda b, sá hy àsya rā́jā “for he is its king.” Unaccented singular asya presupposes a referent already in the discourse, with “it” referring to soma, represented in the previous clause as a plural. The singular is then continued in the rest of the tṛca (asyá 14a, tám … sómam 14cd, sutám … sómam 15a, with sg. sutám picking up pl. sutā́nām of 13a).
 
@@ -151,23 +151,23 @@ Another soma tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adbyaryu, hero, bring to mighty Indrafor he is King thereof-the pressed-out juices;  
      To him exalted by the hymns and praises, ancient and modern, of the singing Rsis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu, Mann, trage dem großen Indra vom Soma auf, denn er ist König darüber, der sich an den früheren und an den neuesten Lobreden der preisenden Rishis´s erbaut hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Opferer, dem grossen Indra bringe die Säfte dar; denn er ist ihr Gebieter, Er, der an alten und an neuen Liedern der Dichter, die lobsingen, sich erlabet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью, о муж! Поднеси великому  
 Индре выжатых соков (сомы)! Ведь он его царь,  

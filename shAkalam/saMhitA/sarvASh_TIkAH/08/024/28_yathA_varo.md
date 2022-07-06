@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था वरो सुषा꣡मणे  
 सनि꣡भ्य आ꣡वहो रयि꣡म्  
 वि꣡अश्वेभ्यः सुभगे वाजिनीवति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विऽअ॑श्वेभ्यः । सु॒ऽभ॒गे॒ । वा॒जि॒नी॒ऽव॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -74,7 +74,7 @@ genre M
 अनेन तृचेन वरोर्दानं स्तूयते । हे **वरो** वरुनामक राजन् **सुषाम्णे** सुसाम्ने सुषामाख्यं राजानं स्वपितरमुद्दिश्य तस्योत्तमलोकप्राप्त्यर्थं **सनिभ्यः** भिक्षमाणेभ्यः **आ** कोशादाहृत्य **रयिं** धनं **यथा** पुरा **अवहः** प्रापितवानसि अत एवमिदानीं **व्यश्वेभ्यः** व्यश्वपुत्रेभ्यः अस्मभ्यं धनमावह। वाजिनीवतीति पदलिङ्गादियमुषस्या । अयं तृचोऽप्युषस्य इति शौनकेनोक्तं-’ यथा वरो सुषाम्ण इत्युत्तमस्त्वौषसस्तृचः' इति । हे **सुभगे** शोभनधनयुक्ते **वाजिनीवति** अन्नवति । मतुबनुवादार्थः । यद्वा । वाजो वाजनं गमनमस्यास्तीति वाजिन्यन्नम् । तद्वति हे उषः त्वं चास्मभ्यं धनं प्रयच्छ । वरोर्बहुधनदानात्तस्य दानस्तुतिः । यद्वा । विश्वमना ऋषिर्वरुं संबोध्याह । हे सुभगे शोभनधने वाजिनीवति अन्नवति हे उषः यथा त्वं सुषाम्णे सुषामनाम्ने मम पित्रे धनं दत्त्वा तेनैव सुषाम्णा सनिभ्यो याचमानेभ्यो धनं यथा प्रापितवत्यसि तेन यथा दानमकारयः एवं मह्यमपि धनं दत्त्वा व्यश्वेभ्यः। पूजायां बहुवचनम् । व्यश्वपुत्राय विश्वमनसे धनं प्रापयेति मयापि दानं करोषि । हे वरो उषसमेवं वदेत्यृषिराह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,30 +87,30 @@ On behalf of **Suṣāman**: Varu is said to have distributed these alms that hi
 Uṣas: subhage vājinīvati: Uṣas is added, on the authority of **Śaunaka**; or, Varu himself addressedthe stanza to Uṣas and asks her to give him wealth for the sons of Vyaśva, as she had given to his father for hissuppliants
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you conveyed wealth to Varo Suṣāman for his gain  
 and to the Vyaśvas, o well-portioned (Dawn) rich in  
 prizewinning mares,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As to Varosusaman thou broughtest great riches, for their gain,  
      To Vyasva's sons, Blest Lady, rich in ample wealth!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du dem Varo Susaman Reichtum einbrachtest, um den Vyasva´s Belohnungen zu gewähren, o holde gewinnbringende Usas.-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du dem Varosuschāman Reichthum herbeifuhrst zum Geschenk für die Nachkommen des Viaçva, o reiche, selige (Morgenröthe.) –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как для Варо Сушамана  
 Ты привезла богатство для подарков  

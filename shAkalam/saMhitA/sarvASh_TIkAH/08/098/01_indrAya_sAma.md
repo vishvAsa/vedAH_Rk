@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय सा꣡म गायत  
 वि꣡प्राय बृहते꣡ बृह꣡त्  
 धर्मकृ꣡ते विपश्चि꣡ते पनस्य꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ध॒र्म॒ऽकृते॑ । वि॒पः॒ऽचिते॑ । प॒न॒स्यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -84,7 +84,7 @@ genre M
 हे उद्गातारः विप्राय मेधाविने **बृहते** महते **धर्मकृते** कर्मणः कर्त्रे **विपश्चिते** विदुषे **पनस्यवे** स्तुतिमिच्छते इन्द्राय **बृहत्** बृहन्नामकं **साम** **गायत** पठत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,29 +95,29 @@ genre M
 Dharmakṛte = brahmakṛte
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Indra sing a sāman, a lofty one to the lofty inspired poet,  
 to the creator of the foundations, who is attentive to poetic inspiration,  inviting admiration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra sing a Sama hymn, a lofty song to Lofty Sage,  
      To him who guards the Law, inspired, and fain for praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Indra singet die hohe Weise, dem Beredten, Hohen, dem Gesetzgeber, dem Redekundigen, dem Beifalliebenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra singt ein hohes Lied, dem hohen, dem begeisterten, Dem weisen, der die Ordnung wahrt, dem herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индре пропойте мелодию,  
 Вдохновенному, высокому – высокую,  

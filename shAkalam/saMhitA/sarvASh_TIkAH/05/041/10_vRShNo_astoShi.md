@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡ष्णो अस्तोषि भूमिय꣡स्य ग꣡र्भं  
 त्रितो꣡ न꣡पातम् अपां᳐꣡ सुवृक्ति꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शोचि꣡ष्केशो · नि꣡ रिणाति व꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गृ॒णी॒ते । अ॒ग्निः । ए॒तरि॑ । न । शू॒षैः । शो॒चिःऽके॑शः । नि । रि॒णा॒ति॒ । वना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
@@ -112,7 +112,7 @@ genre M
 **भूम्यस्य** । भूमिः अन्तरिक्षम् । तदर्हस्य । तादृशस्य **वृष्णः** वर्षकस्य पर्जन्यस्य । अथवा भूम्यो भूमेरेवार्हः तदुचितवृष्टिप्रदानात् । तादृशस्य मेघस्य **गर्भं** गर्भस्थानीयम् **अपां** **नपातं** रक्षकं वैद्युतमग्निं **सुवृक्ति** । स्तोत्रकर्मैतत् । शोभनपापादिवर्जनवता स्तोत्रेण **अस्तोषि** स्तुतवानहम् । सः **त्रितः** तीर्णतमः त्रिषु स्थानेष्वन्येषु त्रित्वापन्नेषु तायमानः **अग्निः** **एतरि** गन्तरि मयि **शूषैः** सुखकरैः रश्मिभिः **न** **गृणीते** न गरणं कुरुते न क्रुध्यतीत्यर्थः । किंतु **शोचिष्केशः** प्रदीप्तरश्मिः सन् **वना** वनानि **नि** **रिणाति** हिनस्ति दहतीत्यर्थः ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,14 +123,14 @@ genre M
 Earth-fertilizing rain: vṛṣṇo bhūmyasya garbham: bhūmya = suited to the earth or the firmament, bhūmir antarkṣam; in the latter case, the embryo of the firmamental rain will mean Agni as the lightning; with his withering rays: gṛṇīte agni etarī na śūṣaiḥ = mayi gantari na krudhyati sukhakarai **raśmibhiḥ**, who is not angry upon me when going with his agreeable rays; but, **śuṣa** = drying up
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have praised the embryo of the terrestrial bull, (as) Trita (has praised)  the Child of the Waters with a well-twisted (hymn).  
 Agni is sung with fortifying (hymns) like (a horse) at running.  
 Flame-haired, he liquefies the trees.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Witzel Gotō take Trita as the persona of the 1st ps. speaker of astoṣi (“ich, als Trita …”), whereas I follow Geldner and Renou in supplying a 3rd ps. form of √stu for b.
 
@@ -139,23 +139,23 @@ The form etárī is, of course, problematic, but is most likely a loc. sg.; for 
 see Tichy (-tar-stems, 59-61). It is found only here and in VI.12.4, in the same pādafinal phrase etárī ná śūṣaíḥ. In our passage there is some phonetic justification for the form (though not in VI.12.4); note the ni/ri sylls: gr̥nīté agnir etárī ... / ... ní riṇāti.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Trta praised him, germ of the earthly hero, with pure songs him the Offspring of the Waters.  
      Agn; with might neighs loudly like a charger: he of the flaming hair destroys the forests.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe das Kind des irdischen Stieres gepriesen, als Trita mit schönem Loblied den Apam Napat. Agni wird gelobt wie ein Rennpferd mit anspornenden Worten, der Flammenhaarige macht die Hölzer klein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich pries den Spross des erdgebornen Stieres, mit schönem Lied auch ihn, den Sohn der Wasser, Gepriesen wie die Wallerin mit Liedern verzehrt das Holz der flammenhaar'ge Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я прославил зародыш земного быка,  
 (Как) Трита-Апам Напата, прекрасным гимном.  

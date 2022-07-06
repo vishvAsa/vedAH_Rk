@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पावमानी꣡र् यो꣡ अध्ये꣡ति  
 ऋ꣡षिभिः स꣡म्भृतं र꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 क्षीरं꣡ सर्पि꣡र् म꣡धूदक꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तस्मै॑ । सर॑स्वती । दु॒हे॒ । क्षी॒रम् । स॒र्पिः । मधु॑ । उ॒द॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāvamānīr* ← *pāvamānīḥ* ← *pāvamāna*
 - \[noun\], accusative, plural, feminine
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (424)
 **यः** ब्राह्मणः **पावमानीः** पवमानदेवताका ऋचः तदात्मकम् **ऋषिभिः** मधुच्छन्दआदिभिः । **संभृतं** **रसं** वेदसारं सूक्तसंघम् **अध्येति** अधीते **तस्मै** पवमानाध्ययनं कुर्वते जनाय **सरस्वती** सर्वत्र सरणवती वाग्देवता **क्षीरं** यज्ञसाधनभूतं पयः **सर्पिः** तादृशं घृतं **मधु** मदकरम् **उदकं** सोमं **दुहे** स्वयमेव दोग्धि। एनं नरं यागादिपरं वेदशास्त्रविदं करोतीत्यर्थः । दुह प्रपूरणे । कर्मकर्तरि ‘न दुहस्नुनमां यक्चिणौ ' इति यकः प्रतिषेधः । ‘लोपस्त आत्मनेपदेषु' इति तलोपः॥ ॥१८॥ ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,14 +111,14 @@ popular;; epic anuṣṭubh (424)
 Here follows a **khila** of 19 verses in praise of pavamāna hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 for him Sarasvatī milks out milk, fresh butter, honey, and water.  
 Jagatı Hymns: 68–86 ̄
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details open><summary><h2>31-32 ...{Loading}...</h2></summary>
 
@@ -129,23 +129,23 @@ Commentary IX.68-114
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoever reads the essence stored by saints, the Pavamani hymns,  
      Sarasvati draws forth for him water and butter, milk and meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer die Pavamaniverse auswendig weiß, den von den Rishi´s zusammengetragenen Seim, dem milcht Sarasvati Milch, Butter, Honig, Wasser.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammengebrachte Essenz, dem lässt Sarasvati Milch, Schmelzbutter, Honig, Wasser strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто выучивает (стихи) Павамани,  
 Сок, собранный (поэтами-)риши,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡देवाद् देवः꣡ प्रच꣡ता गु꣡हा य꣡न्  
 प्रप꣡श्यमानो अमृतत्व꣡म् एमि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवा꣡त् सख्या꣡द् अ꣡रणीं ना꣡भिम् एमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शि॒वम् । यत् । सन्त॑म् । अशि॑वः । जहा॑मि । स्वात् । स॒ख्यात् । अर॑णीम् । नाभि॑म् । ए॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adevād* ← *adevāt* ← *adeva*
 - \[noun\], ablative, singular, masculine
@@ -123,7 +123,7 @@ popular
 **अदेवात्** अदेवनशीलात् **गुहा** गुहायां वर्तमानात् ॥ ‘सुपां सुलुक्°' इति सप्तम्या लुक् । **प्रचता** देवानां प्रयाचनेन हेतुना **यन्** निर्गच्छन् **देवः** देवनशीलोऽहं **प्रपश्यमानः** देवैर्मदर्थं कल्पितं प्रयाजानुयाजादिलक्षणं हविर्भागं प्रपश्यमानो निरीक्षमाणः सन् **अमृतत्वमेमि**। मरणधर्मराहित्यं देवत्वं प्राप्नोमि ॥ दृशेर्व्यत्ययेनात्मनेपदम् ॥ हविर्वहनाद्भीतः पलायितोऽबादिषु स्थानेषु निगूढः पुनर्देवैर्हविर्वहनाय प्रार्थ्यमानस्तैर्दत्तेन हविषा अहं देवत्वं प्राप्तवानस्मीत्यर्थः । यद्यप्यहं गुहातो निर्गत्य प्रकाशमानः सन् शोभनं यज्ञं निवर्तयामि तथापि **शिवं** शोभनं **सन्तं** भवन्तं यज्ञम् **अशिवः** अशोभनरूपोऽप्रकाशमानः सन् **यत्** यस्मिन् समाप्तिकाले **जहामि** परित्यजामि तदानीं **नाभिं** नहनशीलां बन्धनशीलाम् **अरणीम्** अश्वथमेव **स्वात्सख्यात्** आत्मीयात सखित्वाञ्चिरकालमश्वरूपोऽहं तत्र न्यवात्समिति स्नेहवशात् **एमि** प्राप्नोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ popular
 Being inauspicious: i.e., not beingbeautiful, not being radiant; binding touchwood: nābhim: from ṇaḥ, nahana śīlām **bandhana** śīlām; or, afamily of strangers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] Going in concealment and hiding, I go, as a god, from the  non-god, foreseeing immortality for myself.  
 When I unkindly leave (him), though he is kindly disposed, from my own  fellowship I go to an alien lineage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I come a God foreseeing from the godless to immortality by secret pathways,  
      While I, ungracious one, desert the gracious, leave mine own friends and seek the kin of strangers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heimlich mich davon machend gehe ich, der Gott, von dem Ungott, die Unsterblichkeit vor mir sehend. Wenn ich ihn, der freundlich war, unfreundlich verlasse, so gehe ich von der eigenen Freundschaft zu der fremden Sippe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Als Gott vom Nichtgott tief verborgen wandernd komm jetzt ich nach Unsterblichkeit verlangend; Wenn unhold ich den holden nun verlasse, geh von der eignen ich zur fremden Freundschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог, от не-бога скрытно, тайно уходящий,  
 Иду я, видя перед собой бессмертие.  

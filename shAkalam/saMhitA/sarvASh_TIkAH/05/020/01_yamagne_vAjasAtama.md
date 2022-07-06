@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् अग्ने वाजसातम  
 तुवं꣡ चिन् म꣡न्यसे रयि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवत्रा꣡ पनया यु꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । नः॒ । गीः॒ऽभिः । श्र॒वाय्य॑म् । दे॒व॒ऽत्रा । प॒न॒य॒ । युज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -105,42 +105,42 @@ genre M
 हे **अग्ने** हे **वाजसातम** अत्यन्तमन्नद **त्वं** **यं** **रयिं** धनमस्माभिर्दीयमानं हवीरूपं धनं **मन्यसे** बुध्यसे । **चित्** इति पादपूरणः। **श्रवाय्यं** श्रवणीयं प्रशस्यं **गीर्भिः** स्तुतिभिः **युजं** युक्तं **नः** अस्मदीयं हविर्लक्षणं धनं **तं** **देवत्रा** देवेषु **पनय** प्रापयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That (sacrificial) wealth, **Agni**, bounteous giver of food, of which you approve, and which deserves to be commanded by our praises, do you convey to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wealth that even you hold in regard, o Agni, best winner of  
 victory’s prize,  
 that yokemate of ours I will extol with songs as worthy of fame among  the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, best winner of the spoil, cause us to praise before the Gods  
      As our associate meet for lauds, wealth which thou verily deemest wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Whatever good, O Agni, best acquirer of gain, thou thinkest (fit), praise thou 2 that (good), which is celebrated in songs, among the gods as our share.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Reichtum, den du selbst für gut hältst, du gewinnbringendster Agni, den streiche für uns mit Lobesworten bei den Göttern heraus, der zum Ruhm gereicht und treu bleibt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Gut, das dir das beste dünkt, o Agni, labungspendenster, Das unsre Lieder preisen hoch, das will vor Göttern rühmen ich,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То богатство, о Агни, лучше всех добывающий награду,  
 О котором ты сам думаешь, –  

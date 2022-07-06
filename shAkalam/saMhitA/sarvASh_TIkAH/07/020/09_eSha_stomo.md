@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्तो꣡मो अचिक्रदद् वृ꣡षा त  
 उत꣡ स्तामु꣡र् मघवन्न् अक्रपिष्ट  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्व꣡म् अङ्ग꣡ शक्र व꣡स्व आ꣡ शको नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 रा॒यः । कामः॑ । ज॒रि॒तार॑म् । ते॒ । आ । अ॒ग॒न् । त्वम् । अ॒ङ्ग । श॒क्र॒ । वस्वः॑ । आ । श॒कः॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -126,20 +126,20 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **ते** त्वदर्थं **वृषा** सेक्ता **एषः** **स्तोमः** सोमः सूयमानः **अचिक्रदत्** क्रन्दति । **उत** अपि च **स्तामुः** स्तोता **अक्रपिष्ट** अस्तौत् । अपि च हे **शक्र** **ते** तव **जरितारं** स्तोतारं मां **रायः** धनस्य **कामः** अभिलाषः **आगन्** आगतः । अतः **त्वं** **वस्वः** धनम् । कर्मणि षष्ठी । **नः** अस्मभ्यम् **अङ्ग** क्षिप्रम् **आ** **शकः** धेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For you, **Maghavan**, this showering **Soma** (libation) cries aloud; to you the worshipper has recitedpraises; the desire of riches has fallen upon thine adorer, do you, therefore, **Śakra**, bestow quickly upon uswealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This praise has bellowed (like) a bull to you, and (like) a thieving [?] (monkey?) has screeched, o bounteous one.  
 Desire for wealth has come over your singer. You alone, powerful one,  hold power over goods for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 stāmú- is a hapax and there is no agreed upon etymology or interpretation.
 
@@ -154,23 +154,23 @@ Furthermore, the anagramatic word play noted above makes it more likely that the
 The return of the singer (jaritár-) in the last two verses of this hymn (9c, 10c) forms a faint ring with his appearance in 2b. 22
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee the mighty hymn hath clamoured loudly, and, Maghavan, the eloquent hath besought thee.  
      Desire of wealth hath come upon thy singer: help us then, gakra, to our share of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Lobgesang hat zu dir wie ein Stier gebrüllt und verstohlen hat der Sänger, o Gabenreicher, geklagt: Über deinen Sänger ist der Wunsch nach Reichtum gekommen. Du allein vermagst uns Gut zu erwirken, Mächtiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schrie zu dir gleich wie ein Stier dies Loblied, und flehte bang, o mächtiger, der Seufzer; Den Dichter hat die Gier nach Gut ergriffen; so reiche denn, o starker, reiches Gut uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта хвала взревела для тебя, (как) бык,  
 И громкий (воспеватель твой), о щедрый, пожаловался:  

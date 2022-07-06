@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नरो मरुतः सश्चता वृ꣡धं  
 य꣡स्मिन् रा꣡यः शे꣡वृधासः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 विश्वा꣡हा श꣡त्रुम् आदभुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अ॒भि । ये । सन्ति॑ । पृत॑नासु । दुः॒ऽध्यः॑ । वि॒श्वाहा॑ । शत्रु॑म् । आ॒ऽद॒भुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -106,41 +106,41 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **नरः** कर्मणां नेतारो हे **मरुतः** देवा यूयं **वृधं** पशुपुत्रादिवर्धकम् **इमम्** अस्माभिः स्तूयमानम् इमम् अग्निं **सश्चत** हविरानयनार्थं सेवध्वम् । कीदृशोऽग्निः इत्याकाङ्क्षायामाह। **यस्मिन्** देवे **रायः** धनानि **शेवृधासः** दानभोगाद्युपयोगेन सुखस्य वर्धकानि **अभि** अभितः  **सन्ति** । **ये** च देवाः **पृतनासु** सेनासु तदुपलक्षितेषु संग्रामेषु **दूढ्यः** दुष्टध्यानोपेतानात्मनो हिंसकाञ्छत्रून् अभि सन्ति अभिभवन्ति । ये च **विश्वाहा** विश्वान्यहानि यस्मिन्नखण्डे काले तस्मिन् सर्वदा **शत्रुम्** आत्मनो द्वेष्टारम् **आदभुः** आदभ्नुवन्ति हिंसन्ति । एवंभूतास्ते सर्वे मरुतो यूयं तमिममग्निं सेवध्वमिति पूर्वेणान्वयः॥ सश्चत । षस्ज संगे ' इत्यस्मात् लोटि रूपम् । जकारस्य व्यत्ययेन चकारः । निघातः । शेवृधासः । वर्णव्यत्ययः । शं सुखं वर्धयतीति। असुन्' इत्यसुन् । गुणाभावश्छान्दसः। ‘ गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इत्यौणादिकसूत्रात् पूर्वपदप्रकृतिस्वरः । सन्ति । ' अस भुवि ' । दूढ्यः । ‘ ध्यै चिन्तायाम् ' । ‘ अन्येभ्योऽपि दृश्यते' इति क्विप् । दृशिग्रहणात्संप्रसारणम् । ‘ दुरो दाशनाशदभध्येषूत्वं वक्तव्यमुत्तरपदादेः ष्टुत्वं च ' इति उत्वढत्वे । ‘ छन्दस्युभयथा' इति शसीयाङादेशं बाधित्वा यणादेशः । कृदुत्तरपदप्रकृतिस्वरेणान्तोदात्तः । शसः सुप्तत्वात् अनुदात्तत्वे कृते ‘ उदात्तस्वरितयोर्यणः  इति शसः स्वरितत्वम् । आदभुः । ‘ दम्भु दम्भे' । अस्माल्लिट्युसि रूपम् । श्रन्थिग्रन्थिदम्भिस्वञ्जीनामुपसंख्यानम् ' इति किद्वद्भावादनुनासिकलोपः। ‘ द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम् ' ( का. ६. १. ८) इति द्विर्वचनाभावः । यद्वृत्तयोगादनिघातः । ‘ सतिशिष्टस्वरो बलीयान्' इति प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, leaders (of rites), associate with this augmenter (of our prosperity), in whom (abide) riches contributing to felicity, you who (are victorious) over (your) enemies in battle, who daily humble (your) foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Follow this one, you superior men, you Maruts, to strengthen him, in  whom are riches that grow strong with kindness,  
 that overcome those of evil intent in battles, and that every day swindle  his rival.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wait, Maruts, Heroes, upon him the Prosperer in whom is bliss-increasing wealth;  
      Who in fights ever conquer evil-hearted men, who overcome the enemy.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Maruts 1, ye men, cling to this furtherer 2 who possesses joy-furthering boons—(the Maruts) who 3 in battles overcome ill-minded (foes), who have deceived the enemy 4 day by day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Herren Marut, haltet euch dazu, diesen Agni zu stärken, bei dem die glückmehren - den Reichtümer sind, welche in den Kämpfen die Übelgesinnten überwinden und allezeit den Feind zu Fall bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Marut-Mannen macht euch diesen Segner hold, in welchem werthe Schätze ruhn; Die in den Schlachten über Böse siegreich sind, die Feinde stets bewältigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Следуйте за ним, о мужи Маруты, для усиления,  
 (За тем,) у кого богатства, усиливающие счастье,  

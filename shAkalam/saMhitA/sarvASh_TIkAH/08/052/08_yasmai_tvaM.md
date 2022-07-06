@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मै तुव꣡म् मघवन्न् इन्द्र गिर्वणः  
 शि꣡क्षो शि꣡क्षसि दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 कण्वव꣡च् छृणुधी ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 अ॒स्माक॑म् । गिरः॑ । उ॒त । सु॒स्तु॒तिम् । व॒सो॒ इति॑ । क॒ण्व॒ऽवत् । शृ॒णु॒धि॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -109,35 +109,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(As you hear) the worshipper who you favour, O **Indra**, **Maghavan**, liberal one, you that love hymns, so,gracious one, hear our hymns and our invocation of praise, like **Kaṇva**'s.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For whatever pious one, o bounteous Indra who long for songs, you  muster your abilities, able one—  
 listen to our songs and lovely praise, o good one, to our call, like that of  the Kaṇvas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another “improper” relative in ab, where the pious man who is the referent of yásmai is then implicitly identified with the emphatic fronted “us” (asmā́kam) in cd.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchem Opferspender auch, freigebiger, lobbegehrender Indra, du Willfähriger, willfährig bist - erhöre unsere Reden und das Loblied, du Gütiger, unseren Ruf, wie den von Kanva!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welchem Verehrer du, o mächtiger, liedliebender Indra, o freigiebiger, Huld erweisest, [den erhörst du]; erhöre, o guter, unsere Lieder und unsern Lobgesang, wie du Kanva erhört hast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какого почитателя, о щедрый Индра, любящий песни,  
 О стремящийся одарить, ты хочешь одарить…-  

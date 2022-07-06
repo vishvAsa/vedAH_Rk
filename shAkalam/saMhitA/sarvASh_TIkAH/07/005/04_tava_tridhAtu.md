@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्रिधा꣡तु पृथिवी꣡ उत꣡ द्यउ꣡र्  
 वइ꣡श्वानर व्रत꣡म् अग्ने सचन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जस्रेण शोचि꣡षा शो꣡शुचानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वम् । भा॒सा । रोद॑सी॒ इति॑ । आ । त॒त॒न्थ॒ । अज॑स्रेण । शो॒चिषा॑ । शोशु॑चानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -119,7 +119,7 @@ genre M
 हे **वैश्वानर** विश्वेषां नराणां नेतः **अग्ने** । तथा च यास्कः-’ वैश्वानरः कस्मात् विश्वान्नरान्नयति विश्व एनं नरा नयन्तीति वा ' (निरु. ७. २१) इति। **तव** **व्रतं** त्वत्प्रीतिकरं कर्म **त्रिधातु** अन्तरिक्षं **पृथिवी** च **उत** अपि च **द्यौः** इति त्रयो लोकाः **सचन्त** सेवन्ते । त्रैलोक्यवर्तिन्यः प्रजास्त्वदर्थं कर्म कुर्वन्तीत्यर्थः । अपि च **त्वम्** अजस्रेण **शोचिषा** नित्येन प्रकाशेन **शोशुचानः** दीप्यमानः **भासा** दीप्त्या **रोदसी** द्यावापृथिव्यौ च **आ** **ततन्थ** विस्तारयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Tridhātu = antarikṣam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Heaven and earth, (each) in its three parts, follow your commandment, o  Agni Vaiśvānara.  
 You stretch throughout the two world-halves with your radiance, blazing  with your inexhaustible blaze.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni Vaisvanara, both Earth and Heaven submit them to thy threefold jurisdiction.  
      Refulgent in thine undecaying lustre thou hast invested both the worlds with splendour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinem Gebot folgt die dreifache Welt, Himmel und Erde, o Agni Vaisvanara. Du hast mit deinem Lichte die beiden Welten durchzogen, mit nie ermattender Glut flammend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein dreifach Wirken mögen Erd' und Himmel, o Männerhort, o Agni, treu geleiten; Du hast mit deinem Schein erhellt die Welten, der du erstrahlst mit Licht, das nimmer auslischt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трехчастная (вселенная), земля и небо,  
 О Вайшванара, следуют твоему завету, о Агни.  

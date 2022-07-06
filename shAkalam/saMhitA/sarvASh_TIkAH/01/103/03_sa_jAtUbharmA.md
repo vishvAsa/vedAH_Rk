@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जातू꣡भर्मा श्रद्द꣡धान ओ꣡जः  
 पु꣡रो विभिन्द꣡न्न् अचरद् वि꣡ दा꣡सीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡र्यं स꣡हो वर्धया द्युम्न꣡म् इन्द्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒द्वान् । व॒ज्रि॒न् । दस्य॑वे । हे॒तिम् । अ॒स्य॒ । आर्य॑म् । सहः॑ । व॒र्ध॒य॒ । द्यु॒म्नम् । इ॒न्द्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,20 +122,20 @@ genre M
 **जातूभर्मा** । जातू इत्यशनिमाचक्षते । भर्म आयुधम् । अशनिरूपमायुधं यस्य स तथोक्तः । यद्वा जातानां प्रजानां भर्ता । **ओजः** ओजसा बलेन निष्पाद्यं कार्यं **श्रद्दधानः** आदरातिशयेन कामयमानः' एवंभूतः **सः** इन्द्रः **दासीः** दस्युसंबन्धीनि **पुरः** पुराणि विभिन्दन् विनाशयन् **वि** **अचरत्** विविधमगच्छत् । हे **वज्रिन्** वज्रवन् इन्द्र **विद्वान्** स्तुतीः विजानंस्त्वम् **अस्य** स्तोतुः **दस्यवे** उपक्षयकारिणे शत्रवे **हेतिम्** आयुधं विसृजेति शेषः । अपि च हे **इन्द्र** **आर्यं** **सहः** । आर्या विद्वांसः स्तोतारः । तदीयं बलं **वर्धय** अतिवृद्धं कुरु । तथा **द्युम्नं** तदीयं यशश्च प्रवर्धय ॥ जातूभर्मा । ‘ जनी प्रादुर्भावे । ‘ अन्येष्वपि दृश्यते ' इति दृशिग्रहणस्य सर्वोपाधिव्यभिचारार्थत्वात् केवलादपि डप्रत्ययः । जान् तूर्वतीति जातूः । ‘तुर्वी हिंसार्थः । क्विपि ‘राल्लोपः' इति वलोपः । भ्रियते इति भर्म । अन्येभ्योऽपि दृश्यन्ते' इति मनिन् । जातूः भर्म यस्य । छान्दसो रेफलोपः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । पक्षान्तरे तु जनेर्निष्ठा । ‘ जनसनखनाम्' इति आत्वम् । जातं सर्वं भर्म भर्तव्यं येन । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । वर्णव्यापत्त्या अकारस्य ऊकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Armed with the thunderbolt, and confident in his strength, he has gone on destroying the cities of the **Dasyus**. Thunderer, acknowledging (the praises of your worshipper) cast, for his sake, your shaft agains the **Dasyu**, and augment the strength and glory of the **Ārya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who by nature provides support, being trusted for his power, roved  widely, splitting apart the Dāsa strongholds.  
 As knowing one, o possessor of the mace, cast your missile at the Dasyu;  strengthen Ārya might and brilliance, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The iconic splitting of verb and preverb in 2c is complemented here in b by the polarized positioning of the NP “Dāsa strongholds,” the object of vibhindán, at the beginning and end of the pāda: #púraḥ … dā́sīḥ#, while the preverb+verb are univerbated in the participle (as against 2c).
 
@@ -144,23 +144,23 @@ Geldner (/Witzel Gotō) take śraddádhāna ójaḥ as transitive-reflexive, “
 introduction.), as well as I.102.2, 104.6-7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Armed with his bolt and trusting in his prowess he wandered shattering the forts of Dasas.  
      Cast thy dart, knowing, Thunderer, at the Dasyu; increase the Arya's might and glory, Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Natur einen Halt besitzend, indem er an seine Stärke glaubt, zog er umher, die dasischen Burgen brechend. Schleuder kundig, du Keulenträger, dein Geschoß nach dem Dasyu; mehre, o Indra, die arische Macht und Herrlichkeit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geborner Kämpfer, seiner Kraft vertrauend, durchschritt zerstörend er der Bösen Burgen; O Blitzer, schleudre auf den Feind die Lanze, des Arjers Macht vermehre kundig, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он, по своей природе поддержка (для людей), с силой, в которую верят,  
 Бродил кругом, раскалывая крепости дасов.  

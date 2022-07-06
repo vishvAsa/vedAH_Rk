@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजू꣡र् देवे꣡भिर् अपां꣡ न꣡पातं  
 स꣡खायं कृध्वं शिवो꣡ नो अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 स॒ऽजूः । दे॒वेभिः॑ । अ॒पाम् । नपा॑तम् । सखा॑यम् । कृ॒ध्व॒म् । शि॒वः । नः॒ । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajūr* ← *sajūs*
 - \[adverb\]
@@ -81,41 +81,41 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे स्तोतारः **अपाम्** उदकानां **नपातं** पुत्रमग्निम्। ‘सूनुः नपात् ' इत्यपत्यनामसु पाठात् । **देवेभिः** देवैः **सजूः** सह **सखायं** मित्रं स्तुतिभिः **कृध्वं** कुरुध्वम् । स चापां नपात् **नः** अस्मभ्यं **शिवः** सुखकरः **अस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify along with the gods our friend, the grandson of the waters; may he be propitious to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the gods, make the Child of the Waters your companion. Let him be friendly to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here the 2nd pl. address appears to be to the priests/poets.
 
 This is the one of the few vss. in which the half-vs. break does not coincide with a major syntactic break, and this is made more noticeable by the fact that there is a clause break between pādas c and d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accordant with the Gods choose for our Friend the Waters' Child: may he be good to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Eintracht mit den Göttern machet den Apam Napat euch zum Freunde, er soll uns günstig sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Macht euch zum Freunde – den Sohn der Wasser vereint den Göttern; – er sei uns heilvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В согласии с богами Апам Напата  
 Сделайте товарищем (нашим)! Пусть будет он милостив к нам!

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ व ऊतिः꣡ पृ꣡तनासु म꣡र्धति  
 य꣡स्मा अ꣡राधुवं नरः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तू꣡यं यात पिपीषवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । वः॒ । आ । अ॒व॒र्त् । सु॒ऽम॒तिः । नवी॑यसी । तूय॑म् । या॒त॒ । पि॒पी॒ष॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -105,20 +105,20 @@ genre M
 हे मरुतः **वः** युष्मदीया **ऊतिः** रक्षा **पृतनासु** युद्धेषु **नहि** **मर्धति** न खलु हिनस्ति । शत्रुभिः कृतां हिंसां न सहत इत्यर्थः । हे **नरः** नेतारः यूयं **यस्मै** जनाय **अराध्वं** कामानदध्वं तं जनं न हिनस्तीति संबन्धः । **नवीयसी** नवतरा **वः** युष्मदीया **सुमतिः** अनुग्रहबुद्धिः **अभि** **आवर्त्**   अस्मानभ्यावर्तताम् । तथा हे **पिपीषवः** सोमपानकामाः यूयमपि **तूयं** क्षिप्रं **यात** आगच्छत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your protection, leaders (of rites), yields no detriment to him whom you defend in battles; may yourlatest favour return to us; come quickly, eager to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your help in battles certainly does not desert him to whom you have  granted it, o men.  
 Your favor has turned here anew. Drive straightaway, you who desire  to drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -128,23 +128,23 @@ Both of these vss. begin nahí vaḥ; in neither one is it easy to produce a cau
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your succour in the battle injures not the man to whom ye, Heroes, grant your gifts.  
      May your most recent favour turn to us again. Come quickly, ye who fain would drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn eure Hilfe läßt im Kampf nicht im Stich, wem ihr sie gewährt habt, ihr Herren. Eure Gunst hat aufs neue zu uns eingelenkt; kommet schnell, ihr Trinklustigen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn eure Hülfe bleibt in Schlachten nimmer fern dem, welchem hold ihr Männer seid; Aufs neue wandte eure Gunst sich wieder her, kommt eilend, Trunkbegierige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не прекращается ваша помощь в сражениях,  
 Кому вы даровали (её), о мужи.  

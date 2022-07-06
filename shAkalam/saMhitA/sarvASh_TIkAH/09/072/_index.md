@@ -8,7 +8,7 @@ title = "+072"
 ‘ हरिं मृजन्ति ' इति नवर्चं पञ्चमं सूक्तमाङ्गिरसस्य हरिमन्तस्यार्षं, पवमानसोमदेवताकम् । ‘ जागतमूर्ध्वं प्रागुशनसः' ( अनु. ९.६७ ) इति परिभाषया जागतम् । तथा चानुक्रान्तं- हरिं मृजन्ति हरिमन्तः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 72 (784)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ The role of humans in both the physical and the verbal preparation of Soma is  e
 The hymn contains one major problem: the hapax vinaṃgr̥sá in 3c. The phrase ology in this pāda is strongly suggestive of erotic slang, but unfortunately the word  has so far defeated all attempts to decode it. It is worth noting, however, that it is a  partial anagram of the patronymic of the poet Harimanta Āṅgirasa, and he may be  punning on his name in this playful, erotic context.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In contrast to the contorted thought and metaphorical flights of the first few hymns in the trimeter group (IX.68-71), this one is relatively straightforward, with the major exception of vs. 3.
 

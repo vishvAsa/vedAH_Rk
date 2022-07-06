@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡द् वदन्ति मदिरे꣡ण मन्दि꣡ना  
 इ꣡न्द्रं क्रो꣡शन्तो अविदन्न् अना꣡ म꣡धु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आघोष꣡यन्तः पृथिवी꣡म् उपब्दि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒म्ऽरभ्य॑ । धीराः॑ । स्वसृ॑ऽभिः । अ॒न॒र्ति॒षुः॒ । आ॒ऽघो॒षय॑न्तः । पृ॒थि॒वीम् । उ॒प॒ब्दिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
@@ -107,37 +107,37 @@ popular
 **मदिरेण** मदकरेण मन्दिना अभिषूयमाणेन सोमेन इन्द्रं क्रोशन्तः आह्वयन्त एते ग्रावाणः बृहत् अत्यन्तं वदन्ति शब्दायन्ते । किंच **अना** आस्येन **मधु** मदकरं सोमम् **अविदन्** अलभन्त । किंच **संरभ्य** संरब्धा भूत्वा **धीराः** धृष्टाः सन्तः उपब्दिभिः शब्दैः पृथिवीम् **आघोषयन्तः** पूरयन्तः स्वसृभिः अङ्गुलिभिः सह अनर्तिषुः नृत्यन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They cry aloud calling upon **Indra** with the intoxicating effused (**Soma**), they took the sweet Soma intotheir mouth, seized by the sister (fingers) the bold stones danced, filling the earth with shouts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They speak loftily by reason of the delighting delightful (soma).  
 Shrieking to Indra, in this way they found the honey.  
 (Fit) to be clasped by the sisters [=fingers], the clever ones have danced,  making the earth heed with their trampling.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They cry aloud, with strong exhilarating drink, calling on Indra now, for they have found the meath.  
      Bold, with the sisters they have danced, embraced by them, making the earth reecho with their ringing sound.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie reden laut, durch den berauschenden, lustigmachenden Soma berauscht, den Indra anschreiend haben sie dabei die Süßigkeit gefunden. Kundig haben sie mit den Schwestern untergefaßt getanzt, mit ihrem Getrappel die Erde widerhallend machend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie singen kräftig mit dem Trank, der sie berauscht, nach Indra rufend, denn sie fanden schon den Meth; Nun tanzen sie umschlungen von der Schwesterschar mit Kunst, sodass die Erde dröhnt von ihrem Schall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

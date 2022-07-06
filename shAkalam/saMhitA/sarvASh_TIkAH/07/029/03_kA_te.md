@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡ ते अस्ति अ꣡रंकृतिः सुउक्तइः꣡  
 कदा꣡ नूनं꣡ ते मघवन् दाशेम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा म इन्द्र शृणवो ह꣡वेमा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वाः॑ । म॒तीः । आ । त॒त॒ने॒ । त्वा॒ऽया । अध॑ । मे॒ । इ॒न्द्र॒ । शृ॒ण॒वः॒ । हवा॑ । इ॒मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
@@ -128,20 +128,20 @@ genre M
 हे इन्द्र **ते** तव **सूक्तैः** अस्माभिः क्रियमाणैः स्तोत्रैः **अरंकृतिः** अलंकृतिः **का** **अस्ति** कीदृशी भवति । हे **मघवन्** **ते** तव **कदा** **नूनं** कदा खलु **दाशेम** प्रीतिमुत्पादयेम । **त्वाया** त्वत्कामनयैव **विश्वाः** **मतीः** सर्वाः स्तुतीः **आ** **ततने** करोमि । **अध** अतः कारणात् हे **इन्द्र** **मे** मदीयानि **इमा** इमानि **हवा** हवानि स्तोत्राणि **शृणवः** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What satisfaction is there to you from our hymns? When, **Maghavan**, may we indeed present to you(oblations)? I expatiate in all praises addressed to you; hear, **Indra**, these my invocations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is the proper way to prepare for you with hymns? When now might  we do ritual service for you, bounteous one?  
 I will stretch out all my thoughts, seeking you. So now will you listen to  these invocations of mine?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes tatane as a preterite (“… habe ich … gespannt”), but the fullgrade root syllable should signal a subjunctive, which also fits the context better (opt.
 
@@ -150,23 +150,23 @@ daśema [b], subj. śṛṇavaḥ [d]). In contrast Kümmel (210) considers the 
 Note that the hemistich finals dāśema (b) and hávemā́(d) rhyme, though they are morphologically entirelhy distinct.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What satisfaction do our hymns afford thee? When, Maghavan? Now let us do thee service.  
      Hymns, only hymns, with love for thee, I weave thee: then hear, O Indra, these mine invocations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie kann man dir mit Liedern Genüge tun? Wann sollen wir dir nun aufwarten, du Gabenreicher? Alle Gedanken habe ich nach dir gespannt; darum höre auf diese Rufe von mir, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie werden wir mit Liedern recht dir dienen? wie sollen wir dir recht, o starker, huld'gen? Ich webe alle Lieder dir zu Liebe, Drum höre nun, o Indra, dies mein Rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как служить тебе гимнами?  
 Когда теперь мы сможем почтить тебя, о щедрый?  

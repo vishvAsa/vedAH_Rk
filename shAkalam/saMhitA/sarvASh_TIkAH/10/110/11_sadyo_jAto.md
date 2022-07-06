@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सद्यो꣡ जातो꣡ वि꣡ अमिमीत यज्ञ꣡म्  
 अग्नि꣡र् देवा꣡नाम् अभवत् पुरोगाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡हाकृतं हवि꣡र् अदन्तु देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । होतुः॑ । प्र॒ऽदिशि॑ । ऋ॒तस्य॑ । वा॒चि । स्वाहा॑ऽकृतम् । ह॒विः । अ॒द॒न्तु॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadyo* ← *sadyas*
 - \[adverb\]
@@ -123,36 +123,36 @@ genre M
 अयमग्निः **सद्यः** तदानीमेव **जातः** जायमान एव **यज्ञं** **व्यमिमीत** विशेषेण निर्मिमीते । उत्पादयति ॥ माङ् माने शब्दे च '। जौहोत्यादिकः ॥ अत एवायम् **अग्निः** **देवानां** **पुरोगाः** प्रथमगामी मुख्यः **अभवत्** ॥ गमेर्विट्प्रत्यय आत्वे च कृते रूपम् ॥ ततः **प्रदिशि** प्रकृष्टायां दिशि प्राच्याम् **ऋतस्य** आहवनीयात्मनागतस्य **अस्य** **होतुः** होमनिष्पादकस्याग्नेः **वाचि** । अत्र वागाश्रय आस्यं लक्ष्यते । वाच्यास्ये **स्वाहाकृतं** स्वाहाकारेण प्रक्षिप्तं **हविः** सर्वे **देवाः** **अदन्तु** भक्षयन्तु । इदं सूक्तं यास्केन सम्यगभ्यधायि ( निरु. ८.५–२१ ) । तदत्रानुसंधीयताम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as he was born, **Agni** constructed a sacrifice, he was the preceder of the gods; may the godspartake of the oblation presented with the **svāhā** through the voice of him the **hotā** of the sacrifice at theeastern station.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just born, he measured out the sacrifice at once. Agni became the leader  of the gods.  
 At the direction of this Hotar, at his word of truth, let the gods eat the  oblation, prepared with the svāhā-cry.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, as soon as he was born, made ready the sacrifice, and was the Gods' preceder.  
      May the Gods cat our offering consecrated according to this true Priest's voice and guidance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eben geboren richtete er das Opfer aus; Agni ward der Führer der Götter. Auf dieses Hotri Geheiß, bei dem Worte der Opferordnung sollen die Götter die mit Svaha gesegnete Opferspende essen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geboren kaum vollzog das Opfer Agni der Götter Führer ward er, diese mögen Nach dieses wahren Priesters Wort und Weisung das Opfer essen, das geweiht der Heilruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва успев родиться, он отмерил жертву.  
 Агни стал идущим впереди богов.  

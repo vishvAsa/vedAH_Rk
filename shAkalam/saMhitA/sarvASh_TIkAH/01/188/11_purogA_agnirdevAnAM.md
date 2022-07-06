@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोगा꣡ अग्नि꣡र् देवा꣡नां  
 गायत्रे꣡ण स꣡म् अज्यते  
 स्वा꣡हाकृतीषु रोचते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 स्वाहा॑ऽकृतीषु । रो॒च॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purogā* ← *purogāḥ* ← *purogā*
 - \[noun\], nominative, singular, masculine
@@ -73,7 +73,7 @@ genre M
 अयम् **अग्निः** **देवानां** **पुरोगाः** असुरयुद्धं प्रति पुरोगामी । यद्वा । देवानां मध्ये यज्ञं प्रति अग्निरेव पुरोगामी । अत एव अग्रणीत्वादेव अग्निशब्दो निष्पन्नः । ‘अग्निः कस्मादग्रणीर्भवति' ( निरु. ७. १४ ) इति निरुक्तम् । तादृशोऽयं **गायत्रेण** एतदुपलक्षितेन मन्त्रेण **समज्यते** सम्यग्लक्ष्यते । **स्वाहाकृतीषु** स्वाहाकारेषु सत्सु हविःषु दीयमानेषु **रोचते** अत्यर्थं दीप्यते । एता: प्रयाजदेवताः यज्ञावयवाभिमानिन्यः । तद्द्वारा यज्ञ एव स्तूयते इति केषांचित् मतम् । अग्नेरेव नामान्तरमित्यन्ये ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,39 +84,39 @@ genre M
 **Purogā** purogāmī; **agniḥ** kasmādagraṇīrbhavati (**Nirukta** 7.14), is characterized by the **Gāyatrī** measure; he blazes when the oblations are offered.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the leader of the gods, is anointed by the gāyatrī-chant.  
 He shines at the svāhā-calls.394 I.189
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in vs. 9, symbolic anointing, here by means of a chant or song, is still represented as physical: Agni “shines” because of it, presumably gleaming from the conceptual fat. I take gāyatréṇa as referring specifically to the Gāyatrī meter (in which this hymn is composed), though it may merely be ‘song’, as Geldner (/Witzel Gotō) take it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, preceder of the Gods, is honoured with the sacred song:  
      He glows at offerings blest with Hail!
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni going in front of the gods is anointed with this Gâyatra song; he shines when Svâhâ is pronounced (over the oblations).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der Anführer der Götter, wird mit einem Sange eingesalbt; er erstrahlt unter Svaharufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter führet Agni an, er wird mit Jubellied begrüsst, Bei Weihe-rufen strahlt er hell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, идущий впереди богов,  
 Умащается пением гаятри.  

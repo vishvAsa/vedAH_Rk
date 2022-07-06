@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वि꣡श्वानि अभि꣡ व्रता꣡  
 सो꣡मस्य म꣡दे अ꣡न्धसः  
 इ꣡न्द्रो देवे꣡षु चे꣡तति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । दे॒वेषु॑ । चेत॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -85,20 +85,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अन्धसः** अद्यमानस्य **सोमस्य** **मदे** संजाते **विश्वानि** सर्वाणि **व्रता** व्रतानि कर्माणि **यः** **इन्द्रः** **देवेषु** **अभि** **चेतति** ज्ञापयति तस्मा इन्द्राय देवत्तं ब्रह्म गायतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who, in the exhilaration of the quaffed **Soma**, makes known among the gods all pious rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who in the exhilaration of the soma stalk  
 oversees all commandments among the gods—Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
 <details open><summary><h2>27-28 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ These two verses form a sort of ring with vs. 1. There gā́thayā / máde sóma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, who in the wild delight of Soma juice considers here  
      All holy Laws among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, der unter den Göttern alle Obliegenheiten im Rausche des Somatranks bedenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der auf alle Werke merkt im Rausch des somareichen Krauts, Den Indra in der Götterschar,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, который среди богов  
 Внимает всем заветам  

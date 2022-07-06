@@ -6,7 +6,7 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मंसीम꣡हि त्वा वय꣡म्  
 अस्मा꣡कं देव पूषन्  
@@ -14,7 +14,7 @@ ChandaH = "उष्णिक्"
 वि꣡प्राणां᳐ च आधव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒ती॒नाम् । च॒ । साध॑नम् । विप्रा॑णाम् । च॒ । आ॒ऽध॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maṃsīmahi* ← *man*
 - \[verb\], plural, Aorist optative
@@ -93,7 +93,7 @@ genre M
 हे **देव** द्योतमान **पूषन्** **वयं** स्तोतारः **त्वा** त्वां **मंसीमहि** स्तुमः । कीदृशम् । **अस्माकम्** अस्मदीयानां **मतीनां** **च** अभिलषितानां च **साधनं** साधयितारं **विप्राणां** **च** मेधाविनामपि **आधवं** परिचर्याद्वारेण कम्पयितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ genre M
 Quake: ādhavam = making them shake with reverence and respect\]. the devout, scattering (his foes).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would contemplate you. For us, god Pūṣan, (you are)  
 both the means to realize our thoughts and to stir up our inspired poets,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will bethink ourselves of thee, O Pusan, O thou God, as One.  
      Who brings fulfilment of our hymns, and stirs the singer and the sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten deiner gedenken, Gott Pusan, als des Wirkers unserer frommen Gedanken und als Aufrüttler der Beredsamen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wollen dein gedenken nun, o Puschan, der du uns, o Gott, Der Andacht Bitten gern erfüllst, die Sänger zum Gesang erregst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим думать о тебе  
 Как о нашем, о бог Пушан,  

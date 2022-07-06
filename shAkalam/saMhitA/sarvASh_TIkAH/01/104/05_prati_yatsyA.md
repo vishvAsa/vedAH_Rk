@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति य꣡त् स्या꣡ नी꣡था अ꣡दर्शि द꣡स्योर्  
 ओ꣡को ना꣡छा स꣡दनं जानती꣡ गात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो मघे꣡व निष्षपी꣡ प꣡रा दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । नः॒ । म॒घ॒ऽव॒न् । च॒र्कृ॒तात् । इत् । मा । नः॒ । म॒घाऽइ॑व । नि॒ष्ष॒पी । परा॑ । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -147,7 +147,7 @@ genre M
 **यत्** यदा **नीथा** नयनहेतुभूता **स्या** सा पदवी **प्रति** **अदर्शि** अस्माभिर्दृष्टाभूत् सा च पदवी **दस्योः** उपक्षपयितुः कुयवस्यासुरस्य **सदनं** गृहम् **अच्छ** आभिमुख्येन गात् गता प्राप्ता । तत्र दृष्टान्तः । **जानती** स्वकीयं वत्सम् अभिजानती गौः **ओको** **न** निवासस्थानं स्वकीयं गोष्ठं यथा ऋजु प्राप्नोति । तद्वन्मार्गोऽप्यसुरगृहं प्राप्त इत्यर्थः । **अध** **स्म** अथानन्तरमेव हे **मघवन्** धनवन्निन्द्र **चर्कृतात्** पुनःपुनस्तेनासुरेण कृतादुपद्रवात् **नः** अस्मान् रक्षेति शेषः । इत् इत्यवधारणे । अस्मान् रक्षैव **नः** अस्मान् **मा** **परा** **दाः** मा परित्याक्षीः । अस्माभिर्ज्ञातेन मार्गेण गत्वा अस्मदुपद्रवकारिणमसुरं जहीति तात्पर्यार्थः । तत्र व्यतिरेके दृष्टान्तोऽभिधीयते । **मघेव** **निष्षपी** । यथा विनिर्गतसपो विनिर्गतशेपः यथेष्टचारी दासीपतिः मघेव यथा धनान्यस्थाने परित्यजति तथास्मान् मा परित्याक्षीरित्यर्थः । अत्र निरुक्तं-निष्पपी स्त्रीकामो भवति विनिर्गतसपः। सपः सपतेः स्पृशतिकर्मणः। मा नो मघेव निष्षपी परा दाः । स यथा धनानि विभजति मा नस्त्वं तथा परा दाः' (निरु. ५.१६) इति ॥ नीथा । ‘णीञ् प्रापणे '। हनिकुषिनीरमिकाशिभ्यः क्थन् ' इति करणे क्थन्प्रत्ययः । गात् । एतेर्लुङि ‘ इणो गा लुङि' इति गादेशः । ‘ गातिस्था' इति सिचो लुक् । बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । चर्कृतात् । करोतेर्यङ्लुगन्तात् ‘निष्ठा ' इति क्तप्रत्ययः । मघाऽइव । ‘शेश्छन्दसि । इति शेर्लोपः ।' निष्षपी। ' षप समवाये । सपति समवैति योन्या संगच्छते इति सपः शेपः । पचाद्यच् । निर्गतो नित्योद्धृतः सपः शेपो यस्य स स्त्रीव्यसनी निष्षपः । वर्णव्यापत्त्या ईकारः । दाः । ‘डुदाञ् दाने' । लुङि ‘ गातिस्था' इति सिचो लुक् । ‘न माड्योगे ' इत्यडभावः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -158,14 +158,14 @@ genre M
 Of the Dasyu: Of **Kuyava**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When that guide [=both riverbed and strategy] of the Dasyu was  revealed, she who recognized it [=Dawn] went to his seat as if  
 straight home.  
 Now then, bounteous one, just grant us acclaim. Don’t hand us over, like  a careless man his bounties.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again, consult the published introduction. As noted there, I think the unidentified female in b is Dawn, who leads the Ārya forces across the river(s) and against the Dasyu.
 
@@ -174,23 +174,23 @@ The other standard tr. take her rather as Saramā, Indra’s canine sidekick, on
 In d niṣṣapín- is a hapax, but ‘without care, careless’ (√sap ‘serve, care for’) makes sense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soon as this Dasyu's traces were discovered, as she who knows her home, he sought the dwelling.  
      Now think thou of us, Maghavan, nor cast us away as doth a profligate his treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als diese Spur des Dasyu entdeckt war, kam die wegekundige Sarama zu seinem Sitze wie nach ihrem Hause. Nun gedenke unser, du Gabenreicher; gib uns nicht preis wie der Verschwender seine Reichtümer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als jene List des Dämons er erkannte, ging er zum Ort, der Kuh gleich, die den Stall kennt; Nun mögst du starker unserer gedenken, nicht gib uns hin, wie Schätze der Verschwender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же выяснилась та уловка дасью,  
 Знающая (путь Сарама) пришла в его (жилище), как к себе домой.  

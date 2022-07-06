@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षणं धीभि꣡र् अप्तु꣡रं  
 सो꣡मम् ऋत꣡स्य धा꣡रया  
 मती꣡ वि꣡प्राः स꣡म् अस्वरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒ती । विप्राः॑ । सम् । अ॒स्व॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
@@ -80,21 +80,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विप्राः** मेधाविन ऋत्विजः **वृषणं** कामानां वर्षकम् **अप्तुरम्** अपां प्रेरकं **सोमं** **धीभिः** अङ्गुलीभिः **मती** मत्या स्तुत्या च **ऋतस्य** उदकस्य **धारया** **समस्वरन्** प्रेरयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise (priests) in a stream of water send forth with their fingers, and with praise the sprinkler (of benefits), the shedder of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the water-crossing bull, Soma, in a stream of truth  
 have the inspired poets cried out in unison with their insights, their  
 thought.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singers with their thoughts and hymns have, in the stream of sacrifice,  
      Caused Soma, active Steer, to roar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Bullen , der unter Gebeten das Wasser überwindet, dem Soma, der in ordnungsmäßigem Strome abrinnt, haben die Beredten mit Andacht gemeinsam zugesungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Andacht und Gebet besang der Sänger Schar den thät'gen Stier, Den Soma in des Opfers Strom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

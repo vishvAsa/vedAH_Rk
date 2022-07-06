@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ पुत्रा꣡सो अ꣡दितेर्  
 विदु꣡र् द्वे꣡षांसि यो꣡तवे  
 अंहो꣡श् चिद् उरुच꣡क्रयो अनेह꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 अं॒होः । चि॒त् । उ॒रु॒ऽचक्र॑यः । अ॒ने॒हसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -90,36 +90,36 @@ genre M;; line affected by realignment
 **अदितेः** **पुत्रासः** पुत्राः **ते** **हि** ते खलु मित्रादयो देवाः **द्वेषांसि** द्वेष्टॄणि राक्षसादीनि **योतवे** पृथक्कर्तुं **विदुः** जानन्ति । 'विदो लटो वा' इति विद उत्तरस्य झेरुसादेशः । तथा “ उरुचक्रयः विस्तीर्णस्य कर्मणः कर्तारः **अनेहसः** अनाहन्तारो रक्षकास्ते **अंहोश्चित्** आहननशीलात् पापादपि योतवे पृथक्कर्तुमस्मान् जानन्ति ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These sons of **Aditi** know how to drive away (our) enmies; and, doers of great deeds and donors ofsecurity, (they know how to extricate us) from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For these sons of Aditi know how to keep away hostilities—  
 the faultless ones who make wide (space) even out of narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For well these Sons of Aditi know to keep enmities aloof,  
      Unrivalled, giving ample room, they save from woe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese Söhne der Aditi wissen der Feindschaft zu wehren; auch aus Bedrängnis schaffen sie einen Ausweg, die ohne Fehl sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn diese Söhne Aditi's verstehn zu scheuchen jeden Feind, Die von Bedrängniss uns befrein, die herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти сыновья Адити  
 Умеют отвращать проявления ненависти,  

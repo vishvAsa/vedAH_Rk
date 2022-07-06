@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुकिंशुकं꣡ शल्मलिं꣡ विश्व꣡रूपं  
 हि꣡रण्यवर्णं सुवृ꣡तं सुचक्र꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सियोन꣡म् प꣡त्ये वहतुं꣡ कृणुष्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । रो॒ह॒ । सू॒र्ये॒ । अ॒मृत॑स्य । लो॒कम् । स्यो॒नम् । पत्ये॑ । व॒ह॒तुम् । कृ॒णु॒ष्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sukiṃśukaṃ* ← *su*
 - \[adverb\]
@@ -132,7 +132,7 @@ popular
 **सुकिंशुकं** शोभनकिंशुकवृक्षनिर्मितं तथा **शल्मलिं** शल्मलिवृक्षनिर्मितं **विश्वरूपं** नानारूपं हिरण्यवर्णं हितरमणीयवर्णं हिरण्यालंकारयुक्तं वा **सुवृतं** सुष्ठुवर्तनं **सुचक्रं** शोभनचक्रोपेतं रथं हे **सूर्ये** **आ** **रोह** । अमृतस्य लोकं स्थानं **स्योनं** सुखकरं **पत्ये** सोमाय **वहतुं** वहनमात्मनः प्रापणं **कृणुष्व** कुरुष्व । अत्र निरुक्तं (१२. ८) द्रष्टव्यम् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ popular
 The ṛca is recited when the bride goes to the house of the husband. amṛtasya lokam = the world ofimmortality; or, the abode of the **Soma**, the object of aroha, ascend
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lovely with kimśuka flowers, (made of) śalmali wood, having all forms,  of golden color, well-turning, well-wheeled—  
 mount, o Sūryā, the world of immortality. Make your wedding  
 procession a comfortable place for your husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mount this, all-shaped, gold-hued, with strong wheels, fashioned of Kimsuka and Salmali, light-rolling,  
      Bound for the world of life immortal, Surya: make for thy lord a happy bridal journey.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mit schönen Kimsukablüten geschmückten Wagen aus Salmaliholz, den allfarbigen, wie Gold aussehenden, leichtrollenden mit guten Rädern besteige, o Surya, die Welt der Unsterblichkeit! Bereite dem Gatten eine behagliche Hochzeitsfahrt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besteige, o Suriā, den Wagen, der mit schönen Kimçuka-Blüten geschmückt und aus Çalmali-Holz gebaut ist, den allgestaltigen, goldfarbenen, schönrollenden, schönrädrigen, hin zur Welt der Unsterblichkeit [fahrend], verschaffe dem Gatten eine glückliche Hochzeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На украшенную киншукой, (сделанную из) шалмали, с разными формами,  
 Цвета золота, легкоходную (колесницу) с прекрасными колесами  

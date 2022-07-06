@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यातु इ꣡न्द्रः स्व꣡पतिर् म꣡दाय  
 यो꣡ ध꣡र्मणा तूतुजान꣡स् तु꣡विष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपारे꣡ण महता꣡ वृ꣡ष्णियेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽत्व॒क्षा॒णः । अति॑ । विश्वा॑ । सहां॑सि । अ॒पा॒रेण॑ । म॒ह॒ता । वृष्ण्ये॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -117,37 +117,37 @@ genre M
 **यः** इन्द्रः **तूतुजानः** त्वरमाणः **तुविष्मान्** वृद्धिमान् **विश्वा** विश्वानि **सहांसि** शत्रुबलानि **अपारेण** **महता** अधिकेन **वृष्ण्येन** बलेन **प्रत्वक्षाणः** प्रकर्षेण तनूकुर्वन् **अति** गच्छतीति शेषः । **स्वपतिः** धनपतिः **इन्द्रः** **मदाय** मदार्थं **धर्मणा** धारकेण रथेन **आ** **यातु** अस्मद्यज्ञं प्रत्यागच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, the lord of wealth, come here with his chariot for his exhilaration; he who is rapid, strong,who, overcoming all the forces (of the enemy) by his great insuperable might, (passes) through them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra, our own lord, drive here for exhilaration—he who, forceful,  thrusting according to his own principle,  
 is projecting his vigor over all powers with his boundless, great  
 bullishness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY Sovran Indra come to the carousal, he who by Holy Law is strong and active,  
      The overcomer of all conquering forces with his great steer-like power that hath no limit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra als der Eigentümer soll zum Rausche herkommen, der nach seiner Bestimmung ungestüm, gewaltig ist, der hervorragend stark alle Gewalten überragt durch seine grenzenlose große Bullenkraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Selbstherr Indra komme her zum Rausche, er, voller Kraft nach seiner Art, und eilend, Er, welcher alle Kräfte überraget durch unermessne grosse Heldenstärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придет Индра для опьянения как хозяин,  
 Кто по своей природе стремительный, могучий,  

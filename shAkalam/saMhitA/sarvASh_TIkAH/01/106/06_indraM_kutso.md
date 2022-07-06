@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं कु꣡त्सो वृत्रह꣡णं श꣡चीप꣡तिं  
 काटे꣡ नि꣡बाळ्ह ऋ꣡षिर् अह्वद् ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रथ॑म् । न । दुः॒ऽगात् । व॒स॒वः॒ । सु॒ऽदा॒नवः॒ । विश्व॑स्मात् । नः॒ । अंह॑सः । निः । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -118,7 +118,7 @@ genre M;; repeated line
 काटः इति कूपनाम । तस्मिन् **निबाळ्हः** निपातितः **कुत्सः** **ऋषिः** **ऊतये** रक्षणाय **इन्द्रम्** **अह्वत्** आह्वयति स्म । कीदृशम् । **वृत्रहणं** वृत्राणां शत्रूणां हन्तारं **शचीपतिम्** । शचीति कर्मनाम । सर्वेषां कर्मणां पालयितारम् । यद्वा । शच्या देव्याः भर्तारम् ॥ शचीपतिम् । वनस्पत्यादिषु पाठादुभयपदप्रकृतिस्वरत्वम् । शचीशब्दः शार्ङ्गरवादिङीनन्त आद्युदात्तः । निबाळ्हः ।  ‘ बाहृ प्रयत्ने । नीत्युपसर्गवशात् पतने वर्तते । निष्ठायाम् ' अनित्यमागमशासनम्' इति इडभावः। ढत्वधत्वादीनि । यद्वा ।' क्षुब्धस्वान्त° ' ( पा. सू. ७. २. १८) इत्यादौ भृशार्थे इडभावो निपात्यते । अत्र च बाढशब्दो भृशत्वोपेते' पतने सामर्थ्याद्वर्तते ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अह्वत् ।  ‘ लिपिसिचिह्वश्च' (पा. सू. ३. १. ५३ ) इति लुङि च्लेरादेशः ।  ‘ आतो लोप इटि च' इत्याकारलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ Kutsa = **Trita**; '**saci-pati** = husband of '**saci**;
 **Śaci** = **karma**, act or rite
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kutsa the seer, squeezed down into a pit, called on Indra, smasher of  Vr̥tra, lord of power, for help.  
 – Like a chariot from a hard place, o good ones of good gifts, rescue us  from all narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sunk in the pit the Rsi Kutsa called, to aid, Indra the Vrtra-slayer, Lord of power and might.  
      Even as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, den Vritratöter, den Herrn der Kraft, hat der Rishi Kutsa, als er in die Grube hinabgestoßen war, zur Hilfe gerufen. - Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sänger Kutsa rief umschlossen in der Kluft den Vritratödter Indra, Herrn der Kraft herbei; Wie einen Wagen führet aus der Enge uns aus aller Noth, o gabenreiche, gute ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Риши Кутса, когда оказался зажатым в яме, позвал  
 На помощь Индру, убийцу Вритры, повелителя силы.  

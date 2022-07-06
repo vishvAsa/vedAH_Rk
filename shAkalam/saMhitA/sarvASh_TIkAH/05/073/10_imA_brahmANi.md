@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ब्र꣡ह्माणि व꣡र्धना  
 अश्वि꣡भ्यां सन्तु शं꣡तमा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡वोचाम बृह꣡न् न꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 या । तक्षा॑म । रथा॑न्ऽइव । अवो॑चाम । बृ॒हत् । नमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
@@ -99,37 +99,37 @@ genre M
 अथ स्तुतिं निगमयति । **इमा** इमानि इदानीं कृतानि **ब्रह्माणि** परिवृढानि स्तोत्राणि **अश्विभ्यां** **वर्धना** वर्धनानि समर्धकानि **शंतमा** सुखतमानि **सन्तु** । **या** यानि **तक्षाम** संपादयाम **रथानिव** शिल्पी तद्वत्तक्षाम तानि सन्तु । वयं **बृहत्** प्रभूतं प्रभूतफलप्रदं **नमः** नमस्कारोक्तिम् **अवोचाम** ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these praises exalting the **Aśvins** be productive of happiness, the praise that we fabricate as (a wheelwright) a car; we proclaim aloud fervent adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these strengthening formulations for the Aśvins be most  
 luck-bringing—  
 these that we fashion like chariots. We have spoken lofty reverence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most pleasing to the Asvins be these prayers which magnify their might,  
      Which we have fashioned, even as cars high reverence have we spoken forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese erbaulichen Worte sollen den Asvin recht wohltuende Stärkungen sein, die wir wie Wagen gezimmert haben. Wir haben sie als hohe Huldigungen gesprochen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Rittern mögen kräftigend willkommen die Gebete sein, Die wir wie Wagen zimmerten, wir sprechen hohe Ehrfurcht aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти усиливающие слова молитвы  
 Да будут Ашвинам на самое большое благо,  

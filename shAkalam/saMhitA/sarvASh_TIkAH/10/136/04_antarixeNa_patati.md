@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡रिक्षेण पतति  
 वि꣡श्वा रूपा꣡वचा꣡कशत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सउ꣡कृत्याय स꣡खा हितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 मुनिः॑ । दे॒वस्य॑ऽदेवस्य । सौकृ॑त्याय । सखा॑ । हि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antarikṣeṇa* ← *antarikṣa*
 - \[noun\], instrumental, singular, neuter
@@ -93,36 +93,36 @@ popular;; epic anuṣṭubh (380)
 **मुनिः** अस्यर्चो द्रष्टा वृषाणक ऋषिर्वातरूपतां सूर्यास्मतां वा तत्तदुपासनया प्राप्तः सन् **अन्तरिक्षेण** आकाशेन **पतति** गच्छति । किं कुर्वन् । **विश्वा** विश्वानि सर्वाणि रूपाणि रूप्यमाणानि पदार्थजातानि **अवचाकशत्** अभिपश्यन् स्वतेजसा दर्शयन् । तथा **देवस्यदेवस्य** । नित्यवीप्सयोः' इति द्विर्वचनम् । अनुदात्तं च इति परस्याम्रेडितस्यानुदात्तत्वम्। सर्वस्यापि देवस्य **सख** सखिभूतः अत एव **सौकृत्याय** । सुष्ठु देवानुद्दिश्य क्रियमाणं यागात्मकं कर्म सुकृतम् । तस्य भावाय सम्यगनुष्ठापनाय **हितः** निहितः स्थापितो भवति ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Muni** flies through the firmament, illumining all objects, the friend of each deity, appointed forpious works.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He flies through the midspace, gazing down on all forms.  
 The ascetic has been established as the comrade of every god for good  action.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Muni, made associate in the holy work of every God,  
      Looking upon all varied forms flies through the region of the air.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Lüfte fliegt er, auf alle Gestalten herabschauend; der Muni ist jeglichem Gotte ein rechter Freund, zur Guttat recht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die Luft fliegt der Büsser, alle Gestalten erschaut er, als jedes Gottes Genosse zu jeder guten That gesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он летит по воздуху,  
 Глядя вниз на все формы.  

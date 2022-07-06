@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ ते अग्ने ज꣡निमा स꣡नानि  
 प्र꣡ पूर्विया꣡य नू꣡तनानि वोचम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡न्मञ्-जन्मन् नि꣡हितो जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हान्ति॑ । वृष्णे॑ । सव॑ना । कृ॒ता । इ॒मा । जन्म॑न्ऽजन्मन् । निऽहि॑तः । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -130,41 +130,41 @@ genre M
 हेअग्ने पूर्व्यायपुरतनायतेतुभ्यं सनानिसनातनानिमहद्भिः सम्भजनीयानिवानूतनानि अन्ये ष्वविद्यमानानि अद्यतनानिवा एताएतानिजनिम जन्मानिकर्माणिस्तोत्राणिवाप्रवोचं प्रोक्तवा नस्मि जातवेदाः जातप्रज्ञोजातधनोवा जन्मन् जन्मन् जायन्तइतिजन्मानः तेषुसर्वेषु मनुष्ये षुनिहितोयागार्थं तस्मैवृष्णे सम्पदांवर्षित्रे अग्नये इमाइमानि महान्तिबृहन्ति सवना सवनानि कृता कृतानि ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I address to you, **Agni**, who are of old, these eternal as well as recent adorations; these solemn sacrifices are offered to the showerer of benefits, who in every birth is established (among men), cognizant of all that exists.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These your births of long ago, o Agni, and your present ones I shall  proclaim for the ancient one.  
 Great soma-pressings for the bull have been made here. Jātavedas has  been installed in one birth after another.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee who art of old these songs, O Agni, have I declared, the ancient and the later.  
      These great libations to the Strong are offiered: in every birth is Jatavedas stablished.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 These old births of thine, O Agni, and the recent ones I have told forth to thee the ancient one. These great libations (of Soma) have been prepared for the manly one; generation by generation Gâtavedas has been placed (on the altar).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So habe ich deine alten Geburten, o Agni, deine jüngsten dir, dem Allerersten verkündet. Diese großen Trankopfer sind für den Bullen bereitet. Von Geschlecht zu Geschlecht wird der Jatavedas eingesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich will verkünden, Agni, die Geburten, die alten und die neuen, dir dem alten; Dem Stier sind hier bereitet grosse Mahle, in jedem Haus ist Gast der Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти твои, о Агни, древние рождения  
 И теперешние я провозгласил (тебе), изначальному (богу).  

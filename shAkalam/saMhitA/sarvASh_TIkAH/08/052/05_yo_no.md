@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नो दाता꣡ स꣡ नः पिता꣡  
 महाँ꣡ उग्र꣡ ईशानकृ꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 गो꣡र् अ꣡श्वस्य प्र꣡ दातु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 अया॑मन् । उ॒ग्रः । म॒घऽवा॑ । पु॒रु॒ऽवसुः॑ । गोः । अश्व॑स्य । प्र । दा॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -136,36 +136,36 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who gives to us is our father, the mighty, the strong, he who acts as the sovereign, may he, thestrong rich **Maghavan**, give us kine and horses, even without our asking for it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is a giver to us, he is our father—great, powerful, performing the  master’s part.  
 Even without our begging, let the powerful bounteous one who  
 possesses many goods give to us of cow and horse.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On īśānakṛ́t see I.61.11. Here the point is that Indra does what masters are supposed to do: give. In c áyāman is universally taken (as far as I know) as ‘not on a journey’, but it makes much more sense as a derivative of √yā ‘beg’, indicating that even without prompting Indra should do the right thing by us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der unser Schenker ist, der ist unser Vater, der große, gewaltige Reichmacher. Auch wenn er nicht auf der Fahrt ist, soll uns der Gewaltige, Freigebige, Schätzereiche weiter Rind und Roß schenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der uns Gaben zutheilt, der ist unser Vater, der grosse, gewaltige, der als mächtiger Herrscher wirkt; auch ohne zu kommen (?), schenke uns der starke, mächtige, sehr reiche Rinder und Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто наш даритель, тот наш отец,  
 Великий, грозный, действующий как владыка.  

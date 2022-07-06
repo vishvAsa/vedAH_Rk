@@ -8,7 +8,7 @@ title = "+072"
 ‘ हविष्कृणुध्वम् ' इत्यष्टादशर्चं तृतीयं सूक्तम् । अत्रानुक्रमणिका – हविर्द्व्यूना हर्यतः प्रागाथो हविषां स्तुतिर्वा ' इति । प्रगाथपुत्रो हर्यत ऋषिः । परं गायत्रं प्राग्वत्सप्रेः ' इति परिभाषया गायत्री छन्दः ।  ‘ आग्नेयं तु ' इत्युक्तत्वादग्निर्देवता यद्वा हविषां स्तूयमानत्वात्तद्देवताकं वा । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 72 (681)  
 Agni or Praise of Oblations  
@@ -20,7 +20,7 @@ cessful. Rather we seem to have a set of discontinuous sacrificial vignettes, ca
 We confess to being uncertain about many of the answers to these implicit rid dles, and for others the machinery of explanation would overwhelm the poetry.  We have therefore for the most part avoided parenthetical identifications and para phrases. In general the first verses (esp. 2–5) seem to concern Agni and the initiation of the sacrifice, signaled by the sighting of the horses and chariot (of the sun?) in  verse 6. Most of the rest of the hymn, verses 7–17, concerns the preparation of  soma. The final verse (18) has much the same structure as verse 6, which closed the  first section of the hymn, and has similar annunciatory function.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni or Praise of Oblations See the published introduction. for the general structure and manifold difficulties of this hymn. For disc. of the possible ritual details, see Oldenberg, Geldner, Renou, etc. For the most part I will not comment on such here.
 </details>

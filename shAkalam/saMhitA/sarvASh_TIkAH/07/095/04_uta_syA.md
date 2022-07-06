@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्या꣡ नः स꣡रस्वती जुषाणा꣡  
 उ꣡प श्रवत् सुभ꣡गा यज्णे꣡ अस्मि꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राया꣡ युजा꣡ चिद् उ꣡त्तरा स꣡खिभ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मि॒तज्ञु॑ऽभिः । न॒म॒स्यैः॑ । इ॒या॒ना । रा॒या । यु॒जा । चि॒त् । उत्ऽत॑रा । सखि॑ऽभ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -120,43 +120,43 @@ genre M
 **उत** अपि च **जुषाणा** प्रीयमाणा **सुभगा** शोभनधना **स्या** सा **सरस्वती** **नः** अस्माकम् **अस्मिन्** **यज्ञे** **उप** **श्रवत्** । अस्मदीयाः स्तुतीरुपशृणोतु । कीदृशी सा। **मितज्ञुभिः** प्रह्वैर्जानुभिः **नमस्यैः** नमस्कारैर्देवैः **इयाना** उपगम्यमाना । चिच्छब्दश्चार्थे । **युजा** नित्ययुक्तेन **राया** धनेन च संगता **सखिभ्यः** **उत्तरा** उत्कृष्टतरा । ईदृश्यस्मदीयाः स्तुतीरुपशृणोत्वित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the auspicious and gracious **Sarasvatī** hear (our praises) at this sacrifice, approached as she iswith reverence and with bended knees, and most liberal to her friends with the riches she possesses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this Sarasvatī, the well-portioned, will harken to this sacrifice of  ours, taking pleasure in it,  
 being implored by reverential ones with their knees fixed. With wealth as  her yokemate, she is even higher than her companions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On mitá-jñu- see comm. ad VI.32.3.
 
 The sákhibhyaḥ of the final pāda must be Sarasvatī’s sister rivers. As Oldenberg points out, the stem sákhi- can be used of females as well as males; fem. sákhī- is absent from the older language. See also Renou ad loc. For the glorification of Sarasvatī over the other rivers, see vs. 1 and implicitly vs. 2, as well as the 1st vs. of the next hymn (VII.96.1) and VI.61.9, 10, 13. The formulation “higher than ABL” is identical to the boast of the victorious co-wife in X.145.3 úttarāhám … úttaréd úttarābhyaḥ “I am higher, higher even than the higher ones (fem.).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this Sarasvati be pleased and listen at this our sacrifice, auspicious Lady,  
      When we with reverence, on our knees, implore her close-knit to wealth, most kind to those she loveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch diese Sarasvati möge gern bei diesem Opfer zuhören, die Holde, der die Huldiger mit aufgestemmten Knieen nahen. Im Bunde mit dem Reichtum selbst geht sie über alle Freunde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hör uns auch Sarasvati, die sel'ge, an diesem Opfer Wohlgefallen findend, Von rüstigen Verehrern angerufen, mit Gaben kommend reichlicher als Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также эта Сарасвати пусть прислушается к нам,  
 Радуясь этому жертвоприношению, (она), несущая счастье,  

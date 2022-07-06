@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि ष्य꣡ सुवानो꣡ अक्षा  
 इ꣡न्दुर् अ꣡व्ये म꣡दच्युतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भ्राजा꣡ न꣡ ए꣡ति गव्ययुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धारा॑ । यः । ऊ॒र्ध्वः । अ॒ध्व॒रे । भ्रा॒जा । न । एति॑ । ग॒व्य॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -108,20 +108,20 @@ genre M
 **सुवानः** सूयमानः अस्यः **स्यः** सः **इन्दुः** सोमः **मदच्युतः** मदार्थं देवैः प्रेरितः सन् **अव्ये** अविभवे पवित्रे **परि** **अक्षाः** परितः क्षरति । **अध्वरे** **ऊर्ध्वः** समुच्छ्रितः सर्वेषां मुख्यः **यः** सोमः **गव्ययुः** गोकामः यद्वा क्षीरादिकं कामयमानः सन् **धारा** धारया सह **एति** गच्छति । **भ्राजा** **न** भ्राजमानया दीप्त्या यथान्तरिक्षे गच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** juice being effused flows through the fleece diffusing exhilaration; who, being exalted goes to the sacrifice in a stream desiring the milk and curds as (he goes to the firmament) with radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This drop, being pressed, has flowed around in the sheep’s fleece, aroused  to exhilaration,  
 the one who, erect at the ceremony, goes seeking cows with his stream,  like (Agni) with his flame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The transmitted akṣā at the end of pāda a before i- should have appeared as akṣār in sandhi; the Pp. reads akṣār íti. Wackernagel (AiG I.1.334-35) considers it a misunderstanding of original akṣāḥ by the redactors.
 
@@ -138,23 +138,23 @@ These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused, this Indu hath flowed on, distilling rapture, to the fleece:  
      He goes erect, as seeking kine in stream, with light, to sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ausgepreßte Saft ist auf der Schafwolle umgeflossen, rauscherregt, der bei dem Opfer mit dem Strome aufrecht geht wie Agni mit seiner Glut, nach der Kuhmilch begierig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gekeltert, lustig taumelnd rann der Indu durch die Wolle jetzt, Der, Milch begehrend, wie im Glanz emporgeht bei dem Fest im Strom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, он потек кругами,  
 Сок сомы в (цедилке) из овечьей шерсти, возбужденный опьянением,  

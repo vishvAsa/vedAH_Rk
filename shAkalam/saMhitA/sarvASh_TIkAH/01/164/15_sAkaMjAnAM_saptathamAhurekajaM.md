@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकंजा꣡नां सप्त꣡थम् आहुर् एकजं꣡  
 ष꣡ळ् इ꣡द् यमा꣡ ऋ꣡षयो देवजा꣡ इ꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्थात्रे꣡ रेजन्ते वि꣡कृतानि रूपशः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तेषा॑म् । इ॒ष्टानि॑ । विऽहि॑तानि । धा॒म॒ऽशः । स्था॒त्रे । रे॒ज॒न्ते॒ । विऽकृ॑तानि । रू॒प॒ऽशः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākañjānāṃ* ← *sākañjānām* ← *sākaṃja*
 - \[noun\], genitive, plural, masculine
@@ -124,7 +124,7 @@ popular
 **साकंजानाम्** एकस्मादादित्यात् सहोत्पन्नानां सप्तानामृतूनां मध्ये **सप्तथं** सप्तममृतुम् ॥  ‘ थट् च च्छन्दसि ' ( पा. सू. ५. २. ५०) इति थट् ॥ **एकजम्** एकेनोत्पन्नम् **आहुः** कालतत्त्वविदः । चैत्रादीनां द्वादशानां मासानां द्वयमेलनेन वसन्ताद्याः षडृतवो भवन्ति । अधिकमासेन एकः उत्पद्यते सप्तमर्तुः । न च तादृशो मास एव नास्तीति मन्तव्यम् । अस्ति त्रयोदशो मास इत्याहुः! (तै. सं. ६. ५. ३. ४ ) इति श्रुतेः । तदेवोच्यते । **षडिद्यमाः** । इच्छब्द एवकारार्थः। षडेव ऋतवः मासद्यरूपाः **ऋषयः** गन्तारः । ते च **देवजाः** देवादादित्यात् जाताः  **इति** एवमाहुः । सप्तमाधारस्य त्रयोदशस्य मासस्य देवाभावः।  ‘ निःसूर्योऽधिकमासो मण्डलं तपते रवेः' इत्यादिस्मृतेः। तस्मात् षडेव देवजाः अदेवजः एकः । **तेषाम्** ऋतूनां स्वरूपाणि **इष्टानि** सर्वलोकाभिमतानि **धामशः** तत्तत्स्थाने **विहितानि** पृथक् पृथक् स्थापितानि **रूपशः** रूपभेदेन **विकृतानि** विविधाकृतियुक्तानि । स च रूपभेदस्तैत्तिरीयैराम्नातः-  ‘ स रसमह वसन्ताय प्रयच्छद्यवं ग्रीष्माय' (तै. सं. ७. २. १०. १) इत्यादि । **स्थात्रे** अधिष्ठात्रे तदर्थाय **रेजन्ते** चलन्ति । जगद्व्यवहाराय पुनःपुनरावर्तन्ते इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ popular
 Six are twins: six seasons, made of two months each; the seventh is the intercalary month, which has no **āditya** to preside over it; the six seasons are also ṛsi, ṛṣayaḥ = gantāraḥ, goers; a ṛṣi is present in the sun's car in each of the twelve months; revolve for the benefit: the seasons are diversified by classes of temperature, produce, for the benefit of the world
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They speak of the seventh of those who are born at the same time as  the one born alone, saying, “the twins, the Seers born of the gods,  are only six.”  
 What (places) are desired by these [=the Seven Seers] are distributed  according to their spheres. While (the one) [=the pole star] stands  still, the ones varied in appearance [=the stars of the Seven Seers]  quiver.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of the co-born they call the seventh single-born; the six twin pairs are called Rsis, Children of Gods.  
      Their good gifts sought of men are ranged in order due, and various in their form move for the Lord who guides.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sagen, daß der Siebente unter den Paarweise geborenen ein Einling ist. Sechs sind Zwillinge, gottgeborene Rishi´s werden sie genannt. Deren liebe, nach der Ordnung festgestellte Tage bewegen sich zitternd wie die Speichen, während er feststeht, indem sie sich der Form nach verändern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von den zugleich erzeugten [Jahreszeiten] nennen sie die siebente [den Schaltmonat] die einzeln geborene [sofern sie nur aus einem Monat besteht], die sechs gepaarten [sofern jede von ihnen aus zwei Monaten besteht] nennen die Weisen »die von den Göttern erzeugten«, unter diesen sind die erwünschten nach der Ordnung vertheilt, an ihrem Standorte regen sie sich verschiedengestaltet je nach ihrer Art.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Седьмой из парнорожденных, говорят, рожден один,  
 А шестеро – близнецы, это риши, рожденные богами.  

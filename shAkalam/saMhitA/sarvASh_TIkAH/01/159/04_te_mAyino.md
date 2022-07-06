@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ मायि꣡नो ममिरे सुप्र꣡चेतसो  
 जामी꣡ स꣡योनी मिथुना꣡ स꣡मोकसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 समुद्रे꣡ अन्तः꣡ कव꣡यः सुदीत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नव्य॑म्ऽनव्यम् । तन्तु॑म् । आ । त॒न्व॒ते॒ । दि॒वि । स॒मु॒द्रे । अ॒न्तरिति॑ । क॒वयः॑ । सु॒ऽदी॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -123,7 +123,7 @@ genre M
 **ते** प्रसिद्धे द्यावापृथिव्यौ **मायिनः** । माया प्रज्ञा। स्वविषयप्रज्ञावन्तः प्रज्ञोपलक्षितकर्मवन्तो वा **सुप्रचेतसः** सुष्ठु प्रकर्षेण चेतितुं शक्ताः रश्मयः **ममिरे** मिमते प्रमाणेन परिच्छिन्दन्ति । कीदृश्यौ ते । **जामी** परस्परं भगिनी। एतत्कुतः इति चेत् उच्यते । **सयोनी** समानोत्पत्तिस्थाने **मिथुना** प्राण्युत्पत्तये मिथुनभूते परस्परमवियुक्ते इत्यर्थः । **समोकसा** समानस्थाने । द्युपृथिव्योः एकस्मिन्नेव अवकाशरूपे आकाशेऽवस्थानात् । समीचीनस्थाने वा। किंच **कवयः** मेधाविनः स्वव्यापारविषयज्ञानवन्तः **सुदीतयः** सुष्ठुद्योतना रश्मयः **दिवि** द्योतमाने **समुद्रे** अन्तरिक्षे **अन्तः** मध्ये। समुद्रशब्दः अन्तरिक्षनामसु पाठात् तद्वचनः । स चैवं यास्केन निरुक्तः - समुद्रः कस्मात्समुद्भवन्त्यस्मादापः समभिद्रवन्त्येनमापः संमोदन्तेऽस्मिन्भूतानि समुदको भवति समुनत्तीति वा । (निरु. २. १०) इति । **नव्य॑नव्यं** **तन्तुं** तननीयं विस्तारणीयम् । जात्येकवचनम् । रश्मीन् **आ** **तन्वते** समन्ताद्विस्तारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ genre M
 The epithets are to agree with te, they two;but some epithers are in plural ra, not the dual: te māyinaḥ supracetasaḥ, kavayaḥ sudītyaḥ; some are in the dual: sayoni, samokasā; the plural rals seem to imply another substantive: raśmayaḥ, rays of light: e.g., supracetasaḥ = prakarṣeṇa cetitum śaktā raśmayaḥ, rays able distinctly to apprehend; sudītayaḥ udyotanāḥ, raśmayaḥ, rising rays; the dual s are consistently referred to 'heaven and earth': samokasā, both dwelling together in the same space: dyu pṛthivyor ekasmin nevā vakāśarūpe ākāśe avasthānāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Masters of magical power, having good forethought, they measured  [=created] the kindred pair who share the same womb, the married  
 couple who share the same dwelling place.  
 They stretch an ever newer thread to heaven and within the sea—the  very brilliant poets.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They with surpassing skill, most wise, have measured out the Twins united in their birth and in their home.  
      They, the refulgent Sages, weave within the sky, yea, in the depths of sea, a web for ever new.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Zauberkundigen haben wohl vorausdenkend die beiden verschwisterten als ein Paar dem gleichen Schoß entsprossen, zusammengehörigen ausgemessen. Die erleuchteten Seher spannen immer einen neuen Faden zum Himmel im Meere aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schufen jene weisen, wunderkräftigen das Zwillingspaar von gleichem Schoosse, gleichem Sitz, Die lichten Seher spannen neuen Aufzug stets am Himmel aus und in des Luftmeers Innerem.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти обладающие силой превращений очень прозорливые (сыновья) измерили  
 Обоих: брата и сестру, пару, происходящую из одной утробы, из одного дома.  

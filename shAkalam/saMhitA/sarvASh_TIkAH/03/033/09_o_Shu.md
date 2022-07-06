@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओ꣡ षु꣡ स्वसारः कार꣡वे शृणोत  
 ययउ꣡ वो दूरा꣡द् अ꣡नसा र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अधोअक्षाः꣡ सिन्धवः स्रोतिया꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नि । सु । न॒म॒ध्व॒म् । भव॑त । सु॒ऽपा॒राः । अ॒धः॒ऽअ॒क्षाः । सि॒न्ध॒वः॒ । स्रो॒त्याभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *o* ← *ā*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 विश्वामित्रो नदीः प्रत्युवाच । स्वसारो भगिन्यः सिन्धवो हे नद्यः कारवेस्तोत्रं कुर्वाणस्य मम वचनं सु सुष्ठु ओ शृणोत । शृणुतैव । अनसा शकटेन रथेन च सह दूराद्विप्रकृष्टाद्देशाद्वो युष्मान्ययौ । प्राप्तोऽस्मि यूयं सु सुष्थु नि नमध्वम् । आत्मना स्वयं प्राह्वा भवत । तथा सुपाराः । रथादीनां तीरात्सुखेनावरोहणारोहणे यथा स्यातां तथा शोभनरोधसश्च भवत । किञ्च यूयं स्तोत्याभिः स्रवणशीलाभिरद्भिरधो अक्षा रथाङ्गस्याक्षस्याधस्ताद्भवत । यदापोऽक्षसाधस्ताद्भवन्ति तदा रथादीनि नेतुं शक्यन्ते । तस्मात्तत्परिमाणोदका भवतेत्यर्थाभिप्रायः ॥ ओ इति प्रगृह्यसञ्ज्ञा । शृणोत । श्रु श्रवण इत्यस्य लोटि त प्रत्ययस्य तप्तनप्तनथानाश्चेति तबादेशः । पित्त्वाद्गुणः । निघातः । ययौ । या प्रापण इत्यस्य भूतमात्रे लिट्युत्तमे णल्यात औणल इत्यौकारः । एकादेशस्वरः । वः । युश्मच्छब्दस्य द्वितीयाया बहुवचनस्य वस्नसाविति वसादेशः । षू । निपातस्येति संहितायां दीर्घः । नमध्वम् । णमु प्रह्वत्वे शब्दे चेत्यस्य कर्मकर्तरि न दुह्स्नु नमां यक्चिणाविति प्रतिषेधाद्यगभावः । अधो अक्षाः । अधरशब्दस्य पूर्वार्धरावराणामसि पुरधवश्चैषामित्यसिप्रत्ययोऽधादेशश्च । अक्षशब्दोऽशू व्याप्तवित्यस्मादशेर्देवने । उ. ३-६५ । इति सप्रत्ययान्तः । कृदुत्तरपदप्रकृतिस्वरः । सिन्धवः । आमन्त्रितत्वान्निघातः । स्रोत्याभिः । स्रोतः शब्दात्स्रोतसो विभाषा ड्यडौड्यौ । पा. ४-४-११३ । इति ड्य प्रत्ययः । डित्त्वाट्टिलोपः । प्रत्ययस्वरः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 With a wagon and chariot: anasā rathena = śakaṭena rathena ca, by a cart and a carriage; anas, a cart or wagon, or truck, to convey the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Viśvāmitra:] Listen well to the bard, sisters. He has driven to you from  afar with his wagon and chariot.  
 Bow down; become easy to cross, staying below his axle(s) with your  currents, you rivers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 List quickly, Sisters, to the bard who cometh to you from far away with car and wagon.  
      Bow lowly down; be easy to be traversed stay, Rivers, with your floods below our axles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schenket doch, ihr Schwestern, dem Dichter Gehör! Er ist mit Wagentroß und Streitwagen zu euch aus der Ferne gekommen. Beuget euch fein nieder, seid leicht zu durchschreiten, bleibet mit eurer Strömung unter den Wagenachsen, ihr Flüsse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hört denn recht, o Schwestern, auf den Dichter; ich naht' von fern euch mit beladnem Wagen; Neigt nieder euch, seid leicht mir zu durchfahren, nicht flutend bis zur Achse, o ihr Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О сестры, прислушайтесь внимательно к восхвалителю!  
 Он приехал к вам издалека с обозом (и) колесницей.  

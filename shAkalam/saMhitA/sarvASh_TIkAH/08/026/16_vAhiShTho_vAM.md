@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡हिष्ठो वां ह꣡वानां᳐  
 स्तो꣡मो दूतो꣡ हुवन् नरा  
 युवा꣡भ्याम् भूतु अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 यु॒वाभ्या॑म् । भू॒तु॒ । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāhiṣṭho* ← *vāhiṣṭhaḥ* ← *vāhiṣṭha*
 - \[noun\], nominative, singular, masculine
@@ -81,41 +81,41 @@ genre M;; repeated line
 हे **नरा** नरौ सर्वस्य नेतारावश्विनौ **हवानां** स्तोतॄणां स्तोत्राणां मध्ये **स्तोमः** **वाहिष्ठः** युवामतिशयेन व्याप्नुवन् मदीयः स्तोमः **दूतः** दूतभूतः सन् **हुवत्** आह्वयतु । सोऽयं मदीयः स्तोमः **युवाभ्यां** प्रियकरः **भूतु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, leaders (of rites), among (all) invocations may my most earnest praise invoke you as amessenger may it be (acceptable) to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our praise song, best of calls at conveying, calls you as our  messenger, o men.  
 Let it be for you, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not make sufficient clear that the messenger (dūtáḥ) is our praise song, not “you.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most fetching of all calls, the laud, as envoy, Heroes, called to you  
      Be it your own, O Asvin Pair.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der zugkräftigste von allen Rufen, das Loblied, soll euch als Bote laden, ihr Herren. Euch, Asvin, soll es gehören!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ruf, der euch der liebste ist, das Loblied ruf als Bote euch; Es sei eur eigen, Ritter ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самый привлекательный из призывов –  
 Восхваление пусть как вестник позовет (вас), о два мужа!  

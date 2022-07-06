@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡द् उक्थ꣡म् इन्द्र बर्ह꣡णा कः  
 प्र꣡ य꣡च् छता꣡ सह꣡स्रा शूर द꣡र्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡वो दि꣡वोदासं चित्रा꣡भिर् ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अव॑ । गि॒रेः । दास॑म् । शम्ब॑रम् । ह॒न् । प्र । आ॒वः॒ । दिवः॑ऽदासम् । चि॒त्राभिः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -140,21 +140,21 @@ genre M
 हे **इन्द्र** **बर्हणा** बर्हणः शत्रूणां हिंसकः **त्वम्** **उक्थं** प्रशस्यं **तत्** कर्म **कः** अकरोः । किं तत्कर्मेत्युच्यते । हे **शूर** वीरेन्द्र त्वं **शता** शतानि **सहस्रा** सहस्राणि च शम्बरस्य अनुचरान् भटान् **प्र** **दर्षि** विदारितवानसि । तथा च निगमान्तरे-‘अध्वर्यवो यः शतं शम्बरस्य' (ऋ. सं. २. १४, ६) इति । तथा त्वं **दासं** यज्ञादिकर्मणामुपक्षपयितारं **गिरेः** पर्वतान्निर्गतं **शम्बरम्** असुरम् **अव** **हन्** अवावधीः । तथापि श्रूयते– **यः** शम्बरं पर्वतेषु क्षियन्तम्' (ऋ. सं. २. १२. ११ ) इति । किंच **चित्राभिः** विचित्राभिः **ऊती** ऊतिभिः रक्षाभिः **दिवोदासं** राजानं **प्रावः** प्रकर्षेण पालयसि स्म ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, who are the subduer (of foes), you have achieved a glorious (deed), inasmuch as you have scatered, hero, the hundreds and thousands (of the host of **Śambara**), have slain the slave Śambara (when issuing) from the mountain, and have protected **Divodāsa** with marvellous protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You made that hymn (endowed) with might, Indra, so that you could  tear out hundreds and thousands (of goods), o champion.  
 You struck the barbarian Śambara down from the mountain and  
 furthered Divodāsa with glittering help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the association of barháṇā and ukthá- see VI.44.6 ukthásya barháṇā.
 
@@ -173,23 +173,23 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou madest good the laud, what time thou rentest a hundred thousand fighting foes, O Hero,  
      Slewest the Dasa Sambara of the mountain, and with strange aids didst succour Divodasa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, wirst dies Preislied überschwenglich machen, wenn du, Tapferer, Hunderte, Tausende herausschlagen wirst. Vom Berge hast du den Dasa Sambara herabgeschleudert; du halfst dem Divodasa mit erstaunlichen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Preisenswerthe thu mit Macht, o Indra, dass hunderttausend du, o Held, zerschmetterst; Vom Berge stürze Çambara, den Unhold, dem Divodasa hilf mit reichen Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты тот гимн, о Индра, наделил невероятной силой,  
 Когда проломил (скалу), о герой, (и выпустил) сотни (и) тысячи (коров).  

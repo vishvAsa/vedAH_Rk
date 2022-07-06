@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡हं꣡ त꣡न्तुं न꣡ वि꣡ जानामि ओ꣡तुं  
 न꣡ यं꣡ व꣡यन्ति समरे꣡ ऽतमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 परो꣡ वदाति अ꣡वरेण पित्रा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 कस्य॑ । स्वि॒त् । पु॒त्रः । इ॒ह । वक्त्वा॑नि । प॒रः । व॒दा॒ति॒ । अव॑रेण । पि॒त्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāhaṃ* ← *na*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre D
 वैश्वानरस्य महत्त्वमाख्यास्यन्नृषिस्तदर्थं यज्ञं वस्त्रात्मकतया रूपयन् तस्य दुर्ज्ञानत्वमनया प्रतिपादयतीति यज्ञवादिनो मन्यन्ते । **तन्तुम्** । तन्तवः पटस्य प्रागायतानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्र्यादीनि छन्दांसि स्तुतशस्त्राणि च । तानि **अहं** **न** **वि** **जानामि** । तथा **ओतुम्** । ओतवस्तिरश्चीनानि सूत्राणि । तानि चात्र यजूंष्याध्वर्यवाणि कर्माणि च । तान्यहं **न** वि जानामि । अपि चैतदुभयसाध्यं तं पटं यज्ञलक्षणं **न** वि जानामि **यं** पटं यज्ञलक्षणं **समरे** संगमने देवयजने **अतमानाः** सततं चेष्टमाना ऋत्विजः **वयन्ति** तन्तूनोतूंश्च संतन्वन्ति । वस्त्ररूपेण निष्पादयन्ति इत्यर्थः । **इह** अस्मिन् लोके **कस्य** **स्वित्** । स्विदिति वितर्के । कस्य खलु **पुत्रः** मनुष्यः **वक्त्वानि** वक्तव्यानि तानीमानि **परः** परस्तादमुष्मिन् लोके वर्तमानो यः सूर्यस्तस्य **पित्रा** **अवरेण** अवस्तात् अस्मिन् लोके वर्तमानेन वैश्वानराग्निनानुशिष्टः सन् **वदाति** वदेत्। न कश्चिदपि प्रवदितुं शक्नोतीत्यर्थः । एतच्च संप्रदायविद्भिरुक्तं- वैश्वानरस्य पुत्रोऽसौ परस्ताद्दिवि यः स्थितः । छन्दांस्यध्वरवस्त्रस्य स्तुतशस्त्राणि तन्तवः ॥ यजूंषि चेष्टाश्चौतुः स्याद्वस्त्रं वातव्यमध्वरः । परः परः स्थितः सूर्यः पिताग्निः पार्थिवो मतः' इति ॥ रूपकतया जगत्सृष्टेर्दुर्ज्ञानत्वमनया प्रतिपादयतीत्यात्मविदो मन्यन्ते । तन्तुं तन्तून् तन्तुस्थानानि सूक्ष्माणि वियदादीन्यपञ्चीकृतानि भूतानि न विजानामि । ओतुमोतून् पञ्चीकृतानि स्थूलान्योतुस्थानीयान्यपि वियदादीनि न विजानामि । न च तत्कार्यं पटस्थानीयं प्रपञ्चं विजानामि यं प्रपञ्चं समरे तन्तुनामोतूनां च संगमनेऽतमानाः सततं चेष्टमानाः संसारिणो वयन्ति उत्पादयन्ति । तेषां भोगार्थमीश्वरः सृजतीति कर्तृत्वमुपचर्यते । इहास्मिन्विषये परः परस्ताद्बुद्धेरविषये वर्तमानानि वक्त्वानि वक्तव्यानीमान्यवरेणार्वाचीनेन सृष्ट्युत्तरकालमुत्पन्नेन पित्रा स्वजनकेनानुशिष्टः सन् कस्य खलु पुत्रो वदाति । वदेत् । स्वोत्पत्तेः प्राचीनं वृत्तान्तमजानानः कश्चिदपि न वदेदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,13 +144,13 @@ Vaktvāni = vaktavyāni;
 **Para** = parastāt or amuṣmin; vartamāno yaḥ **sūryaḥ**, the sun who is abiding in the other or future world, he being instrumental ucted, anuśiṣṭaḥ san, by the father abiding below, or in this world, pitrā avastāt asmin loke vartamānena, i.e., by **Agni** **vaiśvānara** (vaiśvānara Agninā); vaiśvānarasya putro cāsau parastād **divi** yaḥ **sthitaḥ** = he is the son of vaiśvānara, who is stationed above, or in heaven. No human can explain the mysteries of the sacrifice, perhaps the sun may be able to do so, instrumental ucted by Agni, his parent or source
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I do not know the thread, nor know how to weave, nor (know) what the  wanderers [=fingers? threads? shuttles?] weave at their meeting.  
 Whose son will be able to speak what is to be said here, as someone  higher than his father, (who is) below?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 1st person speaker, the poet in training, takes over here, with a statement of his ignorance about his own metier. He expresses this ignorance in the metaphor of weaving, a well-known trope for poetic composition that reaches back into IndoEuropean antiquity.
 
@@ -180,23 +180,23 @@ Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I know not either warp or woof, I know not the web they weave when moving to the contest.  
      Whose son shall here speak words that must be spoken without assistance from the Father near him?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht verstehe ich den Faden noch den Einschlag, nicht weiß ich, welchen Faden sie weben, wenn sie in den Wettstreit eintreten. Wessen Sohn könnte hier wohl Worte reden, höher als sein Vater hienieden?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht weiss ich recht zu spannen noch zu weben das Werk, was sie zum Wettstreit gehend weben; Wie mag ein Sohn noch besser als sein Vater verkünden nun, was hier gesagt soll werden?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не пойму я ни основу, ни уток,  
 Ни какую (ткань) ткут они, вступая в состязание.  

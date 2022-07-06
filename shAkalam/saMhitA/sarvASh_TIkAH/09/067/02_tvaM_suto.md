@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सुतो꣡ नृमा꣡दनो  
 दधन्वा꣡न् मत्सरि꣡न्तमः  
 इ꣡न्द्राय सूरि꣡र् अ꣡न्धसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । सू॒रिः । अन्ध॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -75,21 +75,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **नृमादनः** नॄणां कर्मणो नेतॄणामृत्विजां मादयिता अत एव **दधन्वान्** तेभ्यो धनानि धारयन् प्रयच्छन् यद्वा यज्ञस्य धारकः **सूरिः** प्राज्ञः **सुतः** अस्माभिरभिषुतः **त्वम्** **अन्धसा** हवीरूपेणान्नेन सह **इन्द्राय** **मत्सरिन्तमः** तस्यातिशयेन मदकारी भव । ‘नाद्धस्य ' इति नकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You who are the exhilarator o fthe priests, bestowing (wealth upon them) and intelligent, do you when effused together with food be the especial cause of exhilaration to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, bringing exhilaration to superior men when pressed, most  
 exhilarating when you have run,  
 are patron to Indra, with your stalk.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ Grassmann derives dhārayú- from dhā́rā- ‘stream’ and glosses ‘ströme
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused as cheerer of the men, flowing best gladdener, thou art  
      A Prince to Indra with thy juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgepreßt bist du männerberauschend geflossen, am meisten berauschend, für Indra mit deinem Tranke freigebig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist gepresst, der Männer Lust, mit Trank geströmt, berauschendster, Dem Indra du, der glänzende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, выжатый, опьяняющий мужей,  
 Помчался, самый пьянящий,  

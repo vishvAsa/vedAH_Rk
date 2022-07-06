@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुधी꣡ ह꣡वम् इन्दर+ शूर पृ꣡थ्या  
 उत꣡ स्तवसे वेनिय꣡स्य अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऊर्मि꣡र् न꣡ नि꣡म्नइ꣡र् द्रवयन्त व꣡क्वाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । यः । ते॒ । योनि॑म् । घृ॒तऽव॑न्तम् । अस्वाः॑ । ऊ॒र्मिः । न । नि॒म्नैः । द्र॒व॒य॒न्त॒ । वक्वाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
@@ -123,36 +123,36 @@ genre M
 हे **शूर** **इन्द्र** **पृथ्याः** पृथोर्ऋषेर्मम **हवम्** आह्वानं **श्रुधि** शृणु । **उत** अपि च **वेन्यस्य** वेनपुत्रस्य मम **अर्कैः** मन्त्रैः **स्तवसे** स्तूयसे । यकि प्राप्ते व्यत्ययेन शप् । **यः** स्तोता **घृतवन्तम्** उदकवन्तं **ते** तव **योनिं** निवासभूमिम् **आ** **अस्वाः** अभ्यस्वार्षीत् अभ्यष्टौत् ॥  ‘ स्वृ शब्दोपतापयोः' । अस्माल्लुङि तिपि  ‘ बहुलं छन्दसि' इतीडभावे हल्याः दिलोपे च रात्सस्य इति सलोपः॥ यद्वा । घृतवन्तमाज्यादिना हविषोपेतं योनिम्। गृहनामैतत् । यज्ञगृहं प्राप्य ते त्वां योऽभिष्टौति तस्य वेन्यस्य अर्कैरित्यन्वयः। अपि च **वक्वाः** वक्वानः । वचेः ‘अन्येभ्योऽपि दृश्यन्ते' इति वनिप् । अन्त्यविकारश्छान्दसः । जसि पृषोदरादित्वाद्वर्णलोपः । अन्येऽपि सर्वे स्तोतारः **निम्नैः** प्रवणैर्मार्गैः **ऊर्मिर्न** उदकसंघ इव **द्रवयन्त** । स्तुतिभिस्त्वामेवाभिद्रवन्ति अभिगच्छन्ति ॥ ॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear, hero **Indra**, the invocation of **Pṛthu**; you are glorified by the praises of the son of **Vena**, whocelebrated your hall of sacrifice, full of ghī; your praisers rush to you like a torrent through precipitous banks.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear the call from Pr̥thī, o champion Indra, and you will be praised by  the chants of Venya,  
 who has roared toward your ghee-filled womb. Like a wave along the  depths, (his chants) run (there) billowing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Listen to Prthi's call, heroic Indra, and be thou lauded by the hymns of Venya,  
      Him who hath sung thee to thine oil-rich dwelling, whose rolling songs have sped thee like a torrent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhö re, Held Indra, den Ruf des Prithi; du wirst ja besungen durch des Venya Preislieder, der deinen schmalzigen Sitz angesungen hat. Wie die Welle zu Tal, so wollen deine galoppierenden Rosse laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, hör, o Held, den Ruf des Prithi und lass dich preisen durch des Freundes Lieder; Der Welle gleich, die in den reichen Schooss dir hernieder rauschte, eilten die Gesänge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышь призыв Притхи, о Индра-герой!  
 Ты ж восхваляешься песнями Веньи.  

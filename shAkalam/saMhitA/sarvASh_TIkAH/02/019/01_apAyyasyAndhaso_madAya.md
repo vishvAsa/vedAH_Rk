@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पायि अस्य अ꣡न्धसो म꣡दाय  
 म꣡नीषिणः सुवान꣡स्य प्र꣡यसः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡को दधे꣡ ब्रह्मण्य꣡न्तश् च न꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्मि॑न् । इन्द्रः॑ । प्र॒ऽदिवि॑ । व॒वृ॒धा॒नः । ओकः॑ । द॒धे । ब्र॒ह्म॒ण्यन्तः॑ । च॒ । नरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāyy* ← *apāyi* ← *pā*
 - \[verb\], singular, Aorist passive
@@ -109,7 +109,7 @@ genre M
 सुवानस्यसोमाभिषवङ्कुर्वाणस्यमनीषिणः प्राज्ञस्ययजमानस्यसम्बन्धिनः प्रयसः प्रीङ् तर्पणे असुन् प्रीतिकरस्यअस्यसोमलक्षणस्यान्धसः अन्नस्यमदायअपायि एतदन्नमिन्द्रेणपीतं इत्यर्थः यद्वा अपायी तिपातेर्व्यत्ययोबहुलमितिचिण् कर्तरिभवति छन्दसिलुङ्लङ्लिटइतिलोडर्थेलुङ् प्रीतिकरस्यान्धसः मदायअपायि शेषविवक्षयाकर्मणिषष्ठी इन्द्रः सोमम्पिबतु प्रदिविपुराणेयस्मिन् सोमलक्षणेन्धसिवावृ- धानोवर्धमानइन्द्रः ओकोदधे सेव्यतयनिवासञ्चकार किञ्च ब्रह्मण्यन्तः इन्द्रायस्तोत्रमिच्छन्तः नरः कर्मणान्नेतारऋत्विजः यस्मिन्निवासन्दधिरे तदेतदपायीति पूर्वेणान्वयः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 It has been partaken: apāyi **asya** andhasaḥ: used impersonally, 3rd person singular of the 3rd preterite, passive voice; it may as well be used for the imperative and is equated to: **indraḥ** **somam** pitabu = may Indra drink the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drinking of this plant for exhilaration has begun, o men of inspired  thought, (the drinking) of the delightful soma-pressing,  
 at which Indra, having grown strong (thereby) from of old, has found a  home, as have the men creating the poetic formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRAUGHTS of this sweet juice have been drunk for rapture, of the wise Soma-presser's offered dainty,  
      Wherein, grown mighty in the days aforetime, Indra hath found delight, and men who worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Trunk ward getan von diesem Safte zur Berauschung, ihr Andächtigen, von dem ausgepreßten Labetrank, an dem sich Indra vor alters gestärkt, an den er sich gewöhnt hat und ebenso die segensprechenden Männer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Getrunken ward von diesem Saft zum Rausche, o Weise, von dem ausgepressten Tranke, An welchem Indra fort und fort sich labend, viel Kraft gewann und auch die frommen Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпито этого соку для опьянения,  
 О мудрые, выжатой жертвенной услады,  

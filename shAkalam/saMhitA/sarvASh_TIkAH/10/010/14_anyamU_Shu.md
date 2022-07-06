@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्य꣡म् ऊ षु꣡ त्वं꣡ यमि अन्य꣡ उ त्वा꣡म्  
 प꣡रि ष्वजाते लि꣡बुजेव वृक्ष꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा कृणुष्व संवि꣡दं सु꣡भद्राम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्य॑ । वा॒ । त्वम् । मनः॑ । इ॒च्छ । सः । वा॒ । तव॑ । अध॑ । कृ॒णु॒ष्व॒ । स॒म्ऽविद॑म् । सुऽभ॑द्राम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
@@ -156,37 +156,37 @@ popular
 यमः पुनरप्याह । हे **यमि** **त्वम्** **अन्यमु** अन्यं पुरुषमेव **सु** सुष्ठु परिष्वज । **अन्य** **उ** अन्योऽपि पुरुषः **त्वां** **परि** **ष्वजाते** । तत्र दृष्टान्तः । **लिबुजेव** **वृक्षम्** । यथा वल्ली गाढं वृक्षं परिष्वजते तद्वत् । तथा सति । वाशब्दः समुच्चये । **त्वं** **तस्य** च पुरुषस्य **मनः** **इच्छ** कामय । तस्य त्वं वशवर्तिनी भवेत्यर्थः। **सः** च पुरुषः **तव** मन इच्छतु । **अध** अथ परस्परवशवर्तित्वानन्तरं त्वं तेन सह **सुभद्रां** सुकल्याणीं **संविदं** परस्परसंभोगसुखसंवित्तिं कृणुष्व कुरुष्व ॥ ॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Yama** speaks). Do you, **Yamī**, embrace another; and let another embrace you as a creeper a tree;seek his affection, let him seek you; and make a happy union.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] You (will embrace) another, Yamī, and another will embrace  you—like a vine a tree.  
 Seek his mind—or he yours. Then make yourself a very happy  
 compact.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Embrace another, Yami; let another, even as the woodbine rings the tree, enfold thee.  
      Win thou his heart and let him win thy fancy, and he shall form with thee a blest alliance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch du sollst fein einen anderen, o Yami, und dich ein anderer umschlingen wie die Rankepflanze den Baum! Dessen Sinn suche du zu gewinnen oder er deinen und mache mit ihm einen glücklichen Bund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sollst auch du umschlingen einen andern, und er auch dich so wie der Baum die Ranke; Gewinne dessen Sinn und er den deinen, und schliess mit ihm die glücklichste Vermählung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Другого и ты крепко (обними), о Ями, и другой тебя  
 Пусть обнимет, как лиана – дерево!  

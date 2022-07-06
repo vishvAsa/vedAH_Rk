@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः सोम संय꣡तम् पिप्यु꣡षीम् इ꣡षम्  
 इ꣡न्दो प꣡वस्व प꣡वमानो अस्रि꣡धम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्षुम꣡द् वा꣡जवन् म꣡धुमद् सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 या । नः॒ । दोह॑ते । त्रिः । अह॑न् । अस॑श्चुषी । क्षु॒ऽमत् । वाज॑ऽवत् । मधु॑ऽमत् । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -130,21 +130,21 @@ genre M
 हे **इन्दो** दीप्त **सोम** **पवमानः** त्वं **नः** अस्माकं **संयतं** संगृहीतं **पिप्युषीं** प्रवृद्धम् **इषम्** अन्नम् **अस्रिधम्** अक्षीणं **पवस्व** । प्रयच्छेत्यर्थः । **या** यादृशी **नः** अस्माकम् **अहन्** अहनि अह्नः **त्रिः** त्रिषु सवनेषु **असश्चुषी** अप्रतिबन्धा **दोहते** क्षरति । किम् । **क्षुमत्** शब्दोपेतं सर्वत्र श्रूयमाणं **वाजवत्’** **मधुमत्** माधुर्योपेतं **सुवीर्यं** शोभनसामर्थ्यं पुत्रं दोहते। तामिषं पवस्वेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiant **Soma**, when filtered, pour upon us accusative ulated unwasting nutritious food, which is milked for us three times a day, without hindrance, giving forth a sound, yielding strength and delight and fair **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, o drop, purifying yourself, bring us continuous, swelling,  unfailing refreshment by purifying yourself,  
 (refreshment) that, never drying up, will milk out for us three times  a day an abundance of good heroes, along with cattle, prizes,  
 and honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the functional contrast between ā́… pavasva and adjacent pávamānaḥ.
 
@@ -158,23 +158,23 @@ The first two vss. of this tṛca begin with prá with a verb of motion, but oth
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, Indu, while they cleanse thee, pour on us accumulateds Plentiful, nutritious food,  
      Which, ceaseless, thrice a day shall yield us hero power enriched with store of nourishment, and strength, and Meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Soma, läutere uns fort und fort überquellende, nie fehlende Speise zu, wenn du dich läuterst, o Saft, eine Kuh, die uns dreimal am Tage ohne zu versiegen Milch geben möge; läutere uns die Meisterschaft zu, die Vieh, Ehrenpreise, Met, Soma einbringt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle flammend, Soma, ohne Unterlass uns fette Labung, Indu, zu, die heilsam sei, Die dreimal uns des Tages unversieglich strömt, und Heldenkraft mit Stärkung, Speis' und süssem Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

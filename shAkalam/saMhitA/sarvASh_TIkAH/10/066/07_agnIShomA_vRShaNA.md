@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नी꣡षो꣡मा वृ꣡षणा वा꣡जसातये  
 पुरुप्रशस्ता꣡ वृ꣡षणा उ꣡प ब्रुवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡ नः श꣡र्म त्रिव꣡रूथं वि꣡ यंसतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यौ । ई॒जि॒रे । वृष॑णः । दे॒व॒ऽय॒ज्यया॑ । ता । नः॒ । शर्म॑ । त्रि॒ऽवरू॑थम् । वि । यं॒स॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], accusative, dual, masculine
@@ -125,14 +125,14 @@ genre M
 वृषणा वर्षणशीलौ **पुरुप्रशस्ता** बहुभिः प्रशस्तौ **अग्नीषोमा** अग्नीषोमौ **वाजसातये** अन्नलाभाय **उप** **ब्रुवे** अहमुपस्तौमि । पुनः **वृषणौ** इति आदरार्थम् । **यौ** देवौ **वृषणः** ऋत्विजः **देवयज्यया** । देवा इज्यन्तेऽत्रेति देवयज्या यज्ञः ।  ‘ छन्दसि निष्टर्क्य ' इति निपातितः । तेन **ईजिरे** यजन्ते हविर्भिः पूजयन्ति **ता** तौ प्रसिद्धौ **नः** अस्मभ्यं **त्रिवरूथं** त्रिष्कम्भं **शर्म** गृहं **वि** **यंसतः** विशेषेण प्रयच्छताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify for the obtaining of food the two showerers (of benefits), **Agni** and **Soma**, the many-laudedshowerers (of benefits), may these two whom the priests have worshipped with divine worship bestow upon us atriply-guarded dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I entreat the bulls Agni and Soma in order to win the prize, those two  bulls lauded by many.  
 Those two to whom the bulls have sacrificed through their sacrifice  
@@ -140,23 +140,23 @@ to the gods, those two will spread out shelter providing threefold
 defense for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To win us strength I glorify the Mighty Twain, Agni and Soma, Mighty Ones whom many laud.  
      May these vouchsafe us shelter with a triple guard, these whom the strong have served in worship of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma, den Bullenhaften, rede ich zu, um den Preis zu gewinnen, den beiden vielgelobten Bullen, denen die Bullen mit Götteropfer geopfert haben, die sollen uns dreifach schützende Zuflucht gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Stiere, Agni, Soma, rufe ich herbei, die vielgerühmten Stiere, Labung zu empfahn, Die von den Stieren sind geehrt durch Gottesdienst; so reichet uns denn Schutzwehr, welche dreifach, schirmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

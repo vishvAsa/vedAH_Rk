@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ हो꣡ता नि꣡ असीदं य꣡जीयान्  
 वि꣡श्वे देवा꣡ मरु꣡तो मा जुनन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मा꣡ समि꣡द् भवति सा꣡हुतिर् वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अहः॑ऽअहः । अ॒श्वि॒ना॒ । आध्व॑र्यवम् । वा॒म् । ब्र॒ह्मा । स॒म्ऽइत् । भ॒व॒ति॒ । सा । आऽहु॑तिः । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -133,7 +133,7 @@ popular
 **यजीयान्** यष्टृतमः **अहं** **होता** सन् **न्यसीदं** निषण्णोऽस्मि । निषदने तं निषण्णं **विश्वे** व्याप्ताः **मरुतः** **देवाः** **जुनन्ति** प्रेरयन्ति हविर्वहनाय । हे **अश्विना** **वां** युवयोः **आध्वर्यवम्** **अहरहः** प्रतिदिनं कर्तव्यमिति शेषः। आध्वर्यवं भवद्भ्यामनुज्ञातव्यमित्यर्थः । **ब्रह्मा** **भवति** भवतु । कः । **समित्** समिद्धश्चन्द्रमाः । चन्द्रमा ब्रह्मा भवतु । किंच **सा** । स इत्यर्थः। स च समित् समिद्धश्चन्द्रमाः **वां** युवयोर्होमार्थं वां युवाभ्यां क्रियमाणायाध्वर्यवकर्मणे **आहुतिः**  भवति भवत्वित्यर्थः । सोमात्मको हि चन्द्रमा हूयते । एष वै सोमो राजा' इत्युपक्रम्य तदेवोभयं भवति' इति हि छन्दोगब्राह्मणम् । अथवैवं योजना। याहुतिराध्वर्यवमनुष्ठितवद्भ्यां होतव्या सा वां युवयोः युवाभ्यां भवति भवतु । आध्वर्यवं वामित्यस्यैव विवरणमेतत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,30 +144,30 @@ popular
 The moon: samidh = fuel; or, the moon, identical with **Soma**, which is the oblation;three chief priests are present: **agni** is the hotā, aśvins the adhvaryu, and soma the **brahmā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] I have sat down as the better sacrificing Hotar. All the gods, the  Maruts spur me on.  
 Every day, o Aśvins, the Adhvaryu-ship is yours. The kindling stick  
 becomes the Formulator; this is the poured offering for you two.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I sit as Priest most skilled in sacrificing: the Maruts and all Deities impel me.  
      Asvins, each day yours is the Adhvaryu's duty: Brahman and wood are here: 'tis yours to offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe als der besseropfernde Hotri meinen Platz eingenommen; alle Götter, die Marut fachen mich an. Tag für Tag kommt euch, Asvin, das Adhvaryu-Amt zu. Der Brahman, Brennholz ist da; dies ist euer beider Opferspende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich setzte mich als bester Opfrer nieder; mich treiben an die Maruts, alle Götter; Den Opferdienst, o Ritter, üb' ich täglich; hier ist der Priester, Flamme hier und Zuguss.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я уселся как хотар, жертвующий лучше (другого),  
 Все Боги, Маруты вдохновляют меня.  

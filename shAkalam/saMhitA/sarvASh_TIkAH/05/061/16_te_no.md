@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो व꣡सूनि का꣡मिया  
 पुरुश्चन्द्रा꣡ रिशादसः  
 आ꣡ यज्ञियासो ववृत्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ । य॒ज्ञि॒या॒सः॒ । व॒वृ॒त्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -83,36 +83,36 @@ genre M
 हे **रिशादसः** हिंसकानां शत्रूणामत्तारो हे **यज्ञियासः** यज्ञार्हाः **पुरुश्चन्द्राः** प्रभूताह्लादकधनाः **ते** यूयं **नः** अस्मभ्यं **वसूनि** निवासयोग्यानि धनानि **काम्या** स्पृहणीयानि **आ** **ववृत्तन** आवर्तयथेत्यर्थः । मरुतां दानप्रशंसाया अपेक्षितत्वान्न प्रार्थनोचिता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, who are destroyers of the **male** violent, abounding in wealth, and entitled to adoration, bestow upon us desirable riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who care for the stranger—roll here to us desirable, greatly  shimmering goods,  
 you who deserve the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do ye, destroyers of the foe, worshipful and exceeding bright,  
      Send down the treasures that we crave.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solche wendet uns begehrenswerte blinkende Schätze zu, ihr Überlegen, Opferwürdige!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum wendet, Feindverzehrer ihr, ehrwürdige, uns glänzende und vielbegehrte Güter zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Раз вы) такие, (то) желанные богатства,  
 Очень блистающие, о карающие врагов (?),  

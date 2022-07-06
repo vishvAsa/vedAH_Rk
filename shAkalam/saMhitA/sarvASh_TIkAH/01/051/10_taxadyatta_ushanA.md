@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡क्षद् य꣡त् त उश꣡ना स꣡हसा स꣡हो  
 वि꣡ रो꣡दसी मज्म꣡ना बाधते श꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ पू꣡र्यमाणम् अवहन्न् अभि꣡ श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । त्वा॒ । वात॑स्य । नृ॒ऽम॒नः॒ । म॒नः॒ऽयुजः॑ । आ । पूर्य॑माणम् । अ॒व॒ह॒न् । अ॒भि । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
@@ -132,20 +132,20 @@ genre M
 हे इन्द्र **यत्** यदा **उशना** काव्यः **सहसा** आत्मीयेन बलेन **ते** **सहः** त्वदीयं बलं **तक्षत्** तनूकृतवान् । सम्यक् तीक्ष्णमकार्षीदित्यर्थः । तदा **शवः** त्वदीयं बलं **मज्मना** सर्वस्य शोधकेन स्वतैक्ष्ण्येन **रोदसी** द्यावापृथिव्यौ **वि** **बाधते** । ते बिभीतः इत्यर्थः । तथा चान्यत्राम्नातं -- यस्य शुष्माद्रोदसी अभ्यसेताम्' (ऋ. सं. २. १२. १ ) इति । यद्वा । रोदसी यस्माद्वृत्रादेः बिभीतः तं बाधते इत्यर्थः । हे **नृमणः** नृषु रक्षितव्येषु यजमानेष्वनुग्रहबुद्धियुक्तेन्द्र **आ** **पूर्यमाणं** पूर्वोक्तेन बलेन आ समन्तात् पूर्यमाणं **त्वा** त्वां **मनोयुजः** मनोव्यापारमात्रेण युक्ताः **वातस्य** वायोः संबन्धिनः । तद्वद्वेगेन गच्छन्त इत्यर्थः । एवंभूता अश्वाः **श्रवः** **अभि** हविर्लक्षणमन्नमभिलक्ष्य **आ** **अवहन्** आभिमुख्येन प्रापयन्तु ॥ तक्षत् ।' तक्षू त्वक्षू तनूकरणे'। लङि  ‘ बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । उशना ।  ‘ वश कान्तौ ॥  ‘ वशेः कनसिः ' ( उ. सू. ४. ६७८) इति कनस् ।  ‘ ग्रहिज्या° ' इत्यादिना संप्रसारणम् ‘ऋदुशनस्पुरुदंसोऽनेहसां च ' ( पा. सू. ७. १. ९४ ) इति अनङादेशः ।  ‘ सर्वनामस्थाने च° । (पा. सू. ६. ४. ८) इति उपधादीर्घत्वम् । हल्ङ्यादिनलोपौ । मज्मना । ‘टुमस्जो शुद्धौ । औणादिको मनिप्रत्ययः । नृमणः । छन्दस्यृदवग्रहात्' इति णत्वम् । अवहन् । 'छन्दसि लुङ्लङ्लिटः' इति प्रार्थनायां लङ् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If Uṣanās should sharpen your vigour by his own, then would your might terrify by its intensity both heaven and earth. Friend of man, let the will harnessed steeds, with the velocity of the wind, convey you, replete (with vigour), to (partake of the sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Uśanā fashions might with might for you, then your vast power  thrusts apart the two worlds with its greatness.  
 The mind-yoked (horses) of the Wind conveyed you, being filled (with  soma?), here to fame, o manly minded one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A nice adjacency figure, nṛmaṇo manoyujaḥ.
 
@@ -154,23 +154,23 @@ Geldner (/Witzel Gotō) supplies “with strength” with pū́ryamānam ‘bein
 Indra’s exhilaration in the immediately following verse here (11a) also supports the soma interpretation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The might which Usana hath formed for thee with might rends in its greatness and with strength both worlds apart.  
      O Hero-souled, the steeds of Vata, yoked by thought, have carried thee to fame while thou art filled with power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Usanas dir mit Kraft die Kraft zimmerte, da sprengte deine Gewalt durch ihre Größe die beiden Welthälften auseinander. Dich fuhren, du Mannherziger, des Vata Rosse, die durch bloßen Gedanken umherschwirrten, zur Ruhmestat, als du mit Kraft angefüllt warst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Uçana aus Kraft dir neue Kraft erzeugt drängt Erd' und Himmel weithin kräftig deine Macht, Dich fuhren her des Windes Rosse, geistgeschirrt, o heldenmüth'ger Somatrinker, dich zum Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Ушанас тебе выточил (дубину), силу – силой,  
 Могущество (твое) мощно раздвинуло два мира.  

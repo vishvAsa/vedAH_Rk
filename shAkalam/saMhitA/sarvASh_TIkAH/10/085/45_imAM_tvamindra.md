@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ त्व꣡म् इन्द्र मीढुवः  
 सुपुत्रां꣡ सुभ꣡गां कृणु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡तिम् एकादशं꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 दश॑ । अ॒स्या॒म् । पु॒त्रान् । आ । धे॒हि॒ । पति॑म् । ए॒का॒द॒शम् । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -123,36 +123,36 @@ popular;; epic anuṣṭubh (380)
 हे इन्द्र **त्वम्** **इमां** वधूं **सुपुत्रां** सुभगां च कृणु कृधि । अस्यां वध्वां **दश** पुत्रान् **आ** **धेहि** । **पतिमेकादशं** **कृधि** । दश पुत्राः पतिरेकादशो यथा स्यात्तथा कृधि कृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, showerer, make her the mother of sons, plural asing (to her husband); give her ten sons, make herhusband the eleventh.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make this woman here, o Indra the rewarder, possessed of good sons  and of good fortune.  
 Confer ten sons on her: make her husband the eleventh.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Bounteous Indra, make this bride blest in her sons and fortunate.  
      Vouchsafe to her ten sons, and make her husband the eleventh man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach, o belohnender Indra, diese Frau an schönen Söhnen reich und beliebt; schenke ihr zehn Söhne, mache den Gatten zum Elften!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diese Gattin mache du, o gnädiger Indra, reich an Kindern und an Glück; verleihe ihr zehn Kinder, und als elften lasse ihr den Gatten am Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай ты ее, о милостивый Индра,  
 Богатой прекрасными сыновьями, очень счастливой!  

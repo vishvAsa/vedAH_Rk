@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 के꣡तेन श꣡र्मन् सचते सुषाम꣡णि  
 अ꣡ग्ने तु꣡भ्यं चिकित्व꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वा꣡जं ने꣡दिष्ठम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒ष॒ण्यया॑ । नः॒ । पु॒रु॒ऽरूप॑म् । आ । भ॒र॒ । वाज॑म् । नेदि॑ष्ठम् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ketena* ← *keta*
 - \[noun\], instrumental, singular, masculine
@@ -109,20 +109,20 @@ genre M;; repeated line
 हे **अग्ने** **तुभ्यं** **चिकित्वना** चिकितुषा जनेन होत्रादिना सह यजमानः **केतेन** प्रज्ञापकेन स्तोत्रेण यजत इति शेषः । कुत्रेति तदुच्यते। **सुषामणि** शोभनरथन्तरादिसामोपेते **शर्मन्** शर्मणि सुखसाधने यज्ञे । अतो हे अग्ने **इषण्यया** इच्छया स्वीयया **नः** अस्मभ्यं **पुरुरूपं** नानारूपं **नेदिष्ठम्** अन्तिके सर्वदा वर्तमानं **वाजम्** अन्नम् **ऊतये** रक्षणाय **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The sacrificer) worships you by praises, **Agni**, with the experienced (priests) in the rite celebrated withbeautiful **Sāman** hymns;bring us of your own accord for our protection food of various kinds which may bealways in our reach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He [=singer?] keeps company with your intention in the shelter made of  good melody. O perceptive Agni, the *pieces of wood are for you.  
 By impulsion bring here to us the prize of many forms to be nearest to  us, for our aid.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In a hymn of rare clarity, this verse provides a sudden stumbling block.
 
@@ -139,23 +139,23 @@ part. cikitúṣā, which is metrically impossible in the cadence; others set up
 Geldner renders iṣaṇyáyā as ‘nach Wunsch’, hence presumably to √iṣ ‘desire’, but it seems arbitrary to separate it from the verb stem iṣaṇyá- ‘send, impel, drive’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, with noble psalm that tells his wish he dwells, thinking on thee who guardest him.  
      Speedily bring us strength of many varied sorts to be most near to succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In deiner Obhut, Agni, wird Susaman weisen Absehens teilhaft. Nach Wunsch bring uns vielgestaltigen Gewinn, den nächsten besten, um uns zu helfen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Achtsamen Geistes dient er an der Stätte dir, o Agni, die von Liedern hallt, Aus eignem Antrieb bring' uns mannichfaches Gut recht nah herbei, uns zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Под защитой, у Сушамана, он следует  
 За тобой (своим) внимательным желанием, о Агни.  

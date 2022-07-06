@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सू꣡रियो या᳐तु सप्त꣡अश्वः  
 क्षे꣡त्रं य꣡द् अस्योर्विया꣡ दीर्घयाथे꣡  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताज्ज्योतिः"
 यु꣡वा कवि꣡र् दीदयद् गो꣡षु ग꣡छन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 र॒घुः । श्ये॒नः । प॒त॒य॒त् । अन्धः॑ । अच्छ॑ । युवा॑ । क॒विः । दी॒द॒य॒त् । गोषु॑ । गच्छ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -132,21 +132,21 @@ genre M
 **सूर्यः** सर्वस्य प्रेरको देवः **सप्ताश्वः** सर्पणस्वभावाश्वोपेतः सप्तसंख्याकाश्वो वा **आ** **यातु** अस्मदभिमुखमागच्छतु । **यत्** यस्मात् **अस्य** सूर्यस्य **दीर्घयाथे** दीर्घगमने **क्षेत्रं** 'गन्तव्यप्रदेशः **उर्विया** उरु अतिप्रभूतायामः । स एव देवः **रघुः** लघुगमनः सन् **श्येनः** शंसनीयगमनः **अन्धः** दीयमानं हविः **अच्छ** अभिलक्ष्य **पतयत्** आगच्छति । **युवा** सर्वत्र मिश्रयिता **कविः** क्रान्तदर्शी सन् **गोषु** रश्मिषु **गच्छन्**  मध्ये वर्तयन् **दीदयत्** दीप्यते । यद्वा । श्येनः सुपर्णोऽन्धोऽच्छ पतयत्। द्युलोकस्थं सोमलक्षणं देवानामन्नमस्मद्योगार्थमानेतुं तदभिमुखमगात् । युवेत्यादि शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Sūrya**, lord of seven steeds, arrive, for he has a distant goal (to reach) by a tedious route; fleet as a hawk he pounces upon the offered (sacrificial) food; ever young and far-seeing, he shines, moving amidst rays of light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Sun drive here with his seven horses to the tract of land  
 stretching widely at (the end of) his long course.  
 Let the quick falcon fly to the stalk and the youthful poet shine as he  goes among the cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich is metrically problematic. Holland & van Nooten Rig Veda edition put the pāda break after saptā́śvaḥ and distract sū́ryo, yātu, and saptā́śvaḥ; their 2nd pāda, beginning kṣétram, has a caesura after 3 (though see their n.). It is also possible to take kṣétram as the last word of pāda a (see Schmidt’s layout, p. 178) and to restrict the distraction to a single word, either sū́ryaḥ or saptā́śvaḥ, though this produces a bad cadence. In that case I would suggest that the 2nd pāda orig. began *yád yád; reading *yád yád asya produces an opening of 4 and, with post-caesura urviyā́dīrgayāthé, makes a fine Triṣṭubh. The 2nd (or 1st) yád would be the neut. sg. N/A participle to √i.
 
@@ -157,23 +157,23 @@ Exactly what the referents of the falcon (c) and the young poet (d) are is dispu
 respectively. Or it may be that the injunc. is followed by a subj. to indicate that the 2nd action follows the first (“the falcon flies to the stalk; the young poet will shine …”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne by his Coursers Seven may Surya visit the field that spreadeth wide for his long journey.  
      Down on the Soma swooped the rapid Falcon. Bright was the young Sage moving mid his cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sonnengott mit sieben Rossen soll zu dem Gefilde kommen, das auf seiner langen Fahrt sich weithin erstreckt. Der rasche Falke fliege zum Somatrunk; der jugendliche Seher erstrahle, wenn er auf die Kühe ausgeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit sieben Rossen komme her die Sonne zum Feld, das weit auf ihrer Bahn sich hinstreckt, Der schnelle Adler fliege hin zum Soma; zu Kühen eilend strahl' der junge Seher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Сурья на семи конях приедет к (тому) полю,  
 Что широко (простирается) на его долгом пути.  

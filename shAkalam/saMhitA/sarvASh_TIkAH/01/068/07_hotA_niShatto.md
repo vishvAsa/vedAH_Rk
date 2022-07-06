@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हो꣡ता नि꣡षत्तो म꣡नोर् अ꣡पत्ये  
 स꣡ चिन् नु꣡ आसाम् प꣡ती रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 होता॑ । निऽस॑त्तः । मनोः॑ । अप॑त्ये । सः । चि॒त् । नु । आ॒सा॒म् । पतिः॑ । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,12 +91,12 @@ Sayana bhashya empty
 Descendants of Manu: mankind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the Hotar, he has taken his seat among the progeny of Manu. Just he is now the lord of these (offspring/clans? and) of riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is a syntactic problem in cd that is ignored by all tr. as far as I can see, though Oldenberg treats it briefly (ZDMG 61 [1907]: 829 = KlSch p. 260; see below): the fem. gen. pl. demonstr. āsām is unaccented. Oblique forms of the ayám demonstrative are unaccented when used pronominally, but accented when used adjectivally. The two accented forms of āsā́m appear with NPs, pū́rvāsām … svásṝṇām “previous sisters” I.124.9 and viśā́m .. ábhayānām “fearless clans” X.92.14, and unaccented āsām (25x) is always pronominal (for VII.34.10 and X.75.4 see disc.
 
@@ -105,27 +105,27 @@ ad loc.) Yet all interpr. of our passage construe āsām with rayīṇā́m (e.g
 However, an underlying feminine referent can be generated from the context. I see two possibilities. 1) From ápatya- ‘progeny’ in the phrase mánor ápatye we can generate the synonym, fem. prajā́- ‘offspring’ - note their juxtaposition in I.179.6 prajā́m ápatyam. The gen. pl. of prajā́- does not occur in Vedic (indeed no gen. pl. to a root noun in -ā does; see Macdonell VG), presumably because it should be prajā́m and identical to the acc. sg. (though with possible distracted 2nd syllable). By this interpretation Agni would essentially be prajā́-pati. 2) More likely, in my view: the underlying noun is víś- ‘clan’. Although no direct reference to clans is made in the hymn, as I point out in the published introduction. and argue in more detail elsewhere (Jamison Klein Fs., 2016; see above), the repeated víśve ‘all’ triggers a pun with víś- in this set of hymns (see esp. I.70.4) and so would be present in the minds of the poet and his audience. Agni is regularly called viśā́m páti- and viśpáti-, sometimes at the same time - e.g., III.13.5 hótāraṃ viśpátiṃ viśā́m, which also contains hótar-, as also here. The mention of Manu might also have triggered the association; cf., e.g., V.4.3 viśā́ṃ kavíṃ viśpátim mā́nuṣīnām “the poet of the clans, the clanlord of the (clans) of the sons of Manu.” If this solution seems too fussy, it is possible to follow Oldenberg’s explanation of the lack of accentuation (see ref. above): that āsām does not modify rayīṇā́m but anticipates it (“he is the master of them, of the riches”), while being anaphoric to sg. rayím in 6d. This does not eliminate the gender issue, however, and also seems over-tricky. The eṣām … víśveṣām … devā́nām of vs. 2 makes some problems for my interpretation here, but see discussion there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 होता॒ निष॑त्तो॒ मनो॒रप॑त्ये॒ स चि॒न्न्वा॑सां॒ पती॑ रयी॒णाम् ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who sits down as the Hotri among the offspring of Manu: he verily is the master of all these riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Hotri eingesetzt bei den Nachkommen des Manu, ist nur er der Herr dieser Reichtümer
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Priester sitzend – bei Manu's Stamme ist dieser Güter – Gebieter stets er; Sie wünschten Samen – sich wechselseitig, die Weisen, einig – in ihren Plänen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना च सोम जे꣡षि च  
 प꣡वमान म꣡हि श्र꣡वः  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
@@ -95,41 +95,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **महि** **श्रवः** महदन्न **पवमान** **सोम** **सन** । अस्मद्यागे यजनीयान् देवान् भज । **जेषि** **च** । यागविध्वंसकारिणो राक्षसांश्च जय । **अथ** देवान् प्राप्य राक्षसांश्च जित्वानन्तरं **नः** अस्मान **वस्यसः** श्रेयसः **कृधि** कुरु। श्रेयोऽस्मभ्यं देहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure-dropping (**Soma**), bounteous food, welcome (the gods at our rite) and overcome (the demons); and make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Win, Soma, and conquer great fame, self-purifying one.  
 – Then make us better off.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The double ca construction especially emphasizes the imperatival function of the -si form jéṣi, conjoined as it is with a standard impv. sánā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma flowing on thy way, win thou and conquer high renown;  
      And make us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewinne und ersiege, dich läuternder Soma, großen Ruhm, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erbeute, Soma, und erwirb dir grossen Ruhm, o rieselnder, Und mach' uns reicher nun an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Захвати, о сома, и завоюй,  
 О Павамана, великую славу  

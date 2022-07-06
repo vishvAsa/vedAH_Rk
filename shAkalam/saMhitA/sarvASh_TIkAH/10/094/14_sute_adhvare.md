@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुते꣡ अध्वरे꣡ अ꣡धि वा꣡चम् अक्रत  
 आ꣡ क्रीळ꣡यो न꣡ मात꣡रं तुद꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ वर्तन्ताम् अ꣡द्रयश् चा꣡यमानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वि । सु । मु॒ञ्च॒ । सु॒सु॒ऽवुषः॑ । म॒नी॒षाम् । वि । व॒र्त॒न्ता॒म् । अद्र॑यः । चाय॑मानाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sute* ← *su*
 - \[verb noun\], locative, singular
@@ -128,14 +128,14 @@ popular
 **चायमानाः** पूज्यमानाः अद्रयः आदरणीया ग्रावाणः अध्वरेऽधि यज्ञे **सुते** सोमेऽभिषुते **मातरं** तुदन्तः हस्तेन ताडयन्तः **आ** **क्रीळयो** **न** आक्रीडकाः कुमाराः शब्दं यथा कुर्वन्ति तथा **वाचं** शब्दम् **अक्रत** कृण्वन्ति । **सुषुवुषः** सोममभिषुतवतः ग्राव्णः **मनीषां** स्तुतिं **वि** **मुञ्च** विशेषेण मुञ्च । किंच अद्रयः वि **वर्तन्ताम्** अभिषवशब्दं विमुञ्चन्तु ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Soma**) being effused at the sacrifice, they made a noise like (children) at plural y, striking theirmother. Proclaim the praise of (the stone), which has effused (the Soma), let the honoured stones revolve.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When (the soma) was pressed in the ceremony they raised their voice,  like playful (boys) jostling their mother.  
 Unhitch (the stones) that have pressed it and release the inspired  
@@ -143,23 +143,23 @@ thought of the (priest) who has pressed it. Let them roll away, being  (now) per
 harness].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They have raised high their voice for juice, for sacrifice, striking the Mother earth as though they danced thereon.  
      So loose thou too his thought who hath effused the sap, and let the Stones which we are honouring be disjoined.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei dem ausgepreßten Opfer haben sie ihre Stimme erhoben, wie spielende Kinder die Mutter stoßend. Löse fein den dichterischen Gedanken des, der ausgepreßt hat! Sie sollen jetzt abtreten, sich als Steine fühlend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Opfersafte haben lustig sie geschrien, die Mutter stossend wie beim Spiel die Kinder; Mach, Soma, frei des Kelterers Gebete, die hehren Steine mögen rings sich tummeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वो दिवो दुहितरो विभाती꣡र्  
 उ꣡प ब्रुव उषसो यज्ञ꣡केतुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् द्यउ꣡श् च धत्ता꣡म् पृथिवी꣡ च देवी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒यम् । स्या॒म॒ । य॒शसः॑ । जने॑षु । तत् । द्यौः । च॒ । ध॒त्ताम् । पृ॒थि॒वी । च॒ । दे॒वी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -134,7 +134,7 @@ genre M
 हे **दिवो** **दुहितरः** हे **उषसः** **विभाती:** **वः** युष्मान् **तत्** उत्तरार्धप्रथमपादेन वक्ष्यमाणं फलं **यज्ञकेतुः** । यज्ञ एव केतुः प्रज्ञापको यस्य तादृशोऽहम् **उप** **ब्रुवे** उपेत्य ब्रवीमि । अथ बहुवदुच्यते। **वयं** स्तुवन्तः **जनेषु** अस्मत्समानेषु मध्ये **यशसः** कीर्तेः अन्नस्य वा स्वामिनः **स्याम**। **तत्** यशः **द्यौः** **पृथिवी** **च** **देवी** **धत्तां** धारयताम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ genre M
 The verse is to be inaudibly recited every morning at day-break
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O daughters of Heaven, radiating widely—I whose sacrifice is a beacon  implore this of you, o Dawns:  
 May we be glorious among the peoples. Let both Heaven and Goddess  Earth ensure this.  
 IV. 52–53 637
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-skilled in lore of sacrifice, ye Daughters of Heaven, refulgent Dawns, I thus address you.  
      May we be glorious among the people. May Heaven vouchsafe us this, and Earth the Goddess,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum bitte ich euch, Usas´, Töchter des Himmels, wenn ihr erstrahlt, indem das Opfer mein Banner ist. Wir möchten bei den Leuten angesehen sein; das sollen uns der Himmel und die Göttin der Erde gewähren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das bitt ich euch, o lichte Himmelstöchter, des Opfers Glanz errichtend, Morgenröthen; Dass angesehn wir unter Menschen seien, das mögen Erd' und Himmel uns gewähren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Об этом я прошу вас, когда вы сверкаете  
 О дочери неба, о Ушас, (я,) чье знамя – жертва.  

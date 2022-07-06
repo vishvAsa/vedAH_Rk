@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡नि सोम प꣡वमानो अस्मयुः꣡  
 सत्या꣡नि कृण्व꣡न् द्र꣡विणानि अर्षसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उर्वीं꣡ ग꣡व्यूतिम् अ꣡भयं च नस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज॒हि । शत्रु॑म् । अ॒न्ति॒के । दू॒र॒के । च॒ । यः । उ॒र्वीम् । गव्यू॑तिम् । अभ॑यम् । च॒ । नः॒ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -135,36 +135,36 @@ genre M
 हे सोम **एतानि** पूर्वमन्त्रोक्तानि गवादीनि **द्रविणानि** धनानि **सत्यानि** **कृण्वन्** कुर्वन् **पवमानः** पूयमानः **अर्षसि** पवसे । **जहि** च **शत्रुं** **यः** अस्मच्छत्रुः **अन्तिके** समीपे **दूरके** अत्यन्तं दूरे देशे **च** वर्तते तं जहि । तथा **उर्वीं** **गव्यूतिं** विस्तीर्णं मार्गम् **अभयं** **च** **नः** अस्माकं **कृधि** कुरु ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestowing all these true riches, loving us you flow, **Soma**, purified; destroy our enemy whether he be far or nigh; grant us a free road and freedom from danger.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, purifying yourself, you rush, seeking us, while making these  treasures real.  
 Smash the rival nearby and the one who is in the distance; make wide  pasturage and fearlessness for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, as Pavamana thou, our faithful Friend, making for us these real treasures, flowest on.  
      Slay thou the enemy both near and,far away: grant us security and ample pasturage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Soma, indem du uns zugetan diese Güter verwirklichest, fließest du dich läuternd. Erschlage den Feind, der nah und fern; schaff uns weite Trift und Sicherheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies alles, Soma, uns zu Liebe, flammender, erfüllend, strömest du uns reiche Schätze zu; Den Feind erschlage, sei er nahe, sei er fern, und mache weit und sicher unser Weideland.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преданный нам, о Сома-Павамана, ты течешь,  
 Делая истинными эти богатства.  

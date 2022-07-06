@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रेण याथ सर꣡थं सुते꣡ स꣡चाँ  
 अ꣡थो व꣡शानाम् भवथा सह꣡ श्रिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सउ꣡धन्वना ऋभवो वीरि꣡याणि च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । वः॒ । प्र॒ति॒ऽमै । सु॒ऽकृ॒तानि॑ । वा॒घ॒तः॒ । सौध॑न्वनाः । ऋ॒भ॒वः॒ । वी॒र्या॑णि । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
@@ -143,37 +143,37 @@ genre M
 हे ऋभवो यूयम् **इन्द्रेण** **सचा** सह **सरथं** समानमेकं रथमारुह्य **सुते** अभिषुतसोमवति यज्ञे **याथ** गच्छथ। **अथो** अनन्तरमिन्द्रेण सह एकरथमारूढा यूयं **वशानाम्** । उश्यते काम्यते यजमानेन स्वर्गादिलक्षणं फलम् एभिरिति वशाः मनुष्याः । तेषां **श्रिया** स्तुतिहविरादिरूपया **सह** **भवथ** । हे **सौधन्वनाः** सुधन्वनः पुत्राः **वाघतः** । अमृतत्वादिलक्षणफलस्य वोढारो मेधाविनो वा इति यास्कः । तादृशा हे **ऋभवः** **वः** युष्माकं **सुकृतानि** देवत्वस्य प्रापकाणि शोभनानि कर्माणि **न** **प्रतिमै** । प्रतिमातुमियत्तया परिच्छेत्तुं न केनापि शक्यानि । तथा **वीर्याणि** युष्माकं सामर्थ्यानि **च** नैव प्रतिमातुं शक्यानि ॥ वशानाम् । ‘वश कान्तौ ।' वशिरण्योरुपसंख्यानम्' इति करणे अप्प्रत्ययः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । वशाशब्दो वन्ध्यावचनश्चेत् अन्तोदात्त:  भवति । ' वशा मेषा अवसृष्टास आहुताः' (ऋ. सं. १०.९१. १४ ) इति । वः । युष्मच्छब्दस्य षष्ठीबहुवचने वसादेशः । निघातः । प्रतिमै । माङ् माने '। विच् । प्रतिमाः प्रतिमानम् । तस्य चतुर्थ्येकवचने आतो लोपाभावश्छान्दसः । एकादेशस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Go with **Indra** in his chariot when the libation is poured out, and be (welcomed) with honour by the (worshipper) desiring (your favour); **ṛbhus**, sons of **Sudhanvan**, bestowers (of the rewards of pious acts), your virtuous deeds, your great faculties, arenot to be mesured.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You travel on the same chariot with Indra when the soma is pressed, and  then you become joined with the splendor of your wishes.  
 Your good ritual acts are not to be equaled, o chanters, sons of  
 Sudhanvan, R̥bhus, nor your heroic deeds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In company with Indra come ye to the juice, then gloriously shall your wishes be fulfilled.  
      Not to be paragoned, ye Priests, are your good deeds, nor your heroic acts, Rbhus, Sudhanvan's Sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Indra fahret ihr auf gleichem Wagen zum Soma ; nun seid ihr im Besitz der Krone aller Wünsche. Euren Kunstwerken ist nichts gleichzustellen, ihr fahrende Sänger, noch euren Heldentaten, ihr Ribhu´s, des Sudhanvan Söhne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf gleichem Wagen kommt mit Indra her zum Trank, es werd' Erfüllung eurer Wünsche euch zu Theil; Nicht sind vergleichbar eure hohen Tugenden und Thaten, fromme Ribhu's, o Sudhanvaner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы ездите вместе с Индрой на одной колеснице к выжатому (соме):  
 Так вас сопровождает блеск (сбывшихся) желаний.  

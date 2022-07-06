@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्रविणोदा꣡ ददातु नो  
 व꣡सूनि या꣡नि शृण्विरे꣡  
 देवे꣡षु ता꣡ वनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वेषु॑ । ता । व॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **द्रविणोदाः** देवः **नः** अस्मभ्यं **वसूनि** धनानि **ददातु** **यानि** धनानि **शृण्विरे** हविरुपयुक्तत्वेन श्रूयन्ते । **ता** तानि च सर्वाणि धनानि **देवेषु** निमित्तभूतेषु **वनामहे** संभजामः । धनैर्देवान् यष्टुं तानि स्वीकुर्म इत्यर्थः ॥ द्रविणोदाः । गतम् । वसूनि । शृस्वृस्निहि° ' ( उ. सू. १, १० ) इत्यादिना उप्रत्ययः । ‘नित्' इत्यनुवृत्तेः आद्युदात्तः । श्रृण्विरे । ‘श्रु श्रवणे'। ‘छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लिट् । झ इरेच् ( पा. सू. ३. ४. ८१ )। ‘छन्दस्युभयथा ' इति सार्वधातुकत्वे व्यत्ययेन श्नुः, तत्संनियोगेन शृभावश्च । उवङि प्राप्ते “ हुश्नुवोः सार्वधातुके' ( पा. सू. ६. ४. ८७ ) इति यणादेशः । ‘चितः' इत्यन्तोदात्तत्वम् । **यद्वृत्तान्नित्यम्'** इति निघातप्रतिषेधः । ता । ‘शेश्छन्दसि बहुलम् ' इति शेर्लोपः । ‘नलोपः प्रातिपदिकान्तस्य ' ( पा. सू. ८. २. ७ ) इति नलोपः । वनामहे । ‘वन पण संभक्तौ ' । व्यत्ययेनात्मनेपदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Draviṇodas give us riches that may be heard of; we ask them for the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Wealth-Giver give us goods that are famed.  
 We shall win these for ourselves among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Wealth-giver grant to us riches that shall be far renowned.  
      These things we gain, among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Reichtumgeber soll uns Schätze geben, die berühmt werden. Diese erwirken wir von den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Reichthumgeber gebe uns die Güter, welche weit berühmt, Wir bringen sie den Göttern dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даритель богатства пусть дарует нам  
 Блага, которые славятся!  

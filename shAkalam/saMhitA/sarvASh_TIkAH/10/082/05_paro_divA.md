@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परो꣡ दिवा꣡ पर꣡ एना꣡ पृथिव्या꣡  
 परो꣡ देवे꣡भिर् अ꣡सुरैर् य꣡द् अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त्र देवाः꣡ सम꣡पश्यन्त वि꣡श्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कम् । स्वि॒त् । गर्भ॑म् । प्र॒थ॒मम् । द॒ध्रे॒ । आपः॑ । यत्र॑ । दे॒वाः । स॒म्ऽअप॑श्यन्त । विश्वे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paro* ← *paras*
 - \[adverb\]
@@ -129,36 +129,36 @@ popular
 यदीश्वरतत्त्वं **दिवा** **परः** द्युलोकादपि परस्ताद्वर्तमानं तथा **एना** अस्याः **पृथिव्याः** **परः** परस्ताद्वर्तमानं तथा **देवेभिः** देवैः परस्ताद्वर्तमानम् **असुरैः** परस्ताद्वर्तमानं च **यदस्ति** तद्गुहायामवस्थितं **कं** **स्विद्गर्भं** गर्भवत्सर्वस्य ग्राहकं तत्त्वम् **आपः** **प्रथमं** **दध्रे** धृतवत्यः । **यत्र** यस्मिन् गर्भे **देवाः** इन्द्रादयः **विश्वे** सर्वेऽपि **समपश्यन्त** संगताः परस्परं पश्यन्ति । एवं जानन्नेव कश्चित्तत्त्ववित्प्रश्नं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What was that embryo which was beyond the heaven, beyond this earth, beyond the gods, beyondthe **asuras**, which the waters first retained, in which all the gods contemplated each other?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Was it beyond heaven, beyond this earth, beyond lords and gods?  
 What first embryo did the waters receive, where all the gods appeared  together?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That which is earlier than this earth and heaven, before the Asuras and Gods had being,-  
      What was the germ primeval which the waters received where all the Gods were seen together?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was jenseits des Himmels, noch jenseits der Erde, jenseits der Götter, der Asura´s ist, was war das denn, was das Wasser als ersten Keim empfing, worin alle Götter mit eingerechnet waren?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was jenseit dieses Himmels, dieser Erde, was jenseit der lebend'gen Götter da ist, Welch ersten Urkeim nahmen auf die Wasser, in dem die Götter alle sich beschauten?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (То,) что есть по ту сторону неба, по ту сторону этой земли,  
 По ту сторону богов (и) асуров, –  

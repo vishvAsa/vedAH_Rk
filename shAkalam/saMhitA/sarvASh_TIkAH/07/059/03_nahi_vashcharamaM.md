@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ वश् चरमं꣡ चन꣡  
 व꣡सिष्ठः परिमं꣡सते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡श्वे पिबत कामि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । अ॒द्य । म॒रु॒तः॒ । सु॒ते । सचा॑ । विश्वे॑ । पि॒ब॒त॒ । का॒मिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -96,20 +96,20 @@ genre M
 **वसिष्ठः** ऋषिः **वः** युप्माकं मध्ये **चरमं** **चन** अवरमपि **नहि** **परिमंसते** वर्जयित्वा न स्तौति । किंतु सर्वानेव युष्मान् स्तौतीत्यर्थः । **अद्य** अस्मिन् दिने **अस्माकम्** अस्मदीये **सुते** सोमेऽभिषुते सति हे **मरुतः** **कामिनः** सोमं कामयमानाः **विश्वे** यूयं **सचा** संगत्य **पिबत** पानं कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vasiṣṭha** overlooks not the very lowest among you; **Maruts**, who are desirous (of the libation), do youall drink together today of our effused **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vasiṣṭha will certainly not neglect even the last of you:  
 when our (soma) is pressed today, o Maruts, drink it avidly, all of you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. plays on the common contrast, also found earlier in this Marut cycle, between the Maruts as individuals -- here “the last” (caramá-) of them -- and as a collective (víśve).
 
@@ -127,23 +127,23 @@ Both of these vss. begin nahí vaḥ; in neither one is it easy to produce a cau
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vasistha will not overlook the lowliest one among you all.  
      O Maruts, of our Soma juice effused to-day drink all of you with eager haste.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn auch den letzten unter euch wird Vasistha nicht verachten. Bei unserer Somapressung trinket heute alle mit Lust, ihr Marut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn auch den letzten unter euch versäumet ja Vasischtha nicht, O Maruts trinket heut von unserm Somasaft, ihr alle recht nach Herzenslust;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет, даже последним из вас  
 Не пренебрежет Васиштха!  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् उग्र꣡म् अ꣡वसे चर्षणीस꣡हं  
 रा꣡जन् देवे꣡षु हूमहे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अमि꣡त्रान् सुष꣡हान् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । सु । नः॒ । वि॒थु॒रा । पि॒ब्द॒ना । व॒सो॒ इति॑ । अ॒मित्रा॑न् । सु॒ऽसहा॑न् । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -113,21 +113,21 @@ genre M
 हे **राजन्** राजमानेन्द्र **देवेषु** देवानां मध्ये **उग्रम्** उद्गूर्णबलं **चर्षणीसहं** चर्षणीनां शत्रुभूतानां प्रजानामभिभवितारं **त्वाम्** **अवसे** रक्षणाय **हूमहे** आह्वयामः । त्वं **विश्वा** सर्वाणि **पिब्दना** पिब्दनानि रक्षांसि । पिहितमव्यक्तं शब्दयन्त इति पिब्दनानि । पृषोदरादिः । तानि **सु** सुष्ठु **विथुरा** व्यथितानि बाधितानि कुरु । हे **वसो** वासकेन्द्र **नः** अस्मदीयान् **अमित्रान्** शत्रूंश्च **सुषहान्** सुखेनाभिभवितुं शक्यान् **कृधि** कुरु ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke for protection you, royal **Indra**, who are mighty among the gods, tthe subduer of men; granter of dwellings, repel all evil spirits, and render our enemies easy of discomfiture.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is you, the mighty conqueror of the bordered domains, that we call  upon to help, o king among the gods.  
 Make all our things that waver gain foothold and our foes be easily  
 conquered, o good one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The distracted acc. t u vā́m from 1a, c, d returns here, again as object of “we call,” but with hūmahe rather than the hávāmahe of vs. 1.
 
@@ -136,23 +136,23 @@ On pibdaná- see also comm. ad IX.15.6. The stem is obviously derived from a red
 sense is likely ‘keep stepping, go step-by-step,’ vel sim., as an iter. See EWA s.v. PAD, with ref. to Strunk and Gotō. A literal gloss could then be ‘plod, trudge’. This literal sense is seen, in my view, in the participle in X.101.11 váhnir āpíbdamānaḥ ‘plodding draught horse’, and in IX.15.6 I also take vásūni pibdanā́as a somewhat comic reference to cows as “plodding goods.” Our passage here is more difficult, as the word is contrasted with vithurá- ‘wavering’; this opposition accounts for the standard glosses as (Grassmann) ‘feststehend, fest’, (AiG II.2.595 ‘fest’ (but .203 ‘erstarkend’), (Geldner) ‘dauerhaft’, (Renou) ‘solides’ (both latter in IX.15.6), but my ‘gain(ing) a foothold’ seems to preserve the root etymology and sense, while fitting the context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call on thee, O King, Mighty amid the Gods, Ruler of men, to succour us.  
      All that is weak in us, Excellent God, make firm: make our foes easy to subdue.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den gewaltigen Völkerbezwinger, du König über die Götter, rufen wir zum Schutze an. Mache fein alles Unsichere bei uns fest auftretend, du Guter, mache die Feinde leicht zu bezwingen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rufen wir, den starken Menschenbändiger, o Götterfürst, zu Hülfe dich; Mach recht, o guter, fest uns alles wankende, die Feinde leicht besiegbar uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, грозного победителя народов, на помощь  
 Мы зовем, о царь среди богов.  

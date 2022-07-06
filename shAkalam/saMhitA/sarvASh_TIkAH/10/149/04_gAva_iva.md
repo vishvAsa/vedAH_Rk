@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गा꣡व ऽव° ग्रा꣡मं यू꣡युधिर् ऽव° अ꣡श्वान्  
 वाश्रे꣡व वत्सं꣡ सुम꣡ना दु꣡हाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धर्ता꣡ दिवः꣡ सविता꣡ विश्व꣡वारः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पतिः॑ऽइव । जा॒याम् । अ॒भि । नः॒ । नि । ए॒तु॒ । ध॒र्ता । दि॒वः । स॒वि॒ता । वि॒श्वऽवा॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
@@ -139,36 +139,36 @@ popular
 अवस्थापयिता वा अत एव **विश्ववारः** सर्वैर्वरणीयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As cattle hasten to the village, as the warrior to his horses, as affectionate milk-giving cows to the calf,as a husband to his wife, so may **Savitā**, the upholder of the sky, the desired of all, hasten to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like cows to the village, like a warrior to his horses, like a bellowing,  benevolent milker to her calf,  
 like a husband to his wife—let him come down to us, the supporter of  heaven, Savitar bringing all desirable things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As warriors to their steeds, kine to their village, as fond milk giving cows approach their youngling,  
      As man to wife, let Savitar come downward to us, heaven's bearer, Lord of every blessing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Kühe ins Dorf, wie der Streiter zu seinen Pferden, freundlich wie die milchgebende blökende Kuh zum Kalbe, wie der Gatte zur Frau, so soll Savitri zu uns herkommen, des Himmels allbegehrter Träger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Vieh zum Dorfe, wie der Held zum Streitross, wie zu dem Kalb die Kuh, es freundlich tränkend, Wie der Gemahl zur Gattin komme zu uns des Himmels Träger, Savitar, der reiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как коровы к деревне, как воин к коням,  
 Как мычащая охотно доящаяся корова к теленку,  

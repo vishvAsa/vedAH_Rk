@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स्य ब्र꣡ह्माणि जुजुषुर् यु꣡वानः  
 को꣡ अध्वरे꣡ मरु꣡त आ꣡ ववर्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 के꣡न महा꣡ म꣡नसा रीरमाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 श्ये॒नान्ऽइ॑व । ध्रज॑तः । अ॒न्तरि॑क्षे । केन॑ । म॒हा । मन॑सा । री॒र॒मा॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
@@ -115,41 +115,41 @@ genre M
 **युवानः** नित्यतरुणाः महानुभावाः मरुतः कस्य महाभागस्य **ब्रह्माणि** परिवृढानि हवींषि **जुजुषुः** सेवन्ते । **कः** च महान् **अध्वरे** स्वकीये यागे **मरुतः** एतान् **आ** **ववर्त** यागान्तरेभ्यो निवर्तयति । दुर्निग्रहत्वे दृष्टान्तमाह। **अन्तरिक्षे** **ध्जतः** गच्छतः **श्येनान्** शंसनीयगमनान एतन्नामकान् पक्षिणः **इव**। **केन** तत्प्रीतिसाधनेन **महा** महता **मनसा** मननवता स्तोत्रेण **रीरमाम** रमेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Of whose oblations do the youthful (**Maruts**) approve; who attracts them to his (own) sacrifice (from the rites of others); with what powerful praise may we propitiate (them), wandering like kites in the mid-air?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose sacred formulations have the youths found delight? Who turned  the Maruts here to the rite,  
 (thinking,) “By what great thought shall we bring them to rest, soaring  like falcons in the midspace?”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I’m not certain that the 2nd hemistich is an embedded quotation, pace JPB.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose prayers have they, the Youthful Ones, accepted? Who to his sacrifice hath turned the Maruts?  
      We will delay them on their journey sweeping--with what high spirit!--through the air like eagles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An wessen feierlichen Reden haben die Jünglinge Wohlgefallen gefunden? Wer hat die Marut zu seinem Opfer gelenkt? Die gleich Adlern in der Luft dahinschießen, durch welchen hohen Gedanken bringen wir sie zum Stillstehen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An wessen Spruch erfreuten sich die Jungen? wer hat zum Opfer hergelenkt die Maruts? Sie, die wie Adler durch die Lüfte streichen, durch welches hohe Lied mag man sie fesseln?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьими молитвами насладились юноши?  
 Кто направил Марутов к этому обряду?  

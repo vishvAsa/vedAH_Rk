@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ गि꣡र आदित्ये꣡भ्यो घृत꣡स्नूः  
 सना꣡द् रा꣡जभ्यो जुहु꣡वा जुहोमि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुविजातो꣡ व꣡रुणो द꣡क्षो अं꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शृ॒णोतु॑ । मि॒त्रः । अ॒र्य॒मा । भगः॑ । नः॒ । तु॒वि॒ऽजा॒तः । वरु॑णः । दक्षः॑ । अंशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
@@ -134,7 +134,7 @@ Before we render a translation we should note three points:
 The reason why the list of seven is a possibility is because elsewhere in the Ṛgveda, the number of Āditya-s is stated as eight (RV 10.72), with seven being the immortal gods and the eighth being the dead-egg Mārtāṇḍa from which the rest of the universe was fashioned.
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,34 +145,34 @@ The reason why the list of seven is a possibility is because elsewhere in the �
 Ādityas, sons of **Aditi**: here only five are enumerated. **Taittirīya** adds: **dhātā**, **indra** and **vivasvat** to make the total eight; **aṃśu** (for aṃśa). **Purāṇas** enumerate twelve, adding to the eight of the Taittirīya: **viṣṇu**, **pūṣan**, **tvaṣṭā** and **savitā**).
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These ghee-backed songs I pour out to the Ādityas, kings from of old,  with my tongue (as offering ladle).  
 Let each one hear us: Mitra, Aryaman, and Bhaga, mighty-born Varuṇa,  Dakṣa, and Aṃśa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE hymns that drop down fatness, with the ladle I ever offer to the Kings Adityas.  
      May Mitra, Aryanian, and Bhaga hear us, the mighty Varuna Daksa, and Amsa.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 These songs that drip with butter, with the ladle I ever to the kings, Ādityas, offer. May Mitra, Aryaman, and Bhaga hear us, Dakṣa, the mighty Varuṇa, and Aṃśa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese salbungsvollen Lobreden opfere ich den Aditya´s mit der Zunge als Löffel, den Königen von alters her. Es sollen uns Mitra, Aryaman, Bhaga, Varuna von starker Art, Daksa, Amsa erhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets giess' ich diese butterreichen Lieder den Herrschern, den Aditja's zu im Löffel; Es hör' uns Mitra, Arjaman und Bhaga, der mächt'ge Varuna und Dakscha, Ança.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти песни, плавающие в жире, языком  
 Я приношу в жертву Адитьям, издревле царям.  

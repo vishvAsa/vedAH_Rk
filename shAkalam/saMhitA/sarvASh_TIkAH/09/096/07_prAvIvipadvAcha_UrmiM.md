@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡वीविपद् वाच꣡ ऊर्मिं꣡ न꣡ सि꣡न्धुर्  
 गि꣡रः सो꣡मः प꣡वमानो मनीषाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ तिष्ठति वृषभो꣡ गो꣡षु जान꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒न्तरिति॑ । पश्य॑न् । वृ॒जना॑ । इ॒मा । अव॑राणि । आ । ति॒ष्ठ॒ति॒ । वृ॒ष॒भः । गोषु॑ । जा॒नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāvīvipad* ← *prāvīvipat* ← *pravip* ← *√vip*
 - \[verb\], singular, Redupl. Aorist (Ind.)
@@ -128,20 +128,20 @@ genre M
 **पवमानः** **सोमः** **मनीषाः** मनस ईशिता हृदयंगमाः **गिरः** स्तुतीः **प्रावीविपत्** प्रकर्षेण वेपयति प्रेरयति । कथमिव । **सिन्धुः** स्यन्दमाना नदीव **वाचः** शब्दस्य **ऊर्मिं** **न** संघं यथा प्रेरयति तद्वत् । किंच **वृषभः** कामानामुदकानां वा वर्षकः सोमः **अन्तः** अन्तर्हितं वस्तुजातं **पश्यन्** **अवराणि** दुर्बलैर्वारयितुमशक्यानि **इमा** **वृजना** इमानि बलानि **आ** **तिष्ठति** आसीदति । किं कुर्वन् । **गोषु** **जानन्** गवां जानानः सन् परबलानि प्रविशति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified **Soma** excites gratifying praises as a river (excites) the wave of sound; the showerer (of benefits) beholding the hidden (treasure) presides over these irresistible powers, knowing about the cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a river its wave, self-purifying Soma has sent the wave of speech  pulsing forth, the hymns, the inspired thoughts.  
 Looking within, he surmounts these communities here below, a bull  among the cows, recognizing them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a, along with Geldner and Renou (see also Oldenberg’s comm. ad loc.) I read ūrmím twice, with both simile and frame; vācáḥ so accented should be gen. sg., not acc. pl., and is therefore not parallel to the two acc. pls. in b, gíraḥ … manīṣā́ḥ.
 
@@ -150,23 +150,23 @@ The standard tr. interpr. the vṛjánā phrase as obj. of antáḥ páśyan (e.
 Renou and Ober (II.211) think that pāda d refers to copulation. Cf. esp. Ober’s “Der Bulle besteigt die Kühe, [die Kopulation] kennend.” Although “mount” is a standard Engl. term for animal copulation, I am not at all sure that ā́√sthā serves the same function, and I would esp. wonder about using the locative for the female participant(s). And I also doubt that it would need to be added that the bull knew how to do it!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Soma Pavamana, like a river, hath stirred the wave of voice, our songs and praises.  
      Beholding these inferior powers in cattle, he rests among them as a Steer well-knowing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat der Rede Welle hervorgewirbelt wie der Strom die Welle, er die Lobreden, die Gedanken, der Soma Pavamana, der diesen diesseitigen Opferverbänden ins Herz schaut, der Bulle steigt auf die Kühe, sich auskennend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Lied erregt er, wie der Strom die Welle, Gesänge Soma rieselnd und Gebete, Hinein auch schauend in die tiefsten Klüfte, besteigt der Stier die Kühe, der vertraute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно река, он поднял волну речи,  
 Хвалебные песни, поэтические мысли, Сома-Павамана.  

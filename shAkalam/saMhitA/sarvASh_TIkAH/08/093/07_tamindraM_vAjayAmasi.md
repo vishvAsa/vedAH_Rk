@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡न्द्रं वाजयामसि  
 महे꣡ वृत्रा꣡य ह꣡न्तवे  
 स꣡ वृ꣡षा वृषभो꣡ भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । वृषा॑ । वृ॒ष॒भः । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यजमाना आहुः । **तं** पूर्वोक्तलक्षणम् **इन्द्रं** **वाजयामसि** वाजयामः । सोमेन स्तुतिभिर्वा वाजवन्तं बलवन्तं कुर्मः । किमर्थम् । **महे** महते **वृत्राय** अपामावरकं वृत्रासुरं **हन्तवे** हन्तुम् । सोमपानेन मत्तः स्तुतिभिर्वा स्तुतः सन् **वृषा** धनानां सेक्ता दाता **सः** इन्द्रः **वृषभः** अस्माकं स्तोतॄणां सोमस्य दातॄणां धनादिसेचको दाता **भुवत्** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invigorate that (great) **Indra** for the slaying of mighty **Vṛtra**, may he be a bounteous showerer (ofwealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We incite this Indra to smite great Vr̥tra.  
 He will become a bullish bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We make this Indra very strong to strike the mighty Vrtra dead:  
      A vigorous Hero shall he be.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Indra eifern wir an, den großen Vritra zu töten. Er sei der riesige Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise sich als Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

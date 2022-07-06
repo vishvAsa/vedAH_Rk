@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ताँ꣡ उशतो꣡ वि꣡ बोधय  
 य꣡द् अग्ने या꣡सि दूति꣡यम्  
 देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वैः । आ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
@@ -93,40 +93,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** यत् यस्मात् कारणात् **दूत्यं** **यासि** देवानां दूतकर्म प्राप्नोषि तस्मात् कारणात् **उशतः** हविः कामयमानान **तान्** देवान् हविःस्वीकारार्थं **वि** **बोधय** । विबोध्य च **बर्हिषि** अस्मिन् कर्मणि तैः **देवैः** सह **आ** **सत्सि** आसीद आगत्योपविश ॥ तान् ।' दीर्घादटि समानपादे ' इति संहितायां रुत्वम् । आतोऽटि नित्यम्' इत्यनुनासिकभावः । उशतः । ‘ वश कान्तौ । लटः शतृ । ‘अदिप्रभृतिभ्यः शपः' इति शपो लुक् । ‘ ग्रहिज्या° ' (पा. सू. ६. १. १६ ) इत्यादिना संप्रसारणम् । ‘ शतुरनुमो नद्यजादी ' (पा. सू. ६. १. १७३) इति विभक्तेरुदात्तत्वम् । यासि । ‘ यद्वृत्तान्नित्यम् ' ( पा. सू. ८. १. ६६ ) इति निघातप्रतिषेधः । दूतस्य भागः कर्म वा दूत्यम् । दूतस्य भागकर्मणी ' ( पा. सू. ४. ४. १२० ) इति यत् । तस्य तित्स्वरितापवादत्वेन यतोऽनावः ' इति प्राप्तमाद्युदात्तत्वं सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति निवर्तते । अतः ‘तित्स्वरितम् ' (पा. सू. ६. १. १८५) इत्येव भवति । शेषनिघातः । सत्सि सीदसि ।  षद्लृ विशरणगत्यवसादनेषु'। लटः सिपि शपो ‘बहुलं छन्दसि' इति लुक् । **न** लुमताङ्गस्य ' (पा. सू. १. १. ६३) इति प्रत्ययलक्षणप्रतिषेधात् ‘पाघ्रा' (पा. सू. ७. ३. ७८ ) इत्यादिना सीदादेशो न भवति । बर्हिषि। ‘ बृह बृहि वृद्धौ'। बृंहेर्नलोपश्च' ( उ. सू. २. २६६ ) इति इसिप्रत्ययः । प्रत्ययस्वरेण इकार उदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you discharge the duty of messenger, arouse them desirous of the oblation; sit down with them on the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awaken the eager ones, when you travel on your mission, o Agni. With the gods sit here on the ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wake up the willing Gods, since thou, Agni, performest embassage:  
      Sit on the sacred grass with Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Awaken them, the willing ones, when thou goest as messenger, O Agni. Sit down with the gods on the Barhis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ermuntere die verlangenden Götter, wenn du, Agni, den Botengang gehst! Mit den Göttern setz dich auf das Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erwecke sie, die willigen, wenn, Agni, du als Bote gehst, Sitz mit den Göttern auf der Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробуди тех жаждущих (богов),  
 Когда, о Агни, ты идешь вестником!  

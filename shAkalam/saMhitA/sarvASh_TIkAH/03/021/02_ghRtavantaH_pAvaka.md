@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृत꣡वन्तः पवाक+ ते  
 स्तोका꣡ श्चोतन्ति मे꣡दसः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 श्रे꣡ष्ठं नो धेहि वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वऽध॑र्मन् । दे॒वऽवी॑तये । श्रेष्ठ॑म् । नः॒ । धे॒हि॒ । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtavantaḥ* ← *ghṛtavat*
 - \[noun\], nominative, plural, masculine
@@ -99,41 +99,41 @@ genre M
 **पावक** पापशोधक हे अग्ने **स्वधर्मन्** स्वायत्तधर्मके साङ्गेऽस्मिन् यज्ञे **ते** तव भक्षणार्थं **देववीतये** यजनीयदेवानां भक्षणार्थं च **घृतवन्तः** घृतोपेताः **मेदसः** मेदोरूपस्य हविषः **स्तोकाः** बिन्दवः **श्चोतन्ति** क्षरन्ति । अथवा देववीतये देवस्य तव वीतये इति योजनीयम् । तस्मात् **वार्यं** वरणीयं संभजनीयं **श्रेष्ठम्** उत्तमं धनं **नः** अस्मभ्यं **धेहि** प्रयच्छ ॥ श्चोतन्ति ।  ‘ श्चुतिर् क्षरणे' इत्यस्य लटि रूपम् । स्वधर्मन् । स्वेऽङ्गभूताः धर्माणो यस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ।  ‘ सुपां सुलुक् ' इति सप्तम्या लुक् । देववीतये । देवानां वीतिः प्रीतिर्यस्यां भक्षणक्रियायां सा देववीतिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरः । श्रेष्ठम् । प्रशस्यशब्दादतिशायने इष्टन् । प्रशस्यस्य श्रः' इति श्रादेशः। गुणः । एकादेशस्वरः । धेहि । दधातेर्लोट् । वार्यम् । ‘ वृङ् संभक्तौ '। ऋहलोर्ण्यत्' इति ण्यत् ।  ‘ ईडवन्द ' इत्यादिनाद्युदात्तत्वम् । एतिस्तुशास्' इत्यादिना क्यप् वृणोतेरेव न वृङः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The drops of the marrow charged with butter fall, purifier, to you, at your own rite, for the food of the gods; therefore grant us excellent affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Filled with ghee, drops of fat drip for you, o pure one.  
 O you on your own foundation, set in place for us the best thing, the  thing to be chosen, in order for us to pursue the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, O Purifier, flow the drops of fatness rich in oil.  
      After thy wont vouchsafe to us the choicest boon that Gods may feast.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To thee, O purifier, the drops of fat mixed with ghee drip down. O (god) who followest thy own ordinances, give us the best boon for this feast to which the gods come eagerly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schmalzigen Tropfen des Fettes träufeln für dich ab, du Lauterer. Eigener Bestimmung folgend tu für uns das Beste, das Erwünschte zur Götterladung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die butterreichen Tropfen Fett, sie rinnen dir, o Flammender; lass unsre Gabe, treuer du, die beste sein zum Opfermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маслянистые капли жира,  
 О очищающий (бог), стекают для тебя.  

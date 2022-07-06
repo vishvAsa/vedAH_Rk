@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡द्रिणा ते मन्दि꣡न इन्द्र तू꣡यान्  
 सुन्व꣡न्ति सो꣡मान् पि꣡बसि त्व꣡म् एषाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृक्षे꣡ण य꣡न् मघवन् हूय꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पच॑न्ति । ते॒ । वृ॒ष॒भान् । अत्सि॑ । तेषा॑म् । पृ॒क्षेण॑ । यत् । म॒घ॒ऽव॒न् । हू॒यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adriṇā* ← *adri*
 - \[noun\], instrumental, singular, masculine
@@ -120,7 +120,7 @@ popular
 हे **इन्द्र** **ते** त्वदर्थं **मन्दिनः** मादयितॄन् **तूयान्** अविलम्बितान् सोमान् **अद्रिणा** अभिषवग्राव्णा **सुन्वन्ति** यजमाना अभिषुण्वन्ति । **एषाम्** अस्मदादियजमानानां संबन्धिनः **सोमान्** **त्वं** **पिबसि** । किंच त्वदर्थं **वृषभान्** पशून ये च यजमानाः **पचन्ति** **तेषां** संबन्धिनो हविर्भूतान् पशून् **अत्सि** भक्षयसि । हे **मघवन्** धनवन्निन्द्र त्वं यदा **पृक्षेण** हविर्भूतेनान्नेन निमित्तेन **हूयमानः** यजमानैर्हूयसे तदेति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ Theyroast bulls: you eat the cattle offered as oblations belonging to the worshi
 Aduru =ore, native metal (**Kannada**)(DEDR 191)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer/Sacrificer:] With a stone they press the exhilarating, powerful  soma-drinks for you, Indra. You drink of them.  
 They cook bulls for you. You eat of them—coming when you are  
 summoned with nourishment, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men with the stone press out for thee, O Indra, strong, gladdening Soma, and thereof thou drinkest.  
      Bulls they dress for thee, and of these thou eatest when, Maghavan, with food thou art invited.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Steine pressen sie dir, Indra, schleunig die berauschenden Somasäfte aus; du trinkst davon. Sie kochen dir Stiere, du issest davon, mit Ungestüm kommend, wenn gerufen, du Gabenreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Steinen presst man starke Somatränke, die dich erfreun, o Indra, trink von ihnen; Man brät dir Stiere, iss du nun von diesen, wenn, mächt'ger, du vom Prikscha wirst gerufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Давильным камнем выжимают тебе, о Индра, опьяняющие,  
 Крепкие соки сомы – ты пьешь их,  

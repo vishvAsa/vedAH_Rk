@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ उ त्या꣡ उष꣡सः केतु꣡म् अक्रत  
 पू꣡र्वे अ꣡र्धे र꣡जसो भानु꣡म् अञ्जते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति गा꣡वो अ꣡रुषीर् यन्ति मात꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 निः॒ऽकृ॒ण्वा॒नाः । आयु॑धानिऽइव । धृ॒ष्णवः॑ । प्रति॑ । गावः॑ । अरु॑षीः । य॒न्ति॒ । मा॒तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
@@ -136,7 +136,7 @@ genre M
 “धृष्णवः धर्षणशीला योद्धारः **आयुधानीव** यथा असिप्रभृतीन्यायुधानि संस्कुर्वन्ति एवं **निष्कृण्वानाः** स्वभासा जगत्संस्कुर्वाणाः **गावः** गमनस्वभावाः **अरुषीः** आरोचमानाः **मातरः** सूर्यप्रकाशस्य निर्मात्र्यो जगज्जनन्यो वा उषसः **प्रति** **यन्ति** प्रतिदिवसं गच्छन्ति । एवंविधा उषसोऽस्मान् रक्षन्त्वित्यर्थः । अत्र निरुक्तम् -' एतास्ता उषसः केतुमकृषत प्रज्ञानमेकस्या एव पूजनार्थे बहुवचनं स्यात् पूर्वेऽर्धेऽन्तरिक्षलोकस्य समञ्जते भानुना निष्कृण्वाना आयुधानीव धृष्णवः । निरित्येष समित्येतस्य स्थाने । एमीदेषां निष्कृतं जारिणीवेत्यपि निगमो भवति । प्रति यन्ति गावो गमनादरुषीरारोचनान्मातरो भासो निर्मात्र्यः ' ( निरु. १२. ७) इति ॥ अक्रत । करोतेर्लुङि ' मन्त्रे घस ' इति च्लेः लुक् । निष्कृण्वानाः । ' कृवि हिंसाकरणयोश्च ' । अस्मात् ताच्छीलिकः चानश् । ' धिन्विकृण्व्योर च ' इति उप्रत्ययः । ' इदुदुपधस्य चाप्रत्ययस्य ' इति विसर्जनीयस्य पत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -147,13 +147,13 @@ genre M
 Uṣāsaḥ (plural): allusion to divinities that preside over the morning; **Yāska** notes that the plural is used honorifically (**Nirukta** 12.7); progressed mothers: **mātṛ** = maker, author; bhāso nirmātryaḥ: authors of light (Nirukta 12.7)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These very Dawns have made themselves a beacon. In the eastern half of  the dusky realm they anoint their beam [=sacrificial post].  
 Presenting themselves, as bold ones present arms, the reddish cows, the  mothers come toward (us).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a my tr. differs slightly from the standard ones. I suggest that the dawns have transformed themselves into a beacon, while in the standard interpr. they have created/manufactured a beacon for themselves.
 
@@ -162,23 +162,23 @@ In b following Proferes 2003 (JAOS 123, pp. 330-31), I suggest, on the basis of 
 In c the poet exploits the syntactic ambiguity of the middle participle niṣkṛṇvāná-. In the frame he takes it as a reflexive, “presenting themselves,” but in the simile it is transitive “presenting arms.” The middle voice is still justified, however, because the weapons belong to the subjects of the participle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE Dawns have raised their banner; in the eastern half of the mid-air they spread abroad their shining light.  
      Like heroes who prepare their weapons for the war, onward they come bright red in hue, the Mother Cows.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort haben die Morgenröten ihr Banner aufgesteckt, auf der östlichen Seit des Raums legen sie sich Licht als Salbe auf, sich ablösend wie Tapfere ihre Waffen wechseln. Es kehren die roten Kühe wieder, die Mütter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon haben diese Morgenröthen Licht gebracht, und schmücken in des Raumes Osten sich mit Glanz, Wie kühne Helden sich versehn mit Waffenschmuck; wie Mutterkühe nahen nun die rothen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот зори подняли (свое) знамя.  
 В восточной стороне пространства они украшаются светом,  

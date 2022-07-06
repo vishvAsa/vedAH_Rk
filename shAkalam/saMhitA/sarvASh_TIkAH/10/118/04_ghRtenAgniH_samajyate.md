@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृते꣡नाग्निः꣡ स꣡म् अज्यते  
 म꣡धुप्रतीक आ꣡हुतः  
 रो꣡चमानो विभा꣡वसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 रोच॑मानः । वि॒भाऽव॑सुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtenāgniḥ* ← *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
@@ -77,36 +77,36 @@ genre M
 **अग्निः** **घृतेन** हविषा **समज्यते** सम्यक् सिक्तो भवति । कीदृशः । **मधुप्रतीकः** घृतप्रयुक्तावयवः **आहुतः** स्तुतिभिर्हविर्भिर्वा **रोचमानः** दीप्यमानः **विभावसुः** स्वदीप्त्या सर्वमाच्छादयन् । यद्वा । दीप्तिरेव धनं यस्य सः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is anointed with butter, having a face of honey, invoked, radiant, irradiating all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Honey-faced Agni, when bepoured, is fully anointed with ghee,  
 bringing radiant goods as he shines.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni with honey in his mouth, honoured with gifts, is balmed with oil,  
      Refulgent in his wealth of light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Schmalz wird Agni gesalbt, wie Honig anzusehen, wann er begossen wird, strahlend, glanzreich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Butter wird der glänzende gesalbt und Agni strahlet reich, Im Antlitz Honig, schön getränkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жиром Агни умащается,  
 С медовым ликом, когда он полит,  

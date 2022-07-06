@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡योर् इ꣡द् अ꣡मवच् छ꣡वस्  
 तिग्मा꣡ दिद्यु꣡न् मघो᳐꣡नोः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ग꣡वां वृत्रघ्न꣡ ए꣡षते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । द्रुणा॑ । गभ॑स्त्योः । गवा॑म् । वृ॒त्र॒ऽघ्ने । आ । ई॒ष॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tayor* ← *tayoḥ* ← *tad*
 - \[noun\], genitive, dual, masculine
@@ -101,20 +101,20 @@ genre M
 **अमवत्** अभिभावुकं **शवः** बलं **तयोरित्** तयोरेव । **मघोनोः** मघवतोः अन्नवतोर्धनवतोर्वा तयोः **दिद्युत्** वज्रं **तिग्मा** तीक्ष्णं वर्तते **गभस्त्योः** हस्तयोः । एवंभूतौ देवौ **गवाम्** उदकानां पणिभिरपहृतानां वा गवां लाभाय **द्रुणा** द्रुमविकारेण गमनशीलेन वा एकेन रथेन **वृत्रघ्ने** आवरकमेघहननाय तथाविधवृत्रासुरवधाय वा **प्रति** **ईषते** प्रतिगच्छतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Overpowering is the might of these two; the bright (lightning) is shining in the **hands** of **Maghavan**, as they go toether in one chariot for the (recovery of the) cows and the destruction of **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vehement is the force of those two bounteous ones, sharp their missile. With the wooden (weapon?) in the hands of the Vr̥tra-smasher he  
 [=Vr̥tra-smashing Indra] goes questing (in his quest) for cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 3cd has elicited much disc.; see esp. the lengthy treatment of it by Oldenberg, with several different possible tr. supplied, Geldner’s n. 3cd, and a fairly detailed disc. in Witzel Gotō’s n. Among the problems are 1) what is the referent of the ‘wood(en)’ in instr. drúṇā; 2) who is the subj. of the verb and is it his hands (gábhastyoḥ) that are in question; 3) what is gávām construed with; 4) what case is vṛtraghná, that is, what is its pausal form? I will begin with 3): flg. Geldner (n. 3cd), I supply a loc. *éṣe to govern gávām “(in the quest) for cattle.” This is supported by éṣate in this pāda, éṣe ráthānām “in the quest for chariots” in the next pāda (4a) likewise with gen., and X.48.9 gávām éṣe.
 
@@ -124,23 +124,23 @@ benefit. (Renou, curiously, seems to take it as a loc. “chez Vṛtrahaṇ” [
 This seems to go back to an idea of Hillebrandt’s that it belongs to an otherwise unattested thematic stem; see Oldenberg This has nothing to recommend it.) In answer to 2), if I am thus correct that the hands are those of Indra, it seems likely that he is also the subject of éṣate. Otherwise the subject is an unidentified other party or (so most interpr.) is the missile (didyút) of pāda b. What then to do with drúṇā? This is the most problematic of the problems. Most interpr. take it as the handle of the didyút (which, acdg. to Witzel Gotō, might be a sort of Vedic boomerang). In VIII.96.11 and IX.98.2, the same instr. seems to refer to a wooden paddle or the like. A similar wooden implement, usable as a weapon, may be meant here -- though it seems a come-down for vajra-wielding Indra. More likely it is equipment esp. suitable for cattle herding -- a prod or goad, and this would account for Indra’s trading in his usual weapon for something more appropriate to a quest for cows. Of course, since soma is usually poured into wooden cups, this may also depict Indra with a wooden soma cup in his hands, preparing to drink before he goes out on his quest. I might emend the published translation to “With the wooden (goad / soma-cup) in the hands …” I am not at all certain of the correctness of any of these answers to the questions posed above. Nor do I have any explanation for práti, beyond pointing out that 4c begins with rhyming pátī. And, most especially, I don’t understand why this cramped and obscure half-verse is found in this otherwise rather anodyne hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Impetuous is their strength, and keen the lightning of the mighty Pair,  
      Which from their arms speeds with the car to Vrtra's slayer for the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wuchtig ist dieser beider Kraft; scharf das Geschoß der Gabenreichen. Mit dem Holzschaft fährt es dem Vritratöter auf der Jagd nach Kühen in die Hände zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn sie besitzen starke Kraft und scharfen Blitz, die mächtigen; Denn durch der Stiere Becher drang sie in den Arm dem Vritrafeind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сила у этих двоих неистова.  
 Сверкающее оружие у обоих щедрых остро.  

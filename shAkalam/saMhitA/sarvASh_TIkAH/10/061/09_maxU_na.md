@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मक्षू꣡ न꣡ व꣡ह्निः प्रजा꣡या उपब्दि꣡र्  
 अग्निं꣡ न꣡ नग्न꣡ उ꣡प सीदद् ऊ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ धर्ता꣡ जज्ञे स꣡हसा यवीयु꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सनि॑ता । इ॒ध्मम् । सनि॑ता । उ॒त । वाज॑म् । सः । ध॒र्ता । ज॒ज्ञे॒ । सह॑सा । य॒वि॒ऽयुत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *makṣū*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 वास्तोपतिना रुद्रेण गोप्यमानेऽस्मिन् यज्ञे **वह्निः** वह्निवद्दाहको राक्षसादिः **मक्षु** ”न शीघ्रं न **उप** **सीदत्** नागच्छति । यो वह्निः **प्रजायाः** **उपब्दिः** उपपीडको भवति । यज्ञविघातार्थमागच्छति । ऋत्विगादिरूपायाः प्रजाया न पीडां करोत्यहनि । तथा **ऊधः** । रात्रिनामैतत् । रात्रावपि **अग्निं** ज्वलन्तं **नग्नः** विवसनो राक्षसादिः **न** **उप** सीदत् । एवं रुद्रे रक्षितरि सति सः अग्निः **इध्मं** **सनिता** **जज्ञे** उत्पन्नः । **उत** अपि च **वाजम्** अन्नं हविः **सनिता** जज्ञे। **स** **धर्ता** यज्ञस्य फलस्य वा धारक उत्पन्नः सोऽग्निः **सहसा** बलेन **यवीयुत्** यज्ञमिश्रयितॄणां रक्षःप्रभृतीनां योद्धा जज्ञे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 The fire: i.e., the fire-resembling rākṣasas and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right away, like a chariot-horse (came) the trampling of the offspring  [=Agni], and he took his seat at the udder, as one naked in the cold  takes a seat close to the fire.  
 He gained the kindling wood and he gained the prize; he was born as  the upholder, ever doing battle with his strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 म॒क्षू न वह्निः॑ प्र॒जाया॑ उप॒ब्दिर॒ग्निं न न॒ग्न उप॑ सीद॒दूधः॑ ।  
 सनि॑ते॒ध्मं सनि॑तो॒त वाजं॒ स ध॒र्ता ज॑ज्ञे॒ सह॑सा यवी॒युत् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alsbald erhob sich wie von einem Zugtier das Getrappel der Nachkommenschaft. Sie kam zum Euter wie der Nackte ans Feuer. Er gewinnt Brennholz, und er gewinnt seinen Lohn; er ward geboren als der Erhalter, der mit Übermacht Kämpfende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnell setzte er sich, wie stürmender Lärm der Volksmenge (?), an das Euter (?), wie ein Nackter sich ans Feuer setzt, da wurde er, der Brennholz empfängt, der Opfer empfängt, der Träger, der mächtig kämpfende [Agni] geboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

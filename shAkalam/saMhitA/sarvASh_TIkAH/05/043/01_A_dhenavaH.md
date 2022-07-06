@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धेन꣡वः प꣡यसा तू꣡र्णिअर्था  
 अ꣡मर्धन्तीर् उ꣡प नो यन्तु म꣡ध्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मयोभु꣡वो जरिता꣡ जोहवीति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 म॒हः । रा॒ये । बृ॒ह॒तीः । स॒प्त । विप्रः॑ । म॒यः॒ऽभुवः॑ । ज॒रि॒ता । जो॒ह॒वी॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **धेनवः** प्रीणयित्र्यो नद्यः **मध्वा** मधुरेण **पयसा** रसेन सहिताः **तूर्ण्यर्थाः** त्वरमाणगमनाः । ‘अर्थोऽर्तेः ( निरु. १. १८ ) इति यास्कः । **अमर्धन्तीः** अहिंसन्त्यः सत्यः **नः** अस्मान् **उप** **आ** **यन्तु** उपागच्छन्तु । तदर्थं **महः** महते **राये** धनाय **बृहतीः** महतीः **सप्त** सर्पणस्वभावाः सप्तसंख्याकाः ‘इमं मे गङ्गे' ( ऋ. सं. १०. ७५.५) इति मन्त्रोक्ता गङ्गाद्या वा ॥ तत्र हि प्राधान्येन सप्तैवोक्ताः । **मयोभुवः** सुखस्य भावयित्रीः विप्रः विशेषेण प्रीणयिता **जरिता** स्तोता **जोहवीत** आह्वयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 The kine: dhenavaḥ = rivers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the milk-cows, swift to their tasks, not neglectful, come close to us  here with their milk, their honey.  
 For great wealth, the inspired poet, the singer keeps invoking the seven  lofty (cows [=rivers?]), who are joy itself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On mahó rāyé see comm. ad IV.31.11. Again the published translation carelessly follows Geldner’s tr., which takes the two forms together, as if they were an adjective-noun syntagm despite the difference in case. I would now take maháḥ adverbially with Oldenberg
 
@@ -146,23 +146,23 @@ See further ad VI.1.2.
 The seven lofty and joy-bringing feminine beings (bṛhatī́ḥ saptá … mayobhúvaḥ) in cd, the target of our invocation, are not further specified. I have supplied ‘cows’ on the basis of ab and IX.86.25, which contains saptá dhenávaḥ, but this is by no means certain. See other suggestions in Geldner’s n. 1. The problem is that there is no reason for the cows to number exactly seven; either ‘seven’ is, as Oberlies (Rel. RV II.74) suggests, simply an indication of totality, or some more standard group of seven, like the rivers, is being referred to (either via the image of cows or directly).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY the Milch-cows who hasten to their object come harmless unto us with liquid sweetness.  
      The Singer, lauding, calls, for ample riches, the Seven Mighty Ones who bring enjoyment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kühe sollen zielschnell mit ihrer Milch zu uns kommen, mit ihrer Süßigkeit uns nicht im Stich lassend. Der redekundige Sänger ruft die sieben Hohen, Erfreulichen zu großem Reichtum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her mögen zu uns unermüdlich kommen mit süsser Milch zum Ziel die Kühe eilend; Viel zu erlangen ruft der Sänger preisend die sieben grossen lustbegabten Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть дойные коровы, спешащие к цели,  
 Не пренебрегая, приходят к нам с молоком, с медом!  

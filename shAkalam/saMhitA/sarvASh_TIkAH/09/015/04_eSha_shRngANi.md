@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ शृ꣡ङ्गाणि दो꣡धुवच्  
 छि꣡शीते यूथि꣡यो वृ꣡षा  
 नृम्णा꣡ द꣡धान ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नृ॒म्णा । दधा॑नः । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -75,35 +75,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** सोमः **शृङ्गाणि** शृङ्गवदुन्नतानंशूनभिषवकाले **दोधुवत्** धूनोति। **यूथ्यः** यूथार्हो यूथपतिः **वृषा** वृषभो यथा **शिशीते** तीक्ष्णे शृङ्गे धूनोति तद्वत् । कीदृश एषः। **ओजसा** बलेन **नृम्णा** नृम्णानि धनानि **दधानः** अस्मदर्थं धारयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He tosses his horns as a bull, the lord of the herd, sharpens his, bearing treasures (for us) by his might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, the bull of the herd, sharpens his horns, ever shaking them, deploying his manly powers with his might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He brandishes his horns on high, and whets them Bull who leads the herd,  
      Doing with might heroic deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser wetzt hin und her schüttelnd seine Hörner, der Herdenbulle, durch seine Kraft Mannesmut annehmend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wetzt die Hörner, schüttelt sie, der Stier der Heerde, wenn er sich Mit Mannesthaten kräftig schmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот оттачивает рога,  
 Потрясая (ими), бык в стаде,  

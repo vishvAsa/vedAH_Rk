@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मेधाकारं꣡ विद꣡थस्य प्रसा꣡धनम्  
 अग्निं꣡ हो꣡तारम् परिभू꣡तमम् मति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡म् इ꣡न् महे꣡ वृणते ना꣡नियं꣡ तुव꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । इत् । अर्भे॑ । ह॒विषि॑ । आ । स॒मा॒नम् । इत् । तम् । इत् । म॒हे । वृ॒ण॒ते॒ । न । अ॒न्यम् । त्वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *medhākāraṃ* ← *medhā*
 - \[noun\], feminine
@@ -137,37 +137,37 @@ genre M
 **मेधाकारं** प्रज्ञायाः कर्तारं **विदथस्य** यज्ञस्य **प्रसाधनं** प्रकर्षेण साधकं **होतारं** देवानामाह्वातारं **परिभूतमम्** अतिशयेन शत्रूणां परिभवितारं **मतिं** मन्तारं यं त्वाम् **अग्निं** वृणीमह इति शेषः । **तमित्** तमेवाग्निम् **अर्भे** अल्पे **हविषि** चरुपुरोडाशादिके हविषि **समानमित्** सहैव ऋत्विजः **आ** **वृणते** प्रार्थयन्ते । **महे** महति सोमात्मके हविष्यपि **तमित्** तमेवाग्निं **वृणते** । **त्वत्** त्वत्तः **अन्यम्** अतिरिक्तं देवं **न** वृणते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The priest) selects you, (**Agni**), the giver of intelligence, the accomplisher of the sacrifice, the invokerof the gods, the chief overcomer of foes, the councillor, alike verily at the lesser and at the greater oblation andnone other than you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Creator of wisdom, furtherer of the rite, Agni, the Hotar, best  
 encompassing thought,  
 just him at the small oblation, just the same for the great one—just him  they choose—no other than you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Hotar-priest who fills the assembly full, Waker of knowledge, chief Controller of the thought,-  
      Him, yea, none other than thyself, doth man elect at sacrificial offerings great and small alike.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sehergabe wirkt, die Weisheitsrede zustande bringt, den Agni, den Hotri, der das Denken am meisten beherrscht, ihn erwählen sie gleichmäßig bei kleinem, ihn bei großem Opfer, keinen anderen als dich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Priester Agni, der das Opferfest vollbringt, der Einsicht schafft und liebevoll den Sinn umfängt, Den wählt man sich bei kleinem Opfer, ebenso bei grossem auch und keinen andern je als dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создателя мудрости, приводящего к цели жертвенную раздачу,  
 Агни-хотара, лучше всех владеющего мыслью,  

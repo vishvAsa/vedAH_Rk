@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विभ्रा꣡जञ् ज्यो꣡तिषा सु꣡वर्  
 अ꣡गछो रोचनं꣡ दिवः꣡  
@@ -14,7 +14,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 विश्व꣡कर्मणा विश्व꣡देवियावता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 येन॑ । इ॒मा । विश्वा॑ । भुव॑नानि । आऽभृ॑ता । वि॒श्वऽक॑र्मणा । वि॒श्वदे॑व्यऽवता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhrājañ* ← *vibhrājan* ← *vibhrāj* ← *√bhrāj*
 - \[verb noun\], nominative, singular
@@ -96,36 +96,36 @@ popular
 हे सूर्य **ज्योतिषा** तेजसा **स्वः** सर्वं जगत् **विभ्राजन्** विभ्राजयन् **दिवः** संबन्धि **रोचनं** रोचमानं स्थानम् **अगच्छः** प्राप्नोः । **विश्वकर्मणा** सर्वव्यापारहेतुना **विश्वदेव्यावता** । विश्वेषां देवानां हितो यागादिर्विश्वदेव्यः । तद्वता **येन** सौरेण तेजसा **इमा** इमानि परिदृश्यमानानि **विश्वा** सर्वाणि **भुवनानि** उदकानि भौमानि **आभृता** घर्मकाल आभृतानि भवन्ति । यद्वा । सर्वाणि भूतजातान्याभृता समन्ताद्भृतानि पोषितानि भवन्ति । तेन ज्योतिषा इत्यन्वयः ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Illumining the whole (world) with your radiance, you have attained (**Sūrya**) the luminous region ofheaven, by which (radiance) animating all pious acts and addressed to the universal gods, all living beings arecherished.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flashing forth with your light, as the Sun you went to the luminous  realm of heaven,  
 you by whom all these worlds are supported here, you who accomplish  all work, who possess all that is proper for gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beaming forth splendour with thy light, thou hast attained heaven's lustrous realm.  
      By thee were brought together all existing things, possessor of all Godhead, All-effecting God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Licht erstrahlend kamst du als Sonne, als Himmelslicht, von dem alle diese Geschöpfe erhalten werden, von dem Allschöpfer, dem Visvakarman, der alle göttlichen Kräfte besitzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erstrahlend hell mit deinem Licht ersteigst des Himmels Aether du, Durch den die Wesen alle hier getragen sind, der alles wirkt, mit allem göttlichen begabt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ярко сверкая (своим) светом, ты пришел  
 Как солнце в светлое пространство неба,  

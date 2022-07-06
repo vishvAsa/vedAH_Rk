@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समि꣡त्-समित् सुम꣡ना बोधि अस्मे꣡  
 शुचा꣡-शुचा सुमतिं꣡ रासि व꣡स्वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡खीन् सुम꣡ना यक्षि अग्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । दे॒व॒ । दे॒वान् । य॒जथा॑य । व॒क्षि॒ । सखा॑ । सखी॑न् । सु॒ऽमनाः॑ । य॒क्षि॒ । अ॒ग्ने॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samit* ← *samidh*
 - \[noun\], nominative, singular, feminine
@@ -129,7 +129,7 @@ genre M
 समित्समित् अत्यर्थंसमिद्धस्त्वं सुमनाः बोधिबुध्यस्व शुचाशुचा अत्यर्थं प्रसप्रकेण ज्योति षायुक्तः त्वं वस्वोवसुनोधनस्यतद्विषयां सुमतिं शॊभनाम्बुद्धिं अस्मेअस्मभ्यं रासिदेहि हे देव द्योतमान देवान् यजनीयान् यजथाययज्ञाय तदर्थं आवक्षिआवहसि हेअग्नेसखादेवानां सखात्वं सुमनाःसन् सखीन् देवान् यक्षियजस्व ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,35 +140,35 @@ genre M
 Repeatedly kindled: **samit** **sama** = samiddha; or, susamiddha, an appellative of Agni in the preceding **sūktas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kindling stick after kindling stick—become favorable to us. With flame  after flame, give the favor of the good one.  
 Convey here the gods, o god, for the sacrifice. As our companion,  
 favorable (to us), sacrifice to your companions, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BE friendly with each kindled log of fuel, with every flash bestow the boon of riches.  
      Bring thou the Gods, O God, unto our worship: serve, well-inclined, as Friend thy friends, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Log by log 1 be kind towards us. Flash by flash grant us thy, the Vasu's, favour 2. Bring hither, O god, the gods that we may sacrifice. Sacrifice, O Agni, as a kind friend to thy friends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit jedem Brennscheit sei uns freundlich gesinnt, mit jeder Flamme gewähre uns die Gnade des Gottes! Fahre, o Gott, die Götter zur Verehrung her; als Freund verehre die Freunde wohlgeneigt, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt, entflammt sei wohlgesinnt uns, Agni, mit Strahl um Strahl verschaff des Guten Gunst uns; Die Götter fahr, o Gott, herbei zum Opfer, der Freund die Freunde, ehre wohlgesinnt sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С каждым  
 поленом  

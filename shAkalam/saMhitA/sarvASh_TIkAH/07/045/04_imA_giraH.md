@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ गि꣡रः सविता꣡रं सुजिह्व꣡म्  
 पूर्ण꣡गभस्तिम् ईळते सुपाणि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 चि॒त्रम् । वयः॑ । बृ॒हत् । अ॒स्मे इति॑ । द॒धा॒तु॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -129,41 +129,41 @@ genre M;; repeated line
 **इमाः** ईदृग्भूताः **गिरः** । गृणन्ति स्तुवन्तीति गिरः स्तोत्र्यः प्रजाः । यद्वा । इमाः स्तुतिरूपा वाचः । **सुजिह्वं** शोभनजिह्वम् । शोभनवाचमित्यर्थः । **पूर्णगभस्तिं** संपूर्णधनहस्तं **सवितारं** देवम् **ईळते** स्तुवन्ति । स च सविता **चित्रं** चायनीयं **बृहत्** महत् **वयः** अन्नम् **अस्मे** अस्मासु **दधातु** । यद्वा अस्मे अस्मभ्यं प्रयच्छतु । हे सवितृप्रमुखा देवाः **यूयं** **नः** अस्मान् **स्वस्तिभिः** कल्याणैः **सदा** सर्वदा **पात** पालयत । ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These praises glorify the eloquent-tongued, dextrous-handed, whose **hands** are full (of wealth); may hebestow upon us manifold and abundant food; and do you, (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These songs here reverently invoke Savitar of good tongue and good  palms, whose fists are full.  
 Let him confer on us brilliant, lofty vigor. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, this is a meta-summary final vs., referring to the very hymns (imā́gíraḥ) invoking Savitar at the present moment. The 2nd pāda focuses on his hands: pūrṇágabhastim … supāṇím “having full fists [that is, fists full of goods] and good palms.” This provides a semantic, but not lexical ring with the beginning of the hymn, where many good things are in Savitar’s hand (háste 1c). (I would in fact have tr. 4b -pāṇí- as ‘hand’ but used ‘palm’ instead to make the lexical difference clear in English.) The ‘hand’ focus is also continued in the two arms (bāhū́) in 2ab, though that is so standard an image of Savitar that it may be independent here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These songs praise Savitar whose tongue is pleasant, praise him whose arms are full, whose hands are lovely.  
      High vital strength, and manifold, may he grant us. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lobreden rufen den Gott Savitri mit der schönen Zunge und vollen Hand, mit der guten Hand an: Er soll uns ausgezeichnete hohe Kraft geben.-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Savitar mit schöner Zung' und Armen, gefüllten Händen, preisen diese Lieder; Er geb' uns grosses, mannichfaches Labsal; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти хвалебные песни зовут Савитара  
 Сладкоязычного, с полной горстью, с прекрасной рукой.  

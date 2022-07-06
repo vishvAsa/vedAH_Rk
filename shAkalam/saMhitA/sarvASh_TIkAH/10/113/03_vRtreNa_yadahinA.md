@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृत्रे꣡ण य꣡द् अ꣡हिना बि꣡भ्रद् आ꣡युधा  
 सम꣡स्थिथा युध꣡ये शं꣡सम् आवि꣡दे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡वर्धन्न् उग्र महिमा꣡नम् इन्द्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । ते॒ । अत्र॑ । म॒रुतः॑ । स॒ह । त्मना॑ । अव॑र्धन् । उ॒ग्र॒ । म॒हि॒मान॑म् । इ॒न्द्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛtreṇa* ← *vṛtra*
 - \[noun\], instrumental, singular, masculine
@@ -121,7 +121,7 @@ genre M
 **युधये** योधनाय **आयुधा** आयुधानि वज्रादीनि **बिभ्रत्** धारयन्निन्द्रस्त्वं **यत्** यदा **अहिना** आहन्तव्येन **वृत्रेण** **समस्थिथाः** सहास्थाः ॥ तिष्ठतेर्लुङि  ‘ समवप्रविभ्यः स्थः' (पा. सू. १. ३. २२ ) इत्यात्मनेपदम् ।  ‘ स्थाध्वोरिच्च ' इति सिचः कित्त्वमिकारश्चान्तादेशः ।  ‘ ह्रस्वादङ्गात् ' (पा. सू. ८. २, २७ ) इति सिचो लोपः । यद्योगादनिघातः ।  ‘ तिङि चोदात्तवति ' इति गतेर्निघातः ॥ तत् **आविदे**॥ कृत्यार्थे केन्प्रत्ययः ॥ तव वृत्रवधादिकं वीर्यं प्रज्ञापयितुं **शंसम्** अशंसम् । शस्त्रैरहं स्तौमि ॥ शन्सु स्तुतौ । लङ्। वाक्यभेदादनिघातः ॥ किंच हे **उग्र** उद्गूर्णबल **अत्र** अस्मिन् काले एव **ते** त्वदीयं **महिमानमिन्द्रियं** वीर्यं च **विश्वे** सर्वे **मरुतः** **त्मना** आत्मना **सह** एव **अवर्धन्** । वर्णलोपश्छान्दसः । अवर्धयन् । मरुतो हीन्द्रस्य वीर्यं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Vṛtra:ahinā, liṭ, the dragon; or ahi; or, ahantavyena, not to be slain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, bearing weapons, you stood with Vr̥tra the serpent, for battle, to  acquire a laud,  
 all the Maruts together in person there increased your greatness and  Indrian power, strong one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, bearing warlike weapons, fain to win thee praise, thou mettest Vrtra, yea, the Dragon, for the fight,  
      Then all the Maruts who were gathered with dice there extolled, O Mighty One, thy powerful majesty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du Waffen tragend mit Vritra, dem Drachen, zusammengestoßen warst, um zu kämpfen, um Lob zu ernten, da stärkten alle Marut zusammen in eigener Person deine indrische Größe, du Gewaltiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Waffen tragend mit dem Drachen Vritra du zusammentrafst zum Kampfe, Ruhm dir zu ersehn, Da mehrten alle Maruts, o gewaltiger, mit dir vereinigt deine grosse Indramacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты, неся оружие, с Вритрой-змеем  
 Столкнулся, чтобы бороться, чтобы снискать хвалу,  

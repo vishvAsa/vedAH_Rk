@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्न꣡ये ब्र꣡ह्म ऋभ꣡वस् ततक्षुर्  
 अग्नि꣡म् महा꣡म् अवोचामा सुवृक्ति꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने म꣡हि द्र꣡विणम् आ꣡ यजस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अग्ने॑ । प्र । अ॒व॒ । ज॒रि॒तार॑म् । य॒वि॒ष्ठ॒ । अग्ने॑ । महि॑ । द्रवि॑णम् । आ । य॒ज॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
@@ -125,7 +125,7 @@ genre M;; repeated line
 **अग्नये** **ब्रह्म** स्तोत्रम् **ऋभवः** मेधाविनः **ततक्षुः** अकुर्वन् । वयं च **महां** महान्तम् **अग्निं** प्रति **सुवृक्तिं** स्तुतिम् **अवोचाम** । हे **यविष्ठ** युवतम **अग्ने** **जरितारं** स्तोतारं **प्राव** प्ररक्ष । हे **अग्ने** **महि** महत् **द्रविणं** धनम् **आ** **यजस्व** प्रयच्छेत्यर्थः । अत्र प्रतिवाक्यमग्न्यभिधानं तस्य स्तुत्यत्वप्रदर्शनार्थम् ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ Asīdat = had stopped, or has sat down in Agni. The'wealth' desired by **Viśvak
 Prathamacchad = assuming the principal form,or first investing, Agni with the worlds; Parameśvara is intended: **ātmā** vā idam eka evāgra āsīt: AitareyaBrāhmaṇa 2.4.1; **Nirukta**, 10.26: Viśvakarman was at a **sarvamedha**, or universal sacrifice; he offered up all theworlds, and last of all offered up himself in sacrifice. The first line of the ṛca is a reference to the destuction of allthings; the second line of the ṛca refers to their re- creation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Agni did the R̥bhus fashion their formulation; to Agni have we  spoken a great, well-turned (hymn).  
 O Agni, youngest one—further the singer; o Agni, win great wealth by  sacrifice.  
 Two hymns (X.81–82) to Viśvakarman are attributed to the dedicand himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Rbhus fabricated prayer for Agni, and we with mighty hymns have called on Agni.  
      Agni, Most Youthful God, protect the singer: win us by worship, Agni, great possessions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Agni haben die Ribhu´s eine erbauliche Rede gezimmert, zu Agni haben wir ein großes Loblied gesprochen. Agni, hilf dem Sänger weiter, o Jüngster; Agni, erbitte großen Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Agni schufen Künstler das Gebet nun, dem Agni sangen wir das grosse Lied nun; O jüngster Agni, sei dem Sänger huldreich, eropfre, Agni, du uns grossen Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Агни молитву вытесали Рибху.  
 К Агни обратились мы с великолепной песней.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡त्सस्य प्र꣡ हि꣡ व्रजं꣡  
 गो꣡मन्तं दस्युहा꣡ ग꣡मत्  
 श꣡चीभिर् अ꣡प नो वरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शची॑भिः । अप॑ । नः॒ । व॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvitsasya* ← *kuvitsa*
 - \[noun\], genitive, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कुवित्सस्य** । कुविद्बहुशः स्यति हिनस्तीति कुवित्सो नाम कश्चित् । तस्य स्वभूतं **गोमन्तं** बहुभिर्गोभिर्युक्तं **व्रतं** गोष्ठं **दस्युहा** दस्यूनामुपक्षपयितॄणां हन्तेन्द्रः **प्र** **गमत्** प्रकर्षेण गच्छति । । **हि** यस्मादेवं तस्मात् **शचीभिः** आत्मीयैः कर्मभिः प्रज्ञाभिर्वा **नः** अस्माकं ता गा **अप** **वरत्**  निगूढास्ता अपावृणोत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Kuvitsa, a person n who does much (kuvit) harm (syati)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the smiter of Dasyus will certainly go forth to somebody’s cattle  enclosure;  
 with his powers he will open it up.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is some difference of opinion on the source of the apparent indefinite kuvítsa-, a hapax. Geldner (n. 24a) asserts that sasya is the gen. corresponding to sásmin, enclitic after kuvíd (presumably presupposing a notional word space kuvít sasya). But the standard opinion, already registered by Grassmann (← BR; see also explicitly AiG II.1.327, repeated AiG II.2.924), is that it is derived from the univerbation of a syntactic sequence kuvít sá (roughly “is it indeed this one?”), which is then secondarily inflected. This seems the more likely explanation, and in fact there is such a sequence attested in IV.51.4 kuvít sá. This passage contains a deliberative either/or question “should it be the old course or a new one …?” kuvít sá … sanáyo návo vā yā́maḥ, a context that favors development into an indefinite of the type “someone or other.” In fact, our passage might be more clearly rendered as “to the cattle enclosure of someone or other.”
 
@@ -122,23 +122,23 @@ This tṛca concerns itself with cows, picking up gómadbhir gopate from the end
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he with might unclose for us the cow's stall, whosesoe'er it be,  
      To which the Dasyu-slayer goes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn gewiß wird der Dasyutöter zu irgendeines rindereichen Hürde kommen. Dann möge er sie uns nach Kräften öffnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu einem rinderreichen Stall geh der Dämonentödter hin Und schliess ihn auf für uns mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, убийца дасью придет  
 К чьему-нибудь загону, полному коров.  

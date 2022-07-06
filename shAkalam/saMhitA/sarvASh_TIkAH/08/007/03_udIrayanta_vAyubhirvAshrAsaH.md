@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईरयन्त वायु꣡भिर्  
 वाश्रा꣡सः पृ꣡श्निमातरः  
 धुक्ष꣡न्त पिप्यु꣡षीम् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धु॒क्षन्त॑ । पि॒प्युषी॑म् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाश्रासः** वाशनशीलाः शब्दकारिणः **पृश्निमातरः** । पृश्निर्माध्यमिका वाक् । सा माता जननी येषां ते तथोक्ताः । ऋतश्छन्दसि' (पा. सू. ५. ४. १५८) इति कपः प्रतिषेधः । ईदृशा मरुतः **वायुभिः** । वान्ति गच्छन्तीति वायवः पृषत्यः। पृषतीभिर्वाहनभूताभिः स्वावयवभूतैर्वायुभिरेव वा **उदीरयन्त** उद्गमयन्ति मेघादिकम् । तथा **पिप्युषीं** वर्धयित्रीम् **इषम्** अन्नं च स्तोतृभ्यः **धुक्षन्त** दुहन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Breezes: vāyubhiḥ, with the winds or the spotted deer, the **vāhanas** of the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They raise themselves upward with the winds—the bellowing ones  whose mother is Pr̥śni.  
 They have milked out swelling refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take úd īrayanta here as a reflexive transitive. It thus contrast with intransitive úd … īrate in 7b.
 
@@ -110,28 +110,28 @@ Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loud roaring with the winds the Sons of Prsni have upraised themselves:  
      They have poured out the streaming food.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Loud roaring with the winds, the sons Of Pṛśni raise themselves aloft: They have milked out the swelling draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie brechen mit den Winden hervor, die brüllenden Söhne der Prisni; sie melken das quellende Labsal.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Priçnisöhne brachen auf, laut tosend mit der Winde Schar Und melkten fetten Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они взмывают на ветрах,  
 Ревущие сыновья Пришни.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्र꣡यः कृण्वन्ति भु꣡वनेषु रे꣡तस्  
 तिस्रः꣡ प्रजा꣡ आ꣡रिया ज्यो꣡तिरग्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वाँ इ꣡त् ताँ꣡ अ꣡नु विदुर् व꣡सिष्ठाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 त्रयः॑ । घ॒र्मासः॑ । उ॒षस॑म् । स॒च॒न्ते॒ । सर्वा॑न् । इत् । तान् । अनु॑ । वि॒दुः॒ । वसि॑ष्ठाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
@@ -134,7 +134,7 @@ popular
 **भुवनेषु** पृथिव्यन्तरिक्षद्युषु **त्रयः** अग्निवायुसूर्याः यथाक्रमेण **रेतः** विश्वस्य धारकमुदकं **कृण्वन्ति** कुर्वन्ति । तेषां त्रयाणां **ज्योतिरग्राः** आदित्यप्रमुखाः **आर्याः** श्रेष्ठाः **तिस्रः** प्रजाः भवन्ति । ते च **त्रयः** अग्निवायुसूर्याः **घर्मासः** दीप्यमानाः **उषसं** **सचन्ते** समवयन्ति । दुर्ज्ञानान् **सर्वानित्** सर्वानेव **तान्** **वसिष्ठाः** **अनु** **विदुः** अभिजानन्ति । तेषां रहस्यविज्ञानादियमपि वसिष्ठानामेव स्तुतिः। तथा च शाट्यायनकं-- त्रयः कृण्वन्ति भुवनेषु रेत इत्यग्निः पृथिव्यां रेतः कृणोति वायुरन्तरिक्ष आदित्यो दिवि तिस्रः प्रजा आर्या ज्योतिरग्रा इति वसवो रुद्रा आदित्यास्तासां ज्योतिर्यदसावादित्यस्त्रयो घर्मास उषसं सचन्त इत्यग्निरुषसं सचते वायुरुषसं सचत आदित्य उषसं सचते ' इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,35 +145,35 @@ popular
 Three shedmoisture: Śātyāana is cited: the three who send rain on the three regions of earth, mid-air, and heaven, areAgni, **Vāyu** and **Āditya**; they also diffuse warmth; thei offspring are the **Vasus**, the **Rudras**, the **Ādityas**, thelatter of whom are the same as **Jyotiṣ**, light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three produce semen in the world; three creatures belonging to the  Ārya have light in front.  
 Three heats accompany the dawn. All these (triads) do they know  
 through and through—the Vasiṣṭhas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the riddles here, see published introduction. I make no effort at a definitive solution (or even any solution at all). In this abstention I follow the good example of Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three fertilize the worlds with genial moisture: three noble Creatures cast a light before them.  
      Three that give warmth to all attend the morning. All these have they discovered, these Vasisthas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei schaffen den Samen in den Welten; es gibt drei arische Geschöpfe, die das Licht voraustragen. Drei Gluten folgen der Usas: Alle diese kennen die Vasistha´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei [Sonne, Wasser, Wind, vgl. Vers 8] schaffen Samen in den Wesen; drei arische Geschlechter sind es, Glanz ausstrahlend; drei Feuer folgen auf die Morgenröthe; dies alles kennen die Vasischtha's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трое создают в мирах семя.  
 Три арийских народа светоносны.  

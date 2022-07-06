@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्रु꣡वेव य꣡स्य ह꣡रिणी विपेत꣡तुः  
 शि꣡प्रे वा꣡जाय ह꣡रिणी द꣡विध्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पीत्वा꣡ म꣡दस्य हर्यत꣡स्य अ꣡न्धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र । यत् । कृ॒ते । च॒म॒से । मर्मृ॑जत् । हरी॒ इति॑ । पी॒त्वा । मद॑स्य । ह॒र्य॒तस्य । अन्ध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sruveva* ← *sruvā* ← *sruva*
 - \[noun\], nominative, dual, masculine
@@ -126,37 +126,37 @@ genre M
 यस्येन्द्रस्य हरिणी हरितवर्णावश्वौ विपेततुः रथ इन्द्रमारोप्य विपततो यज्ञमस्मदीयम्। यद्वा। यस्य हरिणी हरितवर्णे कनीनिके विपेततुः सोमं प्रति विपततः। तत्र दृष्टान्तः। स्रुवेव। यथा स्रुवा स्रुवौ हविषा पूर्णौ पात्रविशेशौ होमार्थं विपततः तद्वत्। तथा यस्य च हरिणी हरितवर्णे शिप्रे हनू वाजाय सोमलक्षणायान्नाय दविध्वतः कम्पयतः पुरतः प्रत्तस्य सोमस्य प्रीत्या चलतः। तथा यद्यदा कृते संस्कृते चमसे वर्तमानं मदस्य मदकरं हर्यतस्य कान्तमन्धसोन्नं सोमं पीत्वा हरी अश्वौ प्र मर्मृजत् प्रमार्ष्टि। तदानीं स्तुत इत्यर्थः॥९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He whose bay horses alight (upon the **Soma**) like two ladies, whose yellow jaws tremble (witheagerness) for the sacrificial food, (is praised) when having drunk of the delicious exhilarating Soma in theprepared cup, he rubs down his bay horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose golden lips, which are like two (golden) spoons, have flown  apart, as he sets his two lips to twitching for the prize,  
 when, after the cup is done, he will groom his two golden (horses),  
 upon drinking of the exhilarating drink, the gladdening stalk.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His yellow-coloured jaws, like ladles move apart, what time, for strength, he makes the yellow-tinted stir,  
      When, while the bowl stands there, he grooms his Tawny Steeds, when he hath drunk strong drink, the sweet juice that he loves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen goldgelbe Zahnreihen sich wie zwei Löffel auftun, während er die beiden goldgelben Zahnreihen für den Siegestrunk hin und her bewegt, wann er bei bereitstehendem Somabecher das Falbenpaar striegelt, nachdem er vom Rauschtrank, dem lieben Tranke, getrunken hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess goldne Stuten wie zwei Ströme fliegen hin, wenn er die goldnen Lippen schüttelt zu dem Trunk, Beim fert'gen Becher sich die goldnen Lippen wischt, nachdem er von dem goldnen Trank zum Rausch geschlürft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи золотистые (губы) раскрылись, (став) как две ложки,  
 Когда он зашевелил золотистыми губами, (чтобы выпить) для победы,  

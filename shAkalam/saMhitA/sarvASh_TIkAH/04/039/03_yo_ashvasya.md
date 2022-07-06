@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अ꣡श्वस्य दधिक्रा꣡व्णो अ꣡कारीत्  
 स꣡मिद्धे अग्ना꣡ उष꣡सो वि꣡उष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ मित्रे꣡ण व꣡रुणेना सजो꣡षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अना॑गसम् । तम् । अदि॑तिः । कृ॒णो॒तु॒ । सः । मि॒त्रेण॑ । वरु॑णेन । स॒ऽजोषाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **यः** यजमानः **अश्वस्य** अश्वरूपस्य व्याप्तस्य वा **दधिक्राव्णः** स्तुतिम् **उषसो** **व्युष्टौ** प्रभाते सति **अग्नौ** **समिद्धे** सति **अकारीत्** अकार्षीत् । **मित्रेण** **वरुणेन** चाहोरात्राभिमाननिदेवाभ्यां सजोषाः समानप्रीतिः **अदितिः** अखण्डनीयो दधिक्राः **तं** यजमानम् **अनागसं** पापरहितं **कृणोतु** करोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Aditi: an appellative, akhaṇḍanīya, the indivisible or infrangible, that is, Dadhikrā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever has paid tribute to the horse Dadhikrāvan when the fire has  been kindled at the break of dawn,  
 him let Aditi make without offense, in concert with Mitra and Varuṇa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interpretive problem in this vs. is caused by the length of a single vowel: sá instead of *sā́in d. The most obvious contextual reading of the pāda is that Aditi should act in concert with Mitra and Varuṇa, but of course Aditi is feminine and the pronoun is masc. Sāyaṇa. makes Dadhikrā the referent and is followed by Geldner, Renou, Maurer, and (tentatively, see their n.) Witzel Gotō. (Maurer in fact takes Dadhikrā also as the subj. of kṛṇotu in c and interprets áditiḥ as a masc. adj. ‘free of bond’.) Oldenberg discusses at some length and comes to a solution (in agreement with Hillebrandt) somewhat like Maurer’s: that the subject of both c and d is Dadhikrā in the guise of / identified with Aditi. I find all this unlikely; despite the syntactic problem, I think the subject of d has to be Aditi, who has a close natural connection with her sons Mitra and Varuṇa (unlike Dadhikrā). Masc. sá may simply show attraction to the adj.
 
@@ -144,23 +144,23 @@ sajóṣāḥ, which is ambig. between masc. and fem. Or, in my opinion more lik
 Another possibility, that the sá refers to the mortal poet favored by Aditi in c, was essentially closed off by Oldenberg, who persuasively argues that sajóṣa(s)- refers almost without exception to the relationship of gods with gods or, less frequently, mortals with mortals -- but not interspecies relationships, as it were.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who hath honoured, when the flame is kindled at break of dawn, the Courser Dadhikrivan,  
      Him, of one mind with Varuna and Mitra may Aditi make free from all transgression.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer des Rosses Dadhikravan gedacht hat bei entflammtem Feuer im Aufgang der Morgenröte, den soll Aditi schuldlos erklären, er im Verein mit Varuna und Mitra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer rühmend denkt des Rosses Dadhikravan bei Agni's Feuer bei des Morgens Leuchten, Den möge schuldlos Aditi erweisen, der sei vereint mit Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто восхвалил коня Дадхикравана,  
 Когда зажжен жертвенный костер (и) когда воспламенилась Ушас,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था꣡हानि अनुपूर्व꣡म् भ꣡वन्ति  
 य꣡थ र्त꣡व ऋतु꣡भिर् य꣡न्ति साधु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एवा꣡ धातर् आ꣡यूंषि कल्पयैषाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यथा॑ । न । पूर्व॑म् । अप॑रः । जहा॑ति । ए॒व । धा॒तः॒ । आयूं॑षि । क॒ल्प॒य॒ । ए॒षाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathāhāny* ← *yathā*
 - \[adverb\]
@@ -129,7 +129,7 @@ popular
 **यथा** येन प्रकारेण **अहानि** अहोरात्रात्मकानि दिनानि **अनुपूर्वं** पूर्वपूर्वमनुक्रमेण **भवन्ति** परिवर्तन्ते । **यथा** च **ऋतवः** वसन्तादयः **ऋतुभिः** सह **साधु** शोभनमविपर्यासेन **यन्ति** गच्छन्ति । **यथा** च **पूर्वं** पूर्वकालीनं पितरम् **अपरः** अर्वाक्कालीनः पुत्रः **न** **जहाति** न परित्यजति पूर्वमरणेन । **एव** **एवं**  तेनैवोक्तप्रकारेण हे **धातः** सर्वेषां धारयितरेतन्नामक देव **एषाम्** अस्मत्कुलीनानां जीवानाम् **आयूंषि** जीवनानि **कल्पय** समर्थय। कुर्वित्यर्थः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ popular
 As the successor: i.e., as ason does not leave his father by dying first
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as the days follow each upon the last, just as the seasons follow  straightaway upon the seasons,  
 so, o Ordainer, arrange their lifetimes, so that the later does not leave  behind the earlier.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the days follow days in close succession, as with the seasons duly come the seasons,  
      As each successor fails not his foregoer, so form the lives of these, O great Ordainer.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 As days in order follow one another, As seasons duly alternate with seasons. And as the later ne'er forsakes the earlier, So settle thou the lives of these, Ordainer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Tage in richtiger Folge erscheinen, wie die Jahreszeiten um Jahreszeiten richtig kommen, also, o Schöpfer, regle ihre Lebenszeiten, daß nicht der Jüngere den Älteren verlasse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Tag auf Tag in steter Reihe folget, wie Zeit auf Zeit in gradem Weg dahingeht, Die folgende sich eng der frühern anschliesst, so bild', o Schöpfer, ihre Lebenstage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как дни возникают один за другим,  
 Как времена года идут за временами года правильной чередой,  

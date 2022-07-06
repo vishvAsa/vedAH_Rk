@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡गस्य स्व꣡सा व꣡रुणस्य जामि꣡र्  
 उ꣡षः सूनृते प्रथमा꣡ जरस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡येम तं꣡ द꣡क्षिणया र꣡थेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प॒श्चा । सः । द॒घ्याः॒ । यः । अ॒घस्य॑ । धा॒ता । जये॑म । तम् । दक्षि॑णया । रथे॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhagasya* ← *bhaga*
 - \[noun\], genitive, singular, masculine
@@ -120,43 +120,43 @@ genre M
 **सूनृते** सुष्ठु मनुष्याणां नेत्रि **उषः** हे उषोदेवते **भगस्य** सर्वैर्भजनीयस्य आदित्यस्य **स्वसा** असि स्वसृस्थानीयसि । तेन सहोत्पद्यमानत्वात् तद्वत्पूज्येत्यर्थः। तथा **वरुणस्य** तमोवारकस्य सवितुर्देवस्य **जामिः**  असि भगिनीस्थानीयासि। एकस्मिन्नेव स्थाने उत्पद्यमानत्वात्।जनयन्त्युत्पादयन्ति अस्यामपत्यम् अन्ये इति जामिः। यद्वा । जमति गच्छति स्वोत्पत्तिस्थानात् अन्यत्रेति । उक्तनिर्वचनद्वयम् अभिप्रेत्य यास्क आह-' न जामये भगिन्यै जामिरन्येऽस्यां जनयन्ति जामपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति ' (निरु. ३. ६ ) इति । तादृशी त्वं **प्रथमा** इतरदेवेभ्यः पूर्वा उत्कृष्टा वा सती **जरस्व** स्तुता भव । जरतिः स्तुत्यर्थः । ‘ जरा स्तुतिर्जरतेः स्तुतिकर्मणः ' ( निरु. १०. ८) इति यास्कः । **पश्चा** पश्चात् त्वत्प्रीत्यनन्तरं **यः** **अघस्य** **धाता** यः कश्चिद्दुःखस्य तदुत्पादकपापस्य वा धारयितास्ति **सः** **दध्याः** गच्छतु । वचनव्यत्ययः । दध्यतिर्गत्यर्थः ।' दृध्यति दभ्नोति ' ( नि. २. १४. ६१) इति गत्यर्थेषु पाठात् । यदि स पापी बलीयान् तं दक्षिणया प्रवृद्धया सहायभूतया त्वया **रथेन** अस्मदीयरथादिसाधनेन च **जयेम** ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣā, endowed with truth, who are the sister of **Bhaga**, the sister of **Varuṇa**, be you hymned first (of the gods); then let the worker of iniquity depart, for we shall overcome him with our chariot, through your assistance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sister of Bhaga, kin to Varuṇa, o liberal Dawn, be first awake.  
 The institutor of evil should lag behind. Might we conquer him with a  priestly gift as our chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final phrase dákṣinayā ráthena with two instr. identifies the dakṣiṇā and the chariot, unlike either of the proposed readings in 1a (see comm. there). Grassmann, followed (perhaps surprisingly) by Oldenberg, suggests reading *dákṣiṇāyā(ḥ) here, with the gen. supposedly found in 1a. Oldenberg ascribes the change to attraction to the instr.
 
 ráthena. The proposed emendation would do no violence to the meter (and would in fact produce a somewhat more common break), but since the text is easily comprehensible as transmitted, I see no reason to emend.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sister of Varuna, sister of Bhaga, first among all sing forth, O joyous Morning.  
      Weak be the strength of him who worketh evil: may we subdue him with our car the guerdon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Bhaga Schwester, des Varuna Verwandte, erwache du großmütige Usas als erste! Der Anstifter des Bösen soll das Nachsehen haben; wir wollen ihn mit der Daksina als dem Wagen besiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Bhaga's Schwester, Varuna's Verwandte, komm her zuerst, o schöne Morgenröthe; Wer Frevel übt, der soll dahinten bleiben, von uns besiegt sein mit der Uschas Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сестра Бхаги, кровная родня Варуны,  
 О щедрая Ушас, пробудись первой!  

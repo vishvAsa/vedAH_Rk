@@ -8,7 +8,7 @@ title = "+146"
 ‘ अरण्यानि' इति षडृचमष्टादशं सूक्तमिरंमदपुत्रस्य देवमुनेरार्षम् । महदरण्यमरण्यानी । तद्देवताकम् । आनुष्टुभम् । तथा चानुक्रान्तम् - ' अरण्यान्यैरंमदो देवमुनिररण्यानीं तुष्टाव ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 146 (972)  
 Lady of the Wilderness (Araṇyānı)̄  

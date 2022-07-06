@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युक्ष्वा꣡ हि꣡ अ꣡रुषी र꣡थे  
 हरि꣡तो देव रोहि꣡तः  
 ता꣡भिर् देवाँ꣡ इहा꣡ वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ताभिः॑ । दे॒वान् । इ॒ह । आ । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
@@ -96,7 +96,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** अग्ने **रोहितः** रोहिच्छब्दाभिधेयास्त्वदीया वडवाः **रथे** **युक्ष्व** योजय। हिशब्दः पादपूरणार्थः । कीदृशीः । **अरुषीः** गतिमतीः **हरितः** हर्तुं रथारूढान् पुरुषान् नेतुं समर्थाः। **ताभिः** वडवाभिः **इह** अस्मिन् कर्मणि **देवान्** **आ** **वह** ॥ युक्ष्व ।' युजिर् योगे'। लोट् । स्वरितेत्त्वादात्मनेपदम् ।' थासः से'। 'सवाभ्यां वामौ'। 'रुधादिभ्यः श्नम्। तस्य बाहुलकात् लुक् । कुत्वषत्वे । प्रत्ययस्वरेणान्तोदात्तः । संहितायां ' द्व्यचोऽतस्तिङः ' ( पा. सू. ६. ३. १३५) इति दीर्घः । अरुषीः ।  ‘ऋ  गतौ । रन्ति (?) गच्छन्तीत्यरुष्यो वडवाः।  ‘ ऋहनिभ्यामुषन्' (उ. सू. ४. ५१३)। धातोर्गुणो रपरत्वम् । नित्त्वादाद्युदात्तोऽरुषशब्दः । तस्मात् स्त्रियां छान्दसो ङीप् । शसि  ‘ प्रथमयोः पूर्वसवर्णः ' ( पा. सू. ६. १. १०२) इति दीर्घः । रथे। रमेः औणादिकः क्थन्प्रत्ययः । नित्त्वादाद्युदात्तः । हरितः ।  ‘ हृसृरुहियुषिभ्य इतिः ' ( उ. सू. १. ९७ ) इति हरतेः इतिप्रत्ययः । इकारः प्रत्ययस्वरेणोदात्तः । रोहितः । रुहेरपि तेनैव सूत्रेण इतिः । इकारः प्रत्ययस्वरेणोदात्तः । ताभिः। ‘सावेकाचः°' (पा.सू.  ६. १. १६८ ) इति विभक्तेः प्राप्तमुदात्तत्वं • साववर्ण ' (पा. सू. ६. १. १८२) इति निषिध्यते । देवान् इत्यत्र पूर्ववत् रुत्वानुनासिकौ ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,34 +107,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Rohita**, is the name of the horse of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O god, yoke the ruddy (mares) to your chariot, the fallow bays, the  chestnuts.  
 Then with them convey the gods hither.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction involving the normally causal particle hí and the imperative is a troubling one. Brereton (2012 Bronkhorst Fs.) plausibly argues that in cases like this, with two imperative clauses in sequence, the hí clause expresses the action necessary for the second one to take place. In other words, the usual causal value of hí is found there as well, though the addition of imperative modality makes it difficult to render in English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harness the Red Mares to thy car, the Bays, O God, the flaming ones:  
      With those bring hitherward the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So schirr denn, o Gott, deine rötlichen, falben, roten Stuten an den Wagen; mit diesen fahre die Götter hierher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schirr an den Wagen dir, o Gott, die rothen Flammenrosse an, Mit denen fahr die Götter her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягай же в колесницу рыжих,  
 Буланых, о бог, красных кобылиц!  

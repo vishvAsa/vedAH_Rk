@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रेहि वि꣡ग्रम् अ꣡स्तृतम्  
 इ꣡न्द्रम् पृछा विपश्चि꣡तम्  
 य꣡स् ते स꣡खिभ्य आ꣡ व꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । ते॒ । सखि॑ऽभ्यः । आ । वर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अत्र यजमानं प्रति होता. ब्रूते । हे यजमान त्वम् **इन्द्रं** **परेहि** इन्द्रस्य समीपे गच्छ । गत्वा च **विपश्चितं** मेधाविनं होतारं मां **पृच्छ** । असौ होता सम्यक् स्तुतवान् न वा इत्येवं प्रश्नं कुरु । **यः** इन्द्रः **ते** तव यजमानस्य **सखिभ्यः** ऋत्विग्भ्यः **वरं** श्रेष्ठं धनपुत्रादिकम् **आ** समन्तात् प्रयच्छतीति शेषः । तादृशमिन्द्रमिति पूर्वत्रान्वयः । पुनरपि कीदृशम् । **विग्रं** मेधाविनम् **अस्तृतम्** अहिंसितम् । “ विप्रः ' इत्यादिषु चतुर्विंशतिसंख्याकेषु मेधाविनामसु विग्रविपश्चिच्छब्दौ पठितौ (नि. ३. १५. २, १६ ) ॥ विग्रम् । वृषादित्वादाद्युदात्तः । अस्तृतम् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । इन्द्रशब्दे ‘ऋज्रेन्द्राग्र° ' ( उ. सू. २. १८६ ) इत्यादिना रन् । नित्त्वादाद्युदात्तः । सखिभ्यः । ‘समाने ख्यश्चोदात्तः' ( उ. सू. ४. ५७६ ) इति समाने उपपदे ख्यातेरिण् । ‘डित् ' इत्यनुवृत्तेस्तस्य डित्त्वात् टिलोपश्च (पा. सू. ६. ४. १४३)। तत्संनियोगेन यलोपः। उपपदस्योदात्तत्वम् । **समानस्य** छन्दस्यमूर्धप्रभृत्युदर्केषु' (पा. सू. ६. ३. ८४ ) इति सभावः । अतः सखिशब्द आद्युदात्तः । व्रियते इति वरः । ‘ग्रहवृदृनिश्चिगमश्च ' ( पा. सू. ३. ३. ५८ ) इलि अप् । तस्य पित्त्वात् धातुस्वर एव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Go, worshipper, to the wise and uninjured **Indra**, who bestows the best (of blessings) on your friends, and ask him of the (fitness of the) learned (priest who recites his praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Go away! Ask Indra, spirited and indestructible, attentive to poetic  inspiration,  
 who is your choice from among your comrades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Striking is the abrupt change of subject of the 2nd sg. imperatives, from Indra (3c) to an unidentified human companion (4a).
 
@@ -114,23 +114,23 @@ I.4.5-6: Most interpretations take these two verses as syntactically parallel (e
 “Mögen … Und mögen …”), but the impv. bruvantu and the opt. vocéyuḥ are surely doing different things: the imperative is concessive: “let them say / even if they say ...” while the optative expresses the conclusion that the rest of the world would have to draw. The parallel utá’s that open these verses might give us pause, but they may have something like the value “on the one hand … on the other.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the perfect sacrifice which thou encompassest about  
    Verily goeth to the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh hin, frag den Weisen nach dem schnellen, unüberwindlichen Indra, wer dir lieber als alle Freunde ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum unbesiegten starken geh, den weisen Indra flehe an, Der deiner Freunde bester ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пойди спроси мудреца  
 О быстром, неодолимом Индре,  

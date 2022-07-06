@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡म द्विता꣡ राष्टरं꣡ क्षत्रि꣡यस्य  
 विश्वा꣡योर् वि꣡श्वे अमृ꣡ता य꣡था नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जामि कृष्टे꣡र् उपम꣡स्य वव्रेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्रतु॑म् । स॒च॒न्ते॒ । वरु॑णस्य । दे॒वाः । राजा॑मि । कृ॒ष्टेः । उ॒प॒मस्य॑ । व॒व्रेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mama* ← *mad*
 - \[noun\], genitive, singular
@@ -113,7 +113,7 @@ genre M
 **क्षत्रियस्य** क्षत्रियजात्युत्पन्नस्य **विश्वायोः** कृत्स्नमनुष्याधीशस्य । मम इत्यात्मनो निर्देशः । **द्विता** क्षितिस्वर्गभेदेन द्वित्वापन्नं **राष्ट्रम्** । **मम** त्रसदस्योः **विश्वे** सर्वे **अमृताः** देवाः **यथा** **नः** अस्माकं भवन्ति तथा राष्ट्रं प्रजाश्चेत्यर्थः । **वरुणस्य** वारकस्य वरुणात्मनो वा **कृष्टेः** मनुष्यस्य तद्वतो वा **उपमस्य** । अन्तिकनामैतत् । सर्वेषामन्तिकतमस्य **वव्रेः** । रूपनामैतत् । रूपवतो मम **क्रतुं** कर्म **सचन्ते** सेवन्ते **देवाः** सर्वेऽपि । अहं च **राजामि** । राजतिरैश्वर्यकर्मा। सर्वेश्वरः भवामि । यद्वा । उपमस्य वव्रेः कृष्टे राजामीति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ Twofold is my empire: mama **dvitā** rāṣṭram kṣatriyasya viśvayoḥ; an
 Rājāmi = rājatiraiśvarya karmā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [As Varuṇa:] Now as before, mine is the kingship of a lifelong ruler, so  that all the immortals (are) ours:  
 the gods follow the will of Varuṇa; I am king of the boundary of the  highest covering [=the boundary of heaven].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I AM the royal Ruler, mine is empire, as mine who sway all life are all Immortals.  
      Varuna's will the Gods obey and follow. I am the King of men's most lofty cover.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Herrschaft gehört aufs neue mir, dem lebenslänglichen Fürsten, wie alle Unsterblichen uns bezeugen. Des Varuna Rat befolgen die Götter; ich herrsche über das Volk von höchster Körperform.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich bin der König, mir gehört die Herrschaft, dem Allbeleber alle Götterscharen; Die Götter folgen Varuna's Geboten; der Menschen höchsten Zufluchtsort beherrsch' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мне изначально принадлежит царство, владыке  
 Всех сроков жизни – как (знают) о нас все бессмертные.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उते꣡शिषे प्रसव꣡स्य त्व꣡म् ए꣡क इ꣡द्  
 उत꣡ पूषा꣡ भवसि देव या꣡मभिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श्यावा꣡श्वस् ते सवित स्तो꣡मम् आनशे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒त । इ॒दम् । विश्व॑म् । भुव॑नम् । वि । रा॒ज॒सि॒ । श्या॒वऽअ॑श्वः । ते॒ । स॒वि॒त॒रिति॑ । स्तोम॑म् । आ॒न॒शे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uteśiṣe* ← *uta*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre M
 हे सवितः **त्वमेक** **इत्** एक एव **प्रसवस्य** सर्वकर्मानुज्ञाकरणस्य **ईशिषे** समर्थो भवसि । ये लौकिकं गमनादिरूपं वैदिकमग्निहोत्रादिरूपं कर्मानुतिष्ठन्ते तेषां सर्वेषामनुज्ञातुमेक एव प्रभवसि । **उत** अपि च **पूषा** पोषकः **भवसि** हे **देव** **यामभिः** गमनैः । **उत** अपि च **इदं** **विश्वं** **भुवनं** भूतजातं **वि** **राजसि** ईशिषे धारयितुम् । यस्मादेवं महानुभावस्तस्मात् हे **सवितः** **ते** तुभ्यं **श्यावाश्वः** ऋषिः **स्तोमं** स्तोत्रम् **आनशे** व्याप्नोति करोति । इत्येवमात्मानं परोक्षतया निर्दिशन्नाह ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You alone rule over (the actions of) living beings; you are **Pūṣan**, divine (**Savitā**), by the movements; you are soverign over the whole world; **Śyāvāśva** offers praise, Savitā, to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you are master over impulsion, just you alone, and you become  Pūṣan through your journeys.  
 And you rule over all this world here. Śyāvāśva has achieved his praise  for you, Savitar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over all generation thou art Lord alone: Pusan art thou, O God, in all thy goings-forth.  
      Yea, thou hast domination over all this world. Syavasva hath brought praise to thee, O Savitar,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du allein hast die Macht anzuweisen, und du bist der Pusan durch deine Fahrten, o Gott. Und diese ganze Welt regierest du. Syavasva hat dir ein Loblied, o Savitri, zustande gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und aller Antrieb steht in deiner Macht allein, und Puschan bist auf allen Wegen du, o Gott, Und über diese ganze Welt gebietest du; dir, Savitar, hat Çjavaaçva Lob gebracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И ты правишь силой вызывать к жизни – ты один,  
 И ты являешься Пушаном, о бог, благодаря (своим) выездам,  

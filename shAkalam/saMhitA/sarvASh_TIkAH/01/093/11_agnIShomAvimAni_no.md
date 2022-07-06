@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमाव् इमा꣡नि नो  
 युवं꣡ हव्या꣡ जुजोषतम्  
 आ꣡ यातम् उ꣡प नः स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -30,7 +30,7 @@ genre D
 आ । या॒त॒म् । उप॑ । नः॒ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomāv* ← *agnīṣomau* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -85,20 +85,20 @@ genre D
 हे **अग्नीषोमौ** **युवं** युवां **नः** अस्मदीयानि **इमानि** **हव्या** हवींषि **जुजोषतं** सेवेथाम् । तदर्थं **नः** अस्मान् **सचा** सह युवाम् **उप** **आ** **यातं** उपागच्छतम् ॥ जुजोषतम् । ‘जुषी प्रीतिसेवनयोः । लोटि व्यत्ययेन शप्। छान्दसं द्विर्वचनम् । यद्वा। विकरणस्य ‘बहुलं छन्दसि' इति श्लुः । ततो व्यत्ययेन शप् । ' बहुलं छन्दसीति वक्तव्यम्' इति वचनात् ‘नाभ्यस्तस्याचि पिति' इति लघूपधगुणप्रतिषेधाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** and **Soma**, bepleased with these our oblations, come to us together.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni and Soma, you will enjoy these oblations of ours here.  
 Together drive right up to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I supply ‘makes’ on the basis of 9c sugáṃ kṛdhi, though strictly speaking “that is an easy way” is perfectly acceptable.
 
@@ -115,23 +115,23 @@ tāvaká-, the vṛddhi derivative of the genitive of the 2nd ps. pronoun, enlar
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni and Soma, be ye pleased with these oblations brought to you,  
      And come, together, nigh to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni und Soma! Laßt euch diese Opferspenden von uns Munden, kommt zusammen her zu uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst diesen unsern Opfertrank gefallen, Agni-Soma, euch, Und kommt vereinigt zu uns her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, наслаждайтесь вы  
 Этими нашими жертвенными возлияниями!  

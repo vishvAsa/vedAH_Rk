@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूर्वी꣡श् चिद् धि꣡ त्वे꣡ तुविकूर्मिन् आश꣡सो  
 ह꣡वन्त इन्द्र ऊत꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 श꣡विष्ठ श्रुधि꣡ मे ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ति॒रः । चि॒त् । अ॒र्यः । सव॑ना । आ । व॒सो॒ इति॑ । ग॒हि॒ । शवि॑ष्ठ । श्रु॒धि । मे॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvīś* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
@@ -118,37 +118,37 @@ genre M
 हे तुविकूर्मिन् बहुकर्मन्निन्द्र त्वे त्वयि पूर्वीः चिद्धीतिपूरणौ बहूनि आशसः आशंसनानि स्थितानि तथा ऊतयो रक्षाश्च त्वयि अवस्थिता लब्धुं हवन्ते आह्वयन्ति स्तोतारोन्ये अतोर्योरेः सवना सवनानि तिरश्चित् तिरस्कृत्य अरीन्वा तिरस्कृत्यास्मत्सवनान्यभिलक्ष्य हे वसो वासकेन्द्र आगह्यागच्छ अतो हे शविष्ठातिशयेन बलवन् मे हवं श्रुधि शृणु ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, doer of many great deeds, (other worshippers) invoke the manifold hopes and protections whichabide in you; but rejecting the enemy's oblations, come to us bestower of dwellings; O mightiest, hear my appeal.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For although many are the hopes that call to you, powerfully ranging  Indra, and many are your forms of help,  
 pass over the pressings of the stranger, good one. Most mighty one,  
 heed my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou of mighty acts, the aids that are in thee call forward many an eager hope.  
      Past the drink-offerings, Vasu, even of the good, hear my call, Strongest God, and come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwar werden viele Hoffnungen auf dich gesetzt, du Tatenreicher, und werden deine Hilfen von vielen angerufen, Indra. Komm her, du Guter, sogar an eines hohen Herrn Trankopfer vorüber! Mächtigster, erhöre meine Anrufung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vielwirkender, dir streben viele Wünsche zu, dich, Indra, ladend zum Genuss; Auch durch des Feindes Spenden dring', o guter, her o stärkster, höre meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно, многие надежды (связаны) с тобой, о сильный деяниями,  
 (И многие) зовут твои поддержки, о Индра.  

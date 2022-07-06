@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्ये꣡ मा पौरुकुत्स्य꣡स्य सूरे꣡स्  
 त्रस꣡दस्योर् हिरणि꣡नो र꣡राणाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गैरिक्षित꣡स्य क्र꣡तुभिर् नु꣡ सश्चे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वह॑न्तु । मा॒ । दश॑ । श्येता॑सः । अ॒स्य॒ । गै॒रि॒ऽक्षि॒तस्य॑ । क्रतु॑ऽभिः । नु । स॒श्चे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -108,21 +108,21 @@ genre M
 त्रसदस्युश्च विदथो ध्वन्यश्चेति त्रयो नृपाः । अश्वान्धनानि गाश्चादुर्ऋषये तद्वदत्यृषिः ॥ **उत** अपि च **त्ये** ते **मा** । चतुर्थ्यर्थे द्वितीया । मह्यमित्यर्थः । **रराणाः** ॥ रातेर्दानार्थस्य कर्मणि लिटः कानचि रूपम् ॥ दत्ता इत्यर्थः । **पौरुकुत्स्यस्य** पुरुकुत्सापत्यस्य **सूरेः** प्रेरकस्य **हिरणिनः** हिरण्यवतः **अस्य** **त्रसदस्योः** एतन्नामकस्य राजर्षेः ”गैरिक्षितस्य गिरिक्षितगोत्रोत्पन्नस्य **श्येतासः** शुभ्रवर्णाः **दश** अश्वाः **मा** मां **वहन्तु** प्रापयन्तु । अहं च **क्रतुभिः** कर्मभी रथनियोजनादिभिर्यज्ञादिभिर्वा **नु** क्षिप्रं **सश्चे** गच्छेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those ten bright homes, the tift to me of the pious gold-possessing **Trasadasyu**, the son of **Purukutsa**, of the raceof Girikṣita, convey me (to the sacrifice) and may I proceed quickly with the rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these gold-bedecked (horses) of my patron, Paurukutsya  
 Trasadasyu, when they are given—  
 let his ten white ones convey me. I am attended by the intentions of  Gairikṣita.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is unclear whether the horses in ab and those in c are the same or different.
 
@@ -139,23 +139,23 @@ As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānas
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And these ten steeds which Trasadasyu gives me, the goldrich chief, the son of Purukutsa,  
      Resplendent in their brightness shall convey me. Gairiksita willed it and so came I hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und mich sollen diese von dem freigebigen Patron Trasadasyu, dem Purukutsasohn geschenkten goldgeschmückten Rosse fahren; es sollen mich seine zehn Rotschimmel fahren. Ich stimme mit den Absichten des Gairiksita überein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und diese mir vom Fürsten Trasadasju, dem Nachkommen des Purukutsa, geschenkten goldgeschmückten zehn weissen Rosse mögen mich fahren; ich wurde theilhaft der starken [Rosse] des Girikschit-sprosses.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: (пусть повезут) меня те подаренные покровителем Трасадасью,  
 Сыном Пурукутсы, украшенные золотом (кони)!  

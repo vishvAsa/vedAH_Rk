@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सहस्रसा꣡म् आ꣡ग्निवेशिं गृणीषे  
 श꣡त्रिम् अग्न उपमां꣡ केतु꣡म् अर्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मिन् क्षत्र꣡म् अ꣡मवत् त्वेष꣡म् अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तस्मै॑ । आपः॑ । स॒म्ऽयतः॑ । पी॒प॒य॒न्त॒ । तस्मि॑न् । क्ष॒त्रम् । अम॑ऽवत् । त्वे॒षम् । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasrasām* ← *sahasra*
 - \[noun\], neuter
@@ -118,7 +118,7 @@ genre M
 अग्निवेशिसुतं शत्रिमसंख्यातधनप्रदम् । आशास्त ऋषिरन्त्यर्चा प्रजापतिसुतः सुधीः ॥ **अर्यः** अहं **सहस्रसाम्** अपरिमितधनप्रदम् **आग्निवेशिम्** अग्निवेशिसुतं **शत्रिम्** एतन्नामकं राजर्षिं **गृणीषे** गृणे स्तौमि । हे **अग्ने** अङ्गनादिगुणविशिष्टेन्द्र । कीदृशं तम् । **उपमाम्** उपमानभूतं **केतुं** प्रज्ञापकं प्रख्यातमित्यर्थः । **तस्मा** **आपः** **संयतः** सम्यक् गच्छन्त्यः **पीपयन्त** प्यायन्ताम् । **तस्मिन्** राज्ञि **क्षत्रं** धनम् **अमवत्** बलसहितं **त्वेषं** दीप्तम् **अस्तु** इति ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 Agni: **Indra** is referred as identical with Agni; Agniveśa is a ṛṣi, a son of **Brahmā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The thousand-winning Āgniveśi Śatri will I sing, the measure and the  beacon for the stranger, o Agni.  
 For him the waters will swell continuously; in him let there be lordly  power aggressive and ardent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of saṃyát- ‘continuous(ly)’, root noun cmpd. to √yat (see yataṃin 4c and disc. there), must have developed from ‘taking their places together, one after the other’. For further disc. of the stem, see comm. ad IX.86.15.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni! I laud the liberal Agnivesi, Satri the type and standard of the pious.  
      May the collected waters yield him plenty, and his be powerful and bright dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Tausendschenker Satri, des Agnivesa´ Sohn will ich feiern, o Agni, das Vorbild und die Leuchte eines hohen Herrn. Für ihn sollen die Gewässer ununterbrochen anschwellen, bei ihm soll die mächtige, furchtgebietende Herrschaft verbleiben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Çatri preise ich, den Nachkommen des Agniveça, der tausend Gaben schenkt, o Agni, den höchsten Heerführer des treuen [Volkes]; ihm mögen fort und fort die Wasser reich an Nahrung sein; bei ihm verbleibe ungestüme starke Herrschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу воспеть добывающего тысячи сына Агнивеши  
 Шатри, о Агни, образец для сравнения, светоч для ария,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रा꣡ सो꣡मा अभवन्न् अस्य वि꣡श्वे  
 सत्रा꣡ म꣡दासो बृहतो꣡ म꣡दिष्ठाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡त्रे वि꣡श्वा अधिथा इन्द्र कृष्टीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒त्रा । अ॒भ॒वः॒ । वसु॑ऽपतिः । वसू॑नाम् । दत्रे॑ । विश्वाः॑ । अ॒धि॒थाः॒ । इ॒न्द्र॒ । कृ॒ष्टीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrā*
 - \[adverb\]
@@ -127,21 +127,21 @@ genre M
 **विश्वे** सर्वे **सोमाः** **अस्य** इन्द्रस्य **सत्रा**। सत्रेति सत्यनामैतत् । सत्यमेव प्रभूताः **अभवन्** । किंच **मदासः** मदा मदकराः सोमाः **बृहतः** महतोऽस्येन्द्रस्य **मदिष्ठाः** मादयितृतमाः **सत्रा** सत्यमेवाभवन् । हे **इन्द्र** त्वं **वसुपतिः** धनपतिः । न केवलं धनपतिः किंतु **वसूनां** सर्वेषां पश्वादीनां धनानां पतिः **सत्रा** सत्यमेव **अभवः** भवसि । हे इन्द्र त्वं **दत्रे** धने निमित्तभूते सति **विश्वाः** सर्वाः **कृष्टीः** स्तोत्रीः प्रजाः **अधिथाः** धारयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Truly are all libations his, the inebriating draughts are truly most exhilarating to the mighty **Indra**; truly are you the lord of wealth, of (all sorts of) treasures; you, Indra, support all people by the gift (of riches).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Entirely his were the soma-drinks; entirely for the lofty one were the  most exhilarating exhilarating-drinks.  
 Entirely the goods-lord of goods you became. You placed all the  
 separate peoples in (the path of) your giving, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a the word víśve was omitted in the published translation, which should be emended to “Entirely his were all the soma-drinks.” The three initial satrā́(a, b, c) are echoed by dátre beginning d. Although there is some dissension on the root etym. of dátra- (cf., e.g., Oldenberg, who cites Neisser derivation from dáyate ‘apportion’ -- an analysis apparently followed by both Geldner and Witzel Gotō, judging from their tr. ‘Anteil’), the correct analysis was already sketched by Grassmann s.v.: it is a -tra- deriv. built to the weak stem of the redupl. pres. to √dā ‘give’ (dad-), hence *dáttra, with simplification of the geminate before r, as often. See AiG II.2.703 and the important (if lapidary) correction in the Nachtr. to AiG I: Nachtr. p.
 
@@ -157,23 +157,23 @@ I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All Soma juices are his own for ever, most gladdening draughts are ever his, the Mighty,  
      Thou ever wast the Treasure-Lord of treasures: Indra, thou lettest all folk share thy bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm wurden alle Somatränke insgesamt zuteil, dem Hohen die berauschendsten Rauschtränke insgesamt. Du wardst der Herr der Güter insgesamt. Allen Völkern hast du zu ihrem Anteil verholfen, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm waren alle Somatränke eigen, die kräftigsten, berauschenden dem grossen, Du warest aller Schätze Schatzgebieter, du Indra halfst zur Gabe allen Völkern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Целиком все соки сомы принадлежали ему,  
 Целиком самые опьяняющие хмельные напитки – высокому,  

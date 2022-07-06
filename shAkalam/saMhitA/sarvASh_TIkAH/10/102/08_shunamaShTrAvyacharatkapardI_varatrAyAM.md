@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुन꣡म् अष्ट्रावि꣡ अचरत् कपर्दी꣡  
 वरत्रा꣡यां दा꣡रु आन꣡ह्यमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गाः꣡ पस्पशान꣡स् त꣡विषीर् अधत्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नृ॒म्णानि॑ । कृ॒ण्वन् । ब॒हवे॑ । जना॑य । गाः । प॒स्प॒शा॒नः । तवि॑षीः । अ॒ध॒त्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -113,36 +113,36 @@ popular
 **शुनम्** इति सुखनाम। सुखं यथा भवति तथा । **अष्ट्रावी** । अष्ट्रा प्रतोदः तद्वान् । छान्दसो विनिः । **कपर्दी** कपर्दवान् **अचरत्** संचरति । किं कुर्वन् । **वरत्रायां** वध्रौ **दारु** काष्ठं रथाङ्गभूतम् **आनह्यमानः** सर्वतो बध्नन् । पुनः किं कुर्वन् । **बहवे** **जनाय** स्वपुत्रभृत्यादिलक्षणाय **नृम्णानि** धनानि शत्रुसंबन्धीनि सुखानि वा **कृण्वन्** । **गाः** **पस्पशानः** स्पृशन् । ' स्पश बाधनस्पर्शनयोः । छान्दसो  लिटि कानच् । एवं कुर्वन् **तविषीः** बलानि **अधत्त** धते । जयं प्राप्नोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielding the goad (**Indra**) with the braided hair proceeded happily, fastening the strap to the wood (ofwon hundreds and thousands of cattle in war.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whip in hand, the man with braided hair achieved good fortune by  binding the piece of wood to the strap.  
 Performing manly deeds for the many folk, keeping an eye on the cows,  he [=bull?] assumed his powers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Touched by the goad the shaggy beast went nobly, bound to the pole by the yoke's thong of leather.  
      Performing deeds of might for many people, he, looking on the cows, gained strength and vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gut fuhr dabei der Mann mit dem Treibstock und der Haarschnecke, der das Holz an den Riemen festband. Mannestaten verrichtend vor vielem Volke, die Kühe vor Augen, legte er sich Kräfte zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stachel folgend schritt zum Heil der zott'ge, im Riemenwerk gebunden an das Zugscheit; Kraftthaten wirkend für die vielen Streiter, die Rinder schauend, nahm er grosse Kraft an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

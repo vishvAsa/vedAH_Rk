@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् इ꣡न्द्रं व꣡रुणम् अष्ट मे गीः꣡  
 प्रा꣡वत् तोके꣡ त꣡नये तू꣡तुजाना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽरत्ना॑सः । दे॒वऽवी॑तिम् । ग॒मे॒म॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -129,36 +129,36 @@ genre M;; repeated line
 **मे** मदीया **इयं** **गीः** स्तुतिः **इन्द्रं** **वरुणं** च **अष्ट** अश्नुतां व्याप्नोतु । तथा **तूतुजाना** मया प्रेर्यमाणा सा **तोके** पुत्रे **तनये** पौत्रे च विषये **प्रावत्** प्ररक्षत्वस्मान् । वयं च **सुरत्नासः** शोभनधनाः सन्तः **देववीतिं** देवैः कामयितव्यं यज्ञं **गमेम** प्राप्नुयाम । हे इन्द्रावरुणादयः सर्वे देवाः **यूयं** **स्वस्तिभिः** कल्याणैः **नः** अस्मान् **सदा** सर्वदा **पात** रक्षत ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this my praise reach **Indra** and **Varuṇa**, and, earnestly offered (by me), preserve sons andgrandsons; let us, possessed of affluence, present (their) food to the gods; and do you, (duties), ever cherish uswith blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This song of mine has reached Indra and Varuṇa. It helped (us) forward,  multiplying us in kith and kin.  
 Having good treasure, we would go in pursuit of the gods. – Do you  protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this my song reach Varuna and Indra, and, strongly urging, win me sons and offspring.  
      To the Gods' banquet may we go with riches. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses mein Loblied gelange zu Indra und Varuna. Es half uns weiter, sich im leiblichen Samen fortpflanzend. Wir möchten gutbelohnt die Götterladung begehen.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Lied erreiche Varuna und Indra, es helfe schnell zu Kindern mir und Enkeln; Lasst schatzbegabt zum Göttermahl uns kommen. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта моя песнь пусть достигнет Индры (и) Варуны!  
 Она помогла (мне) продолжить свой род в детях и внуках.  

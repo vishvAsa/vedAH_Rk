@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् महाँ꣡ इन्दर+ तु꣡भ्य° ह क्षा꣡  
 अ꣡नु क्षत्र꣡म् मंह꣡ना मन्यत द्यउः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सृजः꣡ सि꣡न्धूँर् अ꣡हिना जग्रसाना꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । वृ॒त्रम् । शव॑सा । ज॒घ॒न्वान् । सृ॒जः । सिन्धू॑न् । अहि॑ना । ज॒ग्र॒सा॒नान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -125,21 +125,21 @@ genre M
 हे **इन्द्र** **त्वं** **महान्** प्रभूतो भवसि । **क्षाः** पृथिवी । क्षा इति पृथिवीनामैतत् । **मंहना** महत्त्वेन युक्ता सती **तुभ्यं** **ह** त्वदर्थमेव **क्षत्रं** त्वदीयं बलम् **अनु** मन्यत अन्वमन्यत । अनुमतीचकार । **द्यौः** च त्वदर्थं बलमन्वमन्यत । हे इन्द्र **त्वं** **शवसा** त्वदीयेन बलेन **वृत्रं** लोकानाम् आवरकं वृत्रनामकम्" असुरं **जघन्वान्** हतवान् । किंच **अहिना** वृत्रेण **जग्रसानान्** जग्रहाणान् ग्रस्तान् ॥ ग्रसतेर्लिटः कानजादेशः ॥ **सिन्धून्** अपः **सृजः** असृजः सृष्टवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, are mighty; the vast earth confesses to you (your) strength, as does the heaven; you have slain **Vṛtra** by your vigour, you have set free the rivers arrested by Ahi.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, are great. To you did Earth, to you did Heaven  
 magnanimously yield dominion.  
 After you smashed Vr̥tra with your strength, you let loose the rivers,  which had been swallowed by the serpent.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pair “earth / heaven” occupy the final slots of the first two pādas: … kṣā́(ḥ)# … dyaúḥ#, with a shared 3rd singular verb ánu … manyata. Note that there also exists a dual dvandva containing these stems: dyā́vā-kṣā́mā. The 2nd hemistich contains two pf. participles expressing action anterior to the main verb (sṛjáḥ): jaghanvā́n ‘having smashed’ and jagrasānā́n ‘having been swallowed’.
 
@@ -154,23 +154,23 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT art thou, Indra; yea, the earth, with gladness, and heaven confess to thee thine high dominion.  
      Thou in thy vigour having slaughtered Vrtra didst free the floods arrested by the Dragon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist der Große; dir gestanden Erde und Himmel bereitwillig die Herrschaft zu. Nachdem du den Vritra mit Kraft erschlagen hattest, ließest du die vom Drachen verschlungenen Flüsse los.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross bist du, Indra, dir ja räumten Erde und Himmel willig ein die Oberherrschaft; Mit Macht den Vritra tödtend, liessest frei du die Ströme, die vom Drachen aufgezehrten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты велик, о Индра. Это за тобой  
 Земля (и) небо с готовностью признали власть.  

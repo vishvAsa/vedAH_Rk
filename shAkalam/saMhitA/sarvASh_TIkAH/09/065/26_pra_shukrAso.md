@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ शुक्रा꣡सो वयोजु꣡वो  
 हिन्वाना꣡सो न꣡ स꣡प्तयः  
 श्रीणाना꣡ अप्सु꣡ मृञ्जत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 श्री॒णा॒नाः । अ॒प्ऽसु । मृ॒ञ्ज॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **शुक्रासः** शुक्रा दीप्यमानाः **वयोजुवः** अन्नं प्रेरयन्तः । यद्यदपेक्ष्य देवेभ्यः सोमं प्रयच्छन्ति तत्तदपेक्षितं सोमो ददाति । ते सोमाः **श्रीणानाः** दधिक्षीरादिभिः श्रीयमाणाः सन्तः **अप्सु** वसतीवरीष्वेकधनासु च **मृञ्जत** ऋत्विग्भिः प्रमृज्यन्ते शोध्यन्ते । तत्र दृष्टान्तः । **हिन्वानासो** **न** सप्तयः । अश्वनामैतत् । यथाश्वा हिन्वानासो हिन्वानाः सादिभिः प्रेर्यमाणाः सन्तोऽप्सु तैरेव प्रशोधिता भवन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,13 +85,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 The dispensers of food: Soma grants all the boons in the hope of which the worshipper offers the Soma to the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth (go) the clear (soma juices), speeding with vigor, being impelled  like teams.  
 Being brought to readiness, they are groomed in the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the relationship of vayojúvaḥ in pāda a and sáho júvaḥ in 18a, see comm. ad 18 above. Scarlatta (174) hesitates between act. and pass. meaning for this hapax rt. noun cmpd vayo-jū́-: “die Lebenskraft fördenden” / “von Kraft beschleunigten.” In the published translation I opt for an intrans. + instr. value: “speeding with vigor,” though I now think passive “sped by vigor” would be even better, on the basis of the clear pass. forms in context (hinvānā́saḥ … śrīṇānā́ḥ … mṛñjata) as well as a passage in the immediately preceding hymn, IX.64.16 prá hinvānā́saḥ ... dhiyā́jūtā́ḥ “Being impelled forth … sped by insightful thoughts,” with the passive ppl. jūtá-.
 
@@ -106,23 +106,23 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like horses urged to speed, the drops, bright, stirring vital power, when blent  
      With milk, are beautified in streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Klaren, Krafterregenden eilen vorwärts wie angetriebene Gespanne; mit Milch gemischt werden sie im Wasser geputzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hellen Kraft erregenden, wie angespornte Rosse sind Mit Milch gemischt in Flut geklärt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ नो अस्य꣡ क꣡स्य चिद्  
 द꣡क्षस्य त꣡व वृत्रहन्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्म꣡भ्यं नृमणस्यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । नृ॒म्णम् । आ । भ॒र॒ । अ॒स्मभ्य॑म् । नृ॒ऽम॒न॒स्य॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -101,20 +101,20 @@ genre M
 **उतो** अपि च हे **वृत्रहन्** इन्द्र नः अस्मभ्यं **कस्य** **चित्** अनिर्देश्यस्य **दक्षस्य** प्रवृद्धस्य दातुर्वा **अस्य** **तव** स्वभूतेभ्यः **अस्मभ्यम्** । पुनःश्रुतिरादरार्था । **नृम्णं** नृमणं धनम् **आ** **भर** आहर । हे इन्द्र यतस्त्वम् **अस्मभ्यं** **नृमणस्यसे** धनमिच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, bring to us, your (worshippers), the wealth of any powerful (man) whatsoever, for you are disposed to enrich us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And (you rule) over this skill of yours, whatever it may be, for us, o  Vr̥tra-smasher.  
 Bring manly power here to us: you are manly minded toward us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The brief excursion into the dual in vs. 3 is over, and Indra is the sole subject again.
 
@@ -123,23 +123,23 @@ The first hemistich is again syntactically incomplete. The standard interpr.
 construe the genitive phrase asyá kásya cid dákṣasya táva loosely with nṛmṇám (e.g., Geldner “von welcher deiner Geisteskraft es auch sei, … bring uns Mut”). This is possible, but I prefer to take ab as an extension of 3cd (as 3ab was to 2cd), supplying ‘rule’ to govern the genitives, using slightly different senses of ‘rule’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And from whatever power of thine, O Vrtra-slayer, it may be,  
      Bring thou to us heroic strength: thou hast a man's regard for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und von welcher deiner Geisteskraft es auch sei, o Vritratöter, bring uns Mut; uns bist du wie ein Mann gesinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und bring aus aller dieser Macht, die dein ist, der du Feinde schlägst, Uns hohe Manneskraft herbei; erweise dich als Männerfreund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: от какой бы то ни было  
 Твоей силы, о убийца Вритры,  

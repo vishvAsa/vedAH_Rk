@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कपाद् भू꣡यो द्विप꣡दो वि꣡ चक्रमे  
 द्विपा꣡त् त्रिपा꣡दम् अभि꣡ एति पश्चा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सम्प꣡श्यन् पङ्क्ती꣡र् उपति꣡ष्ठमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 चतुः॑ऽपात् । ए॒ति॒ । द्वि॒ऽपदा॑म् । अ॒भि॒ऽस्व॒रे । स॒म्ऽपश्य॑न् । प॒ङ्क्तीः । उ॒प॒ऽतिष्ठ॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekapād*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ popular
 अत्र पादशब्दो भागवचनः । **एकपात्** एकभागधनः पुरुषः **द्विपदः** द्विगुणधनस्य मार्गं **भूयः** । तृतीयायाः सुः । भूयसा कालेन **वि** **चक्रमे** विविधं गच्छति ॥ वेः पादविहरणे' (पा. सू. १. ३. ४१ ) इत्यात्मनेपदम् ॥ तथा **द्विपात्** पुरुषः **त्रिपादं** त्रिभागधनं पुरुषं **पश्चात्** **अभ्येति** अभिगच्छति । **चतुष्पात्** चतुर्भागधनस्तु **द्विपदाम्** । बहुवचनादेकपादादय उपलक्ष्यन्ते । एकपादधनादीनां **पङ्क्तीः** **अभिस्वरे** अभिगमने **संपश्यन्** सम्यगीक्षमाणः सन् **उपतिष्ठमानः** **एति** गच्छमानो भवति । अन्योन्यापेक्षया सर्वं उत्तमाधमाः । तस्मात्त्वम् अहमेव धनवानिति न मन्येः किंत्वतिथिभ्यो धनानि ददस्वेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,35 +119,35 @@ popular
 Foot: a metaphor, for portion or wealth. The man who has four times theriches of another should be four times as liberal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one-footed [=sun?] has stridden farther than the two-footed  
 [=man?]; the two-footed overtakes the three-footed [=old man?] from  behind.  
 The four-footed [=dog?] comes at the call of the two-footed ones as it  watches over the fivefold ones [=herds?], staying by them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He with one foot hath far outrun the biped, and the two-footed catches the three-footed.  
      Four-footed creatures come when bipeds call them, and stand and look where five are met together.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The one-foot strides more swiftly than the biped; The biped goes beyond him who has three feet. The quadruped comes at the call of bipeds, And watches near where groups of five are gathered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Einfuß ist weiter geschritten als der Zweifuß; der Zweifuß holt von hinten den Dreifuß ein. Auf den Zuruf der Zweifüßler kommt der Vierfuß, der bei den Herden steht und sie überwacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Oft schon ist der einfüssige [hinkende, humpelnde] weiter vorwärts gekommen als der zweifüssige; der zweifüssige holt den dreifüssigen [Greis] ein; der vierfüssige [das Thier] kommt auf den Ruf der zweifüssigen, und sieht, wenn er hingelangt, Scharen von Fünfen stehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одноногий шагнул дальше, чем двуногий.  
 Двуногий настигает сзади трехногого.  

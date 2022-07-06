@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡त् त꣡न् ना꣡म गु꣡हियम् पुरुस्पृ꣡ग्  
 ये꣡न भूतं꣡ जन꣡यो ये꣡न भ꣡व्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रिय꣡म् प्रियाः꣡ स꣡म् अविशन्त प꣡ञ्च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 प्र॒त्नम् । जा॒तम् । ज्योतिः॑ । यत् । अ॒स्य॒ । प्रि॒यम् । प्रि॒याः । सम् । अ॒वि॒श॒न्त॒ । पञ्च॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahat*
 - \[noun\], nominative, singular, neuter
@@ -138,7 +138,7 @@ genre D
 हे इन्द्र तव **तत्** गुह्यं गोपनीयमन्यैरविज्ञातं **पुरुस्पृक्** बहुभिर्वृष्ट्यर्थिभिः स्पृहणीयमाकाशात्मकं **नाम** शरीरं **महत्** अत्यन्तं प्रवृद्धं **येन** नाम्ना **भूतं** **भव्यं** च पूर्वं **जनयः** उत्पादितवानसि । भूतभव्योभयान्वयाय येनेत्यस्यावृत्तिः स्यात् । आकाशात्मकाद्धि परमेश्वरस्वरूपात भूतभव्यात्मकं जगदुत्पद्यते ।  ‘ आकाशाद्वायुः ' (तै. आ. ८. १ ) इत्यादिश्रुतेः । किंच **प्रत्नं** पुराणं पूर्वकालीनं **यत्** **ज्योतिः** द्योतमानमादित्याख्यमुदकाख्यं वा **अस्य** इन्द्रस्य **प्रियं** प्रियभूतं तत्त्वं **जातम्** उत्पन्नं  **प्रियाः** प्रीयमाणाः **पञ्च**। पञ्च जना इति शेषः । भीमसेनो भीम इतिवदेकदेशलक्षणा । निषादपञ्चमाश्चत्वारो वर्णाः **समविशन्त** संविशन्ते । स्वनिर्वाहार्थं भजन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,29 +151,29 @@ That mighty mysterious form: this is the first of the four nāmāni, alluded to 
 Ākāśādvāyuḥ: **Taittirīya** **Āraṇyaka** 8.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is that hidden, much-coveted name by which you begat what has  been and by which (you will beget) what is to be.  
 The light born of old that is his—that dear light do the five dear ones  merge into.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great is that secret name and far-extending, whereby thou madest all that is and shall be.  
      The Five Tribes whom he loveth well have entered the light he loveth that was made aforetime.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ist der große geheime vielbegehrte Name, mit dem du alles Gewordene und Werdende erzeugt hast. Das uralte von ihm geschaffene Licht, das ihm lieb ist, zu dem Lieben gingen seine fünf lieben Völker ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross, viel erwünscht ist dies verborgne Dasein, wodurch du schufst, was ist und künftig sein wird; Dein alter lieber Glanz, den du erzeugt hast, in den die lieben fünf Geschlechter drangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это (твое) великое тайное многожеланное имя,  
 С помощью которого ты породил (все,) что было (и) что будет.  

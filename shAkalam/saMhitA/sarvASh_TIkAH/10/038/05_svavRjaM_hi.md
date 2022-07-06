@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्ववृ꣡जं हि꣡ त्वा꣡म् अह꣡म् इन्द्र शुश्र꣡व  
 अनानुदं꣡ वृषभ रध्रचो꣡दनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कि꣡म् उ त्वा꣡वान् मुष्क꣡योर् बद्ध꣡ आसते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र । मु॒ञ्च॒स्व॒ । परि॑ । कुत्सा॑त् । इ॒ह । आ । ग॒हि॒ । किम् । ऊं॒ इति॑ । त्वाऽवा॑न् । मु॒ष्कयोः॑ । ब॒द्धः । आ॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svavṛjaṃ* ← *svavṛjam* ← *svavṛj*
 - \[noun\], accusative, singular, masculine
@@ -142,7 +142,7 @@ genre M
 हे **वृषभ** कामानां वर्षक **इन्द्र** **स्ववृजं** स्वयमेव च्छेत्तारम् **अननुदम्** अनपेक्षितबलानुप्रदानं **रध्रचोदनं** राधकस्य चोदकं प्रेरकं **त्वाम्** **अहं** लुशः **शुश्रव** अश्रौषं **हि** यस्मात् तस्मात् **प्र** **मुञ्चस्व** । कुत्सेन वार्धीशतेनाण्डयोर्बद्धमात्मानं बन्धनाद्विमुञ्च । अथ **परि** सर्वतः परिवृतस्त्वं **कुत्सात्** कुत्साख्यादृषेः **इह** अस्मद्यागे **आ** **गहि** आगच्छ। **किमु** **त्वावान्** त्वत्सदृशोऽन्यः कश्चित् **मुष्कयोर्बद्ध** **आसते** । न कोऽप्येतादृशो निर्लज्जस्त्वत्तोऽन्योऽस्तीत्यभिप्रायः । तत्र शाट्यायनकं----  ‘ कुत्सश्च लुशश्चेन्द्रं व्यह्वयेतां स कुत्सस्याहवमागच्छत् तं शतेन वार्धीभिराण्डयोरबध्नात् तं लुशोऽभ्यवदत् स्ववृजं हि त्वामहमिन्द्र शुश्रवानानुदं वृषभ रध्रचोदनं प्र मुञ्चस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसत इति ताः सर्वाः संलुप्य लुशमभि प्रादुद्रवत्' इति । छन्दोगब्राह्मणमपि- कुत्सश्च लुशश्च युगपदिन्द्रमाहूतवन्तौ स्वं स्वं यज्ञं प्रत्यङ्गभावाय सखित्वादिन्द्रः कुत्सं प्रति जगाम तं तु गतं वशित्वात्कुत्सो वार्ध्रीशतेनाण्डयोरबध्नात् । इति ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,7 +153,7 @@ genre M
 Set yourself free: Legend: Kutsa and **Luśa** summoned Indra at the same time to their respectivesacrifices; Indra first went to Kutsa, wo detained Indra, fastening him by the scrutum with a hundred leatherpieces. Luśa addresses this ṛca to Indra, exhorting him to free himself. cf. Śāṭyāyana **Brāhmaṇa** andChandoga Brāhmaṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For I have heard of you, Indra, as tightly wound, unyielding, spurring on  (even) the feeble, o bull.  
 Release yourself from Kutsa! Come here! Will such a one as you stay tied  by the balls?  
@@ -161,23 +161,23 @@ From X.39 through X.56 the hymns are arranged in groups of three, each trio gene
 All three of the Ghoṣā hymns begin with a verse invoking the Aśvins’ chariot, but  they diverge significantly thereafter. The final hymn (X.41) is a brief (three-verse)  pendant to the series, straightforwardly describing the Aśvins’ early-morning jour ney to the sacrifice and urging them to come to our offering in preference to other  possible ones. The other two are more complex, with significant involvement of an  apparent woman’s voice, especially in X.40, which focuses on marriage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Indra, I have heard thee called Self. capturer, One, Steer! who never yields, who urges even the churl.  
      Release thyself from Kutsa and come hither. How shall one like thee sit still bound that he may not move?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe doch gehört, daß du, Indra, dein eigener Herr bist, ein Unnachgiebiger, o Bulle, der dem Schwachen Mut macht. Mach dich von Kutsa los, komm hierher! Einer wie du wird doch nicht an den Hoden gebunden hocken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich, o Indra, rühmt man als Bezwinger mir, als unnachgieb'gen Helden, der den matten stärkt, So mache los dich von dem Kutsa, komme her, was sitzt ein Held wie du an dem Gesäss gebannt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А я слышал, о Индра, что ты все рвешь к себе,  
 Ты не уступаешь, о бык, подбадриваешь слабого.  

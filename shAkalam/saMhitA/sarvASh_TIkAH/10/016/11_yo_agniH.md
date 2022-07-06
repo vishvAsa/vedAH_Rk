@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अग्निः꣡ क्रव्यवा꣡हनः  
 पितॄ꣡न् य꣡क्षद् ऋतावृ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवे꣡भ्यश् च पितृ꣡भ्य आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 प्र । इत् । ऊं॒ इति॑ । ह॒व्यानि॑ । वो॒च॒ति॒ । दे॒वेभ्यः॑ । च॒ । पि॒तृऽभ्यः॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -113,36 +113,36 @@ popular;; epic anuṣṭubh (424)
 क्रव्यवाहनः क्रव्यस्य हविषोवोढायोग्निः पितॄन् ऋतावृधः ऋतस्य यज्ञस्योदकस्य वा वर्धयितॄन् सत्येन वृद्धान्वा देवान् एतत्पितृविशेषणं वा स्तुतान् यक्षत् यजति यजेर्लेटि सिप् अडागमः । सोग्निः हव्यानि हवींषि प्रवोचतु पितृयज्ञे प्रब्रवीतु युष्मदर्थं मयानीतानी- ति । इदूपूरणौ केभ्यः देवेभ्यश्च पितृभ्यश्च । आकारः समुच्चये ॥ ११ ॥ महापितृयज्ञे उशन्तस्वेत्येषा सामिधेनी । सूत्र्यतेहि—उशन्तस्त्वानिधीमहीत्येतां त्रिरन- वानन्ताः सामिधेन्यइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let **Agni** the bearer of the **Kavya** worship the **Pitṛs**, who are magnified by truth, let him declare whichare the offerings to the gods, which to the Pitṛs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The flesh-conveying Agni who will sacrifice to the forefathers, who are  strong through truth,  
 he will proclaim the oblations to the gods and the forefathers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With offerings meet let Agni bring the Fathers who support the Law.  
      Let him announce oblations paid to Fathers and to Deities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Leichen fortführende Agni, der den wahrheitsstärkenden Vätern opfern soll, er möge den Göttern und den Manen die Opferspende ansagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Agni, der das Fleisch entführt, den heil'gen Vätern Opfer bringt, Der künde auch den Opfertrank den Göttern und den Vätern an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни, увозящий сырое мясо,  
 Который должен почтить отцов, усиливающий закон,  

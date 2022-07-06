@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् पितृ꣡भ्यो न꣡मो अस्तु अद्य꣡  
 ये꣡ पू꣡र्वासो य꣡ उ꣡परास ईयुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ वा नूनं꣡ सुवृज꣡नासु विक्षु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ये । पार्थि॑वे । रज॑सि । आ । निऽस॑त्ताः । ये । वा॒ । नू॒नम् । सु॒ऽवृ॒जना॑सु । वि॒क्षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], nominative, singular, neuter
@@ -129,7 +129,7 @@ popular
 **पूर्वासः** यजमानोत्पत्तेः पूर्वमुत्पन्ना ज्येष्ठभ्रातृपितामहादयः **ये** **ईयुः** पितृलोकं प्राप्ताः । **ये** चान्ये **उपरासः** यजमानजन्मन उपरि उत्पन्नाः कनिष्ठभ्रातृस्वपुत्रादय ईयुः पितृलोकं प्राप्ताः । **ये** अप्यन्ये **पार्थिवे** पृथिवीसंबन्धिनि **रजसि** रजोगुणकार्येऽस्मिन् कर्मणि **आ** **निषत्ताः** हविः स्वीकर्तुमागत्योपविष्टाः । **ये** **वा** केचिदन्ये बन्धुवर्गरूपाः पितरः **विक्षु** बन्धुरूपासु प्रजासु आ निषत्ताः श्राद्धादिस्वीकारायागत्योपविष्टाः । कीदृशीषु विक्षु। **सुवृजनासु** । वृज्यते परित्यज्यते दारिद्र्यमनेनेति वृजनं धनम् । शोभनं वृजनं यासां ताः सुवृजनाः । तादृशीषु धनसमृद्ध्या श्राद्धादिकर्मपरास्वित्यर्थः । सर्वेभ्य उक्तेभ्यः **पितृभ्यः** **अद्य** अस्मिन् कर्मणि **इदं** **नमः** **अस्तु** । अयमाहुतिप्रदानपूर्वको नमस्कारो भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ Our successors: pūrvāsaḥ = elder brother, father, grandfather, and thelike, 
 Rajas = **jyotiṣ**, light-- terrestrial light or fire-- the phrase no doubt refers to the fire altar (Yajuṣ19.68)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this homage here today be for the forefathers—those who went  previously, those who went later,  
 those who are seated here in the earthly realm, or who are now among  the clans of good community.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let us pay this homage to the Fathers, to those who passed of old and those who followed,  
      Those who have rested in the earthly region, and those who dwell among the Mighty Races.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Verbeugung soll heute den Vätern gelten, die früher und die später gegangen sind, die sich in der irdischen Welt niedergesetzt haben, oder die jetzt bei verbündeten Clanen sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Andachtswerk sei heut geweiht den Vätern, die früher und die später heimgegangen, Die in der Luft, der Erde wohnen, oder in schönbewohnten Dörfern nun verweilen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет сегодня это поклонение отцам,  
 Которые раньше, которые позже отправились,  

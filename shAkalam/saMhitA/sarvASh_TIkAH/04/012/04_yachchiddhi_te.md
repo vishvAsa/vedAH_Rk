@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् चिद् धि꣡ ते पुरुषत्रा꣡ यविष्ठ  
 अ꣡चित्तिभिश् चकृमा꣡ क꣡च् चिद् आ꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ ए꣡नांसि शिश्रथो वि꣡ष्वग् अग्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒धि । सु । अ॒स्मान् । अदि॑तेः । अना॑गान् । वि । एनां॑सि । शि॒श्र॒थः॒ । विष्व॑क् । अ॒ग्ने॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yac* ← *yat*
 - \[adverb\]
@@ -139,7 +139,7 @@ genre M
 हे **यविष्ठ** युवतम **अग्ने** **यच्चिद्धि** यद्यपि खलु **ते** त्वदीयेषु **पुरुषत्रा** परिचारकेषु पुरुषेषु **अचित्तिभिः** अज्ञानैः **कच्चिदागः** किंचिदपि पापं वयं 'चकृम तथापि हे अग्ने **अस्मान्** **अदितेः** भूमेः **अनागान्** अनागसः पापरहितान् **सु** अत्यन्तं **कृधि** कुरु। हे अग्ने **विष्वक्** सर्वतो विद्यमानानि  **एनांसि** अस्माभिः कृतानि पापानि **वि** **शिश्रथः** विश्लथय शिथिलीकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,14 +150,14 @@ genre M
 Free from the defects of earth: aditer anāgān = bhumer anāgasaḥ, pāparahitān, sins of the earth, or against the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever we have done to you, youngest one, in our human nature or  through our heedless ways—whatever offense—  
 make us without offense through unbinding [/Aditi]: let loose our  
 transgressions in all directions, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though, as indicated in the published introduction, the 2nd half of this hymn (vss. 4-6) has a very different tone from the first, nonetheless the two halves are bound together.
 
@@ -170,28 +170,28 @@ The use of áditeḥ in pāda c is clarified by the more expansive expression in
 On the one hand, áditi- is, of course, the name of the goddess and mother of the Ādityas, and the mention of her here ushers in the 2nd half of the hymn, which, as was indicated in the published introduction, has a distinctly Ādityan tone. On the other, á-diti- means literally ‘unbinding’ (← √dā ‘bind’), and the lexeme ví … √śrath ‘let loose’ in the VP vy énāṃsi śíśrathaḥ ‘let loose our transgressions’ is synonymous with ‘unbind’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most Youthful God, whatever sin, through folly, we here, as human beings, have committed,  
      In sight of Aditi make thou us sinless remit, entirely, Agni, our offences.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Whatever sin, O youngest (god), we have committed against thee in thoughtlessness, men as we are 1, make thou us sinless before Aditi; release us from (every) guilt on all sides, O Agni!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wenn wir auch, wie es unter Menschen vorkommt, aus Unkenntnis irgend ein Unrecht dir getan haben, du Jüngster, so mach uns fein vor Aditi frei von Schuld; erlaß uns gänzlich die Sünden, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und welches Unrecht wir nach Menschen Weise an dir verübt aus Unverstand, o jüngster, Davon mach rein uns vor der grossen Gottheit, verzeih uns Agni alle unsre Sünden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если же, как это свойственно людям, о самый юный,  
 По неразумию мы допустили какую-нибудь ошибку в отношении тебя,  

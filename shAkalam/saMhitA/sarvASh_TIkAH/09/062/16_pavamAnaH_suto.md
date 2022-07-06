@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानः सुतो꣡ नृ꣡भिः  
 सो꣡मो वा꣡जम् इवासरत्  
 चमू꣡षु श꣡क्मनास꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 च॒मूषु॑ । शक्म॑ना । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -78,19 +78,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नृभिः** नेतृभिर्ऋत्विग्भिः **सुतः** अभिषुतः **सोमः** **चमूषु** चमसेषु **शक्मना** बलेन **आसदम्** उपवेष्टुं **वाजमिव** युद्धमिव स्थानम् **असरत्** सरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pure **Soma** effused by the priests rushes forth as if to battle, to alight vigorously upon the ladles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying himself, pressed by men, Soma has flowed, as if to a prize, to sit in the cups, through his mastery.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed by the men, as 'twere to war hath Soma Pavamana sped,  
      To test with might within the vats.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der sich läuternde Soma ist von den Männern ausgepreßt gleichsam um den Siegerpreis gelaufen, um sich mit Geschick in die Gefäße zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst von Männern, flammend hat der Soma Labung hergeströmt, Setzt kräftig in die Schalen sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

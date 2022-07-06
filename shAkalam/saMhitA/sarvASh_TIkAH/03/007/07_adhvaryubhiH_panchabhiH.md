@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अध्वर्यु꣡भिः पञ्च꣡भिः सप्त꣡ वि꣡प्राः  
 प्रियं꣡ रक्षन्ते नि꣡हितम् पदं꣡ वेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ देवा꣡नाम् अ꣡नु हि꣡ व्रता꣡ गुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्राञ्चः॑ । म॒द॒न्ति॒ । उ॒क्षणः॑ । अ॒जु॒र्याः । दे॒वाः । दे॒वाना॑म् । अनु॑ । हि । व्र॒ता । गुरिति॒ गुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryubhiḥ* ← *adhvaryu*
 - \[noun\], instrumental, plural, masculine
@@ -126,7 +126,7 @@ genre M
 उद्गातृवर्गव्यतिरिक्ता द्वादशर्त्विजो भवन्ति । तत्र सप्त वष्ट्कर्तारः । पञ्चान्येऽध्वरं नयन्ति । तैः पञ्चभिरध्वर्युभिः सह सप्त विप्रा मेधाविनो होत्रका वेर्गमनस्वभावस्याग्नेः प्रियं निहितमाहवनीयाख्यं पदं रक्षन्ते । पालयन्ति । प्राञ्चः सोमपानार्थं प्राङ्मुखा गच्छन्तोऽजुर्या जरयितुमशक्या उक्षणः सोमरसस्य सेक्तारो देवाः स्तोतारो मदन्ति । हृष्यन्ति । किञ्च ते देवा देवानां सम्बन्धीनि व्रता व्रतानि यज्ञानुगुः । अन्वगच्छन् । हि प्रसिद्धौ । अग्नेः प्रसादाद्देवा यज्ञान् लब्धवन्त इत्यर्थः । रक्षन्ते । रक्ष पलने । व्यत्ययेनात्मने पदम् । निघातः । निहितम् । डुधाञ् धारण पोषणयोरित्यस्य कर्मणि निष्ठायां दधातेर्हितिरि हिरादेशः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । वेः । वी कान्तिगत्यादिषु । अस्माद्विच् । सार्वधातुकार्धधातुकयोः । पा. ७-३-८४ । इति गुणः । ङसि ङिसोश्चेति पूर्वरुपत्वम् । प्राञ्चः । अनिगन्तोऽञ्चचाविति पूर्वपदप्रकृतिस्वरत्वम् । मदन्ति । मदी हर्षे । निघातः । गुः । इण् गतावित्यस्माल्लुङि रूपम् । इणो गा लुङीति गादेशः । अत इति झेर्जुसादेशः । बहुलं छन्दसीत्यडभानः । हितब्दयोगान्ननिहन्यते ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,35 +137,35 @@ genre M
 Five ministering priests: adhvaryubhiḥ pañcabhiḥ sapta **viprāḥ**, this excludes the **udgātā** and his class
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the five Adhvaryus, the seven inspired ones protect the dear  hidden track of the bird.  
 Turned forward, the young, unaging bulls [=flames?] become  
 exhilarated, for gods follow the commandments of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven holy singers guard with five Adhvaryus the Bird's beloved firmly-settled station.  
      The willing Bulls, untouched by old, rejoice them: as Gods themselves the ways of Gods they follow.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 With the five Adhvaryus the seven priests watch the beloved footstep which the bird has made 1. Turned forwards the never-ageing bulls 2 rejoice: for they, being gods, have followed the laws of the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den fünf Adhvaryu´s hüten die sieben Redekundigen als ihr liebes Geheimnis die hinterlassene Spur des Vogels. Ostwärts gerichtet freuen sich die alterlosen Stiere, denn die Götter kommen den Geboten der Götter nach.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben Priester [oder Sänger] mit den fünf Gehülfen bewachen des Vogels [Agni] lieben Fusstritt; vorschreitend er- freuen sich die himmlischen Stiere, die Götter wandeln nach den Gesetzen der Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с пятерыми адхварью семеро вдохновенных  
 Хранят собственный оставленный след птицы.  

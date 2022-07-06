@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा वि꣡प्रा वचोवि꣡दः  
 प꣡रि ष्कृण्वन्ति+ वेध꣡सः  
 सं꣡ त्वा मृजन्ति आय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सम् । त्वा॒ । मृ॒ज॒न्ति॒ । आ॒यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -84,21 +84,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **तं** पवमानं **त्वा** त्वां **विप्राः** प्राज्ञाः **वेधसः** कर्मणां कर्तारः **वचोविदः** स्तोतारः **परिष्कृण्वन्ति** अलंकुर्वन्ति । अपि च **त्वा** त्वाम् **आयवः** मनुष्याः **सं** **मृजन्ति** सम्यक् शोधयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise who are the performers of pious acts, who are acquainted with holy texts, adorn you; men purify you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poets knowing [/finding] speech, the ritual adepts,  
 adorn you;  
 the Āyus groom you all over.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A minor poetic echo, the rhyming openings of pāda a táṃ tvā and c sáṃ tvā.
 
@@ -112,23 +112,23 @@ The mention of the divine recipients of the soma in vss. 22 and 24 marks this t�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Controlling priests and sages skilled in holy song adorn thee well:  
      The living make thee beautiful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich schmücken die beredten, wortkundigen Meister; dich putzen die Ayu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rings schmücken die verehrenden, die liederkund'gen Sänger dich, Es läutern dich die eifrigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

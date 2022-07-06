@@ -8,7 +8,7 @@ title = "+069"
 ‘प्रप्र वः' इत्यष्टादशर्चं दशमं सूक्तं प्रियमेधस्याङ्गिरसस्यार्षम् । द्वितीया ‘नदं वः' इत्येषा चतुःसप्तकोष्णिक् चतुर्थ्याद्यास्तिस्रो गायत्र्य एकादशीषोडश्यौ पङ्क्ती शिष्टा दशानुष्टुभः ।‘अपादिन्द्रः इत्यर्धर्चो वैश्वदेवो ‘वरुण इदिह' इत्याद्यास्त्रयोऽर्धर्चा वरुणदेवताकाः शिष्टा ऐन्द्र्यः । तथा चानुक्रान्तं—‘प्रप्र द्व्यूनानुष्टुभं द्विबृहत्यन्तं द्वितीयोष्णिक् चतुर्थ्याद्यास्तिस्रो गायत्र्यः षोळश्येकादश्यौ पङ्क्ती अपाद्वैश्वदेवोऽर्धर्चस्त्रयो वारुणाः' इति । आद्यस्तृचः षोडशिशस्त्र आनुष्टुभः । सूत्रितं 'च- ‘ प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत ' (आश्व. श्रौ. ६. २) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 69 (678)  
 Indra (1–10, 13–18), All Gods (11ab), Varuṇa  
@@ -27,7 +27,7 @@ ence and role of Varuṇa in verses 11–12 are somewhat puzzling. However, it i
 The following verse (16) brings us back to the present, with the poet’s second  proposition of fellowship to Indra, again in the course of a journey. And the final  two verses (17–18) summarize the Priyamedhas’ ritual efforts and pronounces them  even better than before. We cannot claim to have settled the many issues of this hymn, but the structure  outlined above does give a context in which to evaluate the difficulties that remain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

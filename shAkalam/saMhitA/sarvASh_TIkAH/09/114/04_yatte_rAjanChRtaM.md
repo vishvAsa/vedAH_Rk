@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते राजञ् छृतं꣡ हवि꣡स्  
 ते꣡न सोमाभि꣡ रक्ष नः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 अ॒रा॒ति॒ऽवा । मा । नः॒ । ता॒री॒त् । मो इति॑ । च॒ । नः॒ । किम् । च॒न । आ॒म॒म॒त् । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -148,36 +148,36 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **राजन्** सर्वेषां कर्मसाधनत्वेन स्वामिन् हे **सोम** ते त्वदर्थं **शृतं** पक्वं **यत्** **हविः** अस्ति ।' शृतं पाके' (पा. सू. ६. १. २७) इति निष्ठायां निपातितः । **तेन** हविषा **नः** अस्मान् अभि **रक्ष**। अभिपालय । तस्मात्वदभिरक्षितानस्मान् **अरातीवा** अरातित्ववाञ्शत्रुः **नः** अस्मान् **मा** **तारीत्** मा वधीत् । किंच **नः** अस्माकं **किं** **चन** किंचिदपि धनादिकं शत्रुः **मो** **आममत्** मा हिंसीत् । यदेतदेतैः सूक्तैरुक्तं तद्यथास्माकं भवति तथा हे **इन्दो** **इन्द्राय** **परि** **स्रव** । एवं स्वादिष्ठया' इत्यादिभिरेतदन्तैः सूक्तैर्बहुविधं सोममाहात्म्यमभ्यधायि तस्मादैहिकामुष्मिकफलसिद्धये सोमयागः करणीय इत्युक्तं भवति ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect us, royal **Soma**, with the oblation which has been cooked for you; let no enemy assail us, or harm anything of ours; flow, **Indu**, for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The oblation that is readied for you, o king—with that, o Soma,  
 protect us.  
 Let no hostile man overcome us, and let nothing whatsoever afflict us. – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guard us with this oblation which, King Soma, hath been dressed for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer, das dir gekocht ist, o König, mit dem behüte uns, Soma! Kein Mißgünstiger soll über uns kommen, noch soll uns irgend etwas weh tun. Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welcher Opfertrank dir gekocht ist, mit dem beschütze uns, o Soma; nicht möge ein gottloser uns besiegen, noch möge uns irgend etwas verderblich sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возлияние, которое приготовлено для тебя, о царь,  
 Им, о сома, защити нас!  

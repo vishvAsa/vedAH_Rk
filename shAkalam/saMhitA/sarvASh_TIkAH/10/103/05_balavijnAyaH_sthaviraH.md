@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बलविज्ञाय꣡ स्थ꣡विरः प्र꣡वीरः  
 स꣡हस्वान् वाजी꣡ स꣡हमान उग्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जइ꣡त्रम् इन्द्र र꣡थम् आ꣡ तिष्ठ गोवि꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒भिऽवी॑रः । अ॒भिऽस॑त्वा । स॒हः॒ऽजाः । जैत्र॑म् । इ॒न्द्र॒ । रथ॑म् । आ । ति॒ष्ठ॒ । गो॒ऽवित् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *balavijñāya* ← *bala*
 - \[noun\], neuter
@@ -122,7 +122,7 @@ popular
 सर्वस्य भूतस्य बलं विजानातीति **बलविज्ञायः** । यद्वा । बलं ममायमिति सर्वैर्बलत्वेन विज्ञायत इति बलविज्ञायः । सर्वस्य बलभूत इत्यर्थः । **स्थविरः** महान् **प्रवीरः** प्रकर्षेण वीरः **सहस्वान्** पराभिभवसामर्थ्यवान् **वाजी** वेजनवानन्नवान्वा **सहमानः** शत्रूणामभिभविता **उग्रः** उद्गूर्णबलः **अभिवीरः** । अभिगता वीरा वीर्यवन्तोऽनुचरा यस्य स तथोक्तः । **अभिसत्वा** अभिगतसत्वा **सहोजाः** सहसो बलाज्जातः एवंमहानुभावस्त्वं हे **इन्द्र** **जैत्रं** जयशीलं **रथम्** **आ** **तिष्ठ** अस्मत्सहायार्थमारोढुमर्हसि । त्वं च **गोवित्** उदकस्य स्तुतेर्वा लब्धा वेदिता वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,7 +133,7 @@ popular
 Water: govit, knowing or accepting the song of praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Recognizable by his power, stalwart, a hero at the fore, a prizewinner  with overwhelming strength, overwhelming and mighty,  
 a hero on attack, a warrior on attack, born of overwhelming  
@@ -141,23 +141,23 @@ strength—o Indra, mount the conquering chariot as the finder of
 cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorious, all-subduing,  
      The Son of Conquest, passing men and heroes, kine-winner, mount thy conquering car, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An seiner Stärke zu erkennen, standfest, ein hervorragender Held, überlegen, siegreich, bezwingend, gewaltig, jedem Helden über, jedem Krieger über, kraftgeboren, rinderfindend besteige du, Indra, den siegreichen Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark und mächtig steige, Der tapfern Männer stärkster, kraftgeborner, erbeutend auf den Siegeswagen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

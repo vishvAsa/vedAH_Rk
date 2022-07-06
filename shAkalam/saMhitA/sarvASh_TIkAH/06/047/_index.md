@@ -8,7 +8,7 @@ title = "+047"
 “स्वादुः' इत्येकत्रिंशदृचं चतुर्थं सूक्तं भरद्वाजपुत्रस्य गर्गस्यार्षम् । प्रस्तोक इन्नु' इत्येषा त्रिष्टुप् , “ दशाश्वान्' इत्यनुष्टुप् , ‘दश रथान्' इति गायत्री, ‘महि राधः' इति द्विपदा द्व्येकादशका, ‘युजानो हरिता' इत्येषा बृहती, ‘दिवस्पृथिव्याः' इति जगती शिष्टास्त्रिप्टुभः । आदितः पञ्चानामृचां सोमो देवता । ‘अगव्यूति क्षेत्रम्' इत्यर्धर्चप्रथमपादे देवा उत्तरस्य भूमिस्तृतीयस्य बृहस्पतिश्चतुर्थस्येन्द्रः । 'प्रस्तोकः' इत्याद्याश्चतस्रः सृञ्जयपुत्रस्य राज्ञो दानस्तुतिरूपत्वात् तद्देवताकाः । वनस्पते वीड्वङ्गः' इत्ययं तृचो रथदेवत्यः । ‘उप श्वासय' इति तृचो दुन्दुभिदेवत्यः। ‘ समश्वपर्णाः' इत्यर्धर्च ऐन्द्रः । शिष्टा इन्द्रदेवताकाः । तथा चानुक्रान्तं-‘स्वादुरेकत्रिंशद्गर्ग: पञ्चादौ सौम्योऽगव्यूत्यर्धर्चो लिङ्गोक्तदेवतः प्रस्तोक इति त्रिष्टुबनुष्टुब्गायत्री द्विपदा सार्ञ्जयस्य प्रस्तोकस्य दानस्तुतिः परौ तृचौ रथदुन्दुभिदेवत्यावैन्द्रोऽन्त्योऽर्धर्चो युजानो बृहती त्रिष्टुम्महि द्विपदा दिवस्पृथिव्या जगती ' इति । आग्निमारुत आदितश्चतस्रः शंसनीयाः । सूत्रितं च- स्वादुष्किलायमिति चतस्रो मध्ये चाह्वानम्' (आश्व. श्रौ. ५. २०) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 47 (488)  
 Soma, Indra, etc.  
@@ -26,7 +26,7 @@ A dānastuti follows (vss. 22–25), in which the victorious kings distribute th
 The last part of the hymn (vss. 26–31) is the strangest. It consists of three verses  (26–28) addressed to the war chariot and three (29–31) addressed to the war drum.  These verses are also found in the Atharvaveda (VI.125–126). Each of these martial  objects is praised in the most extravagant terms and compared with the attributes  of the gods. Although this section seems to have no direct connection with the rest  of the hymn, it may have been attached to the hymn (or even originally composed  as part of it) in response to the battle depicted in verses 20–21 and the distribution  of booty in verses 22–25. Chariots are part of the gift (24a), and it would not be  surprising that a war drum might be allotted as part of the post-battle distribution.  It is also worth remembering that in III.53, the family hymn of the Viśvāmitras  mentioned above, one of the final sections (vss. 17–20) is devoted to the possible  perils besetting a chariot and its team, with phraseology similar to verses 26–28 in  this hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra ### 01-05 As indicated in the published introduction, the first 5 vss. of the hymn constitute a praise of soma, shading, towards the end, into simultaneous praise of Indra. It is formally unified: beginning with vs. 2, all but one (2cd) of the hemistichs begins with ayám, and vs. 1 contains four exx. of ayám as well (2 each in the 1st 2 pādas), though oddly positioned.
 </details>

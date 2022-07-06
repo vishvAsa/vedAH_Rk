@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ईम् ऋत꣡स्य प꣡यसा पि꣡यानो  
 न꣡यन्न् ऋत꣡स्य पथि꣡भी र꣡जिष्ठैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्व꣡चम् पृञ्चन्ति उ꣡परस्य यो꣡नौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒र्य॒मा । मि॒त्रः । वरु॑णः । परि॑ऽज्मा । त्वच॑म् । पृ॒ञ्च॒न्ति॒ । उप॑रस्य । योनौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M
 **यदीं** यदायमग्निः **ऋतस्य** उदकस्य **पयसा** पयोवत्सारभूतेन रसेन **पियानः** जगदाप्यायनं कुर्वन् आप्यायितं च जगत् **ऋतस्य** उदकस्य संबन्धिभिः **रजिष्ठैः** ऋजुतमैः **पथिभिः** मार्गैः स्नानपानादिभिः **नयन्** प्रापयन् वर्तते तदानीम् **अर्यमा** **मित्रो** **वरुणः** च **परिज्मा** परितो गन्ता मरुद्गणश्च **उपरस्य** मेघस्य **योनौ** वृष्ट्युदकोत्पत्तिस्थाने **त्वचं** पृञ्चन्ति वृष्ट्युदकस्याच्छादकं प्रदेशं स्वकीयैरायुधैः संयोजयन्ति उद्घाटयन्तीति यावत् ॥ पियानः । ‘ स्फायी ओप्यायी वृद्धौ' ।' बहुलं छन्दसि' इति शपो लुक् । धातोर्व्यत्ययेन पीभावः । अनुदात्तेत्त्वात् लसार्वधातुकानुदात्तत्वे धातुस्वरः शिष्यते । रजिष्ठैः । ऋजुशब्दात् इष्टनि ‘ विभाषर्जोश्छन्दसि ' ( पा. सू. ६. ४. १६२ ) इति ऋकारस्य रत्वम् ।' टेः' इति टिलोपः । पृञ्चन्ति ।' पृची संपर्के । रौधादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 Direct ways: uses (as drinking, washing, bathing)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he, swollen with the milk of truth, (has come) leading them [=the  lightning flashes] along the straightest paths of truth—  
 Aryaman, Mitra, Varuṇa, and the Earth-circling (Wind) engorge the skin  in the womb of the nearer (realm).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ab as a parallel and paraphrase of 2c, with Agni/the thunder cloud leading (náyan) the lightning flashes, while himself swollen with rain. Others supply different objects, and a radical (and in my view misguided) view of the passage makes náyan a 3rd pl. finite verb with Agni as its object - quite awkward because he is in the nominative in pāda a (píyānaḥ). Those who hold that view resolve the syntactic problem in ad hoc ways, by emendation (*píyānaṃ Oldenberg [SBE], subsequently rejected in Noten) or by taking ṛtásya páyasā píyānaḥ as a parenthetical (Renou).
 
@@ -138,28 +138,28 @@ It is unclear whether párijmā is meant as an epithet of Varuṇa or a separate
 Geldner, Renou take the “skin” as that of the earth, but I think it is rather the clouds in the lower atmosphere. So, more or less, Oldenberg (SBE) and Witzel Gotō. Cf. nearby I.62.5 (attributed to a Gautama) divó rája úparam astabhāyaḥ “you propped up the nearer realm of heaven.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he comes streaming with the milk of worship, conducting by directest paths of Order  
      Aryaman, Mitra, Varuna, Parijman fill the hide full where lies the nether press-stone.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When they have led him, who swells 1 with the milk of Rita, on the straightest paths of Rita, then Aryaman, Mitra, and Varuna, he who walks round the earth 2, fill the leather-bag (the cloud) in the womb of the lower (atmosphere [?]) 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er von dem rechtmäßigen Nasse voll, ihn lenkend auf den rechtmäßigen richtigsten Wegen kommt, so tränken Aryaman, Mitra, Varuna, der umherfahrende, die Haut im Schoße des unteren Raums.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sobald er strotzet von der Milch des Opfers, sie führend auf des Opfers gradsten Wegen, So füllen Mitra, Varuna, Paridschman und Arjaman den Schlauch beim untern Pressstein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же (Агни), набухший от влаги (вселенского) закона,  
 (Движется) самыми прямыми путями закона, направляя (эту влагу),  

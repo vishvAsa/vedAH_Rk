@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा ते अ꣡प्रतिष्कुतं  
 देवी꣡ शु꣡ष्मं सपर्यतः  
 उभे꣡ सुशिप्र रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒भे इति॑ । सु॒ऽशि॒प्र॒ । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सुशिप्र** सुहनो शोभनशिरस्त्राणेन्द्र **अध** अपि च **देवी** देव्यौ स्वतेजसा दीप्यमाने **उभे** **रोदसी** द्यावापृथिव्यौ **अप्रतिष्कुतम्** । स्कु इति सौत्रो धातुः स्तम्भने वर्तते । शत्रुभिरप्रतिरोधनीयं **ते** त्वदीयं **शुष्मं** परबलशोषकं बलं **सपर्यतः** पूजयतः । त्वदधीने एव भवतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yes, deity of the handsome jaw, the two goddesses, heaven and earth, both worship your resistlessconsuming might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the two goddesses, both the World-Halves,  
 respect your unrepulsable forcefulness, o you of good lips.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And both these Goddesses, Earth, Heaven, Lord of the beauteous helm! revere  
      Thy might which no one may resist.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum ehren die beiden Göttinnen Rodasi deinen unaufhaltsamen Ungestüm, du Schönlippiger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und deine ungehemmte Macht verehren beide Göttinnen, Die Welten, helmgeschmückter du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

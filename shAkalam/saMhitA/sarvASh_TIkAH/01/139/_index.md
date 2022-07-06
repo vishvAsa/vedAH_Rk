@@ -8,7 +8,7 @@ title = "+139"
 ' अस्तु श्रौषट् ' इति एकादशर्चं षष्ठं सूक्तम् । अत्रानुक्रमणिका- 'अस्तु श्रौषळेकादश वैश्वदेवी मैत्रावरुण्याश्विन्यस्तिस्र। ऐन्द्र्याग्नेयो मारत्यैन्द्राग्नी बार्हस्पत्या वैश्वदेव्यन्त्या त्रिष्टुप्पञ्चमी बृहती वैश्वदेवमेतदेवमन्यासामपि सूक्तप्रयोगे वैश्वदेवत्वं सूक्तभेदप्रयोगे यल्लिङ्गं सा देवता ' इति । परुच्छेप ऋषिः । अन्त्या त्रिष्टुप् पञ्चमी बृहती । अन्या अत्यष्टयो विशेषाभावात् । कृत्स्नं सूक्तं वैश्वदेवम् । तत्र आद्याया विश्वे देवा देवता । द्वितीयाया मित्रावरुणौ । अथ तिस्रोऽश्विदेवताकाः । ऐन्द्री षष्ठी । सप्तम्याग्नेयी । अष्टमी मारुती । नवम्यैन्द्राग्नी । दशमी बार्हस्पत्या । एकादशी वैश्वदेवी । सूक्तविनियोगो लैङ्गिकः । दशरात्रस्य षष्ठेऽहनि प्रउगशस्त्रे आद्या वैश्वदेवतृचे प्रथमा । ' षष्ठस्य ' इति खण्डे सूत्रितम्-' अस्तु श्रौषळो षु णो अग्ने ' ( आश्व. श्रौ. ८.१.१२) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 139  
 All Gods  
@@ -23,7 +23,7 @@ The three Aśvins verses (3–5) are fairly clear descriptions of the journey of
 As noted above, in verse 9 the poet situates himself in the poetic and sacrificial  tradition, and in verse 10, another obscure verse (Geldner calls it “unintelligible”  [unverständlich]), the ritual and poetic ring is closed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

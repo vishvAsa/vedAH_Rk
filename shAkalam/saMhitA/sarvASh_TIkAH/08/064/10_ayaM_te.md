@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ते मा꣡नुषे ज꣡ने  
 सो꣡मः पूरु꣡षु सूयते  
 त꣡स्ये꣡हि प्र꣡ द्रवा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तस्य॑ । आ । इ॒हि॒ । प्र । द्र॒व॒ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **अयं** सोमः **ते** त्वदर्थं तव स्वभूतो वा **पूरुषु** मनुष्येषु मध्ये **मानुषे** **जने** मयि **सूयते**। अथवा पूरुनामसु राजसु सूयते । **तस्य** । तमित्यर्थः । तम् **एहि** आगच्छ । आगत्य च **प्र** **द्रव** गृहसमीपम् । तथा कृत्वा **पिब** तं सोमम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ Among meṅmānuṣe jane = mayi;
 Puruṣu = manuṣyesu madhye, purunāmasu rājasu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This soma here is being pressed for you amid the people of Manu,  among the Pūrus.  
 Of that—come! run!—drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On c as a quasi-serial-verb construction see Yates 2014. Also 12c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee among mankind, among the Purus is this Soma shed.  
      Hasten thou hither: drink thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma wird unter dem Menschenvolk bei den Puru´s für dich gepreßt. Trink davon, komm, beeile dich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier wird der Soma dir gebraut bei Männern in dem Menschenstamm, O komme, laufe, trinke ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сома у рода человеческого  
 Выжимается для тебя у (людей) Пуру.  

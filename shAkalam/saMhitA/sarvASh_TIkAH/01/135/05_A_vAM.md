@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां धि꣡यो ववृत्युर् अध्वराँ꣡ उ꣡प  
 इम꣡म् इ꣡न्दुम् · मर्मृजन्त वाजि꣡नम्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 म꣡दाय वाजदा युव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 इन्द्र॑वायू॒ इति॑ । सु॒ताना॑म् । अद्रि॑ऽभिः । यु॒वम् । मदा॑य । वा॒ज॒ऽदा॒ । यु॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -184,7 +184,7 @@ genre M
 हे इन्द्रवायू **वां** युवां **धियः** कर्माणि स्तोत्रादिलक्षणानि **अध्वरान्** **उप** अस्मदीयान् यज्ञान् लक्षीकृत्य **ववृत्युः** अतिशयेन वर्तयन्ति प्रवर्तयन्ति । किंच युष्मदर्थं **वाजिनं** ग्रहणाय द्रोणकलशात् ग्रहान् प्रति गमनवन्तम् आमिक्षावन्तं वा 'इममिन्दुं पुरतो वर्तमानं सोमं **मर्मृजन्त** अध्वर्यवो दशापवित्रेण संमार्जयन्ति। मार्जने दृष्टान्तः । **आशुम्** अतिशीघ्रगामिनम् **अत्यं** **न** सततं गन्तारं **वाजिनं** वेजनवन्तमश्वमिव । तं यथा स्वेदाद्यपनयनेन संमार्जयन्ति तद्वत् । किंच हे **इन्द्रवायू** **तेषाम्** अध्वर्यूणां संबन्धिनः शोधितान् सोमान् **पिबतं** पानं कुरुतम् । तदर्थं **नः** अस्माकं यज्ञं प्रति **इह** इदानीम् **ऊत्या** अस्मद्रक्षणेन सह **आ** **गन्तम्** आगच्छतम् । किंच हे इन्द्रवायू **अस्मयू** अस्मद्यज्ञमिच्छन्तौ **युवं** युवाम् **अद्रिभिः** ग्रावभिः **सुतानाम्** अभिषुतानाम् ॥ पूर्ववत्कर्मणि षष्ठी ॥ तान् पिबतमिति शेषः । किमर्थम् । **मदाय** तृप्तये मोदाय वा। यतः **युवं** युवां **वाजदा** वाजस्यान्नस्य दातारौ अतः पिबतमित्यन्वयः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -195,14 +195,14 @@ genre M
 As the grooms rub down: the intended verb is: marmṛjanta, have strained or cleaned, or rubbed; vājinam, āśumatyam na vājinam = lit. going quick, like a quick horse, going quick
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our thoughts should turn you two hither to our ceremonies; they  keep grooming this drop, the prizewinner—(the drop) swift like a  
 prizewinning steed.  
 Drink of these (soma drinks), seeking us; come here to us with help. O Indra and Vāyu, (drink) of them, pressed by stones, you two—(drink)  to exhilaration, you two prize-givers.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -212,24 +212,24 @@ As indicated in the published introduction, this tṛca is constructed in parall
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May our songs bring you hither to our solemn rites: these drops of mighty vigour have they beautified, like a swift steed of mighty strength.  
      Drink of them well-inclined to us, come hitherward to be our help.  
      Drink, Indra-Vayu, of these Juices pressed with stones, Strength-givers! till they gladden you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch sollen die Gebete herbringen zu den Opfern. Sie putzen diesen Saft, der den Preis gewinnt, wie ein schnelles Roß, das den Preis gewinnt. Trinkt davon, uns geneigt - kommt hierher zu uns mit Gunst - Indra und Vayu, trinkt von dem mit Steinen ausgepreßten Soma, ihr Geber des Siegerpreises, zum Rausch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch mögen lenken die Gebete zu dem Fest; sie haben diesen kräft'gen Indu euch geschmückt, den kräft'gen, wie ein schnelles Ross; O trinkt von ihm uns holdgesinnt, mit Hülfe kommet her zu uns; Die steingepressten Säfte, Indra, Vaju, trinkt, zum Rausche, Kraftverleiher ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да обратят вас поэтические мысли к обрядам!  
 Они осветляют этот сок, приносящий награду,  

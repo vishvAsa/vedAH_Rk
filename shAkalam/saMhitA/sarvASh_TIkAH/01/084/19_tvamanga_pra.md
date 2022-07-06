@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अङ्ग꣡ प्र꣡ शंसिषो  
 देवः꣡ शविष्ठ म꣡र्तियम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र ब्र꣡वीमि ते व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 न । त्वत् । अ॒न्यः । म॒घ॒ऽव॒न् । अ॒स्ति॒ । म॒र्डि॒ता । इन्द्र॑ । ब्रवी॑मि । ते॒ । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -115,21 +115,21 @@ genre M
 अङ्ग इति अभिमुखीकरणे । **अङ्ग** **शविष्ठ** हे बलवत्तमेन्द्र **देवः** द्योतमानः **त्वं** मर्त्यं मरणधर्माणं त्वां स्तुतवन्तं पुरुषं **प्र** **शंसिषः** । सम्यगनेन स्तुतम् इति प्रशंस । हे **मघवन्** धनवन **इन्द्र** **त्वदन्यः** त्वत्तोऽन्यः कश्चित् 'मर्डिता सुखयिता **न** **अस्ति** । अतः कारणात् **ते** तुभ्यमिदं स्तुतिलक्षणं **वचः** **ब्रवीमि** उच्चारयामि ॥ शंसिषः ।  ‘ शंसु स्तुतौ '। लेटि सिपि अडागमः ।  ‘ सिब्बहुलं लेटि' इति विकरणश्च सिप् । तस्य अर्धधातुकत्वात् इडागमः। शविष्ठ । अतिशयेन शवस्वी शविष्ठः । इष्ठनि ‘ विन्मतोर्लुक्'।  ‘ टेः ' इति टिलोपः । मर्ङिता । ‘मृड सुखने '। तृचः इडागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Powerful, **Indra**, be present and be favourable to the mortal (who adores you); there is no other giver of felicity, **Maghavan**, than you; hence, Indra, I recite your praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely you, (though) a god, will solemnly praise the mortal, o  
 strongest one.  
 There is no other dispenser of mercy than you, bounteous one. Indra,  I say this speech to you:
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in the last verse the usual ritual roles of god and mortal are reversed, with Indra producing a praśasti of a mortal. I do not understand why, but, unlike 18c, there is no way to wriggle out of the undeniable purport of this verb phrase - thus supporting the “gods convey the oblation” interpretation of 18c.
 
@@ -138,23 +138,23 @@ tvám aṅgá reprises the tag of vss. 7-9, índro aṅgá, with of course the s
 I follow Geldner (/Witzel Gotō) in taking vs. 20 as the quoted vácaḥ of pāda d, though it would be equally possible to interpret vácaḥ as referring to what precedes, indeed even to the whole of the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou as a God, O Mightiest, verily blessest mortal man.  
      O Maghavan, there is no comforter but thou: Indra, I speak my words to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du allein, der Gott, wirst den Sterblichen beloben, du Mächtigster. Nicht ist ein anderer Erbarmer außer dir, du Freigebiger. Dir, Indra, sage ich das Wort:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ermuntern mögest stärkster du, der Gott du bist, den Sterblichen; Kein andrer übt Erbarmen als du, mächtiger; dir Indra sage ich dies Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ведь ты должен прославить  
 Смертного, (ты-) бог, о сильнейший!  

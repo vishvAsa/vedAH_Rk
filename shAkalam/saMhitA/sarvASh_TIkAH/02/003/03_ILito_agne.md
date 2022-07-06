@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईळितो꣡ अग्ने म꣡नसा नो अ꣡र्हन्  
 देवा꣡न् यक्षि मा꣡नुषात् पू꣡र्वो अद्य꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं नरो बर्हिष꣡दं यजध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । आ । व॒ह॒ । म॒रुता॑म् । शर्धः॑ । अच्यु॑तम् । इन्द्र॑म् । न॒रः॒ । ब॒र्हि॒ऽसद॑म् । य॒ज॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īḍito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
@@ -130,41 +130,41 @@ genre M
 हेअग्ने ईळितोस्माभिःस्तुतःसन् मनसास्मदनुरक्तेनदेवानांयगबुद्भ्यावाअर्हन् यागयोग्यःसन् मा- नुषाद्धोतुःपूर्वः पूर्वभावी नोस्मदर्थमद्यास्मिन् दिनेदेवान् यष्टव्यान् यक्षि त्वमेवयजसि सतादृशोय- ष्टात्वमावहआकारय कान् मरुतांशर्धोगणंअच्युतमक्षीणमिन्द्रन्तदविन्नाभूतमिन्द्रमपि यद्वा मरुद्बलोपे- तमिन्द्रंअनन्तरं हेनरोनेतारऋत्विजःबर्हिषदम्बर्हिषिसीद्न्तन्तमिन्द्रंयजध्वम् पूजयध्वम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are the venerable īḷita, do you, with mind favourably disposed towards us, offer today sacrifice to the gods, before the human (ministrant priest) as such, bring hither the company of the **Maruts**, the undecaying **Indra**, to whom, seated on the sacred grass, do you priests offer worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Solemnly invoked by (our) mind, o Agni, deserving (it), sacrifice today to  the gods for us in front of the descendant of Manu.  
 Convey here the unstirrable troop of the Maruts. You men, sacrifice to  Indra who sits on the ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adored in heart, as is thy right, O Agni, serve the Gods first to-day before the mortal.  
      Bring thou the Marut host. Ye men do worship to Indra seated on the grass, eternal.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being magnified 1 in our mind, Agni, sacrifice for us to-day to the gods before the human (sacrificer) 2, thou who art worthy (of being the sacrificer). Conduct hither the unshakable host of the Maruts. Sacrifice, O men, to Indra who sits on the Barhis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von uns im Geiste als der Würdige berufen, sollst du, Agni, heute die Götter noch vor dem menschlichen Hotri verehren. Fahr du die unentwegte Schar der Marut her! Verehret, ihr Männer, den Indra, wenn er auf dem Barhis sitzt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfleht von uns mit Inbrunst, kund'ger Agni, verehre heut die Götter vor dem Menschen, So fahre her die Marutschar, die feste; den Indra, ehrt, o Männer, der die Streu liebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Призванный  
 , о Агни, нашей мыслью как достойный,  

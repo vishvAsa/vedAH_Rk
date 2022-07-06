@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्विमाता꣡ हो꣡ता विद꣡थेषु सम्रा꣡ळ्  
 अ꣡नु अ꣡ग्रं च꣡रति क्षे꣡ति बुध्नः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 प्र । रण्या॑नि । र॒ण्य॒ऽवाचः॑ । भ॒र॒न्ते॒ । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvimātā* ← *dvi*
 - \[noun\]
@@ -134,14 +134,14 @@ genre M;; repeated line
 **द्विमाता** द्वयोर्लोकयोर्निर्माता **विदथेषु** यज्ञेषु **होता** देवानामाह्वाता **सम्राट्** यज्ञेषु सम्यक् राजमानोऽग्निः **अन्वग्रम्** अग्रे दिवि **चरति** सूर्यभूतस्तत्र वर्तते । **बुध्नः** सर्वस्य कर्मणो मूलभूतः सन् **क्षेति** भूमौ वसति । यद्वा । अग्रं मुख्यं भागं चरति भक्षयति। क्षेति यज्वनां गृहेषु निवसति । यद्वा । बुध्नः प्रतिष्ठा अन्तेभागी स्विष्टकृद्रूपेण ।  ‘ प्रतिष्ठा वै स्विष्टकृत्' इति श्रुतेः । किंच **रण्यवाचः** रमणीयवाचः स्तोतारः **रण्यानि** रमणीयानि स्तोत्राणि **प्र** **भरन्ते** प्रकर्षेण कुर्वन्ति । तदिदं देवानामैश्वर्यम् ॥ चरति । 'वादिलोपे° ' इति न निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The child of two mothers, the invoker of the gods at sacrifices, the universal sovereign, proceeds thenceforward (in the sky); the root (of all), he abides (in the houses of the pious); the reciters of plural asant (words) offer him agreeable (praises); great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one with two mothers is the Hotar, the sovereign king at the  
 rites. The top (of him) roams along (the logs), while his base rests  
@@ -149,7 +149,7 @@ peacefully.
 Those who speak delightful (speech) proffer delightful (things). – Great  is the one and only lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is a elaboration on and corrective of 6b. It is not the whole fire that wanders untethered, only the top of it (ágram), while the base stays put on the hearth.
 
@@ -158,23 +158,23 @@ Most tr. take ágram as an acc. with ánu; I follow Renou (who in turn follows B
 The accent on cárati is contrastive with the immediately following kṣéti, which opens a new clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Child of two Mothers, Priest, sole Lord in synods, he still precedes while resting as foundation.  
      They who speak sweetly bring him sweet addresses. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Zweimütterkind ist der Hotri, bei dem Opfer der Allherr. Er bewegt sich nach der Spitze zu, der untere Teil bleibt ruhen. Unter ergötzlichen Reden bringen sie ergötzliche Opferspenden dar. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sohn zweier Mütter, Priester, Herr der Feste, nach aufwärts geht er, ruhend ist die Wurzel; Ihm bringen liebes dar, die lieblich reden; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Имеющий двух матерей, хотар – самодержец на местах жертвенных раздач.  
 Он шевелится поверху, дно остается в покое.  

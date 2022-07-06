@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्म꣡भ्यं ताँ꣡ अ꣡पा वृधि  
 व्रजाँ꣡ अ꣡स्तेव गो꣡मतः  
 न꣡वाभिर् इन्द्र ऊति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 नवा॑भिः । इ॒न्द्र॒ । ऊ॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
@@ -93,35 +93,35 @@ genre M
 हे **इन्द्र** त्वं **नवाभिः** नूतनाभिः **ऊतिभिः** रक्षाभिः **अस्तेव** क्षेप्ता शूर इव **गोमतः** गोभिः युक्तान **तान्** प्रसिद्धान् **व्रजान्** गोनिवासान् **अस्मभ्यम्** **अपा** **वृधि** उद्घाटय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “With fresh protections, **Indra**, like a warrior, open for us those pastures filled with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For us open up these pens filled with cattle, as a sharpshooter (would), with your new means of help, o Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With new protections, Indra, like an archer, open thou forus  
      The stables that are filled with kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns öffne wie ein Schütze diese rinderreichen Hürden durch deine neuesten Förderungen, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schliesse einem Schützen gleich die rinderreichen Ställe auf Durch neue Hülfen, Indra du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для нас раскрой, словно стрелок,  
 Те загоны, полные скота,  

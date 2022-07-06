@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् घे꣡द् अभि꣡ श्रुता꣡मघं  
 वृषभं꣡ न꣡रियापसम्  
 अ꣡स्तारम् एषि सूरिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अस्ता॑रम् । ए॒षि॒ । सू॒र्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सुकक्ष इन्द्रगुणानाह । हे **सूर्य** । द्वादशसु भानुष्विन्द्रोऽपि सूर्यात्मना पठितः । तस्मात्सूर्यात्मक सुवीर्य हे इन्द्र **श्रुतमघं** सर्वदा देयत्वेन विख्यातधनमत एव **वृषभं** याचमानानां धनस्य वर्षितारं **नर्यापसम्** । नरहितं नर्यम् । नरहितकर्माणम् **अस्तारं** दानशौण्डमौदार्यवन्तमेतादृशानुभावमभितः **उत्** **एषि** । **इत्** अवधारणे । त्वमेव तस्य यज्ञे सूर्यात्मना उद्गतोऽसि। **घ** इति प्रसिद्धौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,28 +93,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Indra is one of the twelve **Ādityas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up toward the bull whose bounty is famous, who performs manly work, toward the archer do you go, o Sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SURYA, thou mountest up to meet the Hero famous for his wealth,  
      Who hurls the bolt and works for man
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya, du gehst für den Bullen auf, dessen Gaben berühmt, dessen Werke mannhaft sind, für den Schützen Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum schatzberühmten Helden gehst du auf, der Manneswerke wirkt, O Sonne, zu dem Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

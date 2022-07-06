@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एव꣡ अग्निं꣡ सहसि꣡यं व꣡सिष्ठो  
 राय꣡स्कामो विश्व꣡प्स्नियस्य स्तौत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इष॑म् । र॒यिम् । प॒प्र॒थ॒त् । वाज॑म् । अ॒स्मे इति॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evāgniṃ* ← *eva*
 - \[adverb\]
@@ -112,21 +112,21 @@ genre M;; repeated line
 **वसिष्ठः** एतदाख्य ऋषिः **रायस्कामः** पश्वादिधनानीच्छन् **एव** एवमुक्तप्रकारेण सहस्यम् । सहो बलम् । तस्य पुत्रम् । तद्वन्तमिति वा। **अग्निं** देवं विश्वप्न्यस्य पुरुरूपस्य धनस्य लाभाय **स्तौत्** । एवंभूतोऽग्निः **अस्मे** अस्मभ्यम् **इषम्** अन्नं **रयिं** धनं **वाजं** बलं च **पप्रथत्** प्रथयतु विस्तारयतु । ददात्वित्यर्थः । अस्मिन् सूक्ते प्रतिपादिताः सर्वे देवाः यूयम् अस्मान् कल्याणैः सर्वदा पालयत ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus has **Vasiṣṭha** wishing for riches, glorified the vigorous **Agni** for the sake of every sort of wealth;may he bestow upon us food, rices, strength; and do you, (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just in this way Vasiṣṭha, desirous of wealth (like) the distillate of all  mother’s milk, praised powerful Agni.  
 He will spread out refreshment, wealth, and victory’s prize for us. – Do  you protect us always with your blessings.  
 938 VII.43–44
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just indicated, this vs. belongs to the class of “meta” final vss., commenting on the hymn just completed. I would now be inclined to tr. the root pres.
 
@@ -135,23 +135,23 @@ injunc. staut as “has just praised.” The second pāda is interesting for the
 On the sense of the adj., see comm. ad VIII.97.15.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus hath Vasistha praised victorious Agni, yearning for wealth that giveth all subsistence.  
      May he bestow on us food, strength, and riches. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also pries Vasistha, allartigen Reichtum wünschend, den mächtigen Agni. Er möge unseren Speisesegen, Besitz, Gewinn ausdehnen.-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hat Vasischtha den gewalt'gen Agni gerühmt voll Lust nach allgestalt'gem Reichthum; Er mache weit uns Speise, Trank und Labung; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так могущественного Агни прославил  
 Васиштха, жаждущий богатства всякого рода.  

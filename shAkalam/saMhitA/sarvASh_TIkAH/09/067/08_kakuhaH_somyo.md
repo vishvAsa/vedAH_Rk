@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ककुहः꣡ सोमियो꣡ र꣡स  
 इ꣡न्दुर् इ꣡न्द्राय पूर्वियः꣡  
 आयुः꣡ पवत आय꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒युः । प॒व॒ते॒ । आ॒यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kakuhaḥ* ← *kakuha*
 - \[noun\], nominative, singular, masculine
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ककुहः** । सोमः सर्वकर्मकारयितृत्वेन सर्वेषां समुच्छ्रितोऽतिशयितो भवति । सोऽयं **पूर्व्यः** पूर्वैः कृतोऽभिषुतः पूर्वं प्रातःकाले कृतो वा **आयुः** इन्द्रमभिगन्ता **इन्दुः** पात्रेषु क्षरन् **सोम्यः** । ‘ मये च ' ( पा. सू. ४. ४. १३८ ) इति यप्रत्ययः। सोममयः **रसः** **आयवे** सर्वत्र गन्त्रे **इन्द्राय** **पवते** कलशेषु पवित्रेण पूतो भवति । यद्वा । इन्द्रार्थमभिमुखं गच्छति । पवतिर्गतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The excellent juice of the **Soma** dropping (into the vessels) poured forth by men of old, the goer (to **Indra**), is filtered for Indra the goer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prominent somian sap, the primordial drop  
 purifies itself for Indra—a lively one for a lively one [/Āyu].
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ The published translation contains a grammatical error: asvaran should of course
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra floweth excellent Indu, the noblest Soma juice  
      The Living for the Living One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indu, der hervorragende somische Saft, läutert sich zuerst für Indra, der Lebenskräftige für den Lebenskräftigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es flammt der beste Somasaft, der Indu frische Lebenskraft Dem Indra und dem Menschen zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выдающейся сок сомы,  
 Изначальная капля очищается  

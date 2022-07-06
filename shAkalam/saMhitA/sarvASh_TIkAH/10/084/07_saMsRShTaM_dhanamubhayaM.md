@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡सृष्टं ध꣡नम् उभ꣡यं समा꣡कृतम्  
 अस्म꣡भ्यं दत्तां व꣡रुणश् च मन्युः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प꣡राजितासो अ꣡प नि꣡ लयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भिय॑म् । दधा॑नाः । हृद॑येषु । शत्र॑वः । परा॑ऽजितासः । अप॑ । नि । ल॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃsṛṣṭaṃ* ← *saṃsṛṣṭam* ← *saṃsṛj* ← *√sṛj*
 - \[verb noun\], accusative, singular
@@ -117,14 +117,14 @@ popular
 **संसृष्टम्** अविभागमापन्नम् **उभयम्** उभयविधं **धनं** **समाकृतं** सम्यगानीतम् **अस्मभ्यं** **दत्ताम्** । कः । **वरुणश्च** देवः **मन्युः** च । **भियं** भयं **हृदयेषु** **दधानाः** **शत्रवः** अस्मद्विरोधिनः **पराजितासः** पराजिताः **अप** **नि** **लयन्तां** अपनिलीना भवन्तु ॥ ॥ १९॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Varuṇa** and **Manyu** bestow upon us wealth of both kinds, undivided and completely our own, andmay our enemies, bearing fear within their hearts, be overcome and utterly destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The spoils, both those that have poured in and those that have been  collected, let Battle Fury and Varuṇa give to us.  
 Let our rivals, having set fear in their own hearts, defeated, hide  
@@ -132,23 +132,23 @@ themselves away.
 With X.85 begins the series of individual hymns that will last to the end of the Xth  Maṇḍala.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For spoil let Varuna and Manyu give us the wealth of both sides gathered and collected;  
      And let our enemies with stricken spirits, o'erwhelmed with terror, slink away defeated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beiderlei Beute, die zusammengeraffte und zusammengetriebene, sollen uns Varuna und Manyu geben. Die Feinde, Furcht im Herzen bekommen, sollen besiegt sich verkriechen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es mögen schenken Varuna und Manju uns das aufgehäufte beiderseits erlangte Gut; Von Furcht beschlichen in den Herzen mögen nun besiegt die Feinde sich verkriechen weit hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

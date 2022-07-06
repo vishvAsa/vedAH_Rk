@@ -6,7 +6,7 @@ ChandaH = "विष्टारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ त꣡द् इ꣡न्द्र इ꣡न्दुना  
 देवे꣡षु चिद् धारयाते म꣡हि त्य꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "विष्टारपङ्क्तिः"
 क्र꣡त्वाय꣡म् अस्म꣡द् आ꣡ सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क्रत्वा॑ । वयः॑ । वि । ता॒रि॒ । आयुः॑ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । क्रत्वा॑ । अ॒यम् । अ॒स्मत् । आ । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -136,36 +136,36 @@ genre M
 **एव** एवमुक्तेन प्रकारेण **तत्** तेन **इन्दुना** सोमेन तृप्यन् **इन्द्रः** **देवेषु** **चित्** देवेष्वस्मासु च **महि** महत् **त्यजः** तेजो दुःखस्य वर्जयितृ रक्षणं वा **धारयाते** धारयति । शिष्टः प्रत्यक्षकृतः । हे **सुक्रतो** शोभनकर्मन्निन्द्र **क्रत्वा** क्रतुना अस्माभिरनुष्ठितेन कर्मणा प्रीतेन त्वया **वयः** अन्नम् **आयुः** जीवनं च **वि** **तारि** अस्मभ्यं प्रादायि । यः **अयम्** इन्दुः **क्रत्वा** कर्मणा प्रज्ञानेन वा **अस्मत्** अस्माभिः **आ** **सुतः** अभिषुतः । यद्वा । अस्मत् अस्मत्तस्त्वदाभिमुख्येन सुतः प्रेरितः । तेनेन्दुनेत्यन्वयः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “So then by **Indu**, **Indra** obtains among the gods great brilliancy; by your sacrifice, O doer of gooddeeds, food and old age is prolonged, by our sacrifice this (**Soma**) is poured out by us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, by the drop Indra will secure that great surrender (of the offering)  also among the gods.  
 By your will is vitality, is lifetime lengthened, o you of strong will; by  your will has this soma here been pressed from us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So Indra is by lndu's power; e'en among Gods will it repel great treachery.  
      Wisdom, Most Sapient One, brings force that lengthens life. May wisdom bring the juice to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So mag mit dem Safte Indra diese große Feindschaft selbst unter den Götter auf sich nehmen. Mit Umsicht wird die Kraft, das Leben verlängert, du Umsichtiger, mit Umsicht ist dieser von uns ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wird Indra durch den Indu auch bei den Göttern das grosse Wurfgeschoss hemmen; durch Kraft wird Rüstigkeit und Lebensalter verlängert, o schönwirkender, mit Kraft ist dieser Soma von uns gepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о Индра, благодаря соку сомы  
 Должно удержаться то великолепное недоброжелательство даже среди богов.  

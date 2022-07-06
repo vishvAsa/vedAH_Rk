@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् पु꣡रुषेण हवि꣡षा  
 देवा꣡ यज्ञ꣡म् अ꣡तन्वत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ग्रीष्म꣡ इध्मः꣡ शर꣡द् धविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 व॒स॒न्तः । अ॒स्य॒ । आ॒सी॒त् । आज्य॑म् । ग्री॒ष्मः । इ॒ध्मः । श॒रत् । ह॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -101,7 +101,7 @@ popular;; epic anuṣṭubh (380)
 **यत्** यदा पूर्वोक्तक्रमेणैव शरीरेषुत्पन्नेषु सत्सु **देवाः** उत्तरसृष्टिसिद्धयर्थं बाह्यद्रव्यस्यानुत्पन्नत्वेन हविरन्तरसंभवात् पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य **पुरुषेण** पुरुषाख्येन **हविषा** मानसं यज्ञम् **अतन्वत** अन्वतिष्ठन् तदानीम् **अस्य** यज्ञस्य **वसन्तः** वसन्तर्तुरेव **आज्यम्** **आसीत्** अभूत् । तमेवाज्यत्वेन संकल्पितवन्त इत्यर्थः । एवं **ग्रीष्म** **इध्मः** आसीत्। तमेवेध्मत्वेन संकल्पितवन्त इत्यर्थः। तथा **शरद्धविः** आसीत् । तामेव पुरोडाशादिहविष्ट्वेन संकल्पितवन्त इत्यर्थः । पूर्वं पुरुषस्य हविःसामान्यरूपत्वेन संकल्पः । अनन्तरं वसन्तादीनामाज्यादिविशेषरूपत्वेन संकल्प इति द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,28 +112,28 @@ popular;; epic anuṣṭubh (380)
 Apparently a reference to an imaginary sacrifice (mānasam)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, with the Man as the offering, the gods extended the sacrifice, spring was its melted butter, summer its firewood, autumn its offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Gods prepared the sacrifice with Purusa as their offering,  
      Its oil was spring, the holy gift was autumn; summer was the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Götter mit Purusa das Opfer vollzogen, da war der Frühling dessen Schmelzbutter, der Sommer das Brennholz, der Herbst die Opfergabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereiteten, da war der Frühling sein Opferschmalz, der Sommer sein Brennholz, der Herbst sein Opfertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда боги предприняли жертвоприношение  
 С Пурушей как с жертвенным даром,  

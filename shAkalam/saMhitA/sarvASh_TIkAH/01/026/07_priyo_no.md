@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रियो꣡ नो अस्तु विश्प꣡तिर्  
 हो꣡ता मन्द्रो꣡ व꣡रेणियः  
 प्रियाः꣡ सुअग्न꣡यो वय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्रि॒याः । सु॒ऽअ॒ग्नयः॑ । व॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
@@ -88,41 +88,41 @@ genre M
 **विश्पतिः** विशां प्रजानां पालकः **होता** होमनिष्पादकः मन्द्रः हृष्टः **वरेण्यः** वरणीयोऽग्निः **नः** अस्माकं **प्रियः** **अस्तु** । **वयम्** अपि **स्वग्नयः** शोभनाग्नियुक्ताः सन्तः तव **प्रियाः** भूयास्मेति शेषः ॥ विश्पतिः ।' पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरे प्राप्ते ‘परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । वरेण्यः । ‘वृञ एण्यः' ( उ. सू. ३. ३७८ )। वृषादित्वादाद्युदात्तत्वम् । स्वग्नयः । बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the lord of men, the sacrificing priest, the gracious, the chosen, be kind to us; may we, possessed of holy fires, be loved of you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him be our dear clanlord—the delighting Hotar worthy to be  chosen;  
 let us be dear (to him) and (so) possess good fires.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he be our dear household Lord, Priest, pleasant and, choice-worthy may  
      We, with bright fires, be dear to him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May he be dear to us, the lord of the clan, the joy-giving, elect Hotri; may we be clear (to him), possessed of a good Agni (i. e. of good fire).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er soll uns ein lieber Clanherr sein, der wohlredende, auserwählte Hotri; auch wir möchten lieb sein, die wir ein gutes Opferfeuer haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns möge hold der Hausherr sein, der liebe Priester, der erfreut, Und lieb wir feuerreiche ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет дорог нам господин племен,  
 Хотар, радостный, избранный!  

@@ -8,7 +8,7 @@ title = "+020"
 ' आ न इन्द्रः' इत्येकादशर्चं दशमं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैन्द्रम् । ‘आ नः' इत्यनुक्रमणिका । पृष्ठ्याभिप्लवषडहयोः प्रथमेऽहनि निष्केवल्ये एतन्निविद्धानीयम् । सूत्रितं च -- आ न इन्द्र इति निष्केवल्यम् ' ( आश्व. श्रौ. ७. ५) इति । महाव्रतेऽप्येतत् संपातसूक्तम् । तथैव पञ्चमारण्यके सूत्रितं च–' आ न इन्द्रो दूरादा न आसादिति संपातः ' (ऐ. आ. ५. २. २) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 20 (316)  
 Indra  
@@ -20,7 +20,7 @@ ers dominates the rest of the hymn, and without overt mention of the Vala myth, 
 The hymn several times uses gambling vocabulary (vss. 3, 8), and there are some  other striking images, such as the two similes in the first half of verse 5.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra The midsection of this hymn (vss. 5-8) has a surprising concentration of -tarstem nominals, both root- and suffix-accented.
 </details>

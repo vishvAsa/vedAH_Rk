@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मा अर्षन्ति दिविया꣡ असश्च꣡तः  
 स꣡ स꣡त्वभिः प्रथमो꣡ गो꣡षु गछति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अनि॑भृष्टऽतविषिः । ह॒न्ति॒ । ओज॑सा । यम्ऽय॑म् । युज॑म् । कृ॒णु॒ते । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -135,36 +135,36 @@ genre M;; repeated line
 तस्मैयजमानायदिव्यादिविभवावृष्टिलक्षणाः आपः असश्चतः असज्यमानाः अनिरुद्धाः सत्यः अर्षन्तिगच्छन्ति प्राप्नुवन्ति अर्तेर्लेटिरूपम् तथासयजमानः सत्वभिः सत्वानः साधकाः परिचारकाः तैः सहितः प्रथमोन्येभ्योयजमानेभ्यः पूर्वभावीसन् गोषुगच्छति गवादिधनम्प्राप्नोतीत्यर्थः किञ्च अनिभृष्टतविषिः तविषीतिबलनाम अनिभृष्टापरैरबाधितातविषीबलंयस्यतादृशः सन् ओजसाब- लेनहन्तिशत्रून् ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For him, the unobstructed rains of heaven descend; first among the devout, he acqires (wealth) in cattle; of irresistible vigour, he destroys his enemies by his strength, whom **Brahmaṇaspati** makes his associate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The heavenly (waters), never drying up, stream to him. As the first, he  goes with his warriors to (the contests for) cows.  
 Having power that cannot be blunted, he strikes with might—whomever  the lord of the sacred formulation makes his own yokemate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For him the floods of heaven flow never failing down: first with the heroes he goes forth to war for kine.  
      He slays in unabated vigour with great might, whomever Brahmanaspati takes for his friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für ihn strömen die himmlischen Gewässer unversieglich; als Erster gelangt er mit seinen Kriegern zu Rindern, mit ungeschwächter Kraft schlägt er mächtig, wen immer Brahmanaspati zu seinem Verbündeten macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und unversieglich rinnen Himmelswasser ihm, zuerst erbeutet Rinder er mit tapfrer Schar, Von ungebeugter Stärke sieget der mit Macht, wen der Gebets Herr je sich zum Genossen macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для него струятся небесные неиссякающие (воды),  
 Он первый с воинами отправляется (на завоевание) коров,  

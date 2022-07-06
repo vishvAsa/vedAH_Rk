@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ गो꣡मतीर् उष꣡सः स꣡र्ववीरा  
 विउछ꣡न्ति दाशु꣡षे म꣡र्तियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ अश्वदा꣡ अश्नवत् सोमसु꣡त्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वा॒योःऽइ॑व । सू॒नृता॑नाम् । उ॒त्ऽअ॒र्के । ताः । अ॒श्व॒ऽदाः । अ॒श्न॒व॒त् । सो॒म॒ऽसुत्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -117,21 +117,21 @@ genre M
 **दाशुषे** हवींषि दत्तवते मर्त्याय मनुष्याय यजमानाय **गोमतीः** गोमत्यो बहुभिर्गोंभिर्युकताः **सर्ववीराः** सर्वैः सरणसमर्थैः वीरैः शूरैर्युक्ताः **याः** **उषसः** **व्युच्छन्ति** तमो वर्जयन्ति। **वायोरिव** वायुवच्छीघ्रं प्रवर्तमानानां **सूनृतानां** स्तुतिरूपाणां वाचाम् **उदर्के** समाप्तौ **अश्वदाः** अश्वानां दात्रीः **ताः** उषसः **सोमसुत्वा** सोमानामभिषोता यजमानः **अश्नवत्** व्याप्नोतु ॥ दाशुषे ।  ‘ दाशृ दाने ।  ‘ दाश्वान्साह्वान् ' इति क्वसुप्रत्ययान्तो निपात्यते । चतुर्थ्येकवचने ‘वसोः संप्रसारणम्' इति संप्रसारणम् । शासिवसिघसीनां च ' इति षत्वम् । अश्नवत् । अशू व्याप्तौ '। व्यत्ययेन परस्मैपदम्। लेट अडागमः ।  ‘ इतश्च लोपः० ' इति इकारलोपः। सोमसुत्वा ।  ‘ षुञ् अभिषवे'।  ‘ अन्येभ्योऽपि दृश्यन्ते' इति क्वनिप् । ह्रस्वस्य पिति' इति तुक्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he who has offered the libation obtain, upon the conclusion of his praises, (enunciated), life the wind, (with speed), (the favour of) those Uṣasas who are givers of horses, and of cattle, and of progeny, and who shed light upon the mortal presenting to them (offerings).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dawns, bringing cows and hale heroes, who dawn forth for the  pious mortal  
 when the litany of liberalities is raised like (the litany) of Vāyu—to  
 them, the givers of horses, shall the soma-presser attain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of the 2nd hemistich differs in several respects from the standard.
 
@@ -144,28 +144,28 @@ I think rather that the hapax udarká- refers to the ‘raising’ of the litany
 That it is not the physical aspect of wind that is at issue is suggested by the use of vāyú- not vā́ta-, as Renou points out.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dawns giving sons all heroes, kine and horses, shining upon the man who brings oblations,--  
      These let the Soma-presser gain when ending his glad songs louder than the voice of Vayu.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The dawns that shine forth for the pious mortal, Bestowing kine and steeds and many heroes: May these be gained by zealous Soma-pressers, When joyous songs break forth like gusty breezes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Solche Morgen, die Rinder und vollzählige Söhne dem opferspendenden Sterblichen bringend aufgehen, die möge der rosseschenkende Somaopferer erleben, wenn die Schenkungen schnell wie der Wind herausgesungen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgen, die dem sterblichen Verehrer mit Rinderschar und allen Helden leuchten, Die finde, wenn im Sturm die Lieder brausen, als rosseschenkend sich der Somapresser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) зори, богатые коровами, богатые крепкими мужами,  
 Что ярко сверкают для почитающего (их) смертного –  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य नु꣡ सु꣡कृतं दइ꣡वियं स꣡हो  
 अग्नि꣡र् गृहे꣡ जरिता꣡ मे꣡धिरः कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 य॒ज्ञः । च॒ । भू॒त् । वि॒दथे॑ । चारुः॑ । अन्त॑मः । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -139,37 +139,37 @@ genre M;; repeated line
 **दैव्यं** देवानां हितं **सहः** बलं यदस्ति तत् **इन्द्रस्य** **सुकृतं** इन्द्रेण खलु सुष्ठु संपादितम् । यद्वा । यत्सुकृतं दैव्यं सहो बलं मरुत्संज्ञकमस्ति तदिन्द्रस्य नु इन्द्रस्य संबन्धि खलु । अथवा। इन्द्रस्य नु संबन्धि सुकृतं दैव्यं सहो देवार्हं बलम् अग्निर्गृहे अस्मदीये यागगृहे वर्तत इति शेषः । इन्द्रस्य संबन्धी सुष्ठु संपादितो देवानां बलभूतोऽग्निर्गार्हपत्यः सन् वर्तत इत्यर्थः । स चाग्निः **जरिता** देवानां स्तोता **मेधिरः**। मेधो यज्ञो हविर्वा । तद्वान् **कविः** क्रान्तप्रज्ञः **यज्ञः** यष्टव्यः **च** **भूत्** भवति । कुत्र । **विदथे** यज्ञे। किंच सोऽग्निः **चारुः** चरणीयः **अन्तमः** अस्माकमन्तिकतमश्च ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine force of **Indra** is well constructed; **Agni** (abides) in our dwelling, the praiser of the gods, thereceiver of oblations, the sage, and is worthy of sacrifice at the altar, beautiful and most near (to us). We long forthe universal **Aditi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra’s is the well-made divine might; Agni is the singer in the house,  the wise poet.  
 And the sacrifice has become our dear intimate at the rite of  
 distribution. – We choose wholeness and innocence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra possesseth might celestial nobly formed: the singer in the hotise is Agni, prudent Sage.  
      lie is the sacrifice in synod, fair, most near. We ask for freedom and complete felicity,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Indra göttliche Gewalt ist gar wohlbeschaffen; Agni ist der Sänger im Hause, der weise Seher. Und das Opfergebet möge der Kennerschaft genehm sein, recht nahe gehen. - Wir erbitten Vollkommenheit von der Aditi.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von schöner Art ist nun des Indra Götterkraft; im Haus ist Agni weiser Sänger, einsichtsvoll; Das Opfer ist beim Götterfeste werth und lieb; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

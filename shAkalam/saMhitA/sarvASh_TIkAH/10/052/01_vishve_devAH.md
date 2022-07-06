@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे देवाः शास्त꣡न मा य꣡थेह꣡  
 हो꣡ता वृतो꣡ मन꣡वै य꣡न् निष꣡द्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न पथा꣡ हव्य꣡म् आ꣡ वो व꣡हानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । मे॒ । ब्रू॒त॒ । भा॒ग॒ऽधेय॑म् । यथा॑ । वः॒ । येन॑ । प॒था । ह॒व्यम् । आ । वः॒ । वहा॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
@@ -140,37 +140,37 @@ popular
 एतत्सूक्तं कृत्स्नमाग्नेयम् । हे **विश्वे** **देवाः** यूयं **मा** मां **शास्तन** अनुज्ञां दत्त । **यथेह** यज्ञे **होता** देवानामाह्वाता सन् **वृतः** होतृत्वेन वृतोऽहं **मनवै** स्तौमि भवतः । **यत्** यस्मात् **निषद्य** स्तौमि तस्माच्छास्तन । **मे** मम **भागधेयं** **प्र** **ब्रूत** **यथा** **वः** यूयं भागं कल्पितवन्तः तथा तं भागं प्र ब्रूत । **येन** च **पथा** **वः** **हव्यमा** **वहानि** वहनं करोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “instrumental uct me, **Viśvedevās**, since I am appointed **Hotā**, how sitting here I ought to praise you; declareto me your portion; how you have acquired it, and by what path I may convey the oblation to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] All you gods, instruct me how, chosen here as Hotar, I shall  conceive it [=task] upon being installed.  
 Proclaim to me how, by what path I shall convey your share, your  
 oblation to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INSTRUCT me, all ye Gods, how I, elected your Priest, must seat me here, and how address you.  
      Instruct me how to deal to each his portion, and by what ' path to bring you man's oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter alle, unterweiset mich, wie ich und woran ich hier, zum Hotri erwählt, denken soll, nachdem ich meinen Platz eingenommen habe! Lehret mich, wie euer Anteil am Opfer ist, auf welchem Wege ich euch das Opfer zuführen soll!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ihr Götter alle, weist mich an, worauf ich erwählt zum Priester und gesetzt soll achten, Nennt mir den Antheil und auf welchem Wege und wie ich zu euch fahren soll die Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Все-Боги, научите меня, как здесь  
 Избранный хотаром я должен думать, заняв (свое) место!  

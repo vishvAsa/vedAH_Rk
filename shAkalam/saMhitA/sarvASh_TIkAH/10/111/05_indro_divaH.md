@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो दिवः꣡ प्रतिमा꣡नम् पृथिव्या꣡  
 वि꣡श्वा वेद स꣡वना ह꣡न्ति शु꣡ष्णम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चास्क꣡म्भ चित् क꣡म्भनेन स्क꣡भीयान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒हीम् । चि॒त् । द्याम् । आ । अ॒त॒नो॒त् । सूर्ये॑ण । चा॒स्कम्भ॑ । चि॒त् । स्कम्भ॑नेन । स्कभी॑यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ genre M
 **दिवः** द्युलोकस्य **पृथिव्याः** च **प्रतिमानं** महत्त्वेन प्रतिनिधिः **इन्द्रः** **विश्वा** सर्वाणि **सवना** सवनानि **वेद** सोमपानार्थं जानाति । **शुष्णं** सर्वस्य शोषकमेतन्नामानमसुरं **हन्ति** । वाक्यभेदादनिघातः । अपि च **महीं** **चित्** महतीमपि **द्यां** **सूर्येण** **अतनोत्** । सर्वत्र प्रकाशयुक्तामकरोत् । **स्कभीयान्** स्कम्भथितॄणां मध्ये श्रेष्ठः सः **स्कम्भनेन** **चित्** निरोधनसाधनेन सामर्थ्येनैव **चास्कम्भ** । द्युलोकमवरुद्धमकरोत् ॥ स्कम्भिः सौत्रो धातुः । लिटि “ तुजादीनाम् । इति दीर्घः । चित्कम्भनेन इत्यत्र संहितायां सलोपः। उत्पूर्वस्य स्तम्भेः ‘उदः स्थास्तम्भोः' (पा.सू. ८. ४. ६१ ) इति सलोप उक्तः । चित्पूर्वस्य स्कम्भेरपि भवति छन्दोविषयत्वात् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Propped up the heaven with a prop: Satyatātā = that which is stretched out by the true ones, the gods;or, **tāti** as a suffix, that which is true, i.e., heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra is the counterpart of heaven and of earth. He knows all the  pressings; he smites Śuṣṇa.  
 With the sun he stretched through heaven, though it is great. He also  propped it up with a prop, (himself) a better prop (than the prop).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The counterpart of heaven and earth is Indra: he knoweth all libations, slayeth Susna.  
      The vast sky with the Sun hath he extended, and, best otpillars, stayed it with a pillar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra wiegt Himmel und Erde auf; er kennt alle Somaopfer, er erschlägt den Susna. Den so großen Himmel hat er mit der Sonne durchzogen und ihn mit der Stütze gestützt, der beste Stützer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Himmel und der Erde gleich ist Indra, die Tränke alle kennt er, schlägt den Çuschna, Erhellt' den grossen Himmel durch die Sonne, aufs beste stützend stützt' er ihn mit Stützen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра – противовес неба (и) земли.  
 Он знает все выжимания (сомы). Он убивает Шушну.  

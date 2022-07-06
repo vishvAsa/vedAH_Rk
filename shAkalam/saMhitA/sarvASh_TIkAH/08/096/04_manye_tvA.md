@@ -6,7 +6,7 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡न्ये त्वा यज्ञि꣡यं यज्ञि꣡यानाम्  
 म꣡न्ये त्वा च्य꣡वनम् अ꣡च्युतानाम्  
@@ -14,7 +14,7 @@ ChandaH = "विराट्"
 म꣡न्ये त्वा वृषभं꣡ चर्षणीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मन्ये॑ । त्वा॒ । सत्व॑नाम् । इ॒न्द्र॒ । के॒तुम् । मन्ये॑ । त्वा॒ । वृ॒ष॒भम् । च॒र्ष॒णी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *manye* ← *man*
 - \[verb\], singular, Present indikative
@@ -123,7 +123,7 @@ genre M
 एतदादयः प्रत्यक्षाः । हे इन्द्र **त्वा** त्वां **यज्ञियानां** यज्ञार्हाणां देवानामपि **यज्ञियं** पुरस्तादेव यज्ञार्हमिति **मन्ये** अवबुध्ये। तथा **त्वा** त्वाम् **अच्युतानां** च्युतिरहितानामपि पर्वतानां **च्यवनं** च्यावयितारं वज्रेण विभेदकमिति **मन्ये** जानामि । यद्वा । अच्युतानां बलेन च्यावयितुमशक्यानां बलिनां वीराणामपि स्वबलेन विद्रावयितारमिति' जाने । किंच हे **इन्द्र** **सत्वनाम्**। 'षण संभक्तौ'। क्वनिप् । संभजमानानां भटानां **केतुम्** उच्छ्रितमिति **मन्ये** । यद्वा । सत्वनां स्तुतिभिः हविर्भिर्वा संभक्तॄणां यष्टॄणां केतुमात्मनः प्रज्ञापकं तेषां पूजनीयमिति वा मन्ये । तथा **त्वा** त्वां **चर्षणीनां** मनुष्याणां **वृषभम्** अभिमतफलवर्षकमिति **मन्ये** जानामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 Of the imperishable mountains: of the heroes not to be overthrown; banner of warriors: the manifester ofthyself to your worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I consider you the most worthy of the sacrifice of those worthy of the  sacrifice; I consider you the stirrer of the unstirrable;  
 I consider you the beacon of warriors, Indra; I consider you the bull of  the settled domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Following Geldner I take keśíbhiḥ “hairy-maned (horses)” as an appositional simile with gīrbhíḥ: the hymns serve as the team that brings Indra to us along “heaven’s way.” This latter form, dyugát ‘heaven-going’ vel sim., is extensively discussed by Scarlatta (106-7), who ultimately concludes that it is “unklar,” though he favors taking it as a nom. sg. modifying the soma presser (sutā́vān). This seems odd: the somapresser is the one element in this verse who is likely to stay put. I take it, with Grassmann and (implicitly) Oldenberg, as adverbial, referring to the movement of the hymns, as metaphorical horses, through heaven. In his note Geldner endorses Sāyaṇa’s interpretation of it is a shortening of dyugádbhiḥ, which (as Wolff’s suggestion) Oldenberg dismisses without argument. This explanation by truncation certainly does not seem necessary, since a neuter adverb works well enough.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 count thee as the Holiest of the Holy, the caster-down of what hath ne'er been shaken.  
      I count thee as the Banner of the heroes, I count thee as the Chief of all men living.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich halte dich für den Opferwürdigen unter den Opferwürdigen, ich halte dich für den Erschütterer der Unerschütterlichen. Ich halte dich, Indra, für das Banner der Krieger, Ich halte dich für den Bullen der Völker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich halt' ich für den Heiligen der Heil'gen, für den Beweger dich des Unbewegten; Dich halt' ich, Indra, für das wahre Banner, dich für den Herrscher aller Menschenstämme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

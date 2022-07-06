@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने स्तो꣡मं जुषस्व मे  
 व꣡र्धस्वाने꣡न म꣡न्मना  
 प्र꣡ति सूक्ता꣡नि हर्य नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्रति॑ । सु॒ऽउ॒क्तानि॑ । ह॒र्य॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** मे आङ्गिरसस्य मम **स्तोमं** स्तोत्रं **जुषस्व** सेवस्व । **अनेन** **मन्मना** मननीयेन स्तोत्रेण **वर्धस्व** च । **नः** अस्माकं **सूक्तानि** **प्रति** **हर्य** कामय च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, accept my praise, be invigorated by this prayer; be favourable to our hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, enjoy my praise. Grow strong through this thought.  
 Take delight in our hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, do thou accept my laud, be magnified by this my song:  
      Welcome my sweedy-spoken words.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Finde an meinem Loblied Gefallen, wachse durch diese Dichtung, nimm unsere wohlgesetzte Rede gut auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Loblied nimm, o Agni, an, erlab' an dieser Andacht dich, Nimm unsre Sprüche gnädig auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, наслаждайся моим восхвалением,  
 Крепчай от этого произведения,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ म꣡र्तो अग्ने सुअनीक रेवा꣡न्  
 अ꣡मर्तिये य꣡ आजुहो꣡ति हव्य꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यं꣡ सूरि꣡र् अर्थी꣡ पृछ꣡मान ए꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । दे॒वता॑ । व॒सु॒ऽवनि॑म् । द॒धा॒ति॒ । यम् । सू॒रिः । अ॒र्थी । पृ॒च्छमा॑नः । एति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 **स्वनीक** सुतेजस्क हे **अग्ने** अमर्त्ये अमनुष्ये देवतात्मनि त्वयि **हव्यं** हविः **यः** **आजुहोति** **स** **मर्तः** मनुष्यः **रेवान्** धनवान् भवति । **यं** मर्त्यं **सूरिः** प्राज्ञः **अर्थी** धनादिकामः **पृच्छमानः** असौ उदारः क्वास्ते' इति पृच्छन् **एति** अभिगच्छति **सः** एव मनुष्यः **देवता** देवताभ्यः **वसुवनिं** धनपोषं ददाति । यद्वा । स देवताग्निर्वसुवनिं यजमानं दधाति धारयति यमग्निं सूरिः स्तोता अर्थी प्रयोजनवान् पृच्छमानः कोऽसावग्निरिति पृच्छमान एति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,30 +138,30 @@ genre M
 Yam sūrir arthīpṛcchamāna: the inquirer is supposed to ask, either where is the liberal giver of the wealth for which he prays,or who is that Agni to whom the petition is to be addressed.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That mortal is rich, o Agni of beautiful face, who pours the oblation in  the immortal one.  
 He [=Agni or the mortal] establishes him [=the mortal or Agni] as one  who gains goods among the gods, the one to whom the inquiring  
 patron goes, seeking his ends.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, fair of face, the wealthy mortal who to the Immortal offers his oblation.  
      Hath him who wins him treasure by his Godhead, to whom the prince, in need, goes supplicating.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Sterbliche, du schöner Agni, ist reich, der in dir, dem Unsterblichen, die Opferspende opfert. Er macht den zum Gutgewinner bei den Göttern, zu dem der reiche Gönner fragend mit einem Anliegen kommt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann wird reich, o schönentflammter Agni, der dir Unsterblichem das Opfer zugiesst; der Gott verleiht des reichen Gutes Fülle, zu dem der Mächt'ge wünschend, flehend hingeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот смертный, имеющий богатство, о Агни прекрасноликий,  
 Который возливает жертву (в тебя,) бессмертного,  

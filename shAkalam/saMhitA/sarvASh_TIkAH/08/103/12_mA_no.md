@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो हृणीताम् अ꣡तिथिर्  
 व꣡सुर् अग्निः꣡ पुरुप्रशस्त꣡ एषः꣡  
 यः꣡ सुहो꣡ता सुअध्वरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यः । सु॒ऽहोता॑ । सु॒ऽअ॒ध्व॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -97,19 +97,19 @@ genre M
 **वसुः** वासकः **अतिथिः** अतिथिवत् प्रियः **पुरुप्रशस्तः** बहुभिः स्तुतः **सुहोता** सुष्ठु देवानामाह्वाता **स्वध्वरः** सुयज्ञश्च **यः** **अग्निः** सः **एषः** अग्निः **नः** अस्मभ्यं **मा** **हृणीतां** केनापि न रुध्यताम् । केनाप्यनवरुद्धः सन् अग्निः अस्मभ्यमभीष्टं प्रयच्छत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May none hinder **Agni** from coming to us, our guest, the giver of dwellings, praised by many-- (Agni)who is the excellent invoker of the gods, who offers an excellent sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the guest not be angry at us, this good Agni, proclaimed by many, who is the good Hotar of good ceremony.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The mā́prohibitive here takes an apparent impv. hṛṇītām rather than the expected injunctive *hṛṇīta. Hoffmann (94-95) explains this as having an underlying pluti form hṛṇītā3, with nasalization in hiatus, hence *hṛṇītā3m̐, which was misunderstood by the redactors and normalized to hṛṇītām. Although I find this explan. rather ad hoc and over-complex, I have nothing better to suggest. I do not, however, subscribe to his notion that because it is built to a pres. stem, it has inhibitive (“let him stop being angry”) rather than prohibitive (“let him not be angry”) value. There is nothing in the hymn up to this point that would indicate that Agni has anything but benevolent feelings towards us. See Ian Hollenbaugh’s work, which refutes Hoffmann’s assumption of inhibitive value for pres. injunc. with mā́.
 
@@ -125,23 +125,23 @@ Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 1
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the noble Guest, Agni, be wroth with us: by many a man his praise is sung,  
      Good Herald, skilled in sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll uns der gute Gast, dieser vielgepriesene Agni gram sein, der einen guten Hotri und guten Opferdienst hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge zürnen Agni uns, der holde Gast, er, dieser vielgepriesene, Der trefflich opfert und verehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 :прекрасный хотар suhota svadhvarah
 </details>

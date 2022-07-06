@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्व ऊ षु꣡ मधूयुवा  
 रु꣡द्रा सि꣡षक्ति पिप्यु꣡षी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पक्वाः꣡ पृ꣡क्षो भरन्त वाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । स॒मु॒द्रा । अति॑ । पर्ष॑थः । प॒क्वाः । पृक्षः॑ । भ॒र॒न्त॒ । वा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
@@ -102,7 +102,7 @@ genre M
 हे **मधूयुवा** मधुरस्य सोमादेर्मिश्रयितारौ हे **रुद्रा**। रुत् स्तुतिः । तया द्रवणीयौ रुद्रपुत्रौ वा वां **मध्वः** मधुररसेन **सु** पिप्युषी सुष्ठु प्याययन्ती स्तुतिरस्मत्कृता **सिषक्ति** सेवते । **यत्** यदा **समुद्रा** समुद्द्रवणसाधनानि अन्तरिक्षाणि **अति** **पर्षथः** अतिपारयथः । यज्ञं प्राप्नुथः इत्यर्थः । **पक्वाः** **पृक्षः** अन्नानि हविर्लक्षणानि **वां** **भरन्त** भ्रियन्ते यजमानैः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ genre M
 Mixers of the Soma juice: madhuyuvaḥ somāder miśrayitārau, mixers, or causers of the mixing of Soma and other things
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one that swells with honey follows you two closely, o you  
 honey-seeking Rudras.  
 When you two will cross beyond the seas, they [=priests] bring cooked  foods to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lovers of sweetness, Rudras, she who streams with sweetness waits on you.  
      When ye have travelled through the seas men bring you gifts of well-dressed food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die von Süßigkeit Überquellende kommt fein mit, ihr Süßes liebenden Rudra´s. Wann ihr übers Meer fahret, werden euch gekochte Stärkungen aufgetragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Süssliebende, o glänzende, die schwillt von Süss, erwartet euch; Wenn ihr durchfahrt die Meeresflut, so bringt man gare Tränke euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хорошо пропитанный медом (кнут),  
 О любящие мед Рудры, (вас) сопровождает.  

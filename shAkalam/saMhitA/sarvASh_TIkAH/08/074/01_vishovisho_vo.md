@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशो꣡-विशो वो अ꣡तिथिं  
 वाजय꣡न्तः पुरुप्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्तुषे꣡ शूष꣡स्य म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । वः॒ । दुर्य॑म् । वचः॑ । स्तु॒षे । शू॒षस्य॑ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], genitive, singular, feminine
@@ -99,7 +99,7 @@ genre M
 हे अन्य ऋत्विजो यजमानाश्च **वः** यूयं **वाजयन्तः** अन्नमिच्छन्तः **विशोविशः** सर्वस्याः प्रजायाः **अतिथिं** पूज्यं **पुरुप्रियं** बहुप्रियम् **अग्निं** स्तुत्या परिचरतेति शेषः । अहं च **वः** युष्मदर्थं **दुर्यं** गुहा हितं **वचः** **स्तुषे** **शूषस्य** सुखस्य लाभाय । कैः साधनैः । **मन्मभिः** मननीयैः स्तोत्रैः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,36 +110,36 @@ genre M
 Domestic: duryam = gṛhyamgṛhe bhavam (RV 2.38.5); gṛhebhyo **hitā** (RV 8.1.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The guest of every clan, dear to many, (shall we praise) on your behalf  as (we) seek the prize;  
 Agni belonging to the house shall I praise on your behalf, (with) speech  and with thoughts of fortifying song—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Nom. pl. part. vājayántaḥ (b) and 1st sg. stuṣé (d) represents the not unusual number mixture of a singular poet speaking for and with the other ritual officiants. Cf. VIII.66.1 for similar number mismatch.
 
 Pāda-final vácaḥ I take (with Geldner) as a truncated instr. standing for vácasā. For disc. see comm. ad VIII.39.2. However, in this context, since √stu can, though rarely, take an acc. of the praise, it is possible (with Oldenberg and Renou [though Renou seems to recant in his n.]) to take it as obj. of stuṣé in a construction different from the dominant agním … stuṣé. However, the acc. of the god praised continues in the next two verses, and I think it unlikely that this focus would be interrupted by “I speak a speech as praise.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 EXERTING all our strength with thoughts of power we glorify in speech  
      Agni your dear familiar Friend, the darling Guest in every home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren vielgeliebten Gast einer jeden Niederlassung wollen wir, nach dem ersten Preise strebend - den Agni, euren Hausgenossen will ich mit Rede, mit Gedanken des Eifers preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erlabt den vielgeliebten Gast, der jedem eurer Häuser naht; Den Hausfreund Agni lob' ich euch mit Lied, mit kräftigem Gebet,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

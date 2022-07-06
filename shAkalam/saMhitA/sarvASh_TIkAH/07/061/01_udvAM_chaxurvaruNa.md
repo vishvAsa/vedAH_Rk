@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् वां च꣡क्षुर् वरुण सुप्र꣡तीकं  
 देव꣡योर् एति सू꣡रियस् ततन्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ मन्यु꣡म् म꣡र्तियेषु आ꣡ चिकेत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । यः । विश्वा॑ । भुव॑नानि । च॒ष्टे॒ । सः । म॒न्युम् । मर्त्ये॑षु । आ । चि॒के॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -126,42 +126,42 @@ genre M
 हे **वरुणा** मित्रावरुणौ **देवयोः** द्योतमानयोः **वां** युवयोः **चक्षुः** प्रकाशकं तेजः **सुप्रतीकं** शोभनरूपमेवंरूपः **सूर्यः** **ततन्वान्** तेजो विस्तारयन् **उत्** **एति** उद्गच्छति । अथोदितः **यः** देवः **विश्वा** सर्वाणि **भुवनानि** भूतजातानि **अभि** **चष्टे** अभिपश्यति **सः** देवः **मर्त्येषु** प्रवृत्तं **मन्युं** स्तोत्रं कर्म वा **आ** **चिकेत** आजानाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Spreading arond the beautiful light, **Mitra** and **Varuṇa**, of you two divinities, **Sūrya** rises; he whobeholds all existing beings apprehends the acts of mortals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upward arises the eye of lovely appearance that belongs to you two gods,  o Varuṇa—the Sun, who has extended himself.  
 He who watches over all living beings marks the battle fury among  
 mortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O VARUNA and Mitra, Surya spreading the beauteous light of you Twain Gods ariseth.  
      He who beholdetb all existing creatures observetb well the zeal that is in mortals.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The beauteous eye of Varuna and Mitra, The Sun, now rises up, his light extending. Who with his gaze looks down upon all creatures: He ever notes the burning zeal of mortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya, euer beider Götter Auge, geht, schön anzuschauen, Licht verbreitend, auf o Varuna und Mitra, der alle Wesen überschaut; er erkennt auch die Absicht in den Sterblichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf geht die Sonne, Varuna und Mitra, eur wunderschönes Auge weithin strahlend; Sie schauet musternd hin auf alle Wesen und nimmt auch wahr der Sterblichen Gedanken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш глаз – двоих богов – о Варуна, (о Митра), –  
 Прекрасный на вид Сурья восходит, протягивая (лучи).  

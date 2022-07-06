@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो ज्यो꣡तींषि पूर्विय  
 प꣡वमान वि꣡ रोचय  
 क्र꣡त्वे द꣡क्षाय नो हिनु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्रत्वे॑ । दक्षा॑य । नः॒ । हि॒नु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पूर्व्य** पुराण **पवमान** सोम **नः** अस्माकं **ज्योतींषि** दिव्यानि स्थानानि **वि** **रोचय** प्रकाशय । किंच **क्रत्वे** कर्मणे यागाय **दक्षाय** बलाय च बलप्रदाय यागाय वा **नः** अस्मान् **हिनु** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ancient purifier, illume for us the luminaries (of heaven), animate us for strength-bestowing sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O age-old self-purifying one, make the lights shine forth for us;  
 impel us toward will, toward skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Excellent Pavamana, make the lights shine brightly out for us.  
      Speed us to mental power and skill.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß du uns deine Lichter leuchten, du allererster Pavamana; rege uns zu Rat und Tat an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzünde du, o rieselnder, o alter, helle Lichter uns, Zu Kraft und Weisheit fördre uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

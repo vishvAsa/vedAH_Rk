@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡निक्रदज् जनु꣡षम् प्रब्रुवाण꣡  
 इ꣡यर्ति वा꣡चम् अरिते꣡व ना꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ त्वा का꣡ चिद् अभिभा꣡ वि꣡श्व्या विदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; 11 = 4+7, ending HLX
 सु॒ऽम॒ङ्गलः॑ । च॒ । श॒कु॒ने॒ । भवा॑सि । मा । त्वा॒ । का । चि॒त् । अ॒भि॒ऽभा । विश्व्या॑ । वि॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kanikradaj* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
@@ -121,7 +121,7 @@ popular;; 11 = 4+7, ending HLX
 कनिक्रदत् पुनःपुनःशब्दायमानः जनुषन्निष्यमाणमर्थं प्रब्रुवाणः सूचयन् कपिञ्चलः अरितेव कर्णधारइवनावंवाचमियर्तिप्रेरयति अथप्रत्यक्षकृतः हेशकुनेकपिञ्चल त्वंसुमङ्गलः प्रकृष्टकल्याण श्चभवासिभव किञ्च काचिदभिभा कोप्यभिभवः त्वात्वां विश्व्याविश्वतः सर्वासुदिक्षुमाविदत् माप्रापत् शकुनिः शक्नोत्युन्नेतुमात्मनं न्यक्रन्दीज्जन्मप्रब्रुवाणोयथास्यशब्दस्तथानामेरयतिवाचमीर यितेवनावंसुमङ्गलश्चशकुनेभवकल्याणमङ्गलोमङ्लङ्गिरतेर्गृणात्यर्थेगिरत्यर्थानितिवेतियास्कः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ Kapiñjala: The Anukramaṇikā has kanimatarūpindro **devatā**;
 Kapiñjala = francoline partridge
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ever screeching, announcing its kind [=species], it directs its speech like  an oarsman his boat.  
 And if you will be of good omen, bird, let no evil eye at all find you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Subordinating ca as in II.41.11, also with a subjunctive.
 
@@ -151,23 +151,23 @@ transl. ‘portent’. Though not a lit. tr., Engl. “evil-eye” seems to corr
 Pāda d should be read as a Jagatī, though neither Oldenberg nor Holland & van Nooten Rig Veda edition comment. The cadence is a Jagatī cadence and the proper number of syllables is achieved by reading víśvi yā as a trisyllable (so already Grassmann, also AiG III.78). The word is otherwise not found in the RV, but such a cluster begs to be distracted, and by Wackernagel’s analysis of it as modeled on urviyā́(AiG III.78, flg. Brugmann), it would have -iyā́ by nature.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TELLING his race aloud with cries repeated, he sends his voice out as his boat a steersman.  
      O Bird, be ominous of happy fortune from no side may calamity befall thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schreiend, seine Herkunft kund tuend stößt er die Stimme hinaus wie der Fährmann das Schiff. Wenn du, o Vogel, von guter Vorbedeutung sein solltest, so soll dich kein böser Blick jeglicher Art treffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Laut kreischend, so verkündend seine Weise, treibt seine Stimm' er, wie das Schiff der Rudrer; Zum Glücke mögest du mir sein, o Häher, kein Unglückszeichen möge je dir kommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Громко крича, оповещая о (своем) происхождении,  
 Она выталкивает голос, как рулевой – лодку.  

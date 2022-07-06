@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ देवा꣡नाम् अ꣡ति व्रतं꣡  
 शता꣡त्मा चन꣡ जीवति  
 त꣡था युजा꣡ वि꣡ वावृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 तथा॑ । यु॒जा । वि । व॒वृ॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M
 **देवानां** ब्रह्मादीनां **व्रतं** मर्यादालक्षणं कर्म **अति** अतिक्रम्य **शतात्मा** **चन** शतसंवत्सरः कश्चन **न** **जीवति** । **तथा** **युजा** सहायादिना **वि** **ववृते** विवर्तते वियुक्तो भवतीति ज्ञात्वा शोकं मा कुर्वित्यर्थः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,29 +104,29 @@ genre M
 Hundred years: No one, even if he has a hundred lives, can live beyond the limit fixed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one lives beyond the commandment of the gods, even one with a  hundred selves.  
 And thus have I turned away from my yokemate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None lives, even had he hundred lives, beyond the statute of the Gods  
      So am I parted from my friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner lebt über der Götter Gesetz hinaus, auch wenn er hundert Leben hätte. So wurde ich von meinem Freunde getrennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wider den Willen der Götter kann niemand leben, und wenn er auch hundertfaches Leben besitzt; so wird er von dem Genossen getrennt. [Das soll wol bedeuten: darum sei du dem Willen der Götter folgsam und beschenke den Sänger.]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сверх закона богов  
 Не проживет и тот, у кого сто жизней.  

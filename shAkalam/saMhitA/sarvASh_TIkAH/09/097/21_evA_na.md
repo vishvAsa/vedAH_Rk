@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न इन्दो अभि꣡ देव꣡वीतिम्  
 प꣡रि स्रव न꣡भो अ꣡र्णश् चमू꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयिं꣡ ददातु वीर꣡वन्तम् उग्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सोमः॑ । अ॒स्मभ्य॑म् । काम्य॑म् । बृ॒हन्त॑म् । र॒यिम् । द॒दा॒तु॒ । वी॒रऽव॑न्तम् । उ॒ग्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M
 हे इन्दो सोम नोस्मदीयमेव देववीतिं देवानांवीतिर्भक्षणं गमनंवा यस्मिन् देववीति- र्यज्ञः तमभिलक्ष्य नभोनभसोद्युलोकात् अर्णउदकं अनेनपव् इत्रान्निर्गतः सोमरसोभिधीयते तं रसं चमूषु चमसेषु परिस्रव परितःक्षर । ततः सोमः काम्यं काम्यमानं बृहन्तं प्रवृद्धं वीरवन्तं पुत्रयुक्तं उग्रमुद्गूर्णबलं रयिं धनं अस्मभ्यं ददातु प्रयच्छतु ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “So, **Indu**, at our sacrifice pour the water from the firmament into the vessels; may **Soma** bestow upon us desirable riches in abundance with **male** offspring and strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thus, o drop, flow around the cloud, the flood in the cups, toward our  pursuit of the gods.  
 Let Soma give to us desirable, lofty wealth, powerful and abounding in  heroes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So for our banquet of the Gods, O Indu, pour down the rain of heaven into the vessels.  
      May Soma grant us riches sought with longing, mighty, exceeding strong, with store of heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So umfließe, o Saft, zu unsrer Göttereinladung die Wolkenflut in den Camugefäßen! Soma soll uns begehrenswerten großen gewaltigen Reichtum an Söhnen schenken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So ströme denn zu unserm Göttermahle, o Indu, in die Schalen Saftgewoge; Uns möge Soma grossen Reichthum schenken, begehrungswerthen, männerreichen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот так, о сок сомы, для приглашения к нам богов  
 Теки в чанах вокруг облака, вокруг стремнины!  

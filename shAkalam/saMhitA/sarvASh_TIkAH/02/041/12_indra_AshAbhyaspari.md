@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र आ꣡शाभियस् प꣡रि  
 स꣡र्वाभ्यो अ꣡भयं करत्  
 जे꣡ता श꣡त्रून् वि꣡चर्षणिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 जेता॑ । शत्रू॑न् । विऽच॑र्षणिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -86,40 +86,40 @@ genre M
 विचर्षणिः विविधन्द्रष्टा जेता शत्रून् असुरान् जेता तृन्नन्तत्वात् षष्ठ्यभावः इन्द्रः षरमैश्वर्य वान् सर्वाभ्यआशाभ्योदिग्भ्योस्माकंअभयङ्करत् करोतु परीतिपञ्चमीद्योतकः ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let **Indra**, the beholder of all, the conqueror of foes, send us security from all quarters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra will make (us) without fear from all the regions round about. He is the one who conquers rivals—the boundless one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am tempted to take jétā as a periphr. future, parallel as it is to the subjunctive karat. But this is not nec.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From all the regions of the world let Indra send security,  
      The foe-subduer, swift to act.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra möge uns von allen Seiten Gefahrlosigkeit schaffen, der vor allen Völkern sich hervortuende Besieger der Feinde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schaffe Indra Sicherheit von allen Seiten uns herbei; Die Feinde schlage thätig er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра со всех сторон  
 Создает (нам) отсутствие страха,  

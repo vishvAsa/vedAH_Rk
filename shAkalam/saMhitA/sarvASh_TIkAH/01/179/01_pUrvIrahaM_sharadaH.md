@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूर्वी꣡र् अहं꣡ शर꣡दः शश्रमाणा꣡  
 दोषा꣡ व꣡स्तोर् उष꣡सो जर꣡यन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्य् ऊ नु꣡ प꣡त्नीर् वृ꣡षणो जगम्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मि॒नाति॑ । श्रिय॑म् । ज॒रि॒मा । त॒नूना॑म् । अपि॑ । ऊं॒ इति॑ । नु । पत्नीः॑ । वृष॑णः । ज॒ग॒म्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
@@ -120,20 +120,20 @@ popular
 सा तमेव आह –
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Lopāmudrā**): Many years have I been serving you diligently, both day and night, and through mornings, bringing on old age; decay now impairs the beauty of my limbs; what, therefore, is now (to be done); let husbands approach their wives.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Lopāmudrā:] “For many autumns have I been laboring, evening and  morning, through the aging dawns.  
 Old age diminishes the beauty of bodies. Bullish (men) should now come  to their wives.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains a predicated perfect participle śaśramāṇā́.
 
@@ -147,23 +147,23 @@ The final pādas of these two verses depict a neatly contrasting sexual conjunct
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो॑रु॒षसो॑ ज॒रय॑न्तीः ।  
 मि॒नाति॒ श्रियं॑ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Jahre habe ich mich spät und früh abgemüht, während die Morgen dem Alter näher bringen. Das Alter verändert die Schönheit der Leiber. Es sollten doch die Männchen zu ihren Frauen kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Viele Jahre und viele ermattende Tage hindurch, Abends und Morgens habe ich mich abgemüht; das Alter mindert die Schönheit der Leiber; mit ihren Frauen sollen sich die Männer gatten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много осеней я изнуряла себя  
 Утром и вечером, много старящих зорь...  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡चा सो꣡मेषु पुरुहूत वज्रिवो  
 म꣡दाय द्युक्ष सोमपाः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 द꣡यिष्ठः+ सुन्वते꣡ भु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । इत् । हि । ब्र॒ह्म॒ऽकृते॑ । काम्य॑म् । वसु॑ । देष्ठः॑ । सु॒न्व॒ते । भुवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sacā*
 - \[adverb\]
@@ -118,37 +118,37 @@ genre M
 हे पुरुहूत बहुभिराहूत हे वज्रिवः वज्रवन् द्युक्षा द्युमन् सोमपाः सोमस्यपातस्त्वं सोमेष्वभिषुतेषु मदाय सचा सह भवेतिशेषः त्वमित्त्वमेव ब्रह्मकृते स्तोत्रकर्त्रे सुन्वतेच काम्यं कमनीयं वसु धनं देष्ठोदातृतमो भुवोभवसि । हिपूरणः ॥ ६ ॥ चातुर्विंशिकेहनि माध्यन्दिनसवनेच्छावाकशस्त्रे वयमेनमिति वैकल्पिकोनुरूपः तथाचसूत्रितम्-वयमेनमिदात्द्योयोराजाचर्षणीनामिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearer of the thunderbolt, invoked of many, radiant, drinker of the **Soma**, be present at our libations foryour exhilaration; for you are an abundant giver of desirable wealth to him who utters your praises and effusesthe Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As well as the soma drinks for your exhilaration, o mace-wielder  invoked by many, heaven-ruling soma-drinker.  
 For you become the best giver of desirable goods to the creator of  
 sacred formulations, to the presser.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Soma, Much-invoked, Bolt-armed! for thy carouse, Celestial, Soma-drinker come.  
      Thou to the man who- prays and pours the juice hast been best giver of delightful wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei Soma, du vielgerufener Keulenträger, zum Rausche, du himmlischer Somatrinker, denn du pflegst dem Beschwörer und Somapresser am meisten erwünschtes Gut zu schenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Rausch beim Soma, vielgerufner, blitzender, o lichter Somatrinker, komm, Sei du es, der dem Beter, wenn er Soma presst, am meisten schönes Gut verleiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У выжатых соков сомы, о многопризываемый громовержец,  
 Для опьянения, о живущий на небе любитель пить сому,  

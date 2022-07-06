@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ न आ꣡ वोळ्हम् अश्विना  
 रयि꣡म् पिश꣡ङ्गसंदृशम्  
 धि꣡ष्णिया वरिवोवि꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 धिष्ण्या॑ । व॒रि॒वः॒ऽविद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -86,7 +86,7 @@ genre M
 हेधिष्णया धिषणार्हौ अश्विना हेअश्विनौ ता तौ युवाम्पिशङ्गसदृशं नानारूपं वरिवोविदं धनस्यलम्भकंरयिम्पशुन्नोस्मभ्यं आवोह्ळमावहतम् ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ Of various sorts: **piśaṅga** sandṛśam = nānārūpam, of many sorts;
 Piśaṅga = tawny or yellow; that which is of yellow colour, or gold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aśvins, convey to us here wealth of tawny aspect  
 that finds a wide realm, o holy ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O longed-far Asvins, lead us on to wealth of varied sort,  
      Wealth that shall bring us room and rest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet, ihr Asvin, uns Reichtum mit, wie rotes Gold aussehenden, ihr .... , Behaglichkeit schaffenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So fahret uns denn Gut herbei, das gleich dem Gold, o Ritter, glänzt, Und Glück verschafft, o gnädige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое, о Ашвины, привезите нам  
 Богатство, выглядящее как красное (золото),  

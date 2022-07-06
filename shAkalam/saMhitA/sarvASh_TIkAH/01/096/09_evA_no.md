@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ नो अग्ने समि꣡धा वृधानो꣡  
 रेव꣡त् पवाक+ श्र꣡वसे वि꣡ भाहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -133,36 +133,36 @@ genre M;; repeated line
 व्याख्यातेयं पूर्वसूक्ते। अक्षरार्थस्तु। हे शोधक **अग्ने** एवमस्माभिर्दत्तेन समिदादिद्रव्येण **वृधानः** वर्धमानः सन् **नः** अस्माकं धनयुक्तायान्नाय विशेषेण प्रकाशस्व। अस्माकं **तत्** अन्नं मित्रादयः **ममहन्तां** पूजयन्तां रक्षन्त्वित्यर्थः । तथा **सिन्धुः** अब्देवता द्यावापृथिव्यौ च ममहन्ताम् ॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thus, **Agni**, who are the purifier gowing with the fuel (we have supplied), blaze for the sake of securing food to us, who are possessed of wealth and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth, and heaven, preserve it to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, o Agni, as you grow strong though the kindling wood,  shine out richly for fame, o pure one.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fed with our fuel, purifying Agni, so blaze to us auspiciously for glory.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun strahle, am Brennholz erstarkend, o Agni, reiches Gut aus, uns zum Ruhme, du Lauterer! - Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, so durch unser Brennholz wachsend erstrahle reich, o Flammender, zum Ruhme; Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о Агни, усиленный дровами,  
 Богатство, о чистый, воссияет нам для славы!  

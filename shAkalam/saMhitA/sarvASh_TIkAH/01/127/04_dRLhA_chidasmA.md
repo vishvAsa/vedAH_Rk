@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दॄळ्हा꣡+ चिद् अस्मा अ꣡नु दुर् य꣡था विदे꣡  
 ते꣡जिष्ठाभिर् अर꣡णिभिर् दाष्टि अ꣡वसे  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 नि꣡ स्थिरा꣡णि चिद् ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स्थि॒रा । चि॒त् । अन्ना॑ । नि । रि॒णा॒ति॒ । ओज॑सा । नि । स्थि॒राणि॑ । चि॒त् । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dṛﾱhā* ← *dṛḍha*
 - \[noun\], nominative, plural, neuter
@@ -186,7 +186,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अस्मै** अग्नये **दृळ्हा** **चित्** दृळ्हान्येव सारवन्ति हवींषि अनुक्रमेण प्रतिमन्त्रं **दुः** ददति ॥ ददातेर्लुङि “ गातिस्था' इति सिचो लुक् । आतः' इति झेर्जुस् ॥ यजमाना ददति । दाने दृष्टान्तः ॥ **यथा** **विदे** विदुषे परमार्थदर्शिने उत्कृष्टानि धनानि वितरन्ति दानशीलाः । यद्वा । अयमग्निर्यथा विदे विन्दते स्वातिरिक्तं हविः देवेभ्यो दातुं लभते स्वीकरोति तथा दुः इति ॥ विन्दतेश्छान्दसः शपो लुक् ॥ ‘ लोपस्त आत्मनेपदेषु' इति तलोपः ॥ किंच सोऽग्निः **तेजिष्टाभिः** **अरणिभिः**  अत्यन्ततेजोयुक्तैर्मार्गैर्यज्ञादिरूपैः **दाष्टि** पूजितः सन् स्वर्गादिकं ददाति ॥ ' दाशृ दाने '। शपो लुक् । किमर्थम् । **अवसे** तद्रक्षणाय । यद्वा । तेजिष्ठाभिः अतिशयेन तेजोवद्भिः अरणिभिर्गमनैः   इतरदेवानुद्दिश्य यजमानेन दत्तं हविः अवसे तेषां स्वीकाराय दाष्टि। अयमग्निर्ददाति नयति । किंच **अग्नये** इतरदेवताप्रदानसमयेऽपि यजमानः अग्नये अग्निप्रीतये **दाष्टि** प्रथमं ददाति । किमर्थम् । **अवसे** रक्षणार्थम् । यदि अयमतृप्तः स्यात् इतरेभ्यो दत्तमपि स्वयं स्वीकुर्यात् तस्मादग्नये प्रयाजादिरूपेण ददातीत्यर्थः । किंच **यः** अग्निः **पुरूणि** बहूनि सामर्थ्यात् यजमानधनादीनि **प्र** **गाहते** प्रविशति प्रविश्य च वाश्यादिरूपया ज्वालया **तक्षत्** तनूकरोति नाशयतीत्यर्थः । तत्र दृष्टान्तः। **वनेव** । वृक्षादिसमूहानि वनानि यथा प्रविश्य तक्षति दहति तथेत्यर्थः । किंच अयमग्निः **स्थिरा** स्थिराणि कठिनानि **अन्ना** अन्नानि व्रीह्यादीनि **ओजसा** तेजोरूपया ज्वालया **नि** नितरां **रिणाति** गच्छति पचतीत्यर्थः ॥ ‘ री गतिरेषणयोः' । क्रैयादिकः । ‘प्वादीनां ह्रस्वः' इति हस्वः । तथा **ओजसा** स्वकीयेन तेजसा **स्थिराणि** अपरिहरणीयानि पापानि अमित्राणि वा **नि** रिणाति निःशेषेण गच्छति नाशयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -197,7 +197,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 He destroys whatever: sthirāṇi ni riṇātiajasā: sthirāṇi = pāpāni, sins (amitrāṇi, enemies)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the firm things give way to him, as is known. (The pious one) does  service with the piercingly hot kindling sticks, for help—he does  
 service to Agni for help.  
@@ -206,34 +206,34 @@ like trees.
 Even solid foods he liquefies with his strength—even the solid with his  strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I generate the subject “(the pious man),” i.e., dāśvā́n, from its verb dāṣṭi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, as one who knows, even things solid yield: unrough fire-sticks heated hot he gives his gifts to aid. Men offer Agni gifts for aid.  
      He deeply piercing many a thing hews it like wood with fervent glow.  
      Even hard and solid food he crunches with his might, yea, hard and solid food with might.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Even what is firm gives way before him: thus it is known. With hottest kindling-sticks 1 one worships him 2 for winning his favour, one worships Agni for winning his favour. He who dives into many forests as if carving the wood with his flame, destroys even firm food 3 with his strength—he destroys even what is firm with his strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst das Feste gibt ihm, wie man weiß, nach. Mit den am schnellsten feuerfangenden Reibhölzern wartet er auf, um seine Gunst zu gewinnen, wartet er dem Agni auf, um seine Gunst zu gewinnen. Der in viele Hölzer eindringt, sie wie die Bäume mit seiner Flamme behauend; er zerreißt selbst die festen Speisen mit Kraft, selbst das Feste mit Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das feste selbst, es gibt ihm nach, so wie er ist; mit heissentflammten Hölzern dient man ihm um Gunst, dem Agni huldigt man um Gunst; In vieles dringt er und behaut die Bäume gleichsam mit der Glut. Die festen Speisen selbst zermalmet er mit Kraft, das feste selbst mit seiner Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже твердые (предметы) поддались ему, как известно.  
 Самыми острыми кусками дерева для трения (жрец) служит ради (его) помощи,  

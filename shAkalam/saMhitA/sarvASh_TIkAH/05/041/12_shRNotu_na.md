@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृणो꣡तु न ऊर्जा꣡म् प꣡तिर् गि꣡रः स꣡  
 न꣡भस् त꣡रीयाँ इषिरः꣡ प꣡रिज्मा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि स्रु꣡चो बबृहाण꣡स्य अ꣡द्रेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 शृ॒ण्वन्तु॑ । आपः॑ । पुरः॑ । न । शु॒भ्राः । परि॑ । स्रुचः॑ । ब॒बृ॒हा॒णस्य॑ । अद्रेः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
@@ -119,7 +119,7 @@ genre M
 **नः** अस्माकं **गिरः** स्तुतीः **शृणोतु** । कः । **ऊर्जा** बलानां **पतिः** वायुः । अथवा ऊर्जामन्नानां पतिः । प्राणोपाधिकस्य वायोः कृत्स्नात्तृत्वं प्रसिद्धम् । श्रुतिश्च भवति-- प्राणस्यान्नमिद सर्वं प्रजापतिरकल्पयत्' (मनु. ५. २८) इति । **स** **नभः** नभसि चारी **तरीयान्** तरितव्यः **इषिरः** गमनशीलः **परिज्मा** परितो गन्ता । किंच **आपः** **शृण्वन्तु** गिरः । कीदृश्यस्ता:। **पुरो** **न** पुराणीव **शुभ्राः** दीप्ताः **बबृहाणस्य** वर्धमानस्य **अद्रेः** मेघस्य वा पर्वतस्य वा **परि** परितः **स्रुचः** सरणशीलाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M
 Bright as cities: **puro** na **śubhrāḥ** = purāṇi iva **dipta**, shining like cities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him hear our hymns—the lord of nourishments; he [=Agni] is the  vigorous encircler, passing more quickly than a cloud.  
 Let them hear—the Waters, resplendent like the fortifications of a  
 mountain that encloses the offering ladles [=cows].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a number of difficulties. The first is the easiest solved: who is the referent of ab? Although this is almost universally taken to be the Wind, I think it is more likely Agni. Only Agni is called ūrjā́m páti- “lord of nourishments” (otherwise only in the voc. ūrjām pate), also ūrjó nápāt “child of nourishment.” Given this exclusive identification, it seems unlikely that the audience would assign a different referent, esp. since ūrjā́m pátiḥ is the first epithet encountered and sets the frame of reference; the others only show up in pāda b. Moreover, though párijman- ‘earth-circling’ is used of the Wind, it also refers to other entities, including, fairly often, Agni (VI.2.8, VI.13.2, VII.13.3, I.127.2, III.2.9). The other descriptor in b, iṣirá- ‘vigorous’, is applied to a variety of beings and things, including the Wind, but also Agni (III.2.14, 5.4). The only activity posited of the subject of this hemistich is nábhas tárīyān (for which see below), which is also applicable to either.
 
@@ -150,23 +150,23 @@ It then moves, via the simile, to the natural world (mountain fortifications) an
 If this interpr. is correct, it is a very condensed and clever expression.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the swift Wanderer, Lord of refreshments listen to our songs, who speeds throuih cloudy heaven:  
      And may the Waters, bright like castles, hear us, as they flow onward from the cloven mountain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen unsere Lobesworte hören der Herr der Kräfte, der emsige, umfahrende Wind, der schneller als die Wolke ist. Es sollen uns die Gewässer hören, die glänzend wie die Burgen des ....... umschließenden Berges.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Kräfte Herr, der das Gewölk durchfähret, der rege Wandler höre unsre Lieder; Die Wasser hören, die wie Burgen glänzen, die Somalöffel rings des dichten Presssteins.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да услышит наши песни повелитель сил,  
 Тот, (что) стремительнее облака, деятельный, мчащийся вокруг (света)!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ उ स्य꣡ वृ꣡षा र꣡थो  
 अ꣡व्यो वा꣡रेभिर् अर्षति  
 ग꣡छन् वा꣡जं सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गच्छ॑न् । वाज॑म् । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स्यः** स प्रसिद्धः **एषः** अभिषुतः सोमः **वृषा** वर्षिता **रथः** रंहणस्वभावः **अव्यो** **वारेभिः** अवेर्वालैर्दशापवित्रेण **अर्षति** गच्छति कलशम् । **वाजम्** अन्नं **सहस्रिणं** सहस्रसंख्याकं यजमानाय प्रदातुं **गच्छन्** द्रोणकलशं प्रविशन्नर्षतीत्यर्थः । **उ** पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,34 +96,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The chariot: **rathaḥ** = raṃhaṇa **svabhāvaḥ**, swift
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very one, a bull, a chariot, rushes through the sheep’s fleece,  
 going to the thousandfold prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two nominatives vṛ́ṣā ‘bull’ and ráthaḥ ‘chariot’ are juxtaposed, each qualifying Soma. I consider them separate characterizations, with Soma as both bull and chariot; so also Oberlies (RelRV II.71, 229). Geldner takes vṛṣā́as modifying ráthaḥ (“Dieser bullenhafte Wagen”), while Renou sneaks in a parenthesis to avoid identifying Soma with a chariot: “le-célèbre (soma), taureau, (cheval attelé au) char.” If taking them as independent seems too radical, Geldner’s solution takes fewer liberties with the text than Renou’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS Steer, this Chariot, rushes through the woollen filter, as he goes  
      To war that wins a thousand spoils.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser bullenhafte Wagen eilt durch die Schafhaare, nach dem tausendwertigen Siegerpreis laufend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dieser Stier, dem Wagen gleich rennt durch die Widderwolle hin, Er geht auf tausend Güter aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

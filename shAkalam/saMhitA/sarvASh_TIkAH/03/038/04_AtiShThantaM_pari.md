@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आति꣡ष्ठन्तम् प꣡रि वि꣡श्वे अभूषञ्  
 छ्रि꣡यो व꣡सानश् चरति स्व꣡रोचिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ विश्व꣡रूपो अमृ꣡तानि तस्थौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हत् । तत् । वृष्णः॑ । असु॑रस्य । नाम॑ । आ । वि॒श्वऽरू॑पः । अ॒मृता॑नि । त॒स्थौ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ātiṣṭhantam* ← *āsthā* ← *√sthā*
 - \[verb noun\], accusative, singular
@@ -131,7 +131,7 @@ genre M
 **विश्वे** सर्वे कवयो रथम् **आतिष्ठन्तम्** इन्द्रं **परि** **अभूषन्** । परितोऽलमकुर्वन् । **स्वरोचिः** । स्वमेव रोचिर्यस्यासौ स्वरोचिः । स्वप्रभयैव दीप्यमान इत्यर्थः । अत एव **श्रियः** दीप्तीः **वसानः** आच्छादयन् सोऽयमिन्द्रः **चरति** सर्वत्र वर्तते । **वृष्णः** कामानां वर्षितुः **असुरस्य** । अस्यति प्रेरयति सर्वानन्तर्यामितयेत्यसुरः । तस्येन्द्रस्य **तत्** तादृशमनुभूतपूर्वं **नाम** । नमयति सर्वान् अनेन शत्रूनिति नाम कर्म । यद्वा नम्यते सर्वैर्नमस्क्रियते इति नाम इन्द्रस्य शरीरं कर्म वा। **महत्** आश्चर्योपेतं वर्तते । तथा **विश्वरूपः** नानाविधरूपतां भजमानः स इन्द्रो वरुणात्मना **अमृतानि** जलानि **आ** **तस्थौ** अधितिष्ठति ॥ विश्वे । जसः शी। अभूषन् । ‘ भूष अलंकारे' ' इत्यस्य लङि रूपम् । वसानः । वस आच्छादने ' इत्यस्य शानचि रूपम्। तस्य लसार्वधातुकस्वरे थातुस्वरः। नाम। ‘ णमु प्रह्वत्वे 'इत्यस्मात् 'नामन्सीमन” ' इत्यादिना मनिन्प्रत्ययान्तत्वेन निपातनादाद्युदात्तः । विश्वरूप इति तस्य संज्ञा । ‘ बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । अमृतानि । ‘ कालाध्वनोरत्यन्तसंयोगे' इति द्वितीया । तस्थौ । तिष्ठतेर्लिटि णलि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,14 +142,14 @@ genre M
 The influencer of consciences: the text has only asurasya; the term is explained by prerakasya antaryāmitava, impeller, from being in the inner spirit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As he was mounting they all tended to him. Donning beauties, he  roams about with his own light.  
 Great is that name of the bull, the lord. Possessing all forms  
 [/Viśvarūpa], he mounted the immortal (things/worlds).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I believe that this vs. turns to the first creation, before the poets’ intervention that was presented in vss. 2-3. It is appropriate that the entities described here are unidentified, for this is the time before the poets brought their verbal skills to bear. The central figure in this vs. is introduced merely by an acc. participle (ātíṣṭhantam ‘mounting’). The form makes it clear that the referent is masculine and singular, but no other information is given; there is not even a pronoun. Likewise the subj. of the verb pári … abhūṣan ‘they tended’ is given only as víśve ‘all’. Again we know the gender (masc.) and the number (pl.), but not the identity: poets (from vs. 2)? gods (the frequent default referent of víśve)? Rather than suggesting referents for these two entities as the standard tr. do, I think we should accept that the lack of referential clues is deliberate.
 
@@ -162,23 +162,23 @@ He/it is creation before differentiation. (For a similar figure in a similarly m
 -rūpa-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as he mounted up they all adorned him: self-luminous he travels clothed in splendour.  
      That is the Bull's, the Asura's mighty figure: he, omniform, hath reached the eternal waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle umringten ihn, als er den Wagen bestieg. Seine Herrlichkeiten anlegend wandelt der Selbsterleuchtende. Dies ist der große Name des Bullen Asura: als Visvarupa Allgestaltig hat er unsterbliche Namen angenommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie alle schmückten den, der nun emporstieg [die Sonne]; in Glanz gekleidet wandert er selbstleuchtend, das ist des himmlischen Stieres grosses Wesen; der allgestaltige stieg empor zur Welt der Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все окружили его, восходящего (на колесницу).  
 Облачаясь в великолепие, он странствует, обладая собственным блеском.  

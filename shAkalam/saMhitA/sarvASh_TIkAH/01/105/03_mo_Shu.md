@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ षु꣡ देवा अदः꣡ सु꣡वर्  
 अ꣡व पादि दिव꣡स् प꣡रि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 मा । सो॒म्यस्य॑ । श॒म्ऽभुवः॑ । शूने॑ । भू॒म॒ । कदा॑ । च॒न । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M;; repeated line
 हे **देवाः** **स्वः** स्वर्गे वर्तमानम् **अदः** तदस्मदीयं पितृपितामहप्रपितामहात्मकं संतानं **दिवस्परि** दिवश्चोपरि वर्तमानं **मो** **षु** मैव **अव** **पादि** अवपन्नं विपन्नं प्रभ्रष्टं मा भूत् मम पुत्राभावात् । पुत्रेण लोकान् जयति ‘नापुत्रस्य लोकोऽस्ति ' ( ऐ.ब्रा. ७. १३ ) इति श्रुतेः । अतो वयं **सोम्यस्य** सोमपानार्हस्य पितृगणस्य **शंभुवः** सुखस्य भावयितुः पुत्रस्य **शूने** अपगमने **कदा** **चन** कदाचिदपि **मा** **भूम** । युष्मत्प्रसादात् मम पुत्रा जायन्ताम् । अतो मामस्माद्दुःखादुत्तारयतेत्यर्थः। हे द्यावापृथिव्यौ युवां च मदीयं विज्ञापनं जानीतम् ॥ मो। मा उ इति निपातद्वयसमुदायः मैवेत्यस्यार्थे । सु इत्येतदवधारणे । ‘ सुञः' इति षत्वम् । पादि ।' पद गतौ ।' चिण् ते पदः ' ( पा. सू. ३. १. ६० ) इति कर्तरि लुङि च्लेः चिणादेशः । दिवः । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । ‘पञ्चम्याः परावध्यर्थे ' इति विसर्जनीयस्य सत्वम् । सोम्यस्य ।' सोममर्हति यः' ( पा. सू. ४. ४. १३७ ) इति यप्रत्ययः । शंभुवः । भवतेरन्तर्भावितण्यर्थात् क्विप् । शूने। ‘टुओश्वि गतिवृद्धयोः' । भावे निष्ठा। ‘ श्वीदितो निष्टायाम्' इति इट्प्रतिषेधः । ‘वचिस्वपि ' इत्यादिना संप्रसारणम् । ‘ओदितश्च' (पा. सू. ८. २. ४५) इति निष्ठानत्वम् । व्यत्ययेनाद्युदात्तत्वम् । वृषादिर्वा द्रष्टव्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -139,34 +139,34 @@ genre M;; repeated line
 Be excluded from it: **Trita** anticipates for himself a failure of posterity: 'by a son a man conquers the worlds; there is no world (**loka**) for one who has no son' (nāputrasya lokosti) (**Aitareya** **Brāhmaṇa** 7.13)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not, o gods, yonder sun fall down [/be miscarried] from heaven. Let us never be in want of the beneficial somian (sap).  
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half-verse expresses fears about cosmic order, the second about earthly order as maintained by the sacrifice. The verb in b, áva pādi, also picks up the sex/procreation theme of 2cd, in that áva √pad is an idiom specialized for miscarriage (Jamison, Hyenas, 203-4).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O never may that light, ye Gods, fall from its station in the sky.  
      Ne'er fail us one like Soma sweet, the spring of our felicity. Mark this my woe ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchte, ihr Götter, jene Sonne doch nicht vom Himmel fallen, möchten wir niemals des heilsamen somischen Tranks entbehren.- Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie falle jene Sonne dort herab vom Himmel, Götter ihr, Und nimmer mangle uns der Saft des heilbegabten Somatranks. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не упадет, о боги,  
 Вот то солнце вниз!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡स्य ते ज्रयसान꣡स्य अजर  
 ध꣡क्षोर् न꣡ वा꣡ताः प꣡रि स꣡न्ति अ꣡च्युताः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्रितं꣡ नशन्त प्र꣡ शिष꣡न्त इष्ट꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । र॒ण्वासः॑ । युयु॑धयः । न । स॒त्व॒नम् । त्रि॒तम् । न॒श॒न्त॒ । प्र । शि॒षन्तः॑ । इ॒ष्टये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M
 हे **अजर** जरारहित अग्ने **ज्रयसानस्य** ॥ ज्रयतिर्गत्यर्थः ॥ बाहुलकादस्मादप्यसानच्प्रत्ययः ॥ गमनशीलस्य **धक्षोः** ॥ दहेः सन् । ‘ द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम्' ( का. ६.१.८.१ ) इति द्विर्वचनाभावः । तदन्तादुप्रत्ययः । अरण्यदहनेच्छोः **यस्य** **ते** तव स्वभूताः **अच्युताः** शत्रुभिः अच्यवनीयाः प्रभावाः **वाता** **न** वायव इव **वि** **परि** **सन्ति** सर्वतो विशेषेण वर्तन्ते ॥ सन्ति । अस्तेर्लट् । यद्योगादनिघातः ॥ **युयुधयो** **न** । युधेः किन्प्रत्ययः ॥ योद्धार इव **रण्वासः** शीघ्रं गन्तारः शब्दायमाना वा ऋत्विजः **इष्टये** यागाय **प्र** **शिषन्तः** प्रकर्षेण सिषन्तः सिषासन्तः संभक्तुमिच्छन्तः **सत्वनं** बलवन्तं **त्रितं** त्रिष्वाहवनीयादिषु स्थानेषु ततं विस्तृतं त्वाम् **आ** **नशन्त** । स्तुतिभिर्हविर्भिश्च व्याप्नुवन्ति । आङ्पूर्वो नशिर्व्याप्तिकर्मा । ‘आक्षाण आनट्' इति व्याप्तिकर्मसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O imperishable **Agni**, the invincible winds spread around you (who are) rapid in movement, anddesirous of consuming (the forest), like combatants( the priests) calling aloud, anxious to bestow (the oblation),glorify you, the mighty, stationed in the three (altars).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O unaging one, you whose (flames), as you spread out eager to burn, like  winds, (like) immovable (mountains), encircle (you)—  
 battle-lusty they reach Trita [=Agni] like combatants a consummate  warrior, commanding him to seek.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Everlasting, whom, far-striding fain to burn, the winds, uninterrupted, never overcome,  
      They have approached, as warriors eager for the fight, heroic Trita, guiding him to gain his wish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Alterloser, dessen Lauf, wenn du brennlustig nach allen Seiten läufst, die unentwegten Winde nicht aufhalten. Wie kampffrohe Soldaten zu einem Kriegsmann, so kamen sie zu Trita, ihn auffordernd, sich auf die Suche zu machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, ewig junger, den, wenn du dich weit erstreckst, die mächt'gen Winde nimmer hemmen, wenn du flammst; Wie muntre Kämpfer zu dem Tapfern, dringen sie zu Trita hin, ihn unterweisend zu der Fahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О ты нестареющий, чей (порыв), когда ты распространяешься в разные стороны,  
 Разгораясь, не удерживают постоянные ветры!  

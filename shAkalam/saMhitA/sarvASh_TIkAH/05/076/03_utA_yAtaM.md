@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उता꣡ यातं संगवे꣡ प्रात꣡र् अ꣡ह्नो  
 मध्यं꣡दिन उ꣡दिता सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ने꣡दा꣡नीम् पीति꣡र् अश्वि꣡ना꣡ ततान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दिवा॑ । नक्त॑म् । अव॑सा । शम्ऽत॑मेन । न । इ॒दानी॑म् । पी॒तिः । अ॒श्विना॑ । आ । त॒ता॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utā* ← *uta*
 - \[adverb\]
@@ -115,36 +115,36 @@ genre M
 अह्नो द्वेधा त्रेधा पञ्चधा पञ्चदशधा समाना: विभागाः सन्ति । इह पञ्चधा विभाग आत्तः । **उत** अपि च **आ** **यातम्** आगच्छतम् । कदा **संगवे** संगवकाले । संगच्छन्ते गावो दोहभूमिं यस्मिन् काले स संगवः । रात्र्यपरकाले हि गावो वने हिमतृणानि भक्षयित्वा पुनर्दोहाय संगवे प्रतिनिवर्तन्ते । तथा **प्रातः** प्रातःकालेऽपि । तथा **मध्यंदिने** **अह्नः** मध्यकाले **सूर्यस्य** **उदिता** उदितौ अभ्युदये अत्यन्तप्रवृद्धसमये अपराह्ने इत्यर्थः । एतत् सायाह्नस्याप्युपलक्षणम् । न केवलम् उक्तेष्वेव कालेषु किं तर्हि **दिवा** **नक्तं** सर्वदा **शंतमेन** सुखतमेन **अवसा** रक्षणेन हविषा वा निमित्तेन आ यातम् । किमर्थमागम्यते पूर्वमेवान्यैर्देवैः स्वीकृतत्वात् नेत्याह । **इदानीम्** अपि **पीतिः** इतरदेवानां पानं **न** **आ** **ततान** न तनोति **अश्विना** अश्विनौ विहायेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether you come at the (milking time) of the cattle, at the dawn of day, at noon, when the sun is high, or by day or by night, (come) with felicitious protection; the drinking of the **Soma** has not now extended beyond the **Aśvins**. (whether you come: the day is divisible into two, three, five or fifteen parts; here the five-fold distinction is alluded to: uditā sūryasya = the afternoon, atyanta **pravṛddha** **samayaḥ** **aparāhṇa** ityarthaḥ; the drinking of the soma...Aśvins: nedānīm pītir aśvinā tatāna: legend-- the other gods refused to admit the participation of the Aśvins in the Soma libation at these hours, but on the present occasion they are not passed over; idānim api itaradevānām pānam na tanotyaśvinau vihāya, but now the drinking of the other gods does not extend, having omitted the two Aśvins\]”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And journey here at the ingathering of cattle and at the early morning of  the day, at midday and at the rising of the sun, and  
 by day and at night with your most luck-bringing help. Does the drink  not right now stretch to the Aśvins?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, come at milking-time, at early morning, at noon of day and when the Sun is setting,  
      By day, by night, with favour most auspicious. Not only now the draught hath drawn the Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet auch zur Melkzeit, früh am Morgen, um Mittag, bei Aufgang der Sonne, am Tage, des Nachts mit wohltuendster Gnade! Nicht hat jetzt der Trank die Asvin warten lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und kommt zur Melkzeit frühe her am Tage, zur Mittagszeit und bei der Sonne Weggang, Bei Tag, bei Nacht mit segensreichster Hülfe; nicht jetzt erst wartet auf die Ritter Trank hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также приходите ко времени доения коров, рано утром,  
 В полдень, на восходе солнца,  

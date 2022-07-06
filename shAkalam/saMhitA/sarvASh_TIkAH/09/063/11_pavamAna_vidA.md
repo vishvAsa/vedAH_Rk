@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान विदा꣡ रयि꣡म्  
 अस्म꣡भ्यं सोम दुष्ट꣡रम्  
 यो꣡ दूणा꣡शो वनुष्यता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः । दुः॒ऽनशः॑ । व॒नु॒ष्य॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -74,19 +74,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** °सोम **यः** रयिः **वनुष्यता** हिंसकेनं शत्रुणा **दूणाशः** नाशयितुमशक्यः तं शत्रुभिः **दुष्टरं** **रयिं** धनम् **अस्मभ्यं** **विदाः** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, grant us wealth unassailable (by our foes), and which cannot be destroyed by the enemy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying Soma, find wealth for us that is difficult to surpass, that is difficult to attain by one who craves it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vidā́as lengthened impv. rather than subjunctive vidā́(ḥ), see comm. ad IX.19.6. It is accented because it is preceded by a voc. in zero-position.
 
@@ -100,23 +100,23 @@ No particular unity, though vss. 11-12 are concerned with wealth.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma Pavamana, find wealth for us not to be assailed,  
      Wealth which the foeman may not win.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Pavamana, find uns Reichtum, der schwer zu überbieten ist, o Soma, der von dem Eifersüchtigen kaum zu erreichen ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenk uns, Soma, flammender, den Schatz, der unentreissbar ist Und unerreichbar für den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

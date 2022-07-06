@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महाँ꣡ उता꣡सि य꣡स्य ते  
 अ꣡नु स्वधा꣡वरी स꣡हः  
 मम्ना꣡ते इन्द्र रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒म्नाते॒ इति॑ । इ॒न्द्र॒ । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -88,21 +88,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **इन्द्र** त्वं **महान्** **असि** सर्वाधिकोऽसि । हे इन्द्र **यस्य** **ते** तव **सहः** बलं **स्वधावरी** अन्नवत्यौ **रोदसी** द्यावापृथिव्यौ **अनु** **मम्नाते** अनुमन्येते । त्वदीयं सहः सर्वाधिकमित्यत्रोभावपि लोकौ विसंवादं न कुरुत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You verily are great; and heaven and earth abounding with food, respect, **Indra**, your strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you are great, you to whose might the two autonomous  
 world-halves  
 have yielded, o Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -118,23 +118,23 @@ Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, great art thou whose conquering might two independent Powers confess.  
      The Heaven, O India, and the Earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch bist du der Große, dem die beiden eigenmächtigen Welten die Überlegenheit zugestanden haben, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und gross, o Indra, bist du doch, dem Erd' und Himmel zugestehn Die Obermacht, die herrlichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также ты тот великий (бог),  
 Которому две самовластные половины вселенной  

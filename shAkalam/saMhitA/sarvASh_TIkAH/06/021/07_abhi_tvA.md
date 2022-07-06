@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्वा पा꣡जो रक्ष꣡सो वि꣡ तस्थे  
 म꣡हि जज्ञान꣡म् अभि꣡ त꣡त् सु꣡ तिष्ठ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡ज्रेण धृष्णो अ꣡प ता꣡ नुदस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तव॑ । प्र॒त्नेन॑ । युज्ये॑न । सख्या॑ । वज्रे॑ण । धृ॒ष्णो॒ इति॑ । अप॑ । ता । नु॒द॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -136,20 +136,20 @@ genre M
 **रक्षसः** रक्षसां संबन्धि **पाजः** सेनालक्षणं बलं हे इन्द्र **त्वा** **अभि** त्वामभिमुखं **वि** **तस्थे** प्रतिष्ठते । तथा त्वमपि **महि** महत् **जज्ञानं** प्रादुर्भवत् **तत्** बलम् **अभि** अभिमुखः सन् **सु** सुष्ठु “ तिष्ठ स्थिरो भव । स्थित्वा च हे **धृष्णो** शत्रूणां धर्षकेन्द्र **तव** त्वदीयेन **वज्रेण**      **ता** तद्बलम् अप **नुदस्व** अपगतं प्रेरय । छिन्धीत्यर्थः । कीदृशेन । **प्रत्नेन** पुराणेन **युज्येन** नियोज्येन **सख्या** नित्यसहायेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The strength of the **rākṣasas** is concentrated against you; bear up well against that mighty manifested (effort); scatter them, valiant (**Indra**), with your old associate, your friend, the thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The face of the demon has spread out against you, who were born  great. Stand up to it well!  
 With your ancient, conjoined comrade, your mace, o bold one, thrust  these away.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 JPB suggests that the “face of the demon” spreading out against Indra is hood of the cobra, namely Vṛtra.
 
@@ -160,23 +160,23 @@ s-stem pā́jaḥ. Technically speaking, of course, máhi is neut. and might the
 The 2nd hemistich seems implicitly to convey that our anxieties about our intimacy with Indra were well-founded. In 5ab our forebears were identified as Indra’s “ancient comrades” (pratnā́saḥ … sákhāyaḥ), with later generations apparently grandfathered into this select group (5cd). But here we learn who Indra’s “ancient comrade” really is — his mace: táva pratnéna yújyena sákhyā vájreṇa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The demon's strength is gathered fast against thee: great as that strength hath grown, go forth to meet it.  
      With thine own ancient friend and companion, the thunderbolt, brave Champion! drive it backward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gegen dich hat sich die Erscheinung des Unholdes breit gemacht, die groß geborene; der tritt fein entgegen! Mit deinem alten verbündeten Kameraden, der Keule, jage diese weg, du Mutiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Unholds Andrang trat dir rings entgegen, dem hochgebornen; dem begegne schnell nun; Mit deinem alten, tüchtigen Genossen, dem Blitz, o Kühner, stosse fort die Scharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Против тебя расползлась масса ракшаса,  
 Родившаяся огромной. Выступи решительно против нее!  

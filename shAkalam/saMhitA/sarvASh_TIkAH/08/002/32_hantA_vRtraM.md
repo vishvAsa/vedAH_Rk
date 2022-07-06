@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡न्ता वृत्रं꣡ द꣡क्षिणेन  
 इ꣡न्द्रः पुरू꣡ पुरुहूतः꣡  
 महा꣡न् मही꣡भिः श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 म॒हान् । म॒हीभिः॑ । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hantā* ← *han*
 - \[verb\], singular, periphrast. future
@@ -85,36 +85,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अयम् **इन्द्रः** **दक्षिणेन** हस्तेनैकेनैव **वृत्रम्** आवरकमसुरं **हन्ता** साधु हतवान्। हन्तेः साधुकारिणि तृन् । 'न लोकाव्यय ' इति षष्ठीप्रतिषेधः । **पुरु** पुरुषु । ‘सुपां सुलुक्' इति विभक्तेर्लुक् । बहुषु देशेषु **पुरुहूतः** **महीभिः** महतीभिः **शचीभिः** क्रियाभिः शक्तिभिर्वा **महान्** सर्वेभ्य उत्कृष्टः । एवंभूत इन्द्रोऽस्मान् रक्षत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the slayer of **Vṛtra** with his right **hand**, the invoked of many in many (plural ces), the mighty by mighydeeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is the smasher of Vr̥tra with his right (hand)—the many times  much-called-upon Indra,  
 the great one with great powers,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vrtra he slays with his right hand, even Indra, great with mighty power,  
      And much-invoked in many a place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Rechten tötet Indra den Vritra, der vielmals Vielgerufene, der groß ist an großen Kräften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra schlägt, der vielgerufne, oft den Feind mit seiner Rechten, Gross an grossen Heldenthaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Правой (рукой) он убивает Вритру  
 (Этот) Индра, очень много призываемый,  

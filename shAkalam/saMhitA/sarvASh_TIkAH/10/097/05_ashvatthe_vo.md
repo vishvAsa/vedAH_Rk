@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्वत्थे꣡ वो निष꣡दनम्  
 पर्णे꣡ वो वसति꣡ष् कृता꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡त् सन꣡वथ पू꣡रुषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 गो॒ऽभाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पुरु॑षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvatthe* ← *aśvattha*
 - \[noun\], locative, singular, masculine
@@ -109,7 +109,7 @@ popular;; epic anuṣṭubh (292)
 हे ओषधिदेवताः **वः** युष्माकम् अश्वत्थे **निषदनं** नितरां वर्तनम् । तथा **वः** युष्माकं **पर्णे** पलाशे **वसतिः** निवासः **कृता** । तृतीयस्यामितो दिवि सोम आसीत्तं गायत्र्याहरत्तस्य पर्णमच्छिद्यत तत्पर्णोऽभवत् तत्पर्णस्य पर्णत्वम् ' ( तै. ब्रा. १. १. ३. १०) इति ब्राह्मणात्पलाशस्य पर्णत्वप्रसिद्धिः । अश्वत्थपलाशयोर्यज्ञयोग्यत्वप्राधान्यापेक्षयोपादानम् । किंच **गोभाज** **इत्किल** गवां भाजयित्र्य एव **असथ** भवथ खलु । **यत्** यदि **सनवथ** संभजध्वे **पुरुषं** तर्ह्येवं भवथेति । ‘वन षण संभक्तौ । लेट्यडागमः । व्यत्ययेनोप्रत्ययः । यद्वा । औत्सर्गिकः शप्चेति द्विविकरणता ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ Aśvattha and Palāśa: the trees bear achief part in sacrifices and are, theref
 Palāśa = buteafrondosa; distributers of cattle: gobhājaḥ = gavām bhājayitryaḥ; or, go = **Āditya**, you are partakers of thesun, i.e., plural nts offered to fire or the offering thrown into the fire approaches the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your seat is in the aśvattha-tree; your nest is made in the parṇa-tree: you will surely get a share in the cow when you will gain [=cure]  
 the man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Holy Fig tree is your home, your mansion is the Parna tree:  
      Winners of cattle shali ye be if ye regain for me this man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Asvatthabaum ist euer Sitz, am Parnabaum euer Nest bereitet. Ihr werdet gewiß eine Kuh verdienen, wenn ihr den Mann gewinnen werdet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Feigenholz ist euer Bett, das Nestchen ist vom Bohnenbaum; Ihr wäret mir viel Geldes werth, wenn ihr mir rettetet den Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У (дерева) ашваттха место вашего обитания,  
 У (дерева) парна сделано ваше гнездо.  

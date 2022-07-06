@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वः पा᳐꣡न्तम् अ꣡न्धसो धियायते꣡  
 महे꣡ शू꣡राय वि꣡ष्णवे च अर्चत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मह꣡स् तस्थ꣡तुर् अ꣡र्वतेव साधु꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 या । सानु॑नि । पर्व॑तानाम् । अदा॑भ्या । म॒हः । त॒स्थतुः॑ । अर्व॑ताऽइव । सा॒धुना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -121,21 +121,21 @@ genre M
 हे अध्वर्य्वादयः **वः** युष्माकं संबन्धि **पान्तं** पालनस्वभावं पातव्यं वा **अन्धसः** अन्धः सोमरूपमन्नं **प्र** **अर्चत** प्रकर्षेण संपादयत । कस्मै । **धियायते** स्तुतीरिच्छते **महे** महते **शूराय** विक्रान्तायेन्द्राय **विष्णवे** व्यापकायैतन्नामकाय देवाय **च** । कस्तयोरतिशय इति उच्यते । **या** यौ इन्द्राविष्णू **पर्वतानां** प्रीणनवतां पूरणवतां वा । पर्वतशब्दो यास्केनैवं निरुक्तः -- ‘ पर्ववान् पर्वतः पर्व पुनः पृणातेः प्रीणातेर्वा ' इति । उक्तलक्षणानां लोकानाँ **सानुनि** समुच्छ्रितप्रदेशे । सर्वलोके इत्यर्थः । अथवा मेघानां समुच्छ्रितप्रदेशे । पर्वतशब्दः मेघनामसु उक्तत्वात् । तत्र **तस्थतुः** तिष्ठतः । कीदृशौ तौ । **अदाभ्या** अदम्भनीयौ परैरनभिभाव्यौ अत एव **महः** महान्तौ । यद्वा । महो महसि स्वतेजसि सानुनीत्यनेन संबन्धः । तत्र दृष्टान्तः । **साधुना** अभिमतदेशप्रापणसमर्थेन **अर्वता** वेगवताश्वेन **इव** । तेन यथा अत्युच्छ्रितं प्रदेशमारोहति तद्वदुच्चं पदमारूढौ । तस्मात्ताभ्यामर्चत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer your nutritious viands to the great hero, (**Indra**), who is plural ased by praise, and to **Viṣṇu**, the two invincible deities who ride upon the radiant summit of the clouds as upon a well-trained steed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Announce in chant the drink from the stalk to the great champion who  exercises insight [=Indra] and to Viṣṇu,  
 the two undeceivable ones who stand on the back of the mountains  
 mightily like (riders) on a steed heading straight to the goal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 2nd pl. vaḥ is one of those vague oblique references to the ritual personnel, here something like “on your own behalf.” Because such a throw-away Sanskrit word requires such a heavy English tr., I omitted it in the published translation
 
@@ -144,23 +144,23 @@ pā́ntam here belongs to the nominal stem pā́nta- ‘drink’; see comm. ad I
 As Geldner points out, loc. sā́nuni and instr. árvatā show case disharmony between frame and simile, in this case presumably because instr. árvatā is idiomatic. This is one of the few instances in the RV referring to horseback riding.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To the great Hero, him who sets his mind thereon, and Visnu, praise aloud in song your draught of juice,--  
      Gods ne'er beguiled, who borne as 'twere by noble steed, have stood upon the lofty ridges of the hills.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preiset den Trank eures Somasaftes dem großen, tapferen Indra, dessen Sinn danach steht, und dem Vishnu an, die beide unbetörbar auf dem hohen Rücken der Berge stehen wie der Reiter auf einem tauglichen Streitroß reitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, preist dem grossen Helden und dem Vischnu auch, die darauf achten, euren Trunk des Soma's an; Die unverletzlich zu der Berge Gipfeln gehn hoch wie auf schnellem Rosse, das zum Ziele dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспойте ваш напиток из сока сомы  
 Настроенному (на это) великому герою и Вишну,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यु꣡वानं विश्प꣡तिं कविं꣡  
 विश्वा꣡दम् पुरुवे꣡पसम्  
 अग्निं꣡ शुम्भामि म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । शु॒म्भा॒मि॒ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **युवानं** नित्यतरुणं **विश्पतिं** विशां पतिं **कविं** क्रान्तकर्माणं **विश्वादं** सर्वस्य हविषोऽत्तारं **पुरुवेपसं** बहुकर्माणम् । ‘वेशः वेपः' इति कर्मनामसु पाठात् । **अग्निं** मन्मभिः मननीयैः स्तोत्रैः। **शुम्भामि** शोभयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 All-devouring: viśvādam = the devourer of the entire oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The youthful clanlord, the sage poet, omnivorous, pulsing with much  excitement—  
 Agni do I beautify with my thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, Agni is repeatedly referred to as both ‘inspired poet’ (vípra-) and ‘sage poet’ (kaví-) in this hymn, sometimes with the words in the same vs. (12, 21). Here -vépas-, belonging to the root of vípra-, √vip ‘tremble, become inspired’, co-occurs with kaví-, filling the contrastive vípra- role.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Youthful Lord of men, who stirreth much and eateth all,  
      The Sage, I glorify with hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den jungen Stammesfürsten, den Seher, den Allesfresser, den Agni, der in vielen Zungen redet, den Agni mache ich mit Gedichten schön.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den jungen, weisen Menschenherrn, der viel erregend, viel verzehrt, Dem Agni schmück' ich mit Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Юного господина племен, поэта,  
 Всепожирателя, многотрепетного (бога),  

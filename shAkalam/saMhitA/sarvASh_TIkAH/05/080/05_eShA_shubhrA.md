@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ शुभ्रा꣡ न꣡ तनु꣡वो विदाना꣡  
 ऊर्ध्वे꣡व स्नाती꣡ दृश꣡ये नो अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ दिवो꣡ दुहिता꣡ ज्यो꣡तिषा꣡गात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अप॑ । द्वेषः॑ । बाध॑माना । तमां॑सि । उ॒षाः । दि॒वः । दु॒हि॒ता । ज्योति॑षा । आ । अ॒गा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -129,20 +129,20 @@ genre M
 **एषा** उषाः **शुभ्रा** **न** शुभ्रवर्णा निर्मला स्वलंकृता योषिदिव **तन्वः** अङ्गानि **विदाना** प्रज्ञापयन्ती **स्नाती** स्नानं कुर्वाणा **ऊर्ध्वेव** उन्नतेव स्नानादुत्तिष्ठन्तीव **नः** अस्मदर्थम् अस्माकं पुरतो वा **दृशये** सर्वेषां दर्शनाय उत् **अस्थात्** पूर्वस्यां दिशि उत्तिष्ठति। किं कुर्वती । **द्वेषः** द्वेष्याणि **तमांसि** **अप** **बाधमाना** **दिवो** **दुहिता** **उषाः** **ज्योतिषा** तेजसा सह 'आगात् आगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “exhibiting her person n like a well-attired feminine le, she stands before our eyes, (gracefully) inclining like (a woman who has been) bathing; dispersing the hostile glooms, Uṣas, the daughter of heaven, comes with radiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, like a beauty who knows her own body, has stood up erect like a  bather for us to see.  
 Thrusting away hatred and the shades of darkness, Dawn, the Daughter  of Heaven, has come here with her light.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ Thrusting away hatred and the shades of darkness, Dawn, the Daughter  of Heaven,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As conscious that her limbs are bright with bathing, she stands, as 'twere, erect that we may see her.  
      Driving away malignity and darkness, Dawn, Child of Heaven, hath come to us with lustre.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie ist wie eine Schöne sich ihres Körpers bewußt; sie steht wie eine Badende aufgerichtet da, um sich beschauen zu lassen. Die Anfeindungen, die Finsternis vertreibt sie; mit ihrem Lichte ist Usas, die Himmelstochter, gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie reingewaschen ihre Glieder zeigend, stand wie gebadet aufrecht uns zu schauen die Morgenröthe; weg die Feindschaft jagend und Dunkel, kam mit Licht des Himmels Tochter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она, словно красавица, осознающая (свое) тело,  
 Встала, будто стоя купаясь, чтоб мы ее видели.  

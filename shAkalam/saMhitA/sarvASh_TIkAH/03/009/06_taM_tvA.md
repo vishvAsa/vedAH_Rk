@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा म꣡र्ता अगृभ्णत  
 देवे꣡भ्यो हव्यवाहन  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 त꣡व क्र꣡त्वा यविष्ठिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑न् । यत् । य॒ज्ञान् । अ॒भि॒ऽपासि॑ । मा॒नु॒ष॒ । तव॑ । क्रत्वा॑ । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -109,42 +109,42 @@ genre M
 हे हव्यवाहन हव्यानां वोढर्हे अग्ने मर्ता मनुष्या अध्वर्युप्रभृतयस्तं तादृशमप्सु तिरोहितं त्वा त्वां देवेभ्यो यश्टव्यदेवतार्थमगृभ्णते । अगृह्णत । मनुष मनुष्याणां हितकारन्यविष्ठ्य युवतम हे अग्ने तव क्रत्वा तव कर्मणा महात्म्येन विश्वन्सर्वानस्माभिः क्रियमाणान्यज्ञान्यद्यस्मात्कारणादभिपासि । सर्वतः पालयसि तस्मात्त्वामगृभ्जतेति पुर्वत्रान्वयः । अगृभ्जत । ग्रह उपादाने क्र्यादित्वाच्छ्ना । ग्रहिज्यावयीति सम्प्रसारणम् । हृग्रहोर्भश्चन्दसीति हकारस्य भकारः । तिङ्ज तिङ् इति निघातः । हव्यवाहन । वह पापण इति धातोर्ञ्युडित्यनुवृत्तौ । हव्यहव्येऽनन्तः पादमिति त्र्युट् । उपधावृद्धिः । योरनादेशः । अपादादित्वादाष्टमिकमनुदात्तत्वम् । विश्वान् । विश प्रवेशन इत्यस्मादशिप्रुषिलटिकरणिकणिखटिविशिभ्यः क्वन्निति क्वन् । कित्त्वाद्गुणाभावः । नित्त्वादाद्युदात्तत्वम् । अभिपासि । पारक्ष्णे । अस्य धातो रक्षणार्थत्वान्न षिबादेशः । यच्छब्दयोगान्न निघातह् । धातुस्वरः । क्रत्वा । टा । जसादयश्चन्दसि विकल्प्यन्त इत्यत्र नादेशाभावह् । यणादेशः । प्रत्ययस्वरः । यविष्ठ्य । युवशब्दादतिशायने तमबिष्ठनावितीष्ठन् । स्थूलदूरयुवेति यणादि परं लुप्यते पुर्वस्य च गुणः । वस्वादित्वात्स्वार्थिको यप्रस्ययः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearer of oblations,men apprehend you (thus concealed) for the service of the gods, and that you youngest (of the deities) and friendly to manking, may recompense by your acts all their pious rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are he whom mortals seized, o you who convey oblations to  
 the gods,  
 since you, son of Manu, guard all sacrifices according to your resolve,  youngest one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Bearer of Oblations, thus mortals received thee from the Gods,  
      Whilst thou, the Friend of man, guardest each sacrifice with thine own power, Most Youthful One.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (And thus) the mortals have taken thee up, O carrier of sacrificial food towards the gods 1, because thou, O (god) belonging to Manus, protectest all sacrifices by the power of thy mind, O youngest one!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich hielten die Sterblichen fest, der du den Göttern das Opfer zuführst, daß du alle Opfer beaufsichtigst, du Menschenerzeugter, mit deiner Umsicht, o Jüngster.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sterblichen ergriffen dich, der du den Göttern Tränke fährst, Weil alle Opfer du beschirmst, o Menschenfreund, o jüngster du mit deiner Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Таким тебя захватили смертные,  
 О возница жертв богам,  

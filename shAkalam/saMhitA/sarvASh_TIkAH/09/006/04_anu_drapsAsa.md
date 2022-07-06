@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु द्रप्सा꣡स इ꣡न्दव  
 आ꣡पो न꣡ प्रव꣡तासरन्  
 पुनाना꣡ इ꣡न्द्रम् आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नाः । इन्द्र॑म् । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -81,41 +81,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **द्रप्सासः** द्रुतगतयः **पुनानाः** क्षरन्तः **इन्दवः** सोमाः **प्रवता** प्रवणेन मार्गेण **आपो** **न** आप इव **इन्द्रम्** **अनु** **असरन्** अनुगच्छन्ति । **आशत** व्याप्नुवन्ति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The quickly-falling drops, as they filter, follow **Indra** and reach him, like waters rushing down a declivity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In succession, the droplets, the drops, have run like waters down  a slope.  
 Being purified, they have reached Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad IX.3.3, in contrast to pávamāna- ‘purifying oneself’, I consider other medial participles to √pū to be passive and have so tr. punāná- here, though there is no overt sign of passive value and both Geldner and Renou tr. as reflexive (also in 9a).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither the sparkling drops have flowed, like waters down a steep descent  
      They have reached Indra purified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somatropfen sind abgeflossen wie die Gewässer stromabwärts; sich läuternd sind sie zu Indra gelangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm strömten Indu-Tropfen nach, wie Wasser an dem Felsenhang; Geklärt erreichten Indra sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соки каплями устремились,  
 Словно воды по склону,  

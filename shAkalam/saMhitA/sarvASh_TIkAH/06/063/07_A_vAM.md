@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां व꣡यो · अ꣡श्वासो व꣡हिष्ठा  
 अभि꣡ प्र꣡यो नासतिया वहन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इषः꣡ पृक्ष꣡ इषि꣡धो अ꣡नु पूर्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । वा॒म् । रथः॑ । मनः॑ऽजवाः । अ॒स॒र्जि॒ । इ॒षः । पृ॒क्षः । इ॒षिधः॑ । अनु॑ । पू॒र्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,20 +122,20 @@ genre M
 हे नासत्यौ **वां** युवां **वयः** गन्तारः **वहिष्ठाः** वोढ़ृतमाः **अश्वासः** अश्वाः **प्रयः** सोमरूपमन्नम् **अभि** **आ** **वहन्तु** प्रापयन्तु । **वां** युवयोः **मनोजवाः** मनोवेगः **रथः** **पृक्षः** संपर्चनीयाः **इषिधः** एषणीयाः **पूर्वीः** बह्वीः **इषः** अन्नानि सोमान् **अनु** **प्र** **असर्जि** विसृष्टः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your rapid burden-bearing steeds bring you **Nāsatyās** to the (sacrificial) food; your chariot swift as thought has dispensed substantial, desirable, abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the birds, the horses that convey best, convey you to the pleasurable  offering, o Nāsatyas.  
 Your chariot swift as thought has been sent surging forth after the many  refreshments and the fortifying powers that bring refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the chariot journey in this vs. echoes the mythological one in vs. 6 but updated to a wish for the present day.
 
@@ -148,23 +148,23 @@ However, if iṣídh- is a variant of niṣṣídh- ‘tribute’ (see below), t
 The hapax iṣídh- is of uncertain formation and meaning, though it obviously falls into the category of desirable things at the ritual. There are (at least) two competing etymologies. One has it as the doublet of niṣṣídh- ‘tribute’ (for lit. see EWA I.198; favored by Renou); the other (see EWA I.200) as a deformation of a putative *iṣudh-, like the likewise hapax pṛkṣúdh- (I.141.4), serving as the base of the denom. iṣudhyá- and cognate to Aves. išud-. The ud(h)- in these forms is explained by Humbach as the zero-grade of the PIE root √*uedh ̯ ‘lead’, no longer found in Indo-Aryan as a verbal root. (I suggest an alternative etym. of iṣudhyá- ad I.128.6 and more fully in my forthcoming article “Vedic iṣudhyá- and Oldenberg Avestan išud-, išūidiia-: The Aim of Praise.”) Narten (YH 159-63) accepts Humbach’s etym. and further explains our iṣídh- as altered from *iṣúdh- by folk etymology with √idh ‘kindle, burn’ (162 n. 104) in passages in which the word is connected with Agni, since kindling wood is Agni’s source of strength. This last seems quite weak to me: ‘burn’ contributes no obvious semantics to the noun at least in its only occurrence here -- which has nothing to do with Agni -- and the iṣudhyá- forms, though not numerous, ought to provide some anchor against such a deformation. For this reason I tentatively follow the first interpr., though only because nothing better seems to be currently on offer. If iṣídh- is somehow a doublet of niṣṣídh-, which occurs several times with pūrvī́ḥ (III.51.5, VI.44.11) as here, then the reference would be to the tributes that the Aśvins received from the mortal worshippers. I would now alter the tr. to “… after the refreshments, fortifying powers, and the many tributes.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May your winged coursers, best to draw. Nasatyas! convey you to the object of your wishes.  
      Swift as the thought, your car hath been sent onward to food of many a sort and dainty viands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, ihr Nasatya´s, sollen die Vogelrosse, die besten Zugtiere, zum Opfergenuß fahren. Euer Wagen ist im vollen Laufe schnell wie der Gedanke; viele Labsale, Stärkungen folgen ihm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her mögen euch die Flügelrosse fahren, die schnellsten euch, o treue, zu dem Opfer; Vor eilte eur gedankenschneller Wagen zu Speisen, Tränken, vielen dargebrachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваши птицы-кони, возящие лучше всех,  
 Пусть привезут вас, о Насатьи, к жертвенной усладе!  

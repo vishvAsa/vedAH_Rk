@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡नो यो꣡ मित्रावरुणाव् अभिध्रु꣡ग्  
 अपो꣡ न꣡ वां सुनो꣡ति अक्ष्णयाध्रु꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡प य꣡द् ईं हो꣡तराभिर् ऋता꣡वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्व॒यम् । सः । यक्ष्म॑म् । हृद॑ये । नि । ध॒त्त॒ । आप॑ । यत् । ई॒म् । होत्रा॑भिः । ऋ॒तऽवा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jano* ← *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 अयमेव अक्ष्णयाद्रोहः। **सः** मूढो द्विविधो जनः **स्वयं** **यक्ष्मं** व्याधिं **हृदये** स्वचित्ते 'नि **धत्ते** स्थापयति । अनुष्ठातॄणां भोगान् पश्यन् व्यथितो भवतीत्यर्थः । **यत्** । लिङ्गव्यत्ययः । य उक्तविलक्षणः पुमान् **ऋतावा** यज्ञवान् परिगृहीतयज्ञः **होत्राभिः** । वाङ्नामैतत् । स्तुतिवाग्भिः **ईम्** एनं सोमरसम् **आप** व्याप्नोति । स्तुवन् सोममभिषुणोति इति यावत् । स नरः पृत्सु यातीति वक्ष्यमाणेन  सह संबन्धः ॥ अभिध्रुक् । द्रुहे:  ‘ सत्सूद्विप ' इति क्विप् । संहितायां भष्भावश्छान्दसः। ऋतावा इत्यत्र ‘ छन्दसीवनिपौ' इति मत्वर्थीयो वनिप् । **अन्येषामपि** दृश्यते ' इति संहितायां दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,36 +140,36 @@ genre M
 Akṣṇayā dhruk: cakreṇa, mārgeṇa druhyati, offends by a wheel, or a way; this is the equivalent of **anyathā** prakareṇa, in another manner; yakṣmam hṛdaye nidhatte:he plural ces or deposits consumption in the heart; but **yakṣma** = **vyādhi**, sickness in genitive ral; a reference, perhaps, to the sense of mortification experienced by those who neglect the gods on observing the blessings which recompense devotion.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A man who’s a liar, a crooked liar who presses (soma that’s) like water  for you two, o Mitra and Varuṇa,  
 he himself installs a wasting disease in his own heart, while the truthful  man gains his object through his oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This cautionary example of what happens to men who cheat the gods of proper offerings is clearly meant to warn stingy patrons.
 
 Note the echo between the openings of b #apó and d #ā́pa, which are entirely distinct grammatically. As for the latter, as Kümmel also notes, various forms of the perfect of √āp have presential value.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The folk, O Mitra-Varuna, who hate you, who sinfully hating pour you no libations,  
      Lay in their hearts, themselves, a wasting sickness, whereas the righteous gaineth all by worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der unredliche Mann, der euch, Mitra und Varuna, hinterlistig den Soma wie Wasser bereitet, der bringt sich selbst die Auszehrung ins Herz, während der rechttuende mit seinem Opfer Erfolg hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der feindselige, ohne Ursach hassende Mensch, welcher euch, o Mitra-Varuna, nicht Tränke braut, der zieht selbst in sein Innres die Krankheit hinein, während der fromme durch Opfer Erfüllung [seiner Wünsche] erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот злопамятный человек, о Митра и Варуна,  
 Что выжимает вам (сому,) как воду, с коварными помыслами,  

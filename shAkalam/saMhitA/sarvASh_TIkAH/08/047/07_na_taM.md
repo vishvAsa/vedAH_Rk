@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ तं꣡ तिग्मं꣡ चन꣡ त्य꣡जो  
 न꣡ द्रासद् अभि꣡ तं꣡ गुरु꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 यस्मै॑ । ऊं॒ इति॑ । शर्म॑ । स॒ऽप्रथः॑ । आदि॑त्यासः । अरा॑ध्वम् । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M;; repeated line
 **तं** मनुष्यं **तिग्मं** **चन** तीक्ष्णमेव सन्तं **त्यजः** । क्रोधनामैतत् । अत्र क्रोधात् प्रयुज्यमानमायुधमुच्यते । **न** **द्रासत्** । 'द्रा कुत्सायां गतौ । कुत्सितं नागच्छति । न हिनस्तीत्यर्थः । तथा **तं** जनं **गुरु** प्रवृद्धमपरिहारार्हं दुःखं **न** द्रासत् न गच्छति । हे आदित्यासः आदित्याः **सप्रथः** समानप्रथनाः सर्वतः पृथुभूता वा यूयं **यस्मा** **उ** यस्मै यजमानाय । उशब्दः पूरणः । **शर्म** सुखम् **अराध्वम्** अदत्त तं न द्रासदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,30 +152,30 @@ genre M;; repeated line
 Fierce wrath: tigmam: him, though fierce (orharsh) wrath touches not; you have iven great happiness: saprathas: neuter nominative singular agreeing with **śarma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Negligence, sharp or weighty, will never beset him  
 to whom you, Ādityas, have given broad shelter.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On him shall no fierce anger fall, no sore distress shall visit him,  
      To whom, Adityas, ye have lent your shelter that extendeth far.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weder heftige noch schwere Schuld wird den ereilen, dem ihr Aditya´s euren Schirm in ganzer Breite gewährt habt. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und den ereilt kein scharf Geschoss, noch stürzt auf den ein wuchtiges, Wem ihr, Aditja's, weiten Schirm und sichern Schutz verliehen habt; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никакое разящее, тяжелое  
 Предательство не постигнет того,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वां र꣡थो नृपती अ꣡स्ति वोळ्हा꣡  
 त्रिवन्धुरो꣡ व꣡सुमाँ उस्र꣡यामा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ य꣡द् वां विश्व꣡प्स्निओ जि꣡गाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । ए॒ना । ना॒स॒त्या॒ । उप॑ । या॒त॒म् । अ॒भि । यत् । वा॒म् । वि॒श्वऽप्स्न्यः॑ । जिगा॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 हे **नृपती** नृणां यजमानानां पालकावश्विनौ **वां** युवयोः **यः** **रथः** **वोळ्हा** युवयोर्वाहकः **अस्ति** सर्वदा संनिहितो वर्तते । कीदृशोऽसौ । **त्रिवन्धुरः** सारथ्यधिष्ठानस्थानत्रयोपेतः **वसुमान्** धनवान् **उस्रयामा** उस्रं दिवसं प्रति गन्ता । **एना** एतेन रथेन हे **नासत्या** अश्विनौ **नः** अस्मान् **उप** **आ** **यातम्** । **यत्** रथः यश्च रथः **वां** **विश्वप्स्न्यः** व्याप्तरूपः **अभि** **जिगाति** अभिगच्छति । अन्य आह । यद्यस्माद्विश्वप्स्न्यो वसिष्ठो वां जिगाति स्तौति अत उपा यातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ genre M
 Lord of men: nṛpatī nṛṇām yajamānānām pālakau; with that chariot: abhi yad vamviśvapsnyo jigāti = yo ratho vam vyāptarūpo abhigacchati; or, since **Vasiṣṭha** praises you, viśvapsnyaḥ =vasiṣṭha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The chariot that is the conveyor for you, o lords of men, having three  chariot-boxes, bearing good things, journeying at dawn—  
 by this (chariot) journey here to us, Nāsatyas, when what contains all  milk [=the hot-milk vessel?] goes to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The chariot, Princes, that conveys you, moving at daylight, triple-seated, fraught with riches,  
      Even with this come unto us, Nasatyas, that laden with all food it may approach us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wagen, der euch fährt, der dreisitzige, gutreiche, am Morgen ausfahrende, ihr Fürsten, auf dem kommet zu uns, Nasatya´s, wenn der Allgestaltige zu euch geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem Wagen, der euch fährt, o Fürsten, der früh erscheint, dreisitzig, reich an Gütern, Mit dem nun fahrt zu uns herbei, ihr treuen, wenn zu euch kommt der Trank, der alles nähret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) колесница, о два владыки, что служит вам перевозчиком,  
 С тремя сиденьями, полная добра, выезжающая на заре,  

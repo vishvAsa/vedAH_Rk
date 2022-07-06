@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दाभियो भु꣡वनानि प्रचा꣡कशद्  
 व्रता꣡नि देवः꣡ सविता꣡भि꣡ रक्षते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 धृत꣡व्रतो महो꣡ अ꣡ज्मस्य राजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । अ॒स्रा॒क् । बा॒हू इति॑ । भुव॑नस्य । प्र॒ऽजाभ्यः॑ । धृ॒तऽव्र॑तः । म॒हः । अज्म॑स्य । रा॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adābhyo* ← *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
@@ -112,36 +112,36 @@ genre M
 **सविता** **देवः** **अदाभ्यः** अन्यैरहिंसितः सन् **भुवनानि** **प्रचाकशत्** दीपयन् **व्रतानि** कर्माणि प्राणिनाम् **अभि** **रक्षते** । **भुवनस्य** लोकस्य **प्रजाभ्यः** तत्रत्याभ्यः **बाहू** स्वीयौ **प्रास्राक्** प्रसारयति । स्वस्वकर्मणे अनुजानातीत्यर्थः । सर्वव्यापाराणां सूर्याधीनत्वात् । सविता वै प्रसवानामीशे' ( ऐ. ब्रा. १. १६ ) इति हि श्रुतिः । **धृतव्रतः** धृतकर्मा स तथा कुर्वन् **महः** महतः **अज्मस्य** जगतः **राजति** ईश्वरो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The divine **Savitā** unrestrained, illumining the regions, protects the righteous acts (of men); he extends his arms for (the direction of) the people of the earth; observant of obligations, he rules over the wide world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Undeceivable, watching over living beings, god Savitar guards his  commandments.  
 He has stretched his two arms for the offspring of the living world. He  whose commandments are upheld rules over the great road.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lighting all living creatures, neer to be deceived, Savitar, God, protects each holy ordinance.  
      He hath stretched out his arms to all the folk of earth, and, with his laws observed, rules his own mighty course.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht zu hintergehen, die Wesen beschauend wacht Gott Savitri über den Gesetzen. Er hat die Arme ausgestreckt für die Geschöpfe der Welt. Er, der die Gesetze aufrecht hält, beherrscht die große Bahn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wesen rings beschauend der untrügliche Gott Savitar bewacht die festen Ordnungen; Zu allen Wesen streckte er die Arme aus und lenkt das grosse Sternenheer mit fester Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не поддаваясь обману, взирая на (все) существа,  
 Бог Савитар охраняет обеты.  

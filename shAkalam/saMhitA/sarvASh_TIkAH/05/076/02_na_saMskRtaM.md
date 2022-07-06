@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ संस्कृत꣡म् प्र꣡ मिमीतो ग꣡मिष्ठा  
 अ꣡न्ति नून꣡म् अश्वि꣡नो꣡पस्तुतेह꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡त्य् अ꣡वर्तिं दाशु꣡षे श꣡म्भविष्ठा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दिवा॑ । अ॒भि॒ऽपि॒त्वे । अव॑सा । आऽग॑मिष्ठा । प्रति॑ । अव॑र्तिम् । दा॒शुषे॑ । शम्ऽभ॑विष्ठा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -108,7 +108,7 @@ genre M
 अश्विनौ **संस्कृतं** घर्मं **न** **प्र** **मिमीतः** न हिंस्ताम् । किंतु **अन्ति** अन्तिके घर्मसमीपे **नूनम्** इदानीम् **इह** यज्ञे **गमिष्ठा** गन्तृतमौ’ **अश्विना** अश्विनौ **उपस्तुता** उपस्तुतौ भवतः। **दिवाभिपित्वे** दिवसस्याभिपतने प्रातःकाले **अवसा** रक्षणेन सह **आगमिष्ठा** आगन्तृतमौ । **अवर्तिं** **प्रति** द्वन्द्वभूतौ । वर्तिर्जीवनम् । तदभावोऽवर्तिः । तद्रहितमन्नं यथा भवति तथागन्तृतमौ । आगत्य च **दाशुषे** हविर्दत्तवते यजमानाय **शंभविष्ठा** सुखस्य भावयितारौ भवताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ With protection against destitution: **avasa** agamiṣṭhā pratyavartim: **va
 Avarti = the contrary, the want of it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The best who come, they do not compromise the (offering) prepared (for  them). Near and now the Aśvins are praised with songs here  
 as the best who come with help by day and at the evening mealtime, in  response to trouble and as the best luck for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most frequent guests, they scorn not what is ready: even now the lauded Asvins are beside us.  
      With promptest aid they come at morn and evening, the worshipper's most blessed guards from trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht verfehlen sie den bestimmten Ort, die häufigsten Besucher. Die Asvin sind jetzt zugegen, hier besungen, am Tage, am Abend mit ihrer Gnade am ehesten der Not begegnend und dem Opferwilligen gar gewogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der bereit steht, meiden nicht die Gäste, die Ritter nun, die hier von uns gerühmten, Die schnell mit Hülfe kommen Tags und Abends, zu grossem Heil dem Frommen wider Drangsal.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они не пропускают приготовленного места, (два бога), приходящие лучше всех.  
 Здесь, рядом, с Ашвины, вы сейчас воспеты  

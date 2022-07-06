@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र क्र꣡तुं न आ꣡ भर  
 पिता꣡ पुत्रे꣡भियो य꣡था  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 जीवा꣡ ज्यो꣡तिर् अशीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 शिक्ष॑ । नः॒ । अ॒स्मिन् । पु॒रु॒ऽहू॒त॒ । याम॑नि । जी॒वाः । ज्योतिः॑ । अ॒शी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -110,35 +110,35 @@ genre M
 हे **इन्द्र** **नः** अस्मभ्यं **क्रतुं** कर्म प्रज्ञानं वा **आ** **भर** आहर। अपि च **यथा** **पिता** **पुत्रेभ्यः** धनं प्रयच्छति तथा **नः** अस्मभ्यं **शिक्ष** धनं देहि। हे **पुरुहूत** बहुभिराहूत **यामनि** यज्ञे **जीवाः** वयं **ज्योतिः** सूर्यम् **अशीमहि** प्रतिदिनं प्राप्नुयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring to us, **Indra**, wisdom, as a father (gives knowledge) to his sons; bestow wealth upon us on thisoccasion, you the invoked of many, so that we, living at the solemnity may (long) enjoy the light (of existence).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, bring your resolve to bear for us, like a father for his sons. Do your best for us on this drive, you who are invoked by many. May  we, (still) alive, reach the light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, give us wisdom as a sire gives wisdom to his sons.  
      Guide us, O Much-invoked, in this our way may we still live and look upon the light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra! Gib uns guten Rat wie ein Vater den Söhnen. Streng dich auf dieser Fahrt für uns an, o Vielgerufener! Lebend möchten wir das Sonnenlicht erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra gib uns Tüchtigkeit, gleichwie der Vater seinem Sohn; Sei, vielgerufner, hülfreich uns auf diesem Gang, lass lebend uns des Lichts uns freun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, принеси нам силу духа,  
 Как отец сыновьям!  

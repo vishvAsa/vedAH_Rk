@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡र्धान् य꣡म् पूर्वीः꣡ क्षपो꣡ वि꣡रूपा  
 स्थातु꣡श् च र꣡थम्† ऋत꣡प्रवीतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; line affected by realignment;; pentad (decasyllabic), including Arnold
 वर्धा॑न् । यम् । पू॒र्वीः । क्ष॒पः । विऽरू॑पाः । स्था॒तुः । च॒ । रथ॑म् । ऋ॒तऽप्र॑वीतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vardhān* ← *vṛdh*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -76,21 +76,21 @@ genre M;; line affected by realignment;; pentad (decasyllabic), including Arnold
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[7-8\] **Agni**, whom many variously-tinted (mornings) and nights increase, whom, invested with truth, all moveable and immoveable things augment, has been propitiated, and is kindly seated at the holy rite, as the invoker (of the gods), and rendering all (pious) acts (productive) of reward.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom they will make grow through the many nights (and dawns) of  differing forms—  
 the one conceived by truth (whom) the moving and the still (will  
 make grow),
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase pūrvī́ḥ kṣapó vírūpā(ḥ), lit. “many nights of differing form,” is convincingly taken by most commentators as an elliptical pl. for “… nights (and dawns)…,” since vírūpe regularly modifies the dual dvandva náktoṣā́sā ‘night and dawn’, including in Parāśara’s I.73.7. (See Oldenberg’s lucid presentation in SBE n.) Most tr. take it as the nom. pl. subject of várdhān, but, with Geldner, I take it as an acc. pl.
 
@@ -101,27 +101,27 @@ With essentially all Western commentators starting with Benfey, I read carátham
 The ppl. právīta- always means ‘impregnated’ (of females) or, as here, ‘conceived’ (see Scarlatta p. 501); Witzel Gotō’s “den vom Ṛta gesuchten” seemingly rests on the root etymology to √vī ‘pursue’, without taking into account the idiom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 वर्धा॒न्यं पू॒र्वीः क्ष॒पो विरू॑पाः स्था॒तुश्च॒ रथ॑मृ॒तप्र॑वीतम् ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He whom many nights (and dawns), in their different forms 1, may increase, whom that which moves 2 and that which stands (increases), the god penetrated by Rita.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den sie während der vielen ungleichen Nächte und Morgen großzogen, den zur rechten Zeit empfangenen Keim alles dessen, was geht und steht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und wandert; Er thront im Glanze – gewählt zum Priester, der alle Werke – zum Ziele führet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

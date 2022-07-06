@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡-तम् इ꣡द् रा꣡धसे मह꣡  
 इ꣡न्द्रं चोदामि पीत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ई꣡शे कृष्टीनां᳐꣡ नृतुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । पू॒र्व्याम् । अनु॑ऽस्तुतिम् । ईशे॑ । कृ॒ष्टी॒नाम् । नृ॒तुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -101,7 +101,7 @@ genre M
 **तंतमित्** तमेव इन्द्रम् । सर्वेष्वपि यागकालेषु तमेवेन्द्रमित्यर्थः। तं प्रति **चोदामि** प्रेरयामि स्तुतिं **पीतये** सोमपानाय । ततः को लाभ इति उच्यते । **महे** महते **राधसे** धनाय प्रभूतधनलाभार्थम् । **यः** **नृतुः** फलस्य नेता देवः **पूर्व्यां** पूर्वे भवां यज्ञमुखस्थाम् **अनुष्टुतिम्** अनुक्रमेण क्रियमाणां स्तुतिं **कृष्टीनां** मनुष्याणामृत्विजां संबन्धिनीम् **ईशे** ईष्टे श्रोतुं तं चोदामीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,13 +112,13 @@ genre M
 Pūrvyām =**yajña** mukhasthām; or, simply ancient
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him and him alone, Indra, do I impel to drink, for the sake of his great  generosity—  
 the dancer who holds sway over the communities, according to the  ancient praise that follows him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accusative phrase in c, pūrvyā́m ánuṣṭutim, makes syntactic trouble here. See disc. by Oldenberg, who lays out various possibilities. Geldner takes the hemistich as containing a zeugma, with (as far as I can determine) ī́śe read differently with the two pādas -- taking an accusative in c and meaning “Anrecht haben,” while taking a genitive in d and meaning “herrschen über.” But among the numerous occurrences of ī́ś-, I know of none with the meaning or case frame proposed for c. (For further disc.
 
@@ -127,23 +127,23 @@ see comm. ad VII.32.18.) Oldenberg suggests either supplying another verb (acoda
 (Note that Oldenberg rejects Ludwig’s suggestion to read *ánu ṣṭutím, but this would be another possibility in my opinion. What perhaps speaks against that is the other occurrence of ánuṣṭuti- in nearby VIII.63.8.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, for his ample bounty, him, this Indra do I urge to drink,  
      Who, as his praise was sung of old, the Dancer, is the Lord of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur ihn eifere ich zu großer Freigebigkeit, den Indra zum Trinken an, der auf das erste Anrecht hat, über die Völker herrscht, der Vortänzer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, ihn, den Indra treib' ich an, zu grosser Spende und zum Trunk Ihn, dem das erste Lob gebührt der Menschen, ihn, den hohen Herrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

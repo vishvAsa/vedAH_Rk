@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ आदित्या आ꣡ गता सर्व꣡तातये  
 भूत꣡ देवा वृत्रतू꣡र्येषु शम्भु꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रथ॑म् । न । दुः॒ऽगात् । व॒स॒वः॒ । सु॒ऽदा॒नवः॒ । विश्व॑स्मात् । नः॒ । अंह॑सः । निः । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -127,36 +127,36 @@ genre M;; repeated line
 हे **आदित्याः** अदितेः पुत्राः **देवाः** ते यूयं **सर्वतातये** सर्वैर्वीरपुरुषैस्तताय विस्तारिताय युद्धाय । युद्धेऽस्माकं साहाय्यं कर्तुमित्यर्थः । **आ** **गत** आगच्छत । अपि च **वृत्रतूर्येषु** । संग्रामनामैतत् । संग्रामेषु **शंभुवः** सुखस्य भावयितारः **भूत** भवत ॥ गत । गमेर्लोटि ‘बहुलं छन्दसि ' इति शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sons of **Aditi**, come with all (your hosts) to battle; be to us the cause of happiness in combats, and may they, whoare bountiful and bestowers of dwellings, extricate us from all sin, as a chariot from a defile.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Ādityas, come here for our wholeness; o gods, become luck itself in the  overcoming of obstacles.  
 – Like a chariot from a hard place, o good ones of good gifts, rescue us  from all narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come ye Adityas for our full prosperity, in conquests of the foe, ye Gods, bring joy to us.  
      Even as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Adityas kommet herbei, daß wir heil bleiben! Seid in den Kämpfen glückbringend, ihr Götter! - Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, o Aditja's, kommet her zu unserm Heil, seid segensreich in Schlachten, o ihr Götter, uns; Wie einen Wagen führet aus der Enge uns aus aller Noth, o gabenreiche, gute ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, Адитьи, придите, чтоб мы были целы!  
 Принесите удачу в покорении врагов!  

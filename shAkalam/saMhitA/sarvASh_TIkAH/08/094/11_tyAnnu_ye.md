@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिया꣡न् नु꣡ ये꣡ वि꣡ रो꣡दसी  
 तस्तभु꣡र् मरु꣡तो हुवे  
 अस्य꣡ सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒स्य । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyān* ← *tya*
 - \[noun\], accusative, plural, masculine
@@ -84,36 +84,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ये** **मरुतः** **रोदसी** द्यावापृथिव्यौ **वि** **तस्तभुः** स्वबलेनैवात्यर्थं स्तब्धे चक्रुः । ते रोदसी स्वाधीने अकार्षुरित्यर्थः। **त्यान्** तान् सर्वतः प्रसिद्धान् **नु** क्षिप्रमहं **हुवे** आह्वयामि । किमर्थम् । **अस्य** इत्यादि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke those **Maruts** to drink this **Soma**, who have established heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these, who propped apart the two world-halves, the Maruts  I now call,  
 to drink of this soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts, those who have sustained and propped the heavens and earth apart,  
      I call to drink this Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die beide Welten auseinandergestemmt haben, die Marut rufe ich - zum Trunke dieses Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, welche beide Welten nun gestützt, die Maruts, rufe ich Zum Trunke dieses Soma's her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вон тех, что расставили две половины вселенной,  
 Марутов я зову  

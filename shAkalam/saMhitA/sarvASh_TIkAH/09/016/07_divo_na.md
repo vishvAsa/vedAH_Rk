@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ न꣡ सा꣡नु पिप्यु꣡षी  
 धा꣡रा सुत꣡स्य वेध꣡सः  
 वृ꣡था पवि꣡त्रे अर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृथा॑ । प॒वित्रे॑ । अ॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **दिवो** **न** द्युलोकादन्तरिक्षादिव **सानु** समुच्छ्रितमुदकं तद्यथाधो निपतति तद्वत् **वेधसः** विधातुर्बलस्य कर्तुः **सुतस्य** अभिषुतस्य सोमस्य **पिप्युषी** आप्याययन्ती **धारा** **वृथा** अनायासेनैव **पवित्रे** दशापवित्रे **अर्षति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As the lofty rain from heaven, the nutritious strream of the invogorating **Soma** falls easily upon the straining cloth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having swelled like the back of heaven, the stream of the pressed  ritual adept  
 rushes at will into the filter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swelling, as 'twere, to heights of heaven, the stream of the creative juice  
      Falls lightly on the cleansing sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Überquellend wie des Himmels Rücken rinnt der Strahl des ausgepreßten Meisters nach Belieben auf die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Strom des schöpferischen Tranks, der wie des Himmels Rücken schwillt, Ergiesst sich lustig in das Sieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Набухши, как вершина неба,  
 Поток выжатого сока (этого) устроителя обряда  

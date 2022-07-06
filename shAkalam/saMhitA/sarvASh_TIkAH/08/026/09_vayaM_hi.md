@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ हि꣡ वां ह꣡वामह  
 उक्षण्य꣡न्तो विअश्वव꣡त्  
 सुमति꣡भिर् उ꣡प विप्राव् इहा꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सु॒म॒तिऽभिः॑ । उप॑ । वि॒प्रौ॒ । इ॒ह । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -92,41 +92,41 @@ genre M
 **उक्षण्यन्तः** धनादिसेक्तारावात्मन इच्छन्तः **वयं** वां **हि** धनादीनां प्रत्तारौ युवामेव **हवामहे** तल्लाभार्थमाह्वयामः । तत्र दृष्टान्तः । **व्यश्ववत्** । यथास्माकं पिता युवामेव स्तुत्वा धनमलभत तद्वत् । हे **विप्रौ** मेधाविनावश्विनौ **सुमतिभिः** अस्माभिः क्रियमाणैः कल्याणैः स्तोत्रैः सह । यद्वा । सुमतिभिः शोभनाभिरनुग्रहबुद्धिभिः सह । **इह** अस्मिन् यागदिने उप **आ** **गतम्** उपागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of you who are bestowers of wealth, we invoke you, as did (your father) **Vyaśva**; come,sagacious **Aśvins**, here with favourable intentions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because we call upon you, (we) seeking bulls like Vyaśva seeking Ukṣan  (his patron),  
 come here with your favors, o inspired poets.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vayám … ukṣaṇyánto vyaśvavát is a play on words. ukṣanyántaḥ is read doubly, in one sense in the frame (‘seeking bulls’) and another in the simile (‘seeking Ukṣan’). Unusually the simile is conveyed by -vát. On the poet Vyaśva seeking his patron Ukṣan, see VIII.23.16 vyàśvaḥ … ukṣaṇyúḥ, where ukṣanyúḥ can also be read as a pun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For we, like Vyasva, lifting up our voice like oxen, call on you:  
      With all your loving kindness, Sages, come to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir rufen euch, nach einem Uksan verlangend gleich Vyasva. Kommet, ihr Redekundigen, hierher mit Wohlwollen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wie Viaçva rufen wir wie Stiere brüllend euch herbei, O kommt hierher, ihr weisen mit Gewogenheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы зовем вас двоих,  
 Жаждя Укшана, подобно Вьяшве.  

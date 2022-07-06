@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्न आ꣡यूंषि पवस  
 आ꣡ सुवो꣡र्जम् इ꣡षं च नः  
 आरे꣡ बाधस्व दुछु꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -101,20 +101,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, you support our lives, send us nutriment and food, drive far off the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, you bring (longer) lifespans through your purification; impel  hither nourishment and refreshment to us.  
 Into the distance thrust misfortune.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preverb ā́, which has transitivizing function with this root. This is easily done: ā́yūṃṣi can be decomposed into ā́ā́yūṃṣi without change to the Saṃhitā text, though it is contra to the Pp.
 
@@ -135,7 +135,7 @@ The equation and poetic merging of these two ritual gods is found elsewhere, mos
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thou pourest life; send down upon us food and vigorous strength;  
      Drive thou misfortune far away,
@@ -149,17 +149,17 @@ Far away drive ill-fortune.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Agni, du läuterst uns Lebenskraft zu; weise uns Stärkung und Labung zu! Halte das Unheil weit ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse weit hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

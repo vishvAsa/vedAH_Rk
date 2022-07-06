@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ द्या꣡वः सवितु꣡र् द्वा꣡ उप꣡स्थाँ  
 ए꣡का यम꣡स्य भु꣡वने विराषा꣡ट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इह꣡ ब्रवीतु य꣡ उ त꣡च् चि꣡केतत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 आ॒णिम् । न । रथ्य॑म् । अ॒मृता॑ । अधि॑ । त॒स्थुः॒ । इ॒ह । ब्र॒वी॒तु॒ । यः । ऊं॒ इति॑ । तत् । चिके॑तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
@@ -131,7 +131,7 @@ genre D
 **द्यावः** स्वर्गोपलक्षिताः प्रकाशमाना लोकाः **तिस्रः** त्रिसंख्याकाः सन्ति । तत्र **द्वौ** लोकौ **सवितुः** सूर्यस्य **उपस्था** समीपस्थाने वर्तेते; द्युलोकभूलोकयोः सूर्येण प्रकाशितत्वात् । **एका** मध्यमा भूमिरन्तरिक्षलोकः **यमस्य** **भुवने** पितृपतेर्गृहे **विराषाट्** विरान् गन्तॄन् सहते । प्रेताः पुरुषा अन्तरिक्षमार्गेण यमलोके गच्छन्तीत्यर्थः । **अमृता** अमृतानि चन्द्रनक्षत्रादीनि ज्योतींषि जलानि वा **अधि** **तस्थुः** सवितारमधिगम्य स्थितानि । तत्र दृष्टान्तः। **रथ्यम्** **आणिं** **न**। रथाद्बहिः अक्षच्छिद्रे प्रक्षिप्तः कीलविशेषः आणिरित्युच्यते । रथसंबन्धिनम् अणिम् अधिगम्य यथा रथस्तिष्ठति तद्वत् **यः** तु मानवः **तत्** सवितृरूपं **चिकेतत्** जानाति स मानवः **इह** अस्मिन् विषये **ब्रवीतु** कथयतु । केनापि वक्तुमशक्यः सवितुर्महिमेत्यर्थः ॥ तिस्रः ।  ‘ तिसृभ्यो जसः ' (पा. सू. ६. १. १६६ ) इति विभक्तेरुदात्तत्वम् । द्वौ । संहितायामावादेशे ‘लोपः शाकल्यस्य ' इति वकारलोपः । उपस्था । आङयाजयारां चोपसंख्यानम् ' (पा. म. ७. १.३९. १) इति सप्तम्या आङादेशः। **आङोऽनुनासिकश्छन्दसि'** (पा. सू. ६. १. १२६ ) इति प्रकृतिभावः । विराषाट् । ‘वृञ् वरणे'।' घञर्थे कविधानम् । (पा. सू. ३. ३. ५८. ४ ) इति कर्मणि कः ।  ‘ बहुलं छन्दसि ( पा. सू. ७. १. १०३ ) इति इत्वम् । तथा सति वूर्यन्ते इति विरा इत्युक्तं भवति । तान् सहते इति विराषाट् । 'छन्दसि सहः ' (पा. सू. ३. २. ६३ ) इति सहेर्ण्विः ।  ‘ सहेः साडः ' ( पा. सू. ८. ३. ५६ ) इति षत्वम् ।  ‘ अन्येषामपि दृश्यते ' इति पूर्वपदस्य दीर्घः । रथ्यम् । रथस्येदं रथ्यम् । रथाद्यत् ( पा. सू. ४.३. १२१ ) इति यत् । यतोऽनावः' इत्याद्युदात्तत्वम् । अमृता ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । चिकेतत् । कित ज्ञाने'। लेटि अडागमः ।  ‘ इतश्च लोपः' इति इकारलोपः । जुहोत्यादित्वात् श्लुः । लघूपधगुणः ।  ‘ अनुदात्ते च ' ( पा. सू. ६. १. १९०) इति अभ्यस्तस्याद्युदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre D
 **Amṛta** = immortals; moon and constellations are added
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There are three heavens: two are the laps of Savitar, one is the  
 hero-vanquishing one in the world of Yama.  
 Like a chariot (wheel) on the axle-pin, the (creatures) have taken their  place on his immortal (foundations?).—Whoever will perceive this, let  him declare it here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse of cosmic mystery decked out in numerology comes as a surprise after the simple, descriptive beginning of this hymn. The syntax of c is ambiguous: Geldner (Renou / Witzel Gotō) takes amṛ́tā as nom. pl., supplying “him” as acc. with ádhi √sthā: “Alles Unsterbliche ruht (auf ihm)…” I follow Oldenberg, who takes it as acc. pl., citing III.38.4 ā́viśvárūpo amṛ́tāni tasthau “Having all forms, he mounted on the immortal (things?).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three heavens there are; two Savitar's, adjacent: in Yama's world is one, the home of heroes,  
      As on a linch-pin, firm, rest things immortal: he who hath known it let him here declare it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Himmel gibt es, zwei sind der Schoß des Savitri, der eine ist in der Welt des Yama, der männerbezwingende. Alles Unsterbliche ruht auf ihm wie das Wagengestell auf den Achsbolzen. Wer das begriffen hat, soll es hier sagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Himmel sind's: des Savitar zwei Sitze, in Jama's Reich der dritte, Männer hegend; Die Götter ruhn wie auf der Wagenachse; wer das erkannt hat, mög' es hier verkünden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Есть) три неба. Два (из них) – лоно Савитара.  
 Одно, с мужами-победителями, – в мире Ямы.  

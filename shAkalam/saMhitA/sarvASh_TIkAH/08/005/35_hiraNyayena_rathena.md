@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिरण्य꣡येन र꣡थेन  
 द्रव꣡त्पाणिभिर् अ꣡श्वैः  
 धी꣡जवना ना꣡सतिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 धीऽज॑वना । नास॑त्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyayena* ← *hiraṇyaya*
 - \[noun\], instrumental, singular, masculine
@@ -73,36 +73,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 हे **धीजवना** मनोवद्वेगवन्तौ । आमन्त्रिताद्युदात्तत्वम्। हे **नासत्या** सत्यस्वभावौ सत्यस्य नेतारौ वा । 'आमन्त्रितं पूर्वमविद्यमानवत्' इति पूर्वस्याविद्यमानत्वेन पदादपरत्वादाष्टमिक निघाताभावः । न च नामन्त्रितविद्यमानवत्त्वनिषेधो धीजवनेत्यस्य विशेषणत्वेन सामान्यवचनत्वाभावात् । व्यावर्तकं हि विशेषणम् । ईदृशौ युवां **द्रवत्पाणिभिः** शीघ्रगमनपदैः **अश्वैः** युक्तेन **हिरण्ययेन** हिरण्मयेन स्वर्णमयेन **रथेन** आगतमिति शेषः । यद्वा । धीजवना नासत्या इत्येतदद्वयमपि प्रथमान्तमेव नामन्त्रितम् । धियो जव इव जवो ययोस्तौ। बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । ईदृशेन रथेन शीघ्रगमनौ नासत्यावश्विनौ आगच्छतमिति शेषः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rapid as thought, **Nāsatyās**, (come) with your golden chariot drawn by quick-footed steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Drive here) with your golden chariot, with your horses with speedy  forefeet,  
 o Nāsatyas, who spur on insights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne on that chariot wrought of gold, with coursers very fleet of foot,  
      Come, O Nasatyas, swift as thought.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt auf goldenem Wagen mit den schnellhufigen Rossen, ihr Gedanken erweckenden Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit eurem goldnen Wagen kommt, mit Hufe schwingendem Gespann, O Treue, wie Gedanken schnell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Приезжайте) на золотой колеснице  
 С быстрокопытными конями,  

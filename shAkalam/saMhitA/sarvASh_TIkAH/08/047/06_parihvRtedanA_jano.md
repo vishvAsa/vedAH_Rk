@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परिह्वृते꣡द् अना꣡ ज꣡नो  
 युष्मा꣡दत्तस्य वायति  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 देवाः॑ । अद॑भ्रम् । आ॒श॒ । वः॒ । यम् । आ॒दि॒त्याः॒ । अहे॑तन । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parihvṛted* ← *parihvṛtā* ← *parihvṛt*
 - \[noun\], instrumental, singular, feminine
@@ -123,7 +123,7 @@ genre M;; repeated line
 **परिह्वृतेत्** परिपीडितेनैव तपोनियमादिना **अना** प्राणयुक्तः **जनः** **युष्मादत्तस्य** युष्माभिर्दत्तं धनम् । कर्मणि षष्टी । **वायति** गच्छति । हे **देवाः** हे **आशवः** शीघ्रगमनाः यूयं **यं** यजमानम् **अहेतन** प्राप्नुथः स जनः **अदभ्रम्** अनल्पं धनं वायति प्राप्नोतीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,35 +134,35 @@ genre M;; repeated line
 By painful means = bypenance, religious observances; a living ma: ana = **prāṇa**-**yuktaḥ**, endowed with life; (RV 4.30.3):prāṇarūpena balena; or, just a particle, 'certainly'; verily men succumb through the loss of the wealth given byyou?; āśa vaḥ = **āśavaḥ**, swiftly moving
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is only by a crooked course that in such a way a man becomes lost to  what is given by you.  
 O gods, o Ādityas, it’s not a trifle that he obtained from you—the man  whom you spurred on.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is contrastively complementary to the preceding one. Both pári √vṛj and pári √hvṛ mean ‘swerve, turn aside, avoid’, but in vs. 5 pári … vṛṇajan is a beneficial action, whereas here parihvṛtā́(on accent see Oldenberg, Scarlatta 708) refers to turning aside from the proper course, an action that causes a man to lose out on the Ādityas’ gift. How substantial this gift can be for someone whom the Ādityas favor is expressed in cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For verily men sink and faint through loss of wealth which ye have given.  
      Much hath he gained from you, O Gods, whom ye, Adityas, have approached.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch diesen Ränkespinner kommt man um das von euch geschenkte Gut. Ihr Götter, nicht zu wenig hat er von euch erlangt, den ihr Aditya´s angespornt habt. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn durch Betrug verliert der Mensch das Gut, das ihr ihm habt verliehn, O Götter, viel erlangt von euch, wem hold ihr, o Aditja's, seid; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ведь только из-за козней человек  
 Лишается данного вами (богатства).  

@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रश् च मॄळ꣡याति+ नो  
 न꣡ नः पश्चा꣡द् अघं꣡ नशत्  
 भद्र꣡म् भवाति नः पुरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 भ॒द्रम् । भ॒वा॒ति॒ । नः॒ । पु॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -96,42 +96,42 @@ genre M
 इन्द्रश्च परमैश्वर्यवनिन्द्रश्चेत् नोस्मान् मृळयातिसुखयेत् पश्चात्पृष्ठतः नोस्मान् अघन्दुरितं ननशत् नप्राप्नोतिनोस्माकम्पुरः पुरस्तात् भद्रङ्कल्याणञ्चभवाति भवति ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “If **Indra** provide for our happiness, evil will not come behidn us, good will be before us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And if Indra will have mercy on us, no evil will reach us from behind. There will be good for us in front.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ca here is a subordinator (‘if’) and conditions accent on mṛḷáyāti. See II.42.1.
 
 There are several nice phonetic sequences: ab: … no, ná naḥ, where the 1st and last words are the same, with naśat at the end. And c: bhadrám bhavāti.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra be gracious unto us: sin shall not reach us afterward,  
      And good shall be before us still.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sich Indra unser erbarmen sollte, dann erreicht uns von hinten kein Übel, von vorn wird uns Glück zuteil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Indra uns gewogen ist, trifft nimmer Noth im Rücken uns, Und vor uns ist des Glückes Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если Индра нас помилует,  
 Зло не настигнет нас сзади,  

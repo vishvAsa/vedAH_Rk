@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡र् न꣡ र꣡थियं न꣡वं  
 द꣡धाता के꣡तम् आदि꣡शे  
 शुक्राः꣡ पवध्वम् अ꣡र्णसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शु॒क्राः । प॒व॒ध्व॒म् । अर्ण॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -81,21 +81,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऋभुर्न** उरु भासमानो रथस्वामीव स यथा **रथ्यं** रथस्य नेतारं **नवं** स्तुत्यं कुशलं सारथिनमग्र आधत्ते तद्वदस्मदीयेऽस्मिन् **आदिशे** स्वामिनि **केतं** प्रज्ञानं **दधात** स्थापयत । हे सोमाः योऽस्मभ्यं प्रयच्छति तस्मिन्नित्यर्थः। हे सोमाः **अर्णसा** उदकेन **शुक्राः** दीप्ताः सन्तः **पवध्वं** क्षरध्वम्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As a great man sets before him a commendable charioteer, so do you grant knowledge to our lord, and flow glistening with water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a craftsman [/R̥bhu] a new chariot (wheel), set your will to  
 instruct (him).  
 Purify yourselves to gleaming with your flood.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. ráthya- generally modifies either chariot horses or chariot wheels; here, with the presence of a craftsman, the latter is most likely. So also Grassmann, Geldner, and Renou
 
@@ -106,23 +106,23 @@ preceding vs.) First, I know of no other exx. of náva- √dhā in the sense ‘
 By the Geldner/Renou (/Keydana) interpr., in the simile the craftsman is “renewing” the wheel; by mine, he is “setting/placing” it on the chariot, with a slightly different sense of √dhā than in the frame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring us our wish with this design, as a wright brings his new-wrought wheel:  
      Flow pure and shining with the stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erneuert, um ihn zu mahnen, seinen Vorsatz wie Ribhu das Wagenrad; läutert euch mit klarer Flut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie neues Rad der Künstler fügt, so spendet uns nach unserm Wunsch, Im Strome rieselt hell dahin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как искусный мастер – новое (колесо) колесницы,  
 Создайте (ему новую) волю, чтоб нацелиться (на него)!  

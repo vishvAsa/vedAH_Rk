@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ तं꣡ राजानाव् अदिते कु꣡तश् चन꣡  
 नां꣡हो अश्नोति दुरितं꣡ न꣡किर् भय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरोरथं꣡ कृणुथः꣡ प꣡त्निया सह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यम् । अ॒श्वि॒ना॒ । सु॒ऽह॒वा॒ । रु॒द्र॒व॒र्त॒नी॒ इति॑ रुद्रऽवर्तनी । पु॒रः॒ऽर॒थम् । कृ॒णु॒थः । पत्न्या॑ । स॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -134,37 +134,37 @@ genre M
 हे **राजानौ** ईश्वरौ **अदिते** अदीनौ सुहवौ स्वाह्वानौ **रुद्रवर्तनी** स्तोत्रयुक्तमार्गौ हे **अश्विना** अश्विनौ युवां **यं** जनं **पुरोरथम्** अग्रतोरथं **पत्न्या** **सह** स्वयंवरे **कृणुथः** कुरुथः **तं** जनं **कुतश्चन** कुतोऽपि **अंहः** पापं न **अश्नोति** न व्याप्नोति । **दुरितं** दुर्गतिरपि **न** अश्नोति । **नकिः** न च  **भयं** संसारभयं न प्राप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lofty soverigns, worthy of invocation, going on roads which are praised in hymns, **Aśvins**, the manwhom with his wife you plural ce in front of (your) car, encounters not from any quarter wickedness, difficulty, ordanger.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you two kings and Aditi—not from anywhere does distress or  difficulty or fear reach him  
 for whom you arrange that his chariot, along with his wife, will be in  front, o Aśvins good to invoke, you who follow the course of the  
 Rudras [=Maruts].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From no side, ye Two Kings whom none may check or stay, doth grief, distress, or danger come u on the man  
      Whom, Asvins swift to hear, borne on your glowing path, ye with your Consort make the foremost in the race.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sucht den von irgend woher Not, noch Gefahr, noch Furcht heim, ihr zwei Könige, o Aditi, den ihr nebst Gemahlin mit seinem Wagen an die Spitze bringet, ihr gerngerufenen Asvin, die ihr die Bahn des Rudra wandelt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von keiner Seite trifft Gefahr, o Könige, noch Ungemach und Noth den Mann, o Aditi, Den, Ritter, ihr nebst seinem Weibe vorwärts bringt, ihr, die ihr fahrt auf lichter Bahn und gern erhört.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не настигнет ниоткуда, о два царя, о Адити,  
 Ни беда, ни опасность, никакой страх того,  

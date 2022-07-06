@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ पाकशंसं꣡ विह꣡रन्त ए꣡वैर्  
 ये꣡ वा भद्रं꣡ दूष꣡यन्ति स्वधा꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ वा दधातु नि꣡रृतेर् उप꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अह॑ये । वा॒ । तान् । प्र॒ऽददा॑तु । सोमः॑ । आ । वा॒ । द॒धा॒तु॒ । निःऽऋ॑तेः । उ॒पऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -127,7 +127,7 @@ popular
 **ये** राक्षसाः **पाकशंसं** परिपक्ववचनं सत्यभाषिणं माम् **एवैः** एतव्यैः प्राप्तव्यैरात्मीयैः कामैर्हेतुभूतैः **विहरन्ते** विशेषेण हरन्ति उपक्षपयन्ति । यथाकामं परिवदन्तीत्यर्थः। **ये** **वा** **स्वधाभिः** बलैर्युक्ताः **भद्रं** कल्याणवर्तनं मां **दूषयन्ति** दुष्टं कुर्वन्ति **तान्** सर्वान् **सोमः** **अहये** **वा** सर्पाय वा **प्रददातु** । **निर्ऋतेः** पापदेवतायाः **उपस्थे** उत्सङ्गे **वा** **आ** **दधातु** प्रक्षिपतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ popular
 Thosewho by spiteful calumnies: or, those who with violence vilify me, acting uprightly
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who distort (my) guileless speech in their (usual) ways, or who  spoil an auspicious one according to their wont,  
 let Soma give them over to the serpent or set them in the lap of  
 Dissolution.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax pāka-śaṃsá- is taken by some as a bahuvrīhi (implicitly, Grassmann ‘arglos redend’; cf. Whitney [AV VIII.4.9] “him of simple intent,” Brown “him of pure and single heart,” Doniger “the man of pure heart” [with śaṃsa- = ‘heart’?!]), but by accent it should be a determinative cmpd, contrasting explicitly with the bahuvrīhi aghá-śaṃsa- ‘having evil speech’ with 1st member accent, found in vss. 2 and 4. It is surely my guileless speech that is in question, since I was “acting with guileless mind” (mā pā́kena mánasā cárantam) in the immediately preceding vs (8a).
 
@@ -154,23 +154,23 @@ As Renou points out, ví √hṛ probably refers to distortion of ritual speech.
 Since pāka-śaṃsá- is a thing, not a person, the parallel bhadrám in b should also likewise be a thing (so Geldner, Whitney, Lommel, Brown), not, as the published translation (“an auspicious one”) has it, a person. I would thus take the form as a neut. acc. sg., not a masc. and slightly emend the published translation to “something auspicious.” This something is probably also connected with ritual performance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who destroy, as is their wont, the simple, and with their evil natures barm the righteous,  
      May Soma give them over to the serpent, or to the lap of Nirrti consign them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die die schlichte Rede absichtlich verdrehen, oder die das Gute willkürlich schlecht machen, die soll Soma entweder der Schlange preisgeben oder in den Schoß des Verderbens bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer den, der arglos redet, tückisch anfällt, den glücklichen beschädiget mit Absicht, Den soll der Schlange Soma überliefern und in den Schooss des Untergangs ihn setzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто по (своему) обычаю искажает скромную речь,  
 Или кто по своей природе благое превращает в злое,  

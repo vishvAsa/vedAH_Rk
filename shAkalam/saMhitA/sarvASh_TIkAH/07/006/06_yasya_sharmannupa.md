@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य श꣡र्मन्न् उ꣡प वि꣡श्वे ज꣡नास  
 ए꣡वैस् तस्थुः꣡ सुमति꣡म् भि꣡क्षमाणाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ग्निः꣡ ससाद पितरो꣡र्+ उप꣡स्थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वै॒श्वा॒न॒रः । वर॑म् । आ । रोद॑स्योः । आ । अ॒ग्निः । स॒सा॒द॒ । पि॒त्रोः । उ॒पऽस्थ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -117,36 +117,36 @@ genre M
 **विश्वे** सर्वे **जनासः** जनाः **शर्मन्** शर्मणि सुखनिमित्तं **यस्य** वैश्वानरस्य **सुमतिं** **भिक्षमाणाः** प्रार्थयमानाः **एवैः** कर्मभिः हविर्भिर्वा **उप** **तस्थुः** यमेवोपतिष्ठन्ते सः **वैश्वानरः** विश्वनरहितः **अग्निः** सूर्यः सन् **पित्रोः** मातापित्रोः **रोदस्योः** द्यावापृथिव्योः **वरम्** उत्कृष्टम् **उपस्थं** मध्यमन्तरिक्षम् **आ** **ससाद** आगच्छत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** **Vaiśvānara**, whom all men approach with pious offerings, soliciting his favour for the sake of(obtaining felicity), has come to the excellent station (intermediate) between his parents, heaven and earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under whose protection all the peoples approach in their separate ways,  asking for his favor,  
 Agni Vaiśvānara has sat here in the lap of the two world-halves, of his  parents, according to his wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In whose protection all men rest by nature, desiring to enjoy his gracious favour-  
      Agni Vaisvanara in his Parents, bosom hath found the choicest seat in earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter dessen Schutz sich alle Leute aus freien Stücken gestellt haben, um seine Gunst bittend, Vaisvanara hat sich nach eigener Wahl im Schoße der beiden Welthälften, seiner Eltern, niedergelassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Schutze alle Menschen stehen, die rechter Weise seine Huld erflehen, Der Männerhort, willfahrend beiden Welten, liess in der Aeltern Schooss sich nieder, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Под чьей защитой обычно находятся  
 Все люди, прося (его) о милости,  

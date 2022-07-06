@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो धिया꣡ न꣡व्यसिया श꣡विष्ठम्  
 प्रत्न꣡म् प्रत्नव꣡त् परितंसय꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रो वि꣡श्वानि अ꣡ति दुर्ग꣡हाणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । व॒क्ष॒त् । अ॒नि॒ऽमा॒नः । सु॒ऽवह्ना॑ । इन्द्रः॑ । विश्वा॑नि । अति॑ । दुः॒ऽगहा॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -119,37 +119,37 @@ genre M
 **नव्यस्या** नवतरया **धिया** स्तुत्या **शविष्ठं** बलवत्तमं **प्रत्नं** पुराणं हे इन्द्र **तं** **वः** त्वां **प्रत्नवत्** चिरंतना ऋषयः इव **परितंसयध्यै** परितो विस्तारयितुम् । अहं प्रवृत्तोऽस्मीति शेषः । **अनिमानः** अपरिमाणः सुवह्मा शोभनवहनः **सः** **इन्द्रः** **विश्वानि** समस्तानि **दुर्गहाणि** दुर्गाणि **नः** अस्मभ्यम् **अति** **वक्षत्** अतिवहतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I have undertaken) to spread around with a new hymn, as i was done of old, (the glory of) you, the ancient and most mighty (**Indra**); may that Indra, who is illimitable, and is a sure conveyance, bear us over all difficulties.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (It is) for you [=poets] to tug at him, the strongest one, from every  direction with a newer insight, him the ancient one as the  
 ancients did.  
 Indra, who is without measure, the good conveyor, will convey us  across all difficult depths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him will we fit for you with new devotion, the strongest Ancient One, in ancient manner.  
      So may that Indra, boundless, faithful Leader, conduct us o'er all places hard to traverse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn umfanget mit eurem neuesten Gebet, den Gewaltigsten, den Alten wie vor alters! Indra, der ohne Vorbild, der gute Fahrer, soll uns über alle schlimmen Furten hinüberfahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn setzt in schnellen Lauf den alten, starken nach alter Art mit eurer neusten Andacht; Er führe uns, der sichre Führer, Indra, der unermessne über alle Drangsal.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Залучите его вашей новой молитвой,  
 Самого сильного, древнего, как в древности!  

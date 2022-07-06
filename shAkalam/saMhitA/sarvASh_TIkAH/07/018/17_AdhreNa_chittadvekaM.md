@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आध्रे꣡ण चित् त꣡द् उ ए꣡कं चकार  
 सिंहि꣡यं चित् पे꣡तुवेना जघान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡यछद् वि꣡श्वा भो꣡जना सुदा꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अव॑ । स्र॒क्तीः । वे॒श्या॑ । अ॒वृ॒श्च॒त् । इन्द्रः॑ । प्र । अ॒य॒च्छ॒त् । विश्वा॑ । भोज॑ना । सु॒ऽदासे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādhreṇa* ← *ādhra*
 - \[noun\], instrumental, singular, masculine
@@ -130,7 +130,7 @@ genre M
 **इन्द्रः** **तत्** तदा **आध्रेण** **चित्** दरिद्रेणापि सुदासा **एकं** मुख्यं दानकर्म **चकार** कारयामास । **सिंह्यं** चित् । प्रवयाः सिंहः सिंह्यः । तमपि **पेत्वेन** छागेन **जघान** घातयामास। **वेश्या** । वेशी सूची । तया **स्रक्तीः** यूपादेरश्रीन् **अव** **अवृश्चत्** अववृक्तवान् । वेश्यादेः कृत्यं सूच्यैवाकरोदित्यर्थः । तान्येतानि त्रीणि कर्माणि असंभावितानीति नाशङ्कनीयानि इन्द्रस्य महिम्नोऽधिकत्वात् । **विश्वा** विश्वानि **भोजना** भोजनानि भोग्यानि धनानि **सुदासे** राज्ञे **प्रायच्छत्** अदाच्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 Indra haseffected: the three impossible acts are illustrative of the wonderful power of Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even with a feeble thing he performed this unique (deed): he smote even  the lioness with a wether.  
 Indra hewed down the poles with a pin. He handed over all the goodies  to Sudās.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 If my interpr. of 14c is correct in taking the small number (66) as the allies of Indra facing off a much larger force, this vs. continues the same theme, first as a straightforward statement (a), then with two different metaphors (b, c): Indra easily prevailed despite the relative insufficiency of his tools.
 
@@ -161,23 +161,23 @@ tall poles. I agree with Oldenberg that the expression is probably proverbial.
 The ending of d, bhójanā sudā́se, is identical to the end of the last vs., 15d, preceded by víśvāni (15d) and víśvā (16d) respectively. The bhójanā that the enemies abandoned in 15 are here given to Sudās by Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E'en with the weak he wrought this matchless exploit: e'en with a goat he did to death a lion.  
      He pared the pillar's angles with a needle. Thus to Sudas Indra gave all provisions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den Schwachen hat er diese einzige Tat getan; die Löwin hat er durch einen Schafbock erlegt. Mit einer Nadel hat Indra die Zacken abgespalten. Er schenkte dem Sudas all ihre Besitztümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Schwache auch vollführt' er seine Absicht, die Löwin auch erschlug er durch den Widder, Die Zacken brach er ab mit einer Nadel; dem Sudas schenkte alle Güter Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всего лишь с помощью слабого совершил он этот единственный (подвиг):  
 Саму львицу он убил с помощью барана.  

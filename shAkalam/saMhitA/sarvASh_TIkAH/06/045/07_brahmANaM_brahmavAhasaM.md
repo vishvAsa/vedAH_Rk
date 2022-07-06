@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्रह्मा꣡णम् ब्र꣡ह्मवाहसं  
 गीर्भिः꣡ स꣡खायम् ऋग्मि꣡यम्  
 गां᳐꣡ न꣡ दोह꣡से हुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गाम् । न । दो॒हसे॑ । हु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmāṇam* ← *brahman*
 - \[noun\], accusative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ब्रह्माणं** परिवृढं **ब्रह्मवाहसं** ब्रह्मभिः स्तुतिरूपैर्मन्त्रैर्वहनीयं **सखायम्** अस्माकं सखिभूतम् **ऋग्मियम्** । ऋग्मा ऋचः । तदर्हम् । स्तुत्यर्हमित्यर्थः । एवंभूतमिन्द्रं **दोहसे** दोग्धुं **गां** **न** गामिव **गीर्भिः** स्तुतिभिः **हुवे** आह्वयाम्यस्मदीयान् कामान् दोग्धुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Brahma: brahmāṇam = parivṛḍham, great, mighty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the formulator whose vehicle is the sacred formulation, to the  comrade worthy of verses  
 do I call with my songs, as to a cow to be milked,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 More cross-tṛca connections: bráhma-vāhas- 7a/4a, sákhi- 7b/1c/4a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call with hymns, as 'twere a cow to milk, the Friend who merits praise,  
      The Brahman who accepts the prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Kenner der erbaulichen Rede, den die erbauliche Rede anzieht, den preislichen Freund rufe ich mit Lobreden wie eine Kuh zum Melken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Beter, der Gebet empfängt, mit Liedern den gepriesnen Freund Ruf wie die Kuh zum Melken ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знатока священного слова, кого притягивает священное слово,  
 Друга, достойного гимнов, я призываю  

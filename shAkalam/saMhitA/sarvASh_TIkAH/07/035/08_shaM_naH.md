@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नः सू꣡र्य उरुच꣡क्षा उ꣡द् एतु  
 शं꣡ नश् च꣡तस्रः प्रदि꣡शो भवन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नः सि꣡न्धवः श꣡म् उ सन्तु आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । पर्व॑ताः । ध्रु॒वयः॑ । भ॒व॒न्तु॒ । शम् । नः॒ । सिन्ध॑वः । शम् । ऊं॒ इति॑ । स॒न्तु॒ । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -145,42 +145,42 @@ genre D
 **नः** अस्माकं **शं** शान्त्यै **सूर्यः** **उरुचक्षाः** विस्तीर्णतेजाः सन् **उदेतु** उदयं प्राप्नोतु । **चतस्रः** **प्रदिशः** महादिशोऽपि **नः** अस्माकं **शं** शान्त्यै **भवन्तु** । **नः** अस्माकं **शं** शान्त्यै **पर्वताः** **ध्रुवयः** ध्रुवाः **भवन्तु**। **नः** अस्माकं **शं** शान्त्यै **सिन्धवः** नद्योऽपि भवन्तु । **आपः** च नः **शमु** शान्त्या एव **सन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the wide-seeing sun rise (for) our happines; may the four quarters of the horizon (exist for) ourfelicity; may the firm-set mountains be (for) our happiness; may the rivers, may the waters, be (diffused) for ourhappiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For luck for us let the Sun of broad gaze go up; luck for us be the four  Directions.  
 Luck for us be the steadfast Mountains. Luck for us the Rivers and  
 luck be the Waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 bhavítra- is found only here in the RV. My “(the means of) Creation” gives full functional value to the instrument suffix -tra-. Grassmann “die Welt,” Geldner “Creatur (?),” Renou “le séjour-des-existences”; see Renou’s n. for further, though inconclusive, disc. The immed. preceding hymn contains janítra- (VII.34.2), which seems to mean something similar, insofar as it’s possible to tell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the far-seeing Sun rise up to bless us: be the four Quarters of the sky auspicious.  
      Auspicious be the firmly-seated Mountains, auspicious be the Rivers and the Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns die weitschauende Sonne aufgehen, zum Glück sollen uns die vier Weltgegenden sein. Zum Glück sollen uns die feststehenden Berge sein, zum Glück uns die Ströme und zum Glück die Gewässer sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil geh auf die Sonne weithin schauend, zum Heil sei Ost und West und Nord und Süd uns; Zum Heile seien uns die festen Berge, zum Heil die Flüsse und zum Heil die Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть взойдет Сурья, видящий далеко!  
 На счастье нам пусть будут четыре стороны света!  

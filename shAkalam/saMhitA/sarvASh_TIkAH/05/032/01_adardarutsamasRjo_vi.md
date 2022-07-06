@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दर्दर् उ꣡त्सम् अ꣡सृजो वि꣡ खा꣡नि  
 त्व꣡म् अर्णवा꣡न् बद्बधानाँ꣡ अरम्णाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सृ꣡जो꣡ वि꣡ धा꣡रा अ꣡व दानवं꣡ हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हान्त॑म् । इ॒न्द्र॒ । पर्व॑तम् । वि । यत् । वरिति॒ वः । सृ॒जः । वि । धाराः॑ । अव॑ । दा॒न॒वम् । ह॒न्निति॑ हन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adardar* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Imperfect
@@ -134,7 +134,7 @@ genre M
 हे इन्द्र **त्वम्** **उत्सम्** उत्स्यन्दमानं मेघम् **अदर्दः** विदारितवानसि । तदनन्तरं **खानि** मेघस्थोदकनिर्गमनद्वाराणि **वि** **असृजः** विशेषेण सृष्टवानसि । किंच **बद्बधानान्** बध्यमानान् **अर्णवान्** उदकवतो मेघान **अरम्णाः** विसर्जयसि क्षारयसीत्यर्थः । अत्र रम्णातिर्विसर्जनकर्मा । हे **इन्द्र** यत् यः त्वम् । यदिति लिङ्गव्यत्ययः । **महान्तं** प्रभूतं **पर्वतं** मेघं **वि** **वः** विवृतवानसि । **धाराः** अपां **वि** **सृजः** विसृष्टवानसि । अपि च **दानवं** दनोः पुत्रं वृत्रमसुरं यद्वोदकस्य दातारं मेघं वा **अव** **हन्** अभिहतवानसि । अत्र निरुक्तम्  - ' अदृणा उत्सम् । उत्स उत्सदनाद्वोत्स्यन्दनाद्वा उनत्तेर्वा स्यात् । व्यसृजोऽस्य खानि त्वमर्णवानर्णस्वत् एतान् ' (निरु. १०. ९) इत्यादि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 The flood gates: **khāni**, the holes of interstices of the clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You violently split the wellspring; you reamed out its apertures. You  brought to peace the floods, which had been hard pressed.  
 When, Indra, you pried apart the great mountain, you set loose the  streams; you smashed down the Dānava.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अद॑र्द॒रुत्स॒मसृ॑जो॒ वि खानि॒ त्वम॑र्ण॒वान्ब॑द्बधा॒नाँ अ॑रम्णाः ।  
 म॒हान्त॑मिन्द्र॒ पर्व॑तं॒ वि यद्वः सृ॒जो वि धारा॒ अव॑ दान॒वं ह॑न् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du brachst den Quell auf, ließest die Kanäle strömen; du beruhigtest die geplagten Fluten. Als du den großen Berg aufschlossest, Indra, da ließest du die Ströme laufen; den Danava schlugst du nieder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Born erbrachst du, machtest frei die Rinnen, du schafftest Ruh den eingezwängten Wogen; Als Indra du den grossen Felsen aufthatst, entliessest du die Ström', erschlugst den Dämon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты пробуравил источник, ты пустил в русла (воды).  
 Ты успокоил теснимые стремнины.  

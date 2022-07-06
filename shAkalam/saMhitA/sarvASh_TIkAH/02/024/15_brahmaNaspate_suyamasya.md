@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणस् पते सुय꣡मस्य विश्व꣡हा  
 रायः꣡ सियाम रथि꣡यो व꣡यस्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् ई꣡शानो ब्र꣡ह्मणा वे꣡षि मे ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वी॒रेषु॑ । वी॒रान् । उप॑ । पृ॒ङ्धि॒ । नः॒ । त्वम् । यत् । ईशा॑नः । ब्रह्म॑णा । वेषि॑ । मे॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
@@ -120,36 +120,36 @@ genre M
 हेब्रह्मणस्पते मन्त्राधिपते सुयमस्यसुष्ठुनियन्तव्यस्य वयस्वतोन्नयुक्तस्य रायोधनस्यविश्वहावि- श्वोषुसर्वेष्वहस्सुरथ्योधिपतयः स्यामभूयास्म रथाएषांसन्तीतिरथ्यः छन्दसीवनिपावितिमत्वर्थी- योयः ईकारः अपिच नोस्माकंवीरेषुवीर्याज्जातेष्वस्मदीयेषुपुत्रेषुवीरान् पुत्रान् त्वंउपपृङ्ग्धि सं- पृक्तान्कुरु उत्पादय पृचीसम्पर्के रौधादिकः वयम्पौत्रानपिलभेमहीतियावत् यद्यतः ईशानः सर्व- स्येश्वरस्त्वं ब्रह्मणा अन्ननामैतत् हविर्लक्षणेनान्नेनसह मेहवम् मदीयंस्तुतिलक्षणमाह्वानं वेषि कामयसे वीगतिप्रजनकान्त्यशनखादनेषु अतोमयोक्तङ्कुर्वित्यर्थः ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, **Brahmaṇaspati**, be daily in the possession of well-regulated and food-supplying wealth; do you add for us posterity to posterity, since you, who are the ruler (of all) accept my invocation with (offered sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O lord of the sacred formulation, may we be the charioteers of easily  controlled, vigorous wealth throughout all our days.  
 Mix heroes among heroes for us, when, being the master through my  formulation, you pursue my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Brahmanaspati, may we be evermore masters of wealth well-guided, full of vital strength.  
      Heroes on heroes send abundantly to us, when thou omnipotent through prayer seekest my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Brahmanaspati, wir wollen allezeit die Lenker eines leicht zu regierenden Besitzes sein. Häufe du uns Söhne auf Söhne, wenn du, durch Zauberwort mächtig, meinem Rufe nachkommst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, wir seien Wagenlenker stets des schöngelenkten Schatzes, der an Labung reich; O führe Helden uns auf Helden reichlich zu, wenn durch Gebet gebietend meinem Ruf du nahst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брахманаспати, да будем мы все дни  
 Колесничими легко управляемого богатства, состоящего из жизненной силы!  

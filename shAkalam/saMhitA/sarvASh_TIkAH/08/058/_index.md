@@ -8,7 +8,7 @@ title = "+058"
 'यमृत्विजः' इति तृचात्मकं दशमं सूक्तं काण्वस्य मेध्यस्यार्षं वैश्वदेवं त्रैष्टुभम् । अनुक्रान्तं च- यमृत्विजस्तृचं वैश्वदेवमाद्य ऋत्विक्स्तुतिर्वा ' इति । आद्या ऋत्विग्देवत्या वा इत्यर्थः । विनियोगः सूत्रादवगन्तव्यः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 58 (1027)  
 “Fragment”  
@@ -19,7 +19,7 @@ As for the other two verses, Geldner memorably characterizes verse 1 as a riddle
 ally dramatized in the later śrauta system in the ritual of the Tānūnaptra, in which  a formal alliance is created among these participants, and he suggests that this verse  is a precursor of that later ceremony. Verse 2, on the other hand, has been taken,  since Sāyaṇa, as the answer to the riddle posed in X.88.18ab “How many fires and  how many suns? How many dawns, and how many waters?” and the tone of this  verse is in harmony with the philosophical speculation characteristic of such Xth  Maṇḍala hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Fragment
 </details>

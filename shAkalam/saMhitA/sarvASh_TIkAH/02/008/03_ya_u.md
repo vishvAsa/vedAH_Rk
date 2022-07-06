@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उ श्रिया꣡ द꣡मेषु आ꣡  
 दोषो꣡ष꣡सि प्रशस्य꣡ते  
 य꣡स्य व्रतं꣡ न꣡ मी꣡यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 यस्य॑ । व्र॒तम् । न । मीय॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -90,19 +90,19 @@ genre M
 योग्निः श्रियाज्वालयायुक्तः सन् दमेषु गृहेषुआ आगत्य दोषारात्रिषु उषसि अहःसुच प्रशस्यते स्तूयते यस्याग्नेर्व्रतङ्कर्मनमीयते नहिंस्यते नक्षीयतेवा उःपूरणः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who invested with radiance, is glorified, morning and evening, in (our) dwelling; whose worship is never neglected.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who with his beauty is proclaimed in the houses at evening and at dawn, whose commandment is not confounded,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -111,28 +111,28 @@ The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who for his glory is extolled at eve and morning in our homes,  
      Whose statute is inviolate;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who is praised in the houses on account of his beauty in the evening and at dawn, whose law is not set at nought,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der um seiner Schönheit in den Häusern bei Dunkelwerden und am Morgen gepriesen wird, dessen Gebot nicht übertretend wird;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und in den Häusern spät und früh durch schönen Glanz verherrlicht wird, Und dessen Werk nicht untergeht;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто благодаря (своей) красоте в домах  
 Прославляется вечером и утром,  

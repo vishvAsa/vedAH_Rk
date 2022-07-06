@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ अस्य पृशनायु꣡वः  
 सो꣡मं श्रीणन्ति पृ꣡श्नयः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 व꣡स्वीर् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 प्रि॒याः । इन्द्र॑स्य । धे॒नवः॑ । वज्र॑म् । हि॒न्व॒न्ति॒ । साय॑कम् । वस्वीः॑ । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -112,43 +112,43 @@ genre M;; repeated line
 **ताः** पूर्वोक्ताः **अस्य** इन्द्रस्य **पृशनायुवः** स्पर्शनकामाः **पृश्नयः** नानावर्णा गावः इन्द्रेण पातव्यं **सोमं** पयसा **श्रीणन्ति** मिश्रीकुर्वन्ति । **इन्द्रस्य** **प्रियाः** प्रीतिहेतुभूतास्ताः **धेनवः** **सायकं** शत्रूणामन्तकारकं **वज्रम्** आयुधं **हिन्वन्ति** शत्रुषु प्रेरयन्ति । इन्द्रो यथा शत्रुषु वज्रं प्रेरयति तथेन्द्रस्य मदमुत्पादयन्तीत्यर्थः । अन्यत् पूर्ववत् ॥ हिन्वन्ति । हिविः प्रीणनार्थः। इदित्त्वात् नुम् । सायकम् । षो अन्तकर्मणि' । ण्वुलि आत्वे युगागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of his contact, those bridled cows dilute the **Soma** with their milk; the kine that are loved of **Indra** direct his destructive thunderbolt against his foes, abiding (in their stalls) expectant of his sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These dappled ones, eager for caresses, prepare the soma for him. The milk-cows dear to Indra propel his mace, his missile.  
 – The good ones (cheer) on his sovereignty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse contains another clue that the Maruts are the underlying referent.
 
 The fem. subjects are identified as pṛ́śnayaḥ ‘dappled’, but pṛ́śni- is also the name of the Maruts’ mother. They would be called Pṛśnis here, just as they are regularly called Rudras, after their father Rudra. Note the phonetic figure pr̥śanāyúvaḥ ... pṛ́śnayaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Craving his touch the dappled kine mingle the Soma with their milk.  
      The milch-kine dear to Indra send forth his death-dealing thunderbolt, good in their own supremacy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach ihm liebesbrünstig mischen die scheckigen Kühe den Soma; die lieben Milchkühe des Indra spornen die Keule, sein Wurfgeschoß an. Die Guten jubeln seiner Selbstherrlichkeit zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Schecken schmiegen lüstern sich an ihn, dem Soma beigemischt, Die Kühe, die dem Indra lieb, befördern ihm sein Blitzgeschoss, lichthell in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ласкаясь к нему, эти  
 Пестрые (коровы) смешивают сому (со своим молоком).  

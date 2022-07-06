@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡र् उ षू꣡ र꣡थं हुवे  
 सध꣡स्तुत्याय सूरि꣡षु  
 अ꣡तूर्तदक्षा वृषणा वृषण्वसू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अतू॑र्तऽदक्षा । वृ॒ष॒णा॒ । वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -86,36 +86,36 @@ genre M
 हे **अतूर्तदक्षा** । ‘तॄ प्लवनतरणयोः' इत्यस्य निष्ठायां ‘नसत्त' इति सूत्रेण निपातितः । परैरहिंसितबलौ **वृषणा** वृषणौ कामानां सेक्तारौ अत एव **वृषण्वसू** वर्षणशीलधनवन्तावश्विनौ **युवोः** युवयो रथं **सु** **हुवे** सुष्ठु स्तोत्रादिभिराह्वयामि । किमर्थम् । **सूरिषु** प्राज्ञेषु स्तोतृषु मध्ये **सधस्तुत्याय** । स्तौतेर्भावे क्यप् । सह भवन्तौ स्तोतुम् । तस्माद्युवयोः शीघ्रगत्यै युष्मद्गमनसाधनरथमेवाह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Aśvins**) of irresistible strength, affluent showerers (of benefits), I invoke your chariot amid the pious,who are assembled to celebrate your presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call your chariot for joint praise among our patrons,  
 o you of invincible skill, you bulls who bring bullish goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I CALL your chariot to receive united praise mid princely men,  
      Strong Gods who pour down wealth, of never vanquished might!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen rufe ich fein, um bei den reichen Gönnern einstimmiges Lob zu finden, ihr Bullen von unübertroffener Willenskraft, ihr Schatzreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe euren Wagen her zum Chorlied bei der edlen Schar, O heldenstarke Helden, unbesiegt an Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот зову я, как следует, вашу колесницу  
 Для совместного восхваления у покровителей,  

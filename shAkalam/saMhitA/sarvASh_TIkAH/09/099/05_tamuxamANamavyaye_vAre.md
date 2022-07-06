@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उक्ष꣡माणम् अव्य꣡ये  
 वा꣡रे पुनन्ति धर्णसि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ शासते मनीषि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दू॒तम् । न । पू॒र्वऽचि॑त्तये । आ । शा॒स॒ते॒ । म॒नी॒षिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -92,7 +92,7 @@ genre M
 **उक्षमाणम्** अद्भिः सिच्यमानं **धर्णसिं** सर्वस्य धारकं **तं** सोमम् **अव्यये** अविमये **वारे** वाले पवित्रे **पुनन्ति** शोधयन्ति । ततः **मनीषिणः** मेधाविनो यजमानाः तमिमं सोमं **दूतं** **न** दूतमिव **पूर्वचित्तये** देवानां पूर्वमेव प्रज्ञापनाय **आ** **शासते** प्रार्थयन्ते ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ genre M
 The wise worshippers instrumental uct: śāsate = they desire him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They purify him on the sheep’s fleece, while the steadfast one grows strong. Those of inspired thought hope for him to be like a messenger, (for  
 them) to be first in his thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou (flg. Sāyaṇa.) take ukṣámāṇa- to √ukṣ ‘sprinkle’, not √vakṣ / ukṣ ‘grow strong’. I prefer the latter, because even medial forms of ‘sprinkle’ are transitive (cf., e.g., V.59.1 ukṣánte áśvān) and this one would be passive, but ‘sprinkle’ is not excluded.
 
@@ -126,23 +126,23 @@ gír- in V.43.8, vā́c- in IV.33.1, both cited above).
 Finally, what about the purpose dat. pūrvácittaye? This form, occurring 8x, only in the dat., in all of its occurrences can mean “for X to be first in (s.o.’s) thoughts.” See comm. ad I.112.1. In two of its occurrences (VIII.3.9, 6.9) it is a formulation (bráhma) that we want to be first in Indra’s thought: e.g., VIII.3.9 tát tvā yāmi suvī́ryam, tád bráhma pūrvácittaye “I beg you for a mass of good heroes and for the sacred formulation to be first in your thought.” I suggest that this is the exact configuration we have here, if we supply a verbal product as the obj. of ā́śāsate, as the parallel to dūtám in the simile, and as the subject of the infinitival pūrvácittaye. A supplied “hymn / thought / formulation” works well with all three of these nested elements and yields sense: “Those of insightful thought direct (a thought/formulation) like a messenger to be first in his thought.” I would now substitute this tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They purify him as he drops, courageous, in the fleecy sieve.  
      Him they instruct as messenger to bear the sage's morning prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mit Wasser Besprengten läutern sie in dem Schafhaar, den Standhaften. Die Nachsinnenden wünschen ihn wie einen Boten zu senden, um von den Göttern zuerst bedacht zu werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie klären ihn, den träufelnden, den starken in des Widders Haar, Wie einen Boten weisen ihn sogleich die klugen Sänger an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они очищают этого стойкого (сому),  
 Окропляемого в сите из овечьей шерсти.  

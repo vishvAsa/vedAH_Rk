@@ -6,14 +6,14 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि ऊ षु꣡ प्र꣡ धन्व वा꣡जसातये  
 प꣡रि वृत्रा꣡णि सक्ष꣡णिः  
 द्विष꣡स् तर꣡ध्या ऋणया꣡ न ईयसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 द्वि॒षः । त॒रध्यै॑ । ऋ॒ण॒ऽयाः । नः॒ । ई॒य॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pary* ← *pari*
 - \[adverb\]
@@ -97,42 +97,42 @@ genre M
 हे सोम **सु** सुष्ठु **वाजसातये** अस्मभ्यमन्नदानायैव **परि** **प्र** **धन्व** परितः प्रगच्छ । यद्वा । वाजसातयेऽन्नलाभाय संग्रामं प्रगच्छ । किंच **सक्षणिः** सहनशीलस्त्वं **वृत्राणि** शत्रून् **परि** गच्छ। तदेवोच्यते । **नः** अस्माकम् **ऋणयाः** ऋणानां यापयिता विनाशयिता त्वं **द्विषः** शत्रून् **तरध्यै** तरीतुं हन्तुम् **ईयसे** परिगच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten, **Soma**, to bring us sustenance; gifted with endurance (attack our) foes; the acquitter of our debts, you approach to disperse our enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run forth and around to gain the prize, around as the vanquisher of  obstacles.  
 As the requiter of our debts, you speed [/are implored] to overcome  
 hatreds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pári prá dhanva …, IX.110.1 páry ū ṣú prá dhanva The primary reading of the verb īyase is, no doubt, ‘you speed’, with the standard interpr.; however it may also have a secondary reading as the passive to √yā ‘implore, beseech’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O'ERPOWERING Vrtras, forward run to win great strength:  
      Thou speedest to subdue like one exacting debts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne fein ringsum ab, um den Siegerpreis zu gewinnen, ringsum die Feinde überwältigend. Um die Hasser zu überwinden, ziehst du als unser Vergelter aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rings um nun ströme schnell hervor zum Opferfest besiegend alle Hasser rings, Den Feind zu schlagen eilst als Schuldbestrafer du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Беги хорошенько вперед (повсюду) вокруг к захвату добычи,  
 (Ты,) преодолевающий награды (везде) вокруг!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ नो अग्ने अवमो꣡ भवोती꣡  
 ने꣡दिष्ठो अस्या꣡ उष꣡सो वि꣡उष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वीहि꣡ मॄळीकं꣡+ सुह꣡वो न एधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अव॑ । य॒क्ष्व॒ । नः॒ । वरु॑णम् । ररा॑णः । वी॒हि । मृ॒ळी॒कम् । सु॒ऽहवः॑ । नः॒ । ए॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 हे **अग्ने** **सः** तादृशः **त्वम्** **ऊती** ऊत्या रक्षणेन **नः** अस्माकम् **अवमः** अर्वाचीनः प्रत्यासन्नः सन् **अस्या** **उषसो** **व्युष्टौ** व्युच्छने प्रातःकालेऽग्निहोत्रादिकर्मसिद्ध्यर्थं **नेदिष्टः** **भव** अतिशयेनास्मदन्तिकस्थो भव । यद्वा । ऊत्या गमनेनास्माकमवमो रक्षको भव । किंच **नः** अस्माकं **वरुणं** वरुणकृतं जलोदरादिरोगम् आवरकं पापं वा **अव** **यक्ष्व** अवयज । विनाशयेत्यर्थः । **रराणः** अस्मद्दत्ते हविषि रममाणः । यद्वा । यजमानेभ्यः अत्यन्तमीप्सितफलप्रदः त्वं **मृळीकं** सुखकरमिदं हविः **वीहि** भक्षय। किंच **नः** अस्माकं **सुहवः** शोभनाह्वानोपेतः **एधि** भव । नेदिष्टः । अन्तिकशब्दादिष्ठनि  अन्तिकबाढयोर्नेदसाधौ ' इति नेद इत्यादेशः । नित्त्वादाद्युदात्तः । रराणः । रमतेः कानचि मकारलोपश्छान्दसः । यद्वा! रातेः यङ्लुकि व्यत्ययेन कानच् । ‘अभ्यस्तानामादिः । एधि । अस्तेर्लोटि  ‘ ध्वसोरेद्धावभ्यासलोपश्च' इति ए इत्यादेशः । तस्यासिद्धत्वात् ‘हुझल्भ्यो हेर्धिः' । निघातः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,39 +149,39 @@ genre M
 **Yajus**. 21.4; Deprecate Varuṇa for us: ava yakṣva no varuṇam: vināśaya, destroy (verb); varuṇa-kṛtam (object), that which has been done by Varuṇa, as disease inflicted by him, such as dropsy; or the term may imply pāpam, sin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, come down close to us with your help; be nearest to us at  the breaking of this dawn.  
 Through sacrifice placate Varuṇa for us, as you give to us. Pursue his  grace; be easy for us to invoke.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The idiom áva √yā ‘placate, appease’ found in 4b finds a close variant in 5c áva yakṣva ‘placate through sacrifice’ to áva √yaj. Though belonging to different roots, they are phonologically and semantically similar. Another such variant is found in d vīhí mṛḷīkám “pursue his grace,” which echoes 3d mṛḷīkám … vidaḥ “you (will) find grace” -- again two different roots (vī and vid) but phonologically and semantically similar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou, O Agni, nearest us with succour, our closest Friend while now this Morn is breaking.  
      Reconcile to us Varuna, be bounteous enjoy the gracious juice; be swift to hear us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As such, O Agni, be for us the lowest  1 (god) with thy help, our nearest (friend) while this dawn shines forth. Being liberal (towards us), cause, by sacrificing, Varuna to go away from us. Love mercy; readily hear our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du, Agni, uns nahe mit deiner Hilfe, uns der Nächste bei dem Aufgang dieser Morgenröte. Versöhne bereitwillig den Varuna mit uns, sei zur Barmherzigkeit geneigt, sei für uns leicht zu errufen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Hülfe sei, o Agni, uns der nächste, der liebste Freund beim Lichte dieses Frühroths; Besänftige den Varuna uns huldvoll, verschaff uns Gunst, lass gern von uns dich rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, будь нам близким со (своей) помощью,  
 Ближайшим при зажигании этой зари!  

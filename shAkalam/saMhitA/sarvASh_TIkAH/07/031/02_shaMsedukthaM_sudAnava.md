@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡से꣡द् उक्थं꣡ सुदा꣡नव  
 उत꣡ द्युक्षं꣡ य꣡था न꣡रः  
 चकृमा꣡ सत्य꣡राधसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 च॒कृ॒म । स॒त्यऽरा॑धसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃsed* ← *śaṃsa* ← *śaṃs*
 - \[verb\], singular, Present imperative
@@ -91,20 +91,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे स्तोतः **सुदानवे** शोभनदानाय **सत्यराधसे** सत्यधनायेन्द्राय **उक्थं** स्तोमं **यथा** **नरः** अन्ये स्तोतारः **द्युक्षं** दीप्तेः साधनभूतं स्तोत्रं शंसन्ति तद्वत्वमपि **शंस** उच्चारय । **इत्** इति पूरणः । वयं च **चकृम** स्तोत्रं करवाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Repeat to the liberal **Indra** such brilliant praise as other (men repeat); let us offer it to him who is affluentin truth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You yourself, o poet—) recite solemn speech to him of good gifts. And  thus, like the superior men [=Maruts],  
 we have made a heavenly (speech) for him whose generosity is real.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike other interpretors, I take utá as marking a new clause, summing up the actions of the poet (who addresses himself in 2a) and his ritual companions (whom he addresses in vs. 1) and comparing them to the actions of the Maruts (yáthā náraḥ). Klein (I.409) takes utá as connecting vss. 1 and 2, but the position of utá in 2b makes that interpretation awkward. Geldner takes it as connecting ukthám and dyukṣám (“… ein Loblied … und zwar ein himmlisches”). His interpretation assumes a new clause beginning with yáthā in the middle of b and also takes cakṛmā́in c as a sort of 34 dummy verb substituting for a verb of poetic speech (“wie wir Männer es … gedichtet haben”). But, although “just as we have done” works fine in English as a dummy verb, I am not sure that √kṛ can be bleached in the same manner in Sanskrit
 
@@ -112,22 +112,22 @@ Unlike other interpretors, I take utá as marking a new clause, summing up the a
 kṛṇóti in I.77.1. Since the Maruts as Indra’s singers are mentioned elsewhere in the hymn (explicitly vs. 8, implicitly vs. 12) and are often called náraḥ, my interpretation of b has some support. The position of yáthā as a simile marker might be problematic, however; it can be ameliorated by assuming that dyukṣám forms part of the simile “as the superior men (made/make) a heavenly (speech), we have made …” For dyukṣá- qualifying ‘speech’, cf. the compound dyukṣá-vacas- (VI.15.4).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the Bounteous say the laud, and let us glorify, as men May do, the Giver of true gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trage dem Freigebigen ein Loblied vor und zwar ein himmlisches, wie wir Männer es für den wahrhaft Freigebigen gedichtet haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, sing ein Lied dem spendenden, ein himmlisches, wie wir's gemacht, Wir Männer dem, der Gutes schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исполни же хвалу для прекрасно дающего,  
 Как раз (такую) небесную, как мы, мужи,  

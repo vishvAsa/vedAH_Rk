@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वा ज꣡नास इन्धते꣡  
 मनुष्व꣡द् अङ्गिरस्तम  
 अ꣡ग्ने स꣡ बोधि मे व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । सः । बो॒धि॒ । मे॒ । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -87,35 +87,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अङ्गिरस्तमाग्ने** **यं** **त्वा** त्वां **जनासः** जनाः **मनुष्वत्** यथा मनुस्तथा **इन्धते** दीपयन्ति **सः** त्वं **मे** मदीयं **वचः** स्तुतिं **बोधि** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Chief of the **Aṅgirasas**, whose men kindle as did **Manus**; **Agni**, hear my words.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You whom the peoples kindle, as Manu did, o best of the Aṅgirases, Agni, take cognizance of my speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou whom the people kindle even as Manus did, best Angiras!  
      O Agni, mark thou this my speech.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, den die Leute anzünden, wie Manu es tat, du als oberster Angiras, Agni, achte du auf meine Rede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, bester Angiras, den Menschen nach des Manus Art Entzünden, achte auf mein Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда люди зажигают тебя,  
 Подобно Ману, о лучший из Ангирасов,  

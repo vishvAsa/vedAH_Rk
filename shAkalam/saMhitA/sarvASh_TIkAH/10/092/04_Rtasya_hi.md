@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य हि꣡ प्र꣡सितिर् द्यउ꣡र् उरु꣡ व्य꣡चो  
 न꣡मो मही꣡ अर꣡मतिः प꣡नीयसी  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡थो भ꣡गः सविता꣡ पूत꣡दक्षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । मि॒त्रः । वरु॑णः । सम् । चि॒कि॒त्रि॒रे॒ । अथो॒ इति॑ । भगः॑ । स॒वि॒ता । पू॒तऽद॑क्षसः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -123,7 +123,7 @@ genre M
 **ऋतस्य** यज्ञस्य संबन्धिनमेनमग्निं प्रति **प्रसितिः** विस्तृता **द्यौः** **उरु** विस्तीर्णं **व्यचः** व्याप्तमन्तरिक्षं च **पनीयसी** स्तुत्यतमा **अरमतिः** पर्यन्तरहिता **मही** पृथिवी च **नमः** नमनं कुर्वन्तीति शेषः । **अथो** अपि च एनमग्निम् **इन्द्रो** **मित्रः** च **वरुणः** च **भगः** च **सविता** **पूतदक्षसः** शुद्धबला एते देवा एनमग्निं **सं** चिकित्रिरे ज्यैष्ठ्याय संजानते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 With them: yebhiḥ = a reference to the **Maruts**, the sons of **Rudra**, who is referred to in the first line of theverse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For heaven, the broad expanse, is the trajectory of truth. (There there is)  Reverence and great Devotion, the very admirable.  
 (There) Indra, Mitra, Varuṇa perceive with like mind, and Bhaga and  Savitar—(all) possessing refined skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For then the net of Law, Dyaus, and the wide expanse, Earth, Worship, and Devotion meet for highest praise,  
      Varuna, Indra, Mitra were of one accord, and Savitar and Bhaga, Lords of holy might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn das Netz des Gesetzes, der Himmel, der weite Raum, die Verehrung, die große, beste Aramati, Indra, Mitra und Varuna sind eines Sinnes und Bhaga, Savitri, die von lauterem Wollen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Rechts Verbreitung und des Himmels weiter Raum, die grosse Ehrfurcht, Andacht, die gepriesene, Und Indra, Mitra, Varuna, sie zeigten sich, die reingesinnten alle, Bhaga, Savitar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

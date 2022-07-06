@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡नासो अग्निं꣡ दधिरे सहोवृ꣡धं  
 हवि꣡ष्मन्तो विधेम ते  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 भ꣡वा वा꣡जेषु सन्तिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । नः॒ । अ॒द्य । सु॒ऽमनाः॑ । इ॒ह । अ॒वि॒ता । भव॑ । वाजे॑षु । स॒न्त्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janāso* ← *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
@@ -122,41 +122,41 @@ genre M
 **जनासः** अनुष्ठातारो जनाः **सहोवृधं** बलस्य वर्धयितारम् **अग्निं** **दधिरे** धृतवन्तः । **हविमन्तः** हविर्युक्ता वयं हे अग्ने **ते** त्वां **विधेम** परिचरेम । विधतिः परिचरणकर्मा । विधेम सपर्यति' (नि. ३.५.२) इति परिचरणर्मसु पठितत्वात् । **वाजेषु** अन्नेषु **सन्त्य** दानशील हे अग्ने **स** **त्वम्** **अद्य** अस्मिन् दिने **इह** कर्मणि **नः** अस्मान् प्रति **सुमनाः** शोभनमनस्कः **अविता** रक्षिता **भव** ॥ सहोवृधम् । वृधु वृद्धौ । अस्मात् अन्तर्भावितण्यर्थात् क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । हविष्मन्तः । ‘ तसौ मत्वर्थे ' इति भत्वेन पदत्वाभावात् रुत्वाद्यभावः । विधेम । ‘ विध विधाने '। तुदादित्वात् शः । सुमनाः। शोभनं मनो यस्यासौ सुमनाः । ‘ सोर्मनसी अलोमोषसी 'इत्युत्तरपदाद्युदात्तत्वम् । भव । पादादित्वात् ' तिङ्ङतिङः' इति निघाताभावः । द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः । सन्त्य। ‘षणु दाने'। क्तिचि ‘तितुत्र' इत्यादिना इट्प्रतिषेधः । ‘न क्तिचि दीर्घश्च' (पा. सू. ६. ४. ३९ ) इत्यनुनासिकलोपदीर्घयोर्निषेधः । सन्तिर्दाता । तत्र भवः सन्त्यः । ‘ भवे छन्दसि ' इति यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Men have recourse to **Agni**, the augmenter of vigour; offering oblations, we worship you; do you liberal giver of food, be well disposed to us here this day, and be our protector.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The peoples have installed Agni, the increaser of might. Bringing  oblations, we would do honor to you.  
 Become today our benevolent helper here when prizes (are at stake), o  comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men have won Agni, him who makes their strength abound: we, with oblations, worship thee.  
      Our gracious-minded Helper in our deeds of might, be thou, O Excellent, this day.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Men have placed Agni (on the altar) as the augmenter of strength. May we worship thee, rich in sacrificial food. Thus be thou here to-day gracious to us, a helper in our striving for gain, O good one!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Menschen haben den Agni zum Mehrer ihrer Stärke gemacht; mit Opferspenden wollen wir dienen. Sei du uns heute hier ein wohlgesinnter Helfer in den Entscheidungskämpfen, du Wahrhaftiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Menschen schafften Agni sich zum Kräftiger, wir wollen opfernd dienen dir; So sei du heut ein wohlgesinnter Helfer uns bei diesen Opfern, trefflicher!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Люди установили (Агни) как (жреца,) взращенного силой.  
 Принося жертвенные возлияния, мы хотим служить тебе.  

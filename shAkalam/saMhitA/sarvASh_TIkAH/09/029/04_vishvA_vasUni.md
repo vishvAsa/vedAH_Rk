@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा व꣡सूनि संज꣡यन्  
 प꣡वस्व सोम धा꣡रया  
 इनु꣡ द्वे꣡षांसि सध्रि꣡अक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒नु । द्वेषां॑सि । स॒ध्र्य॑क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -74,36 +74,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **विश्वा** सर्वाणि **वसूनि** अस्मदर्थं **संजयन्** **पवस्व** क्षर **धारया** । **द्वेषांसि** द्वेष्याणि सर्वाणि **सध्र्यक्** सहैव **इनु** प्रेरय दूरदेशं प्रति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Soma**, in a full stream, conquering for us all treasures-- drive our enemies away together.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Winning all good things, purify yourself in a stream, Soma.  
 Drive hostilities to a single end.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winning all precious things at once, flow on, O Soma, with thy stream  
      Drive to one place our enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Güter erobernd läutere dich, Soma, im Strome, banne die Feinde insgesamt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erringend alle Güter dir, o Soma, riesle hell im Strom, Bezwing' die Feinde allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Завоевывая все блага,  
 Очищайся, о сома, потоком!  

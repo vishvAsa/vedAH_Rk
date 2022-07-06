@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्म अस्य द्र꣡वतस् तुरण्यतः꣡  
 पर्णं꣡ न꣡ वे꣡र् अ꣡नु वाति प्रगर्धि꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दधिक्रा꣡व्णः सह꣡ ऊर्जा꣡ त꣡रित्रतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्ये॒नस्य॑ऽइव । ध्रज॑तः । अ॒ङ्क॒सम् । परि॑ । द॒धि॒ऽक्राव्णः॑ । स॒ह । ऊ॒र्जा । तरि॑त्रतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 **उत** **स्म** अपि च खलु **द्रवतः** गच्छतः **तुरण्यतः** त्वरमाणस्य **प्रगर्धिनः** प्रकर्षेणाभिकाङ्क्षतः **अस्य** **दधिक्राव्णः** देवस्य गतिं **वेः** गन्तुः पक्षिणः”पर्णं **न** गमनं पत्रं वा अनुसृत्य यथा वान्त्यन्ये पक्षिणस्तद्वत् **अनु** **वाति** सर्वो वेगवान् जनः । सर्वेषामपि शीघ्रगामीत्यर्थः । किंच **ध्रजतः** गच्छतः **तरित्रतः** तारयतोऽन्यान् ॥ अन्तर्भावितण्यर्थोऽयम् ॥ **श्येनस्येव** **अङ्कसं** पादाधारम् उरःप्रदेशं वा **परि** परितः **ऊर्जा** बलेन निमित्तेनान्नार्थं वा **सह** एकीभूय । संघेन गच्छन्तीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 **Yajus**. 9.15; after him who is: **asya** **dravatas** turaṇyataḥ parṇam nādādhāram uraḥ pradeśam vā of Dadhikrāvaṇ, together with strenght, or for the sake of strength together, enabling to cross; aṅkasam **pari** = a horse's trappings, the cloth, tail, vastracamarādikam, over all his body, which fly open as the horse gallops, like the wings of a bird, the horse has the speed of a hawk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And (the wind) fans up his “feathers” [=mane], like the feathers of a bird  in greedy pursuit, while he runs and rushes headlong,  
 while he swoops like a falcon around the curving (racecourse), while he  keeps advancing with his vigor—Dadhikrāvan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The imagery of this vs. picks up the ‘flying’ (pataṃgaráḥ) of 2c.
 
@@ -162,23 +162,23 @@ There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His pinion, rapid runner, fans him m his way, as of a bird that hastens onward to its aim,  
      And, as it were a falcon's gliding through the air, strikes Dadhikravan's side as he speeds on with might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und hinter ihm, dem Laufenden, Vorauseilenden weht der Wind hinterdrein wie hinter dem Flügel eines beutegierigen Vogels, wenn Dadhikravan wie ein Adler sausend mit seiner Kraft den Rank abgewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehrlich vorwärts eilt, Des Adlers, der im Bogen um den Himmel fliegt, des Dadhikra, der kräftig durch die Lüfte dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: вслед за ним, бегущим, рвущимся вперед,  
 Веет (ветер), как за крылом птицы, жадно бросающейся вперед,  

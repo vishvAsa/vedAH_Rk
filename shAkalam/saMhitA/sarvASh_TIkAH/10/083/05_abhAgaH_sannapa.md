@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभागः꣡ स꣡न्न् अ꣡प प꣡रेतो अस्मि  
 त꣡व क्र꣡त्वा तविष꣡स्य प्रचेतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवा꣡ तनू꣡र् बलदे꣡याय मे꣡हि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । त्वा॒ । म॒न्यो॒ इति॑ । अ॒क्र॒तुः । जि॒ही॒ळ॒ । अ॒हम् । स्वा । त॒नूः । ब॒ल॒ऽदेया॑य । मा॒ । आ । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhāgaḥ* ← *a*
 - \[adverb\]
@@ -139,7 +139,7 @@ popular
 हे **प्रचेतः** प्रकृष्टज्ञान **मन्यो** **तविषस्य** महतः **तव** **क्रत्वा** कर्मणा **अभागः** भागरहितः **सन्** । त्वां यज्ञेऽयाजकः सन्नित्यर्थः । त्वदनुकूलरहितोऽहम् **अप** **परेतोऽस्मि** युद्धे शत्रुभिरभिभूतः सन् दूरं गतोऽस्मि । **तं** तादृशं भागरहितं **त्वा** त्वां हे **मन्यो** **अक्रतुः** कर्मरहितः **अहं** **जिहीळ** क्रुद्धं कृतवानित्यर्थः । यद्वा अहमेव त्वत्सहायमेव क्रोधितवान् । अथेदानीं **स्वा** **तनूः** मम शरीरभूतस्त्वं **बलदेयाय** बलदानाय **मेहि** मां प्राप्नुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,29 +150,29 @@ popular
 Taking no part in the worship: liṭ, being without a share in your acts (kṛtvā), i.e., not sacrificing to youat the sacrifice, and therefore being deprived of your favour\]. Manyu, bearer of the thunderbolt, come up to me, let us slay the **Dasyus**, think upon you kinsman.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being without a portion, I have gone off far away, because of your  intention, you forceful and discerning one.  
 Unintentionally I have angered you, Battle Fury. In your own person  come to me to give me power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have departed, still without a portion, wise God! according to thy will, the Mighty.  
      I, feeble man, was wroth thee, O Manyu I am myself; come thou to give me vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Beuteanteil bin ich abgezogen, nach deinem, des Starken, Ratschluß, du Weiser. Dich, Manyu, habe ich ohne Absicht erzürnt. In eigener Person komme zu mir, um mir Kraft zu leihen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinweggegangen bin ich ohne Antheil nach deiner Weisheit, starker du und weiser; Drum hatt' ich Thor, o Manju, dir gezürnet; leibhaftig komme kraftverleihend zu mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

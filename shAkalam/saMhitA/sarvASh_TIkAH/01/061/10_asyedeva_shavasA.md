@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् एव꣡ · श꣡वसा शुष꣡न्तं  
 वि꣡ वृश्चद् · व꣡ज्रेण वृत्र꣡म् इ꣡न्द्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ श्र꣡वो · दाव꣡ने स꣡चेताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 गाः । न । व्रा॒णाः । अ॒वनीः॑ । अ॒मु॒ञ्च॒त् । अ॒भि । श्रवः॑ । दा॒वने॑ । सऽचे॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -129,41 +129,41 @@ genre M;; gautamī; see Arnold (1905) 240–1
 अस्यैवेन्द्रस्य **शवसा** बलेन **शुषन्तं** शुष्यन्तं **वृत्रम्** इन्द्रः **वज्रेण** **वि** **वृश्चत्** व्यच्छिनत् । तथा **गा** **न** चौरैरपहृताः गाव इव **व्राणाः** वृत्रेणावृतः **अवनीः** रक्षणहेतुभूता अपः **अमुञ्चत्** अवर्षीत् । तथा **दावने** हविर्दात्रे यजमानाय **सचेताः** तेन यजमानेन समानचित्तः सन् **श्रवः** कर्मफलभूतमन्नम् **अभि** आभिमुख्येन ददातीति शेषः ॥ शुषन्तम् । शुष शोषणे'। श्यनि प्राप्ते व्यत्ययेन शः । अदुपदेशात् लसार्वधातुकानुदात्तत्वे विकरणस्वर एवं शिष्यते। व्राणाः । ‘वृञ् वरणे' । कर्मणि लटः शानचि ‘बहुलं छन्दसि' इति यको लुक् । शानचो ङित्त्वाद्गुणाभावे यणादेशः । अवनीः । अवतेः करणे ‘अर्तिसृधृधमि° ' ( उ. सू. २. ३५९ ) इत्यादिना अनिप्रत्ययः । प्रत्ययाद्युदात्तत्वम् । दावने । ‘आतो मनिन् ' इति वनिप् । चतुर्थ्येकवचने अल्लोपाभावश्छन्दसः ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, by his vigour, cut to pieces with his thunderbolt **Vṛtra**, the absorber (of moisture), and set free the preserving waters, like cows (recovered from thieves); and, consentient (to the wishes)of the giver of the oblation, (grants him) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just this one—with his swelling strength Indra hewed apart snorting  Vr̥tra with his mace.  
 The streams, pent up like cows, he released toward fame, of one mind  (with them), for giving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Numerous phonological plays in this verse: a śávasā śuṣántam; b ví vṛścad vájreṇa vṛtrám; c gā́ná vrā́nā avánīr (in this last example note the rhyme of the 1st two words with the 2nd one).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through his own strength Indra with bolt of thunder cut piece-meal Vrtra, drier up of waters.  
      He let the floods go free, like cows imprisoned, for glory, with a heart inclined to bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch seine Kraft allein zerhieb Indra mit der Keule den wütenden Vritra. Die Flüsse, die wie die Kühe eingesperrt waren, befreite er, auf Ruhm ausgehend, zu schenken einverstanden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Vritra schlug mit seinem Blitze Indra, den schnaufenden durch seines Blitzes Stärke, Entliess die Ström', wie eingesperrte Kühe, um holdgesinnt ruhmreiches Gut zu schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это только своей мощью шипящего  
 Вритру Индра разрубил ваджрой.  

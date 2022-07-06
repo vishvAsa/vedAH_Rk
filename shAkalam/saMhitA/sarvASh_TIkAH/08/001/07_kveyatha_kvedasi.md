@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡वेयथ कुवे꣡द् असि  
 पुरुत्रा꣡ चिद् धि꣡ ते म꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 प्र꣡ गायत्रा꣡ अगासिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अल॑र्षि । यु॒ध्म॒ । ख॒ज॒ऽकृ॒त् । पु॒र॒म्ऽद॒र॒ । प्र । गा॒य॒त्राः । अ॒गा॒सि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kveyatha* ← *kva*
 - \[adverb\]
@@ -115,21 +115,21 @@ genre M
 हे इन्द्र **क्व** कुत्र देशे **इयथ** गतवानसि पुरा । **क्वेत्** कुत्र च **असि** भवसि । इदानीं वर्तसे । **पुरुत्रा** **चिद्धि** बहुषु हि यजमानेषु **ते** त्वदीयं **मनः** संचरति । हे **युध्म** युद्धकुशल **खजकृत्** युद्धस्य कर्तर्हे **पुरंदर** आसुरीणां पुरां दारयितर्हे इन्द्र **अलर्षि** आगच्छ । **गायत्राः** गानकुशला अस्मदीयाः स्तोतारः **प्र** **अगासिषुः** प्रगायन्ति स्तुवन्ति । ‘ अलर्षि' इत्येतत् दाधर्त्यादौ (पा. सू. ७. ४. ६५) इयर्तेर्निपात्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where have you gone? Where, indeed, are you now? Verily your mind (wanders) among many(worshippers); martial, valorous **Purandara**, come here; the chanters are singing (your praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where have you gone? Where are you? For surely your mind is in many  places.  
 Are you on the rise?—you fighter, creator of tumult, cleaver of  
 strongholds. They have sung forth their songs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On iyatha (rather than iyetha) see Kümmel (100), following Hoffmann 1976: 553 n. 3.
 
@@ -138,23 +138,23 @@ The verse contains several unexpressed presuppositions. The anxious questions in
 The long (12-syl.) third pāda of bṛhatī nicely accommodates such iterations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where art thou? Whither art thou gone? For many a place attracts thy mind.  
      Haste, Warrior, Fort-destroyer, Lord of battle's din, haste, holy songs have sounded forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohin bist du gegangen? Wo bist du? Nach vielen Orten steht ja dein Sinn. Regst du dich, Kämpfer, Streiterreger, Burgenbrecher? Die Sänger haben den Gesang ange-stimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo gingst du hin, wo weilest du? denn vielbeschäftigt ist dein Sinn; Du Burgzerstörer, Kampferreger, eilst, o Held, erklungen sind die Lieder dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Куда ты отправился? Где же ты находишься?  
 Ведь мысль твоя во многих местах.  

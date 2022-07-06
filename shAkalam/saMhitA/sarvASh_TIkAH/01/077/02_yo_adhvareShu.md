@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अध्वरे꣡षु शं꣡तम ऋता꣡वा  
 हो꣡ता त꣡म् ऊ न꣡मोभिर् आ꣡ कृणुध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ चा बो꣡धाति म꣡नसा यजाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । यत् । वेः । मर्ता॑य । दे॒वान् । सः । च॒ । बोधा॑ति । मन॑सा । य॒जा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ genre M
 **यः** अग्निः **अध्वरेषु** यागेषु **शंतमः** अतिशयेन सुखकारी **ऋतावा** सत्यवान् यथार्थदर्शीत्यर्थः । **होता** देवानामाह्वाता भवति । हे ऋत्विग्यजमाना यूयं **तमु** तमेवाग्निं **नमोभिः** स्तोत्रैः **आ** **कृणुध्वम्** अभिमुखीकुरुत । **यत्** यदा अयम् **अग्निः** **मर्ताय** मनुष्याय यजमानार्थं **देवान्** **वेः** वेति गच्छति तदानीं **सः** अग्निर्यष्टव्यान् सर्वान् देवान् **बोधाति** **च** जानाति च । ज्ञात्वा च **मनसा** नमसा तान् **यजाति** हविर्भिः पूजयति । अतस्तमेवाग्निम् आ कृणुध्वमिति योज्यम् ॥ वेः । वी गत्यादिषु । 'छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लङ् । तिङा तिङो भवन्ति' इति प्रथमपुरुषैकवचनस्य मध्यमपुरुषैकवचनादेशः । बोधाति । ‘बुध अवगमने'। लेटि आडागमः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । ‘चवायोगे प्रथमा' इति निघातप्रतिषेधः । मनसा। मकारनकारयोः स्थानविपर्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,14 +152,14 @@ genre M
 **Manasā** = with the mind; this is read as: namasā = with reverence, assuming a transposition
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who is the most beneficial at the ceremonies, the truthful  Hotar—attract him here with reverence.  
 When Agni, for the sake of the mortal, has pursued the gods all  
 together, he will be attentive to them and will perform sacrifice with  his mind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the basis of VI.49.6 I most likely want to rethink my interpr. of tám … ā́ kṛṇudhvam from “attract him here” to “make him your own.” See comm. ad loc. Among other things, since “him” is Agni and Agni as ritual fire is already here, we need not attract him here.
 
@@ -174,28 +174,28 @@ The verse contains yet another example in Gotama’s collection of anomalously a
 Here I suggest that we read the adverb sácā at the beginning of d and group it with c (“… pursued the gods altogether”). Lubotsky gives only two examples of lengthened cā, this one and III.57.5, out of over a thousand occurrences of ca, so, as Oldenberg (Noten) points out, the form is suspect. Oldenberg also considers but rejects a reading sácā, though without giving reasons (beyond “kaum wahrscheinlich”). If sácā goes with the preceding pāda, bódhāti begins a new clause and its accent is correct. Note that in the previous hemistich (2ab), yáḥ …, hótā tám ū … ā́kṛṇudhvam, the second pāda begins with a nom. hótā that likewise belongs to the previous pāda, and a new clause begins with the second word tám, whose clause-initial status is emphasized by following ū.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring him with reverence hither, most propitious in sacrifices, true to Law, the herald;  
      For Agni, when he seeks the Gods for mortals, knows them full well and worships them in spirit.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring hither by adoration the Hotri who is most beneficial in sacrifices and righteous. When Agni repairs to the gods on behalf of the mortal 1, may he be attentive in his mind, and may he perform the sacrifice 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn gewinnt durch Huldigung, der bei den Opfern der zusagendste rechtmäßige Hotri ist! Wenn Agni für den Sterblichen die Götter ladet, so möge er aufmerksam sein und mit Überlegung opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der heilig bei den Festen und voll Heil ist, ein Priester, den schafft euch herbei durch Andacht, Wenn zu den Menschen Agni führt die Götter, dann merk er auf und ehre sie im Geiste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто во время обрядов самый благочестивый, праведный  
 Хотар, – его и привлекайте к себе поклонениями!  

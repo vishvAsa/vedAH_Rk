@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अपा꣡म् अपिधा꣡नावृणोर् अ꣡प  
 अ꣡धारयः प꣡र्वते दा꣡नुमद् व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡त् सू꣡र्यं दिवि꣡ आ꣡रोहयो दृशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒त्रम् । यत् । इ॒न्द्र॒ । शव॑सा । अव॑धीः । अहि॑म् । आत् । इत् । सूर्य॑म् । दि॒वि । आ । अ॒रो॒ह॒यः॒ । दृ॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,7 +124,7 @@ genre M
 हे 'इन्द्र **त्वम्** **अपाम्** उदकानाम् **अपिधाना** अपिधानानि आच्छादकान् मेघान् **अप** **अवृणोः** अपावरीष्ठाः । तथा **पर्वते** पर्ववति पूरयितव्यप्रदेशयुक्ते स्वकीय निवासस्थाने **दानुमत्** दानुमतो हिंसायुक्तस्य । यद्वा । दनुः असुरमाता सैव दानुः । तद्वतः। तादृशस्य वृत्रादेः 'वसु धनम् **अधारयः**। शत्रून् जित्वा तदीयं धनमपहृत्य स्वगृहे न्यचिक्षिपः इत्यर्थः । यद्वा । दानुमत् इति वसुविशेषणम्। शोभनदानयुक्तमित्यर्थः । हे इन्द्र त्वं **यत्** यदा **शवसा** बलेन **वृत्रं** त्रयाणां लोकानामावरीतारम् । तथा च शाखान्तरे समाम्नातं - यदिमान् लोकानवृणोत्तद्वृत्रस्य वृत्रत्वम् ' (तै. सं. २. ४. १२.२) इति। **अहिं** आ समन्तात् हन्तारम् । तथा च वाजसनेयिनः समामनन्ति - सोऽग्नीषोमावभिसंबभूव सर्वां विद्यां सर्वं यशः सर्वमन्नाद्यं सर्वां श्रियं स यत्सर्वमेतत्समभवत्तस्मादहिः' इति । एवंभूतमसुरम् **अवधीः** वधं प्रापयः । **आदित्** अनन्तरमेव **दिवि** द्युलोके **दृशे** द्रष्टुं **सूर्यम्** **आरोहयः** । वृत्रेणावृतं सूर्यं तस्माद्वृत्रात् अमूमुचः इत्यर्थः । अपाम् ।' उडिदम् ' इत्यादिना विभक्तेरुदात्तत्वम् । अपिधाना । अपिधीयते आच्छाद्यते एभिरिति अपिधानानि । करणे ल्युट् ।  ‘ लिति' इति प्रत्ययात् पूर्वस्य धात्वाकारस्योदात्तत्वम् । तत एकादेशस्वरः । कृदुत्तरपदप्रकृतिस्वरत्वम् । सुपां सुलुक्° ' इति विभक्तेः पूर्वसवर्णदीर्घत्वम् । अधारयः । पादादित्वात् निघाताभावः । पर्वते । पर्ववान् पर्वतः ।  ‘ पर्व  पुनः पृणातेः प्रीणतेर्वा ' ( निरु. १. २०) इति यास्कः । दानुमत् ।' दो अवखण्डने ' इत्यस्मात् वा ' दाण् दाने ' इत्यस्मात् वा ' दाभाभ्यां नुः' इति औणादिको नुप्रत्ययः । असुरविशेषणत्वे  ‘ सुपां सुलुक् ' इति षष्ठ्या लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ Parvate danumad **vasu** = in the mountain, a dwelling of **Indra**;
 Danumad = descended from **Danu**, a **Dānava**, an **asura** or an epithet of vasu, wealth, fit for liberality (from danu, giving) or one doing injury, an enemy; Vṛtra (Ahi) is hantri, the slayer; so yat sarvān etat samabhavat tasmād ahiriti, inasmuch as he was the same as all that (benefits of sacrifice, fame, knowledge, prosperity), he wa called Ahi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You opened up the covers of the waters; you held fast to the drop-laden  goods in the mountain.  
 When, o Indra, with your vast power you smashed the serpent Vr̥tra, just  after that you made the sun rise in heaven to be seen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse, by contrast, clearly concerns the Vṛtra myth and is for the most part unchallenging. It is worth noting that its first pāda is structured almost exactly like 3a and begins and ends identically: tvám … (a)vṛṇor ápa. The verse also contains an occurrence of vásu (in b), which unfortunately doesn’t shed any light on the mysterious vásu in 3c. In fact 4b is the only part of this verse that is somewhat unclear: the dā́numad vásu (‘drop-laden goods’, taking dā́nu to ‘drop’ with Grassmann and Renou, rather than ‘gift’ with Geldner [/Witzel Gotō]) is of course the water confined in the mountain by Vṛtra, which Indra releases. But why does Indra hold it fast (ádhārayaḥ) in the mountain rather than releasing it as usual? The passage is similar to the Indra ātmastuti X.49.9 aháṃ saptá sraváto dhārayaṃ vṛ́ṣā. Perhaps he gave the waters, as it were, emotional support - but this doesn't sound like either the Rigveda or Indra.
 
@@ -155,23 +155,23 @@ See introduction. to that hymn and Jamison 1982/83. In that case ‘hold fast’
 punning on, an inherited Indo-Iranian collocation of the verb *dhṛ with object *vásu?”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hast unclosed the prisons of the waters; thou hast in the mountain seized the treasure rich in gifts.  
      When thou hadst slain with might the dragon Vrtra, thou, Indra, didst raise the Sun in heaven for all to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast die Verschlüsse der Gewässer geöffnet; du hieltest fest den Schatz der Himmelsgabe in dem Berge. Als du, Indra, den Drachen mit aller Kraft erschlagen hattest, da ließest du am Himmel die Sonne zum Schauen aufsteigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wasserflut Verschlüsse hast du aufgethan, und hast im Berg das tropfenreiche Gut bewahrt; Als Indra du den Vritra-drachen schlugst mit Macht, da liessest hoch am Himmel du die Sonne schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты открыл затворы вод,  
 Ты принес горе добро, связанное с влагой.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡क्षसो अग्निजिह्वा꣡ ऋतावृ꣡ध  
 ऋत꣡स्य यो꣡निं विमृश꣡न्त आसते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यज्ञं꣡ जनित्वी꣡ तनु꣡वी नि꣡ मामृजुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्याम् । स्क॒भि॒त्वी । अ॒पः । आ । च॒क्रुः॒ । ओज॑सा । य॒ज्ञम् । ज॒नि॒त्वी । त॒न्वि॑ । नि । म॒मृ॒जुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divakṣaso* ← *divakṣasaḥ* ← *divakṣas*
 - \[noun\], nominative, plural, masculine
@@ -130,7 +130,7 @@ genre M
 **दिवक्षसः** स्वतेजसा दिवं व्याप्नुवन्तः ।  ‘ अक्षू व्याप्तौ । असुनि रूपम् । यद्वा दिवो वोढारः । **अग्निजिह्वाः** अग्न्यास्याः । अग्निना हवींषि लिहन्त्यास्वादयन्तीति तन्मुखाः । **ऋतावृधः** यज्ञवृद्धा यज्ञस्य वर्धयितारो वा देवाः **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानं **विमृशन्तः** विचारयन्तः प्रतीक्षमाणाः सन्तः **आसते** सर्वत्र तिष्ठन्ति । त इमे **द्यां** द्युलोकं **स्कभित्वी** स्कभित्वा तां धारयित्वा **ओजसा** स्वबलेन **अपः** अपेक्षितान्युदकानि **आ** **चक्रुः** आकुर्वन्ति । ततः **यज्ञं** यजनीयं हविश्व **जनित्वी** जनयित्वा **तन्वि** स्वशरीरे **नि** मामृजुः निमृजन्ति नितरामलंकुर्वन्ति । हविर्भक्षयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 I.e., they partake of the oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those ruling over heaven, with Agni as their tongue, growing strong  through truth, sit stroking the womb of truth.  
 Having propped up heaven, they brought the waters here by their might.  Having given birth to the sacrifice, they clasped it to themselves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Gods whose tongue is Agni dwell in heaven, and sit, aiders of Law, reflecting, in the seat of Law.  
      They propped up heaven and then brought waters with their might, got sacrifice and in a body made it fair.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Himmelsbewohner, deren Zunge Agni ist, die Wahrheitsmehrer, sitzen da, den Schoß der Wahrheit befühlend, überdenkend. Den Himmel haben sie gestützt und mit Kraft die Wasser hergebracht. Sie haben das Opfer erschaffen und haben es sich selbst zugeeignet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Agni's Zunge trinkend, himmlisch, reingesinnt, des Heiligthumes Schooss berührend, sitzen sie; Den Himmel stützten kräftig sie, ergossen Flut, erzeugten Opfer, führten dann es in den Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡नीवालि पृ꣡थुष्टुके  
 या꣡ देवा꣡नाम् अ꣡सि स्व꣡सा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्रजां꣡ देवि दिदिड्ढि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 जु॒षस्व॑ । ह॒व्यम् । आऽहु॑तम् । प्र॒ऽजाम् । दे॒वि॒ । दि॒दि॒ड्ढि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sinīvāli* ← *sinīvālī*
 - \[noun\], vocative, singular, feminine
@@ -96,7 +96,7 @@ popular;; epic anuṣṭubh (424)
 दृष्टचन्द्रामावास्यासिनीवाली हेसिनीवालि पृथुष्टुके पृथुजघनेपृथुसंहतकेशेवा यात्वन्देवानां- स्वसासि स्वयंसञ्चारिणीभगिनीवाभवसि सात्वंआहुतं आभिमुख्येनार्ग्राप्रक्षिप्तंहव्यं अस्मदीयं हविर्जुषस्वसेवस्व किञ्च हेदेवि सिनीवालि नोस्माकम्प्रजाम्पुत्रादिकान्दिदिड्वि उपचिनु अतिसर्ज यवा देहीत्यर्थः दिहउपचये लोटिछान्दसःशपःश्लुः दिशातिसर्जनेइत्यस्माद्वा ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ popular;; epic anuṣṭubh (424)
 Pṛthuṣṭuke = **pṛthu** jqaghane; or, pṛthu keśabhare, abundant-haired, or much-praised, or desired of many, ṣṭuka = a head of hair, praise, or desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Sinīvalī with broad braids, you who are sister of the gods,  
 enjoy the oblation that is poured. Allot offspring to us, goddess.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O broad-tressed Sinivali, thou who art the Sister of the Gods,  
      Accept the offered sacrifice, and, Goddess, grant us progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sinivali mit breitem Zopfe, die du Schwester der Götter bist, genieße die geopferte Spende, teil uns Nachkommenschaft zu, o Göttin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den dargereichten Trank, und schenk' uns, Göttin, Kinderschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Синивали с широкой косой,  
 (Ты,) которая сестра богов,  

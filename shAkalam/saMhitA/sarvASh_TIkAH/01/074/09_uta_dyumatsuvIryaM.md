@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ द्युम꣡त् सुवी꣡रियम्  
 बृह꣡द् अग्ने विवाससि  
 देवे꣡भ्यो देव दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दे॒वेभ्यः॑ । दे॒व॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -86,40 +86,40 @@ genre M
 **उत** अपि च हे **देव** द्योतमान **अग्ने** **देवेभ्यः** **दाशुषे** चरुपुरोडाशादीनि हवींषि दत्तवते तस्मै यजमानाय **बृहत्** प्रौढं धनं **विवाससि** गमयितुमिच्छसि प्रापयसीति यावत् । कीदृशम् । **द्युमत्** अतिशयेन दीप्तं **सुवीर्यं** शोभनवीर्योपेतम् ॥ सुवीर्यम् । वीरवीर्यौ च ' इत्युत्तरपदाद्युदात्तत्वम् । विवाससि ।' वा गतिगन्धनयोः । सनि द्विर्भावे ‘ सन्यतः' इति इत्वम् । दाशुषे । चतुर्थ्येकवचने ' वसोः संप्रसारणम् ' इति संप्रसारणम् । ‘शासिवसिघसीनां च' इति षस्वम् ॥ ॥२२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, divine **Agni**, you are desirous of bestowing upon the offerer (of oblations) to the gods, ample (wealth), brilliant, and giving vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And a brilliant, lofty abundance of heroes, Agni, do you strive to win from the gods, o god, for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And splendid strength, heroic, high, Agni, thou grantest from the Gods,  
      Thou God, to him who offers gifts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And thou winnest, O Agni, brilliant, high bliss in strong heroes from the gods, O god, for the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und du erbittest für den Opferspender glänzende hohe Meisterschaft von den Göttern, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und du gewährest Heldenkraft, o Agni, hohe, glänzende, Von Göttern, Gott, dem Frommen du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот сверкающее высокое богатство из сыновей  
 Ты хочешь добыть, о Агни,  

@@ -8,7 +8,7 @@ title = "+003"
 ' अश्विना ' इति द्वादशर्च तृतीयं सूक्तम् । तत्र आश्विनस्तृचः प्रातरनुवाकस्य आश्विने क्रतौ विनियुक्तः । तथा च सूत्रितम्-' अथाश्विन एषो उषा प्रातर्युजेति चतस्रोऽश्विना यज्वरीरिषः (आश्व. श्रौ. ४. १५) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3  
 Aśvins (1–3), Indra (4–6), All Gods (7–9), Sarasvatī (10–12)  
@@ -20,7 +20,7 @@ In both I.2 and I.3 the tr̥cas contain internal repetitions that unify them, th
 pāda (c) of I.3 begins ā́ yātam and 4a has ā́ yāhi “drive here,” both imperatives to  the same root. And 6c and 7c refer to sutá “pressed soma,” though there is no obvi ous link between the third tr̥ca of I.3 and the last one to Sarasvatī.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 (Praügaśastra continued) As in I.2 the recipients of the various tṛcas are emphatically signalled. In vss.
 

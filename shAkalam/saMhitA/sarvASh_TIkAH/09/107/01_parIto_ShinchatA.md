@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रीतो꣡ षिञ्चता सुतं꣡  
 सो꣡मो य꣡ उत्तमं꣡ हविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सुषा꣡व सो꣡मम् अ꣡द्रिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 द॒ध॒न्वान् । यः । नर्यः॑ । अ॒प्ऽसु । अ॒न्तः । आ । सु॒साव॑ । सोम॑म् । अद्रि॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parīto* ← *pari*
 - \[adverb\]
@@ -111,20 +111,20 @@ genre M
 हे ऋत्विजः **सुतम्** अभिषुतं सोमम् **इतः** अस्मात् कर्मण ऊर्ध्वमथवास्मात्प्रदेशादूर्ध्वं **परि** **षिञ्चत** वसतीवरीभिः ॥ ‘ इतो षिञ्चत ' इत्यत्र संहितायां ' छन्दसि ' इति रोरुत्वम्। आदेशप्रत्यययोः' इति षत्वम् ॥ **यः** **सोमः** देवानाम् **उत्तम** प्रशस्यं **हविः** भवति ॥ **आ** अपि च। **नर्यः** मनुष्यहितः **यः** च सोमः “ अप्सु वसतीवरीष्वन्तरिक्षे वा **अन्तः** दधन्वान् गच्छन् भवति तं **सोममद्रिभिः** ग्रावभिरध्वर्युः **सुषाव** अभिषुतं चकार । तं परि षिञ्चतेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sprinkle from hence the effused **Soma**-juice which is the best oblation (to the gods), and which, good for man, is going into the midst of the firmament; (the priest) has expressed the Soma with the stones.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From here sprinkle around the pressed drink, which is the soma, the  highest oblation.  
 The manly one who has run within the waters, the soma did he [=the  priest] press with stones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. begins with a most unusual sandhi: párītó ṣiñcatā. Geldner (n. 1a; cf. ZDMG 65: 307) suggests that it is Prakritizing. Oldenberg and Renou, less dramatically, consider it to be based on IX.63.10 párīto vāyáve sutám, where the sandhi of itás is correct. (Geldner also cites this vs.) Renou points out that that vs. ends with siñcata and suggests that the unusual sandhi here “résulte de l’assemblage des extrémités du v.
 
@@ -145,23 +145,23 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 परी॒तो षि॑ञ्चता सु॒तं सोमो॒ य उ॑त्त॒मं ह॒विः ।  
 द॒ध॒न्वाँ यो नर्यो॑ अ॒प्स्व१॒॑न्तरा सु॒षाव॒ सोम॒मद्रि॑भिः ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gießet von da den gepreßten Soma um, der das höchste Opfer ist, den mannhaften, der ins Wasser geflossen ist, diesen Soma hat der Priester mit Steinen ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiesset den gepressten hier den Soma, ihn den besten Trank, Der zwischen Wassern heldenkühn gelaufen ist, mit Steinen hab' ich ihn gepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разливайте отсюда кругом выжатого  
 Сому, который лучшее возлияние!  

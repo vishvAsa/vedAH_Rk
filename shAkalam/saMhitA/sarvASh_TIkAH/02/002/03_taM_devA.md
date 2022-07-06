@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ देवा꣡ बुध्ने꣡ र꣡जसः सुदं꣡ससं  
 दिव꣡स्पृथिव्यो꣡र् अरतिं꣡ नि꣡ एरिरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्नि꣡म् मित्रं꣡ न꣡ क्षिति꣡षु प्रशं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रथ॑म्ऽइव । वेद्य॑म् । शु॒क्रऽशो॑चिषम् । अ॒ग्निम् । मि॒त्रम् । न । क्षि॒तिषु॑ । प्र॒ऽशंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 **तं** प्रसिद्धम् उक्तगुणविशिष्टमग्निं **देवाः** प्रसिद्धा व्यवहर्तार ऋत्विजो वा **रजसः** रञ्जनात्मकस्य लोकस्य **बुध्ने** मूले । पृथिव्यां वेद्यामित्यर्थः । तत्र **न्येरिरे** नितरामीरयन्ति । व्यापारयन्ति स्वस्वहविर्लाभाय । ऋत्विक्पक्षे स्तोत्रादिना नितरां गच्छन्ति भजन्ते । कीदृशमित्याह । **सुदंससं** शोभनदर्शनं **दिवस्पृथिव्योः** द्यावापृथिव्योः **अरतिम्**। ईश्वरं गन्तारं व्याप्तं वा । **वेद्यम्** । वेदो धनम् । तस्मै हितम् । **रथमिव** । रथं यथा स्वाभिमतलाभाय आश्रयन्ते तद्वत् । यद्वा रथमिव प्राप्तिसाधनत्वेन वर्तमानं वेद्यं वेदितव्यम् । **शुक्रशोचिषं** दीप्तवर्णम् **अग्निं** **मित्रं** **न** सखिवत्कार्यसाधकम् । यद्वा आदित्यमिव । **क्षितिषु** यागभूमिषु मनुष्येषु वा **प्रशंस्यं** प्रकर्षेण स्तुत्यम् । एवं महानुभावमग्निं न्येरिर इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,39 +138,39 @@ genre M
 At the root of the world: budhne **rajasaḥ** lokasya mūle, i.e. the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him of wondrous power have the gods fitted down at the base of the airy  realm [=on earth], as their spoked wheel of heaven and earth—  
 Agni with his flaming flame—like a chariot worthy to be acquired, to be  proclaimed like an envoy (installed) among the settled peoples.404 II.2
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gerundive védya- in c is universally assigned to √vid ‘know’ (e.g., Geldner ‘allbekannt’, Renou ‘(re)connaissable’), but surely the Vedic Indians would be more anxious to acquire a chariot (√vid ‘find, acquire’) than simply to recognize it! Agni is found with the same simile in VIII.84.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him have the Gods established at the region's base, doer of wondrous deeds, Herald of heaven and earth;  
      Like a most famous car, Agni the purely bright, like Mitra. to be glorified among the folk.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The gods have set him to work, as a steward 1 of Heaven and Earth, endowed with wonderful power, at the bottom of the air: Agni who is well known like a chariot 2, brightly shining, deserving of praise like Mitra (or, like a friend) in (human) dwellings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, den Guteswirkenden, haben die Götter auf dem Grunde des irdischen Raums zum Lenker von Himmel und Erde bestellt, den hellflammenden Agni, der wie ein Streitwagen allbekannt, wie ein Freund unter den Völkern zu rühmen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum setzten ihn die Götter an der Lüfte Grund zum thät'gen Diener Himmels und der Erde ein, Der leuchtend strahlt gleich wie ein weitberühmter Held, der bei den Menschen wie ein Freund zu preisen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, чудесного, на дне пространства боги  
 Определили возницей неба и земли,  

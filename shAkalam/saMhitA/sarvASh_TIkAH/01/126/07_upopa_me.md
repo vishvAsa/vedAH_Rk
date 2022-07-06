@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पोप मे प꣡रा मृश  
 मा꣡ मे दभ्रा꣡णि मन्यथाः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 गन्धा꣡रीणाम् इवाविका꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 सर्वा॑ । अ॒हम् । अ॒स्मि॒ । रो॒म॒शा । ग॒न्धारी॑णाम्ऽइव । अ॒वि॒का ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upopa* ← *upa*
 - \[adverb\]
@@ -109,7 +109,7 @@ genre D;; epic anuṣṭubh (424)
 भो पते **मे** माम् । द्वितीयार्थे चतुर्थी । **उपोप** । द्वितीय उपशब्दः पादपूरणः । उपेत्य **परा** **मृश** सम्यक् स्पृश । भोगयोग्यमवगच्छेत्यर्थः । यद्वा । मे मम गोपनीयमङ्गम् उपोप पर मृश अत्यन्तमान्तरं स्पृश। परामर्शभावशङ्कां निवारयति । **मे** मदङ्गानि रोमाणि **दभ्राणि** **मा** **मन्यथाः** अल्पानि मा बुध्यस्व । ‘दभ्रमर्भकमित्यल्पस्य' इति दभ्रं दभ्नोतेः ' (निरु. ३. २०) इति यास्कः । अदभ्रत्वमेव विशदयति । **अहं** **रोमशा** बहुरोमयुक्ता **अस्मि** । यतोऽहमीदृशी अतः **सर्वा** संपूर्णावयवास्मि । रोमशत्वे दृष्टान्तः । **गन्धारीणाम्** **अविका** इव । गन्धाराः देशाः । तेषां संबन्धिनी अविजातिरिव । तद्देशस्थाः अवयो मेषाः यथा रोमशाः तथा अहमस्मि। यद्वा । गन्धारीणां गर्भधारिणीनां स्त्रीणाम् अविका अत्यर्थं तर्पयन्ती योनिरिव । तासाम् आ प्रसवं रोमादिविकर्तनस्य शास्त्रे निषिद्धत्वात् योनी रोमशा भवति । अतः सा उपमीयते । यतोऽहमीदृशी अतो माम् अप्रौढां मा अवबुध्यस्वेत्यर्थः ॥ ॥ ११ ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,7 +120,7 @@ genre D;; epic anuṣṭubh (424)
 This is **Lomaśa**'s reply. \[This and previous verse are brought in abruptly and in a different metre; perhaps, these hymns echoe some ancient popular song
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Saying,) “Feel me up—keep going further. Don’t belittle my “little  things [=private parts].  
 I am entirely hairy, like a little ewe of the Gandhāris.”  
@@ -129,7 +129,7 @@ coming deceit” or dru-hantara “better at striking wood,” the former prevai
 Paruchepa is also fond of rare words, sometimes phonetic deformations of  parallel words in the same verse, puns, and contorted syntactic constructions, and  many of the puzzles in his hymns have not been completely solved. But Geldner’s  judgment of his poetry—“wortreich, aber gedankenarm” (rich in words, but poor in  thoughts)—seems harsh and unjustified. These poems are difficult to work through,  but their verbal artistry and intricacy seem to us to provide a more than sufficient  reward.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is presumably the speech of the woman whose charms were described in vs. 6. I have tr. it with what I consider appropriate vulgarity.
 
@@ -142,22 +142,22 @@ Geldner (/Witzel Gotō) take dabhrā́ṇi manyathāḥ to mean “think that (m
 Although it is clear why a ewe, even a little ewe (avikā́), would be a fine example of a hairy female, I have no idea why Gandharī ewes would be especially hairy. Cold climate, one assumes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 [Ille loquitur]. Prope, prope accede; molliter me tange. Ne putes pilos corporis mei-paucos esse: tota sum villosa sicut Gandharium ovis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Faß mich doch daran, glaub nicht, daß ich nur wenige Haare habe. Ich bin ganz behaart wie ein Schäfchen der Gandhari´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Schmiege dich eng, ganz eng an mich an; nicht mögest du mir geringes zumuthen; ich bin ganz behaart, wie der Gandhārī's Schafmutter (?).«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прижмись ко мне покрепче!  
 Не думай, что у меня их мало:  

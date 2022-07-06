@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पीपा꣡य धेनु꣡र् अ꣡दितिर् ऋता꣡य  
 ज꣡नाय मित्रावरुणा हविर्दे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ रात꣡हव्यो मा꣡नुषो न꣡ हो꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 हि॒नोति॑ । यत् । वा॒म् । वि॒दथे॑ । स॒प॒र्यन् । सः । रा॒तऽह॑व्यः । मानु॑षः । न । होता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīpāya* ← *pyā*
 - \[verb\], singular, Perfect indicative
@@ -120,7 +120,7 @@ genre M
 हे **मित्रावरुणा** मित्रावरुणौ **ऋताय** युष्मत्संबन्धियज्ञाय **हविर्दे** हविषो दात्रे ॥ ‘आतो मनिन्’ इति विच् । भत्वे आतो धातोः' इति आकारलोपः ॥ **जनाय** यजमानाय च **धेनुः** प्रीणयित्री गौः। **अदितिः** अदीना बहुक्षीरा सती **पीपाय** क्षीरेण पुनःपुनः आप्यायताम् ॥ प्यायतेश्छान्दसः प्रार्थनायां लिट् ।  ‘ लिड्यङोश्च' इति पीभावः ॥ पयस्यादिहविष्कं यज्ञं पयोव्रतादिषु यजमानं चेत्यर्थः । कस्मिन् काले इति चेत् तत्राह । **यत्** यदा **सः** प्रसिद्धः **रातहव्यः** एतन्नामा राजा **सपर्यन्** स्तुत्या पूजयन् **मानुषः** **होता** **न** मनुष्यस्य यजमानस्य संबन्धी एतन्नामक ऋत्विगिव **विदथे** यज्ञे **वां** **हिनोति** हविरादिना प्रीणयति । तदा पीपायेत्याह ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,36 +131,36 @@ genre M
 Rātahavya = name of a **rājā**, king
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aditi, the milk-cow, swells for truth and for the person who gives  offerings, o Mitra and Varuṇa,  
 when serving you at the ceremony, he spurs you two on. The one upon  whom the oblation is bestowed [=Agni] is like the human Hotar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted ad I.152.6, that verse contains both milk-cows (dhenávaḥ) and Aditi, though not identified with each other as here. In that verse the cows cause swelling, rather than swelling themselves. Nevertheless, I see thematic connections between the passages. áditi- ‘boundlessness’ (with one reading of the word in I.152.6d) perhaps qualifies the swelling milk-cow here: she swells without limit for the good sacrificer. Again, an emended tr. might read *“The milk-cow swells as boundlessness for …” All the standard tr. take ṛtā́ya as an adj. qualifying the jána- (e.g., Geldner “für die rechtwandelnden Mann”), but adjectival uses of ṛtá- are rare to non-existent and the conjunction of an abstraction and an animate being is not rare. Cf. in one of the associated hymns, I.151.3 yád īm ṛtā́ya bháratho yád árvate, where the double yád shows that two entities are in question (“for truth and for the steed”). Again, in I.151.6a ā́vām ṛtā́ya keśínīr anūṣata, where the dat. ṛtā́ya is universally interpr. as the abstract ṛtá-.
 
 The standard tr. take d as a continuation of c, whose referent is still the man who gives offerings first met in b. Since this man is clearly human, it seems awkward to compare him to a human Hotar (mā́nuṣo ná hótā). I take d separately, with the initial sá signaling here a new, nominal clause, whose referent is Agni. The simile then makes sense, because Agni, though a god, regularly plays the role of Hotar at the sacrifice (and could in fact be the Hotar in 2c). Agni is elsewhere qualified as rātáhavya- (I.31.13, IV.7.7.), as are other gods (V.43.6, VII.35.1, VII.69.6), so this epithet does not require a human referent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mitra-Varuna, Aditi the Milch-cow streams for the rite, for folk who bring oblation,  
      When in the assembly he who worships moves you, like to a human priest, with gifts presented.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es strotzt Aditi, die Milchkuh, für den rechtwandelnden Mann, der Opfer spendet, o Mitra und Varuna, wenn er euch unter weiser Rede huldigend, Opfer spendend aneifert, wie es der menschliche Hotri tut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die unerschöpfte Milchkuh schwillt dem Frommen, der Opfer gibt, o Varuna und Mitra, Wenn euch beim Fest der Opferspender antreibt verehrend wie ein menschenholder Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дойная корова-Адити набухла (молоком) для благочестивого  
 Человека, приносящего жертвы, о Митра-Варуна,  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्य꣡ञ्चम् अर्क꣡म् अनयञ् छ꣡चीभिर्  
 आ꣡द् इ꣡त् स्वधा꣡म् इषिरा꣡म् प꣡र्य् अपश्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -27,7 +27,7 @@ popular;; repeated line
 प्र॒त्यञ्च॑म् । अ॒र्कम् । अ॒न॒य॒न् । शची॑भिः । आत् । इत् । स्व॒धाम् । इ॒षि॒राम् । परि॑ । अ॒प॒श्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
@@ -80,34 +80,34 @@ popular;; repeated line
 **शचीभिः** कर्मभिः परिचरणात्मकैः सार्धम् **अर्कम्** अर्चनसाधनं स्तोत्रं **प्रत्यञ्चम्** इन्द्रादीन् प्रत्यञ्चत् **अनयन्** स्तोतारः प्रापयन् । यदैवम् **आदित्** अनन्तरमेव **इषिरां** गमनशीलं **स्वधां** वृष्ट्युदकं **पर्यपश्यन्** सर्वे जनाः परितः पश्यन्ति । यद्वा । इषिरामेषणीयां स्वधाम् । अन्ननामैतत् । हविर्लक्षणमन्नं सर्वे देवाः परिपश्यन्ति ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When (the worshippers) with their pious acts offered praise in honour (of the gods), then (men) beheldaround them the swift descending rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Led the ray [=sun] to face toward (us) with their skills. Just after that  they surveyed their vigorous self-power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brought the Sun hitherward with mighty powers, and looked about them on their vigorous Godhead.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da führten sie durch ihre Künste die Sonne zurück, und alsbald erblickten sie ringsum rege Lebenskraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da führten sie mit Kraft die Sonne herwärts, da sah man ihre Schöpferkraft sich regen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своими способностями обратили к себе солнце,  
 И тогда увидели свою животворную природу.

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अविता꣡ नो अजा꣡शुवः  
 पूषा꣡ या꣡मनि-यामनि  
 आ꣡ भक्षत् कनि꣡यासु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । भ॒क्ष॒त् । क॒न्या॑सु । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avitā* ← *av*
 - \[verb\], singular, periphrast. future
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अजाश्वः** । ‘अजाः पूष्णः' इत्युक्तत्वादजा एवाश्वा वाहनानि यस्य स तथोक्तः । सः **पूषा** एतन्नामको देवः **यामनियामनि** सर्वस्मिन् गमने भौमदिव्यलक्षणे **नः** अस्माकम् **अविता** पालयिता भवतु । किंच **कन्यासु** कमनीयास्वभिमतासु स्त्रीषु **नः** अस्मान् **आ** **भक्षत्** आभजतु । अस्माकं कन्याः प्रयच्छत्वित्यर्थः । भजः सेवार्थाल्लेटि सिप्यडागमे रूपम् । यद्वा । अजाश्वोऽजवाहनः पूषा सर्वस्य पोषयिता सोमो यामनियामनि । यायते प्राप्यते देवैरत्रेति याम यज्ञः । तत्र यज्ञे नोऽस्माकमविता रक्षिता भवतु । तथा कन्यासु स्त्रीष्विष्टास्वस्माना भक्षत् प्रापयतु ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,13 +99,13 @@ In all his paths: Or, in this sacrifice;
 Yāman = **yajña** because it is reached, i.e., obtained by the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan whose horses are goats is our helper on every journey.  
 – He will give us a share in maidens.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation presents the journeys as ours, reading naḥ with both avitā́and yā́mani-yāmani. Geldner and Renou instead assume the journeys are Pūṣan’s: e.g., “Unser Gönner ist Pūṣan, der auf jeder Ausfahrt Böcke als Rosse hat.” Since one hymn devoted to Pūṣan, I.42, is almost entirely devoted to Pūṣan’s protection of us on the journey and on the path and in the short Pūṣan cycle in VI (VI.53-58) the god is several times asked to lead or direct us (e.g., VI.53.2) and to clear paths for us (VI.53.4, 54.1-2), I think it likely that the focus here is on our journeys.
 
@@ -124,23 +124,23 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Pusan, drawn by goats, be our protector, and on all his paths  
      Bestow on us our share of maids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser Gönner ist Pusan, der auf jeder Ausfahrt Böcke als Rosse hat. Er verhelfe uns zu Jungfrauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Schützer sei auf jedem Weg uns Puschan, der mit Ziegen fährt; Er schenke holde Bräute uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наш покровитель – Пушан,  
 Ездящий на козлах как на конях при каждом выезде.  

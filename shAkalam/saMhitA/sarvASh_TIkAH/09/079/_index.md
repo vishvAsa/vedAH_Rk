@@ -8,7 +8,7 @@ title = "+079"
 ‘ अचोदसः' इति पञ्चर्चं द्वादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘ अचोदसः' इत्यनुक्रान्तम् । गतो विनियोगः ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 79 (791)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ The combative spirit of this hymn is reminiscent of that in other hymns attribut
 Verse 4 provides a brief interlude, outlining the cosmic dimensions of Soma— from heaven to earth, where his “fingers,” the shoots of the plant, grow—and a few  details of the preparation, vividly rendered. This verse cleverly incorporates four  different body parts (navel, fingers, skin, and hands) each belonging to a different entity. The final verse summarizes the process of pressing and calls once more for  Soma to display his feistiness on our behalf.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md">
 <details open><summary><h2>068-086 ...{Loading}...</h2></summary>

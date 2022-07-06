@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वेष꣡म् इत्था꣡ सम꣡रणं शि꣡मीवतोर्  
 इ꣡न्द्राविष्णू सुतपा꣡ वाम् उरुष्यति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कृशा꣡नोर् अ꣡स्तुर् असना꣡म् उरुष्य꣡थः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 या । मर्त्या॑य । प्र॒ति॒ऽधी॒यमा॑नम् । इत् । कृ॒शानोः॑ । अस्तुः॑ । अ॒स॒नाम् । उ॒रु॒ष्यथः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tveṣam* ← *tveṣa*
 - \[noun\], nominative, singular, neuter
@@ -107,7 +107,7 @@ genre M
 हे **इन्द्राविष्णू** **शिमीवतोः** इष्टप्रदानादिकर्मवतोः **वां** युवयोः **इत्था** इत्थं **त्वेषं** प्रदीप्तं **समरणं** सम्यग्यागदेशगमनं **सुतपाः** हुतशिष्टसोमपीतयजमानः **उरुष्यति** रक्षति यागेन पूजयति । यद्वा । शिमीवतोः प्रहरणादिकर्मवतोः वां युवयोः त्वेषं दीप्तं शौर्योपेतं समरणं सम्यक्परस्परगमनोपेतं वृष्टिप्रदानाय मेघविदारणरूपं यजमान उरुष्यति रक्षति स्तौतीत्यर्थः । कस्तयोरतिशय इति उच्यते । **या** यौ इन्द्राविष्णू **मर्त्याय** मनुष्याय हविर्दात्रे यजमानाय **प्रतिधीयमानमित्** प्रतिधातव्यं फलरूपम् **असनाम्** असनं चलनशीलं प्रदानशीलमन्नादिकम् **अस्तुः** अभिमतक्षेप्तुर्निरसितुर्वा शत्रूणां **कृशानोः** अग्नेः सकाशात् **उरुष्यथः** अविच्छेदेन प्रवर्तयथः । वह्नौ हुतं हविः स्वीकृत्य तन्मुखादेव फलमपि दास्यथ इत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,36 +118,36 @@ genre M
 That fire which is: kṛṣānor **astuḥ**, of fire, which is the scatterer (of good things); or, the disperser of enemies -- nirasitā śatrūṇām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The turbulent clashing of you two vehement ones is right to the point: it  makes wide space for you two soma-drinkers, o Indra and Viṣṇu,  
 who cause (the arrow) to go wide just as it is being aimed at the mortal,  the shot of the shooter Kr̥śānu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Pp. interprets sutapā́as sutapā́ḥ, hence a nom. sg., and this interpr. is accepted by Renou and Witzel Gotō. However, Geldner argues persuasively for du. sutapā́, and I follow him. The others must invent a mysterious soma-drinker who gives wide space and freedom to Viṣṇu and Indra; as indicated in the published introduction. I assume that the clash (samáraṇam) in pāda a is what opens up the space.
 
 The stem uruṣyá-, the verb ending both b and d, must be read in two different senses (as recognized by all tr.); ‘go wide’ is a useful English idiom for an arrow or other missile missing its target.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your Soma-drinker keeps afar your furious rush, Indra and Visnu, when ye come with all your might.  
      That which hath been directed well at mortal man, bow-armed Krsanu's arrow, ye turn far aside.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also furchtgebietend ist das Zusammengehen, von euch den beiden grimmigen; o Indra und Vishnu, es schützt euch beide Somatrinker, die ihr den Anschlag auf den Sterblichen, den Pfeilschuß des Schützen Krisanu abwehret.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, Vischnu, euerm raschen Ungestüm entgeht eur Somatrinker, wenn ihr vorwärts dringt; Ihr wehret ab den wohlgezielten Todespfeil des Schützen, der den Bogen spannt, vom Sterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неистово, в самом деле, столкновение у (этих) двоих жестоких,  
 О Индра-Вишну, тот, кто пьет выжатого сому, создает безопасность вам двоим,  

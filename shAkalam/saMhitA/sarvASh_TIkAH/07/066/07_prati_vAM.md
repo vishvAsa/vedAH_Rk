@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति वां सू꣡र उ꣡दिते  
 मित्रं꣡ गृणीषे व꣡रुणम्  
 अर्यम꣡णं रिशा꣡दसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒र्य॒मण॑म् । रि॒शाद॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -76,35 +76,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे मित्रावरुणौ **मित्रं** त्वां **वरुणं** च युवां **रिशादसं** शत्रूणामत्तारम् **अर्यमणं** च **प्रति** प्रत्येकं **गृणीषे** स्तुवे । कदेति उच्यते । **सूरे** सूर्ये देवे **उदिते** सति । प्रातरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorify you, **Mitra** and **Varuṇa**, and **Aryaman**, the consumer of enemies when the sun has risen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the rising of the sun I will sing to you two, to Mitra and Varuṇa, to Aryaman, who cares for the stranger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soon as the Sun hath risen, to you, to Mitra-Varuna, I sing,  
      And Aryaman who slays the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe bei Sonnenaufgang euch beide wieder, den Mitra und Varuna, und den überlegenen Aryaman.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei Sonnenaufgang preise ich o Mitra euch und Varuna, Den Feindverzehrer Arjaman.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На восходе солнца я воспеваю  
 Вас двоих: Митру (и) Варуну.  

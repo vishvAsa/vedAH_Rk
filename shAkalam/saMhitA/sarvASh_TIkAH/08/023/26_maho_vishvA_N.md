@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ वि꣡श्वाँ अभि꣡ षतो꣡  
 अभि꣡ हव्या꣡नि मा꣡नुषा  
 अ꣡ग्ने नि꣡ षत्सि न꣡मसा꣡धि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । नि । स॒त्सि॒ । नम॑सा । अधि॑ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
@@ -96,41 +96,41 @@ genre M
 हे **अग्ने** **महः** कर्मकर्तृत्वेन महतः **विश्वान्** सर्वान् **सतः** स्तोत्रकरणार्थं वर्तमानान् स्तोतॄन् **अभि** अभितस्त्वं **नमसा** स्तुत्यतया **बर्हिषि** **अधि** **नि** **षत्सि** निषीद। तथा **मानुषा** मनुष्यसंबन्धीनि **हव्यानि** हवींषि **अभि** अभितस्तानि स्वीकर्तुं निषीद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sit down, **Agni**, on the sacred grass, in the presence of all those worshippers diligent (in pious works,induced) by their veneration (to accept) the oblations of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because he, the great one, is superior to all, (let) the oblations of the  descendants of Manu (also be) superior.  
 O Agni, sit down on the ritual grass with homage.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntax of this vs. is very difficult; Renou even suggests that it consists of fragments “non syntaxisés” -- a coinage I would like to introduce to English. The standard interpr. take the NP in pāda a as acc. pl., more (Oldenberg) or less (Geldner) parallel to havyā́ni in b and then either supply a verb to govern them (Geldner: “bring [X to Y]”) or cobble together a very implausible syntactic bond between the verb ní satsi in c and the accusatives in ab (e.g., Renou “En direction de tous ... assieds toi”). I take a very different route, first by interpr. maháḥ … satáḥ not as acc. pl. but gen./abl. sg. This phrase seems to have some special status: cf. I.36.3 mahás te satáḥ “since you are great,” same phrase in VIII.101.11 “of you who are great.” I take the referent of the abl./gen. phrase to be Agni, and I also interpr. abhí ṣatáḥ in the usual idiomatic meaning of abhí √as ‘be superior to’, construed here with the acc. víśvān. In b I simply supply a different form of the root √as, namely santu, to be construed with the abhí in the same meaning. The point of the sentence is that since Agni, who is superior to everything, is our Hotar and the conduit of our offerings to the gods, our oblations cannot help being superior as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For men's oblations brought to him who is the mighty Lord of all,  
      Sit, Agni, mid our homage, on the sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für die alle überragenden Großen bring die menschlichen Opfergaben! Agni, setz dich unter Verneigung auf das Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu all den grossen, mächtigen und zu des Menschen Opferwerk, O Agni, setz dich auf die Streu gebetumtönt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Отправляйся) ко всем великим (богам,) превосходящим (людей)  
 К людским жертвенным возлияниям!  

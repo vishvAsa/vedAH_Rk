@@ -8,7 +8,7 @@ title = "+032"
 ‘प्र सोमासः' इति षडृचमष्टमं सूक्तमात्रेयस्य श्यावाश्वस्यार्षं गायत्रं सौम्यम् । अनुक्रम्यते च- प्र सोमासः श्यावाश्वः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 32 (744)  
 Soma Pavamāna  

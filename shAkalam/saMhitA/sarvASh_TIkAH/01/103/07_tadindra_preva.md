@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इन्द्र प्रे꣡व वीरि꣡यं चकर्थ  
 य꣡त् सस꣡न्तं व꣡ज्रेणा꣡बोधयो꣡ ऽहिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे देवा꣡सो अमदन्न् अ꣡नु त्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अनु॑ । त्वा॒ । पत्नीः॑ । हृ॒षि॒तम् । वयः॑ । च॒ । विश्वे॑ । दे॒वासः॑ । अ॒म॒द॒न् । अनु॑ । त्वा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -145,43 +145,43 @@ genre M;; repeated line
 हे **इन्द्र** **तत्** **वीर्यं** वीरकर्म **प्रेव** **चकर्थ** प्रख्यातमिवाकार्षीः । किं पुनस्तद्वीर्यम् । **ससन्तं** स्वपन्तं मदोन्मत्तम् **अहिं** वृत्रं **वज्रेण** कुलिशेन **यत्** येन वीर्येण त्वम् 'अबोधयः । प्रबुद्धः सन् मया सह युद्धं करोत्विति **हृषितं** तादृशस्य वृत्रस्य हननेन प्राप्तहर्षं त्वाम् **अनु** पश्चात् **पत्नीः** देवपत्न्यः **अमदन्** हर्षं प्राप्ताः । अपि च **वयश्च** गमनशीला मरुतोऽपि तथा **विश्वे** **देवासः** अन्ये च सर्वे देवाः त्वाम् **अनु** पश्चात् अमदन अमाद्यन् ॥ ससन्तम् । षस स्वप्ने '। अदादित्वात् शपो लुक् । पत्नीः ।' वा छन्दसि ' इति पूर्वसवर्णदीर्घत्वम् । अमदन् । मदी हर्षे '। व्यत्ययेन शप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “You did perform, **Indra**, a glorious deed, when you did awaken the sleeping Ahi with your thunderbolt; then the wives (of the gods), the **Maruts**, and all the gods, imitated your exultation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This heroic deed you carried out, Indra—that you “awakened” the  sleeping serpent with your mace, as it were.  
 The wives [=waters?] and the birds [=Maruts?] applauded you who were  roused to excitement; all the gods applauded you,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the “deep-structure pun” in pāda b, see the published introduction. and Jamison 1982/83 and 2007: 110-12. That the action in this clause is not to be taken literally is, I think, signalled by the iva in the main clause in pāda a, which introduces the heroic deed (vīryàm) supposedly depicted in b. My “as it were” renders the iva.
 
 In c Geldner takes the wives (pátnīḥ) as the wives of the gods, but in this Vṛtra context it makes more sense to take them as the (fem.) waters whom Indra had just released. Recall that in the great Indra-Vṛtra hymn I.32 (as well as in V.30.5, VIII.97.18), the waters are called dāsápatnīḥ (vs. 11), “whose husband was a dāsa” (that is, Vṛtra). This might be clearer if the published translation read “His wives.” The interpretation of the final part of this pāda, váyaś ca, is disputed. Geldner (/Witzel Gotō) and Renou take it as an acc. of váyas- conjoined with tvā (“dir … und deiner Kraft”). However, already Sāyaṇa considered it the nom. pl. of ví- ‘bird’, which is equally possible grammatically, and I have adopted this interpr. (Oldenberg seems tacitly to accept this interpretation, by citing X.80.5, which also contains birds.) Sāyaṇa’s suggested referent is the Maruts, which makes good sense. The two groups on site at the Vṛtra battle and able to give encouragement and praise to Indra then were the waters and the Maruts, who, in many accounts of the myth, provided Indra with moral and tactical support.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well didst thou do that hero deed, O Indra, in waking with thy bolt the slumbering Ahi.  
      in thee, delighted, Dames divine rejoiced them, the flying Maruts and all Gods were joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Heldenstück hast du, Indra, gleichsam vorangestellt, daß du den schlafenden Drachen mit der Keule wecktest. Dir, dem Kampflustigen, und deiner Kraft jubelten die Gattinnen zu, dir jubelten alle Götter zu;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zuerst vollzogst du, Indra, diese Kraftthat, den Drachen, als er schlief, mit Blitz zu wecken; Dir munterm jauchzten zu die Götterfrauen, im Flug die Maruts und die Götter alle,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И такое героическое деяние ты тоже совершил, Индра,  
 Что разбудил дубиной спящего змея.  

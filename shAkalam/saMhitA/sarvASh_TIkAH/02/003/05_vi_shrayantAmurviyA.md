@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ श्रयन्ताम् उर्विया꣡ हूय꣡माना  
 द्वा꣡रो देवीः꣡ सुप्रायणा꣡ न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡र्णम् पुनाना꣡ यश꣡सं सुवी꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 व्यच॑स्वतीः । वि । प्र॒थ॒न्ता॒म् । अ॒जु॒र्याः । वर्ण॑म् । पु॒ना॒नाः । य॒शस॑म् । सु॒ऽवीर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -112,48 +112,48 @@ genre M
 द्वारोदेवीः अग्नेर्द्वाराभिमानिन्योदेव्योविश्रयन्तां विविच्यश्रयन्तां विवृतापिधानाभवन्तु कीदृश- स्ताः उर्विया उर्व्यःमहत्यः नमोभिर्नमस्कारोपेतैःस्तोत्रैर्हूयमानाः सुप्रायणाः सुष्ठुप्रकर्षेणगन्तव्याःईदृ- श्योदेव्योविश्रयन्तां किञ्च व्यचस्वतीः व्याप्तिमत्यः अजुर्याः अहिंस्याः अजननावा सुवीरंशोभनपुत्रा- द्युपेतं यशसंयशोयुक्तं वर्णं वर्णनीयंरूपविशेषं पुनानाः यजमानायशोधयित्र्यः सम्पादयित्र्योदेव्योवि- प्रथन्तां विशेषेणप्रख्याताभवन्तु ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the divine doors, spacious and easily accessible, and to be saluted with prostrations, be set open; let them be celebrated as expansive, uninjurable, and conferring sanctity upon the illustrious class (of worshippers), possessed of virtuous progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them gape open widely—the Divine Doors, easy to approach—when  invoked with reverences.  
 Expansive, let the unaging ones spread forth, purifying their own “color”  [=people] (so that it is) glorious, rich in heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg points out, suprāyaṇá- is metrically bad here and worse in several other occurrences; it should be read *suprayāṇá-, which presumably belongs to √yā, not √i.
 
 I take the adjectives in d (yaśásaṃ suvī́ram) as proleptic, the result of the purification, though this interpr. isn’t strictly necessary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wide be the Doors, the Goddesses, thrown open, easy to pass, invoked, through adorations,  
      Let them unfold, expansive, everlasting, that sanctify the class famed, rich in heroes.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the divine doors which are easily passable, open themselves wide when invoked with adoration. May they, the far-embracing, undecaying ones, open wide, purifying our glorious race 1 which is rich in valiant men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen sich die göttlichen, gern betretenen Tore weit auftun, unter Verneigung angerufen. Die vielfassenden, alterlosen sollen sich breit machen, die angesehene, aus Meistern bestehende Kaste heiligend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götterthore mögen weit sich aufthun, die angerufnen, schön bewegt durch Andacht, Die grossen ew'gen mögen weit sich öffnen, erregend schönes, männerreiches Glänzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Широко растворитесь, призываемые  
 Божественные  

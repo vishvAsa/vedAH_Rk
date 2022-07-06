@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो रुवण्यु꣡म् औशिजो꣡ हुव꣡ध्यै  
 घो꣡षेव शं꣡सम् अ꣡र्जुनस्य नं꣡शे  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 अ꣡छा वोचेय वसु꣡तातिम् अग्नेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 प्र । वः॒ । पू॒ष्णे । दा॒वने॑ । आ । अच्छ॑ । वो॒चे॒य॒ । व॒सुऽता॑तिम् । अ॒ग्नेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,21 +123,21 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे देवाः **औशिजः** कक्षीवानहं **वः** युष्माकं संबन्धिनं **रुवण्युं** रवणीयं शब्दनीयं **शंसं** स्तोत्रम् **आ** **हुवध्यै** युष्मदाह्रानाय **अच्छ** ”आ **वोचेय** आभिमुख्येन ब्रवीमि । यद्वा । अत्रापि अश्विनावेव उच्येते । तस्मिन् पक्षे बहुवचनं पूजार्थम् । हे अश्विनौ **वः** युष्मान् **घोषव** एतन्नामिका ब्रह्मवादिनीव । सा यथा **अर्जुनस्य** श्वेतवर्णस्य स्वशरीरगतत्वग्रोगस्य **नंशे** नाशनाय यथाश्विनोः शंसमकार्षीत् तद्वदहमपीत्यर्थः । हे देवाः युष्मत्संबन्धिने **दावने** आ आभिमुख्येन फलस्य दात्रे **पूष्णे** पोषकाय एतन्नामकाय देवायापि ॥ आकारस्य  ‘ आङोऽनुनासिकश्छन्दसि ' इति प्रकृतिभावः ॥ अच्छ आभिमुख्यगमनेन वोचेय स्तौमि ॥  ‘ वच परिभाषणे'। लिङयाशिष्यङ् ।  ‘ वच उम्' इति उम् । किंच **अग्नेः** **वसुतातिं** तत्संबन्धि धनमपि वोचेय स्तौमि तमेवाग्निम् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I, the son of Uśij, address to you (**Aśvins**) audible praises, in like manner as **Ghoṣā** praised you for the removal of her white-tinted (skin); I glorify (gods) the bountiful **Pūṣan** (associated) with you, and I proclaim the munificence of **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is for (Kakṣīvant), son of Uśij [/the fire-priest], to call the “screecher,”  the laud, for you as if with a shout, at the attainment of the silvery  
 one [=soma?].  
 (Put him [=Pūṣan]?) forward for yourselves, for Pūṣan to give. I would  call here Agni’s assemblage of good ones [=gods].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again the first hemistich has a predicated infinitive, like 2ab, 4ab. In fact the structure is identical to that in 4: auśijó huvádhyai# (4b, 5a). But otherwise the verse is difficult to comprehend (as Geldner says in n. 5, “Voll dunkler Beziehungen”), and tr.
 
@@ -164,23 +164,23 @@ vasútāti- is another word that occurs in the RV only here and in vs. 12 of thi
 Grassmann suggests the meaning ‘Schaar der Guten, d.h. der Götter’ for the occurrence in vs. 12 (but not this one), which I have adopted for both instances. It would be equiv. to devátāti- ‘assemblage/conclave of gods’. The pāda would then refer to the group of divinities that Agni regularly conveys to the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For you shall Ausija call him who thunders, as, to win Arjuna's assent, cried Ghosa.  
      I will invoke, that Pusan may be bounteous to you, the rich munificence of Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für euch will der Sohn der Usij den lauten Samsa herrufen wie Ghosa bei Erlangung des Arjuna. Stimmet auf Pusan euer Lied an, daß er schenke! Ich möchte die Freigebigkeit des Agni herbitten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Uçidsch Sohn soll lautes Lob euch singen, wie Ghoscha bei des Ardschuna Erlangung, Euch ruf' ich an, um Puschan hold zu stimmen, des Agni Güte möcht' ich mir gewinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я,) сын Ушидж, хочу призвать шумного (бога),  
 Как Гхоша – Шансу при приеме Арджуны.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् अददाद् रभस꣡म् ऋणच्यु꣡तं  
 दि꣡वोदासं वध्रिअश्वा꣡य दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡ ते दात्रा꣡णि तविषा꣡ सरस्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या । शश्व॑न्तम् । आ॒ऽच॒खाद॑ । अ॒व॒सम् । प॒णिम् । ता । ते॒ । दा॒त्राणि॑ । त॒वि॒षा । स॒र॒स्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -118,21 +118,21 @@ genre M
 **इयं** सरस्वती **रभसं** वेगवन्तम् **ऋणच्युतं** वैदिकस्य देवर्षिपितृसंबन्धिनो लौकिकस्य च ऋणस्य च्यावयितारं **दिवोदासम्** एतत्संज्ञं पुत्रं **दाशुषे** हवींषि दत्तवते **वध्र्यश्वाय** एतत्संज्ञाय ऋषये अददात् दत्तवती । **या** सरस्वती **शश्वन्तं** बहुलं **पणिं** पणनशीलं वणिजमदातृजनम् **अवसं** केवलं स्वात्मन एव तर्पकम् **आचखाद** आजघान सेयमददादित्यन्वयः । अथ प्रत्यक्षीकृत्य स्तौति । हे **सरस्वति** देवि **ता** तानि पुत्रदानादीनि **ते** त्वदीयानि **दात्राणि** दानानि **तविषा** तविषाणि महान्ति भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She gave to the donor of the oblations, Vadhryaśva, a son **Divodāsa** endowed with speed, and acquitting the debt (due to gods and progenitors), she who destroyed the churlis niggard, (thinking) only of himself, such are your bounties, **Sarasvatī**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She gave to the pious Vadhryaśva tempestuous Divodāsa who shakes  the debtor,  
 she who has wrenched away the provender from one niggard after  
 another. These are your powerful gifts, o Sarasvatī.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although, as just noted, the hymn establishes the feminine referent from the very beginning, she is also credited, from the beginning, with powers and deeds that seem distinctly unfeminine, esp. pāda c.
 
@@ -157,23 +157,23 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Vadhryasva when. be worshipped her with gifts she gave fierce Divodasa, canceller of debts.  
      Consumer of the churlish niggard, one and all, thine, O Sarasvati, are these effectual boons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie schenkte dem opferspendenden Vadhryasva als Sohn den gewaltigen Divodasa, der die Schuld an die Manen tilgte, sie die dem Pani die Zehrung vollständig abzwackte. Das sind deine mächtigen Gaben, o Sarasvati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den starken Rächer Divodasa gab als Sohn Sarasvati dem frommen Vadhriaçva einst, Sie, die verzehrt hat jeden Knauser und sein Gut; gross sind die Gaben, die du schenkst, Sarasvati.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она дала (в сыновья) неистового погашающего долг (перед предками)  
 Диводасу почитавшему (ее) Вадхрьяшве,  

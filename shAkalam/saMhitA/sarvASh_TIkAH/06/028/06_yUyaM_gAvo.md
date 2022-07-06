@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ गावो मेदयथा कृशं꣡ चिद्  
 अश्रीरं꣡ चित् कृणुथा सुप्र꣡तीकम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृह꣡द् वो व꣡य उच्यते सभा꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 भ॒द्रम् । गृ॒हम् । कृ॒णु॒थ॒ । भ॒द्र॒ऽवा॒चः॒ । बृ॒हत् । वः॒ । वयः॑ । उ॒च्य॒ते॒ । स॒भासु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -140,7 +140,7 @@ popular
 हे **गावः** **यूयं** **मेदयथ** स्नेहयथ । आप्यायनं कुरुथेत्यर्थः । तथा **कृशं** **चित्** क्षीणमपि **अश्रीरं** **चित** अश्लीलमपि **सुप्रतीकं** शोभनाङ्गं **कृणुथ** कुरुथ । हे **भद्रवाचः** कल्याणध्वन्युपेता गावः अस्मदीयं **गृहं** **भद्रं** कल्याणं **कृणुथ** । गोभिरुपेतं कुरुथ । **सभासु** यागपरिषत्सु हे गावः युष्माकं **बृहत्** महत् **वयः** अन्नम् **उच्यते** । सर्वैर्दीयत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,37 +151,37 @@ popular
 Bṛhad vo **vaya** ucyate sabhāsu, great of you the food is said in assemblies; or, great is the food given to you in assemblies, it is given by all, sarvair dīyate ityarthaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You fatten even the thin man, o cows. You make even one without beauty  to have a lovely face.  
 You make the house blessed, o you of blessed speech. Your vigor is  
 declared loftily in the assemblies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., like 5c, has an echo from the 2nd Maṇḍala: the final pāda bṛhád vo váya ucyate sabhā́su “Your vigor is declared loftily in the assemblies” strikingly resembles the Gṛtsamāda Triṣṭubh refrain br̥hád vadema vidáthe suvī́rāḥ “May we speak loftily at the ritual distribution, in possession of good heroes.” Both begin with adverbial bṛhát and contain a verb of speaking -- a passive in our case -- and a loc. of the place where the speech is spoken: vidáthe ‘at the ceremony of distribution’, sabhā́su ‘in assemblies’, with sabhā́- probably inhabiting a lower register, as might be appropriate for cows.
 
 Kulikov (-ya-pres., 214) denies a passive value for ucyate here and tr. “Your energy sounds loudly in the assemblies” for reasons that don’t seem sufficient to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful tolook on.  
      Prosper my house, ye with auspicious voices. Your power is glorified in our assemblies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Kühe machet selbst den Mageren fett, selbst den Unschönen machet ihr schön von Aussehen. Ihr machet das gesegnet, ihr mit gesegneter Stimme. Eure hohe Lebensstärkung wird in den Versammlungen verkündet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön von Antlitz, Ihr macht beglückt das Haus, zum Glück ertönend, hoch wird gerühmt eur Trunk bei den Gelagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, коровы, даже худого делаете толстым,  
 Даже некрасивого вы делаете прекрасно выглядящим.  

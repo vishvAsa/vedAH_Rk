@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ दिवो꣡ दुहिता꣡ प्र꣡त्य् अदर्शि  
 ज्यो꣡तिर् व꣡साना समना꣡ पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजानती꣡व न꣡ दि꣡शो मिनाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । पन्था॑म् । अनु॑ । ए॒ति॒ । सा॒धु । प्र॒जा॒न॒तीऽइ॑व । न । दिशः॑ । मि॒ना॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -121,20 +121,20 @@ genre M
 **एषा** उषाः **दिवः** द्योतमानात्मकस्य द्युलोकस्य **दुहिता** दुहितृस्थानीया । ततः उत्पद्यमानत्वात् दुहितेत्युपचर्यते । **पुरस्तात्** पूर्वस्यां दिशि **प्रति** प्रत्येकम् **अदर्शि** दृश्यते । सर्वेषामपि प्राणिनामाभिमुख्येन प्रकाशते इत्यर्थः । कीदृशी सा । **ज्योतिर्वसाना** तेजोरूपं वस्त्रमाच्छादयन्ती तेजसा प्रकाशयन्ती **समना** सम्यगानयित्री चेष्टयित्री । अन्तर्भावितण्यर्थोऽयम् । यद्वा । सह युगपदेव मन्यतेऽवबुध्यते प्राणिभिरिति समना । व्युत्पत्यनवधारणादनवग्रहः ॥ सा तादृशी **ऋतस्य** आदित्यस्य **पन्थां** पन्थानं मेरोः प्रान्तप्रदेशमनुक्रमेण **साधु** सम्यक् **एति** गच्छति । सूर्यो यत्र यत्र गच्छति तत्र तत्र पुरस्तात् उषा अपि गच्छतीत्यर्थः । सैव विशेष्यते । **प्रजानतीव** प्रियभूतस्य सूर्यस्य मार्गो मयापि गन्तव्यः” इति चेतयन्तीव । यथा लोके प्रियतमे अनुरागयुक्ता काचित् भर्तारं सर्वास्ववस्थासु न विमुञ्चति तथेयमपीत्यर्थः । किंच **दिशः** प्रागादिकाः न **मिनाति** न हिनस्ति । किंतु उषा यत्र गच्छति सा प्राचीत्येवं प्रागादिव्यवहारं करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She, the daughter of heaven, is beheld in the east, gracious and arrayed in light; she travels steadily along the path of the sun, as if cognizant (of his plural asure), and damages not the quarters (of the horizon).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Daughter of Heaven has appeared opposite, dressed in light, in the  same way (as the others), from the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">
 <details open><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -144,23 +144,23 @@ She follows along the path of truth, straight to the goal. Like one who  knows t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 There in the eastern region she, Heaven's Daughter, arrayed in garments all of light, appeareth.  
      Truly she followeth the path of Order, nor faileth, knowing well, the heavenly quarters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort ist die Tochter des Himmels in Licht gekleidet ein wie alle Male im Ost erschienen. Sie wandelt richtig den Weg des Gesetzes; wie eine Wegkundige verfehlt sie nicht die Richtungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es lässt sich blicken diese Himmelstochter im Osten, ganz in Lichtgewand gekleidet, Sie schreitet stracks entlang den Pfad der Ordnung, des Wegs bewusst verfehlt sie nicht die Richtung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта дочь неба показалась,  
 Облекаясь в свет, (всегда) одинаковая, на востоке.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ तिग्मा꣡नि भ्राश꣡यन् भ्रा꣡शियानि  
 अ꣡व स्थिरा꣡ तनुहि यातुजू꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रती꣡त्या श꣡त्रून् विगदे꣡षु वृश्च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒ग्राय॑ । ते॒ । सहः॑ । बल॑म् । द॒दा॒मि॒ । प्र॒ति॒ऽइत्य॑ । शत्रू॑न् । वि॒ऽग॒देषु॑ । वृ॒श्च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -122,37 +122,37 @@ genre M
 हे इन्द्र **भ्राश्यानि** प्रकाश्यानि **तिग्मानि** तीक्ष्णान्यायुधानि नितरां **भ्राशयन्** प्रकाशयन् ॥  ‘ भ्राशृ दीप्तौ' । स त्वं **यातुजूनाम्** ॥ जु इति सौत्रो धातुः ।  ‘ भ्राजभास' इत्यत्र जवतेर्दीर्घः (का, ३. ३. १७७. १ )।  ‘ क्विप्च' इति क्विप् । दीर्घस्यामि नुडागमछान्दसः ॥ यातुधानानां **स्थिरा** स्थिराणि दृढान्यपि शरीराणि **अव** **तनुहि** । अवस्तात्तनुभूतान् पातथ । **उग्राय** उद्गूर्णबलाय **ते** तुभ्यं **सहः** शत्रुसहनसमर्थं **बलं** बलहेतुकं हविः **ददामि** अहं प्रयच्छामि । ततः **विगदेषु** । विविधं गदन्ति शब्दायन्ते ॥ गदेः  ‘ घञर्थे कविधानम्' इत्यधिकरणे कः ॥ **शत्रून्** **प्रतीत्य** प्रतिगम्य प्रतिकूलं गत्वा **वृश्च** तांश्छिन्धि ॥ ओव्रश्चू छेदने । तौदादिकस्य लोट् ॥ ॥२०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brandishing your sharp, shining weapons, pierce the solid bodies of the evil spirits. I give to you whoare fierce, foe-subduing strength; having assailed the enemies, cut them to pieces in the midst of their clamour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Blunt the sharpened points, slacken the taut (bowstrings) of those incited  by sorcerers.  
 I give power and strength to you who are mighty. Confronting your  
 rivals, hew them down amid the contesting voices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dash down, outffaming their sharp flaming weapons, the strong-holds of the men urged on by demons.  
      I give thee, Mighty One, great strength and conquest: go, meet thy foes and rend them in the battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mache ihre scharfen Spitzen stumpf, entspanne den von bösen Geistern Getriebenen die straffen Bogen! Ich gebe dir, dem Gewaltigen, Überlegenheit und Kraft; tritt den Feinden entgegen und zerhaue sie im Streit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das scharfe, was zu fällen ist, das fälle und mache schlaff der Zaubrer Bogensehnen; Ich gebe Sieg und Kraft dir, dem gewalt'gen, greif an den Feind, zerspalt ihn in den Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затупляя острые концы (их стрел),  
 Сделай ненатянутыми тугие (луки) одержимых колдовством!  

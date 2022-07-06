@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡षम् ऊ꣡र्जम् पवमानाभि꣡ अर्षसि  
 श्येनो꣡ न꣡ वं꣡सु कल꣡शेषु सीदसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिवो꣡ विष्टम्भ꣡ उपमो꣡ विचक्षणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑य । मद्वा॑ । मद्यः॑ । मदः॑ । सु॒तः । दि॒वः । वि॒ष्ट॒म्भः । उ॒प॒ऽमः । वि॒ऽच॒क्ष॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
@@ -120,20 +120,20 @@ genre M
 हे **पवमान** पूयमान सोम **इषम्** अन्नम् **ऊर्जं** बलं च **अभ्यर्षसि** । **श्येनो** **न** श्येन इव **वंसु** वननीयेषु कुलायेषु **कलशेषु** सीदसि निषण्णो भवसि । अथ परोक्षकृतः । **इन्द्राय** **मद्वा** मदकरः **मद्यः** मदहेतुः **मदः** रसः **सुतः** अभिषुतः । कीदृशः । **दिवः** द्युलोकस्य **उपमः** उपमीयमानः **विष्टम्भः** विशेषेण स्तम्भयिता । स्थूणा यथा गृहं तथा । **विचक्षणः** विद्रष्टा । ‘ स्थूणेव जनाँ उपमित्' ( ऋ. सं. १.५९.१ ) इत्युक्तम् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You rush, **Pavamāna**, to (bring) food and strength; you alight on the pitchers like a falcon on its nest; (you) the exhilarating effused juice giving exhilaration to **Indra**, resembling the support of heaven, beholding (all things).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying one, you rush toward refreshment and nourishment. Like  a falcon in the woods, you sit in the tubs.  
 For Indra is pressed the exhilarative, exhilarating drink of exhilaration,  the utmost prop of heaven, wide-gazing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accumulation of √mad derivatives is striking: mádvā mádyo mádaḥ. The last, máda-, is of course extraordinarily common, and the 2nd mádya- reasonably well established (13x). But madván- is found only twice.
 
@@ -148,23 +148,23 @@ Nothing much in the way of internal unity or external connection, beyond the obv
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Pavamana, sendest food and power in streams. thou sittest in the beakers as a hawk on trees,  
      For Indra poured as cheering juice to make him glad, as nearest and farseeing bearer-up of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du strömst zu Labsal und Stärkung, o Pavamana; wie der Falke auf die Bäume setzest du dich in die Krüge, für Indra als begeisternder, berauschender Trank ausgepreßt, des Himmels höchster Pfeiler, weitschauend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hell flammend strömest Speise du und Trank herbei, und setzt dich in die Kufen wie ins Laub der Aar, Zur Lust gepresst dem Indra und zu kräft'gem Rausch, des Himmels höchste Stütze, weithinschauender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

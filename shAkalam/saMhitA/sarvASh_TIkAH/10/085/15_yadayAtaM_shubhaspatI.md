@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡यातं शुभस् पती  
 वरेयं꣡ सूरिया꣡म् उ꣡प  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 कु꣡व देष्ट्रा꣡य तस्थथुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 क्व॑ । एक॑म् । च॒क्रम् । वा॒म् । आ॒सी॒त् । क्व॑ । दे॒ष्ट्राय॑ । त॒स्थ॒थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -106,35 +106,35 @@ popular;; epic anuṣṭubh (380)
 हे **शुभस्पती** उदकस्य स्वामिनौ **यत्** यौ **अयातम्** अगच्छतम् । कं प्रति। **वरेयं** वरणीयायाः सूर्यायाः संबन्धिनं वरैर्याचितव्यं वा । सवितारमित्यर्थः । किमर्थम् । **सूर्यामुप** गन्तुम् । **वां** भवतोः संप्रति दृश्यमानमिदम् **एकं** चक्रं **क्व** **आसीत्** पुरा । **क्व** वा युवां **देष्ट्राय** दानाय प्रवृत्तौ **तस्थथुः** इत्यश्विनोर्निवासं पृच्छति ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, lords of water, you came to the giver-away (to get) **Sūrya**, where was the one wheel of yourcar, where did you stand to make the gift?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you drove, you two lords of beauty, to Sūryā to woo her, where was your single wheel; where did you stand for the pointing out?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O ye Two Lords of lustre, then when ye to Surya's wooing came,  
      Where was one chariot wheel of yours? Where stood ye for die Sire's command?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr Herren der Schönheit ginget, um die Surya zu freien, wo war da euer eines Rad, wo standet ihr, um ihr den Platz anzuweisen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihr, o Herrn des Glanzes, zur Werbung hin zur Suriā fuhrt, wo war da das eine Rad eures Wagens? wo zeigtet ihr euch eurer Zusage treu?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы, о повелители красоты, отправились  
 Свататься к Сурье,  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ हि꣡ ते हरिवो ब्र꣡ह्म वाजयु꣡र्  
 आजिं꣡ या꣡मि स꣡दोति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गव्यु꣡र् अ꣡ग्रे मथीना᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 त्वाम् । इत् । ए॒व । तम् । अमे॑ । सम् । अ॒श्व॒ऽयुः । ग॒व्युः । अग्रे॑ । म॒थी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -126,7 +126,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,14 +137,14 @@ Sayana bhashya empty
 Matīnām = mathīnām, inthe beginning of my prayers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For I, seeking the prize, enter the contest for the sacred formulation  always with your help, you of the fallow bays.  
 Seeking horses, seeking cows, I pledge myself just to you, at the  
 beginning of raids.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ājíṃ √yā as a phrasal verb (“mache ich … einen Wettlauf”) that can take an accusative (“einen Wettlauf um…”). I do not see any other way to construe bráhma, though I am a bit dubious about the construction.
 
@@ -157,17 +157,17 @@ Oldenberg and Geldner accept the Kashmir reading *matīnā́m, but Narten (1960:
 34 = KlSch 22 n. 34) makes a convincing case that the transmitted mathīnā́m is correct and means ‘robbings/plunderings’. This works well with vājayúḥ, aśvayúḥ, and gavyúḥ in this verse, as well as bháreṣu in 7b.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn mit deiner Hilfe mache ich stets einen Wettlauf um das beschwörende Wort, nach dem Siegerpreis strebend, o Falbenfahrer, und ich schließe nur mit dir einen Bund, nach Roß und Rind verlangend, im Anbeginn der Dichtung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Hülfen, Herr der Füchse, geh' ich stets, Gut wünschend in Gebet und Kampf; Denn Ross und Rinder wünschend geh' ich dich allein im Anfang meiner Bitten an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это я, о хозяин буланых коней, жаждя награды,  
 С твоими поддержками всегда иду на состязание в священном слове -  

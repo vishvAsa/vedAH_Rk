@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ ना꣡भा वदति वल्गु꣡ वो गृहे꣡  
 दे꣡वपुत्रा ऋषयस् त꣡च् छृणोतन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽब्र॒ह्म॒ण्यम् । अ॒ङ्गि॒र॒सः॒ । वः॒ । अ॒स्तु॒ । प्रति॑ । गृ॒भ्णी॒त॒ । मा॒न॒वम् । सु॒ऽमे॒ध॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ genre M;; repeated line
 हे **देवपुत्राः** देवानां पुत्रा अग्नेः पुत्राः **ऋषयः** अतीन्द्रियार्थस्य द्रष्टारो हे **अङ्गिरसः** **अयं** **नाभा** नाभानेदिष्ठः पुरोवर्ती जनः **वः** युष्माकं **गृहे** गृहभूते यज्ञे **वल्गु** कल्याणं वचः **वदति** । **तत्** वाक्यं यूयं **शृणोतन** महतादरेण शृणुत । श्रु श्रवणे' । ' तप्तनप्तनथनाश्च' इति तनबादेशः । तेभ्यो युष्मभ्यं **सुब्रह्मण्यं** शोभनं ब्रह्मवर्चसम् **अस्तु** । इदानीमागतं **मानवं** मां **प्रति** **गृभ्णीत** प्रतिगृह्णीत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ genre M;; repeated line
 Sons of theGods: i.e., of **Agni**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here at the navel (of the sacrifice) speaks to you agreeably in  the house. O you seers whose sons are gods, listen to this.  
 Let there be good sacred formulation for you, o Aṅgirases. – Accept the  descendant of Manu, o you of good wisdom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This kinsman in your dwellingplace speaks pleasant words: give car to this, ye Rsis, children of the Gods.  
      High Brahman dignity be yours, Angirases. Welcome the son of Manu, ye who are most wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser hier in der Sippe redet zu Hause schön von euch; ihr Göttersöhne, ihr Rishi´s höret das! Euch, Angiras`, soll Tüchtigkeit im heiligen Worte werden! - Nehmet mich, den Manusproß auf, ihr Weisen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In eurem Haus und Heimsitz singt der Sänger schön; o Göttersöhne, weise Seher, hört darauf; O Angiras, euch werde dieses Andachtswerk; o nehmt, ihr weisen, freundlich auf den Menschensohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Набха прекрасно говорит о вас (у себя) в доме.  
 О сыновья богов – риши, слушайте об этом!  

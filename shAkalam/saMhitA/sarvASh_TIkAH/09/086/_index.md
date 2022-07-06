@@ -8,7 +8,7 @@ title = "+086"
 अथ पञ्चमेऽनुवाक एकादश सूक्तानि । तत्र प्र ते ' इत्यष्टाचत्वारिंशदृचं प्रथमं सूक्तम् ।। प्रथमदशर्चस्य आकृष्टा' इति माषा इति च द्विनामान ऋषिगणा द्रष्टारः । द्वितीयस्य दशर्चस्य सिकता इति नीवावरी इति द्विनामान ऋषिगणाः । तृतीयस्य दशर्चस्य पृश्नय इत्यजा इति च नामद्वयोपेता ऋषिगणाः । अदृष्टार्थमेषां द्विनामत्वमवगन्तव्यम् । चतुर्थस्य दशर्चस्य आकृष्टा माषा इत्यादिद्विनामानस्त्रयो गणा द्रष्टारः । एवं चत्वारिंशद्गताः । अथ पञ्चानां भौमोऽत्रिर्ऋषिः । ततस्तिसृणां गृत्समदः । जगती छन्दः । पवमानः सोमो देवता । तथा चानुक्रान्तं----' प्र तेऽष्टाचत्वारिंशदृषिगणा दशर्चा आकृष्टा माषाः प्रथमे सिकता निवावरी द्वितीये पृश्नयोऽजास्तृतीये त्रयश्चतुर्थेऽत्रिः पञ्चान्त्यास्तिस्रो गृत्समदः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 86 (798)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ ies; for example, verse 4, which begins the second tr̥ca, is strictly parallel 
 That said, the impression this sprawling collection gives is of an agglomeration  of soma-hymn clichés, many of which are repeated with little or no variation at  irregular intervals throughout the “hymn.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, an assemblage consisting of 16 three-vs. units, attributed to a variety of poets and poetic groups and showing no particular unity of structure or special poetic merit. However, there is often patterned repetition both between tṛcas and within them.
 

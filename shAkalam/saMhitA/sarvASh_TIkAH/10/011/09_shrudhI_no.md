@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रुधी꣡ नो अग्ने स꣡दने सध꣡स्थे  
 युक्ष्वा꣡ र꣡थम् अमृ꣡तस्य द्रवित्नु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡किर् देवा꣡नाम् अ꣡प भूर् इह꣡ स्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 आ । नः॒ । व॒ह॒ । रोद॑सी॒ इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒वऽपु॑त्रे । माकिः॑ । दे॒वाना॑म् । अप॑ । भूः॒ । इ॒ह । स्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
@@ -139,34 +139,34 @@ genre D
 यज्ञं प्रति **देवपुत्रे** देवस्य प्रजापतेर्दुहितरौ! यद्वा देवाः पुत्रा ययोस्ते । **रोदसी** द्यावापृथिव्यौ **आ** **वह** प्रापय । **देवानां** मध्ये कश्चिद्देवः **अप** **भूः** अपभविता अस्मद्यज्ञादपगन्ता **माकिः** स्यात् । त्वं च **इह** अस्मिन् यज्ञे **स्याः** संनिहितो भव ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hear us, Agni, in your seat, in your abode. Yoke the speeding chariot of  the immortal one.  
 Convey here to us the two world-halves, whose sons are the gods. Don’t  be the absent one among the gods; you should be here!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear us, O Agni, in your common dwelling: harness thy rapid car of Amrta.  
      Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Gods be distant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhöre uns, Agni, an deinem Sitze, deinem Platze; schirr den Wagen des Unsterblichen, den eilenden! Fahr uns die beiden Rodasi her, deren Söhne die Götter sind! Nicht sollst du unter den Göttern fehlen; hier sollst du sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hör, Agni, uns in deinem Sitz und Hause, den schnellen Wagen schirr des Göttertrankes, Die Welten fahr uns her, die Götterältern, bleib nimmer fern den Göttern und sei bei uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышь нас, О Агни, на (своем) сиденье, на (своем) месте!  
 Запрягай колесницу бессмертного, мчащуюся!  

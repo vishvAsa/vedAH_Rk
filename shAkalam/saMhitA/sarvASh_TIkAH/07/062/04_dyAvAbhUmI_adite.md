@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वाभूमी अदिते त्रा꣡सीथां नो  
 ये꣡ वां जज्ञुः꣡ सुज꣡निमान ऋष्वे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ मित्र꣡स्य प्रिय꣡तमस्य नॄणा꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । हेळे॑ । भू॒म॒ । वरु॑णस्य । वा॒योः । मा । मि॒त्रस्य॑ । प्रि॒यऽत॑मस्य । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvābhūmī*
 - \[noun\], vocative, dual, feminine
@@ -123,36 +123,36 @@ genre M
 हे **द्यावाभूमी** द्यावापृथिव्यौ हे **अदिते** अखण्डनीये । एतत् द्यावाभूम्योरेवैकवचनेन संबोधनम्। हे **ऋष्वे**। महन्नामैतत् । हे महत्यौ **नः** अस्मान् **ञासीथां** रक्षतम् । **ये** वयं **सुजनिमानः** शोभनजन्मानः **वां** युवां **जज्ञुः** ज्ञातवन्तः स्म । किंच वयं **वरुणस्य** **हेळे** क्रोधे **मा** **भूम**। तथा **वायोः** मा भूम। तथा **नृणां** स्तुतिनेतॄणां मनुष्याणां **प्रियतमस्य** **मित्रस्य** हेळे **मा** भूम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Indivisible and mighty heaven and earth protect us who, of fortunate birth, have knowledge of you both;let us not incur the displeasure of **Varuṇa**, or of **Vāyu**, or of **Mitra**, the best beloved of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Heaven and Earth, o Aditi, you two should rescue us, (and so also  should) those good birth-givers [=the gods] who gave birth to you two,  o you two on high.  
 Let us not be in the anger of Varuṇa or of Vāyu, nor in that of Mitra,  most dear to men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O undivided Heaven and Earth, preserve us, us, Lofty Ones! your nobIy-born descendants.  
      Let us not anger Varuna, nor Vayu, nor him, the dearest Friend of mortals, Mitra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde, Aditi, beschützet uns, und die guten Schöpfer, die euch, ihr Erhabene, erschaffen haben. Nicht möchten wir in der Ungnade des Aruna, des Vayu sein, nicht in der des Mitra, der bei den Männern am beliebtesten ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Erd' und Himmel, Aditi, heschützt uns, und die euch hehre schönerzeugend zeugten, Nicht mögen zürnen Varuna und Vaju nicht Mitra uns, der liebste aller Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Небо и Земля, о Адити, спасите нас  
 (И тех) прекрасных породителей, которые породили вас, о двое выдающихся!  

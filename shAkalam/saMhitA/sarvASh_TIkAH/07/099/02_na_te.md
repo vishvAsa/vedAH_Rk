@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ते विष्णो जा꣡यमानो न꣡ जातो꣡  
 दे꣡व महिम्नः꣡ प꣡रम् अ꣡न्तम् आप  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दाध꣡र्थ प्रा꣡चीं ककु꣡भम् पृथिव्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उत् । अ॒स्त॒भ्नाः॒ । नाक॑म् । ऋ॒ष्वम् । बृ॒हन्त॑म् । दा॒धर्थ॑ । प्राची॑म् । क॒कुभ॑म् । पृ॒थि॒व्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -135,7 +135,7 @@ genre M
 हे **देव** दानादिगुणयुक्त **विष्णो** **ते** तव **महिम्नः** महत्त्वस्य **परं** विप्रकृष्टम् **अन्तम्** अवसानं **जायमानः** प्रादुर्भवञ्जनः **न** **आप** न प्राप्नोति । तथा **जातः** प्रादुर्भूतोऽपि जनः **न** एव प्राप्नोति । तव महत्त्वस्यावसानं नास्ति । अत एव सर्वैर्न ज्ञायत इति भावः । कोऽसौ महिमा तमाह। **ऋष्वं** दर्शनीयं **बृहन्तं** महान्तं **नाकं** द्युलोकम् **उदस्तभ्नाः** त्वमूर्ध्वमधारयः । यथाधो न पतति तथा । **पृथिव्याः** भूमेः संबन्धिनीं **प्राचीं** **ककुभं** च **दाधर्थ** धारितवानसि । उपलक्षणमेतत् सर्वस्य भूतजातस्य । तथा च मन्त्रान्तरं- य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा' (ऋ. सं. १. १५४. ४ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ genre M
 Easternhorizon = the entire earth; Viṣṇu's upholding the **three worlds** has been mentioned more than once; cf. RV.1.154.4
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one now born, no one previously born has reached the far end of  your greatness, god Viṣṇu.  
 You propped up the vault, lofty and high; you fixed fast the eastern peak  of the earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Ordinarily the pres. part. should express ‘being Xed’, in contrast to the past part. ‘Xed’. But in this context jā́yamāna- must refer not to someone in the process of being born, but more likely someone who is still alive, against jātá-, someone born in the past and presumably now dead.
 
@@ -167,23 +167,23 @@ The b-pādas of these two vss. are variants of each other, using two different r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None who is born or being born, God Visnu, hath reached the utmost limit of thy grandeur.  
      The vast high vault of heaven hast thou supported, and fixed earth's eastern pinnacle securely.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner, der noch geboren wird, kein Geborener hat je das fernste Ende deiner Größe erreicht, Gott Vishnu. Du hast den ragenden hohen Himmel emporgestemmt und die östliche Spitze der Erde festgestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht ist, Gott Vischnu, einer je, noch wird sein, der deiner Grösse andres End' erreichte; Du festigtest den hoch erhabnen Himmel und gründetest der Erde vordern Gipfel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вишну, ни рождающийся, ни рожденный  
 Не достиг, о бог, высшего предела твоего величия.  

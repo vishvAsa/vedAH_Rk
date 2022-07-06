@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र प्र꣡ णो र꣡थम् अव  
 पश्चा꣡च् चित् स꣡न्तम् अद्रिवः  
 पुर꣡स्ताद् एनम् मे कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पु॒रस्ता॑त् । ए॒न॒म् । मे॒ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -100,35 +100,35 @@ genre M
 हे **इन्द्र** **नः** **रथं** **प्र** **अव** प्ररक्ष । कीदृशं रथम् । **पश्चाच्चित्सन्तम्** । चिदप्यर्थे । अस्मत्समानरथानां पश्चाद्भूतमपि **एनं** **मे** रथं हे **अद्रिवः** वज्रवन्निन्द्र **पुरस्तात्** वर्तमानं **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, protect our chariot; though now left behind, set it in the front, O thunderer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, possessor of the stone, advance our chariot even when it is behind; put it in front for me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, help our chariot on, yea, Thunderer, though it lag behind:  
      Give this my car the foremost place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, hilf unserem Wagen vorwärts, auch wenn er noch zurück ist, o Herr des Preßsteins! Bring ihn mir voraus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schaff Indra unsern Wagen vor, wenn er zurück bleibt, Schleuderer, Lass meinen an der Spitze gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

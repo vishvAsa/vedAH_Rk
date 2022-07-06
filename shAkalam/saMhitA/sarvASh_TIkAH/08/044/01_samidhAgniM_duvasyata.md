@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समि꣡धाग्निं꣡ दुवस्यत  
 घृतइ꣡र् बोधयता꣡तिथिम्  
 आ꣡स्मिन् हव्या꣡ जुहोतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । अ॒स्मि॒न् । ह॒व्या । जु॒हो॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhāgniṃ* ← *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे ऋत्विजः **अतिथिम्** अतिथिवत् प्रियम् **अग्निं** **समिधा** दुवस्यत परिचरत । **घृतैः** दीप्तिसाधनैराज्यैः **बोधयत** च । **अस्मिन्** समिद्धेऽग्नौ **हव्या** हवींषि **आ** जुहोतन आजुहुत च ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Honour **Agni** with fuel, awaken him, the guest, with (libations of) butter; offer the oblations in him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a kindling stick do friendly service to Agni; with (streams of) ghee  awaken the guest.  
 Into him pour oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PAY service unto Agni with your fuel, rouse your Guest with oil:  
      In him present your offerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Huldiget Agni mit Brennholz, ermuntert den Gast mit Schmalz, opfert die Opfergaben in ihm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Agni dient mit Flammenholz, erweckt den Gast durch Opferschmalz, Ihm giesst die Opfertränke ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дровами одаривайте Агни,  
 Потоками жира пробуждайте гостя,  

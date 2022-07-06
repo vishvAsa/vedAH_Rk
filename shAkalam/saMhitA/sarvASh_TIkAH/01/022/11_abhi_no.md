@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ नो देवी꣡र् अ꣡वसा  
 महः꣡ श꣡र्मणा नृप꣡त्नीः  
 अ꣡छिन्नपत्राः सचन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अच्छि॑न्नऽपत्राः । स॒च॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **देवीः** देव्यः देवपत्न्यः **अवसा** रक्षणेन **महः** महता **शर्मणा** च सुखेन च सह **नः** अस्मान् **अभि** **सचन्ताम्** आभिमुख्येन सेवन्ताम् । कीदृश्यो देव्यः । **नृपत्नीः** मनुष्याणां पालयित्र्यः **अच्छिन्नपत्राः** अच्छिन्नपक्षाः । न हि पक्षिरूपाणां देवपत्नीनां पक्षाः केनचित् छिद्यन्ते ॥ देवीः । ‘पुंयोगादाख्यायाम् ' ( पा. सू. ४. १. ४८ ) इति ङीषन्तः प्रत्ययस्वरेणान्तोदात्तः । ‘दीर्घाञ्जसि च ' ( पा. सू. ६. १. १०५) इति प्रतिषेधस्य वा छन्दसि ' ( पा. सू. ६. १. १०६ ) इति पाक्षिकस्योक्तेः पूर्वसवर्णदीर्घत्वम् । अवसा । अव रक्षणे ' । असुन् । नित्वादाद्युदात्तः । महः । ‘मह पूजायाम् ' । क्विप् । ‘सुपां सुपो भवन्ति ' ( पा. म. ७. १. ३९ ) इति तृतीयैकवचनस्य ङसादेशः । ‘सावेकाचः° ' इति विभक्तेरुदात्तत्वम् । नृपत्नीः । समासान्तोदात्तत्वे प्राप्ते ‘परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । अच्छिन्नपत्राः । न च्छिन्नानि अच्छिन्नानि ॥ अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अच्छिन्नानि पत्राणि यासां ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Acchinna-pakśāḥ: the wives of the gods being in the form of birds, no one had cut their wings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the goddesses, Wives of superior men [=gods], attend upon  us greatly with help, with shelter—those with unclipped  
 wings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The goddesses “with unclipped wings” (áchinnapatra-) are found only here in the RV, but appear in a set of YV mantras used in the Agnicayana at the placing and heating of the ukhā pot (for firing the bricks). See VS XI.61, MS II.76, KS XVI.6, ŚB VI.5.4.8, etc. A number of other female divinities are mentioned in the same context. What áchinnapatra- actually refers to is unclear to me. Griffith (ad VS XI.61) suggests “moving freely and without interruption.” It mightb evoke the myth of the originally winged mountains, whose wings Indra clipped so that they would settle down. But the mountains are masculine fitures. I also do not see any sign of the later Agnicayana employment here, simply an association with other female divine figures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Spouses of Heroes, Goddesses, with whole wings may they come to us  
      With great protection and with aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Göttinnen sollen mit ihrer Gnade, mit ihrem großen Schirm uns zur Seite stehen, die Herrscherfrauen mit ungebrochenen Fittichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit unbeschnittnen Flügeln lass die Göttinnen, die Heldenfraun Mit Hülf' und starkem Schutz uns nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да сопутствуют нам богини со (своей) помощью,  
 Великие жены повелителей со (своей) защитой,  

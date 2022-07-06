@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति भद्रा꣡ अदृक्षत  
 ग꣡वां स꣡र्गा न꣡ रश्म꣡यः  
 ओ꣡षा꣡ अप्रा उरु꣡ ज्र꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 आ । उ॒षाः । अ॒प्राः॒ । उ॒रु । ज्रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M
 **भद्राः** स्तुत्याः **रश्मयः** **प्रति** **अदृक्षत** प्रतिदृश्यन्ते । **गवाम्** उदकानां **सर्गा** **न** वर्षधारा इवेयम् **उषाः** **उरु** **ज्रयः** महत्तेजः **आ** **अप्राः** आपूरयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ genre M
 Like showers of rain: gavām sargā na: gavām = udakānām, of waters; udakānām sargāḥ = varṣadhārāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Her auspicious rays have appeared opposite, like gushes of cows.  
 Dawn has filled up the wide expanse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our eyes behold thy blessed rays like troops of cattle loosed to feed.  
      Dawn hath filled full the wide expanse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihre glückbringenden Strahlen sind erschienen gleich Schwärmen von Kühen. Usas hat die weite Bahn angefüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Uschas schönes Strahlenheer erschien den Rinderheerden gleich; Sie füllte an den weiten Raum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно стадо выпущенных коров,  
 Показались лучи, приносящие счастье.  

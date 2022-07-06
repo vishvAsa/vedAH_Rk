@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने भ꣡व सुषमि꣡धा स꣡मिद्ध  
 उत꣡ बर्हि꣡र् उर्विया꣡ वि꣡ स्तृणीताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 अग्ने॑ । भव॑ । सु॒ऽस॒मिधा॑ । सम्ऽइ॑द्धः । उ॒त । ब॒र्हिः । उ॒र्वि॒या । वि । स्तृ॒णी॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -76,34 +76,34 @@ genre M
 हे **अग्ने** **सुषमिधा** शोभनया समिधा **समिद्धः** भव सम्यग्दीप्तो भव। **उत** अपि च 'बर्हिः **उर्विया** विस्तीर्णम् उपस्तृणीतामध्वर्युः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be kindled, **Agni**, with suitable fuel; let the (priest) strew the plural ntiful sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, be kindled by our good kindling and let the ritual grass become  spread widely.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, be kindled well with proper fuel, and let the grass be scattered wide about thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Werde mit gutem Brennholz entzündet und das Barhis soll weithin gebreitet werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit gutem Brennholz, Agni sei entzündet und weithin sei der Göttersitz gebreitet;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, пусть будешь ты зажжен прекрасным зажиганием,  
 И солома пусть будет широко расстелена!

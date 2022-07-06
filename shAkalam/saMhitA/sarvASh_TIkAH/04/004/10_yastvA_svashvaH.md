@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा सुअ꣡श्वः सुहिरण्यो꣡ अग्न  
 उपया꣡ति व꣡सुमता र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡स् त आतिथ्य꣡म् आनुष꣡ग् जु꣡जोषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । त्रा॒ता । भ॒व॒सि॒ । तस्य॑ । सखा॑ । यः । ते॒ । आ॒ति॒थ्यम् । आ॒नु॒षक् । जुजो॑षत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -139,31 +139,31 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You **Agni**, are the protector of him who, possessed of good horses and a golden car, approaches you with a chariot laden with wealth; you are the friend of him who gratifies you be the due performance of hospitality to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever, rich in horses and gold, drives up to you, Agni, with a chariot  full of goods,  
 his protector do you become and the (ritual) partner of him who will  regularly enjoy your guest-friendship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike 8c, where I took sváśva- surátha- as proleptic with the priestly subject “we,” here the man who is sváśva- suhiraṇyá- appears to be already rich, with a chariot full of goods -- and therefore most likely the patron of the sacrifice, who (we hope) will redistribute this wealth to us performers via the sacrifice. This may be the purport of sákhā ‘partner’ here. Geldner suggests (n. 10ab) that the figure in question is a ruler returning from battle with booty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso with good steeds and fine gold, O Agni, comes nigh thee on a car laden with trcasure,  
      His Friend art thou, yea, thou art his Protector whose joy it is to entertain thee duly.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Whoever, rich in horses and rich in gold, approaches thee, O Agni, with his chariot full of wealth—thou art the protector and the friend of him who always delights in showing thee hospitality.
 </details>
@@ -176,17 +176,17 @@ His protector thou art, the comrade of him
 Who duly offereth thee glad reception.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Besitzer schöner Rosse, schönen Goldes, der zu dir, Agni, auf schätzebeladenem Wagen kommt, dessen Schirmer wirst du, dessen Freund, und wer sich deiner Gastfreundschaft gebührlich erfreut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem Wagen, Dem bist du Schützer, liebender Genosse, wer fort und fort als lieben Gast dich aufnimmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто приближается к тебе, о Агни, имея прекрасных коней,  
 Прекрасное золото, на колеснице, полной добра, –  

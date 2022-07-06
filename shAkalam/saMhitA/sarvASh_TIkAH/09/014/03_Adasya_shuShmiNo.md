@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् अस्य शुष्मि꣡णो र꣡से  
 वि꣡श्वे देवा꣡ अमत्सत  
 य꣡दी गो꣡भिर् वसाय꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यदि॑ । गोभिः॑ । व॒सा॒यते॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -85,43 +85,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आत्** परिष्करणानन्तरमेव **शुष्मिणः** बलवतः **अस्य** सोमस्य **रसे** **विश्वे** **देवाः** **अमत्सत** अमाद्यन्त। **यदि** यदा **गोभिः** गोविकारैः । विकारे प्रकृतिशब्दः । क्षीरादिभिः । **वसायते** आच्छाद्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Then all the gods rejoice in the juice of this powerful (libation), when it is enveloped with milk and curds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 After that, all the gods found exhilaration in the juice of him, the  tempestuous one—  
 when he clothes himself with cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am disturbed by the sequence of tense -- or lack of it: the augmented aor.
 
 amatsata in the main, ā́d, clause does not fit well with the pres. pariṣkṛṇvánti in the preceding yád clause (vs. 2) or the pres. vasāyáte in the following (3c). I am tempted to make the ā́d clause the follow-up to vs. 1: “the poet flowed around and forth …; after that the gods found exhilaration.” In that case, 3ab would interrupt the sequence of the subordinated present clauses in vs. 2, 3c, but I don’t know of other examples of this kind of alternating structure. Perhaps vss. 2 and 3 should be reversed: the ā́d clause of 3ab would then follow directly after vs. 1, and the parallel subordinate clauses in 3c and vs. 2 would be picked up by the main clause of 4ab, which also has a pres. tense verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then in his juice whose strength is great, have all the Gods rejoiced themselves,  
      When he hath clothed him in the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dann haben sich an dieses Feurigen Saft alle Götter berauscht, wenn er sich in Milch einhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann haben an des starken Saft sich alle Götter stets berauscht, Wenn er mit Milch umkleidet ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То от его пламенного сока  
 Опьянели Все-Боги,  

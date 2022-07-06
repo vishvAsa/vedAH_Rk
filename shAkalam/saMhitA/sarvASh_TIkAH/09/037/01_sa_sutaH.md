@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुतः꣡ पीत꣡ये वृ꣡षा  
 सो꣡मः पवि꣡त्रे अर्षति  
 विघ्न꣡न् र꣡क्षांसि देवयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वि॒ऽघ्नन् । रक्षां॑सि । दे॒व॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **सः** **सोमः** **पीतये** इन्द्रादिपानाय **सुतः** अभिषुतः **वृषा** वर्षणः सन् **पवित्रे** . **अर्षति** गच्छति । किं कुर्वन्। **रक्षांसि** **विघ्नन्’** **देवयुः** देवकामः स इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, the showerer (of benefits), when effused for the drinking (of the gods), rushes to the filter, destroying the **rākṣas**, devoted to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the bullish soma, pressed for drinking, rushes into the filter,  
 smashing aside the demons, seeking the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SOMA, the Steer, effused for draught, flows to the purifying sieve,  
      Slaying the fiends, loving the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle Soma rinnt zum Trunke ausgepreßt in die Seihe, die Unholde vertreibend, nach den Göttern verlangend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma rinnt zum Trunk gepresst hin auf die Seihe, er der Stier, Gespenster tödtend, Göttern hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

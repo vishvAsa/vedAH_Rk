@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ ता꣡ वि꣡श्वा चकृवां꣡सम् इ꣡न्द्रम्  
 महा꣡म् उग्र꣡म् अजुरियं꣡ सहोदा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ ब्र꣡ह्म न꣡व्यम् अ꣡वसे ववृत्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽवीर॑म् । त्वा॒ । सु॒ऽआ॒यु॒धम् । सु॒ऽवज्र॑म् । आ । ब्रह्म॑ । नव्य॑म् । अव॑से । व॒वृ॒त्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -148,36 +148,36 @@ genre M
 हे इन्द्र **त्वा** त्वां **नव्यं** नूतनमन्यैरकृतपूर्वं **ब्रह्म** अस्माभिः कृतं स्तोत्रम् **अवसे** अस्माकं रक्षणाय **आ** **ववृत्यात्** आवर्तयतु । कीदृशं त्वाम् । **एव** एवमुक्तप्रकारेण **ता** तानि प्रसिद्धानि **विश्वा** विश्वानि सर्वाणि कर्माणि **चकृवांसं** कृतवन्तम् **इन्द्रम्** ईश्वरं **महां** महान्तम् **उग्रम्** ओजस्विनम् **अजुर्यम्** अजरं **सहोदां** सहसो बलस्य दातारं **सुवीरं** शोभना वीरा मरुतो यस्य तं **स्वायुधं** शोभनायुधं **सुवज्रं** शोभनवज्रोपेतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our new prayer bring to our protection you, **Indra**, who are the maker of all these (things that exist); who are mighty, fierce, undecaying, the giver of strength, having excellent descendants, the **Maruts**, well-armed, the bearer of the thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra having done all these things in just this way, the great, mighty,  ageless giver of strength,  
 possessing good heroes, good weapons, and a good mace—you—might  our new sacred formulation turn here for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may our new prayer bring thee to protect us, thee well-armed Hero with thy bolt of thunder,  
      Indra, who made these worlds, the Strong, the ty, who never groweth old, the victory-giver.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So möge dich, der dies alles getan hat, den großen, gewaltigen, alterlosen, siegverleihenden Indra, dich, den Tapferen, mit schöner Waffe, mit schöner Keule, das neue Kraftlied zur Gunsterweisung herbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra, der dies alles so vollbracht hat, den grossen, starken, ew'gen Kraftverleiher, Der gute Helden, Waffen, guten Blitz führt, dich wende her das neue Lied zur Hülfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру, совершившего таким образом все эти (подвиги),  
 Великого, грозного, нестареющего, дающего силу,  

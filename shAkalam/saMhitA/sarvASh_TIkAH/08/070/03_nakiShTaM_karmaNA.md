@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किष् टं꣡ क꣡र्मणा नशद्  
 य꣡श् चका꣡र सदा꣡वृधम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡धृष्टं धृष्णु꣡ओजसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । न । य॒ज्ञैः । वि॒श्वऽगू॑र्तम् । ऋभ्व॑सम् । अधृ॑ष्टम् । धृ॒ष्णुऽओ॑जसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakiṣ* ← *nakir*
 - \[adverb\]
@@ -117,41 +117,41 @@ genre M
 **तं** जनमन्यो मर्षको जनः **कर्मणा** हननादिव्यापारेण **नकिः** **नशत्** नैव व्याप्नोति । **यः** **इन्द्रं** **चकार** इन्द्रमेवानुकूलं **यज्ञैः** साधनैः । कीदृशमिन्द्रम् । **सदावृधं** सदा वर्धकं **विश्वगूर्त** सर्वैः स्तुत्यम् **ऋभ्वसं** महान्तम् **अधृष्टम्** अन्यैः **धृष्ण्वोजसं** धर्षकबलम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “None can touch him by his deeds, who has made **Indra** his friend by sacrifices-- (Indra) ever givingfresh strength, to be hymned by all, great, unconquered, of ever-daring might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one will catch up with him who by his (ritual?) action created an ever  strengthening one  
 like Indra, welcomed with sacrifices by all, ingenious, unassailable but of  assailing might,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of “him” in “No one will catch up with him…” is not sufficiently signalled in the published translation I take it to refer to the successful sacrificer (cf. VIII.31.17), who ritually strengthens and thus “has created” Indra. However, the perfect cakā́ra could instead signal mythic time; both Geldner and Oldenberg believe this refers to the original creator of Indra, as in IV.17.4. The reference to Indra’s birth in 4cd may support their position.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No one by deed attains to him who works and strengthens evermore:  
      No, not by sacrifice, to Indra. praised o all, resistless, daring, bold in might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner kommt dem an Verdienst gleich, der einen stets Fördernden wie den Indra erzeugt hat, den mit Opfergebeten Allgepriesenen, Meisterlichen, Unangreifbaren, von kühner Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm kommt an Werken keiner gleich, die er gethan, dem segnenden, Dem vielgeliebten Indra an Verehrung nicht, der stark ist, kühn und unbesiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

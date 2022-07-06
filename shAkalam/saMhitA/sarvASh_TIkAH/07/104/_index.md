@@ -8,7 +8,7 @@ title = "+104"
 ‘इन्द्रासोमा' इति पञ्चविंशत्यृचं पञ्चदशं सूक्तं वसिष्ठस्यार्षम् । आद्याः षट् जगत्यः सप्तमी जगती त्रिष्टुब्वाष्टादश्येकविंशीत्रयोविंश्यो जगत्योऽन्त्या प्रति चक्ष्व' इत्यनुष्टुप् शिष्टाश्चतुर्दश त्रिष्टुभः । नवमीद्वादशीत्रयोदश्यः सोमदेवत्या एकादशी देवदेवत्याष्टमीषोडश्याविन्द्रदेवताके सप्तदशी ग्रावदेवत्याष्टादशी मरुद्देवताका दशमीचतुर्दश्यावग्निदेवताके ‘प्र वर्तय' इत्याद्याः पञ्चर्च इन्द्रदेवताकाः । ‘मा नो रक्ष' इति त्रयोविंश्याः पूर्वोऽर्धर्चो वसिष्ठस्य प्रार्थनापरः । अतस्तद्देवताकः । उत्तरोऽर्धर्चः पृथिव्यन्तरिक्षदेवत्यः । शिष्टानां रक्षोहणाविन्द्रासोमौ देवता । तथा चानुक्रान्तम्’ -- इन्द्रासोमा पञ्चाधिकैन्द्रासोमं राक्षोघ्नं शापाभिशापप्रायं षट् सप्त वाद्या जगत्य एकविंशीत्रयोविंश्यौ चाष्टादशी मारुती च दशमीचतुर्दश्यावाग्नेय्यौ दैव्येकादश्यन्त्यानुष्टुन्नवमी द्वादशी त्रयोदशी सौम्यः सप्तदशी ग्राव्ण्यष्टमीषोळश्यावैन्द्र्यौ प्र वर्तयेति पञ्चैन्द्र्यो मा नो रक्ष इत्यृषेरात्मन आशीरुत्तरोऽर्धर्चः पृथिव्यन्तरिक्षदेवतः' इति । अत्र बृहद्देवतायामनुक्रम्यते- संवत्सरं तु मण्डूकानैन्द्रासोमं परं तु यत् ॥ ऋषिर्ददर्श रक्षोघ्नं पुत्रशोकपरिप्लुतः । हते पुत्रशते क्रुद्धः सौदासैर्दुःखितस्तदा ॥ (बृहद्दे. ६. २७-२८) इति । अतो रक्षोनिबर्हणार्थमेतत्सूक्तं जप्यम् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 104 (620)  
 Destroying Demons, Using Imprecations and Curses.  Indra and Soma (1–7, 15, 25), Indra (8, 16, 19–22, 24), Soma (9,  12–13), Agni (10, 14), Gods (11), Pressing Stones (17), Maruts (18),  Vasisṭha’s Hopes for Himself (23ab), Earth and Midspace (23cd) ̣  
@@ -23,7 +23,7 @@ The Indian tradition (and many Western commentators, including Geldner)  reads V
 Vasiṣṭha–Viśvāmitra feud elsewhere in the R̥gveda. It is always necessary to be wary  about “reading backward” into the R̥gveda and other Vedic texts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Multiple divinities, to destroy demons and ward off evil 138 See the published introduction. for an introduction. to this complex composite hymn and its parts.
 

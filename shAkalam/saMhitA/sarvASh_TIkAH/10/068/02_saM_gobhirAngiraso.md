@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ गो꣡भिर् आङ्गिरसो꣡ न꣡क्षमाणो  
 भ꣡ग इवे꣡द् अर्यम꣡णं निनाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्पते वाज꣡याशूँ꣡र् इवाजउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 जने॑ । मि॒त्रः । न । दम्प॑ती॒ इति॒ दम्ऽप॑ती । अ॒न॒क्ति॒ । बृह॑स्पते । वा॒जय॑ । आ॒शून्ऽइ॑व । आ॒जौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -120,36 +120,36 @@ genre M
 **आङ्गिरसः** अङ्गिरसः पुत्रः **नक्षमाणः** स्वतेजसा व्याप्नुवन् **भगइवेत्** भगो देव इव स्थितो बृहस्पतिरेव **अर्यमणं** स्तुतेः प्रेरकं स्तोतारं **गोभिः** सह **सं** **निनाय** संनयति संयोजयति । **मित्रो** **न** मित्रो यथा **जने** जनपदे स्वरश्मीन् संयोजयति तद्वत् **दंपती** जायापती **अनक्ति** संगमयति । स्वसामर्थ्येन तत्र स्थापयतीत्यर्थः । हे **बृहस्पते** आशून् व्याप्तान् स्वरश्मीन् **वाजय** तव स्तोतृषु गमय स्थापय । **आशूनिव** व्याप्तानश्वान् **आजौ** संग्रामे योद्धारो यथा संगमयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The son of **Aṅgirasa** pervading him with his brightness has, like **Bhaga**, brought **Aryaman** to the cows;as **Mitra** (unites his radiance) with the people, so has he united husband and wife; **Bṛhaspati**, send (yourwide-spread rays to your worshippers) as (a warrior sends his) horses to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Bellowing) with the cows, (Br̥haspati) Aṅgiras, coming near, led (the  Aṅgirases) together with the cows, as Bhaga leads Aryaman.  
 As the ally among the people [=Agni] anoints the household pair, he  anoints (the Aṅgirases). O Br̥haspati, incite them like swift (horses) in  a contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Son of Angirases, meeting the cattle, as Bhaga, brought in Aryaman among us.  
      As Friend of men he decks the wife and husband: as for the race, Brhaspati, nerve our coursers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der angirasische Brihaspati kam herbei und hat sie mit den Kühen zusammengebracht wie Bhaga den Werber Aryaman mit der Braut. Wie ein Vertrauensmann zwei Ehegatten, so macht er sie einig; "O Brihaspati, sporne sie an wie Rennpferde im Wettkampf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sich nahend schenkt der Angiras-entsprossne wie Bhaga Kühe seinem Busenfreunde, Wie Mitra schmückt er Mann und Frau im Volke, wie Renner stärk', Brihaspati, im Kampf uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Бог,) происходящий от Ангирасов, приближаясь, свел (их)  
 С коровами, как Бхага – Арьямана.  

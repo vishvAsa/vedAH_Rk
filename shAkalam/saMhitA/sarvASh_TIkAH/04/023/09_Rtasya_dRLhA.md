@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य दॄळ्हा꣡+ धरु꣡णानि सन्ति  
 पुरू꣡णि चन्द्रा꣡ व꣡पुषे व꣡पूंषि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋते꣡न गा꣡व ऋत꣡म् आ꣡ विवेशुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तेन॑ । दी॒र्घम् । इ॒ष॒ण॒न्त॒ । पृक्षः॑ । ऋ॒तेन॑ । गावः॑ । ऋ॒तम् । आ । वि॒वे॒शुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -114,7 +114,7 @@ genre M
 **वपुषे** वपुष्मतः । षष्य्ार्थे चतुर्थी । **ऋतस्य** ऋतदेवस्य संबन्धीनि **दृळ्हा** दृढानि **धरुणानि** धारकाणि **पुरूणि** बहूनि **चन्द्रा** चन्द्राण्याह्लादकानि **वपूंषि** रूपाणि **सन्ति** भवन्ति । **ऋतेन** ऋतदेवेन **दीर्घम्** अत्यधिकं **पृक्षः** अन्नम् **इषणन्त** स्तोतार इच्छन्ति । **ऋतेन** ऋतदेवेन **गावः** धेनवः **ऋतं** यज्ञं दक्षिणात्वेन **आ** **विवेशुः** प्रविशन्ति । यद्वा । गावो रश्मय ऋतमुदकम् आविवेशुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,36 +125,36 @@ genre M
 I.e., as presents made to the officiating priests; the phrase may also mean, the rays of light have entered into the water, **gāva** ṛtam āviveśuḥ raśmayā udakam āiveśuḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of truth the buttresses are firmly fixed; many are its gleaming marvels  to be marveled at.  
 By truth the nourishments urge themselves along the long way, and by  truth the cows approached truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The tr. of dīrghám as extent of space, rather than Geldner’s extent of time (“lange Zeit”), follows Thieme (p. 32): the nourishments as oblations go from earth to heaven, as rain from heaven to earth.
 
 On irregular full-grade 3rd pl. viveśuḥ see Kümmel (499-500).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Firm-seated are eternal Law's foundations in its fair form are many splendid beauties.  
      By holy Law long lasting food they bring us; by holy Law have cows come to our worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wahrheit hat feste Grundlagen, viele glänzende Wunder zum Schauen. Durch die Wahrheit werden lange Zeit die Lebenskräfte in Bewegung gesetzt, durch die Wahrheit kamen die Kühe den rechten Weg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest ist des Opfers Fundament gegründet, viel glänzende Gestalten sind dem schönen, Durch Opfer dringen weit hinaus die Laben, durch Opfer gingen Kühe ein zur Stätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У закона есть твердые основы,  
 Много ярких чудес на удивление.  

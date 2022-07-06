@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने सुत꣡स्य पीत꣡ये  
 वि꣡श्वैर् ऊ꣡मेभिर् आ꣡ गहि  
 देवे꣡भिर् हव्य꣡दातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 दे॒वेभिः॑ । ह॒व्यऽदा॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -85,42 +85,42 @@ genre M;; repeated line
 हे **अग्ने** त्वं **सुतस्य** **पीतये** सोमपानाय **विश्वैरूमेभिः** ऊमैः सर्वैरपि रक्षकैः **देवेभिः** देवैरिन्द्रादिभिः सह **हव्यदातये** अस्माकं हविर्दानाय तद्दात्रे यजमानाय वा **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Agni**, with all the protecting deities, to drink the libation; come with the gods”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, to drink of the pressed (soma), come here with all your helpers, with the gods, for the giving of oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The eponymous phrase víśvaiḥ … devaíḥ opens successive pādas here (b, c), but the adj. is in fact more narrowly construed with immediately following ū́mebhiḥ.
 
 This is rather like (or, rather, opposite to) the manipulation of the phrase in vs. 1 of the preceding hymn (50.1).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH all assistants, Agni, come hither to drink the Soma-juice;  
      With Gods unto our sacred gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Komm zum Trunke des ausgepreßten Soma mit allen Helfern, mit den Göttern zur Opferausteilung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit allen Freunden komm herbei o Agni, zu des Saftes Trunk, Zum Opfer mit der Götterschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, для питья выжатого (сомы)  
 Приходи со всеми помощниками –  

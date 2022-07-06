@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ति वा यो꣡ मरुतो म꣡न्यते नो  
 ब्र꣡ह्म वा यः꣡ क्रिय꣡माणं नि꣡नित्सात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मद्वि꣡षम् अभि꣡ तं꣡ शोचतु द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तपूं॑षि । तस्मै॑ । वृ॒जि॒नानि॑ । स॒न्तु॒ । ब्र॒ह्म॒ऽद्विष॑म् । अ॒भि । तम् । शो॒च॒तु॒ । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ati*
 - \[adverb\]
@@ -140,7 +140,7 @@ popular
 हे **मरुतः** **यः** पुरुषः **नः** अस्मान् **अति** **मन्यते** अतीत्य स्वस्याधिक्यं मन्यते अस्मत्तोऽपि स्वयमधिक इति बुध्यते । अस्माभिः **क्रियमाणं** **ब्रह्म** स्तोत्रं **वा** **यः** **निनिस्सात्** निन्दितुमिच्छेत् **तस्मै** पुरुषाय **तपूंषि** तेजांसि **वृजिनानि** बाधकानि **सन्तु** भवन्तु । **ब्रह्मद्विषं** **तं** शत्रुं **द्यौः** आदित्यश्च **अभि** **शोचतु** अभितपतु । अभिदहतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,14 +153,14 @@ That impious adversary: brahmadviṣam: the next verse has brahmadviṣe; tam ś
 Brahmadviṣe = brāhamṇa **dveṣṭā**, the hater or enemy of the **brāhmaṇa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever disdains us, Maruts, or will scorn our sacred formulation as it  is being performed,  
 let his twisted (ways) be twisting, scorching (flames) for him. Let  
 Heaven blaze at him who hates the formulation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 nínitsāt is an unusual formation: a subjunctive to a desiderative. It may lend immediacy to the action, which is to be taken against a formulation that is being performed (note the pres. part. kriyámāṇam).
 
@@ -179,23 +179,23 @@ It is unfortunately impossible to capture in Engl. the play between ánu √man 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or he who holds us in contempt, O Maruts, or seeks to blame the prayer that we are making,  
      May agonies of burning be his portion. May the sky scorch the man who hates devotion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder wer sich mehr dünkt als wir, ihr Marut, oder wer die von uns getane feierliche Rede schmähen will, dem möge seine Falschheit zu Feuerflammen werden. Den Feind der feierlichen Rede soll der Himmel verbrennen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer uns verachtet, o ihr Marutscharen, wer das Gebet, das wir verrichten, schmähet, Den mögen brennen seine falschen Ränke, dem Andachthasser strahle Glut der Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или кто себя ставит выше нас, о Маруты,  
 Или кто захочет надругаться над творимой молитвой,  

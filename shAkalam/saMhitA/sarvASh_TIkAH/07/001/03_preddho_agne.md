@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡इद्धो अग्ने दीदिहि पुरो꣡ नो  
 अ꣡जस्रया सुऊर्मि꣡या यविष्ठ  
 तुवां꣡ श꣡श्वन्त उ꣡प यन्ति वा꣡जाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वाम् । शश्व॑न्तः । उप॑ । य॒न्ति॒ । वाजाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *preddho* ← *preddhaḥ* ← *prendh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -92,7 +92,7 @@ genre M
 **यविष्ठ** युवतम हे **अग्ने** **प्रेद्धः** प्रकर्षेण समिद्धस्त्वम् **अजस्रया** अशरणशीलया **सूर्म्या** ज्वालया **नः** अस्मदर्थं **पुरः** पुरस्तात् आहवनीयायतने **दीदिहि** दीप्यस्व । **त्वां** **शश्वन्तः** बहवः **वाजाः** अन्नानि हवींषि **उप** **यन्ति** उपगच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M
 With undecaying radiance: ajasrayā **sūrmyā**: surmi = samitkāṣṭham, kindled wood; or itmay mean a metal stake or **post**, red hot; therefore, figurately, it denotes a flame
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you are kindled forth, Agni, shine in front for us with your  inexhaustible shaft of light, o youngest one.  
 Prizes of victory ever go toward you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shine thou before us, Agni, well-enkindled, with flame, Most Youthful God, that never fadeth.  
      To thee come all our sacrificial viands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entzündet leuchte uns voran, Agni, mit unverlöschlicher Feuersäule, du Jüngster. Zu dir kommen die vielen Ehrengaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o jüngster; Zu dir hin eilen stete Opferspeisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажженный, о Агни, свети нам вперед  
 Неугасимым огненным столпом, о самый юный!  

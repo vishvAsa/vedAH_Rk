@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मन्दन् मा मरुत स्तो꣡मो अ꣡त्र  
 य꣡न् मे नरः श्रु꣡तियम् ब्र꣡ह्म चक्र꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ख्ये स꣡खायस् तनु꣡वे तनू꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्रा॑य । वृष्णे॑ । सुऽम॑खाय । मह्य॑म् । सख्ये॑ । सखा॑यः । त॒न्वे॑ । त॒नूभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amandan* ← *mad*
 - \[verb\], plural, Imperfect
@@ -130,41 +130,41 @@ genre M
 इदमपि इन्द्रवाक्यम् । हे **मरुतः** **मा** माम् **अत्र** अस्मिन् उदकोत्पादनविषये **स्तोमः** स्तोत्रम् **अमन्दत्** मादयति मोदयते वा । हे **नरः** **सखायः** यूयं **मे** मम **यत्** **श्रुत्यं** सर्वैः श्रोतव्यं **ब्रह्म** परिवृढमेघधारणादिरूपं **चक्र** कृतवन्तः। ‘स्वप्रभूतं स्तोत्रं वानुत्तमा ते' इत्यादिकम् । **इन्द्राय** परमैश्वर्यगुणकाय **वृष्णे** अभिसतवर्षित्रे **सुमखाय** शोभनयागाय **सख्ये** युष्माभिः समानख्यानाय **तनूभिः** अनेकशरीरैरुपेताय **मह्यं** मम **तन्वे** मदीयशरीरपोषाय भवतु । यद्वा । तनूभिरस्मच्छरीरभूतैर्युष्माभिः कृतं मह्यमेवास्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, on this occasion praise delights me; that prise which is to be heard (by all), which men have offered me. To **Indra**, the showerer (of benefits), the object of pious sacrifice; to me, (endowed) with many forms (do you) my friends (offer sacrifices) for (the nourishment of my) person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The praise song here has exhilarated me, o Maruts, the formulation  worthy to be heard that you created for me, o men—  
 for me, (who am) Indra, the bull and strong combatant—for (me), your  companion as my companions, for me myself by you yourselves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final pāda of this vs. brings the vocabulary into reciprocal alignment and thus signals that harmony has been restored: sákhye sákhāyas tanvè tanū́bhiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, O ye Maruts, hath your praise rejoiced me, the glorious hymn which ye have made me, Heroes!  
      For me, for Indra, champion strong in battle, for me, yourselves, as lovers for a lover.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Begeistert hat mich dabei euer Lob, ihr Marut, die Erbauung, die ihr Herren mir bereitet habt, wert zu hören, mir dem Indra, dem Bullen, dem Freigebigen, dem Freund die Freunde in eigener Person meiner Person.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mich hat erfreut, o Maruts, euer Rühmen, das schöne Wort, das, Männer, ihr gesprochen, Dem Indra mir, dem kampfgeübten Helden, dem Freund die Freunde mir aus eignem Antrieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Маруты, меня здесь вдохновила ваша хвала,  
 Молитва, достойная слушания, которую вы мне сотворили, о мужи,  

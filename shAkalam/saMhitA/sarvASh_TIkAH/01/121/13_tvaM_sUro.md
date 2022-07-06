@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ सू꣡रो हरि꣡तो रामयो नॄ꣡न्  
 भ꣡रच् चक्र꣡म् ए꣡तशो ना꣡य꣡म् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पि कर्त꣡म् अवर्तयो अ꣡यज्यून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽअस्य॑ । पा॒रम् । न॒व॒तिम् । ना॒व्या॑नाम् । अपि॑ । क॒र्तम् । अ॒व॒र्त॒यः॒ । अय॑ज्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -125,7 +125,7 @@ genre M
 हे **इन्द्र** **सूरः** सूर्यात्मना वर्तमानः **त्वं** **हरितः** हरिद्वर्णान् **नॄन्** नेतॄन् अश्वान् यद्वा रसहरणशीलान् रश्मीन् **रमयः** उपारमयः । **एतशो** **न** । एतश इति सूर्याश्वस्याख्या। तथा च श्रूयते -- ‘ एतशेन त्वा सूर्यो देवतां गमयतु ' (तै. सं. १. ६. ४. ६) इति । नशब्दश्चार्थे । एतशश्च रथस्य **चक्रं** **भरत्** प्रावहत् । अपि च त्वं **नाव्यानां** नावा तार्याणां नदीनां **नवतिं** नवतिसंख्याम् अतीत्य वर्तमानं **पारं** तीरदेशम् । सप्तम्यर्थे द्वितीया । तीरदेशे **अयज्यून्** अयजमाना यज्ञविहीनान्  असुरादीन् **प्रास्य** प्रक्षिप्य तत्र **कर्तम्** **अवर्तयः** कर्तव्यमपि कृत्वा तानयजमानानवर्तयः प्रापयः ॥ रमयः । लङि  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । अन्येषामपि दृश्यते ' इति सांहितको दीर्घः । प्रास्य । ‘असु क्षेपणे '। अस्मात् ल्यपि रूपम् । नाव्यानाम् । नौवयोधर्म' इत्यादिना यत्। तित्स्वरितम्' इति स्वरितत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ Sūra = Indra, as the sun;
 Etaśa = a horse of the sun; also the name of a Ṛṣi; ninety rivers = nāvyānām, of navigable rivers, or of such as must be crossed by a boat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You brought to a halt the tawny mares of the Sun for men. Etaśa bore  the wheel; (you were) on your own, Indra.  
 Having cast (it) forth to the far shore of the ninety and nine (rivers),  you rolled the non-sacrificers over into the pit.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take nṝ́n as a gen. pl. (see 1a) in beneficial sense.
 
@@ -153,23 +153,23 @@ For nā́yám see comm. on VIII.2.28 and Jamison (Hock Fs.).
 In c rathyàḥ could simply mean ‘charioteers’, a parallel gift to the prizes (vā́jān). So Witzel Gotō.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The strong Bay Horses of the Sun thou stayedst: this Etasa drew not the wheel, O Indra.  
      Casting them forth beyond the ninety rivers thou dravest down into the pit the godless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Indra hieltest die Falbinnen des Sonnengottes an, bis ans andere Ufer der neunzig Ströme es schleudernd rolltest du die Opferlosen kopfüber in den Abgrund. -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liessest ruhn der Sonne starke Rosse, nicht zog der Renner mehr ihr Rad, o Indra, Du schleudertest die Bösen in die Grube, sie werfend über neunzig grosse Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты остановил коней солнца, (помогая) людям.  
 Унес колесо Эташа, (а) не этот (Сурья), о Индра.  

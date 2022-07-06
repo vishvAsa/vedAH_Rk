@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्णोः क꣡र्माणि पश्यत  
 य꣡तो व्रता꣡नि पस्पशे꣡  
 इ꣡न्द्रस्य यु꣡जियः स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Behold the deeds of **Viṣṇu**, through which (the worshipper) has accomplished (pious) vows; he is the worthy friend of **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Behold the deeds of Viṣṇu: from (the place) where he watches over the  commandments,  
 the partner in yoke with Indra,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look ye on Visnu's works, whereby the Friend of Indra, close-allied,  
      Hath let his holy ways be seen.
@@ -117,17 +117,17 @@ Indra's true friend.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schaut die Werke des Vishnu, von wo aus er auf seine Gebote acht gibt, des Indra treuer Freund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Vischnu Thaten schauet an, durch die die Ordnungen er sah, Des Indra eng verbundner Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взгляните на деяния Вишну,  
 Откуда он следит за обетами,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिन्वानो꣡ वा꣡चम् इष्यसि  
 प꣡वमान वि꣡धर्मणि  
 अ꣡क्रान् देवो꣡ न꣡ सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अक्रा॑न् । दे॒वः । न । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** सोम **हिन्वानः** प्रेर्यमाणस्त्वं **वाचं** शब्दम् **इष्यसि** प्रेरयसि । कदेत्यत्राह । यदा तव रसः **सूर्यः** **देवो** **न** देव इव **विधर्मणि** विधारके पवित्रे **अक्रान्** अक्रमीत् तदेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, when sent forth you utter a cry (when your juice) like the sun god passed through the supporting (filter).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yourself being impelled, you send out your speech, you who purify  yourself at your expansion.  
 You have roared like the Sun-god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b, pávamāna vídharmaṇi, is found three times (here, IX.4.9, and IX.100.7) in three different syntactic contexts, so this has to be the constituency: the voc. plus the loc. Renou takes the ‘speech’ (vā́cam) from pāda a as the implicit subject of vídharmaṇi (“pour qu’elle se répande au loin”), but because speech is lacking in the other occurrences of the pāda, this cannot be correct. Most helpful for the interpr. is the fuller expression in IX.86.30 (also adduced by Ober II.152) tvám pavítre rájaso vídharmaṇi ... pavamāna pūyase “You, selfpurifying soma, are purified in the filter, in the spreading expanse of space ...,” where the spread of the soma liquid across the fleece filter is compared to the spread (probably of light) in cosmic space (rájas-).
 
@@ -109,23 +109,23 @@ As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged on thou sendest out thy voice, O Pavamana; thou hast moved,  
      Like the God Surya, to the sieve.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Eile getrieben entsendest du die Stimme, o Pavamana, wenn du dich ausbreitest; du hast gewiehert wie der Gott Surya.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entsandt erhebst du den Gesang, o rieselnder, du wiehertest Am Himmel wie der Sonnengott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

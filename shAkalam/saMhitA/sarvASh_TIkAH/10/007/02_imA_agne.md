@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ अग्ने मत꣡यस् तु꣡भ्य° जाता꣡  
 गो꣡भिर् अ꣡श्वैर् अभि꣡ गृणन्ति रा꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सो द꣡धानो मति꣡भिः सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 य॒दा । ते॒ । मर्तः॑ । अनु॑ । भोग॑म् । आन॑ट् । वसो॒ इति॑ । दधा॑नः । म॒तिऽभिः॑ । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -136,36 +136,36 @@ genre M
 हे **अग्ने** **इमाः** ईदृश्यः **मतयः** स्तुतयः **तुभ्यं** त्वदर्थं **जाताः** अस्मदादिस्तोतृमुखादुत्पन्नाः । उच्चारिता इत्यर्थः । गोभिरश्वैः च सहितं **राधः** त्वया दीयमानं हिरण्यादिकं धनम् **अभि** **गृणन्ति** अभिष्टुवन्ति । अस्मत् स्तुत्यनुरूपान्नमस्मभ्यं त्वया दत्तमिति प्रशंसन्ति । **यदा** **मर्तः** अस्मदादिको मनुष्यः **ते** त्वया दीयमानं **भोगं** भोगार्हं धनम् **अनु** **आनट्** प्राप्नोति लभते तदा हे **वसो** प्रशस्यवसुमन् । यद्वा । स्वेन तेजसा सर्वस्याच्छादयितः । हे **सुजात** शोभन कर्मार्थमुत्पन्नाग्ने त्वं **दधानः** अस्मभ्यं धनं प्रयच्छन् **मतिभिः** अस्मदीयाभिः स्तूयस इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These hymns, addressed, **Agni**, to you, praise you for wealth, together with cattle and horses; when amortal obtains the means of enjoyment from the, (then), opulent and well-born Agni, you, who are the granter ofbenefits, (are celebrated) by our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These thoughts were born for you, o Agni. They applaud your generosity  with its cows and horses,  
 when the mortal has attained the benefit from you, acquiring it by (these)  thoughts, o well-born good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These hymns brought forth for thee, O Agni, laud thee for bounteous gifts, with cattle and with horses.  
      Good Lord, when man from thee hath gained enjoyment, by hymns, O noblyborn, hath he obtained it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese frommen Gedanken sind für dich, Agni, geboren; sie erkennen die Belohnung mit Rindern und Rossen mit Dank an, seit der Sterbliche in deinen Genuß gekommen ist, du Guter, Schöngeborener, der unter frommen Gedanken eingesetzt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir sind erzeugt, o Agni, diese Lieder; sie preisen dein Geschenk an Ross und Rindern; Wenn deinen Lohn der Sterbliche erreicht hat, o guter, edler, durch Gebet erlangend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти молитвы, о Агни, рождены для тебя.  
 Они радостно принимают награждение коровами (и) конями,  

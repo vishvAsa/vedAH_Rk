@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ द्विब꣡न्धुर् वैतरणो꣡ य꣡ष्टा  
 सबर्धुं꣡ धेनु꣡म् असु꣡वं दुह꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज्य꣡यिष्ठेभिर्+ अर्यम꣡णं व꣡रूथैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । यत् । मि॒त्रावरु॑णा । वृ॒ञ्जे । उ॒क्थैः । ज्येष्ठे॑भिः । अ॒र्य॒मण॑म् । वरू॑थैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -109,37 +109,37 @@ genre M
 **सः** अग्निः **द्विबन्धुः** द्वयोर्लोकियोर्बन्धुभूतः **वैतरणः** सर्वस्य विशेषेण तारयिता । यद्वा । वितरणार्हो हविष्प्रदानार्हः । **यष्टा** देवानां याजकोऽग्निः सबर्धुम् अमृतोपमपयोदोग्ध्रीं **धेनुम्** **अस्वम्** अप्रसूतां निवृत्तप्रसवां शयवे **दुहध्यै** दोहायाकरोत् । **यत्** यदा स शयुः मित्रावरुणौ **अर्यमणं** च **ज्येष्ठेभिः** ज्येष्ठैः प्रशस्तैः **वरूथैः** वरणीयैः **उक्थैः** शस्त्रैः **सं** **वृञ्जे** सम्यक्स्तौति । यदा स शयुर्मित्रावरुणार्यम्णां स्तुतिं करोति तदा तेषामाज्ञयाग्निर्निवृत्तप्रसवां पयोदोग्ध्रीमकरोदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kinsman of the two (worlds, **Agni**), the conveyer (of all), the sacrificer, (made) theambrosia-yielding cow, which had not given birth, to yield milk (for **Śayu**), when he praises **Mitra**, **Varuṇa** andAryaman, with most excellent and choice hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He of two lineages, the son of Vitaraṇa, the sacrificer, is to milk the  milk-cow, which is sap-yielding but not giving birth,  
 when I enmesh Mitra and Varuṇa with hymns and Aryaman with  
 preeminent defenses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vaitarana, doubly kinsman, sacrificer, shall milk the cow who ne'er hath calved, Sabardhu,  
      When I encompass Varuna and Mitra with lauds, and Aryaman in safest shelter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser von doppelter Sippe, der Opfernde, der Sohn des Vitarana, soll die immermelke und doch nicht gebärende Kuh melken, wenn er Mitra und Varuna durch seine Loblieder ganz gewinnt, den Aryaman nebst den höchsten Schutzgeistern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser Dvibandhu, der Nachkomme des Vitarana, bewirkt durch Opfer, dass die unfruchtbare Kuh Nektar herabschüttend sich ergiesse, wenn ich den Mitra und Varuna durch Sprüche herbeilocke, den Arjaman durch die besten Bewirthungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

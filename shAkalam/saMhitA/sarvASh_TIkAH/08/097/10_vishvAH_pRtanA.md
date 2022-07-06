@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वाः पृ꣡तना अभिभू꣡तरं न꣡रं  
 सजू꣡स् ततक्षुर् इ꣡न्द्रं जजनु꣡श् च राज꣡से  
@@ -14,7 +14,7 @@ ChandaH = "अतिजगती"
 उग्र꣡म् ओ꣡जिष्ठं तव꣡सं तरस्वि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क्रत्वा॑ । वरि॑ष्ठम् । वरे॑ । आ॒ऽमुरि॑म् । उ॒त । उ॒ग्रम् । ओजि॑ष्ठम् । त॒वस॑म् । त॒र॒स्विन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
@@ -121,37 +121,37 @@ genre M
 विश्वाः सर्वाव्याप्तावा पृतनाः । पृङ्व्यायामे । व्याप्रियन्तइति पृतनाः सेनाः सजूः परस्परं सङ्गताः सत्यः अभिभूतरं शत्रूणामत्यर्थं अभिभवितारं नरं सर्वस्यनेतारमिन्द्रं ततक्षुः आयुधादिभिस्तीक्ष्णीकुर्वन्ति आयुधवन्तमश्ववन्तञ्च चक्रुरित्यर्थः । यद्वा पृतनाइति सङ्ग्रामाः व्याप्रियन्ते अत्रेति पृतनाः सङ्ग्रामाः सर्वानेव सङ्ग्रामानभिभावुकमिन्द्रं स्तोतारः अन्योन्यं सङ्गताः स्तुतिभिस्तीक्ष्णमकुर्वन् स्तत सति बलवान् भवतीति । यद्वा यष्टारो हविः प्रदानेन वीर्यवन्तं कुर्वन्तीति । किञ्च स्तोतारः राजसे तुमर्थे असे प्रत्ययः । आत्मनोविराजनार्थं प्रकाशनार्थं सूर्यात्मानमिन्द्रं जजनुः जनयामासुः स्तोत्रेण यज्ञेप्रादुरभावयन्नित्यर्थः । उतापिच क्रत्वा स्वीयवृत्रवधादि कर्मणैव वरिष्ठं उरुतमं आमुरिं शत्रूणामाभिमुख्येन मारयि- तारमिन्द्रं वरेवरणीये धने स्तीतारश्चक्रुः आत्मनां धनलाभार्थं स्तवन्तीत्यर्थः । कीदृशं उग्रं उद्गूर्णबलं अतएव ओजिष्ठं आजस्वितमं तवसं प्रवृद्धं तरस्विनं सङ्ग्रामे शत्रुवधार्थं वेगवन्तं इन्द्रं धनार्थं स्तुवन्ति ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The assembled (priests) have roused **Indra**, the leader, the conqueror in all battles; they have createdhim (by their hymns) to shine-- him the mightiest in his acts, the smiter of enemies for spoil, the terrible, the mostpowerful, the stalwart, the furious.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The superior man who is even more dominant over all battles—Indra  have they jointly fashioned and begotten for ruling—  
 most excellent in resolve and a hindrance in obstructing, strong,  
 strongest, powerful, surpassing.1204 VIII.98
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of one accord they made and formed for kingship Indra, the Hero who in all encounters overcometh,  
      Most eminent for power, destroyer in the conflict, fierce and exceeding strong, stalwart and full of vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Mann, der in allen Kämpfen der Überlegene ist, den Indra haben sie einmütig zum Herrschen gebildet und erzeugt, den an Umsicht Besten, und zur Abwehr der Feinde den Hemmer, den Gewaltigen, Gewaltigsten, Kräftigen, Ausdauernden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Helden, der allen Feinden überlegen ist, ihn bereiteten sie und zeugten sie zur Herrschaft, den ausgedehntesten an Kraft im weiten Raum und den Vertilger, den starken, kräftigsten, gewaltigen, vordringenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мужа, превосходящего (других) во всех сражениях,  
 Индру они единодушно вытесали и породили для власти,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡द् ऊ नु꣡ अस्य अ꣡कृतम्  
 इ꣡न्द्रस्य अस्ति पउं꣡सियम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 जनु꣡षः प꣡रि वृत्रहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 केनो॒ इति॑ । नु । क॒म् । श्रोम॑तेन । न । शु॒श्रु॒वे॒ । ज॒नुषः॑ । परि॑ । वृ॒त्र॒ऽहा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
@@ -126,37 +126,37 @@ genre M
 अस्येन्द्रस्य कदूनु किन्तु खलु पौंस्यं पौरुषं अकृतमनाचारितमस्ति सर्वमपि वृत्रवधादिकमनेन कृतमेव इतःपरं नकिञ्च पौंस्यं कृत्यमस्तीत्यर्थः लोके स्वल्पमपि यःपुंस्त्वं कुर्यात् सतेन स्तूयते अयन्तु नस्तुत एतदुच्यते केनोनुकं केनखलु श्रोमतेन श्रवणीयेन पुंस्त्वेन नशुश्रुवे नश्रूयते किं कतिपयैरेवा- होभिः कृतेन नेत्याह-अयं वृत्रहा वृत्रस्यातिप्रबलस्यहन्ता अयं जनुषःपरि जन्मप्रभृति क्रियमाणैः सामर्थ्यैः श्रूयते वृत्रहत्यं तत्पुंस्त्वप्रदर्शनाद्योतनाय यथा वृत्रहननं सर्वैः श्रूयते तद्वदन्यान्यपीति भावः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What act of might is there, unperformed by **Indra**? Who has not heard of his famous (heroism)? He, theslayer of **Vṛtra**, (is renowned) from his birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What manly deed of his now remains undone by Indra?  
 Indeed, by what fame has the Vr̥tra-smasher not been famed from  
 his birth?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What manly deed of vigour now remains that Indra hath not done?  
      Who hath not heard his glorious title and his fame, the Vrtra-slayer from his birth?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Mannestat ist wohl für ihn ungetan, für Indra? Durch welchen Ruhm ist der Vritratöter von Geburt an nicht berühmt geworden?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo ist das Heldenwerk, das nicht von Indra wäre ausgeführt, Wo Ruhmesthat, durch die der Vritratödter nicht berühmt ist stets nach seiner Art?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что же за мужественное деяние  
 Осталось у этого Индры не совершенным?  

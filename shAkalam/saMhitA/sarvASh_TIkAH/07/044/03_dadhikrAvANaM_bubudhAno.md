@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡वाणम् बुबुधानो꣡ अग्नि꣡म्  
 उ꣡प ब्रुव उष꣡सं सू꣡रियं गा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡ वि꣡श्वास्म꣡द् दुरिता꣡ यावयन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ब्र॒ध्नम् । मं॒श्च॒तोः । वरु॑णस्य । ब॒भ्रुम् । ते । विश्वा॑ । अ॒स्मत् । दुः॒ऽइ॒ता । य॒व॒य॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrāvāṇam* ← *dadhikrāvan*
 - \[noun\], accusative, singular, masculine
@@ -119,20 +119,20 @@ genre M
 **दधिक्रावाजम्** अश्वविशेषं **बुबुधानः** स्तोत्रेण बोधयन्नहम् **अग्निं** देवम् **उप** **ब्रुवे** उपस्तौमि । तथा च **उषसम्** उषोदेवतां **सूर्यं** सर्वस्य प्रेरकं देवं **गां** भूमिम् । वाग्देवतां वा । एवंभूतान् देवानहमुपस्तौमि। **मंश्चतोः** । मन्यमानान् स्तुवतो जनांश्चेतयते जानातीति यद्वाभिमन्यमानांश्चातयते नाशयतीति मंश्चतुः। तस्य वरुणस्य **ब्रध्नं** महान्तं **बभ्रुं** पिङ्गलवर्णमश्वं तस्थानयनार्थमहमुप ब्रुवे। **ते** देवाः **अस्मत्** अस्मत्तः **विश्वा** विश्वानि सर्वाणि **दुरिता** दुरितानि पापानि **यवयन्तु** पृथक्कुर्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Propitiating Dadhikrāvan, I glorify **Agni**, Uṣas, the sun, the earth, the great brown horse of **Varuṇa**,who is mindful of his adorers; may they put far away from us iniquities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Dadhikrāvan and Agni do I speak on having awakened, and to Dawn,  the Sun, and the Cow,  
 to the one of Varuṇa who is copper-colored at the twilights [=sun?] and  to the reddish-brown one [=soma?]. Let them keep all difficulties away  from us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed in the published introduction, in the middle of a hymn of utmost simplicity and banality, this vs. -- or a single pāda, c -- is utterly baffling and has given rise to competing interpr. This pāda contains two color terms, bradhná- ‘coppery’ and babhrú- ‘brown’, and a hapax mām̐ścatóḥ (or better maṃ̐ścatóḥ; see Oldenberg): bradhnám mām̐ścatór váruṇasya babhrúm. Most comm. assume that the two color terms refer to horses (see, e.g., Geldner n. 3c, also Oldenberg), because of the presence of Dadhikrā and because color terms often designate horses. (Cf., e.g., Renou “au (coursier) couleur-fauve de Mitra, au (coursier) brun de Varuṇa.”) But the introduction of two extraneous horses seems unlikely to me, in a hymn that barely strays from the dawn ritual context.
 
@@ -157,23 +157,23 @@ His most telling objection to that analysis is that the Indo-Iranian paradigm of
 Although I would hardly claim that my analysis of the cmpd or of the passage in general is airtight, it does provide an interpr. of the pāda that better fits the hymn: two more divinities (Sūrya and Soma) that the poet is calling upon (úpa bruve pāda b), rather than a couple of irrelevant race horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While I am thus arousing Dadhikravan I speak to Agni, Earth, and Dawn, and Surya,  
      The red, the brown of Varuna ever mindful: may they ward off from us all grief and trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Früh erwacht richte ich an Dadhikravan, an Agni, Usas, die Sonne, die Kuh meine Bitte, an den Falben des ......, an den Braunen des Varuna: Die sollen alle Fährlichkeiten von uns fernhalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Dadhikra erweckend und den Agni, begrüss die Sonn' ich und die Morgenröthe; Varuna's rothes Ross, des Mondverscheuchers, die mögen von uns alle Leiden jagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Дадхикравану я обращаюсь, пробудившись,  
 К Агни, Ушас, Сурье, корове,  

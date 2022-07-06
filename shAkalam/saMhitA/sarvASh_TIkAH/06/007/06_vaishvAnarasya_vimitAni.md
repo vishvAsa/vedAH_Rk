@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानर꣡स्य वि꣡मितानि च꣡क्षसा  
 सा꣡नूनि दिवो꣡ अमृ꣡तस्य केतु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वया꣡ इव रुरुहुः सप्त꣡ विस्रु꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । इत् । ऊं॒ इति॑ । विश्वा॑ । भुव॑ना । अधि॑ । मू॒र्धनि॑ । व॒याःऽइ॑व । रु॒रु॒हुः॒ । स॒प्त । वि॒ऽस्रुहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānarasya* ← *vaiśvānara*
 - \[noun\], genitive, singular, masculine
@@ -120,7 +120,7 @@ genre M
 **वैश्वानरस्य** विश्वनरहितस्याग्नेः **चक्षसा** तेजसा **अमृतस्य** उदकस्य **केतुना** प्रज्ञापकेन **दिवः** द्युलोकस्य **सानूनि** समुच्छ्रितस्थलानि नक्षत्ररूपाणि **विमितानि** निर्मितानि । यद्वा । दिवोऽन्तरिक्षस्य सानूनि समुच्छ्रितप्रदेशा मेघात्मका विमितानि निर्मिताः । धूमविकारत्वात्तेषाम् । **तस्येदु** तस्यैव वैश्वानरस्य **मूर्धनि** मूर्धस्थानीय उपरि वर्तमाने धूमे मेघात्मना परिणते **विश्वा** विश्वानि व्याप्तानि **भुवना** भुवनान्युदकानि **अधि** वसन्ति । यद्वा । वैश्वानरात्मकस्य परब्रह्मणो मूर्धन्युपरिप्रदेशे सर्वाणि भूतजातान्यधिवसन्ति । तथा **वयाः** शाखा: **इव** **सप्त** सर्पणशीलाः सप्तसंख्याः वा **विस्रुहः** नद्यश्च गङ्गाद्याः **रुरुहुः** रोहन्ति । अस्मादेव वैश्वानरात् प्रादुर्भवन्ति । आहुतिद्वारा सकलं जगदग्नेः सकाशादुत्पद्यत इत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ genre M
 All the regions: i.e., the smoke that rises from sacrificial fires become clouds in the atmosphere, whence the rain falls and rivers are filled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By the eye of Vaiśvānara have the backs of heaven been measured out,  by the beacon of the immortal one.  
 On his head alone are all the creatures; like twigs have his seven  
 outgrowths [?] grown.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. continues, and clarifies, the theme of the 2nd hemistich of vs. 5.
 
@@ -149,23 +149,23 @@ In c the referent of tásya in the phrase tásya … mūrdháni “on his head /
 On the formation of visrúh-, which occurs only here and in V.44.3, see comm. ad V.44.3, where I connect it (as a number of others do) to √ru(d)h ‘grow’. In our passage this etymological connection is actualized in the figure ruruhuḥ … visrúhaḥ, and the vegetative image is further anchored by the simile vayā́iva “like twigs.” With Renou (and Kellens, Noms. rac., 82-83), I think the ‘outgrowths’ are Agni’s flames, but unlike those two I would not translate visrúhaḥ as ‘flames’: it’s a metaphor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The summits of the heaven are traversed through and through by the Immortal's light, Vaisvanara's brilliancy.  
      All creatures in existence rest upon his head. The Seven swift-flowing Streams have grown like branches forth,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch das Auge des Vaisvanara, durch das Wahrzeichen der Unsterblichkeit sind die Höhen des Himmels ausgemessen. Auf seinem Haupte stehen alle Welten; wie die Zweige sind seine sieben Arme gewachsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durchzogen sind des Himmels Gipfel von dem Schein des Männerhorts, vom Lichte des Unsterblichen; Auf seinem Haupte sind die Wesen allesammt entsprossen und die sieben Ströme Zweigen gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взглядом Вайшванары измерены  
 Вершины неба, знаком бессмертного.  

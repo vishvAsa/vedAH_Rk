@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रीतो꣡ वाय꣡वे सुतं꣡  
 गि꣡र इ꣡न्द्राय मत्सर꣡म्  
 अ꣡व्यो वा꣡रेषु सिञ्चत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अव्यः॑ । वारे॑षु । सि॒ञ्च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parīto* ← *pari*
 - \[adverb\]
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिरः** स्तोतारः यूयं **वायवे** वाय्वर्थम् **इन्द्राय** इन्द्रार्थं च **सुतम्** अभिषुतं **मत्सरं** मदकरं सोमम् **इतः** अभिषवदेशादुद्धृत्य **अव्यः** अवेः **वारेषु** वालेषु **परि** **षिञ्चत** ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sprinkle worshipper, upon the woollen fleece the exhilarating (**Soma**) that has been effused in all directions for **Vāyu** and for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From here sprinkle in circles the soma pressed for Vāyu, the songs, (the  soma) exhilarating to Indra,  
 onto the sheep’s fleece.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The datives vāyáve … índrāya of course identify this as a ref. to the morning soma pressing, where both those gods receive the soma, and also echo the same datives (in diff. order) in vs. 3.
 
@@ -113,23 +113,23 @@ No particular unity, though vss. 11-12 are concerned with wealth.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hence, singers, pour the gladdeningjuice to Vayu and to Indra, pour  
      The drops upon the fleecy cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ergießet von da dem Vayu den ausgepreßten Soma, die Lobreden, für Indra den berauschenden Soma auf die Schafhaare!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Vaju und dem Indra giesst von hier den Saft, der Rausch erregt, O Sänger, durch das Widderhaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

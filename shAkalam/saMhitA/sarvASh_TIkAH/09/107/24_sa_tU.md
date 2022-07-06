@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ तू꣡ पवस्व प꣡रि पा꣡र्थिवं र꣡जो  
 दिव्या꣡ च सोम ध꣡र्मभिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शुभ्रं꣡ हिन्वन्ति धीति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । विप्रा॑सः । म॒तिऽभिः॑ । वि॒ऽच॒क्ष॒ण॒ । शु॒भ्रम् । हि॒न्व॒न्ति॒ । धी॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -115,21 +115,21 @@ genre M
 हे **सोम** **सः** तादृशस्त्वं **पार्थिवं** **रजः** लोकं प्रति दिव्यानि **च** रजांसि प्रति **धर्मभिः** धारकैः सह **तु** क्षिप्रं **परि** **पवस्व** परितः क्षर। हे **विचक्षण** विद्रष्टः सोम **विप्रासः** विप्रा मेधाविनः **मतिभिः** स्तुतिभिः **धीतिभिः** अङ्गुलीभिश्च **शुभ्रं** श्वेतवर्णं **त्वां** **हिन्वन्ति** प्रेरयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow quickly, **Soma**, with your supports, to the terrestrial and celestial worlds; the sages express you radiant, O observer of all, with praises and with their fingers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself all around the earthly realm and the heavenly ones, o  Soma, in accordance with your ordinances.  
 O wide-gazing one, the inspired poets propel you, resplendent, with  
 their thoughts and insights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Notice the number disharmony in pā́rthivaṃ rájo, divyā́ca “the earthly realm and the heavenly (ones).”
 
@@ -143,23 +143,23 @@ Both vss. contain the impv. pávasva (/ pavasva), and the mention of the sea in 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow to the realm of earth, flow to the realm of heaven, O Soma, in thy righteous ways.  
      Fair art thou whom the sages, O Far-seeing One, urge onward with their songs and hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich doch, die irdische Welt umkreisend und die himmlischen Räume nach der Ordnung, o Soma! Dich, den Glänzenden, treiben die Redekundigen mit Dichtungen, mit Gebeten an, du Weitschauender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umriesle hell, o Soma du, nach deinem Brauch der Erde und des Himmels Raum, Dich, weiser, treiben Sänger durch Gebete an, durch Lieder dich, den glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся же, (обегая) вокруг земного пространства  
 И небесных, о сома, как (тебе) свойственно!  

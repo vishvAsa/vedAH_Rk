@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ घा तं꣡ वृ꣡षणं र꣡थम्  
 अ꣡धि तिष्ठाति गोवि꣡दम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 यो꣡जा नु꣡ इन्द्र ते ह꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 यः । पात्र॑म् । हा॒रि॒ऽयो॒ज॒नम् । पू॒र्णम् । इ॒न्द्र॒ । चिके॑तति । योज॑ । नु । इ॒न्द्र॒ । ते॒ । हरी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M;; repeated line
 स घ स खल्विन्द्रो वृषणं कामाभिवर्षकं गोविदं गवां लम्भयितारं तं रथमधि तिष्ठाति । ईदृशे रथेऽधितिष्ठतु । आरूढो भवतु । हे इन्द्र यो रथो हारियोजनमेतत्सञ्ज्ञकं धानामिश्रितं पूर्णं सोमेन पूर्णं पात्रं चिकेतति ज्ञापयति । तं रथमधितिष्ठेति पूर्वेणान्वयः । अधिष्ठाय च त्वदीयावश्वौ क्षिप्रं योजय ॥ घ ऋचि तनुघेति दीर्घः । रथम् । अधिशीङ् स्थासां कर्म (पा १-४-४६) इत्यधिकरणस्य कर्मसञ्ज्ञा । तिष्ठाति । तिष्ठतेर्लेट्याडागमः । चिकेतति । कित ज्ञाने । लेट्यडागमः । जुहोत्यादित्वाच्छपः श्लुः । बहुलं छन्दसीति वक्तव्यम् । का ७-३-८७ १ । इति वचनान्नाभ्यस्तस्याचि पितीति लघूपधगुणप्रतिषेधो न भवति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,7 +149,7 @@ genre M;; repeated line
 Pātram hāriyojanam, a plural te filled with hāriyojanam, which is a mixture of fried barley or other grain and soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The only one who will mount on the bullish, cow-finding chariot  
 is the one who will take care that the cup is full for your  
@@ -157,28 +157,28 @@ is the one who will take care that the cup is full for your
 – Now, Indra, I will hitch up your two fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am puzzled by the reference here. The referent of cd, the one who makes sure Indra’s cup is full, should be the sacrificer, but the sacrificer should not be mounting Indra’s chariot. We might entertain the possibility that Indra is actually the referent (and is looking out for his own interests by making sure the cup is full), but, though switch between persons is very common in the RV, referring to the same referent in both 2nd and 3rd persons in the same clause does not happen, as far as I know - and there’s a voc. indra in the 3rd ps. yáḥ … cíketati clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He will in very truth ascend the powerful car that finds the kine,  
      Who thinks upon the well-filled bowl, the Tawny Coursers' harnesser. Now, Indra, yoke thy two Bay Steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur der soll den riesigen Wagen besteigen, den rindergewinnenden, wer, Indra, an den vollen Falbenschirrungsschoppen denkt. - Ich will dir jetzt das Falbenpaar schirren, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf seinen starken Wagen steigt, den Rinder spendenden, der Gott, Wenn er den vollen Becher sieht, der, Indra, deine Füchse schirrt. Schirr, Indra, nun dein Füchsepaar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот может взойти на эту колесницу –  
 Быка, находящего коров,  

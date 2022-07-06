@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡षाळ्हम् उग्र꣡म् पृ꣡तनासु सासहिं꣡  
 य꣡स्मिन् मही꣡र् उरुज्र꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 द्या꣡वः क्षा꣡मो अनोनवुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । धे॒नवः॑ । जाय॑माने । अ॒नो॒न॒वुः॒ । द्यावः॑ । क्षामः॑ । अ॒नो॒न॒वुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṣāﾱham* ← *aṣāḍham* ← *aṣāḍha*
 - \[noun\], accusative, singular, masculine
@@ -100,7 +100,7 @@ genre M
 **अषाळ्हम्** असोढम् **उग्रम्** उद्गूर्णबलं **पृतनासु** शत्रुसेनासु **सासहिम्** अभिभवितारं स्तौमीत्यर्थः । **यस्मिन्** इन्द्रे **जायमाने** **महीः** महत्यः **उरुज्रयः** बहुवेगाः **धेनवः** हविरादिना प्रीणयित्र्यः प्रजा गाव एव वा **सम्** **अनोनवुः** समस्तुवन् । न केवलं धेनव एव अपि तु **द्यावः** द्युलोकाः **क्षामः** पृथिव्यश्च सम् **अनोनवुः** । तत्रत्याः सर्वे प्राणिनो नमन्त इत्यर्थः।  ‘ त्रिवृतो लोकाः (ऐ. ब्रा. २. १७) इति श्रुतेर्बहुवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,36 +113,36 @@ genre M
 Rushingcows: **Maruts**, the sons of **Pṛśni**; or, mankind offering oblations of clarified butteṛ..; the earths: the worlds arethree-fold, trivṛto **lokaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Invincible, mighty, and victorious in battles, in whose (control) are the  great, wide-expanding (waters?).  
 While he was being born, the milk-cows kept bellowing in unison; the  heavens and earths kept bellowing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my view this verse is structurally parallel to vs. 2: pāda a continues the previous verse; b is a nominal relative clause; and cd may or may not go with b, but have unaccented verbs. Geldner (n. to 2b) and Oldenberg also consider the verses parallel, but in the case of both verses they think that bc belong together despite the unaccented verbs of c(d). In separating b and c here I must supply a noun with the fem.
 
 adjectives mahī́r urujráyaḥ -- and choose ‘waters’, since pl. ā́pas, apás is common with mahī́ḥ; ‘rivers’ would also be possible, so Geldner, who seems to take mahī́ḥ simply as a designation of rivers (“die breitströmenden Flüsse”) without comment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The potent Conqueror, invincible in war, him at whose birth the Mighty Ones,  
      The Kine who spread aftar, sent their loud voices out, heavens, earths seat their loud voices out,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Unbezwungenen, Gewaltigen, in den Schlachten Bezwingenden, bei dessen Geburt die breitströmenden Flüsse, die Milchkühe zusammen brüllten, die Himmel, die Erden brüllten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der unbesiegt in Schlachten siegt, der mächtige, bei dess Geburt die Kühe schon Die ausgedehnten, grossen alle jubelten, und Erd' und Himmel jubelten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

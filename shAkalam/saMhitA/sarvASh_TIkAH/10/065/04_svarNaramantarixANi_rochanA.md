@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सु꣡वर्णरम् अन्त꣡रिक्षाणि रोचना꣡  
 द्या꣡वाभू꣡मी पृथिवीं꣡ स्कम्भुर् ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवा꣡ स्तवन्ते म꣡नुषाय सूर꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पृ॒क्षाःऽइ॑व । म॒हय॑न्तः । सु॒ऽरा॒तयः॑ । दे॒वाः । स्त॒व॒न्ते॒ । मनु॑षाय । सू॒रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
@@ -104,7 +104,7 @@ genre M
 **स्वर्णरं** सर्वस्य स्वस्वकर्मणि नेतारमादित्यम् **अन्तरिक्षाणि** । द्यावापृथिव्योरन्तरा मध्ये क्षियन्ति निवसन्तीत्यन्तरिक्षाणि । मध्यस्थितानि **रोचना** आरोचमानानि तेजांसि **द्यावाभूमी** द्यावापृथिव्यौ **पृथिवीं** विस्तीर्णमन्तरिक्षं च एतानादित्यादीन् **ओजसा** स्वबलेनैव देवाः **स्कम्भुः** धारयन्ति । स्कम्भु इति सौत्रो धातुः । लिटि रूपम् । किंच **पृक्षाइव** दरिद्रेषु धनानि संपर्चयन्त इव अत एव **महयन्तः** स्तोतॄन् धनादिभिः पूजयन्तः **सुरातयः** सुदानाः **मनुषाय** मनुष्याय **सूरयः** धनानां प्रेरका एते **देवाः** **स्तवन्ते** अस्मिन्यज्ञे स्तूयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ genre M
 Those who give food to thepoor: bringing riches into contact with the poor; derived from pṛc, to touch
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They propped up (the region) of solar glory, the midspaces, the realms  of light, Heaven and Earth, the Broad One, with their might.  
 Magnifying (them), bringing lovely gifts like strengthening  
 nourishments, the gods are praised as patrons to the race of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They with their might have stayed Heaven, Earth, and Prthivi, the Lord of Light, the firmament, -the lustrous spheres.  
      Even as fleet-foot steeds who make their masters glad, the princely Gods are praised, most bountiful to man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Svarnara, die Lufträume, die Lichträume, Himmel und Erde, das Land haben sie mit Kraft gestützt. Die freigebig wie die lebenskräftigen Angiras den Mut erhöhen, die Götter werden als Gönner für den Menschen gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Glanzesherrn, die Lüfte und des Lichtes Raum, den Himmel und die Erde stützten sie mit Macht; Es preist der Mensch die Götter, sie die leuchtenden, wie Rosse, die mit Schatz beladen hoch erfreun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

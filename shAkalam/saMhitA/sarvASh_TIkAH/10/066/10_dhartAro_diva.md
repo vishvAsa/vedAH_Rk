@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धर्ता꣡रो दिव꣡ ऋभ꣡वः सुह꣡स्ता  
 वातापर्जन्या꣡ महिष꣡स्य तन्यतोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 भ꣡गो राति꣡र् वाजि꣡नो यन्तु मे ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आपः॑ । ओष॑धीः । प्र । ति॒र॒न्तु॒ । नः॒ । गिरः॑ । भगः॑ । रा॒तिः । वा॒जिनः॑ । य॒न्तु॒ । मे॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhartāro* ← *dhartāraḥ* ← *dhartṛ*
 - \[noun\], nominative, plural, masculine
@@ -121,7 +121,7 @@ genre M
 **दिवः** द्युलोकस्य **धर्तारः** धारयितारः **ऋभवः** सत्येन भासमानाः **सुहस्ताः** शोभनवजाद्यायुधयुक्तहस्ता देवास्तथा **महिषस्य** महतः **तन्यतोः** शब्दस्य ।  ‘ तनु विस्तारे ।  ‘ ऋतन्यञ्जि इति यतुच्प्रत्ययः । शब्दस्य कर्तारौ **वातापर्जन्या** वातश्च पर्जन्यश्च तत्कार्याः **आपः** **ओषधीः** ओषधयश्च **नः** अस्माकं **गिरः** स्तुतीः **प्र** **तिरन्तु** प्रवर्धयन्तु । प्रपूर्वस्तिरतिर्वृद्ध्यर्थः । तथा **रातिः** दाता **भगः** भजनीयोऽर्यमा च **वाजिनः** ।  ‘ अग्निर्वायुः सूर्यस्ते वै वाजिनः' (तै. ब्रा. १. ६. ३. ९) इति तैत्तिरीयब्राह्मणम् । एते देवाश्च **मे** मदीयं **हवम्** आह्वानं **यन्तु** अभिगच्छन्तु ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ The radiant with truth: **Ṛbhus**;
 **Vāyu** = the sun: **Taittirīya** **Brāhmaṇa** 1.6.3.9
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the upholders of heaven, the R̥bhus with skilled hands, let Vāta and  Parjanya, (masters?) of Thunder the buffalo,  
 let the waters and plants advance our songs. Let Bhaga, Gift, and the  prizewinners come to my call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they who bear up heaven, the Rbhus deft of hand, and Vata and Parjanya of the thundering Bull,  
      The waters and the plants, promote the songs we sing: come Bhaga, Rati, and the Vaijns to my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Träger des Himmels, die Ribhu´s mit schönen Händen, Vata und Parjanya, die Herren des gewaltigen Donners, die Gewässer, die Pflanzen sollen unsere Reden fördern, Bhaga, der Geber, die siegreichen Renner sollen auf meinen Ruf kommen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Träger, und die Ribhus wohlgeschickt, und Wind und Wolke jenes Stiers, des Donnerers, Die Wasser, Kräuter seien unsern Liedern hold; folgt Bhaga, Rāti, und ihr Rosse meinem Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

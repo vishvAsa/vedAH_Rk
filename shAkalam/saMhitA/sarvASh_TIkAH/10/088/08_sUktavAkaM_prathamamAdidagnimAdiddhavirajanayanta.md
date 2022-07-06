@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूक्तवाक꣡म् प्रथम꣡म् आ꣡द् इ꣡द् अग्नि꣡म्  
 आ꣡द् इ꣡द् धवि꣡र् अजनयन्त देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तं꣡ द्यउ꣡र् वेद त꣡म् पृथिवी꣡ त꣡म् आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । ए॒षा॒म् । य॒ज्ञः । अ॒भ॒व॒त् । त॒नू॒ऽपाः । तम् । द्यौः । वे॒द॒ । तम् । पृ॒थि॒वी । तम् । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūktavākam* ← *su*
 - \[adverb\]
@@ -160,36 +160,36 @@ popular
 **प्रथमं** पूर्वं **सूक्तवाकम्** इदं द्यावापृथिवी ' इत्यादि वाक्यं मनसा निरूपयन्ति **आदित्** अनन्तरमेव **अग्निं** मथनेनोत्पादयन्ति । **आदित्** अनन्तरमेव **देवाः** **हविरजनयन्त** जनयन्ति । **सः** वैश्वानरोऽग्निः **एषां** देवानां **यज्ञः** यष्टव्यः **अभवत्** भवति । सः **तनूपाः** शरीराणां रक्षिता च भवति । **तम्** अग्निं **द्यौः** द्युलोकः **वेद** जानाति । **तम्** अग्निं **पृथिवी** भूमिरपि च जानाति । **तम्** अग्निम् **आपः** अन्तरिक्षं च जानाति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods first genitive rated the words of the hymn, then **Agni**, then the oblation; he is the (object of the)sacrifice of these deities, the protector of the body; him the heaven knows, him the earth and the waters, know.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods first begot well-spoken speech, after that the fire [/Agni], after  that the oblation.  
 This became their sacrifice, the protector of bodies. That does Heaven  know, that does Earth, that the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First the Gods brought the hymnal into being; then they engendered Agni, then oblation.  
      He was their satrifice that guards our bodies: him the heavens know, the earth, the waters know him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter erschufen zuerst den Liedvortrag, dann den Agni, dann die Opferspende. Dies ward ihr Opfer, das sie selbst schützt. Dieses kennt der Himmel, dieses die Erde, dieses das Wasser.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schönen Sang zuerst, darauf den Agni, den Opferguss dann schufen sich die Götter; Er ward ihr Opfer, das den Leib beschützet, ihn kennt die Erd', ihn Himmel und Gewässer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боги создали сначала исполнение гимнов,  
 Затем – Агни, затем – жертвенное возлияние.  

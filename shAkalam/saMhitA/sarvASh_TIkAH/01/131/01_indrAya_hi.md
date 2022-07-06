@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय हि꣡ द्यउ꣡र् अ꣡सुरो अ꣡नम्नत  
 इ꣡न्द्राय मही꣡ पृथिवी꣡ व꣡रीमभिर्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 राता꣡नि सन्तु मा꣡नुषा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 इन्द्रा॑य । विश्वा॑ । सव॑नानि । मानु॑षा । रा॒तानि॑ । स॒न्तु॒ । मानु॑षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -155,45 +155,45 @@ genre M
 **द्यौः** द्योतनशीलो द्युलोकः तन्निवासी देवसंघः वा स च **असुरः** निरसनशीलः शत्रूणां पुण्यकृतामेव तन्निवासात् **इन्द्राय** **हि** इन्द्रायैव **अनम्नत** स्वयमेव प्रह्वो भवति ॥ नमेश्छान्दसे लङि कर्मकर्तरि आत्मनेपदम् ।‘न दुहस्नुनमाम्' (पा. सू. ३. १.८९) इति यगभावः। छान्दसः शपः श्लुः। हलादिशेषाभावश्च । अनुनासिकलोपः ॥ हिशब्दः प्रसिद्ध्यर्थो वा । तथा **इन्द्राय** इन्द्रार्थं **मही** महती **पृथिवी** भूमिः तत्रत्यः सर्वो जनो वा अनम्नत । उभयत्र आश्रयवाचिशब्देन आश्रयी लक्ष्यते ग्रामः आगतः इतिवत् । केन साधनेन इति तदुच्यते । **वरीमभिः** वरणीयैः स्तोत्रैर्हविर्भिर्वा । किंच **द्युम्नसाता** द्युम्नसातौ अन्नस्य यशसो वा लाभे निमित्ते सति **वरीमभिः** वरणीयैर्हविभिर्युक्ता यजमानाः प्रह्वा भवन्ति। किंच **इन्द्रम्** एव **विश्वे** सर्वे **देवासः** देवाः **सजोषसः** समानप्रीतियुक्ता ऐकमत्यभाजः पूर्वमसुरजयार्थं **पुरः** **दधिरे** पुरतः स्थापितवन्तः इन्द्रमुखेनैवासुरान् जितवन्तः इत्यर्थः। तथा **मानुषा** **सवनानि** मनुष्याणां संबन्धीनि अभिषवयुक्तानि प्रातरादिसवनानि **इन्द्राय** **सन्तु** इन्द्रायैव भवन्तु । तथा **मानुषा** मनुष्याणामृत्विजां संबन्धीनि **रातानि** दातव्यानि पुरोडाशादीनि इन्द्राय हि इन्द्रायैव सन्तु इन्द्रं प्रीणयितुं समर्थानि भवन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To **Indra** heaven, that excludes the wicked, verilyhas bowed; to Indra the wide-spread earth (has offered homage) with acceptable (praises); with acceptablepraises (the worshipper has propitiated Indra) for the sake of food; all the gods well plural ased have given precedence to Indra; let all the sacrifices ofmen (be appropriated) to Indra; let all the offerings of menbe (presented to him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because to Indra the lordly Heaven has ever bowed, and to Indra the  great Earth has bowed with her expanses—at the winning of heavenly  brilliance with her expanses—  
 Indra have all the gods in concert placed in front.  
 To Indra let all the pressings belong that stem from the sons of Manu— all the gifts that stem from the sons of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A form of índra- is positioned at the beginnning of all structurally significant pādas (a, b, d, f) in Atyaṣṭi.
 
 The intens. ánamnata in my opinion expresses habitual action. Schaeffer suggests that it is a “Hin- und Her-” or “Auf- und Ab-” motion, but I don’t see the dignified and stately Heaven and Earth bobbing up and down.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra Dyaus the Asura hath bowed him down, to Indra mighty Earth with wide-extending tracts, to win the light, with wide-spread tracts.  
      All Gods of one accord have set Indra in front preeminent.  
      For Indra all libations must be set apart, all man's libations set apart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Indra hat sich ja der Asura Himmel, dem Indra die große Erde in ganzer Ausdehnung gebeugt, im Kampf um die Herrlichkeit in ganzer Ausdehnung. Den Indra stellten alle Götter einmütig an ihre Spitze. Dem Indra sollen alle menschlichen Somaopfer, die menschlichen Spenden gehören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra neigte sich der höchste Himmelsgott, dem Indra auch der grosse, weite Erdenraum, der weite, ihm, der Kraft gewann; Die Götter alle stellten ihn, den Indra, eines Sinns voran; Dem Indra seien alle Tränke zugetheilt, der Menschen Tränke zugetheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это перед Индрой склонилось Небо-Асура,  
 Перед Индрой – великая Земля во (всю свою) ширь,  

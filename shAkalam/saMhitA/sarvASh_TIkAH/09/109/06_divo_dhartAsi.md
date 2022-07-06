@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ धर्ता꣡सि शुक्रः꣡ पीयू꣡षः  
 सत्ये꣡ वि꣡धर्मन् वाजी꣡ पवस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 दि॒वः । ध॒र्ता । अ॒सि॒ । शु॒क्रः । पी॒यूषः॑ । स॒त्ये । विऽध॑र्मन् । वा॒जी । प॒व॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -73,19 +73,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे सोम **शुक्रः** दीप्तः **पीयूषः** पातव्यस्त्वं **दिवः** द्युलोकस्य **धर्ता** धारकः **असि** । **वाजी** बलवान् स त्वं **सत्ये** सत्यभूते **विधर्मन्** विधेर्मणि । विविधकर्माण ऋत्विजो यस्मिन् । यद्वा । विविधसोमादिहविषा धारके । अस्मिन् यज्ञे **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the upholder of heaven, radiant and good to drink; flow you who are strong, at the truthful sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the supporter of heaven, the gleaming beestings. In your real  expansion, as prizewinner purify yourself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Soma’s expansion (vídharmaṇ(i) see comm. ad IX.4.9, 64.9.
 
@@ -99,22 +99,22 @@ All three vss. contain the impv. pavasva. Vss. 5-6 both contain śukrá-, also f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, bright Juice, art Sustainer of the sky: flow, mighty, in accordance with true Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Träger des Himmels, der klare Rahm; läutere dich in wirklicher Ausbreitung als der Preisgewinner!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Träger – und helle Biestmilch, im wahren Lichtraum – du schneller riesle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты поддерживатель неба, светлые сливки.  
 Очищайся в (своем) истинном распространении как захватчик награды!

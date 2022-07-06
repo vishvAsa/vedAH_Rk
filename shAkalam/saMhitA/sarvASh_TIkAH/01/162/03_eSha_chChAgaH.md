@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ छा꣡गः पुरो꣡ अ꣡श्वेन वाजि꣡ना  
 पूष्णो꣡ भागो꣡ नीयते विश्व꣡देवियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡ष्टे꣡द् एनं सौश्रवसा꣡य जिन्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒भि॒ऽप्रिय॑म् । यत् । पु॒रो॒ळाश॑म् । अर्व॑ता । त्वष्टा॑ । इत् । ए॒न॒म् । सौ॒श्र॒व॒साय॑ । जि॒न्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ popular
 **एषः** **छागः** शृङ्गरहितोऽजः **अश्वेन** **वाजिना** शीघ्रव्यापकेनाश्वेन सह **पूष्णः** पोषकस्याग्नेः **भागः** भजनीयः **विश्वदेव्यः** सर्वदेवार्हः । अग्नेः सर्वदेवात्मकत्वात् तदर्हत्वेन सर्वदेवप्रियत्वम् । एवंविधः अजः **पुरः** पुरस्तात् **नीयते** प्राप्यते । **यत्** यस्मात् एवं क्रियते तस्मात् **प्रियं** प्रीणयितारं पुरोडाशं पुरस्ताद्दातव्यम् **एनम्** अजं **त्वष्टा** सर्वस्योत्पादको देवः। ‘त्वष्टा रूपाणि विकरोति' ( तै. सं. १. ५. ९.२) इति श्रुतेः । तूर्णव्यापकोऽग्निर्वा। ‘उभे त्वष्टुर्बिभ्यतुः ' (ऋ. सं. १. ९५.५) इत्युक्तत्वात् ' अहोरात्रे इति वारणी इति वा ' ( निरु. ८. १५) इति यास्केन अरणी बिभ्यतुरित्युक्तत्वात् अरणिसंबन्धः अग्नेरेवेति गम्यते । **अर्वता** अरणवता अश्वेन सह **सौश्रवसाय** देवानां शोभनान्ननिमित्तम् **अभि** **जिन्वति** प्रीतिहेतुकं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,37 +133,37 @@ The portion of **Pūṣan**: he is to be offered in sacrifice to Pūṣan or **A
 Tvaṣṭā = sarvasyotpādaka, the producer of all forms; tvaṣṭā rūpāṇi vikaroti (**Taittirīya** **Saṃhitā** 1.5.92); or, identified wiith Agni;preliminary offering puroḍāśam = offering of cakes and butter; purastād-dātavyam, that which is to be first offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This billy-goat, belonging to all the gods, is led in front, along with the  prizewinning horse, as Pūṣan’s portion.  
 When (they lead the goat) as the pleasing fore-offering along with the  steed, it is Tvaṣṭar himself who stimulates him for (the deed) that  
 brings good fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is appropriate that the goat, if it “represents all forms” (see disc. of the previous vs.), should belong to all the gods. That it should also be “Pūṣan’s portion” (pūṣṇó bhāgáḥ, 3b and 4c) probably follows from the fact that Pūṣan “has goats for horses” (ajā́śva-: 5x, always of Pūṣan) and is generally associated with goats.
 
 As for Tvaṣṭar’s involvement, Geldner (sim. Witzel Gotō) simply says that Tvaṣṭar is the creator esp. of animals, but I think there is a tighter connection. Tvaṣṭar is a required presence in the Āprī hymns, the litanies that accompany the animal sacrifice. The verse devoted to him in each hymn occurs immediately before the “Lord of the Forest,” namely the stake to which the sacrificial animal is tied, releases the animal for sacrifice. Just before that, Tvaṣṭar both produces life (e.g., II.3.9, III.4.9-VII.2.9) and assists at the sacrifice (V.5.9), escorting the sacrificial animal to the gods (X.70.9) or at least pointing the way (II.3.9). Most strikingly Tvaṣṭar is once called viśvárūpa- (I.13.10) and several times enacts that epithet dramatically: I.188.9 tváṣṭā rūpā́ṇi hí prabhúḥ paśū́n víśvān samānajé “Because preeminent Tvaṣṭar anointed all the beasts (with) their forms”; X.110.9 rūpaír ápiṃśad bhúvanāni víśvā “he adorned all the creatures with their forms.” In our verse Tvaṣṭar stimulates/quickens the goat immediately before its sacrifice and indeed for its sacrifice, and that goat has just been characterized as viśvárūpa-. Thus Tvaṣṭar’s constant appearance in the Āprī hymns shows that this god has a defined role in the animal sacrifice, and that role, somewhat paradoxically, involves both giving life and setting the stage for taking it away by sacrifice. This is less of a paradox in the conceptual context of the animal sacrifice: as noted in the published introduction, a good deal of this hymn is devoted to reconstituting the sacrificed horse and endowing it with life-breath. Tvaṣṭar thus has a role in both, and we see it here first in connection with the goat that represents all creatures. Tvaṣṭar recurs in vs. 19 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear to all Gods, this goat, the share of Pusan, is first led forward with the vigorous Courser,  
      While Tvastar sends him forward with the Charger, acceptable for sacrifice, to glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Ziegenbock, für alle Götter bestimmt, wird mit dem siegesgewohnten Roß vorausgeführt als Anteil des Pusan. Wenn sie den Bock als willkommnes Voropfer mit dem Rennpferd führen, so ermuntert ihn Tvastri zu rühmlichem Werke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser Bock wird dem schnellen Rosse vorangeführt als Antheil des Puschan, der allen Göttern willkommen, wenn er den erfreuenden Opferkuchen zu gleich mit dem Renner empfangen hat, so befördert ihn Tvaschtar zu hohem Ruhme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого козла, предназначенного для всех богов, ведут впереди  
 Вместе с конем, приносящим награды, как долю Пушана.  

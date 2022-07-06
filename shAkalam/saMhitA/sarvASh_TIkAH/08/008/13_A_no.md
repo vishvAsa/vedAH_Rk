@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो वि꣡श्वानि अश्विना  
 धत्तं꣡ रा꣡धांसि अ꣡ह्रया  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मा꣡ नो रीरधतं निदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 कृ॒तम् । नः॒ । ऋ॒त्विय॑ऽवतः । मा । नः॒ । री॒र॒ध॒त॒म् । नि॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -104,36 +104,36 @@ genre M;; repeated line
 हे **अश्विना** अश्विनौ **अह्रया** अह्रयाणि अह्रीतिकरणान्यलज्जाहेतूनि प्रशस्तानि **विश्वानि** सर्वाणि **राधांसि** धनानि **नः** अस्मभ्यम् **आ** **धत्तं** प्रयच्छतम् । अपि च **नः** अस्मान् **ऋत्वियावतः** । ऋतौ काले भवं प्रजोत्पादनरूपं कर्म ऋत्वियम् । तद्वतः कुरुतम् । तथा **निदे** निन्दायै निन्दकाय वा **नः** अस्मान् मा **रीरधतं** मा वशं नैष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, **Aśvins**, all riches that may not bring us shame, make us the begetters of progeny in dueseason, subject us not to reproach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Provide to us here all bounties that won’t shame us, o Aśvins;  
 make us follow proper sequence: don’t make us subject to scorn!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, grant us all rich gifts wherewith no man mav interfere.  
      Make us observe the stated times: give us not over to reproach.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet uns, Asvin, alle Ehrengaben, deren man sich nicht zu schämen braucht! Machet uns zu pünktlichen Opferpriestern, gebt uns nicht dem Tadel preis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleiht, o Ritter, alles Gut in unbeschränkter Fülle uns, Lasst opfern uns zu rechter Zeit, nicht überliefert uns dem Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наделите нас, о Ашвины,  
 Всеми роскошными почетными дарами!  

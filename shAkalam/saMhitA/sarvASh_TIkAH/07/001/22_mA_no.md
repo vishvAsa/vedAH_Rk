@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो अग्ने दुर्भृत꣡ये स꣡चैषु꣡  
 देव꣡इद्धेषु अग्नि꣡षु प्र꣡ वोचः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देव꣡स्य सूनो सहसो नशन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मा । ते॒ । अ॒स्मान् । दुः॒ऽम॒तयः॑ । भृ॒मात् । चि॒त् । दे॒वस्य॑ । सू॒नो॒ इति॑ । स॒ह॒सः॒ । न॒श॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -132,36 +132,36 @@ genre M
 हे **अग्ने** **सचा** सहायभूतस्त्वं **देवेद्धेषु** ऋत्विग्भिः समिद्धेषु **एषु** **अग्निषु** दुर्भृतये कृच्छ्रभरणाय **नः** अस्मान् **मा** **प्र** **वोचः** न ब्रूहि। त्वत्सहायभूता अग्नयो यथा मामकृच्छ्रेण बिभृयुः तथा ब्रूहीत्यर्थः । किंच **सहसः** **सूनो** हे बलस्य पुत्र अग्ने **देवस्य** द्योतमानस्य **ते** तव **दुर्मतयः** निग्रहबुद्धयः **भूमाच्चित्** भ्रमादपि । अत्र संप्रसारणं छान्दसम् । प्रमादादपीत्यर्थः । **अस्मान्** **मा** **नशन्त** मा व्याप्नुवन्तु । नशदिति व्याप्तिकर्मसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Command not the fires kindled by the priests with which you are united to work as evil; let not thedispleasure, even in error, of you, the son of strength, who are divine, fall upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do not declare that we maintain them badly, Agni, since these fires are  kindled by the gods.  
 Let not bad thoughts from you, a god, reach us, not even because of  our confusion, o son of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Condemn us not to indigence, O Agni, beside these flaming fires which Gods have kindled;  
      Nor, even after fault, let thy displeasure, thine as a God, O Son of Strength, o'ertake us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verklage uns nicht bei diesen gottentzündeten Feuern auf schlechte Pflege, Agni. Nicht soll uns deine, des Gottes, Ungnade, du Sohn der Kraft, auch infolge unserer Ungeduld treffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht übergib der Dürftigkeit uns, Agni, bei diesen Feuern, die den Göttern flammen; nicht möge uns dein Gotteszorn erreichen, o Sohn der Kraft, auch nicht um ein Vergehen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не обвинишь ты нас, Агни, в плохом содержании  
 Этих зажженных богами Агни!  

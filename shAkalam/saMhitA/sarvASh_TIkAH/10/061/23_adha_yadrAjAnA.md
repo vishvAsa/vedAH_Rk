@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध य꣡द् राजाना ग꣡विष्टौ  
 स꣡रत् सरण्युः꣡ कार꣡वे जरण्युः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रा च व꣡क्षद् उत꣡ पर्षद् एनान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विप्रः॑ । प्रेष्ठः॑ । सः । हि । ए॒षा॒म् । ब॒भूव॑ । परा॑ । च॒ । वक्ष॑त् । उ॒त । प॒र्ष॒त् । ए॒ना॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 हे **राजाना** राजमानौ मित्रावरुणौ **अध** अधुना सत्रसमाप्तौ **यत्** यस्मात् **गविष्टौ** गवामेषणायां सत्यां **सरण्युः** सरणशीलो यमः **सरत्** गच्छति **कारवे** कर्माणि कुर्वतेऽङ्गिरसां गणाय । किमिच्छन् । **जरण्युः** तस्मा अङ्गिरसां गणाय स्तुतिमिच्छन् । तस्मात् **सः** **विप्रः** नाभानेदिष्ठः **एषाम्** अङ्गिरसां **प्रेष्ठः** प्रियतमः बभूव भवतु । **हि** इति पूरणः । तेषां कर्तव्यं **परा** **च** **वक्षत** परावहतु । **उत** अपि च **एनान्** अङ्गिरसः **पर्षत्** पारयतु इत्यात्मन एवाशास्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ genre M
 May heaccomplish: liṭ, may he take away
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now, o you two kings [=Mitra and Varuṇa, or the Aśvins], when  in the quest for cattle the hastening one, awakening, makes haste for  the bard,  
 the dearest inspired poet [=Agni?], because he has become theirs  
 [=patrons’], will carry them away and will bring them across.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he goes forth, ye Pair of Kings, for booty, speeding to war and praise to please the singer,-  
      I was the dearest sage of those about him,-let him lead these away and bring them safely.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er nun, ihr beiden Könige, auf einem Beutezug zu eiliger Fahrt bereit, der Frühauf, zum Sänger eilt - denn er ward ihnen der liebste Sprecher -, so wird er sie in die Ferne fahren und ihnen durchhelfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und wenn dann bei der Opferhandlung, o ihr beiden Könige [Mitra-Varuna], zu euch [yuvâm aus metrischen Gründen zu ergänzen] der eilende heraneilt, dem Dichter zurufend, dann fahre der beliebteste Sänger – denn er war unter ihnen – sie hinweg und setze sie über.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

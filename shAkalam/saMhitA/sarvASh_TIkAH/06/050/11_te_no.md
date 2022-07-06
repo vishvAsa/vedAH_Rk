@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो रायो꣡ द्युम꣡तो वा꣡जवतो  
 दाता꣡रो भूत नृव꣡तः पुरुक्षोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो꣡जाता अ꣡प्या मॄळ꣡ता+ च देवाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द॒श॒स्यन्तः॑ । दि॒व्याः । पार्थि॑वासः । गोऽजा॑ताः । अप्याः॑ । मृ॒ळत॑ । च॒ । दे॒वाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -120,7 +120,7 @@ genre M
 हे **देवाः** **ते** यूयं **द्युमतः** दीप्तिमतः **वाजवतः** बलयुक्तस्य **नृवतः** नृभिः पुत्रादिभिरुपेतस्य **पुरूक्षोः** बहुभिः कीर्तनीयस्य **रायः** धनस्य **नः** अस्मभ्यं **दातारो** **भूत** भवत । अपि च **दशस्यन्तः** कामान् प्रयच्छन्तः **दिव्याः** दिवि भवा आदित्याः **पार्थिवासः** पृथिव्यां भवा वसवः **गोजाताः** । गौः पृश्निर्माध्यमिका वाक् । तत उत्पन्ना मरुतः **अप्याः** अप्सु अन्तरिक्षे भवा रुद्राः **च** ते सर्वे यूयम् अस्मान् **मृळत** सुखयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 Celestial Ādityas: **divyā**, the celestial, that is, the Ā **dityas**; pārthivāsāḥ, terrestrial, that is, the Vasus; go-**jātāḥ**, cow-born, born of Pṛśni, the **Maruts**; apyāḥ, the aquatic, born in the firmament, the **Rudras**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become for us givers of wealth that is brilliant, rich in prizes, in men, in  much livestock.  
 Showing favor, o gods—the heavenly, earthly, cow-born, and watery  ones—be merciful.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The only problems in this vs. are found in pāda d: the accented verb mṛḷátā and the immediately following ca: the verb because there is no obvious reason for its accent, the ca because it’s not clear what it conjoins. To begin with the second, Klein (DGRV I.82), flg. Geldner, takes ca as conjoining the impv. mṛḷátā with the pres. part.
 
@@ -153,23 +153,23 @@ They would then match the undoubted voc. devāḥ at the end of the same pāda. 
 After all this syntactic fuss, we may overlook the interesting question, who are the “cow-born” gods (who appear elsewhere, in similar sequence [VII.52.14, cf. also X.53.5]). Quite possibly the Maruts, an offhand suggestion of Renou’s. Remember their cow-mother Pṛśni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Gods, bestow upon us riches, splendid with strength and heroes, bringing food in plenty.  
      Be gracious, helpful Gods of earth, of heaven, born of the Cow, and dwellers in the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seid ihr uns Schenker von glänzendem, wertvollem, männer- und viehreichem Besitz. Seid gefällig und erbarmet euch, ihr Götter, die himmlischen, die irdischen, die kuhgeborenen, die im Wasser wohnenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seid Geber uns des glanzbegabten Gutes, das reich an Nahrung, Helden sei und Labung, Seid hold und hülfreich Götter ihr der Erde, des Himmels, der Gewässer, lichtgeborne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будьте вы для нас Дарителями богатства,  
 Сверкающего, состоящего из наград, мужей, обильного скотом!  

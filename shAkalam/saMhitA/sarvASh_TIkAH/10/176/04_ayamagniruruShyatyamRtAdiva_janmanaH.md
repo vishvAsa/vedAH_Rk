@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अग्नि꣡र् उरुष्यति  
 अमृ꣡ताद् इव ज꣡न्मनः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवो꣡ जीवा꣡तवे कृतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सह॑सः । चि॒त् । सही॑यान् । दे॒वः । जी॒वात॑वे । कृ॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -100,36 +100,36 @@ genre M
 **अयमग्निः** **अमृतात्** अमरणाद्देवाद्देवनिमित्ताद्भयादिव **जन्मनः** जायमानात् मनुष्यात् मनुष्यनिमित्ताद्भयादपि **उरुष्यति** तस्माद्रक्षति ॥ ‘ उरुष्यती रक्षाकर्मा ' ( निरु. ५. २३) इति यास्कः । भाववाचिनोऽमृतशब्दस्य नञा बहुव्रीहौ ‘नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । ‘ भीत्रार्थानाम् (पा. सू. १. ४, २५) इत्यपादानसंज्ञा ॥ अपि चायं **देवः** सहसश्चित् ॥ सह इति बलनाम । तस्मादुत्तरस्य मत्वर्थीयस्य ‘ बहुलं छन्दसि' इति लुक् ॥ चिच्छब्दोऽप्यर्थे । सहस्वतो बलवतोऽपि **सहीयान्** बलवत्तरः ॥ सहस्विशब्दादीयसुनि • विन्मतोः' इति विनो लुक् । टेः ' इति टिलोपः ॥ एवंभूतो देवः **जीवातवे** जीवनहेतवे यागाय **कृतः** ब्रह्मणा सृष्टः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Agni** saves from peril caused by man as (well as) from peril caused by the immortals, a godstronger than strength, created for life-producing (sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Agni delivers himself from his immortal birth, as it were.  
 Stronger even than strength, the god was created for living.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Agni rescues from distress, as 'twere from the Immortal Race,  
      A God yet mightier than strength, a God who hath been made for life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni sucht das Weite vor der Geburt, wie vor dem Unsterblichen. Der Gott, der gewaltiger als selbst der Gewaltige, ist zum Leben geschaffen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Agni hier hilft aus der Noth selbst vor dem göttlichen Geschlecht; Der stärker ist als Stärke selbst, der Gott zum Leben recht gemacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Агни стремится на простор  
 С (самого) рождения, как будто (бежит) от бессмертия.  

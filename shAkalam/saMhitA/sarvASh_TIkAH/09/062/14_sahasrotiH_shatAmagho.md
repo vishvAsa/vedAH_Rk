@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रोतिः शता꣡मघो  
 विमा꣡नो र꣡जसः कविः꣡  
 इ꣡न्द्राय पवते म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । प॒व॒ते॒ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasrotiḥ* ← *sahasra*
 - \[noun\], neuter
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सहस्रोतिः** अपरिमितरक्षणः **शतमघः** बहुधनः **रजसः** लोकस्य **विमानः** निर्माता **कविः** क्रान्तकर्मा **मदः** मदकरः सोमः **इन्द्राय** इन्द्रार्थं **पवते** धारया क्षरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offering thousand-fold protection, having hundred-fold wealth, the meawsurer of the world, the sage, the exhilarating (**Soma**) flows for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing a thousand forms of help, a hundred bounties, measurer of  the airy realm, poet—  
 the exhilarating drink purifies himself for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ The first two vss. contain forms of kaví-. The epithet “wide-going” (urugā
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra flows the gladdening drink, the measurer of the region, Sage,  
      With countless wealth and endless help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tausend Hilfen, hundert Gaben bringend, den Raum durchmessend, ein Seher, läutert sich der Rauschtrank für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Trank, der tausend Hülfen beut und hundert Schätze, weisheitsvoll, Strömt hell dem Indra durch die Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

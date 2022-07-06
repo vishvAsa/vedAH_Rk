@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वान् देवाँ꣡ आ꣡ वह सो꣡मपीतये  
 अन्त꣡रिक्षाद् उषस् तुव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उ꣡षो वा꣡जं सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सा । अ॒स्मासु॑ । धाः॒ । गोऽम॑त् । अश्व॑ऽवत् । उ॒क्थ्य॑म् । उषः॑ । वाज॑म् । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
@@ -125,35 +125,35 @@ genre M
 हे **उषः** **त्वं** सोमपीतये सोमपानाय **अन्तरिक्षात्** अन्तरिक्षलोकात् **विश्वान्** सर्वान् **देवान्** **आ** **वह** अस्मदीयं देवयजनदेशं प्रापय । हे **उषः** **सा** तादृशी त्वं **गोमत्** गोमन्तं बहुभिर्गोभिर्युक्तं **अश्वावत्** अश्वैरुपेतम् **उक्थ्यं** प्रशस्यं **सुवीर्यं** शोभनवीर्योपेतं **वाजम्** अन्नम् **अस्मासु** **धाः** निधेहि स्थापयेत्यर्थः ॥ धाः । दधातेः छन्दसि लुङ्लङ्लिटः' इति प्रार्थनायां लुङ् । गातिस्था० ) इति सिचो लुक् ।  ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । गोमत् । अश्वावत् ।  मन्त्रे सोमाश्वेन्द्रिय ' इति मतुपि दीर्घत्वम् । उभयत्र ‘सुपां सुलुक् । इति विभक्तेर्लुक् । उक्थ्यम् । उक्थं स्तोत्रम् । तत्र भवमुक्थ्यम् । ‘भवे छन्दसि ' इति यत् ।  ‘ सर्वे विधयश्छन्दसि विकल्प्यन्ते' इति  ‘ यतोऽनावः' इत्याद्युदात्तत्वाभावे  ‘ तित्स्वरितम् ' इति स्वरितत्वम् । उषः । आमन्त्रिताद्युदात्तत्वम् । पादादित्वात् निघाताभावः । सुवीर्यम् । शोभनं वीर्यं यस्य । वीरवीर्यौ च ' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣas, bring from the firmament all the gods, to drink the **Soma**, and to you yourself bestow upon us excellent and invigorating food, along with cattle and horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Convey all the gods here for soma-drinking from the midspace, o Dawn. Establish in us a mass of cows and of horses, worthy of praise, o Dawn,  also victory’s prize and good heroes en masse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring from the firmament, O Usas, all the Gods, that they may drink our Soma juice,  
      And, being what thou art, vouchsafe us kine and steeds, strength meet for praise and hero might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter fahr zum Somatrunk aus dem Luftreich her, o Usas! Bring du uns Rinderbesitz, Rossebesitz, preislichen, o Usas, den Ehrenpreis und die Meisterschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Somatrunke fahr die Götter alle her, o Morgenröthe, aus der Luft, Und gib uns werthes ross- und rinderreiches Gut und Heldenkraft, o Morgenroth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всех богов ты, Ушас, привози  
 На питье сомы из воздушного пространства!  

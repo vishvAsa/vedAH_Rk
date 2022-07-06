@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र गृणीष꣡ उ स्तुषे꣡  
 महाँ꣡ उग्र꣡ ईशानकृ꣡त्  
 आ꣡ इहि नः सुत꣡म् पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । इ॒हि॒ । नः॒ । सु॒तम् । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र त्वं **गृणीषे** उच्यसे । इदं देहीदं कुर्विति । तथा **स्तुषे** **उ** स्तूयसे च । उ इति चार्थे । कीदृशस्त्वम्। **महान्** गुणैः प्रवृद्धः **उग्रः** उद्गूर्णबलः **ईशानकृत्** ऐश्वर्यकर्ता । तादृशस्त्वम् **एहि** आगच्छ । आगत्य च **नः** **सुतं** सोमं **पिब** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, you are invoked, you are praised, the great, the strong, the wilder of sovereignty; come here anddrink our libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, you are to be hymned and praised: great, powerful, performing  the master’s part.  
 Come to our pressed soma! Drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The morphological identity of the forms gṛṇīṣé and stuṣé is disputed. Geldner takes them as 2nd sg. passives (favored also by Oldenberg), though he mentions the possibility that they are 1st sg. -se forms in his n.; Lubotsky identifies them as 1st singulars.
 
@@ -126,23 +126,23 @@ Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharā
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, wouldst be sung and praised as great, strong, lordly in thy deeds  
      Come hither, drink our Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, du wirst gefeiert und gepriesen als der große, gewaltige Reichmacher. Komm, trink unseren Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Indra, lob' und preise ich, dich, den Gebieter stark und gross, Komm her und trinke unsern Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра достоин воспевания и прославления  
 Как великий, грозный, власть имеющий.  

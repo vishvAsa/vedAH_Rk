@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध ज्मो꣡ अ꣡ध वा दिवो꣡  
 बृहतो꣡ रोचना꣡द् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ जाता꣡ सुक्रतो पृण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒या । व॒र्ध॒स्व॒ । त॒न्वा॑ । गि॒रा । मम॑ । आ । जा॒ता । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । पृ॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -111,7 +111,7 @@ genre M
 हे इन्द्र **अध** अधुना **ज्मः** । जमन्ति गच्छन्त्यस्यामिति ज्मा पृथिवी । तस्याः सकाशात् **अध** **वा** अपि वा **दिवः** अन्तरिक्षात् **बृहतः** महतः **रोचनात्** नक्षत्रैर्दीप्यमानात् स्वर्गाद्वा आगत्य । अधिः पञ्चम्यर्थानुवादी । **अया** अनया **तन्वा** ततया विस्तृतया **मम** मदीयया **गिरा** स्तुत्या **वर्धस्व** वृद्धो भव । हे **सुक्रतो** शोभनकर्मवन्निन्द्र **जाता** जातानस्मदीयान् जनान् **आ** **पृण** अभिलषितैः फलैरापूरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 Śatakratu = **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Coming) then from earth or then from heaven, from the lofty realm  of light,  
 by this my song become strong in your own body. Bring created things  to fullness, o you of strong resolve.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether thou come from earth or from the lustre of the lofty heaven,  
      Wax stronger in thy body through my song of praise: fill full all creatures, O most Wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum komm von der Erde oder von des hohen Himmels Lichtraum! Wachse am Leib durch diese Lobrede von mir; mache den Nachwuchs vollzählig, du Einsichtsvoller!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und sei es von der Erde her, sei's von dem hohen Himmelsraum, Komm, freue dich an diesem meinem zarten Lied, und huldvoll segne alle Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот (приходи) с земли ли  
 Или из светлого пространства высокого неба!  

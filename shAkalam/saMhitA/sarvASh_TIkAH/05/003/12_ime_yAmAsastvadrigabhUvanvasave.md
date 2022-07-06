@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ या꣡मासस् तुवद्रि꣡ग् अभूवन्  
 व꣡सवे वा त꣡द् इ꣡द् आ꣡गो अवाचि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ री꣡षते वावृधानः꣡ प꣡रा दात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न । अह॑ । अ॒यम् । अ॒ग्निः । अ॒भिऽश॑स्तये । नः॒ । न । रिष॑ते । व॒वृ॒धा॒नः । परा॑ । दा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -138,7 +138,7 @@ genre M
 **इमे** **यामासः** गन्तारः स्तोमाः **त्वद्रिक्** त्वदभिमुखाः **अभूवन्** भवन्ति । **वा** अथवा **वसवे** वासकाय **तत्** **आगः** अपराधमाशासनरूपम **अवाचि** उक्तवानहमग्निम्। इदं देहीति याचनमेवापराधः । **इत्** इति पूरणः । यद्वा । तदिदं वक्ष्यमाणं शत्रुभिः कृतमागोऽवाचि। किंच **अयमग्निः** **ववृधानः** स्तुत्या वर्धमानः सन् **नाह** नैव अभिशस्तये निन्दकाय नः अस्मान् **परा** **दात्** परादद्यात् । तथा **रिषते** हिंसकाय नैव परा दात् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,34 +149,34 @@ genre M
 Perhaps an offence has: vasave vā tadid āgo avāci = that which is an offensive expression has been spoken to **Vasu**, giver of dwellings, by our saying or intimating, idam **dehi**, give this; or, this offence which has been offered to us by our enemies, has been reported to Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These pleas have come toward you, or rather this very offense has been  spoken to (you), the good one.  
 Having become full grown, this Agni here will not betray us to the curse  nor to him doing harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee these eulogies have been directed: or to the Vasu hath this sin been spoken.  
      But this our Agni, flaming high, shall never yield us to calumny, to him who wrongs us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 These our processions have been directed towards thee. Yes, to thee, the Vasu, this guilt has been confessed. Verily this Agni, grown strong, will never surrender us to the curse nor to him who does harm to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dir sind diese Bittgänge unternommen worden, oder dem Gott ward dieses Unrecht gemeldet. Niemals soll uns dieser Agni der üblen Nachrede noch dem Schädiger preisgeben, der Erstarkte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf dich hin zielten diese Opferfeste, dem guten ward auch diese Noth gemeldet; Dem Schmäher gebe nimmer dieser Agni noch dem Verletzer hin uns der gestärkte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К тебе были направлены эти хождения,  
 Или (- более того – тебе) Васу был объявлен этот самый грех.  

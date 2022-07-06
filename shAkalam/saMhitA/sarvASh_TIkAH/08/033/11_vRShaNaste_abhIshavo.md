@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षणस् ते अभी꣡शवो  
 वृ꣡षा क꣡शा हिरण्य꣡यी  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वृ꣡षा तुवं꣡ शतक्रतो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वृषा॑ । रथः॑ । म॒घ॒ऽव॒न् । वृष॑णा । हरी॒ इति॑ । वृषा॑ । त्वम् । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣaṇas* ← *vṛṣaṇaḥ* ← *vṛṣaṇa*
 - \[noun\], nominative, singular, masculine
@@ -98,36 +98,36 @@ genre M;; repeated line
 हे **मघवन्** **ते** तव **अभीशवः** रश्मयोऽश्वरशनाः **वृषणः** वर्षितारः । **हिरण्ययी** हिरण्मयी **कशा** अपि **वृषा** । **रथः** अपि **वृषा** वर्षिता । **हरी** अश्वावपि **वृषणा** वृषणौ वर्षितारौ । हे **शतक्रतो** बहुप्रज्ञेन्द्र **त्वं** च **वृषा** वर्षिता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerers (of benefits) are your reins, such also is your golden whip, your chariot, **Maghavan**, is ashowerer (of benefits), so are your two horses; and you, too, **Śatakratu**, are the showerer (of benefits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bullish are your reins, bullish your golden whip;  
 bullish is your chariot, bounteous one, bullish your two fallow bays; a  bull are you of a hundred resolves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy reins are very bulls in strength, bulls' strength is in thy golden whip.  
      Thy car, O Maghavan, thy Bays are strong as bulls: thou, Satakratu, art a Bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullenhaft sind deine Zügel, bullenhaft die goldene Peitsche, bullenhaft der Wagen, o Gabenreicher, bullenhaft das Falbenpaar, bullengleich bist du, Ratreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Stiere sind die Zügel dein, ein Stier die goldne Peitsche dir, Ein Stier dein Wagen, Stiere deine Füchse, Held, ein Stier du selbst, gewaltiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быки – твои поводья,  
 Бык – золотой кнут,  

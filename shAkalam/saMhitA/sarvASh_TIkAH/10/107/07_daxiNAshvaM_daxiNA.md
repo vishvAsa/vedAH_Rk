@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡क्षिणा꣡श्वं द꣡क्षिणा गां꣡ ददाति  
 द꣡क्षिणा चन्द्र꣡म् उत꣡ य꣡द् धि꣡रण्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡क्षिणां व꣡र्म कृणुते विजान꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दक्षि॑णा । अन्न॑म् । व॒नु॒ते॒ । यः । नः॒ । आ॒त्मा । दक्षि॑णाम् । वर्म॑ । कृ॒णु॒ते॒ । वि॒ऽजा॒नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dakṣiṇāśvaṃ* ← *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
@@ -136,7 +136,7 @@ popular
 **दक्षिणा** तद्दातृभ्यः **अश्वं** **ददाति** । तथा **गां** च ददाति । तथा **चन्द्रं** सुवर्णं ददाति । **उत** अपि च **यद्धिरण्यं** रजतमस्ति ।' रजतं हिरण्यम्' (तै. सं.१.५.१,२) इत्याम्नानात् । तच्च ददाति । किंच सा **अन्नं** **वनुते** ददाति । वनोतिरत्र दानार्थः । तस्मात् **नः** अस्मदीयः **यः** **आत्मा** अस्ति सः **वर्म** **विजानन्** कवचं यथायुधानां निवारकं तद्वद्दुरितानि वारयतीति कवचमिति विजानन् **दक्षिणाम्** अश्वादिदानशीलां **कृणुते** । ऋत्विग्भ्यः करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ popular
 Lonely =resounding with the lowing of the oxen
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The priestly gift gives the horse; the priestly gift the cow; the priestly  gift the lustrous and what is golden.  
 The priestly gift wins the food that is our very lifebreath. He who  
 understands makes the priestly gift his armor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guerdon bestows the horse, bestows the bullock, Guerdon bestows, moreover, gold that Rsisters.  
      Guerdon gives food which is our life and spirit. He who is wise takes Guerdon for his armour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Daksina schenkt das Roß, die Daksina ein Rind, die Daksina Gold und Silber. Die Daksina bringt Speise ein, die unser Lebenshauch ist, die Daksina macht der Wissende zu seinem Panzer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Opferlohn gibt das Ross, der Opferlohn das Rind, der Opferlohn auch das glänzende Gold; der Opferlohn verschafft Speise; er ist unser Lebenshauch; wer klug ist, macht sich den Opferlohn zu seinem Panzer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дакшина дает коня, Дакшина – корову,  
 Дакшина – также блестящее золото.  

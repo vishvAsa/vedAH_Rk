@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡न् मा पीता꣡ अयंसत  
 र꣡थम् अ꣡श्वा इवाश꣡वः  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *un* ← *ud*
 - \[adverb\]
@@ -87,36 +87,36 @@ popular;; repeated line
 **पीताः** सोमाः माम् **उत्** **अयंसत** उद्यच्छन्ते । तत्र दृष्टान्तः। **रथमश्वाइव** यथा **आशवः** क्षिप्रगामिनो गमनेन व्याप्ता वाश्वा रथमुद्गमयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The draughts (of **Soma**) have lifted me up like swift horses (drawing) a chariot, for I have often drunkof the Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The draughts have lifted me up, like swift horses a chariot.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The draughts I drank have borne me up, as fleet-foot horses draw a car:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die getrunkenen Säfte haben mich emporgehoben wie rasche Rosse den Wagen. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Tränke haben mich erregt, wie schnelle Rosse das Gefährt; Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Понесли меня вверх выпитые (соки сомы)  
 Как быстрые кони – колесницу –  

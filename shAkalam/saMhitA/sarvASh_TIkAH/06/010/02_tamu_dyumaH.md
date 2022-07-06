@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ द्युमः पुरुअणीक होतर्  
 अ꣡ग्ने अग्नि꣡भिर् म꣡नुष इधानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घृतं꣡ न꣡ शु꣡चि मत꣡यः पवन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्तोम॑म् । यम् । अ॒स्मै॒ । म॒मता॑ऽइव । शू॒षम् । घृ॒तम् । न । शुचि॑ । म॒तयः॑ । प॒व॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -124,14 +124,14 @@ genre M
 हे **द्युमः** दीप्तिमन् **पुर्वणीक** बहुज्वाल **होतः** देवानामाह्वातः **अग्ने** **अग्निभिः** तवावयवभूतैरन्यैरग्निभिः सार्धम् **इधानः** समिध्यमानः दीप्तः सन् **मनुषः** मनुष्यस्य स्तोतुः **तमु** तं स्तोमं श्रृण्विति शेषः । उ इति पादपूरणम् । **यं** **स्तोमं** स्तोत्रं **शूषं** सुखकरं **घृतं** **न** पवित्राभ्याम् उत्पूतं घृतमिव **शुचि** शुद्धम् **अस्मै** अग्नये **मतयः** मन्तारः स्तोतारः **ममतेव** । ममता नाम ब्रह्मवादिनी दीर्घतमसो माता । सेव **पवन्ते** पुनन्ति संस्कुर्वन्ति दोषवर्जितमुच्चारयन्तीत्यर्थः । तं स्तोममित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant, may-rayed **Agni**, invoker of the gods, kindled with many fires, (hear) this (praise) of men; which delightful praise, pure as the clarified butter (that has been filtered), his worshippers offer unto him as **mamatā** (formerly offered it).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That—o heaven-bright Hotar of Manu, o Agni of many faces, on being  kindled along with the (other) fires—  
 (that) praise (take to yourself) which (I chant) to him forcefully like  
@@ -139,7 +139,7 @@ Mamatā [/in my me-ness]. My thoughts purify themselves like
 gleaming ghee.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was discussed in the published introduction, this hymn traffics in disappointed expectations and truncated syntax, and this vs. displays both in extreme form. The vs. begins tám u “him/it [acc. sg.] PARTICLE.” Given that the dedicand of the hymn is Agni and vs. 1 contained a long acc. phrase referring to Agni (though that vs. ended with Agni as nom. subj.), we might expect that tám = Agni, and our expectations would be supported by a little formula found in various places in the RV (see Klein, Particle u, 67-68): VIII.95.6 tám u ṣṭavāma yáḥ “let us praise him who …” VIII.96.6 tám u ṣṭuhi yáḥ “praise him who …” V.42.1 tám u ṣṭuhi yáḥ (ditto) I.173.5 tám u ṣṭuhi ... yáḥ (ditto) as well as variations on it. In our vs., immediately following u there is a long interruption, consisting mostly of vocatives addressed to Agni (dyumaḥ purvaṇīka hotar, ágne), leaving the tám in syntactic suspension. But when we finally reach the end of the hemistich, we encounter a nominative participle idhānáḥ ‘being kindled’, which can only refer to Agni. This leaves the initial tám doubly unmoored: it can’t refer to Agni, as we’d thought, and it can’t be construed with idhānáḥ, which is intransitive and doesn’t take accusatives.
 
@@ -172,23 +172,23 @@ It is therefore likely that another verb has to be supplied. Contextually, ‘si
 Specifically I supply a form of √ṛc ‘chant’, which takes śūṣám as obj. on a number of occasions (I.9.10, X.96.2, 133.1); see also VI.50.15 cited just above with the locution abhí arcanti arkaíḥ. All three of us assume that the verb is 1st sg, although there is less support for that assumption, since there are no other 1st persons, sg. or pl., in the hymn. The pun “in my me-ness” that I see in mamáteva would provide some support for my “I,” but neither Geldner nor Renou so interprets mamáteva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear this laud, Radiant Priest of many aspects, O Agni with the fires of man enkindled,  
      Laud which bards send forth pure as sacred butter, strength to this man, as 'twere for self-advantage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höre, du glanzreicher, vielgesichtiger Hotri des Manu, Agni, der mit den anderen Agni´s entzündet wird, auf dieses Loblied, das ich ihm wie Mamata als Ansporn vorsinge. Rein wie Schmalz klären sich meine Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Loblied auch, o heller, vielgestalt'ger, o Agni, durch des Menschen Glut entflammter, Das ich ihm spende wie aus eignem Antrieb, wie klare Butter rieseln die Gebete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Услышь) вот эту (хвалу), о блистающий многоликий хотар,  
 О Агни, зажигаемый огнями человека,  

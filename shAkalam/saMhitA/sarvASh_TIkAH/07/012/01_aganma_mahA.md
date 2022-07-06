@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡गन्म महा꣡ न꣡मसा य꣡विष्ठं  
 यो꣡ दीदा꣡य स꣡मिद्धः स्वे꣡ दुरोणे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡आहुतं विश्व꣡तः प्रतिअ꣡ञ्चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 चि॒त्रऽभा॑नुम् । रोद॑सी॒ इति॑ । अ॒न्तः । उ॒र्वी इति॑ । सुऽआ॑हुतम् । वि॒श्वतः॑ । प्र॒त्यञ्च॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aganma* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
@@ -120,36 +120,36 @@ genre M
 **यः** अग्निः **स्वे** **दुरोणे** स्वे स्थान आहवनीये **समिद्धः** काष्ठैः समिद्धः सन् **दीदाय** दीप्यते तमिमं **यविष्ठं** युवतमम् **उर्वी** विस्तीर्णयोः **रोदसी** रोदस्योः द्यावापृथिव्योः **अन्तः** मध्ये अन्तरिक्षे **चित्रभानुं** चित्रज्वालं **स्वाहुतं** सुष्ठु आहुतिभिर्हुतं सन्तं **विश्वतः** सर्वतः **प्रत्यञ्च** प्रतिगच्छन्तमग्निं **महा** महता **नमसा** नमस्कारेण **अगन्म** वयमुपगच्छाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us approach with profound reverence the youngest (of the gods), who shines when kindled in hisown abode; who is blazing wonderfully between heaven and earth, and, piously invoked, is coming from everyquarter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have come with great reverence to the youngest one, who, kindled,  shines in his own home—  
 to him of shimmering radiance between the two wide world-halves, to  him facing out in every direction, receiving the well-poured offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE with great reverence have approached The Youngest who hath shone forth well-kindled in his dwelling,  
      With wondrous light between wide earth and heaven, well-worshipped, looking forth in all directions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind mit großer Verbeugung zu dem Jüngsten getreten, der im eigenen Hause entzündet aufgeleuchtet ist; der zwischen den weiten Welthälften prächtig erglänzt, der nach allen Seiten sein Gesicht zukehrt, wenn er tüchtig mit Schmalz begossen ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit hoher Ehrfurcht kamen wir zum jüngsten, der angefacht im eignen Sitze strahlte, Hellleuchtend zwischen beiden weiten Welten, dem schöngetränkten, allwärts hingewandten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы отправились с великим поклонением к самому юному,  
 Что (всегда) сверкал, зажженный в доме своем,  

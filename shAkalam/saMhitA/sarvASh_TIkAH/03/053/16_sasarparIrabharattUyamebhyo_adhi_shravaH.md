@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ससर्परी꣡र् अभरत् तू꣡यम् एभ्यो  
 अ꣡धि श्र꣡वः पा꣡ञ्चजन्यासु कृष्टि꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 या꣡म् मे पलस्तिजमदग्न꣡यो ददुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सा । प॒क्ष्या॑ । नव्य॑म् । आयुः॑ । दधा॑ना । याम् । मे॒ । प॒ल॒स्ति॒ऽज॒म॒द॒ग्नयः॑ । द॒दुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sasarparīr* ← *sasarparīḥ* ← *sasarparī*
 - \[noun\], nominative, singular, feminine
@@ -119,7 +119,7 @@ genre M
 **ससर्परीः** सर्वत्र गद्यपद्यात्मकत्वेन सर्पणशीला वाग्देवता **पाञ्चजन्यासु** **कृष्टिषु** । निषादपञ्चमाश्चत्वारो वर्णाः पञ्चजनाः । तत्संबन्धिनीषु प्रजासु यत् **श्रवः** अन्नं विद्यते तन्नोऽस्मभ्यम् **अधि** अधिकं यथा भवति तथा **तूयं** क्षिप्रम् **अभरत्** भरतु संपादयतु । **पलस्तिजमदग्नयः** पलस्तयः पलिता दीर्घायुषो जमदग्नयो मुनयः **यां** वाचं सूर्यादाहृत्य **मे** मह्यं **ददुः** अददुः **पक्ष्या** पक्षस्य पक्षादिनिर्वाहकस्य सूर्यस्य दुहिता **सा** वाक् **नव्यं** नवतरम् **आयुः** अन्नं जीवनं वा **दधाना** मम कुर्वाणा भवतु ॥ पाञ्चजन्यासु ।' बहिर्देवपञ्चजनेभ्यश्चेति वक्तव्यम्' इति ञ्यप्रत्ययः । ञित्त्वादाद्युदात्तः । पक्ष्या । पक्षे भवा । दिगादित्वाद्यत् । तित्स्वरितः । नव्यम् । नवशब्दात् वस्वादित्वात् स्वार्थिको यत् । पलस्तिजमदग्नयः पलस्तयो जमदग्नयः । कर्मधारयसमासः । समासस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 Five races of men: pañcajanyāsu kṛṣṭiṣu: five distinctions are restricted to human beings; hence, the reference may be to four castes and barbarians; daughter of the sun: pakṣyā, the daughter of **Pakṣa**: pakṣa nirvāhakasya, the distributor of the parts (of the year?), i.e. sūryasya, of the sun; bestower of new life: navyam āyur dadhāna, having new life or food: mama kurvaṇā bhavatu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The squirming, sappy (cow called) Sasarparī swiftly brought fame to  them among the communities of the five peoples,  
 having taken on new life (like Dawn, though) in her winglessness, she  whom the Palastis and Jamadagnis gave me.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Besides the continuing problem of sasarparī́-, the other difficulty is the hapax pakṣyā̀in c. Grassmann takes it as ‘aus Monatshälften bestehend’ (flg. BR), Geldner (/Witzel Gotō) ‘auf meiner Seite stehend’, Renou as ‘ailée’ or ‘prenant parti (pour moi)’. The published translation
 
@@ -166,23 +166,23 @@ The next question to ask is why Sasarparī “banishes neglect” (ámatim bā́
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sasarpari brought glory speedily to these, over the generations of the Fivefold Race;  
      Daughter of Paksa, she bestows new vital power, she whom the ancient Jamadagnis gave to me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sasarpari brachte diesen gar bald Ruhm über die Stämme der fünf Völker, die auf meiner Seite stehend mir neues Leben verlieh, die mir die Palasti´s und Jamadagni´s gegeben haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reichlich strömende Kuh führte ihnen preisliches Gut zu bei den Geschlechtern der fünf Menschenstämme, sie, die in jedem Halbmonat (?) neue Erquickung spendet, welche mir die Palasti's und Dschamadagni's schenkten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сасарпари быстро принесла им славу,  
 (Возвысившую их) над населением пяти народов,  

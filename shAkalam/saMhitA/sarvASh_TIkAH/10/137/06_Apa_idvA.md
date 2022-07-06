@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡प इ꣡द् वा꣡ उ भेषजी꣡र्  
 आ꣡पो अमीवचा꣡तनीः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ता꣡स् ते कृण्वन्तु भेषज꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 आपः॑ । सर्व॑स्य । भे॒ष॒जीः । ताः । ते॒ । कृ॒ण्व॒न्तु॒ । भे॒ष॒जम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
@@ -112,37 +112,37 @@ popular;; epic anuṣṭubh (380)
 **आप** **इद्वै** आप एवं खलु **भेषजीः** भेषजभूताः । स्नानपानादिना सुखहेतवः । यद्वा । ओषधिरूपेण परिणता रोगोपशमनहेतवो भवन्ति।  ‘ केवलमामक° ' (पा. सू. ४. १. ३०) इत्यादिना भेषजशब्दात् ङीप् । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम्। जसि वा छन्दसि इति पूर्वसवर्णदीर्घत्वम् । यत एवमतः कारणात् **आपः** **अमीवचातनीः** अमीवचातन्यः रोगाणां नाशयित्र्यो भवन्ति । चातयतिर्वधकर्मा। किंच **आपः** **सर्वस्य** प्राणिजातस्य **भेषजीः** भेषजभूता भवन्ति न कतिपयस्य । **ताः** तथाविधा आपः **ते** तव **भेषजं** **कृण्वन्तु** कुर्वन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Waters verily are medicinal; waters are the dissipators of disease; waters are the **medicines** foreverything; may they act as **medicine** to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These very waters are truly remedies; the waters banish affliction.  
 The waters are remedies for everything. Let them create a remedy  
 for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Waters have their healing power, the Waters drive disease away.  
      The Waters have a balm for all: let them make medicine for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wasser sind fürwahr die Heilenden, die Wasser die Krankheitvertreibenden. Die Wasser heilen alles; die sollen dir ein Heilmittel bereiten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilkräftig ist des Wassers Flut; die Wasser treiben Krankheit fort, Die Wasser heilen alles Leid, sie mögen Heilung bringen dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воды поистине исцеляют,  
 Воды изгоняют болезни,  

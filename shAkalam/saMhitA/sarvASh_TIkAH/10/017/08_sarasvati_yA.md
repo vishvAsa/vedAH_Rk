@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡रस्वति या꣡ सर꣡थं यया꣡थ  
 स्वधा꣡भिर् देवि पितृ꣡भिर् म꣡दन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अनमीवा꣡ इ꣡ष आ꣡ धेहि अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ॒ऽसद्य॑ । अ॒स्मिन् । ब॒र्हिषि॑ । मा॒द॒य॒स्व॒ । अ॒न॒मी॒वाः । इषः॑ । आ । धे॒हि॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
@@ -118,37 +118,37 @@ popular
 हे **सरस्वति** हे **देवि** **या** त्वं **सरथं** पितृभिः सह समानेन रथेन युक्तं यथा भवति तथा **ययाथ**। अस्मदीयं यज्ञं प्राप्तासि । किं कुर्वती। **पितृभिः** सह **स्वधाभिः** हविर्लक्षणैरन्नैः **मदन्ती** माद्यन्ती यज्ञं गच्छसीति संबन्धः । स त्वं **बर्हिषि** **अस्मिन्** वेदिस्तरणे यज्ञे **आसद्य** उपविश्य **मादयस्व** हविर्भिस्तृप्ता भव । आत्मानं तर्पय वा । ततस्तृप्ता सती त्वम् **अनमीवाः** । अमीवा रोगः । तद्वर्जितान्यारोग्यजननानि **इषः** अन्नानि **अस्मे** अस्मभ्यम् **आ** **धेहि** पर्याप्तं प्रयच्छ ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Sarasvatī**, who rides in the same chariot with the **Pitṛs**, and delighted (along with them) by the(sacrificial) viands, seated on the sacred grass gratified (by our offering, and grant us wholesome food. worshippers at this sacrifice a portion of food fit for thousands, and increase of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Sarasvatī, you who drove on the same chariot with the forefathers,  becoming exhilarated at the svadhā(-calls), o goddess—  
 having taken your seat here on this ritual grass, bring yourself to  
 exhilaration. Provide us refreshments that bring no disease.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sarasvati, who camest with the Fathers, with them rejoicing thee in our oblations,  
      Seated upon this sacred grass be joyful, and give us strengthening food that brings no sickness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Sarasvati, die du auf gleichem Wagen gekommen bist mit den Vätern nach eigenem Ermessen dich ergötzend, o Göttin, setze dich auf dieses Barhis und schwelge und gewähre uns Speisegenüsse, die keine Krankheit bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvati, die du auf gleichem Wagen dich mit den Vätern gern berauschend, nahtest, Setz heute dich auf diese Streu, berausch dich, gesunde Tränke spende uns, o Göttin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сарасвати, (ты,) которая приехала на одной колеснице  
 По собственной склонности, о богиня, радуясь вместе с отцами,  

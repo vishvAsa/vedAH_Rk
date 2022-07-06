@@ -3,7 +3,7 @@ title = "+06"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Sages  
 The VIth Maṇḍala, attributed to the Bharadvāja clan, contains seventy-five hymns.  The Anukramaṇī identifies the majority of the hymns as products of the eponymous clan poet himself, Bharadvāja, whose patronymic is Bārhaspatya. These  include all of the Agni series (1–16), much of the Indra series (17–30 and 37–43),  the Pūṣan series (53–60), and the miscellaneous hymns to various divinities toward  the end of the maṇḍala (61–74). 
@@ -18,7 +18,7 @@ Although the Indra hymns outnumber the Agni hymns, the Indra hymns are,  for the
 The hymn  VI.28, interrupting the Indra cycle, contains a charming blessing of the cows, and  the “clan” hymn, VI.48, repays the attention its difficulties demand. This hymn  contains, inter alia+++(=antar anyeṣu)+++, a remarkable, if cryptic, address to the god Pūṣan, and Pūṣan  is an especial preoccupation of the Bharadvāja poets, with VI.53–60 containing the  only sustained cycle of hymns in the R̥gveda addressed to this minor deity. Other  gods, well represented in other maṇḍalas, receive relatively short shrift: there is only  a single hymn to the Maruts (66), two to Uṣas (64–65), and so on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary VI
 </details>

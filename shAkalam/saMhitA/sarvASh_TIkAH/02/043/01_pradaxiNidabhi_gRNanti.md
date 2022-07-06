@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रदक्षिनि꣡द् अभि꣡ गृणन्ति कार꣡वो  
 व꣡यो व꣡दन्त ऋतुथा꣡ शकु꣡न्तयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गायत्रं꣡ च त्रइ꣡ष्टुभं चा꣡नु राजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒भे इति॑ । वाचौ॑ । व॒द॒ति॒ । सा॒म॒ऽगाःऽइ॑व । गा॒य॒त्रम् । च॒ । त्रैस्तु॑भम् । च॒ । अनु॑ । रा॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
@@ -123,43 +123,43 @@ popular
 शकुन्तयः कपिञ्चलाः ऋतुथा कालेकालेवयोन्नंवदन्तःसूचयन्तः कारवः स्तोतारइव प्रदक्षि णित् प्रदक्षिणंअभिगृणन्तिअभिवदन्तु बहुवचनम्पूजार्थं किञ्च उभेवाचौ गानञ्च श्रौतञ्च सामगा इव गयत्रञ्च त्रैष्टुभञ्च सामनीवशकुन्तिर्वदति अनुराजतिच श्रृण्वतोनुरक्तान् करोतीत्यर्थः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the birds in quest of their food, according to the season, proclaim their circumambulations like the celebrators (of sacred rites); he utters both notes, as the chanter of the **sāma** recites the gayatrī and tṛṣṭubh, and delights (the hearers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Turning toward the right the bards sing welcome—the birds speaking at  their proper season, the birds of omen.  
 It speaks both speeches like a sāman-singer: it regulates both gāyatrī and  triṣṭubh meters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again as in II.42.3, pradakṣiṇít might refer to ‘south’, rather than ‘right’, though the idiom prá + dakṣiṇá- seems more limited to the traditional circumambulation of the fire with the right side facing inward.
 
 Pāda c is somewhat oddly phrased. The vocalizer is identified as a sāmansinger, but is said to speak (both) speech(es). This raises several questions: does a singer speak? and what are “both speeches”? It is tempting to equate the two speeches with the two entities in pāda d, gāyatrám and traiṣṭubham, but I am not certain that is correct. I think it’s possible that “both speeches” refers to the words and the melody. As for the question of singing versus speech, I wonder if the simile sāmagā́iva should go rather with d than with c: “It speaks both speeches. Like a sāman-singer it regulates both Gāyatrī and Triṣṭubh meters.” Unfortunately this hymn is so isolated in the RV that we have no points of comparison.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.  
      He, like: a Sama-chanter utters both the notes, skilled in the mode of Trstup and of Gayatri.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Weissagevögel antworten wie die Sänger nach rechts gewandt zur rechten Zeit ihre Stimme erhebend. Beide Reden redet er wie der Samasänger, die Gyatri- und die Tristubhweise beherrscht er.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu rechter Hand singen die Sänger, so auch die ^akunti- Vögel, welche zu rechter Zeit die Stimme erschallen lassen, wie der Säraasänger singt er die beiden Lieder, und richtet sich nach dem Versmass der Trischtubh und der Gäjatri.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Словно) певцы, обращенные направо, в нужное время  
 Подымая голос, издают звуки вещие птицы.  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡वद् वे꣡द् उषस् तुव꣡म्  
 भू꣡यो वा दा꣡तुम् अर्हसि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 या । स्तो॒तृऽभ्यः॑ । वि॒भा॒ऽव॒रि॒ । उ॒च्छन्ती॑ । न । प्र॒ऽमीय॑से । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
@@ -124,43 +124,43 @@ genre M;; repeated line
 हे **उषः** त्वमस्मभ्यं **वा** अथवा दित्सितं किम् **एतावत्** एव । इच्छब्द एवकारार्थः । अस्मिन् सूक्ते प्रार्थितमेवेत्यर्थः । अथवा **भूयः** **दातुमर्हसि** । अप्रार्थितमपि । यद्दातव्यमस्ति तत्सर्वं देहि इत्यर्थः । हे **विभावरि** उषः **या** त्वं **स्तोतृभ्यः** तेषां लौकिकवैदिकव्यवहारार्थं व्युच्छन्ती तमो विवासयन्ती **न** **प्रमीयसे** न हंसि । न क्रुध्यसीत्यर्थः । सा त्वं दातुमर्हसीति ॥ ' मीञ् हिंसायाम् ' इत्यस्मात् श्नास्थाने व्यत्ययेन श्यन् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, Uṣas, are able to give (us) whatever, indeed, (has been solicited), and much (that has not been asked for); for, radiant (divinity), who are dawning upon your adorers, you are never cruel (to them);bright-born goddess (who are) sincerely praised for (the gift of) horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So much you ought to give, o Dawn, or more—  
 you who, as you dawn, far-radiant one, do not dwindle for the praisers – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pramī́yase is variously rendered, but ‘diminish’ or the like fits both the root and the context. Thieme’s principled insistence on ‘tauschen, täuschen’ (ZDMG 41 [1941] 107-8 = KlSch 32-33) produces an unconvincing interpr., requiring further shoring up: “… die du … nicht getäuscht wirst (= du, deren Absicht zu schenken nicht vereitelt wird).” That Dawn does not diminish in cd harmonizes with the increase in gifts that the poet urges in ab.
 
 The dat. stotṛ́bhyaḥ may be construed with uchántī rather than pramī́yase, thus “dawning for the praisers, you do not diminish” (so Renou, Thieme), but this would have no appreciable effect.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So much, and more exceedingly, O Dawn, it suits thee to bestow,  
      Thou Radiant One who ceasest not to shine for those who sing thy praise, highborn! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So viel oder noch mehr vermagst du, Usas, zu schenken, die du, Erstrahlende, für die Sänger nie abnimmst, wenn du aufleuchtest, du Edelgeborene, Rosseschenkende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Soviel fürwahr und auch noch mehr kannst, Morgenröthe, geben du die, glänzende, den Sängern du aufleuchtend nimmer dich entziehst, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот столько, о Ушас, или больше  
 Ты должна дать,  

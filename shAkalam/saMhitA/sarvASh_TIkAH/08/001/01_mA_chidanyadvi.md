@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ चिद् अन्य꣡द् वि꣡ शंसत  
 स꣡खायो मा꣡ रिषण्यत  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मु꣡हुर् उक्था꣡ च शंसत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । इत् । स्तो॒त॒ । वृष॑णम् । सचा॑ । सु॒ते । मुहुः॑ । उ॒क्था । च॒ । शं॒स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -117,44 +117,44 @@ genre M
 हे **सखायः** समानख्यानाः स्तोतारः इन्द्रस्तोत्रात् **अन्यत्** स्तोत्रं **मा** **चित्** **वि** **शंसत** मैवोच्चारयत । **मा** **रिषण्यत** मा हिंसितारो भवत । अन्यदीयस्तोत्रोच्चारणेन वृथोपक्षीणा मा भवत । **सुते** अभिषुते सोमे **वृषणं** कामानां वर्षितारम् **इन्द्रमित्** इन्द्रमेव हे प्रस्तोत्रादयः **सचा** सह संघीभूय **स्तोत** स्तुत । हे प्रशास्त्रादयः **उक्था** **च** उक्थानि शस्त्राणि चेन्द्रविषयाणि यूयं **मुहुः** पुनःपुनः **शंसत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Repeat, friends, no other praise, be not hurtful (to yourselves); praise together **Indra**, the showerer (ofbenefits) when the **Soma** is effused; repeately utter praise (to him).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t praise anything else! Comrades, don’t do yourselves harm.  
 Praise only Indra the bull when (the soma) is pressed, and right now  
 pronounce your solemn recitations—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the published translation I take ca in d as conjoining the two clauses found in c and d (so apparently also Geldner and explicitly Klein, DGRV I.103, 105). However, given that the ca is somewhat wrongly positioned and that it reminds us of other ukthā́ca passages, I now consider it possible that ukthā́ca is part of a truncated conjoined NP.
 
 See disc. ad VIII.82.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GLORIFY naught besides, O friends; so shall no sorrow trouble you.  
      Praise only mighty Indra when the juice is shed, and say your lauds repeatedly:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Traget nur nichts anderes vor; ihr Freunde, versehet euch nicht! Preiset nur Indra, den Bullen, beim Soma, und traget immer wieder Loblieder vor!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nichts anderes verkündet sonst, nicht preist, o Freunde, fehlerhaft; Nur Indra rühmt, den Helden, bei dem Somasaft, und saget eure Sprüche her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только не воспевайте ничего другого!  
 Друзья, не промахнитесь!  

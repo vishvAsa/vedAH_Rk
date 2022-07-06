@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡त् ते अद्या꣡ क꣡रणं कृत꣡म् भूत्  
 कु꣡त्सं य꣡द् आयु꣡म् अतिथिग्व꣡म् अस्मै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡त् तू꣡र्वयाणं धृषता꣡ निनेथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पु॒रु । स॒हस्रा॑ । नि । शि॒शाः॒ । अ॒भि । क्षाम् । उत् । तूर्व॑याणम् । धृ॒ष॒ता । नि॒ने॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -142,7 +142,7 @@ genre M
 **अद्य** इदानीमपि हे इन्द्र **ते** त्वया **कृतं** **करणं** तत्कर्म **प्र** **भूत्** प्रभवति प्रकाशते । किं तदित्युच्यते । **कुत्सं** शुष्णात् राक्षसादेतन्नामानमृषिं च **आयुं** शत्रुभ्यः सकाशात् एतत्संज्ञकं पौरूरवसम् **अतिथिग्वम्** अतिथीनामभिगन्तारं दिवोदासं च शम्बरात् ररक्षिथेति **यत्** करणं **तत्** प्रभवतीति पूर्वेण संबन्धः । ररक्षिथेति द्वितीयाश्रुतेरुचितक्रियाध्याहारः । अपि च **अस्मै** अनन्तरोक्ताय अतिथिग्वाय **पुरु** पुरूणि बहूनि **सहस्रा** सहस्राणि शम्बरस्य धनानि **नि** **शिशाः** अददाः । इन्द्रः शम्बरं हत्वा तस्य धनानि दिवोदासाय ददावित्यर्थः । तथा हे इन्द्र त्वं **धृषता** धर्षणेन त्वदीयेन वज्रेण शम्बरं हत्वा **क्षां** पृथिवीम् **अभि** अभिलक्ष्य पृथिव्यां वर्तमानं **तूर्वयाणं** त्वरितगमनं दिवोदासम् **उत्** **निनेथ** आपद्य्अ उदगमयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,35 +153,35 @@ genre M
 Turvay_ṇa: same as **Divodāsa**, to whom **Indra** gave the spoils of **Śambara**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This deed done by you stands out today—that for his sake  
 [=Tūrvayāṇa’s?] (you ground down) Kutsa, Āyu, and Atithigva;  
 many thousands did you grind down to earth. You led Tūrvayāṇa up  boldly.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is structurally reminiscent of vs. 8. Like there, we have a clause occupying the first pāda (both ending in bhū́t/bhūt, as it happens), with (most of) b belonging to a different but radically incomplete clause, containing a marooned set of accusative PNs whose fate at the hands of Indra is well known. Pāda c continues with other accusative victims of Indra, but also provides a verb to govern them. In both vss. the names in the b clause have a well-known and quite specific outcome at Indra’s hands: Cumuri and Dhuni in 8b were put to sleep by Indra, to weaken them for a death blow administered by someone else; as for our vs., acdg. to I.53.10 Indra made Kutsa, Āyu, and Atithigva subject (arandhanāyaḥ) to Tūrvayāṇa, who also appears by name in our pāda d. In both 8b and 13b the published translation follows the same strategy: co-opting the verb in c (vṛṇák in 8, ní śiśāḥ in 13) to govern not only the accusatives in its own pāda but also those in pāda b. This is syntactically a bit more complex in our vs. because b is a relative clause (with yád) so the unaccented verb of c cannot be applied to it directly. I still think this is the correct strategy in 8 and probably also here as well, but the presence of dat. asmai in b along with its likely referent tū́rvayāṇam in d makes me wonder if Geldner (n. 13b) may be right in simply supplying the verb found in the very phrase in I.53.10 tvám asmai kútsam atithigvám āyúm, … arandhanāyaḥ, despite the isolation of that passage and its distance from ours. (Alternatively we could use árdayaḥ, which governs the same three names in VIII.53.2, but there is no dat. there; and it is likewise isolated and distant.) Oldenberg (both ZDMG 55.323 and Noten) is also in favor of supplying such a verb. Note in passing that unaccented asyai in our b presupposes a referent already in the discourse, so it must be anticipating tū́rvayāṇam in d. For Tūrvayāṇa cf. the simile tū́rvan ná yā́man in nearby VI.15.5 with disc. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day the deed that thou hast done is famous, when thou, for him, with many thousand others  
      Laidest low Kutsa, Ayu, Atithigva, and boldly didst deliver Turvayana.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses dein getanes Werk soll noch heute gelten, daß du ihm den Kutsa, Ayu, Atithigva überantwortetest. Viele Tausende stachst du zu Boden; dem Turvayana hast du mutig herausgeholfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heut steh voran dies Werk, das du vollbrachtest, dass du den Kutsa, Aju, Atithigwa Zu Boden strecktest viele tausend diesem Turvajana und kühn heraus ihn führtest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет отмечено сегодня то совершенное тобою деяние,  
 Что Кутсу, Аю (и) Атитхигву (ты) ему (отдал).  

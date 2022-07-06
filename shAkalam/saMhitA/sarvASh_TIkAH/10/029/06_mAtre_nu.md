@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡त्रे नु꣡ ते सु꣡मिते इन्द्र पूर्वी꣡  
 द्यउ꣡र् मज्म꣡ना पृथिवी꣡ का꣡वियेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वा꣡द्मन् भवन्तु पीत꣡ये म꣡धूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वरा॑य । ते॒ । घृ॒तऽव॑न्तः । सु॒तासः॑ । स्वाद्म॑न् । भ॒व॒न्तु॒ । पी॒तये॑ । मधू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātre* ← *mātrā*
 - \[noun\], nominative, dual, feminine
@@ -123,37 +123,37 @@ genre M
 हे **इन्द्र** ते तव स्वभूतेन **मज्मना** शत्रूणां मज्जकेन **काव्येन** कर्मणा **द्यौः** **पृथिवी** द्यावापृथिव्यौ **नु** क्षिप्रं **सुमिते** निर्मिते । कीदृश्यौ । **मात्रे** निर्मात्र्यौ **पूर्वी** पूर्व्यौ महत्यौ। यस्मादीदृशेन महत्त्वेन युक्तः तस्मात् **घृतवन्तः** अग्निमुखत्वात् त्वां क्षरन्तो दीप्तिमन्तो वा सुसंस्कृतत्वात् यद्वाज्यसंयुक्ताः **सुतासः** अभिषुताः सोमाः **वराय** श्रेष्ठाय तुभ्यमिन्द्राय **स्वाद्मन्** **भवन्तु** । अस्माभिर्दत्ताः सन्तु । किमर्थम् । **पीतये** पानाय। **मधूनि** मधुररसात्मकानि पुरोडाशादीन्यन्नानि हवींषि भक्षणार्थं दत्तानि भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By your overwhelming energy, **Indra**, the vast heaven and earth, the measurers (of all), have beenquickly constructed; may the **Soma**-libations mixed with ghī be acceptable (to you) who are most excellent; (maythe oblations be) sweet for your drinking.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two copious “measures,” heaven and earth, are now well fixed by  your might, by your poetic skill.  
 Let the ghee-rich pressed soma-drinks be to your liking, let the  
 honey-drinks be in sweetness for your drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine are two measures, Indra, wide-wellmeted, heaven for thy majesty, earth for thy wisdom.  
      Here for thy choice are Somas mixed with butter: may the sweet meath be pleasant for thy drinking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden sind für dich, Indra, reichliche gutbemessene Maßstäbe: der Himmel an Größe, die Erde an Weisheit. Nach deinem Wunsche sollen die schmalzhaltigen Somasäfte sein, nach deinem Geschmack sollen die Süßtränke zum Trinken sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwei Weiten sind dir, Indra, schön gemessen, durch Kraft der Himmel und die Erd' durch Weisheit; Zur Freude seien dir die fetten Tränke, die süssen Säfte lieblich dir zum Trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А две меры твои, о Индра, хорошо измерены, мощные:  
 Небо – величием, Земля – мудростью.  

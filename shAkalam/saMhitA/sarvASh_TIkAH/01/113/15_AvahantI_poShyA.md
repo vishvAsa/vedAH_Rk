@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आव꣡हन्ती पो꣡षिया वा꣡रियाणि  
 चित्रं꣡ केतुं꣡ कृणुते चे꣡किताना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विभातीना꣡म् प्रथमो꣡षा꣡ वि꣡ अश्वैत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ई॒युषी॑णाम् । उ॒प॒ऽमा । शश्व॑तीनाम् । वि॒ऽभा॒ती॒नाम् । प्र॒थ॒मा । उ॒षाः । वि । अ॒श्वै॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
@@ -112,48 +112,48 @@ genre M
 **पोष्या** यावज्जीवं पोषणसमर्थानि **वार्याणि** वरणीयानि धनानि **आवहन्ती** अस्मभ्यमानयन्ती **चेकिताना** सर्वं जनं प्रज्ञापयन्ती **उषाः** **चित्रं** विचित्रमाश्चर्यभूतं चायनीयं वा **केतुं** प्रज्ञापकं रश्मिं कृत्स्नजगत्प्रकाशनसमर्थं **कृणुते** स्वात्मनः प्रकाशात् कुरुते। सैषा **ईयुषीणां** गमनवतीनां पूर्वनिष्पन्नानां **शश्वतीनां** बह्वीनामुषसाम् **उपमा** उप समीपे निर्मितोपमानभूता वा ”विभातीनां विशेषेण प्रकाशमानानामागामिनीनाम् उषसां **प्रथमा** आद्या एवंभूतोषाः **व्यश्वैत्** तेजसा प्रवृद्धासीत् ॥ पोष्या ।  ‘ पुष पुष्टौ ' । पोषणं पोषः। भावे घञ् । तत्र भवानि। ‘भवे छन्दसि ' इति यत् । यतोऽनावः इत्याद्युदात्तत्वम् ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । वार्याणि । ' वृङ् संभक्तौ ।  ‘ ऋहलोर्ण्यत् '। ' ईडवन्दवृशंसदुहां ण्यतः' इत्याद्युदात्तत्वम् । चेकिताना ।  ‘ कित ज्ञाने'। अस्मात् यङन्तात् लटः शानच् । 'छन्दस्युभयथा' इति तस्य आर्धधातुकत्वात् अतोलोपयलोपौ ।  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । ईयुषीणाम् । • इण् गतौ ' । लिटः क्वसुः । द्विर्भावादि ।  ‘ उगितश्च ' इति ङीप् । **वसोः** संप्रसारणम् ।  ‘ इणो यण्' इति यणादेशः ।  ‘ दीर्घ इणः किति ' इति अभ्यासस्य दीर्घत्वम् । शासिवसिघसीनां च' इति षत्वम् । ङीप्सुपौ पित्त्वादनुदात्तौ। विभातीनाम्।  ‘ भा दीप्तौ । अस्मात् शत्रन्तात् पूर्ववत् ङीप् । ‘ङ्याश्छन्दसि बहुलम्' इति नाम उदात्तत्वम् । अश्वैत् । टुओश्वि गतिवृद्धयोः'। लङि • बहुलं छन्दसि' इति विकरणस्य लुक्। गुणे कृते व्यत्ययेन ऐत्वम् ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bringing with her life-sustaining blessings, and giving consciousness (to the unconscious), she imparts (to the world) her wonderful radiance. The similitude of numerous dawns that have gone by, the first of the billiant (dawns that are to come), Uṣās has today appeared.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Conveying hither flourishing valuables, she makes herself a bright  beacon, showing herself ever more brightly.  
 The last of those who, one by one, have gone, the first of those  radiating forth—Dawn has whitened widely.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another in the series of ví SHINE verbs is found in d vy àśvait, whose ví is reinforced by the pāda-initial vi in vibhātīnā́m.
 
 Note also the chiastic phonetic figure in b: citráṃ ketúṃ kṛṇute cekitānā; the distribution of i and u vowels is also chiastic, but skips the verb. This is also a triple etymological figure, of course (minus kṛṇute).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bringing all life-sustaining blessings with her, showing herself she sends forth brilliant lustre.  
      Last of the countless mornings that have vanished, first of bright morns to come hath Dawn arisen.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 She brings upon it many bounteous blessings; Brightly she shines and spreads her brilliant lustre. Last of innumerable morns departed. First of bright morns to come, has Dawn arisen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gedeihliche erwünschte Gaben bringt sie mit; sie steckt das bunte Banner auf, die Augen auf sich ziehend. Als die letzte aller vergangenen, als die erste der Erstrahlenden ist Usas hell geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herbei nun fahrend nahrungsreiche Güter, erregt sie hellen Glanz, wenn sie erscheinet, Der hingegangnen letzte, und als erste der stets erneuten glänzt die Morgenröthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Привозя желанные дары, дающие процветание,  
 Она поднимает яркое знамя, давая о себе знать.  

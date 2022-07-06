@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकं꣡ वदन्ति बह꣡वो मनीषि꣡ण  
 इ꣡न्द्रस्य सो꣡मं जठ꣡रे य꣡द् आदुहुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡नीळाभिर् दश꣡भिः का꣡मियम् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यदि॑ । मृ॒जन्ति॑ । सुऽग॑भस्तयः । नरः॑ । सऽनी॑ळाभिः । द॒शऽभिः॑ । काम्य॑म् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃ* ← *sākam*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **मनीषिणः** मनस ईशितारः प्राज्ञाः **बहवः** स्तोतारः साकं सहैव युगपत् मन्त्रान् वदन्ति । तदा स्तुवन्ति । यदा **इन्द्रस्य** **जठरे** द्रोणकलशे सौमम् **आहः** ऋत्विजो दुदुहुः तदा भिष्ट्रवन्तीति । दुहेर्लिटयुसि रूपम् । द्विवचनस्य छन्दसि विकल्पितत्वादत्र द्विवंचनाभावः । किंच यदि थदा सुगभस्तयः शोभनबाहुकाः नरः कर्मचैतारो मनुष्याः कार्य काम्यमानं मधु मकर सीमें **सनीळाभिः** **दशभिः** दशसंख्याकाभिरङ्गुलीभिः **मृजन्ति** सोममभिषुण्वन्ति तदा वदन्तीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,36 +128,36 @@ Indra's belly: i.e., the droṇakalaśa; with their ten united fingers: sanilabh
 Sanīḷa = samānasthāna, samānanivāsa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The many inspired thinkers speak all at once, when they have milked the  soma into the belly of Indra,  
 when the men of skilled hands groom him, the desirable honey, with the  ten belonging to the same nest [=fingers].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subordinating yád appears fairly late in its clause in b, though what precedes it all belongs to the predicate (though consisting of two NPs).
 
 In c yádī must clearly be dissolved into yád ī, esp. given the parallelism between the subordinate clauses of b and cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The many sages utter words in unison, while into Indra's throat they pour the Soma juice,  
      When, with the ten that dwell together closely joined, the men whose hands are skilful cleanse the lovely meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Sinnreiche reden vereint, wenn sie den Soma in des Indra Bauch melken. Wenn ihn die Männer mit geschickten Händen putzen, mit den zehn verschwisterten Fingern den begehrenswerten Süßtrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zugleich erheben viele Weise den Gesang, wenn sie den Soma melken in des Indra Bauch, Wenn mit geschicktem Arm, mit zehn verschwisterten die Männer läutern den begehrten süssen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одновременно говорят многие хранители мудрости,  
 Когда выдаивают сому Индре в живот,  

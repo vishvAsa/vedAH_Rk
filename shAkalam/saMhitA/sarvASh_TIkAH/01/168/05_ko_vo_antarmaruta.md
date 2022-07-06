@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ वो अन्त꣡र् मरुत ऋष्टिविद्युतो  
 रे꣡जति त्म꣡ना ह꣡नुवेव जिह्व꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरुप्रइ꣡षा अहनि꣡यो न꣡ ए꣡तशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ध॒न्व॒ऽच्युतः॑ । इ॒षाम् । न । याम॑नि । पु॒रु॒ऽप्रैषाः॑ । अ॒ह॒न्यः॑ । न । एत॑शः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -125,21 +125,21 @@ genre M
 हे **मरुतः** हे **ऋष्टिविद्युतः** मेघभेदनायुधविशेषेण विद्योतमानाः युष्माकम् **अन्तः** युष्मासु मध्ये स्थित्वा **कः** पुमान् **रेजति** चालयति प्रेरयति । तर्हि कथं चालनमिति उच्यते । **त्मना** आत्मनैव । चालने दृष्टान्तः । **जिह्वया** **हन्वेव** ॥ द्विवचनस्य आकारः ॥ हनू इव । तौ यथा रसनया चाल्येते तद्वत् । यद्यप्येवं तथापि **इषाम्** अन्नानां तत्साधनानां सस्यानां **यामनि** प्राप्तौ समृद्ध्यर्थं **धन्वच्युतः** **न** । धन्वञ्छब्दोऽन्तरिक्षस्य वचनः । तेन तत्स्थमुदकं लक्ष्यते । उदकस्राविणो मेघा इव । ते यथा आकाङ्क्ष्यन्ते तथा युष्मान् अन्नादिप्राप्तये **पुरुप्रैषाः** बहुविधं फलमिच्छन् यजमानः स्तोत्रैर्बहुप्रकारमाकारयतीत्यर्थः । तत्र दृष्टान्तः । **अहन्यः** अह्नि भवः एतशः **न** अश्व इव । स यथा शिक्षकेण नानाप्रकारं प्राप्यते तद्वत् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, lightning-armed, who, (standing) amongst you, sets you of yourselves in motion, as the jaws are (set in motion) by the tongue; as falling rains(are essential) for the obtaining of food, so (those, desirous of sustenance), excite you in various ways, like a horse in (his) daily (training).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you Maruts with lightning as your spears, who is the one among  you who sets (the fixed places) to quivering by your own breath, like  someone with his tongue quivering between his jaws?  
 (You) who stir up the wastelands on your journey as if stirring  
 refreshments [=rain], who propel many, like Etaśa [=Sun’s horse] on  his daily round.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another vs. displaying Agastya’s tricky manipulation of double readings.
 
@@ -152,23 +152,23 @@ also Oldenberg, Geldner, Renou; Witzel Gotō take as instr. sg., which is morpho
 The third pāda continues Agastya’s crafty syntactic slippage between simile and frame. I take the gen. pl. iṣā́m as parallel to the 1st cmpd member dhanva- in dhanva-cyút- ‘stirring the wastelands, stirrer of the wastelands’. The simile would then be an analytic (i.e., de-compounded) *iṣā́ṃ cyút- ‘stirrer of refreshments’ parallel to the synthetic rt. noun cmpd. dhanva-cyút-. ‘Refreshments’ here probably refer to rain. For the root √cyu in this sense, see V.53.6 diváḥ kóśam ácucyavuḥ “The [=Maruts] have stirred the bucket of heaven,” and for íṣ- as rain, e.g., V.68.5 vṛṣṭídyāvā rītyā̀pā, iṣás pátī … (of Mitra and Varuṇa as lords of rain). This analysis allows the loc. yā́mani (like more common yā́man) to refer as usual to the Maruts’ journey. Geldner (/Witzel Gotō) and Scarlatta take yā́mani as part of the simile, resulting in a very unlikely image: Geldner “wie bei der Ankunft der Speisen,” with the shaking produced by the Maruts compared to that produced by a herd of cattle or by the wagons bringing in the harvest! (Renou’s rendering is close to mine.) The point of the last pāda is probably that the Maruts set many in motion, just as the Sun (or in this case, his stand-in, the Sun’s horse) sends people to their tasks on his daily appearance. The common property between simile and frame is purupraíṣa-. Although in I.145.3 praíṣa- in this cmpd seems to have the technical sense ‘ritual command’ common in later Vedic, I do not see that sense here, since neither the Maruts nor Etaśa issues such commands. Renou unaccountably takes the second member as passive: “vous qui êtes multiplement incités.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who among you, O Maruts armed with lightning-spears, moveth you by himself, as with the tongue his jaws?  
      Ye rush from heaven's floor as though ye sought for food, on many errands like the Sun's diurnal Steed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer macht euch selbst, ihr speerblitzenden Marut, im Innern erzittern wie mit der Zunge zwischen den Kinnbacken? Die das feste Land erschüttern wie bei Ankunft der Speisen, viel befehlend täglich erscheinend wie Etasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer unter euch, o Maruts, speererglänzende, bewegt euch recht wie Backen, wenn die Zunge schlürft? Den Boden stampft ihr, wenn ihr zu den Tränken eilt, weithingebietend wie des Tages Sonnenross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Маруты с копьями-молниями, кто заставляет вас самих внутри  
 Дрожать, подобно языку между двух челюстей?  

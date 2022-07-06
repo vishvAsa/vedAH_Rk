@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ शे꣡वृधम् अ꣡धि धा द्युम्न꣡म् अस्मे꣡  
 म꣡हि क्षत्रं꣡ जनाषा꣡ळ् इन्द्र त꣡व्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राये꣡ च नः सुअपत्या꣡ इषे꣡ धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रक्ष॑ । च॒ । नः॒ । म॒घोनः॑ । पा॒हि । सू॒रीन् । रा॒ये । च॒ । नः॒ । सु॒ऽअ॒प॒त्यै । इ॒षे । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -141,37 +141,37 @@ genre M
 हे **इन्द्र** **सः** त्वम् **अस्मे** अस्मासु **द्युम्नं** यशः **अधि** **धाः** अधिनिधेहि । कीदृशमित्याह । **शेवृधम्** । शं शमनम् । रोगाणां शमने सति यत् वर्धते तादृशम् । तथा **महि** महत् **जनाषाट्** शत्रुजनानामभिभवितृ **तव्यं** प्रवृद्धं **क्षत्रं** बलं च अधि धा इति शेषः । किंच हे इन्द्र **नः** अस्मान् **मघोनः** धनवतः कृत्वा **रक्ष** पालय । **सूरीन** विदुषोऽन्यानपि **पाहि** पालय । तथा **राये** धनाय **च** **स्वपत्यै** शोभनपुत्रयुक्ताय **इषे** अन्नाय **च** **नः** अस्मान् **धाः** धेहि स्थापय ॥ धाः ॥  ‘ छन्दसि लुङ्लङ्लिटः' इति प्रार्थनायां लुङि • गातिस्था° ' इति सिचो लुक् । ' बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । अस्मे । ‘सुपां सुलुक् ' इति अस्मच्छब्दात् सप्तम्याः शेआदेशः । जनाषाट् । जनान् सहते इति जनाषाट् । छन्दसि सहः' ( पा. सू. ३. २. ६३ ) इति ण्विः ।  ‘ अत उपधायाः' इति वृद्धिः ।  ‘ सहेः साडः सः ' ( पा. सू. ८. ३. ५६) इति षत्वम् । अन्येषामपि दृश्यते ' इति पूर्वपददीर्घः । तव्यम् । तवतिर्वृद्ध्यर्थः सौत्रो धातुः ।  ‘ अचो यत्' इति यत् । गुणे  ‘ धातोस्तन्निमित्तस्यैव ' ( पा. सू. ६. १. ८०) इति अवादेशः ।  ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । रक्ष । ‘रक्ष पालने'। शपः पित्त्वादनुदात्तत्वे धातुस्वरः।  ‘ द्व्यचोऽतस्तिङः' इति दीर्घत्वम् । मघोनः ।  ‘ श्वयुवमघोनामतद्धिते ' इति शसि संप्रसारणम् । पाहि । अदादित्वात् शपो लुक् । हेः अपित्त्वात् तस्यैव स्वरः शिष्यते । मघोनः इत्यस्य वाक्यान्तरगतत्वात् निघाताभावः । स्वपत्यै । शोभनान्यपत्यानि यस्याः सा तथोक्ता ।  ‘ नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । “ जसादिषु च्छन्दसि वावचनम्' इति ' याडापः ' ( पा. सू. ७. ३. ११३ ) इति याडागमाभावे ' वृद्धिरेचि' (पा. सू. ६. १, ८८ ) इति वृद्धिः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Indra**, increasing reputation; (bestow upon us) great, augmenting, and foe subduing strength; preserve us in affluence; cherish those who are wise; and supply us with wealth from which proceed excellent progeny and food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Establish in us brilliance increasing in benevolence and your great and  mighty sovereignty, o Indra, as vanquisher of the peoples.  
 Guard those generous to us and protect our patrons. Destine us for  
 wealth and for nourishment bringing good descendants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So give us, Indra, bliss-increasing glory give us great sway and strength that conquers people.  
      Preserve our wealthy patrons, save our princes; vouchsafe us wealth and food with noble offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verleih du, Indra, uns glückmehrenden Glanz, große Macht, völkerbezwingende, starke! Behüte unsere Gönner, schütze die Opferherren und verhilf uns zu Reichtum und kindergesegneter Nahrung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So gib uns, Indra, Gut, das Heil uns schaffe, und grosse, starke, mächt'ge Männerherrschaft, Beschütze uns und unsre reichen Fürsten, und gib uns Schatz und kinderreiche Wohlfahrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возложи на нас блеск, увеличивающий счастье,  
 Великую власть, сильную, о Индра, покоряющий людей!  

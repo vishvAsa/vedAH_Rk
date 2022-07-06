@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षाय꣡म् इन्द्र ते र꣡थ  
 उतो꣡ ते वृ꣡षणा ह꣡री  
 वृ꣡षा तुवं꣡ शतक्रतो वृ꣡षा ह꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 वृषा॑ । त्वम् । श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो । वृषा॑ । हवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣāyam* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -102,37 +102,37 @@ genre M;; line affected by realignment
 हे **इन्द्र** **ते** त्वदीयः **अयं** **रथः** **वृषा** कामानां वर्षिता । **उतो** अपि च **ते** तव **हरी** अश्वौ **वृषणा** वृषणौ वर्षितारौ। हे **शतक्रतो** बहुकर्मन् बहुप्रज्ञ वेन्द्र **त्वं** च **वृषा** वर्षिता कामानाम् । तथा **हवः** त्वद्विषयमाह्वानं च **वृषा** वर्षिता । त्वद्विषयमाह्वानमपि कामान् वर्षति । किमु वक्तव्यं त्वदीया रथादयो वर्षन्तीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your chariot, **Indra**, is a showerer (of benefits), showerers (of benefits) are your horses; you alsoŚatakratu, are the showerer (of benefits) the invocation (addressed to you) is the showerer (of benefits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A bull is this chariot of yours, Indra, and your fallow bays are  
 also bulls.  
 A bull are you, o you of a hundred resolves, and our call is a bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, strong is this thy car, and strong are these Bay Steeds of thine:  
      O Satakratu, thou art strong, strong is our call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullengleich ist dieser dein Wagen, Indra, und bullengleich sind deine Falben. Bullengleich bist du, Ratreicher, bullengleich der Ruf nach dir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Wagen, Indra, ist ein Stier, und Stiere deiner Füchse Paar, Ein Stier du selbst, schönwirkender, ein Stier der Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык, о Индра, эта твоя колесница,  
 А также быки – пара твоих буланых коней,  

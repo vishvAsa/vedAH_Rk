@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रयिं꣡ दिवो दुहितरो विभातीः꣡  
 प्रजा꣡वन्तं यछतास्मा꣡सु देवीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रियस्य प꣡तयः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्यो॒नात् । आ । वः॒ । प्र॒ति॒ऽबुध्य॑मानाः । सु॒ऽवीर्य॑स्य । पत॑यः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
@@ -108,36 +108,36 @@ genre M
 हे **दिवो** **दुहितरः** द्योतमानस्यादित्यस्य दुहितृस्थानीयाः **विभातीः** विभात्यो विशेषेण भानं कुर्वत्यः **अस्मासु** **प्रजावन्तं** **रयिं** पुत्राद्युपेतं धनं **यच्छत** दत्त । हे **देवीः** देव्यः **स्योनात्** सुखात् निमित्तभूतात् **वः** युष्मान् प्रतिबुध्यमानाः प्रतिबोधयन्तो वयं **सुवीर्यस्य** **पतयः** **स्याम** । पुत्रादिसहितस्य धनस्य पालका भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine, resplendent daughters of heaven, bestow upon us wealth, comprehending progeny; awaking you for our benefit, may we be the lords of excellent descendants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O daughters of Heaven, radiating widely, bestow on us wealth in  offspring, o goddesses.  
 Being awakened from a comfortable place in response to you, may we  be lords of an abundance of heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Goddesses, O Heaven's refulgent Daughters, bestow upon us wealth with store of children.  
      As from our pleasant place of rest ye rouse us may we be masters of heroic vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Himmelstöchter, ihr Göttinnen gewähret erstrahlend uns kinderreichen Besitz! Indem wir vom behaglichen Sitze aus euch heranwachen, wollen wir Besitzer guter Söhne werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Himmelstöchter, glänzende, verleihet, Göttinnen ihr, uns kinderreichen Wohlstand; Die wir aus weichem Lager euch erweckten, uns lasset Herren sein von Heldenscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О дочери неба, ярко сияя, даруйте  
 Нам богатство, состоящее из потомства, о богини!  

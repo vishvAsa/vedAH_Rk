@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡ज् ज꣡नौ सुध꣡नौ विश्व꣡शर्धसाव्  
 अ꣡वेद् इ꣡न्द्रो मघ꣡वा गो꣡षु शुभ्रि꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उ꣡द् ईं ग꣡व्यं सृजते स꣡त्वभिर् धु꣡निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 युज॑म् । हि । अ॒न्यम् । अकृ॑त । प्र॒ऽवे॒प॒नी । उत् । ई॒म् । गव्य॑म् । सृ॒ज॒ते॒ । सत्व॑ऽभिः । धुनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -145,20 +145,20 @@ genre M
 **सम्** अवेत् संजानाति **यत्** यदा **जनौ** परस्परप्रतिद्वन्द्विनौ **सुधनौ** शोभनधनौ **विश्वशर्धसौ** व्याप्तबलौ बहूत्साहौ वा **मघवा** धनवान् **इन्द्रः** **गोषु** **शुभ्रिषु** शोभनासु गोषु निमित्तभूतासु **अन्यं** यष्टारं **युजं** सहायम् **अकृत** कृतवान् **प्रवेपनी** शत्रूणां प्रवेपनवान् । **ईम्** अस्मै **गव्यं** गोसमूहम् **उत्** **सृजते** **सत्वभिः** मरुद्भिः सह **धुनिः** मेघानां कम्पयिता । इन्द्रो यजमानम् अयजमानं वा यं जानाति गोनिमित्तं ज्ञात्वा यज्वने गोसमूहं प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Indra**, the possessor of opulence, discriminates between two men, both wealthy, and exerting themselves (against each other) for the sake of valuable cattle, he takes one of them as his associate, causing (his adversaries) to tremble, and the agitator (of the clouds), together with the **Maruts**, bestows upon him herds of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the two wealthy peoples with all their troops (clashed) together,  Indra the bounteous pursued (them) in the (battles for) resplendent  cattle.  
 Since the shaker has made one of them his yokemate, he drives up for  himself the bovine (wealth) (of the other)—the tumultuous one along  with his warriors.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the verb ávet in b is disputed. Grassmann takes it as an opt. to √av ‘help’; Oldenberg rejects that analysis but suggests that either √vid ‘know’ or √vī ‘pursue’ is possible. Geldner and Witzel Gotō (see also Oberlies RdV I.535) opt for √vid and take the rest of the ab as indirect discourse controlled by this verb (“when he found out that …”).
 
@@ -173,23 +173,23 @@ The def. anyám ‘the one’ in c, referring to one of the two opponents in ab,
 Oldenberg questions the existence of the stem pravepanín-, suggesting that pravepanī́is an adverbial instr. to a pravepanī́- (fld. by Witzel Gotō). I don’t see that a stem pravepanī́- is appreciably better than an -ín-stem and follow the older analysis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Indra Maghavan hath marked two wealthy men fighting for beauteous cows with all their followers,  
      He who stirs all things takes one as his close ally, and, Shaker, with his Heroes, sends the kine to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der freigebige Indra erfahren hat, daß zwei reiche Volksstämme vollständig gerüstet sind zum Kampf um schmucke Kühe, da verbündet sich nämlich der Schreckensverbreiter mit dem einen und er treibt die Rinderherde des anderen mit den Kriegern lärmend aus der Hürde heraus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn der gewalt'ge Indra zwei sehr mächt'ge Herrn mit ihrem Heer zum Kampf um schöne Rinder treibt, Dann nimmt den einen sich zum Freund der schreckliche, ergiesst ihm, stürmend mit den Tapfern, Rindbesitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если щедрый Индра узнал, что два очень богатых народа  
 Полностью вооружились (для захвата) прекрасных коров,  

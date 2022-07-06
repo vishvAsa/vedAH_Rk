@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था ह त्य꣡द् वसवो गौरि꣡यं चित्  
 पदि꣡ षिता꣡म् अ꣡मुञ्चता यजत्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ तारि अग्ने प्रतरं꣡ न आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ए॒वो इति॑ । सु । अ॒स्मत् । मु॒ञ्च॒त॒ । वि । अंहः॑ । प्र । ता॒रि॒ । अ॒ग्ने॒ । प्र॒ऽत॒रम् । नः॒ । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -144,21 +144,21 @@ genre M
 **यजत्राः** यजनीयाः पूजार्हा हे **वसवः** निवासयितारः अग्नयः यूयं **यथा** **ह** यथैव **त्यत्** त्यां तां **पदि** पादे **सितां** बद्धां **गौर्यं** **चित्** गौरीं गामपि **अमुञ्चत** त्यक्तवन्तो भूयास्त । **एवो** एवमेव **अस्मत्** अस्मत्तः **अंहः** पापं **सु** अत्यन्तं **वि** **मुञ्चत** विमुक्तं कुरुत । बहुवचनं पूजार्थम् । हे **अग्ने** त्वया **प्रतरं** प्रवृद्धं **नः** अस्मदीयम् **आयुः** **प्र** **तारि** प्रवृद्धं क्रियताम् ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable **Vasus**, in like manner as you have liberated the cow bound by the foot, so set us free entirely from sin; and may our existence, **Agni**, be prolonged.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as then you released the buffalo-cow bound by the foot, you good  ones worthy of the sacrifice,  
 so release constraint from us. (Let) our lifetime be further  
 lengthened, Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the plural addressees in this vs. are almost surely the Ādityas; the vs. is repeated in X.126.8, where the referents are clearly the Ādityas.
 
@@ -167,28 +167,28 @@ The comparison “just as you released the buffalo-cow bound by the foot” is p
 not fem. Other RVic occurrences of gaurī́- are not helpful.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as ye here, Gods Excellent and Holy, have loosed the cow that by the foot was tethered,  
      So also set us free from this affliction long let our life, O Agni, be extended.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 As you formerly have released, O Vasus, the buffalo cow bound by the foot, O worshipful gods, thus take away from us this distress. May, O Agni, our life be further prolonged.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ihr Götter damals die Gaurikuh, die am Fuß gefesselt war, befreitet, ihr Opferwürdige, so löset fein von uns die Pein! Es werde unser Leben weiter verlängert, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie einst ihr löstet die am Fuss verstrickte, die Büffelin, ehrwürd'ge ihr, o gute, So löst auch ab von uns jedwedes Drangsal; weit dehne aus sich, Agni, unser Leben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

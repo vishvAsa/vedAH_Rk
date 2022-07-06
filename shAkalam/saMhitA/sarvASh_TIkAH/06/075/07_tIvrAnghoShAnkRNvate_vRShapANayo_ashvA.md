@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तीव्रा꣡न् घो꣡षान् कृण्वते वृ꣡षपाणयो  
 अ꣡श्वा र꣡थेभिः सह꣡ वाज꣡यन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षिण꣡न्ति श꣡त्रूँर् अ꣡नपव्ययन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒व॒ऽक्राम॑न्तः । प्रऽप॑दैः । अ॒मित्रा॑न् । क्षि॒णन्ति॑ । शत्रू॑न् । अन॑पऽव्ययन्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tīvrān* ← *tīvra*
 - \[noun\], accusative, plural, masculine
@@ -114,7 +114,7 @@ popular
 अत्र अश्वस्तुतिः । **अश्वाः** **वृषपाणयः** पांसूनां वर्षकखुराः **रथेभिः** रथैः **सह** **वाजयन्तः** वेगमाचरन्तः **तीव्रान्** उच्चतरान् **घोषान्** शब्दान् **कृण्वते** कुर्वते । किंच **अनपव्ययन्तः** अपलायमानाः **अमित्रान्** हिंसकान् **शत्रून्** **प्रपदैः** पादाग्रैः **अवक्रामन्तः** **क्षिणन्ति** हिंसन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ The horses raising: vṛṣapāṇayo **aśvaḥ** = pāṃsunām varṣakakhura
 **Aśvavāra** = riders: vṛṣab **aśvāḥ** haste yeṣām te **aśvavāraḥ**; this is the nominative native of kṛṇvate ghoṣān, calling out, **jaya**, jaya; āśeva, the horses make a noise; heṣādi śabdān, neighing, and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They make their sharp cries—the bullish-hooved horses along with the  chariots, as they seek the prize,  
 trampling down the enemies with their forefeet, they destroy our rivals,  without (even) divesting (them of their armor).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The middle of kṛṇvate is nicely appropriate.
 
@@ -146,23 +146,23 @@ Moreover, Ian Hollenbaugh points out that it would be the front of the horses’
 The sense of ánapavyayantaḥ is disputed, or rather most tr. water down what I think its sense must be. It’s a negated part. to ápa √vyā ‘strip off, divest’ of garments, to √vyā ‘envelop, wrap’. See VII.81.1 ápo máhi vyayati … támaḥ “She [Dawn] unwraps the great darkness.” But most tr. attenuate this in some way that loses the sense of the root entirely, e.g., Geldner “ohne sich zu entziehen” (withdraw oneself), Griffith “never flinching,” Keith “unflinchingly,” Doniger “without veering away,” Maurer “unrelenting”; Renou (EVP) assigns it to a different root: ápa-veti ‘cesser’ (whose participle should be *-vyant-; he doesn’t deal with the morphology), though in Hymnes spéc. he tr. “sans même s'écarter (de leur voie).” I think we should take the form seriously and I suggest that it means that the horses’ trampling is so powerful that it can kill a man even while he is still in armor (hence my “without divesting”). That the form is underlyingly transitive (as I have just claimed) is disputed on principle by Lowe (Participles in Rigvedic Sanskrit, 277), where he argues that negated participles are (“almost always”) intransitive and tr. this ex. as “without withdrawing.” I would dispute the principle and therefore his interpr. of this passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Horses whose hoofs rain dust are neighing loudly, yoked to the Chariots, showing forth their vigour,  
      With their forefeet descending on the foemen, they, never flinching, trample and destroy them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heftiges Getöse machen die starkhufigen Rosse samt den Wagen, die kampflustigen, mit den Fußspitzen die Gegner niedertretend vernichten sie die Feinde, ohne sich zu entziehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit starken Hufen lärmen laut die Rosse, in schnellem Laufe mit den Wagen eilend; Die Feinde niedertretend mit den Hufen, vernichten sie die Gegner unablässig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Страшный шум поднимают кони с мощными копытами,  
 Рвущиеся к награде вместе с колесницами.  

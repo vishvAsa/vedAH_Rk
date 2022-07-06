@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तश् चिद् इन्द्र ण उ꣡प  
 आ꣡ याहि शत꣡वाजया  
 इषा꣡ सह꣡स्रवाजया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इ॒षा । स॒हस्र॑ऽवाजया ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ataś* ← *atas*
 - \[adverb\]
@@ -90,35 +90,35 @@ genre M
 हे **इन्द्र** **अतश्चित्** अस्मात् द्युलोकादेव यद्वास्मात् शत्रुस्थानात् **शतवाजया** शतसंख्याकबलयुक्तेन तथा **सहस्रवाजया** । वाजोऽन्नम् । सहस्रसंख्यान्नवता बहुबलान्नेन **इषा** अन्नरसेन युक्तः सन् **नः** अस्मान् **उपा** **याहि** अधिकमाभिमुख्येनागच्छ ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, **Indra**, from there with food of a hundred-fold strength, of a thousand-fold strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even from yonder, Indra, drive up close to us with hundred-prized, thousand-prized refreshment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even thence, O 1ndra, come to us with food that gives a hundred powers,  
      With food that gives a thousand powers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch von dort komm her zu uns, Indra, mit Speisesegen, der hundertfachen, tausendfachen Lohn enthält!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dort, o Indra, komme her mit Nahrung zu uns, die erlabt Uns hundertfach und tausendfach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

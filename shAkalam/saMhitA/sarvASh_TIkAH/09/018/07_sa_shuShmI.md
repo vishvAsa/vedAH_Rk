@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ शुष्मी꣡ कल꣡शेषु आ꣡  
 पुनानो꣡ अचिक्रदत्  
 म꣡देषु सर्वधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मदे॑षु । स॒र्व॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 उक्तरीत्या महान् **सः** सोमः **शुष्मी** बलवान् **पुनानः** पूयमानः सन् **आ** **अचिक्रदत्** शब्दं करोति । अत्र सर्वत्र यथोचितमुत्तरपादो नेयः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This vigorous **Soma**, while being purified, murmurs in the pitchers; you are the giver of all things to those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, tempestuous in the tubs, kept roaring while being purified.  
 – You are the one who confers wholeness in the raptures of exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because of the rel. cl. / main cl. structure of vss. 4-7 (see above), I would lightly emend to the tr. to “he/that one, tempestuous in the tubs, kept roaring …,” to display this structure more clearly.
 
@@ -112,23 +112,23 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Strong One, being purified, hath in the pitchers cried aloud:  
      All-bounteous art thou in carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Ungestüme hat sich läuternd in den Krügen gebrüllt. - Im Rausche bist du der Allgewährer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wieherte, der feurige, gereiniget den Schalen zu; Bei den Gelagen schenkst du Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот неистовый, очищаясь,  
 Громко заревел в кувшинах.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ दुष्टुती꣡ म꣡र्तियो विन्दते व꣡सु  
 न꣡ स्रे꣡धन्तं रयि꣡र् नशत्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 देष्णं꣡ य꣡त् पा꣡रिये दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽशक्तिः॑ । इत् । म॒घ॒ऽव॒न् । तुभ्य॑म् । माऽव॑ते । दे॒ष्णम् । यत् । पार्ये॑ । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -115,36 +115,36 @@ genre M
 **मर्त्यः** मनुष्यः **दुष्टुती** दुष्टुत्या **वसु** धनं **न** विन्दते । इन्द्रं स्तुवन्नेव वसु लभत इत्यर्थः । **स्रेधन्तं** हिंसन्तम् । इन्द्रविषयस्तुत्यादिकर्माण्यकुर्वन्तमित्यर्थः। **रयिः** धनं **न** **नशत्** न व्याप्नोति । हे **मघवन्** त्वया **पार्ये** **दिवि** सौत्ये दिवसे **मावते** मत्सदृशाय **देष्णं** दातव्यं **यत्** धनमस्ति तत् **तुभ्यं** त्वत्तः **सुशक्तिरित्** सुकर्मैव । विन्दत इति व्यवहितमप्यनुषज्यते अध्याहारस्यान्तिकत्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A man acquires not wealth by unbecoming praise; affluence devolves not upon one obstructing(sacrifice) in you, **Maghavan**, is the power whereby bounty (may be shown) to such as I am on the day of libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not by a bad(ly made) praise does a mortal find goods, nor will wealth  reach the one who fails.  
 It’s an easy skill for you, bounteous one—giving to the likes of me on  the decisive day.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A moral wins no riches by unworthy praise: wealth comes not to the niggard churl.  
      Light is the task to give, O Maghavan, to one like me on the decisive day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht findet ein Sterblicher durch schlechtes Loblied Gut, nicht kommt der Reichtum zu dem, der stecken bleibt. Für dich, du Gönner, ist es eine Leichtigkeit, meinesgleichen an dem entscheidenden Tage zu schenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch schlechtes Lob erlangt nicht Gut der Sterbliche, nicht Reichthum der, der falsch verfährt; Sehr schönes Gut besitzest, reicher, du für mich, als Gabe am Entscheidungstag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С плохой хвалою смертный не находит блага.  
 Богатство не попадает к оступающемуся.  

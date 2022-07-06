@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षासि दिवो꣡ वृषभः꣡ पृथिव्या꣡  
 वृ꣡षा सि꣡न्धूनां वृषभ꣡ स्ति꣡यानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वादू꣡ र꣡सो मधुपे꣡यो व꣡राय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृष्णे॑ । ते॒ । इन्दुः॑ । वृ॒ष॒भ॒ । पी॒पा॒य॒ । स्वा॒दुः । रसः॑ । म॒धु॒ऽपेयः॑ । वरा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣāsi* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 हे इन्द्र त्वं **दिवः** द्युलोकस्य **वृषासि** । हविर्भिः सेक्ता भवसि । **पृथिव्याः** भूमेश्च **वृषभः** कामानां वर्षिता । **सिन्धूनां** स्यन्दनशीलानां च नदीनां **वृषा** वर्षेण पूरयितासि । तथा **स्तियानां** संघीभूतानां स्थावरजङ्गमात्मनां प्राणिनां **वृषभः** कामानां वर्षिता भवसि । यद्वा । स्तियाः संघीभूता आपः । तासां वर्षितासि । **वृषभ** कामानां वर्षकेन्द्र **वराय** श्रेष्ठाय **वृष्णे** सेक्त्रे **ते** तुभ्यं त्वदर्थं  **स्वादुः** मधुरः **रसः** रसनीयः प्रशस्यो रसवान् वा रसात्मको वा **मधुपेयः** मधुवत् पातव्यः **इन्दुः** सोमः **पीपाय** प्यायते वर्धते । अतस्त्वमागत्य तं सोमं पिबेति भावः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Note the use of derivative of **vṛṣa**, to sprinkle, to rain; Indra's horses are **vṛṣaṇa**; they draw a vṛṣa **ratha**; and are guided by vṛṣarasmayaḥ; again, the steeds are vṛṣaṇa = nityatāruṇnu, always young, and Indra is **vṛṣan**, vṛṣ, and **vṛṣabha**, the showerer of rain or of benefits; perhaps, in all these metaphors, a grosser sense is perhaps implied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the bullish bull of heaven and of earth, the bullish bull of the  rivers and of the standing waters.  
 O bull, for bullish you the drop has swelled, the sweet sap, the honeyed  drink, to your liking.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Given the parallelism of the phrase vṛ́ṣā síndhūnāṃ vṛṣabhá stíyānām, it is clear that the gen. pl. stíyānām must be in semantic complementarity with síndhūnām ‘of the rivers’. Almost the same pair is found in VII.5.2, with a substitution for the first nom.: netā́síndhūnāṃ vṛṣabhá stíyānām. Grassmann glosses stíyā- ‘Schneefeld, Gletscher’, but, given the relative lack of attention to snow and the like in the RV once the Indo-Aryans had left the high mountains mostly behind, some other type of water contrasting with rivers seems more likely -- with Geldner’s “der stehenden Gewässer” a likely alternative (cf. also Lüders, Varuṇa I.144). Renou’s “eauxstagnantes” (EVP XIII.56 and 141), though expressing a similar contrast, is less appealing because of the negative implication of “stagnant waters”: would Indra really want to be their bull? The question then is what the form is derived from; EWA classifies it with the root √styā ‘be stiff’, of limited attestation in Skt. but found also in MIA, which seems reasonable. However, I am tempted to see a primary or secondary association with √sthā ‘stand’, since forms of this root (with the sense ‘stand still’) can be used of waters. Cf., e.g., the famous phrase describiing the rushing of the waters freed by Indra in the Vṛtra battle in I.32.10 átiṣṭḥantīnām “of those (waters) not standing still.” Renou (EVP XIII.141) in a lapidary comment -- “fait comme díya-” -- seems to hint at a direct derivation (díya- to √dā, then stíya- to √sthā) without pursuing it, and Lubotsky (System, 104) tentatively suggests that it belongs to an *-i-enlarged form of √*steh2, viz. *steh2-i-, but doesn’t further spell out the details. The trick of course is to keep the laryngeal from aspirating the t; if we start with Lubotsky’s root, the zero-grade *sth2-i- would presumably metathesize to *stih2 (as with √pā(y) ‘drink’: pītá-), which would yield stiy- before a vowel. But I have no commitment to such an analysis. In any case it is impossible to tell whether the form belongs to a short or a long a/ā stem, since it only shows up in the gen. pl.
 
@@ -157,23 +157,23 @@ The concentration on the bull words leaves little room or energy for other poeti
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Bull of earth, the Bull of heaven, Bull of the rivers, Bull of standing waters.  
      For thee, the Strong, O Bull, hath Indu swollen. juice pleasant, sweet to drink, for thine election.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Riese des Himmels, der Bulle der Erde, der Riese der Flüsse, der Bulle der stehenden Gewässer. Für dich, den Riesen, o Bulle, fließt der Trank, der schmackhafte Saft, süß zu trinken, nach Wunsch über.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Stier bist du des Himmels, Stier der Erde, der Ströme Stier und Stier der schnee'gen Gletscher; Es schwoll an dir, dem Stier, der Stier, der Indu, der süsse Saft, der Honigtrank zur Wonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты бык неба, бык земли,  
 Бык рек, бык стоячих вод.  

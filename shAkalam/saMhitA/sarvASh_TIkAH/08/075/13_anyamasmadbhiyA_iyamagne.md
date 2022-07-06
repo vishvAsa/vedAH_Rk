@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्य꣡म् अस्म꣡द् भिया꣡ इय꣡म्  
 अ꣡ग्ने सि꣡षक्तु दुछु꣡ना  
 व꣡र्धा नो अ꣡मवच् छ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वर्ध॑ । नः॒ । अम॑ऽवत् । शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वदीया **इयं** **दुच्छुना** बाधकसंहतिः **अस्मत्** **अन्यम्** अस्तोतारं **भियै** भयाय **सिषक्तु** सेवताम् । त्वं च **नः** अस्माकम् **अमवत्** बलोपेतं **शवः** वेगं **वर्ध** वर्धय संग्रामे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, may your plural gues pursue some other to terrify him; increase our vigorous strength in battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this misfortune here follow some other one than us, to frighten him,  o Agni.  
 Strengthen our power of attack.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, let this plague pursue and fright another and not us:  
      Make our impetuous strength more strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einen anderen als uns soll zum Schrecken dieses Unheil heimsuchen, o Agni! Mehre unsere gewaltige Macht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht uns verfolge schreckensvoll, o Agni, dieses Ungemach Vermehre unsre kühne Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

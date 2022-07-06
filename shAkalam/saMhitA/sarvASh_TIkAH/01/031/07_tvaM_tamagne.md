@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡म् अग्ने अमृतत्व꣡ उत्तमे꣡  
 म꣡र्तं दधासि श्र꣡वसे दिवे꣡-दिवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡यः कृणो꣡षि प्र꣡य आ꣡ च सूर꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । त॒तृ॒षा॒णः । उ॒भया॑य । जन्म॑ने । मयः॑ । कृ॒णोषि॑ । प्रयः॑ । आ । च॒ । सू॒रये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -140,7 +140,7 @@ genre M
 हे **अग्ने** **त्वं** **तं** **मर्तं** तथाविधं त्वत्सेविनं मनुष्यं **दिवेदिवे** प्रतिदिनं **श्रवसे** अन्नार्थम् **उत्तमे** **अमृतत्वे** उत्कृष्टमरणरहिते पदे **दधासि** धारयसि। **यः** यजमानः **उभयाय** जन्मने द्विविधजन्मार्थं द्विपदां चतुष्पदां च लाभायेत्यर्थः । **ततृषाणः** अतिशयेन तृष्णायुक्तो भवति तस्मै 'सूरये अभिज्ञाय यजमानाय **मयः** सुखं, यद्वै सुखं तन्मयः' इति श्रुत्यन्तरात् । **प्रयः** **च** अन्नमपि **आ** **कृणोषि** सर्वतः करोषि ॥ ततृषाणः । ‘ञितृषा पिपासायाम्। लिटः कानच् । चित्त्वादन्तोदात्तत्वम् । संहितायां दीर्घश्छन्दसः । कृणोषि । ‘कृधि हिंसाकरणयोश्च । ‘धिन्विकृण्व्योर च' इति उप्रत्ययः । ‘चादिलोपे विभाषा ' इति निघातप्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,39 +151,39 @@ genre M
 Both kinds of birth: dvipadām catuṣpadām lābhāya, to acquire bipeds and quadrupeds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, establish that mortal in highest immortality for fame day  after day,  
 you who, yourself thirsting, create refreshment for both breeds [=men  and gods] and a pleasurable meal here for the patron.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though both Geldner and Renou make amṛtatvé ‘immortality’ and śrávase syntactically parallel, despite superficial appearances they are in different cases and should be so rendered. In the 2nd hemistich kṛṇóṣi has a complex direct and indirect object phrase: ubháyāya jánmane máyaḥ kṛṇóṣi práya ā́ca sūráye, with the chiasmic structure DAT.- IO ACC-DO VERB ACC-DO DAT-IO arranged around the verb. In such a structure we might expect coordinating ca to be positioned immediately after the 1st term of the second object complex, that is, after práyaḥ (práyaś ca); see Klein DGRV I.54 and passim. The interruption of this balanced construction by ā́is also curious; the point seems to be that Agni makes refreshment for the first, mixed set of beneficiaries in an unspecified place but the meal for the patron right here (ā́) on the ritual ground. It may be that the propensity of ca to follow preverbs in tmesis (/adverbal usage) has dictated the position; Klein implies as much (DGRV I.134 and n. 49, 227).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For glory, Agni, day by day, thou liftest up the mortal man to highest immortality,  
      Even thou who yearning for both races givest them great bliss, and to the prince grantest abundant food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, keepest that mortal 1 in the highest immortality, in glory day by day, (thou) who being thirsty thyself 2 givest happiness to both races (gods and men), and joy to the rich.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni bringst den Sterblichen zur höchsten Unsterblichkeit, zu Ruhm Tag für Tag, der du selbst durstig beiderlei Volk Erquickung schaffst und dem freigebigen Patron ein Labsal.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, führst den Menschen zur Unsterblichkeit zur höchsten, schaffest grossen Ruhm ihm Tag für Tag, Der du begierig Göttern und dem Menschenstamm Vergnügen schaffst und auch dem Fürsten Huld gewährst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, смертного переносишь  
 В высшее бессмертие, в славу, (длящуюся) день за днем  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शके꣡म त्वा समि꣡धं साध꣡या धि꣡यस्  
 तुवे꣡ देवा꣡ हवि꣡र् अदन्ति आ꣡हुतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्वम् । आ॒दि॒त्यान् । आ । व॒ह॒ । तान् । हि । उ॒श्मसि॑ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śakema* ← *śak*
 - \[verb\], plural, Aorist optative
@@ -141,7 +141,7 @@ genre M;; repeated line
 हे **अग्ने** **त्वा** त्वां **समिधं** सम्यगिद्धं कर्तुं **शकेम** शक्ता भूयास्म । त्वं च **धियः** अस्मदीयानि दर्शपूर्णमासादीनि कर्माणि **साधय** निष्पादय । त्वया हि सर्वे यागा निष्पाद्यन्ते । यस्मात् **त्वे** त्वय्यग्नौ **आहुतम्** ऋत्विग्भिः प्रक्षिप्तं चरुपुरोडाशादिकं **हविः** **देवाः** **अदन्ति** भक्षयन्ति । तस्मात् त्वं साधयेत्यर्थः । अपि च **त्वम्** **आदित्यान्** अदितेः पुत्रान् सर्वान् देवान् **आ** **वह** अस्मद्यज्ञार्थमानय । 'तान् **हि** इदानीमेव वयम् **उश्मसि** कामयामहे । अन्यत् पूर्ववत् ॥ शकेम । ‘शक्लृ शक्तौ । लिङ्याशिष्यङ्' । अदुपदेशात् लसार्वधातुकानुदात्तत्वेऽङ एव स्वरः शिष्यते। समिधम् । ‘ ञिइन्धी दीप्तौ । अस्मात् संपदादिलक्षणः कर्मणि क्विप् । त्वे । ‘सुपां सुलुक्' इति सप्तम्येकवचनस्य शेआदेशः । उश्मसि । “ वश कान्तौ ' । इदन्तो मसिः । अदादित्वात् शपो लुक् । ‘ ग्रहिज्या ' इत्यादिना संप्रसारणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,34 +152,34 @@ genre M;; repeated line
 Ādityas: sons of **Aditi**, i.e. all the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be able to kindle you. Send our insights to their goal. The gods  eat the oblation poured in you.  
 Convey the Ādityas here, for we are eager for them. – O Agni, while in  company with you may we not come to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we have power to kindle thee. Fulfil our thoughts. In thee the Gods eat the presented offering,  
      Bring hither the Adityas, for we long for them. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we be able to light thee. Prosper our prayers. The gods eat the sacrificial food that is offered in thee. Bring thou hither the Âdityas, for we long for them. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Möchten wir im Stande sein dich zu entzünden. Bring unsere Absichten in Erfüllung! In dir genießen die Götter die geopferte Opfergabe. Fahr du die Aditya´s hierher, denn diese wünschen wir! - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib Kraft dich zu entzünden, segne das Gebet; in dir geniesst die Götterschar den Opferguss; Fahr die Aditja's her, denn die begehren wir; in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будем мы в силах тебя зажечь! Веди прямо к цели (наши) молитвы!  
 В тебе вкушают боги возлитое жертвоприношение.  

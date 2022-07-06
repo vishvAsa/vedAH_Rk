@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पाहि꣡ गा꣡या꣡न्धसो म꣡द  
 इ꣡न्द्राय मेधियातिथे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वज्री꣡ र꣡थो हिरण्य꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । सम्ऽमि॑श्लः । हर्योः॑ । यः । सु॒ते । सचा॑ । व॒ज्री । रथः॑ । हि॒र॒ण्ययः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
@@ -104,7 +104,7 @@ genre M
 हे **मेध्यातिथे** **पाहि** सोमं पिब । **अन्धसः** पीतस्य सोमस्य **मदे** तस्मै **इन्द्राय** **गाय** स्तोत्रं पठ' च । **यः** इन्द्रः **हर्योः** अश्वयोः **संमिश्लः** स्वरथे संमिश्लयिता । **यः** च **सुते** सोमे **सचा** सहायः । य इन्द्रः **वज्री** । यस्य **रथः** **हिरण्ययः** हिरण्मयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,36 +115,36 @@ genre M
 Variants in **Sāmaveda**: pāhi gā andhaso for: pāhi gāyāndhaso; hiraṇyāya indro **vajrī** for: sute sacāvajrī ratho
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Drink!”—sing (thus) to Indra, at the exhilaration of the stalk, o  Medhyātithi,  
 to the mace-wielder, who is linked with the two fallow bays, who, when  (soma) is pressed, is a golden chariot,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Drink!” is an imperative that the poet Medhyātithi should not be addressing to himself, as opposed to “sing!” I therefore take it as the content of his song, addressed to Indra.
 
 In d Geldner takes the last two words rátho hiraṇyáyaḥ as a separate nominal clause “golden is his chariot.” This is possible, but I think it is far more likely a phrase qualifying Indra, despite its slight oddness. Indra can be called a chariot because he comes with lots of goods, like a chariot (see, e.g., I.125.3 vásumatā ráthena), and also because he’s “linked” (sáṃmiślaḥ) to the two horses, as if he were the chariot they are yoked to and pull. Moreover, starting with 4c the rest of the tṛca (4c-6c) consists only of descriptions of Indra in the nominative, arranged in relative clauses. A nominal clause with a different subject would interrupt this structure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Medhyatithi, to Indra sing, drink of the juice to make thee glad.  
      Close-knit to his Bay Steeds, bolt-armed, beside the juice is he: his chariot is of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinke, singe, Medhyatithi, im Rausch des Somatrankes dem Indra, der an dem Falbenpaar, der am Soma hängt, der Keulenträger! Golden ist sein Wagen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O trink und sing im Somarausch dem Indra, Medhiatithi, Der mit den Füchsen her zum Somatrunks fährt, ein goldner Wagen blitzversehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей (и) пой в опьянении соком  
 Для Индры, о Медхьятитхи,  

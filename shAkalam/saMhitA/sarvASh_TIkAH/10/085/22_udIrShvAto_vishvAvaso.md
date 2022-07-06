@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईर्ष्वा꣡तो विश्वावसो  
 न꣡मसेळा महे तुवा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सं꣡ जाया꣡म् प꣡तिया सृज
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अ॒न्याम् । इ॒च्छ॒ । प्र॒ऽफ॒र्व्य॑म् । सम् । जा॒याम् । पत्या॑ । सृ॒ज॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (380)
 **अतः** अस्माच्छयनात् हे **विश्वावसो** कन्यास्वामिन् गन्धर्व **उदीर्ष्व** उद्गच्छ। ‘ईर गतौ ' । आदादिकः । अनुदात्तेत् । तस्य लोटि रूपम् । विश्वावसुर्नाम गन्धर्वः कन्यानामधिपतिर्यतः । लभामि तेन कन्याम्' इति हि मन्त्रः । तादृश देव त्वां **नमसा** नमस्कारेण ईळामहे स्तुमः । स त्वम् **अन्यां** **प्रफर्व्यं** बृहन्नितम्बां कन्याम् इच्छ। **जायां** मां **पत्या** सह पुनः **सं** **सृज** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rise up from here, **Viśvāvasu**, we worship you with reverence; seek another maiden, one with largehips; leave the bride with her husband.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Rise up from here, Viśvāvasu.” With reverence we invoke you.  
 “Seek some other burgeoning maiden. Send the wife to join with her  husband.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise up from hence, Visvavasu: with reverence we worship thee.  
      Seek thou another willing maid, and with her husband leave the bride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hebe dich von dannen, Visvavasu! Wir rufen dir unter Verneigung zu: Suche dir eine andere dralle Dirne! Die Ehefrau laß mit ihrem Gatten zusammen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhebe dich von hier, o Viçvāvasu, wir verehren dich in Demuth; eine andere üppige suche, die Gattin überlasse dem Gatten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимайся отсюда, о Вишвавасу!  
 С поклонением мы взываем к тебе.  

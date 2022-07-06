@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषा꣡ सुब꣡न्धुर् दिव꣡ आ꣡ पृथिव्या꣡  
 इळ꣡स् प꣡तिर् मघ꣡वा दस्म꣡वर्चाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡मेन कृतं꣡ तव꣡सं सुअ꣡ञ्चम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यम् । दे॒वासः॑ । अद॑दुः । सू॒र्यायै॑ । कामे॑न । कृ॒तम् । त॒वस॑म् । सु॒ऽअञ्च॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ genre M
 **पूषा** पोषको देवः **दिव** **आ** द्युलोकस्य च **पृथिव्याः** च **सुबन्धुः** शोभनो बन्धुर्भवति । तथा **इळस्पतिः** इळाया अन्नस्य पतिः **मघवा** । मघमिति धननाम् । तद्वान् । यद्वा । मंहतेर्दानकर्मणो भावसाधनो मघशब्दः । दानवान् **दस्मवर्चाः** । वर्च इति रूपनाम । दस्मं दर्शनीयं वर्चो यस्य तादृशः । **यं** पूषणं **देवासः** सर्वे देवाः **सूर्यायै** सूर्यस्य पत्न्यै यद्वा सावित्र्यै सूर्याख्यायै अश्विनोर्वरणाय **अददुः** दत्तवन्तः । पुत्रः पितराववृणीत पूषा' ( ऋ. सं. १०. ८५. १४ ) इति हि श्रूयते । कीदृशं पूषणम् । **कामेन** पश्वादिविषयेण **कृतं** स्तोतृभिर्वशीकृतं **तवसं** बलवन्तं प्रवृद्धं वा **स्वञ्चं** स्वञ्चनं सुष्ठु गच्छन्तम् । एवंविधं यं पूषणमददुः स पूषा सुबन्धुरित्यन्वयः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,35 +143,35 @@ genre M
 Propitiated: kāmena **kṛtaḥ**: paśvādiṣayena stotṛbhir vaśīkṛtaḥ, you are subjected or propitiated by worshippers by means of the **paśu** and other offerings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan has good lineage from Heaven and from Earth, lord of  
 refreshment, bounteous, of wondrous luster,  
 whom the gods gave to Sūryā, him prompted by desire, powerful, of  lovely outlook.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan’s “good lineage (subándhuḥ) from Heaven and from Earth” directly recalls X.71.6 cited above ad vs. 1 prápathe pathā́ m ajaniṣṭa pūṣā́, prápathe diváḥ prápathe prthivy ̥ ā́ ḥ “On the forward path of paths was Pūṣan born, on the forward path of heaven, on the forward path of earth.” On the Sūryā story, see, inter alia, my 2001 “The Rigvedic svayaṃvara? Formulaic evidence” (Fs. Asko Parpola) and 2003 “Vedic vrā́: Evidence for the svayaṃvara in the Rig Veda?” (Fs. H.-P. Schmidt). It is very telling that Puṣan is given to Sūryā here (yáṃ devā́so ádadhuḥ sūryā́yai) rather than the reverse: the ordinary description of marriage, at least later, is kanyā-dāna- ‘the gift of a maiden’, but here she receives rather than being given, presumably a nod to her active role in the Svayaṃvara. Note the much more conventional depiction of Sūryā’s wedding (to a different bridegroom) in the wedding hymn, X.85.9 sūryā́ṃ yát pátye … savitā́dadāt “when Savitar gave Sūryā to her husband.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Near kinsman of the heaven and earth is Pusan, liberal, Lord of food, of wondrous iustre,  
      Whom strong and vigorous and swiftlymoving, subdued by love, the Deities gave to Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan ist der gute Freund von Himmel und Erde, der Herr des Segens, der Freigebige, mit dem Ansehen eines Meisters, er, den die Götter der Surya gegeben haben, den Verliebten, Starken von schönem Gange.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verwandt dem Himmel und der Erd' ist Puschan, der Labung Herr, gewaltig, herrlich glänzend, Den Götter zum Gemahl der Surja gaben, den starken, hellen, von Begier getriebnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пушан – близкая родня неба и земли,  
 Господин жертвенного напитка, щедрый, с удивительным блеском,  

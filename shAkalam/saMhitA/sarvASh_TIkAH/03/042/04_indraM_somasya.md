@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
 स्तो꣡मैर् इह꣡ हवामहे  
 उक्थे꣡भिः कुवि꣡द् आग꣡मत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 उ॒क्थेभिः॑ । कु॒वित् । आ॒ऽगम॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -77,36 +77,36 @@ genre M
 **स्तोमैः** त्रिवृत्पञ्चदशादिस्तोमसाध्यैः स्तोत्रैः **उक्थेभिः** उक्थैः शस्त्रैश्च **इह** कर्मणि **सोमस्य** **पीतये** सोमपानार्थम् **इन्द्रं** **हवामहे** वयमाह्वयामः । **कुवित्** बहु बारमाहूतः स इन्द्रः **आगमत्** यज्ञं प्रत्यागच्छतु । आगमत् । गमेर्लेट्यडागमः । ‘ आगमा अनुदात्ताः' इत्यटोऽनुदात्तत्वात् धातुस्वरः । ‘ तिङि चोदात्तवति' इति गतेर्निघातः । कुविद्योगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke **Indra** to this rite with prayers to drink the **Soma**; may he, repeatedly invoked, come hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra we call here for soma-drinking with praises,  
 with hymns. Will he indeed come hither?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither with songs of praise we call Indra to drink the Soma juice:  
      Will he not come to us by lauds?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra rufen wir hierher zum Somatrunk mit Preisliedern, mit Lobgedichten. Gewiß wird er kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Trunk des Soma rufen wir mit Lobgesang den Indra her, Mit Sprüchen; wird er kommen wol?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру на питье сомы  
 Мы призываем здесь восхвалениями,  

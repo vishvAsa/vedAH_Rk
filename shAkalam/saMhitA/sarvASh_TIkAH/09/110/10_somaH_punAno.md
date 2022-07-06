@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मः पुनानो꣡ अव्य꣡ये वा꣡रे  
 शि꣡शुर् न꣡ क्री꣡ळन् प꣡वमानो अक्षाः  
 सह꣡स्रधारः शत꣡वाज इ꣡न्दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; repeated line
 स॒हस्र॑ऽधारः । श॒तऽवा॑जः । इन्दुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -96,20 +96,20 @@ genre M;; repeated line
 **पुनानः** पूयमानः **पवमानः** पूतः **सोमः** **अव्यये** अविमये **वारे** वाले पवित्रे **शिशुर्न** शिशुरिव **क्रीळन्** इतस्ततः संक्रीडमानः सन् **अक्षाः** क्षरति । कीदृशः । **सहस्रधारः** बहुधारायुक्तः **शतवाजः** बहुबलः **इन्दुः** दीप्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Pavamāna** **Soma** sporting like a child drops filtered through the woollen fleece, thousand-streamed, having the might of a hundred, radiant.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying Soma, being purified in the sheep’s fleece, has streamed,  playing like a child—  
 the drop possessing a thousand streams and a hundred prizes.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -119,23 +119,23 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the sheep's wool hath Soma Pavamana flowed, while they cleanse him, like a playful infant,  
      Indu with hundred powers and hundred currents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem Soma Pavamana sich im Schafhaar läutert, ist er, wie ein Kind spielend, abgeflossen, in tausend Strahlen mit hundert Siegespreisen, der Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sich klärend rann hell rieselnd Soma, hüpfend jetzt wie ein Füllen durch des Widders Wolle, In tausend Strömen, hundert Tränken, Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома, очищаясь в сите из овечьей шерсти,  
 Павамана потек, играя, как ребенок,  

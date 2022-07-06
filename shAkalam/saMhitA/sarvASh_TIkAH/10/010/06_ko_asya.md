@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ अस्य꣡ वेद प्रथम꣡स्य अ꣡ह्नः  
 क꣡ ईं ददर्श क꣡ इह꣡ प्र꣡ वोचत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡द् उ ब्रव आहनो वी꣡चिया नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 बृ॒हत् । मि॒त्रस्य॑ । वरु॑णस्य । धाम॑ । कत् । ऊं॒ इति॑ । ब्र॒वः॒ । आ॒ह॒नः॒ । वीच्या॑ । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -139,7 +139,7 @@ popular
 **प्रथमस्याह्नः** संबन्धि **अस्य** इदमन्योन्यसंगमनं **कः** वेद जानाति । प्रथमेऽहनि यत्क्रियते तदनुमानमाश्रित्य न कश्चिदपि ज्ञातुं शक्नोतीत्यर्थः । **इह** अस्मिन् प्रदेशे प्रत्यक्षतः **क** **ईम्** इदं संगमनं **ददर्श** पश्यति **कः** **प्र** **वोचत्** प्रख्यापयति । न कोऽपीत्यर्थः । **मित्रस्य** **वरुणस्य** मित्रावरुणयोः **बृहत्** महत् **धाम** स्थानमहोरात्रं यदस्ति तत्र **नॄन्** मनुष्यान् **वीच्या** नरकेण हे **आहनः** आहन्तर्मर्यादया हिंसितः । स्वकृतशुभाशुभकर्मापेक्षया मनुष्यादिप्राणिनां नरकपातेन स्वर्गप्रापणेन निग्रहानुग्रहयोः कर्तरित्यर्थः । एवंभूत हे यम त्वं **कदु** **ब्रवः** किं वा ब्रवीषि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,30 +150,30 @@ popular
 Dwelling of Mitra and Varuṇa: the revolution of day and night; what say...hell: what say you, wanton one, falselyabout men? Who punishes: ahanaḥ is a **male**; therefore, **Yamī** is made the speaker of the last part of the verse
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] Who knows about this first day? Who has seen it; who will  proclaim it here?  
 Lofty is the ordinance of Mitra and Varuṇa. Will you speak about  
 superior men [=gods] with deviant (speech), lubricious one?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who knows that earliest day whereof thou speakest? Who hatb beheld it? Who can here declare it?  
      Great is the Law of Varuna and Mitra. What, wanton! wilt thou say to men to tempt them?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer weiß von jenem ersten Tage, wer hat ihn gesehen? Wer kann es hier aussagen? Hoch steht das Gesetz des Mitra und Varuna! Was willst du Zudringliche gegenteilig den Männern sagen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer hat von diesem ersten Tage Kunde? wer sah ihn? und wer mag es hier verkünden? Gross ist die Schöpfung Varuna's und Mitra's. Was sprichst du, üpp'ge, fälschlich von den Männern?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто знает об этом первом дне?  
 Кто видел его? Кто здесь возвестит?  

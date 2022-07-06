@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ विदन् परिपन्थि꣡नो  
 य꣡ आसी꣡दन्ति द꣡म्पती  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡प द्रान्तु अ꣡रातयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सु॒ऽगेभिः॑ । दुः॒ऽगम् । अति॑ । इ॒ता॒म् । अप॑ । द्रा॒न्तु॒ । अरा॑तयः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -89,41 +89,41 @@ popular;; epic anuṣṭubh (380)
 **परिपन्थिनः** पर्यवस्थातारः शत्रवः **मा** **विदन्** मा प्रापयन् ये **परिपन्थिनः** **दंपती** **आसीदन्ति** अभिगच्छन्ति । **सुगेभिः** सुगैर्मार्गैः **दुर्गं** दुःखेन गन्तुं शक्यं दुर्गमं देशम् **अतीतां** अतिगच्छताम्। **अरातयः** अदातारः शत्रवः **अप** **द्रान्तु** अपगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the robbers who approach the husband and wife reach them; may they by easy roads pass thedifficulty; may enemies keep aloof.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let highwaymen who lie in wait not find the married couple. Let them cross over the hard place by easy roads. Let hostilities  
 run away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the highway thieves who lie in ambush find the wedded pair.  
      By pleasant ways let them escape the danger, and let foes depart.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May those who lie in wait around Their path, not find the bridal pair; May these by easy roads escape The peril; may their foes disperse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollen Wegelagerer, die auflauern, die Ehegatten antreffen. Auf guten Wegen sollen sie dem gefahrvollen Weg entgehen. Die Unholdinnen sollen davonlaufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht mögen Wegelagerer, welche im Hinterhalte liegen, das Ehepaar erreichen, auf wohlgebahnten Pfaden mögen sie alles Ungemach durchschreiten, hinweg eilen mögen alle, die Unheil bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не нападут разбойники,  
 Которые сидят в засаде, на супружескую чету!  

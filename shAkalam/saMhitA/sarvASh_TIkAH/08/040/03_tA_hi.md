@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हि꣡ म꣡ध्यम् भ꣡राणा᳐म्  
 इन्द्रअग्नी꣡ अधिक्षितः꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 ता । ऊं॒ इति॑ । क॒वि॒ऽत्व॒ना । क॒वी इति॑ । पृ॒च्छ्यमा॑ना । स॒खि॒ऽय॒ते । सम् । धी॒तम् । अ॒श्नु॒त॒म् । न॒रा॒ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -136,42 +136,42 @@ genre M;; repeated line
 **ता** तौ प्रसिद्धौ **इन्द्राग्नी** **भराणां** संग्रामाणां **मध्यम्** **अधिक्षितः** अधिनिवसतः **हि** । अथ प्रत्यक्षस्तुतिः। हे **नरा** नेतारौ **कवित्वना** कवित्वेन **कवी** क्रान्तकर्माणौ **पृच्छ्यमाना** कविजनैः पृच्छ्यमानौ **ता** **उ** तावेव युवां **सखीयते** सखित्वमिच्छते यजमानाय **धीतं** तत्कृतं कर्म **सम्** **अश्नुतम्** । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They two, **Indra** and **Agni**, are present in the midst of battles; do you two, leaders of rites, who are reallysages, when solicited (by the wise), accept the offering (from him) who seeks your friendship; may all ouradversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For these two, Indra and Agni, preside amid battle-raids.  
 You two, sage poets through your poetic skill, on being asked, realize the  visionary thought for the one seeking your companionship, o men.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The clauses ab and cde begin identically, with tā́. It is only with the last two words of the final pāda, aśnutaṃ narā, that it becomes clear that a change of person has been effected between 3rd (ab) and 2nd (cde). Unfortunately this change has to be signalled much earlier in the Engl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, famous Indra-Agni, ye are dwellers in the midst of frays.  
      Sages in wisdom, ye are knit to him who seeketh you as friends. Heroes, bestow on him his wish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die beiden, Indra und Agni, weilen über den Kämpfen mitteninne. Als zwei Weise , die wegen ihrer Weisheit befragt werden, erfüllet dem den Wunsch, der wie ein Freund gesinnt ist, ihr Herren! - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Indra-Agni weilen ja recht in der Opfer Mittelpunkt; So kommt mit Weisheit, Weise denn; erfüllt, o Männer, das Gebet, erflehte, dem befreundeten. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти двое, Индра и Агни,  
 Пребывают в центре сражений.  

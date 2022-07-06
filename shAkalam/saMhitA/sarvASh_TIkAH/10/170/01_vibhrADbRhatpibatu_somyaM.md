@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विभ्रा꣡ड् बृह꣡त् पिबतु सोमिय꣡म् म꣡धु  
 आ꣡युर् द꣡धद् यज्ञ꣡पताव् अ꣡विह्रुतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रजाः꣡ पुपोष पुरुधा꣡ वि꣡ राजति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वात॑ऽजूतः । यः । अ॒भि॒ऽरक्ष॑ति । त्मना॑ । प्र॒ऽजाः । पु॒पो॒ष॒ । पु॒रु॒धा । वि । रा॒ज॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhrāḍ* ← *vibhrāj*
 - \[noun\], nominative, singular, neuter
@@ -119,7 +119,7 @@ popular
 **विभ्राट्** विभ्राजमानो विशेषेण दीप्यमानः सूर्यः **बृहत्** महत् परिवृढं **सोम्यं** सोममयं **मधु** **पिबतु** । किं कुर्वन् । **यज्ञपतौ** यजमाने **अविह्रुतम्** अकुटिलम् **आयुः** दधत्कुर्वन् । **यः** सूर्यः **वातजूतः** वातेन महावायुना प्रेर्यमाणः सन् **त्मना** आत्मना स्वयमेव **अभिरक्षति** सर्वं जगदभिपश्यन् पालयति । राशिचक्रस्य वायुप्रेर्यत्वात् सूर्यस्यापि तत्प्रेर्यत्यम् । स सूर्यः **प्रजाः** **पुपोष** वृष्ट्यादिप्रदानेन पोषयति **पुरुधा** बहुधा **वि** **राजति** विशेषेण दीप्यते च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ popular
 Impelled by the wind: it is the circle of the **zodiac**; or, the solar orb which is driven along thewind; **Yajus**. 33.30
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the lofty (light) blazing forth drink the somian honey, imparting an  unswerving lifetime on the lord of the sacrifice—  
 he who, sped by the wind, stands guard by himself, he fosters the  
 creatures; he rules [/shines] widely in many places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY the Bright God drink glorious Soma-mingled meath, giving the sacrifice's lord uninjured life;  
      He who, wind-urged, in person guards our offspring well, hath nourished them with food and shines o'er many a land.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das hohe, strahlende Licht soll den somischen Met trinken, dem Opferherrn ungebeugte Lebenskraft verleihend, der windschnell in eigener Person Wache hält. Er hat die Geschöpfe zum Wachsen gebracht, er gebietet vielerorts.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weithin leuchtet, trinke süssen Somatrank, geh' ungebeugtes Alter unserm Opferherrn; Er, der vom Wind beflügelt rechten Schutz verleiht, die Menschheit nährt an vielen Orten weit erstrahlt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть (Сурья,) ярко сверкающий высокий (свет), пьет мед сомы,  
 Давая господину жертвы нескомканный срок жизни,  

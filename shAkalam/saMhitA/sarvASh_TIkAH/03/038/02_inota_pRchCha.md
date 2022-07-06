@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इनो꣡त꣡ पृछ ज꣡निमा कवीना꣡म्  
 मनोधृ꣡तः सुकृ꣡तस् तक्षत द्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡नोवाता अ꣡ध नु꣡ ध꣡र्मणि ग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒माः । ऊं॒ इति॑ । ते॒ । प्र॒ऽन्यः॑ । वर्ध॑मानाः । मनः॑ऽवाताः । अध॑ । नु । धर्म॑णि । ग्म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *inota* ← *inā* ← *ina*
 - \[noun\], accusative, plural, neuter
@@ -130,14 +130,14 @@ genre M
 **उत** इत्यामन्त्रणे । हे इन्द्र **कवीनां** सुकृतकर्मणां देवभूयं गतानां **जनिम** जन्म । केन कर्मणा दिवं गताः कुतो वा तेषामुत्पत्तिः इत्येतमर्थम् **इना** ईश्वरान् गुरून् **पृच्छ** । ते कवयः **मनोधृतः** संयतमनस्का अतः एव **सुकृतः** शोभनकर्माणः सन्तः **द्यां** दिवं **तक्षत** अकुर्वन् । **अध** अथेदानीं **धर्मणि** अस्मिन् यज्ञे **ते** त्वदर्थं **प्रण्यः** प्रणीयमानाः **मनोवाताः** मनोवेगाः **वर्धमानाः** त्वां वर्धयन्त्यः **इमाः** अस्माभिः क्रियमाणाः स्तुतयः **नु** क्षिप्रं **ग्मन्** त्वां गच्छन्तु । **उ** सर्वत्र प्रसिद्ध्यर्थः ॥ पृच्छ ।' प्रच्छ ज्ञीप्सायाम्' इत्यस्य लोटि तुदादित्वात् शः । तस्य ङित्त्वात् ग्रहिज्यादिना संप्रसारणम् । निघातः । प्रण्यः । ‘ णीञ् प्रापणे ' इत्यस्मात् औणादिकः कर्मणि क्विप् । सर्वविधीनां छन्दसि विकल्पितत्वादियङादेशं बाधित्वा यणादेशः । ‘ उदात्तस्वरितयोः । इति स्वरितत्वम् । ग्मन् । गमेर्लङि ‘ बहुलं छन्दसि ' इति शपो लुक् । झेर्ङित्वात् ‘गमहन° ' इत्यादिना उपधालोपः । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ask of the lords (of earth, the holy teachers), the birth of those deified sages, who with well-governed minds, and diligent in sacred rites, fabricated the heavens; and may these propitiatory (praises), augmenting (your power) and rapid as the wind, reach you at this solemn rite.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ask also the powerful generations of the poets: they as good workers,  holding their minds firm, crafted heaven for themselves.  
 These are the precedents for you, which keep growing stronger.  
@@ -145,7 +145,7 @@ Sought by mind they have now come (to rest) on its [=mind’s] firm
 foundation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I see the movement of the verse, in pāda a the poet sets himself to question the older generations of poets about their creative activity. Pāda b concerns this activity in the past and identifies mánas- ‘mind’ as the foundation (√dhṛ) for the creative act. (I might now alter the tr. to make this clearer, to “making their minds the foundation.”) In cd we turn to the present time and to the poet (te) (who addressed himself in a); the praṇī̀- in c (on which see further below) are the products or models derived from the creative activity in b. In d it is made clear that these precedents, actively sought by the current poet’s mind, rest on the dhárman- ‘foundation’ not only of the mental activity of the former poets but also of his own mind.
 
@@ -160,23 +160,23 @@ In the last pāda these precedents that the poet has sought with his mind take u
 manodhṛ́t- in b I supply ‘mind’ as the possessor of dhárman-. Most tr. (Geldner, Renou [twice], Hoffmann [Inj. 225], Klein DGRV I.453-54) interpr. the loc. dhármaṇi as a rather vague adverbial (Geldner, Hoffmann “in rechter Weise,” sim. Klein). I think it needs to be interpr. in full locatival sense; Scarlatta (276) and Witzel Gotō in separate ways do give it a locatival interpr. but their tr. do not reflect its connection with manodhṛ́t- in b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ask of the sages' mighty generations firm-minded and devout they framed the heaven.  
      These are thy heart-sought strengthening directions, and they have come to be sky's upholders.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Frag auch die mächtigen Geschlechter der Seher! Ihr habt entschlossen, gut handelnd den Himmel gezimmert. Diese wachsende Vertraulichkeit, die im Geiste erstrebte, ist nunmehr in rechter Weise, dir gekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ich frage die mächtigen Geschlechter der Weisen : [Es folgt deren Antwort] „Die festgesinnten, schönwirkenden [Aditja's] schufen sich dem Himmel; das sind auch deine [des Sängers] Förderungen [Belehrungen], die grossen; holden Sinnes gingen sie [die Aditja's] dann an des Himmels Stütze, i
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спроси же о могучих родах поэтов:  
 Поддерживая мысль, прекрасно действуя, они вытесали небо.  

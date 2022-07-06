@@ -8,7 +8,7 @@ title = "+024"
 'प्र सोमासः' इति सप्तर्चं चतुर्विंशं सूक्तम् । असितो देवलो वर्षिर्गायत्री छन्दः सोमो देवता । ‘प्र सोमासः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 24 (736)  
 Soma Pavamāna  

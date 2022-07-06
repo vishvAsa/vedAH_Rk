@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नः सून꣡वो गि꣡रः  
 शृण्व꣡न्तु अमृ꣡तस्य ये꣡  
 सुमॄळीका꣡+ भवन्तु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽमृ॒ळी॒काः । भ॒व॒न्तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M
 **अमृतस्य** मरणरहितस्य प्रजापतेः **ये** **सूनवः** पुत्राः ते देवाः **नः** अस्माकं **गिरः** स्तुतीः **उप** **शृण्वन्तु** । **नः** अस्माकं **सुमृळीकाः** सुष्ठु मृडयितारः सुखयितारश्च **भवन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,13 +99,13 @@ genre M
 Sons of the immortal: amṛtasya sūnavaḥ: sons of **Prajāpati**, the **Viśvadevas**; cf. **Yajus**. 33.77
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sons of the immortal one listen to our hymns.  
 Let them be very merciful to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consists of two 3rd pl. impv. clauses, ab and c. The 2nd is entirely straightforward, and the first is until the end, where we find a hemistich-final rel.
 
@@ -122,23 +122,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All Sons of Immortality shall listen to the songs we sing,  
      And be exceeding good to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Söhne der Unsterblichkeit sollen unsere Lobreden hören, sie sollen uns barmherzig sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Söhne der Unsterblichkeit, sie mögen hören unser Lied, Und seien gnädig uns gesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть услышат они наши песни,  
 (Те,) кто сыновья бессмертия!  

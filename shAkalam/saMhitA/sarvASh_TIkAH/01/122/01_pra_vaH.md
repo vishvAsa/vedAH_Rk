@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वः पा᳐꣡न्तं रघुमन्यवो꣡ ऽन्धो  
 यज्ञं꣡ रुद्रा꣡य मीळ्हु꣡षे भरध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इषुध्ये꣡व मरु꣡तो रो꣡दसीयोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । अ॒स्तो॒षि॒ । असु॑रस्य । वी॒रैः । इ॒षु॒ध्याऽइ॑व । म॒रुतः॑ । रोद॑स्योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 हे **रघुमन्यवः** लघुक्रोधाः अक्रोधिनः ऋत्विजः **वः** युष्माकं **पान्तं** पालनशीलं पातव्यं वा **यज्ञं** यागसाधनम् **अन्धः** अन्नम् आज्यसोमादिलक्षणं **रुद्राय** । रुत् दुःखं तद्धेतुभूतं दुरितं वा । तस्य द्रावयित्रे एतन्नामकाय देवाय मीळ्हुषे फलस्य वर्षित्रे तदर्थं **प्र** **भरध्वं** प्रकर्षेण संपादयत । अहं च **इषुध्येव** इषुध्या शत्रून् यथा निरस्यति तथा **वीरैः** अमित्राणां विविधमीरकैः वीर्योपेतैः  वा तदनुचरैः मरुदादिभिः सह **दिवः** द्युलोकसकाशात् । उपलक्षणमेतत् । लोकत्रयादपि **असुरस्य** निरसितव्यानामसुराणां निरसितुः । कर्मणि षष्ठी । निरसितारं तमेव देवं **रोदस्योः** निरोधनवत्योः द्यावापृथिव्योर्मध्ये वर्तमानान् **मरुतः** च **अस्तोषि** स्तौमि ॥ पान्तम् । पान्तमित्यत्र पातेः शतृ पिबतेर्वा औणादिको झः । मीळ्हुषे । **दाश्वान्साह्वान्** °' इति क्वसुप्रत्ययान्तो निपातः । चतुर्थ्येकवचने  ‘ वसोः संप्रसारणम्' इति संप्रसारणम् । **शासिवसि** ' इत्यादिना षत्वम् । दिवः। ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् । अस्तोषि । स्तौतेश्छान्दसो लुङ् । इषुध्येव । इषवो धीयन्ते अत्र इति इषुधिः ।  ‘ कर्मण्यधिकरणे च' इति दधातेः किः । कृत्स्वरेणान्तोदात्तः ।  ‘ उदात्तयणो हल्पूर्वात्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 Mild-tempered: **raghu**-manyavaḥ,of light or little anger; from raghu = **laghu**, light and **manyu** = anger. The second **pāda**: lit. 'I have praised of the expeller from heaven with arrows as if from a quiver the Maruts of heaven and earth'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of quick fervor [=priests], bring forward your drink, your stalk,  your sacrifice for Rudra who grants rewards.  
 I have praised (him) along with the heroes of the lord of heaven; (I have  praised) the Maruts as if aiming at the two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pā́ntam see Oldenberg’s lengthy n. ad loc. The stem pā́nt(a)-, generally read with distracted root syllable, occurs 8x in the RV. As Oldenberg demonstrates, there are most likely two different stems involved: a them. noun pā́nta- ‘drink’ and the act.
 
@@ -145,23 +145,23 @@ In this context “the lord (ásura-) of heaven” is most likely Rudra (see als
 On iṣudhyā́and the related verb, see comm. ad I.128.6 and my forthcoming “Vedic iṣudhyá- and Oldenberg Avestan išud-, išūidiia-: The Aim of Praise.” In light of my reconsideration of the word family of iṣudhyá- in that article, I now interpr. this vs. somewhat differently from the published translation Instead of taking ródasyoḥ as the target of the aiming expressed by iṣudhyā́(“as if aiming at the two world-halves”), I now take iṣudhyā́as an independent instrumental adverb of manner, with a dependent “praise” understood: “… as if by the aiming (of an arrow of praise).” The simile particle iva, which here, unusually, does not mark an explicit simile, draws attention to the underlying metaphor of the aiming of praise. This image is especially appropriate for Rudra, a god of course famous as an archer, and the Maruts, who are depicted in
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SAY, bringing sacrifice to bounteous Rudra, This juice for drink to you whose wrath is fleeting!  
      With Dyaus the Asura's Heroes I have lauded the Maruts as with prayer to Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet euren Somatrank als Opfer dem belohnenden Rudra dar, ihr Eiferwilligen! Ich habe ihn mit den Mannen des Asura des Himmels gepriesen; die Marut preise ich, indem ich gleichsam auf Himmel und Erde Anspruch mache.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bringt, eifervolle, euern Trank, den Soma, als Opfer dar dem holdgesinnten Rudra, Ich preise mit des hohen Himmels Helden die Maruts, wie nach Erd' und Himmel zielend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш напиток, о вы быстрые (своим) рвением, сок (сомы),  
 Принесите в жертву Рудре щедрому!  

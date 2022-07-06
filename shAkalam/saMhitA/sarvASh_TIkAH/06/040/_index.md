@@ -8,7 +8,7 @@ title = "+040"
 ‘इन्द्र पिब' इति पञ्चर्चं सप्तदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । इन्द्र पिब' इत्यनुक्रान्तम् । गतः सूक्तविनियोगः । प्रथमे रात्रिपर्यायेऽच्छावाकस्याद्या शस्त्रयाज्या' । सूत्रितं च-- इन्द्र पिब तुभ्यं सुतो मदायेति याज्या ( आश्व. श्रौ. ६. ४ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 40 (481)  
 Indra  
@@ -20,7 +20,7 @@ Note also the reciprocal expressions in the final pādas of verses 1 and 4: in v
 The final word of the hymn, “with the Maruts,” establishes the Midday Pressing  as the ritual in question. The Maruts are also obliquely referred to in the first verse,  in the phrase “amid your troop.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

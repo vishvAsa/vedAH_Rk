@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृह꣡न्त इ꣡द् भान꣡वो भा꣡ऋजीकम्  
 अग्निं꣡ सचन्त विद्यु꣡तो न꣡ शुक्राः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपार꣡ ऊर्वे꣡ अमृ꣡तं दु꣡हानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गुहा॑ऽइव । वृ॒द्धम् । सद॑सि । स्वे । अ॒न्तः । अ॒पा॒रे । ऊ॒र्वे । अ॒मृत॑म् । दुहा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhanta* ← *bṛhantaḥ* ← *bṛhat*
 - \[noun\], nominative, plural, masculine
@@ -124,41 +124,41 @@ genre M
 अपारेअगाधेऊर्वेसमुद्रे अन्तर्मध्ये अमृतं उदकन्दुहानाः क्षरन्तः बृहन्तइत् महान्तएव भानवः रश्मयः शुक्राः दीफ्यमानाः विद्युतोन विद्युतइवस्वेस्वकीयेसद्ंसिसदनेअन्तरिक्षे गुहेवगुहायामि ववृद्धम्प्रवृद्धं भाऋजीकं प्रभयादीप्यमानं अग्निंसचन्तआश्रयन्ति ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty sins, like brilliant lightning, associate with the self-shining **Agni**, great in his own abode, as if in a (deep) cavern, as they milk forth ambrosia into the boundless and vast ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like blazing flashes of lightning, lofty radiant beams accompany Agni,  foaming with radiance,  
 as they yield as their milk the immortal (Agni), grown strong within his  own seat as if in hiding, within the unbounded container.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like brilliant lightnings, mighty luminaries accompany the light-diffusing Agni,  
      Waxen, as 'twere in secret, in his dwelling, while in the boundless stall they milk out Amrta.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Mighty rays of light like brilliant lightnings, milking (the sap of) immortality in the boundless stable, accompanied Agni whose … is light 1, who had grown up in his own house, as it were in secret.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hohe Strahlen begleiten den glanzverschönten Agni wie die hellen Blitze den Regen. Ihm, der gleichsam heimlich in seiner Heimat groß geworden war im unermeßlichen Ozean, stehen die den Göttertrank milchenden Kühe zur Seite.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem lichtdurchstrahlten strebten lichte Götter, dem Agni zu wie glanzbegabte Blitze, Aus ihm, der heimlich wuchs in seinem Sitze, im weiten Raum den Göttertrank sich melkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже высокие лучи следуют за Агни,  
 Пламенеющим блеском, как сверкающие молнии (за дождем).  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ निम्ने꣡नेव सि꣡न्धवो  
 घ्न꣡न्तो वृत्रा꣡णि भू꣡र्णयः  
 सो꣡मा असृग्रम् आश꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमाः॑ । अ॒सृ॒ग्र॒म् । आ॒शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,35 +82,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **निम्नेन** प्रवणेन देशेन **सिन्धवः** नद्यः **इव** तथा **वृत्राणि** शत्रून् **घ्नन्तः** **भूर्णयः** क्षिप्रगमनाः **आशवः** व्याप्ताः **सोमाः** **प्र** **असृग्रं** प्रगच्छन्ति द्रोणकलशं प्रति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like rivers falling down a steep plural ce, so that rapid foe-destroying pervading **Soma**-streams hurry (to the pitcher).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like rivers along a downward slope, smashing obstacles, turbulent, the swift soma juices have been sent surging.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE rivers down a steep descent, slaying the Vrtras, full of zeal,  
      The rapid Soma-streams have flowed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Abwärts wie die Ströme haben sich die ungeduldigen raschen Somatränke ergossen, die Feinde erschlagend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Flüsse am Gesenke hin, die Feinde tödtend, eifervoll Sind schnelle Soma's hingeströmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как реки – низиной,  
 Бурные, убивающие врагов  

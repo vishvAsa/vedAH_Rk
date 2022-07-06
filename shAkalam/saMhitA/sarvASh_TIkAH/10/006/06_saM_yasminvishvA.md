@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡स्मिन् वि꣡श्वा व꣡सूनि जग्मु꣡र्  
 वा꣡जे न꣡ अ꣡श्वाः स꣡प्तीवन्त ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर्वाचीना꣡ अग्न आ꣡ कृणुष्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अ॒स्मे इति॑ । ऊ॒तीः । इन्द्र॑वातऽतमाः । अ॒र्वा॒ची॒नाः । अ॒ग्ने॒ । आ । कृ॒णु॒ष्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -126,37 +126,37 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे अग्ने **यस्मिन्** स्वयि विश्वानि **वसूनि** धनानि **सं** **जग्मुः** स्वत्वेन संगतानि भवन्ति । तत्र दृष्टान्तः । **एवैः** गमनैः **सप्तीवन्तः** सर्पणवन्तः शीघ्रगमनसमर्थाः **अश्वाः** **वाजे** **न** यथा संग्रामे संगतास्तद्वत् । हे **अग्ने** स त्वम् **इन्द्रवाततमाः** इन्द्रेणाभिगताः **ऊतीः** रक्षाः **अस्मे** अस्मासु **अर्वाचीनाः** अभिमुखीः **आ** **कृणुष्व** आदरेण कुरु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Agni**, in whom all treasures are brought together as fleet horses are brought together in battle;bestow upon us protections even more effective than those of **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You in whom all good things have joined together, like horses forming a  team at a contest in their own way—  
 o Agni, attract here, near to us, the forms of help most cherished  
 by Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In whom all goodly treasures meet together, even as steeds and riders for the booty.  
      Inclining hither bring us help, O Agni, even assistance most desired by Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem alle Güter zusammengekommen sind wie bei dem Kampfspiel die zusammengespannten Rosse aus eigenem Antrieb. Für uns bringe die von Indra am meisten bevorzugten Hilfen zur Stelle, daß die gegenwärtig seien, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem vereint die Güter alle eilen, wie zu dem Preis gescharte Rosse rennen, Uns schaffe her, o Agni, die Genüsse recht nahe, die dem Indra sind die liebsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В ком сошлись все блага,  
 Словно в состязании кони и наездники – по обычаю:  

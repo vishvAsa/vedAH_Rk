@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ पृ꣡क्षो अग्ने मघ꣡वानो अश्युर्  
 वि꣡ सूर꣡यो द꣡दतो वि꣡श्वम् आ꣡युः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भागं꣡ देवे꣡षु श्र꣡वसे द꣡धानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒नेम॑ । वाज॑म् । स॒म्ऽइ॒थेषु॑ । अ॒र्यः । भा॒गम् । दे॒वेषु॑ । श्रव॑से । दधा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -122,49 +122,49 @@ genre M
 हे **अग्ने** **मघवानः** हविर्लक्षणेन धनेन युक्ता यजमानाः **पृक्षः** अन्नानि **वि** **अश्युः** व्याप्नुवन्तु । त्वयानुगृहीताः सर्वाण्यन्नानि लभन्ताम् । ये च **सूरयः** विद्वांसः त्वां स्तुवन्ति । **ददतः** ये च तुभ्यं हवींषि ददतः प्रयच्छन्तो वर्तन्ते ते सर्वे **विश्वमायुः** सर्वं जीवितं **वि** अश्युः व्याप्नुवन्तु । वयं च **समिथेषु** संग्रामेषु **अर्यः** अरेः शत्रोः संबन्धिनं **वाजं** अन्नं **सनेम** त्वदनुग्रहात् संभजेमहि । तदनन्तरं **देवेषु** त्वत्प्रमुखेष्विन्द्रादिषु **श्रवसे** यशसे तदर्थं **भागं** हविर्भागं **दधानाः** स्थापयन्तो भूयास्मेति शेषः ॥ अश्युः । ‘ अशू व्याप्तौ ' । व्यत्ययेन परस्मैपदम् । ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । ददतः । नाभ्यस्ताच्छतुः' इति नुमागमप्रतिषेधः । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । सनेम । वन षण संभक्तौ ' । व्यत्ययेन शः । अर्यः । अरिशब्दात् षष्येततकवचने “ जसादिषु च्छन्दसि वावचनम् ' इति घेर्ङिति' इति गुणाभावे यणादेशः। अरिशब्दः ‘अच इः' इति इप्रत्ययान्तः अन्तोदात्तः। उदात्तयण:०' इति विभक्तेरुदात्तत्वम् । भागम् । ‘कर्षात्वतः' इत्यन्तोदात्तत्वम् ॥ ॥१९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your opulent worshippers, **Agni**, obtain (abundant) food; may the learned (who praise you) and offer you (oblations), acquire long life; may we gain in battles booty from our foes, presenting their portion to the gods for (the acquisition of) renown.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might the bounteous ones reach nourishments, o Agni, and (might) the  patrons who give (reach) through a whole lifetime.  
 Might we gain the victory-prize in our clashes with the stranger,  
 acquiring a portion among the gods for our fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb ví … aśyuḥ should be read with both pādas, but, in my opinion, with slightly different senses. In pāda a pṛ́kṣaḥ is a straight acc. object to the lexeme in the meaning ‘reach, attain’; in pāda b víśvam ā́yuḥ may be one too (“attain a whole lifetime”) as most take it, but it may also be an acc. of extent of time (“reach through a whole lifetime”). The meaning is almost the same, but it would be like Parāśara to put the constructions slightly off-balance, and the compound viśvā́yuḥ is something of a signature word for Parāśara (see the immediately preceding vs. 4d, plus I.67.6, 10, 68.5) as an adverb expressing extent of time (“lifelong,” etc.). Note the phonetic echoes, pāda a: ví … aśyur, b: ví … ā́yuḥ; the first of these distracted sequences also evokes viśvā́yuḥ.
 
 Pāda c sanéma … aryó is reminiscent of I.70.1a vanéma … aryó … The phrase bhāgáṃ devéṣu … dádhānāḥ is almost a paraphrase of I.68.4a bhájanta … devatvám. I would therefore change the published translation “a portion among the gods” to “a share in the gods.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May thy rich worshippers win food, O Agni, and princes gain long life who bring oblation.  
      May we get booty from our foe in battle, presenting to the Gods their share for glory.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the liberal givers, O Agni, attain nourishment, may the rich 1 who bestow gifts (on us) attain to a full span of life. May we win in battles the booty of him who does not give 1, obtaining a (rich) share before the gods, that we may win glory 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Gönner sollen Lebenskräfte erlangen, o Agni, die schenkenden Herren das volle Leben. Wir wollen den Siegerpreis gewinnen in den Wettkämpfen mit dem Nebenbuhler, von den Göttern unser Teil empfangend zum Ruhme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reichen Fürsten, Agni, welche spenden, lass Speis' erlangen, volle Lebensdauer, Uns treue lass in Kämpfen Gut erbeuten, die wir zum Ruhm ihr Theil den Göttern geben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть достигнут, о Агни, щедрые покровители подкрепляющих сил!  
 Пусть до(стигнут) дарящие богатые жертвователи полного срока жизни!  

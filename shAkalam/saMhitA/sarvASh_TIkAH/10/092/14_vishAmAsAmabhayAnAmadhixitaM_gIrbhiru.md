@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशा꣡म् आसा꣡म् अ꣡भयानाम् अधिक्षि꣡तं  
 गीर्भि꣡र् उ · स्व꣡यशसं गृणीमसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अक्तो꣡र् यु꣡वानं नृम꣡णा अ꣡धा प꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ग्नाभिः॑ । विश्वा॑भिः । अदि॑तिम् । अ॒न॒र्वण॑म् । अ॒क्तोः । युवा॑नम् । नृ॒ऽमनाः॑ । अध॑ । पति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -115,36 +115,36 @@ genre M
 **अभयानां** संसारभयरहितानाम् **आसां** **विशां** मनुष्याणाम् **अधिक्षितम्** अन्तर्निवसन्तं **स्वयशसं** स्वयं समुपार्जितकीर्तिमेनमग्निं **गीर्भिः** स्तुतिभिः **गृणीमसि** वयं स्तुमः । किंच **अनर्वणम्** अप्रत्यृतां पत्युरपत्यान्तत्वेनाप्रतिगताम् **अदितिम्** अदीनां देवमातरं **विश्वाभिः** सर्वाभिः **ग्नाभिः** देवपत्नीभिः सहितां स्तुमः । किंच **अक्तोः** रात्रेः **युवानं** स्वतेजसा मिश्रयितारं चन्द्रमसं स्तुमः । किंच **नृमणाः** नृषु मनुष्येष्वनुग्राहकमना यः तमादित्यं स्तुमः । **अध** अथ **पतिं** सर्वस्य पालकमिन्द्रं स्तुमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We glorify with praises **Agni**, the self-famous, who dwells among these fearless beings; we praise theirresistible **Aditi**, together with all the wives (of the gods); we praise the young (lord) of night (the moon), wepraise the friend of man (the sun), we praise (**Indra**) the lord (of all).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him who presides over these fearless clans, the self-glorious one, we  hymn with hymns;  
 Aditi without assault, along with all the Wives (of the Gods), and the  youthful lord of the night (do I?), the manly minded, (hymn).1544 X.93
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hymns of praise we sing him who is throned as Lord over these fearless tribes, the Self-resplendent One.  
      We praise Night's youthful Lord benevolent to men, the foeless One, the free, with all celestial Dames.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Insassen dieser furchtlosen Clane, den Selbstherrlichen loben wir mit Lobreden; die unerreichte Aditi nebst allen Götterfrauen und den jugendlichen Herrn der Nacht preist Nrimanas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der über diesen furchtbefreiten Stämmen thront in eigner Pracht, den preisen nun mit Liedern wir; Mit allen Weibern ihn, der ewig schrankenlos, den männerholden jugendlichen Herrn der Nacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

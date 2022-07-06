@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रोत꣡ बाधिते꣡भियश्  
 चक्रं꣡ कु꣡त्साय यु꣡ध्यते  
 मुषाय꣡ इन्द्र सू꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मु॒षा॒यः । इ॒न्द्र॒ । सूर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrota* ← *yatra*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M
 **यत्र** यस्मिन् युद्धे **उत** अपि च हे **इन्द्र** त्वं **बाधितेभ्यः** कुत्ससहायेभ्यः **युध्यते** युद्धं कुर्वते **कुत्साय** च **सूर्यं** सूर्यसंबन्धि **चक्रं** **मुषायः** अमुष्णाः । अपहृतवानसीत्यर्थः । तस्मिन् युद्धे ‘प्रावः शचीभिरेतशम् ' इति परेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M
 You have stolen: the text has muṣāya sūryam, you have stolen the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, for those hard pressed and for Kutsa as he fought,  
 you stole the wheel from the Sun, o Indra;
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 √muṣ takes a double acc. 
 
@@ -112,23 +112,23 @@ Klein (DGRV I.431-32). It would be better if the first one were in vs. 5, not vs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When for the sake of those oppressed, and Kutsa as he battled,  
      Thou stolest away the Sun's car-wheel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wo du für die Bedrängten, für den kämpfenden Kutsa der Sonne das Rad stahlst, o Indra;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Indra den Bedrängten du, dem Kutsa, da er kämpfte einst, Das Rad, die Sonne, hast umhüllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И когда для угнетенных,  
 Для сражающегося Кутсы  

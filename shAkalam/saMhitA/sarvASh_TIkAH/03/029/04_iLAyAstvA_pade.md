@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ळायास् त्वा पदे꣡ वयं꣡  
 ना꣡भा पृथिविया꣡ अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡ग्ने हव्या꣡य वो꣡ळ्हवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424);; repeated line
 जात॑ऽवेदः । नि । धी॒म॒हि॒ । अग्ने॑ । ह॒व्याय॑ । वोळ्ह॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iﾱāyās* ← *iﾱāyāḥ* ← *iḍā*
 - \[noun\], genitive, singular, feminine
@@ -101,7 +101,7 @@ genre D;; epic anuṣṭubh (424);; repeated line
 **जातवेदः** जातप्रज्ञ हे **अग्ने** अध्वर्य्वादयः **वयं** **पृथिव्याः** **अधि** भूमेरुपरि उत्तरवेद्यां **नाभा**  नाभौ तस्या नाभिस्थाने मध्यप्रदेशे । तदेव स्थान विशेष्यते । **इळायाः** **पदे** मानव्या इडाया गोः पदे इडापदरूपे उत्तरवेद्यात्मके स्थाने **त्वा** त्वां **हव्याय** **वोळ्हवे** पुरोडाशादिलक्षणं हविर्वोढुं **नि** **धीमहि** निदधीमहि । उक्तार्थे ब्राह्मण -- ‘ इळायास्त्वा पदे वयं नाभा पृथिव्या अधीत्येतद्वा इळायास्पदं यदुत्तरवेदीनाभिर्जातवेदो नि धीमहीति निधास्यन्तो ह्येनं भवन्त्यग्ने हव्याय वोळ्हव इति हव्यं हि वक्ष्यन्भवति ' ( ऐ. ब्रा. १. २८ ) इति ॥ नाभा ।  ‘ णह बन्धने '। 'इञ् ' इत्यनुवृत्तौ  ‘ नहो भश्च ' इति इञ् भकारश्चान्तादेशः । ञित्त्वादुपधावृद्धिः । नह्यतीति नाभिर्मध्यस्थानम् । ' सुपां सुलुक्° ' इति सप्तम्या डादेशः । ञित्स्वरः । धीमहि । दधातेर्लिङि रूपम् ।  ‘ लिङः । सीयुट्' (पा. सू. ३. ४. १०२ ) इति सीयुट् । द्विर्वचनाभावश्छान्दसः । निघातः । वोळ्हवे ।  ‘ वह प्रापणे '। तुमर्थे तवेन् । 'सहिवहोरोदवर्णस्य' इति धात्वकारस्यौत्वम् । ढत्वधत्वष्टुत्वढलोपाः ॥ नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,33 +112,33 @@ genre D;; epic anuṣṭubh (424);; repeated line
 **Yajus**. 34.14-15; in the plural ce of iḷā: iḷāyāspade **nābhā** pṛthivyāḥ **adhi**, i.e. in the middle of the northern altar; the hymn is also cited in **Aitareya** **Brāhmaṇa** 1.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the footprint of the libation and upon the navel of the earth, we would install you to convey our oblation, o Agni Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In Ila's place we set thee down, upon the central point of earth,  
      That, Agni Jatavedas, thou mayst bear our offerings to the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 In the place of Ilâ, on the navel of the earth we will lay thee down, Gâtavedas, that thou, O Agni, mayst carry the offerings (to the gods).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir setzen dich ein in die Stätte der Ila im Nabel der Erde, o Agni Jatavedas, daß du die Opferspende fahren sollst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir setzten an der Andacht Ort, dich auf der Erde Nabel hin, dass du, o Wesenkenner, uns, o Agni, unser Opfer fährst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Джатаведас, мы устраиваем  
 Тебя на месте Иды,  

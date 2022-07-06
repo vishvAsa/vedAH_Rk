@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ ह त्य꣡द् वर्ति꣡र् य꣡द् अ꣡रध्रम् उग्रा  
 इत्था꣡ धि꣡य ऊहथुः श꣡श्वद् अ꣡श्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि व्य꣡थिर् दाशु꣡षो म꣡र्तियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मनः॑ऽजवेभिः । इ॒षि॒रैः । श॒यध्यै॑ । परि॑ । व्यथिः॑ । दा॒शुषः॑ । मर्त्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -120,20 +120,20 @@ genre M
 ”ता **ह** तौ खलु **उग्रा** उग्रावश्विना युवां **यत्** **अरध्रम्** असमृद्धं **त्यत्** **वर्तिः** यजमानस्य तत् गृहं समर्धयितुं गच्छथः । किंच **इत्था** इत्थं **धियः** स्तोतॄन् **इषिरैः** एषणीयैः काम्यैः **मनोजवेभिः** मनोवेगैः **अश्वैः** स्वीयैरश्वैः **शश्वत्** सर्वदा **ऊहथुः** स्वर्गं प्रापयथः । **मर्त्यस्य** मनुष्यस्य **दाशुषः** यजमानस्य **व्यथिः** हिंसक: **परि** **शयध्यै** परिशयनाय दीर्घनिद्रायै युवाभ्यां क्रियताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Aśvins**, from thhat humble mansion to which (you have repaired), you have ever borne with your desirable horses, as swift as thought, the pious worshippers in some manner (to heaven); let the injurer of the liberal man (be consigned by you) to (final) repose.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When (you drive) this circuit without slackening, o powerful ones. Over  and over you have conveyed insights that are right to the point, with  your horses  
 swift as thought and vigorous, in order to circumscribe the wayward  course of the pious mortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. presents a different type of grammatical disharmony, though it again concerns how to construe the first pāda. Once again it begins with du. tā́, but in this case that prn. can be the subj. of the 2nd dual pf. ūhathuḥ. (Though by my rules,= I would prefer not to have a 3rd ps. prn serving as subj. to a non-imperatival verb [see my “sa figé”], I do have to reckon with a fairly clear ex. in 6ab.) The problems lie in 1) vartíḥ ‘circuit’ and 2) yád. To begin with the 2nd, if yád is functioning as a subordinating conjunction and ab is a single clause, ūhathuḥ in b should be accented.
 
@@ -144,23 +144,23 @@ The lexeme pári √śi means lit. ‘lie around’ and is used, e.g., of Vṛtr
 Note the echo effect of vártiḥ (a) / vyáthiḥ (d).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye to that bounteous path of yours, ye mighty, have ever borne away our thoughts with horses,  
      Mind-swift and full of vigour, that the trouble of man who offers gifts might cease and slumber.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solche habt ihr Gewaltige immer wieder diese unermüdliche Umfahrt zu dem darauf rechnenden Sterblichen unternommen, mit den gedankenschnellen eifrigen Rossen, um den Fehltritt des opfernden Sterblichen zu verhüten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr fuhret stets zur eifervollen Festschar, gewalt'ge mit den Rossen recht zur Andacht, Den geistesschnellen, muntern, um zu ruhen rings bei dem Werk des Mannes, der euch huldigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот такие, (совершая) тот (свой) объезд, который неутомим, о грозные,  
 Вы постоянно возите (с собой) истинные молитвы на конях,  

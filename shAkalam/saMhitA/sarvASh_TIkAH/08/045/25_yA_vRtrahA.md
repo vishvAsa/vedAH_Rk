@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वृत्रहा꣡ पराव꣡ति  
 स꣡ना न꣡वा च चुच्युवे꣡  
 ता꣡ संस꣡त्सु प्र꣡ वोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ता । सं॒सत्ऽसु॑ । प्र । वो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वृत्रहा** इन्द्रः **परावति** दूरे **या** यानि **सना** सनातनानि **नवा** नवानि नूतनानि **च** धनानि **चुच्युवे** प्रेरितवान् तानि धनानि **संसत्सु** यज्ञेषु सभासु वा **प्र** **वोचत** प्रबूते विद्वज्जनः ॥ ॥ ४६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Proclaim in our assemblies those perpetual and ever new riches which the slayer of **Vṛtra** sends fromafar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those (deeds) that the Vr̥tra-smiter set in motion afar, both the old ones  and the new,  
 proclaim these at the assemblies:
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Proclaim in our assemblies what deeds, new and ancient, far away,  
      The Vrtra-slayer hath achieved.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was der Vritratöter in der Ferne Altes und Neues unternommen hat, das verkündet in den Versammlungen:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was alt und neues hat vollbracht der Vritratödter ferne dort, Das rühmet bei den Festen hoch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те старые и новые (деяния),  
 Что совершил убийца Вритры вдалеке, –  

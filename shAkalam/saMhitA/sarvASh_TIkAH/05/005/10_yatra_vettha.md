@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र वे꣡त्थ वनस्पते  
 देवा꣡नां गु꣡ह्या ना꣡मानि  
 त꣡त्र हव्या꣡नि गामय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 तत्र॑ । ह॒व्यानि॑ । ग॒म॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M
 हे **वनस्पते** यूपाभिमानिदेव **यत्र** यस्मिन् स्थाने **वेत्थ** **देवानां** **गुह्या** गुह्यानि **नामानि** नामकानि रूपाणि **तत्र** **हव्यानि** **गमय** प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,33 +89,33 @@ genre M
 **Yatra** vettha devānām **guhyā** nāmāni: nāmāni = rūpāṇi, forms; it is not soecufued as a faculty of vanaspati in any preceding hymn to the āpris, although vanaspati, in the preceding hymns and also here represents **Agni**, as identified with the sacrificial **post**, or **yūpa**, or the deity presiding over the post: yūpābhimānī **deva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where you know, o Lord of the Forest, to be the hidden names of the gods, there make our oblations go.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vanaspati, wherever thou knowest the Gods' mysterious names,  
      Send our oblations thitherward.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Where thou knowest, O tree (i. e. sacrificial post), the secret names of the gods, to that place make the offerings go.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo du, Baum, der Götter geheime Namen weißt, dorthin bringe die Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo du der Götter Wesen weisst, o Waldherr, das verborgene, Dahin lass unsre Opfer gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где знаешь ты, о  
 дерево  

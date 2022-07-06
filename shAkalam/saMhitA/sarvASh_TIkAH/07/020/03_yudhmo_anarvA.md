@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युध्मो꣡ अनर्वा꣡ खजकृ꣡त् सम꣡द्वा  
 शू꣡रः सत्राषा꣡ड् जनु꣡षेम् अ꣡षाळ्हः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा वि꣡श्वं शत्रूय꣡न्तं जघान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । आ॒से॒ । इन्द्रः॑ । पृत॑नाः । सु॒ऽओजाः॑ । अध॑ । विश्व॑म् । श॒त्रु॒ऽयन्त॑म् । ज॒घा॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yudhmo* ← *yudhmaḥ* ← *yudhma*
 - \[noun\], nominative, singular, masculine
@@ -128,42 +128,42 @@ genre M
 **युध्मः** योद्धा **अनर्व** अभिगन्तृरहितो युद्धेष्वपराङ्मुखो वा **खजकृत्** युद्धकृत् । ‘खले खजे ' इति युद्धनामसु पाठात् । **समद्वा** । समत् कलहः। तद्वान् **शूरः** शौर्योपेतः **जनुषा** जन्मना स्वभावत एव सत्राषाट् बहूनामभिभविता **अषाळ्हः** स्वयं च केनाप्यनभिभूतः **स्वोजाः** सुबलः **ईम्** अयम् **इन्द्रः** **पृतनाः** शत्रूणां सेनाः **व्यासे** विक्षिपति । **अध** अपि च **शत्रूयन्तं** शात्रवमाचरन्तं **विश्वं** सर्वं **जघान** हन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A warrior who turns not back in battle, a combatant, one engaged in tumults, a hero, victorious over(his) foes from birth, invincible, of great vigour, this **Indra** scatters (hostile) hosts and slays all (his) adversaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 An unassailable battler, creating tumult, combat-hardened—a  champion, conquering entirely, unconquerable even at his birth— Indra of great strength dispersed the battle arrays; then he smashed  everyone who played the rival.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 khaja- lacks an etymology (see EWA s.v. khaja-kṛ́t-), but embedded in an epithet of Indra in martial contexts like this, ‘tumult’ serves as well as anything else.
 
 The particle īm here lacks its usual accusative function (see Jamison 2002) and does not take its usual Wackernagel position; it therefore reminds us a bit of the similarly irrational áha vaí of the preceding verse. However, īm does serve to forestall a hiatus between janúṣā and áṣaḷḥaḥ and its position immediately after the former can be taken to signal that janúṣā áṣaḷḥaḥ are to be construed together. For another example of janúṣem see the next hymn (VII.21.1). 20 Note the sibiliant play beginning with samádvā and continuing through the end of the hemistich.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soldier unchecked, war-rousing, battling Hero, unconquered from of old, victorious ever,  
      Indra the very strong hath scattered armies; yea, he hath slain each foe who fought against him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Kämpfer ohne Nebenbuhler, streitbar, schlachtgewohnt, ein Held, der vollständig bezwingt, schon von Geburt unbezwingbar. Indra hat die Schlachtreihen mit seiner Stärke zersprengt und jeden Angreifer getötet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Held, unnahbar, schlachterregend, kampfreich, der stete Sieger, selber unbesiegbar, Indra zerstreute krafterfüllt die Heere, dann schlug er jeden, der sich ihm als Feind bot.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воинственный, неотразимый, вызывающий столкновения, упивающийся боем,  
 Отважный, полностью покоряющий (и) непокоренный с самого рожденья...  

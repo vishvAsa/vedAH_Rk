@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यातम् उ꣡पश्रुति  
 अ꣡श्विना सो꣡मपीतये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ कवी धीति꣡भिर् नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वाहा॑ । स्तोम॑स्य । व॒र्ध॒ना॒ । प्र । क॒वी॒ इति॑ । धी॒तिऽभिः॑ । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -100,7 +100,7 @@ genre M
 कर्मभिर्वा हे नरा सर्वेषां नेतारावश्विनौ सोमपानाय आ यातमित्येकमेव वाक्यम्। अस्मिन् पक्षे धीतिभिरित्यपराङ्गवत्त्वाभावश्छान्दसः। यद्वा । धीतिभिर्ध्यातव्याभिर्युष्मदीयाभिरूतिभिः सार्धम् आ यातमिति क्रियया संबन्धः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,13 +115,13 @@ Svāhā = vā or **stuti**, **vācā** stutau;
 Stomasya = stotuḥ; dhītibhi... **nara** = karmabhir yaṣṭuhpravardhakau bhavatam; or, buddhibhir ātmīyaiḥ karmabhir vā sarveṣām netārau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to us for soma-drinking upon hearing  
 “Svāhā!” and the praise song—o strengthening Aśvins; (drive) forth by  reason of our insightful thoughts, you poets and superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I construe both svā́hā and stómasya with úpaśrutī, although they are in different pādas. (Geldner takes svā́hā as an independent mini-clause and construes stómasya with voc. vardhanā.) Although várdhana- regularly does take the genitive, I am reluctant to take stómasya with it because we might expect the gen. to lose its accent in a vocative phrase (although this loss is of course not invariable, as Oldenberg points out). úpaśruti- also takes the gen. (see I.10.3), and since svā́hā is indeclinable, it can also be dependent on úpaśruti-, at least as I see it. Oldenberg also floats the possibility that stómasya goes with úpaśrutī, though he seems to favor a connection with várdhanā.
 
@@ -130,23 +130,23 @@ It is not clear whose dhītí- ‘insights’ are in question in c. Geldner take
 With prá in d I supply another verb of motion. Judging from his tr. Geldner must take the verb to be supplied as prá √as ‘be outstanding’: “Ihr … (seid) an Gedanken … voraus.” This is not impossible, but this is a journey hymn and not much else happens, esp. in this section: we offer praise; they come.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Asvins, to give car to us, to drink the Soma, Asvins, come.  
      Hail, Strengtheners of the praise-song speed onward, ye Heroes, with your thoughts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt, Asvin, um uns zuzuhören, zum Somatrunk! Zum Wohl! ihr Mehrer des Lobliedes, ihr Seher und Herren seid an Gedanken den anderen voraus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns zu erhören kommt herbei, o Ritter, zu dem Somatrunk; Heil euch! ihr Segner des Gesangs, ihr weisen Männer, hoch an Geist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте, чтобы к нам прислушаться,  
 О Ашвины, на питье сомы!  

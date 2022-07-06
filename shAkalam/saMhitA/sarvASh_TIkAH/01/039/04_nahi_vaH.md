@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ वः श꣡त्रुर् विविदे꣡ अ꣡धि द्य꣡वि  
 न꣡ भू꣡मियां रिशादसः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रु꣡द्रासो नू꣡ चिद् आधृ꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यु॒ष्माक॑म् । अ॒स्तु॒ । तवि॑षी । तना॑ । यु॒जा । रुद्रा॑सः । नु । चि॒त् । आ॒ऽधृषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 हे **रिशादसः** शत्रुहिंसका मरुतः **अधि** **द्यवि** द्युलोकस्योपरि **वः** युष्माकं **शत्रुः** **नहि** **विविदे** न च बभूव । तथा **भूभ्याम्** अपि शत्रुः न बभूव । हे **रुद्रासः** रुद्रपुत्रा मरुतः **युष्माकम्** एकोनपञ्चाशत्संख्यानां भवतां **युजा** योगेन परस्परैकमत्येन **आधृषे** वैरिणां सर्वतो धर्षणाय **तविषी** बलं **नू** **चित्** क्षिप्रमेव **तना** **अस्तु** विस्तृता भवतु ॥ विविदे । 'विद सत्तायाम्' । लिटि प्रत्ययस्वरः । द्यवि नहि विविदे भूम्यां च न विविदे इति चशब्दार्थप्रतीतेः ‘चादिलोपे विभाषा ' इति प्रथमायाः तिङ्विभक्तेर्निघातप्रतिषेधः । प्राथग्यं च अनुषक्तक्रियापेक्षया। रिशादसः। ‘रिश हिंसायाम्। रिशन्ति हिंसन्तीति रिशाः । इगुपधलक्षणः कः । तान् अदन्तीति रिशादसः । असुन् । आमन्त्रितनिघातः । युजा । ‘युजिर योगे'। 'ऋत्विक् ' इत्यादिना क्विन् । 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । रुद्रासः । रुद्रशब्देन तसंबन्धिनो मरुतो लक्ष्यन्ते ।  ‘ आजसेरसुक्'। नू चित् ।' ऋचि तुनुघ' इत्यादिना दीर्घः । आधृषे । 'ञिधृषा प्रागल्भ्ये '। संपदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 Rudrāsaḥ: **rudra-putraḥ**, sons of Rudra, perhaps a reference to the protection by Rudra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For a rival to you has not been found in heaven nor on earth, o you who  care for the stranger.  
 Yours be the might, with your full lineage as yokemate; o Rudras, let it  never be open to challenge.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of pāda c is identical to 2c. The rest of this hemistich presents a few problems. The phrase tánā yujā́is rendered variously. My translation is based on the observation that in almost every single instance yujā́follows an instr. in an expression meaning “with X as yoke-mate” (X may either be animate [e.g., I.8.4 tváyā yujā́] or inanimate [e.g., X.83.3 tápasā yujā́“with fervor as yokemate”]). In this case, I take the root noun tán- to refer to the Marut’s entire lineage, in other words their family heritage and their sibling connections to each other. The instr.
 
@@ -143,23 +143,23 @@ I separate the two pādas (so also Renou), in great part because of the position
 However, a tr. similar to Geldner’s, “your might is never to be open to challenge,” would also be possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Consumers of your foes, no enemy of yours is found in heaven or on the earth:  
      Ye Rudras, may the strength, held in this bond, be yours, to bid defiance even now.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nicht ward euch ein Meister gefunden im Himmel noch auf Erden, ihr Stolzen. In geschlossener Reihe muss eure Stärke, ihr Rudrasöhne, niemals anzugreifen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn in dem Himmel gibt es keinen Feind für euch, Feindtilger, auf der Erde nicht; Euch bleibe stets, o glänzende, die Uebermacht, Der nie zu widerstehen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не найти (достойного) вас врага ни на небе,  
 Ни на земле, о вы, заботящиеся о чужом (?),  

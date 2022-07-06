@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ दूतः꣡ · प्रथमो꣡ व꣡रेण्यः  
 स꣡ हूय꣡मानो अमृ꣡ताय मत्स्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवां꣡ स्तो꣡मेभिर् भृ꣡गवो वि꣡ रुरुचुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । म॒र्ज॒य॒न् । म॒रुतः॑ । दा॒शुषः॑ । गृ॒हे । त्वाम् । स्तोमे॑भिः । भृग॑वः । वि । रु॒रु॒चुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -115,36 +115,36 @@ genre M
 हे अग्ने **त्वं** **दूतः** देवानां दूतकर्मणि नियुक्तः **प्रथमः** मुख्यः प्रथितः प्रख्यातो वा **वरेण्यः** संभजनीयश्चासि । **सः** त्वम् **अमृताय** अमरणाय तदर्थं नोऽस्माभिः **हूयमानः** हविषा तर्प्यमाणो वा सन् **मत्स्व** तृप्यस्व ॥ ‘मदी हर्षे' । छान्दसो विकरणस्य लुक् ॥ अपि च **त्वां** मध्यमस्थाने वैद्यतरूपेण वर्तमानं **मरुतः** तत्रत्या देवगणाः **मर्जयन्** मार्जयन्ति अलंकुर्वन्ति । तथा **दाशुषः** हवींषि दत्तवतो यजमानस्य **गृहे** **स्तोमेभिः** स्तोमैः स्तोत्रैः **भृगवः** भृगुगोत्रा ऋषयस्त्वां वि **रुरुचुः** विशेषेण दीपयन्ति ॥ भृगुशब्दादुत्तरस्य तद्धितस्य ‘अत्रिभृगुकुत्स°' (पा. सू. २.४.६५) इत्यादिना बहुषु लुक् । रुरुचुः । ‘ रुच दीप्तौ' । अस्माच्छान्दसो लिट् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are the chief and most excellent messenger; do you, invoked by us to partake of the ambrosia,become exhilarated; the **Maruts** decorated you in the dwelling of the donor of the oblation; the **Bhṛgus** haveglorified you with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the foremost messenger, worthy to be chosen. Being summoned  for immortal (soma?), become exhilarated (on it).  
 You did the Maruts groom in the house of the pious; you did the Bhr̥gus  illuminate with praises.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First messenger art thou, meet for election: drink thou thy fill invited to the Anirta,  
      The Maruts in the votary's house adorned thee; with lauds the Bhrgus gave thee light and glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du wardst der erste wählbare Bote. Ergötze dich, wann du für den Unsterblichen gerufen wirst! Dich putzen die Marut im Hause des Opferers, dich haben die Bhrigu´s durch ihre Lobgesänge erleuchtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der erste Bote bist du, den man gern erwählt, berausche dich gerufen zu dem Göttertrank; Dich schmückten aus die Maruts in des Frommen Haus, dich zündeten die Bhrigu's an mit Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты вестник, первый, желанный.  
 Радуйся, когда (тебя) зовут для мира бессмертных!  

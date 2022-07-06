@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सविता꣡ वो अमृतत्व꣡म् आ꣡सुवद्  
 अ꣡गोहियं य꣡च् छ्रव꣡यन्त अइ꣡तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ए꣡कं स꣡न्तम् अकृणुता च꣡तुर्वयम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्यम् । चि॒त् । च॒म॒सम् । असु॑रस्य । भक्ष॑णम् । एक॑म् । सन्त॑म् । अ॒कृ॒णु॒त॒ । चतुः॑ऽवयम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -126,7 +126,7 @@ genre M
 हे ऋभवः **तत्** तदानीं **सविता** सर्वस्य प्रेरको देवः **वः** युष्माकम् **अमृतत्वं** देवत्वम् **आसुवत्** आभिमुख्येन प्रेरितवान् दत्तवानित्यर्थः । **यत्** यदा यूयम् **अगोह्यं** गूहितुमशक्यं सर्वैर्दृश्यमानं सवितारं **श्रवयन्तः** अपेक्षितं सोमपानं विज्ञापयन्तः सन्तः **ऐतन** आगच्छत । तदानीमिति पूर्वेणान्वयः । यस्मात् यूयं देवैराज्ञापिताः सन्तः **असुरस्य** त्वष्टुः संबन्धिनम् । तेन निर्मितमित्यर्थः । **भक्षणं** सोमपानसाधनं **त्यं** तं **चमसम्** **एकं** **चित्** असहायमेव **सन्तं** **चतुर्वयं** चतुर्व्यूहम् **अकृणुत** कृतवन्तः । सृष्ट्यादौ त्वष्ट्रा कृतं चमसं होतृचमसादिमुख्यचमसचतुष्टयरूपेण ऋभवः कृतवन्तः इत्यर्थः ॥ असुवत् । **षू** प्रेरणे'। तौदादिकः । श्रवयन्तः । श्रु श्रवणे' । छान्दसो वृद्ध्यभावः। ऐतन। लङि मध्यमबहुवचनस्य तादेशे ‘तप्तनप्तनथनाश्च' इति तनबादेशः । भक्षणम् । करणे ल्युट् । अकृणुत।  कृवि, हिंसाकरणयोश्च । लङि मध्यमबहुवचने ‘धिन्विकृण्व्योर च' इति उप्रत्ययः । चतुर्वयम् । वया अवयवाः । चत्वारोऽवयवा यस्य स तथोक्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 Who is not to be concealed: In the previous hymn, Savitā (from su, to offer oblations) perhaps refers to the presenter of oblations; in this hymn, the sun is alluded to
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then Savitar impelled you to immortality when you went to make  Agohya heed.  
 This very beaker, the drinking vessel of the lord [=Tvaṣṭar]—though it  was single, you made it fourfold.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́suvat ‘impelled’ is of course a pun on Savitar, its subject.
 
@@ -152,23 +152,23 @@ The final pāda is parallel to 2a: … prá yád ichánta aítana / … yác chr
 What exactly is happening in 3d is unclear, since Agohya is a shadowy figure in Ṛbhu mythology. In Ṛbhu hymns they sleep in his house (I.161.11, IV.33.7); the most similar passage to ours is I.161.13, where the Rbhus ̥ after their sleep ask him ágohya ká idáṃ no abūbudhat “O Agohya, who has awakened us here/now?” In our passage the mirror-image action seems to be depicted -- they're making him heed, that is, waking him up. I do not know what to do with this observation, however.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar therefore gave you immortality, because ye came proclaiming him whom naught can hide;  
      And this the drinking-chalice of the Asura, which till that time was one, ye made to be fourfold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da beschied euch Savitri die Unsterblichkeit, als ihr den Agohya anrufend kamet. Ihr habt sogar jenen Becher, das Trinkgefäß des Asura, der einzig war, vervierfacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Darum verlieh euch Savitar Unsterblichkeit, weil ihm, den ewig hellen rufend, ihr erschient, Den Becher auch, aus welchem trinkt der ew'ge Gott, den einen habt ihr in vier Becher umgeformt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут Савитар сотворил вам бессмертие,  
 Когда вы отправились, крича, к Агохье,  

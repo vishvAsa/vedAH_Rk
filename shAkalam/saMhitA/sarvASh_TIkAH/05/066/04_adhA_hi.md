@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हि꣡ का꣡विया युवं꣡  
 द꣡क्षस्य पूर्भि꣡र् अद्भुता  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 चिके꣡थे पूतदक्षसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नि । के॒तुना॑ । जना॑नाम् । चि॒केथे॒ इति॑ । पू॒त॒ऽद॒क्ष॒सा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -95,35 +95,35 @@ genre M
 **अध** अपि च । **हि** प्रसिद्धौ । **काव्या** स्तुत्यौ **युवं** युवां **दक्षस्य** प्रवृद्धस्य मम **पूर्भिः** पूरकैः स्तवैः हे **अद्भुता** महान्तावाश्चर्यभूतौ सन्तौ **केतुना** प्रज्ञानेनानुकूलेन मनसा **जनानां** यजमानानामित्यर्थः । स्तोत्रं **नि** **चिकेथे** नितरां जानीथः । हे **पूतदक्षसा** शुद्धबलौ युवाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Now, adorable and wonderful deities, (propitiated) by the former (praises) of (me, your) worshipper; do you, who are of pure vigour, consider with approving minds (the adoration) of these men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because then, you undeceivable ones, by the fortresses of your skill you perceive our verbal craft through the beacon of the peoples [=Agni],  o you of purified skill.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And ye show wMom, Wondrous Gods with fulness of intellIgence.  
      By men's discernment are Ve marked, O ye whose might is purified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und ihr berget ja alle weisen Gedanken mit den Burgen des Verstandes, ihr Wunderbaren; ihr nehmt sie wahr durch das innere Licht der Menschen, ihr von lauterem Verstand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann zeiget Seherweisheit ihr in Geistes Fülle, Herrliche; Und in der Menschen hellem Sinn erscheint, o reingesinnte, ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А ведь вы, о удивительные,  
 Сквозь твердыни разума  

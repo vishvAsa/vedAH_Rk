@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ ह य꣡त् पित꣡रश् चिन् न इन्द्र  
 वि꣡श्वा वामा꣡ जरिता꣡रो अ꣡सन्वन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ व꣡सु देवयते꣡ व꣡निष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । गावः॑ । सु॒ऽदुघाः॑ । त्वे इति॑ । हि । अश्वाः॑ । त्वम् । वसु॑ । दे॒व॒ऽय॒ते । वनि॑ष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -132,7 +132,7 @@ genre M
 हे **इन्द्र** **त्वे** **ह** त्वय्येव **नः** अस्माकं **पितरश्चित्** पितरोऽपि **जरितारः** स्तोतारः सन्तः **यत्** यस्मात्कारणात् **विश्वा** विश्वानि **वामा** वामानि वननीयानि धनानि । तथा च यास्कः-- ‘वामं वननीयं भवति' (निरु. ६. ३१ ) इति । **असन्वन्** अलभन्त तस्माद्वयमपि धनकामास्त्वां स्तुमः । तद्युक्तम् । **हि** यस्मात् कारणात् **त्वे** त्वयि **गावः** **सुदुघाः** दोग्धुं सुशकाः सन्ति **त्वे** त्वयि **अश्वाः** सन्ति **त्वं** **वसु** धनं **देवयते** देवं त्वामिच्छते यजमानाय **वनिष्ठः** दातृतमो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,36 +143,36 @@ genre M
 Tve = tvayi, in you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since with you beside (them), o Indra, our fathers, the singers, also won  all things of value—  
 because in you are the good milking cows, in you the horses—you are the  best gainer of goods for one who serves the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c contains two parallel nominal clauses. Both should be in the causal domain of the hí, but it is located only in the 2nd of the two. We might have expected \*tu vé hí gā́vaḥ sudúghās tvé áśvāḥ, which would have been just as good metrically.
 
 On the pun in d see published introduction. and comm. ad vs. 4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ALL is with thee, O Indra, all the treasures which erst our fathers won who sang thy praises.  
      With thee are milch-kine good to milk, and horses: best winner thou of riches for the pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ja von dir schon unsere Väter, die Sänger, alles Gute empfingen, o Indra - denn dein sind die gutmelkenden Kühe, dein die Rosse; du bringst dem Gottergebenen am meisten Gut ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ja bei dir, o Indra, unsre Väter lobsingend auch erlangten alle Güter; Denn du hast Rosse, milchverseh'ne Kühe; so schenke bestens du dem Frommen Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раз это у тебя еще отцы наши, о Индра,  
 Певцы, все блага получали,  

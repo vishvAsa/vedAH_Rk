@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡रो न꣡ य꣡स्य दृशति꣡र् अरेपा꣡  
 भीमा꣡ य꣡द् ए꣡ति शुचत꣡स् त आ꣡ धीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡त्रा चिद् रण्वो꣡ वसति꣡र् वनेजाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 हेष॑स्वतः । शु॒रुधः॑ । न । अ॒यम् । अ॒क्तोः । कुत्र॑ । चि॒त् । र॒ण्वः । व॒स॒तिः । व॒ने॒ऽजाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **सूरो** **न** सूर्यस्येव **यस्य** अग्नेः **दृशतिः** दर्शनम् **अरेपाः** पापरहितम् । हे अग्ने **यत्** यस्य **ते** तव **शुचतः** ज्वलतः **धीः** धारयित्री ज्वाला **भीमा** भयंकरा सती **आ** समन्तात् **एति** गच्छति । यः **अयम्** अग्निः **हेषस्वतः** शब्दयुक्ता: **शुरुधो** **न** शुचः शोकस्य रोधयित्रीर्गाश्च **अक्तोः** । अक्तुरिति रात्रिनाम । तेन च तंत्र संचारी राक्षसादिर्लक्ष्यते । राक्षसादेः स्वभूता ददातीति शेषः । सोऽयं **वसतिः** सर्वेषामावासभूतः **वनेजाः** अरण्ये जायमानः **कुत्रा** **चित्** क्वचिदेव स्थाने पर्वताग्रादौ रण्वः रमणीयो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ Pur = night-walkers, **rākṣasas** rākṣasādeḥ svabhūtā dadāti: she, n
 Raṇvaḥ = an epithet of ayam, this, Agni, **ramaṇīya** = agreeable, beautiful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You) whose appearance is spotless like that of the sun: when your  fearsome insight comes here as you blaze,  
 rich spoils (become yours), since (you are) armed. (But) on his own this  one here [=you, Agni], born in the wood(s), is sometimes a cozy nest.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs., esp. its 2nd half, bristles with difficulties and has been interpr. in an exhausting variety of ways (not only the usual tr., but also, e.g., Oldenberg at length in ZDMG 55.283-84=KlSch 742-43; Thieme Unters.; Lüders, AcOr 13 [=Phil.Ind.]; Scarlatta 146-47; Gonda, Ved.Lit. 219). I will not treat these other interpr. in detail, but merely lay out my own, which is in closest agreement with Lüders (“Ved. heṣant-...,” Philol. Ind.: 781ff.) through the first half of c. The general point of the vs. seems to be, as often, to contrast the fearsome and militant aspects of Agni with his benign ones.
 
@@ -164,23 +164,23 @@ The adj. raṇvá- recurs here from VI.2.7. On its indirect association with ‘
 I take kútrā cid as temporal rather than spatial.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright God, whose look is free from stain like Surya's, thou, swift, what time thou earnestly desirest,  
      Hast gear to give us. Come with joy at evening, where, Child of Wood, thou mayest also tarry.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Anblick fleckenlos wie die Sonne, furchtbar, wenn deine, des Glühenden, Hastigen Absicht auf Beute ausgeht, derselbe ist des Nachts überall ein angenehmer Hausbewohner, der Holzgeborene.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn strahlenreich mit hehrem Glanz du nahest, ganz fleckenlos an Aussehn wie die Sonne, Dann gleichst du nächtlich Pfeil-versehnen Helden; stets lieblich ist dein waldentsprungner Wohnsitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чей вид лишен пятен, как у солнца,  
 (И) страшен, когда у тебя, пылающего, ревущего, замысел  

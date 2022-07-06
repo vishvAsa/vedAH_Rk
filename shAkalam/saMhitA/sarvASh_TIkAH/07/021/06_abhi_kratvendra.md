@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ क्र꣡त्वा इन्दर+ भूर् अ꣡ध ज्म꣡न्  
 न꣡ ते विव्यङ् महिमा꣡नं र꣡जांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ श꣡त्रुर् अ꣡न्तं विविदद् युधा꣡ ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वेन॑ । हि । वृ॒त्रम् । शव॑सा । ज॒घन्थ॑ । न । शत्रुः॑ । अन्त॑म् । वि॒वि॒द॒त् । यु॒धा । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -139,20 +139,20 @@ genre M
 हे **इन्द्र** त्वं **क्रत्वा** कर्मणा **ज्मन्** पृथिव्यां वर्तमानान् जन्तून् वा **अभि** **भूः** अभ्यभूः । **अध** अपि च **ते** तव  **महिमानं**  **रजांसि** सर्वे लोकाः **न** **विव्यक्** । व्यचिर्व्याप्तिकर्मा । न व्याप्नुवन्नित्यर्थः । **स्वेन** **हि** आत्मीयेन च **शवसा** बलेन **वृत्रं** **जघन्थ** त्वमवधीः । **शत्रुः** च **युधा** युद्धेन **ते** तव  **अन्तं** हिंसां **न** **विविदत्** न लब्धवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, by your function, preside over the beings (of earth); all the regions (of the world) do notsurpass your magnitude; by thine own strength you have slain **Vṛtra**; no enemy has effected your destruction inbattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be superior through your will, Indra, on the earth. The realms do not  contain your greatness.  
 Since with your own vast power you smashed Vr̥tra, no rival will find the  end (of it) in battle with you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the injunc. bhūḥ in the first pāda as imperatival, although Geldner’s preterital value is also possible.
 
@@ -165,23 +165,23 @@ The verb in d, vividat, is morphologically slightly problematic. Following Grass
 Geldner construes the enclitic te with ántam: “… dein Ende finden,” but the enclitic seems wrongly positioned for this interpretation (insofar as we understand the positioning of adnominal enclitics - but see te asuryā̀ya in 7a), and at least one parallel passage suggests that it is the end of his śávas- that is at issue: I.100.15 ná … śávaso ántam āpuḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou in thy strength surpassest Earth and Heaven: the regions comprehend not all thy greatness.  
      With thine own power and might thou slewest Vrtra: no foe hath found the end of thee in battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An Umsicht wardst du da auf Erden überlegen, Indra; deine Größe fassen die Welträume nicht. Aus eigener Kraft hast du ja den Vritra erschlagen. Nicht wird im Kampf ein überlegener Gegner dein Ende finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, siegst mit Kraft auf deinem Gange, der Weltenraum umfasst nicht deine Grösse; Durch eigne Kraft erschlugst du ja den Vritra; kein Feind erreicht dein Ende je im Kampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Силой духа, о Индра, ты превзошел (всех) тут на земле.  
 Твоего величия не вмещают (земные) просторы.  

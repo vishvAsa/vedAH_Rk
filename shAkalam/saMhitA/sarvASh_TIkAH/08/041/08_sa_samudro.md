@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ समुद्रो꣡ अपीचि꣡यस्  
 तुरो꣡ द्या꣡म् इव रोहति  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । मा॒याः । अ॒र्चिना॑ । प॒दा । अस्तृ॑णात् । नाक॑म् । आ । अ॒रु॒ह॒त् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -142,14 +142,14 @@ genre M;; repeated line
 यस्मादापः समुद्द्रवन्ति **सः** वरुणः **समुद्रः** **अपीच्यः** अन्तर्हितः **तुरः** क्षिप्रः **द्यामिव** यथादित्यो द्यां रोहति तथा नाकं **रोहति** । अपि च **यत्** यः वरुणः **आसु** दिक्षु **यजुः** प्रजाभ्यो दानं **नि** **दधे** निदधाति **सः** वरुणः **मायाः** असुराणां मायाः **अर्चिना** अर्चिष्मता **पदा** स्थानेन । तेजसेत्यर्थः। **आ** **अस्तृणात्** समन्ताद्धिनस्ति । **नाकं** स्वर्गम् **आरुहत्** आरोहति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is the hidden ocean; swift he mounts (the heaven) as (the sun) the sky; when he has plural ced thesacrifice in those (regions of the firmament), he demolishes with his brilliant radiance the devices (of the **asuras**);he ascends to heaven; may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A secret sea, powerful, he mounts as if to heaven, when he has  
 deposited the ritual formula in them [=waters?].  
@@ -157,28 +157,28 @@ He scattered the magic arts with his ray as his foot, as he mounted to  the cele
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (n. 8d) I take arcíṇā as instr. to arcí-, not arcín-; among other things, “with his flaming foot” (with arcín-) seems comic.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is an Ocean far-removed, yet through the heaven to him ascends the worship which these realms possess.  
      With his bright foot he overthrew their magic, and went up to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der verborgene Ozean, steigt als Machthaber wie die Sonne zum Himmel, wenn er in ihnen den Opferspruch niedergelegt hat. Er brachte mit dem Strahl als Fuß die Zaubereien zu Fall; er hat das Firmament erklommen. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er steigt als ein verborgnes Meer zum Himmel, wie ein Stürmender, wenn er den Stämmen Ehrfurcht weckt; Das Blendwerk stiess mit Flammenfuss er nieder, stieg zum Himmel auf. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тайный океан, мощный,  
 Он словно поднимается на небо,  

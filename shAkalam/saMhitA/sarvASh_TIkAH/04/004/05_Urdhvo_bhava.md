@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ भव प्र꣡ति विध्या꣡धि अस्म꣡द्  
 आवि꣡ष् कृणुष्व दइ꣡वियानि अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जामि꣡म् अ꣡जामिम् प्र꣡ मृणीहि श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अव॑ । स्थि॒रा । त॒नु॒हि॒ । या॒तु॒ऽजूना॑म् । जा॒मिम् । अजा॑मिम् । प्र । मृ॒णी॒हि॒ । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -142,7 +142,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,13 +155,13 @@ Jāmim ajāmim = bandhum abandhum; or, whether formerly overcome or not;
 Alternative: punaruktam apunaruktam, repeated or not repeated; **puraḥ** punastaditam ataditam, repeatedly chastised or not chastised
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become upright; pierce against (them)—away from us. Make your  heavenly (forms?) manifest, Agni.  
 Slacken the taut (bows) of those incited by sorcerers; kin or non-kin,  pulverize the rivals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. supply ‘powers’ with daívyāni, and this certainly could make sense. However, no word meaning ‘power’ occurs with pl. daívya- (I must admit that sáhas- occurs several times with the sg.) nor as obj. of āvíṣ √kṛ ‘make manifest’.
 
@@ -174,13 +174,13 @@ The more usual interpr. of cmpds with final root noun is OBJ + TRANS. VERB, and 
 However, in yātu-jū́- the final member must be read passively with agentive 1st member: ‘incited by sorcerers’, as VII.21.5, adduced by both Geldner and Scarlatta (173), definitively shows: ná yātáva indra jūjuvur naḥ “Sorcerers do not incite us, Indra.” On the number disharmony in the obj. phrase in d, jāmím ájāmim … śátrūn, see comm. ad VI.44.17.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise, Agni, drive off those who fight against us: make manifest thine own celestial vigour.  
      Slacken the strong bows of the demondriven: destroy our foemen whether kin or stranger.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Stand upright, strike (the foes) away from us! Make manifest thy divine (powers), O Agni! Unbend the strong (bows) of those who incite demons (against us) 1. Crush all enemies, be they relations or strangers.
 </details>
@@ -193,17 +193,17 @@ Slacken the strung (weapon) of the demon-driven;
 Crush our foes, kin or not kin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Richte dich auf, stoß sie von uns weg, offenbare deine göttlichen Kräfte, o Agni! Zermalme die Feinde, den verwandten, wie den fremden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräfte; Mach schlaff die Sehnen aller Spuk-Besessnen, tilg' aus verwandt' und unverwandte Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распрямись! Отгони от нас (врагов,) пронзая (их)!  
 Прояви (свои) божественные (силы), о Агни!  

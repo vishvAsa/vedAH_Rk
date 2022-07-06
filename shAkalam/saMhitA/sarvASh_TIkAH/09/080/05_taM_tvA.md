@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा हस्ति꣡नो म꣡धुमन्तम् अ꣡द्रिभिर्  
 दुह꣡न्ति अप्सु꣡ वृषभं꣡ द꣡श क्षि꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सि꣡न्धोर् इवोर्मिः꣡ प꣡वमानो अर्षसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । सो॒म॒ । मा॒दय॑न् । दैव्य॑म् । जन॑म् । सिन्धोः॑ऽइव । ऊ॒र्मिः । पव॑मानः । अ॒र्ष॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 **तं** तादृशं **मधुमन्तं** मधुररसं **वृषभं** कामानां वर्षकं **त्वा** त्वां **हस्तिनः** सुहस्तस्य **दश** **क्षिपः** अङ्गुलयः **अद्रिभिः** ग्रावभिः **अप्सु** **दुहन्ति** । तादृश हे **सोम** **इन्द्रम्** अन्यं **दैव्यं** **जनं** देवसंबन्धिनं संघं **मादयन्** **सिन्धोरूर्मिरिव** **पवमानः** पूयमानः सन् **अर्षसि** गच्छसि॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The ten fingers of the skillful (one) milk you forth with the stones into the water most sweet-flavoured, the showerer (of benefits); **Soma**, exhilarating **Indra** (and) the celestial people, you rush forth, when filtered, like the wave of a river.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, honeyed, do those having hands milk with stones; you the bull do  the ten fingers milk in the waters.  
 Exhilarating Indra and the divine race, o Soma, purifying yourself, you  rush like the wave of a river.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas have the same structure as 4ab: they share a verb form of √duh, duhánti in b, with two different subjects, hastínaḥ (a) and dáśa kṣípaḥ (b) again. The “stones” of 4c (grā́vabhiḥ) return, but with different lexical realization (ádribhiḥ).
 
@@ -151,23 +151,23 @@ Both vss. open with táṃ tvā, echoing yáṃ tvā beginning vs. 2.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deft-handed men with stones, the ten swift fingers, drain thee into waters, thee, the Steer enriched with sweets.  
      Thou, Soma, gladdening Indra, and the Heavenly Host, flowest as Pavamana like a river's wave.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich den süßen Bullen melken die Arme mit den Steinen ins Wasser, die zehn Finger. Den Indra, das göttliche Volk berauschend fließest du, Soma, dich läuternd wie des Stromes Welle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Steinen melken sie geschickt dich süssesten, und die zehn Finger in den Wassern dich den Stier; Berauschend, Soma, Indra und den Götterstamm, hellflammend fliessest wie des Stromes Welle du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, такого самого сладкого, доят камнями  
 (Мужи с умелыми) руками, быка в воду (выжимают) десять пальцев.  

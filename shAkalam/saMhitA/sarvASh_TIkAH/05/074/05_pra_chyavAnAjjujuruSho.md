@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ च्य꣡वानाज् जुजुरु꣡षो  
 वव्रि꣡म् अ꣡त्कं न꣡ मुञ्चथः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ का꣡मम् ऋण्वे वधु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 युवा॑ । यदि॑ । कृ॒थः । पुनः॑ । आ । काम॑म् । ऋ॒ण्वे॒ । व॒ध्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,37 +116,37 @@ genre M
 **च्यवानात्** ऋषेः **जुजुरुषः** जरसा जीर्णात् सकाशात् **वव्रिं** हेयं पुराणं रूपम् **अत्कं** **न** कवचमिव **प्र** **मुञ्चथः** प्रमुञ्चतम् । ‘प्रामुञ्चतं द्रापिमिव च्यवानात् ' ( ऋ. सं. १. ११६. १०) इत्यादि मन्त्रान्तरम् । **यदि** यदा **पुनः** **युवा** **कृथः** । युवानं कुरुथ इत्यर्थः । तदा **वध्वः** सुरूपायाः स्त्रियः **कामं** कमनीयं रूपम् **आ** **ऋण्वे** प्राप्तवान् ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You stripped off (his aged form) like a cuirass ffrom the decrepit **Cyavāna**, so that, when you had rendered him again a youth, he attracted the desires of women.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You remove the covering like a cloak from Cyavāna, who had  
 become old;  
 as a youth—since you two made him so again—he meets the desire of  his wife.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye from cyavana worn with age removed his skin as 'twere a robe.  
      So, when ye made him young again, he stirred the longing of a dame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem gealterten Cyavana nehmet ihr die Leibeshülle wie ein Gewand ab. "Jung, wenn ihr ihn wieder macht, geht er auf das Verlangen seiner Frau ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem alternden Tschjavana zogt die Haut ihr ab, wie einen Rock, Und wieder jung von euch gemacht, befriedigt er der Gattin Trieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У Чьяваны состарившегося  
 Вы забираете телесную оболочку, словно одежду.  

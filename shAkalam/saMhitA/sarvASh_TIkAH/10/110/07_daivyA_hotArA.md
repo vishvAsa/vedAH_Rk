@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दइ꣡व्या हो꣡तारा प्रथमा꣡ सुवा꣡चा  
 मि꣡माना यज्ञ꣡म् म꣡नुषो य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्राची꣡नं ज्यो꣡तिः प्रदि꣡शा दिश꣡न्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽचो॒दय॑न्ता । वि॒दथे॑षु । का॒रू इति॑ । प्रा॒चीन॑म् । ज्योतिः॑ । प्र॒ऽदिशा॑ । दि॒शन्ता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daivyā* ← *daivya*
 - \[noun\], nominative, dual, masculine
@@ -109,7 +109,7 @@ genre M
 **दैव्या** ॥ ‘देवाद्यञञौ' इति यञ्प्रत्ययः । देवसंबन्धिनौ होतारौ होमनिष्पादकौ होतृनामकावग्न्यादित्यावस्मिन् यज्ञे आसीदताम् । कीदृशौ । **प्रथमा** मनुष्यहोतुः पूर्वभाविनौ **सुवाचा** शोभनस्तोत्रौ **मनुषः** मनुष्यस्य सर्वस्य यष्टुः **यजध्यै** यागनिवृत्तये ॥ यजेस्तुमर्थे शध्यैन्प्रत्ययः ॥ **यज्ञं** **मिमाना** निर्मिमानावुत्पादयन्तौ **विदथेषु** । विदन्त्यत्रर्त्विजः स्वस्वकर्माणीति विदथा यज्ञाः । तेष्वृत्विजो यजमानांश्च **प्रचोदयन्ता** प्रेरयन्तौ **कारू** स्तुतीनां कर्तारौ **प्राचीनं** पूर्वस्यां दिशि यष्टव्यत्वेन स्थितमाहवनीयाख्यं **ज्योतिः** **प्रदिशा** प्रकृष्टेनोपदिष्टमार्गेण यद्वा प्रदिश्यमानेन मन्त्रेण **दिशन्ता** निर्वहन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ genre M
 Eastern fire: **Āhavanīya**. The two divine ministers, of **Hotā** are **Agni** andĀditya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two Divine Hotars, foremost, eloquent, measuring out the sacrifice  of Manu to sacrifice it—  
 the two bards at the rites, spurring on, directing the east-facing light  
 along the forward direction (of the earth) [/at their direction].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come the two first celestial sweet-voiced Hotars, arranging sacrifice for man to worship  
      As singers who inspire us in assemblies, showing the eastward light with their direction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das erste göttliche Hotripaar, das beredte, das des Menschen Opfer ausrichtet, will ich verehren, die beiden zu weisen Reden anregenden Dichter, die mit ihrer Weisung auf das östliche Licht hinweisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götterpriester, welche herrlich singend, zuerst in Stand des Menschen, Opfer setzten, Das Dichterpaar, bei Festen schön begeisternd, das Licht im Osten nach der Richtung zeigend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два божественных  
 хотара  

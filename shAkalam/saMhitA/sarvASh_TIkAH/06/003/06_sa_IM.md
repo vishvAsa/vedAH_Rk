@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईं रेभो꣡ न꣡ प्र꣡ति वस्त उस्राः꣡  
 शोचि꣡षा रारपीति मित्र꣡महाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मर्तियो अरुषो꣡ यो꣡ दि꣡वा नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नक्त॑म् । यः । ई॒म् । अ॒रु॒षः । यः । दिवा॑ । नॄन् । अम॑र्त्यः । अ॒रु॒षः । यः । दिवा॑ । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,20 +132,20 @@ genre M
 **स** **ईं** सोऽयमग्निः **रेभो** **न** स्तुत्यः सूर्य इव **उस्राः** दीप्ता ज्वालाः **प्रति** **वस्ते** आच्छादयति । तथा **मित्रमहाः** सर्वेषामनुकूलप्रकाशः सन् **शोचिषा** तेजसा **रारपीति** भृशं शब्दं करोति । **यः** **ईं** योऽयमग्निः **नक्तं** रात्रौ **अरुषः** आरोचमानः सन् **दिवा** अहनीव **नॄन्** मनुष्यान् स्वस्वकार्ये प्रेरयति । पुनर्यच्छब्दः पूरकः । तथा **अमर्त्यः** अमरणधर्मा **अरुषः** आरोचमानो रोषरहितो वा **यः** अग्निः **दिवा** द्योतमानेन तेजसा **नॄन्** नेतॄनात्मीयान् रश्मीन् प्रेरयति स इति पूर्वत्र संबन्धः । यद्वा । नक्तं रात्रौ योऽयमग्निररुष आरोचमानो यश्च मरणरहितोऽग्निर्दिवा अह्नि नॄन् नेतॄन् देवान् हविर्भिः संयोजयति । यः दिवा नॄनिति पुनरुक्तिरादरार्था ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like the adorable sun, he clothes himself with brilliant (rays); diffusing friendly light, he crackles with (his fame); (he it is) who is luminous by night, and who lights men (to their work) by day; who is immortal and radiant; who lights men by day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a hoarse-voiced (singer), at the dawning of the ruddy (dawn), he  keeps muttering [=crackles] with his flame, he of Mitra’s might,  
 the ruddy one who (mutters) to them by night, who (mutters) by day to  men—the immortal ruddy one who (mutters) by day to men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The noun rebhá- is generally tr. ‘singer’ and the root √ribh from which it is derived, ‘sing’. However, as I discussed in “On Translating the Rig Veda” (2000, Proceedings of UCLA IE conf.) and again in the Intro. to the published translation (p. 78), the limited number of attestations of the verbal root and the variety of contexts in which it is found suggest that its meaning is more specific than ‘sing’. That the sound of √ribh can be compared to that made by birds of prey (IX.97.57) or by ungreased wood on a wagon (TS VII.1.1.3) suggests something on the lines of ‘squawk, squeak, rasp’ -- a hoarse or husky voice quality that would perhaps not be surprising in a middle-aged man in antiquity, esp. one who spent a lot of time huddled over fires.
 
@@ -170,23 +170,23 @@ Oldenberg, fld. by Renou, supplies ‘protects’ (√pā). There’s nothing wr
 Although I still think the 2nd half of this vs. is clumsy, it may be clumsy apurpose.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In beams of morn he clothes him like the singer, and bright as Mitra with his splendour crackles.  
      Red in the night, by day the men's possession: red, he belongs to men by day, Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Barde ruft er bei jedem Aufgang der Morgenröte laut mit seiner Flamme, der wie Mitra Gefeierte, der bei Nacht, der am Tage das rötliche Roß der Männer ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Morgenroth gekleidet wie ein Sänger, spricht murmelnd er im Licht der Freunderfreuer; Der roth bei Nacht bei Tag erfreut die Männer, am Tag' die Männer, flammenroth, unsterblich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно певец, он одевается в зори.  
 Он громко кричит (своим) пламенем, великий, как Митра,  

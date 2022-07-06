@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमी꣡ ये꣡ प꣡ञ्च उक्ष꣡णो  
 म꣡ध्ये तस्थु꣡र् महो꣡ दिवः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 दे॒व॒ऽत्रा । नु । प्र॒ऽवाच्य॑म् । स॒ध्री॒ची॒नाः । नि । व॒वृ॒तुः॒ । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
@@ -122,7 +122,7 @@ genre M;; repeated line
 **उक्षणः** सेक्तारः कामाभिवर्षकाः **पञ्च** । 'तन्न इन्द्रस्तद्वरुणस्तदग्निस्तदर्यमा तत्सविता चनो धात् ' ( ऋ. सं. १. १०७. ३ ) इत्यर्धर्चेन प्रतिपादिताः पञ्चसंख्याका देवाः । यद्वा । अग्निर्वायुः सूर्यश्चन्द्रमा विद्युदित्येवं पञ्चसंख्याकाः । तथा च शाट्यायनकम्-' एतान्येव पञ्च ज्योतींषि यान्येषु लोकेषु दीप्यन्ते । अग्निः पृथिव्यां वायुरन्तरिक्षे च आदित्यो दिवि चन्द्रमा नक्षत्रे विद्युदप्सु ' इति । नक्षत्रे नक्षत्रलोके । अप्सु मेघस्थोदकेषु । तैत्तिरीयेऽप्येवमाम्नातम्-‘अग्निः पृथिव्यां वायुरन्तरिक्षे सूर्यो दिवि चन्द्रमा दिक्षु नक्षत्राणि स्वर्लोके' (तै. आ. १. २०. १) इति । **ये** **अमी** पञ्चसंख्याका देवाः **महो** **दिवः** महतो विस्तीर्णस्य द्युलोकस्य **मध्ये** **तस्थुः** तिष्ठन्ति आसते **देवत्रा** देवेषु **नु** क्षिप्रं **प्रवाच्यं** प्रशंसनीयं देवानां योग्यं मदीयं स्तोत्रं प्रति सध्रीचीनाः सहाञ्चन्तो युगपदागच्छन्तस्ते देवाः मदीयं परिचरणं स्वीकुर्वन्ति । तदनन्तरं **नि** **ववृतुः** तृप्ताः सन्तो निवर्तन्ते च । अन्यत् समानम् ॥ उक्षणः । ‘ वा पपूर्वस्य निगमे ' इत्युपधादीर्घाभावः । देवत्रा । देवमनुष्य ' इत्यादिना सप्तम्यर्थे त्राप्रत्ययः । प्रवाच्यम् । वाचयतेः ‘ अचो यत्' इति यत् । ' णेरनिटि ' इति णिलोपः । ‘ यतोऽनावः' इत्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । सध्रीचीनाः । सहाञ्चन्तीति सध्र्यञ्चः । ते एव सध्रीचीनाः । सहपूर्वात् अञ्चतेः ‘ऋत्विक्' इत्यादिना क्विन् । 'अनिदिताम्' इति नलोपः। 'सहस्य सध्रिः' (पा. सू. ६. ३. ९५ ) इति सध्र्यादेशः । ‘ विभाषाञ्चेरदिक्स्त्रियाम् ' इति स्वार्थे ग्वप्रत्ययः । ववृतुः । ‘ वृतु वर्तने '। छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लिट् । व्यत्ययेन परस्मैपदम् । ‘ अन्येषामपि दृश्यते' इति संहितायामभ्यासस्य दीर्घत्वम् ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -133,13 +133,13 @@ genre M;; repeated line
 Five shedders of benefits: They are: **Indra**, **Varuṇa**, **Agni**, **Aryaman**, and **Savitā**; or, fire, wind, the sun, the moon and the lightning, for these are luminous in their respective spheres; or, fire upon earth, wind in the firmament, the sun in heaven, the moon in the plural netary region, and lightning in the clouds. **Taittirīya** **Āraṇyaka** (1.20.1) substitutes the **nakṣatras** (asterisms shining in the **svar-loka**) for lightning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The five oxen that stand yonder in the middle of great heaven— this is now to be proclaimed among the gods—they have turned back  (toward home), directed toward a single end.  
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have no idea what the exact referent of the “five oxen” is, but given their stationing in the middle of heaven and their apparent retrograde motion, it seems that an astronomical body (a constellation?) is referred to. Geldner (/Witzel Gotō) take ní vāvṛtuḥ as “sind … verschwunden,” but ní √vṛt ordinarily means ‘turn back / home’, of bovines, and given that the subject is oxen, albeit metaphorical ones, this idiom works fine in the passage.
 
@@ -154,23 +154,23 @@ As noted in the published introduction, these verses are the omphalos and are ma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May those five Bulls which stand on high full in the midst of mighty heaven,  
      Having together swiftly borne my praises to the Gods, return. Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene fünf Sterne, die in der Mitte des hohen Himmels standen als ein unter Göttern rühmliches Werk, sind miteinander verschwunden. - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und die fünf Stiere, welche dort am grossen Himmels-Nabel stehn, Vereinigt lenken sie dorthin, was Göttern zu verkünden ist. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот те пятеро быков,  
 Которые стояли посреди великого неба –  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मही꣡र् अस्य प्र꣡णीतयः  
 पूर्वी꣡र् उत꣡ प्र꣡शस्तयः  
 वि꣡श्वा व꣡सूनि दाशु꣡षे वि꣡ आनशुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 विश्वा॑ । वसू॑नि । दा॒शुषे॑ । वि । आ॒न॒शुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
@@ -85,36 +85,36 @@ genre M;; line affected by realignment;; repeated line
 **अस्य** इन्द्रस्य **प्रणीतयः** प्रणयनानि धनानां प्रकृष्टप्रापणानि **महीः** महत्यो महान्ति भवन्ति । **उत** अपि च अस्य **प्रशस्तयः** प्रशंसनीयाः कीर्तयः **पूर्वीः** बह्व्यः विस्तृततमा भवन्ति । ता उभयविधाः **दाशुषे** चरुपुरोडाशादीनि दत्तवते यजमानाय दातुं **विश्वा** विश्वानि सर्वाणि **वसूनि** धनानि **व्यानशुः** व्याप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Infinite are his bounties, many are his glories; ample treasures have reached the donor (of oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great is his guidance and many are the encomia for him.  
 All good things are for the pious man—they came through.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His leadings are with power and might and his instructions manifold:  
      He gives the worshipper all wealth: this have they gained.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Groß sind seine Führungen und zahlreich seine Belobungen. Alle Güter sind für den Opferspender bestimmt; sie haben Erfolg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voll Heil sind seine Führungen, und reichlich seine Segnungen, Dem Frommen schenkt er alles Gut; sie drangen durch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно его предводительство,  
 И многочисленны прославления.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡चीम् उ देवा अश्विना धि꣡यम् मे  
 अ꣡मृध्रां सात꣡ये कृतं वसूयु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ नः शक्तं शचीपती श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वाः॑ । अ॒वि॒ष्ट॒म् । वाजे॑ । आ । पुर॑म्ऽधीः । ता । नः॒ । श॒क्त॒म् । श॒ची॒प॒ती॒ इति॑ शचीऽपती । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prācīm* ← *prāñc*
 - \[noun\], accusative, singular, feminine
@@ -132,36 +132,36 @@ genre M
 हे **अश्विना** अश्विनौ **देवा** देवौ युवां **प्राचीम्** ऋज्वीम् **अमृध्राम्** अहिंसितां **वसूयुं** धनमिच्छन्तीं **मे** मम **धियं** बुद्धिं स्तुतिं कर्म वा **सातये** लाभायोचितां **कृतं** कुरुतम् । किंच **वाजे** **आ** संग्रामेऽपि **विश्वा:** **पुरंधीः** अस्मदीया बुद्धीः **अविष्टं** रक्षतम् । हे **शचीपती** । शचीति कर्मनाम । कर्मणां पालकौ **ता** तौ युवां **शचीभिः.** अस्मदीयैः स्तुत्यादिरूपैः कर्मभिः **नः** अस्मान् **शक्तं** प्रयच्छतं धनमिति शेषः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Aśvins**, render my sincere and undisturbed adoration, offered for the sake of riches, (efficacious)for their acquisition; preserve all my caculties in (the time of) battle; protectors of pious acts (influenced) by ouracts, bestow upon us (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O gods, Aśvins, bring forward my insight—not falling short, seeking  good things—to win gain.  
 Help all the forms of plenty here in the competition for the prize. Do as  you are able for us with your abilities, o you lords of abilities.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring forward, Asvins, Gods, to its fulfilment my never-wearied prayer that asks for riches.  
      Vouchsafe us all high spirit in the combat, and with your powers, O Lords of Power, assist us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bringet, ihr Götter Asvin, mein Gedicht vorwärts, daß das schätzebegehrende für die Preisgewinnung nicht zu gering sei! Fördert alle Belohnungen bei dem Preisgewinn! Tut für uns, was ihr könnt, nach bestem Können, ihr Herren der Kunst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Frühgebet, das Gut erfleht, o Götter, lasst tüchtig sein, o Ritter, zum Erlangen, Des Reichthums Fülle fördert bei dem Opfer, und kräftigt uns mit Kräften, o ihr Kraftherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Продвиньте вперед, о два бога Ашвина, мое произведение,  
 Жаждущее благ, чтоб не (казалось) оно ничтожным при завоевании (награды)!  

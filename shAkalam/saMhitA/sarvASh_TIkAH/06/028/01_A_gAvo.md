@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ गा꣡वो अग्मन्न् उत꣡ भद्र꣡म् अक्रन्  
 सी꣡दन्तु गोष्ठे꣡ रण꣡यन्तु अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय पूर्वी꣡र् उष꣡सो दु꣡हानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र॒जाऽव॑तीः । पु॒रु॒ऽरूपाः॑ । इ॒ह । स्युः॒ । इन्द्रा॑य । पू॒र्वीः । उ॒षसः॑ । दुहा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -135,42 +135,42 @@ popular
 **गावः** **आ** **अग्मन्** । अस्मदीयं गृहमागच्छन्तु । **उत** अपि च **भद्रं** भजनीयं शुभम् **अक्रन्** कुर्वन्तु । तथा **गोष्ठे** अस्मदीये गवां स्थाने **सीदन्तु** उपविशन्तु । तदनन्तरम् **अस्मे** अस्मासु **रणयन्तु** रमन्ताम् । अपि च **इह** अस्मिन् गोष्ठे **पुरुरूपाः** नानावर्णा गावः **प्रजावतीः** प्रजावत्यः संततिसहिताः **पूर्वीः** बह्वयः **इन्द्राय** इन्द्रार्थम् **उषसः** उषःकालान् प्रति **दुहानाः** दोग्ध्र्यः **स्युः** भवेयुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the cows come and bring good fortune; let them lie down in (our) stalls and be plural ased with us; may the many-coloured kine here be parboiled milk for **Indra** on many dawns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The cows have come here and have made (the house) blessed. Let them  find a place in the cow-stall; let them find enjoyment among us.  
 Here should those of many colors be, bearing offspring, as through  
 many dawns they give milk for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a ‘house’ is supplied as obj. of bhadrám akran on the basis of 6c bhadráṃ gṛháṃ kṛṇutha. Geldner simply “haben Glück gebracht,” Whitney (AV IV.21.1) “have done what is excellent,” and this is certainly possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Kine have come and brought good fortune: let them rest in the cow-pen and be happy near us.  
      Here let them stay prolific, many-coloured, and yield through many morns their milk for Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kühe sind angekommen und haben Glück gebracht. Sie sollen sich im Kuhstall niederlegen und sich bei uns wohl fühlen. Reich an Nachkommenschaft mögen die Buntfarbigen hier sein und viele Morgen für Indra Milch geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich labend; Die bunten mögen reich hier sein an Kälbern, an vielen Morgen Milch dem Indra gebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пришли коровы и сделали благо.  
 Пусть улягутся они в стойле и наслаждаются у нас!  

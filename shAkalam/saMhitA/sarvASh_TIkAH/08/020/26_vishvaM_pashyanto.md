@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वम् प꣡श्यन्तो बिभृथा तनू꣡षु आ꣡  
 ते꣡ना नो अ꣡धि वोचत  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡ष्कर्ता वि꣡ह्रुतम् पु꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 क्ष॒मा । रपः॑ । म॒रु॒तः॒ । आतु॑रस्य । नः॒ । इष्क॑र्त । विऽह्रु॑तम् । पुन॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
@@ -117,40 +117,40 @@ genre M;; repeated line
 **विश्वं** सर्वं पूर्वोक्तं भेषजं **पश्यन्तः** जानन्तो यूयं **तनूषु** अस्मदीयेषु विषयेषु **आ** **बिभृथ** आहरथ । आहृतेन च **तेन** **नः** अस्मान् **अधि** **वोचत** अधिब्रूत । चिकित्सतेत्यर्थः । अपि च हे **मरुतः** **नः** अस्माकं मध्ये **आतुरस्य** रोगिणः **रपः** । पापनामैतत् । रपसः पापफलस्य रोगस्य **क्षमा** क्षान्तिर्यथा भवति तथा **विह्रुतं** विबाधितमङ्गं **पुनः** **इष्कर्त** निःशेषेण संपूर्णं कुरुत । निसो नलोपश्छान्दसः । करोतेर्लोटि छान्दसो विकरणस्य लुक् । **तप्तनप्तनथनाश्च'** इति तशब्दस्य तबादेशः । अत एवोपसर्गसमुदायो नावगृह्यते ॥ ॥ ४० ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, beholding every sort, collect them for (the good of) our bodies, ad instrumental uct us in their (uses); letthe cure of sickness (be the portion), **Maruts**, of him among us who for his wickedness is sick; re-establish hisenfeebled (frame).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeing it, you carry it all on your bodies. With it intercede for us. To ground (should go) the malady of the afflicted; make what has gone  awry right again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. marutaḥ in c was carelessly omitted in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye carry on your bodies, ye who see it all: so bless us graciously therewith.  
      Cast, Maruts, to the ground our sick man's malady: replace the dislocated limb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 All das erspähend bringet ihr an euren Leibern mit; mit dem segnet uns! Zu Boden gehe das Gebreste unserer Kranken, ihr Marut! Bringet alles, was verrenkt ist, wieder zurecht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die führt allschauend alle unsern Leibern zu, mit denen schafft Erquickung uns; Zu Boden sinke unsres Kranken Siechthum auch, o Maruts, heilt, was schadhaft ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Видя всё, вы носите (это) на (своих) телах –  
 Этим за нас вступитесь!  

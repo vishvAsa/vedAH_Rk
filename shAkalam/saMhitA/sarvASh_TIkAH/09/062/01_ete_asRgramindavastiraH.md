@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ असृग्रम् इ꣡न्दवस्  
 तिरः꣡ पवि꣡त्रम् आश꣡वः  
 वि꣡श्वानि अभि꣡ सउ꣡भगा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वा॑नि । अ॒भि । सौभ॑गा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **आशवः** शीघ्राः **एते** पवमानाः **इन्दवः** सोमाः **विश्वानि** सर्वाणि **सौभगा** सौभगानि धनान्यभिलक्ष्य **पवित्रं** **तिरः** **असृग्रम्** ऋत्विग्भिः सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These rapid **Soma** juices have directed through the filter (to obtain) all good things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These drops have surged, swift across the filter,  
 toward all gifts of good fortune.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ kṛṇvántaḥ and datives of benefit.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE rapid Soma-drops have been poured through the purifying sieve  
      To bring us all felicities.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Säfte, die Renner, haben sich durch die Seihe ergossen, um alle Glücksgüter zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind die Tropfen hier die schnellen durch das Somasieb Für uns zu allem hohen Glück,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

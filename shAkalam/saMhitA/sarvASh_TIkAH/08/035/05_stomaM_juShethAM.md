@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तो꣡मं जुषेथां युवशे꣡व कन्य꣡नां  
 वि꣡श्वेह꣡ देवौ स꣡वना꣡व गछतम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 इ꣡षं नो वोळ्हम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । आ । इष॑म् । नः॒ । वो॒ळ्ह॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
@@ -123,36 +123,36 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 हे अश्विनौ **देवौ** युवामिहास्मिन् यज्ञे **स्तोमं** **जुषेथां** सेवेथाम् । **युवशेव** यथा युवानौ **कन्यनां** कन्यानामाह्वानं सेवेते । तद्वदित्यर्थः । **इह** यज्ञे **विश्वा** विश्वानि सवनानि **अव** **गच्छतं** प्राप्नुतम् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be gratified by our praise as youths are delighted (by the voices) of maidens; recognize, deities, all theofferings in this ceremony; united with the dawn adn with **Sūrya**, bring us, **Aśvins**, food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy the praise song, like youths a maiden. – Come down here to all our  pressings, o gods.  
 In concert with Dawn and the Sun, convey refreshment to us, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept our praise-song as a youth accepts a maid. Come nigh, O ye Twain Gods, to all libations here.  
      Accordant, of one mind with Sarya and with Dawn O Asvins, bring us strengthening food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt Wohlgefallen an dem Lobliede wie Jünglinge an einer Jungfrau, findet euch, beide Götter, bei allen Trinkopfern hier ein, einträchtig mit Usas und Surya bringt uns Labsal, o Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst das Opfer, wie der Jüngling Mädchen küsst, zu allen Spenden kommt, o Götter, hier herab, Und mit der Sonn' und Morgenröthe im Verein, o Ritter, fahrt uns Labung zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь восхвалением, как юноши – девицей!  
 Спускайтесь сюда, о два бога, на все выжимания (сомы)!  

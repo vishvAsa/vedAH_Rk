@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ तु꣡ श्रुधि इन्दर+ नू꣡तनस्य  
 ब्रह्मण्यतो꣡ · वीर कारुधायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श꣡श्वद् बभू꣡थ सुह꣡व अइ꣡ष्टौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । हि । आ॒पिः । प्र॒ऽदिवि॑ । पि॒तॄ॒णाम् । शश्व॑त् । ब॒भूथ॑ । सु॒ऽहवः॑ । आऽइ॑ष्टौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 हे **कारुधायः** कारूणां स्तोतॄणां धारक हे **वीर** **इन्द्र** **सः** प्रसिद्धस्त्वं **नूतनस्य** इदानींतनस्य **ब्रह्मण्यत:** ब्रह्म स्तोत्रं कर्तुमिच्छतो मम स्तोत्रं **तु** क्षिप्रं **श्रुधि** शृणुहि । यस्मात् कारणात् हे इन्द्र **त्वम्** **एष्टौ** आयजने अभिकामने वा सति सुहवः शोभनाह्वान: सन् **प्रदिवि** पूर्वस्मिन् काले पितॄणाम् अङ्गिरसाम् **आपिः** बन्धुः **शश्वत्** चिरकालं **बभूथ** अभूः तस्मात् कारणात् मदीयं स्तोत्रं श्रुधीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 Pitṛṇām āpiḥ = **bandhuḥ**; **aṅgirasas** are intended
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Listen, Indra, to the current (bard) creating sacred formulations, you  hero who give succor to bards—  
 for you, as the friend of our ancestors in olden days, have always been  easy to invoke in the quest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear, too, the prayer of this thy present beadsman, O Indra, Hero, cherishing the singer.  
      For thou wast aye our fathers' Friend aforetime, still swift to listen to their supplication.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So höre doch, Indra, auf den jüngsten Segenssprecher, du Held, der du die Dichter ernährest. Denn du warst vor Zeiten der Vertraute unserer Väter, immer ließest du dich gern rufen bei jedem Begehr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du aber, Indra, höre auf den Beter, der jetzt dich anfleht, Held, o Dichterpfleger; Denn du warst Freund der Väter schon vor Alters, stets gern erhörtest du, was sie begehrten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прислушайся же, о Индре, к теперешнему  
 Возносителю молитв, о герой, о кормилец певца!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुपर्णा꣡ वा꣡चम् अक्रत उ꣡प द्य꣡वि  
 आखरे꣡ कृ꣡ष्णा इषिरा꣡ अनर्तिषुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरू꣡ रे꣡तो दधिरे सूरियश्वि꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न्य॑क् । नि । य॒न्ति॒ । उप॑रस्य । निः॒ऽकृ॒तम् । पु॒रु । रेतः॑ । द॒धि॒रे॒ । सू॒र्य॒ऽश्वितः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suparṇā* ← *suparṇāḥ* ← *suparṇa*
 - \[noun\], nominative, plural, masculine
@@ -123,35 +123,35 @@ popular
 **सुपर्णाः** सुपतना ग्रावाणः उप उपलक्ष्य समीपे द्यवि अन्तरिक्षे **वाचम्** अभिषवशब्दम् **अक्रत** कुर्वन्ति । किंच आखरे । मृगाणां व्रज आखरः । तस्मिन् **इषिराः** गमनशीलाः कृष्णाः कृष्णमृगा इव सूर्यश्वितः सूर्यवच्छ्वेतवर्णा द्रप्साः अनर्तिषुः नृत्यन्ति । निष्कृतं ग्रावभि: पीडितं सत् उपरस्य उपलस्य **न्यक्** अधोमुखं सोमं **नि** **यन्ति** निगमयन्ति । किंच **पुर** बहु **रेतः** सोमलक्षणमुदकं दधिरे धारयन्ति ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The well-gliding stones made a noise in the firmament; they danced (like) the black deer in the stall;they exude down from the upper stone the expressed (**Soma**); white as the sun they yield abundant moisture.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eagles have raised their speech up to heaven. In their lair the black  antelopes have danced vigorously. Down they go downward to the rendezvous with the lower one. They  have themselves produced much semen from the sun-bright one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Eagles have sent forth their cry aloft in heaven; in the sky's vault the dark impetuous ones have danced.  
      Then downward to the nether stone's fixt place they sink, and, splendid as the Sun, effuse their copious stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Adler haben ihre Stimme gen Himmel erhoben, die schwarzen Antilopen haben eifrig auf dem Weideplatz getanzt. Sie gehen nieder zum Besuch des unteren Steins; sie lassen reichlich den Samen des sonnenhellen Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Himmel schallt der schnellen Vögel lauter Sang, die muntern Rehe tanzen in der Höhle nun; Sie gehn herab ins Brautgemach des untern Steins, die sonnenhellen lassen vielen Samen dort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

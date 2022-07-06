@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ वृ꣡ष्णो विओ꣡दन  
 उरु꣡ क्रमिष्ट जीव꣡से  
 य꣡वं न꣡ पश्व꣡ आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यव॑म् । न । प॒श्वः । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -91,43 +91,43 @@ genre M
 **अस्य** वृष्णः वर्षितुरिन्द्रस्य **व्योदने** विविधेऽन्ने लब्धे सति **जीवसे** जीवनाथ **उरु** विस्तीर्णं **क्रमिष्ट** पदनिधानं करोति सर्वो लोकः । अथवेन्द्रस्य स्वभूतेऽन्ने लब्धे लब्धव्ये वा सति पदन्यासं करोति । तथा कृत्वा **यवं** **न** **पश्वः** यवं पशव इव सर्वो जनः **आ** **ददे** आदत्ते स्तुतादस्मात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the various sustenance, given by **Indra**, the showerer, is obtained, all men step over with widestrides for (dear) life; they receive it as cattle and barley.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Viṣṇu) strode widely to the rice porridge for this bull to live on.  
 (Indra) took it, as cattle do barley.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a contains a textual problem: whether to read the transmitted vyódana (-e [so Pp.] or -aḥ, out of sandhi) ‘moistening/moistener’) or to emend to vy òdaná (i.e., -é) ‘rice-porridge’, the food associated with the Emuṣa myth that is treated virtually only in this part of VIII (the odanám in 69.14; 77.6, 10). See Geldner and Oldenberg ad loc. I follow Geldner in the emendation; it is very difficult to make sense of the ‘moisten’ interpretation, and the rarity of odanám might have lead it to be changed.
 
 In the published translation there should be an asterisk before “to the rice-porridge.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At the o'erflowing of this Steer, boldly he strode for life, and took  
      Soma as cattle take their corn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er schritt weit aus nach dem Reisbrei, für diesen Bullen zum Leben. Er raffte ihn an sich wie Tiere die Gerste.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Strömen dieses Stieres schritt er mächtig aus, zu stärken sich, Nahm ihn, wie Vieh das Gras verzehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда забил ключом этот бык,  
 Он широко шагнул вперед, чтобы жить:  

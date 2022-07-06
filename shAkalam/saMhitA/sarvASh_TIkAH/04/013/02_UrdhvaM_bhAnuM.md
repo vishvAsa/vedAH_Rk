@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्व꣡म् भानुं꣡ सविता꣡ देवो꣡ अश्रेद्  
 द्रप्सं꣡ द꣡विध्वद् गविषो꣡ न꣡ स꣡त्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त् सू꣡रियं दिवि꣡ आरोह꣡यन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अनु॑ । व्र॒तम् । वरु॑णः । य॒न्ति॒ । मि॒त्रः । यत् । सूर्य॑म् । दि॒वि । आ॒ऽरो॒हय॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **सविता** प्रेरकः **देवः** **ऊर्ध्वम्** उन्मुखं **भानुम्** **अश्रेत्** आश्रयति । **यत्** यदा रश्मयः **सूर्यं** **दिवि** द्युलोके **आरोहयन्ति** आरोहणं कारयन्ति तदा **वरुणः** रात्र्यभिमानी देवः **मित्रः** अहरभिमानी, अन्ये देवाश्च **व्रतं** तत्संबन्धि कर्म **अनु** **यन्ति** अनुगच्छन्ति । अनुगमने दृष्टान्त उच्यते । **द्रप्सं** पार्थिवं रजः **दविध्वत्** धुन्वन् । विकिरन्नित्यर्थः। **गविषः** गा इच्छन् **सत्वा** **न** वृषभ इव तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,7 +133,7 @@ genre M
 Hasten to fill their offices: yat sūryam divy ārohanti; yad raśmayaḥ sūryasya ārohaṇam kārayanti, when the rays of light cause the ascent of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 God Savitar has braced his radiant beam upright, brandishing his banner  like a warrior seeking cattle.  
 
@@ -141,33 +141,33 @@ Varuṇa, Mitra, (and the other Ādityas?) proceed according to their
 commandment, when they cause the Sun to mount into heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c the other Ādityas, or at least Aryaman, should be supplied, since the verb (yanti) is plural and there are only two expressed subjects (váruṇaḥ … mitráḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Savitar, God, hath spread on high his lustre, waving his flag like a spoil-seeking hero.  
      Their stablished way go Varuna and Mitra, what time they make the Sun ascend the heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The god Savitri has sent his light upward 1, shaking his banner 2 like a warrior who fights for cows 3. Varuna and Mitra follow the law, when they make the Sun rise on heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gott Savitri hat sein Licht aufgesteckt, sein Banner schwingend wie ein Krieger, der auf Rinder auszieht. Mitra und Varuna folgen seinem Gebot, wenn sie den Surya am Himmel aufsteigen lassen,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gott Savitar liess hoch sein Leuchten steigen, sein Banner schwingend wie ein tapfrer Krieger, Nach festem Brauch gehn Varuna und Mitra, wenn sie am Himmel schön die Sonn' erhöhen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бог Савитар направил прямо (свой) луч,  
 Мощно потрясая знаменем, словно воин, ищущий коров.  

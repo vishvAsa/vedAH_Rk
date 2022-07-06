@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जा नो मित्रा꣡व꣡रुणा  
 य꣡जा देवाँ꣡ ऋत꣡म् बृह꣡त्  
 अ꣡ग्ने य꣡क्षि सुवं꣡ द꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । यक्षि॑ । स्वम् । दम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajā* ← *yaj*
 - \[verb\], singular, Present imperative
@@ -88,47 +88,47 @@ genre M
 हे **अग्ने** **नः** अस्मदर्थं **मित्रावरुणा** एतत्संज्ञौ देवौ **यज** हविषा पूजय । तथा **देवान्** इन्द्रादीन् **यज** पूजय। **ऋतं** सत्यं यथार्थफलं यज्ञं च यजेत्येव । तदर्थं **बृहत्** प्रौढं **त्वं** स्वकीयं **दमं** यज्ञगृहं **यक्षि** यज संगच्छस्व । त्वय्यन्तर्विद्यमाने सति हि यज्ञगृहं पूज्यते ॥ यज । द्व्यचोऽतस्तिङः' इति संहितायां दीर्घत्वम् । देवान् । दीर्घादटि समानपादे' इति संहितायां नकारस्य रुत्वम् । ‘ आतोऽटि नित्यम्' इति अनुनासिकः आकारः । यत्वलोपौ । यक्षि । यजेः ‘ बहुलं छन्दसि ' इति शपो लुक् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worship for us, **Mitra** and **Varuṇa**; worship for us, all the gods; (celebrate) a great sacrifice; be present in your own dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sacrifice for us to Mitra and Varuṇa; sacrifice to the gods, to lofty truth. Agni, you will sacrifice to your own home.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The three pādas contain three 2nd sg. verb forms belonging to √yaj, two pres.
 
 imperatives yájā (a, b) and a so-called “si-imperative” yákṣi (c). Though “siimperatives” do often function as imperatives, they are haplologized -s-aorist subjunctives by most accounts. I so tr. yákṣi here, since the poet could easily have repeated yájā in this context; it would have been metrically fine and in fact would have produced a more iambic pattern. It is accented because it follows an extrasentential voc. For another si-imperative that is better rendered as a subjunctive see ní … satsi in I.76.4 in the next hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring to us Mitra, Varuna, bring the Gods to mighty sacrifice.  
      Bring them, O Agni, to thine home.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sacrifice for us to Mitra and Varuna. Sacrifice to the gods, (a sacrifice conforming to) the great Rita 1. Sacrifice, O Agni, to thy own house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verehre für uns Mitra und Varuna, verehre die Götter, das hohe Gesetz! Agni, verehre dein eigenes Haus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehr' uns, Mitra-Varuna, die Götter und das hehre Recht, O Agni, ehr' dein eignes Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси жертву для нас Митре-Варуне,  
 Принеси жертву богам, высокому (космическому) закону,  

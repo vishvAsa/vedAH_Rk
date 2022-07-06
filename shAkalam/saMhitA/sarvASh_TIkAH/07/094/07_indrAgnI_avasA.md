@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी अ꣡वसा꣡ गतम्  
 अस्म꣡भ्यं चर्षणीसहा  
 मा꣡ नो दुःशं꣡स ईशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मा । नः॒ । दुः॒ऽशंसः॑ । ई॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -89,41 +89,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **चर्षणीसहा** चर्षणीनां मनुष्याणां शत्रुभूतानामभिभवतारौ हे **इन्द्राग्नी** **अस्मभ्यं** स्तोतृभ्यो देयेन **अवसा** अन्नेन सह **आ** **गतम्** आगच्छतम् । **दुःशंसः** दुष्टाभिशंसनः पारुष्यवादी शत्रुश्च **नः** अस्मान् **मा** **ईशत** ईशिष्ट । अस्मान् बाधितुं मा शक्नोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Overcomers of (hostile) men, **Indra** and **Agni**, come wiḥ food (to be bestowed) upon us; let not themalevolent have power over us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, come here to us with help, you who conquer the  territories.  
 Let a defamer not hold sway over us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On īśata see comm. ad I.23.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni, come to us with favour, ye who conquer men:  
      Let not the wicked master us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Kommet zu uns mit Gunst, ihr Völkerbezwinger. Nicht soll der Bösesredende Macht über uns haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Agni, kommt mit Huld zu uns, o Menschenherrscher ihr, Nicht sieg' ein Böser über uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, приходите с поддержкой  
 К нам, о (вы,) господствующие над народами!  

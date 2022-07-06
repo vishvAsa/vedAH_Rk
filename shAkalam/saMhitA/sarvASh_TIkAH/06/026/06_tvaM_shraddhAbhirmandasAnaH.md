@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ श्रद्धा꣡भिर् मन्दसानः꣡ सो꣡मैर्  
 दभी꣡तये चु꣡मुरिम् इन्द्र सिष्वप्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 षष्टिं꣡ सह꣡स्रा श꣡चिया स꣡चाहन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । र॒जिम् । पिठी॑नसे । द॒श॒स्यन् । ष॒ष्टिम् । स॒हस्रा॑ । शच्या॑ । सचा॑ । अ॒ह॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -110,7 +110,7 @@ genre M
 हे **इन्द्र** **श्रद्धाभिः** श्रद्धापुरःसरमादरातिशयेनानुष्ठितैः कर्मभिः मन्दसानः मोदमानः । यच्छ्रद्धया युक्तं कर्म तत्सारवत् भवति । तथा च श्रूयते–' यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति' ( छ. उ. १. १. १० ) इति । **सोमैः** च मन्दसानः **त्वं** **दभीतये** एतन्नामकाय राजर्षये **चुमुरिम्** एतदाख्यमसुरं **सिष्वप्** अस्वापयः । अवधीरित्यर्थः । किंच हे इन्द्र **त्वं** **पिठीनसे** एतन्नामकाय **रजिम्** एतदाख्यां कन्यां वा राज्यं वा **दशस्यन्** प्रयच्छन् **शच्या** प्रज्ञया **षष्टिं** षष्टिसंख्याकानि **सहस्रा** भटानां सहस्राणि **सचा** सह युगपदेव **अहन** अवधीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ genre M
 Piṭhīnas: rajim piṭhīnase daśasyan: raji = etadākhyām kanyām, a maiden called; it may also be a synonym of rājyam, kingdom, dominion; by your contrivance: śacyā = prajñāyā; it may also import **karmaṇā**, by act or exploit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, reaching elation through the hospitality offerings and the soma  juices, put Cumuri to sleep for Dabhīti.  
 You, showing favor to Piṭhīnas, in partnership, smashed Raji and his  sixty thousand with your power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I have discussed elsewhere (Sacrificed Wife, 176-84), śraddhā́- in Vedic is not simply an abstract ‘trust, faith’, but refers specifically to trust in the efficacy of ritual and hospitality, and indeed to the concrete manifestations of this trust through ritual gift-giving. The plural śraddhā́bhiḥ here, paired with sómaiḥ, seems to refer to the offerings themselves.
 
@@ -146,23 +146,23 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Made glad with Soma-draughts and faith, thou sentest Cumuri to his sleep, to please Dabhiti.  
      Thou, kindly giving Raji to Pithinas, slewest with might, at once, the sixty thousand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Dabhiti hast du, Indra, von seiner Gläubigkeit und seinen Somaopfern ergötzt, den Cumuri eingeschläfert. Du erschlugst den Raji für Pithinas, dich erkenntlich zeigend, und zugleich sechzigtausend Mannen durch deine Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreut durch Glauben, Indra, und durch Soma, schlugst Tschumuri du todt für den Dabhiti; Den Radschi dem Prithinas überliefernd, erschlugst mit Kraft zugleich du sechzigtausend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, обрадованный проявлениями веры и струями сомы,  
 Усыпил, о Индра, Чумури для Дабхити.  

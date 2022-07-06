@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 ### Sages  
 With a few exceptions, the hymns of Maṇḍala III belong to Viśvāmitra Gāthina  and other members of his family. Of the sixty-two hymns in the maṇḍala, the  Anukramaṇī states that Viśvāmitra himself composed all or parts of forty-six, along  with two others that might be his or that might belong to another poet (III.31, 38).  
@@ -36,7 +36,7 @@ One of the distinctive characteristics of this maṇḍala is that its poets mar
 ****
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary III [III.1-7 JPB]
 </details>

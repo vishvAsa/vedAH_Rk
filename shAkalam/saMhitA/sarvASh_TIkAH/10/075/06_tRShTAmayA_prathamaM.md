@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तृष्टा꣡मया प्रथमं꣡ या꣡तवे सजूः꣡  
 सुस꣡र्तुवा रस꣡या श्वेतिया꣡ तिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मेहत्नुवा꣡ सर꣡थं या꣡भिर् ई꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 त्वम् । सि॒न्धो॒ इति॑ । कुभ॑या । गो॒ऽम॒तीम् । क्रुमु॑म् । मे॒ह॒त्न्वा । स॒ऽरथ॑म् । याभिः॑ । ईय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tṛṣṭāmayā* ← *tṛṣṭāmā*
 - \[noun\], instrumental, singular, feminine
@@ -111,7 +111,7 @@ genre M
 हे **सिन्धो** **त्वं** **क्रुमुं** क्रमणशीलां **गोमतीं** नदीं **यातवे** प्रतियातुं पर्वतादवरूढा **प्रथमं** **तृष्टामया** नद्या **सजूः** संगतासि । पश्चात् **सुसर्त्वा** **रसया** **श्वेत्या** **त्या** **कुभया** **मेहत्न्वा** च सह सजूर्भव **याभिः** त्वं **सरथं** समानं रथमारुह्य **ईयसे** गच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ genre M
 In conjunction with: saratham = lit. having mounted the samechariot with them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To travel first joined with the Tr̥ṣṭāmā, (then) with the Susartū, the Rasā,  and this Śvetyā,  
 you, o Sindhu, (come) with the Kubhā to the Gomatī, with the Mehatnū to the Krumu, on the same chariot (with all these), with which you go  speeding.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First with Trstama thou art eager to flow forth, with Rasa, and Susartu, and with Svetya here,  
      With Kubha; and with these, Sindhu and Mehatnu, thou seekest in thy course Krumu and Gomati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zuerst mit der Tristama zum Laufe vereint, mit Susartu, Rasa, mit dieser Svetya kommst du, Sindhu, mit der Kubha zur Gomati, mit der Mehatnu zur Krumu, mit denen du auf gleichem Wagen dahineilst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit der Trischtama einst du dich voranzugehn, mit der Suvartu, Rasa und der Çvetia, Zur Gomati und Krumu eilst du gleichen Laufs mit der Mehatnu und der Kubha, Sindhu! hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соединяясь для бега сначала с Триштамой,  
 (Затем) с Сусарту, Расой (и) этой Шветьей,  

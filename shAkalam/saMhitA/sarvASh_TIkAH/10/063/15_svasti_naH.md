@@ -6,7 +6,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्ति꣡ नः · पथि꣡यासु ध꣡न्वसु  
 सुअस्ति꣡ अप्सु꣡ वृज꣡ने सु꣡वर्वति  
@@ -14,7 +14,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 सुअस्ति꣡ राये꣡ मरुतो दधातन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्व॒स्ति । नः॒ । पु॒त्र॒ऽकृ॒थेषु॑ । योनि॑षु । स्व॒स्ति । रा॒ये । म॒रु॒तः॒ । द॒धा॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svasti*
 - \[noun\], accusative, singular, neuter
@@ -112,7 +112,7 @@ genre M
 हे **मरुतः** मितराविणो देवाः **नः** अस्माकं **पथ्यासु** पथियोग्येषु सोदकेषु देशेषु **स्वस्ति** कल्याणं कुरुत । तथा **धन्वसु** निरुदकेषु देशेषु **स्वस्ति** कल्याणमुदकजननलक्षणं कुरुत । तथा **अप्सु** उदकेषु स्वस्ति । तथा **स्वर्वति** सर्वैरायुधैर्युक्ते सेनालक्षणे **वृजने** शत्रूणामावर्जके बले च कल्याणं कुरुत । **नः** अस्माकं **पुत्रकृथेषु** पुत्राणां कर्तृषूत्पादकेषु स्त्रीणां **योनिषु** **स्वस्ति** कल्याणं यथा गर्भा न पतन्ति तथा क्षेमं कुरुत । किंच नोऽस्माकं **राये** धनाय गवादिलक्षणाय **स्वस्ति** क्षेमं **दधातन** धत्त कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M
 On roas: indistricts fit for travelling, i.e., well-watered, as opposed to dhanvasu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Well-being for us on the pathways and in the wastelands, well-being in  the waters, in the precinct of the sun,  
 well-being for us in the wombs at the making of sons—well-being  
 confer (on us) for wealth, o Maruts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe us blessing in our paths and desert tracts, blessing in waters and in battle, for the light;  
      Blessing upon the wombs that bring male children forth, and blessing, O ye Maruts, for the gain of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück bringet uns auf den Wegen, auf dem Trocknen, Glück zu Wasser, im Kampf, wo es um die Sonne geht, Glück uns bei der Kinderzeugung im weiblichen Schoße, Glück bringet uns, ihr Marut, zum Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schafft Heil uns auf den Wegen, Heil uns auf dem Land, Heil auf dem Wasser, Heil im güterreichen Sitz, Heil in den Schössen bei der Kinderzeugung uns, und Heil, o Maruts, zu des reichen Guts Erwerb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

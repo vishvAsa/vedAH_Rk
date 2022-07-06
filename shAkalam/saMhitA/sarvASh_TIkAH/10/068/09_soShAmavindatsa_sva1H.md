@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡षा꣡म् अविन्दत् स꣡ सु꣡वः सो꣡ अग्निं꣡  
 सो꣡ अर्के꣡ण वि꣡ बबाधे त꣡मांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡र् मज्जा꣡नं न꣡ प꣡र्वणो जभार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । गोऽव॑पुषः । व॒लस्य॑ । निः । म॒ज्जान॑म् । न । पर्व॑णः । ज॒भा॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soṣām* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -140,36 +140,36 @@ genre M
 **सः** **बृहस्पतिः** तत्र पर्वतविवरे गवां दर्शनाय **उषां** उषसम् **अविन्दत्** अलभत । **सः** एव **स्वः** आदित्यं **सः** **अग्निं** लब्ध्वा **अर्केण** अर्चनीयेन तेजसा **तमांसि** **वि** **बबाधे** अत्यर्थं बाधितवान् । ततः सः **गोवपुषः** गोरूपशरीरस्य पशुभिः परिवृतस्य **वलस्य** **पर्वणः** पर्वतात् ता गा: **निः** **जभार** बलेन निर्जहार । वलादाहरणे दृष्टान्तः । **मज्जानं** **न** **पर्वणः** । अस्थ्नो मज्जानं यथा अतिक्लेशेन निर्हरन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Bṛhaspati** found the dawn, the sun, **Agni**; he dispersed the gloom with light; he seized (the cattle fromthe rock)) of **Vala** surrounded by the kine as (one extracts) marrow from a bone.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He found the dawn, found the sun, found the fire; he thrust aside the  dark shades with his chant [/ray].  
 Br̥haspati extracted (the cows) of Vala, whose beauty was the cows, like  marrow from a joint.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He found the light of heaven, and fire, and Morning: with lucid rays he forced apart the darkness.  
      As from a joint, Brhaspati took the marrow of Vala as he gloried in his cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er fand die Usas, er die Sonne, er das Feuer; er vertrieb durch Zauberlied die Finsternis. Brihaspati holte die Kühe des Vala, der mit den Kühen prunkte, wie das Mark aus dem Gelenk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er fand den Morgen, Himmelsglanz und Feuer, er jagte fort durch Licht die Finsternisse, Des Vala schöne Kühe zog hervor dann Brihaspati wie Mark aus Pflanzenstengeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он нашел Ушас, он – небо, он – Агни.  
 Он песней оттеснил мрак.  

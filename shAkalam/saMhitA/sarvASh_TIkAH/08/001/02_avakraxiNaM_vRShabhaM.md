@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवक्रक्षि꣡णं वृषभं꣡ यथाजु꣡रं  
 गां᳐꣡ न꣡ चर्षणीस꣡हम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 मं꣡हिष्ठम् उभयावि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽद्वेष॑णम् । स॒म्ऽवन॑ना । उ॒भ॒य॒म्ऽक॒रम् । मंहि॑ष्ठम् । उ॒भ॒या॒विन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avakrakṣiṇaṃ* ← *avakrakṣiṇam* ← *avakrakṣin*
 - \[noun\], accusative, singular, masculine
@@ -84,7 +84,7 @@ genre M
 **वृषभं** **यथा** वृषभमिव **अवक्रक्षिणम्** अवकर्षणशीलं शत्रूणां हिंसितारम् **अजुरं** जरारहितमहिंसितं वा **गां** **न** गामिव वृषमिव **चर्षणीसहं** चर्षणीनां मनुष्याणां शत्रुभूतानामभिभवितारं **विद्वेषणं** विद्वेष्टारं शत्रूणां **संवनना** संवननं सम्यक्संभजनीयं स्तोतृभिः **उभयंकरं** निग्रहानुग्रहयोरुभयोः कर्तारं **मंहिष्ठं** दातृतमम् **उभयाविनं** दिव्यपार्थिवलक्षणेनोभयविधधनेनोपेतम् । यद्वा । स्थावरजङ्गमरूपेण द्विप्रकारेण रक्षितव्येनोपेतम् । अथवोभयविधैः स्तोतृभिर्यष्टृभिश्चोपेतम् । एवंविधमिन्द्रमित् स्तोतेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M
 Displayer of both: ubhayaṃkaram = nigrahānugrahayoḥ kartāram; distributorof both: ubhayāvinam = having the faculty of protecting both fixed and moveable things; or, being honoured byboth those who recite his praises and those who offer oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, rumbling loudly like a bull, unaging, conquering territory as if  (conquering) cow(s);  
 making both: division by hate and unions by love—having it both ways,  the most munificent one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse, couched in the acc. sg. masc., is entirely dependent on the índram of 1c.
 
@@ -112,23 +112,23 @@ In the compound ubhayaṃkarám ‘making both’, the 1st compound member ubhay
 It sees best to accept the text we have and interpret saṃvánanā as neut. pl., contrasting with the singular of vidvéṣaṇam. Perhaps Indra favors unions over divisions, and it would also be a clever reversal for ‘division’, which is inherently plural, to be presented in the singular, while ‘union’, which is inherently singular, is in the plural. It would also be possible to take saṃvánanā as an instr. singular of accompaniment: “division by hate along with union by love.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even him, eternal, like a bull who rushes down, men's Conqueror, bounteous like a cow;  
      Him who is cause of both, of enmity and peace, to both sides most munificent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der wie ein Bulle losbrüllt, den Alterlosen, der wie ein Kampfstier die Völker besiegt, der Verfeindung und Versöhnung, beides wirkt, den Freigebigsten, der es mit beiden hält.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der nimmer alternd wie ein Stier herniederstürmt, der wie ein Bull die Welt bezwingt, Den, der entzweit und wieder eint, zu beidem gut, der reich den beiden Theilen schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Его,) бросающегося с ревом, словно бык, нестареющего,  
 (Боевого) быка, побеждающего народы,  

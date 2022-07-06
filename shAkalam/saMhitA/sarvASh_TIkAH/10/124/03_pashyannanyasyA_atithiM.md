@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡श्यन्न् अन्य꣡स्या अ꣡तिथिं वया꣡या  
 ऋत꣡स्य धा꣡म वि꣡ मिमे पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अयज्ञिया꣡द् यज्ञि꣡यम् भाग꣡म् एमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शंसा॑मि । पि॒त्रे । असु॑राय । शेव॑म् । अ॒य॒ज्ञि॒यात् । य॒ज्ञिय॑म् । भा॒गम् । ए॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
@@ -115,7 +115,7 @@ popular
 मम स्थानभूता या पृथिवी ततः **अन्यस्याः** **वयायाः** गन्तव्यायाः दिवः संबन्धिनम् **अतिथिं** सततगामिनं सूर्यं **पश्यन्**  जानन सूर्यस्य गतिमनुसृत्य वसन्तादिकाले **ऋतस्य** यज्ञस्य **धाम** धामानि शरीराणि **पुरूणि** बहूनि **वि** **मिमे** निर्मिमे निष्पादयामि । ततः **पित्रे** पितृभूताय द्युलोकवर्तिने देवजनाय **असुराय**  शत्रुक्षेपणकुशलाय **शेवं** सुखमुद्दिश्य होता भूत्वा अहं उक्थानि **शंसामि** । यत एवं तस्मात्कारणात् **अयज्ञियात्** यज्ञानर्हात्प्रदेशान्निर्गत्य **यज्ञियं** यज्ञार्हं वेदिलक्षणं भूभागं हविर्लक्षणं वा **एमि** प्राप्नोमि ॥ यज्ञशब्दादर्हाथें ‘ यज्ञर्त्विग्भ्यां घखञौ । (पा. सू. ५. १. ७१ ) इति घप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,30 +126,30 @@ popular
 Beholding the guest: vayāyāḥ = gantavyāyāḥ: beholding, i.e.,following the course of, the guest, i.e., the sun, who is connected with a different region to be traversed (the sky)than that which is my abode, viz., the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Varuṇa:] Seeing (him [=Agni]) as the guest of the other branch,  
 I measure out the many domains of truth.  
 I proclaim (him [=Agni]) as kindly to the lordly father [/Father Asura].  From the one without sacrifice I go to a sacrificial portion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1, looking to the guest of other lineage, have founded many a rule of Law and Order.  
      I bid farewell to the Great God, the Father, and, for neglect, obtain my share of worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich den Gast bei dem anderen Zweige sehe, durchlaufe ich die vielen Formen des rechten Brauches. Ich sage dem Vater Asura ein freundliches Wort: von dem Ausschluß vom Opfer gelange ich jetzt zu einem Anteil am Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinschauend nach dem Gast der andern Sippe hab viele Stätten ich des Rechts durchwandert, Lebwohl sag' ich dem Vater, dem Asuren, zum Opfer geh' ich von dem Opferlosen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Видя гостя у другой ветви,  
 Я измеряю многие формы закона.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवो꣡तासो मघवन्न् इन्द्र वि꣡प्रा  
 वयं꣡ ते स्याम सूर꣡यो गृण꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आकायि꣡यस्य दाव꣡ने पुरुक्षोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 भे॒जा॒नासः॑ । बृ॒हत्ऽदि॑वस्य । रा॒यः । आ॒ऽका॒य्य॑स्य । दा॒वने॑ । पु॒रु॒ऽक्षोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvotāso* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
@@ -108,7 +108,7 @@ genre M
 हे **मघवन्** धनवन् **इन्द्र** **त्वोतासः** त्वया रक्षिताः **विप्राः** मेधाविनः **गृणन्तः** त्वां स्तुवन्तः **सूरयः** स्तोतारः **वयं** बृहद्दिवस्य महद्दीप्तेः आकाय्यस्य आ समन्तात् स्तुत्यस्य **पुरुक्षोः** बह्वन्नस्य बहुकीर्तेर्वा **ते** त्वदीयस्य **रायः** धनस्य **दावने** दाने निमित्ते सति **भेजानासः** त्वां भजमानाः **स्याम** भवेम ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,34 +119,34 @@ genre M
 Bṛhad divasya **rāyā** akāyyasya dāvane purikṣoḥ = mahad dīpter āsamantāt stutyasya bahvannasya dhanasyādāne nimitte bhejanasas tvam **bhajamāna** bhavema, may we enjoying you for the sake of the gift of wealth of much food, every way commendable and very brilliant
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aided by you, bounteous Indra, might we—inspired poets and patrons— hymning (you) be yours,  
 for your giving of desirable (wealth) consisting of much livestock, as we  receive our share of the wealth coming from lofty heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) construe the part. bhejānā́saḥ one way or another with syāma (Geldner: “… möchten wir … deines himmlischen Reichtums teilhaftig werden”). This is certainly possible. However since this leaves te in b somewhat orphaned and since “may we be yours” is a frequent sentiment (e.g., II.11.13), I have separated the participle from syāma, respecting the hemistich boundary.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra Maghavan, by thee protected may we be thine, princes and priests and singers,  
      Sharing the riches sent from lofty heaven which yields much food, and all desire its bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dir begünstigt, gabenreicher Indra, möchten wir Redekundigen - Lohnherren und Sänger - deines himmlischen Reichtums teilhaftig werden, zum Verschenken des begehrenswerten, nahrungsreichen ausersehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir gefördert, mächt'ger Indra, seien wir Priester dein, die Opferherrn und Sänger, Theilhaft des Reichthums aus dem hohen Himmel, den wünschenswerthen, nahrungsreichen nehmend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержанные тобой, о щедрый Индра,  
 Мы, вдохновенные, – покровители жертвы (и) певцы  

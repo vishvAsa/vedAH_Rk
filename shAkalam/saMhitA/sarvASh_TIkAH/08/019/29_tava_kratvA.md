@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व क्र꣡त्वा सनेयं त꣡व राति꣡भिर्  
 अ꣡ग्ने त꣡व प्र꣡शस्तिभिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡ग्ने ह꣡र्षस्व दा꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । इत् । आ॒हुः॒ । प्रऽम॑तिम् । व॒सो॒ इति॑ । मम॑ । अ॒ग्ने॒ । हर्ष॑स्व । दात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -118,7 +118,7 @@ genre M
 हे **अग्ने** **तव** **क्रत्वा** त्वदीयेन परिचरणरूपेण कर्मणा **सनेयं** त्वां संभजेयम् । एतदेव विशदयति । **तव** **रातिभिः** त्वदीयैर्हविर्दानैश्च सनेयम् । तथा **तव** **प्रशस्तिभिः** प्रशंसनैः स्तोत्रैश्च त्वां संभजेयम् । अस्यैव संभजने किं कारणं तदाह । हे **वसो** वासकाग्ने **मम** स्तोतुः **प्रमतिं** प्रकृष्टबुद्धिं रक्षकं **त्वामित्** त्वामेव **आहुः** ब्रह्मवादिनः कथयन्ति । अतो हे **अग्ने** **दातवे** दातुं **हर्षस्व** हृष्टो भव । हर्षयुक्तः सन् बहु धनं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 They have called you: they,the pious sages, call you my protector, mama stotur rakṣakam tvām eva brahmavādinaḥ kathayanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your will may I win, with your gifts, with your lauds, o Agni. They say that just you are solicitude for me, o good one. O Agni, be  
 aroused to give.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The three táva’s morph from subjective to objective genitives: the will (krátvā) is definitely exercised by Agni, hence subjective genitive, while the lauds (práśastibhiḥ) are those praising Agni, hence objective. The gifts (rātíbhiḥ) can be either those given by or given to Agni. This sequence is framed by two exx. of táva (…) ūtíbhiḥ “with your help(s)” (28a, 30a), with subjective genitive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, by thy wisdom, by thy bounties, by thy leading may I gather wealth.  
      Excellent Agni, thou art called my Providence: delight thou to be liberal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach deinem Ratschluß möchte ich gewinnen, durch deine Gunst, o Agni, durch deine Anerkennung. Dich nennen sie meine Vorsehung, o Guter; Agni, bekomme Lust zu schenken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine Kraft und deine Gaben möge reich beschenkt ich sein nach deiner Gunst, Dich, guter, nennt man meinen treuen Gönner ja, so schenke gern, o Agni, denn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря твоей силе духа я хотел бы выигрывать, благодаря твоим дарам,  
 О Агни, благодаря твоим прославлениям!  

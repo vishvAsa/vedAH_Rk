@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡पन्ति मरु꣡तो मि꣡हम्  
 प्र꣡ वेपयन्ति प꣡र्वतान्  
 य꣡द् या꣡मं या꣡न्ति वायु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यत् । याम॑म् । यान्ति॑ । वा॒युऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vapanti* ← *vap*
 - \[verb\], plural, Present indikative
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मरुतः** एतत्संज्ञा देवाः **मिहं** वृष्टिं **वपन्ति** विकिरन्ति विक्षिपन्ति । तथा **पर्वतान्** गिरीन् **प्र** **वेपयन्ति** प्रकम्पयन्ति । अयमर्थः कदेति चेत् । **यत्** यदा **वायुभिः** सार्धं **यामं** रथं गमनं वा **यान्ति** प्राप्नुवन्ति तदानीमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts** scatter the rain, they shake the mountains, when they mount their chariot, with the winds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts scatter mist; they make the mountains tremble,  
 when they drive their course with the winds,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vápanti is also echoed by vepayanti in the next pāda, and the whole verse is marked by alliteration: v’s, p’s, and r’s in vápanti … prá vepayanti párvatān; m’s in marúto míham (both sets in ab), and y’s in c: yád yā́maṃ yā́nti vāyúbhiḥ.
 
@@ -109,28 +109,28 @@ Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts spread the mist abroad and make mountains rock and reel,  
      When with the winds they go their way
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The Maruts scatter mist abroad, They make the mountain ridges quake, When with the winds they go their way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut streuen Nebel aus, sie machen die Berge erbeben, wenn sie mit den Winden auf die Fahrt gehen;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Maruts säen Regen aus, und regen das Gebirge auf, Wenn sie mit Winden eilend gehn,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты сеют туман,  
 Они сотрясают горы,  

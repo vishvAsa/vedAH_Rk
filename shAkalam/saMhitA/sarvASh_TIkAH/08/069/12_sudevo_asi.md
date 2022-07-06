@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुदेवो꣡ असि वरुण  
 य꣡स्य ते सप्त꣡ सि꣡न्धवः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सूर्मि꣡यं सुषिरा꣡म् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒नु॒ऽक्षर॑न्ति । का॒कुद॑म् । सू॒र्म्य॑म् । सु॒षि॒राम्ऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sudevo* ← *su*
 - \[adverb\]
@@ -93,7 +93,7 @@ genre M
 हे वरुण जलाभिमानिन् देव त्वं **सुदेवोऽसि** **यस्य** सुदेवस्य **ते** तव **काकुदं** तालु समुद्राख्यं **सप्त** **सिन्धवः** गङ्गाद्याः सप्त नद्यः **अनुक्षरन्ति** जिह्वायां सर्वदा स्रवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ genre M
 Across whose palate: sūrmyam suṣirām iva: (**Yāska** **Nirukta** 5.27); grammariansadvocate the study of grammar; seven rivers are the seven declensional affixes; across whose palate the sevenrivers keep flowing a (fire penetrates and purifies) a beautiful perforated metal image); seven rivers are Gangaetc. and Varuṇa's palate is the ocean
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are well-provided with gods, Varuṇa—you through whose gullet  the seven rivers  
 stream, as through a tube that provides easy flow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take sudevá- as a bahuvrīhi, as su-compounds with this metrical shape and accentuation generally are (contra Geldner’s “ein guter Gott”). The gods mentioned in 11b may be part of Varuṇa’s retinue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Varuna, to whom belong Seven Rivers, art a glorious God.  
      The waters flow into thy throat as 'twere a pipe with ample mouth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist ein guter Gott, o Varuna, in dessen Schlund die sieben Ströme fließen wie in eine hohle Röhre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein rechter Gott bist du, o Varuna, in dessen Schlund die sieben Ströme hineinrinnen, wie in eine Wasserröthe, die gutes Gefälle hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

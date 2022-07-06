@@ -6,7 +6,7 @@ ChandaH = "उरोबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तृष्ट꣡म् एत꣡त् क꣡टुकम् एत꣡द्  
 अपाष्ठ꣡वद् विष꣡वन् नइ꣡त꣡द् अ꣡त्तवे  
@@ -14,7 +14,7 @@ ChandaH = "उरोबृहती"
 स꣡ इ꣡द् वा꣡धूयम् अर्हति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सू॒र्याम् । यः । ब्र॒ह्मा । वि॒द्यात् । सः । इत् । वाधू॑ऽयम् । अ॒र्ह॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tṛṣṭam* ← *tṛṣ*
 - \[verb noun\], nominative, singular
@@ -113,35 +113,35 @@ popular
 अनयापि वधूवस्त्रपरित्यागः प्रतिपाद्यते । एतत् वस्त्रं **तृष्टं** दाहजनकम् । तथा **एतत्** **कटुकम्** । तथा **अपाष्ठवत्** । अपाष्ठमपस्थितमृजीषम् । तद्वत् । तथा **विषवत्** । **नैतत्** वस्त्रम् **अत्तवे** अत्तव्यम् । अनुपयोग्यम्। **यो** **ब्रह्मा** ब्राह्मणः **सूर्याम्** इदानीं प्रस्तुतां देवीं **विद्यात्** सम्यग्जानीयात् **स** **इत्** स एव **वाधूयं** वधूवस्त्रम् **अर्हति**॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (garment) is inflaming, it is pungent; it is like stale **Soma**; it is like poison; it is not fit to eat; theBrāhmaṇa, who knows **Sūrya**, verily desires the bridal (garment).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is rough; this is sharp, barbed, poisonous: it is not for eating. The brahmin who would know Sūryā, only he deserves this thing  associated with the bride(groom).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pungent is this, and bitter this, filled, as it were, with arrow-barbs, Empoisoned and.not fit for use.  
      The Brahman who knows Surya well deserves the garment of the bride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brennend ist es, beißend ist es, mit Krallen versehen, so wenig wie vergiftete Speise zum Essen gut ist. Nur ein Beschwörer, der das Suryalied kennt, der verdient das Brautkleid.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rauh ist dies, scharf ist dies, mit Widerhaken, mit Gift versehen, nicht zu essen ist dies; der Brahmāne, welcher das Suriālied kennt, der verdient das Brauthemd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Грубая она, колючая она,  
 Когтистая; как (нечто) ядовитое – не для еды.  

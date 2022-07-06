@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ङ्गिरोभिर् आ꣡ गहि यज्ञि꣡येभिर्  
 य꣡म वैरूपइ꣡र् इह꣡ मादयस्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मि꣡न् यज्ञे꣡ बर्हि꣡षि आ꣡ निष꣡द्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विव॑स्वन्तम् । हु॒वे॒ । यः । पि॒ता । ते॒ । अ॒स्मिन् । य॒ज्ञे । ब॒र्हिषि॑ । आ । नि॒ऽसद्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṅgirobhir* ← *aṅgirobhiḥ* ← *aṅgiras*
 - \[noun\], instrumental, plural, masculine
@@ -118,41 +118,41 @@ popular
 हे **यम** **वैरूपैः** विविधरूपयुक्तैर्वैरूपसामप्रियैर्वा **यज्ञियेभिः** यज्ञयोग्यैः **अङ्गिरोभिः** सह **आ** **गहि** आगच्छ । आगत्य च **इह** अस्मिन् यज्ञे **मादयस्व** यजमानं हर्षय । **यः** विवस्वान् **ते** तव **पिता** अस्ति **अस्मिन्** **यज्ञे** तं **विवस्वन्तं** **हुवे** आह्वयामि । स चास्तीर्णे **बर्हिषि** **आ** **निषद्य** उपविश्य यजमानं हर्षयतु ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come here, **Yama**, with the venerable multiform **Aṅgirasas**, and be exhilarated; I summon **Vivasvat**,who is your father, to this sacrifice; be seated on the sacred grass (delight the sacrificer).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the Aṅgirases, deserving of the sacrifice, come hither; Yama,  become exhilarated here along with the Vairūpas—  
 I call upon Vivasvant, who is your father—once having sat down at this  sacrifice, on this ritual grass here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Yama, with the Angirases the Holy, rejoice thee here with children of Virupa.  
      To sit on sacred grass at this our worship, I call Vivasvan, too, thy Father hither.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Come hither with the Aṅgiras, the holy: Here with Virūpa's sons, O Yama revel, Vivasvant I invoke, who is thy father, When at this rite upon the straw he's seated.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm mit den opferwürdigen Angiras´! O Yama, ergötze dich hier mit den Vairupa´s - ich lade auch den Vivasvat, der dein Vater ist - nachdem du bei diesem Opfer auf dem Barhis Platz genommen hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhnen; Ich rufe den Vivasvat, deinen Vater, bei diesem Opfer auf der Streu zu sitzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди с Ангирасами, достойными жертвы!  
 О, Яма, радуйся здесь с Варупами!  

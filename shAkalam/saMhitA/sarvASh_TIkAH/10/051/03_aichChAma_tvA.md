@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अइ꣡छाम त्वा बहुधा꣡ जातवेदः  
 प्र꣡विष्टम् अग्ने अप्सु꣡ ओ꣡षधीषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दशान्तरुष्या꣡द् अतिरो꣡चमानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । त्वा॒ । य॒मः । अ॒चि॒के॒त् । चि॒त्र॒भा॒नो॒ इति॑ चित्रऽभानो । द॒श॒ऽअ॒न्त॒रु॒ष्यात् । अ॒ति॒ऽरोच॑मानम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aicchāma* ← *iṣ*
 - \[verb\], plural, Imperfect
@@ -113,7 +113,7 @@ popular
 एवमग्निना पृष्टा देवा अग्निं ब्रुवन्ति । हे **जातवेदः** जातप्रज्ञ **अग्ने** **त्वा** त्वाम् अनु **ऐच्छाम** । कीदृशं त्वाम् **अप्सु** उदकेषु **ओषधीषु** च **बहुधा** **प्रविष्टम्** । अन्विष्य च **तं** तादृशमप्प्रविष्टं **त्वा** त्वां **यमः** देवः **अचिकेत्** ज्ञातवान् हे **चित्रभानो** चायनीयरश्मे । कुत्र स्थितं ज्ञातवानिति तदुच्यते । **दशान्तरुष्यात्** । अन्तरुष्यं गूढमावासस्थानं तच्च स्थानं दशसंख्योपेतम् । तादृशं स्थानम् **अतिरोचमानम्** अतीत्य प्रकाशमानम् । अग्नेर्हि गूढानि दश स्थानानि भवन्ति । पृथिव्यादयस्त्रयो लोका अग्निवाय्वादित्यास्त्रयो देवा आप ओषधयो वनस्पतयः प्राणिशरीरमिति दश स्थानानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ popular
 These are thethree worlds-- heaven, mid-air, earth; three divinities, Agni, **Vāyu**, **Āditya**; the waters, the shrubs, the trees, andthe bodies of living beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gods:] We sought you in multiple places, o Jātavedas, you who had  entered into the waters, into the plants, o Agni.  
 Yama espied you, o bright-beamed one, shining out farther than (a  
 distance) of ten stages.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In many places, Agni Jatavedas, we sought thee hidden in the plants and waters.  
      Then Yama marked thee, God of wondrous splendour! effulgent from thy tenfold secret dwelling,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir suchten dich vielfach, o Jatavedas, nachdem du in das Wasser eingegangen warst, o Agni. Da entdeckte dich Yama, du prächtig Glänzender, der du über zehn Tagereisen weit leuchtetest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir suchten hier und dort, o Wesenkenner, in Wassern, Kräutern, Agni, dich versteckten; Da fand dich Jama auf, o strahlenreicher, dich, dessen Licht durch zehn Verstecke durchdringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы искали тебя во многих местах, о Джатаведас,  
 Когда ты вощел, о Агни, в воды (и) в растения.  

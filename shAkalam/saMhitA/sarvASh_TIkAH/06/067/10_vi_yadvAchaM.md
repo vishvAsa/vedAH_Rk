@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡द् वा꣡चं · कीस्ता꣡सो भ꣡रन्ते  
 शं꣡सन्ति के꣡ चिन् निवि꣡दो मनानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡किर् देवे꣡भिर् यतथो महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आत् । वा॒म् । ब्र॒वा॒म॒ । स॒त्यानि॑ । उ॒क्था । नकिः॑ । दे॒वेभिः॑ । य॒त॒थः॒ । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 **यत्** यदा **कीस्तासः** मेधाविन उद्गातारः। उशिजः कीस्तासः' इति मेधाविनामसु पाठात् । **वाचं** स्तुतिं **वि** **भरन्ते** पृथक् उच्चारयन्ति तदा **के** **चित्** बह्वृचाः **मनानाः** अग्न्यादीन् स्तुवन्तः **निविदः** **शंसन्ति** । **आत्** तथा सति **वां** युवाभ्यां **सत्यानि** उक्थानि स्तोत्राणि वयं **ब्रवाम** । **महित्वा** महत्त्वेन **देवेभिः** अन्यैर्देवैः सह **नकिः** **यतथः** न गच्छथः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,14 +130,14 @@ genre M
 Na kir devebhir yatathaḥ, you do not go, gacchathaḥ, with other gods, anyair devaiḥ **saha**, you are not associated with them at sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the praisers distribute their speech and some recite the formal  invocations, paying them heed,  
 after that we will speak to you pronouncements that come true: “No  one (will violate your ordinances). You set in their places (the  
 peoples) along with the gods by your greatness.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take the first hemistich here as a continuation of the description of bad ritual behavior, with cd introducing our contrastively correct practice. I think rather that the whole of 10 describes this good behavior. One advantage of this interpr. is that it allows ā́d opening c to have its normal sense ‘after that’, which Klein (DGRV II.135-36) must explicitly deny it. By my interpr. the first pāda sets the ritual scene, with the various priestly speakers “distributing” the types of ritual speech, as is standard in Vedic ritual. Some of these speakers recite the Nivids, the formal invocations. After this “we” take over by speaking ukthá-.
 
@@ -160,23 +160,23 @@ As noted in the published introduction, these vss. seem to concern themselves wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When singers in their song uplift their voices, some chant the Nivid texts with steady purpose.  
      Then may we sing you lauds that shall be fruitful: dp ye not rival all the Gods in greatness?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Sänger die Rede verteilen, so tragen die einen vor, was sie für Einladungssprüche halten; aber wir wollen auf euch die wahren Lobgedichte sprechen: Ihr eifert nicht mit den anderen Göttern um die Größe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn nun die Sänger ihre Stimm' erheben und andachtsvoll im Chor nach Vorschrift singen, Dann wollen wir euch gute Sprüche sprechen; nicht sind euch andre Götter gleich an Grösse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда певцы (?) распределяют речь (так,)  
 (Что) некоторые исполняют (то, что) считают приглашениями (богов), –  

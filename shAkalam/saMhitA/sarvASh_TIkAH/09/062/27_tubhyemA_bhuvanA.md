@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्येमा꣡ भु꣡वना कवे  
 महिम्ने꣡ सोम तस्थिरे  
 तु꣡भ्यम् अर्षन्ति सि꣡न्धवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तुभ्य॑म् । अ॒र्ष॒न्ति॒ । सिन्ध॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyemā* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **कवे** क्रान्तकर्मन् **सोम** **तुभ्य** तुभ्यं तव **महिम्ने** **इमा** इमानि **भुवना** भुवनानि **तस्थिरे** तिष्ठन्ति । त्वामेव पुरस्कुर्वन्तीत्यर्थः। अपि च **सिन्धवः** नद्यः **तुभ्यम्** एव **अर्षन्ति** गच्छन्ति । त्वदाज्ञामेवानुपालयन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,14 +93,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 I.e. these worlds honour you; the rivers observe your bidding
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, o poet, do these worlds here take their stand, for your  
 greatness, o Soma;  
 for you do the rivers rush.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ This tṛca shows more signs of unity than others in this hymn, esp. in the 1st 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, O thou Sage, these worlds stand ready to attest thy might:  
      For thy behoof the rivers flow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deiner Hoheit haben sich, o Seher Soma, diese Welten gefügt, für dich fließen die Ströme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es standen, weiser Soma, dir die Welten hier zur Macht bereit, Es rinnen dir die Ströme zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

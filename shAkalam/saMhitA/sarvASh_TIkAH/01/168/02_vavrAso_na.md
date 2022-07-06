@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वव्रा꣡सो न꣡ ये꣡ सुअजाः꣡ स्व꣡तवस  
 इ꣡षं सु꣡वर् अभिजा꣡यन्त धू꣡तयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आसा꣡ गा꣡वो व꣡न्दियासो न꣡ उक्ष꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒ह॒स्रिया॑सः । अ॒पाम् । न । ऊ॒र्मयः॑ । आ॒सा । गावः॑ । वन्द्या॑सः । न । उ॒क्षणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vavrāso* ← *vavrāsaḥ* ← *vavra*
 - \[noun\], nominative, plural, masculine
@@ -124,14 +124,14 @@ genre M
 **ये** मरुतः **वव्रासो** **न** । वव्रिरिति रूपनाम । रूपवन्त इव । ते यथा प्रकृष्टा लक्ष्यन्ते तद्वत् । यद्वा । अरूपा अपि सरूपा इव । **स्वजाः** स्वयमेव स्वस्मात् वा जायमानाः । अनन्यहेतुकाः इत्यर्थः। **धूतयः** कम्पनशीलाः सन्ति ते **इषम्** अन्नं हविर्लक्षणमन्नसाधनं सस्यादिकं वा **स्वः** स्वर्गं च **अभिजायन्त** अभिलक्ष्य प्रादुर्भवन्ति । ते दृष्टान्तमुखेन श्रूयन्ते । **अपां** **नोर्मयः** उदकानामूर्मय इव सहस्रियासः सहस्रसंमिताः तथा **वन्द्यासः** बहुक्षीरादिप्रदतवेन स्तुत्याः **गावः** **न** गाव इव **आसा** समीपे एव **उक्षणः** वृष्ट्युदकस्य सेक्तारः । तादृशा मरुतः प्रादुर्भवन्तीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who are as if embodied, self-born, self-invigorated, and (ever) tremulous (in movement), are genitive rated (to confer) abundant food and heaven; they are numerous as the undulations of the waters; they are to be praised when present, shedding water, like cows (yielding milk).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, self-produced like fissures, self-strong, were born to  
 refreshment, to sun(light)—the shakers—  
@@ -139,7 +139,7 @@ numbering in thousands like the waves of the waters, to be extolled
 [/*bound?] by the mouth like cows, like oxen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the image in pāda a see the published introduction.
 
@@ -152,23 +152,23 @@ One small issue is whether gā́vaḥ … ukṣánaḥ is a single compound NP o
 does not reflect it. The position of the simile particle would be slightly better if this were the case, though my tr. doesn’t reflect it either, mostly because “bovine oxen” doesn’t work well in English -- or probably in Sanskrit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surrounding, as it were, self-born, self-powerful, they spring to life the shakers-down of food and light;  
      Like as the countess undulations of the floods, worthy of praise when near, like bullocks and like kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von selbst entstanden wie die Erdschlünde, selbststark wurden die Schüttler zu Labsal und Sonnenlicht geboren, wie die tausendfachen Wogen der Gewässer, mit dem Munde zu loben wie die Rinder, die Stiere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Quellen gleich aus eigner Kraft entsprungen sind, die stürmenden erzeugt zu Lust und Himmelsglanz; Zu tausenden hinströmend Wasserwellen gleich, die rühmenswerthen kräft'gen Stieren gleich zu schaun,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самозародившиеся, словно расселины, сильные сами собой  
 Сотрясатели родились для подкрепления и солнечного света.  

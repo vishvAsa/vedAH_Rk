@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ मे गि꣡रो नासतिया  
 अ꣡श्विना प्रा꣡वतं युव꣡म्  
 म꣡ध्वः सो꣡मस्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मध्वः॑ । सोम॑स्य । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -80,36 +80,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **नासत्या** असत्यरहितौ हे **अश्विना** अश्विनौ **मे** मदीयाः **गिरः** स्तुतिलक्षणा वाचः प्रति **युवं** युवां **नु** क्षिप्रं **प्रावतं** प्रकर्षेणागच्छतम् । यद्वा । मे गिरः प्रावतं आत्मीयतया प्ररक्षतम् । किमर्थम् । **मध्वः** मदकरस्य **सोमस्य** **पीतये** पानाय तदर्थम् । सर्वे देवाः स्तुतिभिराहूताः सन्तो यज्ञं प्रत्यागच्छन्तीति गच्छतं रक्षतं चेति युक्तं भवति ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Nāsatyās**, **Aśvins**, hasten quickly to my praises, that you may drink the exhilarating **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now promote my hymns, o Nāsatyas, o Aśvins,  
 to drink of the honeyed soma.1184 VIII.86
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, O Nasatyas, now accept with favouring grace my songs,  
      To drink the savoury Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun gebet meinen Lobreden den Vorzug, Nasatya Asvin, um vom süßen Soma zu trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun fördert meine Lieder hier, o wahrhaft treue Ritter ihr, Zum Trunk des süssen Somasafts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так поддержите вы, о Насатьи –  
 Ашвины, мои песни,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् ए꣡हि वृषाकपे  
 सुविता꣡ कल्पयावहै  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 यः । ए॒षः । स्व॒प्न॒ऽनंश॑नः । अस्त॑म् । एषि॑ । प॒था । पुनः॑ । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -109,7 +109,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 आगत्य प्रतिगतं वृषाकपिमिन्द्रो ब्रवीति । हे **वृषाकपे** त्वं **पुनरेहि** अस्मान् प्रत्यागच्छ । आगते च त्वयि **सुविता** सुवितानि कल्याणानि त्वच्चित्तप्रीतिकराणि कर्माणि **कल्पयावहै** इन्द्राण्यहं च आवामुभौ पर्यालोच्य कुर्याव । किंच **यः** स्वप्ननंशनः उदयेन सर्वस्य प्राणिनः स्वप्नानां नाशयिता आदित्यः सः **एषः** त्वं **पथा** मार्गेण **अस्तम्** आत्मीयमावासं **पुनः** **एषि** गच्छसि । यतोऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः**। तथा च यास्कः - ‘ सुप्रसूतानि वः कर्माणि कल्पयावहै य एष स्वप्ननंशनः स्वप्नान्नाशयस्यादित्य उदयेन सोऽस्तमेषि पथा पुनः' (निरु. १२.२८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,30 +120,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 Destroyer of sleep: i.e., the sun; cf. Nirukta12.28
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indrāṇī:] “Come here again, Vr̥ṣākapi. We two will arrange easy  passages (for you),  
 who, as sleep-destroyer [/-attainer], go home again (to death) along  the path.”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Turn thee again Vrsakapi: we twain will bring thee happiness.  
      Thou goest homeward on thy way along this path which leads to sleep. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kehre zurück, Vrisakapi, wir wollen uns gut vertragen, da du, der Schlafvertreiber, deinen Weg wieder nach Hause gehst." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; gehe wieder nach Hause auf dem Wege, der dich zum Schlafe führt. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

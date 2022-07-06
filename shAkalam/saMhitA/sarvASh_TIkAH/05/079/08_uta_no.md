@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो गो꣡मतीर् इ꣡ष  
 आ꣡ वहा दुहितर् दिवः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 सा॒कम् । सूर्य॑स्य । र॒श्मिऽभिः॑ । शु॒क्रैः । शोच॑त्ऽभिः । अ॒र्चिऽभिः॑ । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -119,42 +119,42 @@ genre M;; repeated line
 **उत** अपि च **नः** अस्मभ्यं **गोमतीः** गोभिरुपेतानि **इषः** अन्नानि **आ** **वह** आनय हे **दिवः** दुहितः उषः । कदा । **सूर्यस्य** **रश्मिभिः** **साकं** **शोचद्धिः** दीपयद्भिः **शुक्रैः** निर्मलैः **अर्चिभिः** अग्नेस्तेजोभिश्च साकम् । सूर्योदयकालेऽग्नीन्धनकाले चेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Daughter of heaven, bring to us food and cattle together with the pure rays of the sun, and the radiant flames (of the kindled fires); bright-born goddess, (who are) sincerely praised for (the gift of) horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And bring to us refreshments along with cows, o Daughter of Heaven, simultaneously with the rays of the sun, with his glittering,  
 gleaming beams  
 – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two-party model returns here, with Dawn bringing the gifts directly to the priest/poets.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring us, O Daughter of the Sky, subsistence in our herds of kine,  
      Together with the sunbeams, with the shine of pure refulgent flames, highborn! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bring uns Nahrung nebst Kühen, o Himmelstochter, zugleich mit den Strahlen der Sonne, mit den hellen, brennenden Gluten des Feuers, du Edelgeborene, Rosseschenkende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und rinderreiche Labungen, o Himmelstochter, fahr zugleich Uns mit der Sonne Strahlen zu und mit dem hellen Flammenschein, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также привези нам жертвенные услады,  
 Состоящие из коров, о дочь неба,  

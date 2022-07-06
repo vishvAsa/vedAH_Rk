@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सहस्राक्षो꣡ वि꣡चर्षणिर्  
 अग्नी꣡ र꣡क्षांसि सेधति  
 हो꣡ता गृणीत उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 होता॑ । गृ॒णी॒ते॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasrākṣo* ← *sahasra*
 - \[noun\], neuter
@@ -77,7 +77,7 @@ genre M
 **सहस्राक्षः** असंख्यातज्वालः **विचर्षणिः** विशेषेण सर्वस्य द्रष्टा अयम् **अग्निः** **रक्षांसि** **सेधति** प्रतिषेधति । यज्ञान्निर्गमयति । स चाग्निः **उक्थ्यः** उक्थैः शस्त्रैरस्माभिः स्तूयमानः सन् **होता** देवानामाह्वाता भूत्वा **गृणीते** तान् स्तौति ॥ सहस्राक्षः । ‘ बहुव्रीहौ सक्थ्यक्ष्णोः' इति षच् समासान्तः । सतिशिष्टत्वात्तस्यैव स्वरः शिष्यते । सेधति । षिधु गत्याम् । अत्र केवलोऽपि सोपसर्गार्थो द्रष्टव्यः । गृणीते । गॄ शब्दे'। ' प्वादीनां ह्रस्वः' इति ह्रस्वत्वम् ॥ ॥ २८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,34 +88,34 @@ genre M
 **Sahasrākṣa** = asaṃkhyāta **jvālāḥ**, having countless flames
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thousand-eyed, boundless Agni repels the demonic forces.  
 As Hotar, worthy of praise, he is hymned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Keen and swift Agni, thousand-eyed, chaseth the Raksasas afar:  
      He singeth, herald meet for lauds.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The thousand-eyed Agni, who dwells among all tribes, scares away the Rakshas. The praiseworthy Hotri (Agni) is praised 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tausendäugig, vor allem Volke hervorragend, wehrt Agni die bösen Geister ab. Als preislicher Hotri wird er gefeiert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Allwirkend, tausendäugig wehrt die Zaubergeister Agni ab, Der hehre Priester wird gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тысячеглазый, движущийся в разные стороны  
 Агни отбрасывает ракшасов.  

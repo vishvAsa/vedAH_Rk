@@ -16,7 +16,7 @@ title = "+020"
 इति तृचाः ' ( आश्व. श्रौ. ८. ९) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 20  
 R̥bhus  
@@ -25,7 +25,7 @@ Medhātithi Kāṇva
 This hymn works briskly and efficiently through the marvelous feats accomplished  by the R̥bhus, a trio of craftsmen, originally mortal, who attained immortality  and a share in the sacrifice by their skilled work. This last achievement is stated  clearly in the final verse (8; see also 2c, 5), while verses 2–6 enumerate the separate  actions that led to it. Several features give shape to the basic list structure of the  hymn. The name of the divine dedicands appears only once, in the exact middle  of the hymn (vs. 4c), and the adjective “best conferring treasures” of 1c is opened  out into its phrasal syntactic equivalent “confer treasures” in verse 7, providing  a loose ring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Ṛbhus
 </details>

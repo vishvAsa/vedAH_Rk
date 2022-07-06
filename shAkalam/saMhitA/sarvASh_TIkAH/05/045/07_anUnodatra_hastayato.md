@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नूनोद् अ꣡त्र ह꣡स्तयतो अ꣡द्रिर्  
 आ꣡र्चन् ये꣡न द꣡श मासो꣡ न꣡वग्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वानि सत्या꣡ अ꣡ङ्गिराश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तम् । य॒ती । स॒रमा॑ । गाः । अ॒वि॒न्द॒त् । विश्वा॑नि । स॒त्या । अङ्गि॑राः । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anūnod* ← *anūnot* ← *nū*
 - \[verb\], singular, Plusquamperfect
@@ -128,7 +128,7 @@ genre M
 **अत्र** अस्मिन् यज्ञे **अद्रिः** अभिषवग्रावा **हस्तयतः** हस्तेन संहतः सन् **अनूनोत्** । नौतिरत्र शब्दमात्रे वर्तते । अशब्दयत् । **येन** ग्राव्णा तदभिषवेण **दश** **मासः** मासान् दशमासपर्यन्तं **नवग्वाः** । नवमासपर्यन्तं गवार्थमनुतिष्ठन्तोऽङ्गिरसो नवग्वाः । नवगोयुक्ता वा **आर्चन्** अपूजयन्निन्द्रम् । यद्वा । दशसंख्याकमासोपेता दशमासानुष्ठाना अङ्गिरसः अपरे नवग्वाश्चैते सर्वेऽपि येनार्चन्ति । नवग्वासः सुतसोमास इन्द्रम् ' (ऋ. सं. ५. २९. १२) इति हि निगमः। **ऋतं** सत्यं यज्ञं वा **यती** प्राप्नुवती **सरमा** सरणशीला स्तुतिरूपा वागङ्गिरसां गवार्थमिन्द्रेण प्रहिता देवशुनी वा **गा** **अविन्दत्** पणिभिरपहृताः। **विश्वानि** सर्वाणि स्तुत्यादिलक्षणानि **सत्या** सत्यानि **चकार** **अङ्गिराः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ Ten-months worship: or, when the priests of both the nine and ten months rites o
 Saramā: may signify either flowing, eulogistic, or sacred speech, śaraṇaśīlā stutirūpa vāk, or, as usual, the bitch of **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (pressing) stone, guided by the hand, bellowed there, the stone along  with which the Navagvas sang for ten months.  
 Saramā, going after the truth, found the cows; the Aṅgiras made all  things real.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that 3 of the 4 verbs are augmented (ánūnot, ā́rcan, avindat), the 4th a preterital pf. (cakāra).
 
@@ -162,23 +162,23 @@ Here the mythic model of the dawn accompanying the dawn ritual, the opening of t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, urged by hands, loudly hath rung the press-stone wherewith Navagvas through ten months sang praises.  
      Sarama went aright and found the cattle. Angiras gave effect to all their labours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllte dabei der mit der Hand regierte Preßstein, mit dem die Navagva´s zehn Monate lang den Göttern lobsangen. Sarama ging den rechten Weg und fand die Kühe. Alles hat der Angiras wahrgemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da tönte laut der handgelenkte Pressstein, mit dem zehn Monde lang die Neuner sangen, Auf rechtem Pfad fand Sarama die Kühe, und alles machte wahr der Angirase.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Застучал тогда управляемый рукой давильный камень,  
 С помощью которого Навагва десять месяцев воспевали (богов).  

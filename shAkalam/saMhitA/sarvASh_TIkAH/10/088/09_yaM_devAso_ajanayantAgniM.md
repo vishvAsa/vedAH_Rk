@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ देवा꣡सो अ꣡जनयन्त अग्निं꣡  
 य꣡स्मिन्न् आ꣡जुहवुर् भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋजूय꣡मानो अतपन् महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । अ॒र्चिषा॑ । पृ॒थि॒वीम् । द्याम् । उ॒त । इ॒माम् । ऋ॒जु॒ऽयमा॑नः । अ॒त॒प॒त् । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -119,36 +119,36 @@ popular
 **यं** वैश्वानरम् **अग्नि** **देवासः** देवाः **अजनयन्त** उत्पादितवन्तः **यस्मिन्** च उत्पन्ने वैश्वानरेऽग्नौ **विश्वा** विश्वानि **भुवनानि** भूतानि **आजुहवुः** अभिमुख्येन जुहुवुः सर्वमेधे **सः** वैश्वानरोऽग्निः **अर्चिषा** तेजसा **पृथिवीम्** अन्तरिक्षम् । ‘ आपः पृथिवी' इत्यन्तरिक्षनामसु पाठात् । **द्या** दिवं च **उत** अपि च **इमां** भूमिं च **ऋजूयमानः** ऋजुगमनः **महित्वा** महत्त्वेन **अतपत्** सर्वं तपति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** whom the gods genitive rated, in whom all beings have offered oblations-- he, the straight-going, haswarmed by his \\radiance, by his might, the earth and his heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fire [/Agni] whom the gods begot, in whom all beings poured  oblations,  
 aiming straight, he heated earth and this heaven with his flame in his  greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Agni, whom the Gods have generated, in whom they offered up all worlds and creatures,  
      He with his bright glow heated earth and heaven, urging himself right onward in his grandeur.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, den die Götter erschufen, in dem sie alle Welten opferten, der erhitzte mit seinem Strahl die Erde und diesen Himmel mit Macht in redlicher Absicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Agni, den die Götterschar erzeugte, in welchen alle Wesen Opfer giessen, Er wärmte Erd' und Himmel hier mit Strahlen, mit seiner Grösse grad' empor sich richtend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Агни, которого породили боги,  
 В которого совершили возлияния все существа,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् उषो या꣡सि भानु꣡ना  
 सं꣡ सू꣡रियेण रोचसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वर्ति꣡र् याति नृपा꣡यियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । ह॒ । अ॒यम् । अ॒श्विनोः॑ । रथः॑ । व॒र्तिः । या॒ति॒ । नृ॒ऽपाय्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -104,37 +104,37 @@ genre M
 हे **उषः** **भानुना** दीप्त्या सह **यत्** यदा **यासि** गच्छसि तदानीं **सूर्येण** **सं** **रोचसे** सम्यग्दीप्यसे । अपि च तस्मिन् समये **अश्विनोः** **अयं** **रथः** **नृपाय्यं** यत् नृभिर्नेतृभिर्ऋत्विग्भिः पालनीयं **वर्तिः** यज्ञगृहम् **आ** **याति** **ह** आगच्छति खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, Uṣas, you move with radiance, you shine equally with the sun; and this chariot of the Aśvinsproceeds to the hall of sacrifice frequented by the leaders (of the rite).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Dawn, you drive with your radiant beam, you shine together  with the sun.  
 This chariot of the Aśvins drives here along the circuit protective  
 of men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Dawn, approaching with thy light shinest together with the Sun,  
      And to this man-protecting home the chariot of the Asvins comes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, Usas, mit deinem Glanze kommst, so strahlst du mit der Sonne zusammen. Dieser Wagen der Asvin beginnt dann seine männerschützende Umfahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Uschas, du mit Glanz erscheinst, so strahlest mit der Sonne du, Dann eilt der Ritter Wagen hier zur Stätte, die die Männer schützt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Ушас, ты приходишь со (своим) светом,  
 Ты сверкаешь вместе с солнцем.  

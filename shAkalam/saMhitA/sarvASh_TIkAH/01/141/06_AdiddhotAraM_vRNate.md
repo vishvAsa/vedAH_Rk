@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् इ꣡द् धो꣡तारं वृणते दि꣡विष्टिषु  
 भ꣡गम् इव पपृचाना꣡स ऋञ्जते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡र्तं शं꣡सं विश्व꣡धा वे꣡ति धा꣡यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दे॒वान् । यत् । क्रत्वा॑ । म॒ज्मना॑ । पु॒रु॒ऽस्तु॒तः । मर्त॑म् । शंस॑म् । वि॒श्वधा॑ । वेति॑ । धाय॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 **होतारं** होमनिष्पादकम् आह्वातारं वा देवानां ईदृशमग्निं **दिविष्टिषु** दिवसैषणेषु निमित्तभूतेषु **वृणते** संभजते । **आदित्** अनन्तरमेव तथा **पप्रचानासः** हविषा स्तुत्या च संपृचाना ऋत्विजो यजमानाः ॥ पृचेश्छान्दसस्य लिटः कानच् ॥ **ऋञ्जते** प्रसाधयन्ति । किमिव। **भगमिव** । तं यथा जनाः प्रसाधयन्ति तद्वत् । यद्वा । महान्तं राजानमिव सूर्यदीप्तिवत् पूज्यमित्यर्थः । ‘ ऋञ्जतिः प्रसाधनकर्मा' इति यास्कः । **यत्** यस्मात् अयमग्निः **पुरुष्टुतः** बहुभिर्बहुधा वा स्तूयमानः **क्रत्वा** क्रतुना कर्मणा यागादिरूपेण **मज्मना** शारीरेण बलेन च युक्तान् **देवान्** व्यवहर्तॄनृत्विजो यज्ञभुजो देवान् वा क्रत्वा मज्मना च योजयितुं तथा **मर्तं** यजमानं **शंसं** स्तुतिं च स्तुत्यं वा तं **विश्वधा** विश्वधनो यद्वा विश्वात्मकोऽयं **वेति** पूर्वोक्तान् कामयते । किमर्थम् । **धायसे** हविर्लक्षणान्नाय । तस्मात् होतारमग्निं वृणते ऋञ्जते च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,14 +126,14 @@ genre M
 A powerful prince: bhagam = **bhaga**, a great prince; or, **Āditya**, or the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just after that they choose (him as) their Hotar at the rituals of  daybreak. As if gorging themselves on good fortune, they steer  
 straight (to him),  
 since he, much praised, with resolve and with might always pursues the  gods and the laud (of) mortals in order to suckle them,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another instance of ā́d íd, which seems, in this hymn, to mark the progress of the ritual.
 
@@ -142,28 +142,28 @@ With bhágam iva papṛcā́nāsaḥ in b compare bhágam … papṛcāsi in 11b
 The phrase mártaṃ śáṃsam may be a de-compounded version of nárāśáṃsawith lexical substitution. Note that nárāśáṃsa- is found in the next hymn, the Āprī hymn I.142.3. See also devā́nāṃ śā́ṃsam in 11d of this hymn. The double object of véti -- devā́n and mártaṃ śáṃsam -- is a zeugma of sorts, made possible by the fact that √vī can take both animate and inanimate objects.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therefore they choose him Herald at the morning rites, pressing to him as unto Bhaga, pouring gifts,  
      When, much-praised, by the power and will of Gods, he goes at all times to his mortal worshipper to drink.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Then in the strivings for the day 2 they choose him Hotri. As if to swell their good fortune they strive towards him 3, when praised by many he moves everywhere with wisdom and power to the gods and to the praise of mortals 4 for (bringing them) refreshing drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da erwählten sie ihn zum Hotri bei den Opfern des Tages; sie lassen ihm den Vortritt wie die, die ihr Glück gemacht haben, dem Bhaga, da der Vielgepriesene mit Umsicht und Macht den Göttern zuredet und dem Sterblichen zuredet, allezeit Lob darzubringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann wählen sie zum Priester bei den Festen ihn und dringen wie zum Spender hin sich sättigend, Wenn hochgerühmt er zu den Göttern geht mit Kraft und Macht, zu pflegen stets den Mann, der ihn besingt;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот выбирают (его) хотаром для жертвоприношений на небе,  
 К нему направляются, как переполненные (дарами люди) - к счастью,  

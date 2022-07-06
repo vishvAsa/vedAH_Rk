@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प नः शो꣡शुचद् अघ꣡म्  
 अ꣡ग्ने शुशुग्धि꣡ आ꣡ रयि꣡म्  
 अ꣡प नः शो꣡शुचद् अघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 अप॑ । नः॒ । शोशु॑चत् । अ॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -89,7 +89,7 @@ popular;; repeated line
 हे **अग्ने** **नः** अस्माकम् **अघं** पापम् **अप** **शोशुचत्** अस्मत्तो निर्गत्यास्मदीयं शत्रुं शोचयतु । यद्वा । अस्मदीयं पापं शोशुचत् शोकग्रस्तं सद्विनश्यतु । अपि चास्माकं **रयिं** धनम् **आ** समन्तात् **शुशुग्धि** प्रकाशय । उक्तार्थमपि वाक्यमादरातिशयद्योतनाय पुनः पठ्यते । अवश्यमस्माकमघं विनश्यत्विति ॥ शोशुचत् । शुच शोके । अस्मात् यङ्लुगन्तात् लेटि अडागमः ।' अदादिवञ्च ' इति वचनात् शपो लुक् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । अघं शोशुचच्च रयिं शुशुग्धि चेति चार्थप्रतीतेः ‘चादिलोपे विभाषा' इति निघातप्रतिषेधः । शुशुग्धि । शुच दीप्तौ । लोटि ‘बहुलं छन्दसि ' इति शपः श्लुः । **हुझल्भ्यो** हेर्धिः । ‘ चोः कुः' इति कुत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,39 +100,39 @@ popular;; repeated line
 Agham apa naḥ śośucad: from śuc, to sorrow, with the vedic imperative apa (let) prefixed; two interpretations: 'let our sin pass away from us, and light upon our adversaries'; or 'let our sin, afected by grief, perish'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Blazing away the bad for us, blaze wealth here, o Agni,  
 —blazing away the bad for us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It does not seem worthwhile to try to replicate the difference between the two reduplicated forms, the intensive participle (śośucat) and the perfect imperative (śuśugdhi) in tr. — Renou’s tr. of the inten. part., “écartant-par-ton-éclat-puissant,” is a cautionary example of why. Witzel Gotō’s “immer wieder wegflammend” is somewhat less clunky but still gets wearisome in repetition.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Chasing with light our sin away, O Agni, shine thou wealth on us.  
      May his light chase our sin away.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Driving away evil 1 with thy light, Agni, shine upon us with wealth—driving away evil with thy light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Übel von uns hinwegflammend, flamme uns Reichtum zu, Agni - das Übel von uns hinwegflammend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strahle Leid von uns hinweg, o Agni, strahle Reichthum her, Er strahle Leid von uns hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь от нас засвечивая зло,  
 О Агни, воссвети богатство,  

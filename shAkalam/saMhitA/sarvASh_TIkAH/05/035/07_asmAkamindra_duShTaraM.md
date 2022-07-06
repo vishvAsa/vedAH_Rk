@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् इन्द्र दुष्ट꣡रम्  
 पुरोया꣡वानम् आजि꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वाजय꣡न्तम् अवा र꣡थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒ऽयावा॑नम् । धने॑ऽधने । वा॒ज॒ऽयन्त॑म् । अ॒व॒ । रथ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -96,7 +96,7 @@ genre M
 हे **इन्द्र** **अस्माकं** **रथं** रंहणस्वभावं वा पुत्रम् **अव** रक्ष । कीदृशं रथम् । **दुष्टरं** दुःखेन तरणीयम् **आजिषु** संग्रामेषु **पुरोयावानं** पुरतो मिश्रयितारं **सयावानम्** अनुचरैः सह गन्तारं **धनेधने** सर्वेषु धनेषु **वाजयन्तं** संग्रामं धनं वेच्छन्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,36 +107,36 @@ genre M
 Our chariot: ava ratham: the latter may also signify a son, he whose nature it is to give delight to his parents, raṃhaṇasvabhāvam putram
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our chariot, Indra—help it, the one difficult to surpass, driving in front  in the contests,  
 driving together (with you?) whenever the stakes (are set), seeking prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has a riddle structure: the accusative qualifiers pile up until their referent, the chariot (rátham) is given at the very end, immediately preceded by the verb (avā) on which the preceding accusatives depend. It proved difficult to capture this effect in tr.
 
 sayā́van- means ‘drive along with’ (the useful German ‘mitfahren’, for which there is no precise English equivalent). It is ordinarily either construed with an instr. of the fellow traveller or is in the instr. qualifying the fellow traveller(s). Here there is no such overt expression, but we can assume it is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, do thou protect our car that mingles foremost in the fights,  
      That bears its part in every fray, invincible and seeking spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, unseren Wagen begünstige, den schwer zu überholenden, in den Kämpfen voranfahrenden, um jeden Siegerpreis mitfahrenden, wettlaufenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Wagen, Indra, fördre uns, im Wettlauf geh er stets voran, Der mit uns geht in jedem Streit, den Preis erlangend, unbesiegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашу колесницу, о Индра, труднонастижимую,  
 Едущую впереди в сражениях,  

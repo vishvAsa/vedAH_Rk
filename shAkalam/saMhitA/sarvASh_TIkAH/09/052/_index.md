@@ -8,7 +8,7 @@ title = "+052"
 ‘परि द्युक्षः' इति पञ्चर्चमष्टाविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । “परि द्युक्षः' इत्यनुक्रान्तम् । उक्तो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 52 (764)  
 Soma Pavamāna  

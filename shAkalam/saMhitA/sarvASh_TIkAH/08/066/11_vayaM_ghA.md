@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ घा ते अ꣡पूर्विय  
 इ꣡न्द्र ब्र꣡ह्माणि वृत्रहन्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भृतिं꣡ न꣡ प्र꣡ भरामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽतमा॑सः । पु॒रु॒ऽहू॒त॒ । व॒ज्रि॒ऽवः॒ । भृ॒तिम् । न । प्र । भ॒रा॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -98,7 +98,7 @@ genre M
 हे इन्द्र वयङ्घ खलु ते तव अपूर्व्या नूतनानि ब्रह्माणि परिवृढानि स्तोत्राणि प्रभरामसि सम्भरामः पुरुतमासो बहुतमा वयं ऋत्विग्यजमानरूपेण वृत्रहन् वृत्रस्यहन्तः पुरुहूत बहुभिराहूत हे वज्रिवः वज्रयुक्तेन्द्र किमिव भृतिन्न भृतिमिव तां यथा नियमेन प्रयच्छन्ति तद्वत् नियमेन प्रदानता- त्पर्याद्भृतिदृष्टान्तत्वमविरुद्धम् ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,30 +109,30 @@ genre M
 Use of wages as an illustration is not inappropriate, as both the hymns and wages are given bya definite rul, niyamena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Although we are) the latest of many, we present to you sacred  
 formulations without precedent, o Indra, Vr̥tra-smasher,  
 like a present, o mace-bearer invoked by many.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Vrtra-slayer, we, thy very constant worshippers,  
      Bring prayers ne'er heard before to thee, O Much-invoked, O Thunder-armed, to be thy meed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir bringen dir, Vritratöter Indra, am häufigsten noch nie dagewesene erbauliche Reden dar, gleichsam als deinen Lohn, vielgerufener Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir tragen unvergleichliche Gebete dir, o Indra, vor, O vielgerufner Vritratödter, Blitzender, wie Nahrung, wir, die emsigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это же мы, о Индра, небывалые  
 Священные слова, о убийца Вритры,  

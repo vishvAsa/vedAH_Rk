@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ देवा꣡नां कतम꣡स्य या꣡मनि  
 सुम꣡न्तु ना꣡म शृण्वता꣡म् मनामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कतम꣡ ऊती꣡ अभि꣡ आ꣡ ववर्तति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 कः । मृ॒ळा॒ति॒ । क॒त॒मः । नः॒ । मयः॑ । क॒र॒त् । क॒त॒मः । ऊ॒ती । अ॒भि । आ । व॒व॒र्त॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 कथेति सप्तदशर्चं चतुर्थं सूक्तं प्लातस्य गयस्यार्षम् वैश्वदेवम् । याम् मे धियमित्येषा द्वादशी षोडशीसप्तदश्यौ च त्रिष्टुभः शेषा जगत्यः। तथा चानुक्रान्तम्। कथा यां मे त्रिष्टुबिति। गतो विनियोगः॥ऋषिर्बहुधात्मानं वितर्कयति। यामनि। यान्ति गच्छन्त्यत्रेति यामा यज्ञः। तस्मिञ्शृण्वतामस्माभिरुक्तानि स्तोत्राणि देवानां मध्ये कतमस्य देवस्य सुमन्तु सुष्थु मननीयं स्तोतव्यं नाम कथा कथं मनामहे। उच्चारयामः। अस्मान्को वा मृळाति। मृळतिरुपदयाकर्मेति यास्कः। नि. १०-१५। कृपां करोति। कतमो वा सोऽस्माकं मयः सुखं करत्। करोति। कतमो वोती। चतुर्थ्याः पूर्वसवर्णदीर्घः। ऊत्या अस्माकं रक्षणायाभ्या ववर्तति। अभ्यागच्छतीत्यर्थः॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,7 +141,7 @@ genre M
 Compassion: mṛḷatirupadayākarmā: **Nirukta** 10.15
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How shall we contemplate—of which one of the gods shall we  
 contemplate the name that is good to contemplate, as they listen to  
@@ -149,23 +149,23 @@ my plea?
 Who will be merciful; which one will create joy for us? Which one will  turn hither with help?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT God, of those who hear, is he whose well-praised name we may record in this our sacrifice; and how?  
      Who will be gracious? Who of many give us bliss? Who out of all the Host will come to lend us aid?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie und an wessen gerngedachten Namen der Götter, die auf der Fahrt erhören, sollen wir gedenken? Wer wird sich erbarmen, welcher unter den vielen wird uns Freude machen? Welcher wird gnädig herlenken?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Gott ist's von den hörenden, dess Namen wir, den rühmlichen, beim Feste rühmen? wie ist's recht? Wer wird uns hold sein? wer uns schaffen Lust und Glück? und welcher wird mit seiner Hülfe sich uns nahn?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

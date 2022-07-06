@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रे꣡ष्ठं नो अद्य꣡ सवितर् व꣡रेणियम्  
 भाग꣡म् आ꣡ सुव स꣡ हि꣡ रत्नधा꣡ अ꣡सि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रा॒यः । जनि॑त्रीन् । धि॒षणा॑म् । उप॑ । ब्रु॒वे॒ । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], accusative, singular, masculine
@@ -143,36 +143,36 @@ genre M;; repeated line
 हे **सवितः** त्वम् **अद्य** अस्मिन्नहनि **नः** अस्मभ्यं **वरेण्यं** वरणीयं **श्रेष्ठं** प्रशस्यतमं **भागं** भजनीयं धनम् **आ** **सुव** प्रेरय । देहीत्यर्थः । **हि** यस्मात् **सः** प्रार्थितस्त्वं **रत्नधाः** श्रेष्ठानां धनानां संविभक्ता **असि** भवसि । तथा च निगमान्तरं-- ‘ विभक्तारं हवामहे वसोश्चित्रस्य राधसः सवितारं नृचक्षसम् ' (ऋ. सं. १.२२.७) इति । **रायः** धनस्य **जनित्रीं** **धिषणां** सर्वदेवस्तुतिरूपां वाचम् **उप** **ब्रुवे** अहमुपब्रवीमि । यद्वा । धिषणां देवीमुप ब्रुवे उपस्तौमीत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Savitā**, this day bestow upon us excellent and eligible portion, for you verily are the dispenser ofwealth; I recite the praise (of the gods) which is the progenitress of riches; we solicit the kindled fire for ourwelfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The best portion, worthy to be chosen, impel to us today, o Savitar, for  you are a conferrer of treasure.  
 I call on her, the begetter of wealth, on the Holy Place. – We beseech  Agni, when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send us to-day a portion choice and excellent, O Savitar, for thou art he who dealeth wealth.  
      I cry to Dhisana, Mother of opulence. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das beste vorzüglichste Teil weise uns heute zu, Savitri, denn du bist der Belohner! Der Dhisana rede ich als Erzeugerin des Reichtums zu. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schaff heut uns her, o Savitar, das schönste Theil, das wonnige, denn Schatzvertheiler bist du ja; Die Götterschale ruf' ich an, die Güter zeugt; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самую лучшую избранную долю, о Савитар,  
 Пробуди для нас сегодня – ты ведь даритель сокровищ!  

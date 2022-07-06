@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡सिष्ठं ह व꣡रुणो नावि꣡ आ꣡धाद्  
 ऋ꣡षिं चकार सुअ꣡पा म꣡होभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡न् नु꣡ द्या꣡वस् तत꣡नन् या꣡द् उषा꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्तो॒तार॑म् । विप्रः॑ । सु॒दि॒न॒ऽत्वे । अह्ना॑म् । यात् । नु । द्यावः॑ । त॒तन॑न् । यात् । उ॒षसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasiṣṭhaṃ* ← *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 एवं वसिष्ठेनात्मनोक्ते यद्वरुणेन कृतं तद्दर्शयति । **वसिष्ठं** **ह** वसिष्ठं खलु **वरुणः** **नावि** स्वकीयायाम् **आधात्** आरोहयत् । तथा तम् **ऋषिम्** **अवोभिः** रक्षणैः **स्वपां** स्वपसं-शोभनकर्माणं **चकार** वरुणः कृतवान् । अपि च **विप्रः** मेधावी वरुणः **अह्नां** दिवसानां मध्ये **सुदिनत्वे** यत्फलत्वेन शोभनदिनत्वं तत्र **स्तोतारम्** अस्थापयदि ति शेषः । किं कुर्वन् । **यात्** यातो गच्छतः **द्यावः** दिवसान् **यात्** यातीः **उषासः** उषसोपलक्षिता रात्रीश्च **नु** क्षिप्रं **ततनन्** सूर्यात्मना विस्तारयन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,34 +150,34 @@ Uṣāsaḥ = **rātriḥ**, nights;
 Yat = yatahgacchataḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa placed Vasiṣṭha on the boat. Skillful in his work, he made him a  seer through his great powers.  
 The inspired poet (made him) a praise singer on that brightest day of  days for so far as the heavens, for so long as the dawns will extend.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna placed Vasistha in the vessel, and deftly with his niight made him a Rsi.  
      When days shone bright the Sage made him a singer, while the heavens broadened and the Dawns were lengthened.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Varuna has placed Vasiṣṭha in the vessel; The sage benignant by his mighty power His praiser in prosperity has settled, As long as days endure, as long as mornings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna hat den Vasistha ins Schiff gesetzt, er, der Meister, machte ihn durch seine Herrlichkeiten zum Rishi, zum Sänger, er der Redekundige, an dem Glückstag unter den Tagen, so lange noch die Himmel, so lange die Morgen dauern werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Varuna liess aufs Schiff Vasischtha steigen und machte ihn mit Wunderkraft zum Dichter, Der Gott den Sänger an dem Tag des Heiles, so lang' die Tage und die Morgen dauern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, Васиштху Варуна посадил на корабль,  
 (Он,) мастер, сделал (его) риши (своими чудесными силами),  

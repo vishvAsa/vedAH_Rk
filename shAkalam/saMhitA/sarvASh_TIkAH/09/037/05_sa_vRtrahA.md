@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वृत्रहा꣡ वृ꣡षा सुतो꣡  
 वरिवोवि꣡द् अ꣡दाभियः  
 सो꣡मो वा꣡जम् इवासरत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । वाज॑म्ऽइव । अ॒स॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **स** **वृत्रहा** **वृषा** वर्षकः **सुतः** अभिषुतः **वरिवोवित्** यष्टुर्धनस्य लम्भकः **अदाभ्यः** अन्यैरदम्भनीयः **सोमः** **वाजमिव** संग्राममश्व इव **असरत्** गच्छति कलशम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The slayer of **Vṛtra**, the showerer of benefits, the giver of wealth, the invincible, the effused **Soma** proceeds (to the pitcher) as (a horse) to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the Vr̥tra-smasher, the bull, finding the wide realm when pressed,  undeceivable—  
 Soma has flowed as if to a prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Vrtra-slaying Steer, effused, Soma room-giver, ne'er deceived,  
      Hath gone, as 'twere, to win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vritratöter, der ausgepreßte Bulle, der einen Ausweg ins Freie findet, der untrügliche Soma ist gleichsam um den Siegerpreis gelaufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vritratödter Soma lief heilspendend, der erzeugte Hengst, Untilgbar wie zur Beute hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

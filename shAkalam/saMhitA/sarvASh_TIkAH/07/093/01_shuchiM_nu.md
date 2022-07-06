@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिं नु꣡ स्तो꣡मं न꣡वजातम् अद्य꣡  
 इ꣡न्द्रअग्नी वृत्रहणा जुषे꣡थाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡ वा꣡जं सद्य꣡ उशते꣡ ध꣡यिष्ठा+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒भा । हि । वा॒म् । सु॒ऽहवा॑ । जोह॑वीमि । ता । वाज॑म् । स॒द्यः । उ॒श॒ते । धेष्ठा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
@@ -147,20 +147,20 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayers of enemies, **Indra** and **Agni**, be plural ased today by this pious and newly recited praise; repeatedlydo we invoke you both, who are worthy of invocation; you are the chief bestowers of food promptly upon him whosolicits (it of you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy a blazing praise, newborn today, o Indra and Agni, smiters of  Vr̥tra,  
 for I keep calling upon you both, good to call, the two who best set out  the prize right away for him who wants it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SLAYERS of enemies, Indra and Agni, accept this day our new-born pure laudation.  
      Again, again I call you prompt to listen, best to give quickly strength to him who craves it.
@@ -174,17 +174,17 @@ For on you both I call that are ready to listen,
 You that are ever readiest to give strength to the eager.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dem reinen, neuentstandenen Loblied sollt ihr, Indra und Agni, ihr Vritratöter, heute Gefallen haben, denn euch beide, die sich gern rufen lassen, rufe ich an, die ihr dem Verlangenden allsogleich den Siegerpreis am ehesten einbringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Empfanget nun das neuerzeugte Loblied, o Feindestödter, Indra-Agni, heute, Euch beide ruf' ich, die ihr gerne höret, so gebt denn bald dem Beter reichste Labe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистой хвалой, рожденной заново сегодня,  
 Наслаждайтесь, о Индра-Агни, убийцы Вритры!  

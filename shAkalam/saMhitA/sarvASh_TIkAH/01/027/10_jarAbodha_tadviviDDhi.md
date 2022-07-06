@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡राबोध त꣡द् विविड्ढि  
 विशे꣡-विशे यज्ञि꣡याय  
 स्तो꣡मं रुद्रा꣡य दृ꣡शीकम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स्तोम॑म् । रु॒द्राय॑ । दृशी॑कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jarābodha* ← *jarā*
 - \[noun\], feminine
@@ -79,7 +79,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **जराबोध** जरया स्तुत्या बोधमानाग्ने **विशेविशे** तत्तद्यजमानरूपप्रजानुग्रहार्थं **यज्ञियाय** यज्ञसंबन्ध्यनुष्ठानसिद्धयर्थं **तत्** देवयजन **विविड्ढि'** प्रविश । यजमानोऽपि **रुद्राय** क्रूरायाग्नये तुभ्यं **दृशीकं** दर्शनीयं समीचीनं **स्तोमं** स्तोत्रं करोतीति शेषः । अत्र यास्क एवं व्याख्यातवान्–' जरा स्तुतिर्जरतेः स्तुतिकर्मणस्तां बोध तथा बोधयितरिति वा तद्विविड्ढि तत्कुरु मनुष्यस्य मनुष्यस्य यजनाय स्तोमं रुद्राय दर्शनीयम् ' ( निरु. १०. ८) इति ॥ जराबोध ।' जॄष् वयोहानौ' । अत्र तु स्तुत्यर्थः। ‘षिद्भिदादिभ्योऽङ्' (पा. सू. ३. ३. १०४ ) इति अङ्प्रत्ययः । ततः टाप् । जरया स्तुत्या बोधो यस्यासौ जराबोधः । यद्वा । जरया बोध्यते इति जराबोधः । कर्मणि घञ्। आमन्त्रिताद्युदात्तत्वम् । विविड्ढि। ‘विश प्रवेशने'। लोटो हि । ‘बहुलं छन्दसि' इति शपः श्लुः । अभ्यासहलादिशेषौ । ‘हुझल्भ्यो हेर्धिः' इति हेर्धिरादेशः । षत्वष्टुत्वे । यद्वा । ‘विष्लृ व्याप्तौ ' इत्यस्मात् लोण्मध्यमैकवचने अभ्यासस्य गुणाभावः । विशेविशे। ‘सावेकाचः' इति चतुर्थ्या उदात्तत्वम् । ‘अनुदात्तं च' इति आम्रेडितानुदात्तत्वम् । यज्ञियाय । ‘यज्ञर्त्विग्भ्यां घखञौ ' ( पा. सू. ५. १. ७१ ) इति घः । दृशीकम् । “ अनिदृशिभ्यां च' (दश. पा. ३) इति कीकन्प्रत्ययः । नित्त्वादाद्युदात्तः ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Jarābodha = he who is awakened (**bodha**) by praise (**jarā**); **rudra** is equated with the fierce or cruel Agni: krurāya Agnaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awake and sing! Bring this about: for the one worthy of sacrifice for  every clan,  
 for Rudra [=Agni], a praise song that is beauty to be seen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The supposed voc. járābodha in a is problematic on several grounds. It is generally taken to mean something like “attentive to the early call,” but 1) the first member, jarā́-, is only attested in the meaning ‘old age’ (hence Oldenberg’s suggested “im (bis zum) Greisenalter wachend”), and 2) the second member, the thematic nominal bodhá-, is not otherwise found in the RV (though it does occur in the AV). I therefore prefer to interpret it as a pair of linked imperatives, járā bodha. The latter is found 5x in the RV, as impv. to the thematized aor. to √budh ‘awake’; the former would belong to the thematic pres. jára- of √gṛ/jṛ ‘sing’. Although this present is ordinarily only middle (vs. járati ‘make old’), attraction in voice would not be surprising in a construction like this. The long -ā of járā simply reflects the common lengthening of the 2nd sg. impv. Although we might expect bodha to be accented, it may have lost the accent when the construction ceased to be understood, or it may never have received it in this close semantic nexus. Under this analysis the order of imperatives is actually “sing (and) awake!” which I have reordered for clarity.
 
@@ -105,28 +105,28 @@ Alternatively, we might take járā to √gṛ/jṛ ‘awake’, which likewise 
 Since dṛ́śīka- is otherwise a neut. substantive, I have rendered it as appositional to stómam rather than as an adjective (e.g., Geldner “ein schönes Lied”). So also Renou (“un corps-de-louange, chose belle à voir”). Note also the synesthesia, with the praise-song something to be seen, not heard. This usage somewhat anticipates the later Vedic notion that ṛṣis “see” divinely bestowed sāmans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help, thou who knowest lauds, this work, this eulogy to Rudra, him  
      Adorable in every house.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Garabodha 1! Accomplish this (task) for every house 2: a beautiful song of praise for worshipful Rudra 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Frühwacher, bring das zustande: ein schönes Loblied auf Rudra, der für jeden Clan verehrungswürdig ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sangkundiger, so stimme an, dem glänzenden, der jedem Stamm Zu ehren ist, ein schönes Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О бодрствующий при пробуждении (Агни), сложи это:  
 Восхваление, прекрасное на вид, для блистающего (Агни),  

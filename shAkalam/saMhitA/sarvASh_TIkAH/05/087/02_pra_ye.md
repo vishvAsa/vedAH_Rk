@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ जाता꣡ महिना꣡ ये꣡ च नु꣡ स्वय꣡म्  
 प्र꣡ विद्म꣡ना ब्रुव꣡त एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 अ꣡धृष्टासो न꣡ अ꣡द्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 क्रत्वा॑ । तत् । वः॒ । म॒रु॒तः॒ । न । आ॒ऽधृषे॑ । शवः॑ । दा॒ना । म॒ह्ना । तत् । ए॒षा॒म् । अधृ॑ष्टासः । न । अद्र॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -162,14 +162,14 @@ genre M
 **ये** **महिना** महता विष्णुना इन्द्रेण वा सह **प्र** **जाताः** प्रादुर्भूतास्तान् ब्रुवते । **ये** **च** **नु** क्षिप्रं **स्वयम्** एव **विद्मना** यज्ञगमनविषयज्ञानेन सह **प्र** जाताः प्रादुर्भूतास्तान् मरुतः **एवयामरुत्** **ब्रुवते** स्तौति ॥ प्रेत्ययमाख्यातेन वा संबन्धनीयः । ब्रुवते इति व्यत्ययेन बहुवचनम् । एकवचने वा छान्दसः शः । निघाताभावश्छान्दसः ॥ अथ प्रत्यक्षवादः । हे **मरुतः** **वः** युष्माकं **तत्** प्रसिद्धं **शवः** बलं **क्रत्वा** चालनादिरूपेण कर्मणा युक्तं **न** **आधृषे** कैश्चिदपि आधर्षणीयं न भवति । अन्येषामसुरादीनां क्रत्वा कर्मणा वा अनभिभाव्यं भवति ॥ कृत्यार्थे केन् ॥ किंच **एषां** वः **तत्** बलं **दाना** अभिमतदानेन **मह्ना** महत्त्वेन च उपेतम् । यूयं प्रबलाः। **अधृष्टासः** अधर्षणीयाः । तत्र दृष्टान्तः। **अद्रयः** **न**। ते यथा अधृष्यास्तद्वत् यूयमपि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Evayāmarut glorifies those who are manifested with the great (**Indra**), who appear spontaneously and speedily with the knowledge (that the sacrifice is prepared); your strength in action, **Maruts**, is not to be resisted, (though qualified) by (your) infinite liberality; you are immoveable as mountains.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who—(both) those produced by might and those self(-produced)— proclaim (their strength) with their know-how—Maruts on  
 the march—  
@@ -177,7 +177,7 @@ with regard to your will—its strength, o Maruts, is not to be assailed; with r
 unassailable mountains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is quite loosely constructed. To begin with, the rel. cl. of ab has no obvious main clause, though the two yé’s do, of course, refer to the Maruts, who show up in the voc. in c. The rel. cl. could also hang off vs. 1, with pl. yé picking up the collective sg. śárdha- in 1cde.
 
@@ -194,23 +194,23 @@ as parallel: “Der Sinn ist jedenfalls, dass keiner wagt, es ihnen an Umsicht, 
 It’s also worth noting that pādas c and d both contain ná in sandhi with a following vowel in quite similar phonological sequences: nā́dhṛ́ṣe … nā́drayaḥ. The first ná is the negative (matched by a- in ádhṛṣṭāsaḥ in the next pāda); the 2nd is the simile marker.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who with might were manifest, and who willingly by their own knowledge told it forth, Evayamarut.  
      Maruts, this strength of yours no wisdom comprehendeth: through their gifts' greatness they are moveless as the mountains.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die groß geboren sind und die von selbst mit Bewußtsein sich künden - Vishnu ist der, mit dem die Marut gern kommen. Diese eure Macht ist nicht durch Einsicht zu erzwingen, ihr Marut; an Freigebigkeit und Größe ist diese ihre Macht unerzwinglich wie die Berge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die geboren sind in Herrlichkeit und die nun selbst durch Weisheit sich kundgeben Evajämarut ; durch Kraft kann man sich nicht an eure Macht heranwagen; durch Freigiebigkeit und Grösse ist diese ihre Macht [ausgezeichnet?] unbezwinglich, wie Felsen sind sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те, что рождены мощью и что сами  
 Сознательно провозглашают (это) – (и Вишну) вместе с быстродвижущимися Марутами...  

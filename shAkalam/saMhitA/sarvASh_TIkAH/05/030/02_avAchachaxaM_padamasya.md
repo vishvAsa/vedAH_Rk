@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वाचचक्षम् पद꣡म् अस्य सस्व꣡र्  
 उग्रं꣡ निधातु꣡र् अ꣡नु आयम् इछ꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रं न꣡रो बुबुधाना꣡ अशेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अपृ॑च्छम् । अ॒न्यान् । उ॒त । ते । मे॒ । आ॒हुः॒ । इन्द्र॑म् । नरः॑ । बु॒बु॒धा॒नाः । अ॒शे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avācacakṣam* ← *avacakṣ* ← *√cakṣ*
 - \[verb\], singular, Plusquamperfect
@@ -127,20 +127,20 @@ genre M
 **अस्य** इन्द्रस्य **पदं** स्थानम् **अवाचचक्षम्** अहमवाद्राक्षम् । कीदृशम् । **सस्वः** अन्तर्हितम् । **उग्रम्** उद्गूर्णम् । किंच **इच्छन्** इन्द्रमन्विच्छन्नहं **निधातुः** स्वं स्थापयितुः अस्य इन्द्रस्य पदम् **अन्वायम्** अन्वगमम् । **अन्यान्** **उत** अन्यान् विदुषोऽपि मार्गे इन्द्रम् **अपृच्छं** पृष्टवानस्मि । पृष्टाः **ते** **मे** मह्यम् **इन्द्रम्** **आहुः** । किमाहुरित्युच्यते । **नरः** यज्ञानां नेतारः **बुबुधानाः** बुभुत्समाना वयम् **अशेम** इन्द्रं प्राप्तवन्तः स्मः । यद्यपीन्द्रो विद्यते तथापि दुर्लभश्चेदनुपगन्तव्यः इति बुभुत्समानः स्वभावमपृच्छत् पृष्टैश्च सुलभः इत्युक्त इन्द्रप्राप्त्यर्थं सूक्तशेषमपश्यदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have looked down upon the secret and fearful plural ce of his abiding; I have repaired, desiring him, (to the plural ce of) the self-sustainer; I have inquired (of him) from others; they, the leaders (of rites), the search after wisdom, have said to me, let us have recourse to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I spotted his track in secret; I followed the powerful track of the one who  laid it down, seeking him.  
 I asked the others, and they said to me, “We men might attain Indra,  since we have wakened (early).”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Witzel Gotō take sasvár as ‘in sleep’, against the standard interpr. ‘in secret’, arguing that the latter does not make sense with bubudhānā́ḥ in d. But pāda d is not directly associated with pāda a, which, with b, compares the poet’s pursuit of Indra to the stealthy tracking behavior of a hunter. Moreover, the other three exx. of sasvár(tā) (in a tight knot in VII.58.5, 59.7, 60.10) clearly mean ‘in secret’, as opposed to ‘in the open’ (cf. the contrast in VII.58.5 with āvír ‘openly’). It is true that the standard etymology of sasvár takes it from √sas ‘sleep’ (see EWA s.v. SAS), but the semantic development to ‘in secret’ isn’t difficult to imagine -- esp. if Skt. √sas, which violates standard root structure constraints, was onomatopoetic for the shushing/hushing verbal gesture (English “shh,” etc.). From “keep quiet” to “keep secret” is a short step. Although √sas is clearly an inherited root, with cognates in Avestan and Anatolian, the onomatopoetic interpr. could be regularly (re-)actualized by association with the (near-universal?) living “shh” interjection.
 
@@ -159,23 +159,23 @@ Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have beheld his strong and secret dwelling, longing have sought the Founder's habitation.  
      I asked of others, and they said in answer, May we, awakened men, attain to Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich hatte seine Fährte heimlich erspäht; ich folgte suchend der gewaltigen Fährte des, der sie hinterläßt. Ich fragte andere, und die sagten mir, wir könnten den Indra antreffen, wenn wir früh wach sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sah den Schritt des Schatzbewahrers heimlich, und folgte seinem mächt'gen Schritt begierig; Ich fragte andre, und die sagten dies mir: »Aufmerkend werden Indra wir erreichen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Втайне я разглядел его след.  
 Я, ищущий, пошел по грозному (следу) того, кто его оставил.  

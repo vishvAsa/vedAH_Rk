@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दूरं꣡ कि꣡ल प्रथमा꣡ जग्मुर् आसाम्  
 इ꣡न्द्रस्य याः꣡ प्रसवे꣡ सस्रु꣡र् आ꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡पो म꣡ध्यं कु꣡व वो नून꣡म् अ꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 क्व॑ । स्वि॒त् । अग्र॑म् । क्व॑ । बु॒ध्नः । आ॒सा॒म् । आपः॑ । मध्य॑म् । क्व॑ । वः॒ । नू॒नम् । अन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dūraṃ* ← *dūram*
 - \[adverb\]
@@ -141,36 +141,36 @@ genre M
 **आसाम्** अपां मध्ये **प्रथमाः** प्रथमगामिन्यस्ता आपः **दूरं** **किल** **जग्मुः**। दूरमेव गताः । **याः** **आपः** **इन्द्रस्य** **प्रसवे** प्रेरणे ॥ ‘षू प्रेरणे'। जवसवौ चेति वक्तव्यम्' ( पा. सू. ३. ३. ५६. ४ ) इत्यबपवादेऽच् ।  ‘ थाथघञ्क्ताजबित्रकाणाम्' इत्युत्तरपदान्तोदात्तत्वम् ॥ तस्य आज्ञायां **सस्रुः** सरन्ति । गच्छन्ति खलु। अथ प्रत्यक्षकृतः । हे **आपः** **आसां** युष्माकम् **अग्रं** **क्व** **स्वित्** । कुत्र वर्तते । **बुध्नः** मूलं च **क्व** । तथा **वः** युष्माकं **मध्यं** च **क्व** **नूनम्** इदानीं युष्माकम् **अन्तः** अवसानं च क्व । सर्वगतत्वादनिर्ज्ञायमानगमना आसन्नित्यर्थः ॥ क्व । किंशब्दात् सप्तम्यर्थे ' किमोऽत् ' इत्यत्प्रत्ययः । क्वाति' इति क्वादेशः । तित्स्वरितः । अन्तः । अमेर्गत्यर्थस्य  ‘ असिहसि°' इत्यादिना तन्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The first of those waters, which issued forth at **Indra**'s sending, went very far. Where, waters, is yourbeginning, where your root, where is your centre, where indeed is your termination?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Certainly the first of these females have gone into the distance, the  waters that flowed at the impulsion of Indra.  
 Where is their top, where their bottom? Waters, where is your middle,  where now your end?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far have they gone, the first of all these waters, the waters that flowed forth when Indra sent them.  
      Where is their spring, and where is their foundation? Where now, ye Waters, is your inmost centre?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In die Ferne sind fürwahr die ersten von diesen Gewässern gegangen, die auf Indra´s Geheiß ihren Lauf begannen. Wo ist wohl ihr Anfang, wo ihr Grund? Ihr Gewässer, wo ist eure Mitte, wo jetzt das Ende?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weit sind fürwahr die ersten der Gewässer gegangen, die auf Indra's Antrieb rannen; Wo ist eur Scheitel? Fluten, wo der Boden? wo eure Mitte? und wo ist eur Ende?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко, конечно, ушли те первые из этих вод  
 Которые потекли по побуждению Индры.  

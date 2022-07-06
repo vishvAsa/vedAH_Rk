@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने बा꣡धस्व वि꣡ मृ꣡धो वि꣡ दुर्ग꣡हा  
 अ꣡पा꣡मीवाम् अ꣡प र꣡क्षांसि सेध  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपा꣡म् भूमा꣡नम् उ꣡प नः सृजेह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒स्मात् । स॒मु॒द्रात् । बृ॒ह॒तः । दि॒वः । नः॒ । अ॒पाम् । भू॒मान॑म् । उप॑ । नः॒ । सृ॒ज॒ । इ॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -133,37 +133,37 @@ popular
 हे **अग्ने** **दुर्गहा** दुर्गहाणि दुःखेन गाहितव्यानि शत्रुपुराणि **वि** **बाधस्व** । तथा **अमीवां** रोगम् **अप** सेध । तथा **रक्षांसि** **अप** सेध अपवारय । **अस्मात्** **समुद्रात्** समुद्रवणसाधनात् **बृहतः** महतः **दिवः** द्युलोकादन्तरिक्षाद्वा **अपाम्** उदकानां **भूमानं** बहुभावं वृष्टिसंस्त्यायम् **इह** अस्मिँल्लोके **उप** **सृज** प्रयच्छेत्यर्थः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Demolish, **Agni**, our enemies, demolish their strongholds, drive away disease, drive away therākṣasas from this ocean, from vast heaven send own upon us here abundance of rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, thrust away scorners, away difficult depths; ward off affliction, off  demonic forces.  
 From this sea of lofty heaven for us send an abundance of waters  
 gushing upon us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, drive afar our foes, our troubles chase malady away and wicked demons.  
      From this air-ocean, from the lofty heavens, send down on us a mighty flood of waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Agni, beseitige die Verächter, die schwierigen Wege! Halte die Krankheit fern! Von diesem hohen Meere des Himmels ergieße uns hierher eine Fülle von Wasser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerstreue, Agni, Feinde und Gefahren, die Krankheit tilge, tilge die Gespenster; Dort aus dem Meer des hocherhabnen Himmels ergiesse uns die Fülle der Gewässer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, устрани хулителей (и) опасные пути!  
 Прогони прочь болезнь, прочь ракшасов!  

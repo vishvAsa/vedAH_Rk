@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रे वि꣡श्वानि वीरि꣡या  
 कृता꣡नि क꣡र्तुवानि च  
 य꣡म् अर्का꣡ अध्वरं꣡ विदुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यम् । अ॒र्काः । अ॒ध्व॒रम् । वि॒दुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indre* ← *indra*
 - \[noun\], locative, singular, masculine
@@ -99,41 +99,41 @@ genre M
 अस्मिन् **इन्द्रे** **विश्वानि** सर्वाणि **वीर्या** वीर्याणि सामर्थ्यानि **कृतानि** **कर्त्वानि** **“च** कर्तव्यानि च वर्तन्त इति शेषः । **यम्** इन्द्रम् **अर्काः** स्तोतारः **अध्वरम्** अहिंसकं **विदुः** जानन्ति तस्मिन्निन्द्र इति ॥ ॥ ४२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In that **Indra**, whom the singers know as the unharming, all past and future powers abide.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All heroic deeds, both done and to be done, are in Indra,  
 whom the chants know as the very ceremony itself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I see no reason to attenuate the identification of Indra with the adhvaráthat the grammar seems to demand, by a contrivance like Geldner’s “den die Preislieder als (Gegenstand) des Gottesdienstes kennen.” See I.178.4, where Indra is identified with “the laud of the sacrificer” (yájamānasya śáṃsaḥ), and the immediately following verse (63.7d), where he is identified with peaceful dwelling (kṣáyaḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Indra rest all deeds of might, deeds done and yet to be performed,  
      Whom singers know devoid of guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei Indra sind alle Heldentaten, die getanen und die zu tuenden, den die Preislieder als Gegenstand des Gottesdienstes kennen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Indra ruhn die Thaten all', die noch zu thun sind und gethan, Auf den die Sänger betend schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С Индрой (связаны) все героические подвиги,  
 Совершенные и те, что предстоит совершить,  

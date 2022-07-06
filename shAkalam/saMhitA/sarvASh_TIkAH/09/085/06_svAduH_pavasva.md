@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वादुः꣡ पवस्व दिविया꣡य ज꣡न्मने  
 स्वादु꣡र् इ꣡न्द्राय सुह꣡वीतुनामने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृ꣡हस्प꣡तये म꣡धुमाँ अ꣡दाभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वा॒दुः । मि॒त्राय॑ । वरु॑णाय । वा॒यवे॑ । बृह॒स्पत॑ये । मधु॑ऽमान् । अदा॑भ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
@@ -101,36 +101,36 @@ genre M
 हे सोम **स्वादुः** त्वं **दिव्याय** **जन्मने** देवगणाय **पवस्व** । तथा **सुहवीतुनाम्ने** शोभनाह्वाननामधेयाय **इन्द्राय** **स्वादुः** त्वं पवस्व । **मित्राय** **वरुणाय** **वायवे** **बृहस्पतये** च पवस्व **मधुमान्** मधुररसः **अदाभ्यः** अन्यैरहिंस्यस्त्वम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow sweet for the celestial people, flow sweet for **Indra**, whose name is worthily invoked; sweet for **Mitra**, **Varuṇa**, **Vāyu**, **Bṛhaspati**, you who are the sweet-flavoured, inviolable.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself sweet for the heavenly breed, sweet for Indra whose name  is lovely to call,  
 sweet for Mitra, Varuṇa, Vāyu, Br̥haspati—as the honeyed one not to be  deceived.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward sweet of flavour for the Heavenly Race, for Indra sweet, whose name is easily invoked:  
      Flow sweet for Mitra, Varuna, and Vayu, rich in meath, inviolable for Brhaspati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich schmackhaft für das himmlische Geschlecht, schmackhaft für Indra, dessen Namen man gern anruft, schmackhaft für Mitra, Varuna, Vayu, süß für Brihaspati, unbeirrbar!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle hell und süss dem himmlischen Geschlecht, und süss dem Indra, dessen Namen gern man ruft, Und süss dem Vaju, Mitra und dem Varuna, an Honig reich, untilgbar dem Brihaspati.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вкусным очищайся для небесного рода,  
 Вкусным для Индры, чье имя легко призывать.  

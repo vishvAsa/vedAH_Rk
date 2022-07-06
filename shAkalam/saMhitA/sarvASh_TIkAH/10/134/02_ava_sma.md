@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्म दुर्हणायतो꣡  
 म꣡र्तस्य तनुहि स्थिर꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 भद्रा꣡ ज꣡नित्र्य् अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒धः॒ऽप॒दम् । तम् । ई॒म् । कृ॒धि॒ । यः । अ॒स्मान् । आ॒ऽदिदे॑शति । दे॒वी । जनि॑त्री । अ॒जी॒ज॒न॒त् । भ॒द्रा । जनि॑त्री । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -135,37 +135,37 @@ genre M;; repeated line
 **दुर्हणायतः** दुःखप्रदं हननमाचरतः **मर्तस्य** मनुष्यस्य शत्रोः **स्थिरं** दृढं बलम् **अव** **तनुहि**। अवततं नीचीनं कुरु। **स्म** इति पूरकः । तं शत्रुम् **ईम्** एनम् **अधस्पदं** पादयोरधस्ताद्वर्तमानं **कृधि** कुरु। **यः** शत्रुः अस्मानादिदेशति जिघांसति । समानमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Enfeeble the strength of the malicious man, cast under foot him who tries to kill us; the divineprogenitress has given you birth, the auspicious progenitress has given you birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make slack the taut (bow) of the evilly angry mortal.  
 Set him beneath our feet—whoever will set his sights on us.  
 – The goddess Begetter begat (you), the auspicious Begetter begat (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Relax that mortal's stubborn strength whose heart is bent on wickedness.  
      Trample him down beneath thy feet who watches for and aims at us. The Goddess Mother brought thee forth, the Blessed Mother gave thee life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entspanne den straffen Bogen des hartherzigen Sterblichen! Wirf den unter die Füße, der uns bedroht! - Die göttliche Erzeugerin hat dich erzeugt, die segensreiche Erzeugerin hat dich erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem bösgesinnten Sterblichen spann seines Bogens Sehne ab, Und setze deinen Fuss auf den, der feindlich uns zu schaden sucht; Die Göttin Mutter zeugte dich, die holde Mutter zeugte dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расслабь же тугой (лук)  
 Смертного, замышляющего беду!  

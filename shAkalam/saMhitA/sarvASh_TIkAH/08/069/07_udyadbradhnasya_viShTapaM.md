@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् य꣡द् ब्रध्न꣡स्य विष्ट꣡पं  
 गृह꣡म् इ꣡न्द्रश् च ग꣡न्वहि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त्रिः꣡ सप्त꣡ स꣡खियुः पदे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मध्वः॑ । पी॒त्वा । स॒चे॒व॒हि॒ । त्रिः । स॒प्त । सख्युः॑ । प॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -107,20 +107,20 @@ genre M
 **यत्** यदा **ब्रध्नस्य** **विष्टपं** सूर्यस्य स्थानं **गृहमिन्द्रश्च** अहं चोभौ **उत्** **गन्वहि** उद्गच्छावः तदानीं **मध्वः** मधुरं सोमरसं **पीत्वा** **सचेवहि** संसृष्टौ भवेव । कुत्र । **सख्युः** सर्वेषां सखिभूतस्यादित्यस्य । **त्रिः** **सप्त** इत्यनेन देवलोकानामुत्तममेकविंशं स्थानमुच्यते आदित्यस्यैकविंशत्वात् । तथा च ब्राह्मणं- द्वादश मासाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविंशः ' (ऐ. ब्रा. १. ३०) इति । तादृश एकविंशस्थाने सचेवहीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Indra**, and I ascend to our home, the world of the sun, then, having drunk the sweet (**Soma**), letus be united in the twenty-first sphere of the (universal) friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As we two, Indra and (I), go up to his home along the surface of the  coppery (soma),  
 having drunk of the honey three times, might we two become comrades  at the seven(th) step of the comrade.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another elliptical 1st dual construction; for disc. see VIII.62.11.
 
@@ -129,23 +129,23 @@ Geldner and Hoffmann, inter alia, take bradhnásya viṣṭápam to refer to the
 For the ceremonial aspects of the second hemistich see published introduction. Note that sákhi- is an integral part of the “seventh step” mantra at the wedding ceremony: sakhā saptapadī bhava “Become a comrade of the seventh step” (ŚGS I.14.6, etc.; see Jamison 1996: 121). Contra Hoffmann (1967: 255) I separate tríḥ from saptá, and consider the former to refer to drinking soma at the three pressings (so also Geldner). I also take the cardinal saptá as if it were the ordinal saptátha-. For the corresponding verse, see 16 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I and Indra mount on high up to the Bright One's place and home,  
      We, having drunk of meath, will reach his seat whose Friends are three times seven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich und Indra, wir beide, nach Hause zur Höhe der Sonne hinaufsteigen, so wollen wir vom Met trinkend dreimal in den sieben Schritten des Freundes zusammengehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn zu des lichten Rosses Haus und Stätte Indra geht mit mir, So bleiben nach des Soma Trunk, drei Wochen wir an Freundes Ort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

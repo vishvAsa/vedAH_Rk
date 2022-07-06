@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ह ग꣡र्भं ज꣡गतीषु धत्थो  
 युवं꣡ वि꣡श्वेषु भु꣡वनेषु अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡नस्प꣡तीँर् अश्विनाव् अइ꣡रयेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । अ॒ग्निम् । च॒ । वृ॒ष॒णौ॒ । अ॒पः । च॒ । वन॒स्पती॑न् । अ॒श्वि॒नौ॒ । ऐर॑येथाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -120,36 +120,36 @@ genre M
 हे **अश्विनौ** **युवं** **ह** युवां खलु **जगतीषु** **अन्तः** गमनशीलासु गोषु मध्ये **गर्भं** **धत्थः** धारयथः । न केवलं गोष्वेव अपि तु **युवं** युवां **विश्वेषु** सर्वेषु **भुवनेषु** भूतजातेष्वन्तर्मध्ये गर्भं धत्थः । वृष्टिद्वारा आमिषरूपत्वेन गर्भस्थरेतसः पोषकत्वात् । किंच हे **वृषणौ** कामानां वर्षितारौ **युवं** युवाम् **अग्निं** **च** **अपश्च** **वनस्पतीन्** च **ऐरयेथां** प्रवर्तयेथाम् । आहुतिभोगायाग्निं स्वीकृत्य च वृष्ट्युदकानि उदकैः ओषधिवनस्पत्यादिकम् एतान्यस्मदर्थं प्रैरयेथाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Aśvins**, sustain the germ in all moving creatures; you are in the interior of all beings; do you, showerers of benefits, supply (for our own use) fire and water and the trees of the forest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You place the embryo in the females of moving beings; you place it  within all living things.  
 You, o bulls, have sent fire and water here into the trees, Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye store the germ of life in female creatures, ye lay it up within all living beings.  
      Ye have sent forth, O Asvins passing mighty, the fire, the sovrans of the wood, the waters,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr leget den Keim in die weiblichen Tiere, ihr in alle Wesen. Ihr triebt das Feuer und die Wasser, ihr Bullen, ihr Asvin die Bäume hervor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr legt die Frucht in weibliche Geschöpfe, ihr setztet sie ins Innre aller Wesen; Ihr beiden Stiere triebt hervor das Feuer, o Ritter, ihr die Wasser und die Bäume.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это вы влагаете плод в самок,  
 Вы-во все существа!  

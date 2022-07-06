@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं व꣡र्धन्तो अप्तु꣡रः  
 कृण्व꣡न्तो वि꣡श्वम् आ꣡रियम्  
 अपघ्न꣡न्तो अ꣡रावणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒प॒ऽघ्नन्तः॑ । अरा॑व्णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **इन्द्रं** **वर्धन्तः** वर्धयन्तः **अप्तुरः** उदकस्य प्रेरकाः **विश्वं** सोममस्मदीयकर्मार्थम् **आर्यं** भद्रं **कृण्वन्तः** कुर्वन्तः **अराव्णः** अदातॄन **अपघ्नन्तः** विनाशयन्तः । अभ्यर्षन्तीत्युत्तरया संबन्धः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,13 +91,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Making all our acts prosperous: i.e. making **Soma** propitious for the sake of our rites
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strengthening Indra, crossing the waters, making it all Ārya,  
 smashing away the non-givers,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase kṛṇvánto víśvam ā́ryam “making it all Ārya,” esp. in conjunction with aptúraḥ “crossing the waters,” most likely alludes to the Ārya expansion in their migration into the northern part of the subcontinent, specifically to crossing frontier rivers and laying claim to the land on the other side. This territorial expansion is implicitly compared here to Soma’s ritual journey. Since, as Geldner notes (n. 5b), the Soma cult is specifically Ārya, importing this practice into new lands would be a key part of the process of Arya-ization.
 
@@ -111,23 +111,23 @@ Thematically somewhat unified by the journey theme.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Performing every noble work, active, augmenting Indra's strength,  
      Driving away the godless ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra stärkend, das Wasser überwindend, alles arisch machend, die Mißgünstigen vertreibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra stärkend, rasch im Werk, verschaffend, was der Arjer wünscht, Verjagend die gehässigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

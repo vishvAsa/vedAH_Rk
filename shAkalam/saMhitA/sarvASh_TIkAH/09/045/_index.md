@@ -8,7 +8,7 @@ title = "+045"
 ‘स पवस्व' इति षडृचमेकविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘स पवस्व ' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 45 (757)  
 Soma Pavamāna  

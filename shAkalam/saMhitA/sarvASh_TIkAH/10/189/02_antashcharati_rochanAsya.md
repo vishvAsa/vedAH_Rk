@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡श् चरति रोचना꣡  
 अस्य꣡ प्राणा꣡द् अपानती꣡  
 वि꣡ अख्यन् महिषो꣡ दि꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 वि । अ॒ख्य॒त् । म॒हि॒षः । दिव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antaś* ← *antar*
 - \[adverb\]
@@ -81,7 +81,7 @@ popular
 अस्य सूर्यस्य **रोचना** रोचमाना दीप्तिः **अन्तः** शरीरमध्ये मुख्यप्राणात्मना **चरति** वर्तते । किं कुर्वती । **प्राणादपानती**। मुख्यप्राणस्य प्राणाद्याः पञ्च वृत्तयः । तत्र प्राणनं नाडीभिरूर्ध्वं वायोर्निर्गमनम् । तथाविधात् प्राणात् प्राणनादनन्तरमपानती । अपाननं नाडीभिरवाङ्मुखं वायोर्नथनम् । तत्कुर्वती ॥ अपपूर्वादनितेर्लटः शतृ । अदादित्वाच्छपो लुक् ।' उगितश्च ' इति ङीप् । ‘शतुरनुमः इति नद्या उदात्तत्वम् ॥ यद्वा । अन्तर्द्यावापृथिव्योर्मध्ये अस्य सूर्यस्य रोचना रोचमाना दीप्तिः चरति गच्छति ॥ ‘ रुच दीप्तौ । ‘ अनुदात्तेतश्च हलादेः' ( पा. सू. ३. २. १४९ ) इति युच् ॥ किं कुर्वती । प्राणात्प्राणनादुदयानन्तरमपानती सायंसमयेऽस्तं गच्छन्ती । ईदृश्या दीप्त्या युक्तः । अत एव **महिषः** महान् सूर्यो **दिवम्** अन्तरिक्षमुदयास्तमययोर्मध्ये **व्यख्यत्** विचष्टे । प्रकाशयति ॥ महेः ‘अविमह्योष्टिषच् ' ( उ. सू. १. ४६ ) इत्यौणादिकष्टिषच्प्रत्ययः । चक्षिङः ख्याञ् । छान्दसे लुङि ‘ श्रस्यतिवक्ति' इत्यादिना च्लेरङादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,30 +94,30 @@ After having sent it up: i.e., setting after having risen; the mighty one: the s
 **Mahiṣaḥ** = mighty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She moves within the realms of light, breathing in from his  
 breathing-out.  
 The buffalo has looked out across heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Expiring when he draws his breath, she moves along the lucid spheres:  
      The Bull shines out through all the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die leuchtende Usas geht zwischen Himmel und Erde, von seinem Aushauch einatmend. Der Büffel hat nach dem Himmel Ausblick gehalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Loblied dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она движется между светлыми пространствами,  
 Вдыхая (жизнь) из его выдоха.  

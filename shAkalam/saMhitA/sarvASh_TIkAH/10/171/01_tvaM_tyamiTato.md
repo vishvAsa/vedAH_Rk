@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त्य꣡म् इट꣡तो र꣡थम्  
 इ꣡न्द्र प्रा꣡वः सुता꣡वतः  
 अ꣡शृणोः सोमि꣡नो ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अशृ॑णोः । सो॒मिन॑ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -78,36 +78,36 @@ genre M
 हे **इन्द्र** **सुतावतः** सुतेनाभिषुतेन सोमेन युक्तस्य **इटतः** इटस्य । ‘सुपां सुलुक्' इति ङसस्तस् । एतत्संज्ञस्यर्षेः त्यं तं प्रसिद्धं रथं **प्रावः** प्रारक्षः । सोमिनः सोमयुक्तस्य मम हवम् आह्वानम् **अशृणोः** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have protected, **Indra**, this chariot of Iḷā, who offered libations; hear the invocation of thepresenter of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra—you furthered this chariot of Iṭat the presser.  
 You heard the call of the one who has soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR Ita's sake who pressed the juice, thou, Indra, didst protect his car,  
      And hear the Soma-giver's call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Indra halfst jenem Wagen des Itat vorwärts, der Soma ausgepreßt hatte; du erhörtest den Ruf des Somaspenders.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom saftbegabten Schilfteich her o Indra, kamst gefahren du, Vernahmst des Somapressers Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, помог (промчаться) вперед той самой  
 Колеснице Итата, выжимавшего сому,  

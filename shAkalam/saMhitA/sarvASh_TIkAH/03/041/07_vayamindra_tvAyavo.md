@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् इन्द्र तुवाय꣡वो  
 हवि꣡ष्मन्तो जरामहे  
 उत꣡ त्व꣡म् अस्मयु꣡र् वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 उ॒त । त्वम् । अ॒स्म॒ऽयुः । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -74,7 +74,7 @@ genre M
 हे **इन्द्र** **त्वायवः** यज्ञार्थं त्वामात्मन इच्छन्तस्त्वत्कामाः सन्तः **हविष्मन्तः** संभृतहविष्काः **वयं** **जरामहे** त्वां स्तुमः । हे **वसो** सर्वस्य वासक इन्द्र **उत** **त्वम्** अपि **अस्मयुः** हविःस्वीकरणर्थम् अस्मानात्मन इच्छन् भव ॥ त्वायवः । त्वामिच्छन्तीत्यर्थे  सुप आत्मनः क्यच् '। ' प्रत्ययोत्तरपदयोश्च' इति मपर्यन्तस्य त्वादेशः । ‘क्याच्छन्दसि इत्युप्रत्ययः । त्वद्यव इति प्राप्तौ ' युष्मदस्मदोरनादेशे' इत्यविभक्तावपि हलादौ व्यत्ययेनात्वम् । प्रत्ययस्वरः । हविष्मन्तः । ‘तसौ मत्वर्थे ' इति भसंज्ञायां सकारस्य रुत्वाभावः । ‘स्वरविधौ व्यञ्जनमविद्यमानवत्' इति परिभाषानाश्रयणात् मतुप उदात्तताभावः । इसिप्रत्ययस्वरः । जरामहे । ‘जरतिः स्तुतिकर्मा ' इति यारकः । अस्मयुः । अरमानिच्छतीत्यर्थे सुपः क्यच् । तस्मादु प्रत्ययः । पूर्वपदान्तलोपश्छन्दसः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,34 +85,34 @@ genre M
 Devoted to you: tvāyavaḥ = from tvam, you with **kyac** (**supa** ātmanaḥ kyac), converting it to tvāyu; so, presently, asmayuḥ, devoted or inclined to us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Offering our oblations, we sing, seeking you, o Indra,  
 and you are seeking us, you good one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 1st pl. them. jarāmahe is perfectly ambiguous between ‘(be) awake’ and ‘sing’, and all other tr. assign it to ‘awake’ -- incl. Witzel Gotō, though Gotō (1st class, 154) assigns it with certainty to ‘sing’. I have also tr. as ‘sing’, though nothing is at stake between the two renderings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We, Indra, dearly loving thee, bearing oblation, sing thee hymns  
      Thou, Vasu, dearly lovest us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind wach, o Indra, mit Opferspenden dir zugetan und du bist uns zugetan, o Guter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir, die dich lieben, nahen dir, o Indra, jetzt mit Opferguss; Auch du, o Guter, liebst ja uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы, о Индра, преданные тебе,  
 Бодрствуем с жертвенными возлияниями.  

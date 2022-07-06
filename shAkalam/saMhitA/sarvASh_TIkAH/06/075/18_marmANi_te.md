@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡र्माणि ते व꣡र्मणा छादयामि  
 सो꣡मस् त्वा रा꣡जामृ꣡तेना꣡नु वस्ताम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡यन्तं त्वा अ꣡नु देवा꣡ मदन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒रोः । वरी॑यः । वरु॑णः । ते॒ । कृ॒णो॒तु॒ । जय॑न्तम् । त्वा॒ । अनु॑ । दे॒वाः । म॒द॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *marmāṇi* ← *marman*
 - \[noun\], accusative, plural, neuter
@@ -133,7 +133,7 @@ popular
 हे राजन् **ते** त्वदीयानि **मर्माणि** । येषु स्थानेषु विद्धः सद्यो म्रियते तानि मर्माणि । **वर्मणा** कवचेन **छादयामि** । **सोमः** **राजा** **त्वा** त्वाम् **अनु** मर्मच्छादनानन्तरम् **अमृतेन** **वस्ताम्** आच्छादयतु । किंच **वरुणः** अपि **ते** तुभ्यम् **उरोर्वरीयः** उरुतरं सुखं **कृणोतु** करोतु । **जयन्तं** **त्वा** त्वां **देवाः** सर्वेऽपि **अनु** **मदन्तु** अनुहृष्यन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ popular
 May Varuṇa amplify: uror varīyo **varuṇas** te kṛṇotu, may Varuṇa make the increase of the large; that is, sukham, happiness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your vulnerable places I cover with armor; let Soma the king clothe you  with immortality.  
 Let Varuṇa make (a space) wider than wide for you; let the gods cheer  you on as you win.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the near-rhyming forms mármāṇi .. vármaṇā, echoed in c by várīyo váruṇaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy vital parts I cover with thine Armour: with immortality King Soma clothe thee.  
      Varuna give tliee what is more than ample, and in thy triumph may the Gods be joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine edlen Teile bedecke ich mit dem Panzer, König Soma soll dich mit seinem Lebensbalsam decken. Varuna soll dir recht weiten Raum schaffen. Als dem Sieger sollen dir die Götter zujubeln!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich decke dir die Glieder mit dem Panzer, mit Unsterblichkeit bekleide dich König Soma; dir schaffe Varuna überaus weiten Raum, dir, als dem Sieger, mögen die Götter zujauchzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уязвимые места твои я прикрываю щитом.  
 Сома-царь пусть оденет тебя в силу жизни!  

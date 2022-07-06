@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि प्रियः꣡ कल꣡शे देव꣡वात  
 इ꣡न्द्राय सो꣡मो र꣡णियो म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वाजी꣡ न꣡ स꣡प्तिः स꣡मना जिगाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽधारः । श॒तऽवा॑जः । इन्दुः॑ । वा॒जी । न । सप्तिः॑ । सम॑ना । जि॒गा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -122,21 +122,21 @@ genre M
 **प्रियः** प्रीणयिता अत एव **देववातः** देवैरभिगतः **रण्यः** रमणीयः **सोमः** **इन्द्राय** इन्द्रस्य **मदाय** मदार्थं **कलशे** द्रोणाभिधाने **परि** **जिगाति** परिगच्छति । कीदृशः । **सहस्रधारः** बहुविधधारोपेतः **शतवाजः** बहुबलः **इन्दुः** पात्रेषु क्षरन् । तत्र दृष्टान्तः । **वाजी** **न** यथा वाजी बलवान् **सप्तिः** अश्वः **समना** । संग्रामनामैतत् । ‘सम ष्टम अवैक्लव्ये '। समन्ति धृष्टा भवन्ति योद्धारोऽत्रेति । तस्मिन् संग्रामे यथाश्वः जिगाति गच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The plural asing delightful **Soma** approached by gods (proceeds) to the pitcher to exhilarate **Indra**; **Indu** the thousand-streamed and vigorous proceeds like a strong horse to battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dear Soma, sought by the gods, (goes) around in the tub, the  enjoyable one for Indra’s exhilaration.  
 The drop of a thousand streams, a hundred prizes, goes like a  
 prizewinning team to the concourses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to its echoing ávāta- in 8, devávāte is reminiscent of devátāte in 3a.
 
@@ -153,23 +153,23 @@ Although these two vss. belong to two different hymns within the larger structur
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear, grateful to the Gods, on to the beaker moves Soma, sweet to Indra, to delight him.  
      With hundred powers, with thousand currents, Indu, like a strong car-horse, goes to the assembly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der beliebte, gottbegehrte, erfreuende Soma kreist für Indra zum Rausche in dem Kruge. Der Saft zieht in tausend Strahlen, hundert Siegerpreise gewinnend, wie ein sieggewinnendes Gespann in die Schlachten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es geht der liebe, gottbegehrte Soma zum Rausch dem Indra freudenreich ins Trinkfass; Mit tausend Strömen, hundert Speisen eilet gleich schnellem Rosse Indu auf den Kampfplatz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приятный, желанный богам сома, приносящий радость,  
 (Мчится) кругами в кувшине для опьянения Индры.  

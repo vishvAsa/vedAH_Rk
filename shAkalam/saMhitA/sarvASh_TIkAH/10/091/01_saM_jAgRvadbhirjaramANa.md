@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ जागृव꣡द्भिर् ज꣡रमाण इध्यते  
 द꣡मे द꣡मूना इष꣡यन्न् इळ꣡स् पदे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 विभु꣡र् विभा꣡वा सुष꣡खा सखीयते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्व॑स्य । होता॑ । ह॒विषः॑ । वरे॑ण्यः । वि॒ऽभुः । वि॒भाऽवा॑ । सु॒ऽसखा॑ । स॒खि॒ऽय॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 हे अग्ने **जागृवद्भिः** जागरणशीलैः स्तोतृभिः **जरमाणः** स्तूयमानः **दमूनाः** दममना दानमना दान्तमना वा **इळः** इळायाः **पदे** स्थाने उत्तरवेद्याम् **इषयन्** अन्नमिच्छन् **विश्वस्य** सर्वस्य **हविषः** **होता** **वरेण्यः** वरणीयः **विभुः** व्याप्तः **विभावा** दीप्तिमान् **सुषखा** शोभनसखा भवान् **सखीयते** सखित्वमिच्छते यजमानाय **सम्** **इध्यते** सम्यग्दीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 10.091.01 Damūnas, being glorified by his diligent (worshippers), desiring food upon the footmark of Iḷā, iskindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, theresplendent, to him who desires his friendship.
@@ -126,30 +126,30 @@ genre M
 Damūnas: an epithet of **Agni**; genitive rous or submissive
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Awakening, he is kindled by the wakeful ones, the household master in  the house, becoming refreshed in the footprint of refreshment,  
 the Hotar of every oblation, worthy to be chosen, far-ranging,  
 far-radiant, a good comrade to one who acts as comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRISK, at the place of Ila, hymned by men who wake, our own familiar Friend is kindled in the house;  
      Hotar of all oblation, worthy of our choice, Lord, beaming, trusty friend to one who loveth him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Frühwachen wird der Erwachende gemeinsam entzündet im Hause der Hausgebieter an der Stätte der Id Labung, die Opferspende genießend, der zu erwählende Opferpriester jeglichen Opfers, machtvoll, erstrahlend, ein guter Freund dem, der wie ein guter Freund handelt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet wird von wachenden der rauschende, im Haus der rege Hausfreund an der Andacht Ort Der Opferer jedweden Tranks, der liebliche, der kräftig strahlt, ein lieber Freund dem, der ihn liebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробуждаясь, он зажигается теми, кто (уже) пробудился,  
 Домашний (бог) в доме, набирающий сил на месте Иды,  

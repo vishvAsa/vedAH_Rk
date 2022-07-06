@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जा समुद्रं꣡ नदि꣡यो वि꣡ गाहते  
 अपा꣡म् ऊर्मिं꣡ सचते सि꣡न्धुषु श्रितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ना꣡भा पृथिव्या꣡ धरु꣡णो महो꣡ दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अधि॑ । अ॒स्था॒त् । सानु॑ । पव॑मानः । अ॒व्यय॑म् । नाभा॑ । पृ॒थि॒व्याः । ध॒रुणः॑ । म॒हः । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M;; repeated line
 अयं सोमः **राजा** **समुद्रम्** अन्तरिक्षं **नद्यः** तत्रत्या अपश्च **वि** **गाहते** । विगाह्य च **अपामूर्मिं** **सचते** उदकपूरं स्रवति । **सिन्धुषु** उदकेषु ग्रहेषु वा **श्रितः** सन् । हूयमानः सन् रश्मिद्वारा सूर्यं प्राप्य अन्तरिक्षे मेघेषु वर्तत इत्यर्थः । अस्यैव वृष्टिसाधनत्वात् । यद्वा । लुप्तोपममेतत् । समुद्रं नद्य इव सिन्धुषु वसतीवरीषु श्रित आश्रितः सन् समुद्रम् अभिषुतसोमरसाधारपात्रं वि गाहते अभिषवात्पूर्वम् । पश्चात् **पवमानः** पूयमानः **अव्ययं** **सानु** समुच्छ्रितं दशापवित्रम् **अध्यस्थात्** अधितिष्ठति । कुत्र देशे। **नाभा** **पृथिव्याः** नाभिस्थानीये यज्ञे। तत्संबन्धिनि हविर्धान इत्यर्थः । ‘ यज्ञमाहुर्भुवनस्य नाभिम् ' (तै. सं. ७.४.१८.२ ) इति श्रुतेः । कीदृशः । **महो** **दिवः** द्युलोकस्य **धरुणः** धर्ता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M;; repeated line
 Navel of the earth: yajñamāhu bhuvanasya nābhim: **Taittirīya** **Saṃhitā** 7.4.18.2; associate with the wave of the waters: to indicate the effect of the Soma in producing rain by combining in the clouds with the solar rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king plunges through the sea, the rivers. Fixed in the streams he  accompanies the wave of waters.  
 The self-purifying one has mounted upon the sheep’s back, on the navel  of the earth, as buttress of great heaven.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sovran dips him in the seain and the streams, and set in rivers with the waters' wave moves on.  
      High heaven's Sustainer at the central point of earth, raised on the fleecy surface Pavamana stands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König taucht in das Meer ein, in die Flüsse; er folgt der Wasserwelle, in den Strömen versteckt. Sich läuternd hat er den Rücken der Schafwolle erstiegen, im Nabel der Erde, der Träger des großen Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der König taucht sich in die Ströme, in das Meer, in Flüssen schwimmend geht er mit der Wasser Flut; Jetzt stieg er rieselnd auf der Wolle Rücken hin, des hohen Himmels Träger auf der Erde Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

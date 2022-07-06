@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुना꣡ति ते परिस्रु꣡तं  
 सो꣡मं सू꣡र्यस्य दुहिता꣡  
 वा꣡रेण श꣡श्वता त꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वारे॑ण । शश्व॑ता । तना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāti* ← *pū*
 - \[verb\], singular, Present indikative
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव **परिस्रुतं** क्षरन्तं **सोमं** सोमरसं **सूर्यस्य** **दुहिता** श्रद्धा देवी **वारेण** वालेन **शश्वता** शाश्वतेन **तना** विस्तृतेन **पुनाति** । तथा च वाजसनेयिन आमनन्ति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ The daughter of the Sun: **śraddhā** = faith;
 Vājasneyi: 'Verily śraddhā is the daughter of the Sun, she purifies him'. The hair-sieve used for straining the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Daughter of the Sun purifies your circling soma  
 with the fleece-filter in unfailing measure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, the standard clichéś of the soma maṇḍala gave way here to more novel material. The involvement of the Daughter of the Sun as purifier of soma is puzzling. Geldner suggests (n. 6b) that the Daughter of the Sun, also found in this maṇḍala at IX.72.3, 113.3, is the “Dicht- oder Gesangeskunst,” on what seem to me slender grounds (mostly III.53.15, which is not at all clear). Oberlies’s notion (Relig. RV I.241, 282; II.60) that this locution indicates that Soma comes from heaven to earth at dawn is more plausible
 
@@ -105,23 +105,23 @@ Uṣas, Dawn. I would rather suggest that the presence of this figure in this vs
 The referent of te has occasioned some discussion. In this hymn the 2nd ps. referent is otherwise always soma, but the acc. sómam already appears in the vs. as obj. of punā́ti. The solution adopted by most (see Oldenberg’s disc.), which I also subscribe to, is that te does refer to soma, but to Soma the god, distinguishing him from soma the liquid, the ritual substance represented by the acc. sómam. Geldner (n. 6) cites other possibilities that have been suggested -- the ritual patron or Indra -- though he himself accepts the Soma the god hypothesis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By means of this eternal fleece may Surya's Daughter purify  
      Thy Soma that is foaming forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Tochter des Surya klärt deinen Soma, der durch die Haarseihe in vollständigem Durchlauf abfließt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sonne Tochter reinigt dir den Soma, der in stetem Lauf Hin durch des Widders Wolle strömt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дочь Сурьи очищает  
 Твоего сому, растекающегося  

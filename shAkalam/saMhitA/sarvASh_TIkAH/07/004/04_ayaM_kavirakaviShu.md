@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ कवि꣡र् अ꣡कविषु प्र꣡चेता  
 म꣡र्तेषु अग्नि꣡र् अमृ꣡तो नि꣡ धायि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡दा तुवे꣡ सुम꣡नसः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । मा । नः॒ । अत्र॑ । जु॒हु॒रः॒ । स॒ह॒स्वः॒ । सदा॑ । त्वे इति॑ । सु॒ऽमन॑सः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -123,36 +123,36 @@ genre M
 **कविः** क्रान्तदृक् **प्रचेताः** प्रकाशकः **अमृतः** मरणधर्मरहितः **अयम्** **अग्निः** **अकविषु** अक्रान्तदृक्षु **मर्तेषु** मरणधर्मकेषु **नि** **धायि** निहितः। अथ प्रत्यक्षस्तुतिः । **सहस्वः** बलवन्नग्ने **त्वे** यस्मिन् त्वयि **सदा** वयं **सुमनसः** सुमतयः **स्याम** **सः** त्वम् **अत्र** अस्मिन् लोके **नः** अस्मान् **मा** **जुहुरः** मा हिंसीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This far-seeing, sagacious, immortal **Agni**, has been stationed among short-sighted mortals; harm usnot, vigorous Agni, in this world, that we may ever be devoted to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here the prescient poet has been installed among non-poets, immortal  Agni among mortals.  
 Do not become angry with us here, o strong one. We would ever have  good thoughts in your company.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-seeing hath this Agni been established, deathless mid mortals, wise among the foolish.  
      Here, O victorious God, forbear to harm us: may weforever share thy gracious favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er wurde als der Weise unter die Unweisen der kluge, unsterbliche Agni unter die Sterblichen gesetzt. Führe du uns dabei nicht auf Abwege, du Gewaltiger! Immer möchten wir bei dir guten Mutes sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er liess sich nieder, bei unweisen weise, bei sterblichen unsterblich, achtsam Agni; Du mögest nicht uns schäd'gen hier, o starker; wir möchten stets in deiner Gunst verbleiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он водворился как поэт среди не-поэтов, (этот) прозорливец.  
 Агни, как бессмертный среди смертных.  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् च गो꣡षु दुष्व꣡प्नियं  
 य꣡च् चास्मे꣡ दुहितर् दिवः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 त्रि॒ताय॑ । तत् । वि॒भा॒ऽव॒रि॒ । आ॒प्त्याय॑ । परा॑ । व॒ह॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yac* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -137,7 +137,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **दिवः** **दुहितः** उषः उषोदेवते **यच्च** गोषु अस्मदीयासु **दुष्वप्न्यम्** अनर्थसूचकं दृष्टम् । स्वार्थिको यत् । किंच **यच्च** दुष्वप्न्यम् **अस्मे** अस्मासु दृष्टम् । गोपीइानिमित्तकमस्माकं पीडानिमित्तकं च यद्दुःस्वप्नं पश्याम इत्यर्थः । तत् सर्वं हे **विभावरि** । उषोनामैतत् । हे व्युच्छनवति देवि **आप्त्याय** **त्रिताय** **परा** **वह** दूरे परिहर ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ popular;; epic anuṣṭubh (525);; repeated line
 Far from Trita Āptya: trita-yaāptyāya: keep it far away for Trita Āptya; Ṛcas 14 and 15 are used in **Āśvalāyana**'s Gṛhy **Sūtras** to berecited after an unpleasant dream
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bad dream in the cattle and the one in us, o Daughter of Heaven— carry it away to Trita Āptya, o far-radiant one.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Daughter of Heaven, the dream that bodes evil to us or to our kine,  
      Remove, O Lady of the Light, to Trita Aptya far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welch böser Traum die Kühe und welcher uns selbst betrifft, o Tochter des Himmels, den bringe, du Erstrahlender, zu Trita Aptya fort! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch böser Traum die Kühe schreckt, o Sonnentochter, oder uns den fahr hinweg, o glänzende, dort fern zu Trita Aptia.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) дурной сон, который у коров,  
 И который у нас, о дочь неба,  

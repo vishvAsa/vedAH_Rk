@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अस्येद꣡म् पश्यता भू꣡रि पुष्टं꣡  
 श्र꣡द् इ꣡न्द्रस्य धत्तन वीरि꣡याय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ ओ꣡षधीः सो꣡ अपः꣡ स꣡ व꣡नानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । गाः । अ॒वि॒न्द॒त् । सः । अ॒वि॒न्द॒त् । अश्वा॑न् । सः । ओष॑धीः । सः । अ॒पः । सः । वना॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -146,36 +146,36 @@ genre M
 हे ऋत्विग्यजमानलक्षणा जनाः **अस्य** **इन्द्रस्य** **तत्** इदं वीर्यं **पुष्टं** प्रवृद्धम् । अत एव **भूरि** विस्तीर्णं **पश्यत** आलोकयत । तस्मै च **वीर्याय** **श्रत** **धत्तन** बहुमानं कुरुत । किं पुनस्तद्वीर्यमिति चेत् उच्यते । **सः** इन्द्रः पणिभिरपहृता: **गाः** येन वीर्येण **अविन्दत्** अलभत । तथा तैरपहृतान् **अश्वान्** **सः** इन्द्रो येन **अविन्दत्** । अपि च **सः** इन्द्रः **ओषधीः** ओषध्युपलक्षितां सर्वां भूमिं येन वीर्येणालभत । तथा वृत्रेण निरुद्धाः **अपः** वृष्ट्युदकानि **सः** इन्द्रो येनालभत । तथा **वनानि** वननीयानि संभजनीयानि धनानि **सः** इन्द्रो येन वीर्येण प्राप्नोत् ॥ धत्तन ।तप्तनप्तनथनाश्च ' इति तस्य तनादेशः । अविन्दत् । विद्लृ लाभे'। ‘शे मुचादीनाम् ' इति नुम् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Behold this, the vast and extensive (might of **Indra**); have confidence in his prowess; he has recovered the cattle, he has recovered the horses, the plural nts, the waters, the woods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Look here at this abundant success of his; put your trust in the heroism  of Indra.  
 He found the cows; he found the horses; he the plants, he the waters, he  the trees.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 See this abundant wealth that he possesses, and put your trust in Indra's hero vigour.  
      He found the cattle, and he found the horses, he found the plants, the forests and the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sehet diesen seinen reichen Ertrag und glaubt an Indra´s Heldenkraft: Er gewann die Rinder, gewann die Rosse, er die Gewächse, er die Gewässer, er die Bäume.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschauet diese seine grosse Blüte, vertrauet auf des Indra Heldenstärke, Er fand die Kühe und er fand die Rosse, die Kräuter er, die Wasser und die Wälder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взгляните же на этот полный его расцвет!  
 Поверьте в героическую силу Индры!  

@@ -15,7 +15,7 @@ title = "+024"
 इदमादीनि त्रीणि सूक्तानि ब्राह्मणस्पत्यानि । अस्य सूक्तस्य द्वादशी ऐन्द्री इन्द्रदेवत्या । चशब्दात् ब्राह्मणस्पत्या च । सामान्यविनियोगः पूर्वमेवोक्तः । विशेषतस्तु लिङ्गादवगन्तव्यः ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 24 (215)  
 Brhaspati ̥  

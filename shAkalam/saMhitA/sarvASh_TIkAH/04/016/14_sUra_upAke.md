@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡र उपाके꣡ तनु꣡वं द꣡धानो  
 वि꣡ य꣡त् ते चे꣡ति अमृ꣡तस्य व꣡र्पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सिंहो꣡ न꣡ भीम꣡ आ꣡युधानि बि꣡भ्रत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मृ॒गः । न । ह॒स्ती । तवि॑षीम् । उ॒षा॒णः । सिं॒हः । न । भी॒मः । आयु॑धानि । बिभ्र॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 हे इन्द्र **सूरः** प्रेरकस्य सूर्यस्य **उपाके** समीपे **तन्वं** त्वदीयं शरीरं **यत्** यदा **दधानः** धारकोऽभवः तदा **अमृतस्य** मरणरहितस्य **ते** त्वदीयं **वर्पः** रूपं **वि** **चेति** व्यचेति । हे इन्द्र ज्ञातृभिर्विशेषेण अज्ञायत । सूर्यस्य समीपे सर्वाणि रूपाणि मलिनीभवन्ति न तथेन्द्रस्य रूपं किंतु सूर्यस्य समीपे इन्द्रस्य रूपं विशेषेण भासमानं बभूवेत्यर्थः । अपि च हे इन्द्र **हस्ती** **मृगः** **न** गजविशेषो मृग इव **तविषीं** परेषां बलम् **उषाणः** दहन **आयुधानि** वज्रादीनि शस्त्राणि **बिभ्रत्** बिभ्राणस्त्वं **सिंहो** **न** सिंह इव **भीमः** भयंकरोऽभूः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ genre M
 Like the deer-like elephant: mṛgo na **hasti** = **gaja** **viśeṣa**; **mṛga** iva = a sort of elephant like a deer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Placing your body in nearness to the sun, so that the form of you, the  immortal one, could be distinguished,  
 like a wild elephant, clothing yourself in might, and fearsome like a lion  when you bear your weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, pāda b seems to resolve the problem of distinguishing between Indra and Kutsa that arose in 10cd. The same lexeme ví √cit ‘distinguish’ found in 10d recurs here.
 
 The athematic middle participle uṣāṇá- ‘wearing’ here is a hapax stem and is, of course, morphologically anomalous: the full-grade medial root pres. váste is matched by a very well-attested full-grade athem. med. part. vásāna-. We do not expect a zero-grade formation to this root pres. However, our hapax calls to mind the unnamed hero of this portion of the hymn Uśanā (Kāvya), and the nonce creation of participle uṣāná- here (as an echo of uśánā) seems to me a text-book example of morphological aberrancies arising out of contextual pressures -- all the more striking because the word uśánā does not occur in this section of the hymn (but cf. 2c), so the participial echo is echoing something beneath the surface. Witzel Gotō’s characterization of this form as “eine individuelle Fehlbildung des Dichters” itself fails to see the poetic purpose and clever creativity of this form. It is true, however, that it should probably also be evaluated in the context of several other such anomalous participles in this group of Indra hymns, uśámāna- (IV.19.4), uṣámāna- (IV.22.2), and uśāná- (IV.23.1).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time thou settest near the Sun thy body, thy form, Immortal One, is seen expanding:  
      Thou a wild elephant with might invested. like a dread lion as thou wieldest weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Neben die Sonne dich stellend, daß deine, des Unsterblichen, Gestalt in die Augen fällt, mit Stärke dich gürtend wie ein Elefant, wie ein Löwe furchtbar, wenn du die Waffe trägst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Leib hinsetzend in der Sonne Nähe, wenn deine Pracht, des ewigen, sich zeigte, In Kraft gekleidet gleich dem Elefanten, die Waffen führend wie ein grimmer Löwe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помещая свое тело рядом с солнцем,  
 Чтобы стал заметен твой бессмертный облик,  

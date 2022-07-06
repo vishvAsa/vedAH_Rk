@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाजी꣡ वा꣡जेषु धीयते  
 अध्वरे꣡षु प्र꣡ णीयते  
 वि꣡प्रो यज्ञ꣡स्य सा꣡धनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 विप्रः॑ । य॒ज्ञस्य॑ । साध॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
@@ -77,40 +77,40 @@ genre M
 **वाजी** बलवानग्निः **वाजेषु** युद्धेषु **धीयते** देवैः शत्रुहननार्थं निधीयते । किंच **अध्वरेषु** अग्निहोत्रादिषु **प्र** **णीयते** अध्वर्वा्रदिभिः प्रकर्षेण आहवनीयादिस्थानेषु प्रक्षिप्यते । अत एव **विप्रः** मेधावी सन्नग्निः **यज्ञस्य** अग्निहोत्रादेः **साधनः** साधको भवति ॥ धीयते । दधातेः कर्मणि यक्। घुमास्थागापा ' इत्यादिना ईत्वम् । निघातः । नीयते । ‘णीञ् प्रापणे' इत्यस्य कर्मणि यकि रूपम् । उपसर्गादसमासेऽपि णोपदेशस्य' इति णत्वम् । साधनः । ‘ साध संसिद्धौ' । नन्द्यादित्वात्कर्तरि ल्युः । लित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mighty **Agni** is plural ced (foremost by the gods) in battle; he is brought forward reverently at holy rites; for he is the sage fulfiller of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The prizewinner is placed among the prizes. He is led forth in the rites as the inspired poet bringing success to the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong, he is set on deeds ofstrength. In sacrifices led in front,  
      As Singer he completes the rite.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The strong (horse, i. e. Agni) is set at the races. He is led forth at the sacrifices, the priest, the accomplisher of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Preisgewinner wird in seine Ehrengaben eingesetzt, bei den Opferhandlungen wird er vorgeführt, der redkundige Ausrichter des Opfers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Speisen wird er speisereich gesetzt, zu Opfern vorgeführt, Der Feier weiser Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Скакуна, приносящего награды, помещают среди наград;  
 Его ведут впереди во время обрядов,  

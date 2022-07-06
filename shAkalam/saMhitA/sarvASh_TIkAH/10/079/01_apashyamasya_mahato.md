@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पश्यम् अस्य महतो꣡ महित्व꣡म्  
 अ꣡मर्तियस्य म꣡र्तियासु विक्षु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सिन्वती ब꣡प्सती भू꣡रि अत्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नाना॑ । हनू॒ इति॑ । विभृ॑ते॒ इति॒ विऽभृ॑ते । सम् । भ॒रे॒ते॒ इति॑ । असि॑न्वती॒ इति॑ । बप्स॑ती॒ इति॑ । भूरि॑ । अ॒त्तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
@@ -112,7 +112,7 @@ genre M
 **अस्य** अग्नेः **महतः** मंहनीयस्य **महित्वं** महत्त्वम् **अपश्यं** पश्यामि । कीदृशस्यास्य । **मर्त्यासु** **विक्षु** मनुष्यरूपासु प्रजासु तासां हृदये **अमर्त्यस्य** अमरणस्वभावस्य वैश्वानररूपेण वर्तमानस्य । यद्वा । मर्त्यासु विक्ष्वृत्विग्यजमानरूपासु प्रजास्वमर्त्यस्य सर्वदा जागरितस्य । अथ दावाग्निरूपोऽग्निरुच्यते । अस्याग्नेः **हनू** शिप्रे **नाना** **विभृते** विभिन्ने **सं** **भरेते** संभरतो दन्तैः। तथा कृत्वा **असिन्वती** असंखादन्त्यौ स्तोतारं **बप्सती** भक्षयन्त्यौ **भूरि** प्रभूतं काष्ठमरण्ये वर्तमानम् **अत्तः** भक्षयतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ Devouring: feeding theworshipper;
 Asinvatī = insatiable, asaṅkhādanīyau, not chewing
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have seen the greatness of him, the great one, of the immortal one  among the mortal clans.  
 His jaws are alternately opened up and closed together again. Insatiable,  gnawing, they eat amply.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I HAVE beheld the might of this Great Being. Immortal in the midst of tribes of mortals.  
      His jaws now open and now shut together: much they devour, insatiately chewing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe seine, des Großen, Größe, des Unsterblichen in den sterblichen Niederlassungen erschaut. Da und dort klappen seine geöffneten Kinnbacken zusammen; ohne zu kauen fressen sie schnappend viel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hab' erblickt die Grösse dieses grossen Unsterblichen bei sterblichen Geschlechtern; Bald öffnen sich, bald schliessen sich die Kiefern, die unersättlich kauend viel verzehren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Видел я величие этого великого,  
 Бессмертного среди смертных племен.  

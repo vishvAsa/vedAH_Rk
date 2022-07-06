@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡थेय꣡म् पृथिवी꣡ मही꣡  
 दाधा꣡रेमा꣡न् व꣡नस्प꣡तीन्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡थो अरिष्ट꣡तातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 ए॒व । दा॒धा॒र॒ । ते॒ । मनः॑ । जी॒वात॑वे । न । मृ॒त्यवे॑ । अथो॒ इति॑ । अ॒रि॒ष्टऽता॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatheyam* ← *yathā*
 - \[adverb\]
@@ -111,34 +111,34 @@ popular;; epic anuṣṭubh (525);; repeated line
 **यथेयं** **पृथिवी** **मही** **इमान्** **वनस्पतीन** वृक्षादीन् **दाधार** । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as this great earth holds fast these trees here,  
 even so does he hold fast your mind, for living, not for death, but for  invulnerability.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as this earth, the mighty earth, holds fast the monarchs of the wood.  
      So have I held thy spirit fast, held it for life and not for death, held it for thy security.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie diese große Erde diese Bäume festhält, also hat er deinen Geist zum Leben befestigt, nicht zum Tode, sondern zur Unversehrtheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie diese weite Erde hier des Waldes Bäume sicher hält, So halte deinen Geist ich fest, damit du lebst, dem Tod entfliehst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как эта великая земля  
 Удерживает эти большие деревья,  

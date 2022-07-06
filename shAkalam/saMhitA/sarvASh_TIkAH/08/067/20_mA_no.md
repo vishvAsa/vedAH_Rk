@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नो हेति꣡र् विव꣡स्वत  
 आ꣡दित्याः कृत्रि꣡मा श꣡रुः  
 पुरा꣡ नु꣡ जर꣡सो वधीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒रा । नु । ज॒रसः॑ । व॒धी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आदित्याः** **नः** अस्मान् **विवस्वतः** विवस्वत्पुत्रस्य यमस्य । पुत्रे पितृशब्दः । तस्य **हेतिः** आयुधभूता **कृत्रिमा** क्रियया निष्पन्ना **शरुः** हिंसिका प्रसितिः **पुरा** पूर्वं **नु** इदानीम् । सर्वदेत्यर्थः । **जरसः** इदानीं जीर्णान् **मा** **वधीत्** मा हिंस्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Vivasvat: i.e. **Yama**, son of Vivasvat; before old age: **purā** = pūrve nu idānīm sarvadetyarthaḥ jarasahidānīm jīrṇān: let it not destroy us, now and of old infirm
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Ādityas, let the missile of Vivasvant, the finely made arrow,  
 not strike us now before old age.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not Vivasvan's weapon nor the shaft, Adityas, wrought with skill,  
      Destroy us ere old age be nigh.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll uns das Geschoß des Vivasvat, die kunstvolle Waffe, ihr Aditisöhne, noch vor dem Alter töten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge des Vivasvat Spiess, Aditja's, sein gespitzter Pfeil, Uns treffen, eh' wir Greise sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни дротик Вивасвата,  
 О Адитьи, ни искусно сделанная стрела,  

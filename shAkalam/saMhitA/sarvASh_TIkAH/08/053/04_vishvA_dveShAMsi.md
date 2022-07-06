@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा द्वे꣡षांसि जहि꣡ चा꣡व चा꣡ कृधि  
 वि꣡श्वे सन्वन्तु आ꣡ व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡त्रा सो꣡मस्य तृम्प꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 शीष्टे॑षु । चि॒त् । ते॒ । म॒दि॒रासः॑ । अं॒शवः॑ । यत्र॑ । सोम॑स्य । तृ॒म्पसि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -127,37 +127,37 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Smite all our enemies and drive them away, may we all obtain their wealth; even amont the Śīṣṭasare you exhilarating **Soma**-stalks, where you fill yourself with the Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smash all hatreds and bring them low. Let all (of us) win goods.  
 Even among the Śīṣṭas there are invigorating shoots for you, where you  become sated on soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “all” of b is undefined. I tentatively think it refers to us (that is, the entire Ārya community), but Oldenberg suggests it is the soma drops of 3cd. Geldner doesn’t specify in the tr., but refers to the víśveṣām of 3 in his n.
 
 I know nothing about the Śīṣṭas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlag alle Anfeindungen nieder und unterdrücke sie! Alle sollen Gut gewinnen. Auch bei den Sista´s sind für dich die berauschenden Stengel, bei denen du dich am Soma gütlich tust.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Feinde alle schlage und verjage sie ihr Gut werd' allen uns zu Theil, Auch bei den Çīschta's fliessen starke Tränke dir, wo du am Soma dich erfreust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все проявления ненависти уничтожь и устрани!  
 Пусть все захватят добро!  

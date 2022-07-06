@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु य꣡द् ईम् मरु꣡तो मन्दसान꣡म्  
 आ꣡र्चन्न् इ꣡न्द्रम् पपिवां꣡सं सुत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ यह्वी꣡र् असृजत् स꣡र्तवा꣡ उ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । अ॒द॒त्त॒ । वज्र॑म् । अ॒भि । यत् । अहि॑म् । हन् । अ॒पः । य॒ह्वीः । अ॒सृ॒ज॒त् । सर्त॒वै । ऊं॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -127,43 +127,43 @@ genre M
 यद्यदामरुतः मन्दसानं तृप्यन्तं सुतस्याभिषुतंसोमं पपिवांसं पीतवन्तं ईमेनमिन्द्रं अन्वार्चन् अन्वस्तुवन् तदेन्द्रः वज्रमादत्त आददौ ततोयद्यदाअहिंवृत्रंअहिहन् अभ्यहन् अभिहतवान् तदायह्वीर्महतीरपः वृत्रेणनिरुद्धान्युदकानि सर्तवैस्वैरत्वेनसर्तुङ्गन्तुंअसृजत् निरोधाच्चामुञ्चत् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **Maruts** worship **Indra**, exulting and drinking of the effused libation, he grasps the thunderbolt wherewith he destroys Ahi, and sets the abundant waters free to flow.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the Maruts chanted to him after he became exhilarated, to Indra  who had drunk of the pressed soma,  
 he took up the mace. When he (had) smashed the serpent, he released the  exuberant waters to flow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) take abhí yád áhim han as subordinate to ā́datta vájram in the same pāda. Although this fits the metrical scheme slightly better, it makes some trouble with the logical sequence of events (“he took the mace when he smashed the serpent,” almost implying that the smashing occurred first). It works better as subordinate to the main clause of d.
 
 The word order áhim hán and the lack of augment on the verb scrambles the standard formula, producing almost a syncopated effect, which is repaired in 3d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Maruts sang their song to Indra, joyous when he had drunk of Soma juices,  
      He grasped his thunderbolt to slay the Dragon, and loosed, that they might flow, the youthful Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Marut dem trankbegeisterten Indra zusangen, der vom Soma getrunken hatte, da faßte er die Keule, als er den Drachen erschlug. Er ließ die jüngstgeborenen Gewässer frei zum Laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihm, dem frohen, zu die Maruts jauchzten, dem Indra, da vom Safte er getrunken, Da nahm den Blitz er und erschlug die Schlange, ergoss die schnellen Wasser, dass sie strömten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Маруты запели в честь этого возбужденного  
 Индры, напившегося выжатого (сомы),  

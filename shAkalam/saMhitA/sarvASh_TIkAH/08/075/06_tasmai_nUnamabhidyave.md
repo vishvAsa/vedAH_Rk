@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मै नून꣡म् अभि꣡द्यवे  
 वाचा꣡ विरूप नि꣡त्यया  
 वृ꣡ष्णे चोदस्व सुष्टुति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृष्णे॑ । चो॒द॒स्व॒ । सु॒ऽस्तु॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विरूप** नानारूपैतन्नामक महर्षे त्वं **तस्मै** प्रसिद्धाय **अभिद्यवे** अभिगतदीप्तये **वृष्णे** वर्षकायाग्नये **नित्यया** उत्पत्तिरहितया **वाचा** मन्त्ररूपया **सुष्टुतिं** **नूनम्** इदानीं **चोदस्व** स्तुहीत्येवमृषिः स्वात्मानं ब्रवीति यजमानो वा होतारं विरूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Withconstant voice: nityayā **vācā**: an allusion to the eternal nature of the hymns, **utpatti** rahitayā vācāmantrarūpayā; well- plural ased: abhidyave = abhigatatṛptaye; abhigatadīptaye
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now for him, for the heaven-bound bull, o Virūpa [=poet],  
 with your very own speech rouse your lovely praise hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, O Virupa, rouse for him, Strong God who shines at early morn,  
      Fair praise with voice that ceases not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beeile jetzt, o Virupa, das Loblied auf diesen himmlischen Bullen durch eigene Rede!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beeile diesem Stiere nun dem Himmelsstürmer Lobgesang, Virupa, siegend fort und fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

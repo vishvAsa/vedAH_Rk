@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खा स꣡ख्ये अपचत् तू꣡यम् अग्नि꣡र्  
 अस्य꣡ क्र꣡त्वा महिषा꣡ त्री꣡ शता꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुत꣡म् पिबद् वृत्रह꣡त्याय सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्री । सा॒कम् । इन्द्रः॑ । मनु॑षः । सरां॑सि । सु॒तम् । पि॒ब॒त् । वृ॒त्र॒ऽहत्या॑य । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 सखा इन्द्रस्यमित्रभूतोग्निः महिषा महिषाणाम्पशूनां त्री त्रीणि शतानि शतसङ्ख्याकानि सख्ये सख्युर्मित्रभूतस्यास्येन्द्रस्य क्रत्वा कर्मणा निमित्तभूतेन तूयं क्षिप्रं अपचत् पपाच किञ्च इन्द्रःपरमैश्वर्ययुक्तः मनुषोमनोःसम्बन्धीनि त्री त्रीणिसरांसि पात्राणि अत्रसरस् शब्देन पूतभृदाधवनीयद्रोणकलशसञ्ज्ञानिपात्राण्युच्यन्ते तेषुस्थितंसुतम भिषुतंसोमंसाकं युगपदेव वृत्रहत्याय वृत्रहननाय पिबदपिबत् पपौ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 Has quickly consumed: apacat, has roasted or digested
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a comrade for a comrade, Agni straightaway cooked three hundred  buffalo in accord with his [=Indra’s] will.  
 Indra drank the pressed soma of Manu, three lakes worth at one blow,  for the Vr̥tra-smashing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On neut. pl. mahiṣā́in conjunction with the numerical expression trī́śatā́ni see Oldenberg Note the alternative phrasing with gen. pl. in 8a trī́… śatā́mahiṣā́ṇām.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As friend to aid a friend, Agni dressed quickly three hundred buffaloes, even as he willed it.  
      And Indra, from man's gift, for Vrtra's slaughter, drank ofr at once three lakes of pressed-out Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Freund Agni kochte dem Freund sogleich nach dessen Wunsch dreihundert Büffel. Indra trank den gepreßten Soma des Manu, drei Seen auf einmal aus zur Vritratötung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Agni briet in Eil' der Freund dem Freunde dreihundert Büffel mit der Kraft, die sein ist; Dazu trank Indra den gepressten Soma, drei Seen der Menschen aus zur Vritratödtung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Друг-Агни быстро сварил другу  
 По его желанию три котла буйволов.  

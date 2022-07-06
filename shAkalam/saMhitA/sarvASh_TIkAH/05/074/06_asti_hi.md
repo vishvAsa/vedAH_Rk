@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्ति हि꣡ वाम् इह꣡ स्तोता꣡  
 स्म꣡सि वां संदृ꣡शि श्रिये꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡वोभिर् वाजिनीवसू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 नु । श्रु॒तम् । मे॒ । आ । ग॒त॒म् । अवः॑ऽभिः । वा॒जि॒नी॒व॒सू॒ इति॑ वाजिनीऽवसू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asti* ← *as*
 - \[verb\], singular, Present indikative
@@ -111,36 +111,36 @@ genre M
 हे अश्विनौ **वां** **स्तोता** पौरः **अस्ति** **हि** वर्तते खलु । हे देवौ **वां** संदृशि संदर्शने संनिधाने **स्मसि** स्मः भवेम । किमर्थम् । **श्रिये** । **नु** अद्य **मे** मदीयमाह्वानं **श्रुतं** शृणुतम् । श्रुत्वा **आ** **गतम्** आगच्छतम् । किं तूष्णीं नेत्याह । **अवोभिः** रक्षणैः सह **वाजिनीवसू** अन्नवसूः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A glorifier of you both is here; may we be (retained) in your sight for the sake of prosperity; hear today (my invocation); come hither with your protections, you who are affluent in food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because your praise singer is here and we have in our sights (to see) your  splendor,  
 now hear me and come with help, o you whose goods are prizewinners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here is the man who lauds you both: to see your glory are we here.  
      Now bear me, come with saving help, ye who are rich in store of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier ist ja euer Lobsänger. Wir können uns euch zu Ehren sehen lassen. Nun höret auf mich, kommt her mit euren Gnaden, ihr Lohnreiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ist ja euer Sänger hier; und wir, um euren Glanz zu schau'n; Nun hört auf mich und kommt herbei mit Hülfen, gabenreiche ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот ведь ваш восхвалитель.  
 Мы здесь, чтоб вы увидели нас для почести.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् इ꣡द् धि꣡ प्र꣡चेता  
 अग्नि꣡र् वेध꣡स्तम ऋ꣡षिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यज्ञे꣡षु म꣡नुषो वि꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । होता॑रम् । ई॒ळ॒ते॒ । य॒ज्ञेषु॑ । मनु॑षः । विशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -98,36 +98,36 @@ genre M
 **अग्निरित्** अग्निरेव **प्रचेताः** प्रकृष्टज्ञानवान् नान्यः कश्चित् । **हि** यस्मादेवं तस्मात् **वेधस्तमः** विधातृतमोऽतिशयेन हविर्वहनादीनां कर्मणां कर्ता **ऋषिः** सर्वस्य द्रष्टा च भवति । **मनुषः** मनुष्यस्य यजमानस्य **विशः** प्रजाः ऋत्विग्लक्षणाः **होतारं** देवानामाह्वातारं तादृशम् **अग्निं** **यज्ञेषु** यागेषु **ईळते** स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** verily is most wise; he is the chief performer of religious rites, a holy sage; the progeny of men glorify Agni as the invoker of the gods at sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For just Agni is provident; Agni is the seer, the best ritual adept.  
 Agni as Hotar do the clans of Manu reverently invoke at the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, in truth, is passing wise, most skilled in ordering, a Seer.  
      At sacrifices Manus' sons glorify Agni as their Priest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Agni ist der kluge, Agni der meisterliche Rishi. Den Agni berufen zum Hotri bei den Opfern die Stämme des Manu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Agni ist der weiseste, der liebevollste Sänger er; Der Menschen Stämme preisen ihn, den Priester, bei den Opfern hoch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это Агни-прозорливец,  
 Агни-риши, лучше всех устраивающий (обряд).  

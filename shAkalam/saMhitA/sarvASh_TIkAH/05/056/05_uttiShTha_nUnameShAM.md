@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् तिष्ठ नून꣡म् एषां᳐  
 स्तो꣡मैः स꣡मुक्षिताना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ग꣡वां स꣡र्गम् इव ह्वये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒रुता॑म् । पु॒रु॒ऽतम॑म् । अपू॑र्व्यम् । गवा॑म् । सर्ग॑म्ऽइव । ह्वये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M
 हे मरुतो यूयम् **उत्तिष्ठ** उत्तिष्ठत ॥ व्यत्ययेनैकवचनम् ॥ **नूनं** निश्चयम् **एषां** **स्तोमैः** स्तोत्रैः **समुक्षितानां** वर्धितानां **मरुताम्** । यद्वा । स्तोमैरुपह्वय इति संबन्धः । तादृशां मरुतां **पुरुतमं** प्रभूततमम् **अपूर्व्यम्** । न विद्यते पूर्वः येभ्यस्तमपूर्व्यं **सर्गं** संघं **गवाम्** उदकानां प्रसिद्धानां गवां वा सर्गं संघम् **इव** **ह्वये** आह्वये ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,37 +106,37 @@ genre M
 Gavām sargam iva may also mean, like a herd of cattle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rise up(, o Agni? poet?)—now with praises for these who have grown  strong together.  
 I call the (flock) of the Maruts, best of many, which no one can  
 precede—(call the flock) like a swarm of cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes the impv. út tiṣṭha as another self-address of the poet; again the presence of a 1st ps. sg. in the vs. (hvaye in d) makes that unlikely. I think it is directed rather at Agni, like the direct addresses in vss. 1 and 2. For the same impv.
 
 cf. IV.4.4 úd agne tiṣṭha (sim. VIII.23.5): the ritual fire is blazing up while the Maruts are called to the sacrifice. In this case Agni may be commanded to rise up with praises (stómaiḥ) -- praises like his calls in 2c. Alternatively, there may be a clause break after the impv., with a new clause beginning with nūnám and continuing to the end of the vs. (This division was suggested by Natalie Operstein in class in the early 2000s.) The praises will then be those produced by the 1st ps. poet who is the subj. of hvaye at the end of the vs. In b sámukṣita- can hardly be separated from nearby V.55.3 sākám ukṣitā́ḥ, and V.57.8 brhád uk ̥ ṣámāṇāḥ also supports the root etym. to √vakṣ/ukṣ ‘be(come) strong’, against Grassmann’s conection with √ukṣ ‘sprinkle’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise up! even now with lauds I call the very numerous company,  
      Unequalled, of these Maruts, like a herd of kine, grown up together in their strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhebe dich jetzt mit deinem Loblied auf sie, die zusammen groß geworden sind. Ich rufe den ersten unter vielen, den noch nie dagewesenen Schwarm der Marut gleich einem Schwarm von Rindern herbei:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erheb dich nun zu preisen sie, die alle sind zugleich erstarkt, Der Maruts reichsten nie zuvor erhörten Zug, wie den der Heerden ruf ich her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимайся теперь с прославлениями  
 Этих выросших вместе (богов)!  

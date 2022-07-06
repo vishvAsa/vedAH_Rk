@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नु꣡ सत्य꣡म् प꣡वमानस्य अस्तु  
 य꣡त्र वि꣡श्वे कार꣡वः संन꣡सन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡वन् म꣡नुं द꣡स्यवे कर् अभी꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ज्योतिः॑ । यत् । अह्ने॑ । अकृ॑णोत् । ऊं॒ इति॑ । लो॒कम् । प्र । आ॒व॒त् । मनु॑म् । दस्य॑वे । कः॒ । अ॒भीक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -141,20 +141,20 @@ genre M
 **सत्यं** सत्यभूतं **तत्** प्रसिद्धं **पवमानस्य** सोमस्य स्थानं **नु** क्षिप्रमस्माकम् अस्तु । **यत्र** यस्मिन् स्थाने **विश्वे** सर्वे **कारवः** स्तोतारः **संनसन्त** स्तोतुं संगच्छन्ते तत्स्थानमस्तु । अस्य सोमस्य **यत्** **ज्योतिः** **अह्ने** दिवसाय **लोकम्** आलोकं प्रकाशम् **अकृणोत्** करोति । **उ** इत्यवधारणे । तज्ज्योतिः **मनुम्** एतन्नामानं राजर्षिं **प्रावत्** प्रकर्षेणारक्षत् । तथा सोमः स्वयं तेजः **दस्यवे** सर्वस्योपक्षपयित्रेऽसुराय **अभीकम्** अभिगमनशीलं **कः** अकार्षीत् । करोतेर्लुङि “ मन्त्रे घस° ' इति च्लेर्लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May thatplace of the truthful **Pavamāna** be quickly ours, when all the worshippers assemble (to praise him) the light (of the **Soma**) which gave manifestation to the day protected **Manu**-- Soma made it triumphant over the **Dasyu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, let this be true of the self-purifying one, this on which all the bards  concur:  
 that he made light for the day and wide space; he furthered Manu but  made close quarters for the Dasyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Renou tr. pāda a “Que cet (acte) de Pavamāna se réalise donc ...” I would prefer this rendering of satyám to the “true” of Geldner and the published translation, but it is even harder to square with the augmented impf. akṛṇot (c) (and probably prā́vat in d, since √av has no injunctives) that expresses the content of the satyám (“true” is bad enough).
 
@@ -169,23 +169,23 @@ The stem abhī́ka- ‘close quarters, face-to-face’ is elsewhere used in cont
 As Oldenberg points out, kar would be better as a heavy syllable; he suggests underlying *karr (← *kar-t). See comm. ad VII.75.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let this be the truth of Pavamana, there where all singers gather them together,  
      That he hath given us room and made the daylight, hath holpen Manu and repelled the Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das soll von Pavamana wahr sein, worin alle Dichter übereinkommen, daß er dem Tage Licht schuf und Raum. Er half dem Manu weiter, dem Dasyu schuf er feindliche Begegnung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sei uns nun der wahre Ort des Flammers, an dem die Sänger alle sich vereinen; Der Lichtschein, welcher Raum dem Tage schaffte, der half dem Manu, wehrte ab den Dämon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет истинным у Паваманы то,  
 К чему присоединяются все певцы:  

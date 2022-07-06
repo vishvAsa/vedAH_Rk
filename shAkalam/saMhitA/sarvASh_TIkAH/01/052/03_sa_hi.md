@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ द्वरो꣡ द्वरि꣡षु वव्र꣡ ऊ꣡धनि  
 चन्द्र꣡बुध्नो म꣡दवृद्धो मनीषि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मं꣡हिष्ठरातिं स꣡ हि꣡ प꣡प्रिर् अ꣡न्धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । तम् । अ॒ह्वे॒ । सु॒ऽअ॒प॒स्यया॑ । धि॒या । मंहि॑ष्ठऽरातिम् । सः । हि । पप्रिः॑ । अन्ध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -134,20 +134,20 @@ genre M
 **सः** पूर्वोक्तगुणविशिष्टः इन्द्रः **द्वरिषु** आवरीतृषु शत्रुषु **द्वरः** **हि** अतिशयेनावरीता खलु । शत्रुजयशील इत्यर्थः । यस्मात् **ऊधनि** उद्धृतजलवति अन्तरिक्षे **वव्रः** संभक्तो व्याप्य वर्तते । अत एव चन्द्रबुध्नः सर्वासां प्रजानामाह्लादकमूलः अन्तरिक्षस्य सर्वाह्लादकत्वात् । **मदवृद्धः** । माद्यन्ति एभिरिति मदाः सोमाः तैर्वर्धितः । एवंभूतो य इन्द्रः **मंहिष्ठरातिं** प्रवृद्धधनं प्रवृद्धदानं वा **तम्** **इन्द्रं** **मनीषिभिः** मनस ईषितृभिः प्राज्ञैर्ऋत्विग्भिः सह **स्वपस्यया** **धिया** शोभनकर्मयोग्यया बुद्ध्या **अह्वे** आह्वयामि। **हि** यस्मात् **सः** इन्द्रः **अन्धसः** अन्नस्य अस्मदपेक्षितस्य **पप्रिः** पूरयिता॥ द्वरः । द्वृ इत्येके । द्वरति आवृणोतीति द्वरः। पचाद्यच् । चित्स्वरेणान्तोदात्तत्वम् । द्वरिषु ।  ‘ अच इः' इति कर्तरि इप्रत्ययः । वव्रः। ‘वृङ् संभक्तौ' । व्रियते संभज्यते इति वव्रः । **घञर्थे** कविधानं स्थास्नापाव्यधिहनियुध्यर्थम् ' ( पा. सू. ३. ३. ५८. ४ ) इति परिगणनस्य उपलक्षणार्थत्वात् कर्मणि कप्रत्ययः । द्विर्भावश्छान्दसः । ऊधनि । उत् ऊर्ध्वं ध्रियतेऽस्मिन् जलमिति ऊधः । सप्तम्येकवचने  ‘ अस्थिदधिसक्थ्यक्ष्णामनङुदात्तः, छन्दस्यपि दृश्यते ' ( पा. सू. ७. १. ७५-७६ ) इति इशिग्रहणात् ऊधस्शब्दस्यापि अनङादेशः । यद्वा । ‘ऊधसोऽनङ्' (पा. सू. ५. ४. १३१) इति समासे विधीयमानः अनङादेशः छान्दसत्वात् केवलादपि भवति । चन्द्रबुध्नः ।  ‘ चदि आह्लादने दीप्तौ च । इदित्त्वात् नुम् ।' स्फायितञ्चि°' इत्यादिना रक् । प्रत्ययस्वरेणान्तोदात्तत्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन तदेव शिष्यते । मदवृद्धः । मदी हर्षे'।  ‘ मदोऽनुपसर्गे ' इति करणे अप् । तस्य पित्त्वादुनुदात्तत्वे धातुस्वरः । तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् । अह्वे । **ह्वेञ्** स्पर्धायां शब्दे च' । छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लुङि ‘ आत्मनेपदेष्वन्यतरस्याम् ' (पा. सू. ३. १. ५४ ) इति च्लेः अङादेशः । ‘आतो लोप इटि च' इति आकारलोपः । गुणः । स्वपस्यया । अप इति कर्मनाम । शोभनमपः स्वपः । तदर्हतीति स्वपस्यः । 'छन्दसि च ' इति यप्रत्ययः । मंहिष्ठरातिम् । 'महि वृद्धौ' । अतिशयेन मंहित्री मंहिष्ठा। ‘तुश्छन्दसि' इति इष्ठन्प्रत्ययः। ‘तुरिष्ठेमेयःसु' इति तृलोपः । नित्त्वादाद्युदात्तत्वम् । मंहिष्ठा रातिर्यस्य ।  ‘ स्त्रियाः पुंवत् ' ( पा. सू. ६. ३. ३४ ) इति पुंवद्भावात् ह्रस्वत्वम् ।  ‘ बहुव्रीहौ प्रकृत्या' इति पूर्वपदप्रकृतिस्वरत्वम् । पप्रिः ।  ‘ पॄ पालनपूरणयोः '। ‘आदृगमहनजनः' इति किन्प्रत्ययः । ‘उदोष्य्चपूर्वस्य ' इति उत्वस्य  ‘ बहुलं छन्दसि ' इति वचनादभावे यणादेशः । लिङ्वद्भावात् “ द्विर्वचनेऽचि' इति स्थानिवद्भावे सति द्विर्भावोरदत्वहलादिशेषाः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is victorious over his enemies, who is spread through the dewy (firmament), the root of happiness, who is exhilarated by the **Soma** him I invoke, the most bountiful **Indra**, along with learned priests, with a mind disposed to pious adoration, for he is the bestower of abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he (was) a skulker among skulkers at the maw (of Vr̥tra?), but he,  having a golden foundation, was strengthened to exhilaration at the  (soma-)udder by the inspired thinkers [=Maruts?]—  
 Indra—with my skillful work and insight I have summoned him whose  gifts are most generous, for he is a provider because of the soma stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A challenging verse, describing Indra in unusual ways and deploying unusual words and constructions.
 
@@ -164,23 +164,23 @@ The last part of the last pāda, sá hí páprir ándhasaḥ, is also problemati
 Furthermore, reduplicated -i-nominals are otherwise agentive (AiG II.2.291-93) and regularly take accusatives (see esp. VI.50.13 dā́nu pápriḥ ‘supplying gifts’)(see Grestenberger JAOS 133.2). Geldner is aware of the morphological problem (though not, it seems, the semantic one) and in his n. suggests that the form is either reflexive or that jaṭháram ‘belly’ should be supplied, but there is no basis for either of these solutions. Therefore, although I see the attractions of “is filled with soma,” I do not see a way to wrest this meaning out of the text. Instead I take ándhasaḥ as a causal ablative and pápriḥ in the same fashion as VI.50.13. The clause then paraphrases pāda b: Indra provides wealth because he becomes exhilarated on soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For he stays e'en the stayers, spread o'er laden cloud, rooted in light, strengthened in rapture by the wise.  
      Indra with thought, with skilled activity, I call, most liberal giver, for he sates him with the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist unter Räubern ein Räuber, am Somaeuter ein Schlund, mit goldschimmerndem Boden, rauschgestärkt durch die Dichter. Diesen Indra habe ich mit Kunst und Bedacht gerufen, der die reichste Gabe spendet, denn er füllt sich mit Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sieger schmiegte an der Sieger Busen sich, in Glanz gewurzelt durch die Priester trankgestärkt, Den Indra ruf' mit wirkungsreicher Bitte ich, den Segenspender, denn er füllt sich mit dem Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он ведь захватчик из захватчиков, отверстие в вымени (с сомой)  
 С золотым дном, (бог,) возросший от опьянения с помощью мудрых.  

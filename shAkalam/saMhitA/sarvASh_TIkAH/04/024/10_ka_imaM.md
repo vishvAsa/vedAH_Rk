@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ इमं꣡ दश꣡भिर् म꣡म  
 इ꣡न्द्रं क्रीणाति धेनु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡थैनम् मे पु꣡नर् ददत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 य॒दा । वृ॒त्राणि॑ । जङ्घ॑नत् । अथ॑ । ए॒न॒म् । मे॒ । पुनः॑ । द॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -106,21 +106,21 @@ popular;; epic anuṣṭubh (424)
 **मम** मदीयम् **इमं** स्वभूतम् **इन्द्रं** **धेनुभिः[१]** प्रीणयित्रीभिः **दशभिः** दशसंख्याकाभिः स्तुतिभिः **कः** **क्रीणाति** क्रयं करोति । तदानीं हे क्रेतारो युष्माकं मध्ये एवमपि समयः क्रियते । **यदा** अयमिन्द्रः **वृत्राणि** त्वदीयान् शत्रून् **जङ्घनत्** हन्यात् **अथ** अनन्तरमेव **एनम्** इन्द्रं **मे** मह्यं पुनर्ददत् पुनर्दद्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who buys him, my **Indra**, with ten kine? when he shall have slain (your) foes, then let (the purchaser) give him again to me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra’s wife:] “Who buys this Indra of mine with ten cows,  
 when he’s going to smash obstacles? Then will he return him to me  
 again?”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The big question about this vs. is the identity of the speaker. The standard view is that it is the poet Vāmadeva, who is putting Indra on sale temporarily, with the requirement that he be returned after his obstacle-smashing is done. I find this unlikely. How did Indra come to be possessed by Vāmadeva (imám … máméndram “this Indra of mine”)? Who is he hawking Indra to? Why has the scene changed from the domestic one of Indra and his wife to, presumably, the ritual ground? My own suggestion, albeit somewhat tentative, is that the speaker is Indra’s wife. Who would have a better right to call him “this Indra of mine”? Moreover, there seems no good reason to introduce his wife as an emphatic actor in vs. 8 and then drop her out of the story. Since the three vss. seem unified in tone and theme, common sense suggests that they should take place in the same location with the same actors.
 
@@ -135,23 +135,23 @@ For my interpr. of these vss., see published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who for ten milch-kine purchaseth from rne this Indra who is mine?  
      When he hath slain the Vrtras let the buyer give him back to me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer kauft mir diesen Indra um zehn Milchkühe ab? Wenn er die Feinde erschlagen hat, so soll er ihn mir zurückgeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer kauft mir diesen Indra ab, der mein ist, für der Kühe zehn? Wenn er den Feind geschlagen hat, dann stell' er ihn mir wieder zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто купит у меня этого  
 Индру за десять дойных коров?  

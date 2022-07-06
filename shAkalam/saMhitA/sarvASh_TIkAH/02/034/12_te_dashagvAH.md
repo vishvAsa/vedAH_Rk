@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ द꣡शग्वाः प्रथमा꣡ यज्ञ꣡म् ऊहिरे  
 ते꣡ नो हिन्वन्तु उष꣡सो वि꣡उष्टिषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 महो꣡ ज्यो꣡तिषा शुचता꣡ गो꣡अर्णसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒षाः । न । रा॒मीः । अ॒रु॒णैः । अप॑ । ऊ॒र्णु॒ते॒ । म॒हः । ज्योति॑षा । शु॒च॒ता । गोऽअ॑र्णसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -136,7 +136,7 @@ genre M
 ते मरुतः दशग्वाः येदशभिर्मासैः सिद्धिङ्गताः अङ्गिरसस्तद्रूपाभूत्वा प्रथमाआदित्येभ्यः प्र- थमभाविनःसन्तः यज्ञमूहिरेअवहन् आदित्यानामङ्गिरसाञ्चस्वर्गगमनम्प्रतिस्पर्धमानानाम्मध्येपूर्व- मेवाङ्गिरसोयागाननुष्ठायस्वर्गम्प्राप्ताः तथाचश्रूयते—आदित्याश्चैवेहासन्नङ्गिरसश्चतेग्रेग्निनाग्निमय- जन्तेति । तादृशास्ते उषसोव्युष्टिषुविवासेषुप्रभातेषुसत्सुनोस्मान् हिन्वन्तु ग्रेरयन्तु हिगतौ वृद्धौच रामीः कृष्णवर्णारात्रीः उषोनयथाउषाः अरुणैरारोचमानैःस्वतेजोभिः अपोर्णुते अपवृणोत्यपसा- रयति तथामहोमहताशुचतादीप्यमानेन गोअर्णसागच्छदुदकेनज्योतिषासूर्याख्येनतमोनिवारयन्ति सूर्यमण्डलमावृण्वतोवृत्रादीन् हत्वासर्वं जगत्प्रकाशयन्तीत्यर्थः ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,7 +147,7 @@ genre M
 The first celebration of the ten-months' rite: te daśagvāḥ **prathamā** yajñam ūhire: in RV. 2.5.4, daśagvāḥ = those who originally were priests of the school of **aṅgiras**, conducting ceremonies that lasted nine or ten days; here, the office is assigned to the **Maruts**, as the first celebrators of the rite; they are, therefore, identified with the **aṅgirasas**-- aṅgirasas tad **rūpa** bhūtvā **marutaḥ**, who were the first, or prior to the **Ādityas**; the legend: there was a competition for precedence in going to **svarga**, between the ādityas and the aṅgirasas, and the latter acquired it, by first instrumental tuting sacrifices with fire, ādityaścaiva iha asann aṅgirasaśca te agre agninā agnim ayajanta = the ādityas were also here and the aṅgirasas; they (the latter) first worshipped **Agni** with fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Daśagvas were the first to conduct the sacrifice. Let them rouse us  at the brightenings of dawn.  
 As Dawn with her ruddy (beams) uncloses the nights, (so did  
@@ -155,28 +155,28 @@ they unclose the cows) with the greatly blazing light flooding
 with cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb mā́rjmi is accented because of its juxtaposition with clause-initial dídhiṣāmi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They, the Dasagvas, first of all brought sacrifice: they at the break of mornings shall inspirit us.  
      Dawn with her purple beams uncovereth the nights, with great light glowing like a billowy sea of milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Dasagva´s haben zuerst das Opfer ausgeführt. Die sollen uns bei dem Aufgang der Morgenröte anspornen: Wie die Morgenröte mit ihren rötlichen Farben die Nächte aufdeckt, so deckten sie die Kuhhöhle auf mit dem herrlichen, glänzenden, rinderwogenden Lichte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfer fuhren sie zuerst, je zehn und zehn; sie seien hold uns bei der Morgenröthen Schein; Es schliesst die Nächte Uschas auf mit rothem Licht, im Herrlichkeit mit rinderreichem Strahlenglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они, дающие десять коров, первыми увезли жертву:  
 Пусть они подгоняют нас, когда зажигаются зори!  

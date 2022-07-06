@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ च नो गवे꣡षणं  
 सात꣡ये सीषधो गण꣡म्  
 आरा꣡त् पूषन्न् असि श्रुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒रात् । पू॒ष॒न् । अ॒सि॒ । श्रु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -86,35 +86,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे पूषन् **नः** अस्माकं **सातये** लाभाय **इमं** **च** **गणं** मनुष्यसंघं **गवेषणं** गवा मेषयितारं **सीषधः** साधय । हे **पूषन्** **आरात्** दूरदेशेऽपि त्वं **श्रुतः** विश्रुतः प्रख्यातः **असि** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gratify this our assembly, desirous of cattle, by their acquisition; you, **Pūṣan**, are renowned afar.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And make this cow-seeking troop of ours reach its goal for winning. From afar, Pūṣan, you are famed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lead on this company of ours, that longs for kine, to win the spoil:  
      Thou, Pusan, art renowned afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und führe diese unsere rinderbegehrende Schar richtig zum Gewinn! Von weitem bist du berühmt, Pusan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und lasse diese unsre Schar, die Kühe wünscht, erlangen sie, O Puschan, weit bist du berühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И этот наш ищущий коров  
 Отряд приведи к цели – к захвату!  

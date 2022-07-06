@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡धोर् धा꣡राम् अ꣡नु क्षर  
 तीव्रः꣡ सध꣡स्थम् आ꣡सदः  
 चा꣡रुर् ऋता꣡य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 चारुः॑ । ऋ॒ताय॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम त्वं **मधोः** मधुररसस्य **धारामनु** **क्षर** प्रवहन्। **तीव्रः** तीव्ररसः सन् **सधस्थं** सहस्थानमभिषवस्थानं पवित्रं वा **आ** **असदः** सीद। **चारुः** चरणशीलः सन् **ऋताय** यज्ञार्थं **पीतये** देवानां पानाय ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour forth the stream of the sweet beverage; sit down, sharp-flavoured in the receptacle, alert for drinking at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flow following the stream of honey. You, the sharp (soma), have taken  your seat,  
 pleasing to be drunk for truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take ánu kṣara as transitive (“Lass … fliessen,” “Laisse couler …”), but forms of √kṣar are otherwise intransitive, and here the acc. dhā́rām must be governed by the preverb ánu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward to the stream of meath rest efficacious in thy home,  
      Fair, to be drunk at sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß den Strom des Süßen fließen! Du, der Scharfe, hast dich auf deinen Platz gesetzt, angenehm für den Wahrhaften zum Trunke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Strom des Methes rinne nach, du starker, setz' dich auf den Sitz, Dem Heiligen beliebt zum Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Излей поток сладости!  
 Резкий сел на свое место,  

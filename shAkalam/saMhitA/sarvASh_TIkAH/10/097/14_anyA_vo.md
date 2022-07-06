@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्या꣡ वो अन्या꣡म् अवतु  
 अन्या꣡न्य꣡स्या उ꣡पावत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इद꣡म् मे प्रा꣡वता व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 ताः । सर्वाः॑ । स॒म्ऽवि॒दा॒नाः । इ॒दम् । मे॒ । प्र । अ॒व॒त॒ । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (292)
 हे ओषधयः **वः** युष्माकं मध्ये **अन्या** ओषधिः **अन्याम्** ओषधिम् अवतु प्राप्नोतु । अवतिरत्र गत्यर्थः । तथा अन्यान्यस्याः समीपम् **उपावत** उपगच्छत । एवं याः सन्ति क्षित्यामोषधयः **ता:** **सर्वाः** संविदानाः परस्परमैकमत्यं प्राप्ताः सत्यः **इदं** **मे** मदीयं **वचः** प्रार्थनालक्षणं वचनं **प्रावत** प्ररक्षत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let each of you, plural nts, go to the other, approach the one (to the vicinity) of the other; thus being allmutually joined together, attend to this my speech.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let one of you help the other. Give help to one another.  
 All of you, being in agreement—help this speech of mine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help every one the other, lend assistance each of you to each,  
      All of you be accordant, give furtherance to this speech of mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eins von euch soll dem anderen helfen, stehet eines dem anderen bei! Helfet ihr alle einträchtig diesem Wort von mir zum Erfolg!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von euch sei eins dem andern hold und jedes helf dem andern aus; Seid eines Sinnes allzumal und folget diesem meinem Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть одно из вас поддерживает другое!  
 Помогайте друг другу!  

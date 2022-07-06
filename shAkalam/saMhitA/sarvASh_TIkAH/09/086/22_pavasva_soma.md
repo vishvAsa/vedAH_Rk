@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम दिविये꣡षु धा꣡मसु  
 सृजान꣡ इन्दो कल꣡शे पवि꣡त्र आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 नृ꣡भिर् यतः꣡ सू꣡र्यम् आ꣡रोहयो दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सीद॑न् । इन्द्र॑स्य । ज॒ठरे॑ । कनि॑क्रदत् । नृऽभिः॑ । य॒तः । सूर्य॑म् । आ । अ॒रो॒ह॒यः॒ । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -120,7 +120,7 @@ genre M
 हे **सोम** **दिव्येषु** **धामसु** स्थानेषु । देवानां संबन्धिषूदरेष्वित्यर्थः । तेषु **पवस्व** क्षर । कीदृशः सन् । हे **इन्दो** दीप्त सोम **कलशे** **पवित्र** **आ** दशापवित्रे च । आ इति चार्थे । 'सृजानः सृज्यमानः । अत्र ‘ अग्निहोत्रं जुहोति यवागूं पचति' इतिवदार्थिकः क्रमोऽवगन्तव्यः । किंच **इन्द्रस्य** **जठरे** **सीदन्** जठरं गच्छन् **कनिक्रदत्** शब्दं कुर्वन् **नृभिः** नेतृभिर्ऋत्विग्भिः **यतः** परिगृहीतः । हुत इत्यर्थः । तथाभूतः सन् **दिवि** **सूर्यम्** **आरोहयः** प्रादुर्भूतमकरो: ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 To the heavenly abodes: i.e., the bellies of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, in the heavenly domains, surging into the tub,  into the filter, o drop.  
 Sitting in the belly of Indra, ever roaring, guided by the men, you have  made the sun mount in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the Pp. analyzes ā́rohayaḥ as containing an augment (ā́/ arohayaḥ), it could equally well have an injunc.: ā́/ rohayaḥ. The latter would fit better with the injunc. ví rocayat in 21a, just disc.; the former with the other augmented forms of this tṛca.
 
@@ -158,23 +158,23 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow, onward, Soma, in thine own celestial forms, flow, Indu, poured within the beaker and the sieve.  
      Sinking into the throat of Indra with a roar, led by the men thou madest Surya mount to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Soma, an den himmlischen Geburtstätten, in den Krug, auf die Seihe ergossen, o Saft, indem du brüllend dich in Indra´s Bauch niederlässest, von den Männern gezügelt! Du ließest die Sonne am Himmel aufsteigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Soma, in den Himmelsstätten hell, entsandt, o Indu, in die Seihe zu dem Kelch; Laut wiehernd setzend dich in Indra's Bauch, gelenkt von Männern hobst die Sonn' zum Himmel du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिर् विश्प꣡लां धनसा꣡म् अथर्वि꣡यं  
 सह꣡स्रमीळ्ह · आजा꣡व् अ꣡जिन्वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । वश॑म् । अ॒श्व्यम् । प्रे॒णिम् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -117,7 +117,7 @@ genre M;; repeated line
 हे अश्विनौ **धनसां** धनं संभजमानाम् **अथर्व्यम्** अगच्छन्तीं छिन्नजङ्घात्वेन गन्तुमसमर्थाम् । थर्वतिर्गतिकर्मा । **विश्पलाम्** एतत्संज्ञामगस्त्यपुरोहितस्य खेलस्य संबन्धिनीं **सहस्रमीळ्हे** । मीळ्हमिति धननाम । बहुधनोपेते **आजौ** संग्रामे  **याभिः** ऊतिभिः **अजिन्वतं** गन्तुं समर्थामकुरुतम् । एतच्च ' चरित्रं हि वेरिवाच्छेदि पर्णम् ' ( ऋ. सं. १. ११६. १५ ) इत्यत्र विस्पष्टयिष्यते । **याभिः** च **अश्व्यम्** अश्वाख्यस्य पुत्रं **प्रेणिं** स्तुतेः प्रेरयितारं **वशम्** एतत्संज्ञम् ऋषिम् **आवतम्** अरक्षतम् । **ताभिः** सर्वाभिः **ऊतिभिः** सहास्मानप्यागच्छतम् ॥ प्रेणिम् । 'प्रेणृ गतिप्रेरणश्लेषणेषु' । औणादिक इप्रत्ययः ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,34 +128,34 @@ genre M;; repeated line
 Viśpalā was the wife of Khela, son of **Agastya**. Vaśa and **Asva** were ṛṣis
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you revived Viśpalā, to pursue the way, to gain the  stakes in the contest with a thousand battle-prizes,  
 with which you helped Vaśa Aśvya and Preṇi [?]—with those forms of  help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 atharvī́- as ‘den Weg verfolgend’ from Hoffmann (see EWA I.805 and Scarlatta 496-97). Geldner’s “pfeilschnelle (?)” is distinctly odd, and I don’t know the basis for his interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye helped, in battle of a thousand spoils, Vispala seeking booty, powerless to move.  
      Wherewith ye guarded friendly Vasa, Asva's son,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr die Vispala, die preisgewinnende, pfeilschnelle, in dem Wettkampf um Tausend als Kampfpreis erquicket, mit denen ihr dem Vasa Asva, dem Preni beistandet, mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die ihr halft im tausendfach verschlungnen Kampf der Viçpala, der gabenreichen Priesterin, Durch die dem lieben Vaça Açvia ihr halft, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) Вишпалу, не могущую двигаться (?), (сделали) завоевывающей награду,  
 Оживили в состязании, где ставка тысяча,  

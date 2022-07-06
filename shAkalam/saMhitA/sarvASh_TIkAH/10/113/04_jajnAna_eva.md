@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जज्ञान꣡ एव꣡ वि꣡ अबाधत स्पृ꣡धः  
 प्रा꣡पश्यद् वीरो꣡ अभि꣡ पउं꣡सियं र꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡स्तभ्नान् ना꣡कं सुअपस्य꣡या पृथु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अवृ॑श्चत् । अद्रि॑म् । अव॑ । स॒ऽस्यदः॑ । सृ॒ज॒त् । अस्त॑भ्नात् । नाक॑म् । सु॒ऽअ॒प॒स्यया॑ । पृ॒थुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jajñāna* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
@@ -121,36 +121,36 @@ genre M
 स इन्द्रः **जज्ञान** **एव** ॥  ‘ जनी प्रादुर्भावे' । छान्दसस्य लिटः कानच् ॥ जायमाना एव **स्पृधः** शत्रून् **व्यबाधत** अत्यर्थमपीडयत् ॥ स्पृधः ।  ‘ स्पर्ध संघर्षे । क्विप।  ‘ अपस्पृधेथाम् । इति निपातनेनैकत्र संप्रसारणदर्शनादत्रापि भवति ॥ अत एव **वीरः** समर्थः सः **रणं** संग्रामम् अभिलक्ष्य **पौंस्यम्** आत्मीयं बलं **प्रापश्यत्** । अस्यैतावद्बलमिति प्रकर्षेण पश्यति । जानाति । किंच **अद्रिं** मेघम् **अवृश्चत्** वर्षणार्थमच्छिनत् । अनन्तरं **सस्यदः** ॥  ‘ स्यन्दू प्रस्रवणे'। क्विप् । शसि नलोपः । सह स्यन्दमाना अपः **अव** **सृजत्** अवाङ्मुखमसृजत् निरामयत्। तथा सः **पृथुं** महान्तं **नाकं** लोकं **स्वपस्यया** ॥ सुप आत्मनः क्यच् । अ प्रत्ययात् ' ( पा. सू. ३.३.१०२) इति स्त्रियामप्रत्ययः ॥ शोभनकर्मेच्छया अस्तभ्नात् । निरुद्धमकरोत् ॥ स्तम्भिः सौत्रो धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as born he discomfited his assailants; the hero contemplated his own manly prowess in war;he divided the cloud, sent forth the flowing waters, and with the determination to do a good deed, upheld the vastheaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On just being born, he thrust aside the challengers. The hero looked  forward to his masculine power, to battle.  
 He split the stone; he discharged the flowing streams downward. He  propped the broad firmament with his skillful work.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soon as he sprang to life he forced asun. der hosts: forward the Hero looked to manly deed and war.  
      He cleft the rock, he let concurrent streams flow forth, and with his skilful art stablished the heavens' wide vault.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eben geboren verjagte er die Gegner; der Held schaute nach weiterer Mannestat, nach Kampf aus. Er spaltete den Fels, ließ die Flüsse laufen; er stützte das breite Firmament mit Geschicklichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er geboren, stiess der Held die Feinde fort und sah sogleich sich um nach Mannesthat und Kampf; Den Fels zerbrach er und liess frei die strömenden, die weite Himmelswölbung stützte er mit Kunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва родившись, он оттеснил противников.  
 Герой смотрел вперед навстречу подвигу мужества, радости битвы.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ षु꣡ अर्यः꣡ पउं꣡सियैर् भवेम  
 दियउ꣡र् न꣡ भू꣡मिं गिर꣡यो न꣡ अ꣡ज्रान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 ता । नः॒ । विश्वा॑नि । ज॒रि॒ता । चि॒के॒त॒ । प॒रा॒ऽत॒रम् । सु । निःऽऋ॑तिः । जि॒ही॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -128,36 +128,36 @@ popular;; repeated line
 वयम् **अर्यः** अरीन् शत्रून् **पौंस्यैः** पुंस्त्वैः बलैः **सु** सुष्ठु **अभि** **भवेम**। द्यौर्न **भूमिं** सूर्यो यथा स्वरश्मिभिर्भूमिमभिभवति तद्वत् । **गिरयो** **नाज्रान्** । गिरिर्वज्रः । ते यथा अज्रान् अजनशीलान् मेघानभिभवन्ति तद्वत् । **ता** तानि यानि **नः** अस्माभिः कृतानि स्तोत्राणि तानि **विश्वानि** सर्वाणि **जरिता** स्तुता सती **निर्ऋतिः** **चिकेत** जानाति । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, by our manly exertions, overcome our enemies, as the Sun the earth, as thunderbolts theclouds; she, being praised, knows all these our (exploits); may **Nirṛti** depart far off.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we surmount (the manly powers) of the stranger with our manly  powers, as Heaven does Earth, as the mountains the plains.  
 The singer perceives all these of ours. – Let Dissolution move herself  farther away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we o'ercome our foes with acts of valour, as heaven is over earth, hills over lowlands.  
      All these our deeds the singer hath considered. Let Nirrti depart to distant places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen fein die Nebenbuhler an Kräften überragen wie der Himmel die Erde, wie die Berge die Ebenen! Das alles versteht unser Sänger. - Die Nirriti soll sich recht weit weg heben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen alle Feinde überragen, wie Erd' der Himmel, wie der Berg die Fluren, Das alles mög' erfahren unser Sänger; die Todesgöttin möge fernhin weichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим можно превзойти врагов силами мужества,  
 Как небо – землю, как горы – равнины!  

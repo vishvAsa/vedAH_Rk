@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न इन्दर+ ऊति꣡भिर् अव  
 पाहि꣡ गृणतः꣡ शूर कारू꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पिप्रीहि꣡ म꣡ध्वः सु꣡षुतस्य चा꣡रोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । त्वच॑म् । दद॑तः । वाज॑ऽसातौ । पि॒प्री॒हि । मध्वः॑ । सुऽसु॑तस्य । चारोः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -114,20 +114,20 @@ genre M
 हे **शूर** **इन्द्र** **एव** एवं 'नः अस्मान् **गृणतः** स्तुवतः **कारून्** कर्तॄनृत्विजः **ऊतिभिः** रक्षणैः **अव** पालय । **उत** अपि च **वाजसातौ** संग्रामे **त्वचम्** आच्छादकं रूपं **ददतः** प्रयच्छतः **सुषुतस्य** सुष्ठ्वभिषुतस्य **चारोः** मनोहरस्य **मध्वः** सोमस्य **पिप्रीहि** प्रीणयात्मानम् । द्वितीयार्थे षष्ठी । उक्तलक्षणं सोमं पिबेत्यर्थः । अथवा तृतीयार्थे षष्ठी । उक्तलक्षणेन सोमपानेन प्रीणय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, with your protection defend us, praising and worshipping (you), and be propitiated (by drinking) of the well-effused and agreeable **Soma** juice that yields (a defensive) covering in combat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So, help us, Indra, with your help. Protect the singers, the bards, o  champion.  
 And please those giving the skin of the dear, well-pressed honey at the  winning of prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. provides a transition between the praise-hymn proper and the dānastuti. On the one hand, it straightforwardly makes requests of Indra, as hymnfinal vss. tend to do, and it begins with evā́, a frequent introducer of the final summary vs., but it also turns its attention in cd to those who facilitate the sacrifice, i.e., the patrons. The participle dádataḥ ‘giving’ that characterizes them is telling. Geldner suggests that the dānastuti begins with 7c and notes that like 7c the vss. of the dānastuti begin with utá.
 
@@ -136,23 +136,23 @@ The meter of the first hemistich is badly mangled. Oldenberg blames the poet “
 Geldner suggests plausibly that the “skin of the honey” is the skin on which the soma is prepared.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus favour us, O Indra, with ihy succour; Hero, protect the bards who sing thy praises.  
      Be friendly in the fray to those who offer the skin of beautiful and well-pressed Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So begnade uns, Indra, mit deinen Gnaden; schütze, du Held, die lobsingenden Dichter, und stelle die zufrieden, die bei der Auslohnung das Fell des wohlgepreßten, willkommenen Süßtrankes verschenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hilf uns denn mit deinen Hülfen, Indra, und schütz, o Held, die Dichter, die dich preisen; Geniess vom lieben, süssen, schöngebrauten dess, der beim Mahl den Somaschlauch dir brachte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержи нас так, о Индра, (своими) поддержками!  
 Защити, о герой, воспевающих поэтов,  

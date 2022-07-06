@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वाचीनो꣡ वसो भव  
 अस्मे꣡ सु꣡ मत्सुवा꣡न्धसः  
 सो꣡मानाम् इन्द्र सोमपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सोमा॑नाम् । इ॒न्द्र॒ । सो॒म॒ऽपाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvācīno* ← *arvācīnaḥ* ← *arvācīna*
 - \[noun\], nominative, singular, masculine
@@ -87,36 +87,36 @@ genre M
 हे **वसो** यज्ञनिवासक इन्द्र त्वम् **अस्मे** अस्मासु यजमानेषु **अर्वाचीनः** अभिमुखः **भव** । तथा हे **सोमपाः** सोमानां पातः **इन्द्र** त्वं **सोमानाम्** **अन्धसः** अन्नेन **सु** सुष्ठु **मत्स्व** माद्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Giver of dwellings, be present with us; drinker of the **Soma**, be exhilarated by the beverage of the juices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become inclined toward us, o good one. Among us achieve exhilaration  from the stalk,  
 o Indra, soma-drinker of the soma-juices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Excellent Indra, turn to us: glad thee among us with the juice  
      Of Somas, Soma-drinker thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du Guter uns zugeneigt, berausche dich fein an unserem Trank, du Trinker des Soma, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O guter Indra, sei uns nah, an unserm Trank berausch dich recht, Am Soma, Somatrinker du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обратись в нашу сторону, о Васу!  
 У нас опьяняйся вдоволь соком сомы,  

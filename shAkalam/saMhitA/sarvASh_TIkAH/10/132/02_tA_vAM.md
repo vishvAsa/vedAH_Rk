@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वाम् मित्रावरुणा धारय꣡त्क्षिती  
 सुषुम्ना꣡ इषितत्व꣡ता यजामसि  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 अभि꣡ षियाम रक्ष꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 यु॒वोः । क्रा॒णाय॑ । स॒ख्यैः । अ॒भि । स्या॒म॒ । र॒क्षसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -108,37 +108,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **मित्रावरुणा** मित्रावरुणौ **धारयत्क्षिती** ध्रियमाणभूमिकौ । यद्वा क्षितिरिति मनुहयनाम । हवींषि धारयन्तः क्षितयो मनुष्या ययोः स्वभूतास्तथाविधौ । **सुषुम्ना** सुषुम्नौ सुधनौ सुसुखौ वा **ता** तौ **वां** युवाम् **इषितत्वता** इषितत्वेन । तृतीयैकवचने छान्दसस्तकारोपजनः । यद्वा । भावप्रत्ययान्तात् पुनरपि भावप्रत्ययो विकरणद्वयवत् । इषितव्यत्वेन प्राप्तव्यत्वेन । हेतौ तृतीया । यतो युवां देवेषु मध्ये प्राप्तव्यौ ततो हेतोः **यजामसि** हविर्भिर्यजामः । इदन्तो मसि' इति मस इकारागमः । एवं च **युवोः** युवयोः **सख्यैः** सखित्वैः । सख्युर्यः । **क्राणाय** कुर्वते यजमानाय । करोतेः शानचि छान्दसो विकरणस्य लुक् । तादर्थ्ये चतुर्थी । यजमानार्थं **रक्षसः** यज्ञस्य बाधकान् राक्षसान् **अभि** **ष्याम** अभिभवेम । ' उपसर्गप्रादुर्भ्याम् (पा. सू. ८. ३. ८७ ) इत्यस्तेः सकारस्य षत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, who sustain the earth, we worship you, the givers of felicity, for the sake ofattaining our desires; may we, through your favour for the performer (of the sacrifice), overcome the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By reason of the (ritual) prompt we sacrifice to you two, o Mitra and  Varuṇa, who uphold the communities and offer good favors.  
 By your comradeship for the man who performs (ritual) for himself  
 might we prevail over demons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such we honour you, Mitra and Varuna, with hasty zeal, most blest, you who sustain the folk.  
      So may we, through your friendship for the worshipper, subdue the fiends.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide, Mitra und Varuna, die Völkererhalter, die gnadenreichen, verehren wir, weil wir dazu beauftragt sind. Durch eure Freundschaftsdienste möchten wir für den Mitwirkenden die Unholde bemeistern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als solche verehren wir euch, o Mitra-Varuna, die ihr die Völker beschirmt und huldreich seid mit Bereitwilligkeit; durch eure Freundschaft für den thätigen [Opferer] mögen wir die Nachtgespenster besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас двоих, о Митра-Варуна, таких поддерживателей народов,  
 Очень милостивых, мы почитаем с воодушевлением.  

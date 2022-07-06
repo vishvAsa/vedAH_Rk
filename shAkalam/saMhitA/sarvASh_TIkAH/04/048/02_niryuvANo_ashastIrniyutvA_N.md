@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निर्युवाणो꣡ अ꣡शस्तीर्  
 नियु꣡त्वाँ इ꣡न्द्रसारथिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 याहि꣡ सुत꣡स्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वायो॒ इति॑ । आ । च॒न्द्रेण॑ । रथे॑न । या॒हि । सु॒तस्य॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niryuvāṇo* ← *niryuvāṇaḥ* ← *niryu* ← *√yu*
 - \[verb noun\], nominative, singular
@@ -90,7 +90,7 @@ genre M;; repeated line
 हे **वायो** त्वम्  **अशस्तीः** अभिशस्तीः **निर्युवाणः** निःशेषेण नियोजयन् **नियुत्वान्** नियुत्संज्ञकाश्ववान् **इन्द्रसारथिः** इन्द्रसहायः सन्  ”आ **याहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,34 +101,34 @@ genre M;; repeated line
 Who are the represser of calumnies: nir yurvāṇo aśastiḥ = abhiśastir nihśeṣeṇa niyojayan
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Taking taunts out of harness, (but yourself) provided with a team, with  Indra as charioteer,  
 o Vāyu, drive here with your glittering chariot, to drink of the pressed  (soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The poet’s playfulness continues. The qualifier niyútvan-, ‘possessing a team’, common in these Vāyu contexts (see in this hymn sequence III.46.2, 47.1, 47.3) opens pāda b; the preceding pāda opens with a near phonological match, niryuvāṇáḥ -- a participle to the same verb with a preverb that is only minimally different from ní. (The lexeme nír √yu is found only here.) It should mean ‘disjoin, disband’. My ‘take out of harness’ is an attempt to convey the play on niyútvan-: Vāyu ‘unteams’ the áśāstīḥ, while himself coming with his team.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Removing curses, drawn by teams, with 1ndra, seated by thy side,  
      O Vayu, on refulgent car come to the drinking of the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Afterreden abwendend, mit den Niyutgespannen und mit Indra als Wagenlenker komm, Vayu, auf schimmerndem Wagen zum Trunke des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verjagend die Verwünschenden mit Indra fahrend, vielbespannt, Auf lichtem Wagen komme her, o Vaju, zu des Saftes Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Устраняя слова бесчестья,  
 С упряжками (-дарами), с Индрой-возницей,  

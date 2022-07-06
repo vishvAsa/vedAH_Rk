@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वो देवाश् चकृम꣡ जिह्व꣡या गुरु꣡  
 म꣡नसो वा प्र꣡युती देवहे꣡ळनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡स्मिन् त꣡द् ए꣡नो वसवो नि꣡ धेतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अरा॑वा । यः । नः॒ । अ॒भि । दु॒च्छु॒न॒ऽयते॑ । तस्मि॑न् । तत् । एनः॑ । व॒स॒वः॒ । नि । धे॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -145,36 +145,36 @@ genre M
 हे **वसवः** वासयितारः **देवाः** **वः** युष्माकं वयं **जिह्वया** वाचा **मनसः** **प्रयुती** प्रयुत्या प्रयोगेण **गुरु** महत् **देवहेळनं** देवक्रोधनं च **यत्** **एनः** **चकृम** अकार्ष्म **यः** अस्मच्छत्रुः **नः** अस्मान् **अभि** प्रति **अरावा** गमनवान् भूत्वा **दुच्छुनायते** पापान्याचरति अस्मानुद्वेजयति वा **तस्मिन्** अस्मच्छत्रौ **तत** **एनः** अस्माभिः कृतं पापं **नि** **धेतन** सूर्यस्याज्ञया निधत्त । स्थापयतेत्यर्थः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever sin, great and exciting the wrath of the gods, we have committed against you, O gods, bythe tongue, or the working of the mind, do you, **Vasu**, transfer that sin to him, who assailing terrifies us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whatever we have done to you, o gods, with our tongue or through  absence of mind, whatever grave (offense) angering the gods,  
 on the ungenerous one who brings misfortune to us, on him set down  this offense, o good ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If by some grievous sin we have provoked the Gods, O Deities, with the tongue or thoughtlessness of heart,  
      That guilt, O Vasus, lay upon the Evil One, on him who ever leads us into deep distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was wir euch, ihr Götter, als schweres Götterärgernis mit der Zunge oder aus der Fahrlässigkeit des Geistes angetan haben, diese Sünde ladet auf den Mißgünstigen ab, ihr Vasu´s, der uns Unheil droht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welche schwere Götterbeleidigung wir an euch, o Götter, begangen haben mit der Zunge oder aus Uebereilung des Herzens, die Schuld, o Gute, werft auf den, der gottlos ist und wider uns Böses im Schilde führt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о боги, мы совершили против вас языком  
 Или вялостью мысли тяжелое оскорбление богов,  

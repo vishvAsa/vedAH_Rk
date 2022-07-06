@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡सिष्ठासः पितृव꣡द् वा꣡चम् अक्रत  
 देवाँ꣡ ई꣡ळाना ऋषिव꣡त् सुअस्त꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मे꣡ देवासो अ꣡व धूनुता व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्री॒ताःऽइ॑व । ज्ञा॒तयः॑ । काम॑म् । आ॒ऽइत्य॑ । अ॒स्मे इति॑ । दे॒वा॒सः॒ । अव॑ । धू॒नु॒त॒ । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasiṣṭhāsaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
@@ -136,35 +136,35 @@ genre M
 **ऋषिवत्** पूर्वं ऋषय इव **देवान्** **ईळानाः** स्तुवन्तः **वसिष्ठासः** वसिष्ठकुलजाता ऋषयः **पितृवत्** वसिष्ठवत् **स्वस्तये** अविनाशाय **वाचं** स्तोत्रम् **अक्रत** कुर्वन्ति । करोतेर्लुङि  मन्त्रे घस इति च्लेर्लुक् । हे **देवासः** देवाः यूयं **कामम्** अस्मदभिलाषम् **एत्य** आगत्य **अस्मे** अस्मासु **वसु** गवादिलक्षणं धनम् **अव** **धूनुत** अभिमुखं प्रेरयत । तत्र दृष्टान्तः । **प्रीताइव** यथा प्रीताः संहृष्टाः। **ज्ञातयः** बन्धवः स्वजनस्य धनं प्रेरयन्ति तद्वद्धविर्दानेन स्तुतिकरणेन च बन्धुष्वस्मासु धनं प्रेरयतेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Vasiṣṭhas have made speech in the manner of their father, invoking  the gods in the manner of that seer for well-being.  
 Like pleased kinsmen, coming here at our desire, shake good things  
 down upon us, o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vasistha's sons have raised their voices, like their sire. Rsi-like praying to the Gods for happiness.  
      Like friendly-minded kinsmen, come at our desire, O Gods, and shake down treasures on us from above.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Vasistha´s haben nach der Väter Weise eine Rede getan, die Götter nach der Rishi Weise zum Heile anrufend. Wie freundliche Verwandte auf den Wunsch eingehend schüttelt, ihr Götter, Güter auf uns herab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sangen die Vasischtha's nach der Väter Art, nach Dichter Art die Götter preisend sich zum Heil; Wie liebe Freunde kommet her auf unsern Wunsch und schüttelt uns, o Götter, reiches Gut herab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

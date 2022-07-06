@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्विषो꣡ ज꣡निमन् रेजत द्यउ꣡  
 रे꣡जद् भू꣡मिर् भिय꣡सा स्व꣡स्य मन्योः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡र्दन् ध꣡न्वानि सर꣡यन्त आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ऋ॒घा॒यन्त॑ । सु॒ऽभ्वः॑ । पर्व॑तासः । आर्द॑न् । धन्वा॑नि । स॒रय॑न्ते । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -116,20 +116,20 @@ genre M
 हे इन्द्र **त्विषः** दीप्यमानस्य **तव** त्वदीये **जनिमन्** जन्मनि सति **द्यौः** अन्तरिक्षं **स्वस्य** त्वदीयात् **मन्योः** कोपात् । पञ्चम्यर्थे षष्ठी । **भियसा** जातभयेन **रेजत** अरेजत् । अकम्पत । **भूमिः** च **रेजत्** कम्पमाना बभूव । **सुभ्वः** महान्तः **पर्वतासः** । पर्वता मेघाः । **ऋघायन्त** सस्यादीनां वृष्टिप्रदानार्थं नियामकेन त्वया अबाध्यन्त । तथा मेघाः **आर्दन्** प्राणिनां पिपासारूपां पीडामहिंसन् । तथा मेघाः **धन्वानि** उदकरहितान् देशान् **आपः** अपः **सरयन्ते** गमयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “At the birth of you who are resplendent, trembled the heaven (and) trembled the earth through fear of your wrath; the mighty clouds were confined; they destroyed (the distress of drought), spreading the waters over the dry plural ces.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At your birth Heaven trembled and Earth flinched in fear of your  turbulence and of the battle fury that is yours.  
 The well-founded mountains throbbed, the wastelands shuddered, and  the waters ran.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in vs. 1, the pair heaven and earth are expressed by two singulars (dyaúḥ, bhū́miḥ), even though, again, there is a dual dvandva available: dyā́vā-bhū́mī.
 
@@ -158,23 +158,23 @@ Its medial ending is an example of -anta replacement of the usual type (cf. Jami
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Heaven trembled at the birth of thine effulgence; Earth trembled at the fear of thy displeasure.  
      The stedfast mountains shook in agitation . the waters flowed, and desert spots were flooded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Himmel zitterte bei deiner Geburt aus Furcht vor deinem Feuer, es zitterte die Erde aus Furcht vor deinem Grimm. Die festen Berge drohten, es senkten sich die Ebenen, die Gewässer entlaufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor deiner Kraft bei der Geburt erbebten aus Furcht vor deinem Zorne Erd' und Himmel; Da zitterten die mächtigen Gebirge, zerstob das Festland und die Wasser rannen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От вспышки при твоем рождении сотрясалось небо,  
 Сотрясалась земля от страха перед твоей яростью.  

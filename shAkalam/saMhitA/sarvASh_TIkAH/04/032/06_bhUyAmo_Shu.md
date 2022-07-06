@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भूया꣡मो षु꣡ तुवा꣡वतः  
 स꣡खाय इन्द्र गो꣡मतः  
 यु꣡जो वा꣡जाय घृ꣡ष्वये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 युजः॑ । वाजा॑य । घृष्व॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūyāmo* ← *bhūyāma* ← *bhū*
 - \[verb\], plural, Aorist optative
@@ -82,35 +82,35 @@ genre M
 हे **इन्द्र** **त्वावतः** त्वत्सदृशस्य **गोमतः** गोभिर्युक्तस्य देवस्य संबन्धिनः **सखायः** स्तोतारो वयं **घृष्वये** महते **वाजाय** अन्नाय **युजः** संयुक्ताः **सु** सुष्ठु **भूयामो** भवामैव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, **Indra**, be the friends of one like you, possessed of cattle, allied (to him) for (the sake of) abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be comrades of one like you, Indra, possessed of cows, and be your yokemates for the sake of the thrilling prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we be friends of one like thee, O Indra, with the wealth of kine,  
      Comrades for lively energy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten fein die Freunde eines Rinderbesitzers gleich dir sein, o Indra, deine Verbündeten zu dem mit Ungeduld erwarteten Gewinn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich liebend, Indra, seien wir Genossen dir, an Rindern reich, Vereint zu lust'gem Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим стать хорошими друзьями,  
 О Индра, такого, как ты, повелитель коров,  

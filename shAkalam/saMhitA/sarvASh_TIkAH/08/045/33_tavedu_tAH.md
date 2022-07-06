@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वे꣡द् उ ताः꣡ सुकीर्त꣡यो  
 अ꣡सन्न् उत꣡ प्र꣡शस्तयः  
 य꣡द् इन्द्र मॄळ꣡यासि+ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । इ॒न्द्र॒ । मृ॒ळया॑सि । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -95,36 +95,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र त्वं **नः** अस्मान् **यत्** याभिः **मृळयासि** सुखयसि **ताः** **सुकीर्तयः** शोभनाख्यातयः **तवेत्** तवैव **असन्** भवेयुः । **उत** अपि च ताः **प्रशस्तयः** स्तुतयश्च तवैव भवेयुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yours be those ascriptions of praise, your those hymns, through which, **Indra**, you bless us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just yours will be these glorifications and encomia,  
 when, Indra, you will be merciful to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine then shall be this high renown, thine shall these lofty praises be,  
      When, Indra, thou art kind to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur dir sollen diese Lobeserhebungen und Preisungen gelten, auf daß du, Indra, uns gnädig sein mögest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch diese Lieder seien dein, und dein die Preisgesänge auch, Damit du, Indra, hold uns seist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти прекрасные воспевания  
 И прославления пусть будут только твоими,  

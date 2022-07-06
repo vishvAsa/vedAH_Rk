@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा सोम द्युमाँ꣡ असि  
 वृ꣡षा देव वृ꣡षव्रतः  
 वृ꣡षा ध꣡र्माणि दधिषे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृषा॑ । धर्मा॑णि । द॒धि॒षे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -88,20 +88,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **वृषा** वर्षकस्त्वं **द्युमान्** दीप्तिमान् **असि** । अपि च हे **देव** द्योतमान सोम **वृषा** त्वं **वृषव्रतः** वर्षणशीलकर्मासि । किंच हे सोम **वृषा** त्वं **धर्माणि** देवानां मनुष्याणां च हितानि कर्माणि **दधिषे** धारयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, are the bright sprinkler; you shining (Soma) are the sprinkler whose occupation is sprinkling; you, the sprinkler, sustain the rites (of men and gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A bull are you, Soma, a brilliant one—a bull following his bullish  commandments, o god.  
 As bull, you have established your own foundations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg’s interpr. of vṛ́ṣā in c as a neut. pl. adj. with dhármāṇi seems both unnecessary and unlikely. I know of no other neut. forms of vṛ́ṣan- (the few cited by Oldenberg are not convincing), which suggests to me that, despite its widely accepted classification as an adj., the stem is synchronically a masc. noun, which, however, can be used as an adjunct strengthener of another noun, hence “bull X” as the equivalent of “bullish X” - a usage similar to English ‘horse’ as an augmentative, meaning ‘strong, large, coarse’ (as in, for ex., horseradish). See https://www.etymonline.com/word/horseradish Moreover, since nom. sg.
 
@@ -118,23 +118,23 @@ As noted in the published introduction, this opening tṛca is marked by the ide
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, thou art a splendid Steer, a Steer, O God, with steerlike sway:  
      Thou as a Steer ordainest laws.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma, du bist der glänzende Bulle, du Gott, der Bulle wie ein Bulle wirkend; du, der Bulle, hast die Bräuche eingesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier empfängst du die Gebühr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुसंदृ꣡शं तुवा वय꣡म्  
 प्र꣡ति पश्येम सूरिय  
 वि꣡ पश्येम नृच꣡क्षसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 वि । प॒श्ये॒म॒ । नृ॒ऽचक्ष॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *susaṃdṛśaṃ* ← *su*
 - \[adverb\]
@@ -86,36 +86,36 @@ popular
 हे **सूर्य** **सुसंदृशं** सुष्ठु संद्रष्टारं **त्वा** त्वां **वयं** **प्रति** **पश्येम** प्रत्येकं द्रष्टारो भूयास्म । तथा **नृचक्षसः** नृभिर्मनुष्यैरस्माभिर्द्रष्टव्यान् पदार्थान् **वि** **पश्येम** विद्रष्टारो भवेम । यद्वा । नृचक्षसो नृणां शत्रुमनुष्याणां हिंसकाः सन्तो वयं विशिष्टज्ञाना भवेम ॥ ॥१ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we look upon you, **Sūrya**, the bright beholder (of all), may we look into the things which arevisible to mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we look toward you, wholly good to see, o Sun.  
 May we, (though) we have the eyes of men [/(because) we possess the  “eye of men” (=sun)], see distinctly.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus, Surya, may we look on thee, on thee most lovely to behold,  
      See clearly with the eyes of men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Surya, der schön zu schauen, möchten wir wieder sehen, möchten wir genau sehen mit den Augen eines Herrn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich lasse uns, o Sonne, schaun, dich, die du schön zu schauen bist, Mit Männeraugen lass uns schaun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебе, столь приятному на вид, мы  
 Хотим смотреть в лицо, о Сурья,  

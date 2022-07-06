@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हो꣡ताध्वर्यु꣡र् आ꣡वया अग्निमिन्धो꣡  
 ग्रावग्राभ꣡ उत꣡ शं꣡स्ता सु꣡विप्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡इष्टेन वक्ष꣡णा आ꣡ पृणध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तेन॑ । य॒ज्ञेन॑ । सुऽअ॑रङ्कृतेन । सुऽइ॑ष्टेन । व॒क्षणाः॑ । आ । पृ॒ण॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotādhvaryur* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ popular
 **होता** देवानामाह्वाता एतन्नामकः ऋत्विक् **अध्वर्युः** अध्वरयुः अध्वरस्य नेता सोऽपि आवयाः आभिमुख्येन हविषां गमयिता । अध्वर्योर्विशेषणमेतत् ॥ आङ्पूर्वात् वेतेः असुन पूर्वपदप्रकृतिस्वरत्वं च ॥ यद्वा । आभिमुख्येन अवयष्टा प्रतिप्रस्थाता उच्यते ॥ • अवे यजः ' (पा. सू. ३. २. ७२) इति ण्विन् ।' अवाप्योरुपसर्गयोः' इति अल्लोपः ॥ अग्निमिन्धः अग्नीत् ॥ ‘भ्राष्टाग्न्योरिन्धे' ( पा. सू. ६. ३. ७०. ६) इति मुम् ॥ **ग्रावग्राभः** । ग्राव्णः स्तुत्या गृह्णातीति ग्रावस्तुत् ॥ कर्मण्यण् ॥ **उत** अपि च **शंस्ता** प्रशास्ता। **सुविप्रः** इति मेधाविनाम । शोभनमेधोपेतो ब्रह्मोच्यते। ‘ब्रह्मा त्वो वदति जातविद्याम्' (ऋ. सं. १०. ७१. ११) इत्यत्र ‘ब्रह्मैको जातेजाते विद्यां वदति ब्रह्मा सर्वविद्यः सर्वं वेदितुमर्हति' ( निरु. १. ८) इत्युक्तत्वात् ब्रह्मा एव सुविप्रशब्देनाभिधेयः । स चानुक्तर्त्विगुपलक्षकः । एते सर्वे **तेन** प्रसिद्धेन **स्वरंकृतेन** सुष्ठ्वरणीयं कृतेन स्वलंकृतेन वा उच्चारसौष्ठवादिना सुष्ठु संपादितेन **स्विष्टेन** सुष्ठु इष्टेन **यज्ञेन** **वक्षणाः** अभितो घृतकुल्यादीन्' प्रवहणस्वभावाः प्रसिद्धा नदीर्वा **आ** **पृणध्वं** सर्वतः पूरयत यज्ञं सम्यग्निर्वत्यै फलं साधयतेत्यर्थः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ Grāvagrābha = the praiser of the stones that bruise the Soma,or he who applies
 Suvipra = **Brahmā** (brahmaiko jāte jāte vidyām vadatibrahmā sarvavidyaḥ **sarva** veditumarhati: **Nirukta** 1.8); replenish the rivers: **vakṣaṇā** apṛṇadhvam, **nadīḥ** pūrayata, fill the rivers; the consequence of sacrifice being rain and fertility; or, it may mean, offer rivers of butter, milk, curds, and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Hotar, the Adhvaryu, the Expiator [?], the Fire-kindler, the  Handler of the Pressing-stones, and the well-inspired Reciter—  
 with this sacrifice, well prepared and well offered, fill your bellies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The list of priests contains the hapax ā́vayā(ḥ), whose derivation and meaning are unclear. For suggestions and disc. see, e.g., Oldenberg, Geldner, Renou I tentatively favor a connection with áva √yā ‘propitiate, expiate’, but the form presents grave difficulties for that analysis. For one thing, we should expect a root-noun cmpd.
 
@@ -150,23 +150,23 @@ However, it can be pointed out that this lexeme is mutilated elsewhere -- e.g., 
 There is a mild disconnect between the two hemistichs: the first half is a list entirely in the nominative, but the second contains a 2nd pl. impv. ā́pṛṇadhvam, whose 2nd ps. subjects should be the nominatives of ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invoker, ministering priest, atoner, fire-kindler Soma-presser, sage, reciter,  
      With this well ordered sacrifice, well finished, do ye fill full the channels of the rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hotri, Adhvaryu, der Avayaj, der Agnimindha (Feueranzünder), Gravagrabha (Preßsteinhalter) und der redegewandte Samstri (Vortrager), - füllet ihr mit diesem wohlbereiteten, wohlgeopferten Opfer eure Bäuche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Priester, der Opferdiener, der Vertheiler des Opfers, der Feuerentzünder, der Beweger der Presssteine und der begeisterte Lobsänger, ihr alle füllt mit diesem schön zugerüsteten, schön bereiteten Opfer eure Bäuche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хотар, адхварью, жрец, отгоняющий жертвой (опасность), зажигатель огня,  
 Держатель давильных камней, а также вдохновенный произноситель -  

@@ -8,7 +8,7 @@ title = "+066"
 ‘रयिः' इति दशर्चं द्वैपदमध्ययनतः पञ्चर्चं द्वितीयं सूक्तं पराशरस्यार्षमाग्नेयम् । अनुक्रान्तं च --’ रयिः' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 66  
 Agni  
@@ -20,7 +20,7 @@ ence to Agni set in the earlier parts of the hymn (and our interpretation theref
 Note the ring-compositional element, the “sight of the sun,” in the first half of  verse 1 and the last words of verse 10. This double mention may support our inter pretation of verse 8 as mentioning the risen sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

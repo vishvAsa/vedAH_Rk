@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मा इ꣡द् आसि꣡ये हवि꣡र्  
 जुहो꣡ता म꣡धुमत्तमम्  
 इ꣡ळां नः संय꣡तं करत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 इळा॑म् । नः॒ । स॒म्ऽयत॑म् । क॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -88,36 +88,36 @@ genre M
 **तस्मा** **इत्** तस्मा एव पर्जन्याय **आस्ये** देवानामास्यभूतेऽग्नौ **मधुमत्तमं** रसवत्तमं **हविः** **जुहोत** जुहुत हे ऋत्विजः । स च पर्जन्यः **नः** अस्मभ्यम् **इळाम्** अन्नं **संयतं** सम्यग्नियतं यथा भवति तथा **करत्** करोतु । ददात्विति यावत् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer verily to him by the mouth (of the gods, **Agni**), the most savoury oblation, so that he may yield usfood unfailingly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to him, in his mouth, pour a most honeyed oblation.  
 He will make lasting refreshment for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Offer and pour into his mouth oblation rich in savoury juice:  
      May he for ever give us food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm opfert in den Mund die süßeste Spende! Er bereite uns andauerndes Labsal.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm giesset recht in seinen Mund den honigsüssen Opferguss, Er schaffe stete Nahrung uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему в рот возлейте  
 Жертвенное возлияние, самое сладкое!  

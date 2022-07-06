@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्तिदा꣡ विश꣡स् प꣡तिर्  
 वृत्रहा꣡ विमृधो꣡ वशी꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सोमपा꣡ अभयंकरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 वृषा॑ । इन्द्रः॑ । पु॒रः । ए॒तु॒ । नः॒ । सो॒म॒ऽपाः । अ॒भ॒य॒म्ऽक॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svastidā* ← *svasti*
 - \[noun\], neuter
@@ -106,14 +106,14 @@ popular;; epic anuṣṭubh (292)
 **स्वस्तिदाः** स्वस्तेरविनाशस्य दाता **विशस्पतिः** सर्वस्याः प्रजायाः पालयिता **वृत्रहा** वृत्राणां शत्रूणां हन्ता **विमृधः** संग्रामकारी **वशी** वशीकर्ता **वृषा** वर्षिता कामानां **सोमपाः** सोमस्य पाता एवंविधः **इन्द्रः** **अभयंकरः** अभयस्य  भयराहित्यस्य कर्ता सन् **नः** अस्माकं **पुर** **एतु** पुरतो गच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, the granter of prosperity, the lord of men, the slayer of **Vṛtra**, the warrior, the subduer, theshowerer, the drinker of the **Soma**, the assurer of safety, come to our presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the lord of the clan who gives well-being, the Vr̥tra-smasher,  
 (smasher) of the scornful, exerting his will—  
@@ -121,23 +121,23 @@ let the bull Indra go before us, the soma-drinker, the creator of
 fearlessness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the clan, who brings us bliss, Strong, Warrior, Slayer of the fiend,  
      May India, Soma-drinker, go before us, Bull who gives us peace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der heilspendende Clanherr, der Vritratöter, der die Verächter vertreibt, der Gebieter, der Bulle Indra soll uns vorangehen, der Somatrinker, der Sicherheit schafft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als Stier geh Indra uns voran, der Soma trinkt und Frieden schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дающий счастье господин племен,  
 Убийца Вритры, гонитель тех, кто презирает (нас), властелин,  

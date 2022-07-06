@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यो꣡ वि꣡श्वानि वा꣡रिया  
 व꣡सूनि ह꣡स्तयोर् दधे꣡  
 म꣡देषु सर्वधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मदे॑षु । स॒र्व॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **यः** सोमः **विश्वानि** **वार्या** वरणीयानि **वसूनि** धनानि स्तोतुः **हस्तयोः** **आ** **दधे** करोति । प्रयच्छतीत्यर्थः । **मदेषु** **सर्वधा** **असि** इति । अथवा स शुष्मी इत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You are he) who plural ces in the **hands** (of the worshipper) all desirable riches, you are the giver of all things to those who praise you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who holds all desirable good things in his two hands—  
 – You are the one who confers wholeness in the raptures of exhilaration.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -119,23 +119,23 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who containeth in his hands all treasures much to be desired:  
      All-bounteous art thou in carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der alle begehrenswerten Schätze in seinen Händen hält. - Im Rausche bist du der Allgewährer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In seine Hände sind gelegt, Die schönen Schätze allzumal; Bei den Gelagen schenkst du Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто все желанные блага  
 Держит в (своих) руках, –  

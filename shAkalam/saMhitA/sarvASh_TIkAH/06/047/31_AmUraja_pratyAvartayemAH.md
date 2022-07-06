@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡मू꣡र् अज प्रतिआ꣡वर्तयेमाः꣡  
 केतुम꣡द् · दुन्दुभि꣡र् वावदीति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡कम् इन्द्र रथि꣡नो जयन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सम् । अश्व॑ऽपर्णाः । चर॑न्ति । नः॒ । नरः॑ । अ॒स्माक॑म् । इ॒न्द्र॒ । र॒थिनः॑ । ज॒य॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āmūr* ← *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ popular
 अस्याः पूर्वार्धो दुन्दुभिदेवत्य उत्तरार्धश्चैन्द्रः । यद्वा । उभावप्यर्धर्चावेन्द्रौ। हे इन्द्र **अमूः** शत्रुषु स्थितास्ता गाः **आ** **अज** अस्मान् प्रत्यागमय । **इमाः** अस्मदीया गाः शत्रुभिर्जिघृक्षिताः **प्रत्यावर्तय** प्रतिनिवर्तय । अयं च **दुन्दुभिः** **केतुमत्** प्रज्ञानवत् यथा सर्वैर्ज्ञायते तथा **वावदीति** भृशं शब्दं करोति । **अश्वपर्णाः** अश्वपतना अश्ववाहाश्च **नः** अस्मदीयाश्च **नरः** पुरुषाः **सं** **चरन्ति** शत्रुभिर्युध्यमाना वर्तन्ते । तथा सति हे **इन्द्र** **अस्माकं** **रथिनः** रथारूढाः पुरुषाः शत्रून् **जयन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ popular
 **Yajus**. 29, 55-57 has this and thr preceding two ṛcas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive those yonder [=cows] hither and make the ones here turn back.  The Drum keeps speaking, giving the signal.  
 Our men, with horses as their wings, are converging: (so) let our  
 charioteers win, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner explains pāda a persuasively as “Raub und Wiederraub der Kühe,” with the ‘yonder ones’ (amū́ḥ) those belonging to the enemy and the ones here (imā́ḥ) our own.
 
@@ -149,23 +149,23 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive hither those, and these again bring hither: the War-drum speaks aloud as battle's signal.  
      Our heroes, winged with horses, come together. Let our car-warriors, Indra, be triumphant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Treibe jene Kühe her, bring diese zurück! Die Pauke dröhnt Signale gebend. Wenn unsere rossebeflügelten Herren sich sammeln, so mögen unsere Wagenkämpfer siegen, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her treibe jene, jage rückwärts diese, mit lautem Schall ertönet diese Pauke; auf Rossen fliegend eilen unsre Männer; lass, Indra, unsre Wagenkämpfer siegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тех (коров) прогони, этих верни!  
 Громко звучит барабан, пронзительно.  

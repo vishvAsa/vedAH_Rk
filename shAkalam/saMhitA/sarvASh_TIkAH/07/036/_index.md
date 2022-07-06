@@ -14,7 +14,7 @@ title = "+036"
 अथ पञ्चमाष्टके चतुर्थोऽध्याय आरभ्यते । तत्र षडनुवाकात्मकस्य वासिष्ठस्य सप्तमस्य मण्डलस्य तृतीयेऽनुवाके द्वाविंशतिसूक्तानि । तत्र ‘प्र ब्रह्म' इति नवर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं पूर्ववद्वैश्वदेवम् । अनुक्रान्तं च--- प्र ब्रह्म नव ' इति । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 36 (552)  
 All Gods  
@@ -28,7 +28,7 @@ The hymn can also be read as a chronological progress through a sacrifice. In  v
 (see also vs. 3) or to other ritual uses of water. The final three verses (7–9) call upon  the various gods for wealth and progeny.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods As noted in the published introduction, this hymn can be read as a progress through a sacrifice. Renou (EVP IV.97) follows Hillebrandt in seeing it as a “récitation du pressurage vespéral.” Hillebrandt (Myth. II.128 n. 3) in fact considers it as forming, with VII.37.1-7 and VII.38, an old śāstra for the Evening (or Third) Pressing.
 

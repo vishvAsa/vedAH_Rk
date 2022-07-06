@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते अग्न ऋचा꣡ हवि꣡र्  
 हृदा꣡ तष्ट꣡म् भरामसि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऋषभा꣡सो वशा꣡ उत꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 ते । ते॒ । भ॒व॒न्तु॒ । उ॒क्षणः॑ । ऋ॒ष॒भासः॑ । व॒शाः । उ॒त ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -110,7 +110,7 @@ popular;; epic anuṣṭubh (424)
 अनयाध्ययनं प्रशस्यत इत्याश्वलायनो मन्यते (आश्व. गृ. १. १. ५)। हे **अग्ने** **ते** तुभ्यं **हृदा** हृदयेन **तष्टं** संस्कृतम् **ऋचा** ऋग्रूपेण वर्तमानं हविः ऋचमेव हविः कृत्वा **आ** **भरामसि** आहरामः । त इति तच्छब्देन प्रकृतमृग्रूपं हविः परामृश्यते । प्रतिनिर्दिश्यमानापेक्षया पुंस्त्वबहुत्वे । ऋग्रूपं तद्धविः **ते** तुभ्यम् **उक्षणः** उक्षाणः सेचनसमर्थाः **ऋषभासः** ऋषभाः **उत** अपि च **वशाः** च **भवन्तु** । ऋषभवशारूपेण परिणतं सत् त्वद्भक्षणाय भवत्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ popular;; epic anuṣṭubh (424)
 May the vigorous bulls and the cows: te te bhavantu ūkṣaṇa rṣabhāso **vaśā** uta, may these vigorous bulls or the cows be for you; an intimation of their being offered to Agni as victims rṣabhavaṣārūpeṇa pariṇatam san tvabhakṣa **ṇāya** (havir) bhavatu, let the oblation, matured in the form of bulls or cows, be for your food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here to you, Agni, we bring with a verse an oblation fashioned by  our heart:  
 let the oxen, bulls, and mated cows be yours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Bloomfield (ad V.6.5) proposes tr. our passage “We bring ... oblation with song fashioned in the mind,” suggesting that “the cases of ṛcā́and havíḥ are inverted.” This is certainly true at the level of deep-structure formula: hṛdā́taṣṭá- “fashioned by the heart” normally modifies a verbal product, e.g. I.171.2 stómo hṛdā́taṣṭáḥ. But, as so often, the poet is playing with our expections by producing a twist on the standard phraseology.
 
@@ -139,23 +139,23 @@ This long hymn (or the short final tṛca) seems to end with a buried poetic sig
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, we bring thee, with our hymn, oblation fashioned in the heart.  
      Let these be oxen unto thee, let these be bulls and kine to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir bringen dir, o Agni, mit einem Vers ein Opfer, das mit dem Herzen gedichtet ist, denn das sollen deine Ochsen, Stiere und Kühe sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir bringen dir, o Agni, unter Gesang den aus liebendem Herzen bereiteten Trank dar; dein seien auch diese Ochsen, Stiere und Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебе, о Агни, мы приносим  
 Вместе с гимном возлияние, созданное в сердце.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ स्व꣡सॄर् अ꣡रुषीर् वावशानो꣡  
 विद्वा꣡न् म꣡ध्व उ꣡ज् जभारा दृशे꣡ क꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इछ꣡न् वव्रि꣡म् अविदत् पूषण꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न्तः । ये॒मे॒ । अ॒न्तरि॑क्षे । पु॒रा॒ऽजाः । इ॒च्छन् । व॒व्रिम् । अ॒वि॒द॒त् । पू॒ष॒णस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], accusative, plural, feminine
@@ -117,7 +117,7 @@ genre M
 **वावशानः** कामयमानो वाश्यमानः स्तोतृभिः स्तूयमानो वा **विद्वान्** सर्वं जानानः सोऽग्निः **अरुषीः** अरोचमानाः **सप्त** सप्तसंख्याकाः **स्वसॄः** स्वयंसारिणीः  ‘ काली कराली च' ( मु. उ. १. २. ४ ) इत्यादिकाः सप्त जिह्वाः **मध्वः** मदकरात् यज्ञात् **उज्जभार** उज्जहार । ऊर्ध्वं हृतवान् । यज्ञे स्वतेजसा प्रादुर्भूत इत्यर्थः । किमर्थम् । **कं** सुखेन **दृशे** सर्वेषामेव पदार्थानां दर्शनार्थम् । किंच **पुराजाः** पुराजातः सोऽग्निर्द्यावापृथिव्योः **अन्तः** मध्ये **अन्तरिक्षे** स्थितः ता जिह्वाः  **येमे** नियमितवान् । सर्वत्र तेजोयुक्तो वर्तत इत्यर्थः । अपि च **इच्छन्** यजमानान् कामयमानोऽग्निः **पूषणस्य** । पूषेति पृथिवीनाम। पार्थिवस्य लोकस्य **वव्रिं** रूपं पृश्निवर्णम् **अविदत्** प्रायच्छत् । यद्वा । ‘मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन्' (ऋ. सं. १०.८८.६ ) इति मन्त्रान्तरे दर्शनादादित्यात्मनाग्निः स्तूयते । कामयमानः सूर्यात्माग्निः सप्तसंख्याकान् स्वसॄ रश्मीन् मध्वः समुद्रोदकादुद्धृतवान् । ततोऽन्तरिक्षे विद्युदात्मना स्थित्वा वृष्टिलक्षणं रूपं पृथिव्याः प्रायच्छदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 From the sacrifice:**madhvaḥ** = yajñāt; or, samudrodakāt; which wheṇ..earth: this line may refer to Agni, as the sun, drawing uphis seven rays from the ocean, and then as lightning in the firmament giving rain to the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having bellowed [/being eager], the knowing one has carried up the seven  ruddy sisters from the honey, to be seen.  
 He held them, born earlier, within the midspace. Seeking a covering, he  has found the one belonging to Pūṣana.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, calling loudly to the Seven red Sisters, hath, skilled in sweet drink, brought them to be looked on.  
      He, born of old, in middle air hath halted, and sought and found the covering robe of Pusan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sieben rötlichen Schwestern hat der Kundige voll Verlangen aus dem Süßen herausgeholt zum Schauen. Der vor alters Geborene hat in der Luft angehalten; ein Versteck suchend hat er des Pusana gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben rothen Schwestern trug er kundig und willig aus dem süssen Trank zum Schauen; Im Raum der Luft hielt an der urgeborne und suchend fand er den Versteck des Puschan.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желая семь рыжих сестер,  
 Знаток вытащил их из меда, чтобы видеть.  

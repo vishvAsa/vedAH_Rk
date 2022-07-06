@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो अस्मा꣡न् मात꣡रः शुन्धयन्तु  
 घृते꣡न नो घृतपु꣡वः पुनन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् इ꣡द् आभ्यः शु꣡चिर् आ꣡ पूत꣡ एमि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विश्व॑म् । हि । रि॒प्रम् । प्र॒ऽवह॑न्ति । दे॒वीः । उत् । इत् । आ॒भ्यः॒ । शुचिः॑ । आ । पू॒तः । ए॒मि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -128,7 +128,7 @@ popular
 **मातरः** जगतो मातृस्थानीयाः **आपः** **अस्मान्** **शुन्धयन्तु** प्रोक्षणेन शोधयन्तु। तथा **घृतप्वः**। घृतमुदकम् । तेनान्यान् पुनन्तीति । तास्तथोक्ता आपः। यद्वा घृतप्वः । घृतं गव्यम् । तेन पुनन्ति । तथा ब्राह्मणं-- घृतेन नो घृतप्वः पुनन्तीति तद्वै सुपूतं यद्घृतेन पूयते' (श. ब्रा. ३.१.२.११ ) इति । ता आपः **घृतेन** प्रत्यक्षेणोदकेन **नः** अस्मान् **पुनन्तु** । **हि** यस्मात् देवीः देव्यो देवनशीला आपः **विश्वं** सर्वं **रिप्रं** पापं **प्रवहन्ति** पुरुषसकाशात् प्रगमयन्ति । अपनयन्तीति यावत् । अनन्तरम् **आभ्यः** अद्भ्यः **आ** **पूतः** अभिमुख्येन शुद्धः सन् स्तोताहम् **उत्** **एमि** उद्गच्छामि । ऊर्ध्वं स्वर्गं गच्छामीत्यर्थः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ Ghṛtapvaḥ =divinities presiding over effused water; or, ghṛta = oiled butt
 Udemi = I go to heaven (**ŚatapathaBrāhmaṇa** 3.1.2.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the waters, the mothers cleanse us; let them, ghee-pure, purify us  with their ghee,  
 for the goddesses carry forth every defilement. I rise up from them  
 gleaming, purified.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Mother Floods shall make us bright and shining, cleansers of holy oil, with oil shall cleanse us:  
      For, Goddesses, they bear off all defilement: I, rise up from them purified and brightened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die mütterlichen Gewässer sollen uns reinigen, sie sollen uns mit Schmalz läutern, die wie Schmalz Geläuterten, denn alles Unreine führen die Göttinnen fort, aus ihnen komme ich rein und lauter heraus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Gewässer, die Mütter, mögen uns reinigen, die Butter läuternden mögen uns mit Butter läutern; denn sie, die Göttinnen, führen jede Unreinigkeit hinweg; aus ihnen gehe ich rein geklärt hervor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воды-матери пусть сделают нас чистыми!  
 Пусть очистят нас жиром (эти) очищающие жиром!  

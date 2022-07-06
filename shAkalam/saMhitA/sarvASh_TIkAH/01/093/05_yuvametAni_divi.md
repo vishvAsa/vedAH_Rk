@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् एता꣡नि दिवि꣡ रोचना꣡नि  
 अग्नि꣡श् च सोम स꣡क्रतू अधत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्नीषोमाव् अ꣡मुञ्चतं गृभीता꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 यु॒वम् । सिन्धू॑न् । अ॒भिऽश॑स्तेः । अ॒व॒द्यात् । अग्नी॑षोमौ । अमु॑ञ्चतम् । गृ॒भी॒तान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -116,7 +116,7 @@ genre D
 हे **सोम** त्वम् **अग्निश्च** **सक्रतू** समानकर्माणौ सन्तौ **युवं** युवां **रोचनानि** रोचमानानि दीप्यमानानि **एतानि** अस्माभिर्निशि दृश्यमानानि ताराग्रहादीनि ज्योतींषि **दिवि** द्युलोके **अधत्तम्** अधारयतम् । उत्तरार्धस्येयमाख्यायिका । इन्द्रो वृत्रं हत्वा ब्रह्महत्याया भीतः सन् पृथिव्यां वृक्षेषु स्त्रीष्वप्सु च तां ब्रह्महत्यां न्यमार्क्षीत् तासामपां शुद्धिरग्नीषोमाभ्यां जातेति । ब्रह्महत्यांशेन पापेन **गृभीतान्** गृहीतानाक्रान्तान् **सिन्धून्** नदीविशेषान् हे **अग्नीषोमौ** युवाम् **अभिशस्तेः** अभिशस्यमानादभितः प्रकटितात् **अवद्यात्** तस्मात् पापात् **अमुञ्चतं** मुक्तवन्तौ। यद्वा। वृत्रः इन्द्रेण हतः सन् नदीषु पपात । ततो मृतेन वृत्रशरीरेण नद्यः सर्वा दुष्टा बभूवुः। तथा च तैत्तिरीयकम् - ‘इन्द्रो वृत्रमहन् सोऽपोऽभ्यम्रियत तासां यन्मेध्यं यज्ञियं सदेवमासीत्तदपोदक्रामत् ' ( तै. ब्रा. ३. २. ५. १ ) इति । तेन दोषेण गृहीता नदीस्तस्माद्दोषादग्नीषोमौ मुक्तवन्तौ ॥ रोचनानि ।' रुच दीप्तौ ।  ‘ अनुदात्तेतश्च हलादेः ' इति युच् । सिन्धून् ।' दीर्घादटि समानपादे' इति नकारस्य रुत्वम् । अत्रानुनासिकः । इति अनुनासिकः । गृभीतान् ।' हृग्रहोर्भः' इति भत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -127,12 +127,12 @@ genre D
 Legend: the imputation or brahmanicide refers to **Indra**'s killing of **Vṛtra**; the guilt is transferred to rivers, women and trees. Another legend: the rivers were defiled by the dead body of Vṛtra, which had fallen into them; the waters became unfit to bear any part in sacred rites, until they were purified by Agni and Soma, i.e. by oblations to fire and libations of Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma and Agni, of like resolve, placed these lights in heaven. You, Agni and Soma, released from imprecation and from reproach the  rivers that had been held back.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 gopā́(ḥ) in pāda a can be either sg. or pl. All the standard tr. take it as the former, referring to Agni, but this makes grammatical difficulties. Geldner interprets the following asya as a word-haplology for *asy *asyá, thereby getting the 2nd sg. copula but gratuitously accenting the pronoun. Oldenberg reads *asy for asya and suggests accenting *cáranti. Renou takes viśā́ṃ gopā́(ḥ) as a 3rd sg. expression (“Agni est …”) and seems to leave the following text alone. But all such tr. must introduce an accent on whatever word they think follows the short initial clause, since, as it stands, two unaccented words, asya caranti, would open that clause. These difficulties can be avoided by interpreting gopā́ḥ as plural, subject of caranti and coreferential with jantávaḥ. Pl. gopā́- is elsewhere used of Agni’s sidekicks, presumably his flames, in VI.8.7. Though it is true that this same expression viśā́ṃ gopā́(ḥ) is found two hymns later (I.96.4) as an undoubted singular referring to Agni, the grammatical complications resulting from taking it as a singular here outweigh that argument for me.
 
@@ -141,23 +141,23 @@ Most tr. take the two-footed and four-footed as appositional to jantávaḥ and 
 The etymological relationship between citráḥ and praketáḥ in c is not easily rendered in English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni and Soma, joined in operation ye have set up the shining lights in heaven.  
      From curse and from reproach, Agni and Soma, ye freed the rivers that were bound in fetters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beiden, Agni und Soma, setztet eines Sinnes diese Lichter an den Himmel. Ihr beide, Agni und Soma, habt die festgehaltenen Flüsse aus Schimpf und Schande erlöst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schönwirkend setztet Agni ihr und Soma dort an den Himmel diese hellen Sterne; Ihr Agni-Soma löstet vom Verderben und von der Schmach die festgehaltnen Ströme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое: Агни, а также Сома, равные по силе духа,  
 Поместили на небо эти светлые пространства.  

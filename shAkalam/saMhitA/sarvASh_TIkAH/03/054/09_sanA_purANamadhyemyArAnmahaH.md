@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना पुराण꣡म् अ꣡धि एमि आरा꣡न्  
 महः꣡ पितु꣡र् जनितु꣡र् जामि꣡ त꣡न् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरउ꣡ पथि꣡ वि꣡उते तस्थु꣡र् अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वासः॑ । यत्र॑ । प॒नि॒तारः॑ । एवैः॑ । उ॒रौ । प॒थि । विऽउ॑ते । त॒स्थुः । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 हे द्यौः **महः** महत्याः **पितुः** सर्वस्य पालयित्र्याः **जनितुः** जनयित्र्यास्तव **सना** सनातनं **पुराणं** पूर्वक्रमागतं **नः** अस्माकं **तत्** **जामि** जामित्वम् । सर्वमेकस्मात्  जातमिति द्यौर्भगिनी भवति । तादृशं भगिनीत्वं तत् **आरात्** अधुना **अध्येमि** स्मरामि। दिवः पितृत्वे जनयितृत्वे च मन्त्रवर्णः---- ‘ द्यौर्मे पिता जनिता नाभिरत्र ( ऋ. सं. १. १६४:३३) इति । **यत्र** यस्यां दिवि **अन्तः** मध्ये **उरौ** विस्तीर्णे **व्युते** विविक्ते **पथि** नभसि **पनितारः** त्वां स्तुवन्तः **देवासः** देवाः **एवैः** गमनसाधनैः स्वैः स्वैर्वाहनैः सहिताः सन्तः **तस्थुः** । तत्र स्थित देवा मदीयं स्तोत्रं शृण्वन्त्विति भावः ॥ पुराणम् । पुराशब्दात् शैषिकार्थे  ‘ सायंचिरम् । इति ट्युप्रत्ययः ।  ‘ पुराणप्रोक्तेषु ब्राह्मणकल्पेषु' ( पा. सू. ४. ३. १०५ ) इति निपातनात्तुडभावः । निपातनादेवान्तोदात्तत्वम् । एमि ।  ‘ इक् स्मरणे' । अदादिः । लटि रूपम् । निघातः । व्युते ।  ‘ वेञ् तन्तुसंताने ' । कर्मणि क्तः । यजादित्वात् संप्रसारणम् ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरः। तस्थुः । तिष्ठतेर्लिटि रूपम् । यत्रयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,12 +137,12 @@ Protectress and progenitrix: **mahaḥ** pitur janitur **jāmi** tan naḥ = mah
 Jāmi = jāmitva, or bhaginitvam, sisterhood, the condition of a relative sister; this will not allow of **pitā** and **janitā** being rendered father and progenitor
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From afar I tread upon the ancient (path) of old [/study the ancient One of  old]: that is our relationship to the great father [=Heaven?], the begetter, where [=in heaven?] the gods, as admirers, in their own ways took their  stand within (it) on their (own) broad separate path.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the meaning of this vs. see published introduction. It is the final vs. of the hymnwithin-the hymn, vss. 2-9 dedicated to Heaven and Earth. The 1st ps. poet reappears here; he is first found in vs. 2, the beginning of this self-contained portion, and has been absent since, though he may be related to the 3rd ps. kaví- in vs. 6.
 
@@ -153,23 +153,23 @@ As indicated in the published introduction, I think this vs. has a double meanin
 pánthā-, qualified as purāṇá- in IV.18.1 (cf. also purāṇám ókaḥ ‘ancient home’ in nearby III.58.6, referring to the Aśvins’ dwelling, presumably also heaven). The gods are themselves on a separate path (pathí vyùte d) in the same place, at least by my interpr. Despite their different representations in the (written) Saṃhitā text and in the Pp., vyùta- here and víyuta- in 7a must be the same form, ppl. to ví √yu; in recitation they would be identical. The verb unoti to the supposed root √u to which vyùta- is sometimes referred (see, e.g., Geldner n. 9d) is actually also a form of √yu, in the sequence vyùnoti in V.31.1, also meaning ‘separates’. Cf. EWA II.503.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Afar the Ancient from of old I ponder, our kinship with our mighty Sire and Father,-  
      Singing the praise whereof the Gods by custom stand on the spacious far-extended pathway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Ferne erkenne ich das Uralte: Das ist unsere Abstammung von dem großen Vater, dem Erzeuger, auf dem Weg zu dem die Götter eifrig Beifall spendend auf ihrem weiten, abgesonderten Wege dazwischen treten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das alte stets erwäg' ich aus der Ferne, dies unser Stammen von dem grossen Vater, Wo anerkennend, wie gewohnt, die Götter auf den gebahnten breiten Pfaden standen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Издавна узнаю я (это) древнее, издалека:  
 Это кровное родство наше с великим отцом-родителем,  

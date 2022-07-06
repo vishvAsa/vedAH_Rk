@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ सीषपन्त जो꣡षम् आ꣡ य꣡जत्रा  
 ऋत꣡स्य धा꣡राः सुदु꣡घा दु꣡हानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ गन्तन स꣡मनसो य꣡ति ष्ठ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ज्येष्ठ॑म् । वः॒ । अ॒द्य । महः॑ । आ । वसू॑नाम् । आ । ग॒न्त॒न॒ । सऽम॑नसः । यति॑ । स्थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -128,7 +128,7 @@ genre M
 **यजत्राः** यजनीयाः **ते** इन्द्रादयो देवाः **ऋतस्य** उदकस्य **सुदुघाः** सुखेन दोग्धुं शक्याः **धाराः** **दुहानाः** वर्षन्तः **जोषं** पर्याप्तं यथा भवति तथा **आ** **सीषपन्त** । सपतिः परिचरणार्थः । स्तुतिभिः आ समन्तात् पर्यचीचरन् । अस्मान् परिचरणं कुर्वन्तु । स्वीकुर्वन्त्विति यावत् । **अद्य** अस्मिन् दिने हे देवाः **वसूनां** धनानां मध्ये **ज्येष्ठं** श्रेष्ठं **वः** युष्मदीयं **महः** मंहनीयं धनम् **आ** गच्छतु। यूयमपि **समनसः** तुल्यमतयः सन्तः **आ** **गन्तन** आगच्छत। हे देवाः यूयं --- आगन्तनेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,14 +141,14 @@ genre M
 **Yati** = yadi, if; if you are of one mind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those worthy of sacrifices do service to themselves according to their  pleasure, milking for themselves the good milkers, the streams  
 of truth.  
 Preeminent is the greatness of you good ones here today: come here,  being of one mind, however many you are.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The isolated form sīṣapanta is hard to assess. By form it appears to belong to a redupl. aor., but no other forms to such a stem are attested and, more to the point, there is no securely attested -áya-transitive. I cannot evaluate sāpáyant- in TB II.4.6.5, which is evidently the Brāhmaṇa form Whitney lists, with ?, in Roots s.v. √sap, but even if it belongs to the same root, it is attested too late to provide a basis on which to generate an associated redupl. aor. in the RV. Nonetheless, I see no choice but to take sīṣapanta as a redupl. aor. and to assume an unattested *sāpáyati for early Vedic. What then does sīṣapanta mean? In my 1983 -áya- monograph (p.
 
@@ -161,23 +161,23 @@ Both Geldner and Renou take the 2nd hemistich as a single cl., with máhaḥ as 
 In d sámanasaḥ ‘of the same mind’ replicates the same word in 2b and provides a bit of a ring. Note that in 2 the referents are the human officiants, whereas here it is the gods, who are thus implicitly equated -- and equation facilitated by the similar structures: the two words are in identical metrical positions and both follow a 2nd pl. impv., with sámanasaḥ modifying the 2nd ps. subj. Although ‘of the same mind’ in the first instance means that all members of each group have the same mind, the repetition may imply that the human officiants of vs. 2 and the attending gods of vs. 4 also share the same thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gladly the Gods have let themselves be honoured, milking the copious streams of holy Order.  
      The highest might to-day is yours, the Vasits': come ye, as many as ye are, one-minded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Opferwürdigen sollen sich zur Genüge pflegen lassen, die die leicht melkbaren Ergüsse der Wahrheit für sich melken. Zu eurer, der Götter, höchsten Feier kommt heute einmütig herbei, so viele ihr seid!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die heil'gen mögen gern sich dienen lassen, die milchgetränkten Opferströme melkend; Euch winket heut der Güter beste Gabe, so kommt denn her, wie viele ihr auch sein mögt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть эти достойные жертв (боги) дают служить себе (нам) на радость,  
 (Они,) доящие для себя потоки закона, легко выдаиваемые!  

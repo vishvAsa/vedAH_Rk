@@ -6,7 +6,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् अग्ने मघ꣡वत्सु दीदिहि  
 अ꣡ध श्व꣡सीवान् वृषभो꣡ द꣡मूनाः  
@@ -14,7 +14,7 @@ ChandaH = "जगती त्रिष्टुब्वा"
 व꣡र्मेव युत्सु꣡ परिज꣡र्भुराणः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒व॒ऽअस्य॑ । शिशु॑ऽमतीः । अ॒दी॒देः॒ । वर्म॑ऽइव । यु॒त्ऽसु । प॒रि॒ऽजर्भु॑राणः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -101,21 +101,21 @@ genre M
 हे **अग्ने** अस्माकं मघवत्सु अस्मत्संबन्धिषु अन्नवत्सु यागेषु गृहेषु वा **दीदिहि** दीप्यस्व । **अध** अथानन्तरं **श्वसीवान्** श्वसनवान् ज्वालाभिश्चेष्टवान् अस्मस्प्राणनवान् वा **वृषभः** वर्षिता अभिमतानां **दमूनाः** दानमना दममना दान्तमना वा सर्वत्र भवेति शेषः । स उक्तलक्षणस्त्वं **शिशुमतीः** **अवास्य** । शिशुशब्देन तदवस्था लक्ष्यते । शैशववतीर्ज्वाला अपक्षेप्य विहाय **अदीदेः** भृशं  दीप्यस्व । कीदृशस्त्वम् । **युत्सु** संग्रामेषु **वर्मेव** कवचमिव **परिजर्भुराणः** अस्मद्द्वेष्टॄन् पुनःपुनः परिहरन् । यद्वा । युत्सु संग्रामेषु वर्मेव परिजर्भुराणो भव ॥ हस्तेर्यङ्लुगन्तात् व्यत्ययेन शानच् । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ उक्तगुणको भव मघवत्सु यज्ञेषु दीप्यस्व ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Shine, **Agni**, in our opulent (abodes), vivifying, showering (blessings), bounteous, casting off infantine (glimmerings); blaze (fiercely), repelling repeatedly, like a coat of mail, (our enemies) in combats.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Shine upon our bounteous (patrons), o Agni. Then as the snorting bull,  the master of the household,  
 *having set loose the females who have young [=flames], you have  
 shone, ever flickering and enveloping like armor in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I read pāda b with cd, contrary to the standard tr., which take it as independent. I might, however, replace the tr. of ádha as ‘then’ with ‘and’ or the like.
 
@@ -128,28 +128,28 @@ I take the śíśumatīḥ ‘(females) possessing young’ to be Agni’s flame
 I take d as a paradox: the fire is in constant circling motion (parijárbhurāṇaḥ), but still produces a protective encirclement like armor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, shine resplendent with our wealthy chiefs, like a loud-snorting bull, accustomed to the house.  
      Thou casting off thine infant wrappings blazest forth as though thou hadst put on a coat of mail for war.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Shine, O Agni, among our liberal lords, for thou art a mightily breathing bull, a friend of the house. Throwing down the (mothers) of the young child 1 thou hast shone, (a protector of thy friends) like a coat of mail in battles, hurrying around.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei unserem Lohnherren leuchte, o Agni, und sei der Hausgebieter, du der schnaubende Stier! Die Mütter abstoßend leuchtest du auf, wie ein Panzer in den Schlachten hin und her funkelnd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, leuchte unsern Opferherren hell, und mächtig schnaufend wie ein Stier ans Haus gewöhnt,Die samenreichen niederlegend strahltest du hellfunkelnd, wie ein Panzer in den Schlachten glänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У наших щедрых покровителей сверкай, о Агни,  
 (Ты,) сопящий бык, домашний (бог)!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ देवा꣡नाम् अग्रया꣡वेह꣡ यातु  
 न꣡राशं꣡सो विश्व꣡रूपेभिर् अ꣡श्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवे꣡भियो देव꣡तमः सुषूदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । प॒था । नम॑सा । मि॒येधः॑ । दे॒वेभ्यः॑ । दे॒वऽत॑मः । सु॒सू॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,35 +116,35 @@ genre M
 **देवानामग्रयावा** अग्रे गन्ता **नराशंसः** । ' उभे वनस्पत्यादिषु युगपत् ' इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् । नरैः शंसनीय एतन्नामकोऽग्निः **विश्वरूपेभिः** नानारूपैः **अश्वैः** रोहिदाख्यैः सह **इह** अस्मिन् यज्ञे **आ** **यातु** । आगत्य च **मियेधः** मेध्यो यज्ञहितः स्तुतियोग्यो वा **देवतमः** देवानां मुख्यः सोऽग्निः हविर्नयनयोग्येन **ऋतस्य** यज्ञस्य **पथा** मार्गेण **नमसा** स्तोत्रेण सह **देवेभ्यः** इन्द्रादिभ्यः **सुषूदत्** हविः प्रेरयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May Narāśaṃsa, the preceder of the gods, come here with his horses of various forms; deserving ofadoration, chief of the gods, may he effuse (oblations) to the gods by the path of the sacrifice with praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the lead driver of the gods, let Narāśaṃsa drive here with horses of  every form along the path of truth; with reverence the foremost of the gods will  sweeten the ritual meal for the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he who goes before the Gods come hither with steeds whose shapes are varied, Narasarhsa.  
      May he, most Godlike, speed our offered viands with homage God-ward on the path of Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als der Götter Anführer soll Narasamsa mit den allfarbigen Rossen hierher kommen. Auf dem rechten Wege unter Verbeugung soll der Göttlichste das Opfermahl für die Götter zubereiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er komme her nun an der Götter Spitze, der Männerpreis mit allgestalt'gen Rossen, Auf rechtem Pfade andachtsvoll verschönre der beste Gott das Opfermahl den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как едущий впереди богов пусть приедет сюда  
 Нарашанса  

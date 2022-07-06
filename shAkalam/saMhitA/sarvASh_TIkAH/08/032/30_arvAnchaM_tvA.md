@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वा꣡ञ्चं त्वा पुरुष्टुत  
 प्रिय꣡मेधस्तुता ह꣡री  
 सोमपे꣡याय वक्षतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सो॒म॒ऽपेया॑य । व॒क्ष॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे पुरुष्टुत इन्द्र **त्वा** त्वां **प्रियमेधस्तुता** **हरी** अश्वौ **सोमपेयाय** सोमपानाय **अर्वाञ्चम्** अस्मदभिमुखं **वक्षतः** वहतः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the glorified of many, let your horses, praised by **Priyamedha**, bring you down to drink the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The fallow bays, praised by Priyamedha, will convey you near,  
 much praised one, for soma-drinking.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O thou whom many laud, the Bays whom Priyamedha praised,  
      Shall bring thee to the Soma-draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich soll, du Vielgepriesener, das von den Priyamedha´s gepriesene Falbenpaar herwärts fahren zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, hochgelobter, fahre her zum Somatrunk das Füchsepaar, Das Prijamedha hat gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезет тебя в наши края,  
 О многовосхваленный, пара буланных коней,  

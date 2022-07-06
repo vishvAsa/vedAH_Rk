@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान विदा꣡ रयि꣡म्  
 अस्म꣡भ्यं सोम सुश्रि꣡यम्  
 इ꣡न्दो सह꣡स्रवर्चसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दो॒ इति॑ । स॒हस्र॑ऽवर्चसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna*
 - \[noun\], vocative, singular, masculine
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** **इन्दो** **सोम** **अस्मभ्यं** **सुश्रियं** शोभनया श्रिया युक्तं **सहस्रवर्चसं** बहुदीप्तिं **रयिं** धनं **विदाः** । देहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, grant us auspicious wealth, with infinite splendour, O **Indu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying Soma, for us find very beautiful wealth  
 of a thousand lusters, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vidā́versus vidā́(ḥ), see comm. ad IX.19.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma Pavamana, find exceeding glorious wealth for us,  
      Wealth, Indu, fraught with boundless might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma Pavamana! Mögest du uns herrlichen Reichtum ausfindig machen, tausendfach glänzenden, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O spende, Soma, flammender, uns Reichthum, welcher Glück verschafft, Und, Indu, tausendfach erglänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

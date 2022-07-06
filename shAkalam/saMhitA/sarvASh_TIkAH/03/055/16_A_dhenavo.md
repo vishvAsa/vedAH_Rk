@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धेन꣡वो धुनयन्ताम् अ꣡शिश्वीः  
 सबर्दु꣡घाः शशया꣡ अ꣡प्रदुग्धाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 नव्याः॑ऽनव्याः । यु॒व॒तयः॑ । भव॑न्तीः । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M;; repeated line
 **धेनवः** वृष्टिद्वारा सर्वस्य जगतः प्रीणयित्र्यः **अशिश्वीः** शिशुरहिताः । यद्वा शिशवो न भवन्तीत्यशिश्वीः । **शशयाः** नभसि शयाना वर्तमानाः केनापि **अप्रदुग्धाः** अक्षीणरसाः **सबर्दुघाः** उदकलक्षणस्य क्षीरस्य दोग्ध्र्यः **युवतयः** परस्परमिश्रणोपेताः **नव्यानव्याः** अतिशयेन नूतनाः **भवन्तीः** दिशो मेघा वा **आ** **धुनयन्ताम्** आदुहन्तु । मेघपक्षे अशिश्वीर्भवन्तीरित्यत्र लिङ्गव्यत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,35 +125,35 @@ genre M;; repeated line
 The kind: either the regions of space of the clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the milk-cows [=Dawns? plants crackling as they burn?] be noisy,  those which are without young (yet) sap-yielding, unfailing, not  
 milked out,  
 becoming young ever anew. – Great is the one and only lordship of  the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The miraculous milkers in this vs. are taken by all standard tr. as rain clouds, flg. one of Sāyaṇa.’s suggestions (the other being the heavenly regions). In context this interpr. seems perverse. The verse forms part of a tight little section (beginning with vs. 11) concerning Night and Dawn and their nourishing of the infant ritual fire. Our vs. esp. echoes vs. 12: dhenávaḥ … sabardúghāḥ … ápradugdhāḥ “milk-cows, sap-yielding, not milked out” is the equivalent in the plural of 12ab dhenū́, sabardúghe dhāpayete “the two milk-cows, sap-yielding, give suck” in the dual. I find it highly unlikely that the vocabulary here repeated from 12 would refer to entirely different entities (clouds), which, moreover, have no connection with the dawn ritual depicted here. Instead, in the course of this section the joint nurturing activity of Night and Dawn (11-12) has given way to the dominance of Dawn over Night (13ab, 14ab), and though both Night and Dawn are present in vs. 15, one of them (Night) is hidden (15b). This trend accords with the natural phenomenon: at dawn, light dissipates darkness. In our vs. 16 the plural cows either represent the Dawns in general -- the plural of Dawn being often interchangeable with the singular -- or the beams of light, the “dawn cows,” of a single Dawn. The expression “becoming new ever again” (pāda c návyā-navyā yuvatáyo bhávantīḥ) might favor the former possibility, since it reminds us of the daily parade of ever-new youthful Dawns. My identification of the cows with the dawns here admittedly leaves the noisiness (“let them be noisy,” ā́… dhunayantām) unexplained. I would suggest either that there is also a reference to the crackling of the fire wood as the ritual fire is kindled at dawn, or that it refers to the general noise attendant on dawn as the various creatures awake, including real cows mooing to be milked. Note that already in vs. 13a Dawn (in my interpr.) ‘lows’ (mimāya) over the infant fire. I think we can safely banish the putative rain clouds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the milch-kine that have no calves storm downward, yielding rich nectar, streaming, unexhausted,  
      These who are ever new and fresh and youthful. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen heranrauschen die Milchkühe, die kein Junges haben und doch immer melk sind, die ergiebigen, nicht vorgemolkenen, immer wieder aufs neue sich verjüngend. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kühe, frei des Kalbes, mögen rauschen, neumilchend, ungemolken, immerströmend, Die jugendlichen, fort und fort erneuten, gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть примчатся с шумом дойные коровы, хоть и без телят,  
 (Но) чудесно доящиеся, неиссякающие, кого не выдоить до конца,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ भो꣡जनं च द꣡यसे च व꣡र्धनम्  
 आर्द्रा꣡द् आ꣡ शु꣡ष्कम् म꣡धुमद् दुदो꣡हिथ  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्यइ꣡क ईशिषे सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । शे॒व॒ऽधिम् । नि । द॒धि॒षे॒ । वि॒वस्व॑ति । विश्व॑स्य । एकः॑ । ई॒शि॒षे॒ । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -137,21 +137,21 @@ genre M
 हेइन्द्र यस्त्वम्भोजनम्भुज्यतेइतिभोजनमन्नादिव दयसे यजमानेभ्यःप्रच्छसि दयदानगतिरक्षणहिं- साग्रहणेषु आत्मनेपदी किञ्च वर्धनंवृद्धिकरन्धनम्बलंवादयसे तथाआर्द्रात्काण्डात् शुष्कमनार्द्रंवीह्यादि- कं मधुमत् मधुररसोपेतं आदुदोहिथ दुग्धवानसि दुहेर्लिटिक्रादिनियमादिडागमः सतादृशस्त्वंविव- स्वति तेपरिचरणङ्कुर्वाणेयजमानेथेवधिन्धनसदनन्दधिषे निदधासि किम्बहुनाविश्वस्यसर्वस्यजगतः एकः अद्वितीयःएवसन् ईशिषे स्वामीभवसि ईशऎश्वर्ये ईशःसेइतीइतीडागमः सइत्यादिसिद्धम् ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You are he) who bestows both food and increase, and milk the dry nutritious (grain) from out of the humid stalk; he, who gives wealth to the worshipper, and are sole sovereign of the universe you are he, (**Indra**), who is to be praised.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, who distribute sustenance and increase, have milked the dry [=the  soma plant] together with its honey [=the soma] out of the wet  
 [=rain].  
 You have hidden a treasure [=soma] in Vivasvant [=the sun]. You alone  are the master of everything. You are worthy of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Klein (DGRV I.135, etc.), I take the double ca as conjoining morphologically parallel bhójanam and várdhanam, despite the preposed position of the 2nd ca. This preposing would be supported by 7a where a correctly positioned second ca in a double ca construction is found in the same metrical position and before an almost rhyming final word, dhármaṇā.
 
@@ -160,23 +160,23 @@ Because of the accent on dudóhitha, pāda b must continue the relative cl. of p
 Jesse Lundquist points out the complex mirror-image figure that straddles the pāda break in cd: #sá … dadhiṣe vivásvati, víśvasyaíka īśiṣe sá … The two interior elements, vivásvati and víśvasyaíka(ḥ), are phonologically similar and isosyllabic; they are flanked by 2nd sg. mid. perfects with rhyming ending -iṣe; and the pronoun sá with 2nd sg. reference provides an outer ring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou givest increase, thou dealest to us our food: thou milkest from the moist the dry, the rich in sweets.  
      Thou by the worshipper layest thy precious store: thou art sole Lord of all. Meet for our praise art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du die Nahrung und Gedeihen austeilst, aus dem Feuchten das Trockene und Süße gemolken hast, du hast dir bei Vivasvat einen Schatz angelegt. Du allein gebeust über alles - Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Nahrung du vertheilest und Gedeihen schaffst, und aus dem Feuchten zogst die trockne, süsse Frucht, Bei dem Vivasvat legtest du den Schatz dir hin; allein besitzest alles du; das ist dein Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, что раздаешь пищу и подкрепление,  
 Из влажного выдоил сухое, сладкое.  

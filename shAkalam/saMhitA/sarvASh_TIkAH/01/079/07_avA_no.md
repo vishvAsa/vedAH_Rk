@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वा नो अग्न ऊति꣡भिर्  
 गायत्र꣡स्य प्र꣡भर्मणि  
 वि꣡श्वासु धीषु꣡ वन्दिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑सु । धी॒षु । व॒न्द्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avā* ← *av*
 - \[verb\], singular, Present imperative
@@ -78,47 +78,47 @@ genre M
 **विश्वासु** **धीषु** सर्वेषु कर्मसु **वन्द्य** स्तुत्य हे **अग्ने** **गायत्रस्य** गायत्रसाम्नो गायत्रीच्छन्दस्कस्य सूक्तस्य वा **प्रभर्मणि** प्रभरणे संपादने निमित्तभूते सति **नः** अस्मान् **ऊतिभिः** त्वदीयैः पालनैः **अव** रक्ष ॥ अव ।' द्व्यचोऽतस्तिङः ' इति संहितायां दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who in all rites are to be praised, guard us with your protection, (propitiated) by the recitation of the metrical hymn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Help us, Agni, with your help at the presentation of the gāyatrī song, o you to be extolled in all hymnic visions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since this is the first verse of a hymn in Gāyatrī (vss. 7-9), I take gāyatrásya as a reference to a composition in that meter, rather than just a song.
 
 On the basis of X.4.1 vándyo no háveṣu, I construe the loc. in c with the gerundive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Adorable in all our rites, favour us, Agni, with thine aid,  
      When the great hymn is chanted forth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bless us, O Agni, with thy blessings, when our Gâyatra song is brought forward (to thee), thou to whom reverence is due in all our prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hilf uns mit deinen Hilfen, o Agni, bei dem Vortrag des Gesangesliedes, bei allen frommen Gedanken, du Lobenswerter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du bei jedem Andachtswerk zu rühmen bist, o Agni, hilf Uns huldvoll bei des Liedes Sang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Помоги нам, о Агни, (своими) поддержками,  
 Когда возносится песнопение,  

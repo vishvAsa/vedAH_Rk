@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शि꣡शुं जज्ञानं꣡ हर्यत꣡म् मृजन्ति  
 शुम्भ꣡न्ति व꣡ह्निम् मरु꣡तो गणे꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 क॒विः । गीः॒ऽभिः । काव्ये॑न । क॒विः । सन् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ genre M;; repeated line
 **शिशुम्** इदानीमुत्पन्नत्वाच्छिशुवत्तिष्ठन्तम् । यद्वा । पापानि तनूकुर्वन्तं विनाशयन्तम् । **जज्ञानं** प्रादुर्भूतमत एव **हर्यतम्** ।  हर्य गतिकान्त्योः । ‘ भृमृद्दशि' इत्यादिनातच् । सर्वैः काम्यमानं सोमं **मृजन्ति** **मरुतः** शोधयन्ति । किंच **वह्निं** वोढारं सोमं **गणेन** आत्मीयेन सप्तसंख्याकेन गणेन **शुम्भन्ति** अलंकुर्वन्ति । ततः **कविः** क्रान्तप्रज्ञः **सोमः** **काव्येन** कविकर्मणैव **कविः** शब्दोपेतः **सन्** **रेभन्** शब्दायमानः **गीर्भिः** स्तुतिभिः सह **पवित्रमत्येति** अतीत्य गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M;; repeated line
 Wise with wisdom: there is a plural y on the word, **kavi**; separating gībhiḥ from **kaviḥ**, the explanation is: he passes through the filter with praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The colt just born, the delightful one they groom; the Maruts in a flock  beautify the cart horse.  
 Though being a poet by virtue of his hymns, a poet by his poetry, Soma  goes rasping across the filter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t know what the Maruts are doing here.
 
@@ -157,23 +157,23 @@ These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They deck him at his birth, the lovely Infant, the Maruts with their troop adorn the Car-horse.  
      By songs a Poet and a Sage by wisdom, Soma joes singing through the cleansing filter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das neugeborene Kind, das begehrenswerte, machen sie sauber; die Marut mit ihrer Heerschar machen das Zugpferd schön. Ein Seher durch seine Reden, ein Seher an Sehergabe geht Soma laut redend über die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das neugeborne schöne Füllen streicheln und schmücken auf der Fahrt die Marutscharen; Der Seher geht mit Seherkraft mit Liedern, als Seher Soma singend durch die Seihe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они начищают (ново)рожденного желанного сосунка.  
 Маруты со (своей) стаей украшают возницу.  

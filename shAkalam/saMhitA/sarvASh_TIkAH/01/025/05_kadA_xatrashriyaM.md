@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कदा꣡ क्षत्रश्रि꣡यं न꣡रम्  
 आ꣡ व꣡रुणं करामहे  
 मॄळीका꣡योरुच꣡क्षसम्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मृ॒ळी॒काय॑ । उ॒रु॒ऽचक्ष॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kadā*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M
 **मृळीकाय** अस्मत्सुखाय **वरुणं** **कदा** कस्मिन् काले **आ** **करामहे** अस्मिन् कर्मणि आगतं करवाम । कीदृशम् । **क्षत्रश्रियं** बलसेविनं **नरं** नेतारं **उरुचक्षसं** बहूनां द्रष्टारम् । क्षत्रश्रियम् । क्षत्राणि श्रयतीति क्षत्रश्रीः । क्विब्वचि° ' ( पा. ३. २. १७८, २) इत्यादिना क्विप् दीर्घश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् । नरम् ।' ऋदोरप्' इति अबन्तः आद्युदात्तः । करामहे । करोतेः व्यत्ययेन शप्। उरुचक्षसम् । ‘चक्षेर्बहुलं शिच्च' (उ. सू. ४.६७२) इत्यसुन् । शिद्वद्भावात् ख्याञादेशाभावः ॥ ॥१६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,29 +101,29 @@ genre M
 Uru-cakṣasam = bahunān draṣṭāram, the beholder of many
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When will we attract broad-gazing Varuṇa—the superior man, glorious  in his rule—  
 to gain his mercy?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When shall we bring, to be appeased, the Hero, Lord of warrior might,  
      Him, the far-seeing Varuna?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann werden wir den Herrn Varuna, der die Herrschaft zu Ehren bringt, zur Barmherzigkeit bewegen, den Weitschauenden ?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann werden wir den Varuna, der weithin schaut und Herrschaft schmückt, Den Helden stimmen uns zur Huld?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же мужа, воплощающего блеск власти,  
 Варуну, мы побудим  

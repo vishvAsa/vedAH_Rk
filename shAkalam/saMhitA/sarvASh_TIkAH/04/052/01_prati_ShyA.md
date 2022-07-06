@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति ष्या꣡ सून꣡री ज꣡नी  
 विउछ꣡न्ती प꣡रि स्व꣡सुः  
 दिवो꣡ अदर्शि दुहिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दि॒वः । अ॒द॒र्शि॒ । दु॒हि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **स्या** सो संस्तूयमाना **सूनरी** सुष्ठु प्राणिनां नेत्री **जनी** जनयित्री फलानां **स्वसुः** स्वसृस्थानीयाया रात्रेः **परि** उपरिभागे रात्रिपर्यवसानकाले **व्युच्छन्ती** तमो विवासयन्ती । स्वसा स्वस्रे ज्यायस्यै' (ऋ. सं. १. १२४. ८ ) इत्युक्तम् । **दिवः** द्योतमानस्यादित्यस्य **दुहिता** उषाः **प्रति** **अदर्शि** प्रतिदृश्यते सर्वैः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,35 +92,35 @@ genre M
 Cf. RV. 1.128.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This spirited lady, dawning forth from her sister [=Night],  
 has appeared opposite—the daughter of Heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although by the time of the composition of this hymn the word play may have long been buried, for Indo-Europeanists the juxtaposition of *-Hner and *gw enH (man and woman) (sūnárī jánī) is very cute.
 
 Note the distraction of the usual “daughter of heaven” phrase into a threetermed alliterative phrase divó adarśi duhitā́. ## 053 Savitar
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS Lady, giver of delight, after her Sister shining forth, Daughter of Heaven, hath shown herself.-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die edle Frau ist dort aus ihrer Schwester aufleuchtend erschienen, des Himmels Tochter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier diese wonnigliche Maid, aufleuchtend von der Schwester her, Des Himmels Tochter zeigte sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта дарящая радость жена  
 Зажигаясь из (недр своей) сестры,  

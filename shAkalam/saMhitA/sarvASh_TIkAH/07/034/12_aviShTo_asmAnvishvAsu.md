@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡विष्टो अस्मा꣡न् वि꣡श्वासु विक्षु꣡  
 अ꣡द्युं कृणोत शं꣡सं निनित्सोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अवि॑ष्टो॒ इति॑ । अ॒स्मान् । विश्वा॑सु । वि॒क्षु । अद्यु॑म् । कृ॒णो॒त॒ । शंस॑म् । नि॒नि॒त्सोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aviṣṭo* ← *aviṣṭa* ← *av*
 - \[verb\], plural, Aorist imperative
@@ -78,20 +78,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अयं द्वृचो दैवः । हे देवाः **अस्मान्** **विश्वासु** सर्वासु **विक्षु** प्रजासु । अविष्ट उ इति समुदितम् **अविष्टो** इति । अविष्ट रक्षत। **शंसं** निनित्सोः निन्दितुमिच्छतः शत्रोः **अद्युम्** अदीप्तिं **कृणोत** कुरुत च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protect us, gods, among all people; render extinct the calumny of the malevolent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aid us amid all the clans;  
 render harmless the “laud” of him who wishes to scorn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax ádyu- has been variously analyzed and rendered: e.g., Sāyaṇa. adīpti- ‘non-shining’, reflected in Grassmann’s ‘glanzlos’ and probably Renou’s ‘sans éclat’; Oldenberg ‘excluded from heaven’. But Geldner’s (n. 12b) comparison of Oldenberg Avestan aidiiu- (YH 2x, plus a YA rep.) ‘harmless’ is surely correct and is accepted by EWA, etc. For disc., with earlier lit., see Narten, YH 280-81.
 
@@ -108,22 +108,22 @@ The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in gen
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May he assist us among all the tribes, and make the envier's praise devoid of light.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stehet uns in allen Niederlassungen bei; machet die üble Rede des Tadelsüchtigen unschädlich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O unterstützt uns – in allen Häusern; nicht macht uns brennend – den Spott des Neiders.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поддержите нас во всех племенах!  
 Сделайте лишенной блеска речь желающего осрамить!

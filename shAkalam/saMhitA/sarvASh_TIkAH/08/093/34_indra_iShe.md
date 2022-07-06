@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र इषे꣡ ददातु न  
 ऋभुक्ष꣡णम् ऋभुं꣡ रयि꣡म्  
 वाजी꣡ ददातु वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒जी । द॒दा॒तु॒ । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इन्द्रः** एवास्माभिः स्तुत इष्टः सन् **ऋभुक्षणम्** । ‘वा षपूर्वस्य' इति दीर्घाभावः । यागादिकर्मकरणेन महान्तं सर्वेषां भ्रातॄणां श्रेष्ठं वा । अथवा तृतीयसवने प्रजापतिसवित्रोर्मध्ये सोमपातृत्वात् महान्तम् । **रयिं** दातारम् **ऋभुं** सोमपानेनामर्त्यत्वं प्राप्तं तादृशमेतन्नामकं देवं **नः** अस्मभ्यम् **इषे** अन्नार्थं **ददातु** प्रयच्छतु । तथा **वाजी** बलवानिन्द्रः **वाजिनं** बलवन्तमन्नवन्तं वा वाजनामानं कनीयांसं भ्रातरं च अस्माकमन्नलाभाय **ददातु** ॥ ॥ २७ ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,35 +97,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Ṛbhukṣaṇa: was the eldest and Vāja the youngest of three brotherṣThe **Ṛbhus** have a share in the evening libation between **Prajāpati** and **Savitā** (**Aitareya** **Brāhmaṇa** 3.30);the ṛca is addressed to the Ṛbhus in the evening libation on the ninth day of the **dvādaśāha** ceremony(Aitareya Brāhmaṇa 5.21)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra give us the wealth belonging to craft [/R̥bhu] as the  
 craftsmaster [/R̥bhukṣan] for our refreshment.  
 Let the prizewinner give a prizewinner.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this verse falls outside the tṛca structure and seems unconnected to the rest of the hymn. As Geldner points out, it plays on two of the names of the Ṛbhus, ṛbhú- itself and vā́ja-. Note also the alliteration, esp. in pāda b: ṛbhukṣáṇam ṛbhúṃ rayím.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra give, to aid us, wealth handy that rules the Skilful Ones:  
      Yea, may the Strong give potent wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll uns zur Erlabung einen Schatz schenken, der wie Ribhuksan der erste ist, einen Ribhugeschaffenen, der Sieghafte ein sieghaftes Streitroß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es gebe Indra uns zum Heil, Ribhukschan, Ribhu, Vadscha uns labungsreiches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

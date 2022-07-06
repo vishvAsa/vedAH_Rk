@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने मॄळ꣡+ महाँ꣡ असि  
 य꣡ ईम् आ꣡ देवयुं꣡ ज꣡नम्  
 इये꣡थ बर्हि꣡र् आस꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इ॒येथ॑ । ब॒र्हिः । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -92,41 +92,41 @@ genre M
 हे **अग्ने** **मृळ** अस्मान् सुखय । स त्वं **महान्** **असि** प्रभूतो भवसि । **यः** त्वम् **ईम्** इमं **देवयुं** देवानां कामयितारं **जनं** यजमानं **बर्हिः** दर्भम् **आसदं** यज्ञे आसत्तुम् **आ** **इयेथ** आगच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, make us happy, for you are mighty, (you) who come to this devout man to sit down on the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, be gracious. You are great—you who have come here to the  god-seeking people,  
 to sit on the ritual grass.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, show favour: great art thou who to this pious man art come,  
      To seat thee on the sacred grass.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, have mercy! Thou art great, who hast come to this pious man to sit down on the sacrificial grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, sei gnädig! Du bist der Große, der du zu dem gottverlangenden Manne gekommen bist, um dich auf das Barhis zu setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei hold, o Agni, gross bist du, der du zum gottergebnen Stamm, Dich auf die Streu zu setzen kamst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, смилуйся! Ты (тот) великий,  
 Кто пришел к человеку, любящему богов,  

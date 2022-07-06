@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते ह꣡नू हरिवः शूर शि꣡प्रे  
 रु꣡हत् सो꣡मो न꣡ प꣡र्वतस्य पृष्ठे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गीर्भि꣡र् मदेम पुरुहूत वि꣡श्वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । त्वा॒ । रा॒ज॒न् । अर्व॑तः । न । हि॒न्वन् । गीः॒ऽभिः । म॒दे॒म॒ । पु॒रु॒ऽहू॒त॒ । विश्वे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **हे इन्द्र** हे हरिवः हरिभ्यान् तद्वन् **शूर ते** तव **हनू** हनन-साधने यद्य् अप्य् अयं शिप्रा-वचनः तथापि पुनः शिप्राभिधानाद् गौणो ऽवगन्तव्यः उक्त-रूपे संहते वा **शिप्रे आरुहत्** आरोहतु प्राप्नोतु **सोमो** ऽस्मद् दत्तः **पर्वतस्य पृष्ठे न** रुहत् नारोहति तत्र न तिष्ठतीत्य् अर्थः। यद्वा न-शब्दः पुरस्तात् प्रयुक्तोप्य् अत्रोपमार्थः। पर्वतस्य पृष्ठे उपरिप्रदेशे सोमो न तत्र यथा विस्रम्भेण प्रसरति तद्वत् हे **राजन्** राजमानेन्द्र **त्वा** त्वाम् **अनु** त्वया सह (तृतीयार्थ इत्य् अनोः कर्मप्रवचनीयत्वं) विश्वे वयम् **अर्वतो न** अश्वान् इव तृणादिभिः **गीर्भिः** स्तुतिभिर् **हिन्वन्** हिन्वन्तः त्वां प्रीणयन्तः सन्तो **मदेम** हृष्येम हे **पुरुहूत** बहु-प्रकारं बहुभिर् वा हूतेन्द्र ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,36 +142,36 @@ Ascend to your destructive jaw: **hanu** śipre āruhat: the two nouns have the 
 Hanu = means of destroying, or destructive **hanana** sādhanam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma mounts your jaws, your lips, you champion, possessor of the  fallow bays, as the soma plant grows on the back of a mountain.  
 Like one driving his steeds, we all would cheer you on with hymns, o  much-invoked king.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in ab depends on the double meaning of the root √ruh, which means both ‘climb, mount’ and ‘grow’. It also hinges on two different senses of sóma-, as the prepared ritual drink and the plant from which it is extracted.
 
 In cd there is mismatch in number between the simile in the singular and the frame in the plural, whose number is emphasized by víśve ‘all’. The point of the simile is that the person “driving his steeds” would be verbally urging them on to greater speed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of Bay Horses, Hero, may the Soma rise to thy cheeks and jaws like mountain-ridges.  
      May we, O King, as he who driveth coursers, all joy in thee with hymns, invoked of many!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Backen, o tapferer Falbenherr, deine geöffneten Lippen soll der Somatrunk besteigen wie die Somapflanze den Rücken des Berges. Wir alle wollen dich mit Lobesworten ermuntern wie ein Treiber die Rennpferde, du vielgerufener König.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Herr der Füchse, dir in Lipp' und Backen mög' Soma steigen wie auf Bergesrücken; Zu dir, o König, gleichsam Renner treibend, o vielgerufner, sprudeln wir mit Liedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На челюсти твои, на губы, о повелитель буланых коней, о герой,  
 Пусть взойдет он, как сома на вершину горы.  

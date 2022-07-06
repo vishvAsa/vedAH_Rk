@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡न् मा वेना꣡ अ꣡रुहन्न् ऋत꣡स्यँ  
 ए꣡कम् आ꣡सीनं हर्यत꣡स्य पृष्ठे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡चिक्रदञ् छि꣡शुमन्तः स꣡खायः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मनः॑ । चि॒त् । मे॒ । हृ॒दे । आ । प्रति॑ । अ॒वो॒च॒त् । अचि॑क्रदन् । शिशु॑ऽमन्तः । सखा॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -127,7 +127,7 @@ popular
 **यत्** यदा ये **ऋतस्य** यज्ञस्य यज्ञम् । कर्मणि षष्ठी । **वेनाः** कामयमानाः **हर्यतस्य** कान्तस्यान्तरिक्षस्य **पृष्ठे** **आसीनम्** उपविष्टम् **एकं** **मा** माम् **आ** **अरुहन्** तदानीं तेषां भवतामारोहं **मनश्चित्** मन एव **मे** मम **हृदे** हृदयाय **प्रत्यवोचत्** अब्रवीत् । अज्ञासिषं च तदाह्वानं **शिशुमन्तः** पुत्रयुक्ताः **सखायः** प्रिया अमी **अचिकदन्** मां क्रन्दन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ popular
 On th back of mywell-loved firmament: haryatasya pṛṣṭhe = kāntasya antarikṣasya pṛṣṭhe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “When the trackers of truth mounted to me, sitting alone on  the back of the delightful one [=fallow bay/soma?],  
 my mind just responded from the heart: ‘My comrades have cried out  (to me) like children.’”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For my view of the complexities of the participants in this verse, see the published introduction. I take the speaker to be Indra, the immediate addressee to be the singer (speaker of vs. 3), and the addressees of the speech recounted in pāda d to be the Maruts. One of the first difficulties in this verse is the perennial mystery word vená-, which I render ‘tracker, seeker’. The word is esp. associated with X.123, to which the Anukramaṇī assigns Vena as both poet and deity. There vená- is singular, not plural as here. In the singular Vena appears to be identified with the sun and/or Soma; in the plural (see esp. IX.85.10-11) the word often seems to refer to poets or their hymns. That seems to be the case here: the trackers of truth are poets or their products, then probably further identified with the Maruts, who are also the referents of sákhāyaḥ in pāda d, in my view. The use of vená- to refer both to the deity and his/its praisers presumably rests in part on the reciprocal relationship between them and also perhaps on the notion that just as the deity is sought by those below him, so he also is pursuing something higher.
 
@@ -159,23 +159,23 @@ In c the Pp. reads dat. hṛdé, followed by Geldner, but I prefer the ablative 
 The possessive adj. śíśumantaḥ appears to introduce a child or children that seem to have no place here. I follow Lüders’s (567 n. 3) idea that the -mant- suffix functions here as the neut. sg. -vát sometimes does, as a simile marker “my comrades like children,” not “my comrades along with their children.” The -mant- for -vant- would of course be by rule after a stem ending in -u-. Considerably more problematic is the precise form: ordinarily these -vant- simile forms are adverbial neuters and show accent shift to the suffix, so -vát (e.g., manuṣvát ‘like Manu’, jamadagnivát ‘like Jamadagni’). Here we have a case form (nom. pl.) and no accent shift. However, Whitney (§1233f) allows for a sense ‘like to, resembling’ for some -vant-stems, and therefore, though Lüders’s interpretation may be a bit over-tricky, I follow it since I think it gives better sense. Support for this interpretation is found in the parallel IX.74.1 śíśur ná … cakradat “like a child he has cried out” with a verb built to the same stem as in our passage ácikradañ chíśumantaḥ …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the Law's lovers mounted and ap. proached me as 1 sate lone upon the dear sky's summit.  
      Then spake my spirit to the heart within me, My friends have cried unto me with their children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Seher des rechten Glaubens zu mir aufgestiegen waren, der ich einsam auf dem Rücken des begehrten Himmels saß, da gab mein Verstand dem Herzen zur Antwort: " Meine Freunde samt ihren Kindern haben zu mir geschrieen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn mich bestieg des heil'gen Werks Verlangen, der einsam auf des Himmels Höh' ich sitze, Dann sprach mein Geist zum Herzen diese Worte: »die Freunde mit den Kindern rufen laut mich.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ко мне, сидящему на спине возлюбленного (неба),  
 Поднялись стремящиеся к закону (песни),  

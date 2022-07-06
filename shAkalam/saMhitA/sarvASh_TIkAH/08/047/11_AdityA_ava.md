@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡दित्या अ꣡व हि꣡ ख्य꣡त  
 अ꣡धि कू꣡लाद् इव स्प꣡शः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -36,7 +36,7 @@ genre M;; repeated line
 सु॒ऽती॒र्थम् । अर्व॑तः । य॒था॒ । अनु॑ । नः॒ । ने॒ष॒थ॒ । सु॒ऽगम् । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
@@ -138,7 +138,7 @@ genre M;; repeated line
 हे **आदित्याः** यूयम् **अव** **हि** **ख्यत** अव हि पश्यताधस्तास्थितानस्मान् । तत्र दृष्टान्तः । **कूलात्** **अधि** कूले **स्पशः** स्पष्टाः । स्थिता इत्यर्थः । यथा कूलस्थः पुरुषोऽधोगतमुदकं जिज्ञासुस्तत्रस्थं मनुष्यं वा विलोकयितुमवाक्पश्यति तद्वत् । तथा कृत्वा **सुतीर्थं** शोभनावतारप्रदेशम् **अर्वतः** अश्वान् **यथा** प्रापयन्त्यश्वरक्षकास्तद्वत् **नः** अस्मान् **सुगं** सुपन्थानम् अनु **नेषथ** अनुनयथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,30 +149,30 @@ genre M;; repeated line
 Who lok from the shore: spaśaḥ = **spaṣṭaḥ**, visible, from spas. to see; as a man standing on theshore looks down on the water below or on some one in it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you, o Ādityas, gaze down (on us), like spies from a hillside.  
 You will lead us along an easy way like steeds to an easy ford.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look down on us, Adityas, as a guide exploring from the bank.  
      Lead us to pleasant ways as men lead horses to an easy ford.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So schauet denn, Aditya´s, auf uns herab wie die Späher von der Böschung! Führet uns auf den guten Weg wie Rosse zu guter Tränke! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr, Aditja's, schaut herab wie Späher von der Zinne hoch, Ihr führet uns auf guten Weg wie Renner durch die gute Furt; ganz unvergleichlich ist eur Schutz und herrlich schirmend euer Schirm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Адитьи, взгляните же (на нас) вниз,  
 Как дозорные с холма!  

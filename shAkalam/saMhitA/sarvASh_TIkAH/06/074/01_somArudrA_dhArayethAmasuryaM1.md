@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मारुद्रा धार꣡येथाम् असुर्य᳡म्  
 प्र꣡ वाम् इष्ट꣡यो अ꣡रम् अश्नुवन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो भूतं द्विप꣡दे शं꣡ च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दमे॑ऽदमे । स॒प्त । रत्ना॑ । दधा॑ना । शम् । नः॒ । भू॒त॒म् । द्वि॒ऽपदे॑ । शम् । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
@@ -122,7 +122,7 @@ popular
 **सोमारुद्रा** हे सोमारुद्रौ **असुर्यम्** असुरसंबन्धि बलमस्मासु **धारयेथाम्** । किंच **दमेदमे** सर्वेष्वस्मद्गृहेषु **इष्टयः** यज्ञाः **वां** युवाम् **अरम्** अलं पर्याप्तं **प्र** **अश्नुवन्तु** प्रकर्षेण व्याप्नुवन्तु । अपि च युवां **सप्त** **रत्ना** रत्नानि **दधाना** धारयन्तौ **नः** अस्मभ्यं **शं** सुखकरौ सुखरूपौ वा **भूतं** भवतम् । **द्विपदे** अस्मदीयाय पुत्रादये **चतुष्पदे** पश्वादये च **शं** भूतं भवतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ popular
 Possessors of seven precious things: sapta **ratnā** dadhāna; perhaps a reference to seven **dhātus** or seven elements
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma and Rudra, uphold your lordly power; let our desires [/sacrifices]  reach you fittingly.  
 Depositing seven treasures in every house, be weal for our two-footed,  weal for our four-footed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In my view, iṣṭí- in b is meant to express both ‘desire’ and ‘sacrifice’ (from √iṣ and √yaj respectively), encapsulating the reciprocity inherent in the compact between gods and men. Geldner is sympathetic to ‘sacrifice’ (n. 1b) but points to the accent: ‘sacrifice’ is ordinarily accented íṣṭi-. But secondary senses (that is, puns) often ignore accentual differences, and furthermore, as Jesse Lundquist has persuasively argued, the older accent of -tí-abstracts was suffixal, and selective accent retraction can be observed in the course of the Vedic period, so we might assume an older *iṣṭí- ‘sacrifice’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HOLD fast your Godlike sway, O Soma-Rudra: let these our sacrifices quickly reach you.  
      Placing in every house your seven great treasures, bring blessing to our quadrupeds and bipeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma und Rudra! Haltet fest an eurer Asurawürde! Euch sollen unsere Wünsche zu rechter Zeit erreichen. In jedes Haus bringet die sieben Kleinode und seid unseren Zweifüßlern und Vierfüßlern heilsam!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bewährt, o Soma-Rudra, eure Gottheit, euch mögen unsre Wünsche schnell erreichen; In jedes Haus legt eure sieben Schätze; seid uns zum Heil, den Menschen und den Thieren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома-Рудра, сохраняйте (вашу) асурскую силу,  
 Пусть наши желания вовремя вас достигнут!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुष्ट्वी꣡ न इन्दो सुप꣡था सुगा꣡नि  
 उरउ꣡ पवस्व व꣡रिवांसि कृण्व꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धि ष्णु꣡ना धनुव सा꣡नो अ꣡व्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 घ॒नाऽइ॑व । विष्व॑क् । दुः॒ऽइ॒तानि॑ । वि॒ऽघ्नन् । अधि॑ । स्नुना॑ । ध॒न्व॒ । सानौ॑ । अव्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣṭvī* ← *juṣ*
 - \[verb noun\]
@@ -123,20 +123,20 @@ genre M
 हे इन्दो दीप्त पवमान जुष्ट्वी स्नात्व्यादयश्चेतिनिपातितः स्तुतिभिः प्रीतोभूत्वा नो- स्माकं सुपथा सुपथानि वैदिकमार्गान् तथा वरिवांसि वरणीयानि धनानि सुगानि सुग- मनानि सुप्राप्तव्यानि कृण्वन् कुर्वन् । उरौ विस्तीर्णे द्रोणकलशे पवस्व क्षर । किञ्च घनेव घनीभूतेन लोहमयेनायुधेनेव विष्वक् सर्वतोदुरितानि दुःप्राप्तव्यानि रक्षांसि विघ्नन् हिंसन् सानौ समुच्छ्रितेदेशे अव्येअविभवे स्नुना स्रवता धारासङ्घेन अधिधन्व अधिगच्छ । धविर्गत्यर्थः ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gratified (with our praises), **Indu**, flow into the large (vessel), granting us riches coming by holy paths and easily acquired; beating down the **rākṣasas** on every side as with a club, flow in a stream upon the elevated fleece.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having taken pleasure, o drop, (making) easy pathways easy to travel  for us, purify yourself on a broad (path), making us wide spaces.  
 Smashing asunder obstacles to progress as if with a deadly weapon, run  along the back, on the sheep’s back.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. contrasts easy travel (a: supáthā sugā́ni) with difficult travel (c: duritā́ni); the contrast is signaled by su- / duṣ-, while two different roots for ‘go’ serve as 2nd cmpd. member, √gā (or √gam?) versus √i.
 
@@ -161,23 +161,23 @@ The Anukramaṇī names Vyāghrapād (‘Tigerfoot(ed)’) Vāsiṣṭha as the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pleased with us, Indu, send us as thou flowest good easy paths in ample space and comforts.  
      Dispelling, as 'twere with a club, misfortunes, run o'er the height, run o'er the fleecy summit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit uns zufrieden, o Saft, schaffe gute Wege, gute Pfade! Läutere dich auf breiter Bahn, weiten Raum schaffend! Wie mit dem Hammer alle Fährlichkeiten zerschlagend rinne oben auf dem Schafrücken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich freuend unsrer wohlgebahnten Pfade, und Freiheit schaffend riesle weithin, Indu; Fortschlagend rings Gefahren mit der Keule, ergiess dich auf der Somaseihe Gipfel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Довольный нами, о сок сомы, (создай нам) хорошие пути, легко проходимые,  
 Очищайся на просторе, создавая широкие пространства!  

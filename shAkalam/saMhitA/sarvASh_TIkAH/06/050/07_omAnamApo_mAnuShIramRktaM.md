@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओमा꣡नम् आपो मानुषीर् अ꣡मृक्तं  
 धा꣡त तोका꣡य त꣡नयाय शं꣡ योः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य स्थातु꣡र् ज꣡गतो ज꣡नित्रीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यू॒यम् । हि । स्थ । भि॒षजः॑ । मा॒तृऽत॑माः । विश्व॑स्य । स्था॒तुः । जग॑तः । जनि॑त्रीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *omānam* ← *oman*
 - \[noun\], accusative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 हे **आपः** **मानुषीः** मनुष्यहिता यूयम् **अमृक्तम्** अहिंसितम् **ओमानम्** । अवति रक्षतीत्योमा रक्षकमन्नम्। **तोकाय** पुत्राय **तनयाय** तत्पुत्राय च **धात** धत्त । प्रयच्छत । तथा **शं** शमनमुपद्रवाणां **योः** यावनं पृथक्करणं च पृथक्कर्तव्यानां धत्त प्रयच्छत । कुत इत्यत आह । **हि** यस्मात् **यूयं** **मातृतमाः** मातृभ्योऽप्यधिकाः **भिषजः** **स्थ** भवथ तस्मात् धातेत्यन्वयः । कथं मातृभ्योऽप्यधिकं भैषज्यमस्तीत्यत आह । **विश्वस्य** सर्वस्य **स्थातुः** स्थावरस्य **जगतः** जङ्गमस्य **जनित्रीः** जनयित्र्यो भवथ । अतो यूयं भिषजः स्थ ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ genre M
 Security and the removal of all evil: śaṃyoḥ: śamanam upadravāṇām, the appeasing of oppressiosn or violences; yāvanam pṛthakkartavyānām, the making separate of those things which are to be kept off
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Waters belonging to Manu, establish unimpaired succor as luck and  lifetime for our offspring and descendants.  
 For you are the most motherly healers, the begetters of everything still  and moving.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give full protection, Friends of man, ye Waters, in peace and trouble, to our sons and grandsons.  
      For ye are our most motherly physicians, parents of all that standeth, all that moveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr menschenfreundlichen Wasser bringet euer ungeschmälertes Schutzmittel, schaffet für den leiblichen Samen Wohlsein und Heil, denn ihr seid die mütterlichsten Ärzte, die Mütter von allem, was steht und geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schenkt unbeschränkte Gunst, o menschenholde, o Wasser, Heil und Segen, Kind und Enkeln; Denn ihr ja seid die mütterlichsten Aerzte, gebärend alles, was da steht und wandert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О воды, дружелюбные к людям, помощь полноценную  
 Даруйте для продолжения рода на счастье и благо!  

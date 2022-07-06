@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नः सुत꣡म् आ꣡ गहि  
 सो꣡मम् इन्द्र ग꣡वाशिरम्  
 ह꣡रिभ्यां य꣡स् ते अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 हरि॑ऽभ्याम् । यः । ते॒ । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M
 हे **इन्द्र** **नः** अस्मदीयं **सुतम्** अभिषुतं **गवाशिरं** पयसा मिश्रितं **सोमं** प्रति **उप** **आ** **गहि** समीप आगच्छ । यतः **हरिभ्याम्** अश्वाभ्यां युक्तः **ते** तव रथः **अस्मयुः** अस्मान् कामयमानो वर्तते ॥ गवाशिरम् । आङ्पूर्वस्य श्रीणातेः क्विपि ‘ अपस्पृधेथामानृचुः° ' ( पा. सू. ६. १, ३६ ) इत्यादिनाशिर इत्यादेशः । बहुव्रीहौ पूर्वपदस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Indra**, to this our effused **Soma** mixed with milk and curds, with your horses (yoked to your car), which is favourably disposed to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come up to our pressed soma mixed with milk, Indra,  
 you who, with your pair of fallow bays, are seeking us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relative clause in c is somewhat tricky. The standard tr. (though Geldner hesitates in his n. 1c) take the subject to be soma and take háribhyām with ab, starting the rel. cl. with yáḥ in 2nd position (type “come with your fallow bays to our soma, which is for you and seeking us”). I am reluctant to break the pāda in that way
 
@@ -113,23 +113,23 @@ pāda, with a new clause beginning kuvíd, this is not much of an argument. More
 (Oldenberg cites some passages in IX where this adj. does modify soma, but those cases describe the preparation of soma and his/its journey towards us, the priests, whereas here the soma is stationary and Indra is journeying towards it and, as its preparers, us.) My interpr. leaves te as the problem -- where to construe it and whether it can be coreferential with yáḥ. The 2nd question can be answered affirmatively; nothing forbids yáḥ from 2nd ps. reference here. As for the first, I take it with háribhyāṃ, a solution I find somewhat unsatisfying, since possessive genitives are not usually necessary in these situations. But cf. máma in 3a below, also in a situation where the possessor doesn’t need to be overt.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME to the juice that we have pressed, to Sorna, Indra, bleat with milk:  
      Come, favouring us, thy Bay-drawn car!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, Indra, mit dem Falbenpaar zu unserem ausgepreßten Soma, dem milchgemischten, der für dich ist, uns zugetan!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, komm zu unserm Saft, zum milchgemischten Somatrank Mit deinen Füchsen, uns geneigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай к нам на выжатого  
 Сому, о Индра, смешанного с молоком,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सिया꣡म वो म꣡नवो देव꣡वीतये  
 प्रा꣡ञ्चं नो यज्ञ꣡म् प्र꣡ णयत साधुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इमा꣡ ब्र꣡ह्म शस्य꣡मानानि जिन्वत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आदि॑त्याः । रुद्राः॑ । वस॑वः । सुऽदा॑नवः । इ॒मा । ब्रह्म॑ । श॒स्यमा॑नानि । जि॒न्व॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *syāma* ← *as*
 - \[verb\], plural, Present optative
@@ -122,36 +122,36 @@ genre M
 हे देवाः **मनवः** मनुष्या वयं **वः** युष्मदीयाय **देववीतये** । देवानां वीतिर्भक्षणं यस्मिन् स यज्ञः । तस्मै यज्ञाय **स्याम** यज्ञकर्तारो भवेम । ततः **नः** अस्मदीयं **यज्ञं** **साधुया** । सुपो याजादेशः । साधु कल्याणं **प्राञ्चं** प्राचीनं **प्र** **णयत** प्रकृष्टाञ्चनं कुरुत । हे **आदित्याः** हे **रुद्राः** रुद्रपुत्रा मरुतः हे **सुदानवः** शोभनदाना हे **वसवः** **इमा** इमानि **शस्यमानानि** **ब्रह्म** ब्रह्माणि स्तोत्राणि **जिन्वत** प्रीणयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we men be (diligent in providing) for your food, (O gods); conduct our ancient sacrifice to asuccessful end, **Ādityas**, **Rudras**, and genitive rous **Vasus**, graciously accept these hymns which are being recited.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we (all) be Manus [=like Manu] for you, to pursue the gods. Lead  our sacrifice forth toward the east straight to the goal.  
 O Ādityas, Rudras, and Vasus, of good gifts, give life to these sacred  formulations as they are being recited.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we, be yours, we men, to entertain the Gods: further our sacrifice and give it full success.  
      Adityas, Rudras, Vasus, givers of good gifts, quicken the holy hymns which we are singing now
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir Menschen wollen für euch zur Götterladung bereit sein. Geleitet unser Opfer richtig vorwärts! Ihr Aditya´s, Rudra´s, Vasu´s, ihr Gabenschönen, stärket die vorgetragenen feierlichen Reden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir Menschen seien Freunde euch zum Göttermahl, und unser Opfer führet grade hin zum Ziel, Aditja's, Rudra's, Vasu's, gabenreiche ihr, belebet die Gebete, die wir sprechen hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

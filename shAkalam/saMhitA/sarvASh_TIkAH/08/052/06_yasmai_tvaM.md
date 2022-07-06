@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मै तुवं꣡ वसो दाना꣡य मं꣡हसे  
 स꣡ राय꣡स् पो꣡षम् इन्वति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स्तो꣡मैर् इ꣡न्द्रं हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 व॒सु॒ऽयवः॑ । वसु॑ऽपतिम् । श॒तऽक्र॑तुम् । स्तोमैः॑ । इन्द्र॑म् । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -109,35 +109,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He to whom you give a present that he may obtain abundance of wealth; we, desiring wealth, invokewith our praises **Indra** **Śatakratu**, the lord of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He to whom you are ready to give, o good one, that one spurs the  thriving of wealth.  
 Seeking goods, with praises we call on the lord of goods possessing a  hundred resolves: Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although this hymn does not at all correspond to its predecessor (VIII.51) to the same degree as VIII.49 and 50, this verse shows real responsion to 51.6: yásmai tváṃ vaso dānā́ya [2ND SG. VERB] (a) / sá rāyás póṣam [3RD SG. VERB] (b) / … havāmahe (d).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wem du Gütiger zu schenken bereit bist, der erzielt Zunahme des Reichtums. Nach Schätzen begierig rufen wir den Schätzeherrn, den ratreichen Indra mit Lobliedern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wem du, o guter, Geschenke ertheilst, derför dert seines Reichthums Blüte; nach Gut begierig rufen wir den hundertfach thätigen Herrn der Güter, den Indra durch Loblieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому ты, о благой, делаешь дар,  
 Тот преуспевает в процветании богатства.  

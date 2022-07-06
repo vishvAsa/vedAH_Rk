@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ सू꣡र्य इवोपदृ꣡ग्  
 अयं꣡ स꣡रांसि धावति  
 सप्त꣡ प्रव꣡त आ꣡ दि꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒प्त । प्र॒ऽवतः॑ । आ । दिव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयं** सोमः **सूर्यइव** यथा सूर्यः सर्वस्य लोकस्योपद्रष्टा तद्वत् कर्मणाम् **उपदृक्** उपद्रष्टा । अपि च **अयं** सोमः **सरांसि** । त्रिंशदुक्थपात्राणीति केचिद्वर्णयन्ति । अपरे तु त्रिंशदहोरात्राणि सरांसीति । तानि **धावति** गच्छति । तथा च यास्कः-’ तत्रैतद्याज्ञिका वेदयन्ते त्रिंशदुक्थपात्राणि माध्यंदिने सवन एकदेवतानि तान्येतस्मिन्काल एकेन प्रतिधानेन पिबन्ति तान्यत्र सरांस्युच्यन्ते । त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत्पूर्वपक्षस्येति नैरुक्ताः' (निरु. ५ . ११ ) इति । अपि चायं सोमः **दिवम्** अधिकृत्य **सप्त** **प्रवतः** सप्त नदीः **आ** तिष्ठति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 To the lakes: i.e. the thirty **uktha** **pātras** (vessels or libations offering the recitation of the uktha), or thirty days and nights (Niruktam 5.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one is a sight like the sun; this one runs to the lakes,  
 along the seven slopes, to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes dhāvati as transitive, with sárāṃsi and pravátaḥ as obj. (“dieser lässt Seen, sieben Ströme zum Himmel fliessen”), but the thematic pres. to √dhāv ‘run’ (as opposed to √dhāv ‘rinse’) is only a verb of motion with acc. of goal, not a causative. Geldner’s interpr. is not shared by others: besides Renou, cf. Lüders (153), Gotō (1st Kl. 183), Scarlatta (229), all of whose interpr. are very like mine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In aspect he is like the Sun; he runneth forward to the lakes,  
      Seven currents flowing through the sky.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ist ein Anblick wie die Sonne; dieser läßt Seen, sieben Ströme zum Himmel fließen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist der Sonne gleich zu schaun, er strömet nach den Seen hin, Den sieben Himmelsströmen zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он видом, словно солнце,  
 Он мчится к озерам,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो भ꣡रते꣡न्द्राय सो꣡मम्  
 आ꣡मत्रेभिः सिञ्चता म꣡द्यम् अ꣡न्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जुहो꣡त वृ꣡ष्णे त꣡द् इ꣡द् एश꣡ वष्टि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 का॒मी । हि । वी॒रः । सद॑म् । अ॒स्य॒ । पी॒तिम् । जु॒होत॑ । वृष्णे॑ । तत् । इत् । ए॒षः । व॒ष्टि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -129,36 +129,36 @@ genre M
 गृत्समदोब्रूते अध्वर्यवः अध्वरस्यनेतारः अध्वरंयजमानायेच्छन्तः कव्यध्व्रपृतनस्यर्चिलोपइत्य- कारलोपः अत्रयास्कः—अध्वर्युरध्वरयुध्वरंयुनक्त्यध्वरस्यनेताध्वरङ्कामयतइति । हेअध्वर्यवः इन्द्रा- यदेवायसोमहविर्धानादुत्तरवेदिम्प्रतिभरतहरत आमन्त्रितस्याविद्यमानत्वादनिधातः हृत्वाअमत्रेभिः अमासहअदन्त्यत्रहोत्रादयइतिअमत्राणिचमसाः तैः मद्यम्मदकरमन्धः सोमलक्षणमन्नंआसिञ्चतअग्नौ प्रक्षिपत अत्रयास्कः—आसिञ्चतमत्रैर्मदनीयमन्धोमत्रम्पात्रममाअस्मिन्नदन्तीति । वीरःसइन्द्रः अस्य सोमस्यपीतिम्पानम्प्रतिसदसदैवकामीहि कामयमानोहि तस्मात् वृष्णोवर्षित्रे इन्द्रायसोमञ्जुहोतजुहुत हुदानादनयोः लोटि तप्तनप्तनथनाश्चेतिवतादेशः एषइन्द्रः तदित् तदेवसोमद्रव्यंवष्टि कामयते ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, bring the **Soma** libation for **Indra**; sprinkle with ladles the exhilarating beverage; he, the hero, is ever desirous of the draught; offer the libation to the showerer (of benefits), for, verily, he desires it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Bring the soma to Indra. With the tankards, pour here the  exhilarating stalk,  
 because the hero is ever desirous of his drink. Offer to the bull: he wishes  just that.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MINISTERS, bring the Soma juice for Indra, pour forth the gladdening liquor with the beakers.logeth ever  
      To drink of this the Hero offer it to the Bull, for this he willeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Traget für Indra den Soma auf, schenket den berauschenden Trank in Humpen ein, denn der Held hat immer Lust nach diesem Trunk ! Opfert dem Bullen; darnach eben hat er Verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, bringet Soma dar dem Indra, mit Eimern giesst ihm zu den starken Rauschtrank; Denn stets begehrt der Held davon zu trinken, ergiesst's dem Stiere, das ja eben wünscht er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Несите сому для Индры,  
 Лейте чашами пьянящий напиток –  

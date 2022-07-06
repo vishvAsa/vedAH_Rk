@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वानि देवी꣡ भु꣡वनाभिच꣡क्ष्या  
 प्रतीची꣡ च꣡क्षुर् उर्विया꣡ वि꣡ भाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वस्य वा꣡चम् अविदन् मनायोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 विश्व॑म् । जी॒वम् । च॒रसे॑ । बो॒धय॑न्ती । विश्व॑स्य । वाच॑म् । अ॒वि॒द॒त् । म॒ना॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -115,21 +115,21 @@ genre M
 **देवी** द्योतमानोषाः **विश्वानि** सर्वाणि **भुवना** भुवनानि भूतजातानि **अभिचक्ष्य** अभिप्रकाश्य प्रकाशवन्ति कृत्वा अनन्तरं **प्रतीची** प्रत्यङ्मुखी सती **चक्षुः** प्रकाशकेन तेजसा **उर्विया** उर्वी विस्तीर्णा सती **वि** **भाति** प्रकाशते । अपि च **विश्वं** **जीवं** सर्वं प्राणिजातं **चरसे** चरणाय स्वस्वव्यापारेषु प्रवर्तनाय **बोधयन्ती** निद्रातः सकाशात् उद्बोधयन्त्युषाः **विश्वस्य** सर्वस्य **मनायोः** मनसा युक्तस्य वाग्व्यवहारसमर्थस्य प्राणिजातस्य या वागस्ति तां **वाचमविदत्** अलभत । अत एवोषसः सूनृतावतीति संज्ञोपपन्ना भवति ॥ अभिचक्ष्य। चक्षिङ् व्यक्तायां वाचि'। अयं प्रकाशनार्थोऽपि ।  ‘ समासेऽनञ्पूर्वे० ' ( पा. सू. ७. १. ३७) इति क्त्वाप्रत्ययस्य ल्यबादेशः । प्रतीची। प्रतिपूर्वात् अञ्चतेः  ‘ ऋत्विक् ' इत्यादिना क्विन् । ' अनिदिताम् । इति नलोपः ।  ‘ अञ्चतेश्चोपसंख्यानम् इति ङीप् । अचः' इति अकारलोपे  ‘ चौ ' इति दीर्घत्वम् । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् । उर्विया । उर्वीशब्दादुत्तरस्य सोः ‘इयाडियाजीकाराणां चोपसंख्यानम् ' ( पा. सू. ७. १. ३९. १) इति डियाजादेशः । आदेशसामर्थ्यात् तस्य लोपो न भवति । मनायोः । मन आत्मन इच्छति मनस्यति । सुप आत्मनः क्यच् ।' क्याच्छन्दसि ' इति उः । वर्णव्यापत्त्या सकारे आकारः । यद्वा ।  ‘ कर्तुः क्यङ् सलोपश्च ' इति क्यङ् सकारलोपश्च ।  ‘ अकृत्सार्वधातुकयोः' इति दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “The divine (Uṣas), having lighted up the whole world, spreads, expanding with her radiance, towards the west, arousing all living creatures to their labours; she hears the speech of all endowed with thought.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The goddess, overseeing all creatures, (like) an eye, facing toward them,  shines forth widely.  
 Awakening all life to activity, she has found the speech of every  
 zealous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unfortunately it is not possible to render the three fronted forms of víśva- (pādas a, c, d) in non-awkward English.
 
@@ -148,28 +148,28 @@ vibhā́si (8c) and ví bhāti (9b) should have been rendered with the same Engl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bending her looks on all the world, the Goddess shines, widely spreading with her bright eye westward.  
      Waking to motion every living creature, she understands the voice of each adorer.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Looking on all created things, the goddess Shines far and wide, facing the eye of Sūrya. Awaking every living soul to motion, She has aroused the voice of every thinker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Geschöpfe überschauend erstrahlt die Göttin weithin, jedem Auge zugewandt. Alles was lebt zum Gehen erweckend hat sie die Rede eines jeden Dichtenden gefunden;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Göttin, alle Wesen rings beschauend, erstrahlet weit, ihr Auge zu uns wendend, Zum Wandern alles, was da lebt erweckend, hat jedes frommen Sängers Lied belauscht sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Озирая все существа, богиня,  
 Обращенная навстречу (любому) взору, сияет далеко (вокруг).  

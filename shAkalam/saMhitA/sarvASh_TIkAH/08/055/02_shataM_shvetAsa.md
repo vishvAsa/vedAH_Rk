@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ श्वेता꣡स उक्ष꣡णो  
 दिवि꣡ ता꣡रो न꣡ रोचन्ते  
 मह्ना꣡ दि꣡वं न꣡ तस्तभुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya
 म॒ह्ना । दिव॑म् । न । त॒स्त॒भुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
@@ -83,30 +83,30 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A hundred white oxen shine like stars in the heaven, by their size they have almost held up theheavens.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred gleaming white oxen shine like the stars in heaven;  
 with their might they seem to prop up heaven itself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert weiße Stiere glänzen wie die Sterne am Himmel. Durch ihre Größe stützen sie gleichsam den Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hundert weisse Ochsen glänzen wie Sterne am Himmel, durch ihre Grösse stützen sie gleichsam den Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотня белых быков,  
 Как звезды на небе сверкают.  

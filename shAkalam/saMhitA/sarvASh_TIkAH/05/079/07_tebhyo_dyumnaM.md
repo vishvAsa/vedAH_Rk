@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡भ्यो द्युम्न꣡म् बृह꣡द् य꣡श  
 उ꣡षो मघोनि आ꣡ वह  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सु꣡जाते अ꣡श्वसूनृते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ये । नः॒ । राधां॑सि । अश्व्या॑ । ग॒व्या । भज॑न्त । सू॒रयः॑ । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tebhyo* ← *tebhyaḥ* ← *tad*
 - \[noun\], dative, plural, masculine
@@ -126,14 +126,14 @@ genre M;; repeated line
 हे **उषो** **मघोनि** त्वं **तेभ्यो** **द्युम्नं** द्योतमानं हिरण्यादिरूपं धनं **बृहद्यशः** महदन्नं महती कीर्तिं वा तेभ्यो यजमानेभ्यः **आ** **वह** । **ये** आढ्याः **नः** अस्मभ्यं **राधांसि** धनानि **अश्व्याः** अश्वैर्युक्तानि **गव्या** गोभिर्युक्तानि गोसमूहानश्वसमूहान् च **भजन्त** भजेरन् ददुः **सूरयः** दातारः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Affluent Uṣas, bring wealth and abundant food to those who, liberal givers, bestow upon us riches with horses and cattle; bright-born goddess (who are) sincerely prised for (the gift of) horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To them bring lofty brilliance and glory, o bounteous Dawn,  
 to the patrons who apportion to us benefits consisting of horses  
@@ -141,7 +141,7 @@ and cows
 – o well-born lady, liberal with horses.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">
 <details open><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -154,23 +154,23 @@ emphasis on non-material rewards for the patrons continues in vs. 7 with “loft
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring lofty and resplendent fame, O thou munificent Dawn, to these  
      Our wealthy patrons who bestow rich gifts on us of steeds and kine, high-born! delightful with thy steeds!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihnen bring, o gabenreiche Usas, hohen Glanz und Ruhm mit, den freigebigen Herren, die uns Geschenke von Rossen und Rindern zuteilten, du Edelgeborene, Rosseschenkende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O fahre Schätze, grossen Glanz, o reiche Uschas, diesen zu, Den Opferherren, die mit Ross und Rindern reichlich uns beschenkt, o edle, rossereiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий блеск, великолепие  
 Привези, о щедрая Ушас, тем  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वेध꣡सं नी꣡लपृ꣡ष्ठम् बृह꣡न्तम्  
 बृ꣡हस्प꣡तिं स꣡दने सादयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रण्यवर्णम् अरुषं꣡ सपेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सा॒दत्ऽयो॑निम् । दमे॑ । आ । दी॒दि॒ऽवांस॑म् । हिर॑ण्यऽवर्णम् । अ॒रु॒षम् । स॒पे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,7 +107,7 @@ genre M
 आरोचमानम् । अथवेयमाग्नेयी । बृहतः परिवृढस्य कर्मणः स्वामीति बृहस्पतिरग्निरुच्यते । तथा नीलवर्णधूमपृष्ठत्वसदनसादनहिरण्यवर्णत्वादिलिङ्गैरप्यग्निरेव बृहस्पतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,30 +118,30 @@ genre M
 Whose back is dark blue: that is, who is enveloped in smoke, from this and other attributes specified and his presence in the sacrificial chamber, the inference is that Bṛhaspati is **Agni**, ityādi liṅgair apyagnir eva **Bṛhaspatiḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here on the seat make him sit—the ritual adept, dark-backed, lofty  Br̥haspati (as Agni).  
 Sitting on his womb, shining here in the house, golden-colored,  
 reddish—(him) may we serve.714 V.44
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set in his seat the God whose back is dusky, Brhaspati the lofty, the Disposer.  
      Him let us worship, set within the dwelling, the red, the golden-hued, the allresplendent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den hohen Meister, mit dem dunkelfarbigen Rücken, den Brihaspati setzet auf seinen Sitz! Wenn er seinen Platz einnimmt und im Hause leuchtet, wollen wir den Goldfarbigen, Rötlichen pflegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Setzt hin den Ordner, dessen Rücken schwarz ist, an einen Sitz, den mächtigen Gebets-Herrn; Lasst ehren uns den feurigen, den lichten, goldfarbigen, der in dem Hause Platz nimmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати, устроителя (обряда), с черной спиной,  
 Высокого, усадите на (его) сиденье.  

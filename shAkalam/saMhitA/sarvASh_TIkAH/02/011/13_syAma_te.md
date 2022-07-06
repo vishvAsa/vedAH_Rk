@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सिया꣡म ते꣡ त इन्द्र ये꣡ त ऊती꣡  
 अवस्य꣡व ऊ꣡र्जं वर्ध꣡यन्तः  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 अस्मे꣡ रयिं꣡ रासि वीर꣡वन्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 शु॒ष्मिन्ऽत॑मम् । यम् । चा॒कना॑म । दे॒व॒ । अ॒स्मे इति॑ । र॒यिम् । रा॒सि॒ । वी॒रऽव॑न्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *syāma* ← *as*
 - \[verb\], plural, Present optative
@@ -117,41 +117,41 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेइन्द्र तेतवऊतीऊत्याप्रणयनेन अवतेःप्राप्त्यर्थस्यक्तिनिरूपम् तेतवअवस्यवोरक्षाकामाऊर्जंहवि- र्लक्षणमन्नंवर्धयन्तोभवन्ति येवयन्तेत्वस्यामत्वदधीनाभवेम देवद्योतमान हेइन्द्र शुष्मिन्तमं दानभो- गायार्हतयाबलवत्तमम् यद्वा शत्रूणांशोषयितृतमंयंरयिञ्चाकनाम कामयामहे कनतेःकान्त्यर्थस्यय ङ्लुगन्तस्यलोटिरूपं वीरवन्तं पुत्रपौत्रैःसहितन्तादृशंरयिमस्मे अस्मभ्यंरासिदेहि ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, (through) your (favour), **Indra**, be such as those are, who, desirous of your protection, augment (by their praises) your vigour; divine (Indra), you grant the wealth which we desire, (the source of) great power and of (numerous) progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, might we be those of yours who are accompanied by your help,  since, seeking your help, we make your nourishment strong.  
 Grant us the most explosive wealth in which we will delight, o god— that consisting of heroic men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b contains another predicated pres. participle, vardháyantaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we be thine, such by thy help, O Indra, as swell thy vigour while they seek thy favour.  
      Give us, thou God, the riches that we long for, most powerful, with stare of noble children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten dir die sein, o Indra, die schutzsuchend deine Kraft zur Hilfe stärken. Schenk uns den kräftigsten Schatz, den wir begehren, o Gott, den Reichtum, der in Söhnen besteht, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir sein es, Indra, die durch deine Hülfe die Nahrung mehren, deine Gunst begehrend; Den schönsten Reichthum, den wir je begehrten, den heldenreichen, schenke du, o Gott, uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели бы стать теми для тебя, о Индра, кто, ища помощи,  
 В твоей поддержке, увеличил бы (твою) питательную силу!  

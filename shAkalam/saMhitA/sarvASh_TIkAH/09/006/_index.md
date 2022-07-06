@@ -8,7 +8,7 @@ title = "+006"
 ‘मन्द्रया' इति नवर्चं षष्ठं सूक्तं काश्यपस्यासितस्य देवलस्य वार्षं गायत्रं पवमानसोमदेवताकम् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 6 (718)  
 Soma Pavamāna  

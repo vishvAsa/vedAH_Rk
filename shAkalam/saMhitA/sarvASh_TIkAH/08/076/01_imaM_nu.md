@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नु꣡ मायि꣡नं हुव  
 इ꣡न्द्रम् ई꣡शानम् ओ꣡जसा  
 मरु꣡त्वन्तं न꣡ वृञ्ज꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒रुत्व॑न्तम् । न । वृ॒ञ्जसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इमं** **मायिनं** प्रज्ञावन्तम् **ओजसा** स्वबलेन **ईशानं** सर्वस्य स्वामिनं **मरुत्वन्तं** **न** । नेति संप्रत्यर्थे । मरुद्भिस्तद्वन्तमिदानीम् **इन्द्रं** वृञ्जसे शत्रूणां छेदनाय **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke now for the destruction of my enemies the wise **Indra** attended by the **Maruts**, ruling all by hispower.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This master of artifice here I now invoke, Indra, holding sway by  his might,  
 accompanied by the Maruts—as if to twist (him here).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The position and function of ná in c are somewhat troubling. If, as seems likely, it is the simile marker, its position should mark marútvantam as the simile “like one accompanied by the Maruts,” but this makes no sense, since Indra’s being accompanied by the Maruts for real is the insistent point of this hymn. It therefore must be construed with the following infinitival vṛñjáse and have an “as if” sense (so Geldner), rather than participating in a strict simile structure. I attribute the flipping of the word order to the fact that simile-marking ná seems to be blocked from pāda-final position. See comm. ad X.21.1 and X.111.7. This phenomenon was already noted by Geldner; see his n. 4a to IV.27.4. The only counterexample I have found is VII.68.8 It might also be possible to take vṛñjáse as a truncation of *párivṛñjase and the ná as the negative, “for (him) not to avoid (us),” but there is no model for this nor any reason to assume truncation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 इ॒मं नु मा॒यिनं॑ हुव॒ इन्द्र॒मीशा॑न॒मोज॑सा ।  
 म॒रुत्व॑न्तं॒ न वृ॒ञ्जसे॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen listenreichen Indra rufe ich jetzt, der durch seine Stärke mächtig ist, den Marutbegleiteten, um ihn gleichsam in Beschlag zu nehmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun ruf ich diesen weisen an, den Indra mit der Marutschar, Der kraftvoll herrscht, er weiche nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

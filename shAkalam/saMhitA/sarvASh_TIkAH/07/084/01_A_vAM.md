@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां राजानाव् अध्वरे꣡ ववृत्यां  
 हव्ये꣡भिर् इन्द्रावरुणा न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि त्म꣡ना वि꣡षुरूपा जिगाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । वा॒म् । घृ॒ताची॑ । बा॒ह्वोः । दधा॑ना । परि॑ । त्मना॑ । विषु॑ऽरूपा । जि॒गा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -112,14 +112,14 @@ genre M
 हे **राजानौ** राजमानावीश्वरौ वेन्द्रावरुणौ अध्वरे हिंसारहितेऽस्मिन् यागे **वां** युवां **हव्येभिः** हविर्भिः **नमोभिः** स्तोत्रैश्च **आ** **ववृत्याम्** अविर्तयामि । अपि च **बाह्वोः** हस्तयोः **दधाना** धार्यमाणा **विषुरूपा** । रूप्यत इति रूपं हविः । विविधहविर्युक्ता **घृताची** घृतमञ्चन्ती जुहूः **त्मना** आत्मना स्वयमेव **वां** युवां **परि** **प्र** **जिगाति** अभिप्रगच्छति । यद्वा । विषुरूपा नानाविधरूपौ वामिति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Royal **Indra** and **Varuṇa**, I invite you to the sacrifice with oblations and with praise; the butter-dropping(ladle), held in our **hands**, offers spontaneously (the oblation) to you who are of many forms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I would turn you two here to our rite with oblations and reverence, o  kings Indra and Varuṇa.  
 The ghee-rich one [=the ladle/hymn] (goes) forth to you two, being  
@@ -127,23 +127,23 @@ held (forth) in our arms. By itself it goes all around in its varying
 appearance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 KINGS, Indra-Varuna, I would turn you hither to this our sacrifice with gifts and homage.  
      Held in both arms the ladle, dropping fatness, goes of itself to you whose forms are varied.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch beide, ihr Könige, möchte ich zum Opfer mit Spenden und Verbeugungen herlenken, Indra und Varuna. Der in den Armen gehaltene Schmalzlöffel geht für euch rundum, selbst in verschiedener Form erscheinend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Herrscher will zum Feste her ich wenden, Varuna-Indra, mit Gebet und Opfern; Im Arm gehalten schreitet zu euch beiden ungleich an Farbe vor der Butterlöffel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас, о два царя, я хотел бы привлечь к обряду  
 Жертвами, о Индра-Варуна, поклонениями.  

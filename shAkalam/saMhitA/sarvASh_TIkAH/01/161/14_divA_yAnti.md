@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवा꣡ यान्ति मरु꣡तो भू꣡मियाग्नि꣡र्  
 अयं꣡ वा꣡तो अन्त꣡रिक्षेण याति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युष्माँ꣡ इछ꣡न्तः शवसो नपातः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒त्ऽभिः । या॒ति॒ । वरु॑णः । स॒मु॒द्रैः । यु॒ष्मान् । इ॒च्छन्तः॑ । श॒व॒सः॒ । न॒पा॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
@@ -119,37 +119,37 @@ popular
 हे **शवसः** वृष्टिकार्यस्य बलस्य **नपातः** नपातयितारः ऋभवः **युष्मान्** **इच्छन्तः** वृष्ट्यनुकूलचिकीर्षया युष्मानेवेच्छन्तः सर्वे देवा आयान्ति । कस्मादिति तदुच्यते । **मरुतः** वृष्ट्यनुकूलाः देवाः **दिवा** द्युलोकात् **यान्ति** आगच्छन्ति ॥ ‘सावेकाचः०' इति तृतीयाविभक्तेरुदात्तत्वम् ॥ **भूम्या** भूमेः सकाशात् **अग्निः** याति आगच्छति । **अयं** **वातः** सर्वदा संचारी वायुः **अन्तरिक्षेण** **याति** अन्तरिक्षादायाति । तथा **वरुणः** आवरको जलाभिमानी देवः समुद्रै समुन्दनस्वभावैः **अद्भिः** ताभ्य आयाति । यद्वा पूर्वं वृष्टिसाहाय्याय आगता एते देवाः कृतकार्याः सन्तः पुनर्युष्मान् कामयमानाः स्वस्वदेशं प्रति यान्तीत्यर्थः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sons of Strength, the **Maruts**, desirous of your coming, advance from the sky; **Agni** comes (to meet you) from the earth; the wind traverses the firmament; and **Varuṇa** comes with undulating waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts travel through heaven, Agni along the earth; the Wind here  travels through the midspace;  
 Varuṇa travels through the waters and seas—seeking you, o sons of  strength.  
 The following two hymns treat the Horse Sacrifice (Aśvamedha) and are the only  absolutely clear reflections of this ritual in the R̥gveda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts move in heaven, on earth this Agni; through the mid-firmament the Wind approaches.  
      Varuna comes in the sea's gathered waters, O Sons of Strength, desirous of your presence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Himmel gehen die Marut, auf der Erde Agni, der Wind geht im Luftraum; in den Wassern, in den Meeren geht Varuna, indem sie euch suchen, ihr Kinder der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Himmel gehn die Maruts, auf der Erde geht Agni, und der Wind hier durch die Lüfte; und Varuna geht durch des Meeres Fluten; sie alle suchen euch, der Stärke Söhne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты движутся по небу, Агни по земле,  
 Этот Вата движется по воздуху,  

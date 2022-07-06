@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् आपः प्र꣡ वहत  
 य꣡त् किं꣡ च दुरित꣡म् म꣡यि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् वा शेप꣡ उता꣡नृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424);; repeated line
 यत् । वा॒ । अ॒हम् । अ॒भि॒ऽदु॒द्रोह॑ । यत् । वा॒ । शे॒पे । उ॒त । अनृ॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], accusative, singular, neuter
@@ -113,36 +113,36 @@ popular;; epic anuṣṭubh (424);; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Waters, take away whatever sin has been (found) in me, whether I have (knowingly) done wrong, orhave pronounced imprecations (against holy men), or have spoken untruth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Waters, carry this away, whatever trouble is in me—  
 whether I have committed deceit or I have cursed—as well as untruth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever sin is found in me, whatever evil I have wrought,  
      If I have lied or falsely sworn, Waters, remove it far from me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Gewässer, führet all das fort, was von Fehle an mir ist, sei es daß ich treulos war, oder daß ich falsch geschworen habe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wasser, traget alles fort, was irgend Unrecht ist an mir, Was andern Uebles ich gethan, was ich gelogen, was geflucht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Унесите прочь, о воды, то,  
 Что греховно во мне:  

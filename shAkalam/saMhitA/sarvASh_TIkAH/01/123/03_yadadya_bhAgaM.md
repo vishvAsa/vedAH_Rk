@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ भागं꣡ विभ꣡जासि नृ꣡भ्य  
 उ꣡षो देवि मर्तियत्रा꣡ सुजाते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नागसो वोचति सू꣡रियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वः । नः॒ । अत्र॑ । स॒वि॒ता । दमू॑नाः । अना॑गसः । वो॒च॒ति॒ । सूर्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 **सुजाते** शोभनजनने **देवि** देवनशीले हे उषः उषःकालाभिमानिदेवते **मर्त्यत्रा** मनुष्याणां पालयित्री त्वम् अद्य अस्मिन् काले **नृभ्यः** मनुष्येभ्यः यत् यं **भागं** भजनीयं स्वकीयप्रकाशस्यांशं **विभजासि** विभज्य ददासि । यद्वा । मर्त्यत्रा मर्त्येषु मध्ये नृभ्यः यजमानेभ्यः देवानां भागं विभज्य ददासि । उषसि प्रवृत्तायां हविषो दीयमानत्वात् उषसो दातृत्वमुपचर्यते । **अत्र** अस्मिन् भागविषये **दमूनाः** यजमानेभ्यः अभिमतफलदानमनाः। दमूना दममना वा दाममना वा दान्तमना वा' (निरु. ४. ४ ) इति निरुक्तवचनम् । तादृशः **सविता** प्रेरकः **देवः** **नः** अस्मान् **अनागसः** **वोचति** अपापान् यागयोग्यान् ब्रवीतु अनुगृह्णातु इत्यर्थः। किमर्थम्। **सूर्याय** अस्मद्यागदेशं प्रति सूर्यस्यागमनार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Bhāgam, a share (of light, prakāśasya);or, a share of the offerings to the gods; so that the sun may come: the text has only sūryāya, for the sake of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When today you will share out a share to the superior men among  mortals, o nobly born goddess Dawn,  
 god Savitar, master of the house, will here declare to the Sun that we are  without offense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If, Dawn, thou Goddess nobly born, thou dealest fortune this day to all the race of mortals,  
      May Savitar the God, Friend of the homestead, declare before the Sun that we are sinless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, Göttin Usas, heute unter den Sterblichen den Herren ihr Teil zuteilen wirst, du Edelgeborene, so soll uns Gott Savitri, der Gebieter, dabei dem Surya als sündlos melden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn heute du den Männern Gaben austheilst, o edle Uschas, Göttin bei den Menschen, Dann mög' uns hier Gott Savitar, der Hausfreund, als frei von Schuld dem Sonnengott verkünden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если сегодня ты станешь раздавать мужам (их) долю  
 Среди смертных, о Ушас, прекраснорожденная богиня,  

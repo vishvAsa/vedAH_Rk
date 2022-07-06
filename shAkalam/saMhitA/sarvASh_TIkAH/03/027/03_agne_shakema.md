@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने शके꣡म ते वयं꣡  
 य꣡मं देव꣡स्य वाजि꣡नः  
 अ꣡ति द्वे꣡षांसि तरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अति॑ । द्वेषां॑सि । त॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -82,7 +82,7 @@ genre M
 हे **अग्ने** **वाजिनः** संभृतहविष्काः **वयं** **देवस्य** द्योतमानस्य' **ते** तव **यमं** यमनम् आ यज्ञसमाप्तेः अत्रावस्थानं कर्तुं **शकेम** शक्यास्म। वाजिनो वेगवतो देवस्य इति वा योजनीयम् । ततः कारणात् **द्वेषांसि** अस्मदीयानि पापानि **अति** **तरेम** पापेभ्य उत्तीर्णा भवेम ॥ शकेम । शक्लृ शक्तौ ' इत्यस्य आशीर्लिंङि ' लिङ्याशिष्यङ्' इत्यङ्प्रत्ययः । ‘ किदाशिषि ' इति यासुट् । सलोपेयादेशयलोपगुणसलोपाः । आमन्त्रितस्याविद्यमानत्वेन पादादित्वादनिघातः । उदात्तनिवृत्तिस्वरः । यमम् । ‘यम उपरमे ' इत्यस्माद्भावे घञ् । ‘यम उपरमे' इति निपातनात् वृद्ध्यभावः । ञित्स्वरः । तरेम । ‘तॄ प्लवनतरणयोः ' । प्रार्थने लिङि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,33 +93,33 @@ genre M
 Animosities: dveṣāṃsi, hatreds; added, pāpāni, sins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, may we be able to guide the prizewinning (horses) of you, a god; may we cross beyond hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, if we might obtain control of thee the potent God,  
      Then should we overcome our foes.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Agni, may we be able to bridle thee the strong god 1; may we overcome (all) hostile powers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Wir möchten imstande sein, deine, des Gottes, Siegesrosse zu lenken; wir möchten den Anfeindungen entrinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O könnten deine Rosse wir, des Gottes Agni lenken doch, Dann drängen durch die Feinde wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни. да сумеем мы у тебя, бога,  
 Обуздать коней, приносящих награды!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवो꣡र् वां नून꣡म् अश्विना युवा꣡कुर्  
 हुवे꣡ य꣡द् वां सुते꣡ माध्वी वसूयुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बाथो अस्मे꣡ सु꣡षुता म꣡धूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । व॒ह॒न्तु॒ । स्थवि॑रासः । अश्वाः॑ । पिबा॑थः । अ॒स्मे इति॑ । सुऽसु॑ता । मधू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avor* ← *\_* ← *√\_*
 - \[?\]
@@ -120,37 +120,37 @@ genre M
 हे **अश्विना** अश्विनौ **अवोः** रक्षित्रोर्युवाभ्यां **युवाकुः** युवां कामयमानोऽहं **नूनम्** अत्र स्वभूतो भवामीति शेषः । **यत्** यस्मात् हे **माध्वी** मधुरस्य सोमस्यार्हौ मधुविद्यासंबन्धिनौ वा **वां** युवां **सुते** अभिषुते सोमे **वसूयुः** वसुकामः **हुवे** स्तौमि अतो वां स्वभूतः। **वां**  युवाम् **आ** **वहन्तु** । के। **स्थविरासः** स्थूलाः प्रवृद्धाः **अश्वाः**। एतयोरतिप्रवृद्धत्वाच्छीघ्रगतेरपेक्षितत्वाच्च स्थविरैरेव भाष्यम् । आगमनानन्तरम् **अस्मे** अस्माभिः **सुषुता** सुष्ठ्वभिषुतानि **मधूनि** मधुररसान् **पिबाथः** पिबतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Relying on you, **Aśvins**, as protectors, desirous of wealth, **Mādhvis**, I invoke you when the **Soma** iseffused; may your stout horses bring you (hither); drink the sweet Soma poured out by us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, seeking you, o honey-bearing Aśvins, your (chariot carries)  you, when, seeking good things, I call upon you two at the  
 soma-pressing.  
 Let your stout horses carry you here. You will drink the well-pressed  honey drinks among us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, suppliant for your help, Lovers of Sweetness! I seeking wealth call you to our libation,  
      Hitherward let your vigorous horses bear you: drink ye with us the well-pressed Soma juices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich, euer Diener von euch gnädigen Herren, o Asvin, euch jetzt Schätze begehrend zum Soma lade, ihr Süßliebende, so sollen euch die stämmigen Rosse herfahren, ihr sollt bei uns den wohlgepreßten Süßtrank trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eure bin ich jetzt, o Ritter, wenn ich euch Holde Gut begehrend ruf beim Safte; Her mögen euch die strammen Rosse fahren; bei uns geniesst die schön gepressten Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда сейчас вас, о Ашвины, преданный вам двоим,  
 Я призываю, жаждя благ, на выжатый для вас (сок), о любители меда,  

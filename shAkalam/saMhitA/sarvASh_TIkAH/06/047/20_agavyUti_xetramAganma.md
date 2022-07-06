@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अगव्यूति꣡ क्षे꣡त्रम् आ꣡गन्म देवा  
 उर्वी꣡ सती꣡ भू꣡मिर् अंहूरणा꣡भूत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इत्था꣡ सते꣡ जरित्र꣡ इन्द्र प꣡न्थाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॑स्पते । प्र । चि॒कि॒त्स॒ । गोऽइ॑ष्टौ । इ॒त्था । स॒ते । ज॒रि॒त्रे । इ॒न्द्र॒ । पन्था॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agavyūti*
 - \[noun\], accusative, singular, neuter
@@ -122,7 +122,7 @@ genre M
 अत्रोक्तम्- अरण्ये निर्जने गर्गो देवान् भूमिं बृहस्पतिम् । इन्द्रं चास्तौत् स्वरक्षार्थमृचा मार्गच्युतोऽनया' इति, ‘अगव्यूतीत्यत्र देवान् पादे भूमिमथोत्तरे। बृहस्पतिं तृतीये तु इन्द्र एवोत्तमे स्तुतः  ' इति च ॥ हे **देवाः** **अगव्यूति** अगोचरं गोसंचाररहितं निर्जनं **क्षेत्रं** देशम् **आगन्म** आगताः स्मः । अतो मां रक्षतेति शेषः । **उर्वी** विस्तीर्णा **सती** **भूमिः** च **अंहूरणा**। अंहव आहन्तारो दस्यवः तेषां रमणा रमयित्री **अभूत्** भवति । अस्मानतः सापि रक्षतु । हे **बृहस्पते** त्वं **गविष्टौ** गवामन्वेषण उपाये **प्र** **चिकित्स** प्रवेदय। **इत्था** इत्थमनेन प्रकारेण **सते** भवते दुःखमनुभवते **जरित्रे** स्तोत्रे मह्यं हे **इन्द्र** **पन्थां** पन्थानं मार्ग प्र चिकित्स प्रज्ञापय ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 **Garga**, the author of this **sūkta**, is said to have lost his way in a desert; he repeated this ṛca to Bṛhaspati and Indra, who enabled him to regain his road; no track of cattle: agavyūti kṣetram = gosañcararahitam deśam, a plural ce devoid of the grazing of cattle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have come here to a field without pasturage, o gods. Though it was  wide, the land has become narrow.  
 O Br̥haspati, o Indra, be on the lookout for a path for the singer who is  in this state on his quest for cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pres. part. satī́in b is concessive, while saté in the same position in d is not.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, we have reached a country void of pasture the land, though spacious, was too small to hold us.  
      Brhaspati, provide in war for cattle; find a path, Indra, for this faithful singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter! Wir sind in ein wegloses Land gekommen. Die Erde, die doch so breit ist, ist eng geworden. Brihaspati, suche dem Sänger, der auf der Suche nach Kühen in solcher Lage ist, und du, Indra, den Weg auszukunden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir kamen zu einem weidelosen Lande, o Götter; die Erde, die doch weit ist, ward uns enge; o Brihaspati zeige in dem Kampfe den Pfad, o Indra, dem wahrhaft treuen Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О боги, мы попали в местность без пастбищ.  
 Хоть земля и широка, (нам) она стала узкой.  

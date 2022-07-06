@@ -8,7 +8,7 @@ title = "+005"
 ' होताजनिष्ट ' इत्यष्टर्चं पञ्चमं सूक्तं सोमाहुतेरार्षमाग्नेयमानुष्टुभम् । ' होताष्टावानुष्टुभम्' इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रतौ अस्य विनियोगः । सूत्रितं च-' अग्नायो होताजनिष्ट ' ( आश्व. श्रौ. ४. १३) इति । चतुर्विशेऽहन्यपीदमेवाज्यम् । ' चतुर्विंशे होताजनिष्टेत्याज्यम् '( आश्व. श्रौ. ७. २) इति । आभिप्लविके द्वितीयेऽहनीदमेवाज्यम् । ' द्वितीयस्य चतुर्विंशेनाज्यम् ' ( आश्व. श्रौ. ७. ६) इत्यतिदिष्टत्वात् ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 5 (196)  
 Agni  
@@ -21,7 +21,7 @@ Their number of three may allude to the trio of goddesses in the Āprī hymns (s
 The hymn provides valuable evidence for the technical details and the personnel  and their duties of R̥gvedic ritual, which, though sharing much terminology and  many procedures, nonetheless differs from the later, very well-documented, classical  śrauta ritual of middle Vedic times.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni The first seven of the eight vss. (the 8th being a summary vs.) name and describe the various priestly roles that Agni assumes in the ritual. In all but vs. 3 the priestly title is given; in 3 the title must be inferred from the description, which unfortunately is somewhat muddled. See extensive disc. below.
 </details>

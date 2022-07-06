@@ -8,7 +8,7 @@ title = "+018"
 द्वितीयेऽनुवाके षोडश सूक्तानि । तत्र ‘त्वे ह यत्पितरः' इति पञ्चविंशत्यृचं प्रथमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमिन्द्रदेवताकम् । द्वाविंशादिभिश्चतसृभिः सुदासनाम्नो राज्ञो दानं स्तूयते । अतस्तास्तदेवताकाः । अनुक्रम्यते हि - त्वे ह यत्पञ्चाधिकैन्द्रं सुदासः पैजवनस्य चतस्रोऽन्त्या दानस्तुतिः इति । महाव्रत आदितः पञ्चदशर्चः शंसनीयाः। तथैव पञ्चमारण्यके सूत्रितं - ’ त्वे ह यात्पितरश्चिन्न इन्द्रेति पञ्चदश' (ऐ. आ. ५. २. २) इति ॥ ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 18 (534)  
 Battle of the Ten Kings: Indra (1–21), Sudās  
@@ -21,7 +21,7 @@ The battle proper and its immediate aftermath occupy verses 5–21; the battle  
 The final four verses (22–25) are a dānastuti, praising the extravagant gifts of  Sudās to the poet, ending (vs. 25) by commending Sudās to the protection of the  Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra (Battle of the Ten Kings) I have little or nothing to contribute to the interpr. of this famous hymn, esp.
 

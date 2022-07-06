@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ कृष्टिहे꣡व शूष꣡ एति रो꣡रुवद्  
 असुर्यं᳡ व꣡र्णं नि꣡ रिणीते अस्य त꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उपप्रु꣡तं कृणुते निर्णि꣡जं त꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 जहा॑ति । व॒व्रिम् । पि॒तुः । ए॒ति॒ । निः॒ऽकृ॒तम् । उ॒प॒ऽप्रुत॑म् । कृ॒णु॒ते॒ । निः॒ऽनिज॑म् । तना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 **शूषः** शत्रूणां शोषको बलवान् सोमः **रोरुवत्** अत्यन्तं शब्दं कुर्वन् **कृष्टिहेव** मनुष्याणां हन्ता योद्धेव **प्र** **एति** प्रगच्छति । किंच **असुर्यम्** असुराणां बाधकम् **अस्य** आत्मनो **वर्णं** हरितमावारकं बलं वा **नि** **रिणीते** निर्गमयति । ततः स सोमः **वव्रिम्** । वृणोति शरीरमिति वव्रिर्जरा। **जहाति** त्यजति । कथमिति चेत् तदुच्यते । **पितुः** अन्नं सोमः **निष्कृतं** संस्कृतं द्रोणकलशं दिवं वा इदानीम् **एति** गच्छति । किंच सोमः **तना** अविवालेन तते विस्तृते देशापवित्रे **निर्निजम्** । निर्निगिति रूपनाम । आत्मीयं रूपम् **उपप्रुतम्** उपगमनशीलं **कृणुते** करोति । तस्माज्जरां त्यजतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,13 +156,13 @@ Pituḥ = juice or food;
 **Tanā** = in the filter outstretched by the sheep-skin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a smiter of peoples, explosive he goes forth, roaring again and  again. He spills down the lordly color that is his.  
 He abandons his covering, and he goes to his rendezvous with his father.  He makes what floats nearby [=milk] in its full measure into his fresh  garment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 gúhā padám and IX.10.9 divás padám … gúhā hitám. Both Renou and Lüders take apīcyàm padám together, but Renou interprets padám as ‘word’ (“le mot secret de la vâche” - though ‘word’ for padá- is barely found in the RV if at all) and Lüders as ‘place’, which he further specifies, in his usualy style, as the “Milchflut im Himmel.” On the basis of the formula just cited, I prefer ‘track’, with the verbs of motion in c indicating that Soma is following this track (which, on the basis of 102.2 I think is the track through the filter) to his rendezvous with the milk.
 
@@ -171,23 +171,23 @@ matútha- is a hapax whose formation is unclear, but a derivation from √man �
 to the index thereto), but see Renou’s plausible suggestion that it is connected to mántu-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong, bellowing, he goes, like one who slays the folk; he lets this hue of Asuras flow off from him,  
      Throws off his covering, seeks his father's meeting-place, and thus makes for himself the bright robe he assumes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mutig wie ein Völkertöter geht er brüllend; er legt diese seine asurische Farbe ab. Indem er seine Hülle verläßt, kommt er als Speise an seinen Bestimmungsort. Er macht die obenauf schwimmende Milch in unterbrochenem Gusse zu seinem Festgewand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ein Erobrer dringt er schnaufend, brüllend vor, lässt niederrinnen diesen seinen Himmelsglanz, Wirft ab die Hülle, geht zu seines Vaters Ort, und legt im Lauf das wallende Gewand sich an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отважный, как убийца народов. Идет он, громко ревя.  
 Он расстается с этим асурским цветом.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वान ऋत꣡जाता ऋतावृ꣡धो  
 घोरा꣡सो अनृतद्वि꣡षः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सिया꣡म ये꣡ च सूर꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तेषा॑म् । वः॒ । सु॒म्ने । सु॒च्छ॒र्दिःऽत॑मे । न॒रः॒ । स्याम॑ । ये । च॒ । सू॒रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvāna* ← *ṛtāvānaḥ* ← *ṛtāvan*
 - \[noun\], nominative, plural, masculine
@@ -113,7 +113,7 @@ genre M
 हे यूयम् **ऋतावानः** ऋतवन्तो यज्ञवन्त उदकवन्तो वा **ऋतजाताः**। उक्त ऋतशब्दार्थः । तदर्थमुत्पन्नाः । अथवा ऋतात् प्रजापतेः सकाशादुत्पन्नाः । **ऋतावृधः** उक्तार्थस्य ऋतस्य वर्धयितारः **घोरासः** घोराः **अनृतद्विषः** अयष्टृद्वेष्टारः **तेषां** **वः** युष्माकं **सुच्छर्दिष्टमे** सुखतमे **सुम्ने** धने अत्यन्तरमणीयगृहयुक्ते सुखे वा ये वयं **ये** **च** अन्ये **सूरयः** स्तोतारस्ते सर्वे **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 Those men who are: teṣām vaḥ sumne succharidiṣṭame = of those of you in the most blissful opulence, or inhappiness, united with a most delightful dwelling, sukhatame **dhane** atyantaramaṇīya gṛhayukte sukhe vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You) possessing the truth, born of the truth, and strengthening  through the truth, (you) terrifying haters of untruth—  
 might we be in the most protective favor of you, o men, and might also  our patrons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 True to Law, born in Law the strengtheners of Law, terrible, haters of the false,  
      In their felicity which gives the best defence may we men and our princes dwell.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wahrhaftigen, aus der Wahrheit Geborenen, die Wahrheit Mehrenden, gefürchteten, die Unwahrheit Hassenden-in deren schützendster Gunst von euch, ihr Herren, möchten wir sein und die Lohngeber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerechte ihr, im Recht geboren und erstarkt, erhabne, Unrecht fassende, In eurem Schirm, o Männer, der am besten schützt, lasst uns sein und die Fürstenschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Преданные закону, рожденные законом, усиливающиеся от закона,  
 Грозные, ненавидящие беззаконие –  

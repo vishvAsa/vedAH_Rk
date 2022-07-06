@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡क्षा सु꣡ नो अ꣡ररुषः  
 स्वना꣡त् समस्य क꣡स्य चित्  
 निदो꣡ य꣡त्र मुमुच्म꣡हे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नि॒दः । यत्र॑ । मु॒मु॒च्महे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
@@ -94,19 +94,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **नः** अस्मान् **सु** सुष्ठु **रक्ष** पालय । कस्मात् । **अररुषः** अदातुः **स्वनात्** शब्दात् निन्दारूपात्। किमेकस्यादानशीलस्य । न । **समस्य** सर्वस्य योऽस्ति तस्य सर्वस्य कस्यचित् । कंचनामुञ्चन्नित्यर्थः । न केवलमदातुः स्वनात् । किं तर्हि । **कस्य** **चित्** कस्यापि **निदः** निन्दकाद्रक्ष । **यत्र** **मुमुच्महे** यस्मिन्रक्षणे सति वयं मुक्ता भवेम तेन रक्षणेन रक्षेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Preserve us from the reproach of every one who makes offerings, who utters a blame-- that we may be free.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us well from the non-giver, from the mere sound of any such a one, when we have become free of insult.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 áraruṣaḥ in pāda a can be gen. or abl. sg. Either of them can fit the syntax: as abl. it can be construed directly with rákṣā (“protect from …”) and be parallel to svanā́t in b; as gen., it can be dependent on svanā́t and part of the gen. NP samasya kásya cit. Geldner follows the 2nd path (“vor dem Schnauben eines jeden Geizhalses”), while Renou (and I) the 1st . I do so partly because an abl. simply gives more oomph -- protection from a non-giver seems more critical than simply from the sound of one -- but primarily because of the word order: the audience hearing a form that could be abl. immediately after √rakṣ would naturally take it as an abl. It’s possible that they would revise their opinion on encountering a 2nd abl.
 
@@ -115,23 +115,23 @@ followed by a gen. sg. to which áraruṣaḥ could belong, but it’s also poss
 The subordinate cl. in c does not fit with the main cl. very well, as the awkwardness of the published translation shows. The problem is the verb: what is wanted in context is a modal in a purpose-type clause (“so that we will/may become free of insult”); this would work well with protection from the “sound” in pāda b. But mumucmáhe is resolutely pf. indicative (or redupl. pres. indic.; see Kümmel 380 and nn. 677, 678). Both Geldner and Renou supply material to smooth the transition, Renou with a pres. part. attached to ab: “(nous plaçant) là où nous soyons à l’abri de la nocivité” -- thus also sneaking in the desirable modality. Geldner starts a new sentence with c, supplying as main cl. “da wollen wir sein.” Kümmel avoids supplying anything, but sneaks in futurity in parens: “da wir von der Schmach befreit (worden) sind.” I don’t have a good solution and so stick with the awk. published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Preserve us from the godless, from ill-omened voice of one and all,  
      That so we may be freed from blame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Behüte uns vor dem Schnauben eines jeden Geizhalses, wer er auch sei; wo wir von Tadel verschont bleiben, da wollen wir sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Errett' uns von dem Geizigen, von jedes Menschen Wuth dahin, Wo wir von Hassern sind befreit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити нас хорошенько от скупца,  
 От (его) голоса, кем бы он ни был!  

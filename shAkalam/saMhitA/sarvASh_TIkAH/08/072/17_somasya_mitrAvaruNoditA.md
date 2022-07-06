@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मस्य मित्रावरुणा  
 उ꣡दिता सू꣡र आ꣡ ददे  
 त꣡द् आ꣡तुरस्य भेषज꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तत् । आतु॑रस्य । भे॒ष॒जम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे मित्रावरुणौ **सूरे** सूर्ये **उदिता** उदिते **सोमस्य** सोमम् **आ** **ददे** स्वीकरोति । तत्र हेतुमाह। **तत्** स्वीकाररूपं कर्म **आतुरस्य** अस्मदादेः **भेषजम्** औषधम् । हितकरमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,34 +91,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I take: adude =svīkaroti, he takes, svīkaromi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Mitra and Varuṇa, at the rising of the sun I take of the soma:  
 it is healing for the afflicted.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́dade is ambiguous between 1st and 3rd sg. Geldner opts for 3rd, Renou for 1st , and Oldenberg waffles. I have chosen “I” but with no strong preference either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I took some Soma when the Sun rose up, O Mitra, Varuna.  
      That is the sick man's medicine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beim Aufgang der Sonne hat er Soma zu sich genommen, o Mitra und Varuna: Das ist das Heilmittel für den Kranken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Soma, Mitra-Varuna, nahm ich beim Sonnenaufgang mir, Das ist des Kranken Arzenei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На восходе солнца, о Митра-Варуна,  
 Я взял себе сомы:  

@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते म꣡दो यु꣡जियश् चा꣡रुर् अ꣡स्ति  
 ये꣡न वृत्रा꣡णि हरिअश्व हं꣡सि  
 स꣡ त्वा꣡म् इन्द्र प्रभूवसो ममत्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सः । त्वाम् । इ॒न्द्र॒ । प्र॒भु॒व॒सो॒ इति॑ प्रभुऽवसो । म॒म॒त्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -106,20 +106,20 @@ genre M
 हे **हर्यश्व** **ते** तव **यः** **युज्यः** अनुगुणः **चारुः** समीचीनः **मदः** मदकरः सोमः **अस्ति** विद्यते **येन** च पीतेन सोमेन **वृत्राणि** **हंसि** हे **प्रभूवसो** प्रभूतंधन **इन्द्र** **त्वां** **सः** सोमः **ममत्तु** मादयतु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the exhilarating **Soma** which is fit for and suitable to you, by which, lord of bay horses, you slayVṛtra, exhilarate you, **Indra**, abounding in riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dear exhilarating drink that exists to be yoked by you, with which  you smash obstacles, you of the fallow bays,  
 let that one exhilarate you, Indra of preeminent goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I tr. ásti as an existential (“exists to be yoked”) rather than simply a copula with the predicated gerundive yújyaḥ (“is to be yoked”) because the 3rd sg. pres. of √as is almost always an existential, given that the copula is almost always gapped.
 
@@ -128,23 +128,23 @@ However, this may be too emphatic a tr., and it is the case that a surface copul
 here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So let the draught of joy, thy dear companion, by which, O Lord of Bays, thou slayest foemen,  
      Delight thee, Indra, Lord of princely treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rauschtrank, der dir zukommt und genehm ist, mit dem du die Feinde erschlägst, du Falbenfahrer, der soll dich berauschen, schatzreicher Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Rauschtrank, den du liebst und der dir werth ist, durch den du schlägst den Feind, o Füchselenker, Der möge, reicher Indra, dich berauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) пьянящий напиток, что подходит тебе и приятен,  
 С чьей помощью ты поражаешь врагов, о повелитель буланых коней,  

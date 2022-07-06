@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नो वाजिनीवसू  
 यात꣡म् ऋत꣡स्य पथि꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 महे꣡ क्षत्रा꣡य जि꣡न्वथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 येभिः॑ । तृ॒क्षिम् । वृ॒ष॒णा॒ । त्रा॒स॒द॒स्य॒वम् । म॒हे । क्ष॒त्राय॑ । जिन्व॑थः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -91,36 +91,36 @@ genre M
 हे **वाजिनीवसू** अन्नधनवन्तौ । अन्नमेव धनं यथोस्तौ । अश्विनौ **ऋतस्य** सत्यभूतस्य यज्ञस्य **पथिभिः** मार्गैः **नः** अस्मान् **उप** **यातम्** आगच्छतम् । **वृषणा** वृषणौ धनानां सेक्तारौ हे अश्विनौ **त्रासदस्यवं** त्रसदस्योः पुत्रं **तृक्षिम्** एतन्नामकं **येभिः** यैर्यज्ञमार्गैः **महे** महते **क्षत्राय** धनाय **जिन्वथः** प्रीणयथ । एवं तैर्मार्गैरस्मान् धनादिभिः प्रीणयितुमागच्छतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rich in food, **Aśvins**, come to us by the paths of sacrifice, those by which showerers (of benefits), youwent to gratify Tṛkṣi, the son of **Trasadasyu**, with vast wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you whose goods are prizewinning mares, drive right up to us along  the paths of truth,  
 along which you spur Tr̥kṣi, son of Trasadasyu, for great sovereignty,  o bulls.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us, Lords of ample wealth, by paths of everlasting Law,  
      Whereby to high dominion ye with mighty strength raised Trksi, Trasadasyu's son.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns, o Lohnreiche, auf den rechten Wegen, auf denen ihr Bullen den Triksi, des Trasadasyu Sohn, zu großer Herrschaft anspornet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O labungsreiche kommet heut zu uns her auf der Wahrheit Pfad, Auf dem den Trikschi ihr, des Trasadasju Sohn zu hoher Herrschaft nun erhebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к нам, о богатые наградами,  
 Путями (вселенского) закона,  

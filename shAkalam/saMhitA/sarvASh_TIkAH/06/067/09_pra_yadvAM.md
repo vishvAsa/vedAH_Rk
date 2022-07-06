@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ य꣡द् वाम् मित्रावरुणा स्पू᳐र्ध꣡न्  
 प्रिया꣡ धा꣡म युव꣡धिता मिन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡यज्ञसाचो अ꣡पियो न꣡ पुत्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । ये । दे॒वासः॑ । ओह॑सा । न । मर्ताः॑ । अय॑ज्ञऽसाचः । अप्यः॑ । न । पु॒त्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 हे मित्रावरुणौ **वां** युवयोः **प्रिया** प्रियाणि **धाम** धामानि कर्माणि **युवधिता** युवाभ्यां विहितानि **यत्** ये अयजन्तो जनाः **स्पूर्धन्** स्पर्धमानाः **प्र** **मिनन्ति** हिंसन्ति । ये च देवासः देवाः **ओहसा** वहनसाधनेन स्तोत्रेण **न** युज्यन्ते । **मर्ताः** मनुष्याश्च ओहसा **न** युज्यन्ते । ये च **अप्यः** । पः: कर्म । तद्वन्तः **अयज्ञसाचः** न यज्ञयुक्ताः वृथाकर्माणि कुर्वन्त इत्यर्थः । ये च **न** **पुत्राः** । पृणन्तीति पुत्राः । न पुत्रा अपृणन्त इत्यर्थः । तान् सर्वान् वि चयिष्टमित्यनुषज्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ Exterminate also: na ye devāsa ohasā na martā ayajñasāco apyo na putrāḥ:
 **Apyaḥ** = karmavantaḥ, doing acts, from **apas**, but not sacrificin o sacrificing in vain, **vṛthā** karmāṇi kurvantaḥ; na putrāH = not sons, apṛṇantaḥ, not plural asing, or satisfying
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When they start contending over you two but violate the dear  
 ordinances ordained by you, Mitra and Varuṇa,  
@@ -142,7 +142,7 @@ they, not attending upon the sacrifice, are neither gods, despite their
 vaunting, nor mortals, but like children who do not swell [=grow/thrive].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half of this vs. is fairly straightforward; the problems arise in the 2nd hemistich, primarily because of ápi yaḥ in d. The first hemistich describes the behavior of the contentious and impious rivals, while the 2nd defines such people as outside the normal categories of beings. Pāda c asserts clearly that those who don’t attend upon the sacrifice are neither gods nor men, and in d they are compared instead to ápi yaḥ … putrā́ḥ, which is universally tr. as “like the sons of the watery female” (e.g., Geldner “wie die Söhne der Wasserfrau”). Not only does this make no obvious (or unobvious) sense, but the morphology is essentially impossible: it is very difficult to get ápi yaḥ to be either the gen. sg. of a fem. -ī-stem or the nom. pl. m. of an adj. See the rather despairing assessments of Geldner (n. 9d), Debrunner (AiG II.2.401), and esp. Scarlatta (592 n. 841). Desperate situations require desperate measures, and I therefore part company with the consensus interpr. of ápi yaḥ and suggest an entirely different derivation -- as a negated root noun cmpd to the seṭ form of the ‘swell’ root √pī. We should expect a root-accented *a-pī́-, with nom. pl.
 
@@ -160,23 +160,23 @@ As noted in the published introduction, these vss. seem to concern themselves wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Mitra-Varuna, they strive against you and break the friendly laws ye have established,  
      They, neither Gods nor men in estimation, like Api's sons have godless sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sie sich um euch, Mitra und Varuna, wettstreiten und die von euch beiden aufgestellten lieben Regeln übertreten, die an Lob weder Götter noch Sterbliche sind, die die Regeln des Opfers nicht befolgen, wie die Söhne der Wasserfrau -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wider euch, Varuna-Mitra, streiten und eure lieben Satzungen verletzen Die Opferlosen, die fürwahr nicht Götter, noch Menschen sind, noch auch der Wasser Söhne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Митра-Варуна, ради вас состязаются,  
 Нарушают милые установления, установленные вами,  

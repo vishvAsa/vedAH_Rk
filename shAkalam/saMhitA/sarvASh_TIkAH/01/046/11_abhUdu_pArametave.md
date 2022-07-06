@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡भूद् उ पार꣡म् ए꣡तवे  
 प꣡न्था ऋत꣡स्य साधुया꣡  
 अ꣡दर्शि वि꣡ स्रुति꣡र् दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अद॑र्शि । वि । स्रु॒तिः । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
@@ -87,35 +87,35 @@ genre M
 **ऋतस्य** सूर्यस्य **पारमेतवे** रात्रेः पारभूतमुदयाद्रिं गन्तुं **पन्थाः** मार्गः **साधुया** समीचीनः **अभूदु** निष्पन्न एव । **दिवः** द्योतनात्मकस्य सूर्यस्य **स्रुतिः** प्रसृता दीप्तिः **वि** **अदर्शि** विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यम् । एतवे । इण् गतौ'। ‘तुमर्थे सेसेन्' इति तवेन्प्रत्ययः। साधुया। ‘सुपां सुलुक्' इति विभक्तेः याजादेशः । अदर्शि। कर्मणि लुङि च्लेः चिणादेशः । ‘चिणो लुक्' (पा. सू. ६. ४. १०४ ) इति तशब्दस्य लुक् । स्रुतिः । **स्रु** गती'। ‘क्तिच्क्तौ च संज्ञायाम्' इति क्तिच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “A fit path was made for the sun to go beyond the boundary (of night); the radiance of the luminary became visible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And the path of truth has come into being to lead right to the far shore. The course of heaven has appeared.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The path of sacrifice was made to travel to the farther goal:  
      The road of heaven was manifest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der rechte Weg ist bereitet, um glücklich ans andere Ufer zu gelangen; die Straße des Himmels ist sichtbar geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ist des Opfers Pfad gebahnt, um bis ans Ziel auf ihm zu gehn, Und sichtbar ist des Himmels Steg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот возник путь закона,  
 Чтобы прямо двигаться на тот берег.  

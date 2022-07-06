@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुभ्र꣡म् अ꣡न्धो देव꣡वातम्  
 अप्सु꣡ धूतो꣡ नृ꣡भिः सुतः꣡  
 स्व꣡दन्ति गा꣡वः प꣡योभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स्वद॑न्ति । गावः॑ । पयः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śubhram* ← *śubhra*
 - \[noun\], accusative, singular, neuter
@@ -85,20 +85,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 यत् **देववातं** देवैः प्रार्थितं **शुभ्रं** शोभनम् **अन्धः** अन्नं **गावः** पशवः **पयोभिः** आशिरैः **स्वदन्ति** स्वादयन्ति सोऽयं सोमः **नृभिः** नेतृभिर्ऋत्विग्भिः **सुतः** अभिषुतः सन् **अप्सु** वसतीवरीषु **धूतः** शोधितो भवति ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cattle sweeten with their milk the beautiful food that is asked for by the gods; the **Soma** when effused by the priests is cleansed in the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The beautiful stalk coveted by the gods—(the soma) rinsed in the  waters, pressed by men—  
 do the cows sweeten with their milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fluent Engl. of the tr. conceals a syntactic problem: soma should be the obj. of the verb svádanti in c, and the first pāda, which is entirely in the neuter, with the NP led by ándhas-, allows such an acc. interpr. However, the intermediate pāda (b) is stubbornly in the masc. nominative (dhūtáḥ … sutáḥ). We must either take b as a parenthetical nominal clause, as Geldner and I do, or take ab as entirely in the nominative (as Renou may do - his structure is not entirely clear) as a separate nominal clause, and supply a resumptive pronominal acc. for c.
 
@@ -112,23 +112,23 @@ Again no obvious signs of unity, beyond the progress through the preparation of 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair is the God-loved juice; the plant is washed in waters, pressed by men  
      The milch-kine sweeten it with milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den sauberen gottbegehrten Trank - im Wasser geschwenkt, von Männern ausgepreßt ist der Soma - machen die Kühe mit ihrer Milch schmackhaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hellen gottbegehrten Trank, in Flut gespült, vom Volk gepresst, Versüssen Kühe durch die Milch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

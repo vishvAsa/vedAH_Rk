@@ -6,13 +6,13 @@ ChandaH = "द्विपदा गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम मन्द꣡यन्न्  
 इ꣡न्द्राय म꣡धुमत्तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑स्व । सो॒म॒ । म॒न्दय॑न् । इन्द्रा॑य । मधु॑मत्ऽतमः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -56,19 +56,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम मधुमत्तमः अतिशयेन मधुररसवांस्त्वं **मन्दयन्** मादयिता भवन् । यद्वा । **इन्द्राय**। ‘ क्रियाग्रहणं कर्तव्यम्' इति संप्रदानम् । इन्द्रं मोदमानः सन् **पवस्व** इन्द्रार्थमागच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Soma**, who are most sweet-flavoured, giving exhilaration to **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, Soma, causing exhilaration, most honeyed for Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -77,22 +77,22 @@ This tṛca, ascribed to Jamadagni, is unifed first and foremost by its meter, D
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra flow most rich in sweets, O Soma, bringing him delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Soma, berauschend, als Süßester für Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreuend riesle, Soma, du dem Indra als der süsseste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сома, опьяняющий,  
 Самый сладкий для Индры.

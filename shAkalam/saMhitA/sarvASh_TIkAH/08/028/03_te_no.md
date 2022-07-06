@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो गोपा꣡ अपाचिया꣡स्  
 त꣡ उ꣡दक् त꣡ इत्था꣡ नि꣡अक्  
 पुर꣡स्तात् स꣡र्वया विशा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पु॒रस्ता॑त् । सर्व॑या । वि॒शा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -93,7 +93,7 @@ genre M
 **ते** वरुणादयो देवाः **सर्वया** सर्वेण **विशा** अनुचरवर्गेण सह **अपाच्याः** । अपाची प्रतीची। ततः **नः** अस्माकं **गोपाः** गोपायितारो भवन्तु । **ते** एव **उदक्** उदीच्याः ।  ‘ अञ्चेर्लुक् ' इति पञ्चम्यर्थे विहितस्यास्तातेर्लुक् । ततोऽपि अस्माकं रक्षका भवन्तु । **इत्था** इति शब्देनोर्ध्वा दिशं दक्षिणां च निर्दिशति । इत्थमनेन पूर्वोक्तेन प्रकारेणोर्ध्वाया दक्षिणस्याश्च दिशः **ते** देवा अस्माकं पालयितारो भवन्तु । तथा **न्यक्** नीच्या दिशः । अत्रापि पूर्ववदस्तातेर्लुक्। अधस्तादेवाप्यस्माकं त्रातारो भवन्तु । किंच **पुरस्तात्** प्राच्या दिशश्च ते देवा अस्माकं गोपायितारो भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ genre M
 From the west: six directions are identified taking **nyak** as the nadir, itthā as the south andthe zenith
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These are our herdsmen to the west, these to the north, these likewise to  the south,  
 to the east—through their whole clan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner hesitates between cardinal points and relative directions (“behind, above,” etc.), but cardinal points are most likely better because they provide totalizing protection, which is then summed up by sárvayā viśā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are our guardians in the west, and northward here, and in the south,  
      And on the cast, with all the tribe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sind uns Hüter im Rücken im Westen, im Norden, dort unten im Süden, und ostwärts mit ihrem vollständigen Clane.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Westen sind sie Hüter uns, im Norden und im Süden hier, Im Osten mit der ganzen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они наши хранители, обращенные на запад,  
 Они – вверх, они прямо вниз,  

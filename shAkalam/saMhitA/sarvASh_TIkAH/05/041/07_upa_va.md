@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प व ए꣡षे व꣡न्दियेभिः शूषइः꣡  
 प्र꣡ यह्वी꣡ दिव꣡श् चित꣡यद्भिर् अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ हा वहतो म꣡र्तियाय यज्ञ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒षसा॒नक्ता॑ । वि॒दुषी॑ इ॒वेति॑ वि॒दुषी॑ऽइव । विश्व॑म् । आ । ह॒ । व॒ह॒तः॒ । मर्त्या॑य । य॒ज्ञम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -121,41 +121,41 @@ genre M
 हे **उषासानक्ता** अहोरात्राभिमानिदेवते **यह्वी** महत्यौ **वन्द्येभिः** वन्दनार्हैरितरैर्देवैः सह **दिवः** अन्तरिक्षादविशेषेण सर्वप्रदेशात् **वः** युष्मभ्यम् **उप** **प्र** **एषे** उपप्रापयामि हविः । ईषिः प्रापणकर्मा स्यादुपप्राभिः समन्वितः । **शूषैः** सुखकरैः **चितयद्भिः** ज्ञापयद्भिः **अर्कैः** मन्त्रैः सहोपप्रापयामि । हे उक्तदेवते **विश्वं** सर्वं कर्तव्यजातं **विदुषीइव** जानत्याविव **मर्त्याय** यजमानाय **यज्ञम्** **आ** **वहतः** अभिमुखं प्रापयतः । हेति पूरणः । यद्वा । शूषैरित्यादीनि तृतीयाबहुवचनान्तानि वन्द्येभिरित्यस्य विशेषणानीति केचिदाहुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty Day and Night, to you, along with the adorable (deities) of heaven, I present (the oblation) with prayers delighting and explicit; knowing, like two sages, all (that is required), do you bring (it) to the worshipper for his sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I hasten to the two young maidens of heaven with your praiseworthy  fortifying (hymns), with conspicuous chants.  
 Night and Dawn, like ones who know all, through the days convey the  sacrifice here for the mortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn contains three exx. of éṣe (5b, 7a, 8d). Though Lubotsky classifies them all as locc. to the thematic stem éṣa-, I follow the standard tr. in taking the one in this vs. as a 1st sg. pres., while the other two are locc. in the phrase rāyá éṣe “in the quest for wealth.” The parallel for 7a cited by Geldner, I.186.4 úpa va éṣe … uṣā́sānáktā, seems to clinch this interpr., and the next vs. (8), beginning abhí vo arce, also PREV vaḥ 1st - sg. VERB, reinforces it. In d I read ā́hā not ā́hā (a change only in the Pp. not the Saṃhitā text), and analyze this sequence as ā́+ áhā, the neut. pl. of ‘day’. This is one of only two supposed exx. of the particle ha with long vowel; the other one (IV.31.5) also follows ā́and is susceptible to the same analysis. See disc. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I speed to you with powers that should be honoured, with songs distinguishing Heaven's mighty Daughters,  
      Morning and Night, the Two, as 'twere all-knowing: these bring the sacrifice unto the mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich wende mich für euch mit löblichen anspornenden Worten an die beiden jüngsten Töchter des Himmels mit ausgezeichneten Preisliedern: Die Morgenröte und die Nacht, die gleichsam alles wissen, bringen dem Sterblichen das Opfer mit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich geh euch an mit preisenswerthen Liedern; mit lichten Strahlen fahren jedes Opfer Des Himmels Töchter, Nacht und Morgenröthe, dem Sterblichen, sich wohl darauf verstehend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу подойти к вам с гимнами, достойными хвалы,  
 (Своими) примечательными песнями (хочу) про(славить) двух юниц неба.  

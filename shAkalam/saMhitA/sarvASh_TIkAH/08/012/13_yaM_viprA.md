@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ वि꣡प्रा उक्थ꣡वाहसो  
 अभिप्रमन्दु꣡र् आय꣡वः  
 घृतं꣡ न꣡ पिप्य आस꣡नि ऋत꣡स्य य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 घृ॒तम् । न । पि॒प्ये॒ । आ॒सनि॑ । ऋ॒तस्य॑ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -85,20 +85,20 @@ genre M;; line affected by realignment
 **विप्राः** मेधाविनः **उक्थवाहसः** उक्थानां शस्त्राणां वोढारः प्रापयितारः **आयवः** मनुष्याः  **यम्** इन्द्रम् **अभिप्रमन्दुः** अभि प्रकर्षेण मादयन्ति ॥ मदेर्व्यत्ययेन परस्मैपदम् ।  ‘ द्विर्वचनप्रकरणे छन्दसि वा ' ( का. ६. १. ८. १) इति वचनात् द्विर्वचनाभावः ॥ तस्येन्द्रस्य **आसनि** आस्ये ।  ‘ पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः । **घृतं** **न** घृतमिव शुद्धं **पिप्ये** सेचनेन वर्धये । प्यायतेश्छान्दसो लिट् । लिड्यङोश्च' इति पीभावः । किं तत् । हविः। **ऋतस्य** यज्ञस्य संबन्धि **यत्** सोमलक्षणं हविरस्ति तदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I pour the oblation of the sacrifice, like clarified butter, into the mouth (of that **Indra**), whom wise men,addressing with prayers, delight.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom [=Indra] the inspired Āyus, whose conveyance is solemn speech,  have brought to exhilaration—  
 like ghee, it swells in his mouth—(the speech) that belongs to truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner interprets the verb abhipramandúḥ somewhat bizarrely as ‘go on a pilgrimage to’ (“Zu dem … die … Āyu’s … pilgerten”), presumably influenced by ukthávāhasaḥ ‘whose conveyance is solemn speech’. Kümmel (357) takes the same verb as intransitive, with the yám expressing the source of pleasure (“An dem die Erregten … sich (schon immer) erfreuen”). I see no reason why it is not a straight transitive “bring to exhilaration” like other forms of the act. pf. of √mad.
 
@@ -115,23 +115,23 @@ Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whom the sages, living men, have gladdened, offering up their hymns,  
      Hath swelled like oil of sacrifice in Agni's mouth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem die redekundigen Ayu´s im Fahrzeug der Lieder pilgerten, wie Schmalz quillt in ihrem Munde über, was das Wort der Wahrheit ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, den die muntre Sängerschar durch Sprüche recht erheitert hat, Ihm schwillt wie Butter in dem Mund des Opfers Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого обрадовали вдохновленные  
 Исполнители гимнов Аю,  

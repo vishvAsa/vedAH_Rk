@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धार꣡यन्त आदित्या꣡सो ज꣡गत् स्था꣡  
 देवा꣡ वि꣡श्वस्य भु꣡वनस्य गोपाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋता꣡वानश् च꣡यमाना ऋणा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दी॒र्घऽधि॑यः । रक्ष॑माणाः । अ॒सु॒र्य॑म् । ऋ॒तऽवा॑नः । चय॑मानाः । ऋ॒णानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhārayanta* ← *dhārayantaḥ* ← *dhāray* ← *√dhṛ*
 - \[verb noun\], nominative, plural
@@ -104,7 +104,7 @@ genre M
 जगज्जङ्गमं स्थाः स्थावरञ्च तिष्ठतेःकर्तर्यसुन् एतदुभयविधम्भूतजातं धारयन्तः अवस्थापयन्तः देवाः दानादिगुणयुक्ताः विश्वस्यभूवनस्यसर्वस्यलोकस्यगोपाः गोपयितारोरक्षकाः दीर्घाधियः दीर्घा णिधियःकर्माणिज्ञानानिवायेषान्तादृशाः अन्येषामपिदृश्यतइतिपूर्वपदस्यदीर्घः असुर्यं असवःप्राणाः तेनचतद्धेतुभूताः आपोलक्ष्यन्ते अपान्तद्धेतुत्वञ्च छान्दोग्र्येस्पष्टमाम्नातम्—आपामयःप्राणइति असुमु- दकंरातिददातीत्यसुरोमेघः तत्रभवं मेघान्तर्वर्तमानमुदकंरक्षमाणाः तत्तत्कालेवृष्ट्युत्पादनायरक्षन्तः असुरशब्दाद्भवेछन्दसीतियत् ऋतावानः सत्यवन्तो यज्ञवन्तोवा छन्दसीवनिपावितिमत्वर्थीयो- वनिप् पूर्ववद्दीर्घः ऋणानिस्तोतृभिः अन्येभ्यः प्रदेयानिहविर्द्रव्याणिचयमानाः अपगमयन्तः चय- गतौ भौवादिकोनुदात्तेत् एवङ्गुणविशिष्टामहानुभावाः आदित्यासः आदित्याः अस्मदधीनाभवन्त्वि तिशेषः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ The collectors of rain: asuryam rakṣamāṇāḥ: **asurā** = a cloud; from a
 Ra = what yields; hence, asuryam is the water of the cloud, or rain, which the Ādityas keep collected until the season of its full tat tat kāle vṛṣṭyutpādanāya rakṣanti; the acquitter of our debts: the debts are literally so; those which are to be paid by the worshippers to other person ns; ṛṇan stotṛbhiranyebhyaḥ pradeyāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Ādityas sustain what moves and what stands still—(these) gods, the  herdsmen of the whole living world,  
 they of far-reaching care, guarding their lordship, possessing the truth,  and collecting debts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Upholding that which moves and that which moves not, Adityas, Gods, protectors of all being,  
      Provident, guarding well the world of spirits, true to eternal Law, the debt-exactors.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The Ādityas support what's fixed and moving; These gods are guardians of the whole creation: Far-sighted, cherishing their spirit-power, Observing holy law and guilt chastising.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Aditya´s, die erhalten was geht und steht, die Götter sind die Hüter der ganzen Welt, weitdenkend, ihre Asurawürde wahrend, das Recht schützend, Buße fordernd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was geht und steht, erhalten die Aditja's, des ganzen Weltalls himmlische Behüter, Die weiten Blicks die Geisterwelt bewachen, gerechten Sinnes jede Schuld bestrafen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адитьи поддерживают (все) движущееся (и) неподвижное.  
 (Они -) боги, пастухи всего мироздания,  

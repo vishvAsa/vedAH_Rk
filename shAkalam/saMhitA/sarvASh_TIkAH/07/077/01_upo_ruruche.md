@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो रुरुचे युवति꣡र् न꣡ यो꣡षा  
 वि꣡श्वं जीव꣡म् प्रसुव꣡न्ती चरा꣡यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡कर् ज्यो꣡तिर् बा꣡धमाना त꣡मांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अभू॑त् । अ॒ग्निः । स॒म्ऽइधे॑ । मानु॑षाणाम् । अकः॑ । ज्योतिः॑ । बाध॑माना । तमां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -127,20 +127,20 @@ genre M
 इयमुषाः **उपो** समीप एव सूर्यस्य **रुरुचे** दीप्यते । **युवतिः** यौवनोपेता **योषा** **न** योषिदिव। सा थथा वस्त्राभरणादिना पत्युः समीपे प्रदीप्यते तद्वत् । किं कुर्वती । **विश्वं** सर्वं **जीवं** जीवसंघं **चरायै** संचाराय **प्रसुवन्ती** प्रेरयन्ती । किंच **अग्निः** **मानुषाणां** मनुष्याणामर्थाय **समिधे** **अभूत्** समिन्धनीयोऽभवत्। कृत्यार्थे केन् । समिद्धः सन् **तमांसि** अन्धकारान् **बाधमाना** बाधमानं बाधकं **ज्योतिः** तेजःसंघम् **अकः** अकार्षीत् । अथवा । औषसं ज्योतिस्तमांसि बाधमाना बाध्यमानान्यकः अकरोत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣas shines radiant in the proximity (of the sun), like a youthful wife (in the presence of her husband),animating all existence to activity; **Agni** is to be kindled for the good of men; the light disperses the obstructingdarkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She has shone—up close like a young maiden, impelling every living  thing forth to activity.  
 (The time) has just come for Agni to be kindled by the sons of Manu.  She has made light, pressing away the dark shades.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 √ruc appears with the preverb úpa only here. I connect it with the simile yuvatír ná yóṣā “like a young maiden”: úpa generally connotes ‘up close, intimate’, and úpa √ruc may suggest the beguiling radiance of a beloved young girl close by.
 
@@ -149,23 +149,23 @@ As Renou points out, √bhū + dat. inf. is rare. Here ábhūt … samídhe seem
 nidé kar “Don’t put to scorn …” I do not know why we have pf. ruruce in a vs. containing two augmented aorists, ábhūt and ákar, with two more in the next hemistich (2a asthāt, 2b aśvait); the passive aor. (a)roci would have been possible, and is in fact found in 2d. 103
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SHE hath shone brightly like a youthful woman, stirring to motion every living creature.  
      Agni hath come to feed on mortal? fuel. She hath made light and chased away the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie ist wie eine jugendliche Frau strahlend gekommen, indem sie alles, was lebt, zum Wandel antreibt. Jetzt ist es für die Menschen an der Zeit, den Agni zu entzünden. Sie hat Licht gemacht, die Finsternis vertreibend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie eine Braut erstrahlet hell die Jungfrau, zum Gehn erweckend alles, was da lebet, Entflammt ist Agni als der Menschen Leuchte; sie zeugte Lichtschein, Finsterniss verjagend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она засверкала, приближаясь, словно юная женщина,  
 Побуждая двигаться все живое.  

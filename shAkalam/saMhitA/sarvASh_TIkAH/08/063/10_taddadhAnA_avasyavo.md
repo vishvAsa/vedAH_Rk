@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् द꣡धाना अवस्य꣡वो  
 युष्मा꣡भिर् द꣡क्षपितरः  
 स्या꣡म मरु꣡त्वतो वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्याम॑ । म॒रुत्व॑तः । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -81,43 +81,43 @@ genre M
 **तत्** स्तोत्रं **दधानाः** धारयन्तः **अवस्यवः** रक्षाकामा वयं हे ऋत्विजः **युष्माभिः** । सहिता इति वा योज्यम् । तादृशाः **दक्षपितरः** । दक्षोऽन्नम् । तस्य पितरः पालकाः स्वामिनः **स्याम** । किमर्थम् । **मरुत्वतः** मरुद्भिस्तद्वत इन्द्रस्य **वृधे** वर्धनाय यागाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Presenting our praise, and desiring protection, may we with you (O priests) be lords of food, to offersacrifice to (**Indra**) attended by the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking help as we present this (praise hymn), through you (all) might  we have skill as our father  
 for the strengthening of the one accompanied by the Maruts [=Indra].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Supplying ‘praise-hymn’ or the like as object of dádhānāḥ, which goes back to Sāyaṇa, is supported by VII.73.1 práti stómaṃ devayánto dádhānāḥ.
 
 As Geldner points out yuṣmā́bhiḥ may refer either to the gods or to the other singers. On the basis of 11, I think the latter is more likely (so also Geldner), although note the gods in 12d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Receiving this and craving help, we, who with you are Daksa's sons,  
      Would fain exalt the Maruts' Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem wir schutzsuchend dieses Loblied darbringen, möchten wir durch euch Daksa zum Vater haben und dem Marutgebieter zur Erhebung dienen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Empfangend hülfsbegierig dies von euch, o Dakschasöhne ihr, Sei'n hülfreich wir dem Marutherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жаждя помощи, создавая это (восхваление),  
 Благодаря вам мы хотим иметь  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पीपिवां꣡सं स꣡रस्वत  
 स्त꣡नं यो꣡ विश्व꣡दर्शतः  
 भक्षीम꣡हि प्रजा꣡म् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 भ॒क्षी॒महि॑ । प्र॒ऽजाम् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīpivāṃsaṃ* ← *pīpivāṃsam* ← *pyā*
 - \[verb noun\], accusative, singular
@@ -77,7 +77,7 @@ genre M
 **पीपिवांसं** प्रवृद्धं **सरस्वतः** देवस्य **स्तनं** शब्दायमानं स्तनवद्रसाधारं वा मेघं **भक्षीमहि** भजेमहि प्राप्नुयाम । **यः** विश्वदर्शतः विश्वैः सर्वैर्दर्शतो भवति दृश्यमानो भवति । तं स्तनं मेघमित्यर्थः । तथा **प्रजां** पुत्रादिरूपाम् **इषम्** अन्नं च सरस्वतः प्रसादात् भक्षीमहि ॥ ॥२०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ genre M
 May we recline: pīpivāṃsam **sarasvatas** stanam: bhakṣīmahi and stanam = means ofcloud, **megha**; so, the ṛca is rendered: may we obtain the distend and loud-thundering (of breast-like) cloud ofSarasvat. Which is visible to all; (may we obtain) progeny and food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The swelling breast of Sarasvant, which is lovely for all to see—  
 we would share (in it and) in offspring and refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The acc. phrase in ab pīpivā́ṃsam … stánam is the object, or one of the objects of bhakṣīmáhi in c, which makes the rel. clause yó viśvádarśataḥ, referring to the stána-, technically an embedded rel. But as we have often seen, nominal rel. cl. -- pseudo-izafes -- are regularly found embedded.
 
@@ -103,23 +103,23 @@ The expression “share in the breast” seems somewhat odd, but this “swellin
 introduction, it is also odd to attribute this breast to the male figure Sarasvant. The more appropriate association between the breast and Sarasvatī is found in I.164.49, a passage adduced by Geldner (n. 6ab).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we enjoy Sarasvan's breast, all-beautiful, that swells with streams,  
      May we gain food and progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schwellende Brust des Sarasvat, die allsichtbare, Kinder und Speisegenuß möchten wir erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvats Brust die strotzende, die allenthalben man erblickt, Die flehn um Trunk und Kinder wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели бы прильнуть к набухшей  
 Груди Сарасвата, которая всем видна,  

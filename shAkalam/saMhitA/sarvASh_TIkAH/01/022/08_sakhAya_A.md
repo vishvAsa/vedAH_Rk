@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡खाय आ꣡ नि꣡ षीदत  
 सविता꣡ स्तो꣡मियो नु꣡ नः  
 दा꣡ता रा꣡धांसि शुम्भति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दाता॑ । राधां॑सि । शु॒म्भ॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
@@ -84,36 +84,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सखिभूता हे ऋत्विजः **आ** **नि** **षीदत** सर्वत्रोपविशत । **नः** अस्माकम् अयं **सविता** **नु** क्षिप्रं **स्तोम्यः** स्तुतियोग्यः **राधांसि** धनानि **दाता** प्रदातुमुद्युक्तः एष सविता **शुम्भति** शोभते ॥ समानाः सन्तः ख्यान्ति प्रकाशन्ते इति सखायः। ‘ख्या प्रकथने '। 'समाने ख्यश्चोदात्तः ' ( उ.सू. ४. ५७६ ) इति इण्प्रत्ययः; तत्संनियोगेन डित्त्वं यलोपश्च । डित्त्वात् आकारलोपः । ‘समानस्यू च्छन्दसि ' (पा. सू. ६. ३. ८४ ) इत्यादिना समानशब्दस्य सादेशः । इण्संनियोगेनोदात्तत्वम् । जसि ‘सख्युरसंबुद्धौ ' ( पा. सू. ७. १. ९२ ) इति णित्त्वात् वृद्धिः आयादेशश्च । नि षीदत । ‘सदिरप्रतेः ' ( पा. सू. ८. ३. ६६ ) इति षत्वम् । स्तोमेषु प्रतिपाद्यत्वेन भवः स्तोम्यः । ‘भवे छन्दसि ' ( पा. सू. ४. ४. ११०) इति यत् । यतोऽनावः ' ( पा. सू. ६. १. २१३ ) इत्याद्युदात्तत्वम् दाता दानशीलः । ताच्छील्ये तृन् । नित्त्वादाद्युदात्तः । राधांसि । गतम् । ‘कर्तृकर्मणोः कृति ' ( पा. सू. २. ३. ६५) इति प्राप्तायाः षष्ठ्याः ‘न लोकव्यय° ' ( पा. सू. २. ३. ६९ ) इति प्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sit down, friends; **Savitā** verily is to be praised by us, for he is the giver of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Comrades, sit down here: Savitar is now to be praised by us.  
 The giver beautifies his bounties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, friends, and seat yourselves Savitar, to be praised by us,  
      Giving good gifts, is beautiful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Freunde, setzet euch nieder, Savitri soll jetzt für uns der Preisliche sein! Der Geber macht die Ehrengabe schön.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Freunde, kommt und setzet euch, lasst preisen uns den Savitar; Es glänzt der Gaben spendende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Друзья, усаживайтесь!  
 Сейчас Савитар достоин нашей хвалы!  

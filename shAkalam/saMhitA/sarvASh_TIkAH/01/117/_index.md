@@ -8,7 +8,7 @@ title = "+117"
 ‘मध्वः' इति पञ्चविंशत्यृचं द्वितीयं सूक्तम् । औशिजस्य कक्षीवत आर्षं त्रैष्टुभमाश्विनम् । ‘मध्वः' इत्यनुक्रान्तम् ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 117  
 Aśvins  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मन्दि꣡ने पितुम꣡द् अर्चता व꣡चो  
 यः꣡ कृष्ण꣡गर्भा निर꣡हन्न् ऋजि꣡श्वना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मरु꣡त्वन्तं सखिया꣡य हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒व॒स्यवः॑ । वृष॑णम् । वज्र॑ऽदक्षिणम् । म॒रुत्व॑न्तम् । स॒ख्याय॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 ‘ ह्रस्वनुड्भ्यां मतुप् ' इति मतुप उदात्तत्वम् । कृष्णगर्भाः कृष्णेन निषिक्ताः गर्भाः यासु तास्तथोक्ताः। ‘ परादिश्छन्दसि बहुलम् ' इति पूर्वपदान्तोदात्तत्वम् । अवस्यवः । अवेरौणादिको भावेऽसुन्। अवः इच्छति अवस्यति । सुप आत्मनः क्यच् ' । ‘क्याच्छन्दसि ' इति उप्रत्ययः । वृषणम् । वा षपूर्वस्य निगमे ' इति विकल्पनादुपधादीर्घाभावः । सख्याय । सख्युः कर्म सख्यम् ।' सख्युर्यः' इति यप्रत्ययः । हवामहे । ह्वेञो लटि ‘ बहुलं छन्दसि ' इति संप्रसारणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -124,35 +124,35 @@ genre M
 Ṛjiśvan was a king and frien dof **Indra**; Kṛṣṇa was an **asura**, who was slain, together with his wives, that none of his posterity might survive. Kṛṣṇa, the black may be **Vṛtra**, the black cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Address a nourishing speech to the exultant one, who, along with  R̥jiśvan, aborted the (strongholds) with their black embryos.  
 Seeking help from the bull with the mace in his right hand, the one  
 accompanied by the Maruts do we call for partnership.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Supply púraḥ with fem. kṛṣṇágarbhāḥ in b. So, explicitly, Oldenberg, but standard tr. follow.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING, with oblation, praise to him who maketh glad, who with Rjisvan drove the dusky brood away.  
      Fain for help, him the strong whose right hand wields the bolt, him girt by Maruts we invoke to be our Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmet für den Rauschliebenden eine trankbegleitete Rede an, der im Bund mit Rijisvan den mit den Schwarzen Schwangeren die Leibesfrucht abtrieb. Schutzsuchend rufen wir den Bullen mit der Keule in der Rechten - den Marutbegleiteten rufen wir zur Freundschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, singt dem muntern ein mit Trank gepaartes Lied, der mit Ridschiçvan Wasser schlug aus dunklem Schooss, Zum Bündniss rufen hülfsbegierig wir den Stier, der mit den Maruts kommt, den Blitz in rechter Hand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заводите подкрепляемую питьем речь для того, кто любит опьянение,  
 Который вместе с Риджишваном разбил брюхатые черно(кожими крепости)!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रशीर्षा पु꣡रुषः  
 सहस्राक्षः꣡ सह꣡स्रपात्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡त्य् अतिष्ठद् दशाङ्गुल꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सः । भूमि॑म् । वि॒श्वतः॑ । वृ॒त्वा । अति॑ । अ॒ति॒ष्ठ॒त् । द॒श॒ऽअ॒ङ्गु॒लम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasraśīrṣā* ← *sahasra*
 - \[noun\], neuter
@@ -109,7 +109,7 @@ popular;; epic anuṣṭubh (380)
 सर्वप्राणिसमष्टिरूपो ब्रह्माण्डदेहो विराडाख्यो यः पुरुषः सोऽयं सहस्रशीर्षा । सहस्रशब्दस्योपलक्षणत्वादनन्तैः शिरोभिर्युक्त इत्यर्थः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहान्तःपातित्वात्तदीयान्येवेति सहस्रशीर्षत्वम् । एवं सहस्राक्षित्वं सहस्रपादत्वं च । **सः** पुरुषः **भूमिं** ब्रह्माण्डगोलकरूपां **विश्वतः** सर्वतः **वृत्वा** परिवेष्ट्य **दशाङ्गुलं** दशाङ्गुलपरिमितं देशम् **अत्यतिष्ठत्** अतिक्रम्य व्यवस्थितः । दशाङ्गुलमित्युपलक्षणम् । ब्रह्माण्डाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,28 +120,28 @@ popular;; epic anuṣṭubh (380)
 Puruṣa = embodied spirit; or, **virāj**, the aggregate ofall living beings, spirit embodied in the egg of **Brahmā**, i.e., the universal spirit animating all creation. Thousand= an infinite number; the human **soul**, extending from the navel, takes upits abode in the heart or the humanbreast; the supreme soul, having animated the universe, is present in man, either in a minute form or of definitedimensions
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Man has a thousand heads, a thousand eyes, and a thousand feet. Having covered the earth on all sides, he extended ten fingers’ breadth  beyond.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A THOUSAND heads hath Purusa, a thousand eyes, a thousand feet.  
      On every side pervading earth he fills a space ten fingers wide.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tausendköpfig, tausendäugig, tausendfüßig ist Purusa; er bedeckte vollständig die Erde und erhob sich zehn Finger hoch darüber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die Erde von allen Seiten überdeckt hatte, ragte er noch zehn Finger lang darüber hinaus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пуруша – тысячеглавый.  
 Тысячеглазый, тысяченогий.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ श्रवस्युः꣡ स꣡दनानि कृत्रि꣡मा  
 क्ष्मया꣡ वृधान꣡ ओ꣡जसा विनाश꣡यन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡व सुक्र꣡तुः स꣡र्तवा꣡ अपः꣡ सृजत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ज्योतीं॑षि । कृ॒ण्वन् । अ॒वृ॒काणि॑ । यज्य॑वे । अव॑ । सु॒ऽक्रतुः॑ । सर्त॒वै । अ॒पः । सृ॒ज॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -130,41 +130,41 @@ genre M
 **श्रवस्युः** अन्नं यशो वात्मन इच्छन् **कृत्रिमा** कृत्रिमाणि क्रियया निर्वृत्तानि **सदनानि** असुरपुराणि **ओजसा** बलेन **विनाशयन्** **क्ष्मया** भूम्या समानं **वृधानः** वर्धनशीलः । यद्वा। क्ष्मया इति ओजोविशेषणम् । शत्रूणामभिभवित्रा बलेनेत्यर्थः । **ज्योतींषि** सूर्यादीनि वृत्रेणावृतानि **अवृकाणि** वृकेणावरकेण तेन रहितानि **कृण्वन्** कुर्वन् **सुक्रतुः** शोभनकर्मसहितः एवंविधः **सः** खलु इन्द्रः **यज्यवे** यष्ट्रे यजमानाय तदर्थं **सर्तवै** सरणाय **अपः** वृष्टिलक्षणान्युदकानि **अव** **सृजत्** । वृष्टिं कृतवानित्यर्थः ॥ कृत्रिमा । ' डुकृञ् करणे '।  ‘ ड्वितः क्त्रिः ' ( पा. सू. ३. ३. ८८ ) इति भावे क्त्रिप्रत्ययः । ' त्रेर्मम्नित्यम् ' ( पा. सू. ४. ४. २० ) इति निर्वृत्तार्थ मप् । तस्य पित्त्वादनुदात्तत्वे क्त्रिप्रत्ययस्वर एव शिष्यते ।  ‘ शेश्छन्दसि बहुलम् । इति शेर्लोपः । क्ष्मया ।  ‘ क्षमूष् सहने । क्षमते प्राणिजातकृतमुपद्रवमिति क्षमा । षिद्भिदादिभ्योऽङ्' (पा. सू. ३. ३. १०४ ) इति अङ्प्रत्ययः । ततः टाप् । व्यत्ययेन धातोः उपधालोपः । छान्दसं विभक्त्युदात्तत्वम् । यद्वा । अयं धातुरभिभवार्थः, षह अभिभवे ' इति सहनस्याभिभवार्थत्वात् । अस्मात् औणादिको मनिन् । व्यत्ययेन स्त्रीलिङ्गता ।  ‘ मनः' ( पा. सू. ४.१. ११) इति डीपो निषेधे  ‘ डाबुभाभ्यामन्यतरस्याम् (पा. सू. ४. १. १३ ) इति डाप् । टिलोपः । वृधानः । ताच्छीलिकः चानश् ।  बहुलं छन्दसि इति शपो लुक् ।  ‘ चितः' इत्यन्तोदात्तत्वम् । अवृकाणि ।  ‘ वृञ् वरणे'।  ‘ सृवृभूशुषिमुषिभ्यः कित्' ( उ. सू. ३. ३२१ ) इति कन्प्रत्ययः । बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यज्यवे ।  ‘ यजिमनिशुन्धिदसिजनिभ्यो युः' इति युप्रत्ययः । वृषादेराकृतिगणत्वादाद्युदात्तत्वम् । सुक्रतुः । बहुव्रीहौ ' क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । सर्तवै ।  ‘ सृ गतौ ।  ‘ कृत्यार्थे तवैकेन्° ' इति भावे तवैप्रत्ययः । गुणः ।  ‘ अन्तश्च तवै युगपत् ' ( पा. सू. ६. १. २०० ) इति आद्यन्तयोः युगपत् उदात्तत्वम् । अपः । ऊडिदम् ' इति शस उदात्तत्वम् । सृजत् । लङि  ‘ बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Ambitious of renown, destroying the well-built dwellings of the **asuras**, expanding like the earth, and setting the (heavenly) luminaries free from concealment, he, the performer of good deeds, enables the waters to flow for the benefit of his worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For it’s he, seeking fame, who’s destroying the artfully made seats (of the  enemy) across the earth, as he grows strong in power,  
 and is making lights free of wolves [=safe] for the worshipful man. The  very resolute one released the waters to flow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse cannot be a single clause (as Renou, Witzel Gotō seem to take it) because the finite verb sṛjat in d lacks accent, while hí in the first pāda should induce accent on the verb. But if we separate the last pāda from the rest, there is no main verb, just the pres. participles vināśáyan and kṛṇván. Although present participles are rarely predicated (as opposed to past participles), there are cases of such predication (pace Lowe 2012), and I consider this one of them. In fact I connect the first three pāda of this verse with the preceding verse, 5cd - with 6abc giving the reasons why the people trust Indra - and the present participles in some sense reflect the intensive (that is, iterative-frequentative) participle of 5d: he “is doing” rather than “did/does” the actions; they are repetitive and ongoing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though, fain for glory, and with strength increased on earth, he with great might destroys the dwellings made with art,  
      He makes the lights of heaven shine forth secure, he bids, exceeding wise, the floods flow for his worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn die Ruhmbegierige zerstörte die künstlichen Sitze, auf der Erde an Kraft wachsend; er schaffte räubersicheres Licht dem Opferer und ließ die Gewässer los zum Laufe, der Umsichtige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er voll Ruhmgier auf der Erde neu gestärkt, zerbrach mit Kraft die List-geschaffnen Wohnungen, Willkommnes Licht verschaffte er den Opferern und liess die Wasser strömen, der gewaltige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это он, жаждущий славы, возросший силой,  
 Уничтожающий искусственные поселения на земле,  

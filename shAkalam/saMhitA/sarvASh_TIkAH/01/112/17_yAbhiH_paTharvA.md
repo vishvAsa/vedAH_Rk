@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः प꣡ठर्वा ज꣡ठरस्य मज्म꣡ना  
 अग्नि꣡र् ना꣡दीदेच् चित꣡ इद्धो꣡ अ꣡ज्मन् आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । शर्या॑तम् । अव॑थः । म॒हा॒ऽध॒ने । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -137,7 +137,7 @@ genre M;; repeated line
 हे अश्विनौ **जठरस्य** । ‘ जठरमुदरं भवति जग्धमस्मिन्ध्रियते ' ( निरु. ४, ७ ) इति यास्कः । जठरोपलक्षितस्य शरीरस्य **मज्मना** बलेन युक्तः सन् **पठर्वा** एतत्संज्ञो राजर्षिः **अज्मन्** । संग्रामनामैतत् । अज्मनि संग्रामे युष्मदीयाभिः **याभिः** ऊतिभिः **आ** समन्तात् **अदीदेत्** अदीप्यत । तत्र दृष्टान्तः । **चितः** काष्ठैरभिचितः **इद्धः** यज्ञगृहे ऋत्विग्भिः प्रज्वालितः अग्निर्न । यथा अग्निः प्रकाशते तद्वदित्यर्थः । अपि च **शर्यातं** मानवमिन्द्रेण सह स्पर्धमानं **महाधने** । संग्रामनामैतत् । महता धनेनोपेते संग्रामे **याभिः** ऊतिभिः **अवथः** रक्षथः । ताभिरित्यादि गतम् ॥ अदीदेत् । दीदेतिश्छान्दसो दीप्तिकर्मा । अज्मन् ।' अज गतिक्षेपणयोः' । अजन्ति क्षिपन्त्यस्मिन्बाणानिति अधिकरणे औणादिको मनिन् । ‘वलादावार्धधातुके विकल्प इष्यते' (का. २. ४. ५६. २) इति वचनात् वीभावाभावः । ‘सुपां सुलुक् ' इति सप्तम्या लुक् । महाधने ।' आन्महतः' इति आत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,35 +150,35 @@ Paddarvan was a **rājaṛṣi**;
 Śaryāta = **Śaryāti**, fourth son of **Vaivasvata Manu** (**Viṣṇu Purāṇa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which Paṭharvan, with the might of his belly, shone like a  fire laid and kindled, on his drive,  
 with which you help Śaryāta in (the contest) for great stakes—with  
 those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonological play in páṭharvā jáṭharasya. Because of its accent, Geldner (/Witzel Gotō) take jáṭhara- as an adjectival deriv. of jaṭhára- ‘belly’, hence ‘paunchy’ (supposedly of his wagon). But I think it likely that its accent simply follows its phonological twin páṭharvā, which immediately precedes (see also Oldenberg). The only possible indication of the independent existence of jáṭhara- is jáṭhala- in I.182.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith Patharva, in his majesty of form, shone in his course like to a gathered kindled fire;  
      Wherewith ye helped Saryata in the mighty fray,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen Patharvan kraft seines bauchigen Wagens wie geschichtetes entzündetes Feuer leuchtete in der Rennbahn, mit denen ihr dem Saryata beistandet im Kampf um den großen Siegerpreis, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die Patharvan strahlte, mächtig von Gestalt, auf seinem Zug, wie Feuer, das geschichtet flammt, Durch die ihr dem Çarjata halft im grossen Kampf, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) Патхарван благодаря величине живота  
 Засверкал, как костер, сложенный и зажженный на дороге,  

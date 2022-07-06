@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡रेथे अग्नि꣡म् आत꣡पो  
 व꣡दते वल्गु꣡ अ꣡त्रये  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varethe* ← *vṛ*
 - \[verb\], dual, Present indikative
@@ -90,35 +90,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अश्विनौ **वल्गु** मनोहरं **वदते** स्तुवते **अत्रये** **आतपः** आतपादौष्ण्यात् **अग्निं** **वरेथे** आवारयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You stayed the fire from its fierceness for **Atri**, while he praied you acceptably; let your protection abidenear me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You obstruct the fire from burning, for Atri who speaks agreeably. – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye warded off the fervent heat for Atri when he sweetly spake:  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr wehret dem schön redenden Atri das Feuer ab, daß es nicht brenne. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Feuers Gluten wehret ihr dem Atri ab, der lieblich singt; Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Атрии, прекрасно говорящего,  
 Вы отводите огонь, чтоб он не жег.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो वहन्तु स꣡प्तयो रघुष्य꣡दो  
 रघुप꣡त्वानः प्र꣡ जिगात बाहु꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 माद꣡यध्वम् मरुतो म꣡ध्वो अ꣡न्धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सीद॑त । आ । ब॒र्हिः । उ॒रु । वः॒ । सदः॑ । कृ॒तम् । मा॒दय॑ध्वम् । म॒रु॒तः॒ । मध्वः॑ । अन्ध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,21 +129,21 @@ genre M
 हे मरुतः **वः** युष्मान् **सप्तयः** सर्पणशीला अश्वाः **आ** **वहन्तु** अस्मद्यज्ञं प्रापयन्तु । कीदृशाः सप्तयः । **रघुष्यदः** लघु शीघ्रं स्यन्दमानाः । वेगेन गच्छन्त इत्यर्थः । **रघुपत्वानः** लघु शीघ्रं पतन्तो गच्छन्तो यूयं **बाहुभिः** स्वकीयैर्हस्तैः अस्मभ्यं दातव्यं धनमाहृत्य **प्र** **जिगात** प्रकर्षेण गच्छत । हे  **मरुतः** **वः** युष्माकं सदः सदनं वेदिलक्षणं स्थानम् **उरु** विस्तीर्णं **कृतम्** । तत्र यदास्तीर्णं **बर्हिः** तत् **आ** **सीदत** तस्मिन्बर्हिष्युपविशत । उपविश्य च **मध्वः** मधुरस्य **अन्धसः** सोमलक्षणस्यान्नस्य पानेन **मादयध्वं** तृप्ता भवत॥ रघुष्यदः । रघु स्यन्दन्ते इति रघुष्यदः।  ‘ स्यन्दू प्रस्रवणे'। क्विप् च  इति क्विप् ।' अनिदिताम्' इति नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वम् । रघुपत्वानः ।  ‘ पत्लृ गतौ  ‘ अन्येभ्योऽपि दृश्यन्ते ' इति वनिप् । जिगात । ‘गा स्तुतौ ' । जौहोत्यादिकः ।  ‘ जिगाति' (नि. २.१४.११३ ) इति गतिकर्मसु पाठादत्र गत्यर्थः । लोण्मध्यमबहुवचनस्य ‘तप्तनप्तनथनाश्च' इति तबादेशः । तस्य पित्वेन ङित्त्वाभावात् ई हल्यघोः ' इति ईत्वाभावः । सदः । अतः कृकमि°  (पा. सू. ८. ३. ४६ ) इति विसर्जनीयस्य सत्वम् । मादयध्वम् । ‘मद तृप्तियोगे' । चुरादिरात्मनेपदी ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your quick-paced, smooth-gliding coursers bear you (hither); and moving swiftly, come with your **hands** (filled with good things); sit, **Maruts**, upon the broad seat of sacred grass, and regale yourselves with the sweet sacrificial food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the quick-streaming spans convey you hither; quickly flying with  your arms, go forth.  
 Sit on the ritual grass: a broad seat has been made for you. Make  
 yourselves exhilarated, Maruts, on the honeyed stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In vs. 1 the Maruts were themselves called sáptayaḥ ‘spans’, but here that image is “repaired” by separating the Maruts from the spans of draught animals that bring them here.
 
@@ -154,23 +154,23 @@ The phrase urú vaḥ sádas kṛtám could technically be in apposition to barh
 The seat made for the Maruts on the ritual ground is here contrasted with the one they made for themselves in heaven in 2b (diví … ádhi cakrire sádaḥ), which event is then repeated in the next verse, 7b urú cakrire sádaḥ, though there the seat is in/on/above the “vault” (nā́kam).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let your swift-gliding coursers bear you hitherward with their fleet pinions. Come ye forward with your arms.  
      Sit on the grass; a wide seat hath been made for you: delight yourselves, O Maruts, in the pleasant food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch sollen die schnellaufenden Gespanne herfahren; mit den Armen schnellfliegend gehet vorwärts! Setzet euch auf das Barhis; ein breiter Sitz ist euch bereitet. Berauschet euch, ihr Marut, am süßen Somatrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch fahre her das hurtig laufende Gespann, schnellfliegend kommet her zu uns mit starkem Arm, Setzt auf die Streu euch, weit ist euch der Sitz gemacht, berauschet euch, o Maruts, an dem süssen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да привезут вас быстро мчащиеся упряжки!  
 Быстро летя, продвигайтесь с помощью рук!  

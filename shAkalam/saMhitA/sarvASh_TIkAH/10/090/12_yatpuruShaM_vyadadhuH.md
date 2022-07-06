@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् पु꣡रुषं वि꣡ अ꣡दधुः  
 कतिधा꣡ वि꣡ अकल्पयन्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 का꣡ ऊरू꣡ पा꣡दा उच्येते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 मुख॑म् । किम् । अ॒स्य॒ । कौ । बा॒हू इति॑ । कौ । ऊ॒रू इति॑ । पादौ॑ । उ॒च्ये॒ते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brāhmaṇo* ← *brāhmaṇaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, singular, masculine
@@ -116,36 +116,36 @@ popular;; epic anuṣṭubh (380)
 प्रश्नोत्तररूपेण ब्राह्मणादिसृष्टिं वक्तुं ब्रह्मवादिनां प्रश्ना उच्यन्ते । प्रजापतेः प्राणरूपा देवाः **यत्** यदा **पुरुषं** विराड्रूपं **व्यदधुः** संकल्पेनोत्पादितवन्तः तदानीं **कतिधा** कतिभिः प्रकारैः **व्यकल्पयन्** विविधं कल्पितवन्तः । **अस्य** पुरुषस्य **मुखं** **किम्** आसीत्। **कौ** **बाहू** अभूताम् **का** **ऊरू**। कौ च **पादावुच्येते** । प्रथमं सामान्यरूपः प्रश्नः पश्चात् मुखं किमित्यादिना विशेष विषयाः प्रश्नाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When they immolated **Puruṣa**, into how many portions did they divide him? What was his mouth called, what his arms, what his thighs, what were his feet called?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When they apportioned the Man, into how many parts did they  arrange him?  
 What was his mouth? What his two arms? What are said to be his two  thighs, his two feet?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When they divided Purusa how many portions did they make?  
      What do they call his mouth, his arms? What do they call his thighs and feet?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sein Mund ward zum Brahmanen, seine beiden Arme wurden zum Rajanya gemacht, seine beiden Schenkel zum Vaisya, aus seinen Füßen entstand der Sudra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vaiçja, aus seinen Füssen entsprang der Çūdra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его рот стал брахманом,  
 (Его) руки сделались раджанья,  

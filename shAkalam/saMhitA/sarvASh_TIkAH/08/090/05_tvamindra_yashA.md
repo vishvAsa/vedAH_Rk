@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्र यशा꣡ असि  
 ऋजीषी꣡ शवसस् पते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡नुत्ता चर्षणीधृ꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । वृ॒त्राणि॑ । हं॒सि॒ । अ॒प्र॒तीनि॑ । एकः॑ । इत् । अनु॑त्ता । च॒र्ष॒णि॒ऽधृता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -111,43 +111,43 @@ genre M
 हे **शवसस्पते** बलस्य पालयितर्हे **इन्द्र** **ऋजीषी** । ऋजीषोऽपार्जितोऽभिषुतः सोमः । तद्वान् **त्वं** **यशाः** यशस्वी **असिः** । कथमस्य यशस्वित्वं तदाह । **अप्रतीनि** बलिभिरप्यप्रतिगतानि अत एव अनुत्तानि अन्यैर्नोत्तुमशक्यानि **वृत्राणि** रक्षांसि **त्वम्** **एक** **इत्** असहाय एव **चर्षणीधृता** असुरादिहननद्वारेण मनुष्याणां धारकेण वज्रेण **हंसि** संप्रहरसि । अत एवास्य यशस्वित्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, lord of strength, are the glorious possessor of the offered **Soma**, alone with (yourthunderbolt), that protector of men, you smite the enemies that none else could oppose or drive away.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, are the glorious possessor of the silvery drink, o lord of  strength.  
 You, all alone, smite the unopposable obstacles that have been conceded  by the one who sustains the domains [=Varuṇa?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the sense of this verse, see published introduction. Both Geldner and Oldenberg (ad I.165.9 n.
 
 1) suggest, tentatively, that Varuṇa is the referent of carṣanīdhṛ̥́t-, and VII.85.3cd, in a hymn dedicated jointly to Indra and Varuṇa, supports this suggestion: kṛṣtī́r anyó dhārayati práviktā, vṛtrā́ṇy anyó apratī́ni hanti. Here in a balanced “the one … the other” construction, Indra’s characteristic deeds are described in d almost as in our passage, while Varuṇa’s activity in c, kṛṣṭī́ḥ … dhāráyati ‘sustains the peoples’, is expressed in a VP that is a variant of our compound.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, thou art far-renowned, impetuous, O Lord of Strength.  
      Alone thou slayest with the guardian of mankind resistless never-conquered foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist angesehen, der Trinker des Trestertrankes, o Herr der Kraft. Du erlegest die Feinde, denen keiner gewachsen ist, ganz allein, denen der Völkerregent Varuna das Feld geräumt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist, o Indra, reich an Glanz, du vorwärtsdringend, Herr der Kraft; Die unbesiegten Feinde tödtest du allein, die mächt'gen durch den Menschenhort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

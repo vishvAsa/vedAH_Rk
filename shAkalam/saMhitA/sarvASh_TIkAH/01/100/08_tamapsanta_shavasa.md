@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अप्सन्त श꣡वस उत्सवे꣡षु  
 न꣡रो न꣡रम् अ꣡वसे तं꣡ ध꣡नाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । अ॒न्धे । चि॒त् । तम॑सि । ज्योतिः॑ । वि॒द॒त् । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -134,7 +134,7 @@ genre M;; repeated line
 **नरः** नेतारः स्तोतारः **शवसः** बलस्य संबन्धिषु **उत्सवेषु** संग्रामेषु **नरं** जयस्य नेतारं **तम्** इन्द्रम् **अप्सन्त** आप्नुवन्ति । किमर्थम् । **अवसे** अन्नार्थं रक्षणार्थं वा । तथा **धनाय** धनार्थं च **तम्** इन्द्रं प्राप्नुवन्ति । यस्मात् **सः** इन्द्रः **तमसि** दृष्टिप्रतिबन्धके **अन्धे** **चित्** आध्यानरहिते चित्तव्यामोहकरेऽपि संग्रामे **ज्योतिः** विजयलक्षणं प्रकाशं **विदत्** लम्भयति । तस्मात् तमेव प्राप्नुवन्तीत्यर्थः । अन्यत् समानम् ॥ अप्सन्त । आप्लृ व्याप्तौ । लङि व्यत्ययेन आत्मनेपदम् । व्यत्ययेन क्सप्रत्ययः । व्यत्ययेन धातोर्ह्रस्वत्वम् । विदत् । **विद्लृ** लाभे'। 'छन्दसि लुङ्लङ्लिटः' इति वर्तमाने छान्दसो लुङ् । लुदित्त्वात् च्लेः अङादेशः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,36 +145,36 @@ genre M;; repeated line
 **Jyotis**. = light; cit-**tāmasi** = in the darkness of thought; hopefully, Indra will give the light of knowledge to darkness of understanding
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him they inspired [?] in the upsurgings of his vast power—the men  inspired [?] the man to help, inspired [?] him to the stakes.  
 He found the light even in blind darkness. – Accompanied by the  Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The apparent 3rd pl. med. verb apsanta is difficult. Geldner simply refuses to translate. Oldenberg suggests a connection with √sap but without conviction. Renou and Witzel Gotō (though both without disc.) must take it as a desiderative to √āp ‘reach, obtain’ (“… cherchent à gagner,” “… wollen … erreichen”). But, though the standard desid. to this root, ī́psati, is not attested until the AV, the lack of reduplication and the short root vowel make the stem apsa- an unlikely desid. (This analysis is also rejected by Geldner in n. 8a.) I tentatively suggest that it belongs to the putative root √bhas ‘breathe’, which Thieme (Gramm. Kat. 539) suggests underlies the various compounds in -psu-, as well as Grk. ψυχή (see EWA s.vv. psu- and bhas2 ) and that it means ‘inspire’. It would then be the imperfect of a root pres. (or possibly a root aor.). Though we might expect a weak form of the middle ending, *apsata, this may well be an -anta replacement for act. -an of the type identified and described in Jamison 1979 (IIJ 21).
 
 Oldenberg rejects a derivation from √bhas, but presumably referring to the other √bhas ‘bite’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the Hero, on high days of prowess, heroes for help and booty shall betake them.  
      He hath found light even in the blinding darkness. May Indra, girt by Maruts, be our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, den Herrn,...... die Herren an den Festtagen der Kraft um Beistand, ihn um Beute. Er finde selbst in stockdunkler Finsternis das Licht - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer werben um den Mann zur Stärkung, zum Schutz, zur Beute in den Kriegesmühen, Im blinden Dunkel auch kann Licht er schaffen, er mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его стремятся залучить на праздниках силы,  
 Мужи – мужа для помощи, его – для добычи!  

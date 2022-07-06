@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते नूनं꣡ शतक्रतव्  
 इ꣡न्द्र द्युम्नि꣡तमो म꣡दः  
 ते꣡न नून꣡म् म꣡दे मदेः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 तेन॑ । नू॒नम् । मदे॑ । म॒दे॒रिति॑ मदेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -89,37 +89,37 @@ genre M
 अत्र सोमः स्तूयते । हे **शतक्रतो** शतविधप्रज्ञान हे **इन्द्र** **द्युम्नितमः** यशस्वितमः **यः** **मदः** । माद्यन्त्यनेनेति मदः सोमः । यः सोमः **नूनं** पुरा **ते** त्वदर्थमस्माभिरभिषुतोऽस्ति **तेन** अस्माभिः प्रदीयमानेन सोमेन **नूनम्** इदानीं **मदे** तत्पानेन मदे तव संजाते सत्यस्मानपि **मदेः** धनादिदानेन त्वं मादय । ‘मदी हर्षे' । अत्रान्तर्णीतण्यर्थः । ‘बहुलम्' इति शप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rejoice us, **Indra**, **Śatakratu**, as you rejoice in that most glorious exhilaration of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra of a hundred resolves, that which now is the most brilliant  exhilaration for you,  
 with that you should now become exhilarated on the  
 exhilarating drink—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Satakratu Indra, now rejoice with that carouse of thine  
      Which is most splendid of them all
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was, o Ratreicher, dein erleuchtetster Rausch jetzt ist, Indra, mit dem berausche dich jetzt an dem Rauschtrank,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch wirkungsreichster Rausch dir je o thatenreichster Indra ist, Mit dem berausch dich nun beim Trunk,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वावन्तं रथि꣡नं वीर꣡वन्तं  
 सहस्रि꣡णं शति꣡नं वा꣡जम् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 भ॒द्रऽव्रा॑तम् । विप्र॑ऽवीरम् । स्वः॒ऽसाम् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāvantaṃ* ← *aśvāvantam* ← *aśvāvat*
 - \[noun\], accusative, singular, masculine
@@ -115,36 +115,36 @@ genre M;; repeated line
 **अश्वावन्तं** बहुभिरश्वैरुपेतं **रथिनं** रथवन्तं **वीरवन्तं** वीरैः पुरुषैरुपेतं **सहस्रिणं** सहस्रवन्तं **शतिनं** शतवन्तम् । असंख्यातगवादियुक्तमित्यर्थः। **भद्रव्रातं** भद्रगणं कल्याणसेवकैः परिवृतं  **विप्रवीरं** विप्रैर्वीरैश्चोपेतं **स्वर्षां** सर्वस्य संभक्तारं **वाजं** बलवन्तं हे **इन्द्र** । शिष्टमुक्तम् ॥ ॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, **Indra**, various fettilizing wealth, consisting of horses, of chariots, of valiant followers, ofthousands, of hundreds (of cattle), surrounded by beautiful attendants, endowed with sages and heroes, theenjoyer of all (benefits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rich in horses, in chariots, in heroes, a thousandfold, hundredfold prize,  o Indra,  
 having beneficial troops, having poets as heroes, sun-winning. – To us  give bright, bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealthy in heroes and in cars and horses, strength hundredfold and thousandfold, O Indra,  
      With manly sages, happy troops, Iight-winning: vouchsafe us mighty and resplentdent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns Gewinn, der in Rossen, Wagen und Mannen besteht, tausendfältigen, o Indra; der eine glückliche Schar bildet, aus beredten Söhnen besteht und das Sonnenlicht gewinnt! - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib, Indra, hundert-, tausendfachen Schatz uns, der reich an Rossen, Wagen sei und Männern, Der glanzumschart, gerühmt von Sängern, Glück bringt, den mannichfachen, starken Reichthum schenk uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Награду, состоящую из коней, колесниц, героев,  
 Тысячную, сотенную, о Индра,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 से꣡मं꣡ न स्तो꣡मम् आ꣡ गहि  
 उ꣡पेदं꣡ स꣡वनं सुत꣡म्  
 गौरो꣡ न꣡ तृषितः꣡ पिब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गौ॒रः । न । तृ॒षि॒तः । पि॒ब॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *semaṃ* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -100,7 +100,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **स** त्वं **नः** अस्मदीयम् **इमं** **स्तोमं** स्तुतिं प्रति **आ** **गहि** आगच्छ । आगमने हेतुरुच्यते । **उप** देवयजनसमीपे **सुतम्** अभिषुतसोमयुक्तम् **इदम्** इदानीमनुष्ठीयमानं **सवनं** प्रातःसवनादिरूपं कर्म वर्तते । तस्मात् **गौरो** **न** गौरमृग इव **तृषितः** सन् इमं सोमं **पिब** ॥ सः इमम् इत्यत्र संहितायां: सोऽचि लोपे चेत्पादपूरणम् ' ( पा. सू. ६. १. १३४ ) इति सुलोपः । गहि । गतम् । सवनम् । सूयतेऽस्मिन् सोम इत्यधिकरणे ल्युट् ।' लिति' इति प्रत्ययात्पूर्वस्योदात्तत्वम् । ल्युडन्तात् सप्तम्याः ‘सुपां सुपो भवन्तीति वक्तव्यम्' (पा. म. ७. १. ३९ ) इति वचनात् द्वितीया । अभिषुतसोमयुक्तमिदं सवनमिति कर्मण्येव वा द्वितीया । तदा सुतशब्दात् अर्शआदित्वादच् (पा. सू. ५, २. १२७ )। तृषितः । ‘ञितृष पिपासायाम् । निष्ठा' इति क्तः । प्रत्ययस्वरेणोदात्तः । पश्चात् इट:  ‘ आगमा अनुदात्ताः' इत्यनुदात्तत्वम् ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 which the libation is prepared; drink like a thirsty stag (**gaura**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to this praise of ours, up to this pressing here when it is  pressed.  
 Drink like a thirsty buffalo.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come thou to this our song of praise, to the libation poured for thee  
      Drink of it like a stag athirst.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm du her zu unserem Loblied, zu dieser ausgepreßten Trankspende; trink wie ein durstiger Büffel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu unserm Lobgesang, zu diesem ausgepressten Saft, Und wie ein durst'ger Büffel trink.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди на это наше восхваление,  
 На этот праздник выжатого (сомы)!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ हि꣡ अ꣡ख्यम् म꣡नसा व꣡स्य इछ꣡न्न्  
 इ꣡न्द्राग्नी ज्ञास꣡ उत꣡ वा सजाता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ वां धि꣡यं वाजय꣡न्तीम् अतक्षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । अ॒न्या । यु॒वत् । प्रऽम॑तिः । अ॒स्ति॒ । मह्य॑म् । सः । वा॒म् । धिय॑म् । वा॒ज॒ऽयन्ती॑म् । अ॒त॒क्ष॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -143,20 +143,20 @@ genre M
 हे **इन्द्राग्नी** **वस्यः** प्रशस्तं धनम् **इच्छन्** कामयमानोऽहं **ज्ञासः** ज्ञातीन् **उत** **वा** अपि वा **सजातान्** । समानजन्मानो ज्ञातिव्यतिरिक्ता बान्धवाः । तांश्च **मनसा** बुद्ध्या **वि** **ह्यख्यं** युवामेव ज्ञातिरूपेण बन्धुरूपेण च व्यज्ञासिषम् । ते हि धनस्य दातारो भवन्ति । अपि च **युवत्** युवाभ्याम् **अन्या** अन्येन केनचिन् **मह्यं** दत्ता **प्रमतिः** प्रकृष्टा बुद्धिः **न** **अस्ति** । मदीया यैषा प्रकृष्टा बुद्धिः सा युवाभ्यामेव दत्ता । **सः** तादृश्या बुद्ध्या युक्तोऽहं **वां** युवयोः संबन्धिनीं **वाजयन्तीम्** अन्नमस्मभ्यमिच्छन्तीं **धियं** ध्यानेन निष्पन्नां स्तुतिम् **अतक्षम्** अकार्षम् ॥ अख्यम् । लुङि  ‘ अस्यतिवक्तिख्यातिभ्योऽङ्' इति च्लेरादेशः । वस्यः । वसुशब्दात् ईयसुन्। 'टे: " इति टिलोपः । छान्दस ईकारलोपः । ज्ञासः । सुखदुःखादिकं साम्येन जानन्तीति ज्ञासो ज्ञातयः ।  ‘ ज्ञा अवबोधने'। औणादिकोऽसुन्। व्यत्ययेन विभक्तेरुदात्तत्वम् । युवत् । ‘सुपां सुलुक् इति विभक्तेर्लुक् । द्व्यर्थाभिधायकत्वात् ‘युवावौ द्विवचने' (पा. सू. ७. २.९२ ) इति युष्मदो मपर्यन्तस्य युवादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, desirous of wealth, I consider you, in my mind, as kinsmen and relations; the clear understanding you have given me, (is given) by no one else, and (so gifted), I have composed this hymn to you, intimating my wish for sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, seeking a better state, I have surveyed with my mind my kith  and kin, o Indra and Agni,  
 there exists for me no other (fatherly) solicitude than you two. So I have  fashioned for you a thought that seeks the prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The kinship theme of the first hemistich is continued in pāda c, with prámati- ‘solicitude’, since this abstract noun is regularly identified with the father -- e.g., I.31.10 tvám agne prámatis tvám pitā́si naḥ. See further disc. ad I.71.7.
 
@@ -170,23 +170,23 @@ These two vss. are parallel in structure, with an initial hí clause with a 1st 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LONGING for weal I looked around, in spirit, for kinsmen, Indra-Agni, or for brothers.  
      No providence but yours alone is with me so have I wrought for you this hymn for succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe zwar nach Verwandten oder Standesgenossen im Geiste Umschau gehalten, mein Heil suchend, o Indra und Agni. Es gibt für mich keine andere Zuversicht als euch beide; darum habe ich auf euch ein lohnbringendes Loblied gedichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schaute aus im Geiste Gut begehrend, Indrāgni, nach Bekannten und Verwandten, Doch ausser euch ist mir kein andrer Beistand, Drum hab' ich euch dies kräft'ge Lied gedichtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В поисках счастья я мысленно перебирал,  
 О Индра и Агни, кровных родственников или же соплеменников:  

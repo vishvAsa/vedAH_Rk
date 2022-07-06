@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
 स्म꣡द्रातिषाचो अग्न꣡यः  
 प꣡त्नीवन्तो व꣡षट्कृताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 पत्नी॑ऽवन्तः । वष॑ट्ऽकृताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
@@ -71,21 +71,21 @@ genre M
 **वरुणः** वरणीयः संभजनीयः **मित्रः** स्तोतॄणां यष्टॄणां च धनादिदानेन मित्रभूतः **अर्यमा** स्तोत्रकारिणे धनं प्रापयन् यद्वा सततं गच्छन् एतन्नामकास्त्रयो देवाः **स्मद्रातिषाचः** । स्मत् सुमच्छोभना रातिः हविष्प्रदानं येषामस्तीति स्मद्रातयो यजमानाः । तान् सचन्ते धनादिप्रदानेन सेवन्त इति तथोक्ताः । यद्वा । कल्याणं यथा भवति तथा हविषां दातॄन् सचन्त इति । ते तादृशाः **पत्नीवन्तः** देवपत्नीसहिताः **अग्नयः** अङ्गनशीला नानाविधा अग्नयः **वषट्कृताः** । मया  ‘ सोमस्याग्ने वीहि वौषट् ' (आश्व. श्रौ. ५. ५) इत्यादिना स्वाहाकृताः । सुहुता इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Varuṇa**, **Mitra**, **Aryaman** and the **Agnis**, with their wives, honouring the donors (of the oblation),and addressed with the sacrificial exclamation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Varuṇa, Mitra, Aryaman, the Agnis with the Gift Escorts,  
 along with the Wives (of the Gods), are those to whom the  
 vaṣaṭ-cry is made.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Gift Escorts (rāti-ṣā́c-) are rather shadowy divine figures. In II.1.13 they escort (saścire) Agni at the ceremonies, a situation that may be reflected here.
 
@@ -94,23 +94,23 @@ Otherwise they mostly show up in All God hymns (esp. a run of them in VII) as fa
 In III.6.9 Agni is urged to bring the 33 gods (see our 1a) to the sacrifice along with their wives (pátnīvant- as here), a ritual situation that can link our vss. 1-2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna, Mitra, Aryaman, Agnis, with Consorts, sending boons,  
      To whom our Vasat! is addressed:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Varuna, Mitra, Aryaman, die Agni´s samt den Ratisac mit den Götterfrauen, denen das Vasat gesprochen wird,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Varuna, Mitra, Arjaman, die Feuer mit der Spenderschar Nebst ihren Frauen sind begrüsst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Варуна, Митра, Арьяман,  
 (Многие) Агни вместе с (богинями,) сопровождающими дары,  

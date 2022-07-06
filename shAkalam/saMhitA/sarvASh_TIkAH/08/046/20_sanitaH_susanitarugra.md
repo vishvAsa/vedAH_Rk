@@ -6,7 +6,7 @@ ChandaH = "विषमपदा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नितः सु꣡सनितर् उ꣡ग्र  
 चि꣡त्र चे꣡तिष्ठ सू꣡नृत  
@@ -14,7 +14,7 @@ ChandaH = "विषमपदा"
 भुज्युं꣡ वा꣡जेषु पू꣡र्वियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 प्र॒ऽसहा॑ । सम्ऽरा॒ट् । सहु॑रिम् । सह॑न्तम् । भु॒ज्युम् । वाजे॑षु । पूर्व्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanitaḥ* ← *sanitar* ← *sanitṛ*
 - \[noun\], vocative, singular, masculine
@@ -99,7 +99,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे **सनितः** संभक्तर्दातर्वा **उग्र** उद्गूर्णबल **चित्र** चायनीय **चेतिष्ठ** अत्यन्तं चेतयितः **सूनृत** सुसत्य **प्रासहा** प्रसह्य हे **सम्राट्** सर्वस्य स्वामिन् सम्यग्राजमान वा त्वं **सहुरिं** सहनशीलं **भुज्युं** भोजयितारं **पूर्व्यं** प्रवृद्धम् । मुख्यमित्यर्थः । ईदृशं धनं **वाजेषु** संग्रामेष्वाभरेति शेषः ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,36 +114,36 @@ Pūrvya = goingbefore (in battle);
 **Bhujyu** = preserver of all
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O winner, good winner, powerful, brilliant, most brilliant, liberal-spirited, sovereign king, (bring wealth) victorious through victory,  
 victory-winning, enjoyable, foremost at the prize-contests.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the full hemistich of vocatives, all accented because there is no inherently tonic word to follow.
 
 As Oldenberg points out, all the accusatives of the second hemistich should be grouped with rayím in 19, and the verb of that verse ā́bhara continues to have domain over this one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Winner, noble winner, strong, wondrous, most splendid, excellent,  
      Sole Lord of victory, bring all-ovcrpowering wealth, joy-giving, chief in deeds of might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Gewinner, tüchtiger Gewinner, Gewaltiger, Ausgezeichneter, Ausgezeichnetster, Großmütiger, du Allherrscher, durch Übermacht gewaltigen, überwältigenden, genußbietenden, der bei den Preiskämpfen der Vorderste ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O [Spender] schönspendender, gewaltiger [glänzender] hellglänzendster, herrlicher, mit Allgewallt, o Oberherr, machtest du siegreich den [siegenden] Bhudschju, der in den Kämpfen der erste ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О захватчик, замечательный захватчик, грозный, яркий,  
 Самый блистательный, великодушный,  

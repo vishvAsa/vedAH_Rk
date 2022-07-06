@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था युगं꣡ वरत्र꣡या  
 न꣡ह्यन्ति धरु꣡णाय क꣡म्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡थो अरिष्ट꣡तातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 ए॒व । दा॒धा॒र॒ । ते॒ । मनः॑ । जी॒वात॑वे । न । मृ॒त्यवे॑ । अथो॒ इति॑ । अ॒रि॒ष्टऽता॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -107,34 +107,34 @@ popular;; epic anuṣṭubh (525)
 **यथा** **युगं** **वरत्रया** पाशेन **नह्यन्ति** बध्नन्ति **धरुणाय** रथादिधारणाय । **कम्** इति पादपूरणः । **एव** एवं **ते** **मनः** **दाधार** परिधावग्निः । किमर्थम् । **जीवातवे** जीवनाय **न** **मृत्यवे** मरणाय न **अथो** अपि च **अरिष्टतातये** अविनाशाय । स्वार्थिकस्तातिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as they tie a yoke with a strap to make it fast,  
 even so does he hold fast your mind, for living, not for death, but for  invulnerability.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As with the leather thong they bind the chariot yoke to hold it fast,  
      So have I held thy spirit fast, held it for life and not for death, held it for thy security.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie man das Joch mit dem Riemen bindet zum Festhalten, also hat er deinen Geist zum Leben befestigt, nicht zum Tode, sondern zur Unversehrtheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie man mit Riemen fest das Joch umbindet, dass es halten soll, So halte deinen Geist ich fest, damit du lebst, dem Tod entfliehst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как ярмо ремнем  
 Привязывают, чтоб оно держалось,  

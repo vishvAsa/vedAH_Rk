@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्यु꣡तो ज्यो꣡तिः प꣡रि संजि꣡हानम्  
 मित्रा꣡व꣡रुणा य꣡द् अ꣡पश्यतां त्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग꣡स्त्यो य꣡त् त्वा विश꣡ आजभा꣡र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तत् । ते॒ । जन्म॑ । उ॒त । एक॑म् । व॒सि॒ष्ठ॒ । अ॒गस्त्यः॑ । यत् । त्वा॒ । वि॒शः । आ॒ऽज॒भार॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], ablative, singular, feminine
@@ -123,7 +123,7 @@ popular
 एतास्वृक्षु वसिष्ठस्यैव देहपरिग्रहः प्रतिपाद्यते । एताश्चेन्द्रस्य वाक्यमित्येके वर्णयन्त्यपरे वसिष्ठपुत्राणामिति । हे **वसिष्ठ** **यत्** यदा **विद्युतः** विद्युत इव स्वीयं **ज्योतिः** देहान्तरपरिग्रहार्थं **परि** **संजिहानं** परित्यजन्तं **त्वा** त्वाम् । छान्दसमात्मनेपदम् । यद्वा । जिघृक्षितदेहार्थं स्वीयं ज्योतिः परि संजिहानम्। परिजिघृक्षन्तमित्यर्थः । अस्मिन् पक्षे जहातेर्गत्यर्थत्वादात्मनेपदं छान्दसं न भवति । **मित्रावरुणा** मित्रावरुणौ **अपश्यताम्** । आवाभ्यामयं जायेतेति समकल्पतामित्यर्थः । **तत्** तदा **ते** तव **एकं** जन्म। **उत** अपि च **यत्** यदा **अगस्त्यः** **विशः** निवेशनान्मित्रावरुणौ आवां जनयिष्याव इत्येतस्मात् पूर्वावस्थानात् त्वाम् **आजभार** आजहार ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ popular
 Agasya bore you:agastyo yat tvā viśā ājabhāra = yadā purvavasthānāt tvām ājahāra, when Agastya took you from theformer condition; mitrāvaruṇau āvām janayisyāva, we two Mitra and Varuṇa, will beget; or, āvābhyāmayam jāyeta iti samakalpatām, the two divinities determined this Vasiṣṭha shall be begotten by us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Mitra and Varuṇa saw you as light compacting itself from out of  the lightning—  
 that was (one) birth of yours, Vasiṣṭha, and (there was) one when  
 Agastya brought you here for the clan.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In III.51.4 I take sám √hā as ‘compact oneself together’, that is, ‘concentrate one’s essence’, and that seems the image here, of the embryonic Vasiṣṭha taking shape from concentrated lightning. Geldner (n. 10a) suggests rather that it refers to semen suddenly poured out. I do not see this, and his suggested parallel in X.95.10 seems irrelevant, esp. since the lightning there is Urvaśī.
 
@@ -168,23 +168,23 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A form of lustre springing from the lightning wast thou, when Varuna and Mitra saw thee.  
      Tliy one and only birth was then, Vasistha, when from thy stock Agastya brought thee hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Mitra und Varuna dich als Licht aus dem Blitze auffahren sahen, das war deine eine Geburt und eine, o Vasistha, als dich Agastya dem Clane brachte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Mitra und Varuna dich erblickten, da du mit dem Glänze des Blitzes umkleidet warst, das war dein Ursprung und einer auch, als dich Agastja zu den Menschen brachte, o Vasischta.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Митра-Варуна увидели,  
 Как ты выскакиваешь светом из молнии,  

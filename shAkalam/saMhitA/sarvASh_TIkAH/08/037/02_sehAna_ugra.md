@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सेहान꣡ उग्र पृ꣡तना अभि꣡ द्रु꣡हः शचीपत  
 इ꣡न्द्र वि꣡श्वाभिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "महापङ्क्तिः"
 पि꣡बा सो꣡मस्य वज्रिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; line affected by realignment;; repeated line
 माध्य॑न्दिनस्य । सव॑नस्य । वृ॒त्र॒ऽह॒न् । अ॒ने॒द्य॒ । पिब॑ । सोम॑स्य । व॒ज्रि॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sehāna* ← *sehānaḥ* ← *sah*
 - \[verb noun\], nominative, singular
@@ -108,14 +108,14 @@ genre M;; line affected by realignment;; repeated line
 हे **शचीपते** कर्मपते **उग्र** उद्गूर्ण **इन्द्र** **अभि** **द्रुहः** द्रोग्ध्रीः **पृतनाः** सेनाः **सेहानः** अभिभवन् सर्वेः पालनैर्ब्राह्मणान् प्राविथेत्यर्थः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, defeater of hostile armies, lord of rites, (you protect) with all your protections; slayer ofVṛtra, irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-day solemnity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Winning battles against deceits, strong one—  
 – you lord of power, Indra, with all help—at the Midday Pressing,  
@@ -123,27 +123,27 @@ irreproachable Vr̥tra-smasher, drink of the soma, possessor of
 the mace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that sehānáḥ … pṛ́tanāḥ in the new material of this verse picks up a phrase in the refrain of VIII.36 víśvāḥ séhānáḥ pṛ́tanāḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou mighty Conqueror of hostile armaments, O Indra, Lord of Strength, with all thy saving help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du Gewaltiger die feindlichen Heere siegreich bestanden hast, die Tücken, Herr der Kraft, mit allen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, starker, du der Feinde Heeresmacht bezwingst, o Herr der Kraft, mit allen Hülfen, Indra du; O Vritratödter von der Mittagsspende hier, vom Soma trinke, tadelloser Schleuderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разгромивший, о грозный, войска, (всех) вредителей,  
 О повелитель силы,  

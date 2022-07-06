@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था꣡भवद् अनुदे꣡यी  
 त꣡तो अ꣡ग्रम् अजायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पश्चा꣡न् निर꣡यणं कृत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 पु॒रस्ता॑त् । बु॒ध्नः । आऽत॑तः । प॒श्चात् । निः॒ऽअय॑नम् । कृ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathābhavad* ← *yathā*
 - \[adverb\]
@@ -106,34 +106,34 @@ popular;; epic anuṣṭubh (380)
 यद्वा । अनुदेयी आत्मानमनु दातव्यात्मस्वरूपव्यतिरिक्तान्यपदार्थसत्ता यथाभवत् भवति तदनुगुणं ततस्तस्मान्मायाविशिष्टादात्मनोऽग्रं स्रष्टव्यस्य विकारजातस्यायं मनस्तत्त्वं सिसृक्षाकारणमजायत उदपद्यत । पुरस्तात् सृष्टेः प्रागवस्थायां बुध्नो मूलमव्याकृतं मायात्मकं कारणमेवाततः । आ समन्तात् ततं विस्तृतमासीत् । पश्चात्तमस उत्पत्त्यनन्तरं निरयणं तद्गतानां कार्याणां तस्मात् कारणान्निर्गमनं घटपटादिभेदेन स्वरूपालम्भनं कृतम्। ब्रह्मणा निर्मितम् । तथा मृद्विकारो घटादिर्मृदोऽन्यो न भवति । आदित्यानुग्रहात् ब्रह्मभावं प्राप्तस्य मम विकारः प्रपञ्चो मदन्यो न भवतीति व्यतिरिक्तस्य पित्रादेराक्षेपः पूर्वोक्तः समर्थितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As (the debt) came to be forgiven, after that the top was born;  
 the base was stretched out in front and the “coming forth” was made behind.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When the funeral gift was placed, straightway the point of flame appeared.  
      A depth extended in the front: a passage out was made behind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie seine Amme war? Von da kam der Anfang her. Vorerst wird der Grund gelegt, hinterher wird das Ergebnis gewonnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Wie er zurückgegeben ward, da ward des Wagens Bock gemacht, Der Boden vorne angefügt, der Ausgang hinten angebracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как произошла передача?  
 От этого возникло начало.  

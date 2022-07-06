@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आयुं꣡ कु꣡त्सम् अतिथिग्व꣡म् अ꣡र्दयो  
 वावृधानो꣡ दिवे꣡-दिवे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वाजय꣡न्तो हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 तम् । त्वा॒ । व॒यम् । हरि॑ऽअश्वम् । श॒तऽक्र॑तुम् । वा॒ज॒ऽयन्तः॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -102,31 +102,31 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You who, waxing in might day by day, did destroy Āyu, **Kutsa**, and **Atithigva**, we invoke you,**Śatakratu**, with your bay horses, rousing you by our offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who set Āyu, Kutsa, Atithigva to shaking, while growing stronger  every day,  
 you do we invoke, seeking prizes—you of the fallow bay horses,  
 possessing a hundred resolves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du den Ayu, den Kutsa, den Atithigva nachgiebig machtest, Tag für Tag stärker geworden, als solchen rufen wir dich nach dem Siegerpreis strebend, den Falbenfahrer, den Ratreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Aju, Kutsa und den Atithigva du bedrängt hast, wachsend Tag für Tag, Der hundertfach du wirkst mit goldnem Rossepaar, dich rufen Labung bringend wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто извел Аю, Кутсу, Атитхигву,  
 Сам крепчая день ото дня,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा वृ꣡ष्णे दुदुहे दो꣡हसा दिवः꣡  
 प꣡यांसि यह्वो꣡ अ꣡दितेर् अ꣡दाभियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡ यज्ञि꣡यो यजतु यज्ञि꣡याँ ऋतू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 विश्व॑म् । सः । वे॒द॒ । वरु॑णः । यथा॑ । धि॒या । सः । य॒ज्ञियः॑ । य॒ज॒तु॒ । य॒ज्ञिया॑न् । ऋ॒तून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -128,14 +128,14 @@ genre D
 **वृषा** आहुतिद्वारेण वृष्टेर्वर्षिता **यह्वः** महान् **अदाभ्यः** केनाप्यहिंस्योऽग्निः **अदितेः** अक्षीणयागक्रियस्य **वृष्णः** यज्ञद्वारेण स्तुतीनां हविषां वा वर्षितुर्यजमानस्यार्थाय **दोहसा** दोहनेन महता प्रक्षारणेन दिवः सकाशात् **पयांसि** वृष्टिलक्षणान्युदकानि **दुदुहे** दोग्धि प्रक्षारयति । किंच **यथा** **वरुणः** आदित्यः **धिया** आत्मानुरूपया प्रज्ञया **विश्वं** सर्वं **वेद** जानाति तथा **सः** अयमग्निः जानातीत्यर्थः । **यज्ञियः** यज्ञार्हः **सः** अग्निः **यज्ञियान्** यज्ञार्हान् **ऋतून्** **यजतु** पूजयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The great, the unconquerable (**Agni**), the showerer, milks openly with a (great) milking the streams (ofprosperity) from heaven for the unwearying sacrificer; like **Varuṇa**, he knows everything by his understanding;may he who is skilled in sacrifice observe the sacrificial seasona.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull [=Soma] has milked out his draughts of milk for the bull  [=Indra] by the milking of heaven—he the youthfully exuberant,  
 undeceivable (son) of Aditi.  
@@ -143,23 +143,23 @@ He [=Agni] knows everything, as Varuṇa does, through his insight. Let  him who
 sacrificial sequences.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE Bull hath yielded for the Bull the milk of heaven: the Son of Aditi can never be deceived.  
      According to his wisdom Varuna knoweth all: may he, the Holy, hallow times for sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle hat für den Bullen durch Melkung seine Himmelsmilch melken lassen, der jüngste unbeirrbare Sohn der Aditi. Der weiß alles durch Einsicht,wie Varuna; der Opferwürdige soll den Opferzeiten opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stiere strömt der Stier durch Himmels Strömung zu die Milch, der Sohn der Aditi, den niemand täuscht; Er kennt durch Einsicht alles gleich dem Varuna; der opferkund'ge opfre Opferzeiten her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык для быка надоил доения неба  
 Струи молока, юный (сын) Адити, безобманный.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्य꣡ वाजी꣡ क्षिपणिं꣡ तुरण्यति  
 ग्रीवा꣡याम् बद्धो꣡ अपिकक्ष꣡ आस꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पथा꣡म् अ꣡ङ्कांसि अ꣡नु आप꣡नीफणत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्रतु॑म् । द॒धि॒ऽक्राः । अनु॑ । स॒म्ऽतवी॑त्वत् । प॒थाम् । अङ्कां॑सि । अनु॑ । आ॒ऽपनी॑फणत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -111,20 +111,20 @@ genre M
 **उत** अपि च **स्यः** सः **वाजी** वेजनवानश्वरूपो देवः **ग्रीवायां** गरणसाधनायां कण्ठे **बद्धः** **अपिकक्षे** कक्षप्रदेशे **आसनि** आस्ये च बद्धः । बद्धपल्यङ्कस्योक्तेषु स्थानेषु पाशबन्धाः संभवन्ति । एवं बद्धः सन्  **क्षिपणिं** क्षेपणम् **अनु** तुरण्यति त्वरयति गन्तुम्। किंचायं **दधिक्राः** देवः **क्रतुं** कर्म प्रज्ञां वा **अनु** अनुसृत्य **संतवीत्वत्** प्रवृद्धबलवान सन् **पथां** मार्गाणाम् **अङ्कांसि** कुटिलानि अनुसृत्य **आपनीफणत्** सर्वतो भृशं गच्छति ॥ फणतेर्गत्यर्थस्य यङ्लुकि इदं रूपम् ॥ अपि स वाजी वेजनवान्' (निरु. २.२८ ) इत्यादि निरुक्तमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And that horse bound by his neck, his flanks, his mouth, accelerates his paces; Dadhikrā increasing in vigour after the (sacred rite), following the windings of the roads, goes still more rapidly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this prizewinner, bound at neck, shoulder, and mouth, rushes  headlong to the lash—  
 Dadhikrā, growing stronger and stronger following his will, galloping  and galloping following the curves of the paths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 kṣipaṇí- is yet another hapax. The standard rendering is ‘lash’ (Geldner: Peitschenhieb, Renou: coup-de-fouet), and the published translation simply follows this. Witzel Gotō suggest rather ‘in Beschleunigung’ (acceleration). Acdg. to their n. they take it as an Inhaltsakk., flg. Gaedicke. This is possible, I suppose: ‘rushes a rush’ à ‘rushes a flinging’ (‘flinging’ à ‘acceleration’). But since the similarly formed kṣipaṇú- (IV.58.6) appears to be a physical weapon, a physical object seems likely here.
 
@@ -143,23 +143,23 @@ There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bound by the neck and by the flanks and by the mouth, the vigorous Courser lends new swiftness to his speed.  
      Drawing himself together, as his strength allows, Dadhikras springs along the windings of the paths.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und der Preisrenner kommt dem Peitschenhieb zuvor, am Hals, an der Sattelstelle und am Maul gefesselt, indem Dadhikra nach Wunsch seine Kraft zusammenrafft und die Krümmungen der Wege im Sprung nimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies schnelle Ross beschleunigt seinen raschen Lauf, am Hals gebunden, an den Schultern und am Mund; Dadhikra hüpfte, steigernd seines Wirkens Kraft ringsum der Pfade Biegungen mit raschem Sprung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И еще: скакун Дадхикра, приносящий награды, опережает удар кнута,  
 Взнузданный на шее, под животом (и) на морде,  

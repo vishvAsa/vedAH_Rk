@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् य꣡त् स꣡हः स꣡हस आ꣡जनिष्ट  
 दे꣡दिष्ट इ꣡न्द्र इन्द्रिया꣡णि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ ज्यो꣡तिषा संववृत्व꣡त् त꣡मो ऽवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । अ॒चो॒द॒य॒त् । सु॒ऽदुघाः॑ । व॒व्रे । अ॒न्तः । वि । ज्योति॑षा । स॒म्ऽव॒वृ॒त्वत् । तमः॑ । अ॒व॒रित्य॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 **यत्** यदा **सहः** सूर्यसंबन्धि तेजः **सहसः** उषःसंबन्धिनस्तेजसः **उत्** **आजनिष्ट** उपरिष्टात् प्रादुर्बभूव तदा **इन्द्रः** **विश्वा** विश्वानि सर्वाणि इन्द्रियाणि धनानि । इन्द्रियमिति धननामैतत । **देदिष्टे** । यजमानेभ्यो दिशति । **वव्रे** निवारके पर्वते **अन्तः** मध्ये बलेन निरुद्धाः **सुदुघाः** सुष्ठु दोग्ध्रीर्गाः **प्राचोदयत्** प्रैरयत् । **ज्योतिषा** तेजसा **संववृत्वत्** संवरणशीलं **तमः** **वि** **अवः** निवारितवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the light (of the sun) overpowers the light (of the dawn) **Indra** grants all (sorts of) wealth (to the worshipper); he has liberated the kine from the interior of the obstructing (mountain); he dissipates the enveloping darkness with light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he was born as might from might, Indra displayed all his Indrian  powers.  
 He impelled forth the good milkers (who were) within the cave; he pried  apart the darkness, which was rolled up in a ball, with light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Witzel Gotō take sáhaḥ as the only subj. of ájaniṣṭa, while I take sáhaḥ as an appositive qualifying the unexpressed subj. índraḥ. Again the difference is minor, but I favor my interpr. because the birth of Indra and the prodigous feats he performs immediately thereafter are frequent topics in the RV.
 
@@ -153,23 +153,23 @@ In c ékaḥ … apratíḥ “alone (and) unopposable” applies to (the unname
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When out of strength arose the strength that conquers, Indra displayed all powers that he possesses.  
      Forth from the cave he drove the milky mothers, and with the light laid bare investing darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald seine Kraft aus der Kraft geboren war, zeigte Indra alle seine Indrakräfte. Er trieb die gutmelken Kühe im Versteck vorwärts. Die zusammengerollte Finsternis deckte er mit dem Lichte auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als seine Kraft sich aus der Kraft erzeugte, liess Indra sehen alle Indrathaten, Trieb an in dem Versteck die milchgefüllten, erschloss durch Licht das eingehüllte Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда сила родилась от силы,  
 Индра показал все способности Индры.  

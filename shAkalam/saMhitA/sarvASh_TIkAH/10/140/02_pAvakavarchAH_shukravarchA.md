@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पवाक꣡वर्चाः+ शुक्र꣡वर्चा अ꣡नूनवर्चा  
 उ꣡द् इयर्षि भानु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 पृण꣡क्षि रो꣡दसी उभे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒त्रः । मा॒तरा॑ । वि॒ऽचर॑न् । उप॑ । अ॒व॒सि॒ । पृ॒णक्षि॑ । रोद॑सी॒ इति॑ । उ॒भे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāvakavarcāḥ* ← *pāvaka*
 - \[noun\]
@@ -118,7 +118,7 @@ genre M
 **पावकवर्चाः** शोधकदीप्तिः **शुक्रवर्चाः** निर्मलतेजस्कः **अनूनवर्चाः** संपूर्णतेजस्कः । हे अग्ने ईदृशस्त्वं **भानुना** तेजसा **उदियर्षि** उद्गच्छसि । ‘ऋ  सृ गतौ ' । जौहोत्यादिकः । 'अर्तिपिपर्त्योश्च' इत्यभ्यासस्येत्वम् । स त्वं **पुत्रः** सन् **मातरा** मातृभूते अरण्यौ **विचरन्** यागावसाने विशेषेण प्राप्नुवन् **उपावसि** उपगतान् यजमानान् रक्षसि । तथा **उभे** **रोदसी** द्यावापृथिव्यौ **पृणक्षि** संयोजयसि । हविषा द्युलोकं वृष्ट्येमं लोकं च पूरयसीत्यर्थः । ‘ पृची संपर्क' । रौधादिकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 You unite: or, you fill both worlds, i.e., heaven with oblations and earth wirh rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of pure luster, of gleaming luster, of unfailing luster, you rise up with  your radiance.  
 As a son wandering between your two mothers, you approach (them)  helpfully. You fill both world-halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With brilliant, purifying sheen, with perfect sheen thou liftest up thyself in light.  
      Thou, visiting both thy Mothers, aidest them as Son: thou joinest close the earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von reinem Glanze, von hellem Glanze, von vollkommenem Glanze, richtest du dich mit deinem Lichtschein auf. Als Sohn die beiden Mütter durchwandernd kommst du beiden zugute; du durchdringst beide Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Flammenglanz, in hellem Licht, in vollem Glanz erhebst du dich mit deinem Strahl, Als Sohn den Aeltern nahend bist du ihnen hold, und füllest Erd' und Himmel an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С чистым блеском, светлым блеском, безупречным блеском  
 Ты взмываешь вверх (своим) лучом.  

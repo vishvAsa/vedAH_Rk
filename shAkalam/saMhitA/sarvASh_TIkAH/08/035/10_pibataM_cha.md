@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बतं च तृप्णुतं꣡ चा꣡ च गछतम्  
 प्रजां꣡ च धत्तं꣡ द्र꣡विणं च धत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 ऊ꣡र्जं नो धत्तम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । ऊर्ज॑म् । नः॒ । ध॒त्त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
@@ -133,20 +133,20 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अश्विनौ युवां सोमं **पिबतं** च **तृप्णुतं** च तृप्यतं च । पानार्थं तृप्त्यर्थं **च** **आ** **गच्छतम्** । सोमं पीत्वा तृप्तौ सन्तौ युवामस्मभ्यं **प्रजां** **च** **धत्तं** धारयतम् । **द्रविणं** धनं **च** **धत्तम्** । **उषसा** सूर्येण च संगतौ **नः** अस्मभ्यम् **ऊर्जं** बलं च **धत्तम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drink, **Aśvins**, the **Soma**, and satiate yourselves; come here; give us progeny; give us wealth; unitedwith the dawn and with **Sūrya**, give us, Aśvins, strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink and satisfy yourself and come here. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, Aśvins.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -156,23 +156,23 @@ The first hemistichs of the three verses in this tṛca are excessively provided
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hitherward and drink and satisfy yourselves, bestow upon us progeny and affluence.  
      Accordant, of one mind with Surya and with Dawn, O Asvins, grant us vigorous strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinket und tut euch gütlich und kommet her und bringet Kinder und bringet Reichtum, einträchtig mit Usas und Surya, bringet uns Kraft, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommet her und trinket und ergötzet euch, und schenket Kinder, schenket reiche Schätze uns, Vereinigt mit der Sonne und dem Morgenroth, o Ritter, gebet Speise uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пейте вы двое и насыщайтесь, и приезжайте,  
 И дайте потомство, и дайте богатство!  

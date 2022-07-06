@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ हो꣡ता प्रथमः꣡ प꣡श्यतेम꣡म्  
 इदं꣡ ज्यो꣡तिर् अमृ꣡तम् म꣡र्तियेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मर्तियस् तनु꣡वा व꣡र्धमानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अ॒यम् । सः । ज॒ज्ञे॒ । ध्रु॒वः । आ । निऽस॑त्तः । अम॑र्त्यः । त॒न्वा॑ । वर्ध॑मानः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -122,20 +122,20 @@ genre D
 **अयं** वैश्वानरोऽग्निः **प्रथमः** आद्यः **होता** । मानुषो हि होता द्वितीयः । हे मनुष्यास्तम् **इमं** **पश्यत** भजतेत्यर्थः । **मर्त्येषु** मरणस्वभावेषु शरीरेषु **अमृतं** मरणरहितम् **इदं** वैश्वानराख्यं **ज्योतिः** जठररूपेण वर्तत इत्यर्थः । अपि च **सः** **अयम्** अग्निः **ध्रुवः** निश्चलः **आ** समन्तात् **निषत्तः** निषण्णः सर्वव्यापी अत एव **अमर्त्यः** मरणरहितोऽपि **तन्वा** शरीरेण संबन्धात् जज्ञे जायते । **वर्धमानः** च भवतीति उपचर्यते ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **vaiśvānara** is the first offerer of burnt offerings; behold him; this is the light immortal among mortals; he has been born in a bodily shape, immoveable, all-pervading, immortal, ever increasing.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the foremost Hotar: look at him. Here is the light, immortal  among mortals.  
 Here was he born, set steadfast down here, immortal, becoming strong  through his own body.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As argued in the published introduction, this vs. is the omphalos of a well-structured omphalos hymn, and it contains the “message” of the hymn: the revelatory vision of Agni immediately before the eyes of the poet. This immediacy is conveyed by the near-deictic pronoun that begins the first three pādas — ayám (a), idám (b), ayám (c) — and also ends the first pāda (imám). The immediacy is also conveyed by the abrupt command “look at him” (páśyatemám) at the end of the 1st pāda; since the impv. is in the 2nd plural, it cannot be addressed to the poet alone. Instead I suggest that it is the poet speaking, urging his priestly colleagues to behold the revelation that has just come to him. As noted also in the published introduction, the name Agni does not occur in this verse. In fact, in the whole hymn agní- is found only in the first and last vss.
 
@@ -146,23 +146,23 @@ dhruvá in dhruvá ā́is ambiguous. The Pp. takes it as nom. dhruváḥ, but mo
 A loc. interpr. is not out of the question, however.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is the Priest, the first of all: behold him. Mid mortal men he is the light immortal.  
      Here was he born, firm-seated in his station Immortal, ever waxing in his body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ist der erste Hotri, schauet ihn, der ist das unsterbliche Licht unter den Sterblichen. Er ward geboren, hat dauernd seinen Sitz inne, der Unsterbliche, am Leibe wachsend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist der erste Priester, schaut auf diesen, das Licht hier unter sterblichen unsterblich, Er ward erzeugt und setzt sich bleibend nieder, unsterblich er, an seinem Leibe wachsend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот первый хотар – взгляните на него!  
 Это свет бессмертный среди смертных.  

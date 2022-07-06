@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परशुं꣡ चिद् वि꣡ तपति  
 शिम्बलं꣡ चिद् वि꣡ वृश्चति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡यस्ता फे꣡नम् अस्यति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 उ॒खा । चि॒त् । इ॒न्द्र॒ । येष॑न्ती । प्रऽय॑स्ता । फेन॑म् । अ॒स्य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paraśuṃ* ← *paraśum* ← *paraśu*
 - \[noun\], accusative, singular, masculine
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (424)
 हे **इन्द्र** **परशुं** **चित्** यथा कुठारं प्राप्य वृक्षः **वि** **तपति** विशिष्टतापयुक्तो भवति । एवं मदीयो द्वेष्टा वितपतु । **शिम्बलं** **चित्** शल्मलीकुसुमं यथा अनायासेन वृन्तात् विच्छिद्यते । एवं मद्द्वेष्टा **वि** **वृश्चति** विच्छिन्नावयवः भवतु । **प्रयस्ता** प्रहता **येषन्ती** स्रवन्ती **उखा** **चित्** स्थालीव स द्वेष्टा मदीयमन्त्रसामर्थ्येन प्रहतः सन् **फेनमस्यति** फेनं मुखाद्गिरतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,14 +111,14 @@ popular;; epic anuṣṭubh (424)
 The ellipse: as the tree is cut down by the axe, so may the enemy be cut down; as one cuts off without difficulty the flower of the śimbal, so may he be destroyed; as the **ukhā** (cauldron) when struck (prahata), and thence leaking (yeṣantī, sravantī), scatters foam or breath from its mouth, so (**dveṣṭa** madīya, **mantra** sāmarthyena prahataḥ san, phenam mukhād udgirtu), may that hater, struck by the power of my prayer vomit foam fromhis mouth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Though) he heats his axe all the way through, it’s just a śimbala flower  he hacks off.  
 The ukhā-pot, (though) boiling, boiling over, just throws off foam,  
 o Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg, I reject the interpr. of cid in abc as a simile particle (contra Sāyaṇa and Geldner); in all three cases the cid can be interpreted in its usual ‘even, even though, just’ sense. However, I differ from Oldenberg on the purport of the vs. He thinks it describes concrete events, possibly as a “Beschreibung von Zauberhandlungen,” while I think it contains two figurative descriptions of the impotence of the enemy -- in this I am closer to Geldner’s notion of similes than to Oldenberg I also find myself in the odd position of being in general agreement with Griffith’s interpr. (based on Ludwig’s).
 
@@ -136,23 +136,23 @@ The first vs. of this sequence (21) is quite straightforward; vs. 22 is more com
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He heats his very axe, and then cuts a mere Semal blossom off.  
      O Indra, like a caldron cracked and seething, so he pours out foam.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er macht ihn heiß wie man eine Axt erhitzt, er zerhackt ihn wie den Simbalabaum. Wie ein siedender Topf, der überkocht, wirft er Schaum aus, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein jedes Blatt [palāçám vermuthe ich statt paraçúm] brennt er hinweg, und jede Blüte bricht ab; jeder Topf, o Indra, wenn er kocht und übersiedet, wirft er Schaum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно топор, он накаляет его,  
 Словно шимбалу, он разрубает.  

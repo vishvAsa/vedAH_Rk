@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ यो꣡ वाम् मित्रावरुणा  
 अजिरो꣡ दूतो꣡ अ꣡द्रवत्  
 अ꣡यःशीर्षा म꣡देरघुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अयः॑ऽशीर्षा । मदे॑ऽरघुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M
 हे मित्रावरुणौ **वां** युवाम् **अजिरः** गमनशीलः **यः** यजमानः **प्र** **अद्रवत्** अभिगच्छति स देवानां **दूतः** भवति । **अयःशीर्षा** हिरण्यालंकृतशिरस्कश्च भवति । **मदेरघुः** मदकरे धने गन्ता च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,28 +91,28 @@ genre M
 A metal helmet: golden, **ayas** sīrṣā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who ran forth as your quick messenger, o Mitra and Varuṇa,  
 copper-headed, hasty in his exuberance,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The rapid messenger who runs before you, Mitra-Varuna, with iron head, swift to the draught,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der flinke Bote, der euch vorauslief, Mitra und Varuna, der mit dem Eisenkopf, der toll dahineilende,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schnelle Bote, welcher euch voranlief, Mitra-Varuna, Mit eh'rnem Haupte lusterregt, der goldene, der Adler flieg' zum Himmel auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) проворный вестник ваш,  
 О Митра-Варуна, который помчался вперед  

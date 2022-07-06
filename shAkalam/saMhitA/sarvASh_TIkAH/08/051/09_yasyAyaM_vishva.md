@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्यायं꣡ वि꣡श्व आ꣡रियो  
 दा꣡सः शेवधिपा꣡ अरिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तु꣡भ्ये꣡त् सो꣡ अज्यते रयिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 ति॒रः । चि॒त् । अ॒र्ये । रुश॑मे । पवी॑रवि । तुभ्य॑ । इत् । सः । अ॒ज्य॒ते॒ । र॒यिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyāyaṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -113,21 +113,21 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That wealth, which every **Ārya** here covets and every miserly **Dāsa**, is sent direct to yo, the piousRuśama Paviru.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You to whom every Ārya here belongs, every Dāsa, every  
 treasure-guarding stranger,  
 even across (all these) (come) to the Arya Ruśama Parīru. There there is  wealth anointed just for you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A syntactically problematic verse, which has produced multiple interpretations, not all of which can be treated here. It is further complicated by the fact that three different related stems to the highly charged arí- word are found in it: ā́rya- (a), arí- (b), and aryá- (c).
 
@@ -136,17 +136,17 @@ I take ab as an independent nominal possessive clause, with Indra the referent o
 Unlike all other interpretations known to me (including Thieme Fremdling 70-71 and two alternatives given by Scarlatta, p. 308), I take d as a separate clause because tubhyét só seems very much a clause-initial sequence. Note that verse-final rayíḥ echoes the last word of b, aríḥ.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem jeder bekannte Arier und Dasa, der seinen Schatz hütet, ein Feind ist, für dich nur wird noch über die anderen hohen Herren bei dem Edlen Rusama Paviru dieser Reichtum zur Schau gestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Reichthum, nach welchem jeder Arier hier und der schatzbehütende Barbar begierig ist, der wird heimlich von dir dem treuen Ruçama Pavīru zugeführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому здесь враг каждый арья  
 (И) даса, прячущий сокровища, -  

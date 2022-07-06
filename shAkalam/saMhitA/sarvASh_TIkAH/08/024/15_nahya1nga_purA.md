@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ अङ्ग꣡ पुरा꣡ चन꣡  
 जज्ञे꣡ वीर꣡तरस् तुव꣡त्  
 न꣡की राया꣡ न꣡ एव꣡था न꣡ भन्द꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नकिः॑ । रा॒या । न । ए॒वऽथा॑ । न । भ॒न्दना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahy* ← *nahi*
 - \[adverb\]
@@ -89,43 +89,43 @@ genre M
 हे इन्द्र **त्वत्** त्वत्तः **पुरा** पूर्वं **वीरतरः** सामर्थ्यवान् कश्चित् **नहि** **जज्ञे** जातः खलु । **अङ्ग** प्रसिद्धौ। त्वमेव सामर्थ्यवान् जात इत्यर्थः । किंच त्वत्तोऽपि **राया** धनेन समर्थः **नकिः** न कश्चिदस्ति । तथा **एवथा** शत्रपुराणि संग्रामं वा प्रति गमनेन त्वत्तोऽधिकः **न** जातः । यद्वा । एवथा। अव रक्षणादिषु । अकारस्यैकारछान्दसः । औणादिकोऽथप्रत्ययः । शरणागतानां स्तोतॄणां चावनेन त्वत्तोऽधिको नास्ति । किंच **भन्दना** । भन्दतिः स्तुतिकर्मा । स्तुत्या च त्वदधिकः **न** जातः । धनवान् रक्षकः स्तुत्यश्च त्वत्तोऽन्यो न जज्ञ इति ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No one, **Indra**, has ever been born more mighty than you, no one (surpassing you) in riches; no one(more powerful) in protection; no one (more entitled) to praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For surely never before has a greater hero than you been born,  
 neither in wealth—not in just such a way (as you are)—nor in favor.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the lexeme yújyāya √vṝ see comm. ad IX.88.1.
 
 The expression naíváthā (that is, ná eváthā), placed between the two instrumentals, is opaque: eváthā is a hapax. Oldenberg helpfully adduces IV.30.1 nákir indra tvád úttaraḥ .. .nákir evā́yáthā tvám “There is no one higher than you, Indra … no one who is exactly as you are,” and our eváthā appears almost to be a blend of evā́ yáthā or some abbreviation thereof.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Never was any Hero born before thee mightier than thou:  
      None certairdy like thee in goodness and in wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn sicherlich wurde auch früher niemals ein größerer Held als du geboren; nicht an Reichtum, noch von solcher Art, noch löblichem Werke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wahrlich nimmer auch zuvor erstand ein stärkerer als du, Noch der dir gleich an Reichthum sei und Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Конечно же, и раньше никогда  
 Не рождался больший герой, чем ты,  

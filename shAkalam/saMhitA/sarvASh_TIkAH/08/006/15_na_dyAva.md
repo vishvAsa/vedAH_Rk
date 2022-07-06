@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ द्या꣡व इ꣡न्द्रम् ओ꣡जसा  
 ना꣡न्त꣡रिक्षाणि वज्रि꣡णम्  
 न꣡ विव्यचन्त भू꣡मयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न । वि॒व्य॒च॒न्त॒ । भूम॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **द्यावः** द्युलोका इमम् **इन्द्रम्** **ओजसा** बलेन **न** **विव्यचन्त** न व्याप्नुवन्ति । द्युलोकेभ्योऽप्यस्य बलमधिकमित्यर्थः । तथा **अन्तरिक्षाणि** अन्तरा क्षान्तानि द्यावापृथिव्योर्मध्ये वर्तमाना लोकाः **वज्रिणं** वज्रवन्तमिन्द्रं न व्याप्नुवन्ति । तथा **भूमयः** भूलोकाश्च तमिन्द्रं **न** व्याप्नुवन्ति । त्रयो वा इमे त्रिवृतो लोकाः' (ऐ. आ. १. १. २ ) इति ब्राह्मणादेकैकस्य लोकस्य त्रित्वम् । ‘तिस्रो भूमीः' (ऋ. सं. २. २७.८) इत्यादिनिगमाच्च ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The realms: the names are in plural ral: the heavens, the firmaments, the earths, na dyāvonāntarikṣāṇi na bhūmayaḥ; cf. RV. 2.027.08
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Neither the heavens, nor the midspaces will encompass mace-bearing  Indra with his might,  
 nor will the earths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Neither the heavens nor firmaments nor regions of the earth contain  
      Indra, the Thunderer with his might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Himmel können Indra mit seiner Stärke nicht fassen, nicht die Lufträume den Keulenträger, noch die Erden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra fassen Himmel nicht, nicht Lüfte ihn, der Blitze trägt, Noch Erden ihn nach seiner Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни небеса не охватят Индру  
 С (его) силой, ни воздушные пространства –  

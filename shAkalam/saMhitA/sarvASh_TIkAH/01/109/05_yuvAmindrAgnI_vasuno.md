@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवा꣡म् इन्द्राग्नी व꣡सुनो विभागे꣡  
 तव꣡स्तमा शुश्रव वृत्रह꣡त्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ चर्षणी मादयेथां सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तौ । आ॒ऽसद्य॑ । ब॒र्हिषि॑ । य॒ज्ञे । अ॒स्मिन् । प्र । च॒र्ष॒णी॒ इति॑ । मा॒द॒ये॒था॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -118,44 +118,44 @@ genre M
 हे **इन्द्राग्नी** **वसुनः** धनस्य **विभागे** स्तोतृभ्यो दातुं विभजने तात्पर्येण वर्तमानौ **युवां** **वृत्रहत्ये** वृत्रस्यासुरस्य हनने **तवस्तमा** अतिशयेन बलिनौ प्रवृद्धतमौ वा **शुश्रव** अश्रौषम् । हे **चर्षणी** सर्वस्य द्रष्टाराविन्द्राग्नी **तौ** युवामस्मदीये **अस्मिन्** **यज्ञे** **बर्हिषि** वेद्यामास्तीर्णे दर्भे **आसद्य** उपविश्य **सुतस्य** अभिषुतस्य सोमस्य पानेन **प्र** **मादयेथां** प्रकर्षेण तृप्तौ भवतम् । विभागे ।  ‘ भज सेवायाम् । भावे घञ् । **चजोः** कुघिण्ण्यतोः' इति कुत्वम् । थाथादिनोत्तरपदान्तोदात्तत्वम् । तवस्तमा । तव इति बलनाम । लुप्तमत्वर्थीयादेतस्मादातिशायनिकस्तमप् । यद्वा । तवतिर्वृद्ध्यर्थः सौत्रो धातुः । तस्मादौणादिकः कर्तरि असिप्रत्ययः । **सुपां** सुलुक् ' इति विभक्तेः पूर्वसवर्णदीर्घत्वम् । वृत्रहत्ये ।  ‘ हनस्त च ' इति हन्तेर्भावे क्यप्; तत्संनियोगेन तकारान्तादेशश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I have heard, (when you were present) at the division of the treasure (among the worshippers), that you two, **Indra** and **Agni**, were most vigorous in the destruction of **Vṛtra**; beholders of all things seated at this sacrifice upon the sacred grass, be exhilarated, (by drinking of the effused libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, I have heard of you as most powerful at the  
 distribution of goods, at the smashing of obstacles.  
 Having sat on the ritual grass at this sacrifice here, make yourselves  exhilarated on the pressed soma, o you of extensive domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich echoes 2ab, with a 1st sg. past tense of √śru, a dual pronominal obj. referring to Indra and Agni, of which a compared adjective (comparative / superlative) is predicated. See also Watkins 1995: 187.
 
 In d I read with Oldenberg (and the standard tr.) prácarṣaṇī; see also Thieme (KlSch 252). This requires no change to the Saṃhitā text, but only to the Pp., which analyses the sequence as two words. The next pāda begins prá carṣaníbhyaḥ, which definitely consists of two words, which could easily have led to the Pp. separation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 You, I have heard, were mightiest, Indra-Agni, when Vrtra fell and when the spoil was parted.  
      Sit at this sacrifice, ye ever active, on the strewn grass, and with the juice delight you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich hörte, daß ihr,, Indra und Agni, in der Verteilung der Schätze, in der Feindeschlacht die stärksten seid. Setzt ihr euch darum auf das Barhis zu diesem Opfer und tut euch gütlich am Gepreßten, den Vorrang habend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr seid, so hör' ich, bei des Guts Vertheilung, im Feindeskampf die stärksten, Indra-Agni, Drum setzt euch auf die Streu bei diesem Opfer, und an dem Saft, o eilende, berauscht euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, Индра и Агни, при разделе добра,  
 Я слышал, самые сильные, (а также) при убийстве Вритры.  

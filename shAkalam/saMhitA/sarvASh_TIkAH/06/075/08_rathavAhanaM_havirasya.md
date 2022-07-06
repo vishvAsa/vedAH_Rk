@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रथवा꣡हनं हवि꣡र् अस्य ना꣡म  
 य꣡त्रा꣡युधं नि꣡हितम् अस्य व꣡र्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विश्वा꣡हा वयं꣡ सुमनस्य꣡मानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तत्र॑ । रथ॑म् । उप॑ । श॒ग्मम् । स॒दे॒म॒ । वि॒श्वाहा॑ । व॒यम् । सु॒ऽम॒न॒स्यमा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathavāhanaṃ* ← *rathavāhanam* ← *rathavāhana*
 - \[noun\], nominative, singular, neuter
@@ -113,7 +113,7 @@ popular
 **अस्य** राज्ञः **रथवाहनं** शत्रून् जित्वा रथेनोह्यमानं धनं **हविः** भवति । अग्नेर्हविरिव वर्धकं भवतीत्यर्थः । **नाम** इति संमतिः । **यत्र** रथे **अस्य** राज्ञः **आयुधं** धनुः शरादिकं **वर्म** कवचं च **निहितं** भवति **तत्र** तम् ॥ तत्रेत्यव्ययस्य सार्वविभक्तिकत्वात् ॥ **शग्मं** सुखकरं **विश्वाहा** सर्वदा **सुमनस्यमानाः** सुखमनसो भवन्तः **वयं** पायवो भरद्वाजाः **उप** **सदेम** उपगच्छेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,36 +124,36 @@ popular
 Rathavāhanam: anas, a car or truck on which the car is plural ced
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The chariot-stand, “Oblation(-deposit)” its name, where his weapon, his  armor is deposited—  
 there may we reverently approach the powerful chariot always when we  seek its benevolence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Geldner in accepting the view of the comm. to VS XXIX.45 that háviḥ is a shortening of havirdhāna- ‘oblation-deposit’, with the √dhā supplied by the definition found in the next pāda, containing níhitam ‘deposited’. However, see Oldenberg in particular for other ways to interpr. háviḥ.
 
 The standard tr. take úpa … sadema as transitive with the chariot as object: e.g., Geldner “setzen,” Renou (Hymnes spéc.) “installer,” Doniger “place,” Oberlies (II.223) “setzen.” But úpa √sad is a standard locution for ‘reverently approach, do honor to’, and that surely is the sense here (so Griffith, Maurer “hono(u)r”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Car-bearer is the name of his oblation, whercon are laid his Weapons and his Armour.  
      So let us here, each day that passes, honour the helpful Car with hearts exceeding joyful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rüstwagen - Opferkarren ist sein Name - worauf seine Waffen, sein Panzer niedergelegt sind, auf den wollen wir den nützlichen Streitwagen setzen, allzeit guten Mutes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf das Wagengestell des starken [Helden] nämlich, auf welches seine Waffe und sein Panzer gesetzt ist, auf den festen Wagen wollen wir uns setzen alle Tage frohen Muthes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На (телегу,) возящую колесницу – жертвенная (повозка) - имя ее –  
 Куда сложено оружие, щит его,  

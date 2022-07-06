@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡च् च्यौत्नइ꣡र् आ꣡रियन्ति  
 तं꣡ कृते꣡भिश् चर्षण꣡यः  
 एष꣡ इ꣡न्द्रो वरिवस्कृ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ए॒षः । इन्द्रः॑ । व॒रि॒वः॒ऽकृत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -83,41 +83,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **तमित्** तमेवेन्द्रं **च्यौत्नैः** बलकरैः स्तोत्रैः **आर्यन्ति** आर्यमभिज्ञमीश्वरं कुर्वन्ति । **चर्षणयः** मनुष्याः कृतैः कर्मभिश्चार्यन्ति । **एषः** एवंगुणकः **इन्द्रः** **वरिवस्कृत्** धनस्य कर्ता भवति स्तोतॄणाम् ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They honour him with animating (hymns), men (honour) him with sacred rites, for **Indra** is the giver ofwealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It’s just him that the separate peoples recognize by his exploits, him by  his deeds:  
 “That’s Indra, who creates wide space!”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rare verbal stem ā́rya- ‘recognize’ is probably a derivative of the aríword family (including ā́rya- ‘Ārya, that is, belonging to our group’) and means ‘recognize as an Ārya, treat as an Ārya’. See EWA s.v. ĀR, where some doubts are expressed, and recently Kulikov (522-23), who tr. “Him alone the races treat as an ārya through his activities …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men honour him with stirring songs and magnify with solemn rites:  
      Indra is he who giveth case.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn erkennen die Völker an ob seiner Großtaten, ob seiner Verdienste: Dieser Indra ist´s, der einen Ausweg schafft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn verehret, was das lebet, ihn mit Thaten, ihn mit Werken; Indra ist's, der Freiheit schaffet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его узнают народы  
 По потрясающим деяниям, по заслугам.  

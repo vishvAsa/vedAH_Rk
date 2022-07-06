@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शता꣡नीका हेत꣡यो अस्य दुष्ट꣡रा  
 इ꣡न्द्रस्य समि꣡षो महीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 य꣡द् ईं सुता꣡ अ꣡मन्दिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 गि॒रिः । न । भु॒ज्मा । म॒घव॑त्ऽसु । पि॒न्व॒ते॒ । यत् । ई॒म् । सु॒ताः । अम॑न्दिषुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śatānīkā* ← *śata*
 - \[noun\], neuter
@@ -107,35 +107,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invincible are his hundred-edged weapons, he mighty arrows of **Indra**; he pours forth blessings on hisliberal worshippers like a mountain rich in springs, when the effused **Soma** has exhilarated him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His missiles with a hundred facets are difficult to overcome, the great  projectiles of Indra.  
 Like a beneficial mountain he swells among the bounteous ones when  the pressed (soma drinks) have exhilarated him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two versions of this verse deviate slightly more than those of vs. 1: identical and identically positioned: a: śatānīkā (though difference in number concealed by sandhi), a/c: asya; more or less identical, but with inflectional difference: c: giréḥ / girír, pinvire / pinvate; root connections: 49d -bhójasah / 50c bhujmā́. Otherwise the verses are distinct, but notice that 50a śatā́nīkā hetáyaḥ allows the noun with śatā́nīkā in 49a to be supplied.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert Spitzen haben seine Geschosse, unüberwindlich sind des Indra große Pfeile. Wie ein ausgiebiger Berg quillt er für die Lohnherren, wenn ihn die ausgepreßten Säfte berauscht haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie hunderschneid'ge Pfeile unbezwinglich sind Indra's Geschosse, mächtig gross, Bei Spendern strömt er wie ein quellenreicher Berg, sobald die Säfte ihn berauscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С сотней наконечников его метательные снаряды, неотразимы (они).  
 Мощны выстрелы Индры.  

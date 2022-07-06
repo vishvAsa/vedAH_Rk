@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡यम्बकं यजामहे  
 सुग꣡न्धिम् पुष्टिव꣡र्धनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मृत्यो꣡र् मुक्षीय मा꣡मृ꣡तात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 उ॒र्वा॒रु॒कम्ऽइ॑व । बन्ध॑नात् । मृ॒त्योः । मु॒क्षी॒य॒ । मा । अ॒मृता॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tryambakaṃ* ← *tryambakam* ← *tryambaka*
 - \[noun\], accusative, singular, masculine
@@ -97,7 +97,7 @@ popular;; epic anuṣṭubh (424)
 अत्र शौनकः – त्रिरात्रं नियतोपोष्य श्रपयेत्पायसं चरुम् । तेनाहुतिशतं पूर्णं जुहुयाच्छंसितव्रतः ॥ समुद्दिश्य महादेवं त्र्यम्बकं त्र्यम्बकेत्यृचा । एतत्पर्वशतं कृत्वा जीवेद्वर्षशतं सुखी' (ऋग्वि. २. ३१४-१५)॥ [ त्रयाणां ब्रह्मविष्णुरुद्राणामम्बकं पितरं **यजामहे** इति शिष्यसमाहितो वसिष्ठो ब्रवीति । किंविशिष्टमित्यत आह। **सुगन्धिं** प्रसारितपुण्यकीर्तिम् । पुनः किंविशिष्टम्। **पुष्टिवर्धनं** जगद्बीजम् । उरुशक्तिमित्यर्थः। उपासकस्य वर्धनम् । अणिमादिशक्तिवर्धनम् । अतस्त्वत्प्रसादादेव **मृत्योः** मरणात् संसाराद्वा **मुक्षीय** मोचय । यथा बन्धनादुर्वारुकं कर्कटीफलं मुच्यते तद्वन्मरणात् संसाराद्वा मोचय । किं मर्यादीकृत्य । **आमृतात्** । सायुज्यतामोक्षपर्यन्तमित्यर्थः । अथ तैत्तिरीयभाष्ये( तै. सं. १ .८. ६. २) – **शोभनः** शरीरगन्धः पुण्पगन्धो वा यस्यासौ सुगन्धिः। यथा वृक्षस्य संपुष्पितस्य दूराद्गन्धो वात्येवं पुण्यस्य कर्मणो दूराद्गन्धो वाति' (तै. आ. १०. ९) इति श्रुतेः । पुष्टिं शरीरधनादिविषयां वर्धयतीति पुष्टिवर्धनः । तादृशं त्र्यम्बकं यजामहे पूजयामः । लोके यथोर्वारुकफलानि बन्धनाद्वृन्तात् स्वयमेव मुच्यन्ते तद्वदहं त्र्यम्बकप्रसादेन मृत्योर्मुक्षीय मोचनयुक्तो भूयासम् । अमृताच्चिरजीवितात् स्वर्गादेवर्वा मा मुक्षीय । चतुर्थपादार्थे मन्त्रस्य तात्पर्यातिशयं दर्शयति - त्र्यम्बकं यजामह इत्याह मृत्योर्मुक्षीय मामृतादिति वावैतदाह ' (तै.ब्रा. १.६.१०.५) इति ॥] ॥३०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,13 +114,13 @@ Tryambaka =nātratrayopetām rudram, the triocular rudra;
 Sugandhim = **divya** gandhopetam, of celestial fragrance (yathāvṛkṣasya sampuṣpitasya dūrādgandho vātyevam puṇyasya kṛrmaṇo dūrādgandho **vāti**: TaittirīyaĀraṇyaka)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We sacrifice to Tryambaka the fragrant, increaser of prosperity.  
 Like a cucumber from its stem, might I be freed from death, not from  deathlessness.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -130,23 +130,23 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tryambaka we worship, sweet augmenter of prosperity.  
      As from its stem the cucumber, so may I be released from death, not reft of immortality.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir opfern dem Tryambaka, dem duftenden, den Wohlstand mehrenden. Wie ein Kürbis vom Stiel, so möchte ich mich vom Tod, nicht vom Nichtsterben losmachen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kürbissfrucht vom Stiele, so löse mich vom Tod unsterblicher [māmṙta zu lesen].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы приносим жертву Триямбаке  
 Благоухающему, усиливающему процветание.  

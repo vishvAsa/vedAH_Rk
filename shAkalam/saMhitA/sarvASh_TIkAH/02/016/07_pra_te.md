@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते ना꣡वं न꣡ स꣡मने वचस्यु꣡वम्  
 ब्र꣡ह्मणा यामि स꣡वनेषु दा꣡धृषिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रम् उ꣡त्सं न꣡ व꣡सुनः सिचामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कु॒वित् । नः॒ । अ॒स्य । वच॑सः । नि॒ऽबोधि॑षत् । इन्द्र॑म् । उत्स॑म् । न । वसु॑नः । सि॒चा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -123,37 +123,37 @@ genre M
 दाधृषिः त्वत्प्रसादात् शत्रूणान्धर्षकोहं समनएसङ्ग्रामेवचस्युवं अमि तन्वादित्वादुवङादेशः स्ता- त्रमिच्छन्तन्नावन्न नावमिव आपद्भ्यस्तारकं तेत्वांसवनेषुत्रिषुब्रह्मणास्तोत्रेणप्रयामिप्राप्नोमि किञ्च नोस्माकंअस्यवचसः स्तुतिलक्षणमेतद्वाक्यं कुविद्बहुनिबोधिषत् इन्द्रोनितराम्बुध्यतां बुधअवगमने लिटिसिब्बहुलमितिसिप् कुविद्योगादनिघातः तिङिचोदात्तवतीतिगतेर्निघातः वयञ्चउत्सन्न जलस्य- निधानभूतङ्कूपमिव वसुनोनिधानभूतमिन्द्रंसिचामहे सोमेनसिञ्चामः सिचिर् क्षरणे स्वरितेत् आग- मानुशासनस्यानित्यत्वान्नुमभावः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Victorious in battle, (through) your (favour) I approach you, who are gratified by praise, in sacred rites with prayer, as a boat (to bear me over misfortune); may **Indra** listen attentively to these our words; we pour out libations to Indra, (who is a receptacle) of treasure, as a well (is of water).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Within the assembly, (I send) forth to you my eloquent (formulation),  like a boat, and through my poetic formulation I travel daringly  
 among the soma-pressings.  
 He will be aware of this speech of ours, will he not? We will draw upon  Indra as upon a wellspring for what is good.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I, bold by prayer, come near thee in thy sacred rites, thee like a saving ship, thee shouting in the war.  
      Verily he will hear and mark this word of ours: we will pour Indra forth as 'twere a spring of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rudere dir gleichsam das Schiff der Beredsamkeit in dem Wettbewerb zu; Kühn fahre ich mit der hohen Rede während der Somaspenden. Gewiß wird er dieses Wort von uns bedenken. Von Indra schöpfen wir wie von einem Quell des Guten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich wie ein Schiff, das rauschend zu dem Lande eilt, besteig' ich kühn mit Bitten bei dem Somaschmaus; Ob nicht auf dieses unser Lied er achten wird? den Indra giessen wie der Güter Born wir aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я посылаю к тебе, словно ладью, красноречивую (песнь) на состязании.  
 Я, дерзкий, иду с молитвой на выжимания (сомы).  

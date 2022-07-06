@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् उ त्वा विचर्षणे  
 ज꣡नीर् इवाभि꣡ सं꣡वृतः  
 प्र꣡ सो꣡म इन्द्र सर्पतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । सोमः॑ । इ॒न्द्र॒ । स॒र्प॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विचर्षणे** विद्रष्टः **इन्द्र** **जनीरिव** जनयो जाया इव ता यथा शुक्लैः वस्त्रैः संवृता भवन्ति एवं **संवृतः** पयःप्रभृतिभिः श्रयणद्रव्यैरावृतः **अयं** **सोमः** **अभि** **प्र** **सर्पतु** अभिगच्छतु । **उ** इति पूरकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,33 +101,33 @@ Bride: janir iva = **jāyā** iva, like brides; śuklair vastraiḥ **saṃvṛt
 Saṃvṛtaḥ = covered or invested by, anepithet of Soma, payahprabhṛtibhiḥ, by milk and other ingredients
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this soma, completely covered (with milk), slink forth to you, like (covered) women (to a rendezvous), o boundless Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The consensus that soma is covered (sáṃvṛtaḥ) with milk is surely correct; this is simply a different way of expressing the mixing of the two substances that is such a common trope in the soma maṇḍala, where it is often said that soma is clothed in cows (/milk). But the simile presents difficulties. For both Oldenberg and Geldner a coveredup person (presumably male) is going to women/wives (Geldner “soll … wie ein Verhülter zu Frauen schleichen”). Neither of them makes any comment on this bizarre image. I prefer to follow Caland-Henry’s interpretation (cited and rejected by Oldenberg): “voilé comme des femmes [qui vont au rendez-vous].” There is evidence elsewhere in the RV of women going to trysts (e.g., X.40.2), and the abhisārikā, a woman going secretly to her lover, often depicted as veiled or disguised, is, of course, a standard figure in the later literary and visual arts traditions. (Perhaps the untethered abhí in this pāda refers to this idiom, although it must be admittted that neither √sṛ or √sṛp appears with abhí in the RV.) There are a few grammatical difficulties to address. First, sáṃvṛtaḥ is masculine and singular, whereas the corresponding women are feminine and plural, but sáṃvṛtaḥ refers to soma in the frame, and the later rules about grammatical agreement between elements in the frame and the simile simply do not hold in the RV. More serious is the fact that the nom. pl. of jáni- is normally jánayaḥ. However, the asigmatic nom. sg. jánī in IV.52.1 shows that a long ī-stem jánī- had been extracted from the ambiguous forms acc. pl. jánīs and gen. pl. jánīnām (cf. AIG III.144).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like women, let this Soma-draught, invested with its robe, approach,  
      O active Indra, close to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma soll zu dir, Indra, wie ein Verhüllter zu Frauen schleichen du Ausgezeichneter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dieser schleiche zu dir hin, wie man verhüllt zu Weibern schleicht, Der Soma, weiser Indra du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А этот сома, о (ты) очень подвижный,  
 Пусть заползет к тебе, о Индра,  

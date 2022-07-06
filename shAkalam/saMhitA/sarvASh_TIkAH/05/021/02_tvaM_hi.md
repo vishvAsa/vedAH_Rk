@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ मा꣡नुषे ज꣡ने  
 अ꣡ग्ने सु꣡प्रीत इध्य꣡से  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सु꣡जात स꣡र्पिरासुते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्रुचः॑ । त्वा॒ । य॒न्ति॒ । आ॒नु॒षक् । सुऽजा॑त । सर्पिः॑ऽआसुते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -110,41 +110,41 @@ genre M
 हे **अग्ने** **त्वं** **मानुषे** **जने** मनुष्यलोके **सुप्रीतः** स्तोत्रैः सुष्ठु प्रीतः सन् **इध्यसे** दीप्यसे । **स्रुचः** हविर्भिः संपूर्णाः **आनुषक्** अनुषक्तं यथा भवति तथा **त्वा** त्वां **यन्ति** प्राप्नुवन्ति । हे  **सुजात** हे **सर्पिरासुते** घृतयुक्तान्नेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you are plural ased, **Agni**, you shine upon the human race; well-born, feeder upon clarified butter, the ladles are constantly uplifted to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, o Agni, it is you who, well-pleased, are kindled among the people  descended from Manu.  
 The sacrificial ladles go to you in their proper order, o you, the well-born  one whose drink is melted butter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For well, O Agni, art thou pleased when thou art kindled mid mankind.  
      Straight go the ladles unto thee, thou highborn God whose food is oil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For thou, O Agni, art kindled, highly pleased, among human people. To thee the (sacrificial) ladles proceed in due order, O well-born one who drinkest butter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, Agni, wirst wohlbefriedigt bei dem Menschenvolk entflammt. Die Schmalzlöffel kommen zu dir, wie sich's gebührt, du Edler, Schmalzgetränkter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du wirst bei dem Menschenvolk entflammt, geliebter Agni du, Zu dir, mit Fett getränkter, gehn, die Löffel, schöngeborener.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это ты, о Агни, зажигаешься  
 У человеческого рода, очень обрадованный.  

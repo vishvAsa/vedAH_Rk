@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ष्कृताहावम् अवतं꣡  
 सुवरत्रं꣡ सुषेचन꣡म्  
 उद्रि꣡णं सिञ्चे अ꣡क्षितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 उ॒द्रिण॑म् । सि॒ञ्चे॒ । अक्षि॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣkṛtāhāvam* ← *iṣkṛta* ← *iṣkṛ* ← *√kṛ*
 - \[verb noun\]
@@ -79,35 +79,35 @@ popular
 **इष्कृताहावं** संस्कृताहावं **अवतम्** अवटं द्रोणं **सिञ्चे** सेचयामि । पुनः कीदृशमवतम् । **सुवरत्रं** शोभनवरत्रोपेतं **सुषेचनं** शोभनोदकसेकोपेतम् **उद्रिणम्** उद्राववन्तम् **अक्षितम्** अक्षीणम्॥॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I pour out (the water of) the well, whose cattle troughs are prepared, well fitted with straps, fit to bepoured out, full of water, inexhaustible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The wellspring with its buckets prepared, with good cords, easy to dip, watery, unfailing do I dip.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I pour the water from the well with pails prepared and goodly straps,  
      Unfailing, full, with plenteous stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Brunnen mit dem bereiten Wassertrog, mit guten Seilen, aus dem gut zu schöpfen ist, aus dem wasserspendenden, der nicht versiegt, schöpfe ich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Brunnen mit fertig gemachtem Eimer und schönem Riemen, den reichlich strömenden, den wasserreichen unversieglichen giesse ich aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я черпаю из колодца с готовым ведром,  
 С хорошим ремнем, из легко отдающего воду,  

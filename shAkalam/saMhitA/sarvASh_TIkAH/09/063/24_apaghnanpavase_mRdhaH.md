@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपघ्न꣡न् पवसे मृ꣡धः  
 क्रतुवि꣡त् सोम मत्सरः꣡  
 नुद꣡स्वा꣡देवयुं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नु॒दस्व॑ । अदे॑वऽयुम् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaghnan* ← *apahan* ← *√han*
 - \[verb noun\], nominative, singular
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **मत्सरः** मदकरो यस्त्वं **मृधः** हिंसकान् शत्रून् **अपघ्नन्** मारयन् **क्रतुवित्** अस्मभ्यं प्रज्ञां प्रयच्छन् **पवसे** क्षरसि स त्वम् **अदेवयुम्** अदेवकामं **जनं** राक्षसवर्गं **नुदस्व** प्रेरय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, you who are exhilarating flow defeating the enemies, bestowing knowledge (on us); drive off the people who love not the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smashing away the scorners, you purify yourself, finding the resolve,  exhilarating, o Soma.  
 Thrust from yourself the people who do not seek the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a patter
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma thou flowest chasing foes and bringing wisdom and delight:  
      Drive off the folk who love not Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du läuterst dich, die Verächter vertreibend, Rat schaffend, o Soma, berauschend. Jage das gottlose Volk fort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Feind verjagend rieselst du, berauschend, Soma, kräftigend, Verstoss die gottvergessne Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

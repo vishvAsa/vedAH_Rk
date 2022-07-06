@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उता꣡शिष्ठा अ꣡नु शृण्वन्ति व꣡ह्नयः  
 सभे꣡यो वि꣡प्रो भरते मती꣡ ध꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡ ह वाजी꣡ समिथे꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वी॒ळु॒ऽद्वेषाः॑ । अनु॑ । वशा॑ । ऋ॒णम् । आ॒ऽद॒दिः । सः । ह॒ । वा॒जी । स॒म्ऽइ॒थे । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utāśiṣṭhā* ← *uta*
 - \[adverb\]
@@ -130,36 +130,36 @@ genre M
 उतअपिचआशिष्ठाः आशुतराः शीघ्रगामिनोवह्नयः अश्वनामैतत् वोढारोब्रह्मणस्पतेरश्वाअनुश्रृ ण्वन्ति अस्माभिः कृतंस्तोत्रं अनुक्रमेणश्रृण्वन्ति यद्वा ब्रह्मणस्पतिना कृतमनुशासनं शृण्वन्ति अतस्ते तमस्मदीयंयज्ञं प्रापयन्त्वितिशेषः सभेयः सभायांसाधुः ढश्छन्दसीतिढः विप्रोमेधावीअध्वर्युर्होतावा मतीमत्यामननीयेनस्तोत्रेण सुपांसुलुगितिपूर्वसवर्णदीर्घः धनाहविर्लक्षणानिधनानितस्मै ब्रह्मणस्प- तये भरतेबिभर्ति सम्पादयतीतियावत् यद्वा स्तोत्रेणधनानिभरते बिभर्तिपोषयति अतोवीळृद्वेषाःवी- छन् दृढान् प्रबलान् राक्षसादीन् द्वेष्टीति तादृशोब्रह्मणस्पतिः वशावशायागोः सुपांसुलुगितिषष्ठ्या- लुक् ऋत्यकइतिप्रकृतिभावः ऋणंअस्माभिर्यज्वभिः प्रदेयं अवदानात्मकं अनुअनुक्रमेणाददिरादाताभवत्वितिशेषः अवदानस्य ऋणत्वञ्चतैत्तिरीयेत्रिभिरृणवाजायतेब्रह्मचर्येण ऋषिभ्यइत्यादिनास्पष्टमान्त्रातम् । यद्वा अनुरानुगुण्ये वशावशस्यकामस्याभिलाषस्यानुगुणं आदा- ताभवत्वितियोज्यम् हशब्दःप्रसिद्धौ सखलु ब्रह्मणस्पतिः समिथे संयन्ति सङच्छन्तेस्मिन्नाहुतिभिर्दे- वाइतिसमिथोयज्ञः तस्मिन्वाजी अन्नवान् तस्माद्धविषआदाताभव त्वित्यर्थः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The very swift horses (of **Brahmaṇaspati**) listen to (our invocation); the priest of the assembly offers with praise the (sacrificial) wealth; may Brahmaṇaspati, the hater of the oppressor, accept (the payment of) the debt, agreeably to his plural asure; may he be the accepter of the (sacrificial) food presented at this ceremony.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Also the swiftest draft-horses obey him. In the public hall the inspired  poet bears away the stakes through his thinking.  
 Hating the hard and collecting the debt according to his will is he, the  lord of the sacred formulation, the prizewinner in the contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sacrificial flames most swiftly hear the call: the priest of the assembly gaineth wealth for hymns.  
      Hating the stern, remitting at his will the debt, strong in the shock of fight is Brahmanaspati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die schnellsten Zugtiere gehorchen ihm. Als Wortführer in der Versammlung beliebt trägt er durch Einsicht die Gewinne davon. In der Feindschaft zäh, nach Wunsch die Schuld einziehend, ist Brahmanaspati im Kampfe Sieger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und seinem Wort gehorcht der schnellsten Rosse Schar, der tücht'ge Sänger trägt durch Weisheit Beute heim, Die Stolzen hassend treibt beliebig Schuld er ein, er ist voll Kraft im Kampfe der Gebetes Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже самые быстрые упряжные кони слушаются его.  
 Вдохновенный певец, выступающий в собраниях, (своим) поэтическим даром он приносит награды.  

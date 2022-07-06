@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡न्ति घा ते꣡ अमृ꣡तास एत꣡द्  
 ए꣡कस्य चित् त्यज꣡सम् म꣡र्तियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡न्युः प꣡तिस् तनु꣡वम् आ꣡ विविश्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नि । ते॒ । मनः॑ । मन॑सि । धा॒यि॒ । अ॒स्मे इति॑ । जन्युः॑ । पतिः॑ । त॒न्व॑म् । आ । वि॒वि॒श्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśanti* ← *vaś*
 - \[verb\], plural, Present indikative
@@ -128,7 +128,7 @@ popular
 पुनरपि यमी यमं प्रत्युवाच । **घ** इति निपातोऽप्यर्थे । हे यम **ते** प्रसिद्धाः **अमृतासः** प्रजापत्यादयो देवा अपि **एतत्** ईदृशं शास्त्रेणागम्यत्वेनोक्तं **त्यजसम्**। त्यज्यते परस्मै प्रदीयते इति त्यजसं दुहितृभगिन्यादिस्त्रीजातम् । **उशन्ति** कामयन्ते । **एकस्य** **चित्** सर्वस्य जगतः मुख्यस्यापि प्रजापत्यादेः स्वदुहितृभगिन्यादीनां संबन्धोऽस्तीति शेषः । अतः कारणात् **ते** तव **मनः** चित्तम् **अस्मे** अस्माकम् । ममेत्यर्थः। **मनसि** चित्ते **नि** **धायि** निधीयताम् । अहं त्वां कामये त्वं मामपि कामयस्वेत्यर्थः । अपि च । **जन्युः** इति लुप्तोपममेतत् । जन्युरिव यथा जनयिता प्रजापतिः **पतिः** भर्ता भूत्वा स्वदुहितुः शरीरं संभोगेनाविष्टवान् तथा त्वमपि मम पतिर्भूत्वा **तन्वं** मदीयं शरीरम् **आ** **विविश्याः** संभोगेनाविश । योनौ प्रजननप्रक्षेपोपगूहनचुम्बनादिना मां संभुङ्क्ष्वेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,28 +143,28 @@ Ekasya = **Prajāpati**, as chief of the whole world;
 Tyajasam = that which is abandonedor given to another, viz., women, daughters etc. The word may also mean descendants, lit. those who are left,scions, offshoots, and so, the reading may be: this is what the gods themselves desire offspring from one aloneof mankind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yamī:] The immortals do want this: a legacy of the one and only mortal. Your mind has (already) been set upon my mind, upon me. As husband,  you should enter the body of (your) wife.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, this the Immortals seek of thee with longing, progeny of the sole existing mortal.  
      Then let thy soul and mine be knit together, and as a loving husband take thy consort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Unsterblichen wollen gerade das: einen Leibeserben von dem einzigen Sterblichen. Dein Sinn soll sich unserem Sinne fügen; als Gatte sollst du in deines Weibes Leib eingehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Die Götter eben sind's, die dieses wollen, vom einzigen der Menschen einen Sprössling; Es ist uns eng geschlossen Seel' an Seele, so geh als Gatte in der Gattin Leib ein.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти бессмертные желают вот чего:  
 Отпрыска от одного единственного смертного.  

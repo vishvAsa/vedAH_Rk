@@ -9,7 +9,7 @@ title = "+082"
 तत्र प्रथमामृचमाह-
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 82  
 Indra  
@@ -23,7 +23,7 @@ precedes, and it is the very recitation of the hymn, identified as a bráhman, t
 A particularly appealing part of the hymn is the mention of Indra’s wife in verses  5–6: the poet is concerned to send the god directly back home to his “dear wife” and  further exhilaration. See also III.53.4–6.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

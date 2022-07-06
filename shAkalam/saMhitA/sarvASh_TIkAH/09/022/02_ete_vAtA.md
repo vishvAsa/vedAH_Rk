@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ वा꣡ता इवोर꣡वः  
 पर्ज꣡न्यस्येव वृष्ट꣡यः  
 अग्ने꣡र् इव भ्रमा꣡ वृ꣡था
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्नेःऽइ॑व । भ्र॒माः । वृथा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** सोमाः **उरवः** महान्तः **वाताइव** वायव इव **वृथा** अनायासेन व्यानशुः इत्युत्तरत्र संबन्धनीयम् । अथवाध्याहारेण निःसरन्तीति योज्यम् । तथा **पर्जन्यस्य** **वृष्टयः** **इव** वर्षा यथा तथैव । किंच **अग्नेः** **भ्रमाः** भ्रमणा ज्वालासंचाराः **इव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like strong winds, like the rains of **Parjanya**, like the swift-whiring (flames) of fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These, (surging) wide like the winds, like the rains of Parjanya,  
 (surging) at will like the flickerings of fire.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in the immed. preceding hymn (21.2), this vs. lacks a finite verb and can be attached either to vs. 1 or vs. 3 or both.
 
@@ -110,23 +110,23 @@ IX.22.3, 5: Note vy ànaśuḥ in both vss. (3c, 5b), implicitly connecting Soma
 of √(n)aś see ad 4-6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swift as wide winds they lightly move, like rain-storms of Parjanya, like  
      The flickering flames of burning fire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese sind breit wie die Winde, wie die Regengüsse des Parjanya, ausgelassen wie die Lohen des Feuers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, ausgedehnten Winden gleich, wie Regen aus dem Blitzgewölk, Wie Feuerflammen voller Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (соки,) широкие, как ветры,  
 Как дожди Парджаньи,  

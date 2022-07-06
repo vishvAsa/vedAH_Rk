@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरोका꣡ इव घे꣡द् अ꣡ह  
 तिग्मा꣡ अग्ने त꣡व त्वि꣡षः  
 दद्भि꣡र् व꣡नानि बप्सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द॒त्ऽभिः । वना॑नि । ब॒प्स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ārokā* ← *ārokāḥ* ← *āroka*
 - \[noun\], nominative, plural, masculine
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **तव** **तिग्माः** तीक्ष्णाः **त्विषः** दीप्तयः **आरोकाइव** आरोचमानाः पशव इव **दद्भिः** दन्तैः **वनानि** अरण्यानि **बप्सति** भक्षयन्ति । **घेदह** इति त्रयं पूरकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,36 +98,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Wildanimals: arokāḥ = arocamānāḥ paśavaḥ; cf. **Śatapatha Brāhmaṇa** 3.1.2.18: madhye chidrāṇi; (yourfierce flames) glancing, as it were, through the trees
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like brilliants, certainly, are your sharp scintillations, Agni.  
 With their teeth they snap at the woods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ārokā́ḥ (only here in RV) as “Maschen” (mesh), and this does seem to be the meaning in late Vedic. This idiomatic sense presumably developed from ‘light flashing through openings’ to the ‘openings’ themselves. However, mesh or netting does not seem a particularly apt comparison here, and I prefer to take the word in a more literal, but still concrete, sense, esp. since rocate appears several times in the hymn (8c, 10b). By ‘brilliants’ I mean gems or gem-like objects (rhinestones, e.g., had they been invented then) that catch and flash light. A more abstract sense, like ‘flashes’ or ‘flares’, risks near identity with what it’s being compared with (tvíṣaḥ).
 
 The force of the particle pile-up ghéd áha is not entirely clear to me, but this poet is partial to it. See ghéd … áhā in 30, as well as ghéd in 29, áha in 8. I have not found ghéd (…) áha elsewhere in the RV.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy sharpened flames, O Agni, like the gleams of light that glitter through,  
      Devour the forests with their teeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine scharfen Gluten, Agni, sind ganz wie durchsichtige Maschen; mit den Zähnen schnappen sie nach den Hölzern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So recht wie lichter Funken Schein ist, Agni, dein Erglänzen hell, Mit Zähnen kaut die Hölzer er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои резкие вспышки, О Агни,  
 Совсем как (яркие) просветы.  

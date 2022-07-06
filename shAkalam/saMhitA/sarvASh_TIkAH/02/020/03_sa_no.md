@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो यु꣡वा इ꣡न्दरो+ जोहू꣡त्रः  
 स꣡खा शिवो꣡ नरा꣡म् अस्तु पाता꣡  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 प꣡चन्तं च स्तुव꣡न्तं च प्रणे꣡षत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । शंस॑न्तम् । यः । श॒श॒मा॒नम् । ऊ॒ती । पच॑न्तम् । च॒ । स्तु॒वन्त॑म् । च॒ । प्र॒ऽनेष॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,14 +128,14 @@ genre M
 युवातरुणोयष्टृणाम्पापस्यशमयितावा जोहूत्रः स्तोतृभिराह्वातव्यः होतव्योवासखासखिभूतः सुखकर सइन्द्रः नरान्नृशब्दस्यामछान्दसोगुणः नरशब्दस्यवाआमि आगमानुशासनस्यानित्यत्वान्नु डभावः कर्मनेतॄणां नोस्माकम्पाताअस्तु पालकोभवतुयः शस्त्राणिशंसन्तंयश्च शशमानं शशप्लुतगतौ क्रियाःकुर्वाणं पुरोडाशादिहवींषिपचन्तं स्तुवन्तञ्चसामभिः स्तोत्रं कुर्वाणंस्तुतशस्त्रयोः प्रगीताप्रगीत मन्त्रसाध्यत्वेनभेदस्यप्रतिपादितत्वादत्रपृथङ्गिर्देशः एवंयजमानंऊती ऊत्यारक्षणेनप्रणेषत् नयते र्लेटि सिब्बहुलमितिसिप् अडागमः तिङिचोदात्तवतीतिगतेर्निघातः कर्मणापारम्प्रापयत् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that young, adorable **Indra**, ever be the friend, the benefactor, and protector of us, his worshipper; who, with his protection, may conduct (to the object of his worship) him who repeats (to him) prayer and praise, who prepares the oblation, and recites (his) commendations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let that youth, Indra, who is invoked on every side, be for us a  
 benevolent companion and protector of our men—  
@@ -143,23 +143,23 @@ he who with his help will lead forth the one reciting lauds, the one
 laboring, the one cooking and singing praises.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra, called with solemn invocations. the young, the Friend, be men's auspicious keeper,  
      One who will further with his aid the singer, the toiler, praiser, dresser of oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der jugendliche Indra soll uns ein oftgerufener Freund, ein gütiger Schützer der Herren sein, er der den Vortragenden, den das Opfer Herrichtenden, den Kochenden und Lobsingenden mit seiner Hilfe weiterbringen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Jüngling sei uns, Indra, der uns zuruft, der Männer Schutz und helfender Genosse, Der den, der betet, und voll Eifer opfert, und kocht und preist, mit seiner Hülfe fördert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет у нас юный Индра достоин призываний,  
 Друг дорогой, хранитель мужей,  

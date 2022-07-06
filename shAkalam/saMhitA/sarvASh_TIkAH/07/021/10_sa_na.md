@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न इन्द्र त्व꣡यताया इषे꣡ धास्  
 त्म꣡ना च ये꣡ मघ꣡वानो जुन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वस्वी॑ । सु । ते॒ । ज॒रि॒त्रे । अ॒स्तु॒ । श॒क्तिः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -135,41 +135,41 @@ genre M;; repeated line
 इयमृक् व्याख्यातचरा ॥ १० ॥पिबासोममिन्द्रमन्दतुत्वेति नवर्चं पञ्चमं सूक्तम् । अनुक्रम्यते च-पिबनव वैराजमृतेन्त्यामिति । वसिष्ठऋषिः आदितोष्टौविराजः नवमी- त्रिष्टुबिन्द्रोदेवता दशरात्रे चतुर्थेहनि निष्केवल्यशस्त्रे पिबासोममिन्द्रेतिषट् स्तोत्रियानुरूपौ सूत्रितं च-वैराजञ्चेत्पृष्ठं पिबासोममिन्द्रमन्द- तुत्वेति षट्स्तोत्रियानुरूपाविति । महाव्रतेपि निष्केवल्येआद्याः षळृचः सूत्रितं च-पिबासोममिन्द्रमन्दतुत्वेति षळिति । आद्या निष्के- वल्यशस्त्रयाज्या सूत्रितं च-पिबासोममिन्द्रमन्दतुत्वेति याज्येति । चतुर्थेहनि माध्यन्दिने सवने होत्रकशस्त्रेषु सप्तविराजः त्रींस्तृचान्- कृत्वाएकैकस्तृचः शंसनीयः तत्र नतेगिरइत्याद्याश्चतस्रऋचः सूत्रितं च-नतेगिरोअपिमृष्येतुरस्य प्रवोमहेमहिवृधेभरध्वमिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Enable us, **Indra**, (to partake of) food granted by you, as well as those who, opulent (in sacrificialpresentations), spontaneously offer the (oblations); may there be ability in thine adorer (to repeat) my laudations;and do you ever cherish us wiḥ blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So, Indra, position us for the refreshment offered by you—and also  position those bounteous ones who themselves incite (us).  
 Let there be goodly skill for your singer. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is identical to the final verse of the last hymn (VII.20.10), but in this case maghávāno junánti “the bounteous ones incite (us)” is the positive equivalent of the negative ná … jūjuvur naḥ “They do not incite us” in vs. 5, where the internal enemies served as subject.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us.  
      Let thy great power bring good to him who lauds thee. Ye Gods, preserve us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, mögest uns zu dem von dir gewährten Speisegenuß verhelfen und den Lohnherren, die in eigner Person aneifern. Dein Wirken soll dem Sänger zugute kommen. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenk uns, Indra, selbstverlieh'ne Labung uns selber und den reichen Opferherren; Dem Sänger sei recht schön und reich die Gabe; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, приобщи нас к питательной силе, исходящей от тебя,  
 И (тех) щедрых покровителей, что сами побуждают (тебя)!  

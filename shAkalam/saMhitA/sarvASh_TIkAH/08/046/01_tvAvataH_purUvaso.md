@@ -6,14 +6,14 @@ ChandaH = "पादनिचृत्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡वतः पुरूवसो  
 वय꣡म् इन्द्र प्रणयितः+  
 स्म꣡सि स्थातर् हरीणा᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्मसि॑ । स्था॒तः॒ । ह॒री॒णा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāvataḥ* ← *tvāvat*
 - \[noun\], nominative, plural, masculine
@@ -73,7 +73,7 @@ genre M
 हे **पुरूवसो** बहुधनेन्द्र **प्रणेतः** कर्मणां पारं प्रकर्षेण प्रापयितः **इन्द्र** **त्वावतः** त्वत्सदृशस्य । इन्द्रसमानस्यान्यस्याभावात्तवेत्यर्थः । तव स्वभूताः **वयं** **स्मसि** स्मः । हे **हरीणाम्** एतत्संज्ञकानामश्वानां **स्थातः** अधिष्ठातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,29 +84,29 @@ genre M
 We belong to one likeyou: since none other is like you, we are yours
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To such a one as you, Indra, you leader with many goods,  
 do we belong, you mounter of the fallow bays.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE, Indra, Lord of ample wealth, our Guide, depend on one like thee,  
      Thou driver of the Tawny Steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir gehören einem wie du bist, schätzereicher Indra, Führer, Lenker der Falben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sind wir, der so reich du bist, o Indra, unser Führer du, Der du der Füchse Lenker bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такому, как ты, о богатый благами,  
 О Индра – (наш) предводитель,  

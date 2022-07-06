@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे चने꣡द् अना꣡ तुवा  
 देवा꣡स इन्द्र युयुधुः  
 य꣡द् अ꣡हा न꣡क्तम् आ꣡तिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यत् । अहा॑ । नक्त॑म् । आ । अति॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -88,42 +88,42 @@ genre M
 हे **इन्द्र** **विश्वे** **चनेत्** सर्वे एव **देवासः** असुरान् विजिगीषवो देवाः **अना** प्राणरूपेण बलेन **त्वा** त्वां सहायं लब्ध्वा **युयुधुः** असुरैः सह युद्धं चक्रुः । **यत्** यस्मात् कारणात् **अहा** अहःसु **नक्तं** रात्रिषु च **आतिरः** आ समन्तात् शत्रूनवधीः । अतः कारणात् युयुधुरिति पूर्वेण संबन्धः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily all the gods, with you (for) their strength, have warred (with the **asuras**); wherefore you have destroyed by day and by night.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not even all the gods (altogether) fought you, Indra, because of this: that by night you passed over the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The neg. scope problem potentially posed by víśve … ná -- “all did not” vs. “not all did” -- can be easily solved. See my 1997 “Vedic anyá- 'another, the other': syntactic disambiguation,” where I establish that the independent negative ná coocurs with víśva- only with the corporate entity víśve devā́ḥ, enforcing a meaning “all did not.” Reading *yūyudhuḥ would provide a better cadence. Oldenberg tentatively endorses this.
 
 The sense of pāda c is not entirely clear, but there are several factors that allow us to close in on the meaning. First, it seems to provide the reason why the gods did not fight Indra. Further, ā́tiraḥ recurs in vs. 7, and it seems unlikely that the two identical verbs would have substantially different meanings. Finally, as far as I can tell, all occurrences of náktam are temporal (‘by night’); when poets want to refer to night as an entity or entities they use rā́trī-, aktú-, or kṣáp-. (On uṣā́sā náktam in VIII.27.2, see comm. ad loc.) Therefore tr. like Geldner (/Witzel Gotō) that take áhā náktam as parallel objects (e.g., Geldner “als du Tage und Nacht abgrenztest”) cannot be correct. As indicated in the published introduction, I think that this pāda concerns Indra’s destabilization of time when he steals the Sun’s wheel -- a myth that will be glancingly related in the next tṛca. What exactly is going on I don’t know -- it sounds as if Indra fast-forwards or skips over days during the night, perhaps because the Sun can’t make his normal daily circuit and therefore daytime is significantly abbreviated and no longer lasts as long as night?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not even all the gathered Gods conquered thee, Indra, in the war,  
      When thou didst lengthen days by night.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch alle Götter bekämpften dich darum nicht, o Indra, als du Tage und Nächte abgrenztest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn auch die Götter allesammt besiegten, Indra, nimmer dich, Als Tag und Nacht du Feinde schlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь даже все боги никак  
 Не могут побороть тебя, о Индра,  

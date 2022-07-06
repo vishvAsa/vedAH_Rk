@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीति꣡होत्रं तुवा कवे  
 द्युम꣡न्तं स꣡म् इधीमहि  
 अ꣡ग्ने बृह꣡न्तम् अध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vītihotraṃ* ← *vītihotram* ← *vītihotra*
 - \[noun\], accusative, singular, masculine
@@ -79,41 +79,41 @@ genre M
 हे **कवे** क्रान्तदर्शिन् **अग्ने** **वीतिहोत्रं** कान्तयज्ञं **द्युमन्तं** दीप्तिमन्तं **बृहन्तं** महान्तं **त्वा** त्वाम् **अध्वरे** यज्ञे **समिधीमहि** समिद्भिः संदीपयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We kindle you at the sacrifice, wise **Agni**, whose food is the oblation, who are brilliant and vast.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O poet, we would kindle you, the brilliant one whose oblations are worth  pursuing,  
 the lofty one in the rite, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have enkindled thee, O Sage, bright caller of the Gods to feast.  
      O Agni, great in Sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let us kindle thee, O sage, the brilliant offerer of feasts (to the gods), O Agni, the mighty (god) at the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Opfereifrigen, den Glanzvollen wollen wir entflammen, du Seher, dich den Hohen beim Opfer, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich zünden wir, der ruft zum Mahl, den glänzenden, o weiser, an, Den hohen Agni bei dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы зажигаем тебя, о поэт,  
 Наслаждающегося жертвой, сверкающего,  

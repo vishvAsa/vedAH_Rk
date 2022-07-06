@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ प꣡तिर् य꣡ उच्य꣡ते  
 कृष्टीना꣡म् ए꣡क इ꣡द् वशी꣡  
 नमोवृधइ꣡र् अवस्यु꣡भिः सुते꣡ रण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 न॒मः॒ऽवृ॒धैः । अ॒व॒स्युऽभिः॑ । सु॒ते । र॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -102,7 +102,7 @@ genre M;; line affected by realignment;; repeated line
 **उतो** अपि च **वशी** वशयिता **एक** **इत्** एक एव **कृष्टीनां** मनुष्याणां **पतिः** पालयितेति **यः** इन्द्रः **उच्यते** । कैः । **नमोवृधैः** नमसा स्तोत्रेण हविषा वा वर्धयितृभिः **अवस्युभिः** रक्षणेच्छुभिः । स त्वं पूर्वोते **सुते** अभिषुते सोमे **रण** रमस्व । यद्वा । हे स्तोतः तमिन्द्रं सुते सोमे स्तुहि । रणतिः शब्दार्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,24 +113,24 @@ genre M;; line affected by realignment;; repeated line
 One absolute lord: who is called the one absolute lord of men bythose who magnify him (with songs) and implore his protection
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And who is called lord of the separate peoples—he alone exerts  his will—  
 by those strengthening (him) through reverence, seeking help. Rejoice in  the pressed (soma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, who alone is called the Lord, the single Ruler of the folk,  
      By worshippers seeking aid: may he joy in the draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und der Herr der Völker, der der einzige Gebieter genannt wird, von den sich oftmals verneigenden Schutzsuchenden. Ergötze dich am Somasaft!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И кто преклоняющимися (людьми,) ищущими помощи,  
 Зовется господином народов,  

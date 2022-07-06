@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ व्य꣡तीँर् अ꣡फाणयत्  
 सु꣡युक्ताँ उ꣡प दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उपमा꣡ यो꣡ अ꣡मुच्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त॒क्वः । ने॒ता । तत् । इत् । वपुः॑ । उ॒प॒ऽमा । यः । अमु॑च्यत ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 **यः** इन्द्रः **व्यतीन्** विविधगमनान् ‘सुयुक्तान् सुष्ठु रथे संबद्धानश्वान् **दाशुषे** हविर्दात्रे यजमानाय गन्तुं प्राप्तुम् **उप** **अफाणयत्** उपगमयति । फणतिर्गतिकर्मा । यदैवं करोति **तदित्** तदानीमेव **तक्वः** । तकतिर्गतिकर्मा । यज्ञगमनशीलः **नेता** उदकस्य फलस्य वा नायक इन्द्रः **वपुः** उदकमुत्पादयतीति शेषः । **यः** इन्द्रः **उपमा** उपमानभूतः **अमुच्यत** अन्यैर्वृष्टिनिवारकैरसुरादिभिर्मुक्तो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,12 +119,12 @@ genre M
 Comparable only to himself: **upamā** = **upamāna** **bhūta**; or, in close proximity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who made the paired, well-yoked horses leap for the pious man, (who is) their swooping leader—and just this is the marvel—who was  set loose as the very measure (of heaven)—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Interpretations of this verse vary, and cd is characterized as “dunkel” by both Geldner and Oldenberg I take the verse as a series of relative clauses referring to (unnamed) Indra, leading up to the proclamation of Indra in 14ab. The relative clauses are interrupted by an exclamatory tád íd vápuḥ “just this is the marvel!” in c.
 
@@ -133,23 +133,23 @@ Geldner takes takváḥ as a PN (rejected by Mayr. PN; see also EWA s.v. TAK), b
 I take upamā́(so Pp., or upamā́ḥ) in the same way as in I.31.15, viz., as a root noun compound ‘measure’. See disc. there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath made the fleet steeds spring, well-harnessed, to the worshipper,  
      He, the swift Guide, is that fair form that loosed the horses near at hand.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die wohlgeschirrten Gespanne für den Opfernden in Galopp setzte. Takva ist der Leiter - das ist das Wunder - der zunächst losgebunden wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welcher die schöngeschirrten Renner hinspringen liess zu dem Verehrer, der schnelle Lenker, der ganz in der Nähe die herrliche Gestalt ausspannte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

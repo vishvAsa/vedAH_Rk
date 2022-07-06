@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माता꣡ रुद्रा꣡णां दुहिता꣡ व꣡सूनां  
 स्व꣡सादित्या꣡नाम् अमृ꣡तस्य ना꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ गा꣡म् अ꣡नागाम् अ꣡दितिं वधिष्ट
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 प्र । नु । वो॒च॒म् । चि॒कि॒तुषे॑ । जना॑य । मा । गाम् । अना॑गाम् । अदि॑तिम् । व॒धि॒ष्ट॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
@@ -121,42 +121,42 @@ genre D
 अस्मिन् द्वृचे गौः स्तूयते । या गौः **रुद्राणां** मरुतां **माता** जननी **वसूनां** **दुहिता** पुत्री **आदित्यानां** **स्वसा** भगिनी **अमृतस्य** पयसः **नाभिः** आवासस्थानं ताम् **अनागाम्** अनागसम् **अदितिम्** अदीनां **गां** गोरूपां देवीं **मा** **वधिष्ट** हे जनाः मा हिंसिष्टेति **चिकितुषे** चेतनावते **जनाय** **नु** इदानीं **प्र** **वोचम्** अहं प्रावोचमिति शुश्रूषमाणेभ्य उपदेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(She who is) the mother of the **Rudras**, the daughter of the **Vasus**, the sister of the **Ādityas**, the homeof ambrosia-- I have spoken to men of understqanding-- kill not her, the sinless inviolate cow.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mother of the Rudras, daughter of the Vasus, sister of the Ādityas,  navel of immortality—  
 I now proclaim to observant people: do not smite the blameless  
 cow—Aditi.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonetic figure in pāda d mā́gā́m (á)nāgām.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Rudras' Mother, Daughter of the Vasus, centre of nectar, the Adityas' Sister-  
      To folk who understand will 1 proclaim it-injure not Aditi, the Cow, the sinless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Mutter der Rudra´s, die Tochter der Vasu´s, die Schwester der Aditya´s, der Unsterblichkeit Nabel - sagen will ich jetzt den verständigen Leuten: Tötet nicht die unschuldige Kuh, die Aditi!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Mutter der Rudra's, die Tochter der Vasu's, die Schwester der Aditja's ist [Priçni] der Mittelpunkt der Götterwelt; ich verkünde nun dem aufmerkenden Menschen: Verletzet nicht eine schuldlose Kuh, eine Aditi.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мать Рудр, дочь Васу,  
 Сестра Адитьев, пуп бессмертия –  

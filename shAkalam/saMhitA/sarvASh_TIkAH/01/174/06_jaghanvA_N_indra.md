@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जघन्वाँ꣡ · इन्दर+ मित्रे̃꣡रूञ्  
 चोद꣡प्रवृद्धो हरिवो अ꣡दाशून्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्व꣡या शूर्ता꣡ व꣡हमाना अ꣡पत्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । ये । पश्य॑न् । अ॒र्य॒मण॑म् । सचा॑ । आ॒योः । त्वया॑ । शू॒र्ताः । वह॑मानाः । अप॑त्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
@@ -113,20 +113,20 @@ genre M
 हे **इन्द्र** **हरिवः** हरिभ्यां तद्वन् त्वं **चोदप्रवृद्धः** चोदनैः स्तोत्रैः प्रवृद्धः सन् **अदाशून्** अदातॄन् **मित्रेरून्** मित्राणां यजमानानाम् ईरयितॄन् बाधकान् तद्वैरिणां मित्रत्वं गच्छतो वा **जघन्वान्** हतवानसि। किंच **ये** **अर्यमणं** दातारं त्वां **प्र** **पश्यन्** पश्यन्ति ते नराः **आयोः** मनुष्यस्याध्वर्य्वादेः हविर्लक्षणान्नस्य वा **सचा** सह **शूर्ताः** क्षिप्रा हविष्प्रदानेन **त्वया** **अपत्यं** कुलस्यापातयितारं पुत्रं **वहमानाः** ये सन्ति ते प्र पश्यन् । यद्वा । ये अर्यमणं त्वां पश्यन्ति ते एवं भवन्ति । यद्वा । ये नरा अर्यमणं यं कंचिद्दातारं पश्यन् पश्यन्तस्त्वामयजन्त आयोर्मनुष्यस्य सचा सहायभूतास्त्वया शूर्ताः क्षिप्ता वर्जिता अपत्यं पुत्रं वहमाना ये सन्ति तान् जघन्वान् भवेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, lord of steeds, invigorated by our animating praise, you have slain those who make you no offerings and disturb your worshippers; but they who look upon you as (their) protector, and are associated for (the presentation of sacrificial) food, obtain from the posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once you had smashed those who rout their allies, and had smashed the  impious when you were strengthened by the stimulant, o Indra of the  fallow bays,  
 those who saw before them Aryaman in company with these two [=Mitra  and Varuṇa], they were shattered by you, taking their progeny along.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. joins Indra’s overwhelming aggressive power with the moral force of the three principal Ādityas. Those who offend against the strictures of the Ādityas get utterly destroyed by Indra, in a partnership that one might expect to be more prominent in the RV; X.89.9, adduced by Oldenberg, shows the same cooperative enterprise in clearer form.
 
@@ -141,23 +141,23 @@ Although of the trio of principal Ādityas only Aryaman is named in this vs., Mi
 śūrtá- presumably belongs with śṛṇā́ti, etc., though the vocalism is surprising; we would expect *śīrta-, like AV śīṛṇá-. [Add ref. to Clayton, when there is one.]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou Indra, Lord of Bays, made strong by impulse, hast slain the vexers of thy friends, who give not.  
      They who beheld the Friend beside the living were cast aside by thee as they rode onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem du Falbenlenker Indra von Coda gestärkt die nichtopfernden Mitreru erschlagen hast, die Gönner des Ayu dabei vor sich sahen, von dir zersprengt, als sie ihre Nachkommenschaft mit sich führten -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Trank gestärkt erschlugst du die verschwornen, die gottvergessnen, Indra, Herr der Rosse; Die vor sich sahn den Freund des hülfsbegier'gen, die schlugst du, als mit ihrem Volk sie zogen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 После того как ты убил Митреру, о Индра, не почитающих (богов),  
 Подкрепленный Чодой (?), о обладатель буланых коней,  

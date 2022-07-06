@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ म꣡दे पुरु꣡ व꣡र्पांसि विद्वा꣡न्  
 इ꣡न्द्रो वृत्रा꣡णि अप्रती꣡ जघान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मं वीरा꣡य शिप्रि꣡णे पि꣡बध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । ऊं॒ इति॑ । प्र । हो॒षि॒ । मधु॑ऽमन्तम् । अ॒स्मै॒ । सोम॑म् । वी॒राय॑ । शि॒प्रिणे॑ । पिब॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -124,20 +124,20 @@ genre M
 **अस्य** सोमस्य पानेन **मदे** हर्षे सति **विद्वान्** अभिज्ञः **इन्द्रः** **पुरु** पुरूणि बहूनि **वर्पाँसि** आवरकाणि **वृत्राणि** शत्रून् **अप्रति** स्वयमन्यैरप्रतिगतः सन् **जघान** हतवान् । यद्वा । वर्प इति  रूपनाम । बहूनि वर्पांस्यसुरमायया निर्मितानि रूपाणि विद्वान् जानन्निन्द्रो वृत्राणि आवरकाणि रक्षःप्रभृतीनि इतः पूर्वमन्यैरप्रतिगतानि जघान हतवान् । **मधुमन्तं** माधुर्यवन्तं **तमु** तमेव **सोमं** **शिप्रिणे** शोभनहनुकाय **अस्मै** **वीराय** शत्रूणां वीरयित्र इन्द्राय **पिबध्यै** पातुं **प्र** **होषि** हे अध्वर्यो प्रजुहुधि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In the exhilaration of this **Soma**, the wise **Indra**, irresistible, has destroyed numerous opposing enemies; offer the sweet-flavoured beverage to that hero, the handsome-chinned, to drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In its exhilaration, knowing many shapes, Indra smashed unopposable  obstacles.  
 Pour forth for him the honeyed soma, for the belipped hero to drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner point out (n. 14a), the “many shapes” (purú várpāṃsi) that Indra knows could either be his own (given his penchant for shape-shifting) or those of the various demonic enemies he destroys. I assume that the poet meant to leave it ambiguous, though it’s worth noting that the one instance of the bahuvrīhi puruvárpas- refers to Indra (though in the late hymn X.120.6).
 
@@ -158,23 +158,23 @@ Another soma tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the wild joy of this hath Indra, knowing full many a form, struck down resistless Vrtras.  
      Proclaim aloud to him the savoury Soma so that the Hero, strong of jaw, may drink it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Rausche hat Indra vieler Verwandlungen kundig die Dämonen erschlagen, denen keiner gewachsen war. Ihm opfere diesen süßen Soma, dem Helden mit geöffneten Lippen zum Trinken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Somarausch erschlug, viel Künste kennend, die Feinde Indra, die dem Angriff trotzen; Ihm giesse zu den honigsüssen Soma, zu trinken ihm, dem Mann mit Trinkerlippen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В опьянении им умея (принимать) много образов,  
 Индра убивал врагов, не имеющих себе равных.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो मीढ्वा꣡न् पवते गातुवि꣡त्तम  
 ऋ꣡षिर् वि꣡प्रो विचक्षणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡ सू꣡र्यं रोहयो दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 त्वम् । क॒विः । अ॒भ॒वः॒ । दे॒व॒ऽवीत॑मः । आ । सूर्य॑म् । रो॒ह॒यः॒ । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -113,20 +113,20 @@ genre M;; repeated line
 **मीढ्वान्** कामानां सेक्ता **सोमः** **पवते** क्षरति । कीदृशः । **गातुवित्तमः** अत्यन्तं मार्गस्य लम्भकः **ऋषिः** सर्वस्य प्रदर्शकः **विप्रः** मेधावी **विचक्षणः** विद्रष्टा । किंच **कविः** क्रान्तप्रज्ञः **त्वं** **देववीतमः** अत्यन्तं देवकामः **अभवः** भवसि । अपि च **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** प्रादुर्भावयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma** flows forth the showerer of benefits, the best of path-finders, a ṛṣi, a sage, all-discriminating; you are a seer, most devoted to the gods; you have made the sun to mount the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma the rewarder purifies himself, the best pathfinder, the inspired,  wide-gazing seer.  
 You became the sage poet who best pursues the gods. You made the sun  mount in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two splvs ending the a and c pādas show a nice phonological relationship: (gātu-)vít-tama- and (deva-)vī́-tama, with interchange between long vowel + single cons. and short vowel + geminate in otherwise identical phonetic seequences, an effect reminiscent of MIA quantitative trade-offs.
 
@@ -140,23 +140,23 @@ The c pādas of these two vss. are identically constructed: tváṃ vípro [6] /
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bountiful, best of furtherers, Soma floweth on, Rsi and Singer, keen of sight.  
      Thou hast become a Sage most welcome to the Gods: thou madest Surya mount to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma, der Lohngeber, läutert sich, der beste Pfadfinder, der beredte, hellsehende Rishi. Du wardst der Seher, der am besten die Götter einlädt. Mögest du die Sonne am Himmel aufsteigen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma rieselt huldvoll, schaffend freiste Bahn, der weise Sänger weiten Blicks, Du bist ein Seher, du der Götter-labendste, die Sonn' erhobst am Himmel du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома щедрый очищается, лучше всех находящий выход,  
 Риши, вдохновенный (поэт), смотрящий далеко.  

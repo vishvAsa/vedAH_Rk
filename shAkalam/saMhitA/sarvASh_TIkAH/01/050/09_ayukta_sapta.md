@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡युक्त सप्त꣡ शुन्ध्यु꣡वः  
 सू꣡रो र꣡थस्य नप्ति꣡यः  
 ता꣡भिर् याति स्व꣡युक्तिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 ताभिः॑ । या॒ति॒ । स्वयु॑क्तिऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayukta* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
@@ -89,7 +89,7 @@ genre M
 **सूरः** सर्वस्य प्रेरकः सूर्यः **शुन्ध्युवः** शोधिका अश्वस्त्रियः तादृशीः **सप्त** सप्तसंख्याकाः **अयुक्त** स्वरथे योजितवान् । कीदृश्यः। **रथस्य** **नप्त्यः** न पातयित्र्यः । याभिर्युक्ताभिः रथो याति न पतति तादृशीभिरित्यर्थः । एवंभूताभिः **ताभिः** अश्वस्त्रीभिः **स्वयुक्तिभिः** स्वकीययोजनेन रथे संबद्धाभिः **याति** यज्ञगृहं प्रत्यागच्छति । अतस्तस्मै हविर्दातव्यमिति वाक्यशेषः ॥ अयुक्त । ‘युजिर योगे ' । स्वरितेत्त्वात् कर्त्रभिप्राये आत्मनेपदम् । लुङि च्लेः सिच् । ' एकाचः' इति इट्प्रतिषेधः । ‘‘लिङ्सिचावात्मनेपदेषु' ( पा. सू. १. २. ११ ) इति सिचः कित्त्वात् लघूपधगुणाभावः ।  ‘ झलो झलि' इति सिचः सकारलोपः । चोः कुः' इति कुत्वम् । शुन्ध्युवः । शुन्ध विशुद्धौ'। यजिमनिशुन्धिदसिजनिभ्यो युः ' ( उ. सू. ३. ३०० ) इति युप्रत्ययः । शसि  ‘ तन्वादीनां छन्दसि बहुलमुपसंख्यानम् ' ( पा. सू. ६. ४. ७७. १ ) इति उवङादेशः । सूरः ।  ‘ षू प्रेरणे'। “ सुसूधागृधिभ्यः क्रन्' ( उ. सू. २. १८२ ) इति क्रन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । नप्त्यः । न पातयतीत्यर्थे ' नप्तृनेष्ट्ट' (उ. सू. २. २५२ ) इत्यादिना उणादिषु नप्तृशब्दस्तृजन्तो निपातितः।  ‘ ऋन्नेभ्यो ङीप्' इति ङीप् । यणादेशे  ‘ उदात्तयणो हल्पूर्वात्' इति ङीप उदात्तत्वम् ।  ‘ सुपां सुपो भवन्ति । इति शसो जसादेशः । ततो यणादेशे • उदात्तस्वरितयोर्यणः०' इति स्वरितत्वम् । रेफलोपश्छान्दसः । उक्तं च - ‘ द्वौ चापरौ वर्णविकारनाशौ ' ( का. ६. ३. १०९ ) इति ।  ‘ शाखान्तरे तु नप्त्र्यः इत्येव पठ्यते । स्वयुक्तिभिः । स्वकीयाः सूर्यसंबन्धिन्यो युक्तयो योजनानि यासाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,13 +100,13 @@ genre M
 Sapta śundhyuvaḥ; **aśva**-stṛyaḥ = mares; they are also naptyaḥ, since the car does not fall because of them, yābhir na patati **rathaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has yoked the seven sleek daughters of the Sun’s chariot.  
 With these of his own yoking he drives.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sū́raḥ: Although most take this as nom. sg. (Grassmann, Geldner, Thieme, Lüders), Renou makes a good case for it as gen. sg. (followed, it seems, by Witzel Gotō), also adducing V.31.11 sū́raś cid rátham.
 
@@ -121,28 +121,28 @@ I assume that the seven mares of vs. 8 are the same as the sleek daughters (śun
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya hath yoked the pure bright Seven, the daughters of the car; with these,  
      His own dear team, he goeth forth.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The Sun has yoked the seven bright mares, The shining daughters of his car: With that self-yoking team he speeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Surya hat die sieben sauberen Töchter des Wagens angeschirrt. Mit diesen, die sich selbst anschirren, fährt er.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonn' hat sieben glänzende, des Wagens Töchter sich geschirrt, Mit selbst geschirrten fähret er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запряг (Сурья) семь чистых  
 Дочерей колесницы солнца.  

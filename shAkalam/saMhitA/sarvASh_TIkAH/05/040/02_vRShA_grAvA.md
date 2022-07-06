@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा ग्रा꣡वा वृ꣡षा म꣡दो  
 वृ꣡षा सो꣡मो अयं꣡ सुतः꣡  
 वृ꣡षन्न् इन्द्र वृ꣡षभिर् वृत्रहन्तम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 वृष॑न् । इ॒न्द्र॒ । वृष॑ऽभिः । वृ॒त्र॒ह॒न्ऽत॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -94,7 +94,7 @@ genre M;; repeated line
 **ग्रावा** अभिषवसाधनः पाषाणः **वृषा** वर्षकः सोमरसस्य फलस्य वा। **मदः** सोमपानेन जनितः **वृषा** वर्षकः । **अयं** **सुतः** अभिषुतः **सोमः** **वृषा** । तं सोमं **वृषभिः** सह पिब ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,29 +105,29 @@ genre M;; repeated line
 The showerer: either of the Soma juice, or the benefits derivable from offering it; here there is a plural y on the word **vṛṣā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bullish is the pressing stone, bullish the exhilarating drink, bullish this  pressed soma here.  
 Bullish Indra, with your bulls, best smasher of obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong is the stone, the draught is strong, strong is this Soma that is pressed,  
      Indra, best Vrtra-slayer, Strong One with the Strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullengleich ist der Preßstein, bullengleich der Rausch, bullengleich dieser ausgepreßte Soma, du Bulle Indra, mit den Bullen, du größter Vritratöter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Stein ist Stier, und Stier der Trank, Gepresst ist Soma hier, der Stier, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ घे꣡द् अग्ने सुआधियो꣡  
 अ꣡हा वि꣡श्वा नृच꣡क्षसः  
 त꣡रन्तः स्याम दुर्ग꣡हा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तर॑न्तः । स्या॒म॒ । दुः॒ऽगहा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -92,41 +92,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **ते** **घेत्** त्वदर्थमेव खलु वयं **स्वाध्यः** सुकर्माणः सन्तः **विश्वा** विश्वानि **अहा** अहानि **नृचक्षसः** द्रष्टारश्च **दुर्गहा** दुःखेन गाहयितव्यानि **तरन्तः** **स्याम** भवेम ॥ ॥ ३४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, through you, may we, skilled in sacrifices and beholding men all our days, pass through (all)difficulties.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, may we be very attentive and with manly gaze,  
 crossing over difficult depths through all the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 víśvā(ḥ) was carelessly omitted in the published translation, which should read “may we all be …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, so may we, devout, gazed at by men, throughout our days,  
      Pass lightly over all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir hier mit dem Herrenauge, o Agni, die wir Gutes sinnen, möchten alle Tage über die Abgründe hinüberkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So mögen wir andächtige, o Agni, männerleitend stets Durchdringen alles Ungemach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть именно мы, о Агни, доброжелательные,  
 Глядящие на мужей, будем все дни  

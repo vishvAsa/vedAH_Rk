@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र पू꣡र्वो अ꣡पराय शि꣡क्षन्न्  
 अ꣡यज् ज्या꣡यान् क꣡नीयसो दयिष्ण꣡म्+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ चित्र चि꣡त्रियम् भरा रयिं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒मृतः॑ । इत् । परि॑ । आ॒सी॒त॒ । दू॒रम् । आ । चि॒त्र॒ । चित्र्य॑म् । भ॒र॒ । र॒यिम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -128,7 +128,7 @@ genre M
 हे **चित्र** चायनीय **इन्द्र** **यत्** धनं **पूर्वः** पिता ज्येष्ठो भ्राता वा **अपराय** पुत्राय कनीयसे वा **शिक्षन्** प्रयच्छन् । शिक्षतिर्दानकर्मा ‘प्रीणाति शिक्षति' इति दानकर्मसु पाठात् । भवतीति शेषः। यच्च  **देष्णं** देयं धनं **ज्यायान्** ज्येष्ठः **कनीयसः** **अयत्** प्राप्नुयात् । यच्चापि धनं पितृतो लब्ध्वा पुत्रः **अमृत** **इत्** अमृत एव सन् पितृगृहं विहाय **दूरं** **पर्यासीत** आस्ते तत्त्रिविधं **चित्र्यं** चायनीयं **रयिं** धनं **नः** अस्मभ्यम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,12 +139,12 @@ genre M
 Which the prior: yad indra purvo aparaya sikṣan, what the father has given to the son,or the elder to the younger brotheṛ.. that which the father receives from the son or the elder brother from theyounger
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra, a predecessor will be doing his best for his successor  and a more important man will embark on giving to a lesser one, should the immortal be the only one sitting it out far away? Bright one,  bring bright wealth here to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 By my interpr. (and Geldner’s) śíkṣan is a predicated pres. participle, parallel to the subjunctive áyat in the 2nd clause; it seems to have adopted the modal sense of this parallel finite verb.
 
@@ -153,23 +153,23 @@ Note the play between the two initial words of pādas a and b: yád and áyad (�
 The question in c is not overtly marked, but I follow both Oldenberg and Geldner in taking it as such. 21
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whene'er the elder fain would help the younger the greater cometh to the lesser's present.  
      Shall the Immortal sit aloof' inactive? O Wondrous Indra, bring us wondrous riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Vorfahre seinem Nachfahren nützlich sein will, Indra, und der Höhere zur Beschenkung des Geringeren kommt, sollte da der Unsterbliche sich fernhalten? Du Ausgezeichneter, bring uns ausgezeichneten Reichtum!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bis erst der frühere dem spätern dienend, der höh're vom geringeren belohnt wird, Nicht eher wird der Gott auch ferne bleiben; o bringe strahlend Gut uns, strahlenreicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если предок, о Индра, желая помочь потомку,  
 Старший к младшему отправляется для дарения,  

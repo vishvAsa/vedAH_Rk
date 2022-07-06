@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं वो न꣡रः सखिया꣡य सेपुर्  
 महो꣡ य꣡न्तः सुमत꣡ये चकानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महा꣡म् उ रण्व꣡म् अ꣡वसे यजध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 म॒हः । हि । दा॒ता । वज्र॑ऽहस्तः । अस्ति॑ । म॒हाम् । ऊं॒ इति॑ । र॒ण्वम् । अव॑से । य॒ज॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 हे यजमानाः **वः** युष्माकं संबन्धिनः **नरः** नेतार ऋत्विजः **सख्याय** सखिभावार्थम् **इन्द्रं** **सेपुः** परिचरन्ति स्पृशन्ति वा । कथंभूताः । **महः** महान्ति स्तोत्राणि **यन्तः** उपयन्तः प्राप्नुवन्तः । कुर्वन्त इत्यर्थः । तथा **सुमतये** । सुमतिः शोभनानुग्रहात्मिका तदीया बुद्धिः । तां **चकानाः** कामयमानाः ॥ ‘क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानसंज्ञा । चकाना इति कामयतेश्छान्दसं रूपम् ॥ यद्वा । महो महत्कर्म यन्तः' अनुतिष्ठन्तः सुमतये सुमतिं शोभनां स्तुतिं चकानाः शब्दयन्तः ॥ ‘कै गै शब्दे ' इत्यस्माल्लिटः कानचि रूपम् ॥ **हि** यस्मात् **वज्रहस्तः** वज्रपाणिरिन्द्रः **महः** महतो धनस्य **दाता** **अस्ति** भवति तस्मात् **रण्वं** रमणीयं **महामु** महान्तमेव **अवसे** रक्षणाय **यजध्वं** हविर्भिः पूजयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Offering great praise: maho yantaḥ sumataye cakānāḥ = **mahat** **karma** anutiṣṭhantaḥ, performing great worship; stutim śabdāyantaḥ, uttering praise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The men serve Indra for you [=patrons or priests] for the sake of his  partnership and benevolence, as they go on finding pleasure in the  
 great one,  
 for he whose hand holds the mace is the giver of a great (thing). Sacrifice  to the great and delightful one for help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the semantic connection between the first and second hemistichs, see published introduction. Particularly note the simple etymological figure in cd #ví … #ávocanta … vívācaḥ# in the half-vs. concerning the disunity of the various peoples; here the etymological sense of carṣaṇí- as ‘bordered, separate (people)’ also gets fully used.
 
@@ -154,23 +154,23 @@ tr. represents the construction as a haplology, because the predicative voc. is 
 In c the standard formula toká- tánaya- ‘progeny (and) posterity’ is interspersed with other locatives of the stakes, in the sequence toké apsú tánaye ca sūré; I take the ca here as connecting the formulaic pair and have tr. them together, with the others postponed. Cf. VI.25.4, 66.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YOUR men have followed Indra for his friendship, and for his loving-kindness glorified him.  
      For he bestows great wealth, the Thunder-wielder: worship him, Great and Kind, to win his favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra ehren die Herren für euch zur Freundschaft, voll Verlangen nach der Gunst des Großen kommend; denn der Keulenträger ist der Geber großer Gabe. Opfert dem Großen, Erfreuenden, daß er gnädig sei!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um Freundschaft ehrten eure Priester Indra, hineilend, nach des grossen Gunst verlangend; Denn blitzbewehrt verleiht er grossen Reichthum; so ehrt den grossen, muntern, dass er helfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру почитали мужи, чтоб он дружил с вами,  
 Полные желания идя к милости великого.  

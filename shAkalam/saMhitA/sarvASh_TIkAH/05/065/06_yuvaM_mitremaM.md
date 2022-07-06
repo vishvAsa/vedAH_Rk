@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युव꣡म् मित्रा इमं꣡ ज꣡नं  
 य꣡तथः सं꣡ च नयथः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 गोपीथे꣡ न उरुष्यतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 मा । म॒घोनः॑ । परि॑ । ख्य॒त॒म् । मो इति॑ । अ॒स्माक॑म् । ऋषी॑णाम् । गो॒ऽपी॒थे । नः॒ । उ॒रु॒ष्य॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -121,35 +121,35 @@ genre M
 हे **मित्रा** मित्रावरुणौ **युवं** युवाम् **इमं** **जनं** स्तोतारं मां प्रति **यतथः** गच्छथः । आगत्य च **सं** च **नयथः** संनयथश्च । कामान् प्रापयथः । यद्वा । यतथ इत्यन्तर्णीतण्यर्थोऽयम् । अहनि यतथः व्यापारेषु गमयथः । रात्रौ च सं नयथः । निर्व्यापारं कारयथः । **मघोनः** हविर्लक्षणान्नवतोऽस्मान् **मा** **परि** **ख्यतं** मा परित्यजतम् । **मो** मैव **ऋषीणाम्** **अस्माकं** पुत्रानपि परि ख्यतम् । किंतु 'गोपीथे । गौः सोमरसः । तस्य पानं यस्मिन् स गोपीथो यज्ञः । तस्मिन् **नः** **उरुष्यतं** रक्षतम् ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You come, **Mitra** and **Varuṇa**, to this man, and guide him (to his desires); deny us not when we are rich (in offerings); (deny us not), who are (the sons) of ṛṣis protect us in the presenting of the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two of you, o Mitra, arrange this people and lead them together. Do not overlook the generous one nor us seers. Give us wide space under  your protection.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, Mitra, urge this people on, and to one end direct their ways.  
 Neglect not ye the wealthy chiefs, neglect not us the Ṛṣis: be our guardians when ye quaff the milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide, Mitra und Varuna, einiget unsereins und bringet uns zusammen! Vergesset nicht des Gönners, nicht unser, der Rishi´s! Schaffet uns sicheren Ausweg unter eurem Schutze!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beid', o Mitra, einiget und führt zusammen dieses Volk; Vergesset nicht des Opferherrn, noch uns, die Dichter, überseht; verschafft uns Raum in eurer Huld,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы двое, о Митра (и Варуна), объединяете  
 Этот народ и ведете его вместе.  

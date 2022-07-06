@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡म् पूष्णः꣡ सुमतिं꣡ वयं꣡  
 वृक्ष꣡स्य प्र꣡ वया꣡म् इव  
 इ꣡न्द्रस्य चा꣡ रभामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑स्य । च॒ । आ । र॒भा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूष्णः** पोषकस्य देवस्य **इन्द्रस्य** **च** **तां** प्रसिद्धां **सुमतिं** कल्याणीं मतिमनुग्रहबुद्धिं **वृक्षस्य** महीरुहस्य **प्र** **वयां** प्रकृष्टां दृढां शाखाम् **इव** **वयम्** **आ** **रभामहे** अवलम्बामहे । आश्रयामह इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We depend upon the good-will of **Pūṣan**, and of **Indra**, as (we cling) to the branches of a tree.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The benevolence of Pūṣan—like the branch of a tree—  
 and that of Indra we seize hold of.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though apparently straightforward, this vs. is rather oddly constructed, esp.
 
@@ -112,23 +112,23 @@ pāda b. The conjoined NP pūṣṇáh … índrasya ca “of Pūṣan and Indra
 All of this may have something to do with the poet’s attempt to set up the play vayám (a), vayā́m (b), though that play would have been more effective if vayā́m were pāda-final, not followed by iva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To this, to Pusan's favouring love, and Indra's, may we closely cling,  
      As to a tree's extended bough.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An das Wohlwollen des Pusan und des Indra klammern wir uns wie an den Ast eines Baumes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir reissen an uns diese Gunst des Puschan und des Indra nun, Wie von dem Baume einen Zweig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За эту благожелательность Пушана  
 И Индры мы хватаемся,  

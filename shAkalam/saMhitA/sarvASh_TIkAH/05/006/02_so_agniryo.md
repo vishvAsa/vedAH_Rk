@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अग्नि꣡र् यो꣡ व꣡सुर् गृणे꣡  
 सं꣡ य꣡म् आय꣡न्ति धेन꣡वः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 सम् । अर्व॑न्तः । र॒घु॒ऽद्रुवः॑ । सम् । सु॒ऽजा॒तासः॑ । सू॒रय । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -129,42 +129,42 @@ genre M;; repeated line
 **सः** **अग्निः** स खल्वग्निः **यो** **वसुः** वासकः **गृणे** स्तूयते । **यं** **धेनवः** **सम्** **आयन्ति** होमार्थम् । **अर्वन्तः** अश्वाः **रघुद्रुवः** लघुगमनाः **सम्** आयन्ति । **सुजातासः** **सूरयः** मेधाविनश्च **सम्** आयन्ति स खल्वग्निरिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He is **Agni**, who is praised as the giver of dwellings, to whom the kine, the light-faced steeds, the well-born, devout worshippers repair; do you Agni, bring food to your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is Agni, who is sung as the good one, whom the milk-cows approach  together,  
 the fast-running chargers (approach) together, and well-born patrons  (approach) together.  
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 'Tis Agni whom we laud as good, to whom the milch-kine come in herds,  
      To whom the chargers swift of foot, to whom our well-born princes come. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He is Agni who is praised as the Vasu, he to whom the milch-cows come together, and the quickly running horses, and the well-born liberal patrons. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist der Agni, der als der Gute gepriesen wird, um den die Kühe sich sammeln, die schnellaufenden Rennpferde und die hochgeborenen Opferherren. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, Agni ist's, den gut man nennt, zu dem die Kühe alle gehn, die Renner schnellen Laufes gehn, die hochgebor'nen Priester auch; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это Агни, который воспевается как добрый,  
 К которому сходятся дойные коровы,  

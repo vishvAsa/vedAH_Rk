@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ मा मिमेथ न꣡ जिहीळ एषा꣡  
 शिवा꣡ स꣡खिभ्य उत꣡ म꣡ह्यम् आसीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नुव्रताम् अ꣡प जाया꣡म् अरोधम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒क्षस्य॑ । अ॒हम् । ए॒क॒ऽप॒रस्य॑ । हे॒तोः । अनु॑ऽव्रताम् । अप॑ । जा॒याम् । अ॒रो॒ध॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -131,41 +131,41 @@ popular
 **एषा** अस्मदीया जाया **मा** मां कितवं **न** **मिमेथ** न च चुक्रोध **न** **जिहीळे** न च लज्जितवती । **सखिभ्यः** अस्मदीयेभ्यः कितवेभ्यः **शिवा** सुखकरी **आसीत्** अभूत् । **उत** अपि च **मह्यं** शिवासीत् । इत्थम् **अनुव्रताम्** अनुकूलां **जायाम्** **एकपरस्य** एकः परः प्रधानं यस्य तस्य **अक्षस्य** **हेतोः** कारणात् **अहम्** **अप** **अरोधं** परित्यक्तवानस्मीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (my wife) has not been angry (with me), nor was she overcome with **sham**; kind was she to meand to my friends; yet for the sake of one or other die, I have deserted this affectionate spouse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She did not oppose me, nor did she get angry; she was gracious to my  comrades and to me.  
 I, on account of one die too many, have pushed away my avowed wife.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She never vexed me nor was angry with me, but was ever gracious to my friends and me.  
      For a dice which scored one too much, I drive away my own devoted wife.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 She wrangles not with me nor is she angry: To me and comrades she was ever kindly. For dice that only luckless throws effected I've driven away from home a wife devoted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie hat mich nie gescholten, nie war sie ärgerlich, sie war freundlich gegen die Kameraden und gegen mich. Um des Würfels willen, der um Eins zu hoch war, habe ich die treue Ehefrau von mir gestoßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie reizte mich, noch zürnte mir die Gattin, sie war mir hold, mir selbst und meinen Freunden; Des Würfels halb, der durch ein Aug' entscheidet, verstiess ich die mir treuergebne Gattin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не бранила меня, не сердилась она.  
 Благосклонна к друзьям и ко мне была.  

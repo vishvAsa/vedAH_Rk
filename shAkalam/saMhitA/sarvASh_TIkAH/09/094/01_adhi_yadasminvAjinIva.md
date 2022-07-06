@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि य꣡द् अस्मिन् वाजि꣡नीव शु꣡भ  
 स्प꣡र्धन्ते धि꣡यः सू꣡रिये न꣡ वि꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्रजं꣡ न꣡ पशुव꣡र्धनाय म꣡न्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒पः । वृ॒णा॒नः । प॒व॒ते॒ । क॒वि॒ऽयन् । व्र॒जम् । न । प॒शु॒ऽवर्ध॑नाय । मन्म॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **यत्** यदा **अस्मिन्** सोमे **वाजिनीव** **शुभः** अश्वे यथा वस्त्रप्रभृत्यलंकारा भवन्ति । यदा वास्मिन् सोमे **सूर्ये** **न** यथा सूर्ये **विशः** रश्मय उदिता भवन्ति । तदा **धियः** अङ्गुलयः **अधि** **स्पर्धन्ते** । अहं पुरस्ताच्छोधयाम्यहं पुरः शोधयामीत्यहमहमिकयोपतिष्ठन्ति । ततोऽयं सोमः **अपः** वसतीवरीः **वृणानः** आच्छादयन् **पवते** पात्रेषु क्षरति । कलशानधिगच्छति। कीदृशः । **कवीयन्** कविरिवाचरन् । यद्वा । कवयः स्तोतारः । तानिच्छन् । तत्र दृष्टान्तः। **व्रजं** **न** **मन्म** मननीयं गवां गोष्ठं **पशुवर्धनाय** पशूनां वर्धनाय गोपालः परिगच्छति । तथा देवानां प्रीणनाय पात्राणि प्रति पवत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Vie with each: spardhanti = aham purastācchodhayām yaham **puraḥ** śodhayāmītyahamahamikayopatiṣṭhanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the insightful thoughts contend over him, like adornments upon a  prizewinner, like the clans over the sun,  
 choosing the waters, he purifies himself, poetically crafting a thought like  a stable for the raising of livestock,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the unaccented asmin in pāda a, referring to Soma, who is the default referent even without a previous mention in the hymn.
 
@@ -155,23 +155,23 @@ The stem kavīyá- occurs only twice in the RV (and nowhere else), once as an ac
 part. (here), once as a middle part. kavīyámāna- in I.164.18. Nothing therefore forbids us from assuming a direct obj. with the act. form, as I have done here. The content of the simile, which compares the building of a stable or livestock enclosure to the composing of a poem, rests on the commonality often asserted in the RV between physical and mental craftsmanship and thus fits nicely with the verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHEN beauties strive for him as for a charger, then strive the songs like soldiers for the sunlight.  
      Acting the Sage, he flows enrobed in waters and song as 'twere a stall that kine may prosper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn um ihn die Dichtungen wetteifern wie die Auszeichnungen um einen siegreichen Renner, wie die Clane um die Sonne, dann läutert er sich einem Seher gleichend, indem er die Gewässer erwählt und das Gebet, wie einen Pferch zur Viehaufzucht, sich aussucht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebete eifern um ihn wie ums Streitross die schmückenden, wie Menschen um die Sonne; In Flut gekleidet strömt er hell, ein weiser, zum Lied wie in den Stall zur Heerden-Mehrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ради него состязаются молитвы,  
 Как украшения ради коня-победителя, как племена ради солнца,  

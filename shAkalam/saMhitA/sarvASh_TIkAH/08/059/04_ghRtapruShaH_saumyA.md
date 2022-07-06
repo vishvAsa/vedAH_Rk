@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृतप्रु꣡षः सउ꣡मिया जीर꣡दानवः  
 सप्त꣡ स्व꣡सारः स꣡दन ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् धत्तं य꣡जमानाय शिक्षतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; Vālakhilya
 याः । ह॒ । वा॒म् । इ॒न्द्रा॒व॒रु॒णा॒ । घृ॒त॒ऽश्चुतः॑ । ताभिः॑ । ध॒त्त॒म् । यज॑मानाय । शि॒क्ष॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtapruṣaḥ* ← *ghṛta*
 - \[noun\], neuter
@@ -118,38 +118,38 @@ genre D;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven sister-streams of the **Soma**, in the hot the offering, pour forth ghī-dripping streams of yours,O **Indra** **Varuṇa**, provide for and help the offerer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ghee-sprinkling companions of soma, possessing lively drops, the  seven sisters in the seat of truth,  
 who are ghee-dripping for you two, Indra and Varuṇa—with these  
 establish....Do your best for the sacrificer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take ádrogham adverbially with Grassmann and (apparently) Renou, while Geldner supplies an acc. of the 1st sg. pronoun to serve as goal for ā́vaha: “(Zu mir), der ohne Falsch ist, fahre …” The accent, against adj. adroghá-, may support an adverbial interpr.
 
 hitáḥ is ambiguous: it can belong either to √dhā ‘place’ (see súdhitā in c) or √hi ‘impel’, and both may be meant. It also plays off immediately preceding dhītíbhiḥ, though it cannot belong to √dhī.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schmalz spritzend, zum Soma notwendig, schnellgebend sind die sieben Schwestern an der Stätte der Wahrheit; die für euch, Indra und Varuna, Schmalz träufen, durch diese suchet dem Opfernden Geschicklichkeit zu verschaffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Butter trieft, von Tränken strömt im Sitz des Rechts der sieben Schwestern Schar mit ihrem Somatrunk; Durch sie, die euch von Fett, o Indra-Varuna, erfüllt sind, helft und schenket Gut dem Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кропящие жиром, нужные для сомы, быстро дающие  
 Семь сестер на сиденье закона,  

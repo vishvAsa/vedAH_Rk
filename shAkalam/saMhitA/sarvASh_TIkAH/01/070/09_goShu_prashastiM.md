@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡षु प्र꣡शस्तिं व꣡नेषु धिषे  
 भ꣡रन्त वि꣡श्वे बलिं꣡ सु꣡वर् णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 गोषु॑ । प्रऽश॑स्तिम् । वने॑षु । धि॒षे॒ । भर॑न्त । विश्वे॑ । ब॒लिम् । स्वः॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
@@ -76,20 +76,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “\[9-10\] **Agni**, confer excellence upon our valued cattle, and may all men bring us acceptable tribute; offering in many laces sacrifices to you, men receive riches from you, as (sons) from an aged father.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You acquire a laud among the cows and the (fire)wood.  
 All bear tribute to (you), our sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the vocabulary associated with human kingship: práśasti- ‘panegryic, laud’ and balí- ‘tribute’. Since kings receive práśastis rather than bestowing them and since the verb dhiṣe is medial (whatever else it is morphologically), the tr. of Oldenberg SBE and Geldner whereby Agni bestows the práśasti (e.g., Geldner “du legst Wert auf die Kühe, auf die Hölzer”) seem incorrect to me, esp. with the semantic bleaching of práśasti to ‘worth, value’ (Oldenberg ‘excellence’). Although the phrase is distinctly odd, I think the point of “you receive/acquire a laud among cows and firewood” is that both the butter oblations represented by the cows and the firewood make noise when in contact with fire, and this noise can be interpreted as an audible expression of praise.
 
@@ -112,27 +112,27 @@ See Proferes (pp. 47-49), esp. for the identification of the Vaiśvānara fire i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 गोषु॒ प्रश॑स्तिं॒ वने॑षु धिषे॒ भर॑न्त॒ विश्वे॑ ब॒लिं स्व॑र्णः ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 On the cows, on the trees thou hast conferred excellence. May all men bring us tribute in the sun 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du legst Wert auf die Kühe, auf die Hölzer. Alle bringen unserer Sonne den Tribut
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was herrlich, legst du – in Küh' und Bäume; sie bringen alle – Geschenk zum Heil uns; Dich ehren Männer – an vielen Orten, des greisen Vaters – Besitz vertheilend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

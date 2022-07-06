@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मन्युमीः꣡ सम꣡दनस्य कर्ता꣡  
 अस्मा꣡केभिर् नृ꣡भिः सू꣡रियं सनत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मरु꣡त्वान् नो भवतु इ꣡न्द्र ऊती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्मिन् । अह॑न् । सत्ऽप॑तिः । पु॒रु॒ऽहू॒तः । म॒रुत्वा॑न् । नः॒ । भ॒व॒तु॒ । इन्द्रः॑ । ऊ॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M;; repeated line
 शत्रुभिरपहृतासु गोषु तैः सह युद्धार्थं विनिर्गताः ऋज्राश्वादयोऽनेन सूक्तेनेन्द्रमस्तुवन् । **सः** इन्द्रः **मन्युमीः** मन्योः कोपस्य निर्माता । यद्वा । अभिमन्यमानस्य शत्रोर्हिंसकः । अपि च **समदनस्य** संग्रामस्य **कर्ता** **सत्पतिः** सतां पालयिता **पुरुहूतः** बहुभिर्यजमानैराहूतः एवंगुणविशिष्टः सः **अस्मिन्** **अहन्** अस्मिन् दिवसे **अस्माकेभिः** आस्माकैः अस्मदीयैः **नृभिः** पुरुचैः **सूर्यं** सूर्यप्रकाशं **सनत्** संभक्तं करोतु । शत्रुपुरुषैस्तु दृष्टिनिरोधकमन्धकारं संयोजयतु । स च **मरुत्वान्** **इन्द्रः** अस्माकं रक्षणाय **भवतु** ॥ मन्युमीः । मन्युं मिनातीति मन्युमीः । “ मीञ् हिंसायाम् । क्विप् । समदनस्य । सह माद्यन्त्यस्मिन्निति समदनः संग्रामः । ‘ मदी हर्षे ' । अधिकरणे ल्युट् ।' सहस्य सः संज्ञायाम् ( पा. सू. ६. ३. ७८ ) इति सभावः । अस्माकेभिः । ‘ तस्मिन्नणि च युष्माकास्माकौ ' इति अणि अस्मच्छब्दस्य अस्माकादेशः । संज्ञापूर्वकस्य विधेरनित्यत्वात् वृद्ध्यभावः। ‘ बहुलं छन्दसि ' इति भिस ऐसभावः । स्वरस्तु ' प्रास्माकासश्च सूरयः ' ( ऋ. सं. १. ९७. ३ ) इत्यत्रोक्तः । सनत् । ‘ वन षण संभक्तौ '। लेटि अडागमः । अहन् ।' सुपां सुलुक् ' इति सप्तम्या लुक् । सत्पतिः । ‘ पत्यावैश्वर्ये ' इति पूर्वपदप्रकृतिस्वरत्वम् । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M;; repeated line
 The appeal is for daylight in which to attack the enemies of Varṣāgiras, and to recover the cattle that had been stolen, or that the light may be withheld from their opponents
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, confounding the battle-fury (of the foe), the creator of the  battle-elation (of the allies), has won the sun along with our men on this very day, the lord of the settlements invoked by many.  
 – Accompanied by the Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The general opinion is that samádana- is simply an extension of samád- ‘battle’; Mayrhofer (EWA s.v. samád-) suggests that it’s a blend of samád- and samáraṇa- ‘clash, battle’. I consider it rather a blend (with suffixal extension) of samád- and máda- ‘exhilaration, elation’, hence ‘battle-elation’ or, in Renou’s felicitous tr. ‘l'ivresse-du-combat’. In a nicely balanced expression, just as Indra reduces the battle-fury of the enemy (manyu-mī́ḥ) he raises the battle-elation of those fighting with him. This notion is continued in the next verse, where in pāda a the Maruts cause Indra to enjoy the battle.
 
@@ -151,23 +151,23 @@ Geldner and Renou tr. sanat as a modal here (but not the repeated examples in vs
 The form of course cannot be a subjunctive, given the augmented thematic forms that belong to this paradigm (ásanat, etc.), and though injunctives can sometimes be modal, there is no contextual reason for such an interpretation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Humbler of pride, exciter of the conflict, the Lord of heroes, God invoked of many,  
      May he this day gain with our men the sunlight. May Indra, girt by Maruts, be our succour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vereitler der bößen Absicht, der Erreger des Streits möge mit unseren Mannen das Sonnenlicht gewinnen, an diesem Tag vielgerufen als der mächtige Herr - der Indra soll uns in Begleitung der Marut zu Hilfe kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Kampflust weckt und hemmt die Wuth der Feinde, durch unsre Männer mög' er Glanz erlangen, An diesem Tag ein vielgerufner Heerfürst, er mög' uns helfen, Indra mit den Maruts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уменьшающий ярость (врага), творец сражения,  
 Пусть завоюет солнце с нашими мужами,  

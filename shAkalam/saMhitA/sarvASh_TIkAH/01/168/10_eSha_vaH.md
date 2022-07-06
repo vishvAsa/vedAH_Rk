@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ व स्तो꣡मो मरुत इयं꣡ गी꣡र्  
 मान्दारिय꣡स्य मानिय꣡स्य कारोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । इ॒षा । या॒सी॒ष्ट॒ । त॒न्वे॑ । व॒याम् । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -117,43 +117,43 @@ genre M;; repeated line
 एषवइतिदशमीव्याख्याता ॥ १० ॥ महश्चित्त्वमित्यष्टर्चम्पञ्चमंसूक्तं ऎन्द्रमागस्त्यन्त्रैष्टुभं द्वितीयाचतुष्पदाविराट् अथचतुष्पदाविराट् दशकैरित्युक्तत्वात् विराजोदिशइति पिङ्गलनागेनसूत्रितत्वाच्च महोष्टौ द्वितीयाविराळित्यनुक्रम- णिका । समूह्ळेदशरात्रेद्वितीयेछन्दोमेमरुत्वतीये इदं विश्वजितोग्निन्नरइतिखण्डेसूत्रितम्—द्वितीय- स्यशंसामहाम्महश्चित्त्वमिन्द्रेति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This praise, **Maruts**, is for you; this hymn is for you, (the work) of a venerable author, capable of conferring delight (by his laudations); may the praise reach you for (the good of your) person ns, so that we may thence obtain food, strength and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is a praise for you, Maruts, here a hymn from Māndārya, the  respectful bard.  
 With refreshment he would beg propitiation for himself. – May we  
 know refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, this vs. is identical to I.165.15, tr. by JPB. See comm. ad I.166.15.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this your laud, may this your song O Maruts, sung by the poet Mana's son,  
      Mandarya,  
      Bring offspring for ourselves with food to feed us. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Preislied, diese Lobrede des Dichters Mandarya, des Maniden, ist für euch, Marut. Er möchte durch Nahrungsfülle für seine Person zu Nachwuchs gelangen. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Maruts, gilt dies Lied des Manasohnes, das Lob des Dichters von dem Stamm Mandāra's, Mit Labung kommt herbei zu eigner Stärkung gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот восхваление для вас, о Маруты, вот песня  
 Певца Мандарьи Маньи.  

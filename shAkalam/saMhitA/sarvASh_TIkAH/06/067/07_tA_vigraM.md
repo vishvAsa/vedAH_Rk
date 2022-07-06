@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ विग्रं꣡ धैथे जठ꣡रम् पृण꣡ध्या  
 आ꣡ य꣡त् स꣡द्म स꣡भृतयः पृण꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ य꣡त् प꣡यो विश्वजिन्वा भ꣡रन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । मृ॒ष्य॒न्ते॒ । यु॒व॒तयः॑ । अवा॑ताः । वि । यत् । पयः॑ । वि॒श्व॒ऽजि॒न्वा॒ । भर॑न्ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -128,21 +128,21 @@ genre M
 **ता** तौ मित्रावरुणौ युवां **विग्रं** प्राज्ञं यजमानम् । ‘विप्रः विग्रः' इति मेधाविनामसु पाठात् । **धैथे** धारयथः **जठरम्** उदरं **पृणध्यै** सोमेन पूरयितुम् । **यत्** यदा **सभृतयः** सह भ्रियमाणा ऋत्विजः **सद्म** यज्ञसदनम् **आ** **पृणन्ति** आपूरयन्ति । **विश्वजिन्वा** हे विश्वजिन्वानौ **यत्** यदा **पयः** जलं भवद्भ्यां प्रहितं तदा **युवतयः** नद्यः दिशो वा **न** **मृष्यन्ते** रजसा नाभिभूयन्ते । **अवाताः** अशुष्काश्च **वि** **भरन्ते** विभूतिं धारयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You two support the sage (worshipper), filling his belly when he and his dependants fill the sacrificial chamber; when sustainers of all, the rain (is sent down by you), and the young (rivers) are not obstructed, but, undried, diffuse (fertility) around.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You should appropriate the lively (soma) to fill your belly, when those  of the same pedigree [=soma-pressing fingers?] fill the seat.  
 The unsurpassable maidens [=fingers] are not neglectful when they  
 distribute their milk [=soma], o you two who enliven all.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner follows Sāyaṇa. in interpr. this vs. as referring to rain and river waters.
 
@@ -153,23 +153,23 @@ In b and c I take the feminine plurals sábhṛtayaḥ ‘of the same rearing / 
 Note another ex. of a -dhyai infinitive, though this time not as the predicated substitute for a main verb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Take the strong drink, to quaff till ye are sated, when he and his attendants fill the chamber.  
      The young Maids brook not that none seeks to win them, when, Quickeners of all! they scatter moisture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr sollet Eile machen den Leib zu füllen, wenn sie bei gleicher Pflege ihren Stand ausfüllen. Nicht vergessen es die unübertroffenen Jungfrauen, ihr Allbeleber, wenn sie ihre Milch verteilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So nehmt den starken Trank, den Bauch zu füllen, wenn euren Sitz die Speisebringer füllen; Es säumen nicht die unverletzten Jungfrau'n, wenn Milch sie euch, o Allbeleber, bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы должны взять стремительного (сому), чтобы наполнить себе живот,  
 Когда (коровы,) за которыми одинаково ухаживают, занимают (свое) место.  

@@ -8,7 +8,7 @@ title = "+064"
 ‘उत्त्वा मन्दन्तु' इति द्वादशर्चं पञ्चमं सूक्तं प्रगाथस्यार्षम् । प्राग्वत्सप्रपरिभाषया गायत्रमैन्द्रम् । ‘उत्त्वा' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 64 (673)  
 Indra  
@@ -19,7 +19,7 @@ The transparency of the hymn is produced in great part by its syntax: many of  t
 The sentiments expressed and the vocabulary are likewise uncomplex and stan dard. Only the penultimate verse (11), with its apparent references to locales for  finding soma, causes any interpretive problems.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

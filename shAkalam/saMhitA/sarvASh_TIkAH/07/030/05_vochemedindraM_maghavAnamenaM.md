@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वोचे꣡मे꣡द् इ꣡न्द्रम् मघ꣡वानम् एनम्  
 महो꣡ रायो꣡ रा꣡धसो य꣡द् द꣡दन् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यः । अर्च॑तः । ब्रह्म॑ऽकृतिम् । अवि॑ष्ठः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vocemed* ← *vocema* ← *vac*
 - \[verb\], plural, Aorist optative
@@ -133,36 +133,36 @@ genre M;; repeated line
 एषासिद्धा ॥ ५ ॥प्रवइन्द्रायेति द्वादशर्चं चतुर्दशं सूक्तं वसिष्ठस्यार्षन्त्रैष्टुभमैन्द्रं दशम्याद्यास्तिस्रोविराजः शिष्टागायत्र्यः तथाचानुक्रान्तं-प्रवोद्वादशगाय- त्रं त्रिविराळन्तमिति । सूक्तविनियोगोलैङ्गिकः । प्रथमेरात्रिपर्याये मैत्रावरुणशस्त्रे प्रवइन्द्रायेत्याद्यस्तृचः स्तोत्रियः । सूत्रितं च- प्रवइन्द्रायमादनं प्रकृतान्यृजीषिणइति । अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिशस्त्रे वयमिन्द्रत्वायवोभीत्यनुरूपस्तृचः तथा च सूत्रितं- वयमिन्द्रत्वायवोभिवार्त्रहत्यायेत्युत्तमामुद्धरेदिति । चतुर्थेहनि माध्यन्दिनसवने होत्रकशस्त्रे आरम्भणीयाभ्यऊर्ध्वंवैराजकएकस्तृचआहव- नीयः तदर्थाः प्रवोमहे महिवृधे भरध्वमित्याद्यास्तेस्रः सूत्रितं च-प्रवोमहेमहिवृधेभरध्वमिति चतस्रस्तिस्रश्च विराजइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us glorify the opulent **Indra**, that he may give us vast and valuable riches; he who is the chiefprotector of the religious rites of the worshippers; do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would proclaim him, just him: Indra the bounteous, so that he will  give to us of the largesse of great wealth,  
 he who best aids the preparation of the chanter’s sacred formulation.  – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We will address this liberal Lord, this Indra that he may grant us gifts of ample riches:  
      Best favourer of the singer's prayer and praises. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten ihn den gabenreichen Indra nennen, wenn er uns von der Gabe seines Reichtums schenkt, der die Erbauung des Preisenden allem vorzieht. - Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In diesen Tagen sei uns hülfreich, Indra; denn Feindesscharen strömen her im Glanze; Welch Unrecht an uns sieht der sündenlose, das löse alles Varuna, der weise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели б назвать его щедрым Индрой,  
 Если даст он нам из дара (своего) великого богатства,  

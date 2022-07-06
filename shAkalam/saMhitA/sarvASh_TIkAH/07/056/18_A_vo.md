@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो हो꣡ता · जोहवीति सत्तः꣡  
 सत्रा꣡चीं राति꣡म् मरुतो गृणानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अ꣡द्वयावी हवते व उक्थइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । ईव॑तः । वृ॒ष॒णः॒ । अस्ति॑ । गो॒पाः । सः । अद्व॑यावी । ह॒व॒ते॒ । वः॒ । उ॒क्थैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 हे **मरुतः** **सत्त:** होतृषदने निषण्णोऽस्मदीयः **होता** **सत्राचीं** सर्वतो गमनशीलं **रातिं** त्वदीयं दानं **गृणानः** स्तुवन् **वः** युष्मान् **आ** **जोहवीति** भृशमाह्वयति । हे **वृषणः** कामानां वर्षितारो मरुतः **यः** होता **ईवतः** गच्छतः व्यापारवतो यजमानस्य **गोपाः** **अस्ति** युष्मदाह्वाननिमित्तेन रक्षको भवति **सः** होता **अद्वयावी** मायारहितः सन् **वः** युष्मान् **उक्थैः** स्तोत्रैः **हवते** स्तौति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praising your universal liberality, **Maruts**, the ministrant priest repeatedly worships you, seated (in thesacrificial chamber); he, showerers (of benefits), who is the guardian of the zealous (worshipper), he (the priest),who is void of insincerity, glorifies you with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Hotar, once installed, keeps calling for your giving to be  completely directed hither, Maruts, while he is himself being  hymned.  
 He who is the herdsman of such (wealth), o bulls, without duplicity he  calls upon you with solemn words.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich of this vs. presents us with a common problem: the most obvious way to interpr. it meets a syntactic stumbling block that should not allow that interpr., and the standard interpr. ignore that obstruction. In this case the issue is the middle participle gṛṇānáḥ. This part. is attested over 50x; the vast majority of these attestations are clearly passive in value. In fact, Grassmann interpr. only 2 forms as “medial” (that is, transitive, not passive): this passage and I.181.9.
 
@@ -155,23 +155,23 @@ As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The priest, when seated, loudly calls you, Maruts, praising in song your universal bounty.  
      He, Bulls! who hath so much in his possession, free from duplicity, with hymns invokes you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hotri erfleht, nachdem er sich gesetzt hat, preisend eure vereinte Gabe, ihr Marut. Er, der Hüter eines Opferers gleich diesem, ruft euch aufrichtig mit Lobliedern an, ihr Bullen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch ruft herbei der Priester auf dem Sitze, und preist euch an die mannichfache Gabe; Auch er, der solchen Mann beschützt, o Helden, er ruft euch an mit Sprüchen ohne Falschheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

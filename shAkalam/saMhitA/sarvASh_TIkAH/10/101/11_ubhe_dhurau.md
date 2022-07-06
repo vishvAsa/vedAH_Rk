@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभे꣡ धु꣡रौ व꣡ह्निर् आपि꣡ब्दमानो  
 अन्त꣡र् यो꣡नेव चरति द्विजा꣡निः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ षू꣡ दधिध्वम् अ꣡खनन्त उ꣡त्सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वन॒स्पति॑म् । वने॑ । आ । अ॒स्था॒प॒य॒ध्व॒म् । नि । सु । द॒धि॒ध्व॒म् । अख॑नन्तः । उत्स॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
@@ -123,37 +123,37 @@ popular
 हविर्धानशकटस्य **उभे** **धुरी** **आपिब्दमानः** आपिशब्दमानः **वह्निः** हविर्वाहकोऽनड्वान् **योनौ** **अन्तः** **इव** **द्विजानिः** द्विजायः तयोरन्तः **चरति** । तं **वनस्पतिं** वनस्पतिविकारं शकटं **वने** वनसंबन्धिनि वृक्षे । मेथीभूत इत्यर्थः । तत्र **आस्थापयध्वम्** । यद्वा । वने वननीये देश आस्थापयध्वम्। तत्पश्चात् तत्रत्यं सोमं **सु** सुष्ठु **नि** दधिध्वं सुखं यथा भवति तथा स्थापयतासन्द्याम् । अभिषवप्रदेशे च पश्चात् **उत्सं** तद्रसम् **अखनन्तः** संपादयतेत्यर्थः। अथवायमपि मन्त्रः कर्षणपरो व्याख्येयः । यस्य लाङ्गलस्योभे धुरावापिब्दमानोऽपिशब्दमानो वह्निरनड्वान् अन्तर्योनाविवेत्यादि समानम् । तादृशं वनस्पतिं वनस्पतिविकारं लाङ्गलं वने वननीये वपनार्थं कर्षणप्रदेश आस्थापयध्वम् । सु सुष्ठु सर्वत्र तं लाङ्गलं नि दधिध्वम् । उत्सं सेकसाधनं गर्तं सिक्तं वा प्रदेशमखनन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The beast of burden pressed with the two cart-poles, moves as if on the womb of sacrifice having twowives. plural ce the chariot in the wood, without digging store up the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The plodding draft-animal goes between the two chariot-poles like a  man with two wives in bed [/into the vulva].  
 Make the lord of the wood [=tree/soma] stand in the wood. Set (it)  
 down well, without digging out the spring.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Between both poles the car-horse goes pressed closely, as in his dwelling moves the doubly-wedded.  
      Lay in the wood the Soviran of the Forest, and sink the well although ye do not dig it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwischen beiden Deichseln bewegt sich fest auftretend das Zugtier, gleich einem Mann mit zwei Frauen im Bett. Stellet den Baum auf das Holz, leget fein einen Brunnen an, ohne zu graben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest eingefasst geht zwischen beiden Stangen das Zugthier wie ins Bett der zweibeweibte; Stellt in das Holz hin fest den Herrn des Holzes, obwol nicht grabend senkt den Brunnen nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Движется между обоих дышел зажатый тяжеловоз,  
 Словно муж с двумя женами – между двух лон.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिभिः꣡ पवि꣡त्रैर् अ꣡पुपोद् धि꣡ अर्कं꣡  
 हृदा꣡ मतिं꣡ ज्यो꣡तिर् अ꣡नु प्रजान꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡द् द्या꣡वापृथिवी꣡ प꣡र्य् अपश्यत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वर्षि॑ष्ठम् । रत्न॑म् । अ॒कृ॒त॒ । स्व॒धाभिः॑ । आत् । इत् । द्यावा॑पृथि॒वी इति॑ । परि॑ । अ॒प॒श्य॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, neuter
@@ -130,7 +130,7 @@ genre M
 सर्वात्मकः अग्निः **हृदा** अन्तःकरणवृत्त्या **मतिं** मननीयं **ज्योतिः** स्वप्रकाशरूपं परब्रह्माख्यं तेजः **अनु** **प्रजानन्** श्रवणमननादिक्रमेण प्रकर्षेण संशयविपर्यासभावनाबुद्धिनिरासेन स्वात्मरूपतया जानानः सन् **पवित्रैः** पावनैः **त्रिभिः** अग्निवायुसूर्यैः **अर्कम्** अर्चनीयं स्वात्मानम् अपुपोद्धि तेभ्योऽपि निर्मलतया पावनं परिचिच्छेद खलु । यथा दशपवित्रेण सोमं पावयति तद्वत् । एवं जानानोऽग्निः **वर्षिष्ठं** स्वात्मानमुत्तमं **स्वधाभिः**। स्वेन लोकान् दधातीति स्वधा । तैरग्निवायुसूर्यैः **रत्नं** रमणीयम् **अकृत** अकार्षीत् । आदित् अनन्तरमेवमात्मनि ज्ञाते सति **द्यावापृथिवी** तत्र परिकल्पिते द्यावापृथिव्यौ तदुपलक्षितं सर्वं जगत् पर्यपश्यत् । परितः सर्वतः स्वात्मतया' अदर्शत् । 'आत्मनि विज्ञाते सर्वमिदं विज्ञातं भवति' इति श्रुतेः ॥ पवित्रैः । ‘ पृञ् पवने' । अस्मात् “ कर्तरि चर्षिदेवतयोः ' ( पा. सू. ३. २. १८६ ) इति देवतायामभिधेयायां कर्तरि इत्रप्रत्ययः । पुनन्तीति पवित्रा अग्निवायुसूर्याः । प्रत्ययस्वरः । अपुपोत् । 'पूञ् पवने' इत्यस्य यङ्लुगन्तस्य रूपम् । संज्ञापूर्वकस्य विधेरनित्यत्वात अभ्यासस्य गुणाभावः । ‘ यद्धितुपरं छन्दसि' ( पा, सू. ८, १, ५६ ) इति न निघातः । अर्कम् ।' अर्च पूजायाम्'। 'कृदाधारार्चिकलिभ्यः कः' इति कप्रत्ययः । हृदा । हृदयशब्दस्य ‘ पद्दन्नोमास्' इत्यादिना हृदादेशः । मतिम् । 'मन ज्ञाने'। ' मन्त्रे वृषेषपच' ' इत्यादिना कर्मणि क्तिन् उदात्त:  । अकृत । करोतेर्लुङि सिच् । तस्य 'ह्रस्वादङ्गात्  इति लोपः । द्यावापृथिवी । ' देवताद्वन्द्वे च ' इत्युभयपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,35 +141,35 @@ genre M
 Having by self-contemplation recognized his identity with the three manifestations, Agni, **Vāyu** and **Āditya**, he comes to know his identity with the universe, as by the text, ātmani vijñāte sarvam idam vijñātam **bhavati**, the self being known, all this (universe) is known
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since he [=Agni?] purified the chant with three purifying filters,  
 discovering understanding and light with his heart,  
 he made for himself the highest treasure by his own will, and then he  surveyed heaven and earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing in mind a thought with light accordant, he purified the Sun with three refinings;  
      By his own nature gained the highest treasure, and looked abroad over the earth and heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 With three purifying strainers he (Agni) purified the song, with his heart the thought, discovering the light. The mightiest treasure he produced by the powers of his own nature, and then he looked over heaven and earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Weil er mit drei Sieben das Preislied gesiebt hat, im Herzen den Weg zu dem Gedanken, zum Licht findend, hat er sich aus eigener Kraft das höchste Kleinod verdient und er überschaute Himmel und Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch drei Entflammer liess ja Licht er flammen, im Herzen Weisheit, hellen Glanz erweisend; Die höchste Pracht errang durch eigne That er, drauf schaute er den Himmel an, die Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раз он очистил песнь тремя (очищающими) цедилками,  
 Сердцем находя путь к молитве, к свету,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस् तु꣡जो बर्ह꣡णा आ꣡ विवेश  
 नृव꣡द् द꣡धानो न꣡रिया पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रे꣡मं꣡ व꣡र्णम् अतिरच् छुक्र꣡म् आसाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अचे॑तयत् । धियः॑ । इ॒माः । ज॒रि॒त्रे । प्र । इ॒मम् । वर्ण॑म् । अ॒ति॒र॒त् । शु॒क्रम् । आ॒सा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indras* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 स तादृश इन्द्रस्तुजो बाधिका बर्हणा युद्धोत्साहेन वर्धन् ानाः परकीयाः सेना नृवन्मनुष्यवदा विवेश । प्रकाशं लब्ध्वा प्राविशत् । किं कुर्वन् । पुरूणि बहूनि नर्या युद्धनयनकारिणां योग्यानि धनानि दधानः प्रयच्छन्नाविवेश । स इन्द्रो जिरित्रे स्तोत्र इमा दृश्यमान धिय उषसः । ध्यायन्त्यासु मनुश्या इशि । ता धियोऽचेतयत् । अज्ञापयत् । अथासामुषसामिमं शुक्रं वर्णं प्रकाशेन युक्तं प्रातिरत् । स्वतेजसा प्रकर्षेण वर्धयति । धीशब्दस्योषः परत्वे मन्त्रवर्णः । शुक्रवर्णामुदु नो यंसते धियम् । ऋग्वे. १-१४३-७ । इति । तुजः । तुज हिंसायाम् । क्विप् । धातुस्वरः । बर्हणाः । वृहि व्रुद्धौ । अस्माद्युच् । बहुलमिति कर्तरि युच् । व्यत्ययेनाद्युय्दात्तत्वम् । विवेश । विशेतेर्लिटि रूपम् । निघातः । नृवत् । नृशब्दात्तेन तुल्यमिति वतिप्रत्ययः । तस्य स्वरः । दधानः । दधातेः शानचि रूपम् । अभ्यस्तानामादिरित्याद्युदात्तत्वं नर्या । नरेषु साधूनीत्यर्थे तत्र साधुरिति यत् । यतोऽनाव इत्याद्युदात्तत्वम् । अचेतयत् । चिती सञ्ज्ञान इत्यस्य ण्यन्तस्य लङि रुपम् । अडागमस्वरः । धियः । ध्यै चिन्तायाम् । अन्येभ्योऽपि दृश्यत इति क्विप् । दृशिग्रहणात्सम्प्रसारनम् । धातुस्वरः । इमाः । दश्च । पा. ७-२-१-९ । इति दकारस्य मकारः । एकादेशस्वरः । अतिरत् । तरतेर्व्यत्ययेन शः । निघातः । आसाम् । इदमोऽन्वादेशेऽशित्यशादेशोऽनुदात्तश्च । प्रत्ययः सुप्त्वादनुदात्तः । अतः सर्वानुदात्तः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** entered the confiding hostile (hosts) like a man distributing many (gifts) to (his) leaders; he has animated these dawns for the worshipper, and heightened their bright radiance (by his own).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra “got into” mighty thrusts, manfully assuming his many manly  (powers).  
 He made these insights perceptible to the singer; he extended this bright  hue of theirs [=insights].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The metaphorical use of viveśa ‘entered’ + an action (‘thrusts’) reminds me of the somewhat slangy English “get into” for “become enthusiastic about / energetically do (some action).” The stem barháṇā- otherwise only appears as an adverbial instr. ‘mightily’, and I am tempted to take it so here (as Witzel Gotō seem to do), rather than as the acc. pl.
 
@@ -146,23 +146,23 @@ assumed in the published translation However, the sandhi context is against this
 For insights having bright color or hue, see the passages adduced by him (n. 5d): I.143.7 śukrávarṇām dhíyam and III.39.2, where dhī́- wears silver garments. The várṇam here plays off áryam várṇam in 9d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forward to fiercely falling blows pressed Indra, herolike doing many hero exploits.  
      These holy songs he taught the bard who gaised him, and widely spread these Dawns' resplendent colour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra geriet in Ungeduld, in Eifer, der wie ein Mann viele Mannestaten vollbringt. Er gab dem Sänger diese Gedanken ein und erhöhte deren reine Form.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es nahm sich Indra ungestüme Kräfte, erringend mannhaft viele Mannesstärke, Dem Sänger zeigt' er diese Andachtlieder und machte hell der dunklen Nächte Farbe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра предался насилиям (и) разрушениям,  
 Подобно мужу, совершающему многие мужественные деяния.  

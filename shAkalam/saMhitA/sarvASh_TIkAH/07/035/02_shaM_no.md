@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो भ꣡गः श꣡म् उ नः शं꣡सो अस्तु  
 शं꣡ नः पु꣡रंधिः श꣡म् उ सन्तु रा꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नो अर्यमा꣡ पुरुजातो꣡ अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । स॒त्यस्य॑ । सु॒ऽयम॑स्य । शंसः॑ । शम् । नः॒ । अ॒र्य॒मा । पु॒रु॒ऽजा॒तः । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -155,7 +155,7 @@ genre D
 **नः** अस्माकं **शं** शान्त्यै **भगः** देवः **अस्तु** भवतु । **नः** अस्माकं **शमु** शान्त्या एव **शंसः** नराशंसोऽस्तु भवतु । **नः** अस्माकं **शं** शान्त्यै **पुरंधिः** बहुधीरप्यस्तु । **रायः** धनान्यपि **शमु** शान्त्या एव **सन्तु**। **नः** अस्माकं **सुयमस्य** शोभनयमयुक्तस्य **सत्यस्य** **शंसः** वचनमपि **शम्** अस्तु । **नः** अस्माकं **शं** शान्त्यै **पुरुजातः** बहुप्रादुर्भावः **अर्यमा** देवोऽपि **अस्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -168,36 +168,36 @@ genre D
 Purandhi= the possessor of much intelligence
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us Fortune, and luck for us be Laud. Luck for us Plenitude  and luck be Riches.  
 Luck for us the Laud of what is real and easy to guide; luck for us be  Aryaman, born many times.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In a and c the provider of luck is śáṃsaḥ ‘Laud’, a clear play on the ubiquitous śám. In c śáṃsaḥ is the head of a NP with dependent gen.: satyásya suyámasya.
 
 In d Geldner renders purujātáḥ as “der viele Nachkommen hat,” but given the form of this cmpd., this can hardly be correct. Cmpds. of the shape puru-PAST PPL (+ACCENT), like frequent puru-ṣṭutá-, puru-hutá-, mean ‘much Xed’ or ‘Xed by many’, and in cmpds. with jāta- as 2nd member, -jāta- means ‘born, generated’ not ‘offspring’. Renou, who tr. “aux nombreuses naissances,” suggests that Aryaman is so qualified because of his association with marriage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious Friends to us be Bhaga, Sathsa, auspicious be Purandhi aid all Riches;  
      The blessing of the true and well-conducted, and Aryaman in many forms apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns Bhaga und zum Glück uns Samsa sein, zum Glück sollen uns Purandhi, zum Glück die Reichtümer sein; zum Glück uns das Wort der lenksamen Wahrheit, zum Glück soll uns Aryaman sein, der viele Nachkommen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heile sei uns Bhaga, sei uns Çansa, zum Heil die Güter und die Segensfülle, Zum Heil das Lob des wahren, leichtgelenkten; zum Heil uns Arjaman, der oft erneute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам Бхага, и на счастье пусть будет нам Произнесение!  
 На счастье нам Пурамдхи, и на счастье пусть будут Богатства!  

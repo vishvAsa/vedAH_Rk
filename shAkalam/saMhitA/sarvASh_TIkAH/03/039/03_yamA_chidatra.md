@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यमा꣡ चिद् अ꣡त्र यमसू꣡र् असूत  
 जिह्वा꣡या अ꣡ग्रम् प꣡तद् आ꣡ हि꣡ अ꣡स्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तमोह꣡ना त꣡पुषो बुध्न꣡ ए꣡ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वपूं॑षि । जा॒ता । मि॒थु॒ना । स॒चे॒ते॒ इति॑ । त॒मः॒ऽहना॑ । तपु॑षः । बु॒ध्ने । आऽइ॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yamā* ← *yama*
 - \[noun\], accusative, dual, masculine
@@ -136,7 +136,7 @@ genre M
 प्रसंगादुषःकालं प्रशंसति । **यमसूः** । यमौ यमलौ सूत इति यमसूरुषोभिमानिनी देवता । सा **यमा** यमलावश्विनौ **अत्र** उषःकाले **असूत** । अश्विनोस्तत्र शस्यमानत्वात्तावश्विनौ स्तोतुं मम **जिह्वायाः** **अग्रं** **पतत्** चञ्चलम् **आ** **अस्थात्** **हि** तिष्ठति खलु । **तमोहना** तमसो हन्तारौ **तपुषः** । तपस्यस्मिन् सूर्य इति तपुः दिवसः। तस्य **बुध्ने** मूले **एता** एतावागतौ **मिथुना** परस्परं  संगतौ तावश्विनौ जाता उत्पन्नानि **वपूंषि** । उप्यन्ते निधीयन्ते इति वपूंषि उषःकाले क्रियमाणानि शस्त्रादीनि कर्माणि । **सचेते** संगच्छतः ॥ यमसूः। ‘षूङ् प्राणिगर्भविमोचने' इत्यस्य क्विप्। कृदुत्तरपदस्वरः। असूत । तस्यैव धातोर्लङि अदादित्वाच्छपो लुक् । निघातः । पतत् ।' पत्लृ गतौ ' । शतुर्लसार्वधातुकस्वरे धातुस्वरः । अस्थात् । ष्ठा गतिनिवृत्तौ' । लुङि रूपम् । हियोगादनिघातः । वपूंषि । ‘ डुवप् बीजसंताने' । ‘अर्तिपॄवपियजितनिधनितपिभ्यो नित्' इति उसिप्रत्ययः । ‘ निच्च ' इत्युक्तत्वादाद्युदात्तः । सचेते । षच समवाये' इत्यस्य लटि रूपम् । तपुषः । तप संतापे ' । ‘ अर्तिपॄवपि °' इत्यादिना उसिः । बुध्ने । बन्ध बन्धने' । ‘बन्धेर्ब्रधिबुधी च ' ( उ. सू. ३. २८५ ) इति नक्प्रत्ययः । ब्रधिबुधी एतावादेशौ धातोः । प्रत्ययस्वरः । एता । ‘ इण् गतौ' इत्यस्य कर्मणि निष्ठा । ' गतिरनन्तरः' इति गतेः स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ genre M
 At the origin of the day: the aśvins are worshipped at the morning ceremony
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She, as bearer of twins, bore her twins [=R̥c and Sāman?] just here. In  soaring, (she) has mounted the tip of the tongue.  
 The pair, once born, accompany the wondrous forms (of Agni)—the two,  smashing the darkness, have come here to the base of scorching (Agni).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this vs. is a definitional truism: the cmpd. serving as subject, yama-sū́ḥ ‘twin-bearing’, is split into its component parts in the VP, yamā́… asūta ‘bore twins’. The question is who are the twins. Given the context, I find Oldenberg’s suggestion (fld. by Renou) that this is a metaphor for speech production and that the twins are, perhaps, the verse (ṛ́c-) and sāman more plausible than Geldner’s interpr. (flg.
 
@@ -168,23 +168,23 @@ Unfortunately the verse-and-sāman interpr. does not fit as well in pāda d, whe
 Since I think there is good support for the verse-and-sāman interpr. in the rest of the vs., I would argue that these forms of ritual speech are called smashers of darkness because of their role in the dawn sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Mother of the Twins hath borne Twin Children: my tongue's tip raised itself and rested silent.  
      Killing the darkness at the light's foundation, the Couple newly born attain their beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch Zwillinge hat da die Zwillingsmutter geboren - der fliegende Gedanke ist jetzt auf die Spitze der Zunge getreten. Als ein Paar geboren sind sie der Schönheit gesellt. Die beiden Dunkelvertreiber haben sich nach der Glut des Feuers eingestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Dämmerung gebar die Zwillingsbrüder; da stieg das Lied rasch auf der Zunge Spitze; Zu Glanz gelangten da die Zwillingssöhne, das Dunkel schlagend hin zum Grund der Lichtglut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Родительница близнецов близнецов тут и произвела на свет:  
 Ведь летя она взобралась на кончик языка.  

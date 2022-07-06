@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ नः से꣡तुः सिषेद् अय꣡म्  
 महे꣡ वृणक्तु नस् प꣡रि  
 इ꣡न्द्र इ꣡द् धि꣡ श्रुतो꣡ वशी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । इत् । हि । श्रु॒तः । व॒शी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -95,20 +95,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नः** अस्मान् **सेतुः** बन्धको जालः **मा** **सिषेत्** मा बध्नातु । **नः** अस्मान् **महे** महते कर्मणे **परि** **वृणक्तु** परिवर्जयतु जालात् । कः । **इन्द्र** **इत्** इन्द्र एव **श्रुतः** विश्रुतः **वशी** सर्वस्य वशीकर्ता । स परि वृणक्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the snare bind us; may **Indra**, the renowned, the subduer of all, deliver us for a glorious act.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let this fetter here not bind us; let it avoid us for our great (good  fortune?),  
 for only Indra is famous for imposing his will.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What to supply with mahé is somewhat up in the air, but some equivalent of Geldner’s “Glück” seems harmless enough.
 
@@ -117,23 +117,23 @@ I don’t understand Indra’s role here. Is the idea that Varuṇa & Co. should
 In any case the theme of binding recurs in this hymn; cf. vss. 14, 18.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not this fetter bind us fast: may he release us for success;  
      For strong is Indra and renowned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll uns diese Fessel fesseln; sie soll uns zu großem Glück verschonen. Indra ist als der Machthaber berühmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht fessle diese Fessel uns, sie löse sich zu unserm Heil; denn Indra wird als stark gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть эта привязь нас не свяжет,  
 Пусть пощадит нас на великое (счастье)!  

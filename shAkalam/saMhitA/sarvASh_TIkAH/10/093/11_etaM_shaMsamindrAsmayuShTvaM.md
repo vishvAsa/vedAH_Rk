@@ -6,7 +6,7 @@ ChandaH = "न्यङ्कुसारिणी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतं꣡ शं꣡सम् इन्द्रास्मयु꣡ष्  
 ट्वं꣡ कू꣡चित् स꣡न्तं सहसावन्न् अभि꣡ष्टये  
@@ -14,7 +14,7 @@ ChandaH = "न्यङ्कुसारिणी"
 मेद꣡तां वेद꣡ता वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 मे॒दता॑म् । वे॒दता॑ । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -101,36 +101,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे वसो वासयितः **सहसावन्** बलवन् **इन्द्र** **अस्मयुः** अस्मान्कामयमानः **त्वं** **कूचित्** क्वचिदपि **सन्तं** स्थितम् **एतम्** इमं **शंसं** स्तोतारम् **अभिष्टये** अभिलषितसिद्ध्यर्थमपि च **अभिष्टये** यागार्थं **सदा** सर्वदा **पाहि** रक्ष । किंच **वेदता** त्वदीयेन प्रज्ञानेन स्तोतारं मां **मेदतां** बुध्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty **Indra**, do you, who are well affected towards us, ever protect this worshipper wherever he maybe, so that he may attain his desire; instrumental uct me, **Vasu**, by your wisdom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, inclined toward us, (come?) to this laudation, wherever it may  be, for our dominance, mighty one.  
 Always protect (us) for our dominance. Let our acquisition fatten, o  good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This speaker, Indra-for thou art our Friend-wherever he may be, guard thou, Victor! for help, ever for help  
      Thy wisdom, Vasu! prosper him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Rede nimm uns zugetan, gewaltiger Indra, daß sie wo auch immer überlegen sei, jederzeit in Obhut, daß sie überlegen sei! Sie soll an Weisheit fett werden, o Gütiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen Sänger, o Indra, beschirme du, der du uns liebst, wo er auch sei, o siegreicher, zur Förderung, stets ihn zur Förderung, er werde fett [reichlich belohnt] durch Reichthum, o guter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

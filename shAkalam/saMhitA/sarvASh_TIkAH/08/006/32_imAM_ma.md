@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡म् म इन्द्र सुष्टुतिं꣡  
 जुष꣡स्व प्र꣡ सु꣡ मा꣡म् अव  
 उत꣡ प्र꣡ वर्धया मति꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । प्र । व॒र्ध॒य॒ । म॒तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -94,36 +94,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **इमां** पुरोवर्तिनीं **मे** मदीयां **सुष्टुतिं** शोभनां स्तुतिं **जुषस्व** सेवस्व । सेवित्वा च स्तोतारं **मां** **सु** शोभनं **प्र** **अव** प्रकर्षेण रक्ष। **उत** अपि च **मतिं** अस्मदीयां बुद्धिं **प्र** **वर्धय** प्रवृद्धां कुरु । यथा बह्वर्थदर्शिनी भवति तथा कुर्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be propitiated, **Indra**, by this my praise; carefully protect me, and give increase to my understanding.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy this good praise of mine, Indra. Promote me,  
 and strengthen my thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept this eulogy of mine, Indra, and guard me carefully:  
      Strengthen my thought and prosper it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hab an diesem Loblied von mir Gefallen, Indra, und hilf mir fein weiter und bestärke unsere Absicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass, Indra, dir mein schönes Lob gefallen, unterstütze mich, Und kräftige die Einsicht mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этой моей прекрасной хвалой, о Индра,  
 Наслаждайся! Помоги мне хорошенько  

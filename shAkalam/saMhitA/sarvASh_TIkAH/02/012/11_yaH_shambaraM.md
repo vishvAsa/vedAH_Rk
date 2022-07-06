@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ श꣡म्बरम् प꣡र्वतेषु क्षिय꣡न्तं  
 चत्वारिंश्यां꣡ शर꣡दि अन्व꣡विन्दत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दा꣡नुं श꣡यानं स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ओ॒जा॒यमा॑नम् । यः । अहि॑म् । ज॒घान॑ । दानु॑म् । शया॑नम् । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 यःपर्वतेषुक्षियन्तंइन्द्रभियाबहून्संवत्सरान् प्रच्छन्नोभूत्वापर्वतगुहासुनिवसन्तंशम्बरंएतन्नामकं- मायाविनमसुरञ्चत्वारिंश्यांशरदि चत्वारिंशेसंवत्सरेअन्वविन्दत् अन्विष्यालभत लब्ध्वाचयः ओजा- यमानं कर्तुःक्यङ्सलोपश्च ओजसोप्सरसोनित्यमितिसकारलोपः बलमाचरन्तंअहिंआहन्तारं दानुं- दानवं शयानंशम्बरमसुरञ्जघान हतवान्सइन्द्रोनाहमिति ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,14 +123,14 @@ Who slew Ahi: ahi = the slayer, āhantāram;
 Um = son of Dānu; both are epithets of Śambara
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who in the fortieth autumn discovered Śambara dwelling in the  mountains,  
 who smashed the serpent displaying its strength, the son of Dānu,  
 (thereby) lying (dead) – he, o peoples, is Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
 <details open><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -140,28 +140,28 @@ Note the phonological sequence, with several different interlocking repetitions:
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who discovered in the fortieth autumn Sambara as he dwelt among the mountains;  
      Who slew the Dragon putting forth his vigour, the demon lying there, He, men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He who detected in the fortieth autumn Śambara dwelling far among the mountains; Who slew the serpent that put forth his vigour. The demon as he lay: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der den Sambara, als er im Gebirge hauste, im vierzigsten Herbst auffand, der den gewaltigen Drachen, den Danu, wie er dalag, erschlug - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Çambara, den auf den Bergen ruhnden, im viermalzehnten Herbste endlich auffand, Und schlug den Ahi, wie er sich auch mühte, den Feind im Nest, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто Шамбару, живущего в горах,  
 Отыскал в сороковую осень,  

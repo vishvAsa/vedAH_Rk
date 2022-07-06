@@ -8,7 +8,7 @@ title = "+075"
 ‘अभि प्रियाणि ' इति पञ्चर्चमष्टमं सूक्तं भार्गवस्य कवेरार्षं जागतं पवमानसोमदेवताकम् । तथानुक्रम्यते-’ अभि प्रियाणि पञ्च कविः' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 75 (787)  
 Soma Pavamāna  
@@ -19,7 +19,7 @@ The remaining three verses are more conventionally concerned with the prepara ti
 This hymn and the four following (IX.75–70) are attributed to the same poet as  the gāyatrī hymns IX.47–49.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md">
 <details open><summary><h2>068-086 ...{Loading}...</h2></summary>

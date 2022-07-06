@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ न इ꣡न्द्रः पृथिवी꣡ क्षा꣡म वर्धन्  
 पूषा꣡ भ꣡गो अ꣡दितिः प꣡ञ्च ज꣡नाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वन्तु नः सुत्रात्रा꣡सः सुगोपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽशर्मा॑णः । सु॒ऽअव॑सः । सु॒ऽनी॒थाः । भव॑न्तु । नः॒ । सु॒ऽत्रा॒त्रासः॑ । सु॒ऽगो॒पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -139,20 +139,20 @@ genre M
 **ते** देवाः **नः** अस्माकं **क्षाम** निवासभूमिं **वर्धन्** वर्धयन्तु । के ते। **इन्द्रः** **पृथिवी** च **पूषा** च **भगः** च **अदितिः** अदीना देवमाता च **पञ्च** **जनाः** ‘देवमनुष्याणां गन्धर्वाप्सरसाम्' ( ऐ. ब्रा. ३. ३१ ) इत्यादिब्राह्मणोक्ता देवमनुष्यादयश्च ते च **नः** अस्मदर्थं **सुशर्माणः** सुसुखाः **स्ववसः** शोभनान्नाः **सुनीथाः** सुप्रापणाश्च **भवन्तु** । अस्मभ्यं शोभनसुखादिकं प्रयच्छन्त्विति भावः। तथा **सुत्रात्रासः** सुष्ठु त्रातारः **सुगोपाः** शोभनगोपायितारश्च भवन्तु । उपस्थितेभ्यः शत्रुभ्यो रक्षणं त्राणम् । तेषामुत्पत्तिनिरोधेन रक्षणं गोपनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they, **Indra**, Earth, **Pūṣan**, **Bhaga**, **Aditi** and the five orders of beings, give increase to our habitations; may they be to us granters of happiness, bestowers of food, guides to good, our gracious defenders and preservers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They strengthen our earthly realm—Indra, Earth, Pūṣan, Bhaga, Aditi,  the Five Peoples.  
 Affording good shelter, good help, good guidance, let them be good  herdsmen for us, offering us good protection.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation seems to suggest an etymological relationship between “earthly realm” and “Earth,” but in fact they are lexically distinct: kṣā́ma and pṛthivī́, though adjacent.
 
@@ -163,23 +163,23 @@ Both Geldner and Renou take the injunc. vardhan as modal “may they / let them 
 The 2nd hemistich contains 5 cmpds with su- as first member, all but the last bahuvrīhis, as Renou points out. The odd-man-out is sugopā́ḥ ‘good herdmen’. All 5 have accent on the 2nd member.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they, Earth, Aditi, Indra, Bhaga, Pusan increase our laud, increase the Fivefold people.  
      Giving good help, good refuge, goodly guidance, be they our good deliverers, good protectors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die mögen unseren Wohnsitz zum Gedeihen bringen: Indra, die Erde, Pusan, Bhaga, Aditi, die fünf Völker; sie sollen uns gute Schützer, gute Helfer, gute Weiser, gute Schirmer, gute Hirten sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen uns stärken: Indra, die Erde, der Erdboden, Puschan, Aditi, die fünf Geschlechter; sie mögen uns schönschirmend, schön helfend, schön leitend, schön schützend, schön behütend sein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть увеличат они наше место поселения: Индра, Земля,  
 Пушан, Бхага, Адити, пять народов!  

@@ -8,7 +8,7 @@ title = "+026"
 ‘श्रुधी न इन्द्र' इत्यष्टर्चं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रम्यते- श्रुधी नोऽष्टौ ' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 26 (467)  
 Indra  
@@ -19,7 +19,7 @@ dents, with the same, often obscure names, are found in both hymns. The final tw
 Stylistically noteworthy is the regular fronting of the personal pronoun. Beginning  with verse 2, every half-verse through 5a has a fronted form of the 2nd-person sin gular pronoun “you” (and usually another one in an even pāda: 2d, 3b, 4d), either  nominative tuvám or accusative tvā́m. The rest of verse 5 briefly breaks the pat tern, which returns in verse 6. Then, interestingly, the 1st person asserts itself: 7a  ahám “I”, 8a vayám “we,” with 2nd-person genitive táva (7b) and instrumental  tváyā (7c) interspersed. This distribution corresponds to the thematic structure of  the hymn, with the recounting to Indra of his own deeds followed by requests of  him by us mortals on our own behalf. Verse 7 brings the 1st person “I” and 2nd  person “you” into happy conjunction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra On the various stylistic tics of this hymn, see published introduction.
 </details>

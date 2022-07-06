@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नृच꣡क्षा असि सोम विश्व꣡तः  
 प꣡वमान वृषभ ता꣡ वि꣡ धावसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वयं꣡ सियाम भु꣡वनेषु जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । प॒व॒स्व॒ । वसु॑ऽमत् । हिर॑ण्यऽवत् । व॒यम् । स्या॒म॒ । भुव॑नेषु । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -127,20 +127,20 @@ genre M
 हे **सोम** **त्वं** **विश्वतः** सर्वतः सर्वेषु भुवनेषु **नृचक्षाः** नॄणां द्रष्टा **असि** भवसि । हे **पवमान** **वृषभ** अपां वर्षक **ताः** अपः **वि** **धावसि** विविधं गच्छसि। **सः** त्वं **नः** अस्माकं **पवस्व** क्षर। किम् । **वसुमत्** बहुभिर्वसुभिर्वासकैर्गवादिद्रव्यैर्युक्तं तथा **हिरण्यवत्** बहुभिर्हिरण्यैर्युक्तं धनम् । **वयं** च वसुभिर्हिरण्यैर्युक्ताः **भुवनेषु** लोकेषु **जीवसे** जीवितुं प्रभवः **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, are everywhere, the contemplator of men; you, **Pavamāna**, the showerer, hasten to these (waters); do you pour forth upon us (wealth), comprising various treasures and gold; may we be (able) to live in the worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, are one whose gaze is on men on every side. Purifying  yourself, bull, you run across these (worlds).  
 Purify yourself in a manner rich in goods and gold for us. May we be  (fit) to live in the worlds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the -mat and -vat forms adverbially.
 
@@ -157,23 +157,23 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, thou beholdest men from every side: O Pavamana, Steer, thou wanderest through these.  
      Pour out upon us wealth in treasure and in gold: may we have strength to live among the things that be.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du richtest nach allen Seiten dein Herrenauge, Soma, Pavamana, du Bulle durcheilst diese Welten. Läutere du uns Besitz von Gut und Gold zu! Wir wollen unter den Geschöpfen zu leben ausersehen sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist, o Soma, männerschauend überall, du Stier durchströmst hellleuchtend diese ganze Welt; So riesle du uns reiches Gut und Gold herbei, und langes Leben werd' uns in der Welt zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

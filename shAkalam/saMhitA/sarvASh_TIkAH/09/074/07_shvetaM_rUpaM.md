@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्वेतं꣡ रूपं꣡ कृणुते य꣡त् सि꣡षासति  
 सो꣡मो मीढ्वाँ꣡ अ꣡सुरो वेद भू꣡मनः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिव꣡स् क꣡वन्धम् अ꣡व दर्षद् उद्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 धि॒या । शमी॑ । स॒च॒ते॒ । सः । ई॒म् । अ॒भि । प्र॒ऽवत् । दि॒वः । कव॑न्धम् । अव॑ । द॒र्ष॒त् । उ॒द्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śvetaṃ* ← *śvetam* ← *śveta*
 - \[noun\], accusative, singular, neuter
@@ -143,21 +143,21 @@ genre M
 **श्वेतं** दीप्यमानं शुक्लं **रूपं** **कृणुते** तदा करोति **यत्** यदा **सिषासति** स्वर्गं संभक्तुमिच्छति । सोमे पात्राण्यागते सति तत्तेजसानुरञ्जितानां तेषां श्वेतं रूपं भवति । ततः **मीढ्वान्** । 'मिह सेचने । अस्मात् क्वसौ ‘ दाश्वान्साह्वान्मीढ्वांश्च' इति निपातनादभिमतरूपसिद्धिः । कामानां सेक्ता **असुरः** प्राज्ञो बलवान् वा **सोमः** **भूमनः** बहुधनानि **वेद** स्तोतृभ्यो दातुं जानाति । प्रयच्छतीति यावत् । **स** **ईम्** । “ सोऽचि लोपे चेत' इति सुलोपः । सोऽयं **धिया** प्रज्ञानेन **प्रवत्** प्रकृष्टानि **शमी** । द्वितीयायाः पूर्वसवर्णदीर्घः । कर्माणि **अभि** **सचते** अभितः समवैति । किंच **दिवः** अन्तरिक्षात् **उद्रिणम्** उदकवन्तं **कवन्धं** मेघम् । कवन्धशब्देन मेघोऽभिधीयते । तात्स्थ्यात्ताच्छब्द्यमिति । मेघम् **अव** दर्षत् अवदारयति । विवृतद्वारं करोति । मेघं विदार्यान्तरिक्षात् वृष्टिं करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **Soma** seeks to gain (heaven) he assumes a white colour; showering (benefits), powerful he knows (how to bestow) abundant wealth (upon the worshippers). He by his wisdom is associated with excellent rites; he bursts asunder the rain cloud from heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He makes himself a white form when he is striving to win. Soma,  
 benefactor and lord, knows the world.  
 He keeps company with insight and (ritual) labor—that is the course  (that leads) to him. He will split open the water-filled cask of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, yát síṣāsati is identical to yád … síṣāsati in 1b, and śvetáṃ rūpám “white form” seems the equivalent of svár ‘sun’, the obj. of síṣāsati in the earlier vs. - both referring to the milk mixture. It might be possible to take yád here as neut. rel. with rūpám and tr. “he makes for himself the/a white form that he is striving to win,” although I’m not sure that’s an improvement. In any case, I think the point is that Soma has attained the milk he was striving for.
 
@@ -186,23 +186,23 @@ These two vss. seem to resolve the situation set up in vs. 1, esp. 1bc: the race
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma assumes white colour when he strives to gain: the bounteous Asura knows full many a precious boon.  
      Down the steep slope, through song, he comes to sacrifice, and he will burst the water-holding cask of heaven,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er nimmt weiße Farbe an, wenn er das Ziel gewinnen will. Soma, der belohnende Asura, kennt die ganze Natur. Er ist von der Dichtkunst und dem Werkdienst begleitet; er sucht seine Bahnen auf. Den wasserhaltenden Schlauch des Himmels möge er nach unten aufreißen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er macht sein Aussehn glänzend, wenn er spenden will, der Gaben Fülle kennt der gnadenreiche Gott; Lust und Arbeit strebt zu ihm der jähe Strom, die wasserreiche Himmelstonne spalte er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Белый цвет он принимает, когда хочет завоевать.  
 Сома щедрый, Асура, знает (весь) мир.  

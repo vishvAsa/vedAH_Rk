@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मात꣡रा विच꣡रन् वाज꣡यन्न् अपः꣡  
 प्र꣡ मे꣡धिरः स्वध꣡या पिन्वते पद꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सं꣡ जामि꣡भिर् न꣡सते र꣡क्षते शि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अं॒शुः । यवे॑न । पि॒पि॒शे॒ । य॒तः । नृऽभिः॑ । सम् । जा॒मिऽभिः॑ । नस॑ते । रक्ष॑ते । शिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 **मेधिरः** । 'मेधारथाभ्यामिरनिरचौ' (पा. सू. ५.२.१०९.३) इतरन्प्रत्ययो मत्वर्थीयः । मेधावान् प्राज्ञः **सः** सोमः **मातरा** मातरौ जगतो निर्मात्र्यौ द्यावापृथिव्यौ **विचरन्** अन्तरेणात्यन्तं चरन् तथा **अपः** अन्तरिक्षस्थितान्युदकानि **वाजयन्** प्रेरयन् । वजेर्ण्य॑न्तस्य शतरि रूपम् । तादृशः **स्वधया** सक्तुलक्षणेनान्नेन सह **पदं** स्वस्थानमुत्तरवेदिरूपं **प्र** **पिन्वते** प्रकर्षेणाप्याययति । ततः **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः **यतः** संयतः **अंशुः** सोमः **यवेन** **पिपिशे** । ‘ पिश अवयवे'। अवयवत्वेन कृतः । मिश्रित इत्यर्थः । सोमस्तु यवसक्तुभिः श्रीयते खलु। सोऽयं **जामिभिः** एकस्मात्पाणेरुत्पन्नाभिरङ्गुलीभिः **सं** नसते संगच्छते च । **शिरः** शीर्णं भूतजातं **रक्षते** च । स्वीयरसेन रक्षति पोषयति । नसतिर्गतिकर्मा । ‘चादिलोपे विभाषा' इति न निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,14 +138,14 @@ genre M
 His station: i.e., the **uttara** **vedī**, the northern altar; it protects the head: **śiraḥ** = śīrṇam bhūtajātam (the withered world?)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wandering between the two mothers [=Heaven and Earth], stirring  up the waters, the wise one swells his own footprint by his  
 independent power.  
 The plant is ornamented with grain when he is held by men; while he  joins with his female kin [=fingers], he guards his own head.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this vs. carries on and develops the themes of vs. 3. In that vs. Soma moves across the two worlds, implying a horizontal axis, while here, in my view, we shift to the vertical -- with Soma’s head in heaven and his foot(print) on earth. This vs. is much discussed by Lüders (228-32), who also emphasizes the cosmic, but because he always strictly separates the heavenly and the earthly soma, I think in a way he misses the point.
 
@@ -158,23 +158,23 @@ The grain that ornaments the soma plant is probably, on the one hand, a referenc
 There are two finite verbs in d, both accented (adjacent … násate rákṣate …), with no overt mark of subordination. With most interpr. I take the násate clause as implicitly subordinated, with rákṣate beginning the main cl., but contrastive verbal accent of adjacent verbs could as easily be invoked (and would make little diff. in interpr.: “he joins … he guards …”). Lüders makes much of the last clause, and in fact takes śíraḥ as subj. of rákṣate (which seems unlikely on rhetorical grounds), but I think the sense is fairly straightforward: even while soma is being pressed by the fingers at the earthly ritual, he keeps his head safe in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wandering through, the Parents, strengthening the floods, the Sage makes his place swell with his own native might.  
      The stalk is mixed with grain: he comes led by the men together with the sisters, and preserves the Head.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine beiden Mütter durchlaufend, die Gewässer anspornend macht der Weise aus eigenem Antrieb seine Stätte überquellen. Der Stengel wird mit Gerstenkörnern gefärbt, von den Herren gezügelt. Während er den Schwestern beiwohnt, schützt er sein Haupt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Aelternpaar durchschreitend, Fluten sendend, tränkt der weise reichlich seinen Sitz aus eigner Lust; Mit Gerste schmückt, gelenkt von Männern, sich der Saft, vermählet sich den Schwestern und beschützt das Haupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Проходя через (два мира, своих) двух матерей, поощряя воды,  
 Мудрый переполняет по своему желанию (свое) место.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡द् एषा꣡ पुरुत꣡मा दृशे꣡ कं꣡  
 ना꣡जामिं न꣡ प꣡रि वृणक्ति जामि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ना꣡र्भाद् ई꣡षते न꣡ महो꣡ विभाती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒रे॒पसा॑ । त॒न्वा॑ । शाश॑दाना । न । अर्भा॑त् । ईष॑ते । न । म॒हः । वि॒ऽभा॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eved* ← *eva*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 **एषा** उषाः **एवेत्** । इच्छब्दः एवकारार्थः । एवमेव इदानीं भासमानप्रकारेणैव **पुरुतमा** विपुलतमा अत्यन्तविस्तृता सती **अजामिं** विजातीयं मनुष्यादिजातिं **न** **परि** **वृणक्ति** परितः सर्वतो न वर्जयति । तथा **जामिं** सजातीयं देवजाति **न** परि वृणक्ति **न** परिवर्जयति । मनुष्यादिकं देवादिकं च तदुपलक्षितं लोकद्वयं वा कार्त्स्येन प्रकाशयतीत्यर्थः । किमर्थमिति तदुच्यते । **दृशे** **कं** सुखेन सर्वेषां दर्शनाय । सुखं यथा भवति तथा सर्वान् दर्शयितुं वा । किंच **अरेपसा** अपापया निर्मलया **तन्वा** शरीरेण **शाशदाना** शाशाद्यमाना। शाशदानः शाशाद्यमानः ' ( निरु. ६. १६ ) इति यास्कः । स्पष्टतां गच्छन्तीत्यर्थः । **विभाती** विशेषेण प्रकाशयन्ती सा **अर्भात्** अल्पात् पुत्तिकादेः सकाशात् **न** **ईषते** न गच्छति । तमपि प्रकाशयति । तथा **मह:** महतो मेर्वादेः सकाशात् न ईषते न गच्छति। तमपि प्रकाशयति । पूर्वं लोकद्वयं प्रकाशते इत्युक्तम् । इदानीम् अस्मिंल्लोके परमाण्वादि पर्वतपर्यन्तं कृत्स्नं प्रकाशयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ Ajāmim na parivṛṇakti jāmim: **jāmi** = sajātīya, of the same species, 
 Ajāmi = notof the same species; vijātīya, mankind; she passes not by: she lights up all things, from an atom to a mountain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just thus is she, the latest of many, to be seen. Neither the non-kin does  she avoid, nor the kin.  
 Exulting in her spotless body, neither from the small does she retreat, nor  from the great, as she shines forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She, verily, exceeding vast to look on debarreth from her light nor kin nor stranger.  
      Proud of her spotless form she, brightly shining, turneth not from the high nor from the humble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also gibt sich diese als die erste unter vielen zum Beschauen; sie geht nicht dem Fremden noch dem Verwandten aus dem Wege. Stolz auf ihren makellosen Leib zieht sie sich nicht vor Klein und Groß zurück, wenn sie erstrahlt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die herrliche entzieht sich nicht dem Anblick, nicht der verwandten, noch der unverwandten, In makelloser Schönheit herrlich prangend verbirgt ihr Licht sie hohen nicht, noch niedern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот она показывает себя, самая первая из многих.  
 Она не избегает ни чужого, ни родного,  

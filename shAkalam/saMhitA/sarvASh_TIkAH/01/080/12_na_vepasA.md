@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वे꣡पसा न꣡ तन्यता꣡  
 इ꣡न्द्रं वृत्रो꣡ वि꣡ बीभयत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अ꣡र्चन्न् अ꣡नु स्वरा꣡जियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M;; repeated line
 अ॒भि । ए॒न॒म् । वज्रः॑ । आ॒य॒सः । स॒हस्र॑ऽभृष्टिः । आ॒य॒त॒ । अर्च॑न् । अनु॑ । स्व॒ऽराज्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -122,21 +122,21 @@ genre M;; repeated line
 **वृत्रः** **इन्द्रं** **वेपसा** स्वकीयेन वेपनेन कम्पनेन **न** **वि** **बीभयत्** भीतं नाकरोत् । तथा **तन्यता** स्वकीयेन घोरेण गर्जनशब्देन **न** वि बीभयत् । अपि च इन्द्रेण विसृष्टः **आयसः** अयोमयः **सहस्रभृष्टिः** अनेकाभिर्धाराभिर्युक्तः **वज्रः** **एनं** वृत्रम् **अभि** **आयत** हन्तुमाभिमुख्येनागच्छत् । अन्यत् पूर्ववत् ॥ तन्यता । स्तन शब्दे '।  ‘ ऋतन्यञ्जि°' इत्यादिना तनोतेर्विधीयमानो यतुच् बहुलवचनादस्मादपि भवति । अत एव सलोपश्च ।' सुपां सुलुक् ' इति तृतीयाया डादेशः । उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् । बीभयत् ।' ञिभी भये । हेतुमति णिच् । अत्र वेपस्तन्यतुभ्यां भयं न हेतोर्वृत्रादिति हेतुभयाभावात् ' बिभेतेर्हेतुभये ' ( पा. सू. ६. १. ५६ ) इति आत्वाभावः। ण्यन्तात् लुङि च्लेश्चङादि । आयत । अय पय गतौ ' । भौवादिरात्मनेपदी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vṛtra** deterred not **Indra** by his trembling or his clamour; the many-edged iron thunderbolt fell upon him; (Indra) manifesting his own sovereignty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Not by his trembling excitation, not by his thundering did Vr̥tra make  Indra fear.  
 His mace of metal with a thousand spikes confronted him.  
 – They cheer on his sovereign power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner tr. vépasā as “durch seinen Wortschwall,” with the verbal (“Wort-“) component presumably on the basis of vípra- ‘inspired poet’. But near-adjacent vépete in 11b, which refers only to physical trembling with no verbal component, is surely the word against which to interpret it.
 
@@ -145,23 +145,23 @@ Augmented āyata is one of the few clear occurrences of a thematic med. pres.
 to √i.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 But Vrtra scared not Indra with his shaking or his thunder roar.  
      On him that iron thunderbolt fell fiercely with its thousand points, lauding his own imperial sway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht erschreckte Vritra den Indra durch seinen Wortschwall, nicht durch sein Donnergebrüll. Die tausendzackige Keule fuhr auf ihn los. - Sie sollen in deine Selbstherrlichkeit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Raschheit nicht, durch Donnern nicht, erschreckt den Indra Vritra je; Auf diesen fuhr herab der Blitz der ehrne tausendzackige, er strahlt in eigner Herrlichkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни сотрясением, ни громом  
 Вритра Индру не испугал.  

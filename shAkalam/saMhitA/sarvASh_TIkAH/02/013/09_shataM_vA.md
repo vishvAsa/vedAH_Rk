@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ वा य꣡स्य द꣡श साक꣡म् आ꣡दिय  
 ए꣡कस्य श्रुष्टउ꣡ य꣡द् ध चोद꣡म् आ꣡विथ  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुप्रावि꣡यो अभवः सा꣡सि उक्थि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒र॒ज्जौ । दस्यू॑न् । सम् । उ॒न॒प् । द॒भीत॑ये । सु॒प्र॒ऽअ॒व्यः॑ । अ॒भ॒वः॒ । सः । अ॒सि॒ । उ॒क्थ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
@@ -136,7 +136,7 @@ genre M
 हेइन्द्र एकस्यएकाकिनः श्रेष्ठस्यवायस्यतेश्रुष्टौसुआखनिमित्तेतदर्थंशतन्दश दशशतानिहरयः साकं- सहवाहनार्थम्भवन्ति तथाचमन्त्रवर्णः—इन्द्रोमायाभिः पुरुरूपईयतेयुक्ताह्यस्यहरयःशतादशॆति । वा- अपिच यश्चआअद्यः सर्वेषांसर्वतः उपजीव्यः नतस्येशेयन्नाद्याद्यद्वैनन्नाद्युरितिहिश्रुतिः । यद्ध यश्च त्वञ्चोदंस्तोतॄणाम्प्रेरकंयजमानंआविथ रक्षितवानसि किञ्च यस्त्वंअरज्जौरज्जुवर्जितेबन्धनागारेदस्यू- नुपक्षपयितॄन् दभीतयेदभीतिर्नामकश्चिदृषिः तदर्थंसमुनप् हिंसितवानसि उभ्रातेर्हिंसाकर्मणोलङि- व्यत्ययेनश्नम् हल् ङ्यादिनासिपोलोपः अडभावश्छान्दसः किञ्च सुप्राव्यः सुखेनसर्वैरुपसर्पणीयोभवः शिष्टंसिद्धम् ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,7 +147,7 @@ genre M
 Dabhīti: a ṛṣi; he is elsewhere called a **rājā**; several exploits here attributed to **Indra** are attributed to **Aśvins**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or when you helped him, the hard-driving one—at whose obedience  (to you), though he was alone, you bound his hundred times ten  
 (enemies) all at once—  
@@ -156,7 +156,7 @@ belonged to him who ritually pursues you well. You are worthy
 of hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntax of the 1st hemistich is intricate and hard to parse. The first rel. cl.
 
@@ -167,23 +167,23 @@ This clause is in turn dependent on the short yád clause yád dha codám ā́vi
 Note that ā́diya(ḥ) at the end of b matches āsíyam at end of 8c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou boundest up the Dasa's hundred friends and ten, when, at one's hearing, thou belpest thy worshipper.  
      Thou for Dabhiti boundest Dasyus not with cords; Thou wast a mighty help. Worthy of lauds art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Oder als du in Erhöhung des Einen hundert mal zehn gefesselt hast, da du dem Antreiber beistandest, da hast du für Dabhiti die Dasyu´s in den Schlaf der keines Strickes bedarf, eingeschnürt. Du wardst der Helfer des gut Zuredenden - Der du dies zuerst gemacht hast, - darum bist du preisenswert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Willfährig einem bandest Tausend du zugleich dem Vajia zu Lieb', als du dem Sänger halfst, Für den Dhabiti fesseltest du ohne Strick die Feinde alle eifervoll, das ist dein Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Или, исполняя просьбу (того) одного, чьих (врагов) сто (раз по) десять,  
 Ты сразу сковал, когда ты помогал Чоде,  

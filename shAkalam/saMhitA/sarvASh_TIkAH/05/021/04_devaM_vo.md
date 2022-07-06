@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवं꣡ वो देवयज्य꣡या  
 अग्नि꣡म् ईळीत म꣡र्तियः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सस꣡स्य यो꣡निम् आ꣡सदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 सम्ऽइ॑द्धः । शु॒क्र॒ । दी॒दि॒हि॒ । ऋ॒तस्य॑ । योनि॑म् । आ । अ॒स॒दः॒ । स॒सस्य॑ । योनि॑म् । आ । अ॒स॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
@@ -114,41 +114,41 @@ genre M
 **मर्त्यः** मनुष्यः **देवं** द्योतमानम् **अग्निम्** अग्रण्यं **वः** त्वां **देवयज्यया** देवयज्यायै देवयागार्थम् **ईळीत** स्तोतुमर्हति । हे **शुक्र** शोचिष्मन्  **समिद्धः** हविर्भिः प्रवृद्धः सन् **दीदिहि** दीप्यस्व । **ऋतस्य** सत्यभूतस्य **ससस्य** ऋषेर्मम **योनिं** कारणं स्वर्गसाधनं यज्ञस्थानम् **आसदः** । देवतारूपेणासीद। आदरातिशयद्योतनार्थं पुनर्वचनम् ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Man praises you, divine **Agni**, to convey his offerings to the gods; bright Agni, blaze when kindled; take your seat in the chamber (of sacrifice), in the chamber of the sincere **Sasa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal should invoke for all of you the god Agni with sacrifice to  the gods.  
 O blazing one, shine when you are kindled. Take your seat upon the  womb of truth. Take your seat upon the womb of grain.684 V.22–23
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let mortal man adore your God, Agni, with worship due to Gods.  
      Shine forth enkindled, Radiant One. Sit in the chamber of the Law, sit in the chamber of the food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let the mortal magnify for your sake Agni, the god, with worship as is due to the gods. Being kindled, O brilliant one, shine! Sit down in the abode 1 of Rita; sit down in the abode of herbs 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Gott Agni soll der Sterbliche gottesdienstlich berufen. Entzündet leuchte, du Heller! Du hast dich in den Schoß des rechten Werks gesetzt, du hast dich in den Schoß der Nahrung gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es preise Agni, euren Gott, mit Gottesfurcht der Sterbliche; Entflammt, o heller, leuchte du; setz in den Schooss des Opfers dich, (setz in den Schooss der Speise dich.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бога Агни пусть призовет для вас  
 Смертный для жертвоприношения богам!  

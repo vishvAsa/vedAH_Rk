@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जा सि꣡न्धूनाम् अवसिष्ट वा꣡स  
 ऋत꣡स्य ना꣡वम् आ꣡रुहद् र꣡जिष्ठाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दुह꣡ ईम् पिता꣡ दुह꣡ ईम् पितु꣡र् जा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒प्ऽसु । द्र॒प्सः । व॒वृ॒धे॒ । श्ये॒नऽजू॑तः । दु॒हे । ई॒म् । पि॒ता । दु॒हे । ई॒म् । पि॒तुः । जाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 अयं **राजा** सोमः **सिन्धूनाम्** उदकानां क्षीरादिस्यन्दिनीनां गवां वा **वासः** वसनस्थानीयं क्षीराख्यं श्रयणद्रव्यम् **अवसिष्ट** आच्छादयति । तथा कृत्वा **रजिष्ठाम्** ऋजुतराम् **ऋतस्य** यज्ञस्य **नावमारुहत्** आरोहति । सः **द्रप्सः** सोमरसः **श्येनजूतः** श्येनेनापहृतो रसः **अप्सु** वसतीवरीषु **ववृधे** वर्धते। **ईं** तमिमं **पितुः** पालकात् पितृस्थानीयात् द्युलोकात् **जां** जातमपत्यं सोमम् **ईम्** अयं **पिता** पालको लोकः **दुहे** दोग्धि रसम् । तथाध्वर्युरपि दुहे दोग्धि । अथवा । उक्तलक्षणमेतं सोमं पिता पालकः स्वामी यजमानो दोग्धि फलं तथा दुहेऽध्वर्युरपि रसं दुहे। यद्वा । दुह ईमिति पुनरुक्तिरादरार्था ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 The father milks him: **pitā** (pālako lokāḥ) = **Adhvaryu**, who extracts the juice of the Soma which is born from the heaven as from a father; or, the first milk may be the **yajamāna** and the second the adhvaryu; or duhe may be repeated as a mark of respect
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king of rivers has donned his garment. He has boarded the ship of  truth, (which goes) the straightest.  
 The drop, sped by the falcon, has grown strong in the waters. His father  yields him as milk; he yields as milk the offspring of his father.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a could also mean “the king has donned his garment of the rivers,” but IX.86.33, which also opens rā́jā síndhūnām, where the constituency is clear, eliminates that possibility.
 
@@ -148,23 +148,23 @@ Note the chiastic #rā́jā … rájiṣṭhām# opening and closing the first h
 Pāda d contains one of the paradoxes beloved of RVic bards. The identities of the subj.s and obj.s of the two duhé are disputed. Oldenberg, for ex., thinks that Father Heaven yields Soma in the first clause, while Soma yields Dawn in the second - because pitúr jā́m in X.3.2 refers to Dawn. But this seems to take us too far afield: the strict parallelism of the two mini-clauses—duhá īm pitā́/ duhá īm pitúr jā́m— sketches a closed loop, and introducing an entity not already implicit in the discourse seems unlikely. Geldner’s interpr. (n. 2d) seems closer. The subj. of the first duhé is in my opinion Heaven (dyaúṣ pitā́), with half of his name represented by pitā́and the other found earlier in the simile divó ná vṛṣṭíḥ “like the rain from heaven.” This simile is also the clue to the identity of the object: soma as rain. Then this soma/rain is the subject of the 2nd duhé; it yields soma itself, in the form of the plant whose growth is due to rain. This soma(plant) or the soma juice itself can also be reckoned as the “offspring of his father,” namely of Heaven. This could be a reference to the heavenly soma or simply to the soma juice assimilated to rain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 King, he hath clothed him in the robe of rivers, mounted the straightest-going ship of Order.  
      Sped by the Hawk the drop hath waxed in waters: the father drains it, drains the Father's offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König der Ströme hat sich in ihr Gewand gekleidet, er hat das am geradesten gehende Schiff der Opferordnung bestiegen. Im Wasser ist der Tropfen groß geworden, der vom Falken eilig gebrachte. Der Vater melkt ihn, er läßt aus sich des Vaters Kind melken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Flüsse König legte sein Gewand an, des Opfers Schiff, das grade fährt, bestieg er; Im Wasser wächst der Aar-getragne Tropfen, der Vater tränkt ihn, er den Spross des Vaters.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царь рек оделся в (свое) одеяние,  
 Он взошел на ладью закона, идущую самым прямым путем.  

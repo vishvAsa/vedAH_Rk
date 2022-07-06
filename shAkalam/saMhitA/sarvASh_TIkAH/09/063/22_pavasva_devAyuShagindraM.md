@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व देव आयुष꣡ग्  
 इ꣡न्द्रं गछतु ते म꣡दः  
 वायु꣡म् आ꣡ रोह ध꣡र्मणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वा॒युम् । आ । रो॒ह॒ । धर्म॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** द्योतमान सोम **पवस्व** धारया क्षर । अपि च **ते** तव **मदः** मदकरो रसः **आयुषक्** अनुषक्तम् **इन्द्रं** प्रति **गच्छतु** । अपि च त्वं **वायुं** **धर्मणा** धारकेण रसेन **आ** **रोह** प्राप्नुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, (**Soma**), let your exhilarating juice proceed in continuous order to **Indra**, rise with your supporting (juice to **Vāyu**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, o god, attended by the Āyus. Let your exhilarating  drink go to Indra;  
 mount to Vāyu according to the (ritual) statute.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As in vs. 10, the joint appearance of Indra and Vāyu signals the morning soma pressing.
 
@@ -120,23 +120,23 @@ A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a patter
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 God, working with mankind, flow on; to Indra go thy gladdening juice:  
      To Vayu mount as Law commands
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, o Gott, den Ayu´s gesellt! Zu Indra soll dein Rausch gelangen; steige zu Vayu auf nach deiner Bestimmung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Gott, mit Kraft begabt, in Indra gehe ein dein Rausch, Zu Vaju steige nach dem Brauch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्ये꣡ अग्ने अर्च꣡यो  
 भ्रा꣡जन्तो यन्ति धृष्णुया꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्वानो꣡ र꣡थो न꣡ वाजयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ऽज्मानः । न । वि॒ऽद्युतः॑ । स्वा॒नः । रथः॑ । न । वा॒ज॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -99,41 +99,41 @@ genre M
 हे **अग्ने** **धृष्णुया** धृष्णवोऽत्यन्तप्रगल्भाः **भ्राजन्तः** दीप्यमानाः **त्ये** ते प्रसिद्धाः **तव** अर्चयः त्वदीया रश्मयः **यन्ति** सर्वतो गच्छन्ति । कथमिव । **परिज्मानः** परितो गन्त्र्यः सर्वतो व्याप्ताः **विद्युतः** **न** अचिरप्रभा इव । अनेन प्रकाशातिशय उक्तः । **स्वानः** शब्दायमानः **रथो** **न** रथ इव । अनेनार्चिषां स्वनाधिक्यमुक्तम् । **वाजयुः** न अन्नकाम इवान्नार्थं युद्धेषु शत्रुविजयाय यथा प्रवर्तते तद्वदित्यर्थः । अनेनाहुतिविषयोऽभिलाष उक्तः ॥ यन्ति ।  ‘ इण् गतौ ' । धृष्णुया । ञिधृषा प्रागल्भ्ये'।' त्रसिगृधिधृषि° ' इत्यादिना क्नुप्रत्ययः ।  ‘ आदितश्च' (पा. सू. ७. २. १६ ) इति । इट्प्रतिषेधः । बहुवचने ‘सुपां सुलुक्' इत्यादिना याजादेशः ।  ‘ चितः' इत्यन्तोदात्तत्वम् । परिज्मानः ।  ‘ अज व्रज गतौ ' । परिपूर्वाद्धातोः ‘ अन्येभ्योऽपि दृश्यन्ते ' इति मनिन् । अकारलोपः छान्दसः । नित्त्वादाद्युदात्तः । वाजयुः । वाजमात्मन इच्छति इति क्यच् । 'न छन्दस्य पुत्रस्य' इति ईत्वदीर्घयोः प्रतिषेधः । ‘क्याच्छन्दसि' इति उप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These your bright and fierce flames, **Agni**, spread around like the circumambient lightning, and are like a rattling chariot rushing (into battle) for booty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These flashing flames of yours, o Agni, go boldly,  
 like earth-encircling lightning bolts, their sound like a chariot chasing  the prize of victory.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, those resplendent flames of thine go valorously forth,  
      Like lightnings flashing round us, like a rattling car that seeks the spoil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Those shining flames of thine, Agni, go fiercely along, like lightnings (flashing) around the earth, like a thundering chariot bent on victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Flammen von dir, Agni, die glühenden, gehen ungestüm drauf wie herumfahrende Blitze. Ihr Getöse ist wie das des wettfahrenden Wagens.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilen deine Flammen hier, die glänzenden, o Agni, kühn Wie Blitze fliegend, Wagen gleich, die gutbeladen rasselnd gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те самые твои языки пламени, о Агни,  
 Пылающие, дерзко бросаются,  

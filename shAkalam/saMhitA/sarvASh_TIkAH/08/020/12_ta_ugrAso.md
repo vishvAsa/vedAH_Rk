@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ उग्रा꣡सो वृ꣡षण उग्र꣡बाहवो  
 न꣡किष् टनू꣡षु येतिरे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡नीकेषु अ꣡धि श्रि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्थि॒रा । धन्वा॑नि । आयु॑धा । रथे॑षु । वः॒ । अनी॑केषु । अधि॑ । श्रियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -113,7 +113,7 @@ genre M
 **उग्रासः** उद्गूर्णाः सर्वकार्येषूद्यताः **वृषणः** वर्षितारः **उग्रबाहवः** उद्गूर्णबाहुकाः **ते** मरुतः **तनूषु** आत्मीयेषु शरीरेषु **नकिः** **येतिरे** रक्षणाय न प्रयतन्ते । न हि कश्चित्तेषां शरीराणि बाधितुं शक्नोति येन यत्नः क्रियेत । परोऽर्धर्चः प्रत्यक्षकृतः । हे मरुतः **वः** युष्माकं **रथेषु** **धन्वानि** धनूंष्यायुधानि आयोधनानि बाणादीनि च **स्थिरा** स्थिराणि दृढतराणि सन्ति । अत एव कारणात् **अनीकेष्वधि** सेनामुखेषु **श्रियः** जयसंपदः युष्माकं भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,34 +124,34 @@ genre M
 Energy: or, rather, they need notexert themselves to defend their person ns, nakiṣṭanūṣu yetire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These mighty bulls with mighty arms do not arrange (such things just)  on their bodies:  
 taut bows and weapons are on your chariots, beauties on your faces.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes tanū́ṣu as attenuated to something close to a reflexive (“sind nicht auf sich selbst eifersüchitig”), but in vss. 6 and 26 it is lexically robust. I think the point here is to contrast the adornment of their bodies with that of other locations associated with them (their chariots and their faces).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They toil not to defend their bodies from attack, strong Heroes with their mighty arms.  
      Strong are your bows and strong the weapons in your cars, and glory sits on every face.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gewaltigen Bullen mit gewaltigen Armen sind nicht auf sich selbst eifersüchtig. Starke Bogen und Waffen sind auf euren Wagen, Schönheit in euren Gesichtern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die kräft'gen Helden, deren Arme kräftig sind, sie hadern miteinander nie, Auf ihren Wagen starke Bogen, Kriegsgeräth und Glanz auf ihrem Angesicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти грозные быки с грозными руками  
 Никогда не выстраиваются в ряд.  

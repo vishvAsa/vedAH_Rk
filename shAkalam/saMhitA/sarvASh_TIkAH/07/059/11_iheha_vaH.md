@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहे꣡ह वः स्वतवसः  
 क꣡वयः सू꣡रियत्वचः  
 यज्ञ꣡म् मरुत आ꣡ वृणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 य॒ज्ञम् । म॒रु॒तः॒ । आ । वृ॒णे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iheha* ← *iha*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M
 हे **स्वतवसः** स्वायत्तबलाः स्वयं प्रवृद्धा वा हे **कवयः** क्रान्तदर्शिनः **सूर्यत्वचः** सूर्यवर्णा एवंभूता हे **मरुतः** यूयम् **इहेह** इहैवास्मदीयं **यज्ञम्** **आ** **वृणे** आभजामि कल्पयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M
 Glorious as the sun: **sūrya** **vacas** = sun-skinned
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here, just here—you self-strong, sun-skinned poets—  
 I will you (to come) here to (my) sacrifice, o Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The āmreḍita ihéha echoes that in vs. 1, idám-idam, forming a superficial ring. Given the apparent composite nature of the hymn, this apparent ring is presumbly not a sign of a hymn conceived originally as a unity, but perhaps a hasty adjustment to try to integrate the separate pieces.
 
@@ -119,23 +119,23 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, Self-strong Maruts, yea, even here. ye Sages with your sunbright skins  
      I dedicate your sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Überall bevorzuge ich euer Opfer, ihr Selbststarken, ihr Seher mit der sonnengleichen Haut, ihr Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier, hier, o selbstgewaltige, o Seher, sonnenglänzende, Besorg ich Opfer, Maruts, euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда-сюда, о сильные собою,  
 О солнечнокожие поэты –  

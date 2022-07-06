@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वाम् भूषन् क्षित꣡यो ज꣡न्म रो꣡दसोः°  
 प्रवा꣡चियं वृषणा द꣡क्षसे महे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ हो꣡त्रया शि꣡मिया वीथो अध्वर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । ऋ॒ताय॑ । भर॑थः । यत् । अर्व॑ते । प्र । होत्र॑या । शिम्या॑ । वी॒थः॒ । अ॒ध्व॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **वृषणा** कामानां वर्षितारौ हे मित्रावरुणौ **वां** युवयोः संबन्धि **जन्म** जननम् उत्पत्तिम् **रोदस्योः** द्यावापृथिव्योः सकाशात् । द्यावापृथिवीभ्यामेव सर्वेषामुत्पत्तेः । यद्वा । मित्र इति सर्वोपकारी अग्निरुच्यते वरुण इति तमोनिवारक आदित्यः उभयोः पृथिवीद्युस्थानत्वात् । ततः पूर्वमन्त्रे मित्रदृष्टान्तत्वेन अग्निः स्तुतः । अत इदमधिगम्यते अग्निरेव मित्र इति । तथान्यत्रापि । ‘अग्निं मित्रं न क्षितिषु प्रशंस्यम्' (ऋ. सं. २. २. ३ ), ‘मित्रं न ये सुधितं भृगवो दधुः' (ऋ. सं. ६. १५. २) इति च । **प्रवाच्यं** स्तुत्यं तादृग्युवयोः जन्म **महे** महते **दक्षसे** सर्वविषयबलाय **क्षितयः** मनुष्या यजमानाः **आ** **भूषन्** सर्वतोऽलंकुर्वन्ति श्लाघन्ते इत्यर्थः । जन्मनः प्रवाच्यत्वमाह। **यदीं** यस्मादेव कारणात् । अथवा। ईम् इत्यनर्थकः । मिताक्षरेष्वनर्थकाः कमीमिद्विति' इत्युक्तत्वात् । **ऋताय** यज्ञाय **भरथः** सामर्थ्यम् । **यत्** यस्माच्च कारणात् **अर्वते** युष्मान् प्राप्तवते यजमानाय च भरथोऽभिमतं फलम् । अथवा । उभयत्र कर्मणः संप्रदानत्वात् चतुर्थी। यज्ञं यजमानं च भरथ इत्यर्थः । यस्माच्च **होत्रया** स्तुतिरूपया वाचा **शिम्या** हविष्प्रदानादिकर्मणा च **प्र** **वीथः** प्रकर्षेण प्राप्नुथः । तस्मात् प्रवाच्यं जन्म भूषयन्तीत्यर्थः । होत्रा इति वाङ्नाम, ‘होत्रा गीः ' ( नि. १. ११. ३५) इति तन्नामसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,37 +138,37 @@ genre M
 Your birth from heaven and earth: vām **janma** rodasyoḥ = yuvayoḥ **sambandhi** janma jananam utpattim, dyāvapṛthivyoḥ sakaśāt, the birth connected with you two from heaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The settlements attended upon (his) birth, which was worthy to be  proclaimed in the two world-halves, for the sake of your great skill,  
 o bulls.  
 When you bring it [=skill] for truth, when for the steed [=Agni?], with  the oblation you energetically pursue the rite.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I consider the birth described here to be that of Agni (as throughout the rest of Dīrghatamas’s corpus and esp. in vs. 1 of this hymn), not of Mitra and Varuṇa (with the standard tr.). I construe the Wackernagelpositioned vām with dákṣase in b. This dákṣas- is then the referent of īm in c.
 
 I also take c as subordinated to d (with Renou), not ab (with the others). That both c and d have 2nd du. pres. verbs (bhárathaḥ … vīthaḥ) is suggestive, and the present in c does not work very well with the mythological past in ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The folk have glorified your birth from Earth and Heaven, to be extolled, ye Strong Ones, for your mighty power.  
      Ye, when ye bring to singer and the rite, enjoy the sacrifice performed with holy praise and strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Menschenvölker feiern euer beider Geburt, die preisenswerte, die beiden Welten zu großem Erfolg gereicht, ihr Bullen, da ihr ihn dem Gesetz und dem Rennpferd bringt. Durch die Spende und den eifrigen Dienst bekommt ihr Lust zum Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Helden beide rüsteten zu grosser Kraft der beiden Welten preisenswerthe Stämme aus; Was ihr dem Priester und was ihr dem Sänger bringt, durch frommes Werk und Ruf belebt das Opfer ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть празднуют народы ваше рожденье, о два быка,  
 Достойное провозглашения среди двух миров на великую пользу,  

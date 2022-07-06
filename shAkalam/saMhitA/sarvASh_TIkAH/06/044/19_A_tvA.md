@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा ह꣡रयो वृ꣡षणो युजाना꣡  
 वृ꣡षरथासो वृ꣡षरश्मयो꣡ ऽत्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृ꣡ष्णे म꣡दाय सुयु꣡जो वहन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्म॒त्राञ्चः॑ । वृष॑णः । व॒ज्र॒ऽवाहः॑ । वृष्णे॑ । मदा॑य । सु॒ऽयुजः॑ । व॒ह॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,20 +128,20 @@ genre M
 हे इन्द्र **त्वा** त्वां **हरयः** अश्वाः **वृष्णे** वर्षित्रे **मदाय** मदकराय सोमायेदृशं सोमं पाययितुम् **आ** **वहन्तु** । कीदृशा अश्वाः । **वृषणः** कामानां वर्षितारः **युजानाः** स्वयमेव रथे युज्यमानाः **वृषरथासः** । वृषा कामाभिवर्षको रथो येषां ते तथोक्ताः । **वृषरश्मयः** । वर्षितारो रश्मयः प्रग्रहा येषां तादृशाः । **अत्याः** सततगामिनः **अस्मत्राञ्चः** अस्मान् प्रत्यञ्चन्तो गच्छन्तः **वृषणः** नित्यतरुणाः **वज्रवाहः** वज्रादीन्यायुधानि वहन्तः **सुयुजः** शोभनयोजनाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your vigorous steeds, harnessed of their own will, drawing your wish-bestowing chariot, guided by shower-yielding reins, quick-moving, hastening towards us, youthful, thunder-bearing, well-yoked, bring you to the hountiful, exhilarating (libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your fallow bays, the bulls that have been yoked, the steeds with their  bullish chariot and with their bullish reins,  
 the bulls that convey your mace—let them, well-yoked, convey you here  in our direction for bullish exhilaration.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -155,23 +155,23 @@ The concentration on the bull words leaves little room or energy for other poeti
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let thy Bay Stallions, harnessed, bring thee hither, Steeds with strong chariot and strong reins to hold them,  
      Strong Horses, speeding hither, bearing thunder, well-harnessed, for the strong exciting potion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich sollen die angeschirrten riesigen Falben, die Renner mit dem riesigen Wagen, mit den riesigen Zügeln, die riesigen, die deine Keule fahren, die Gutgeschirrten zu uns her fahren zu riesiger Trunkesfreude.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her mögen dich die starken Füchse fahren, mit starkem Strang geschirrt an starken Wagen, Zu uns gewandt die Hengste, Blitze tragend, zum starken Rauschtrank, schöngeschirrt die starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть привезут тебя быки, буланые кони, запряженные  
 В бычью колесницу с бычьими поводьями, скакуны,  

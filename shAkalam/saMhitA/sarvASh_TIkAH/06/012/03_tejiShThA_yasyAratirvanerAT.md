@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡जिष्ठा य꣡स्य अरति꣡र् वनेरा꣡ट्  
 तोदो꣡ अ꣡ध्वन् न꣡ वृधसानो꣡ अद्यौत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡मर्तियो अवर्त्र꣡ ओ꣡षधीषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒द्रो॒घः । न । द्र॒वि॒ता । चे॒त॒ति॒ । त्मन् । अम॑र्त्यः । अ॒व॒र्त्रः । ओष॑धीषु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tejiṣṭhā* ← *tejiṣṭha*
 - \[noun\], nominative, singular, feminine
@@ -107,7 +107,7 @@ genre M
 **यस्य** अग्नेः **अरतिः** गन्त्री ज्वाला **तेजिष्ठा** अतिशयेन तेजस्विनी सती **वनेराट्** दावरूपेण अरण्ये राजमाना वर्तते **वृधसानः** वर्धमानः सोऽग्निः **तोदो** **अध्वन्न** । तोदः सर्वस्य प्रेरकः सूर्यः । स इवाध्वनि स्वमार्गेऽन्तरिक्षे अद्यौत् द्योतते प्रकाशते । अपि च **अद्रोघो** न अद्रोग्धव्यः । यद्वा । प्राणरूपेण सर्वेषामद्रोग्धा वायुरिव तादृशः **अमर्त्यः** मरणरहितः सोऽग्निः **ओषधीषु** । औषः पाक एषु धीयत इत्योषधयो वनानि । तेषु **द्रविता** शीघ्रगामी सन् **अवर्त्रः** केनाप्यवारणीयश्च भवन् **त्मन्** आत्मना स्वप्रकाशेनैव **चेतति** चेतयति सर्वं जगत् ज्ञापयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,14 +118,14 @@ genre M
 Like the sun: todo **adhvan**: todo = the sun, sarvasya **preraka**, the urger, impeller, or animator of all. Like the innoxious winds: adroha na = as of one not liable to be oppressed or harmed, adrogdhavya; or, it may mean the vital air, the non-injurer, the sustainer of all, prānarūpeṇa sarveṣām adrogdha, i.e. the wind, **vāyuḥ**.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (He) whose (course) is sharpest, the spoked wheel (of the sacrifice), the  ruler in the wood, like a goad on the (race)course, he has flashed as he  grows strong (on the hearths).  
 The immortal one appears like an undisguised reaper in person,  
 (moving) without obstruction among the plants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rel. cl. that begins this vs. cannot span the hemistich, since the verb that ends b, adyaut, is unaccented. There is the further problem, long noted (see Oldenberg ZDMG 55.302), that the apparently easy application of the initial adj. téjiṣṭhā to the next noun aratíḥ is problematic, because aratí- is masc. (though both Thieme [Unters.
 
@@ -144,23 +144,23 @@ Older interpr. ascribe it to √dru ‘run’: Grassmann ‘Renner’, apparentl
 In d avartrá- is likewise a hapax. It appears to be a bahuvrīhi built to vártra- (AV+) ‘dam, dike’; see Debr’s Nachtr. to AiG II.1 (p. 58).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose blaze most splendid, sovran in the forest, shines waxing on his way like the - Impeller.  
      He knows himself, like as a guileless smelter, not to be stayed among the plants, Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Glut die schärfste ist, der Roßelenker, der im Holz regiert, ist, wie die Peitsche des Rosselenkers auf der Fahrt, groß werdend aufgeleuchtet. Von selbst erscheint er wie ein harmloser Ausreißer, uneingedämmt in den Pflanzen, der Unsterbliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der glühend strahlt, im Holze leuchtend wirket, aufsteigend wie auf seiner Bahn der Stachler, Dem Läufer gleich, der truglos nimmer umkehrt, lässt sehen sich der Ew'ge bei den Reisern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чье пламя (?) самое резкое, (кто) царит в лесу,  
 (Тот) засверкал, словно стрекало (солнца), вырастающее в пути.  

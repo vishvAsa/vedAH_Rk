@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् उ त्वा꣡म् अपूर्विय  
 स्थूरं꣡ न꣡ क꣡च् चिद् भ꣡रन्तो अवस्य꣡वः  
 वा꣡जे चित्रं꣡ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वाजे॑ । चि॒त्रम् । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -90,7 +90,7 @@ genre M
 हे **अपूर्व्य** त्रिषु सवनेषु प्रादुर्भूतत्वादभिनवेन्द्र **भरन्तः** सोमलक्षणैरन्नैस्त्वां पोषयन्तः **वयं** **वाजे** । वाजयन्ति गच्छन्ति योद्धारोऽत्रेति वाजयन्त्यायुधान्यत्रेति वा वाजः संग्रामः । तस्मिन् **चित्रं** चायनीयं विविधरूपं वा **त्वाम्** **उ** त्वामेव **अवस्यवः** रक्षणमात्मन इच्छन्तः सन्तः **हवामहे** त्वामाह्वयामः । तत्र दृष्टान्तः । **स्थूरं** **न** यथा भरन्तो व्रीह्यादिभिर्गृहं पूरयन्तो जनाः वाजे अन्नविषये स्थूरं स्थूलं गुणाधिकं **कच्चित्** कंचिन्मानवं यथाह्वयन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,30 +107,30 @@ Vāje = yathā vrīhyādibhir gṛham pūrayanto **janā** annaviṣaye sthūlam
 Unpreceded: apūrvya = new, i.e., ever new at the three oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you without precedent—we, seeking help like people carrying  
 something massive,  
 call upon you, the brilliant, in the prize contest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE call on thee, O Matchless One! We seeking help, possessing nothing firm ourselves,  
      Call on thee wonderful in fight
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen dich, du Unübertrefflicher, wie solche, die irgend etwas Großes tragen, um Beistand bittend im Kampf um den Siegerpreis, dich den Ausgezeichneten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen dich, o herrlicher, wie schwere Lasten tragende voll Hülfsbegier, Dich glänzenden im Kampfe an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это мы зовем тебя,  
 О несравненный, как (люди,) несущие нечто тяжелое,  

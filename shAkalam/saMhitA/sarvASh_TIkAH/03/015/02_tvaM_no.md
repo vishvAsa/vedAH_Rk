@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो अस्या꣡ उष꣡सो वि꣡उष्टौ  
 तुवं꣡ सू꣡र उ꣡दिते बोधि गोपाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्तो꣡मम् मे अग्ने तनु꣡वा सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जन्म॑ऽइव । नित्य॑म् । तन॑यम् । जु॒ष॒स्व॒ । स्तोम॑म् । मे॒ । अ॒ग्ने॒ । त॒न्वा॑ । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -136,7 +136,7 @@ genre M
 हे **अग्ने** **त्वम्** **अस्याः** अद्य वर्तमानायाः **उषसो** व्युष्टौ व्युच्छने प्रकाशने **सूरे** सूर्ये **उदिते** च सति **नः** अग्निहोत्रादिकर्मणि प्रवृत्तानामस्माकं **गोपाः** गोपायिता भवामीति **बोधि** बुध्यस्व । केचित्सूर्योदयात्प्रागग्निहोत्रं जुह्वति केचित् उदिते तस्मिञ्जुह्वति । तेषामुभयेषां पालयिता भवेत्यर्थः । **तन्वा** **सुजात** ज्वालापरिवृतेन शरीरेण सुष्ठु जात देदीप्यमान । अथवा तन्वा सुजातः आत्मनैव सुजातः स्वयंभूरित्यर्थः । तादृशस्त्वं मे मदीयं **स्तोमं** त्रिवृत्पञ्चदशादिलक्षणं स्तोत्रं **नित्यं** **जुषस्व** । तत्र दृष्टान्तः । **जन्मेव** इति । यथा जन्म जनकः पिता औरसं **तनयं** पुत्रं परिष्वङ्गादिभिः सेवते तद्वदस्माभिः क्रियमाणमिमं सेवस्व ॥ व्युष्टौ ।' उछी विवासे'। तमो विवास्यते अनया इति करणे क्तिन् । व्रश्चादिना षत्वम् । तादौ च निति कृत्यतौ ' इति गतेः प्रकृतिस्वरत्वम् । गोपाः । ‘ गुपू रक्षणे ' । ‘ गुपूधूपविच्छिपणिपनिभ्यः' इत्यायप्रत्ययः । तदन्ताद्धातोः क्विप् । ‘ अतो लोपः' इत्यकारलोपः । लोपो व्योः० ' इति यलोपः । धातुस्वरः । जुषस्व । ‘जुषी प्रीतिसेवनयोः' इत्यस्य लोटि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ genre M
 When the sun has risen: some perform the worship of fire before the sun-rise, some after the sun has risen; with (embodied) form: tanvā **sujātaḥ**, well-born with a body, i.e. with flames; or, it may mean self-born, **svayambhu**; as a father: janmeva tanayam, yathā **pitā** putram sevate, **janma**, being put for **janaka**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You at the breaking of this dawn, you at the rising of the sun—become  our herdsman!  
 Take pleasure in my praise song as (you would) in your own birth, as in  your own lineage, o Agni, well born in your own body.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou To us, while now the morn is breaking, be thou a guardian when the Sun hath mounted..  
      Accept, as men accept a true-born infant, my laud, O Agni nobly born in body.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Be thou our protector when this dawn shines forth, he thou (our protector) when the sun has risen. Cherish, O Agni, well-born in body, this praise of mine as (a man rejoices) in the birth (of a son), in his own offspring 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du beim Aufleuchten dieser Morgenröte, du nach Sonnenaufgang unser Hüter! Agni, freue dich am eignen Leibe über mein Loblied wie über die Geburt des leiblichen Sohnes, du Edelgeborener.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du bei dieser Morgenröthe Leuchten, sei uns Behüter bei der Sonne Aufgang; Begünst'ge unsern Stamm, als wär's dein eigner, mein Lied, o Agni, aus dir selbst erzeugter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Будь) ты при воспламенении этой утренней зари,  
 Будь ты при восходе (солнца), о герой, нам защитником!  

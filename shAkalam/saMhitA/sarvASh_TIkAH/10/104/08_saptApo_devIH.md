@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्ता꣡पो देवीः꣡ सुर꣡णा अ꣡मृक्ता  
 या꣡भिः सि꣡न्धुम् अ꣡तर इन्द्र पूर्भि꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवे꣡भ्यो गातु꣡म् म꣡नुषे च विन्दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 न॒व॒तिम् । स्रो॒त्याः । नव॑ । च॒ । स्रव॑न्तीः । दे॒वेभ्यः॑ । गा॒तुम् । मनु॑षे । च॒ । वि॒न्दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saptāpo* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
@@ -124,36 +124,36 @@ genre M
 हे इन्द्र त्वदाज्ञया **सप्त** एतत्संख्याकाः **आपः** अब्रूपा:  **देवीः** देव्यो गङ्गाद्याः **सुरणाः**। सुष्ठु रममाणाः शोभनशब्दा वा । रणिः शब्दार्थः। वशिरण्योरुपसंख्यानम् ' (पा. सू. ३.३.५८. ३ ) इति भावेऽप् । बहुव्रीहौ ‘आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । **अमृक्ताः** अहिंसिताः प्रवहन्तीति शेषः । हे **इन्द्र** **पूर्भित्** पुरां भेत्ता त्वं **याभिः** गङ्गादिभिः सप्तनदीभिः **सिन्धुं** समुद्रम् **अतरः** । प्रावर्धय इत्यर्थः । यद्वा । सप्त सर्पणस्वभावा उक्तलक्षणा आपो देव्यस्त्वया सृष्टाः प्रवहन्ति याभिः सिन्धुं नदीमतरः । किंच त्वं **नवतिं** **नव** **च** नवोत्तरनवतिसंख्याकाः **स्रवन्तीः** प्रवहन्तीः **स्रोत्याः**। नदीनामैतत् । नदीः **देवेभ्यः** हविरर्थं मनुषे मनुष्याय भोगार्थं **च** **गातुं** गन्तव्यं तासां मार्गं च **विन्दः** अलभथाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven divine meandering rivers with which you, **Indra**, the destroyer of cities, replenished theocean, flow unimpeded; you did discover the nine-and-ninety flowing rivers (and their) path for gods and men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seven are the divine waters, very delightful and unharmable, by which  you, Indra, the stronghold-splitter, crossed the boundary river,  
 the ninety and nine streaming streams. You found the way for the gods  and for Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The way to bliss for Gods and man thou foundest, Indra, seven lovely floods, divine, untroubled,  
      Wherewith thou, rending forts, didst move the ocean, and nine-and-ninety flowing streams of water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben sind die göttlichen Gewässer, die erfreulichen, ungeschmälerten, mit denen du Indra, der Burgenbrecher, die Sindhu überschrittest, die neunundneunzig fließenden Ströme. Du fandest für die Götter und für Manu den Weg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die sieben reinen, muntern Himmelsfluten, durch die burgbrechend Indra du zum Meer drangst, Die neunundneunzig Flüsse, welche strömen, die fandest du und Heil für Gott und Menschheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

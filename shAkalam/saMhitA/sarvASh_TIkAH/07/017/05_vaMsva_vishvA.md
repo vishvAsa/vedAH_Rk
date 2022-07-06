@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वं꣡स्व वि꣡श्वा वा꣡रियाणि प्रचेतः  
 सत्या꣡ भवन्तु आशि꣡षो नो अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 वंस्व॑ । विश्वा॑ । वार्या॑णि । प्र॒चे॒त॒ इति॑ प्रऽचेतः । स॒त्याः । भ॒व॒न्तु॒ । आ॒ऽशिषः॑ । नः॒ । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaṃsva* ← *van*
 - \[verb\], singular, Aorist imperative
@@ -76,34 +76,34 @@ genre M
 हे **प्रचेतः** प्रकृष्टमतिमन्नग्ने **विश्वा** विश्वानि **वार्याणि** वरणीयानि धनानि **वंस्व** अस्मभ्यं देहि । **नः** अस्माकम् **आशिषः** **अद्य** **सत्याः** यथार्थाः **भवन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, sage, **Agni**, all desirable (riches); may the blessings (vouchsafed) to us this day besacrificed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Win all desirable rewards, o attentive one, and let our hopes come  true today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise God, win for us things that are all-goodly, and let the prayers, we pray today be fruitful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwirke alle wünschenswerten Dinge du Kluger; unsere Wünsche sollen heute erfüllt werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schenke alle Güter, o du weiser, erfüllet seien heut uns alle Wünsche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Добудь все лучшие дары, о прозорливец!  
 Да сбудутся сегодня наши желания!

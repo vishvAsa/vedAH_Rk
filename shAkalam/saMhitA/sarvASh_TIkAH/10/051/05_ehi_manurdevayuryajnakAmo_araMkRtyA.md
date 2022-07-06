@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡हि म꣡नुर् देवयु꣡र् यज्ञ꣡कामो  
 अरंकृ꣡त्या त꣡मसि क्षेषि अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡ह हव्या꣡नि सुमनस्य꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सु॒ऽगान् । प॒थः । कृ॒णु॒हि॒ । दे॒व॒ऽयाना॑न् । वह॑ । ह॒व्यानि॑ । सु॒ऽम॒न॒स्यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
@@ -127,36 +127,36 @@ popular
 अग्निनैवमुक्ता देवाः पुनरग्निमाह्वयन्ति । हे **अग्ने** **एहि** आगच्छ। **मनुः** मनुष्यो यष्टा मननीयो मनू राजा वा **देवयुः** देवान् यष्टुमिच्छन् **यज्ञकामश्च** भवति । अत एहि । किं कुर्वन् यज्ञकामो भवतीति चेदुच्यते । **अरंकृत्य** केवलं तेजःपुञ्जमेवालंकुर्वन् । यद्वेदमुत्तरत्र संबध्यते । त्वं तु अलंकृत्यात्मानमलंकुर्वन् **तमसि** अन्यैर्ज्ञातुमशक्येऽन्धकारे **क्षेषि** निवससि । हे अग्ने आगत्य च **देवयानान्** देवान प्रति यैर्मनुष्या गच्छन्ति तान् **पथः** मार्गान् **सुगान्** **कृणुहि** कुरु। ‘कृवि हिंसाकरणयोश्च । ‘ धिन्विकृण्व्योरञ्च' इत्युप्रत्ययः । संमत्या नो यज्ञनिष्पत्तेर्देवयानाः सुपथा भवन्ति । **वह** च **हव्यानि** अस्मदीयानि **सुमनस्यमानः** सौमनस्यमाचरंस्त्वम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The gods). Come, **Agni**, the devout **Manu** (is) desirous of offering sacrifice; adorning yourself, youabide in darkness; make straight the paths traversed by the gods, and with a benevolent mind convey ouroblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gods:] Come here! Manu, devoted to the gods, has desire for sacrifice,  having properly prepared it. Yet you dwell in darkness, Agni.  
 Make the paths leading to the gods easily passable. Convey the oblations,  showing your benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come; man is pious and would fain do worship, he waits prepared: in gloom thou, Agni, dwellest.  
      Make pathways leading God-ward clear and easy, and bear oblations with a kindly spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm her, der gottergebene Manu wünscht zu opfern und hat alles in Bereitschaft. Du weilst noch im Dunklen. Mach die Wege, die zu den Göttern gehen, gangbar; überbringe geneigten Sinnes die Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her, der fromme Mensch das Opfer liebend steht schon bereit; was weilst du in dem Dunkel? Mach gangbar nun die gottbetretnen Wege, und fahre wohlgemuth die Opfertränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Иди сюда! Человек, преданный богом, хочет приносить жертвы,  
 Приготовившись. Ты живешь во мраке, о Агни.  

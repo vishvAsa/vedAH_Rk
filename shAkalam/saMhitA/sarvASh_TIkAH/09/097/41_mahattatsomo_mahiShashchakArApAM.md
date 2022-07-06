@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मह꣡त् त꣡त् सो꣡मो महिष꣡श् चकार  
 अपां꣡ य꣡द् ग꣡र्भो अ꣡वृणीत देवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जनयत् सू꣡रिये ज्यो꣡तिर् इ꣡न्दुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अद॑धात् । इन्द्रे॑ । पव॑मानः । ओजः॑ । अज॑नयत् । सूर्ये॑ । ज्योतिः॑ । इन्दुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahat*
 - \[noun\], accusative, singular, neuter
@@ -133,20 +133,20 @@ genre M
 महिषो महान् पूज्योवा सोमो महत् प्रभूतं तत् कर्म चकार अकरोत् । किन्तत् अपाङ्ग- र्भः उदकानाङ्गर्भभूतः जनयितृत्वाज्जन्यत्वाच्च ससोमः देवानवृणीत समभजतेतियत् तत् कृतवानिति । किञ्च पवमानः पूयमानः सोमः ओजः सोमपानेन जन्यं बलं इन्द्रे अदधात् व्यदधात् । तथा इन्दुः सोमः सूर्येज्योतिस्तेजः अजनयत् ॥ ४१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mighty **Soma** has achieved this mighty (work) that, being the germ of the waters, he has nourished the gods; purified he has given strength to **Indra**; **Indu** has genitive rated the light in the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma the buffalo performed this great (deed), that [/when] as embryo of  the waters he chose the gods.  
 Purifying himself, he placed strength in Indra. The drop begat the light  in the sun.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details open><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -156,23 +156,23 @@ No particular unity detectable in the tṛca, though the 2nd two vss. do focus o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma the Steer, in that as Child of Waters he chose the Gods, performed that great achievement.  
      He, Pavamana, granted strength to Indra; he, Indu, generated light in Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese große Tat hat der Büffel Soma getan, daß er, der Keim der Gewässer, die Götter sich erkor. Er legte, sich läuternd, in Indra die Stärke; der Saft erzeugte das Licht der Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies grosse hat vollbracht der grosse Soma, als Götter sich erkor der Spross der Wasser, Der flammende verlieh dem Indra Stärke und in der Sonne zeugte Indu Lichtglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То великое (деяние) совершил сома-буйвол,  
 Что он, зародыш вод, выбрал богов.  

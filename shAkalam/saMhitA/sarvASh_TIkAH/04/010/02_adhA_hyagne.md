@@ -6,7 +6,7 @@ ChandaH = "पदपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हि꣡ अग्ने  
 क्र꣡तोर् भद्र꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "पदपङ्क्तिः"
 रथी꣡र् ऋत꣡स्य बृहतो꣡ बभू꣡थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 र॒थीः । ऋ॒तस्य॑ । बृ॒ह॒तः । ब॒भूथ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -93,41 +93,41 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अधा** **हि** इदानीमेव हे **अग्ने** त्वं **क्रतोः** अस्मदीयस्य यागस्य **रथीः** नेता **बभूथ** भवसि ॥  ‘ छन्दसि लुङ्लङ्लिटः' इति भवतेर्वर्तमानेऽर्थे लिटि सिपस्थल्।  ‘ आर्धधातुकस्येड्वलादेः ' इतीडागमे प्राप्ते ' बभूथाततन्थ° ' इति निपातनादिडभावः ॥ कीदृशस्य यागस्य । **भद्रस्य** भजनीयस्य **दक्षस्य** प्रवृद्धस्य **साधोः** अभीष्टफलानां साधकस्य **ऋतस्य** सत्यभूतस्य **बृहतः** महतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be now the conveyer, **Agni**, of our auspicious, powerful, efficacious, truthful, and great sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, Agni, it is therefore that you have become the charioteer of good  resolve,  
 of skill that brings success, of lofty truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou hast ever been the Car-driver, Agni, of noble  
      Strength, lofty sacrifice, and rightful judgment.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For verily thou, O Agni, hast become the charioteer of auspicious power of the mind, of real ability, and of the mighty Rita.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn darum bist du, Agni, der Lenker des guten Rats, des rechten Wollens, des hohen Gesetzes geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du, o Agni, – warst schöner Thatkraft, – gerechten Sinnes Und hehren Opfers Wagenlenker immer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты, о Агни,  
 Для благой силы духа,  

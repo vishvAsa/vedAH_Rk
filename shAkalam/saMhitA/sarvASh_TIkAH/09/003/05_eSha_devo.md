@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ देवो꣡ रथर्यति  
 प꣡वमानो दशस्यति  
 आवि꣡ष् कृणोति वग्वनु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒विः । कृ॒णो॒ति॒ । व॒ग्व॒नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -66,35 +66,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** क्षरन् **एषः** सोमः **देवः** **रथर्यति** अस्मदीयं यागं प्रत्यागमनाय रथं कामयते । **दशस्यति** आगत्य चास्मभ्यमभिलषितं प्रयच्छति। **वग्वनुं** शब्दम् **आविष्कृणोति** । अभिषूयमाणः प्रकटयति ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This divine (**Soma**), as it drops, prepares its chariot (to come to us); it flings us our boons, it utters a sound.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This god rides on a chariot; while he purifies himself, he shows his favor and makes manifest his noise.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This God, as he is flowing on, speeds like a car and gives his gifts:  
      He lets his voice be heard of all
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott fährt zu Wagen, sich läuternd ist er huldvoll; er ruft Gemurmel hervor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Wagen fährt der rieselnde, und huldvoll zeigt sich dieser Gott, Er lässt erschallen sein Getön.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог едет на колеснице,  
 Павамана оказывает милости,  

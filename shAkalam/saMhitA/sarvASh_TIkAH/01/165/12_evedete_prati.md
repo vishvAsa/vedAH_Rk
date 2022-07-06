@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवे꣡द् एते꣡ प्र꣡ति मा रो꣡चमाना  
 अ꣡नेदियः श्र꣡व ए꣡षो द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छान्त मे छद꣡याथा च नून꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 स॒म्ऽचक्ष्य॑ । म॒रु॒तः॒ । च॒न्द्रऽव॑र्णाः । अच्छा॑न्त । मे॒ । छ॒दया॑थ । च॒ । नू॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eved* ← *eva*
 - \[adverb\]
@@ -121,20 +121,20 @@ genre M
 हे मरुतः **एवेत्** एवमेव **एते** यूयं **मा** मां **प्रति** **रोचमानाः** मद्विषये संप्रीयमाणा मां ख्यापयन्तो वा **अनेद्यः** अनन्तिकस्थं **श्रवः** कीर्तिम् **इषः** च दधानाः । **आ** इति चार्थे । यद्वा । अनेद्य इति प्रशस्यनाम । प्रशस्यं यशोऽस्मत्तो दधाना अस्माभिर्वा धारयमाणाः । **चन्द्रवर्णाः** ॥ चन्द्रमिति हिरण्यनाम । सुवर्णवर्णा यूयं **मे** मां **संचक्ष्य** सम्यक्प्रकाश्य **नूनं** निश्चयम् **अच्छान्त** यशोभिराच्छादितवन्तः **छदयाथ** आच्छादयथ **च** । मां प्रति सर्वदा रोचमाना मय्येव कीर्तिमन्नं च दधाना मत्कृतैः कर्मभिर्मामेव स्तुतेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, verily, glorifying me, and enjoying boundless fame and food (through my favour), edo you, of golden colour, and invested with glory, cover me in requital verily, (with renown).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is just so: Reflecting me here and receiving fame and refreshments as  my irreproachable (warrior band),  
 you, who are to be seen all around with your shimmering colors, have  pleased me, and you will please me now, o Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The med. part. dádhānāḥ is generally tr. ‘receiving’, as the middle voice of √dhā often is, and interpr. to mean that the Maruts also get fame as part of Indra’s reflected glory (see práti … rocamānā(ḥ) in a). But in this charged context of tributes given and received, I think it likely that it is ambiguous. Indra is both graciously yielding the Maruts some glory, but he is also reminding them that they have just produced praise for him (vs. 11) and will presumably continue to do so. In this second sense it could be tr. “setting out praise (for me)” with the middle voice reflecting the mutually intertwined relationship between Indra and the Maruts.
 
@@ -147,23 +147,23 @@ On -ś candrá- see disc. ad 8c.
 Note the pāda-final nūnám, reminiscent of nú in 5c and 9a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, truly, they send forth their sheen to meet me, wearing their blameless glory and their vigour.  
      When I have seen you, Maruts, in gay splendour, ye have delighted me, so now delight me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese, die mir also entgegenstrahlen, die untadelige Schar, die sich Ruhm und Speisegenüsse zulegen - ihr Marut, goldfarbig aussehend habt mit jetzt gefallen und sollt mir auch zukünftig gefallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wie ihr seid hier, mir entgegenstrahlend, mit hohem Ruhm und Kraft begabt, untadlig, Wenn ich euch seh', o Maruts, hellerglänzend, gefielt ihr mir, gefallet ihr mir jetzt auch.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (Маруты,) так сверкающие мне навстречу,  
 Безупречная (толпа), добывающая себе славу и жертвенные подкрепления, –  

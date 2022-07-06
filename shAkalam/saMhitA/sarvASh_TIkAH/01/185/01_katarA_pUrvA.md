@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कतरा꣡ पू꣡र्वा कतरा꣡परायोः꣡  
 कथा꣡ जाते꣡ कवयः को꣡ वि꣡ वेद  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ वर्तेते अ꣡हनी चक्रि꣡येव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 विश्व॑म् । त्मना॑ । बि॒भृ॒तः॒ । यत् । ह॒ । नाम॑ । वि । व॒र्ते॒ते॒ इति॑ । अह॑नी॒ इति॑ । च॒क्रिया॑ऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *katarā* ← *katara*
 - \[noun\], nominative, singular, feminine
@@ -141,7 +141,7 @@ genre M
 **अयोः** एनयोर्द्यावापृथिव्योर्मध्ये **कतरा** **पूर्वा** पूर्वमुत्पन्ना। **कतरा** वा **अपरा** पश्चाद्भाविनी । एवं पौर्वापर्यप्रश्नः । उभयोः अविनाभावेन सहैव वर्तमानत्वादिति भावः । तथा **कथा** केन हेतुना **जाते** किमनयोरुत्पादनमित्यर्थः । हे **कवयः** क्रान्तदर्शिनोऽतीन्द्रियज्ञाः यूयं वदत **को** **वि** **वेद** पौर्वापर्यं कारणं च विशेषेण विविच्य वा जानाति । न केनापि ज्ञायते इत्यर्थः । अज्ञाने कारणमाह। **यद्ध** यस्मात्खलु हेतोः **नाम** प्रसिद्धं **विश्वं** कृत्स्नमपि जगत् अविशेषेण **त्मना** आत्मनैव अन्यनैरपेक्ष्येणैव **बिभृतः** धारयतः । यद्वा । यद्ध नाम यत्किंचित् पदार्थजातमस्ति विश्वं तत्सर्वमात्मना बिभृतः । अनेन यत्कारणं ब्रूमस्तदपि आभ्यामेव भ्रियते इति कारणाभावः प्रतिपादितः । 'उत्तरेण पौर्वापर्याभाव उच्यते । **अहनी** एते द्यावापृथिव्यौ **चक्रियेव** चक्रयुक्ते इव वि **वर्तेते** । अत्र ‘कतरा पूर्वा कतरापरैनयोः ' ( निरु. ३. २२) इत्यादि निरुक्तं द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,34 +152,34 @@ genre M
 Days and nights revolve: **ahan** cakriyeva, two days as if wheeled; i.e. the succession of day and night, each of which may be considered in turn as preceding or folliowing the other, like the rotations of a wheel
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which of these two is the earlier, and which the later? How were they  born, o poets? Who fully understands?  
 By themselves the two carry everything that is a name. Day and Night  roll through (them) like two wheels.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHETHER of these is elder, whether later? How were they born? Who knoweth it, ye sages?  
      These of themselves support all things existing: as on a car the Day and Night roll onward.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Which of the two is earlier, which the later? How were they born, ye sages, who discerns it? They by themselves support all things existing. As with a wheel the day and night roll onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche von diesen beiden ist die frühere, welche die spätere? Wie sind sie entstanden, ihr Seher? Wer weiß es genau? Alles tragen sie selbst, was ein Name ist. Es drehen sich die beiden Tageshälften wie Räder um.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ist von beiden früher? wer die spätre? und wie erzeugt? ihr Weisen, wer entscheidet? Sie beide wahrlich tragen alle Wesen, der Tag, die Nacht, auf einem Rad sich drehend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Которая из них двух – находящаяся впереди, которая последующая?  
 Как родились они, о поэты? Кто знает это точно?  

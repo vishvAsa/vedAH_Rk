@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यम् अ꣡ग्रे प꣡र्य् अवहन्  
 सूर्यां꣡ वहतु꣡ना सह꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दा꣡ अग्ने प्रज꣡या सह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 पुन॒रिति॑ । पति॑ऽभ्यः । जा॒याम् । दाः । अ॒ग्ने॒ । प्र॒ऽजया॑ । स॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -108,40 +108,40 @@ popular;; epic anuṣṭubh (380)
 गन्धर्वा हे अग्ने **तुभ्यमग्ने** **पर्यवहन्** । प्रायच्छन्नित्यर्थः । काम् । **सूर्याम्** । केन सह । **वहतुना** **सह** । त्वं च तां सूर्यां वहतुना सह सोमाय प्रायच्छः । तद्वदिदानीमपि हे अग्ने **पुनः** **पतिभ्यः** अस्मभ्यं **जायां** **प्रजया** **सह** **दाः** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Gandharvas**) gave **Sūrya** to you, **Agni**, with her bridal ornaments; do you, Agni, give (us)husbands our wife back again with **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To you at first they conveyed Sūryā along with her wedding procession. Give the wife back to her husbands, Agni, along with progeny.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee, with bridal train, they, first, escorted Surya to her home.  
      Give to the husband in return, Agni, the wife with progeny.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For thee they first drove Sūryā home Together with the wedding throng: O Agni, to her spouse give back His wife, and to her offspring grant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir führten sie zuerst die Surya samt dem Brautzug zu. Gib sie, Agni, den Gatten als seine Ehefrau zurück nebst Kindern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, o Agni, führte man zuerst die Suriā nebst dem Hochzeitsgeleite zu, so gib du nun andrerseits dem Gatten die Gattin, und Nachkommenschaft obenein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вокруг тебя сначала возили  
 Сурью вместе со свадебной процессией.  

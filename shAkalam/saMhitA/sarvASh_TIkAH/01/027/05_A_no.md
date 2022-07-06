@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो भज परमे꣡षु  
 आ꣡ वा꣡जेषु मध्यमे꣡षु  
 शि꣡क्षा व꣡स्वो अ꣡न्तमस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 शिक्ष॑ । वस्वः॑ । अन्त॑मस्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अग्ने **परमेषु** उत्कृष्टेषु द्युलोकवर्तिषु **वाजेषु** अन्नेषु नः अस्मान् **आ** **भज** सर्वतः प्रापय । **मध्यमेषु** अन्तरिक्षलोकवर्तिषु **वाजेषु** **आ** भज । **अन्तमस्य** अन्तिकतमस्य भूलोकस्य संबन्धीनि **वस्वः** वसूनि **शिक्ष** देहि ॥ शिक्ष। शिक्ष विद्योपादाने '। शपः पित्त्वात् धातुस्वरः । द्व्यचोऽतस्तिङः ' इति संहितायां दीर्घः । अन्तमस्य अन्तिकतमस्य । तमे तादेश्च' (पा.सू. ६.४.१४९. ९) इति तिकशब्दलोपः ॥  ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 The text uses the expressions: in the supreme, in the middle and of the end
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give us a share in the furthest prizes, in the midmost ones;  
 seek mastery over the closest good thing (for us).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give us a share of strength most high, a share of strength that is below,  
      A share of strength that is between.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let us partake of all booty that is highest and that is middle (i. e. that dwells in the highest and in the middle world); help us to the wealth that is nearest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns Anteil an den höchsten Siegerpreisen, an den mittleren, bemühe dich um das nächste Gut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die höchsten Gaben theil uns zu und theil uns zu die mittleren, Beschenk uns mit dem nächsten Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надели нас высшими (наградами),  
 На (дели) средними наградами!  

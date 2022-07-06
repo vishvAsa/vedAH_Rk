@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ त्वा नून꣡म् असुर प्र꣡चेतसं  
 रा꣡धो भाग꣡म् इवेमहे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्र꣡ ते सुम्ना꣡ नो अश्नवन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒हीऽइ॑व । कृत्तिः॑ । श॒र॒णा । ते॒ । इ॒न्द्र॒ । प्र । ते॒ । सु॒म्ना । नः॒ । अ॒श्न॒व॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -130,7 +130,7 @@ genre M
 हे **असुर** बलवन् प्राणवन् हे इन्द्र य उक्तगुणोऽस्ति **तं** **प्रचेतसं** प्रकृष्टज्ञानं **त्वा** । **उ** इत्यवधारणे । पितृवत्पोषकं त्वामेव **राधः** धर्मादिसाधनं धनं **नूनम्** इदानीम् **ईमहे** वयं याचामहे । तत्र दृष्टान्तः । **भागमिव** । यथा कश्चित्पितृभागभूतं धनं याचते तद्वदिन्द्रो यजमानेभ्यः स्तोतृभ्यश्च धनं प्रयच्छत्येव । तस्माद्भागभूतं धनं यष्टारो वयं याचामहे । हे **इन्द्र** **महीव** **कृत्तिः** । कृत्तिर्यशो वान्नं वा । ‘कृती छेदने । करणे क्तिन् । कृन्तत्यनेनेति । ईदृशी कृत्तिरिव **ते** तव **शरणा** शरणं गृहमन्तरिक्षे द्युलोके महद्वर्तते । अत्र यास्कः---‘कृत्तिः कृन्ततेर्यशो वान्नं वा महीव कृत्तिः शरणा त इन्द्र सुमहत्त इन्द्र शरणमन्तरिक्षे कृत्तिरिव' (निरु. ५, २२ ) इति । किंच **ते** तव स्वभूतानि **सुम्ना** सुम्नानि पुत्रादिविषयसुखानि च **नः** अस्मान् **प्र** **अश्नवन्** । प्रकर्षेणाश्नुवतां व्याप्नुवन्तु । अश्नोतेर्लेट्यडागमः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,36 +141,36 @@ genre M
 Living one: **asura** =**balavān** prāṇvān; abode in heaven: your protection is as a vast cloak or hide
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o lord, the forethoughtful one, do we now beseech for bounty, as we  would beseech Bhaga for a portion.  
 Your shelter is like a great hide, Indra. May your benevolent thoughts  reach us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The frame takes a double acc.: “beseech s.o. (tvā) for s.th. (rā́dhaḥ), and I take the simile as implicitly having both roles filled: bhāgám ‘portion’ fills the 2nd acc. slot, but also evokes the god from which it is derived, bhága-, to fill the 1st acc. However, Bhaga should properly be in parens. in the published translation
 
 Geldner takes śaraṇā́as a fem. adj. with kṛ́ttiḥ “Du hast gleichsam ein … schützendes Fell [Schild],” but this leaves nothing for the hide to be compared to. I think rather that śaraṇā́, which is usually in the neut. sg., is a neut. pl., lacking semantic motivation (a not unusual situation), or, alternatively, that it has been attracted to the fem. sg. simile.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such we seek thee now, O Asura, thee most wise, craving thy bounty as our share.  
      Thy sheltering defence is like a mighty cloak. So may thy glories reach to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, o Asura, den Vorsorgenden, gehen wir jetzt um eine Ehrengabe wie um den uns gebührenden Anteil an. Du hast gleichsam ein großes, schützendes Fell. Mögen deine Gnaden zu uns kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum flehn wir dich, den weisen, nun, o Lebensquell, um Gut, wie um ein Erbtheil, an, Dein Schirm, o Indra, ist der weiten Decke gleich; lass deine Huld erlangen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

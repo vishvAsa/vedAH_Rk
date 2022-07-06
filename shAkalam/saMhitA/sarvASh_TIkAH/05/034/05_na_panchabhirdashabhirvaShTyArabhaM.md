@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ पञ्च꣡भिर् दश꣡भिर् वष्टि आर꣡भं  
 ना꣡सुन्वता सचते पु꣡ष्यता चन꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ देवयु꣡म् भजति गो꣡मति व्रजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जि॒नाति॑ । वा॒ । इत् । अ॒मु॒या । हन्ति॑ । वा॒ । धुनिः॑ । आ । दे॒व॒ऽयुम् । भ॒ज॒ति॒ । गोऽम॑ति । व्र॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -138,20 +138,20 @@ genre M
 अयमिन्द्रः **पञ्चभिर्दशभिः** वा सहायैः **आरभम्** आरम्भं शत्रुहननायालम्बनं **न** **वष्टि** साहाय्यं नापेक्षत इत्यर्थः । यद्वा । अमुमिन्द्रं पञ्चभिर्दशभिर्वा यज्ञादन्यैरुपायैः आरभम् आरब्धुमुद्योगं कर्तुं न वष्टि न कामयते । **असुन्वता** अभिषवमकुर्वता सह **पुष्यता** **चन** बन्ध्वादीनपोषयतापि **न** **सचते** न संगच्छते । असुन्वन्तम् अभिषवमकुर्वाणम् अयष्टारम् अपुष्णन्तं च न प्राप्नोतीत्यर्थः । न केवलमप्राप्तिमात्रं किंतु **जिनाति** **वा** । वाशब्दश्चार्थे । जिनाति च । बाधते । **इत्** इति पूरणः । **हन्ति** **वा** **अमुया** अमुमयष्टारं **धुनिः** कम्पकः शत्रूणाम् । **देवयुं** देवमिन्द्रं कामयमानं यजमानं **गोमति** **व्रजे** **आ** **भजति** योजयतीत्यर्थः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He desires not (association in) enterprises with five or with ten; he associates not with the man who does not present libations; and cherishes not (his dependents) may, the terrifier (of foes) punishes him or slays him, but he plural ces the devout man in a pasturage stocked with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He does not wish to grasp (the offerings) (only) by fives or tens. He  does not keep company with a man who doesn’t press (soma), even a  prosperous one.  
 He either despoils (him as he goes) along the way, or the tumultuous one  smashes (him). But he gives to the god-seeker a share in the pen full of  cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The usual arrangement beween Indra and mortals is re-established in this vs., where Indra’s punishment comes only to the stingy and the non-worshipper, and the pious man gets rewarded.
 
@@ -160,23 +160,23 @@ There is a difference of opinion about the sense of pāda a, because of differen
 In c the question is the function of amuyā́. I cannot identify a part of the Witzel Gotō tr. that represents amuyā́. Geldner’s interpr. is minimalistic: íd amuyā́“nur so,” which Klein (II.160) helpfully expands to “only in that circumstance (viz. when a wealthy person does not have soma pressed for him).” This may well be right. However, I compare X.135.2 cárantam pāpáyāmuyā́“going along yonder evil way.” In our passage this may refer to highway robbery: the offending non-presser gets robbed as he makes his way along the road. Or it may be metaphorical: if the non-presser continues to pursue this behavior he’ll be punished.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He seeks no enterprise with five or ten to aid, nor stays with him who pours no juice though prospering well.  
      The Shaker conquers or slays in this way or that, and to the pious gives a stable full of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er wünscht nicht mit Fünfen, mit Zehnen sich zu verbünden, nicht hält er es mit dem Nichtpressenden, auch nicht wenn der in Fülle hat. Er raubt nur so oder erschlägt lärmend. Dem Gottergebenen gibt er Anteil an der Rinderherde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht fünf noch zehn Genossen wünscht er sich zur That, noch ist er hold dem mächt'gen, der nicht Soma presst, Mag drängen dort der schnaubende und morden auch, so schenkt er doch dem Frommen rinderreichen Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни с пятерыми, ни с десятерыми не хочет он связываться.  
 Он не придерживается того, кто не выжимает (сому), даже если тот процветает.  

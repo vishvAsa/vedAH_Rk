@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अस्य ह꣡रिं ह꣡रयो मृजन्ति  
 अश्वहयइ꣡र् अ꣡निशितं न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्वाँ꣡ एना सुमतिं꣡ याति अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । ति॒ष्ठ॒ति॒ । रथ॑म् । इन्द्र॑स्य । सखा॑ । वि॒द्वान् । ए॒न॒ । सु॒ऽम॒तिम् । या॒ति॒ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -122,41 +122,41 @@ genre M
 **हरयः** हरन्त्यभिषुण्वन्ति सोममित्यृत्विजोऽङ्गुलयो वा **हरिं** हरितवर्णम् **अस्य** सोमस्य कारणमंशुं **सं** **मृजन्ति** सम्यगभिषुण्वन्ति । ततः सोमः **नमोभिः** नामयितृभिः **अश्वहयैः** । व्याप्तैरपि **अनिशितम्** असंस्कृतमयुक्तमननुगतं **रथं** रमणसाधनमात्मीयं दशापवित्रम् **आ** **तिष्ठति** आसीदति । अनन्तरम् **इन्द्रस्य** **सखा** सखिभूतः **विद्वान्** प्राज्ञः सोमः **एना** एतेन रथेन पवित्रेण **सुमतिं** शोभनस्तुतिकं स्तोतारम् **अच्छ** **याति** अभिगच्छति । तस्मिन् काले तेन क्रियमाणां स्तुतिमभिगच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests express his green-tinted (juice); he mounts the chariot unyoked by the horse-driving salutations; the wise **Soma** the friend of **Indra** goes to meet the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tawny ones [=fingers] jointly groom his tawny (horse), without  resting, with acts of reverence that spur on the horse.  
 The comrade of Indra mounts the chariot; the knowing one drives with  him to our good thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation doesn’t make it sufficiently clear that “without resting” qualifies the “tawny (horse).” Geldner and Renou construe gen. índrasya with the chariot, while I take it with the comrade - and Ober vacillates (comrade II.100, chariot II.204). Since índrasya is positioned between chariot and comrade, word order doesn’t help. In my view ‘comrade’ is inherently relational and generally needs to be defined with reference to another being or beings, as comrade to someone, hence my tr. See also nearby
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men decked with gold adorn his golden tendril, incessantly with steed-impelling homage.  
      The Friend of Indra mounts his car well-knowing, he comes thereon to meet the prayer we offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die goldenen Finger putzen sein goldfarbiges Roß unablässig unter Verbeugungen, die das Roß zur Eile treiben. Als Freund besteigt er Indra´s Wagen. Durch ihn gelangt der Wissende zur Gunst des Gottes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die goldnen Finger streicheln seinen Goldhengst mit Ehrfurcht ihn, den keine Treiber spornen; Als Indra's Freund besteigt er seinen Wagen und kommt dadurch in seine Gunst, der Kluge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его буланого (коня) вместе начищают буланые  
 Безустали, с поклонениями, погоняющими коней.  

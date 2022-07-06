@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡त् साकं꣡ यश꣡सो वावशानाः꣡  
 स꣡रस्वती सप्त꣡थी सि꣡न्धुमाता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ स्वे꣡न प꣡यसा पी꣡पियानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 याः । सु॒स्वय॑न्त । सु॒ऽदुघाः॑ । सु॒ऽधा॒राः । अ॒भि । स्वेन॑ । पय॑सा । पीप्या॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 **यत्** यासां गङ्गादीनां नदीनां मध्ये **सिन्धुमाता** अपां मातृभूता **सरस्वती** एतदाख्या नदी **सप्तथी** सप्तमी भवति **सुदुघाः** कामान् दोग्धुं सुशक्याः **सुधाराः** शोभनधारो पेताश्च नद्यः **सुष्वयन्त** सुष्वयन्ते। गतिकर्मैतत् । प्रवहन्ति । **स्वेन** स्वकीयेन **पयसा** उदकेन **अभि** **पीप्यानाः** **याः** च अभिवर्धयन्त्यः **यशसः** अन्नवत्यः **वावशानाः** कामयमाना नद्यः **साकं** युगपदेव **आ** गच्छन्तु । आ इत्युपसर्गस्य योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 Themother of the Sindhu: sindhu **mātā** = apam mātṛbhūtā, being the mother of the waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the glorious ones are bellowing simultaneously—(the other rivers  and) Sarasvatī, whose mother is the Sindhu, as seventh—  
 who are richly fertile, rich in milk, rich in streams, they (come) toward  (us), swelling with their own milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 According to Oldenberg and Geldner, this vs. consists only of dependent clauses, and this is certainly true descriptively: there are two subordinate clauses marked by the subordinating conj. yád ‘when’ (a) and the rel. prn. yā́ḥ (c), one accented verb (suṣváyanta) in the rel. cl. of c, and no main verbs. In the published translation I take d as a covert main clause, signalled only by the preverb abhí, with which I supply a verb of motion. However, it is perfectly possible that d is simply a continuation of the rel. cl.
 
@@ -157,23 +157,23 @@ For the phrase yújyam … rayím see VIII.46.19.
 The nom. pl. té is very oddly positioned, in the middle of both clause and pāda, breaking up the NP yújyam … rayím, and not even adjoining the caesura. I have no explanation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Coming together, glorious, loudly roaring - Sarasvati, Mother of Floods, the seventh-  
      With copious milk, with fair streams, strongly flowing, full swelling with the volume of their water;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die ehrenwerten Flüsse zusammen verlangend herkommen-als siebente die Sarasvati, deren Mutter die Sindhu ist-die fruchtbar sind, reiche Milch geben, reich strömen, von ihrer eigenen Milch strotzend-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn im Verein die schönen Ströme rauschen, sechs Töchter mit Sarasvati, der Mutter, Sie, die mit schöner Milch und Strömung rinnen, von ihrer eignen Saftesfülle schwellend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда при(ближаются) вместе блистательные (реки,) полные желаний, –  
 Сарасвати, чья мать Синдху, седьмая –  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् इषां᳐꣡ सखिये꣡ ददातु न  
 ई꣡शे यो꣡ वा꣡रियाणा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 व꣡सुं स꣡न्तं तनूपा᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । तो॒के । तन॑ये । शश्व॑त् । ई॒म॒हे॒ । वसु॑म् । सन्त॑म् । त॒नू॒ऽपाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ genre M
 **अग्निः** देवः **सख्ये** समानख्यानाय **नः** मह्यम् । सख्युः कर्म सख्यम् । तस्मिन् वा । नोऽस्मभ्यम् **इषाम्** इषोऽन्नानि **ददातु** । **यः** अग्निः **वार्याणां** धनानाम् **ईशे** ईष्टे स ददात्विति । तमेव **अग्निं** **तोके** पुत्रार्थं **तनये** तत्पुत्रार्थं च **शश्वत्** बहु धनमन्नं वा **ईमहे** याचामहे । वार्याणामीश इत्युक्तत्वादेवं लभ्यते । कीदृशमग्निम् । **वसुं** वासकं **सन्तं** सर्वदा वर्तमानं **तनूपाम्**  अङ्गानां पालयितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,30 +128,30 @@ genre M
 May Agni giveus: mahyam = naḥ; may agni give food to me, his friend
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Agni in fellowship give us of his refreshments, he who is master of  valuable things.  
 Agni we beseech over and over when progeny and posterity (are at  
 stake), since he is the good one, the protector of our bodies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni who is Lord of wealth vouchsafe us food for friendship sake.  
      Agni we ever seek for seed and progeny, the Vasu who protects our lives.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni soll uns in Freundschaft Speisegenüsse geben, der über die Kostbarkeiten gebeut. Den Agni bitten wir immer wieder um leiblichen Samen, ihn, den Gütigen, den Schützer der Person.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Freundschaft schenk uns Agni von den Labungen, der über Güter frei verfügt; Wir bitten Agni stets um Kind und Enkelschar, als guten Leibbeschützer ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

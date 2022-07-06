@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपो꣡ वृत्रं꣡ वव्रिवां꣡सम् प꣡राहन्  
 प्रा꣡वत् ते व꣡ज्रम् पृथिवी꣡ स꣡चेताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡तिर् भ꣡वञ् छ꣡वसा शूर धृष्णो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । अर्णां॑सि । स॒मु॒द्रिया॑णि । ऐ॒नोः॒ । पतिः॑ । भव॑न् । शव॑सा । शू॒र॒ । धृ॒ष्णो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
@@ -119,20 +119,20 @@ genre M
 हे इन्द्र **प्रावत्** राक्षसादिभ्यः प्रकर्ष्ण लोकान् पालयितृ **ते** त्वदीयं **वज्रम्** **अपः** वृष्टिलक्षणान्युदकानि **वव्रिवांसम्** आवरकं **वृत्रं** मेघं **पराहन्** प्रकर्षेण प्रेरयति स्म । **पृथिवी** भूमिः **सचेताः** चेतनावती । त्वया संगता बभूव । **धृष्णो** धर्षणशील हे **शूर** विक्रान्तेन्द्र त्वं **शवसा** बलेन **पतिर्भवन्** लोकानां पालकः सन् **समुद्रियाणि** समुद्रसंबन्धीनि **अर्णांसि** नभसि स्थितानि उदकानि **प्र** **ऐनोः** प्रेरकः अभूः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your protecting thunderbolt has slain **Vṛtra** obstructing the (issue of the waters), the conscious earth (co-operating) with you; valiant hero, preserver (of the regions), send down by your strength the waters of the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You smashed away Vr̥tra, who had been enclosing the waters. Of one  mind with you, Earth helped your mace.  
 You sped the seaward floods forward, becoming their lord by your  power, you daring champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner tr. párāhan as a 3rd sg., continuing the 3rd persons of vs. 6, but the rest of vs. 7 has 2nd ps. reference. The verb ahan, ambiguous between 2nd and 3rd sg., serves as a modulation form, as often (cf. I.32.3d, 4a, for ex.).
 
@@ -145,23 +145,23 @@ As noted in the published introduction, these two vss. tease apart the Vala and 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He smote away the floods' obstructer, Vrtra; Earth, conscious, lent her aid to speed thy thunder.  
      Thou sentest forth the waters of the ocean, as Lord through power and might, O daring Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Vritra, der die Wasser eingeschlossen hatte, schlug er weg. Die Erde, die im Einverständnis war, unterstützte deine Keule. Du setztest die zum Meer gehenden Ströme in Bewegung, der du durch deine Kraft ihr Herr wurdest, du kühner Held.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schlugst den Vritra, der die Wasser einschloss; willfährig half die Erde deinem Blitze; Du triebst empor des Meeres Wasserwogen, o kühner Held, der du mit Kraft gebietest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он разбил Вритру, замкнувшего воды.  
 Земля, единодушная (с тобой), поддержала твою дубину.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् उ प्र꣡यक्षतमम् अस्य क꣡र्म  
 दस्म꣡स्य चा꣡रुतमम् अस्ति दं꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡धुअर्णसो नदि꣡यश् च꣡तस्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒प॒ऽह्व॒रे । यत् । उप॑राः । अपि॑न्वत् । मधु॑ऽअर्णसः । न॒द्यः॑ । चत॑स्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -114,21 +114,21 @@ genre M
 ह्वृ कौटिल्यै '। कौटिल्यलक्षणगतिवाचिनात्र गतिमात्रं लक्ष्यते । उपह्वरन्ति गच्छन्त्यस्मिन् नद्य इत्युपह्वरो भूप्रदेशः ।  ‘ पुंसि संज्ञायां घः प्रायेण ' ( पा. सू. ३. ३. ११८) इत्यधिकरणे घप्रत्ययः । गुणः । कृदुत्तरपदप्रकृतिस्वरत्वम् । अपिन्वत् ।  ‘ पिवि सेचने '। भौवादिकः । चतस्रः । शस् ।  ‘ त्रिचतुरोः स्त्रियां तिसृचतसृ' (पा. सू. ७. २. ९९ ) इति चतुर्शब्दस्य चतस्रादेश आद्युदात्तो निपातितः । पूर्वसवर्णदीर्घे  प्राप्ते ' अचि र ऋतः ' ( पा. सू. ७. २. १०० ) इति रेफादेशः । चतुर्शब्दस्य आद्युदात्तत्वात् स्थानिवद्भावेन चतस्रादेशस्य आद्युदात्तत्वे सिद्धेऽपि पुनराद्युदात्तनिपातनसामर्थ्यात् यणादेशस्य वा पूर्वविधौ स्थानिवद्भावात् “ चतुरः शसि ' इत्यन्तोदात्तत्वस्याभावः । न च ' न पदान्त°' इति स्थानिवद्भावप्रतिषेधः, स्वरदीर्घयलोपेषु लोपाजादेश एव न स्थानिवत् अन्यत्तु स्थानिवदेव ( पा. सू. १. १. ५८.१ ) इति नियमात् ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The deeds of that graceful **Indra** are most admirable; his exploits are most glorious, in that he has replenished the four rivers of sweet water, spread over the surface of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is his most conspicuous deed, the dearest wonder of the  
 wondrous one,  
 that he made the four nearer (celestial?) rivers with their honeyed floods  swell in their eddying.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse has to be Nodhas’s joke. It is conspicuously placed, as the central verse of the hymn and thus a potential omphalos, and it announces Indra’s deed (kárma) with extraordinary fanfare, including two superlatives (práyakṣatamam … cā́rutamam). But in a hymn so far devoted to what is one of Indra’s greatest deeds, the opening of the Vala cave, the poet springs on us instead a deed of utter obscurity involving the swelling of four rivers, an act with no other clear mentions in the RV.
 
@@ -139,23 +139,23 @@ The asti in this hemistich may provide another bit of evidence for this view.
 Unaccented asti almost always has existential value (“there exists…”) because the 3rd sg. pres. copula in equational sentences (“X is Y”) is regularly (indeed, probably by rule) gapped. But an existential sense here doesn’t work (“There exists this most conspicuous deed…”). I suggest that the overt asti here signals a strong assertion in the face of expected opposition (“This is his most conspicuous deed” - rather like American children’s quarrels: “is too” “is not”). The disputed word upahvaré adds to the obscurity of this bit of myth. It is clearly a derivative of √hvṛ ‘go crookedly, deviate’, but the exact sense of this nominal derivative is not clear. In this passage Geldner takes it as ‘lap’ (Schoss), Renou as ‘fold, crease’ (repli), Witzel Gotō as ‘abyss, chasm’ (Abgrund), while Schmidt bypasses any literal rendering with “im Felsen.” Lüders considers it the name “für den Behälter des himmlischen Urquells,” which of course fits his larger picture of the heavenly ocean. I consider the word to convey in the first instance a visual image, that of a meander or deviation from the straight. In connection with rivers (as also in VIII.96.14) it refers to eddies, the circular or oval shapes produced against the current by uneven flow -- or to the “oxbows” or “meanders” created in a river’s course by such uneven flow (Google images are quite striking). In other geographical contexts it can refer to byways, detours from the straight path, and ultimately to remote places, the backeddies, as it were, of the mountains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the deed most worthy of all honour, the fairest marvel of the Wonder-Worker,  
      That, nigh where heaven bends down, he made four rivers flow full with waves that carry down sweet water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ist eine erstaunliche Tat, das beste Meisterstück des Meisters, daß er die vier süßflutenden Ströme unten in ihrem Schoße schwanger milchstrotzend machte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und das ist seiner Werke allerstärkstes, die schönste Wunderthat des wunderbaren, Dass an dem Abhang er die untern Ströme, die vier von süssem Honig flutend füllte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А самое поразительное его деяние,  
 Лучший удивительный подвиг удивительного состоит в том,  

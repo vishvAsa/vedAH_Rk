@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्प꣡तिः प्रथमं꣡ जा꣡यमानो  
 महो꣡ ज्यो꣡तिषः परमे꣡ वि꣡ओमन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ सप्त꣡रश्मिर् अधमत् त꣡मांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒प्तऽआ॑स्यः । तु॒वि॒ऽजा॒तः । रवे॑ण । वि । स॒प्तऽर॑श्मिः । अ॒ध॒म॒त् । तमां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ genre M
 अयं **बृहस्पतिः** मन्त्राभिमानी देवः **महः** महतः **ज्योतिषः** दीप्तस्य आदित्यस्य  **परमे** निरतिशये **व्योमन्** व्योमनि **प्रथमं** **जायमानः** प्रादुर्भवन् **सप्तास्यः** सप्तच्छन्दोमयमुखः **तुविजातः** बहुप्रकारं संभूतः **रवेण** शब्देन **सप्तरश्मिः** सर्पणस्वभावतेजोयुक्तः **तमांसि** **वि** **अधमत्** ।' धमतिर्गतिकर्मा ' ( निरु. ६. २ ) इति निरुक्तम् । विविधं गच्छति । नाशयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,14 +128,14 @@ genre M
 Seven-mouthed: the seven metres are said to be his mouths
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Br̥haspati, on first being born from the great light, in the farthest  distant heaven,  
 he, possessing seven mouths [=Aṅgirases] and seven reins [=seers?],  being powerfully born, blew apart the dark shades with  
 his roar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Macdonell, I take mahó jyótiṣaḥ as a separate abl. phrase, rather than a gen. qualifying paramé vyòman with the standard interpr. Since we otherwise know little or nothing about Bṛhaspati’s birth, it is difficult to make an informed choice. I have gone with the abl. interpr. because the common phrase paramá- vyòman- does not seem to be qualified by a gen. phrase elsewhere (though this is not decisive) and because the contrast in this vs. between light and the darkness that Bṛhaspati blows away would be stronger if he were directly born from light.
 
@@ -154,28 +154,28 @@ As indicated in the published introduction, this section concerns the unitary fi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, when first he had his being from mighty splendour in supremest heaven,  
      Strong, with his sevenfold mouth, with noise of thunder, with his seven rays, blew and dispersed the darkness.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Bṛhaspati when first he was engendered From mighty lustre in the highest heaven, Seven-mouthed and high-born, with his voice of thunder And seven rays asunder blew the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati hat zuerst, als er im höchsten Raume des großen Lichtes geboren ward, mit Gebrüll aus siebenfachem Munde die Finsternis zerblasen, von starker Art, mit sieben Zügeln.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, sobald er war geboren im höchsten Himmel aus dem hellen Glanze, Zerblies das Dunkel mit Gebraus gewaltig, mit sieben Strahlen und aus sieben Schlünden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брихаспати, рождаясь сначала  
 От великого света на высшем небе,  

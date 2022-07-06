@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ द्या꣡वा यज्ञइः꣡ पृथिवी꣡ ऋतावृ꣡धा  
 मही꣡ स्तुषे विद꣡थेषु प्र꣡चेतसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इत्था꣡ धिया꣡ वा꣡रियाणि प्रभू꣡षतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वेभिः॑ । ये इति॑ । दे॒वपु॑त्रे॒ इति॑ दे॒वऽपु॑त्रे । सु॒ऽदंस॑सा । इ॒त्था । धि॒या । वार्या॑णि । प्र॒ऽभूष॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 **द्यावा** **पृथिवी** द्यावापृथिव्यौ ॥  ‘ दिवो द्यावा' इति द्यावादेश आद्युदात्तः । पृथिवीशब्दो ङीषन्तोऽन्तोदात्तः ।  ‘ देवताद्वन्द्वे च ' इति उभयपदप्रकृतिस्वरत्वम् । समासमध्ये पदान्तरपाठश्छान्दसः ॥ अहं यजमानः **यज्ञैः** यागैस्तत्प्रदानैः निमित्तभूतैः हविष्प्रदानार्थं **प्र** **स्तुषे** प्रकर्षेण स्तौमि ॥ पुरुषव्यत्ययः । कीदृश्यौ ते। **ऋतावृधा** यज्ञस्य वर्धयित्र्यौ **मही** महत्यौ **विदथेषु** यागेषु **प्रचेतसा** प्रकर्षेण अस्मांश्चेतयित्र्यौ अस्माभिश्चेतयितव्ये वा । ईदृश्यौ स्तुषे । अनयोः कोऽतिशय इति उच्यते । **ये** द्यावापृथिव्यौ **देवेभिः** यजमानैः **देवपुत्रे** देवा यजमानाः पुत्रस्थानीयाः शुश्रूषका ययोस्ते तादृश्यौ । यद्वा । देवेभिर्विशिष्टे । **सुदंससा** । दंस इति कर्मनाम । शोभनकर्मोपेते । **इत्था** सत्यम् । इत्थेति सत्यनाम, सत्रा इत्था ' (नि. ३. १०. ५) इति तन्नामसु पाठात् । सत्यं **धिया** अस्मदनुग्रहबुद्ध्या **वार्याणि** वरणीयानि धनानि अस्मभ्यं **प्रभूषतः** अलंकुरुतः दत्त इत्यर्थः । यद्वा । वार्याणि हवींषि धिया कर्मणा निमित्तेन कर्मसमाप्त्यर्थं प्रभूषतः प्रकर्षेण स्वीकुरुतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ Cherishing their worshippers as children: devebhir ye devaputre sudaṃsasa" = w
 **Deva** = **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I shall start up the praise, along with sacrifices, to Heaven and to Earth,  the two great ones growing strong through truth, the discerning ones,  at the rites of distribution,  
 those of wondrous power, whose sons are gods, who together with the  gods tender things of value (to the mortal) who has an insight right to  the point.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 prá √bhūṣ is found only here (though cf. úpa-pra √bhūṣ in III.55.1 and ánu prá √bhūṣ in IX.29.1) and the meaning of √bhūṣ in all its manifestations is notoriously slippery. My tr. here is somewhat illegitimate: I generally tr. the lexemes in III.55.1 as ‘tend to’, ‘attend upon’; my ‘tender’ here (a verb that has nothing to do synchronically with ‘(at)tend’) is a pun on the English. Nonetheless, something like it seems called for here: busy oneself with something to present and bring it forward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I PRAISE with sacrifices mighty Heaven and Earth at festivals, the wise, the Strengtheners of Law.  
      Who, having Gods for progeny, conjoined with Gods, through wonder-working wisdom bring forth choicest boons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Lob stimme ich unter Opfern an auf Himmel und Erde, die Gesetzesstärker, die großen, in der Weisheit erfahrenen, die Göttermütter, die mit den Göttern Gutes wirkend ganz nach ihrem Sinn kostbare Dinge zur Schau tragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Opfern ehr den Himmel und die Erde ich, beim Fest die grossen, weisen, die des Rechts sich freun, Die Götterältern, die mit Göttern gross an Macht aus eignem Antrieb schöne Gaben uns verleihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я Славлю жертвами Небо и Землю,  
 Сильных законом, великих, прозорливых на местах жертвенных раздач,  

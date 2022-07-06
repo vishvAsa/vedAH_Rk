@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡वं त इन्द्र महिमा꣡ वि꣡ आनड्  
 ब्र꣡ह्म य꣡त् पा꣡सि शवसिन्न् ऋ꣡षीणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घोरः꣡ स꣡न् क्र꣡त्वा जनिष्ठा अ꣡षाळ्हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । यत् । वज्र॑म् । द॒धि॒षे । हस्ते॑ । उ॒ग्र॒ । घो॒रः । सन् । क्रत्वा॑ । ज॒नि॒ष्ठाः॒ । अषा॑ळ्हः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
@@ -136,20 +136,20 @@ genre M
 हे **शवसिन्** बलवन् **इन्द्र** **यत्** यदा **ऋषीणां** **ब्रह्म** स्तोत्रं **पासि** रक्षसि । स्तोत्रस्य रक्षणं नाम फलप्रदानम् । तदा **ते** तव **महिमा** **हवं** हवः स्तोता तं **व्यानट्** व्याप्नोतु । हे **उग्र** ओजस्विन्निन्द्र **यत्** यदा **हस्ते** पाणौ **वज्रम्** **आ** दधिषे धारयसि तदा **क्रत्वा** शत्रुवधादिना कर्मणा **घोरः** **सन्** अषाळ्हः शत्रुभिरनभिभूतः **जनिष्ठाः** अजनिष्ठाः अभवः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Endowed with strength, since you grant the prayers of the Ṛṣis, let your greatness, **Indra**, extend tothine invoker; and as, fierce deity, you hold the thunderbolt in your **hand**, then formidable by your exploits youhave become invincible.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your greatness, Indra, has penetrated through to our call, in that you  protect the sacred formulations of the seers, o powerful one,  
 when, o strong one, you have taken the mace in your hand. Being terrible  by virtue of your will, you were born invincible—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a continues the theme of competitive invocations embodied in the lexeme ví √hvā in 1c vihávanta with hávam … ví, even though the two words are not to be construed together.
 
@@ -164,23 +164,23 @@ With janiṣṭhā áṣāḷhaḥ compare VII.20.3 janúṣem áṣāḷhaḥ.
 Although nominative forms of the pres. part. to √as ‘be’, particularly sán, are ordinarily concessive, I cannot see a concessive force here. Perhaps it is here almost as a place-holder, to match the yád forms in the same position in surrounding pādas (2b, c, 3b [whose yán in sandhi rhymes with sán]).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy greatness reacheth to our invocation, the sages' prayer which, Potent God, thou guardest.  
      What time thy hand, O Mighty, holds the thunder, awful in strength thou hast become resistless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Hoheit, Indra, hat unsere Ladung angenommen, das erbauliche Wort der Rishi´s, auf das du achtest, du Mächtiger. Wenn du Gewaltiger die Keule in die Hand genommen hast, so wardst du unbezwinglich, schon durch deinen Entschluß furchtbar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Ruf erreichte, Indra, deine Hoheit, weil du zum Spruch der Sänger eilst, o starker; Als in die Hand den Blitz du nahmst, gewalt'ger, warst unbezwinglich du, auch sonst schon furchtbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твое величие, о Индра, пронизало (наш) призыв,  
 Священное слово риши, которое ты охраняешь, о мощный.  

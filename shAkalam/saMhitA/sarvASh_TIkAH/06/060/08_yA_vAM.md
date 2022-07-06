@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वां स꣡न्ति पुरुस्पृ꣡हो  
 नियु꣡तो दाशु꣡षे नरा  
 इ꣡न्द्राग्नी ता꣡भिर् आ꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्रा॑ग्नी॒ इति॑ । ताभिः॑ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -96,20 +96,20 @@ genre M
 हे **नरा** नेताराविन्द्राग्नी **वां** युवयोः स्वभूताः **पुरुस्पृहः** पुरुभिर्बहुभिः स्पृहणीया: **दाशुषे** हवींषि दत्तवते यजमानार्थमुत्पन्नाः **याः** **नियुतः** अश्वाः **सन्ति** हे **इन्द्राग्नी** **ताभिः** नियुद्भिः **आ** **गतम्** आगच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, leaders (of rites), whose **Niyut** steeds are desired by many, come with them to the donor (of the libation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those much-sought-after teams of yours which are for the pious, you  superior men,  
 come here with those, o Indra and Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Geldner in construing dāśúṣe with sánti (“which are for the pious”) rather than with puruspṛ́haḥ (Renou “pour l’adorateur les très enviés”) because puruspṛ́h- doesn’t seem to appear with a dat. elsewhere. See the almost identical IV.47.4.
 
@@ -123,23 +123,23 @@ I follow Geldner in construing dāśúṣe with sánti (“which are for the pio
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Indra-Agni, with those teams, desired of many, which ye have,  
      O Heroes, for the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure vielbegehrten Gespanne und Gaben, die ihr Herren für den Opfernden habt, mit denen kommet, Indra und Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit euren Wagenzügen eilt den vielbegehrten, Männer ihr, Dem Frommen, Indra-Agni, zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) многожеланные упряжки, что есть у вас,  
 О два мужа, для почитающего (вас),  

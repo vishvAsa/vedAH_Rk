@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ जुषेथां स꣡वना  
 ये꣡भिर् हव्या꣡नि ऊह꣡थुः  
 इ꣡न्द्राग्नी आ꣡ गतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्द्रा॑ग्नी॒ इति॑ । आ । ग॒त॒म् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
@@ -91,42 +91,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्राग्नी** **नरा** नेतारौ युवा **येभिः** यैः सवनैः **हव्यानि** **ऊहथुः** वहथः तानि **इमा** इमानि **सवना** सवनानि **जुषेथा** सेवेथाम् । **आ** **गतं** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accept these sacrifices whereby you have borne away the oblations; leaders of rites, **Indra** and **Agni**,come hither.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy these pressings here, because of which you conveyed the  
 oblations.  
 – Indra and Agni, come here, men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is somewhat awkward because it states that both Indra and Agni carry oblations. Geldner gets out of the difficulty by making the oblations an acc. of goal with an intransitive reading of ūháthuḥ (“… ihr zu den Opfergaben gefahren sind”), but Oldenberg convinces me (ad I.84.18, with a number of parallel passages) that we cannot sidestep the transitivity in these expressions (√vah + oblation(s)). In this particular case we can attribute the transitive phrase to a feature of Indra and Agni hymns noted in the published introduction, that both gods get credited with actions or qualities appropriate to only one of them, and Agni is of course the conveyor of oblations par excellence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be pleased with these libations which attract you to our sacred gifts  
      Indra and Agni, Heroes, come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt an diesen Trankopfern Wohlgefallen, derentwegen ihr zu den Opfergaben gefahren seid! Indra und Agni kommet her, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O nehmet diese Spenden an, die euch zum Opfer locken her, O Männer, Indra-Agni, kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь этими соками,  
 Благодаря которым вы приехали к жертвенным дарам!  

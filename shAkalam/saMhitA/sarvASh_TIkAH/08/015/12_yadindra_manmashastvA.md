@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र मन्मश꣡स् तुवा  
 ना꣡ना ह꣡वन्त ऊत꣡ये  
 अस्मा꣡केभिर् नृ꣡भिर् अ꣡त्रा सु꣡वर् जय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒स्माके॑भिः । नृऽभिः॑ । अत्र॑ । स्वः॑ । ज॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -89,41 +89,41 @@ genre M
 हे **इन्द्र** **यत्** यस्मिन् संग्रामे त्वां **मन्मशः** मन्मना स्तोत्रेण **नाना** बहुप्रकारं **हवन्ते** आह्वयन्ति । किमर्थम् । **ऊतये** रक्षायै । **अत्र** अस्मिन् संग्रामे **अस्माकेभिः** अस्माकैरस्मदीयैरेव **नृभिः** नेतृभिः स्तोतृभिराहूतः सन् **स्वः** शत्रुबलं **जय** अभिभव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When (in the combat), **Indra**, they invoke you in many ways with praise for protection, then do you (soinvoked) by our leaders overcome all (our enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra, they call upon you for help, every man for himself,  according to his own thought,  
 with our superior men win the sun now.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that nā́nā opening b picks up nā́nyá(ḥ) opening vs. 11.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though here and there, in varied hymns, Indra, men call on thee for aid,  
      Still with our heroes fight and win the light of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sie dich, Indra, von verschiedenen Seiten je nach ihren Absichten zu Hilfe rufen, so gewinne du dabei mit unseren Herren das Sonnenlicht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, auch nach ihrem Sinn um Huld dich viele rufen an, So mögst du Glanz gewinnen doch durch unsre Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Индра, тебя зовут на помощь  
 С разных сторон каждый со своим замыслом,  

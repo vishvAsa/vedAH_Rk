@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिन्व꣡न्ति सू꣡रम् उ꣡स्रयः  
 प꣡वमानम् मधुश्चु꣡तम्  
 अभि꣡ गिरा꣡ स꣡म् अस्वरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । गि॒रा । सम् । अ॒स्व॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उस्रयः** कर्मकरणार्थमितस्ततः संचरन्त्योऽङ्गुलयः **मधुश्चुतं** मदकरस्य रसस्य च्यावयितारं **सूरं** सुवीर्यं सर्वस्य यागादिकर्मणि प्रेरकं **पवमानं** सोमं **हिन्वन्ति** अभिषवार्थं संप्रेरयन्ति । ततः स्तोतारः **गिरा** स्तुत्या तमेनम् **अभि** **समस्वरन्** सम्यगभिष्टुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,13 +85,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Heroic: i.e., the instrumental gator of everybody's good actions (sacrifice)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The rosy (fingers) impel the sun; to the self-purifying one, dripping  with honey,  
 they cry out in unison with a song.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -103,23 +103,23 @@ The published translation contains a grammatical error: asvaran should of course
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The glittering maids send Sura forth they with their song have sung aloud  
      To Pavamana dropping meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die morgendlichen Gesänge bringen die Sonne in Bewegung, den von Süßigkeit überfließenden Pavamana; sie haben ihm mit Lobesworten im Chore zugesungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne treiben strahlend sie die flammende, die Honig trieft, Und rauschen ihr mit Liedern zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Утренние зори поторапливают солнце,  
 Паваману, испускающего сладость.  

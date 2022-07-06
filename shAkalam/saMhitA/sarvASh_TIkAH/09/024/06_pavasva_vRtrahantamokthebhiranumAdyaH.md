@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व वृत्रहन्तम  
 उक्थे꣡भिर् अनुमा꣡दियः  
 शु꣡चिः पवाको꣡+ अ꣡द्भुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 शुचिः॑ । पा॒व॒कः । अद्भु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -72,40 +72,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **वृत्रहन्तम** शत्रूणामतिशयेन हन्तरिन्दो त्वं **पवस्व** क्षर । कीदृशस्त्वम् । **उक्थेभिः** शस्त्रैः **अनुमाद्यः** स्तुत्यः **शुचिः** शुद्धः **पावकः** अन्यस्य शोधकः **अद्भुतः** महान् । एवंमहानुभावः पवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Utter destroyer of enemies, flow forth, to be propitiated by praises, pure, purifying, wonderful.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, best smasher of obstacles, to be celebrated with hymns, gleaming, pure, unerring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, Indra’s most characteristic epithet, “Vṛtra/obstaclesmasher,” is here applied to Soma instead -- another ex. of identity trading. The gerundive anumā́dya-, which was ambiguously used in 4c for either Soma or Indra or both, may signal the blurring of identity between them here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow on, best Vrtra-slayer; flow meet to be hailed with joyful lauds.  
      Pure, purifying, wonderful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, du Erzfeindetöter, von Lobliedern bejubelt, rein, lauter, unbegreiflich!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle, Feinde-tödtendster, durch Sprüche hoch zu rühmender, Erglänzend, flammend, wunderbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о лучший убийца врагов,  
 Которого надо приветствовать гимнами,  

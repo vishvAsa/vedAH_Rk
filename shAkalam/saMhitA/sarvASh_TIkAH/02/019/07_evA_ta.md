@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ त इन्द्र उच꣡थम् अहेम  
 श्रवस्या꣡ न꣡ त्म꣡ना वाज꣡यन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नन꣡मो व꣡धर् अ꣡देवस्य पीयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒श्याम॑ । तत् । साप्त॑म् । आ॒शु॒षा॒णाः । न॒नमः॑ । वधः॑ । अदे॑वस्य । पी॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M;; repeated line
 हेइन्द्र श्रवस्या सुपांसुलुगितितृनीयायाःपूर्वसवर्णदीर्घः अन्नेच्छयावाजयन्तः त्वाम्बलिनकुर्वन्तः यद्वा श्रवस्यायशःकामनया वाजयन्तोन्नमिच्छन्तः इच्छायामपिणिच् दृश्यते अश्वायन्तोगव्यन्तोवाज यन्तइतिक्यजन्तत्वेचित्प्रातिपदिकस्यान्तोदात्तत्वंस्यात् वाजयन्तःश्तक्रतुमितियथा तादृशावयन्तेएव तुभ्यमेव उचथंस्तोत्रं त्मना आत्मनास्वयमेव नअहेम इदानीम्प्रापयेम अहिगतौ नसम्प्रत्यर्थे आशुषा- णाः अश्नोतेःकानचिव्यत्ययोबहुलमितिलिट्यपिविकरणद्वयं उप्रत्ययः त्वामश्नुवानाः वयन्तदभिलषितं तत्साप्तंसप्तपुरुषसम्बन्धि साप्तपदीनंसख्यं अश्याम व्याप्नुयाम अदेवस्य देवानिन्द्रादीनजानतः पीयोः पीयतिर्हिंसकर्मा हिंसकस्यासुरस्यवधः वध्यन्तेशत्रवोनेनेतिवधरायुधन्ननमः तत् अधोनमय ननमः णमुप्रह्वत्वे ण्यन्तस्यलुङिचङिरूपं मितांह्रस्वइतिह्रस्वः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ May we rely upon your friend: aśyāma tat saptam: sapta = from sapta, seven; a 
 Pīyu = either an **asura**, in genitive ral or the name of a particular asura
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So we have sent to you our recitation, Indra. Like those seeking fame,  racing by themselves for victory’s prize,  
 we would obtain the sevenfold (prize), panting after it. You will bend the  weapon of the godless reviler.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So have we brought our hymn to thee, O Indra, strengthening thee and fain ourselves for glory.  
      May we with best endeavours gain this friendship, and mayst thou bend the godless scorner's weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So haben wir dir, Indra, ein Loblied losgelassen recht wie Preiskämpfer die Rennpferde um den Ruhmespreis zu gewinnen. Wir möchten diese deine Freundschaft erlangen, uns eifrig darum bemühend. Wende die Waffe des gottlosen Widersachers ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So haben Lob wir, Indra, dir bereitet, voll Beutelust, wie auf der Rennbahn eilend, Uns mühend mögen wir den Preis erlangen; des bösen Hassers Keule senke nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот мы сочинили для тебя гимн, о Индра,  
 Как жаждущие награды сами (пускают скакать коней) из желания славы.  

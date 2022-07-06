@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡तुर्दशान्ये꣡ महिमा꣡नो अस्य  
 तं꣡ धी꣡रा वाचा꣡ प्र꣡ णयन्ति सप्त꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न पथा꣡ प्रपि꣡बन्ते सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आप्ना॑नम् । ती॒र्थम् । कः । इ॒ह । प्र । वो॒च॒त् । येन॑ । प॒था । प्र॒ऽपिब॑न्ते । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *caturdaśānye* ← *caturdaśā* ← *caturdaśan*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ popular
 **अस्य** यज्ञरूपस्य परमात्मनः **अन्ये** **चतुर्दश** चतुर्दशसंख्याकाः **महिमानः** विभूतयो भवन्ति । **तं** यज्ञं **सप्त** सप्तसंख्याकाः **धीराः** धीमन्तो होत्रादयः **वाचा** शस्त्ररूपया **प्र** **णयन्ति** प्रकर्षेण नयन्ति । **आप्नानम्** ॥  ‘ आप्लृ व्याप्तौ ' । ताच्छीलिके चानशि व्यत्ययेन विकरणस्य व्यत्ययः॥ व्यापनशीलं **तीर्थं** पापोत्तारणसमर्थं चात्वालोत्करमध्यदेशम् **इह** अस्मिन् यज्ञे **कः** **प्र** **वोचत्** को वक्ति । न कोऽपीत्यर्थः । **येन** **पथा** येन यज्ञमार्गेण **सुतस्य** अभिषुतं सोमं **प्रपिबन्ते** देवा अतिशयेन पिबन्ति ॥ ‘पा पाने । पाघ्रा इत्यादिना पिबादेशः । व्यत्ययेन आत्मनेपदम्। उपसर्गेण समासः । यद्योगादनिघाते ‘तिङि चोदात्तवति' इति गतेर्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ popular
 Fourteen otherdevelopments: the 14 **lokas**; referring to the **paramātmā**, the supreme being, person nified as **Yajña**, orsacrifice; expanded plural ce of sanctity: the plural ce between the cativala (or hole dug in the ground for sacrifice) andthe heap of rubbish
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fourteen are the other powers of this one [=chariot of the sacrifice].  Seven wise ones [=priests] lead it forth with their speech.  
 The opulent ford—who will here proclaim it: the path by which they take  the first drink of the soma?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Chariot's majesties are fourteen others: seven sages lead it onward with their Voices.  
      Who will declare to us the ford Apnana, the path whereby they drink first draughts of Soma?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vierzehn andere Größen von ihm gibt es; ihn lenken die sieben Weisen durch die Rede vorwärts. Wer kann hier den Apnana-Zugang nennen, den Weg, auf dem sie vom Soma vortrinken?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vierzehn andere grosse [Lieder?] sind bei demselben [Wagen = Opfer], sieben Weise führen ihn mit Gesang vorwärts; wer verkündet uns die zum Ziele führenden Furt, und den Pfad auf welchem sie [die Götter] zuerst den gepressten Soma trinken?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У нее четырнадцать других величин.  
 Семеро мудрых ведут ее вперед с помощью речи.  

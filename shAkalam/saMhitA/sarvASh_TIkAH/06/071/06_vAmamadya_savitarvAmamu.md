@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाम꣡म् अद्य꣡ सवितर् वाम꣡म् उ श्वो꣡  
 दिवे꣡-दिवे वाम꣡म् अस्म꣡भ्य° सावीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अया꣡ धिया꣡ वामभा꣡जः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वा॒मस्य॑ । हि । क्षय॑स्य । दे॒व॒ । भूरेः॑ । अ॒या । धि॒या । वा॒म॒ऽभाजः॑ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
@@ -130,7 +130,7 @@ genre M
 हे **सवितः** **अस्मभ्यं** **वामं** धनम् **अद्य** **सावीः** सुव । **श्वः** च **वामं** धनं प्रसुव । किं बहूक्त्या। **दिवेदिवे** प्रतिदिनं **वामं** धनं प्रसुव । हे **देव** **हि** यस्मात् **क्षयस्य** निवासभूतस्य **भूरेः** प्रभूतस्य **वामस्य** दातासि अतो वयम् **अया** अनया **धिया** स्तुत्या **वामभाजः** धनवन्तः **स्याम** भूयास्म ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,39 +145,39 @@ genre M
 Bhūreḥ = bahukālinasya, long protracted, that is, residence in heaven, svarganivāsaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A thing of value today, o Savitar, and one of value tomorrow—day after  day impel to us a thing of value,  
 for, o god, *you have control over much of value. Through this poetic  insight may we be partakers of the valuables.874 VI.72–73
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c I accept the emendation of kṣáyasya to *kṣáyasi, which goes back to Aufrecht (see Oldenberg, Geldner, Renou, all of whom accept it; against this tide is Scarlatta 353-54, though he doesn’t even note the general view). Inter alia, it provides an accented verb for the hí in pāda c; syāma in d is unaccented and should therefore not be construed with the previous pāda. ## 072 Indra and Soma Renou’s brief comments are found in EVP XVI.108-9. His assessment -- “banal” -- is spot on. For the structure of the hymn, see published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair wealth, O Savitar, to-day, to-morrow, fair wealth produce for us each day that passes.  
      May we through this our song be happy gainers, God, of a fair and spacious habitation.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 To-day wealth, Savitar, and wealth to-morrow. Bring wealth to us each day by thine impulsion; For over ample wealth, O god, thou rulest: Through this our hymn may we of wealth be sharers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gutes weise uns, o Savitri, heute und Gutes morgen, Tag für Tag Gutes zu, denn du Gott verfügst über vieles Gut. Durch dieses Lied wollen wir des Gutes teilhaft werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut zu; Ja, schönes Gut, o Gott, und viele Habe werd' uns zu Theil durch diese unsre Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хорошее сегодня, Савитар, и хорошее завтра,  
 День за днем хорошее создавай!  

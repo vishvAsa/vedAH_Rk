@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आदित्या꣡ रुद्रा꣡ व꣡सवो जुषन्त  
 इद꣡म् ब्र꣡ह्म क्रिय꣡माणं न꣡वीयः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो᳐꣡जाता उत꣡ ये꣡ यज्ञि꣡यासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शृ॒ण्वन्तु॑ । नः॒ । दि॒व्याः । पार्थि॑वासः । गोऽजा॑ताः । उ॒त । ये । य॒ज्ञिया॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
@@ -122,20 +122,20 @@ genre D
 **नवीयः** नवतरमस्माभिः **क्रियमाणम्** **इदं** **ब्रह्म** स्तोत्रम् **आदित्याः** दिव्याः। ‘अदितिर्द्यौः ' (ऋ. सं. १. ८९. १०) इति श्रुतेः । रुद्राः आन्तरिक्षाः **वसवः** पार्थिवाश्च **जुषन्त** जुषन्तां सेवन्ताम् । अन्ये **दिव्याः** दिवि भवाः **पार्थिवासः** पार्थिवाः **गोजाताः** गोः पृश्नेर्जाताः ।  ‘नाको गौः' इति साधारणनामसु पाठात् । **उत** अपि च **ये** **यज्ञियासः** यज्ञार्हास्ते सर्वेऽपि **नः** अस्माकं हवं **शृण्वन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the Ādiyas, the **Rudras**, the **Vasus**, be gratified by this new and now repeated praise; maycelestial and terrestrial (beings), the progeny of the cow, (**Pṛśni**), and those who were entitled to worship, hearour (invocations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Ādityas, the Rudras, the Vasus enjoy this sacred formulation being  made here anew.  
 Let them hear us—the Heavenly ones, the Earthly ones, the Cow-Born  ones, and those who are worthy of the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich refers, as often, to the hymn just concluding, with particular insistence on its absolute currency in the present moment, as shown by the 50 pres. participle and the comparative adj. ‘newer’: idám bráhma kriyámānaṃ návīyaḥ “this sacred formulation being made anew.” Who the “cow-born ones” are is debated (see, e.g., Geldner, Renou, and the long n. by Bloomfield [RV Rep. 316-17]), a question I confess to finding not very interesting, perhaps because the longueurs of this hymn have dulled my senses.
 
@@ -152,23 +152,23 @@ These last two vss. stand apart from the 13 monotonous vss. that precede them, t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the Rudras, Vasus, and Adityas accept the new hymn which we now are making.  
      May all the Holy Ones of earth and heaven, and the Cow's offipring hear our invocation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Aditya´s, Rudra´s, Vasu´s sollen an diesem neusten getanen Segen Gefallen haben. Es sollen uns die himmlischen, die irdischen, die kuhgeborenen und die opferwürdigen Götter erhören.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aditja's, Rudra's und die Vasu's mögen dies neugemachte Andachtslied geniessen, Erhören uns die Luft-gebornen Götter und die im Himmel und auf Erden wohnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адитьи, Рудры, Васу пусть наслаждаются  
 Этим священным словом, создаваемым совсем заново!  

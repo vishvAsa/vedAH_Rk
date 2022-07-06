@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं ये꣡ चक्रुः꣡ सुवृ꣡तं नरेष्ठां꣡  
 ये꣡ धेनुं꣡ विश्वजु꣡वं विश्व꣡रूपाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुअ꣡वसः सुअ꣡पसः सुह꣡स्ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । आ । त॒क्ष॒न्तु॒ । ऋ॒भवः॑ । र॒यिम् । नः॒ । सु॒ऽअव॑सः । सु॒ऽअप॑सः । सु॒ऽहस्ताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -145,36 +145,36 @@ genre M
 **ये** ऋभवः **सुवृतं** सुचक्रं सुष्ठु वर्तमानं वा **नरेष्ठां** नेतरि चक्रे वर्तमानं **रथं** **चक्रुः** । **ये** च **विश्वजुवं** विश्वस्य प्रेरयित्रीं **विश्वरूपां** बहुरूपामेतन्नामिकां वा **धेनुं[१]** गां चक्रुः अकुर्वन् । बृहस्पतिर्विश्वरूपामुपाजत' ( ऋ. सं. १. १६१. ६ ) इति ह्युक्तम् । **ते** महान्तः **ऋभवः** **नः** अस्माकं **रयिं** धनम् **आ** **तक्षन्तु** सर्वतो निष्पादयन्तु । कीदृशास्त ऋभवः । **स्वपसः** सुकर्माणः **स्ववसः** शोभनान्नोपेताः सुरक्षणा वा **सुहस्ताः** शोभनहस्ताः कुशलहस्ताः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those **Ṛbhus** who constructed the firm-abiding wheel-conducting car; who formed the all-impelling multiform cow; they who are the bestowers of food, the doers of great deeds, and dexterous of **hand**, fabricate our riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who made the chariot smooth running and standing still for men, who  (made) the all-rousing milk-cow of all shapes—  
 let these R̥bhus fashion wealth for us, they of good help, good work, and  good hands.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they who formed the swift car, bearing Heroes, and the Cow omniform and all-impelling,  
      Even may they form wealth for us,-the Rbhus, dexterous-handed, deft in work and gracious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die den leichtrollenden Wagen fertigten, der dem Manne still hält, die die allbelebende Kuh Visvarupa machten, die Ribhu´s sollen uns Reichtum beschaffen, die geschickt zur Hilfe, zum Werk und mit der Hand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Wagens Bildner, der nun rollt, nun stillsteht, der allgestalt'gen Kuh, die alles anregt, Die Ribhu's mögen Reichthum uns verschaffen mit hülfbereiten, kunstgeübten Händen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто сделал колесницу легкой в движении, несущей на себе мужей,  
 (Те,) кто (создал) всеоживляющую дойную корову Вишварупу,  

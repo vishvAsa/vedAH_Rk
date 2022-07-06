@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡ आदित्या आ꣡ गता सर्व꣡तातये  
 वृधे꣡ नो यज्ञ꣡म् अवता सजोषसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 बृह॒स्पति॑म् । पू॒षण॑म् । अ॒श्विना॑ । भग॑म् । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -127,36 +127,36 @@ genre M;; repeated line
 हे **आदित्याः** येऽस्माभिराहूताः **ते** यूयं **सर्वतातये** यज्ञार्थम् **आ** **गत** आगच्छत । आगत्य व हे **सजोषसः** संगता यूयं **नः** अस्माकं **वृधे** वर्धनाय **यज्ञं** प्रति **अवत** गच्छत । वयं व **बृहस्पतिं** **पूषणं** च **अश्विना** अश्विनौ च **भगं** भगाख्यं देवं च **समिधानं** सम्यग्दीप्तम् **अग्निं** च **स्वस्ति** सर्वप्रकाराविनाशम् **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, come to our ceremony, being well-plural ased protect the sacrifice for our growth; we solicit forour welfare **Bṛhaspati**, **Pūṣan**, the **Aśvins**, **Bhaga**, and the kindled fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ādityas, come here for our wholeness; aid our sacrifice for us to grow  strong, you who take pleasure together.  
 (We beseech) Br̥haspati, Pūṣan, the Aśvins, Bhaga. – We beseech Agni,  when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, O Adityas, for our perfect weal: accordant help our sacrifice that we may thrive.  
      Pusan, Brhaspati, Bhaga, both Asvins, and enkindled Agni we implore for happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Aditya´s, kommet her zur Vollzähligkeit! Begünstigt einmütig unser Opfer zum Gedeihen! Den Brihaspati, Pusan, die Asvin, den Bhaga, - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So kommt denn her, Aditja's, uns zu vollem Heil, gemeinsam fördert unser Opfer zum Gedeihn; Die Ritter, Puschan, Bhaga, den Gebetesherrn und den entflammten Agni flehn um Heil wir an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, Адитьи, приходите для целостности!  
 Единодушные, помогите возрасти нашей жертве!  

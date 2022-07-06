@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हेळमान उ꣡प याहि यज्ञं꣡  
 तु꣡भ्यम् पवन्त इ꣡न्दवः सुता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रा꣡ गहि प्रथमो꣡ यज्ञि꣡यानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 गावः॑ । न । व॒ज्रि॒न् । स्वम् । ओकः॑ । अच्छ॑ । इन्द्र॑ । आ । ग॒हि॒ । प्र॒थ॒मः । य॒ज्ञिया॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aheﾱamāna* ← *a*
 - \[adverb\]
@@ -130,36 +130,36 @@ genre M
 हे इन्द्र **अहेळमानः** अक्रुध्यंस्त्वं **यज्ञम्** अस्मदीयम् **उप** **याहि** उपगच्छ । यतः कारणात **तुभ्यं** त्वदर्थ **सुतासः** अभिषुता: **इन्दवः** सोमा: **पवन्ते** पूयन्ते दशपवित्रेण शोध्यन्ते । हे **वज्रिन्** वज्रवन् इन्द्र ”गावो **न** गावः स्वकीयं गोष्ठमिव **स्वं** स्वकीय **ओकः** स्थानं द्रोणकलशादिलक्षणम् **अच्छ** आभिमुख्येन प्राप्नुवन्तीति शेषः । अतः कारणात् हे **इन्द्र** **यज्ञियानां** यज्ञार्हाणां देवानां मध्ये **प्रथमः** मुख्यत्वं **आ** **गहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unirascible (**Indra**), come to the sacrifice; the effused **Soma** is purified for you; they flow, thunderer, (into the pitchers), as cows go to their stalls; come, Indra, the first of those who are to be worshipped.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Free of anger, drive here to the sacrifice. For you do the pressed soma  drops purify themselves.  
 Like cows toward their own home, o mace-bearer, come here, Indra, as  the first of those worthy of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 COME gracious to our sacrifice, O Indra: pressed Soma-drops are purified to please thee.  
      As cattle seek their home, so Thunderwielder, come, Indra, first of those who claim our worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne Murren komm zum Opfer; für dich klären sich die ausgepreßten Säfte. Wie die Rinder zu ihrem Heim, so komm du Keulenträger Indra als Erster der opferwürdigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm ohne Zürnen her zu unserm Opfer; dir strömen hell die ausgepressten Indus; Wie Kühe in ihr Haus, so komm, o Blitzer, o Indra, her, als erster du der heil'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не сердясь, приводи на жертвоприношение,  
 Для тебя очищаются выжатые соки.  

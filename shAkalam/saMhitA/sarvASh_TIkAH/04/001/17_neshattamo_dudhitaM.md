@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ने꣡शत् त꣡मो दु꣡धितं रो꣡चत द्यउ꣡र्  
 उ꣡द् देविया꣡ उष꣡सो भानु꣡र् अर्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋजु꣡ म꣡र्तेषु वृजिना꣡ च प꣡श्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । सूर्यः॑ । बृ॒ह॒तः । ति॒ष्ठ॒त् । अज्रा॑न् । ऋ॒जु । मर्ते॑षु । वृ॒जि॒ना । च॒ । पश्य॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *neśat* ← *naś*
 - \[verb\], singular, Redupl. Aorist (Ind.)
@@ -128,20 +128,20 @@ genre M
 **तमः** रात्रिकृतं ध्वान्तं **दुधितम्** । दुधिः प्रेरणकर्मा । प्रातरग्निविहरणकाले उषसा प्रेरितं सत् **नेशत्** अनश्यत । ततः **द्यौः** अन्तरिक्षं **रोचत** अदीप्यत । ततः **देव्याः** देवनशीलायाः **उषसो** **भानुः** प्रभा **उत्** **अर्त** उद्गच्छति । अथ **सूर्यो** **बृहतः** महतः **अज्रान्** अजरान् पर्वतान् गमनशीलान् रश्मीन् वा **आ** **तिष्ठत्** अध्यतिष्ठत् । किं कुर्वन् । **मर्तेषु** मनुष्येषु विद्यमानम् **ऋजु** सत्कर्म **वृजिना** अनृजूनि असत्कर्माणि **च** **पश्यन्** अध्यतिष्ठदिति शेषः । नेशत् ।  ‘ णश अदर्शने । लङि ‘णशिमन्योरलिठ्येत्वं वक्तव्यम् ' ( पा. म. ६. ४. १२०. ५) इति एत्वम् । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । रोचत । “ रुच दीप्तौ । लङि रूपम् । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The scattered darkness was destroyed; the firmament glowed with radiance; the lustre of the divine dawn arose; then the sun stood above the undecaying mountains, beholding all that was right or wrong among mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bilious darkness disappeared; heaven lightened; the radiance of the  goddess Dawn arose.  
 The Sun mounted the lofty fields, looking upon the straight and the  crooked among mortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On néśat as a replacement for an original thematic redupl. aor. with radical zero-grade (expected *na-nś-a-), with the vocalism of the first syllable replaced by that of the weak perfect, see Hoffmann, Injunk. 64-65.
 
@@ -158,28 +158,28 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The turbid darkness fled, the heaven was sp, endid! up rose the bright beam of celestial Morning.  
      Surya ascended to the wide expanses, beholding deeds of men both good and evil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The confused 1 darkness disappeared; the sky appeared in splendour; the shine of the goddess Dawn rose up. The Sun ascended to the wide plains, beholding right and wrong deeds among the mortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es verschwand die hartnäckige Finsternis, der Himmel erglänzte, das Licht der göttlichen Morgenröte brach hervor, die Sonne beschritt die hohen Gefilde, Rechtes und Schlechtes in den Menschen schauend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das trübe Dunkel wich, der Himmel glänzte, aufstieg der Himmelsglanz der Morgenröthe; Der Sonnengott bestieg die hohen Fluren, beschauend Recht und Unrecht bei den Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Исчез беспорядочный мрак, засверкало небо,  
 Возник божественный луч Ушас,  

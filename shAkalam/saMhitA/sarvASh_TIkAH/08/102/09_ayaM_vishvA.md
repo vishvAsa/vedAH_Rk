@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वि꣡श्वा अभि꣡ श्रि꣡यो  
 अग्नि꣡र् देवे꣡षु पत्यते  
 आ꣡ वा꣡जैर् उ꣡प नो गमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । वाजैः॑ । उप॑ । नः॒ । ग॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -96,35 +96,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मनुष्याणां **विश्वाः** सर्वाः **श्रियः** संपदः **देवेषु** देवानां मध्ये यः **अयम्** **अग्निः** **अभि** **पत्यते** अभिगच्छति सोऽग्निः **नः** अस्मानपि **वाजैः** अन्नैः **उप** **आ** **गमत्** उपागच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Among the gods **Agni** has to do with all the successes (of men); may he come to us with abundance offood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Agni here is master over all the splendors among the gods. He will come near to us here with prizes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Agni is the Lord supreme above all glories mid the Gods:  
      May he come nigh to us with strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni besitzt unter den Göttern alle Herrlichkeiten; er möge uns mit reichen Belohnungen kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Agni ist's, dem aller Glanz bei Göttern zu Gebote steht, Mit Gütern komm er her zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Агни владеет всеми  
 Преимуществами среди богов.  

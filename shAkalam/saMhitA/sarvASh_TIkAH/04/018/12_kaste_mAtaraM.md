@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स् ते मात꣡रं विध꣡वाम् अचक्रच्  
 छयुं꣡ क꣡स् त्वा꣡म् अजिघांसच् च꣡रन्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त् प्रा꣡क्षिणाः पित꣡रम् पादगृ꣡ह्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 कः । ते॒ । दे॒वः । अधि॑ । मा॒र्डी॒के । आ॒सी॒त् । यत् । प्र । अक्षि॑णाः । पि॒तर॑म् । पा॒द॒ऽगृह्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ popular
 हे इन्द्र **यत्** यस्मात् कारणात् पितुः सकाशात् जनिष्यमाणात् भीतस्त्वं त्वदीयं **पितरं** **पादगृह्य** पादेषु गृहीत्वा **प्राक्षिणाः** प्रकर्षेणावधीः । तस्मात् कारणात् **ते** त्वत्तोऽन्यः **कः** देवः **मातरं** स्वकीयजननीं विधवां पितृवधेन पतिरहिताम् **अचक्रत्** अकरोत् । **कः** त्वत्तोऽन्यः **शयुं** शयानं **चरन्तं** जाग्रतं वा **त्वाम्** **अजिघांसत्** हन्तुमैच्छत् । ते त्वत्तोऽन्यः कः **देवः** मार्डीके प्रजानां सुखकरणे **अधि** अधिकः **आसीत्** । अयमर्थः ‘ऋक्सामे वै देवेभ्यः' (तै. सं. ६. १. ३. ६) इत्यनुवाके यज्ञो दक्षिणामभ्यध्यायत्' इत्यादिब्राह्मणेन तैत्तिरीयकैर्बहुधा प्रपञ्चितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ popular
 Since you have slain the father: yat prākṣiṇāḥ pitaram pādagṛhya; cf. **Taittirīya** **Saṃhitā** 6.1.3.6)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who made your mother a widow? Who tried to smash you as you lay,  as you wandered?  
 What god was merciful toward you when you destroyed your father,  having grasped him by the foot?
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -160,23 +160,23 @@ In light of d, which describes Indra’s killing his father, the question in a, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who was he then who made thy Mother widow? Who sought to stay thee lying still or moving?  
      What God, when by the foot thy Sire thou tookest and slewest, was at hand to give thee comfort?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer hat deine Mutter zur Witwe gemacht? Wer wollte dich im Liegen oder Gehen töten? Welcher Gott fand Gnade vor dir, als du den Vater am Fuße gepackt und zerschmettert hast?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer machte einst zur Witwe deine Mutter? wer wollte dich im Ruh'n, im Wandern tödten? und welcher Gott erbarmte da sich deiner als du am Fuss den Vater griffst und todt schlugst [zerschmettertest]?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сделал вдовой твою мать?  
 Кто хотел убить тебя, лежащего (или) идущего?  

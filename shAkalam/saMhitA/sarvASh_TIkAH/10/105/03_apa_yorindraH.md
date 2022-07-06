@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प यो꣡र् इ꣡न्द्रः पा꣡पज  
 आ꣡ म꣡र्तो न꣡ शश्रमाणो꣡ बिभीवा꣡न्  
 शुभे꣡ य꣡द् युयुजे꣡ त꣡विषीवान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 शु॒भे । यत् । यु॒यु॒जे । तवि॑षीऽवान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -96,36 +96,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 यः **इन्द्रः** **पापजे** । **आ** इत्यनर्थकः । पापाज्जायत इति पापजो वृत्रः । तस्मिन् **मर्तो** **न** मनुष्य इव **शश्रमाणः** तेन सह युद्धे श्राम्यन् **बिभीवान्** बिभ्यच्च भवति । श्राम्यतेश्छन्दसि लिट् । तस्य व्यत्ययेन कानच् । स इन्द्रः **यत्** यदा **तविषीवान्** मरुद्भिर्बलैर्बलवान् **युयुजे** युज्यते संपद्यते **शुभे** शोभार्थं तदानीम् **अप** **योः** । तस्य वृत्रस्यापयोरपयोजयिता भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** repelled (him), being like a mortal tired and frightened in (the combat with) the offspring ofiniquity (**Vṛtra**), when being associated with the forces (of the **Maruts**), he has been prepared for splendour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Apart from which two Indra stays stock-still, like an exhausted mortal  overcome by fear.  
 (But) when he, the forceful, has yoked them for beauty,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bereft of skill is Indra, if, like some outwearied man he fears  
      The sinner, when the Mighty hath prepared himself for victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ohne welche Indra zurückbleibt wie ein ermüdeter Sterblicher, der Furcht bekommen hat, wann der Starke angespannt hat zur Prunkfahrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor denen beiden [Rossen] Indra zurückscheute, wie ein ermüdeter sich fürchtender Mensch, wenn der starke sie sich zur Fahrt angeschirrt hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Без кого Индра цепенеет,  
 Как усталый смертный, испуганный,  

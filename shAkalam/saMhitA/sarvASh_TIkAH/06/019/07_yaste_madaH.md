@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते म꣡दः पृतनाषा꣡ळ् अ꣡मृध्र  
 इ꣡न्द्र तं꣡ न आ꣡ भर शूशुवां꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मंसीम꣡हि जिगीवां꣡सस् तुवो꣡ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 येन॑ । तो॒कस्य॑ । तन॑यस्य । सा॒तौ । मं॒सी॒महि॑ । जि॒गी॒वांसः॑ । त्वाऽऊ॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,21 +119,21 @@ genre M
 **पृतनाषाट्** शत्रुसेनानामभिभविता **अमृध्रः** अहिंसितः **यः** **मदः** हर्षः हे **इन्द्र** **ते** त्वया देयः **शूशुवांसं** प्रवृद्धं **तं** मदं **नः** अस्मभ्यम् **आ** **भर** आहर । **त्वोताः** त्वया रक्षिताः **जिगीवांसः** जितवन्तो वयं **तोकस्य** पुत्रस्य **तनयस्य** तत्पुत्रस्य च **सातौ** लाभे निमित्तभूते सति **येन** हर्षेण **मंसीमहि** त्वां स्तुवीमहि तमा भरेति पूर्वेणान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Impart to us, **Indra**, that your invigorating exultatio which overcomes enemies, and is irresistible, where by, protected by you, triumphant we may glorify you for the sake of (obtaining) sons and grandsons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your exhilaration, conquering in battle, never shirking—bring us that,  swollen with strength, o Indra,  
 through which we could be considered victors in the winning of  
 progeny and posterity, aided by you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the long root vowel in jigīvā́ṃsaḥ, see Oldenberg ZDMG 55.324, where on the basis of the metrical evidence he surmises that, at least in this post-caesura position, the form should be read with short root vowel (*jigi-vaṃs-), the form found in the younger Vedic texts. See also Arnold (Ved. Met. 143), who considers the short-i form required in 3 of the 5 occurrences of the strong stem, and Kümmel (189 n. 225), who considers it proper except in III.15.4. Kümmel cites Anttila (1969, Schwebeabl. 61) as explaining the lengthening in the Saṃhitā text as analogy to ninīvā́ṃs-. However, it is much more likely that it is a morphologically conditioned lengthening, meant to distinguish the -i-vowel proper to the root from the -i-liaison vowel that has become associated with suffixes/endings. Thus jigī-vā́ṃs- with long vowel is kept separate from the type tasth-ivā́ṃs-, as I already argued in my 1988 article on the vocalized laryngeal (224-25), though without factoring in the metrical evidence pointing to this lengthening as late and redactional. (Of course, in tasthivā́ṃs- the -i- would originally have represented the zero-grade of this -ā root, but by synchronic RV it has been reanalyzed as part of the suffix. See disc. in my 1988 art.)
 
@@ -156,23 +156,23 @@ As noted in the published introduction, all three of these vss. contain the phra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring us, grown mighty in its strength, O Indra, thy friendly rapturous joy that wins the battle,  
      Wherewith by thee assisted and triumphant, we may laud thee in gaining seed and offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinen Rausch, den Schlachtengewinner, den nicht geringen, den bring uns, Indra, mit, den starken, durch den wir glauben dürfen bei dem Gewinnen von leiblichem Samen die von dir begünstigten Sieger zu sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Muth dir ist, nicht rastend, Schlacht gewinnend, den bring uns her, o Indra, den gewalt'gen, Durch den erlangend Kinderschar und Enkel, von dir gefördert, siegreich wir uns zeigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твое опьянение, которое выигрывает сражения, неистощимое, -  
 О Индра, нам его принеси переполненным,  

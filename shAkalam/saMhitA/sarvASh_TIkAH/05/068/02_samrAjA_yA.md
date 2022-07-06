@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्रा꣡जा या꣡ घृत꣡योनी  
 मित्र꣡श् चोभा꣡ व꣡रुणश् च  
 देवा꣡ देवे꣡षु प्रशस्ता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 दे॒वा । दे॒वेषु॑ । प्र॒ऽश॒स्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
@@ -92,37 +92,37 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **या** यौ **मित्रश्च** **वरुणश्च** । परस्परापेक्षया चशब्दः । **उभा** उभौ **सम्राजा** सर्वस्य स्वामिनौ **घृतयोनी** उदकस्योत्पादकौ **देवा** द्योतमानौ **देवेषु** मध्ये **प्रशस्ता** प्रकर्षेण स्तुत्यौ । तौ गायतेति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, who are both sovereign rulers, originators of the rain, eminent deities among the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sovereign kings, whose womb is covered with ghee, both Mitra  
 and Varuṇa  
 are gods proclaimed among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Full springs of fatness, Sovran Kings, Mitra. and Varuna, the Twain,  
      Gods glorified among the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Allherscher, die in Schmalz gebettet sind, Mitra und Varuna, beide Götter stehen bei den Göttern in Ehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Allherrscher sie mit Fett im Schooss, sind beide Mitra, Varuna Bei Göttern Götter hochberühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два самодержца, чья обитель – жир,  
 Митра и Варуна, оба  

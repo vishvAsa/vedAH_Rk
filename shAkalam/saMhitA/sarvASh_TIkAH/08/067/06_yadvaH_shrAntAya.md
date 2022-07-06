@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वः श्रान्ता꣡य सुन्वते꣡  
 व꣡रूथम् अ꣡स्ति य꣡च् छर्दिः꣡  
 ते꣡ना नो अ꣡धि वोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तेन॑ । नः॒ । अधि॑ । वो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -93,36 +93,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **श्रान्ताय** कर्मणः **सुन्वते** अभिषुण्वते यजमानाय दातव्यं **यत्** वरूथं वरणीयं धनं **वः** युष्माकम् **अस्ति** **यत्** च **छर्दिः** सुखवासयोग्यं गृहमस्ति **तेन** द्वयेनास्मान् प्रीणयित्वा **नः** अस्मान् **अधि** **वोचत** अधिवचनं कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever wealh, whatever dwelling is yours (to give) to the wearied offerer of libations-- with thesespeak to us a kindly answer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your shield, your shelter that exists for the man who has ritually  labored and who presses soma—  
 with that intercede for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What sheltering defence ye have for him who toils in pouring gifts,  
      Graciously bless ye us therewith.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Schutz und Schirm, den ihr für den abgearbeiteten Somapresser habt, mit dem verteidiget uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Schutz euch ist und welcher Schirm für den, der emsig Soma presst, Mit dem seid freundlich uns zur Hand. 07. Bei euch ist Rettung aus der Noth, o Götter, und dem Reinen Glück, Aditja's, unbefleckte ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 То укрытие, тот щит,  
 Что есть у вас для изнуренного выжимателя сомы,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡जापते न꣡ त्व꣡द् एता꣡नि अन्यो꣡  
 वि꣡श्वा जाता꣡नि प꣡रि ता꣡ बभूव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ सियाम प꣡तयो रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यत्ऽका॑माः । ते॒ । जु॒हु॒मः । तत् । नः॒ । अ॒स्तु॒ । व॒यम् । स्या॒म॒ । पत॑यः । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prajāpate* ← *prajāpati*
 - \[noun\], vocative, singular, masculine
@@ -141,7 +141,7 @@ popular;; repeated line
 हे **प्रजापते** **त्वत्** त्वत्तोऽन्यः कश्चित् **एतानि** इदानीं वर्तमानानि **विश्वा** विश्वानि सर्वाणि ॥  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः ॥ **जातानि** प्रथमविकारभाञ्जि **ता** तानि सर्वाणि भूतजातानि **न** **परि** **बभूव**  न परिगृह्णाति । न व्याप्नोति । त्वमेवैतानि परिगृह्य स्रष्टुं शक्नोषीति भावः । परिपूर्वो भवतिः परिग्रहार्थः । वयं च **यत्कामाः** यत्फलं कामयमानाः **ते** तुभ्यं जुहुमः हवींषि प्रयच्छामः **तत्** फलं **नः** अस्माकम् **अस्तु** भवतु । तथा **वयं** च **रयीणां** धनानां **पतयः** ईश्वराः **स्याम** भवेम ॥ नामन्यतरस्याम् ' इति नाम उदात्तत्वम् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,29 +152,29 @@ popular;; repeated line
 **Yajus**. 10.20; **Nirukta** 10.43
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Prajāpati! No one other than you has encompassed all these things  that have been born.  
 Let what we desire as we make oblation to you be ours. We would be  lords of riches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prajapati! thou only comprehendest all these created things, and none beside thee.  
      Grant us our hearts' desire when we invoke thee: may we have store of riches in possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Prajapati, kein anderer als du umspannt schützend alle diese Geschöpfe. Mit welchem Wunsche wir dir opfern, der werde uns zuteil! Wir möchten Gebieter von Reichtümern sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, Um was wir heischend flehn, das mög' uns werden; wir mögen sein die Herren reicher Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Праджапати! Никто, кроме тебя,  
 Не охватил все эти существа.  

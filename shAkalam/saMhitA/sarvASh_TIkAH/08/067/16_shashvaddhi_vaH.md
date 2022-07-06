@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡श्वद् धि꣡ वः सुदानव  
 आ꣡दित्या ऊति꣡भिर् वय꣡म्  
 पुरा꣡ नून꣡म् बुभुज्म꣡हे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒रा । नू॒नम् । बु॒भु॒ज्महे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaśvaddhi* ← *śaśvat*
 - \[adverb\]
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सुदानवः** सुदाना हे **आदित्याः** **वः** युष्माकम् **ऊतिभिः** रक्षाभिः **वयं** **पुरा** **नूनम्** इदानीमपि **शश्वत्** सर्वदा **बुभुज्महे** । यद्वा । शश्वत् बहून् भोगान् भुञ्ज्महे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bounteous **Ādityas**, by your protections we have continually possessed enjoyments from of old.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, o Ādityas of good gifts, over and over,  
 previously and now, we have benefited by your help—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fori Bountiful Adityas, we have evermore enjoyed your help,  
      Both now and in die days of old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn immer wieder haben wir uns eurer Hilfen, ihr gütigen Aditya´s, einst und jetzt erfreut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn stets, Aditja's, haben wir genossen eure Hülfen, jetzt Und früher, reichlich gebende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь все время, о очень щедрые  
 Адитьи, мы подкреплялись вашими  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमे꣡ रो꣡दसी उभे꣡  
 अह꣡म् इ꣡न्द्रम् अ꣡तुष्टवम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ब्र꣡ह्मेद꣡म् भा꣡रतं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒श्वामि॑त्रस्य । र॒क्ष॒ति॒ । ब्रह्म॑ । इ॒दम् । भार॑तम् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -95,7 +95,7 @@ genre M
 हे कुशिकाः कुशिकपुत्राः **यः** **अहं** विश्वामित्रः **उभे** **इमे** **रोदसी** द्यावापृथिव्यौ इन्द्रमतुष्टवं स्तावयामि । द्यावापृथिवीभ्यामिन्द्रस्य स्तोत्रं मया कारितमित्यर्थः । यद्वा । उभयो रोदस्योः अन्तरवस्थितम् इन्द्रं स्तौमि । स्तोत्रं कुर्वाणस्य **विश्वामित्रस्य** मम **इदम्** इन्द्रविषयं **ब्रह्म** स्तोत्रं **भारतं** भरतकुलं **जनं** **रक्षति** पालयति ॥ अतुष्टवम् । ‘ष्टुञ् स्तुतौ '। ण्यन्तस्य लुङि चङि रूपम् । यद्वृत्तयोगादनिघातः । भारतम् । भरतशब्द उत्सादिः । ञित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,12 +106,12 @@ genre M
 Made Indra glorified: indram atuṣṭavam-- the verb is the third preterite of the casual, I have caused to be praised; it may mean: I praise Indra, abiding between heaven and earth, i.e. in the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I who have praised both these two world-halves here and Indra— Viśvāmitra’s sacred formulation here guards the Bharata people.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich, couched in the 1st ps., consists only of a rel. clause, which breaks off. The “I” is clearly Viśvāmitra, whose name opens the hemistich and whose protective bráhman- is mentioned there -- making it very likely that pādas ab constitute this bráhman-, though it’s not quite clear what is protective about this truncated utterance.
 
@@ -122,22 +122,22 @@ subj. tuṣṭávat at VIII.98.16 also suggests that the indicative pf. is, or o
 part. tuṣṭuvāná- (1x) are generally tr. as preterital, but again context does not dictate this rendering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praises to Indra have I sung, sustainer of this earth and heaven. This prayer of Visvamitra keeps secure the race of Bharatas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ich diese beiden Welten, der ich den Indra gepriesen habe - des Visvamitra Kraftwort schützt dies Bharatavolk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der ich diese beiden Welten erregt habe, den Indra zu preisen, mein, des Viçvamitra, Gebet beschützt dies Geschlecht der Bharater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я, кто эти обе половины вселенной,  
 (Кто) Индру прославил, –  

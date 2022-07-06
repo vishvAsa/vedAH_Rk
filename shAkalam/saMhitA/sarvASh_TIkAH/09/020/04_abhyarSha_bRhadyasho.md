@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ अर्ष बृह꣡द् य꣡शो  
 मघ꣡वद्भ्यो ध्रुवं꣡ रयि꣡म्  
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इष॑म् । स्तो॒तृऽभ्यः । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhi*
 - \[adverb\]
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **बृहद्यशः** महतीं कीर्तिम् **अभ्यर्ष** अभिगमय । **मघवद्भ्यः** हविष्मद्भ्यः अस्मभ्यं **ध्रुवं** **रयिं** धनं चाभ्यर्ष । किंच **इषम्** अन्नं **स्तोतृभ्यः** अस्मभ्यम् **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us great renown, grant durable riches to those who profuse in their libations, bring food to your praisers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward lofty glory, toward enduring wealth for our generous  patrons.  
 Bring refreshment here to the praisers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour lofty glory on us, send sure riches to our liberal lords,  
      Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ströme zu hoher Ehre, zu dauerndem Reichtum den Gönnern, bring den Sängern Speisegenuß!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Opferherren ströme zu erhabnen Glanz und dauernd, Gut, Den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Струясь, даруй высокий блеск  
 (Нашим) щедрым покровителям, прочное богатство!  

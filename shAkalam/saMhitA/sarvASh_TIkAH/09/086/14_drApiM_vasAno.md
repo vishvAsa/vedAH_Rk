@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्रापिं꣡ व꣡सानो यजतो꣡ दिविस्पृ꣡शम्  
 अन्तरिक्षप्रा꣡ भु꣡वनेषु अ꣡र्पितः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रत्न꣡म् अस्य पित꣡रम् आ꣡ विवासति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वः॑ । ज॒ज्ञा॒नः । नभ॑सा । अ॒भि । अ॒क्र॒मी॒त् । प्र॒त्नम् । अ॒स्य॒ । पि॒तर॑म् । आ । वि॒वा॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *drāpiṃ* ← *drāpim* ← *drāpi*
 - \[noun\], accusative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 **दिविस्पृशं** दिविस्प्रष्टारं **द्रापिं** कवचं तेजोरूपं **वसानः** आच्छादयन् **यजतः** यष्टव्यः **अन्तरिक्षप्राः** अन्तरिक्षस्य पूरक उदकेन तादृशः सोमः **भुवनेषु** उदकेषु **अर्पितः** **स्वः** सर्वं स्वेन पाययितव्यं देवसंघं स्वर्गं वा **जज्ञानः** जनयन् । अथवा । स्वरुदकम् । तज्जनयन् । **नभसा** उदकेन **अभ्यक्रमीत्** अभिक्रामति । **अस्य** उदकस्य **पितरं** पालकं **प्रत्नं** पुराणमिन्द्रम् **आ** **विवासति** परिचरति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 Wearing a coat of mail: i.e., clothed in light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Clothing himself in a mantle that touches heaven, the one worthy of the  sacrifice, filling the midspace, is fitted into the worlds.  
 While being born, he has stridden along the cloud toward the sun; he  wishes to entice his age-old father here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I would now tr. the pf. part. jajñānáḥ with past value, “once having been born.” The standard tr. (and incl. Ober II.76; Lowe, Part. 158) take svár as nom. with the pf. part.: “having been born as the sun.” This is of course quite possible. But I would expect a goal with abhí √kram and therefore take svàr as acc. in that function (see also Scarlatta 330).
 
@@ -152,23 +152,23 @@ This tṛca is characterized by increasingly larger claims for Soma’s cosmic r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, clad in mail that reaches heaven, the Holy One, filling the firmament stationed amid the worlds,  
      Knowing. the realm of light, hath come to us in rain: he summons to himself his own primeval Sire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einen Mantel umlegend, der zum Himmel reicht, den Luftraum erfüllend, über die Wolken gesetzt, der Opferwürdige, als Sonne geboren, ist er mit der Wolke darauf losgegangen. Er wünscht seinen uralten Vater herbei.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ins Kleid gehüllt, der hehre, das zum Himmel reicht, die Luft erfüllend, in die Wesen eingefügt, Erzeugt durch Fluten, schritt er jetzt zum Himmel hin, erfreuet seinen urgebornen Vater nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

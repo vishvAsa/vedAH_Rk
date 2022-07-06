@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वीळ꣡वे न꣡मते न꣡ स्थिरा꣡य  
 न꣡ श꣡र्धते द꣡स्युजूताय स्तवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गम्भीरे꣡ चिद् भवति गाध꣡म् अस्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अज्राः॑ । इन्द्र॑स्य । गि॒रयः॑ । चि॒त् । ऋ॒ष्वाः । ग॒म्भी॒रे । चि॒त् । भ॒व॒ति॒ । गा॒धम् । अ॒स्मै॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **स्तवान्** अस्माभिः स्तूयमान इन्द्रः **वीळवे** दृढगात्राय यजमानाय **न** **नमते** न वशीभवति । **स्थिराय** युद्धेऽविचलिताय च **न** नमते । **शर्धते** उत्सहमानाय **दस्युजूताय** कर्मवर्जितैः प्रेरिताय यजमानाय **न** वशीभवति । यद्यपि स्तोतारो बहुगुणाः सन्ति तथापीन्द्रस्तेभ्यो दस्युसहितेभ्यो न वशीभवतीत्यर्थः । अपि च **ऋष्वाः** महान्तः **गिरयश्चित्** पर्वता अपि **इन्द्रस्य** **अज्राः** सुगमनाः क्षेपणीया भवन्ति । **गम्भीरे** **चित्** अगाधेऽपि स्थाने **अस्मै** इन्द्राय **गाधम्** एवं स्थानं विषयो **भवति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorified by us, he bows not down to the robust, nor to the resolute, nor to the person vering (worshipper) who is instrumental gated by the (irreligious) **Dasyus**; the lofty mountains are easy of access o **Indra**; to him there is a bottom in the (lowest) deep.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He does not bow to the tough, nor to the stubborn, nor to the vaunting  one sped by the Dasyus, when he receives praise.  
 Even the towering mountains are flatlands for Indra. Even in the deep  there is a ford for him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Holland & van Nooten Rig Veda edition ed. resolves the contraction across pāda boundary of yajatréndra as yajatrā́índra. This must be a careless error, since the Pp. has yajatra índra, and the stem yájatra- has root accent.
 
@@ -152,23 +152,23 @@ Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Extolled, he bends not to the strong, the steadfast, nor to the bold incited by the Dasyu.  
      High mountains are as level plains to Indra: even in the deep he finds firm ground to rest on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er weicht nicht dem Zähen noch dem Festen, nicht dem Übermächtigen, von den Dasyu´s Getriebenen, wenn er gepriesen wird. Auch die hohen Berge sind für Indra nur Ebenen, selbst im Tiefen findet er Grund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht beugt er sich dem Starren, noch dem Festen, der Donnrer nicht vor frechem Dämondiener; Auch hohe Berge sind dem Indra eben, auch in der Tiefe findet festen Grund er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он не склонится ни перед твердым, ни перед прочным,  
 Ни перед храбрым, которого гонят дасью, когда его (,Индру,) восхваляют.  

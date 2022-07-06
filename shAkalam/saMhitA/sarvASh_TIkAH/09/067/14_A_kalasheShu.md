@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ कल꣡शेषु धावति  
 श्येनो꣡ व꣡र्म वि꣡ गाहते  
 अभि꣡ द्रो꣡णा क꣡निक्रदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । द्रोणा॑ । कनि॑क्रदत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ऋत्विभिरभिषिच्यमानः कश्चित्सोमः **कलशेषु** सोमाधारेषु द्रोणकलशेषु **आ** **धावति** सर्वतो गच्छति । **श्येनः** । लुप्तोपममेतत् । यथा श्येनः **वर्म** वरणीयं कुलायं **वि** **गाहते** प्रविशति तद्वत् । **कनिक्रदत्** अत्यन्तं शब्दं कुर्वन् **द्रोणा** द्रोणकलशानभिगच्छति च । यद्वा । द्रोणाधवनीयपूतभृत्संज्ञकाभिप्रायम् । एकः सिच्यमानः सोमो द्रोणं प्रति शब्दायमानः प्रथमं गच्छति । ततः पश्चात्  पात्रद्वयमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He has flowed to the vessels as a falcon enters its nest and enters the wooden (vessels) with a cry.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He runs into the tubs; the falcon plunges through the armor  
 toward the cups, roaring constantly.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What is the “armor” (várma) that soma “plunges through” (ví gāhate)? Geldner (n.
 
@@ -108,23 +108,23 @@ Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Falcon dips within the jars: he wrap.him in his robe and goes  
      Loud roaring to the vats of wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In die Krüge eilt der Falke; er taucht in seinen Panzer unter. Brüllend geht er auf die Holzgefäße los.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilt der Aar den Bechern zu, er taucht sich in sein schützend Nest, Und kreischet hell die Kufen an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В кувшины мчится  
 Сокол, он ныряет в (свой) панцырь,  

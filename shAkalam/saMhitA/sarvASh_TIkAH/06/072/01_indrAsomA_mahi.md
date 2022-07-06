@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा म꣡हि त꣡द् वाम् महित्वं꣡  
 युव꣡म् महा꣡नि प्रथमा꣡नि चक्रथुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा त꣡मांसि अहतं निद꣡श् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । सूर्य॑म् । वि॒वि॒दथुः॑ । यु॒वम् । स्वः॑ । विश्वा॑ । तमां॑सि । अ॒ह॒त॒म् । नि॒दः । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -132,36 +132,36 @@ genre M
 **इन्द्रासोमा** हे इन्द्रासोमौ **वां** युवयोः **तत्** **महित्वं** महत्त्वं **महि** महत् । किं तदित्यत आह । **युवं** युवां **महानि** महान्ति **प्रथमानि** प्रतमानि मुख्यानि वा भूतानि ।  ‘ प्रथम इति मुख्यनाम प्रतमो भवति' ( निरु. २:२२ ) इति यास्कः । **चक्रथुः** अकार्ष्टम् । किंच **युवं** युवां **सूर्यं** **विविदथुः** अलम्भयतं च जनान् । **युवं** युवां **स्वः** उदकं च विविदथुः ।  ‘ हेम स्वः' इत्युदकनामसु पाठात् । अपि च **विश्वा** विश्वानि **तमांसि** **निदश्च** निन्दितॄनसुरांश्च **अहतम्** अहिंस्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Great, **Indra** and **Soma**, is that your greatness, for you have made great and principal (beings); you have made known (to men) **Sūrya** and the waters; you have dissipated the glooms and (desroyed) the revilers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, great is this greatness of you two. You did the first great  things:  
 you found the sun; you found the sunlight; you smashed away all the  shades of darkness—and the scorners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT is this might of yours, Indra and Soma: the first high exploits were your own achievements.  
      Ye found the Sun ye found the light of heaven: ye killed all darkness and the Gods' blasphemers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Dies ist eure gewaltige Größe: Ihr habt die ersten großen Taten getan; ihr fandet die Sonne, ihr das Himmelslicht; alle Finsternis habt ihr verjagt und die Schmäher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross, Indra-Soma, ist dies euer Machtwerk; ihr habt vollbracht die ersten grossen Thaten; Ihr fandet auf die Sonne, ihr den Himmel, ihr schluget alles Dunkel und die Schmäher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, велико это наше величие:  
 Вы двое совершили первые великие (деяния),  

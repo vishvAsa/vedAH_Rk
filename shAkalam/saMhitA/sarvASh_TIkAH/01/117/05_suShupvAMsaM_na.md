@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुषुप्वां꣡सं न꣡ नि꣡रृतेर् उप꣡स्थे  
 सू꣡र्यं न꣡ दस्रा त꣡मसि क्षिय꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् ऊपथुर् अश्विना व꣡न्दनाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शु॒भे । रु॒क्मम् । न । द॒र्श॒तम् । निऽखा॑तम् । उत् । ऊ॒प॒थुः॒ । अ॒श्वि॒ना॒ । वन्द॑नाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suṣupvāṃsaṃ* ← *suṣupvāṃsam* ← *svap*
 - \[verb noun\], accusative, singular
@@ -115,37 +115,37 @@ genre M
 निर्ऋतिरिति भूनाम । **निर्ऋतेः** पृथिव्याः **उपस्थे** उत्सङ्गे **सुषुप्वांसं** सुप्तवन्तं पुरुषमिव कूपमध्ये शयानं **सूर्यं** **न** सूर्यमिव **तमसि** कूपान्तर्गतान्धकारे **क्षियन्तं** निवसन्तं सूर्यमिव तेजस्विनमित्यर्थः ६ । **शुभे** शोभार्थं निर्मितं **रुक्मं** न रोचमानं सुवर्णमयाभरणमिव **दर्शतं** दर्शनीयम् एवंगुणविशिष्टं कूपे असुरैः **निखातं** **वन्दनाय** वन्दनमृषिं हे **दस्रा** दर्शनीयावश्विनौ युवाम् **उदूपथुः** उद्धृतवन्तौ ॥ सुषुप्वांसम् ।' ञिष्वप् शये '। लिटः क्वसुः । ‘वचिस्वपि ' इत्यादिना संप्रसारणम् । द्विर्वचनादि । उपस्थे । उपपूर्वात् तिष्ठतेः ‘घञर्थे कविधानम् ' इत्यधिकरणे कप्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । वन्दनाय । ‘क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थी ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You extricated, **Dasras**, the sage (**Vandanā**) cast into a well, like a handsome and splendid ornament designed for embellishment, and (lying) **Aśvins**, like one sleepin gon the lap of the earth or like the sun disappearing in darkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like one who has gone to sleep in the lap of destruction, like the sun  dwelling in darkness, o wondrous ones,  
 like a buried gem, lovely to see, (dug out) for beauty, you dug him  
 [=Vandana] out for Vandana [/for our celebration of you], o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye brought forth Vandana, ye Wonder-Workers, for triumph, like fair gold that hath been buried,  
      Like one who slumbered in destruction's bosom, or like the Sun when dwelling in the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Vandana, der wie ein Schoß der Todesgöttin Entschlafener, wie die Sonne im Dunklen ruhte, ihr Meister, den vergrabenen, habt ihr wie einen vergrabenen Goldschmuck ausgegraben, schön zu schauen, euch zum Lobe, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie den, der schlummert in dem Schooss des Grabes, und wie die Sonne, die noch ruht im Dunkel Wie schönes Gold, o Ritter, holt zum Glanze dem Vandana heraus ihr das Vergrabne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вандану,) словно заснувшего в лоне Небытия,  
 Как солнце, покоящееся во мраке, о удивительные,  

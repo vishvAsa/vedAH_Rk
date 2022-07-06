@@ -8,7 +8,7 @@ title = "+006"
 ‘सुरूप' इत्यादिषु षट्सूक्तेषु तृतीयस्य ‘युञ्जन्ति' इति सूक्तस्य मन्त्रसंख्या ऋषिच्छन्दोदैवतानि विनियोगश्चेत्येते पूर्ववद्वगन्तव्याः । दशर्चे तस्मिन् सूक्ते आद्यास्तिस्रोऽन्तिमा चेत्येताश्चतस्र ऐन्द्र्यः।। ‘ आदह' इत्येतां चतुर्थीमारभ्य षडृचो मारुत्यः । तासु मध्ये ‘वीळु चित्’, ‘इन्द्रेण' इत्येते हे ऋचौ मारुत्यौ सत्यावैन्द्र्यावपि भवतः । तदेतत् सर्वमनुक्रमणिकायामुक्तं–' सुरूपकृत्नुं दशैन्द्रमा तु युञ्जन्त्याहेत्येताः षण्मारुत्यो वीळु चिदिन्द्रेणेत्यैन्द्र्यौ च ' इति । एतस्मिन् सूक्ते ‘युञ्जन्ति' इत्यसौ तृचस्तृतीये रात्रिपर्याये ब्राह्मणाच्छंसिनोऽनुरूपः । तथा च ‘अतिरात्रे पर्यायाणाम् ' इति खण्डे ‘ योगे योगे तवस्तरं युञ्जन्ति ब्रध्नमरुषम्' (आश्व. श्रौ. ६. ४ ) इति सूत्रितम् ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 6  
 Indra (1–3, 10), Maruts (4, 6, 8–9), Indra and Maruts (5, 7)  
@@ -23,7 +23,7 @@ A brief and tentative synopsis: the first two verses, parallel in structure, dep
 respectively daily journeys. These verses are set in the present moment. Verse 3 is  structurally paired with verse 7 in the architecture of the hymn; both are addressed  to an unidentified 2nd sg. referent—in our view Agni, who is kindled at dawn (vs.  3) at the same time as Indra arrives at the sacrifice (vs. 7). Verse 3 is set in the mythic  past, perhaps at Agni’s first kindling by the Aṅgirases, an event also presented in  verse 4, while verse 7 returns us to the present. (Verse 3 also contains an absolutely  baffling 2nd plural vocative, “o young men,” embedded within a verse with entirely  2nd singular reference. Short of emendation, there is little to be done with it, though  it may refer to the plural subjects of verse 4, the fire-priests, who kindled the embry onic Agni.) Verse 5 provides the Vala-myth clue, and the remainder of the verses  meld a mythic account of the rituals of dawn with reference to the ritual of the  present moment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and the Maruts (per Anukr.) As noted in the introduction. the Anukramaṇī’s identification of the divinities as Indra (1-3, 10), Maruts (4, 6, 8-9), and Indra and Maruts (5, 7) does not conform to the content of the hymn, which is quite disjointed, but appears to concern, at least in part, the Vala myth. The Maruts do not seem to figure at all in the hymn; the plural entities with Indra are probably the Aṅgirases. For my view of the structure (which is informed by the discussions of Geldner and Oldenberg), see published introduction.
 

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सूरिय प्र꣡ति पुरो꣡ न उ꣡द् गा  
 एभि꣡ स्तो꣡मेभिर् एतशे꣡भिर् ए꣡वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नागसो अर्यम्णे꣡ अग्न꣡ये च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । नः॒ । मि॒त्राय॑ । वरु॑णाय । वो॒चः॒ । अना॑गसः । अ॒र्य॒म्णे । अ॒ग्नये॑ । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -130,36 +130,36 @@ genre M
 हे **सूर्य** **सः** प्रसिद्धस्त्वं **नः** अस्मान् **प्रति** **पुरः** पुरस्तात् **उद्गाः** उद्गच्छ। कैः साधनैः । **एभिः** **स्तोमेभिः** स्तोमैः स्तुत्यैः **एतशेभिः** एतवर्णैः । स्वार्थिकः शकारः ‘ या जरन्ता युक्शा ता ' (ऋ. सं. १. १६१. ७) पुरुषः कृष्णशवास्युत्तरतः' (ऐ. ब्रा. ५, १४) इत्यादिवत् । तादृशैः **एवैः** गमनशीलैरश्वैः उद्गाः । अथ तथा कृत्वास्माभिः स्तुतः सन् **नः** अस्मान् **अनागसः** अपापान् **प्र** **वोचः** । केभ्यः । **मित्राय** **वरुणाय** **अर्यम्णे** **अग्नये** **च** । अत्र सौर्ये इतरेषां मित्रादीनां संकीर्तनं तेषामपि निपातभाक्त्वाविरुद्धम् । एवं पूर्वत्रोत्तरत्र च मैत्रावरुणेऽर्यमादीनां संकीर्तनमपि न विरुध्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rise up before us, **Sūrya**, with your glorious white horses; declare us free from sin to **Mitra**, **Varuṇa**,**Aryaman**, and **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Sun, you have arisen in front facing us with these praise songs, with  your coursers in their usual ways.  
 You will proclaim us to Mitra and Varuṇa to be without offense, and to  Aryaman and to Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So hast thou mounted up before us, Surya, through these our praises, with fleet dappled horses.  
      Declare us free from all offence to Mitra, and Varuna, and Aryaman, and Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Surya, gehst vor uns wieder auf, von diesen Preisliedern gezogen, von den Etasas, aus eignen Trieben. Melde dem Mitra und Varuna, dem Aryaman und Agni, daß wir ohne Sünden sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Steig auf vor uns, o Sonnengott, aufs neue mit diesen Liedern, mit den schnellen Rossen; Verkünde uns dem Varuna und Mitra als frei von Schuld dem Arjaman und Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Сурья, восходишь нам навстречу  
 Благодаря этим восхвалениям – быстрым коням.  

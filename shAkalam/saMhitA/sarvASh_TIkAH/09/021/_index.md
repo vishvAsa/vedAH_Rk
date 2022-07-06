@@ -8,7 +8,7 @@ title = "+021"
 "एते धावन्ति' इति सप्तर्चमेकविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । एते धावन्ति' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 21 (733)  
 Soma Pavamāna  

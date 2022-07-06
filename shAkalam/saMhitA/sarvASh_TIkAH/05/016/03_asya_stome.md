@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ स्तो꣡मे मघो᳐꣡नः  
 सखिये꣡ वृद्ध꣡शोचिषः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡म् अर्ये꣡ शु꣡ष्मम् आदधुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑ । यस्मि॑न् । तु॒वि॒ऽस्वनि॑ । सम् । अ॒र्ये । शुष्म॑म् । आ॒ऽद॒धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -93,42 +93,42 @@ genre M
 **मघोनः** मघवतो धनवतः **वृद्धशोचिषः** । वृद्धानि प्रवृद्धानि शोचींषि तेजांसि यस्यासौ बृद्धशोचिः । तस्यैवंविधस्याग्नेः **स्तोमे** स्तोत्रे **सख्ये** च स्याम। **तुविष्वणि** बहुशब्दे **अर्ये** स्वामिनि **यस्मिन्** अग्नौ **विश्वा** ॥  ‘ सुपां सुलुक्° ' इति डादेशः ॥ विश्वे सर्वे ऋत्विजः **शुष्मं** बलं हविर्भिः स्तोत्रैश्च **सम्** **आदधुः** सम्यगादधति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(May we be assiduous) in the praise, (and cherished) in the friendship of that very radiant possessor of wealth, on whom, loud-sounding and all-ruling, (his) universal (worshippers) have conferred vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At our praise of this generous one and in our companionship with him  full-flamed,  
 our mightily roaring compatriot, in whom all (beings) have placed  
 unbridled strength—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All rests upon the laud and love of him the rich, high-flaming God,  
      On whom, loud-roaring, men have laid great strength as on a faithful friend.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (We abide [?]) in his praise, the liberal (god's), in his friendship, the mightily brilliant one's, in whom, the loudly roaring Aryan, all (beings) have put together their strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In seinem Preis, in der Freundschaft des Freigebigen, dessen Glut erstarkt ist, wollen wir bleiben, des lauttönenden Herrn, in dem alle Wesen ihren Ungestüm vereinigt haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In seiner Freundschaft, seinem Preis, des reichen, hochaufflammenden, Des rauschenden, steht alle Welt, da sie dem treuen Kraft verliehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пусть пребываем мы) в его восхвалении, в дружбе  
 Со щедрым (богом), с усилившимся пламенем,  

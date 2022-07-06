@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो अग्नि꣡र् ज्यो꣡तिरनीको अस्तु  
 शं꣡ नो मित्रा꣡व꣡रुणाव् अश्वि꣡ना श꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ न इषिरो꣡ अभि꣡ वातु वा꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । सु॒ऽकृता॑म् । सु॒ऽकृ॒तानि॑ । स॒न्तु॒ । शम् । नः॒ । इ॒षि॒रः । अ॒भि । वा॒तु॒ । वातः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -140,41 +140,41 @@ genre D
 **ज्योतिरनीकः** ज्योतिर्मुखः **अग्निः** **नः** अस्माकं **शं** शान्त्यै अस्तु भवतु । मित्रावरुणा मित्रावरुणावपि **नः** अस्माकं **शं** शान्त्यै भवताम् । **अश्विना** अश्विनावपि **शं** भवताम् । **सुकृतां** पुण्यकर्मणां पुरुषाणां **सुकृतानि** पुण्यकर्माण्यपि **नः** अस्माकं **शं** शान्त्यै **सन्तु** भवन्तु । **इषिरः** गमनशीलोऽपि **वातः** वायुरपि **नः** अस्माकं **शं** शान्त्यै **अभि** **वातु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, whose countenance is light, be (with us) for our happiness; may **Mitra** and **Varuṇa**, may theAśvins be (present) for our felicity; may the virtuous be (promotive of) our happiness; may the restless wind blowfor our happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us be Agni, whose face is light; luck for us Mitra and Varuṇa,  the Aśvins luck.  
 Luck for us be the good deeds of the good doers; luck let the vigorous  Wind blow to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relentless pattern “luck be” is briefly broken here in pāda d, with śám the object of the verb ‘blow’ (śám … abhí vātu).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Favour us Agni with his face of splendour, and Varuva and Mitra and the Asvins.  
      Favour us noble actions of the pious, impetuous vita blow on us with favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns Agni sein, dessen Antlitz Licht ist, zum Glück uns Mitra und Varuna, zum Glück die Asvin. Zum Glück sollen uns die Guttaten der Guttäter sein, Glück soll uns der rasche Wind zuwehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil uns Agni, dessen Antlitz leuchtet, zum Heil uns Mitra-Varuna, die Ritter, Zum Heile uns der frommen fromme Werke, Heil wehe uns der rasch bewegte Wind zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будет светоликий Агни,  
 На счастье нам Митра-Варуна, Ашвины на счастье!  

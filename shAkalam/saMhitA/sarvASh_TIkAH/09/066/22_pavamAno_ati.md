@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो अ꣡ति स्रि꣡धो  
 अभि꣡ अर्षति सुष्टुति꣡म्  
 सू꣡रो न꣡ विश्व꣡दर्शतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सूरः॑ । न । वि॒श्वऽद॑र्शतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -80,21 +80,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पवमानः** सोमः **अस्रिधः** हिंसकान् शत्रूनतिक्रम्य गच्छति । तथा **सुष्टुतिं** स्तोतॄणां शोभनां स्तुतिम् **अभ्यर्षति** आभिमुख्येन गच्छति । ‘ऋषी गतौ'। तौदादिकः । ‘बहुलं छन्दसि' इति शप् । गुणः । किंच **सूरो** **न** सूर्य इव **विश्वदर्शतः** सर्वस्य द्रष्टा सर्वैर्वा दर्शनीयो भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The purified (**Soma**) hastens past the adversaries towards the fair praise of the worshippers, visible to all like the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying one rushes across failures toward the lovely  
 praise hymn,  
 visible to all like the sun.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ The light imagery in this tṛca may pick up on the identification with Agni in 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beyond his enemies away to sweet praise Pavamana flows,  
      Like Surya visible to all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd fließt er über alle Fehler hinweg zu einem schönen Loblied, wie die Sonne allen sichtbar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hinflammend durch der Feinde Schar, ergiesst er sich zum Lobgesang, Der Sonne gleichend, rings zu schaun,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

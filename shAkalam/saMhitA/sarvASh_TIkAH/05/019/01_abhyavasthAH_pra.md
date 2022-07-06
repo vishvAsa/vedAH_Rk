@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभ्य् अ᳡वस्थाः꣡ प्र꣡ जायन्ते  
 प्र꣡ वव्रे꣡र् वव्रि꣡श् चिकेत  
 उप꣡स्थे मातु꣡र् वि꣡ चष्टे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 उ॒पऽस्थे॑ । मा॒तुः । वि । च॒ष्टे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
@@ -90,41 +90,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **वव्रेः** ऋषेः **अभि** उत्तरोत्तरम् **अवस्थाः**  अशोभना दशाः **प्र** **जायन्ते** । तादृशीः **वव्रिः** हविषां संभक्ता सोऽग्निः **प्र** **चिकेत** प्रजानीयात् । ज्ञात्वा चापनयत्विति भावः । योऽग्निः **मातुः** पृथिव्याः **उपस्थे** समीपे स्थितं पदार्थजातं **वि** **चष्टे** पश्यति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unprosperous circumstances affect Vavri; may the accepter (of oblations) become cognizant (of them), as, reclining on the lap of his mother, he beholds all things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His low appearances [=low flames] are born forth. From the covering (of  wood) a covering (of smoke) has become visible.  
 He gazes out in the lap of his mother [=the lower churning stick].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ONE state begets another state: husk is made visible from husk:  
      Within his Mother's side he speaks.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They are born for retirement 1. Out of the cover he 2 has shone forth, being a cover himself. In the lap of the mother he looks about 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die anderen Umstände kommen zur Geburt. Sein Leib schimmert aus ihrem Leib hervor. Im Schoße der Mutter lugt er aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Weibes Geschlechtstheile gebären ihn, aus dem Leibe kam er als Leib ans Licht, er wird erblickt in der Mutter Schooss. [Wohl Agni's Geburt.]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рождаются (нам) навстречу (разные) состояния (Агни).  
 (Одна) оболочка появляется из (другой) оболочки.  

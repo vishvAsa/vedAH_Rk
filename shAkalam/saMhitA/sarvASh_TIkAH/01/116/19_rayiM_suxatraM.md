@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रयिं꣡ सुक्षत्रं꣡ सुअपत्य꣡म् आ꣡युः  
 सुवी꣡रियं नासतिया व꣡हन्ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रि꣡र् अ꣡ह्नो भागं꣡ द꣡धतीम् अयातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । ज॒ह्नावी॑म् । सऽम॑नसा । उप॑ । वाजैः॑ । त्रिः । अह्नः॑ । भा॒गम् । दध॑तीम् । अ॒या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 हे नासत्यावश्विनौ **सुक्षत्रं** शोभनबलं **रयिं** धनं **स्वपत्यं** शोभनैः पुत्रादिभिरुपेतं **सुवीर्यं** शोभनवीर्योपेतम् **आयुः** । अन्ननामैतत् । एवंगुणविशिष्टमन्नं च **वहन्ता** धारयन्तौ युवां **समनसा** समानमनस्कौ सन्तौ **जह्नावीं** जह्नोर्महर्षेः संबन्धिनीं प्रजाम् **आ** **अयातम्** अभिमुख्येनागच्छतम् । कीदृशीं **वाजैः** हविर्लक्षणैरन्नैरुपेताम् । **अह्नः** । अत्र अहःशब्देन तत्रानुष्ठेयः सोमयागो लक्ष्यते । तस्य प्रातःसवनादिरूपेण **त्रिः** त्रिधा विभक्तं **भागम्** अंशं **दधतीं** बिभ्रतीम् । अनुसवनं हविर्भिर्यजमानामित्यर्थः ॥ सुक्षत्रम् । बहुव्रीहौ ‘नञ्सुभ्याम्' इति उत्तरपदान्तोदात्तत्वम् । सुवीर्यम् । ‘वीरवीर्यौ च' इति बहुव्रीहौ उत्तरपदाद्युदात्तत्वम् । जह्नावीम् । जह्नुशब्दात् तस्येदम्' इत्यर्थे अण् । ‘टिड्ढाणञ्' इति ङीप् । जाह्नवी । ह्रस्वदीर्घयोर्विनिमयः पृषोदरादित्वात् । उक्तं च-- ‘वर्णागमो वर्णविपर्ययश्च ' ( का. ६. ३. १०९ ) इति । अत एव मध्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ genre M
 Family of Jahnu: **jāhnavī**, an adjective of **prajā**, progeny (jahnoḥ prajām). Jahnu is a **Mahaṛṣi**; he is a prince of the lunar dynasty
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Conveying wealth with good rule and a full lifetime with good  descendants and good men, Nāsatyas,  
 you two of one mind journeyed here with the prizes of victory to the  wife of Jahnu, who was setting your portion three times a day.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, bringing wealth with rule, and life with offspring, life rich in noble heroes; O Nasatyas,  
      Accordant came with strength to Jahnu's children who offered you thrice every day your portion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reichtum nebst guter Herrschaft, kindergesegnetes langes Leben, Meisterschaft bringend kamet ihr Nasatya´s eines Sinnes mit Belohnungen zur Jahnavi, die dreimal des Tages euch den Opferanteil darbrachte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sprossreiches Alter, Macht verleihnden Reichthum und Heldenfülle bringend, o ihr Treuen, Kamt eines Sinns mit Gut ihr zur Dschahnavi, die dreimal euch des Tages Opfer brachte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Везя богатство, счастливую власть, (долгий) срок жизни,  
 Благословленной хорошим потомством, обилие героев, о Насатьи,  

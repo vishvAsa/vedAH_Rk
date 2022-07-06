@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अस्मा꣡कम् इन्दर+ विश्व꣡ध स्या  
 अवृक꣡तमो नरां᳐꣡ नृपाता꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । नः॒ । विश्वा॑साम् । स्पृ॒धाम् । स॒हः॒ऽदाः । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -123,36 +123,36 @@ genre M;; repeated line
 हे **इन्द्र** **त्वमस्माकं** **विश्वध** विश्वस्मिन्नपि काले विश्वप्रकारैर्वा **अवृकतमः** । यद्वा । दातृतम इत्यर्थः । **स्याः** भव । तथा **नरां** **नृपाता** अस्मदीयानां पुत्रभृत्यादिरूपाणां बहूनां मनुष्याणां सर्वदा रक्षको भव । अपरो नृशब्दोऽनुवादः । किंच **सः** त्वं **विश्वासां** **स्पृधां** सर्वासां स्पर्धानिमित्तानाम् अस्मत्सेनानां **सहोदाः** तासामर्थाय बलस्य दाता भव । विद्यामेति गतम् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be you, **Indra**, at all times our especial defender; the preserver of our people, the bestower of strength upon all these our emulous (followers); that we may obtain food, strength, and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, should be at all times our man-protector of men, who best  keeps the wolf away  
 and giver of victorious power over all our contenders. – May we know  refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, mayst thou be ours in all occasions, protector of the men, most gentle-hearted,  
      Giving us victory over all our rivals. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, sollst uns allezeit der am meisten vor Räubern sichernde Schirmer der Männer sein. Du gibst uns die Übermacht über alle Gegner. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei, Indra, unser du zu allen Zeiten, du als der Männer treuester Beschirmer, Du Sieg verleihend über alle Feinde. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, всегда пусть будешь нашим  
 Самым надежным защитником мужей!  

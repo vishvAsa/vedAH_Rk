@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡ह स्थः कु꣡ह जग्मथुः  
 कु꣡ह श्येने꣡व पेतथुः  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuha*
 - \[adverb\]
@@ -99,36 +99,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अश्विनौ युवां **कुह** क्व **स्थः** भवथः । इदानीं **कुह** क्व कुत्र **जग्मथुः** गच्छथः स्वेच्छया । **कुह** क्व वा **श्येनेव** श्येनाविव शीघ्रपतनौ सन्तौ **पेतथुः** पतथः । एवमचिन्त्यस्वभावौ कृपया संनिहितौ भवतमिति शेषः । तादृशयोः **अवः** अन्तिके भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where are you? Whither are you gone? Wither have you flown like hawks? Let your protection abidenear me.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where are you? Where have you gone? Where have you flown like  falcons?  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where are ye? whither are ye gone? whither, like falcons, have ye flown?  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo seid ihr, wohin seid ihr gegangen, wohin seid ihr gleich Falken geflogen. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo seid ihr, und wo gingt ihr hin? wo flöget ihr wie Adler hin? Es sei uns eure Hülfe nah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где вы находитесь? Куда отправились?  
 Куда улетели, как два сокола?  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ क्षो꣡दो म꣡हि वृतं꣡ नदी꣡नाम्  
 प꣡रिष्ठितम् असृज ऊर्मि꣡म् अपा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡र्दयो नी꣡चीर् अप꣡सः समुद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तासा॑म् । अनु॑ । प्र॒ऽवतः॑ । इ॒न्द्र॒ । पन्था॑म् । प्र । आ॒र्द॒यः॒ । नीचीः॑ । अ॒पसः॑ । स॒मु॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -115,41 +115,41 @@ genre M
 हे इन्द्र त्वं **महि** महत् **वृतं** वृत्रेण परिवृतमाच्छादितं **परिष्ठितं** परितः स्थितं **नदीनां** सिन्धूनां संबन्धि **क्षोदः** उदकम् **आ** **असृजः** आ समन्तात् सृष्टवानसि । येन नद्यः पूर्णाः प्रवहेयुस्तदित्यर्थः । **अपाम्** उदकानाम् **ऊर्मिं** समूहं सृष्टवानसि । पुनर्वचनमादरार्थम् । हे **इन्द्र** **तासां** नदीनां संबन्धिनः **पन्थां** पथो मार्गान् **प्रवतः** प्रवणान् **अनु** अकार्षीरिति शेषः । अन्वित्युपसर्गयोग्यक्रियाध्याहारः । किंच **नीचीः** प्रवणाभिमुखीः । वेगयुक्ता इत्यर्थः । **अपसः** अपः उदकानि । अपस इत्यप एवार्थे वर्तते । **समुद्रम्** उदधिं **प्रार्दयः** प्रागमयः । अत्रार्दयतिर्नयनकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have set free the greatly obstructed and arrested water of the rivers, the flux of the waters; you have directed them, **Indra**, upon their downward paths; you have sent them rapidly down to the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You sent surging here the great gush of rivers that had been blocked  and surrounded, the wave of waters.  
 Along their slopes, along their path, Indra, you set the busy (waters)  tossing, downward to the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d apásaḥ ‘busy, industrious’ (Geldner’s fleissig) is, of course, a pun on the ‘water’ word, whose acc. pl. is apás.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou settest free the rushing wave of waters, the floods' great swell encompassed and obstructed.  
      Along steep slopes their course thou tumedst, Indra, directed downward, speeding to the ocean.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die große eingeschlossene Flut der Ströme, die umlagerte, ließest du laufen, die Woge der Gewässer. Ihren Flußbahnen, ihrem Weg entlang triebst du, Indra, die fleißigen Gewässer hinab zum Meere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den grossen Schwall der Ströme, den versteckten, die rings umstellten Wogen machtest frei du, Und ihre Bahn am Abhang hin, o Indra; du liessest eilend sie zum Meere strömen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий скованный водопад рек,  
 Замкнутый, ты выпустил течь – волну вод.  

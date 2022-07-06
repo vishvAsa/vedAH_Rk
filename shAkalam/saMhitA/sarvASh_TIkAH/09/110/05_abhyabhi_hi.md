@@ -6,14 +6,14 @@ ChandaH = "ऊर्ध्वबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡-अभि हि꣡ श्र꣡वसा तत꣡र्दिथ  
 उ꣡त्सं न꣡ कं꣡ चिज् जनपा꣡नम् अ꣡क्षितम्  
 श꣡र्याभिर् न꣡ भ꣡रमाणो ग꣡भस्तियोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 शर्या॑भिः । न । भर॑माणः । गभ॑स्त्योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhyabhi* ← *abhi*
 - \[adverb\]
@@ -101,20 +101,20 @@ genre M
 हे सोम त्वं **श्रवसा** अन्नेन हेतुना **अभ्यभि** **ततर्दिथ** **हि** पवित्रमभितृण्णवानसि छिन्नवानसि । तत्र दृष्टान्तद्वयम्' । **उत्सं** **न** यथा कश्चित् **जनपानम्** । अस्मिन् जना उदकं पिबन्ति । तम् **अक्षितम्** अक्षीणं **कं** **चित्** कंचन उत्समुत्सरणशीलं वाप्यादिकमभितृणत्ति । अथवा कश्चित् **गभस्त्योः** बाह्वोः **शर्याभिः** अङ्गुलीभिः **भरमाणः** उदकं संभरन् कंचिदभितृणत्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have burst open (the filter) with (your) food as (one bursts open) an inexhaustible fountain giving drink to the nation, like one taking up (water) with the fingers of his two **hands**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because with your fame you drilled ever closer to the inexhaustible  drink for men, as if to some kind of wellspring,  
 while being carried in the (priest’s) hands, like (booty by someone) with  arrows in his hands—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t quite know what to do with śrávasā. Geldner and Renou bleach it into an adverb (rühmlich, glorieusement), which I am reluctant to do, but it also seems unlikely that it was Soma’s fame that enabled him to do this drilling. Perhaps it is shorthand for a famous deed, referring to this very act of drilling, or it simply characterizes Soma without reference to the action at hand. It may also be a sly allusion to a well-known formula: the adj. ákṣitam ends the hemistich, and śrávas ákṣitam (in sandhi śrávo ákṣitam) is of course the most famous Indo-European verbal formula.
 
@@ -146,23 +146,23 @@ A very challenging tṛca, esp. the last two vss.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All round about hast thou with glory pierced for us as 'twere a never-failing well for men to drink,  
      Borne on thy way in fragments from the presser's arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du hast rühmlich immer wieder gleichsam einen unversieglichen Born erbohrt, der von Menschen getrunken wird, wie der, welcher den Bogen in den Händen trägt, mit den Pfeilen das Ziel durchbohrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn fort und fort hast ruhmvoll du eröffnet uns jedweden Mensch-getrunknen, unversiegten Quell, In beiden Armen tragend wie mit Fingern ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь со славой ты пробуравливал  
 Будто какой неиссякающий источник, из которого пьют люди,  

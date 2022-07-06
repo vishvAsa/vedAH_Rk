@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नप्ती꣡भिर् यो꣡ विव꣡स्वतः  
 शुभ्रो꣡ न꣡ मामृजे꣡ यु꣡वा  
 गाः꣡ कृण्वानो꣡ न꣡ निर्णि꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गाः । कृ॒ण्वा॒नः । न । निः॒ऽनिज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *naptībhir* ← *naptībhiḥ* ← *naptī*
 - \[noun\], instrumental, plural, feminine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** सोमः **विवस्वतः** परिचरणवतो यजमानस्य **नप्तीभिः** पौत्रस्थानीयाभिः । तस्य हस्तः पुत्रोऽङ्गुलयः पौत्रस्थानीया इत्यभिप्रायः। मामृजे मृज्यते **शुभ्रो** **न** दीप्तोऽश्व: **युवा** इव । यथाप्रवृद्धोऽश्वो मृज्यते स्वपरिचारकैस्तद्वत् स एव युवा मिश्रणशीलः सोमः **निर्णिजम्**। निर्णिक्' इति रूपनाम । स्वकीयं रूपं **गाः** **न** **कृण्वानः** गोविकारांश्च कुर्वाणो भवतीति शेषः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,35 +103,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The grandchildren: the **hand** is the sacrificer's son, and the fingers his grandchildren
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who, like a handsome youth, has been groomed by the  
 granddaughters of Vivasvant [=fingers],  
 making the cows like a garment,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As disc. in the published introduction, in this hymn the poet provides several different metaphorical versions of the same ritual act. This vs. contains two of those alternatives: in ab Soma is groomed “by the granddaughters of Viviasvant,” a reference to the fingers, which were characterized as “troops of five kinsment” in 2ab; in c Soma makes cows like a garment (gā́ḥ kṛṇvānó ná nirṇíjam), a variant of 3c “clothes himself with cows” (góbhir vasāyáte). For the exact phrase see IX.107.26 and for variants without the simile particle IX.86.26, 95.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He by the daughters of the priest, like a fair youth, hath been adorned,  
      Making the milk, as 'twere, his robe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der von den Enkelinnen des Vivasvat wie ein strahlender Jüngling ausgeputzt wird, wenn er die Kuhmilch gleichsam zu seinem Festgewand macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der durch Vivasvats Töchter sich gleich einem schönen Jüngling schmückt, Die Milch umnehmend wie ein Kleid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, словно сверкающий юноша.  
 Начищается внучками Вивасвата,  

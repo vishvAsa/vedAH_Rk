@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुवा꣡दश प्रध꣡यश् चक्र꣡म् ए꣡कं  
 त्री꣡णि न꣡भ्यानि क꣡ उ त꣡च् चिकेत  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर्पिताः꣡ षष्टि꣡र् न꣡ चलाचला꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्मि॑न् । सा॒कम् । त्रि॒ऽश॒ताः । न । श॒ङ्कवः॑ । अ॒र्पि॒ताः । ष॒ष्टिः । न । च॒ला॒च॒लासः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvādaśa* ← *dvādaśan*
 - \[noun\], nominative, singular, neuter
@@ -127,7 +127,7 @@ popular
 **द्वादश** एतत्संख्याकाः **प्रधयः** परिधयः प्रहिता वर्तन्ते । तत्स्थानीया द्वादश मासाः **एकम्** अद्वितीयं **चक्रं** क्रमणस्वभावं संवत्सराख्यं चक्रमाश्रिताः। तथा **त्रीणि** त्रिसंख्याकानि **नभ्यानि** नाभ्याश्रयाणि फलकानि तत्स्थानीयानि ग्रीष्मवर्षाहेमन्ताख्यान्याश्रितानि । यथा सूर्यरथचक्रस्य द्वादश परिधयः नाभ्यर्हाणि त्रीणि फलकानि सन्ति तद्वत्कालचक्रस्यापि । **क** **उ** कोऽपि महान् **तत** चक्रं **चिकेत** जानाति । **तस्मिन्** चक्रे **साकं** सह **शङ्कवः** **न** शङ्कवः इव । अत्र पुरस्तादुपचारोऽपि नशब्दः सामर्थ्यादुपमार्थीयः । तस्मिन्नपि संवत्सरचक्रे **त्रिशताः** एतत्संख्याकाः **षष्टिर्न** । नशब्दः चार्थे । षष्टिश्च अरा अरस्थानीयान्यहानि **अर्पिताः** अर्पितानि । कीदृशानि तानि । **चलाचलासः** । एकश्चलशब्दो द्विर्भावप्राप्तः । चलाः । चलनस्वभावानीत्यर्थः ॥  ‘ चरिचलिपतिवदीनामच्याक्चाभ्यासस्य ' ( पा. सू. ६. १. १२, ६ ) इति द्विर्वचनमागागमश्च । ततोऽसुक् ॥  ‘ षष्टिश्च ह वै त्रीणि च शतानि संवत्सरस्याहानि ' (श, ब्रा. ९. १. १. ४३) इति ब्राह्मणम् । द्वादश प्रधयश्चक्रमेकमिति मासानां मासा मानात् ' (निरु. ४, २७ ) इत्यादि निरुक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ popular
 The wheel is the year of twelve months; the three axles are the three doubble seasons, or hot, wet and cold; and the three hundred and sixty spokes are the days of the lunar-**solar year**; **stanaḥ** śaśayaḥ, **śayāna**, sleeping; dehe **vartamānaḥ**, abiding in the body
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The chariot-wheel (of the Sun) is one, its wheel-segments are twelve, its  wheel-naves are three: who understands this?  
 They [=the days] that wander on and on are fitted together on that, like  three hundred pegs, like sixty (more).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Twelve are the fellies, and the wheel is single; three are the naves. What man hath understood it?  
      Therein are set together spokes three hundred and sixty, which in nowise can be loosened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zwölf Speichenbretter, ein Rad, drei Nabenstücke: wer versteht das? Darin sind zusammen dreihundertundsechzig wie Pflöcke befestigt, die sich nicht lockern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwölf Felgen [die Monate] sind an dem einen Rade [des Jahres] und drei Naben, wer versteht das? An ihm sind zugleich dreihundert nicht wankende und sechzig nicht schwankende Speichen [die Tage] befestigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Косяков двенадцать, колесо одно,  
 Три ступицы – кто же это постигнет?  

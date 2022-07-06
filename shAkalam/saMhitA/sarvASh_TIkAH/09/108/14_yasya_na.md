@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य न इ꣡न्द्रः पि꣡बाद् य꣡स्य मरु꣡तो  
 य꣡स्य वार्यम꣡णा भ꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡ इ꣡न्द्रम् अ꣡वसे महे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । येन॑ । मि॒त्रावरु॑णा । करा॑महे । आ । इन्द्र॑म् । अव॑से । म॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -123,21 +123,21 @@ genre M
 **नः** अस्मदीयं **यस्य** यं सोमम् **इन्द्रः** **पिबात्** पिबति । 'पा पाने'। लेट्याडागमः। यं च सोमं **मरुतः** पिबन्ति **वा** अपि च **अर्यमणा** एतन्नामकेन देवेन सह **भगः** देवः यं सोमं पिबति **येन** सोमेन **मित्रावरुणा** मित्रावरुणौ वयम् **आ** **करामहे** अभिमुखीकुर्महे तथा **महे** महते **अवसे** रक्षणाय येन च सोमेन **इन्द्रम्** अभिमुखीकुर्महे स सोमोऽभिषूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Our (**Soma**) which **Indra** drinks, which the **Maruts** drink and **Bhaga** with **Aryaman**; through which we propitiate **Mitra** and **Varuṇa** and Indra, to obtain his powerful protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our (soma) of which Indra will drink, of which the Maruts, or Bhaga  along with Aryaman,  
 by whom we will bring Mitra and Varuṇa here and Indra here for  
 great help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nom., acc., voc., and gen. pl. of marút- do not fit any standard RVic cadence. It is not surprising then that though instr. marúdbhiḥ and dat./abl.
 
@@ -153,23 +153,23 @@ The main cl. in these two vss. consists of the first two words of 13, sá sunve 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whom our Indra and the Marut host shall drink, Bhaga shall drink with Aryarnan,  
      By whom we bring to us Mitra and Varuna and Indra for our great defence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dem uns Indra trinken soll, von dem die Marut oder von dem Bhaga mit Aryaman, durch den wir Mitra und Varuna und den Indra zu großer Gnade bewegen können.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den unser Indra trinken soll, die Marutschar und Bhaga, nebst dem Arjaman, Durch den wir Mitra, Varuna und Indra uns zu grosser Hülfe schaffen her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого Индра у нас попьет, кого Маруты,  
 Или кого Бхага с Арьяманом,  

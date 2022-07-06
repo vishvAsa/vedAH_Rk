@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡नूनपात् पथ꣡ ऋत꣡स्य या꣡नान्  
 म꣡ध्वा समञ्ज꣡न् स्वदया सुजिह्व  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवत्रा꣡ च कृणुहि अध्वरं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मन्मा॑नि । धी॒भिः । उ॒त । य॒ज्ञम् । ऋ॒न्धन् । दे॒व॒ऽत्रा । च॒ । कृ॒णु॒हि॒ । अ॒ध्व॒रम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], vocative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 हे **तनूनपात्** । नपादित्यनन्तरापत्यनामधेयम् । गौरत्र तनूरुच्यते तता अस्यां भोगाः क्षीरादय इति । तस्याः पयो जायते पयस आज्यं तस्मादग्निः । यद्वा । अन्तरिक्षे तता आपस्तन्वः ताभ्य ओषध्यादयः तेभ्योऽग्निरिति । एवंरूप हे **सुजिह्व** शोभनज्वाल। यद्वा जिह्वेति वाङ्नाम । शोभनवागग्ने **ऋतस्य** यज्ञस्य **यानान्** फलप्राप्तिहेतून् **पथः** मार्गान् हविराख्यान **मध्वा** मदकरेण रसेन यद्वा वाग्जनितेन रसेन **समञ्जन्** सम्यग्दीपयन् **स्वदय** स्वादय । स्वादूकुरु ॥  ‘ स्वद आस्वादने । णिच्युपधावृद्ध्यभावश्छान्दसः ॥ किंच **मन्मानि** । मन्यतेरर्चतिकर्मणः । मननीयानि अस्मदभिप्रेतानि स्तोत्राणि **धीभिः** प्रज्ञाभिः कर्मभिर्वा **उत** अपि च **यज्ञं** यजनीयं हविश्च **ऋन्धन्** समृद्धानि कुर्वन् **नः** अस्मदीयम् **अध्वरं** यज्ञं **देवत्रा** देवेषु **कृणुहि** कुरु ॥ देवशब्दात् ‘देवमनुष्य°' इत्यादिना सप्तम्यर्थे त्राप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,7 +133,7 @@ Tanūnapāt: **Agni**;
 **Tanu** = a cow that has calved and yields milk, whence comes butter, and from butterfire-- Agni is thus the grandson of the cow; or, grandson of the waters, because from rain come the trees andtrees supplying fuel propagate Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Tanūnapāt, anointing with honey the paths traveling to truth, sweeten  them, you of lovely tongue.  
 And bringing to fulfillment our mental concepts and our sacrifice  
@@ -141,23 +141,23 @@ through (your) hymnic visions, make our ceremony (be) among
 the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tanunapat, fair-tongued, with sweet meath balming the paths and waysof Order, make them pleasant.  
      Convey our sacrifice to heaven, exalting with holy thoughts ourhymns of praise and worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tanunapat! Die gangbaren Wege der Ordnung mit Honig salbend mache das Opfer schmackhaft, Schönzungiger! Laß durch deine Kenntnisse Gebete und Opfer gelingen und bring unser Opfer zu den Göttern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sohn deiner selbst, des Rechts betretne Pfade mach hold, schönzung'ger, sie mit Honig salbend, Gebet und Opfer lass gedeihn durch Andacht und bringe zu den Göttern unsre Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Танунапат  
 , умащая медом исхоженные  

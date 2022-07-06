@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ब्र꣡ह्माणि नभाकव꣡द्  
 इन्द्राग्नि꣡भ्याम् इरज्यत  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 या । स॒प्तऽबु॑ध्नम् । अ॒र्ण॒वम् । जि॒ह्मऽबा॑रम् । अ॒प॒ऽऊ॒र्णु॒तः । इन्द्रः॑ । ईशा॑नः । ओज॑सा । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M;; repeated line
 **ब्रह्माणि** स्तोत्राणि **इन्द्राग्निभ्यां** **नभाकवत्** **प्र** **इरज्यत** नाभाकः प्रेरयते । **या** याविन्दाग्नी **सप्तबुध्नं** सप्तमूलं **जिह्मबारं** पिहितद्वारम् **अर्णवम्** **अपोर्णुतः** तेजोभिराच्छादयतः तयोर्मध्ये **ओजसा** बलेन **इन्द्रः** **ईशानः** ईश्वरो भवति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,13 +142,13 @@ genre M;; repeated line
 Seven-rooted ocean whose gates are hidden: yā saptabudhnam arṇavam jihmabāram aporṇutaḥ =saptamūlam **pihita** dvāram arṇavam tejobhir ācchād_yataḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like Nabhāka, direct sacred formulations to Indra and Agni, the two who opened up the flood with its seven (stream)beds, with its  sloping banks—Indra, showing mastery through his strength.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What this is about is not entirely clear. Geldner suggests Vala, while Lüders, fld.
 
@@ -157,23 +157,23 @@ by Renou, thinks of the heavenly ocean (as usual).
 That -bāra- ‘bank’ is a MIA development of pārá- ‘(far) shore’ (KEWA s.v. jihmáḥ, EWA s.v. pārá-) seems plausible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra and to Agni send your prayers, as was Nabhaka's wont,-  
      Who oped with sideway opening the sea with its foundations seven-Indra all powerful in his might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Richtet wie Nabhaka erbauliche Reden an Indra und Agni, die das Meer mit sieben Tiefen und geeignetem Rand aufschließen, Agni und Indra, der durch seine Stärke mächtig ist. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nabhaka gleichend wendet hin zu Indra-Agni eur Gebet. Das Meer, das sieben Böden hat, zur Seite neigend öffnen sie, auch Indra, der mit Kraft gebeut. Zerstieben soll der Feinde Schwarm
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Направьте, подобно Набхаке,  
 Священные слова к Индре и Агни,  

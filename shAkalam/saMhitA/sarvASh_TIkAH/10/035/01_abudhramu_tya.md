@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡बुध्रम् उ त्य꣡ इ꣡न्द्रवन्तो अग्न꣡यो  
 ज्यो꣡तिर् भ꣡रन्त उष꣡सो वि꣡उष्टिषु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अद्या꣡ देवा꣡नाम् अ꣡व आ꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒ही इति॑ । द्यावा॑पृथि॒वी इति॑ । चे॒त॒ता॒म् । अपः॑ । अ॒द्य । दे॒वाना॑म् । अवः॑ । आ । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abudhram* ← *budh*
 - \[verb\], plural, Root aorist (Ind.)
@@ -118,7 +118,7 @@ genre M
 **इन्द्रवन्तः** यष्टव्यत्वेनेन्द्रसंबन्धिनः **त्ये** ते अमी आहवनीयादयः **अग्नयः** **उषसो** **व्युष्टिषु** व्युच्छनेषु तमसां विवासनकालेषु **ज्योतिः** तेजः **भरन्तः** धारयन्तः अबुध्रं प्रबुद्धा आसन् । **मही** महत्यौ **द्यावापृथिवी** द्यावापृथिव्यौ **अपः** कर्म । ‘अपोऽप्नः' इति कर्मनामसु पाठात् । **चेततां** जानीताम् । **अद्य** अस्मिन्नहनि **देवानाम्** इन्द्रादीनाम् **अवः** रक्षणं वयम् **आ** **वृणीमहे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,30 +129,30 @@ genre M
 At the opening ofthe dawn: when he dawn repels the darkness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have awakened—these fires accompanied by Indra, bringing light at  the early brightenings of the dawn.  
 Let great Heaven and Earth take cognizance of our work. Today we  
 choose the help of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE fires associate with Indra are awake, bringing their light when first the Dawn begins to shine.  
      May Heaven and Earth, great Pair, observe our holy work. We claim for us this day the favour of the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt sind hier die Feuer, die den Indra zur Seite haben, erwacht, Licht bringend bei der Morgenröte aufleuchten. Himmel und Erde, die großen sollen auf das Opferwerk achten. Wir erbitten uns heute der Götter Gunst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon sind erweckt die Feuer, welche Indra liebt, die Licht erregen bei des Morgens erstem Schein; Es mögen Erd' und Himmel achten auf das Werk; wir wünschen heut der Götter Hülfe uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот пробудились те связанные с Индрой костры,  
 Неся свет при вспышках утренней зари.  

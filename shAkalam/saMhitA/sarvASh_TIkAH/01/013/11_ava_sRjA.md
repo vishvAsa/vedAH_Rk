@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व सृजा वनस्पते  
 दे꣡व देवे꣡भियो हविः꣡  
 प्र꣡ दातु꣡र् अस्तु चे꣡तनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र । दा॒तुः । अ॒स्तु॒ । चेत॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे वनस्पते एतन्नामकाग्ने **देव** हविर्भुग्भ्यः **देवेभ्यः** अस्मदीयं **हविः** **अव** **सृज** समर्पय इत्यर्थः । **प्र** **दातुः** यजमानस्य **चेतनं** परलोकविषयं विज्ञानं त्वत्प्रसादात् **अस्तु** ॥ वनस्पते । आमन्त्रितनिघातः । देव । पादादित्वात् न निघातः । षाष्ठिकम् आमन्त्रिताद्युदात्तत्वम् । हविः । इसः प्रत्ययस्वरः । दातुः । ददातेः तृच् । चितः' इत्यन्तोदात्तः । ङसि  ‘ ऋत उत्' (पा. सू. ६. १. १११ ) इति उत्वम् एकादेशो रपरत्वं च ।  ‘ रात्सस्य ' ( पा. सू. ८. २. २४ ) इति सलोपः । एकादेशस्वरेण उकार उदात्तः । चेतनम्। 'चिती संज्ञाने' । करणे ल्युट् । योरनादेशः लघूपधगुणः । लिति' (पा. सू. ६. १. १९३) इति प्रत्ययात्पूर्वस्योदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Present, divine **Vanaspati** (= lord of the woods), our oblation to the gods, and may true knowledge be (the reward) of the giver.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Release, o Lord of the Forest, the oblation to the gods, o god.  
 Let the display of the giver be outstanding.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 God, Sovran of the Wood, present this our oblation to the Gods,  
      And let the giver be renowned.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O tree 1, let the sacrificial food go, O god, to the gods. May the giver's splendour be foremost.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du göttlicher Baum, gib für die Götter die Opferspende frei! Das ansehen des Gebers soll gelten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergiesse, o du Waldesherr, o Gott, den Göttern Opferguss; Des Spenders Glanz erstrahle hell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О божественное  
 дерево  

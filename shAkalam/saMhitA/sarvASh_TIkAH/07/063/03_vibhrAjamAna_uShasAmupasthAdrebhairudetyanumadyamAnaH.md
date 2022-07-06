@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विभ्रा꣡जमान उष꣡साम् उप꣡स्थाद्  
 रेभइ꣡र् उ꣡द् एति अनुमद्य꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यः꣡ समानं꣡ न꣡ प्रमिना꣡ति धा꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ए॒षः । मे॒ । दे॒वः । स॒वि॒ता । च॒च्छ॒न्द॒ । यः । स॒मा॒नम् । न । प्र॒ऽमि॒नाति॑ । धाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vibhrājamāna* ← *vibhrājamānaḥ* ← *vibhrāj* ← *√bhrāj*
 - \[verb noun\], nominative, singular
@@ -110,36 +110,36 @@ genre M
 अयं सूर्यः **विभ्राजमानः** विशेषेण दीप्यमानः **उषसामुपस्थात्** उपस्थे मध्ये **रेभैः** स्तोतृभिः **अनुमद्यमानः** सन् **उदेति** । किंच **एषः** **देवः** द्योतमानः **सविता** **मे** मह्यं **चच्छन्द** उपच्छन्दयति कामान् । एष इत्युक्तं क इति । **यः** देवः **समानं** सर्वेषां प्राणिनामेकरूपं **धाम** स्वीयं तेजःस्थानं न **प्रमिनाति** न हिनस्ति न संकोचयति स देव उदेतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Delighted by the praises (of his worshippers), the radiant sun rises from the lap of the dawns; thatdivine sun gratifies my desires, who limits not the lustre that is common (to all).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Gleaming forth from the lap of the Dawns, he rises upward, being  celebrated by the husky-voiced singers.  
 He appears to me as the god Savitar, who does not violate the common  institute.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Refulgent from the bosom of the Mornings, he in Whom singers take delight ascendeth.  
      This Savitar, God, is my chief joy and pleasure, who breaketh not the universal statute.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus dem Schoße der Usas geht er strahlend auf, von den Sängern bejubelt. Er erscheint mir wie Gott Savitri, der die gemeinsame Abmachung nicht übertritt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herstrahlend aus dem Schooss der Morgenröthen erhebt er sich, von Sängern laut umjubelt, Wie Savitar, der Gott, erscheint mir dieser, der nie verkehrt die ewig gleiche Ordnung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ярко сверкая из лона утренних зорь,  
 Он восходит, бурно приветствуемый певцами.  

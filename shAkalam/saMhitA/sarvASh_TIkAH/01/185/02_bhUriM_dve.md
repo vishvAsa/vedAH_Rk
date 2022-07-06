@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रिं दुवे꣡ अ꣡चरन्ती च꣡रन्तम्  
 पद्व꣡न्तं ग꣡र्भम् अप꣡दी दधाते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वा र꣡क्षतम् पृथिवी नो अ꣡भ्वात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 नित्य॑म् । न । सू॒नुम् । पि॒त्रोः । उ॒पऽस्थे॑ । द्यावा॑ । रक्ष॑तम् । पृ॒थि॒वी॒ इति॑ । नः॒ । अभ्वा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūriṃ* ← *bhūrim* ← *bhūri*
 - \[noun\], accusative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **अचरन्ती** अविचले **द्वे** एव एते द्यावापृथिव्यौ **भूरि** बहुतरं चरन्तं पद्वन्तं पादयुक्तं **गर्भवदाश्रितं** कृत्स्नं प्राणिजातम् **अपदी** स्वयं पादरहिते **दधाते** धारयतः । अनयोर्मध्ये खलु सर्वं जगत् क्षेमेण वर्तते । धारणे दृष्टान्तः । **पित्रोः** मातापित्रोः **उपस्थे** उत्सङ्गे वर्तमानं नित्यं ध्रुवमात्मजं **सूनुं** न पुत्रमिव यथा स्नेहेन वर्धयन्तौ धारयन्तौ मातापितरौ तद्वत् । अथ प्रत्यक्षेणाह। हे **द्यावा** **पृथिवी** द्यावापृथिव्यौ । इतरेतरापेक्षया द्वित्वमुभयोः । **नः** अस्मान् **अभ्वात्** महतो भयहेतोः पापात् **रक्षतं** पालयतम् । यद्वा । अभ्वात् अभ्वं महत् । अत्यर्थमित्यर्थः । अभ्वेति महन्नाम ॥ द्वन्द्वे कृतद्यावादेशस्य द्यावापृथिवीशब्दस्य मध्ये रक्षतम् इति पदप्रयोगश्छन्दसः। आमन्त्रितस्याविद्यमानत्वेन निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,40 +137,40 @@ genre M
 Rakṣatam no abhvāt = great; the substantive is supplied: from sin as the cause of great danger: **mahato** bhayahetaḥ pāpāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two, unmoving and footless, conceive an ample embryo, moving  and footed,  
 like a natural son in the lap of his parents. – O Heaven and Earth,  
 protect us from the formless void.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I consider the embryo here to be the sun, but various other identifications have been proposed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Twain uphold, though motionless and footless, a widespread offspring having feet and moving.  
      Like your own son upon his parents' bosom, protect us, Heaven and earth, from fearful danger.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The two support, though moving not and footless, Abundant offspring having feet and moving. O Heaven and Earth, from dreadful darkness save us, Like your own son held in his parents' bosom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden, ohne selbst zu gehen, fußlos, empfangen die gehende, fußbegabte, zahlreiche Leibesfrucht wie einen leiblichen Sohn im Schoße, der Eltern. - Himmel und Erde, bewahret uns vor Übergewalt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie beide, fusslos und nicht wandernd, tragen als Frucht das Volk, was Füsse hat und wandert; Gleichwie den eignen Sohn im Schooss der Aeltern beschirmt vor grauser Noth uns, Erd' und Himmel!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двое недвижущихся, лишенных ног, получили  
 Обильного зародыша, движущегося, имеющего ноги,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡रुष एवे꣡दं꣡ स꣡र्वं  
 य꣡द् भूतं꣡ य꣡च् च भ꣡वियम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् अ꣡न्नेनातिरो꣡हति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 उ॒त । अ॒मृ॒त॒ऽत्वस्य॑ । ईशा॑नः । यत् । अन्ने॑न । अ॒ति॒ऽरोह॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puruṣa* ← *puruṣaḥ* ← *puruṣa*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ popular;; epic anuṣṭubh (380)
 **यद्** यस्मात् कारणादन्नेन प्राणिनां **भोग्येनाऽन्नेन** निमित्त-भूतेनाऽति-**रोहति** स्वकीयां कारणावस्थाम् अतिक्रम्य परिदृश्यमानाम् जगद्-अवस्थां प्राप्नोति, तस्मात् प्राणिनां कर्म-फल-भोगाय जगद्-अवस्था-स्वीकारान् नेदम् तस्य वस्तुत्वम् इत्य् अर्थः॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ Annena = prāṇināmbhoghenānnena nimittabhūtena; "inasmuch as he assumes the
 **Anna** = matter (**Muṇḍaka Upaniṣad** 1.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Man alone is this whole (world): what has come into being and  what is to be.  
 Moreover, he is master of immortality when he climbs beyond (this  
 world) through food.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Purusa is all that yet hath been and all that is to be;  
      The Lord of Immortality which waxes greater still by food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Purusa allein ist diese ganze Welt, die vergangene und die zukünftige, und er ist der Herr über die Unsterblichkeit und auch über das, was durch Speise noch weiter wächst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet über das Unsterbliche, was durch Speise [Opferspeise] noch höher wächst [herrlicher wird].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В самом деле, Пуруша – это вселенная,  
 Которая была и которая будет.  

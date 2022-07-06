@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ईं सो꣡मा बभ्रु꣡धूता अ꣡मन्दन्न्  
 अ꣡रोरवीद् वृषभः꣡ सा꣡दनेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नर् ग꣡वाम् अददाद् उस्रि꣡याणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒र॒म्ऽद॒रः । प॒पि॒ऽवान् । इन्द्रः॑ । अ॒स्य॒ । पुनः॑ । गवा॑म् । अ॒द॒दा॒त् । उ॒स्रिया॑णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -115,36 +115,36 @@ genre M
 **यत्** यदा **बभ्रुधूताः** बभ्रुणाभिषुताः **सोमाः** **ईम्** एनमिन्द्रम् **अमन्दन्** अमादयन् तदा **वृषभः** कामानां वर्षिता इन्द्रः **सदनेषु** युद्धेषु **अरोरवीत्** अत्यर्थं शब्दमकरोत् । **पुरंदरः** पुरां दारयिता **अस्य** इमं सोमं **पपिवान्** पीतवान् **इन्द्रः** **पुनः** **उस्रियाणां** क्षीरमुत्स्राविणीः **गवां** गाः **अददात्** बभ्रवे ददौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the libations effused by **Babhru** had exhilarated him, the showerer (of benefits) shouted aloud in the combats; **Indra**, the destroyer fo cities, quaffing (the **Soma**), restored to him his milk-yielding cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the soma drinks rinsed by Babhru exhilarated him, the bull set up  a bellowing among the (ritual) seats.  
 The stronghold-splitting Indra, having drunk of it, gave again of the  ruddy cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Somas mixed by Babhru cheered him, loud the Steer bellowed in his habitations.  
      So Indra drank thereof, the Fort-destroyer, and gave him guerdon, in return, of milch-kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die von Babhru angerührten Somatränke ihn berauscht hatten, da brüllte der Stier auf den Göttersitzen. Nachdem der Burgenbrecher Indra davon getrunken hatte, gab er von den rötlichen Kühen welche zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihn berauscht der Trank, den Babhru quirlte, da brüllte laut der Stier auf seinen Sitzen; Als Indra ihn getrunken, bracht' er wieder die morgenrothen Kühe Burgen brechend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда его опьянили соки сомы, разведенные Бабхру,  
 Взревел бык на сидениях (богов),  

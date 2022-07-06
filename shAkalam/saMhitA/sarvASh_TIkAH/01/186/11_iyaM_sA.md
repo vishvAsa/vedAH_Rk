@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ सा꣡ वो ऽस्मे꣡° दी꣡धितिर् यजत्रा  
 अपिप्रा꣡णी च स꣡दनी च भूयाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 नि । या । दे॒वेषु॑ । यत॑ते । व॒सु॒ऽयुः । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -128,41 +128,41 @@ genre M;; repeated line
 हे **यजत्राः** यष्टव्या देवाः **वः** युष्मत्संबन्धिनी **सा** **इयं** प्रसिद्धा **दीधितिः** दीप्तिः **अस्मे** अस्माकम् **अपिप्राणी** सर्वदा चेष्टयित्री **सदनी** **च** निवासवती च **भूयाः** भूयात् भवतु । **या** दीधितिः **वसूयुः** वसुमती **देवेषु** **नि** यतते नियमेन प्रयत्नं करोति । तानपि प्रकाशितुं सैव भूयात् । विद्याम इति गतः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Objects of admiration, may that wealth-abounding effulgence which manifests itself amongst the gods, give animation to our existence, and (permanence to) our dwellings; that we may (thence) obtain food, strength, and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here among us is this visionary hymn, o you who are worthy of the  sacrifice; it should provide you your fill and a place to sit—  
 (the hymn) that, seeking goods, takes its place among the gods. – May  we know refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The dī́dhiti- ‘visionary hymn’ of this vs. makes a thematic ring with the manīṣā́- ‘inspired thought’ of 1d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is my reverent thought of you, ye Holy; may it inspire you, make you dwell among us,--  
      Thought, toiling for the Gods and seeking treasure. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese unsere Andacht soll euch, ihr Opferwürdige, ganz erfüllen und zum Sitzen einladen, die um Gutes bittend zu den Göttern strebt. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr heil'gen, diese unsre Andacht möge eur Odem sein, und euch zum Sitzen locken, Die Gut begehrend zu den Göttern hinstrebt. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть эта молитва, о достойные жертв, вас  
 Целиком наполнит и пригласит сесть среди нас,  

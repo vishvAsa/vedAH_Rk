@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अद्वेषो꣡ अद्य꣡ बर्हि꣡ष स्त꣡रीमणि  
 ग्रा꣡व्णां यो꣡गे म꣡न्मनः सा꣡ध ईमहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ॒दि॒त्याना॑म् । शर्म॑णि । स्थाः । भु॒र॒ण्य॒सि॒ । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adveṣo* ← *a*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M;; repeated line
 अद्य अस्मिन्नहनि **बर्हिषः** **स्तरीमणि** वेद्यां स्तरणे **मन्मनः** मननीयस्याभीष्टस्य फलस्य **साधे** साधके **ग्राव्णाम्** अभिषवपाषाणानां **योगे** सोनेन सह संयोगे च सति **अद्वेषः** द्वेषवर्जितानादित्यान **ईमहे** वयमभीष्टं याचामहे । हे स्तोतः त्वं तेषाम् **आदित्यानां** देवानां **शर्मणि** सुखे स्थाने वा **स्थाः** तिछ । **भुरण्यसि** कर्तव्यानि कर्माणि बिभर्षि गच्छसि वा । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M;; repeated line
 Whereby our wishes areaccomplished: manmanas sādhe = liṭ, on the accomplishment of our wishes; or, an epithet of **yoga**, the bringinginto contact, which is the accomplisher (sādhake) of our wishes; you discharge your duties: bhuraṇyasi =kartavyāni karmāṇi bibharṣi, you practise the acts that are to be performed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Today at the strewing of the ritual grass, at the yoking of the pressing  stones we beg for lack of hatred and for the realization of our  
 thought.  
 Standing in the shelter of the Ādityas, you are astir. – We beseech Agni,  when he is kindled, for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day we pray with innocence in strewing grass, adjusting pressing-stones, and perfecting the hymn.  
      Thou in the Adityas' keeping movest restlessly. We pray to kindled Agni for felicity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir bitten heute um Friedfertigkeit bei des Barhis Auslegen und bei der Preßsteine Tätigkeit, daß unsere Andacht erfolgreich sei. Im Schutze der Aditya´s stehend bist du tätig. - Um Heil bitten wir den entflammten Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir flehen arglos bei der Streubereitung heut, beim Schirr'n der Steine und bei des Gebetes Werk; In der Aditja's Schutze stehend regst du dich; um Segen flehn wir den entflammten Agni an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы просим сегодня о невраждебности при расстилании жертвенной соломы,  
 При запрягании давильных камней, при исполнении молитвы.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त्वा बृह꣡न्तो अ꣡द्रयो  
 व꣡रन्त इन्द्र वीळ꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 न꣡किष् ट꣡द् आ꣡ मिनाति ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । दित्स॑सि । स्तु॒व॒ते । माऽव॑ते । वसु॑ । नकिः॑ । तत् । आ । मि॒ना॒ति॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -112,41 +112,41 @@ genre M
 हे **इन्द्र** **बृहन्तः** बलेन महान्तः अत एव **वीळवः** सर्वतो दृढा अपि **अद्रयः** पर्वताः **त्वा** त्वां **न** **वरन्ते** बलेन न निवारयन्ति । अनिवारणमेवोत्तरार्धेन विवृणोति । **स्तुवते** त्वद्विषयं स्तोत्रं कुर्वते **मावते** मत्सदृशाय मादृशाय स्तोत्रे **यत्** **वसु** यद्धनं **दित्ससि** त्वं दातुमिच्छसि तव देयं **तत्** धनं **नकिः** न कश्चित् **आ** **मिनाति** आभिमुख्येन हिनस्ति ॥ ' मीञ् हिंसायाम् । ' मीनातेर्निगमे' इति ह्रस्वः । मावते । युष्मदस्मद्भ्यां सादृश्य उपसंख्यानम्' इति वतुप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The vast firm mountains cannot stop you, **Indra**, whatever wealth you would give to a worshipper suchas I none can hinder you therein.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The high, hard rocks do not obstruct you, Indra.  
 When you wish to give goods to a praiser like me, no one confounds this  (intention) of yours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note bṛhád índrāya of 1a has been transformed into … índrāya bṛhaté, with the adj. now qualifying Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, the strong and lofty hills are powerless to bar thy way.  
      None stay that act of thine when thou wouldst fain give wealth to one like me who sings thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht halten sich, Indra, die hohen, festen Berge auf, wenn du einem Sänger wie mir Gut schenken willst; keiner hindert dich daran.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht hemmen hohe Felsen dich, noch feste Burgen, Indra, dich, Wenn einem Sänger, so wie wir, du Güter reichst, so hindert niemand dich daran.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не удержат тебя, о Индра,  
 Высокие крепкие скалы,  

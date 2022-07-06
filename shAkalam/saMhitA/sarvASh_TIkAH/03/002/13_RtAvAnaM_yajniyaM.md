@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋता꣡वानं यज्ञि꣡यं वि꣡प्रम् उक्थि꣡यम्  
 आ꣡ यं꣡ दधे꣡ मातरि꣡श्वा दिवि꣡ क्ष꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुदीति꣡म् अग्निं꣡ सुविता꣡य न꣡व्यसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । चि॒त्रऽया॑मम् । हरि॑ऽकेशम् । ई॒म॒हे॒ । सु॒ऽदी॒तिम् । अ॒ग्निम् । सु॒वि॒ताय॑ । नव्य॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāvānaṃ* ← *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
@@ -131,42 +131,42 @@ genre M
 ऋतावानं बलवन्तं यज्ञियंयज्ञार्हं विप्रम्मेधाविनं उक्थ्यं स्तुत्यं दिविद्युलोकेक्षयं निवसन्तं यमग्निं मातरिश्वावायुः द्युलोकादाहृत्यपृथिव्यां आदधे आहितवान् चित्रयानं नानाविधगमनं हरिकेशं पिङ्गलार्चिषं सुदीतिं शोभनदीप्तिन्तमग्निं नव्यसेनवतराय सुविताय सुष्ठुप्राप्तव्यायध नाय तदर्थंईमहेयाचामहे ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We implore for present riches, the many-moving tawny-rayed, resplendent **Agni**, whom mighty venerable, wise, adorable, and dwelling in the sky, the wind (brought down) and deposited (upon the earth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired one, possessing the truth, worthy of the sacrifice, and  worthy of hymns, the dwelling in heaven whom Mātariśvan  
 placed here—  
 him do we beseech, him whose path is shimmering, whose hair is tawny,  beautifully shining Agni, for a newer easy passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For new prosperity we seek to Agni, him whose course is splendid, gold-haired, excellently bright,  
      Whom Matarisvan stablished, dweller in the heaven, meet for high praise and holy, sage and true to Law.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The righteous, worshipful priest deserving of praise, the dweller in heaven 1 whom Mâtarisvan has established (on earth): him we approach whose way is bright and hair golden, the resplendent Agni, for the sake of ever new welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den wahrhaften, opfergewaltigen, redefertigen, preislichen, den Matarisvan an sich nahm, da er im Himmel wohnte, ihn, dessen Ausfahrt prächtig ist, den goldhaarigen, schön leuchtenden Agni gehen wir zu erneuter Wohlfahrt an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den heil'gen Priester, den verehrten, preislichen, den Mātariçvan setzte an des Himmels Thron, Den goldgelockten Agni, dessen Bahn erglänzt, den schöngesetzten flehn wir an um neues Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К поддерживающему закон, достойному жертв, вдохновенному, заслуживающему гимна,  
 Кого захватил Матаришван, когда тот жил на небе,  

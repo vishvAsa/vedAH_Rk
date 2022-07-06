@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् गछन्ति जुहु꣡वस् त꣡म् अ꣡र्वतीर्  
 वि꣡श्वानि ए꣡कः शृणवद् व꣡चांसि मे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡छिद्रोतिः शि꣡शुर् आ꣡दत्त सं꣡ र꣡भः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽप्रै॒षः । ततु॑रिः । य॒ज्ञ॒ऽसाध॑नः । अच्छि॑द्रऽऊतिः । शिशुः॑ । आ । अ॒द॒त्त॒ । सम् । रभः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -139,48 +139,48 @@ genre M
 **जुह्वः** अस्मदीया जुहूपभृदादयः **तमित्** तमेवोद्दिश्य आज्यपूर्णाः सत्यः गच्छन्ति प्रीणयितुम् । यद्वा । हूयन्ते इति जुह्वः आहुतयः सोमादिरूपाः । अथवा जुह्वादिषु स्थितानि आज्यानि अपि आश्रयाश्रयिणोः अभेदेन जुह्वः इत्युच्यन्ते ' मञ्चाः क्रोशन्ति' इतिवत् । ता अपि तमेव गच्छन्ति अस्य सर्वदेवतात्मकत्वात् । अत्रैव इतरदेवतार्थमपि हूयमानं च इति भावः। किंच **अर्वतीः** प्राप्तिमत्यः स्तुतयः **तम्** इत् तमैवाग्निं गच्छन्ति सर्वदेवतात्मकत्वादेव । सः एव **एकः** अयमग्निः **विश्वानि** **मे** मदीयानि **वचांसि** स्तोत्ररूपाणि **शृणवत्** शृणोति । अग्नेः सर्वदेवतात्मकत्वं तैत्तिरीया आहुः-’ ते देवा बिभ्यतोऽग्निं प्राविशन् तस्मादाहुरग्निः सर्वा देवताः' (तै. सं. ६. २. २. ६ ) इति । तथा अत्रैव पुरस्तादाम्नास्यते- त्वमग्ने वरुणो जायसे यत्त्वं मित्रः ' ( ऋ. सं. ५. ३. १ ) इत्यादि । कोऽस्य विशेषः इत्युच्यते । **पुरुप्रैषः** बहुप्रैषभाक् । यद्वा । बहुप्रेषणः । सर्वस्याज्ञापयितेत्यर्थः । **ततुरिः** तारयिता । तरतेः अन्तर्भावितण्यर्थात् “ आदृगमहनः० ' इति किन्प्रत्ययः । ‘ बहुलं छन्दसि' इति उत्वम् ॥ **यज्ञसाधनः** यज्ञसाधकः अग्न्यधीनत्वाद्यज्ञस्य । **अच्छिद्रोतिः** अविच्छिन्नरक्षणः **शिशुः** शिशुवत्प्रियकारी शोचयिता वा शत्रूणाम् । एवंभूतोऽग्निः **सं** **रभः** यज्ञादिसंरम्भवान् सन् **आदत्त** आदत्ते हविरादिकं स्वीकरोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To him the (sacrificial) ladles are directed; to him (our) praises are addressed; he alone hears all my prayers; be is the instrumental gator of many, the transporter (across the world), the instrumental ument of sacrifice, the unintermitting preserver (of mankind), and (genitive le as) an infant; provided with the preparations (of sacrifice), he accepts libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to him go the offering ladles; to him the mares [=streams of ghee?].  He alone will hear all my words.  
 Enjoining many ritual commands, triumphant, bringing the sacrifice to  success, offering uninterrupted help, (though) a child, he has taken on  his ferocity entirely.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identity of the ‘mares’ (árvatīḥ) is unclear; it should simply be a ritually related entity of fem. gender used in the plural, which leaves the field pretty wide open (hymns, prayers, ghee streams, etc.). It is unlikely to be the ladles (juhvàḥ) though they are feminine and plural, because the tám … tám construction invites two different subjects, like the tásmin … tásmin constr. in 1c.
 
 Apropos of -praiṣa in c, Geldner (fld by Witzel Gotō) claims that this does not refer to the technical ritual sense of praiṣa- found in the later ritual. I would disagree. The word clearly is meant to mean something different from praśíṣ-, also ‘command’ (though to a different root entirely), in 1c, and this verse (3) is quite ritual-centric. See further at I.180.6
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him these ladles go, to him these racing mares: he only will give ear to all the words I speak.  
      All-speeding, victor, perfecter of sacrifice, the Babe with flawless help hath mustered vigorous might.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To him go the sacrificial ladles, to him go the racers 1. He alone may hear all my words. He who pronounces many praishas 2, the conqueror, the accomplisher of sacrifices whose blessings are flawless, the young child has assumed vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu ihnen kommen die Opferlöffel, zu ihm die Rennstuten. Er allein soll alle meine Worte hören. Viele Anweisungen gebend, ein die Schwierigkeiten überwindender Opferausrichter, lückenlosen Schutz gewährend, hat er schon als Kind ganz seine Gewalttätigkeiten angenommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm eilen zu die Löffel, ihm die Stuten zu, und er allein soll Zeuge meiner Worte sein; Der viele antreibt, rasch das Opfer führt zum Ziel, der Jüngling, stark an Hülfe, übte rasche That.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К нему направляются жертвенные ложки, к нему – скачущие кобылицы.  
 Он один услышит все мои слова.  

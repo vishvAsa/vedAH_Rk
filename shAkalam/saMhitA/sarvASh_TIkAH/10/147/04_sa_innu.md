@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡न् नु꣡ रायः꣡ सु꣡भृतस्य चाकनन्  
 म꣡दं यो꣡ अस्य रं꣡हियं चि꣡केतति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मक्षू꣡ स꣡ वा꣡जम् भरते ध꣡ना नृ꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वाऽवृ॑धः । म॒घ॒ऽव॒न् । दा॒शुऽअ॑ध्वरः । म॒क्षु । सः । वाज॑म् । भ॒र॒ते॒ । धना॑ । नृऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -136,36 +136,36 @@ genre M
 **स** **इत्** स एव स्तोता **सुभृतस्य** सुष्ठु संपादितस्य **रायः** धनस्य । द्वितीयार्थे षष्ठी ॥ ईदृशं  धनं **नु** क्षिप्रं **चाकनत्** कामयते । लभत इत्यर्थः । **रंह्यम्** । रंहो वेगः । तदर्हम् **अस्य** इन्द्रस्य **मदं** सोमपानजन्यं हर्षं **यः** स्तोता **चिकेतति** स्तुतिपदैर्जानाति । हे **मघवन्** **त्वावृधः** त्वया वर्धितः **दाश्वध्वरः** दत्तयज्ञो यजमानः **नृभिः** नेतृभिर्ऋत्विग्भिर्भृत्यैर्वा **धना** धनानि **वाजम्** अन्नं च **मक्षु** शीघ्रं **भरते** संपादयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He obtains well-procured riches, who studies to promote **Indra**'s rapid exhilaration. Exalted by (yourfavour), O **Maghavan**, (the worshipper), celebrating the sacrifice, speedily obtains through the officiating priestsfood and wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just that man will find pleasure in wealth that is easy to bear away who  will realize that the exhilaration of this one [=Indra] is to be hastened. With you as his strengthener, bounteous one, one who performs pious  ceremonies quickly bears away the prize, the stakes, along with  
 his men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That man shall find delight in well-protected wealth whose care provides for him the quick-sought joyous draught.  
      Bringing oblations, strengthened Maghavan, by thee, he swiftly wins the spoil with heroes in the fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur der soll sich wohlbestellten Besitztums erfreuen, der sich auf seinen eiligen Rausch versteht. Von dir gestärkt, Gabenreicher, trägt der Opferwillige alsbald den Gewinn, die Siegespreise mit seinen Mannen davon.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der freue nun des schönerlangten Reichthums sich, der dir den Rauschtrank zu beeilen sich bemüht, Wer dich, o mächt'ger, stärkt und dir mit Opfern dient, trägt Schatz und Beute mit den Helden bald davon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот может получать удовольствие от прекрасно обеспеченного богатства,  
 Кто позаботился о его быстром опьянении.  

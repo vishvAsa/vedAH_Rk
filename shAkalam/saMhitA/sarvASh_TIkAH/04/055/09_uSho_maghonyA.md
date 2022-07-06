@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡षो मघोनि आ꣡ वह  
 सू꣡नृते वा꣡रिया पुरु꣡  
 अस्म꣡भ्यं वाजिनीवति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 अ॒स्मभ्य॑म् । वा॒जि॒नी॒ऽव॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
@@ -76,36 +76,36 @@ genre M;; repeated line
 हे  **उषः** हे **मघोनि** धनवति हे **सूनृते** प्रियसत्यरूपवागभिमानिनि हे **वाजिनीवति** अन्नवति देवि **अस्मभ्यं** **वार्या** वरणीयानि **पुरु** बहूनि धनानि **आ** **वह** प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Opulent, Uṣas, truth-speaking, food-abounding, bestow upon us many good things.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bounteous, liberal Dawn, convey hither many valuables  
 to us, you who are rich in prize mares.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither to us, rich pleasant Dawn, bring many things to be desired,  
      Thou who hast ample store of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Freigebige Usas! Bring viele Kostbarkeiten mit, du Großmütige, für uns, du an Siegespreisen reiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reiche Uschas, fahre her, o wonnigliche, vieles Gut für uns, o labungsreiche du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О щедрая Ушас, привози,  
 О благодатная, многие желанные дары  

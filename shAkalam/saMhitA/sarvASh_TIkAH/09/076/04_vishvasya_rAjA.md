@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्य रा꣡जा पवते सुवर्दृ꣡श  
 ऋत꣡स्य धीति꣡म् ऋषिषा꣡ळ् अवीवशत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पिता꣡ मतीना꣡म् अ꣡समष्टकावियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । सूर्य॑स्य । असि॑रेण । मृ॒ज्यते॑ । पि॒ता । म॒ती॒नाम् । अस॑मष्टऽकाव्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
@@ -115,21 +115,21 @@ genre M
 **विश्वस्य** जगतः **राजा** स्वामी सोमः **स्वर्दृशः** स्वर्गद्रष्टुः सर्वद्रष्टुर्वा **ऋतस्य** सत्यभूतस्येन्द्रस्य । मनुष्यवाच्यनृतशब्दप्रतियोगिकस्य ऋतशब्दस्य देवार्थः। तत्रापि औचित्येनेन्द्रः परिगृह्यते । तस्य **धीतिं** मतिं कर्म वा **ऋषिषाट्** ऋषीणामतीन्द्रियद्रष्टॄणामभिभविता । महत्त्वेन  स्वयमपि ऋषिश्रेष्ठत्वादिति भावः । तथा च मन्त्रान्तरं -- ब्रह्मा देवानां पदवीः कवीनामृषिः " (ऋ. सं.९.९६.६) इति । ईदृशः सोमः अवीवशत् अकामयत इन्द्रस्य कर्म । **यः** सोमः **सूर्यस्य** देवस्य **असिरेण** क्षेपकेण रश्मिना **मृज्यते** । **असमष्टकाव्यः** अन्यैः कविभिरव्याप्तकर्मा सोमः **मतीनाम्** अस्मदीयानां स्तुतीनां **पिता** पालकः स्वामी भवतीति शेषः । यद्वा । यो मतीनां पिता असमष्टकाव्यश्च सन् मृज्यते सः **पवते** इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**) the soverign of the universe flows forth; surpassing the ṛṣis he desire the worship of the all-seeing truthful (**Indra**); he who is cleansed by the ray of he sun, the father of praise, the unequalled sage.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He purifies himself, the king of all who see the sun. Vanquishing the  seers, he has made the vision of truth bellow.  
 He who is groomed by the lance [=ray] of the sun is the father of  
 thoughts, one whose poetic skill is entirely unattainable.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax rt noun cmpd ṛṣi-ṣā́h- ‘vanquishing the seers’ (or, as Scarlatta [600] suggests as an alternative, ‘unter den Ṛṣis siegreich’) is, on first glance, a surprising collocation, since we generally expect √sah to take more obvious enemies as object.
 
@@ -142,23 +142,23 @@ Bearing in mind that I interpret “seeking to win the sun” in 2b as expressin
 Not much changes in the tr., though I would now emend it to “He who is groomed by a “shot” [/a shaft] of the sun [=milk] …” However, this analysis shows once again that when encountering a hapax we should not just seek a plausible meaning and a plausible etymology, but try to figure out why the hapax was introduced in the passage, which often opens the way to better understanding of the other two questions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Onward he flows, the King of all that sees the light: the Rsis' Lord hath raised the song of sacrifice;  
      Even he who is adorned with Surya's arrowy beam, Father of hymns, whose wisdom is beyond our reach.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König über alles, was die Sonne sieht, läutert sich; er hat die Erkenntnis der Wahrheit laut hinausgeschrieen, die Rishi´s noch übertreffend, der mit dem Strahl der Sonne gereinigt wird, der Vater der frommen Gedanken von unerreichter Sehergabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der König aller sonnengleichen Götter flammt, der Sängerheld hat lautes Opferlied erregt, Der durch der Sonne Strahlgeschoss gereinigt wird,der Andacht Vater, unerreicht an Seherkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царь всего, что видит солнце, очищается.  
 Превосходя риши, он заставит звучать мысль, (познающую) истину,  

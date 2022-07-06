@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आ꣡नयत् पराव꣡तः  
 सु꣡नीती तुर्व꣡शं य꣡दुम्  
 इ꣡न्द्रः स꣡ नो यु꣡वा स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । सः । नः॒ । युवा॑ । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 यः इन्द्रः **तुर्वशं** **यदुं** चैतत्संज्ञौ राजानौ शत्रुभिर्दूरदेशे प्रक्षिप्तौ **सुनीती** सुनीत्या शोभनेन नयनेन **परावतः** तस्माद्दूरदेशात् **आनयत्** अनीतवान् **युवा** तरुणः **सः** **इन्द्रः** **नः** अस्माकं **सखा** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that youthful **Indra**, who, by good guidance, brought **Turvaśa** and **Yadu** from afar, (be) our friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who with good leading led Turvaśa and Yadu here from afar,  
 he is Indra, our youthful comrade.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT Indra is our youthful Friend, who with his trusty guidance led  
      Turvasa, Yadu from afar.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der den Turvasa, den Yadu durch glückliche Führung aus der Ferne herführte, dieser Indra ist unser jugendlicher Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der aus der Ferne hergeführt schönleitend Jadu, Turvaça, Der junge Indra ist uns Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто привел издалека  
 Прекрасным привождением Турвашу (и) Яду,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रद्ध꣡याग्निः꣡ स꣡म् इध्यते  
 श्रद्ध꣡या हूयते हविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡चसा꣡ वेदयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 श्र॒द्धाम् । भग॑स्य । मू॒र्धनि॑ । वच॑सा । आ । वे॒द॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śraddhayāgniḥ* ← *śraddhayā* ← *śraddhā*
 - \[noun\], instrumental, singular, feminine
@@ -92,36 +92,36 @@ popular;; epic anuṣṭubh (292)
 पुरुषगतोऽभिलाषविशेषः श्रद्धा । तथा **श्रद्धया** **अग्निः** गार्हपत्यादिः **समिध्यते** संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरुषोऽग्नीन् प्रज्वालयति नान्यदा । **श्रद्धया** एव हविः पुरोडाशादिहविश्च **हूयते** । आहवनीये प्रक्षिप्यते । यद्वा । अस्य सूक्तस्य द्रष्ट्या श्रद्धाख्ययाग्निः समिध्यते । **श्रद्धाम्** उक्तलक्षणायाः श्रद्धाया अभिमानिदेवता **भगस्य** भजनीयस्य धनस्य **मूर्धनि** प्रधानभूते स्थानेऽवस्थितां **वचसा** वचनेन स्तोत्रेण आ **वेदयामसि** अभितः प्रख्यापयामः । इदन्तो मसिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is kindled by **Śraddhā**, by Śraddhā is the oblation offered; with our praise we glorifyFaith, of the family of Love; cf. **Nirukta** 9.31\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With trust is the fire kindled; with trust is the oblation poured.  
 We at the head of good fortune make known our trust with speech.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By Faith is Agni kindled, through Faith is oblation offered up.  
      We celebrate with praises Faith upon the height of happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Glauben wird das Feuer angezündet, mit Glauben wird die Spende geopfert. Auf dem Gipfel des Glücks lege ich mit meiner Rede Zeugnis ab von dem Glauben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch auf des Glückes Gipfel thun den Glauben wir durch Lieder kund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С Верой огонь зажигается,  
 С Верой возливается жертва,  

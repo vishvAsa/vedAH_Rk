@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋतं꣡ च सत्यं꣡ चाभी꣡द्धात्  
 त꣡पसो꣡ ऽधि अजायत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡तः समुद्रो꣡ अर्णवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 ततः॑ । रात्री॑ । अ॒जा॒य॒त॒ । ततः॑ । स॒मु॒द्रः । अ॒र्ण॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], nominative, singular, neuter
@@ -125,7 +125,7 @@ popular;; epic anuṣṭubh (292)
 अर्णसः सलोपश्च। का. ५-२-१०९-३। इति मत्वर्थीयो वप्रत्ययः सलोपश्च॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ Penance: an allusion to the penance of **Brahmā** preceding creation;
 **Tataḥ** = from that penance, or from him (Brahmā); watery ocean: **samudra** = firmament and ocean (**arṇava**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both truth and reality were born from heat when it was kindled.  
 From that, night was born, and from that the undulating sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FROM Fervour kindled to its height Eternal Law and Truth were born:  
      Thence was the Night produced, and thence the billowy flood of sea arose.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gesetz und Wahrheit wurden aus dem entbrannten Tapas geboren. Daraus entstand die Nacht, daraus der flutende Ozean.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim Himmelsgang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Закон и истина родились  
 Из воспламенившегося жара.  

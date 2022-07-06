@@ -8,7 +8,7 @@ title = "+185"
 ‘कतरा पूर्वा' इत्येकादशर्चं षष्ठं सूक्तमागस्त्यं त्रैष्टुभम् । “कतरैकादश द्यावापृथिवीयम्' इत्यनुक्रान्तम् । आभिप्लविके षष्ठेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्धानमिदम् । 'तृतीयस्य' इति खण्डे सूत्रितं- 'कतरा पूर्वोषासानक्तेति वैश्वदेवम् ' ( आश्व. श्रौ. ७. ७) इति । महाव्रतेऽपि वैश्वदेवशस्त्रे इदमेव द्यावापृथिव्यनिविद्धानम् । ‘उत्तमादाभिप्लविकात्तृतीयसवनम्' (ऐ. आ. ५. ३. २ ) इत्यतिदेशात् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 185  
 Heaven and Earth  
@@ -20,7 +20,7 @@ Heaven and Earth define space, but they also, in part via their son, define  tim
 The last three verses (9–11) develop this theme. The poet expresses the hope  that the verbal products he has just produced will help him: his “lauds belonging to men” (a variation on the technical term nárāśáṃsa, vs. 9), and the “truth” he  addressed to Heaven and Earth (vss. 10–11).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Heaven and Earth
 </details>

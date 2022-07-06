@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡रावती धेनुम꣡ती हि꣡ भूतं꣡  
 सूयवसि꣡नी म꣡नुषे दशस्या꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दाध꣡र्थ पृथिवी꣡म् अभि꣡तो मयू꣡खैः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒स्त॒भ्नाः॒ । रोद॑सी॒ इति॑ । वि॒ष्णो॒ इति॑ । ए॒ते इति॑ । दा॒धर्थ॑ । पृ॒थि॒वीम् । अ॒भितः॑ । म॒यूखैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *irāvatī* ← *irāvat*
 - \[noun\], nominative, singular, feminine
@@ -118,7 +118,7 @@ genre M
 **आदित्यपक्षे** - **व्यस्कभ्नात् रोदसी विष्णुर्** आदित्य **एते** युवां विविधं स्थापयति । तत एते एवं स्थापिते **दाधार** धारयति **पृथिवीम् अभितः** पृथिव्याम् अन्तरिक्षस्याधस्ताद् उपरिष्टाच् च । 'अभितः पीरतः' इति द्वितीया । मयूखैः रश्मिभिर् अधोमुखैः पृथिवीं, ऊर्ध्व-मुखैश् च दिवं, स्वयं मध्ये अन्तरिक्षे वर्तमानः इति । तस्माद् अनया ऽऽहुत्या युवाम् अन्नादिमत्यौ भवतम् । युवां युवयोर् अन्तरालं च विष्णुर् अपि दृढीकरोत्व् इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 To the man who praises you: manuṣe stuvate; **Yajus**. 5.16reads: manave = yajamānāya, to the instrumental tutor of the rite; have secured the erth: dādartham pṛthivīmmayūkhaiḥ: parvataiḥ, by mountains; or, by his incarnations displaying his glory, tejorūpair avatāraiḥ; cf. Tai.S. 3.4.5.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Since you two are full of refreshment, rich in milk-cows, become ones  affording good pasture for Manu through your favor”—  
 (So saying,) you propped apart these two world-halves, Viṣṇu; you fixed  the earth fast all around with loom-pegs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I take the first hemistich as Viṣṇu’s quoted speech. This, however, does not solve the puzzle posed by hí bhūtám. Is bhūtám an impv., as Geldner takes it -- or an injunctive, with Renou? If an imperative, how does it square with hí? This particle is not rare with imperatives, but it always seems somewhat problematic. Often it appears with the first impv. in a series, and the hí clause can command the action on which all subsequent actions depend, with the following impvs. often introduced by áthā -- see comm. ad I.10.3, 14.12, etc. -- but here there is no following imperative.
 
@@ -146,7 +146,7 @@ In the published translation of I.93.7 I take bhūtám as an injunc (with Geldne
 interpr. “Become X Y, then …” Therefore, I.93.7 is not necessarily a support for my published interpr. here; I still weakly prefer it because of the absence of a following impv., but now consider the alternative possible: “Become full of refreshment, rich in milkcows, affording good pasture …” The following impv. may be missing because Viṣṇu’s direct speech is truncated. (Despite their distance in the text, comparing I.93.7 to our passage is justified by the fact that the first pāda in the very next vs. in our hymn, 4a, is identical to I.93.6d, adjacent to the vs. under comparison.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich in sweet food be ye, and rich in milch-kine, with fertile pastures, fain to do men service.  
 Both these worlds, Visnu, hast thou stayed asunder, and firmly fixed the earth with pegs around it.
@@ -161,17 +161,17 @@ He holdeth the earth on all sides with pegs.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide sollet darum labungsreich, reich an Kühen und guter Weide aus Gefälligkeit für Manu sein", mit diesen Worten stemmtest du diese beiden Welten auseinander, o Vishnu. Du hast allenthalben die Erde mit Pflöcken gefestigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie beide sind nun labungsreich und milchreich, voll schöner Wiesen zum Genuss den Menschen, Denn sie, die Welten, hast gestützt du, Vischnu, die Erde rings mit Pflöcken du befestigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы двое (всегда) бываете богаты подкреплением, дойными коровами.  
 Тучными пастбищами на благо человеку.  

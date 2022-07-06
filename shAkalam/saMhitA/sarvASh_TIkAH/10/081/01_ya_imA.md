@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इमा꣡ वि꣡श्वा भु꣡वनानि जु꣡ह्वद्  
 ऋ꣡षिर् हो꣡ता नि꣡ अ꣡सीदत् पिता꣡ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रथमछ꣡द् अ꣡वराँ आ꣡ विवेश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । आ॒ऽशिषा॑ । द्रवि॑णम् । इ॒च्छमा॑नः । प्र॒थ॒म॒ऽछत् । अव॑रान् । आ । वि॒वे॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -123,35 +123,35 @@ popular
 अत्र निरुक्तं - ‘ विश्वकर्मा सर्वमेधे सर्वाणि भूतानि जुहवांचकार स आत्मानमप्यन्ततो जुहवांचकार । तदभिवादिन्येषर्ग्भवति य इमा विश्वा भुवनानि जुह्वदिति ' (निरु. १०.२६) इति । **यः** विश्वकर्मैतन्नामकः **ऋषिः** भुवनपुत्रः **होता** होमनिष्पादकः सन् **विश्वा** सर्वाणि **भुवनानि** **जुह्वत्** होमं कुर्वन् । प्रथमं सर्वं जगद्धुत्वेत्यर्थः । पश्चादग्नौ **न्यसीदत्** **पिता** जनकः । आत्मकृतेन कर्मणा देहोत्पत्तेः । न चैकस्य जन्यजनकभावो विरुध्यते तपोबलेन शरीरद्वयस्वीकारात् । स एकधा भवति' (छा. उ. ७. २६. २) इत्यादिश्रुतेः । **सः** ऋषिः **आशिषा** आशीः प्रतिपादकेन सूक्तवाकादिना **द्रविणं** धनं स्वर्गाख्यम् **इच्छमानः** कामयमानः **प्रथमच्छत्** प्रथममग्नेर्भुवनैराच्छादयिता **अवरान्** विप्रकृष्टान् भूतान् स्वात्मनाहुतान् **आ** **विवेश** आविष्टवानग्निमित्युक्तार्थं एव पुनर्विशेषेणोक्तः । एवमुत्तरत्राधियज्ञपरतया योज्यम् । अथाध्यात्मप्रसिद्ध्योच्यते । यो विश्वकर्मा परमेश्वर इमा विश्वा भुवनानि जुह्वत् प्रलयकाले पृथिव्यादीनिमान् सप्त लोकान् स्वात्मन्याहुतिप्रक्षेपवत्संहरन्नृषिरतीन्द्रियद्रष्टा सर्वज्ञो होता संहाररूपस्य होमस्य कर्ता  नोऽस्माकं पिता जनको निषसाद स्वयं स्थितवान् । अयमर्थः । प्रलयकाले प्राप्ते सति सर्वाँल्लोकान् संहृत्यास्माकमपि संहर्ता पुनः स्रष्टा च सन् सर्वज्ञो यः परमेश्वरः स्वयमेक एवासीत् । तथा हि श्रुतयः-- आत्मा वा इदमेक एवाग्र आसीत् ' (ऐ. आ. २. ४. १ ) • सदेव सोम्येदमग्र आसीत् ' ( छा. उ. ६. २. १) इत्यादिकाः। स तादृशः परमेश्वर आशिषा ' बहुः स्यां प्रजायेय' इत्येवंरूपया पुनः पुनः सिसृक्षया द्रविणमिच्छमानः धनोपलक्षितं जगद्भोगमाकाङ्क्षमाणः प्रथमच्छत् प्रथम मुख्यं निष्प्रपञ्चं पारमार्थिकं रूपमावृण्वन्नवरान स्वसृष्टान् प्राणिहृदयप्रदेशाना विवेश आविष्टवान् जीवरूपेण । तथा च श्रूयते -- ‘ सोऽकामयत बहुः स्यां प्रजायेयेति स तपोऽतप्यत स तपस्तप्त्वेदं सर्वमसृजत यदिदं किंच तत्सृष्ट्वा तदेवानुप्राविशत् ' ( तै. आ. ८. ६) इति । एवमन्या अप्युपनिषद उदाहार्याः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seer who took his place as Hotar, pouring all these living beings in  oblation—our father,  
 seeking wealth with hope, entered the later (generations while)  
 concealing the first ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE who sate down as Hotar-priest, the Rsi, our Father, offering up all things existing,-  
      He, seeking through his wish a great possession, came among men on earth as archetypal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rishi, der als Hotri seinen Platz einnahm, all diese Welten zum Opfer bringend, unser Vater, er ist, mit seiner Bitte Reichtum wünschend, in die späteren Geschöpfe eingegangen, während er die ersten verhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Priester, der in alle Wesen sich niederliess als unser Vater opfernd, Ging ein zuerst in diese untern Räume, nach Schätzen strebend durch Gebet der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) риши, отец наш, что уселся как хотар,  
 Принося в жертву все эти миры,  

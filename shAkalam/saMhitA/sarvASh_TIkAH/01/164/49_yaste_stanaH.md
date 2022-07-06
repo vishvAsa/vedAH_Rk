@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते स्त꣡नः शशयो꣡ यो꣡ मयोभू꣡र्  
 ये꣡न वि꣡श्वा पु꣡ष्यसि वा꣡रियाणि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वति त꣡म् इह꣡ धा꣡तवे कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यः । र॒त्न॒ऽधाः । व॒सु॒ऽवित् । यः । सु॒ऽदत्रः॑ । सर॑स्वति । तम् । इ॒ह । धात॑वे । क॒रिति॑ कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -151,36 +151,36 @@ popular
 हे **सरस्वति** **ते** तव संबन्धी **यः** **स्तनः** स्तनवच्छिशुस्थानीयानां प्राणिनामाप्यायनकारी लौकिकवैदिकसुशब्दरूपः स्तनः **शशयः** शयान्ः तव देहे वर्तमानः । **यः** च स्तनः **मयोभू:** रसास्वादिनां सुखस्य भावयिता । **येन** स्तनेन **विश्वा** सर्वाणि **वार्याणि** वरणीयान्यभिमतरूपाणि धनानि **पुष्यसि** भोक्तृभ्यः । **यः** च स्तनः **रत्नधाः** बहुविधरमणीयरसानां धारयिता **वसुवित्** वसूनां वासयितॄणां धनानां वेत्ता लब्धा वेदयिता वा । किंच **यः** स्तनः **सुदत्रः**। शोभनदानः । ‘सुदत्रः कल्याणदानः ' ( निरु. ६. १४ ) इति निरुक्तम् । अत्र असकृत् यच्छब्दश्रवणं स्तनस्य अतिप्रशस्तत्वज्ञापनार्थम् । हे देवि **तं** तादृशं सर्वप्राण्युपकारकं सूक्तमयं स्तनम् **इह** अस्मिन्कर्मणि इदानीं वा **धातवे** अस्माभिर्धातुं पातुं पानाय **कः** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Sarasvatī**, that retiring breast, which is the source of delight, with which you bestow all good things, which is the container of wealth, the distributor of riches, the giver of good (fortune); that (bodom) do you lay open at this season for our nourishment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your breast, which is ever full, which is joy itself, by which you make all  desirable things prosper,  
 which confers treasure and finds wealth, which brings good gifts—o  Sarasvatī, you prepare that to suckle us here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That breast of thine exhaustless, spring of pleasure, wherewith thou feedest all things that are choicest,  
      Wealth-giver, treasure. finder, free bestower,--bring that, Sarasvati, that we may drain it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine ausgiebige Brust, die erquickende, mit der du alles Köstliche in Fülle gibst, die Kleinode bringende, Güter findende, gabenschöne, an dieser laß uns hier trinken, Sarasvati!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welche unversiegliche Mutterbrust du hast, o Sarasvati, welche erquickend ist, durch welche du alles Schöne zur Blüte bringst, welche Schätze gibt, Güter verschafft, welche reich an Gaben ist, die schaffe her, dass wir sie saugen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та грудь твоя, неисчерпаемая, подкрепляющая,  
 Чем ты даешь в изобилии все лучшие блага,  

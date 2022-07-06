@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सविता꣡ यन्त्रइः꣡ पृथिवी꣡म् अरम्णाद्  
 अस्कम्भने꣡ सविता꣡ द्या꣡म् अदृंहत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अतू꣡र्ते बद्धं꣡ सविता꣡ समुद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अश्व॑म्ऽइव । अ॒धु॒क्ष॒त् । धुनि॑म् । अ॒न्तरि॑क्षम् । अ॒तूर्ते॑ । ब॒द्धम् । स॒वि॒ता । स॒मु॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ popular
 **सविता** सर्वस्व प्रसविता प्रेरको मध्यमस्थानो देवः सोऽयं ”यन्त्रैः यमनसाधनैर्वृष्टिप्रदानादिभिरुपायैर्वायवीयैः पाशैर्वा ”पृथिवीं प्रथितां भूमिम् ”अरम्णात् अरमयत् । सुखेनावस्थापयति । तथा स एव ”सविता **अस्कम्भने** । पतनप्रतिबन्धकमालम्बनं स्कम्भनम् । तद्रहिते स्थले **द्यां** द्युलोकमपि **अदृंहत्** दृढीकृतवान् । यथाधो न पतति तथात्मीयैरेवोपायैरवस्थापितवानित्यर्थः । ”अश्वमिव **धुनिं** कम्पयितव्यं कम्पयितारं वा ”अन्तरिक्षम् अन्तरा क्षान्तं मध्यमस्थानगतम् ”अतूर्ते केनाप्यहिंसितेऽत्वरमाणे वा नभसि वायवीयैः पाशैः **बद्धं** ”समुद्रं मेघमयमेव **सविता** **अधुक्षत्** उदकानि दोग्धि । यद्वा । अन्तरिक्षमिति सप्तम्यर्थे प्रथमा । अतूर्तेऽन्तरिक्षे बद्धं समुदितारं धुनिं कम्पनीयं मेघमश्वमिवाधुक्षत् । सविता क्लेशयति ।  ‘ धुक्ष धिक्ष संदीपनक्लेशनजीवनेषु । यथा शिक्षकः सादी अश्वं क्लेशयत्येवं वर्षणाय मेघं क्लेशयतीत्यर्थः। अत्र निरुक्तं --- सविता यन्त्रैः पृथिवीमरमयदनारम्भणेऽन्तरिक्षे सविता द्यामदृंहदश्वमिवाधुक्षद्धुनिमन्तरिक्षे मेघं बद्धमतूर्ते बद्धमतूर्णं इति वात्वरमाण इति वा सविता समुदितारम् ' ( निरु. १०. ३२ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ popular
 Savitā yantraiḥ pṛthivīm aramayadanārambhaṇentarikṣe savitā dyāmandṛhadaśvamivādhuddhunimantarikṣe megham baddhamatūrṇa iti va- tvaramāṇa iti vā savitā samuditāram:**Nirukta** 10.33
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Savitar brought the earth to rest with his fastening straps; in the place  with no prop Savitar made heaven fast.  
 Savitar has milked the boisterous midspace like a stallion, (has milked  out) the sea bound within the unfathomable (realm).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SAVITAR fixed the earth with bands to bind it, and made heaven stedfast where no prop supported.  
      Savitar milked, as 'twere a restless courser, air, sea bound fast to what no foot had trodden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Savitri hat mit Klammern die Erde zur Ruhe gebracht; Savitri hat den Himmel in dem stützenlosen Raum befestigt. Den Luftraum, der wie ein Roß brauste, hat Savitri gemolken, das im unermeßlichen Raume festgebundene Meer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest hielt mit Bändern Savitar die Erde, den Himmel fest im balkenlosen Raume, Er molk die Luft wie einen wilden Renner und Savitar das Meer, das festgebannte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Савитар зажимами остановил землю,  
 В (пространстве) без опоры Савитар укрепил небо.  

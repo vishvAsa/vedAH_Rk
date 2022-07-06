@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡ने꣡न्द्रेण व꣡रुणेन वि꣡ष्णुना  
 आदित्यइ꣡ रुद्रइ꣡र् व꣡सुभिः सचाभु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 सो꣡मम् पिबतम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । सोम॑म् । पि॒ब॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agninendreṇa* ← *agninā* ← *agni*
 - \[noun\], instrumental, singular, masculine
@@ -106,36 +106,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अश्विना** अश्विनौ **अग्निनेन्द्रेण** **वरुणेन** **विष्णुनादित्यैः** **रुद्रैः** **वसुभिः** च **सचाभुवा** सहभूतौ **उषसा** **सूर्येण** च **सजोषसा** संगतौ युवां सोमं पिबतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associated with **Agni**, with **Indra**, with **Varuṇa**, with **Viṣṇu**, with the **Ādityas**, the **Rudras**, and theVasus, and united with the dawn and with **Sūrya**, drink, **Aśvins**, the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With Agni, Indra, Varuṇa, and Viṣṇu, with the Ādityas, the Rudras, and  the Vasus,  
 in concert with Dawn and the Sun, drink the soma, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH Agni and with Indra, Visnu. Varuna, with the Adityas, Rudras, Vasus, closely leagued;  
      Accordant, of one mind with Surya and with Dawn, O Asvins, drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Agni, Indra, Varuna, Vishnu, mit den Aditya´s, Rudra´s, Vasu´s vereint, einträchtig mit Usas und Surya trinket beide den Soma, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Agni, Indra, Vischnu und mit Varuna, mit den Aditja's, Rudra's, Vasu's im Verein, Mit Morgenroth und Sonne in Gemeinschaft trinkt, o Ritter ihr, den Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С Агни, Индрой, Варуной, Вишну,  
 С Адитьями, Рудрами, с Васу объединенные,  

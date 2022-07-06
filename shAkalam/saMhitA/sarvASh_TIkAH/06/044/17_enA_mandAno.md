@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एना꣡ मन्दानो꣡ जहि꣡ शूर श꣡त्रूञ्  
 जामि꣡म् अ꣡जामिम् मघवन्न् अमि꣡त्रान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡राच इन्द्र प्र꣡ मृणा जही꣡ च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽसे॒नान् । अ॒भि । आ॒ऽदेदि॑शानान् । परा॑चः । इ॒न्द्र॒ । प्र । मृ॒ण॒ । ज॒हि । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *enā* ← *idam*
 - \[noun\], instrumental, singular, masculine
@@ -119,20 +119,20 @@ genre M
 हे मघवन् धनवन् **शूर** शौर्यवन्निन्द्र **एना** एनेन प्रकृतेनानेन सोमेन **मन्दानः** मन्दमानो माद्यन् **जामिं** ज्ञातिम् **अजामिं** तद्विलक्षणमेवमुभयविधान् **अमित्रान्** अस्मत्प्रतिकूलाचरणपरान् **शत्रून्** **जहि** हिंसितान् कुरु । किंच **अभिषेणान्** अस्मान्प्रत्यभिगताः सेना येषां तादृशानस्मदभिमुखम् **आदेदिशानान्** आयुधानि पुनःपुनरादिशतो विसृजतः शत्रूंश्च हे **इन्द्र** **पराचः** **प्र** **मृण** । ते यथा पराङ्मुखा भवन्ति तथा बाधस्व । तदनन्तरं तान् **जहि** **च** ॥॥१५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exhilarated by it, valiant **Maghavan**, slay our unfriendly adversaries, whether kinsman or unrelated (to us); put to flight, **Indra**, hostile armies menacing us (with their weapons), and slay them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming exhilarated by it, o champion, smash your rivals and your  foes, both kin and non-kin, o bounteous one.  
 Those with weapons aimed at us, setting their sights on us—pulverize  and smash them, Indra, (for them to become) far away.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The object phrase in the 1st hemistich provides an ex. of number disharmony (of a different type from that in vs. 13). The main objects of Indra’s smiting are “rivals (and) foes,” the pl. phrase śátrūn … amítrān, but they are further specified as “kin and non-kin,” jāmím ájāmim, in the singular. The same disharmony is found in IV.4.5 jāmím ájāmim … śátrūn, where the śátrūn that closes our pāda a substitutes for amítrān.
 
@@ -156,23 +156,23 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therewith enraptured, Hero, slay our foemen, the unfriendly, Maghavan be they kin or strangers,  
      Those who still aim their hostile darts to smite us, turn them to flight, O Indra, crush and kill them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch ihn berauscht erschlage, o Held, die Feinde, die Gegner, bekannte und fremde, du Gabenreicher! Die mit Heeresmacht angreifen, die Drohenden spreng in die Flucht, Indra, und erschlage sie!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch ihn erquickt, erschlag, o Held, die Hasser, verwandten Feind und unverwandten, mächt'ger; Die wider uns Geschosse richtend zielen, die treibe weg, o Indra, und erschlag sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяненный им убивай, о герой, врагов,  
 Родного (и) неродного, о щедрый, (всех) недругов!  

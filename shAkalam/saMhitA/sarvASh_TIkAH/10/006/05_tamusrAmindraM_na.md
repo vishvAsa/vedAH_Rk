@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उस्रा꣡म् इ꣡न्द्रं न꣡ रे꣡जमानम्  
 अग्निं꣡ गीर्भि꣡र् न꣡मोभिर् आ꣡ कृणुध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जात꣡वेदसं जुहु꣡वं सहा꣡नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । यम् । विप्रा॑सः । म॒तिऽभिः॑ । गृ॒णन्ति॑ । जा॒तऽवे॑दसम् । जु॒ह्व॑म् । स॒हाना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -127,7 +127,7 @@ genre M
 हे ऋत्विजो यूयम् **उस्रां** भोगानामुत्स्राविणं दातारं **रेजमानं** ज्वालात्मना कम्पमानं **तम्** **अग्निम्** **इन्द्रं** **न** इन्द्रमिव **गीर्भिः** स्तुतिभिः **नमोभिः** हविर्भिश्च **आ** **कृणुध्वम्** । अस्मदभिमुखं कुरुतः। **विप्रासः** मेधाविनः स्तोतारः **सहानां** शत्रुबलाद्यभिभवितॄणां देवानां जुह्वम् आह्वातारं **जातवेदसं** जातधनं जातप्रज्ञं वा **यम्** अग्निम् **आ** **गृणन्ति** आदरेण स्तुवन्ति । तमा कृणुध्वमिति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,7 +140,7 @@ Bestower of enjoyments: usrām = bhogānām utsrāviṇam;
 Usri = dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With hymns and reverent gestures attract him here at dawn like  
 Indra—quivering Agni,  
@@ -148,23 +148,23 @@ whom the inspired poets hymn with their thoughts—Jātavedas, the
 tongue of the overpowering (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With songs and adorations bring ye hither Agni who stirs himself at dawn like Indra,  
      Whom sages laud with hymns as Jatavedas of those who wield the sacrificial ladle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den flackernden Agni bringet am Morgen wie den Indra mit Lobreden und Verbeugungen zur Stelle, den die Redekundigen mit Gedichten beloben. Den Jatavedas, die Zunge der gewaltigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der wie Indra sich am Morgen reget, den Agni schafft mit Lied euch und Gebet her, Ihn, den die Dichter mit Gesängen preisen, den Wesenkenner, und der Götter Zunge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рано утром приведите этого трепещущего Агни,  
 Как Индру, с помощью хвалебных песен (и) поклонений,  

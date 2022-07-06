@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वम् इ꣡द् गां꣡ रथप्रां᳐꣡  
 त्वेष꣡म् इ꣡न्द्रं न꣡ स꣡त्पतिम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡न्यम्-पन्यं च कृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । श्रवां॑सि । तूर्व॑थ । पन्य॑म्ऽपन्यम् । च॒ । कृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 **गां** गन्तारम् **अश्वमित्** । इच्छब्द इवार्थे। अश्वमिव । तं यथा स्तुवते तथेत्यर्थः। **रथप्रां** रथानामस्मदीयानां पूरयितारं धनैः तथा **त्वेषं** दीप्तमग्निं **सत्पतिं** सतां पालकम् **इन्द्रं** **न** इन्द्रमिवेमं **कृष्टयः** मनुष्याः परिचरतेति शेषः । **यस्य** अग्नेर्बलेन **श्रवांसि** अन्नानि शत्रुसंबन्धीनि **तूर्वथ** तथा **पन्यंपन्यं** **च** यद्यत् स्तुत्यं धनमस्ति तदपि तूर्वथ हिंस्थ ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ Who goes like a horse: gām = gantāram; cf. RV 1.121.9; 4.22.8;
 Wonderful: worthy to be praised,paṇyam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Him,) bestowing the chariot, the horse, and the cow, vibrant, a lord of  settlements like Indra,  
 whose claims to fame you [=priests] bring to triumph, and the one ever  to be admired (whom) the separate peoples (hymn).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is structured as an acc. phrase referring to Agni, with no governing verb. It is probably best to take it as loosely anticipating the rel. clauses beginning with yám in the other two verses of the tṛca (yáṃ tvā 11a, 12a). That the accusatives in ab, d belong in a virtual rel. clause is signalled by pāda c with a rel.
 
@@ -140,23 +140,23 @@ My interpr. of pāda a differs from the standard, which takes -prā́- as ‘fil
 The u-present tū́rvatha here is enclosed by two occurrences of related (vṛtra- )tū́rya- (9c, 12c) ‘overcoming of obstacles’, but though tū́rva- does on occasion take an acc. of what is overcome (cf. the same VP in VIII.99.6 vṛtrám … tū́rvasi), here “overcome (Agni’s) claims to fame” is excluded by sense, since the poets shouldn’t seek to outdo Agni, and it must mean something like “help to triumph.” In pāda d I supply *gṛṇánti as the verb with nom. kṛṣtáyaḥ on the basis of the next hymn VIII.75.10 grṇ̥ ánti deva kr̥ṣṭáyaḥ (see also girā́in the next vs. of this hymn, 11a). It is possible that this subj./verb complex governs the whole verse, save for pāda c with its 2nd pl. verb and gen. rel. cl. -- thus, “(whom) the separate peoples (hymn) as the one bestowing the chariot …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steed, cow, a lord of heroes, bright like Indra, who shall fill the car.  
      Whose high renown ye celebrate, and people praise each glorious deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der wie ein Roß und Rind den Wagen füllt, den Funkelnden, der wie Indra der rechtmäßige Herr ist, dessen Ruhm ihr erhöhet, und alle Völker rühmen den stets Preiswürdigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib Ross und Rind, das Wagen zieht, und starken, indragleichen Herrn, Dess Ruhmesthaten ihr erhebt ihr Völker, und was preisenswerth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ जयेम तुव꣡या युजा꣡ वृ꣡तम्  
 अस्मा꣡कम् अं꣡शम् उ꣡द् अवा भ꣡रे-भरे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ श꣡त्रूणाम् मघवन् वृ꣡ष्णिया रुज
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । इ॒न्द्र॒ । वरि॑वः । सु॒ऽगम् । कृ॒धि॒ । प्र । शत्रू॑णाम् । म॒घ॒ऽव॒न् । वृष्ण्या॑ । रु॒ज॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -140,7 +140,7 @@ genre M
 हे इन्द्र **युजा** अस्माभिर्युक्तेन सहायभूतेन **त्वया** **वृतं** आवृण्वन्तं शत्रुं **वयं** स्तोतारः **जयेम** अभिभवेम । अपि च **भरेभरे** संग्रामेसंग्रामे **अस्माकम्** **अंशम्** अस्मदीयं भागम् **उदव** शत्रुकृतपीडापरिहारेणोत्कृष्टं रक्ष । तथा हे **इन्द्र** **वरिवः** धनम् **अस्मभ्यं** **सुगं** सुगमं सुप्रापं **कृधि** कुरु । तथा हे **मघवन्** **शत्रूणाम्** अस्मदुपद्रवकारिणां **वृष्ण्या** वृष्ण्यानि वीर्याणि **प्र** **रुज** प्रभङ्न्धि बाधस्वेत्यर्थः ॥ वृतम् ।' वृञ् वरणे'।' क्विप् च ' इति क्विप् । तुगागमः । सुगम् । सुदुरोरधिकरणे ' इति गमेः डप्रत्ययः । कृधि । ' श्रुशृणुपॄकृवृभ्यः' इति हेर्धिः । रुज । ' रुजो भङ्गे' । तौदादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,30 +151,30 @@ genre M
 **Nāma** bibhrat: nāma, strength, that which is the bender or prostrator of foes; from nam, to bwo down; or, processing a name; manuṣema yugāni = these mortal **yugas**, **kṛta**, **treta** etc., which **Indra** successively evolves, in the character of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we conquer their defense with you as yokemate. For us uphold our  stake in every raid;  
 for us, Indra, create wide space and easy passage. Break the bullish  
 powers of our rivals, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Encourage thou our side in every fight: may we, with thee for our ally, conquer the foeman's host.  
      Indra, bestow on us joy and felicity break down, O Maghavan, the vigour of our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten mit dir im Bunde das feindliche Heer besiegen. Laß unseren Einsatz in jedem Kampf gewinne! Mach uns, Indra, frei Bahn, gute Fahrt! Zerbrich der Feinde Kräfte, du Gabenreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dir im Bunde lass besiegen uns den Feind, in jedem Kampfe unterstütze unsern Stamm, Verschaffe uns, o Indra, freie, weite Bahn, zerbrich der Feinde Heldenkraft, o mächtiger!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотели б победить (вражеское) войско с тобою как с союзником!  
 Помоги нам захватить нашу долю в каждой битве!  

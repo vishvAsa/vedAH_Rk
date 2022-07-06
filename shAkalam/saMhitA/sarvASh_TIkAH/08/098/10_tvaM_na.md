@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ न इन्द्र आ꣡ भरँ  
 ओ꣡जो नृम्णं꣡ शतक्रतो विचर्षणे  
 आ꣡ वीर꣡म् पृतनाष꣡हम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ । वी॒रम् । पृ॒त॒ना॒ऽसह॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -87,7 +87,7 @@ genre M
 हे **शतक्रतो** बहुकर्मन् **विचर्षणे** विद्रष्टः **इन्द्र** **त्वं** **नः** अस्मभ्यम् **ओजः** बलं **नृम्णं** धनम् । ‘गयो नृम्णम्' इति धननामसु पाठात् । **आ** **भर** आहर । **वीरं** वीर्योपितं **पृतनाषहं** सेनासहं सेनामभिभवितारं त्वाम् **आ** याचामह इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ genre M
 Champion: tvām āyācāmahe; bring us a host-overpowering champion, i.e., a son
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, bring here to us strength and manly power, you unbounded one  of a hundred resolves,  
 bring here a hero victorious in battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, bring great strength to us, bring valour, Satakratu, thou most active, bring  
      A hero conquering in war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du uns Kraft, Indra, Mannesmut, Ratreicher, Ausgezeichneter; bring uns einen Helden, der die Kämpfe besteht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, bringe du herbei uns Kraft und Mannheit, thatenreicher, rüstiger, Dem Helden, der in Schlachten siegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси ты нам силу,  
 О Индра, мужество, о стоумный, очень подвижный,  

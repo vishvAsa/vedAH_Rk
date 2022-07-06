@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अ꣡श्वस्य क्रवि꣡षो म꣡क्षिका꣡श  
 य꣡द् वा स्व꣡रौ स्व꣡धितौ रिप्त꣡म् अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡र्वा ता꣡ ते अ꣡पि देवे꣡षु अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यत् । हस्त॑योः । श॒मि॒तुः । यत् । न॒खेषु॑ । सर्वा॑ । ता । ते॒ । अपि॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -136,7 +136,7 @@ popular;; repeated line
 **अश्वस्य** तदवयवभूतस्य **क्रविषः** आममांसस्य **यत्** यदङ्गं **मक्षिका** **आश** अभक्षयत् ॥ ‘अश भोजने '। यद्वा । कर्मणि षष्ठी ॥ अश्वस्य यन्मांसं भक्षयति। **वा** अथवा **स्वरौ** पश्वञ्जनकाले **यत्** **रिप्तं** लिप्तम् **अस्ति** ।' स्वरुणा पशुमनक्ति' इति श्रुतेः । अथवा **स्वधितौ** छेदनकाले व अवदानकाले यत् रिप्तमस्ति **शमितुः** **हस्तयोः** लिप्तमस्ति । विशसनकाले **यत्** च **नखेषु** लिप्तम् **ता** **सर्वा** तानि सर्वाणि हे अश्व **ते** तव संबन्धीनि **देवेष्वस्तु** देवेषु संतोषार्थाय भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -153,29 +153,29 @@ Svaru = implement used used in anointing; svaruṇā paśum anakti = grease of f
 **Makṣikā** = pyrites ores
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What of the horse’s flesh a fly has eaten, or what is smeared on the  sacrificial post or on the axe,  
 what is on the hands of the Queller-priest and what on his nails—let all  this of yours be also among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What part of the Steed's flesh the fly hath eaten, or is left sticking to the post or hatchet,  
      Or to the slayer's hands and nails adhereth,--among the Gods, too, may all this be with thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was die Fliege von dem Fleisch des Rosses gefressen hat, oder was am Pfosten und am Beil kleben bleibt, was an den Händen des Zurichters, was an seinen Nägeln, all das von dir soll bei den Göttern sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was von dem Fleische des Perdes des Fliege frass, oder was an dem Opferpfosten oder am Beile hängen geblieben ist, was an den Händen, was an den Nägeln des Schlächters, alles das sei dein eigen bei den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что съела муха из мяса коня,  
 Или что прилипло к жертвенному столбу (и) топору,  

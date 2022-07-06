@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवो अप꣡ इता समुद्र꣡म्  
 अपां꣡ न꣡पातं हवि꣡षा यजध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मै सो꣡मम् म꣡धुमन्तं सुनोत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । वः॒ । द॒द॒त् । ऊ॒र्मिम् । अ॒द्य । सुऽपू॑तम् । तस्मै॑ । सोम॑म् । मधु॑ऽमन्तम् । सु॒नो॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -124,7 +124,7 @@ genre M
 हे **अध्वर्यवः** यूयम् **अपः** एकधनालक्षणान्युदकानि । आहर्तुमिति शेषः । **समुद्रम्** उदधिस्थानीयं जलाशयम् **इत** गच्छत । इदानीमुत्तरोऽर्धर्चो व्याख्यायते पश्चात् द्वितीयः पादः । आर्थिकोऽयं क्रमः। अद्य इदानीं **सः** अपां नपात् **वः** जलाशयं प्रतिगतेभ्यो युष्मभ्यं **सुपूतं** सुशुद्धम् **ऊर्मिं** जलसमूहं **ददत्** ददातु । यूयमपि तेन समूहेन **तस्मै** अपां नपाते **मधुमन्तं** मधुरस्वादूपेतं **सोम** **सुनोत** अभिषुणुत । अभिषुतेन सोमाख्येन **हविषा** **अपां** **नपातं** वृष्टिकर्मण्यधिकृतं देवं **यजध्वम्**॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M
 The grandson ofthe waters: apām napātam = deity appointed to produce the rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Adhvaryus, go to the waters, to the sea. Sacrifice with your oblation to  the Child of the Waters.  
 He will give you the well-purified wave today. For him press the  
 honeyed soma,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go to the reservoir, O ye Adhvaryus worship the Waters' Child with your oblations.  
      A consecrated wave he now will give you, so press for him the Soma rich in sweetness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Geht zum Wasser, zum See; verehret den Apam Napat mit Opfer! Er gebe euch heute die geläuterte Welle; für ihn presset den süßen Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Priester gehet hin zur Flut des Wassers, mit Opfertränken ehrt den Sohn der Wasser; Er geb' euch heut die schöngeklärte Welle; ihm presset nun den honigsüssen Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О адхварью, идите к водам, к морю!  
 Почтите возлиянием Апам Напата!  

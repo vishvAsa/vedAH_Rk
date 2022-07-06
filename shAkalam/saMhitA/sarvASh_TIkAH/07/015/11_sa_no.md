@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो रा꣡धांसि आ꣡ भर  
 ई꣡शानः सहसो यहो  
 भ꣡गश् च दातु वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 भगः॑ । च॒ । दा॒तु॒ । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -94,36 +94,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सहसो** **यहो** बलस्य पुत्राग्ने **सः** प्रसिद्धस्त्वम् **ईशानः** सर्वस्य जगतः। ईश्वरः सन् **नः** अस्मभ्यं **राधांसि** धनानि । ‘रायो राधः' इति धननामसु पाठात् । **आ** **भर** आहर । **भगश्च** भगो देवोऽपि **वार्यं** धनं **दातु** अस्मभ्यं ददातु । अभ्यासलोपश्छान्दसः। भगोऽत्र सूक्ते निपातभागिनी देवता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, who are the lord (of all), bestow riches upon us; and may **Bhaga** give us wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring us gifts, being their master, o young (son) of strength,  
 and let Bhaga give us a desirable reward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, bring us abundant wealth, young Child of Strength, for this thou canst  
      May Bhaga give us what is choice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du uns Ehrengaben, der du es vermagst, jüngster Sohn der Kraft! Auch Bhaga soll uns die erwünschte Gabe geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bring Geschenke uns herbei, der du's vermagst, o Sohn der Kraft, Und Bhaga geb' uns schönes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам почетные дары,  
 (Ты,) способный (на это), о юный (сын) силы!  

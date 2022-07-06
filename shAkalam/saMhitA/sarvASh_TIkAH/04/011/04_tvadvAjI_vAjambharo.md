@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡द् वाजी꣡ वाजम्भरो꣡ वि꣡हाया  
 अभिष्टिकृ꣡ज् जायते सत्य꣡शुष्मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुव꣡द् आशु꣡र् जूजुवाँ꣡ अग्ने अ꣡र्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वत् । र॒यिः । दे॒वऽजू॑तः । म॒यः॒ऽभुः । त्वत् । आ॒शुः । जू॒जु॒ऽवान् । अ॒ग्ने॒ । अर्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
@@ -122,42 +122,42 @@ genre M
 हे **अग्ने** **वाजी** बलवान् **वाजंभरः** हविर्लक्षणान्नस्य वाहकः । अग्नेर्वाजंभर इत्येषा वैदिकी संज्ञा ॥  ‘ संज्ञायां भृतॄवृजि ' इति वाजशब्दे कर्मण्युपपदे खच्प्रत्ययः ।  ‘ अरुर्विस षदजन्तस्य ' इति मुमागमः ।  ‘ चितः' इत्यन्तोदात्तत्वम् ॥ **विहायाः** महान् **अभिष्टिकृत्** यज्ञकृत् अभ्येषणकृत् वा । **सत्यशुष्मः** सत्यबलः पुत्रः **त्वत्** त्वत्तः **जायते** उत्पद्यते । **देवजूतः** देवैः प्रेरितः **मयोभुः** सुखप्रदः । मय इति सुखनामैतत् । **रयिः** धनं **त्वत्** जायते । **आशुः** शीघ्रगामी । अप्रतिहतगमन इत्यर्थः । 'जूजुवान् वेगेन गच्छन् **अर्वा** अश्वः **त्वत्** भवतो जायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From you, who are vigorous, to conveyer of oblations, the vast, the granter of what is desired, is born (a son) of real strength; from you comes wealth approved of by the gods, the source of happiness; from you, **Agni**, (is obtained) a swift unarrested horse.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From you is born the prizewinning, prize-bringing (horse), of extensive  power, creating his own superiority, whose snorting is real,  
 from you god-sped wealth, joy itself, from you the swift, speeding  
 courser, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From thee the hero springs who wins the booty, bringer of help, mighty, of real courage.  
      From thee comes wealth, sent by the Gods, bliss-giving; Agni, from thee the fleet impetuous charger.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, the pious mortals seek to win by their prayers as the first, thee the god with agreeable speech, O immortal, who drivest away malice, the household god, the lord of the house, the wise one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dir kommt das Kampfroß von besonderer Kraft, das den Preis davonträgt, den Vorrang schafft und echten Mut besitzt; von dir der gottgeschickte Schatz, der zur Freude gereicht, von dir der rasche, eilende Renner, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir entstammt der wahrhaft starke Renner, der Hülfe schafft und gross ist, Preis davon trägt, Von dir das gottgeschenkte Gut, das Lust schafft, von dir das Ross, das schnell dahineilt, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От тебя рождается конь, приносящий награду,  
 Огромный, создающий превосходство, с истинным пылом;  

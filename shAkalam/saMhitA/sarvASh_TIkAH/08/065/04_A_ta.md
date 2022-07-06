@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त इन्द्र महिमा꣡नं  
 ह꣡रयो देव ते म꣡हः  
 र꣡थे वहन्तु बि꣡भ्रतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रथे॑ । व॒ह॒न्तु॒ । बिभ्र॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,19 +88,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **ते** तव **महिमानं** माहात्म्यं **रथे** **बिभ्रतः** धारयन्तः **हरयः** अश्वाः **आ** **वहन्तु** । तथा हे **देव** **ते** **महः** तेजः रथे बिभ्रतोऽश्वा आ वहन्तु। अत्र महिम्नो महसश्च पृथगावहनासंभवात्ताभ्यां विशिष्टं वहन्त्वित्यर्थः । अथवा महिमानं बिभ्रतस्ते त्वां रथे वहन्तु महो बिभ्रतश्च त्वां वहन्विति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your steeds, **Indra**, bearing you in your chariot, bring hither yourmight, (may they bring here) yoursplendour, O divine one.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your greatness, Indra, your grandeur, god—let your fallow bays, bearing it, carry it here on your chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since váśat is a subjunctive, strictly speaking it should be tr. “as he will wish.”
 
@@ -114,23 +114,23 @@ Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharā
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Indra, let thy Bays bear up and, bring upon thy car  
      Thy glory, God! and majesty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Hoheit, deine Herrlichkeit, Gott Indra, sollen die Falben zu Wagen bringend heranfahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Füchse mögen, Indra, Gott, herfahren deine Gröss' und Macht, In deinem Wagen ziehend dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Неся с собой на колеснице твое, о Индра, величие,  
 Твое, о бог, могущество,  

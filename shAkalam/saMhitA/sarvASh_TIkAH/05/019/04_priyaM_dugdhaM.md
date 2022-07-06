@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रियं꣡ दुग्धं꣡ न꣡ का꣡मियम्  
 अ꣡जामि जामियोः꣡ स꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡दब्धः श꣡श्वतो द꣡भः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 घ॒र्मः । न । वाज॑ऽजठरः । अद॑ब्धः । शश्व॑तः । दभः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], nominative, singular, neuter
@@ -99,7 +99,7 @@ genre M
 **जाम्योः** द्यावापृथिव्योः **सचा** सहायभूतोऽग्निः **दुग्धं** **न** पय इव **काम्यं** कमनीयम् **अजामि** दोषरहितं **प्रियम्** अस्मदीयं स्तोत्रं शृणोतु । किंविधोऽग्निः । **घर्मो** **न** प्रवर्ग्य इव **वाजजठरः** । वाजोऽन्नं जठरे यस्य सः । घर्मो यथा हव्येनाज्येन पयसासिक्तो वाजजठरस्तद्वत् । हविर्जठर इत्यर्थः । **अदब्धः** शत्रुभिः स्वयमहिंसितः **शश्वतः** शाश्वतो नित्यः **दभः** शत्रूणां हिंसकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,35 +112,35 @@ He who, like the mixed oblations, is filled with food: gharmo na vājajaṭhara�
 Gharma = a vessel, a pitcher
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (His semen) dear like the milk of desire, (his act) unkindred (incest) with  two [=fire-churning sticks] that are kin,  
 like the vessel of hot milk in whose belly is the prize, (he is) the  
 undeceivable deceiver of every one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I bring, as 'twere, the longed-for milk, the dear milk of the Sister-Pair.  
      Like to a caldron filled with food is he, unconquered, conquering all.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Like the dear milk of love 1—(a thing) unrelated with two (things) related 2—like the gharma vessel with booty in its belly—undeceived, the deceiver of all 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lieb wie die Milch ist die brünstige Besamung, die unter Geschwistern unerlaubt ist. Wie der Milchtopf trägt er Stärkung im Leibe, unbeschädigt, der Beschädiger vieler.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie lieber begehrungswerther Safterguss, der sich nicht ziemt unter Geschwistern [vgl, 83G, 9
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни) – словно приятное надоенное (парное молоко),  
 Любовное (объятие), неподобающее для брата и сестры,  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अञ्ज꣡न्ति एनम् म꣡ध्वो र꣡सेन  
 इ꣡न्द्राय वृ꣡ष्ण इ꣡न्दुम् म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अ॒ञ्जन्ति॑ । ए॒न॒म् । मध्वः॑ । रसे॑न । इन्द्रा॑य । वृष्णे॑ । इन्दु॑म् । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *añjanty* ← *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
@@ -76,19 +76,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **वृष्णे** कामानां वर्षित्रे **इन्द्राय** इन्द्रस्य **मदाय** मदार्थं **मध्वः** मधुनः **रसेन** गव्येन **एनम्** **इन्दुं** सोममृत्विजः **अञ्जन्ति** संयोजयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They mix the **Soma** with the liquid of the sweet (milk) for **Indra**, the showerer (of benefits) for his exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the sap of honey they anoint him, the drop for Indra the bull, for  exhilaration.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -98,22 +98,22 @@ No particular signs of cohesion, though assembled from the usual assortment of s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu they balm with pleasant milky juice for Indra, for the Steer, for his delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie salbten ihn mit der Würze der Süßigkeit, den Saft für den Bullen Indra zum Rausche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie salben diesen – mit süssem Safte, dem Stiere Indra – zum Rausch den Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его умащают лучшим (, что есть) в меде,  
 Для Индры-быка, сок сомы – для опьянения.

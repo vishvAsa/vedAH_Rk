@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ पृथिवीं꣡ व्य꣡थमानाम् अ꣡दृंहद्  
 यः꣡ प꣡र्वतान् प्र꣡कुपिताँ अ꣡रम्णात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ द्या꣡म् अ꣡स्तभ्नात् स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । अ॒न्तरि॑क्षम् । वि॒ऽम॒मे । वरी॑यः । यः । द्याम् । अस्त॑भ्नात् । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 हेजनाःयः इन्द्रः व्यथमानाञ्चलन्तीम्पृथिवींअदृहत् शर्करादिभिर्दृढामकरोत् द्रुधदृहिवृद्धौ यश्चप्रकु- पितान् इतस्ततश्चलितान् पक्षयुक्तान् पर्वतान् अरम्णात् नियमितवान् स्वेस्वेस्थानेस्थापितवान् अ- रम्णात् रमुक्रीडायां अन्तर्भावितण्यथेस्यव्यत्यनेनश्नाप्रत्ययः यश्चवरीयउरुतममन्तरिक्षं विममे निर्म- मे विस्तीर्णं चकारेत्यर्थः यश्चद्यान्दिवमस्तभ्रात् तस्तम्भ निरुद्धामकरोत् स्तम्भुरोधनेइतिसौत्रोधातुः सएवेन्द्रोनाहमिति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,33 +130,33 @@ genre M
 Who tranquilized the incensed mountains: yaḥ parvatān prakuptān aramṇāt = he quited the mountains, going hither and thither, as long as they had wings: Indra cut them off
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who made firm the wavering earth, who settled the quaking mountains, who gave the midspace wider measure, who propped up the heaven – he,  o peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who fixed fast and firm the earth that staggered, and set at rest the agitated mountains,  
      Who measured out the air's wide middle region and gave the heaven support, He, men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who made the widespread earth when quaking steadfast, Who set at rest the agitated mountains, Who measured out air's middle space more widely, Who gave the sky support: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die schwankende Erde festigte, der die tobenden Berge zur Ruhe brachte, der das Luftreich weiter ausmaß, der den Himmel stützte - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der festigte die Erde, als sie wankte, und stehen hiess die aufgeregten Berge, Den weiten Raum der Luft ermass, den Himmel zusammenhielt, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто укрепил колеблющуюся землю,  
 Кто успокоил качающиеся горы,  

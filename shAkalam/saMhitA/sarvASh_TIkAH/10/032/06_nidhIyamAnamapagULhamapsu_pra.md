@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निधीय꣡मानम् अ꣡पगूळ्हम् अप्सु꣡  
 प्र꣡ मे देवा꣡नां व्रतपा꣡ उवाच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡नाह꣡म् अग्ने अ꣡नुशिष्ट आ꣡गाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 इन्द्रः॑ । वि॒द्वान् । अनु॑ । हि । त्वा॒ । च॒चक्ष॑ । तेन॑ । अ॒हम् । अ॒ग्ने॒ । अनु॑ऽशिष्टः । आ । अ॒गा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nidhīyamānam* ← *nidhā* ← *√dhā*
 - \[verb noun\], accusative, singular
@@ -133,7 +133,7 @@ popular;; repeated line
 कुरुश्रवणस्य यज्ञे निधीयमानोऽग्निरभिधीयते । **निधीयमानम्** अध्वर्युणाहवनीयेऽग्नौ **अप्सु** मातृभूतासु **अपगूळ्हम्** अन्तर्हिन्तं त्वां **देवानां** **व्रतपाः** कर्मणो रक्षक इन्द्रः **मे** मह्यं **प्र**  **उवाच** । प्रवादीत् । हे **अग्ने** **विद्वान्** जाजानः **इन्द्रः** स्वाधिकारमस्मद्भक्ततां वा **त्वा** त्वाम् **अनु** **हि** **चचक्ष** अनुगतः पश्चाद्ददर्श । **तेन** इन्द्रेण **अनुशिष्टः** **अहम्** अनेन पथा त्वया स्वर्गो गन्तव्य इत्येवमुपदिष्टः सन् **आगाम्** आभिमुख्येन स्वर्गं गच्छेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,30 +144,30 @@ popular;; repeated line
 Deposited in the waters: a plural y on the word nidhīyamānam, being deposited; also, a titleof the fire plural ced on the altar, at the kuruśravaṇa ceremony\]. proceeds (to his destination); such verily is the good of instrumental uction, and (thereby) one finds tehe path of thethings that are to be reached by a straight path. \[One finds the path: i.e., the thirsty man finds the right road tothe waters which have to be reached by a straight path, or taking añjasīnām as an adjective agreeing withstutim, not crooked, a path which may be easily travelled over
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The protector of the commandments of the gods has announced to me  that the one who was hidden in the waters [=Agni] is (now) being  
 installed.  
 Because knowing Indra kept you in his sights, instructed by him have  I come here, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who maintains the Laws of God informed me that thou wast lying hidden in the waters.  
      Indra, who knoweth well, beheld and showed thee. By him instructed am I come, O Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Verborgenen, im Wasser Versteckten hat mir der Gesetzeswächter unter den Göttern verraten, denn der kundige Indra hatte dich entdeckt. Von ihm zurechtgewiesen bin ich gekommen, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass du verborgen in den Wassern ruhest, das that mir kund der Götter Rechtbeschirmer, Der kund'ge Indra, denn dich hat erblickt er, von ihm belehrt, o Agni, kam ich her nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Спрятавшегося, сокрытого в водах  
 Провозгласил мне хранитель завета среди богов,  

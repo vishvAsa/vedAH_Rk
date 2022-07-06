@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वीतारः पुनीत꣡न  
 सो꣡मम् इ꣡न्द्राय पा꣡तवे  
 अ꣡था नो व꣡स्यसस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavītāraḥ* ← *pavītṛ*
 - \[noun\], vocative, plural, masculine
@@ -82,43 +82,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **पवीतारः** सोमाभिषवकर्तारः यूयम् **इन्द्राय** **पातवे** पातुं **सोमं** **पुनीतन** अभिषुणुत । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, press out the **Soma** for **Indra** to drink; (O Soma), make us happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifiers, purify soma for Indra to drink.  
 – Then make us better off.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. stands apart from the rest of the hymn, which is otherwise addressed in the 2nd ps. to Soma. Here we have a ref. to the (human) ritual participants (pávītāraḥ ‘purifiers’), and though soma appears in the vs., it is as the substance not the god, and in the 3rd ps.
 
 On pávītāraḥ see comm. ad IX.83.2. Note in passing that this is a voc. with retracted accent; the form given by Grassmann for this passage, -ā́ras, is incorrect.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye purifiers, purify Soma for Indra, for his drink:  
      Make thou us better than we are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Läuterer, läutert den Soma für Indra zum Trunke, und mach uns besser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, läutert nun ihr Läuterer den Soma zu des Indra Trunk, Er mach' uns reicher nun an Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О очистители, очищайте  
 Сому Индре для питья –  

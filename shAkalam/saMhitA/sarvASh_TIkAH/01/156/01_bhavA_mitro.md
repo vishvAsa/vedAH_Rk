@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡वा मित्रो꣡ न꣡ शे꣡वियो घृता꣡सुतिर्  
 वि꣡भूतद्युम्न एवया꣡ उ सप्र꣡थाः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्तो꣡मो यज्ञ꣡श् च रा꣡धियो हवि꣡ष्मता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । ते॒ । वि॒ष्णो॒ इति॑ । वि॒दुषा॑ । चि॒त् । अर्ध्यः॑ । स्तोमः॑ । य॒ज्ञः । च॒ । राध्यः॑ । ह॒विष्म॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
@@ -135,37 +135,37 @@ genre M
 हे विष्णो **मित्रो** **न** । मितेर्दुःखात् त्राता सखा आदित्यो वा मित्रः। ‘प्रमीतेस्त्रायते' (निरु. १०. २१) इति निरुक्तम् । तद्वत् **शेव्यः** सुखे साधुः सुखकर्ता **घृतासुतिः** । घृतमुदकम् आसूयते येन स तादृशः । यद्वा । घृतमाज्यमाभिमुख्येन नीयते यस्मै स तादृशः । **विभूतद्युम्नः** प्रभूतयशाः प्रभूतान्नो वा **एवयाः** रक्षणस्य मिश्रयिता प्रापयिता । **सप्रथाः** सर्वतः पृथुः । प्रतिविशेषणं नः **भव** इति संबन्धः । द्व्यचोऽतस्तिङः ' इति दीर्घः। **उ** इति पादपूरणः ॥ हे **विष्णो** त्वं यस्मादीदृशो भवसि **अध** अस्मात् **ते** तव **स्तोमः** स्तोत्रविशेषः **विदुषा** त्वन्माहात्म्यवेदित्रा यजमानेन **अर्ध्यः** पुनःपुनः प्रवर्धनार्हः । एकवारकरणे न संपूर्यते इत्यर्थः । तथा ते **यज्ञश्च** **हविष्मता** तेन यजमानेन **राध्यः** समाराधनीयः। यद्वा । विदुषा होत्रा स्तोमो राध्यो हविष्मता यज्ञश्च राध्यः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be (to us), **Viṣṇu**, like a friend, the giver of happiness, the acepter of oblations, abounding with food, the granter of protection, and every way accessible; on which account your praise is to be repeatedly recited by the wise, and your worship to be celebrated by the offerer of oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become kindly like an ally [/Mitra]—you with ghee as your drink,  traveling your ways, extensive and having far-reaching brilliance.  
 Then for you, o Viṣṇu, praise can be brought to success only by one who  knows, and sacrifice can be made to succeed by one who offers an  
 oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FAR-SHINING, widely famed, going thy wonted way, fed with the oil, be helpful. Mitra-like, to us.  
      So, Visnu, e'en the wise must swell thy song of praise, and he who hath oblations pay thee solemn rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei freundlich wie Mitra, der sich am Schmalz stärkt, du von reichem Glanze, rasch gehend, weitbekannt! Dann soll dir, Vishnu, ein Loblied, wie es nur der Kundige richtig treffen kann, und ein Opfer von dem Opferspender zur Zufriedenheit gemacht werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei, fettgetränkter, du wie Mitra heilvoll uns, glanzreicher, grosser, gehend den gewohnten Gang, Dann ist dir, Vischnu, Lobgesang vom kundigen zu bringen und das Opfer von dem Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь дружелюбен, как Митра, чей выжатый напиток - жир,  
 (Ты,) обладающий ярким блеском, быстро идущий и далеко распространяющийся!  

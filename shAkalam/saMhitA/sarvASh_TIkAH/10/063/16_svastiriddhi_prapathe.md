@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअस्ति꣡र् इ꣡द् धि꣡ प्र꣡पथे श्र꣡यिष्ठा+  
 रे꣡क्णस्वती अभि꣡ या꣡ वाम꣡म् ए꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुआवेशा꣡ भवतु देव꣡गोपा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सा । नः॒ । अ॒मा । सो इति॑ । अर॑णे । नि । पा॒तु॒ । सु॒ऽआ॒वे॒शा । भ॒व॒तु॒ । दे॒वऽगो॑पा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svastir* ← *svastiḥ* ← *svasti*
 - \[noun\], nominative, singular, feminine
@@ -139,36 +139,36 @@ genre M
 या पृथिवी गन्तुमुद्युक्तानां **प्रपथे** प्रकृष्टाय मार्गाय **स्वस्तिरित्** क्षेमकारिण्येव भवति **श्रेष्ठा** प्रशस्यतमा **रेक्णस्वती** धनवती **या** पृथिवी **वामं** वननीयं यशम् **अभि** **एति** उत्तरवेद्यात्मना वाभिप्राप्नोति **सा** पृथिवी **नः** **अस्माकम्** **अमा**। गृहनामैतत् । गृहं रक्षतु । तथा **सो** सा उ सैव **अरणे** गन्तव्ये देशेऽरणेऽरमणेऽरण्यादिके देशे वा नोऽस्मान् **नि** **पातु** नितरां रक्षतु । तथा **देवगोपा** देवा गोपयितारो यस्याः सन्ति सा पृथिव्यस्माकं **स्वावेशा** शोभननिवासा **भवतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May (**pṛthivī**), who secures well-being to the excellent path, who, abounding with wealth, goes to thedesirable (plural ce of sacrifice), preserve our home, may she protect us on the path we have to travel; cherished bythe gods, may she be to us a plural asant abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For it is just well-being that is best on the path forward—that, (already)  rich in inheritance, sets out toward something valuable.  
 Let it keep guard over us at home and in a foreign place; with the gods  as its herdsmen let it be easy of access.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The noblest Svasti with abundant riches, who comes to what is good by distant pathway,-  
      May she at home and far away preserve us, and dwell with us under the Gods' protection
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn das Glück ist das Beste auf der Reise, das einträglich ist und zu Gewinn gelangt. Es möge uns daheim, es möge in der Fremde schützen. Das gottbehütete möge leicht zugänglich sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Heiles Göttin, sie die reichste, beste, die hin zu Schätzen eilt auf fernem Pfade, Sie schütze uns daheim und in der Ferne, schön geh sie ein und sei beschirmt von Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

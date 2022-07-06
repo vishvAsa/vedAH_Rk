@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वे꣡ति अ꣡ग्रुर् ज꣡निवान् वा꣡ अ꣡ति स्पृ꣡धः  
 समर्यता꣡ म꣡नसा सू꣡रियः कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मा꣡कं श꣡र्म वनवत् सुआ꣡वसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 घ्रं॒सम् । रक्ष॑न्तम् । परि॑ । वि॒श्वतः॑ । गय॑म् । अ॒स्माक॑म् । शर्म॑ । व॒न॒व॒त् । स्वऽव॑सुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vety* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
@@ -117,20 +117,20 @@ genre M
 इयं सौरी। **सूर्यः** देवः **अग्रुः** अग्रगामी **जनिवान्वै** जन्मवान् जायावान्वा । उषा ह्यस्य जाया । वा इति प्रसिद्धौ। **कविः** क्रान्तदर्शी **समर्यता** समरमिच्छता **मनसा** **स्पृधः** संग्रामान् **अति** **वेति** अतिगच्छति मन्देहानसुरान् योद्धुम् । **घ्रंसं** दीप्तं **गयं** गृहमन्तरिक्षं वा **विश्वतः** सर्वतः **रक्षन्तं** परिचरेमेति शेषः । स देवः **अस्माकं** **शर्म** सुखं **परि** सम्यक् **वनवत्** दद्यात् । **स्वावसुः** स्वायत्तधनः सन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sage **Sūrya**, advancing, accompanied by his bride, (the dawn), proceeds boldly, intent on combat with his enemies; may he on whom riches are dependent, secure our entire felicity, (and grant) a brilliant and everywhere protecting mansion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (When) unwed, he pursues (women); once he has wives, he truly  out(strips) (all) contenders with a mind that seeks conflict—(as) the  sun, the sage poet.  
 He with his goods near at hand will vanquish the (sun’s) heat and will  win shelter for us, which protects (our) patrimony on all sides.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again my interpr. differs markedly from those of others. Again I think the unexpressed subj. of the whole vs. is Agni/Soma, not the sun (sū́ryaḥ) with most others. The nom. sū́ryaḥ is instead used to characterize both, since both Agni and Soma can be identified with the sun; that is, each is (equivalent to) the sun in his own way. Cf. “the sun of the lower realm” in 2a with reference to phenomena related to both Agni and Soma.
 
@@ -139,23 +139,23 @@ In pāda a I take the two adj. ágruḥ ‘unmarried’ and jánivān ‘possess
 In cd I take the verb vanavat in two senses, negative and positive, both well represented for this stem. With the obj. ghraṃsám ‘heat’, the verb has the sense ‘win’ = ‘vanquish’, as in nearby V.29.9 ávanor ha śúṣṇam “you combatted / vanquished Śuṣṇa”; with the obj. śárma ‘shelter’, ‘win’ = ‘gain’. I take rákṣantam as a qualifier of śárma (more or less; see below), with the participle itself taking the obj. gáyam (“shelter … protecting our patrimony”). In taking gáyam as obj. of rákṣantam I am flg. Oldenberg, who cites as parallel I.74.2 árakṣad dāśúṣe gáyam, which seems pretty conclusive to me. There are also two passages (VI.71.3/X.66.3) in which gáyam is the object of the semantically parallel verb pári √pā ‘protect all round’ (e.g., X.66.3 ... pári pāhi no gáyam); note pári immed. flg. rákṣantam here. By contrast, Geldner, Renou, Witzel Gotō all take gáyam as an immed. object of vanavat, modified by rákṣantam, which itself governs ghraṃsám (cf., e.g., Renou “Qu’il nous assure une demeure protégeant de toutes parts de (son) ardeur …”). This interpr. not only ignores the √rakṣ + gáyam parallel, but also requires a significant attenuation of the meaning of √van (see Renou’s n. on the pāda), and I also don’t know of parallel uses of √rakṣ meaning ‘guard against / from’. Against this we must balance one clear defect in my interpr., that śárman- is neut. and the part. rákṣantam is masc. To account for the gender discrepancy I would suggest that the immediate referent of rákṣantam is not śárma, but a different, underlying, masc. noun to which śárma is an appositive -- perhaps kṣáyam ‘peaceful dwelling’, as in I.133.7 vanóti … kṣáyam. Or it might be enough to invoke the distance between rákṣantam and śárma in the hemistich, which might account for the gender mismatch. (I prefer the former, grammatically blameless, possibility. In this case the tr. might be slightly changed to “will win (peaceful dwelling) as shelter for us, protecting (our) patrimony on all sides.”)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya the Sage, as if unwedded, with a Spouse, in battle-loving spirit moveth o'er the foes.  
      May he, self-excellent, grant us a sheltering home, a house that wards the fierce heat off on every side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unvermählt und doch beweibt überbiete er die Nebenbuhler streitlustigen Sinnes. Der Seher Surya möge ein Haus, das ringsum seine Glut abhält, möge uns seinen Schutz zuwenden, er der alles Gute zu eigen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise Sonnengott geht unvermählt oder vermählt mit kampflustigem Muthe durch die Feinde; er schenke uns Sonnenschein, der rings unser Haus beschirmt, und Schutz er, der schön mit Gut zur Hand ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Холостой, однако, с женами, он, превосходит соперников  
 Воинственным духом, Сурья-поэт.  

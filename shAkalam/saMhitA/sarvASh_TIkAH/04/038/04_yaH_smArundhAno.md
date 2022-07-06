@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ स्मारुन्धानो꣡ ग꣡धिया सम꣡त्सु  
 स꣡नुतरश् च꣡रति गो꣡षु ग꣡छन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिरो꣡ अरति꣡म् प꣡रि आ꣡प आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒विःऽऋ॑जीकः । वि॒दथा॑ । नि॒ऽचिक्य॑त् । ति॒रः । अ॒र॒तिम् । परि॑ । आपः॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 **यः** **स्म** यः खलु देवः **गध्या** गध्यानि ।' गध्यतिर्मिश्रीभावकर्मा ' ( निरु. ५. १५ ) इति निरुक्तम् । मिश्रयितव्यानि फलानि **समत्सु** संग्रामेषु **आरुन्धानः** सर्वतो निरोधयन् **सनुतरः** संभक्तृतरः **गोषु** सर्वासु दिक्षु गोषु वा निमित्तभूतेषु **गच्छन्** **आविर्ऋजीकः** आविर्भूतसाधन: आविर्भूतमुष्को वा **विदथा** विदथानि ज्ञातव्यानि **निचिक्यत्** । पश्यतिकर्मैतत् । जानन् **अरतिम्** अरमणं दुःखमभिगन्तारम् अरिं वा **परि** सर्वतः **तिरः** **चरति** तिरस्करोति । कस्यारतिमिति । **आपः** व्याप्तत्य स्तोतुः **आयोः** मनुष्यस्य यजमानस्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M
 Vidhatā nicikyat tiro aratim paryāpa āyoḥ = jñātavyāni janam aramanām arim vā tiraskaroti stoturmanuṣyasya, knowing things cognizable, who disgraces the opponent, or the foe of the man, the praiser
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who, hemming in the things to be seized in battles, keeps going  to (the contests for) cows as one better at winning,  
 foaming visibly, setting his attention on the (rites of) distribution,  
 across the circlet (of fire? the sun?), around the waters of Āyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains a number of puzzles, though the general purport -- the success of Dadhikrā in battles and raids -- is clear.
 
@@ -147,23 +147,23 @@ The last pāda is the most baffling of all. The second part of it, páry ā́pa 
 (Unters. 40-41), which sees “the waters of Āyu” as an expression referring to land habitable because it is well watered. If this phrase is essentially locational, then one might expect the preceding tiró aratím to be as well: “across the aratí-.” Unfortunately, though Thieme’s general interpr. of aratí- I find persuasive, his tr. of this phrase “schneller als die Räder [seines Wagens]” is problematic, because I do not see how tiráḥ can mean ‘faster’. It is always otherwise a preposition/adverb. I therefore think Dadhikrā is being depicted as crossing the aratí and racing around “the waters of Āyu.” These two locational phrases may refer to the ritual ground, as Oldenberg suggests: the horse runs across the fire on the ritual ground and around the water vessels used for the sacrifice. Or, my preference, it can refer to the territory of the Ārya, which the horse traverses and thus, as it were, claims for his owner (much as the Aśvamedha horse does in his year-long pre-sacificial ramble). What aratí- would stand for in this scenario isn’t entirely clear to me -- but since aratí- can mean ‘spoked wheel, circlet, circle’, I would tentatively suggest that the horse runs across a notional circle of land belonging to / claimed by / aspired to by the Ārya and then around the periphery of this circle to enclose it as Ārya possession. I would therefore now emend my tr. to “across the circle (of Ārya land), around the waters of Āyu.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who gaineth precious booty in the combats and moveth, winning spoil, among the cattle;  
      Shown in bright colour, looking on the assemblies, beyond the churl, to worship of the living.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in den Kämpfen bis an die Wagendecke reichende Beute errafft, der als bester Gewinner hervorgeht, wenn er auf Rinder auszieht, seine Vorzüge offenbarend, die weisen Worte verstehend, seinen Lenker noch übertreffend, mehr als Ayu zu erreichen vermag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der an sich reisst die Beute in den Schlachten, der Gut gewinnt, der eilt, nach Kühen strebend, Den Trank erblickend und die Opfer schauend, vorbei am Bösen zu dem Werk des Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Коня,) который, отбивая в боях нагруженную (на колесницах добычу),  
 Выходит как завоеватель, отправляясь (на поиски) коров,  

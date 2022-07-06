@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्यु꣡द्रथा मरु꣡त ऋष्टिम꣡न्तो  
 दिवो꣡ म꣡र्या ऋत꣡जाता अया꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धा꣡ता रयिं꣡ सह꣡वीरं तुरासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सर॑स्वती । शृ॒ण॒व॒न् । य॒ज्ञिया॑सः । धात॑ । र॒यिम् । स॒हऽवी॑रम् । तु॒रा॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidyudrathā* ← *vidyut*
 - \[noun\], feminine
@@ -112,36 +112,36 @@ genre M
 **विद्युद्रथाः** विद्योतमानरथोपेताः **ऋष्टिमन्तः** दीप्तिमन्तः । ऋष्टिरायुधविशेषः तद्वन्तो वा । **दिवः** द्योतमानाः **मर्याः** शत्रूणां मारयितारः **ऋतजाताः** उदकाद्यज्ञाद्वा प्रादुर्भूताः । यद्वा । ऋतमुदकं जातं येभ्यस्ते ऋतजाताः । **अयासः** सततगमनशीला: **यज्ञियासः** यज्ञार्हाः **मरुतः** **सरस्वती** । गद्यपद्यरूपेण प्रसरणमस्या अस्तीति सरस्वती । वाग्देवता च । एते सर्वे देवा मदीयमिदं स्तोमं **शृणवन्** शृण्वन्तु । **तुरासः** अस्माकं फलप्रदाने त्वरणयुक्ता हे मरुतः **सहवीरं** पुत्रसहितं **रयिं** धनं **धात** अस्मभ्यं धत्त ॥ धात । दधातेर्लोटि ‘बहुलं छन्दसि' इति शपो लुक् ।  ‘ तप्तनप्तनथनाश्च' इति तबादेशः । पादादित्वादनिघातः । तपः पित्त्वादनुदात्तत्वे धातुस्वरः । तुरासः ।  ‘तुर त्वरणे'। इगुपधलक्षणः कः । आमन्त्रितत्वान्निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the **Maruts**, whose cars are the lightning, who are armed with spears, resplendent, destroyers of foes, from whom the waters proceed, (who are) unresting and adorable, and may **Sarasvatī** hear (my prayer); and may you (maruts), speedy in your liberality, bestow (upon us) riches and good offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts with lighting as their chariot, brandishing spears, the  young bloods of heaven, born of truth, irrepressible,  
 and Sarasvatī—those worthy of the sacrifice will listen. Confer wealth  along with heroes, you powerful ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne on their flashing car, the spear-armed Maruts, the nimble Youths of Heaven, the Sons of Order,  
      The Holy, and Sarasvati, shall hear us: ye Mighty, give us wealth with noble offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut mit blitzenden Wagen, speerbewaffnet, des Himmels Jungen, zur rechten Zeit geboren, die unverzagten, die Sarasvati, alle Opferwürdigen sollen zuhören. Bringt Reichtum nebst Söhnen, ihr Vornehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit lichtem Wagen, speerbewaffnet mögen des Himmels Männer, wahrhaft, unermüdlich, Die Maruts und Sarasvati uns hören; ihr starken, hehren, gebt uns Schatz und Helden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Маруты с колесницами-молниями, с копьями,  
 Небесные юноши, рожденные законом, неутомимые,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जघन्वाँ꣡ उ ह꣡रिभिः सम्भृतक्रतव्  
 इ꣡न्द्र वृत्र꣡म् म꣡नुषे गातुय꣡न्न् अपः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡धारयो दिवि꣡ आ꣡ सू꣡रियं दृशे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अय॑च्छथाः । बा॒ह्वोः । वज्र॑म् । आ॒य॒सम् । अधा॑रयः । दि॒वि । आ । सूर्य॑म् । दृ॒शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
@@ -126,36 +126,36 @@ genre M
 हे **संभृतक्रतो** संपादितकर्मन् संपादितप्रज्ञ वा **इन्द्र** **मनुषे** जनाय **गातुयन्** गातुं मार्गमिच्छन् **वृत्रं** लोकानामावरकमसुरं **हरिभिः** अश्वैर्युक्तस्त्वं **जघन्वान्** **उ** हतवान् खलु । तदनन्तरम् **अपः** वृष्ट्युदकानि प्रावर्तय इत्यध्याहारः । **बाह्वोः** त्वदीययोर्हस्तयोः **आयसम्** अयोमयं **वज्रम्** **अयच्छथाः** अग्रहीः । आकारः समुच्चयार्थः । **सूर्यं** च **दिवि** द्युलोके **दृशे** द्रष्टुं सर्वेषामस्माकं दर्शनाय **अधारयः** स्थापयांचकृषे ॥ जघन्वान् । हन्तेर्लिटः क्वसुः ।  ‘ विभाषा गमहनविदविशाम्' ( पा. सू. ७. २. ६८ ) इति इडागमस्य विकल्पोक्तेरभावः । गातुयन् गातुमिच्छसि । 'छन्दसि परेच्छायामपि ' ( का. ३. १. ८.२ ) इति क्यच् । न च्छन्दस्यपुत्रस्य ' इति दीर्घप्रतिषेधः । क्यजन्तात् शतरि अदुपदेशात् लसार्वधातुकानुदात्तत्वे क्यच एव स्वरः शिष्यते । बाह्वोः ।  ‘ उदात्तयणो हल्पूर्वात्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, performer of holy acts, desirous of going to man, you with your steeds have slain **Vṛtra** (have set free) the waters, have taken in your **hands** your thunderbolt of metal, and have made the sun visible in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And when you, o Indra of concentrated resolve, together with your  fallow bays, smashed Vr̥tra, making a way for the waters for Manu,  
 you held the metal mace in your arms. You fixed the sun fast in heaven  to be seen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Indra, thou whose power is linked with thy Bay Steeds hadst smitten Vrtra, causing floods to flow for man,  
      Thou heldst in thine arms the metal thunderbolt, and settest in the heaven the Sun for all to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du, festentschlossener Indra, mit den Falben den Vritra erschlugst, und für Manu den Gewässern einen Ausweg suchtest, da hieltest du die eherne Keule in den Armen. Du brachtest am Himmel die Sonne zum Schauen an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als, allgewalt'ger Indra, mit den Blitzen du den Vritra schlugst, der Wasser Bahn dem Menschen brachst, Da hieltest du im Arm den Blitz, den eisernen, und liesst die Sonn' am Himmel allen sichtbar stehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О собравшийся с силой духа Индра, убив с помощью буланых (коней)  
 Вритру, (и) создавая для человека выход водам,  

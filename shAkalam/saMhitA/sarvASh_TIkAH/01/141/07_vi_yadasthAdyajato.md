@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡द् अ꣡स्थाद् यजतो꣡ वा꣡तचोदितो  
 ह्वारो꣡ न꣡ व꣡क्वा जर꣡णा अ꣡नाकृतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡चिजन्मनो र꣡ज आ꣡ वि꣡अध्वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्य॑ । पत्म॑न् । ध॒क्षुषः॑ । कृ॒ष्णऽजं॑हसः । शुचि॑ऽजन्मनः । रजः॑ । आ । विऽअ॑ध्वनः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre M
 **यत्** यदा अयमग्निः **वातचोदितः** वायुना प्रेरितः ॥ तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम्॥ **यजतः** सर्वैः यष्टव्यः यष्टुं योग्यः सन् **वि** **अस्थात्** वितिष्ठते सर्वतो व्याप्तो भवति । तत्र दृष्टान्तः । **अनाकृतः** अनिवारितोऽप्रतिहतप्रसरः **वक्वा** बहुवक्ता ॥ वचेः ‘अन्येभ्योऽपि दृश्यन्ते' इति वनिप् । दृशिग्रहणात् कुत्वम् ॥ **ह्वारो** **न** कुटिल इव विदूषणकादिरिव' । ह्वरतेर्ण्यन्तात् पचाद्यच् ॥ स यथा **जरणाः** स्तुतीर्वितिष्ठते विविधं कुर्वन् वर्तते तद्वदयमप्यनाकृतः अप्रतिबद्धप्रसरो व्यवस्थितः । तदा **तस्य** अग्नेः **पत्मन्** पतने मार्गे यज्ञरूपे **रजः** रञ्जनात्मको लोकः **आ** अस्थात् आतिष्ठति सर्वतः आश्रयति अग्नौ बहुधा यजतीत्यर्थः । कीदृशस्य तस्य । **धक्षुषः** दहतः ॥ दहेर्लिटः क्वसुः ॥ **कृष्णजंहसः** कृष्णमार्गस्य ॥ पुनःपुनर्गम्यते इति जंहा मार्गः । हन्तेर्यङ्लुगन्तात् कर्मणि असुन् । कुत्वाभावश्छान्दसः ॥ **शुचिजन्मनः** मन्त्रसहितारण्योरुत्पन्नत्वात् **व्यध्वनः** विविधज्वालस्य अनियतमार्गस्य ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,7 +149,7 @@ Anākṛtaḥ = unrestrained, anivāritaḥ;
 **Jaraṇaḥ** = **stutiḥ**, praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he, worthy of the sacrifice, has spread out, driven by the  
 wind, wriggling through the old (plants?) like a twisting (snake),  
@@ -158,7 +158,7 @@ in his flight—(the flight) of this burning one of black plumage and
 blazing birth, whose road spreads through the airy realm.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take this entire verse as dependent on vs. 6. It is full of rare and unclear words, but the pile-up of descriptors of the violently moving fire is exhilarating.
 
@@ -181,28 +181,28 @@ On -jaṃhas- see comm. ad VI.12.2 and VI.3.5.
 vyàdhvan- can contain either ví ‘without’ or ví ‘through, wide(ly)’ (so also Oldenberg [SBE], Renou). I have opted for the latter, but others (Geldner ‘wegelosen Flug’, Witzel Gotō ‘Wegelosen’) for the former. Either would work, though the phrase rája ā́seems to me to express extent of space and to favor my interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Holy One, wind-urged, hath risen up, serpent-like winding through the dry grass unrestrained,  
      Dust lies upon the way of him who burneth all, black-winged and pure of birth who follows sundry paths.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he has scattered himself, the worshipful one, driven by the wind, like … 1, with the sound (which he produces) (?), he whom it is not possible to drive to a place (like cattle): on the flight of the burning one who speeds on his black way, whose birth is bright, who strays everywhere to the atmosphere … 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn sich der Anbetungswürdige, vom Winde angefacht, wie ein Vogel flatternd ohne Antrieb über die dürren Hölzer ausgebreitet hat, bei des brennenden, schwarzbeschwingten, reingeborenen, wegelosen Flug in die Luft;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn windbewegt der heil'ge sich erhoben hat, sich windend, zischend wie die Schlange, ungehemmt Auf seinem Gange, wenn er schwarzgeflügelt flammt, wenn der im Licht geborne durch die Lüfte dringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда достойный жертв, погоняемый ветром, распространился  
 (Никем) не принуждаемый на старые (дрова), трепеща, как птица,  

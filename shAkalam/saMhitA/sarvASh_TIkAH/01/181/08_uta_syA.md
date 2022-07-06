@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ स्या꣡ वां रु꣡शतो व꣡प्ससो गी꣡स्  
 त्रिबर्हि꣡षि स꣡दसि पिन्वते नॄ꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गो᳐꣡र् न꣡ से꣡के म꣡नुषो दशस्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । वा॒म् । मे॒घः । वृ॒ष॒णा॒ । पी॒पा॒य॒ । गोः । न । सेके॑ । मनु॑षः । द॒श॒स्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -127,20 +127,20 @@ genre M
 हे अश्विनौ **वां** युवयोः रुशतः दीप्तस्य **वप्ससः** रूपस्यैव वपुषो वा ख्यापयित्री **गीः** स्तुतिवाक् त्रिबर्हिषि त्रिधात्वास्तीर्णबर्हिष्के **सदसि** यागसदने **नॄन्** कर्मनेतॄनस्मान् **पिन्वते** आप्याययति आप्याययतु वा उचितप्रदानादिना । केन प्रकारेण उच्यते । हे **वृषणा** वर्षितारौ कामानां **वां** युवयोः स्वभूतः **मेघः** सेक्ता जलदः प्रदानविशेषो वा **वृषा** वर्षकः सन् 'मनुषः मनुष्यान् प्रति **दशस्यन्** प्रयच्छन् **पीपाय** आप्याययति । आप्यायने दृष्टान्तः । **गोर्न** **सेके** उदकसेके इव शांतनात् सेके उदकस्येव । तद्यथा आप्याययति तद्वदित्यर्थः । यद्वा । नेति संप्रत्यर्थे । गोः उदकस्य सेके निमित्तभूते सति पीपायेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the praise of your resplendent forms, (uttered) in the hall of sacrifice, thrice strewn with sacred grass, bring prosperity to the conductors (of the sacrifice). Showerers (of benefits), may the raining-cloud, proceeding to man, nourish him lik a a sprinkling of water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this very song of the gleaming wasp [=sacrificial fire] swells in the  seat of men, which has three layers of ritual grass.  
 O bulls, the bullish cloud [=soma] is swollen as if at the insemination of  a cow [/at the pouring out of the cow (=milk)], showing favor to the  sons of Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The gen. phrase rúśato vápsasaḥ is standardly taken as the PN (Ruśant Vapsas) of the singer. As often when a PN explanation is offered, this is a convenient way of evading an unclear word or phrase. But rúśant- is a very well-attested adj.
 
@@ -151,23 +151,23 @@ The published translation careless omits the vām; I would emend the tr. to “t
 In the real-world image the bull is depicted as sexually aroused (swollen) in mating with a cow, lit. “at the insemination of a cow.” The root √sic frequently takes rétas- ‘semen’ as obj., and this is a shorthand way of expressing “at the pouring out (of semen) into a cow,” vel sim. But in the ritual image, “at the pouring out of the cow” refers to the pouring of milk and its mixing with the soma, a very common image that is regularly sexualized.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This song of bright contents for you is swelling in the men's hall where three-fold grass is ready.  
      Your strong rain-cloud, ye Mighty Ones, hath swollen, honouring men as 'twere with milk's outpouring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und für euch schwillt diese Lobrede des Rusat Vapsas auf dem mit dreifachem Barhis belegten Sitz der Männer an. Eure bullenhafte Wolke, ihr Bullenhaften, ist angeschwollen, bei ihrem Erguß die Menschen befriedigend wie bei dem der Kuh.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Lied, das eure Glanzgestalt verherrlicht, erquickt auf dreigetheiltem Sitz die Männer, Es schwoll, o Stiere, euer Stier, die Wolke, wie mit Erguss der Milch die Menschen segnend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И для вас эта песнь Рушата Вапсаса  
 Делает мужей набухшими на месте жертвоприношения, трижды (устланном) соломой.  

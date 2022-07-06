@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चित्रा꣡ वा ये꣡षु दी꣡धितिर्  
 आस꣡न्न् उक्था꣡ पा᳐꣡न्ति ये꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 श्र꣡वांसि दधिरे प꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्ती॒र्णम् । ब॒र्हिः । स्वः॑ऽनरे । श्रवां॑सि । द॒धि॒रे॒ । परि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
@@ -99,7 +99,7 @@ genre M
 **येषु** ऋत्विक्षु **चित्रा** नानाविधा **दीधितिः** यज्ञविषया क्रिया भवति । **ये** **आसन्** आस्ये **उक्था** उक्थानि स्तोत्राणि **पान्ति** रक्षन्ति तैर्ऋत्विग्भिः **स्तीर्णं** स्तीर्णस्य **बर्हिः** बर्हिषः **परि** उपरि **श्रवांसि** अन्नानि हवींषि **स्वर्णरे** । स्वः स्वर्गं नरं यजमानं नयतीति स्वर्णरो यज्ञः । तस्मिन् **दधिरे** निधीयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,34 +110,34 @@ genre M
 **Svar** nare, a synomym of yajñe svargam yajamānam nayati, it leads the **yajamāna** to heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or among whom is brilliant insight, who protect the recitations in (the  singer’s) mouth.  
 The ritual grass has been strewn near him [=Agni] of sun-like majesty,  and they have wrapped themselves in fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who have varied ways of thought, who guard, the lauds within their lips,  
      And strew the grass before the light, have decked themselves with high renown.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And in whom (dwells) brilliant thought, who guard the hymns of praise in their mouth, (whose) sacrificial grass is spread in the realm of the sun: they have invested themselves with glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aber die, bei denen die wunderbare Erkenntnis ist, die im Munde die Lieder bewahren, deren Barhis in Svarnara ausgelegt ist, die haben sich mit Ruhm bedeckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei denen Andacht reich erglänzt, die Sprüche nehmen in den Mund, Dem Glanzesherrn das Polster streun, die haben reiches Gut erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те же, у кого яркая сила прозрения,  
 Кто хранит гимны в устах,  

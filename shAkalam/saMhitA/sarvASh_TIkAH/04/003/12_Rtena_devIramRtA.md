@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न देवी꣡र् अमृ꣡ता अ꣡मृक्ता  
 अ꣡र्णोभिर् आ꣡पो म꣡धुमद्भिर् अग्ने  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ स꣡दम् इ꣡त् स्र꣡वितवे दधन्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वा॒जी । न । सर्गे॑षु । प्र॒ऽस्तु॒भा॒नः । प्र । सद॑म् । इत् । स्रवि॑तवे । द॒ध॒न्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -110,20 +110,20 @@ genre M
 हे अग्ने **अमृताः** अमरणहेतवः **अमृक्ताः** रक्षःप्रभृतिभिरबाधिताः **मधुमद्भिः** माधुर्योपेतैः **अर्णोभिः** उदकैर्युक्ताः **देवीः** देव्यो नद्यः **ऋतेन** सत्येन यज्ञेन वा हेतुना **आपः** आप्तव्याः सत्यः **सदमित्** सदैव **स्रवितवे** स्रवणाय **प्र** **दधन्युः** प्रगच्छन्ति । तत्र दृष्टान्तः । **वाजी** **न** । यथा **सर्गेषु** प्रेरणेषु **प्रस्तुभानः** प्रोत्साह्यमानः अश्वः प्रगच्छति तद्वत् ॥ आपः।  ‘ आप्लृ व्याप्तौ ।  ‘ आप्नोतेः क्विप् ह्रस्वश्च ' इति कर्मणि क्विप् । 'अप्तृन्' इत्यादिना जसि दीर्घः । प्रस्तुभानः । स्तोभतिरर्चतिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By sacrifice, **Agni**, the divine rivers, immortal, unobstructed, continue perpetually to flow with sweet waters, like a horse that is being urged in his speed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By truth the immortal, unharmable goddesses, the waters with their  honeyed floods, o Agni—  
 like a competitor beating a tattoo at the start(ing posts)—should set to  running, to stream forever.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ritual application of this final ṛténa vs. is less clear than for the first three. It may simply refer to the waters used at the first soma pressing. Or the ritual aspect may be muted, and the point is to make room for the Vṛtra myth next to the Vala myth in vs. 11. However, the opt. dadhanyuḥ seems to reflect a movement from what has happened (the injunctives and preterite indicative of the last few vss.) to what should now happen, which suggests that there should be a ritual application.
 
@@ -144,28 +144,28 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By Law the Immortal Goddesses the Waters, with meath-rich waves, O Agni, and uninjured,  
      Like a strong courser lauded in his running, sped to flow onward swiftly and for ever.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By the Rita the immortal, uninjured 1 goddesses, the Waters, O Agni, with their honey-sweet waves have sped forward 2 for ever to flow (along their course), like a racer incited by shouting when (the race-horses) are let loose.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Rechts wegen sollen die unsterblichen, göttlichen, unversehrten Gewässer mit ihren süßen Fluten wie ein ermunterter Preisrenner im Rennen sich in Lauf setzen, um für immer zu fließen, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Recht auch strömten unversehrt, unsterblich die Wasser vor mit honigsüssen Fluten, So wie ein schnaubend Ross in schnellem Wettlauf, die Göttinnen zu ew'gem Strom, o Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По закону божественные, бессмертные, невредимые  
 Воды с (их) медовыми струями, о Агни,  

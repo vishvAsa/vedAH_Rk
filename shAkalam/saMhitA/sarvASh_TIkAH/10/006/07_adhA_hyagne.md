@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हि꣡ अग्ने मह्ना꣡ निष꣡द्या  
 सद्यो꣡ जज्ञानो꣡ ह꣡वियो बभू꣡थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धावर्धन्त प्रथमा꣡स ऊ꣡माः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तम् । ते॒ । दे॒वासः॑ । अनु॑ । केत॑म् । आ॒य॒न् । अध॑ । अ॒व॒र्ध॒न्त॒ । प्र॒थ॒मासः॑ । ऊमाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 **अध** अनन्तरं **हि** यस्माद्धे **अग्ने** त्वं **मह्ना** महत्त्वेन **जज्ञानः** जायमानो ज्वलन् **निषद्य** उपविश्य **सद्यः** तस्मिन् प्रजननकाल एव **हव्यः** हवनार्ह आहुतिप्रक्षेपार्हः **बभूथ** भवसि तस्मात् कारणात् **देवासः** हविषां दातारः ऋत्विग्यजमानाः **ते** तव स्वभूतं तं तादृशं **केतं** प्रज्ञानलक्षणम् **अनु** **आयन्** अनुगच्छन्ति । दीप्ते त्वयि हवींषि जुह्वतीत्यर्थः । **अध** अनन्तरमृत्विगादयः **प्रथमासः** क्रियाभिजनविद्यागुणैरुत्कृष्टाः **ऊमाः** त्वया रक्षिताः सन्तः **अवर्धन्त** वर्धन्ते ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since you, **Agni**, born in your glory and having sat down (on the altar), are immediately entitled to theoblation; therefore, the holy (priests) come to that your ensign and the mos worthy (worshippers) prosperprotected (by you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then, o Agni, because, having sat down with greatness, immediately on  being born you became the one to be invoked,  
 the gods followed your will. Then the foremost helpers became strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, at thy birth, when thou hadst sat in glory, thou, Agni, wast the aim of invocations.  
      The Gods came near, obedient to thy sunimons, and thus attained their rank as chief Protectors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nun bist du, Agni, nachdem du dich in deiner Hoheit niedergesetzt hast, eben geboren sogleich anzurufen. Die Götter sind auf deine Absicht eingegangen und haben sich erbaut, die ersten Helfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wenn du, Agni, dich mit Macht gesetzt hast, bist kaum geboren du schon anzurufen; Drum folgten deinem Willen nach die Götter, da wurden stark zuerst die Götterscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А потому, о Агни, когда ты уселся в (своем) величии,  
 Едва родившись, ты сразу стал же достоин призывов.  

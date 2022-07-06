@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यातं꣡ छर्दिष्पा꣡ उत꣡ नः परस्पा꣡  
 भूतं꣡ जगत्पा꣡ उत꣡ नस् तनूपा꣡  
 वर्ति꣡स् तोका꣡य त꣡नयाय यातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 व॒र्तिः । तो॒काय॑ । तन॑याय । या॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
@@ -106,7 +106,7 @@ genre M
 हे अश्विनौ **छर्दिष्पौ** । छर्दिरिति गृहनाम । तस्यास्मदीयस्य पालको सन्तौ युवां **यातम्** आगच्छतम् । **उत** अपि च **नः** अस्माकं **परस्पा** परमतिशयेन पालकौ **भूतं** भवतम् । पारस्करादित्वात्सुट् । तथा **जगत्पौ** सर्वस्य जगतो जङ्गमस्य प्राणिजातस्यास्मदीयस्य पालकौ भवतम् । **उत** अपि च **नः** अस्माकं **तनूपा** तनूनां शरीराणां तनयानां वा पालकौ भवतम् । एतत्सर्वार्थं **तोकाय** तोकस्य पुत्रस्य **तनयाय** तनयस्य पौत्रस्य चास्मदीयस्य **वर्तिः** गृहं यातं गच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,30 +117,30 @@ genre M
 Protectors: jagatpājaṅgamasya prāṇijātasya asmadīyasya pālakau, protectors of our moveable living beings- - either ourdependants, or, our animals; for the good of our sons: or, "come to the dwellings of our sons and grandsons"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive to us as protectors of our shelter and protectors from afar;  become protectors of our moving (possessions [=livestock]) and  
 protectors of our bodies.  
 Drive your circuit for our progeny and posterity (to prosper),
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come as home-guardians, saving us from foemen, guarding our living creatures and our bodies,  
      Come to the house to give us seed and offspring,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet als Schützer unseres Daches und seid uns Schützer in der Ferne, Schützer unseres lebenden Besitztums und unserer Leiber! Machet eure Umfahrt zu Gunsten unseres leiblichen Samens;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her als Hüter des Hauses, seid uns Beschirmer in der Ferne, Beschirmer des Lebendigen, Beschirmer unsrer Leiber, kommt zur Stätte, zum Heil für Kind und Enkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте как защитники (нашего) жилища, а также как наши защитники издалека!  
 Будьте защитниками (нашей) живности, а также защитниками наших тел!  

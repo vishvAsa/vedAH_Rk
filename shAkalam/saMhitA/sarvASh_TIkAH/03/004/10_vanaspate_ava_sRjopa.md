@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नस्पते अ꣡व सृजो꣡प देवा꣡न्  
 अग्नि꣡र् हविः꣡ शमिता꣡ सूदयाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡था देवा꣡नां ज꣡निमानि वे꣡द
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । इत् । ऊं॒ इति॑ । होता॑ । स॒त्यऽत॑रः । य॒जा॒ति॒ । यथा॑ । दे॒वाना॑म् । जनि॑मानि । वेद॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 हेवनस्पते देवानुपावसृज समीपेकुरु शमितापशोः संस्कर्ता अग्निः वनस्पतिश्चहविः सूद याति देवान् प्रतिप्रेरयतु सत्यतरः अत्यर्थंसत्यः सत्यतरः सत्यस्वरूपः सइत् सएवहोताय- जातियजतु यथा यतःकारणात् सएवाग्निः देवानां जनिमानिजन्मानि वेदवेत्ति अतः सएव यजत्वित्यर्थः उःपूरणः ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,34 +135,34 @@ genre M
 May Agni the immolator: agnir **haviḥ** **śamitā** sūdayāti: cf. RV 2.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Lord of the Forest, send it [=the sacrificial animal] to the gods. Agni,  the Śamitar, will sweeten the offering.  
 And it is he, the more real Hotar [=Agni], who will offer sacrifice, since  he knows the births of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send to the Gods the oblation, Lord of Forests; and let the Immolator, Agni, dress it.  
      He as the truer Priest shall offer worship, for the Gods' generations well he knoweth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O tree 1, send (the offering) forth to the gods. May Agni the slaughterer make the offering ready. May the same, the very true Hotri, sacrifice according as he knows the generations of the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Baum, entlaß es zu den Göttern; Agni, der Zurichter, soll das Opfer schmackhaft machen. Derselbe soll als der echte Hotri unter den beiden das Opfer vollziehen, so wie er der Götter Geschlechter kennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Waldesherr zu Göttern schick die Opfer, und eifrig wirkend mache süss sie Agni; Denn er, der Priester, opfert um so besser, da er ja kennt der Götterwelt Geschlechter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 дерево  
 , отпусти к богам (жертвенное животное)!  

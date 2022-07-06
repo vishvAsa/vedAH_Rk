@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡वाणः सोम नो हि꣡ कं  
 सखित्वना꣡य वावशुः꣡  
 जही꣡ नि꣡ अत्रि꣡णम् पणिं꣡ वृ꣡को हि꣡ षः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 ज॒हि । नि । अ॒त्रिण॑म् । प॒णिम् । वृकः॑ । हि । सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
@@ -99,7 +99,7 @@ genre M;; line affected by realignment
 हे **सोम** **नः** अस्मदीया इमे **ग्रावाणः** अभिषवार्थाः पाषाणाः तव **सखित्वनाय** सख्यार्थं **वावशुः** कामयन्ते । **कम्** इति पूरकः । **हि** यस्मादर्थे । यस्मादेवं तस्मात्त्वं **पणिं** वणिजमदातारम् **अत्रिणम्** अदनशीलं राक्षसादिकं **नि** **जहि** विनाशय । **सः** पणिः **वृको** **हि** आदानपरः खलु । सर्वदास्मत्तोऽपहरणशीलः । अतस्त्वं जहीत्यर्थः ॥  ‘ कुक वृक आदाने' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,14 +112,14 @@ Jahī ninatriṇam paṇim vṛko hi saḥ: paṇi here means a trader, a greedy
 **Vṛka** = a robber, an extortioner, from the root vṛk, to seize or take away, adane
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely our pressing stones have bellowed for your  
 companionship, Soma.  
 Smash down the rapacious niggard. For he is a wolf!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The unusual position of hí, normally a 2nd position element, is due to immediately following kam. For whatever reason (and I don’t know it), hí kam is a phrasal unit, whether it occurs in expected 2nd position (I.98.1, II.28.8, VIII.11.10) or not (VIII.44.24, IX.49.4, X.100.5). II.37.5 may provide a transition between the two, since the hí kam sequence is not pāda-initial there, but it is in 2nd position in its clause.
 
@@ -140,23 +140,23 @@ As noted in the published introduction, I consider the remaining vss. to belong 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, these pressing-stones have called aloud to win thee for our Friend.  
      Destroy the greedy Pani, for a wolf is he.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn unsere Preßsteine verlangen nach dir, Soma, zur Kameradschaft. Schlage den Atrin nieder, den Knauser, denn er ist der Wolf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Presssteine, o Soma, riefen uns ja recht zur Genossenschaft; schlage nieder den gefrässigen Geizhalz; denn ein Wolf ist der.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь наши давильные камни, о Сома,  
 Настроились на дружбу.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡चिम् अर्कइ꣡र् बृ꣡हस्प꣡तिम्  
 अध्वरे꣡षु नमस्यत  
 अ꣡नामि ओ꣡ज आ꣡ चके
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अना॑मि । ओजः॑ । आ । च॒के॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
@@ -77,19 +77,19 @@ genre M
 हे ऋत्विजो यूयम् **अध्वरेषु** **शुचिं** शुद्धं **बृहस्पतिम्** **अर्कैः** अर्चनीयैः स्तोत्रैः **नमस्यत** परिचरत । **अनामि** अनमनशीलं परैरनभिभवनीयम् **ओजः** तस्य बलम् **आ** **चके** सर्वतो याचे ॥ बृहस्पतिम् । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरः । चके । कमेर्लिट्युत्तमे मकारलोपश्छान्दसः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adore the pure **Bṛhaspati** at sacrifices with hymns; I solicit of him unsurpassable strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To blazing Br̥haspati give reverence with recitations at the ceremonies— his unbowed power I desire—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) take ā́cake as 3rd sg. (Geldner: “Er liebt unbeugsame Kraft”). This is certainly possible, but Schmidt (Bṛhaspati und Indra, 131) makes good arguments for flg. Sāyaṇa and Grassmann in taking it as 1st sg.; see also Renou (EVP XVI, ad loc.).
 
@@ -103,23 +103,23 @@ Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At sacrifices, with your hymns worship the pure Brhaspati-  
      I pray for power which none may bend-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den lauteren Brihaspati verehret bei den Opfern mit Preisliedern! Er liebt unbeugsame Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehrt den einen Andachtsherrn beim Opferwerk mit Lobgesang, Er liebet ungebeugte Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистому Брихаспати поклоняйтесь  
 Во время обрядов с помощью хвалебных песен.  

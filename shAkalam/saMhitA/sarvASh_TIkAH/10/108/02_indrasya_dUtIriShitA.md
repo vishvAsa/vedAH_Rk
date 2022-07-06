@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रस्य दूती꣡र् इषिता꣡ चरामि  
 मह꣡ इछ꣡न्ती पणयो निधी꣡न् वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡था रसा꣡या अतरम् प꣡यांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ति॒ऽस्कदः॑ । भि॒यसा॑ । तम् । नः॒ । आ॒व॒त् । तथा॑ । र॒सायाः॑ । अ॒त॒र॒म् । पयां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
@@ -118,39 +118,39 @@ popular
 अनया तान् सरमा प्रत्युवाच । हे **पणयः** एतन्नामका असुराः **इन्द्रस्य** **दूतीः** ।  ‘ सुपां सुलुक्' इति प्रथमैकवचनस्य सुश्छान्दसः । अहम् **इषिता** तेनैव प्रेषिता सती **चरामि** । युष्मदीयं स्थानमागच्छामि । किमर्थम् । **वः** युष्मदीयान् युष्मदीये पर्वतेऽधिष्ठापितान् **महः** महतः **निधीन्** बृहस्पतेर्गोनिधीन **इच्छन्ती** कामयमाना सती चरामि । किंच **अतिष्कदः** ॥  ‘ स्कन्दिर्गतिशोषणयोः '। भावे क्विप् । अतिष्कन्दनादतिक्रमणाज्जातेन **भियसा** भयेन **तत्** नदीजलं **नः** । पूजायां बहुवचनम् । माम् **आवत्** अरक्षत् । **तथा** तेन प्रकारेण **रसायाः** नद्याः **पयांसि** उदकानि **अतरं** तीर्णवत्यस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Saramā:] Sent as the messenger of Indra I travel, seeking your great  hidden treasuries, Paṇis.  
 With a fear of leaping across—that helped us!—in that way I crossed the  waters of the Rasā.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I come appointed messenger of Indra, seeking your ample stores of wealth, O Panis.  
      This hath preserved me from the fear of crossing: thus have I made my way o'er Rasa's waters.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I come sent out as messenger by Indra, O Paṇis, searching round for your great treasures. In fear that I should leap across, she helped me: I traversed thus the waters of the Rasā.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Indra´s Botin komme ich abgesandt, eure großen Schätze suchend, ihr Pani´s. Aus Furcht vor dem Überspringen half sie uns dabei. So kam ich durch die Fluten der Rasa.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Gesandt von Indra komm' ich her als Botin, ihr Pani's, fordernd eure grossen Schätze; Das half mir, als mir bangte vor dem Sprunge; so drang ich durch des Weltenstromes Fluten.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я рыщу, посланная как вестница Индры,  
 В поисках ваших несметных сокровищ, о Пани.  

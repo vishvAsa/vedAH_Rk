@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡या रध्र꣡म् पार꣡यथा꣡ति अं꣡हो  
 य꣡या निदो꣡ मुञ्च꣡थ वन्दिता꣡रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡ षु꣡ वाश्रे꣡व सुमति꣡र् जिगातु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒र्वाची॑ । सा । म॒रु॒तः॒ । या । वः॒ । ऊ॒तिः । ओ इति॑ । सु । वा॒श्राऽइ॑व । सु॒ऽम॒तिः । जि॒गा॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
@@ -134,36 +134,36 @@ genre M
 हेमरुतः ययाऊत्यारध्रमाराधकंयजमानंअंहः पापंअतिपारयथ अतिक्रामयथ यया ऊत्या- वन्दितारंस्तोतारन्निदोनिन्दितुः शत्रोः सकाशात् मुञ्चथ मोचयथ हेमरुतः वोयुष्मदीयाया ऊतिः साअर्वाची अस्मदभिमुखाभवतु तथासुमतिर्युष्मदीयाशोभनामतिः अनुग्रहात्मिकाबुद्धिश्चवाश्रे- वहम्भारवङ्कुर्वतीधेनुरिववत्संसुसुष्ठुओजिगातु आगच्छतु एवमस्मान् प्रतिसर्वथाआगच्छत्वित्यर्थः ॥ १५ ॥उपेमितिपञ्चदशर्चन्तृतीयंसूक्तङ्गार्त्समदन्त्रैष्टुभंअपान्नपाद्देवताकं तथाचानुक्रान्तं उपेमपोनत्नीय- मिति सूक्तविनियोगोलैङ्गिकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, may that protection wherewith you convey the worshipper beyond sin, wherewith you rescue the reciter of your praise from the scoffer, be present with us; may your benign disposition tend towards us, like a lowing (cow towards her calf).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That with which you carry the feeble one across difficult straits, with  which you free your celebrant from scorn,  
 that is nearby—that help of yours, o Maruts. May your benevolence  come here like a bellowing (cow).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may your favouring help be turned to us-ward, your kindness like a Iowing cow approach us,  
      Wherewith ye bear your servant over trouble, and free your worshipper from scoff and scorning.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Hilfe, durch die ihr dem Schwachen über die Not helfet, mit der ihr den Lobredner vom Tadel befreit, diese eure Hilfe sei uns zugewandt, ihr Marut. Eure Huld soll fein wie die brüllende Milchkuh kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es sei uns nah, o Marut's, eure Hülfe, mit der vom Feind den Frommen ihr erlöset Und durch Bedrängniss ihr den matten fahret; gleich einer Kuh mög' eure Gunst uns nahen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря чему вы переправляете слабого через узость,  
 Благодаря чему вы спасаете восхвалителя от хулы –  

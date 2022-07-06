@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सोम म꣡धुमत्तमो  
 राये꣡ अर्ष पवि꣡त्र आ꣡  
 म꣡दो यो꣡ देववी꣡तमः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मदः॑ । यः । दे॒व॒ऽवीत॑मः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -85,19 +85,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** ते तव **यः** **मदः** रसः **मधुमत्तमः** अत्यन्तं मधुमान् **देववीतमः** अतिशयेन देवकामश्च तं रसं **राये** अस्माकं धनार्थं **पवित्रे** **प्र** **आ** **अर्ष** धारया क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, pour into the filter to bring us wealth (your juice), which is most sweet-flavoured, exhilarating and most desired by the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, as the most honeyed, rush forth into the filter for wealth, as the exhilarating drink that best pursues the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ No evidence of unity, beyond vājínam (17b), vā́jaṃ (18c), and the vss. are
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, do thou most rich in sweets, a gladdening drink most dear to Gods,  
      Flow to the sieve to bring us wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe weiter, o Soma, du der Süßeste, zu Reichtum auf die Seihe als der göttereinladendste Rauschtrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Reichthum ströme in das Sieb, o Soma, als das süsseste Gebräu, das götterlabendste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

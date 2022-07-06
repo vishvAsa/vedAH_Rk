@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धेन꣡वो मामतेय꣡म् अ꣡वन्तीर्  
 ब्रह्मप्रि꣡यम् पीपयन् स꣡स्मिन् ऊ꣡धन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आसा꣡वि꣡वासन्न् अ꣡दितिम् उरुष्येत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पि॒त्वः । भि॒क्षे॒त॒ । व॒युना॑नि । वि॒द्वान् । आ॒सा । आ॒ऽविवा॑सन् । अदि॑तिम् । उ॒रु॒ष्ये॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 **मामतेयं** ममतायाः पुत्रं दीर्घतमसं मां **ब्रह्मप्रियं** परिवृढस्य कर्मणः प्रियतमं परिवृढस्याग्नेः प्रीणयितारं वा **अवन्तीः** अवन्त्यः प्रीणयन्त्यः ”धेनवः गावः **सस्मिन्** स्वकीये **ऊधन्** ऊधसि **आ** **पीपयन्** सर्वत आप्याययन्तु ॥ प्यायतेर्णिचि छान्दसः पीभावः ॥ ऊधोगतेन क्षीरेण युवाभ्यां प्रदेयेन नोऽस्मान् रक्षन्ति इत्यर्थः। मित्रावरुणाभ्यां पयस्या' (तै.सं.७.५.२२.१) इति श्रुतेः। एवं प्रदत्तहविः **वयुनानि** अनुष्ठानविषयज्ञानानि **विद्वान्** जानन् हुतशेषो भक्षणीय इत्यवगच्छन् दीर्घतमाः **पित्वः** पितोर्हुतशिष्टस्य अन्नस्य तादृगन्नम् **आसा** आस्येन भक्षयितुं **भिक्षेत** याचेत युष्मान् । किंच **विवासन्** युवां परिचरन् **अदितिम्** अखण्डितम् अन्यूनमेतत्कर्म **उरुष्येत्** । यथा शिष्टं भिक्षेत यथा च कर्म समापनेन रक्षेत् तथा अपीपयन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 Be possessed of well-filled udders: To supply appropriate offerings to **Mitra** and **Varuṇa**, who are the products of milk: mitrāvaruṇābhyām payasyeti śruteḥ; let him beg: pitvo bhikṣeta, let him beg of or for food, i.e., for what is not consumed in oblations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aiding the son of Mamatā [=Dīrghatamas], the milk-cows will swell the  one who gives pleasure with formulations [=Agni?] in the same udder. Knowing the ritual patterns he should seek a share of the food. Seeking  to win her with his mouth, he should make broad space for Aditi  
 [/Boundlessness].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The son of Mamatā is, of course, Dīrghatamas, our poet.
 
@@ -143,23 +143,23 @@ In d the literal sense of á-diti- ‘boundless(ness)’ works well with the mai
 For a quite different interpr. of the vs., see JPB’s Ṛgvedic Ādityas, pp. 200-1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the milch-kine who favour Mamateya prosper in this world him who loves devotion.  
      May he, well skilled in rites, be food, and calling Aditi with his lips give us assistance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Milchkühe, die sich des Mamateya annahmen. Sollen den, der die geheime Rede liebt, an demselben Euter satt machen. Um diesen Trank soll nur der bitten, der Bescheid weiß. Wer mit dem Mund die Aditi gewinnen will, möge seine Schuldlosigkeit wahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mamata's Sohn, der Freund der heil'gen Weisheit, hat reich gelabt der Milchkuh volles Euter; Wer Lieder kennt, nur der begehr des Trunkes; setzt der ihn an den Mund, so weicht der Mangel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дойные коровы, помогавшие (некогда) Маматее,  
 У того же вымени насытили любителя священного слова.  

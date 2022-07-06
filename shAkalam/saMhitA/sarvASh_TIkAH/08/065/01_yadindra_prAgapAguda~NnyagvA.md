@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र प्रा꣡ग् अ꣡पाग् उ꣡दङ्  
 नि꣡अग् वा हूय꣡से नृ꣡भिः  
 आ꣡ याहि तू꣡यम् आशु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ । या॒हि॒ । तूय॑म् । आ॒शुऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -93,41 +93,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** त्वं **नृभिः** कर्मनेतृभिरस्मदीयैरध्वर्य्वादिभिः **प्राक्** वा **अपागुदक्** वा **न्यग्वा** यतः कुतश्चित् **हूयसे** अतः **तूयं** तूर्णम् **आशुभिः** आशुगामिभिरश्वैः **आ** **याहि** आगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether you are invoked by us, the leaders of rites, from the east, the west, the norh, or the south,come here quickly with your rapid steeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, Indra, you are being called forward or back, upward or down  by men,  
 drive here straightaway with your swift (horses).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nominative plural pres. part. gā́yantaḥ in c and the 1st singular huvé in d are grammatically incompatible but conceptually harmonious: this is the usual situation where the poet speaks both for himself and for the group of officiants he represents. Geldner takes abc together and supplies a 1st plural verb (rufen wir), while I assume that the huvé of d has domain over the whole verse, with the plural participle in c a grammatical interruption.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOUGH, Indra, thou art called by men from east and west, from north and soutb,  
      Come hither quickly with fleet steeds
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob du, Indra, im Ost, im West, im Nord oder Süd von Männern gerufen wirst, so komm eilends mit deinen Rennern her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, dich in Ost und West, in Nord und Süd der Priester ruft, So komme mit den Rossen schnell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Индра, на востоке, на западе, на севере  
 Или юге ты призываешься мужами,  

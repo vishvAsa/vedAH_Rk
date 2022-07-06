@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदा꣡ह्नः पीति꣡म् उत꣡ वो म꣡दं धुर्  
 न꣡ र्ते꣡ श्रान्त꣡स्य सखिया꣡य देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तृती꣡ये अस्मि꣡न् स꣡वने दधात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । नू॒नम् । अ॒स्मे इति॑ । ऋ॒भ॒वः॒ । वसू॑नि । तृ॒तीये॑ । अ॒स्मिन् । सव॑ने । द॒धा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idāhnaḥ* ← *idā*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 **इदा** इदानीं चमसादिनिर्माणानन्तरम् **अह्नः** सुत्याहसंबन्धिनस्तृतीये सवने **पीतिं** सोमपानम् **उत** अपि च **मदं** तज्जनितं **वः** युष्माकं **धुः** ददुर्देवाः । **श्रान्तस्य** श्रान्तात्तपोयुक्तात् **ऋते** **सख्याय** सखित्वाय **न** भवन्ति **देवाः** । यत एते श्रान्ता अतो ददुरित्यर्थः । हे **ऋभवः** **ते** महान्तो यूयं **नूनं** निश्चयम् **अस्मे** अस्मासु **अस्मिन्** **तृतीये** **सवने** **वसूनि** धनानि **दधात** धारयत ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 Wearied out by penance: ṛte śrāntasya sakhyāya = na sakhitvāya **bhavanti** **devāḥ**, the gods are not through friendship, śrāntāt tapo yuktāt ṛte except one wearied by penance; ete **śrānta** ato saduḥ, they, wearied out, therefore gave
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At this time of the day they have established drink and exhilaration for  you. The gods are not in companionship (with men) except (for their  companionship) with him who has labored in the truth.  
 Now, o R̥bhus, establish good things for us at this Third Pressing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day have they set gladdening drink before you. Not without toil are Gods inclined to friendship.  
      Therefore do ye who are so great, O Rbhus, vouchsafe us treasures at this third libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dieser Zeit des Tages haben sie euch Trank und Berauschung gewährt. Nicht ohne Mühe bekommt man die Götter zu Freunden. So gewähret uns jetzt bei diesem dritten Trankopfer Schätze, ihr Ribhu´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie gaben heut am Tage Trunk und Rausch euch, nicht ohne Mühe wird der Götter Freund man; Darum so gebt uns, o ihr Ribhu's, Güter bei dieser dritten Somaspende heute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В это время дня они установили питье и опьянение для вас.  
 Боги не для дружбы с тем, кто устает трудиться во время обряда.  

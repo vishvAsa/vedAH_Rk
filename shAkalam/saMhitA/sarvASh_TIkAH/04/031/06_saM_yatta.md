@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡त् त इन्द्र मन्य꣡वः  
 सं꣡ चक्रा꣡णि दधन्विरे꣡  
 अ꣡ध त्वे꣡ अ꣡ध सू꣡रिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अध॑ । त्वे इति॑ । अध॑ । सूर्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -90,36 +90,36 @@ genre M
 हे **इन्द्र** **ते** त्वदर्थं **मन्यवः** स्तुतयः **यत्** यदा **सं** **दधन्विरे** अस्माभिरनुमन्यन्ते । **चक्राणि** चङ्क्रमणानि कर्माणि च **सं** दधन्विरे । **अध** तदानीं ताः स्तुतयः तानि कर्माणि च **त्वे** त्वयि भवन्ति । **अध** तदनन्तरं **सूर्ये** च भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “When you praises, and these sacred rites, **Indra**, are addressed to you, they first belong to you and next to **Sūrya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since your battle-frenzies, o Indra, since your chariot-wheels have  converged (here),  
 (I have taken my share) sometimes in (company with) you and sometimes  in (company with) the Sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time thy courage and his wheels together, Indra, run their course  
      With thee and with the Sun alike,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dein Eifer, o Indra, und deine Wagenräder gleichschnell laufen, so habe ich meinen Anteil sowohl an dir, wie an der Sonne bekommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Indra, deines Eifers Drang, und wenn die Räder eilig gehn Bei dir und bei der Sonne auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если твои порывы, о Индра,  
 (И) колеса мчатся вместе,  

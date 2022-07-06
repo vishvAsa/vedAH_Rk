@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡वतस् त ईमह  
 इ꣡न्द्र सुम्न꣡स्य गो꣡मतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡था नी꣡पातिथिं ध꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । प्र । आवः॑ । म॒घ॒ऽव॒न् । मेध्य॑ऽअतिथिम् । यथा॑ । नीप॑ऽअतिथिम् । धने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāvatas* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, neuter
@@ -94,35 +94,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O **Indra**, we long for such a bounty of yours, rich in kine; (help us), **Maghavan**, as you did helpMedhyātithi with wealth, as you did help **Nīpātithi**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beg for such great cattle-bringing benevolence of yours, Indra, as when you helped Medhyātithi, o bounteous one, as when (you  
 helped) Nīpātithi to spoils—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes gómataḥ with te, not sumnásya as I do. This is possible but not necessary, especially since the adjective isn’t exclusively, or even generally, used of beings, and since neuter gómat is found in the following verse (probably modifying an unexpressed word for spoils or the like, though I suppose neut. sumnám might be possible).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um so großer Gunst von dir, dem Rinderbesitzer, bitten wir, Indra, wie du dem Medhyatithi beigestanden hast, o Gabenreicher, wie dem Nipatithi bei dem Schätzeerwerb;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So grosse rinderreiche Gunst begehren, Indra, wir von dir, Wie, mächtiger, dem Medhiatithi du halfst, und dem Nipathiti im Kampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О столь большой милости твоей  
 Мы просим, о Индра, тебя, богатого коровами,  

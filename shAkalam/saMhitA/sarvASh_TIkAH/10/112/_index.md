@@ -8,7 +8,7 @@ title = "+112"
 इन्द्र पिब' इति दशर्चं त्रयोदशं सूक्तं त्रैष्टुभमैन्द्रम् । नभःप्रभेदनो नाम विरूपगोत्र ऋषिः ।। तथा चानुक्रम्यते - इन्द्र पिब नभःप्रभेदनः ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 112 (938)  
 Indra  

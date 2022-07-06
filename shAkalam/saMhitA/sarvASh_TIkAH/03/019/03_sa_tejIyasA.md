@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ते꣡जीयसा म꣡नसा तुवो꣡त  
 उत꣡ शिक्ष सुअपत्य꣡स्य शिक्षोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भूया꣡म ते सुष्टुत꣡यश् च व꣡स्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । रा॒यः । नृऽत॑मस्य । प्रऽभू॑तौ । भू॒याम॑ । ते॒ । सु॒ऽस्तु॒तयः॑ । च॒ । वस्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -137,26 +137,26 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who isprotected, **Agni**, by you, becomes endowed with a most luminous mind; bestow upon him excellent progeny; may we ever be under the power of you who is the willing dispenser of riches; glorifying you (may we be) the receptacles of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He (provides it) with very sharp thought when helped by you, and so  strive for good descendants for him who strives.  
 Agni, may we and our good praises be in an excess of wealth filled with  the best of men, (an excess) of the good.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of keenest spirit is the man thou aidest give us good offspring, thou who givest freely.  
      In power of wealth most rich in men. O Agni, of thee, the Good, may we sing forth fair praises.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Whoever is favoured by thee, is blessed with the sharpest spirit. Favour him with good offspring, O god rich in favours 1! Agni, may we, (dwelling) in the copiousness of manliest wealth, be rich in perfect praise of thee, the Vasu.
 </details>
@@ -170,17 +170,17 @@ O Agni, may we enjoy wealth richest in heroes;
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der tut es mit schärferem Geist, der von dir unterstützt wird. Bemühe auch du dich für den, der sich bemüht um Reichtum an guten Kindern! Agni! Wir möchten in der Fülle des männertüchtigsten Schatzes und als deine Lobsänger in der Fülle des Guts sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wen du begünstigst, der wird schärfern Geistes, und du, o Spender, spend' ihm Kinderreichthum; Wir seien im Besitz des reichsten Schatzes, von dir, o Agni, anerkannt, dem guten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Острее мыслью тот, кто поддержан тобой.  
 Порадей также (о богатстве) из прекрасного потомства для радеющего (о тебе).  

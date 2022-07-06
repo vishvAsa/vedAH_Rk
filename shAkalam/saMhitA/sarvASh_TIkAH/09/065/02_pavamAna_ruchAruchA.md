@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान रुचा꣡-रुचा  
 देवो꣡ देवे꣡भियस् प꣡रि  
 वि꣡श्वा व꣡सूनि आ꣡ विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वा॑ । वसू॑नि । आ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -82,19 +82,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** दशापवित्रेण पूयमान यद्वा पुनान शुद्ध सोम **रुचारुचा**। ‘रुच दीप्तौ । सर्वेण तेजसा **देवः** दीप्यमानस्त्वं **देवेभ्यः** **परि** देवेभ्यः सकाशात् **विश्वा** व्याप्तानि सर्वाणि बहूनि **वसूनि** धनानि अस्माकम् **आ** **विश** प्रापय । यद्वा। देवेभ्यस्तदर्थं सर्वाणि वसूनि निवासस्थानानि ग्रहादीनि आ विश समन्तात् प्रविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Filtered **Soma**, who with reiterated radiance shine in the presence of the gods, obtain all boons (for us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying one, with light after light, as god from among the gods, enter all good things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The āmreḍita rucā́-rucā evokes the single instr. rucā́at the end of the preceding hymn, IX.64.28 (also vs. 13 of the same hymn and vs. 27 of this one).
 
@@ -113,23 +113,23 @@ pávamāna- and 3 also the impv. ā́… pavasva, but esp. in this hymn, the app
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pervade, O Pavamana, all our treasures with repeated light,  
      God, coming hither from the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit immer neuem Glaste dich läuternd, du der Gott über allen Göttern, geh in alle guten Formen ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O flammender, mit stetem Glanz, ein Gott du, von den Göttern her, In alle Güter dringe ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

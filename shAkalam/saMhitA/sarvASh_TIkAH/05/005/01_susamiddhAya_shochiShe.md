@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सु꣡समिद्धाय शोचि꣡षे  
 घृतं꣡ तीव्रं꣡ जुहोतन  
 अग्न꣡ये जात꣡वेदसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्नये॑ । जा॒तऽवे॑दसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *susamiddhāya* ← *su*
 - \[adverb\]
@@ -73,7 +73,7 @@ genre M
 **सुसमिद्धाय** सुष्ठु समिद्धायैतन्नामकायाग्नये **शोचिषे** दीप्तिमते **घृतम्** आज्यं **तीव्रं** प्रभूतं **जुहोतन** हे ऋत्विजः **अग्नये** अङ्गनादिगुणयुक्ताय **जातवेदसे** जातधनाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,34 +84,34 @@ genre M
 Susamiddha, an epithet of Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the well-kindled flame offer sharp ghee,  
 to Agni Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Agni, Jatavedas, to the flame, the well-enkindled God,  
      Offer thick sacrificial oil.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sacrifice sharp ghrita to the well-kindled light, to Agni Gâtavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wohlentzündeten Feuersglut opfert das scharfwirkende Schmalz, dem Agni Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Licht, dem hellentzündeten, dem Wesenkenner Agni giesst Die kräft'ge Opferbutter zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекраснозажженному  
 пламени  

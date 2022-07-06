@@ -8,7 +8,7 @@ title = "+161"
 ‘ किमु श्रेष्ठः' इति चतुर्दशर्चं पञ्चमं सूक्तं दैर्घतमसमार्भवम् । अन्त्या त्रिष्टुप् शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । अनुक्रान्तं च - किमु श्रेष्ठः षळूनार्भवं त्रिष्टुबन्तम्' इति । व्यूळ्हे दशरात्रे षष्ठेऽहनि वैश्वदेवशस्त्रे आर्भवं निविद्धानं द्वि प्रतीकम् । तत्र 'किमु श्रेष्ठः' इत्येतदन्त्यवर्जं प्रतीकम् ।  ‘ व्यूळ्हश्चेत्' इति खण्डे सूत्रितं - किमु श्रेष्ठ उप नो वाजा इति त्रयोदशार्भवं चतस्रश्च' (आश्व. श्रौ. ८. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 161  
 R̥bhus  
@@ -28,7 +28,7 @@ The last sequence of verses, 11–14, probably describes the ascent of the R̥bh
 resent the summer pasturage, and “the waters in the valleys” the winter pasturage.  In verse 13 the identification of the goat and the dog as the sun and moon is doubt ful. It assumes that the bastá “goat” is ajá ekapád, “the one-footed goat,” which  elsewhere is the Sun. The identification of the moon as “the dog” follows Śatapatha  Brāhmaṇa XI.1.5.1, in which the moon is called the heavenly dog. In the last verse,  the gods move throughout the visible world seeking the R̥bhus, but perhaps they do  not find them because they have gone from the visible world.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ribhu`s:
 </details>

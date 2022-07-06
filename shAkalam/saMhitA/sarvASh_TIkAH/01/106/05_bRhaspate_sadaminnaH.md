@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्पते स꣡दम् इ꣡न् नः सुगं꣡ कृधि  
 शं꣡ यो꣡र् य꣡त् ते म꣡नुर्हितं त꣡द् ईमहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मान् नो अं꣡हसो नि꣡ष् पिपर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रथ॑म् । न । दुः॒ऽगात् । व॒स॒वः॒ । सु॒ऽदा॒नवः॒ । विश्व॑स्मात् । नः॒ । अंह॑सः । निः । पि॒प॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
@@ -147,7 +147,7 @@ genre M;; repeated line
 **बृहस्पते** **सदमित्** सदैव **नः** अस्माकं **सुगम्** सुखनामैतत् । सुखं **कृधि** कुरु । अपि च **ते** तव स्वभूतं **शं** शमनीयानां रोगाणामुपशमनं **योः** पृथक्कर्तव्यानां भयानां यावनं पृथक्करणं **मनुर्हितं** मनुना ब्रह्मणा हितं त्वय्यवस्थापितम् । यद्वा । मनुष्याणामनुकूलम् । एवंविधं शमनं यावनं च **यत्** अस्ति **तदीमहे** याचामहे ॥ सुगम् । सुष्ठु गम्यतेऽस्मिन्निति सुगम् । सुदुरोरधिकरणे ' इति गमेर्डः । शं योः इत्येतत् पदद्वयं यास्केनैवं व्याख्यातं - ‘ शमनं च रोगाणां यावनं च भयानाम् ' (निरु. ४. २१ ) इति । मनुर्हितम् । मनेरौणादिक उसिन्प्रत्ययः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,36 +158,36 @@ genre M;; repeated line
 Śam yor at te manurhitam = implanted in you by Manu: the good or blessing of those two (things, or properties, i.e. alleviating pain and obviating peril) plural ced in them by Manu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Br̥haspati, make easy passage for us always. The luck and lifetime of  yours that was set in place by Manu—that we beg for.  
 – Like a chariot from a hard place, o good ones of good gifts, rescue us  from all narrow straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) take the 1st member of mánurhita- as functionally a dative (“für Manu bestimmt.” Although this fits smoothly into the passage, I think it likely that the standard agentive reading of 1st members of ppl. compounds should stand here.
 
 Geldner cites I.114.2 as parallel -- yác cháṃ ca yóś ca mánur āyejé -- but that passage states that it was Manu who won the luck and lifetime by sacrifice. In other words he was the agent, as he would be here in this compound.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaspati, make us evermore an easy path: we crave what boon thou hast for men in rest and stir.  
      Like as a chariot from a difficult ravine, bountiful Vasus, rescue us from all distress.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati, schaff uns immerdar gute Bahn! Das Glück und Heil, das du für Manus bestimmt hast, darum bitten wir. - Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati, verschaffe stets uns schöne Bahn; das Heil und Glück, was Menschen fördert, wünschen wir; Wie einen Wagen führet aus der Enge uns aus aller Noth, o gabenreiche, gute ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брихаспати, всегда создавай нам легкий выход!  
 Счастье и благо, что ты установил для Ману, – об этом мы просили (тебя),  

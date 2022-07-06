@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡क्षद् धो꣡ता प꣡रि स꣡द्म मिता꣡ य꣡न्  
 भ꣡रद् ग꣡र्भम् आ꣡ शर꣡दः पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡र् दूतो꣡ न꣡ रो꣡दसी चरद् वा꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क्रन्द॑त् । अश्वः॑ । नय॑मानः । रु॒वत् । गौः । अ॒न्तः । दू॒तः । न । रोद॑सी॒ इति॑ । च॒र॒त् । वाक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakṣaddhotā* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
@@ -138,7 +138,7 @@ genre M
 **होता** होमनिष्पादकोऽयमग्निः **मिता** परिमिता **सद्म** सदनानि गार्हपत्यादिस्थानानि **परि** **यन्** परितो गच्छन् **नक्षत्** व्याप्नोति । व्याप्य च **शरदः** संवत्सरसंबन्धिनं **पृथिव्याः** भूम्याश्च संबन्धिनं **गर्भं** गर्भस्थानीयमन्नं हविर्लक्षणम् **आ** **भरत्** आहरति स्वीकरोति । संभरति वा । संवत्सरपर्यन्तं वर्धितं भूम्यामुत्पन्नमित्यर्थः । यद्वा । संवत्सरसंबन्धिनं वसन्तादिकाले ज्योतिष्टोमादिषु दीयमानं पार्थिवं हविर्भरत् । वसन्ते वसन्ते ज्योतिषा यजेत' इति श्रुतेः । तथा कृत्वा **क्रन्ददश्वः** । लुप्तोपममेतत् । अश्व इव क्रन्दति हर्षातिशयात् । किं कुर्वन् । **नयमानः** नयन्निन्द्राय हविर्भारम् । किंच **गौः** गन्ता उद्वृत्तो वृष इव **रुवत्** रौति शब्दायते । किं कुर्वन् । **दूतो** **न** वार्ताहरो दूत इव **रोदसी** रोदस्योर्द्यवापृथिव्योः **अन्तः** मध्ये रोदस्योरन्तरा **वाक्** स्तूयमानः स्तुवन् वा देवान् **चरत्** चरति गच्छति । हविःस्वीकाराय पृथिवीं तत्प्रापणाय द्युलोकं च परिभ्रमतीत्यर्थः ॥ वक्तेः कर्तरि कर्मणि वा ' क्विब्वचि० ' इत्यादिना क्विब्दीर्घौ संप्रसारणाभावश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,14 +149,14 @@ genre M
 As a horse neighs: the simile may illustrate the roaring of the sacrificial fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Hotar approaches, circling around the fixed seats (of the sacrificial  beasts). He bears the embryo of the earth through the years.  
 The horse neighs while being led; the cow bellows. Speech wanders  
 between the two worlds like a messenger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner hints (n. 3a), the first pāda depicts the paryagnikaraṇa, a ritual episode that involves carrying a firebrand around various objects. In the animal sacrifice the objects include the animals to be sacrificed. On the basis of passages like IX.97.1cd (… páry eti …mitéva sádma paśumā́nti hótā “as the Hotar goes around the fixed seats provided with [sacrificial] animals”), the fixed seats are the places where the sacrificial animals are tied. The fixed seats here (sádma mitā́) must be the same things, and the circling around is conveyed by pári … yán, which rather nicely encircles the seats in the word order.
 
@@ -177,23 +177,23 @@ The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such v
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Priest come circling the measured stations, and with him bring the earth's autumnal fruitage.  
      Let the Horse neigh led near, let the Steer bellow: let the Voice go between both worlds as herald,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es kommt der Hotri, die errichteten Feuerstätten umwandelnd; er bringt die herbstliche Frucht der Erde dar. Das Roß wiehert, während es geführt wird; es brüllt die Kuh. Wie ein Bote wandelt die Rede zwischen beiden Welthälften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er komm umwandernd die gestellten Sitze und bring' als Frucht der Erde reiche Herbste; Es brüllt der Stier, der Hengst beim Fahren wiehert, als Bote dring' sein Ton zu beiden Welten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть появится хотар, обходя вокруг воздвигнутых (жертвенных) сидений!  
 Пусть принесет он осенний плод земли!  

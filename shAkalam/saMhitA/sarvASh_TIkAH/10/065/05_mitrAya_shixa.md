@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रा꣡य शिक्ष व꣡रुणाय दाशु꣡षे  
 या꣡ सम्रा꣡जा म꣡नसा न꣡ प्रयु꣡छतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡योर् उभे꣡ रो꣡दसी ना꣡धसी वृ꣡तौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ययोः॑ । धाम॑ । धर्म॑णा । रोच॑ते । बृ॒हत् । ययोः॑ । उ॒भे इति॑ । रोद॑सी॒ इति॑ । नाध॑सी॒ इति॑ । वृतौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **दाशुषे** धनानि स्तोतृभ्यः प्रयच्छते **मित्राय** **वरुणाय** च **शिक्ष** हवींषि प्रयच्छ । शिक्षतिर्दानकर्मा । **सम्राजा** सम्राजौ सर्वस्य **या** यौ मित्रावरुणौ **मनसा** अन्तःकरणेनापि **न** **प्रयुच्छतः** न प्रमाद्यतः किमुत बाह्येन व्यापारेण ।  ‘ युच्छ प्रमादे '। भौवादिकः । **ययोः** मित्रावरुणयोः **बृहत्** महत् **धाम** शरीरं **धर्मणा** आत्मीयेन लोकप्रकाशनादिलक्षणेन कर्मणा **रोचते** सम्यग्दीप्यते । **ययोः** च नाधसी । णाधृ याच्ञोपतापैश्वर्याशीःषु '। याचमाने **उभे** **रोदसी** द्यावापृथिव्यौ **वृतौ** वर्तमाने भवतः । यद्वा । नाधसी देवमनुष्यैः समृद्धे द्यावापृथिव्यौ तयोर्वृतौ वर्तमाने भवतः । तदधीने भवत इत्यर्थः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Their functions: of illuminating the world; two solicitous worlds: nādhasi = solicitous; or,abounding in gods and men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Try your utmost for Mitra and for Varuṇa who does ritual service, the  two sovereign kings who do not stay distant in their thought,  
 whose lofty domain shines by reason of their ordinance, for whom the  two world-halves are two opposing troops in need of help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring gifts to Mitra and to Varuna who, Lords of all, in spirit never fail the worshipper,  
      Whose statute shines on high through everlasting Law, whose places of sure refuge are the heavens and earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mache es Mitra und Varuna recht, den beiden Allkönigen, die gegen den Spender im Geiste nie gleichgültig werden, deren hohe Schöpfung nach ihrer Bestimmung strahlt, denen die beiden Welten Schutztruppe und Gefolge sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Mitra spende und dem treuen Varuna, den Herrschern, die mit ihrem Geist nicht ferne sind, Sie, deren Stätte durch Gerechtigkeit erglänzt, und denen Erd' und Himmel Hülfe flehend nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

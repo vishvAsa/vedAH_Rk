@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बि꣡भ्रद् द्रापिं꣡ हिरण्य꣡यं  
 व꣡रुणो वस्त निर्णि꣡जम्  
 प꣡रि स्प꣡शो नि꣡ षेदिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 परि॑ । स्पशः॑ । नि । से॒दि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bibhrad* ← *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
@@ -82,7 +82,7 @@ genre M
 **हिरण्ययं** सुवर्णमयं **द्रापिं** कवचं **बिभ्रत्** धारयन् **वरुणः** **निर्णिजं** पुष्टं स्वशरीरं **वस्त** आच्छादयति । **स्पशः** हिरण्यस्पर्शिनो रश्मयः **परि** **नि** **षेदिरे** सर्वतो निषण्णाः॥ बिभ्रत् । बिभर्तेः शतरि ‘नाभ्यस्ताच्छतुः ' ( पा. सू. ७. १. ७८ ) इति नुमभावः । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । द्रापिम् । द्रा कुत्सायां गतौ । द्रापयति इषून् कुत्सितां गतिं प्रापयतीति द्रापिः कवचम् । ‘अर्तिही '( पा. सू. ७. ३. ३६) इत्यादिना षुगागमः । औणादिके इप्रत्यये णिलोपः। हिरण्ययम् । ‘ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि च्छन्दसि ' ( पा. सू. ६. ४. १७५) इति हिरण्यशब्दात् विकारार्थे विहितस्य मयटो मशब्दलोपो निपातितः । वस्त । वस आच्छादने । लङि अदादित्वात् शपो लुक् । पूर्ववत् अडभावः । निर्णिजम् । ‘णिजिर् शौचपोषणयोः' । स्पशः । ‘स्पश बाधनस्पर्शनयोः'। ‘क्विप् च' इति क्विप् । नि षेदिरे । **षद्लृ** विशरणगत्यवसादनेषु'। अस्मात् गत्यर्थात् कर्मणि लिटि एत्वाभ्यासलोपौ ।' सदिरप्रतेः' इति षत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M
 Bibhad drāpim hiraṇyayam = suvarṇamayam kavacam, armour or mail made of gold; an apparent allusion to Varuṇa as an image
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wearing a golden mantle, Varuṇa dons his cloak.  
 His spies have seated themselves all around.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna, wearing golden mail, hath clad him in a shining robe.  
      His spies are seated found about.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein goldenes Gewand trägt Varuna und legt ein Prachtkleid an. Rings herum sitzen seine Späher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit goldnem Mantel angethan hüllt er sich in sein Prachtgewand, Und Späher sitzen um ihn her,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нося золотой покров,  
 Варуна одет в праздничный наряд.  

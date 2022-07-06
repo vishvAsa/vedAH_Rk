@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवः꣡ प꣡रेण पित꣡रं यो꣡ अस्य  
 अनुवे꣡द पर꣡ एना꣡वरेण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देव꣡म् म꣡नः कु꣡तो अ꣡धि प्र꣡जातम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 क॒वि॒ऽयमा॑नः । कः । इ॒ह । प्र । वो॒च॒त् । दे॒वम् । मनः॑ । कुतः॑ । अधि॑ । प्रऽजा॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avaḥ* ← *avas*
 - \[adverb\]
@@ -125,36 +125,36 @@ popular
 **अवः** अवस्तात् स्थितम् **अस्य** **पितरम्** एतल्लोकपालकम् अग्निं **परेण** आदित्येन सह **यः** **अनुवेद** अनुक्रमेण जानाति तथा **परः** परस्तात् स्थितम् आदित्यम् अस्य पितरं पालकम् । सोऽपि इममेव लोकं वृष्टयादिना पालयति । तादृशमादित्यम् **एना** अनेन **अवरेण** अग्निना सह यः अनुवेद अग्न्यादित्यौ व्यतिहारेण उपास्ते । यद्वा । अभिभूतरजस्तमस्कौ उद्बुद्धसत्त्वौ अत एव स्वाधीनमायौ एतौ एकत्वेन वा अधिगच्छति । स तादृशः पुरुषः **कवीयमानः** कविवदाचरन् क्रान्तदर्शित्वम् आत्मनः ख्यापयन् **क** **इह** अस्मिँल्लोके **प्र** **वोचत्** प्रब्रवीति । किंच **देवं** द्योतमानं देवविषयम् ‘ अलौकिकं वा **मनः** **कुतः** कस्मात् अदृष्टविशेषात् **अधि** आधिक्येन **प्रजातम्** उत्पन्नम्। उभयमपि दुर्लभमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who knows the protector of this (world) as the inferior associated with the superior, and the superior associated with the inferior, he is, as it were, a sage; but who in this world can expound (it); whence is the divine mind in its supremacy engendereḍ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Below the upper (realm), above the lower here is he [=the Sun] who  knows his father.  
 Showing himself to be a poet, who will proclaim this here: from whence  has divine thought been born?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, that the father of this Calf discerneth beneath the upper realm, above the lower,  
      Showing himself a sage, may here declare it? Whence hath the Godlike spirit had its rising?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer, der den Vater dieses Kalbes unterhalb des jenseitigen Raumes, jenseits dieses unteren kennt, kann es hier verkünden, als Seher sich erweisend, woher der göttliche Geist entsprungen ist?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dieses Kalbes Vater unter dem höheren Raume über diesem niederen recht erkennt, als weisester, wer mag es uns hier verkünden? von wo ist der göttliche Urgeist entsprungen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, постигнув его отца  
 Ниже дальнего (пространства), дальше этого нижнего,  

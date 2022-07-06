@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नस्प꣡तिर् अवसृज꣡न्न् उ꣡प स्थाद्  
 अग्नि꣡र् हविः꣡ सूदयाति प्र꣡ धीभिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवे꣡भ्यो दइ꣡व्यः शमितो꣡प हव्य꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्रिधा॑ । सम्ऽअ॑क्तम् । न॒य॒तु॒ । प्र॒ऽजा॒नन् । दे॒वेभ्यः॑ । दैव्यः॑ । श॒मि॒ता । उप॑ । ह॒व्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanaspatir* ← *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 वनस्पतिःयूपाभिमानीएतन्नामकोग्निः अवसृजन् अस्मदीयङ्कर्मानुजानन् उपास्मत्समीपे स्थात् तिष्ठतु अग्निःपाकाधारोग्नि श्चहविःपशुरूपन्धीभिःकर्मविशेषैः पाकसाधनैः प्रप्रकर्षेणसूदयातिक्षारयति अपाकाधिकपाकादिराहित्येनहविः पचतीत्यर्थः किञ्च दैव्योदेवसम्बन्धीआहुत्यधिकरणभूतोग्निःशमि- ताहविषः संस्कर्ता यद्वा दैव्यः शमिताएतन्नामकोग्निः अग्निर्वैदेवानांशमितेतिश्रूयते । त्रिधा त्रिप्रकारं- उपस्तरणावदानाभिघारणैः समक्तंसम्यक् सिक्तंहव्यंहविः प्रजानन् विद्वान् नयनप्रकाराभिज्ञःसन् देवेभ्यौपनयतु समीपम्प्रपयतु ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 By his especial acts: agnir-**haviḥ** sūdayāti pra dhībhiḥ =Agni, who is the supporter, or the instrumental ument of cooking or maturing fitly, cooks the oblation of the nature of the victim with various acts, which are the means of cooking; he dresses the oblation, not under-dressing nor over-dressing it: **agniḥ** pākadharo haviḥ paśurūpam karmaviṣeśaiḥ pākasādhanaiḥ prakarṣeṇa sūdayāti kṣārayati apākādhikapādirāhityena haviḥ pacati; the divine immolator: **daivyaḥ** **śamitā**: śamitā = the person n who kills the victim; Agni is the immolator of the gods: devānām śamitā; thice consecrated: **tridhā** samaktam = thrice anointed or sprinkled; the three rites or ceremonies are termed: upastaraṇa, **avadāna**, abhighāraṇa
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Lord of the Forest [=sacrificial post] stands by on releasing (the  victim). Agni will sweeten the oblation with his poetic thoughts.  
 Let him who knows (the way) lead the thrice-anointed one—(let) the  divine Butcher (lead) the oblation up to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vanaspati shall stand anear and start us, and Agni with his arts prepare oblation.  
      Let the skilled heavenly Immolator forward unto the Gods the offering thrice anointed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 May the tree (i. e. the sacrificial post) stand by, letting loose (the offering which goes to the gods). May Agni make the offering ready in consequence of our prayers. May the prescient divine butcher carry the thrice-anointed offering to the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Baum soll dabei stehen, der das Tier freigibt. Agni möge mit Verständnis die Opfergabe gar machen. Der göttliche Zurichter soll des Weges kundig die dreifach besalbte Opfergabe den Göttern zuführen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Pfosten stehe, Opfertrank ergiessend, den Guss verschöne Agni durch Gebete; Dreimal gesalbtes Opfer führe kundig den Göttern zu der göttliche Besorger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть присутствует  
 дерево  

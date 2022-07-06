@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वासां त्वा विशा꣡म् प꣡तिं हवामहे  
 स꣡र्वासां᳐ समानं꣡ द꣡म्पतिम् भुजे꣡  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 हव्या꣡ देवे꣡षु आ꣡ व꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अ॒मी इति॑ । च॒ । विश्वे॑ । अ॒मृता॑सः । आ । वयः॑ । ह॒व्या । दे॒वेषु॑ । आ । वयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
@@ -174,21 +174,21 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **विश्वासां** सर्वासां **विशां** प्रजानां यजमानानां **पतिम्** अभिमतफलदानेन पालकं **हवामहे** आह्वयामः । न केवलं यजमानानां किंतु **सर्वासां** प्रजानां **समानम्** एकरूपं दहनपचनाद्युपकारस्य सर्वेषां समत्वात् । तथा **दम्पतिं** गार्हपत्यादिरूपेण गृहस्य पालकम् । दम इति गृहनाम, ‘दमे कृत्तिः । (नि. ३. ४. १२) इति तन्नामसु पाठात् ॥ अकारलोपश्छान्दसः ॥ किमर्थम् । **भुजे** भोगाय हवामहे आह्वयामः । पुनः स एव विशेष्यते । **सत्यगिर्वाहसं** यथार्थभूतानाम् अविसंवादिफलानां स्तुतिरूपाणां गिरां वोढारम् । यद्वा । गिरो मन्त्ररूपा वहन्तीति गिर्वाहसः ऋत्विजः । सत्याः अविसंवादिफला गिर्वाहसो यस्य तं तादृशं हवामहे इति शेषः ॥ ‘ वहिहाधाञ्भ्यः' इति असुन् । ‘ णित् ' इत्यनुवृत्तेः उपधावृद्धिः ॥ पुनः कीदृशम् । **मानुषाणां** मनुष्याणाम् **अतिथिम्** अतिथिवत्पूज्यं दर्शादितिथिमपेक्ष्य आगन्तारं वा । किंच **यस्य** अग्नेः **आसया** समीपे । आसेत्यन्तिकनाम, ‘ आसा अम्बरम् ' ( नि. २. १६. २ ) इति तन्नामसु पाठात् । तत्समीपे **अमी** **विश्वे** **अमृतासः** हविर्भोक्तृत्वेन प्रसिद्धा: सर्वे देवा अपि **आ** आगच्छन्ति ॥ उपसर्गवशात् योग्यक्रियाध्याहारः ॥ किमर्थम् । **वयः** हविर्लक्षणान्नमुद्दिश्य अग्निमुखात् एव इतरेभ्यो दीयमानत्वात् । तत्र दृष्टान्तः । **पितुर्न** पितुरन्तिके पुत्रादयो यथा अन्नाद्यर्थं सेवन्ते तद्वत् । किंच **वयः** नेतारः ऋत्विजोऽपि **देवेषु** इतरेषु इज्यमानेषु मध्ये **हव्या** हवींषि  **आ** ददति अग्नये । वेतेरौणादिको डिः । विचि वा गुणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, the protector of all people, the same alike to all, the preserver of the house, to enjoy (the oblation); you, who are the wafter of our infallible prayer, to enjoy (the oblation); we invoke you, who are the guest of men, to whom all these immortals apply for their sustenance, as (a son) to a father; you, to whom the priests offer oblations amongst the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We invoke you, lord of all the clans, houselord common to every one  of them, for benefit—you with your trusty vehicle of songs, for  benefit—  
 the guest of the sons of Manu, by whose mouth, as if by a father’s, (we) and all the immortals yonder (acquire) vigor—(place) the  
 oblations and vigor among the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse begins straightforwardly enough but its syntax deteriorates (or gets more convoluted) towards the end.
 
@@ -207,29 +207,29 @@ in this collocation (including the instr.) see II.23.10 tváyā vayám uttamá�
 The trick of this tag-pāda then is that the final ā́váyaḥ is twice the object of an unexpressed form of the root √dhā, but with two different valences. Unusually for tag-pādas, g is not syntactically parallel to f.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee we invoke, the Lord of all our settled homes, common to all, the household's guardian, to enjoy, bearer of true hymns, to enjoy.  
      Thee we invoke, the guest of men, by whose mouth, even as a sire's,  
      All these Immortals come to gain their food of life, oblations come to Gods as food.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We invoke thee, the lord of all people, the common master of the house of all, to enjoy (the sacrifice): (we call) thee who truly art carried by prayers as by a vehicle 1 to enjoy (the sacrifice): the guest of men in whose presence (they live) as before a father's (face), and all those immortals (attain) to strength, and the offerings among the gods (attain) to strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich den Herren aller Stämme rufen wir an, den gemeinsamen Gebieter aller Stämme uns zu Nutz, ihn den wahrhafte Reden anziehen, zu Nutz, den Gast der Menschen, durch dessen Mund wie durch den eines Vaters, auch alle jene Unsterblichen ihre Stärkung empfangen und die Opfer als Stärkung zu den Göttern gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rufen wir, den Herren aller Stämme, her, den einen Hausherrn aller Stämme zum Genuss, den Liederherren zum Genuss, Der du der Gast der Menschen bist, und vor uns wie ein Vater stehst; Es mögen alle jene Götter kommen her zum Mahl, und Tränke zu dem Göttermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы призываем тебя, господина всех племен,  
 Хозяина общего дома всех (племен) – для наслаждения.  

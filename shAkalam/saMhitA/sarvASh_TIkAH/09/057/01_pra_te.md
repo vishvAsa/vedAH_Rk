@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते धा꣡रा असश्च꣡तो  
 दिवो꣡ न꣡ यन्ति वृष्ट꣡यः  
 अ꣡छा वा꣡जं सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अच्छ॑ । वाज॑म् । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -83,41 +83,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव **असश्चतः** सङ्गरहिताः **धाराः** **सहस्रिणम्** अपरिमितसंख्याकं **वाजम्** अन्नम् **अच्छ** अस्मदर्थं **प्र** **यन्ति** प्रगच्छन्ति । तत्र दृष्टान्तः । **दिवो** **न** **वृष्टयः** । यथा द्युलोकात् वर्षधारा निःसङ्गाः प्रजानामपरिमितमन्नं प्रयच्छन्ति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your unconnected streams advance towards infinite food (for us) like the showers from heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your streams go forth inexhaustible, like rains from heaven,  
 to the thousandfold prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the similarity of this vs. to IX.56.2 in the preceding hymn, see comm. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THY streams that never fail or waste flow forth like showers of rain from heaven,  
      To bring a thousand stores of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Ströme gehen unversieglich wie des Himmels Regenströme weiter nach dem tausendzählenden Siegerpreis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es eilen deine Ströme vor wie Himmels Regen flutenreich Zu tausendfacher Labung her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои потоки, не иссякая, продвигаются  
 Вперед, словно капли дождя с неба,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् त्वा मन्दन्तु स्तो꣡माः  
 कृणुष्व꣡ रा꣡धो अद्रिवः  
 अ꣡व ब्रह्मद्वि꣡षो जहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अव॑ । ब्र॒ह्म॒ऽद्विषः॑ । ज॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -93,35 +93,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **त्वा** त्वां **स्तोमाः** स्तुतयः **उत्** उत्कृष्टं **मन्दन्तु** मादयन्तु । **कृणुष्व** कुरु **राधः** अन्नं हे **अद्रिवः** वज्रवन्निन्द्र अस्मभ्यम् । किंच **ब्रह्मद्विषः** ब्राह्मणद्वेष्टॄन् **अव** **जहि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our praises exhilarate you, thunderer, make food for us, destroy the haters of the **brāhmaṇas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the praises whip you up. Show your generosity, o master of the stones. Strike down the haters of sacred formulations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY our hymns give thee great delight. Display thy bounty, Thunderer.  
      Drive off the enemies of prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich sollen die Lobgesänge aufheitern; übe Freigebigkeit, Herr des Preßsteins, schlag die Feinde des Segenswortes nieder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Lieder mögen dich erfreun; erweise Huld, o Schleuderer, Die Andachthasser schlage fort,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть обрадуют тебя восхваления!  
 Прояви щедрость, о хозяин давильных камней!  

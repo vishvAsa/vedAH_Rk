@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ ता꣡सां दिविय꣡स्य प्रशा꣡सने  
 विशां꣡ क्षयथो अमृ꣡तस्य मज्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । धे॒नुम् । अ॒स्व॑म् । पिन्व॑थः । न॒रा॒ । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -130,7 +130,7 @@ genre M;; repeated line
 हे **नरा** नेतारावश्विनौ **दिव्यस्य** दिवि भवस्य स्वर्गसमुत्पन्नस्य **अमृतस्य** सोमस्य पानेनोत्पन्नेन **मज्मना** बलेन युक्तौ **युवं** युवां **तासां** यास्त्रिषु लोकेषु वर्तन्ते तासां सर्वासां **विशां** प्रजानां प्रशासने प्रकृष्टानुशासने शिक्षणे **क्षयथः** । ऐश्वर्यकर्मायम् । ईशाथे समर्थौ भवथः । यद्वा । मज्मना अन्येषामसाधारणेन बलेन विशां प्रजानां दिविभवस्यामृतस्य वृष्ट्युदकस्य **प्रशासने** प्रदाने क्षयथः ईश्वरौ भवथः । अपि च **याभिः** **ऊतिभिः** रक्षाभिः **अस्वं** प्रसवासमर्थां **धेनुं** गां शयुनाम्ने ऋषये **पिन्वथः** सिञ्चथः पयसा पूरितवन्तावित्यर्थः । ताभिरूतिभिरित्यादि पूर्ववत् ॥ अस्वम् ।' पूङ् प्राणिगर्भविमोचने '। सवनं सूः । संपदादिलक्षणो भावे क्विप् । नास्ति सूः यस्याम् इति असूः । ‘नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । अमि ‘ओः सुपि ' इति यणादेशः । उदात्तस्वरितयोर्यण: ' इति परस्यानुदात्तस्य स्वरितत्वम् । पिन्वथः । पिवि सेचने '। इदित्त्वात् नुम् । भौवादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,34 +141,34 @@ genre M;; repeated line
 Legend: To the cow of a ṛṣi, named **Śayu**, to which, although barren, the Aśvins, at his entreaty, gave abundance of milk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two rule over these clans at the command of the divine, through the  might of the immortal.  
 Those with which you swell the uncalved cow, you superior men—with  those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase divyásya praśā́sane can be read in (at least) two different ways: either the Aśvins are “in command” of the divine (that is, they command the divine) or “at the command” of the divine (that is, the divine gives them the command). I follow Geldner in taking it as the latter; he cleverly suggests that this shows the Aśvins in their proper position between gods and men -- in other words, they are middle management.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye by the might which heavenly nectar giveth you are in supreme dominion Lords of all these folk.  
      Come hither unto us, O Asvins, with those aids wherewith ye, Heroes, made the barren cow give milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt auf Geheiß des himmlischen Geschlechts über diese Stämme die Macht kraft eures Lebensbalsams. Mit denen ihr die unfruchtbare Kuh milchreich macht, ihr Herren, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Herrscherkraft beherrschet diese Stämme ihr im Machtgebiet des himmlischen Unsterblichen; Mit solchen Hülfen kommt, o Ritter, schnell herbei, durch die die unfruchtbare Kuh ihr schwellen lasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При осуществлении божественного (промысла) вы правите  
 Этими племенами благодаря напитку бессмертия.  

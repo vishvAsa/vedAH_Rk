@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ न · इन्दर+ शूर शू꣡रैर्  
 उत꣡ त्वो꣡तासो बर्ह꣡णा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡वन्त क्षोण꣡यो यथा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 पु॒रु॒ऽत्रा । ते॒ । वि । पू॒र्तयः॑ । नव॑न्त । क्षो॒णयः॑ । य॒था॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -103,36 +103,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **शूर** विक्रान्त **इन्द्र** **त्वं** **शूरैः** भटैः मरुद्भिः सहितः सन् **नः** अस्मान् पाहीति शेषः । **उत** अपि च **त्वोतासः** त्वया रक्षिता वयं **बर्हणा** परिबर्हणायां शत्रूणां हिंसायां समर्था भवेम॥ किंच **ते** त्वदीयाः पूर्तयः कामानां पूरणानीप्सितार्थप्रदानानि **पुरुत्रा** बहून् स्तोतॄन् **वि** **नवन्त** विविधं व्याप्नुवन्ति । **क्षोणयः** । मनुष्यनामैतत् । मनुष्याः स्वकीयं स्वामिनं सेवार्थं यथा व्याप्नुवन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hero, **Indra**, withh the hero (**Maruts** defend) us; that protected by you (we may be able) to overcome(our enemies); your blessings are diffused among many (praisers), as men (repair to their lord).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Be there) for us, Indra, o champion, with champions, and (let us be)  aided by you, by your power.  
 In many places offerings bellow to you in competition like battle cries.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero with Heroes, thou art ours: yea, strong are they whom thou dost help.  
      In many a place are thy full gifts, and men, like vassals, sing thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du sollst uns, tapferer Indra, mit deinen Tapferen helfen, und von dir unterstützt mit Zuversicht - Vielerorts brüllen deine Schenkungen wie die Gefolgsleute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch unsre Starken bist du stark, und wir durch dich geschützt mit Macht; Von dir gehn Gaben allerwärts, die reichlichen, wie Ströme aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты нас, о Индра-герой, героями (поддержи),  
 И мощно поддержанные тобой, (мы победим).  

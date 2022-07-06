@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ च्य꣡वानं सन꣡यं य꣡था र꣡थम्  
 पु꣡नर् यु꣡वानं चर꣡थाय तक्षथुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वे꣡त् ता꣡ वां स꣡वनेषु प्रवा꣡चिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 निः । तौ॒ग्र्यम् । ऊ॒ह॒थुः॒ । अ॒त्ऽभ्यः । परि॑ । विश्वा॑ । इत् । ता । वा॒म् । सव॑नेषु । प्र॒ऽवाच्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
@@ -126,7 +126,7 @@ genre M
 हे अश्विनौ **युवं** युवां **सनयं**  पुराणं **च्यवानम्** ऋषिं यथा **रथं** जीर्णं रथमिव **पुनर्युवानं** तरुणं **चरथाय** चरणार्थं **तक्षथुः** ततक्षथुः । अकुरुतमित्यर्थः । तथा च यास्कः-- युवं च्यवानं सनयं पुराणं यथा रथं पुनर्युवानं चरणाय ततक्षथुर्युवा प्रयौति कर्माणि तक्षतिः करोतिकर्मा ' (निरु. ४. १९) इति । किंच युवां **तौग्र्यं** तुग्रपुत्रं भुज्युम् **अद्भ्यः** **परि** समुद्रस्योपरि **निः** **ऊहथुः** । किंच **वां** युवयोः **विश्वा** विश्वानि **ता** तानि कर्माणि **सवनेषु** यज्ञेषु **प्रवाच्या** प्रवाच्यानि प्रकर्षेण वक्तव्यानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Son of Tugra: i.e.,**Bhujyu**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two fashioned old Cyavāna, like a chariot, into a youth again, (for  him) to move about.  
 You pulled the son of Tugra out from the waters. All these (deeds) of  yours are to be proclaimed at the pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye made Cyavana, weak and worn with length of days, young again, like a car, that he had power to move.  
      Ye lifted up the son of Tugra from the floods. At our libations must all these your acts be praised.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr habt den alten Cyavana wie einen Wagen wieder jung gezimmert zum Laufen. Ihr führtet den Tugrasohn aus dem Wasser. All das von euch soll bei den Somaopfern kundgetan werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tschjavana auch, der da lag wie ein alter Karrn, den habt zum Gehn ihr Ritter wieder jung gemacht, Den Sohn des Tugra zogt ihr aus der Wasserflut; das alles muss man rühmen euch bei jedem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы Чьявану старого, словно колесницу,  
 Снова смастерили юным, чтобы он двигался.  

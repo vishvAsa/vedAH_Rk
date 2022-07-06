@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र य꣡था हि꣡ अ꣡स्ति ते  
 अ꣡परीतं नृतो श꣡वः  
 अ꣡मृक्ता रातिः꣡ पुरुहूत दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अमृ॑क्ता । रा॒तिः । पु॒रु॒ऽहू॒त॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -88,7 +88,7 @@ genre M
 हे **नृतो** सर्वस्यान्तर्यामितया नर्तयितः **इन्द्र** **ते** त्वदीयं **शवः** बलं **यथा** **अपरीतम्** **अस्ति** शत्रुभिरपरिगतमव्याप्तं भवति । **हि** प्रसिद्धौ । तथा हे **पुरुहूत** पुरुभिर्बहुभिराहूतेन्द्र **दाशुषे** हविर्दत्तवते यजमानाय **रातिः** धनादिदानम् **अमृक्ता** शत्रुभिरहिसितं भवति । त्वत्तो लब्धं यजमानस्य धनं शत्रवो न हिंसन्ति । यथा त्वदीयबलस्य रक्षक एवं तस्य धनस्यापि रक्षक इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,30 +99,30 @@ genre M
 Inspirer of men: nṛto = voc. of nṛtu, dancer, or who causes to dance, i.e.,agitator, exciter; from Indra's faculty of internal impulse in all beings, sarvasya antaryāmitayā nartayitaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For, Indra, just as for you there exists a swelling might that cannot be  encompassed, o dancer,  
 your giving to the pious man cannot be impaired, o  
 much-invoked one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Dancer, Much-invoked! as thy great power is unsurpassed,  
      So be thy bounty to the worshipper unchecked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wie deine Kraft unerreicht ist, o Tänzer Indra, so sei deine Gabe für den Spender ungeschmälert, Vielgerufener.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn wie dir unbezwungne Kraft, o vielgerufner Indra, ist, So sei dem Frommen unversehrte Gab', o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, ведь подобно тому, как  
 Сила твоя непревзойденна, о танцор,  

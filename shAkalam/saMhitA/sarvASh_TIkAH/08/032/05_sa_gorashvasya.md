@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ गो꣡र् अ꣡श्वस्य वि꣡ व्रज꣡म्  
 मन्दानः꣡ सोमिये꣡भियः  
 पु꣡रं न꣡ शूर दर्षसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पुर॑म् । न । शू॒र॒ । द॒र्ष॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शूर** इन्द्र **सः** प्रसिद्धस्त्वं **मन्दानः** मोदमानः **गोः** अश्वस्य च **व्रजं** निवासस्थानं **सोम्येभ्यः** सोमार्हेभ्यः **पुरं** **न** शत्रूणां नगरीमिव **वि** **दर्षसि** विवृतद्वारं करोषि ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Soma draughts: somyebhyaḥ = somārhebhyaḥ, i.e. exhilarated, you throw them open to thoseworthy of the Soma or to the worthy offerers of the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having become exhilarated, you will split apart the enclosure of the  cow, of the horse  
 like a stronghold for your comrades in soma, o champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rejoicing in the Soma-draughts, Hero, burst open, like a fort,  
      The stall of horses and of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Berauscht mögest du die Hürde des Rindes und Rosses für die Somaliebenden wie eine Feste sprengen, o Held.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschliess uns Somabringern denn den Pferde- und den Rinderstall, Wie eine Burg, o muntrer Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьяненный соками сомы,  
 Пусть взорвешь ты, о герой, словно крепость,  

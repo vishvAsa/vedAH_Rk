@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡व्यसो न꣡मउक्तिं तुर꣡स्य  
 अह꣡म् पूष्ण꣡ उत꣡ वायो꣡र् अदिक्षि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡ वा꣡जस्य द्रविणोदा꣡ उत꣡ त्म꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या । राध॑सा । चो॒दि॒तारा॑ । म॒ती॒नाम् । या । वाज॑स्य । द्र॒वि॒णः॒ऽदौ । उ॒त । त्मन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -117,44 +117,44 @@ genre M
 **अहम्** ऋषिः **तव्यसः** प्रकृष्टबलस्य **तुरस्य** त्वरमाणस्य **पूष्णः** पोषकस्य देवस्य । उक्तगुणकाय देवाय **उत** अपि च **वायोः** उक्तलक्षणाय च **नमउक्तिं** नम इति वचनं स्तोत्रं **प्र** **अदिक्षि** प्रदिशामि। **या** यौ पूषवायू **राधसा** हविर्लक्षणेन निमित्तेन **मतीनां** चोदितारा प्रेरयितारौ । यद्वा ॥ राधसेति षष्ठयर्थे तृतीया । राधसो धनस्य मतीनां च चोदयितारौ । यौ च **वाजस्य** अन्नस्य संग्रामस्य वा चोदयितारौ तौ देवौ **उत** अपि च **त्मन्** आत्मन्यनन्यप्रेरणयैव **द्रविणोदौ** भवतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer adoration to the powerful and rapid **Pūṣaṇ**, and to (the powerful and rapid) **Vāyu**, who are both instrumental gators of the desire of wealth and of food, (who are both) distributors of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have shown forth an expression of reverence to the very strong,  powerful Pūṣan and to Vāyu,  
 who are impellers of thoughts by reason of their bounty and  
 treasure-givers of the prize in their own nature.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The function of utá in the pāda-final phrase utá tmán is unclear. Klein (I.347, 349) treats it as an example of an X Y utá construction (suggesting several diff.
 
 possibilities), but does not consider the positional tendency of tmán(ā) or the dossier of rhetorically similar phrases. Both tmán and tmánā have a distinct preference for pāda-final position, with a word consisting of two light syllables preceding as here -- frequently iva, also úpa, etc. As a parallel to our passage, cf. esp. IX.88.3 … draviṇodā́iva tmán. I'm inclined to think that utá is in fact empty here (though perhaps orig. adapted from places where it made sense) and Klein's piecemeal attempts to make sense of the various passages misplaced. Here the utá was perhaps slotted in because iva was inappropriate. One can also keep in mind that -a tmánrecalls (and replicates metrically) ātmán-. Renou’s characterization of utá tmán as “type de clausule inert” seems close to my “empty.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have declared this speech of adoration to mightiest Pusan and victorious Vayu,  
      Who by their bounty are the hymns' inspirers, and of themselves give power as a possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe das Huldigungswort für den stärksten, übermächtigen Pusan und für Vayu bestimmt, die beide durch ihre Freigebigkeit die Gedanken anregen und die selbst die Reichtumschenker des Lohnes sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hab' den Spruch gelehrt, mit dem man betet zum starken Puschan und zum schnellen Vaju, Die durch Geschenke die Gebete schärfen, und welche gern auch reiche Güter spenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сильнейшему настойчивому (богу) Пушану,  
 А также Ваю я предназначил провозглашение поклонения,  

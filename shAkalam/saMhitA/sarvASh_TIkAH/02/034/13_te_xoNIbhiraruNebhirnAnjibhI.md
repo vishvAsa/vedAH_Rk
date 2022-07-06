@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ क्षोणी꣡भिर् अरुणे꣡भिर् न꣡ अञ्जि꣡भी  
 रुद्रा꣡ ऋत꣡स्य स꣡दनेषु वावृधुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुश्चन्द्रं꣡ व꣡र्णं दधिरे सुपे꣡शसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नि॒ऽमेघ॑मानाः । अत्ये॑न । पाज॑सा । सुऽच॒न्द्रम् । वर्ण॑म् । द॒धि॒रे॒ । सु॒ऽपेश॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -118,7 +118,7 @@ genre M
 रुद्रारुद्रपुत्रास्तेमरुतः क्षोणीभिः शब्दकारिभिर्वीणाख्यैर्वीणाविशेषैः अरुणेभिर्नाञ्जिभिः नश- ब्दः समुच्वये आरोचमानैररुणवर्णैर्वारूपाभिव्यञ्चकैरलङ्कारैश्चसमन्विताःसन्तः ऋतस्योदकस्य स- दनेषुनिवासभूतेषुमेघेषुवावृधुः वर्धन्ते अपिच अत्येनसततगामिना शीघ्रंव्याप्नुवता पाजसाआत्मी येनबलेननिमेघमानाः नितरां मेघादुदकंसिञ्चन्तस्ते सुश्चन्द्रं शोभनाह्लादनंसुपेशसं पेशइतिरूप- नाम शोभनरूपंवर्णदधिरे कान्तिन्धारयन्ति ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ genre M
 With melodious lutes: te kṣoṇībhiḥ: kṣoṇībhiḥ = **śabda** kārībhir vāṇākyair **vīṇā** viśeṣaiḥ, with sounding instrumental uments, called **vinas**, a sort of **vīṇās**, string instrumental uments
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their cries [=thunder], with their ornaments like (Dawn’s) ruddy  (beams), the Rudras have grown strong in the seats of truth.  
 Pissing downward in a steed’s shape, they have assumed their much  gleaming, well-bedizened hue.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg noted (see also Hoffmann, Injunk., 121 n. 29), the need for a caesura suggests a reading vṛ́ṣā janayat, rather than the augmented ajanayat of the Pp. (In fact, this suggestion is already found in Grassmann) That two pres. indicatives, dhayati and rihanti, follow this proposed injunctive in the same thematic sequence supports interpreting the form contra the Pp, as Hoffmann points out.
 
 The simile anyásyeva .. tanvā̀“as if with the body of another” is, in my view, another reference to the distinction between but ultimate identification of Apām Napāt and Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Rudras have rejoiced thern in the gathered bands at seats of worship as in purple ornaments.  
      They with impetuous vigour sending down the rain have taken to themselves a bright and lovely hue.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rudrasöhne sind mit ihren Scharen wie die Usas mit ihren rötlichen Farben an den Sitzen der Weltordnung groß geworden. In Roßgestalt herabharnend nahmen sie ihre leuchtende, schöne Farbe an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die glänzenden ergötzten an den Fluten sich auf heil'gen Sitzen wie an feurig rothem Glanz; Mit schnell erregtem Schimmer übergiessend sich, erlangten lichte, schöngeschmückte Farbe sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти Рудры со (своими) свитами, словно с алыми украшениями,  
 Возросли в сидениях закона.  

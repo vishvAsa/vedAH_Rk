@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इन्द्राबृहस्पती  
 गृह꣡म् इ꣡न्द्रश् च गछतम्  
 सोमपा꣡ सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 सो॒म॒ऽपा । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,40 +87,40 @@ genre M;; repeated line
 हे **इन्द्राबृहस्पती** । अथ विविच्योच्यते । हे बृहस्पते त्वं च **इन्द्रश्च** **सोमपा** सोमपौ युवाँ **सोमपीतये** सोमपानाय **नः** **गृहम्** अस्मद्यागसंबन्धि **आ** **गच्छतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Bṛhaspati**, come to our dwelling, drinkers of **Soma**, to drink the Soma juice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to our house, o Br̥haspati and Indra,  
 as soma-drinkers to drink the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, índraś ca in b signals a headless Vāyav Indraś ca construction, and indeed the “Vāyav” is apter than might appear at first glance. Pāda b is identical to I.135.7c, which is an Indra and Vāyu hymn. The missing voc. is found there, in pāda a: vāyo. Clearly our b was adapted from I.135.7, with the non- conforming god lopped off in this expression. I have not attempted to render the voc. dvandva plus mutilated Vāyav Indraś ca, unlike the standard tr., which supply an extra verb in a and an extra voc. in b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Soma-drinkers to our house come, Indra and Brhaspati-and Indra-to drink Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns, Indra und Brihaspati; kommet ins Haus, du und Indra, als Somatrinker zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt, Indra-Brihaspati, in unser Haus, auch Indra du, Zum Soma Somatrinker ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(ходите) к нам, о Индра-Брихаспати,  
 Приходите домой, (ты, Брихаспати) и Индра,  

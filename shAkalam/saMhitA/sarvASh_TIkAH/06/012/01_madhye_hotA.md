@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्ये हो꣡ता दुरोणे꣡ बर्हि꣡षो रा꣡ळ्  
 अग्नि꣡स् तोद꣡स्य रो꣡दसी य꣡जध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूरा꣡त् सू꣡र्यो न꣡ शोचि꣡षा ततान
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । सः । सू॒नुः । सह॑सः । ऋ॒तऽवा॑ । दू॒रात् । सूर्यः॑ । न । शो॒चिषा॑ । त॒ता॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 **होता** देवानामाह्वाता **बर्हिषः** यज्ञस्य **राट्** राजा **अग्निः** **तोदस्य** । तुद्यते तपसा पीड्यत इति तोदो यजमानः । तस्य **दुरोणे** गृहे **मध्ये** निषीदतीति शेषः। किमर्थम् । **रोदसी** द्यावापृथिव्यौ **यजध्यै** यष्टुम् । **सः** तादृशः **अयं** **सहसः** **सूनुः** सहसस्पुत्रः **ऋतावा** सत्यवान् यज्ञवान् वाग्निः **सूर्यो** **न** सूर्य इव **दूरात्** दूरत एव **शोचिषा** तेजसा **ततान** आतनोति विस्तारयति । दूरदेशे वर्तमानोऽपि सूर्य इव सर्वं जगद्भासयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M
 Of the instrumental tutor: todasya, from tud, to torment or distress; he who is distressed by ascetic devotion, tapasā pīḍyate, i.e. the **yajamāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the middle of the dwelling, as Hotar, ruler of the ritual grass, (ruler)  of the goad, Agni is to sacrifice to the two world-halves.  
 Here is the truthful son of strength spread from afar like the sun, with  his flame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ‘goad’ (todá-) found in VI.6.6 reappears here, as well as in vs. 3. Thus, 3 of the 5 occurrences of this word in the RV are found in this Agni cycle. In VI.6.6 I argue that the referent of the “great goad” is the sun (see comm. ad loc., sim. I.150.1).
 
@@ -153,23 +153,23 @@ For Agni as “ruler of the ritual grass,” see VIII.13.4=15.5 ... asyá barhí
 The VP ródasī √yaj is found elsewhere in this cycle: 11.4 yájasva ródasī, VI.15.15 ní tvā dadhīta ródasī yájadhyai, with the same infinitive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 KING of trimmed grass, Herald within the dwelling, may Agni worship the Impeller's World-halves.  
      He, Son of Strength, the Holy, from a distance hath spread himself abroad with light like Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitten im Hause soll Agni, der Hotri, der Herr des Barhis, der Herr der Peitsche, beide Welten opfern. Dieser wahrheitsliebende Sohn der Kraft hat sich wie Surya aus der Ferne mit seiner Glut ausgedehnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Priester Agni mitten in dem Hause, der Fürst der Streu verehr des Stachlers Weltpaar; Er breitete der Sonne gleich sein Licht aus, der Sohn der Kraft, der Heilige, von fern her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть посреди дома хотар, царь жертвенной соломы,  
 Агни, (повелитель) стрекала, принесет жертву двум мирам!  

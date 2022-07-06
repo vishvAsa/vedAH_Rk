@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श र꣡थान् प्र꣡ष्टिमतः  
 शतं꣡ गा᳐꣡ अ꣡थर्वभ्यः  
 अश्वथः꣡ पाय꣡वे अदात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अ॒श्व॒थः । पा॒यवे॑ । अ॒दा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
@@ -77,7 +77,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **दश** दशसंख्याकान् **प्रष्टिमतः** । प्रष्टिस्त्रिपद आधारः । तद्वद्वहन्तीति प्रष्टयोऽश्वाः । तद्युक्तान् **रथान्** **शतं** शतसंख्याकाः **गाः** च **अथर्वभ्यः** अथर्वगोत्रेभ्य ऋषिभ्यः **पायवे** भरद्वाजपुत्राय एतत्संज्ञायास्मद्भ्रात्रे च **अश्वथः** अश्ववानेतत्संज्ञः प्रस्तोकः **अदात्** दत्तवान् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ To the priests: atharvabhyaḥ = ṛṣis of the atharvagotra; pāyu is the brot
 Aśvattha = Prastoka
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ten chariots with side-horses, a hundred cows  
 has Aśvatha given to the Atharvans, to Pāyu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten cars with extra steed to each, for the Atharvans hundred cows,  
      Hath Asvatha to Payu given.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zehn Wagen samt Beipferden, hundert Kühe hat Asvatha den Atharvan´s dem Payu geschenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn mit Seitenpferden versehene Wagen und hundert Rinder gab Açvatha den Priestern und dem Pāju.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять колесниц с пристяжными конями,  
 Сотню коров Атхарванам  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पाहि꣡ नो अग्न ए꣡कया  
 पाहि꣡ उत꣡ द्विती꣡यया  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पाहि꣡ चतसृ꣡भिर् वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पा॒हि । गीः॒ऽभिः । ति॒सृऽभिः॑ । ऊ॒र्जा॒म् । प॒ते॒ । पा॒हि । च॒त॒सृऽभिः॑ । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
@@ -108,7 +108,7 @@ genre M
 हे **अग्ने** **नः** अस्मान **एकया** ऋचा गिरा **पाहि** रक्ष । **उत** अपि च **द्वितीयया** ऋचा **पाहि** पालय । **पाहि** **तिसृभिः** **गीर्भिः** **ऊर्जाम्** अन्नानां बलानां वा **पते** स्वामिन् । तथा **पाहि** **चतसृभिः** गीर्भिर्हे **वसो** वासकाग्ने ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,36 +119,36 @@ genre M
 Four: ṛk, **yajuṣ**, **sāman** and **nigada**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us with one, Agni, and protect us with a second.  
 Protect us with three hymns, o lord of nourishments; protect us with  four, o good one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am a little uncertain why/how Agni protects us with hymn(s) (gír-), which are what we usually offer to him. Geldner and Renou soften the expression by tr.
 
 ‘word(s)’, but that is not what gír- means. Perhaps Agni’s “hymns” are the crackling noises of the fire, or else the instrumentals express cause: “protect us by reason of (our) hymns.” I prefer the former of these solutions. (See 18a below.) The various instrumentals cannot directly take up the pāyúbhiḥ of 8d, because pāyú- is masc. and all four number instrumentals (ékayā, etc.) are unambiguously feminine, as is gírwhen it finally shows up in c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Protect us, Agni, through the first, protect us through the second hymn,  
      Protect us through three hymns, O Lord of Power and Might, through four hymns, Vasu, guard thou us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütz uns, Agni, mit einem Worte und schütz uns mit einem zweiten; schütz uns mit drei Worten, Sohn der Kraft, schütz uns mit vieren, du Guter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, schütz mit einer Burg und schütze mit der zweiten uns, Mit dreien Burgen schütze uns, o Herr der Kraft, mit vieren, guter, schütze uns,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити нас, о Агни, одним (словом),  
 Защити также двумя,  

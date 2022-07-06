@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 किं꣡ नो भ्रातर् अगस्तिय  
 स꣡खा स꣡न्न् अ꣡ति मन्यसे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्म꣡भ्यम् इ꣡न् न꣡ दित्ससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 वि॒द्म । हि । ते॒ । यथा॑ । मनः॑ । अ॒स्मभ्य॑म् । इत् । न । दि॒त्स॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kiṃ* ← *kim*
 - \[adverb\]
@@ -113,7 +113,7 @@ popular;; epic anuṣṭubh (424)
 इदमिन्द्रवाक्यम् । हे **भ्रातः** हे **अगस्त्य** । हविष्प्रदानवरप्रदानाभ्यां परस्परोपकारत्वात् भ्रातृत्वम् । तादृशस्त्वं **सखा** सन् अस्मद्धितकार्यपि सन् **नः** अस्मान् **किम्** **अति** **मन्यसे** । कस्मादपराधादतिक्रम्य मनुषे । अपलपसि । नायमपलापः किंतु तथ्यमेवेति चेत् उच्यते । गन्तव्यं **ते** तव **मनः** मानसं **यथा** यथावस्तु **विद्म** जानीमः । कथं जानीथेति उच्यते । **अस्मभ्यमिन्न** **दित्ससि** । अस्मदर्थं निरुप्तमस्मभ्यं दातुं नेच्छस्येव । इत् एवार्थे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ popular;; epic anuṣṭubh (424)
 Brother Agastya: an allusion to a relationship, founded on the interchange of benefits, the presentation of oblations by one, the reward given by the other
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] If you are our companion, brother Agastya, why do you  
 overlook us?  
 For we understand what your thinking is: it is only to us that you do not  wish to give.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agastya, brother, why dost thou neglect us, thou who art our friend?  
      We know the nature of thy mind. Verity thou wilt give us naught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Warum achtest du uns gering, Bruder Agastya, der du doch unser Freund bist? Wir wissen ja, wie dein Sinn ist. Du willst uns nichts geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Warum, Agastja, Bruder du, versäumst du uns, obwol uns freund? Denn wir erkennen deinen Sinn, dass du uns heut nicht spenden willst.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Почему же, о брат Агастья,  
 Будучи другом, ты мало уважаешь нас?  

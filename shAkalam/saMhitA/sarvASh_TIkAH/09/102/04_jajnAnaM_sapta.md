@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जज्ञानं꣡ सप्त꣡ मात꣡रो  
 वेधा꣡म् अशासत श्रिये꣡  
 अयं꣡ ध्रुवो꣡ रयीणां᳐꣡ चि꣡केत य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 अ॒यम् । ध्रु॒वः । र॒यी॒णाम् । चिके॑त । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jajñānaṃ* ← *jajñānam* ← *jan*
 - \[verb noun\], accusative, singular
@@ -91,7 +91,7 @@ genre M;; line affected by realignment
 **जज्ञानं** प्रादुर्भूतं **वेधां** कर्मणो विधातारं सोमं **सप्त** सप्तसंख्याकाः **मातरः** गङ्गाद्या नद्यः सप्त छन्दांसि वा **श्रिये** यजमानानामैश्वर्यार्थम् **अशासत** अनुशासति अनुशासनं कुर्वन्ति । शास्तेर्लङि व्यत्ययेनात्मनेपदम् । **यत्** यस्मात् **ध्रुवः** **अयं** सोमः **रयीणां** धनानि **चिकेत** जानाति तस्मादस्यानुशासने कृते यजमानानां धनादिसमृद्धिर्भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; line affected by realignment
 The seven mothers instrumental uct the (Soma) the instrumental tutor (of the sacrifice) when born for the prosperity (of the worshippers) to that this firm Soma is cognizant of riches. \[
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seven mothers [=rivers?] instructed him as a ritual adept, when he  was born for splendor.  
 This one is the enduring (treasure) of treasures, since he paid attention  (to his mothers).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “seven mothers” (saptá mātáraḥ) are presumably the rivers (contra Geldner n. 4ab, who prefers dhītí- or ‘sisters’), which we also met in vs. 1 as the “great (fem.) ones.” Their appearance here strengthens the likelihood that mahī́nām in 1a is dependent on śíśuḥ; see comm. there.
 
@@ -126,23 +126,23 @@ The 4-syl. addendum pāda is a self-contained subordinate clause, cikéta yát, 
 4ab), cíketa responds to aśāsata ‘they instructed’ in b, and I therefore think that the point is that Soma paid attention to his mothers’ instruction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even at his birth the Mothers Seven taught him, for glory, like a sage,  
      So that he, firm and sure, hath set his mind on wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den zur Herrlichkeit Geborenen unterwiesen die sieben Mütter, den Meister; er ist der beständige unter den Reichtümern, - da er sich darauf versteht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es wiesen sieben Mütter ihn, das holde Kind, zum Heile an; Er ist der Güter fester Hort, – wenn er erscheint.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Едва он родился, семь матерей  
 Наставили для блеска устроителя обряда.  

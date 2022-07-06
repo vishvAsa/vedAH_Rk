@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्य हि꣡ प्रचेतसा  
 व꣡रुण मि꣡त्र रा꣡जथः  
 ईशाना꣡ पिप्यतं धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ई॒शा॒ना । पि॒प्य॒त॒म् । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
@@ -78,35 +78,35 @@ genre M
 हे **मित्र** हे **वरुण** **प्रचेतसा** प्रकृष्टज्ञानौ युवां **विश्वस्य** **राजथः** सर्वस्य स्वामिनौ भवथः । **हि** इति प्रसिद्धौ । हे **ईशाना** अस्माकमीश्वरौ युवां **धियः** अस्मदीयानि कर्माणि **पिप्यतं** प्याययतं फलैः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sagacious **Mitra** and **Varuṇa**, you reign over all bestow fullness, lords, upon our ancient rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are kings of all, being masters, o attentive ones, o Varuṇa  and Mitra,  
 make our insights swell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Varuna and Mitra, ye Sages are Rulers over all. Fill full our songs, for this ye can.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn über alles herrscht ihr einsichtigen Varuna und Mitra. Befruchtet unsere Gedanken, die ihr das vermöget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn über alles herrschet ihr als weise, Mitra, Varuna; Erfüllt die Bitten, die ihr's könnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы правите всем,  
 О прозорливые Варуна (и) Митра.  

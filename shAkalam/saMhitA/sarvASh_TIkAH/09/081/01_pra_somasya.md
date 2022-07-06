@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡मस्य प꣡वमानस्य ऊर्म꣡य  
 इ꣡न्द्रस्य यन्ति जठ꣡रं सुपे꣡शसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दाना꣡य शू꣡रम् उद꣡मन्दिषुः सुताः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द॒ध्ना । यत् । ई॒म् । उत्ऽनी॑ताः । य॒शसा॑ । गवा॑म् । दा॒नाय॑ । शूर॑म् । उ॒त्ऽअम॑न्दिषुः । सु॒ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **पवमानस्य** पूयमानस्य **ऊर्मयः** रसप्रवाहाः **इन्द्रस्य** **जठरं** **प्र** **यन्ति** प्रगच्छन्ति । **सुपेशसः** सुरूपा ऊर्मय इति संबन्धः । **यत्** यदा **ईम्** एते **सुताः** अभिषुताः सोमाः **गवां** **यशसा** बलभूतेन **दध्ना** सह **उन्नीताः** सन्तः **दानाय** यजमानविषयाभिमतदानाय **शूरं** विक्रान्तमिन्द्रम् **उदमन्दिषुः** उन्मादयन्ति तदा जठरं यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 The hero: i.e., Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bedizened waves of self-purifying soma go forth to the belly  
 of Indra,  
 when, ladled up with the curds, with the glorious (product) of the cows,  the pressings have exhilarated the champion for giving.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in b is also found in X.43.2 rā́jeva dasma (with voc.), as Geldner (n.
 
@@ -151,23 +151,23 @@ As Geldner points out (nn. 1d, 2d), ghee (ghṛtá-) in these two vss. stands fo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ONWARD to Indra's throat move, beauteously adorned, the waves of Soma as he purifies himself,  
      When they, brought forward with the lovely curd of kine, effused, have cheered the Hero to bestow his gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schönfarbigen Wogen des sich läuternden Soma gehen in des Indra Leib ein, wenn die Säfte ausgepreßt und mit der sauren Milch, die den Kühen zur Zierde gereicht, den Helden Indra zum Schenken aufgeheitert haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die glänzendschönen Wellen des hell flammenden, des Soma, dringen in den Bauch des Indra vor, Da stets die Säfte mit der Kühe schöner Milch gebracht, den Helden zum Geschenk begeisterten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Волны Сомы-Паваманы текут вперед  
 Индре в живот, прекрасно выглядящие.  

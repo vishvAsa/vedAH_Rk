@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ द्या꣡वापृथिवी꣡ मात꣡रा मही꣡  
 देवी꣡ देवा꣡ञ् ज꣡न्मना यज्ञि꣡ये इतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरू꣡ रे꣡तांसि पितृ꣡भिश् च सिञ्चतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒भे इति॑ । बि॒भृ॒तः॒ । उ॒भय॑म् । भरी॑मऽभिः । पु॒रु । रेतां॑सि । पि॒तृऽभिः॑ । च॒ । सि॒ञ्च॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, dual, feminine
@@ -124,36 +124,36 @@ genre M
 मातरा सर्वस्य जगतो निर्मात्र्यौ अत एव मही महत्यौ देवी देवनशीले यज्ञिये यज्ञार्हे ते द्यावापृथिवी द्यावापृथिव्यौ देवानिन्द्रादीञ्जन्मनैवेतो हि। प्राप्नुतः खलु। इण् गतौ। लिटि रूपम् । किञ्चोभे द्यावापृथिव्यौ भरीमभिर्भरणैर्नानाविधैरुभयम् जनं देवान्मनुष्यांश्च बिभृतः। धारयतः। पोशयतः। तथा पितृभिः पालकैर्देवैः सङ्गते ते पुरु पुरूण्यात्मीयानि रेतांस्युदकानि सिञ्चतः। क्षरतः। प्रत्यक्षेण धारयतः॥१५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They, two, the maternal heaven and earth, mighty, divine, adorable, attain to the gods upon their birth;they both cherish the two (races, human and divine) (gods), they shed abundant moisture.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Heaven and Earth, the two great mothers, the goddesses worthy of  the sacrifice, proceed by virtue of their kinship with the gods.  
 Both support both (breeds [=gods and men]) with their supports, and  with the Fathers they sprinkle much seed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Mothers, Heaven and Earth, those mighty Goddesses, worthy of sacrifice, ecune with the race of Gods.  
      These Two with their support uphold both Gods and men, and with the Fathers pour the copious genial stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese beiden großen Mütter, Himmel und Erde, die opferwürdigen Göttinnen, kommen mit der Sippe der Götter. Beide unterstützen beiderlei Art mit ihren Unterstützungen, und durch die Väter gießen sie vielen Samen aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Erd' und Himmel, sie die grossen Göttinnen, die hehren Mütter kommen mit der Götter Stamm, Mit Nahrung nähren beide beiderlei Geschlecht, und strömen durch die Väter vielen Samen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ त्य꣡द् दर्शतं꣡ व꣡पुर्  
 दिव꣡ एति प्रतिह्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡श्वस्मै च꣡क्षसे अ꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । आ॒शुः । वह॑ति । दे॒वः । एत॑शः । विश्व॑स्मै । चक्ष॑से । अर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -109,35 +109,35 @@ genre M
 **त्यत्** तत् **दर्शतं** दर्शनीयं **वपुः** मण्डलं **दिवः** अन्तरिक्षस्य **प्रतिह्वरे** समीपे  **उदु** **एति** उदेति । उ इति पूरणः। **यदीं** यदेतन्मण्डलम् **आशुः** शीघ्रगामी **एतशः** एतदवर्णोऽश्वो **वहति** धारयति । किमर्थम् । **विश्वस्मै** सर्वस्मै **अरं** **चक्षसे** सम्यक् सर्वलोकदर्शनाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That beautiful orb (of the sun) rises on the near margin of the sky as the swift, divine, white-coloured(steed) bears it along for the beholding of all men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This lovely marvel [=the Sun] arises on the curve of heaven, when the swift god Etaśa conveys him, right for everyone to gaze upon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Uprises, on the slope of heaven, that marvel that attracts die sight  
      As swift celestial Etasa bears it away, prepared for every eye to see.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort geht jenes sehenswerte Schauspiel am Rande des Himmels auf, wenn ihn der Renner zieht, der göttliche Etasa, pünktlich zu schauen für jedermann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon steigt empor die Glanzgestalt dort an des Himmels Niederhang, Vom Gott gezogen, von dem schnellen Sonnenross, zu schauen jedem offenbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот поднимается это прекрасное на вид  
 Чудо на склоне (?) неба,  

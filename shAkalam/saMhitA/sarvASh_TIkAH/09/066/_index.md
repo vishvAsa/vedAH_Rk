@@ -8,7 +8,7 @@ title = "+066"
 ‘पवस्व' इति त्रिंशदृचं षष्ठं सूक्तम् । अत्रानुक्रम्यते- पवस्व शतं वैखानसा अष्टादश्यनुष्टुप्परास्तिस्र आग्नेय्यः' इति । शतसंख्याका वैखानसाख्याः संहता ऋषयः । ‘ त्वं सोम सूरः ' इत्येषानुष्टुप् । शिष्टा गायत्र्यः । ‘ अग्न आयूंषि' इत्याद्यास्तिस्रः पवमानविशिष्टाग्निदेवताकाः । अन्यासां पवमानः सोमो देवता । गतः सूक्तविनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 66 (778)  
 Soma Pavamāna, except Agni 19–21  
@@ -19,7 +19,7 @@ The poet also seeks comradeship with Soma (vss. 1, 4, 14, 18), in addition to th
 From an Indo-European perspective, the hymn is notable for containing one of  three R̥gvedic occurrences of the famous phrase ákṣiti śrávaḥ “imperishable fame,”  cognate with Greek kléos áphthiton “idem,” and the formula, identified by Adelbert  Kuhn in 1853, that launched the field of comparative Indo-European poetics.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the second to the last of the composite Gāyatrī hymns in this maṇḍala; the last (IX.67) is attributed to a variety of named poets, while the Anukramaṇī assigns this one to śataṃ vaikhānasaḥ “100 Vaikhānases.” Both attributions seems to acknowledge the composite nature of these compositions, as opposed to the previous ones, which have a single poet named for the whole hymn. Still, we would be hard-pressed to assemble 100 Vaikhānases: only one, Vamra, is named in the Anukramaṇī, as the author of X.99, a hymn to Indra, and the patronymic (and its underlying base) are both absent from the RVic text.
 

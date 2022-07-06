@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुक्र꣡तुर् यो꣡ वि꣡ दु꣡रः पणीना꣡म्  
 पुनानो꣡ अर्क꣡म् पुरुभो꣡जसं नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिर꣡स् त꣡मो ददृशे रामिया꣡णाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 होता॑ । म॒न्द्रः । वि॒शाम् । दमू॑नाः । ति॒रः । तमः॑ । द॒दृ॒शे॒ । रा॒म्याणा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -123,36 +123,36 @@ genre M
 **सः** अग्निः **सुक्रतुः** सुकर्मा सुप्रज्ञो वा भवति । **यः** अग्निः **पणीनाम्** असुराणां **दुरः** द्वाराणि गवां पिधानानि विवृतवान् । **पुरुभोजसं** बहुक्षीरम् **अर्कम्** अर्चनीयं गवां संघं **नः** स्मदर्थं **पुनानः** शोधयन् । हरन्नित्यर्थः । **होता** देवानामाह्वाता **मन्द्रः** मदयिता स्तुत्यो वा **दमूनाः** दान्तमना दममना दानमना वा **राम्याणां** रात्रीणां रमयित्रीणां वा **विशां** जनानां यजमानानां वा **तमः** अन्धकारं तिरस्कुर्वन् **ददृशे** दृश्यते च । यद्वा । तमस्तिरो ददृशे नाशयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the doer of great deeds, who forced open the doors of the **Paṇis**, recovered for us the sacredfood-bestowing (herd of kine), he who is the invoker of the gods, the giver of delight to the lowly-minded, is seenof all people dissipating the gloom of the nights.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He of strong resolve, who (opens) up the doors of the Paṇis as he purifies  the chant that brings much sustenance for us,  
 he, the delighting Hotar and the housemaster of the clans, has become  visible, across the darkness of the nights.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Most wise is he who, forcing doors of Panis, brought the bright Sun to us who feedeth many.  
      The cheerful Priest, men's Friend and home-companion, through still night's darkness he is made apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Einsichtsvolle, der die Türen der Knauser aufschließt, der uns das Lied, das vielen Nutzen bringt, klärt, der wohlredende Hotri, der Gebieter der Clane scheint durch der Nächte Dunkel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schön gesinnte, der der Diebe Thüren, die nahrungsreiche Sonn' uns flammend aufthat; Der holde Priester und der Häuser Gastfreund liess sich erschauen durch der Nächte Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасный силой духа, он (тот,) кто рас(творил) врата Пани,  
 Очищая нашу песнь, многонасыщающую.  

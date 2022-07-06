@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡स् कण्वास इ꣡न्दवो  
 व꣡सु सि꣡न्धूना᳐म् पदे꣡  
 स्वं꣡ वव्रिं꣡ कु꣡ह धित्सथः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स्वम् । व॒व्रिम् । कुह॑ । धि॒त्स॒थः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divas* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -83,7 +83,7 @@ genre M
 हे **कण्वासः** कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनावित्थं पृच्छतेति शेषः । कथमिति तदुच्यते । **दिवः** द्युलोकसकाशात् **इन्दवः** सूर्यरश्मयः प्रादुर्भूताः । **सिन्धूनाम्** अपां वृष्टिरूपाणां स्यन्दनस्वभावानां **पदे** स्थानेऽन्तरिक्षे **वसु** अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां **स्वं** **वव्रिं** स्वकीयं रूपं **कुह** **धित्सथः** कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह ।' वा ह च च्छन्दसि ' ( पा. सू. ५. ३. १३) इति किंशब्दात् सप्तम्यर्थे हप्रत्ययः ।' कु तिहोः ' ( पा. सू. ७. २. १०४ ) इति किमः कुः । धित्सथः । ‘डुधाञ् धारणपोषणयोः'। सनि मीमाघुरभलभशकपतपदामच इस्' (पा. सू. ७. ४. ५४) इति आकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य ' (पा. सू. ७. ४, ५८ ) इति अभ्यासलोपः । ‘सः स्यार्थधातुके '(पा, सू. ७. ४, ४९ ) इति सकारस्य तकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M
 Lit. the text is: 'Rays from the sky, Kaṇvas, cause of dwelling in the plural ce of the rivers; where do you wish to plural ce own form?' The added assumption is that Kaṇvas are asked to inquire of the Aśvins the questions posed in the translation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Kaṇvas, (in the track) of heaven are the soma drops; in the track of  the rivers is what is good.  
 Where do you two desire to place that cloak of yours?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Kanvas, the drops are in the heaven; the wealth is at the waters' place:  
      Where will ye manifest your form?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am Orte des Himmels sind die Somatropfen, ihr Kanva´s, am Orte der Flüsse das Gute. Wohin beabsichtigt ihr eure natürliche Körperform zu legen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Kanva's, Himmelstränke sind und Güter an der Ströme Ort, Wohin, o Ritter, setzt ihr euch?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (На месте) неба, о Канвы, – капли (сомы),  
 Добро – на месте рек.  

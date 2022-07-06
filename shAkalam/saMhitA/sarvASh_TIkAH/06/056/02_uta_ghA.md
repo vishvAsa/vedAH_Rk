@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ घा स꣡ रथी꣡तमः  
 स꣡खिया स꣡त्पतिर् युजा꣡  
 इ꣡न्द्रो वृत्रा꣡णि जिघ्नते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । वृ॒त्राणि॑ । जि॒घ्न॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** **घ** अपि च **सः** यः शत्रूणां हन्तृत्वेन प्रसिद्धस्तादृशः रथीतमः अतिशयेन रथी महारथः **सत्पतिः** सतां पालयिता एवंगुणः **इन्द्रः** **सख्या** मित्रभूतेन पूष्णा **युजा** सहायभूतेन युक्तः सन् **वृत्राणि** शत्रून् **जिघ्नते** हन्ति । इन्द्रस्यापि अयमेव साहाय्यकारीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the chief of charioteers, the protector of the virtuous, **Indra**, destroys his foes, with his friend **Pūṣan** for his ally.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And he is the best charioteer. With him as partner and yokemate, the  lord of settlements,  
 Indra, keeps smashing obstacles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c is essentially identical to VI.57.3 in the next hymn, but there Indra’s two fallow bay horses are Indra’s companions when he smashes obstacles.
 
@@ -115,23 +115,23 @@ There is general consensus (Geldner, Renou, Klein loc. cit.) that Indra is the s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And he is best of charioteers. Indra, the hero's Lord, allied  
      With him as Friend, destroys the foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und mit ihm als dem verbündeten Freund erschlägt der beste Wagenlenker, der wahre Gebieter Indra die Feinde;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem Freund verbündet schlägt der starke Indra jeden Feind, Er, der am besten Wagen lenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А вот этот лучший из колесничих,  
 Истинный господин Индра (с ним) как с другом-союзником  

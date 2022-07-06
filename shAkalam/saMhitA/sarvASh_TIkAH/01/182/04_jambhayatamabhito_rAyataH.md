@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जम्भ꣡यतम् अभि꣡तो रा꣡यतः शु꣡नो  
 हत꣡म् मृ꣡धो विद꣡थुस् ता꣡नि अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उभा꣡ शं꣡सं नासतियावतम् म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वाच॑म्ऽवाचम् । ज॒रि॒तुः । र॒त्निनी॑म् । कृ॒त॒म् । उ॒भा । शंस॑म् । ना॒स॒त्या॒ । अ॒व॒त॒म् । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jambhayatam* ← *jambhay* ← *√jabh*
 - \[verb\], dual, Present imperative
@@ -132,36 +132,36 @@ genre M
 हे अश्विनौ **रायतः** निन्दितं शब्दयतः अस्मान् हन्तुमागच्छतो वा **शुनः** श्वसदृशान् **अभितः** **जम्भयतं** नाशयतम् । तथा **मृधः** तेषां संग्रामान् संग्रामं कुर्वतो वा **हतं** मारयतम् । **तानि** हननोपायान् **विदथुः** जानीथः । किंच **जरितुः** युष्मान् स्तोतुः **वाचंवाचं** तां तां स्तुतिलक्षणां वाचं **रत्निनीं** **कृतं** सर्वामपि स्तुतिं रमणीयफलवतीं कुरुतम् । हे **नासत्या** सत्यभूतौ युवाम् **उभा** उभौ मम मदीयां **शंसं** स्तुतिम् **अवतं** रक्षतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Annihilate, **Aśvins**, the dogs who bark at us; slay them warring (against us); you know their (means of harm); render every word of him who praises you affluent in precious (rewards); accept **Nāsatyas**, both of you, may praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Crush the baying hounds on every side; smash the scornful. You know  how (to do) these things, o Aśvins.  
 Make every speech of the singer adorned with treasure. Both of you, o  Nāsatyas—help my laud.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Crunch up on. every side the dogs who bark at us: slay ye our foes, O Asvins this ye understand.  
      Make wealthy every word of him who praises you: accept with favour, both Nasatyas, this my laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwürget die ringsum bellenden Hunde, erschlaget die Verächter! Ihr versteht das, o Asvin. Jedes Wort des Sängers machet reichbelohnt! Nehmt beide meine Rede wohlwollend auf, ihr Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verzehrt, zermalmt die Hunde rings, die bellenden, die Feinde tödtet, Ritter, ihr versteht euch drauf; Und jedes Lied des Sängers lohnt mit reichem Gut, ihr wahrgesinnten, segnet beide mein Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пришибите псов, лающих вокруг!  
 Убейте тех, кто (нас) презирает! Вы это умеете.  

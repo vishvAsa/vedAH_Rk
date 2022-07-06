@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो न꣡क्तम् अपां᳐꣡ वृषण्वसू  
 सू꣡र्यामा꣡सा स꣡दनाय सधनि꣡या  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 अ꣡हिर् बुध्ने꣡षु बुध्नि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 सचा॑ । यत् । सादि॑ । ए॒षा॒म् । अहिः॑ । बु॒ध्नेषु॑ । बु॒ध्न्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **उत** अपि च हे **वृषण्वसू** वर्षणधनावश्विनौ युवाम् **अपाम्** उदकानां संबन्धिनौ **सधन्या** सधन्यौ समानधनौ **सूर्यमासा** सूर्याचन्द्रमसौ **बुध्नेषु** अन्तरिक्षेषु निवासस्थानेषु मेघेषु **यत्** यः **अहिर्बुध्न्यः** देवः **सादि** सीदति तिष्ठति **एषाम्** एभिः **सचा** सह युवां **नक्तं** रात्रावहनि चोरुष्यतमिति वक्ष्यमाणेन संबन्धः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,28 +116,28 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 WhenAhirbudhnya: yad = who, referring to Ahirbudhnya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And for us by night (and by day), o you two of bullish goods [=Aśvins],  the Sun and Moon are our joint guides toward the seat of the waters, when in company with them Ahi Budhnya [/the Serpent of the Deep]  has been set in the depths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come also to our dwelling, Lords of ample wealth, common partakers of our waters, Sun and Moon,  
      When the great Dragon of the Deep hath settled down upon their floors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bringet uns, ihr beiden Schatzreichen, den Apam Napat, Sonne und Mond als Teilhaber zum Niedersitzen, daß in ihrer Gesellschaft sich der Drache der Tiefe in den Tiefen setzen möge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und naht euch ihr beiden stierkräftigen Gefährten, Sonne und Mond dem Sitze unserer Gewässer [der Somatränke], wenn sich zugleich in ihrem Boden der Drache des Wolkenbodens niedergelassen hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

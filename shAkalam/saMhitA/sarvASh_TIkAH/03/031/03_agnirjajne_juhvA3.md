@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जज्ञे जुहु꣡वा रे꣡जमानो  
 मह꣡स् पुत्राँ꣡ अरुष꣡स्य प्रय꣡क्षे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मही꣡ प्रवृ꣡द् ध꣡रिअश्वस्य यज्ञइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒हान् । गर्भः॑ । महि॑ । आ । जा॒तम् । ए॒षा॒म् । म॒ही । प्र॒ऽवृत् । हरि॑ऽअश्वस्य । य॒ज्ञैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -119,20 +119,20 @@ genre M
 हे इन्द्र **अरुषस्य** रोचमानस्य तव **प्रयक्षे** यज्ञार्थं **जुह्वा** ज्वालाभिः **रेजमानः** कम्पमानः **अग्निः** **महः** प्रभूतानु **पुत्रान्** रश्मीन् **जज्ञे** उत्पादयामास । **एषां** रश्मीनां **गर्भः** जलात्मना क्रोडीकारः **महान्** आसीत् । किंच एषां रश्मीनां मेलनम् **आ** **जातं** सर्वत ओषध्यात्मना जातं **महि** महदभूत् । किंच एषां रश्मीनां **प्रवृत्** अनेन प्रकारेण प्रवृत्तिः **हर्यश्वस्य** इन्द्रस्य **यज्ञैः** यजनार्हैः सोमाज्याहुतिभिः **मही** महती भवति ॥ जज्ञे । **जनी** प्रादुर्भावे ' इत्यस्य लिटि रूपम् । अन्तर्भावितण्यर्थः । जुह्वा । ‘जुहोतेर्द्वे दीर्घश्च' इति क्विप् द्विर्वचनं दीर्घश्च धातोः । ‘उदात्तस्वरितयोः  इति स्वरितत्वम् । हर्यश्वस्य । हरी अश्वौ यस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For the worship of the resplendent (**Indra**), **Agni**, glowing with flame, has begotten mighty sons; great was the germ, and great was their birth, and great was their efficacy, for the worship of **Haryaśva**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni was begotten, quivering with his tongue [/by the offering-spoon,  trembling], to display the sons [=flames?] of the great ruddy one.  
 Great was the womb, great the birth of these here, great the growth of  the one with fallow bays [=Indra] through the sacrifices.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the first pāda the instr. juhvā̀can be read simultaneously as “with his tongue,” construed with réjamānaḥ and referring to the flame(s) of the fire, and as “by the offering-spoon,” construed with jajñe and indicating that the ghee poured from the spoon “begets” the fire by making it flame up.
 
@@ -141,23 +141,23 @@ The second pāda is likewise ambiguous and initiates the transition to the Indra
 The lexeme prá √yakṣ has been variously interpreted. For ‘display’ see Gotō (1st class, 153 and n. 572), EWA s.v. Curiously Witzel Gotō tr. it as if to √yaj ‘sacrifice’, despite Gotō’s own disc. just cited -- though the other possibility is suggested in the n.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni was born trembling with tongue that flickered, so that the Red's great children should be honoured.  
      Great is their germ, that born of them is mighty, great the Bays' Lord's approach through sacrifices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni wurde mit der Zunge zitternd geboren, um die Söhne des großen Rötlichen zu verehren. Groß war die Leibesfrucht, groß auch diese Geburt, groß die Erbauung des Falbenlenkers Indra durch die Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erzeugt ward Agni mit der Zunge zuckend, um hinzudringen zu den grossen Söhnen [Flammen] des feuerrothen [Agni], gross ist ihr [der Söhne] Spross, und gross das von ihnen geborene; durch Opfer wird gross des Flammenrosses [Agni] Wachsthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни был рожден как (бог,) трепещущий языком,  
 Чтобы почтить сыновей великого алого.  

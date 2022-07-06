@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रअग्नी त꣡पन्ति मा  
 अघा꣡ अर्यो꣡ अ꣡रातयः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 युयुतं꣡ सू꣡रियाद् अ꣡धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अप॑ । द्वेषां॑सि । आ । कृ॒त॒म् । यु॒यु॒तम् । सूर्या॑त् । अधि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -107,41 +107,41 @@ genre M
 हे **इन्द्राग्नी** **अघाः** आहन्त्र्यः **अर्यः** अभिगन्त्र्यः **अरातयः** शत्रुसेनाः **मा** **तपन्ति** मां बाधन्ते । ताः **अप** **आ** **कृतम्** अपाकुरुतम् । तथा **द्वेषांसि** द्वेष्टॄन् शत्रून् सूर्यादधि । अधिः पञ्चम्यर्थानुवादकः । सूर्यदर्शनात् **युयुतं** पृथक्कुरुतं च । यथा ते सूर्यं न पश्यन्ति तथा कुरुतम् । मारयतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, murderous, aggressive enemies harasss us; drive away mine adversaries; separate them from (sight of) the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, the evil hostilities of the stranger scorch me.  
 Make hatreds stay far away from here; keep (him) away from the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (cf. also Oberlies, RdV I.457) I supply ‘him’ as obj. of yuyutám in d, referring to the ari- of b. Renou supplies a pl. obj., referring to the dvéṣāṃsi of b. This is not impossible, but it makes more sense to deprive the stranger of sunlight than his hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The foeman's sinful enmities, Indra and Agni, vex me sore.  
      Drive those who hate me far away, and keep them distant from the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Die böse Kargheit des Geldprotzen peinigt mich. Wendet die Anfeindungen ab, schließt ihn von der Sonne aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es quälen, Indra-Agni, mich die bösen Feinde unheilvoll, O thut hinweg der Hasser Schar, entfernt sie von dem Sonnenlicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, жжет меня  
 Злобная скупость чужого.  

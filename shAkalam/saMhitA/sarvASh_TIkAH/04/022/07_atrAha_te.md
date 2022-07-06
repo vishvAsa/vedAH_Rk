@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्रा꣡ह ते हरिवस् ता꣡ उ देवी꣡र्  
 अ꣡वोभिर् इन्द्र स्तवन्त स्व꣡सारः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दीर्घा꣡म् अ꣡नु प्र꣡सितिं स्यन्दय꣡ध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । सी॒म् । अनु॑ । प्र । मु॒चः । ब॒द्ब॒धा॒नाः । दी॒र्घाम् । अनु॑ । प्रऽसि॑तिम् । स्य॒न्द॒यध्यै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atrāha* ← *atra*
 - \[adverb\]
@@ -139,21 +139,21 @@ genre M
 हे **इन्द्र** त्वं **यत्** यदा **बद्बधानाः** वृत्रेण बध्यमानाः **सीमनु** एता: नदीरुद्दिश्य **दीर्घाम्** अत्यधिकां **प्रसितिं** बन्धनम् **अनु** स्यन्दयध्यै यथाकामं स्यन्दितुं **प्र** **मुचः** प्रकर्षेणामोचयः । हे **हरिवः** हरिवन् इन्द्र **अत्राह** अत्रैव मोचनवेलायां **ता** **उ** ताः प्रसिद्धा एव **देवीः** देव्यो द्योतमानाः **स्वसारः** नद्यः । अत्र स्वसृशब्दो नदीवाची । **अवोभिः** त्वत्कृतै रक्षणैः **ते** त्वां **स्तवन्त** स्तावयन्ति । नदीपूरणादिभिः कर्मभिः जना इन्द्रं स्तुवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Then, **Indra**, lord of horses, the divine sister (rivers) praise (you) for your protection when you did set them free to flow, after having been impeded (by **Vṛtra**) through a long confinement.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Right now, o Indra, master of the fallow bays, with your help these  goddesses, the sisters, are praised,  
 when you let loose those (waters) that had been hard pressed, to let  
 them flow along their long trajectory.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take stavanta as passive, and this seems the correct interpr. The sisters are likely the rivers or waters released after the killing of Vṛtra. The question is why they would be praised as well as Indra. Geldner’s suggestion (n. 7ab) is that it is essentially a spill-over effect (not that he uses that term), that Indra’s praiseworthy deed that brought the waters release also brought them praise by association.
 
@@ -170,23 +170,23 @@ Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u r
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With joy, O Indra, Lord of Tawny Coursers, the Sisters then, these Goddesses, extolled thee,  
      When thou didst give the prisoned ones their freedom to wander at their will in long succession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dabei werden durch deine Hilfe, du Falbenlenker Indra, auch diese göttlichen Schwestern gepriesen, nachdem du die Eingezwängten befreit hast, um nach langer Gefangenschaft zu fließen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da stimmten zu mit Lust dir diese Schwestern, die göttlichen, o Indra, Herr der Rosse, Als du sie löstest, die gefesselt waren, dass frei sie strömten nun zu langer Dauer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И тут прославились, о Индра, благодаря твоим поддержкам  
 Эти божественные сестры, о хозяин буланых коней,  

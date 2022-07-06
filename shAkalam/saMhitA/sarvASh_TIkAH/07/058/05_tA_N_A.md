@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ताँ꣡ आ꣡ रुद्र꣡स्य मीळ्हु꣡षो विवासे  
 कुवि꣡न् नं꣡सन्ते मरु꣡तः पु꣡नर् नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡व त꣡द् ए꣡न ईमहे तुरा꣡णाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । स॒स्वर्ता॑ । जि॒ही॒ळि॒रे । यत् । आ॒विः । अव॑ । तत् । एनः॑ । ई॒म॒हे॒ । तु॒राणा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
@@ -126,42 +126,42 @@ genre M
 **मीळ्हुषः** कामानां वर्षितुः **रुद्रस्य** ईश्वरस्य पुत्रान् **तान्** मरुतः **आ** **विवासे** अहं होता परिचरामि । ते **मरुतः** **नः** अस्मभ्यं **कुवित्** बहुकृत्वः **पुनः** भूयः **नंसन्ते** नमन्ताम् । अभिमुखीभवन्तु । कुविच्छब्देनैव पुनःशब्दार्थस्य लब्धत्वात् पुनःशब्दग्रहणं किमर्थम् । आदरार्थम् । **सस्वर्ता** अन्तर्हितेनाप्रकाशेन **यत्** येन एनसा **जिहीळिरे** मरुतः क्रुध्येयुः **आविः** प्रकाशेन **यत्** येनैनसा च जिहीळिरे **तुराणां** क्षिप्राणां मरुतां संबन्धि **तत्** उभयम् **एनः** अपराधम् **अव** **ईमहे** स्तोत्रेण वयमपनयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I adore those sons of the showerer, **Rudra**; may the **Maruts**, repeatedly invoked, again come to us; maywe expiate (by praise) whatever we have committed secretly or openly against the swift-moving Maruts, by whichthey are displeased.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I seek to entice here these (sons) of Rudra the rewarder. Surely the  Maruts will bow to us again?  
 If they are angry in secret, if openly, we make recompense for this  
 transgression to the forceful ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On jijīḷiré as a presential stative, see Kümmel (610-11).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call, as such, the Sons of bounteous Rudra: will not the Maruts turn again to us-ward?  
      What secret sin or open stirs their anger, that we implore the Swift Ones to forgive us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Söhne des Lohnherren Rudra bitte ich her; gewiß werden die Marut sich uns wieder zuneigen. Wenn die heimlich, wenn die offen Groll hegen, so bitten wir den Übermächtigen die Beleidigung ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich locke her des gnäd'gen Rudra Söhne, ob wol die Maruts wieder zu uns kehren? Wenn sie uns zürnten heimlich oder offen, so bitten wir das Unrecht ab den starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу привлечь к себе этих (сыновей) щедрого Рудры:  
 Конечно, Маруты снова захотят склониться к нам!  

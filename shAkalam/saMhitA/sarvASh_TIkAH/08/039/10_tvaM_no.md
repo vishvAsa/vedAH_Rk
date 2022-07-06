@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुअं꣡ नो अग्न आयु꣡षु  
 तुअं꣡ देवे꣡षु पूर्विअ  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 त्वाम् । आपः॑ । प॒रि॒ऽस्रुतः॑ । परि॑ । य॒न्ति॒ । स्वऽसे॑तवः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -133,36 +133,36 @@ genre M;; repeated line
 हे **पूर्व्य** **अग्ने** **त्वम्** **एकः** एव **आयुषु** मनुष्येषु । ‘द्रुह्यवः आयवः' इति मनुष्यनामसु पाठात् । **नः** अस्माकं **वस्वः** धनस्य **इरज्यसि** ईशिषे । **देवेषु** अपि **त्वम्** एक एव वस्त्र इरज्यसि । अपि च **त्वां** **स्वसेतवः** स्वभूतसेतवः **परिस्रुतः** परिस्रवन्त्यः **आपः** **परि** **यन्ति** परिगच्छन्ति । सिद्धमन्यत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, ancient **Agni**, among men and gods, are alone to us the lord of wealth; the flowing waters confinedwithin their own banks flow around you;may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, foremost Agni, among the Āyus, among the gods, alone have  control over goods for us.  
 Around you do the swirling waters circle, which are their own bridges. – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our Agni, thou art first among the Gods, and first mid living men.  
      Thou only rulest over wealth. Round about thee, as natural dams, circumfluous the waters run. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du allein, Agni, schaltest für uns über das Gut bei den Ayu´s und den Göttern, du Allererster. Dich umkreisen die umfließenden Gewässer, die ihre eigenen Dämme haben. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Gutes waltest du allein, o Agni, bei uns Menschen hier Und bei den Göttern, höchster du; dir eilen rings die wallenden selbseingehegten Tränke zu. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты у нас, о Агни, среди аю,  
 Ты среди богов, о древний (бог),  

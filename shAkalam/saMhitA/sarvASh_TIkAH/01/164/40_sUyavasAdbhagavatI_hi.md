@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूयवसा꣡द् भ꣡गवती हि꣡ भूया꣡  
 अ꣡थो वय꣡म् भ꣡गवन्तः सियाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡ब शुद्ध꣡म् उदक꣡म् आच꣡रन्ती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒द्धि । तृण॑म् । अ॒घ्न्ये॒ । वि॒श्व॒ऽदानी॑म् । पिब॑ । शु॒द्धम् । उ॒द॒कम् । आ॒ऽचर॑न्ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūyavasād* ← *su*
 - \[adverb\]
@@ -117,36 +117,36 @@ popular
 हे **अघ्न्ये** । गोनामैतत् । अहननीये हे गौः त्वं **सूयवसात्** शोभनयवसस्य तृणादिकस्य अत्त्री सती **भगवती** । भग इति धननाम । सर्वैर्भजनीयप्रभूतक्षीरादिधनवती **भूयाः** भव । हिः पूरणः प्रसिद्धौ वा । लोके यवसादिभक्षणेन क्षीरादिसमृद्धिः प्रसिद्धा । **अथो** अनन्तरमेव **वयं** यजमाना अपि **भगवन्तः** प्रभूतेन धनेन तद्वन्तः **स्यामः** । अथ एकवारं पूर्वमुक्तमिदानीं सर्वदा कर्तव्यमिति प्रार्थयते । **विश्वदानीं** विश्वकालं सर्वदा **तृणम्** **अद्धि** भक्षय। **आचरन्ती** सर्वतो निर्गच्छन्ती **शुद्धं** निर्मलम् **उदकं** **पिब** । अयं मन्त्रो यास्केनैवं व्याख्यातः- ‘ सूयवसादिनी भगवती हि भवाथेदानीं वयं भगवन्तः स्यामाद्धि तृणमघ्न्ये सर्वदा पिब च शुद्धमुदकमाचरन्ती' (निरु. ११. ४४ ) इति ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cow, may you be rich in milk through abundant fodder; that we also may be rich (in abundance); eat grass at all seasons, and, roaming (at will), drink pure water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you would become blessed, feeding upon good pasturage, so  then we would also be blessed.  
 Feed on grass always, o inviolable cow [=Speech]! Coming here, drink  pure water!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy.  
      Feed on the grass, O Cow, at every season, and coming hitherward drink limpid water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So mögest du denn auf guter Weide grasend glücklich sein und auch wir möchten glücklich sein. Friß allezeit Gras, o Kuh, trink reines Wasser, zur Tränke kommend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gute Weide geniessend mögest du, o Kuh, beglückt sein; auch wir seien beglückt; friss das Gras zu allen Zeiten, trinke herwandernd das reine Wasser. [Dieser Vers gehört wol ursprünglich einem andern Liede an, und hat wol mit der vâc nichts zu thun].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будешь ты счастлива, пасясь на тучном пастбище!  
 Да будем счастливы также и мы!  

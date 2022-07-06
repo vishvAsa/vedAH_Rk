@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡म् अग्ने अ꣡रातयो  
 म꣡र्तं युवन्त रा᳐यः꣡  
 यं꣡ त्रा꣡यसे दाशुवां꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 यम् । त्राय॑से । दा॒श्वांस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -83,41 +83,41 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे अग्ने **तं** स्तोतारम् **अरातयः** अदानशीला द्वेषिणः **रायः** रयिमन्तः **न** **युवन्त** न पृथक्कुर्वन्ति । रायो धनाद्वा न युवन्त । **यं** **दाश्वांसं** हविर्दातारं **त्रायसे** पालयसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That sacrificing mortal whom you, **Agni**, protect the niggardly cannot separate from wealht.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hostilities do not keep that mortal away from wealth, o Agni,  
 the pious one whom you safeguard.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Malignities stay not from wealth the mortal man whom, Agni, thou  
      Protectest while he offers gifts.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 That car, three-seated, lords of men, that bears you With riches laden well, drives forth at daybreak: On it, O Nāsatyas, to us come onward, That, with all nurture fraught, it may approach us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht wird Mißgunst dem opferspendenden Sterblichen den Reichtum vorenthalten, den du beschirmst, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Böse können nicht, o Agni, dem, den du beschützest, rauben Seinen Schatz dem frommen Manne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

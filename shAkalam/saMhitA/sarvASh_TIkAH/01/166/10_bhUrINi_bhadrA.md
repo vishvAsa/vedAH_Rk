@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡रीणि भद्रा꣡ न꣡रियेषु बाहु꣡षु  
 व꣡क्षस्सु रुक्मा꣡ रभसा꣡सो अञ्ज꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡यो न꣡ पक्षा꣡न् वि꣡ अ꣡नु श्रि꣡यो धिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अंसे॑षु । एताः॑ । प॒विषु॑ । क्षु॒राः । अधि॑ । वयः॑ । न । प॒क्षान् । वि । अनु॑ । श्रियः॑ । धि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūrīṇi* ← *bhūri*
 - \[noun\], nominative, plural, neuter
@@ -126,43 +126,43 @@ genre M
 ते मरुतः **नर्येषु** नरेभ्यो हितेषु **बाहुषु** भुजेषु **भूरीणि** प्रभूतानि **भद्रा** भद्राणि कल्याणानि धनानि स्तोतृभ्यो दातुं **धिरे** दधिरे धारयन्ति । तथा **वक्षःसु** उरःस्थलेषु रुक्माः सुवर्णरत्नादिनिर्मितान्याभरणानि धारयन्ति । कीदृशानि । रभसासः राभस्ययुक्तानि कान्तिमन्ति वा । तथा **अञ्जयः** व्यक्तानि । अंसेषु भुजमूलेषु **एताः** शुक्लवर्णा मालाः । **पविषु** वज्रसदृशेष्वायुधेषु **क्षुराः** क्षुरधाराः। **अधि** सप्तम्यर्थानुवादी । एवमेते मरुतः सर्वाङ्गेषु **श्रियः** लक्ष्मीः अनुक्रमेण **वि** धिरे विविधं धारयन्ति । तत्र दृष्टान्तः । **वयो** **न** **पक्षान्** पक्षिणः पक्षानिव ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, in your arms, propitious to man, are many good things; on your breasts are golden (ornaments) brilliant and conspicuous; while garlands (hang) on your shoulders; sharp are (the edges of) your weapons; the Maruts have various decorations, as birds have (many-coloured) wings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Many good things are on your manly arms, on your breasts brilliants,  dazzling ornaments,  
 on your shoulders antelope (skins), on your wheel-rims razors. Like  birds their wings, your splendors have spread out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. rabhasá- ordinarily characterizes action (‘violent, frenzied’), but here must have a visual aspect. So also III.31.12. Such synaesthesia is not uncommon in the RV.
 
 In d all standard tr. supply ‘they’ [=Maruts] as subject of (vy ánu) dhire, with śríyaḥ as object (e.g., Geldner “… haben sie ihre Herrlichkeiten entfaltet”). This amounts to a change of person, for these same tr. identify the many good things of a-c as ‘yours’ [=Maruts], following similar statements in vs. 9 with vaḥ (a, cd). Though there are no overt 2nd ps. pronouns in vs. 10, the voc. marutaḥ in pāda shows that 2nd ps. reference continues in this verse. Rather than changing person in d, I see another ex. of case disharmony between frame and simile, which is facilitated by the middle voice of dhire. The simile váyo ná pakṣā́n “like birds their wings” uses the middle in transitive but self-involved sense, but, in my reading, in the frame dhire is intransitive, with śríyaḥ as subject. I must admit, however, that the person switches to 3rd in vs. 11, so that a switch here in the last pāda of 10 is not impossible. I prefer my interpr., with constant 2nd ps. in vs. 10, both because -- all things being equal -- it’s best to keep verses self-contained and, more important, because Agastya likes doing tricky things with similes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Held in your manly arms are many goodly things, gold chains are on your chests, and glistering ornaments,  
      Deer-skins are on their shoulders, on their fellies knives: they spread their glory out as birds spread out their wings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Viele Schöne Sachen sind in euren männlichen Armen, auf eurer Brust Goldmünzen, grelle Zierrate, auf den Schultern Antilopenfelle, an den Radschienen Messer. Wie Vögel die Flügel haben sie ihre Herrlichkeiten entfaltet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In euern starken Armen ist viel schönes Gut, an euren Brüsten Goldgehänge, blanker Schmuck, Auf Schultern Felle, Messer an der Räder Rand; sie breiten Glanz wie Vögel ihre Schwingen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Много вещей, несущих счастье, на ваших мужественных руках,  
 На груди – золотые пластинки, пронзительно яркие украшения,  

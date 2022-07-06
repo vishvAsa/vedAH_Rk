@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निः꣡ स꣡प्तिं वाजम्भरं꣡ ददाति  
 अग्नि꣡र् वीरं꣡ श्रु꣡तियं कर्मनिष्ठा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् ना꣡रीं वीर꣡कुक्षिम् पु꣡रंधिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । रोद॑सी॒ इति॑ । वि । च॒र॒त् । स॒म्ऽअ॒ञ्जन् । अ॒ग्निः । नारी॑म् । वी॒रऽकु॑क्षिम् । पुर॑म्ऽधिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -134,37 +134,37 @@ genre M
 अयम् **अग्निः** **सप्तिं** सर्पणस्वभावमश्वं **वाजंभरं** युद्धे शत्रून् जित्वान्नसंपादकं **ददाति** स्तोतृभ्यः । तथा **अग्निर्वीरं** वीर्यवन्तं पुत्रं **श्रुत्यं** पितृव्यपदेशकं **कर्मनिःष्ठां** यागेऽनन्यचित्तं ददाति । **अग्नी** **रोदसी** द्यावापृथिव्यौ **समञ्जन्** सम्यगञ्जयन् **वि** **चरत्** विविधं चरति । अयम् अग्निर्नारीं योषितं **वीरकुक्षिं** वीरप्रसवकुक्षिं **पुरधिं** च करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** gives (his worshipper) a food-acquiring steed, Agni gives (him) a valiant son, renowned,assiduous in pious works; Agni travels beautifying heaven and earth; Agni (makes) as woman the bearer of maleoff-spring (and) intelligent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni gives a prize-bringing team; Agni (gives) a hero, worthy of fame,  outstanding through his work—  
 Agni roams widely through the two world-halves, anointing them  
 completely—Agni (gives) a woman with a hero in her belly, Plenitude  (herself).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI bestows the fleet prize-winning courser: Agni, the hero famed and firm in duty.  
      Agni pervades and decks the earth and heaven, and fills the fruitful dame who teems with heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni schenkt das preisgewinnende Gespann, Agni den berühmten, im Werke anhaltenden Mann. Agni durchwandert beide Welten, sie ausschmückend; Agni schenkt eine gesegnete Frau, die mit einem Sohne schwanger geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ross, was Preis gewinnt, verleiht uns Agni, berühmten Helden, der durch That hervorragt, Durch Erd' und Himmel wandert segnend Agni; er gibt das reiche Weib, das heldenschwangre.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни дарит упряжку, приносящую награду,  
 Агни – прославленного мужа, прилежного в деле,  

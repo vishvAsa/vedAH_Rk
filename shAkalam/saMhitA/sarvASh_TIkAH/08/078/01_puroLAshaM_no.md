@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरोळा꣡शं नो अ꣡न्धस  
 इ꣡न्द्र सह꣡स्रम् आ꣡ भर  
 शता꣡ च शूर गो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 श॒ता । च॒ । शू॒र॒ । गोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
@@ -87,41 +87,41 @@ genre M
 हे **शूर** **इन्द्र** **पुरोळाशं** पुरो दीयमानमेतत्संज्ञकम् **अन्धसः** अन्नं स्वीकृत्य **गोनां** गवां **सहस्रं** **शता** शतानि **च** **नः** अस्मभ्यम् **आ** **भर** आहर। अथवा नोऽस्मभ्यं पुरतो दीयमानमन्धसोऽन्धो व्यञ्जनं सहस्रं सहस्रसंख्याकं गोसहस्रं चाहरेति योज्यम्
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Accepting) our offering of sacrificial viands, O hero **Indra**, bring us thousands and hundreds of cows.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Taking pleasure) in the offering cake and of the soma-stalk, Indra, bring  here to us a thousand  
 and a hundred cows, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There seems no alternative to the problem posed by the ungoverned nouns in pāda a than Geldner’s - to supply a verb, probably a form of √juṣ ‘take pleasure’ (perhaps mid. part. juṣāṇáḥ). This verb seems particularly suitable since it can take both acc. (puroḷā́śam) and gen. (ándhasaḥ). Geldner, however, seems to be taking ándhasa as a dative (ándhase), contra Pp.: “(Koste) unseren Reiskuchen zum Somatrank.” The nominals in pāda a cannot be the object of ā́bhara because Indra doesn’t bring the cake or the stalk, but enjoys them and brings objects in return to those who provided them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BRING us a thousand, Indra, as our guerdon for the Soma juice:  
      Hundreds of kine, O Hero, bring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Koste unseren Reiskuchen zum Somatrank; bring Tausend und Hunderte von Kühen mit, o Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Reiskuchen bring, o Indra, uns und tausend Somatränke her Und hundert Kühe uns, o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

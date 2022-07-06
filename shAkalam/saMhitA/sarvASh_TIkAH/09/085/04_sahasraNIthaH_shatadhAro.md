@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रणीथः शत꣡धारो अ꣡द्भुत  
 इ꣡न्द्राये꣡न्दुः पवते का꣡मियम् म꣡धु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उरुं꣡ नो गातुं꣡ कृणु सोम मीढुवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जय॑न् । क्षेत्र॑म् । अ॒भि । अ॒र्ष॒ । जय॑न् । अ॒पः । उ॒रुम् । नः॒ । गा॒तुम् । कृ॒णु॒ । सो॒म॒ । मी॒ढ्वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasraṇīthaḥ* ← *sahasraṇītha*
 - \[noun\], nominative, singular, masculine
@@ -136,36 +136,36 @@ genre M
 **सहस्रनीथः** बहुप्रकारनयनः **शतधारः** अपरिमितधारोपेतः **अद्भुतः** आश्चर्यकरो महान् **इन्दुः** **इन्द्राय** **काम्यं** **मधु** **पवते** । किंच **क्षेत्रम्** अस्मभ्यम् **अपः** च **जयन्** **अभ्यर्ष** अभिगच्छ पवित्रम् । हे **सोम** **मीढ्वः** सेक्तः **गातुं** मार्गं **नः** अस्माकम् **उरुं** विस्तीर्णं **कृणु** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The guide of thousands, flowing in a hundred streams, marvellous, **Indu** flows forth for **Indra**, (his) beloved beverage; approach (the filter) winning (us) land, winning water, O **Soma**, sprinkler, make our path broad.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having a thousand channels and a hundred streams, unerring, the drop,  the desirable honey purifies itself for Indra.  
 Winning a dwelling place, winning the waters, rush onward. Make a wide  course for us, o Soma the rewarder.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wondrous, with hundred streams, hymned in a thousand songs, Indu pours out for Indra his delightrul meath.  
      Winning us land and waters, flow thou hitherward: Rainer of bounties, Soma, make broad way for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf tausend Wegen, in hundert Strahlen läutert sich der geheimnisvolle Saft für Indra, der begehrte Süßtrank. Fließe hin, indem du Land eroberst, Wasser eroberst; schaff uns breite Bahn, du belohnender Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf tausend Wegen, hundert Strömen wunderbar ergiesst sich hell dem Indra der willkommne Meth, O ströme, Feld und Wasser uns gewinnend, her, huldvoller Soma, schaffe du uns weite Bahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С тысячей потоков, с сотне струй, удивительный,  
 Сок сомы очищается для Индры, желанный мед.  

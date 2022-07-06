@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य श्वेता꣡ विचक्षणा꣡  
 तिस्रो꣡ भू꣡मीर् अधिक्षितः꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 त्रिः । उत्ऽत॑राणि । प॒प्रतुः॑ । वरु॑णस्य । ध्रु॒वम् । सदः॑ । सः । स॒प्ता॒नाम् । इ॒र॒ज्य॒ति॒ । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -128,7 +128,7 @@ genre M;; repeated line
 **यस्य** वरुणस्य **अधिक्षितः** अन्तरिक्षेऽधिवसतः **श्वेता** श्वेतानि **विचक्षणा** तेजांसि **तिस्रो** **भूमीः** **त्रिरुत्तराणि** तिसृणामधिस्थितानि भुवनानि **पप्रतुः** प्रथयन्ति । तथा च मन्त्रवर्णः -- ‘ तिस्रो भूमीर्धारयन् त्रीँरुत द्यून् ' ( ऋ. सं. २. २७.८) इति । तस्य **वरुणस्य** **सदः** स्थानं **ध्रुवम्** अचलमिति । किंच **सः** वरुणः **सप्तानां** सिन्धूनाम् इरज्यति ईश्वरो भवति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M;; repeated line
 Tri = of whom, the ruler, thebrilliant rays pervade the three earths and the three heavens above-- his dwelling-plural ce is immoveable
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose two bright, wide-gazing ones [=sun and moon] preside over the  three earths, and three times have filled the higher (seats)—  
 steadfast is the seat of Varuṇa. He has control over the seven (rivers?). – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ruler, whose bright far-seeing rays, pervading all three earths, have filled the three superior realms of heaven.  
      Firm is the seat of Varuna: over the Seven he rules as King.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen zwei weißglänzende weitschauende Gestirne über den drei Erden wohnen - sie haben die drei höheren Räume erfüllt. Fest ist des Varuna Sitz; er schaltet über die sieben Ströme. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen helles Augenpaar hin über die drei Erden strahlt, Und die drei höchsten Himmel füllt, den festen Sitz des Varuna, er ist der sieben Schwestern Herr. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого двое светлых глядящих далеко  
 Живут над тремя землями  

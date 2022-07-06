@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ नु꣡ ते महिम꣡नः समस्य  
 न꣡ मघवन् मघवत्त्व꣡स्य विद्म꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र न꣡किर् ददृश इन्द्रियं꣡ ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । राध॑सःऽराधसः । नूत॑नस्य । इन्द्र॑ । नकिः॑ । द॒दृ॒शे॒ । इ॒न्द्रि॒यम् । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -124,37 +124,37 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **ते** त्वदीयस्य **समस्य** समस्तस्य **महिमनः** महिम्नो महिमानं **नहि** **विद्म** वयं न जानीमः । नुशब्दः पूरणः । तथा **मघवत्त्वस्य** त्वदीयस्य धनिकत्वस्य च वयं न जानीमः । **नूतनस्य** स्तुत्यस्य **राधसोराधसः** त्वदीयं सर्वं धनं च न जानीमः । सर्वत्र द्वितीयार्थे षष्ठी । हे **इन्द्र** **ते** त्वदीयम् **इन्द्रियं** सामर्थ्यं **नकिर्ददृशे** केनापि न दृश्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We acknowledge no one, **Maghavan**, of greatness equal to yours, nor one of like affluence, nor one of equally glorifiable riches, none has (such as) your power been ever seen (in any other).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 But yet we do not know your whole greatness, nor bounteousness, o  bounteous one,  
 nor every current benefit (of yours). O Indra, your (whole) Indrian  
 strength has not shown itself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All thy vast power, O Maghavan, we know not, know not the riches of thy full abundance.  
      No one hath seen that might of thine, productive of bounty every day renewed, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn noch kennen wir nicht deine ganze Größe nach Freigebigkeit, du Freigebiger, noch jede neueste Wohltat von dir. Deine Indrakraft hat sich noch nicht gezeigt, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn nicht erkannten deine ganze Grösse, und deine ganze Macht wir, o du mächt'ger, Noch alle deine gegenwärt'gen Gaben; niemand durchschaute, Indra, deine Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь и сейчас ни всего твоего величия  
 Мы не знаем, ни проявления щедрости, о щедрый,  

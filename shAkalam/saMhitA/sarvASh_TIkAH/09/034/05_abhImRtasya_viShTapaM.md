@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡म् ऋत꣡स्य विष्ट꣡पं  
 दुहते꣡ पृ꣡श्निमातरः  
 चा꣡रु प्रिय꣡तमं हविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 चारु॑ । प्रि॒यऽत॑मम् । ह॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīm* ← *abhi*
 - \[adverb\]
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ईम्** एनं सोमम् **ऋतस्य** **विष्टपं** स्थानम् । यज्ञाश्रयमित्यर्थः । तादृशं **पृश्निमातरः** मरुतः **अभि** **दुहते**। किम् । **प्रियतमम्** इन्द्रादीनां **हविः** होमसाधनं **चारु** मनोहरम्। मरुत्प्रेरितवृष्ट्या सोमवृद्धेस्तद्दोग्धृत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The son fof **Pṛśni** milk this **Soma** at the plural ce of sacrifice, the most beautiful and grateful oblation (to the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They whose mother is Pr̥śni [=Maruts] milk for themselves the cherished  oblation dearest to them  
 toward the upper surface of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the sense of this vs., see published introduction. Needless to say, this vs. is catnip for Lüders; see his disc. p. 606.
 
@@ -104,23 +104,23 @@ The final words of these two vss. are the phonologically similar háriḥ and ha
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him do the Sons of Prsni milk, the dwelling-place of sacrifice,  
      Oblation lovely and most dear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dem Höhepunkt des Gesetzes zu, melken die Söhne der Prisni das angenehme, liebste Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Priçnisohne melken ihn sich auf des Opfers Stätte hin, Den schönen, liebsten Opfertrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Чтобы достигнуть) вершины закона,  
 (Маруты,) чья мать Пришни, выдаивают  

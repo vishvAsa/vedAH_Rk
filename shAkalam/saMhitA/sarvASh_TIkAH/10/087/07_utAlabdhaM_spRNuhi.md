@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उता꣡लब्धं स्पृणुहि जातवेद  
 आलेभाना꣡द् ऋष्टि꣡भिर् यातुधा꣡नात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आमा꣡दः क्ष्वि꣡ङ्कास् त꣡म् अदन्तु ए꣡नीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अग्ने॑ । पूर्वः॑ । नि । ज॒हि॒ । शोशु॑चानः । आ॒म॒ऽअदः॑ । क्ष्विङ्काः॑ । तम् । अ॒द॒न्तु॒ । एनीः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *utālabdhaṃ* ← *uta*
 - \[adverb\]
@@ -114,7 +114,7 @@ popular
 **उत** अपि च हे **जातवेदः** **अग्ने** त्वम् **आलब्धं** हन्तुं हस्ताभ्यामारब्धं साधुं मां स्तोतारं यष्टारं वा **आलेभानात्** आलभमानात् **यातुधानात्** राक्षसात् **ऋष्टिभिः** आत्मीयैरायुधविशेषैः **स्पृणुहि** पारय । रक्षेत्यर्थः । किंच **पूर्वः** मुख्यस्त्वं **शोशुचानः** प्रज्वलन् **नि** **जहि** मां हन्तुमुद्युक्तं यातुधानं मारय । किंच **तं** यातुधानम् **आमाद:** अपक्वस्य मांसस्य भक्षकाः **क्ष्विङ्काः** शब्दकारिण्यः ।  ‘ टुक्षु शब्दे'। यद्वा । क्ष्विङ्का नाम पक्षिविशेषाः । **एनीः** गन्त्र्यः **अदन्तु** भक्षयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ popular
 Swift-flying vultures: kṣviṅkāḥ = noisy; or, a kind of bird
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And, Jātavedas, with your spears recover what was seized, from the  sorcerer who seized it.  
 Constantly blazing in front, o Agni, smite him down. Let the mottled  vultures that eat raw meat eat him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tear from the evil spirit, Jatavedas, what he hath seized and with his spears hath captured.  
      Blazing before him strike him down, O Agni; let spotted carrion-eating kites devour him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und den Berührten mache von dem berührenden Zauberer frei mit deinen Speeren, Jatavedas! Schlage ihn vorher nieder, Agni, aufflammend! Die aasfressenden, buntfarbigen Geier sollen ihn fressen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mach den ergriffnen frei, o Wesenkenner, vom Zaubrer, den mit Speeren du ergreifest, Voreilend schlag ihn strahlend nieder, Agni; den Fleischverschlinger mögen Geier fressen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А схваченного, о Джатаведас, освободи  
 (Своими) копьями от схватившего (его) колдуна!  

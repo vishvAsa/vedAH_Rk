@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो अस्म꣡भ्यं द्विप꣡दे  
 च꣡तुष्पदे च पश꣡वे  
 अनमीवा꣡ इ꣡षस् करत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अ॒न॒मी॒वाः । इषः॑ । क॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -83,35 +83,35 @@ genre M
 **सोमः** स्तोतृभ्यः **अस्मभ्यं** तथा **द्विपदे** अस्मदीयाभ्यो द्विपाद्भ्यः प्रजाभ्यः **चतुष्पदे** **पशवे** चतुष्पाद्भ्यो गवादिपशुभ्यः **च** **अनमीवाः** रोगवर्जितानि **इषः** अन्नानि **करत्** करोतु ॥ चतुष्पदे । भसंज्ञायां पादस्य पद्भावः ।  ‘ इसुसोः सामर्थ्ये ' इति संहितायां सत्वम् ।' आदेशप्रत्यययोः' इति षत्वम् । बहुव्रीहौ पूर्वपदस्वरः । करत् । करोतेर्लेट्यडागमः । इषस्करत् इत्यत्र संहितायां ' कः करत्करति° ' इत्यादिना सत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Soma** grant to us and to (our) biped and quadruped animals, wholesome food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma—for us, for the two-footed, and for the four-footed livestock, he will make refreshments that bring no disease.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To us and to our cattle may Soma give salutary food,  
      To biped and to quadruped.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma soll uns, dem zweifüßigen und dem vierfüßigen Vieh gute Speisen schaffen, die keine Krankheit bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesunde Tränke schaff er uns, für Mensch und Vieh, für alles, was Auf zweien und auf vieren geht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Сома для нас, для (наших) двуногих  
 И для четвероногого скота  

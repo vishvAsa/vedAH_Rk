@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रज्येष्ठा म꣡रुद्गणा  
 दे꣡वासः पू꣡षरातयः  
 वि꣡श्वे म꣡म श्रुता ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; repeated line
 विश्वे॑ । मम॑ । श्रु॒त॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrajyeṣṭhā* ← *indra*
 - \[noun\], masculine
@@ -88,41 +88,41 @@ genre M;; repeated line
 हेइन्द्रज्येष्ठाः इन्द्रपुरोगमामरुद्गणाः मरुत्समूहरूपाः पूषरातयः पूषाख्योदेवोरातिर्दाता येषां तेपूषरातयः देवासः हेद्यातेमानादेवाः विश्वेसर्वेयूयं मममदीयंहवमाह्वानंश्रुतश्रृणुत इन्द्रज्येष्ठा दयः सम्बोधनान्ताः ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, of whom **Indra** is the chief; divinities, of whom **Pūṣan**. is benefactor; do you all hear my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having Indra as chief, the Maruts as troop, and the gifts of Pūṣan,  o gods,  
 all of you, hear my call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the morphological and semantic structure of pū́ṣarātayaḥ, as well as other aspects of this vs., see the disc. of the identical vs. I.23.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Martus led by Indra, Gods with Pri§an for your bounteousest,  
      Hear all of you this call of mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter mit Indra als Oberstem, mit den Marut als Gefolge und Pusan als Gönner, erhöret alle meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Marutschar, die Indra führt, mit Puschan's Gaben, Götter ihr, O höret alle meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О толпа Марутов с Индрой во главе,  
 (Вы,) боги, кому Пушан-даритель,  

@@ -8,7 +8,7 @@ title = "+021"
 ‘असावि देवम्' इति दशर्चं चतुर्थं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रान्तम् -- ‘असावि ' इति । माध्यंदिनसवने मैत्रावरुणस्योन्नीयमानमिदं सूक्तम् । ‘असावि देवमिहोप यातेत्यनुसवनम् ' ( आश्व. श्रौ. ५.५) इति । इन्द्रस्य वृत्रघ्नः पशौ अभिक्रत्वा' इति वपाया अनुवाक्या । सूत्रितं च - ‘अभि क्रत्वेन्द्र भूरध ज्मंस्त्वं महाँ इन्द्र तुभ्यं ह क्षाः' (आश्व. श्रौ. ३.८) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 21 (537)  
 Indra  
@@ -19,7 +19,7 @@ The most striking verse is 5, the middle verse (vs. 10 being a refrain and thus 
 The final two verses before the refrain (8–9) recognize Indra’s help in the past  and request it for the future.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡धामि ते म꣡धुनो भक्ष꣡म् अ꣡ग्रे  
 हित꣡स् ते भागः꣡ सुतो꣡ अस्तु सो꣡मः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धा वृत्रा꣡णि जङ्घनाव भू꣡रि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 असः॑ । च॒ । त्वम् । द॒क्षि॒ण॒तः । सखा॑ । मे॒ । अध॑ । वृ॒त्राणि॑ । ज॒ङ्घ॒ना॒व॒ । भूरि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhāmi* ← *dhā*
 - \[verb\], singular, Present indikative
@@ -133,19 +133,19 @@ popular
 हे इन्द्र **ते** तुभ्यं **मधुनः** मदकरस्य सोमस्य **भक्षमग्रे** प्रथमं **दधामि** धारयामि । **सुतः** अभिषुतः **भागः** भजनीयः **सोमः** **ते** तव हृदये **हितः** निहितः **अस्तु** भवतु । अपि च **त्वं** **मे** मम **दक्षिणतः** दक्षिणपार्श्वे **सखा** सन् **असः** स्थितो भव। **अध** अथ **भूरि** बहूनि **वृत्राणि** अस्मदीयाञ्छत्रून् **जङ्घनाव** त्वमहं चोभौ आवां हन्वः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I offer the exhilarating **Soma** first toyou, let the effused enjoyable Soma be plural ced within you; be you afriend on my right **hand**, then will we two smite our many enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “I establish a draught of the honey for you at the beginning (of  the sacrifice). Let the pressed soma be established as your portion, and you will be my comrade on my right side. Then we two will keep  smashing obstacles in abundance.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (followed by Klein, DGRV I.242, II.108) takes pāda c as a subordinated conditional clause with d, with the subordination marked by ca (i.e., “if you will be my comrade, then we will …”). This is certainly possible, but it is impossible to tell formally if c is subordinated to d or coordinated with b (as I take it) because the accent on the verb ásaḥ can result from its initial position. Perhaps in favor of the Geldner/Klein interpretation is the fact that both c and d contain subjunctives, while b has an imperative. On the other hand, in a related passage (also adduced by Geldner), the two expressions are parallel, not in a subordinate/main clause relation: X.83.7 … dakṣiṇató bhavā me, ádhā vṛtrā́ṇi jaṅghanāva bhū́ri “Be on my right side.
 
@@ -164,23 +164,23 @@ Oldenberg also considers it an Indra-Vāyu dialogue.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The food of meath in foremost place I give thee, thy Soma shall be pressed, thy share appointed.  
      Thou on my right shalt be my friend and comrade: then shall we two smite dead full many a foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gewähre dir an erster Stelle den Trunk des Soma; der gepreßte Soma soll dir als Anteil bestimmt sein. Wenn du mein Freund zur Rechten sein willst, dann wollen wir beide viele Vritra´s erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schenke dir zuerst den Trank des Methes, dein Antheil sei gesetzt, gebraut der Soma; Genosse seist du mir zu meiner Rechten; Dann woll'n wir beide viele Feinde tödten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я предоставляю тебе в начале питье из меда.  
 Выжатый сома пусть будет твоей установленной долей.  

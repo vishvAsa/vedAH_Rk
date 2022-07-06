@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्रह्मा꣡ देवा꣡नाम् पदवीः꣡ कवीना꣡म्  
 ऋ꣡षिर् वि꣡प्राणाम् महिषो꣡ मृगा꣡णाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मः पवि꣡त्रम् अ꣡ति एति रे꣡भन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 श्ये॒नः । गृध्रा॑णाम् । स्वऽधि॑तिः । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,35 +130,35 @@ genre M
 The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Formulator for the gods, trail-blazer for the sage poets, seer for the  inspired poets, buffalo of the wild beasts,  
 falcon of the birds of prey, axe of the trees—Soma goes rasping  
 through the filter.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a shifting functional relationship between the head noun and its genitive in the seven phrases here: the first two are roles Soma performs for the group identified by the gen., the next three a particular, and superior, individual token from the group (though the third pairing, “seer for/of the inspired poets,” is ambiguous between the first type and the second), and the last is sort of a negative version of the role he plays for the group.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
      Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier der Thiere, Der Geier Adler und die Axt der Wälder, der Soma wandert singend durch die Seihe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брахман богов, пролагатель пути поэтов,  
 Риши среди вдохновенных, буйвол среди диких животных,  

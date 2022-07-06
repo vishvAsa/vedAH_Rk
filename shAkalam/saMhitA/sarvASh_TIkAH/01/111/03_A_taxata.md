@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तक्षत साति꣡म् अस्म꣡भ्यम् ऋभवः  
 सातिं꣡ र꣡थाय साति꣡म् अ꣡र्वते नरः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 जामि꣡म् अ꣡जामिम् पृ꣡तनासु सक्ष꣡णिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सा॒तिम् । नः॒ । जैत्री॑म् । सम् । म॒हे॒त॒ । वि॒श्वहा॑ । जा॒मिम् । अजा॑मिम् । पृत॑नासु । स॒क्षणि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,42 +118,42 @@ genre M
 हे **नरः** यज्ञस्य नेतारः **ऋभवः** **अस्मभ्यम्** अनुष्ठातृभ्यः **सातिं** संभजनीयमन्नं धनं वा **आ** **तक्षत** । अ समन्तात्कुरुत। तथा अस्मदीयाय **रथाय** **रंहणशीलाय** पुत्रादये रथायैव वा **सातिं** संभजनीयं धनम् आतक्षत । तथा **अर्वते** अश्वाय **सातिं** संभजनीयमन्नं धनं वा अश्वयोग्यम् आतक्षतेत्येव । किं च **विश्वहा** सर्वेष्वहःसु **नः** अस्माकं **जैत्रीं** जयशीलामपरिमितत्वेन सर्वाधिकां **सातिं** संभजनीयं धनं **सं** **महेत** । सर्वो जनः सम्यक् पूजयतु। वयं च **पृतनासु** संग्रामेषु **जामिं** सहजातम् **अजामिं** सहानुत्पन्नं शत्रुं वा **सक्षणिम्** अस्मानभिभवन्तं युष्मत्प्रसादादभिभवेमेति शेषः ॥ सातिम् ।  ‘ ऊतियूतिजूतिसाति° ' इत्यादिना क्तिन उदात्तत्वम् । महेत । मह पूजायाम् । सक्षणिम् । **षह** अभिभवे । औणादिकः सनिप्रत्ययः । ढत्वकत्वषत्वानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ṛbhus** conductors (of sacrifice), bestow ample sustenance upon us, upon our chariots, upon our horses; let every one daily acknowledge our victorious wealth, and may we triumph in battle over our foes; whether strangers or kinsmen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fashion winning for us, o R̥bhus, winning for our chariot, winning for  our steed, o men.  
 Might you bring to pass victorious winning for us always, conquering  kin and non-kin in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On √mah ‘bring to pass’, see comm. ad I.94.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do ye, O Rbhus, make prosperity for us, prosperity for car, ye Heroes, and for steed.  
      Grant us prosperity victorious evermore,  
      conquering foes in battle, strangers or akin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zimmert uns Gewinn, ihr Ribhu´s, Gewinn dem Wagen, Gewinn dem Rennpferd, ihr Herren! Siegreichen Gewinn möget ihr uns allezeit schenken, einen Verwandt wie Fremd in den Kämpfen überwindenden Helden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ribhu's, schafft, o Helden, uns Gewinn herbei, Gewinn dem Wagen, und Gewinn dem Renner auch, Des Siegs Gewinn lasst uns erlangen jederzeit, durch den im Kampf wir Freund und Feind bewältigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сладьте нам удачу, о Рибху,  
 Удачу колеснице, удачу скакуну, о мужи!  

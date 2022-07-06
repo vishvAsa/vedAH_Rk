@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् ईरय पित꣡रा जार꣡ आ꣡ भ꣡गम्  
 इ꣡यक्षति हर्यतो꣡ हृत्त꣡ इष्यति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तविष्य꣡ते अ꣡सुरो वे꣡पते मती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 विव॑क्ति । वह्निः॑ । सु॒ऽअ॒प॒स्यते॑ । म॒खः । त॒वि॒ष्यते॑ । असु॑रः । वेप॑ते । म॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre D
 हे अग्ने त्वदीयं ज्योतिः **पितरा** पितरौ सर्वप्राणिनां मातापितृभूते द्यावापृथिव्यौ प्रति **उदीरथ** उद्गमय । तत्र दृष्टान्तः । आकार उपमार्थे । रात्रेर्नक्षत्रादिदीप्तीनां च जरयितृत्वात् **जारः** आदित्यः । स यथा द्यावापृथिव्यौ प्रति **भगं** भजनीयं स्वीयं ज्योतिरुद्गमयति तद्वत् । **हर्यतः** यागं कामयमानान् प्रति **इयक्षति** यजमानो यष्टुमिच्छति । **हृत्तः** हृदयेन च इष्यति । इषिरयं गत्यर्थः शुद्धोऽप्युपसर्गपूर्वो द्रष्टव्यः । अधीष्यति देवान् यष्टुमधिगच्छति । **विवक्ति** विवक्षति । शस्त्रलक्षणाः स्तुतीर्वक्तुमिच्छति च । **वह्निः** वोढा स्तुतीनां देवान् प्रति प्रापयिता होता च स्वपस्यते शोभनमात्मीयं कर्म कर्तुमिच्छति । **मखः** । यज्ञनामैतत् । अत्र तत्प्रयोक्ताध्वर्युरुच्यते । स च **तविष्यते** । तविषिर्वृद्धयर्थः। स चात्रान्तर्णीतसनर्थश्च द्रष्टव्यः। तुतुविषति स्तोत्रलक्षणाः स्तुतीवर्धयितुमिच्छतीत्यर्थः । **असुरः** प्राणवान् प्रज्ञावान् वा । ब्रह्मेति शेषः। **मती** मत्या बुद्ध्या **वेपते** । कर्मवैगुण्यात् बिभ्यत् कम्पते। हे अग्ने यतो यजमानः सर्वर्त्विजश्च स्वस्वकर्म कर्तुं त्वामागच्छन्ति अतस्त्वं शीघ्रमुद्गमयेत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,28 +133,28 @@ The parents: heaven and earth, the parents of all living creatures; as thesun hi
 Vepate = trembles, fearing lest the ceremony be defective
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rouse his [=Agni’s] two parents [=kindling sticks], (as) a lover (rouses) his  “piece of luck” [=girl]. The gladdening one [=Soma] is seeking to attain (the  cows?) and sends (speech) from his heart. The draft-horse [=Agni and/or Soma?] is speaking; the bounteous one  [=Agni?] is performing his work well. The lord [=Soma?] displays his  power; he trembles (in poetic inspiration) with his thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urge thou thy Parents, as a lover ' to delight: the Lovely One desires and craves it from his heart.  
      The priest calls out, the sacrificer shows his skill, the Asura tries his strength, and with the hymn is stirred.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Errege die beiden Eltern wie der Buhle die Liebe! Der Erwünschte hat ein Begehr; er fordert von Herzen dazu auf. Der Wortführer redet, der Freigebige verrichtet gutes Werk. Der Asura zeigt seine Kraft, durch die Dichtung wird er beredt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erreg' die Aeltern und als Buhle Liebesglück, der holde opfert und erquickt von Herzen gern; Er singet fahrend, schöne Werke wirkt der Held; voll Kraft dringt vor der Gott, er wird durch Lied erregt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возбуждай обоих родителей, как любовник – лоно!  
 С нетерпением ждет желанный, от (всего) сердца стремится.  

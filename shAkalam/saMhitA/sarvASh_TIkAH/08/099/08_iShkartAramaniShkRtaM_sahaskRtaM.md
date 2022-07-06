@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इष्कर्ता꣡रम् अ꣡निष्कृतं स꣡हस्कृतं  
 शत꣡मूतिं शत꣡क्रतुम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 व꣡सवानं वसूजु꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒नम् । इन्द्र॑म् । अव॑से । ह॒वा॒म॒हे॒ । वस॑वानम् । व॒सु॒ऽजुव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣkartāram* ← *iṣkartṛ*
 - \[noun\], accusative, singular, masculine
@@ -86,7 +86,7 @@ genre M
 **इष्कर्तारं** शत्रूणां संस्कर्तारम् **अनिष्कृतं** स्वयमन्यैरसंस्कृतं **सहस्कृतं** बलेन कृतं **शतमूतिं** बहुरक्षणं **शतक्रतुं** बहुप्रज्ञं बहुकर्माणं वा **समानं** बहूनां साधारणं **वसवानं** धनान्याच्छादयन्तं **वसूजुवं** यजमानेभ्यो वसूनां प्रेरयितारम् **इन्द्रमवसे** रक्षणाय वयं **हवामहे** ह्वयामः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M
 Consecrator: iṣkartāram =yajñaniṣpādakam; 'satrūṇām saṃskartāram; iṣkartāram aniṣkṛtam, director, yourself undirected
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who sets right but needs no setting right, made by might, of a  hundred forms of help and a hundred resolves,  
 common (to all)—Indra do we invoke for help, the possessor of goods,  speeder of goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Arranger of things unarranged, e'en Satakratu, source of might,  
      Indra, the Friend of all, for succour we invoke, Guardian of treasure, sendjng wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Heilenden, der keiner Heilung bedarf, den Krafterzeugten, der hundert Hilfen, hundert Ratschlüsse hat, den allen gemeinsamen Indra rufen wir zum Beistand, den Schätzebringer, Schätzebringer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den kraftgezeugten, ungeschmückten, schmückenden, von hundertfacher Huld und Kraft, Denselben Indra rufen wir zu Hülfe uns, der reich an Gütern Güter bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Целителя, не нуждающегося в исцелении, (бога,) созданного силой,  
 С сотней поддержек, стоумного,  

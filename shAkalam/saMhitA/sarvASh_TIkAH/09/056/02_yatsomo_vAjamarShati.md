@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् सो꣡मो वा꣡जम् अ꣡र्षति  
 शतं꣡ धा꣡रा अपस्यु꣡वः  
 इ꣡न्द्रस्य सख्य꣡म् आविश꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑स्य । स॒ख्यम् । आ॒ऽवि॒शन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यत्** यदा **अपस्युवः** कर्मकामाः **शतं** शतसंख्याकाः **धाराः** सोमस्य धाराः **इन्द्रस्य** **सख्यं** सखित्वम् **आविशन्** प्राप्नुवन्ति तदा **सोमः** **वाजम्** अन्नम् **अर्षति** गमयति । अस्मभ्यं प्रयच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,12 +92,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Alternative: When soma brings us food, his hundred rite-loving streams obtain Indra's friendship
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Soma rushes toward the prize, as a hundred hardworking streams, entering fellowship with Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consists entirely of a dependent cl. and can most conveniently be attached to the preceding vs. As noted above I take pl. dhā́rā apasyúvaḥ as a nom. in apposition to sg. sómaḥ. Renou explicitly calls it an “Acc. interne,” tr. “(en) cent jets actifs,” but internal to what? Geldner’s tr. is similar to Renou’s, but he doesn’t commit himself as to case. That dhā́rāḥ is definitely nom. in the next hymn, IX.57.1, also with vā́jam as goal, gives some support to my interpr. here.
 
@@ -108,23 +108,23 @@ injunc. ā-viśán with the pl. dhā́rāḥ of b as its subj. It would be accen
 “When Soma rushes towards the prize (and) (his) hundred hardworking streams enter fellowship with Indra.” I do not advocate for this interpr., which seems too fussy, but I do point out that nothing in the grammar of the vs. precludes it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Soma pours the strengthening food a hundred ever-active streams  
      To Indra's friendship win theirway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn Soma nach dem Siegerpreis läuft, in hundert emsigen Strömen, indem er zu Indra´s Freundschaft eingeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Soma Labetrunk ergiesst geschäft'ge Ströme hundertfach, Wenn er in Indra's Freundschaft tritt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

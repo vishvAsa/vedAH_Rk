@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् इ꣡न्द्रो अदीधरद्  
 ध्रुवं꣡ ध्रुवे꣡ण हवि꣡षा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡स्मा उ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 तस्मै॑ । सोमः॑ । अधि॑ । ब्र॒व॒त् । तस्मै॑ । ऊं॒ इति॑ । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -108,36 +108,36 @@ popular;; epic anuṣṭubh (380)
 इममभिषिक्तं ध्रुवेण स्थिरेण हविषा तर्प्यमाण इन्द्रो ध्रुवं स्थिरमदीधरत्। धारयतु। सोमश्च तस्मै राज्ञेऽधि ब्रवत्। अधिब्रवीतु। मदीयोऽयमिति पक्षपातवचनं करोतु। तस्मा उ तस्मा एव ब्रह्मणस्पतिर्मन्त्रस्य पालको देवश्चाधिब्रवीतु॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, gratified by the perpetual oblation, firmly establish this (prince); may **Soma**, mayBrahmaṇaspati address him (as their votary).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here has Indra upheld—firm with a firm oblation.  
 For him Soma will bear witness; for him Brahmaṇaspati.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This man hath Indra stablished, made secure by strong oblation's power.  
      May Soma speak a benison, and Brahmanaspati, on him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn hat Indra fest eingesetzt mit dem feststehenden Opfer. Ihn soll Soma verteidigen, ihn Brahmanaspati!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Befestigt hat ihn Indra hier, durch festes Opfer steht er fest; Der Soma sprech ihm Segen zu und ihm auch Brahmanaspati.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра поддержал его  
 Твердо твердой жертвой.  

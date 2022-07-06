@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्जो꣡ न꣡पातम् आ꣡ हुवे  
 अग्नि꣡म् पवाक꣡शोचिषम्+  
 अस्मि꣡न् यज्ञे꣡ सुअध्वरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्मिन् । य॒ज्ञे । सु॒ऽअ॒ध्व॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऊर्जः** अन्नस्य **नपातं** पुत्रं **पावकशोचिषं** शोधकदीप्तिम् **अग्निं** **स्वध्वरे** असुरैरत्यन्तमहिंस्ये **अस्मिन्** **यज्ञे** **आ** **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke **Agni** of purifying lustre, the son of (sacrificial) food, in this inviolable sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call the child of nourishment, pure-flamed Agni,  
 here to this sacrifice of good ceremony.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I invocate the Child of Strength, Agni with purifying flame,  
      At this well-ordered sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe das Kind der Kraft herbei, den Agni mit heller Flamme zu diesem gutvollzogenen Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sohn der Stärke rufe ich, den hellentflammten Agni an Bei diesem opferreichen Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отпрыска питательной силы я призываю,  
 Агни с чистым пламенем  

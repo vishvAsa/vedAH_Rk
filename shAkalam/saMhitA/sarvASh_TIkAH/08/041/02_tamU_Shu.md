@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ऊ षु꣡ समना꣡ गिरा꣡  
 पितॄणां᳐꣡ च म꣡न्मभिः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 ना॒भा॒कस्य॑ । प्रश॑स्तिऽभिः । यः । सिन्धू॑नाम् । उप॑ । उ॒त्ऽअ॒ये । स॒प्तऽस्व॑सा । सः । म॒ध्य॒मः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -132,7 +132,7 @@ genre M;; repeated line
 **तमु** तमेव वरुणं **समना** समानया **गिरा** स्तुत्या **सु** अभिष्टौमि । **पितॄणां** **मन्मभिः** स्तोमैः **च** अभिष्टौमि । **नाभाकस्य** ऋषेः **प्रशस्तिभिः** स्तोत्रैश्चाभिष्टौमि । **सिन्धूनां** स्यन्दमानानां नदीनाम् **उप** समीपे **यः** **उदये** उद्गच्छति यश्च **सप्तस्वसा** **स** **मध्यमः** इति वाग्भिर्निरुच्यते । **अन्यके** दुर्धियः शत्रवः **समे** सर्वे **नभन्ता** मा भूवन् । तथा च यास्कः - ‘ तं स्वभिष्टौमि समानया गिरा गीत्या स्तुत्या पितॄणां च मननीयैः स्तोमैर्नाभाकस्य प्रशस्तिभिः। ऋषिर्नाभाको बभूव । यः स्यन्दमानानामासामपामुपोदये सप्तस्वसारमेनमाह वाग्भिः स मध्यम इति निरुच्यतेऽथैष एव भवति । नभन्तामन्यके समे मा भूवन्नन्यके सर्वे ये नो द्विषन्ति दुर्धियः पापधियः पापसंकल्पाः' (निरु. १०. ५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,35 +143,35 @@ genre M;; repeated line
 Sindhūnām upoday saptasvasā sa **madhyamaḥ**: cf. **Yāska** 10.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Chant to) him in the same way with a hymn, with the composed  thoughts of our forefathers, and with the panegyrics of Nābhāka—  
 (him,) who is nearby at the rising of the rivers, having seven sisters he is  in the middle (of them).  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Given práśasti- in VIII.40.9, rendered ‘encomia’, the práśasti- here should probably be so tr. as well, rather than ‘panegyrics’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him altogether praise I with the song and hymns our fathers sang, and with Nabhaka's eulogies,-  
      Him dwelling at the rivers' source, surrounded by his Sisters Seven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn preise ich mit gleicher Weise mit meiner Rede und mit den Dichtungen der Väter, mit den Preisliedern des Nabhaka, der an der Mündung der Flüsse von sieben Schwestern umgeben mitteninne wohnt. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn lob' ich mit der Väter Lied mit ihren Andachtssprüchen auch, Mit des Nabhaka Preisgesang, ihn, der am Quell der Ströme weilt mit sieben Schwestern um sich her. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его (я славлю) в равной мере (своей) песней  
 И произведениями отцов  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअ꣡श्वा सि꣡न्धुः सुर꣡था सुवा꣡सा  
 हिरण्य꣡यी सु꣡कृता वाजि꣡नीवती  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उता꣡धि वस्ते सुभ꣡गा मधुवृ꣡धम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ऊर्णा॑ऽवती । यु॒व॒तिः । सी॒लमा॑ऽवती । उ॒त । अधि॑ । व॒स्ते॒ । सु॒ऽभगा॑ । म॒धु॒ऽवृध॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svaśvā* ← *su*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 सेयं **सिन्धुः** **स्वश्वा** शोभनाश्वोपेता **सुरथा** शोभनरथा **सुवासाः** शोभनवसना **हिरण्ययी** हिरण्मयाभरणा **सुकृता** **वाजिनीवती** अन्नवती **ऊर्णावती** । तस्याः समीप देशे हि सन्त्यूर्णाः यासां रोमभिः कम्बलाः क्रियन्ते । **युवतिः** नित्यतरुणी सर्वदा हीनोदका **सीलमावती**। सीराणि ययौषध्या रज्जुभूतया बध्यन्ते सा सीलमेति निगद्यते कृषीवलैः । तादृगोषध्युपेता। **उत** अपि च **सुभगा** सिन्धुः **मधुवृधं** मधुवर्धकं निर्गुण्ड्यादिकम् **अधि** **वस्ते** आच्छादयति । तस्यास्तीरे निर्गुण्ड्यादीनि बहूनि सन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 Rich in wool: of which, blankets are made; sīlamā plural nts: which furnish cordage for fasteningploughs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sindhu has lovely horses, lovely chariots, lovely garments; she is golden,  well-fashioned, rich in prize mares;  
 the young woman is rich in wool [=foam], in sīlamā (plants?); and the  well-portioned one puts on (a garment/plant) increasing the honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich in good steeds is Sindhu, rich in cars and robes, rich in gold, nobly-fashioned, rich in ample wealth.  
      Blest Silamavati and young Urnavati invest themselves with raiment rich in store of sweets.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reich an schönen Rossen ist Sindhu, reich an schönen Wagen und Gewändern, reich an Gold, wohlbeschaffen, reich an Rennstuten; reich an Wolle ist die Jugendliche, reich an Silamakraut, und die Holde trägt als Kleid die Madhuvridh-Staude.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit schönen Rossen, Wagen, Kleidern schöngeformt ist Sindhu reich an Gold und guten Labungen, Die sel'ge Jungfrau, flutenreich, mit wollnem Schmuck, umkleidet sich mit Fluren reich an Süssigkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Синдху, богатая прекрасными конями, прекрасными колесницами, прекрасными одеждами,  
 Полная золота, прекрасно созданная, богатая наградами;  

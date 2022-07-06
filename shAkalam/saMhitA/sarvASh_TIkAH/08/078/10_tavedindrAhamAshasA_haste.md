@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वे꣡द् इन्द्राह꣡म् आश꣡सा  
 ह꣡स्ते दा꣡त्रं चना꣡ ददे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पूर्धि꣡ य꣡वस्य काशि꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दि॒नस्य॑ । वा॒ । म॒घ॒ऽव॒न् । सम्ऽभृ॑तस्य । वा॒ । पू॒र्धि । यव॑स्य । का॒शिना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -117,7 +117,7 @@ genre M
 हे **इन्द्र** **तवेत्** तवैव **आशसा** आशंसनेन त्वमस्मदीयं क्षेत्रं यवसमृद्धं करोषीत्याशंसनेन **हस्ते** **दात्रं** **चन** लवनसाधनं दात्रमपि **आ** **ददे** स्वीकरोमि । किमनेन प्रयासेन । **दिनस्य** **वा** पूर्वमेव छिन्नस्य वा यवस्य **संभृतस्य** **वा** पूर्वमेव छित्त्वा निष्कृतस्य राशीकृतस्य वा **यवस्य** **काशिना** मुष्टिना **पूर्धि** पूरय । आशंसनं देहि च ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,30 +128,30 @@ genre M
 It is as if the field were a barren one and the poet sought from Indra a harvest which he hadnot sown
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With my hope on you, Indra, I never take scythe in hand.  
 Supply us with grain by the handful, whether just mown or already  
 stacked together, bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, through hope in thee alone even this sickle do I grasp.  
      Fill my hand, Maghavan, with all that it can hold of barley cut or gathered up.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Hoffnung auf dich, Indra, nehme ich nicht einmal die Sichel in die Hand. Von dem geschnittenen oder zusammengerafften Korne spende mit voller Hand, du Gabenreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus Verlangen nach dir, o Indra, nahm ich auch die Sichel in die Hand; beschenke uns, o mächtiger mit abgeschnittener oder eingesammelter Gerste, soviel deine Hand fassen kann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

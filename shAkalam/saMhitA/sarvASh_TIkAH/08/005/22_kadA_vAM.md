@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कदा꣡ वां तौग्रियो꣡ विधत्  
 समुद्रे꣡ जहितो꣡ नरा  
 य꣡द् वां र꣡थो वि꣡भिष् प꣡तात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत् । वा॒म् । रथः॑ । विऽभिः॑ । पता॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kadā*
 - \[adverb\]
@@ -91,43 +91,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **नरा** नरौ नेतारावश्विनौ **तौग्र्यः** तुग्रपुत्रो भुज्युः **समुद्रे** जलधौ **जहितः** असुरैः प्रक्षिप्तः सन् **कदा** कस्मिन् काले **वां** युवां **विधत्** अविधत् स्तुतिभिः पर्यंचरत् । **यत्** यदा **वां** युवयोः **विभिः** गन्तृभिरश्वैरुपेतः **रथः** **पतात्** तं भुज्युमानेतुं पतेत् गच्छेत् तदानीं भुज्युरस्तौदिति पूर्वेणार्धेन पृष्टस्य प्रतिवचनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When did the son of **Tugra**, thrown into the ocean, glorify you, leaders (of rites)? then when yourchariot and horses descended.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When did the son of Tugra, abandoned in the sea, do reverence to  you, o men,  
 so that your chariot would fly with its birds?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subjunctive pátāt seems to be used in an unusual past prospective sense in this mythological context. This may be an English problem, however. Since the verb of the main clause is injunc. vidhat, this context is not necessarily preterital, but “timeless,” and the subjunctive can therefore be expressing pure future modality.
 
 The fact that the next verse is also mythological and contains an undoubted present tense form daśasyathaḥ shows that mythological tense is fluid here. Renou remarks (ad vs. 23) that the indifference between present and preterite underlines the reflection of the current human situation in the legendary material.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When did the son of' Tugra serve you, Men? Abandoned in the sea,  
      That with winged steeds your car might fly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann hatte euch der Tugrasohn verehrt, der im Meere verlassene, ihr Herren, daß euer Wagen mit den Vogelrossen geflogen kam?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wann rief des Tugra Sohn euch an, ins Meer gestürzt, o Männer, dass Eur Wagen flöge rossbespannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда сын Тугры почтил вас,  
 Брошенный в море, о два мужа,  

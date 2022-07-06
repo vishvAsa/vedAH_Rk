@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्रवं हि꣡ भूरिदा꣡वत्तरा वां  
 वि꣡जामातुर् उत꣡ वा घा सियाला꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राग्नी स्तो꣡मं जनयामि न꣡व्यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अथ॑ । सोम॑स्य । प्रऽय॑ती । यु॒वऽभ्या॑म् । इन्द्रा॑ग्नी॒ इति॑ । स्तोम॑म् । ज॒न॒या॒मि॒ । नव्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśravaṃ* ← *aśravam* ← *śru*
 - \[verb\], singular, Root aorist (Ind.)
@@ -126,7 +126,7 @@ genre M
 अथ एतस्मात्कारणात् । 'निपातस्य च' (पा.सू. 6.3.136) इति संहितायां दीर्घत्वम् । सोमस्य सोमसदृशस्यास्य हविषः प्रयती प्रयत्या प्रदानेन । 'तादौ च निति कृत्यतौ' (पा.सू. 6.2.50) इति गतेः प्रकृतिस्वरत्वम् । तृतीयैकवचनस्य 'सुपां सुलुक्' (पा.सू. 7.1.39) इति पूर्वसवणदीर्घत्वम् । हे इन्द्राग्नी । पादादित्वात् षाष्ठिकमामन्त्रिताद्युदात्तत्वम् (पा.सू. 6.1.198) । युवभ्यां युवाभ्याम् । आत्वाभावश्छान्दसः । स्तोमं स्तोत्रं जनयामि करोमि । नव्यं अभिनवम् । 'वस्वपसोककविक्षेमवचोनिष्केवलोक्थजनपूर्वनवसूरमर्तयविष्ठेभ्यश्छन्दसि स्वार्थे यद्वक्तव्यः' (पा.भा. 5.4.30) इति यत्प्रत्ययः । 'यतोऽनावः' (पा.सू. 6.1.213) इत्याद्युदात्तत्वम् । एवमनेन स्तोत्रेण तृप्तौ युवां दातृतमौ प्रजां मे दत्तमिति । 'इन्द्राग्नी वा एतस्य प्रजामपगूहतः' (तै.सं. 2.2.1) इत्यादि ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ Sya = winnowing-basket;
 Lo = **lājā**, fried grains (scattered at the marriage ceremony by the bride's brother)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because I have heard of you two as better givers of abundance than a  no-count son-in-law or brother-in-law—  
 so with an offering of soma for you, o Indra and Agni, I beget a newer  praise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard word for son-in-law is simply jā́mātar-; the ví- is presumably a disparaging prefix (see Geldner’s n. 2a), here rendered by “no-count.” śyālá- is found only here in the RV, but is reasonably well attested in later texts and has good MIA correspondents.
 
@@ -162,7 +162,7 @@ These two vss. are parallel in structure, with an initial hí clause with a 1st 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For I have heard that ye give wealth more freely than worthless son-in-law or spouse's brother.  
      So offering to you this draught of Soma, I make you this new hymn, Indra and Agni,
@@ -177,17 +177,17 @@ O Indra and Agni, a new hymn of praise;
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe ja von euch gehört, daß ihr mehr gebt als ein unechter Tochtermann oder ein Schwager. Darum verfertige ich unter Darbringung von Soma auf euch beide, Indra und Agni, ein neues Loblied.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr, so hör ich, seid an Gaben reicher, als Tochtermann und als der Gattin Bruder, Drum zeuge ich, indem ich Soma spende, ein neues Loblied euch, o Indra-Agni!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь я слышал, что вы даете еще больше,  
 Чем зять или же свояк.  

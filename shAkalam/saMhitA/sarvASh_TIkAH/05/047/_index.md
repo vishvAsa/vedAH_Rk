@@ -14,7 +14,7 @@ title = "+047"
 अथ तृतीयोऽध्याय आरभ्यते । तत्र ‘ प्रयुञ्जती ' इति सप्तर्चं तृतीयं सूक्तं प्रतिरथस्यार्षं त्रैष्टुभम् । पूर्वत्र  वैश्वदेवं वै तत् ' इत्युक्तत्वादिदमपि वैश्वदेवम् ।  ‘ प्रयुञ्जती सप्त प्रतिरथः ' इत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 47 (401)  
 All Gods  
@@ -26,7 +26,7 @@ gresses. As was already noted, in verses 1 and 2 the solution is given, but ther
 Although this observation is unconnected to the riddle structure just discussed,  each verse (but 5) has a form of div/dyu “heaven” (mostly diváḥ) (vs. 5 has d(u)vé “two,” which is phonologically close). The final pāda of the hymn is an “homage to  Heaven.” Although this homage was not prepared thematically in the hymn, it was  prepared verbally, by the repetition of the stem in various syntactic and semantic  contexts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति चक्ष्व वि꣡ चक्षुव  
 इ꣡न्द्रश् च सोम जागृतम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अश꣡निं यातुम꣡द्भियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 रक्षः॑ऽभ्यः । व॒धम् । अ॒स्य॒त॒म् । अ॒शनि॑म् । या॒तु॒मत्ऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -95,35 +95,35 @@ popular;; epic anuṣṭubh (424)
 हे **सोम** त्वम् **इन्द्रश्च** **प्रति** **चक्ष्व** प्रत्येकं पश्य राक्षसान् । तथा **वि** **चक्ष्व** विविधं पश्य । यथास्मान्न बाधेरन् तथा पश्येत्यर्थः । युवां च संहतौ **जागृतम्**। जागरूकौ रक्षोवधोद्युक्तौ भवतम् । **यातुमद्भ्यः** हिंसावद्यःजर **रक्षोभ्यः** राक्षसेभ्यः **अशनिम्** अशनिरूपं **वधम्** आयुधम् **अत्यतं** क्षिपतम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, do you and **Indra** severally watch (the **rākṣasas**), be vary, be vigilant; hurl the thunderbolt atthe malignant rākṣasas.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Look on; look out: Indra and Soma, be vigilant.  
 Hurl the weapon of death at the demonic forces, the missile at the  sorcerers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Look each one hither, look around Indra and Soma, watch ye well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schau hin, schau aus; seid wachsam, Indra und Soma! Schleudert die Waffe nach den bösen Geistern, den Schleuderstein nach den Zauberern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Blick hin, blick um dich, o Indra und Soma, seid wachsam, werft euren Mordstrahl auf die Gespenster, euren Donnerkeil auf die Zauberer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разгляди! Оглянись!  
 Индра и Сома, бодрствуйте!  

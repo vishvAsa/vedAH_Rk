@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा घृतस्नव् ईमहे  
 चि꣡त्रभानो सुवर्दृ꣡शम्  
 देवाँ꣡ आ꣡ वीत꣡ये वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दे॒वान् । आ । वी॒तये॑ । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,41 +85,41 @@ genre M
 हे **घृतस्नो** घृतस्य प्रेरक । यद्वा घृतेन जनित । हे **चित्रभानो** । चित्रा नानाविधा भानवो रश्मयो यस्यासौ चित्रभानुः । तस्य संबोधनम् । **स्वर्दृशं** सर्वद्रष्टारं **तं** **त्वा** त्वाम् **ईमहे** याचामहे । अतः **वीतये** हविषां भक्षणाय **देवान्** **आ** **वह** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Feeder upon butter, bright and variegated radiance we solicit you, the beholder of heaven, to (partake of) the (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you with ghee-covered back, o you of shimmering radiance, we beg  you of sunlike appearance:  
 convey the gods hither to pursue (our oblations).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We pray thee, thou who droppest oil, bright-rayed! who lookest on the Sun,  
      Bring the Gods hither to the feast.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee therefore we approach, who swimmest in ghrita 1, O (god) with brilliant light, thee of sun-like aspect. Bring hither the gods that they may feast.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Sonnenäugigen mit Schmalz auf dem Rücken bitten wir, du prächtig Strahlender: Bring die Götter her zum Genuß der Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, schmalzbedeckter, flehn wir an, der sonnengleich du hell erstrahlst, Zum Mahle fahr die Götter her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы просим тебя, о жирноспинный,  
 О (бог) с яркими лучами, (тебя) смотрящего (глазом-) солнцем:  

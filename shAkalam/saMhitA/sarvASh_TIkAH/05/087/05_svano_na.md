@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वनो꣡ न꣡ वो अ꣡मवान् रेजयद् वृ꣡षा  
 त्वेषो꣡ ययि꣡स् तविष꣡ एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 सुआयुधा꣡स इष्मि꣡णः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 येन॑ । सह॑न्तः । ऋ॒ञ्जत॑ । स्वऽरो॑चिषः । स्थाःऽर॑श्मानः । हि॒र॒ण्ययाः॑ । सु॒ऽआ॒यु॒धासः॑ । इ॒ष्मिणः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svano* ← *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
@@ -132,21 +132,21 @@ genre M
 हे मरुतः **वः** युष्माकं **स्वनः** वेगजनितः शब्दः **न** **रेजयत्** न कम्पयत्वेवयामरुतं माम् ॥  ‘ सुपां सुलुक्' इति द्वितीयायाः लुक् ॥ स्वनो विशेष्यते । **अमवान्** बलवान् **वृषा** वर्षिता वृष्टेः **त्वेषः** दीप्तः **ययिः** गन्ता **तविषः** प्रवृद्ध: । **येन** स्वनेन **सहन्तः** शत्रूनभिभवन्तो यूयम् **ऋञ्जत** प्रसाधयथ ॥ लडर्थे लोट् ॥ कीदृशा यूयम् । **स्वरोचिषः** स्वायत्तरश्मयः **स्थारश्मानः** स्थिररश्मयः । **हिरण्ययाः** हिरण्याभरणाः **स्वायुधासः** स्वायत्तायुधाः **इष्मिणः** अन्नवन्तो गमनवन्तो वा ॥ ॥३३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not the sound (of your approach, **Maruts**), which is mighty, the announcer of rain,t he shedder of light, diffusive, loud, alarm Evayāmarut; that sound wherewith, overcoming (your foes), you who are self-irradiating, lasting-rayed, ornamented with golden oranaments, self-weaponed, bestowing food, accomplish your functions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vehement like your roar, the driving turbulent forceful bull [=Viṣṇu] sets  (the earth) atremble—Maruts on the march—  
 with whom the victorious self-luminous ones stretch out straight—  
 the golden ones possessing taut reins, good weapons, arrows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the chiastic phonetic figure that begins the vs.: svanó ná vo.
 
@@ -166,23 +166,23 @@ The source of sthā́raśman- is disputed. First note that this peculiar form ca
 However, if we begin with my observation that 6c #sthā́tāro makes a sthā opening desirable, an irregular reduction of *sthirá-raśman- may be the best option. In fact if we operate with a slightly different form of the 1st member, the development may be easier to explain. I suggest positing a reduced form of sthirá-, namely *sthrá-, showing the same -irV- ∼ -rV- alternation as índra- ∼ *índira- (metrically guaranteed, but not transmitted in the Saṃhitā; cf. AiG I.55) and the 3rd pl. med. pf. endings -ire and -re (AiG I.23). *sthrá- would thus show the loss of an apparent svarabhakti vowel, rather than the insertion of one. The posited cmpd *sthrá-raśman- would then undergo liquid dissimilation, not haplology. This still doesn’t explain the long ā́-, but the parallel sthā́tāraḥ might help there.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like your tremendous roar, the rainer with light flashing, strong, speeding, hath made all tremble, Evayamarut,  
      Wherewith victorious ye, self-luminous, press onward, with strong reins, decked with gold, impetuous and well-weaponed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewaltig wie euer Brausen macht der schreckhafte, eilende, starke Bulle erbeben, mit dem die Marut gern kommen, mit dem sie siegend sich auszeichnen, selbstleuchtend, mit straffen Zügeln, goldig, schönbewaffnet, Pfeile führend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich eurem ungestümen Lärm erschüttert der gewaltige Stier [Vischnu] der schnelle, kräftige Evajämarut |, mit dem sie siegreich voi:dringen, sclbstleuchtend, mit testen Zügeln, goldgeschmückt, schönbewaffnet, die stürmenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Безудержный, как ваш рев, (этот) бык сотрясает (вселенную),  
 Опасный, стремительный, сильный – (Вишну) вместе с быстродвижущимися Марутами –  

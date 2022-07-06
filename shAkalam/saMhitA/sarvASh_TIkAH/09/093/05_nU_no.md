@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नो रयि꣡म् उ꣡प मास्व नृव꣡न्तम्  
 पुनानो꣡ वा᳐ता꣡प्यं विश्व꣡श्चन्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 प्र । व॒न्दि॒तुः । इ॒न्दो॒ इति॑ । ता॒रि॒ । आयुः॑ । प्रा॒तः । म॒क्षु । धि॒याऽव॑सुः । ज॒ग॒म्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -120,14 +120,14 @@ genre M;; repeated line
 हे सोम **पुनानः** पूयमानस्त्वं **नः** अस्मभ्यं **नु** क्षिप्रं **नृवन्तं** मनुष्यैर्युक्तम् । छान्दसं मतुपो वत्वम् । तादृशं **रयिं** धनम् **उप** **मास्व** उपनिर्मिमीष्व । उपकुर्वित्यर्थः । किं च **विश्वचन्द्रं** सर्वेषामाह्लादकं **वाताप्यम्**। उदकनामैतत् । उदकं च कुरु । तथा हे **इन्दो** सोम **वन्दितुः** तव स्तोतुः **आयुः** जीवनं **प्र** **तारि** त्वया वर्धितमस्तु । सोऽयं सोमः **धियावसुः** बुद्ध्या  कर्मणा वा प्राप्तधनः **प्रातः** काले वा सवने वा **मक्षु** शीघ्रमस्मदीयं यज्ञं प्रति जगम्यात् आगच्छेत् । गमेर्लिङि ‘ बहुलं छन्दसि ' इति शपः श्लुः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, when you are purified, measure out to us riches and dependents and all-gratifying water. **Indu**, may the life of your praiser be prolonged; may (Soma) who acquires wealth by his intelligence come quickly at dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, as you are being purified, mete out to us all-glittering wealth,  abounding in superior men, befriended by the wind [/whose  
 friendship is sought].  
@@ -135,7 +135,7 @@ The lifetime of the extoller has been extended, o drop. – Early in the  mornin
 insight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. shows a number of metrical disturbances; see Arnold p. 317, Oldenberg ad loc., Holland & van Nooten Rig Veda edition p. 649. Arnold suggests reading *māsvā in pāda a, which would fix the cadence. Pāda b has an opening of 3; note, however, that the apparently bad cadence viśváścandram with four heavy syllables is not in fact a problem, since all cmpds in - ścandra- are better read *-candra- (see comm. ad I.165.8), yielding the light antepenult required. On the metrical shape of vātā́pyam see immed. below and comm. ad I.121.8. Pāda c has 10 syllables. Pāda d, the Nodhas Gautama refrain (I.58.9, etc.), has an unusual break.
 
@@ -150,23 +150,23 @@ This would allow an analysis vātá-āpya- with expected first-member bahuvrīhi
 Although pāda d is the Nodhas refrain and therefore tacked onto the hymn in some sense, note that dhiyā́responds to dhī́ra- dhītí- of 1b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now unto us mete riches, while they cleansethee, all-glorious, swelling wealth, with store of heroes.  
      Long be his life who worships, thee, O Indu. May he, enriched with prayer, come soon and early.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun teile uns Reichtum an Männern zu, dessen Freundschaft begehrt ist, allschimmernden, wann du dich läuterst! Das Leben des Lobredners werde verlängert, o Saft! - Recht bald am Morgen soll sich der einstellen, der durch die Weisheit Schätze erwirbt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun miss uns Schätze zu, o hell entflammter, gewalt'ge, glänzende, an Männern reiche, Verlängre du des Sängers Leben, Indu; der huldvoll sorget komme früh am Morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отмерь же нам богатство из мужей,  
 Чья дружба желанна, повсюду сверкающего, когда тебя очищают!  

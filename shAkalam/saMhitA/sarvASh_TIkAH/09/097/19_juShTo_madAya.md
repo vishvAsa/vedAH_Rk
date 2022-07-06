@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जु꣡ष्टो म꣡दाय देव꣡तात इन्दो  
 प꣡रि ष्णु꣡ना धनुव सा꣡नो अ꣡व्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि स्रव वा꣡जसातौ नृष꣡ह्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽधारः । सु॒ऽर॒भिः । अद॑ब्धः । परि॑ । स्र॒व॒ । वाज॑ऽसातौ । नृ॒ऽसह्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣṭo* ← *juṣṭaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
@@ -111,21 +111,21 @@ genre M
 हेइन्दो मदाय जुष्टः पर्याप्तस्त्वं देवताते देवैस्ततेयज्ञे सानौ समुच्छ्रिते अव्ये अविभ- वे स्रुनाश्रयणशीलेन धारासङ्घेन सह परिधन्व परिगच्छ सहस्रधारः बहुधारोपेतः सुरभिः सुगन्धिभिः त्वं अदब्धः नकैश्चित् हिंसितः सन् वाजसातौ अन्नलाभाय निमित्ते नृसह्ये नृभिः सोढव्येयुद्धे परिस्रव परितोगच्छ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, who are adequate for exhilaration flow in a stream to the elevated fleece at the sacrifice; thousand- streaming, fragrant, irresistible, flow for the acquisition of food in the combat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Delightful, for the divine conclave for exhilaration, run around the  back, on the sheep’s back.  
 Possessing a thousand streams, sweet-smelling, not to be outwitted,  flow around at the winning of prizes, at the victory over  
 superior men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b pári ṣnúnā dhanva sā́no ávye is identical to 16d ádhi ṣnúnā dhanva sā́no ávye save for the preverb.
 
@@ -140,23 +140,23 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For the God's service, for delight, O Indu, run o'er the height, run o'ver the fleecy summit.  
      With thousand streams, inviolate, sweet-scented, flow on for gain of strength that conquers heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Götterschaft zum Rausche erwünscht, o Saft, rinne oben auf dem Schafrücken; in tausend Strömen, duftend, untrügbar laufe ab, um den Siegerpreis in der männer-bezwingenden Schlacht zu gewinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götterschar zum Rausch willkommen, Indu, ergiess dich auf der Somaseihe Gipfel; In tausend Strömen lieblich duftend, truglos, ergiesse dich beim Sieg im Männerkampfe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желанному сонму богов для опьянения, о сок сомы,  
 Беги кругами по поверхности на спине (цедилки) из овечьей шерсти1  

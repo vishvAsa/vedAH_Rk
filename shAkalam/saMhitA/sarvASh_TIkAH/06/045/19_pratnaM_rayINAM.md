@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्नं꣡ रयीणां᳐꣡ यु꣡जं  
 स꣡खायं कीरिचो꣡दनम्  
 ब्र꣡ह्मवाहस्तमं हुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब्रह्म॑ऽवाहःऽतमम् । हु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratnaṃ* ← *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
@@ -74,19 +74,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रत्नं** चिरंतनं सर्वेषामाद्यं **रयीणां** धनानां **युजं** योजयितारं दातारं **सखायं** मित्रभूतं **कीरिचोदनं** कीरीणां स्तोतॄणां चोदयितारं **ब्रह्मवाहस्तमम्** अतिशयेन ब्रह्मभिर्मन्त्रैर्वहनीयमेवंविधमिन्द्रं **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke the ancient **Indra**, the giver of iches, (our) friend, the encourager of his adorers, who is to be propitiated by prayer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ancient yokemate of riches, the comrade who spurs on the weak, the one who most has the sacred formulation as his vehicle—upon him  do I call.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -96,23 +96,23 @@ These two vss. contain superlatives to bahuvrīhi s-stems that appear earlier in
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call the ancient Friend, allied with wealth, who speeds the lowly man,  
      Him to whom chiefly prayer is brought.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den alten Gefährten der Reichtümer, den Freund, der den Schwachen ermutigt, den die erbauliche Rede am meisten anzieht, rufe ich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich ruf den Freund, der Sängern hilft, der stets mit Gütern war vereint, Dem man die meiste Andacht weiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я призываю древнего союзника богатств,  
 Друга, вдохновляющего слабых,  

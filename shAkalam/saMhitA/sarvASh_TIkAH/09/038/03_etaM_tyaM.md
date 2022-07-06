@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतं꣡ त्यं꣡ हरि꣡तो द꣡श  
 मर्मृज्य꣡न्ते अपस्यु꣡वः  
 या꣡भिर् म꣡दाय शु꣡म्भते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 याभिः॑ । मदा॑य । शुम्भ॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एतं** **त्यं** तं सोममध्वर्योः **दश** **हरितः** हरणस्वभावा अङ्गलयः **अपस्युवः** कर्मेच्छवः सत्यः **मर्मृज्यन्ते** शोधयन्ति । **याभिः** इन्द्रस्य **मदाय** **शुम्भते** दीप्यते । शोध्यत इत्यर्थः । तमेतमिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,33 +90,33 @@ Ten fingers: **harit** = **aṅguli**, a finger (**Nirukta** 2.5);
 Harit = **haraṇa** svabh_va, grasping
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very one do the ten tawny ones keep grooming, hard at work, those by whom he is beautified for exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase “ten tawny ones” (haríto dáśa) helps define the “maidens of Trita” (tritásya yóṣanaḥ) in the previous vs. as the fingers: “ten” is the giveaway.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ten active fingers carefully adorn him here; they make him bright  
      And beauteous for the gladdening draught.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denselbigen putzen die zehn goldfarbigen, geschäftigen Finger, von denen er zum Rausche schön gemacht wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, eben diesen reinigen zehn Stuten, eifrig in dem Werk, Durch die er hell zum Bausch erglänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

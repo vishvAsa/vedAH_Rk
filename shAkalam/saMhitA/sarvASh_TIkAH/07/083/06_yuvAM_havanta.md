@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ हवन्त उभ꣡यास आजि꣡षु  
 इ꣡न्द्रं च व꣡स्वो व꣡रुणं च सात꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ सुदा꣡सम् आ꣡वतं तृ꣡त्सुभिः सह꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत्र॑ । राज॑ऽभिः । द॒शऽभिः॑ । निऽबा॑धितम् । प्र । सु॒ऽदास॑म् । आव॑तम् । तृत्सु॑ऽभिः । स॒ह ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -118,41 +118,41 @@ genre M
 **उभयासः** उभयविधाः सुदाःसंज्ञो राजा तत्सहायभूतास्तृत्सवश्चैवं द्विप्रकारा जनाः **आजिषु** संग्रामेषु **इन्द्रं** च **वरुणं** **च** **युवां** **हवन्ते** आह्वयन्ते । किमर्थम् । **वस्वः** धनस्य **सातये** संभजनार्थम् । **यत्र** येष्वाजिषु **दशभिः** दशसंख्याकैः **राजभिः** शत्रुभूतैर्नृपैः **निबाधितं** नितरां हिंसितं **सुदासं** **तृत्सुभिः** **सह** वर्तमानं **प्र** **आवतं** युवां प्रकर्षेणारक्षतम् । तेष्वाजिष्वित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Both (**Sudāsa** and the Tṛtsus) call upon you two (**Indra** and **Varuṇa**), in combats for the acquisition ofwealth, when you defend Sudāsa, together with Tṛtsus, when attacked bythe ten **rājās**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both (sides) call upon you two in the contests, upon Indra and upon  Varuṇa, to win what is good,  
 (as) when you helped Sudās together with the Tr̥tsus, when he was hard  pressed by the ten kings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men of both the hosts invoked you in the fight, Indra and Varuna, that they might win the wealth,  
      What time ye helped Sudas, with all the Trtsu folk, when the Ten Kings had pressed him down in their attack.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Both sides in battle-conflicts call upon you two, O Indra-Varuṇa, intent on gaining wealth, Where once ye helped Sudās with all his Tṛtsu host, When by the ten kings' hostile force hard pressed in fight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, den Indra und Varuna, rufen beide Parteien in den Schlachten, um das Gut zu gewinnen", wobei ihr dem von zehn Königen bedrängten Sudas samt den Tritsu´s beistandet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch riefen beide Heere in den Kämpfen an um Sieg und Beute, Indra und den Varuna, Als ihr dem Sudas halfet und dem Tritsuvolk, da ihn ringsum bedrängten die zehn Könige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обе стороны зовут вас в сражениях:  
 Индру и Варуну, чтоб захватить добро,  

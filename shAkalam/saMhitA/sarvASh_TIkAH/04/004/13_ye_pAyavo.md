@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ पाय꣡वो मामतेयं꣡ ते अग्ने  
 प꣡श्यन्तो अन्धं꣡ दुरिता꣡द् अ꣡रक्षन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दि꣡प्सन्त इ꣡द् रिप꣡वो ना꣡ह देभुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 र॒रक्ष॑ । तान् । सु॒ऽकृतः॑ । वि॒श्वऽवे॑दाः । दिप्स॑न्तः । इत् । रि॒पवः॑ । न । अह॑ । दे॒भुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -137,7 +137,7 @@ genre M;; repeated line
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,25 +148,25 @@ genre M;; repeated line
 Preserved the blind son: an allusion to the legend of the birth of **Dīrghatamas**, who recovered his sight by worshipping Agni; cherished those benevolent rays: **rakṣa** tān sukṛto viśvavedā: viśvavedas may apply to Agni or to Dīrghatamas; by adding, bhavān, your honour, the term seems to apply to Agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, your protectors who, watching, guarded blind Māmateya  [=Dīrghatamas] from ill-faring,  
 those of good (ritual) action has the possessor [/knower] of everything  [=Agni] guarded. Though wishing to damage, the cheats did no  
 damage at all.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since the yé of the rel. clause in ab has no obvious referent in the main clause of cd, it is tempting to connect ab with the preceding verse (12), and start a new sentence with 13cd -- esp. because 13a yé pāyávaḥ matches 12c té pāyavaḥ so exactly. But vs. 13 is a repeated vs. (= I.147.3), and so must be interpreted as selfcontained. It is also likely, because of the reference to Māmateya, i.e., Dīrghatamas, that I.147, a Dīrghatamas hymn, is its source, and the vs. has been inserted here secondarily because of the match between the two pāyávaḥ phrases (so Bloomfield, Rig-Veda Repetitions ad I.147.3). On the relationship between the relative and main clauses in this vs. see comm. ad I.147.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy guardian rays, O Agni, when they saw him, preserved blind Mamateya from affliction.  
      Lord of all riches, he preserved the pious: the fees who fain would harm them did no mischief
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Thy guardians, O Agni, who seeing have saved the blind son of Mamatâ from distress—He the possessor of all wealth has saved them who have done good deeds. The impostors, though trying to deceive, could not deceive.
 </details>
@@ -179,17 +179,17 @@ He of all wisdom guarded these kindly ones;
 The foes that were fain to deceive could not [5] deceive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Schutzgeister, o Agni, die selbst sehend den blinden Mamateya vor Fehltritt bewahrten, mit denen hat der Allwissende diese Frommen bewahrt. Die schadenfrohen Schelme haben wirklich nicht geschadet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; Der alles weiss, beschützte hier die Frommen; auch schadensücht'ge Feinde schaden nimmer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) твои защитники, о Агни, (сами) зрячие,  
 Кто спас от беды слепого Маматею, –  

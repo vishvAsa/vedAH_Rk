@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त꣡म् इन्द्र प꣡र्वतं न꣡ भो꣡जसे  
 महो꣡ नृम्ण꣡स्य ध꣡र्मणाम् इरज्यसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡श्वस्मा उग्रः꣡ क꣡र्मणे पुरो꣡हितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । वी॒र्ये॑ण । दे॒वता॑ । अति॑ । चे॒कि॒ते॒ । विश्व॑स्मै । उ॒ग्रः । कर्म॑णे । पु॒रःऽहि॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,21 +124,21 @@ genre M
 हे **इन्द्र** **त्वं** **भोजसे** भोजनाय **पर्वतं** पर्ववन्तं मेघं **न** अकार्षीः । न हि हतो भुङ्क्ते । इन्द्रो हि वर्षणार्थं मेघं वज्रेण हन्ति । तथा 'महः महतः **नृम्णस्य** धनस्य **धर्मणां** धारयितॄणां कुबेरादीनाम् **इरज्यसि** ईशिषे । इरज्यतिरैश्वर्यकर्मा । स इन्द्रः **देवता** **वीर्येण** **अति** अतिशयित इति **प्र** **चेकिते** प्रकर्षेणास्माभिर्ज्ञातो बभूव । स च **उग्रः** उद्गूर्ण इन्द्रः **विश्वस्मै** सर्वस्मै वृत्रवधादिरूपाय **कर्मणे** देवैः **पुरोहितः** पुरस्तादवस्थापितः ॥ धर्मणाम् ।  ‘ धृञ् धारणे'।  ‘ अन्येभ्योऽपि दृश्यन्ते' इति कर्तरि मनिन् । नित्त्वादाद्युदात्तत्वम् । इरज्यसि ।' इरज् ईर्ष्यायाम्'। ऐश्वर्ये इत्येके । कण्ड्वादित्वात् यक् । वीर्येण । ' शूर वीर विक्रान्तौ । चुरादिः ।  ‘ अचो यत्' इति यत् । णिलोपः । बहुव्रीहौ ‘वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वविधानसामर्थ्यात् ‘ यतोऽनावः' इत्याद्युदात्तत्वाभावे ' तित्स्वरितम्' इति स्वरितत्वम् । तस्मिन् हि सति ‘आद्युदात्तं द्व्यच्छन्दसि' इत्यनेनैव सिद्धत्वात् पुनर्वीर्यग्रहणमनर्थकं स्यादित्युक्तम् । देवता । देव एव देवता। ‘देवात्तल्' (पा. सू. ५. ४. २७) इति स्वार्थे तल्प्रत्ययः ।  ‘ लिति' इति प्रत्ययात् पूर्वस्योदात्तत्वम् । चेकिते । कित ज्ञाने '। अस्मात् यङन्तात् चेकित्यतेः कर्मणि लिटि अतोलोपयलोपौ । पुरोहितः । पुरस्शब्दस्य असिप्रत्ययान्तस्य ‘ तद्धितश्चासर्वविभक्तिः ' इति अव्ययत्वेन ‘ पुरोऽव्ययम्' इति गतिसंज्ञायां ‘ गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You **Indra**, have not (struck) the cloud for (your own) enjoyment; you rulest over those who are possessed of great wealth; that divinity is known by us to surpass all others in strength; the haughty (Indra) takes precedence of all gods, on account of his exploits.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In order to enjoy it [=soma] like a mountain, you are in control of the  principles of great manliness.  
 Among the gods he shows ever more brightly by his heroism—the  
 powerful one placed in front for every deed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner notes, √bhuj ‘enjoy, derive benefit’ is formulaically associated with mountains, however odd that association may be to us. The question is then what does Indra enjoy like a mountain. Geldner takes it to be one of the elements in b, either the ‘principles’ (neut. pl. dhárman-) or the ‘manliness’ (neut. sg. nṛmṇá-), and interprets masc. sg. tám in pāda as attraction from tā́ni or tád respectively. This is not impossible, but I prefer to take the object in the frame as soma, which has the correct gender and number, appeared in the previous vs. (2c), and is certainly something Indra enjoys (although I have found no passages in which soma is explicitly construed with √bhuj). The message of this first hemistich of vs. 3 - that Indra displays manly power in order to enjoy the soma - is essentially the same as that of 2c, where he “acts the bull” to drink the soma.
 
@@ -147,23 +147,23 @@ Renou rather trickily interprets the simile / frame construction with one verbal
 In c I am very tempted to read *devátāti with one accent, the loc. sg. of devátāt-, rather than the transmitted devátā́ti, that is, devátā + áti, with the adverbial instr. to devátā plus the preverb áti. (An asterisk should therefore be inserted in the published translation) The loc. *devátāti would convey essentially the same meaning as devátā, and though prá √cit is very common, prá-áti √cit would only occur here. For a parallel construction with prá cékite + instr. and loc., see VI.61.13 prá yā́mahimnā́ mahínāsu cékite “The one who by her greatness shines ever more brightly among the great (rivers).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou swayest, Indra, all kinds of great manly power, so as to bend, as't were, even that famed mountain down.  
      Foremost among the Gods is he through hero might, set in the van, the Strong One, for each arduous deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, besitzest die Eigenschaften großer Mannhaftigkeit um sie wie einen Berg zu nutzen. An Heldenmut tut er sich unter den Göttern hervor, der Gewaltige, zu jeglichem Unternehmen an die Spitze gestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um auszubeuten, Indra, diesen Wolkenberg, verfügest über grosse Kraft und Opfer du; Er ragt durch Mannheit vor der Götterschar hervor, der mächtige zu jeder That vorangestellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, обладаешь свойствами великого мужества,  
 Словно та гора – чтобы (ее) использовать.  

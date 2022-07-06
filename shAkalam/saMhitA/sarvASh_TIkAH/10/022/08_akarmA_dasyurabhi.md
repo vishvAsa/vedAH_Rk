@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अकर्मा꣡ द꣡स्युर् अभि꣡ नो अमन्तु꣡र्  
 अन्य꣡व्रतो अ꣡मानुषः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 व꣡धर् दास꣡स्य दम्भय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 त्वम् । तस्य॑ । अ॒मि॒त्र॒ऽह॒न् । वधः॑ । दा॒सस्य॑ । द॒म्भ॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akarmā* ← *akarman*
 - \[noun\], nominative, singular, masculine
@@ -109,7 +109,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अकर्मा** अविद्यमानयागादिकर्मा **दस्युः** उपक्षपयिता **अभि** आभिमुख्येन स्वरूपतः **नः** अस्मान् **अमन्तुः** अज्ञाता । यद्वा । अत्र अवेत्युपसर्गस्य वकारलोपो द्रष्टव्यः । अवमन्तुरवमन्ताभिभविता । **अन्यव्रतः** श्रुतिस्मृतिव्यतिरिक्तकर्मा **अमानुषः** मनुष्यसंव्यवहाराद्बाह्यः । असुरप्रकृतिरित्यर्थः । य एवंभूतोऽस्ति हे **अमित्रहन्** शत्रूणां हन्तरिन्द्र **त्वं** **दासस्य** उपक्षपयितव्यस्य **वधः** हन्ता सन् **दम्भय** तं शत्रुं हिन्धि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,30 +124,30 @@ Amantuḥ = avamantuḥ = despising; following other observances: anyavrataḥ, 
 **Amānuṣaḥ** =manuṣyasaṃvyavahārād **bāhyaḥ**, out of the laws or customs of men, asuraprakṛtirūpaḥ, being of thenature of evil spirits
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Dasyu of non-deeds, of non-thought, the non-man whose  
 commandments are other, is against us.  
 You smasher of non-allies, humble the weapon of this Dāsa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Around us is the Dasyu, riteless, void of sense, inhuman, keeping alien laws.  
      Baffle, thou Slayer of the foe, the weapon which this Dasa wields.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Dasyu bedrängt uns, der kein frommes Werk tut, keine heiligen Gedanken hat, andere Gebote befolgt, der Unmensch. Überliste, du Feindetöter, die Waffe dieses Dasa!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns widerstrebt der Dämon schlimm an That und Sinn der Unhold, welcher andern dient, Vereitle dieses Bösen Hieb, du, der die Feinde du erschlägst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не совершающий обрядов дасью нас у(гнетает), неразумный,  
 Верный другим обетам, нечеловек.  

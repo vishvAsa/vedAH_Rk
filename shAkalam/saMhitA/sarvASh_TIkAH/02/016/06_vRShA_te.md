@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा ते व꣡ज्र उत꣡ ते वृ꣡षा र꣡थो  
 वृ꣡षणा ह꣡री वृषभा꣡णि आ꣡युधा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्र सो꣡मस्य वृषभ꣡स्य तृप्णुहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृष्णः॑ । मद॑स्य । वृ॒ष॒भ॒ । त्वम् । ई॒शि॒षे॒ । इन्द्र॑ । सोम॑स्य । वृ॒ष॒भस्य॑ । तृ॒प्णु॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -124,37 +124,37 @@ genre M
 वृषभ कामानांवर्षक हेइन्द्र तेतववज्रः वृषाकामवर्षकः तथातेरथोपिवृषा तेहरीएतन्नामकावश्वौ वृषणावर्षकौतवआयुधावज्रव्यतिरिक्तान्यायुधान्यपिवृषभाणि वृष्णोवर्षकस्यमदस्य मदकरस्यसोम- स्यत्वमेवईशिषे स्वामीभवसि हेइन्द्र वृषभस्यवर्षकेणसोमस्यसोमेनतृप्णुहि तृप्तोभव तृपप्रीणने स्वा- दिः क्षुभ्रादिषु नृमन तृमोतीतिपठितं तथापिसर्वविधीनाञ्छन्दसिविकल्पितत्वादत्रणत्वप्रतिषेधोनभ- वति ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your thunderbolt, **Indra**, is the rainer (of bounties); your chariot, the showerer (of blessings); your two horses, the shedders (of desires); your weapons the diffusers (of wishes); you reign, showerer (of benefits), over the inebriating **Soma**, the sprinkler (of delight); satiate yourself, Indra, with the good-diffusing Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your mace is a bull and your chariot is a bull. Your two fallow bays are  bulls, and your weapons are bulls.  
 O bull, you are the master of the bull that is the exhilarating drink.  
 Indra, take your fill of the bull soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong is thy thunderbolt, yea, and thy car is strong; strong are thy Bay Steeds and thy weapons powerful.  
      Thou, Indra, Bull, art Lord of the strong gladdening drink. with the strong Soma, Indra, satisfy thyself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Bulle ist deine Keule und dein Wagen ist ein Bulle; Bullen sind deine Falben, bullenhaft sind deine Waffen. Du Bulle gebeutst über den bullenhaften Rauschtrank. Indra, trink dich am bullenhaften Soma satt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Blitz ein Stier, und auch dein Wagen ist ein Stier, die Rosse Stiere, und die Waffen Stiere auch, Du bist, o Stier, der Herr des Stiers der Rausch erregt; ergötz', o Indra, an dem Stier dem Soma dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык – твоя ваджра, а также бык – твоя колесница,  
 Быки – два буланых коня, бык – оружие.  

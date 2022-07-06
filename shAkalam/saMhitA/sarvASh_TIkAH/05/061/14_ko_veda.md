@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ वेद नून꣡म् एषां᳐  
 य꣡त्रा म꣡दन्ति धू꣡तयः  
 ऋत꣡जाता अरेप꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋ॒तऽजा॑ताः । अ॒रे॒पसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -82,35 +82,35 @@ genre M
 **एषां** मरुतां स्थानं **को** **वेद** को जानाति । **नूनम्** इदानीं **यत्र** स्थाने **धूतयः** शत्रूणां कम्पकाः **मदन्ति** हृष्यन्ति **ऋतजाताः** जलार्थमुत्पन्ना यज्ञे वा प्रादुर्भूताः **अरेपसः** अपापाः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who knows of a certainty their (abode), where the intimidators (of their foes) rejoice? born for (the distribution of) water, exempt from defects.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who now knows about them, where the shakers are reaching elation, those born of truth, unblemished?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who knoweth, verily, of these where the All-shakers take delight,  
      Born, spotless, after sacred Law?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer weiß jetzt von ihnen, wo die Schüttler sich ergötzen, die rechtzeitig geborenen, makellosen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer hat von ihnen Kunde recht, wo die Erschüttrer schwelgen nun, die Recht - entsprungnen, heiligen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто знает сейчас о них,  
 Где опьяняются сотрясатели,  

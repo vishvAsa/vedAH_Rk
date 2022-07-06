@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वस्मा अग्नि꣡म् भु꣡वनाय देवा꣡  
 वैश्वानरं꣡ केतु꣡म् अ꣡ह्नाम् अकृण्वन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पो ऊर्णोति त꣡मो अर्चि꣡षा य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । यः । त॒तान॑ । उ॒षसः॑ । वि॒ऽभा॒तीः । अपो॒ इति॑ । ऊ॒र्णो॒ति॒ । तमः॑ । अ॒र्चिषा॑ । यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvasmā* ← *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
@@ -132,36 +132,36 @@ popular
 **देवाः** इन्द्रादयः **विश्वस्मै** **भुवनाय** **वैश्वानरं** विश्वनरहितम् **अग्निम्** **अह्नां** दिवसानां **केतुं** प्रज्ञापकम् **अकृण्वन्** अकुर्वन् । **यः** वैश्वानरोऽग्निः **उषसो** **विभातीः** विविध दीप्यमानः **आ** **ततान** विस्तारयति । किंच सोऽयं **यन्** गच्छन् **तमः** अन्धकारम् **अर्चिषा** तेजसः **अपो** **ऊर्णोति** अपगमयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The gods made **Agni** **Vaiśvānara**, the indicator of days, for the sake of the whole world, whostretched out the radiant dawns, and as he moves along scatters the darkness with his light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the sake of the whole world the gods made Agni Vaiśvānara the  beacon of the days.  
 He who extends through the radiant dawns uncovers the darkness as he  goes with his flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For all the world of life the Gods made Agni Vaisvanara to be the days' bright Banner,-  
      Him who hath spread abroad the radiant Mornings, and, coming with his light, unveils the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für die ganze Welt machten die Götter den Agni Vaisvanara zum Zeichen der Tage; der die aufleuchtenden Morgenröten ausgebreitet hat, er deckt auch die Finsternis ab, wann er mit seinem Lichtstrahl kommt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter machten als des Tages Leuchte dem Weltall ihn, den Männerhort, den Agni, Der ausgebreitet hat die lichten Morgen, enthüllt das Dunkel, wenn im Glanz er ankommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для всей вселенной боги сделали Агни  
 Вайшванару символом дней.  

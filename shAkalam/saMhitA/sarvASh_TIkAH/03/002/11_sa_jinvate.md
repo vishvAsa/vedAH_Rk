@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ जिन्वते जठ꣡रेषु प्रजज्ञिवा꣡न्  
 वृ꣡षा चित्रे꣡षु ना꣡नदन् न꣡ सिंहः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सु र꣡त्ना द꣡यमानो वि꣡ दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वै॒श्वा॒न॒रः । पृ॒थु॒ऽपाजाः॑ । अम॑र्त्यः । वसु॑ । रत्ना॑ । दय॑मानः । वि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -119,41 +119,41 @@ genre M
 प्रजज्ञिवान् जातः वृषावर्षकः सवैश्वानरः चित्रेषुनानाप्रकारेषु प्राणिनां भेदात् जठराणां भेदः तेषुजिन्वतेवर्धते चित्रेषुनानाविधेष्वरण्येषु नानदत् अत्यर्थं शब्दङ्कुर्वन् सिंहोन सिंहइव किंविधोवैश्वानरः पृथुपाजाः पृथुतेजाः अथवा पृथुवेगः अमर्त्यः मनणधर्मरहितः दाशुषेहवि षाम्प्रदात्रे यजमानाय रत्नारमणीयानि वसुवसूनि धनानि वि विशेषेण दयमानः प्रयच्छन् ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The showerer (of benefits), genitive rated in (many) receptacles, flourishes, roaring in various (plural ces) like a lion; **Vaiśvānara**, the resplendent, the immortal, giving precious treasure to the donor (of the oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since he understands how, the bull enlivens himself in his shimmering  bellies like a loudly roaring lion—  
 deathless Vaiśvānara of broad visage, who distributes goods and  treasures to the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He stirs with life in wombs dissimilar in kind, born as a Lion or a loudly-bellowing Bull:  
      Vaisvanara immortal with wide-reaching might, bestowing goods and wealth on him who offiers gifts.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He the generator, the strong one, stirs in the resplendent bellies like a roaring lion, Vaisvânara with his broad stream of light, the immortal, distributing goods and treasures to his worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In bunten Leibern sich fortpflanzend regt sich der Stier wie ein Löwe brüllend, der Vaisvanara in breiter Gestalt, der Unsterbliche, der die Güter, die Schätze dem Opferspendenden austeilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er regt sich in den Leibern Wegs bewusst, in den verschiednen brüllet löwengleich der Stier; Der Männerhort, weitschimmernd der Unsterbliche, an den Verehrer theilt er gute Schätze aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Родившись в разных утробах, он оживает,  
 Бык, ревущий, словно лев,  

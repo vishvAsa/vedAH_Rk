@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्षे꣡व यूथा꣡ परिय꣡न्न् अरावीद्  
 अ꣡धि त्वि꣡षीर् अधित सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मः प꣡रि क्र꣡तुना पश्यते जाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic, Normal
@@ -32,7 +32,7 @@ genre M
 दि॒व्यः । सु॒ऽप॒र्णः । अव॑ । च॒क्ष॒त॒ । क्षाम् । सोमः॑ । परि॑ । क्रतु॑ना । प॒श्य॒ते॒ । जाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ukṣeva* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 **उक्षेव** वृषभ इव **यूथा** गोयूथानि प्रत्यागच्छञ्छब्दं करोति तद्वदयं सोमः स्तुतीः **परियन्** परिगच्छन् **अरावीत्** शब्दायते । ततः **सूर्यस्य** सर्वस्य प्रेरकस्यादित्यस्य **त्विषीः** दीप्तीः **अधि** **अधित** अधिदधाति । सूर्यात्मना द्युलोकेऽवतिष्ठत इत्यर्थः । दधातेर्लुङि ‘ स्थाध्वोरिच्च' इति इत्वकित्त्वे । किंच **दिव्यः** दिवि भवः **सुपर्णः** सुपतनः श्येनरूपया गायत्र्याहृतत्वाच्छोभनगमनः सोमः **क्षाम्** । पृथिवीनामैतत् । क्षियन्ति निवसन्त्यत्रेति । क्षां पृथिवीम् **अव** **चक्षत** अवपश्यति । चष्टेर्लङि ’ बहुलं छन्दसि ' इति शपो लुगभावः । ततः **सोमः** **जाः** जाताः  प्रजाः **क्रतुना** प्रज्ञानेन **परि** **पश्यते** परितः पश्यति । व्यत्ययेनात्मनेपदम् ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M
 Flying gracefully: **suparṇaḥ** = a hawk; supatanaḥ, going gracefully, because it is carried off by **gāyatrī** in the shape of a hawk
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a bull going around the herds, he has bellowed as he circles. He has  put on the glitterings of the sun.  
 The heavenly eagle looks down upon the earth. Soma surveys the  
 creatures in accord with his purpose.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a bull roaming round the herds he bellows: he hath assumed the brilliancy of Surya.  
      Down to the earth hath looked the heavenly Falcon: Soma with wisdom views all living creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein Stier, der die Herden umwandelt, hat er gebrüllt; die funkelnden Strahlen der Sonne hat er angenommen. Der himmlische Vogel sieht auf die Erde herab; Soma überschaut mit Überlegung die Geschöpfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Heerden wie ein Bull durchschreitend brüllt er, er hat sich angelegt der Sonne Strahlen; Des Himmels Adler blickt herab zur Erde, Soma beschaut mit Weisheit alle Wesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он взревел, как бык, обегающий стада.  
 Он взял себе вспышки солнца.  

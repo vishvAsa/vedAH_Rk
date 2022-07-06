@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मन्दस्वा हि꣡ अ꣡न्धसो  
 रा꣡धसे तनु꣡वा महे꣡  
 न꣡ स्तोता꣡रं निदे꣡ करः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 न । स्तो॒तार॑म् । नि॒दे । क॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -92,20 +92,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे इन्द्र 'सः तादृशस्त्वम् **अन्धसः** सोमस्य पानेन हृष्टया **तन्वा** आत्मीयेन शरीरेण **मन्दस्व** मोदस्व । किमर्थम् । **महे** महते **राधसे** धनार्थम् । **हि** पूरणः । अपि च त्वदीयं **स्तोतारं** **निदे** निन्दकाय तस्य वशं **न** **करः** न कुर्याः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Delight your person n with the libation (offered) for the sake of treasure; subject not your worshipper to his reviler.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Find exhilaration from the stalk, then, to show great generosity with  your own person.  
 You will not put your praiser to scorn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is identical to III.41.6, q.v. The lack of accent on mandasvā despite the following hí is puzzling.
 
@@ -119,23 +119,23 @@ There is no obvious unifying feature in this tṛca, though Indra is compared to
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Delight thee with the juice we pour for thine own great munificence:  
      Yield not thy singer to reproach.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So berausche dich denn in eigner Person am Tranke zu großer Freigebigkeit. Setz den Sänger nicht dem Tadel aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreu dich denn am Somakraut zu grosser Gab' aus eigner Lust; Nicht gib den Sänger hin dem Hass.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так опьяняйся же телом  
 От напитка – для великого дарения!  

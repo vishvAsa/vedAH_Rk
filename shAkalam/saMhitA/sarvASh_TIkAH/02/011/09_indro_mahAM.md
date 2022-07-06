@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो महां꣡ सि꣡न्धुम् आश꣡यानम्  
 मायावि꣡नं वृत्र꣡म् अस्फुरन् निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 क꣡निक्रदतो वृ꣡ष्णो अस्य व꣡ज्रात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 अरे॑जेताम् । रोद॑सी॒ इति॑ । भि॒या॒ने इति॑ । कनि॑क्रदतः । वृष्णः॑ । अ॒स्य॒ । वज्रा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -105,36 +105,36 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 बलवानिन्द्रः महाम्महान्तंसिन्धुं स्यन्दतेइतस्ततः सञ्चरतीतिसिन्धुर्मेघः तमाशयानं तमधिष्ठायश- यानम्मायाविनंवृत्रमसुरं यद्वा सिन्धुरुदकन्तदधिष्ठायशयानं वृत्रंवृणोत्याकाशमिति वृत्रोमेघः तन्निर- स्फुरत् निरहन् वृष्णःवर्षकस्यअस्येन्द्रस्यकनिक्रदतः शब्दङ्कुर्वाणाद्वज्रात् भियानेभयम्प्राप्तेरोदसीद्या- वाप्रुथिव्यौ अरेजेतां अकम्पेतान्दाधर्तिदर्धर्तीत्यादिनाकनिक्रदच्छब्दोनिपातितः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mighty **Indra** has shattered the guileful **Vṛtra** reposing in the cloud;heaven and earth shook, alarmed at the thundering bolt of the showerer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra kicked away wily Vr̥tra, lying upon the great river.  
 The two worlds trembled in fear before the mace of him, the bull  roaring and roaring again.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath hurled down the magician Vrtra who lay beleaguering the mighty river.  
      Then both the heaven and earth trembled in terror at the strong Hero's thunder when he bellowed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra stieß den zauberischen Vritra weg, der den großen Strom belagerte. Es bebten beide Welten aus Furcht vor seiner, des Bullen, brüllender Keule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den mächtgen Vritra, der den Strom bewacht hielt, den listgeübten stiess hernieder Indra; Aus Furcht erbebten zitternd Erd' und Himmel, vor seinem Blitz, dem Stier, der donnernd brüllte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра столкнул колдовского Вритру,  
 Лежавшего на великой реке.  

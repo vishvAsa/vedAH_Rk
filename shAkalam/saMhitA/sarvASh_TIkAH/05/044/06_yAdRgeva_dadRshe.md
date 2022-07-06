@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यादृ꣡ग् एव꣡ द꣡दृशे तादृ꣡ग् उच्यते  
 सं꣡ छाय꣡या दधिरे सिध्र꣡याप्सु आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बृह꣡त् सुवी꣡रम् अ꣡नपच्युतं स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 म॒हीम् । अ॒स्मभ्य॑म् । उ॒रु॒ऽसाम् । उ॒रु । ज्रयः॑ । बृ॒हत् । सु॒ऽवीर॑म् । अन॑पऽच्युतम् । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yādṛg* ← *yādṛś*
 - \[noun\], nominative, singular, neuter
@@ -142,20 +142,20 @@ genre M
 एषा वैश्वदेवी। **यादृगेव** **ददृशे** यादृग्रूपमेव दृश्यते **तादृगुच्यते** तादृग्रूपमेवोच्यते । यथादृष्टमेव स्तूयते न तु परवचनप्रत्ययेन । यस्मात् **छायया** दीप्त्या **सिध्रया** साधिकया सह **अप्सु** व्यापिकासु स्तुतिषु अप्स्वेव वा **आ** **सं** **दधिरे** सम्यग्धारयन्ति स्वीयं रूपं स्तुतिं वा । ते देवाः **महीं** महतीं पूज्याम् **उरुषां** बहुदात्रीं रयिम् **उरु** प्रभूतं **ज्रयः** वेगं **बृहत्** महत् **सुवीरं** शोभनवीर्यमपत्यम् **अनपच्युतम्** अनुपक्षीणं **सहः** बलं चाभिभावुकम् **अस्मभ्यं** प्रयच्छन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such as (the deity) is beheld, such is he said (to be); they abide with concentrated splendour in the waters; (may they bestow) upon us honourable and ample (riches) great energy, numerous **male** offspring and undecaying vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as he appears, so is he said (to be): They united (him) with his  effective shadow in the waters—  
 (him) who wins wideness for us—(wins) the great (earth), the broad  expanse, and lofty immovable might that brings good heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As I pointed out in the published introduction, the first pāda is both a cruel joke -- insisting on the utter transparency of the subject of the hymn -- and a claim on the poet’s part that his verbal formulations about the subject are in complete conformity with the underlying reality, however obscure they may at first seem.
 
@@ -168,24 +168,24 @@ The clearest part of pāda c is the cmpd. uru-ṣā́m ‘winning wideness’, w
 of the verb uruṣyá- ‘make wideness’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like as he is beheld such is he said to be.  
      They with effectual splendour in the floods have made  
      Earth yield us room enough and amply wide extent, great might invincible, with store of hero sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Genau wie es geschaut wurde, so wird es berichtet: Sie haben nach dem vollkommenen Abbild im Wasser die uns Raum gebende Erde, die weite Bahn, die große mannhafte unentwegte Macht wiederhergestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wie jeder erblickt wird, so wird er auch eingeladen; mit ihrem heilvollen Widerscheine in den Wassern machten sie uns zugleich die grosse Erde geräumig und weit die Ausdehnung, und stark, heldenkräftig, unerschütterlich die Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Именно как это было видно, так и рассказывается:  
 По отражению, запечатлевшемуся в водах, они сложили  

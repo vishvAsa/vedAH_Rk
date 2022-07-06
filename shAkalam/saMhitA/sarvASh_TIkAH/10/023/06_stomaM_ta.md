@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तो꣡मं त इन्द्र विमदा꣡ अजीजनन्न्  
 अ꣡पूर्वियम् पुरुत꣡मं सुदा꣡नवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡द् आ꣡ पशुं꣡ न꣡ गोपाः᳐꣡ करामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒द्म । हि । अ॒स्य॒ । भोज॑नम् । इ॒नस्य॑ । यत् । आ । प॒शुम् । न । गो॒पाः । क॒रा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
@@ -133,37 +133,37 @@ genre M
 हे **इन्द्र** **ते** तुभ्यं **सुदानवे** शोभनदानस्यार्थाय **विमदाः** विमदनामानो वयं **स्तोमं** स्तोत्रविशेषम् **अजीजनन्** जनितवन्तः । कृतवन्त इत्यर्थः । अत्र पूर्वोत्तरयोरेकवाक्ययोः पुरुषव्यत्ययः। कीदृशम् । **अपूर्व्यम्** अपूर्वमन्यैः पूर्वमकृतम्। उत्कृष्टमित्यर्थः । पुरुतमं बहुतमम् । नानाप्रकारोपेतमित्यर्थः । **हि** यस्मात्कारणात् हे इन्द्र **इनस्य** ईश्वरस्य **अस्य** ईदृशस्य तव **यत्** **भोजनं** धनमस्तीति **विद्म** वयं जानीमः तस्मात् कारणात् त्वदीयं तद्धनम् **आ** **करामहे** वयमस्मदभिमुखं कुर्महे । तत्र दृष्टान्तः । **पशुं** **न** **गोपाः** । यथा गोपालो धेनुमाह्वयन् स्वस्याभिमुखीं करोति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We **Vimadas**, have genitive rated this your unprecedented, and most varied praise, **Indra**, to obtain yourbounty; as we know what the opulence of that lord is, (therefore) we call it (before us), as a cowherd (calls) hiscattle. attachment, divine (Indra), to be like that of a sister (to a brother) so may the friendship between us and youprosper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Vimadas have begotten this praise for you, Indra, (praise)  
 unprecedented, best of many, for the one of good gifts [/drops],  
 for we know the feeding of him, which is that of a strong one. May we  bring him close like cowherds their livestock.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, the Vimadas have formed for thee a laud, copious, unparalleled, for thee Most Bountiful.  
      We know the good we gain from him the Mighty One when we attract him as a herdsman calls the kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Loblied haben dir, Indra, die Vimada´s fertig gebracht, ein noch nie dagewesenes, das erste unter vielen, dem Freigebigen, denn wir kennen seinen Wohlstand, der der eines Mächtigen ist. Wir möchten ihn hertreiben wie die Hirten das Vieh.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Indra, haben Lob die Vimada's erzeugt dem gabenreichen neues und sehr herrliches; Wir kennen seine Freude ja, des mächtigen, drum, wie der Hirt die Heerde, schaffen wir ihn her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хвалу породили тебе, о Индра, люди из рода Вимады,  
 Небывалую, самую обильною, (тебе,) очень щедрому:  

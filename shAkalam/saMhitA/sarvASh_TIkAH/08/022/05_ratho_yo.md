@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थो यो꣡ वां त्रिवन्धुरो꣡  
 हि꣡रण्याभीशुर् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ते꣡न नासतिया꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 परि॑ । द्यावा॑पृथि॒वी इति॑ । भूष॑ति । श्रु॒तः । तेन॑ । ना॒स॒त्या॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
@@ -106,7 +106,7 @@ genre M;; repeated line
 हे **अश्विना** अश्विनौ **त्रिवन्धुरः** । वन्धुरं सारथिस्थानम्। त्रिप्रकारवन्धुरोपेतः । यद्वा । द्वे ईषे तन्मध्ये रज्जुसज्जनार्थको दण्डः एते त्रयो वन्धुरशब्देनोच्यन्ते । त्रिवन्धुरयुक्तः **हिरण्याभीशुः**। हिरण्मयाश्वादिरज्जुः **वां** युवयोः **यः** **रथः** **श्रुतः** सर्वत्र प्रसिद्धः सन् **द्यावापृथिवी** द्यावापृथिव्यौ **परि** **भूषति** स्वबलेन परिभवति । भवतेलेंटि सिप्यडागमः । यद्वा परितः स्वप्रकाशेनालंकरोति । हे **नासत्या** नासत्यौ **तेन** पूर्वोक्तेन रथेन **आ** **गतम्** आगच्छतम् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,28 +119,28 @@ Three-baked: trivandhura = having three seats or having two poles and a barbetwe
 Vandhura = sārathisthānam or dve īṣe tanmadhyerajjusajjanārthako **daṇḍaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your chariot with its three chariot-boxes and golden reins, o Aśvins, the famous one that busily circles around heaven and earth—with that,  come here, o Nāsatyas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That chariot of yours which hath a triple seat and reins of gold,  
      The famous car that traverseth the heaven and earth, thereon Nasatyas, Asvins, come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer dreisitziger Wagen mit den goldenen Zügeln, der Himmel und Erde umkreist, o Asvin, der berühmte, auf dem kommet her, Nasatya´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Wagen, der drei Sitze hat und goldne Zügel, Ritter ihr, Der viel gerühmte, der um Erd' und Himmel läuft, mit dem kommt her, wahrhaftige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та) ваша колесница с тремя сиденьями,  
 С золотыми поводьями, о Ашвины,  

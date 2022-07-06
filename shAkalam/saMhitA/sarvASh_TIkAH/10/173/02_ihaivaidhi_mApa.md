@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहइ꣡वइ꣡धि मा꣡प च्योष्ठाः  
 प꣡र्वत ऽवा꣡विचाचलिः°  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इह꣡ राष्ट्र꣡म् उ धारय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 इन्द्रः॑ऽइव । इ॒ह । ध्रु॒वः । ति॒ष्ठ॒ । इ॒ह । रा॒ष्ट्रम् । ऊं॒ इति॑ । धा॒र॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihaivaidhi* ← *iha*
 - \[adverb\]
@@ -123,36 +123,36 @@ popular;; epic anuṣṭubh (380)
 हे राजन् इहास्मिन्नेव राज्य एधि। स्वामित्त्वेन सर्वदा वर्तमानो भव। मापच्योष्ठाः। अपच्युतो मा भूः। मापगमः। पर्वत इव यथा पर्वतो नैश्चल्येनावतिष्ठते एवमचिचाचलिश्चलनरहितो भव। इन्द्र इव यथा स्वर्ग इन्द्रः एवमिह लोके त्वं ध्रुवस्तिष्ठ। स्थिरो भव। राष्ट्रस्य् राष्ट्रं चेह लोके धारय। स्वे स्वे कर्मण्यवस्थापय॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come into this (kingdom), may you never be deposed, unvacillating as a mountain; stand firm here likeIndra; establish your kingdom in this world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be only here; do not budge—unwavering like a mountain.  
 Like Indra, stand firm here; here uphold your kingship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be even here; fall not away be like a mountain unremoved.  
      Stand stedfast here like Indra's self, and hold the kingship in the grasp.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hier bleibe ich, weiche nicht, wie der Berg nie wankend! Wie Indra bleibe hier fest, hier behaupte deine Herrschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei hier, nicht wende dich hinweg, sei unerschüttert wie ein Berg; Hier stehe fest dem Indra gleich, und fest bewahre hier dein Reich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь только здесь, не отступай,  
 Непоколебимый, как гора!  

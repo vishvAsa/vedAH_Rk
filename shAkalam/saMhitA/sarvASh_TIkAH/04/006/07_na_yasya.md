@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ य꣡स्य सा꣡तुर् ज꣡नितोर् अ꣡वारि  
 न꣡ मात꣡रापित꣡रा नू꣡ चिद् इष्टउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् दीदाय मा꣡नुषीषु विक्षु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । मि॒त्रः । न । सुऽधि॑तः । पा॒व॒कः । अ॒ग्निः । दी॒दा॒य॒ । मानु॑षीषु । वि॒क्षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 **जनितोः** जनयितुर्वृष्ट्युत्पादकस्य **यस्य** वैश्वानरस्य **सातुः** सनिः पश्वादिलक्षणं दानं दीप्तिर्वा **न** **अवारि** केनापि न वार्यते । किंच **मातापितरा** मातापितरौ द्यावापृथिव्यौ यस्य **इष्टौ** प्रेषणे **नू** **चित्** क्षिप्रमेव **न** प्रभवतः । **अध** अपि च **मित्रो** °न सखेव **सुधितः** सुतृप्तः **पावकः** शोधकः **अग्निः** **मानुषीषु** मनोः संबन्धिनीषु **विक्षु** प्रजासु **दीदाय** दीप्यते ॥ ' दीपी दीप्तौ । पकारलोपश्छान्दसः । व्यत्ययेन परस्मैपदम् । लिट्यभ्यासस्य ह्रस्वे कृते तुजादित्वाद्दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,33 +138,33 @@ genre M
 Whose parents need not urge: na mātarā pitarā nū cid iṣṭau, nor mother and father, i.e., heaven and earth, are quickly powerful in urging him; yasya preṣaṇe kṣipram eva na prabhavataḥ; descendants of Manu: mānuṣiṣu vikṣu, may mean only human beings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (body) of (him) the devourer [/fire], which has not been obstructed  from birth, nor have his mother and father ever (been obstructed) in  their seeking (for him)— therefore, well installed like an envoy, pure Agni shines among the clans  stemming from Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Naught hindered his production, Bounteous Giver: his Mother and his Sire were free to send him.  
      Then as Friend benevolent, refulgent, Agni shone forth in human habitations.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He whose mother (?) 1 has not been hindered from giving birth, nor his father and mother whenever they were incited (?) 2: this Agni, the purifier, well-established like Mitra 3, has shone among the tribes of men,—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Natur sich von der Geburt nicht abhalten ließ - noch sind Vater und Mutter jemals auf der Suche nach ihm - Agni ist nun unter den menschlichen Stämmen aufgeleuchtet, der Lautere, wohl aufgenommen wie ein Freund.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess Mutterleib nicht die Geburt versagte, noch beide Aeltern, da sie sein begehrten; Er strahlte flammend wie ein Freund dann, Agni, schön hingesetzet in der Menschen Häusern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чья природа от рождения неудержима –  
 Родители ведь вовсе не ищут (его) –  

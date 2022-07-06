@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡ष्टारम् अग्रजां꣡ गोपा꣡म्  
 पुरोया꣡वानम् आ꣡ हुवे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प꣡वमानः प्रजा꣡पतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 इन्दुः॑ । इन्द्रः॑ । वृषा॑ । हरिः॑ । पव॑मानः । प्र॒जाऽप॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
@@ -101,44 +101,44 @@ popular;; epic anuṣṭubh (424)
 **अग्रजाम्** अग्रे जातं **गोपां** प्रजानां पालयितारं **पुरोयावानं** देवानां पुरस्ताद्गन्तारं **त्वष्टारं** देवम् **आ** **हुवे** अहमाह्वयामि यज्ञे । **हरिः** हरितवर्णः **पवमानः** **इन्दुः** सोमः **इन्द्रः** देवानामीश्वरः **वृषा** कामानां वर्षिता च **प्रजापतिः** प्रजानां पालयिता च भवतीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke **Tvaṣṭā**, the first-born, the protector, the leader; the golden-coloured pure-flowing **Indu** is **Indra**, the showerer, the lord of all creatures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Tvaṣṭar, the first-born herdsman who journeys in advance, do  
 I summon here.  
 The drop is Indra, the tawny bull; the self-purifying one is Prajāpati.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The listing of figures in cd is puzzling. The published translation follows Geldner/Renou, with Indra identified as the drop in c and Prajāpati as the self-purifying one in d, but I now very much doubt that this is correct. For one thing, Prajāpati as a separate god is found at best only in X (3x); this is the only occurrence of the stem in IX, and in the only other occurrence outside of X (IV.53.2) it is an epithet of Savitar. This two-pāda sequence (9cd), índur índro vṛ́ṣā háriḥ, pávamānaḥ prajā́patiḥ is a variant and expansion of 7c pávamāna índro vṛ́ṣā, and as in 7 I think it refers to two gods, Soma and Indra. As in 7c the two gods are first identified: here the drop (rather than pávamāna-) and Indra. The next word vṛ́ṣā ‘bull’ appeared to qualify Indra in 7c, but could (and often does) qualify either one, and here it’s placed between Indra and hári- ‘tawny’, a soma descriptor, suggesting affiliation to both. The opening of the next pāda, pávamānaḥ, reasserts the Soma figure. As for prajā́patiḥ, I think it’s possible that it again refers to both, though I have no idea why this stem appears here.
 
 As in vs. 7c I take these pādas as listing other gods to be summoned along with Tvaṣṭar here (tváṣṭāram … ā́huve, like 7b hótārā … huve), with slippage into a free-standing nominative phrase. It anticipates the somewhat random listing of even more gods in 11cd. I don’t find any of this very satisfactory, but I resist the supposed identification of Indra and Soma, who are the two poles of the Soma Maṇḍala.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1 summon Tvastar hither, our protector, champion, earliest-born,  
      Indu is Indra, tawny Steer; Pavamana is Prajapati.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Tvastri rufe ich her, den erstgeborenen Hüter und Anführer. Der goldgelbe Saft ist Indra, der Bulle, der sich läuternde ist Prajapati.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Hüter Tvaschtar rufe ich, den erstgebornen Führer ihn, Indu ist Indra, Stier und Ross, der rieselnde der Wesen Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тваштара  
 , перворожденного пастыря,  

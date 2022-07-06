@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ गन्धर्वो꣡ अ꣡धि ना꣡के अस्थाद्  
 वि꣡श्वा रूपा꣡ प्रतिच꣡क्षाणो अस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रा꣡रूरुचद् रो꣡दसी मात꣡रा शु꣡चिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 भा॒नुः । शु॒क्रेण॑ । शो॒चिषा॑ । वि । अ॒द्यौ॒त् । प्र । अ॒रू॒रु॒च॒त् । रोद॑सी॒ इति॑ । मा॒तरा॑ । शुचिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **ऊर्ध्वः** उन्नतः **गन्धर्वः** रश्मीनां धारकः सोमः **नाके** आदित्ये **अधि** **अस्थात्** अधितिष्ठति ॥ किं कुर्वन् । **अस्य** आदित्यस्य **विश्वा** विश्वानि रूपाणि **प्रतिचक्षाणः** प्रतिपश्यन् । **भानु:** आदित्यः सोमाधिष्ठितः सन् **शुक्रेण** दीप्तेन **शोचिषा** तेजसा **व्यद्यौत्** विद्योतते । न केवलं स्वयमेव अपि तु **मातरा** निर्मात्र्यौ **रोदसी** द्यावापृथिव्यौ **प्रारूरुचत्** प्ररोचयति। **शुचिः** दीप्तः सूर्यः ॥११॥ ॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,7 +133,7 @@ genre M
 I.e., mātarā = nirmātryau; i.e., the two mother; or, the two parents (pitarau)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gandharva has stood erect upon the vault, gazing upon all  
 his forms.  
@@ -141,7 +141,7 @@ Radiance has flashed forth with blazing blaze; the blazing one has
 made the two world-halves, the mothers, shine forth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This final vs. is esp. close in phraseology to the Vena hymn, with pāda a identical to X.123.7a and pāda c almost identical to X.123.8c. Note also that ádhi nā́ke asthāt unites ádhi ... asthāt of our 9a and nā́ke of our 10a.
 
@@ -156,23 +156,23 @@ As noted in the published introduction, these four vss. treat the identification
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High to heaven's vault hath the Gandharva risen, beholding all his varied forms and figures.  
      His ray hath shone abroad with gleaming splendour: pure, he hath lighted both the worlds, the Parents.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gandharva hat sich über dem Firmament erhoben, seine Farben alle offenbarend. Sein Strahl ist in heller Glut aufgeleuchtet; er hat die beiden Welten erleuchtet, seine Mütter, er der Reine.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gandharva hat des Himmels Höh erstiegen, betrachtend jede Glanzgestalt des Soma's, Mit hellem Lichte hat sein Glanz gestrahlet, die Welten-Aeltern hat erhellt der lichte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прямо на небосводе встал Гандхарва,  
 Являя все свои цвета.  

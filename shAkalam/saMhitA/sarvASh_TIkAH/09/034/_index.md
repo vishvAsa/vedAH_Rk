@@ -8,7 +8,7 @@ title = "+034"
 ‘प्र सुवानः' इति षडृचं दशमं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र सुवानः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 34 (746)  
 Soma Pavamāna  

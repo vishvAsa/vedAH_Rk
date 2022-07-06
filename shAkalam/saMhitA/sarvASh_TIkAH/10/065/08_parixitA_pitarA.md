@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परिक्षि꣡ता पित꣡रा पूर्वजा꣡वरी  
 ऋत꣡स्य यो꣡ना क्षयतः स꣡मोकसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 घृत꣡वत् प꣡यो महिषा꣡य पिन्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्यावा॑पृथि॒वी इति॑ । वरु॑णाय । सव्र॑ते॒ इति॒ सऽव्र॑ते । घृ॒तऽव॑त् । पयः॑ । म॒हि॒षाय॑ । पि॒न्व॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -102,36 +102,36 @@ genre M
 **परिक्षिता** परितो निवसन्त्यौ सर्वत्र व्यापिन्यौ **पितरा** सर्वेषां मातापितृभूते अत एव **पूर्वजावरी** पूर्वं जाते **समोकसा** समाननिवासस्थाने एते द्यावापृथिव्यौ **ऋतस्य** यज्ञस्य **योना** योनौ स्थाने **क्षयतः** आहुत्यधिकरणत्वेन निवसतः । हविर्धानरूपे वा क्षियतः । किंच **सव्रते** समानकर्मणी ते **महिषाय** महते पूज्याय वा **वरुणाय** तं यष्टुम् । उपलक्षणमेतत् । अन्यान् देवानपि **घृतवत्** क्षरणवत् **पयः** उदकं **पिन्वतः** सिञ्चतः । उदकेन ह्यन्नं जायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The encompassing parents (heaven and earth), born of old, having a common dwelling, sit down uponthe plural ce of sacrifice; engaged in a common observance they sprinkle upon the adorable **Varuṇa** water mixedwith butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two parents born of old, encircling, sharing the same home, rule in  the womb of truth:  
 Heaven and Earth, who obey the same commandment to Varuṇa, swell  the ghee-filled milk for Varuṇa, the buffalo.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Born in the oldest time, the Parents dwelling round are sharers of one mansion in the home of Law.  
      Bound by their common vow Dyaus, Prthivi stream forth the moisture rich in oil to Varuna the Steer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ringsum wohnenden, erstgeborenen Eltern, die Hausgenossen herrschen im Schoße der Wahrheit, Himmel und Erde, die dem Varuna in gleicher Weise botmäßig sind, quellen für den Büffel die schmalzige Milch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Aelternpaar, das urgeboren ringsum wohnt, es sitzt vereinigt hier im Schooss des Heiligthums, In gleichem Dienst ergiessen Erd' und Himmel Trank, den nahrungsreichen für den Varuna, den Stier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

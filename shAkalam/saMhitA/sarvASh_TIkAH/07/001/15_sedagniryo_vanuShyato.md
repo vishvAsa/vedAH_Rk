@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 से꣡द् अग्नि꣡र् यो꣡ वनुष्यतो꣡ निपा꣡ति  
 समेद्धा꣡रम् · अं꣡हस उरुष्या꣡त्  
 सुजाता꣡सः प꣡रि चरन्ति वीराः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽजा॒तासः॑ । परि॑ । च॒र॒न्ति॒ । वी॒राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -95,36 +95,36 @@ genre M
 **यः** समेद्धारं प्रबोधकं **वनुष्यतः** हिंसकात् । ‘वनुष्यतिर्हन्तिकर्मा' (निरु. ५. २) इति यास्कः । **उरुष्यात्** अधिकात् **अंहसः** पापात् च **निपाति** अत्यन्तं रक्षति । यं च **सुजातासः** सुजन्मान एव **वीराः** स्तोतारः सुता वा **परि** **चरन्ति** **स** **इत्** स एव **अग्निः** ॥ ॥२५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily is he **Agni**, who defends from the malevolent and from heinous sin (the worshipper) kindling (thefire); he (it is) whom the well-born worshippers adore.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very Agni, who protects against the rapacious ones, should free his  kindler from constriction.  
 Well-born men circle around him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is that Agni, saviour from the foeman, who guards the kindler of the flame from sorrow:  
      Heroes of noble lineage serve and tend him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ist der Agni, der vor dem Neider behütet, den Entzünder aus Not befreien soll. Vornehme Männer machen ihre Aufwartung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist der Agni, der vor Feinden schützet, der den Entzünder von Bedrängniss frei macht, Um den die edlen Helden dienend wandern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Агни, который защищает от завистника,  
 Спасает зажигающего (его) от беды.  

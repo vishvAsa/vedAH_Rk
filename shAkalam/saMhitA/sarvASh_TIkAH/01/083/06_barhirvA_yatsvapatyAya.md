@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बर्हि꣡र् वा य꣡त् सुअपत्या꣡य वृज्य꣡ते  
 अर्को꣡ वा · श्लो꣡कम् आघो꣡षते दिवि꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡स्ये꣡द् इ꣡न्द्रो अभिपित्वे꣡षु रण्यति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ग्रावा॑ । यत्र॑ । वद॑ति । का॒रुः । उ॒क्थ्यः॑ । तस्य॑ । इत् । इन्द्रः॑ । अ॒भि॒ऽपि॒त्वेषु॑ । र॒ण्य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
@@ -128,7 +128,7 @@ genre M
 **स्वपत्याय** शोभनापतनहेतुभूताय कर्मणे **बर्हिर्वा** **यत्** यदा **वृज्यते** छिद्यते अध्वर्युणा यागार्थमाह्रियते **अर्को** **वा** स्तोत्रनिष्पादको होता वा **श्लोकं** स्तुतिरूपां वाचं **दिवि** द्योतमाने यज्ञे यदा **आघोषते** उच्चारयति । **यत्र** यस्मिन् काले **ग्रावा** अभिषवार्थं प्रवृत्तः उपलः **वदति** शब्दं करोति । तत्र दृष्टान्तः । **कारुरुक्थ्यः**। लुप्तोपममेतत् । उक्थ्यस्य शस्त्रस्य शंसिता कारुः स्तोता यथाभिमतशब्दं करोति तद्वत् । **तस्य** पूर्वोक्तस्य सर्वस्य **अभिपित्वेषु** अभिप्राप्तिषु **इन्द्रः** ”रण्यति रमते । यद्वा । पूर्वोक्तानां बर्हिरादीनामभिप्राप्तिषु सतीष्विन्द्रो रण्यति अस्मदीयो यागो भविष्यतीति हर्षशब्दं करोति ॥ वृज्यते ।  ‘ वृजी वर्जने' । अदुपदेशात् लसार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । निपातैर्यद्यदिहन्त ' इति निघातप्रतिषेधः । आघोषते । घुषिर् विशब्दने '। भौवादिकः । अत्रापि यत्' इत्यस्य निपातस्यानुषङ्गात् निघाताभावः । रण्यति । रमु क्रीडायाम्। व्यत्ययेन श्यन् परस्मैपदं च । अन्त्यविकारश्छान्दसः । यद्वा रण शब्दार्थः । व्यत्ययेन श्यन् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,35 +139,35 @@ genre M
 That brings down blessings: śvapatyāya is resolved into: su and **apatya**; explained as śobhanapatana hetubhūtāya, for the sake of the descent, or coming down, of what is good
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the ritual grass is twisted for the sake of good descendants, or the  chant sounds its signal-call toward heaven,  
 when the pressing stone, the praiseworthy bard speaks, just at his  
 (sacrifice) does Indra take pleasure at suppertime.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relation between the three subordinate clauses (abc) and the main clause is irregular in that tásya in d does not pick up a relative pronominal referent. I take it as referring to the sacrificer who has been regularly present in the hymn (the presenttime vss. 1-3). Geldner and Renou may well be right that the kārú- ‘bard’ of c, which is identified with the pressing stone, is its logical referent.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When sacred grass is trimmed to aid the auspicious work, or the hymn makes its voice of praise sound to the sky.  
      Where the stone rings as 'twere a singer skilled in laud,--Indra in truth delights when these come near to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn das Barhis um die Feuerstätte gelegt wird, um gute Nachkommenschaft zu erlangen, oder wenn der Lobgesang seine Melodie zum Himmel erklingen lässt, bei wem der Preßstein ertönt und der preiskundige Dichter, bei dem hat Indra Lust zur Einkehr.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo man die Streu, um Kinder zu erlangen, schmückt, der Dichter Lieder auf zum Himmel schallen lässt, Bei wem der Stein als liederreicher Sänger tönt, da einzukehren ist des Indra grösste Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда раскладывается жертвенная солома, чтобы иметь хорошее потомство,  
 Или когда песня возносит к небу (свой) зов,  

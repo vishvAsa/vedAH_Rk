@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुत꣡ इ꣡त् त्वं꣡ नि꣡मिश्ल इन्द्र सो꣡मे  
 स्तो꣡मे ब्र꣡ह्मणि शस्य꣡मान उक्थे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बि꣡भ्रद् व꣡ज्रम् बाहुवो꣡र् इन्द्र या꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । वा॒ । यु॒क्ताभ्या॑म् । म॒घ॒ऽव॒न् । हरि॑ऽभ्याम् । बिभ्र॑त् । वज्र॑म् । बा॒ह्वोः । इ॒न्द्र॒ । यासि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suta* ← *sute* ← *su*
 - \[verb noun\], locative, singular
@@ -132,21 +132,21 @@ genre M
 **सोमे** **सुते** **इत्** अभिषुत एव सति **ब्रह्मणि** बृहति महति **स्तोमे** स्तोत्रे उच्चार्यमाणे सति **उक्थे** शस्त्रे **शस्यमाने** सति हे **इन्द्र** **त्वं** **निमिश्लः** निमिश्रः सन् हरी संयोजयन् हे **मघवन्** धनवन् **इन्द्र** त्वं **बाह्वोः** हस्तयोः **वज्रं** स्वकीयमायुधं **बिभ्रत्** धारयन् **युक्ताभ्यां** रथे नियुक्ताभ्यां **हरिभ्याम्** अश्वाभ्यां **यासि** **यद्वा** आगच्छसीति यच्च तत्सोमेऽभिषुते इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, when the **Soma** is being effused, the sacred hymn chanted, the prayer recited, be you prepared (to harness your horses), or, **Maghavan**, with your horses ready harnessed, come (hither), bearing the thunderbolt in your **hand**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are intertwined in the pressed soma, Indra, and in the praise song, in  the sacred formulation, and in solemn speech as it is recited,  
 when, bounteous one, you drive with your two yoked fallow bays,  
 bearing your mace in your arms,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The rendering of nímiśla- as ‘intertwined’ may be a bit over the top, but ‘attached to’ or ‘linked to’ is too anodyne; assuming an underlying sense ‘mixed’, the point is that Indra can’t be separated from the substances and words offered to him in the ritual.
 
@@ -155,23 +155,23 @@ The standard NP suté sóme is polarized at the boundaries of pāda a, allowing 
 On bíbhrad vájram see comm. ad VI.20.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU art attached to pressed-out Soma, Indra, at laud, at prayer, and when the hymn is chanted;  
      Or when with yoked Bays, Maghavan, thou comest, O Indra, bearing in thine arms the thunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Am ausgepreßten Soma, am Loblied, am erbaulichen Wort, am aufgesagten Lobgedicht hängst du, Indra, ob du mit dem geschirrten Falbenpaar, die Keule in den Armen tragend, ausziehst, o gabenreicher Indra;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du liebst, o Indra, ausgepressten Soma, Gebet und Loblied, hergesagte Sprüche, Wenn, mächt'ger, du mit den geschirrten Füchsen, o Indra, kommst, den Blitz im Arme tragend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты привязан, о Индра, к выжатому соме,  
 К восхвалению, к священному слову, к исполняемому гимну,  

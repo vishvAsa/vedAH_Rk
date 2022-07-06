@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मारुद्रा युव꣡म् एता꣡नि अस्मे꣡  
 वि꣡श्वा तनू꣡षु भेषजा꣡नि धत्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तनू꣡षु बद्धं꣡ कृत꣡म् ए꣡नो अस्म꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अव॑ । स्य॒त॒म् । मु॒ञ्चत॑म् । यत् । नः॒ । अस्ति॑ । त॒नूषु॑ । ब॒द्धम् । कृ॒तम् । एनः॑ । अ॒स्मत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
@@ -134,7 +134,7 @@ popular
 हे **सोमारुद्रा** सोमारुद्रौ **युवं** युवाम् **अस्मे** अस्माकं **तनूषु** अङ्गेषु **एतानि** प्रसिद्धानि **विश्वा** सर्वाणि **भेषजानि** **धत्तं** धारयतम् । किंच **नः** अस्माकं **तनूषु** अङ्गेषु अस्माभिः **कृतं** **बद्धं** च **यत्** **एनः** पापम् **अस्ति** विद्यते तत् पापम् **अव** **स्यतं** क्षपयतं श्लथयतम् । शिथिलबन्धं कुरुतमित्यर्थः । **अस्मत्** अस्मत्तः **मुञ्चतं** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,35 +145,35 @@ popular
 I.e. disease regarded as the consequence and evidence of some committed sn; and the removal of the malady is proof of its expiation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma and Rudra, place all these healing remedies on us, in our bodies. Unhitch, release the outrage committed (by us,) which is bound onto our  bodies—(release it) from us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nominal rel. cl. yád … ásti is in some sense pleonastic+++(=redundant)+++: the two ppl.
 
 baddhám and kṛtám could simply modify the neut. énaḥ directly. But the structure seems designed to sketch a two-level structure: the outrage commited (by us) that is bound to us. Note that abl. asmát should be construed with the main cl. (“unhitch, release … from us”: áva syatam muñcátam … asmát), and so the rel. cl. is technically speaking embedded. But this seems to be one of the fairly common examples of semi-embedded izafe-type relative clauses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Provide, O Soma-Rudra, for our bodies all needful medicines to heal and cure us.  
      Set free and draw away the sin committed which we have still inherent in our persons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma und Rudra! Bringet ihr unseren Leibern all diese Arzneien! Bindet ab, löset von uns die getane Sünde, die an unsere Leiber gebunden ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht frei und löset, was an unsre Leiber gebunden ist von Sünden, die wir thaten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома-Рудра, даруйте нам все эти  
 Целебные средства, (даруйте их нашим) телам!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡स् ते प्रजा꣡ अमृ꣡तस्य  
 प꣡रस्मिन् धा꣡मन्न् ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आभू꣡षन्तीः सोम वेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 मू॒र्धा । नाभा॑ । सो॒म॒ । वे॒नः॒ । आ॒ऽभूष॑न्तीः । सो॒म॒ । वे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yās* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -104,14 +104,14 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **सोम** **ते** तव संबन्धिन्यः **याः** **प्रजाः** सन्ति स्तोत्रं वा कुर्वन्ति ताः प्रजाः **मूर्धा** शिरःस्थानीयस्त्वं **नाभा** संनहनयुक्ते यज्ञगृहे **वेनः** कामयस्व । कीदृशस्य ते । **अमृतस्य** मरणरहितस्य **परस्मिन्धामन्नृतस्य** उत्तमे स्थान प्राप्तस्य । हे **सोम** आभूषन्तीः सर्वतस्त्वामलंकुर्वन्तीः प्रजाः **वेदः** जानीहि ॥ धामन् । ‘सुपां सुलुक् ' इति सप्तम्या लुक् । नाभा ।  ‘ णह बन्धने ।  ‘ नहो भश्च' ( उ. सू. ४. ५६५ ) इति कर्मणि इञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वम् । ‘सुपां सुलुक् ' इति सप्तम्या डादेशः । वेनः ।  ‘ वेनतिः कान्तिकर्मा' ( नि. २.६.४)। लेटि सिपि अडागमः ।  ‘ तिङ्ङतिङः' इति निघातः । आभूषन्तीः । ‘भूष अलंकारे ' । भौवादिकः । शपः पित्त्वादनुदात्तत्वम्, शतुश्च लसार्वधातुकस्वरेण । धातुस्वरेण आद्युदात्तत्वम् । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । वेदः ।  ‘ विद ज्ञाने '। लेटि सिपि अडागमः ॥ ॥ २७ ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who are immortal, and abide in an excellent dwelling, have regard for your subjects, when at their head in the hall of sacrifice you observe them (engaed in) decorating you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The creatures [=gods] that belong to you, the immortal one—as their  head you seek them in the highest domain of truth [=heaven]  
 and in the navel (of the earth?) [=ritual ground], Soma. You will know  them as the ones who attend upon (you), Soma.  
@@ -119,28 +119,28 @@ The next group of hymns (I.44–50), attributed to Praskaṇva Kāṇva, the poe
 cated are those mentioned in the litany: Agni, particularly in his capacity as illumi nator of the early morning and conveyor of the dawn divinities, the Aśvins, Dawn,  and the rising Sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of the various parts of this rhetorically ambitious verse is not entirely clear, and various tr. make various choices. (In addition to the standard ones, see Lüders [231-32] and Hoffmann [Injunk. 260].) I take amṛ́tasya as modifying te, rather than construing it with prajā́ḥ (as, e.g., Geldner does). I consider the two locatives, párasmin dhā́man ṛtásya and nā́bhā, to be parallel and to express the two geographically opposed places where Soma will be searching: highest heaven and the navel of the earth (supplying pṛthivyā́ḥ with nā́bhā as often). The larger meaning of this verse is addressed in the published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma! head, central point, love these; Soma! know these as serving thee,  
      Children of thee Immortal, at the highest place of holy law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Kinder der Unsterblichkeit am höchsten Ursprungsort des Weltgesetzes, nach denen sollst du, Soma, als ihr Haupt an dem Nabel der Welt ausschauen und wissen, daß sie bereit sind, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, o ew'ger, deine Kinder, sind im höchsten Sitz des Rechtes, Lieb' sie, du ihr Haupt im Heimsitz; Soma, acht auf deine Diener.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои дети бессмертия, те, что  
 На высшим месте (вселенского) закона, –  

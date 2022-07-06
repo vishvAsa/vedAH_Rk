@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ केतु꣡ना बृहता꣡ याति अग्नि꣡र्  
 आ꣡ रो꣡दसी वृषभो꣡ रोरवीति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपा꣡म् उप꣡स्थे महिषो꣡ ववर्ध
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । चि॒त् । अन्ता॑न् । उ॒प॒ऽमान् । उत् । आ॒न॒ट् । अ॒पाम् । उ॒पऽस्थे॑ । म॒हि॒षः । व॒व॒र्ध॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 **अग्निः** **बृहता** महता **केतुना** प्रज्ञानेन युक्तः सन् **आ** इदानीं **रोदसी** द्यावापृथिव्यौ **प्र** **याति** प्रकर्षेण गच्छति । किंच देवानामाह्वानकाले **वृषभः** इव **रोरवीति** अत्यर्थं शब्दं करोति । **दिवश्चित्** द्युलोकस्यापि **अन्तान्** अवसानान् **उपमान्** समीपांश्च प्रदेशान् ज्वलनात्मनादित्यात्मना वा स्थितः **उदानट्** ऊर्ध्वं व्याप्नोति । **अपां** वृष्टिलक्षणानामुदकानाम् **उपस्थे** उपस्थानेऽन्तरिक्षे वैद्युतात्मना **महिषः** महान् ववर्ध वर्धते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 Agni traverses: as thelightning in the firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his lofty beacon Agni drives forth; the bull keeps bellowing to the  two world-halves.  
 He has reached up even to the farthest ends of heaven; the buffalo has  grown strong in the lap of the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI advances with his lofty banner: the Bull is bellowing to the earth and heavens.  
      He hath attained the sky's supremest limits. the Steer hath waxen in the lap of waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit hohem Banner geht Agni voran; der Bulle brüllt beide Welten an. Er reicht hinauf selbst bis zu den äußersten Enden des Himmels. Im Schoße der Gewässer ist der Büffel groß geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schreitet Agni vor mit hohem Banner, und Erd' und Himmel brüllet laut der Stier an; Auch zu des Himmels höchsten Enden drang er, im Schooss der Wasser wurde gross der Büffel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С высоким знаменем Агни идет вперед.  
 Громким ревом бык оглашает две половины мироздания.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् हो꣡ता नि꣡ असीदद् य꣡जीयान्  
 उप꣡स्थे मातुः꣡ सुरभा꣡ उलोके꣡†  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धर्ता꣡ कृष्टीना꣡म् उत꣡ म꣡ध्य इद्धः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 युवा॑ । क॒विः । पु॒रु॒निः॒ऽस्थः । ऋ॒तऽवा॑ । ध॒र्ता । कृ॒ष्टी॒नाम् । उ॒त । मध्ये॑ । इ॒द्धः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 अयम् **अग्निः** **होता** होमनिष्पादकः सन् **यजीयान्** यष्टव्यश्च सन् **न्यसीदत्** निषसाद । कुत्रेति तदुच्यते । **मातुः** सर्वस्य निर्मातुर्भूम्याः **उपस्थे** उत्संगे तत्रापि **सुरभौ** आज्यादिसौरभ्ययुक्ते **लोके** सर्वैर्द्रष्टव्ये स्थाने वेदिलक्षणे । **उत** अपि च **युवा** नित्यतरुणः सर्वत्र मिश्रितो वा **कविः** मेधावी **पुरुनिःष्ठः** बहुस्थानः **ऋतावा** यज्ञवान् **धर्ता** सर्वस्य धारक एवंभूतः सन् **कृष्टीनाम्** ऋत्विग्यजमानानां **मध्ये** **इद्धः** समिद्धः सन् । वर्तत इति शेषः ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 In a fragrant plural ce: surabha = surabhau loke, fragrant with the odour of ghī and other offerings, the altar
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni took his seat as the Hotar, the superior sacrificer, in the lap of his  mother, in the wide, sweet-smelling place [=the altar]—  
 he, the young poet, outstanding among many, truth-possessing, the  maintainer of the peoples, and kindled in their midst.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni hath sat him down, a Priest most skilful, on a sweet-smelling place, his Mother's bosom.  
      Young, faithful, sage, preeminent o'er many, kindled among the folk whom he sustaineth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, the Hotri, the best sacrificer, sat down in the mother's lap, in the sweet-smelling place, the young sage growing up in many places, the righteous one, the supporter of tribes, and kindled in their midst.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, der besser opfernde Hotri, hat sich niedergelassen im Schoße der Mutter, an der duftenden Stätte, der jugendliche Seher, der sich unter viele verteilt, das Gesetz erfüllend, der Erhalter der Völker und in ihrer Mitte entflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni sass nieder als der beste Opfrer im Schooss der Mutter, an dem duft'gem Orte, Der junge heil'ge sehr erhabne Sänger, der Menschen Hort in ihrer Mitt' entzündet,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни уселся как хотар, жертвующий лучше (других),  
 В лоне матери, в благоуханном месте,  

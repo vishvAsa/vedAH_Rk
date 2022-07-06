@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ ईं स्पृ꣡धो वनते अ꣡प्रतीतो  
 बि꣡भ्रद् व꣡ज्रं वृत्रह꣡णं ग꣡भस्तौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वचोयु꣡जा वहत इ꣡न्द्रम् ऋष्व꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तिष्ठ॑त् । हरी॒ इति॑ । अधि॑ । अस्ता॑ऽइव । गर्ते॑ । व॒चः॒ऽयुजा॑ । व॒ह॒तः॒ । इन्द्र॑म् । ऋ॒ष्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,42 +132,42 @@ genre M
 **गभस्तौ** हस्ते **वृत्रहणं** वृत्राणां शत्रूणां हन्तारं **वज्रं** स्वकीयमायुधं **बिभ्रत्** धारयन् **अप्रतीतः** शत्रुभिरप्रतिगतः **सः** इन्द्रः **स्पृधः** स्पर्धमानान् **ईम्** इमान् वृत्रप्रभृतीन शत्रून् **वनते** हन्ति । **हरी** स्वकीयावश्वौ **अधि** **तिष्ठत्** आरोहति । तत्र दृष्टान्तः । **अस्तेव** **गर्ते** । यथा क्षेप्ता शूरो रथेऽधितिष्ठति तद्वत् । तथा **वचोयुजा** वचोमात्रेण युज्यमानौ । यद्वा । स्तोतॄणां स्तुतिभिर्युज्यमानौ तौ हरी च **ऋष्वं** महान्तम् **इन्द्रं** **वहतः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bearing in his **hand** the foe-destroyig thunderbolt, **Indra**, unresisted, demolishing those his adversaries; he mounts his two-horse (car), as a warrior (ascends) his chariot; harnessed at a word, his steeds, convey the migty Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Unopposable, he will vanquish the contenders, bearing his  
 Vr̥tra-smashing mace in his fist.  
 He mounts his two fallow bays, like an archer upon his chariot seat;  those yoked by speech convey lofty Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The participial phrase bíbhrad vájram here and in VI.23.1 below may be intended to invoke the name bharád-vāja-, the poet of this hymn and indeed of this maṇḍala, by an expression that seems the syntactic equivalent of that type of governing compound — with the prior member belonging to the same root and the 2nd member a phonological variant of the obj. Matching the first member exactly would be problematic, since the nom. sg. of the participle would be bháran. The punning on PNs noted with regard to the immediately preceding vs. may be in evidence here as well.n
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Resistless, with the hosts he battles, bearing in both his arms the Vrtra-slaying thunder.  
      He mounts his Bays, as the car-seat an archer: yoked at a word they bear the lofty Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er überwindet unwiderstehlich die Gegner, der die vritratötende Keule in der Hand trägt. Er besteigt die Hari´s wie ein Schütze den Schützenstand. Die auf bloßes Wort Geschirrten fahren den hohen Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er überwindet unbesiegt die Gegner, und hält im Arm den Blitz, der Feinde tödtet, Besteigt die Füchse, wie der Held den Streitsitz; sie fahren Indra, wortgeschirrt den hohen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это он побеждает соперников, не имея равных,  
 (Тот,) кто несет в руке ваджру, убивающую врагов.  

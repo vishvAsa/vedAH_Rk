@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृत꣡म् अग्ने꣡र् वध्रिअश्व꣡स्य व꣡र्धनं  
 घृत꣡म् अ꣡न्नं घृत꣡म् उ अस्य मे꣡दनम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सू꣡र्य इव रोचते सर्पि꣡रासुतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 घृ॒तेन॑ । आऽहु॑तः । उ॒र्वि॒या । वि । प॒प्र॒थे॒ । सूर्यः॑ऽइव । रो॒च॒ते॒ । स॒र्पिःऽआ॑सुतिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
@@ -123,36 +123,36 @@ genre M
 **वध्र्यश्वस्य** संबन्धिनः **अग्नेः** **घृतं** दीयमानं हविः **वर्धनं** भवतु । तथा **घृतमन्नम्** अदनीयं भवतु । तथा **अस्य** अग्नेः **घृतमु** घृतमेव **मेदनं** पुष्टिकरं भवतु । येनाग्निः पुष्टो भवति तन्मेदनम् । तेन **घृतेनाहुतः** अग्निः **उर्विया** उर्वत्यन्तं **वि** **पप्रथे** स्वतेजसा विप्रथितो भवति । तथा **सर्पिरासुतिः** सर्पिरासूयते यस्मिन्निति सोऽग्निः **सूर्य** इव **रोचते** दीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May ghī be the augmenter of the **Agni** of Vadhryaśva; may ghī be his food; may ghī be hisnutriment; sacrified to with ghī he expands exceedingly; he shines like the sun, when the clarified butter ispoured out for him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The strengthener of the fire of Vadhryaśva is ghee; ghee is his food, ghee  his fattener.  
 Bepoured with ghee, he spreads out widely. He shines like the sun—his  potion melted butter.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Butter is that which makes Vadhryaiva's fire growstrong: the butter is its food, the butter makes it fat.  
      It spreads abroad when butter hath been offered it, and balmed with streams of butter shines forth like the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schmalz ist Stärkung für Vadhryasva´s Feuer, Schmalz seine Speise. Schmalz seine Mästung. Mit Schmalz begossen dehnt er sich weithin aus; wie die Sonne leuchtet er, dessen Tränklein Schmalz ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fett ist des Agni Vādhriaçva Labetrunk, und Fett ihm Speise, fette Butter seine Mast; Mit Fett begossen dehnt er in die Weite sich, mit Schmalz getränkt erstrahlet er der Sonne gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

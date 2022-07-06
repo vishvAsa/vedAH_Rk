@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रातर्या꣡वाणा रथि꣡येव वीरा꣡  
 अजे꣡व यमा꣡ व꣡रम् आ꣡ सचेथे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡म्पतीव क्रतुवि꣡दा ज꣡नेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 मेने॑ इ॒वेति॒ मेने॑ऽइव । त॒न्वा॑ । शुम्भ॑माने॒ इति॑ । दम्प॑ती इ॒वेति॒ दम्प॑तीऽइव । क्र॒तु॒ऽविदा॑ । जने॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prātaryāvāṇā* ← *prātar*
 - \[adverb\]
@@ -123,37 +123,37 @@ genre D
 हेअश्विनौ प्रातर्यावाणा प्रातरेवयज्ञार्थङ्गन्तारौ रथ्येव रथिनाविव वीरावीरौ स्वकर्मणिशूरौ अजेव अजाविव छागाविव यमायमलौ मेने इव नार्याविव तन्वा शरीरेण शुम्भमाने शोभमा नौ दम्पतीव जायापतीइव सङ्गतौ जनेषु विषयेषु क्रतुविदा कर्मविदौ युवां वरं सम्भक्तारं आस चेथे आगच्छथः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Moving at dawn like two heroes in a cr; like a pair of goats; like two women lovely inform, or like husband and wife; come together, knowing (how sacred) ites (are to be celebrated) amongst men, (to bestow) happiness (on the worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journeying early in the morning like heroes in chariots, like twin goats  you follow what you choose;  
 (Beautifying your bodies) like exchange-wives beautifying their bodies,  like a married couple (in the presence of the people) you find (a  
 common) resolve in the presence of the peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Moving at morning like two chr-borne heroes, like to a pair of goats ye come electing;  
      Like two fair dames embellishing their bodies, like a wise married pair among the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Frühe ausziehend wie zwei wagenfahrende Männer, wie Zwillingsböcke geht ihr nach eigener Wahl miteinander, wie Frauen mit ihrem Leibe prunkend, wie Ehegatten unter den Leuten Rat wissend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr frühmorgiens kommt wie zwei wagenlenkende Männer, geht wie zwei gepaarte Ziegen gemeinsam wie es euch beliebt, wie zwei Frauen geschmückt an ihrem Leibe, wie Herr und Frau des Hauses den Leuten Stärkung reichend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выезжая рано утром, как два мужа-колесничих,  
 Вы следуете вместе по (своему) желанию, как два козла-близнеца,  

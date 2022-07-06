@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा क꣡ण्वा इहा꣡वसे  
 ह꣡वन्ते वा꣡जसातये  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दि꣡वं यय꣡ दिवावसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 दि॒वः । अ॒मुष्य॑ । शास॑तः । दिव॑म् । य॒य । दि॒वा॒व॒सो॒ इति॑ दिवाऽवसो ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -94,36 +94,36 @@ genre M;; repeated line
 हे इन्द्र **त्वा** त्वाम् **इह** यज्ञे **कण्वाः** **अवसे** रक्षणाय **वाजसातये** अन्नस्य प्राप्त्यर्थं च **आ** **हवन्ते** आभिमुख्येन ह्वयन्ति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Kaṇvas** invoke you here for protection and for food; do you, ruling yonder heaven, O radiant withoblations, return here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here—the Kaṇvas call you here for help, for prizewinning,  
 o you who bring goods by day—(though) you (other gods), who impose  order over yonder heaven, have driven off to heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Kanvas call thee hitherward for succour and to win the spoil.  
      Ye by command of yonder Dyaus, God bright by day! have gone to heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich rufen die Kanva´s hierher zum Beistand, zur Gewinnung des Siegerpreises. - Über jenen Himmel herrschend seid ihr ja in den Himmel gegangen, o Divavasu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich rufen hier die Kanva's an um Hülfe und um Gutsgewinn; Von jenes Herrschers Himmel kamt ihr zu dem Feste tageshell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя Канвы сюда на помощь  
 Зовут для захвата награды.  

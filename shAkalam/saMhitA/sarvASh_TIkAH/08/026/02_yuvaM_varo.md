@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ वरो सुषा꣡मणे  
 महे꣡ त꣡ने नासतिया  
 अ꣡वोभिर् याथो वृषणा वृषण्वसू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अवः॑ऽभिः । या॒थः॒ । वृ॒ष॒णा॒ । वृ॒ष॒ण्व॒सू॒ इति॑ वृषण्ऽवसू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -79,7 +79,7 @@ genre M
 ऋषिर्वरुं राजानं संबोध्याह । हे **नासत्या** नासत्यौ । न विद्यतेऽसत्यमनयोरिति नासत्यौ । **वृषणा** कामानां वर्षितारौ **वृषण्वसू** वर्षणशीलवसुमन्तावश्विनौ **युवं** युवां **सुषाम्णे** सुषामाख्यराज्ञे मम पित्रेऽस्मै **महे** महते **तने** । तनोतीति तनं धनम् । धनाय । ‘क्रियार्थोपपदस्य' इति चतुर्थी । तस्मै धनं दातुं पुरा यथागच्छतं तद्वत् मह्यमपि धनं दातुम् **अवोभिः** पालनैः सह **याथः** युवामायातमिति हे **वरो** वरुनामक राजन्नेवं ब्रूहीति ऋषिर्वदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,34 +90,34 @@ genre M
 Say, Varu, thus: varu, vocative: hevarunāmaka **rājan**, evam brūhīti ṛṣir vadati; to grant him great riches: mahe tane = mahate dhanāya;mahyam āyātam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Nāsatyas, to Varo Suṣāman for his great extension  
 do you drive with your help, you bulls who bring bullish goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 mahé táne ‘for great extension’ presumably refers to his extending his lineage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye to Varosusaman come, Nasatyas, for this glorious rite.  
      With your protecting aid. Strong Gods, who pour down wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Nasatya´s kommet in Gnaden zu großer Lebensdauer für Varo Susaman, ihr Bullen, ihr Schatzreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem Varo-Suschaman kommt, mit Hülfen, o Wahrhaftige, Zu langer Dauer, heldenstarke Helden ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы для Варо Сушамана,  
 Для (него,) великого, (и) для (его) потомства, о Насатьи,  

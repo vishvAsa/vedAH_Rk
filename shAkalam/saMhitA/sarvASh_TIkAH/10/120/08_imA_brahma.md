@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ ब्र꣡ह्म बृह꣡द्दिवो विवक्ति  
 इ꣡न्द्राय शूष꣡म् अग्रियः꣡ सुअर्षाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दु꣡रश् च वि꣡श्वा अवृणोद् अ꣡प स्वाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 म॒हः । गो॒त्रस्य॑ । क्ष॒य॒ति॒ । स्व॒ऽराजः॑ । दुरः॑ । च॒ । विश्वाः॑ । अ॒वृ॒णो॒त् । अप॑ । स्वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
@@ -120,34 +120,34 @@ popular;; repeated line
 **बृहद्दिवः** ऋषिः **इमा** इमानि **ब्रह्म** ब्रह्माणि **इन्द्राय** सुखं यथा भवति तथा **विवक्ति** । प्रब्रवीतीत्यात्मन एव परोक्षनिर्देशः ।  ‘ वच परिभाषणे । आदादिकः । छान्दसः शप: श्लुः ।  ‘ बहुलं छन्दसि ' इत्यभ्यासस्येत्वम् । ऋषिर्विशेष्यते । **अग्रियः** अग्रेभवः । ऋषीणां प्रमुखः श्रेष्ठ इत्यर्थः ॥ 'घच्छौ च ' (पा. सू. ४. ४. ११७ ) इत्यग्रशब्दाद्भवार्थे घच् । **स्वर्षाः** स्वर्गस्य संभक्ता । यद्वा । स्वरादित्य इन्द्रः।  ‘ असौ वा अदित्य इन्द्रः' (तै. सं. ५.७.१.३ ) इति श्रुत्यन्तरात् । तस्य संभक्ता सेवक इत्यर्थः ।  ‘ वन षण संभक्तौ' । जनसखनक्रमगमो विट्।  ‘ विड्वनोरनुनासिकस्यात्' इत्यात्वम् । सनोतेरनः' इति षत्वम् । य इन्द्रः **महः** महतः **गोत्रस्य** पर्वतस्य वलेनासुरेण गवां  पिधानार्थं निहितस्य **स्वराजः** स्वयमेव राजमानस्य ।  ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी। ईदृशं पर्वतं **क्षयति** अपगमयति ।  ‘ क्षि क्षये ' । भौवादिकः । यद्वा । गोशब्दात् समूहार्थे ' इनित्रकट्यचश्च' (पा. सू. ४, २. ५१ ) इति त्रप्रत्ययः । गोत्रस्य गोसमूहस्य महः महतः स्वराजः स्वयमेव राजमानस्य य इन्द्रः क्षयति ईष्टे । क्षयतिरैश्वर्यकर्मा । स्वशब्दोपपदात् राजतेः **सत्सूद्विष°'** इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । **दुरश्च** बिलद्वाराणि च **विश्वाः** सर्वाः **स्वाः** वलासुरस्य स्वभूताः **अप** **अवृणोत्** अपगतावरणा अकरोत् । उद्घाटितवानित्यर्थः । यद्वा । दुरश्चापावृणोत् विश्वाः सर्वाः स्वः स्वभूता गा बिलमध्ये वर्तमाना अलभतेति शेषः । एवंभूतो य इन्द्रस्तस्मा इन्द्राय विवक्तीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Br̥haddiva speaks these sacred formulations fortissimo to Indra: “the first  to win the sun,  
 he has dominion over the great cowpen of the sovereign king, and he  opened up all the doors that are his own.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brhaddiva, the foremost of light-winners, repeats these holy prayers, this strength of Indra.  
      He rules the great self-luminous fold of cattle, and all the doors of light hath he thrown open.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese erstaunlichen Reden spricht Brihaddiva als Aufmunterung für Indra, als der Erste, der das Licht findet. Er verfügt über die große Herde des selbstherrlichen Vala, und er öffnet alle seine Tore.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaddiva, der beste Glanzerringer ruft dies Gebet dem Indra zu als Labsal; Denn der ist Herr des grossen lichten Kuhstalls, und hat geöffnet alle seine Thüren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти священные слова произносит Брихаддива,  
 Громкую песнь для Индры – как первый, покоряющий солнце.  

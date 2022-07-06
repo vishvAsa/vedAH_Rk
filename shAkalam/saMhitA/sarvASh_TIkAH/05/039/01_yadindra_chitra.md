@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्र चित्र मेह꣡ना  
 अ꣡स्ति त्वा꣡दातम् अद्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उभयाहस्ति आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 राधः॑ । तत् । नः॒ । वि॒द॒द्व॒सो॒ इति॑ विदत्ऽवसो । उ॒भ॒या॒ह॒स्ति । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
@@ -100,7 +100,7 @@ genre M
 हेइन्द्र हेचित्र चायनीय हेअद्रिवोवज्रवन् यत् मेहनामेहनीयं त्वादातं त्वयादातव्यं राधोधनमस्ति तद्धनं हेविदद्वसो लब्धधनेन्द्र नोस्मभ्यं उभयाहस्ति उभाभ्यांहस्ताभ्यां आभर आहर अत्र यदिन्द्रचित्रचायनीयम्मंहनीयन्धनमस्तीत्यादिनिरुक्तन्द्रष्टव्यम् ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,12 +111,12 @@ genre M
 Since precious treasure is to be distributed by you: mehanāsti tvā dātam **rādhas** = maṃhanīyam dhanam tvayā dātavyam, praiseable wealth is to be given by you; another interpretation: mehanāsti = me iha **nāsti**, what is not in this world, or, on this occasion, mine (**Nirukta** 4.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is given by you in profusion, bright Indra, possessor of the stone, that largesse bring here to us with both hands full, you finder of goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The poet re-uses mehánā from V.38.3 and rā́dhaḥ from V.38.1, as well as adrivaḥ (though that voc. is quite common in this run of hymns). Because of their commitment to mehánā as ‘rain’ in 38.3, Witzel Gotō are forced to insert rain here, though the context is hardly favorable.
 
@@ -132,23 +132,23 @@ In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 STONE-DARTING Indra. Wondrous One, what wealth is richly given from thee,  
      That bounty, Treasure-Finder! bring filling both thy hands, to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gabe, die freigebig von dir zugeteilt wird, o wunderbarer Herr des Preßsteins Indra, die bring uns mit beiden Händen, du Gutfinder!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Gut dir, Indra, reichlich ist, das du verschenkst, o Schleuderer, O lichter, schatzgewinnender, das bring in beiden Händen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот дар, о Индра удивительный,  
 Который щедро тобою раздается, о повелитель давильных камней,-  

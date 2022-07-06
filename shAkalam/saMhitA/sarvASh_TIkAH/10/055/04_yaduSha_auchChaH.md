@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् उष अउ꣡छः प्रथमा꣡ विभा꣡नाम्  
 अ꣡जनयो ये꣡न पुष्ट꣡स्य पुष्ट꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡न् महत्या꣡ असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 यत् । ते॒ । जा॒मि॒ऽत्वम् । अव॑रम् । पर॑स्याः । म॒हत् । म॒ह॒त्याः । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -132,7 +132,7 @@ genre D
 अत्र प्रसङ्गात्सूर्यात्मकेन्द्रसंबन्धिन्युषाः स्तूयते । हे **उषः** उषोदेवते **विभानां** विभासकानां ग्रहनक्षत्रादीनां **प्रथमा** प्रथमभूता सती **औच्छः** विभासनमकरोः। अग्रे ह्युषसः प्रादुर्भवन्ति पश्चादन्यानि तेजांसि । **येन** च तेजसा **पुष्टस्य** पोषयुक्तस्यापि पदार्थस्य **पुष्टम्** अतिशयेन पोषयुक्तमादित्यम् **अजनयः** उदपादयः । **यत्** यञ्च **ते** तव **जामित्वं** बान्धवम् **अवरम्** अवाङ्मुखम् । अस्मदभिमुखमित्यर्थः । कीदृश्यास्तवेति उच्यते। **परस्याः** । उपरि स्थिताया इत्यर्थः । तदिदं **महत्याः** तव **महत्** अतिप्रवृद्धम् **एकम्** असाधारणमेकमेव वा **असुरत्वं** प्रकृष्टबलवत्त्वम् । तव बलेन कृतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ genre D
 Uṣas: **Indra** is here intended in the form of thedawn, and then of the sun as typified by the dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In that, o Dawn, you dawned as the foremost of the radiant ones,  because you begat the thriving of the thriving,  
 in that you have nearer kinship with the more distant (Dawn)—great is  the one and only lordship of great (Dawn).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As first among the lights, O Dawn, thou shonest, whereby thou broughtest forth the Stay of Increase,  
      Great art thou, matchless is thine Asura nature, who, high above, art kin to those beneath thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Daß du, Usas, aufleuchtetest als erster der Lichter, wodurch du das Gedeihen des Gedeihens hervorriefst, was deine jüngste Verwandtschaft mit der entferntesten ist - das ist die einzige große Asuramacht der großen Usas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass als der Lichter erstes du erstrahltest, o Morgenroth, des Reichen Wohlstand zeugend, Dass spätrer Schwestern Schar der frühern folgte, das war allein der grossen grosse Allmacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ушас, что ты зажглась первой из светил,  
 Чем породила процветание процветания,  

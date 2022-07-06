@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡षं तोका꣡य नो द꣡धद्  
 अस्म꣡भ्यं सोम विश्व꣡तः  
 आ꣡ पवस्व सहस्रि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 आ । प॒व॒स्व॒ । स॒ह॒स्रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
@@ -80,20 +80,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** त्वं **नः** अस्माकं **तोकाय** पुत्राय **इषम्** अन्नं **दधत्** विदधत् प्रयच्छन् **सहस्रिणं** सहस्रसंख्याकं धनं **विश्वतः** सर्वतो दिक्षु **अस्मभ्यं** च **आ** **पवस्व** आप्रापय । अस्मभ्यं पुत्राय च अन्नधनादिकं प्रयच्छेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestowing food upon our offspring, **Soma**, pour from all quarters thousand-fold (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Establishing refreshment for our offspring and for us on all sides,  o Soma,  
 by purifying yourself bring thousandfold (wealth) here.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -102,23 +102,23 @@ No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma , bestowing food upon our progeny, from every sides,  
      Pour on us riches thousandfold
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unserer Nachkommenschaft und uns von allen Seiten gute Speise, tausendfältigen Gewinn bringend läutere dich, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erquickung spendend unserm Stamm und uns, o Soma, überall Ström' her uns tausendfaches Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

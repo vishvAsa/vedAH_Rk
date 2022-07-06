@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यवः प꣡यसो꣡धर् य꣡था गोः꣡  
 सो꣡मेभिर् ईम् पृणता भोज꣡म् इ꣡न्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दि꣡त्सन्तम् भू꣡यो यजत꣡श् चिकेत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वेद॑ । अ॒हम् । अ॒स्य॒ । निऽभृ॑तम् । मे॒ । ए॒तत् । दित्स॑न्तम् । भूयः॑ । य॒ज॒तः । चि॒के॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
@@ -123,36 +123,36 @@ genre M
 हेअध्वर्यवः यथागोरूधः पयसापूर्णन्तद्वदीमेनम्भोजम्फलस्यदातारंरक्षितारञ्चेन्द्रंसोमेभिः सोमैः पृ- णतपूरयत मेमदीयस्यास्यसोमस्यएतत् एतन्निभृतङ्गूढंसुखसाधनस्वभावमहमेववेदजानामि इतिपू- र्वन्नपरस्मैकथितं तथापियुष्मभ्यम्ब्रवीमीत्येवन्दित्सन्तंसोमन्दातुमिच्छन्तंयजमानंयजतोयष्टव्यइन्द्रोभू- योतिशयेनचिकेतजानाति दित्सतं डुदाञ् दाने इच्छायांसन् सनिमीमाध्वितिआकारस्यइसादेशः अत्रलोपोभ्यासस्येत्यभ्यासलोपः सः स्यार्धधातुकइतिसकारस्यतत्वम् ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Priests, fill the bountiful **Indra** with libations as the udder of a cow is filled with milk; so shall the adorable (Indra) fully comprehend (the liberality) of him who desires to present the gift, and shall say (to him), I acknowledge the secret (virtue) of this my (draught).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryus! Like the udder of a cow with milk, fill Indra the Provider  with soma juices.  
 I know of him; this has been brought home to me: the one worthy of  the sacrifice takes notice of him who strives to give more.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the cow's udder teems with milk, Adhvaryus, so fill with Soma Indra, liberal giver.  
      I know him: I am sure of this, the Holy knows that I fain would give to him more largely.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu´s! Füllet den gastfreien Indra mit Soma an wie das Euter der Kuh mit Milch ! Ich kenne ihn; das steht für mich fest: Der Verehrungswürdige beachtet den, der mehr geben will.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Priester, wie mit Milch der Milchkuh Euter, so füllt mit Soma an den güt'gen Indra; Ich kenne ihn, und das ist mir entschieden: Der Heil'ge merkt auf den, der mehr ihm zutheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварыо! Как вымя коровы – молоком,  
 Наполните щедрого Индру струями сомы!  

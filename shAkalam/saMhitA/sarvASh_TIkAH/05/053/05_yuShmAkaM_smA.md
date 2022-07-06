@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युष्मा꣡कं स्मा र꣡थाँ अ꣡नु  
 मुदे꣡ दधे मरुतो जीरदानवः  
 वृष्टी꣡ द्या꣡वो यती꣡र् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वृ॒ष्टी । द्यावः॑ । य॒तीःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuṣmākaṃ* ← *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
@@ -91,20 +91,20 @@ genre M
 हे **जीरदानवः** शीघ्रदाना हे **मरुतः** **युष्माकं** **रथान्** **अनु** उद्दिश्य **मुदे** मोदाय **दधे** धारयामि करोमीत्यर्थः । सामर्थ्यात् स्तुतीरिति लक्ष्यते । स्म' इति पूरण:। **वृष्टी** वृष्ट्या **यतीः** सर्वत्र गच्छन्तीः **द्यावः** दीप्तीरिव दृश्यमानान् रथानिति संबन्धः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I contemplate your chariots, munificent **Maruts**, with delight, like wandering lights in the rains.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is following your chariots (when they come) that I take my place for  delight, you Maruts of lively drops [/lively gifts],  
 (I delighting) like the heavens (following the waters) when they come  with their rain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The construction of this vs. is very problematic and has been much discussed (see, e.g., Oldenberg’s long consideration). In the end my interpr. is closest, but not identical, to Renou’s, though perhaps not arrived at by the same means.
 
@@ -117,23 +117,23 @@ A way to a solution (or partial solution) comes from recognizing that the fem.
 pl. part. yatī́ḥ regularly modifies ‘waters’; cf. ā́paḥ ná pravátā yatī́ḥ VIII.6.34 = 13.8 = IX.24.2, ā́po ádṛśram āyatī́ḥ X.30.13, apā́m árthaṃ yatī́nām. It is therefore quite likely, esp. in this rainy context, that ‘waters’ is gapped here, solving the gender problem -- and also the case problem, because, adding another nominal element to the syntagm allows dyā́vaḥ to take its expected nominative role and respond to the acc. represented by (apó) yatī́ḥ. Renou’s tr. reflects this: “comme les cieux (agréent les eaux), qui vont avec la pluie.” The question is then what is the mediating verb? Renou’s ‘agréent’ makes sense, but he doesn’t explain where he got it. I think it is possible to generate it from the datival mudé of b, either by simply switching emphasis from the finite verb dadhe to its infinitval complement or, in a trickier move, reading mudé a 2nd time, but this time as a 1st sg. mid. to a root present: √mud has a hapax med. root opt. mudīmahi, and though it is generally classified as a root aor., a root pres. is certainly not excluded. It is worth noting that this opt. is construed with the preverb ánu (VIII.1.14 ánu stómam mudhīmahi). Assuming this lexeme in our c would simplify the rendering of the simile. I therefore suggest a slight alteration to the published translation, to “(I delighting/delight) like the heavens (in the waters) when they come with their rain.” See also disc. ad 10c, which in some ways repairs this problematic passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O swift to pour your bounties down, ye Maruts, with delight I look upon your cars,  
      Like splendours coming through the rain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Wagen benötige ich zur Freude, o raschspendende Marut, die wie die Himmel mit Regen kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rege eure Wagen an zur Wonne mir, o tropfenreiche Marutschar, Wie Blitze die durch Regen gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это к вашим колесницам я пристраиваюсь  
 Для радости, о Маруты быстродающие,  

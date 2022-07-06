@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अवः꣡ प꣡रेण पर꣡ एना꣡वरेण  
 पदा꣡ वत्स꣡म् बि꣡भ्रती गउ꣡र् उ꣡द् अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡व स्वित् सूते नहि꣡ यूथे꣡ अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सा । क॒द्रीची॑ । कम् । स्वि॒त् । अर्ध॑म् । परा॑ । अ॒गा॒त् । क्व॑ । स्वि॒त् । सू॒ते॒ । न॒हि । यू॒थे । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avaḥ* ← *avas*
 - \[adverb\]
@@ -140,7 +140,7 @@ popular
 अत्र अग्नौ हूयमानाहुतिरूपेण स्तूयते । **गौः** गोरूपा गमनशीला एषा आहुतिसंघेन पोष्यं **वत्सं** वत्सस्थानीयमग्निम् **अवः** अवस्तात् अधोदेशे **परेण** **पदा** पादद्वयेन स्वावयवेन आकृष्य **बिभ्रती** धारयन्ती तथा **परः** परस्तात् उपरिदेशे **एना** अनेन **अवरेण** च पदा पादद्वयेन आकृष्य तमेव वत्सं बिभ्रती **उदस्थात्** सूर्यं प्रति उत्तिष्ठति । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ' (मनु. ३. ७६ ) इति स्मृतेः । अथैवं कृतवती **सा** आहुतिः **कद्रीची** क्व गतेत्यनिश्चयगमना ॥ आदित्यं प्राप्तवतीत्यर्थः । **कं** **स्वित्** कं फलभाजं पुरुषं प्रति **अर्धम्** अर्धमार्गम् आगत्य। यद्वा । अर्धमृद्धम् । **परागात्** परागच्छति । आगत्य च **क्व** **स्वित्** सूते कुत्र प्रदेशे फलमुत्पादयति । **नहि** इतरगोवत् इयं **यूथे** **अन्तः** सजातीयगोमध्ये सूते । साधारण्येन यत्र क्वचिन्न सूते अपि तु कस्मिंश्चिदनुष्ठातरि । अतः स महान् को नु खल्विति । यद्वा । आदित्यरश्मिसमूहः एव गोरूपेण स्तूयते । गौः उक्तलक्षणा रश्मिरूपा गौः वत्सं वत्सवद्रक्षणीयं यजमानम् उक्तक्रमेण बिभ्रती उदस्थात् । अथ तथा कृत्वा सा कद्रीची अदृश्यगमना सती कं स्वित् अर्धम् ऋद्धम् अर्धस्थानभाजं वा कं स्वित् पुरुषम् आदित्यं परागात् अप्रतिनिवृत्ता गता।  ‘ तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ( मु. उ. १. २. ५) इति श्रुतेः । तथा कृत्वा च क्व स्वित्सूते कस्मिन् इन्द्रादिलोके जनयति न सर्वत्र । शिष्टं समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,28 +151,28 @@ popular
 The cow is the burnt-offering and the calf is **Agni** and the positions of the two indicate the station of the offerer with respect to the sun; or, the cow may typify the solar rays collectively and the calf the worshipper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Below the upper (realm), above the lower here [=at the horizon], the  cow [=Dawn] carrying her calf [=the Sun] has stood up by her foot. In which direction is she? Toward which side did she go away? Where  does she give birth, for it is not within the fold?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Beneath the upper realm, above this lower, bearing her calf at foot the Cow hath risen.  
      Witherward, to what place hath she departed? Where calves she? Not amid this herd of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unterhalb des jenseitigen Raumes, jenseits dieses unteren hat sich die Kuh erhoben, die mit ihrem Fuß ein Kalb trägt. Wohin hat sie sich gewendet? Nach welcher Seite ist sie verzogen? Wo gebiert sie denn? Denn sie ist nicht in der Herde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Unter dem höheren Raum [Himmel] über diesem niederen [der Erde], am Fusse das Kalb [die Sonne] führend, ist die Kuh [die Morgenröthe] emporgestiegen; wohin hat sie sich gewandt? nach welcher Gegend hin ist sie fortgegangen? wo gebiert sie? denn nicht geschieht es innerhalb der Heerde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ниже дальнего (пространства), дальше этого нижнего  
 Поднялась корова, ногой несущая теленка.  

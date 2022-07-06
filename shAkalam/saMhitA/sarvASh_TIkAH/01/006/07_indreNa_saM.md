@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रेण सं꣡ हि꣡ दृ꣡क्षसे  
 संजग्मानो꣡ अ꣡बिभ्युषा  
 मन्दू꣡ समान꣡वर्चसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒न्दू इति॑ । स॒मा॒नऽव॑र्चसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ४. ६ ) इति वर्तमाने लिट् ।' समोगम्यृच्छिभ्याम् ' (पा. सू. १. ३. २९ ) इत्यात्मनेपदविधानात् लिटः कानजादेशः ( पा. सू. ३. २. १०६ )। द्विर्भादः ( पा. सू. ६. १. ८)। हलादिशेषः ( पा. सू. ७. ४. ६० )। अभ्यासस्य चुत्वम् ( पा. सू. ७. ४. ६२ )। ‘ गमहन° ' ( पा. सू. ६. ४. ९८ ) इत्युपधालोपः । कानचश्चित्त्वादन्तोदात्तत्वम् । गतिसमासे कृदुत्तरपदप्रकृतिस्वरत्वम् । अबिभ्युषा ।' ञिभी भये ' । पूर्ववल्लिट् । ' शेषात्कर्तरि परस्मैपदम् ' (पा. सू. १.३.७८) इति परस्मैपदम् ।' क्वसुश्च ' ( पा. सू. ३. २. १०७ ) इति लिटः क्वसुरादेशः । तस्य कित्त्वाद्गुणाभावः । द्विर्भावः । अभ्यासस्य ह्रस्वजश्त्वे ( पा. सू. ७. ४. ५९, ८, ४. ५४ )। क्रादिनियमात् (पा.सू. ७. २. १३) प्राप्त इट् ‘वस्वेकाजाद्धसाम्' (पा. सू. ७. २. ६७ ) इति नियमान्निवर्तते । नञ्समासे तृतीयैकवचने भत्वात् ‘ वसोः संप्रसारणम् ' ( पा. सू. ६. ४. १३१ ) इति वकारस्य उकारः । ‘ संप्रसारणाच्च' (पा. सू. ६. १. १०८ ) इति पूर्वरूपत्वम् । ‘ शासिवसिघसीनां च ' ( पा. सू. ८. ३. ६० ) इति षत्वम् । इयङादेशं बाधित्वा ‘ एरनेकाचोऽसंयोगपूर्वस्य ' ( पा. सू. ६. ४.८२) इति यणादेशः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । पूर्वेण सह संहितायामोकारस्य  एङः पदान्तादति' (पा. सू. ६. १. १०९ ) इति परपूर्वत्वे प्राप्ते ‘प्रकृत्यान्तःपादमव्यपरे' (पा. सू. ६. १. ११५ ) इति प्रकृतिभावः । मन्दू । **मदि** स्तुतिमोदमदस्वप्नकान्तिगतिषु' । ‘इदितो नुम् धातोः ' ( पा. सू. ७. १. ५८) इति नुमागमः । ‘कुः' इत्यनुवृत्तौ ‘खरु शङ्कु पीयु नीलङ्गु लिगु ' (उ. सू. १. ३६ ) इत्यत्र अविभक्तिकनिर्देशात् हन्तेः हिगुरितिवत् धात्वन्तरादपि कुः इत्युक्तम् । प्रत्ययस्वरेणान्तोदात्तः । द्विवचनम् औ ( पा. सू. ४. १. २ )। ‘प्रथमयोः पूर्वसवर्णः ' ( पा. सू. ६. १. १०२ )। तृतीयैकवचने चेत् ‘सुपां सुलुक्' (पा. सू. ७. १. ३९) इत्यादिना पूर्वसवर्णदीर्घत्वम् । समानवर्चसा । समानं वर्चो ययोरिति वा यस्येति वा बहुव्रीहिः । द्विवचने ‘सुपां सुलुक्' इत्यादिना आकारादेशः । समानपदस्य प्रातिपदिकान्तोदात्तत्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरेण तदेवावशिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Legend: battle between Indra and **Vṛtra**: Indra is aided by the gods who were driven away by Vṛtra's dogs; Indra, to obtain superiority, summoned the Maruts to help him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you [=Agni] will come to sight along with Indra, having joined  together with the fearless one,  
 (you two are) the delighting pair who share the same luster.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the introduction, this verse pairs structurally with vs. 3; I therefore take Agni to be the subject, with the verse expressing the kindling of the fire at the time when Indra arrives to receive the morning offering.
 
@@ -111,23 +111,23 @@ The form dṛ́kṣase is isolated, but its grammatical identity is fairly clear
 The two beings in pādas ab, one as unexpressed sg. subj. of the verb, one in the instr., are then referred to as a pair in the du. nom. of pāda c, the predicate of an unexpressed nominal sentence “you two are…”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee, dispeller of the night, O Agni, day by day with prayer  
    Bringing thee reverence, we come
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So mögest du denn mit Indra zusammen erscheinen, mit dem Furchtlosen zusammenkommend, beide erfreulich und von gleicher Schönheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Indra fahrend zeige dich, o Schar, mit ihm der furchtlos ist, Erfreuend, beide gleich an Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О если б появился ты вместе с Индрой,  
 Двигаясь вместе с бесстрашным, –  

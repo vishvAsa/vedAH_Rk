@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नूनं꣡ नो ऽय꣡म् ऊत꣡ये  
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 प꣡र्षिष्ठा उ नः पर्ष꣡णि अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -33,7 +33,7 @@ genre M;; line affected by realignment;; repeated line
 नयि॑ष्ठाः । ऊं॒ इति॑ । नः॒ । ने॒षणि॑ । पर्षि॑ष्ठाः । ऊं॒ इति॑ । नः॒ । प॒र्षणि॑ । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -116,36 +116,36 @@ genre M;; line affected by realignment;; repeated line
 अयं वरुणो मित्रश्चार्यमा च देवा नोऽस्माकमूतये रक्षणाय नूनमवश्यं भवन्तु। नेषणि नेतव्ये विषये हे वरुणादयः यूयं नोऽस्मान्नयिष्ठाः। नयत। वचनव्यत्ययः। यद्वा। प्रत्येकाभिप्रायेणैकवचनम्। छान्दसो लुङ्। उशब्दः समुच्चये पदपूरणार्थो वा। पर्षणिः पारयितव्ये विषये नोऽस्मान्द्विषोऽति पर्षिष्ठाः। अतिपारयथ। नयिष्था इति वत्प्रक्रिया॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this **Varuṇa** and **Mitra** and **Aryaman** be our protection, may they lead us to the spot to which weshould be led, and make us cross over to the spot to which we should cross over beyond (the reach of) ourenemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They are here to aid us now—Varuṇa, Mitra, Aryaman—  
 the best leaders in leading us and the best deliverers in delivering us— beyond hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are, each one, our present helps, Varuna, Mitra, Aryaman.  
      Best leaders, best deliverers to lead us on and bear as safe beyond our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sollen uns jetzt zu Hilfe kommen, dieser Varuna, Mitra, Aryaman, unsere besten Führer, wenn es zu führen gilt, unsere besten Retter, wenn es zu retten gilt - über alle Anfeindungen hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen uns zum Schutze sein Varuna, Mitra, Arjaman, Als beste Führer führen uns, aufs beste fahrend fahren uns – durch jeden Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пусть) они сейчас здесь (придут) к нам на помощь:  
 Варуна, Митра, Арьяман,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध स्म य꣡स्य अर्च꣡यः  
 सम्य꣡क् संय꣡न्ति धूमि꣡नः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 शि꣡शीते ध्मात꣡री यथा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 यत् । ई॒म् । अह॑ । त्रि॒तः । दि॒वि । उप॑ । ध्माता॑ऽइव । धम॑ति । शिशी॑ते । ध्मा॒तरि॑ । य॒था॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -114,7 +114,7 @@ genre M
 **अध** **स्म** अपि च **धूमिनः** धूमवतः **यस्य** अग्नेः **अर्चयः** अर्चींषि **सम्यक्** शोभनं **संयन्ति** सर्वतः प्राप्नुवन्ति **त्रितः** त्रिषु स्थानेषु ततो व्याप्तः त्रीणि स्थानानि वा अतीत्य **दिवि** अन्तरिक्षे **यत्** यदा **ईम्** अयमात्मानम् **उप** **धमति** उपवर्धयति तदा ज्वालाः सर्वतो निर्गच्छन्तीत्यर्थः । कथमिव । **ध्मातेव** । कर्मारो यथा भस्रादिभिरग्निं संवर्धयति तद्वत्स्वात्मानं वर्धयतीत्यर्थः । किंच **ध्मातरि** **यथा** । यथा ध्मातृसमीपे विद्यमानोऽग्निस्तेन ध्मायमानः स आत्मानं **शिशीते** तीक्ष्णीकरोति तद्वत्स्वयमेव स्वात्मानं तीक्ष्णीकरोतीत्यर्थः। **अह** इति पादपूरणः ॥ यन्ति । इण् गतौ । यच्छब्दयोगन्निघाताभावः । धमति ।  ‘ ध्मा शब्दाग्निसंयोगयोः'। पाघ्रादिना धमादेशः । पूर्ववत् निघाताभावः । शिशीते। शो तनूकरणे'। व्यत्ययेनात्मनेपदी।  ‘ श्लौ' इत्यनुवर्तमाने  ‘ बहुलं छन्दसि' इति विकरणस्य श्लुः ।  ‘ आदेच उपदेशेऽशिति' इति आत्वम् । ‘श्लौ' इति द्विर्वचनम् ।  ‘ बहुलं छन्दसि' इत्यभ्यासस्य इत्वम् । ‘उभे अभ्यस्तम्' इत्यभ्यस्तसंज्ञायाम् आतः ‘ई हल्यघोः' इति ईत्वम् । तिङ उत्तरत्वान्निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,35 +125,35 @@ genre M
 When diffused in the three regions: yadīm aha trito **divi** upadhamāti = triṣu sthāṇesu **vyāptaḥ**, spread in the three regions; or, triāi sthānāni atītya, having gone beyond the three regions; ātmānam upa vardhayati, he blows up or enlarges himself; as the fire blazes from the blast of the blower: the text has śiśīte dhmātari, he sharpens as in a blower; i.e., like the fire, which in the proximity of one blowing with a bellows, blazes up, so Agni sharpens his flames,or of himself adds to their intensity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then he whose smoky flames all together join together—  
 when Trita in heaven blows upon him like a blower [=smelter] (of  
 metals), he becomes sharp as if at the blowing (of bellows).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose flames, when thou art sending forth the smoke, completely reach the mark,  
      When Trta in the height of heaven, like as a smelter fanneth thee, e'en as a smelter sharpeneth thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 And he whose smoky 2 flames come together, when Trita in heaven blows upon him like a smelter, sharpens (him) as in smelting (him) 3…
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen qualmende Flammen nun ganz zusammenschlagen; wenn ihn Trita im Himmel anbläst wie der Bläser, so macht er seine Flammen scharf wie in dem Gebläse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dessen Flammen rauchumhüllt zusammen wandern im Verein, Wenn Trita in der Himmelshöh ihn anbläst einem Schmelzer gleich, (der in der Schmelze ihn entflammt.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он еще (тот,) чьи языки пламени  
 Сплетаются вместе, дымные.  

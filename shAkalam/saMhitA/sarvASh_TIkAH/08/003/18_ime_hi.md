@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ हि꣡ ते कार꣡वो वावशु꣡र् धिया꣡  
 वि꣡प्रासो मेध꣡सातये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वेनो꣡ न꣡ शृणुधी ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । नः॒ । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । गि॒र्व॒णः॒ । वे॒नः । न । शृ॒णु॒धि॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -120,7 +120,7 @@ genre M
 **कारवः** कर्मणां कर्तारः **विप्रासः** मेधाविनः **इमे** **हि** इमे खलु यजमानाः **धिया** स्तुत्या हे इन्द्र **ते** त्वां **वावशुः** पुनरस्तुवन् ।वाशृ शब्दे' इत्यस्माद्यङ्लुगन्ताद्रूपमेतत् । यद्वा वावशुः पुनःपुनरकामयन्त । वश कान्तौ । अस्माद्यङ्लुगन्ताल्लङि ‘सिजभ्यस्त' इति झेर्जुस् । बाहुलकोऽडभावः । लिटि वा तुजादित्वादभ्यासदीर्घत्वम् । ‘हि च' इति निघातप्रतिषेधः । किमर्थम् । **मेधसातये** मेधस्य यागस्य संभजनार्थम् । सनतेः क्तिनि ‘जनसनखनाम् ' इत्यात्वम् । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । हे **मघवन्** धनवन् **गिर्वणः** गीर्भिर्वननीय **नः** अस्माकं **हवं** स्तोत्रं सर्वपूर्वोक्तगुणस्त्वं **शृणुधि** शृणु । बुध्यस्व । **वेनो** **न** । वेनतिः कान्तिकर्मा । यथा कान्तो जाताभिलाषः पुरुषः कामयितव्यमैकाग्र्येण शृणोति तद्वत् । ‘ श्रुशृणुपॄकृवृभ्यः' इति हेर्धित्वम् । अन्येषामपि ' इति सांहितिको दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M
 Veno na (from **vena**, **kānti**-karmā), yathā jātābhilāṣaḥ **puruṣaḥ** kāmayitavyam aikāgryeṇaśṛṇoti, as a man full of desire listens attentively to that which is agreeable
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For these bards, inspired poets, have bellowed for you for the winning  of wisdom with their insight.  
 You, o bounteous Indra longing for songs—like a tracker listen to our call.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most assign vāvaśúḥ to √vaś ‘desire’ (e.g., Geldner “diese deine Dichter … verlangen…”; so also Grassmann, Lubotsky), but I take it to √vāś ‘bellow’. Kümmel (477-80) allows both possibilities, though he argues that the original affiliation of the pf. stem vāvaśwas to √vāś, though it may have become partially co-opted by √vaś by semantic overlap. I have opted for √vāś because this hymn contains a number of instances of noise-making by poets or their substitutes: 3d abhí … anūṣata, 7c sám asvaran, 16d asvaran, in addition to the usual verbs of singing and praising. Notice also the very parallel 5cd ... havāmahe ... dhánasya sātáye, with a verb of calling and X sātáye.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For these, the bards and singers, have cried out to thee with prayer, to gain the sacrifice.  
      As such, O Maghavan, Indra, who lovest song, even as a lover bear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese deine Dichter, die Redegewaltigen, verlangen mit ihrer Dichtung die Meisterschaft zu gewinnen. Du Gabenreicher, lobbegehrender Indra, höre wie ein Späher auf unseren Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn diese Sänger jauchzten dir mit Andacht zu, die Priester zu dem Opfermahl; Drum liederfreuter, reicher Indra, höre du wie ein Geliebter unsern Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти твои певцы вдохновенные  
 Всегда стремились завоевать мудрость с помощью молитвы.  

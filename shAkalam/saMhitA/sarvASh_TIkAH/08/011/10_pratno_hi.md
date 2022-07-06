@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रत्नो꣡ हि꣡ कम् ई꣡डियो अध्वरे꣡षु  
 सना꣡च् च हो꣡ता न꣡वियश् च स꣡त्सि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं च सउ꣡भगम् आ꣡ यजस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वाम् । च॒ । अ॒ग्ने॒ । त॒न्व॑म् । पि॒प्रय॑स्व । अ॒स्मभ्य॑म् । च॒ । सौभ॑गम् । आ । य॒ज॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pratno* ← *pratnaḥ* ← *pratna*
 - \[noun\], nominative, singular, masculine
@@ -128,21 +128,21 @@ genre M
 हे अग्ने **अध्वरेषु** यज्ञेषु **ईड्यः** स्तुत्यस्त्वं **प्रत्नो** **हि** चिरंतनः खलु भवसि। **कम्** इति पूरकः । तथा **सनात्** चिरकालादारभ्य **होता** देवानामाह्वाता **च** सन् **नव्यः** स्तुत्यः **च** सन् **सत्सि** यज्ञेषु निषीदसि । हे **अग्ने** देवानां हविर्वहंस्त्वं **स्वां** **च** **तन्वम्** आत्मीयं च शरीर **पिप्रयस्व** त्वदीयेन हविर्भागेन तर्पय । **अस्मभ्यं** स्तोतृभ्यश्च **सौभगं** सुभगत्वं **च** **आ** **यजस्व** प्रदेहि । सुभगशब्दाद्भावार्थे ‘सुभगान्मन्त्रे' इति उद्गात्रादिषु पाठात् अञ्प्रत्ययः ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, the ancient, are to be hymned at sacrifices; from eternity the invoker of the gods, you sit (at thesolemnity) entitled to laudation; cherish, **Agni**, yor own person n, and grant us prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For as the ancient one to be invoked at the ceremonies, the Hotar both  from of old and also anew, take your seat.  
 Give pleasure to your own body, o Agni, and win good fortune for us  through sacrifice.  
 Hymns 12–18 form the third group of hymns in Maṇḍala VIII, which, as Oldenberg  notes in his Prolegomena (1888: 214), clearly belong together, despite the internal  absence of poets’ names and the varying attributions of the Anukramaṇī. All but  the last of these hymns (VIII.18 [Ādityas]) are dedicated to Indra and arranged  properly by descending numbers of verses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accent of sátsi is probably owing to its presence in a hí clause.
 
@@ -151,23 +151,23 @@ However, if one follows Geldner and Renou in seeing a suppressed “you have tak
 The accent on pipráyasva is somewhat more difficult to account for, and, curiously, the standard tr. and comm. do not mention it (incl. Kümmel 323). I think it also arose by contrast with another verb form, namely ā́yajasva. The stem pipráya- to which this impv. belongs (see Kümmel and my 2018 “The Vedic Perfect Imperative and the Status of Modal Forms to Tense-Aspect Stems,” in Fs. Lubotsky), several times co-occurs with a form of √yaj and on several of these occasions is accented (e.g., VIII.39.9 yákṣac ca pipráyac ca naḥ, also VII.17.4; cf. also II.6.8 without accent, all cited by Kümmel 323).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ancient, adorablie at sacrifices, Priest from of old, meet for our praise, thou sittest.  
      Fill full and satisfy thy body, Agni, and win us happiness by offering worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn als der ehemalige, bei den Opfern zu berufende Hotri, hast du seit alters deinen Sitz eingenommen, und nimm ihn aufs neue ein! Stelle dich selbst zufrieden, o Agni, und erbitte für uns Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn als uralter Priester bei den Festen setz' nieder dich, zu preisen jetzt wie früher; erfreue Agni deinen eignen Leib nun und opfre du herbei uns Glückes Fülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь как древний достойный призывов на обрядах  
 Хотар от века (ты садился на свое место) и должен снова сесть!  

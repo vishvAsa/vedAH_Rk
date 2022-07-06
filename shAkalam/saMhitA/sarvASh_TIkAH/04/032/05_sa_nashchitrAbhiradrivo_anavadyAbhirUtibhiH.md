@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नश् चित्रा꣡भिर् अद्रिवो  
 अनवद्या꣡भिर् ऊति꣡भिः  
 अ꣡नाधृष्टाभिर् आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अना॑धृष्टाभिः । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -81,36 +81,36 @@ genre M
 हे **अद्रिवः** वज्रवन्निन्द्र **सः** त्वं **चित्राभिः** चायनीयाभिः **अनवद्याभिः** अनिन्दिताभिः **अनाधृष्टाभिः** शत्रुभिरप्रधर्षितैः **ऊतिभिः** रक्षणैः सहितः सन् **नः** अस्मान् **आ** **गहि** आगच्छ ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wielder of the thunderbolt, do you come to us with wondrous, irreproachable, irresistible protections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us, o master of the stone, with your brilliant means  of help,  
 which cannot be faulted or challenged.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Caster of the Stone, come with thy succours wonderful,  
      Blameless, and irresistible.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm du zu uns, o Herr des Preßsteins, mit deinen wunderbaren, untadelhaften, unbezwinglichen Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O komm zu uns, du Schleuderer, mit mannichfachen Hülfen her, An die sich keiner jemals wagt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приди к нам, о повелитель (давильных) камней,  
 С чудесными, безупречными,  

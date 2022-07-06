@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यज्ञा꣡य तक्षत र्भुम꣡द् व꣡यः  
 क्र꣡त्वे द꣡क्षाय सुप्रजा꣡वतीम् इ꣡षम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡न् नः श꣡र्धाय धासथा सु꣡ इन्द्रिय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यथा॑ । क्षया॑म । सर्व॑ऽवीरया । वि॒शा । तत् । नः॒ । शर्धा॑य । धा॒स॒थ॒ । सु । इ॒न्द्रि॒यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -137,7 +137,7 @@ genre M
 हे ऋभवः **नः** अस्माकं **यज्ञाय** यज्ञार्थं **ऋभुमत्** उरुभासनयुक्तं **वयः** हविर्लक्षणमन्नम् **आ** **तक्षत** आ समन्तादुत्पादयत । एतदेव विव्रियते। **क्रत्वे** क्रतवेऽस्मदीयाय कर्मणे **दक्षाय** बलाय च ॥ तादर्थ्ये चतुथीं। एतदुभयार्थं **सुप्रजावती** शोभनाभिः पुत्रपौत्रादिलक्षणाभिः प्रजाभिर्युक्ताम् **इषम्** अन्नम् आ तक्षत इति शेषः । अपि च **सर्ववीरया** सर्वैर्वीरैः पुत्रादिभिरुपेतया **विशा** प्रजया सह **यथा** येन प्रकारेण **क्षयाम** सुखेन निवसाम **तत्** तादृशम् **इन्द्रियम्** । धननामैतम् । धनं **नः** अस्मभ्यं **शर्धाय** बलार्थं **सु** **धासथ** सुष्ठु धत्त प्रयच्छतेत्यर्थः ॥ ऋभुमत् । उरु भाति' इति नैरुक्तव्युत्पत्त्या (निरु. ११. १५) ऋभुशब्दः प्रकाशमात्रवाची। ‘ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् । क्रत्वे । जसादिषु च्छन्दसि वावचनम्' इति ‘घेर्ङिति ' इति गुणाभावे यणादेशः । क्षयाम् । ‘क्षि निवासगत्योः' । व्यत्ययेन शप् । धासथ । धाञो लेटि अडागमः। ‘सिब्बहुलं लेटि' इति सिप् । अन्येषामपि दृश्यते' इति संहितायां दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ genre M
 Ṛbhumat = resplendent, having much light; from uru, much, and bha, to shine (**Nirukta** 11.15)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For our sacrifice fashion R̥bhu-like vigor; for will, for skill (fashion)  refreshment along with good offspring.  
 So that we may dwell peacefully with a clan possessing hale heroes, you  shall establish this Indrian strength for our troop.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For sacrifice make for us active vital power for skill and wisdom food with noble progeny.  
      Grant to our company this power most excellent, that with a family all-heroic we may dwell.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zimmert uns meisterliche Kraft für das Opfer zu Rat und Tat, reichen Kindersegen! Daß wir mit unserem Stamm aus vollzähligen Mannen sicher wohnen, möget ihr unserer Heerschar doch ja die indragleiche Kraft verleihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für unser Opfer schafft uns rüst'ge Jugendkraft, zu Macht und Weisheit kinderreiche Labung uns, Und unsrer Schar verleihet solche Indramacht, dass fest wir wohnen mit dem ganzen Heldenstamm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сладьте нам за жертву жизненную силу, как это свойственно Рибху,  
 За силу духа, за силу действия – подкрепление, состоящее из прекрасного потомства!  

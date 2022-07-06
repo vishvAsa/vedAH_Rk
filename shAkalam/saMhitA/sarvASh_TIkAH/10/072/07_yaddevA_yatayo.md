@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् देवा य꣡तयो यथा  
 भु꣡वनानि अ꣡पिन्वत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ सू꣡र्यम् अजभर्तन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अत्र॑ । स॒मु॒द्रे । आ । गू॒ळ्हम् । आ । सूर्य॑म् । अ॒ज॒भ॒र्त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -97,36 +97,36 @@ popular;; epic anuṣṭubh (380)
 **यत्** यदा हे **देवाः** **यतयो** **यथा** । वृष्ट्या नियमयन्तीति वा वर्षणेन यातयन्तीति वा यतयो मेघाः । ते यथोदकैः **भुवनानि** लोकं पूरयन्ति तद्वत्स्वतेजोभिः **अपिन्वत** पूरितवन्तः । **अत्र** समुद्रे अप्सु **आ** **गूळ्हं** **निगूळ्हं** **सूर्यं** प्रातरुदयाय **आ** **अजभर्तन** आहृतवन्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, gods, you filled the worlds (with your radiance) as clouds (fill the earth with rain), then youbrought forth the wun hidden in the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o gods, just as the Yatis did, you swelled the living worlds,  
 then you brought here the sun, which was hidden in the sea.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, O ye Gods, like Yatis, ye caused all existing things to grow,  
      Then ye brought Surya forward who was lying hidden in the sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr Götter wie Zauberer die Welten anschwelltet, da holtet ihr die im Meere versteckte Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dann wie starke Herrscher ihr, o Götter, schwellen liesst die Welt, Da hobt die Sonne ihr hervor, die in dem Meer verborgen lag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о боги, как Яти,  
 Вы сделали набухшими (все) миры,  

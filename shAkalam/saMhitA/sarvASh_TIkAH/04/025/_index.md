@@ -8,7 +8,7 @@ title = "+025"
 ‘ को अद्य' इत्यष्टर्चं चतुर्थं सूक्तं वामदेवस्यार्षं त्रैष्टुभमैन्द्रम् । तथा चानुक्रान्तं-- ‘ को अद्याष्टौ' इति । दशरात्रे चतुर्थेऽहनि माध्यंदिने सवने स्तोमवृद्धौ मैत्रावरुणशस्त्रे आरम्भणीयाया उपरिष्टादिदं सूक्तमावपनीयं च । सूत्रितं च- स्तोमे वर्धमाने को अद्य नर्यः' ( आश्व. श्रौ. ७, १२ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 25 (321)  
 Indra  
@@ -18,7 +18,7 @@ Although this hymn is superficially organized like IV.23, with a series of quest
 A salient feature of this hymn is the focus on the various kinds of relationships  a mortal may have with Indra: especially comradeship (vss. 1, 2, 6, 7), but also fel lowship (literally yoke-fellowship, vs. 2), brotherhood (vs. 2), friendship (vs. 6), and  kinship (vs. 6).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

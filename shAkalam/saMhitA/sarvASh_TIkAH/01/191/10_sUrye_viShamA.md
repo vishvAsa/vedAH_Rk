@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सू꣡र्ये विष꣡म् आ꣡ सजामि  
 दृ꣡तिं सु꣡रावतो गृहे꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 म꣡धु त्वा मधुला꣡ चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -37,7 +37,7 @@ popular;; line affected by realignment;; epic anuṣṭubh (525)
 सः । चि॒त् । नु । न । म॒रा॒ति॒ । नो इति॑ । व॒यम् । म॒रा॒म॒ । आ॒रे । अ॒स्य॒ । योज॑नम् । ह॒रि॒ऽस्थाः । मधु॑ । त्वा॒ । म॒धु॒ला । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
@@ -156,7 +156,7 @@ popular;; line affected by realignment;; epic anuṣṭubh (525)
 आदित्यमण्डले चतुर्थेनाङ्गुलिना विषमादाय मधुकृत्य योजयित्वा निर्विषो भवेदिति यदेतद्विषविद्यायामुक्तं तदिदमत्रोच्यते । अहं विषावृतोऽगस्त्यः **सूर्ये** सर्वस्य प्रेरयितरि मधुविद्यारूपे सूर्यमण्डले **विषम्** आवृत्य वर्तमानं सूर्ये **आ** **सजामि** आसक्तं करोमि । तत्र दृष्टान्तः । **सुरावतो** **गृहे** सुरानिर्मातृसदने **दृतिम्** इव चर्ममयं सुरापात्रमिव । यथा तत्कर्तुः न दोषाय भवति तद्वद्विषम् आदित्यस्य न बाधकमित्यर्थः । **सो** **चित्** । चित् पूजायाम् । नुः प्रसिद्धौ । पूज्यः सः सूर्यः खलु न मराति न म्रियते । **नो** **वयं** **मराम** । तदनुग्रहात्तत्रैव विषस्य योजितत्वात् वयमपि न म्रियामहे । उभयोरमरणे कारणमाह । **हरिष्ठाः** । हरयोऽश्वाः । तेषु स्थित आदित्यः **आरे** दूरे **अस्य** विषस्य **योजनं** प्रापणं चकार । तदेवाच्यते । हे विष **त्वा** त्वां **मधु** अमृतं **चकार** । विषस्य विषभावं दूरेऽपनोद्य अमृतीचकारेति । एषैव **मधुला** मधुदात्री निर्विषीकर्त्री मधुविद्या । यदेतदादित्यस्य विषयोजनं तेन च अमृतीकरणं यदस्ति एषा मधुविद्या ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -169,14 +169,14 @@ This and the following three hymns are derived from the **viṣa vidyā**, the s
 Madhuta = **madhu vidyā** was originally taught by **Indra** to Dadhyañc, who communicated it to the **Aśvins**, and thereby lost his head
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I fasten the poison on the Sun, the skin (containing it) on the house of  the possessor of liquor [=Indra].  
 Even now he will not die, and we will not die.  
 The mounter of the fallow bays [=Indra] has (made) its [=poison’s] trek  far in the distance; the honeyed (plant) has made you honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the second part of the hymn begins here, but it clearly pivots on the sun, which figured in the two preceding vss.
 
@@ -189,23 +189,23 @@ The natural/ritual action depicted in the first pāda is, in my interpr., matche
 They make him drink surā, which was mixed with soma (perhaps the soma he had already drunk), and he performs the feat of separating the two liquids. This myth is already present in X.131.4-5 with precisely this detail. When in pāda b here we fashion the skin of poison onto Indra the surā-drinker’s house, we are implicitly asking him to perform the same feat for us. The refrain (found in vss. 10-13, pādas c-f) makes it clear that he has succeeded. At least in my interpr., it is said that Indra has put the poison far in the distance (e) and the honeyed (plant?) has made honey (quite possibly soma, as often)(f): the two liquids have been separated and are separate, with the good one available to us. The result is that the mythological model, Indra, will not die (c) -- nor will we (d) -- and the poison with which we began has been rendered ineffective.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I hang the poison in the Sun, a wine-skin in a vintner's house,  
      He will not die, nor shall we die: his path is far: he whom Bay Horses bear hath turned thee to sweet meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Sonnengott hänge ich das Gift auf wie einen Schlauch im Hause des Branntweinbesitzers. Er wird gewiß nicht daran sterben, noch werden wir sterben. Der Falbenlenker hat seine Verwendung beseitigt. Die süße Pflanze hat dich zu Honig gemacht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Sonnengotte hänge ich das Gift an, wie einen Schlauch an das Haus des mit Rauschtrank versehenen; er wird doch daran nicht sterben; auch wir werden nicht sterben; der auf goldfarbenem Rosse reitende [Sonnengott] trieb weithin sein Gespann, und dich [o Gift] hat er in süssen Honig verwandelt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К солнцу я прикрепляю яд,  
 (Как) мехи – в доме у обладателя браги.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ नः शिशीहि भुरि꣡जोर् इव क्षुरं꣡  
 रा꣡स्व रायो꣡ विमोचन  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 यं꣡ त्वं꣡ हिनो꣡षि म꣡र्तियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । तत् । नः॒ । सु॒ऽवेद॑म् । उ॒स्रिय॑म् । वसु॑ । यम् । त्वम् । हि॒नोषि॑ । मर्त्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -121,7 +121,7 @@ genre M
 हे इन्द्र पूषन् वा **नः** अस्मान् **सं** **शिशीहि** सम्यक् निश्य(शिश्य, तिश्य - पा.भे.) तीक्ष्णबुद्धीन् कुरु। **भुरिजोरिव** । बाहुनामैतत् । नापितस्य बाह्वोरिव स्थितं **क्षुरम्** इव । अपि च हे **विमोचन** पापाद्विमोचन पापाद्विमोचयितः **रायः** धनानि **रास्व** अस्मभ्यं देहि । ‘रा दाने'। तत् कस्य हेतोः । **त्वे** त्वयि खलु **उस्रियम्** । उस्रा गावः । तत्संबद्धं **तत्** **वसु** निवासकं धनं **नः** अस्माकं **सुवेदं** सुलभं नान्येषु देवेषु । **यं** धनसमूहं **मर्त्यं** मनुष्यं स्तोतारं प्रति **त्वं** **हिनोषि** प्रेरयसि तद्वसु त्वयीत्यन्वयः। यत एवं तस्मात् रास्व इति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ genre M
 Sam naḥ śiśīhibhurijor iva kṣuram = nāpitasya bāhvor iva sthitam kṣuram iva, like a razor plural ced as it were in the two armsof a barber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sharpen us like a razor in your hands. Bestow riches, you releaser. In you is that ruddy good [=cattle] easy to find for us (and for) the  
 mortal whom you urge on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda d is, one way or another, an improper relative, in that there is no referent for the yám in the main clause. Geldner’s ‘wenn’ suggests that he takes yám as standing for yád. I am assuming the ellipsis of a ca, for a “X and which Y” construction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sharpen us like a razor in the barber's hands: send riches thou who settest free.  
      Easy to find with thee are treasures of the Dawn for mortal man whom thou dost speed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach uns scharf wie das Messer in den Händen, schenk uns Reichtum, du Ausspanner! Bei dir ist dieser Rinderreichtum für uns leicht zu bekommen, wenn du einen Sterblichen aneiferst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wie die Schneiden einer Scheere schärfe uns, o schenke Gut, Erretter du; Von dir ist unser schönes rinderreiches Gut, und jedes Menschen, den du liebst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Заостри нас, как нож в тисках!  
 Одари богатством, о распрягающий (коней)!  

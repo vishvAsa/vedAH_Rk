@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्या꣡ सधमा꣡दिया  
 ह꣡री हि꣡रण्यकेशिया  
 वोळ्हा꣡म् अभि꣡ प्र꣡यो हित꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 वो॒ळ्हाम् । अ॒भि । प्रयः॑ । हि॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 एषा व्याख्याता (ऋ. सं. ८. ३२. २९ ) । अत्रापि वाक्यार्थो विधीयते । **सधमाद्या** इन्द्रेण सह हविर्भिस्तर्पयितव्यौ यद्वा संग्रामे सह माद्यन्तौ **हिरण्यकेश्या** हिरण्मयस्कन्धगतकेशवन्तौ **त्या** तौ प्रसिद्धौ **हरी** हरितवर्णावेतन्नामकावश्वौ **इह** अस्मिन् यज्ञे **हितं** - - वादिषु निहितं हितकरं वा **प्रयः** हवीरूपमन्नमभिलक्ष्य **वोळ्हाम्** इन्द्रं वहताम् । प्रापयतामिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those two golden-maned steeds together exulting bring him to our wholesome offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hither let these two feasting companions, the pair of fallow bays with  golden manes,  
 convey (you) to the pleasure set out (for you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These two who share his feast, Bay Steeds with golden manes, shall bring him to  
      The banquet that is laid for him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hierher sollen die beiden Kumpane, die goldmähnigen Falben fahren zum vorgesetzten Opferschmaus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fahre her der Füchse Paar zum Mahl vereint, mit goldnem Haar, Zu dieser aufgetragnen Kost.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

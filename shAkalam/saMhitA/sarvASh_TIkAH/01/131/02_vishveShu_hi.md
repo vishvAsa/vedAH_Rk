@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषु हि꣡ त्वा स꣡वनेषु तुञ्ज꣡ते  
 समान꣡म् ए꣡कं वृ꣡षमण्यवः पृ꣡थक्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 स्तो꣡मेभिर् इ꣡न्द्रम् आय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 इन्द्र॑म् । न । य॒ज्ञैः । चि॒तय॑न्तः । आ॒यवः॑ । स्तोमे॑भिः । इन्द्र॑म् । आ॒यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣu* ← *viśva*
 - \[noun\], locative, plural, neuter
@@ -167,14 +167,14 @@ genre M
 इति सनेः इन्प्रत्ययः । पृषोदरादिः । पिपर्तेः औणादिकः सनिप्रत्ययो वा ॥ कीदृशा ववम् । **आयवः** मनुष्या यजमानाः **यज्ञैः** साधनैः **इन्द्रं** **न** **चितयन्तः** परमेश्वरमिव वां चेतयन्तः परमेश्वरबुद्ध्या भावयन्त इत्यर्थः । यद्वा नशब्दः एवकारार्थः । इन्द्रमेव त्वां जानन्तः । तथा स्तोमेभिः स्तोत्रैः **इन्द्रम्** इन्द्रमेव **आयवः** गच्छन्तो वयं धीमहि ॥ दधातेर्लिङि छान्दसः शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hoping to partake of your bounties, (your worshippers) hasten severally in every rite to (adore) you, who ask one and all; each severally seeking heaven. We meditate on you, the sustainer of our strength, like a boat that bears (passengers) across (a stream); mortals, indeed, knowing **Indra**, propitiate him with sacrifices; mortals (propitiate him) with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because at all pressings those of bullish fervor thrust you forward, (each  of them) separately (thrusts you who are) one and the same—those  
 seeking to win the sun, (each) separately—  
@@ -182,7 +182,7 @@ you, like a boat of deliverance, we would place at the chariot-pole of our  forc
 making Indra take notice (of us) with our sacrifices as the Āyus did—as  the Āyus did Indra with their praises.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas de contain what we would call a mixed metaphor: “we would place you at our chariot-pole like a boat.” In a RVic context this does not seem a solecism, but simply an example of the usual piling of image upon image.
 
@@ -191,24 +191,24 @@ I am uncertain of the value of the part. citáyantaḥ in f. In keeping with the
 Another problem with this final sequence is the function and position of ná in f. It should mark índram as the compared term in a simile (“… like Indra”), but since Indra should be the target of sacrifice and praise, deflecting him to the simile is unlikely and leaves us without a corresponding term in the frame. I am loosely taking ná as having domain over the whole pāda, which implicitly compares us (the subject of dhīmahi in e) with the Āyus, though this is not how simile marking generally works -- and will also not work if “we” are identical to the Āyus rather than compared to them. The mention of the Āyus in the preceding hymn, I.130.6, and in
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In all libations men with hero spirit urge the Universal One, each seeking several light, each fain to win the light apart.  
      Thee, furthering like a ship, will we set to the chariot-pole of strength,  
      As men who win with sacrifices Indra's thought, men who win Indra with their lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn bei allen Somaopfern nötigen sie bulleneifrig dich, den Einen, Gemeinsamen, jeder für sich, da sie das Sonnenlicht zu gewinnen wünschen, jeder für sich. Dich, der wie ein Schiff hinüberträgt, wollen wir an die Deichsel des Kampfliedes bringen, indem wir Ayu´s ihn, wie es dem Indra zukommt, mit Opfern auszeichnen, den Indra mit Lobliedern wir Ayu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dich allein, den einen, treiben hier und dort die eifervollen bei den Somaopfern an, die glanzbegier'gen alle an; Drum wie ein Schiff, das überfährt, sei an den Pfahl der Kraft gespannt, Auf Indra zielt der Mensch mit seinen Opfern hin, auf Indra mit dem Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь при всех выжиманиях (сомы) (люди) донимают тебя  
 С бычьей яростью, (бога) общего (и) единственного - каждый для себя,  

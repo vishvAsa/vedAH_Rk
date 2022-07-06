@@ -8,7 +8,7 @@ title = "+109"
 ‘ वि हि' इत्यष्टर्चं चतुर्थं सूक्तम् । अनुक्रान्तं च - वि ह्यष्टौ ' इति । ऋष्याद्याः पूर्ववत् । सूक्तविनियोगो लैङ्गिकः॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 109  
 Indra and Agni  
@@ -20,7 +20,7 @@ The theme of kinship is continued in verse 3, where the forefathers, a more  sat
 The subject gradually shifts to praise of the two gods’ powers (vss. 5–6) and  requests for their aid (vss. 7–8). In verse 7 the forefathers return, and the poet,  rather indirectly, compares the sacrificial compact the gods had with these ances tors with the one he hopes he has established now.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Agni
 </details>

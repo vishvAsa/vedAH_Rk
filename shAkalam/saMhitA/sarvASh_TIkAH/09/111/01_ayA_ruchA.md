@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ रुचा꣡ ह꣡रिणिया पुनानो꣡  
 वि꣡श्वा द्वे꣡षांसि तरति स्वयु꣡ग्वभिः  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 सप्त꣡आस्येभिर् ऋ꣡क्वभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 विश्वा॑ । यत् । रू॒पा । प॒रि॒ऽयाति॑ । ऋक्व॑ऽभिः । स॒प्तऽआ॑स्येभिः । ऋक्व॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -150,7 +150,7 @@ genre M
 **पुनानः** पूयमानः सोमः **हरिण्या** हरितवर्णया **अया** अनया **रुचा** रोचमानया धारया **विश्वा** सर्वाणि **द्वेषांसि** द्वेष्टॄणि रक्षांसि **तरति** विनाशयति । तत्र दृष्टान्तः । **सूरो** **न** यथा सूर्यः **स्वयुग्वभिः** स्वयं युक्तै रश्मिभिस्तमांसि हिनस्ति तद्वत् । **स्वयुग्वभिः** इति द्विरुक्तिरादरार्था। यद्वा । धारया युक्तः सोमः स्वीयैर्युक्तैस्तेजोभी रक्षांसि तरति । तस्य **सुतस्य** अभिषुतस्य सोमस्य **धारा** **रोचते** दीप्यते । **पुनानः** पूयमानः **हरिः** हरितवर्णः सोमः **अरुषः** अरोचमानो भवति । **यत्** यः सोमः **सप्तास्येभिः** रसहरणशीलास्यैः **ऋक्वभिः** स्तुतिमद्भिः **ऋक्वभिः** तेजोभिः **विश्वा** विश्वानि व्याप्तानि **रूपा** रूपाणि नक्षत्राणि **परियाति** गच्छति व्याप्नोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,7 +161,7 @@ genre M
 With the rays yoked to it: svayugvabhiḥ refers to **suraḥ**; the repetition adds dignity; with the ṛkvans, with the seven-mouthed ṛkvans: rikvabhiḥ = stutimadbhiḥ; second ṛkvans = tejobhiḥ; thus, 'with encomiastic splendours' is the rendering; the seven-mouths are for taking up the Soma juice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified with this golden light, he crosses all hatreds with (horses)  of his own yoking—like the Sun with the (horses) of his own yoking.  
 In the stream of pressed (juice) he shines ruddy and tawny as he is being  purified,  
@@ -169,7 +169,7 @@ when he makes the circuit of all his forms by (the impetus of) the
 versifiers—by (the impetus of) the versifiers with their seven mouths.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 To achieve 8 syllables in pāda c we need to read sū́raḥ as trisyllabic, as Oldenberg points out - a fairly rare scansion for this word.
 
@@ -178,23 +178,23 @@ On “all forms” see comm. ad IX.64.8.
 Geldner (n. 1fg) suggests that the “versifiers with their seven mouths” refers to the Aṅgirases, since the same word saptā́sya- is used of Bṛhaspati with ref. to the Aṅgireses in IV.50.4 and with direct ref. to Aṅgira in IV.51.4. This is quite plausible, given that the next vs. conerns the Vala myth - but the phrase must simultaneously apply to the current ritualists.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH this his golden splendour purifying him, he with his own allies subdues all enemies, as Sara with his own allies.  
      Cleansing himself with stream of juice he shines forth yellow-hued and red, when with the praisers he encompasses all forms, with praisers having seven mouths.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit diesem goldgelben Glanze sich läuternd entgeht er allen Feinden mit seinen selbstgeschirrten Rossen wie der Sonnengott mit den selbstgeschirrten Rossen. Im Strome des ausgepreßten Soma erglänzt der Geläuterte rötlichgelb, wenn er alle seine Farben durchläuft, von den Sängern, den siebenmündigen Sängern angetrieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem goldnen hellen Glanz erstrahlend nun besiegt mit seinen Freunden alle Feinde er, mit seinen Freunden sonnengleich; Des Saftes Strom erglänzet hell, geklärt der rothe, goldene, Wenn alle Formen er durchläuft mit jubelnden, mit siebenmünd'gen jubelnden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь с этим желтоватым блеском,  
 Он пересекает все враждебности на самозапрягающихся (конях),  

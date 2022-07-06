@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मे विविक्वाँ꣡ अविदन् मनीषां꣡  
 धेनुं꣡ च꣡रन्तीम् प्र꣡युताम् अ꣡गोपाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रस् त꣡द् अग्निः꣡ पनिता꣡रो अस्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒द्यः । चि॒त् । या । दु॒दु॒हे । भूरि॑ । धा॒सेः । इन्द्रः॑ । तत् । अ॒ग्निः । प॒नि॒तारः॑ । अ॒स्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -126,41 +126,41 @@ genre M
 **विविक्वान्** विवेकवानिन्द्रोऽग्निर्वा **मे** मम **मनीषां** देवताविषयां स्तुतिं **प्र** **अविदत्** प्रकर्षेण जानातु । तत्र दृष्टान्तः । **चरन्तीं** यवसे इतस्ततो गच्छन्तीं **प्रयुतां** पृथग्भूतामेकाकिनीम् **अगोपां** गोप्तृरहितां यथाकामं चरन्तीं **धेनुं** नवसूतिका गामिव देवतानां प्रीणयित्रीं स्तुतिमविददित्यन्वयः । **या** स्तुतिरूपा धेनुः **सद्यश्चित्** तदानीमेव **धासेः** । धारयति प्राणान् धीयते दीयते अर्थिभ्यः इति वा धासिरन्नम् । कर्मणि षष्ठी । **भूरि** बह्वन्नमपेक्षितं फलं **दुदुहे** दुग्धे **इन्द्रः** **अग्निः** अन्ये च देवाः **अस्याः** स्तुतिरूपाया धेनोः **तत्** तस्यान्नभूतस्य पयसः **पनितारः** स्तोतारो भवन्ति । यद्वा । इन्द्राग्नी स्तोतारो वयं चास्या धेनोस्तत्पयः प्राप्नुमः ॥ विविक्वान् ।  ‘ विचिर् पृथग्भावे इत्यस्य क्वसौ रूपम् । अविदत् ।' विद ज्ञाने ' इत्यस्य लङि • बहुलं छन्दसि ' इति शः । दुदुहे।  ‘ दुह प्रपूरणे' इत्यस्य लिटि रूपम् । यद्वृत्तयोगादनिघातः । प्रत्ययस्वरः । पनितारः। ‘पन स्तुतौ ' इत्यस्य तृचि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the discriminating **Indra** apprehend my glorification (of the gods), which is (free) as a cow, grazing alone, without a cowherd, one who is readily milked, yielding abundant nourishment, and of whom **Agni** and Indra (and we), are the commenders.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who has sifted through has found my inspired thought—a milk-cow,  roaming for some distance without a cowherd,  
 who just in a single day has given milk in abundance from her wellspring.  So Indra and Agni (and other gods) are admirers of her—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The plural agent noun panitā́raḥ predicated of just two gods, Indra and Agni, assumes other gods are covertly present; cf. III.54.9 in the same VD series, with devā́saḥ … panitā́raḥ, after which the expression here may be modeled.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MY thought with fine discernment hath discovered the Cow who wanders free without a herdsman,  
      Her who hath straightway poured me food in plenty: Indra and Agni therefore are her praisers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer sich meine Dichtung ausersehen hat, hat eine Milchkuh gefunden, die hirtenlos sich selbst überlassen weidet, die alsbald viel der Labung als Milch gibt. Indra und Agni werden ihr darum Beifall spenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Geist erwägend fand die Kuh durch Weisheit, die achtlos wandert, unbewacht von Hütern, Die viel des Trankes strömen liess auf einmal, es lobten dies ihr Wirken Indra, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто способен различать, нашел мою молитву –  
 Дойную корову, пасущуюся сама по себе, без пастуха,  

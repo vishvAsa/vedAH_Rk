@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् भुवं व꣡सुनः पूर्विय꣡स् प꣡तिर्  
 अहं꣡ ध꣡नानि सं꣡ जयामि श꣡श्वतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अहं꣡ दाशु꣡षे वि꣡ भजामि भो꣡जनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 माम् । ह॒व॒न्ते॒ । पि॒तर॑म् । न । ज॒न्तवः॑ । अ॒हम् । दा॒शुषे॑ । वि । भ॒जा॒मि॒ । भोज॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -129,37 +129,37 @@ genre M
 **अहम्** इन्द्रः **वसुनः** धनस्य पूर्व्यः मुख्योऽसाधारणः **पतिः** स्वामी **भुवम्** अभवम् । भवतेर्लंङि  बहुलं छन्दसि ' इति शपो लुक् । 'अचि नुधातुभ्रुवाम् ' इत्यादिना उवङादेशः । अडभावश्छान्दसः । तथा **अहं** **शश्वतः** । बहुनामैतत् । बहोः शत्रोः संबन्धीनि **धनानि** । **सम्** इत्येकीभावे । सह **जयामि** । किंच **माम्** एव **जन्तवः** प्राणिनो यजमानाः **हवन्ते** आह्वयन्ति । **पितरं** **न** पितरमिव पुत्राः । **अहं** **दाशुषे** हविषो दात्रे यजमानाय **भोजनम्** अन्नं **वि** **भजामि** ददामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am the principal lord of wealth; I conquer the treasure of many (adversaries); living beings call uponme as (sons call upon) a father; I bestow food on the donor of oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I was the foremost lord of goods. I win the stakes over and over.  
 Upon me do the creatures call, like kinfolk their father. I apportion  
 food to the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WAS the first possessor of all precious gear: the wealth of every man I win and gather up.  
      On me as on a Father living creatures call; I deal enjoyment to tho. man who offers gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich ward der allererste Herr des Guts; ich erobere alle Schätze zusammen. Mich rufen die Menschengeschlechter wie die Kinder ihren Vater. Ich teile dem Opferspender Speisung aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich bin der Herr der Güter schon von Alters her, und ich erbeute eines jeden Schätze mir, Wie einen Vater rufen mich die Wesen an, ich theile viele Nahrung dem Verehrer aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я был первым господином добра.  
 Я завоевываю богатство постоянно.  

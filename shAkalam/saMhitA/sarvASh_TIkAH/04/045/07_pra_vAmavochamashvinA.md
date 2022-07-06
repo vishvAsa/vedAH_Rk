@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वाम् अवोचम् अश्विना धियंधा꣡  
 र꣡थः सुअ꣡श्वो अज꣡रो यो꣡ अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हवि꣡ष्मन्तं तर꣡णिम् भोज꣡म् अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 येन॑ । स॒द्यः । परि॑ । रजां॑सि । या॒थः । ह॒विष्म॑न्तम् । त॒रणि॑म् । भो॒जम् । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -126,41 +126,41 @@ genre M
 **धियंधाः** कर्मणां धारकोऽहम् हे **अश्विना** **वां** **प्र** **अवोचं** प्रब्रवीमि स्तौमि । **स्वश्व:** **अजरः** अजीर्णो नित्यनूतनोऽजरयिता वा **रथः** **यः** अस्ति । **येन** रथेन **सद्यः** तदानीमेव **रजांसि** लोकान् **परि** **याथः** । तेन रथेन **हविष्मन्तं** सोमादिहविर्युक्तं **तरणिं** तारकं शीघ्रगामिनं **भोजं** भोजयितारमस्मद्यागम् **अच्छ** प्राप्तुम्। आगच्छतमिति शेषः ॥ ॥ २१ ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Celebrating (sacred) rites, I glorify you, **Aśvins**; well-horsed and undecaying is that chariot, whereby you quickly traverse the regions (of space), and come to (our sacrifice) abounding in oblations, promptly passing away, and the yielder of enjoyment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have (now) proclaimed (this chariot of) yours, o Aśvins, setting my  insight before you—the unaging chariot that has good horses,  
 with which in a day you drive around the dusky realms to the provider  offering oblation, as he advances (across the ritual ground).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This final vs. in part reprises vs. 1: ráthaḥ begins both b pādas, and párijmā ‘earth-encircling’ of 1b is paraphrased by 7c yéna sadyáḥ pári rájāṃsi yātháḥ “with which in a day you drive around the dusky realms” -- though -jman- and rájas- are of course unrelated, there is some phonological similarity. Given this ringcompositional effect between vss. 1 and 7, it is barely possible that we should supply dhíyam from cmpd dhiyaṃdhā́- in 7b as obj. to úd iyarti in 1a (see disc. there).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Devout in thought I have declared, O Asvins, your chariot with good steeds, which lasts for ever,  
      Wherewith ye travel swiftly through the regions to the prompt worshipper who brings oblation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe dichtend von eurem Wagen Kunde gegeben, o Asvin, der schönrossig, alterlos ist, mit dem ihr in einem Tage die Räume durchfahret zu dem fleißigen, gastfreien Opferer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich hab' euch Ritter andachtsvoll gerufen den ew'gen Wagen mit den schnellen Rossen, Mit dem im Tage ihr die Welt umkreiset, herbei zum raschen, opferreichen Spender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Хранитель поэтического вдохновения, я прославил, о Ашвины,  
 Вашу колесницу с прекрасными конями, которая не стареет,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ वि꣡प्रैर् अभि꣡ष्टुतो  
 अपो꣡ देवो꣡ वि꣡ गाहते  
 द꣡धद् र꣡त्नानि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दध॑त् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **विप्रैः** मेधाविभिः स्तोतृभिः **अभिष्टुतः** परितः स्तुतः **एषः** सोमः **देवः** **दाशुषे** हविषां प्रदात्रे यजमानाय **रत्नानि** रमणीयानि धनानि **दधत्** धारयन् प्रयच्छन् **अपः** वसतीवरीः **वि** **गाहते** प्रविशति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 The waters are those called vasatīvaryaḥ, with which Soma is sprinkled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, praised by the inspired poets, the god, plunges through the  waters,  
 establishing treasures for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praised by the sacred bards, this God dives into waters, and bestows  
      Rich gifts upon the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Gott, der von den Redekundigen gepriesen wird, taucht ins Wasser, dem Opferspender Kleinode bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Wasser taucht sich dieser Gott, gepriesen von der Sängerschar, Und spendet Schatz dem Huldiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот бог, восхваленный  
 Вдохновенными (поэтами), ныряет в воды,  

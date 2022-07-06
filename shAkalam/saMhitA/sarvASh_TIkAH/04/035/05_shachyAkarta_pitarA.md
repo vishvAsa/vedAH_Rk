@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡चियाकर्त पित꣡रा यु꣡वाना  
 श꣡च्याकर्त चमसं꣡ देवपा꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इन्द्रवा꣡हाव् ऋभवो वाजरत्नाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शच्या॑ । हरी॒ इति॑ । धनु॑ऽतरौ । अ॒त॒ष्ट॒ । इ॒न्द्र॒ऽवाहौ॑ । ऋ॒भ॒वः॒ । वा॒ज॒ऽर॒त्नाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śacyākarta* ← *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
@@ -132,36 +132,36 @@ genre M
 हे **वाजरत्नाः** रमणीयसोमान्ना हे **ऋभवः** यूयं **शच्या** कर्मणा **पितरा** मातापितरौ । **युवाना** युवानो **अकर्त** अकुरुत । तथा **शच्या** **चमसं** **देवपानं** देवपानार्हम् **अकर्त** चतुर्धाकुरुतेत्यर्थः। **शच्या** **हरी** अश्वौ **अतष्ट** तक्षणेन संपादितवन्तः । कीदृशौ हरी । **धनुतरौ** शीघ्रं गन्तृतरौ इन्द्रवाहौ इन्द्रवोढारौ ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By your (marvellous) deeds you have made your parents youg; by your deeds you have made the ladle (fit) for the drinking of the gods; by your deeds you have made the two horses, the bearers of **Indra**, swifter than (an arrow from) a bow, **Ṛbhus**, who are rich in (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By your ability you have made your parents to be young; by your ability  you have made the cup from which the gods drink.  
 By your ability you fashioned the two swift-running fallow bays that  convey Indra, o R̥bhus whose treasure is victory’s prize.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye with your cunning made your Parents youthful; the cup, for Gods to drink, ye formed with cunning;  
      With cunning, Rbhus, rich in treasure, fashioned the two swift Tawny Steeds who carry Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Kunst habt ihr die Eltern jung gemacht, mit Kunst zimmertet ihr die beiden Falben, die besten Läufer, die Zugtiere des Indra, ihr reichbelohnten Ribhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Kunst habt jung gemacht ihr eure Aeltern, durch Kunst gemacht den gottgetrunknen Becher, Durch Kunst das schnelle Füchsepaar gebildet, das fährt den Indra, güterreiche Ribhu's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Своею) силой вы сделали родителей юными,  
 (Своею) силой вы сделали кубок для питья богов,  

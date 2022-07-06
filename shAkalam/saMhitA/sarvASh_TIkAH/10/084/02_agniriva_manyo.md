@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ऽव° मन्यो त्विषितः꣡ सहस्व  
 सेनानी꣡र् नः सहुरे हूत꣡ एधि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡जो मि꣡मानो वि꣡ मृ꣡धो नुदस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ह॒त्वाय॑ । शत्रू॑न् । वि । भ॒ज॒स्व॒ । वेदः॑ । ओजः॑ । मिमा॑नः । वि । मृधः॑ । नु॒द॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -125,37 +125,37 @@ popular
 हे **मन्यो** **अग्निरिव** **त्विषितः** ज्वलितः **सहस्व** अभिभव शत्रून् । हे **सहुरे** सहनशील **सेनानीः** **एधि** भव **नः** अस्माकं संग्रामे **हूतः** सन् । किंच **हत्वाय** हत्वा **शत्रून्वि** **भजस्व** प्रयच्छास्माकं **वेदः** धनं शत्रुसंबन्धि। किंच **औजो** **मिमानः** अस्माकं बलं कुर्वन् **मृधः** शत्रून् **वि** **नुदस्व** घातयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Manyu**, blazing like **Agni**, overthrow (our foes), come as our genitive ral, enduring (manyu) when invoked(by us) in battle; having slain the enemies divide (among us) the treasure; granting (us) strength, scatter (our)foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Flaring like fire, o Battle Fury, be victorious. Be our army-leader,  
 victorious one, when you are invoked.  
 On smiting our rivals, share out their possessions. Showing the measure  of your strength, shove aside the scorners.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flashing like fire, be thou, O conquering Manyu, invoked, O Victor, as our army's leader.  
      Slay thou our foes, distribute their possessions: show forth thy vigour, scatter those who hate us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Feuer funkelnd siege, o Manyu; sei aufgerufen unser Heerführer, du Überlegener! Erschlage die Feinde und verteile ihre Habe; deine Stärke erprobend jage die Verächter auseinander!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Feuer bist du glühend, starker Manju; gerufen sei, siegreicher, wie ein Feldherr; Die Feinde schlage und ihr Gut vertheile, und Kraft erweisend stosse fort die Hasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

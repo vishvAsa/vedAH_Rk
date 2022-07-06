@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡न्ति चित् स꣡न्तम् अ꣡ह  
 यज्ञ꣡म् म꣡र्तस्य रिपोः꣡  
 नो꣡प वेषि जातवेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 न । उप॑ । वे॒षि॒ । जा॒त॒ऽवे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anti*
 - \[adverb\]
@@ -83,43 +83,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic g�
 हे **जातवेदः** **अन्ति** **चित्** अन्तिकेऽपि **सन्तं** भवन्तं समीपे विद्यमानमपि **रिपोः** अस्मच्छत्रोः **मर्तस्य** मनुष्यस्य **यज्ञं** **नोप** **वेषि** । अहशब्दोऽवधारणे । नैव कामयसे ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You desire not, **Jātavedas**, the sacrifice of the man who is our adversary, although plural ced before you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice of the cheating mortal, even though it be nearby—  
 you do not seek it out.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verb veṣi can be either a 2nd sg. indic. pres. or a si-impv. to √vī ‘pursue’. (See, e.g., the distribution as given by Lubotsky 1330 and 1331; Lubotsky takes this occurrences as an indic.) Geldner tr. it as an indic., Renou as an impv., and the published translation takes it as an indicative present. Contextually I would (weakly) prefer the imperative, and the undoubted si-imperative sátsi found in 10b might support this interpr. But I am not certain that si-imperatives take ná as negative rather than mā́. Given their derivational status as haplologized s-aor. subjunctives, ná should be quite correct, but they have generally transferred functionally into the imperative domain and so might be expected to take mā́, however anomalously. I know of no diagnostic passages.
 
 The voc. ‘o Jātavedas’ was carelessly omitted from the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Jatavedas, seekest not the worship of a hostile man,  
      However nigh itbe to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer eines heimtückischen Sterblichen, auch wenn es vor dir ist, nimmst du nicht an, o Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch zu dem nahen Opferwerk des bösgesinnten Sterblichen, O Wesenkenner, gehst du nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже находящуюся прямо перед (тобой)  
 Жертву смертного-обманщика  

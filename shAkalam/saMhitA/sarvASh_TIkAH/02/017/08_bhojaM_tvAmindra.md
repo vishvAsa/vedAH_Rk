@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भोजं꣡ तुवा꣡म् इन्द्र वयं꣡ हुवेम  
 ददि꣡ष् टुव꣡म् इन्द्र अ꣡पांसि वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृधि꣡ वृ꣡षन्न् इन्दर+ व꣡स्यसो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒वि॒ड्ढि । इ॒न्द्र॒ । चि॒त्रया॑ । नः॒ । ऊ॒ती । कृ॒धि । वृ॒ष॒न् । इ॒न्द्र॒ । वस्य॑सः । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhojaṃ* ← *bhojam* ← *bhoja*
 - \[noun\], accusative, singular, masculine
@@ -134,36 +134,36 @@ genre M
 हेइन्द्र भोजम्पालयितारम्भोजयितारंवात्वांवयंहुवेम ह्वयतेर्लिङिबहुलञ्छन्दसीतिसम्प्रसारणम् हे- इन्द्र त्वंअपांसिकर्माणिवाजानन्नानिददिः दाण् दाने आदृगमहनजनइतिकिप्रत्ययः लिङ्वद्भावाद- भ्यासादिकार्यम् नलोकाव्ययनिष्ठेतिषष्ठीप्रतिषेधः दाताखलु हेइन्द्र चित्रयानानाप्रकारयाऊतीऊत्या- पालनेननोस्मानविड्ढिरक्ष वृषन् कामानांवर्षकहेइन्द्र नोस्मान् वस्यसः अतिशयेनवसुमतः कृधिकुरु ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you, **Indra**, the bestower of enjoyment; you grant food, Indra, (in requital of pious) works; protect us, Indra, with manifold protections; Indra, showerer (of benefits), render us affluent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would call upon you, Indra, to be our sustainer. You are the giver,  Indra, of labors and of victory’s prizes.  
 Help us, Indra, with your shimmering help! Indra, you bull, make us  better!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we invoke thee as a liberal giver thou givest us, O Indra, strength and labours.  
      Help us with manifold assistance, Indra: Migthy One, Indra, make us yet more wealthy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, den Gastfreien, wollen wir rufen, Indra. Du, Indra, gibst Arbeit, Lohn. Steh uns bei mit augenfälligem Beistand ! Mach uns, du Bulle, Indra, reicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rufen, Indra, dich, der gerne schenket; du Indra bist's, der Arbeit gibt und Kräfte; Hilf, Indra, uns mit mannichfachen Hülfen und mach' uns reicher, o du starker Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим позвать тебя, щедрого, о Индра.  
 Ты, о Индра, даешь труды, награды.  

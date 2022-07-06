@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मुमुक्षु꣡वो म꣡नवे मानवस्यते꣡  
 रघुद्रु꣡वः कृष्ण꣡सीतास ऊ जु꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वा꣡तजूता उ꣡प युज्यन्त आश꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स॒म॒नाः । अ॒जि॒रासः॑ । र॒घु॒ऽस्यदः॑ । वात॑ऽजूताः । उप॑ । यु॒ज्य॒न्ते॒ । आ॒शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mumukṣvo* ← *mumukṣvaḥ* ← *mumukṣu*
 - \[noun\], nominative, plural, feminine
@@ -105,7 +105,7 @@ genre M
 **मनवे** मननवते **मानवस्यते** मानवान् ऋत्विजः कर्मार्थमिच्छते यजमानाय तदर्थमध्वर्य्वादिभिः अग्नेर्ज्वालाः **उप** **युज्यन्ते** यज्ञेषु। सूक्तस्याग्नेयत्वात् औचित्यात् ज्वाला इति गम्यते । कीदृश्यस्ताः । **मुमुक्ष्वः** मुमुक्षव आहुतिद्वारा यजमानं मोक्तुमिच्छन्त्यः ब्रह्मलोकं प्रापयन्त्यः ॥ 'जसादिषु च्छन्दसि वावचनम्' इति गुणाभावः। ज्वालानामाहुतिद्वारा ब्रह्मलोकप्राप्तिसाधनत्वं काली कराली' इत्युपक्रम्य श्रूयते-’एतेषु यश्चरते भ्राजमानेषु यथाकालं चाहुतयो ह्याददायन्। तं नयन्त्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः ' (मु. उ. १. २. ४-५) इति । **रघुद्रुवः** क्षिप्रं गच्छन्त्यः **कृष्णसीतासः** कृष्णमार्गाः । उकारः समुच्चयार्थः। **जुवः** जवनशीलाः शीघ्रकारिण्यः स्वव्यापारेषु **असमनाः** असमानमनस्काः । काश्चन प्राङ्मुख्यो गच्छन्ति काश्चन प्रत्यङमुख्यः इति विविधमनस्काः॥ व्यत्ययेनैकवचनम् ॥ यद्वा । असमना भिन्नवर्णाः । भिन्नवर्णत्वं च तत्रैव श्रूयते-’काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्णा। स्फुलिङ्गिनी विश्वभुवी च देवी लेलायमान इति सप्त जिह्वाः' इति । **अजिरासः** गमनशीलाः **रघुस्यदः** शीघ् स्यन्दमानाः **वातजूताः** वातप्रेरिताः । ‘तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरत्वम् । **आशवः** व्यापनशीलाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,12 +116,12 @@ genre M
 'Flames of Agni' is inserted to explain the epithets: **raghu**-druvaḥ, going lightly; kṛṣṇasītāsaḥ, black-pathed; juvaḥ, quick; asamanā, not same-minded (some going east, some west or in different colours); ajirāsaḥ, moving; raghuṣyadaḥ, light-gliding; vātajūtaḥ, wind-impelled; **āśavaḥ**, pervading; mumukṣvaḥ, giving liberation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Manu and the offspring of Manu to come they are harnessed—the  speedy (horses) seeking to break free, running fast, drawing black furrows, quick, racing fast, breaking ranks, sped by the wind, swift.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The thrust of this vs. is a pile-up of adjectives describing Agni’s flamehorses, set within a frame consisting of the verb úpa yujyante “they are harnessed,” postponed until the final pāda, and a dative of benefit occurring in the first: mánave mānavasyaté.
 
@@ -132,28 +132,28 @@ mānavasyaté is found only here, and both its sense and its formation are uncle
 Note the phonetic figure opening the vs.: mumukṣvò mánave mānavasyaté.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For man, thou Friend of men, these steeds of thine are yoked, impatient, lightly running, ploughing blackened lines,  
      Discordant-minded, fleet, gliding with easy speed, urged onward by the wind and rapid in their course.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy speedy (teams) 1 that strive to break loose for the benefit of the man who acts as men do, the swift ones, drawing black furrows-thy quick (horses), striving apart, the agile, swift runners, incited by the wind, are yoked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Menschenfreundlichen werden die schnellfüßigen Rennstuten angeschirrt, die dem Menschen durchgehen wollen, die schwarze Furchen ziehen, die behenden auch ohne Kampf schnellaufend, wie windgetriebene Renner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem menschengleichen Gotte werden angeschirrt die flücht'gen Renner, die nach Freiheit trachtenden, Die auseinanderstrebend schwarze Furchen ziehn, die windschnell eilen raschen Laufes, raschen Flugs.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На благо человеку, действующему по-человечески, запрягаются  
 Стремящиеся освободиться, быстро бегущие, оставляющие черты борозды,  

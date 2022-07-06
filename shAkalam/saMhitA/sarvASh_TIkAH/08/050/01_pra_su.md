@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सु꣡ श्रुतं꣡ सुरा꣡धसम्  
 अ꣡र्चा शक्र꣡म् अभि꣡ष्टये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सह꣡स्रेणेव मं꣡हते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यः । सु॒न्व॒ते । स्तु॒व॒ते । काम्य॑म् । वसु॑ । स॒हस्रे॑णऽइव । मंह॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -105,36 +105,36 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I would praise the far-famed, the bounteous **Śakra**, for the sake of his protection, who gives desirablewealth by thousands to the presser of the **Soma** and the offerer of hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth to the famed, very generous, able one for his dominance, who grants to the presser and to the praiser desirable goods, by the  thousands as it were.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is very close to 49.1 in structure and lexicon. Some items are identical and positioned identically: a: surā́dhasam, c: yáh, (-)vasu, d: sahásreṇeva.
 
 Others are identical words but placed differently: ab: (abhí) prá ... arca. Then there are synonyms with the same function: c: jaritṛ́bhyaḥ / suvaté stuvaté. Root connections deployed differently: 49d śíkṣati / 50b śakrám; 49c maghávā 50d máṃhate. The only items that don't have any correspondents in the other hymn are 49a abhí, vaḥ; b: índram ... yáthā vidé; c: purū- / 50a sú śrutám; b: abhíṣtaye; c: kā́myam.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimm fein das Lied auf den berühmten freigebigen Mächtigen an, um zur Geltung zu kommen, der dem Somapressenden, dem Lobsänger erwünschtes Gut wie durch eine Tausendschenkung spendet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hehren, starken preis' ich nun zur Hülfe mir, der vieles schenkt, Der vielbegehrte Güter wie zu tausenden dem Sänger gibt, der Soma presst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу прекрасно воспеть знаменитого  
 Прекрасно дарящего могучего - для поддержки,  

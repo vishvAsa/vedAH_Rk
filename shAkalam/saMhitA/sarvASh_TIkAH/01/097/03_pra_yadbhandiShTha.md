@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ य꣡द् भ꣡न्दिष्ठ एषा᳐म्  
 प्रा꣡स्मा꣡कासश् च सूर꣡यः  
 अ꣡प नः शो꣡शुचद् अघ꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 अप॑ । नः॒ । शोशु॑चत् । अ॒घम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -87,21 +87,21 @@ popular;; repeated line
 **यत्** यथा **एषां** स्तोतॄणां मध्येऽयं कुत्सः **प्र** **भन्दिष्ठः** प्रकर्षेण स्तोतृतमः एवम् **अस्माकासः** आस्माकीनाः **सूरयः** स्तोतारः **च** प्रकर्षेण स्तोतृतमा भवन्ति । अन्यत् समानम् ॥ भन्दिष्ठः । भन्दतिः स्तुतिकर्मा । भदि कल्याणे सुखे च ' इति तु धातुः । अस्मात् तृजन्तात् ‘तुश्छन्दसि ' इति इष्ठन् । तुरिष्ठेमेयःसु ' इति तृलोपः । अस्माकासः । अस्माकं संबन्धिनः आस्माकाः । तस्मिन्नणि च युष्माकास्माकौ ' ( पा. सू. ४. ३. २ ) इति आस्माकादेशः । छान्दसोऽण्प्रत्ययस्य लोपः । संज्ञापूर्वकस्य विधेरनित्यत्वात् वृद्ध्यभावः। आजसेरसुक्' स्थानिवदादेशेऽपि मकारात् परस्य आकारस्य उदात्तत्वम् । यद्वा । षष्ठीबहुवचनेऽस्माकंशब्दस्य मध्योदात्तस्य दृष्टत्वात् स एव आचार्येण अतिदिश्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(in like manner as, among these your worshippers, **Kutsa**) is the pre-eminent panegyrist, so are our encomiasts (of you) the most distinguished; may our sin be repented of.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that the most fortunate one of these (would become) preeminent, and  preeminent our own patrons,  
 —(you) blazing away the bad for us—  
 236 I.98–99
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of bhándiṣṭha eṣām “the most fortunate one of these” is not clear.
 
@@ -116,28 +116,28 @@ These three middle verses, before the refrain becomes reintegrated into the vers
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Best praiser of all these be he; foremost, our chiefs who sacrifice.  
      May his light chase our sin away.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 When he stands forth as the most glorious one among them 2, and when our liberal lords excel—driving away evil with thy light—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß der Beste unter ihnen und alle unsere Lohngeber den Vorrang haben - sei das Übel von uns hinwegflammend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass hell erstrahl der glänzendste der Sänger, unsre Fürsten auch, So strahl er Leid von uns hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы самый знаменитый из них (стал) впереди  
 И (все) наши покровители (стали) впереди –  

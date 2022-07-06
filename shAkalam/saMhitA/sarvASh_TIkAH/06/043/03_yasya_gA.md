@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य गा꣡ अन्त꣡र् अ꣡श्मनो  
 म꣡दे दॄळ्हा꣡+ अवा꣡सृजः  
 अयं꣡ स꣡ सो꣡म इन्द्र ते सुतः꣡ पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4;; repeated line
 अ॒यम् । सः । सोमः॑ । इ॒न्द्र॒ । ते॒ । सु॒तः । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -102,20 +102,20 @@ genre M;; 12 = 8+4;; repeated line
 **यस्य** सोमस्य **मदे** मदकरे रसे पीते सति **अश्मनः** वलासुरेण निहितस्य पर्वतस्य **अन्तः** मध्ये विद्यमानाः **दृब्हाः** दृढपिधानाश्च **गाः** पणिभिरपहृताः **अवासृजः** वलस्य बन्धनाद्व्यसृजः स सोम इत्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma**, in the exhilaration of which you have liberated the cattle, firm (fastened) within the rock, is poured out, **Indra**, for you; drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In whose exhilaration you set loose from the rock the cows fixed firm  within—  
 here is that soma, Indra, pressed for you. Drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. subtly undermines the autonomous power of Indra. In the refrain of all three vss. Indra is addressed as svadhāpate ‘lord of independent power’, but here in the first hemistich Indra is said to be like (ná) “one grown strong by (his own) power,” like “one overpowering by his own forms of help” (svā́bhir ūtíbhih). In other words the power that appears to be Indra’s own (svá-) is really produced for him by soma.
 
@@ -135,23 +135,23 @@ are structured by rel. clauses in ab with soma as the referent of the rel. prn.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In whose wild joy thou settest free the kine held fast within the rock,  
      This Soma is pressed out for thee, O Indra: drink!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In des Rausch du die im Felsen eingeschlossenen Kühe freiließest, dieser Soma ist für dich, Indra, gepreßt. Trink!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Rausch die Kühe du befreitest, die der Fels urnschloss, Der Soma ist gepresst dir, Indra, trinke ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В чьем опьянении ты выпустил  
 Коров, крепко запертых в скале,  

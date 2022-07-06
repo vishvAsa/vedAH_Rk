@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡शं-विशम् मघ꣡वा प꣡र्य् अशायत  
 ज꣡नानां धे꣡ना अवचा꣡कशद् वृ꣡षा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡ तीव्रइः꣡ सो꣡मैः सहते पृतन्यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । अह॑ । श॒क्रः । सव॑नेषु । रण्य॑ति । सः । ती॒व्रैः । सोमैः॑ । स॒ह॒ते॒ । पृ॒त॒न्य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
@@ -123,37 +123,37 @@ genre M
 **वृषा** कामानां वर्षिता **मघवा** धनवानिन्द्रः **विशंविशं** सर्वान् मनुष्यान् **पर्यशायत** परिशेते। किंच **जनानां** स्तोतृजनानां **धेनाः** स्तुतीः **अवचाकशत्** अभिपश्यति । किंच **शक्रः** इन्द्रः **यस्याह** यस्यैव यजमानस्य **सवनेषु** **रण्यति** रमते **सः** यजमानः **तीव्रैः** तीव्रकरैः प्रदीयमानैः **सोमैः** **पृतन्यतः** संग्राममिच्छतः शत्रून् **सहते** अभिभवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Maghavat, the showerer (of benefits), encompasses all people; he contemplates the praises ofmankind; the man in whose sacrifice **Śakra** delights, overcomes (foes) wishing to fight by means of his pungentSoma-libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Clan after clan does the bounteous one encircle, as the bull keeping  watch over the nourishing streams of the peoples.  
 In whose soma-pressings the able one rejoices, that one vanquishes,  
 with his sharp soma juices, those doing battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Maghavan came by turns to all the tribes of men: the Steer took notice of the people's songs of praise.  
      The man in whose libations Sakra hath delight by means of potent Somas vanquisheth his foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu einem Clan um den anderen kommt der Gabenreiche herum, auf die Lippen, die Reden der Leute achtend, der Bulle. Bei wessen Trankopfern der Mächtige sich´s wohlsein läßt, der bezwingt mit den scharfen Somasäften die Angreifer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es lagert sich der starke Stier um jedes Haus, so oft er nur des Menschen Milchgetränk erblickt; An wessen Mahl der starke Indra sich ergötzt, der schlägt die Feinde durch der Somatränke Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От одного племени к другому переходит щедрый,  
 Присматриваясь к потокам у людей, (этот) бык.  

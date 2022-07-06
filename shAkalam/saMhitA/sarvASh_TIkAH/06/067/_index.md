@@ -8,7 +8,7 @@ title = "+067"
 ‘ विश्वेषां वः 'इत्येकादशर्चं षष्ठं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभं मैत्रावरुणम् । तथा चानुक्रम्यते -- ‘ विश्वेषां मैत्रावरुणम्' इति । सूक्तविनियोगो लैङ्गिकः । मैत्रावरुणे पशौ ‘ आ यातं मित्रावरुणा ' इति पशुपुरोडाशस्यानुवाक्या । सूत्रितं च -  ‘ आ यातं मित्रावरुणा सुशस्त्या नो मित्रावरुणा हव्यजुष्टिम् ' ( आश्व. श्रौ. ३. ८ ) इति । व्यूळ्हे दशरात्रे सप्तमेऽहनि प्रउगशस्त्रे ‘प्र यद्वाम् इति मैत्रावरुणस्तृतीयस्तृचः । तथा च सूत्रितं - ‘ प्र यद्वां मित्रावरुणा स्पूर्धन्ना गोमता नासत्या रथेन ' ( आश्व. श्रौ. ८.९ ) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 67 (508)  
 Mitra and Varuṇa  
@@ -21,7 +21,7 @@ This absence leads to the final section of the hymn (vss. 9–11), which appears
 ing that the preceding hymn also made brief allusion to sacrificial rivalry in its  final verse (VI.66.11).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Mitra and Varuṇa
 </details>

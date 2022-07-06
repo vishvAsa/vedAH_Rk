@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ हि꣡ स्थः꣡ सु꣡वर्पती  
 इ꣡न्द्रश् च सोम गो꣡पती  
 ईशाना꣡ पिप्यतं धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 ई॒शा॒ना । पि॒प्य॒त॒म् । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -85,40 +85,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** **त्वम्** **इन्द्रश्च** **युवं** **हि** युवां खलु स्वर्पती सर्वस्य स्वामिनौ **स्थः** भवथः । तथा **गोपती** गवां पालकौ **ईशाना** ईश्वरौ सन्तौ **धियः** अस्मदीयानि कर्माणि **पिप्यतं** प्याययतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma** and **Indra**, are the lords of all the lords of cattle, do you, the rulers, prosper our rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you two, o Soma, you and Indra, are lords of the sun, lords of cattle. Showing your mastery, make our insights swell.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the reverse vāyav indraś ca construction, índraś ca soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For ye Twain, Indra, Soma, are Lords of the light, Lords of the kine:  
      Great Rulers, prosper ye our songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr beide, Soma und du, Indra, seid die Herren des Himmelslichtes und der Kuh. Befruchtet unsere Gedanken, die ihr das vermöget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr, o Indra, Soma, seid des Himmels und der Heerden Herrn, Als Herrscher segnet das Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы двое, повелители солнца,  
 О Индра и Сома, повелители коров.  

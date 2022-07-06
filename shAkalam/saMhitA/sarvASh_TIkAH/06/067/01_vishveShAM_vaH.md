@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषां वः सतां᳐꣡ ज्ये꣡ष्ठतमा  
 गीर्भि꣡र् मित्रा꣡व꣡रुणा वावृध꣡ध्यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दुवा꣡ ज꣡नाँ अ꣡समा बाहु꣡भिः स्वइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सम् । या । र॒श्माऽइ॑व । य॒मतुः॑ । यमि॑ष्ठा । द्वा । जना॑न् । अस॑मा । बा॒हुऽभिः॑ । स्वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣāṃ* ← *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
@@ -117,14 +117,14 @@ genre M
 **विश्वेषां** **सतां** मध्ये **ज्येष्ठतमा** ज्येष्ठतमौ मित्रावरुणौ **वः** वां **गीर्भिः** स्तुतिभिः **ववृधध्यै** वर्धयितुं प्रवृत्तोऽस्मि । **या** यौ **द्वा** द्वौ सहितौ **असमा** विषमौ । ' त्रिरश्रिं हन्ति चतुरश्रिरुग्रः ' ( ऋ. सं. १.१५२.२ ) इति निगमान्तरेणासाम्यं दर्शितम् । **यमिष्ठा** यन्तृतमौ **स्वैः** आत्मीयै **बाहुभिः** **रश्मेव** रश्मिनेवाश्वान् **जनान्** **सं** **यमतुः** संयच्छतः । बाहुभिरिति बहुवचनं पूजार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I proceed) by my praises to exalt you, **Mira** and **Varuṇa**, the eldest of all existing things; you two, though not the same, are the irmest resrainers with your arms, and hold men back (from eil) as they check (horses) with reins.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of all beings the most preeminent, Mitra and Varuṇa are to be  
 continuously strengthened by your songs.  
@@ -132,7 +132,7 @@ The best controllers, the two without equal, who, like reins, firmly
 control the peoples with their own arms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hymn does not start promisingly, with a bad, and unfixable, cadence in pāda a (jyẽ́ṣṭhatamā). Pāda c also ends with a superlative (yámiṣṭhā), which makes a fine cadence. Perhaps this morphological parallelism invited the deployment of the double splv. jyẽṣṭhatamā in this unfavorable position.
 
@@ -145,23 +145,23 @@ In c the grammatical identity of raśmā́(in sandhi with the simile particle ra
 The verb form yamátuḥ is generally assigned to the pf. stem (Grassmann, Wh Rts, Kümmel), though Lubotsky lists it with the root aor., labelling it a nonce. Kümmel (399) derives this nonredupl. pf. by analogy to “nur scheinbar reduplikationslosem takṣathur : takṣur” to the 3rd pl. injunc. root aor. yamur. Since there is no real semantic connection between the two roots √yam and √takṣ, and the supposed model takṣathur is found only once in the RV, in Maṇḍala X (as opposed to the well-established redupl. pf. tatákṣa, etc.), this seems an unlikely channel. A more likely one is found in the immediate context: the pāda ends … yamátur yámiṣṭhā, with the dual splv. “best controllers” serving as subj. to the etymologically identical verb. In these circumstances substituting the root syllable yam found in the splv. for the weak form yem found in the proper dual pf. yemáthur (2x; cf. also 3rd du. yematur) would not be surprising.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 NOW Mitra-Varuna shall be exalted high by your songs, noblest of all existing;  
      They who, as 'twere with reins are best Controllers, unequalled with their arms to check the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra und Varuna, die Allerhöchsten unter allen Wesen, wollen wir für euch mit Lobesworten erbauen, die unvergleichlichen besten Lenker, die beide wie ein Zügel die Menschen mit eigenen Armen im Zaum halten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die von euch guten allen sind die besten, Varuna-Mitra preis' ich nun mit Liedern, Die besten Lenker, die wie Zügel lenken, das Männerpaar, an Armkraft unvergleichlich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самых лучших из всех существ,  
 Митру-Варуну, мы хотим усилить для вас хвалебными песнями,  

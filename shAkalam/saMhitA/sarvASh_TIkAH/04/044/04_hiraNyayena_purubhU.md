@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिरण्य꣡येन पुरुभू र꣡थेन  
 इमं꣡ यज्ञं꣡ नासतियो꣡प यातम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द꣡धथो र꣡त्नं विधते꣡ ज꣡नाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पिबा॑थः । इत् । मधु॑नः । सो॒म्यस्य॑ । दध॑थः । रत्न॑म् । वि॒ध॒ते । जना॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyayena* ← *hiraṇyaya*
 - \[noun\], instrumental, singular, masculine
@@ -115,41 +115,41 @@ genre M
 हे **पुरुभू** बहु भवन्तौ नासत्यौ **इमं** **यज्ञं** **हिरण्ययेन** **रथेन** **उप** **यातम्** । **सोम्यस्य** सोमसंबन्धिनः **मधुनः** मधुररसस्य ॥ कर्मणि षष्ठ्यौ ॥ सोमरसं **पिबाथः** पिबथः । **विधते** परिचरते **जनाय** मह्यं **रत्नं** रमणीयं धनं **दधथः** धारयथः । दधतेर्दानार्थस्य लेटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Nāsatyas**, who are manifold, come with your golden chariot to this sacrifice; drink of the sweet **Soma** beverage, and give precious things to the man who celebrates (your worship).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you who appear in many places, with your golden chariot drive right  up to this sacrifice here, o Nāsatyas.  
 Just you will drink of the somian honey, and you will establish a treasure  for the person who distributes it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root noun cmpd. purubhū́- can, of course, be interpreted in many ways, given its component parts. See disc. in Scarlatta (362). Four of its five occurrences modify the Aśvins (and the fifth may not belong to this stem; seecomm. ad IX.94.3); since one of the oft-noted characteristics of the Aśvins is their peripatetic nature, I interpr. it as ‘appearing in many places’. In our passage it strikes the same note as ihéha ‘here and there’ in vs. 7 (=43.7). There are two occurrences in VIII.22 (vss. 3, 12), and the Aśvins hymns in VIII often express concern about the many places the Aśvins could be besides here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Borne on your golden car, ye omnipresent! come to this sacrifice of ours, Nasatyas.  
      Drink of the pleasant liquor of the Soma give riches to the people who adore you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her zu diesem Opfer auf goldenem Wagen, ihr vielseitigen Nasatya´s! Ihr sollt von dem somischen Met trinken und dem verehrenden Manne ein Kleinod bringen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf goldnem Wagen kommt, o oftgeseh'ne, zu diesem Opfer her, o ihr Wahrhaft'gen Und trinket recht den süssen Saft des Soma's, ihr schenket Gut dem Mann, der euch verehret.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На золотой колеснице, о многосущие,  
 Приезжайте, о Насатьи, на эту жертву!  

@@ -8,7 +8,7 @@ title = "+074"
 ‘ वसूनाम्' इति षड़ृचं षष्ठं सूक्तम्। ऋष्याद्याः पूर्ववत् । ' वसूनां षट्' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 74 (900)  
 Indra  

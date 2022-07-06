@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ स्तो꣡मम् अ꣡र्हते जात꣡वेदसे  
 र꣡थम् इव स꣡म् महेमा मनीष꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भ॒द्रा । हि । नः॒ । प्रऽम॑तिः । अ॒स्य॒ । स॒म्ऽसदि॑ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 **अर्हते** पूज्याय **जातवेदसे** जातानामुत्पन्नानां वेदित्रे जातप्रज्ञाय जातधनाय वाग्नये **मनीषया** निशितया बुद्ध्या **इमम्** एतत्सूक्तरूपं **स्तोमं** स्तोत्रं **रथमिव** यथा तक्षा रथं संस्करोति तथा **सं** **महेम** सम्यक् पूजितं कुर्मः । **अस्य** अग्नेः **संसदि** संभजने **नः** अस्माकं **प्रमतिः** प्रकृष्टा बुद्धिः **भद्रा** **हि** कल्याणी समर्था खलु । अतस्तया बुद्ध्या स्तुम इत्यर्थः । हे **अग्ने** **तव** **सख्ये** अस्माकं त्वया सह सखित्वे सति **वयं** **मा** **रिषाम** हिंसिता न भवाम । अस्मान् रक्षेत्यर्थः ॥ अर्हते। ‘अर्ह पूजायाम्। ‘ अर्हः प्रशंसायाम् ' ( पा. सू. ३. २. १३३) इति लटः शत्रादेशः । शपः पित्त्वादनुदात्तत्वम् । शतुश्च अदुपदेशात् लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । महेम । ‘ मह पूजायाम् । रिषाम् । ‘ रिष हिंसायाम्' । व्यत्ययेन शः । तव । ‘युष्मदस्मदोर्सि। ' इत्याद्युदात्तत्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 The refrain: sakhye mā riṣāmā vayam tava = may we not be injured in or by your friendship, i.e. do you preserve us.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Jātavedas, who deserves this praise, we would bring it into being like  a chariot, with our inspired thought,  
 for his solicitude for us in the assembly is beneficial. – O Agni, while in  company with you may we not come to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR Jatavedas worthy of our praise will we frame with our mind this eulogy as 'twere a car.  
      For good, in his assembly, is this care of ours. Let us not, in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 We have sent forward 1 with thoughtful mind this song of praise like a chariot to the worthy Gâtavedas. For blissful is his care for us in his companionship. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Loblied haben wir für Jatavedas, der es verdient, mit Bedacht wie einen Wagen zusammengefügt, denn seine Fürsorge bringt uns in der Versammlung Glück. O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wesenkenner, der's verdient, ihm haben wir dies Lob bereitet kunstvoll einem Wagen gleich; Denn heilvoll ist uns seine Sorge in dem Rath, in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это восхваление для достойного Джатаведаса  
 Мы хотим торжественно создать с молитвой, как колесницу -  

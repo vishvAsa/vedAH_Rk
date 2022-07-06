@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ ष्वापया मिथूदृ꣡शा  
 सस्ता꣡म् अ꣡बुध्यमाने  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सह꣡स्रेषु तुवीमघ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 आ । तु । नः॒ । इ॒न्द्र॒ । शं॒स॒य॒ । गोषु॑ । अश्वे॑षु । शु॒भ्रिषु॑ । स॒हस्रे॑षु । तु॒वि॒ऽम॒घ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -107,7 +107,7 @@ genre M;; repeated line
 **मिथूदृशा** परस्परं संगतत्वेन दृश्यमाने यमदूत्यौ **नि** **ष्वापय** नितरां सुप्ते कुरु । ते च अस्मान् मारयितुम् **अबुध्यमाने** सत्यौ **सस्तां** निद्रां प्राप्नुताम् । अन्यत् पूर्ववत् ॥ नि ष्वापय । सुषामादित्वात् षत्वम् ( पा. सू. ८. ३. ९८ )। ‘अन्येषामपि दृश्यते ' इति दीर्घः । मिथुनतया युगलरूपेण पश्यतः इति मिथूदृशा । क्विप् च ' इति दृशेः कर्तरि क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । पूर्ववत् पूर्वपदस्य दीर्घः । ‘सुपां सुलुक्' इति विभक्तेः आकारः। सस्ताम् । ‘षस स्वप्ने '। लोटि तसस्ताम् । ‘अदिप्रभृतिभ्यः' इति शपो लुक् । प्रत्ययस्वरः । पादादित्वात् निघाताभावः । अबुध्यमाने । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,31 +120,31 @@ Lit. 'Put to sleep the two reciprocally looking; let them sleep, not being awake
 Mithudṛśā = mithunatayā **yugala** rūpeṇa paśyataḥ, looking after the manner of twins, at each other
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Put to sleep the two of opposite appearance [=birds of ill-omen?]; let  those two females sleep unawakening.  
 – Give us hope for resplendent cows and horses in the thousands, o  
 powerfully generous Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lull thou asleep, to wake no more, the pair who on each other look  
      Do thou, O Indra, give us hope of beauteous horses and of kine,  
      In thousands, O most wealthy One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schläfere die beiden verschieden Aussehenden ein; ohne zu erwachen sollen beide schlafen. Mach uns doch Hoffnung auf tausend schmucke Kühe und Rosse, o freigebiger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wechselnd wachen, schläfre ein, lass schlafen, nie erwachen sie, Du, Indra, mach uns herrlich doch an Rindern, Rossen, glänzenden, an tausenden, sehr reicher du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Усыпи тех двух с обманчивым взглядом!  
 Пусть спят они беспробудно!  

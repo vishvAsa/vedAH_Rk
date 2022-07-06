@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिषध꣡स्था सप्त꣡धातुः  
 प꣡ञ्च जाता꣡ वर्ध꣡यन्ती  
 वा꣡जे-वाजे ह꣡विया भूत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 वाजे॑ऽवाजे । हव्या॑ । भू॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triṣadhasthā* ← *triṣadhastha*
 - \[noun\], nominative, singular, feminine
@@ -83,7 +83,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **त्रिषधस्था** त्रिषु लोकेषु सहावतिष्ठमाना त्रिलोकव्यापिनी **सप्तधातुः** । सप्त धातवोऽवयवा गायत्र्याद्या गङ्गाद्या वा यस्याः सा तथोक्ता । **पञ्च** **जाता** जातानि निषादपञ्चमांश्चतुरो वर्णान् गन्धर्वादीन् वा **वर्धयन्ती** अभिवृद्धान् कुर्वती । ईदृशी सरस्वती **वाजेवाजे** युद्धे युद्धे सर्वेषु युद्धेषु **हव्या** **भूत्** ह्वातव्या भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,35 +94,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Seven elements: **saptadhātu**: either the metres or the river
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having three seats and seven parts, strengthening the five peoples, at every prize contest she is worthy to be invoked.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 But heaven as part of her domain is apparently smuggled in, without naming it, in triṣadhásthā ‘having three seats’ opening this vs. The vs. in general is characterized by fairly straightforward numerology: in addition to the three seats, the seven parts are presumably her sister rivers and “five peoples” is the familiar expression for the totality of the Ārya. The 1st vs. of the tṛca inaugurated the numerology with saptásvasā ‘having seven sisters’.
 
 On hávyā bhūt see comm. ad vs. 10.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven-sistered, sprung from threefold source, the Five Tribes' prosperer, she must be  
      Invoked in every deed of might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In drei Gebieten wohnend, siebenteilig, die fünf Geschlechter mehrend ward sie in jedem Wettstreit anzurufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf drei Sitzen siebentheilig, stärkend sie die fünf Geschlechter, Sei in jedem Kampf zu rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пребывая в трех местах, семичастная,  
 Пять родов (людских) укрепляющая,  

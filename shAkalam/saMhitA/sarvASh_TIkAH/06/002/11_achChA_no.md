@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा नो मित्रमहो देव देवा꣡न्  
 अ꣡ग्ने वो꣡चः सुमतिं꣡ रो꣡दसीयोः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 ता꣡ तरेम त꣡वा꣡वसा तरेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 वी॒हि । स्व॒स्तिम् । सु॒ऽक्षि॒तिम् । दि॒वः । नॄन् । द्वि॒षः । अंहां॑सि । दुः॒ऽइ॒ता । त॒रे॒म॒ । ता । त॒रे॒म॒ । तव॑ । अव॑सा । त॒रे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -156,7 +156,7 @@ genre M
 हे **मित्रमहः** अनुकूलदीप्ते **देव** दानादिगुणयुक्त **अग्ने** **रोदस्योः** द्यावापृथिव्योर्वर्तमानस्त्वं **देवान्** यष्टव्यानिन्द्रादीन् **अच्छ** आभिमुख्येन **नः** अस्माकं **सुमतिं** स्तुतिं **वोचः** ब्रूहि । **दिवः** स्तुतेः **नॄन्** नेतॄनस्मान् **सुक्षितिं** शोभननिवासयुक्तं **स्वस्तिम्** अविनाशं **वीहि** गमय ॥ वेतिरत्र अन्तर्भावितण्यर्थो द्रष्टव्यः । वयं च **द्विषः** द्वेष्टॄन शत्रून् **अंहांसि** पापानि **दुरिता** तत्फलरूपाणि दुर्गमनानि च **तरेम** अतिक्रामेम । तथा **ता** तानि व्यवहितानि जन्मान्तरकृतानि च पापादीनि **तरेम** । उक्त एवार्थो दार्ढ्याय पुनरुच्यते । हे अग्ने **तव** **अवसा** रक्षणेन द्वेष्टृप्रभृतीनत्यन्तं **तरेम** ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -167,14 +167,14 @@ genre M
 May we overcome those (sins): the text has tā tarema, may we cross over those, this is interpreted as: janmāntarakṛtāni pāpāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O god Agni with the might of Mitra, to us you call the gods, call the  grace of the two world-halves.  
 Pursue well-being, good dwelling, pursue the men of heaven. May we  cross over hatreds, over narrow straits difficult to traverse.  
 May we cross over; with your help may we cross over.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this vs. forms a slight ring with vs. 1, with voc. mitramahaḥ echoing mitró ná of 1b.
 
@@ -183,23 +183,23 @@ Both Geldner and Renou take vīhí as having a double acc., with svastíṃ suk�
 Pāda d dviṣó áṃhāṃsi duritā́tarema is a reprise of 4d dviṣó áṃho ná tarati.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, God with Mitra's might, call hither the favour of the Gods from earth and heaven.  
      Bring weal from heaven, that men may dwell securely. May we o'ercome the foe's malign oppressions, may we o'ercome them, through thy help o'ercome them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lade, du wie Mitra gefeierter Gott, die Götter zu uns ein, o Agni, erbitte die Gunst beider Welten! Ersuche die Männer des Himmels um Glück, um gutes Wohnen! Wir möchten über die Anfeindungen, die Nöte, die Fährlichkeiten hinwegkommen, wir möchten über diese hinwegkommen, durch deine Gnade hinwegkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rufe uns, o freundereicher Gott die Götter her, o Agni, und das Wohlwollen beider Welten; führe die Männer des Himmels her zu Heil und Sicherheit; über des Feindes Drangsale und Gefahren mögen wir hinüberdringen, über sie hinüberdringen, durch deine Hülfe hinüberdringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пригласи к нам богов, о бог, великий как Митра,  
 О Агни (ниспошли нам) милость двух миров!  

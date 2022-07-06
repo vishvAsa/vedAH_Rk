@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रं त इन्द्र कुक्ष꣡ये  
 सो꣡मो भवतु वृत्रहन्  
 अ꣡रं धा꣡मभ्य इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अर॑म् । धाम॑ऽभ्यः । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *araṃ* ← *aram*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M
 हे **वृत्रहन्** वृत्रस्यापामावरकस्यासुरस्य पापस्य वा हन्तर्हे **इन्द्र** **सोमः** अस्माभिर्दीयमानः **ते** तव **कुक्षये** **अरम्** अलं पर्याप्तः **भवतु**। किंच **इन्दवः** सर्वतः क्षरणशीलाः सोमास्तव **धामभ्यः** नानाविधेभ्यः शरीरेभ्यस्तव तेजोभ्यो वा **अरम्** अलं पर्याप्ता भवन्तु । अनेन तेजसां हविर्भाक्त्वमस्तीति सूचितम् । अस्मदीयाः सोमा एव तव कुक्षये देहेभ्योऽपि पर्याप्ता भवन्तु नान्यदीया इति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,13 +95,13 @@ genre M
 Dhāmabhyaḥ = for your various bodies or splendours, nānāvidhebhyaḥ śarīrebhyas tavatejobhyo vā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the soma be fit for your cheek, o Indra, Vr̥tra-smiter,  
 fit for your “fundament” the drops.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">
 <details open><summary><h2>24-25 ...{Loading}...</h2></summary>
 
@@ -119,23 +119,23 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Vrtra-slayer, let Soma be ready for thy maw,  
      The drops be ready for thy forms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Soma soll deinem Leib genügend sein, o Vritratöter Indra, genügend die Säfte deinen Eigenschaften.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma sei, o Vritraheld, o Indra, passend deinem Leib, Die Indu's passend deiner Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा नृच꣡क्षा असरत् पवि꣡त्रे  
 ना꣡म द꣡धानः कवि꣡र् अस्य यो꣡नौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡पेम् अग्मन्न् ऋ꣡षयः सप्त꣡ वि꣡प्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सीद॑न् । होता॑ऽइव । सद॑ने । च॒मूषु॑ । उप॑ । ई॒म् । अ॒ग्म॒न् । ऋष॑यः । स॒प्त । विप्राः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 **नृचक्षाः** नृणां द्रष्टा **कविः** क्रान्तप्रज्ञः सोमः **नाम** वसतीवर्याख्यमुदकं **दधानः** धारयन् **अस्य** एतादृशस्यात्मनः **योनौ** स्थाने **पवित्रे** **अच्छ** **असरत्** अभितः सरति । ततः **सदने** । सीदन्त्यत्रेति सदनो यज्ञः । तस्मिन् **होतेव** होता यथा देवान् स्तोतुमुपविशति तद्वद्देवानागन्तुमुपविशन् सोमः **चमूषु** । चमन्ति चम्वो ग्रहादयः । तेष्वभिसरति । अनन्तरं सप्तसंख्याकाः **विप्राः** मेधाविनो भरद्वाजः कश्यप गोतमोऽत्रिर्विश्वामित्रो जमदग्निर्वसिष्ठ इत्येते **ऋषयः** **ईम्** एनं सोमम् **उप** **अग्मन्** स्तोत्रैरुपगच्छन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,13 +145,13 @@ genre M
 The seven wise ṛṣis: **Bharadvāja**, **Kaśyapa**, **Gotama**, **Atri**, **Viśvāmitra**, **Jamadagni** and **Vasiṣṭha**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His gaze on men, he has run here, acquiring the name “poet” in the filter,  in his womb,  
 taking his seat in the cups, like a Hotar on his seat. The seven inspired  seers have approached him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that this vs. contains the three most resonant “poet” terms: kaví, ṛ́ṣi, vípra-. The first applies to Soma, the other two to the seven seers who approach him.
 
@@ -160,23 +160,23 @@ In b I take kavíḥ as a pred. nominative or an embedded quotation, providing t
 2b, where he allows the possibility of my interpr.). The name Soma assumes is, for them, “Soma” itself, or so I understand it. By my interpr. Soma gets called “Kavi” because of the noise he makes on his journey; at the end of the journey he becomes (like a) “Hotar” when he sits down (/is installed) in the cups - another human ritual participant. Geldner (n. 2b) suggests that he has just become the Soma-drink (by virtue of the pressing?) and thus takes on the name.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who beholdeth man hath reached the filter: bearing his name, the Sage hath sought his dwelling.  
      The Rsis came to him, seven holy singers, when in the bowls he settled as Invoker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der männlich Blickende ist gekommen, in der Seihe seinen Namen annehmend, der Seher in seiner Wiege. Er setzt sich in die Camugefäße wie der Hotri auf seinen Sitz. Ihm sind die sieben redekundigen Rishi´s genaht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Seihe eilte jetzt er Männer-schauend, als Seher sich in seinem Schoosse zeigend, Als Priester sitzend in dem Platz der Becher; ihm sind genaht die sieben weisen Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он потек, (бог) со взглядом героя, в цедилке  
 Принимая (свое) имя, на своем лоне.  

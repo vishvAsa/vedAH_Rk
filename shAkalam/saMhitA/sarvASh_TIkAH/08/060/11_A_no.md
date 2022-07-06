@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो अग्ने वयोवृ꣡धं  
 रयि꣡म् पवाक+ शं꣡सियम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 सु꣡नीती स्व꣡यशस्तरम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रास्व॑ । च॒ । नः॒ । उ॒प॒ऽमा॒ते॒ । पु॒रु॒ऽस्पृह॑म् । सुऽनी॑ती । स्वय॑शःऽतरम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -113,20 +113,20 @@ genre M
 हे **अग्ने** **पावक** शोधक **वयोवृधम्** अन्नस्य वर्धकं **शंस्यं** शंसनीयं **रयिं** धनं **नः** अस्मभ्यम् **आ** हरेति शेषः । आहृत्य च हे **उपमाते** । उपास्मत्समीपे माति नो धनमित्युपमातिः । हे तादृशाग्ने **नः** अस्मभ्यं **सुनीती** सुनीत्या शोभननयनेन **पुरुस्पृहं** बहुभिः स्पृहणीयं **स्वयशस्तरम्** अत्यन्तं स्वभूतकीर्ति धनं **रास्व** **च** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purifying **Agni**, bestow upon us food-augmenting excellent wealth; and (bring) us, O meter-out of good,by auspicious guidance, (a treasure) desired by many and bringing its own fame.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Bring) here to us praiseworthy wealth that strengthens vital force, o  pure Agni,  
 and give it to us, o apportioner—(wealth) much craved and very  glorious—with your good guidance—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A verb like ‘bring’ needs to be supplied with the first hemistich based on the numerous passages containing ā́bhara governing no rayím (e.g., I.79.8 ā́no agne rayím bhara); cf. also 18cd below. On upamāte see VIII.40.9.
 
@@ -135,23 +135,23 @@ The published translation “very glorious” is a careless error for “self-gl
 *suyáśastaram, given forms like suśrávas(-tama)-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Holy Agni, give us wealth renowned with men and strengthening life.  
      Bestow on us, O Helper, that which many crave, more glorious still by righteousness;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, Agni, löblichen Reichtum, der die Lebenskraft stärkt, du Lauterer, und schenk uns, du Zuteiler, vielbegehrten, selbstherrlichen, unter deiner guten Leitung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenke, Agni, Reichthum uns, der Macht vermehrt, o flammender, Der preisenswerth und viel begehrt, noch herrlicher durch gute Leitung wird, o Freund,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(неси) нам, о Агни, увеличивающее телесную силу  
 Богатство, достойное прославления, о очищающий,  

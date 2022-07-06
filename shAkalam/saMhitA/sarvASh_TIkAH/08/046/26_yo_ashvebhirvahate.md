@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अ꣡श्वेभिर् व꣡हते व꣡स्त उस्रा꣡स्  
 त्रिः꣡ सप्त꣡ सप्ततीना᳐꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 दाना꣡य शुक्रपूतपाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒भिः । सोमे॑भिः । सो॒म॒सुत्ऽभिः॑ । सो॒म॒ऽपाः॒ । दा॒नाय॑ । शु॒क्र॒पू॒त॒ऽपाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **यः** पृथुश्रवाः **अश्वेभिः** अश्वैः **वहते** गृहं **वस्ते** च **उस्राः** गाः । ताभिश्च गच्छतीत्यर्थः । त्रिः सप्तति तासां गवां संख्योक्ता । सा संख्या विशेष्यते । **सप्ततीनां** **त्रिः** **सप्त** । उक्तसंख्याकाभिर्गोभिरश्वैश्च यो गच्छति स पृथुश्रवाः **एभिः** **सोमेभिः** सोमैः **सोमसुद्भिः** सोममभिषुण्वद्भिश्च हे **सोमपाः** । सोमस्य पातरिति वायोः संबोधनम् । हे शुक्रपूतपाः दीप्तपूतस्य च सोमस्य पातर्वायो **दानाय** तुभ्यं सोमं दातुं सोमैर्युक्तो भवतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ genre M
 He = **Pṛthuśravas**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the one who drives here with his horses at the breaking of the day— with the thrice seven seventies—  
 (invigorated) with these soma drinks by the soma-pressers, (be ready) to  give, you soma-drinker, drinker of the clear purified (soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse gives the impression of being constructed from random constituents, although some cohesion can be wrested from it.
 
@@ -143,23 +143,23 @@ In c I supply a form of √mad/mand to be construed with the instr.; so also Gel
 In d I supply a form such as maṃhase ‘you are ready’, which is common with dānā́ya, although Geldner’s solution, to have the infinitive depend only on the “ermuntert” is certainly possible and probably neater. See also Scarlatta 313.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who with thrice seven times seventy horses comes to us, invested with the rays of morn,  
      Through these our Soma-draughts and those who press, to give, drinker of pure bright Soma Juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in der Morgendämmerung mit Rossen gefahren kommt als Schenker von dreimal sieben mal siebenzig Kühen von diesen Somapressern mit Soma zum Schenken ermuntert, du Somatrinker, der du den hellen Klärtrank trinkst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er fährt mit Rossen dreimal sieb'nmal siebzigen und schmückt die Morgenröthen aus, Zur Gab' gestimmt durch Soma's und die Presser hier, o der du reinen Soma trinkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ездит на конях, рядится в утренние зори,  
 Трижды семь по семьдесят,  

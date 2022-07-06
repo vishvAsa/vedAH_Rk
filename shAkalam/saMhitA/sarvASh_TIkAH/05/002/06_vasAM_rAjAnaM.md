@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वसां꣡ रा꣡जानं वसतिं꣡ ज꣡नानाम्  
 अ꣡रातयो नि꣡ दधुर् म꣡र्तियेषु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 निन्दिता꣡रो नि꣡न्दियासो भवन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ब्रह्मा॑णि । अत्रेः॑ । अव॑ । तम् । सृ॒ज॒न्तु॒ । नि॒न्दि॒तारः॑ । निन्द्या॑सः । भ॒व॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasāṃ* ← *vasām* ← *vas*
 - \[noun\], genitive, plural, masculine
@@ -113,41 +113,41 @@ genre M
 **वसां** वसतां प्राणिनां **राजानं** स्वामिनं **जनानां** प्राणिनां **वसतिम्** आवासभूतं त्र्यरुणमुक्तलक्षणमग्निं वा **अरातयो** **नि** **दधुः** अगोपयन् **मर्त्येषु** लोकेषु मध्ये। **अत्रेः** अत्रिगोत्रस्य वृशस्य **ब्रह्माणि** मन्त्राः स्तोत्राणि वा **तं** कुमारम् अग्निं वा **अव** **सृजन्तु** । अथवा अत्रेः अत्रिगोत्रस्य कुमारं ब्रह्माणि । यद्वा । वृशस्य ब्रह्माण्यत्रेत्रिगोत्रम् ॥ कर्मणि षष्ठी ॥ तं कुमारमव सृजन्तु विसृजन्तु । **निन्दितारः** अस्मन्निन्दकाः **निन्द्यासः** अस्माभिर्निन्द्याः **भवन्तु** । अत्रेर्ब्रह्माणीत्येतत् उपजीव्य वृशमप्यात्रेयं वदन्ति। आत्रेयः कुमार इति पक्षे स एव प्राणमयम् आत्मानमवसृजन्त्वित्याशास्ते ॥१४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Enemies have secreted amongmortals, the king of living beings, the asylum of men; may the prayers of **Atri** set him free; may those who revile be reviled.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hostilities have set down the king of dwellings, the dwelling place of the  peoples, among mortals.  
 Let the formulations of Atri release him. Let them who scorn become  those to be scorned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mid mortal men godless have secreted the King of all who live, home of the people.  
      So may the prayers of Atri give him freedom. Reproached in turn be those who now reproach him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him, the king of dwellings (?) 1, the dwelling-place of people, the Arâtis have laid down 2 among men. May the spells of Atri loose him. May the reproachers become reproachable (themselves).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den König der Wohnungen, die Heimat der Menschen, ihn haben die Unholdinnen unter den Sterblichen verborgen. Die Beschwörungen des Atri sollen ihn befreien; die Schmäher sollen der Schmähung verfallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Häuser König, ihn, der Menschen Wohnsitz, ihn hielten fest bei Sterblichen die Bösen; Des Atri Lieder mögen frei ihn machen; die Schmäher mögen selbst der Schmach verfallen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царя жилищ, жилье людей  
 Враждебные силы спрятали среди смертных.  

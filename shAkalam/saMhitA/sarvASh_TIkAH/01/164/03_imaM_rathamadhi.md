@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ र꣡थम् अ꣡धि ये꣡ सप्त꣡ तस्थुः꣡  
 सप्त꣡चक्रं सप्त꣡ वहन्ति अ꣡श्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त्र ग꣡वां नि꣡हिता सप्त꣡ ना꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒प्त । स्वसा॑रः । अ॒भि । सम् । न॒व॒न्ते॒ । यत्र॑ । गवा॑म् । निऽहि॑ता । स॒प्त । नाम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -132,7 +132,7 @@ popular
 **इमम्** उक्तस्वरूपमादित्यमण्डलाख्यं संवत्सराख्यं वा **रथं** **ये** **सप्त** रश्मयः **अधि** **तस्थुः**। अधिष्ठिताः। संवत्सरपक्षे अयनर्तुमासपक्षदिवसरात्रिमुहूर्ताख्याः सप्तावयवाः अधितिष्ठन्ति । कीदृशं रथम् । **सप्तचक्रम्** । चकनाच्चरणात् क्रमणाद्वा चक्राणि रश्मयः ते सप्त यस्य रथस्य तादृशमुभयविधं रथ पूर्वोक्ताः अधिष्ठिताः **अश्वाः** व्यापनशीलाः **सप्त** **वहन्ति** निर्वहन्ति च । तादृशं रथं **सप्त** **स्वसारः** स्वयंसरणाः । स्वरादित्यः । तेन सारिताः परस्परं स्वसृभूता वा सप्तसंख्याकाः रश्मय ऋतवश्च **अभि** **सं** **नवन्ते** आभिमुख्येन संगच्छन्ते । असाधारणाः परस्परविलक्षणकार्या: षडृतवः सर्वसाधारणः एकः इति सप्तत्वम्। यद्वा उक्तरूपाः मासद्वयात्मकाः षट् त्रयोदशमासात्मकः सप्तमः इति सप्तत्वम् । कीदृशो रथ इति तदुच्यते । **यत्र** यस्मिन् रथे उभयविधे **गवां** वाचां स्तुतिरूपाणां **सप्त** सप्तविधानि **नाम** नमनानि सप्तस्वररूपाणि निहितानि । सप्तस्वरोपेतैः सामभिः स्तुत्यं रथमित्यर्थः । यद्वा । गवामुदकानां सप्त सर्पणस्वभावानि नाम नमनानि । यत्र यासु स्वसृषु निहिता स्वसारः परस्परस्वसृभूता देवनद्योऽभि सं नवन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,30 +143,30 @@ popular
 The seven: either the solar rays or the seven portions of a year: **ayana** (solstine season), month, fortnight, day, night, hour; seven horses: seven wheels and seven horses are the seven solar rays; seven sisters: either the rays of the run, or the six seasons and the aggregate year of the six double and one intercalary month; seven forms of utterance: seven notes of music as employed in chanting the praises of the Sun; or, if gavām is used in the sense of water, the seven forms may be the seven divine rivers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As its seven horses, the seven [=the priests] who stand upon this chariot  [=the sacrifice] draw the seven-wheeled (chariot).  
 Seven sisters [=voices of the priests] together cry out (the words) in  
 which the seven names of the cows [=poetic speech] are imprinted.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The seven who on the seven-wheeled car are mounted have horses, seven in tale, who draw them onward.  
      Seven Sisters utter songs of praise together, in whom the names of the seven Cows are treasured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während sieben diesen Wagen bestiegen haben, ziehen sieben Rosse den siebenrädrigen Wagen. Sieben Schwestern schreien ihm zu, in dem die sieben Namen der Kühe niedergelegt sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen Wagen [wol wieder die Sonne, aber in ihrem Jahreslauf betrachtet?], welchen [jám statt jé?] die sieben bestiegen haben, den siebenrädrigen, ziehen sieben Rosse; sieben Schwestern [wol die in der Luft gedachten Ströme] rauschen ihm entgegen, dort wo die sieben Namen der Kühe eingesetzt sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В то время как семеро стоят на этой колеснице,  
 Везут (ее,) семикольную, семь коней.  

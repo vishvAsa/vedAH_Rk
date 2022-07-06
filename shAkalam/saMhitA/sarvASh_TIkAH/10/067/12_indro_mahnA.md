@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो मह्ना꣡ महतो꣡ अर्णव꣡स्य  
 वि꣡ मूर्धा꣡नम् अभिनद् अर्बुद꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवइ꣡र् द्यावापृथिवी प्रा꣡वतं नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अह॑न् । अहि॑म् । अरि॑णात् । स॒प्त । सिन्धू॑न् । दे॒वैः । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । प्र । अ॒व॒त॒म् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M;; repeated line
 **इन्द्रः** ईश्वरः **मह्ना** महत्त्वेन युक्तो  बृहस्पतिः **महतो** **अर्णवस्य** उदकवतः **अर्बुदस्य** अम्बुदस्य मेघस्य **मूर्धानं** शिरः **वि** **अभिनत्** व्यच्छिनत् । तदुच्यते । **अहिम्** अन्तव्यमपामावरकं शत्रुम् **अहन्** अवधीत् । ततः **सप्त** सर्पणशीलाः **सिन्धून्** स्यन्दमाना अपः । यद्वा । सप्तसंख्याका गङ्गाद्या नदीः । **अरिणात्** समुद्रं प्रत्यगमयत् । अस्रावयद्वा । अथ प्रत्यक्षकृतः । हे द्यावापृथिव्यौ **देवैः** सह **नः** अस्मान् **प्रावतं** प्ररक्षतम् ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M;; repeated line
 Indra; ie., **Bṛhaspati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra with his greatness split apart the head of the great flood, of  Arbuda.  
 He smashed the serpent. He let flow the seven streams. O Heaven and  Earth, along with the gods, further us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra with mighty strength cleft asunder the head of Arbuda the watery monster,  
      Slain Ahi, and set free the Seven Rivers. O Heaven and Earth, with all the Gods protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra spaltet mit Macht des mächtigen Arnava, des Arbuda Haupt. Er erschlug den Drachen, ließ die sieben Ströme laufen. Himmel und Erde, helfet uns mit den Göttern weiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra hieb mit Macht des mächtigen tobenden Arbuda Kopf ab; er schlug den Drachen und liess die sieben Ströme rinnen. Mit den Göttern unterstützt uns, o Himmel und Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра мощно отрубил голову  
 Мощного Арнавы (и) Арбуды.  

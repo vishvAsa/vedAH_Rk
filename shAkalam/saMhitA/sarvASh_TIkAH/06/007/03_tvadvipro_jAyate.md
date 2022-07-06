@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡द् वि꣡प्रो जायते वाजी꣡ अग्ने  
 तुव꣡द् वीरा꣡सो अभिमातिषा꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सूनि राजन् स्पृहया꣡यियाणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वैश्वा॑नर । त्वम् । अ॒स्मासु॑ । धे॒हि॒ । वसू॑नि । रा॒ज॒न् । स्पृ॒ह॒याय्या॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
@@ -104,20 +104,20 @@ genre M
 हे **अग्ने** **वाजी** हविर्लक्षणान्नवान् पुरुषः **त्वत्** त्वत्तः सकाशात् **विप्रः** मेधावी **जायते** । तुभ्यं हविर्दानेन मेधावी भवति । तथा **वीरासः** वीराः **त्वत्** त्वत्तः अभिमातिषाहः अभिमातीनां शत्रूणामभिभवितारो जायन्ते । यस्मादेवं तस्मात् हे **वैश्वानर** **राजन्** राजमानाग्ने **त्वमस्मासु** त्वद्भक्तेषु **स्पृहयाय्याणि** स्पृहणीयानि **वसूनि** धनानि **धेहि** निधेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The offerer of (sacrificial) food becomes wise, **Agni**, from you heroes become the vanquishers of foes; therefore, do you, royal **vaiśvānara**, bestow upon us enviable riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From you is born the inspired poet who wins the prize, o Agni; from you  the heroes vanquishing hostility.  
 O Vaiśvānara, establish in us goods to be craved, o king.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details open><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -127,23 +127,23 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From thee, O Agni, springs the mighty singer, from thee come heroes who subdue the foeman.  
      O King, Vaisvanara, bestow thou on us excellent treasures worthy to belonged fo r.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von dir stammt der Redekundige, der den Siegerpreis gewinnt, o Agni, von dir die Männer, die die Anschläge bemeistern. Bring du, Vaisvanara, uns begehrenswerte Schätze, o König.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir, o Agni, stammt der weise Sänger, von dir die Helden, die den Feind besiegen; Begehrenswerthe Güter schenke du uns, du aller Männer Hort, du unser König.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От тебя рождается вдохновенный (поэт), завоевывающий награды, о Агни,  
 От тебя – мужи, преодолевающие враждебные замыслы.  

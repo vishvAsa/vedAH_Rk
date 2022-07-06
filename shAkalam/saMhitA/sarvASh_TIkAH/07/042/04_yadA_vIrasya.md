@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ वीर꣡स्य रेव꣡तो दुरोणे꣡  
 सियोनशी꣡र् अ꣡तिथिर् आचि꣡केतत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ विशे꣡ दाति वा꣡रियम् इ꣡यत्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सुऽप्री॑तः । अ॒ग्निः । सुऽधि॑तः । दमे॑ । आ । सः । वि॒शे । दा॒ति॒ । वार्य॑म् । इय॑त्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M
 **अतिथिः** सर्वेषामतिथिभूतोऽग्निः **यदा** **वीरस्य** वीरकस्य स्तोत्राणां प्रेरयितुः **रेवतः** हविष्मतो यजमानस्य **दुरोणे** गृहे **स्योनशीः** सुखेन शयनीयः **आचिकेतत्** प्रज्ञायते **अग्निः** **दमे** यज्ञगृहे **सुधितः** । आकाराश्चार्थे । सुनिहितश्च सुष्ठु निहितः सन् यदा **सुप्रीतः** भवति तदा **सः** अग्निः **इयत्यै** उपगच्छन्त्यै **विशे** प्रजायै **वार्यं** वरणीयं धनं **दाति** ददाति प्रयच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Agni**, reposing at his ease in the dwelling of the liberal worshipper, is welcomed as a guest, thussuitable plural ced in the hall of sacrifice, he gives well-plural ased, desirable (wealth) to the people who approach him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When in the dwelling of a rich hero the guest will show brightly, lying in  his comfortable womb,  
 Agni, well pleased, well established in the house, will give to a clan such  as this a desirable reward.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the Guest hath made himself apparent, at ease reclining in the rich man's dwelling,  
      Agni, well-pleased, well-placed within the chamber gives to a house like this wealth worth the choosing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn Agni in der Behausung des reichen Mannes sich sehen läßt, der behaglich ruhende Gast, wohlzufrieden, im Hause gut aufgehoben, so gibt er diesem ganzen Clane alles Wünschenswerte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn in dem Haus des schatzbegabten Mannes sich zeigt der Gast, auf weichem Lager ruhend, Der liebe Agni, schön im Hause stehend, dann schenkt er Güter einem Stamm, wie diesem.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда в жилище богатого мужа  
 Являет себя гость, удобно лежащий,  

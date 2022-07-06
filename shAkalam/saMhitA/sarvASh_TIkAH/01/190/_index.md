@@ -8,7 +8,7 @@ title = "+190"
 ‘अनर्वाणम्' इत्यष्टर्चमेकादशं सूक्तमागस्त्यं बार्हस्पत्यं त्रैष्टुभम् । अनर्वाणं बार्हस्पत्यम्' इत्यनुक्रान्तम् । श्रौतविनियोगो लैङ्गिकः । अत्र शौनकः-- स्नात्वा जपेदनर्वाणं नमस्कृत्य बृहस्पतिम् । वीरान् धनं च प्राप्नोति सोऽश्लोक्यं च नियच्छति' (ऋग्वि. १. १५३-१५४ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 190  
 Br̥haspati  
@@ -18,7 +18,7 @@ Br̥haspati, the lord of formulations, is here presented as both producer and re
 The Br̥haspati depicted in this hymn is no mere gentle wordsmith, but militant  and aggressive, compared to a bellowing bull (vs. 1), a fearsome wild beast (vss. 3,  4), a bird of prey (vs. 7). His words are missiles (vs. 4), and those who underestimate  him and seek to exploit him receive his punishment (vs. 5).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Bṛhaspati For the hymn as a whole, see H.-P. Schmidt, Bṛhaspati und Indra (1968), 72- 77 and passim.
 </details>

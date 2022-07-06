@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उक्था꣡ के꣡वला दधे꣡  
 यः꣡ सो꣡मं धृषिता꣡पिबत्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उ꣡प मित्र꣡स्य ध꣡र्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यस्मै॑ । विष्णुः॑ । त्रीणि॑ । प॒दा । वि॒ऽच॒क्र॒मे । उप॑ । मि॒त्रस्य॑ । धर्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -111,35 +111,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(It is **Indra**) who has appropriated the hymns for himself, who has bravely drunk the **Soma**, for whomViṣṇu strode the three steps according to the ordinances of **Mitra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who took as his own the hymns, who boldly drank the soma,  
 for whom Viṣṇu strode his three steps, according to the institutes of their  alliance ...
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A series of relative clauses without a main clause. It cannot be connected with the next verse because the relative pronoun has a different referent there.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der für sich allein die Loblieder beanspruchst, der herzhaft den Soma trank, für den Vishnu die drei Schritte ausschritt nach den Pflichten des Freundes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 [Er ist es,] welcher allein die Sprüche sich angeeignet hat, der den Soma herzhaft [dhṙṣatâ zu lesen] getrunken hat, und für welchen Vischnu die drei Schritte schritt nach den Ordnungen des Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто требует гимнов только для себя,  
 Кто дерзко пил сому,  

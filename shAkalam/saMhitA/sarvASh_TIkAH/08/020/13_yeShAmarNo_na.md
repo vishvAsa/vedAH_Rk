@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡षाम् अ꣡र्णो न꣡ सप्र꣡थो  
 ना꣡म त्वेषं꣡ श꣡श्वताम् ए꣡कम् इ꣡द् भुजे꣡  
 व꣡यो न꣡ पि꣡त्रियं स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वयः॑ । न । पित्र्य॑म् । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
@@ -99,7 +99,7 @@ genre M
 **अर्णो** **न** उदकमिव **सप्रथः** सर्वतः पृथु विस्तीर्णं **त्वेषं** दीप्तं **शश्वतां** बहूनां **येषां** मरुतामीदृशं **नाम** मरुत इति नामधेयम् **एकमित्** एकमेवासहायमेव सत् **भुजे** स्तोतॄणां भोगाय भवति । तत्र दृष्टान्तः । **सहः** प्रसहनशीलं **पित्र्यं** पितुरागतं **वयो** **न** अन्नमिव । यथा तद्विस्रम्भेण भोगाय भवति तथेत्यर्थः । तानित्युत्तरत्रैकवाक्यता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,13 +110,13 @@ genre M
 Vayo na pitryam **sahaḥ**: prasahanaśīlam; the worshipers may relyupon it
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of them whose name is vibrant and widespread like a flood, there is just  one (name) for each and every one of them to enjoy.  
 Their might is like the life force of their fathers.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 That their name can be “broad/widespread like a flood” may at first seem odd, but the point is simply that it is widely known.
 
@@ -127,23 +127,23 @@ I differ from Geldner and Renou in taking gen. pl. śáśvatām ‘of each and e
 I do not know if pítrya- here refers specifically to the Maruts’ ancestors (esp., presumably, Rudra), as I have taken it, or whether this is a more general statement: “like ancestral life force” (so, more or less, Geldner and Renou).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose name extendeth like a sea, alone, resplendent, so that all have joy in it,  
      And life-power like ancestral might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deren Name furchtgebietend wie die ausgebreitete Flut, der eine der vielen zum Nutzen ist; wie die väterliche Kraft ist ihre Gewalt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, deren Wesen wie das Meer sich wogend ausdehnt allen einzig zum Genuss, des Vaters Muth gleicht ihre Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чье могучее имя, словно разлившийся поток,  
 Одно – на пользу каждому из них...  

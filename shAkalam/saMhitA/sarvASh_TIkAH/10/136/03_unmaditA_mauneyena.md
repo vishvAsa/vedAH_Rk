@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡न्मदिता मउ꣡नेयेन  
 वा꣡ताँ आ꣡ तस्थिमा वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 म꣡र्तासो अभि꣡ पश्यथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 शरी॑रा । इत् । अ॒स्माक॑म् । यू॒यम् । मर्ता॑सः । अ॒भि । प॒श्य॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *unmaditā* ← *unmaditāḥ* ← *unmaday* ← *√mad*
 - \[verb noun\], nominative, plural
@@ -97,35 +97,35 @@ popular;; epic anuṣṭubh (380)
 **मौनेयेन** मुनिभावेन लौकिकसर्वव्यवहारविसर्जनेन **उन्मदिताः** उन्मत्ता उन्मत्तवदाचरन्तः । यद्वा। उत्कृष्टं मदं हर्षं प्राप्ताः । **वयं** **वातान्** वायूनस्माभिरुपास्यमानान् **आ** **तस्थिम** आस्थितवन्तः । हे **मर्तासः** मनुष्याः **अस्माकं** **शरीरेत्** शरीराण्येव **यूयं** केवलम् **अभि** **पश्यथ** । नास्मान् । यतो वयं नीरूपेण वायुना सायुज्यं प्राप्ताः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Exhilarated by the sanctity of the **Muni** we have mounted upon the winds; behold, mortals, (in them)our forms!”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Roused up to ecstasy by our asceticism, we have mounted the winds. You mortals see only our bodies.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Transported with our Munihood we have pressed on into the winds:  
      You therefore, mortal men. behold our natural bodies and no more.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Verzückung entgeistert haben wir die Winde als unsere Rosse bestiegen. Nur unsere Leiber sehet ihr Sterblichen vor euch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir, die wir durch heiliges Büsserleben erregt sind, sind in die Winde eingedrungen; beschaut, o Sterbliche, unsere Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возбужденные состоянием аскета,  
 Мы оседлали ветра.  

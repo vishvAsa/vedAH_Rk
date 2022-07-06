@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ चिकितान सुक्र꣡तू  
 देवउ꣡ मर्त रिशा꣡दसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दधीत꣡ प्र꣡यसे महे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वरु॑णाय । ऋ॒तऽपे॑शसे । द॒धी॒त । प्रय॑से । म॒हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M
 हे **चिकितान** जानन् स्तुतिं हे **मर्त** मनुष्य रातहव्य त्वमिति तस्यैव संबोधनम् । **सुक्रतू** शोभनकर्माणौ **रिशादसा** हिंसकानां हिंसकौ **देवौ** **आ** आकारयेति शेषः । आहूय च **ऋतपेशसे** । पेश इति रूपनाम । ऋतमुदकम् । उदकमेव रूपं यस्य तादृशाय **वरुणाय** **प्रयसे** । मत्वर्थो लुप्यते ॥ हविर्लक्षणान्नवते **महे** महते पूज्याय **दधीत** दद्याः । हविरिति शेषः । द्वितीयार्थे वा चतुर्थी । महद्धविर्दधीत । महतोऽन्नस्य लाभायेति वा योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M
 Varuṇāya ṛtapeśase = udakam eva rūpam yasya, of whom the form is verily water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O perceptive mortal, here are the two gods of strong resolve who care for  the stranger.  
 It [=the hymn] should be set in place for Varuṇa, whose garment is the  truth, for his great pleasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O SAPIENT man, call the Two Gods, the very wise, who slay the foe.  
      For Varuna, whose form is Law, place offerings for his great delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ruf an, du Kundiger, die beiden einsichtsvollen Götter, o Sterblicher, die überlegenen. Dem Varuna, dessen Schmuck das Gesetz ist, möge es zu hohem Genuß geschehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O weiser Mensch, das Götterpaar, die starken Feindverzehrer ruf, Dem heilgeschmückten Varuna sei Dienst geweiht zu hoher Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(веди), о понимающий смертный,  
 Двоих богов, карающих врагов (?)!  

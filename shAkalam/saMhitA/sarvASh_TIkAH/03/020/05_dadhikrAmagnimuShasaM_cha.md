@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡म् अग्नि꣡म् उष꣡सं च देवी꣡म्  
 बृ꣡हस्प꣡तिं सविता꣡रं च देव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व꣡सून् रुद्राँ꣡ आदित्याँ꣡ इह꣡ हुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒श्विना॑ । मि॒त्रावरु॑णा । भग॑म् । च॒ । वसू॑न् । रु॒द्रान् । आ॒दि॒त्यान् । इ॒ह । हु॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
@@ -117,41 +117,41 @@ genre M
 हे दधिक्रावादयः सर्वे देवा होताहं **दधिक्रां** दधिक्रावाणम् **अग्निमुषसं** च **देवीम्** उषोऽभिमानिनीं देवतां च **बृहस्पतिं** **देवं** द्योतमानं **सवितारं** सर्वस्य जगतः प्रेरकं देवं **च** **अश्विना** अश्विनौ देवौ मित्रावरुणौ **भगं** सूर्यं **च** **वसून्** अष्टौ वसून् **रुद्रान्** एकादश रुद्रान् **आदित्यान्** द्वादशादित्यान् एतान्सर्वान् हविर्भुजो युष्मान् **इह** अस्मदीये कर्मणि **हुवे** हविःस्वीकरणार्थमाह्वयामि ॥ दधिक्राम् । दधातीति दधिः । ‘ आदृगमहन' इत्यादिना किप्रत्ययः । दधीत्युपपदे क्रमेः 'जनसन' इत्यादिना विट् । **विड्वनोः'** इत्यात्वम् । देवीम् । देवस्य पत्नी देवी। पुंयोगादाख्यायाम् ' इति ङीष् । **यस्य'** इति लोपः । प्रत्ययस्वरेणान्तोदात्तः । बृहस्पतिम् । तद्बृहतोः करपत्योश्चोरदेवतयोः सुट् तलोपश्च' इति पतिशब्दे परतो बृहच्छब्दस्य तलोपः सुडागमश्च । ' उभे वनस्पत्यादिषु युगपत्' इत्युभयपदाद्युदात्तत्वम् । सवितारम् । **षू** प्रेरणे' इत्यस्य तृचि ‘ आर्धधातुकस्येड्वलादेः' इतीडागमः । चित्त्वादन्तोदात्तत्वम् । रुद्राँ आदित्याँ इत्यत्र संहितायां शसो नकारस्य ‘ दीर्घादटि समानपादे' इति रुत्वम् । ततः पूर्वस्यावर्णस्य • आतोऽटि नित्यम्' इत्यनुनासिकत्वम् । 'भो भगो अघो अपूर्वस्य योऽशि' इति रोः यादेश:।' लोपः शाकल्यस्य' इति तस्य लोपः । यलोपस्यासिद्धत्वात् स्वरसन्धिर्न भवति । अतः रुद्राँ आदित्याँ इति भवति । एवमेकस्मिन्पादे आकारादटि परतो नकारस्य रुत्वयत्वपूर्वसवर्णानुनासिकादेशाः उन्नेयाः । हुवे । ह्वयतेर्लटि ‘बहुलं छन्दसि' इति संप्रसारणम्'°। इटः ‘टित आत्मनेपदानाम्' इत्येत्वम् । उवङादेशः । निघातः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke to this rite, Dadhikrā, **Agni**, the divine Uṣas, **Bṛhaspati**, the divine **Savitā**, the **Aśvins**, **Mitra** and **Varuṇa**, **Bhaga**, the **Vasus**, the **Rudras**, and **Ādityas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dadhikrā, Agni, and the goddess Dawn; Br̥haspati and the god Savitar; the Aśvins, Mitra and Varuṇa, and Bhaga; the Vasus, Rudras, and  
 Ādityas—I call upon them here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call on Savitar the God, on Morning, Brhaspati, and Dadhikras, and Agni,  
      On Varuna and Mitra, on the Asvins, Bhaga, the Vasus, Rudras and Adityas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I invite hither 1 Dadhikrâ 2, Agni, and the goddess Ushas, Brihaspati and the god Savitri, the Asvins, Mitra and Varuna and Bhaga, the Vasus, Rudras, and Âdityas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Dadhikra, Agni und die Göttin Usas, den Brihaspati und den Gott Savitri, die Asvin, Mitra, Varuna und Bhaga, die Vasu´s, Rudra´s, Aditya´s rufe ich hierher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dadhikra, Agni und die Göttin Uschas, Brihaspati und Savitar, den Gott, auch, Die Ritter, Mitra-Varuna und Bhaga, die Vasu's, Rudra's, die Aditja's ruf' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикру, Агни и богиню Ушас,  
 Брихаспати, и бога Савитара,  

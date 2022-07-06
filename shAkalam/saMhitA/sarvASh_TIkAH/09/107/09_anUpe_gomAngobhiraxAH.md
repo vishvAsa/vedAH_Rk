@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनूपे꣡ गो꣡मान् गो꣡भिर् अक्षाः  
 सो꣡मो दुग्धा꣡भिर् अक्षाः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मन्दी꣡ म꣡दाय तोशते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒मु॒द्रम् । न । स॒म्ऽवर॑णानि । अ॒ग्म॒न् । म॒न्दी । मदा॑य । तो॒श॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anūpe* ← *anūpa*
 - \[noun\], locative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 **गोमान्** गोयुक्तः सोमः **अनूपे** निम्ने देशे कलशे **गोभिः** गोविकारैः क्षीरादिभिः सह **अक्षाः** क्षरति । तदेवोच्यते । सः **सोमः** आत्मनो मिश्रणार्थं **दुग्धाभिः** गोभिः सह **अक्षाः** क्षरति । क्षरतेर्लुङि रूपम् । किंच **समुद्रं** **न** यथा समुद्रमुदकानि गच्छन्ति तद्वत् **संवरणानि** संभजनीयानि रसरूपाण्यन्नानि द्रोणकलशम् **अग्मन्** गच्छन्ति । गमेर्लुङि च्लेर्लुकि रूपम् । किंच **मन्दी** मदकरः सोमः **मदाय** मदार्थं **तोशते** हन्यतेऽभिषूयते । तोशतिर्वधकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,13 +113,13 @@ genre M
 Into the pitcher: anupe = on the bank; or, in a watery low-lying plural ce, nimne deśe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Provided with cows he has flowed together with the cows at the water’s  edge; Soma has flowed together with those that have been milked.  
 They have gone into the enclosures as if into the sea. The invigorating  one wells out for exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both instances of akṣāḥ should probably be read with distracted 2nd syllable, to provide the right no. of syllables in b and the right cadence in both pādas.
 
@@ -137,23 +137,23 @@ The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Down to the water-Soma, rich in kine hath flowed with cows, with cows that have been milked.  
      They have approached the mixing-vessel as a sea: the cheerer streams for the carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Kuhbesitzer im Marschland, mit seinen Kühen kam er geflossen, kam Soma mit den Gemolkenen geflossen. Sie sind in die Gehege gegangen wie die Flüsse ins Meer. Der Berauschende ergießt sich zum Rausche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon rann ins Becken mit der Milch der Kühe Herr, Soma mit der gemolkenen; Die Tränke, ihn umhüllend, liefen wie ins Meer, erfreuend trieft zum Rausche er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Владелец коров в прибрежной местности, он потек вместе с коровами,  
 Сома потек вместе с выдоенными.  

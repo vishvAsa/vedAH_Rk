@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् आ꣡द् अ꣡मत्रं सखियं꣡ स꣡खिभ्यः  
 कदा꣡ नु꣡ ते भ्रातर꣡म् प्र꣡ ब्रवाम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡वर् ण꣡ चित्र꣡तमम् इष आ꣡ गोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श्रि॒ये । सु॒ऽदृशः॑ । वपुः॑ । अ॒स्य॒ । सर्गाः॑ । स्वः॑ । न । चि॒त्रऽत॑मम् । इ॒षे॒ । आ । गोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 हे इन्द्र वयं यजमानाः ते त्वदीयम् **अमत्रं** शत्रूनभिभावुकं **सख्यं** सखिकर्म **सखिभ्यः** स्तोतृभ्यः **किमात्** किं स्वित् **प्र** **ब्रवाम** प्रकर्षेण वदेम । **ते** त्वदीयं **भ्रात्रं** भ्रातृकर्म च **कदा** **नु** कदा खलु प्र ब्रवाम । **सुदृशः** शोभनदर्शनस्य **अस्य** इन्द्रस्य संबन्धिनः **सर्गाः** उद्योगाः **श्रिये** सर्वेषां स्तोतॄणां श्रेयसे । भवन्तीति शेषः । **स्वर्ण** सूर्यो यथा दर्शनीयतमस्तथा **गोः** गन्तुरिन्द्रस्य **चित्रतमं** दर्शनीयतमं **वपुः** शरीरम् **आ** **इषे** आ समन्तात् सर्वैरिष्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we in any manner proclaim your friendship for your friends? when may (we make known) your fraternal regard? the efforts of the well-looking **Indra** are for the happiness of all; the wonderful form of the moving (Indra) is, like the sun, ever wished for.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Is his comradeship then a drinking vessel for his comrades? When will we  proclaim his brotherhood to you?  
 The surges (of soma?) for him are a marvel, lovely to see for their beauty.  He seeks (the milk?) from the cow, very bright like the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́d is very rarely not in 1st position. Here the interrog. kím may have displaced it. See kím ā́d at IV.30.7, as Geldner also notes, as well as … kuvíd ā́d I.33.1.
 
@@ -169,23 +169,23 @@ The root √juṣ encountered in two different forms in 1bc recurs here in the p
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Is then thy friendship with thy friends most mighty? Thy brotherhood with us, -when may we tell it?  
      The streams of milk move, as most wondrous sunlight, the beauty of the Lovely One for glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dürfen wir dann deine Freundschaft eine Gefäß für die Freunde nennen? Wann dürfen wir wohl von deiner Brüderschaft öffentlich sprechen? Zu Ehren des Schönen streben seiner herrlichen Erscheinung, die gar wunderbar wie die Sonne ist, die Rinderherden zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ist dann gross die Freundschaft mit den Freunden? wann werden wir als Bruder dich verkünden? Der prächtig aussieht, dessen Glanzschein treib' ich wie hellstes Licht im Fluge zu dem Milchtrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А что дружба твоя с друзьями – (это) сосуд (для питья)?  
 Когда же мы сможем провозгласить братство с тобой?  

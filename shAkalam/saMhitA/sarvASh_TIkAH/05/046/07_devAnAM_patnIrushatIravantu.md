@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡नाम् प꣡त्नीर् उशती꣡र् अवन्तु नः  
 प्रा꣡वन्तु नस् तुज꣡ये वा꣡जसातये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡ नो देवीः सुहवाः श꣡र्म यछत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 याः । पार्थि॑वासः । याः । अ॒पाम् । अपि॑ । व्र॒ते । ताः । नः॒ । दे॒वीः॒ । सु॒ऽह॒वाः॒ । शर्म॑ । य॒च्छ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
@@ -135,44 +135,44 @@ genre M
 “अपाम् उदकानां **व्रते** कर्मण्यन्तरिक्षे वर्तन्ते **ताः** हे **देवीः** देव्यो हे **सुहवाः** शोभनाह्वाना यूयं **नः** अस्मभ्यं **शर्म** **यच्छत** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the wives of the gods, desiring (our homage), defend us; may they so protect us that (we may obtain) vigorous (offspring) and abundant food; whether terrestrial, or those in charge of the waters (in the firmament), do you, goddesses, earnestly invoked, bestow upon us felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Wives of the Gods—let them willingly help us; let them help us to  propagate, to win prizes.  
 (You) who belong to the earth, (you) who (live) under the commandment  of the waters, you goddesses, receiving good invocations, give  
 shelter to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The help for which the wives of the gods are insistently entreated (avantu naḥ, prā́vantu naḥ) reminds us of the adj. qualifying the chariot pole / Sacrificer’s Wife in 1b, avasyúvam ‘seeking help’ and provides a type of ring.
 
 With Geldner and Witzel Gotō, I take tujáye as referring specifically to the propagation of children, a function appropriate to the wives of the gods, against Renou’s insistence that it refers to the production of inspiration (though in his long n. he admits that there is “une certaine association entre túj et la notion de procréer”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the Gods' Spouses aid us of their own freewill, aid us to offspring and the winning of the spoil.  
      Grant us protection, O ye gracious Goddesses, ye who are on the earth or in the waters' realm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gemahlinnen der Götter sollen gern uns beistehen; sie sollen uns helfen zur Kindererzeugung, zum Lobgewinn. Die irdischen und die im Dienste der Gewässer sind, ihr Göttinnen, leicht zu errufen, gewähret uns Zuflucht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter Frauen mögen gern uns hülfreich sein, zu Kinderschar und reichem Gut verhelfen uns; Die ihr auf Erden und im Dienst der Wasser steht, o schenkt uns Schutz, Göttinnen, die ihr gern erhört.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жены богов да помогут нам по своей воле,  
 Да поддержат нас с потомством и захватом награды!  

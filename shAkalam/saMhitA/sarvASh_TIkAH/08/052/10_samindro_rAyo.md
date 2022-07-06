@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इ꣡न्द्रो रा꣡यो बृहती꣡र् अधूनुत  
 सं꣡ क्षोणी꣡ स꣡म् उ सू꣡रियम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 सो꣡मा इ꣡न्द्रम् अमन्दिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 सम् । शु॒क्रासः॑ । शुच॑यः । सम् । गोऽआ॑शिरः । सोमाः॑ । इन्द्र॑म् । अ॒म॒न्दि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -117,38 +117,38 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** has heaped together vast stores of wealth, the two worlds and the sun; the bright pureSoma-drink mixed with milk, has exhilarated Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra shook together lofty riches, together the two opponents [=Heaven  and Earth], together the sun.  
 Together the gleaming pure soma-drinks, together those mixed with  
 milk, have exhilarated Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I don’t really understand the idiom sám √dhū ‘shake together’. Its intent seems to be ‘produce, create’, but the semantic mechanism is unclear to me. It’s possible that sám occurs with √dhū here only because of the sám in the second hemistich. A straight ‘shake out’ or ‘shake loose’ could more easily develop to ‘produce, create’. Though cf. sám √dhū in I.10.8 (where I do tr. ‘shake loose’).
 
 In pāda a rā́yo bṛhatī́ḥ seems to require rayí- to be fem., as occasionally elsewhere (but not so often as generally thought). I wonder, however, if the bṛhatī́ḥ has been borrowed from 9c: pūrvī́r ṛtásya bṛhatī́r anūṣata, which is structured in parallel to 10a sám índro rā́yo bṛhatī́r adhūnuta. It is even possible that bṛhatī́ḥ in 10a doesn’t modify rā́yaḥ but refers to the same object as found in 9c (“lofty songs” vel sim.). This might solve the just-discussed problem of sám √dhū: perhaps there are two objects of “shake together” -- something like “shook together riches and lofty (songs).”
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat hohe Reichtümer ausgeschüttelt, er die beiden Welten, die Sonne. Die geklärten, reinen, die milchgemischten Somatränke haben den Indra ergötzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra hat grosse Reichthümer hervorgeschüttelt, er die beiden Welten, und er die Sonne; jetzt haben den Indra die reinen, hellen, milchgemischten Somatränke erfreut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе вытряхнул Индра высокие богатства,  
 Вместе небо и землю и вместе (с ними) солнце.  

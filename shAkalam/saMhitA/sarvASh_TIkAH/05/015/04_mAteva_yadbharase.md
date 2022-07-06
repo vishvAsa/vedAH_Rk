@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माते꣡व य꣡द् भ꣡रसे पप्रथानो꣡  
 ज꣡नं-जनं धा꣡यसे च꣡क्षसे च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि त्म꣡ना वि꣡षुरूपो जिगासि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वयः॑ऽवयः । ज॒र॒से॒ । यत् । दधा॑नः । परि॑ । त्मना॑ । विषु॑ऽरूपः । जि॒गा॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māteva* ← *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
@@ -123,7 +123,7 @@ genre M
 **पप्रथानः** सर्वत्र प्रथमानः **यत्** यस्त्वं **मातेव** जननीव **जनंजनं** सर्वं जनं **भरसे** बिभर्षि । किंच **धायसे** धारणाय **चक्षसे** दर्शनाय **च** सर्वैः प्रार्थ्यसे । **यत्** यदा **दधानः** धार्यमाणो भवसि तदा **वयोवयः** सर्वमन्नं **जरसे** जरयसि । अपि च विषुरूपः नानारूपः सन् **त्मना** आत्मना **परि** **जिगासि** सर्वभूतानि परिगच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,35 +134,35 @@ genre M
 You mature every kind of food: vāyo vayo jarase yad dadhānaḥ = yad dhāryamāno bhavasi **tadā** sarvam **annam** jarayasi, when you are being detained, then you cause all food to decay, i.e., to digest
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, spreading, like a mother you carry more and more peoples to be  suckled and to see,  
 and when *you awaken, acquiring more and more vitality, you go all  around with varying forms in your single person.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, like a mother, spreading forth to nourish, to cherish and regard each man that liveth,-  
      Consuming all the strength that thou hast gotten, thou wanderest round, thyself,  
      in varied fashion.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When thou carriest, spreading out, man after man like a mother, for their nourishment and for their sight, when thou growest old 1 assuming life after life, thou goest around by thyself in manifold shapes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, dich ausbreitend, jedermann wie eine Mutter hegst, daß er sich labe und sehe, wenn du immer neue Lebenskraft dir zulegend erwachst, so machst du selbst in verschiedener Gestalt deinen Umlauf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn schwanger du wie eine Mutter alle Geschlechter trägst und säugst und auf sie hinblickst, So rauschest du, die Kraft, die dein ist, gebend, und gehst umher dann mannichfach gestaltet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда распространившись, ты заботишься, словно мать,  
 О каждом человеке, чтобы он подкреплялся и видел (свет),  

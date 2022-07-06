@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ र꣡त्नानि दाशु꣡षे  
 सुवा꣡ति सविता꣡ भ꣡गः  
 त꣡म् भागं꣡ चित्र꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 तम् । भा॒गम् । चि॒त्रम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,7 +93,7 @@ genre M
 **स** **हि** स खलु **सविता** **भगः** भजनीयो देवः **दाशुषे** हविर्दात्रे मह्यं **रत्नानि** रमणीयानि धनानि **सुवाति** प्रेरयति प्रयच्छति । **तं** देवं **भागं** भजनीयं **चित्रं** चायनीयं धनम् **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,28 +104,28 @@ genre M
 That Savitā who is Bhaga: sa savitā Bhaga; or, the latter may be an attributive, bhajanīya, to be worshipped, shared, or desired
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because he, Savitar the Apportioner, will impel treasures to the pious, we beg him for the brilliant portion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Savitar who is Bhaga shall send riches to his worshipper.  
      That wondrous portion we implore.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So möge denn Savitri, der Gott des Glücks, dem Opferspender Schätze zuweisen. Ihn bitten wir um ein ansehnliches Teil.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schaffe Schätze, Savitar, dem Frommen als Vertheiler denn; Ihn flehn um reichen Antheil wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь этот Савитар-Бхага  
 Вызывает к жизни сокровища для почитателя.  

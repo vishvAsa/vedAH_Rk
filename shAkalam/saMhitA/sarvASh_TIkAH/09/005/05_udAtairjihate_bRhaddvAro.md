@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् आ꣡तैर् जिहते बृह꣡द्  
 द्वा꣡रो देवी꣡र् हिरण्य꣡यीः  
 प꣡वमानेन सु꣡ष्टुताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 पव॑मानेन । सुऽस्तु॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -75,36 +75,36 @@ genre M
 **हिरण्ययीः** हिरण्मय्यः **द्वारो** **देवीः** द्वारो देव्यः **पवमानेन** सोमेन सह **सुष्टुताः** स्तोतृभिः सम्यक् स्तुताः सत्यः **बृहत्** बृहतीभ्यो महतीभ्यः **आतैः** आताभ्यो दिग्भ्यः । ‘आता आशाः इति दिङ्नामसु पाठात् । **उत्** **जिहते** उद्गच्छन्ति ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The bright golden doors, praised by the priests together with the **Soma**, rise up from the vast horizon.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With their frames the golden Divine Doors open up aloft,  
 well praised by the self-purifying one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The golden, the Celestial Doors are lifted with their frames on high,  
      By Pavamana glorified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die göttlichen Tore gehen mit ihren Flügeln hoch auf, die goldenen, von dem sich Läuternden schön gepriesen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus ihren Rahmen öffnen sich die goldnen Götterthore weit, Gepriesen von dem rieselnden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоко раскрываются (своими) створками  
 Золотые божественные  

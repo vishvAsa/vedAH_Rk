@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उस्रा꣡ वेद व꣡सूना᳐म्  
 म꣡र्तस्य देवी꣡ अ꣡वसः  
 त꣡रत् स꣡ मन्दी꣡ धावति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तर॑त् । सः । म॒न्दी । धा॒व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *usrā*
 - \[noun\], nominative, singular, feminine
@@ -82,19 +82,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **वसूनां** धनानाम् **उस्रा** उत्सरणशीला प्रदात्री **देवी** द्योतमाना स्तूयमाना वा यस्य सोमस्य धारा **मर्तस्य** मनुष्यं यजमानम् **अवसः** रक्षितुं वेद जानाति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The brilliant (stream), the bestower of riches, knows how to protect the worshipper; he the delighted (of the gods) flows rescuing (his worshippers from sin).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy goddess knows of the goods, of the help of the mortal. – In crossing, the invigorating one runs.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -108,23 +108,23 @@ As to what Soma is crossing, it is most likely the waters (cf. ap-túr- IX.61.13
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Morning knows all precious things, the Goddess knows her grace to man:  
      Swift runs this giver of delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Göttin Usas kennt die Schätze, die Gunst des Sterblichen. - Er gelange über das Wasser, der Berauschende läuft ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Göttin Morgenröthe kennt die Schätze und des Sterblichen Labung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

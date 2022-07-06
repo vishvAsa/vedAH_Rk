@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाजय꣡न्न् इव नू꣡ र꣡थान्  
 यो꣡गाँ अग्ने꣡र् उ꣡प स्तुहि  
 यश꣡स्तमस्य मीळ्हु꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 य॒शःऽत॑मस्य । मी॒ळ्हुषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
@@ -85,20 +85,20 @@ genre M
 हेअन्तरात्मन् नुक्षिप्रंअग्नेर्योगानश्वान् उपस्तुहि कीदृशस्याग्नेः वशस्तमस्यप्रवृद्धयशसः त्वमर्थोलु- प्यते मीह्ळुषः सेक्तुः फलस्य ईदृशस्ययोगान् स्तुहि होतरितिवासम्बोध्यं स्तुतौदृष्टान्तः—वाजयन्नि- वअन्नमिच्छन् पुरुषइव सयथाअश्वान् गमनायस्तौतितद्वत् यद्वोक्तलक्षणस्याग्रेर्गमनसाधनान् रथान् स्तुहि ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise quickly the yoked chariot of the glorious and munificent **Agni**, like one who is desirous of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a prize-seeker (praises) his chariots, now praise the yoke(d teams)  of Agni,  
 the most glorious one, who grants rewards,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -107,28 +107,28 @@ The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now praise, as one who strives for strength, the harnessing of Agni's car,  
      The liberal, the most splendid One;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As one who runs a race 1 (praises) his chariots, praise thou the yoking of Agni (to the chariot of sacrifice), of the most glorious, bountiful (god)—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Wettfahrende seinen Wagengespannen, so sprich doch du den Gespannen des Agni lobend zu, des angesehensten Lohnbringers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Preis erjagend rühme nun des Agni Wagen und Gespann, Des herrlichsten, des gnädigen;
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как стремящийся к награде (торопит) колесницы,  
 (Так) поощри восхвалением упряжки Агни,  

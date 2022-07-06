@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡नःशे꣡पो हि꣡ अ꣡हुवद् गृभीत꣡स्  
 त्रिषु꣡ आदित्यं꣡ द्रुपदे꣡षु बद्धः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्वाँ꣡ अ꣡दब्धो वि꣡ मुमोक्तु पा꣡शान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अव॑ । ए॒न॒म् । राजा॑ । वरु॑णः । स॒सृ॒ज्या॒त् । वि॒द्वान् । अद॑ब्धः । वि । मु॒मो॒क्तु॒ । पाशा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunaḥśepo* ← *śunaḥśepaḥ* ← *śunaḥśepa*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ popular
 **गृभीतः** बन्धनाय गृहीतः त्रिसंख्याकेषु **दुपदेषु** द्रोः काष्ठस्य यूपस्य पदेषु प्रदेशविशेषेषु **बद्धः** **शुनःशेपः** **आदित्यम्** अदितेः पुत्रं यं वरुणम् **अह्वत्** आहूतवान् **हि** यस्मादेवं तस्मात् सः **वरुणः** **राजा** **एनं** शुनःशेपम् **अव** **ससृज्यात्** अवसृष्टं बन्धनात् विमुक्तं करोतु । विमोकप्रकार एव स्पष्टीक्रियते । **विद्वान्** विमोकप्रकाराभिज्ञः **अदब्धः** केनाप्यहिंसितः वरुणः **पाशान्** बन्धनरज्जुविशेषान् **वि** **मुमोक्तु** विच्छिद्यैनं मुक्तं करोतु ॥ त्रिषु ।' षट्त्रिचतुर्भ्यो हलादिः' (पा. सू. ६. १. १७९ ) इति विभक्तेरुदात्तत्वं । संहितायाम् ' उदात्तस्वरितयोर्यणः' इति परः आकारः स्वर्यते । ससृज्यात् ।' सृज विसर्गे '। प्रार्थनायां लिङ्। बहुलं छन्दसि ' इति विकरणस्य श्लुः । विद्वान् ॥ ‘विद ज्ञाने'।' विदेः शतुर्वसुः' (पा. सू. ७. १. ३६)।' उगिदचाम्' इति नुम् । हल्ड्यादिसंयोगान्तलोपौ । संहितायां: दीर्घादटि समानपादे ' इति नकारस्य रुत्वम् । आतोऽटि नित्यम्' इति सानुनासिक आकारः। अदब्धः। ‘दम्भु दम्भे' । निष्ठायाम् “ अनिदिताम्' इति नलोपे ‘झषस्तथोर्धोऽधः' (पा. सू. ८. २. ४० ) इति धत्वम् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ popular
 Triṣu drupadeṣu: druḥ (a tree) is a reference to the tripod-like sacrificial **post**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since Śunaḥśepa, seized and bound in three stocks, called upon the  Āditya,  
 King Varuṇa should set him loose. Let him—the knowing one, never  cheated—release the fetters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bound to three pillars captured Sunahsepa thus to the Aditya made his supplication.  
      Him may the Sovran Varuna deliver, wise, ne'er deceived, loosen the bonds that bind him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Sunahsepa hat in Bande geschlagen, an drei Blöcke gebunden den Aditisohn angerufen, König Varuna möge ihn freigeben. Der Kundige, Untrügliche soll die Schlingen lösen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn der gefangne Çunasçepa rief einst gebunden an drei Pfosten den Aditja; Auch diesen löse Varuna der König, der weise, treue löse ihm die Stricke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь Шунахшепа воззвал, закованный,  
 К трем колодам привязанный, – к Адитье,  

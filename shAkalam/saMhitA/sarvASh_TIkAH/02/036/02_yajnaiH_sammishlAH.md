@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञइः꣡ स꣡म्मिश्लाः पृ꣡षतीभिर् ऋष्टि꣡भिर्  
 या꣡मञ् छुभ्रा꣡सो अञ्जि꣡षु प्रिया꣡ उत꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पोत्रा꣡द् आ꣡ सो꣡मम् पिबता दिवो नरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ॒ऽसद्य॑ । ब॒र्हिः । भ॒र॒त॒स्य॒ । सू॒न॒वः॒ । पो॒त्रात् । आ । सोम॑म् । पि॒ब॒त॒ । दि॒वः॒ । न॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
@@ -115,7 +115,7 @@ genre M
 हेमरुतः यज्ञैर्यागैः सम्मिश्लाः संयुक्ताः पृषतीभिः स्ववाहनभूताभिः पृषद्वतीभिर्वडवाभिर्युक्ते यामन्यामनिगमनसाधनेरथेवस्थिताः ऋष्टिभिः स्वकीयैरायुधैः शुभ्रासः शुभ्राः शोभमानाः उत शब्दश्चार्थे अञ्चिष्वाभरणेषुप्रियाश्चहेभरतस्यसूनवः सर्वस्यजगतोभर्तूरुद्रस्यपुत्राः दिवोनरः दिवो न्तरिक्षस्यनेतारः एवम्भूताहेमरुतः तेयूयम्बर्हिरास्तीर्णेबर्हिषिआसाद्योपविश्यपोत्रात् पोतुर्यागात्सो ममापिबत ॥ २ ॥ तृतीयसवनेअमेवनइत्येषानेष्टुः प्रस्थितयाज्या तथाचसूत्रितम्—अमेवनःसुहवाआहिगन्तनेन्द्रा विष्णूपिबतम्मध्वोअस्येति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,33 +126,33 @@ genre M
 Sons of Bharata: bharatasya sūnavaḥ, the first is said to be a name of **Rudra**, as the cherisher or sovereign, bhartā, of the world
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Commingling with sacrifices, with your dappled (mares), with your  spears, resplendent on your journey and in your ornaments, and dear, having sat on the ritual grass, you sons of Bharata, drink soma from the  Potar’s cup, you men of heaven [=Maruts].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. construe añjíṣu with priyā́utá (“and dear in your ornaments”), but the position of utá is somewhat against this: utá is less out of place if priyā́ḥ is all that it’s conjoining. And añjíṣu goes better semantically with “resplendent” than “dear”; cf., for a connection with √śubh, X.78.7 śubhaṃyávo nā́ñjibhir vy àśvitan, also of the Maruts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Busied with sacrifice, with spotted deer and spears, gleaming upon your way with ornaments, yea, our Friends,  
      Sitting on sacred grass, ye Sons of Bharata, drink Soma from the Potar's bowl, O Men of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Opfern, den scheckigen Antilopen und den Speeren eng verwachsen, auf der Fahrt fein geputzt und Freunde von Zieraten, setzet euch auf das Barhis, ihr Söhne des Bharata, trinket, ihr Mannen des Himmels, den Soma aus dem Becher des Potri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Rudrassöhne, die zum Opfer ihr erscheint, mit Hirschen, Speeren, und beliebt auf eurer Fahrt, An Salben glänzend, setzt euch nieder auf die Streu; trinkt, Himmelsmänner, Soma aus des Rein'gers Fass.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Связанные с жертвами, с пестрыми антилопами, с копьями,  
 Сверкающие при выезде, любители украшений –  

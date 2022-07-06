@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र सो꣡मम् इम꣡म् पिब  
 म꣡धुमन्तं चमू꣡ सुत꣡म्  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒स्मे इति॑ । र॒यिम् । नि । धा॒र॒य॒ । वि । वः॒ । मदे॑ । स॒ह॒स्रिण॑म् । पु॒रु॒व॒सो॒ इति॑ पुरुऽवसो । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -117,7 +117,7 @@ genre M;; repeated line
 हे **इन्द्र** त्वम् **इमम्** ईदृशं **सोमं** पिब । कीदृशम् । **मधुमन्तं** मधुररसोपेतं **चमू** चम्वोः अधिषवणफलकयोः **सुतम्** अभिषुतम् । तदनन्तरं **पुरुवसो** बहुधन हे इन्द्र **वः** तव **विमदे** विशेषेण सोमजन्यमदे सति **अस्मे** अस्मासु **रयिं** धनं **नि** **धारय** नितरां स्थापय । कीदृशम् । **सहस्रिणं** सहस्रसंख्यायुक्तम् । प्रभूतमित्यर्थः । त्वया दत्तेन धनेन यस्माद्वयं पुनरपि त्वदर्थं यागं कुर्मः तस्मादस्मासु धनं निधेहीत्यर्थः । अतः कारणात् **विवक्षसे** । महन्नामैतत् । त्वं महान् भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,7 +128,7 @@ genre M;; repeated line
 The burden of theṛca is vi vo made, as in **sūkta** 5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, drink this honeyed soma pressed in the cup;  
 lay down for us a foundation of wealth in thousands, o you of  
@@ -136,23 +136,23 @@ many goods.
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O INDRA, drink this Soma, pressed out in the mortar, full of sweets.  
      Send down to us great riches,-at your glad carouse-in thousands, O Most healthy. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, trink diesen süßen Soma, der in dem Camugefäß ausgepreßt ist. Uns verleih Reichtum, tausendfältigen, du Schatzreicher - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Trink, Indra, diesen Soma hier, den süssen ausgepressten Trank Verleih uns tausendfachen Schatz, o güterreicher, zum Besitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, пей этого сому,  
 Полного сладости, выжатого в чане!  

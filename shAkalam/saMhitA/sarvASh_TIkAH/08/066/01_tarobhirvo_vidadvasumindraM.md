@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡रोभिर् वो विद꣡द्वसुम्  
 इ꣡न्द्रं सबा꣡ध ऊत꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 हुवे꣡ भ꣡रं न꣡ कारि꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 बृ॒हत् । गाय॑न्तः । सु॒तऽसो॑मे । अ॒ध्व॒रे । हु॒वे । भर॑म् । न । का॒रिण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tarobhir* ← *tarobhiḥ* ← *taras*
 - \[noun\], instrumental, plural, neuter
@@ -102,35 +102,35 @@ genre M
 हे ऋत्विजो वोयूउअं तरोभिर्वे गैरश्वैरुपेतं वेगैरेववा विदद्वसुं वेदयद्वसुं धनावेदकमिन्द्रं सबाधो बाधासहिता ऊतये रक्षणाय बृहत्सामैतत्सञ्ज्ञं गाय- न्तः सन्तः परिचरतेति शेषः । कुत्रेति तदुच्यते-सुतसोमे सुतसोमकेध्वरे यज्ञे सोमयागे अहञ्च तमिन्द्रं हुवे आह्वयामि । कमिव भरन्न भर्तारं कुटुम्ब- पोषकं कारिणं हितकरणशीलं यथा स्वहितकरणायाह्वयन्ति पुत्रादयस्तद्वत्तथाभूतमिन्द्रं हुवइति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thronging together, (worship) for your protection **Indra** full of might and the revealer of wealth; (worshiphim), chanting the **Bṛhat-sāman** at his sacrifice where the **Soma** is effused, I invoke him as (men invoke) abeneficent master of a household.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With staying power and force (I call for) Indra, finder of goods, for help; as (we) sing loftily at the rite with its pressed soma, I call (for him) as if  for the takings of a decisive victor,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LOUD singing at the sacred rite where Soma flows we priests invoke  
      With haste, that he may help, as the bard's Cherisher, Indra who findeth wealth for you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Ausdauer rufen wir eindringlich für euch zum Beistand den güterverschaffenden Indra laut singend zum Opfer mit ausgepreßtem Soma; ich rufe ihm zu wie einem, der den Siegerpreis gewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ernst und Eifer singend laut, ruft euren Gutvertheiler an, Um Hülfe Indra bei dem somareichen Fest, ich ruf ihm einen Jubelgruss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Настойчиво (и) упорно я зову для вас  
 На помощь Индру, находящего имущество;  

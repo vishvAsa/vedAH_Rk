@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡श् चिन् नो अद्या꣡ भवतं नवेदसा  
 विभु꣡र् वां या꣡म उत꣡ राति꣡र् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभ्यायंसे꣡न्या भवतम् मनीषि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । हि । य॒न्त्रम् । हि॒म्याऽइ॑व । वास॑सः । अ॒भि॒ऽआ॒यं॒सेन्या॑ । भ॒व॒त॒म् । म॒नी॒षिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triś* ← *tris*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 आदेशविषयत्वात् ‘योऽचि' (पा. सू. ७. २. ८९ ) इति यत्वं न भवति । ‘शेषे लोपः' इति टिलोपे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । अन्त्यलोपपक्षे तु एकादेशस्वरेण । हिम्या इव । हिमेति रात्रिनाम, ‘ऊधः पयः हिमा' ( नि. १. ७. २२ ) इति तन्नामसु पठितत्वात् । हनेर्हि च' ( उ. सू. १. १४४) इति मक् । हन्ति पद्मानीति हिमम् । अर्शआद्यच् । हिमा रात्रिः । तत उत्तरस्य तृतीयैकवचनस्य ‘सुपां सुलुक् ' इति ङ्यादेशः । ततः टिलोपे उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् । वाससः । ‘वस आच्छादने'। वासयति प्रकाशेनाच्छादयति इति अहर्वासः । अभ्यायंसेन्या । अभ्याङ् इत्युपसर्गद्वयोवसृष्टात् ‘यम उपरमे' इत्यस्मात् औणादिकः सेन्यप्रत्ययः । ‘सुपां सुलुक्' इति आकारः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,13 +142,13 @@ genre M
 Allusion to three diurnal sacrifices, at dawn, mid-day and sunset; all divinities are tripthagāḥ, with the faculty to go through the heavens, the firmament and the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times today take cognizance of us. Extensive is your journey and  your giving, o Aśvins.  
 Because clasping you is like clasping on a garment in winter, become  ones who can be clasped by men of inspired thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Three times a day” (tríḥ … adyá) opens the hymn, announcing the hymn’s “three” theme and also linking it to the three pressings of (some Ṛgvedic versions of) the Soma Sacrifice.
 
@@ -159,23 +159,23 @@ bhavatam.
 The second hemistich is built on an etymological relationship between the instrument noun yantrá- (c) and the gerundive abhyāyaṃsénya- (d), both built to the root √yam ‘hold’ (the second form presumably to the s-aor. of that root; so AiG II.2.503, though the reason for using this base isn’t clear). This word play is lost in Geldner’s (/Witzel Gotō’s) tr., but I have aimed to keep it, unfortunately producing some awkwardness in the English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who observe this day be with us even thrice: far-stretching is you bounty, Asvins and your course.  
      To you, as to a cloak in winter, we cleave close: you are to be drawn nigh unto us by the wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal sei heute unser Eingedenk! Ausgedehnt sei eure Fahrt und Gabe, Ihr Asvin! Denn euch hält man fest wie das Kleid zur Winterszeit. Nach euch sollen die Andächtigen verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seid dreimal heute unsre Zeugen; sehr herrlich ist eure Fahrt und eure Gabe, o Açvinen; ihr zieht fest die Zügel an, wie man in der Kälte eine Decke an sich zieht (?); lasst euch durch die weisen Sänger herbeilenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды сегодня вы двое обратите взор на нас!  
 (Пусть будет) исключительным ваш путь и дар, о Ашвины!  

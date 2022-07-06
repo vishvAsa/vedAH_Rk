@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो नाव꣡म् उरुष्यत  
 दि꣡वा न꣡क्तं सुदानवः  
 अ꣡रिष्यन्तो नि꣡ पायु꣡भिः सचेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अरि॑ष्यन्तः । नि । पा॒युऽभिः॑ । स॒चे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -88,7 +88,7 @@ genre M
 हे सुदानवः शोभनदाना मरुतः **अरिष्यन्तः** केनाप्यहिंसिताः **ते** तादृशा यूयं **नः** अस्मदीयां **नावं** यज्ञियां नावं **दिवा** **नक्तं**  च **उरुष्यत** पालयत । ततो वयं **पायुभिः** युष्मदीयैः पालनैः **नि** **सचेमहि** नितरां समवेता भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre M
 Guard our vessel: no nāvam uruṣyata: nāvam yajñiyām (occurs in 10.044.06) andseems to mean, the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You (all) of good drops—give room to our roar by day and by night. Not suffering harm, might we be accompanied by protectors.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme ní √sac is found only here in the RV and indeed, judging from MonWms, in all of Sanskrit. I consider the ní here intrusive, having crept in from passsages like VII.38.3 víśvebhiḥ pātu pāyúbhir ní sūrī́n. The lexeme ní √pā is fairly well attested, and so I think ní has, as it were, hitched a ride on pāyúbhiḥ, which is ordinarily found with a form of the cognate verb as in the just cited passage.
 
@@ -121,23 +121,23 @@ This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do ye, O Bounteous Gods, protect our dwelling lace by day and night:  
      With you for our defenders may we go unharmed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Suchet unserem Rufer Tag und Nacht einen Ausweg, ihr Gabenschönen! Ohne Schaden möchten wir euren Schutzgeistern nahe sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschützet unser Loblied ihr, an Gaben reich bei Tag und Nacht, Mit Hütern seien unbeschädigt wir vereint.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Создавайте широкий простор нашей песне  
 Днем и ночью, о вы с прекрасными дарами!  

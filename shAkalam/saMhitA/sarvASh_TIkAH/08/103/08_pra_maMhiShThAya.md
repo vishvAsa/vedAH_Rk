@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मं꣡हिष्ठाय गायत  
 ऋता꣡वने बृहते꣡ शुक्र꣡शोचिषे  
 उ꣡पस्तुतासो अग्न꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उप॑ऽस्तुतासः । अ॒ग्नये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -78,35 +78,35 @@ genre M
 हे यूयम् **उपस्तुतासः** उपस्तोतारः **मंहिष्ठाय** दातृतमाय **ऋताव्ने** यज्ञवते सत्यवते वा **बृहते** महते **शुक्रशोचिषे** दीप्ततेजसे **अग्नये** **प्र** **गायत** स्तोत्रं पठत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Singers of hymns, sing aloud to the mighty **Agni**, most bounteous, observant of truth an dradiant withbrightness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing forth to the most munificent one, to truthful, lofty, pure-flamed Agni, o Upastutas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing forth to him, the Holy, most munificent, sublime with his refulgent glow,  
      To Agni, ye Upastutas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Singet dem freigebigsten, wahrhaftigen, hohen, hellflammigen Agni, ihr Upastuta´s!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, besingt den gabenreichsten, heiligen, den hohen, hellerstrahlenden, Den Agni, o Upastuta's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Упастуты, спойте  
 Самому щедрому, преданному закону,  

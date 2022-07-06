@@ -8,7 +8,7 @@ title = "+061"
 ‘इयमददात्' इति चतुर्दशर्चं द्वादशं सूक्तं भरद्वाजस्यार्षं सरस्वतीदेवताकम् । आदितस्तिस्रो जगत्यः त्रयोदश्यपि जगती चतुर्दशी त्रिष्टुप् शिष्टा गायत्र्यः । तथा चानुक्रान्तम्--- इयं षळूना सारस्वतं त्रिजगत्यादि जगतीत्रिष्टुबन्तम्' इति । अत्र शौनकः-- इयमित्येतदाद्यं तु सूक्तं सारस्वतं जपेत् । द्विजः प्रातः शुचिर्भूत्वा वाग्मी भवति बुद्धिमान्' (ऋग्वि. २. २९५) इति । पार्ष्ठिके षष्ठेऽहनि प्रउगे ' इयमददात्' इति सारस्वतस्तृचः । सूत्रितं च--- इयमददाद्रभसमृणच्युतमिति प्रउगम्' (आश्व. श्रौ. ८. १) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 61 (502)  
 Sarasvatı̄  
@@ -20,7 +20,7 @@ dimeter (4–12), a return to the original meter in verse 13, and, here, a final
 statement of her superiority (vs. 13) and a plea for her aid and sustenance (vs. 14). The sheer power of the river and the potential menace of her relentless flow are  nicely conveyed, especially in the first tr̥ca, where she punishes a series of human  foes and even destroys the mountains while rewarding her praisers. In parts of the  hymn, these rewards are clearly related to her identity as river—the streambeds in  verse 3, the milk we pray for in verse 14—but in others the connection is not clear,  especially the gift to Vadhryaśva of (apparently) a son Divodāsa, which opens the  hymns. The hostile Br̥saya of verse 3 is also unclear: the name occurs only once  elsewhere in the R̥gveda (I.93.4) in similar context.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Sarasvatī On the structure of this hymn and its similarity to the immediately preceding one, see published introduction.
 </details>

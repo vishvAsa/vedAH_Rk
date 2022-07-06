@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡गोरुधाय गवि꣡षे  
 द्युक्षा꣡य द꣡स्मियं व꣡चः  
 घृता꣡त् स्वा꣡दीयो म꣡धुनश् च वोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 घृ॒तात् । स्वादी॑यः । मधु॑नः । च॒ । वो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agorudhāya* ← *agorudha*
 - \[noun\], dative, singular, masculine
@@ -79,36 +79,36 @@ genre M
 हे ऋत्विजः **अगोरुधाय** । गाः स्तुती रुणद्धीति गोरुधः । न गोरुधोऽगोरुधः । ता न विनाशयत्यादरेण शृणोतीत्यर्थः। तादृशाय अत एव **गविषे** स्तोत्राणीच्छते **द्युक्षाय** दीप्यमानायेन्द्राय **दस्म्यं** दर्शनीयं **घृतात्** स्वादुतरादाज्यात् **मधुनश्च** **स्वादीयः** अतिशयेन स्वादुभूतं **वचः** स्तोत्ररूपं वाक्यं **वोचत** ब्रूत । ऋत्विग्भिः कृतं कर्म यजमानोऽपि कृतवान् भवतीति मदीयमिन्द्रविषयं वचो घृतान्मधुनश्च स्वादुतरं भवत्वित्याशास्ते । तदाह भगवानाश्वलायनः - वच एव म इदं घृताच्च मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वित्येव तदाह' (आश्व. गृ. १. १. ५) इति ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Recite agreeable words, sweeter than clarified butter, or than **Soma**, to the illustrious (**Indra**), who isgratified by eulogy, who rejects not praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the heaven-ruling one who does not withhold cattle, who seeks  cattle, speak a wondrous speech,  
 sweeter than ghee and honey,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him who wins the kine, who keeps no cattle back, Celestial God,  
      Speak wondrous speech more sweet than butter and than meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm, der die Kühe nicht vorenthält, der auf Kühe auszieht, dem Himmlischen traget die meisterliche Rede vor, die süßer als Schmalz und Honig ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Stier, der nach der Kuh verlangt, dem lichten singt ein schönes Lied, das süsser sei als Butter und als Honigseim.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тому,) кто не чинит препятствий коровам, кто ищет коров,  
 Кто живет на небе, произнесите  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ त्य꣡म् इन्द्र सू꣡रियम्  
 पश्चा꣡ स꣡न्तम् पुर꣡स् कृधि  
 देवा꣡नां चित् तिरो꣡ व꣡शम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 दे॒वाना॑म् । चि॒त् । ति॒रः । वश॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -99,36 +99,36 @@ genre M
 हे इन्द्र त्वं त्यं सूर्यं सायंसमये पश्चा पश्चात् सन्तं भवन्तं **पुरः** परेद्युः प्रातःकाले पुरस्तात् कृधि करोषि। लकारव्यत्ययः । कीदृशम् । **देवानां** चित् देवानामपि **तिरः** तिरोहितं तैरपि क्व गत इति दुर्विज्ञातं **वशं** कान्तम् ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring forward that **Sūrya**, **Indra**, who is lingering behind, the beloved of the gods, (awhile) concealedfrom them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra—set this sun in front, though it is behind,  
 even athwart the will of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring, Indra, to the east again that Sun who now is in the west,  
      Even against the will of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du; Indra, diese Sonne, die hinten ist, nach vorn, selbst wider der Götter willen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne, die im Westen ist, schaff', Indra, du nach Osten hin, Auch wenn's nicht Wunsch der Götter ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, того самого Сурью,  
 Находящегося позади, поставь впереди  

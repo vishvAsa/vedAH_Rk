@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चरु꣡र् न꣡ य꣡स् त꣡म् ईङ्खय  
 इ꣡न्दो न꣡ दा꣡नम् ईङ्खय  
 वधइ꣡र् वधस्नव् ईङ्खय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व॒धैः । व॒ध॒स्नो॒ इति॑ वधऽस्नो । ई॒ङ्ख॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *carur* ← *caruḥ* ← *caru*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **चरुर्न** चरुरिव **यः** पूर्णोदनो भवति **तमीङ्खय** अस्मान् प्रापय । अपि च हे **इन्दो** **न** इदानीं **दानं** देयम् ईङ्खय । हे **वधस्नो** प्रहारेण प्रस्रवणशील सोम **वधैः** ग्राव्णां प्रहारैः **ईङ्खय** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,13 +99,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Who is like a pot: pūrṇodanaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who is like a pot, give him a shove; give a shove to the one who  doesn’t give on his own, o drop.  
 Give him a shove with your strokes, you striker.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the “pot” that is to be kicked is mostly likely an stingy patron, as Geldner suggests. The whole vs. has a slangy and informal feel.
 
@@ -118,23 +118,23 @@ root aor. participle to √dā ‘give’. The immediate problem with this is, o
 dā́nam ínvati I.128.5, dā́nam ínvan V.30.7). As for the sense, although medial forms of √dā are rare outside of the idiom ā́√dā ‘take’, those that occur seem to mean ‘give of oneself / one’s own store’; cf. V.33.9 sahásrā me cyávatāno dádānaḥ “(when) Cyavatāna was giving a thousand of his own to me.” Taking dā́nam as a participle referring to the stingy patron of pāda a allows ná to be a negative and therefore properly positioned.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who is like a caldron shake: O Indu, shake thy gift to us  
      Shake it, armed Warrior! with thine arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der voll wie ein Topf ist, dem gib einen Anstoß! O Saft, gib der Schenkung gleichsam einen Anstoß! Mit Schlägen gib einen Anstoß, du Schlagfertiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schüttle, der dem Kessel gleicht, o Indu, schüttle Gaben her, Mit Schlägen, Schläger, schüttle ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

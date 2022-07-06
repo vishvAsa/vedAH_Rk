@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रो꣡ नो अ꣡ति अंहतिं꣡  
 व꣡रुणः पर्षद् अर्यमा꣡  
 आदित्या꣡सो य꣡था विदुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒दि॒त्यासः॑ । यथा॑ । वि॒दुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -80,35 +80,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मित्रः** **वरुणः** **अर्यमा** **आदित्यासः** आदित्याः **नः** अस्मान् अंहतिम् **अति** **पर्षत्** अतिनयन्तु । ते **यथा** **विदुः** येन प्रकारेण दुःसहं जानन्ति तथाति पर्षदिति । इतरपक्षे अंहतिं पापमति पर्षदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the **Ādityas**, **Mitra**, **Varuṇa**, and **Aryaman**, bear us across our distress, as they know it well.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra will carry us beyond constraint, and Varuṇa and Aryaman, just as the Ādityas know how.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Mitra bear us oer distress, and Varuna and Aryaman,  
      Yea, the Adityas, as they know.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra, Varuna, Aryaman sollen uns über die Not hinweghelfen, wie die Aditya´s wissen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns führe Mitra-Varuna und Arjaman durch Ungemach, Wie die Aditja's es verstehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митра, Варуна, Арьяман  
 Да переправят нас через беду,  

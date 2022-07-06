@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि न इन्द्र एषां᳐  
 वि꣡ष्णो सजाति꣡याना᳐म्  
 इता꣡ म꣡रुतो अ꣡श्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒त । मरु॑तः । अश्वि॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -76,7 +76,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **विष्णो** **मरुतः** हे **अश्विना** अश्विनौ हे इन्द्रादयो देवाः **सजात्यानाम्** । समानायां जातौ भवाः सजात्या भ्रातृमित्रादयः । तेषाम् **एषां** मध्ये **नः** अस्मान् **अधि** **इत** यूयं स्तुत्यतयाधिगच्छत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,28 +87,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Your brethreṅMitra etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, Viṣṇu, Maruts, Aśvins—of these your common births with us take cognizance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Regard us, Indra, Visnu, here, ye Asvins and the Marut host,  
      Us who are kith and kin to you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gedenket dieser Landsmannschaft mit uns, Indra, Vishnu, Marut, Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gedenket Indra, Vischnu doch, o Maruts, Ritter, recht daran, Wie nah mit euch verwandt wir sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पाहि इन्द्र स꣡हीयसो नॄ꣡न्  
 भ꣡वा मरु꣡द्भिर् अ꣡वयातहेळाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒ऽप्र॒के॒तेभिः॑ । स॒स॒हिः । दधा॑नः । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -117,37 +117,37 @@ genre M;; repeated line
 हे **इन्द्र** **त्वं** **पाहि** रक्ष । कान् । **सहीयसो** **नॄन्** सहस्वितमान् त्वदनुग्रहेण अतिप्रवृद्धबलान् नेतॄन् मनुष्यानस्मान् मरुतो वा । किंच **मरुद्भिः** साकम् अस्मासु **अवयातहेळ:** **भव** । अपगतमन्युर्भव । मरुत्सु वा तथा भव । किंच **सुप्रकेतेभिः** शोभनप्रज्ञानैर्मरुद्भिः सह **सासहिः** शत्रूणामभिभविता सन् **दधानः** अस्मदभिमतस्य धारयिता भवेति शेषः । शिष्टो व्याख्यातः । ॥११॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, cherish the vigorous leaders (of the rains), be free from displeasure against the **Maruts**; overcoming (our) enemies along with the intelligent (Maruts), support us (so that) we may obtain food, strength, and long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, protect your men from the stronger one [=Indra]. Be one whose  anger with the Maruts is appeased,  
 establishing yourself as the strong one through (the Maruts) bearing  their good signs. – May we know refreshment and a community  
 having lively waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, O Indra, guard the conquering Heroes, and rid thee of thy wrath against the Maruts,  
      With them, the wise, victorious and bestowing. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du, Indra die Männer vor dem Mächtigeren, laß dir von den Marut den Zorn abbitten, von ihnen, die von guter Vorbedeutung sind, zum Sieger gemacht. - Wir möchten einen gastlichen Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer schirm, o Indra, vor dem stärkern, lass mit den Maruts deinen Zorn entschwinden, Du starker trinkend mit den Glanzdurchstrahlten, Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити ты, о Индра, мужей от более сильного (противника)!  
 Усмири свой гнев в отношении Марутов,  

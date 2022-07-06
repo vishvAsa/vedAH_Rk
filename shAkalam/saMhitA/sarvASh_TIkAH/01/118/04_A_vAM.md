@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां श्येना꣡सो अश्विना वहन्तु  
 र꣡थे युक्ता꣡स आश꣡वः पतंगाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ प्र꣡यो नासतिया व꣡हन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ये । अ॒प्ऽतुरः॑ । दि॒व्यासः॑ । न । गृध्राः॑ । अ॒भि । प्रयः॑ । ना॒स॒त्या॒ । वह॑न्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,37 +119,37 @@ genre M
 हे अश्विनौ **रथे** **युक्तासः** सारथिना वहनप्रदेशे योजिताः **आशवः** व्याप्नुवन्तः **पतङ्गाः** पतनसमर्थाः **श्येनासः** शंसनीयगमनाः अश्वाः **वां** युवाम् **आ** ”वहन्तु अस्मत्समीपमानयन्तु । **ये** अश्वाः **अप्तुरः** आप इव त्वरोपेताः **दिव्यासो** न **गृध्राः** अन्तरिक्षे वर्तमानाः गृध्राख्याः पक्षिण इव शीघ्रं गच्छन्तो हे नासत्यौ युवां **प्रयः** हविर्लक्षणमन्नम् अभिलक्ष्य **वहन्ति** प्रापयन्ति । तादृशाः इति पूर्वत्र संबन्धः । अप्तुरः । ‘तुर त्वरणे' । अप्शब्दोपपदात् अस्मात् ‘क्विप् च ' इति क्विप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May your quick-moving, prancing steeds, rapid as hawks, yoked to your car, bear you, **Aśvins**, (hither), who, quick as (falling) water, like vultures flying through the air, convey you, **Nāsatyas**, to the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Aśvins, let the swift, soaring falcons harnessed to your chariot carry  you here—  
 
 those that, crossing the waters high in the heavens like vultures, carry  you to (our offered) enjoyment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins, let your falcons bear you hither, yoked to your chariot, swift, with flying pinions,  
      Which, ever active, like the airy eagles, carry you, O Nasatyas, to the banquet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Asvin, sollen die Adler herfahren, die an den Wagen geschirrten, schnellen, fliegenden, die gleich den himmlischen Geiern die Gewässer überholend, euch, Nasatya´s, zum Opfergenuß fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Ritter mögen her die Adler fahren, die raschen Vögel, die den Wagen ziehen, Und die geschäftig, wie des Himmels Geier euch Treue zum Genuss des Opfers fahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да привезут вас, о Ашвины, орлы,  
 Запряженные в колесницу быстрые птицы,  

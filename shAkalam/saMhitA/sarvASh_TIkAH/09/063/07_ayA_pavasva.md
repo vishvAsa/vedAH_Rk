@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ पवस्व धा꣡रया  
 य꣡या सू꣡र्यम् अ꣡रोचयः  
 हिन्वानो꣡ मा꣡नुषीर् अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒न्वा॒नः । मानु॑षीः । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **मानुषीः** मनुष्याणां हितानि **अपः** उदकानि **हिन्वानः** प्रेरयंस्त्वं **यया** धारया **सूर्यमरोचयः** प्राकाशयः तया **अया** अनया **धारया** **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow with that stream with which you, **Soma**, light up the sun, urging on the waters beneficial to man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself in the very stream with which you made the sun shine, impelling the waters belonging to Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is specifically stated here that the stream of soma “made the sun shine” (sū́ryam árocayaḥ), in other words that the ritual activity produced cosmic effects.
 
@@ -103,23 +103,23 @@ On this tṛca see published introduction. In these vss. Soma is compared to the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward with that stream of thine wherewith thou gavest Surya light,  
      Urging on waters good to men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich in demselben Strome, mit dem du die Sonne leuchten und die menschlichen Gewässer laufen ließest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem Strome riesle hell, mit dem die Sonne du entflammt, Entsendend menschenholde Flut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

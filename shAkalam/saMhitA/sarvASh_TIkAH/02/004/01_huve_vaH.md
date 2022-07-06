@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हुवे꣡ वः सुदियो꣡त्मानं सुवृक्तिं꣡  
 विशा꣡म् अग्नि꣡म् अ꣡तिथिं सुप्रय꣡सम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देव꣡ आ꣡देवे ज꣡ने जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒त्रःऽइ॑व । यः । दि॒धि॒षाय्यः॑ । भूत् । दे॒वः । आऽदे॑वे । जने॑ । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *huve* ← *hvā*
 - \[verb\], singular, Present indikative
@@ -117,20 +117,20 @@ genre M
 हेयजमानाःवोयुष्मदर्थं अग्निंहुवेआह्वयामि कीदृशन्तं सुद्योत्मानं सुष्ठुद्योतमानंसुवृक्तिं सुवर्जि- तम्पापैः शोभनस्तुतिंवाविशांयजमानानांअतिथिं अतिथिवत्सदापूज्यंसुप्रयसंशोभनहविर्लक्षणान्नं किञ्चजातवेदाः जातानांवेदितायोदेवोग्निर्मित्रइव सखेवआदित्यइववादिधिषाय्यः धारयिता भूत् भवति कुत्रेतिउच्यते आदेवेवपर्यन्तेजनेमनुष्यप्रभृतिदेवपर्यन्तेषु तेषान्धारकोभवदित्यर्थः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke, on your behalf, the resplendent, the sinless **Agni**, the guest of mortals, the accepter of (sacrificial) food, who, knowing all that has been born, is like a friend, the supporter (of all beings) from men to gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I call for you upon the one of good brilliance, on Agni, the guest of the  clans, who receives well-twisted (hymns), who receives very pleasurable  offerings,  
 who, like an envoy, has become desirable to install as god among the  god-directed people, as Jātavedas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stem suvṛktí- generally refers to a hymn and has in fact virtually been substantivized to mean hymn. However, it must be a bahuvrīhi in origin; I generally tr. ‘having a good twist’, referring to the clever adornments, the turns of phrase, of a skillfully crafted hymn. Here I think it has two senses: first, characterizing Agni himself as ‘having a good twist’, perhaps referring to his swirling smoke and flames, but then, as a sort of secondary or double bahuvrīhi, ‘having [/receiving] (hymns) with good twists’. In this meaning it is parallel to suprayásam ‘having [/receiving] pleasurable offerings’. Note that the two are both final in their pādas. I do not think Geldner’s “euren Preis” or Renou’s “hymne (incarné)” are either necessary or illuminating.
 
@@ -139,28 +139,28 @@ On the desiderative gerundive didhiṣā́yya- see comm. ad I.73.2. Although the
 The last pāda indulges in play with the name Jātavedas: devá ā́deve jáne jātávedāḥ. The first and last elements, devá … vedāḥ, are virtual mirror images, with the 2nd word ā́deve reinforcing the first, and jáne making an etymological figure with jātá.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR you I call theglorious refulgent Agni, the guest of men, rich in oblations  
      Whom all must strive to win even as a lover, God among godly people, Jatavedas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I call for you Agni, shining with beautiful shine, praised with beautiful praise 1, the guest of the clans, the receiver of fine offerings, who is desirable like Mitra (or, like an ally), Gâtavedas the god, among godly people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe den schönleuchtenden Agni, euren Preis, den gutbeköstigten Gast der Clane, der wie ein Freund gewonnen werden muß, der Gott unter dem götterfreundlichen Volke, der Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe euren glänzendsten, gepries'nen, den liebevollen Gast der Menschen, Agni; Den gern man sich wie einen Freund geneigt macht, den Wesenkenner, Gott bei Gott-ergebnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову дивно сверкающего Агни, вашу хвалу,  
 Гостя племен, дающего прекрасные жертвенные услады,  

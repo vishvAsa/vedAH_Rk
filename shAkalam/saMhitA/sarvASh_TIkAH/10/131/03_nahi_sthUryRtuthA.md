@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ स्थू꣡रि ऋतुथा꣡ यात꣡म् अ꣡स्ति  
 नो꣡त꣡ श्र꣡वो विविदे संगमे꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अश्वाय꣡न्तो वृ꣡षणं वाज꣡यन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 ग॒व्यन्तः॑ । इन्द्र॑म् । स॒ख्याय॑ । विप्राः॑ । अ॒श्व॒ऽयन्तः॑ । वृष॑णम् । वा॒जय॑न्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -109,36 +109,36 @@ genre M;; repeated line
 एकेन धुर्येण युक्तमनः स्थूरि इत्युच्यते । **ऋतुथा** ऋतौ यद्यस्मिन् काले प्राप्तव्यं तद्योग्यकाले **स्थूरि** **अनः** **यातं** तं देशं प्राप्तं **नहि** **अस्ति** न हि भवति । एकेन धुर्येण युक्तः शकटः शीघ्रं गन्तव्यं न प्राप्नोतीत्यर्थः । **उत** अपि च **संगमेषु** संग्रामेषु **श्रवः** अन्नं यशो वा **न** **विविदे** न लभते । इन्द्रस्तु उक्तविलक्षणः । **वृषणं** वर्षितारं तम् **इन्द्रं** **गव्यन्तः** गा इच्छन्तः **विप्राः** मेधाविनो वयं **सख्याय** सखिकर्मणे आह्वयाम इति शेषः । कथंभूताः । **अश्वायन्तः** अश्वानप्यात्मन इच्छन्तः **वाजयन्तः** अन्नकामा बलकामाश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The cart has not arrived in due season, nor does he acquire fame in battles, (let us), the sages,desiring cattle, desiring horses, desiring food, (solicit) **Indra**, the showerer, for his friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because a “one-horse” carriage doesn’t drive well, so fame has never  been acquired (thus) at the encounters.  
 Inspired ones, seeking cows, seeking horses, seeking prizes, (seek) the  bull Indra for partnership.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Men come not with one horse at sacred seasons; thus they obtain no honour in assemblies.  
      Sages desiring herds of kine and horses strengthen the mighty Indra for his friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einspännig ist ja nicht richtig gefahren; auch hat ein solcher in den Versammlungen keinen Ruhm gewonnen. Auf Kühe ausgehend rufen wir Redekundigen den Indra zur Freundschaft, auf Rosse ausgehend den Bullen, auf den Siegerpreis ausseiend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rechtzeitig kommt nicht, wer mit einem Ross fährt, der findet Ruhm nicht in der Festversammlung; Die Priester aber, Rind und Ross begehrend, sie sind es, die den Helden Indra stärken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь одноконный выезд бывает не по правилам,  
 И не находит (такой человек) славы в собраниях.  

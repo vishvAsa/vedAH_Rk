@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्रं꣡ ते अग्ने सहसिन्न् अ꣡नीकम्  
 उपाक꣡ आ꣡ रोचते सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रूक्षितं दृश꣡ आ꣡ रूपे꣡ अ꣡न्नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रुश॑त् । दृ॒शे । द॒दृ॒शे॒ । न॒क्त॒ऽया । चि॒त् । अरू॑क्षितम् । दृ॒शे । आ । रू॒पे । अन्न॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
@@ -129,7 +129,7 @@ genre M
 हे **सहसिन्** बलवन् **अग्ने** **ते** त्वदीयं **भद्रं** भजनीयम् **अनीकं** तेजः **सूर्यस्य** **उपाके** समीपभूते । दिवसे इत्यर्थः । **आ** **रोचते** समन्ताद्दीप्यते । **रुशत्** रोचमानं **दृशे** दर्शनीयं तेजः **नक्तया** **चित्** रात्रावपि **ददृशे** दृश्यते । आ इत्ययं शब्दः चेत्यर्थे वर्तते । **आ** किंच **अरूक्षितं** स्निग्धं **दृशे** दर्शनीयम् **अन्नं** पुरोडाशादिरूपं हविः **रूपे** रूपवति त्वयि ऋत्विगादिभिः हुतं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,13 +140,13 @@ genre M
 By day, by night: i.e., oblations are to be offered with fire both morning and evening
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Auspicious is your face, mighty Agni; it shines here in nearness to the Sun. Gleaming to be seen, it is seen even by night. Not coarse is the food  
 [=ghee] to be seen on its form.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second hemistich is full of phonological and etymological figures: drś̥ é dadrś̥ e ... drś̥ é (the last as dṛśá in sandhi) and (beg. in pāda b) ā́rocate ... rúśad ...
 
@@ -155,28 +155,28 @@ The second hemistich is full of phonological and etymological figures: drś̥ é
 As Geldner points out, Agni’s ‘not coarse’ (árūkṣita-) food must be ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of Surya.  
      Splendid to see, it shows even at nighttime, and food is fair to look on in thy beauty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy auspicious face, O mighty Agni, shines in the neighbourhood of the sun 1. Brilliant to see, it is seen even by night. Soft to behold is the food in thy (beautiful) body 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein erfreuliches Antlitz, du übermächtiger Agni, leuchte auch neben der Sonne. Weiß zu schauen, wird es auch in der Nacht gesehen. An seinem Äußeren ist die glatte Speise zu sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein schöner Lichtschein, o gewalt'ger Agni, erstrahlet herrlich in der Sonne Nähe; Voll Glanz zu schau'n erscheinst du in der Nacht auch an Pracht zu schau'n wie Speise, die von Fett glänzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твой благостный лик, о могучий Агни,  
 Сверкает даже рядом с солнцем.  

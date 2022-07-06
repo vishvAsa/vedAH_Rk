@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वावतीर् गो꣡मतीर् विश्वसुवि꣡दो  
 भू꣡रि च्यवन्त व꣡स्तवे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 चो꣡द रा꣡धो मघो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उत् । ई॒र॒य॒ । प्रति॑ । मा॒ । सू॒नृताः॑ । उ॒षः॒ । चोद॑ । राधः॑ । म॒घोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāvatīr* ← *aśvāvatīḥ* ← *aśvāvat*
 - \[noun\], nominative, plural, feminine
@@ -111,7 +111,7 @@ genre M
 **अश्वावतीः** बह्वश्वोपेताः **गोमतीः** बहुभिर्गोंभिर्युक्ताः **विश्वसुविदः** कृत्स्नस्य धनस्य सुष्ठु लम्भयित्र्यः उषोदेवताः **वस्तवे** प्रजानां निवासाय **भूरि** प्रभूतं यथा भवति तथा **च्यवन्त** प्राप्ताः । हे उषोदेवते **मा** **प्रति** मामुद्दिश्य **सूनृताः** प्रियहितवाचः **उदीरय** ब्रूहि। **मघोनां** धनवतां संबन्धि **राधः** धनं **चोद** अस्मदर्थं प्रेरय ॥ अश्वावतीः ।  ‘ मन्त्रे सोमश्वेन्द्रियविश्वदेव्यस्य मतौ' (पा. सू. ६. ३. १३१ ) इति पूर्वपदस्य दीर्घत्वम् ।  वा छन्दसि ' इति पूर्वसवर्णदीर्घनिषेधस्य पाक्षिकस्योक्तेः पूर्वसवर्णदीर्घत्वम् । च्यवन्त ।  ‘ च्युङ् गतौ । लङि  ‘ बहुलं छन्दस्यमाङ्योगेऽपि' इति अडभावः । वस्तवे। वस निवासे। तुमर्थे सेसेन्' इति तवेन्प्रत्ययः। नित्त्वादाद्युदात्तत्वम् । ईरय। ईर गतौ कम्पने च'। हेतुमति णिच् । चोद।' चुद संचोदने । चौरादिकः। लोटि ‘छन्दस्युभयथा' इति शपः आर्धधातुकत्वात् ‘णेरनिटि' इति णिलोपः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । पादादित्वात् निघाताभावः । मघोनाम् । षष्ठीबहुवचने ‘श्वयुवमघोनामतद्धिते' (पा. सू. ६. ४. १३३) इति संप्रसारणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 The epithets of Uṣas are in feminine plural, without a substantive: aśvavatiḥ, **gomatiḥ**, viśvasuvidaḥ; hence, assumed: uṣo-**devataḥ**, the many divinities of dawn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing horses and cows, finding all goods in abundance, (the dawns)  bestir themselves to shine.  
 Arouse liberalities toward me, o Dawn; stimulate the generosity of the  benefactors.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With most tr./comm. I follow Bloomfield in interpr. viśvasuvíd- as haplology for *viśva-vasu-víd-.
 
@@ -139,23 +139,23 @@ bhū́ri … saúbhagam in 9c below.
 On sūnṛ́tā- as ‘liberality, liberal (gifts)’, see Renou’s discussion here (EVP III.17), summarizing previous work.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They, bringing steeds and kine, boon-givers of all wealth, have oft sped forth to lighten us.  
      O Usas, waken up for me the sounds of joy: send us the riches of the great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rossereich, rinderreich, alle Schätze verschaffend, geben sie sich viele Mühe, um aufzuleuchten. Hole für mich Schenkungen heraus, o Usas; sporne die Freigebigkeit der Lohnherren an!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Rossen reich und Rindern, spendend alles Gut sind oft zum Leuchten sie genaht; So send' auch du mir reiches Gut, o Morgenroth; die Fürsten treib zum Schenken an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатые конями, богатые коровами, легко все находящие (зори)  
 Стремятся сильно сиять.  

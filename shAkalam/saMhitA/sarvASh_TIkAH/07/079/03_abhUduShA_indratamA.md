@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡भूद् उषा꣡ इ꣡न्द्रतमा मघो꣡नी  
 अ꣡जीजनत् सुविता꣡य श्र꣡वांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ङ्गिरस्तमा सुकृ꣡ते व꣡सूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । दि॒वः । दे॒वी । दु॒हि॒ता । द॒धा॒ति॒ । अङ्गि॑रःऽतमा । सु॒ऽकृते॑ । वसू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
@@ -105,7 +105,7 @@ genre M
 **इन्द्रतमा** सर्वस्येश्वरतमा **मघोनी** धनवती **उषाः** **अभूत्** प्रादुरभूत् । **सुविताय** कल्याणाय **श्रवांसि** अन्नानि **अजीजनत्** उदपादयत् । प्रकाशितवतीत्यर्थः । **दिवः** **दुहिता** **अङ्गिरस्तमा** गन्तृतमा। यद्वा । अङ्गिरोगोत्रैर्भारद्वाजैः सह रात्रेरप्युत्पत्ते रात्र्यवसानस्योषारूपत्वादङ्गिरस्तमेत्युच्यते । भारद्वाजै रात्रेः सहोत्पत्तिरनुक्रमण्यामुक्ता - रात्री कुशिकः सौभरो रात्रिर्वा भारद्वाजी ' (अनु. १०. १२७) इति । तादृश्युषाः **सुकृते** यजमानाय **वसूनि** धनानि **वि** **दधाति** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,13 +116,13 @@ genre M
 Mostprominent in movement: aṅgirastamā = gantritamā, most going; may also be a reference to **aṅgirasas**, ofwhose race the **Bhāradvājas**, a branch, are said to be cognatewith the night: aṅgiro gotrair bhāradvājaihsaha ratrerutpattiḥ, hence night is elsewhere termed **bharadvāji**, rātrirvā **bhāradvāji** (**rātrī** kuśikahsaubharo rātrirvā **bhāradvājī**: RV. 10.127). aṅgirastamā, most **aṅgirasa**, is applied to the dawn becauseit is the same thing as the end of the night, rātryarasanasyo śarūpatvāt: may be, a reference to the specialseason of fire-worship instrumental tuted by **aṅgirasās**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn has come to pass—a bounteous benefactor most like Indra; she  has generated fame for good faring.  
 The divine Daughter of Heaven, most like the Aṅgirases, apportions  goods to the man of good action.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 \#ábhūd uṣā́(ḥ) is reminiscent of \#ábhūd agníḥ in VII.77.2, though there the construction involved a predicated infinitive. See also VII.76.2 #ábhūd u ketúr uṣásaḥ.
 
@@ -135,23 +135,23 @@ As Renou points out, suvitā́ya in b recalls duritā́in VII.78.2.
 Pāda c displays heavy alliteration: ví divó devī́duhitā́dadhāti. The pattern is set in motion by the preverb ví, which, as was noted above, is the hymn’s signature word. The first three words in c have ví itself, its inverse (d)iv(ó), and a long-vowel variant (de)vī́, but in the meantime the d pattern has asserted itself and carries through to the end of the pāda. The elements of this sequence are found nearby each other in other hymns in this cycle, though not with the same intense concentration. Cf. esp. VII.77.5-6: 5b devi, 5c dádhatī, 6a divó duhitā́.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealthy, most like to Indra, Dawn hath risen, and brought forth lauds that shall promote our welfare.  
      Daughter of Heaven, a Goddess, she distributes, best of Angirases, treasures to the pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Usas, die indraähnlichste, gabenreiche ist erschienen; sie hat die rühmlichen Werke zum Heil bereitet. Die Töchter des Himmels, die Göttin, die erste der Angiras´, teilt dem Frommen Schätze aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschienen ist die indragleichste, reiche, die Morgenröthe, Gut zum Heile schaffend; Des Himmels Tochter, sie die schönste Botin, die Göttin schenkt dem Frommen reiche Güter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Явилась Ушас, самая похожая на Индру, щедрая.  
 Она породила славные деяния на благо (людей).  

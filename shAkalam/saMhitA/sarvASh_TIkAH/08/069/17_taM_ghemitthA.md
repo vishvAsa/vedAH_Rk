@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ घेम् इत्था꣡ नमस्वि꣡न  
 उ꣡प स्वरा꣡जम् आसते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आवर्त꣡यन्ति दाव꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अर्थ॑म् । चि॒त् । अ॒स्य॒ । सुऽधि॑तम् । यत् । एत॑वे । आ॒ऽव॒र्तय॑न्ति । दा॒वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -111,7 +111,7 @@ genre M
 **तं** **घ** तं खलु **ईम्** एनमिन्द्रम् **इत्था** इत्थमनेन प्रकारेण **नमस्विनः** अन्नवन्तः स्तुतिवन्तो वाध्वर्य्वादयः **स्वराजं** स्वयं राजमानं वा **उप** **आसते** सेवन्ते । तथा कृत्वा **अर्थं** **चित्** अरणीयं धनं **सुधितं** सुष्ठु स्थापितम् **अस्य** इन्द्रस्य संबन्धिनं प्राप्नुवन्तीति शेषः । कदेति आह । **यत्** यदा **एतवे** अस्येन्द्रस्य गमनाय स्वयं प्राप्तुं वा **दावने** हविर्दानाय **आवर्तयन्ति** स्तुतयः तदेत्यर्थः । अथवाश्वा वावर्तयन्ति तदेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ genre M
 His horses: or, their praises
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bringing homage, they reverently approach him, their sovereign king,  just so.  
 Just this is his well-set goal when they turn him here to come and  
 to give.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -137,23 +137,23 @@ Note the responsion of 17b … āsate# and 18d … āśata#.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With reverence they come hitherward to him as to. a Sovran lord,  
      That they may bring him near for this man's good success, to prosper and bestow his gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn erwarten sie hier unter Verbeugungen, den Selbstherrscher. Sein Zweck ist sogar voll erreicht, wenn sie ihn zum Kommen, zum Schenken bewegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihn vor allem, den selbststrahlenden [Indra] verehren die Anbetungsvollen; all sein Werk ist wol eingerichtet, wenn sie ihn herwenden, dass er schenke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

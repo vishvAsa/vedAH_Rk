@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡म् इ꣡न्धानो म꣡नसा  
 धि꣡यं सचेत म꣡र्तियः  
 अग्नि꣡म् ईधे विव꣡स्वभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निम् । ई॒धे॒ । वि॒वस्व॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -80,7 +80,7 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मर्त्यः** मनुष्यः **अग्निमिन्धानः** काष्ठैः प्रज्वलयन् **मनसा** एव श्रद्दधानः **धियं** कर्म **सचेत** काले भजेत । **विवस्वभिः** ऋत्विग्भिश्च **अग्निम्** एव **ईधे** प्रज्वलयति ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,13 +91,13 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Idhe = indhe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kindling Agni with his mind, the mortal should follow his visionary  thought.  
 I have kindled Agni with the dawning lights.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
 <details open><summary><h2>19-22 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ See published introduction. for my general interpr. of these verses.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he enkindles Agni, man should with his heart attend the song:  
      I with the priests have kindled him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indem er den Agni im Geiste entzündet, soll der Sterbliche dabei dem Gedanken nachgehen: Ich habe den Agni mit den Morgenstrahlen entflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündend Agni frommen Sinns, vollführe sein Gebet der Mensch, Mit Funken hab' ich ihn entflammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть смертному, мысленно зажегшему  
 Агни, придет в голову соображение:  

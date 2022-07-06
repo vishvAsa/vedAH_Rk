@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अस्मा꣡सु का꣡विय  
 ऋभु꣡र् व꣡ज्रो दा᳐꣡स्वते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ऋभु꣡र् न꣡ कृ꣡त्वियम् म꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । बि॒भ॒र्ति॒ । ऊ॒र्ध्वऽकृ॑शनम् । मद॑म् । ऋ॒भुः । न । कृत्व्य॑म् । मद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -108,37 +108,37 @@ genre M
 **अस्मासु** स्तोतृषु **काव्यः** स्तुत्यः **अयम्** इन्द्रः. **ऋभुः** दीप्तः सन् **दास्वते** दानयुक्ताय यजमानाय **वज्रः** शत्रूणां वर्जको भवति । यद्वा । दास्वत इति षष्ठ्यर्थे चतुर्थी । अस्मासु दास्वते दानवत इन्द्रस्य वज्रः कुलिशः ऋभुः उरु भासमानो भवति । अपि च **अयम्** **ऊर्ध्वकृशनम्** उद्गततैक्ष्ण्यमेतत्संज्ञं वा यामायनसमृषिं **मदं** स्तोतारं **बिभर्ति** पोषयति । तथा, **ऋभुर्न** सौधन्वनः । पुत्राणामाद्य ऋभुः । स इव **कृत्व्यं** कर्मणां कर्तारम् अत एव **मदं** मोदयितारं यजमानं च बिभर्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Indra**), adorable among us and brilliant, is a thunderbolt for the donor (of the oblation against hisfoes); he cherishes the exhilarating (worshipper) ūrdhvakṛśana, as **Ṛbhu** (cherishes) the exhilaratingcelebrator of holy rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is a craftsman in poetic art among us and a mace for the one  
 generous with gifts.  
 Like a craftsman, he brings the exhilarating drink with pearls [=bubbles]  on top—the exhilarating drink that gets results.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here, by us, for the worshipper, is the wise bolt that works with skill.  
      It brings the bubbling beverage as a dexterous man brings the effectual strong drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei uns ist dieser Seherische, der Ribhu, die Keule für den Freigebigen. Dieser trägt den aufperlenden Rauschtrank, wie Ribhu den siegesgewissen Rauschtrank.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn dieser [Indu] ist bei uns ein weiser Künstler, ein Blitz dem darbringenden, er trägt den oben perlenden Rauschtrank, wie ein geschickter [Opferer] den wirksamen Rauschtrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот (сок) – поэтическая сила у нас.  
 Искусная ваджра для готового дарить (Индры).  

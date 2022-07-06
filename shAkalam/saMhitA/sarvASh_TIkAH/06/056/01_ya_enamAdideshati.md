@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ एनम् आदि꣡देशति  
 करम्भा꣡द् इ꣡ति पूष꣡णम्  
 न꣡ ते꣡न देव꣡ आदि꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 न । तेन॑ । दे॒वः । आ॒ऽदिशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** स्तोता **एनं** **पूषणं** पोषकं **करम्भात्** करम्भाणां घृतमिश्राणां यवसक्तूनाम् अत्ता **इति** **आदिदेशति** अभिष्टौति **तेन** पुरुषेण अन्यः **देवः** **न** **आदिशे** आदेष्टव्यः स्तोतव्यो न भवति । पूष्ण एव सर्वस्याभिमतस्य धनस्य लाभात् देवतान्तरं न स्तौतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,36 +94,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Karambhāt iti: **karambha** is said to be a mixture of parched barley-meal and butter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will designate him, Pūṣan, as “porridge-eater,”  
 by him the god (need) not be designated (again).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published translation, there is difference of opinion about the purport of pāda c ná téna devá ādíśe. Geldner thinks it’s a positive expression (n. 1c): Pūṣan likes porridge so much that he’ll come without being asked twice. Renou thinks it’s more ambiguous: for him the idiom ā́√diś means ‘target’ (viser), incl. by evil speech or the like, hence ‘menace’ -- here, targeting Puṣan with the epithet means that he doesn’t have to be targeted “réellement.” (Klein’s [DGRV I.420] I just don’t understand: “by that one is the heavenly one not to be so designated.” Does he think that in using that nickname the human is being too familiar with the god?) I find Renou’s interpr. simply puzzling, but, though Geldner’s is more persuasive, I think the point is rather that the epithet is a unique designation that picks out Pūṣan once and for all.
 
 The usage of ā́√diś in nearby VI.48.14 is similar; see disc. there. See also VI.57.2 below. Michael Weiss adds arguments supporting my interpr.: “In Vedic prose ā́√diś is used to refer to the specification of which god gets which offering and I think this may be an old old meaning of this verb with parallels in Umbrian.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHOSO remembers Pusan as cater of mingled curd and meal  
      Need think no more upon the God.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihn, den Pusan, mit dem Wort "Breiesser" gemahnt, von dem läßt sich der Gott nicht mahnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer höhnend zu dem Puschan spricht: »Ein Grützeesser bist du ja«, Nicht duldet dessen Hohn der Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто на него нацеливается,  
 (Называя) Пушана: едок каши, –  

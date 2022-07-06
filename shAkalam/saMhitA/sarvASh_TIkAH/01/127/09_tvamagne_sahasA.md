@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने · स꣡हसा स꣡हन्तमः  
 शुष्मि꣡न्तमो जायसे देव꣡तातये  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 श्रुष्टीवा꣡नो न꣡ अजर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अध॑ । स्म॒ । ते॒ । परि॑ । च॒र॒न्ति॒ । अ॒ज॒र॒ । श्रु॒ष्टी॒वानः॑ । न । अ॒ज॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -156,7 +156,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **अग्ने** **त्वं** **सहसा** बलेन **सहन्तमः** अतिशयेन शत्रूणामभिभविता तथा **शुष्मिन्तमः** अतिशयेन तेजस्वी **जायसे** ॥ सहेरौणादिकः कनिन् । ‘नाद्धस्य' इति नुट् । किमर्थम् । **देवतातये** देवानां विस्तारयुक्ताय यागाय तदर्थम् । यज्ञनामैतत् । यद्वा । उक्तगुणविशिष्टः स जायसे । अरण्योरुत्पद्यसे । यज्ञार्थत्वे दृष्टान्तः । रयिर्न **देवतातये** । धनं यथा यज्ञार्थमुत्पद्यते । तथा चोक्तं-- ‘ यज्ञार्थं द्रव्यमुत्पन्नम्' इति । किंच **ते** तव **मदः** आज्यस्वीकारजनितो हर्षः! **शुष्मिन्तमः** अतिशयेन बलवान् । हिशब्दः प्रसिद्धौ । आज्येन अग्नेर्मदो भवतीति प्रसिद्धम् । अपि च ते **क्रतुः** कर्मविशेषोऽपि **द्युम्निन्तमः** यशोयुक्तोऽन्नयुक्तो वा खलु । ' द्युम्नं द्योततेर्यशो वान्नं वा ' ( निरु. ५. ५) इति यास्कः । **अध** अतः कारणात् **अजर** हे जरारहिताग्ने **ते** त्वां **परि** **चरन्ति** यजमानाः । तत्र दृष्टान्तः । **श्रुष्टीवानो** **न** दूता इव । ते यथा वार्ताविशेषप्रदानेन राजानं सेवन्ते तद्वत् ॥'छन्दसीवनिपौ' इति वनिप् । छान्दसं प्रत्ययाद्युदात्तत्वम् ॥ **अजर** भक्तानामजरयितः ॥ अन्तर्भावितण्यर्थात् पचाद्यच् । यद्वा । अजर अस्तोतः । जरा स्तुतिः । असौ न कस्यापि स्तोता भवति किंतु सर्वैः स्वयं स्तूयते । तादृशं त्वां परिचरन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -167,43 +167,43 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **Ajara** = undecaying, not causing decay; or, one who does not praise others; one to whom along praise is due
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, are born as strongest by your strength, most tempestuous,  for the divine conclave—like wealth for the divine conclave—  
 for most tempestuous is your exuberance and most brilliant your  resolve—  
 and then they attentively surround you, o unaging one—like obedient  (servants), o unaging one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax splv. sáhantama- does not require the positing (with Grassmann) of an otherwise unattested n-stem sáhan-. A nonce derivation from the pres. part. sáhant- (with simplification of the cluster sáhan(t)-tama-, with AiG II.2.597, etc.) is certainly possible, and the full grade with nasal might have been constructed as a partial match for its parallels śuṣmíntama- and dyumníntama-.
 
 I.127.9-10: The ends of both a-pādas are variants of each other: 9a … sáhasā sáhantamaḥ, 10a … sáhasā sáhasvate, each following a metrical rest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, most victorious with thy conquering strength, most Mighty One, art born for service of the Gods, like wealth for service of the Gods.  
      Most mighty is thine ecstasy, most splendid is thy mental power.  
      Therefore men wait upon thee, undecaying One, like vassals, undecaying One.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art born, the mightiest by might 1, for the divine world, the strongest one, like wealth for the divine world. For thy delight is most strong, and thy power is most brilliant. And they walk around thee 2, O (god) who never growest old, like obedient (servants), O (god) who never growest old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni wirst als der an Macht mächtigste, als der ungestümste für den Gottesdienst, denn deine Begeisterung ist die ungestümste und deine Einsicht die erleuchtetste. Darum dienen sie dir, du Alterloser, wie Hörige, du Alterloser.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni du, als kräftigster an Siegeskraft, als mächtiger wirst du erzeugt zum Gottesdienst, wie Reichthum zu dem Gottesdienst, Dein Rausch ist ja der mächtigste, dein Wille ist der kräftigste, Drum huldigen dir alle, der du nie verlischst, wie Diener, der du nie verlischst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, самый сильный по силе,  
 Самый неистовый, рождаешься для службы богам,  

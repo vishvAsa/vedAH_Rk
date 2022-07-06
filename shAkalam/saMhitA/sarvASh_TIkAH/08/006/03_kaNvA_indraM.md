@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ण्वा इ꣡न्द्रं य꣡द् अ꣡क्रत  
 स्तो꣡मैर् यज्ञ꣡स्य सा꣡धनम्  
 जामि꣡ ब्रुवत आ꣡युधम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जा॒मि । ब्रु॒व॒ते॒ । आयु॑धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कण्वाः** । स्तोतृनामैतत् । स्तोतारः कण्वगोत्रा वा **इन्द्रं** **स्तोमैः** स्तोत्रैः **यज्ञस्य** यागस्य **साधनं** साधयितारं निष्पादकं **यत्** यदा **अक्रत** अकृषत । करोतेर्लुङि ‘मन्त्रे घस' इति च्लेर्लुक् । तदानीम् **आयुधं** शत्रूणां हिंसकं बाणादिकं **जामि** । अतिरेकनामैतत् । अतिरिक्तमहितं प्रयोजनरहितं **ब्रुवते** कथयन्ति । आयुधसाध्यस्य सर्वकार्यस्येन्द्रेण कृतत्वादायुधं निष्प्रयोजनमित्यर्थः। यद्वा । आयुधमायोधनशीलमिन्द्रं जामि जामिं भ्रातरं ब्रुवते वदन्ति । सर्वकार्येषु भ्रातृवद्वर्तत इत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,29 +103,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Jāmi = jāmim, kinsman; they call Indra bearing weapons, brother, bhrātaram bruvate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Kaṇvas—when by their praises they have made Indra the one who  assures success to their sacrifice,  
 they are speaking their own familial weapon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Since Kanvas with their lauds have made Indra complete the sacrifice.  
      Words are their own appropriate arms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Kanva´s durch ihre Lobgesänge den Indra zum Erfüller ihres Opfers gemacht haben, berufen sie sich auf die verwandtschaftliche Waffe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Seit Indra durch der Kanva's Lied zum Opferfördrer ist erseh'n, Heisst Bruder ihnen sein Geschoss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Канвы (своими) восхвалениями  
 Сделали Индру тем, кто приводит жертву к цели,  

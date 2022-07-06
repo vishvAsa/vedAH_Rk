@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ नो अग्ने अधरा꣡द् उ꣡दक्तात्  
 तुव꣡म् पश्चा꣡द् उत꣡ रक्षा पुर꣡स्तात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अघ꣡शंसं शो꣡शुचतो दहन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्रति॑ । ते । ते॒ । अ॒जरा॑सः । तपि॑ष्ठाः । अ॒घऽशं॑सम् । शोशु॑चतः । द॒ह॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -121,35 +121,35 @@ popular
 हे **अग्ने** **त्वं** **नः** अस्मान् **अधरात्** दक्षिणतः। उत्तरादिदिक्समभिव्याहारादधरशब्दोऽत्र दक्षिणदिक्पर इति विज्ञायते । **उदक्तात्** उत्तरतश्च **रक्ष** पाहि । **उत** अपि च हे अग्ने **त्वं** **पश्चात्** पश्चिमतः **पुरस्तात्** पूर्वतश्च नोऽस्मान् रक्ष । चतसृषु दिक्ष्ववस्थितेभ्यो राक्षसेभ्योऽस्मान् पाहीत्यर्थः । किंच **ते** तव संबन्धिनः **ते** **तपिष्ठाः** अतिशयेन तप्यमानाः **अजरासः** जरावर्जिताः **शोशुचतः** ज्वलन्तः सन्तो रश्मयः **अघशंसं** पापशंसकं राक्षसं **प्रति** **दहन्तु** भस्मीकुर्वन्तु ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Agni**, protect us on the south, on the north, on the west, and on the east; may these, yourundecaying, scorching, blazing (flames), consume the perpetrator of wickedness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Guard us from below and from above, Agni, from behind and from in front. Let these unaging, hottest (flames) of yours, ever blazing, burn against  the man who speaks evil.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guard us, O Agni, from above and under, protect us fl-om behind us and before us;  
      And may thy flames, most fierce and never wasting, glowing with fervent heat, consume the sinner.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütze du uns, Agni, von unten, von oben, du von hinten und von vorne! Deine nicht alternden heißesten Flammen sollen glühend den Übelredenden versengen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschütz von unten, Agni, uns von oben, beschirme uns von hinten und von vorne, Den Bösen mögen deine stärksten Gluten, die nie erlöschen, flammend niederbrennen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защищай ты нас, о Агни, снизу, сверху,  
 Ты – сзади, а также спереди!  

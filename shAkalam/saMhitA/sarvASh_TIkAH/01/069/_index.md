@@ -8,7 +8,7 @@ title = "+069"
 शुक्रः' इति द्वैपदं दशर्चम् अध्ययनतः पञ्चर्चं पञ्चमं सूक्तं पराशरस्यार्षमाग्नेयम् । शुक्रः ' इत्यनुक्रान्तम् । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 69  
 Agni  
@@ -20,7 +20,7 @@ The clans are mentioned explicitly in verse 5, which describes Agni’s extensio
 The final verse (10) describes the successful dawn sacrifice and the rising of the  sun that accompanies it. The rejoicing of “all” at the sight of the sun introduces  into this hymn the “all” that dominated the paired hymn I.68.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni As discussed in the published introduction. and in the art. cit., this hymn is twinned with I.68.
 

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरुशं꣡सा नमोवृ꣡धा  
 मह्ना꣡ द꣡क्षस्य राजथः  
 द्रा꣡घिष्ठाभिः शुचिव्रता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 द्राघि॑ष्ठाभिः । शु॒चि॒ऽव्र॒ता॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uruśaṃsā* ← *uru*
 - \[noun\]
@@ -80,43 +80,43 @@ genre M
 **शुचिव्रता** परिशुद्धकर्माणौ हे मित्रावरुणौ **उरुशंसा** उरुभिर्बहुभिः शंसनीयौ । यद्वा । उरु महत् शंसः शस्त्रं ययोस्तौ । **नमोवृधा** नमसा हविर्लक्षणेनान्नेन स्तोत्रेण वा वर्धमानौ **द्राघिष्ठाभिः** अत्यन्तं दीर्घस्तुतिलक्षणाभिर्वाग्भिर्युक्तौ युवां **दक्षस्य** । दक्षं धनं बलं वा । तस्य **मह्ना** महत्त्वेन **राजथः** ईशाथे ॥ उरुशंसा । ' शंसु स्तुतौ ' । कर्मणि घञ् । कृत्स्वरः । द्राघिष्ठाभिः । दीर्घशब्दादिष्ठनि  ‘ प्रियस्थिर 'इत्यादिना द्राघीत्यादेशः । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Performers of pure rites, glorified by many, exalted by adoration, (celebrated) by prolonged praises, you reign by the greatness of (your) strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Widely proclaimed, increasing through reverence, you rule by the  greatness of your skill  
 through the longest (spaces? times?), you of blazing commandments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of the splv. instr. pl. drā́ghiṣṭhābhiḥ is unclear. This is the only occurrence of the superlative in the RV, and neither dīrghá- nor the cmpv.
 
 drāghīyas- occurs in the instr. pl. The standard interpr., that the splv. here is temporal (Grassmann ‘in längster Dauer’), seems reasonable, but not assured.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-ruling, joyful when adored, ye reign through majesty of might,  
      With pure laws everlastingly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Wort weithin dringend, reich an Huldigungen herrschet ihr kraft eures Verstandes am längsten, lauteren Waltens.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weitherrschend, durch Gebet erfreut, gebietet ihr mit grosser Macht Auf ew'ge Zeit, o Heilige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Широко прославляемые, крепнущие от поклонения,  
 Вы двое правите с величием силы действия  

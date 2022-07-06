@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अस्य वि꣡ष्णुर् महिमा꣡नम् ओ꣡जसा  
 अंशुं꣡ दधन्वा꣡न् म꣡धुनो वि꣡ रप्शते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वृत्रं꣡ जघन्वाँ꣡ अभवद् व꣡रेणियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वेभिः॑ । इन्द्रः॑ । म॒घऽवा॑ । स॒याव॑ऽभिः । वृ॒त्रम् । ज॒घ॒न्वान् । अ॒भ॒व॒त् । वरे॑ण्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -126,37 +126,37 @@ genre M
 **विष्णुः** एतन्नामकः । व्याप्तो यज्ञो वा। **मधुनः** मदकरस्य सोमस्य **अंशुं** लताखण्डं **दधन्वान्** प्रेरयन् ॥ धवेर्गत्यर्थस्य क्वसौ इदित्त्वानुमागमे कृते वलि लोपः ॥ **ओजसe** स्ववीर्येण संजातम् **अस्य** इन्द्रस्य **तं** **महिमानं** **वि** **रप्शते** विविधं शब्दयति । स्तौति । **मघवा** धनवान् **सयावभिः** ॥ याते:  ‘ आतो मनिन् ' इति क्वनिप् ॥ सहगन्तृभिः **देवेभिः** देवैः मरुद्भिश्च **वृत्रं** जघन्वान् हतवान् **इन्द्रः** **वरेण्यः** सर्वैर्वरणीयः संभजनीयः **अभवत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Viṣṇu** offering the portion of the **Soma**, glorified by his own vigour that greatness of his. **Indra**, thelord of wealth, with the associated gods having slain **Vṛtra**, became deserving of honour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Viṣṇu with his strength (assisted) his [=Indra’s] greatness, having run to  the plant [=soma]. It teems with honey.  
 Upon smiting Vr̥tra with the gods [=Maruts] as fellow travelers,  
 bounteous Indra became worthy to be chosen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This majesty of his Visnu extols and lauds, making the stalCthat gives the meath flow forth with inight.  
      When Indra Maghavan with those who followed him had smitten Vrtra he deserved the choice of Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese seine Größe stärkte Vishnu mit Kraft, der den Somastengel fließen lies. Er ist voll des süßen Tranks. Nachdem Indra mit seinen Gefährten, den Göttern, den Vritra, erschlagen hatte, ward er der Auserwählte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Macht hat Vischnu diese seine Grösse noch gesteigert, als er strömen liess den süssen Saft; Nachdem begleitet von den Göttern er mit Macht erlegt den Vritra, da ward Indra vielbegehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его величие (своей) силой (укрепил) Вишну,  
 Заставив струиться стебель сомы. Он переполнен медом.  

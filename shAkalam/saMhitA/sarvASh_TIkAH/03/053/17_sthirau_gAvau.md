@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्थिरउ꣡ गा꣡वौ भवतां वीळु꣡र् अ꣡क्षो  
 मे꣡षा꣡ वि꣡ वर्हि मा꣡ युगं꣡ वि꣡ शारि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्टनेमे अभि꣡ नः सचस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इन्द्रः॑ । पा॒त॒ल्ये॒३॒॑ इति॑ । द॒द॒ता॒म् । शरी॑तोः । अरि॑ष्टऽनेमे । अ॒भि । नः॒ । स॒च॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sthirau* ← *sthira*
 - \[noun\], nominative, dual, masculine
@@ -138,7 +138,7 @@ popular
 राज्ञः सुदासो यज्ञेऽवभृथं कृत्वा यज्ञशालातो निर्गन्तुमिच्छन् रथे अश्वादिकं युञ्जानो विश्वामित्रो रथाङ्गानि स्तौति । **गावौ** । गच्छत इति गावावश्वौ । **स्थिरौ** **भवताम्** । **अक्षः** च **वीळुः** दृढो भवतु । **ईषा** दण्डश्च **मा** **वि** **वर्हि** विनष्टो मा भवतु । **युगं** च **मा** **वि** **शारि** विशीर्णं मा भवतु । **इन्द्रः** **पातल्ये** पतनशीले कीलके **शरीतोः** विशरणात् प्राक् **ददतां** धारयतु । हे **अरिष्टनेमे** अहिंसितप्रधिविशिष्ट हे रथ **नः** अस्मान् **अभि** आभिमुख्येन **सचस्व** संगतो भव ॥ वि वर्हि । ' वृहि वृद्धौ । विपूर्वो वृहिर्विनाशे वर्तते । अस्मात् कर्मकर्तरि लुङि ‘चिण् भावकर्मणोः' इति चिण् । चिणो लुक्' इति तप्रत्ययस्य लुक् । निघातः । युगम् । युगशब्दे उञ्छादिषु रथाद्युपकरणेऽर्थे घञन्तत्वेन निपातनादगुणत्वम् । तत्र पाठादन्तोदात्तत्वम् । शारि । ‘ शॄ हिंसायाम्' इत्यस्य लुङि रूपम् । अरिष्टनेमे । पादादित्वात् षाष्टिकमाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ popular
 The horses: gāvau gaccheta iti gāvau aśvau: **gāvā** implies those who go, or, in this plural ce, horses; car be ready for us: **Viśvāmitra** being about to depart from the sacrifice of **Sudās**, invokes good fortune for his conveyance
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the two oxen be steadfast, the axle firm; let the chariot-pole not be  torn off, nor the yoke be broken off.  
 Let Indra keep the two pātalyas [=pieces of chariot?] from breaking.  You with indestructible wheel-rims, escort us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, this verse and the rest of this little section are reminiscent of the final vs. of III.33.13, against disaster on a journey, specifically there a river crossing.
 
@@ -164,23 +164,23 @@ The hapax pātalyè is entirely unclear, besides being a dual referring to some 
 On the thematic medial stem dáda- in the sense ‘hold, keep safe’, see Gotō (1st Class, 171-72, flg. Wackernagel).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong be the pair of oxen, firm the axles, let not the pole slip nor the yoke be broken.  
      May Indra, keep the yoke-pins from decaying: attend us, thou whose fellies are uninjured.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Rinder sollen ausdauernd sein und fest die Achse. Nicht soll die Deichsel abreißen, nicht das Joch zerbrechen. Indra soll die beiden Wagenstützen vor Bruch bewahren. Du, dessen Radfelge nicht Schaden nimmt, steh uns zur Seite!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stark seien die Riemen, fest die Wagenachse; nicht zersplittere die Deichsel, nicht zerbreche das Joch; Indra bewahre die beiden Radbüchsen vor Zertrümmerung, du, dessen Radkränze unversehrt sind, sei uns huldreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будут крепкими два быка, прочной ось!  
 Да не сорвется дышло, не разломается ярмо!  

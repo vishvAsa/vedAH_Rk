@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रश्मीँ꣡र् इव यछतम् अध्वराँ꣡ उ꣡प  
 श्यावा꣡शुवस्य सुन्वतो꣡ मदच्युता  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 अ꣡श्विना तिरो꣡अह्नियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । अश्वि॑ना । ति॒रःऽअ॑ह्न्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *raśmīṃr* ← *raśmi*
 - \[noun\], accusative, plural, masculine
@@ -103,36 +103,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **श्यावाश्वस्य** मम **अध्वरान्** **रश्मीनिव** यथाश्वप्रग्रहांस्तद्वत् **उप** **यच्छतम्** उपगच्छतम् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Humblers of the pride (of your enemies), seize the sacrifices of **Śyāvāśva** offering libations as youseize your reins; and united with the dawn and with **Sūrya**, (drink), **Aśvins**,(the **Soma**) prepared the previousday.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Control the rites of the presser Śyāvāśva like reins, o you roused to  exuberance.  
 – In concert with Dawn and the Sun, o Aśvins, (drink) the (soma) aged  overnight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seize, as ye grasp the reins, Syavasva's solemn rites who presses out the Soma, ye who reel in joy.  
      Accordant, of one mind with Surya and with Dawn, drink juice, O Asvins, three days old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ziehet wie die Zügel an euch des somapressenden Syavasva Opfergaben, ihr Rauscherregten! Einträchtig mit Usas und Surya trinket den gestrigen Soma, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Zügel lenkt die Opfergaben zu euch hin des Somapressers Çjāvaaçva, trunkerregt, Vereinigt mit der Sonne und dem Morgenroth trinkt, Ritter, den gegorenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как вожжами, управляйте обрядами  
 Шьявашвы, выжимающего (сому), о возбужденные опьянением!  

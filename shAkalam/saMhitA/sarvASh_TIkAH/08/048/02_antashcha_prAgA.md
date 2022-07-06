@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अन्त꣡श् च प्रा꣡गा अ꣡दितिर् भवासि  
 अवयाता꣡ ह꣡रसो दइ꣡वियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रउ꣡ष्टीव धु꣡रम् अ꣡नु राय꣡ ऋध्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 इन्दो॒ इति॑ । इन्द्र॑स्य । स॒ख्यम् । जु॒षा॒णः । श्रौष्टी॑ऽइव । धुर॑म् । अनु॑ । रा॒ये । ऋ॒ध्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *antaś* ← *antar*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre D
 हे सोम त्वम् **अन्तश्च** **प्रागाः** । हृदयस्य यागागारस्य वान्तर्गच्छसि । गत्वा च **अदितिः** अदीनस्त्वं **दैव्यस्य** **हरसः** क्रोधस्य **अवयाता** पृथक्कर्ता **भवासि** भवसि । हर इति क्रोधनाम । हे **इन्दो** सोम त्वम् **इन्द्रस्य** **सख्यं** जुषाणः सेवमानः **श्रौष्टी** । श्रुष्टीति क्षिप्रनाम । तत्संबन्धी श्रौष्टी । क्षिप्रगाम्यश्वः **धुरम्** **इव** **राये** अस्माकं धनलाभाय **अनु** **ऋध्याः** अनुगच्छसि । अथवाश्वो यथा धुरं वृत्त्वाभिमतदेशं प्रापयति तद्वदस्मान् प्रापय। अनुपूर्वं ऋधिर्गत्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,42 +128,42 @@ genre D
 You enter within: the heart or the sacrificialchamber
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you have gone within, you will become Aditi [/boundlessness],  appeaser of divine wrath.  
 Drop, enjoying the comradeship of Indra, like an obedient mare  
 following the chariot-pole, you should follow riches to fulfillment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is a paradox, in that confinement within leads to boundlessness. Following Geldner et al., I take ca as a subordinator; the accentuation of prā́gā(ḥ) is ambiguous: the Pp. reads prá agāḥ, but pra-ágāḥ is equally possible (so Oldenberg).
 
 How to resolve the sandhi in śraúṣṭīva is discussed by Oldenberg at some length; with him I take it as a fem. nom. sg. śraúṣṭī. The Pp. analyzes rāyá as rāyé, but rāyáḥ is also possible, either as gen. sg. or acc. pl. I take it as the latter. My tr. of this pāda is closest to Renou’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Tlou shalt be Aditi as thou hast entered within, appeaser of celestial anger.  
      Indu, enjoying Indra's friendship, bring us - as a swift steed the car - forward to riches.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Thou shalt be Aditi when thou hast entered Within, appeaser of celestial anger. May'st thou, O drop, enjoying Indra's friendship, Like willing mare the car, to wealth advance us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du ins Innere gegangen bist, sollst du zur Aditi werden, den göttlichen Zorn abwendend. O Saft, mögest du dich der Freundschaft Indra´s erfreuen und dich, um Reichtum zu gewinnen, wie eine folgsame Stute ins Joch schicken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du tratest ein bei mir, so sei mir heilvoll, und nimm hinweg von mir den Zorn der Götter; O Indu, der du liebst des Indra Freundschaft, lenk her uns Reichthum, wie das Ross den Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты проник внутрь, ты становишься безграничностью,  
 Тем, кто отводит божественную немилость.  

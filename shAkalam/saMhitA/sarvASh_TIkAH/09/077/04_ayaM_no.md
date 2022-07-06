@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ नो विद्वा꣡न् वनवद् वनुष्यत꣡  
 इ꣡न्दुः सत्रा꣡चा म꣡नसा पुरुष्टुतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ग꣡वाम् उरुब्ज꣡म् अभि꣡ अ꣡र्षति व्रज꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒नस्य॑ । यः । सद॑ने । गर्भ॑म् । आ॒ऽद॒धे । गवा॑म् । उ॒रु॒ब्जम् । अ॒भि । अर्ष॑ति । व्र॒जम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **अयम्** **इन्दुः** सोमः **नः** अस्मान् **वनुष्यतः** हन्तुमिच्छतः शत्रून् **विद्वान्** जानन् हन्तुं **वनवत्** हन्तु तान् । केन साधनेन । **सत्राचा** सहाञ्चता **मनसा** । कीदृशः । **पुरुष्टुतः** बहुभिः स्तुतः । **यः** सोमः **इनस्य** ईश्वरस्याग्नेः **सदने** स्थाने भूमौ वेद्यां वा वर्तमानः **गर्भमादधे** धारयत्योषधीषु । **यश्च** **गवाम्** अस्मदीयानां शत्रुभिरपहृतानाम् **उरुब्जं** प्रभूतानामपां पयसां जनकं **व्रजम्** **अभ्यर्षति** गच्छति । स वनवदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,36 +133,36 @@ genre M
 Milk-giving: urubja = from uru+ap+jan, producing abundant water (milk)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here, knowing how, will win against those who seek to win—the  drop praised by many with fully focused mind,  
 who has conceived the embryo in the seat of the powerful one and rushes  to the wide-open pen of cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the vs. seems to contain a paradox, whereby the masc. Soma conceives an embryo, most likely of himself. See Geldner’s n. 4c.
 
 The hapax urubjá- is puzzling. Grassmann’s suggestion that it derives from a phonological deformation of *ud-ubjá- seems reasonable, esp., as Mayrhofer points out (EWA s.v. UBJ), with the interference of urú-. Verbal forms of úd √ubj are found in AVŚ and TS.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May that much-lauded Indu, with a heart inclined to us, well-knowing, fight against our enemies.  
      He who hath brought the germ beside the Strong One's seat moves onward to the widely-opcned stall of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Saft soll kundig unsere Neider überbieten, von ganzem Herzen vielgepriesen, der am Sitz des Gebieters die Leibesfrucht empfangen hat und auf den geöffneten Pferch der Kühe losstürzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der viel gerühmte Indu überwältige uns alle Feinde mit gespannter Geisteskraft, Der Leibesfrucht gelegt hat in des starken Sitz, und hin zum weiten Stall der Kühe sich ergiesst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта капля пусть одержит верх как знаток  
 Над нашими завистниками, восхваленная многими, с мыслью, устремленная на одно,  

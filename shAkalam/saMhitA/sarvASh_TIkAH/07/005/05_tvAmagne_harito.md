@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने हरि꣡तो वावशाना꣡  
 गि꣡रः सचन्ते धु꣡नयो घृता꣡चीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानर꣡म् उष꣡सां केतु꣡म् अ꣡ह्नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पति॑म् । कृ॒ष्टी॒नाम् । र॒थ्य॑म् । र॒यी॒णाम् । वै॒श्वा॒न॒रम् । उ॒षसा॑म् । के॒तुम् । अह्ना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -108,35 +108,35 @@ genre M
 हे **अग्ने** **कृष्टीनां** प्रजानाम् । ‘क्षितयः कृष्टयः' इति मनुष्यनामसु पाठात् । **पतिं** स्वामिनं **रयीणां** धनानां **रथ्यं** नेतारम् **उषसाम्** **अह्नां** केतुं प्रज्ञापकं **वैश्वानरं** विश्वनरहितं **त्वां** **हरितः** अश्वाः **वावशानाः** कामयमानाः **सचन्ते** सेवन्ते । तथा **गिरः** नृणां स्तुतिरूपा वाचः **धुनयः** पापं धुन्वानाः **घृताचीः** घृतमञ्चन्त्यः । हविषा सहिता इत्यर्थः । सचन्ते ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The horses (of **Indra**), full of ardour, worship you, **Agni**; the praises (of men), dispersers (of iniquity),accompanied by oblations, (honour you), the lord of men, the conveyer of riches, the **Vaiśvānara** of dawns, themanifester of days.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Resounding ghee-rich songs—bellowing tawny mares—follow you, Agni, the lord of settlements, the charioteer of riches, Vaiśvānara, the beacon  of the dawns and of the days.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the tawny horses, loudly neighing our resonant hymns that drop with oil, attend thee;  
      Lord of the tribes, our Charioteer of riches, Ensign of days, Vaisvanara of mornings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, geleiten voll Verlangen als Falbinnen die Loblieder, die klangvollen, butterglatten, dich den Herrn der Völker, den Wagenlenker der Reichtümern, den Vaisvanara, das Banner der Morgen, der Tage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dir, o Agni, streben hin die Lieder, wie Rosse wiehernd, rauschend, fettversehen, Zum Herrn der Völker und des Reichthums Fährmann, zum Männerhort, dem Licht der Morgenröthen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, полные желания буланые кобылицы –  
 Хвалебные песни сопровождают, звонкие, намазанные жиром,  

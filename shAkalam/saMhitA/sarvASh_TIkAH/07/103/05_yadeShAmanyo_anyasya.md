@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् एषा᳐म् अन्यो꣡ अन्य꣡स्य वा꣡चं  
 शाक्त꣡स्येव व꣡दति शि꣡क्षमाणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त् सुवा꣡चो व꣡दथना꣡धि अप्सु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सर्व॑म् । तत् । ए॒षा॒म् । स॒मृधा॑ऽइव । पर्व॑ । यत् । सु॒ऽवाचः॑ । वद॑थन । अधि॑ । अ॒प्ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -135,7 +135,7 @@ popular
 हे मण्डूकाः यद्यदा एषां युष्माकं मध्ये अन्योमण्डूकः अन्यस्य मण्डूकस्य वाचं वदत्यनुवदति अनुकरोति शिक्षमाणः शिक्ष्यमाणः शिष्यः शाक्तस्येव शक्तिमतः शिक्षकस्य वाचं यथा अनुवदति तद्वत् । यत् यदा च सुवाचः शोभवाचोयूयं सर्वे अप्सु वृष्टेपूदकेषु अध्युपरिप्लवन्तः वदथन वदत शब्दङ्कुरुत तत्तदा एषां युष्माकं सर्वं पर्व परुष्मत् शरीरं समृधेव समृद्धमेव अविकलावयवमेव भवति इव शब्दोवधारणे घर्मकाले मृद्भावमापन्नामण्डूकाः पुनर्वर्षणे सति अविकलाङ्गाः प्रादुर्भवन्तीत्यर्थः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,41 +146,41 @@ popular
 During the dry weather,the frogs shrink like a lump of clay; in the rains they expand to their full size
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once one of them speaks the speech of the other, like a pupil that of his  teacher,  
 (then) a whole section of them speaks as if in unison, when you of good  speech speak amid the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pedagogical model seen in vs. 3 is made more explicit here: the repetition of one frog’s call by another is likened to that of a pupil and his teacher (śāktásyeva … śikṣamāṇaḥ).
 
 With Maurer, I take sárvam … párva as referring to a group of frogs, not to the section of a lesson with most others.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When one of these repeats the other's language, as he who learns the lesson of the teacher,  
      Your every limb seems to be growing larger as ye converse with eloquence on the waters.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When one repeats the utterance of the other, As those who learn the lessons of their teacher, All this is like concordant recitation, As eloquent ye prate upon the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn einer von ihnen des anderen Wort nachspricht, wie der Lernende das des Meisters, dann ist das von ihnen vollkommen wie ein Lehrabschnitt, was ihr auf dem Wasser mit schönen Stimmen redet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn einer dann des andern Rede nachspricht, so wie des Lehrers Wort der fleiss'ge Schüler, Dann sitzt ihr ganzer Chor gefügt wie Glieder, wenn in dem Pfuhl mit heller Stimm' sie singen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда одна из них повторяет речь другой,  
 Как ученик – (речь) учителя,  

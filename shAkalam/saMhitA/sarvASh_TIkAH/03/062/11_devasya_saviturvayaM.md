@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देव꣡स्य सवितु꣡र् वयं꣡  
 वाजय꣡न्तः पु꣡रंधिया  
 भ꣡गस्य राति꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 भग॑स्य । रा॒तिम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
@@ -73,20 +73,20 @@ genre M
 **वाजयन्तः** वाजमन्नमात्मन इच्छन्तः **वयं** **देवस्य** द्योतमानस्य **सवितुः** **पुरंध्या** तद्विषयस्तुत्या प्रज्ञया वा **भगस्य** भजनीयस्य धनस्य **रातिं** दानम् **ईमहे** याचामहे ॥ रातिम् ।' मन्त्रे वृष°  इत्यादिना क्तिन उदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of food, we solicit with praise of the divine **Savitā**, the gift of affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking the prize, we beg for the generosity of Bhaga,  
 along with the plenitude of god Savitar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take púraṃdhyā as an instr. of accompaniment, not (with Geldner [/Witzel Gotō]) an instr. of means.
 
@@ -101,23 +101,23 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With understanding, earnestly, of Savitar the God we crave  
      Our portion of prosperity.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Wunscherfüllung des Gottes Savitri Belohnung erwartend bitten wir um die Gabe des Bhaga.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Schatz des Gottes Savitar sind wir zum Güterwunsch erregt; Des Spenders Gabe wünschen wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Рассчитывая) на воодушевление от бога Савитара,  
 Мы, стремящиеся к награде,  

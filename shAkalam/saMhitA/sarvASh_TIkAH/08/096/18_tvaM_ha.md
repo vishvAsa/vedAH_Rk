@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह त्य꣡द् वृषभ चर्षणीनां꣡  
 घनो꣡ वृत्रा꣡णां तविषो꣡ बभूथ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुव꣡म् अपो꣡ अजयो दास꣡पत्नीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । सिन्धू॑न् । अ॒सृ॒जः॒ । त॒स्त॒भा॒नान् । त्वम् । अ॒पः । अ॒ज॒यः॒ । दा॒सऽप॑त्नीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,21 +120,21 @@ genre M
 **त्वं** खलु तत् कर्म कृतवानसि । किं तत् । हे **वृषभ** कामानां वर्षितरिन्द्र **चर्षणीनां** यष्टॄणां मनुष्याणां भावितानां **वृत्राणाम्** उपद्रवाणां **घनः** हन्ता । अमूर्त्यर्थेऽपि छन्दोविषयत्वान्निपातनम् । तादृशस्त्वं **तविषः** प्रवृद्धो बलवान् वा **बभूथ** बभूविथ । बभूथा ततन्थ° ' इतीडभावो निपात्यते । ततः **त्वं** **तस्तभानान्** असुरैर्विरुध्यमानाः **सिन्धून्** सप्त गङ्गाद्याः नदीः सरणाय **असृजः**। पश्चात् **त्वं** **दासपत्नीः** । दासा उपक्षपयितारः शत्रवः । ते पतयः स्वामिनो यासां ताः ।  ‘ नित्यं सपत्न्यादिषु' (पा. सू. ४. १. ३५) इत्यत्र ‘दासाञ्च' इत्युपसंख्यानात् ङीप् । असुरस्वामिकाः **अपः** **अजयः** जितवानसि । तानसुराञ्जित्वोदकानि च प्रासृज इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, showerer, were the mighty destroyer of the hindrances of your worshippers; you did set free theobstructed rivers, you did win the waters which the **Dāsas** had mastered.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You then—bull of the settled domains, you became the forceful bane of  obstacles.  
 You released the rivers, which had been blocked. You conquered the  
 waters whose husband was a Dāsa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Noteworthy here is the variant on the expression of Indra’s standard deed, vṛtrám √han and esp. his epithet vṛtrahán- in the phrase ghanó vṛtrā́ṇām “the bane of obstacles,” with the nominal ghaná- from √han and a pl. of vṛtrá-.
 
@@ -151,23 +151,23 @@ These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then wast thou, Chieftain of all living mortals, the very mighty slayer of the Vrtras.  
      Then didst thou set the obstructed rivers flowing, and win the floods that were enthralled by Dasas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Bulle der Völker wardst da der starke Schlägel der Feinde. Du ließest die festgebannten Flüsse los, du erobertest die Gewässer, deren Herr und Gemahl der Dasa war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da wurdest du Gebieter aller Menschen, der bösen Feinde mächtiger Zermalmer; Die eingesperrten Ströme liessest frei du, gewannst die Wasser, die der Dämon festhielt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

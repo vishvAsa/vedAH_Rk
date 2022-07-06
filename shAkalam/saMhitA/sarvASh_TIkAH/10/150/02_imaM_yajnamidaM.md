@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ यज्ञ꣡म् इदं꣡ व꣡चो  
 जुजुषाण꣡ उपा꣡गहि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मॄळीका꣡य+ हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मर्ता॑सः । त्वा॒ । स॒म्ऽइ॒धा॒न॒ । ह॒वा॒म॒हे॒ । मृ॒ळी॒काय॑ । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -90,35 +90,35 @@ genre M
 हे अग्ने **इमम्** अस्माभिः क्रियमाणं पुरोवर्तिनं **यज्ञमिदं** **वचः** स्तोत्रं व **जुजुषाणः** सेवमानः **उपागहि** उपागच्छ । हे **समिधान** समिध्यमान **मर्तास:** मर्ता मनुष्याः **त्वा** त्वां **हवामहे** आह्वयामहे । **मृळीकाय** सुखायैतत्संज्ञाय वा ऋषये त्वामेवाह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Being gratified by this sacrifice, this praise, approach; we mortals invoke you, blazing (**Agni**), weinvoke you for felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This sacrifice here—having delighted in this speech, come near to it. We mortals call you, kindled one; for grace we call.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither and accept with joy this sacrifice and hymn of ours.  
      O kindled God, we mortals are invoking thee, calling on thee to show us grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesem Opfer, an dieser Rede dich erfreuend komme herbei! Wir Sterbliche rufen dich, du Entflammter, zur Gnade rufen wir dich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her und nimm du gnädig an dies unser Opfer und dies Lied, Dich, o entflammter, rufen wir, die Sterblichen, wir rufen dich zur Huld herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи, наслаждаясь  
 Этой жертвой, этой речью!  

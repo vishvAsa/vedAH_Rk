@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द्बन्धुः सूरि꣡र् दिवि꣡ ते धियंधा꣡  
 ना꣡भाने꣡दिष्ठो रपति प्र꣡ वे꣡नन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अहं꣡ त꣡त् पश्चा꣡ कतिथ꣡श् चिद् आस
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सा । नः॒ । नाभिः॑ । प॒र॒मा । अ॒स्य । वा॒ । घ॒ । अ॒हम् । तत् । प॒श्चा । क॒ति॒थः । चि॒त् । आ॒स॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tadbandhuḥ* ← *tad*
 - \[noun\]
@@ -139,7 +139,7 @@ genre M
 **तद्बन्धुः** । सैव पृथिवी बन्धुकोत्पत्त्यधिष्ठानत्वेन यस्यासौ तद्बन्धुः । तन्मातृक इत्यर्थः । **सूरिः** स्तुतेः प्रेरकः **दिवि** वर्तमानस्य **ते** तव स्वभूत इति शेषः । त्वदपत्यभूत इति यावत् । षष्ठीसामर्थ्यात्संबन्धसामान्यं प्रतीयते । तच्चादित्यपुत्रो मनुर्मनोः पुत्रो नाभानेदिष्ठ इत्येवं सूर्यापत्यत्वेऽपि पर्यवस्यति । सूर्यनाभानेदिष्ठयोः संबन्धश्चरमपाद उत्तरमन्त्रे च वक्ष्यते । स च **धियधाः** कर्मणां धारको **नाभानेदिष्ठः** **वेनन्** अङ्गिरोदत्तं गोसहस्रं वेनन् कामयन् **प्र** **रपति** प्रलपति । स्तौतीत्यर्थः। **वा** अपि चेत्यर्थः । **सा** द्यौः **नः** अस्माकं **परमा** उत्कृष्टा **नाभिः** बन्धिका च **अस्य** आदित्यस्य अधिष्ठानभूतास्ति । **घ** इति पूरणः । **अहं** **तत्** तस्यादित्यस्य **पश्चा** पश्चादनन्तरं **कतिथः** कतिपयानां पूरणः **आस** अभवम् । अनेन ममादित्येन जन्यजनकभावः संबन्धः संनिकृष्ट इत्युक्तं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,7 +150,7 @@ genre M
 Nābhānediṣṭha's affinity to the sun is apparent; his father **manu** is the son of **Vivasvat** or **Āditya**; after manydegrees: katithaścid āsa = I was the completion (**pūraṇa**) of many
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The patron whose lineage this is, setting your insight in heaven,  
 Nābhānediṣṭha [/nearest to the navel], murmurs as he quests:  
@@ -158,23 +158,23 @@ Nābhānediṣṭha [/nearest to the navel], murmurs as he quests:
 that one.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Their kin, the Prince in heaven, thy nearest kinsman, turning his thought to thee thus speaks in kindness:  
      This is our highest bond: I am his offspring. How many others came ere I succeeded?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Verwandter, der Opferherr, auf dich im Himmel sein Denken richtend, der Nabhanedistha, flüstert im Geiste weiterschauend also: Dies ist unser höchster Ursprung oder auch der seine. Ich bin erst später als so und sovielter geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem verwandt preist dich im Himmel andachtsvoll und verlangend der glanzreiche Nābhānedischtha; dies ist unsere höchste Verwandtschaft und von ihm bin ich der Reihe nach der so und so vielste.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

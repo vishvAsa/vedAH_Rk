@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡ह꣡ गमन्न् ऋ꣡षयः सो꣡मशिता  
 अया꣡सियो अ꣡ङ्गिरसो न꣡वग्वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थैत꣡द् व꣡चः पण꣡यो व꣡मन्न् इ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ते । ए॒तम् । ऊ॒र्वम् । वि । भ॒ज॒न्त॒ । गोना॑म् । अथ॑ । ए॒तत् । वचः॑ । प॒णयः॑ । वम॑न् । इत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eha* ← *ā*
 - \[adverb\]
@@ -133,40 +133,40 @@ popular
 सरमा पुनः प्रत्युवाच । हे पणयः  **सोमशिताः** सोमेन तीक्ष्णीकृताः सोमपानेन मत्ताः ॥  ‘ शिञ् निशाने '। कर्मणि क्तप्रत्ययः ।  ‘ तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । तादृशाः **नवग्वाः** नवगतयः । यद्वा । अङ्गिरसां सत्रमासीनानां मध्ये केचन नवसु माःसूदतिष्ठन् ते **नवग्वाः** । अनेन दशग्वा अप्युपलक्ष्यन्ते । उभयविधास्ते **अङ्गिरसः** **ऋषयः** तेषां प्रथमः अयास्यः एतन्नामा च त एते **इह** युष्मदीये स्थाने **आ** **गमन्** आगच्छेयुः ॥ गमेः छन्दसि लुङ्लङ्लिटः इति सार्वकालिको लुङ । लृदित्त्वाच्च्लेरङ् ॥ आगत्य च **ते** **गोनाम्** ॥  ‘ गोः पादान्ते' इति छन्दसि नुडागमः ॥ गवाम् **ऊर्वं** तं समूहं **वि** **भजन्त** विभाग कुर्युः ॥ अत्रापि पूर्ववत् सार्वकालिको लुङ ॥ **अथ** अनन्तरं **पणयः** यूयम् **एतद्वचः** पूर्वं यत् व्यर्थमागतासीति यद्वाक्यमवोचत तद्वाक्यं तदा **वमन्नित्** वमन्तः परित्यजन्त एव भवथ ॥  ‘ वमु उद्गिरणे ' । शतरि  ‘ सुपा सुलुक्° । इति जसो लुक् । नुमागमः । संयोगान्तस्य लोपः । यद्वा । लङि रूपम् । स्वरश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Saramā:] The seers, sharpened by soma, will come here to this  
 place: Ayāsya [=Indra], the Aṅgirases, and the Navagvas.  
 They will divide up this pen of cattle. Then will the Paṇis just vomit this  speech (of theirs)!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rsis will come inspirited with Soma, Angirases unwearied, and Navagvas.  
      This stall of cattle will they part among them: then will the Panis wish these words unspoken.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Hither will come the seers inspired with Soma, Ayāsya, Aṅgirases, and Navagvas: They will appropriate this stall of cattle. The Paṇis then shall all these boasts relinquish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es werden die Rishi´s, durch Soma scharf gemacht, hierher kommen: Ayasya, die Angiras´ und Navagva´s. Die werden die eingesperrte Herde der Kühe unter sich teilen. Dann sollen die Pani´s dieses Wort sich entfahren lassen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Her werden kommen trankerregt die Sänger Ajāsia, die Angira's, die Neuner; Die werden sich der Kühe Stall vertheilen; dann wird die Pani's dieses Worts gereuen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда придут риши, возбужденные Сомой:  
 Аясья, Ангирасы, Навагва.  

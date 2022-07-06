@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते रेवाँ꣡ अ꣡दाशुरिः  
 प्रमम꣡र्ष मघ꣡त्तये  
 त꣡स्य नो वे꣡द आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तस्य॑ । नः॒ । वेदः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -87,35 +87,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **मघत्तये** धनदानाय **ते** तुभ्यं **यः** पुमान् **रेवान्** धनवान् सन् **अदाशुरिः** अदानशीलः **प्रममर्ष** अभ्यसूयति **तस्य** पुंसः **वेदः** धनं **नः** अस्मभ्यम् **आ** **भर** आहर ॥ ॥ ४४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant to us the possessions of that rich man who, through his niggardliness, reviles you as to yourbestowal of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The impious rich man who has neglected to give to you bounteously, bring his possessions here to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring unto us the treasure of the opulent man who, loth to give,  
      Hath slighted thee for gain of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Karge Reiche dir zu schenken vergessen hat, dessen Habe bring uns her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Reichen, welcher dir nicht dient, der Gaben mitzutheilen säumt, Dess Reichthum bringe uns herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если) какой непочтительный богач  
 Забыл одарить тебя,  

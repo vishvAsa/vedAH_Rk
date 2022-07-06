@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ वराह꣡म् अरुषं꣡ कपर्दि꣡नं  
 त्वेषं꣡ रूपं꣡ न꣡मसा नि꣡ ह्वयामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श꣡र्म व꣡र्म छर्दि꣡र् अस्म꣡भ्य° यंसत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हस्ते॑ । बिभ्र॑त् । भे॒ष॒जा । वार्या॑णि । शर्म॑ । वर्म॑ । छ॒र्दिः । अ॒स्मभ्य॑म् । यं॒स॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **वराहं** वराहारम् उत्कृष्टभोजनम् । यद्वा । वराहवत् दृढाङ्गम् । **अरुषम्** आरोचमानं कपर्दिनं जटाभिर्युक्तं **त्वेष** तेजसा दीप्यमानं **रूपं** निरूपणीयं वेदान्तैरधिगम्यम् एवंभूतं रुद्रं **नमसा** हविर्लक्षणेनान्नेन नमस्कारेण वा **दिवः** द्युलोकसकाशात् **नि** 'ह्वयामहे नितरामाह्वयामः । सः आहूतो रुद्र: **हस्ते** स्वकीये बाहौ **वार्याणि** सर्वैः वरणीयानि **भेषजा** भैषज्यानि रोगशमनहेतुभूतानि **बिभ्रत्** धारयन् **अस्मभ्यं** स्तोतृभ्यः **शर्म** आरोग्यलक्षणं सुखं **वर्म** आयुधानां निवारकं कवचं **छर्दिः** । गृहनामैतत् । गृहं च **यंसत्** प्रयच्छतु ॥ बिभ्रत् । ‘डुभृञ् धारणपोषणयोः' । जौहोत्यादिकः । लटः शतृ ।  ‘ भृञामित्' इति अभ्यासस्य इत्वम् । भेषजा । ‘भिषज् चिकित्सायाम् ' । कण्ड्वादिः । पचाद्यच् । अतोलोपयलोपौ ।  ‘ °सुमङ्गलभेषजाच्च ' ( पा. सू. ४. १. ३० ) इति निपातनात् रूपसिद्धिः ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । वार्याणि । ' वृङ् संभक्तौ '।  ‘ ऋहलोर्ण्यत् । ईडवन्द ' इत्याद्युदात्तत्वम् । छर्दिः ।  ‘ उछृदिर् दीप्तिदेवनयोः '। छृद्यते दीप्यते सुवर्णादिभिर्धनैः प्रकाश्यते इति छर्दिर्गृहम् ।  ‘ अर्चिशुचिहुसृपिच्छादिच्छर्दिभ्य इसिः' ( उ. सू. २. २६५ ) । यंसत् ।' यम उपरमे'। लेटि अडागमः । ‘सिब्बहुलं लेटि' इति सिप् । ' इतश्च लोपः०' इति इकारलोपः॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,34 +129,34 @@ genre M
 Him who has excellent food: **varāha**, lit. a boar and one who has a hard body, like a boar; this is an abbrieviation of varāhāra, from **vara**, good, and **āhāra**, food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We call down with reverence the boar of heaven, flame-red, with  braided hair, turbulent in form.  
 Bearing in his hand desirable healing remedies, he will extend shelter,  covering, and protection to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the rhyming figure śárma várma chardír.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him with the braided hair we call with reverence down, the wild-boar of the sky, the red, the dazzling shape.  
      May he, his hand filled full of sovran medicines, grant us protection, shelter, and a home secure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Himmels rötlicher Eber, mit dem aufgewundenen Haar, die funkelnde Erscheinung rufen wir unter Verbeugung herab. Er, der die erwünschten Arzeneien in der Hand hält, gewähre uns Schutz, Schirm, Zuflucht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels rothen Eber mit geflochtnem Haar, sein funkelnd Aussehn rufen wir in Demuth her; Der in der Hand die schönsten Arzeneien trägt, er mög' uns reichen festen Schutz und Schirm und Schild.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рыжего кабана неба, с заплетенной косой,  
 Буйный облик мы призываем с поклоном.  

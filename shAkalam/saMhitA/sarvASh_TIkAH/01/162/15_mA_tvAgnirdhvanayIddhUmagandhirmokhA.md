@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ तुवाग्नि꣡र् ध्वनयीद् धूम꣡गन्धिर्  
 मो꣡खा꣡ भ्रा꣡जन्ति अभि꣡ विक्त ज꣡घ्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तं꣡ देवा꣡सः प्र꣡ति गृभ्णन्ति अ꣡श्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒ष्टम् । वी॒तम् । अ॒भिऽगू॑र्तम् । वष॑ट्ऽकृतम् । तम् । दे॒वासः॑ । प्रति॑ । गृ॒भ्ण॒न्ति॒ । अश्व॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -131,7 +131,7 @@ popular
 हे अश्व **त्वा** त्वां **धूमगन्धिः** धूमेन व्याप्तः **अग्निः** **मा** **ध्वनयीत्** मा ध्वनयत् । धूमं दृष्ट्वा शब्दं मा कुर्वित्यर्थः । अश्वस्य शब्दने प्रायश्चित्तविधानात् । यद्वा । हे पच्यमानाश्ववयव त्वा त्वां धूमगन्धिरग्निर्मा ध्वनयीत् । ध्वना सति भाण्डभङ्गः स्यात् । ‘नोनयति । (पा. सू. ३. १. ५१ ) इत्यादिना चङ्प्रतिषेधः । ‘ह्व्यन्तक्षण' इति वृद्ध्यभावः ॥ किंच **भ्राजन्ती** अत्यन्ताग्निसंयोगेन दीप्ता **उखा** स्थाली **मा** **अभि** **विक्त** अभितो मा चीचलत्तापातिशयेन मा नीनशदित्यर्थः ॥ ‘ओविजी भयचलनयोः' । छान्दसो विकरणस्य लुक् । लुङि वा ‘झलो झलि' इति सलोपः ॥ स्थाली विशेष्यते । जघ्रिः जिघ्रन्ती तापेन ।' घ्रा गन्धोपादाने'। ‘आदृगमहन ' इति किन्प्रत्ययः ॥ तं तादृशम् **अश्वम्** **इष्टं** होतुमिषितं **वीतं** होमाय आनीतम् **अभिगूर्तम्** आभिमुख्येन प्रदानाय उद्यतम् । यद्वा । इष्टं प्रयाजैराप्रीतं वीतं पर्यग्निकृतमभिगूर्तं  ये यजामहे ' इत्यागूर्युक्तम् । **वषट्कृतं** वषट्कारेण देवसंस्कृतम्" एवंभूतं तं **देवासः** देवाः **प्रति** **गृभ्णन्ति** प्रतिगृह्णन्ति ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,35 +144,35 @@ Let not: this may be addressed to the horse before the horse is killed; or, to t
 Odoriferous: jaghriḥ tapena jighrati, smellling with heat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the fire that smells of smoke not besmirch you; let the blazing hot  cauldron not topple over.  
 The one sacrificed, sought out, and greeted when the cry “vaṣaṭ” is  
 made: that horse do the gods receive.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On abhí vikta see comm. ad X.27.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let not the fire, smoke-scented, make thee crackle, nor glowing caldron smell and break to pieces.  
      Offered, beloved, approved, and consecrated,--such Charger do the Gods accept with favour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll dich das nach Rauch riechende Feuer räuchern, nicht soll der glühende Topf verspritzend überwallen. Das geweihte, angebotenen, gebilligte, mit Vasat gesegnete Roß nehmen die Götter in Empfang.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möge dich das nach Rauch riechende Feuer einhüllen, noch der kochende sprudelnde Topf dich bespritzen; das geopferte, genossene, beliebte, geweihte Ross, das nehmen die Götter entgegen
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть не закоптит тебя огонь, пахнущий дымом!  
 Пусть не повредит сверкающий раскаленный котел!  

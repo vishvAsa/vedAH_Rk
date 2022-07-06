@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ताँ꣡ इयानो꣡ म꣡हि व꣡रूथम् ऊत꣡य  
 उ꣡प घे꣡द् एना꣡ न꣡मसा गृणीमसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आवव꣡र्तद् अ꣡वराञ् चक्रि꣡या꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्रि॒तः । न । यान् । पञ्च॑ । होतॄ॑न् । अ॒भिष्ट॑ये । आ॒ऽव॒वर्त॑त् । अव॑रान् । च॒क्रिया॑ । अव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
@@ -127,7 +127,7 @@ genre M
 तान्मरुतोमहिमहत् वरूथंवरणीयम्प्रशस्तन्धनं तन्मरुतः ऊतयेरक्षणार्थं इयानः इयानाः याच- मानावयं सुपांसुलुगितिजसःसुः एनाअनेननमसा नमस्कारेणस्तोत्रेणवाउपेत् उपेत्यगृणीमसिस्तु- मः घेतिपादपूरणः एनेत्यत्रसुपांसुलुगितितृतीयायाआजादेशः नशब्दः समुच्चये त्रितऋषिश्चयाने- तान् मरुतः पञ्चहोतॄन् अध्यात्मप्रणापानादिपञ्चवृत्त्यात्मनावर्तमानान् अतएवहोमनिष्पादकान् अवरान्मुख्यान् अभिष्टयेअभिलषितसिद्भ्यर्थञ्चक्रियानाभिचक्रेणअवसेअवतुंसङ्गन्तुं आववर्तत् स्व- स्मान्निर्जिगमिषून् प्राणान् स्वात्माभिमुखमावर्तयेत् यद्वा चक्रियाऋष्ट्याख्येनायुधेनयुक्तान् अवसे स्तुत्यादिभिःपरिचरितुमावर्तयत् तान् स्तुमइतिपूर्वत्रसम्बन्धः ववर्तदिति वृतेर्ण्यन्ताल्लुङिचङिरू- पम् ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,14 +140,14 @@ Like the five chief priests: trita na yān **pañca** hotṛn abhiṣṭaye āva
 Avarān = homaniṣpādakān mukhyān, the chief offerers of the Soma; pañca hotṛn adhyātmaprāṇāpānādi pañca vṛttyātmanā vartmānān, ata eva homaniṣpādakān mukhyān, abiṣṭaye abhilaṣitasiddhyartham cakriyā nābhīcakreṇa avitum saṅgantum āvavartat; svasmān nirjigamiṣūn prāṇān svātmābhimukuham āvartayat, he compelled the vital airs, desirous of issuing from himself to turn back into the presence of himself, and to concentrate with the umbilical cakra, for the entire completion of the rite; (those airs being) the chief offerers of the oblation abiding in the spirit, as **prāṇa**, **apāna** and the rest, constituting the five ministering priests; a less mystical interpretation turns upon the sense of cakriyā, with a spear or lance, ṛṣṭyākhyena āyudhena
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While one [=poet?] is imploring them for a great defense, for help, we  hymn them with this reverence right here—  
 they whom he [=poet?] will cause to roll down here with their wheel  for aid, as Trita [/the third one] (brought here) five Hotars for  
 dominance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The acc. participial phrases of ab must be construed with pári dīyanti “they fly around (him)” in d, even though the same referent is found in the dat. in náptre in c. The latter participates in a clever word play -- ā́po náptre -- which of course evokes apā́m nápāt even though ā́paḥ is nom. pl. fem. ‘waters’ and not part of a syntagm with náptre. The elision of the first part of his name may be meant: now that he is identified with Agni, he is no longer the child (only) of the waters. But as noted in the published introduction, that the waters bring him ghee brings the watery and the fiery into harmony. Note that the waters as his cloak here (if I am correct in this interpr., see below) answers to the ghee-cloak in 4d. In the watery vs. 4 the presence of ghee was somewhat anomalous; similarly here in a mostly fiery environment the cloak of the waters stands out.
 
@@ -164,23 +164,23 @@ In b ‘paths’ is to be supplied with adhvasmábhiḥ ‘unbesmirched’ on th
 suggests that “chemins” could be supplied). Where exactly he is located (“highest footprint” generally implies high heaven) and which pathways are meant are unclear to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soliciting their high protection for our help, with this our adoration we sing praise to them,  
      Whom, for assistance, like the five terrestrial priests. Trita hath brought to aid us hither on his car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese bittet er um ihren großen Schutz zum Beistand, sie preisen wir mit dieser Huldigung, die er, um die Oberhand zu bekommen, wie Trita die fünf Opferpriester, mit ihrem Rade näher heranlenken möchte zur Hilfe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Um grossen Schutz sie bittend uns zur Förderung verehren wir mit diesem Gottesdienst sie recht, Die Trita gleichsam mit dem Rad hat hergerollt, zum Beistand uns wie die fünf Himmelspriester einst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прося их о великой защите для поддержки, (их славит поэт);  
 Мы воспеваем (их) под это вот поклонение,  

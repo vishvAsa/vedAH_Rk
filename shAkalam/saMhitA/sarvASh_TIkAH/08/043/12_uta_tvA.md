@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्वा न꣡मसा वयं꣡  
 हो꣡तर् व꣡रेणियक्रतो  
 अ꣡ग्ने समि꣡द्भिर् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । स॒मित्ऽभिः॑ । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे **होतः** देवानां ह्वातः **वरेण्यक्रतो** वरणीयप्रज्ञ **अग्ने** **त्वा** त्वां **वयम्** आङ्गिरसाः **नमसा** अन्नेन हविषा **समिद्भिः** च **ईमहे** याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,35 +93,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Performer of sacred rites: vareṇyakrato = O you, who possess desirable knowledge
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you, o Hotar whose resolve is worthy to be chosen, with homage and with kindling sticks do we beseech, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 īmahe is formally ambiguous and could also mean ‘approach’; Geldner’s “wir nahen dir bittend” seems to represent a blend of the two.
 
 On the cmpd. váreṇya-kratu- see comm. ad IX.98.12.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, thee, O Agni, do we seek with homage and with fuel, Priest  
      Whose wisdom is most excellent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und wir nahen dir bittend, Agni, unter Verneigung mit Brennhölzern, du Hotri von vorzüglicher Einsicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und dir, o Agni, nahen wir, o Priester von erwünschter Kraft, In Ehrfurcht mit der Flamme Brand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также к тебе мы с поклонением,  
 О хотар с избранной силой духа,  

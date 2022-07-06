@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो देवे꣡भिः पवमान रद  
 इ꣡न्दो रयि꣡म् अश्वि꣡नं वावशानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मद्रि꣡अग् आ꣡ दाव꣡ने व꣡सूनाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 र॒थि॒रा॒यता॑म् । उ॒श॒ती । पुर॑म्ऽधिः । अ॒स्म॒द्र्य॑क् । आ । दा॒वने॑ । वसू॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -110,7 +110,7 @@ genre M
 हे **पवमान** पूयमान सोम **सः** तादृशस्त्वं **नः** अस्मभ्यं **देवेभिः** देवैः सह **रद** प्रयच्छ । किं तत् उच्यते । हे **इन्दो** पात्रेषु क्षरन् सोम **वावशानः** कामयमानः सन् **अश्विनम्** अश्ववन्तं **रयिं** धनं प्रयच्छति । किंच **रथिरायताम्** । रथो येषामस्तीति रथिराः । ‘ मेधारथाभ्याम्' इतीरच्प्रत्ययः । तद्वदाचरतस्तानिच्छतो वा पुरुषान् **उशती** कामयमाना **पुरंधिः** त्वदीया बहुविधा धीः **वसूनां** धनानां **दावने** दानाय अस्मद्र्यक् अस्मदभिमुखी **आ** आगच्छतु । यद्वा । रथिरायितामिति धनानां विशेषणम् । बलवतां धनानामिति । अस्मद्र्यक् । 'विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये । (पा. सू. ६. ३. ९२ ) इत्यद्र्यादेशः । अद्रिसध्र्योरन्तोदात्तत्वनिपातनात् ' उदात्तस्वरितयोर्यणः । इति स्वरितः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,13 +121,13 @@ genre M
 Your capacious mind: purandhi = tvadīyā **bahuvidhā** dhīḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying drop, along with the gods excavate wealth in horses for  us as you bellow.  
 Let Plenitude come eagerly on her chariot in our direction, for the giving  of goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes vāvaśānáḥ in b to ‘desire’ (√vaś), but the same form in the same metrical position in 2b to ‘bellow’ (√vāś). Given the formal identity of the participles, I think they should be rendered in the same way (‘bellowing’; Geldner’s n. 4b recognizes this alternative). But the proximity of uśatī́‘desiring, eager’ in our pāda c teases us with the other root, and it is quite possible that our form should be taken as a pun. For a similar conjunction see IX.95.3-4.
 
@@ -136,23 +136,23 @@ The hapax rathirāyátām (3rd sg. mid. impv., with Oldenberg, etc., not gen. pl
 part., with Grassmann) is baroque in formation. It’s worth noting that 3 of the 11 forms of its presumed base rathirá- ‘charioteer, chariot rider’ are found in nearby IX.97 (vss. 37, 46, 48) with a further occurrence in IX.76.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all the Gods, O Indu Pavamana, while thou art roaring send us wealth in horses.  
      Hither upon her car come willing Plenty, inclined to us, to give us of her treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß uns willig, du geläuterter Saft, mit den Göttern Reichtum an Rossen zukommen! Willig soll die Purandhi zu uns her auf ihrem Wagen fahren, um Schätze zu schenken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du flammender, erschliesse durch die Götter, o Indu, willig Reichthum uns an Rossen, Und freundlich komm zu uns die Reichthumsgöttin, zu schenken Güter, die den Wagen füllen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробуравь нам вместе с богами, о Павамана,  
 Громко ревя, о сок сомы, богатство, состоящее из коней!  

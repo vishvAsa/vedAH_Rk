@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुराण꣡म् ओ꣡कः सखियं꣡ शिवं꣡ वां  
 युवो꣡र् नरा द्र꣡विणं जह्ना꣡वियाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्वा मदेम सह꣡ नू꣡ समानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पुन॒रिति॑ । कृ॒ण्वा॒नाः । स॒ख्या । शि॒वानि॑ । मध्वा॑ । म॒दे॒म॒ । स॒ह । नु । स॒मा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purāṇam* ← *purāṇa*
 - \[noun\], nominative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 हे अश्विनौ **वां** युवयोः **पुराणं** पुरातनं **सख्यम्** **ओकः** सेव्यं **शिवं** कल्याणकरं भवति । किंच **नरा** नरावस्मदीयस्य कर्मणो नेतारौ **युवोः** युवयोः **द्रविणं** धनं **जह्नाव्यां** जह्नुकुलजायां भवति । **शिवानि** सुखकराणि युवयोः **सख्या** सख्यानि **पुनः** **कृण्वानाः** कुर्वन्तः **समानाः** हविष्प्रदानेन उपकारकत्वान्मित्रभूता एकीभूताः सन्तः वयं **मध्वा** मदकरेण सोमेन वां युवां **सह** युगपत् **नु** क्षिप्रं **मदेम** हर्षयेम ॥ सख्यम् । सख्युर्भाव इत्यर्थे ‘सख्युर्यः' इति यप्रत्ययः । जह्नाव्याम् । जह्नोः संबन्धिनीत्यर्थे ' तस्येदम् ' इत्यण । **ओर्गुणः'** । ह्रस्वदीर्घयोर्व्यत्ययः । मदेम ।  ‘ मदी हर्षे ' इत्यस्य आशीर्लिङि लिङ्याशिष्यङ्प्रत्ययः । निघातः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 Jahnu: yuvor draviṇam jahnāvyām: from jahnu = jahnāvyām = jahnukulajāyām, born in the lineage of Jahnu; it may imply the **Gaṅgā**, **Jāhnavī**, following the legend of her origin from Jahnu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your home is old, your companionship benevolent, and yours the wealth  at (the house of) the wife of Jahnu, you men.  
 Creating once again your benevolent companionship for ourselves, now  united together, we would find exhilaration through the honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ancient your home, auspicious is your friendship: Heroes, your wealth is with the house of Jahnu.  
      Forming again with you auspicious friendship, let us rejoice with draughts of meath together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer altbewohnter Aufenthalt, eure gute Freundschaft, euer Eigentum ist bei dem Stamm des Jahnu, ihr Herren. Die gute Freundschaft erneuernd wollen wir uns jetzt zusammen gemeinsam am Süßtrank ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Alt ist die Gunst und heilvoll eure Freundschaft, und, Männer, eur Geschenk beim Stamm des Dschahnu; Erneuen wollen wir die holde Freundschaft und uns am Meth gemeinsam nun berauschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваш прежний родной дом, добрая дружба.  
 Ваше имущество, о двое мужей, – у рода Джахну.  

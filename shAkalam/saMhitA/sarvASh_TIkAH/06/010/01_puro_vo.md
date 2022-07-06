@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरो꣡ वो मन्द्रं꣡ दिवियं꣡ सुवृक्ति꣡म्  
 प्रयति꣡ यज्ञे꣡ अग्नि꣡म् अध्वरे꣡ दधिध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुअध्वरा꣡ करति जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पु॒रः । उ॒क्थेभिः॑ । सः । हि । नः॒ । वि॒भाऽवा॑ । सु॒ऽअ॒ध्व॒रा । क॒र॒ति॒ । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *puro* ← *puras*
 - \[adverb\]
@@ -134,20 +134,20 @@ genre M
 हे ऋत्विग्यजमानाः **वः** यूयं **मन्द्रं** मोदनं स्तुत्यं वा **दिव्यं** दिवि भवं **सुवृक्तिं** सुष्ठु दोषैर्वर्जितं सुखेनावर्जनीयं वा एवंगुणम् **अग्निं** **प्रयति** प्रगच्छति प्रवर्तमाने **अध्वरे** रक्षःप्रभृतिभिरहिंस्ये हिंसाप्रत्यवायरहिते वास्मिन् **यज्ञे** **पुरः** **दधिध्वं** पुरस्तादाहवनीयरूपेण धारयत । यद्वा । पुरोधसं कुरुत । **उक्थेभिः** स्तुतशस्त्रैश्च **पुरः** **दधिध्वम्** । **विभावा** विशेषेण दीप्यमानः **जातवेदाः** जातानां वेदिता **सः** अग्निः **हि** यस्मात् **नः** अस्मान् **स्वध्वरा** शोभनयागान् **करति** करोति तस्मात् पुरो दधिध्वमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “plural ce before you at the progressive, uninterrupted sacrifice, the divine, adorable, perfect **Agni**, with prayers; for he, the resplendent **jātavedas**, makes us prosperous in sacred rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Set in front your gladdening, heavenly Agni, (who receives) well-twisted  (hymns), while the sacrifice, the ceremony is proceeding.  
 (Set him) in front with solemn words, for he is far-radiant for us. As  Jātavedas (he) will perform good ceremonies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In the lexeme puró √dhā, puráḥ serves as a pseudo-preverb; the phrase shows extreme distraction (pseudo-tmesis) here, with puráḥ initial in the 1st hemistich and dadhidhvam final in that hemistich. The phrase is then revitalized with puráḥ opening pāda c, thus directly adjacent to its verb though across a hemistich boundary. That the opening words of pāda c, purá ukthébhiḥ belong to the clause in the first hemistich is further shown by the abrupt clause boundary and change of subject in the middle of c, clearly signalled by a typical clause-initial sequence of PRN + Wackernagel-position particles, sá hí naḥ.
 
@@ -158,23 +158,23 @@ On suvṛktí- as a secondary bahuvrīhi, meaning ‘possessing/receiving (hymns
 I take adhvaré as part of the loc. absol. prayatí yajñé, contra Geldner (Renou seems to ignore the second loc.) Nothing much rides on either choice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INSTALL at sacrifice, while the rite advances, your pleasant, heavenly Agni, meet for praises.  
      With hymns-for he illumines us-install him. He, Jatavedas, makes our rites successful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bestellet euch den erfreuenden, himmlischen, schöngepriesenen Agni zum Vorsitzer bei dem Gottesdienst, wenn das Opfer vor sich geht, bestellet ihn mit Lobreden, denn er ist unser Erleuchter! Jatavedas möge den Gottesdienst gut besorgen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den himmlischen, den lieben reinen Agni setzt vor beim Fest euch, bei des Opfers Fortgang, Voran bei Sprüchen, denn er ist uns leuchtend; der Wesenkenner wirket schöne Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Веселого небесного восхваляемого прекрасными гимнами  
 Агни поставьте впереди себя, во время обряда, когда происходит жертвоприношение,  

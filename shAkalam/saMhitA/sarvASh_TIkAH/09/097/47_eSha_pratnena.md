@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ प्रत्ने꣡न व꣡यसा पुनान꣡स्  
 तिरो꣡ व꣡र्पांसि दुहितु꣡र् द꣡धानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तेव याति स꣡मनेषु रे꣡भन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वसा॑नः । शर्म॑ । त्रि॒ऽवरू॑थम् । अ॒प्ऽसु । होता॑ऽइव । या॒ति॒ । सम॑नेषु । रेभ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -116,7 +116,7 @@ genre M
 प्रत्नेन पूर्वकालीनेन वयसा अन्नेन पुनानः पूयमानः अन्नात्मिकया धारया क्षरन्नित्य- र्थः तादृशः दुहितुः सर्वस्यदोग्ध्र्याः पृथिव्यां वर्पांसि वर्पइतिरूपनाम वृणोति शरीरमिति रूपाणि तिरोदधानः स्वतेजसा तिरस्कुर्वन् आच्छादयन् तथा त्रिवरूथं त्रिभूमिकोपेतं यद्वा त्रयः शीतातपवर्षाः तेषां निवारकं शर्म यज्ञगृहं वसानः आच्छादयन् अप्सु वसती- वरीषुस्थितः एषसोमः होतेव यथाहोता स्तुतिध्वनिं कुर्वन् यज्ञेषु याति तद्वत् रेभन् शब्दायमानःसन् समनेषु समन्ति कर्माणिधृष्टाः प्रगल्भायन्त्यत्रेति समना यज्ञाः तेषु याति गच्छति ॥ ४७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 Threefold protection: it protects against cold and rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, being purified with age-old vitality, hiding himself in the forms of  the daughter (of the Sun [=Dawn]) [=milk],  
 in the waters clothing himself in shelter providing threefold defense,  rasping like a Hotar he drives to the concourses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda b my interpr. differs significantly from that of Geldner (fld. by Renou) and that favored by Oldenberg, though all of us assume that “daughter” is short for “daughter of the Sun.” Geldner takes duhitúḥ as abl. and assumes an idiom ABL X tiráḥ √dhā “hide X from …,” an ex. of which he cites from the Kena Up., which seems a distant text from which to harvest a parallel. He takes the várpāṃsi as Soma’s own forms, but does not suggest why Soma would want to keep them hidden from the Sun’s daughter. I instead take duhitúḥ as gen., dependent on várpāṃsi, which Oldenberg considers the more natural construal. Since the acc. with medial tiráḥ √dhā expresses the medium in which the subject hides himself (at least in my view: see comm. ad IX.73.3), in our passage here Soma hides himself “in the forms of the daughter (of the Sun)” - a designation of milk, since the gleaming white milk is often assimilated to the sun. I see the same idiom in IX.72.3, though more disguised: see extensive comm. there. The reference, of course, is to the mixing of soma with milk.
 
@@ -151,23 +151,23 @@ to the sun.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, purified with ancient vital vigour, pervading all his Daughter's forms and figures,  
      Finding his threefold refuge in the waters, goes singing, as a priest, to the assemblies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, der sich in alter Jugendfrische läutert, vor der Sonnentochter seine bisherigen Gestalten verbergend. Im Wasser einen dreifachen Schutz umlegend geht er lautredend wie ein Hotri in den Opferversammlungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und er, durch alte Jugendkraft gereinigt, und seiner Tochter Glanzgestalt verdunkelnd, In Flut umhüllt mit Schutz, der dreifach schirmet, geht wie ein Priester singend zu den Festen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь с помощью древней силы жизни,  
 Пряча (свои) облики от дочери (солнца),  

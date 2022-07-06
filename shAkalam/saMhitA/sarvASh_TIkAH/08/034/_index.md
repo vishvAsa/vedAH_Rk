@@ -8,7 +8,7 @@ title = "+034"
 ‘एन्द्र याहि' इत्यष्टादशर्चं चतुर्थं सूक्तं काण्वस्य नीपातिथेरार्षमानुष्टुभम् । षोडश्याद्यास्तिस्रो गायत्र्यः । वसुरोचिषोऽङ्गिरोगोत्राः सहस्रसंख्याकाः ‘आ यदिन्द्रश्च' इत्यादीनां तासां तिसृणामृषयः । इन्द्रो देवता । तथा चानुक्रमणम्-' एन्द्र याहि द्व्यूना नीपातिथिरानुष्टुभं तृचोऽन्त्यो गायत्रस्तं सहस्रं वसुरोचिषोऽङ्गिरसोऽपश्यन्' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 34 (654)  
 Indra  
@@ -18,7 +18,7 @@ cation between the human patron and Indra; even more strikingly, verse 16 assert
 The formal structure of the hymn continues to its very end: the final word of the  hymn is the signature ā́ “here,” which also began it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra On the formal structure that dominates this hymn see the introduction. The hymn is awkward to translate and, I have to say, sometimes seems awkwardly composed.
 </details>

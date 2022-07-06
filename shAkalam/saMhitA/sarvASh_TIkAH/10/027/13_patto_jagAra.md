@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पत्तो꣡ जगार प्रतिअ꣡ञ्चम् अत्ति  
 शीर्ष्णा꣡ शि꣡रः प्र꣡ति दधौ व꣡रूथम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡अङ्ङ् उत्ताना꣡म् अ꣡नु एति भू꣡मिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आसी॑नः । ऊ॒र्ध्वाम् । उ॒पसि॑ । क्षि॒णा॒ति॒ । न्य॑ङ् । उ॒त्ता॒नाम् । अनु॑ । ए॒ति॒ । भूमि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *patto* ← *pattas*
 - \[adverb\]
@@ -116,7 +116,7 @@ popular
 अत्रादित्यात्मनेन्द्रः स्तूयते तदंशत्वात् । आदित्यरूपीन्द्रः **पत्तः** रश्म्याख्यैः पादैः **जगार** वृष्टिलक्षणमुदकं गिरति गृह्णाति वा । गृहीत्वा च **प्रत्यञ्चम्** आत्मानं प्रतिगतमुदकम् **अत्ति** भक्षयति । मण्डलेऽवस्थापयतीत्यर्थः । तदनन्तरं **वरूथं** वरणीयं वृष्टिलक्षणमुदकं **शीर्ष्णा** शिरःस्थानीयेन रश्मिजालेन **शिरः** सर्वस्य लोकस्य मस्तकं **प्रति** **दधौ** दधाति । प्रतिक्षिपतीत्यर्थः । किंच **उपसि** उपस्थे स्वसमीपस्थाने मण्डले **आसीनः** उपविष्टः सन् **ऊर्ध्वाम्** उद्गतां स्वदीप्तिं **क्षिणाति** हिनस्ति । आलोककरणाय प्रक्षिपतीत्यर्थः । **न्यङ्** रश्मिसमूहरूपेण नीचैरञ्चिता गन्ता सन् **उत्तानां** विस्तृतां **भूमिम्** **अन्वेति** अनुगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ popular
 He seizes it: i.e., the rain. **Indra** is here identified with **Āditya**, the Sun,whose functions of evaporating moisture and restoring it as rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has swallowed (it [=firewood]) from the foot; he eats what’s in front  of him. He has set out head upon head [=his flames], as his shield. Sitting, he destroys the (kindling stick) erect in his lap; bending  
 downward, he goes along the upstretching earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His feet have grasped: he eats the man who meets him. Around his head he sets the head for shelter.  
      Sitting anear and right above he smites us, and follows earth that lies spread out beneath him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat ihn vom Kopf aus verschlungen, er frißt ihn von rückwärts; mit seinem Kopf hat er ihm einen Kopf angesetzt, einen Schutz. Sitzend zerstört er die Aufrechte in seinem Schoße; sich niederbeugend geht er an der ausgestreckten Erde lang.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von den Füssen an verzehrte er [etwa Agni?] den ihm zugewandten [Todten?], mit dem Haupte das Haupt und nimmt seine Rüstung, der sitzende vertilgt in seinem Schoosse die aufrecht stehende [Morgenröthe??]; niedergewandt folgt er der ausgestreckten in die Erde (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

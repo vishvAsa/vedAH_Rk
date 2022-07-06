@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡न्धुर् न꣡ क्षो꣡दः शि꣡मीवाँ ऋघायतो꣡  
 वृ꣡षेव व꣡ध्रीँर् अभि꣡ वष्टि ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒ग्नेःऽइ॑व । प्रऽसि॑तिः । न । अह॑ । वर्त॑वे । यम्ऽय॑म् । युज॑म् । कृ॒णु॒ते । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ genre M;; repeated line
 सिन्धुः स्यन्दनशीलानदीक्षोदोन क्षुद्यमानङ्कूलंयथाभिनत्तितथा शिमीवान् शिमीतिकर्मनाम ब्रह्मणस्पतेःपरिचरणात्मनाकर्मणायुक्तोयजमानः ऋघायतोहिंसतःशत्रून् ओजसाबलेनअभिवष्टि हन्तुमभितःकामयते व्शक्रान्तौ इदमपरन्निदर्शनम् वृषेववध्रीन् वध्रयोनिष्पिष्टमुष्कानिर्वीर्याबली- वर्दाः तान् यथावृषासेचनसमर्थः सवीर्योवृषभोभिभवति तद्वत् शत्रूनभिभवतीत्यर्थः अपिचासौअग्ने- रिवप्रसितिः प्रसीयतेबद्भ्यतेनयेतिप्रसितिर्ज्वाला षिञ् बन्धने करणेक्तिन् यथा अग्नेर्ज्वालाअप्रतिहत- प्रसराएवमपिनवर्तवेवारयितुन्निवर्तयितुंवानैवशक्यते अहशब्दोवधारणे वृणोतेरन्तर्भावितण्यर्थात् वर्ततेर्वातुमर्थेतवेन्प्रत्ययः अन्यद्गतम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M;; repeated line
 The father of the gods: devānām pitaram: pitaram = pālayitāram, the protector or cherisher
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vehement like a river in its surge, with his might he asserts his will over  those who seek to act with balls, like a bull over castrated steers.  
 Like the onslaught of fire he is not to be obstructed—whomever the lord  of the sacred formulation makes his own yokemate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, mighty like a raving river's billowy flood, as a bull conquers oxen, overcomes with strength.  
      Like Agni's blazing rush he may not be restrained, whomever Brahmanaspati takes for his friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wild wie die Stromflut, übermag er an Kraft die Drohenden wie der Bulle die verschnittenen Ochsen; wie der Andrang des Feuers ist er nicht aufzuhalten, wen immer Brahmanaspati zu seinem Verbündeten macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wasser strömt die rege Flut des Zürnenden, ein Mann, bezwingt mit Macht er die Verschnittenen, Wie Feuers Andrang ist zu hemmen nimmer der, wen der Gebets Herr je sich zum Genossen macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бурный, как стремнина реки, он силой  
 Навязывает (свою) волю угрожающим (ему), словно бык - волам,  

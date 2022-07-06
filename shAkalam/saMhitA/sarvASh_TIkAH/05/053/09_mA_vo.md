@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ वो रसा꣡ अ꣡नितभा कु꣡भा क्रु꣡मुर्  
 मा꣡ वः सि꣡न्धुर् नि꣡ रीरमत्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अस्मे꣡ ई꣡त् सुम्न꣡म् अस्तु वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । वः॒ । परि॑ । स्था॒त् । स॒रयुः॑ । पु॒री॒षिणी॑ । अ॒स्मे इति॑ । इत् । सु॒म्नम् । अ॒स्तु॒ । वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे मरुतः **वः** युष्मान् **रसा** । नदीनामैतत् ।  रसा नदी भवति ' ( निरु. ११. २५) इति निरुक्तम् । रसनवती शब्दवती । **अनितभा** । इता प्राप्ता भा यस्याः सा इतभा । न तादृश्यनितभा । **कुभा** कुत्सितदीप्तिश्च **मा** **नि** **रीरमत्** मा निकृष्टं रमतु । **क्रुमुः** सर्वत्रक्रमणः **सिन्धुः** समुद्रश्च **मा** नि रीरमत् । तथा **पुरीषिणी** । पुरीषमुदकम् । तद्वती **सरयुः** अपि **मा** **परि** **ष्ठात्** परितस्तिष्ठतु मा निरुणद्धु । **अस्मे** **इत्** अस्मास्वेव **अस्तु** **सुम्नं** त्वदागमनजनितं सुखं **वः** युष्माकं संबन्धि युष्मत्स्वभूतम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 Rasa, Anitabhā, Kubhā: names of rivers; the wide-roving ocean: **kramuḥ** **sindhuḥ** = **sarvatra** **kramaṇaḥ** **samudra**, the every-where going ocean
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let not the Rasā (River), the Anitabhā, the Kubhā, the Krumu, let not  the Sindhu bring you to a halt.  
 Let not the overflowing Sarayu hem you around. On us alone let your  favor be.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -153,23 +153,23 @@ Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So let not Rasa, Krumu, or Anitabha, Kubha, or Sindhu hold you back.  
      Let not the watery Sarayti obstruct your way. With us be all the bliss ye give.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll euch die Rasa, Anitabha, Kubha, Krumu, nicht euch die Sindhu aufhalten, noch euch die quellenreiche Sarayu im Wege stehen. Bei uns soll eure Huld sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht halt euch Rasa, Kubha noch Anitubha, nicht Krumu noch die Sindhu auf; Nicht hemme euch die wasserreiche Saraju; bei uns allein sei eure Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да не (удержит) вас Раса, Анитабха, Кубха, Круму!  
 Да не удержит вас Синдху!  

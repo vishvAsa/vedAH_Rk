@@ -8,7 +8,7 @@ title = "+062"
 ‘इमा उ वाम्' इत्यष्टादशर्चं नवमं सूक्तम् । अत्रेयमनुक्रणिका-'इमा उ द्व्यूनैन्द्रावरुणबार्हस्पत्यपौष्णसावित्रसौम्यमैत्रावरुणास्तृचा अन्त्यो जमदग्न्यार्षो वा चतुर्थ्याद्या गायत्र्यः' इति । कृत्स्नस्य विश्वामित्र ऋषिरन्त्यस्य तृचस्य जमदग्निर्वा । आद्यास्तिस्रस्त्रिष्टुभः शिष्टाः पञ्चदश गायत्र्यः । प्रथमस्येन्द्रावरुणौ देवता द्वितीयस्य बृहस्पतिस्तृतीयस्य पूषा चतुर्थस्य सविता पञ्चमस्य सोमः षष्ठस्य मित्रावरुणौ । आभिप्लविकेषूक्थ्येषु तृतीयसवने स्तोमवृद्धौ सत्यां स्वस्वशस्त्रे होत्रका अन्त्यसूक्तमवशेष्य स्तोमाभिशंसनार्थं तृचादिसंख्या ऋच आवपेयुः । तत्र मैत्रावरुणस्यावापार्थमाद्यस्तृचः । सूत्रितं च -- ‘ इमा उ वां भृमयो मन्यमाना इति तिस्रः' (आश्व. श्रौ. ७.९ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 62 (296)  
 Various Gods  
@@ -19,7 +19,7 @@ In general the tr̥cas are relatively straightforward, even banal, but the first
 tic, style of the remaining tr̥cas is an attempt to replace the “whirlwinds” of verbal  art (of which there is much in Maṇḍala III) with a meeker and less ostentatious style. The most notable feature of this hymn is the fact that the first verse of the  fourth tr̥ca, dedicated to Savitar (vs. 10), is the famous “Gāyatrī mantra,” with  which orthodox Hindus begin their morning worship even today. In the context  of R̥gvedic poetry, it must be said that the contents and form of this verse are not  particularly striking. As was just suggested, this may in fact be its point.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Various gods
 </details>

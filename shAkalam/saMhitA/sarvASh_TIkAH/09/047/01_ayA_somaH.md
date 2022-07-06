@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अया꣡ सो꣡मः सुकृत्य꣡या  
 मह꣡श् चिद् अभ्य् अ᳡वर्धत  
 मन्दान꣡ उ꣡द् वृषायते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒न्दा॒नः । उत् । वृ॒ष॒ऽय॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमः** **अया** अनया **सुकृत्यया** शोभनयाभिषवादिलक्षणया क्रियया **महश्चित्** महतो देवान् प्रति अभ्यवर्धत प्रवृद्धोऽभूत् । **मन्दानः** मोदमानः **उद्वृषायते** वृषवदाचरति । यथा मोदमानो वृषभः शब्दं करोति तथाभिषववेलायामुपरवेषु शब्दं करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,34 +94,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, rorars like a bull, i.e., on the sounding holes: **sāmaveda**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through this good ritual performance Soma has waxed strong even over  the great ones.  
 Becoming exhilarated, he up and acts the bull.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take maháḥ as a nom. sg. masc. to them. mahá- (so also Grassmann), referring to Soma. With immed. flg. cid the phrase is taken as “already great” (“schon so grosse,” “si grand (fût-il déjà)”), as an implicit contrast with the verb, (abhy) ávardhata, which indicates that he has grown (further) despite his already large size. This if of course possible. By contrast I take maháḥ as acc. pl. m. to máh-. My reason for this is the preverb abhí: in the few occurrences of abhí √vṛdh, the lexeme takes an acc. complement even in the middle. Cf. II.17.4 víśvā bhúvanābhí … abhy ávardhata “he [=Indra] grew strong over all the worlds.” As to who or what these great ones are, perhaps the gods, since the phrase mahó devā́n is not uncommon. Given that Soma here is being assimilated to Indra - who is the standard subject of both mandāná- (I.80.6, etc. etc.) and vṛṣāyáte (cf., e.g., IX.108.2) - asserting his mastery over the (other) gods wouldn’t be surprising.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREAT as he was, Soma hath gained strength by this high solemnity:  
      joyous he riseth like a bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch diese geschickte Behandlung erstarkte der schon so große Soma noch mehr; sich berauschend steigt er wie ein Bulle auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So gross er war, doch grösser noch ward Soma durch das fromme Werk, Erfreut geräth in Wallung er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

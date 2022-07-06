@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था म꣡नौ वि꣡वस्वति  
 सो꣡मं शक्रा꣡पिबः सुत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आयउ꣡ मादयसे स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । त्रि॒ते । छन्दः॑ । इ॒न्द्र॒ । जुजो॑षसि । आ॒यौ । मा॒द॒य॒से॒ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -102,35 +102,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As you, **Śakra**, did drink the effused **Soma** from **Manu** **Vivasvat**, as you did accept the hymn from **Trita**,so do you gladden yourself with Āyu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as at Manu Vivasvant’s you drank pressed soma, able one,  
 just as at Trita’s you will enjoy the poem, Indra, (even so) at Āyu’s you  bring yourself to exhilaration—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is almost identical to 51.1 in its first half, save for Manu’s patronymic; the structure of the second halves is very similar, with locatives expressing the various sacrificers, past and present, where Indra has enjoyed or will enjoy the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du Mächtiger bei Manu Vivasvat den ausgepreßten Soma getrunken hast, wie du, Indra, bei Trita an der Dichtung Gefallen findest -auch bei Ayu ergötzest du dich-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du, o starker, bei dem Manu, dem Sohne des Vivasvat, den gepressten Soma getrunken hast, wie du, o Indra, beim Trita das Zauberlied huldvoll annimmst, so erfreue dich auch bei dem Aju.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как у Ману Вивасвата,  
 Пил ты, о могучий, выжатого сому,  

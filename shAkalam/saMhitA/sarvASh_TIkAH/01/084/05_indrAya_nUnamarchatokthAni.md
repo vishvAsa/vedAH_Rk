@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय नून꣡म् अर्चत  
 उक्था꣡नि च ब्रवीतन  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ज्ये꣡ष्ठं नमस्यता स꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सु॒ताः । अ॒म॒त्सुः॒ । इन्द॑वः । ज्येष्ठ॑म् । न॒म॒स्य॒त॒ । सहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -92,37 +92,37 @@ genre M
 हे ऋत्विजः **इन्द्राय** **नूनं** क्षिप्रम् **अर्चत** पूजनं कुरुत । एतदेव स्पष्टीक्रियते । **उक्थानि** अप्रगीतमन्त्रसाध्यानि स्तोत्राणि **च** **ब्रवीतन** ब्रूत। **सुताः** अभिषुताः **इन्दवः** सोमाः च **अमत्सुः** आगतमेनमिन्द्रं मत्तं कुर्वन्तु । अनन्तरं **ज्येष्ठं** प्रशस्यतमं **सहः** सहस्विनं बलवन्तं तमिन्द्रं **नमस्यत** नमस्कुरुत ॥ ब्रवीतन । ब्रवीतेर्लोटि  ‘ तप्तनप्तनथनाश्च ' इति तनबादेशः । अमत्सुः ।  ‘ मदी हर्षे '। छान्दसः प्रार्थनायां लुङ्। आगमानुशासनस्यानित्यत्वात् इडभावः । नमस्यत। नमोवरिवश्चित्रङ:०' इति क्यच् । सहः।  ‘ लुगकारेकाररेफाश्च वक्तव्याः ' (पा. सू. ४. ४. १२८. २) इति मत्वर्थीयस्य लुक् ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Offer worship quickly to **Indra**; recite hymns (in his praise); let the effused drops exhilarate him; pay adoration to his superior strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant now to Indra and speak solemn words.  
 The pressed drops have exhilarated him. Do homage to (his)  
 preeminent might.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing glory now to Indra, say to him your solemn eulogies.  
      The drops poured forth have made him glad: pay reverence to his might supreme.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Indra lobsinget jetzt und traget Lobgedichte vor! Die ausgepreßten Säfte haben ihn berauscht. Ehret seine höchste Macht!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra singet Lieder nun, und sagt ihm eure Sprüche auf; Ihn hat berauscht der Indusaft, verehret seine höchste Kraft!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пойте сейчас для Индры  
 И произносите гимны!  

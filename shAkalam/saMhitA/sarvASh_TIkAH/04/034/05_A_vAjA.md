@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वाजा यात उ꣡प न ऋभुक्षा  
 महो꣡ नरो द्र꣡विणसो गृणानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमा꣡ अ꣡स्तं नवसु꣡व इव ग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । वः॒ । पी॒तयः॑ । अ॒भि॒ऽपि॒त्वे । अह्ना॑म् । इ॒माः । अस्त॑म् । न॒व॒स्वः॑ऽइव । ग्म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre M
 हे **वाजाः** **ऋभुक्षाः** **नरः** नेतारो यूयं **नः** अस्मान् **उप** **आ** **यात** । किं कुर्वन्तः । **महः** महतः **द्रविणसः** धनस्य ॥ कर्मणि षष्ठ्यौ ॥ महत् द्रविणं **गृणानाः** स्तुवन्तः । किंच **अह्नाम्** **अभिपित्वे** अभिपतने समाप्तौ । तृतीये सवने इत्यर्थः । **वः** युष्मान् **इमाः** **पीतयः** पानानि **आ** **ग्मन्** आगच्छन्ति । तत्र दृष्टान्तः । **अस्तम्** । गृहनामैतत् । गृहं **नवस्वः** नवप्रसवा गावः **इव** ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vājas**, Ṛbhukṣans, leaders (of rites), come to us eulogizing exceeding wealth; these draughts (of **Soma**) proceed to you at the decline of day, like newly-delivered cows to their stalls.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Travel here toward us, o Vājas, o Master of the R̥bhus [=Indra] and  R̥bhus, o you fine men of great possessions, since you are being sung  (by us).  
 These (soma-)draughts have come here for you in the evening of the  day, as newly calved (cows come) home.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us, Heroes, Vajas and Rbhuksans, glorified for the sake of mighty treasure.  
      These draughts approach you as the day is closing, as cows, whose calves are newly-born, their stable.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet, ihr Vaja´s, du Ribhuksan, ihr Herren großen Reichtums, gepriesen zu uns her! Zu euch kommen diese Tränke, wenn die Tage zur Rüste gehen, wie die neumelken Kühe nach Hause.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zu uns, o Vadscha's und Ribhukschan's, der grossen Gabe freuend euch, o Männer; Zu euch gelangten bei des Tages Einkehr die Tränke, wie neumilchende zum Stalle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходите к нам, о Ваджи, о Рибхукшан,  
 Когда мы воспеваем вас, о господа огромного имущества!  

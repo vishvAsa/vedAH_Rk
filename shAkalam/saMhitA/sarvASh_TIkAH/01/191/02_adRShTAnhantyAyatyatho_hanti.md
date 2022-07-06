@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अदृ꣡ष्टान् हन्ति आयती꣡  
 अ꣡थो हन्ति परायती꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡थो पिनष्टि पिंषती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अथो॒ इति॑ । अ॒व॒ऽघ्न॒ती । ह॒न्ति॒ । अथो॒ इति॑ । पि॒न॒ष्टि॒ । पिं॒ष॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adṛṣṭān* ← *adṛṣṭa*
 - \[noun\], accusative, plural, masculine
@@ -96,7 +96,7 @@ popular;; epic anuṣṭubh (525)
 कर्तृप्रत्ययः ॥ अवहन्यमानौषधिः स्वगन्धेन हन्ति बहुविषान् । यद्वा । काचिदोषधिर्दंशकान्मारयत्येव । **अथो** अपि च **पिंषती** पेषणकर्त्री दृषत्पिष्यमाणा वौषधिः **पिनष्टि** चूर्णीकरोत्यल्पविषान् । अथवा सर्वेषु वाक्येष्वविशेषेण सर्वविषकारिणां नाश उक्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,35 +107,35 @@ popular;; epic anuṣṭubh (525)
 Deprives of substance: avaghnatī = avahanyamānaauṣadhiḥ, a drug or antidote being destroyed; losing its substance, and reduced to its odour; or it may mean that a certain drug,understood, is destructive of poisonous creatures
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As she comes, she smashes the no-see-ums, and as she goes away, she  smashes them.  
 Smashing them down, she smashes them, and crushing, she  
 crushes them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The feminine nemesis is not identified. As Geldner notes (n. 2), Sāyaṇa. suggests it’s the healing plant, Henry both the plant and dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Coming, it kills the unobserved; it kills them as it goes away,  
      It kills them as it drives them off, and bruising bruises them to death.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommend tötet sie die Unsichtbaren und gehend tötet sie, und sie tötet zerstoßend und sie zermahlt zermalmend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die herankommende tödtet das unbemerkte Gewürm und[461] ebenso die fortgehende, die dreschende zerdrischt es, die zermalmende zermalmt es.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Невидимых она убивает приходя,  
 И также убивает уходя,  

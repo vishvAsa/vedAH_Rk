@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विषं꣡ ग꣡वां यातुधा꣡नाः पिबन्तु  
 आ꣡ वृश्च्यन्ताम् अ꣡दितये दुरे꣡वाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रा भाग꣡म् ओ꣡षधीनां जयन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 परा॑ । ए॒ना॒न् । दे॒वः । स॒वि॒ता । द॒दा॒तु॒ । परा॑ । भा॒गम् । ओष॑धीनाम् । ज॒य॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣaṃ* ← *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
@@ -118,7 +118,7 @@ popular
 हे अग्ने **यातुधानाः** राक्षसाः **गवां** पशूनां गृहे स्थितं **विषं** **पिबन्तु** । किंच **अदितये** अदित्यर्थं **दुरेवाः** दुस्तरा यातुधानाः **आ** **वृश्च्यन्तां** त्वदीयैरायुधैराच्छिद्यन्ताम् । किंच **सविता** **देवः** **एनान्** राक्षसान् **परा** **ददातु** हिंस्रेभ्यः प्रयच्छतु । अपि च तेऽमी राक्षसाः **ओषधीनां** स्वभूतं **भागं** भजनीयमन्नं **परा** **जयन्तां** लभन्तामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,30 +129,30 @@ popular
 I.e., may they take the food of herbs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sorcerers drink cows’ poison. Let those of evil ways be cut down  before Aditi [/Innocence].  
 Let the god Savitar hand them over. Let them be despoiled of their  
 portion of plants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the fiends drink the poison of the cattle; may Aditi cast off the evildoers.  
      May the God Savitar give them up to ruin, and be their share of plants and herbs denied them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gift sollen die Zauberer von den Kühen trinken, die Bösewichter sollen sich der Aditi entfremden! Gott Savitri soll sie ausliefern; ihren Anteil an den Pflanzen sollen sie verspielen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Gift der Kühe mög der Zaubrer trinken, vom ew'gen Wohlsein sei getrennt der Böse, Gott Saviter lass' ihn zu Grunde gehen, er büsse ein die Nahrung der Gewächse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Яд у коров пьют колдуны!  
 Пусть злоумышленники отделятся от Адити!  

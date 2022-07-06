@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवं꣡ ध्रुवे꣡ण हवि꣡षा  
 अभि꣡ सो꣡मम् मृशामसि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡शो बलिहृ꣡तस् करत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अथो॒ इति॑ । ते॒ । इन्द्रः॑ । केव॑लीः । विशः॑ । ब॒लि॒ऽहृतः॑ । क॒र॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvaṃ* ← *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, masculine
@@ -108,7 +108,7 @@ popular;; epic anuṣṭubh (380)
 ध्रुवेण स्थिरेण हविषा पुरोडाशादिना युक्तं ध्रुवं स्थिरं सोममभिमृशामसि। अभिमृशामः। देवतामभिलक्ष्य यागार्थं वयमृत्विजः संस्पृशामः। अथो अथानन्तरमेवेन्द्रो विशः प्रजास्ते तवैव केवलीरसाधारणाः सतीर्बलिहृतः करस्य प्रदात्रीः करत्। करोतु॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ popular;; epic anuṣṭubh (380)
 Perhaps, **rasa** = soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We touch firm soma with a firm oblation.  
 And now Indra will make the clans bring tribute only to you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On constant Soma let us think with constant sacrificial gift  
      And then may Indra make the clans bring tribute unto thee alone.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den feststehenden Soma berühren wir mit dem feststehenden Opfer. Und nun soll Indra die Clane dir allein tributpflichtig machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den festen Soma mischen wir mit diesem festen Opferguss, Dann möge Indra zinsbar dir die Stämme machen allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твердой жертвой мы касаемся  
 Твердого сомы.  

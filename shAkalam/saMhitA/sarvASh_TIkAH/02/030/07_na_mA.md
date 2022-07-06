@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ मा तमन् न꣡ श्रमन् नो꣡त꣡ तन्द्रन्  
 न꣡ वोचाम मा꣡ सुनोते꣡ति सो꣡मम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ मा सुन्व꣡न्तम् उ꣡प गो꣡भिर् आ꣡यत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । मे॒ । पृ॒णात् । यः । दद॑त् । यः । नि॒ऽबोधा॑त् । यः । मा॒ । सु॒न्वन्त॑म् । उप॑ । गोभिः॑ । आ । अय॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -156,41 +156,41 @@ genre M
 सइन्द्रोमामान्नतमत् नतमयतुनग्लपयतु तथानश्रमत् श्रान्तम्माकरोतु तमुग्लाने श्रमुतपसिखेदेच अनयोर्हेतुमण्ण्यन्तयोर्लेट्यडागमः छन्दस्युभयथेतिशपआर्धधातुकत्वाण्णोरनिटितिणिलोपः उत- अपिचमान्नतन्द्रत् नतन्द्रयेत् तन्द्भ्याआलस्येनयुक्तम्माकरोतु तन्द्रीशब्दात्तत्करोतीतिणिच् णाविष्ठ- वत्प्रातिपदिकस्येतिटिलोपः अन्यत्पूर्ववत् इन्द्र यागायसोमम्मासुनोत माभिषुणुतेति अन्यान्यजमा- नान् प्रतिनवोचाम नब्रवाम वक्तेश्छान्दसोलुङ् सुनोतेत्यत्र त् प्तनप्तनथनाश्चेति तस्यतबादेशः तस्य- पित्त्वेनङित्त्वाभावाद्गुणः यइन्द्रोमेममपृणात् कामान्पूरयेत् यश्चददत् अभीष्टम्फलन्दद्यात् यश्चनिबो- धात् अस्मदीयंस्तोत्रंयागंवाअवगच्छेत् यइन्द्रः सुन्वन्तंसोममभिषुण्वन्तं मामांअस्मभ्यन्दातव्यैर्गो- भिः सहउपायत् उपागच्छेप् सइन्द्रइतिपूर्वत्रान्वयः प्रुणादित्यादिषुलेट्याडागमः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let not **Indra** vexme, or weary me, or make me slothful; never may we say (to another), do not offer the **Soma**; (for it is Indra) who will fulfil (my wishes), who will give (me riches), who will hear (my prayers), who will reward me, presenting libations, with cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It will not tire nor weary me, and there will be no flagging. We will not  say, “Don’t press soma (for him [=Indra],)”  
 (Indra,) who will grant to me, who will give, who will be attentive, who  will approach me with cows, as I press it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 tandran is, of course, a curious form. The Pp., not surprisingly, reads tandrat (with -t à -n before ná). Grassmann emends this to *tandat; Whitney (Rts) list the form thus, though with ?; and Oldenberg allows it as a possibility, without exactly endorsing it. Ian Hollenbaugh suggests following the Saṃhitā reading and interpreting it as a 3rd pl. med. root aor., with ending -ran. The only other verbal form to this root, tandate, is medial. If this is correct, there would seem to be a change of no. in the subj. from the impersonal 3rd sgs. of the standard tr. to an unspecified 3rd pl.: “It will not tire nor weary me, and they will not flag.” Who the plural subject might be is unclear -- perhaps the 1st plural that is found in the next pāda. And in fact all three verbs could be 3rd pl.: the Pp. 3rd sgs. tamat and śramat also appear immediately before n-, with Saṃhitā -an. Under this interpretation the forms would not be impersonal but have unspecified plural subj.: “they will/do not tire or weary me nor do they flag.” If we prefer to accept the emendation to *tandat, the -r- can be explained, with Grassmann, as adopted from the nominal derivatives (á-)tandra- and tandra(yú-) (cf. also AV tandrī́-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let it not vex me, tire me, make me slothful, and never let us say, Press not the Soma;  
      For him who cares for me, gives gifts, supports me, who comes with kine to me who pour libations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht soll es mich erschöpfen noch ermüden, noch mich verdrießen. Nicht wollen wir sagen: Presset ihm keinen Soma, der mir spenden, der geben, der uns bedenken wird, der zu mir, wenn ich Soma bereite, mit Kühen kommen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht sei ich matt, nicht müde, noch auch lässig, nie woll'n wir sagen: Keltert keinen Soma; Ihm, der mir gebe, schenke, auf mich achte, mit Rindern mir dem Somapresser nahe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Это) не должно меня ни утомить, ни изнурить, ни измучить.  
 Мы не должны говорить: Не выжимайте сому! (тому),  

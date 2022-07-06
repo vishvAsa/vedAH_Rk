@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चि꣡त्तिर् आ उपब꣡र्हणं  
 च꣡क्षुर् आ अभिअ꣡ञ्जनम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡द् अ꣡यात् सूरिया꣡ प꣡तिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 द्यौः । भूमिः॑ । कोशः॑ । आ॒सी॒त् । यत् । अया॑त् । सू॒र्या । पति॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *cittir* ← *cittiḥ* ← *citti*
 - \[noun\], nominative, singular, feminine
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (380)
 **चित्तिः** देवता **उपबर्हणम्** **आः** आसीत् । **चक्षुः** **अभ्यञ्जनम्** **आः** आसीत् । तथा हि। वृत्रस्य कनीनिका परापतत्त्रिककुन्नाम पर्वते । तेन त्रैककुदेनाञ्जनसजातीयेन चक्षुषी अञ्जते । तच्चक्षुरेवाञ्जनमासीदिति । **द्यौः** च **भूमिः** च **कोशः** आसीत् । कोशस्थानीये अभूताम् । **यत्** यदा **सूर्या** **पतिं** स्वकीयं नवभर्तारं सोमम् **अयात्** अगच्छत् तदैवमुपकरणान्यासन् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Citti** (mind) was the pillow, the eye was the collyrium; heaven and earth were the box when Sūryawent to her husband.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Perception was the pillow, the eye was the adorning salve,  
 Heaven and Earth were the bucket (seat), when Sūryā drove to her  husband.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thought was the pillow of her couch, sight was the unguent for her eyes:  
      Her treasury was earth and heaven..when Surya went unto her Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erkenntnis war das Kissen, das Auge ihr Salböl. Himmel und Erde waren die Truhe, als die Surya zum Gemahl zog.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Weisheit war ihr Polster, Sehkraft ihr Geschmeide, Himmel und Erde ihr Wagenkasten, als Suriā zum Gatten fuhr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подушка – познание,  
 Мазь – зрение,  

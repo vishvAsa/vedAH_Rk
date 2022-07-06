@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ उषा꣡ आवः पथि꣡या ज꣡नानाम्  
 प꣡ञ्च क्षिती꣡र् मा꣡नुषीर् बोध꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ सू꣡रियो रो꣡दसी च꣡क्षसावः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒स॒न्दृक्ऽभिः॑ । उ॒क्षऽभिः॑ । भा॒नुम् । अ॒श्रे॒त् । वि । सूर्यः॑ । रोद॑सी॒ इति॑ । चक्ष॑सा । आ॒व॒रित्या॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 **जनानां** सर्वप्राणिनां **पथ्या** पथि हिता **उषाः** **वि** **आवः** व्यौच्छत् । यद्वा। जनानां हिताय व्यौच्छदिति योज्यम्। किं कुर्वती । **मानुषीः** मनुष्यरूपाः **पञ्च** **क्षितीः** निषादपञ्चमांश्चतुरो वर्णान् **बोधयन्ती** । ईदृश्युषाः सुसंदृग्भिः। संदृश्यते संदर्शयतीति वा संदृक् तेजः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 Upon the paths: pahyājanānām: **pathyā** is taken as a nominative sing. agreeing with Uṣas: janānām sarvaprāṇinām pathyā+ pathihitā uṣaḥ; or, janānām hitāya, i.e. Uṣas had dawned beneficial on the path of men, or for the welfare ofmen; she had shed light: bhānum aśret: she has resorted to the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dawn has dawned widely along the path of the peoples, awakening the  five settlements stemming from Manu.  
 Along with her bulls lovely to see she has propped up her radiance. The  Sun has uncovered the two world-halves with his eye.  
 982 VII.80–81
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. echoes the 1st vs. of VII.75 in several ways, and VII.75.1 is helpful in resolving the verbal ambiguities in this one. Our vs. contains two occurrences (pādas a, d) of ví … āvaḥ in exactly that sandhi form. The 3rd sg. augmented root aor.
 
@@ -150,23 +150,23 @@ form āvaḥ is entirely ambiguous between √vas ‘dawn’ and √vṛ ‘obst
 There is another echo between the two vss.: pāda a here contains pathyā̀, which could represent either instr. sg. pathyā̀(so Pp.) or acc. pl. pathyā̀ḥ out of sandhi, recalling pathyā̀in VII.75.1d, which must represent acc. pl. -āḥ before a vowel. In this passage I favor the instr. sg. Note also that páñca ksitī́ḥ opening our b pāda opens VII.75.4b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ROUSING the lands where men's Five Tribes are settled, Dawn hath disclosed the pathways of the people.  
      She hath sent out her sheen with beauteous oxen. The Sun with light hath opened earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Usas hat die Pfade der Menschen erhellt, indem sie die fünf menschlichen Völker weckt. Mit schönen Rindern fahrend hat sie ihren Glanz verbreitet. Die Sonne hat mit ihrem Auge beide Welten enthüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgenröthe hat der Menschen Pfade enthüllt, der Völker fünf Geschlechter weckend, Und Licht geschafft durch ihre schönen Rinder, die Sonne durch ihr Licht die Welt erschlossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ушас осветила пути людей,  
 Пробуждая пять человеческих поселений.  

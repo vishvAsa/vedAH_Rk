@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ गुङ्गु꣡भ्यो अतिथिग्व꣡म् इ꣡ष्करम्  
 इ꣡षं न꣡ वृत्रतु꣡रं विक्षु꣡ धारयम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रा꣡ह꣡म् महे꣡ वृत्रह꣡त्ये अ꣡शुश्रवि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । प॒र्ण॒य॒ऽघ्ने । उ॒त । वा॒ । क॒र॒ञ्ज॒ऽहे । प्र । अ॒हम् । म॒हे । वृ॒त्र॒ऽहत्ये॑ । अशु॑श्रवि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -130,36 +130,36 @@ genre M
 **अहम्** इन्द्रः **गुङ्गुभ्यः** एतन्नामकेभ्यो जनपदेभ्यो रक्षणाय **अतिथिग्वम्** अतिथिगोः पुत्रं दिवोदासमृषिम् **इष्करं** निष्कर्तारं **वृत्रतुरं** शत्रूणां हिंसक **विक्षु** प्रजासु मध्ये **इषं** **न** अन्नमिव तासामन्नं यथा भोगाय भवति तद्वदन्नस्थानीयं **धारयं** धारितवानस्मि । कदेति उच्यते । **यत्** यदा **पर्णयघ्ने** पर्णयनामकस्यासुरस्य हननवति **उत** **वा** अपि च **करञ्जहे** एतन्नामकस्य हननोपेते **महे** महति **वृत्रहत्ये** संग्रामे **अशुश्रवि** श्रुतोऽभवम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I prepared **Atithigva** for (the protection of) the Guṅgus, I upheld him, the destroyer of enemies, assustenance among the people; when I gained renown in the great **Vṛtra**-battle, in which **Parṇaya** and **Karañja**= hospitable; guṅgus = name of a people; parṇaya and karañja = names of **asuras**\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I restored Atithigva to the Guṅgus like a restorative, and I upheld the  obstacle-overcomer among the clans,  
 when in the smashing of Parṇaya and in the smashing of Karañja, (as)  in the great smashing of Vr̥tra, I spread my fame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Against the Gungus I made Atithigva strong, and kept him mid the folk like Vrtra-conquering strength,  
      When I won glory in the great foe-slaying fight, in battle where Karanja fell, and Parnaya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich stellte den Gungu´s den König Atithigva wieder her wie eine gute Speise und befestigte den Feindetöter bei seinem Clangenossen, als ich bei der Tötung des Parnaya oder auch bei der Tötung des Karanja und bei der großen Vritratötung meinen Ruhm verbreitet habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Gungu's führte ich den Atithigva zu, bewahrt' den Sieger bei den Leuten wie ein Gut, Als ich im grossen Vritrakampf mich hören liess, worin Karandscha ich erschlug und Parnaja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я (людям) Гунгу приготовил Атитхигву (царем),  
 Как жертвенную пищу, (и) укрепил убийцу врагов среди (его) соплеменников,  

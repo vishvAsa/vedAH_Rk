@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अर्जुन सारमेय  
 दतः꣡ पिशङ्ग य꣡छसे  
@@ -15,7 +15,7 @@ ChandaH = "उपरिष्टाद्बृहती"
 नि꣡ षु꣡ स्वप
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -34,7 +34,7 @@ genre D
 विऽइ॑व । भ्रा॒ज॒न्ते॒ । ऋ॒ष्टयः॑ । उप॑ । स्रक्वे॑षु । बप्स॑तः । नि । सु । स्व॒प॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre D
 हे **अर्जुन** श्वेत हे **सारमेय** । सरमा नाम देवशुनी । तस्याः कुलोद्भव हे **पिशङ्ग** केषुचिदङ्गेषु पिङ्गलवर्णैवंभूत हे शुनक त्वं **दतः** दन्तान् **यत्** यदा **यच्छसे** विवृणोषि । अस्मान् दुष्टुमित्यर्थः । तदानीं **वीव** **भ्राजन्त** **ऋष्टयः** यथायुधानि विशेषेण भासन्ते तथा **उप** अस्मत्समीपे **बप्सतः** भक्षयतस्तव दन्ताः **स्रक्वेषु** स्रक्वासु भासन्ते । स्रक्वाशब्द ओष्ठप्रदेशविशेषवाचीत्यर्थः । तथाभूतस्त्वमिदानीं **सु** सुष्ठु **नि** **स्वप** नितरां निद्रां कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,36 +117,36 @@ genre D
 White offspring: **sārameya**, progeny ofSārmā, bitch of **Indra**; he is called **arjuna**, white, as well as **piṅgala**, tawny; the latter, in some members,keṣucidaṅgeṣu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o silvery son of Saramā, you bare your teeth, tawny one,  
 they glint like spears, in the jaws of (you) who are snapping. Go to sleep!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The target of the simile in pāda b, ‘spears’, does not precede the simile marker iva and in fact is as far as it can be from it in a pāda of only 8 syllables: vī̀va bhrājanta ṛṣṭáyaḥ. This arrangement may have resulted from an attempt to keep metrically unfavorable bhrājante out of the cadence.
 
 On the refrain ní ṣú svapa and the present stem svápa- see my “Sleep in Vedic and Indo-European” (KZ 96 [1982/83], esp. 8 n. 3).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, O bright Son of Sarama, thou showest, tawny-hued! thy teeth,  
      They gleam like lances' points within thy mouth when thou wouldst bite; go thou to steep.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du weiß-brauner Sarama-Sohn die Zähne fletschest, so blinken sie wie Speere im Gebiß des Schnappenden. Schlafe fein ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn weisser Sarameja du, wenn brauner du die Zähne fletschst, Dann leuchten sie den Schwertern gleich in dem Gebiss des schnappenden. – O schlaf in Ruh!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда ты, белый сын Сарамы,  
 Оскаливаешь зубы, о коричневый,  

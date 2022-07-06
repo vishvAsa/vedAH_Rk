@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तस्य नु꣡ महिमा꣡नं र꣡थस्य  
 रुज꣡न्न् एति स्तन꣡यन्न् अस्य घो꣡षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उतो꣡ एति पृथिव्या꣡ रेणु꣡म् अ꣡स्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दि॒वि॒ऽस्पृक् । या॒ति॒ । अ॒रु॒णानि॑ । कृ॒ण्वन् । उ॒तो इति॑ । ए॒ति॒ । पृ॒थि॒व्या । रे॒णुम् । अस्य॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
@@ -127,42 +127,42 @@ popular
 **वातस्य** वायोः **रथस्य** रंहणशीलस्य **महिमानं** माहात्म्यं नु क्षिप्रं प्रब्रवीमि । **अस्य** वायोः **घोषः** शब्दः **स्तनयन्** गिरिगह्वरादिषु विविधं शब्दमुत्पादयन् **रुजन्** सर्वं स्थावरजङ्गमजातं भञ्जन् **एति** गच्छति । स च वायुः **दिविस्पृक्** दिवमाकाशं स्पृशन् व्याप्नुवन् **अरुणानि** अरूणवर्णानि विकृतरूपाणि दिगन्तराणि **कृण्वन्** कुर्वन् **याति** प्राप्नोति । **उतो** अपि च **पृथिव्या** भूमेः **रेणुं** पांसुम् **अस्यन्** गृहीत्वा सर्वत्र विक्षिपन् **एति** गच्छति । अत एव अरुणानि कृण्वन् इत्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(I proclaim) the greatness of the impetuous **Vāyu**, his voice spread thundering around; he movesalong sweeping the sky, tinting purple (the quarters of the horizon), he advances, raising the dust of the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now (I shall proclaim) the greatness of Wind and of his  
 chariot: shattering as he goes; thundering is his sound.  
 Touching heaven as he drives, turning things red, and tossing up dust  from the earth as he goes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O THE Wind's chariot, O its power and glory! Crashing it goes and hath a voice of thunder.  
      It makes the regions red and touches heaven, and as it moves the dust of earth is scattered.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Of Vāta's car I now will praise the greatness: Rending it speeds along; its noise is thunder. Touching the sky it flies, creating lightnings; Scattering dust it traverses earth's ridges.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Macht von Vata´s Wagen will ich jetzo preisen: Zerbrechend geht er, donnernd ist sein Getöse. Zum Himmel reichend fährt er und macht die roten Farben und geht auf der Erde Staub aufwerfend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Windes grossen Wagen will ich preisen; zerbrechend eilt er, donnernd ist sein Rasseln; Am Himmel streicht er hin, die Röthen schaffend, und Staub aufwirbelnd geht er auf der Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я хочу провозгласить) сейчас величие Ваты, (его) колесницы:  
 Он движется, сокрушая, гремит его грохот.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् गोपा꣡वद् अ꣡दितिः श꣡र्म भद्र꣡म्  
 मित्रो꣡ य꣡छन्ति व꣡रुणः सुदा꣡से  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ कर्म देवहे꣡ळनं तुरासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तस्मि॑न् । आ । तो॒कम् । तन॑यम् । दधा॑नाः । मा । क॒र्म॒ । दे॒व॒ऽहेळ॑नम् । तु॒रा॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -129,36 +129,36 @@ genre M
 **यत्** **शर्म** सुखं गृहं वा **गोपावत्** रक्षणोपेतं **भद्रं** स्तुत्यम् **अदितिः** अदीनोऽर्यमादितिर्वा **मित्रः** **वरुणः** च एते त्रयो देवाः **सुदासे** सुदानाय मह्यं **यच्छन्ति** प्रयच्छन्ति **तस्मिन्** शर्मणि **तोकं** पुत्रं **तनयं** तत्पुत्रादिकम् । अथवा तनयशब्दोऽपत्यसामान्यवचनः । तोकं बलवन्तं पुत्रम् **आ** सर्वतः **दधानाः** धारयन्तो वयं हे **तुरासः** गमनाय त्वरमाणाः **देवहेळनं** देवानां मित्रादीनां कोपनं **मा** **कर्म** मा कार्ष्म ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Including our sons and grandsons in that preserving and auspicious felicity which **Aditi**, **Mitra** andVaruṇa confer upon the liberal donor (of the oblation), may we never, acting precipitately, incur the displeasureof the deities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since Aditi, Mitra, and Varuṇa offer their welcome herdsmanlike  protection to Sudās,  
 let us, securing our kith and kin under it, not do that which angers the  gods, o overpowering ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Aditi and Varuna and Mitra, like guardians, give Sudas their friendly shelter,  
      Granting him sons and lineal succession, let us not, bold ones! move the Gods to anger.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der schützende löbliche Schirm, den Aditi, Mitra, Varuna dem Sudas, dem Freigebigen, gewähren, unter diesen stellen wir den leiblichen Samen, und wollen nichts tun, was die Götter ärgert, ihr Oberherren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch wohlbeschirmten, sichern Schutz dem Sudas Aditi, Mitra, Varuna verleihen, Mit dem beschirmend Kinder, Kindeskinder, lasst fern uns sein vom Götterzorn, o starke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) охраняющий благой щит, который Адити,  
 Митра, Варуна даруют Судасу,  

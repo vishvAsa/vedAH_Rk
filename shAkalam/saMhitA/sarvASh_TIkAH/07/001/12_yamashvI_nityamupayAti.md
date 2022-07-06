@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् अश्वी꣡ नि꣡त्यम् उपया꣡ति यज्ञ꣡म्  
 प्रजा꣡वन्तं सुअपत्यं꣡ क्ष꣡यं नः  
 स्व꣡जन्मना शे꣡षसा वावृधान꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 स्वऽज॑न्मना । शेष॑सा । व॒वृ॒धा॒नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -98,36 +98,36 @@ genre M
 **यं** **यज्ञं** यज्ञाश्रयम् **अश्वी** अश्ववानग्निः **नित्यमुपयाति** तं **प्रजावन्तं** भृत्यादिसहितं **स्वपत्यं** शोभनसंतानोपेतं **स्वजन्मना** औरसेन **शेषसा** पुत्रेण **ववृधानं** वर्धमानं **क्षयं** गृहं **नः** अस्मभ्यं हे अग्ने देहीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To whatsoever sacrifice the lord of horses regularly repairs, render, (**Agni**), our dwelling blessed withprogeny, with excellent posterity, prospering with lineal successors.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Let Agni approach) our dwelling, which the horseman [=Agni]  approaches as his own to sacrifice, (a dwelling) filled with offspring  and endowed with a good lineage,  
 having increased by our own kin’s posterity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By sacrifice which the Steeds' Lord ever visits, there make our dwelling rich in seed and offspring,  
      Increasing still with lineal successors.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem beständig der Ritter zum Opfer kommt, gib du uns eine kinderreiche Wohnung mit guter Nachkommenschaft, die durch leiblichen Nachwuchs sich vermehrt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu welchem eignen Opfer geht der Rossherr, der Sitz sei reich an Kindern uns, und Enkeln, Durch selbsterzeugten Nachwuchs recht erstarkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Куда владелец коней постоянно приезжает на жертвоприношение -  
 (Дай) нам (такое) жилье, полное детей, богатое прекрасным потомством,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इ꣡न्द्राय सुन꣡वत् सो꣡मम् अद्य꣡  
 प꣡चात् पक्ती꣡र् उत꣡ भृज्जा꣡ति धानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मिन् दधद् वृ꣡षणं शु꣡ष्मम् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्रति॑ । म॒ना॒योः । उ॒चथा॑नि । हर्य॑न् । तस्मि॑न् । द॒ध॒त् । वृष॑णम् । शुष्म॑म् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 **अद्य** अस्मिन् दिवसे **यः** यजमानः **इन्द्राय** परमैश्वर्ययुक्ताय देवाय **सोमं** सोम लक्षणमन्नं **सुनवत्** सुनुयात् अभिषवं कुर्यात् । तथा यः **पक्तीः** पक्तव्यांश्च पुरोडाशादीन् **पचात्** पचेत् पचनं कुर्यात् । **उत** अपि च यः **धानाः** भर्जनयोग्यान यवान् । अत्र भृष्ट्यववाची धानाशब्दस्तद्योग्यं यवमात्रं लक्षयति । **भृजाति** भृज्जेत् भर्जनं कुर्यात् । **इन्द्रः** **मनायोः** स्तुतिमिच्छतो यजमानस्य **उचथानि** स्तोत्राणि **प्रति** **हर्यन** प्रतिकामयमानः सन् **तस्मिन** यजमाने **वृषणं** कामानां वर्षणसमर्थं **शुष्मं** बलं **दधत्** धारयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** accepting graciously the praises of his devoted (worshipper), who today pours out the libation to him who toasts the buttered cakes, or fries barley for Indra, exercises towards him the power that grants his desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will press soma for Indra today, will cook the cooked foods,  and will roast the grains—  
 upon him will Indra, gladly receiving the recitations of the zealous one,  confer his bullish explosive force.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The śúṣma- that Indra confers on the sacrificer is the ‘explosive force’ that will help him (both Indra and the mortal aided by him) prevail in battle.
 
@@ -151,23 +151,23 @@ The battle/sacrifice trajectory of vss. 4-5 is wrapped up in vss. 6-7, where it 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who this day for Indra presses Soma, prepares the brew and fries the grains of barley-  
      Loving the hymns of that devoted servant, to him may Indra give heroic vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer heute dem Indra Soma pressen und Kochspeisen kochen und Körner rösten wird, dem wird Indra bullenhafte Kampfwut verleihen, indem er des Dichtenden Loblieder gern annimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer heute Soma keltert für den Indra, ihm Brühen kocht und ihm die Körner röstet, Wer Lust hat an des frommen Dichters Sprüchen, dem schenket Indra heldengleiche Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

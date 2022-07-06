@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभा꣡ उ नूनं꣡ त꣡द् इ꣡द् अर्थयेथे  
 वि꣡ तन्वाथे धि꣡यो व꣡स्त्राप꣡सेव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुदि꣡नेव पृ꣡क्ष आ꣡ तंसयेथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒ध्री॒ची॒ना । यात॑वे । प्र । ई॒म् । अ॒जी॒ग॒रिति॑ । सु॒दिना॑ऽइव । पृक्षः॑ । आ । तं॒स॒ये॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhā* ← *ubhau* ← *ubh*
 - \[noun\], nominative, dual, masculine
@@ -135,37 +135,37 @@ genre M
 हे अश्विनौ ”उभौ युवां ”नूनम् इदानीं .”तदित् अस्माभिर्दीयमानं हविः क्रियमाणं स्तोत्रमेव **अर्थयेथे** प्रार्थयथः । ‘अर्थ याञ्चायाम्' । चौरादिकः । अनुदात्तेत् । उः पूरणः । संप्रार्थ्यं च ”धियः कर्माणि स्तुतीर्वा **वि** ”तन्वाथे विस्तारयथः । तनु विस्तारे'। तानादिकः । तत्र दृष्टान्तः। **अपसेव** अपसा अपस्विनौ कुविन्दौ यथा ”वस्त्रा वस्त्राणि विस्तारयतः ॥ अपःशब्दान्मत्वर्थीयो विनिः । तस्य ‘बहुलं छन्दसि' इति लुक् । प्रातिपदिकस्वरेणान्तोदात्तः । उभयत्र सुप आकारः ॥ **ईम्** अयं यजमानः सध्रीचीना सध्रीचीनौ सहाञ्चनौ युवाम् ॥ सहपूर्वादञ्चतेः क्विनि ‘सहस्य सध्रिः । इति सध्र्यादेशः । ‘विभाषाञ्चेरदिक्स्त्रियाम् ' इति खः । सुप आजादेशः ॥ तौ **यातवे** ॥ तुमर्थे तवेन्प्रत्ययः ॥ अभिमतप्राप्त्यर्थं **प्र** **अजीगः** प्रकर्षेण स्तौति । यद्वा युवां प्रति स्तुतीरुद्भिरति ॥ ‘गॄ शब्दे'। ‘गॄ निगरणे' वा । एताभ्यां लङि ‘बहुलं छन्दसि' इति विकरणस्य श्लुः । ‘बहुलं छन्दसि ' इत्यभ्यासस्येत्वम् । दीर्घश्छान्दसः । गुणे कृते हल्ङ्यादिना तिपो लोपः ॥ किंच ”सुदिनेव सुदिनेष्वन्नानि यथालंकुर्वन्ति । यद्वा । सुदिना सुदिनौ । अहोरात्रयोः प्रवर्तकत्वेन तद्वन्तौ सूर्याचन्द्रमसौ स्वरश्मिभिर्यथान्नान्यलंकुरुतः । तद्वद्युवां **पृक्षः** । अन्ननामैतत् । भोक्तृभिः संपृच्यन्त इति पृक्षोऽन्नानि । **आ** **तंसयेथे** समन्तादलंकुरुथः ॥ ‘तसि भूष अलंकारे'। चौरादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You both demand the oblation (**Aśvins**), you spread out the ceremonials as two weavers (strentch)cloths; (the instrumental tutor of the rite) praised you associated together to attain (his desires); like two fortunate daysyou bestow food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now you both have just this as your aim: you stretch out insights like  workers their cloths.  
 It has awakened you two to drive toward a common goal. You haul  
 provisions here as you do the day-bright (days).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS very thing ye Twain hold as your object: ye weave your songs as skilful men weave garments.  
      That ye may come united have I waked you: ye spread out food like days of lovely weather.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr beide habt gewiß nur dieses eine Ziel: ihr spannet die Gedanken an wie die Meister die Gewänder auf den Webstuhl. Er hat sie geweckt, daß sie gemeinsam kommen sollen. Wie solche, die gutes Wetter haben, bringet ihr Stärkungen, die Speisen mit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beide nun erstrebt dies; ihr webet die Gebete wie zwei kunstfertige die Kleider; damit ihr vereinigt kommt, habe ich euch erweckt, wie zwei lichthelle Tage (?) treibt ihr Nahrungen her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот сейчас у вас только такая цель:  
 Вы натягиваете поэтические мысли, как два мастера - одеяния (на станок).  

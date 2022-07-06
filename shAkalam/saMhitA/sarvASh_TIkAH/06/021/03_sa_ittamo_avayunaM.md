@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡त् त꣡मो अवयुनं꣡ ततन्व꣡त्  
 सू꣡रियेण वयु꣡नवच् चकार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡यक्षन्तो न꣡ मिनन्ति स्वधावः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क॒दा । ते॒ । मर्ताः॑ । अ॒मृत॑स्य । धाम॑ । इय॑क्षन्तः । न । मि॒न॒न्ति॒ । स्व॒धा॒ऽवः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **स** **इत्** स एवेन्द्रः **अवयुनम्** अप्रज्ञानम् । प्रज्ञाननाशनमित्यर्थः । **ततन्वत्** वृत्रेण विस्तीर्यमाणं **तमः** अन्धकारं दिवि **सूर्येण** दिव्यारोपितेन देवेन **वयुनवत्** प्रकाशवत् **चकार** कृतवान् । परोऽर्धर्चः प्रत्यक्षकृतः । हे **स्वधावः** बलवन्निन्द्र **मर्ताः** मनुष्याः **अमृतस्य** नित्यस्य **ते** त्वदीयं **धाम** स्वर्गाख्यं स्थानम् । तत्रस्थान् देवानित्यर्थः । **इयक्षन्तः** यष्टुमिच्छन्तः **कदा** कदाचित् । सर्वदेत्यर्थः ॥ **न** **मिनन्ति** किमपि प्राणिजातं न हिंसन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M
 Na minanti na hiṃsanti = the object is: kim api praṇijātam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just he made the patternless darkness in its extension to be patterned by  the sun.  
 When do mortals, seeking gain, not violate the ordinances that belong  to you, the immortal, o autonomous one?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the meaning of vayúna-, see comm. ad II.34.4.
 
@@ -148,23 +148,23 @@ As has long been known, the RVic desid. stem íyakṣa- belongs to √naś ‘at
 The question in the 2nd hemistich seems like a non sequitur, which makes me somewhat sympathetic to Sāyaṇa’s reading as a (negative) indefinite: kadā cid “they do not ever violate …” But this reinterpr. is arbitrary, of course, and further, the kadā́ question inaugurates a series of questions in vs. 4, each with a ka- form: a kúha, b kám … kā́su, c káḥ, d káḥ … katamáḥ. It may be that we have to ask about the whereabouts of Indra in vs. 4 because he has ceased to appear to us because we have (or may have) violated his ordinances.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath made pathways, with the Sun to aid him, throughout the darkness that extended pathless.  
      Mortals who yearn to worship ne'er dishonour, O Mighty God, thy Law who art Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat die ausgebreitete zeitlose Finsternis durch die Sonne zeitlich geregelt. Wann übertreten die Sterblichen, die ein Begehren haben, nicht deine, des Unsterblichen, Abmachungen, du Selbstherrlicher?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Finsterniss, die weit sich dehnte, lichtlos, die machte er hellleuchtend durch die Sonne; Niemals verletzen Menschen eifrig opfernd des Ewigen Gesetz, o Machtbegabter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это он безграничный протянутый мрак  
 Разграничил с помощью солнца.  

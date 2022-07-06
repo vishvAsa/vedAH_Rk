@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् इ꣡त् सु꣡ शृणुहि त्व꣡म् इन्द्र  
 अस्म꣡भ्यं चित्राँ꣡ उ꣡प माहि वा꣡जान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡कं सु꣡ मघवन् बोधि गोदाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्मभ्य॑म् । विश्वाः॑ । इ॒ष॒णः॒ । पुर॑म्ऽधीः । अ॒स्माक॑म् । सु । म॒घ॒ऽव॒न् । बो॒धि॒ । गो॒ऽदाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -133,37 +133,37 @@ genre M
 हे **इन्द्र** **त्वम्** **अस्माकमित्** अस्मदीयाः एव स्तुतीः **सु** सुष्ठु **शृणुहि** । तथा हे इन्द्र त्वं **चित्रान्** चायनीयानि **वाजान्** अन्नानि **अस्मभ्यम्** **उप** **माहि** देहि । किंच **अस्मभ्यं** **विश्वाः** सर्वाः **पुरंधीः** बुद्धीः **इषणः** प्रेरय । अपि च हे **मघवन्** धनवन्निन्द्र त्वं **अस्माकं** **गोदाः** गवां दाता **सु** सुष्ठु **बोधि** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear our praises, **Indra**, and bestow upon us many kinds of food; fulfil all our desires, and know yourself, **Maghavan**, to be to us the donor of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To us listen well, Indra; to us mete out glittering prizes.  
 To us you impel all plentiful gifts. For us become a giver of cows, o  
 bounteous one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Graciously listen to our prayer, O Indra, and strength of varied sort bestow thou on us.  
      Send to us all intelligence arid wisdom O Maghavan, be he who gives us cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf uns hör fein, du Indra; teil uns ansehnliche Gewinne zu. Für uns setz alle Schenkungen in Bewegung; sei du uns fein ein Rinderschenker, du Gabenreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns mögest du, o Indra, recht erhören, uns reichlich schenken mannichfache Labung, Und uns ertheilen alle Segensfülle, sei du es, reicher, der uns Rinder schenket.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только к нам ты чутко прислушивайся, о Индра!  
 Нам отмерь ты яркие награды!  

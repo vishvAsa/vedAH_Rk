@@ -8,7 +8,7 @@ title = "+013"
 ‘ प्रत्यग्निः' इति पञ्चर्चं तृतीयं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं तत्तन्मन्त्रवर्णाभिधेयोषःप्रभृतिदैवतं वा । तथा चानुक्रान्त- प्रत्यग्निः पञ्च लिङ्गोक्तदैवतं त्वेके ' इति । लैङ्गिको विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 13 (309)  
 Agni (or Assorted Divinities)  
@@ -18,7 +18,7 @@ The Anukramaṇī assigns this hymn either to Agni or to unspecified divinities,
 The last three verses are especially striking, with several vivid images of the tri umph of light over darkness in verses 3–4, and in the final verse (5) a speculative  question about the sun—why does it not fall out of the sky?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni or various deities
 

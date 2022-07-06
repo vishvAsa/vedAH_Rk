@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ य꣡द् ध꣡नन्त मन्यु꣡भिर् ज꣡नासः  
 शू꣡रा यह्वी꣡षु ओ꣡षधीषु विक्षु꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्राता꣡रो भूत पृ꣡तनासु अर्यः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । नः॒ । म॒रु॒तः॒ । रु॒द्रि॒या॒सः॒ । त्रा॒तारः॑ । भू॒त॒ । पृत॑नासु । अ॒र्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 **यत्** यदा **शूराः** विक्रान्ताः **जनासः** जनाः **यह्वीषु** महतीषु **ओषधीषु** **विक्षु** प्रजासु च जेतव्यासु **मन्युभिः** कोपैरभिमानैव **सं** **हनन्त** संगच्छन्ते **अध** तदानीं हे **रुद्रियासः** रुद्रपुत्रा हे **मरुतः** यूयं **पृतनासु** युद्धेषु **अर्यः** अरेः शत्रोः सकाशात् **नः** अस्माकं **ञातारः** **भूत** रक्षका भवत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,36 +128,36 @@ genre M
 Many plural nts: bahviṣu oṣadhiṣuvikṣu = mahatīṣu oṣadhiṣu prajāsu jetavyāsu, in great plural nts and people to be subdued; by plural nta orvegetables, **oṣadhi**, the reference is, perhaps, to cultivated lands
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the peoples, the champions clash together in frenzies at (contests  for) the boisterous (rivers), the plants, and the clans,  
 then, o Maruts, Rudriyas, become our rescuers in the battles with the  stranger.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As most interpr. point out, the three locc. in b are especially contested objects for the Ārya. See esp. Proferes (98): “Because of their economic value, rivers, plants and clans were subject to competing claims, and constituted flashpoints for conflict between various groups for whom control over resources meant increased power” -- as well as his elucidation of the three terms. See also Thieme (Fremdling 55), Oberlies (I.350).
 
 Fem. yahvī́- ‘exuberant’ is in the pl. typed for rivers/waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the men in fury rush together for running streams, for pastures, and for houses.  
      Then, O ye Maruts, ye who spring from Rudra, be our protectors in the strife with foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Völker ingrimmig aufeinander schlagen, die Tapferen um Flüsse, Pflanzen, Ansiedlungen, dann seid uns, ihr Rudrasöhne Marut, Retter im Kampfe um den hohen Herrn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn zornerfüllt die Menschen sich bekämpfen um Strombesitz, um Wiesen und um Häuser, Dann seid, o Maruts, Schützer uns in Schlachten, o Rudrasöhne, wider alle Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда яростно сталкиваются народы,  
 Герои, (борющиеся) за реки, растения, поселения,  

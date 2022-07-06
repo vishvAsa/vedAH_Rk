@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इध्मं꣡ य꣡स् ते जभ꣡रच् छश्रमाणो꣡  
 महो꣡ अग्ने अ꣡नीकम् आ꣡ सपर्य꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡ष्यन् रयिं꣡ सचते घ्न꣡न्न् अमि꣡त्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । इ॒धा॒नः । प्रति॑ । दो॒षाम् । उ॒षस॑म् । पुष्य॑न् । र॒यिम् । स॒च॒ते॒ । घ्नन् । अ॒मित्रा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, neuter
@@ -128,7 +128,7 @@ genre M
 हे **अग्ने** यः यजमानः **ते** तुभ्यम् **इध्मं** होमसाधनं समिज्जातं **जभरत्** आहरेत् ॥ ' हृञ् हरणे '। लिङर्थे लेट् । तस्य तिपः ‘ इतश्च लोपः' इति इकारलोपः ।  ‘ बहुलं छन्दसि ' इति शपः श्लुः । द्विर्वचनादिकार्यम् । ‘लेटोऽडाटौ ' इत्यडागमः ।  ‘ हृग्रहोर्भः ' इति भत्वम् ॥ **शश्रमाणः** इध्माद्याहरणे श्राम्यन् **महः** महतः तव **आ** **अनीकम्** । आकारश्चार्थे। तेजश्च **सपर्यन्** परिचरन् यो यजमानः **दोषां** **प्रति** रात्रिं लक्षीकृत्य **उषसं** प्रति उषःकालं च लक्षीकृत्य । कालद्वयेऽपीत्यर्थः । **इधानः** इन्धानस्त्वां दीप्तियुक्तं करोति **पुष्यन्** प्रजाभिः पशुभिश्च पुष्टः सन् **सः** यजमानः **अमित्रान्** शत्रून् **घ्नन्** हिंसन् **रयिं** धनं **सचते** सेवते । सर्वदा पश्वादिधनसमृद्धो भवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 **Doṣa** śvaḥ sahasoḥ suno yam **deva** a cit sacase **svasti**: **śivaḥ** to Agni as **śivakara**, making happy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will labor to bring fuel to you, rendering service to the face of  the great one, o Agni,  
 he, kindling (you) every evening, every dawn, follows along, thriving in  his wealth, smashing his foes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The overlapping identities of Agni and his worshiper are indirectly signaled in this vs. Although the sá of c must be correlative with yáḥ in a and refer to the human, some of the phraseology used of him in cd matches that used of Agni elsewhere. The common med. part. idhāná- is almost always intrans./pass. modifying Agni (‘[being] kindled’), but here it must be transitive with the worshiper as subject.
 
@@ -162,28 +162,28 @@ On the parallel pres. and pf. subjunctives in these vss. see comm. ad
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso with toil and trouble brings thee fuel, serving the majesty of mighty Agni,  
      He, kindling thee at evening and at morning, prospers, and comes to wealth, and slays his foemen.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 He who toiling brings fuel to thee, doing service to thy, the great (god's) face, O Agni, kindling thee at evening and at dawn—he prospers, obtains wealth, and destroys his enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dir Brennholz bringt, sich abmühend, indem er deine, des Großen, Erscheinung ehrt, o Agni, und zu jeder Nacht- und Morgenzeit dich entzündet, der gedeiht und kommt zu Reichtum und erschlägt die Feinde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer emsig wirkend Brennholz dir herbeibringt, dein Angesicht, o Agni, hoch verehrend; Des Abends dich entzündend und des Morgens, der erntet dauernd Reichthum, schlägt die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто носит тебе топливо, изнуряя себя,  
 Почитая лик могучего, о Агни,  

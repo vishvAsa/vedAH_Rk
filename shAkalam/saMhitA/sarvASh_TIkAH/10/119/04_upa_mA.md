@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प मा मति꣡र् अस्थित  
 वाश्रा꣡ पुत्र꣡म् इव प्रिय꣡म्  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -91,37 +91,37 @@ popular;; repeated line
 **मतिः** स्तोतृभिः क्रियमाणा स्तुतिः **मा** माम् **उप** **अस्थित** संयोजयति ॥  ‘ उपाद्देवपूजासंगतिकरण ' (पा. सू. १. ३. २५. १ ) इत्यात्मनेपदम् । कथमिव । **वाश्रा** **पुत्रमिव** यथा वाश्रा शब्दायमाना धेनुः **प्रियं** पुत्रं वत्सं सँगच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The Praise (of the pious) has come to me like a lowing cow to her beloved calf, for I have often drunkof the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A thought has come up close to me, like a bellowing cow to her  
 dear son.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The hymn hath reached me, like a cow who lows to meet her darling calf:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Gebet ist mir genaht wie die brüllende Kuh ihrem lieben Sohne. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mir hat die Bitte sich genaht, gleich wie die Kuh dem lieben Kalb; Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ко мне приблизилась молитва,  
 Как мычащая корова – к любимому сыну –  

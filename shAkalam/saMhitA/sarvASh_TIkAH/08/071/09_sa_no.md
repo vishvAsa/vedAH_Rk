@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो व꣡स्व उ꣡प मासि  
 ऊ꣡र्जो नपान् मा꣡हिनस्य  
 स꣡खे वसो जरितृ꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 सखे॑ । व॒सो॒ इति॑ । ज॒रि॒तृऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -85,35 +85,35 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **ऊर्जो** **नपात्** बलस्यान्नस्य पुत्र । बलेन मध्यमानत्वादाज्यलक्षणेनान्नेन प्रवर्धनादूर्जोनपात्त्वम् । हे **सखे** सखिवद्धितकारिन् **वसो** वासकाग्ने **सः** स्तुत्यत्वेनैव प्रसिद्धस्त्वं **जरितृभ्यः** गरितृभ्यः स्तोतृभ्यः **नः** अस्मभ्यं **माहिनस्य** **वस्वः** । माहिन इति महन्नाम । महद्धनम् **उप** **मासि** समीपे मासि निर्मासि । प्रयच्छसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, the friend, the giver of dwellings, you get our abundant treasure to us your praisers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mete out a measure of your great good, o child of nourishment, to us who are your singers, o comrade, o good one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Son of Strength, tbou aidest us to what is great and excellent.  
      Those, Vasu! Friend! who sing thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Teil uns von dem Gute zu, o Kind der Kraft, von dem großmächtigen, du guter Freund den Sängern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum so theile, Sohn der Kraft, uns zu von deinem grossen Reichthum, Du, o guter Freund, den Sängern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

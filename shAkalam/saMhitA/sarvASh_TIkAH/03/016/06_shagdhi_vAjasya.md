@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शग्धि꣡ वा꣡जस्य सुभग प्रजा꣡वतो  
 अ꣡ग्ने बृहतो꣡ अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तु꣡विद्युम्न य꣡शस्वता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 सम् । रा॒या । भूय॑सा । सृ॒ज॒ । म॒यः॒ऽभुना॑ । तुवि॑ऽद्युम्न । यश॑स्वता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
@@ -103,7 +103,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **सुभग** शोभनधनोपेत हे **अग्ने** त्वम् **अध्वरे** अस्माभिः क्रियमाणेऽस्मिन् अग्निष्टोमादिकर्मणि **बृहतः** महतः प्रभूतस्य **प्रजावतः** अपत्योपेतस्य **वाजस्य** अन्नस्य **शग्धि** ईशिषे । तादृशमन्नमस्मिन् अध्वरेऽस्मभ्यं देहि । किंच **तुविद्युम्न** बहुधनयुक्त हे अग्ने **मयोभुना**। मय इति सुखनाम ‘शेवृधं मयः' (नि. ३. ६. ७) इति तन्नामसु पाठात् । तद्दानाद्युपयोगहेतुतया सुखस्य भावकेन अत एव **यशस्वता** कीर्तिमता **भूयसा** अतिप्रभूतेन **राया** एवंविधेन धनेनास्मान् **सं** **सृज** संयोजय ॥ शग्धि। शक्लृ शक्तौ ' इत्यस्य लोटि ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । ‘ हुझल्भ्यो हेर्धिः' इति धिरादेशः । हेरपित्त्वादुदात्तता । राया । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । भूयसा । बहुशब्दात् द्विवचनविभज्योपपदे' इतीयसुन् । “ बहोर्लोपो भू च बहोः' इतीयसुनः सर्वस्य लोपे प्राप्ते आदेः परस्य' ( पा. सू. १.१.५४ ) इति प्रत्ययस्यादेर्लोपो बहोः भूरादेशश्च। नित्स्वरः । सृज ।' सृज विसर्गे '। तुदादिः । लोटि रूपम् । निघातः । मयोभुना । ‘भू सत्तायाम्' इत्यस्मात् औणादिको डुप्रत्ययः । तुविद्युम्न । पादादित्वादनिघातः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,34 +114,34 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Happiness: **maya** iti sukhanāya 'śevṛdhammayaḥ' (**Nirukta** 3.6.7)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Show a mastery over victory’s prize that brings offspring, o bearer of  good fortune, and that is lofty in the rite, o Agni.  
 Join us with greater wealth that is delight and brings glory, o you of  powerful brilliance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Help us to strength, blest Agni! rich in progeny, abundant, in our sacrifice.  
      Flood us with riches yet more plenteous, bringing weal, with high renown, most Glorious One!
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Help us at this sacrifice, O blessed one, with mighty gain which is accompanied by offspring, O Agni! Let us be united with greater, gladdening, glorious wealth, O thou of mighty splendour!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erwirk uns kinderreiche hohe Belohnung bei dem Opfer, du holder Agni! Mach uns größeren Reichtums teilhaft, der zur Freude gereicht, Ansehen gibt, du Glanzreicher!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reicher, schenke kinderreiche Labung uns, o Agni, starke bei dem Fest; Ergiesse dich mit grösserm freudenreichen Gut, mit herrlichem, o mächtiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Постарайся (дать) награду, о счастливый, заключающуюся в потомстве,  
 О Агни, высокую (награду) во время обряда!  

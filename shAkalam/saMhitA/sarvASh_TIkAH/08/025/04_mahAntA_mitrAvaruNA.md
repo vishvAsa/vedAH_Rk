@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महा꣡न्ता मित्रा꣡व꣡रुणा  
 सम्रा꣡जा देवा꣡व् अ꣡सुरा  
 ऋता꣡वानाव् ऋत꣡म् आ꣡ घोषतो बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऋ॒तऽवा॑नौ । ऋ॒तम् । आ । घो॒ष॒तः॒ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahāntā* ← *mahat*
 - \[noun\], nominative, dual, masculine
@@ -82,7 +82,7 @@ genre M
 **महान्ता** गुणाधिक्येन महान्तौ **सम्राजा** सम्राजौ सम्यग्दीप्यमानौ **असुरा** असुरौ बलवन्तौ । यद्वा । सर्वान्तर्यामितया प्रेरकौ । ऋतावाना सत्यवन्तौ मित्रावरुणौ **देवौ** **बृहत्** स्तोत्रऋचादिना महान्तम् **ऋतं** यज्ञम् **आ** **घोषतः** स्वदीप्त्या प्रकाशयतः । घुषेर्लटि रूपम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,36 +97,36 @@ Powerrful: **asura** = impellingby being the indwelling principle, antaryāmitay
 Illumine: ghoṣataḥ = svadīyā prakāśayataḥ.Comment: repeated references to battles with **asuras** can, therefore, be interpreted as an allegory: removing thebaser metals from a pyrite ore or quartz, to yield the pure silver and gold-- electrum, **Soma**, the resplendent, therājā (cf. **Chāndogya Upaniṣad**: eṣa somo **rājā**, tad devānām **annam**, tam **devā** bhakṣyanti
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Great Mitra and Varuṇa, sovereign kings, gods and lords [/devas and  asuras],  
 truth-possessing, loudly sound their lofty truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is a particularly good passage to demonstrate that the unending rivalry between the two opposed groups Devas and Asuras so characteristic of middle Vedic literature cannot be backprojected into the core RV, since Mitra and Varuṇa are called simultaneously devā́v ásurā.
 
 The phrase ‘grandson of strength’ (śávaso nápāt-) is used a number of times of the Ṛbhus (I.161.14, IV.34.6, 35.1, 8, 37.4) and only here of other divinities. It seems based on the more common śávasas páti- (I.131.4, IV.47.3, V.6.9, etc.), with (ná)pāt- echoing pát(i-). It also evokes semantically the phrase śávasaḥ sūnú- (IV.21.1, 37.4) / putrá- (VIII.90.2, 92.14), ‘son/child of strength’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Great Varuna and Mitra, Gods, Asuras and imperial Lords,  
      True to Eternal Law proclaim the high decree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden großen Allherrscher Mitra und Varuna, die Götter und Asura´s sind, die Gesetzesheger verkünden das hohe Gesetz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die grossen Mitra, Varuna, die weisen Götter, Herrn des Alls, Die Rechtbeschirmer machen kund das heil'ge Recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великие Митра-Варуна,  
 Вседержители, два бога-асуры,  

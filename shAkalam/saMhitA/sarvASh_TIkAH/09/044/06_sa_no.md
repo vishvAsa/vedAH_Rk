@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो अद्य꣡ व꣡सुत्तये  
 क्रतुवि꣡द् गातुवि꣡त्तमः  
 वा꣡जं जेषि श्र꣡वो बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वाज॑म् । जे॒षि॒ । श्रवः॑ । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,35 +91,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **क्रतुवित्** क्रतूनां कर्मणां लम्भकः **गातुवित्तमः** पुण्यलोकानामतिशयेन मार्गस्य ज्ञाता त्वम् **अद्य** अस्मिन्नहनि **नः** अस्माकं **वसुत्तये** धनलाभाय **बृहत्** महत् **श्रवः** अन्नं **वाजं** बलं च **जेषि** जय ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Receiver of sacrifices, knower of (pious), give us this day abundant food and strength for the acquisition of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who find the will, who best find the way—in order to give us goods today, win the prize and lofty praise.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, to increase our wealth to-day, Inspirer, best of Furtherers,  
      Win for us strength and high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei uns heut ein Ratfinder und der beste Pfadfinder zu reicher Beschenkung! Gewinne den Preis und hohen Ruhm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erringe zur Bereicherung, der Kraft du schenkst und höchstes Heil, Uns Labung heut und hohen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пусть) для дарения благ он (станет) нам сегодня  
 Тем, кто находит совет, лучше всех находит выход!  

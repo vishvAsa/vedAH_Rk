@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विष्टम्भो꣡ दिवो꣡ धरु꣡णः पृथिव्या꣡  
 वि꣡श्वा उत꣡ क्षित꣡यो ह꣡स्ते अस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡ध्वो अंशुः꣡ पवत इन्द्रिया꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अस॑त् । ते॒ । उत्सः॑ । गृ॒ण॒ते । नि॒युत्वा॑न् । मध्वः॑ । अं॒शुः । प॒व॒ते॒ । इ॒न्द्रि॒याय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣṭambho* ← *viṣṭambhaḥ* ← *viṣṭambha*
 - \[noun\], nominative, singular, masculine
@@ -116,20 +116,20 @@ genre M
 अयं सोमः **दिवः** द्युलोकस्य विष्टम्भभूतः । यथा गृहस्थ स्तम्भस्तद्वत्। तथा **पृथिव्याः** **धरुणः** धारकः । **उत** अपि च **विश्वाः** सर्वाः **क्षितयः** प्रजाः **अस्य** सोमस्य हस्ते भवन्ति । **उत्सः** । उत्सरन्त्यस्मात् कामा इत्युत्सः सोमः। सः **गृणते** स्तुवते **ते** तुभ्यं **नियुत्वान्** अश्ववान् **असत्** भवतु । स सोमः **मध्वः** मधु । कर्मणि षष्ठी । मधुररसः **अंशुः** सोमः । ‘ अंशुः शमष्टमात्रो भवति' (निरु. २. ५) इति यास्कः । **इन्द्रियाय** **पवते** पूयते अभिषूयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The prop of heaven, the support of earth-- all beings (are) in his **hands**; may (**Soma**) the fountain (of desires) be possessed of horses for you (his) adorer; the filament of the sweet-flavoured (Soma) is purified for (the sake of winning) strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (He is) the prop of heaven, the support of the earth, and all the dwelling  places are in his hand.  
 Your wellspring will provide (horse-)teams to the singer. The plant of  honey purifies itself for Indrian power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The placement of utá in b is unexpected: it should not break up the NP víśvāḥ … kṣitáyaḥ, which it is conjoining to the two nominal expressions in pāda a.
 
@@ -138,23 +138,23 @@ We would expect #*utá viśvāḥ kṣitáyaḥ. Perhaps the metrically distaste
 Pāda c ásat ta útso gṛṇaté niyútvān is somewhat puzzling, at least on the literal level: “your wellspring will be possessed of a team for the singer.” Geldner’s rendering, “Dein Quell sei freigebig …,” is overly free, but it probably captures the sense fairly closely. The semantic pathway is clearer in Renou’s “Que ta source … procure un attelage (de biens).” Cf. III.49.4 … vásubhir niyútvān “teamed with goods.” Perhaps the tr. should be altered to “will provide teams (of goods) …” Although niyútvant- is also found in the preceding hymn (IX.88.2), its use there seems unconnected with this one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He is the buttress of the heavens, supporter of earth, and in his hand are all the people.  
      Be the team's Lord a well to thee the singer: cleansed is the sweet plant's stalk for deed of glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des Himmels Stütze, der Träger der Erde - und die Lande sind in seiner Hand. Dein Quell sei freigebig für den Sänger. Der Stengel der Süßigkeit wird für die indrische Kraft geläutert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Pfeiler und der Erde Stütze ist er, in seiner Hand sind alle Völker; Dem Sänger fliesse immer deine Quelle; für Indra's Grösse strömt des Methes Welle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Столп неба, опора земли,  
 И все народы в его руке.  

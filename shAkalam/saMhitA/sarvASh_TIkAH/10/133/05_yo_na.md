@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ न इन्द्राभिदा꣡सति  
 स꣡नाभिर् य꣡श् च नि꣡ष्टियः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 जियाका꣡ अ꣡धि ध꣡न्वसु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अव॑ । तस्य॑ । बल॑म् । ति॒र॒ । म॒हीऽइ॑व । द्यौः । अध॑ । त्मना॑ । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -138,35 +138,35 @@ genre M;; repeated line
 हे **इन्द्र** **यः** **सनाभिः** समानजन्मा शत्रुः **नः** अस्मान् **अभिदासति** उपक्षयति **यश्च** **निष्ट्यः** निकृष्टजन्मा अस्मानुपक्षयति ॥ जातार्थे निकृष्टवाचिनो निःशब्दादव्ययात्त्यप् (पा. सू. ४० २. १०४ )। ह्रस्वात्तादौ तद्धिते ' (पा. सू. ८. ३. १०१ ) इति षत्वम् ॥ **अध** अनन्तरमेव **महीव** **द्यौः** महती द्यौरिव विस्तृतं **तस्य** शत्रोः **बलं** **त्मना** आत्मना।  ‘ मन्त्रेष्वाङ्यादेरात्मनः इत्याकारलोपः । स्वयमेव **अव** **तिर** जहि अवतिरतिर्वधकर्मा । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who assails us, **Indra**, whether he be of the same caste or of degraded caste-- scatter of yourselfhis host, (though it be vast) as the wide heaven; may the bowstrings on the bows of our enemies be destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, whoever of the same lineage assails us and whoever outside the pale— bring his power low. (You are) like great Heaven in your own person. – Let the little bowstrings of the other squirts burst on their bows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso assails us, Indra, be the man a stranger or akin,  
      Bring down, thyself, his strength although it be as vast as are the heavens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Verwandte, o Indra, und welcher Fernstehende uns nachstellt, dessen Stärke halte nieder, und sei dann wie der große Himmel selbst! - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, Indra, uns zu schaden sucht, sei fremde er, sei er verwandt, Die Kräfte dessen tilge aus, und sei dem hohen Himmel gleich; Zerreissen soll den anderen die Sehne, die den Bogen spannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой родственник, о Индра,  
 Нам угрожает, и какой чужой,  

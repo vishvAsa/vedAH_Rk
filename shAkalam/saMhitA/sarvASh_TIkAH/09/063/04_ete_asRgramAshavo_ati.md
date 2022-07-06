@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ असृग्रम् आश꣡वो  
 अ꣡ति ह्व꣡रांसि बभ्र꣡वः  
 सो꣡मा ऋत꣡स्य धा꣡रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमाः॑ । ऋ॒तस्य॑ । धार॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -76,19 +76,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **बभ्रवः** बभ्रुवर्णाः **आशवः** शीघ्राः **एते** इमे **सोमाः** **ऋतस्य** उदकस्य **धारया** **असृग्रं** सृज्यन्ते । **ह्वरांसि** रक्षांस्यभिगच्छन्ति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These swift-flowing tawny-coloured **Soma** juices, with a stream of water are let loose upon the **rākṣasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These swift brown ones have surged across the tangles (of sheep’s wool), the soma juices, in a stream of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Its opening eté asṛgram āśávaḥ is reminiscent of the beginning of the previous hymn IX.62.1ab eté asṛgram … āśávaḥ.
 
@@ -105,23 +105,23 @@ Thematically somewhat unified by the journey theme.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Somas swift and brown of hue, in stream of solemn sacrifice  
      Have flowed through twisted obstacles,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die braunen Renner wurden losgelassen über die Hindernisse, die Somasäfte in ordnungsmäßigem Strome,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strom des Opfers haben sich ergossen diese flammenden, Die raschen Soma's durch das Netz,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

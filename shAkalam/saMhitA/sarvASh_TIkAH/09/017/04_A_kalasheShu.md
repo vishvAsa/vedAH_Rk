@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ कल꣡शेषु धावति  
 पवि꣡त्रे प꣡रि षिच्यते  
 उक्थइ꣡र् यज्ञे꣡षु वर्धते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒क्थैः । य॒ज्ञेषु॑ । व॒र्ध॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयं सोमः कलशेषु **आ** **धावति** । तदर्थं **पवित्रे** **परि** **षिच्यते** अध्वर्युभिः । **उक्थैः**  स्तोत्रैः **यज्ञेषु** निमित्तेषु **वर्धते** प्रवृद्धो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “It flows to the pitchers, it is poured out upon the straining-cloth, it is magnified at sacrifices by praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He runs into the tubs; he is poured around into the filter.  
 He grows strong through the hymns at the sacrifices.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 It hastens to the pitchers, poured upon the sieve it waxes strong  
      At sacrifices through the lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läuft in die Krüge, er wird auf die Seihe umgegossen, während der Opfer wird er durch Loblieder gestärkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strömet in die Schalen hin, ergiesset durch die Seihe sich Und wächst durch Sprüche bei dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он бежит в кувшины,  
 Переливается кругами по цедилке,  

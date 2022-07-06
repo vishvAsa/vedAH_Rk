@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡त् तिय꣡त् त इन्द्रिय꣡म् अचेति  
 ये꣡ना꣡वधीर् वर꣡शिखस्य शे꣡षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वना꣡च् चिद् इन्द्र परमो꣡ ददा꣡र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वज्र॑स्य । यत् । ते॒ । निऽह॑तस्य । शुष्मा॑त् । स्व॒नात् । चि॒त् । इ॒न्द्र॒ । प॒र॒मः । द॒दार॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
@@ -121,7 +121,7 @@ genre M
 हे इन्द्र **येन** वीर्येण **वरशिखस्य** । वरशिखो नाम कश्चिदसुरः । तस्य **शेषः** शेषांसि पुत्रान्। शेष इत्यपत्यनामैतत् । **अवधीः** अहिंसीः **ते** त्वदीयम् **एतत्त्यत्** तदिदम् **इन्द्रियं** वीर्यम् **अचेति** अस्माभिरज्ञायि । हे **इन्द्र** यत् यस्मात् **शुष्मात्** बलात् **निहतस्य** प्रेरितस्य त्वदीय **वज्रस्य** **स्वनाच्चित्** ध्वनेरेव **परमः** वरशिखस्य पुत्राणां मध्ये बलाद्याधिक्येनोत्कृष्टः कश्चित् पुत्रः **ददार** अदीर्यत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 Varaśikha: name of an **asura**; or, perhaps, the name of a people
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (But) there has appeared just that Indrian strength of yours with which  you smashed the posterity of Varaśikha,  
 when from the blast of your mace when it was smashed down, from just  its sound, their farthest (division) shattered, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This one great power of thine our eyes have witnessed, wherewith thou slewest Varasikha's children,  
      When by the force of thy descending thunder, at the mere sound, their boldest was demolished.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt hat sich deine Indrakraft sehen lassen, mit der du die Nachkommenschaft des Varasikha erschlagen hast, als vor der Wucht der niedergeschlagenen Keule, vor ihrem bloßen Sausen, das entfernteste Treffen zerstob, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt sah man diese deine Indrastärke, mit der du schlugst des Varaçikha Anhang, Als vor Gewalt und Dröhnen deines Blitzes, den, Indra, du entsandt, auch barst der letzte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот обнаружилась эта твоя сила Индры,  
 Благодаря которой ты убил потомство Варашикхи,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नो रा꣡यः प꣡र्वतास् त꣡न् न आ꣡पस्  
 त꣡द् रातिषा꣡च ओ꣡षधीर् उत꣡ द्यउः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभे꣡ रो꣡दसी प꣡रि पासतो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वन॒स्पति॑ऽभिः । पृ॒थि॒वी । स॒ऽजोषाः॑ । उ॒भे इति॑ । रोद॑सी॒ इति॑ । परि॑ । पा॒स॒तः॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -127,41 +127,41 @@ genre M
 **नः** अस्माकम् । **तत्** इत्यव्ययम् । ताः **रायः** धनानि **पर्वताः** परिपान्तु। **नः** अस्माकं **तत्** ताः रायः **आपः** च परिपान्तु। **तद्रातिषाचः** दानसहिता देवपत्न्यश्च परिपान्तु। **ओषधीः** ओषधयश्च तत् परिपान्तु । **उत** अपि च **द्यौः** तत् परिपातु । **वनस्पतिभिः** **सजोषाः** सहिता **पृथिवी** अन्तरिक्षं च तत् परिपातु ।'आपः पृथिवी ' इत्यन्तरिक्षनामसु पाठात् । **नः** अस्माकं तत् **उभे** **रोदसी** द्यावापृथिव्यावपि **परि** **पासतः** परिरक्षताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the mountains, the waters, the liberal (wives of the gods), the plural nts, also the heaven and theearth, consentient with the forest lords and both the heaven and earth, preserve for us those (coveted) riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then let the mountains (apportion) us wealth, then let the waters, then  the Gift-Escorts, the plants, and Heaven,  
 and Earth jointly with the trees. The two world-halves will protect us all  around.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take rā́yaḥ here as nom. sg., parallel to the other entities like mountains and waters, but I do not see why the construction that ends vs. 22, ví dadhātu rā́yaḥ “let him apportion wealth,” is not simply continued here. There rā́yaḥ must be the obj. of the verb, whether acc. pl. or partitive gen. sg.; in either case the preferred accent would be rāyáḥ, but there are enough forms with the opposite accent that we need not be too troubled. If we can accept the wrong accent in 22d, I see no reason not to do so in 23a. Renou gestures towards my interpr. in his n.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may rich Mountains and the liberal Waters, so may all Herbs that grow on ground, and Heaven,  
      And Earth accordant with the Forest-Sovrans, and both the World-halves round about protect us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das sollen uns die Reichtümer, die Berge, das sollen uns die Gewässer, das die Ratisac´s, die Pflanzen und der Himmel, die Erde im Verein mit den Bäumen gewähren, beide Rodasi mögen uns ringsum schützen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das mögen uns die Reichen geben, die Berge, das die Wasser, das die Spenderinnen, die Kräuter und der Himmel, die Erde vereinigt mit den Bäumen; die beiden Welten mögen uns beschirmen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это нам (пусть дадут) Богатства, Горы; это нам - Вoды,  
 Это (пусть дадут) сопровождающие дары (богини), Растения, а также Небо,  

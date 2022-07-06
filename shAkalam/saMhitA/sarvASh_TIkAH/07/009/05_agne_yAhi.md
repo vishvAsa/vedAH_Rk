@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने याहि꣡ दूति꣡यम् मा꣡ रिषण्यो  
 देवाँ꣡ अ꣡छा ब्रह्मकृ꣡ता गणे꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡क्षि देवा꣡न् रत्नधे꣡याय वि꣡श्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सर॑स्वतीम् । म॒रुतः॑ । अ॒श्विना॑ । अ॒पः । यक्षि॑ । दे॒वान् । र॒त्न॒ऽधेया॑य । विश्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -128,35 +128,35 @@ genre M
 हे **अग्ने** **दूत्यं** दूतस्य कर्म हविर्वहनादि **याहि** **देवान्** **अच्छ** अभिगच्छ। **गणेन** संघेन सह **ब्रह्मकृता** ब्रह्मकृतोऽस्मानस्मदीयांश्च तव स्तोतॄन् मा **रिषण्यः** मा हिंसीः । **सरस्वतीं** **मरुतः** **अश्विना** अश्विनौ **अपः** चैतान् **देवान** **रत्नधेयाय** अस्मभ्यं रत्नदानाय **यक्षि** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Repair, **Agni**, to the presence of the gods in your office of messenger, (sent) by the assembly engagedin prayer; neglect us not; offer worship to **Sarasvati**, the **Maruts**, the **Aśvins**, the waters, the universal gods, thatthey may bestow treasures (upon us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, travel on your mission toward the gods—intend us no harm!— along with the band that creates poetic formulations. Sacrifice to Sarasvatī, to the Maruts, to the Aśvins, and to the Waters,  and to all the gods so that they grant wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go on thy message to the Gods, and fail not, O Agni, with their band who pray and worship.  
      Bring all the Gods that they may give us riches, Sarasvati, the Maruts, Asvins, Waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Geh deinen Botengang - versieh dich nicht! - zu den Göttern von der erbauenden Sängerschar gesandt! Opfere der Sarasvati, den Marut, den Asvin, den Gewässern, allen Göttern, daß sie Belohnung spenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geh aus auf Botschaft, Agni, säume nimmer, hin zu den Göttern mit der Schar der Beter; Sarasvati, die Maruts, Ritter, Wasser, die Götter alle ehr, dass Gut sie schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, иди со (своей) службой вестника – Не потерпи неудачи!-  
 К богам, (посланный) толпой (певцов,) творящих молитвы!  

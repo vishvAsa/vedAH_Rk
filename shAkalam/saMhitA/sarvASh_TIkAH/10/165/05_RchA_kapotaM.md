@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋचा꣡ कपो꣡तं नुदत प्रणो꣡दम्  
 इ꣡षम् म꣡दन्तः प꣡रि गां꣡ नयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हित्वा꣡ न ऊ꣡र्जम् प्र꣡ पतात् प꣡तिष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒म्ऽयो॒पय॑न्तः । दुः॒ऽइ॒तानि॑ । विश्वा॑ । हि॒त्वा । नः॒ । ऊर्ज॑म् । प्र । प॒ता॒त् । पति॑ष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
@@ -118,36 +118,36 @@ popular
 हे देवाः **ऋचा** मन्त्रेण स्तूयमानाः सन्तो यूयं **प्रणोदं** प्रकर्षेण नोदनीयं बहिष्कर्तव्यं **कपोतं** पक्षिणं **नुदत** अस्माद्गृहात् प्रेरयत निर्गमयत । तथा **मदन्तः** अस्माभिर्दत्तैर्हविर्भिर्माद्यन्तः **इषम्** अन्नं **गां** च **परि** **णयध्वं** परितोऽस्मभ्यं प्रापयत । किं कुर्वन्तः । **विश्वा** विश्वानि सर्वाणि **दुरितानि** कपोतोपहतिजन्यानि दोषजातानि **संयोपयन्तः** अदृश्यानि कुर्वन्तः । अपि च **पतिष्ठः** अतिशयेन पतिता शीघ्रोत्पातकः१ कपोतः **नः** अस्माकम् **ऊर्जम्** अन्नं **हित्वा** परित्यज्य **प्र** **पतात्** प्रकर्षेण पततु । पक्षाभ्यामुत्पततु ॥ ॥२३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Praised) by our hymn, O gods, drive out the pigeon, who deserves to be driven out, exhilarated (byour oblation), bring us food and cattle, dissipating all our misfortunes; abandoning our food, may the swift(pigeon) fly away.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With (this) verse give the dove a push. Rejoicing in refreshment, lead  your cow around,  
 effacing all difficulties. Having left for us our strengthening nourishment,  it will fly away the fastest in flight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive forth the Dove, chase it with holy verses: rejoicing, bring ye hither food and cattle,  
      Barring the way against all grief and trouble. Let the swift bird fly forth and leave us vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit einem Verse scheuchet die Taube fort; führet die Kuh herum, euch am Speisegenuß erfreuend, alle bösen Spuren austilgend! Sie fliege so schnell als möglich fort, unsere Kraft zurücklassend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben heute gesiegt, erlangt; von Sünden sind wir jetzt befreit; der böse Plan, der im Wachen oder Schlafen gefasst ist, der treffe den, welchen wir hassen, der treffe den, der uns hasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Гимном голубя оттолкните прочь!  
 Радуясь жертвенному напитку, обведите кругом корову,  

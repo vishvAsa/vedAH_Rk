@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡वा नो अग्ने अवितो꣡त꣡ गोपा꣡  
 भ꣡वा वयस्कृ꣡द् उत꣡ नो वयोधाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्रा꣡स्वोत꣡ नस् तनु꣡वो अ꣡प्रयुछन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रास्व॑ । च॒ । नः॒ । सु॒ऽम॒हः । ह॒व्यऽदा॑तिम् । त्रास्व॑ । उ॒त । नः॒ । त॒न्वः॑ । अप्र॑ऽयुच्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
@@ -135,7 +135,7 @@ genre M
 हे **अग्ने** त्वं **नः** अस्माकम् **अविता** दृष्टभयेभ्यो रक्षकः **भव** भूयाः। **उत** अपि च **गोपा:** अदृष्टभयेभ्यो गोप्ता रक्षको भव । **उत** अपि च **वयस्कृत्** अन्नस्य कर्ता **भव** । **वयोधा** अन्नस्य दाता भव । हे **सुमहः** सुष्ठु पूजनीयाग्ने त्वं स्वभूतां **हव्यदातिं** हविषो दातिं **नः** अस्मभ्यं **रास्व** **च** प्रयच्छ । **उत** अपि च **नः** अस्माकं स्वभूताः **तन्वः** शरीराणि **अप्रयुच्छन्** अप्रमाद्यन्' **त्रास्व** पालय ॥ ॥ २॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ genre M
 Protector, preserver: avitā and **gopā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become our helper, Agni, and our herdsman; become the creator of  vitality and the provider of vitality for us.  
 And grant to us the giving of oblations, o very great one, and safeguard  our bodies unremittingly.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, be thou our Guardian and Protector bestow upon us life and vital vigour.  
      Accept, O Mighty One, the gifts we offer, and with unceasing care protect our bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei uns, Agni, ein Gönner und Schützer, sei uns kraftschaffend und kraftbringend! Und gewähre uns einen Opferanteil, du Hochgeehrter, und schütze unablässig unsere Personen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du uns, Agni, Helfer und Beschützer, verschaffe uns, verleih uns Jugendstärke, Und schenk uns, hocherhabner, Opfergabe und schütze unsre Leiber unablässig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь нам, о Агни, помощником и защитником,  
 Будь нам создателем телесной силы и наделителем телесной силой!  

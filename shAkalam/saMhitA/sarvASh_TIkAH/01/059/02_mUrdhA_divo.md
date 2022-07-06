@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मूर्धा꣡ दिवो꣡ ना꣡भिर् अग्निः꣡ पृथिव्या꣡  
 अ꣡थाभवद् अरती꣡ रो꣡दसीयोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वइ꣡श्वानर ज्यो꣡तिर् इ꣡द् आ꣡रियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । त्वा॒ । दे॒वासः॑ । अ॒ज॒न॒य॒न्त॒ । दे॒वम् । वैश्वा॑नर । ज्योतिः॑ । इत् । आर्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mūrdhā* ← *mūrdhan*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M
 अयम् **अग्निः** **दिवः** द्युलोकस्य **मूर्धा** शिरोवत्प्रधानभूतो भवति । **पृथिव्याः** भूमेश्च **नाभिः** संनाहकः रक्षक इत्यर्थः। **अथ** अनन्तरं **रोदस्योः** द्यावापृथिव्योः अयम् **अरतिः** अधिपतिः **अभवत्** । हे **वैश्वानर** **तं** तादृशं **देवं** दानादिगुणयुक्तं **त्वा** त्वां **देवासः** सर्वे देवाः **आर्याय** विदुषे मनवे यजमानाय वा **ज्योतिरित्** ज्योतीरूपमेव **अजनयन्त** उदपादयन् ॥ मूर्तमस्मिन्धीयते इति मूर्धा (निरु. ७. २७ )। ‘श्वनुक्षन्' इत्यादौ निपातनात् रूपसिद्धिः । पृथिव्याः । पृथिवीशब्दः ‘षिद्गौरादिभ्यश्च ' इति ङीष्प्रत्ययान्तः अन्तोदात्तः । अजनयन्त। ‘जनीजॄष्कसुरञ्जोऽमन्ताश्च' इति मित्त्वात् ‘मितां ह्रस्वः' इति ह्रस्त्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,39 +136,39 @@ genre M
 This is the first verse of a tṛca to be recited on the day of the equinox. Agni is the head of heaven, as the principal element; Agni is the navel of earth, as its main source of support. Āryāya may refer to **Manu** as the instrumental tutor of the first sacrifice or to the **yajamāna**, the instrumental tutor of the present rite
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The head of heaven, the navel of the earth is Agni. And he became the  spoked wheel of the two world-halves.  
 You did the gods beget as god, Vaiśvānara, as light just for the Ārya  (people).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On aratí- as a spoked wheel, which often serves as the symbol for the ritual fire, see Thieme (Unters. 26ff., EWA s.v.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The forehead of the sky, earth's centre, Agni became the messenger of earth and heaven.  
      Vaisvanara, the Deities produced thee, a God, to be a light unto the Arya.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The head of heaven, the navel of the earth is Agni; he has become the steward 1 of both worlds. Thee, a god, the gods have engendered, O Vaisvânara, to be a light for the Ârya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Haupt des Himmels, der Nabel der Erde ist Agni, und er war der Lenker beider Welten. Als solchen erzeugten dich den Gott die Götter, als Leuchte für den Arier, o Vaisvanara.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Haupt, der Erde Nabel, Agni, ist beider Welten Diener er geworden, So haben dich den Gott gezeugt die Götter, o Männerhort, als Licht dem Volk der Arjer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни – глава неба, пуп земли.  
 Вот он стал посланником двух миров.  

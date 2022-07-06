@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् मित्रावरुणावतं र꣡थम्  
 आदित्यइ꣡ रुद्रइ꣡र् व꣡सुभिः सचाभु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 श्रवस्य꣡वो हृ꣡षीवन्तो वनर्ष꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । यत् । वयः॑ । न । पप्त॑न् । वस्म॑नः । परि॑ । श्र॒व॒स्यवः॑ । हृषी॑वन्तः । व॒न॒ऽसदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -112,7 +112,7 @@ genre M
 मित्रावरुणा हेमित्रावरुणौ आदित्यैः धात्रर्यमादिभिर्द्वादशभिः रुद्रैः एकादशसङ्ख्याकैः वसु- भिः धरोध्रुवइत्यादिभिरष्टसङ्ख्याकैः एवन्त्रिभिर्देवगणैः सचाभुवासहभवन्तौसहवर्तमानौयुवां अ- स्माकं रथंअन्नलाभाय प्रवृत्तंअबतम् यद्यदास्मदीयारथाः वस्मनः परिवसन्त्यस्मिन्नितिवस्मनिवा- सस्थानं औणादिकोमनिन् तस्मात् स्थानात् परिउपरिदेशान्तरे पञ्चम्याःपरावध्यर्थेइतिसत्वम् अध्यर्थउपर्यर्थइतिवृत्तिः वयोन पक्षिणइव प्रपप्तन् प्रपतन्ति प्रकर्षेणगच्छन्ति पतेश्छान्दसेलुङि ऌदित्वात् च्लेरङादेशः पतःपुमितिपुमागमः कीदृशावयः श्रवस्यवोन्नकामाः हृषीवन्तः प्राप्त- हर्षाः वनर्षदः वनेवृक्षादौनिषण्णाः सांहितिकश्छान्दसोरेफोपजनः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,34 +123,34 @@ genre M
 Protect our sacrificial chariot: asmākam avatam ratham: the cart or wagon to bring food (as mentioned in the next hymn), perhaps, **Soma**, to prepare the libation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Help the chariot belonging to us, o Mitra and Varuṇa, in partnership  with the Ādityas, Rudras, and Vasus,  
 when those seeking fame, excited, sitting on/in wood, fly forth like birds  from their dwelling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As pointed out in the published introduction, the last word of the vs., vanarṣád- ‘sitting in/on the wood(s)’, applies both to the simile -- the birds sitting in the trees -- and the frame -- the charioteers sitting on the wooden chariot. The same qualifier could also characterize other aspects of the sacrifice -- the ritual fires sitting on the firewood, the soma drinks in the wooden cups (for both of which see X.46.7). It is more difficult to apply it to the priests, who are presumably the underlying referents of the plural subject here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HELP, Varuna and Mitra, O ye Twain allied with Vasus, Rudras, and Adityas, help our car,  
      That, as the wild birds of the forest from their home, our horses may fly forth, glad, eager for renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unseren Wagen bevorzuget, Mitra, und Varuna, im Bunde mit den Aditya´s, den Rudra´s, den Vasu´s, wenn sie davonfliegen wie Vögel aus dem Neste, ruhmbegierig, kampffroh, im Holze sitzend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Befördert unsern Wagen, Mitra-Varuna, mit der Aditja-, Rudra-, Vasu-Schar vereint, Wenn gleich wie muntre Waldesvögel aus dem Nest nun vorwärts fliegen die den Preis erstrebenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нашей колеснице помогите, о Митра-Варуна,  
 Сопровождаемые Адитьями, Рудрами, Васу,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प हत रक्ष꣡सो भङ्गुरा꣡वत  
 स्कभाय꣡त नि꣡रृतिं से꣡धता꣡मतिम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवावि꣡यम् भरत श्लो꣡कम् अद्रयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । र॒यिम् । सर्व॑ऽवीरम् । सु॒नो॒त॒न॒ । दे॒व॒ऽअ॒व्य॑म् । भ॒र॒त॒ । श्लोक॑म् । अ॒द्र॒यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -114,37 +114,37 @@ genre M
 हे अद्रयः यूयम् **अप** **हत** विनाशयत **रक्षसः** राक्षसान् । कीदृशान् । **भङ्गुरावतः** भञ्जकेन कर्मणा तद्वतः । तथा स्कभायत दूरे परिहरत **निर्ऋतिं** पापदेवताम् । यथामुं यज्ञं नागच्छति तथा। किंच **सेधत** निषेधत **अमतिं** हिंसामतिं रक्षःप्रभृतिम्। किंच **नः** अस्माकं **सर्ववीरं** बहुपुत्राद्युपेतं रयिं धनम् आ **सुनोतन** । अभिषवेन पुत्रधनादीनां लाभादेवमुक्तम् । किंच **देवाव्यं** देवप्रीणनं **श्लोकं** भरत संपादयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drive away the disturbing **rākṣasas**; keep off **Nirṛti**; prohibit all malignity; effuse for us riches withmale progeny; bear, stones, the praise that delights the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smash away the demons with their wreckage. Block Dissolution. Repel  heedlessness.  
 Press out wealth in hale heroes for us. Carry a tune that pursues the  
 gods, you stones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive ye the treacherous demons far away from us: keep Nirrti afar and banish Penury.  
      Pour riches forth for us with troops of hero sons, and bear ye up, O Stones, the song that visits Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlaget die hinterlistigen Unholde hinweg, bannet das Verderben, haltet die Ratlosigkeit fern! Presset uns einen Schatz von lauter Söhnen heraus; erhebet, ihr Steine, euren taktmäßigen Klang, der die Götter einlädt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die trügerischen Nachtgespenster jagt hinweg, Verderben bannt und wehret allen Mangel ab; O presst uns Reichthum, volle Heldenschar herbei, erhebt Getön, ihr Steine, das die Götter labt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выбейте (отсюда) коварных ракшасов!  
 Оттолкните Гибель! Прогоните отсутствие мыслей!  

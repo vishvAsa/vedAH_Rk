@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने मन्यु꣡म् प्रतिनुद꣡न् प꣡रेषाम्  
 अ꣡दब्धो गोपाः꣡ प꣡रि पाहि नस् त्व꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अमइ꣡षां चित्त꣡म् प्रबु꣡धां वि꣡ नेशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र॒त्यञ्चः॑ । य॒न्तु॒ । नि॒ऽगुतः॑ । पुन॒रिति॑ । ते । अ॒मा । ए॒षा॒म् । चि॒त्तम् । प्र॒ऽबुधा॑म् । वि । ने॒श॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -129,7 +129,7 @@ popular
 हे **अग्ने** **परेषां** शत्रूणां **मन्युं** क्रोधं **प्रतिनुदन्** प्रतिमुखं प्रेरयन् तिरस्कुर्वन् **अदब्धः** केनाप्यहिंसितो **गोपाः** गोपायिता ॥ गुपू रक्षणे ' इत्यस्मात् आयप्रत्ययान्तात् क्विपि वेरपृक्तस्य लोपात पूर्वं चलि लोपे रूपमेतत् ॥ ईदृशः **त्व** **नः** अस्मान् **परि** **पाहि** परितः सर्वतो रक्ष । **ते** शत्रवः **प्रत्यञ्चः** प्रत्यञ्चन्तः प्रतिनिवर्तमानाः **निगुतः** ।  ‘ गुङ् अव्यक्ते शब्दे ' । अस्मात् क्विपि तुक् ॥ भयेन गद्गदरूपमव्यक्तं शब्दं नितरां कुर्वन्तः **पुनः** **यन्तु** स्वकीयं स्थानं पुनर्गच्छन्तु । अपि व **प्रबुधां** प्रबुध्यमानानाम् **एषां** शत्रूणां **चित्तं** ज्ञानसाधनं मनः **अमा** सह युगपदेव **वि** **नेशत्** विनश्यतु ॥ प्रत्येकाभिप्रायेणैकवचनम् ।' णश अदर्शने ' इत्यस्माच्छान्दसो लुङ् । पुषादित्वात् च्लेरादेशः ।  ‘ नशिमन्योरलिढ्येत्वं वक्तव्यम् ' ( पा.सू. ६.४, १२०.५) इत्यकारस्यैत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ popular
 Him I praise:i.e., **Indra** or **Savitā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, repulsing the battle fury of the others [=the enemy], as an  undeceivable herdsman, protect us on every side.  
 Let the challengers bearing down turn back: at home their intention will  disappear when they awaken.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Baffling the wrath of our opponents, Agni, guard us as our infallible Protector.  
      Let these thy foes turn back and seek their houses, and let their thought who watch at home be ruined.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, wehre du die böse Absicht der Gegner ab, schütze du uns als unfehlbarer Wächter! Die Schwätzer sollen wieder umkehren; daheim soll ihre Absicht, wann sie erwachen, zerrinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zurück die Wuth der Feinde stossend, Agni! sei du um uns ein Hüter, nie zu täuschen; Die Schmäher mögen wieder rückwärts weichen, und ihre Pläne schon daheim zerscheitern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, отталкивая ярость (наших) врагов,  
 Как надежный сторож, охраняй ты нас со всех сторон!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ न꣡व्यसा स꣡हसः सूनु꣡म् अ꣡छा  
 यज्ञे꣡न गातु꣡म् अ꣡व इछ꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वीती꣡ हो꣡तारं दिवियं꣡ जिगाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒श्चत्ऽव॑नम् । कृ॒ष्णया॑मम् । रुश॑न्तम् । वी॒ती । होता॑रम् । दि॒व्यम् । जि॒गा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -114,20 +114,20 @@ genre M
 **गातुम्** उपगन्तव्यं स्तोतव्यं वा **सहसः** **सूनुं** बलस्य पुत्रमग्निम् **अवः** अन्नं रक्षणं वा **इच्छमानः** इच्छन् स्तोता **नव्यसा** नवतरेण **यज्ञेन** युक्तः सन् **अच्छ** आभिमुख्येन **प्र** **जिगाति** प्रकर्षेण गच्छति । कीदृशमग्निम् । वृश्चद्वनं वृक्णं छिन्नं दग्धं वनं येन तादृशं **कृष्णयामं** कृष्णवर्त्मानं **रुशन्तं** श्वेतवर्णं **वीती** वीत्या कान्तेन यज्ञेन    **होतारं** यष्टारं **दिव्यं** दिवि भवम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is desirous of food has recourse with a new sacrifice, approachable son of strength (**Agni**), to you the consumer of forests, the dark-pathed, the bright shining, the ministrant (to the gods) of (sacrificial) food, the divine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth to the son of strength with newer (speech), with a sacrifice, seeking  a way, seeking help,  
 he [=the mortal] goes in pursuit—to the heavenly Hotar, wood-hewing,  gleaming but with a black course.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subject of this vs. is not overtly expressed, but it cannot be Agni, who is the acc. goal. Renou cleverly suggests that the subject is indicated by the participle gṛṇánt- ‘singing, singer’ in the last pāda of this hymn. If so, this is an oblique form of ring composition.
 
@@ -136,28 +136,28 @@ Contrary to my usual principles, rather than construing návyasā with yajñéna
 The hapax vṛścád-vana- ‘hewing wood’ shows the poet’s penchant for the type of cmpd. that provides his name, Bharád-vāja. Cf. also ṛdhád-vāra- in VI.3.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE who seeks furtherance and grace to help him goes to the Son of Strength with newest worship,  
      Calling the heavenly Priest to share the banquet, who rends the wood, bright, with his blackened pathway.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The man who seeks success and aid approaches The son of strength, with feast and newest worship. He rends the wood and has a blackened pathway, The brightly radiant and divine invoker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Sohn der Kraft tritt der Hotri heran mit dem jüngsten Opfer, guten Fortgang und Gunstheischend, unter Zureden zum himmlischen Hotri, dem Holzspalter, dessen Weg schwarz ist, dem Weißglänzenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Gunst begehrt und Wohlergehn, der eilet mit neuem Opfer hin zum Sohn der Stärke, Mit Opfermahl zum lichten Himmelspriester, der Holz zerspaltet, schwarze Bahnen wandert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К сыну силы под(ходит жрец) с новой  
 Жертвой, ища (благополучного) исхода (и) помощи.  

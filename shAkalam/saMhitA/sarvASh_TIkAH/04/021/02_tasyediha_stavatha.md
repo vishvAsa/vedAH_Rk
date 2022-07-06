@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्ये꣡द् इह꣡ स्तवथ वृ꣡ष्णियानि  
 तुविद्युम्न꣡स्य तुविरा꣡धसो नॄ꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 साह्वा꣡न् त꣡रुत्रो अभि꣡ अ꣡स्ति कृष्टीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । क्रतुः॑ । वि॒द॒थ्यः॑ । न । स॒म्ऽराट् । स॒ह्वान् । तरु॑त्रः । अ॒भि । अस्ति॑ । कृ॒ष्टीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasyed* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
@@ -125,7 +125,7 @@ genre M
 **तुविद्युम्नस्य** बहुकीर्तेः **तुविराधसः** बहुधनस्य **तस्येत्** तस्येन्द्रस्यैव **वृष्ण्यानि** बलभूतान् **नॄन्** नेतॄन् मरुतो हे स्तोतारो यूयम् **इह** अस्मिन् यज्ञे **स्तवथ** स्तुत । **साह्वान्** शत्रूनभिभावुकः **तरुत्रः** अस्मानापद्भयस्तारकः **यस्य** इन्द्रस्य **क्रतुः** कर्म **कृष्टीः** शत्रुसंबन्धिनीः प्रजाः **अभ्यस्ति** अभिभवति । तत्र दृष्टान्तः । **विदथ्यो** **न** **सम्राट्** । विदथार्हः' यज्ञार्हः सम्राट् सकललोकानाम् अधिपतिरिव तद्वत् । तस्य वृष्ण्यानि इति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 The powerful leaders: vṛṣnyāni nṛn = balabhūtān netṛn, i.e., the **Maruts**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here will you praise the bullish forces of him alone, the powerfully  brilliant and powerfully generous man,  
 whose resolve, conquering and victorious like a sovereign king making  ceremonial distributions, overwhelms the separate peoples.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nṛ́̄n in pāda b is problematic. It appears to be an acc. pl., and in fact is an acc. in the same phrase tuvirā́dhaso nṛ́̄n in V.58.2 (referring to the Maruts). But here the undoubted gen. sg. tuvidyumnásya immediately preceding (and morphologically parallel to tuvirā́dhasaḥ) invites a gen. sg. reading also of ambiguous tuvirā́dhasaḥ. This in turn presents us with several choices: 1) to take nṛ́̄n as a real gen. sg., 2) to assume that the last two words were borrowed from V.58.2 (or based on the formula found therein) and not adjusted morphologically, so that nṛ́̄n is functionally a gen. sg. but formally an acc. pl., or 3) to detach nṛ́̄n syntactically from what precedes it. Oldenberg opts for option 2 (see disc. in ZDMG 55 [1901]: 745-47 = KlSch. 286-88). He assumes that since tuvirā́dhasaḥ can represent either acc. pl. or gen. sg., when the formula in V.58.2 was imported here, nṛ́̄n could come along for the ride, functioning as a gen. sg. though adopted from an acc. pl. environment. The third tack is taken by Geldner, who takes ṇṛ́̄n as a complement of gen. sg. tuvirā́dhasaḥ (“des … gegen die Männer Freigebigen”), and by Witzel Gotō, somewhat differently. The latter take nṛ́̄n as a second obj. of stavatha (besides vṛ́ṣṇyāni), with the two genitives preceding it hanging off it and modifying Indra: “… seine stierhaften (Kräfte) sollt ihr hier preisen, (und) die Männer des …” (A fourth option, a variant of 3, would be possible: to take tuvirā́dhaso nṛ́̄n as the 2nd acc. obj., with only tuvidyumnásya a gen.) Presumably the “men” Witzel Gotō have in mind are the Maruts, who do appear with Indra in the very next vs. (marútvān 3c) and as just noted are the referents of the undoubted acc. phrase in V.58.2. As for option 1, without endorsing this solution I would point out that a variant of this might be possible. The expected gen. sg. to the root noun
 
@@ -152,23 +152,23 @@ The nṛ́̄n in pāda b is problematic. It appears to be an acc. pl., and in fa
 In d the verb abhy ásti ‘overwhelms’ picks up the nominal abhíbhūti- ‘overwhelming(ness)’ in 1d, with the substitution of √as for √bhū.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here magnify his great heroic exploits, most glorious One, enriching men with bounties,  
      Whose will is like a Sovran in assembly, who rules the people, Conqueror, all-surpassing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Bullenkräfte sollet ihr hier preisen, des Glanzreichen, gegen die Männer Freigebigen, dessen Umsicht wie ein weiser König überlegen, aus Not helfend, die Völker beherrscht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr preiset hier ja seine Heldenkräfte, die Mannen auch des Gut- und Glanz-erfüllten, Dess Macht hervorragt, wie im Rath der König, vordringend siegreich über alle Völker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его бычьи силы вы должны здесь восхвалять,  
 (Его,) обладающего мощным сиянием, мощной силой одаривания мужей,  

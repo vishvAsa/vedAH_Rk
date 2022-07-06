@@ -6,14 +6,14 @@ ChandaH = "गायत्री यवमध्या"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सुन्वे यो꣡ व꣡सूनां᳐  
 यो꣡ राया꣡म् आनयिता꣡+ य꣡ इ꣡ळाना᳐म्  
 सो꣡मो यः꣡ सुक्षितीना᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सोमः॑ । यः । सु॒ऽक्षि॒ती॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,19 +93,19 @@ genre M
 **सः** सोमः **सुन्वे** अभिसुषुव ऋत्विग्भिः । **यः** सोमः **वसूनां** धनानाम् **आनेता** **यः** च **रायाम्** । रान्ति प्रयच्छन्ति क्षीरादिकमिति रायो गावः । तेषामानेता **यः** च **इळानाम्** अन्नानां च **यः** च **सोमः** **सुक्षितीनां** सुनिवासानां शोभनमनुष्ययुक्तानां गृहाणामानेता विद्यते सोऽभिषुतोऽभूदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** has been effused who is the bringer of treasures, the bringer of riches, the bringer of food, the bringer of fair homes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is pressed—who is the leader of goods, of riches, of Iḍā-offerings, Soma, who (is the leader) of good settlements,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
 <details open><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -115,23 +115,23 @@ The main cl. in these two vss. consists of the first two words of 13, sá sunve 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused is he who brings good things, who brings us bounteous gifts and sweet refreshing food,  
      Soma who brings us quiet homes:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma wird ausgepreßt, der der Bringer der Schätze, der Reichtümer, der Labungen, der guten Wohnsitze ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ist er der Güter bringt, der reichen Schatz und Labetränke zu uns führt, Und sichern Sitz, der Somasaft,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он выжимается, (тот,) кто поставщик благ,  
 Кто – богатств, кто – возлияний,  

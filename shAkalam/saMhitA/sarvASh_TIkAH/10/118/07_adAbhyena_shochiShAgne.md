@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दाभियेन शोचि꣡षा  
 अ꣡ग्ने र꣡क्षस् तुवं꣡ दह  
 गोपा꣡ ऋत꣡स्य दीदिहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; repeated line
 गो॒पाः । ऋ॒तस्य॑ । दी॒दि॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adābhyena* ← *adābhya*
 - \[noun\], instrumental, singular, neuter
@@ -78,36 +78,36 @@ genre M;; repeated line
 हे **अग्ने** **त्वम्** **अदाभ्येन** अहिंस्येन **शोचिषा** तेजसा **रक्षः** । जातावेकवचनम् । सर्वान् राक्षसान् **दह** विनाशय । किंच **ऋतस्य** यज्ञस्य **गोपाः** गोपायिता सन् **दीदिहि** दीप्यस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With your indestructible flame, **Agni**, do you consume the **Rākṣasas**; shine, the defender of thesacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With undeceivable flame, o Agni, burn demonic power.  
 Shine as the herdsman of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, burn the Raksasas with thine unconquerable flame  
      Shine guardian of Eternal Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit unbeirrbarer Glut verbrenne du, Agni, den bösen Geist; leuchte als der Wahrheit Hüter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit untilgbarer Flammenglut, o Agni, brenn' das Nachtgespenst, Erglänze als des Rechtes Hort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Невредимым пламенем,  
 О Агни, спали ты ракшаса!  

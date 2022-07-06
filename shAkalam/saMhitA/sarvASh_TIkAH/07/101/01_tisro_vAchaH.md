@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ वा꣡चः प्र꣡ वद ज्यो꣡तिरग्रा  
 या꣡ एत꣡द् दुह्रे꣡ मधुदोघ꣡म् ऊ꣡धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सद्यो꣡ जातो꣡ वृषभो꣡ रोरवीति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 सः । व॒त्सम् । कृ॒ण्वन् । गर्भ॑म् । ओष॑धीनाम् । स॒द्यः । जा॒तः । वृ॒ष॒भः । रो॒र॒वी॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
@@ -144,7 +144,7 @@ genre D
 ऋषिरात्मानं स्तुतौ प्रेरयति । हे ऋषे **तिस्रः** त्रिविधा ऋग्यजुःसामात्मिकाः स्तुतिरूपाः **वाचः** **प्र** **वद** प्रब्रूहि । कीदृश्यो वाचः । **ज्योतिरग्राः** । ज्योतिर्द्योतमानः प्रणवोऽग्रे प्रमुखो यासां तादृशीः । **याः** वाचः **मधुदोघं** मधुन उदकस्य दोहकं वृष्ट्युदकस्य कर्तारम् **एतत्** नभसि दृश्यमानम् **ऊधः** उद्धृतं मेघम् । यद्वा । लुप्तोपममेतत् । ऊध इव पयस आश्रयभूतं मेघं **दुह्रे** दुहते । दुहेर्लटि ‘लोपस्त आत्मनेपदेषु' (पा. सू. ७. १. ४१ ) इति तलोपः । बाहुलको रुट् । स्तोत्रैः प्रीतो हि पर्जन्यो मेधैर्वर्षयति । अतो वाच एव दुहन्तीत्युपचर्यते । यद्वा । वदेति व्यत्ययेन मध्यमः । तिस्र इति द्रुतविलम्बितमध्यमभेदेन त्रिविधा ज्योतिरग्रा विद्युत्प्रमुखा वाचः प्रवदेतेति। या गर्जितलक्षणा वाचो वृष्टिप्रदमेतं मेघं दुह्रे उदकानि दुहन्ति । एवंभूतः **सः** च पर्जन्यः **वत्सं** सह निवसन्तं वैद्युताग्निं **कृण्वन्** प्रादुष्कुर्वन् तमेव **ओषधीनां** व्रीह्यादीनां च **गर्भं** कुर्वन् **सद्यः** शीघ्रं **जातः** प्रादुर्भूतः **वृषभः** वर्षिता सन् **रोरवीति** भृशं शब्दायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,13 +155,13 @@ genre D
 Three sacred texts: three **vedas**, preceded by Om; water-yielding udder: the cloud; the showerer:**parjanya**, plural ased with the hymns, and in consequence, sending rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Speak forth the three speeches with light at their front, which milk this  udder milking out honey.  
 Creating the calf, the embryo of the plants [=Agni], as soon as he is born  the bull sets to bellowing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was noted in the published introduction, this hymn has a penchant for triplets, but it is not always clear which three entities are referred to -- as in this vs., at least for me, with “the three speeches.” As Geldner points out (n. 1a), the identities of the speeches depends on the identity of the addressee of the impv. “speak forth” (prá vada). If it is Parjanya, the dedicand of the hymn, they probably refer to thunder(claps) (so, e.g., Lüders, Va 392 -- three because they sound in the three heavenly domains) or thunder, lightning, and rain (so, e.g., Doniger 174). I am inclined to follow Lüders but for reasons 132 differing from his. I suggest that this could be an early version of the triple utterance “da da da” of Thunder in BĀU V.2, made famous in the West by T. S. Eliot in the section of The Wasteland entitled “What the Thunder Said.” Note that in BĀU V.2.3 Thunder or the thundering one (stanayitnuḥ) is identified as daivī vāk (like the three vā́c- here).
 
@@ -176,23 +176,23 @@ In the published translation of the 2nd hemistich it was not made clear which no
 The bull is surely Parjanya, as is confirmed by the identical phraseology of vs. 2 of the next, related hymn (VII.102.2): yó gárbham óṣadhīnām … kṛṇóti … / parjányaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SPEAK forth three words, the words which light precedeth, which milk this udder that produceth nectar.  
      Quickly made manifest, the Bull hath bellowed, engendering the germ of plants, the Infant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heb an die drei Stimmen, denen das Licht vorangeht, die das Süßes spendende Euter melken! Das Kalb erzeugt er, den Keim der Pflanzen; der Stier brüllt alsbald nach seiner Geburt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei Worte nenne, denen Licht vorangeht, und die das nektarreiche Euter saugen, Laut brüllt der Stier, sobald er ist geboren, schafft junge Brut und Keime der Gewächse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Произнеси три речи, впереди которых свет,  
 (Те,) что доятся из этого вымени, струящего мед.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा यो꣡ ग꣡न्ता ना꣡धमानम् ऊती꣡  
 इत्था꣡ वि꣡प्रं ह꣡वमानं गृण꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡स्राणि शता꣡नि व꣡ज्रबाहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । त्मनि॑ । दधा॑नः । धु॒रि । आ॒शून् । स॒हस्रा॑णि । श॒तानि॑ । वज्र॑ऽबाहुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M
 **वज्रबाहुः** वज्रहस्तः **यः** इन्द्रः **त्मनि** आत्मनि स्थितानात्मवश्यान् **सहस्राणि** सहस्रसंख्याकान् **शतानि** शतसंख्याकान् **आशून्** शीघ्रगामिनोऽश्वान् **धुरि** रथवहनप्रदेशे **उप** **दधानः** संस्थापयन् **ऊती** रक्षणार्थं **नाधमानं** याचमानं **विप्रं** मेधाविनं **हवमानम्** आह्वयन्तम् **इत्था** इत्थमनेन प्रकारेण **गृणन्तं** स्तुवन्तं यजमानम् **अच्छ** आभिमुख्येन **गन्ता** गमनशीलः । भवतीति शेषः । स इन्द्रः सुतीर्थानि अभयं च करोत्विति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(That **Indra**), who repairs to the suppliant or (his) protection, to the sage in this manner invoking and praising him; he who, armed with the thunderbolt, plural ces, of his own accord, hundred and thousands of swift-going (horses) in the shafts (of their cars).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who will come here with his help to a man in distress, to an inspired  poet who calls and hymns just so—  
 the mace-bearer putting his swift (horses) to the chariot-pole in person— hundreds and thousands (of them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who with succour comes to his implorer, the singer here who with his song invites him;  
      He who himself sets to the pole swift Coursers, he who hath hundreds, thousands, Thunder-wielder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der zu dem Schutzbedürftigen mit seiner Hilfe kommt, zu dem darum rufenden und preisenden Redner, indem er selbst die Renner an die Deichsel legt, die Tausende, Hunderte, mit der Keule im Arm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der zu dem flehnden hülfereich herbeikommt zum Sänger, der ihn ernstlich ruft und preiset, Anschirrend selbst die Schnellen an die Deichsel, den Blitz im Arm, die hunderttausend Rosse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он тот,) кто приходит с поддержками к нуждающемуся в помощи,  
 К вдохновенному, который поэтому зовет (его и) воспевает,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अस्या꣡नीकम् उत꣡ चा꣡रु ना꣡म  
 अपीचि꣡यं वर्धते न꣡प्तुर् अपा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हि꣡रण्यवर्णं घृत꣡म् अ꣡न्नम् अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यम् । इ॒न्धते॑ । यु॒व॒तयः॑ । सम् । इ॒त्था । हिर॑ण्यऽवर्णम् । घृ॒तम् । अन्न॑म् । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -126,7 +126,7 @@ genre M
 अस्यापान्नप्तुर्देवस्यअनीकंरश्मिसमूहरूपंशरीरञ्चारु शोभनं उतअपिच अस्यनामसञ्ज्ञाच चारु शोभनं नपातयतिनविनाशयतीतिनपादितितद्भ्युत्पत्तेः तदुभयंअपीच्यंअन्तर्हितनामैतत् मेघान्त र्हितंसद्वर्धतेयुवतयः सङ्गमनस्वभावाआपः हिरण्यवर्णंहिरण्यसमानतेजसं यमपान्नपातं इत्थाअ मुत्रान्तरिक्षेसमिन्धते सम्यक् दीपयन्ति अस्यचदेवस्यघृतङ्क्षरणशीलमुदकमन्नम्भक्ष्यं अबिन्धनोह्य सौवैद्युतोग्निः ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ genre M
 Both flourish though hidden by the clouds: apīcyam vardhate meghāntarhitam sad vardhate = increases though concealed by the clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This his face and his dear secret name grow strong—(the name) of the  Child of the Waters—  
 whom the youthful women together kindle just so: golden-hued ghee is  food for him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This the fair name and this the lovely aspect of him the Waters' Son increase in secret.  
      Whom here the youthful Maids together kindle, his food is sacred oil of golden colour.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 That countenance of him, that name belovèd Of him, the Waters' Son, increase in secret. Whom thus the maidens all together kindle, Of him, the golden-hued, the food is butter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses sein Antlitz und der teure Name des Apam Napat, wird heimlich groß, den die Jungfrauen hier entzünden. Goldfarbiges Schmalz ist seine Speise.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies sein Erscheinen und sein liebes Wesen, des Wassersohnes, im Verborgnen wächst es, Den andachtsvoll entzünden hell die Jungfrau'n, den goldgefärbten, Schmalz ist seine Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот его лик и милое тайное  
 Имя Апам Напата возрастает (у бога,)  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ अभि꣡ प्र꣡ अर्चत  
 इ꣡न्द्रं सो꣡मस्य पीत꣡ये  
 त꣡द् इ꣡द् धि꣡ अस्य व꣡र्धनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 तत् । इत् । हि । अ॒स्य॒ । वर्ध॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -91,41 +91,41 @@ genre M
 हे ऋत्विजः तमु तमेव **इन्द्रम्** **अभि** आभिमुख्येन **प्रार्चत** प्रकर्षेण स्तुत । किमर्थम् । **सोमस्य** **पीतये** अत्रागत्य सोमपानाय । किमर्थं सोमपानायेति विशेष्यते तदाह । **तदित्** तत्सोमपानमेव **अस्य** इन्द्रस्य **वर्धनं** वर्धकं भवति खलु । तस्मात्सोमपानजहर्षाय प्रार्चत ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Loudly praise that **Indra** that he may drink the **Soma**-- it is this which gives him strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth to him, to Indra, to drink the soma,  
 for that is his strengthening.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 abhí prá √ṛc picks up abhí prá √gā of 1b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Call Indra loudly with your songs of praise to drink the Soma juice.  
      For this is what augments his stiength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf ihn stimmet das Lied an, auf Indra, daß er den Soma trinke, denn das ist seine Stärkung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besinget diesen Indra nun, begleitend seinen Somatrunk Denn das ist seine Labung ja.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

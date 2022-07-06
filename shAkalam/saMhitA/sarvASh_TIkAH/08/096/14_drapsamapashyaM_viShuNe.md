@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्रप्स꣡म् अपश्यं वि꣡षुणे च꣡रन्तम्  
 उपह्वरे꣡ नदि꣡यो अंशुम꣡त्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡ष्यामि वो वृषणो यु꣡ध्यताजउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नभः॑ । न । कृ॒ष्णम् । अ॒व॒त॒स्थि॒ऽवांस॑म् । इष्या॑मि । वः॒ । वृ॒ष॒णः॒ । युध्य॑त । आ॒जौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 केचिद् **इष्यामि वो मरुत** इति पठन्ति । तत्र हे मरुतः वो युष्मान् इच्छामीत्य् अर्थो भवति ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ genre M
 This is **Indra**'s speech to the **Maruts**. Though the demon thinks he is concealing himself, he isseen as clearly by Indra as the sun is behind a cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “I saw the Droplet wandering  
 in the oscillating eddy of the Aṃśumatī River,  
@@ -142,7 +142,7 @@ descending like a black cloud.
 I dispatch you, bulls. Fight in the contest.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final word in a, enā, is taken as enāḥ by the Pp., a reading followed by Grassmann, Geldner, Oldenberg, and Lubotsky; in this interpretation it modifies or doubles (since ena- is a pronominal, not an adjectival demonstrative stem) fem. acc. pl. púraḥ earlier in the pāda. I do not rule this out, but wonder whether it can be the enclitic instr. sg. enā to ayám in the meaning ‘in that way, i.e., how’. See enā ‘thereby’ in V.2.11, in addition to personal uses (‘with him’) in IX.96.2, X.108.3.
 
@@ -174,7 +174,7 @@ I am inclined to see it as a treatment of the ritual step of rinsing the soma in
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I saw the Drop in the far distance moving,  
 on the slope bank of Amsumati's river,  
@@ -182,17 +182,17 @@ Like a black cloud that sank into the water.
 Heroes, I send you forth. Go, fight in battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich sah den Drapsa in schlimmer Lage im Schoße des Flusses Amsumati, ich sah den Krishna, der schwarz wie eine Wolke hinabgestiegen war. Euch, Bullen, biete ich auf: Kämpfet im Streite!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sah den Tropfen wandern in der Ferne im Niedergang des somareichen Stromes; Er kam herab wie eine schwarze Wolke, ich send' ihn euch, o Helden, kämpft in Schlachten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

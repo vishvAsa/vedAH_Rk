@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानरा꣡य धिष꣡णाम् ऋतावृ꣡धे  
 घृतं꣡ न꣡ पूत꣡म् अग्न꣡ये जनामसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धिया꣡ र꣡थं न꣡ कु꣡लिशः स꣡म् ऋण्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द्वि॒ता । होता॑रम् । मनु॑षः । च॒ । वा॒घतः॑ । धि॒या । रथ॑म् । न । कुलि॑शः । सम् । ऋ॒ण्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
@@ -121,7 +121,7 @@ genre M
 ऋतवृधे ऋतस्योदकस्य यज्ञस्यवावर्धयित्रेवैश्वानराय वैश्वानरशब्दोयास्केनव्याख्यातः—वैश्व नरः कस्माद्विश्वान्नरान्नयतिविश्वएवन्नरानयन्तीतिवाअपिवाविश्वानरएवस्यात् प्रत्यृतः सर्वाणिभूता नितस्यवैश्वानरस्तस्यैषाभवतीति । तस्मैअग्नये पूतघृतन्न घृतमिव धिषणांस्तुतिञ्जनामसिजनया मः यथाघृतम्प्रीतिञ्जनयति तथाप्रीतिङ्करोमीत्यर्थः द्विताद्विधागार्हपत्याहवनीयरूपाभ्यांयुक्तं होता रन्देवानामाह्वातारमग्निम्मनुषः मनुष्याः वाघतश्चऋत्विजश्च धियाकर्मणाकुलिशोवास्यादिः रथन्न रथमिव समृण्वतिसंस्कुर्वन्ति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,35 +132,35 @@ genre M
 To his twofold function: to the lighting of the **gārhapatya** and **āhavanīya**, the domestic and sacrificial fires; cf. vaiśvānara: (**Nirukta** 7.21)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We give birth to the Holy Place for Vaiśvānara, who grows strong  through the truth, like purified ghee for Agni.  
 Once again, as an axe brings together a chariot, the chanters (bring  together) with their insight the Hotar [=Agni], (who was) also (the  
 Hotar) of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, Vaisvanara, who strengthens Holy Law, to Agni we present our praise like oil made pure.  
      With thoughtful insight human priests bring him anear, our Herald from of old, as an axe forms a car.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For Vaisvânara, the increaser of Rita, for Agni we produce 1 a Dhishanâ 2 like purified ghee. And verily 3 by their prayer the invoking men (accomplish) him, the Hotri, as the axe accomplishes a chariot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Agni Vaisvanara, den Mehrer der Wahrheit, schaffen wir ein Werk, abgeklärt wie Schmalz. Abermals bringen ihn, der der Hotri auch des Manu war, die Priester mit Kunst zustande wie das Beil den Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Männerhort, dem Agni, der des Rechts sich freut, erzeugen Loblied wir wie reines Opferschmalz, Und ihn den Priester richten fromme Menschen zu, mit Kunstverstand, so wie das Beil den Wagen schnitzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Агни Вайшванары, умножающего закон,  
 Мы слагаем поэтическое подношение, очищенное, как жир.  

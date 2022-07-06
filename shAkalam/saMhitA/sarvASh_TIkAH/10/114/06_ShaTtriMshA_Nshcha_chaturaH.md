@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 षट्त्रिंशां꣡श् च चतु꣡रः कल्प꣡यन्तश्  
 छ꣡न्दांसि च द꣡धत आदुवादश꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋक्सामा꣡भ्याम् प्र꣡ र꣡थं वर्तयन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒ज्ञम् । वि॒ऽमाय॑ । क॒वयः॑ । म॒नी॒षा । ऋ॒क्ऽसा॒माभ्या॑म् । प्र । रथ॑म् । व॒र्त॒य॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṣaṭtriṃśāṃś* ← *ṣaṭtriṃśān* ← *ṣaṭtriṃśa*
 - \[noun\], accusative, plural, masculine
@@ -113,7 +113,7 @@ popular
 पूर्वं सामान्येन यज्ञग्रहानुक्त्वेदानीं सर्वग्रहादिपूर्वको यज्ञोऽभिधीयते । **षट्त्रिंशान्** । द्वावुपांश्वन्तर्यामौ । ऐन्द्रवायवादयस्त्रयो द्विदेवस्यग्रहाः । द्वौ शुक्रामन्थिनौ । आग्रयण उक्थ्यो ध्रुवश्चेति त्रयः । ऋतुग्रहा द्वादश । ऐन्द्राग्नो वैश्वदेवश्च द्वौ । त्रयो मरुत्वतीयाः । एको माहेन्द्रः । आदित्यसावित्रौ द्वौ । वैश्वदेवः पात्नीवतो हारियोजन इति त्रयो ग्रहाः । एवं षट्त्रिंशद्भवन्ति । अत्यग्निष्टोमे पूर्वे षट्त्रिंशद्ग्रहा द्वावंश्वदाभ्यौ दधिग्रहः षोडशीति चेति चत्वारः । एतांश्चत्वारिंशत्संख्याकान् ग्रहान् **कल्पयन्तः** सोमेन पूरयन्तः। किंच **आद्वादशम्** ॥  ‘ आङ् मर्यादाभिविध्योः' (पा. सू. २. १. १३) इत्यव्ययीभावसमासः । तस्य स्वरः ॥ द्वादशसंख्याकप्रउगादिशस्त्रसमाप्तिपर्यन्तं **छन्दांसि** गायत्र्यादीनि **दधतः** स्तुतशस्त्रादिरूपेण धारयन्तः **कवयो** **मनीषा** । तृतीयाद्या आकारः । मनीषया बुद्ध्या एवं **यज्ञं** **विमाय** निर्माय **रथम्** । रमन्त्यत्रेति रथो यज्ञः । तं **रथं** यज्ञम् **ऋक्सामाभ्यां** **प्र** **वर्तयन्ति** प्रकर्षेण संपादयन्ति ॥ चतुर इत्यत्र  ‘ चतुरः शसि ' ( पा. सू. ६. १.१६७ ) इत्यन्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ popular
 Thirty-six and four vessels:**grahas**, or small cups of wood, or earthenware, for holding the **Soma** or other fluids offered at the sacrificeṣForty are specified as used at the **agniṣṭoma** sacrifice; they are detailed in the fourth **Prapāṭhaka** of the BlackYajuṣ; cf. also Vājasneyi **Saṃhitā**, 7 and 8. The thirty-six grahas are enumerated as follows: **Upāṃśu** andAntaryāma, the three grahas each devoted to the worship of two gods and called Aindravāyava (belonging toIndra and **Vāyu**), etc.; the **Sukra** and Manthin; the **Āgrayaṇa**, the **Ukthya**, and the **Vaiśvadeva**, the threeMarutvatīyas, the **Māhendra**; the **Āditya** and the **Sāvitra**; the Vaiśvadeva (again), the Pātnīvata and theHāriyojana. The four grahas are enumerated as the two Aṃśvadābhyas, the Dadhigraha, and the ṢoḍaśīṇThe names indicate either appropriation to particula deities or particular rites
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Configuring the four as thirty-six and arranging the meters up to twelve  (syllables?),  
 having measured out the sacrifice with their inspired thought, the poets make  the chariot [=sacrifice] roll forth with r̥c and sāman [/verse and tune].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While they arrange the four and six-and-thirty, and duly order, up to twelve, the measures,  
      Having disposed the sacrifice thoughtful sages send the Car forward with the Rc and Saman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und indem sie vier Schoppen sechsunddreißigfach teilen, und die Metren bis auf zwölf bringen und durch Nachdenken das Opfer abmessen, bringen die Seher den Wagen mit Rik und Saman in Gang.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indem sie sechsunddreissig und vier [Somafüllungen?] bilden und die Zaubersprüche auf zwölf ansetzen, und nachdem sie das Opfer mit Weisheit eingerichtet haben, lassen die Weisen den Wagen vorwärts rollen mit Lied [ṙc] und Gesang [sâman].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 После того как они образуют тридцать шесть и четыре,  
 А стихотворные размеры сводят до двенадцати,  

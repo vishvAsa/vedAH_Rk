@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सतः꣡-सतः प्रतिमा꣡नम् पुरोभू꣡र्  
 वि꣡श्वा वेद ज꣡निमा ह꣡न्ति शु꣡ष्णम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡खा स꣡खीँर् अमुञ्चन् नि꣡र् अवद्या꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । नः॒ । दि॒वः । प॒द॒ऽवीः । ग॒व्युः । अर्च॑न् । सखा॑ । सखी॑न् । अ॒मु॒ञ्च॒त् । निः । अ॒व॒द्यात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sataḥ* ← *as*
 - \[verb noun\], genitive, singular
@@ -128,7 +128,7 @@ genre M
 योऽयमिन्द्रः **सतःसतः** उत्तमस्य वसुनः **प्रतिमानम्** । प्रतिमीयत उपमीयतेऽनेन सर्वमिति प्रतिमानं प्रतिनिधिः । यद्वा सतःसतो जातस्य सर्वस्य प्रतिमानं स्वस्य महत्त्वेन प्रतिमातीयत्तया सर्वं परिच्छिनत्तीत्यर्थः । **पुरोभूः** युद्धे पुरतः शत्रूनवाप्नोतीति पुरोभूश्च **विश्वा** **जनिम** सर्वाणि जातानि **वेद** जानाति । **शुष्णं** शुष्णनामानम् असुरं  **हन्ति** । **पदवीः** कवितमः **गव्युः** गोधनम् अङ्गिरसामिच्छन् अस्माकं **सखा** इन्द्रः **सखीन्** **नः** अस्मान् **दिवः** द्युलोकादागत्य **प्र** **अर्चन** प्रकर्षेण पूजयन् **अवद्यात्** वृत्रबाधरूपात् दोषात् **निः** **अमुञ्चत्** नितरां मुञ्चतु ॥ प्रतिमानम् । मातीति मानम् । औणादिको नन्प्रत्ययः । यद्वा करणे ल्युट् । पुरोभूः ।‘भू प्राप्तौ'। क्विप् । वेद । वेत्तेर्लटि रूपम् । जनिम। ‘जनी प्रादुर्भावे । जनिहृभ्यामिमनिन् ' इति इमनिन्प्रत्ययः । भूतकाले जातानीति जनिम ।' सुपां सुलुक्' इति सुपो लुक् । नित्स्वरः । हन्ति । हन्तेर्लटि रूपम् । वाक्यभेदादनिघातः। शुष्णम् । शोषयतीति शुष्णः । प्र णः ।' उपसर्गाद्बहुलम्' इति संहितायां णत्वम् । पदवीः । वी कान्त्यादिषु । क्विप् । पदानि वेत्ति परस्परसंगतानि करोतीति पदवीः कविः । गव्युः । गोशब्दात् परेच्छायां छन्दसि' इति क्यच् । 'वान्तो यि प्रत्यये' इति वान्तादेशः । ‘क्याच्छन्दसि' इत्युप्रत्ययः । प्रत्ययस्वरः । अर्चन् । अर्चतेः शतरि रूपम् । सखीन् । संहितायां नकारस्य ‘दीर्घादटि' इति रुः । पूर्वस्य वर्णस्य अत्रानुनासिकः' इत्यनुनासिकादेशः । अमुञ्चत् । ‘मुच्लृ मोक्षणे' इत्यस्य लङि ‘शे मुचादीनाम्' इति नुमागमः । निघातः । अवद्यात् ।' वद व्यक्तायां वाचि' इत्यस्य नञ्पूर्वस्य गर्ह्यार्थे ' अवद्यपण्यवर्याः' (पा. सू. ३. १. १०१ ) इति निपातनात् यत्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Far-seeing: **padavīḥ**, kavitama, most wise or far-seeing as to the past, from **pada**, on object, and viḥ, who knows; may he be free from all reproach: muñcanniravadyāt: always, nitarām, be free, muñcatu-- from such a fault as that of the nature of the death of **Vṛtra**: vṛtravadharūpād doṣāt; the **paurāṇika** notion is that Vṛtra was a **brahman**, and by killing him, **Indra** was guilty of the heinous sin of **brahmahatyā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The counterweight of every being, standing at the forefront, he knows all  the races; he smashes Śuṣṇa.  
 Following the track of heaven, seeking cows, chanting, the comrade  released us, his comrades, from calumny.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) take this vs. as a quotation of the Aṅgirases’ praise-song of Indra.
 
@@ -174,23 +174,23 @@ above) and given that it occupies pāda-final position in 7d and 8c, it should h
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Peer of each noble thing, yea, all excelling, all creatures doth he know, he slayeth Susna.  
      Our leader, fain for war, singing from heaven, as Friend he saved his lovers from dishonour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jedem einzelnen gewachsen, allen voranstehend kennt er alle Geschlechter; er erschlägt den Susna. Der Pfadsucher des Himmels, der Rindersucher ging uns singend voran. Der Freund erlöste die Freunde von Unehre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, überragend das Mass jedes Seienden, kennt die Ge- schöpfe alle, tödtet den ^uschna; vorleuchtend vom Himmel her als unser kampflustiger Führer, befreite er, der Freund, die Freunde von der Schmach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Образец для каждого существа, находящийся впереди (всех),  
 Он знает все поколения, он убивает Шушну.  

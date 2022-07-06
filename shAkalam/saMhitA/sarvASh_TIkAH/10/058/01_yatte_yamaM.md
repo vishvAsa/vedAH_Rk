@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते यमं꣡ वैवस्वत꣡म्  
 म꣡नो जगा꣡म दूरक꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इह꣡ क्ष꣡याय जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 तत् । ते॒ । आ । व॒र्त॒या॒म॒सि॒ । इ॒ह । क्षया॑य । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -103,34 +103,34 @@ popular;; epic anuṣṭubh (525)
 पुरुषस्य म्रियमाणस्य मनो नामं महद्भूतं बहुधा विशीर्णं भवति। तस्य पुनःसंभरणमत्रोच्यते । हे म्रियमाण पुरुष **यत** **ते** तव **मनः** **वैवस्वतं** विवस्वतः पुत्रं **यमं** **दूरकम्** अत्यन्तं दूरं यथा भवति तथा **जगाम** **ते** तव **तत्** मनः **आ** **वर्तयामसि** आवर्तयामः । किमर्थम् । **इह** **क्षयाय** इह लोके निवासाय **जीवसे** चिरकालजीवनाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If your mind has gone to Yama Vaivasvata far away,  
 we will make it turn hither to you, here to live and dwell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THY spirit, that went far away to Yama to Vivasvan's Son,  
      We cause to come to thee again that thou mayst live and sojourn here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn dein Geist zu Yama, des Vivasvat Sohne, weit weg gegangen ist, so holen wir ihn dir her, daß er hier wohne und lebe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Geist, der zu Vivasvats Sohn, zu Jama in die Ferne ging, Der werde von uns hergelockt zum Leben und zu sicherm Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда твой дух ушел далеко  
 К Яме, сыну Вивасвата,  

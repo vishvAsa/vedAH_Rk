@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् ते यज्ञो꣡ अजायत  
 त꣡द् अर्क꣡ उत꣡ ह꣡स्कृतिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡ज् जातं꣡ य꣡च् च ज꣡न्तुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तत् । विश्व॑म् । अ॒भि॒ऽभूः । अ॒सि॒ । यत् । जा॒तम् । यत् । च॒ । जन्त्व॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -122,36 +122,36 @@ genre M
 हे इन्द्र यद्यदा त्वमजायथाः **तत्** तदानीं **ते** त्वदर्थं **यज्ञः** अग्निष्टोमादिः **अजायत** सोमपानार्थमभूत् । **उत** अपि च तदानीं **हस्कृतिः** ।  ‘ हसे हसने । हासकारी प्रीत्यर्थं क्रियमाणो हर्षस्य सूचकः **अर्कः** अर्चनीयो मन्त्रोऽप्यजायत । किंच तदा **यज्जातं** भूतजातं **यच्च** **जन्त्वम्** । कृत्यार्थे त्वन्प्रत्ययः । जनितव्यं यत् **विश्वम्** अस्ति **तत्** सर्वम् **अभिभूरसि** स्वमहिम्नाभिभूतवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Then was the sacrifice produced for you, then too the joyous hymn; then did you surpass all, whateverhas been or will be born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then the sacrifice was born for you, then the chant and (the fire’s)  “laughter.”  
 You dominate all this, what has been born and what is to be born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Theri was the sacrifice produced for thee, the laud, and song of joy,  
      Thou in thy might surpassest all, all that now is and yet shall be.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da entstand das Opfer für dich, da der Lobgesang und der helle Schein des Opferfeuers. Du überragest all das, was geboren ist und das Zukünftige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da wurde Opfer dir erzeugt, da Loblied, da auch Scherz und Lust; Du überflügelst alles weit, was ist und was noch werden soll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тогда родилась жертва для тебя,  
 Тогда напев, а также веселье.  

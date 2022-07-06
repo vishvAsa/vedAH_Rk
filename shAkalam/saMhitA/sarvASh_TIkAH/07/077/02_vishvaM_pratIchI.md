@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वम् प्रतीची꣡ सप्र꣡था उ꣡द् अस्थाद्  
 रु꣡शद् वा꣡सो बि꣡भ्रती शुक्र꣡म् अश्वैत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡वाम् माता꣡ नेत्री꣡ अ꣡ह्नाम् अरोचि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 हिर॑ण्यऽवर्णा । सु॒दृशी॑कऽसन्दृक् । गवा॑म् । मा॒ता । ने॒त्री । अह्ना॑म् । अ॒रो॒चि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 **विश्वं** कृत्स्नं जगत् प्रति **प्रतीची** अभिमुखी **सप्रथाः** सर्वतः पृथुतरा **उदस्थात्** उदगच्छत् । उदिता च **रुशत्** दीप्तं **शुक्रं** तेजोमयं **वासः** वसनीयं तेजःसमूहं **बिभ्रती** धारयन्ती **अश्वैत्** वर्धते । **हिरण्यवर्णा** हितरमणीयवर्णोपेता **सुदृशीकसंदृक्** । संदर्शयतीति संदृक् तेजः । सुष्ठु दर्शनीयं संदृक् तेजो यस्याः सा तादृशी । **गवां** वाचां गवामेव वा **माता** निर्मात्री । उषःकाले हि पक्षिमनुष्यादीनां वाचो निर्गच्छन्ति । गवामपि तस्मिन् काले संचारात्तन्निर्मातृत्वम् । अथवा रश्मीनां निर्मात्री । **अरोचि** रोचते **अह्नां** **नेत्री** दिवसानां प्रापयित्री ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,13 +139,13 @@ genre M
 Theparent of sounds: gavām **mātā**: go = speech or articulate sound, which at dawn is uttered by men and birds;or, as cow, it may refer to the going forth at dawn of cattle to pasture; gavām mātā = the productress ofsunbeams, raṣminām nirmātṛi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Facing all, she has arisen in full extension; wearing a luminous, gleaming  garment, she has brightened.  
 Golden in color, a sight lovely to see, mother of cows, leader of days, she  has shone.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Whatever the reason for the pf. ruruce in vs. 1, its semi-repetition in the aor.
 
@@ -156,23 +156,23 @@ víśvam opening the vs. may pick up víśvaṃ jīvám “every living thing”
 In c the bahuvrīhi sudṛ́śīka-saṃdṛś- ‘having an appearance lovely to see’ is an internal etymological figure, … dṛ́śīka- … dṛś-. Since the final segment of the cmpd, underlying -ś (or rather the product of nom sg. -ś+s), appears as -g in sandhi, it echoes the -k- of the prior member: sudṛ́śīka-saṃdṛg.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Turned to this All, far-spreading, she hath risen and shone in brightness with white robes about her.  
      She hath beamed forth lovely with golden colours, Mother of kine, Guide of the days she bringeth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jedem sich zuwendend ist sie in ganzer Breite erstanden; ein weißes lichtes Kleid tragend ist sie erglänzt. Goldfarbig, schön anzusehen ist die Mutter der Kühe, die Führerin der Tage erstrahlt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie stieg empor weithin der Welt entgegen, in hell Gewand gekleidet strahlt sie schimmernd, Von goldner Farbe und von schönem Ansehn, der Kühe Mutter, Führerin der Tage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она поднялась во всю ширь, (лицом) обращенная ко всем;  
 Нося сверкающую одежду, она светло засияла.  

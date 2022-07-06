@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ इ꣡न् नु꣡ एव꣡ समना꣡ समानी꣡र्  
 अ꣡मीतवर्णा उष꣡सश् चरन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शुक्रा꣡स् तनू꣡भिः शु꣡चयो रुचानाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गूह॑न्तीः । अभ्व॑म् । असि॑तम् । रुश॑त्ऽभिः । शु॒क्राः । त॒नूभिः॑ । शुच॑यः । रु॒चा॒नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -124,20 +124,20 @@ genre M
 **ता:** **एव** उषसः । इदिति पूरणः । **नु** अद्य **समना** समानाः एकधेत्यर्थः । **समानीः** एकरूपाः अमीतवर्णाः अहिंसितवर्णाः अपरिमितवर्णा वा **उषसश्चरन्ति** सर्वतः । किं कुर्वत्यः । **अभ्वम्** । महन्नामैतत् । अतिमहत् **असितं** कृष्णं रूपं **गूहन्तीः** गोपयन्त्यः **रुशद्भिः** रोचमानैः **तनूभिः** स्वशरीरैः **शुक्राः** दीप्ताः **शुचयः** शुद्धाः **रुचानाः** रोचमाना रोचयन्त्यो वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those Dawns proceed verily all alike, of similar form, of infinite hues, pure, bright, illumining, concealing by their radiant person ns the very great gloom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just these now—the same ones in the same way—with immutable  colors, the Dawns proceed,  
 hiding the black void with their bright (colors), glistening, gleaming,  shining with their own bodies.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -145,23 +145,23 @@ The unbroken similarity of the dawns who just keep coming, day after day, is con
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thus they go forth with undiminished colours, these Mornings similar, in self-same fashion,  
      Concealing the gigantic might of darkness with radiant bodies bright and pure and shining.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieselben Usas´ wandeln in gleicher Weise sich gleichend mit unveränderter Farbe, indem sie das schwarze Ungeheuer mit ihren hellen Farben beseitigen, die hellen, am Leibe reinen, glänzenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So wandern sie auf gleiche Art, sich ähnlich, die Morgenröthen, nicht die Farbe wechselnd, Das grause Dunkel durch die Strahlen bergend, an Leibern strahlend, schimmernd hell und glänzend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те же самые зори так же  
 Движутся, (они,) неизменного цвета,  

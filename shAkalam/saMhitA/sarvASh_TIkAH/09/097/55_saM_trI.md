@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सं꣡ त्री꣡ पवि꣡त्रा वि꣡ततानि एषि  
 अ꣡नु ए꣡कं धावसि पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सि मघ꣡वा मघ꣡वद्भ्य इन्दो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 असि॑ । भगः॑ । असि॑ । दा॒त्रस्य॑ । दा॒ता । असि॑ । म॒घऽवा॑ । म॒घव॑त्ऽभ्यः । इ॒न्दो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saṃ* ← *sam*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हेसोम विततानि विस्तृतानि त्री त्रीणि पवित्रा अग्निवायुसूर्यात्मकानि पवित्राणि समेषि सम्यक् प्राप्नोषि । किञ्च पूयमानस्त्वं एकमविवालकृतम्पवित्रं अनुधावसि अनुगच्छ- सि । किञ्चत्वं भगोभजनीयोसि तथा दात्रस्यदेयस्यधनस्य दातासि । कथमस्यधनदत्वमिति चेत्तदुच्यते । हेइन्दो सोम मघवद्भ्योन्येभ्योपित्वं मघवासि अतिशयेन धनवान् भवसि ॥ ५५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 Three outstretched filters: the three are the fire, wind and sun; the one is the woollen filter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You converge on the three filters stretched out, but you run along just  one while you are being purified.  
 You are Bhaga, you are the giver of the gift; you are bounteous to the  bounteous ones, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 We meet the three filters also in IX.73.8, where their identity is not clear.
 
@@ -158,23 +158,23 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou comest unto three extended filters, and hasteriest through each one as they cleanse thee.  
      Thou art the giver of the gift, a Bhaga, a Maghavan for liberal lords, O Indu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu drei ausgespannten Seihen kommst du; an einer läufst du ab, wenn du geläutert wirst. Du bist Bhaga, du bist der Geber der Gabe, du bist der Freigebige für die freigebigen Gönner, o Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du gehst zu dreien ausgespannten Seihen, durchströmst hellleuchtend eine nach der andern; Du bist Vertheiler, bist der Gabe Geber, ein Spender, Indu, für die reichen Spender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты идешь по целым трем натянутым цедилкам,  
 По одной ты бежишь, когда тебя очищают.  

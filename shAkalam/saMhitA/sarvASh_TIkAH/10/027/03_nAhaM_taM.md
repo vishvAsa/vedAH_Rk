@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡हं꣡ तं꣡ वेद य꣡ इ꣡ति ब्र꣡वीति  
 अ꣡देवयून् सम꣡रणे जघन्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡द् ध मे वृषभा꣡ प्र꣡ ब्रुवन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । अ॒व॒ऽअख्य॑त् । स॒म्ऽअर॑णम् । ऋघा॑वत् । आत् । इत् । ह॒ । मे॒ । वृ॒ष॒भा । प्र । ब्रु॒व॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāhaṃ* ← *na*
 - \[adverb\]
@@ -135,36 +135,36 @@ popular
 **यः** जनः **अदेवयून** देवानकामयमानान् देवद्विषो राक्षसादीन् **समरणे** संग्रामे **जघन्वान्** अहं हतवान् **इति** **ब्रवीति** वदति **तं** तादृशं मद्व्यतिरिक्तं जनम् **अहं** **न** **वेद** न जानामि । मत्तोऽन्यः संग्रामे शत्रूणां हन्ता नास्तीत्यर्थः । किंच **यदा** यस्मिन्काले **समरणं** संग्रामम् **अवाख्यत्** अवाकृतं न्यक्कृतमहं पश्यामि । कीदृशम् । **ऋघावत्** ऋघावन्तं परस्परं हिंसायुक्तम् । अत्यन्तक्रूरमित्यर्थः । **आत्** तदानीं **मे** मम स्वभूतानि **वृषभा** वृषभकर्माणि दर्पितवृषभस्येव विक्रान्तकर्माणि **प्र** **ब्रुवन्ति** । विद्वज्जना इति शेषः । **इद्ध** इतीमौ पदपूरणौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I know not that man who says that he is the slayer in battle of those who do not reverence the gods;but when (I behold) the fierce war commenced, then (my enemies) proclaim my prowess.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] I do not know anyone who speaks thus, after he has smashed the  godless ones in the clash.  
 When he has caught sight of the mettlesome clash, only then do they  proclaim two bulls to me (as offering).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I know not him who sayeth and declareth that he hath slain the godless in the battle.  
      Soon as they see the furious combat raging, men speak forth praises of my vigorous horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den kenne ich nicht, der also spräche, nachdem er die Gottlosen im Kampfe erschlagen hat. Wenn einer des drohenden Zusammenstoßes gewahr wird, ja dann versprechen sie mir zwei Stiere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich kenne den nicht, der zu mir so spräche, nachdem im Kampf die Bösen ich geschlagen; Ja, wenn sie sehn, wie wüthend das Gefecht geht, geloben sie mir auch wol zwei der Stiere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

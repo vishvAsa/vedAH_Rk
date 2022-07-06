@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ष꣡स् त꣡व नो꣡ म꣡म  
 शास्त्रे꣡ अन्य꣡स्य र꣡ण्यति  
 यो꣡ अस्मा꣡न् वीर꣡ आ꣡नयत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 यः । अ॒स्मान् । वी॒रः । आ । अन॑यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -93,7 +93,7 @@ popular
 **यः** **वीरः** शूरः **अस्मान्** **आनयत्** **सः** इन्द्रः **तव** **शास्त्रे** शासने **नहि** **रण्यति** न रमते । **मम** अपि शास्त्रे शासने **नो** रण्यति । **अन्यस्य** अपि शासने न रण्यति । किंतु रक्षण एव रमत इत्यर्थः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ popular
 Śāsatra = **śāsana**, governing or punishing; kintu **rakṣaṇa** eva ramate; he, Indra, delights only inprotecting or preserving
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Poet:] He finds no pleasure in the instruction of you or me, (but only in  that) of the other one [=Indra],  
 the hero who led us hither.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the disgruntled speaker to be the poet and the subject of ráṇyati to be a rival ritualist, who has accepted the new doctrine. The “you or me” of pāda a is rather like the English expression “the likes of you and me,” meaning “ordinary people.” I take the nahí … nó (= ná u) as having domain only over táva and máma, not the anyásya of pāda b. By my rules (Jamison 1997) anyá- in this position should be definite (not Geldner’s indefinite “oder eines anderen…”), and I take its referent to be Indra. The referent of the yáḥ in the rel. clause in c I again take to be Indra (that is, anyásya), rather than the subject of ráṇyati, as Geldner does. The designation vīrá- is of course regularly applied to Indra, and “led us here” can refer both to Indra’s leadership in the acquisition of new territory and to his role in introducing the ritual innovation. And Indra starts off the next verse.
 
@@ -127,23 +127,23 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Neither in thy decree nor mine, but in another's he delights,-  
      The man who brought us unto this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn weder an deiner noch an meiner oder eines anderen Belehrung hat der Mann gefallen, der uns hierher geführt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn weder auf dein noch auf mein Geheiss, auf das eines andern thut sich der Mann gütlich, der uns hierher geführt hat. –
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ни в твоем, ни в моем наставлении,  
 Ни (в наставлении) другого не находит удовольствия  

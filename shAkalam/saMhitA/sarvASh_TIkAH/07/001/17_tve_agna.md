@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवे꣡ अग्न आह꣡वनानि भू꣡रि  
 ईशाना꣡स आ꣡ जुहुयाम नि꣡त्या  
 उभा꣡ कृण्व꣡न्तो वहतू꣡ मिये꣡धे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 उ॒भा । कृ॒ण्वन्तः॑ । व॒ह॒तू इति॑ । मि॒येधे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tve* ← *tvad*
 - \[noun\], locative, singular
@@ -96,36 +96,36 @@ genre M
 हे अग्ने **त्वे** त्वयि **ईशानासः** धनानामीश्वराः सन्तः **नित्या** नित्यान्यग्निहोत्रादीनि **उभा** उभौ **वहतू** वहनहेतू स्तोत्रं शस्त्रं च **कृण्वन्तः** कुर्वन्तः **मियेधे** यज्ञे **भूरि** बहूनि **आहवनानि** हवींषि **आ** **जुहुयाम** आजुहवाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To you, **Agni**, may we, who are of exalted rank, offer many perpetual oblations, (employing) means,(prayer and praise), attracting you to the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In you, Agni, as masters we would pour many oblations that are  your own,  
 as we make the twin bridal processions at the sacrificial meal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, may we with riches in possession bring thee continual ofierings in abundance,  
      Using both means to draw thee to our worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dir, oAgni, wollen wir nach Vermögen die vielen ständigen Opferspenden opfern, indem wir bei dem Opfermahl einen doppelten Umzug veranstalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Agni, wollen wir, die Reichen, spenden viel Opfergüsse, die dir sein zu eigen, Beim Mahle wirkend beide Opferwerke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В тебя, о Агни, многие жертвенные возлияния,  
 Наши собственные, мы хотели бы возливать, способные (на это),  

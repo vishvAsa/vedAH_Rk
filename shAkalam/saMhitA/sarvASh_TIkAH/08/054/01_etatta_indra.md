@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡त् त इन्द्र वीरि꣡यं  
 गीर्भि꣡र् गृण꣡न्ति कार꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पौरा꣡सो नक्षन् धीति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 ते । स्तोभ॑न्तः । ऊर्ज॑म् । आ॒व॒न् । घृ॒त॒ऽश्चुत॑म् । पौ॒रासः॑ । न॒क्ष॒न् । धी॒तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
@@ -106,7 +106,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,28 +117,28 @@ Sayana bhashya empty
 Or, the **Pauras**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This heroic deed of yours, Indra, the bards sing with songs.  
 Beating time they furthered the nourishment dripping with ghee. The  Pauras approach with their visionary thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Oldenberg points out, the accent on gṛṇánti is unnecessary. It may have been borrowed, with the pāda, from VIII.46.3, where the accent is correct because the pāda is part of a relative clause.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese deine Heldenkraft feiern die Dichter in Lobreden, Indra. Lautsingend sprachen diese den schmalztriefenden Stärkung zu. Die Paura´s kommen mit ihren Dichtungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Dichter preisen mit Gesang o Indra, diese deine Kraft, Sie brachten singend Speise, die vom Fette trieft, die Spender nahten mit Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это твое мужество, о Индра,  
 Поэты воспевают в песнях.  

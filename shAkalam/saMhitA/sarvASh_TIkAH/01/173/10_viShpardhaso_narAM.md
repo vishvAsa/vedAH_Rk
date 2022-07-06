@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ष्पर्धसो · नरां᳐꣡ न꣡ शं꣡सैर्  
 अस्मा꣡कासद् इ꣡न्दरो+ व꣡ज्रहस्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मध्यायु꣡व उ꣡प शिक्षन्ति यज्ञइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मि॒त्र॒ऽयुवः॑ । न । पूःऽप॑तिम् । सुऽशि॑श्टौ । म॒ध्य॒ऽयुवः॑ । उप॑ । शि॒क्ष॒न्ति॒ । य॒ज्ञैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viṣpardhaso* ← *viṣpardhasaḥ* ← *viṣpardhas*
 - \[noun\], nominative, plural, masculine
@@ -111,7 +111,7 @@ genre M
 **नरां** नेतॄणां मध्ये सस्पर्धान् नरान् यथा **विस्पर्धसः** कुर्वन्ति सखिभूताः तद्वद्वयमपीन्द्रं **शंसैः** स्तुतिभिः सखायो वयं तं तथा कुर्मः । स च **वज्रहस्तः** विरोधिशिक्षणाय सर्वदा वज्रधारी **इन्द्रः** अस्माकम् **असत्** । विस्पर्धमनुकूलो भवतु । किंच मित्रायुवो न मित्रेच्छवो हितैषिण इव **सुशिष्टौ** सुशासने वर्तमानं पूर्पतिं पुरः स्वामिनं यथा अभिमतदानेन पूजयन्ति तथा **मध्यायुवः** अस्माकं श्रियां यशसां च मध्येऽवस्थितिं कामयमाना अध्वर्य्वादयः **यज्ञैः** यज्ञसाधनै हविःस्तोत्रादिभिः **उप** **शिक्षन्ति** उपेत्य यजन्ते । शिक्षतिर्दानकर्मा ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,14 +122,14 @@ genre M
 The lord of a city: mitrāyuvo na pūrpatim = **puraḥ** svāminam, the master or governor of a city
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The contenders—(crying) “Indra with mace in hand will be ours!”— seeking (the one in) the middle [=Indra], try to win him over with  
 their sacrifices,  
 as those seeking an ally, (approaching) a lord of strongholds in regard  to his good command, (try to win him over) with lauds of men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. describes the competition between rival sides (either in battle or in ritual or both) to secure Indra for their side. I take it as depicting much the same situation as in vs. 7 (esp. 7b), where Indra is the object of a tug-of-war (paritaṃsayádhyai). I therefore interpr. Indra also as the target. of madhyāyúvaḥ ‘seeking (one) in the middle’ in 10d, contra Geldner (/Witzel Gotō) for whom Agastya is the middle-man, the mediator.
 
@@ -143,23 +143,23 @@ One of the striking features of the word order (at least in my interpr. and Geld
 I take juhurāṇá- to √hvṛ / hru ‘go crookedly, go astray’ (with Geldner and Renou, as well as Grassmann), rather than with √hṛ ‘be angry’ with Insler (JAOS 88, 1968), apparently followed by Witzel Gotō: “wenn es (das Opfer) auch erzürnt im Denken Umwege macht.” The parallel participle pariyán ‘going around, meandering’ supports this identification, and it is somewhat difficult to imagine why/how a sacrifice would be (or make) angry. Agastya uses the same participle in the same sense in I.189.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like men in rivalry extolling princes, our Friend be Indra, wielder of the thunder.  
      Like true friends of some city's lord within them held in good rule with sacrifice they help him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Wetteifer geratend wie durch das Lob der Herren; " Unser sei Indra mit der Keule in der Hand!" - wie die, welche einen Verbündeten haben wollen, einen Burgherren um guten Rat angehen, wenn sie einen Mittler haben wollen, so suchen sie Indra mit Opfern zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sei bei uns der blitzbewehrte Indra, wie Männer, die mit Wettgesängen streiten; Sie ehren ihn mit Opfern, zu ihm strebend wie zu dem Burgherrn Huld und Hülfe suchend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Давайте) состязаться, как при прославлениях мужей.  
 Нашим пусть будет Индра с ваджрой в руке!  

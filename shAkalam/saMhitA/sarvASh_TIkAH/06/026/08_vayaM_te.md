@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते अस्या꣡म् इन्द्र द्युम्न꣡हूतौ  
 स꣡खायः स्याम महिन प्र꣡यिष्ठाः+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घने꣡ वृत्रा꣡णां सन꣡ये ध꣡नानाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्रात॑र्दनिः । क्ष॒त्र॒ऽश्रीः । अ॒स्तु॒ । श्रेष्ठः॑ । घ॒ने । वृ॒त्राणा॑म् । स॒नये॑ । धना॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -122,41 +122,41 @@ genre M
 हे **महिन** पूजनीय **इन्द्र** **ते** त्वदर्थं **सखायः** स्तोतारः **वयम्** **अस्यां** **द्युम्नहूतौ** अस्मिन् धननिमित्ते स्तोत्रे **प्रेष्ठाः** अतिशयेन प्रियाः **स्याम** भवेम । **प्रातर्दनिः** प्रतर्दनो नाम राजा । तस्य पुत्रः **क्षत्रश्रीः** एतन्नामको मम याज्यो राजा **श्रेष्ठः** **अस्तु** सर्वेषामुत्कृष्टो भवतु । किमर्थम् । **वृत्राणां** शत्रूणां **घने** वधाय च **धनानां** वसूनां **सनये** संभजनाय च श्रेष्ठोऽस्त्विति संबन्धः ॥ ॥२२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, adorable **Indra**, your friends, at this your worship, offered for (the acquisiiton of) wealth, be held most dear to you; may Kṣatraśrī, the son of **Pratardana**, (my patron), by most illustrious through the destruction of foes, and the attainment of riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be your dearest comrades, Indra, at this invocation to heavenly  brilliance, o great one.  
 Let the son of Pratardana, glorious in dominion, be the most glorious at  the smashing of obstacles and the winning of rich stakes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This final wish to become Indra’s dearest companions neatly sums up the dominant theme of the hymn, esp. the last vss.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may we he thy friends, thy best beloved, O Indra, at this holy invocation.  
      Best be Pratardani, illustrious ruler, in slaying foemen and in gaining riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten bei diesem flammenden Ruf deine liebsten Freunde sein, mächtiger Indra. Der Sohn des Pratardana, der die Herrschaft zu Ehren bringt, soll der erste sein zum Erschlagen der Feinde, zum Gewinnen von Schätzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir mögen sein bei dieser Glückserflehung, o grosser Indra, deine liebsten Freunde, Pratardan's Sohn sei bester Herrschaftmehrer, die Feinde schlag' er und erlange Beute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы при этом пламенном призыве тебя, о Индра,  
 Хотели бы быть (твоими) любимейшими друзьями, о могучий Индра.  

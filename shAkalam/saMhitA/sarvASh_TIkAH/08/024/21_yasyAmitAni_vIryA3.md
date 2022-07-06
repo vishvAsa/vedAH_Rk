@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्या꣡मितानि वीरि꣡या  
 न꣡ रा꣡धः प꣡रिएतवे  
 ज्यो꣡तिर् न꣡ वि꣡श्वम् अभि꣡ अ꣡स्ति द꣡क्षिणा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ज्योतिः॑ । न । विश्व॑म् । अ॒भि । अस्ति॑ । दक्षि॑णा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyāmitāni* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -92,36 +92,36 @@ genre M
 **यस्य** इन्द्रस्य **वीर्या** वीर्याणि वृत्रहननादिलक्षणानि सामर्थ्यानि **अमितानि** अस्य इयन्ति सामर्थ्यानि नान्यानीति परिमितानि न भवन्ति । यद्वा । ' मीङ् हिंसायाम्। छान्दसो ह्रस्वः । शत्रुभिरहिंसितानि भवन्ति । तथा यस्येन्द्रस्य **राधः** धनं **पर्येतवे** शत्रुभिः परिगन्तुं प्राप्तुं शक्यं **न** भवति । अत एव **यस्य** **दक्षिणा** धनदानं **विश्वमभ्यस्ति** सर्वं स्तोतृजनमभिभवति । तत्र दृष्टान्तः । **ज्योतिर्न** । ज्योतिषामयनत्वाज्ज्योतिरन्तरिक्षम् । यथान्तरिक्षं सर्वलोकं पिधाय तिष्ठति तद्वत् स्तोतृजनं धनदानेन पिधत्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whose energies are unbounded, whose wealth cannot be carried away, whose bounty extends like thefirmament over all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For him whose heroic deeds are immeasurable, whose generosity is not  to be circumscribed,  
 whose priestly gift surmounts everything, like light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose hero powers are measureless, whose bounty ne'er may be surpassed,  
      Whose liberality, like light, is over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dessen Kräfte unermeßlich sind, dessen Freigebigkeit nicht zu überholen ist, dessen Schenkung wie das Licht über alles geht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dess Kräfte unermesslich sind, dess Gut nicht zu umfassen ist, Dem Lichte gleich durchdringt sein Lohn die ganze Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи подвиги неизмеримы,  
 (Чью) щедрость не превзойти,  

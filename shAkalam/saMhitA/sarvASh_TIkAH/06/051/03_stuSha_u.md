@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तुष꣡ उ वो मह꣡ ऋत꣡स्य गोपा꣡न्  
 अ꣡दितिम् मित्रं꣡ व꣡रुणं सुजाता꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छा वोचे सधनि꣡यः पवाका꣡न्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्य॒मण॑म् । भग॑म् । अद॑ब्धऽधीतीन् । अच्छ॑ । वो॒चे॒ । स॒ऽध॒न्यः॑ । पा॒व॒कान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stuṣa* ← *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
@@ -117,20 +117,20 @@ genre M
 हे देवाः **महः** महतः **ऋतस्य** यज्ञस्य **गोपान** रक्षकान् **वः** युष्मान् **स्तुषे** स्तुवे । **उ** इति पूरणः । तानेव देवानाह । **अदितिम्** अदीनां देवमातरं **मित्रं** **वरुणं** चैतान् **सुजातान्** शोभनजननान् **अर्यमणं** **भगं** च **अदब्धधीतीन्** अहिंसितकर्मणः **सधन्यः** धनसहितान् 'पावकान् विश्वस्य शोधकान् । ईदृशान् सर्वान् देवान् **अच्छ** **वोचे** अभिप्रब्रवीमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I praise you, protectors of the solemn sacrifice, the well-born **Aditi**, **Mitra** and **Varuṇa** and **Aryaman** and **Bhaga**; I celebrate the gods whose acts are unimpeded, the bestowers of wealth, the dispensers of purity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will praise you, the great herdsmen of truth: Aditi, Mitra, Varuṇa, the  well-born ones.  
 Aryaman, Bhaga, those of undeceivable inspired thoughts, the pure  companions, do I call here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening of this vs., stuṣé, is identical to the beginning of VI.49 and very similar to the beginning of VI.50 (huvé), both of which vss. (VI.49.1, VI.50.1) contain the divine list discussed in the next paragraph.
 
@@ -152,23 +152,23 @@ suggests that because of a perceived connection with √nī, the stem was reinte
 are somewhat troublesome; moreover the stem sadhanitvá- can be more easily derived by this route. Michael Weiss alternatively suggests that the stem is a vṛkī deriv. to sadhána-. This would account for the morphology more easily that what was just sketched; however, it would have to be masc. vṛkī form. Not impossible of course (cf. rathī́-), but one more required assumption.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise you Guards of mighty Law eternal, Aditi, Mitra, Varuna, the noble,  
      Aryaman, Bhaga, all whose thoughts are faithful: hither I call the Bright who share in common.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich preise euch, die Wächter des hohen Gesetzes: Aditi, Mitra, Varuna, die Edlen. Aryaman, Bhaga, die von untrüglicher Einsicht, bitte ich her, die in Gütergemeinschaft leben, die Reinen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise euch, des Rechtes hohe Hüter, Aditi, Mitra, Varuna, die edlen, Arjaman, Bhaga, sie die reingesinnten, ich rufe her die flammenden Genossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот славлю я для вас хранителей великого закона:  
 Адити, Митру, Варуну, прекраснорожденных,  

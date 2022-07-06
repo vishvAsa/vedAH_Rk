@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा वो अग्नि꣡म् अ꣡वसे  
 देवं꣡ गासि स꣡ नो व꣡सुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऋता꣡वा पर्षति द्विषः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रास॑त् । पु॒त्रः । ऋ॒षू॒णाम् । ऋ॒तऽवा॑ । प॒र्ष॒ति॒ । द्वि॒षः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M
 हे वसूयवः **वः** यूयं **देवम्** **अग्निम्** **अवसे** रक्षणाय **अच्छा** **गासि** अभिगायत । **वसुः** अग्निहोत्रार्थं यजमानानां गृहे वासयिता **सः** अग्निः **नः** अस्मभ्यं **रासत्** कामान् ददातु । **ऋषूणाम्** ऋषीणां **पुत्रः** । ऋषिभिर्मन्थनेन जनितत्वात् पुत्र इत्युपचर्यते । **ऋतावा** ऋतावान् सत्यवानुदकवान्वा सोऽग्निः **द्विषः** अस्माकं शत्रून् **पर्षति** पारयतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,34 +116,34 @@ genre M
 The son of the ṛṣis: Agni is termed the son of the ṛṣis, as genitive rated by their rubbing the sticks together which produce fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here for you all I sing to the god Agni for his help. He is the one good  for us.  
 The son of (dawn’s) rays will give; the possessor of truth will bring to  safety from hatred.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I WILL sing near, for grace, your God Agni, for he is good to us.  
      Son of the Brands, may he give gifts, and, righteous, save us from the foe.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Address thy song 1 for your sake to the god Agni, for his help. He is our Vasu. May the son of the dawns(?) 2 give us (wealth). May the righteous one help us across our enemies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Gott Agni will ich euch zur Gnade herbeisingen; er ist unser guter Gott. Der Sohn der Morgenstrahlen möge schenken, der Wahrhafte möge über die Anfeindungen hinüberhelfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rufe euren Agni her, den Gott zur Hülfe, der uns liebt; Er spende uns, der Flammen Sohn, der Heil'ge führ uns durch den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспой бога Агни, (чтобы он был)  
 Вам на помощь: он для нас добрый.  

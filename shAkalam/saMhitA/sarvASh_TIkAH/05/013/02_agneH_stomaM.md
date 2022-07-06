@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्ने꣡ स्तो꣡मम् मनामहे  
 सिध्र꣡म् अद्य꣡ दिविस्पृ꣡शः  
 देव꣡स्य द्रविणस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दे॒वस्य॑ । द्र॒वि॒ण॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -76,41 +76,41 @@ genre M
 **द्रविणस्यवः** द्रविणं धनमिच्छन्तो वयं **दिविस्पृशः** सूर्यरूपेणाकाशं व्याप्नुवतः **देवस्य** द्योतमानस्य **अग्नेः** **सिध्रं** पुरुषार्थानां साधकं **स्तोमं** स्तोत्रम् **अद्य** अस्मिन्नहनि **मनामहे** ब्रूमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of wealth, we recite today the effectual praise of the divine **Agni**, (whose radiance) reaches the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Agni we will conceive a praise song, an effective one today for him  who touches heaven,  
 for the god, as we seek goods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Eager for wealth, we meditate Agni's effectual praise to-day,  
      Praise of the God who touches heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Desirous of riches, we devise to-day an effective song of praise, of Agni the heaven-touching god 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf Agni erdenken wir heute ein Loblied, ein gelungenes auf ihn, der bis zum Himmel reicht, auf den Gott, die wir nach Reichtum verlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Agni Lob, das wohl gelingt, des Gottes, der zum Himmel dringt, Ersinnen Schatz begehrend wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, сегодня мы задумываем  
 Удачную хвалу для бога,  

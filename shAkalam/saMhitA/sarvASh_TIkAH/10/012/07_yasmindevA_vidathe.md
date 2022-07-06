@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् देवा꣡ विद꣡थे माद꣡यन्ते  
 विव꣡स्वतः स꣡दने धार꣡यन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि द्योतनिं꣡ चरतो अ꣡जस्रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सूर्ये॑ । ज्योतिः॑ । अद॑धुः । मा॒सि । अ॒क्तून् । परि॑ । द्यो॒त॒निम् । च॒र॒तः॒ । अज॑स्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
@@ -114,14 +114,14 @@ genre M
 **यस्मिन्** अग्नौ यज्ञस्य प्रधानांशे सति **देवाः** इन्द्रादयः **विदथे** यज्ञे **मादयन्ते** हविषा आत्मानं तर्पयन्ति तृप्यन्ति वा । अपि च **विवस्वतः** मनुष्यस्य यजमानस्य स्वभूते **सदने** वेद्याख्ये स्थाने **धारयन्ते** आत्मानं स्थापयन्ति च । किंच **सूर्ये** **ज्योतिः** अहराख्यं तेजः **अदधुः** स्थापितवन्तः । **मासि** चन्द्रमसि **अक्तून्** रात्रीः स्थापितवन्तः । तदनन्तरम् **अजस्रा** अनुपक्षीणौ सूर्याचन्द्रमसौ **द्योतनिं** दीप्तिं **परि** **चरतः** परिगच्छतः । सर्वत्र प्राप्नुतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In him the gods find plural asure at the sacrifice; they seat themselves on the altar of the sacrificer. Theyplaced light in the sun; beams in the moon; and these untiring shed their light around.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At which ritual distribution the gods reach exhilaration and uphold (the  two worlds) at the seat of Vivasvant [=ritual ground]—  
 they placed the light in the sun and the nights in the moon: the two  
@@ -129,23 +129,23 @@ they placed the light in the sun and the nights in the moon: the two
 wearying—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They in the synod where the Gods rejoice them, where they are seated in Vivasvan's dwelling,  
      Have given the Moon his beams, the Sun his splendour-the Two unweariedly maintain their brightness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei welchem Opfer die Götter schwelgen, für welche Stätte des Vivasvat sie sich entscheiden, wissen wir nicht. Sie haben in die Sonne das Licht, die Nachtschatten in den Mond gelegt. Ohne zu ermatten wandeln beide ihren Glanz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei welchem Fest die Götter sich erfreuen und in Vivasvats Heiligthum verweilen, Verleihn sie Licht der Sonn', dem Mond die Nächte, die beiden schaffen unermüdlich Lichtschein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На какой жертвенной раздаче боги радуются,  
 (Какого) сиденья Вивасвата они придерживаются, (мы не знаем).  

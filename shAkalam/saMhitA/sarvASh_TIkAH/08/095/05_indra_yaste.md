@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र य꣡स् ते न꣡वीयसीं  
 गि꣡रम् मन्द्रा꣡म् अ꣡जीजनत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्रत्ना꣡म् ऋत꣡स्य पिप्यु꣡षीम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 चि॒कि॒त्वित्ऽम॑नसम् । धिय॑म् । प्र॒त्नाम् । ऋ॒तस्य॑ । पि॒प्युषी॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -98,43 +98,43 @@ genre M
 हे **इन्द्र** **यः** यजमानः **नवीयसीं** नवतरां पुनःपुनः क्रियमाणतया **मन्द्रां** मदकरीं **गिरं** स्तुतिलक्षणां वाचं **ते** त्वदर्थम् **अजीजनत्** उदपीपदत् । अकार्षीदित्यर्थः। तस्मै स्तोत्रे त्वं **प्रत्नां** पुरातनम् **ऋतस्य** सत्यस्य संबन्धि । यद्वा । तृतीयार्थे षष्ठी । सत्येन **पिप्युषीं** प्रवृद्धम् । लिड्यङोश्च' इति प्यायतेः पीभावः । तादृशं चिकित्विन्मनसम्। कित ज्ञाने' । क्वसौ रूपम् । अकारस्येकारश्छान्दसः । चिकित्वांसि ज्ञातानि सर्वेषां हृदयानि ययेति । अमायया क्रियमाणं यत्तव रक्षणं सर्वेषां हृदयं प्रज्ञापयतीति तदतीन्द्रियार्थदर्शकं **धियं** त्वदीयं रक्षणाख्यं तस्मै कुरु ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To him who has made for you this newest joy-giving hymn, do you, **Indra**, (extend) your ancient truthfulprovidence to which all hearts are known.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Hear the call of Tiraścī,) who has begotten for you, Indra, a newer,  invigorating hymn,  
 a visionary thought stemming from a perceptive mind, an age-old vision  swollen with truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The verse consists entirely of a relative clause with no main clause, but the referent of the relative must be Tiraścī of 4a, despite the intervening matter in 4c, as the similar structures of 4b and 5a indicate: # índra yás tvā and # índra yás te respectively.
 
 Note the interplay of návīyasam ‘newer’ and pratnā́m ‘age-old’, expressing the standard RVic poetic trope of making an old song new again. So also Geldner (n. to 5cd).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For he, O Indra, hath produced for thee the newest gladdening song,  
      A hymn that springs from careful thought, ancient, and full of sacred truth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dir, Indra, ein reizendes Loblied aufs neue gedichtet hat, eine alte Dichtung aus andächtigem Herzen, die von Wahrheit überfließt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, Indra, dir das neuste Lied erzeugt hat, das erfreuende, Das klugersonnene Gebet, das alte, das von Andacht trieft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тирашчи,) который тебе, о Индра, породил  
 Более новую вдохновляющую песнь –  

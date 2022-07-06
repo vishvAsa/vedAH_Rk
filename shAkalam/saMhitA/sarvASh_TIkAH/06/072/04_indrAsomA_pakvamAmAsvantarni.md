@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रासोमा पक्व꣡म् आमा꣡सु अन्त꣡र्  
 नि꣡ ग꣡वाम् इ꣡द् दधथुर् वक्ष꣡णासु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रु꣡शच् चित्रा꣡सु ज꣡गतीषु अन्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ज॒गृ॒भथुः॑ । अन॑पिऽनद्धम् । आ॒सु॒ । रुश॑त् । चि॒त्रासु॑ । जग॑तीषु । अ॒न्तरिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
@@ -118,36 +118,36 @@ genre M
 **इन्द्रासोमा** हे इन्द्रासोमौ **आमासु** अपक्वासु **गवां** **वक्षणासु** ऊधःसु **अन्तः** मध्ये **पक्वं** पयः **नि** **दधथुः** । किंच चित्रासु नानावर्णासु **आसु** **जगतीषु** गोषु ।  ‘ इळा जगती  इति गोनामसु पाठात् । **अन्तः** मध्ये **अनपिनद्धं** केनाप्याबद्धं **रुशत्** शुक्लवर्णं पयः **जगृभथुः** । यथा पृथिव्यां स्वयं न क्षरति तथा धारितवन्तावित्यर्थः । **इत्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Soma**, you have deposited the mature (milk) in the immature udders of the kine; you have retained the white (secretion), although not **shut** up within those may-coloured cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Soma, you deposited the cooked (milk) within the raw (cows),  just in the udders of the cows.  
 You held the gleaming (milk), (though) it was not tied on, within the  dappled, moving (cows).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye in the unripe udders of the milch-kine have set the ripe milk, Indra, thou, and Soma.  
      Ye have held fast the unimpeded whiteness within these many-coloured moving creatures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Soma! Ihr habt die gekochte Milch in die rohen Bäuche der Kühe gelegt. Ihr haltet die weiße Milch in diesen buntfarbigen weiblichen Tieren fest, ohne sie zuzubinden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die gare Milch, o Indra-Soma, fügtet ihr in die rohen Leiber ein der Kühe, Und hieltet fest die helle, ungebundne im Innern dieser schönen Wandlerinnen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Сома, вареное (молоко) в сырые  
 (Животы) коров вложили вы.  

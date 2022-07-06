@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वैश्वानरं꣡ कव꣡यो यज्ञि꣡यासो  
 अग्निं꣡ देवा꣡ अजनयन्न् अजुर्य꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यक्ष꣡स्या꣡ध्यक्षं तविष꣡म् बृह꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नक्ष॑त्रम् । प्र॒त्नम् । अमि॑नत् । च॒रि॒ष्णु । य॒क्षस्य॑ । अधि॑ऽअक्षम् । त॒वि॒षम् । बृ॒हन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānaraṃ* ← *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
@@ -111,7 +111,7 @@ popular
 **कवयः** मेधाविनः **यज्ञियासः** यज्ञार्हा यज्ञसंपादिनो वा **देवाः** **अजुर्यं** जरावर्जितमहिंस्यं वा **वैश्वानरं** विश्वनरहितं सूर्यात्मकम् **अग्निम्** **अजनयन्** उत्पादितवन्तः । स च देवैरुत्पादितोऽग्निः **नक्षत्रं** कृत्तिकादि **प्रत्नं** पुराणं **चरिष्णु** चरणशीलं **यक्षस्य** । यक्षतिः पूजार्थः । ‘प्रयक्षम् (ऋ. सं. २, ५, १ ) इत्यादौ दर्शनात् । यक्षस्य पूज्यस्य देवस्य **अध्यक्षं** प्रत्यक्षं स्वामिनं वा **तविषं** वृद्धं **बृहन्तं** महान्तम् **अमिनत्** हिंसितवान् । तेजसाभिभूतवानित्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ popular
 Overseer:yakṣasyādhyakṣam: adhyakṣam = perceptible; the lord; or, the moon, the lord of the **yakṣas** (isn't the lord ofthe yakṣas, **Kubera**?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods, poets worthy of the sacrifice, begot unaging Agni Vaiśvānara, the primordial star, wandering but not confounding (the divine  
 commandments), the mighty and lofty overseer of the wondrous  apparition.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The wise and holy Deities engendered Agni Vaisvanara whom age ne'er touches.  
      The Ancient Star that wanders on for ever, lofty and. strong, Lord of the Living Being.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die opferwürdigen Seher, die Götter, erschufen den Agni Vaisvanara, den alterlosen, das uralte, nie die Richtung verfehlende, wandelnde Gestirn, den starken, hohen Aufseher des Geheimnisses.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Männerhort, den Agni, der nicht altert, erzeugten sie, die weisen, heil'gen Götter, Den alten Stern, der unverlöschlich wandert, den starken, hohen Herrn der Meteore.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достойные жертвы провидцы, боги  
 Породили Агни-Вайшванару – нестареющую  

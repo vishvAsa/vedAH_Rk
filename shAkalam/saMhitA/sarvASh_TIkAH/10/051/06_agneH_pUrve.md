@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नेः꣡ पू꣡र्वे भ्रा꣡तरो अ꣡र्थम् एतं꣡  
 रथी꣡वा꣡ध्वानम् अ꣡नु आ꣡वरीवुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गौरो꣡ न꣡ क्षेप्नो꣡र् अविजे जिया꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्मा॑त् । भि॒या । व॒रु॒ण॒ । दू॒रम् । आ॒य॒म् । गौ॒रः । न । क्षे॒प्नोः । अ॒वि॒जे॒ । ज्यायाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
@@ -132,7 +132,7 @@ popular
 अनयाग्निः स्वपलायननिमित्तमाह । हे देवाः **अग्नेः** मम **पूर्वे** पूर्वमुत्पन्नाः **भ्रातरः** भूपतिभुवनपतिर्भूतानां पतिरिति त्रयोऽग्रजाः **एतम्** **अर्थं** हविर्वहनाख्यमर्थम् **अन्वावरीवुः** अनुक्रमेण वृतवन्तः । तत्र वृणोतेर्यङ्लुगन्ताल्लुङि झेश्छन्दसो लुक् । ‘बहुलं छन्दसि' इत्युक्तम् । आवरणे दृष्टान्तः । **रथीवाध्वानम्** । अध्वानं यथा रथी वृणोति तद्वत् । ते भ्रातरस्तथा कुर्वन्तो हताः । **तस्मात्** मरणात् **भिया** भीत्या हे **वरुण** **दूरं** देशम् **आयम्** । किंच **क्षेप्नोः** इषुक्षेप्तुः धनुषः **ज्यायाः** सकाशातू **गौरो** **न** गौरमृग इव स यथा बिभेति चलति वा तद्वत् **अविजे** अकम्पे । ‘ ओविजी भयचलनयोः । अनुदात्तेत्तौदादिकः । तस्य लङ्युत्तमे रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ popular
 Elder brothers of Agni: were named **Bhūpati**, Bhuvanapati and Bhūtānāmpati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] The brothers of Agni earlier kept rolling along after this business,  like a charioteer along the road.  
 In fear of this, Varuṇa, I went far away. I flinched from it like a buffalo  from the bowstring of an archer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This goal mine elder brothers erst selected, as he who drives a car the way to travel.  
      So,Varuna, I fled afar through terror, as flies the wild-bull from an archer's bowstring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni´s frühere Brüder haben dieses Geschäft hin und her besorgt, wie ein Wagenroß seinen Weg. Aus Furcht davor bin ich weit fortgegangen, Varuna. Wie der Gaurabüffel vor der Sehne des Jägers bin ich geflüchtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Schon meine ältern Brüder haben dieses Geschäft besorgt wie seine Fahrt der Fuhrmann; Aus Scheu davor, o Varuna, entfloh ich, gleichwie der Büffel vor dem Schwung der Sehne.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Старшие братья Агни катались изо всех сил  
 По этому делу, как колесничий по дороге.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं वृत्रा꣡य ह꣡न्तवे  
 पुरुहूत꣡म् उ꣡प ब्रुवे  
 भ꣡रेषु वा꣡जसातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 भरे॑षु । वाज॑ऽसातये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -75,41 +75,41 @@ genre M
 हे इन्द्र **वृत्राय** **हन्तवे** वृत्रनामकमसुरं हन्तुं **भरेषु** युद्धेषु **वाजसातये** अन्नोपलक्षितधनलाभाय च **पुरुहूतं** पुरुभिराहूतम् **इन्द्रं** बलवन्तं त्वाम् **उप** **ब्रुवे** सोमपानार्थं विश्वामित्रोऽहमाह्वयामि । वृत्राय । ‘क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानम् । हन्तवे । हन्तेस्तुमर्थे तवेन्प्रत्ययः । नित्स्वरः ॥ ब्रुवे । ‘ब्रूञ् व्यक्तायां वाचि' इत्यस्य लट्युत्तम इटि रूपम् । निघातः । वाजसातये । सननं सातिः । वाजस्य सातिर्वाजसातिः । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरः ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke you, **Indra**, who is invoked of many for the slaying of **Vṛtra**, and the granting of food (as the spoil) of battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, much invoked, I call toward me to slay Vr̥tra,  
 to win spoils in raids.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Given vā́jeṣu beginning vs. 6, vā́jasātaye would have better been tr. “to win prizes.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Vrtra's slaughter I address Indra whom many invocate,  
      To win us booty in the wars.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem vielgerufenen Indra rede ich zu, daß er den Vritra erschlage, daß er in den Kämpfen den Preis gewinne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den vielgerufnen sprech ich an, dass Indra tödte unsern Feind, Und Beute schaffe in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К Индре, много (раз) призванному, я обращаюсь,  
 Чтобы он убил Вритру,  

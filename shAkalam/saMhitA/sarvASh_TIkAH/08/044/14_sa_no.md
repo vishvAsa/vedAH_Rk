@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो मित्रमहस् तुव꣡म्  
 अ꣡ग्ने शुक्रे꣡ण शोचि꣡षा  
 देवइ꣡र् आ꣡ सत्सि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 दे॒वैः । आ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,7 +93,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **मित्रमहः** मित्राणां पूजनीय **अग्ने** **सः** **त्वं** **शुक्रेण** ज्वलता **शोचिषा** तेजसा **देवैः** सह **बर्हिषि** यज्ञे **आ** **सत्सि** आसीद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,28 +104,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Adorable to your friends; In RV. 8.19.25: mitramahas = anukūladītimān, beneficently shining; here,mitraṇām pūjanīya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who have the might of Mitra, o Agni, with your flaming flame sit here on our ritual grass along with the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So Agni, rich in many friends, with fiery splendour, seat thyself  
      With Gods upon our sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du wie ein Freund geehrter Agni, setze dich mit deiner hellen Glut in Gesellschaft der Götter aufs Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O freundereicher Agni du, mit heller Flamme setze dich Mit Göttern hin auf unsre Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О великий, как Митра, ты для нас,  
 О Агни с прозрачным пламенем,  

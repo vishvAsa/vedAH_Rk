@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यूयं꣡ न उग्रा मरुतः सुचेतु꣡ना  
 अ꣡रिष्टग्रामाः सुमति꣡म् पिपर्तन  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रिणा꣡ति पश्वः꣡ सु꣡धितेव बर्ह꣡णा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यत्र॑ । वः॒ । दि॒द्युत् । रद॑ति । क्रिविः॑ऽदती । रि॒णाति॑ । प॒श्वः । सुधि॑ताऽइव । ब॒र्हणा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
@@ -118,7 +118,7 @@ genre M
 हे **उग्राः** उद्गूर्णबलाः **मरुतः** **यूयं** **सुचेतुना** शोभनचेतसा **अरिष्टग्रामाः** अहिं सितसंघाः सन्तः **नः** अस्माकं **सुमतिं** शोभनबुद्धिं **पिपर्तन** पूरयत । कस्मिन्काले इति तदुच्यते । **यत्र** यस्मिन् काले **वः** युष्मत्संबन्धिनी **क्रिविर्दती** विक्षेपणशीलदन्ती **दिद्युत्**  हेतिः **रदति** विलिखति मेघसंस्त्यायं **पश्वः** पशूंश्च **रिणाति** रेषति हिनस्ति । वायौ वाति सति पशवः शीर्यन्ते इति प्रसिद्धम् । हिंसायां दृष्टान्तः । **सुधिता** सुहिता सुष्ठु प्रेरिता **बर्हणा** हतिः तत्साधना हेतिर्वा यथा रिणाति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,14 +129,14 @@ genre M
 Asa a well-hurled weapon: paśvaḥ sudhiteva barhaṇā: paśūn is connected with with krivirdatī, the missile of the winds; when the wind blows, animals are withered or chilled
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, mighty Maruts, you invulnerable band—with kind attention deliver  us to your benevolence.  
 Where your missile with its gory teeth scrapes (a path), mightily it  
 liquefies (the trees) as a well-placed (goad) sets the livestock flowing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 áriṣṭagrāmāḥ is a bahuvrīhi, but the tr. ‘having an invulnerable band’ seemed too heavy.
 
@@ -149,23 +149,23 @@ In my reading the structure of pāda d is quite complex and intricate and differ
 As for the simile, Geldner takes barháṇā as fem. nom. sg. with súdhitā (“wie der beharrliche Eifer …”), but barháṇā, which is fairly well attested, is otherwise only an instr. sg. used adverbially (so rendered by both Renou and Witzel Gotō). Like Renou and Witzel Gotō I take didyút (fem.) of c as the referent of súdhitā ‘well-placed’, but didyút- in a slightly different sense: not as a thrown missile but as a sharp-pointed thing used as a goad. The verb riṇā́ti is held constant between simile and frame, but again it has different senses in the two structures: in the simile it does not mean ‘liquefy, dissolve, i.e., destroy’, but ‘make to flow, i.e., to cause to move’, a more appropriate meaning with paśváḥ ‘livestock’ as object.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Terrible Maruts, ye with ne'er-diminished host, with great benevolence fulfil our heart's desire.  
      Where'er your lightning bites armed with its gory teeth it crunches up the cattle like a well-aimed dart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr gewaltige Marut mit unversehrter Schar, schenket uns wohlwollend eure Gnade in Fülle! Wo euer Geschoß mit dem feuerfarbenen Zahn furcht, da macht es die Wasser frei, wie der beharrliche Eifer die Herdentiere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O starke Maruts, ihr mit unversehrter Schar, erfüllet unser Wunschgebet mit holdem Sinn; Wo euer Blitz mit seinen blut'gen Zähnen beisst, zermalmt er Heerden wie ein wohlgezielter Pfeil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, о грозные Маруты, в добром настроении  
 Даруйте нам с избытком (вашу) благожелательность, о те, чье войско невредимо!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ श्रिय꣡ उष꣡सो रो꣡चमाना  
 अ꣡स्थुर् अपां꣡ न꣡ ऊर्म꣡यो रु꣡शन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡भूद् उ व꣡स्वी द꣡क्षिणा मघो꣡नी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 कृ॒णोति॑ । विश्वा॑ । सु॒ऽपथा॑ । सु॒ऽगानि॑ । अभू॑त् । ऊं॒ इति॑ । वस्वी॑ । दक्षि॑णा । म॒घोनी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -131,20 +131,20 @@ genre M
 सुमार्गाणि **सुगानि** सुखेन गम्यानि **कृणोति** करोति । अपि च **मघोनी** धनवत्युषाः **वस्वी** प्रशस्ता **दक्षिणा** समर्धयित्री च **अभूत्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The white and shining tints of the dawn have spread like the waves of the waters, for the beautifying (of the world); she renders all good roads easy to be traversed; she ho is replete with delight, excellence and health.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The shining Dawns have arisen for splendor, glistening like the waves of  the waters.  
 She makes all pathways, all passages easy to travel. She has appeared— the good priestly gift, the bounteous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 supátha- and sugá- recur in 4a, conjoined by utá.
 
@@ -153,23 +153,23 @@ Note the phonological reciprocity between víśvā and vásvī in the same metri
 It would be possible to construe pāda with abhūt and a pred. nom.: “she has become the goodly priestly gift …” But it is common in Dawn hymns to announce the arrival of Dawn in the first verse, and an annunciatory “she has appeared” (← “come into being”) is more in harmony with the usual practice of Dawn hymns. This is the tack of the standard tr. (Geldner, Renou; see also Gonda [Ved. Lit. 218]).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE radiant Dawns have risen up for glory, in their white splendour like the waves of waters.  
      She maketh paths all easy, fair to travel, and, rich, hath shown herself benign and friendly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Morgenröten sind aufgestiegen zur Pracht erglänzend, weißblinkend wie die Wasserwellen. Sie macht alle Wege gut und gangbar. Erschienen ist die gute gabenreiche Daksina.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf stiegen schon der Morgenröthe Strahlen, hell schimmernd wie der Wasser lichte Wellen, Sie macht die Pfade hell, die Wege gangbar, die holde, reiche, einer Milchkuh gleichend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Утренние зори взошли, блистая для красоты,  
 Сверкая, словно волны вод.  

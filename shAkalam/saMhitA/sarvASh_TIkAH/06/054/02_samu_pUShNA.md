@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् उ पूष्णा꣡ गमेमहि  
 यो꣡ गृहाँ꣡ अभिशा꣡सति  
 इम꣡ एवे꣡ति च ब्र꣡वत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒मे । ए॒व । इति॑ । च॒ । ब्रव॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -91,35 +91,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूष्णा** अनुगृहीता वयं **सं** **गमेमहि** तेन जनेन संगच्छेमहि **यः** जनः **गृहान्** येषु गृहेषु अस्मदीया नष्टाः पशवस्तिष्ठन्ति तान् गृहान् **अभिशासति** अभिशास्ति आभिमुख्येन बोधयति । यश्च **इमे** त्वदीया नष्टाः पशवः **एव** एवं तिष्ठन्ति **इति** **च** **ब्रवत्** ब्रूयात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, by the favour of **Pūṣan**, come in communication with (the man) who may direct us to the houses (where our goods are secreted), and may say, verily these are they.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we come together with Pūṣan, who will direct (us) to the houses, and who will say “just here they are.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we go forth with Pusan who shall point the houses out to us,  
      And say to us, These same are they.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen mit Pusan zusammentreffen, der zu den Häusern weisen möge, und sagen: "Diese sind es.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint mit Puschan lasst uns gehn, der hin uns zu den Häusern weist, Und spreche: »Hier sind diese ja«.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С Пушаном мы хотим встретиться,  
 Который указал бы дом  

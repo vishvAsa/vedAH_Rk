@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा म इ꣡न्द्रम् मत꣡यः सुवर्वि꣡दः  
 सध्री꣡चीर् वि꣡श्वा उशती꣡र् अनूषत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡र्यं न꣡ शुन्ध्यु꣡म् मघ꣡वानम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 परि॑ । स्व॒ज॒न्ते॒ । जन॑यः । यथा॑ । पति॑म् । मर्य॑म् । न । शु॒न्ध्युम् । म॒घऽवा॑नम् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -124,36 +124,36 @@ genre M
 आङ्गिरसस्य कृष्णस्य **मे** मम **स्वर्विदः** सर्वस्य लम्भयित्र्यः **सध्रीचीः** संगताः **विश्वाः** व्याप्ताः **उशतीः** कामयमानाः **मतयः** स्तुतयः **इन्द्रम्** **अच्छ** **अनूषत** अभिष्टुवन्ति । किंच **जनयः** जायाः **यथा** **पतिं** भर्तारं **मर्यं** **न** यथा च मनुष्यं **शुन्ध्युं** शुद्धं दोषरहितं **मघवानं** धनवन्तम् **ऊतये** रक्षणार्थं **परि** **ष्वजन्ते** आलिङ्गन्ति तद्वदिन्द्र मे स्तुतयः परि ष्वजन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “My praises, all-acquiring, concentrated and eager, glorify **Indra**; they embrace Maghavat as wives(embrace) a husband; as (women embrace) a man free from defect for the sake of protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 My thoughts—sun-finding, all directed to a single goal, eager—have  bellowed to Indra.  
 They embrace him as wives do their husband, embrace the bounteous  one like a sleek young blood, for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 IN perfect unison all yearning hymns of mine that find the light of heaven have sung forth Indra's praise.  
      As wives embrace their lord, the comely bridegroom, so they compass Maghavan about that he may help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu Indra haben meine Dichtungen, die das Sonnenlicht fanden, alle vereint voll Verlangen geschrieen. Sie umarmen ihn wie Frauen den Gemahl, wie einen schmucken jungen Mann ihn, den Gabenreichen, zur Gunsterweisung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra jauchzen alle meine Lieder zu nach gleichem Ziel, nach Glück verlangend, sehnsuchtsvoll, Umschlingen ihn wie den Gemahl die Gattinnen, wie schönen Buhlen ihn, den reichen, zum Genuss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Произведения мои, находящие свет, возликовали  
 Все вместе, стремясь к Индре.  

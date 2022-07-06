@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡भ्या आसीद् अन्त꣡रिक्षं  
 शीर्ष्णो꣡ द्यउः꣡ स꣡म् अवर्तत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 त꣡था लोकाँ꣡ अकल्पयन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 प॒त्ऽभ्याम् । भूमिः॑ । दिशः॑ । श्रोत्रा॑त् । तथा॑ । लो॒कान् । अ॒क॒ल्प॒य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saptāsyāsan* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
@@ -117,35 +117,35 @@ popular;; epic anuṣṭubh (380)
 यथा चन्द्रादीन् प्रजापतेर्मनःप्रभृतिभ्योऽकल्पयन तथा **अन्तरिक्षादीन्** **लोकान्** प्रजापतेः नाभ्यादिभ्यो देवाः **अकल्पयन्** उत्पादितवन्तः । एतदेव दर्शयति । **नाभ्याः** प्रजापतेर्नाभेः **अन्तरिक्षमासीत्** । **शीर्ष्णः** शिरसः **द्यौः** **समवर्तत** उत्पन्ना। अस्य **पद्भ्यां** पादाभ्यां **भूमिः** उत्पन्ना। अस्य **श्रोत्रात्** **दिशः** उत्पन्नाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From his navel came the firmament, from his head the heaven was produced, the earth from his feet,the quarters of space from his ear, so they constituted the world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From his navel was the midspace. From his head the heaven developed. From his two feet the earth, and the directions from his ear. Thus they  arranged the worlds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forth from his navel came mid-air the sky was fashioned from his head  
      Earth from his feet, and from his car the regions. Thus they formed the worlds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben waren seine Umleghölzer, dreimal sieben Brennhölzer wurden gemacht, als die Götter das Opfer vollzogen und Purusa als Opfertier anbanden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurden bereitet, als die Götter, das Opfer ausrüstend, den Urmenschen als Opferthier anbanden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У него было семь поленьев ограды (костра),  
 Трижды семь были сделаны как дрова (для костра),  

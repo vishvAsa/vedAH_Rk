@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ ना꣡भा विचक्षणो꣡  
 अ꣡व्यो वा꣡रे महीयते  
 सो꣡मो यः꣡ सुक्र꣡तुः कविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः॑ । यः । सु॒ऽक्रतुः॑ । क॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** **सुक्रतुः** सुप्रज्ञः **कविः** क्रान्तकर्मा **विचक्षणः** विद्रष्टा सः **सोमः** **दिवः** अन्तरिक्षस्य **नाभा** नाभौ नाभिभूते **अव्यः** अवेः **वारे** वाले **महीयते** पूज्यते । पूयमानः स्तूयत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, the observant, who is the wise seer, is worshipped in the navel of the sky, the woollen filter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the navel of heaven, he, wide-gazing, shows his greatness in the sheep’s  fleece:  
 Soma, who is a poet with good purpose.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far-sighted Soma, Sage and Seer, is worshipped in the central point  
      Of heaven, the straining-cloth of wool.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Nabel des Himmels fühlt sich der Hellesehende groß in der Schafwolle, der Soma, welcher der weise Seher ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewaltig zeigt der weise sich im Himmelssitz, im Widderfell, Ein Seher Soma, stark an Geist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Далеко смотрящий на пупе неба,  
 Он красуется в сите из овечьей шерсти,  

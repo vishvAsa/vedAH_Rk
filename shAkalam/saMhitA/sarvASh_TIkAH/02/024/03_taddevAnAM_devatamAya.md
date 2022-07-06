@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् देवा꣡नां देव꣡तमाय क꣡र्तुवम्  
 अ꣡श्रथ्नन् दॄळ्हा꣡+ अ꣡व्रदन्त वीळिता꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡गूहत् त꣡मो वि꣡ अचक्षयत् सु꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उत् । गाः । आ॒ज॒त् । अभि॑नत् । ब्रह्म॑णा । व॒लम् । अगू॑हत् । तमः॑ । वि । अ॒च॒क्ष॒य॒त् । स्व१॒॑रिति॑ स्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -123,36 +123,36 @@ genre M
 देवानामिन्द्रादीनाम्मध्येदेवतमाय अतिशयेनदानादिगुणयुक्ताय षष्ठ्य्र्थेचतुर्थी ईदृशस्य ब्रह्मण स्पतेस्तत्कर्त्वङ्कर्तव्यं कर्म किम्पुनस्तदितिचेदुच्यते—दृह्ळा दृढानिपर्वतादीनि अश्रश्नन् श्रन्थविमोचनप्र तिहर्षणयोः अस्यबलेनश्रथितानि विश्लिष्टान्यभूवन् तथावीळितावीळितानिसंस्तं भितानिदृढीकृता- निवृक्षादीनि वीळयतिश्चव्रीडयतिश्चसंस्तम्भकर्माणावितियास्कः । अव्रदन्त मृदून्यभवन् व्रदतिर्मृदू- भावकर्मा अपिचसब्रह्मणस्पतिः बलेनापहृतागाः उदाजत् अजगतिक्षेपणयोः देवान्प्रत्युदगमयत् तथाब्रह्मणाआत्मीयेनमन्त्रेणबलंसर्वस्यावरकमसुरंअभिनत् मन्त्रसामर्थ्येनाभैत्सीत् तदनन्तरम्बलेनो त्पादितन्तमः ध्वान्तंअगूहत् गुहूसंवरणे गूढमदृश्यमकरोत् तदनन्तरं स्वरादित्यंव्यचक्षयत् तमसोनि राकरणेनतत्स्थमदर्शयत् चष्टिःपश्यतिकर्मा ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That was the exploit, (performed) for the most divine of the gods, by which the firm (**shut** gates) were thrown open, the strong (barriers) were relaxed, (by him) who set the cows at liberty; who, by the (force of the) sacred prayer, destroyed **Bala** who dispersed the darkness and displayed the light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That had to be done by the foremost god of gods: what was firm  became loose, what was hard became pliant.  
 He drove up the cattle; he split the cave by the sacred formulation. He  hid the darkness and made the sun visible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That was a great deed for the Godliest of the Gods: strong things were loosened and the firmly fixed gave way.  
      He drave the kine forth and cleft Vala through by prayer, dispelled the darkness and displayed the light of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das war die Aufgabe für den Göttlichsten der Götter: Das feste lockerte sich, das Harte gab nach. Er trieb die Kühe heraus, spaltete mit dem Zauberwort den Vala, er beseitigte das Dunkel, ließ die Sonne scheinen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das war zu thun dem göttlichsten der Götterschar, morsch ward das Feste und das Harte ward erweicht; Die Küh' entführt' er, schlug den Vala durch Gebet, verbarg das Dunkel, machte hell den Himmelsglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот (была) задача для самого божественного из богов:  
 Ослабло твердое, смягчилось крепкое.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अग्ने रुद्रो꣡ अ꣡सुरो महो꣡ दिव꣡स्  
 तुवं꣡ श꣡र्धो मा꣡रुतम् पृक्ष꣡ ईशिषे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुव꣡म् पूषा꣡ विधतः꣡ पासि नु꣡ त्म꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒म्ऽग॒यः । त्वम् । पू॒षा । वि॒ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -153,31 +153,31 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Agni**, are **Rudra**, the expeller (of foes) from the expanse of heaven; you are the strength of the **Maruts**; you are supreme over (sacrificial) food; you, who are plural asantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind; as **Pūṣan**, you cherish, of yours own will, those who offer worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, as lord of great heaven, are Rudra; you, as the troop of  Maruts, are master of strengthening nourishment [=rain].  
 You, as luck for livestock, drive with the ruddy winds (as horses); you, as  Pūṣan, protect the ones doing honor, in your own person.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not understand the cmpd śaṃgayá-. Wackernagel (AIG II.1.309) classifies it with cmpds with governing first-member prepositions, but śám, though uninflected, does not function like even the improper prepositions/preverbs like áram. He does recognize its singularity (314-15), but keeps it in this category, in which it seems out of place.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rudra art thou, the Asura of mighty heaven: thou art the Maruts' host, thou art the Lord of food,  
      Thou goest with red winds: bliss hast thou in thine home. As Pusan thou thyself protectest worshippers.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art Rudra, the Asura of the high Heaven 1;  
 thou, being the host of the Maruts, rulest over nourishment.  
@@ -194,17 +194,17 @@ Thou, as Pusan dost, protectest thy worshippers with thyself.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist Rudra, der Asura des großen Himmels; als Marutheer verfügst du über die Stärke. Du fährst mit den rötlichen Windrossen, dem Hausstand heilbringend; du schützest als Pusan in eigener Person die Verehrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wohnt dir bei; Auf feur'gen Winden gehst du, bringst uns Glück ins Haus, und Puschan bist du, schützest die Verehrer recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, – Рудра, Асура великого неба.  
 Ты, (как) толпа Марутов, владеешь силой изобилия.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इ꣡त् ता꣡न् वृत्रहा꣡खिदत्  
 खे꣡ अराँ꣡ इव खे꣡दया  
 प्र꣡वृद्धो दस्युहा꣡भवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्रऽवृ॑द्धः । द॒स्यु॒ऽहा । अ॒भ॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M
 **तान्** जनन्योक्तान् **वृत्रहा** इन्द्रः **समित्** सहैव **अखिदत्**। खेदनं नाम आकर्षणम् । **खे** रथचक्रस्य नाभौ **अरान्** चक्राङ्गभूताञ्छङ्कून् **खेदया** रज्ज्वा **इव** । तया तान् यथा संखिदन्ति तद्वत् । तथा कृत्वा **दस्युहा** शत्रुघातीन्द्रः **प्रवृद्धः** अभवत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,34 +106,34 @@ genre M
 With a rope: cf. RV 8.72.8
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Vr̥tra-smiter just hammered them together, like spokes in a nave  with a hammer.  
 When grown up, he became smiter of Dasyus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note both the phonological figure khé … khédayā and the etymological figure akhidat … khédayā. The sense ‘hammered together’ attributed to sám … akhidat may seem strange, given that √khid means something like ‘tear (out/apart)’. I assume that the lexeme and sense here were generated acdg. to the common sám / ví opposition to ví √khid ‘tear out/apart’, attested in AVP XVI.73.5 and KS XVII.15 as well as Śāṅkh. Br. II.9.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Vrtra-slayer smote them all as spokes are hammered into naves:  
      The Dasyu-killer waxed in might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Vritratöter preßte sie mit einem Druck zusammen wie die Speichen in das Nabenloch. Als er groß geworden, wurde er der Dasyutöter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie schlug, wie Speichen in das Rad, der Vritratödter mit dem Keil, Da war der Dämontödter gross,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убийца Вритры вдавил их вместе  
 Молотом, словно спицы во втулку.  

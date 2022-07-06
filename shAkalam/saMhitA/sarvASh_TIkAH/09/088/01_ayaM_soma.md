@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ सो꣡म इन्दर+ तु꣡भ्य° सुन्वे  
 तु꣡भ्यम् पवते तुव꣡म् अस्य पाहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्दुम् म꣡दाय यु꣡जियाय सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । ह॒ । यम् । च॒कृ॒षे । त्वम् । व॒वृ॒षे । इन्दु॑म् । मदा॑य । युज्या॑य । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -132,21 +132,21 @@ genre M
 हे **इन्द्र** **अयं** **सोमः** **तुभ्यं** त्वदर्थं **सुन्वे** सूयते ॥ सुनोतेः कर्मार्थे लटि ‘ लोपस्त आत्मनेपदेषु' इति तलोपः ॥ **तुभ्यं** त्वदर्थमेव **पवते** पूयते । **त्वं** च **अस्य** अमुं **पाहि** पिब । **त्वं** **ह** **यम्** **इन्दुं** **सोमं** **चकृषे** करोषि । **त्वं** च यं **ववृषे** वृतवानसि । किमर्थम् । **मदाय** **युज्याय** सहायाय । सोम इन्द्राय बलकरत्वात् सहाय इति प्रसिद्धम् । यमेवं करोषि त्वं तं पाहीति समन्वयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Soma** is expressed for you, **Indra**; for you is filtered; do you drink of it; it is the **Indu** Soma which you have made, which you have chosen for your exhilaration, your companion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This soma is pressed for you, Indra; for you it purifies itself.  
 You—drink of it—  
 the one that you have made your own, that you have chosen, the drop,  the soma to be yoked for exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is notable for the dense repetition of the 2nd ps. sg. prn., with five exx. in the first three pādas.
 
@@ -157,23 +157,23 @@ The published translation renders mádāya yújyāya sómam as “the soma to be
 There thus appears to be a fixed syntagm X yújyāya √vṛ “choose/select X for yoking (/for use),” and I would now tr. this passage “… the drop, the soma, which you have chosen for yoking for exhilaration.” I would not construe it directly with the adjacent dative mádāya, which is a separate expression of purpose.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FOR thee this Soma is effused, O Indra: drink of this juice; for thee the stream is flowing-  
      Soma, which thou thyself hast made and chosen, even Indu, for thy special drink to cheer thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma wird für dich, Indra, ausgepreßt, für dich wird er geläutert; trinke du davon, den du dir gewonnen und erwählt hast, den Somasaft für den dir zukommenden Rausch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst ist dieser Soma dir, o Indra, er rieselt hell dir, trinke du von diesem; Von ihm, den du geschaffen und erwählt hast, vom Somasafte dir zu tücht'gem Rausche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот сома, о Индра, выжимается для тебя.  
 Для тебя он очищается. Ты пей его.  

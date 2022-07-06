@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ सु꣡ मे जरितर् आ꣡ चिकिद्धि  
 प्रतीपं꣡ शा꣡पं नदि꣡यो वहन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्रोष्टा꣡ वराहं꣡ नि꣡र् अतक्त क꣡क्षात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 लो॒पा॒शः । सिं॒हम् । प्र॒त्यञ्च॑म् । अ॒त्सा॒रिति॑ । क्रो॒ष्टा । व॒रा॒हम् । निः । अ॒त॒क्त॒ । कक्षा॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
@@ -117,7 +117,7 @@ popular
 हे **जरितः** शत्रूणां जरयितरिन्द्र त्वं **मे** मम **सु** शोभनमपि **इदम्** ईदृशं रूपं सामर्थ्यम् **आ** **चिकिद्धि** आ समन्ताज्जानीहि । कीदृशम् । **नद्यः** गङ्गाद्याः सरितः **प्रतीपं** प्रतिकूलं **शापम्** उदकं **वहन्ति** । अपि च **लोपाशः** । लुप्यमानं तृणमश्नातीति लोपाशो मृगः । मया प्रेषितः सन् **प्रत्यञ्चम्** आत्मानं प्रति गच्छन्तं **सिंहम्** **अत्साः** अत्सारीत् । आभिमुख्येन गच्छति । तथा **क्रोष्टा** शृगालः **वराहं** बलवन्तमपि सूकरं **कक्षात्** अतिगहनदेशात् **निरतक्त** निर्गमयति । एतदपि सर्वं सामर्थ्यं त्वत्पुत्रे मयि त्वत्प्रसादाल्लब्धमपि जानीहीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ Foes: Oworshipper, Vasukra: Indra being the speaker;
 Alternative: Vasukra speaks claiming superhuman power as theson of Indra; eater of cut grass: i.e., the deer; or, is it the fox, jackal, from īlup, īrup, to carry off (rob)? jackaldrives: I have the power to alter the ordinary course of nature.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Mark well this (speech) of mine, singer: The rivers carry the  flotsam against their current.  
 The fox crept up on the lion, his opponent; the jackal sprang on the boar  from out of the underbrush.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Resolve for me, O singer, this my riddle: The rivers send their swelling water backward:  
      The fox steals up to the approaching lion: the jackal drives the wild-boar from the brushwood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Versteh fein dieses Wort von mir, o Sänger: die Flüsse treiben das Geflöße stromaufwärts. Der Fuchs hat von hinten den Löwen beschlichen, der Schakal hat sich aus dem Busch auf den Eber gestürzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Beachte wohl dies Wort, o du mein Sänger: Die Ströme treiben fort gewalt'ges Flössholz, Den Leu beschleicht von hinten die Hyäne; aus Höhlen stürzt der Schakal auf den Eber.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Постигни до конца это (слово) мое, о певец:  
 Реки гонят плавник против течения.  

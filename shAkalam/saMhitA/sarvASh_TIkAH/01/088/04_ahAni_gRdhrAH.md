@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हानि गृ꣡ध्राः प꣡रि आ꣡ व आ꣡गुर्  
 इमां꣡ धि꣡यं वार्कारियां꣡ च देवी꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऊर्ध्वं꣡ नुनुद्र उत्सधि꣡म् पि꣡बध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ब्रह्म॑ । कृ॒ण्वन्तः॑ । गोत॑मासः । अ॒र्कैः । ऊ॒र्ध्वम् । नु॒नु॒द्रे॒ । उ॒त्स॒ऽधिम् । पिब॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahāni* ← *ahar*
 - \[noun\], accusative, plural, neuter
@@ -126,21 +126,21 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 तृषितैर्गोतमैः स्तुता मरुतस्तेभ्यो गोतमेभ्यो देशान्तरे वर्तमानं कूपमुत्खायानीय प्रददुः। एतत् दृष्ट्वा कश्चिदृषिर्रूरेते । हे गोतमाः **गृध्राः** जलाभिकाङ्क्षायुक्तान् **वः** युष्मान् **अहानि** शोभनोदकोपेतानि दिनानि **परि** **आ** **अगुः** पर्यागतानि परितः आभिमुख्येन प्राप्तानि । प्राप्य च **वार्कार्याँ** वार्भिः उदकैर्निष्पाद्यां **धियं** ज्योतिष्टोमादिलक्षणं कर्म च **देवीं** द्योतमानमकुर्वन् । येष्वहःसु **ब्रह्म** हविर्लक्षणमन्नम् **अर्कैः** मन्त्रसाध्यैः स्तोत्रैः सह **कृण्वन्तः** मरुद्यःिन कुर्वन्तः **गोतमासः** गौतमा ऋषयः **उत्सधिम्** । उत्सो जलप्रवाहोऽस्मिन्धीयते इत्युत्सधिः कूपः तं **पिबध्यै** स्वकीयपानाय **ऊर्ध्वं** **नुनुद्रे** नुनुदिरे देशान्तरे वर्तमानं कूपमुत्खातवन्तः । एतदीयस्तोत्रैः स्तुता मस्तः कूपमुत्खातवन्त इति यत् तदेतदीयस्तोत्रकारितमिति एतेषूपचर्यते ॥ गृध्राः ।  ‘ गृधु अभिकाङ्क्षायाम्।' सुसूधागृधिभ्यः क्रन्' इति क्रन्प्रत्ययः ।  ‘ सुपां सुपो भवन्ति ' इति शसो जस् । नित्त्वादाद्युदात्तत्वम् । अगुः । एतेर्लुङि • इणो गा लुङि' इति गादेशः । आतः' इति झेः जुस् । वार्कार्याम् । ‘डुकृञ् करणे'।  ‘ ऋहलोर्ण्यत् । वार्भिः कार्या वार्कार्या । त्रिचक्रादित्वात् उत्तरपदान्तोदात्तत्वम् । नुनुद्रे ।  ‘ णुद प्रेरणे'। इरयो रे' इति रेआदेशः । उत्सधिम् । कर्मण्यधिकरणे च ' इति दधातेरधिकरणे किप्रत्ययः । पिबध्यै ।  ‘ पा पाने । तुमर्थे सेसेन्” ' इति शध्यैन्प्रत्ययः ।  ‘ पाघ्रा ' इत्यादिना पिबादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Fortunate days have befallen you, (sons of **Gotama**), when thirsty, and have given lustre to the rite for which water was essential; the sons of Gotama, (offering) oblations with sacred hymns, have raised aloft the well (provided) for their dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For days, (like) vultures they have been wheeling around this insight for  you, and around the goddess “Water-Maker” [=penis =vīṇā].  
 Making a sacred formulation, with their chants the Gotamas have  
 pushed the fountainhead erect, for drinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the imagery here, see the published introduction.
 
@@ -151,23 +151,23 @@ The hapax vārkār i yā́m is of course very obscure. Geldner simply takes it a
 Note the phonological play between vārkār- (b) and arkaír (c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The days went round you and came back O yearners, back, to this prayer and to this solemn worship.  
      The Gotamas making their prayer with singing have pushed the well's lid up to drink the water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tagelang hatten sie wie Geier für euch diese Dichtung und die Göttin Varkarya umkreist. Mit Preisliedern eine feierliche Beschwörung machend hoben die Gotama´s den Brunnen nach oben zum Trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viele Tage hindurch betrieben die begierigen [Gotamer] dies an euch gerichtete Gebet und das wasserschaffende Götteropfer; mit Liedern Gebet verrichtend haben die Gotamer den Wasserborn emporgetrieben, um zu trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Целые) дни коршунами они кружили около вас,  
 (Охраняя) эту мысль и богиню Варкарью.  

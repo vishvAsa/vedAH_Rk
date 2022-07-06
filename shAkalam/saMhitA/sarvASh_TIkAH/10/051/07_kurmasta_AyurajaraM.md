@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुर्म꣡स् त आ꣡युर् अज꣡रं य꣡द् अग्ने  
 य꣡था युक्तो꣡ जातवेदो न꣡ रि꣡ष्याः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भागं꣡ देवे꣡भ्यो हवि꣡षः सुजात
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अथ॑ । व॒हा॒सि॒ । सु॒ऽम॒न॒स्यमा॑नः । भा॒गम् । दे॒वेभ्यः॑ । ह॒विषः॑ । सु॒ऽजा॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kurmas* ← *kurmaḥ* ← *kṛ*
 - \[verb\], plural, Present indikative
@@ -140,36 +140,36 @@ popular
 इदं देवानां वाक्यम् । हे **अग्ने** **यत्** **आयुः** आयुष्यम् **अजरं** जरारहितमस्ति तत् **ते** **कुर्मः** । **युक्तः** तेनायुषा संयुक्तस्त्वं हे **जातवेदः** जातप्रज्ञ **यथा** **न** **रिष्याः** न म्रियसे तथा कुर्मः। **अथ** **वहासि** वह **सुमनस्यमानः** सौमनस्यं कुर्वन् वोढव्यं वहन् । तदेव दर्शयति । **हविषः** यजमानप्रत्तस्य **भागम्** । केभ्यः । **देवेभ्यः** । हे **सुजात** शोभनजन्मन्नग्ने ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The gods). We grant you life, **Agni**, which (is) exempt from decay, so that thus endowed, **Jātavedas**,you will not die; so, becoming conciliated, well- born, Agni, bear their portion of the oblation to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Gods:] We will make a lifetime for you, which is free from old age, Agni,  so that yoked (to your task) you will not suffer harm, Jātavedas.  
 Then will you, showing your benevolence, convey their portion of the  oblation to the gods, o well-born one?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We give thee life unwasting, Jatavedas, so that, employed, thou never shalt be injured.  
      So, nobly born! shalt thou with kindly spirit bear to the Gods their share of men's oblations.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir bereiten dir ein Leben, das alterlos ist, Agni, auf daß du eingespannt nicht zu Schaden kommest, o Jatavedas. Und du sollst geneigten Sinnes den Göttern ihren Anteil am Opfer überbringen, du Wohlgeborener!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir schaffen dir, o Agni, ew'ge Jugend, dass, Wesenkenner, du im Dienst nicht leidest, Drum fahre nun auch wohlgemuth, o edler, hin zu den Göttern ihren Opferantheil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы готовим тебе (тот) срок жизни, который не стареет, о Агни,  
 Чтобы запряженный, о Джатаведас, ты не потерпел вреда.  

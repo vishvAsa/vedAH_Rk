@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ धूर्षु꣡ अस्मै द꣡धात अ꣡श्वान्  
 इ꣡न्द्रो न꣡ वज्री꣡ हि꣡रण्यबाहुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 आ । धूः॒ऽसु । अ॒स्मै॒ । दधा॑त । अश्वा॑न् । इन्द्रः॑ । न । व॒ज्री । हिर॑ण्यऽबाहुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -78,20 +78,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **अस्मै** । षष्ठ्यर्थे चतुर्थी । अस्येन्द्रस्यागमनाय **अश्वान्** **धूर्षु** रथस्य **आ** **दधात**। **इन्द्रो** **न** । नेति चार्थे। इन्द्रः **वज्री** वज्रवान् **हिरण्यबाहुः** हिरण्यहस्तश्च भवति ॥ षोडशिनि शस्यमानत्वादस्या ऐन्द्रत्वं गम्यते । ‘आ धूर्ष्वस्मै ' इत्यत्र ‘अस्मै ' इत्यस्य पदस्यानुदात्तत्वं पूर्वस्यामिन्द्रस्य प्रकृतत्वात् । अत एव पूर्वाप्यैन्द्रीति विज्ञायते । पूर्वस्यामप्यृचि ‘अस्मै ' इत्यत्रानुदात्तत्वमल्पीयोऽर्थतरमनुदात्तमिति । तथा च यास्कः - ‘ अस्येति चोदात्तं प्रथमादेशेऽनुदात्तमन्वादेशे तीव्रार्थतरमुदात्तमल्पीयोऽर्थतरमनुदात्तम् ' (निरु. ४. २५) इति । अल्पीयस्त्वं चेदंशब्दप्रवृत्तिनिमित्तस्य संनिधानस्य दूरस्थत्वेनेत्यवगन्तव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Yoke for him the horses of his chariot, the **Indra** is the wielder of the thunderbolt, the golden-armed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Put the horses to the chariot-poles for him.  
 Golden-armed, he carries the mace like Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd pl. subj. of dádhāta is unspecified, but is probably the priests / poets associated with the current sacrifice, who were referred to in the 1st pl. asmát in vs. 1. See vss. 5-6, where this identification is more explicit.
 
@@ -111,22 +111,22 @@ Note the chiasmic verb sequence 4b dádhāta [… 5a sthāta] ... 5d tmánā hin
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set ye for him the coursers to the pole: like Indra Thunderer is the Golden-armed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leget ihm die Rosse an die Joche wie Indra, der Keulenträger mit goldigem Arme!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Setzt an die Deichsel – ihm seine Rosse, wie Indra blitzet – mit goldnem Arm er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягите для него коней в оглобли,  
 Словно Индра, громовержец златорукий!

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बभ्रु꣡र् ए꣡को वि꣡षुणः सून꣡रो यु꣡वा  
 अञ्जि꣡ अङ्क्ते हिरण्य꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -27,7 +27,7 @@ genre M
 ब॒भ्रुः । एकः॑ । विषु॑णः । सू॒नरः॑ । युवा॑ । अ॒ञ्जि । अ॒ङ्क्ते॒ । हि॒र॒ण्यय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *babhrur* ← *babhruḥ* ← *babhru*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M
 **एको** देवः सोमः **हिरण्ययं** हिरण्मयं **अञ्जि** अभिव्यज्यते प्रकाश्यतेनेनेति **अञ्जि** आभरणं अभिव्यक्ति-साधनं कुण्डल-मुकुटादिकं स्वशरीरम् **अङ्क्ते** अभिव्यञ्जयति ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,32 +92,32 @@ genre M
 One Soma brown of hue: **babhru** is an apparent reference to the hue of a commodity; otherepithets appear to describe Soma as the moon; leader of the nights: sunara = suṣṭhu rātrīṇām **netā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Brown, this one is changeable, a spirited youth; he smears golden  unguent on himself. [=Soma]
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The description given is apt for Soma. The soma twigs start out brown, but when they are pressed, the golden juice comes out and, as it were, anoints them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 ONE is a youth brown, active, manifold he decks the golden one with ornament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine, braun, veränderlich, ein edler Jüngling, legt sich goldene Farbe auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der eine röthlich, jung und lieblich, mannichfach verziert mit goldnem Schmucke sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бурый один, меняющийся, благородный  
 Юноша украшает себя золотым украшением.

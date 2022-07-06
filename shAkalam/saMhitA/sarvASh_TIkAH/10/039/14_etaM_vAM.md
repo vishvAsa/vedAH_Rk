@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एतं꣡ वां स्तो꣡मम् अश्विनाव् अकर्म  
 अ꣡तक्षाम · भृ꣡गवो न꣡ र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡त्यं न꣡ सूनुं꣡ त꣡नयं द꣡धानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नि । अ॒मृ॒क्षा॒म॒ । योष॑णाम् । न । मर्ये॑ । नित्य॑म् । न । सू॒नुम् । तन॑यम् । दधा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -128,34 +128,34 @@ genre M
 (भृगवो न रथम् - द्र. ऋभवो न रथम् - ऋ. ४.१६.२०
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have made this praise song for you, o Aśvins. We have fashioned it,  like the Bhr̥gus a chariot.  
 We have clasped it to ourselves like a dashing youth a maiden, holding  it close like our own son who continues our lineage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have prepared this laud for you, O Asvins, and, like the Bhrgus, as a car have framed it,  
      Have decked it as a maid to meet the bridegroom, and brought it as a son, our stay for ever.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Loblied haben wir für euch, Asvin, gemacht; wir haben es gezimmert wie die Bhrigu´s einen Wagen. Wir haben es euch hingegeben wie die Maid dem jungen Manne, es wie einen eigenen Sohn, der das Geschlecht fortpflanzt, haltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Preislied haben wir gemacht euch Rittern, gezimmert wie die Künstler einen Wagen, Und ausgeschmückt so wie die Braut dem Freier, und bringen's euch wie eignen Sohn des Leibes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы создали эту хвалу для вас, о Ашвины,  
 Мы вытесали ее, как Бхригу – колесницу.  

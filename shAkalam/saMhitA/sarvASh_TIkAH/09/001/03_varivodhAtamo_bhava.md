@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वरिवोधा꣡तमो भव  
 मं꣡हिष्ठो वृत्रह꣡न्तमः  
 प꣡र्षि रा꣡धो मघो꣡ना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पर्षि॑ । राधः॑ । म॒घोना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *varivodhātamo* ← *varivaḥ* ← *varivas*
 - \[noun\], neuter
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम त्वं **वरिवोधातसः** अतिशयेन धनानां दाता **भव** । वेदो वरिवः' इति धननामसु पाठात् । **मंहिष्ठः** दातृतमश्च भव । सर्वदातृत्वमत्रोच्यत इत्यपुनरुक्तिः । **वृत्रहन्तमः** अतिशयेन शत्रूणां हन्ता भव । किंच **मघोनां** धनवतां शत्रूणां **राधः** धनं च **पर्षि** अस्मभ्यं प्रयच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be the lavish giver of wealth, most bounteous, the destroyer of enemies; bestow on us the riches of the affluent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become the best establisher of the wide realm, most munificent, best  smasher of obstacles.  
 Deliver (to us) the bounty of the liberal ones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The aggrandizing of Soma’s role continues here, with 3 superlatives: varivodhā́tama- ‘best establisher of the wide realm’, máṃhistha- ‘most munificent’, and vṛtrahántama- ‘best smasher of obstacles’ -- the last of course borrowing Indra’s signature epithet, while máṃhiṣṭha- also regularly characterizes Indra. Renou suggests that the three represent the three (Dumézilian) functions, but this does not seem particularly compelling.
 
@@ -100,23 +100,23 @@ Vs. 1 also began with two superlatives, svā́diṣṭha- ‘sweetest’ and má
 Pāda c is identical to VIII.103.7d, found in the very last hymn of Maṇḍala VIII, just as this is found in the first hymn of Maṇḍala IX -- so they are adjacent in the Saṃhitā arrangement. But I don’t know what, if anything, to make of this. If this is more than just accident, it would suggest that the compilers selected this particular Gāyatrī hymn to begin IX on the basis of this verbal correspondence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou best Vrtra-slayer, best granter of bliss, most liberal:  
      Promote our wealthy princes' gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei du der beste Auswegschaffer, der Freigebigste, der Erzfeindetöter, erhalte die Freigebigkeit der Lohnherren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei du es, der am besten schenkt, die Feinde schlägt und Freiheit schafft, Der Reichen Gabe fördre du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь лучшим открывателем просторов,  
 Самым щедрым, самым лютым убийцей врагов!  

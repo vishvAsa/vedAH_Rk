@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधिक्रा꣡वा प्रथमो꣡ वाजी꣡ अ꣡र्वा  
 अ꣡ग्रे र꣡थानाम् भवति प्रजान꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आदित्ये꣡भिर् व꣡सुभिर् अ꣡ङ्गिरोभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒म्ऽवि॒दा॒नः । उ॒षसा॑ । सूर्ये॑ण । आ॒दि॒त्येभिः॑ । वसु॑ऽभिः । अङ्गि॑रःऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhikrāvā* ← *dadhikrāvan*
 - \[noun\], nominative, singular, masculine
@@ -105,36 +105,36 @@ genre M
 **प्रथमः** सर्वेषामश्वानां मुख्यः **वाजी** शीघ्रगामी **अर्वा** गमनशीलः **दधिक्रावा** अश्वरूपो देवः **प्रजानन्** रथसंयोजनीयांस्तांस्तानश्वानधिष्ठाय ज्ञातव्यानि सम्यग्जानन् **रथानाम्** **अग्रे** प्रमुखः **भवति**। कीदृशोऽश्वः । **उषसा** उषोदेवतया **सूर्येण** सर्वस्य प्रेरकेण देवेन **आदित्येभिः** आदित्यैश्च **वसुभिः** च **अङ्गिरोभिः** देवैः सह स्तोतव्यैर्ऋषिभिश्च **संविदानः** सम्यग्जानन् । ऐकमत्वं प्राप्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dadhikrāvan, the swift steed, the first (of horses), knowing (his office), is in the front of the chariots (ofthe gods), consentient with Uṣas, with **Sūrya**, wiḥ the **Ādityas**, with the **Vasus**, with the **Aṅgirasas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dadhikrāvan becomes the foremost prizewinning steed at the forefront  of the chariots, as the foreknowing one,  
 being in accord with Dawn and the Sun, with the Ādityas, Vasus, and  Aṅgirases.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Foremost is Dadhikravan, vigorous courser; in forefront of the cars, his way he knoweth,  
      Closely allied with Surya and with Morning, Adityas, and Angirases, and Vasus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dadhikravan erscheint als der erste siegreiche Renner an der Spitze der Götterwagen, des Weges kundig, im Verein mit Usas, Surya, den Aditya´s, den Vasu´s, den Angiras´.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der erste schnelle Renner Dadhikravan geht an der Wagen Spitze, kennt die Wege, Mit Morgenroth und Sonne eng verbunden, mit den Aditja's, Vasu's, Angirasen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикраван – первый скакун, завоевывающий награду,  
 Он бывает во главе колесниц (как) знающий (путь),  

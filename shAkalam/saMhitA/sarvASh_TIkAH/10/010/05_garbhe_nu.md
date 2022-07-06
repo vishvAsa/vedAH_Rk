@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग꣡र्भे नु꣡ नौ जनिता꣡ द꣡म्पती कर्  
 देव꣡स् त्व꣡ष्टा सविता꣡ विश्व꣡रूपः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वे꣡द नाव् अस्य꣡ पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नकिः॑ । अ॒स्य॒ । प्र । मि॒न॒न्ति॒ । व्र॒तानि॑ । वेद॑ । नौ॒ । अ॒स्य । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *garbhe* ← *garbha*
 - \[noun\], locative, singular, masculine
@@ -145,36 +145,36 @@ popular
 **त्वष्टा** रूपाणां कर्ता सविता सर्वेषां शुभाशुभस्य प्रेरकः **विश्वरूपः** सर्वात्मकः **देवः** दानादिगुणयुक्तः **जनिता** जनयिता प्रजापतिः **गर्भे** **नु** गर्भावस्थायामेव **नौ** आवां **दंपती** जायापती **कः** कृतवान् एकोदरे सहवासित्वात् । **अस्य** प्रजापतेः **व्रतानि** कर्माणि **नकिः** **प्र** **मिनन्ति** न केचित् प्रहिंसन्ति । न लोपयन्तीत्यर्थः । अतः कारणाद्गर्भावस्थायामेवावयोः प्रजापतिकृते दंपतित्वे सति संभोगं कुर्वित्यर्थः । अपि च **नौ** आवयोः **अस्य** इदं मातुरुदरे सहवासजनितं दंपतित्वं **पृथिवी** भूमिः **वेद** जानाति । **उत** अपि च **द्यौः** द्युलोकोऽपि जानाति ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Yami** speaks). The divine omniform genitive rator **Tvaṣṭā**, the progenitor, made us two husband andwife, even in the womb: none frustrate his undertaking; earth and heaven are conscious of this our (union).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yamī:] (Even) in the womb the Begetter made us two a married couple,  god Tvaṣṭar, the impeller who provides all forms.  
 No one transgresses his commandments. Heaven and Earth take heed of  this about us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even in the womb God Tvastar, Vivifier, shaping all forms, Creator, made us consorts.  
      None violates his holy ordinances: that we are his the heavens and earth acknowledge.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schon im Mutterleib hat uns der Schöpfer zu Ehegatten gemacht, der Gott Tvastri, der Bestimmer, der alle Formen bildet. Nicht übertreten sie seine Gebote; dessen sind uns Erde und Himmel Zeugen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Im Mutterleib schon zeugte uns zu Gatten Gott Tvaschtar, der gestaltenreiche Bildner, Und dessen Ordnung darf man nicht verletzen, dess sind uns Zeugen Himmel auch und Erde.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь еще в утробе прародитель создал нас двоими супругами,  
 Бог Тваштар, побудитель, творящий все формы.  

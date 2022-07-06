@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ या꣡ महिम्ना꣡ महि꣡नासु चे꣡किते  
 द्युम्ने꣡भिर् अन्या꣡ अप꣡साम् अप꣡स्तमा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उपस्तु꣡त्या चिकितु꣡षा स꣡रस्वती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 रथः॑ऽइव । बृ॒ह॒ती । वि॒ऽभ्वने॑ । कृ॒ता । उ॒प॒ऽस्तुत्या॑ । चि॒कि॒तुषा॑ । सर॑स्वती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -117,21 +117,21 @@ genre M
 **महिम्ना** माहात्म्येन **महिना** महती **द्युम्नेभिः** शुभैर्द्योतमानैर्यशोभिरन्नैर्वा युक्ता सती **आसु** आसां नदीनां देवतानां वा मध्ये **या** सरस्वती **प्र** **चेकिते** प्रकर्षेण ज्ञायते । या च **अन्याः** अन्यासाम् ॥ ' सुपां सुलुक्' इति षष्ठीबहुवचनस्य जस् ॥ **अपसां** वेगवतीनां नदीनां मध्ये **अपस्तमा** वेगवत्तमा । या च **रथइव** **विभ्वने** विभुत्वाय **बृहती** परिवृढा गुणैरधिका **कृता** प्रजापतिना निर्मिता सा **सरस्वती** **चिकितुषा** जानता स्तोत्रा **उपस्तुत्या** उपस्तोतव्या भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “She who is disinguished among them as eminent in greatness and in her glories; she who is the most impetuous of all other streams; she who as been created vast in capacity as a chariot, she, **Sarasvatī**, is to be glorified by the discree (worshippers)”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who by her greatness shines ever more brightly among the  great (rivers), (beyond) the others by her brilliance, the busiest of  
 the busy,  
 like a chariot lofty and fashioned for wide ranging, she is to be praised  by (every) observant one—Sarasvatī.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sequence mahínāsu is perfectly ambiguous. It can be a fem. loc. pl. of the poorly attested them. stem mahína-, as I take it in the published translation and as Oldenberg is inclined to do. Or, with Pp., Geldner, and Renou, it can be disjoined into mahínā āsu, nom. sg.
 
@@ -144,23 +144,23 @@ The construction of b, esp. of anyā́ḥ, rests on that of 9ab.
 On upastútyā see comm. ad vs. 10.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Marked out by majesty among the Mighty Ones, in glory swifter than the other rapid Streams,  
      Created vast for victory like a chariot, Sarasvati must be extolled by every sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die groß an Größe sich unter diesen Flüssen hervortut, an Glanz die andern übertrifft, die Fleißigste der Fleißigen, hoch wie ein Wagen, zur Kraftentfaltung geschaffen, ist Sarasvati von dem Kundigen zu preisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie, welche durch ihre Grösse unter den grossen Strömen sich auszeichnet, durch Regsamkeit die thätigste unter den andern thätigen; erhaben wie ein von einem geschickten Werkmeister [vibhvánā zu lesen] gemachter Wagen, Sarasvati ist zu preisen von dem kundigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та,) что выделяется величием среди великих (рек),  
 Блеском (затмевает) другие (реки), самая деятельная из деятельных,  

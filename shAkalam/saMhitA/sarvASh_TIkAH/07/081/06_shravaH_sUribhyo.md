@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्र꣡वः सूरि꣡भ्यो अमृ꣡तं वसुत्वनं꣡  
 वा꣡जाँ अस्म꣡भ्यं गो꣡मतः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 उषा꣡ उछद् अ꣡प स्रि꣡धः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 चो॒द॒यि॒त्री । म॒घोनः॑ । सू॒नृता॑ऽवती । उ॒षाः । उ॒च्छ॒त् । अप॑ । स्रिधः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
@@ -96,7 +96,7 @@ genre M;; repeated line
 हे उषः सूरिभ्यः स्तोतृभ्योऽस्मभ्यम् **अमृतं** मरणरहितं नित्यं **वसुत्वनं** वासकं वसुत्वयुक्तं वा **श्रवः** श्रवणीयं यशो रास्वेत्यनुषङ्गः । तथा **गोमतः** बहुभिर्गोभिर्युक्तान **वाजान्** अन्नानि च **अस्मभ्यं** रास्व। शिष्टः परोक्षकृतः । **मघोनः** हविष्मतो यजमानस्य **चोदयित्री** प्रेरयित्री **सूनृतावती** । प्रियसत्यात्मिका वाक्सूनृता । तद्वती **उषाः** **स्रिधः** शोषकान्छत्रून् **अप** **उच्छत्** अपगमयतु ॥ ॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,12 +107,12 @@ genre M;; repeated line
 Speaker of truth: sunṛtvatī= priyasatyātmikā vāk sunṛtā tadvatī: may also mean, possessed of kind and truthful speech, i.e.possessed of hymns, or hymned, by the pious
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Bring) fame immortal and riches for our patrons, prizes in cows for us— The impeller of the bounteous one(s), possessing a liberal spirit, Dawn  dawns away failures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 codayitrī́maghónaḥ is perfectly ambiguous, since maghónaḥ could be either gen. sg. or acc. pl. In the former case it would refer to Indra, the archetypal maghávan-, in the latter to the pl. patrons (the sūrí- referred to in pāda a). According to the standard distribution of cases, suffix-accented -tár- agent nouns should take the gen.; indeed our stem does just that in I.3.11 codayitrī́sūnṛ́tānām. However, this distribution is not absolute, and given the recent mention of the pl. patrons and the absence of Indra from this hymn (and mostly from this hymn cycle), a pl. reading is quite possible as well.
 
@@ -124,23 +124,23 @@ Note that it also recalls I.3.11 just cited.
 [VII.82-89 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give to our princes opulence and immortal fame, and strength in herds of kine to us.  
      May she who prompts the wealthy, Lady of sweet strains, may Usas dawn our foes away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Opferherren bringe sie unsterblichen Ruhm und Wohlstand, uns rinderreiche Gewinne. Die Lohnherren anspornend möge die freigebige Usas die Unfälle wegleuchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib Ruhm den Fürsten, unvergänglichen Besitz, und rinderreiche Habe uns, Du reichbegabte Treiberin der Mächtigen; das Frühroth strahle fort den Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Покровителям – бессмертную славу (и) благополучие!  
 Нам награды, состоящие из коров!  

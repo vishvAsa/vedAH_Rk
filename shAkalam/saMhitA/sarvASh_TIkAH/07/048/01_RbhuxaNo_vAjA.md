@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡भुक्षणो · वाजा माद꣡यध्वम्  
 अस्मे꣡ नरो मघवानः सुत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡भ्वो र꣡थं न꣡रियं वर्तयन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । वः॒ । अ॒र्वाचः॑ । क्रत॑वः । न । या॒ताम् । विऽभ्वः॑ । रथ॑म् । नर्य॑म् । व॒र्त॒य॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
@@ -112,7 +112,7 @@ genre M
 संप्रत्यर्थे । इदानीं **यातां** गच्छतां **वः** युष्मदीयाः **क्रतवः** कर्मणां कर्तारः **विभ्वः** विभवः समर्था अश्वाः **अर्वाचः** अर्वाञ्चोऽस्मदभिमुखाः सन्तः **नर्यं** मनुष्यहितं **रथं** युष्मदीयम् **आ** **वर्तयन्तु** आगमयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ genre M
 Ṛbhukṣaṇo **vājaḥ**, the use of the plural ral implies that the three brothers are intended
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O R̥bhukṣans, o Vājas, among us find exhilaration in our pressed soma, o  generous men.  
 Like travelers’ intentions, let them [=your horses] make you, who are  turned this way, and your manly chariot roll here, o Vibhūs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE liberal Heroes, Vajas and Rbhuksans, come and delight you with our flowing Soma.  
      May your strength, Vibhus, as ye come to meet us, turn hitherward your car that brings men profit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ribhuksan, Vaja, ihr freigebigen Herren, ergötzet euch an unserem Somasaft! Euch soll mein Geist wie die Geister der Fahrenden und euren mannhaften Wagen herwärts lenken, o Vibhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Berauschet euch, o Vadscha's und Ribhukschan's am Somasaft bei uns, o mächt'ge Männer, Es mögen euch wie auf der Fahrt die Hengste den kräft'gen Wagen her, o Ribhu's, rollen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Рибхукшаны, о Ваджи, опьяняйтесь  
 У нас, о щедрые мужи, выжатым (сомой)!  

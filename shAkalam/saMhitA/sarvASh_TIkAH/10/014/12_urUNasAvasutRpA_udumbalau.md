@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरूणसा꣡व् असुतृ꣡पा उदुम्बलउ꣡  
 यम꣡स्य दूतउ꣡ चरतो ज꣡नाँ अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नर् दाताम् अ꣡सुम् अद्ये꣡ह꣡ भद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तौ । अ॒स्मभ्य॑म् । दृ॒शये॑ । सूर्या॑य । पुनः॑ । दा॒ता॒म् । असु॑म् । अ॒द्य । इ॒ह । भ॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *urūṇasāv* ← *urūṇasau* ← *urūṇasa*
 - \[noun\], nominative, dual, masculine
@@ -124,7 +124,7 @@ popular
 **यमस्य** संबन्धिनौ **दूतौ** श्वानौ **जनाँ** **अनु** प्राणिनो लक्षीकृत्य सर्वत्र **चरतः** । कीदृशौ । **उरूणसौ** दीर्धनासिकायुक्तौ **असुतृपौ** परकीयान् प्राणान् स्वीकृत्य तैस् तृप्यन्तौ **उदुम्बलौ** उरुबलौ विस्तीर्णबलौ। **तौ** उभौ दूतौ **सूर्याय** **दृशये** सूर्यस्य दर्शनार्थम् **अद्य** दिने **इह** कर्मणि **भद्रम्** **असुं** समीचीनं प्राणं **पुनः** **अस्मभ्यं** **दाताम्** अदत्ताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,34 +135,34 @@ popular
 May they allow...the sun: or, may they now restore to us that fair life to look upon the sun (still speakingof the departed worshipper)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two broad-nosed, reddish-brown messengers of Yama, stealers of  lives, pursue the peoples.  
 Let these two here today grant a fortunate life again to us, to see  the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dark-hued, insatiate, with distended nostrils, Yama's two envoys roam among the People;  
      May they restore to us a fair existence here and to-day, that we may see the sunlight.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Broad-nosed and brown the messengers of Yama, Greedy of lives they rove among the people. May they give back to us a life propitious Here and to-day, that we may see the sunlight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die zwei breitnasigen Lebensräuber, die ..................., gehen als Yama´s Boten unter den Menschen um. Diese sollen uns heute hier das schöne Leben wiedergeben, auf daß wir die Sonne sehen können!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Jama Boten, braun, mit breiten Nasen, das Leben nehmend wandern durch die Völker; Sie mögen lang' die Sonn' uns schauen lassen, und diesem holdes Leben wieder schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два похитителя жизни, с широкими ноздрями, рыжеватые (?),  
 Два вестника Ямы, бродят они среди людей.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां र꣡थं दुहिता꣡ सू꣡रियस्य  
 का꣡र्ष्मेवातिष्ठद् अ꣡र्वता ज꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡म् उ श्रिया꣡ नासतिया सचेथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । दे॒वाः । अनु॑ । अ॒म॒न्य॒न्त॒ । हृ॒त्ऽभिः । सम् । ऊं॒ इति॑ । श्रि॒या । ना॒स॒त्या॒ । स॒चे॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 सविता स्वदुहितरं सूर्याख्यां सोमाय राज्ञे प्रदातुमैच्छत् । तां सूर्यां सर्वे देवा वरयामासुः । ते अन्योन्यमूचुः । आदित्यमवधिं कृत्वा आजिं धावाम। योऽस्माकं मध्ये उज्जेष्यति तस्येयं भविष्यतीति । तत्राश्विनावुदजयताम् । सा च सूर्या जितवतोस्तयोः रथमारुरोह। अत्र ‘प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत् ' (ऐ. ब्रा. ४. ७) इत्यादिकं ब्राह्मणम् अनुसंधेयम् । इदं चाख्यानं सूर्याविवाहस्य स्तावकेन 'सत्येनोत्तभिता भूमिः' (ऋ. सं. १०.८५, १ ) इति सूक्तेन विस्पष्टयिष्यते । हे अश्विनौ **वां** युवयोः **रथं** **कार्ष्मेव** । कार्ष्मशब्दः काष्ठवाची । यथा काष्ठम् अजिधावनस्य अवधितया निर्दिष्टं लक्ष्यम् आशुगामी कश्चित् सर्वेभ्यो धावद्भ्यः पूर्वं प्राप्नोति एवमेव सर्वेभ्यो देवेभ्यः पूर्वम् **अर्वता** शीघ्रमवधिं प्राप्नुवता युष्मदीयेनाश्वेन करणभूतेन युवाभ्यां **जयन्ती** जीयमाना **सूर्यस्य** सवितुः **दुहिता** **आ** **अतिष्ठत्** आरूढवती । **विश्वे** सर्वे इतरे **देवाः** एतत् आरोहणस्थानं **हृद्भिः** हृदयैः **अन्वमन्यन्त** अन्वजानन् । तदानीं हे नासत्यावश्विनौ **श्रिया** ऋक्सहस्रलाभरूपया संपदा कान्त्या वा युवां **सं** **सचेथे** संगच्छेथे ॥ जयन्ती । व्यत्ययेन कर्मणि शतृप्रत्ययः । हृद्भिः। ‘पद्दन्' इत्यादिना हृदयशब्दस्य हृद्भावः । सचेथे । ‘षच समवाये । स्वरितेत्त्वादात्मनेपदम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,29 +141,29 @@ genre M
 **Sūrya** was desirous of giving his daughter Sūrya to **Soma**, but all the gods desired her as a wife; they agreed that he who should first reach the sun, as a goal should wed the damsel. The **Aśvins** were victorious, and Sūrya, well plural ased by their success, rushed immediately into their chariot
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Daughter of the Sun mounted your chariot, like one winning the  finish-line with her steed.  
 All the gods approved in their hearts, and, Nāsatyas, you two keep  company with her splendor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Daughter of the Sun your car ascended, first reaching as it were the goal with coursers.  
      All Deities within their hearts assented, and ye, Nasatyas, are close linked with glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Wagen bestieg die Tochter des Surya wie eine, die mit dem Renner das Ziel gewinnt. Alle Götter stimmten von Herzen zu. Ihr Nasatya´s gesellt euch der Schönheit zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf euern Wagen stieg der Sonne Tochter, als wie des Wettlaufs Ziel zu Ross ersiegend, Die Götter alle stimmten zu von Herzen, ihr, Treue, seid gepaart mit schönem Glanze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На вашу колесницу взошла дочь солнца,  
 Словно берущая на скакуне последний барьер.  

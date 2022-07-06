@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ हो꣡तारम् मन्ये दा꣡सुवन्तं  
 व꣡सुं सूनुं꣡ स꣡हसो जात꣡वेदसं  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 आजु꣡ह्वानस्य सर्पि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 घृ॒तस्य॑ । विऽभ्रा॑ष्टिम् । अनु॑ । व॒ष्टि॒ । शो॒चिषा॑ । आ॒ऽजुह्वा॑नस्य । स॒र्पिषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -152,7 +152,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **अग्निं** सर्वासां देवसेनानामग्रण्यं यज्ञेष्वग्रं नीयमानं वा **होतारम्** अस्मद्यागं प्रति देवानामाह्वातारम् यद्वा । होमनिष्पादकं होतारम् । ‘ जुहोतेर्होतेत्यौर्णवाभः ' ( निरु. ७. १५) इति यास्कः । ‘ अग्निमद्य होतारमवृणीत ' ( तै. ब्रा. २. ६. १५. १ ) इति श्रुतेः । अग्निमग्न आवह ' ( तै. ब्रा ३. ५. ३. २) इति च अग्नेराह्वातृत्वं प्रसिद्धम् । अग्निं होतारं मन्ये । एवं प्रति विशेषणं मन्ये इति संबन्धः । यद्वा । यागनिष्पत्तेरेवापेक्षितत्वात् एतदेव विधेयविशेषणम् । इतराणि वक्ष्यमाणविशेषणानि स्तुतिपराणि । **दास्वन्तम्** अतिशयेन दानवन्तं **वसुं** सर्वेषां निवासहेतुं **सहसः** **सूनुं** बलस्य पुत्रम् । अग्निर्मन्थनकाले बलेन मथ्यमानः उत्पद्यते इति पुत्रत्वमुपचर्यते **जातवेदसं** जातानां वेदितारं जातप्रज्ञं जातबलं वा । जातवेदःशब्दो यास्केन बहुधा निरुक्तः ( निरु. ७. १९ ) । अग्नेर्जातवेदस्त्वे दृष्टान्तः । **विप्रं** **न** **जातवेदसं** जातविद्यं मेधाविनं ब्राह्मणमिव । तं यथा बहु मन्यन्ते तथा त्वामपि मन्ये स्तौमीत्यर्थः । उक्तगुणविशिष्टः **यः** **देवः** **स्वध्वरः** शोभनयज्ञवान् यज्ञं सम्यक् निर्वहन **ऊर्ध्वया** उन्नतया उत्कृष्टया **देवाच्या** देवान् पूजयन्त्या देवान् प्रत्यक्तया वा **कृपा** कृपया सामर्थ्यलक्षणया । ‘ देवान्प्रत्यक्तया कृपा ' ( निरु. ६. ८ ) इति यास्कः । तेभ्यो हविर्वहनबुद्ध्या युक्तः सन् आजुह्वानस्य आ समन्तात् हूयमानस्य **सर्पिषः**  सरणशीलस्य **घृतस्य** विलापनेन दीप्तत्याज्यस्य **विभ्राष्टिं** विशेषेण भ्राजमानम् **अनु** स्वयमपि तदाज्यं **शोचिषा** ज्वालया **वष्टि** कामयते स्वीकरोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -163,7 +163,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **Atyaṣṭi** is a stanza of four lines, and has 68 syllables. The metrical system of the **Vedas**, or **Chandas** has a graduated series of metres. **Utkṛti** has 104 syllables and descends by a diminution of four through eight classes to atyaṣṭi, the ninth, which gives it 68 syllables. In this **sūkta**, the hymns are arranged in three verses and the number fo syllables vary from 57 to 70, the average being 65 to 67
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni I consider as the Hotar, rich in gifts, the good one, son of strength,  Jātavedas—like a poet, Jātavedas—  
 who is the god of good ceremony, with his body erect and pointed  
@@ -171,34 +171,34 @@ toward the gods.
 With his flame he yearns after the blazing forth of the ghee—of the  melted butter being poured.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The patterned connections of the 8-syllable pādas to their preceding pādas are detailed in the published introduction. to this hymn group.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI I hold as herald, the munificent, the gracious, Son of Strength, who knoweth all that live, as holy Singer, knowing all,  
      Lord of fair rites, a God with form erected turning to the Gods,  
      He, when the flame hath sprung forth from the holy oil, the offered fatness, longeth for it with his glow.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I deem Agni to be the munificent Hotri, the Vasu, the Son of strength 1, Gâtavedas, like a priest, Gâtavedas 2: the best performer of the sacrifice, the god who with his upright body that is turned towards the gods, and with his flame longs for the shine of the (boiling) ghee 3, of the butter that is offered in (the fire).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni erachte ich als den Hotri, den freigebigen Gott, den Sohn der Kraft, den Jatavedas, den Gott, der mit seiner aufrechten, gottwärts gerichteten Gestalt den Gottesdienst gut versieht. Mit seiner Glut verlangt er nach dem Aufflammen des Schmalzes, der geopferten Schmelzbutter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni ehr' als gabenreichen Priester ich, den Wesenkenner als den guten Sohn der Kraft, als Sänger den, der Wesen kennt; Schön opfernd steht mit seinem Leib zu Göttern strebend hoch der Gott; Dem Glühn der Butter eilt mit seiner Glut er nach, des ausgegossnen fetten Tranks.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни я считаю хотаром, щедрым  
 Васу, сыном силы, Джатаведасом,  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡वा नो अग्न आ꣡ भर  
 स्तोतृ꣡भ्यः सुक्षिती꣡र् इ꣡षः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 ते । स्या॒म॒ । ये । आ॒नृ॒चुः । त्वाऽदू॑तासः । दमे॑ऽदमे । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *navā* ← *navāḥ* ← *nava*
 - \[noun\], accusative, plural, feminine
@@ -131,42 +131,42 @@ genre M;; repeated line
 हे **अग्ने** **स्तोतृभ्यः** **नः** अस्मभ्यं **नवाः** स्तुत्या नूत्ना वा **सुक्षितीः** सुनिवासाः सुप्रजा वा **इषः** उक्तलक्षणान्यन्नानि **आ** **भर** प्रयच्छ । **ये** वयं **दमेदमे** सर्वेषु यागगृहेषु त्वाम् **आनृचुः** अर्चयन्ति । **ते** वयं **त्वादूतासः** त्वां दूतं फलसूचकं लब्धवन्तः सन्तः **स्याम** समृद्धा भूयास्म । दमे दमे स्यामेति वा योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant, **Agni**, to us who praise you, new dwellings, and (abundant) food; may we be those who worship you having you for a messenger (to the gods) in every house; bring Agni, food to your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, bring the new ones here to us, the praise singers—(those)  refreshments and good settlements.  
 We would be those who have recited verses, those having you as our  messenger in every house.  
 – Bring refreshment for the praise singers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To us who laud thee, Agni, bring fresh food and safe and happy homes.  
      May we who have sung hymns to thee have thee for envoy in each house. Bring food to those who sing thy praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Bring fresh food with fine dwellings, O Agni, to us, thy praisers! May we be of those who have praised (thee), who have thee as their messenger, house by house. Bring food to thy praisers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring, Agni, uns Sängern neue Speisegenüsse und gute Wohnungen. Wir möchten die sein, die in jedem Haus dich gepriesen haben, indem sie dich zu ihrem Boten machten. - Bring den Sängern gute Speise!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, bringe sichern Schutz, den Sängern neue Labung her; Wir seien es, die preisend dich zum Boten haben Haus für Haus; den Sängern bringe Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам, о Агни, восхвалителям,  
 Новые прекрасные места для жилья (и) жертвенные услады.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ देवः꣡ कवि꣡नेषितो꣡  
 अभि꣡ द्रो꣡णानि धावति  
 इ꣡न्दुर् इ꣡न्द्राय मंह꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दुः॑ । इन्द्रा॑य । मं॒हना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** सोमः **देवः** **इन्दुः** क्लिद्यमानः **कविना** क्रान्तप्रज्ञेनाध्वर्युणा **इषितः** प्रेरितः सन् **द्रोणानि** द्रोणकलशान् **अभि** **धावति** अभिगच्छति । किमर्थम् । **इन्द्राय** इन्द्रार्थम् । **मंहना** महान् स इति समन्वयः ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,29 +94,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In his might: **Sāmaveda** reads mamaṃhayan for maṃhanā; interpreted as **mahān**; as an adverb, prompt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, the god impelled by the poet, runs to the wooden cups—  
 the drop with his munificence for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged onward by the sage, the God speeds forward to the casks of wood,  
      Indu to Indra willingly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Gott läuft, vom Dichter getrieben, nach den Holzgefäßen, der Saft bereitwillig für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strömt, vom Sänger ausgesandt, der Gott, zu den Gefässen hin, Zu Indra Indu voll Begier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

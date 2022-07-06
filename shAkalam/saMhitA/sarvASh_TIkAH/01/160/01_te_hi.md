@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ हि꣡ द्या꣡वापृथिवी꣡ विश्व꣡शम्भुव  
 ऋता꣡वरी र꣡जसो धारय꣡त्कवी  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवो꣡ देवी꣡ ध꣡र्मणा सू꣡रियः शु꣡चिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒जन्म॑नी॒ इति॑ सु॒ऽजन्म॑नी । धि॒षणे॒ इति॑ । अ॒न्तः । ई॒य॒ते॒ । दे॒वः । दे॒वी इति॑ । धर्म॑णा । सूर्यः॑ । शुचिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, dual, feminine
@@ -128,41 +128,41 @@ genre M
 **ते** **हि** ते खलु प्रसिद्धे **द्यावापृथिवी** **अन्तः** तयोरन्तराले **शुचिः** शुद्धो विश्वस्य शोचयिता वा **देवः** दीप्यमानः **सूर्यः** **धर्मणा** प्रकाशोदकदानादिधारणेन युक्तः सन् **ईयते** सर्वदा गच्छति ॥  ‘ ईङ् गतौ'। दैवादिकः ॥ तादृशं कर्म युवयोरनुग्रहादिति स्तुतिः । कीदृश्यौ ते। **विश्वशंभुवा** । विश्वं सुखभावयितृ ययोः ते विश्वशंभुवा । विश्वस्य सुखयित्र्यावित्यर्थः । **ऋतावरी** ऋतवत्यौ ॥ ऋतशब्दात् छन्दसीवनिपौ' इति वनिप् । वनो र च' इति ङीब्रेफौ ॥ **रजसः** उदकस्य उदकोत्पत्तौ ।  ‘ उदकं रज उच्यते ' ( निरु. ४. १९) इति निरुक्तम् । **धारयत्कवी** अकृच्छ्रेण धारकं कवि ययोस्ते तादृश्यौ । उदकोत्पादनाय अप्रयत्नवत्यौ इत्यर्थः । यद्वा । धारयस्कविर्मनीषी आदित्यो ययोस्ते तादृश्यौ । वृष्ट्युदकधारयत्सूर्योपेते इत्यर्थः। **सुजन्मनी** शोभनजन्मवत्यौ **धिषणे** धर्षणोपेते स्वव्यापारेषु प्रगल्भे इत्यर्थः। **देवी** द्योतमाने । अत्र यद्यपि धिषणे इत्येतत् ‘धिषणे रोदसी' (नि. ३. ३०. ३ ) इति तन्नामसु उक्तत्वात् द्यावापृथिवीनाम, तथापि द्यावापृथिवी इत्यस्य विद्यमानत्वात् यौगिकं द्रष्टव्यम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those two, the divine Heaven and Earth, are the diffusers of happiness on all, encouragers of truth, able to sustain the water (of the rains), auspicious of birth, and energetic (in action); in the interval between whom proceeds the pure and divine Sun for (the discharge of his) duties.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because these two, Heaven and Earth, beneficial to all, truthful, are those  who uphold the poet of the airy realm,  
 he speeds between the two Holy Places of good birth—the god, the  blazing Sun, between the two goddesses, according to his ordinance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is striking that the Sun, by most interpr., is called a poet (kaví-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE, Heaven and Earth, bestow prosperity on all, sustainers of the region, Holy Ones and wise,  
      Two Bowls of noble kind: between these Goddesses the God, the fulgent Sun, travels by fixed decree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Himmel und Erde, diese beiden allen ersprießlichen, gesetzestreuen sind es ja, die den Seher des Luftreiches tragen. Zwischen beiden Dhisana, den Göttinnen, den schöngebärenden, wandelt nach der Bestimmung der reine Sonnengott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie beide, Erd' und Himmel, bringen allen Heil, die heiligen, die Weisen hegend und den Raum, Und zwischen beiden schöngebornen Göttinnen nach fester Regel geht der lichte Sonnengott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь эти Небо и Земля – благодатные для всех,  
 Благочестивые, несущие поэта воздушного пространства.  

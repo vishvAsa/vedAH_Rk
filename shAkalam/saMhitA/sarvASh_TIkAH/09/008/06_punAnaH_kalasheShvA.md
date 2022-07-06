@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानः꣡ कल꣡शेषु आ꣡  
 व꣡स्त्राणि अरुषो꣡ ह꣡रिः  
 प꣡रि ग꣡व्यानि अव्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 परि॑ । गव्या॑नि । अ॒व्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -76,36 +76,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पुनानः** पूयमानः **कलशेषु** कुम्भेषु निषिच्यमानः **अरुषः** आरोचमानः **हरिः** हरितवर्णः सोमः **गव्यानि** दध्यादीनि **वस्त्राणि** वासांसीव **परि** **अव्यत** पर्याच्छादयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified in the pitchers, radiant and green-tinted, the **Soma** puts on the raiment derived from the cow.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified in the tubs, he, tawny and ruddy,  
 has wrapped himself in garments of cattle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When purified within the jars, Soma, brightred and golden-hued,  
      Hath clothed him with a robe of milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd hat sich der rötliche Falbe in den Krügen die Kleider der Kuhmilch angelegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt in den Schalen hat der rothe, goldne sich gehüllt In Kleidung, die der Kuh entstammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаемый в кувшинах,  
 Рыжий, золотистый (бог)  

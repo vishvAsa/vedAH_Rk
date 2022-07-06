@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्य꣡क् सम्य꣡ञ्चो महिषा꣡ अहेषत  
 सि꣡न्धोर् ऊर्मा꣡व् अ꣡धि वेना꣡ अवीविपन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रिया꣡म् इ꣡न्द्रस्य तनु꣡वम् अवीवृधन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मधोः॑ । धारा॑भिः । ज॒नय॑न्तः । अ॒र्कम् । इत् । प्रि॒याम् । इन्द्र॑स्य । त॒न्व॑म् । अ॒वी॒वृ॒ध॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samyak*
 - \[adverb\]
@@ -118,21 +118,21 @@ genre M
 **महिषाः** पूज्या महान्तो वर्त्विजः **सम्यञ्चः** परस्परं संगताः सन्तः **सम्यक्** **अहेषत** सोमं सम्यक् प्रेरयन्ति अभिषुण्वन्तीति यावत् ।' हि गतौ वृद्धौ च ' । लुङि सिचि रूपम् । ततः **वेनाः** । ‘ वेनतेः कान्तिकर्मणः ' (निरु. १०, ३८ ) इति यास्कः । स्वर्गादिफलं कामयमाना ऋत्विजः **सिन्धोः** स्यन्दमानस्योदकस्य **ऊर्मौ** **अधि** संघे वसतीवर्यादिषु जलेषु सोमम् **अवीविपन्** कम्पयन्ति । तत्र प्रेरयन्तीत्यर्थः । वपतेर्ण्यन्तस्य लुङि चङि ' णौ चङ्युपधाया ह्रस्वः' इति ह्रस्वः । किंच **अर्कम्** अर्चनीयं स्तोत्रं **जनयन्तः** कुर्वन्तस्ते **प्रियां** प्रियतमाम् **इन्द्रस्य** **तन्वं** धाम च **मधोः** मदकरस्य सोमस्य **धाराभिः** अवीवृधन् वर्धितवन्तः । वर्धतेर्लुङि चङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mighty (priests) assembled together send forth (the **Soma**) together; desirous (of heaven) they drive it to the wave of the river; genitive rating praise they nourish the previous body of **Indra** with the streams of the exhilarating Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Altogether joined together, the buffaloes have been propelled [/have  propelled (him)]. The seekers have set (him/speech) atremble in the  
 swell of the river.  
 Giving birth to the chant with the streams of honey, they have made  Indra’s own dear body grow strong.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Geldner (n. 2a) points out aheṣata can be either transitive (‘have propelled [soma]’) or intransitive/passive (‘have surged / been propelled’); both usages are paralleled in IX - see the passages cited by Geldner Moreover, as he also points out (and see again his cited passages), mahiṣá- ‘buffalo’ can refer either to soma or to the priests. Thus, to spell out the two senses: “the buffalos [=soma streams] have been propelled / the buffalos [=priests] have propelled (the soma).” The choice of both a noun subject and a verb form that allow double interpr. is unlikely to be accidental, esp. in this hymn of floating reference.
 
@@ -163,23 +163,23 @@ The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The strong Steers, gathering, have duly stirred themselves,and over the stream's wave the friends sent forth the song.  
      Engendering the hymn, with flowing streams of meath, Indra's dear body have they caused to wax in strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Büffel haben ihn insgesamt vereint zur Eile getrieben; auf der Welle des Stromes haben ihn die Seher beredt gemacht. Durch die Ströme der Süßigkeit seinen Lobgesang hervorbringend haben sie Indra´s lieben Leib gestärkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gemeinsam eilten jetzt die Büffel hin zum Ziel und tanzten liebreich auf des Stromes Welle hin, Erzeugend durch des Methes Strömen Lobgesang erquickten sie den lieben Leib des Indra schon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Устремленные вместе буйволы совместно торопили (его течь).  
 На волне реки прозорливцы сделали (его) вдохновенным.  

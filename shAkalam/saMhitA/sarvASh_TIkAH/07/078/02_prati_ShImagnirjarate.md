@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति षीम् अग्नि꣡र् जरते स꣡मिद्धः  
 प्र꣡ति वि꣡प्रासो मति꣡भिर् गृण꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा त꣡मांसि दुरिता꣡प देवी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उ॒षाः । या॒ति॒ । ज्योति॑षा । बाध॑माना । विश्वा॑ । तमां॑सि । दुः॒ऽइ॒ता । अप॑ । दे॒वी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -119,41 +119,41 @@ genre M
 **अग्निः** **समिद्धः** सन् **सीं** सर्वतः **प्रति** **जरते** अभिवर्धते । **विप्रासः** विप्रा मेधाविन ऋत्विजश्च **मतिभिः** स्तुतिभिरुषसं **गृणन्तः** स्तुवन्तो जरन्ते । **उषाः** च **देवी** **ज्योतिषा** **विश्वा** सर्वाणि **तमांसि** **दुरिता** अस्मद्दुरितानि **अप** **बाधमाना** **याति** ऊर्ध्वं गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kindled fire increases everywhere, (and) the priests, glorifying (the dawn) with hymns; the divineUṣas comes, driving away all the evil glooms by her lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In response to her the kindled fire awakens; in response (to her awaken)  the inspired poets hymning (her) with their thoughts.  
 The goddess Dawn travels, while pressing away all shades of darkness, all  difficulties with her light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The lexeme ápa √bādh appears, as often, in tmesis. This tmesis appears to be regular even when the lexeme appears, as here, in the participle (univerbated as apabā́dhamāna- only in the late X.103.4; in tmesis I.35.3, 90.3, V.80.5, IX.97.43 as well as here). But in our passage ápa is oddly positioned for a preverb in tmesis (which may account for Grassmann’s failure to register the preverb, as also in V.80.5): immediately following the object and not adjacent to a metrical boundary, … bā́dhamānā, víśvā támāṃsi duritā́pa devī́. Although this aberrant position might suggest that ápa is not a preverb here but a postposition or adverb, this would require separating the expression from the well-attested verbal lexeme, which I prefer not to do. I should however note that in vs. 1b bā́dhamānā támāṃsi is found without ápa.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fire well-kindIed sings aloud to greet her, and with their hymns the priests are chaming welcome.  
      Usas approaches in her splendour, driving all evil darkness far away, the Goddess.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Heran wacht sie das entzündete Feuer, heran die Sänger, die in Gedichten das Lob verkünden. Die Göttin Usas kommt, mit dem Lichte alle Finsternis und Fährlichkeit verbannend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entgegen rauscht ihr das entflammte Feuer, die Sänger auch, sie grüssend mit Gebeten; Die Morgenröthe kommt mit ihrem Lichte, die Göttin, scheuchend alles Leid und Dunkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Навстречу ей пробуждается зажженный огонь,  
 Навстречу (ей) – поэты, воспевающие (ее) в произведениях.  

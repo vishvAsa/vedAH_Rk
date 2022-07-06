@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् अस्मि महामहो꣡  
 अभिनभ्य꣡म् उ꣡दीषितः  
 कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -80,36 +80,36 @@ popular;; repeated line
 **अभिनभ्यं** नाभौ मध्यस्थाने भवं नभ्यमन्तरिक्षम्। 'उगवादिभ्यो यत् ' (पा. सू. ५. १. ३) इति यत्प्रत्ययः । तत्रैव पाठान्नभादेशश्च । ' लक्षणेनाभिप्रती आभिमुख्ये ' ( पा. सू. २. १. १४) इत्यव्ययीभावः । समासस्वरः । अन्तरिक्षमभि **उदीषितः** उद्गतः सूर्यात्मा **अहं** **महामहः** **अस्मि** । महतामपि महानस्मि । यद्वा । महत् प्रभूतं महस्तेजो यस्य । प्रभूततेजस्कोऽस्मि ॥  ‘ आन्महतः । (पा. सू. ६. ३. ४६ ) इत्यात्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am (the sun), the greatest of the great, raised to the firmament, for I have often drunk of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here I am—greater than great, sped upward to the clouds.  
 – Have I drunk of the soma? Yes!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1, greatest of the Mighty Ones, am lifted to the firmament:  
      Have I not drunk of Soma juice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin großmächtig, bin zu den Wolken erhöht. - Ich merke, daß ich Soma getrunken habe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sehr gross bin ich und habe mich zur Wolkenhöh' emporgestreckt Hat mich der Soma denn berauscht?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я великий-великий,  
 Я поднялся до туч –  

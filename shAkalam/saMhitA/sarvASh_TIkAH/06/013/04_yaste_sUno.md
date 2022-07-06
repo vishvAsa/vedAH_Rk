@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते सूनो सहसो गीर्भि꣡र् उक्थइ꣡र्  
 यज्ञइ꣡र् म꣡र्तो नि꣡शितिं वेदिया꣡नट्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धत्ते꣡ धानि꣡यम् प꣡त्यते वसव्यइः᳡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्व॑म् । सः । दे॒व॒ । प्रति॑ । वार॑म् । अ॒ग्ने॒ । ध॒त्ते । धा॒न्य॑म् । पत्य॑ते । व॒स॒व्यैः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -131,43 +131,43 @@ genre M
 हे **सहसः** **सूनो** बलस्य पुत्राग्ने **ते** तव **निशितिं** तैक्ष्ण्यं **यः** **मर्तः** मनुष्यो यजमानः **गीर्भिः** स्तुतिभिः **उक्थैः** शस्त्रैः **यज्ञैः** यजनसाधनैर्हविर्भिश्च **वेद्या** वेद्यां यज्ञभूमौ **आनट्** प्रापयति **सः** मर्तो हे **देव** द्योतमान **अग्ने** **विश्वं** सर्वम् **अरं** पर्याप्तम् । वाशब्दश्चार्थे । **धान्यं** च **प्रति** **धत्ते** प्रतिधारयति । **वसव्यैः** वसुभिश्च **पत्यते** संगच्छते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mortal who by praise, by prayers, by sacrifices, attracts, son of strength, your heightened (radiance) to the altar, enjoys all-sufficiency and corn, and abounds in wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who has achieved the “whetting” of you, o son of strength,  through hymns and solemn pronouncements, through sacrifices and  the altar,  
 he acquires all wealth, according to his wish, o god Agni. He shows  mastery through his goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hero whom Agni bestows here is the concrete realization of the help (ávas-) sought in vss. 1 and 3.
 
 The standard interpr. (though not Grassmann) construe śávasaḥ with bhiyā́“with fear of his vast power.” This is certainly possible, but a construction with saṃcákṣi seems equally possible and the adjacency of the two words (though across a pāda boundary) very weakly supports my interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man who, Son of Strength one with sacrifices, hymns, lauds, attracts thy fervour to the altar,  
      Enjoys each precious thing, O God, O Agni, gains wealth of corn and is the lord of treasures.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche, o Sohn der Kraft, es erreicht, mit Lobreden, mit Liedern, mit Gebeten, mit Vorbedacht dich anzufachen, der erntet nach Wunsch alles Getreide und besitzt Schätze, Gott Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Mann, der selber dein Entzünden wirkte, o Sohn der Kraft, mit Liedern, Sprüchen, Opfern, Empfängt, o Gott, die Schätze all', o Agni, Getreidevorrath und ist reich an Gütern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) смертный, о сын силы, который сумел с помощью песен,  
 Гимнов, жертв, со знанием тебя зажечь,  

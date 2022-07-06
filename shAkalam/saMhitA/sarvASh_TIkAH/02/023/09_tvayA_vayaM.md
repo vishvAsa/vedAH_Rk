@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या वयं꣡ सुवृ꣡धा ब्रह्मणस् पते  
 स्पार्हा꣡ व꣡सु मनुषिया꣡ ददीमहि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ स꣡न्ति जम्भ꣡या ता꣡ अनप्न꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 याः । नः॒ । दू॒रे । त॒ळितः॑ । याः । अरा॑तयः । अ॒भि । सन्ति॑ । ज॒म्भय॑ । ताः । अ॒न॒प्नसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -125,36 +125,36 @@ genre M
 हेब्रह्मणस्पते सुवृधासुष्ठुवर्धयित्रा त्वयाहेतुनावयं स्पार्हास्पृहणीयानिवसुधनानिमनुष्या सुपांसु लुगितिचतुर्थीबहुवचनस्याकारः मनुष्येभ्योदातृभ्यः आददीमहि गृह्णीमहि आङोदोनास्यविहरणे इत्यात्मनेपदम् दूरेदूरदेशेयाअरातयः याश्चतळितोन्तिकेअरातयः नोस्मानभिसन्ति अभिभवन्ति अनप्रसः कर्महीनान् ताः अरातीः तान् शत्रून् जम्भय नाशय जभिनाशनेचुरादिः अत्रनिरुक्तम्—त्व यावयंसुवर्धयित्राब्रह्मणस्पतेस्पृहणीयानिवसूनिमनुष्येभ्यआददीमहियाश्चनोदूरेतळितोयाश्चान्ति केरातयोदानकर्माणोवादानप्रज्ञावाजम्भयताअनप्रसोप्रइतिरूपनामेति ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Through you, **Brahmaṇaspati**, (our) benefactor, may we obtain desirable wealth from men destroy those (our) unrighteous enemies, whether nigh or far off, who prevail against us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Through you growing very strong, o lord of the sacred formulation,  we would receive the eagerly sought goods belonging to the sons  of Manu.  
 The hostilities that loom over us from afar or hard by—snap at these,  (now) profitless.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through thee, kind -prosperer, O Brahmanaspati, may we obtain the wealth of Men which all desire:  
      And all our enemies, who near or far away prevail against us, crush, and leave them destitute.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch dich, den Wohlgedeihlichen, möchten wir die begehrten menschlichen Güter empfangen, o Brahmanaspati. Die Mißgunst, die in der Ferne, die in der Nähe uns bedroht, die lohnverweigernde ersticke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deinen Beistand, o Gebets Herr, mögen wir empfahn der Menschen Güter, die begehrungswerth, Die Bösen, die uns widerstreben fern und nah, zermalme du, dass ihnen bleibe kein Besitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С помощью тебя, прекрасно подкрепляющего, о Брахманаспати,  
 Да получим мы желанные блага человеческие!  

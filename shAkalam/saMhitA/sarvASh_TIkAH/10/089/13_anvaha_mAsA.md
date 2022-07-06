@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡न्व् अ꣡ह मा꣡सा अ꣡नु इ꣡द् व꣡नानि  
 अ꣡नु ओ꣡षधीर् अ꣡नु प꣡र्वतासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡न्व् आ꣡पो अजिहत जा꣡यमानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अनु॑ । इन्द्र॑म् । रोद॑सी॒ इति॑ । वा॒व॒शा॒ने इति॑ । अनु॑ । आपः॑ । अ॒जि॒ह॒त॒ । जाय॑मानम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anv* ← *anu*
 - \[adverb\]
@@ -117,36 +117,36 @@ genre M
 **जायमानं** प्रादुर्भवन्तम् **इन्द्रं** **मासाः** चैत्रादयः **अनु** **अजिहत** अनुगच्छन्ति । **अह** इति पूरणः । **वनानि** अरण्यान्यपीन्द्रम् **अनु** अजिहत । **इत्** इति पूरणः । **ओषधीः** ओषध्योऽपि इन्द्रम् **अनु** गच्छन्ति । **पर्वतासः** पर्वता अपीन्द्रम् **अनु** गच्छन्ति। **वावशाने** कामयमाने **रोदसी** द्यावापृथिव्यावपि **इन्द्रम्** अनु गच्छतः । **आपः** उदकान्यपीन्द्रम् **अनु** गच्छन्ति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवन्तमिन्द्रमनुगच्छन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The months attend upon **Indra** as soon as born, the forests attend upon him, the plural nts, themountains, the affectionate heaven and earth, and the waters (attend upon) him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The months gave way to (him), the trees gave way, the plants gave way,  the mountains gave way;  
 the two world-halves eagerly gave way to Indra; the waters gave way to  him as he was being born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, verily, the moons, the mountains followed, the tall trees followed and the plants and herbage.  
      Yearning with love both Worlds approached, the Waters waited on Indra when he first had being.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es ordneten sich die Tage, die Monate, es ordneten sich die Bäume, die Pflanzen, die Berge und willig die beiden Welthälften, die Gewässer dem Indra unter, als er geboren wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, Dem Indra Erd' und Himmel, gern sich fügend, die Wasser ihm, sobald er ward geboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ему,) в самом деле, под(чинились) месяцы, под(чинились) и леса,  
 Под(чинились) растения, под(чинились) горы,  

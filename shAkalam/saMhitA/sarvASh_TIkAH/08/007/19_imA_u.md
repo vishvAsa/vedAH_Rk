@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ वः सुदानवो  
 घृतं꣡ न꣡ पिप्यु꣡षीर् इ꣡षः  
 व꣡र्धान् काण्व꣡स्य म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वर्धा॑न् । का॒ण्वस्य॑ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -83,46 +83,46 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सुदानवः** शोभनदाना मरुतः **घृतं** **न** घृतमिव **पिप्युषीः** वर्धयित्र्यः शरीरपुष्टिहेतुभूताः **इमाः** इदानीं प्रदीयमानाः **इषः** अन्नानि सोमलक्षणानि **काण्वस्य** कण्वगोत्रस्य मम संबन्धिभिः **मन्मभिः** स्तोत्रैः सार्धं **वः** युष्मान् **वर्धान्** वर्धयन्तु ॥ वृधेर्ण्यन्तात् लेटि रूपमेतत् । **उ** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Munificent (**Maruts**), may these (sacrificial) viands, nutritious as butter, together with the praises of thedescendant of **Kaṇva**, afford you augmentation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of good drops, these refreshments here swelling like ghee  
 will strengthen you, along with the prayers of the descendant of Kaṇva.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pipyúṣīr íṣaḥ echoes pipyúṣim íṣam in 3c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these our viands Bounteous Ones I that flow in streams like holy oil,  
      With Kanva's hymns, increase your might.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Like butter swelling, may these draughts, Accompanied by Kāṇva's hymns. Increase your strength, ye bounteous ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Labsale, die wie Schmalz quillen, sollen euch, ihr Gabenschöne stärken, für welche das Barhis herumgelegt ist? Welcher Hohepriester ehrt euch?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Tränke hier, wie Butter fett, o gabenreiche, mögen nun Mit Kānva's Liedern euch erfreun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ваши, (о боги) с прекрасными дарами,  
 Подкрепления, набухшие, словно жир,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एना꣡ वि꣡श्वानि अर्य꣡ आ꣡  
 द्युम्ना꣡नि मा꣡नुषाणा᳐म्  
 सि꣡षासन्तो वनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सिसा॑सन्तः । व॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *enā* ← *enad*
 - \[noun\], accusative, plural, neuter
@@ -71,7 +71,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **एना** एनेनानेन सोमेन **मानुषाणां** मनुष्याणां विश्वा **विश्वानि** **द्युम्नानि** अन्नानि **आ** **अर्यः** अभिगच्छन्तः **सिषासन्तः** संभक्तुमिच्छन्तश्च वयं **वनामहे** संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,12 +84,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **Aryaḥ** = **somaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking to gain all the brilliant things of humans from the stranger, with it we shall win them.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ It is difficult to discern any particular unity in this tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Striving to win, with him we gain all wealth from the ungodly man,  
      Yea, all the glories of mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch ihn sind wir siegreich, die wir alle Herrlichkeiten den Menschen, auch des hohen Herrn, zu gewinnen suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier wünschen wir ergebene der Menschen Güter alle uns, Sie zu erlangen streben wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С его помощью мы хотим получить  
 Все великолепие у чужого, у людей (вообще),  

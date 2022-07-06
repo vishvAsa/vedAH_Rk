@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ हो꣡ता꣡सीत् प्रथमो꣡ देव꣡जुष्टो  
 यं꣡ समा꣡ञ्जन्न् आ꣡जियेना वृणानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छ्वात्र꣡म् अग्नि꣡र् अकृणोज् जात꣡वेदाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । प॒त॒त्रि । इ॒त्व॒रम् । स्थाः । जग॑त् । यत् । श्वा॒त्रम् । अ॒ग्निः । अ॒कृ॒णो॒त् । जा॒तऽवे॑दाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ popular
 **यः** वैश्वानरोऽग्निः **देवजुष्टः** देवैः सेवितः **प्रथमः** मुख्यः **होता** **आसीत्** अभूत् **यं** च वैश्वानराग्निं यजमानाः **वृणानाः** **आज्येन** **समाञ्जन्** समञ्जन्ति **जातवेदाः** जातप्रज्ञो जातधनो वा **सः** वैश्वानरः **अग्निः** **पतत्रि** पतनशीलं पक्षिजातम् **इत्वरं** गमनशीलं सरीसृपादिकं **स्थाः** स्थावरं वृक्षादिरूपं च **जगत्** । स्थावर जङ्गमं च जगदित्यर्थः। **श्वात्रं** क्षिप्रमेव **अकृणोत्** अजनयत् । तथा च यास्कः-’ स पतत्रि चेत्वरं स्थावरं जङ्गमं च यत्तत्क्षिप्रमग्निरकरोज्जातवेदाः ' (निरु.५.३ )इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,29 +149,29 @@ popular
 **Nirukta** 5.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who was the first Hotar, delightful to the gods, whom they anointed  with melted butter upon choosing him (as priest),  
 he made what flies and what goes (on foot), the still and the moving, to  wax strong—Agni Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Earliest Priest whom all the Gods accepted, and chose him, and anointed him with butter,  
      He swiftly made all things that fly, stand, travel, all that hath motion, Agni Jatavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der erste gottgenehme Hotri war, den sie erwählend mit Schmalz salbten. Er hat das Fliegende und das Gehende, was steht und lebt, gedeihlich gemacht, der Agni Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der erste Priester er, der Gott-erwünschte, den liebend man mit Opferschmalz besalbte, Was fliegt, was geht, was steht, was sich beweget, macht' dienstbar sich der Wesenkenner Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто был первым хотаром, угодным богам,  
 Кого они помазали жертвенным маслом, выбирая (его),  

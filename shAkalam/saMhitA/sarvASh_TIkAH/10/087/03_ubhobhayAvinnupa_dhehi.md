@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभो꣡भयाविन्न् उ꣡प धेहि दं꣡ष्ट्रा  
 हिंस्रः꣡ शि꣡शानो अ꣡वरम् प꣡रं च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡म्भैः सं꣡ धेहि अभि꣡ यातुधा꣡नान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒त । अ॒न्तरि॑क्षे । परि॑ । या॒हि॒ । रा॒ज॒न् । जम्भैः॑ । सम् । धे॒हि॒ । अ॒भि । या॒तु॒ऽधाना॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhobhayāvinn* ← *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
@@ -125,36 +125,36 @@ popular
 हे **उभयाविन्** उभाभ्यां दंष्ट्राभ्यां युक्ताग्ने त्वं **हिंस्रः** राक्षसानां हिंसकस्त्वं **उभा** उभे **दंष्ट्रा** दंष्ट्रे **शिशानः** तीक्ष्णीकुर्वन् **उप** **धेहि** वधार्हेषु राक्षसेषु प्रतिष्ठापय । किंच **अवरं** **परं** **च** जगत् रक्ष । **उत** अपि च हे **राजन्** दीप्ताग्ने त्वम् **अन्तरिक्षे** स्थितान् राक्षसान् **परि** **याहि** परिगच्छ । परिगत्य च तान् **यातुधानान्** राक्षसान **जम्भैः** भक्षणसाधनभूताभिः दंष्ट्राभिः **अभि** **सं** **धेहि** संयोजय । भक्षयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the destroyer (of the **rākṣasas**), who have two (rows of teeth), sharpening them both, applythem to (the rākṣasas, and preserve) both the upper and the lower (world); and march, radiant (Agni, againstthe rākṣasas) in the firmament, seize the **yātudhānas** with your jaws.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who have (teeth) in both, bring both jaws close together, the upper  and the lower, as you sharpen (them), with murderous intent.  
 Encircle (them) in the midspace, o king, and set upon the sorcerers  altogether with your fangs.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Apply thy teeth, the upper and the lower, thou who hast both, enkindled and destroying.  
      Roam also in the air, O King, around us, and with thy jaws assail the wicked spirits.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beide Hauer, du Doppelzahniger, schlag ein als Raubtier, den unteren und den oberen schärfend! Und fahre in der Luft herum, o König; mit deinen Fangzähnen schnappe nach den Zauberern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Leg an die obern und die untern Zähne, versehn mit beiden, angefacht, verwundend, Und fahr umher, o König, in den Lüften, mit dem Gebiss ergreif die Zaubergeister.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Оба клыка пускай в ход, о (ты,) наделенный обоими,  
 Хищник, заостряющий нижний и верхний (клык)!  

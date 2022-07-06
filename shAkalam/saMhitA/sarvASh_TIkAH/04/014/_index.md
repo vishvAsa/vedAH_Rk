@@ -8,7 +8,7 @@ title = "+014"
 ‘ प्रत्यग्निरुषसः' इति पञ्चर्चं चतुर्थं सूक्तं वामदेवस्यार्षं त्रैष्टुभमाग्नेयं मान्त्रवर्णिकदैवतं वा । तथा चानुक्रान्तं - ' प्रत्यग्निः' इति । लिङ्गोकदैवतं तु ' इति तुशब्दादस्यापि सूक्तस्य लिङ्गोक्तदैवतत्वम् । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 14 (310)  
 Agni  
@@ -19,7 +19,7 @@ The other two verses (3–4) deviate somewhat. In IV.13 these were devoted to th
 These paired hymns give us valuable insight into the R̥gvedic poets’ composi tional techniques, showing how the poets could produce variety even from a tem plate of fairly specific themes (here vss. 1–2), and where the template allowed more  freedom in developing those themes (here vss. 3–4).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni or various divinities
 

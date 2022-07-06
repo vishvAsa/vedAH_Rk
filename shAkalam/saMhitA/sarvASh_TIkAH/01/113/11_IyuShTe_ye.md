@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईयु꣡ष् टे꣡ ये꣡ पू꣡र्वतराम् अ꣡पश्यन्  
 विउछ꣡न्तीम् उष꣡सम् म꣡र्तियासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ओ꣡ ते꣡ यन्ति ये꣡ अपरी꣡षु प꣡श्यान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माभिः॑ । ऊं॒ इति॑ । नु । प्र॒ति॒ऽचक्ष्या॑ । अ॒भू॒त् । ओ इति॑ । ते । य॒न्ति॒ । ये । अ॒प॒रीषु॑ । पश्या॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īyuṣ* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
@@ -128,19 +128,19 @@ genre M
 **ये** **मर्त्यासः** मरणधर्माणो मनुष्याः **व्युच्छन्तीं** विवासयन्तीं **पूर्वतराम्** अतिशयेन पूर्वां विप्रकृष्टाम् **उषसम्** **अपश्यन्** दृष्टवन्तः **ते** मनुष्याः **ईयुः** गताः। तथा **अस्माभिः** अपि **नु** इदानीं **प्रतिचक्ष्या** प्रकर्षेण द्रष्टव्या **अभूत्** जाता । तथा **अपरीषु** भाविनीषु रात्रिषु **ये** मनुष्याः एतामुषसं **पश्यान्** पश्यन्ति **ते** । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव **यन्ति** आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः ॥ ईयुः ।  ‘ इण् गतौ '। लिटि उसि इणो यण्' इति यणादेशः ।  ‘ द्विर्वचनेऽचि' इति तस्य स्थानिवद्भावात् द्विर्भावे' दीर्घ इणः किति' (पा. सू. . ७. ४. ६९ ) इति अभ्यासस्य दीर्घत्वम् । ते ।  ‘ युष्मत्तत्ततक्षुःष्वन्तःपादम्' इति सकारस्य षत्वं ष्टुत्वं च । मर्त्यासः ।  ‘ आज्जसेरसुक्' ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those mortals who beheld the pristine Uṣās dawning have passed away; to us she is now visible, and they approach who may behold her in after times.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
 
@@ -155,28 +155,28 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gone are the men who in the days before us looked on the rising of the earlier Morning.  
      We, we the living, now behold her brightness and they come nigh who shall hereafter see her.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Gone are those mortals who in former ages Beheld the flushing of the early morning; We living men now look upon her shining: Those will be born who shall hereafter see her.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetzt hat sie sich von uns beschauen lassen; es kommen die, welche sie in Zukunft sehen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher strahlte; Jetzt hat sie sich von uns erblicken lassen, es kommen noch, die sie in Zukunft schauen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ушли те смертные, что видели,  
 Как зажигается более древняя Ушас.  

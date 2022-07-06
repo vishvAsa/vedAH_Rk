@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि दिव्या꣡नि म꣡र्मृशद्  
 वि꣡श्वानि सोम पा꣡र्थिवा  
 व꣡सूनि याहि अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वसू॑नि । या॒हि॒ । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -76,37 +76,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **दिव्यानि** पार्थिवानि च **विश्वानि** सर्वाणि **वसूनि** धनानि **परि** **मर्मृशत्** परिमृशन् परिगृह्णन् **अस्मयुः** अस्मान् कामयमानः **याहि** आगच्छ। एवमभिषुण्वन् रसं संबोध्य ब्रूते ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who hols all the treasures of heaven and earth, come favourably disposed to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ever embracing all good things, heavenly and earthly, o Soma,  
 seeking us, make your journey.  
 1250 IX.15–16
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Comprising all the treasures that are in the heavens and on the earth,  
      Come, Soma, as our faithful Friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle himmlischen und irdischen Schätze hole ein, sie erfassend, o Soma, uns zugetan!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umfassend alles Himmelsgut und, Soma, alles irdische, Uns Huld erweisend komme her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мощно охватывая все  
 Блага, небесные (и) земные,  

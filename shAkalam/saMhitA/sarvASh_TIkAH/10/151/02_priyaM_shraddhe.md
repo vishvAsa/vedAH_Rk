@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रियं꣡ श्रद्धे द꣡दतः  
 प्रियं꣡ श्रद्धे दि꣡दासतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इद꣡म् म उदितं꣡ कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 प्रि॒यम् । भो॒जेषु॑ । यज्व॑ऽसु । इ॒दम् । मे॒ । उ॒दि॒तम् । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (292)
 हे **श्रद्धे** **ददतः** चरुपुरोडाशादीनि प्रयच्छतो यजमानस्य **प्रियम्** अभीष्टफलं कुरु । **दिदासतः** दातुमिच्छतश्च हे **श्रद्धे** **प्रियं** कुरु । **मे** मम संबन्धिषु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** कृतयज्ञेषु जनेषु च **इदम्** **उदितम्** उक्तं **प्रियं** **कृधि** कुरु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O Śraddhā\_, grant the desire of the donor (of the oblation), grant, O **Śraddhā**, the desire of himwho wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Trust, this (speech) spoken by me: make it dear to him who gives, dear  to him who intends to give,  
 and dear among the benefactors who offer sacrifice, o Trust.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bless thou the man who gives, O Faith; Faith, bless the man who fain would give.  
      Bless thou the liberal worshippers: bless thou the word that I have said.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Glaube! Mache diese meine Rede dem Schenkenden lieb, o Glaube, dem zu schenken Gewillten lieb, den gastfreien Opferern lieb!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb es bei den gütigen, o Glaube, bei den Opferern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приятным, о Вера, для дающего,  
 Приятным, о Вера, для желающего дать,  

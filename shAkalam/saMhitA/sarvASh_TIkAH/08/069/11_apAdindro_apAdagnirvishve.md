@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पाद् इ꣡न्द्रो अ꣡पाद् अग्नि꣡र्  
 वि꣡श्वे देवा꣡ अमत्सत  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वत्सं꣡ संशि꣡श्वरीर् इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 वरु॑णः । इत् । इ॒ह । क्ष॒य॒त् । तम् । आपः॑ । अ॒भि । अ॒नू॒ष॒त॒ । व॒त्सम् । सं॒शिश्व॑रीःऽइव ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apād* ← *apāt* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
@@ -123,7 +123,7 @@ genre M
 **इन्द्रः** **अपात्** अपिबत् सोमम् । **अग्निः** अप्यपिबत् । **विश्वे** **देवाः** अपि **अमत्सत** तृप्ता अभवन् सोमपानेन । **वरुण** **इत्** वरुणोऽपि **इह** अस्मिन् यागगृहे **क्षयत्** निवसतु सोमपानार्थम् । निवसन्तं **तम्** **आपः** अपि **अभ्यनूषत** । उदकान्यापनशीला स्तुतयो वाभ्यष्टुवन् । किमिव । **वत्सं** स्वीयं संशिश्वरीः संशिश्वर्यः संगच्छमाना गावः **इव** । ता यथा धावन्त्यो हम्भारवं कुर्वन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,30 +134,30 @@ genre M
 The waters: **apaḥ** = hymns, āpanaśīlaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra has drunk; Agni has drunk. All the gods have become  
 exhilarated.  
 Varuṇa will settle here, too. The waters have bellowed out to him, as  (cows) that share their young do to their calf.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra hath drunk, Agni hath drunk. all Deities have drunk their fill.  
      Here Varuna shall have his home, to whom the floods have sung aloud as motherkine unto their calves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra hat getrunken, Agni hat getrunken, alle Götter haben sich berauscht. Varuna möge hier weilen. Ihm haben die Gewässer zugebrüllt wie die Kühe, die ein Junges zusammen haben, dem Kalbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Getrunken hat Indra, getrunken Agni, alle Götter haben sich berauscht; Varuna, er weile hier, ihm rauschten jetzt die Gesänge zu, so wie dem Kalbe die Kühe, die es gemeinsam nähren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡भ्यो हो꣡त्राम् प्रथमा꣡म् आयेजे꣡ म꣡नुः  
 स꣡मिद्धाग्निर् म꣡नसा सप्त꣡ हो꣡तृभिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुगा꣡ नः कर्त सुप꣡था सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ते । आ॒दि॒त्याः॒ । अभ॑यम् । शर्म॑ । य॒च्छ॒त॒ । सु॒ऽगा । नः॒ । क॒र्त॒ । सु॒ऽपथा॑ । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yebhyo* ← *yebhyaḥ* ← *yad*
 - \[noun\], dative, plural, masculine
@@ -149,36 +149,36 @@ genre M
 **समिद्धाग्निः** हविर्भिः सम्यग्दीप्ताग्निः **मनुः** वैवस्वतो मनुष्याणां प्रथमभावी श्रद्धधानेन **मनसा** **सप्त** सप्तसंख्याकैः **होतृभिः** वषट्कर्तृभिर्ऋत्विग्भिश्च सह **येभ्यः** युष्मभ्यं **प्रथमां** प्रथमं मुख्यं यद्वा सर्वेषां मनुष्याणामग्रे क्रियमाणत्वादाद्यं **होत्राम्** । हूयन्ते हवींष्यत्रेति होत्रा यज्ञः । तम् । यद्वा । आहूयन्ते देवाः स्तुतिभिरत्रेति । तं यज्ञम् **आयेजे** आभिमुख्येनेष्टवान् । यजेर्लिटि रूपम् । यद्वा । लटि लोपस्त आत्मनेपदेषु ' इति तलोपः।  ‘ यजिवप्योरलिट्येत्वं वक्तव्यम्। (का. ६, ४, १२०. ४ ) इति वचनादेकारः । हे **आदित्याः** अदितेः पुत्रा हे देवा: **ते** यूयं नोऽस्मभ्यम् **अभयं** **शर्म** च सुखं प्रयच्छत् । किंच **नः** अस्माकं **स्वस्तये** क्षेमाय **सुपथा** सुपथानि शोभनान् वैदिकमार्गान् **सुगा** सुष्ठु गन्तव्यान् **कर्त** कुरुत । करोतेर्लोटि ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । तबादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, to whom, **Manu**, having kindled the fire, offered the first sacrifice with (reverent) mind,(aided) by the seven ministrant priests, do you bestow upon us prosperity, free from peril; provide for us plural asantpaths easy to travel for our well-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You for whom Manu, with his fire kindled by mind, along with the  seven Hotars, first attracted Hotrā (Libation) with sacrifice,  
 you Ādityas, hold out fearlessness as shelter. Make easy passages, easy  pathways for us—for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye to whom Manu, by seven priests, with kindled fire, offered the first oblation with his heart and soul,  
      Vouchsafe us, ye Adityas, sheitcr free from fear, and make us good and easy paths to happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denen Manu zuerst das Opfer dargebracht hat bei entflammtem Feuer mit Nachdenken durch sieben Opferpriester, ihr Aditya´s, gewähret gefahrsicheren Schutz, bereitet uns gute, gangbare Wege zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, denen Manu weihte einst den ersten Guss, mit sieben Priestern willig bei des Feuers Glut, Ihr, o Aditja's, reicht uns unbedrohten Schutz und bahnet schön die Pfade uns zum Wohlergehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ गन्धर्वो꣡ अ꣡धि ना꣡के अस्थात्  
 प्रत्य꣡ङ् चित्रा꣡ बि꣡भ्रद् अस्या꣡युधानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सु꣡वर् ण꣡ ना꣡म जनत प्रिया꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वसा॑नः । अत्क॑म् । सु॒ऽर॒भिम् । दृ॒शे । कम् । स्वः॑ । न । नाम॑ । ज॒न॒त॒ । प्रि॒याणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -133,36 +133,36 @@ genre M
 **ऊर्ध्वः** उपरिदेशे वर्तमानः **गन्धर्वः** गवामुदकानां धर्ता ॥  ‘ गवि गन् धृञो वः' इति गोशब्दोपपदात्  ‘ धृञ् धारणे ' इत्यस्माद्वप्रत्यय उपपदस्य गन्भावश्च ॥ ईदृशो वेनः **प्रत्यङ्** अस्मत्प्रत्यञ्चनोऽभिमुखः सन् **नाके** **अधि** अन्तरिक्षे **अस्थात्** तिष्ठति । किं कुर्वन् । **अस्य** आत्मनः स्वभूतानि **चित्रा** चित्राणि चायनीयान्याश्चर्यभूतानि वा **आयुधानि** **बिभ्रत्** धारयन् ॥ बिभर्तेः शतरि  ‘ भृञामित् ' इत्यभ्यासस्येत्वम् । नाभ्यस्ताच्छतुः' इति नुम्प्रतिषेधः ।  ‘ अभ्यस्तानामादिः । इत्याद्युदात्तत्वम् । तथा **सुरभिं** शोभनम् **अत्कम्** आत्मीयं व्याप्तं रूपं **वसानः** सर्वत्राच्छादयन् । किमर्थम् । **दृशे** दर्शनार्थम् ॥ ‘दृशे विख्ये च ' इति केप्रत्ययान्तो निपात्यते ॥ **कम्** इति पूरणः । तत्र दृष्टान्तः । **स्वर्ण** । स्वः शोभनारण आदित्यः । स यथात्मीयं रूपं दर्शनाय सर्वत्राच्छादयति तद्वत् । तदनन्तरं **नाम** नामानि नमनशीलान्युदकानि **प्रियाणि** सर्वेषामनुकूलानि **जनत** जनयति । वृष्टिमुत्पादयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Gandharvā** stood erect upon the firmament, brandishing towards us his wonderful weapons,investing all in his beautiful diffusive (form), they make them visible, like the sun he genitive rated the precious(rains).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Gandharva stood erect upon the vault, facing outward, bearing his  dazzling weapons;  
 wearing a fragrant cloak, (lovely) to be seen like the sun, he engendered  his own dear names.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Erect, to heaven hath the Gandharva mounted, pointing at us his many-coloured weapons;  
      Clad in sweet raiment beautiful to look on, for he, as light, produceth forms that please us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da hat sich der Gandharva über den Himmel emporgehoben, hergewandt, seine bunten Waffen tragend. Er kleidete sich in eine duftige Gewandung wie die Sonne anzusehen und brachte seine lieben Namen zum Vorschein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da stand am Himmel aufrecht der Gandharve entgegentragend seine bunten Waffen, Gehüllt in duft'gen Mantel schön zu schauen wie Himmelsglanz liess Liebliches er blicken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ввысь в поднебесье взмыл Гандхарва,  
 Обращенный к (небу), неся свое яркое оружие.  

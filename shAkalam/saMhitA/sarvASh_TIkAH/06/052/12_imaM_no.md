@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नो अग्ने अध्वरं꣡  
 हो꣡तर् वयुनशो꣡ यज  
 चिकित्वा꣡न् दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 चि॒कि॒त्वान् । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -81,20 +81,20 @@ genre M
 हे **होतः** देवानामाह्वातः **अग्ने** **दैव्यं** देवसंबन्धिनं **जनं**  संघं यजनीयं **चिकित्वान्** जानंस्त्वं **नः** अस्मदीयम् **इमम्** **अध्वरं** हिंसारहितं यज्ञं **वयुनशः** ज्ञानक्रमेण यथानुपूर्व्या देवा बुद्धिस्थाः तथा **यज** यागं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, invoker of the gods, cognizant (which of) the divine assembly (is he honoured), offer this our sacrifice according to the proper order.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, Hotar, perform this ceremony as sacrifice for us according to  its patterns,  
 as one who attends to the divine folk.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, Priest, as rules ordain, offer this sacrifice of ours,  
      Remembering the Heavenly Folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring dies Opfer von uns dar nach der Reihenfolge, o Hotri Agni, der du das göttliche Volk kennst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies unser Opfer bringe dar, o Priester Agni, kunstgerecht, Aufmerkend auf der Götter Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот наш обряд, о Агни-  
 Хотар, исполняй по правилам,  

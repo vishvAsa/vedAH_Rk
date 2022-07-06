@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रधारं वृषभ꣡म् पयोवृ꣡धम्  
 प्रियं꣡ देवा꣡य ज꣡न्मने  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 रा꣡जा देव꣡ ऋत꣡म् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ऋ॒तेन॑ । यः । ऋ॒तऽजा॑तः । वि॒ऽव॒वृ॒धे । राजा॑ । दे॒वः । ऋ॒तम् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradhāraṃ* ← *sahasra*
 - \[noun\], neuter
@@ -110,20 +110,20 @@ genre M;; repeated line
 **सहस्रधारं** बहुधारोपेतं **वृषभं** कामानां वर्षकं **पयोवृधम्** उदकानां वर्धकं **प्रियं** प्रीणयितारं तं सोमं **देवाय** देवसंबन्धिने **जन्मने** देवेभ्यस्तदर्थमभिषुणुत । **ऋतजातः** उदकाज्जातः यः **राजा** सोमः **ऋतेन** वसतीवर्याख्येनोदकेन **विववृधे** विशेषेण वर्धते । कीदृशः । **देवः** द्योतमानः स्तोतव्यो वा **ऋतं** सत्यभूतः सन् **बृहत्** महान् तमासुनुतेति पूर्वेण समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thousand-streamed, showererof benefits, augmenter of water, affectionate; (pour it forth) for the race of the gods which water-born is fostered by the water, the king, the god, the true, the great.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull of a thousand streams, growing strong through the milk, dear to  the divine race,  
 who born of truth through truth has grown strong as king, god, and  lofty truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Soma as truth see IX.97.23, 107.15.
 
@@ -137,23 +137,23 @@ Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Increaser of the water, Steer with thousand streams, dear to the race of Deities;  
      Who born in Law hath waxen mighty by the Law, King, God, and lofty Ordinance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den tausendstrahligen Bullen, den milchreichen, lieb dem göttlichen Geschlechte, der aus dem Gesetz geboren durch das Gesetz groß geworden ist, der König, der Gott, das hohe Gesetz selbst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den tausendström'gen Stier, der sich an Milch erfreut, der lieb dem Stamm der Götter ist, Ihn, der erzeugt ist und gestärkt durch heil'ges Werk, Gott, König, hohes heil'ges Recht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Быка с тысячей потоков, возросшего от молока,  
 Приятного для божественного рода,  

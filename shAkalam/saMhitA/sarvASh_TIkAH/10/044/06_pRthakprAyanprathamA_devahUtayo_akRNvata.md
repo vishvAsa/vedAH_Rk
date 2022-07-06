@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृ꣡थक् प्रा꣡यन् प्रथमा꣡ देव꣡हूतयो  
 अ꣡कृण्वत श्रवसि꣡यानि दुष्ट꣡रा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ईर्मइ꣡व꣡ ते꣡ नि꣡ अविशन्त के꣡पयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । ये । शे॒कुः । य॒ज्ञिया॑म् । नाव॑म् । आ॒ऽरुह॑म् । ई॒र्मा । ए॒व । ते । नि । अ॒वि॒श॒न्त॒ । केप॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛthak*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre M
 हे इन्द्रं तव प्रसादात् ते **पृथक्** **प्रायन्** देवलोकान् पृथग्गच्छन्ति ये **प्रथमाः** पूर्वे मुख्या वा **देवहूतयः** देवानामाह्वातारः । कर्तरि कृत् । किंच **दुष्टरा** अन्यैर्दुस्तराणि **श्रवस्यानि** श्रवणीयानि यशांसि **अकृण्वत** अकुर्वत । किंच **ये** त्वत्प्रसादरहिता जनाः **यज्ञियां** यज्ञसंबन्धिनीम् । यज्ञमयीमित्यर्थः । **नावम्** **आरुहम्** आरोढुं **न** **शेकुः** न शक्नुवन्ति **ते** **केपयः** कुत्सितपूयकर्माणः पापकर्माणो जनाः **ईर्मैंव** ऋणेनैव **न्यविशन्त** नीचैरविशन्त । अधोगतिं प्राप्ता इत्यर्थः । तथा च यास्कः- ‘ पृथक् प्रायन् पृथक् प्रथतेः प्रथमा देवहूतयो ये देवानाह्वयन्ताकुर्वत श्रवणीयानि यशांसि दुरनुकरण्यन्यैर्येऽशक्नुवन्यज्ञियां नावमारोळ्हुमथ ये नाशक्नुवन्यज्ञियां नावमारोळ्हुमीर्मैव ते न्यविशन्त ऋणेनैव ते न्यविशन्तास्मिन्नेव लोक इति वा ' (निरु. ५, २५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,30 +144,30 @@ genre M
 So, **Yāska**, 5.25\]. with those) who before (death) are near unto liberality, among whom precious gifts (to the gods) are numerouṣ\[The ignorant: i.e., neglecting to sacrifice, the rest of the line means that though they have the power, they do notsacrifice; are near unto liberality: up0are = yajvānaḥ, the sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The first invocations to the gods went forth each separately. They  brought themselves fame difficult to surpass.  
 The *non-protectors [?], who were not able to board the ship of  
 sacrifice, sank down in stillness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far went our earlist invocation of the Gods, and won us glories that can never be surpassed.  
      They who could not ascend the ship of sacrifice, sink down in desolation, trembling with alarm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Getrennt gingen die ersten Götteranrufungen hinaus. Die einen vollbrachten schwer zu überbietende Ruhmestaten. Die das Schiff des Opfers nicht besteigen konnten, die ...... blieben zurück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ersten Beter gingen hier und dort hervor, und schafften sich unantastbare Herrlichkeit; Die nicht besteigen konnten des Gebetes Schiff, die fanden zappelnd bald auch ihren Untergang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Первые призыва богов двинулись один за другим.  
 Они создали славные дела, за которыми не угнаться.  

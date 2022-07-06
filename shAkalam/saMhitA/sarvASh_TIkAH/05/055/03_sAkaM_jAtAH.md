@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साकं꣡ जाताः꣡ सुभु꣡वः साक꣡म् उक्षिताः꣡  
 श्रिये꣡ चिद् आ꣡ प्रतरं꣡ वावृधुर् न꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शु꣡भं याता꣡म् अ꣡नु र꣡था अवृत्सत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि॒ऽरो॒किणः॑ । सूर्य॑स्यऽइव । र॒श्मयः॑ । शुभ॑म् । या॒ताम् । अनु॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sākaṃ* ← *sākam*
 - \[adverb\]
@@ -135,36 +135,36 @@ genre M;; repeated line
 **साकं** सहैव **जाताः** उत्पन्नाः **सुभ्वः** सुष्ठु भवन्तः । महान्त इत्यर्थः । तथैव **साकं** सहैव **उक्षिताः** सेक्तारो वर्षकाः **श्रिये** **चित्** शोभाया एव **प्रतरं** प्रकृष्टतरम् **आ** सर्वतः **ववृधुः** अवर्धयन् । **नरः** कर्मणां नेतारः **विरोकिणः** विरोचमानाः **सूर्यस्येव** **रश्मयः** सूर्यरश्मय इव । शुभमित्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Born simultaneously, mighty, co-dispensers of moisture, they have grown exceedingly in glory; leaders (of rites), and radiant (are they) as the rays of the sun; may the cars of the quick-moving (**Maruts**) arrive for our good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born all at once, good in essence, grown all at once, just for splendor the  men increased even further,  
 shining forth like the rays of the sun. – As they drove in beauty their  chariots rolled along.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong, born together, they together have waxed great: the Heroes more and more have grown to majesty  
      Resplendent as the Sun's beams in their light are they. Their cars moved onward as they went to victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen geboren, zusammen groß geworden sind die wohlgebildeten Herren noch weiter zur Schönheit gewachsen, wie die Strahlen der Sonne leuchtend. - Wenn sie im Prunkzug ausfahren, haben sich ihre Wagen angeschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zugleich geboren und erwachsen glanzbegabt, erblühten noch zu schön'rer Pracht die Männer dann, Gleichwie der Sonne Strahlen hell erglänzen sie, es rollen ihre Wagen, wenn zum Schmuck sie gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе рожденные, крепкие, вместе возросшие  
 Мужи рано утром (еще) усилились просто для блеска,  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ चिकेत स꣡हीयसा  
 अग्नि꣡श् चित्रे꣡ण क꣡र्मणा  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । होता॑ । शश्व॑तीनाम् । दक्षि॑णाभिः । अ॒भिऽवृ॑तः । इ॒नोति॑ । च॒ । प्र॒ती॒व्य॑म् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ genre M;; repeated line
 **सः** **अग्निः** **सहीयसा** अभिभावुकेन **चित्रेण** नानाविधेन **कर्मणा** व्यापारेण **चिकेत** ज्ञायते । **सः** अग्निः **शश्वतीनां** बह्वीनां देवतानां **होता** ह्वाता **दक्षिणाभिः** पशुभिश्च **अभीवृतः** परिवृतः **प्रतीव्यं** प्रत्येतव्यं शत्रुम् **इनोति** **च** गच्छति च । सिद्धमन्यत् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,7 +140,7 @@ The eternals: śasvatīnām =bahvīnām devatānām; against the foe: pratīvyam
 Dakṣiṇābhiḥ = **paśubhiḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni shows brightly through his very mighty, bright (ritual) action. He is  Hotar of each and every (clan).  
 He is decked out with gift-cows, and he impels (them) to the (gift-)  
@@ -148,23 +148,23 @@ reception.
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni hath made himself renowned by wonderful victorious act.  
      He is the Priest of all the tribes, chosen with sacrificial meeds. He urges Deities to receive. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni zeichnet sich durch überlegenes, ausgezeichnetes Werk aus. Er ist der Opferpriester aller Stämme, von Ehrengaben umringt, und er befördert die Darbringung. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hervorgethan hat Agni sich durch glänzende, gewalt'ge That; Als aller Menschen Priester stets, versehen mit der Kühe Milch betreibt die Opfergaben er. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он всегда давал о себе знать победоносным (действием),  
 Агни – ярким действием.  

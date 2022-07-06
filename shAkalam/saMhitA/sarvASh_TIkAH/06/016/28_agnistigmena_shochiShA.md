@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡स् तिग्मे꣡न शोचि꣡षा  
 या꣡सद् वि꣡श्वं नि꣡ अत्रि꣡णम्  
 अग्नि꣡र् नो वनते रयि꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्निः । नः॒ । व॒न॒ते॒ । र॒यिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnis* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयम् अग्निः **तिग्मेन** तीक्ष्णेन **शोचिषा** तेजसा **विश्वं** सर्वम् **अत्रिणम्** अत्तारं राक्षसादिकं **नि** **यासत्** निहन्तु । अपि च **नः** अस्मभ्यम् **अग्निः** **रयिं** धनं **वनते** ददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Agni**, with his sharp flame, demolish the devourer (of the oblation); may Agni grant us riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni with his sharp flame will run down every rapacious one.  
 Agni will win us wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Agni with his pointed blaze cast down each fierce devouring fiend  
      May Agni win us wealth by war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni soll mit scharfer Flamme jeden Atrin überfallen, Agni soll uns Besitz gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es stosse Agni jeden Feind zu Boden mit dem scharfen Strahl, Und Reichthum spende Agni uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Агни (своим) острым пламенем  
 Пришибет любого Атрина!  

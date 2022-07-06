@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इत्था꣡ धी꣡वन्तम् अद्रिवः  
 काणुव꣡म् मे꣡धियातिथिम्  
 मेषो꣡ भूतो꣡ ऽभि꣡ य꣡न्न् अ꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मे॒षः । भू॒तः । अ॒भि । यन् । अयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *itthā*
 - \[adverb\]
@@ -81,7 +81,7 @@ genre M
 **इत्था** इत्थमनेनोक्तेन प्रकारेण **धीवन्तं** स्तुतिमन्तं **काण्वं** कण्वपुत्रं **मेध्यातिथिं** यज्ञार्हातिथिमेतत्संज्ञमृषिं हे **अद्रिवः** वज्रवन्निन्द्र **मेषो** **भूतः** मेषरूपतां प्राप्तः **अभि** **यन्** अभिगच्छन् । य इत्यनुवर्तते । तद्योगाच्च तिङो निघाताभावः । यस्त्वम् **अयः** अगमयः तं त्वां स्तुम इत्यर्थः।‘मेधातिथेर्मेष' (तै. आ. १. १२.३) इति सुब्रह्मण्यामन्त्रैकदेशस्य व्याख्यानरूपं ब्राह्मणं छन्दोगैरेवमाम्नायते-- ‘ मेधातिथिं हि काण्वायनिं मेषो भूत्वाजहार' (ष. ब्रा. १. १) इति । तदभिप्रायेणेयं स्तुतिः कृता ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ genre M
 In the form of a ram: Ṣaḍviṃśā **Brāhmaṇa** 1.1: the legend is also found inBāṣkala **Upaniṣad**; have come to: or, did carry off, ayaḥ = agamayaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O possessor of the stone—him whose insights are to the point,  Medhyātithi Kāṇva,  
 since you, having become a ram, led (him) to (goods)—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse as it stands poses a number of problems, but some of them disappear if, following Geldner’s earlier Komm., adopted also by Oldenberg, and reflected in Geldner’s tr., the sequence yánn áyaḥ (per Pp.) is read yán náyaḥ, which requires no change in the Saṃhitā text. This produces a subordinating conjunction (yád out of sandhi), which in turn accounts for the accented verb (náyaḥ) and allows the whole verse to be read as a single dependent clause (in my interpretation: Geldner supplies the verb “… hast du … erhört” for pādas ab, while Oldenberg suggests rather “du hast … gesegnet”). Although my interpretation has the yád uncomfortably late in its clause, after two heavy constituents (violating Hale’s old observation that only one constituent can precede the yá-form), it avoids supplying a verb out of nowhere for the first part of the verse, and I take the acc. phrase of ab as an almost extrasentential topicalized NP, so positioned to get the name and attributes of the poet up front.
 
@@ -107,23 +107,23 @@ With Oldenberg and Geldner I take abhí with náyaḥ, but unlike them don’t s
 As noted in the introduction, there are various tales or tale fragments in Vedic prose (see esp. JB III.233-35. also ŚB III.3.4.18) linking Indra as ram and Medhātithi, but to my mind they are later and not particularly successful rationalizations of this obscure verse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shaped as a Ram, Stone-hurler I once thou camest hither to the son  
      Of Kanva, wise Medhyatithi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Kanviden Medhyatithi, dessen Sinn darnach stand, hast du, Herr des Preßsteins, erhört, als du in einen Widder verwandelt ihn in den Himmel entführtest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu dem wahrhaft frommen Mediatithi, dem Nachkommen des Kanva, komme, o Schleuderer, in Gestalt eines Widders heranschreitend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И правда, о повелитель давильных камней, наделенного видением  
 Потомка Канвы – Медхьятитхи (ты услышал),  

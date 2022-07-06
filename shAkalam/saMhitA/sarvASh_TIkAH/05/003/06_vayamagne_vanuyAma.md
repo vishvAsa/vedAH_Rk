@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वय꣡म् अग्ने वनुयाम तुवो꣡ता  
 वसूय꣡वो हवि꣡षा बु꣡ध्यमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वयं꣡ राया꣡ सहसस् पुत्र म꣡र्तान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒यम् । स॒ऽम॒र्ये । वि॒दथे॑षु । अह्ना॑म् । व॒यम् । रा॒या । स॒ह॒सः॒ । पु॒त्र॒ । मर्ता॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -105,41 +105,41 @@ genre M
 हे अग्ने **वयं** यजमानाः **त्वोतः** त्वया रक्षिताः सन्तः **वनुयाम** । शत्रून् पीडयाम संभजेमहि वा धनम् । कीदृशा वयम् । **वसूयवः** वसुकामाः **हविषा** त्वां **बुध्यमानाः** बोधयन्तः **वयं** समर्ये समरणे जयेम शत्रूनिति शेषः । **विदथेषु** यागेषु प्राप्नुयाम बलम् । यद्वा । वनुयामेत्येतदनुषज्यते । **अह्रां** सर्वेष्वहःसु । किंच **वयं** हे **सहसस्पुत्र** बलस्य पुत्र पालक वाग्ने **राया** धनेन सह **मर्तान** पुत्रभृत्यादीन् लभेमहि ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we, desirous of wealth, **Agni**,and arousing you by oblations, secure in your protection, acquire (riches); may we (be victorious) in battle, (successful) in sacrifices every day; and may we, son of strength, obtain with riches **male** (descendants).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Helped by you, o Agni, we would vanquish mortals—we, striving after  goods and awakening with our offering;  
 we, in the competition and in the ritual distributions of the days; we,  with our wealth, o son of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aided by thee, O Agni may we conquer through our oblation, fain for wealth, awakened:  
      May we in battle, in the days' assemblies,O Son of Strength, by riches conquer mortals.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we overcome the mortals, O Agni, protected by thee, striving for wealth, awaking (thee) with offerings; may we (overcome mortals) in the contest, in the distribution 1 of days; may we (overcome them) by wealth, O son of strength!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen von dir, o Agni, begünstigt, nach Gut strebend, mit Opfer dich heranwachend, wir in dem Wettbewerb bei den täglichen Opfern, wir durch Reichtum, o Sohn der Kraft, die anderen Sterblichen überbieten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von dir begünstigt mögen wir besiegen, nach Gut verlangend und mit Opfer regsam, Im Wettkampf, Agni, und in Rathversammlung durch Reichthum auch, o Sohn der Kraft, die Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы, о Агни, поддержанные тобой, хотим превзойти смертных,  
 Стремясь к добру, пробуждая (тебя) жертвенным возлиянием,  

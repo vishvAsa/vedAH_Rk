@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ यं꣡ दुध्रा꣡ व꣡रन्ते न꣡ स्थिरा꣡ मु꣡रो  
 म꣡दे सुशिप्र꣡म् अ꣡न्धसः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 दा꣡ता जरित्र꣡ उक्थि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । आ॒ऽदृत्य॑ । श॒श॒मा॒नाय॑ । सु॒न्व॒ते । दाता॑ । ज॒रि॒त्रे । उ॒क्थ्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 यं सुशिप्रमिन्द्रं दुध्राः दुर्धरा असुरादयो नवरन्ते नवारयन्ति सङ्ग्रामे तथा स्थिराः देवानवरन्ते किञ्च मुरो मनणस्वभावा मनुष्याः नवरन्ते अन्धसः अन्नस्य मदे मदाय सोमपानजनिताय आदृत्य यः शरामानाय संसमानाय सुन्वते अभिषवं कुर्वते जरित्रे स्तोत्रेच दाता भवति किं उक्थ्यं स्तुत्यं धनं सरेजयतीत्युत्तरत्र सम्बन्धः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ Made suśipram = madeṣu śipram;
 Ādṛtya = from dṛ, to tear; may apply to **Indra**: who withfavouring regard confers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom neither obdurate nor substantial hindrances will obstruct when  the fair-lipped one is in the exhilaration of the stalk,  
 who, tearing them out for the laboring presser, is the giver of  
 praiseworthy (goods) to the singer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whom with fair helm, in rapture of the juice, the firm resistless slayers hinder not:  
      Giver of glorious wealth to him who sing a his praise, honouring him who toils and pours:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den weder hartnäckige noch feste Hindernisse im Rausche des Tranks aufhalten, den Schönlippigen, der fürsorglich dem, welcher den Opferdienst versehen hat und Soma preßt, dem Sänger preiswürdigen Lohn schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, den nicht aufhält wilder starker Feinde Schar, den schlürfenden beim Somarausch, Der achtend drauf, dem, welcher eifrig Soma presst, dem Sänger preisenswerthes schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого не удержат ни бушующие, ни прочные препятствия,  
 (Этого) прекрасногубого, когда он в опьянении сомой,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो रेवतीः क्ष꣡यथा हि꣡ व꣡स्वः  
 क्र꣡तुं च भद्र꣡म् बिभृथा꣡मृ꣡तं च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रस्वती त꣡द् गृणते꣡ व꣡यो धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रा॒यः । च॒ । स्थ । सु॒ऽअ॒प॒त्यस्य॑ । पत्नीः॑ । सर॑स्वती । तत् । गृ॒ण॒ते । वयः॑ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
@@ -139,36 +139,36 @@ genre M
 हे **आपो** **रेवतीः** रेवत्यो धनवत्यः यूयं **वस्वः** वसुनः धनस्य **क्षयथ** हि ईशिध्वे खलु। किंच **भद्रं** भजनीयं **क्रतुं** **च** सोमयागादिलक्षणं कर्म च **अमृतं** **च** अमरणरूपं तज्जन्यफलं च **बिभृथ** धारयथ । पुष्णीथ वा । तथा **रायश्च** धनस्य च **स्वपत्यस्य** शोभनपुत्रस्य च **पत्नीः** पत्न्यः पालयित्र्यः **स्थ** भवथ । तथा **सरस्वती** तदभिमानिनी देवता **गृणते** स्तुवते मह्यं **तत्** इदं सर्वं **वयः** अन्नलक्षणं धनं **धात्** ददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Opulent waters, you rule over riches; you support good fortune, pious rites, and immortality; you arethe protectresses of wealth and of offspring; may **Sarasvatī** bestow all this opulence on him who praises you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O rich waters, because you hold sway over the good, and you bring  favorable resolve and the immortal (soma?),  
 and you are masters of wealth that brings good progeny, let Sarasvatī establish this vital energy for the singer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, wealthy Waters, ye control all treasures: ye bring auspicious intellect and Amrta.  
      Ye are the Queens of independent riches Sarasvati give full life to the singer!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr reichen Wasser, da ihr über das Gut schaltet und guten Rat und den Lebensbalsam bringt, und da ihr die Herrinnen des Schatzes an gutem Nachwuchs seid, so soll Sarasvati dem Sänger solche Kraft bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr reichen Wasser habt ja Gut zu eigen, Unsterblichkeit und frische Kraft verleiht ihr; In eurer Hand ist kinderreiche Habe; dies Heil gewähr Sarasvati dem Sänger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О воды богатые, так как вы властвуете над добром  
 И несете силу духа, счастье и бессмертие,  

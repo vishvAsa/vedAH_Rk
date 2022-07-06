@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जि꣡घर्मि अग्निं꣡ हवि꣡षा घृते꣡न  
 प्रतिक्षिय꣡न्तम् भु꣡वनानि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्य꣡चिष्ठम् अ꣡न्नै रभसं꣡ दृ꣡शानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पृ॒थुम् । ति॒र॒श्चा । वय॑सा । बृ॒हन्त॑म् । व्यचि॑ष्ठम् । अन्नैः॑ । र॒भ॒सम् । दृशा॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jigharmy* ← *jigharmi* ← *ghṛ*
 - \[verb\], singular, Present indikative
@@ -105,7 +105,7 @@ genre M
 विश्वासर्वाणिभुवनानिप्रतिक्षियन्तंवैश्वानरत्मनाधितिष्ठन्तं पृथुम्महान्तं तिरश्चसर्वतःप्रवर्तमानेन- वयसापेशसाबृहन्तम्प्रवृद्धं अन्नैर्हविर्लक्षणैर्व्यचिष्ठंव्याप्तं रभसम्बलवन्तन्दृशानं एवङ्गुणवत्तयादृश्यमान- मग्निम्पुरोडाशादिलक्षणेनहविषाघृतेनचजिघर्मि सिञ्चामि प्रतिह्येषसर्वाणिभूतानिक्षेति पृथुन्तिरश्चा- वयसाधूमेनबृहन्तंव्यचिष्ठमन्नैरभसन्दृशान मित्यवकाशनवन्तमन्नैरन्नादन्दीप्यमानमित्ये तदाविश्वत- इत्यासर्वतः प्रत्यञ्चञ्जुहोमीत्येतदरक्षसेत्यहेळमानेनमनसेदञ्जुषेतेत्येतन्मर्यश्रीरितिमर्यश्रीरित्येषस्पृ- हयद्वर्णोअग्निर्नाभिमृशइतिनह्येषमृशेतदीप्यमानोभवतीति ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,38 +116,38 @@ genre M
 Offer oblations with butter: jigharmy agnim haviṣā ghṛtena = a tva jigharmi **manasā** ghṛtena (**Yajus**. 11.23), I sprinkle you with butter, with a believing mind: śraddhāyuktena cittena; vast, expanding: pṛthum tiraścā = vast with crooked-going or undulating radiance; vayasā bṛhantam = augmenting with smoke
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I sprinkle Agni with an oblation, with ghee, as he abides peacefully  facing all the creatures, (and he then) takes on (this) appearance: broad across, lofty in his vigor,  most voluminous through his foods [=wood], overpowering.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. describes what happens to the fire after the peaceful creature depicted in pāda b is sprinkled with melted butter (pāda a): he takes on an appearance (dṛ́śānam) that is larger and more powerful. Contra Geldner, Renou, Witzel Gotō (but with Oldenberg [SBE]) I construe ánnaiḥ with vyáciṣṭham, on the basis of III.50.1 uruvyácāḥ … ebhír ánnaiḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With oil and sacred gifts I sprinkle Agni who makes his home in front of all things living,  
      Broad, vast, through vital power o'er all expanded, conspicuous, strong with all the food that feeds him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I besprinkle with my offering, with Ghrita, Agni who abides turned towards all beings, who widely extends throughout, who is mighty in his vigour, who shows himself most capacious by the food (which he consumes), and robust 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich begieße den Agni mit der Opferspende, mit Schmalz, der bei allen Wesen wohnt, in die Breite sich ausdehnt, groß an Kraft, vielfassend, durch die Speisen wild erscheinend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit fettem Guss beträufle ich den Agni, der sich zu allen Wesen hold gesellet, Der breit sich ausdehnt, hoch durch Opfer aufsteigt, den schönen, kräft'gen, der durch Speisen anschwillt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я кроплю Агни жертвенным возлиянием, жиром,  
 (Того,) кто находится во всех существах,  

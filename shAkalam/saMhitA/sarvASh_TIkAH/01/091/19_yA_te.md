@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ते धा꣡मानि हवि꣡षा य꣡जन्ति  
 ता꣡ ते वि꣡श्वा परिभू꣡र् अस्तु यज्ञ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वीरहा प्र꣡ चरा सोम दु꣡र्यान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ग॒य॒ऽस्फानः॑ । प्र॒ऽतर॑णः । सु॒ऽवीरः॑ । अवी॑रऽहा । प्र । च॒र॒ । सो॒म॒ । दुर्या॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
@@ -135,21 +135,21 @@ genre M
 हे **सोम** **ते** त्वदीयानि **या** यानि **धामानि** द्युप्रभृतिष्ववस्थितानि तेजांसि **हविषा** चरुपुरोडाशादिना **यजन्ति** यजमानाः पूजयन्ति **ता** **ते** **विश्वा** त्वदीयानि तानि सर्वाणि धामानि **यज्ञम्** अस्मदीयमध्वरं **परिभूरस्तु** परितो भावयितॄणि परितः प्राप्तानि सन्तु । यद्वा । त्वदीयानां तेषां सर्वेषां धाम्नामस्मदीयो यजमानः परिभूर्यज्ञं प्रति परिग्रहीता यागेन स्वीकर्ता अस्तु भवतु । परिपूर्वो भवतिः परिग्रहार्थः। तादृशैर्धामभिरुपेतस्त्वं **दुर्यान्** प्राचीनवंशादिलक्षणानस्मदीयान् गृहान्।  ‘ गृहा वै दुर्याः ' ( तै. सं. ६. २. ९. १ ) इति श्रुतेः । **प्र** **चर** प्रकर्षेण गच्छ। कीदृशस्त्वम् । **गयस्फानः** गयस्य गृहस्य धनस्य वा वर्धयिता **प्रतरणः** प्रकर्षेण दुरितात् तारयिता **सुवीरः** शोभनैः वीरैरुपेतः **अवीरहा** । वीर्यात् जायन्ते इति वीराः पुत्राः । तेषामहन्ता ॥ परिभूः ।  ‘ भू प्राप्तौ' । अस्मात् ' क्विप् च ' इति क्विप् ।  ‘ व्यत्ययो बहुलम् ' ( पा. सू. ३. १. ८५ ) इति लिङ्गवचनव्यत्ययौ । अस्तु । व्यत्ययेन एकवचनम् । गयस्फानः । गय इति गृहस्य धनस्य च नामधेयम् । तेषां स्फायिता वर्धयिता ।  ‘ कृत्यल्युटो बहुलम् ' इति कर्तरि ल्युटि छान्दसो यलोपः। अवीरहा। वीराणां हन्ता वीरहा। न वीरहा अवीरहा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Whichever of your glories (men) worship with oblations, may our sacrifice be invested with them all; come to our mansions, **Soma**, who are the bestower of wealth, the transporter (over difficulties); attended by valiant heroes, the non-destroyer of progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those domains of yours that they sacrifice to with oblation, let all these  of yours be encompassing the sacrifice.  
 Fattening the livestock, furthering (us), bringing good heroes, not  
 smiting heroes, o Soma, advance to our doorways.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Here again, as in vs. 4, the dhā́māni of Soma are recipients of the oblation; Geldner’s Formen again works more smoothly, but I still consider these to be the locales listed in 4ab, each of which can be a site of sacrifice.
 
@@ -160,23 +160,23 @@ as if in a mass. English “all this” can be similarly used, after a listing o
 Geldner, Renou, Witzel Gotō all supply ‘lifetime’ as the implicit object of pratáraṇaḥ, rather than my ‘us’; they are most likely correct, given how common the idiom ā́yus- prá √tṝ is. I might change the published translation to “lengthening (our lifetime).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such of thy glories as with poured oblations men honour, may they all invest our worship.  
      Wealth-giver, furtherer with troops of heroes, sparing the brave, come, Soma, to our houses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Formen, die sie mit dem Opfer verehren, die sollen alle das Opfer zusammenhalten. Den Hausstand vergrößernd, leben verlängernd, gute Söhne gebend, nicht die Söhne tötend, zieh, o Soma, ins Haus ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Stätten, die man dir durch Opfer heiligt, die alle mög' das Opfer rings umfangen; Den Hausstand mehrend, helfend, reich an Helden, der Männer schonend komm ins Haus, o Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) твои формы, что почитают жертвенным возлиянием,  
 Все они у тебя пусть окружают жертву!  

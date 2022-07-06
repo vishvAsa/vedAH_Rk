@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ वो अ꣡स्ति अर्भको꣡  
 दे꣡वासो न꣡ कुमारकः꣡  
 वि꣡श्वे सतो꣡महान्त इ꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विश्वे॑ । स॒तःऽम॑हान्तः । इत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M
 हे **देवासः** देवाः **वः** युप्माकं मध्ये **अर्भकः** **नहि** **अस्ति** शिशुर्नास्ति खलु । तथा **न** **कुमारकः** युष्माकं मध्ये कुमारोऽपि नास्ति । किंतु सर्वे यूयं सवयसो नित्यतरुणा भवथ । एतदेव प्रतिपादयति । **विश्वे** सर्वे देवा यूयं **सतोमहान्त** **इत्** । सर्वस्माद्विद्यमानात् पृथिव्यामपि ये महान्तस्ते सतोमहान्त इत्युच्यन्ते । तस्माद्युष्माकमर्भकोऽपि कुमारोऽपि नास्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,34 +91,34 @@ genre M
 Allof mature existence: sato **mahāntaḥ** = sarvasmād vidyamānāt pṛthivyām api ye **mahāntas** tesatomahānta iti ucyante, liṭ, greather than all that is
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Since there isn’t a little runt among you, gods, nor a little kid,  
 (you are) all just entirely great.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The -ka- suffix on arbhaká- and kumāraká- mark these words as belonging to a lower register than normal Rigvedic discourse. See my 2009 “Sociolinguistic Remarks on the Indo-Iranian *-ka-Suffix.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 NOT one of you, ye Gods, is small, none of you is a feeble child:  
      All of you, verily, are great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner unter euch ist ja ein Kleiner, ihr Götter, noch ein Kind; alle seid ihr gleich groß.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kein kleiner weilet unter euch, o Götter, und kein zartes Kind, Ihr alle seid an Grösse gleich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нет ведь среди вас малого,  
 О боги, нет подростка:  

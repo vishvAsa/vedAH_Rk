@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते सा꣡धिष्ठो अ꣡वसे  
 ते꣡ सियाम भ꣡रेषु ते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ससवां꣡सो मनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 व॒यम् । होत्रा॑भिः । उ॒त । दे॒वहू॑तिऽभिः । स॒स॒ऽवांसः॑ । म॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -106,36 +106,36 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we be in battle as one who is the sure to gain your protection; we worship you with invocationsand prayers wen we obtain our desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Your resolve) to help which best brings success. Might we be yours in  the bouts.  
 May we consider ourselves winners through our libations and  
 invocations to the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 If read with what follows, the relative clause in pāda a is even more irregular than those we have already met in the Vālakhilya. However, there is a simple solution. The identical pāda occurs as V.35.1a, where it clearly modifies krátuḥ in b: yás te sā́dhiṣṭhó ‘vasa, índra krátuṣ ṭám ā́bhara “Your resolve to help that best brings success, Indra, bring that here.” Since krátum is found in the last pāda of the preceding verse, 6d, I take the relative clause of 7a as dependent on the krátum in 6d. Unfortunately this straddles a pragātha boundary, but I find it hard to believe that the krátu association played no role in the repetition of this pāda. It is even possible that the somewhat odd bháreṣu in 7b was influenced by bhara in V.35.1b (though see 8d).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer am tauglichsten für deine Gunst ist - die möchten wir dir in den Kämpfen sein. Wir glauben durch unsere Opfer und Götteranrufungen das Spiel gewonnen zu haben;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Kämpfen seien solche wir, die dir zum Schutz die liebsten sind; Wir denken dein durch Götterruf und Opferwerk, wenn wir der Wünsche Ziel erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто лучше всех добивается твоей поддержки, -  
 Ими мы хотели бы стать для тебя в битвах!  

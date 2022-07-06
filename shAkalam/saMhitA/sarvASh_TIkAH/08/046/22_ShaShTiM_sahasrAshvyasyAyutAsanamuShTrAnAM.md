@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 षष्टिं꣡ सह꣡स्रा अ꣡श्व्यस्यायु꣡तासनम्  
 उ꣡ष्ट्रानां विंशतिं꣡ शता꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 द꣡श ग꣡वां᳐ सह꣡स्रा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 दश॑ । श्यावी॑नाम् । श॒ता । दश॑ । त्रिऽअ॑रुषीणाम् । दश॑ । गवा॑म् । स॒हस्रा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
@@ -111,7 +111,7 @@ genre M
 स वश आगत्य व्रूते । **अश्व्यस्य** अश्वसंबन्धिनः **षष्टिं** **सहस्रा** सहस्राणि **अयुता** अयुतानि च **असनम्** अभजम् । **उष्ट्राणां** **विंशतिं** **शता** शतानि चासनम्। **श्यावीनां** श्याववर्णानां वडवानां **दश** **शता** शतानि चासनम् । **त्र्यरुषीणां** त्रीण्यारोचमानानि शुभ्राणि ककुप्पृष्ठपार्श्वादिस्थानानि यासां तादृशीनां **गवां** **दश** **सहस्रा** सहस्राण्यभजम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,7 +122,7 @@ genre M
 Three red patches: i.e. havingthe head, back, and sides white (or bright); the ṛca and the next two ṛcas are spoken by **Vaśa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have won sixty thousands in equine property, myriads, twenty  
 hundreds of camels,  
@@ -130,23 +130,23 @@ ten hundreds of dusky mares, ten of those with three red spots, ten
 thousands of cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Steeds sixty thousand and ten thousand kine, and twenty hundred camels I obtained;  
      Ten hundred brown in hue, and other ten red in three spots: in all, ten thousand kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sechzigtausend von seiner Roßherde, Myriaden Kühe erhielt ich, zwanzighundert Kamele, zehnhundert dunkelbraune Stuten, zehnhundert mit drei rötlichen Flecken, zehntausend Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sechzigtausend und Myriaden von Rossen empfing ich, zweitausend Büffel, tausend braune und tausend mit drei rothen Flecken gezeichnete und zehntausend Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Шестьдесят тысяч из (его) табуна, тьму (коров) я получил,  
 Двадцать сотен верблюдов,  

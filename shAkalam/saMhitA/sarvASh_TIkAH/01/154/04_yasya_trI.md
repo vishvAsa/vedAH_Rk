@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य त्री꣡ पूर्णा꣡ म꣡धुना पदा꣡नि  
 अ꣡क्षीयमाणा स्वध꣡या म꣡दन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡को दाधा꣡र भु꣡वनानि वि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । ऊं॒ इति॑ । त्रि॒ऽधातु॑ । पृ॒थि॒वीम् । उ॒त । द्याम् । एकः॑ । दा॒धार॑ । भुव॑नानि । विश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -129,7 +129,7 @@ genre M
 आतिथ्यायां तदस्य' इत्येषा प्रधानस्य याज्या । **अथातिथ्या'** इति खण्डे सूत्रितम् - इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्याम् ' ( आश्व. श्रौ. ४. ५) इति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 The three elements: tṛdhātu, the aggregate of three elements, earth, water, light: pṛthivyaptejorūpa dhātutrayaviśiṣṭam; or, the three periods of time, or the three qualities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose three steps, filled with honey, never becoming depleted, find  elation through their own power,  
 who alone supports heaven and earth in their three parts and all living  beings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him whose three places that are filled with sweetness, imperishable, joy as it may list them,  
      Who verily alone upholds the threefold, the earth, the heaven, and all living creatures.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Him whose three footsteps filled with mead, un-failing. Revel in blissful joy; who has supported Alone the universe in three divisions: The earth and sky and all created beings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Des drei Fußspuren, voll von Honig, unversieglich, nach ihrer Art schwelgen; der der dreifachen Welt, Erde und Himmel, allen Geschöpfen allein Halt gegeben hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Honig triefen seiner Füsse Spuren, und unvergänglich sprudeln sie von Wonne, Dreifaches Gut: die Erde und den Himmel und alle Wesen, er allein erhält sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он тот,) три следа которого, полные меда,  
 Неиссякающие, опьяняются по своему обычаю,  

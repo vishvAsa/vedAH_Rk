@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सने꣡म त꣡त् सुसनि꣡ता सनि꣡त्वभिर्  
 वयं꣡ जीवा꣡ जीव꣡पुत्रा अ꣡नागसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ब्र॒ह्म॒ऽद्विषः॑ । विष्व॑क् । एनः॑ । भ॒रे॒र॒त॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanema* ← *san*
 - \[verb\], plural, Aorist optative
@@ -122,14 +122,14 @@ genre M;; repeated line
 **जीवाः** जीवन्तः **जीवपुत्राः** जीवनवत्पुत्राश्च **अनागसः** अपराधवर्जिताश्च **वयं** धनाका  लुशाः **सनित्वभिः** संभक्तृभिः पुत्रपौत्रादिभिः सह **सुसनिता** शोभनेन भजनेन **तत्** देवजातं **सनेम** । स्तुत्या हविष्प्रदानेन च सं भजेमहि । किंच **ब्रह्मद्विषः** ब्राह्मणानामस्माकं द्वेष्टारः **विष्वक्** नानागच्छत् **एनः** अस्मदीयं पापं **भरेरत** आत्मनि धारयन्तु । पोषयन्तु । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Living with living offspring, and free from fault, let us make offerings (to the gods), sharing with thosewho share with us; may those who hate the **brāhmaṇas**, carry off our iniquity in different directions; we solicittoday this protection of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we win this through easy winning with winners—we living and  with living sons, blameless.  
 The haters of the sacred formulation should take their own  
@@ -137,23 +137,23 @@ transgression off in all directions. – This help of the gods we
 choose today.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Alive ourselves, with living sons, devoid of guilt, may we win this with winners by fair means to win.  
      Let the prayer-haters bear our sin to every side. We crave this gracious favour of the Gods to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten das in leichtem Gewinn durch die Gewinner gewinnen, wir selbst lebend, mit lebenden Söhnen, frei von Verfehlung. Die Feinde des heiligen Worts sollen die Sünde weg und auf sich nehmen. - Diese Gunst der Götter erbitten wir heute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst uns und unsre Kinder lebend, frei von Schuld empfangen dies mit den Empfängern zum Geschenk; Die Andachthasser mögen fernhin tragen ihr Vergehn, die Gunst der Götter wünschen heute wir herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть добудем мы это прекрасным добыванием с помощью добытчиков,  
 Живые, с живыми сыновьями, невиновные!  

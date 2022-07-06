@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यो꣡ गो꣡भिः सृज्य꣡त ओ꣡षधीषु आ꣡  
 देवा꣡नां सुम्न꣡ इष꣡यन्न् उ꣡पावसुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रं सो꣡मो माद꣡यन् दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । वि॒ऽद्युता॑ । प॒व॒ते॒ । धार॑या । सु॒तः । इन्द्र॑म् । सोमः॑ । मा॒दय॑न् । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **यः** सोमः **गोभिः** रश्मिभिः **आ** **सृज्यते** **ओषधीषु** । यं सोमं स्थापयन्तीत्यर्थः । किमर्थम् । **देवानां** **सुम्ने** सुखे निमित्ते सति । कीदृशोऽयम्। **इषयन्** देवान् प्राप्तुमिच्छन् । इष गतौ'। धनमिच्छन् वा । तथा **उपावसुः** शत्रुभ्यः सकाशात् प्राप्तधनः । सः **सोमः** **विद्युता** विद्योतमानया **धारया** **आ** **पवते** **सुतः** सन् । किं कुर्वन् । **दैव्यं** देवस्वामिनम् **इन्द्रं** **मादयन्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,37 +135,37 @@ genre M
 The people of heaven: daivyam is considered with indram, 'the lord of the gods'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is sent surging along with the cows onto the plants, prospering in  the benevolence of the gods, bringing goods near at hand,  
 he purifies himself with lightning, pressed in a stream—Soma,  
 exhilarating Indra and the heavenly people.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ritual and/or real world situation depicted in pādas a and c is unclear. In particular, in pāda a what plants does soma (+ milk) pour onto? Ober (II.42) may well be right that it depicts soma as rain, though we would still lack a ritual analogue to the plants receiving rain in the real world. Rain in this pāda would fit with the lightning imagery in c. Soma him/itself flashed forth (ví didyute) in IX.80.1, and “ever-flashing light” (dávidyutatī- rúc-) is associated with the soma drinks in IX.64.28.
 
 The published translation construed dhā́rayā with sutáḥ, because this expression (IX.51.5, 72.5, 100.6, 108.5) or minor variants (IX.3.10=42.2, 10.4, 97.45) are fairly common in this maṇḍala. However, both Geldner and Renou take it with pavate, parallel with vidyútā (e.g., “Der ausgepresste Soma laütert sich mit Blitz (und Regen)guss”), and this may be preferable in the rainstorm context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who is poured with milk, he who within the plants hastes bringing treasure for the happiness of Gods,  
      He, poured forth in a stream flows with the lightning's flash, Soma who gladdens Indra and the Host of Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mit Kuhmilch auf die Pflanzen gegossen wird, sich der Gunst der Götter erfreuend, zu Reichtum kommend. Der ausgepreßte Soma läutert sich mit Blitz und Regenguß und berauscht Indra und das göttliche Volk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der mit der Milch sich von den Pflanzen her ergiesst, hinstrebend nach der Götter Huld mit Gut versehn, Mit lichtem Strome rieselt Soma ausgepresst, berauschend Indra und das göttliche Geschlecht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вместе с коровьим (молоком) изливается на растения,  
 Радуясь милости богов, приближаясь к добру,  

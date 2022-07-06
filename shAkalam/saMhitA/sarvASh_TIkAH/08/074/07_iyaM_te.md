@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ ते न꣡व्यसी मति꣡र्  
 अ꣡ग्ने अ꣡धायि अस्म꣡द् आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡मूर द꣡स्म अ꣡तिथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मन्द्र॑ । सुऽजा॑त । सुक्र॑तो॒ इति॒ सुऽक्र॑तो । अमू॑र । दस्म॑ । अति॑थे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -107,7 +107,7 @@ genre M
 हे **अग्ने** **इयम्** इदानीं क्रियमाणा **नव्यसी** नवतरा स्तुतिः **ते** तव स्वभूता **अस्मत्** अस्मासु **अधायि** धृताभूत् । वयं तव स्तुतिं कुर्म इत्यर्थः । हे **मन्द्र** मोदमान **सुजात** शोभनजनन **सुक्रतो** शोभनकर्मन् **अमूर** अमूढ **दस्म** दर्शनीय **अतिथे** अतिथिवत् पूज्य इत्यग्नेर्विशेषणानि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,28 +118,28 @@ genre M
 Has been made by us for you: adhāyy asmadā = has been borne (or conceived)in us for you, asmāsu dhṛtam abhūt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This newer thought here has been produced from us for you, o Agni, o delighting, well-born, strong-willed guest, unerring and wondrous.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, this our newest hymn hath been addressed from us to thee,  
      O cheerful Guest, well-born, most wise, worker of wonders, ne'er deceived.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses neueste Gedicht wurde dir, Agni, von uns gewidmet, du erfreulicher, hochgeborener, einsichtiger, kluger Meister und Gast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ist dir dieses neue Lied, o Agni, dargebracht von uns, O holder, edler, wirkender, o einsichtsvoller, hehrer Gast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

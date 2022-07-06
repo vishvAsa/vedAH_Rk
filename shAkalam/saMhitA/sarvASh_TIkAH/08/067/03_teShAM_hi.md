@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡षां हि꣡ चित्र꣡म् उक्थि꣡यं  
 व꣡रूथम् अ꣡स्ति दाशु꣡षे  
 आदित्या꣡नाम् अरंकृ꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒दि॒त्याना॑म् । अ॒र॒म्ऽकृते॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तेषाम्** आदित्यानां **हि** खलु **चित्रं** चायनीयम् **उक्थ्यं** स्तुत्यं **वरूथं** धनम् **अस्ति** **दाशुषे** हविर्दात्रे **अरंकृते** अलंकर्त्रे पर्याप्तकारिणे यजमानाय दातव्यं धनमस्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To those **Ādityas** belongs wonderful wealth, worthy of all praise, (laid up) for the offerer of oblationsand the sacrificer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For their bright, praiseworthy shield exists for the pious man—  
 (the shield) of the Ādityas for the man who does it right.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For wonderful and meet for praise is these Adityas' saving help  
      To him who offers and prepares.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn diese haben für den Opfernden eine wunderbare, preisliche Schutzwehr, die Aditya´s für den Dienstfertigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn herrlich ist und preisenswerth ihr Schutz und Schirm dem frommen Mann, Der den Aditja's eifrig dient.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь у них есть блестящее укрытие,  
 Достойное гимна, для почитающего (их)  

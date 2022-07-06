@@ -8,7 +8,7 @@ title = "+023"
 ईळिष्व' इति त्रिंशदृचं तृतीयं सूक्तम् । व्यश्वपुत्रो विश्वमना ऋषिः । उष्णिक् छन्दः । अग्निर्देवता । तथा चानुक्रान्तम्-’ ईळिष्व त्रिंशद्विश्वमना वैयश्व आग्नेयमौष्णिहं ह' इति । प्रातरनुवाक आग्नेये क्रतावौष्णिहे छन्दस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च- ईलिष्वा हीत्यौष्णिहम्' (आश्व. श्रौ. ४. १३) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 23 (643)  
 Agni  
@@ -21,7 +21,7 @@ tion to Agni and lucrative relationship with his patron, Ukṣan, merit mention 
 Both the praise and the requests follow the common tropes of the genre, though  often nicely executed. The focus is on Agni as the messenger of the gods and as  the carrier of our oblations to them. Some of the tr̥cas show thematic or syntactic  unity (e.g., vss. 13–15 against demons and cheats), but the tr̥ca structure is not  prominent, and there are bridges across tr̥cas (e.g., the messenger theme in vss.  18–19).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

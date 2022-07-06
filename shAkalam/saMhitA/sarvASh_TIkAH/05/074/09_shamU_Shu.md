@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡म् ऊ षु꣡ वाम् मधूयुवा  
 अस्मा꣡कम् अस्तु चर्कृतिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡भिः श्येने꣡व दीयतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒र्वा॒ची॒ना । वि॒ऽचे॒त॒सा॒ । विऽभिः॑ । श्ये॒नाऽइ॑व । दी॒य॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śam*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M
 हे **मधूयुवा** मधुमन्तौ **वां** युवाभ्यां **चर्कृतिः** पुनःपुनः करणं युवाभ्यामर्थाय पुनः पुनः क्रियमाणं स्तोत्रं युवयोरागमनस्याभ्यासो वा **अस्माकं** **सु** सुष्ठु **शमु** सुखकरमेव **अस्तु** भवतु । हे **अर्वाचीना** अर्वागस्मदभिमुखाञ्चनौ हे **विचेतसा** विशिष्टप्रज्ञौ **श्येनेव** श्येनाविव **विभिः** गन्तृभिरश्वैः **दीयतं** गच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May our repeated adoration of you two, who are desirous of the libation, be productive of felicity; descending to our presence, and exceeding in wisdom, travel with rapid (steeds), swift as two falcons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our celebration of you be our luck, o honey-seekers.  
 Like a pair of falcons fly this way with your birds, o discerning ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May our laudation of you Twain, lovers of meath! be sweet to you.  
      Fly hitherward, ye wise of heart, like falcons with your winged steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser rühmliches Gedenken soll euch recht zusagen, ihr Süßesliebende. Flieget herwärts mit den Vogelrossen wie zwei Falken, ihr Einsichtsvolle!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Freude sei der Lobgesang euch recht, o die ihr Süsses liebt, Wie Adler flieget nah herbei mit Flügelrossen, weise ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет всячески вам на благо  
 О любители меда, наше прославление!  

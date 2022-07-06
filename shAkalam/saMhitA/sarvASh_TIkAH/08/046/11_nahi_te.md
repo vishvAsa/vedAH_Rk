@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नहि꣡ ते शूर रा꣡धसो  
 अ꣡न्तं विन्दा꣡मि सत्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 धि꣡यो वा꣡जेभिर् आविथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 द॒श॒स्य । नः॒ । म॒घ॒ऽव॒न् । नु । चि॒त् । अ॒द्रि॒ऽवः॒ । धियः॑ । वाजे॑भिः । आ॒वि॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nahi*
 - \[adverb\]
@@ -107,35 +107,35 @@ genre M
 हे **शूर** विक्रान्तेन्द्र **ते** तव **राधसः** धनस्य **अन्तम्** इयत्तां **सत्रा** सत्यं **नहि** विन्दामि न लभे। यस्मादेवं तस्मात् हे **मघवन्** धनवन् हे **अद्रिवः** वज्रवन्निन्द्र **नः** अस्माकं **नू** **चित्** क्षिप्रमेव **दशस्य** देहि तद्धनम् । किंच **वाजेभिः** वाजैरन्नैः **धियः** अस्मदीयानि कर्माणि **आविथ** रक्षः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, hero, I find no limit to your wealth; O **Maghavan**, the thunderer, bestow (your gifts) quickly uponus, and bless our offerings with (abundant) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For I do not find a limit to your generosity in any way, o champion. Show favor to us, bounteous possessor of the stone, even now. You have  aided our poetic insights with your prizes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Hero, nowhere can I find the bounds of thy munificence.  
      Still do thou favour us, O Bolt-armed Maghavan: with strength hast thou rewarded hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn nicht finde ich überhaupt ein Ende deiner Freigebigkeit, o Held. Sei uns auch ferner gewogen, Gabenreicher, Herr des Preßsteins! Du hast unseren Gedanken durch Belohnungen Wohlwollen bezeigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn nimmer finde ich, o Held, ein Ende deiner Spendelust; Sei stets, o mächt'ger Schleuderer, gewogen uns, durch Gaben lohntest du Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я ведь совсем не нахожу границы  
 Твоей щедрости, о герой.  

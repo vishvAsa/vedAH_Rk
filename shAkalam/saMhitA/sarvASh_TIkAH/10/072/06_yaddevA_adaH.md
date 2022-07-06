@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् देवा अदः꣡ सलिले꣡  
 सु꣡संरब्धा अ꣡तिष्ठत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तीव्रो꣡ रेणु꣡र् अ꣡पायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अत्र॑ । वः॒ । नृत्य॑ताम्ऽइव । ती॒व्रः । रे॒णुः । अप॑ । आ॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -105,7 +105,7 @@ popular;; epic anuṣṭubh (380)
 अनयोत्तरेण चादित्याः स्तूयन्ते । **यत्** यदा हे **देवाः** **अदः** अमुष्मिन् **सलिले** यूयं **सुसंरब्धाः** सुष्ठु लब्धात्मानः **अतिष्ठत** स्थितवन्तः ।  ‘ आपो वा इदं सर्वम्' ( तै. आ. १०. २२ )  ‘ अप एव ससर्जादौ ' (मनु.१.८) इति श्रुतिस्मृती । **अत्र** अस्मिन् सलिले **नृत्यतामिव** **वः** युष्माकं संबन्धी **तीव्रः** दुःसहः **रेणुः** अंशभूत एकः **अपायत** अपागच्छत् । दिवं प्रति गत इति सूर्याभिप्रायम् ।  ‘ परा मार्ताण्डमास्यत् ' इति वक्ष्यति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,28 +118,28 @@ Your abode in this pool: i.e., when the world was, yet water (āpo vā idam sarv
 Dust: or,particle, this refers to the sun mounting into the sky
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o gods, well clasped to one another, you stood there in the ocean, then the bitter dust [=spray] dispersed from you, like (the dust [=sweat?])  of those dancing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When ye, O Gods, in yonder deep closeclasping one another stood,  
      Thence, as of dancers, from your feet a thickening cloud of dust arose.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr Götter damals in der Flut euch fest aneinanderhaltend standet, da ging von euch heftiger Staub weg wie von Tanzenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dort ihr standet in der Flut, o Götter, wohl befestiget, Da flog von euch der dichte Staub hinweg gleichwie vom Tanzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о боги, там в воде  
 Вы стояли, крепко держась друг за другу,  

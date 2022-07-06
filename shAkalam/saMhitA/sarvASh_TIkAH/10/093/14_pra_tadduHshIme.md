@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ त꣡द् दुःशी꣡मे पृ꣡थवाने वेने꣡  
 प्र꣡ रामे꣡ वोचम् अ꣡सुरे मघ꣡वत्सु  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 पथा꣡ विश्रा꣡वि एषा᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ये । यु॒क्त्वाय॑ । पञ्च॑ । श॒ता । अ॒स्म॒ऽयु । प॒था । वि॒ऽश्रावि॑ । ए॒षा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -119,36 +119,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अधीक्वत्र सप्ततिं च सप्त च ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This I proclaim in the presence of Duśīma, Pṛthavāna, **Vena**, the mighty **Rāma**, and (other)opulent (princes); those who (come), having yoked five hundred (chariots), their affection for us is renowned onthe road.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I proclaim this in front of Duḥśīma, Pr̥thavāna, Vena, in front of Rāma  the lordly, in front of the patrons  
 who, having yoked five hundred, (sent) them along the path, destined  for us, (so that) their (priestly gift) has become widely famed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This to Duhsima Prthavana have I sung, to Vena, Rama, to the nobles, and the King.  
      They yoked five hundred, and their love of us was famed upon their way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das verkünde ich vor Duhsima, Prithavana, Vena, vor Rama, dem Gebieter, vor den Lohnherren, die anspannen ließen und für uns fünf Hundert anwiesen, daß es auf ihrem Wege ruchbar wurde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies habe ich vor dem Duççīma, dem Prithavāna, Vena, Rāma, dem Asura, den Fürsten angestimmt, deren Liebe zu uns, als sie fünfhundert [Rosse] angespannt hatten, auf ihrer Fahrt kund wurde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋष्वा꣡ ते पा꣡दा प्र꣡ य꣡ज् जि꣡गासि  
 अ꣡वर्धन् वा꣡जा उत꣡ ये꣡ चिद् अ꣡त्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आस꣡न् दधिषे अश्वि꣡ना꣡ ववृत्याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । इ॒न्द्र॒ । सा॒ला॒वृ॒कान् । स॒हस्र॑म् । आ॒सन् । द॒धि॒षे॒ । अ॒श्विना॑ । आ । व॒वृ॒त्याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣvā* ← *ṛṣva*
 - \[noun\], nominative, dual, masculine
@@ -128,36 +128,36 @@ genre M
 हे इन्द्र **ते** **पादा** पादौ **ऋष्वा** महान्तौ । तादृशस्त्वं **यत्** यदा **जिगासि** गच्छसि तदानीं **वाजाः** ऋभवः **अवर्धन** अवर्धयन् । **उत** अपि च **ये** **चित्** ये कैचन देवाः सन्ति तेऽप्यवर्धयन् । हे **इन्द्र** **त्वं** **सहस्रं** सालावृकान् **आसन्** आस्ये दधिषे धारयसि । तदानीम् **अश्विना** अश्विनावपि **आ** **ववृत्याः** आवर्तयेः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Vast, (**Indra**), are your feet; when you advance, the **Vājas**, and whatsoever (deities are) thereanimated you; you, Indra, hold a thousand jackals in yourmouth, may you bring back the **Aśvins**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lofty are your feet when you go forth. The Vājas and whatever (others)  were there strengthened (you).  
 You, Indra, took a thousand young hyenas in your mouth. You should  turn the Aśvins hither.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High are thy feet when on thy way thou goest: the strength thou foundest here hath lent thee vigour.  
      Thousand hyenas in thy mouth thou holdest. O Indra, mayst thou turn the Asvins hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hoch sind deine Füße, wenn du ausschreitest; die Vaja´s stärkten dich und welche Götter sonst noch dabei waren. Du Indra hast tausend Wölfe in den Mund gesteckt; du mögest die Asvin herbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gross sind deine Schritte, wenn du vorwärts gehst; es stärkten dich die Speisen und alle, welche dort waren (?); du, o Indra, nimmst tausend Sālā-Wölfe in den Mund; wende dich zu den Açvinen hin (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоки твои ноги, когда ты идешь вперед.  
 Тебя усилили Ваджи, а также кто только (был) там.  

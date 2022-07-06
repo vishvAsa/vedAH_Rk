@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा हो꣡ता नि꣡ असीदो य꣡जीयान्  
 इळ꣡स् पद꣡ इष꣡यन्न् ई꣡डियः स꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महो꣡ राये꣡ चित꣡यन्तो अ꣡नु ग्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । त्वा॒ । नरः॑ । प्र॒थ॒मम् । दे॒व॒ऽयन्तः॑ । म॒हः । रा॒ये । चि॒तय॑न्तः । अनु॑ । ग्म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -129,21 +129,21 @@ genre M
 **अध** अधुना हे अग्ने **यजीयान्** अतिशयेन यष्टा त्वं होता होमनिष्पादकः सन् **इळः** भूम्याः वेदिलक्षणायाः **पदे** स्थाने **न्यसीदः** निषण्णवानसि । किं कुर्वन् । **इषयन्** पशुपुरोडाशादिलक्षणमन्नमिच्छन् **ईड्यः** स्तुत्यः **सन्** । **तं** तादृशं **त्वा** त्वां **प्रथमम्** इतरदेवताभ्यः पूर्वं **देवयन्तः** देवं त्वामात्मन इच्छन्तः **नरः** नेतारो मनुष्या ऋत्विग्यजमानाः **महः** महते **राये** धनाय **चितयन्तः** जानन्तः स्तुत्या ज्ञापयन्तो वा **अनु** **ग्मन्** अन्वगच्छन् पूर्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offerer of the oblation, frequent celebrator of sacrifice, now sit down on the foot-m ark of Iḷā, accepting the (sacrirficial) food, and being glorified; devout men, expectant of great riches, have recourse to you as to the first (of the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then you sat down as Hotar, superior sacrificer, prospering in the  footprint of refreshment, to be reverently invoked.  
 You are the first that men have followed when they seek the gods,  
 distinguishing themselves greatly for wealth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b ends with one of the rare examples of non-concessive sán, nom. sg. m.
 
@@ -158,23 +158,23 @@ The first hemistich emphasizes this ritual connection: Agni “sits down” (tha
 On mahó rāyé see comm. ad IV.31.11. The interp. of the rest of pāda d is uncertain, primarily because of the multiply ambiguous citáya- stem. The pāda most resembles V.15.5 mahó rāyé citáyann átrim aspah, rendered by Geldner as “du hast jetzt zu grossem Reichtum dich offenbarend dem Atri (aus der Not) herausgeholfen” (though in our passage here he takes citáyantaḥ as “aufmerksam,” a completely different sense of citáya-) and in the published translation (JPB) as “…then appearing greatly for wealth, you have rescued Atri.” My published translation here (“distinguishing themselves”) is closest to Geldner’s tr. of V.15.5, though I think it adds a crucial element. The point must (or at least may) be that the men seek to make especially conspicuous offerings to the gods, via Agni, for the sake of acquiring the wealth that accrues to the successful sacrificer. The apparent reflexive tr. ‘distinguish oneself’ is really just an extension of the common value of citáya- ‘appear’/ ‘appear (good), be conspicuous’. Renou’s “fixant leur pensée sur la richesse (pour l'atteindre) grandement” is an extension of Geldner’s “attentive” sense, but I think he has extended too far.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As Priest thou sattest at the seat of worship, furthering us, best Offerer, meet for honour.  
      So first to thee have pious men resorted, turning thy mind to thoughts of ample riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum setztest du, der opfertüchtige Hotri dich nieder an der Stätte der Labung, Labung genießend als der zu Berufende. Als solchem gingen dir zuerst die gottergebenen Männer nach, aufmerksam, um den großen Schatz zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann setztest du am Andachtsort dich nieder, als bester Opfrer, preisenswerth, erlabend; Drum strebten dir die gottergebnen Männer als erstem nach auf grosse Habe sinnend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот ты уселся, как хотар, жертвующий лучше (всякого другого),  
 На месте жертвенной услады, освежаясь как достойный призывов.  

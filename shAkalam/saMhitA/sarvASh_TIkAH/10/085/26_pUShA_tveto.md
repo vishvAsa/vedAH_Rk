@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषा꣡ त्वेतो꣡ नयतु हस्तगृ꣡ह्य  
 अश्वि꣡ना त्वा प्र꣡ वहतां र꣡थेन  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वशि꣡नी त्वं꣡ विद꣡थम् आ꣡ वदासि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 गृ॒हान् । ग॒च्छ॒ । गृ॒हऽप॑त्नी । यथा॑ । असः॑ । व॒शिनी॑ । त्वम् । वि॒दथ॑म् । आ । व॒दा॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
@@ -140,42 +140,42 @@ popular
 **हस्तगृह्य** ग्राह्यहस्तः पूषा **त्वा** त्वाम् इतः **नयतु** प्रापयतु । **अश्विना** अश्विनौ **त्वा** त्वां **रथेन** **प्र** **वहतां** प्रगमयताम् । **गृहान्** भर्तृसंबन्धिनः **गच्छ** त्वं **गृहपत्नी** **यथासः** भवसि स्वगृहस्वामिनी भवसि । **वशिनी** सर्वेषां गृहगतानां वंशं प्रापयित्री पत्युर्वशे वर्तमाना वा **विदथं** पतिगृहम् **आ** **वदासि** आवदसि । गृहस्थितं भृत्यादिजनमावद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Pūṣan** lead you hence, taking you by the **hand**; may the **Aśvins** convey you away in their car,go to the dwelling (of your husband) as you are the mistress of the house; you, submissive (to your husband),give orders to his household.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Pūṣan lead you from here, having taken you by the hand. Let the  Aśvins convey you forth in their chariot.  
 Go to the house, so that you will be mistress of the house. Exerting  
 your will you will announce the ceremonial distribution.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Pusan take thy hand and hence conduct thee; may the two Asvins on their car transport thee.  
      Go to the house to be the household's mistress and speak as lady ito thy gathered people.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Let Pūṣan lead thee home, thy hand well grasping, And let the Aśvins on their chariot drive thee. Go to thy home that thou may'st be its mistress, And with authority address the synod.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan soll dich von hinnen führen, deine Hand fassend; die Asvin sollen dich auf ihrem Wagen weiterfahren. Gelang ins Haus, auf daß du die Hausfrau werdest. Du mögest als Gebieterin weise Rede führen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Puschan führe dich von hier, dich an der Hand ergreifend; die beiden Açvinen mögen dich auf ihrem Wagen fahren; zieh nach dem Hause, damit du Hausfrau werdest, und du als Gebieterin zu der Hausgemeinde redest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да уведет тебя Пушан отсюда, взявши за руку!  
 Да отвезут тебя Ашвины на колеснице!  

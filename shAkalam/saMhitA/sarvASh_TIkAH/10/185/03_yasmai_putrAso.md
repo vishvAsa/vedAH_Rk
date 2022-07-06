@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मै पुत्रा꣡सो अ꣡दितेः  
 प्र꣡ जीव꣡से म꣡र्तियाय  
 ज्यो꣡तिर् य꣡छन्ति अ꣡जस्रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 ज्योतिः॑ । यच्छ॑न्ति । अज॑स्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -76,7 +76,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **अदितेः** अदीनाया देवमातुः **पुत्रासः** पुत्रा मित्रादयः **यस्मै** **मर्यार्य** मनुष्याय स्तोत्रे **अजस्रम्** अविच्छिन्नं **ज्योतिः** तेजः **जीवसे** जीवितुं **प्र** **यच्छन्ति** तस्य शत्रुर्नेश्वर इत्यर्थः ॥ ॥४३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,28 +87,28 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **Yajus**. 3.31-33)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For whom the sons of Aditi hold forth inexhaustible light,  
 for the mortal to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nor over him,. the man on whom the Sons of Aditi bestow Eternal light that he may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welchem Sterblichen der Aditi Söhne zum Leben ihr ewiges Licht gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem, Söhne ihr der Aditi, das Licht, das unauslöschliche, Darreicht, damit er lebend sei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какому смертному сыновья  
 Адити даруют немеркнущий  

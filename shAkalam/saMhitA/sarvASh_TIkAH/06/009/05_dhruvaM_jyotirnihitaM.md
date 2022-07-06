@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवं꣡ ज्यो꣡तिर् नि꣡हितं दृश꣡ये क꣡म्  
 म꣡नो ज꣡विष्ठम् पत꣡यत्सु अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡कं क्र꣡तुम् अभि꣡ वि꣡ यन्ति साधु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 विश्वे॑ । दे॒वाः । सऽम॑नसः । सऽके॑ताः । एक॑म् । क्रतु॑म् । अ॒भि । वि । या॒न्ति॒ । सा॒धु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvaṃ* ← *dhruvam* ← *dhruva*
 - \[noun\], nominative, singular, neuter
@@ -132,7 +132,7 @@ genre D
 **ध्रुवं** निश्चलं **मनः** मनसः तस्मादपि **जविष्ठम्** अतिशयेन वेगवत् ईदृशं वैश्वानराख्यं **ज्योतिः** **पतयत्सु** गच्छत्सु जङ्गमेषु प्राणिषु **अन्तः** मध्ये **निहितं** प्रजापतिना स्थापितम् । किमर्थम् । **दृशये** **कम्** । दर्शनार्थम् । किंच **विश्वे** सर्वे **देवाः** च **समनसः** समानमनस्काः **सकेताः** समानप्रज्ञाश्च सन्तः **एकं** मुख्यं गन्तारं वा **क्रतुं** कर्मणां कर्तारं **साधु** सम्यक **अभि** **वि** **यन्ति** आभिमुख्येन विविधं प्राप्नुवन्ति सेवन्त इत्यर्थः । यद्वा । पतयत्सु गच्छत्सु प्राणिष्वन्तर्मध्ये हृदये मनो जविष्ठं मनसोऽप्यतिशयेन वेगयुक्तं ध्रुवं निश्चलं निर्विकल्पम् । तथा च वाजसनेयकम्-- अनेजदेकं मनसो जवीयः' (वा. सं. ४०. ४ ) इति । ज्योतिर्ब्रह्म चैतन्यं निहितम् । न केनचित् स्थापितम् । **यो** वेद निहितं गुहायां परमे व्योमन' (तै. आ. ८. १ ) इति हि श्रूयते । किमर्थम् । दृशये दर्शनार्थम् । ज्ञानेन हि सर्वं जानन्ति । अपि च । दीव्यन्तीति देवा इन्द्रियाणि । विश्व सर्वे देवाः सर्वाणीन्द्रियाणि चक्षुराद्याः समनसो मनसा सह वर्तमानाः सकेताः सतेजस्काः सन्त एकमद्वितीय क्रतुं सृष्टयादीनां कर्मणां कर्तारं विश्वनरात्मकं परमात्मानमभिलक्ष्य साधु सम्यक् वि यन्ति विविधं गच्छन्ति । देवा एव वेममभि वि यन्ति । आभिमुख्येन विविधमुपयन्ति । उपासत इत्यर्थः । तथा च श्रूयते -- तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतम्' (बृ. उ. ४. ४. १६) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,13 +143,13 @@ genre D
 A steady light: According to the vedāntins, the light is **brahma**, seated spontaneously in the heart as the means of true knowledge, to which all the senses, together with the mind and consciousness, refer, as to the one cause of creation, or **paramātmā**, **supreme spirit**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The steadfast light, set down to be seen—the mind swiftest among (all)  those that fly—  
 all the gods, of one mind and one perception, come separately straight to  (him) as their single resolve.784 VI.10
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -169,23 +169,23 @@ The two vss. are also contrastive. In 5 all the gods sharing the same mind and t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A firm light hath been set for men to look on: among all things that fly the mind is swiftest.  
      All Gods of one accord, with one intention, move unobstructed to a single purpose.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist das Licht, das zum Schauen dauernd eingepflanzt ist: der Gedanke, der unter den fliegenden Wesen das schnellste ist. Alle Götter einmütig, einstimmig begegnen sich richtig in dem einen Gedanken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das stete Licht ist hingesetzt zum Schauen, das unter dem, was fliegt, gedankenschnellste; Die Götter alle gleichen Sinns und Willens, gehn graden Weges auf das eine Werk hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочный свет установлен, чтобы (его) видели, –  
 Мысль – быстрейшее из того, что летает.  

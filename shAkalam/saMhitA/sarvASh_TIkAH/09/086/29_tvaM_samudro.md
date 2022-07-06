@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ समुद्रो꣡ असि विश्ववि꣡त् कवे  
 त꣡वेमाः꣡ प꣡ञ्च प्रदि꣡शो वि꣡धर्मणि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡व ज्यो꣡तींषि पवमान सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । द्याम् । च॒ । पृ॒थि॒वीम् । च॒ । अति॑ । ज॒भ्रि॒षे॒ । तव॑ । ज्योतीं॑षि । प॒व॒मा॒न॒ । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -135,21 +135,21 @@ genre M
 हे **कवे** क्रान्तप्रज्ञ **त्वं** यस्मात् **समुद्रः** वर्षसाधनोऽपाम् अतः **विश्ववित्** **असि** । यद्वा । समुद्रो द्रवात्मकोऽसि विश्वविच्चासि । किंच **तव** **विधर्मणि** विधारणे **पञ्च** **प्रदिशः** प्रकृष्टा दिशो भवन्तीति शेषः । **त्वं** **द्यां** **च** दिवं च **पृथिवीं** **च** **अति** **जभ्रिषे** बिभर्षि । हे **पवमान** **सूर्यः** देवः **तव** **ज्योतींषि** आप्याययति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, O sage, are the ocean, you are omniscient; these five regions (rest) on your support; you sustain both heaven and earth; the sun, O **Pavamāna** (nourishes) your luminaries.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the sea, o poet, the all-knowing [/-finding] one; yours are these  five regions in your [/their] expansion.  
 You have carried yourself beyond heaven and earth; yours are the  
 lights, self-purifying one, and the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The cmpd. viśva-víd- is ambiguous here. Geldner and Renou both tr. as ‘allknowing’, and that is favored by the context, since it is immediately followed by the voc. kave (‘sage poet’). But the cmpd recurs in the very similar pāda, 39c tváṃ suvī́ro asi soma viśvavít, and that vs. contains three similarly formed cmpds that surely belong to √vid ‘find’: IX.86.39a govít … vasuvíd dhiraṇyavít. There the context favors ‘all-finding’. (Scarlatta treats the two roots √vid together [489], so he is not forced to distinguish.) I suggest, as usual, that it’s a pun.
 
@@ -166,23 +166,23 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the sea, O Sage who bringest alf to light: under thy Law are these five regions of the world.  
      Tlou reachest out beyond the earth, beyond the heavens: thine are the lights, O Pavamana, thine the Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist das Meer, du, Seher, bist der Allwissende. Dein sind diese fünf Weltgegenden in ganzer Ausdehnung; du hast dich über Himmel und Erde erhoben, dein sind die Himmelslichter, die Sonne, o Pavamana.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Meer bist du, o weiser, der du alles hast, in deinem Schütze stehn die fünf Weltgegenden, Du ragest über Erd' und Himmel weit hinaus, und Sonne ist, o heller, deiner Lichter Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

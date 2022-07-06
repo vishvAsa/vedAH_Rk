@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईयु꣡र् गा꣡वो न꣡ य꣡वसाद् अ꣡गोपा  
 यथाकृत꣡म् अभि꣡ मित्रं꣡ चिता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्रुष्टिं꣡ चक्रुर् नियु꣡तो र꣡न्तयश् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पृश्नि॑ऽगावः । पृश्नि॑ऽनिप्रेषितासः । श्रु॒ष्टिम् । च॒क्रुः॒ । नि॒ऽयुतः॑ । रन्त॑यः । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
@@ -117,20 +117,20 @@ genre M
 यदेन्द्रः सुदासो रक्षणार्थमागच्छति तदा **पृश्निनिप्रेषितासः** पृश्निनिप्रेषिताः पृश्न्या मात्रा नितरां प्रहिताः **चितासः** संहता जानन्तो वा **पृश्निगावः** । पृश्निवर्णा गावोऽश्वा येषां ते पृश्निगावः मरुतः **यथाकृतम्** इन्द्रस्य साहाय्यं करवामेति यथा पूर्वं समयः कृतस्तं समयमनतिक्रम्य **मित्रम्** इन्द्रं **यवसात्** । निमित्तार्थे पञ्चमी । यवसं निमित्तीकृत्य **अगोपाः** गोपालेनारक्षिताः **गावो** **न** गाव इव अभि **ईयुः** अभिजग्मुः । **रन्तयः** रममाणाः **नियुतः** मरुतामश्वाः **च** । **श्रुष्टिं** शीघ्रप्राप्तिं **चक्रुः** । तस्मिन् युद्धे मरुत इन्द्रं साहाय्यार्थमभ्यगच्छन्नित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They who ride on particoloured cattle, (the **Maruts**), despatched by **Pṛṣṇi** and recalling theengagement made by them with their friend (**Indra**), came like cattle from the pasturage, when left without aherdsman; the exulting **Niyut** steeds brought them quickly (against the foe).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They went like cows without a cowherd from a pasture, (though)  seeming (to go) to an alliance properly concluded—  
 the Pr̥śnigus, propelled down to the dappled one [/P(a)r(u)ṣṇī]. The  teams and the battlers [?] followed orders.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. begins īyúr gā́vo ná, very similar to the opening of the preceding vs. 9 īyúr árthaṃ ná. The simile of the cows without a cowherd (gā́vo ná … ágopāḥ) presumably depicts the disordered flight of the troops that have lost their leader.
 
@@ -147,23 +147,23 @@ In d ránti- is problematic. In its other occurrence, IX.102.5, it clearly means
 The phrase śruṣṭím cakruḥ opening d, “they followed orders,” forms a ring with the same phrase in 6c. This is, at first, puzzling, since vss. 6-10 do not appear to form a discrete section. However, on 2nd glance we can note that these five vss. mark out the most intense and name-heavy portion of the battle. Starting with the next vs. Indra takes over the fighting, and the hymn turns to the celebration of Indra and his victorious feats; vs. 5, preceding this section, also attributes the whole victory to Indra. The god is absent from 6-10, with the combatants on their own and engaged in pitched battle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They went like kine unherded from the pasture, each clinging to a friend as chance directed.  
      They who drive spotted steeds, sent down by Prsni, gave ear, the Warriors and the harnessed horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie gingen wie Rinder ohne Hirten von der Weide zu zufällig geschlossener Freundschaft geschart. Die Prisnigu´s, von der Prisni abwärts getrieben, leisteten willig Folge, ihre Gespanne und ihre ........
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie hirtenlose Kühe von der Weide entflohn gesellt dem Freund sie, wie sich's fügte, Mit bunten Rindern hin zur bunten Erde, es folgte nach der Tross mit seiner Ladung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно коровы с пастбища без пастуха,  
 Шли они, собранные для случайного союза,  

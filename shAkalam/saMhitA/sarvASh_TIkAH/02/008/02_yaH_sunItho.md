@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सुनीथो꣡ ददाशु꣡षे  
 अजुर्यो꣡ जर꣡यन्न् अरि꣡म्  
 चा꣡रुप्रतीक आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 चारु॑ऽप्रतीकः । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -78,20 +78,20 @@ genre M
 सुनीथःशोभाननयनः अनुर्यः अजरणीयः अनभिचव्यः वारुप्रतीकः शोभनोपक्रमोयोस्तिसोग्निः ददा- शुषेहविर्दत्तवते यजमानायतदर्थं अरिन्तस्यश्त्रुं जरयन् नाशयन् आहुतः समन्तात् आराधितोभवति ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, sagacious, invincible, and of graceful gait destroys, when propitiated, his foe, for him who presents (offerings).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who offers good guidance to the one doing pious work, himself unaging  but aging the other,  
 whose countenance is lovely when he is bepoured,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
 <details open><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -100,28 +100,28 @@ The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, guiding worshippers aright, withers, untouched by age, the foe:  
      When worshipped fair to look upon;
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who is the best leader for his worshipper, who undecaying makes the malign decay 1, the cheerful-faced who has been worshipped with offerings—
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ein guter Führer für den freigebigen Opferer ist, ohne sich selbst aufzureiben den Nebenbuhler aufreibt, von schönem Aussehen, wenn ihm Schmalz geopfert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schön dem Frommen Bahnen schafft, nicht alternd altern lässt den Feind, Durch Opfergüsse froh erstrahlt
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Того,) кто добрый вождь для почитающего (его),  
 Кто старит врага, не старея (сам),  

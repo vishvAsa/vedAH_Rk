@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ अग्न एना꣡ न꣡मसा स꣡मिद्धो  
 अ꣡छा मित्रं꣡ व꣡रुणम् इ꣡न्द्रं वोचेः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् अर्यमा꣡ अ꣡दितिः शिश्रथन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । सी॒म् । आगः॑ । च॒कृ॒म । तत् । सु । मृ॒ळ॒ । तत् । अ॒र्य॒मा । अदि॑तिः । शि॒श्र॒थ॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -143,41 +143,41 @@ genre M
 हे **अग्ने** **सः** त्वम् **एना** एनेन **नमसा** अन्नेनास्मदीयेन हविषा **समिद्धः** संदीप्तः सन् **मित्रं** **वरुणमिन्द्रं** च **अच्छ** **वोचेः** अभिब्रूयाः । अयमस्मदीयो रक्षणीय इति कथय । वयं **यत्** **आगः** अपराधम् । सीमिति परिग्रहार्थीयः । **सीं** सर्वतो वाङ्मनःकायैः **चकृम** कृतवन्तो वयं **तत्** तस्मादागसः **सु** **मृळ** अस्मान् सुष्ठु रक्ष । **तत्** चागः **अर्यमा** **अदितिः** मिश्रादयश्च **शिश्रथन्तु** अस्मत्तो वियोजयन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Kindled, **Agni**, by this adoration, do you recommend us to **Mitra**, **Varuṇa**, and **Indra**; whatever sin wemay have committed, do you expiate, and may **Aryaman**, **Aditi** (and Mitra) remove it (from us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, kindled by this reverence, you should call Mitra, Varuṇa, and  Indra here.  
 Whatever offense we have committed, that forgive; that let (them and)  Aryaman and Aditi unloose (from us).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d the verb is pl. (śiśrathantu), but only two gods, Aryaman and Aditi, are mentioned in the pāda; the subjects must therefore include the gods found in b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So Agni, kindled mid this adoration, invite thou Mitra, Varuna, and Indra.  
      Forgive whatever sin we have committed may Aryaman and Aditi remove it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, mögest mit dieser Verbeugung entzündet den Mitra, Varuna, Indra einladen. Wenn wir ein Versehen begangen haben, so verzeih uns das fein! Aryaman, Aditi sollen es uns erlassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum, Agni, sprich, durch dies Gebet entzündet, dem Mitra zu, dem Varuna und Indra; welch Unrecht wir begangen, das vergib uns, das mög' Arjaman, Aditi verzeihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, зажженный с таким поклонением,  
 пусть пригласишь ты Митру, Варуну, Индру!  

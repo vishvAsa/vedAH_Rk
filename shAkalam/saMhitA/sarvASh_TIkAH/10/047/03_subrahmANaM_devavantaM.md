@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुब्र꣡ह्माणं देव꣡वन्तम् बृह꣡न्तम्  
 उरुं꣡ गभीर꣡म् पृथु꣡बुध्नम् इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 श्रु॒तऽऋ॑षिम् । उ॒ग्रम् । अ॒भि॒मा॒ति॒ऽसह॑म् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *subrahmāṇaṃ* ← *su*
 - \[adverb\]
@@ -122,36 +122,36 @@ genre M;; repeated line
 हे **इन्द्र** त्वं **सुब्रह्माणम्** । ब्रह्म परिवृढं स्तुतिलक्षणं कर्म । शोभनस्तुतिकमित्यर्थः। **देववन्तं** **बृहन्तं** महान्तम् **उरुं** विस्तीर्णं **गभीरम्** असुरादिभिरगम्यं पृथुबुध्नं विस्तृतमूलं **श्रुतऋषिं** श्रुता ऋषयो येन तादृशमृषीणां ख्यापयितारं प्रथितज्ञानं वा **उग्रम्** उद्गूर्णबलमत एव **अभिमातिषाहम्** अभिमातीनां शत्रूणामभिभवितारं हन्तारम् **अस्मभ्यं** **चित्रं** पूज्यं **वृषणं** वर्षकं पुत्रं **रयिं** धनं च **दाः** देहि । अथवा विशेषणविशेष्यभावः । उक्तलक्षणं पुत्राख्यं रयिं दाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us, **Indra**, various fertilizing riches, the fit object of prayer, honoured by the gods, large, vast,”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Accompanied by good sacred formulations, accompanied by the gods,  lofty, wide, deep, broad-based, o Indra,  
 accompanied by famous seers, powerful, vanquishing hostility. – To us  give bright, bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealth, with good Brahmans, Indra! God-attended, high, wide, and deep, arid based on broad foundations,  
      Strong, with famed Rsis, conquering our foemen: vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der im heiligen Worte tüchtig, gottbegünstigt, groß, weit, tief, auf breiter Grundlage ruht, o Indra, aus berühmten Rishi´s besteht, gewaltig, die Bedroher bezwingt! - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib viel erbetnen, gottbeschirmten Reichthum, der weit und tief auf breitem Boden wurzelt, Der Feinde schlagt, den Sänger rühmen, Indra! den schenke uns, den mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Связанное с прекрасным священным словом, одобренное богами, высокое,  
 Широкое, глубокое, с обширной основой, о Индра,  

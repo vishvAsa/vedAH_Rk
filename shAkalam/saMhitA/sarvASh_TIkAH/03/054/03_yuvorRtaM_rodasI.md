@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवो꣡र् ऋतं꣡ रोदसी सत्य꣡म् अस्तु  
 महे꣡ षु꣡ णः सुविता꣡य प्र꣡ भूतम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सपर्या꣡मि प्र꣡यसा या꣡मि र꣡त्नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒दम् । दि॒वे । नमः॑ । अ॒ग्ने॒ । पृ॒थि॒व्यै । स॒प॒र्यामि॑ । प्रय॑सा । यामि॑ । रत्न॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
@@ -130,36 +130,36 @@ genre M;; repeated line
 छान्दसः। भूतम् । भवतेर्लोटि  बहुलं छन्दसि ' इति शपो लुकि रूपम् । यद्वा । छान्दसे लुङि सिचः  ‘ गातिस्था° ' इति लुक् । निघातः । दिवे पृथिव्यै । ' नमः स्वस्ति°' (पा. सू. २. ३.१६ ) इत्यादिना चतुर्थी । सपर्यामि । कण्ड्वादिः परिचरणे वर्तते । प्रत्ययस्वरः। यामि । यातेर्लटि रूपम् । वाक्यभेदादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Heaven and earth, may your truth be ever inviolable; be propitious to us for the due completion of the rite; this adoration (**Agni**) is offered to heaven and earth; I worship (them) with (sacrificial) food; I solicit of them precious (wealth).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your truth be real, you two world-halves. Come to the fore for our  great welfare.  
 Here is homage to Heaven and to Earth, o Agni. I render service with a  pleasurable offering; I beg for a treasure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heaven and Earth, may your great law he faithful: he ye our leaders for our high advantage.  
      To Heaven and Earth I offer this my homage, with food, O Agni, as I pray for riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer Gesetz soll die Wahrheit sein, Himmel und Erde! Tretet fein für unser großes Wohlergehen ein! Diese Verbeugung gilt dem Himmel, der Erde, o Agni. Ich warte mit einem Labsal auf; ich bitte um Belohnung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch, Welten beide, sei das Opfer wirksam, zu grossem Wohlstand mögt ihr uns voran gehn; Dem Himmel weih' ich dies Gebet, der Erde, durch Opferspeise komme ich zu Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет истинным ваш закон, о две половины вселенной!  
 Вступитесь за нас хорошенько на великую удачу!  

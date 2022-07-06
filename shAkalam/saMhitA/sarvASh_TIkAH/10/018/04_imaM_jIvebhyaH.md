@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ जीवे꣡भ्यः परिधिं꣡ दधामि  
 मइ꣡षां नु꣡ गाद् अ꣡परो अ꣡र्थम् एत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्त꣡र् मृत्युं꣡ दधताम् प꣡र्वतेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 श॒तम् । जी॒व॒न्तु॒ । श॒रदः॑ । पु॒रू॒चीः । अ॒न्तः । मृ॒त्युम् । द॒ध॒ता॒म् । पर्व॑तेन ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -123,7 +123,7 @@ popular
 अनया जीवरक्षार्थं पाषाणं परिधिरूपेण स्थापयन्ति । **जीवेभ्यः** जीवद्भ्यः पुत्रपौत्रादिभ्यस्तेषां रक्षणार्थमेवं **परिधिं** मृत्योः परिधानभूतं पाषाणं **दधामि** निदधामि । ततः **एषां** जीवतां मध्ये **अपरः** अन्यः **एतम्** इमम् **अर्थम्** । अर्तेरिदं रूपम् । गन्तव्यं मरणाख्यं मार्गं **नु** क्षिप्रं **मा** **गात्** मा गच्छतु । एतदर्थं परिधिं स्थापयामीति संबन्धः। किंच **पुरूचीः** बह्वञ्चना बहुगमनाः **शतं** **शरदः** एतत्संख्याकान् वर्षान् **जीवन्तु** स्वस्वप्राणान् धारयन्तु । तथा **पर्वतेन** शिलोच्चयेन **मृत्युं** सर्वेषां मारकमेतन्नामकम् **अन्तः** दधताम् अन्तर्हितं कुर्वन्तु । यथा नागच्छति तथा कुर्वतामित्यर्थः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ I erectthis circle of stones: after the burning of the body, the **Adhvaryu** is
 **Paridhi** = a stone rampart (pāṣāṇam)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I set down this barrier here for the living. Let no one of these later go to  this goal.  
 Let them live for a hundred ample autumns. Let them conceal death with  a mountain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here I erect this rampart for the living; let none of these, none other, reach this limit.  
      May they survive a hundred lengthened autumns, and may they bury Death beneath this mountain.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For those that live do I set up this limit, May now no other one this goal encounter. May they exist a hundred ample autumns: By this stone may they death remove far from them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Schranke setze ich für die Lebenden , nicht möge ein anderer unter ihnen zu diesem Ziele gelangen. Sie sollen hundert reichliche Herbste leben und den Tod mit diesem Berge absperren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Schutzwehr setz' ich hier für die, die leben, dass ihrer keiner lauf nach diesem Ziele, Sie mögen hundert reiche Herbste leben, durch diesen Stein den Tod von sich hinwegthun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту преграду я устанавливаю для живых.  
 Пусть же никто другой среди них не отправится к этой цели!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अबुध्ने꣡ रा꣡जा व꣡रुणो व꣡नस्य  
 ऊर्ध्वं꣡ स्तू꣡पं ददते पूत꣡दक्षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ अन्त꣡र् नि꣡हिताः केत꣡वः स्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नी॒चीनाः॑ । स्थुः॒ । उ॒परि॑ । बु॒ध्नः । ए॒षा॒म् । अ॒स्मे इति॑ । अ॒न्तः । निऽहि॑ताः । के॒तवः॑ । स्यु॒रिति॑ स्युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abudhne* ← *abudhna*
 - \[noun\], locative, singular, neuter
@@ -126,7 +126,7 @@ popular
 **पूतदक्षः** शुद्धबलः **वरुणः** **राजा** **अबुध्ने** मूलरहिते अन्तरिक्षे तिष्ठन् **वनस्य** वननीयस्य तेजसः **स्तूपं** संघम् **ऊर्ध्वम्** उपरिदेशे **ददते** धारयति । **नीचीनाः** **स्थुः** । ऊर्ध्वदेशे वर्तमानस्य वरुणस्य रश्मय इत्यध्याहार्यम् । ते ह्यधोमुखास्तिष्ठन्ति । **एषां** रश्मीनां **बुध्नः** मूलम् **उपरि** तिष्ठतीति शेषः। तथा सति **केतवः** प्रज्ञापकाः प्राणाः **अस्मे** अस्मासु **अन्तर्निहिताः** स्थापिताः स्युः मरणं न भविष्यतीत्यर्थः ॥ अबुध्ने । न विद्यते बुध्नः मूलम् अस्य इति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । स्तूपम् । ‘स्त्यै शब्दसंघातयोः । ‘स्त्यः संप्रसारणमूञ्च' इति पप्रत्ययः; तत्संनियोगेन यकारस्य संप्रसारणं परपूर्वत्वे ऊकारादेशश्च । नित्' इत्यनुवृत्तेराद्युदात्तत्वम् । ददते । भौवादिकः । नीचीनाः । निपूर्वात् अञ्चतेः ‘ऋत्विक् ' इत्यादिना क्विन् । “ अनिदिताम्' इति नलोपः । न्यच्शब्दात्स्वार्थे ' विभाषाञ्चेरदिक्स्त्रियाम् ' ( पा. सू. ५. ४. ८) इति खः । ‘आयन्' इत्यादिना तस्य ईनादेशः । ‘आयनादिषूपदेशिवद्वचनं स्वरसिध्यर्थम् ' ( पा. सू. ७. १. २. १ ) इति वचनात् ईकार उदात्तः । ‘अचः' इति अकारलोपे ‘चौ ' इति दीर्घत्वम् । स्थुः । ‘गातिस्था ' ( पा. सू. २. ४. ७७ ) इत्यादिना सिचो लुक् ।' आतः' ( पा. सू. ३. ४. ११० ) इति झेः जुसादेशः । उस्यपदान्तात् ' ( पा. सू. ६. १. ९६) इति पररूपत्वम् । ‘बहुलं छन्दस्यमाङ्योगेऽपि' इति अडागमाभावः । अस्मे । ‘सुपां सुलुक् ' इति सप्तम्याः शेआदेशः । निहिताः । गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । स्युः। अस्तेर्लिङि ‘ श्नसोरल्लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ Abudhne = in the baseless; **mūla**-rahite = antarikṣe, in the sky; vanasya s
 Saṅgham = a heap; Varuṇa is an **Āditya**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In (the airy realm) without a base, King Varuṇa of purified skill firmly  holds the crest of the (nyāgrodha) tree on high.  
 They [=its trunks] reach downward, their base above. They should be set  down as beacons within us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Varuna, King, of hallowed might, sustaineth erect the Tree's stem in the baseless region.  
      Its rays, whose root is high above, stream downward. Deep may they sink within us, and be hidden.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im bodenlosen Raum hält König Varuna von lauter Willenskraft die Krone des Baumes oben fest. Nach unten senken sie sich, oben ist ihre Wurzel. In uns mögen die Strahlen befestigt sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der heil'ge König Varuna hält aufrecht, des Baumes Schopf im bodenlosen Raume; Es steigen nieder, ihre Wurzel aufwärts, die Strahlen; mögen sie in uns sich senken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В бездонном (пространстве) царь Варуна с чистой силой действия  
 Держит прямо вершину дерева.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ ते धि꣡यम् प्र꣡ भरे महो꣡ मही꣡म्  
 अस्य꣡ स्तोत्रे꣡ धिष꣡णा य꣡त् त आनजे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रं देवा꣡सः श꣡वसामदन्न् अ꣡नु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । उ॒त्ऽस॒वे । च॒ । प्र॒ऽस॒वे । च॒ । स॒स॒हिम् । इन्द्र॑म् । दे॒वासः॑ । शव॑सा । अ॒म॒द॒न् । अनु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -143,7 +143,7 @@ genre M
 हे इन्द्र **महः** महतः ते तव **इमाम्** इदानीं क्रियमाणां **महीं** महतीम् अत्यन्तोत्कृष्टां **धियं** स्तुतिं **प्र** **भरे** प्रकर्षेण संपादयामि । **ते** तव **धिषणा** त्वदीया बुद्धिः **अस्य** मम स्तोतुः **स्तोत्रे** स्तुतौ **यत्** यस्मात् **आनजे** अक्ता संश्लिष्टासीत् । तस्मात् तव प्रियां स्तुतिं करोमीत्यर्थः । उत्तरोऽर्धर्चः परोक्षकृतः । **ससहिं** शत्रूणामभिभवितारं पूर्वोक्तं **तम्** **इन्द्रं** **देवासः** कर्मसु दीव्यन्तः ऋत्विजः **शवसा** स्तुतिभिः कीर्तितेन बलेन **अनु** **अमदन** अनुक्रमेण हर्षं प्रापयन् । किमर्थम् । **उत्सवे** **च** उत्सवार्थमभिवृद्ध्यर्थं **प्रसवे** **च** धनानां वृष्ट्युदकानां वा उत्पत्त्यर्थं च ॥ आनजे। ‘ अञ्जू व्यक्तिम्रक्षणगतिषु' । अस्मात् कर्मणि लिट् । द्विर्वचनहलादिशेषौ। अत आदेः' इति अभ्यासस्य आत्वम् । ‘ तस्मान्नुड्द्विहलः ' ( पा. सू. ७. ४. ७१ ) इति नुट् । व्यत्ययेन उपधानकारलोपः। उत्सवे । प्रसवे । 'षू प्रेरणे'। ‘ ऋदोरप्' इति भावे अप् । ‘ निमित्तात्कर्मसंयोगे' ( पा. सू. २. ३. ३६. ६) इति सप्तमी। थाथादिना उत्तरपदान्तोदात्तत्वम् । ससहिम् । षह अभिभवे ।' आदृगमहन ' इत्यत्र ‘ उत्सर्गश्छन्दसि ' इति वचनात् किप्रत्ययः । लिङ्वद्भावात् द्विर्वचनम् । अन्येषामपि दृश्यते ' इति संहितायामभ्यासस्य दीर्घत्वम् । अमदन् । ‘मदी हर्षे '। हेतुमति णिच् । मदी हर्षग्लेपनयोः' इति घटादिषु पाठात् ‘मितां ह्रस्वः' इति ह्रस्वत्वम् । छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ' णेरनिटि ' इति णिलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -154,13 +154,13 @@ genre M
 Parācais = abhimukham eva, as if present; are in combination with: the sun and fire are the lustre of Indra; fire combines with the sun (saṃpṛcyate) in the day; the sun combines with fire in the night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I present this great visionary thought to you, the praiser of this great  one, when the Holy Place [=the earth] has been anointed for you.  
 The one victorious in his upsurging and his outsurging, Indra with his  vast power did the gods cheer on.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, I interpret the first half-verse very differently from the standard tr. The three major deviations from the ordinary interpretations are the following: 1) I take te in pāda a as referring to the poet, who is also the subj. of the 1st ps. verb prá bhare. This is the most radical of the departures and requires the most special pleading. 2) Rather than the loc. sg. of neut. stotrá- ‘praise song’ (a loc. not found elsewhere in the RV), I take stotré as the dat. sg. of the agent noun stotár- ‘praiser’, coreferential with te in a. This dat. is very common in the RV. 3) I take the first two words of b (asyá stotré) with the main cl. in a, starting the rel. cl. with dhiṣáṇā. This accords better with the placement patterns of yá- subordinators, which ordinarily do not follow more than one constituent.
 
@@ -172,23 +172,23 @@ as the poet. Despite the complications of my interpretation, it solves the diffi
 But what does it mean, in my interpretation, when the poet says “I present to you this thought,” with both “I” and “you” referring to himself. As I suggest in the published introduction, the poet is announcing that he has finished composing the hymn, which can now be recited to the god at the ritual performance, also by himself (the poet). A slightly attenuated alternative would be to take te as referring to a different member of the larger group of ritual performers, who is charged with reciting the hymn that “I” have just composed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee the Mighty One I bring this mighty hymn, for thy desire hath been gratified by my laud.  
      In Indra, yea in him victorious through his strength, the Gods have joyed at feast and when the Soma flowed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Dichtung trage ich dir vor, auf den Hohen die hohe, da in dem Loblied dieses Sängers deine Tatkraft herausgestrichen wird. Dem Indra, der bei Kampffest und Wettrennen der Sieger ist, jubelten die Götter mächtig zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir trag' ich dieses grosse Lied des grossen vor, wenn dir der Becher festlich winkt bei meinem Lob; Dem Indra jauchzten voller Kraft die Götter zu, der siegreich Thaten unternimmt und weiter führt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это поэтическое творение я приношу тебе, великое - (тому, кто) велик,  
 Так как в восхвалении этого (певца) оттенен твой разум.  

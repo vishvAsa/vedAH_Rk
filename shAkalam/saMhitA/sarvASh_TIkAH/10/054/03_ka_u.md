@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ उ नु꣡ ते महिम꣡नः समस्य  
 अस्म꣡त् पू꣡र्व ऋ꣡षयो अ꣡न्तम् आपुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡जनयथास् तनु꣡वः सुआ꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 यत् । मा॒तर॑म् । च॒ । पि॒तर॑म् । च॒ । सा॒कम् । अज॑नयथाः । त॒न्वः॑ । स्वायाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
@@ -133,33 +133,33 @@ genre D
 हे इन्द्र **ते** तव **महिमनः** महिम्नः **समस्य** सर्वस्यापि **अन्तं** पारम् **अस्मत्** अस्मत्तः **पूर्व** **ऋषयः** **के** **आपुः** प्राप्नुवन् । न केऽपीत्यर्थः । यद्यपि महत्त्वं प्रख्यापयन्ति तथापि न कार्त्स्न्येनेति । तत्र कारणमाह । **यत्** यस्मात् **मातरं** **च** **पितरं** **च** ।' द्यौः पिता पृथिवी माता! ( तै. ब्रा. ३.७.५,४-५ ) इति हि श्रुतम् । अतो द्यावापृथिव्यावित्यर्थः । ते उभे अपि **साकं** सहैव **स्वायाः** **तन्वः** स्वकीयाच्छरीरात् **अजनयथाः** उदपादयः । अतो नापुरिति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What seers before us have reached the end of your whole greatness, in that you begot your mother and father [=Heaven and Earth] at the  same time from your own body?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who are the Rsis, then, who comprehended before our time the bounds of all thy greatness?  
      For from thy body thou hast generated at the same time the Mother and the Father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Rishi´s vor uns haben je die Grenze deiner ganzen Größe erreicht, da du Vater und Mutter auf einmal aus deinem Leib erzeugtest?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gab je es Sänger, welche vor uns lebten, die deiner ganzen Grösse Ziel erreichten? Der du zugleich den Vater und die Mutter aus deinem eignen Leibe dir erzeugt hast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие же риши до нас достигли предела  
 Всего твоего величия,  

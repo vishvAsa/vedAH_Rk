@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ अभि꣡ प्र꣡ गायत  
 पुरुहूत꣡म् पुरुष्टुत꣡म्  
 इ꣡न्द्रं गीर्भि꣡स् तविष꣡म् आ꣡ विवासत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑म् । गीः॒ऽभिः । त॒वि॒षम् । आ । वि॒वा॒स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -91,36 +91,36 @@ genre M
 **पुरुहूतं** बहुभिराहूतं **पुरुष्टुतं** बहुभिः स्तुतं **तमु** तमेवेन्द्रं हे स्तोतारः **अभि** **प्र** **गायत** अभिमुखं प्रकर्षेण स्तुध्वम् । एतदेव स्पष्टयति । **तविषं** महान्तम् **इन्द्रं** **गीर्भिः** वाग्भिः **आ** **विवासत** परिचरत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify him the invoked of many, the praised of many; adore the powerful **Indra** with hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing forth to him, much invoked and much praised.  
 Seek to entice mighty Indra here with hymns,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING forth to him whom many men invoke, to him whom many laud.  
      Invite the powerful Indra with your songs of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf ihn stimmet den Gesang an, auf den Vielgerufenen, Vielbesungenen! Den starken Indra bittet mit Lobreden her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohlan, den vielgepriesenen, den vielgerufenen besingt; Den starken Indra, mit Gesang gewinnt ihn euch,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его воспевайте,  
 Многопризываемого, многовосхваленного!  

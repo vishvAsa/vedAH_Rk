@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्विना वाजिनीवसू  
 जुषे꣡थां यज्ञ꣡म् इष्ट꣡ये  
 हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 हं॒सौऽइ॑व । प॒त॒त॒म् । आ । सु॒तान् । उप॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
@@ -84,36 +84,36 @@ genre M;; repeated line
 हे **वाजिनीवसू** अन्नार्थं वासयितारौ **अश्विना** **यज्ञम्** अस्मदीयम् **इष्टये** अभीष्टायैषणाय वा **जुषेथा** सेवेथाम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Aśvins**, affluent in food, be propitiated at your plural asure by the sacrifice; alight like two swans uon the effused libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, whose goods are prizewinners, take pleasure in our sacrifice to  your liking.  
 – Like wild geese, fly here to the soma-pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Asvins rich in gifts, accept our sacrifice to prosper it:  
      Fly hither like two swans unto the juice we shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Asvin, lohnreiche! Findet an meinem Opfer Wohlgefallen, um gern zu kommen! Gleich Gänsen flieget zum Somasaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O gabenreiche Ritter ihr, empfangt das Opfer zum Genuss; So wie zwei Schwäne fliegt zu unsern Tränken her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, богатые наградой,  
 Наслаждайтесь (нашей) жертвой, чтоб охотно приходить (и дальше)!  

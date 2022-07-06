@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा सो꣡ता सुनोतु ते  
 वृ꣡षन्न् ऋजीपिन् आ꣡ भर  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 तु꣡भ्यं स्थातर् हरीणा᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । द॒ध॒न्वे॒ । वृष॑णम् । न॒दीषु॑ । आ । तुभ्य॑म् । स्था॒तः॒ । ह॒री॒णा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -105,14 +105,14 @@ genre M
 हे **वृषन्** वर्षितरिन्द्र **ते** तव **सोता** अभिषवकर्ता **वृषा** वर्षिता सन् **सुनोतु** सोममभिषुणोतु । हे **ऋजीपिन्** ऋजुगमनेन्द्र **आ** **भर** धनमस्मभ्यमाहर । **हरीणाम्** अश्वानाम् **आ** आभिमुख्येन हे **स्थातः** इन्द्र **तुभ्यं** **नदीषु** उदकेषु **वृषणं** वर्षितारं सोमं **वृषा** वर्षिता **दधन्वे** धारितवानभिषवार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerer (of benefits), may the offerer of the libation to you effuse the **Soma** as a showerer;straight-going (**Indra**), bring (us wealth); arrester of your horses, the showerer (of the oblation) has prepared thebountiful Soma to be mixed with the waters for you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the bullish presser press for you; o bull, flying straight—bring  (prizes) here.  
 
@@ -120,30 +120,30 @@ The bull has run to the bull in the waters. It [=soma] is for you, o
 mounter of the fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛjīpin see comm. ad IV.26.6.
 
 “In the waters” in the published translation should be corrected to “in the rivers.” Geldner and Kümmel (256) take dadhanve as transitive (Geldner “… liess … laufen,” Kümmel “… hat laufenlassen…”), but the other examples of this medial perfect are intransitive (VIII.19.1, also taken by Kümmel as transitive, can be interpreted in the same way as this one), and the accusative can easily be a goal.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the strong presser press for thee. Bring hither, thou straight-rushing Bull.  
      The mighty makes the mighty run in flowing streams for thee whom thy Bay Horses bear.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bullenstark soll dir der Pressende den Soma pressen; du vorausstürmender Bulle, bring Schätze her! Der Bulle ließ den Bullen in die Flüsse laufen für dich, Lenker der Falben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Presser presse dir, ein Stier, vordringend bringe Gut, o Stier, Es rinnt der Stier in Strömen zu dem Stiere hin, zu dir, der du die Füchse lenkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык – выжимальщик пусть выжмет тебе (сому)?  
 О бык, бросающийся вперед, принеси (богатство)!  

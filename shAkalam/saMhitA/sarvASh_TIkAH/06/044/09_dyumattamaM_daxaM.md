@@ -6,7 +6,7 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्युम꣡त्तमं · द꣡क्षं धेहि अस्मे꣡  
 से꣡धा ज꣡नानाम् पूर्वी꣡र् अ꣡रातीः  
@@ -14,7 +14,7 @@ ChandaH = "विराट्"
 ध꣡नस्य साता꣡व् अस्माँ꣡ अविड्ढि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 वर्षी॑यः । वयः॑ । कृ॒णु॒हि॒ । शची॑भिः । धन॑स्य । सा॒तौ । अ॒स्मान् । अ॒वि॒ड्ढि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyumattamaṃ* ← *dyumattamam* ← *dyumattama*
 - \[noun\], accusative, singular, masculine
@@ -115,20 +115,20 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे इन्द्र **द्युमत्तमं** दीप्तिमत्तमं **दक्षं** बलम् **अस्मे** अस्मासु **धेहि** धारय । **जनानां** स्तोतॄणामस्माकं **पूर्वीः** बह्वीः **अरातीः** शत्रुसेनाः **सेध** निषेध निवारय । अपि चास्माकं **वर्षीयः** वृद्धतरं **वयः** अन्नं **शचीभिः** आत्मीयाभि: प्रज्ञाभिः **कृणुहि** कुरु । तथा **धनस्य** **सातौ** संभजने **अस्मानविड्ढि** गमय । यद्वा । धनस्य संभजनार्थमस्मान् रक्ष ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us most brilliant vigour; oppose the numerous enemies of your worshippers; gran us, for our pious acts, abundant food; secure us in the enjoyment of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bestow the most brilliant skill on us. Repel the many hostilities of the  peoples.  
 Make our vitality higher through your abilities. Help us in the winning  of the stake.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This tṛca-final vs. reprises and repurposes some of the statements in the opening vs. 7. The skill (dákṣa-) that Soma found in 7a we ask him to bestow on us in 9a. Soma, “having won” (sasavā́n) in 7c, is asked to help us in winning (sātaú … aviḍḍhi) in 9d. Unfortunately nothing in 9 sheds light on the problematic instr. phrase in 7c.
 
@@ -147,23 +147,23 @@ The tṛca concerns soma and contains lexical and thematic responsions.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bestow on us the most illustrious strength ward off men's manifold malignities.  
      Give with thy might abundant vital force, and aid us graciously in gaining riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verleih uns glänzendste Tatkraft, halte die viele Mißgunst der anderen Leute fern! Erhöhe nach bestem Können unsere Kraft; sei uns zum Gewinnen des Kampfpreises günstig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verleihe Kraft uns, – die allerstärkste, wehr ab der Menschen – vielfält'ge Frevel; Uns unterstütze – zur Beuterlangung, und schaffe höh're Kraft durch deine Hülfen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Надели нас самой блистательной силой действия!  
 Отврати многие враждебные действия (других) людей!  

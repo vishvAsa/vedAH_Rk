@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् अद्या꣡ चित् त उक्थि꣡नो  
 अ꣡नु ष्टुवन्ति पूर्व꣡था  
 वृ꣡षपत्नीर् अपो꣡ जया दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 वृष॑ऽपत्नीः । अ॒पः । ज॒य॒ । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -97,40 +97,40 @@ genre M;; 12 = 8+4
 हे इन्द्र **ते** त्वदीयं **तत्** प्रसिद्धं बलम् **अद्य** **चित्** अद्यापि **पूर्वथा** पूर्वस्मिन्काल इव **उक्थिनः** शस्त्रिणः स्तोतारः **अनु** **ष्टुवन्ति** क्रमेण प्रशंसन्ति । स त्वं **वृषपत्नीः** वृषा वर्षिता पर्जन्यः पतिर्यासां तादृशीः **अपः** **दिवेदिवे** प्रतिदिवसं **जय** स्वायत्तं कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The reciters of prayer celebrate that your (exhilaration) now as of old; do you daily hold in subjectionthe waters, the wives of the showerer.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even today do the reciters praise this (deed) of yours, as in the earlier way: you shall win the waters, whose husband is a bull, day after day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c jayā can be a 2nd sg. imperative with lengthened final (so Pp., Grassmann, Geldner) or a subjunctive (jayāḥ out of sandhi). Although an undoubted form of the imperative is found in 12c (jaya), I weakly favor the subjunctive here, the idea being that the praisers keep praising the same deed, and so he will keep doing it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This day too singers of the hymn praise, as of old, this might of thine:  
      Win thou the waters day by day, thralls of the strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies singen dir immer wieder noch heute die Liederdichter wie früher: Erobere Tag für Tag die Gewässer, die dem Bullen vermählt sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das rühmen deine Sänger hier auch heute wie in alter Zeit, Erkämpf die Stier-beherrschte Flut an jedem Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это и сегодня твои слагатели гимнов  
 Продолжают прославлять, как прежде:  

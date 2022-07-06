@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रवा꣡चियं व꣡चसः कि꣡म् मे अस्य꣡  
 गु꣡हा हित꣡म् उ꣡प निणि꣡ग् वदन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पा꣡ति प्रियं꣡ रुपो꣡ अ꣡ग्रम् पदं꣡ वेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । उ॒स्रिया॑णाम् । अप॑ । वाःऽइ॑व । व्रन् । पाति॑ । प्रि॒यम् । रु॒पः । अग्र॑म् । प॒दम् । वेरिति॒ वेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravācyaṃ* ← *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, singular
@@ -138,20 +138,20 @@ genre M
 **मे** मदीयस्य **अस्य** वक्ष्यमाणस्य **वचसः** वाक्यस्य **किं** **प्रवाच्यम्** अस्ति । तथ्यमेवोच्यत इत्यर्थः । किं तद्वच इत्युच्यते । उस्रियाणाम् । गोनामैतत् । क्षीराद्युत्स्राविणीनां गवां संबन्धि **यत्** क्षीरं **वारिव** उदकमिव तद्यथा सेकेनाविष्कुर्वन्ति तथा **अप** **व्रन्** अपवृण्वन्ति दोग्धारः । **निणिक्** । नितरां नेनेक्ति शोधयतीति निणिक् क्षीरमुच्यते । तादृक् क्षीरमनेन वैश्वानरेण **गुहा** गुहायाम् **उप** **हितम्** उपनिहितं **वदन्ति** वेत्तारः । किंचायं  **वेः** व्याप्तायाः **रुपः** भूम्याः **प्रियं** सर्वेषाम् आधारत्वेन प्रियभूतम् **अग्रं** श्रेष्ठं **पदं** स्थानं **पाति** रक्षति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What objection (can be offered) to this my assertion, that they affirm that the milk of the kine, which (the milkers) obtain like water, is plural ced in concealment (by **Vaiśvānara**), and cherishes the excellent and valued expanse of the wide earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What (part) of this speech is to be proclaimed to me? They confide  privately what was deposited in secret [=the track/word]—  
 that they have uncovered it like the “water” of the ruddy (cows). He  [=Agni] protects the dear tip of the mount, the track of the bird.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The part. saṃvásānāḥ is generally ascribed to √vas ‘dwell’, and the standard tr. ‘dwelling together’ makes good sense as a descriptor of fingers. However, forms unambiguously belonging to this root are active, and there is no root pres. or aor.
 
@@ -168,28 +168,28 @@ of a fem. atharī́-, often interpr. as a female animal, whose tooth is the obje
 The published translation ‘enveloped in flame’ starts from Hoffmann’s preform with -vī́-, but deviates in two regards. First it takes athar- with atharyú- with the meaning ‘flame, flaming’, and second it analyses the 2nd member as the root noun to √vyā ‘envelop’ (cf. hiraṇya-vī́- ‘enveloped in gold’, Scarlatta 502). The phrase atharyò ná dántam would then be semantically parallel to the bahuvrīhi śúci-dant- (2x, of Agni) ‘having blazing teeth’. I am not at all happy with my analysis, however -- primarily because I am dubious about the existence of an athar- ‘flame’ and because the loss of v suggested by Hoffmann seems difficult to motivate. I would therefore tentatively withdraw the published translation, though I have nothing better to substitute. I wonder if the word is not implicated in the same interpretational difficulty as sā́tuḥ discussed above (7a). I doubt that a female animal is at issue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of this my speech what shall I utter further? They indicate the milk stored up in secret  
      When they have thrown as 'twere the cows' stalls open. The Bird protects earths' best and well-loved station.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 What should be openly uttered by me of this speech? They secretly speak of that which is hidden 1. When they have uncovered, as it were, the water of the cows 2, he guards the beloved summit of the … 3, the footstep of the bird 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was soll mir von diesem Worte verkündet werden? Sie sprechen sich tadelnd aus über das geheim gehaltene Rätsel der Kühe, das sie aufgeschlossen haben wie ein Tor. Er bewahrt den lieben Gipfel der Erde, die Spur des Vogels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was soll ich verkünden von diesem Wort? Das ins Ver- borgene gesetzte reden sie [etwa die weisen Götter oder Angirasen, denen der Sänger lauscht] im Geheimen. Wenn sie es erschliessen wie den Thau der Morgenröthen, dann bewahrt der Gipfel der Kuh [die Oberfläche der Erde] die Fusssi)ur des Vogels [des zum Himmel auffliegenden Feuers (?)].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что из этой речи следует мне возгласить?  
 О сложенном втайне говорят шепотом.  

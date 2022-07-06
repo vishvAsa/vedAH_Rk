@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तो꣡मासस् त्वा गउ꣡रिवीतेर् अवर्धन्न्  
 अ꣡रन्धयो वैदथिना꣡य पि꣡प्रुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡चन् पक्ती꣡र् अ꣡पिबः सो꣡मम् अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । त्वाम् । ऋ॒जिश्वा॑ । स॒ख्याय॑ । च॒क्रे॒ । पच॑न् । प॒क्तीः । अपि॑बः । सोम॑म् । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stomāsas* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
@@ -116,41 +116,41 @@ genre M
 हेइन्द्र गौरिवीतेः एतन्नामकस्यमन्त्रद्रष्टुर्ममसम्बन्धीनिस्तोमासः स्तोत्राणि त्वा त्वां अवर्धन् वर्धयन्तु वैदथिनाय विदथिनःपुत्राय ऋजिश्वनाम्ने पिप्रुंएतन्नामकमसुरं अरन्धयः वशमनयः हेइन्द्र ऋजिश्वनामकश्चिदृषिः सख्याय तवसखित्वाय पक्तीःपक्तव्यानि पुरोडाशादीनि पचन् पाकं कुर्वन् त्वा त्वां आचके अभिमुखीचकार किञ्च त्वं अस्य ऋजिश्वनः सम्बन्धिनं सोमं अपिबः अपाः ॥ ११ ॥ दशपेयेहनिमरुत्वतीयशस्त्रेनवग्वासइतिसूक्तमुखीया सूत्रितञ्च-नवग्वासःसुतसोमासइन्द्रंसखाहयत्रसखिभिर्नवग्वै रितिनिविद्धान -योराज्येइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the praises of Gaurivīti exalt you; you have humbled Pipru for the son of Vidathin; Ṛjiśvan preparing dressed viands, has, through your friendship brought you (to his presence), and you have drunk of his libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The praises of Gaurivīti strengthened you. You made Pipru subject to  Vaidathina.  
 R̥jiśvan brought you here for companionship, cooking cooked foods  (for you). You drank his soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The etym. fig. pácan paktī́ḥ is also a proleptic expression of sorts, “cooking (food, so that it is) cooked,” though since paktí- is not an adj./participle, but a noun identifying a type of food, the parallel isn’t exact. For other exx. of paktí- √pac, see IV.24.7, VII.32.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The lauds of Gauriviti made thee mighty to Vidathin's son, as prey, thou gavest Pipru.  
      Rjisivan drew thee into friendship dressing the sacred food, and thou hast drunk his Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Loblieder des Gauriviti erbauten dich; du unterwarfst den Pipru dem Vaidathina. Rijisvan hatte dich zur Freundschaft gewonnen, indem er Kochspeise kochte. Du trankst seinen Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich kräftigten des Gauriviti Lieder, Vidathin's Sohne gabst du hin dem Pipru; Dich schafft' herbei Ridschiçvan sich zum Beistand, dir Brühen kochend, seinen Soma trankst du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя усилили восхваления Гауривити.  
 Ты отдал Пипру во власть Вайдатхины.  

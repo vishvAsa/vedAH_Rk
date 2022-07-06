@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् वि꣡ष्णोः परम꣡म् पदं꣡  
 स꣡दा पश्यन्ति सूर꣡यः  
 दिवी꣡व च꣡क्षुर् आ꣡ततम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दि॒विऽइ॑व । चक्षुः॑ । आऽत॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -97,7 +97,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,19 +108,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 paramam padam = supreme degree or station, **svarga**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That is the highest footstep of Viṣṇu. The patrons always  
 behold it  
 stretched out like the eye [=sun] in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The image in pāda c needs a little unpacking. The “eye in heaven” is of course the sun; the incongruity is that it is depicted as “stretched out,” which might suggest an elongated ovoid sun, not a happy picture. The concentrated expression of pāda c rests on the common formula of the sun stretching (through space) with its rays (raśmí-), as in VII.47.4 yā́ḥ sū́ryo raśmíbhir ātatā́na “towards which [=waters] the sun has stretched with its rays.” Note that sūráyaḥ ‘patrons’ ending b phonologically evokes the absent sū́r i ya- in c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The princes evermore behold that loftiest place where Visnu is,  
      Laid as it were an eye in heaven.
@@ -135,17 +135,17 @@ Like an eye stretched in the sky.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immerdar schauen die freigebigen Patrone diese höchste Fußtapfe des Vishnu, die wie das Auge am Himmel weithin reicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf ihn, des Vischnu höchsten Tritt; der wie des Himmels Auge glänzt, Schaun fort und fort die Weisen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На этот высший след Вишну  
 Всегда глядят приносящие жертву,  

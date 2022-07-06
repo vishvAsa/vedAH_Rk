@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ताँ꣡ अग्न उभ꣡यान् वि꣡ विद्वा꣡न्  
 वे꣡षि प्रपित्वे꣡ म꣡नुषो यजत्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मर्मृजे꣡न्य · उशि꣡ग्भिर् न꣡ अक्रः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒भि॒ऽपि॒त्वे । मन॑वे । शास्यः॑ । भूः॒ । म॒र्मृ॒जेन्यः॑ । उ॒शिक्ऽभिः॑ । न । अ॒क्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,20 +120,20 @@ genre M
 हे **यजत्र** यष्टव्य **अग्ने** **त्वं** **तान्** यष्टॄनयष्टॄंश्च **उभयान्** **मनुषः** मनुष्यान् विविच्य **विद्वान्** जानन् **प्रपित्वे** संनिहिते एव काले **वेषि** कामयसे यष्टॄन् । तथा कुर्वन् **अक्रः** आक्रमिता त्वं **मनवे** । षष्ट्यर्थे चतुर्थी । मनुष्यस्य यजमानस्य **अभिपित्वे** अभिप्राप्तकालेऽभिगमनवति यज्ञे वा **शास्यः** **भूः** शिक्षणीयो भव । इदं कुरु इदं कुरु इति विधेयो भव । **मर्मृजेन्यः** शोधयिता यजमानः **उशिग्भिः** कामयमानैर्ऋत्विग्भिरिव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable **Agni**, you are sagacious, and in a short time discriminate between both those men (who do and do not worshhip you); approach the worshipper at the proper time, and be compliant (with his wishes); like an instrumental tutor of the rite, (who is directed) by the desires (of the priests).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Distinguishing between the two [=sacrificers and non-sacrificers?], you  pursue the sons of Manu at the early mealtime, o Agni worthy of the  sacrifice.  
 At the later mealtime you become tractable for Manu, to be groomed  like a foal [?] by the fire-priests.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ví with vidvā́n picks up the ví that both opens and closes the preceding verse (ví … yaṃsat / viṣpáṭ), linking this verse to the apparently different topic that precedes it. This provides a clue for the referent of tā́n … ubháyān “those both.” Geldner (/Witzel Gotō) take the both to refer to the two time periods mentioned in this verse, prapitvé and abhipitvé, but, on the basis of the larger context, with Oldenberg (SBE) and Renou I think it refers to good and bad men, or more narrowly to sacificers and non-sacrificers.
 
@@ -150,28 +150,28 @@ And marmṛjénya- ‘to be groomed’ in our passage suggests a horse, since th
 Despite the position of ná, uśígbhiḥ is unlikely to form part of the simile.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, well discerning both these classes, comest to men at early morn, O holy Agni.  
      Be thou obedient unto man at evening, to be adorned, as keen, by eager suitors.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 Thou, O Agni, distinguishing both (kinds of men, the pious and the impious, or the Aryans and the Dasyus 2), eagerly approachest (Aryan) men at (the time of) the advancing (day) 3, O worshipful one. At (the time of) rest thou hast become governable to the man (or, to Manu; or, thou art to be praised by men 4); thou art to be smoothed down like a horse 5 by the Usigs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der du, Agni, diese beiderlei Zeiten unterscheidest, du verlangst vor Essenszeit die Nahrung des Menschen, o Opferwürdiger. Zur Essenszeit wirst du dem Menschen fügsam wie ein Elefant von den Fürbittern zu putzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du unterscheidest, Agni, gut' und böse, und kommst, o heil'ger, Morgens zu den Menschen Und Abends bist du preisenswerth dem Manne, dem Banner gleich zu schmücken von den Frommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Различая этих обоих, ты, о Агни,  
 Набрасываешься на людей до еды, о достойный жертв.  

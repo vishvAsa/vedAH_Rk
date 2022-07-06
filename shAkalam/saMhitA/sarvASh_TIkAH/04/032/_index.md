@@ -8,7 +8,7 @@ title = "+032"
 ‘ आ तू न इन्द्र' इति चतुर्विंशत्यृचमेकादशं सूक्तं वामदेवस्यार्षं गायत्रमैन्द्रम् । अन्त्ये 'कनीनकेव ' इत्यादिके द्वे इन्द्रस्याश्वदेवताके। तथा चानुक्रान्तम्-’ आ तू नश्चतुर्विंशतिरन्त्याभ्यामिन्द्राश्वौ स्तुतौ ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 32 (328)  
 Indra  
@@ -20,7 +20,7 @@ Toward the end of the hymn, the requests for gifts become specific (esp. the tr�
 secure, the competing interpretations are even less so, and the prurient nature of  our suggested contents would fit the marked linguistic register of the dānastuti.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सद्य꣡श् चिन् नु꣡ ते꣡ मघवन्न् अभि꣡ष्टौ  
 न꣡रः शंसन्ति उक्थशा꣡स उक्था꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मा꣡न् वृणीष्व यु꣡जियाय त꣡स्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 ये । ते॒ । हवे॑भिः । वि । प॒णीन् । अदा॑शन् । अ॒स्मान् । वृ॒णी॒ष्व॒ । युज्या॑य । तस्मै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadyaś* ← *sadyas*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **ते** तव **नु** अद्य **अभिष्टौ** अभ्येषणे **ये** **नरः** **उक्थशासः** उक्थानां शंसितारः **उक्था** उक्थानि शस्त्राणि **सद्यश्चित्** सद्य एव **शंसन्ति** । किंच **ते** तव **हवेभिः** स्तोत्रैः **पणीन्** अप्रदानशीलान् वणिजोऽपि **वि** **अदाशन्** । धनानि विशेषेणादापयन्नित्यर्थः । तान् **अस्मान्** **तस्मै** **युज्याय** सख्याय तत्सख्यमनुवर्तयितुं **वृणीष्व** परिगृहाण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,7 +138,7 @@ genre M
 By theirpraises: ye te havebhir vi pāṇin adaśan: apradānaśīlān vaṇijo api dhanāni viśeṣeṇadāpayan, theyhave made to give, or have mulched, especially in their riches, those traders who are not donors of offerings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even now, all at once, o bounteous one, those in your charge, the men,  the hymn-proclaimers, are proclaiming hymns,  
 they who by their invocations of you have distanced the niggards  
@@ -146,7 +146,7 @@ through ritual service. Choose us for this same yoking [=ritual
 companionship].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take pāda c with ab, since all three have 3rd ps. subjects referring to Indra’s worshipers and clients, with pāda c a rel. cl. beginning with yé. Geldner, by contrast, connects c with d, although d now refers to the same people in the 1st ps.
 
@@ -159,23 +159,23 @@ náraḥ śaṃsanti recalls the epithet nárāśáṃsa, and then participates 
 The lexeme ví √dāś occurs only here, as far as I know. Like the idiom ā́√yaj ‘attract by sacrifice’, it combines a directional preverb with a root of ritual activity, producing a portmanteau “(send) away by perfoming ritual service’. So Oldenberg ‘hinweghuldigen’, which he paraphrases as “honor the god such that the Pāṇis become distant.” On the syntagm yújyāya √vṝ see comm. ad IX.88.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swiftly, in truth, O Maghavan, about thee men skilled in hymning sing their songs and praises. '  
      Elect us also into their assembly who by their calls on thee despoiled the niggards.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alsbald tragen in deiner Obhut, du Gabenreicher, die liederkundigen Herren Loblieder auf dich vor. Erwähle uns zu derselben Bundesgenossenschaft wie die, welche durch deine Anrufung die Pani´s in Unkosten brachten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O mächtiger, auch heut in deinem Beisein verkünden Sprüche dir die Spruchverkünder; Durch Ruf zu dir die Geizigen verscheuchend, uns wähle du zu dieser deiner Freundschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И теперь, о щедрый, при твоей поддержке сразу  
 Исполняют песни мужи – исполнители песен.  

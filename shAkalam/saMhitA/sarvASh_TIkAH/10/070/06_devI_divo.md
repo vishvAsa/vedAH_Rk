@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवी꣡ दिवो꣡ दुहित꣡रा सुशिल्पे꣡  
 उषा꣡सान꣡क्ता सदतां नि꣡ यो꣡नौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरउ꣡ सीदन्तु सुभगे उप꣡स्थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । वा॒म् । दे॒वासः॑ । उ॒श॒ती॒ इति॑ । उ॒शन्तः॑ । उ॒रौ । सी॒द॒न्तु॒ । सु॒भ॒गे॒ इति॑ सुऽभगे । उ॒पऽस्थे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devī*
 - \[noun\], nominative, dual, feminine
@@ -119,36 +119,36 @@ genre M
 **देवी** द्योतमाने **दिवः** द्युलोकस्य **दुहितरा** दुहितरौ **सुशिल्पे** शोभनरूपे **उषासानक्ता** उषाश्च नक्तं चाहोरात्रौ **योनौ** यज्ञस्य स्थाने **नि** **सदताम्** निषीदताम् । हे **उशती** उशत्यौ कामयमाने है **सुभगे** शोभनधने हे देव्यौ **वां** युवयोः **उरौ** विस्तीर्णे **उपस्थे** समीपस्थे स्थाने **उशन्तः** हवींषि कामयमानाः **देवासः** देवाः **आ** **सीदन्तु** उपविशन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiant daughters of heaven, Dawn and Night, sit down on the plural ce of sacrifice; O you, who aredesirous and possessed of affluence, may the gods desirous (of oblations) sit down on your spacious lap.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the two goddesses, the handsomely adorned daughters of Heaven,  Dawn and Night, sit down in the womb.  
 Let the eager gods sit here in the wide lap of you two eager ones who  possess a good portion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here in this shrine may Dawn and Night, the Daughters of Heaven, the skilful Goddesses, be seated.  
      In your wide lap, auspicious, willing Ladies may the Gods seat them with a willing spirit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Göttinnen Morgen und Nacht, die buntgeschmückten Töchter des Himmels, sollen sich auf ihren Platz setzen. In euren breiten Schoß, ihr Verlangenden, Holden, sollen sich voll Verlangen die Götter setzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels schöne Töchter, Nacht und Morgen, Göttinnen, mögen auf den Sitz sich setzen, Die Götter mögen liebevoll sich setzen in euren weiten Schooss, liebreiche, sel'ge.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть две божественные дочери неба, хорошо украшенные  
 Ушас и Ночь  

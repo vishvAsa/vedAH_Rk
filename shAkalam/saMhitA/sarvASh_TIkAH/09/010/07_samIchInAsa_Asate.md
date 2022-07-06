@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समीचीना꣡स आसते  
 हो꣡तारः सप्त꣡जामयः  
 पद꣡म् ए꣡कस्य पि꣡प्रतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒दम् । एक॑स्य । पिप्र॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samīcīnāsa* ← *samīcīnāsaḥ* ← *samīcīna*
 - \[noun\], nominative, plural, masculine
@@ -76,20 +76,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **समीचीनासः** समीचीनाः **जामयः** जामिसदृशाः **एकस्य** सोमस्य **पदं** स्थानं **पिप्रतः** पूरयन्तः **सप्त** **होतारः** सप्त होत्रकाः **आसते** यज्ञ उपविशन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The seven associated ministers like so many kinsmen filling the receptacle of the single (**Soma**), sit down (at the sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They sit all together, the Hotars with their seven siblings,  
 guiding the track of the lone one safely across.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take the seven siblings here as the seven dhītí- of 8.4 and 9.4, which is quite likely -- though the priests themselves are also a possibility. Geldner adduces IX.66.8 sám u tvā dhībhír asvaran … saptá jāmáyaḥ “Together the seven siblings cried out to you with insightful thoughts,” which has both the 7 siblings and the thoughts -- but the referent of the siblings in that vs. is not clear. Geldner there takes it as the fingers, which seems somewhat perverse, given that seven is not a canonical number for fingers -- and fingers don’t cry out.
 
@@ -101,23 +101,23 @@ Geldner, Renou, and Kümmel all take b as a simile (“wie das Auge an die Sonne
 Grassmann identifies duhe in c as a 1st ps.; Geldner and Renou take it as 3rd sg. passive with ápatyam as subj. (e.g., “Die Nachkommenschaft des Sehers wird herausgemolken”), interpr. kaví- as a reference to Soma and ápatyam as the soma juice. But medial forms of √duh are generally transitive, with the sense ‘give X as milk’, and I follow that interpr. here, with Soma the unexpressed subject/agent. I suggest that c explains a: “binding his navel to our navel” means that he makes himself our kin and indeed takes responsibility for providing us with offspring. I take kavéḥ as referring to the (human) poet. Soma repays our devotion and care (see esp. vs. 7) with the usual ritual rewards, including sons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Combined in close society sit the seven priests, the brother-hood,  
      Filling the station of the One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vereinigt sitzen die Hotri´s da, die sieben Schwestern haben, indem die den Schritt des Einzigen geleiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Priester sitzen im Verein, mit sieben Schwestern eng verknüpft, Den Ort des einen füllen sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Собравшись вместе, сидят  
 Хотары, сопровождаемые семью сестрами,  

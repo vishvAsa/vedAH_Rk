@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्यावा꣡शुवस्य सुन्वतो꣡  
 अ꣡त्रीणां शृणुतं ह꣡वम्  
 इ꣡न्द्राग्नी सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्द्रा॑ग्नी॒ इति॑ । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
@@ -78,42 +78,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्राग्नी** युवां **सुन्वतः** सोमाभिषवं कुर्वतो यजमानस्य **श्यावाश्वस्य** मम **अत्रीणाम्** ऋत्विजां **हवम्** आह्वानं सोमस्य पानाय **शृणुतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear the invocation, **Indra** and **Agni**, of **Śyāvāśva** pouring out the effused **Soma**, (and) the **Atris**, todrink of the Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Listen to (soma-)pressing Śyāvāśva, (as you did) to the call of  
 the Atris—  
 – Indra and Agni, for soma-drinking.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I construe the Śyāvāśva genitive phrase directly with the verb, rather than supplying ‘call’ (hávam) with Geldner, on the basis of VIII.36.7, 37.7. But either is of course possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear ye the call of Atris, hear Syavasva as he sheds the juice:  
      Indra-Agni to the Soma-draught
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höret den Ruf des somapressenden Syavasva und der Atri´s, Indra und Agni kommet her, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Presser Çjāva-açva Ruf und den der Atri's höret an, Den Soma Indra-Agni, trinkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышьте зов Шьявашвы^  
 Выжимающего (сому) (и) людей Атри,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह्रदा꣡ इव कुक्ष꣡यः सोमधा꣡नाः  
 स꣡म् ई विव्याच स꣡वना पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृत्रं꣡ जघन्वाँ꣡ अवृणीत सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अन्ना॑ । यत् । इन्द्रः॑ । प्र॒थ॒मा । वि । आश॑ । वृ॒त्रम् । ज॒घ॒न्वान् । अ॒वृ॒णी॒त॒ । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hradā* ← *hradāḥ* ← *hrada*
 - \[noun\], nominative, plural, masculine
@@ -125,7 +125,7 @@ genre M
 इन्द्रस्य कुक्षय उदराणि सोमधानाः । सोमो निधीयते येष्विति सोमधानाः । तत्र दृष्ताण्तः । ह्रदा इव । यथा ह्रदा जलाधारा भवन्ति तद्वत् । ईं सोऽयमिन्द्रः पुरूणि सवना त्रीणि सवनानि सं विव्याच । सम्यक् व्याप्नोति । इन्द्रः प्रथमा प्रथमान्यन्ना भक्षणीयानि सोमादीन्यनानि यद्यस्माद्व्याश विशेषेण जघास ततो वृत्रं जघन्वान्वृत्रस्य हन्तेन्द्रः सोमं माध्यन्दिन सवने देवेभ्योऽव्णीत । समभजत । कुक्षयः । कुष निश्क्र्षे । प्लुशिकुषिशुषिभ्यः क्सिः । उ. ३-१५५ । कुष्यत इति कुक्षिः । प्रत्ययस्वरः । सोमधानाः । दधातेरधिकरणे ल्युट् । लित्स्वरः । विव्याच । व्यचेर्लिटि रूपम् । अन्नाः । अद भक्षणे । अद्यत इत्यन्नम् । आश । अश भोजन इत्यस्य लिटि णलि रूपम् । अत आदेरित्यभ्यासस्य दीर्घः । यद्योगादनिघातः । लित्स्वरः । वैत्रम् । न लोकाव्ययेति षष्ठीप्रतिषेधः । जघन्वान् । हन्तेः क्वसाविडभावे रूपम् । प्रत्ययस्वरः । अवृणीत । वृङ् सम्भक्तावित्यस्य लङि रूपं ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 As capacious of Soma as a lake: **hradā** iva kukṣayaḥ soma **dhānāḥ**: bellies udarāṇi, is used in the plural ral, to intimate capaciousness for holding the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His cheeks are like lakes holding soma; he entirely encompasses many  pressings.  
 When Indra devoured the first foods, having smashed Vr̥tra he chose  the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On kukṣí- as ‘cheek’, not ‘belly’, see Jamison 1987 (Ged. Cowgill).
 
@@ -159,23 +159,23 @@ The next three vss. ring changes on the theme of large bodies of water and large
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like lakes appear his flanks filled full with Soma: yea, he contains libations in abundance.  
      When Indra had consumed the first sweet viands, he, after slaying Vrtra, claimed the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Seen sind deine somafassenden Seiten; er nimmt auf einmal viele Trankspenden in sich auf. Als Indra die ersten Speisen verzehrte, da erwählte er, der den Vritra erschlug, für sich den Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Bauch voll Soma gleicht dem Meeresbecken, und in sich fasst er viel Gebräu der Säfte; Als Indra nach Genuss der ersten Speisen den Vritra schlug, da wählt' er sich den Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как озера, его бока – вместилища сомы.  
 Он вобрал (в свою утробу) многие выжиманья.  

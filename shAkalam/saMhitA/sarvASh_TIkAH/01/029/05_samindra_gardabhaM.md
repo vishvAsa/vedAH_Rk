@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् इन्द्र गर्दभ꣡म् मृण  
 नुव꣡न्तम् पाप꣡यामुया꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 सह꣡स्रेषु तुवीमघ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 आ । तु । नः॒ । इ॒न्द्र॒ । शं॒स॒य॒ । गोषु॑ । अश्वे॑षु । शु॒भ्रिषु॑ । स॒हस्रे॑षु । तु॒वि॒ऽम॒घ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -112,7 +112,7 @@ genre M;; repeated line
 हे **इन्द्र** **अमुया** अनया अस्माभिः श्रूयमाणया **पापया** निन्दारूपया वाचा **नुवन्तं** स्तुवन्तम् अपकीर्तिं प्रकटयन्तमित्यर्थः । तादृशं **गर्दभं** गर्दभसमानवैरिणं **सं** **मृण** सम्यक् मारय । यथा गर्दभः श्रोतुमशक्यं परुषं शब्दं करोति तथा शत्रुरपि । अन्यत् पूर्ववत् ॥ गर्दभम् । ‘नर्द गर्द शब्दे । ‘कॄगॄशॄशलिगर्दिभ्योऽभच्' ( उ. सू. ३. ४०२ )। ‘चितः' इत्यन्तोदात्तत्वम् । मृण । ' मृण हिंसायाम् ' । तौदादिकः । शस्य ङित्त्वात् गुणाभावः । नुवन्तम् । ‘णु स्तुतौ ' । शतरि अदिप्रभृतित्वात् शपो लुक् । शतुर्ङित्त्वात् गुणाभावे उवङादेशः । प्रत्ययाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M;; repeated line
 Nuvantam-pāpayāmuyā, praising with this speech that is of the nature of abuse (nindarūpayā **vācā**); hence, he is called an ass braying harsh sounds: yathā **gardabhaḥ** śrotum aśakyam paruṣam śabdam **karoti**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pulverize the donkey braying in that evil way, o Indra.  
 – Give us hope for resplendent cows and horses in the thousands, o  powerfully generous Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Destroy this ass, O Indra, who in tones discordant brays to thee:  
      Do thou, O Indra, give us hope of beauteous horses and of kine,  
      In thousands, O most wealthy One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerdrisch den Esel, Indra, der gar so übel schreit ! Mach uns doch Hoffnung auf tausend schmucke Kühe und Rosse, o freigebiger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Esel, Indra, schlage todt, der auf so üble Weise brüllt, Du, Indra, mach uns herrlich doch an Rindern, Rossen, glänzenden, an tausenden, sehr reicher du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сокруши, о Индра, осла,  
 Так гадко ревущего!  

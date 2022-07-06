@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दूरा꣡च् चिद् आ꣡ वसतो अस्य क꣡र्णा  
 घो꣡षाद् इ꣡न्द्रस्य तन्यति ब्रुवाणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मद्रि꣡अग् इ꣡न्द्रम् इय꣡म् ऋच्य꣡माना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । इ॒यम् । ए॒न॒म् । दे॒वऽहू॑तिः । व॒वृ॒त्या॒त् । म॒द्र्य॑क् । इन्द्र॑म् । इ॒यम् । ऋ॒च्यमा॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dūrāc* ← *dūrāt*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 **अस्य** इन्द्रस्य **कर्णा** कर्णौ दूराच्चित् दूरदेशादपि **आ** **वसतः** स्तोत्रश्रवणार्थमागच्छतः। **इन्द्रस्य** **घोषात्** घोषणीयात् स्तोत्राद्धेतोः **ब्रुवाणः** स्तुवन् स्तोता **तन्यति** शब्दं करोति । यद्वा । सर्वत्र विस्तारयति । **देवहूतिः** देवस्येन्द्रस्याह्वानरूपा **इयं** स्तुतिश्च **ऋच्यमाना** स्वयं प्रेर्यमाणा सती **एनम्** **इन्द्रम्** मद्र्यक् मदभिमुखम् **आ** **ववृत्यात्** आवर्तयतु । पुनः **इयम्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Reciting (his praise, the worshipper) calls aloud, that by the sound he may reach the ears of **Indra**, although abiding afar off; may this invocation of the deity, inducing, him (to come), bring Indra to my presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even from a distance, his two ears take residence here. It will sound— when speaking of Indra, it thunders:  
 this invocation to the gods should turn him—Indra—here toward me,  this one just now being recited.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b ghóṣāt is morphologically ambiguous: it can be a subjunctive to the them. pres. ghóṣa- (accented because first in its pāda) or the abl. to the them. noun ghóṣa- (so Grassmann). For possible interpr. involving this abl., see Oldenberg By contrast I follow Geldner (and Lubotsky) in taking it as a verb form, parallel to tanyati later in the pāda. The major problem this interpr. poses is how to construe gen. índrasya. Under the abl.
 
@@ -165,23 +165,23 @@ After the absence of overt referents in vs. 1, starting with 2b we have a form o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The speaker filleth with a cry to Indra his ears who cometh nigh e'en from a distance.  
      May this my call bring Indra to my presence, this call to Gods composed in sacred verses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst von ferne sind seine Ohren nahe. Er horche! Der sich zu Indra Bekennende ruft mit Donnerstimme. Möge diese Götterladung ihn herlenken, zu mir den Indra, wenn sie jetzt in Versen vorgetragen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von fern auch dringe zu uns her sein Hören; von Indra's Rauschen hallt der Sprecher wieder; Es möge wenden dieser Götteranruf, der laut gesprochne, zu mir her den Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже издалека внемлют его уши.  
 От рева Индры гремит (и) говорящий (с ним).  

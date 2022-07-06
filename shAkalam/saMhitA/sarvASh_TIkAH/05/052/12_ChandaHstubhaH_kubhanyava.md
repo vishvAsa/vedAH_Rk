@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 छन्दस्तु꣡भः कुभन्य꣡व  
 उ꣡त्सम् आ꣡ कीरि꣡णो नृतुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ऊ꣡मा आसन् दृशि꣡ त्विषे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । मे॒ । के । चि॒त् । न । ता॒यवः॑ । ऊमाः॑ । आ॒स॒न् । दृ॒शि । त्वि॒षे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *chandastubhaḥ* ← *chanda*
 - \[noun\], masculine
@@ -106,21 +106,21 @@ genre M
 **छन्दस्तुभः** छन्दोभिः स्तोतारः **कुभन्यवः** उदकेच्छवः **कीरिणः** स्तोतारः **उत्सं** कूपमपेक्ष्य तृषिताय गोतमाय यान्मरुतः **आ** **नृतुः** सर्वतोऽकुर्वन् अनयन् वा स्तोत्रम् । यद्वा । ये छन्दःस्तुभश्छन्दोभिः स्तुत्याः । स्तोभतिः स्तुतिकर्मा । कुभन्यवः सेक्तारो वृष्ट्युदकस्य । कुभिरुन्दनकर्मा । कीरिणः स्तोतुर्गोतमस्य पानार्थम् उत्सं कूपम् आ नृतुः अनीतवन्तः । 'असिञ्चन्नुत्सं गोतमाय तृष्णजे ' (ऋ. सं. १. ८५. ११ ) इति ह्युक्तम् ॥ 'नॄ नये' इत्यस्य वा नर्ततेर्वा विक्षेपमात्रार्थस्येदं रूपम् ॥ **ते** मरुतः **के** **चित्** **मे** मह्यं **तायवः** **न** कदाचिदप्यन्यदृश्यास्तस्करा इव स्थिताः **ऊमाः** रक्षकाः **दृशि** दर्शने **आसन्** विषयभूता अभवन् । केचित् **त्विषे** शरीरदीप्त्यै बलाय  वा आसन् । प्राणरूपेणेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The reciters of sacred metres, desirous of water, and celebrating (the **Maruts**), have drawn them to (provide) a well (for **Gotama**); some of them (invisible) as thieves, have been my defenders; some have been (obvious) to view through the light (of life).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chanting in rhythm, seeking water, (like) light-weights they pranced to  the wellspring.  
 They (seemed indistinct) to me like who knows who, like thieves  
 (concealed), but the helpers (then) came to glitter in my sight.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. bristles with difficulties. The first to present itself is the hapax kubhanyú-. There are several competing interpr. of this word, though Geldner refuses to tr.
 
@@ -133,23 +133,23 @@ The meaning of the word kīrí(n)- is disputed, with the two leading contenders 
 The 2nd hemistich also presents difficulties: how to construe the indefinite expression ké cid, why the Maruts are compared to/identified with thieves, and whether c and d form a single expression or two. These questions have been addressed in various ways in the standard transl.; I will treat only my own. My rendering assumes that c and d are separate clauses (contra the standard view) depicting a two-step process. For c I start with the fact that what thieves mostly do in the RV is hide. I assume that the Maruts are likened to thieves because on their first approach, enveloped in clouds perhaps, they are indistinct and unidentifiable; this is also conveyed by the indefinite ké cin ná “like who knows who.” (I do not take ké cid directly with tāyávaḥ, but interpr. them as two different ways of referring to the stealthy Maruts, again against most interpr.) In d the Maruts suddenly flash out (āsan dṛśí tviṣé “came to glitter in my sight”) as the storm, or specifically the lightning. As they become visible in this way, it also becomes clear that they are ‘helpers’ (ū́māḥ); as usual, the assumption behind this is that the storm, though violent, brings fructifying rain -- rain which is previewed in the first hemistich, where the Maruts seek water and prance to the wellspring, while chanting in rhythm, presumably a reference to thunder.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hymn-singing, seeking water, they, praising, have danced about the spring.  
      What are they unto me? No thieves, but helpers, splendid to behold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die liedersingenden .........Barden tanzten zu dem Brunnen. Die Helfer kamen mir zu Gesicht wie unbekannte Diebe zur Überraschung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lied singend, hüpfend tanzten sie her zu dem Born die jubelnden; Wie Räuberbanden schienen sie geschart zum Andrang meinem Blick.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославляя стихами, вовлеченные в общий обряд (?),  
 Они танцуют, резвясь, приближаясь к источнику.  

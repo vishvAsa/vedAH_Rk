@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समान꣡म् अञ्जि꣡ एषां᳐  
 वि꣡ भ्राजन्ते रुक्मा꣡सो अ꣡धि बाहु꣡षु  
 द꣡विद्युतति ऋष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दवि॑द्युतति । ऋ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānam* ← *samāna*
 - \[noun\], nominative, singular, neuter
@@ -80,37 +80,37 @@ genre M
 **एषां** मरुताम् **अञ्जि** रूपाभिव्यञ्जकमाभरणं **समानम्** एकविधमेव । एतदेवाह । **रुक्मासः** रुक्मा दीप्यमानाः सुवर्णमया हाराः **वि** **भ्राजन्ते** । वक्षःस्थलेषु विशेषेण दीप्यन्ते । तथा **बाहुषु** **अधि** अंसेषु **ऋष्टयः** शक्त्यादीन्यायुधानि **दविद्युतति** अत्यर्थं द्योतन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Their decoration is the same; gold (necklaces) shine (on their breasts), lances gleam upon theirshoulders.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Common to them (all) is their unguent; their brilliants glint on  
 their arms.  
 Their spears keep flashing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Their decoration is the same: their omaments of gold are bright upon their arms;  
      Their lances glitter splendidly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihre aufgetragene Farbe ist die gleiche, die Schmuckstücke erglänzen an ihren Armen; ihre Speere blitzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie tragen alle gleichen Schmuck, und Goldgeschmeide strahlt an ihren Armen rings, Und ihre Speere glänzen hell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одинаковое у них украшение:  
 Ярко сверкают золотые пластинки на руках,  

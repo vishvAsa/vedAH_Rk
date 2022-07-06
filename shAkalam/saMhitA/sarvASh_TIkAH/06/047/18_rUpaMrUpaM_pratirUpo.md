@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रूपं꣡-रूपम् प्र꣡तिरूपो बभूव  
 त꣡द् अस्य रूप꣡म् प्रतिच꣡क्षणाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युक्ता꣡ हि꣡ अस्य ह꣡रयः शता꣡ द꣡श
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 इन्द्रः॑ । मा॒याभिः॑ । पु॒रु॒ऽरूपः॑ । ई॒य॒ते॒ । यु॒क्ताः । हि । अ॒स्य॒ । हर॑यः । श॒ता । दश॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
@@ -140,7 +140,7 @@ genre D
 अयमिन्द्रः **प्रतिरूपः** रूपाणां प्रतिनिधिः सन् **रूपंरूपं** तत्तदग्न्यादिदेवतास्वरूपं **बभूव** । प्राप्नोति । ‘भू प्राप्तौ ' इति धातुः । इन्द्रः स्वमाहात्म्येन तत्तद्देवतारूपो भवतीत्यर्थः । **अस्य** चेन्द्रस्य **तत्** प्राप्तमग्न्यादिदेवतास्वरूपं **प्रतिचक्षणाय** प्रतिनियतदर्शनाय अयमग्निरयं विष्णुरयं रुद्र इत्येवमसंकीर्णदर्शनाय भवति । अपि चायम् **इन्द्रो** **मायाभिः** । ज्ञाननामैतत् । ज्ञानैः आत्मीयैः संकल्पैः **पुरुरूपः** बहुविधशरीरः सन् **ईयते** बहून् यजमानान् गच्छति । ननु द्वावेवास्याश्वावेकश्च रथः कथमनेन युगपद्बहून् गच्छतीत्यत आह । **अस्य** इन्द्रस्य **हरयः** अश्वाः **युक्ताः** रथे योजिताः **शता** **दश** सहस्रसंख्याका अपरिमिताः सन्ति । **हि** यस्मादेवं तस्माद्बहुशरीराणि स्वीकृत्य युगपत् हविष्मतो यजमानान् गच्छतीत्यर्थः ॥ अन्ये मन्यन्ते । ‘इदि परमैश्वर्ये ' इत्यस्य धातोरर्थानुगमात् इन्द्रः परमात्मा । स चाकाशवत् सर्वगतः सदानन्दरूपः । स एव उपाधिभिरन्तःकरणैः प्रतिशरीरमवच्छिन्न: सन् जीवात्मेति व्यपदिश्यते । स एव अनादिमायाशक्तिभिः वियदादिजगदात्मना विवर्तते शब्दादिविषयहरणशीला इन्द्रियवृत्तयश्च तेनैव संबद्धाः । एतत्सर्वं तस्य परमात्मनो यद्वास्तवं रूपं तस्य दर्शनायेति । अयमर्थोऽनया प्रतिपाद्यते । रूपंरूपम् । रूप्यत इति रूपं शरीरादि । प्रतिशरीरं चिद्रूपः सर्वगतः परमात्मा प्रतिरूपः प्रतिबिम्बरूपः सन् सर्वाणि शरीराणि बभूव । प्राप्नोत् । तच्च प्राप्तं प्रतिबिम्बरूपमस्य परमात्मनः प्रतिचक्षणाय प्रतिनियताकारस्य दर्शनाय भवति । स चेन्द्रः परमेश्वरो मायाभिर्मायाशक्तिभिः पुरुरूपो वियदादिभिर्बहुविधरूपैरुपेतः सन् ईयते चेष्टते । एतदप्यस्य परमात्मनः प्रतिचक्षणाय भवति । अस्य च दश शता सहस्रसंख्याका हरय इन्द्रियवृत्तयः युक्ता विषयग्रहणायोद्युक्ताः सन्ति । तदप्यस्य वास्तवरूपस्य दर्शनाय भवतीति । एवं स्थूलसूक्ष्मशरीरयोर्वियदादिमहाप्रपञ्चस्य च तत्वज्ञानहेतुत्वमनया प्रत्यपादीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,13 +151,13 @@ genre D
 Indra has assumed: Indra presents himself as **Agni**, **Viṣṇu**, or **Rudra**, or any other deity who is the actual object of worship, and is really the deity tobe adored; he is identifiable with each; Horses yoked: Indra's chariots and horses are multiplied according to the forms in which he manifests himself; Indra is here identified with **Parameśvara**, the supreme first cause, identical with creation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has a form corresponding to every form; this form of his is for  display.  
 Indra keeps going about in many forms through his magical powers, for  ten hundred fallow bays are yoked for him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. concerns Indra’s shape-shifting propensity, enabled by his māyā́-.
 
@@ -180,23 +180,23 @@ As noted in the published introduction, this section, which concerns Indra’s f
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In every figure he hath been the mode: this is his only form for us to look on.  
      Indra moves multiform by his illusions; for his Bay Steeds are yoked, ten times a hundred.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jeglicher Gestalt hat er sich angepaßt; diese wahre Gestalt von ihm ist in allen wieder zu erkennen. Vermöge seiner Zauberkünste geht Indra in vielen Gestalten, denn zehn hundert Falben sind für ihn angespannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich an Gestalt ward jeglicher Gestalt er, so ist zu schauen die Gestalt des Indra; Durch Zauberkünste geht er vielgestaltig; denn zehnmal hundert Füchse sind geschirrt ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он уподоблял свой облик любому (другому) облику.  
 Этот его облик (предназначен) для восприятия.  

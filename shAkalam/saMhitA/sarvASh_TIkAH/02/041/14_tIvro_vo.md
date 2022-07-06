@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तीव्रो꣡ वो म꣡धुमाँ अयं꣡  
 शुन꣡होत्रेषु मत्सरः꣡  
 एत꣡म् पिबत का꣡मियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 ए॒तम् । पि॒ब॒त॒ । काम्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tīvro* ← *tīvraḥ* ← *tīvra*
 - \[noun\], nominative, singular, masculine
@@ -74,36 +74,36 @@ genre M
 हेविश्वेदेवाः तीव्रः तीव्रमदः मधुमान् मधुररसवान् मत्सरोमदकरः सोमोयंवोयुष्मदर्थं शुनहोत्रेषुगृत्समदेष्वस्मासुस्थितः काम्यङ्कमनीयमेतंसोमम्पिबत ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This sharp, savoury, exhilarating (beverage), is (prepared) for you by the Śunahotras; drink of it at your plural asure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sharp and the honeyed invigorating (soma) are here for you among  the Śunahotras.  
 Drink this desirable (drink).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Among ihe gunahotras strong for you is this sweet gladdening draught.  
      Drink ye of this delightsome juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für euch ist dieser scharfe, der süße berauschende Soma bei den Sunahotra´s; trinket diesen erwünschten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der süsse, starkberauschende steht hier bei Çunahotra's Stamm, So trinket den willkomm'nen denn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для вас этот острый, сладкий  
 Опьяняющий (сома) у потомков Шунахотры.  

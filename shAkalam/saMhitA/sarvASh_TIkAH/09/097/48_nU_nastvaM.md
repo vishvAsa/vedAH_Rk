@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ नस् तुवं꣡ रथिरो꣡ देव सोम  
 प꣡रि स्रव चमु꣡वोः पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवो꣡ न꣡ यः꣡ सविता꣡ सत्य꣡मन्मा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒प्ऽसु । स्वादि॑ष्ठः । मधु॑ऽमान् । ऋ॒तऽवा॑ । दे॒वः । न । यः । स॒वि॒ता । स॒त्यऽम॑न्मा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M;; repeated line
 हे देव काम्यमान हेसोम रथिरोरथवांस्त्वं नोस्माकं स्वभूतेयज्ञे चम्वोरधिषवणफलक- योः पूयमानः सन् अप्सु वसतीवरीषु नुक्षिप्रं परिस्रव परितः क्षर । स्वादिष्ठः स्वादुतमः अतएव मधुमान् माधुर्ययुक्तः ऋतावा ऋतवान् यज्ञवान् सविता सर्वस्यप्रेरकोयस्त्वं देवोन देवइव सत्यमन्मा सत्यस्तुतिकोभवसि सत्वं परिस्रवेति ॥ ४८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,13 +133,13 @@ genre M;; repeated line
 Flow quickly into the cups: camvoḥ = adhiśavṇa phalakayoḥ; apsu is related with **parisrava**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now, you, o god Soma, as charioteer—flow around for us in the two  cups, while being purified,  
 sweetest in the waters, honeyed, truthful, you whose thoughts become  reality, like god Savitar’s.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -151,23 +151,23 @@ to the sun.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, chariot-borne, flow unto us, God Soma, as thou art purified flow to the saucers,  
      Sweetest in waters, rich in meath, and holy, as Savitar the God is, truthfulminded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun fließe du als Wagenfahrer ab, Gott Soma, in den beiden Camugefäßen geläutert, im Wasser recht schmackhaft, versüßt, ordnungsmäßig, der du in deinem Sinne aufrichtig bist wie Gott Savitri.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun ströme du, Gott Soma, Wagen lenkend, hell flammend durch die Seihe in die Schalen Ins Wasser heilig, honigsüss, sehr lieblich, der wie Gott Savitar du treu gesinnt bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот, о бог сома, беги же кругами,  
 Как наш колесничий, очищаясь в двух чанах,  

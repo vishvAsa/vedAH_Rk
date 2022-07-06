@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्रतूय꣡न्ति क्र꣡तवो हृत्सु꣡ धीत꣡यो  
 वे꣡नन्ति वेनाः꣡ पत꣡यन्ति आ꣡ दि꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 देवे꣡षु मे अ꣡धि का꣡मा अयंसत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 न । म॒र्डि॒ता । वि॒द्य॒ते॒ । अ॒न्यः । ए॒भ्यः॒ । दे॒वेषु॑ । मे॒ । अधि॑ । कामाः॑ । अ॒यं॒स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratūyanti* ← *kratūy*
 - \[verb\], plural, Present indikative
@@ -123,37 +123,37 @@ genre M
 हृत्सु हृदयेशु धितयो निधातव्या निहिताः क्रतवः प्रज्ञाः क्रतूयन्ति। अग्निहोत्रादिकर्म कर्त्रुमिच्छन्ति। तदेवाह। वेनाः कान्ताः प्रज्ञा वेनन्ति। देवान्कामयन्ते। वेनो वेनतेः शान्तिकर्मण इति यास्कः। नि. १०-३८। तथा दिशोऽस्माभिर्निदिश्यमानाः प्रेर्यमाणाः कामा आ पतयन्ति। देवान्फलावाप्तय आगच्छन्ति। यत एभ्यो देवेभ्योऽन्यो देव एषां कामानां मर्डिता सुखयिता न विद्यते। किं बहुना। देवेष्वधि। अधिशब्दः सप्तम्यर्थद्योतकः। इन्द्रादिषु देवेषु मे मदीयाः कामा अयंसत। नियम्यन्ते। यच्छतेः कर्मणि लुङि रूपम्॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The desires cherished in my heart strive to offer worship; (our) wishes long for (the gods) andexpressed (by us) go forth to (the gods); no other bestower of happiness exists except them; upon the gods aremy desire concentrated.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our intentions are intent (on them), the insights in our hearts. Our  trackers follow their track and fly to (all) directions.  
 No dispenser of mercy other than them is found. My desires have  
 fastened upon the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The will and thoughts within my breast exert their power: they yearn with love, and fly to all the regions round.  
      None other comforter is found save only these: my longings and my hopes are fixt upon the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es erwägen im Herzen die Erwägungen, die Gedanken; die spähenden Augen des Geistes spähen, sie fliegen nach allen Seiten. Es findet sich kein anderer Erbarmer außer ihnen. Auf die Götter sind meine Wünsche gerichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stark sind die Kräfte, in den Herzen hoher Sinn; hold sind die holden, fliegen hin in alle Welt; Kein andrer Tröster ausser ihnen findet sich, nur zu den Göttern streben meine Wünsche hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

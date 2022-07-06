@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡च् छु꣡ष्मा ओ꣡षधीनां᳐  
 गा꣡वो गोष्ठा꣡द् इवेरत्   
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आत्मा꣡नं त꣡व पूरुष
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पु॒रु॒ष॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchuṣmā* ← *ud*
 - \[adverb\]
@@ -92,35 +92,35 @@ popular;; epic anuṣṭubh (292);; repeated line
 **ओषधीनां** **शुष्माः** बलानि **उत्** ईरते उद्गच्छन्ति । रुग्णे स्ववीर्यं प्रोद्गमयन्तीत्यर्थः । **गावो** **गोष्ठादिव** । ता यथा ततः सकाशादुदीरते तद्वत् । कीदृशीनामोषधीनाम्। उच्यते । **धनं** स्वसामर्थ्यलक्षणं **सनिष्यन्तीनां** दातुमिच्छन्तीनाम् । किं प्रतीति उच्यते । हे **पूरुष** पुरुष रोगग्रस्त **तव** **आत्मानं** शरीरं प्रति । यद्वा । प्ररोहन्तीरोषधीर्दृष्ट्वा वदति । हे पुरुष प्रियङ्वाद्योषधिस्वामिन् तवात्मानं वर्धयितुं धनं सनिष्यन्तीनां व्रीह्याद्योषधीनां शुष्मा उदीरते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The virtues of the plural nts which are desirous of bestowing wealth issue from them, man, (towards) yourbody like cattle from the pen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The unbridled forces of the plants rise up like cows from the cowpen as they seek to gain the stake and your very self, o man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The healing virtues of the Plants stream forth like cattle from the stall,-  
      Plants that shall win me store of wealth, and save thy vital breath, O man.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Kräfte der Kräuter strömen aus wie die Kühe aus dem Kuhstand, die Kräuter, die Reichtum gewinnen sollen und dein Leben, o Mann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Kräuter Düfte strömen aus, wie aus dem Stall die Heerde dringt, Um zu gewinnen werthen Preis – und auch dein Leben, lieber Mann.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Силы растений  
 Выходят, как коровы из хлева,  

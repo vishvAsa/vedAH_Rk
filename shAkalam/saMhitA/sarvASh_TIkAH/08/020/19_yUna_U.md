@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यू꣡न ऊ षु꣡ न꣡विष्ठया  
 वृ꣡ष्णः पवाकाँ꣡+ अभि꣡ सोभरे गिरा꣡  
 गा꣡य गा꣡ इव च꣡र्कृषत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 गाय॑ । गाःऽइ॑व । चर्कृ॑षत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yūna* ← *yūnaḥ* ← *yuvan*
 - \[noun\], accusative, plural, masculine
@@ -92,7 +92,7 @@ genre M
 हे **सोभरे** **यूनः** नित्यतरुणान् **वृष्णः** वर्षितॄन् **पावकान्** तान् मरुतः **नविष्ठया** अतिशयेनाभिनवया **गिरा** वाचा स्तुतिरूपया **सु** शोभनम् **अभि** **गाय** अभिष्टुहि । **चर्कृषत्** पुनःपुनः कृषन् कृषीवलः **गाइव** । स यथा यूनः शक्ताननडुहः स्तौति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ genre M
 As a plural ughma: "as a plural ughman repeatedly drawing the furrows (praises oraddressed) of his oxen"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the youths, to the bulls, the pure ones, sing with your newest hymn, o  Sobhari,  
 like a plowman to his cows [/celebrating (the Maruts) like cows].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As was pointed out in the published introduction, pāda c contains a pun: the intens.
 
@@ -118,23 +118,23 @@ part. cárkṛṣat can belong straightforwardly to √kṛṣ ‘plough’, and
 Note also the phonological echo in gā́ya gā́(ḥ).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Sobhari, with newest song sing out unto the youthful purifying Bulls,  
      Even as a plougher to his steers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Jugendlichen besinge fein, o Sobhari, mit neuestem Loblied, die Bullen, die Lauteren, wie der Pflügende die Stiere ermuntert;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die jungen Stiere schreie an, o Sobhari, mit neustem Lied die flammenden, Wie sein Gespann der Pflügende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Юношей, быков, чистых хорошенько  
 Воспой самой новой хвалебной песнью, о Собхари,  

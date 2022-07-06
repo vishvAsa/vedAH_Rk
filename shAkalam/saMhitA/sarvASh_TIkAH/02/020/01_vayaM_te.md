@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ ते व꣡य इन्द्र विद्धि꣡ षु꣡ णः  
 प्र꣡ भरामहे वाजयु꣡र् न꣡ र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुम्न꣡म् इ꣡यक्षन्तस् तुवा꣡वतो नॄ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒प॒न्यवः॑ । दीध्य॑तः । म॒नी॒षा । सु॒म्नम् । इय॑क्षन्तः । त्वाऽव॑तः । नॄन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -121,7 +121,7 @@ genre M
 वयन्तेवयइतिनवर्चन्नवमंसूक्तम् गार्त्समदन्त्रैष्टुभमैन्द्रम् वयन्तइत्यनुक्रान्तम् सूक्तविनियोगोलिङ्गा दवधार्यताम् ।हेइन्द्र तेत् भ्यंवयंवयः सोमलक्षणमन्नं प्रभरामहे प्रकर्षेणसम्पादयामः तत्रदृष्टान्तः—वाजयुर्नय थान्नमात्मनइच्छन्पुमान् रथंशकटंसम्पादयतितद्वत् एवंहविःसम्पादकान्नोस्मान् सुसुष्ठु विद्धिजानीहि विदेर्ज्ञानार्थस्यलोटिरूपं वाक्यादित्वादनिघातः किङ्कुर्वन्तोवयं विपन्यवः तवस्तोत्रं कुर्वाणाः मनी षामनसईषयास्तुत्यादीध्यतोदीप्यमानाः दीधीङ्दीप्तिदेवनयोः व्यत्ययेनशतृ त्वावतः युष्मदस्मद्भ्यां छन्दसिसादृश्यौपसङ्ख्यानमितिवतुप् त्वत्सदृशान् नॄन् नेतॄन् अग्न्यादीन्सुम्नं सुखमियक्षन्तः याचमा- नाः यद्वा सुम्नंसुखेननॄन् नेतॄन् अग्न्यादीन् देवान् इयक्षन्तः इयक्षतिर्गतिकर्मा हविषातान्प्राप्नुवन्तोवयं भरमहइतिसमन्वयः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M
 As one desiring food brings: vājayurna ratham: yathā annamiccahanpumān śakaṭam sampādayati, as a man, wishing food, provides his cart or barrow to take it away
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We bring forward vitality for you, Indra—know of us!—as one seeking  victory’s prize (brings forward) a chariot,  
 as marveling we reflect through our inspired thinking and seek to obtain  (both) the good favor of one such as you and men (such as you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As one brings forth his car when fain for combat, so bring we power to thee- regard us, Indra-  
      Well skilled in song, thoughtful in spirit, seeking great bliss from one like thee amid the Heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir führen dir, Indra, - nimm doch ja Kenntnis von uns - eine Stärkung vor wie einer, der den Siegerpreis begehrt, seinen Wagen, laut preisend, im Geist nachsinnend, um die Gunst eines Herren gleich dir zu erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir fördern dir, o Indra, merke recht drauf, die Labung, wie Wettkämpfende den Wagen, Bewunderungsvoll, und singend mit Verständniss, erflehend Gunst von Männern, so wie du bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы приносим тебе – узнай нас хорошенько, о Индра! -  
 Усиление, как жаждущий награды (вывозит) колесницу,  

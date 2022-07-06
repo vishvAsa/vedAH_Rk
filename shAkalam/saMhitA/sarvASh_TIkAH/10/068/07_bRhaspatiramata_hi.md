@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्प꣡तिर् अ꣡मत हि꣡ त्य꣡द् आसां  
 ना꣡म स्वरी꣡णां स꣡दने गु꣡हा य꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उ꣡द् उस्रि꣡याः प꣡र्वतस्य त्म꣡नाजत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ण्डाऽइ॑व । भि॒त्त्वा । श॒कु॒नस्य॑ । गर्भ॑म् । उत् । उ॒स्रियाः॑ । पर्व॑तस्य । त्मना॑ । आ॒ज॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
@@ -130,36 +130,36 @@ genre M
 **बृहस्पतिः** **गुहा** गुहायां **सदने** स्थाने **स्वरीणां** शब्दायमानानाम् **आसां** गवां **त्यत्** तत् प्रसिद्धं **नाम** नामधेयं **यत्** यदा **अमत** **हि** ज्ञातवान् खलु।  ‘ मनु अवबोधने'। लुङि  ‘ तनादिभ्यस्तथासोः' (पा. सू. २, ४, ७९) इति सिचो लुक् । तदानीं **पर्वतस्य** अन्तःस्थिताः **उस्रियाः** गाः **त्मना** आत्मनैवासहायेन पर्वतं **भित्त्वा** **उत्** **आजत्** उदगमयत् । तत्र दृष्टान्तः । **आण्डेव** यथा **शकुनस्य** पक्षिण आण्डानि भित्त्वा तत्र स्थितं **गर्भम्** उद्गमयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When **Bṛhaspati** had discovered that name of the lowing kine in their plural ce in the cave, by his ownstrength he extricated the cattle from the rock as (breaking) the eggs of a bird (one extricates) the embryo.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Br̥haspati brought to mind this very name of these who were  resounding (with)in the seat—(the name) that was hidden.  
 Having split the womb of the mountain like the eggs of a bird, he drove  up the ruddy ones by himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That secret name borne by the lowing cattle within the cave Brhaspati discovered,  
      And drave, himself, the bright kine from the mountain, like a bird's young after the egg's disclosure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati gedachte nämlich des Namens dieser Lautbrüllenden, der an dem Orte verborgen war. Wie die Brut des Vogels, nachdem sie die Eier gespalten hat, so trieb er in eigner Person die Kühe als die Brut des Berges heraus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati nahm wahr der Kühe Wesen, der brüllenden, das in dem Sitz verborgne, Da knickte er des Geiers Brut wie Eier, und führte aus dem Fels heraus die Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь Брихаспати вызвал в памяти то имя  
 Этих громко ревущих (коров), которое было сокрыто на (их) месте.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हंसः꣡ शुचिष꣡द् व꣡सुर् अन्तरिक्षस꣡द्  
 धो꣡ता वेदिष꣡द् अ꣡तिथिर् दुरोणस꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अब्जा꣡ गोजा꣡ ऋतजा꣡ अद्रिजा꣡ ऋत꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नृ॒ऽसत् । व॒र॒ऽसत् । ऋ॒त॒ऽसत् । व्यो॒म॒ऽसत् । अ॒प्ऽजाः । गो॒ऽजाः । ऋ॒त॒ऽजाः । अ॒द्रि॒ऽजाः । ऋ॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haṃsaḥ* ← *haṃsa*
 - \[noun\], nominative, singular, masculine
@@ -154,7 +154,7 @@ genre M
 अनया  सौर्यर्चा  य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुः' (छा. उ. १.६. ६) इत्यादिश्रुत्युक्तो मण्डलाभिमानी देवोऽस्ति यश्च सर्वप्राणिचित्तरूपस्थितः परमात्मा यच्च निरस्तसमस्तौपाधिकं परं ब्रह्म तत्सर्वमेकमेवेति प्रतिपाद्यते ॥ **हंसः** । हन्तिर्गत्यर्थः । सर्वत्र सर्वदा गन्ता  ‘ योऽहं सोऽसौ' इत्यादिश्रुत्युक्तप्रकारेणैकीकृत्योपास्यः परमात्ममन्त्रप्रतिपाद्य आदित्यः। स च शुचौ दीप्ते द्युलोके सीदतीति **शुचिषत्** । अथ यदतः परो दिवो ज्योतिर्दीप्यते ' ( छा. उ. ३. १३. ७) इत्यादिश्रुतेः । अनेन द्युस्थानः आदित्यः प्रतिपादितः । स एव मध्यस्थानो वायुरित्याह । **वसुः** सर्वस्य वासयिता वायुः । स च **अन्तरिक्षसत्** अन्तरिक्षसंचारी । अथ तस्यैव क्षितिस्थानवैदिकाग्निरूपतामाह । **होता** देवानामाह्वाता होमनिष्पादको वा **वेदिषत्** वेद्यां गार्हपत्यादिरूपेण स्थितः । **अतिथिः** अतिथिवत् सर्वदा पूज्योऽग्निः । **दुरोणसत्** । दुरोणं गृहनाम । तत्र पाकादिसाधनत्वेन स्थितः । अनेन लौकिकाग्न्यात्मकत्वमुक्तम् । **नृषत्** । नृषु मनुष्येषु चैतन्यरूपेण सीदतीति नृषत् । अनेन परमात्मरूपत्वमुक्तम् । पुनरप्यादित्यात्मतामाह। **वरसत्** । वरे वरणीये मण्डले सीदतीति वरसत् आदित्यः । वरं वा एतत्सद्मनां यस्मिन्नेष आसन्नस्तपति (ऐ.ब्रा. ४.२०) इति हि श्रूयते । ऋतं सत्यं ब्रह्म यज्ञो वा । तत्र सीदतीति **ऋतसत्** अग्निः । व्योमान्तरिक्षम् । तत्र सीदतीति **व्योमसत्** वायुः । इदानीमादित्यतोच्यते । **अब्जाः** उदकेषु जातः । उदकमध्ये खल्वयं जायते । **गोजाः** गोषु रश्मिषु जातः । ऋतं सत्यम् । सर्वैर्दृश्यत्वेन सत्यजातः। न ह्यसाविन्द्रादिवत् परोक्षो भवति । यद्वा । उदकेषु वैद्युतरूपेण वा वाडवरूपेण वा जातः । 'अद्रिजाः अद्भावुदयाचले जातः । एवं महानुभाव आदित्यः **ऋतं** सत्यमबाध्यं सर्वाधिष्ठानं ब्रह्मतत्वम् । तद्रूपो ह्यसावेव। आदित्यस्योक्तरूपत्वं 'हंसः शुचिषदित्येष वै हंसः शुचिषत् ' (ऐ. ब्रा. ४. २०) इत्यादिना ब्राह्मणे समाम्नतम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -187,36 +187,36 @@ Vyomasad = the dweller in the sky or the wind;
 **Adrijā** = mountain-born, i.e. in the eastern mountain, where he rises; or, born in stone in the form of Agni, as if alluding to flint; or, **adri** may denote the cloud, thus he may be said to be genitive rated in the clouds, īpa; **Āditya** in the form of parabrahma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A goose sitting in the gleaming (waters), a good one sitting in the  midspace, a Hotar sitting at the vedi, a guest sitting in the dwelling,  
 sitting among men, sitting in the choice place, sitting in truth, sitting in  high heaven, water-born, cow-born, truth-born, stone-born—Truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the increasingly furious speed and frenzied activity in the last vss., culminating in the three intensives (two in the preceding hemistich, 4c, d), this vs. brings it to a shockingly abrupt stop. Eight cmpds ending in ‘sit’ (-sád-), with a sense exactly opposite to the preceding verbs of motion, decisively halt the movement and impose a state of rest, even inertia. The horse is gone; I explicitly do not think this series of phrases are meant to serve as predicates to an unexpressed Dadhikrā, pace Oldenberg and Witzel Gotō. Instead I think these are images of tranquility, of beings in their proper places, a vision of cosmic balance that has no need for the frenetic agitation we have just witnessed. The lack of finite verbs and participles -- all verbal notions being expressed by root-nouns in compound -- models this stasis. The -sád- cmpds give way in the final pāda to 4 -jā́- ‘X-born’ cmpds. I am not entirely sure of their purpose, but I think they sketch (however incomplete) the sources of the entities in the cosmos.
 
 And we end with the single word ṛtám ‘truth’, which, perhaps, incorporates it all, beyond which nothing more is needed and no motion required.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Hamsa homed in light, the Vasu in mid-air, the priest beside the altar, in the house the guest,  
      Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Schwan, der im klaren Himmel sitzt, der Gott, der in der Luft sitzt, der unter den Männern sitzt, der Hotri, der auf der Vedi sitzt, der Gast, der im Hause sitzt, der im Schoße der Wahrheit sitzt, der im Himmel sitzt, der wassergeborene, kuhgeborene, wahrheitsgeborene, felsgeborene, die Wahrheit selbst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der gute Schwan, der wohnt im Licht und in der Luft, der Gast und Priester, der im Haus am Altar sitzt, Bei Männern wohnt, im Tempel, Luft und Aetherraum, erzeugt aus Opfer, Wassern, Kühen und Gestein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Лебедь, находящийся в ясном (небе,) Васу, находящийся в воздухе,  
 Хотар, находящийся на алтаре, гость, находящийся в доме,  

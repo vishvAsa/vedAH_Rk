@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनाना꣡सश् चमूष꣡दो  
 ग꣡छन्तो वायु꣡म् अश्वि꣡ना  
 ते꣡ नो धान्तु सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ते । नः॒ । धा॒न्तु॒ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punānāsaś* ← *punānāsaḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -87,41 +87,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** प्रसिद्धाः सोमाः **पुनानासः** पुनाना अभिषूयमाणाः **चमूषदः** चमसेषु सीदन्तः **वायुम्** **अश्विना** अश्विनौ च **गच्छन्तः** प्राप्नुवन्तः **नः** अस्मभ्यं **सुवीर्यं** शोभनवीर्यं **धान्तु** धारयन्तु । प्रयच्छन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pure-flowing, filling the ladles, and proceeding to **Vāyu** and the **Aśvins**, may they sustain our energy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified, finding a seat in the cups, going to Vāyu and the  Aśvins,  
 let them confer good heroic power on us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the gods Vāyu and the Aśvins, along with Indra, who was mentioned in the previous vs., are also the gods mentioned as the goal of the soma in IX.7.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Laid in the bowl, pure-flowing on to Vayu and the Asvins, may  
      These give us great heroic strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sich läuternd, in den Gefäßen sitzend, zu Vayu und den Asvin gehend, sollen sie uns die Meisterschaft bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn rein sie in den Schalen ruhn, zum Vaju, zu den Rittern gehn, So geben sie uns Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, осаждаясь в чане,  
 Направляясь к Ваю, Ашвинам,  

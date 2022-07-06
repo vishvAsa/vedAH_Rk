@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सु꣡ नः सविता꣡ भ꣡गो  
 व꣡रुणो मित्रो꣡ अर्यमा꣡  
 इ꣡न्द्रो नो रा꣡धसा꣡ गमत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 इन्द्रः॑ । नः॒ । राध॑सा । आ । ग॒म॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -95,35 +95,35 @@ genre M
 येन **राधसा** धनेन सह **सविता** **भगो** **वरुणो** **मित्रोऽर्यमा** **इन्द्रः** प्रत्येकम् **आ** **गमत्** आगच्छति यज्ञम् । **तत्** राधो धनं ते देवाः **नः** अस्मभ्यं **सु** सुष्ठु प्रयच्छन्त्विति शेषः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Savitā**, **Bhaga**, **Varuṇa**, **Mitra**, **Aryaman**, **Indra**, come to us with the wealth (that each bestow).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So to us Savitar, Bhaga, Varuṇa, Mitra, Aryaman—  
 to us Indra—will come with generosity.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So then may Bhaga, Savitar, Varuna, Mitra, Aryaman, Indra, with bounty come to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das soll uns fein Savitri, Bhaga, Varuna, Mitra, Aryaman gewähren. Indra soll zu uns mit Belohnung kommen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum komme schnell uns Savitar, Varuna, Mitra, Arjaman und Bhaga, Indra mit Geschenk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это нам прекрасно (дарует) Савитар, Бхага,  
 Варуна. Митра, Арьяман.  

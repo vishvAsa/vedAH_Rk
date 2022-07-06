@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ विद्वाँ꣡ अ꣡ङ्गिरोभिय  
 इ꣡न्द्रो गा꣡ अवृणोद् अ꣡प  
 स्तुषे꣡ त꣡द् अस्य पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 स्तु॒षे । तत् । अ॒स्य॒ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -92,7 +92,7 @@ genre M
 **सः** **विद्वान्** उपायज्ञः **इन्द्रः** **अङ्गिरोभ्यः** तेषामर्थाय **गाः** पणिभिरपहृताः पिहिताः  **अप** **अवृणोत्** अपवारितवान् । **तत्** तादृशम् **अस्य** पौंस्यं पुंस्त्वं सामर्थ्यं **स्तुषे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ genre M
 Discovered the cows:when carried off by the **paṇis**; cf. RV 1.6.5; 1.11.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, knowing how, uncovered the cows for the Aṅgirases.  
 That manly act of his is to be praised.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 stuṣé could alternatively be 1st sg. ‘I shall praise’. I interpret it as an infinitive, with Geldner, because there has been so far no personal reference to the poet.
 
@@ -118,23 +118,23 @@ But this is not a strong argument, esp. since “we” make an appearance in vs.
 The mention of the opening of the Vala cave may allude to the dawn, and therefore to the dawn happening at this sacrifice now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra who knew full well disclosed the kine to the Angirases.  
      This his great deed must be extolled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Indra hat kundig den Angiras die Rinder aufgedeckt. Zu Preisen ist diese Mannestat von dir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Indra, der's versteht, erschloss den Angiras der Kühe Schar; Ich preise dies sein Heldenwerk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот знаток Индра  
 Открыл Ангирасам коров.  

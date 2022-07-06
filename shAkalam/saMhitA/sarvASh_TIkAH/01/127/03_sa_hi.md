@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ पुरू꣡ चिद् ओ꣡जसा विरु꣡क्मता  
 दी꣡दियानो · भ꣡वति द्रुहंतरः꣡  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 धन्वास꣡हा न꣡ अयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 निः॒ऽसह॑मानः । य॒म॒ते॒ । न । अ॒य॒ते॒ । ध॒न्व॒ऽसहा॑ । न । अ॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -163,14 +163,14 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **स** **हि** स एव पूर्वं स्तुतः एवाग्निः **विरुक्मता** विशेषेण रोचनवता **ओजसा** ज्वालारूपेण बलेन **पुरु** **चित्** अत्यधिकमेव **दीद्यानः** दीप्यमानः **द्रुहंतरः** द्रोग्धॄणां तरिता निवारयिता **भवति** अस्मासु द्रोहं कुर्वतां शत्रूणां हिंसको भवतीत्यर्थः । तत्र दृष्टान्तः । **द्रुहंतरः** द्रोग्धॄणां छेदनाय प्रयुक्तः **परशुर्न** परशुरिव । स यथा अमोघं हिनस्ति तथायमपि। किंच **यस्य** अग्नेः **समृतौ** संगतौ संयोगे **वीळु** **चित्** दृढमपि पाषाणादिकं **श्रुवत्** गच्छेत् शीर्येत । तथा **यत्स्थिरं** यच्च पर्वतादि स्थिरमचलितं तदपि श्रुवत् । वीड्विति दृढनाम, ‘वीळु च्यौत्नम् ( नि. २. ९. १४ ) इति तन्नामसु पाठात् । तत्र दृष्टान्तः । **वनेव** उदकमिव । उदकं यथाग्निसंयोगे शुष्यति तथेत्यर्थः । अत्यन्तदृढं स्थिरमपि हिनस्ति अस्मद्द्रोग्धारं शत्रुं हिनस्तीति किमु वक्तव्यमित्यभिप्रायः । किंच अयमग्निः **निष्षहमाणः** शत्रून् निःशेषणाभिभवन् **यमते** उपरमते शत्रुषु मध्ये क्रीडति तानेव नाशयति । तथा कुर्वन् **नायते** न गच्छति शत्रोः सकाशान्न पलायते । तत्र दृष्टान्तः । **धन्वसहा** **न** । धनुषा शत्रूनभिभवति इति धन्वसहा धानुष्कः ॥ सहतेरसुन् छन्दसोऽन्त्यलोपः ॥ स यथा शत्रोरभिमुखं विध्यति न पलायते तद्वदित्यर्थः । यद्वा । दृढधनुर्वहनक्षमः धन्वसहः ॥ अस्मिन् पक्षे पचाद्यच् । ‘ सुपां सुलुक्' इत्याकारः ॥ दृढधन्वा सन् न **अयते** न चलति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, that **Agni**, far shining with brilliant vigour, is the destroyer of foes, like a hatchet that cuts down trees; whatever is most solid and stable dissolves like water at his contact; unsparing, he sports (amidst enemies), nor desists (from their destruction), like an archer who retreats not (frombattle).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because he, shining upon the many with his radiant might, becomes  the overcomer of deceit—the overcomer of deceit, as an axe is an  
 excellent striker of wood—  
@@ -179,7 +179,7 @@ the trees,
 going forth to conquer, he will hold his place, he will not be moved— with his conquering of the wastelands, he will not be moved.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse is richly studded with problems. One of the lesser ones is the referent and grammatical identity of purū́in the first pāda. Grassmann classifies it with singular (presumably NA neut.) forms; Geldner takes it as an adv. ‘gar sehr’; Witzel Gotō as instr.
 
@@ -200,29 +200,29 @@ The final problem in the verse is the cmpd. instr. sg. dhanvāsáhā. This is al
 I.127.3-4: In the published translation ójasā in 3a and 4f should have been tr. the same, rather than ‘might’ and ‘strength’ respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He with his shining glory blazing far and wide, he verily it is who slayeth demon foes, slayeth the demons like an axe:  
      At whose close touch things solid shake, and what is stable yields like trees.  
      Subduing all, he keeps his ground and flinches not, from the skilled archer flinches not.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He indeed, shining mightily with his shining strength 1, becomes the conqueror of deceitful foes 2—like an axe, the conqueror of deceitful foes 2. He at whose onslaught 3 even what is strong melts away 4, steady things (waste away) like forests (which are burnt or bend down in the storm) 5. Conquering he holds himself back; he does not proceed 6. As with a conquering bow-man he proceeds 6.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er, der gar sehr mit strahlender Kraft leuchtet, ist der Unholdüberwinder, wie eine Axt der Unholdüberwinder und der Baumfäller, bei dessen Anprall auch das Harte bricht, das Feste wie Bäume. Siegreich läßt er sich lenken, geht nicht durch; von dem Bogensieger gelenkt geht er nicht durch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er, der viel mit seiner flammenreichen Kraft bestrahlt, er ist es, welcher die Dämonen tilgt, Dämonen tilget wie ein Beil, Bei dessen Andrang auch das harte schnell zerfliesst, wie Wasserflut das feste auch; Den Sieg gewinnend hält er Stand, nicht weicht er je, vor starkem Schützen weicht er nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это он, вспыхивая во многих местах  
 С искрящейся силой, пересекает зло,  

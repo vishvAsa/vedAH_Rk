@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सम्रा꣡जाव् अस्य꣡ भु꣡वनस्य राजथो  
 मि꣡त्रावरुणा विद꣡थे सुवर्दृ꣡शा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्या꣡वापृथिवी꣡ वि꣡ चरन्ति तन्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒ष्टिम् । वा॒म् । राधः॑ । अ॒मृ॒त॒ऽत्वम् । ई॒म॒हे॒ । द्यावा॑पृथि॒वी इति॑ । वि । च॒र॒न्ति॒ । त॒न्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samrājāv* ← *samrājau* ← *samrāj*
 - \[noun\], nominative, dual, masculine
@@ -114,7 +114,7 @@ genre M
 हे **मित्रावरुणा** मित्रावरुणौ **सम्राजौ** सम्यक् राजमानौ युवाम् **अस्य** **भुवनस्य** **राजथः** ईशाथे । **स्वर्दृशा** स्वर्गस्य द्रष्टारौ युवां **विदथे** अस्मद्यज्ञे सम्राजाविति संबन्धः । **वां** युवां **वृष्टिं** **राधः** धनं वृष्ट्याख्यं धनम् **अमृतत्वं** स्वर्गं च **ईमहे** प्रार्थयामहे । युवयोः **तन्यवः** विसृता रश्मयः **द्यावापृथिवी** **वि** **चरन्ति** विविधं प्राप्नुवन्ति । अथवा वृष्टिं धनममृतत्वं चेमहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 Vām tanyavaḥ **vistṛta** raśmayaḥ, the expanding rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As sovereign kings, you two of sunlike appearance rule over this living  world in its division, o Mitra and Varuṇa.  
 We implore the gift that is rain, that is immortality. Thunder ranges  through Heaven and Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This world's imperial Kings, O Mitra-Varuna, ye rule in holy synod, looking on the light.  
      We pray for rain, your boon, and immortality. Through heaven and over earth the thunderers take their way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Allherrscher herrschet ihr über diese Welt, Mitra und Varuna, in Weisheit, durch die Sonne sehend. Wir bitten um eure Gabe, um Regen und Unsterblichkeit. Die Donner gehen über Himmel und Erde hin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Oberherrn beherrscht ihr beide diese Welt, der Sonne gleich beim Feste, Mitra-Varuna; Wir flehn euch an um Regen, Schatz, Unsterblichkeit; die Donnerer durchwandern Erd' und Himmelsraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два самодержца правите вы этим миром,  
 О Митра-Варуна, (главные) на жертвенной раздаче, вы, которые видят солнце.  

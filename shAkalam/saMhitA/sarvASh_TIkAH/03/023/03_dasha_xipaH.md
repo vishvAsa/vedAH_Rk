@@ -6,7 +6,7 @@ ChandaH = "सतोबृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श क्षि꣡पः पूर्वियं꣡ सीम् अजीजनन्  
 सु꣡जातम् मातृ꣡षु प्रिय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "सतोबृहती"
 यो꣡ ज꣡नानाम् अ꣡सद् वशी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । स्तु॒हि॒ । दै॒व॒ऽवा॒तम् । दे॒व॒ऽश्र॒वः॒ । यः । जना॑नाम् । अस॑त् । व॒शी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
@@ -116,7 +116,7 @@ genre M
 हे अग्ने देववातस्य **क्षिपः** । क्षिप्यन्ते कर्मकरणार्थमिति क्षिपोऽङ्गुलयः ताश्च **दश** । बाहुद्वयस्य मथनसाधनत्वेन तत्रत्या अङ्गुलयो दशसंख्याकाः । तादृश्योऽङ्गुलयः **पूर्व्यं** पुरातनं **सीम्** एनं त्वाम् **अजीजनन्** उदपीपदन् । हे **देवश्रवः** **मातृषु** मातृभूतारण्योः **सुजातं** सुष्टुत्पन्नम् अत एव **प्रियं** कमनीयं **दैववातं** देववातेन मथितमेनम् **अग्निं** स्तुहि । **यः** अग्निः **जनानां** स्तोतॄणां यजमानानां **वशी** वशवर्ती कर्मणां स्वातन्त्र्येण प्रवर्तकः **असत्** भवति तं स्तुहीति पूर्वेणान्वयः ॥ दश । ‘दंश दशने' । **कनिन्** ' इत्यनुवृत्तौ ‘नुदशोर्गुणश्च' इति कनिन् । नित्स्वरः । क्षिपः । ‘क्षिप प्रेरणे' । औणादिकः कर्मणि क्विप् । क्षिप्यन्ते प्रेर्यन्ते कर्मस्विति क्षिपोऽङ्गुलयः । धातुस्वरः । अजीजनन् । **जनी** प्रादुर्भावे ' । हेतुमण्ण्यन्तस्य लुङि चङ्द्विर्वचनसन्वद्भावाभ्यासेत्वदीर्धाः । निघातः । स्तुहि । ' ष्टुञ् स्तुतौ ' इत्यस्य लोटि रूपम् । अदादित्वात शपो लुक् । निघातः । दैववातम् । देववातेन निर्वृत्तमित्यर्थे ' तेन निवृत्तम्' (पा. सू. ४. २.६८) इत्यण् । प्रत्ययस्वरः । असत् । अस भुवि ' । अस्य लेट्यडागमः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,34 +127,34 @@ genre M
 His parents: the two pieces of stick that have been rubbed together by Devavāta
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ten fingers have given birth to him, the ancient one, the dear one born  well among his mothers.  
 Praise the Agni of Devavāta, o Devaśravas, (the fire) who will exert his  will over the peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him nobly born of old the fingers ten produced, him whom his Mothers counted dear.  
      Praise Devavata's Agni, thou Devasravas, him who shall be the people's Lord.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 The ten fingers have brought him to the birth, the ancient, beloved (Agni), well born in his mothers 2. Praise, O Devasravas, the Agni of Devavâta who 3 should be the lord of people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die zehn Finger haben als allerersten erzeugt den von den Müttern schöngeborenen Liebling. Preise den Agni des Devavata, o Devasravas, der der Menschen Gebieter sein soll!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zehn Finger zeugten ihn den uralten, den lieben in dem Müttern schöngebornen; preise, o Devaçravas, den von Devavāta verehrten Agni, der über die Menschen Herr sei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Десять пальцев породили его, древнего,  
 Прекраснорожденного в матерях, приятного.  

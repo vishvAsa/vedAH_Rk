@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वः सखायो म꣡दाय  
 पुनान꣡म् अभि꣡ गायत  
 शि꣡शुं न꣡ यज्ञइः꣡ स्वदयन्त गूर्ति꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 शिशु॑म् । न । य॒ज्ञैः । स्व॒द॒य॒न्त॒ । गू॒र्तिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -90,42 +90,42 @@ genre M
 हे **सखायः** ऋत्विजः **वः** यूयं **मदाय** देवानां मदार्थं **पुनानं** पूयमानं **तं** सोमम् **अभि** **गायत** अभिष्टुत । तमिमं सोमं **शिशुं** **न** शिशुमिवालंकारैः क्षीरादिभिश्च यथा स्वादूकुर्वन्ति तद्वत् **यज्ञैः** हविर्भिर्मिश्रणैः **गूर्तिभिः** स्तुतिभिश्च **स्वदयन्त** स्वादूकुर्वन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hymn, friends, the **Soma** purified for the exhilaration (of the gods), gratify him with oblations and praises as (men gratify) a child (with ornaments).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Comrades, sing to him while he is being purified for your exhilaration. Like a child they sweeten him with sacrifices, with greetings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The init. voc. sákhāyaḥ in 104.1a is postponed in 105.1a till after táṃ vaḥ.
 
 The 2nd pāda begins with the same middle participle, punāná-, but in diff. case forms: 104.1b dative, 105.1b acc. The rest of b is identical save for the preverb: 104.1b prá gāyata, 105.1b abhí gāyata. The final pādas begin identically, śíśuṃ ná, but go their own ways.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING; ye aloud, O friends, to him who makes him pure for gladdening drink:  
      They shall make sweet the Child with sacrifice and laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf ihn, der sich euch, ihr Freunde, zum Rauschtrank läutert, stimmet den Gesang an! Wie ein Kind, so richten sie ihn mit Opfergebeten, mit Lobsprüchen her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besingt, o Freunde, diesen hier, den ihr zum Rausch geläutert habt; Sie säugen ihn mit Lob und Opfer wie ein Kind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспойте, о друзья, этого очищающегося  
 Для вашего опьянения!  

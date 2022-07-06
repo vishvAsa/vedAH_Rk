@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो मित्रा꣡य गायत  
 व꣡रुणाय विपा꣡ गिरा꣡  
 म꣡हिक्षत्राव् ऋत꣡म् बृह꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 महि॑ऽक्षत्रौ । ऋ॒तम् । बृ॒हत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -85,35 +85,35 @@ genre M
 हे मदीया ऋत्विजः **वः** । यूयमित्यर्थः । **मित्राय** **वरुणाय** च **विपा** व्याप्तया **गिरा** स्तुत्या **प्र** **गायत** स्तुतिं कुरुत । स्तुत्या स्तुवतेत्येतत् पाकं पचतीतिवत् । हे **महिक्षत्रौ** प्रभूतबलौ युवाम् **ऋतं** यज्ञं **बृहत्** महत् अतिप्रशस्तम् । स्तुत्यर्थमागच्छतमिति शेषः । अथवा महत प्रभूतम् ऋतं स्तोत्रं शृणुतमिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing loud with lusty praise to **Mitra** and **Varuṇa**; (come), mighty deities, to the great sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing forth to Mitra and to Varuṇa with your inspiration and song. O you two of great dominion, lofty is our truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING forth unto your Varuna and Mitra with a song inspired.  
      They, Mighty Lords, are lofty Law
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmt den Gesang für Mitra und Varuna an mit eurem beredten Lobe! Ihr beiden Träger der großen Herrschaft höret die Wahrheit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, euren Mitra, Varuna besingt mit geisterregtem Lied, Das hohe Recht, grossmächtige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пропойте вы для Митры,  
 Для Варуны вдохновенную хвалу!  

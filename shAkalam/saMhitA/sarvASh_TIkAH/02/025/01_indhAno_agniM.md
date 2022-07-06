@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्धानो अग्निं꣡ वनवद् वनुष्यतः꣡  
 कृत꣡ब्रह्मा शूशुवद् रात꣡हव्य इ꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 जा॒तेन॑ । जा॒तम् । अति॑ । सः । प्र । स॒र्सृ॒ते॒ । यम्ऽय॑म् । युज॑म् । कृ॒णु॒ते । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indhāno* ← *indhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
@@ -146,41 +146,41 @@ genre M
 अग्निमिन्धानः ब्रह्मणस्पतेर्यागार्थंअग्निम्प्रज्वलयन्यजमानः वनुष्यतोहिंसिष्यतोहिंसां कुर्वतोवाश- त्रून् वनवत् वनुयाथिंस्यात् वनुष्यतिर्हन्तिकर्मेतियास्कः । इदितिचार्थे किञ्च कृतब्रह्मा ब्रह्मस्तोत्रङ्कृतं येनसतथोक्तः रातहव्यः रातन्दत्तंहव्यंहविर्येन एवम्भूतःसन् शूशुवत् वर्धते टुओश्विगतिवृद्भ्योः अस्मा- ण्ण्यन्ताल्लुङिरूपम् तथासयजमानः जातेनपुत्रेणजातंउत्पादितंस्वस्य पौत्रं अतिप्रसर्सृते अतीत्यभृशं प्रसरति पौत्रमपिपस्यन् चिरकालञ्जीवेदित्यर्थः सर्तेर्यङ्लुगन्ताद्भ्यत्ययेनात्मनेपदम् यंयंयजमानम्ब्रह्म- णस्पतिः स्तोत्रहविषोःस्वीकरणेनयुजं सखायं कृणुतेकुरुते सससमानएवभवतीत्यर्थः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Kindling the fire, may (the worshipper) overcome the malevolent (disturbers of the rite); may he, repeating prayers, and laden with oblations, prosper; he whom **Brahmaṇaspati** makes his associates, lives to behold the son of his son.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kindling the fire, he will win against those who seek to win. Just he by  whom the sacred formulations are made and by whom the oblations  are bestowed will swell with strength.  
 With his offspring he keeps extending himself beyond the offspring (of  others)—whomever the lord of the sacred formulation makes his own  yokemate.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c I take the phrase jāténa jātám as expressing an essentially hostile relationship between adversaries: he extends beyond the offspring (of his competitor) with his own offspring. This interpr. would match the similar configuration of etymological figures in 2a vīrébhir vīrā́n vanavad vanuṣyatáḥ “With his heroes he will win against the heroes who seek to win,” which in turn expands the etymological figure in vanavad vanuṣyatáḥ in 1a. The standard tr. take both elements in jāténa jātám as referring to the offspring of the subject: “he will extend beyond his offspring with (more) offspring” or “offspring after offspring.” However, the strong parallel in 2a makes this less likely in my opinion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE lighting up the flame shall conquer enemies: strong shall he be who offers prayer and brings his gift.  
      He with his seed spreads forth beyond another's seed, whomever Brahmanaspati takes for his friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer das Opferfeuer entzündet, wird die Neider überwinden. Wer den Göttern Erbauung schafft und Opfer spendet, wird die Übermacht haben. Der überdauert den Sohn von seinem Sohne, wen immer Brahmanaspati zu seinem Verbündeten macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Agni zeugt, wird über Feinde siegreich sein, gedeihen, wer Gebete spricht und Opfer bringt; Und dessen Stamm wächst über andern Stamm hinaus, wen der Gebets Herr je sich zum Genossen macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигающий жертвенный костер победит желающих победить.  
 Сотворивший молитву, принесший жертву усилится.  

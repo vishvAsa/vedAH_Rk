@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सू꣡रियो न꣡ भानुम꣡द्भिर् अर्कइ꣡र्  
 अ꣡ग्ने तत꣡न्थ रो꣡दसी वि꣡ भासा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शोचि꣡षा प꣡त्मन्न् औशिजो꣡ न꣡ दी꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 चि॒त्रः । न॒य॒त् । परि॑ । तमां॑सि । अ॒क्तः । शो॒चिषा॑ । पत्म॑न् । औ॒शि॒जः । न । दीय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,14 +129,14 @@ genre M
 हे **अग्ने** रोदसी द्यावापृथिव्यौ भासा दीप्त्या **वि** **आ** **ततन्थ** विशेषणाच्छादयसि । सत्र दृष्टान्तः। **भानुमद्भिः** प्रभवद्भिः अर्कैः अर्कनीयैः किरणैः सूर्यो **न** । यथा सूर्य आतनोति तद्वत् । परोऽर्धर्चः परोक्षकृतः । पत्मन् । पतत्यस्मिन्निति पत्म मार्गः । तस्मिन औशिजो न । उशिजः स्तोतारः । स्तुत्यतया तत्संबन्ध्यौशिजः सूर्यः । स इव **दीयन्** गच्छन् **शोचिषा** तेजसा **अक्तः** संश्लिष्टः अत एव **चित्रः** चायनीयोऽग्निः **तमांसि** नैशन्यन्धकाराणि **परि** **णयत्** परिणयति परितो गमयति । सर्वस्मादपि दिग्भागान्निवर्तयतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You over spread, **Agni**, heaven and earth with radiance, like the sun with his lustrous rays; the wonderful Agni disperses the glooms like the adored (sun) moving on his path, imbued with light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the sun with its radiant rays, o Agni, you stretch through the two  world-halves with your light.  
 The bright one, anointed, leads (us) around the dark shades with  
@@ -144,7 +144,7 @@ his flame, like the descendant of Uśij [=fire-priest/poet Kakīṣvant
 Dairghatamasa] soaring in flight [=in exhilaration of soma?].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ā́… bhānumádbhir arkaíḥ … tatántha is an elaboration of VI.6.6 (next hymn) ā́bhānúnā … tatantha. In our passage tatántha is accented because it follow pāda-initial, extra-sentential voc. ágne.
 
@@ -155,23 +155,23 @@ There is no agreement about where to construe the instr. śocíṣā. Renou take
 I am rather baffled by the simile in d. The vṛddhi form auśijá- is usually used as the patronymic of Kakṣīvant, one of the great poets of maṇḍala I (e.g., I.119.9, 122.4, 5), but morphologically it could also simply be a derivative of uśíj- ‘(type of) priest’. It also occurs once (I.112.11) with the rare word vaṇíj- ‘merchant’; that passage also contains Kakṣīvant (though not in the same syntagm). Geldner claims that our passage is part of “die Sage vom fliegenden Kaufmann,” but the two other passages he cites (one of them I.112.11) certainly do not add up to a saga, and dī́yan ‘flying, soaring’ does not have to belong to the simile as he (and Renou) take it. I am inclined to think that the referent of auśijáḥ is, as usual, Kakṣīvant. His (other) patronymic, according to the Anukramaṇī, is dairghatamasa ‘descendent of Dīrghatamas’, another celebrated poet of Maṇḍala I, whose name means ‘having long darkness’ (=blindness, quite possibly). I suggest that we have here a reference to Kakṣīvant via the vṛddhi deriv. auśíja-, and this reference to Kakṣīvant then obliquely evokes his relationship to Dīrghatamas. So, somewhat ironically, a poet connected to “long darkness” leads us around (/helps us avoid) darkness. I would further suggest that pátman … dī́yan “soaring in flight” might refer to soma exhilaration (as in X.119 the Labasūkta). Cf. I.119.9 máde sómasyauśijó huvanyati “in the exhilaration of soma, (Kakṣīvant), the son of Uśij, cries out (to you),” where Kakṣīvant, identified as auśíjaḥ, cries out “in the exhilaration of soma.” If this nomenclatural intertextuality seems too far-fetched, we can take auśíjasimply as descended from / connected to (fire-)priests and assume that Agni is being compared to his priest (for, to me, unspecified reasons).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Surya with his fulgent rays, O Agni, thou overspreadest both the worlds with splendour.  
      Decked with bright colour he dispels the darkness, like Ausija, with clear flame swifily flying.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Du hast wie die Sonne mit den glänzenden Strahlen mit deinem Lichte beide Welten durchzogen. Der Buntfarbige führt über die Finsternis hinweg, mit Schmalz gesalbt durch seine Flamme im Fluge wie die fliegende Ausija.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sonne gleich umspanntest du, o Agni, mit Flammenstrahlen, hellem Licht die Welten; Mit Glanz geschmückt trieb er hinweg das Dunkel, mit Licht im Schwung wie voll Begierde fliegend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно солнце с сверкающими лучами,  
 О Агни, светом ты заполнил оба мира.  

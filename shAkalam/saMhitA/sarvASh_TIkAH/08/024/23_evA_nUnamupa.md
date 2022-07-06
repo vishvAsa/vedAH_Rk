@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ नून꣡म् उ꣡प स्तुहि  
 वइ꣡यश्व दशमं꣡ न꣡वम्  
 सु꣡विद्वांसं चर्कृ꣡त्यं चर꣡णीना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सुऽवि॑द्वांसम् । च॒र्कृत्य॑म् । च॒रणी॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M
 हे **वैयश्व** व्यश्वस्य पुत्र विश्वमनः **चर्षणीनां** मनुष्याणां देहे स्थितानां नवानां प्राणानां **दशमं** दशसंख्यापूरकम् । तत्र मन्त्रः-’ नव वै पुरुषे प्राणा मनुष्येषु वर्तमाना इन्द्रस्तेषां दशधा भवतीन्द्रस्यात्मानं दशधा चरन्तम्' इति । एतादृशमत एव **नवं** स्तुत्यं सुविद्वांसम् अन्तर्यामित्वात् सुष्ठु सर्वं जानन्तं **चर्कृत्यं** भूयो भूयः कार्येषु सर्वैर्नमस्कर्तव्यमेवंविधमिन्द्रम् **एव** **नूनम्** इदानीम् **उप** **स्तुहि** समीपे स्तुहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,36 +95,36 @@ genre M
 Vital principles: daśaman =the tenth; there are nine vital airs in the human body, Indra is the tenth; **nava** vai puruṣe **prāṇā** manuṣyeṣuvartamānā **indras** teṣām daśadha; cf. **Taittirīya** **Brāhmaṇa** 1.3.7.4; Taittirīya **Saṃhitā** 1.7.9
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way now, o Vaiyaśva, praise him anew [/to the nines, and  then] a tenth time—  
 the one who knows well, worthy to be celebrated by those who roam.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A very cute pun, with návam meaning, as often in a hymnal context, ‘anew’, but in conjunction with daśamám ‘tenth’ evoking náva ‘nine’.
 
 caráṇi- is a hapax, but most likely derived from the root √car ‘wander’ (see EWA s.v. CARI , though AiG II.2.207 considers it of unclear meaning). It must have been created to contrast semantically with the very frequent near-rhyme form carṣaṇí- ‘settled/boundaried peoples’, whose gen. pl. carṣaṇīnā́m occurs 35x in the RV, always at the end of the pāda as here (including VIII.23.7 hótāram carṣaṇīnā́m, the adjacent hymn by the same poet). That the short initial syllable of caráṇīnām produces a bad cadence surely draws more attention to the word it was created in opposition to.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, son of Vyasva, praise thou him who to the tenth time still is new,  
      The very Wise, whom living men must glorify
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also preise jetzo aufs neue zum zehnten Male, du Vyasvasohn, den wohlverständigen, für die fahrenden Leute Rühmenswerten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So preise nun, Viaçva's Sohn, den sehenswerthen, herrlichen, Den rühmenswerthen Kenner der Lebendigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так славь же сейчас снова  
 В десятый раз, о сын Вьяшвы,  

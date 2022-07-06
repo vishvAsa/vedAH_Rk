@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गृ꣡हमेधास आ꣡ गत  
 म꣡रुतो मा꣡प भूतन  
 युष्मा꣡कोती꣡ सुदानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 यु॒ष्माक॑ । ऊ॒ती । सु॒ऽदा॒न॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gṛhamedhāsa* ← *gṛha*
 - \[noun\], neuter
@@ -89,21 +89,21 @@ genre M
 **गृहमेधासः** गृहे क्रियमाणो यज्ञो येषां ते **सुदानवः** शोभनदाना हे **मरुतः** यूयं **युष्माक** युष्माकम् **ऊती** ऊत्या रक्षया युक्ताः **आ** **गत** अस्मदीयं यज्ञं प्रत्यागच्छत । हे मरुतः **माप** **भूतन** अपगता मा भवत । ‘भू प्राप्तौ ' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Objects of domestic worship, munificent **Maruts**, come with your protections; go not away.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here, you sharers of the House-offering—Maruts, don’t  
 stay away—  
 with your help, you of good drops.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details open><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sharers of household sacrifice, come, Maruts, stay not far away,  
      That ye may help us, Bounteous Ones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Empfänger der Hausopfer, kommet her, ihr Marut, bleibt nicht weg, kommt mit eurer Gnade, ihr Gabenschönen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hausopfer nehmend kommt herbei, o Maruts, nimmer bleibet fern, Schöngebende, nach eurer Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Участники домашнего обряда, приходите!  
 О Маруты, не оставайтесь в стороне!  

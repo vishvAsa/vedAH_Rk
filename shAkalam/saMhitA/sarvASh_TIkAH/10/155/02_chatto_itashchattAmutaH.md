@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चत्तो꣡ इत꣡श् चत्ता꣡मु꣡तः  
 स꣡र्वा भ्रूणा꣡नि आरु꣡षी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ती꣡क्ष्णशृण्गोदृष꣡न्न् इहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अ॒रा॒य्य॑म् । ब्र॒ह्म॒णः॒ । प॒ते॒ । तीक्ष्ण॑ऽशृङ्ग । उ॒त्ऽऋ॒षन् । इ॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catto* ← *cattā* ← *cat*
 - \[verb noun\], nominative, singular
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (292)
 सालक्ष्मीः **इतः** अस्माल्लोकात् **चत्तः** चत्तैवास्माभिर्नाशितैव **अमुतः** अमुष्मादपि लोकात् **चत्ता** हिंसिता भवतु । यालक्ष्मीः **सर्वा** सर्वाणि **भ्रूणानि** गर्भजातानि सर्वासामोषधीनामङ्कुराणि या दुर्भिक्षाधिदेवता **आरुषी** आहन्त्री भवति **अराय्यम्** अदात्रीं दानविरोधिनीं तां हे **ब्रह्मणस्पते** मन्त्रस्य पालयितर्देव हे **तीक्ष्णशृङ्ग** तीक्ष्णतेजस्क **उदृषन्** अस्मात्स्थानादुद्गमयन् **इहि** गच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May she be scared away from this (world), scared away from the next (world), the destructress ofembryos; sharp-horned **Bṛhaspati** approach, driving away distress.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She is banished from here, banished from yonder, having assailed all  fetuses.  
 Go at the demoness, o sharp-horned Brahmaṇaspati, and gore her.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Scared from this place and that is she, destroyer of each germ unborn.  
      Go, sharp-horned Brahmanaspti and drive Arayi far away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von hier geflohen, von dort geflohen ist, die alle Leibesfrüchte beschädigt hat. Geh du, spitzgehörnter Brahmanaspati, die Unholdin aufzuspießen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verscheucht von hier, verscheucht von dort sei sie, die alle Frucht verletzt, Gebetes Herr! mit spitzem Horn geh, spiesse die Arājī auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выгнана отсюда, выгнана оттуда  
 (Эта) повредившая все зародыши.  

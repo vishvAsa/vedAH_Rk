@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्द्रवायू꣡ बृ꣡हस्प꣡तिम्  
 मित्रा꣡ग्नि꣡म् पूष꣡णम् भ꣡गम्  
 आदित्या꣡न् मा꣡रुतं गण꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒दि॒त्यान् । मारु॑तम् । ग॒णम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indravāyū* ← *indra*
 - \[noun\], masculine
@@ -86,7 +86,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रादिदेवान् **मारुतं** मरुतां वायूनां संबन्धिनं **गणं** च हे अग्ने यक्षि इति पदद्वयमनुवर्तते ॥ इन्द्रश्च वायुश्च इन्द्रवायू ।' देवताद्वन्द्वे च ' (पा. सू. ६. ३. २६ ) इति प्राप्तस्य आनङः ‘ उभयत्र वायोः प्रतिषेधो वक्तव्यः' (पा. सू. ६. ३. २६. १ ) इति प्रतिषेधः।  ‘ देवताद्वन्द्वे च' (पा. सू. ६. २. १४१ ) इति प्राप्तस्योभयपदप्रकृतिस्वरस्य ‘नोत्तरपदेऽनुदात्तादौ ' ( पा. सू. ६. २. १४२ ) इति निषेधः । समासान्तोदात्तत्वमेव । बृहस्पतिम् । तद्बृहतोः करपत्योश्चौरदेवतयोरभिधेययोः सुट् तलोपो वक्तव्यः' (पा. म. ६. १. १५७ ) इति तलोपः सुडागमश्च । बृहच्छब्दमाद्युदात्तं केचित् वर्णयन्तीति वामनः ।  ‘ पा रक्षणे '। पातीति पतिः ।' पातेर्डतिः' (उ. सू. ४. ४९७ )। प्रत्ययस्वरेणाद्युदात्तः । समासे  ‘ उभे वनस्पत्यादिषु युगपत् ' ( पा. सू. ६. २. १४० ) इति उभयपदप्रकृतिस्वरत्वम् । मित्रा । द्वितीयायाः ‘सुपां सुलुक् ' ( पा. सू. ७. १. ३९ ) इत्यादिना विभक्तेः आजादेशः । आदित्यान् । अदितेरपत्यानि आदित्याः । ‘दित्यदित्यादित्यपत्युत्तरपदण्ण्यः ' (पा. सू. ४. १. ८५)। प्रत्ययस्वरः । मारुतम् । मरुतां विकारः । ‘अनुदात्तादेश्च'। (पा. सू. ४. ३. १४० ) इति अञ् । ञित्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,35 +101,35 @@ Added: 'sacrifice, Agni, to': Mitra, Pūṣan and Bhaga are Ādityas, forms of t
 **Pati** = master or protector, as a spiritual preceptor of the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Vāyu, Br̥haspati, Mitra (and Varuṇa), Agni, Pūṣan, Bhaga, the Ādityas, the Marutian flock (have the Kaṇvas called).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All these gods names are in the accusative, but there is no verb to govern them, either in the verse or in the immediately preceding or following pādas. One solution is to reach back to 2a ā́ACC káṇvā ahūṣata “The Kaṇvas have called ACC here,” though skipping over the intervening syntactic constructions is not appealing.
 
 However, the recurrence of a similar construction in 5ab īḷate ACC … káṇvāsaḥ “The Kaṇvas solemnly invoke ACC” may suggest that the structure of invocation underlies the hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, Vayu, Brhaspati, Mitra, Agni, Pusan, Bhaga,  
      Adityas, and the Marut host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vayu, Brihaspati, Mitra und Varuna, Agni, Pusan, Bhaga, die Adityas, die Marutschar -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra, Vaju, Brihaspati, Mitra, Agni, Puschan, Bhaga, Aditja's und die Marutschar,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру-Ваю, Брихаспати,  
 Митру (Варуну), Агни, Пушана, Бхагу,  

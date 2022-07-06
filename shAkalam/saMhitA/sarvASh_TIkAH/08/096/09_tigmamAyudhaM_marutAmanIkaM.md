@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिग्म꣡म् आ꣡युधम् मरु꣡ताम् अ꣡नीकं  
 क꣡स् त इन्द्र प्र꣡ति व꣡ज्रं दधर्ष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चक्रे꣡ण ताँ꣡ अ꣡प वप ऋजीषिन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒ना॒यु॒धासः॑ । असु॑राः । अ॒दे॒वाः । च॒क्रेण॑ । तान् । अप॑ । व॒प॒ । ऋ॒जी॒षि॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
@@ -126,7 +126,7 @@ genre M
 हे **इन्द्र** **ते** तव स्वभूतं **तिग्मं** तीक्ष्णम् **आयुधम्** । आयुध्यतेऽनेनेत्यायुधं धनुः । तत्र **मरुतां** त्रयःषष्टिसंख्याकानां त्वत्सहायानाम् **अनीकं** संघं च त्वदीयं **वज्रं** च **कः** को वा देवो मनुष्यो वा **प्रति** **दधर्ष** प्रतिकूलमभिभवति । अभिभावुको नास्तीत्यर्थः ।  ‘ धृष प्रसहने । आ धृषाद्वा' इति विभाषितणिच् । तदभावे लिटि रूपम् । अत एव **अनायुधासः** धनुराद्यायुधवर्जिताः **अदेवाः** देववर्जिता देवद्विषो ये **असुराः** सन्ति हे **ऋजीषिन्** । अपार्जितोऽभिषुतः सोम ऋजीषः । तद्वन्निन्द्र **तान्** असुरान् **चक्रेण** चक्रसमानवीर्येण चक्ररूपेण वज्रेण वा **अप** **वप** अपगतान् कुरु । अपनुदेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,14 +137,14 @@ genre M
 Cf. RV. 8.86.4
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Maruts:] “Sharp is the weapon, the vanguard of the Maruts. (And)  who dares venture against your mace, Indra?  
 The lords lacking gods are weapon-less. With your wheel [=discus?]  
 scatter them, possessor of the silvery drink.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 However tempting it might be, the juxtaposed phrase ásurā adevā́ḥ is most likely not to be interpreted as an early instantiation of the Asura/Deva conflict of middle Vedic times. Instead it probably refers to human or semi-divine lords (for the former see W. E. Hale, 1986: 83) who do not have the gods on their side. Hale points out that adevá- is the only form in the RV so accented (contrasting with ádeva-), and it must be a bahuvrīhi meaning “not having gods, without gods.”
 
@@ -159,23 +159,23 @@ The da capo-like structure of the verses in this tṛca, with the first pāda re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A sharpened weapon is the host of Maruts. Who, Indra, dares withstand thy bolt of thunder?  
      Weaponless are the Asuras, the godless: scatter them with thy wheel, Impetuous Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eine scharfe Waffe ist die Heeresspitze der Marut. Wer hat je deiner Keule getrotzt, Indra? Ohne Waffen sind die gottlosen Asura´s. Diese fege mit deinem Rade weg, du Trestersafttrinker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer widersteht, o Indra, deinem Blitze, der scharfen Waffe? wer dem Zug der Maruts? Wehrlos sind dir die bösen Götterfeinde; vordringend jag' sie fort mit deinem Rade.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ तिय꣡त् पा꣡तरम्+ इन्द्रपा꣡नम्  
 इ꣡न्द्रस्य प्रिय꣡म् अमृ꣡तम् अपायि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ अस्म꣡द् द्वे꣡षो युय꣡वद् वि꣡ अं꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मत्स॑त् । यथा॑ । सौ॒म॒न॒साय॑ । दे॒वम् । वि । अ॒स्मत् । द्वेषः॑ । यु॒यव॑त् । वि । अंहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -124,20 +124,20 @@ genre M
 **पात्रं** पातव्यम् **इन्द्रपानम्** इन्द्रस्य पानार्हम् **इन्द्रस्य** **प्रियम्** अनुकूलं **त्यत्** तत् **इदं** सोमात्मकम् **अमृतमपायि** । इन्द्रः पिबतु ॥ व्यत्ययेन कर्तरि चिण् ॥ यद्वा । एतदमृतमपायि । इन्द्रेण पीयताम् । **यथा** येन प्रकारेण पीतः सोमः **सौमनसाय** सुमनस्त्वाय **देवम्** इन्द्रं **मत्सत्** मादयेत्तथा पीयतामित्यर्थः । स पीतसोम इन्द्रः **द्वेषः** द्वेष्टॄन् **अस्मत्** अस्मत्तः **वि** **युयवत्** वियोजयतु । **अंहः** पापं चास्मत्तो वियोजयतु ॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this ambrosia, the appropriate beverage of **Indra**, of which is fond, be quaffed (by him), so that it may inspire the divinity with favourable feelings (towards us), and that he may remove from us our adversaries, and (all) iniquity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is this drinking cup, giving drink to Indra. Indra’s dear immortal  (drink) has been drunk,  
 so that it will exhilarate the god for the sake of his good favor and will  keep hatred and constraint away from us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes índrasya as agent of apāyi (“Indra hat seinen lieben Göttertrank getrunken”), but finite passives, even verbs of consumption, don’t take genitive agents.
 
@@ -151,23 +151,23 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The cup whence Indra drinks the draught is present: the Amrta dear to Indra hath been drunken,  
      That it may cheer the God to gracious favour, and keep far from us hatred and affliction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist die Schale, aus der Indra trinkt. Indra hat seinen lieben Göttertrank getrunken, auf daß er den Gott zu guter Laune begeistere und er die Anfeindung, die Not von uns abwehre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es dient der Becher hier zum Trunk dem Indra, dem Indra lieb ward Göttertrank getrunken; Damit den Gott zum Frohsinn er berausche, er treibe Noth von uns hinweg und Feindschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот сосуд Индре для питья.  
 Выпит любимый напиток бессмертия Индры,  

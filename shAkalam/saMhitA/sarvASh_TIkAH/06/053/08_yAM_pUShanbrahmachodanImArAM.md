@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡म् पूषन् ब्रह्मचो꣡दनीम्  
 आ꣡राम् बि꣡भर्षि आघृणे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आ꣡ रिख किकिरा꣡ कृणु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तया॑ । स॒म॒स्य॒ । हृद॑यम् । आ । रि॒ख॒ । कि॒कि॒रा । कृ॒णु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
@@ -110,7 +110,7 @@ genre M;; repeated line
 हे **आघृणे** आगतदीप्ते **पूषन्** **ब्रह्मचोदनीं** ब्रह्मणोऽन्नस्य प्रेरयित्रीं **याम्** **आरां** **बिभर्षि** हस्ते धारयसि **तया** **समस्य** सर्वस्य लुब्धजनस्य **हृदयम्** **आ** **रिख** आलिख। **किकिरा** किकिराणि कीर्णानि प्रशिथिलानि च **कृणु** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M;; repeated line
 Kikirā = to tear into pieces, rend into rags and tatters RV. vi, 53, 7 and 8.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The awl that you carry, which impels the sacred formulation, o  
 glowing Pūṣan,  
 with it shred the heart of each one, make it shrapnel.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
 <details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ I do wonder whether the original phrase read *kuru for *kṛṇu. The former is,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, glowing Pusan, carriest an awl that urges men to prayer;  
      Therewith do thou tear up and rend to shreds the heart of every one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Pusan, führst den Stachel, der die feierliche Rede anstachelt, o .......; mit dem ritze, kratze das Herz eines jeden auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Puschan, welchen Spiess du trägst, gebetgeschärften, glühender, Mit dem zerreiss, zerschlitze du in Fetzen ihrer aller Herz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (То) подгоняющее молитву, о Пушан,  
 Острие, которое ты носишь (с собой), о пламенный, -  

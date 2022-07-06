@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वच्यस्व सुदक्ष चमु꣡वोः सुतो꣡  
 विशां꣡ व꣡ह्निर् न꣡ विश्प꣡तिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 जि꣡न्वा ग꣡विष्टये धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वृ॒ष्टिम् । दि॒वः । प॒व॒स्व॒ । री॒तिम् । अ॒पाम् । जिन्व॑ । गोऽइ॑ष्टये । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 हे **सुदक्ष** सुवल सोम **चम्वोः** अधिषवणफलकयोः **सुतः** अभिषुतः विशां प्रजानां **वह्निर्न** वोढा **विश्पतिः** राजेव सर्वासां प्रजानां वोढा त्वम् **आ** **वच्यस्व** आगच्छ। कलशमापवस्व । वचेर्गत्यर्थस्य व्यत्ययेन श्यनि रूपम्। किंच त्वं **वृष्टिं** वृष्यमाणाम् **अपाम्** उदकानां **रीतिं** गतिं **दिवः** द्युलोकात् **पवस्व** कुरु। ततः **गविष्टये** गामात्मन इच्छते यजमानाय **धियः** कर्माणि **जिन्व** आपूरयः ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 Into the cups: adhiśavana phalakāyaḥ, in the plural nks of the press
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Coil yourself into the two cups when you are pressed, skillful one, as the  clanlord of the clans, like a draft-horse.  
 Purify yourself into the rain from heaven, the streaming of waters.  
 Quicken our insights for the quest for cattle.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this usage of ā́√vañc see comm. ad IX.2.2. This same phrase ā́ vacyasva (…) camvòḥ is found in IX.97.2.
 
@@ -150,23 +150,23 @@ These two vss. are syntactically independent but linked by the theme of rain.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Roll onward to the bowls, O Mighty One, effused, as Prince supporter of the tribes.  
      Pour on us rain from heaven, send us the waters' flow: incite our thoughts to win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahre im Galopp, du Verständiger, in den die beiden Camugefäße ausgepreßt, heran wie ein zu Wagen fahrender Clanfürst! Läutere des Himmels Regen, die Flut der Gewässer her; belebe die Gedanken zum Rindererwerb!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Bretterpaar gepresst, o starker, quill hervor, der Stämme Herr, wie auf der Fahrt, Lass strömen Himmels Regen und der Wasser Guss, erfüll den Wunsch des heischenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый в двух чанах, мчись галопом, о ты с прекрасной силой действия,  
 Как возница, (как) господин племен!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गयस्फा꣡नो अमीवहा꣡  
 वसुवि꣡त् पुष्टिव꣡र्धनः  
 सुमित्रः꣡ सोम नो भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सु॒ऽमि॒त्रः । सो॒म॒ । नः॒ । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gayasphāno* ← *gayasphānaḥ* ← *gayasphāna*
 - \[noun\], nominative, singular, masculine
@@ -90,20 +90,20 @@ genre M
 **गयस्फानः** । गयः इति धननाम । धनस्य वर्धयिता **अमीवहा** अमीवानां रोगाणां हन्ता **वसुवित्** स्तोतॄणां धनस्य लम्भयिता प्रापयिता **पुष्टिवर्धनः** पुष्टेः संपदो वर्धयिता **सुमित्रः** । शोभनानि मित्राणि सखायो यस्य स तथोक्तः । हे **सोम** त्वं **नः** अस्माकम् एवंगुणविशिष्टः **भव** ॥ गयस्फानः ।  ‘ स्फायी वृद्धौ ' । अन्तर्भावितण्यर्थात् ल्युटि व्यत्ययेन यलोपः । इदमादिषु चतुर्षु पदेषु कृदुत्तरपदप्रकृतिस्वरत्वम् । सुमित्रः । नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Be unto us, **Soma**, the bestower of wealth, the remover of disease, the cognizant of riches, the augmenter of nutriment, an excellent friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Fattening the livestock, smiting afflictions, finding goods, increasing  prosperity,  
 Soma, be a good ally to us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enricher, healer of disease, wealth-finder, prospering our store,  
      Be, Soma, a good Friend to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Hausstand vergrößernd, Krankheit vertreibend, Schätze findend, Wohlstand mehrend, halte, o Soma, gute Freundschaft mit uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Hausstand mehr', vertreibe Leid, die Nahrung mehre, schenke Gut, Sei, Soma, uns ein lieber Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Умножающий хозяйство, убивающий болезни,  
 Находящий добро, усиливающий процветание,  

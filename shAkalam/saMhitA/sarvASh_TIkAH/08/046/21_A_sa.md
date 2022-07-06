@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ स꣡ एतु य꣡ ई꣡वद् आँ꣡  
 अ꣡देवः पूर्त꣡म् आददे꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अस्या꣡ विउ꣡षि आददे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 यथा॑ । चि॒त् । वशः॑ । अ॒श्व्यः । पृ॒थु॒ऽश्रव॑सि । कानी॒ते । अ॒स्याः । वि॒ऽउषि॑ । आ॒ऽद॒दे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 अत्र शौनकः-‘वशायाश्व्याय यत्प्रादात्कानीतस्तु पृथुश्रवाः । तदत्र स्तूयते दानमा स एत्वेवमादिभिः' (बृहद्दे ६.७९-८०)। **एतु** आगच्छतु **सः** **यः** **अदेवः** देवादन्यो मनुष्यो वशः **ईवत्** गमनवत् गवादिलक्षणं **पूर्तं** पूर्णम् **आददे** आदत्ते । स्वीकृतवानित्यर्थः । देवश्चेन्माययाप्यागन्तुमर्हति । अतः प्रकाशेनैवागच्छत्वित्यर्थः । कथमस्य धनावाप्तिप्रसङ्ग आगमनप्रसङ्गश्चेति तदुच्यते । **यथा** **चित्** । चिदिति पूरणः । येन कारणेन यस्माद्वा **वशः** एतत्संज्ञकः **अश्व्यः** अश्वपुत्रः **पृथुश्रवसि** एतन्नामके राज्ञि **कानीते** कनीतपुत्रे कन्यायाः पुत्रे **अस्याः** उषसः **व्युषि** व्युष्टौ **आददे** आदत्ते तेन कारणेन तस्माद्वा कारणादायात्विति । एवमश्वो बन्धुवर्गो वा ब्रूते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ Pūrtam = pūrṇam; or, ivat = iyat, such,so great; or, pūrtam = pious works;
 Kānīta: son of a maiden, kanyāyāḥ **putraḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him come here—any non-god who has taken as great a gift  
 as Vaśa Aśvya has taken from Pr̥thuśravas Kānita at the dawning of  this (dawn) here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let the godless man approach who hath received reward so great  
      As Vasa, Asvya, when this light of morning dawned, received from Prthusravas, from Kanita's son.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Nichtgott soll noch kommen, der eine solche Schenkung bekommen hat, wie sie Vasa Asvya bei Prithusravas, dem Kanitasohne, bei Anbruch dieses Morgens bekommen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es zeige sich der gottlose [oder fromme wenn âdevah gelesen wird], welcher so reichen Lohn empfangen hat, wie Vaça Açvia von dem Prithuçravas Kānīta beim Aufleuchten dieses Morgens empfangen hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же придет тот, кто не-бог,  
 Но получил такой подарок,  

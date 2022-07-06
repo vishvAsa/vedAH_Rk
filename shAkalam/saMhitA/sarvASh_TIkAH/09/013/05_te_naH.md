@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नः सहस्रि꣡णं रयि꣡म्  
 प꣡वन्ताम् आ꣡ सुवी꣡रियम्  
 स्वाना꣡° देवा꣡स इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒वा॒नाः । दे॒वासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -88,41 +88,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** **इन्दवः** सोमाः **नः** अस्माकं **सहस्रिणं** सहस्रसंख्योपेतं **रयिं** धनं **सुवीर्यं** च **आ** **पवन्ताम्** । कीदृशास्ते । **सुवानाः** सूयमानाः **देवासः** द्योतनादिगुणयुक्ताः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those divine libations, when effused, bring to us thousandfold wealth and excellent vigour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By purifying themselves, let them bring thousandfold wealth and an  abundance of heroes for us—  
 the divine drops being pressed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is difficult not to take devá- here as adjectival, modifying índavaḥ. See my reluctance to so interpr. this stem in IX.11.2, and see comm. ad VII.21.1.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May they in flowing give us wealth in thousands, and heroic power,-  
      These Godlike Soma-drops effused.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sollen uns zu tausendfältigem Reichtum und zur Meisterschaft läutern, wenn sie ausgepreßt werden, die göttlichen Säfte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter Indu's mögen uns herrieseln tausendfaches Gut, Die ausgepressten, Heldenmacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть они очищаются, (принося) нам  
 Тысячное богатство, обилие сыновей,  

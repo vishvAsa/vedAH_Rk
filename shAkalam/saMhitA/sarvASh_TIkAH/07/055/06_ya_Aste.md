@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ आ꣡स्ते य꣡श् च च꣡रति  
 य꣡श् च प꣡श्यति नो ज꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡थेदं꣡ हर्मियं꣡ त꣡था
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 तेषा॑म् । सम् । ह॒न्मः॒ । अ॒क्षाणि॑ । यथा॑ । इ॒दम् । ह॒र्म्यम् । तथा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -123,37 +123,37 @@ popular;; epic anuṣṭubh (424)
 **यः** जनः **आस्ते** अस्मिन् प्रदेशे तिष्ठति **यश्च** **चरति** गच्छति **यश्च** **जनः** **नः** अस्मान् **पश्यति** एवंभूतानां **तेषां** जनानाम् **अक्षाणि** इन्द्रियाणि **सं** **हन्मः** संहनाम । संहतिर्निमीलनम् । निमीलयामेत्यर्थः । **इदं** प्रत्यक्षेणोपलभ्यमानं **हर्म्यं** प्रासादादिस्थावरात्मकं वस्तुजातं **यथा** निश्चलं भवति **तथा** इमे सर्वे जना निश्चला भवन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The man who sits, or he who walks, or he who sees us, of these we **shut** up the eyes, so that they maybe as unconscious as the mansion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever sits still and whoever wanders, and whoever sees  
 us—such folk—  
 their eyes do we slam shut—just like this house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The man who sits, the man who walks, and whosoever looks on us,  
      Of these we closely shut the eyes, even as we closely shut this house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer sitzt und wer geht und welchermann uns sieht, deren Augen schließen wir so wie dieses feste Haus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer sitzet, und wer sich bewegt, und auch wer stehend uns erblickt, Die Augen derer schliessen wir, so wie wir schliessen dieses Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сидит и кто бродит,  
 И (тот) человек, что на нас смотрит, –  

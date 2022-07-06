@@ -8,7 +8,7 @@ title = "+083"
 'पवित्रं ते ' इति पञ्चर्चं षोडशं सूक्तमाङ्गिरसस्य पवित्रस्यार्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रान्तं-’ पवित्रं ते पवित्रः' इति । अभिष्टव आद्ये ऋचौ वक्तव्ये । सूत्रितं च---’ पवित्रं ते विततं ब्रह्मणस्पत इति द्वे वि यत्पवित्रं धिषणा अतन्वत ' ( आश्व. श्रौ. ४, ६) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 83 (795)  
 Soma Pavamāna  
@@ -23,7 +23,7 @@ With the second half of verse 4 we return to a much clearer ritual context  and 
 The omphalos structure of the hymn is quite pronounced. The outermost verses  (1ab, 5)  are couched in the 2nd person and have a clear ritual content, with an  inner ring (vss. 1cd/2ab, 4cd) serving as transition between the ritual context and  the mystical identifications. There are a number of formal responsions that mark  these rings, besides the 2nd versus 3rd person of verses 1 and 5: pavítram (1a, 2a)  / pavítra(-ratha) (5c); páry eṣi (1b) / pári yāsi (5b); āśata (1d, 4d); padá- (2a, 4a).  Enclosed within these rings are the mysterious and shifting identifications that  make the hymn both aggravating and mesmerizing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the structure of this hymn and my interpr. of its enigmatic contents, see the published introduction. Here I will not treat in detail the interpr. of others.
 

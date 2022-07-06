@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ ष्य꣡ देवः꣡ सविता꣡ द꣡मूना  
 हि꣡रण्यपाणिः प्रतिदोष꣡म् अस्थात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ दाशु꣡षे सुवति भू꣡रि वाम꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अयः॑ऽहनुः । य॒ज॒तः । म॒न्द्रऽजि॑ह्वः । आ । दा॒शुषे॑ । सु॒व॒ति॒ । भूरि॑ । वा॒मम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -124,20 +124,20 @@ genre M
 **देवः** द्योतमानः **दमूना:** दममनाः दानमना वा । तथा च यास्कः - ‘ दमूना दममना वा दानमना वा दान्तमना वा ' ( निरु. ४. ४ ) इति । **हिरण्यपाणिः** हिरण्मयपाणिः **अयोहनुः** हिरण्मयहनुः ।  ‘ रुक्मम् अयः' इति हिरण्यनामसु पाठात् । **यजतः** यष्टव्यः **मन्द्रजिह्वः** मोदमानवाक् **स्यः** सः **सविता** **प्रतिदोषं** प्रतिरात्रं रात्रेः अवसानेऽवसाने **उत्** **अस्थात्** उत्तिष्ठतु । यः **दाशुषे** यजमानाय मह्यं **भूरि** प्रभूतं **वामं** वननीयं संभजनीयमन्नम् । वामं वननीयम् ' ( निरु. ६: ३१ ) इति यास्कः । **आ** **सुवति** प्रेरयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine, munificent, golden-handed, golden-jawed, adorable, sweet-spoken **Savitā**, rise regularly at the close of night; when he besows abundant and desirable (food) upon the donor of the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up has this god Savitar stood—the golden-handed friend of the house— facing evening [=toward the west].  
 Copper-jawed, deserving the sacrifice, possessing a gladdening tongue,  he impels here to the pious man much of value.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (see also Grassmann) takes āmā́su as modifying vakṣáṇāsu (“in die rohen Bäuche”), which is certainly possible grammatically. However, in other instantiation of this paradox it is the cows that are raw. (See an ex. below.) Hence the published translation, with first the cows (a), then the udders of the cows (b) as the depoisitory of the cooked milk.
 
@@ -146,23 +146,23 @@ Geldner follows Grassmann in taking the fem. of jágat- (here loc. pl. jágatī�
 The published translation might be slightly altered to reflect the unaccented āsu in c: “within them, the dappled moving (cows).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Savitar the God, the golden-handed, Friend of the home, hath risen to meet the twilight.  
      With cheeks of brass, with pleasant tongue, the Holy, he sends the worshipper rich gifts in plenty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort hat sich Gott Savitri, der Gebieter mit goldenen Händen, allabendlich erhoben. Mit eherner Backe, mit lieblicher Backe, mit lieblicher Zunge weist der Opferwürdige dem Spender viel Gutes zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sieh, schon erhob sich mit den goldnen Händen Gott Savitar, der Hausfreund gegen Abend, Mit eh'rnen Backen, holder Zung' der hehre; dem frommen Manne führt er vieles Gut zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот бог Савитар поднялся  
 К вечеру, домашний (бог) с золотыми ладонями.  

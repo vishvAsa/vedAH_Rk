@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सवितु꣡र् व꣡रेणियम्  
 भ꣡र्गो देव꣡स्य धीमहि  
 धि꣡यो यो꣡ नः प्रचोद꣡यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 धियः॑ । यः । नः॒ । प्र॒ऽचो॒दया॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -172,7 +172,7 @@ genre M
 
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -187,12 +187,12 @@ genre M
 Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we meditate on the light which is one with Brahma, his own light, which, from its consuming influences on ignorance and its consequences, is termed **Bhargas**, and is that which is desirable, from its being to be known or worshiped by all (vareṇyam) the property of the supreme being, (**parameśvara**), the creator of the world, and the animator, impeller or urger (savitā), through the internally abiding spirit (antaryām) of all creatures; yaḥ, although masculine, may be relative to the neuter noun bhargas, that light which animates all (**dhiyaḥ**) acts (karmāṇi), or illumes all understanding (**buddhiḥ**); again, **devasya** **savituḥ** may mean, of the bright or radiant sun, as the progenitor of all, sarvasya prasavitur, and bhargas may be understood as the sphere or orb of light, the consumer of sins, pāpānām tāpakam tejo maṇḍalam; bhargas may also mean food, and the prayer may only implore the sun to provide sustenance, tasya prasādād annādi lakṣaṇam phalam **dhīmahi** tasya ādhārabhūta bhavema, we anticipate from his favour the reward that is characterized by food and the like, that is, may we be supported by him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
 
@@ -209,23 +209,23 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we attain that excellent glory of Savitar the God:  
      So May he stimulate our prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses vorzügliche Licht des Gottes Savitri empfingen wir, der unsere Gedanken anregen soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass wir des Gottes Savitar begehrtes Licht erlangten doch, Der unsre Bitten fördere.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим встретить этот желанный  
 Блеск бога Савитара,  

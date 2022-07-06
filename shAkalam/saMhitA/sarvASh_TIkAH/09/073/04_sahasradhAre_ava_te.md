@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रधारे अ꣡व ते꣡ स꣡म् अस्वरन्  
 दिवो꣡ ना꣡के म꣡धुजिह्वा असश्च꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पदे꣡-पदे पाशि꣡नः सन्ति से꣡तवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अस्य॑ । स्पशः॑ । न । नि । मि॒ष॒न्ति॒ । भूर्ण॑यः । प॒देऽप॑दे । पा॒शिनः॑ । स॒न्ति॒ । सेत॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradhāre* ← *sahasra*
 - \[noun\], neuter
@@ -136,7 +136,7 @@ genre M
 **सहस्रधारे** । बहूदकधारा यस्माद्द्रवन्ति तत्तथोक्तमन्तरिक्षम् । तस्मिन् वर्तमानाः **ते** सोमरश्मयः **अव** अवस्तात स्थिताः **समस्वरन्** । पृथिवीं वृष्ट्या संयोजयन्तीत्यर्थः । किंच **दिवः** द्युलोकस्य **नाके** समुच्छ्रिते देशे वर्तमानाः **मधुजिह्वाः** मध्वग्राः । सोमतेजसाग्रेभ्यो हि मधूत्पन्नं भवति । अतो मधुजिह्वाः । **असश्चत:** संगतवर्जिताः पृथक्पृथग्दिव्यवस्थिताः **अस्य** सोमस्य स्वभूताः **स्पशः** सारभूता रश्मयः **भूर्णयः** क्षिप्रगामिनः सन्तः **न** **नि** **मिषन्ति** निमेषं न कुर्वन्ति । किंतु पापिनः सुकृतिनश्च ज्ञातुं सर्वदा जाग्रतीत्यर्थः। अथवा । राजभृत्या यथा दुष्टान् विचारयितुं सर्वदा जागरणं कुर्वन्ति तद्वदेते रश्मयः **पदेपदे** स्थाने स्थाने **सेतवः** संबद्धाः सन्तः **पाशिनः** पापकृतां बाधकाः **सन्ति** भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,14 +147,14 @@ genre M
 His rays: spaśaḥ = sārabhūtā raśmayaḥ; or, spies; never shut their eyes: 'but always keep watch to know the evil and the good, or always keep on alert as kings to guard against enemies; fixed each in his plural ce: 'in every plural ce there are barriers strewn with snares (to keep off and catch the wicked or the **rākṣasas**), or, prisons filled with fetters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Down in that (filter) of a thousand streams, they have sounded in  unison—as have the honey-tongued, inexhaustible (streams) in the  
 vault of heaven.  
 His fervent spies do not blink: at every step there are snares that bind.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich seems clearly (at least to me) to contrast the ritual soma streams on earth (a) with those in heaven (b), though curiously it does not seem to have caught Lüders’s attention. That pl. asaścátaḥ elsewhere (IX.57.1, 62.28) explicitly modifies dhā́rāḥ ‘streams’ makes that identification in b quite likely. See also
 
@@ -175,23 +175,23 @@ Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-po
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sweet-tongued, exhaustless, they have sent their voices down togetlier, in heaven's vault that pours a thousand streams.  
      His wildly-restless warders never close an eye: in every place are found the bonds that bind man last.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf die Seihe mit tausend Abtraufen brausten sie herab, an des Himmels Firmament die Ströme, die die Süßigkeit auf der Zunge tragen. Seine eifrigen Aufpasser schließen nie das Auge; auf Schritt und Tritt sind die Schlingen führenden Feßler da.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In tausendström'ger Seihe rauschten sie zusammt, am Dom des Himmels lieblich murmelnd herrlich jetzt; Es schlummern seine muntern Späher nimmer ein, und seilbegabte Brücken sind an jedem Ort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти (капли сомы) дружно зазвучали, (стекая) вниз в (сито) с тысячей протоков.  
 (Они поднялись) на небосвод, неся мед на языке, неиссякающие.  

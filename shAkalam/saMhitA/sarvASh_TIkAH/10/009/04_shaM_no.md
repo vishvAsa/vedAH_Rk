@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो देवी꣡र् अभि꣡ष्टय  
 आ꣡पो भवन्तु पीत꣡ये  
 शं꣡ यो꣡र् अभि꣡ स्रवन्तु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 शम् । योः । अ॒भि । स्र॒व॒न्तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -91,7 +91,7 @@ genre M
 **नः** अस्माकं पापापनोदद्वारेण **शं** सुखं **भवन्तु** **देवीः** देव्यः **आपः**। **अभिष्टये** अस्मद्यज्ञाय भवन्तु । यज्ञाङ्गभावाय च भवन्त्वित्यर्थः । **पीतये** पानाय च भवन्तु । तथा **शम्** उत्पन्नानां रोगाणां शमनं **योः** यावनमनुत्पन्नानां पृथक्करणं च कुर्वन्तु । अपि च **नः** अस्माकम् **अभि** उपरि **स्रवन्तु** शुद्ध्यर्थं सिञ्चन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,28 +102,28 @@ genre M
 This and previous three ṛcas are repeated at the daily ablutions of thebrāhmaṇas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the goddesses, the Waters, be luck for us to prevail, for us to drink. Let them flow to us for luck and life.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Waters. be to us for drink, Goddesses for our aid and bliss:  
      Let them stream to us health and strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Göttinnen sollen uns zu recht naher Hilfe, die Gewässer zum Trunke sein; Wohl und Heil sollen sie uns zuströmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström' uns Segen zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье пусть будут нам богини (и) в помощь,  
 Воды (пусть будут нам) для питья!  

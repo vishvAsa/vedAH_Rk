@@ -8,7 +8,7 @@ title = "+033"
 ‘श्वित्यञ्चः ' इति चतुर्दशर्चं षोडशं सूक्तम् । अत्रेयमनुक्रमणिका--- श्वित्यञ्चः षळूना संस्तवो वसिष्ठस्य सपुत्रस्येन्द्रेण वा संवादः' इति । आदितो नवानां वसिष्ठ ऋषिः । वसिष्ठपुत्राणां स्तूयमानत्वात्त एव देवता । “विद्युतो ज्योतिः' इत्यादिभिर्दशम्यादिभिः स्वपुत्रैर्वसिष्ठः स्तूयते । अतो वसिष्ठो देवता । त एव ऋषयः । ‘ या तेनोच्यते' इति न्यायात् । अनुक्तत्वात् त्रिष्टुप् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 33 (549)  
 Vasisṭha’s Sons (1–9); Vasis ̣ ṭha (10–14) ̣  
@@ -23,7 +23,7 @@ The second half of verse 9 provides the transition to the last section, concern 
 ing Vasiṣṭha to his adoptive clan, the Tr̥tsus, and outlining Vasiṣṭha’s ritual role.  The address to “you thrusters forth” (pratr̥daḥ) is most likely a pun on their name.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Vasiṣṭha and the Vasiṣṭhids On the structure and thematics of this famous hymn see the published introduction, as well as the introductory remarks of both Oldenberg and Geldner With VII.18, the account of the Battle of the Ten Kings, it bookends the Indra hymns of VII and contributes its own background to the (fragmentary) narrative of King Sudās and the Ten Kings Battle.
 

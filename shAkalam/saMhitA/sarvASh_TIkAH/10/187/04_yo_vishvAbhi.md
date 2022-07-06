@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वि꣡श्वाभि꣡ विप꣡श्यति  
 भु꣡वना सं꣡ च प꣡श्यति  
 स꣡ नः पर्षद् अ꣡ति द्वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 सः । नः॒ । प॒र्ष॒त् । अति॑ । द्विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -95,31 +95,31 @@ popular;; repeated line
 **यः** अग्निः सूर्यरूपेण **विश्वा** विश्वानि सर्वाणि भूतजातानि **अभि** अभिमुखं **विपश्यति** विशेषेण तेजसा प्रेक्षते । प्रकाशयतीत्यर्थः । **भुवना** भुवनानि भूतजातानि **सं** **पश्यति** **च** सम्यग्जानाति च । अन्यत्सिद्धम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Agni** that glances at all the **lokas**, should protect us from the ill-will of enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who looks at all creatures separately and sees them whole,  
 he will carry us across hatreds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who looks on all existing things and comprehends them with his view:  
      So may he bear us past our foes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der nach allen Geschöpfen ausschaut und sie überschaut, der helfe uns über die Feinde hinweg!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто смотрит на все существа поотдельности  
 И смотрит (на них) вместе взятых,  

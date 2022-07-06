@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नीवि꣡याभिर् जरिता꣡रम् अ꣡छा  
 महो꣡ वा꣡जेभिर् मह꣡द्भिश् च शु꣡ष्मैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ गिर्वणः सुविता꣡य प्र꣡ याहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽवीरा॑भिः । वृ॒ष॒भ॒ । क्षि॒ती॒नाम् । आ । गि॒र्व॒णः॒ । सु॒वि॒ताय॑ । प्र । या॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -117,7 +117,7 @@ genre M
 हे **वृषभ** कामानां वर्षक हे **गिर्वणः** गिरा स्तुत्या संभजनीयेन्द्र **सः** त्वं **महः** महद्भिः **वाजेभिः** वाजैरन्नैः **महद्भिः** **शुष्मैः** बलै: **च** सह **क्षितीनां** प्रजानां मध्ये **जरितारं** स्तोतारम् **अच्छ** आभिमुख्येन **नीव्याभिः** नव्याभिर्नवतराभिः **पुरुवीराभिः** पुरूणां बहूनां वीरयित्रीभिः बडवाभिः **आ** **प्र** **याहि** आगच्छ । किमर्थम् । **सुविताय** शोभनाय । सुखप्राप्त्यर्थमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,13 +128,13 @@ genre M
 Nīvyābhi puruvīrābhiḥ = navatarābhiḥ bahūnām vīrayitribhir vaḍavābhiḥ, with very new or young mares bearing **male** progeny of many
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As great one, drive here to the singer with (riches) to clothe (him), with  prizes, and with your great unbridled powers,  
 with (riches) bringing many heroes, o bull of the settlements, you who  long for songs—for good faring.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is also found at IV.22.3b, where it is a part of an independent nominal clause. However, here it fits well within the larger clause structure, whose main verb is prá yāhi at the end of the vs. Cf., e.g., VIII.2.19 ó ṣú prá yāhi vā́jebhiḥ, with the vā́jebhiḥ of our b. The fact that this pāda is a self-contained repetition aids in the interpr. of the surrounding pādas a and c, both of which contain fem. instr. pls., nīvyā̀bhiḥ and puruvī́rābhiḥ respectively. Although two masc. instr. pls. intervene, vā́jebhiḥ and śúṣmaiḥ, they can be sequestered in the ready-made pāda b, and the two feminines of a, c can be construed together.
 
@@ -151,23 +151,23 @@ The published translation maintains the connection with nīví-, or rather with 
 Despite this formal problem, I think this root affiliation and formal interpr. solve many of the problems that other interpr. face, and so I would emend the tr. to “… with (riches) to be tracked down/pursued …” in place of “… to clothe (him).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with thy girthed mares, with abundant vigour and plenteous strength to him who sings thy praises.  
      Come hither, borne by mares with many heroes, Lover of song! Steer! for the people's welfare.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zum Sänger mit in den Schurz gebundenen Geschenken, groß an Erfolgen und an großen Kräften, mit Geschenken von vielen Söhnen, du Bulle der Völker, du Lobbegehrender, zur Wohlfahrt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schreite vor zum Sänger mit Geschenken, mit grossen Kräften, mit des grossen Gaben, Mit männerreichen, o du Stier der Völker, zu hohem Glück, der du an Liedern Lust hast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Иди) к певцу с (дарами) в набедренной повязке (?),  
 С великими наградами великого и с силами,  

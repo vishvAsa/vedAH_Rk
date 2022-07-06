@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा꣡म् अग्न इन꣡धते यत꣡स्रुक्  
 त्रि꣡स् ते अ꣡न्नं कृण꣡वत् स꣡स्मिन् अ꣡हन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡व क्र꣡त्वा जातवेदश् चिकित्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । सु । द्यु॒म्नैः । अ॒भि । अ॒स्तु॒ । प्र॒ऽसक्ष॑त् । तव॑ । क्रत्वा॑ । जा॒त॒ऽवे॒दः॒ । चि॒कि॒त्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -144,20 +144,20 @@ genre M
 हे **अग्ने** **यतस्रुक्** स्रुचा संबद्धः **यः** यजमानः **त्वाम्** **इनधते** दीप्तियुक्तं कुर्यात् । यः **सस्मिन्नहन्** सर्वस्मिन्नहनि **ते** तुभ्यं **त्रिः** त्रिवारं सवनत्रये **अन्नं** हविर्लक्षणमन्नं **कृणवत्** कुर्यात् । हे **जातवेदः** जातानां वेदितरग्ने **तव** तोषकेण **क्रत्वा** इन्धनादिहेतुना कर्मणा **प्रसक्षत्** प्रसहमानं त्वदीयं तेजः **चिकित्वान्** जानन् **सः** यजमानः **द्युम्नैः** धनैर्यशोभिर्वा **सु** अत्यन्तम् **अभ्यस्तु** शत्रून् अभिभवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May he who with uplifted ladle kindles you, and thrice every day presents to you the (sacrificial) food, knowing your glory, **Jātavedas**, to be invigorated by the act, surpass (all others) in riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will kindle you, Agni, with his offering ladle extended, whoever  will make food for you three times in the same day,  
 let him, victorious, be superior in heavenly brilliance in accordance with  your purpose, o Jātavedas—he the observant one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The form prasákṣat is implicitly taken as a finite form by Scarlatta (602-3) and Witzel Gotō, presumably as an s-aor. subj. In Scarlatta’s tr. it is parallel to the impv. abhy àstu (“so sei es, an Herrlichkeit(en) überlegen sein [und] vorherrschen”), but the verbal accent makes trouble for this main clause interpr. (It could, I suppose, bear a “contrastive” accent.) Witzel Gotō make it a subordinate cl. without overt marking (“indem er vorwärts siegt”), which would account for the accent. Nonetheless it seems best to take the form as a participle. Grassmann identifies it as a neut.; if this is so, it would have to be an example of the neut. used adverbially. This seems the analysis presupposed by Oldenberg’s (SBE) tr. ‘victoriously’. However, the simplest solution is given in AiG II.2.162 (fld. by Narten, Sig.Aor., 265): it is a masc. nom. sg. with the weak participial suffix appropriate to verbal stems that have weak 3rd pl. endings.
 
@@ -175,28 +175,28 @@ On the parallel pres. and pf. subjunctives in these vss. see comm. ad
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHOSO enkindles thee, with lifted ladle, and thrice this day offiers thee food, O Agni,  
      May he excel, triumphant through thy splendours, wise through thy mental power, O Jatavedas.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the man who holds the sacrificial ladle and kindles thee, O Agni, who thrice prepares food for thee on this day, victoriously overcome (his foes) through his lustre, wise through the power of thy mind, O Gâtavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dich, Agni, mit bereitgehaltenem Schmalzlöffel anzündet, dir dreimal am gleichen Tage Speise bereitet, der soll fein an Ruhmesglanz als siegreicher Meister überlegen sein, weise durch deine Einsicht, o Jatavedas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, Agni, dich entflammt, den Löffel ausstreckt, dreimal dir Spende schafft an einem Tage, Der ragt hervor an schönem Gut, ist siegreich durch deine Kraft, ist weis', o Wesenkenner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто тебя зажигает, о Агни, (стоя) с протянутой жертвенной ложкой,  
 Трижды в один и тот же день готовит тебе пищу,  

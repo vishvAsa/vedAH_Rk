@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡ तिया꣡ ते श्रु꣡तियानि के꣡वला  
 य꣡द् ए꣡क ए꣡कम् अ꣡कृणोर् अयज्ञ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त्व꣡या वि꣡भिन्नम् भरति प्रधि꣡म् पिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 मा॒साम् । वि॒ऽधान॑म् । अ॒द॒धाः॒ । अधि॑ । द्यवि॑ । त्वया॑ । विऽभि॑न्नम् । भ॒र॒ति॒ । प्र॒ऽधिम् । पि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *etad*
 - \[noun\], nominative, plural, neuter
@@ -138,36 +138,36 @@ genre M
 हे इन्द्र **त्या** तानि **ते** तव त्वदीयानि वीर्यकर्माणि **एता** एतान्येव **केवला** केवलानि **श्रुत्यानि** श्रोतव्यानि स्तुत्यर्हाणि । नान्यदीयानि । कानि पुनस्तानि । **एकः** असहायस्त्वम् **एकं** प्रधानभूतम् **अयज्ञं** यज्ञरहितमसुरम् **अकृणोः** अहिंसीरिति **यत्** एतदेकं कर्म ॥  ‘कृवि हिंसाकरणयोश्च । अत्र हिंसार्थः । इदित्त्वान्नुम् । धिन्विकृण्व्योरच्च' इत्युप्रत्ययोऽकारान्तादेशश्च । तस्य लोपे सति स्थानिवद्भावाल्लघूपधगुणाभावः ॥ तथा **मासां** मासानाम् ॥ ' पद्दन् इत्यादिना मासशब्दस्य मास्भावः । ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ॥ मासानां **विधानं** विधातारं कर्तारं सूर्यम् **अधि** **द्यवि** द्युलोक उपरि **अदधाः** अधारयः ॥ विपूर्वात् दधातेः  ‘ कृत्यल्युटो बहुलम्' इति कर्तरि ल्युट् ॥ इदमपरं कर्म । तथा **पिता** पालको द्युलोकः **विभिन्नं** विदारितं वृत्राद्विभक्तं **प्रधिं** रथचक्रस्य पार्श्वम् । पार्श्व फलके प्रधी इत्युच्येते । ईदृशं सूर्यरथसंबन्धिनं प्रधिमन्यैर्धारयितुमशक्यं **त्वया** एव **भरति.** धारयति । इदमपरं कर्म । एतत्प्रभृतीनि त्वया कृतानि कर्माणि परेषामसाधारणानि सर्वदा स्तोतव्यानीत्यर्थः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These wondrous exploits are yours alone, in that you unaided have injured the chief neglector ofsacrifice; you have plural ced in the sky the regulator of the months through your aid the paternal (heaven) upholdsthe circumference of the wheel (of the Sun's car) which has been shattered (by **Vṛtra**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (deeds) worthy of fame are yours exclusively, in that you alone  made him alone to be one lacking the sacrifice.  
 You set the apportioner of the months [=moon] in heaven. The father  [=Heaven] bears the segment of the wheel that was split off by you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are thy famous exploits, only thine, when thou alone hast left the other reft of sacrifice.  
      Thou in the heavens hast set the ordering of the Moons: the Father bears the felly portioned out by thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf diese rühmlichen Taten hast nur du Anspruch, daß du der Eine den Anderen opferlos machest. Du setztest ihn als Einteiler der Monate an den Himmel; den von dir Zerspaltenen trägt der Vater als Scheibe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sind die Ruhmesthaten, die dir eigen sind: Mann gegen Mann erschlugst du den, der opferlos, Der Monde Scheidung setztest du, am Himmel fest, der Vater trägt den Radkranz, den du hast vertheilt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это все только твои славные дела,  
 Чего ты один лишенного жертв сделал (поверженным).  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृत्र꣡स्य त्वा श्वस꣡थाद् ई꣡षमाणा  
 वि꣡श्वे देवा꣡ अजहुर् ये꣡ स꣡खायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थेमा꣡ वि꣡श्वाः पृ꣡तना जयासि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒रुत्ऽभिः॑ । इ॒न्द्र॒ । स॒ख्यम् । ते॒ । अ॒स्तु॒ । अथ॑ । इ॒माः । विश्वाः॑ । पृत॑नाः । ज॒या॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
@@ -125,7 +125,7 @@ genre M
 “त्वा त्वाम् **अजहुः** संग्रामे त्यक्तवन्तः । एवं सति हे **इन्द्र** **मरुद्भिः** सह **सख्यं** सखिभावः **ते** तव **अस्तु** । ये मरुतस्त्वां न परित्यजन्ति तैः सहेति । **अथ** अनन्तरम् **इमाः** **विश्वाः** **पृतनाः** शत्रुसेनाः **जयासि** स्वबलेनाभिभवसि । अनेन वृत्रं घ्नन्तमिन्द्रमाह । अत्र ‘इन्द्रो वै वृत्रं हनिष्यन्' (ऐ. ब्रा. ३. २०) इत्यादि ब्राह्मणमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Friendshi: (AitareyaBrāhmaṇa 3.20): The Maruts alone did not leave him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Maruts:] “Shrinking from the hissing of Vr̥tra, all the gods who were  your partners deserted you.  
 Let your partnership be with the Maruts, Indra. Then you will win all  these battles here.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have chosen to read the impv. bhávā in b with the two small clauses in c as well, though it is certainly possible to interpret those with Geldner as straight indicative nominal clauses: “you (are) there with help …; you (are) friendship …”
 
@@ -157,23 +157,23 @@ The da capo-like structure of the verses in this tṛca, with the first pāda re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flying in terror from the snort of Vrtra, all Deities who were thy friends forsook thee.  
      So, Indra, be thy friendship with the Maruts: in all these battles thou shalt be the victor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor dem Schnauben des Vritra weichend verließen dich alle Götter, deine Kameraden. Mit den Marut sollst du Freundschaft halten, Indra, dann wirst du alle diese Kämpfe siegreich bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verlassen, Du mögest mit den Maruts dich verbünden, dann wirst du diese Feinde all' besiegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

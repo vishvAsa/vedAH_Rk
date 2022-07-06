@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः सुत्रा꣡मा सुअ꣡वाँ अ꣡वोभिः  
 सुमॄळीको꣡+ भवतु विश्व꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रियस्य प꣡तयः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 बाध॑ताम् । द्वेषः॑ । अभ॑यम् । कृ॒णो॒तु॒ । सु॒ऽवीर्य॑स्य । पत॑यः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -125,37 +125,37 @@ genre M;; repeated line
 सुत्रामा सुष्ठु त्राता स्ववान्धन्वान् स इन्द्रोऽवोभी रक्षनैः सुमृळीकः सुष्ठु सुखयिता भवतु। तथा च विश्ववेदाः सर्वधनह् सर्वविद्वान्वा स इन्द्रो द्वेषो द्वॆष्टॄन् शत्रून् बाधताम्। हिनस्तु। अभयं भयरहितं चास्माकं क्रुणोतु। करोतु। वयं च तत्प्रसादात्सुवीर्यस्य शोभनवीर्यस्य पतयः स्याम। भवेम॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra**, the protector, the possessor of treat wealth, the all- knowing, be favourable (to us) with hisprotections; may he confound our enemies, may he make us free from fear, may we be the parents of excellentmale offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra be of good protection, of good help with his help, very  gracious, affording all possessions.  
 Let him thrust away hatred; let him create fearlessness. Might we be  
 lords of good heroes in abundance.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra is strong to save, rich in assistance may he, possessing all, be kind and gracious.  
      May he disperse our foes and give us safety, and may we be the lords of hero vigou r.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Retter Indra, den Schützer Indra, den bei jeder Anrufung leicht zu errufenden Helden Indra rufe ich, den mächtigen, vielgerufenen Indra. Glück soll uns der freigebige Indra bringen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alles Gut hat, Indra sei uns gnädig, der schnell beschirmt und hilft mit schönen Hülfen, Den Feind verjag' er, schaff uns sichre Stätte, wir mögen grosse Heldenkraft besitzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, прекрасный спаситель, прекрасный помощник со (своей) помощью  
 Пусть будет очень милостив (к нам) (он,) всеведущий!  

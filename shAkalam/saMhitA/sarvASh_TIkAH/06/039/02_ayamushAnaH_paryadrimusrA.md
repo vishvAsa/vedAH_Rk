@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् उशानः꣡ प꣡रि अ꣡द्रिम् उस्रा꣡  
 ऋत꣡धीतिभिर् ऋतयु꣡ग् युजानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पणीँ꣡र् व꣡चोभिर् अभि꣡ योधद् इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रु॒जत् । अरु॑ग्णम् । वि । व॒लस्य॑ । सानु॑म् । प॒णीन् । वचः॑ऽभिः । अ॒भि । यो॒ध॒त् । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -130,21 +130,21 @@ genre M
 **अयम्** इन्द्रः **अद्रिं** वलेन गोपिधानाय निर्मितं शिलोचयं **परि** परितः पर्वतसमीपे विद्यमाना: **उस्राः** गाः **उशानः** कामयमानः **ऋतधीतिभिः** सत्यकर्मभिरङ्गिरोभिः **युजानः** संगच्छमानः **ऋतयुक्** ऋतेन तत्कृतेन स्तोत्रेण युक्तश्च भूत्वा **वलस्य** असुरस्य स्वभूतं **सानुं** समुच्छ्रितं पर्वतम् **अरुग्णम्** अन्यैरभग्नं **वि** **रुजत्** व्यभाङ्क्षीत् । किंच **पणीन्** वलानुचरानेतत्संज्ञानसुरांश्च **वचोभिः** स्तुत्यरायुधैः संतर्जनरूपैर्वाक्यैरेव वा अयम् **इन्द्रः** **अभि** **योधत्** अभ्ययुध्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Determined (to recover) the cattle hidden in the mountain, associated with the animated by (their) veracious (praise), this (**Indra**) fractured the infrangible rock of **Bala**, and overwhelmed the **Paṇis** with reproaches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here eagerly (breaks) the rock en(closing) the ruddy (cows),  as the one whose yoke is truth, having been yoked by those of true  
 insights;  
 he breaks apart the unbreakable back of the Vala cave. Indra will fight  against the Paṇis with words.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is truncated, though the frequency of the Vala theme and the stereotyped phraseology associated with it easily allow the missing parts to be supplied. With páry ádrim usrā́ḥ we can add the part. sántam, as in IV.1.15 gā́ḥ … pári ṣántam ádrim “… the rock surrounding the cows” (cf. VI.17.5). As for the verb, √ruj is the (or a) standard root for this mythological action (cf. nearby VI.32.2 rujád  ádrim), and ruját opening pāda c can serve in the first hemistich as well. (Scarlatta [425] unaccountably supplies “ging” instead.) The second pāda contains an elementary etymological figure, with the root noun cmpd ṛtayúj- flanked by its component parts: ṛtá(-dhītibhir) ṛtayúg yujānáḥ.
 
@@ -167,23 +167,23 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Craving the kine, rushing against the mountain led on by Law, with holyminded comrades,  
      He broke the never-broken ridge of Vala. With words of might Indra subdued the Panis.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser hat begierig den die Kühe umschließenden Fels gesprengt mit den das Rechte Erkennenden verbündet, mit dem Recht im Bunde. Er erbrach den ungebrochenen Bergrücken des Vala. Mit Worten bekämpfte Indra die Pani`s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verlangend nach den Kühen rings im Felsen, zum Heil verbündet mit den reingesinnten, Zerbrechend Vala's ungebrochnen Gipfel, bezwang durch Liedes Macht die Diebe Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот жаждущий (разбил) скалу, окружавшую коров,  
 Связанный с преданными закону, в союзе с законом.  

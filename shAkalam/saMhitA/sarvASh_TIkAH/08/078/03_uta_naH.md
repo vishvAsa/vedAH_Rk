@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नः कर्णशो꣡भना  
 पुरू꣡णि धृष्णव् आ꣡ भर  
 तुवं꣡ हि꣡ शृण्विषे꣡ वसो
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 त्वम् । हि । शृ॒ण्वि॒षे । व॒सो॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -88,41 +88,41 @@ genre M
 **उत** अपि च **नः** अस्मभ्यं **कर्णशोभना** कर्णाभरणानि **पुरूणि** बहूनि **आ** **भर** । हे **धृष्णो** धर्षकेन्द्र **वसो** वासयितरिन्द्र **त्वं** **हि** खलु **शृण्विषे** श्रूयसे । किमिति । उदारोऽयमिन्द्र इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O resolute one, bring us many ear-ornaments; giver of dwellings, you are renowned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And bring here to us many earrings, bold one,  
 for you are famed as a good one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vaso is a predicated vocative; the tr. renders the predication rather than the vocative, since the combination doesn’t work in Engl.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, Bold One, bring in ample store rich jewels to adorn thi; ear,  
      For thou, Good Lord, art far renowned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bring uns viele Ohrringe, du Mutiger, denn du bist als der Gütige bekannt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und viele Ohrgehänge auch, o Kühner, bringe uns herbei; Denn als den guten rühmt man dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

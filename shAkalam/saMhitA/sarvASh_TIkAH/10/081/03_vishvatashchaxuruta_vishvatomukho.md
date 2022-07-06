@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्व꣡तश्चक्षुर् उत꣡ विश्व꣡तोमुखो  
 विश्व꣡तोबाहुर् उत꣡ विश्व꣡तस्पात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्या꣡वाभू꣡मी जन꣡यन् देव꣡ ए꣡कः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सम् । बा॒हुऽभ्या॑म् । धम॑ति । सम् । पत॑त्रैः । द्यावा॒भूमी॒ इति॑ । ज॒नय॑न् । दे॒वः । एकः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvataścakṣur* ← *viśvatas*
 - \[adverb\]
@@ -105,7 +105,7 @@ popular
 अनया सर्वात्मकत्वेन कुलालादिविलक्षणत्वादधिष्ठाद्यभावेऽपि स्रष्टुं शक्नोतीत्यह। **विश्वतश्चक्षुः** सर्वतो व्याप्तचक्षुः । **उत** अपि च **विश्वतोमुखः** । तथा **विश्वतोबाहुः** । **उत** अपि च **विश्वतस्पात्** । स एवंविधः परमेश्वरः स्वस्मिंस्त्रैलोक्यमुत्पादयतीत्यर्थः । कथमिति उच्यते । **बाहुभ्यां** दिवं **सं** **धमति** । धमतिर्गतिकर्मा । सम्यक्प्रेरयति । तथा **पतत्रैः** गमनशीलैः पादैः पृथिवीं **सं** धमतीति । उभयोरेव श्रवणं प्राधान्याभिप्रायम् । एवं **द्यावाभूमी** **जनयन्** दिवं च पृथिवीं चोत्पादयन् **देवः** द्योतमानः स्वयंप्रकाशः परमेश्वरः **एकः** असहाय एव वर्तते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ popular
 Traverses: sam dhamati = he blows together, or inflates; a metaphorto denote the work of creation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose eyes and face are turned in every direction, whose arms and feet  move in every direction,  
 producing heaven and earth, he forges them together with his arms, with  his fan(-bellows)—he, the god alone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath eyes on all sides round about him, a mouth on all sides, arms and feet on all sides,  
      He, the Sole God, producing earth and heaven, weldeth them, with his arms as wings, together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Allenthalben Auge, Gesicht, Arm und Fuß, schweißt er sie mit den Armen und den Schwingen zusammen, als er Himmel und Erde erschuf, der einzige Gott.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er der sein Auge hat an allen Orten, und überall den Mund, die Arm' und Füsse, Der eine Gott mit Armen und mit Schwingen schweisst Erd' und Himmel er zusammen schaffend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Имея повсюду глаза и повсюду лицо,  
 Повсюду – руки и повсюду – ноги.  

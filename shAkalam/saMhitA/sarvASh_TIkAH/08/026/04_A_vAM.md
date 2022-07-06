@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां वा꣡हिष्ठो अश्विना  
 र꣡थो यातु श्रुतो꣡ नरा  
 उ꣡प स्तो꣡मान् तुर꣡स्य दर्शथः श्रिये꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 उप॑ । स्तोमा॑न् । तु॒रस्य॑ । द॒र्श॒थः॒ । श्रि॒ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -95,37 +95,37 @@ genre M
 हे **नरा** सर्वस्य नेतारौ **अश्विना** अश्विनौ **वां** युवयोः **वाहिष्ठः** वोढृतमः **श्रुतः** विश्रुतः सर्वत्र प्रसिद्धः **रथः** **आ** **यातु** अस्मदीयं यज्ञं प्रत्यागच्छतु । तेन रथेन युवामागत्य **तुरस्य** क्षिप्रं स्तोत्रं कुर्वतस्तस्य **स्तोमान्** त्रिवृत्पञ्चदशादिस्तोमान् **श्रिये** तस्यैश्वर्यप्रदानाय **उप** **दर्शथः** । पश्यतिर्ज्ञानकर्मा । जानीतम् । दृशेर्लटि व्यत्ययेनाङादेशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Leaders (of rites), let your renowned all-conveying chariot come to us, and (do you) recognize thepraisers of the zealous (worshipper) for his prosperity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your famed chariot, the best conveyor, drive here, o Aśvins,  
 superior men.  
 (Then) you shall look closely at the praise songs of the powerful one for  splendor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 आ वां॒ वाहि॑ष्ठो अश्विना॒ रथो॑ यातु श्रु॒तो न॑रा ।  
 उप॒ स्तोमा॑न्तु॒रस्य॑ दर्शथः श्रि॒ये ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euer bestfahrender Wagen soll kommen, der berühmte, ihr Herren Asvin. Ihr sollt nach des Meisters Lobliedern schauen ihm zu Ehren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Eur Wagen, Ritter, komme her, der hehre, der am schnellsten fährt, Vernehmt des muntern Lobgesänge euch zum Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ваша лучше всех возящая колесница, о Ашвины,  
 Знаменитая, пусть приедет, о два мужа!  

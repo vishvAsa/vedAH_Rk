@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अश्वावतीं꣡ सोमावती꣡म्  
 ऊर्ज꣡यन्तीम् उ꣡दोजसम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्मा꣡ अरिष्ट꣡तातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 आ । अ॒वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टऽता॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāvatīṃ* ← *aśvāvatīm* ← *aśvāvat*
 - \[noun\], accusative, singular, feminine
@@ -78,7 +78,7 @@ popular;; epic anuṣṭubh (292)
 अश्वावत्यादयः प्रधानभूता ओषधयश्चतस्रः। ताः सर्वा **ओषधीः** **आवित्सि** आजाने । स्तौमीत्यर्थः । **अस्मा** **अरिष्टतातये** । अमुं रोग विनाशयितुमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,29 +89,29 @@ popular;; epic anuṣṭubh (292)
 Aśvāvatī... : these are the four principal plural nts, or, the plural nts, the giver ofhorses (ofr of wealth), the yielder of **Soma**, the giver of strength (or life), the restorer of vigour; the termsurjayantī, udojasā = tonic and stimulant; for the purpose of overcoming this disease: liṭ, for this person n for thispreservation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The “horse possessor,” the “soma-possessor,” the “strengthener,” the  “overpowering one”—  
 all these plants have I acquired for this (man) here not to be harmed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Herbs rich in Soma, rich in steeds, in nourishments, in strengthening power,-  
      All these have I provided here, that this man may be whole again.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Rosseeinbringende, Somasaftliefernde, Stärkende, Krafterhöhende, alle diese Kräuter habe ich angetroffen für diesen zur Genesung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das wäss'rige, das milchige, das nährende, das kräftige – Beisammen sind sie alle hier, zu machen seinen Schaden heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приносящее коней, приносящее сому,  
 Подкрепляющее, увеличивающее силу –  

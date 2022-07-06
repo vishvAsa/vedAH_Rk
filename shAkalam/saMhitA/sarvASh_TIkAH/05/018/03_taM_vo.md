@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वो दीर्घा꣡युशोचिषं  
 गिरा꣡ हुवे मघो꣡ना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡ अश्वदावन् ई꣡यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अरि॑ष्टः । येषा॑म् । रथः॑ । वि । अ॒श्व॒ऽदा॒व॒न् । ईय॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -103,41 +103,41 @@ genre M
 हे अग्ने **दीर्घायुशोचिषं** दीर्घगमनदीप्तिं **तं** **वः** । पूजायां बहुवचनम् । त्वां **मघोनां** धनिनां कृते **गिरा** स्तोत्रेण **हुवे** आह्वयामि । हे **अश्वदावन्** अश्वानां दातः **येषां** धनिनां **रथः** युद्धेषु **अरिष्टः** शत्रुभिरहिंसितः **वि** **ईयते** विगच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke you bright-shining, through a long life, with praise, (for the benefit) of the affluent, that their chariot, giver of horses, may proceed unimpeded.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you do I summon him of long-lived blaze with a song for (you)  generous ones,  
 whose chariot speeds away undamaged, o giver of horses,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Nobles, with song I call that car of yours that shines with lengthened life,  
      For, God who givest steeds! that car hither and thither goes unharmed.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I call for your sake Him who flames through long life, with the speech that belongs to the liberal patrons 1 whose chariot moves uninjured, O giver of horses 2;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen euren Agni, dessen Glut langlebig ist, rufe ich mit einem Lobe auf die freigebigen Herren an, deren Wagen unversehrt davon kommt, du Rosseschenker.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der euch langes Leben strahlt, und Rosse schenkt, ruf' ich mit Lied Der Reichen, deren Wagen schnell zum Ziele eilet unversehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого вашего (Агни) с пламенем, дающим долгую жизнь,  
 Я зову хвалебной песней от имени щедрых покровителей,  

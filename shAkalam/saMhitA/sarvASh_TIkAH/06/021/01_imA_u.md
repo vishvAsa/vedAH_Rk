@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ उ त्वा पुरुत꣡मस्य कारो꣡र्  
 ह꣡वियं वीर ह꣡विया हवन्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयि꣡र् वि꣡भूतिर् ईयते वचस्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धियः॑ । र॒थे॒ऽस्थाम् । अ॒जर॑म् । नवी॑यः । र॒यिः । विऽभू॑तिः । ई॒य॒ते॒ । व॒च॒स्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
@@ -109,21 +109,21 @@ genre M
 **पुरुतमस्य** बहुलं कामं काङ्क्षतः । ‘तमु अभिकाङ्क्षायाम्' इति धातुः । **कारोः** स्तोतुर्भरद्वाजस्य संबन्धिन्यः **हव्याः** स्तुत्याः प्रशस्याः **इमाः** **धियः** स्तुतयो हे **वीर** शूरेन्द्र **हव्यं** **त्वा** त्वां **हवन्ते** ह्वयन्ति । कीदृशम् । **रथेस्थां** रथे स्थितम् **अजरं** जरारहितं **नवीयः** नवीयांसं नवतरम्। **उ** इति पूरणः । अपि च **वचस्या** स्तुत्या श्रेष्ठा **विभूतिः** जगतो विभवहेतुः **रयिः** हविर्लक्षणं धनम् **ईयते** त्वामभिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These earnest adorations of the much-desiring worshipper glorify you, hero, **Indra**, who are adorable; mounted on your car, undecaying, ever new, and to whom the wealth (of sacrifice), the most excellent opulence, proceeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These insights of this latest of many bards, (insights) deserving to  invoke, newly invoke  
 you who deserve invoking, o hero, the unaging chariot-mounter.  
 Extensive wealth is sped by their eloquence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As with hemistich initial #śataíḥ … #vadhaíḥ in VI.20.4 in the immediately preceding hymn, I take #imā́ḥ … #dhíyaḥ as a “vertical” NP, “these insights.” Their positioning allows them to get out of the way of the intense etym. figure in b: hávyam … hávyā havante. This figure is complicated by the fact that hávya- is used in two slightly different senses, controlled by slightly different constructions of the verb √hū / hvā. Although the normal object of this verb is a god or other being called upon, very occasionally it can take the call itself as object (see comm. ad IV.23.3), and of course derivatives like háva(na)- express the call itself. In our passage havante ‘they invoke’ takes the usual type of object, namely Indra here, who is qualified by the gerundive hávya- ‘to be invoked’. But the insights (dhíyaḥ) themselves are also so qualified; here hávyāḥ must mean not ‘to be invoked’, but ‘to be called [=spoken]’. In order to keep the vocabulary constant, I have tr. ‘deserving to invoke’, in contrast to ‘deserving to be invoked’ applied to Indra.
 
@@ -132,23 +132,23 @@ The vertical NP just discussed unbalances syntactic constituency, and, unusually
 In d most take īyate to √yā / ī ‘implore, beg’; so, e.g., Geldner “… wird … erbeten” (likewise Lubotsky, Kulikov, -ya-presents 495). I assign it rather to ‘speeds’, though either is possible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE the most constant singer's invocations call thee who art to be invoked, O Hero;  
      Hymns call anew the chariot-borne, Eternal: by eloquence men gain abundant riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese einladenden Gebete des ersten Dichters unter den vielen rufen dich, o Held, den zu Ladenden, den Wagenfahrer, den Alterlosen aufs neue. Reichlicher Besitz wird mit Beredsamkeit erbeten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den rufenswerthen rufen diese Rufe des emsigsten der Dichter dich, o Starker, Gebete neu den alten Wagenkämpfer, durch Liederfleiss wird Gut und Macht erworben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти молитвы самого деятельного восхвалителя  
 Призывают тебя, достойного призывов, о герой, (они,) призывные,  

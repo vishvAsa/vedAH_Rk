@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ च सोम नो व꣡शो  
 जीवा꣡तुं न꣡ मरामहे  
 प्रिय꣡स्तोत्रो व꣡नस्प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 प्रि॒यऽस्तो॑त्रः । वन॒स्पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -84,7 +84,7 @@ genre M
 हे **सोम** **नः** अस्माकं स्तोतॄणां **जीवातुं** जीवनौषधं **त्वं** **च** त्वं चेत् **वशः** कामयेथाः तदानीं वयं **न** **मरामहे** न म्रियामहे । कीदृशस्त्वम् । **प्रियस्तोत्रः** । प्रियाणि स्तोत्राणि यस्य स तथोक्तः । बहुभिः स्तोतव्य इत्यर्थः । **वनस्पतिः** वनानामोषधिवनस्पतिरूपाणां पतिः पालयितासि ।  ‘ सोमो वा ओषधीनां राजा ' ( तै. सं. ६, ७, ९, १ ) इति श्रुतेः ॥ वशः । वश कान्तौ । लेटि सिपि अडागमः । आगमानुदात्तत्वे धातुस्वरः शिष्यते । त्वं चेति चशब्दश्चणिति निपातान्तरं चेदर्थम् । तद्योगात्  ‘ निपातैर्यद्यदिहन्त° ' इति निघातप्रतिषेधः । जीवातुम् ।  ‘ जीव प्राणधारणे ।  ‘ जीवेरातुः ( उ. सू. १. ७९ ) । मरामहे ।' मृङ् प्राणत्यागे । व्यत्ययेन शप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -95,13 +95,13 @@ genre M
 Somo vā oṣadhīnām **rājā** (**Taittirīya** **Saṃhitā** 6.1.9.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And if you will wish us to live, Soma, we will not die.  
 (You are) the lord of the forest to whom praise is dear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A good example of subordinating ca.
 
@@ -110,23 +110,23 @@ On the use of vánaspáti- ‘lord of the forest’ for soma, see comm. ad IX.12
 This usage is found only here and in IX.12.7. Because our phrase priyástotro vánaspátiḥ is almost identical to IX.12.7 nítyastotro vánaspátiḥ, I am now inclined to translate the bahuvr. ‘who has praise as his own’, not ‘to whom praise is dear’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And, Soma, let it be thy wish that we may live and may not die:  
      Praise-loving Lord of plants art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So du, Soma, willst, daß wir leben, so sterben wir nicht. Du bist der preisliebende Baumfürst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn du uns, Soma, leben heisst, so fall'n wir nicht dem Tod anheim, O Waldesfürst, dem Lob gefällt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если ты, Сома, захочешь, чтобы мы  
 Жили, мы не умрем.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सि꣡न्धुर् ह वां रस꣡या सिञ्चद् अ꣡श्वान्  
 घृणा꣡ व꣡यो अरुषा꣡सः प꣡रि ग्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡न प꣡ती भ꣡वथः सूरिया꣡याः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तत् । ऊं॒ इति॑ । सु । वा॒म् । अ॒जि॒रम् । चे॒ति॒ । यान॑म् । येन॑ । पती॒ इति॑ । भव॑थः । सू॒र्यायाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 **वां** युवयोः **अश्वान्** **सिन्धुः** स्यन्दमानो मेघ उदकं वा **रसया** रसेन **सिञ्चत्** असेचयत् । **घृणा** दीप्त्या **वयः** पक्षिसदृशा वेतारः वा अश्वाः **अरुषासः** आरोचमानाः सन्तः **परि** परितः **ग्मन्** गच्छन्ति । **वां** **यानं** गमनसाधनं प्रसिद्धो रथः **अजिरम्** । क्षिप्रनामैतत् । सु सुष्ठु **चेति** ज्ञायते । **येन** रथेन **सूर्यायाः** **पती** पालयितारौ वोढारौ **भवथः** सः रथश्चेतीति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ genre M
 The flowing stream: **sindhu**, this may mean here, either water or a cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sindhu River sprinkles your horses with the Rasā; your ruddy birds  avoid the glowing heat.  
 Your speedy vehicle has just appeared, with which you two become the  masters [/husbands] of Sūryā.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 More sprinkling and splashing. The instr. rasáyā is probably an instr. of accompaniment (both the Sindhu and Rasā sprinkle) rather than of means.
 
@@ -164,23 +164,23 @@ With most interpr. I read acc. pl. ghṛṇā́(ḥ) against Pp. instr. ghṛṇ
 yā́na- is found only here in the RV. On the basis of the strong association between Sūryā and the chariot, I take it, with Grassmann, as a vehicle not, with most interpr., as abstract ‘journey’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Sindhu with his wave bedew your horses: in fiery glow have the red birds come hither.  
      Observed of all was that your rapid going, whereby ye were the Lords of Siirya's Daughter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sindhu mit der Rasa benetzte eure Pferde; die rötlichen Vogelrosse entgingen den Gluten. Diese eure schnelle Fahrt machte fein Aufsehen, durch die ihr die Gatten der Surya werdet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Stromes Trank benetze eure Rosse, die rothen Vögel fliegen um die Gluten Und schnell erscheint dies euer rasches Fuhrwerk, mit dem der Sonne Tochter ihr gefreit habt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Синдху вместе с Расой полили (водой) ваших коней.  
 Алые птицы избежали зноя.  

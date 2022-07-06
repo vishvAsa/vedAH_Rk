@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व्रजं꣡ कृणुध्वं स꣡ हि꣡ वो नृपा꣡णो  
 व꣡र्म सीव्यध्वम् बहुला꣡ पृथू꣡नि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ वः सुस्रोच् चमसो꣡ दृ꣡ंहता त꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पुरः॑ । कृ॒णु॒ध्व॒म् । आय॑सीः । अधृ॑ष्टाः । मा । वः॒ । सु॒स्रो॒त् । च॒म॒सः । दृंह॑त । तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
@@ -142,37 +142,37 @@ popular
 हे ऋत्विजः **व्रजं** **कृणुध्वं** व्रजं गोष्ठं कुरुध्वम् । आशिरदोहार्थं गोस्थानं कुरुत । **स** **हि** स खलु **वः** **नृपाणः** नेतॄणां देवानां पातव्यः । देवपानसाधन इति । सांनाय्यरूपेण वाशिररूपेण वा गोः पयआदिकं देवाः पिबन्ति खलु । **वर्म** वर्माणि **सीव्यध्वम्** । वर्मवत्प्रधानस्योभयत आच्छादकत्वात् प्रयाजादीनि प्राच्यानि प्रतीच्यानि चाङ्गानि वर्माणि । तानि सीव्यध्वं 'दलयध्वम् । कुरुध्वमित्यर्थः । कीदृशानि वर्माणि । **बहुला** बहुलान्यनेकानि । तानि च **पृथूनि** विस्तीर्णानि । तथा **पुरः** पुराणि धिष्ण्यादीनि यष्टव्यानां देवानां वा पुरः शरीराणि **आयसीः** अयोमयवत्सारभूताः **अधृष्टाः** अन्यैः अधृष्याः । पूरणीया ग्रहा वा पुर इत्युच्यन्ते । तानुक्तलक्षणान् कुरुत। **वः** युष्मदीयः **चमसः** यज्ञाख्यो भक्षणसाधनश्चमस एव वा। चमसपक्षे सामान्येनैकवचनम् । **मा** **सुस्रोत** मा स्रवेत् । स्रवतेर्लडि ‘ बहुलं छन्दसि ' इति शप: श्लुः । **तं** **दृंहत** दृढीकुरुत । यथा विकलो न भवति तथा कुरुत । ‘ दृह दृहि वृद्धौ ' । भौवादिकः । तस्माल्लोटि इदित्त्वान्नुम् । ऋत्विक्स्तुतिपक्ष एवम् । वैश्वदेवपक्षे । अस्मदीया योद्धारो यूयम् । नरो योद्धारः पिबन्ति प्रत्यर्थिनां प्राणानिति नृपाणः । स तादृशो युष्मदीयः खलु । गोष्ठपक्षे नराणां पानसाधनः स खलु। पातेः ‘करणाधिकरणयोश्च ' इति ल्युट् । वर्म वर्मणि कवचानि सीव्यध्वं बहुलानि पृथूनि च यथा भवन्ति तथा । पुरः पुरीः कृणुध्वमायसीरन्यैरधृष्टाश्च । वश्चमसोऽदनसाधनो मा सुस्रोत् मा स्रवेत् । तं दृंहतेति । इति देवतानुग्रहलब्धबलो वदति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Construct the cow-stall, for that is the drinking plural ce of your leaders (the gods), fabricate armour,manifold and ample; make cities of metal and impregnable; let not the ladle leak, make it strong.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make a pen (for it), for it gives drink to your men. Stitch (for it) (suits of)  armor, ample and broad.  
 Make (for it) fortresses, metal and unassailable. Let the beaker not  
 leak: make it solid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armour, wide and many.  
      Make iron forts, secure from all assailants let not your pitcher leak: stay it securely.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet einen Pferch, denn dieser dienet euren Herren zum Trunke! Nähet die Koller dicht und breit, machet eherne Burgen, unangreifbare! Nicht soll eure Schale lecken, machet sie fest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Kuhstall rüstet, der den Männern Trunk gibt, und flechtet eure dichten, breiten Panzer; Macht eure Burgen ehern, unbesiegbar, nicht leck sei euer Becher, machet fest ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделайте загон (для скота) – ведь он защищает ваших мужей!  
 Сшейте много широких щитов!  

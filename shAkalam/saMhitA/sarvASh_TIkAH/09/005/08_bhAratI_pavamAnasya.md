@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भा꣡रती प꣡वमानस्य  
 स꣡रस्वती इ꣡ळा मही꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तिस्रो꣡ देवीः꣡ सुपे꣡शसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 इ॒मम् । नः॒ । य॒ज्ञम् । आ । ग॒म॒न् । ति॒स्रः । दे॒वीः । सु॒ऽपेश॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhāratī*
 - \[noun\], nominative, singular, feminine
@@ -98,36 +98,36 @@ popular;; epic anuṣṭubh (424)
 **भारती** भारत्याख्या **सरस्वती** सरस्वत्याख्या च **मही** महती इळाख्या च **तिस्रः** **सुपेशसः** सुरूपाः **देवीः** देव्यः **नः** अस्माकं **पवमानस्य** सोमस्य संबन्धिनम् **इमं** **यज्ञं** प्रति **आ** **गमन्** आगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the three beautiful goddesses, **Bhāratī**, **Sarasvatī**, and mighty Iḷā, come to this our offering of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bhāratī, Sarasvatī, and Iḍā the great, the three goddesses of beautiful  ornaments,  
 will come here to this sacrifice of ours for the self-purifying one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This, Pavamana's sacrifice, shall the three beauteous Goddesses,  
      Sarasvati and Bharati and Ila, Mighty One, attend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bharati, Sarasvati, Ila, die Große, sollen zu diesem unserem Opfer des sich Läuternden kommen, die drei schön geschmückten Göttinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des rieselnden Sarasvati, die grosse Ida, Bharati, Die drei geschmückten Göttinnen, sie mögen unserm Opfer nahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бхарати, Сарасвати,  
 Ида великая пусть придут  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡ नेत्री꣡ रा꣡धसः सूनृ꣡तानाम्  
 उषा꣡ उछ꣡न्ती रिभ्यते व꣡सिष्ठैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 दी॒र्घ॒ऽश्रुत॑म् । र॒यिम् । अ॒स्मे इति॑ । दधा॑ना । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -115,36 +115,36 @@ genre M;; repeated line
 **एषा** **उषाः** **राधसः** स्तोतुः **सूनृतानां** स्तुतीनां **नेत्री** सती **उच्छन्ती** तमो विवासयन्ती **वसिष्ठैः** वसिष्ठगोत्रोत्पन्नैः **रिभ्यते** स्तूयते । **दीर्घश्रुतं** दीर्घे श्रूयमाणं सर्वत्र प्रसिद्धं **रयिं** धनम् **अस्मे** अस्मासु **दधाना** धारयन्ती ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Uṣas, the object of the sincere praises of the worshipper, is glorified when dawning, by the Vasiṣṭhasbestowing upon us far-famed riches; do you (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She is the leader of largesse, of liberalities. Dawn, while dawning, is  “squawked” to by the Vasiṣṭhas,  
 as she establishes wealth of long fame in us. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She bringeth bounty and sweet charm of voices. The flushing Dawn is sung by the Vasisthas,  
      Giving us riches famed to distant places. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Führerin der Ehrengabe, der Geschenke, die aufleuchtende Usas wird von den Vasistha´s besungen, die uns weithin berühmten Reichtum schafft.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Führerin des Reichthums und der Lieder, die lichte Uschas preisen die Vasischtha's, Die weitberühmten Reichthum uns gewähret. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта предводительница дарения, благодеяний,  
 Ушас зажигающаяся воспевается Васиштхами,  

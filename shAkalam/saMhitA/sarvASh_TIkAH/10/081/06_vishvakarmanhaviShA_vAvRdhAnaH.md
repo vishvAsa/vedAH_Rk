@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वकर्मन् हवि꣡षा वावृधानः꣡  
 स्वयं꣡ यजस्व पृथिवी꣡म् उत꣡ द्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इहा꣡स्मा꣡कम् मघ꣡वा सूरि꣡र् अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 मुह्य॑न्तु । अ॒न्ये । अ॒भितः॑ । जना॑सः । इ॒ह । अ॒स्माक॑म् । म॒घऽवा॑ । सू॒रिः । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvakarman*
 - \[noun\], vocative, singular, masculine
@@ -113,7 +113,7 @@ popular
 हे **विश्वकर्मन्** विश्वविषयकर्मन्नेतन्नामक परमेश्वर **हविषा** हविर्भूतेन मया विश्वकर्मणा मया दत्तेन वा हविषा **ववृधानः** वर्धमानः ।  ‘ विश्वकर्मा सर्वाणि भूतानि जुहवांचकार स आत्मानमप्यन्ततो जुहवांचकार ' इति हि निरुक्तं पूर्वमुदाहृतम् । **स्वयम्** एव **पृथिवीम्** **उत** अपि च **द्यां** दिवं च स्वसृष्टे द्यावापृथिव्यौ स्वयं प्रवृद्धः सन् **यजस्व** पूजय । **अन्ये** मत्तोऽन्ये **जनासः** जना अयष्टारोऽस्मद्यागविरोधिनी वा **मुह्यन्तु** मुग्धा भवन्तु **अभितः** सर्वतः । अथ परोक्षकृतः । **इह** अस्मिन्यागे **अस्माकं** **मघवा** अस्मत्प्रत्तेन हविर्लक्षणेन धनेन धनवान् सः **सूरिः** स्वर्गादिफलस्य प्रेरकः **अस्तु** भवतु । अत्र विश्वकर्मन् हविषा वर्धमानः ' (निरु. १०. २७) इत्यादि निरुक्तमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,29 +126,29 @@ Magnified by oblation: or, by me, Viśvakarman, becoming an oblation. In the pre
 **Sūriḥ** = prajñāta,knowing; or, may **Indra** be our adviser
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Viśvakarman, since you are increased through the oblation, by  yourself win earth and heaven by sacrifice.  
 Let the other peoples all around be left in confusion; for us here let there  be a generous patron!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring thou thyself, exalted with oblation, O Visvakarman, Earth and Heaven to worship.  
      Let other men around us live in folly here let us have a rich and liberal patron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Visvakarman, durch Opferspende gestärkt opfere dir selbst die Erde und den Himmel! Die anderen Leute allenthalben mögen in der Irre gehen; uns soll hier ein freigebiger Auftraggeber werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Allvollbringer, durch das Opfer wachsend, bring' Opfer selbst dem Himmel und der Erde, Lass andere Menschen rings in Thorheit irren, bei uns hier sei er unser mächt'ger Herrscher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вишвакарман, укрепив себя возлиянием,  
 Сам принеси себе в жертву землю и небо!  

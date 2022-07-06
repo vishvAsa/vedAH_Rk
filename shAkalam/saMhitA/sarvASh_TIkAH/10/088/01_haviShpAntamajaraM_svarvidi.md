@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हवि꣡ष् पा᳐꣡न्तम् अज꣡रं सुवर्वि꣡दि  
 दिविस्पृ꣡शि आ꣡हुतं जु꣡ष्टम् अग्नउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ध꣡र्मणे कं꣡ स्वध꣡या पप्रथन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्य॑ । भर्म॑णे । भुव॑नाय । दे॒वाः । धर्म॑णे । कम् । स्व॒धया॑ । प॒प्र॒थ॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haviṣpāntam* ← *haviḥ* ← *havis*
 - \[noun\], neuter
@@ -116,7 +116,7 @@ popular
 **पान्तं** पानीयं सोमात्मकम् **अजरं** जरारहितं **जुष्टं** देवानां प्रियं यत् **हविः** **स्वर्विदि** सूर्यस्य वेदितरि **दिविस्पृशि** दिवि स्प्रष्टरि **अग्नौ** **आहुतम्** अभिहुतं **तस्य** सोमात्मकस्य हविषः **भर्मणे** भरणाय **भुवनाय** भावनाय च **धर्मणे** धारणाय च **कं** सर्वस्य सुखकरमिमग्निं **देवाः** **स्वधया** अन्नेन **पप्रथन्त** प्रथयन्ति । तथा च यास्कः-’ हविर्यत्पानीयमजरं सूर्यविदि दिविस्पृश्यभिहुतं जुष्टमग्नौ तस्य भरणाय च भावनाय च धारणाय चैतेभ्यः सर्वेभ्यः कर्मभ्यो देवा इममग्निमन्नेनापप्रथन्त' ( निरु. ७, २५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,29 +127,29 @@ popular
 Gods supply: **Nirukta** 8.25
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The oblation, the drink, unaging and delightful, has been poured into  Agni, the one who finds the sun and touches heaven.  
 For him to bear and support the world, the gods spread out (the world)  by their autonomous power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DEAR, ageless sacrificial drink is offered in light-discovering, heaven-pervading Agni.  
      The Gods spread forth through his Celestial Nature, that he might bear the world up and sustain it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Trankopfer, das nicht alternde, ist in dem sonnenfindenden, zum Himmel reichenden Agni geopfert, das genehme. Durch seine Eigenkraft breiteten sich die Götter aus, um die Welt zu tragen, zu erhalten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen ist der Opfertrank, der ew'ge, dem Agni lieb, dem lichten Himmelsstürmer, Ihn breiteten mit Schöpferkraft die Götter der Welt zur Stütze aus, um sie zu tragen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертвенное возлияние – напиток нестареющий, приятный,  
 Возлито в Агни, нашедшего солнце, касающегося неба.  

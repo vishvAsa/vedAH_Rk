@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ सत्यो꣡ य꣡म् पू꣡र्वे चिद्  
 देवा꣡सश् चिद् य꣡म् ईधिरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुदीति꣡भिर् विभा꣡वसुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 होता॑रम् । म॒न्द्रऽजि॑ह्वम् । इत् । सु॒दी॒तिऽभिः॑ । वि॒भाऽव॑सुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -113,7 +113,7 @@ genre M
 **पूर्वे** **चित्** पूर्वे महर्षयः **होतारं** देवानामाह्वातारं **मन्द्रजिह्वम्** । हविषां प्रदानेन देवानां मादयित्री जिह्वा यस्य सः । तम् । यद्वा मोदनजिह्वम् । तथाह यास्कः- मन्द्रजिह्वं मन्दनजिह्वं मोदनजिह्वमिति वा' (निरु. ६. २३ ) इति । **सुदीतिभिः** शोभनदीप्तिभिर्युक्तं **विभावसुं** प्रभाधनं **यम्** अग्निम् ईधिरे समैन्धत **देवासश्चित्** देवा अपि **यम्** अग्निम् **ईधिरे** समैन्धत **स** **हि** अग्निः **सत्यः** भवति । सत्यप्रतिश्रवो भवति । **इत्** इति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,35 +124,35 @@ genre M
 That Agni is true: **satya** = true, one who does not fail to bestow upon his worshippers the recompense of their devotions
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he is really present—the one whom even the ancients kindled, whom  even the gods—  
 he the very Hotar of gladdening tongue, who brings radiant goods  
 through his bright light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For be is true, whpm men of old enkindled, and the Gods themselves,  
      The Priest with the delicious tongue, rich with the light of glorious beams.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He is the true one, whom the men of old, whom the gods have kindled, the Hotri with the delightful tongue, rich in splendour with glorious shine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist der Wahrhaftige, den auch unsere Vorfahren, den auch die Götter entzündet haben als den Opferpriester mit wohlklingender Zunge, der durch seine schönen Strahlen glanzreich ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn er ist treu, den viele auch, den Götter selbst entzündeten, Der Priester, dessen Zung' erfreut, der reich durch schöne Flammen strahlt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он ведь истинный, (тот,) кого еще предки (наши),  
 Кого зажигали сами боги  

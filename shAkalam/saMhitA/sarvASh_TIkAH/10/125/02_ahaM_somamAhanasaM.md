@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ सो꣡मम् आहन꣡सम् बिभर्मि  
 अहं꣡ त्व꣡ष्टारम् उत꣡ पूष꣡णम् भ꣡गम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सुप्रावि꣡ये य꣡जमानाय सुन्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒हम् । द॒धा॒मि॒ । द्रवि॑णम् । ह॒विष्म॑ते । सु॒प्र॒ऽअ॒व्ये॑ । यज॑मानाय । सु॒न्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -108,36 +108,36 @@ popular
 (“आहनसः । ‘ आहननवन्तो वचनवन्तः । (निरु.४,१५ ) इति यास्कः -ऋ. . ९.७५.५ )
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I support the foe-destroying **Soma**, **Tvaṣṭā**, **Pūṣan** and **Bhaga**; I bestow wealth upon the instrumental tutorof the rite offering the oblation, deserving of careful protection, pouring forth the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I bear the swollen soma, I Tvaṣṭar and Pūṣan and Bhaga.  
 I establish wealth for the man offering the oblation, who pursues (his  ritual duties) well, who sacrifices and presses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I cherish and sustain high-swelling Soma, and Tvastar I support, Pusan, and Bhaga.  
      I load with wealth the zealous sacrificer who pours the juice and offers his oblation
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich trage den stürmischen Soma, ich den Tvastri und Pusan, Bhaga. Ich schaffe dem Opferspender Reichtum, dem Somapressenden, Opfernden, der gut zuzusprechen versteht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma pfleg' ich, der von Säften strotzet, den Tvaschtar ich, den Puschan und den Bhaga Ich schenke Reichthum dem, der Opfer darbringt, dem eifervollen Beter und dem Presser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я несу сому, бьющего через край,  
 Я – Тваштара, а также Пушана, Бхагу.  

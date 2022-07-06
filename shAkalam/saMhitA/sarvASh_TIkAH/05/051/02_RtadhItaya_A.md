@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡तधीतय आ꣡ गत  
 स꣡त्यधर्माणो अध्वर꣡म्  
 अग्नेः꣡ पिबत जिह्व꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्नेः । पि॒ब॒त॒ । जि॒ह्वया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtadhītaya* ← *ṛta*
 - \[noun\], neuter
@@ -84,36 +84,36 @@ genre M
 हे **ऋतधीतयः** सत्यस्तुतयोऽबाध्यकर्माणो वा देवाः **अध्वरम्** अस्मद्यज्ञम् **आ** **गत** आगच्छत । आगत्य च हे **सत्यधर्माणः** सत्यस्य धारयितारो यूयम् **अग्नेः** **जिह्वया** **पिबत** आज्यसोमादिकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Gods who are) devoutly praised and worshipped in truth, come to the sacrifice, and drink the libation with the tongue of **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (All of) you whose insights are truth, whose ordinances are real, come  here to the ceremony.  
 Drink with the tongue of Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to the sacrifice, O ye whose ways are right, whose laws are true,  
      And drink the draught with Agni's tongue.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt herbei, ihr Rechtgesinnten, deren Satzungen gültig sind, zum Opfer! Trinkt mit der Zunge des Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reingesinnte kommt herbei, wahrhaft gerechte zu dem Fest, Und mit des Agni Zunge trinkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходите, о вы, чья мысль обращена к закону,  
 Чьи установления истинны, (к нам) на обряд!  

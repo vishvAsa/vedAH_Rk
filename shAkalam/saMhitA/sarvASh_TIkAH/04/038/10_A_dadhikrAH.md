@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दधिक्राः꣡ श꣡वसा प꣡ञ्च कृष्टीः꣡  
 सू꣡र्य इव ज्यो꣡तिषाप꣡स् ततान  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृण꣡क्तु म꣡ध्वा स꣡म् इमा꣡ व꣡चांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒ह॒स्र॒ऽसाः । श॒त॒ऽसाः । वा॒जी । अर्वा॑ । पृ॒णक्तु॑ । मध्वा॑ । सम् । इ॒मा । वचां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -128,43 +128,43 @@ genre M
 यः **दधिक्राः** देवः **शवसा** बलेन **पञ्च** **कृष्टीः** पञ्च जनान् देवमनुष्यासुररक्षः पितृसंज्ञकान् निषादपञ्चमान् चतुरो वर्णान् वा **सूर्यः** ”ज्योतिषा तेजसा यथा जगदावृणोति तद्वत् **अपः** उदकानि **आ** **ततान** आतनोति । **सहस्रसाः** **शतसाः** शतानां सहस्राणां च दाता **वाजी** वेजनवान् **अर्वा** अरणकुशलः स देवः **मध्वा** मधुना मधुरेण फलेन **इमा** इमान्युक्तानि स्तुतिवचांसि **सं** **पृणक्तु** संयोजयतु ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dadhikrā has spread abroad the five classes of beings by his strength, as the sun (diffuses) the waters by his radiance; may he, the giver of hundreds and thousands, associate these praises with agreeable (rewards).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dadhikrā has stretched over the five peoples with his vast power, like  the sun over the waters with its light.  
 Gaining thousands, gaining hundreds, let the prizewinning steed infuse  these words with honey.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich contains a three-termed simile / frame construction, in which all three terms are realized in both simile and frame. This is fairly unusual.
 
 Renou nicely points out that the product of d would be what is later called the madhuparka, the concoction offered to an honored guest.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dadhikras hath o'erspread the Fivefold People with vigour, as the Sun lightens the waters.  
      May the strong Steed who winneth bundreds, thousands, requite with sweetness these my words and praises.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dadhikra hat sich mit seiner Kraft über die fünf Völker ausgedehnt wie der Sonnengott über die Gewässer mit seinem Lichte. Der Tausendgewinner, Hundertgewinner, der sieghafte Renner soll diese Worte mit Honig durchtränken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Kraft durchdrang Dadhikra alle Völker, gleichwie die Sonne mit dem Licht die Lüfte, Der schnelle Renner, hundert, tausend spendend, belohn mit dem, was süss ist, diese Sprüche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дадхикра со (своею) силой протянулся через пять народов,  
 Словно солнце со (своим) светом через воды.  

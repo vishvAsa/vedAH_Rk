@@ -8,7 +8,7 @@ title = "+114"
 ‘इमा रुद्राय' इति एकादशर्चं नवमं सूक्तं कुत्सस्यार्षम्। दशम्येकादश्यौ त्रिष्टुभौ । शिष्टा नव जगत्यः । रुद्रो देवता । तथा चानुक्रान्तम् -' इमा एकादश रौद्रं द्वित्रिष्टुबन्तम् ' इति ॥ शूलगवादिषु रुद्रदेवत्येषु कर्मस्वनेन सूक्तेन दिगुपस्थेया। तथा च सूत्रितं - कद्रुद्रायेमा रुद्राया ते पितरिमा रुद्राय स्थिरधन्वने गिर इति सर्वरुद्रयज्ञेषु दिशामुपस्थानम् ' ( आश्व. गृ. ४. ९. २१ ) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 114  
 Rudra  
@@ -17,7 +17,7 @@ Kutsa Āṅgirasa
 A simple but pleasing hymn, characterized by considerable chaining and intertwining  of repeated vocabulary and syntactic structures. The helpful and healing aspects of  Rudra are emphasized—the related words sumatí “benevolence” and sumná “favor”  occur six times in this eleven-verse hymn. His fearsome and angry side is for the most  part downplayed, mentioned in passing in verses 4c and 10a, both beginning “in the  distance.” But Rudra’s possible punitive actions are addressed directly in verses 7–8,  which contain twelve occurrences of the prohibitive negative mā “don’t!”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Rudra By RVic standards this hymn is almost laughably simple and elementary, very different from Kutsa’s usual products.
 

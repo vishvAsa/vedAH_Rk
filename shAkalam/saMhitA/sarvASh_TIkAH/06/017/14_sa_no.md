@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो वा꣡जाय श्र꣡वस इषे꣡ च  
 राये꣡ धेहि द्युम꣡त इन्द्र वि꣡प्रान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ च स्मैधि पा꣡रिये न इन्द्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भ॒रत्ऽवा॑जे । नृ॒ऽवतः॑ । इ॒न्द्र॒ । सू॒रीन् । दि॒वि । च॒ । स्म॒ । ए॒धि॒ । पार्ये॑ । नः॒ । इ॒न्द्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -135,7 +135,7 @@ genre M
 हे **इन्द्र** **सः** त्वं **द्युमतः** दीप्तिमतः **विप्रान्** मेधाविनः **नः** अस्मान् **वाजाय** बलाय **श्रवसे** यशसे **इषे** **च** अन्नाय च **राये** धनाय **धेहि** धारय। अपि च हे **इन्द्र** **भरद्वाजे** मयि **नृवत:** मनुष्यवतः । परिचारकयुक्तानित्यर्थः । **सूरीन्** तव स्तोतॄन् पुत्रपौत्रान् कुर्विति शेषः । हे **इन्द्र** त्वं **पार्ये** पारणीये आगामिनि **च** **दिवि** दिवसे **एधि** **स्म** **नः** । अस्माकं रक्षिता खलु भवेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,34 +146,34 @@ genre M
 For food: vājāya, śaravase, iṣe ca rāye, the first three are synonyms, meaning food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Provide our inspired poets with brilliance—for (them to acquire) the  prize: fame and refreshment, and wealth, o Indra;  
 at Bharadvāja’s (provide) our patrons with superior men, o Indra. And,  as ever, be there for us, Indra, on the decisive day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the construction √dhā ACC [anim.] ACC.ADJ -mant-/vant- to mean “provide someone (X) with something (Y),” lit. “establish X as possessing (-mant- /vant-) Y.” The datives of ab are then further objects to aspire to: once the poets have brilliance, they can use that brilliance, which transforms into poems, in pursuit of more worldly goals, the prize, etc. This interpr. essentially follows Geldner’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Indra, form us brilliant holy singers for strength, for glory, and for food and riches.  
      Give Bharadvaja hero patrons, Indra Indra, be ours upon the day of trial.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach unsere Redner glänzend, daß sie Lohn, Ruhm, Speisegenuß und Reichtum davontragen, o Indra! Mach unter Bharadvaja die Johnherren männerreich, o Indra, und sei am entscheidenden Tage für uns, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenke, Indra, uns, den Sängern, Labung viel Speis' und Trank und glanzbegabten Reichthum, Dem Bharadvadscha männerreiche Helden, und hilf uns, Indra, am Entscheidungstage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай, о Индра, блистательными наших вдохновенных (поэтов)  
 Для (приобретения) награды, славы, процветания и богатства!  

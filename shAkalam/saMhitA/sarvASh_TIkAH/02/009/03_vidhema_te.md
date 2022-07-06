@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विधे꣡म ते परमे꣡ ज꣡न्मन् अग्ने  
 विधे꣡म स्तो꣡मैर् अ꣡वरे सध꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ त्वे꣡ हवीं꣡षि जुहुरे स꣡मिद्धे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यस्मा॑त् । योनेः॑ । उ॒त्ऽआरि॑थ । यजे॑ । तम् । प्र । त्वे इति॑ । ह॒वींषि॑ । जु॒हु॒रे॒ । सम्ऽइ॑द्धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
@@ -125,7 +125,7 @@ genre M
 हेअग्ने परमेउत्कृष्टेजन्मन् जायतेप्रादुर्भवत्यस्मिन्नितिजन्मस्थानन्द्यौः तस्मिन्द्युलोकेवस्थिताय- तेतुभ्यंविधेम स्तुतिभिःपरिचरेम अवरेद्युलोकादधस्तनेसधस्थेन्तरिक्षेस्थितायतुभ्यंस्तोमैः स्तोत्रै- र्विधेम परिचरेम यद्यस्माद्योनेः प्रुथिवीरूपातस्थानात्त्वमुदास्थि उद्गतोसि प्रादुर्भूतोसि तम्पृथिवी- प्रदेशंयजेपूजयामि तत्रहिसमिद्धेसमिद्भिःसमिध्यमानेत्वेत्वयि हवींषिपुरोडाशादीनि प्रजुहुरेअध्व- र्य्वादयः प्रजुह्वति जुहोतोर्लिटिरूपम् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M
 In your loftiest birth-plural ce: Agni is worshipped in heaven as the Sun; in the firmament as lightning; and as the sacrificial fire kindled on the altar; **Yajurveda** 17.75
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would do honor to you, Agni, in your highest birth; we would do  honor with praises in your seat below.  
 The womb from which you arose, I sacrifice to that. The oblations have  been poured forth into you, when kindled.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we adore thee in thy loftiest birthplace, and, with our praises, in thy lower station.  
      The place whence thou issued forth I worship: to thee well kindled have they paid oblations.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we worship thee at thy highest birth (-place), O Agni; may we worship thee with praises in thy lower abode. I honour the womb from which thou hast sprung. When thou hast been kindled, they have offered offerings in thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen dir dienen an deinem höchsten Geburtsort, o Agni; wir wollen dir mit Lobliedern dienen an deinem unteren Aufenthaltsort. Aus welchem Schoße du entsprungen bist, den verehre ich. In dir, wurden von jeher die Opferspenden geopfert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Bereiche; Aus welchem Schoosse du entsprangst, den ehr' ich; dir, dem entflammten, wurden Tränk' ergossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим служить тебе на (твоем) высшем месте рождения,  
 Мы хотим служить (тебе) хвалами на (твоем) низшем месте пребывания.  

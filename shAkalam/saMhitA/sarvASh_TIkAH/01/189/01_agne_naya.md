@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने न꣡य सुप꣡था राये꣡ अस्मा꣡न्  
 वि꣡श्वानि देव वयु꣡नानि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡यिष्ठां ते न꣡मउक्तिं विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 यु॒यो॒धि । अ॒स्मत् । जु॒हु॒रा॒णम् । एनः॑ । भूयि॑ष्ठाम् । ते॒ । नमः॑ऽउक्तिम् । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -124,20 +124,20 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, knowing all kinds of knowledge, lead us by good ways to wealth; remove from from us the sun that would force us astray, that we may offer to you most ample adoratioṇ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, lead us to wealth by an easy path, since you know all the (ritual)  patterns, o god.  
 Keep from us transgression, going its crooked way. Might we offer you  the greatest expression of reverence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The dat. rāyé with √nī may go too easily into English as a goal, “lead to wealth”; ‘for wealth’ might be more faithful to the case form. However, I do not subscribe to Witzel Gotō’s interpr. of supáthā as a neut. pl. goal (“zu den Orten, wo gute Wege sind”), which seems awk. and unnec. when an instr. sg. works well and is paralleled elsewhere.
 
@@ -146,13 +146,13 @@ The dat. rāyé with √nī may go too easily into English as a goal, “lead to
 I take juhurāṇá- to √hvṛ / hru ‘go crookedly, go astray’ (with Geldner and Renou, as well as Grassmann), rather than with √hṛ ‘be angry’ with Insler (JAOS 88, 1968), apparently followed by Witzel Gotō (“den zürnenden Frevel”). The contrast between the easy path in pāda a and the énas- that goes crookedly/astray in c supports this ascription, as does abhihrút- in 6d. Agastya uses the same participle in I.173.11, where its affinity to √hvṛ rather than √hṛ is even clearer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 BY goodly paths lead us to riches, Agni, God who knowest every sacred duty.  
      Remove the sin that makes us stray and wander. most ample adoration will we bring thee.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni! Lead us to wealth on a good path, O god who knowest all rules. Drive away from us sin which leads us astray. We will offer to thee the fullest praise.
 </details>
@@ -167,17 +167,17 @@ We will accord to thee most abundant honour.
 
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, führ uns auf gutem Wege zu Reichtum, der du alle rechten Wege kennst. O Gott! Wende von uns die Sünde ab, die auf Abwege führt! Wir wollen dir die größte Huldigungsrede recht machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle kennest, Die Sünde, die verblendet, halte fern uns, wir wollen besten Andachtsspruch dir weihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, поведи нас прекрасным путем к богатству,  
 Зная, о бог, все вехи.  

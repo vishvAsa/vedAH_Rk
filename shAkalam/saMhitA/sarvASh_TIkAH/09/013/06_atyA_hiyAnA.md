@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡त्या ह्याना꣡° न꣡ हेतृ꣡भिर्  
 अ꣡सृग्रं वा꣡जसातये  
 वि꣡ वा꣡रम् अ꣡व्यम् आश꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि । वार॑म् । अव्य॑म् । आ॒शवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *atyā* ← *atyāḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाजसातये** संग्रामाय **हियानाः** प्रेर्यमाणाः **अस्याः** **न** अश्वा इव ते यथा प्रेरकैः प्रेर्यमाणाः संग्रामाय शीघ्रं धावन्ति तद्वत् **हेतृभिः** प्रेरकैः प्रेर्यमाणाः **आशवः** शीघ्रगामिनः सोमाः वाजसातये अन्नलाभाय **अव्यं** **वारं** दशापवित्रं **वि** **असृग्रं** व्यतिसृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Urged to battle: vājasātaye = for battle, in the first clause; for attainment of food, in the second clause
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like racehorses being driven on by their drivers, they have surged to win  the prize—  
 swift across the sheep’s fleece.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The inf. vā́jasātaye is found here a 3rd time (after 3a, 4a).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like coursers by their drivers urged, they were poured forth, for victory,  
      Swift through the woollen straining-cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Rosse, die von ihren Treibern angetrieben werden, sind die Renner, um den Preis zu gewinnen, durch das Schafhaar geschossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Rosse, die der Lenker spornt, ergossen sie zum Opfer sich, Die raschen durch des Schafes Fell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно скакуны, погоняемые погонщиками,  
 Они устремились к захвату доычи  

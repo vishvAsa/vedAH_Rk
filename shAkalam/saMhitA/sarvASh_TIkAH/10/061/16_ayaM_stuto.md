@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ स्तुतो꣡ · रा꣡जा वन्दि वेधा꣡  
 अप꣡श् च वि꣡प्रस् तरति स्व꣡सेतुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नेमिं꣡ न꣡ चक्र꣡म् अ꣡र्वतो रघुद्रु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । क॒क्षीव॑न्तम् । रे॒ज॒य॒त् । सः । अ॒ग्निम् । ने॒मिम् । न । च॒क्रम् । अर्व॑तः । र॒घु॒ऽद्रु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -132,36 +132,36 @@ genre M
 **अयं** **वेधाः** सर्वस्य विधाता **राजा** सोमः **स्तुतः** सर्वैः **वन्दि** स्तूयतेऽस्माभिः । किंच **विप्रः** विशेषेण पूरको विप्रवच्छुद्धो वा **स्वसेतुः** यस्य स्वभूता रश्मयो जगद्बन्धकाः सन्ति स सोमः **अपश्च** अन्तरिक्षं च **तरति** लङ्घयति प्रतिदिनम् । **सः** सोमः **कक्षीवन्तम्** ऋषिं पर्वतमध्ये सोमार्थं गतं **रेजयत्** अकम्पयत्। **सः** स एव **अग्निं** हविर्वोढुमशक्तं सन्तं पलाय्याप्सु प्रविष्टं रेजयत् । कम्पने दृष्टान्तः । **नेमिं** नमनशीलं **रघुद्रु** लघुगमनं **चक्रम्** **अर्वतः** अर्वन्तोऽश्वा इव ते यथा तथा रेजयत् । नुमभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This royal (**Soma**), this glorified creator, is praised (by all), and, like a sage, constituting his owncause-way, he traverses the firmament; he made **Kakṣīvat** tremble, he (made) **Agni** (shake) as horses (agitate)the light- whirling, revolving-wheel (of a chariot).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This king praised here has been extolled as a ritual adept, and as  inspired poet he crosses the waters, creating his own bridge.  
 He sets Kakṣīvant atremble and also Agni, as the swift-running wheel  of a steed does its wheel-rim.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This King is praised and honoured as Ordainer: himself the bridge, the Sage speeds o'er the waters.  
      He hath stirred up Kaksivan, stirred up Agni, as the steed's swift wheel drives the felly onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser gepriesene König ward als Meister gelobt, und als Redner überschreitet er die Gewässer, sich selbst als Brücke brauchend. Er machte den Kaksivat, er den Agni erzittern wie das raschlaufende Rad des Rennpferdes die Radfelge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser gepriesene huldvolle König [Soma Sāy.] wird gerühmt; der weise setzt über die Wasser, seine eignen Brücken habend; er setzte den Kakschīvat in Bewegung und er den Agni, wie den Radkranz, wie das schnell laufende vom Renner gezogene Rad.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

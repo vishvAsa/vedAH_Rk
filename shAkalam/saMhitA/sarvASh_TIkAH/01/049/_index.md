@@ -8,7 +8,7 @@ title = "+049"
 उषो भद्रेभिः' इति चतुर्ऋचं षष्ठं सूक्तम् । अत्रानुक्रम्यते - उषश्चतुष्कमानुष्टुभं तु ' इति । कण्वपुत्रः प्रकण्व ऋषिः । तुह्यादिपरिभाषया इदमुत्तरं चानुष्टुभम् । पूर्वत्र ‘ उषस्यं तु ' इत्युक्तत्वात् इदमपि सूक्तम् उषस्यम् । प्रातरनुवाकस्योषस्ये क्रतावानुष्टुभे छन्दस्येतत्सूक्तम् । सूत्र्यते हि -- ‘ उषो भद्रेभिरित्यानुष्टुभम् ' ( आश्व. श्रौ. ४. १४) इति । आश्विनशस्त्रेऽप्येतत्सूक्तं , ' प्रातरनुवाकन्यायेन' ( आश्व. श्रौ. ६. ५) इत्यतिदेशात् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 49  
 Dawn  
@@ -19,7 +19,7 @@ A short and simple hymn, treating Dawn’s journey from heaven to the earthly  r
 coming and their hope that her advent will bring them gifts end the hymn  (vs. 4cd).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Dawn On this hymn and, especially, on its “versified sandhi paradigm” (in Jesse Lundquist’s felicitous phrase) and the aberrant voc. uṣar (4c), see Lundquist 2014. The appearance of this entirely anomalous form in the final verse of Praskaṇva’s Dawn ritual series (I.44-49) defines this series as a type of ring: uṣar- as an -ar locatival occurred in the first verse of the series (I.44.1) in the compound uṣar-budh- ‘waking at dawn’.
 

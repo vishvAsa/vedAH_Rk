@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दिव꣡स् पृष्ठ꣡म् अश्वयु꣡र्  
 गव्ययुः꣡ सोम रोहसि  
 वीरयुः꣡ शवसस् पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वी॒र॒ऽयुः । श॒व॒सः॒ । प॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -78,35 +78,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** त्वं स्तोतॄणाम् **अश्वयुः** अश्वमिच्छन् **गव्ययुः** गा इच्छन् **वीरयुः** पुत्रानिच्छन् **दिवस्पृष्ठं** द्युलोकम् **आ** **रोहसि** आहुतिद्वारा हे **शवसस्पते** अन्नस्य पालक ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, lord of food, you ascend to the summit of the sky, desirous of horses, kine, and **male** progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, you mount the back of heaven, seeking cows, seeking horses, seeking heroes, o lord of strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou mountest to the height of heaven, O Soma, seeking steeds and kine,  
      And seeking heroes, Lord of Strength!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du besteigst nach Roß und Rind verlangend des Himmels Rücken, o Soma, nach Mannen verlangend, du Herr der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du steigst empor zur Himmelshöh, nach Rossen, Rindern, Heldenschar Begierig, Soma, Herr der Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

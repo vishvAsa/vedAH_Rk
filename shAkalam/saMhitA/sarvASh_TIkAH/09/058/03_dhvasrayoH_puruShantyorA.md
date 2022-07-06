@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्वस्र꣡योः पुरुष꣡न्तियोर्  
 आ꣡ सह꣡स्राणि दद्महे  
 त꣡रत् स꣡ मन्दी꣡ धावति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 तर॑त् । सः । म॒न्दी । धा॒व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhvasrayoḥ* ← *dhvasra*
 - \[noun\], genitive, dual, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ध्वस्रयोः** **पुरुषन्त्योः** । ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् । तयोरुभयोः । अत्र इतरेतरयोगविवक्षया द्विवचनं द्रष्टव्यम् । **सहस्राणि** धनानां सहस्राणि **आ** **दद्महे** वयं प्रतिगृह्णीमः । तदस्माभिः प्रतिगृहीतं धनमुत्तममस्त्विति ऋषिः सोमं प्रार्थयत इति सोमस्य स्तुतिः । सिद्धमन्यत् । यथावत्सार एतयोर्धनानि प्रतिजग्राह एवं तरन्तपुरुमीळ्हौ प्रतिजगृहतुः । तथा च शाट्यायनकम्--- ‘ अथ ह वै तरन्त पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषन्त्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्माङ्गुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतञ्चतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं स यः  प्रतिगृह्य कामयेत' इत्यादि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Dhvasra and Puruṣanti: two kings who conferred great wealth on Taranta and Purumiḷha, to ṛṣis of the family of Vidadaśvin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At (the hands of) Dhvasra and Puruṣanti we take thousands.  
 – In crossing, the invigorating one runs.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ As to what Soma is crossing, it is most likely the waters (cf. ap-túr- IX.61.13
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have accepted thousands from Dhvasra's and Purusanti's hands:  
      Swift runs this giver of delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Dhvasra und Purusanti empfangen wir Tausende. - Er gelange über das Wasser, der Berauschende läuft ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von den beiden, Dhvasra und Puruschanti haben wir tausende empfangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

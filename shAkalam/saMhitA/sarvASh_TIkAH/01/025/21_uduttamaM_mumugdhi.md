@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उत्तम꣡म् मुमुग्धि नो  
 वि꣡ पा꣡शम् मध्यमं꣡ चृत  
 अ꣡वाधमा꣡नि जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अव॑ । अ॒ध॒मानि॑ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -89,7 +89,7 @@ genre M
 **नः** अस्माकम् **उत्तमं** शिरोगतं **पाशम्** **उत्** **मुमुग्धि** उत्कृष्य मोचय । **मध्यमम्** उदरगतं पाशं **वि** **चृत** वियुज्य नाशय । **जीवसे** जीवितुम् **अधमानि** मदीयान् पादगतान् पाशान् **अव** चृत अवकृष्य नाशय ॥ उत्तमम् । उञ्छादिषु पाठादन्तोदात्तत्वम् । मुमुग्धि ।' मुच्लृ मोक्षणे ' । ‘बहुलं छन्दसि ' इति विकरणस्य श्लुः । द्विर्भावः । हलादिशेषः । ‘हुझल्भ्यो हेर्धिः' ( पा. सू. ६. ४. १०१ ) इति हेर्धिरादेशः । ‘तिङ्ङतिङः' इति निघातः । चृत । चृती हिंसाग्रन्थनयोः '। लोटो हिः । ‘तुदादिभ्यः शः । अतो हेः' इति हेर्लुक्। जीवसे । ‘जीव प्राणधारणे' । ‘तुमर्थे सेसेन्' इति असेप्रत्ययः । प्रत्ययस्वरः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,28 +100,28 @@ genre M
 Jīvase= to live, that we may live
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Release above the uppermost fetter from us, unbind away the midmost, (loosen) below those lowest, in order for us to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Release us from the upper bond, untie the bond between, and loose  
      The bonds below, that I may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Löse die oberste Schlinge von uns auf, mach die mittlere los, streif die unterste Schlinge ab, damit ich lebe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lös' ab von uns das höchste Band, reiss mitten durch das mittelste, Zum Leben lös' die untersten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вверх – верхнюю отпусти нам,  
 Посреди среднюю петлю расслабь,  

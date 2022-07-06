@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सह꣡स्रधारः पवते  
 समुद्रो꣡ वाचमीङ्खयः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡खे꣡न्द्रस्य दिवे꣡-दिवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सोमः॑ । पतिः॑ । र॒यी॒णाम् । सखा॑ । इन्द्र॑स्य । दि॒वेऽदि॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasradhāraḥ* ← *sahasra*
 - \[noun\], neuter
@@ -90,20 +90,20 @@ genre M
 **सहस्रधारः** बहुविधधारोपेतः **सोमः** **पवते** क्षरति । कीदृशः । **समुद्रः** । यस्मात्समुद्द्रवन्ति रसाः । सरःस्थानीयः **वाचमीङ्खयः** । ईङ्खतेर्ण्यन्तस्य सुप्युपपदे खच्प्रत्ययः । स्तुतीनां प्रेरयिता **रयीणां** धनानां **पतिः** प्रभुः । यद्वा । रयीणां हविषो दातॄणां यजमानानां पतिः पालयिता । **दिवेदिवे** प्रत्यहम् **इन्द्रस्य** **सखा** मित्रभूतः सोमः पवते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The thousand-streamed ocean, **Soma** the stimulator of praise, the lord of riches, the friend of **Indra** flows day by day.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Possessing a thousand streams he purifies himself, a sea setting speech  aswing,  
 Soma, lord of riches, comrade of Indra, day after day.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The phrase samudró vācamīṅkhayáḥ recalls the variant compds in IX.35.2 and 5: samudramīṅkhaya (2a) and vācamīṅkhayám (5a).
 
@@ -119,23 +119,23 @@ No particular unity in this tṛca unless the mention of Indra in each vs. count
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Inciter of the voice of song, with thousand streams the ocean flows,  
      Even Soma, Lord of opulence, the Friend of Indra, day by day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In tausend Strömen läutert sich der Ozean, der die Rede hin und her bewegt, Soma, der Herr der Reichtümer, Indra´s Freund, Tag für Tag.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In tausend Strömen rieselt er, ein Meer, der Sang-erregende, Der Soma, er, der Schätze Herr, Indra's Genosse Tag für Tag.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он очищается в тысячу потоков,  
 Океан, приводящий в волнение речь,  

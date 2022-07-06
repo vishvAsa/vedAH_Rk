@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शृण्व꣡न्तु नो वृ꣡षणः प꣡र्वतासो  
 ध्रुव꣡क्षेमास इ꣡ळया म꣡दन्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡छन्तु नो मरु꣡तः श꣡र्म भद्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒दि॒त्यैः । नः॒ । अदि॑तिः । शृ॒णो॒तु॒ । यच्छ॑न्तु । नः॒ । म॒रुतः॑ । शर्म॑ । भ॒द्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śṛṇvantu* ← *śru*
 - \[verb\], plural, Present imperative
@@ -111,7 +111,7 @@ genre M
 **वृषणः** अभिमतफलसेचका मरुतः **पर्वतासः** । पृणन्ति पूरयन्त्यर्थिनां कामानिति पर्वता ग्रावाभिमानिनो देवाः **ध्रुवक्षेमासः** निश्चलस्थानाः **इळया** हविर्लक्षणेनान्नेन **मदन्तः** माद्यन्तः सन्तः **नः** अस्मदीयां स्तुतिं **शृण्वन्तु** । किंच **आदित्यैः** अपत्यभूतैरादित्यैः उपेता **अदितिः** **नः** अस्मदीयां स्तुतिं **शृणोतु** । **मरुतः** च **नः** अस्मभ्यं **भद्रं** कल्याणकरं **शर्म** सुखं **यच्छन्तु** ददतु॥ आदित्यैः । अदितेरपत्यानीत्यर्थे ' दित्यदिति° ' इति ण्यः । प्रत्ययस्वरेणान्तोदात्तः । सुपा सहैकादेशे कृते एकादेश उदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,13 +122,13 @@ genre M
 Abiding in fixed habitations: dhruvakṣemāsaḥ niścalasthānaḥ, those of fixed plural ces; it may be an epithet of parvatāsaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the bullish mountains with stable dwelling places hear us, as they  become exhilarated on the refreshing drink.  
 Let Aditi with the Ādityas hear us. Let the Maruts extend to us  beneficial shelter.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -140,23 +140,23 @@ The call to the gods to hear us, found first in vs. 1, returns here at almost th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear us the mouatains which distil the rain-drops, and, resting firm, rejoice in freshening moisture.  
      May Aditi with the Adityas hear us, and Maruts grant us their auspicious shelter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen uns die bullenhaften Berge erhören, die feststehenden, die sich an der Idaspende gütlich tun. Mit den Aditya´s soll uns Aditi erhören, die Marut sollen uns ihren glückbringenden Schutz gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken Berge mögen uns erhören, die festgegründet sich des Trunks erfreuen; Es hör' uns Aditi mit ihren Söhnen, die Marutschar verleihe sichern Schutz uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да услышат нас быки-горы,  
 С твердой основой, радующиеся возлиянию!  

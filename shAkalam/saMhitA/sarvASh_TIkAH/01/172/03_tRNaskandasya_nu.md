@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तृणस्कन्द꣡स्य नु꣡ वि꣡शः  
 प꣡रि वृङ्क्त सुदानवः  
 ऊर्ध्वा꣡न् नः कर्त जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ऊ॒र्ध्वान् । नः॒ । क॒र्त॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tṛṇaskandasya* ← *tṛṇaskanda*
 - \[noun\], genitive, singular, masculine
@@ -85,40 +85,40 @@ genre M
 हे मरुतः **सुदानवः** शोभनदानाः यूयं **तृणस्कन्दस्य** तृणवत् चलनस्वभावस्य शुष्यमाणस्य वा मम **विशः** पुत्रभृत्यादिरूपाः प्रजाः **नु** क्षिप्रं **परि** **वृङ्क्त** परिवर्जयत बाधापरिहारेण रक्षत । यद्वा । उक्तलक्षणकालस्यासुरविशेषस्य वा प्रजाः परिवर्जयत । किंच **नः** अस्मान् **ऊर्ध्वान्** **कर्त** कुरुत **जीवसे** चिरजीवनाय ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, liberal benefactors, protect my people, (although I be) as insignificant as grass; lift us up, that we may live.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Avoid the clans of Tr̥ṇaskanda (“Grasshopper”), you rich in drops. Set us upright, to live.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Tṛṇaskanda appears only here in all of Sanskrit, as far as I can tell. The English gloss is a direct calque on the two parts of the name, tṛ́ṇa- ‘grass’ and √skand ‘spring, leap’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Bounteous Givers, touch ye not, O Maruts, Trnskanda's folk;  
      Lift ye us up that we may live.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verschonet doch den Clan des Trinaskanda, ihr Gabenschönen! Richtet uns zum Leben auf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Trinaskanda Leute nun verschonet, reichlich spendende, Und richtet uns zum Leben auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А людей из рода Тринасканды  
 Пощадите, о щедродающие!  

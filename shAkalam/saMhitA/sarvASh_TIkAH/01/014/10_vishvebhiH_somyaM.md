@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेभिः सोमिय꣡म् म꣡धु  
 अ꣡ग्न इ꣡न्द्रेण वायु꣡ना  
 पि꣡बा मित्र꣡स्य धा꣡मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पिब॑ । मि॒त्रस्य॑ । धाम॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, neuter
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **विश्वेभिः** सर्वैः पूषभगादिभिर्देवैः **इन्द्रेण** **वायुना** **मित्रस्य** संबन्धिभिः **धामभिः** तेजोभिमूर्तिविशेषरूपैश्च सह **सोम्यं** सोमसंबन्धि **मधु** मधुरं भागं **पिब** ॥ विश्वेभिः ।  ‘ बहुलं छन्दसि ' ( पा. सू. ७. १. १०) इति भिस ऐसादेशाभावः । सोम्यम् । सोममर्हति यः' (पा.सू. ४. ४. १३७ ) इत्यनुवृत्तौ ‘मये च ' ( पा. सू. ४. ४. १३८ ) इति यप्रत्ययः सोमस्य विकार इत्यर्थे । **यस्येति** च ' ( पा. सू. ६. ४. १४८ ) इति अकारलोपः । प्रत्ययस्वरः । मधु । ‘फलि. पाटिनमिमनि° ' ( उ. सू. १. १८) इत्यादिना उप्रत्ययः ।  ‘ नित्' इत्यनुवृत्तेः नित्त्वादाद्युदात्तः । वायुना ।  ‘ कृवापाजि° ' ( उ. सू. १. १ ) इत्यादिना उण् । ‘आतो युक् चिण्कृतोः ' (पा. सू. ७. ३. ३३ ) इति युक् । प्रत्ययस्वरः । पिब । ‘पा पाने'। लोटः सेर्हिरादेशः । शपि ‘पाघ्रा ' (पा.सू.  ७. ३. ७८ ) इत्यादिना पिबादेशः । अतो हेः ' ( पा. सू. ६. ४. १०५ ) इति हेर्लुक् । शपः पित्त्वात् धातुस्वरः। पादादित्वात् न निघातः । द्व्यचोऽतस्तिङः ' (पा. सू. ६. ३. १३५) इति संहितायां दीर्घः । धामभिः । धाञ् ।  ‘ आतो मनिन् ' (पा. सू. ३. २. ७४) इति मनिन् । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,34 +92,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Mitrasya dhāmabhiḥ, with the rays or various forms of Mitra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With all (the gods), o Agni, with Indra and with Vāyu, drink the  somian honey  
 according to the ordinances of alliance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Instrumental plurals begin (víśvebhiḥ) and end (dhā́mabhiḥ) the verse. The question is whether they should be construed separately or together. Geldner chooses the latter path: “Mit allen Verkörperungen des Mitra (der Freundschaft).” But because the hymn is dedicated to the Viśve Devas and there is an emphasis on them throughout (see esp. vss. 1, 9, with ‘gods’ or words referring to them collectively in vss. 2, 6, 7, 8), I prefer to supply ‘gods’ with víśvebhiḥ and take dhā́mabhiḥ separately (sim. Renou, Witzel Gotō), interpreting mitrásya not as the god’s name (or not principally the god’s name) but as referring to the alliance that undergirds the sacrificial system.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With all the Gods, with Indra, with Vayu, and Mitra's splendours, drink,  
      Agni, the pleasant Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit allen Verkörperungen des Mitra der Freundschaft, mit Indra, Vayu trink, Agni, den somischen Honigtrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den süssen Soma, Agni, trink mit allen Göttern, mit dem Wind, Mit Indra und des Mitra Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со всеми (богами) мед сомы  
 О Агни, с Индрой, с Ваю,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡नो नु꣡ आ꣡ हुवामहे  
 नाराशंसे꣡न सो꣡मेन  
 पितॄणां᳐꣡ च म꣡न्मभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 पि॒तॄ॒णाम् । च॒ । मन्म॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
@@ -76,36 +76,36 @@ popular;; repeated line
 वयं बन्धुश्रुतबन्ध्वादयः **मनः** सुबन्धोः संबन्धि मायाविभिरपहृतं **नु** क्षिप्रम् **आ** **हुवामहे** आह्वयामहे । केन साधनेनेति तदुच्यते । **नाराशंसेन** नराशंसचमसगतेन **सोमेन** । नरैः शस्यन्त इति नराशंसाः पितरः । तेषां चमसानां कम्पनमेव होमः । तथाविधेन सोमेन **पितॄणाम्** अङ्गिरसां **मन्मभिः** **च** मननीयैः स्तोत्रैश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We call upon the spirit (of **Subandhu**) with the **Soma** appropriated to the progenitors, with the praisesepithet of the Soma. **Yajus**. 3.53 reads stomena: praise is of to kinds, that of gods and men, the latter isnārāśamsaḥ, whence the epithet narāśaṃsa means, suited to man; that is, to deified men or **pitṛs**\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We now call mind hither, with soma dedicated to Naraśaṃsa  
 and with the composed thoughts of our forefathers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We call the spirit hither with the Soma of our parted sires,  
      Yea, with the Fathers' holy hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun rufen wir den Geist durch den dem Narasamsa geweihten Soma her und mit den Gebeten der Väter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Geist nun rufen wir herbei durch Loblied, das die Männer ehrt, Und durch der Väter Andachtslied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас мы вызываем дух  
 С помощью сомы, посвященного Нарашансе,  

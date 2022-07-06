@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नूनं꣡ धावता पृ꣡थङ्  
 ने꣡ह꣡ यो꣡ वो अ꣡वावरीत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡ज्रम् इ꣡न्द्रो अपीपतत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 नि । सी॒म् । वृ॒त्रस्य॑ । मर्म॑णि । वज्र॑म् । इन्द्रः॑ । अ॒पी॒प॒त॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -109,7 +109,7 @@ popular;; epic anuṣṭubh (424)
 **यः** शत्रुः **नूनम्** इदानीं **प्र** **धावत** प्रधावति **पृथक्** **इह** पृथङ्न तिष्ठति च **वः** युष्मान् **न** अवीवरीतु न विवारयति च तस्य **वृत्रस्य** शत्रोः **मर्मणि** मर्मस्थाने **इन्द्रः** **वज्रं** कुलिशं **नि** **अपीपतत्** नितरामपातयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ popular;; epic anuṣṭubh (424)
 That enemy who was running forward and stayed not apart and didnot hinder you-- Indra has thrown (nyapīpatat) his bolt in the vitals of that enemy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Singer:] “‘Now, (waters,) run forth each separately: he who obstructed  you is not here.  
 Indra has let fly his mace down onto Vr̥tra’s mortal place.’
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ I take these three Anuṣṭubh verses as the singer’s performance of the reci
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now run ye forth your several ways: he is not here who kept you back.  
      For hath not Indra sunk his bolt deep down in Vrtra's vital part?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laufet jetzt auseinander: Der ist nicht mehr da, der euch zurückgehalten hatte! Auf die verwundbare Stelle des Vritra hat Indra die Keule geschmettert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Strömt nun hervor [ihr Wasser] hier und dort; er ist nicht mehr da, der euch so lange zurückgehalten hat; Indra hat den Blitz herabgeschleudert auf Vritra's Weichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разбегайтесь сейчас поодиночке!  
 Нет здесь того, кто вас удерживал.  

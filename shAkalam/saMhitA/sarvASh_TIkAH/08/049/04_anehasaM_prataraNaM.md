@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अनेह꣡सम् प्रत꣡रणं विव꣡क्षणम्  
 म꣡ध्वः स्वा꣡दिष्ठम् ईम् पिब  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्र꣡ क्षुद्रे꣡व त्म꣡ना धृष꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 आ । यथा॑ । म॒न्द॒सा॒नः । कि॒रासि॑ । नः॒ । प्र । क्षु॒द्राऽइ॑व । त्मना॑ । धृ॒षत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
@@ -106,7 +106,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,14 +117,14 @@ Sayana bhashya empty
 Dhṛṣad = **dṛṣad**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Faultless, (life-)extending, strengthening—the sweetest of  
 honey—drink it,  
 so that becoming exhilarated, you will by yourself boldly scatter forth  (goods) to us like specks (of dust).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On vivákṣaṇa- see VIII.45.11.
 
@@ -134,17 +134,17 @@ Geldner takes pāda d as a separate clause and supplies a verb, while taking k�
 example of kṣudrá- (I.129.6), which he claims also to refer to a small animal, I take to mean ‘speck’. It seems more sensible to take d as belonging with c, with the simile kṣudréva serving as object to kirā́si. The only evidence I can see against this is that √kṛ ‘scatter’ doesn't otherwise appear with prá in the RV, but that lexeme is common later. I take kṣudrá- here to refer to small particles of dust; see IV.38.7 kirate reṇúm.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink den fehlerlosen, das Leben verlängernden, beredt machenden Soma, der süßer als Honig ist, auf daß du begeistert uns Gaben ausschüttest und leibhaftig wie kleine Tiere dich brav vermehrest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schwellenden, den starken, unvergleichlichen, den süssesten der Tränke trink; Und streue dann durch Rausch erfreut uns Schätze aus, so wie der Mühlstein streut das Mehl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей несравненного, продлевающего (срок жизни), делающего красноречивым  
 (Сому), сладчайшего из медового (питья),  

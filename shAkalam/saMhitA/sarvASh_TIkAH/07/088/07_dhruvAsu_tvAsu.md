@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवा꣡सु त्वासु꣡ क्षिति꣡षु क्षिय꣡न्तो  
 वि꣡ अस्म꣡त् पा꣡शं व꣡रुणो मुमोचत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अवः॑ । व॒न्वा॒नाः । अदि॑तेः । उ॒पऽस्था॑त् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvāsu* ← *dhruva*
 - \[noun\], locative, plural, feminine
@@ -125,7 +125,7 @@ genre M;; repeated line
 **ध्रुवासु** नित्यासु **आसु** दृश्यमानासु **क्षितिषु** भूमिषु **क्षियन्तः** निवसन्तो वयं हे वरुण **त्वा** त्वां स्तुम इति शेषः । स च **वरुणः** **अस्मत्** अस्मत्तः **पाशं** बन्धकं पापं **वि** **मुमोचत्** मोचयेत् । तथा **अदितेः** अखण्डनीयायाः पृथिव्याः **उपस्थात्** उपस्थानात् **अवः** रक्षणं वरुणेन दत्तं **वन्वानाः** संभजमाना वयं स्याम । अन्यद्गतम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M;; repeated line
 Aditi = **Pṛthivī**, earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dwelling in enduring peaceful dwellings, (we will win) you—Varuṇa will  release his fetter from us—  
 (we), winning help from the lap of Aditi. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While we abide in these fixed habitations, and from the lap of Aditi win favour,  
      May Varuna untie the bond that binds us. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 O may we, in these fixed abodes abiding. Now from the lap of Aditi find favour. May from his noose king Varuṇa release us. Ye gods protect us evermore with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In diesen festen Wohnsitzen wohnend wollen wir dich verehren-Varuna soll uns die Schlinge lösen-aus Aditi´s Schoße Beistand gewinnend.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die wir in deinen festen Sitzen wohnen und Schutz empfangen aus des Himmels Schoosse, Von uns lös' ab, o Varuna, die Schlinge. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Живя в этих прочных жилищах, (мы хотим почитать) тебя –  
 Да избавит нас Варуна от петли! –  

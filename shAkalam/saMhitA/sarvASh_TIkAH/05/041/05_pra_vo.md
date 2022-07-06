@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो रयिं꣡ युक्त꣡अश्वम् भरध्वं  
 राय꣡ ए꣡षे अ꣡वसे दधीत धीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ये꣡ व ए꣡वा · मरुतस् तुरा꣡णाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽशेवः॑ । एवैः॑ । औ॒शि॒जस्य॑ । होता॑ । ये । वः॒ । एवाः॑ । म॒रु॒तः॒ । तु॒राणा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -133,21 +133,21 @@ genre M
 हे मरुतः वः यूयं **रयिं** धनं **युक्ताश्वम्** अश्वसहितमश्वयोग्यं पुत्रं वा **प्र** **भरध्वं** संपादयत । **रायः** धनानि गवाश्वादिलक्षणानि **एषे** प्राप्तुम् **अवसे** । अव इत्यन्ननाम । अन्नाय प्राप्तानां धनानां रक्षणाय वा **धीः** स्तोता **दधीत** धारयति स्तुतिम् । स च **औशिजस्य** कक्षीवतः **होता** अत्रिः **एवैः** गन्तव्यैः कामैर्गमनसाधनैरश्वैर्वा **सुशेवः** । शेवमिति सुखनाम । सुसुखो भवतु । हे **मरुतः** **तुराणां** त्वरमाणानां **वः** युष्माकं **ये** **एवाः** कामा अश्वा वा सन्ति तैरिति ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, do you bring wealth comprising horses; to acquire and preserve riches the wise man offers you praise; may the ministrant priest, (**Atri**), of the son of Uśij (**Kakṣīvat**), be made happy by those swift-going (horses) which are the swift-going (horses), Maruts, of you who are rapid in motion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Present your wealth of yoked horses; for help in the quest for wealth a  visionary thought should be produced.  
 The Hotar [=Agni] is well disposed because of the ways of (the company  of) fire-priests, which are (also?) the ways of you powerful ones, o  
 Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich consists of a syntactically “active” 2nd pl. verb (‘present!’ prá … bharadhvam, though it is morphologically middle) paired with a passive (‘should be produced’ dadhīta) without overt agent, structurally similar to vs. 3 with a passive infinitive (huvádhyai) without agent and the same “active” 2nd pl. prá … bharadhvam. This structure is further reminiscent of vs. 1 with passive and act. uses of the same infinitive dé.
 
@@ -162,23 +162,23 @@ The vs. contains several instances of phonological and morphological play. In b 
 It should also be noted that yé va évā is also found in 13a in a different metrical position and cf. also scrambled evayā́in 16b. If *vā were to be inserted, the tr. could be changed to “is well disposed because of the ways of the … Priests or (those) which are the ways of you powerful ones, o Maruts.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring ye your riches forward borne on horses: let thought be framed for help and gain of treasure.  
      Blest he the priest of Ausija through courses, the courses which are yours the fleet, O Maruts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Führet euren Reichtum mit angeschirrten Rossen vor; im Streben nach Reichtum möge das Lied zum Beistand dienen. Der Opferpriester das Ausija ist freundlich mit seinen Absichten, was euch eure, der Überlegenen, Absichten sind, ihr Marut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bringt her nun euren rossgelenkten Reichthum, zur Guts-Erlangung sei die Andacht hülfreich, Beglückt durch eure Züge, die ihr schnell seid, o Maruts, wird des Eifervollen Priester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принесите ваше богатство, состоящее из запряженных коней!  
 Да будет поддержкой (моя) поэтическая мысль в поисках богатства!  

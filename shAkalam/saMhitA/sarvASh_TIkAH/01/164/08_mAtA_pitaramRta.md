@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माता꣡ पित꣡रम् ऋत꣡ आ꣡ बभाज  
 धीति अ꣡ग्रे म꣡नसा सं꣡ हि꣡ जग्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡मस्वन्त इ꣡द् उपवाक꣡म् ईयुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सा । बी॒भ॒त्सुः । गर्भ॑ऽरसा । निऽवि॑द्धा । नम॑स्वन्तः । इत् । उ॒प॒ऽवा॒कम् । ई॒युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
@@ -136,7 +136,7 @@ popular
 **माता** सर्वस्य निर्मात्री पृथिवी **पितरं** पालकं द्युलोकं तत्स्थं द्युलोकस्थमादित्यमित्यर्थः । तम् **आ** **बभाज** आभजते । किमर्थम् । **ऋते** उदके यज्ञे वा निमित्तभूते सति । केन द्वारेण । **धीती** धीत्या कर्मणा यागादिरूपेण । स्वकीयेन आज्यसोमादिहविषा तर्पयतीत्यर्थः । **अग्रे** ततः पूर्वं पिता च **मनसा** अस्याम् अभिप्रायवता चेतसा **सं** **जग्मे** **हि** संश्लिष्टो वर्तते खलु वृष्टिमकरोदित्यर्थः । अनन्तरं **सा** माता **बीभत्सुः** गर्भबन्धनेच्छावती **गर्भरसा** गर्भरसेन गर्भोत्पत्तिनिमित्तेन रसेन निविद्धा नितरां विद्धा आसीत् । यद्वा । गर्भे रसः औषध्याद्युत्पादनसमर्थमुदकं यस्याः सा तादृशी उदकेनात्यन्तं क्लिन्ना निविद्धा कृषीवलैर्हलमुखेन नितरां विदारिता भवति बीजावापार्थम् । अत्रायं समाधिः । या काचन योषिदपत्यार्थं स्वपतिं युवानं यौति स च तस्यामनुरागयुक्तः संगतो भवति सा चान्तर्वत्नी सती पुत्रान् जनयतीति तद्वदत्रापि । अनन्तरं **नमस्वन्तः** **इत्** भाविव्रीहिप्रियङ्ग्वाद्यन्नवन्तः एव **उपवाकम्** उपेत्य वचनं परस्परं सम्यगभिवृद्धानि सस्यानीति वचनम् 'ईयुः प्राप्नुवन्ति । यद्वा । हविर्लक्षणान्नवन्तः उपेत्य वचनं प्रैषादिरूपमीयुः । वृष्टौ सत्यां सस्यादिद्धारा यागमनुतिष्ठेयुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,30 +147,30 @@ popular
 Exchange words: metaphocial account of the agency of the sun sending rain upon the earth and its consequent fertility
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mother [=Dawn] gave her father [=the Sun/Heaven] a share in the  truth, for in the beginning, through her insight, she united (with him)  by her mind.  
 Recoiling, she whose essence was her child [=Agni/the Sun] was pierced  (by her father). Just those offering their reverence went to the  
 (morning) invocation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Mother gave the Sire his share of Order: with thought, at first, she wedded him in spirit.  
      She, the coy Dame, was filled with dew prolific: with adoration men approached to praise her.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Mutter macht den Vater seines Rechtes teilhaft, denn sie hatte sich zuvor in ihrem Sinnen und Denken mit ihm geeinigt. Die Spröde ward durchbohrt, von Feuchtigkeit befruchtet. Ehrfurchtsvoll kamen sie ihn zu ermuntern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Mutter [das Urbild der Erde] machte den Vater [den Himmel als Geist gedacht] theilhaft des gebührenden Werkes; denn durch Denken vermählte sie sich zuerst mit dem Geiste; sie, die spröde, als sie durchbohrt war [vermittels des Zeugungsactes], war angefüllt mit schwängernder Feuchtigkeit; da begannen die Andachtsvollen zu preisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мать приобщила отца к закону:  
 Ведь (еще) раньше она сошлась (с ним) духом (и) мыслью.  

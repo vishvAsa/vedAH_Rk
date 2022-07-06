@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मा अर्कं꣡ सप्त꣡शीर्षाणम् आनृचु꣡स्  
 त्रिधा꣡तुम् उत्तमे꣡ पदे꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡द् इ꣡ज् जनिष्ट पउं꣡सियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 सः । तु । इ॒मा । विश्वा॑ । भुव॑नानि । चि॒क्र॒द॒त् । आत् । इत् । ज॒नि॒ष्ट॒ । पौंस्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
@@ -130,7 +130,7 @@ genre M;; Vālakhilya
 यस्मै इन्द्राय परमेश्वराय तदर्थम् उत्तमे पदे उत्कृष्टतमे स्थाने द्युलोकाख्ये स्थितम् अर्कम् अर्चनीयमादित्यमानृचुः अर्चन्ति सर्वे । **अथ** य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते । (छा. उ. १. ६. ६) इत्यादिश्रुत्युक्तं यदीयं स्वरूपमुपलब्धम् । सर्वे सूर्यमाराधयन्तीत्यर्थः । कीदृशमर्कम् । सप्तशीर्षाणम् । सप्तसंख्याकाः शीर्षवत् प्रधानभूता रश्मयो यस्य तादृशम् । त्रिधातुं त्रयाणां भूरादिलोकानां पोषकम् । सूर्यस्य त्रिलोकीपोषकत्वं तु वृष्ट्यादिव्यापारेण प्रसिद्धम् । यत्स्वरूपलाभाय अर्कमर्चन्ति स तु परमेश्वरः इमा इमानि दृश्यमानानि विश्वा सर्वाणि भुवनानि भूतजातानि देवासुरमनुष्यरूपाणि उद्दिश्य अचिक्रदत् आक्रन्दति । माध्यमिक्या वाचा दददशब्दैर्गम(र्दम )दयादानवाचकैः । आदित् अनन्तरमेव पौंस्यं बलं शिक्षालक्षणं जनिष्ट जनयति आविर्भावयति । अयं भावः । परमेश्वर आदौ मेघस्तनितलक्षणया स्ववाण्या भूक्षेभ्यो (भूस्थेभ्यो) हितमुपदिशति । अनाकर्णिते च तस्मिन् पश्चाद्दारिद्र्यादिलक्षणां शिक्षामाविष्करोतीति । अत्राभिहितोऽर्थों बृहदारण्यके खिलकाण्डे ‘त्रया ह वै प्राजापत्याः' इत्यादिना ग्रन्थेन प्रपञ्चितः (बृ. उ. ५. २) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,30 +141,30 @@ genre M;; Vālakhilya
 I.e. sun by seven divine singers in heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He for whom they chanted the seven-headed, threefold chant in the  highest footstep,  
 that one made all these worlds cry out. Right after that his masculine  nature was born.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the first hemistich clearly describes ritual activity, its exact reference is unclear. Geldner plausibly suggests that the chant is “seven-headed” (saptáśīrṣānam) because it issues from the mouths of seven priests. “Threefold” could refer to the three pressings of the soma sacrifice or perhaps the three fires, but neither of these interpretations imposes itself. As for the “highest footstep,” see discussion at I.21.6 and I.22.21. The highest footstep is usually Viṣṇu’s, and Viṣṇu does stride his three steps in the immediately following (and twinned) hymn, VIII.52.3. As elsewhere, the “highest footstep” seems to be the celestial counterpart of the ritual ground on earth, and the same types of ritual activities are performed there as on earth.
 
 Geldner suggests that the referent of sá in c is the chant, not Indra, but the yásmai … sá construction virtually demands that the referent of sá be the same as that of yásmai, which cannot be the arká-. Indra is the most likely referent of both (though Viṣṇu might be barely possible). Note that no god’s name appears in the verse, leaving the reference apparently deliberately undefined. However, paúṃsya- in d is almost always a characteristic of Indra’s, and both the preceding and following verses (3, 5) open with definitional relative clauses, like that of 4ab, where the relative pronoun is explicitly identified as Indra in the main clause (3c, 5b índraṃ tám), which imposes the same identification here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem sie den siebenköpfigen Lobgesang gesungen haben, den dreiteiligen am höchsten Ort, der möge doch alle diese Welten vom Gebrüll widerhallen lassen: Dann erst wird die Mannesstärke geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welchem sie das siebenköpfige Preislied, das dreitheilige an höchster Stätte sangen, er liess alle diese Welten erdröhnen, da erst erstand recht seine Manneskraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому спели семиглавую хвалебную песнь,  
 Трехчастную на высшем месте,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡मन् नु꣡ राये꣡ निधिम꣡न् नु꣡ अ꣡न्नं  
 क꣡रामहे सु꣡ पुरुध꣡ श्र꣡वांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 ता । नः॒ । विश्वा॑नि । ज॒रि॒ता । म॒म॒त्तु॒ । प॒रा॒ऽत॒रम् । सु । निःऽऋ॑तिः । जि॒ही॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sāman*
 - \[noun\], locative, singular, neuter
@@ -126,35 +126,35 @@ popular;; repeated line
 **सामन्नु** साम्नि गीयमाने सति । नु चार्थे। **राये** जीवायूरूपधनार्थं **निधिमत्** निधानवत् **अन्नं** हविश्च **करामहे** कुर्मः। अत्रापि **नु** इति चार्थे। निर्ऋत्यै स्तुतिं हविश्चोभयं कुर्म इत्यर्थः । तदेवाह । **सु** सुष्ठु **पुरुध** पुरुधा बहुप्रकारं **श्रवांसि** अन्नानि हवींषि करामहे । **ता** तानि हवींषि **नः** अस्माकं संबन्धीनि **विश्वानि** सर्वाणि **जरिता** जीर्णा स्तुता वा । जरा स्तुतिः' (निरु. १०, ८) । **ममत्तु** स्वदताम् । आस्वाद्य च **निर्ऋतिः** **परातरम्** अत्यन्तं दूरदेशं **जिहीतां** गच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(When) the hymn (is being sung) let us offer (sacrificial) food, like a treasure (to **Nirṛti**) for the sake ofriches, and many kinds of sacrificial viands; may she, being praised, partake of all these our (offerings); mayNiṛrti depart far off.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the sāman (is sung), for wealth we shall equip ourselves with food  affording treasures (of honey) and with measures of fame in quantity. Let the singer rejoice in all these of ours. – Let Dissolution move herself  farther away.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here is the psalm for wealth, and food, in plenty: let us do many deeds to bring us glory.  
      All these our doings shall delight the singer. Let Nirrti depart to distant places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei Samangesang wollen wir doch ja, um Reichtum zu besitzen, Speise auf Vorrat gewinnen und vielfach Ruhm. An all dem soll sich unser Sänger ergötzen. - Die Nirriti soll sich recht weit weg heben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Wohlfahrt schaffen nahrungsreiche Speise wir uns beim Sang und rühmenswerthe Schätze; Das alles mög' erlangen unser Sänger; die Todesgöttin möge fernhin weichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы хотим сейчас в благоприятных условиях ради богатства  
 Создать себе запас пищи и всяческую славу!  

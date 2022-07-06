@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वो यज्ञ꣡ ऋभवो अकारि  
 य꣡म् आ꣡ मनुष्व꣡त् प्रदि꣡वो दधिध्वे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡भूत वि꣡श्वे अग्रियो꣡त꣡ वाजाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । वः॒ । अच्छ॑ । जु॒जु॒षा॒णासः॑ । अ॒स्थुः॒ । अभू॑त । विश्वे॑ । अ॒ग्रि॒या । उ॒त । वा॒जाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -134,36 +134,36 @@ genre M
 हे **ऋभवः** **वः** युष्मदर्थम् **अयं** **यज्ञः** **अकारि** । **यं** यज्ञं **मनुष्वत्** मनुष्यवत् **प्रदिवः** प्रकर्षेण द्योतमानाः सन्तः **आ** **दधिध्वे** धारयत जठरे । तदर्थं **वः** युष्मान् **अच्छ** आभिमुख्येन **जुजुषाणासः** सेवमानाः सोमाः **प्र** **अस्थुः** प्रतिष्ठन्ते । **उत** अपि च धारयित्वा च हे **वाजाः** ऋभवः **विश्वे** यूयम् **अग्रिया** अग्रार्हा अग्रत्वसंपादिनो वा **अभूत** भवथ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This sacrifice, **Ṛbhus**, has been instrumental tuted for you, who are eminently resplendent, which you have accepted after the manner of men; before you have the propitiatory (libations) been plural ced, for **Vājas**, you are all entitled to precedence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 R̥bhus, this sacrifice now has been made for you, which you, like Manu,  established for yourselves from of old.  
 Those (draughts of soma), giving pleasure, have come forth for you here,  and you all have come to the fore (to receive them), o Vājas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For you was made this sacrifice, O Rbhus, which ye, like men, won for yourselves aforetime.  
      To you come all who find in you their pleasure: ye all were-even the two elder-Vajas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses Opfer ist für euch bereitet, o Ribhu´s, das ihr seit alters wie bei Manu empfangen habt. Die beliebten Somatränke sind euch genaht und ihr Vaja´s habt alle das erste Recht darauf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Opfer ward, o Ribhu's, euch bereitet, wie ihr's von je aus Menschenhand empfinget; Euch eilen zu die dargebotnen Tränke, ihr alle seid die ersten hier, o Vadscha's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приготовлена для вас, о Рибху, эта жертва,  
 Которую вы получили, как Ману в старину.  

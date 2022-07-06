@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्चामि ते सुमतिं꣡ घो꣡षि अर्वा꣡क्  
 सं꣡ ते वावा꣡ता जरताम् इयं꣡ गीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ क्षत्रा꣡णि धारयेर् अ꣡नु द्यू꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽअश्वाः॑ । त्वा॒ । सु॒ऽरथाः॑ । म॒र्ज॒ये॒म॒ । अ॒स्मे इति॑ । क्ष॒त्राणि॑ । धा॒र॒येः॒ । अनु॑ । द्यून् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arcāmi* ← *arc*
 - \[verb\], singular, Present indikative
@@ -136,7 +136,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ genre M
 Good horses and good cars: a metaphor: may we, being with the sons, grandsons worship you
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I recite a good thought to you [/recite (=praise) your good will]. Hear  it, inclined our way. (Like) a “Favorite” wife, let this song bring  harmony to you.  
 We who have good horses and good chariots would groom you. In us  you should uphold lordly powers through the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The word sumatí-, found in 6a, is repeated here. There it clearly referred to the benevolence or good will of Agni, which the successful priest/poet comes to know. Here I think it has double meaning. On the one hand, it still refers to Agni’s good will, which the poet praises, but it also refers to the good thought, i.e., the poem, that the poet has produced for Agni. This double reading is enabled not only by the usual double meaning of sumatí- and the grammatical ambiguity of the enclitic te (gen. in the first interpr., dat. in the 2nd), but also by the double meaning of √ṛc ‘chant, recite’, which can take as object either the topic/goal of the praise (e.g., V.29.1 árcanti tvā marútaḥ … “The Maruts chant to/praise you”) or the verbal contents of the recitation (V.30.6 tubhyéd eté marútaḥ … árcanti arkám “Just for/to you do these Maruts chant the chant”).
 
@@ -166,13 +166,13 @@ The Vāvātā or ‘Favorite’ wife in later śrauta ritual is one of the wives
 As Renou’s tr. makes clear (“Nous souhaitons t’orner, (dans l’espoir d’obtenir) de bons chevaux, de bons chars”), the two adj. sváśvāḥ … suráthāḥ are most likely proleptic: we want to tend the ritual fire in order to get possession of good horses and chariots. This contrasts with the use of sváśva- in 10a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise thy gracious favour: sing in answer. May this my song sing like a loved one with thee.  
      Lords of good steeds and cars may we adorn thee, and day by day vouchsafe thou us dominion.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I praise thy favour; it resounded here. May this song (which is like) a favourite wife, awaken for thee 1. Let us brighten thee, being rich in horses and chariots. Mayst thou maintain our knightly power day by day.
 </details>
@@ -185,17 +185,17 @@ With good steeds and fair chariots may we adorn thee;
 Maintain for us the lordly power as the days go by.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich singe dir Wohlwollen ein; horche her! Diese Lobrede soll bei dir wie die Lieblingsfrau Anklang finden. Als Besitzer schöner Rosse und Wagen möchten wir dich putzen. Erhalte uns alle Tage die Herrschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses liebe Preislied; Wir schmücken dich, versehn mit Ross und Wagen; du mögest immer unsre Herrschaft wahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я воспеваю твою милость: обрати свой слух в нашу сторону!  
 Пусть эта хвалебная песнь имеет успех у тебя, (словно) любимая жена!  

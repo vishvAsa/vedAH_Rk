@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 असश्च꣡ता मघ꣡वद्भ्यो हि꣡ भूतं꣡  
 ये꣡ रायिया꣡ मघदे꣡यं जुन꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡व्या पृञ्च꣡न्तो अ꣡श्विया मघा꣡नि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र । ये । बन्धु॑म् । सू॒नृता॑भिः । ति॒रन्ते॑ । गव्या॑ । पृ॒ञ्चन्तः॑ । अश्व्या॑ । म॒घानि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asaścatā* ← *asaścat*
 - \[noun\], nominative, dual, masculine
@@ -116,7 +116,7 @@ genre M
 **असश्चता** कुत्राप्यसज्यमानी युवां मघवद्भ्यः धनवद्भ्यो हविष्मद्भ्यो यजमानेभ्यस्तेषामर्थाय **भूतं** **हि** भवतम् । तेभ्य एवानुरक्तौ भवतम् । अनुग्राह्या एव विशेष्यन्ते। **ये** **राया** धनेन निमित्तेन राया युक्ता वा **मघदेयं** दातव्यं मघं धनं हविर्लक्षणं वा **जुनन्ति** प्रेरयन्ति यच्छन्ति । **ये** च **बन्धुम्** । स्नेहेन बध्नातीति बन्धुः । तं स्वसंबन्धिनम् । अथदा फलेन बध्नातीति बन्धुरध्वर्य्वादिः । तं **सूनृताभिः** प्रियसत्यात्मिकाभिर्वाग्भिः **प्र** **तिरन्ते** प्रवर्धयन्ति । प्रपूर्वस्तिरतिर्वर्धनार्थः । किं कुर्वन्तः । **गव्या** गोरूपाणि **अश्व्या** अश्वरूपाणि च **मघानि** धनानि **पृञ्चन्तः** अर्थिभ्यः प्रयच्छन्तः । तेभ्यो मघवद्भ्यो भूतमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,30 +129,30 @@ Be propitious: asaścatā bhūtam = anuraktau bhavatām; kutrapi asajyamānau, b
 Akinsman: **bandhu** = **adhvaryu**, or ministrant priest, phalena badhnāti, one who binds by a reward
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be unfailing for the bounteous ones, who speed their gift of bounty  with wealth,  
 who extend their relationships by their liberal gifts, mingling their  
 bounties of cattle and of horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Exhaustless be your bounty to our princes who with their wealth incite the gift of riches,  
      Who further friendship with their noble natures, combining wealth in kine with wealth in herses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So seid denn unversieglich für die Lohnherren, die mit ihrem Reichtum zur Gabenspende ermuntern, die durch ihre freigebigen Schenkungen ihren Anhang vermehren, indem sie Gaben von Rindern und Rossen in Fülle spenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn unerschöpflich seid ihr für die Reichen, die reichen Lohn aus ihrer Fülle bieten, Die reichlich spendend den Verwandten fördern, ihm viel Geschenk an Ross und Rindern reichend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будьте же неиссякаемыми для (наших) щедрых покровителей,  
 Которые (своим) богатством поощряют щедрое дарение,  

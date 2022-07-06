@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी य꣡दुषु तुर्व꣡शेषु  
 य꣡द् द्रुह्यु꣡षु अ꣡नुषु पूरु꣡षु स्थः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡था सो꣡मस्य पिबतं सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अतः॑ । परि॑ । वृ॒ष॒णौ॒ । आ । हि । या॒तम् । अथ॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M;; repeated line
 अत्र यदुषु इत्यादीनि पञ्च मनुष्यनामानि । हे **इन्द्राग्नी** **यत्** यदि **यदुषु** नियतेषु परेषामहिंसकेषु मनुष्येषु **स्थः** भवथः वर्तेथे । यदि वा **तुर्वशेषु** हिंसकेषु मनुष्येषु वर्तेथे। **यत्** यदि वा **द्रुह्युषु** द्रोहं परेषामुपद्रवमिच्छत्सु मनुष्येषु वर्तेथे । यदि वा **अनुषु** प्राणत्सु सफलैः प्राणैर्युक्तेषु ज्ञातृष्वनुष्ठातृषु मनुष्येषु । अन्येषां हि प्राणा निष्फला ज्ञानहीनत्वादनुष्ठानाभावाच्च । तेषु यदि भवथः। तथा **पुरुषु** कामैः पूरयितव्येष्वन्येषु स्तोतृजनेषु यदि भवथः । **अतः** सर्वस्मात् स्थानात हे कामाभिवर्षकाविन्द्राग्नी आगच्छतम् । अनन्तरम्' अभिषुतं सोमं **पिबतम्** ॥ यदुषु । ‘यम उपरमे'। नियम्यन्ते इन्द्रियाण्येभिरिति यदवः । ‘यमेर्दुक् च' इति कुप्रत्ययो दुगागमश्च । अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः । तुर्वशेषु । तुर्वी हिंसार्थः । औणादिकः अशप्रत्ययः । द्रुह्युषु । ‘द्रुह जिघांसायाम्। संपदादिलक्षणो भावे क्विप्। द्रुहं परेषामिच्छन्ति। 'छन्दसि परेच्छायामपि' इति क्यच् । ‘क्याच्छन्दसि' इति उप्रत्ययः । अनुषु । ‘ अन प्राणने'। अणश्च ' ( उ. सू. १. ८) इति विधीयमान उप्रत्ययो बहुलवचनादस्मादपि भवति । नित्' इत्यनुवृत्तेराद्युदात्तत्वम् । पूरुषु ।' पूरी आप्यायने । पूर्यन्ते इति पूरवः । औणादिक उप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,34 +147,34 @@ Anu = prāṇair **yukta**, having breath or life;
 **Puru** = kāmai purayitavya, to be filled full of the objects of desire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Indra and Agni, you are among the Yadus, the Turvaśas, when  among the Druhyus, the Anus, the Pūrus,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the named peoples in ab as the sacrificers with whom the poet is competing in vs. 6, see comments on that vs. The two-pāda refrain of the rest of the hymn has finally taken shape here, out of partial phrases found earlier. Note also that the beginning of the c pāda (átaḥ) and that of the d pāda (áthā) are phonologically very close.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 If with, the Yadus, Turvasas, ye sojourn, with Druhyus, Anus, Purus, Indra-Agni!  
      Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr, Indra und Agni, bei den Yadu´s, den Turvasa´s, wenn ihr bei den Druhuy´s, den Anu´s, den Puru´s seid, so kommt doch ja von dort her, ihr Bullen, und trinket vom gepreßten Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, bei den Jadu's, Turvaça's ihr weilet, bei Druhju's, Anu's, Puru's, Indra-Agni, So kommt von da zu uns doch her, ihr Stiere, und trinket nun vom ausgepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Индра и Агни, вы находитесь у яду, турвашу,  
 Если у друхью, ану, пуру,  

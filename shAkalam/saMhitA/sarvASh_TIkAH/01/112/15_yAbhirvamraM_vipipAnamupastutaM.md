@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिर् वम्रं꣡ विपिपान꣡म् उपस्तुतं꣡  
 कलिं꣡ या꣡भिर् वित्त꣡जानिं दुवस्य꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । विऽअ॑श्वम् । उ॒त । पृथि॑म् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -125,7 +125,7 @@ genre M;; repeated line
 . ५. ४. १३४ ) इति समासान्तो निङादेशः । लोपो ब्योर्वलि ' इति वलिः लोपः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । व्यश्वम् । विगतोऽश्वो यस्मात्स तथोक्तः । बहुव्रीहिस्वरेण पूर्वपदस्योदात्तत्वे  ‘उदात्तस्वरितयोर्यणः' इति परस्यानुदात्तस्य स्वरितत्वम् ॥ ॥ ३५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre M;; repeated line
 Vamra was a ṛṣi, the son of Vikhānas;he is called vipipānam, drinking much and variously, earthly moisture or dew, pārthivam rasam. Kali was a ṛṣi and Pṛthi was a **rājaṛṣi**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you favor Vamra [/the ant], who drinks up, and  Upastuta, with which you favor Kali, who acquired a wife,  
 with which you helped Vyaśva and Pr̥thi—with those forms of help  come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the lexeme medial ví √pā ‘extract by drinking, separate fluids by drinking’ see disc. ad VII.22.4. Why this lexeme is used here of an ant (or someone so called) isn’t clear. Perhaps it reflects a folk belief or observation about the eating/drinking habits of ants. Popular Science Monthly (of May 1877) reports that “Some species—such, for instance, as the small brown garden ant—ascend bushes in search of aphides. The ant then taps the aphis gently with her antennæ, and the aphis emits a drop of sweet fluid, which the ant drinks.” This could possibly be considered extraction. And a more recent article (Smithsonian.com, Aug. 16, 2012) has photographs of transparent Indian ants whose abdomens change color depending on the color of what they drink. The photographs of the ants’ mouth parts attempting to penetrate drops of colored water could also be viewed as extraction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye honoured the great drinker Vamra, and Upastuta and Kali when he gained his wife,  
      And lent to Vyasva and to Prthi favouring help,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deren ihr den Vamra, den Ausschlürfer, den Upastuta, deren ihr den Kali, der ein Weib fand, würdiget, mit denen ihr dem Vyasva und Prithi beistandet, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die den Trinker Vamra, den Upastuta, durch die den Kali, als er freite, ihr erquickt, Durch die den Prithi und Viaçva ihr geschützt, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) – Вамру, выпивающего (сому), Упастуту,  
 Какими – вы награждаете Кали, нашедшего жену,  

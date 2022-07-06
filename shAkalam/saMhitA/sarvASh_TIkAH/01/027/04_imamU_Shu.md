@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् ऊ षु꣡ त्व꣡म् अस्मा꣡कं  
 सनिं꣡ गायत्रं꣡ न꣡व्यांसम्  
 अ꣡ग्ने देवे꣡षु प्र꣡ वोचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अग्ने॑ । दे॒वेषु॑ । प्र । वो॒चः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -93,7 +93,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **अग्ने** **त्वम्** **अस्माकम्** अस्मत्संबन्धिनम् **इममू** **षु** पुरोदेशे अनुष्ठीयमानमपि **सनिं** हविर्दानं **नव्यांसं** नवतरं **गायत्रं** स्तुतिरूपं वचोऽपि **देवेषु** देवानामग्रे **प्र** **वोचः** प्रबूहि ॥ ऊ षु । ‘निपातस्य च ' इति संहितायां दीर्घत्वं ।' सुञः' इति षस्वम् । नव्यांसम् । नवशब्दात् ईयसुनि ईकारलोपश्छान्दसः । ईयसुनो नित्त्वादाद्युदात्तत्वम् । वोचः । ‘छन्दसि लुङ्लङ्लिटः' इति लोडर्थे प्रार्थनायां लुङि • अत्यतिवक्ति' (पा. सू. ३. १. ५२ ) इति च्लेः अङादेशः । ‘वच उम्' (पा. सू. ७. ४. २० ) ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,34 +104,34 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Navyāṃsam gāyatram = most new **gāyatrī** verses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This, our winnings, our newer song,  
 you shall proclaim among the gods, o Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, graciously announce this our oblation to the Gods,  
      And this our newest song of praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 And mayest thou, O Agni, announce to the gods this our newest efficient Gâyatra song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese unsere neueste Gabe, das Gesangeslied, melde du, Agni, fein den Göttern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und künde unsre Spende schön und diesen neusten Lobgesang, o Agni, du den Göttern an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту вот прекрасную нашу заслугу –  
 Новый гимн размером Гаятри  

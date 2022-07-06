@@ -8,7 +8,7 @@ title = "+042"
 ‘जनयन्' इति षडृचमष्टादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘जनयन्' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 42 (754)  
 Soma Pavamāna  

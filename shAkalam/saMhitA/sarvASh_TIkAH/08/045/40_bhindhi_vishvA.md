@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भिन्धि꣡ वि꣡श्वा अ꣡प द्वि꣡षः  
 प꣡रि बा꣡धो जही꣡ मृ꣡धः  
 व꣡सु स्पार्हं꣡ त꣡द् आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वसु॑ । स्पा॒र्हम् । तत् । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhinddhi* ← *bhid*
 - \[verb\], singular, Present imperative
@@ -95,41 +95,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र त्वं **विश्वाः** सर्वाः **द्विषः** द्वेष्ट्रीः शत्रुसेनाः **अप** **भिन्धि** विदारय । **बाधः** हिंसित्रीः **मृधः** संग्रामान् । 'स्पृधः मृधः' इति संग्रामनामसु पाठात् । **परि** **जहि** हिन्धि। अतस्तासां **स्पार्हं** स्पृहणीयं **तत्** प्रसिद्धं **वसु** **आ** **भर** अस्मभ्यमाहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Cleave asunder all the hostile hosts, frustrate their destructive attacks, and bestow on us their desirablewealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Split off all hatreds; parry oppressions. Smite the slighters.  
 The craved good thing—bring that here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On pári bā́dhaḥ see comm. ad IX.105.6. Both there and here I suggest a haplology of the finite impv. bādhasva, in the putative sequence pári *bādhasva bā́dhaḥ -- rather than accepting the BR / Grassmann emendation to *paribā́dhaḥ, accepted by Oldenberg If we accept that emendation and make *paribā́dhaḥ another acc. obj. of jahī́, parallel to mṛ́dhaḥ, the accent on jahī́is unexplained.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive all our enemies away, smite down the foes who press around,  
      And bring the wealth for which we long:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schlage alle Feinde ab, halte die Bedränger fern, erschlag die Verächter! Das begehrenswerte Gut, das bring mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Hasser alle stosse fort, die Feind' und Schmäher schlage rings, Bring' her das Gut, das wir ersehnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Разбей все проявления ненависти!  
 Прогони прочь, убей врагов!  

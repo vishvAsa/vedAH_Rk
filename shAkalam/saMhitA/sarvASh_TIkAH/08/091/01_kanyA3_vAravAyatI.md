@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कनि꣡या वा꣡र् अवायती꣡  
 सो꣡मम् अ꣡पि स्रुता꣡विदत्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 शक्रा꣡य सुनवै तुवा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525)
 अस्त॑म् । भर॑न्ती । अ॒ब्र॒वी॒त् । इन्द्रा॑य । सु॒न॒वै॒ । त्वा॒ । श॒क्राय॑ । सु॒न॒वै॒ । त्वा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kanyā*
 - \[noun\], nominative, singular, feminine
@@ -112,7 +112,7 @@ popular;; epic anuṣṭubh (525)
 **वाः** उदकं प्रति **अवायती** स्नानार्थमभ्यवगच्छन्ती **कन्या** अपाला नाम स्त्री **स्रुता** स्रुतौ मार्गे **सोममपि** **अविदत्** अलभत ।  ‘ विद्लृ लाभे' । लतारूपं तं सोमम् **अस्तं** गृहं प्रति **भरन्ती** आहरन्ती सा सोमम् **अब्रवीत्** । हे सोम **त्वा** त्वाम् **इन्द्राय** **सुनवै** मम दन्तैरेवाभिषुणवै । पुनर्हे सोम **त्वा** त्वां **शक्राय** समर्थायेन्द्राय **सुनवै** इदानीमेवाभिषवं करवै । सोमभक्षणकाले दन्तध्वनिं ग्रावध्वनिमिति मत्वेन्द्रस्तामगमत् । एषोऽर्थः शाट्यायनब्राह्मणे स्पष्टमभिहितः ‘ सा तीर्थमभ्यवयन्ती सोमांशुमविन्दत्तं समखादत्तस्यै ह  ग्रावाण इव दन्ता ऊदुः। स इन्द्र आद्रवत् ग्रावाणो वै वदन्तीति । सा तमभिव्याजहार कन्या वारवायती सोममपि स्रुताविददित्यस्यै त इदं ग्रावाण इव दन्ता वदन्तीति विदित्वेन्द्रः पराङावर्तत । तमब्रवीदसौ य एषि वीरक इत्यादिना' इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,29 +123,29 @@ popular;; epic anuṣṭubh (525)
 This ṛca is said by **Apālā**. Śāṭyāyaṇa **Brāhmaṇa** has a legend:Apālā, the daughter of **Atri**, being afflicted with a disease of the skin, was repudiated by her husband; shereturned to her father's hermitage, and there practised penance. One day she wen out to bathe, intending tomake **a Soma** offering to Indra, and as she was returning, she found some Soma stalks on the road. Shegathered them and ate them as she walked. Indra, hearing the sound of her jaws, thoght it was the sound of theSoma stones, and appeared before her, asking whether there were any Soma stones bruising there. Sheexplained the reason for the sound, and Indra turned away. She called after him, "why do you turn away? You gofrom house to house to drinkt he Soma, now then drink the Soma ground by my teeth and eat fried grains ofbarley". She then added, without paying him respect, " I knownot whether you are Indra, but if you come to myhouse I will pay you due honour". Feeling however sure that it was really Indra, she addressed the latter half ofthe third verse to the Soma in her mouth. Indra then, falling in love with her drank the Soma as she wished. Shethen triumphantly exclaimed (ṛca 4): " I have been repudiated by my husband and yet Indra comes to me". Indrathen granted her a bon and she thus hose, "my father's head is bald, his field is barren, and my body is destituteof hair; make these things grow". Indra granted the three boons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A maiden going down to the water found soma along the way.  
 Bringing it home she said, “I will press you for Indra; I will press you for  the able one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DOWN to the stream a maiden came, and found the Soma by the way.  
      Bearing it to her home she said, For Indra will I press thee out, for Sakra will I press thee out.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Mädchen, das hinab zum Wasser ging, hat am Wege Soma gefunden. Während sie ihn nach Hause trug, sprach sie: "Ich will dich für Indra auspressen, für den Mächtigen dich auspressen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Mädchen, das zum Flusse ging, fand auf dem Wege Somakraut, Sie trug es heim und sprach das Wort: dem Indra will ich pressen dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

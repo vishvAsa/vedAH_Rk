@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रिये꣡ सुदृ꣡शीर् उ꣡परस्य याः꣡ सु꣡वर्  
 विरो꣡चमानः ककु꣡भाम् अचोद꣡ते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 परो꣡ माया꣡भिर् ऋत꣡ आस ना꣡म ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽगो॒पाः । अ॒सि॒ । न । दभा॑य । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । प॒रः । मा॒याभिः॑ । ऋ॒ते । आ॒स॒ । नाम॑ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
@@ -134,19 +134,19 @@ genre M
 हे इन्द्र **स्वः** स्वर्गे **विरोचमानः** त्वम् **अचोदते** अप्रेरयितुः ॥ षष्ठ्यर्थे चतुर्थी ॥ **उपरस्य** मेघस्य संबन्धिन्यः **सुदृशीः** सुरोचमानाः **याः** आपः सन्ति तासाम् अपां **ककुभां** सर्वासां दिशां मध्ये **श्रिये** प्राणिनां श्रयणाय प्रेरको भवेति शेषः । हे 'सुक्रतो शोभनवृष्टिप्रदानादिकर्मन्निन्द्र त्वं **सुगोपाः** प्राणिनां सुष्ठु गोपायितासि । अतः **न** **दभाय** न दम्भनाय वधाय प्राणिनां न **असि** न प्रभवसि । त्वं च **मायाभिः** आसुरीभिः **परः** मायाभ्यः परस्ताद्वर्तमानः । यस्मात् **ते** त्वदीयं **नाम** नामकं रूपम् **ऋते** सत्यलोके **आस** आस्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, (**Indra**), who are radiant in heaven, spread through the regions, for the good (of mankind), those the beautiful (waters) of the unyielding cloud; doer of good deeds, you are the preserver (of men), not (destined) for their detriment; you are superior to all delusions; you names abides in the world of truth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Lovely to be seen for beauty are those (tips [of flame/soma streams]),  which are the sun of the lower (realm). (As the possessor) of (those)  tips who shines forth (even) for the one who doesn’t impel (largesse), you are a good herdsman, not for deceiving, o strong-willed one. Far  beyond the trickeries of magic your name was (set) in truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 [in this VD seq] and V.63.1, the only attestations in the family books. The putative first member sacca here is then provided with an alternative Sanskritic analysis, sác [i.e., sȧt] ca -- I’m not suggesting an emendation here, but a word play.
 
@@ -171,23 +171,23 @@ Having dealt with the details of this vs. piecemeal, we should now consider whet
 characteristic role of Agni’s, Soma is also compared to a Hotar sometimes (IX.92.2, 6, etc.). Both are called both vṛ́ṣan- and śíśu-. We have already noted their positioning on the barhis ad 1b. Both are called yúvan-. The ‘outgrowth’ can be the flames of Agni and the traces of the spreading of the soma juice on the filter, often depicted on IX. However, it does seem that Soma is never qualified as ájara- ‘unaging’ -- a minor lack. The vs. situates both substances on the ritual ground at the moment of the offering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shining to him who leaves heaven's regions undisturbed, which to his sheen who is beneath show fair in light,  
      Good guardian art thou, not to be deceived, Most Wise! Far from deceits thy name dwelleth in holy Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vorzüglich schön anzusehen sind die Strahlen der unteren Sonne; er leuchtet auch dem, der seine Seiten nicht anfacht. Du bist ein guter Wächter, nicht zu täuschen, du Einsichtsvoller; dein Name war bei dem wahrhaften Werk über Zaubereien erhaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Prächtig zu schaun sind die [nämlich lipas, worunter die Somasäfte verstanden sind], welche im Glänze des untern [es scheint die Somaseihe gemeint] erglänzen [viröcamänüh zu lesen] dem der die Gipfel [der Somaseihe?] nicht erschüttert; schön schirmend bist du, gütiger; vom Truge fern ist in der Wahrheit stets dein Geist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Предназначены) для красоты, прекрасны на вид эти (лучи) нижнего солнца.  
 (Этот) ярко блистающий (светит и) тому, кто не вдохновляет (осветителя) вершин.  

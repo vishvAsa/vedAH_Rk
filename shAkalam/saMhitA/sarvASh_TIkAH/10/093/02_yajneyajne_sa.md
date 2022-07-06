@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञे꣡-यज्ञे स꣡ म꣡र्तियो  
 देवा꣡न् सपर्यति  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 आवि꣡वासति एनान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 यः । सु॒म्नैः । दी॒र्घ॒श्रुत्ऽत॑मः । आ॒ऽविवा॑साति । ए॒ना॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
@@ -91,37 +91,37 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **स** **मर्त्यः** मनुष्यः **यज्ञेयज्ञे** सर्वेषु यज्ञेषु **देवान्** सर्वान् **सपर्यति** परिचरति **यः** **दीर्घश्रुत्तमः** अतिशयेन दीर्घस्य बहोः शास्त्रस्य श्रोता यो मनुष्यः **सुम्नैः** सुखकरैर्हविर्भिः **एनान्** देवान् **आविवासाति** परिचरति । असुखकरैर्हविर्भिः कृतमपि कर्म समर्थं न भवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That man plural ases the gods at every sacrifice who, being most versed in protracted texts, worshipsthem with gratifying (oblations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At every sacrifice that mortal honors the gods  
 who, of longest fame, seeks to entice them here with benevolent  
 thoughts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In each succeeding sacrifice that mortal honoureth the Gods,  
      He who, most widely known and famed for happiness, invitetb them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei jedem Opfer hält der Sterbliche die Götter in Ehren, der recht weithin vernehmbar mit freundlichen Worten sie herbitten soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei jedem Opfer verehrt derjenige Sterbliche die Götter, welcher, am weitesten sich hören lassend, sie durch Preislieder herbeilockt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

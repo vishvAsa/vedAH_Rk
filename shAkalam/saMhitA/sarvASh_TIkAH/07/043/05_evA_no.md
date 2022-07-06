@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ नो अग्ने विक्षु꣡ आ꣡ दशस्य  
 तुव꣡या वयं꣡ सहसावन् आ꣡स्क्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रा॒या । यु॒जा । स॒ध॒ऽमादः॑ । अरि॑ष्टाः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -118,37 +118,37 @@ genre M;; repeated line
 हे **अग्ने** **एव** एवं स्तुतस्त्वं **विक्षु** प्रजासु मध्ये **नः** अस्मभ्यम् **आ** **दशस्य** धनमभिप्रयच्छ। हे **सहसावन्** बलवन्नग्ने **त्वया** **आस्क्राः** अस्कन्नाः **वयं** **युजा** नित्ययुक्तेन **राया** धनेन **सधमादः** सह माद्यन्तः **अरिष्टाः** अहिंसिता भवेम । अस्मिन् सूक्ते प्रतिपादिताः सर्वे देवाः **यूयं** **नः** अस्मान् कल्याणैः सर्वदा पालयत ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be glorified **Agni**; grant us (wealth) among the people; may we, vigorous Agni, ever be undeserted byyou, but always be rejoicing and unmolested in the possession of riches; and do you, (gods), ever cherish uswith blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, o Agni, show favor to our clans. In company with you, o  mighty one,  
 with wealth as our yokemate, we feasting companions are free from  
 harm. – Do you protect us always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, Agni, send us wealth among the people: may we be closely knit to thee, O Victor,  
      Unharmed, and rich, and taking joy together. Preserve us evermore, ye ods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also, Agni, sei uns in den Stammsitzen gewogen! Mit dir, Mächtiger, sind wir befreundet, wir Festgenossen, und ohne Schaden im Bunde mit dem Reichtum.-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sei uns, Agni, hülfreich in den Häusern; geeinigt seien wir durch dich, gewalt'ger, Mit Gut versehen, sichre Festgenossen, ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так вот, о Агни, будь благосклонен к нам среди племен!  
 Соединенные с тобою, о наделенный силой, мы,  

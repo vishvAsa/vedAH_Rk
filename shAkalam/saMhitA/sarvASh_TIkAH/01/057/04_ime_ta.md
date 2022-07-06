@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ त इन्द्र ते꣡ वय꣡म् पुरुष्टुत  
 ये꣡ त्वार꣡भ्य च꣡रामसि प्रभूवसो  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्षोणी꣡र् इव प्र꣡ति नो हर्य त꣡द् व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 न॒हि । त्वत् । अ॒न्यः । गि॒र्व॒णः॒ । गिरः॑ । सघ॑त् । क्षो॒णीःऽइ॑व । प्रति॑ । नः॒ । ह॒र्य॒ । तत् । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -143,20 +143,20 @@ genre M
 हे **इन्द्र** **प्रभूवसो** प्रभूतधन अत एव **पुरुष्टुत** पुरुभिर्बहुभिर्यजमानैः स्तुत **ये** च वयं **त्वा** त्वाम् **आरभ्य** आश्रयतयावलम्ब्य **चरामसि** चरामो यागे वर्तामहे **ते** **इमे** **वयं** **ते** तव स्वभूताः। हे **गिर्वणः** गीर्भिर्वननीयेन्द्र **त्वदन्यः** त्वत्तोऽन्यः कश्चिदपि **गिरः** स्तुतीः **नहि** **सघत्** न हि प्राप्नोति । अतस्त्वं **नः** अस्माकं **तत्** स्तुतिलक्षणं **वचः** **प्रति** **हर्य** कामयस्व । **क्षोणीरिव** । यथा क्षोणी पृथिवी स्वकीयानि भूतजातानि कामयते ॥ चरामसि । इदन्तो मसिः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । सघत् । 'षघ हिंसायाम् । अत्र प्राप्त्यर्थो धातूनामनेकार्थत्वात् । लेटि अडागमः ।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक्। पादादित्वात् निघाताभावः । क्षोणीरिव । हल्ङ्याब्भ्यः' इति सुलोपाभावश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Much-lauded and most opulent **Indra**, we are thy, who, relying (on your favour), approach you; accepter of praise, no other than you receie our commendations; be plural ased (with our address), as the earth (cherishes) her creatures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here we are—those of yours, o much-praised Indra, who carry on,  having seized hold of you, o you providing outstanding goods,  
 for none other than you bears up to our songs, o you who long for songs.  Gladly receive this speech of ours like war-cries.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The translation “Here we are -- those of yours” reflects the annunciatory imé as well as the te … té vayám, which identifies the speakers as Indra’s own. In c I take cárāmasi as an independent verb, meaning to ‘carry on’ with life and activities, though it is possible that it is an auxiliary verb with the gerund ārábhya, as Geldner takes it.
 
@@ -174,23 +174,23 @@ A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine, Indra, praised by many, excellently rich! are we who trusting in thy help draw near to thee.  
      Lover of praise, none else but thou receives our laud: as earth loves all her creatures, love thou this our hymn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind die Deinen, du vielbesungener Indra, die wir uns an dich zu halten pflegen, du Schatzreicher, denn kein anderer als du kann all die Lobreden vertragen, du Lobbegehrender. Nimm dies Wort von uns an wie deine Gefolgschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sind wir, vielgerufner Indra, die wir hier an dich uns haltend wandern, güterreicher du; Denn du allein, liedholder, fassest auf das Lied, nimm freundlich auf, wie Fluten, dieses unser Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы ведь твои, о Индра многославный,  
 (Те,) что бродят, ухватившись за тебя, о обладатель больших благ!  

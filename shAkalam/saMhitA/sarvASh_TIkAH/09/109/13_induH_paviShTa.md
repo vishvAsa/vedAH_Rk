@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुः पविष्ट चा꣡रुर् म꣡दाय  
 अपा꣡म् उप꣡स्थे कवि꣡र् भ꣡गाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 इन्दुः॑ । प॒वि॒ष्ट॒ । चारुः॑ । मदा॑य । अ॒पाम् । उ॒पऽस्थे॑ । क॒विः । भगा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -73,19 +73,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **चारुः** कल्याणरूपः **कविः** क्रान्तप्रज्ञः **इन्दुः** सोमः **अपाम्** उदकानाम् **उपस्थे** उपस्थानेऽन्तरिक्षे पवित्रे वा **मदाय** मदार्थं **भगाय** भजनीयधनार्थं च **पविष्ट** पवते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The auspicious sage **Indu** flows upon the lap of the waters for exhilaration and for wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dear drop has been purified for exhilaration in the lap of the  waters, the sage poet (has been purified) for good fortune.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -95,22 +95,22 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fair Indu hath flowed on for rapturous joy, Sage for good fortune in the waters' lap.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft ward geläutert, angenehm zum Rausche, im Schoße der Gewässer, der Seher zum Glück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon strömte Indu – zum Rausch der schöne, im Schooss der Wasser – zum Heil der weise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок очистился, приятный для опьянения,  
 В лоне вод, поэт, для (нашей) счастливой доли.

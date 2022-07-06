@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभु꣡श् चक्र ई꣡डियं चा꣡रु ना꣡म  
 वि꣡श्वानि देवो꣡ वयु꣡नानि विद्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् इ꣡द् अग्नी꣡ रक्षति अ꣡प्रयुछन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒सस्य॑ । चर्म॑ । घृ॒तऽव॑त् । प॒दम् । वेः । तत् । इत् । अ॒ग्निः । र॒क्ष॒ति॒ । अप्र॑ऽयुच्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhuś* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
@@ -133,7 +133,7 @@ genre M
 ऋभुर्महान् विश्वानिसर्वाणिवयुनानि ज्ञातव्यान् पदार्थान् विद्वान् जानन् देवोग्निः ईड्यं स्तुत्यञ्चारुमनोज्ञन्नामजलञ्चक्रे करोति नामेतिउदकनामसुपाठात् वेर्व्याप्तस्यससस्यस्वपतः शान्त- ज्वालस्याप्यग्नेः चर्मरूपङ्घृतवद्दीप्तिमद्भवति सोग्निः तज्जलमप्रयुच्छन् अप्रमाद्यन् पदंस्थानं र- क्षतिपालयति इदितिपूरणः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,34 +144,34 @@ genre M
 Preserves it: covering as it were by extinguishing the flame of fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The R̥bhu [=Agni] created for himself the beloved name (of R̥bhu) to be  invoked, since he is the god who knows all the ritual patterns.  
 The hide of the grain and the track of the bird, (each) covered in ghee— just that does Agni guard, never lapsing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The skilful God who knows all forms of knowledge made for himself a fair form, meet for worship.  
      This Agni guards with care that never ceases the Sonia's skin, the Bird's place rich in fatness.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The Ribhu 1 has created for himself a good name worthy of being magnified, he, the god who knows all laws. The skin of the herbs 2, the bird's footstep 3 rich in ghee: Agni watches (all) that, never failing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er erwarb sich den teuren, anzurufenden Namen Ribhu, der Gott, der alle Mittel und Wege kennt. Den schmalzreichen Schlauch der Speise, die Spur des Vogels, das alles hütet Agni unablässig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Künstler machte kund den theuren Namen, der Gott, der sich versteht auf alle Künste; Des Opfers Pfühl, des Vogels fette Stätte sie je behütet Agni unablässig.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он создал себе достойное призывов милое имя Рибху,  
 Бог, знающий все вехи.  

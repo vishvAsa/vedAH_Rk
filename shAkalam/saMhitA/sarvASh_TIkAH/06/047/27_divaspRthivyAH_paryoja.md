@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡स् पृथिव्याः꣡ प꣡रि ओ꣡ज उ꣡द्भृतं  
 व꣡नस्प꣡तिभ्यः प꣡रि आ꣡भृतं स꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रस्य व꣡ज्रं हवि꣡षा र꣡थं यज
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒पाम् । ओ॒ज्मान॑म् । परि॑ । गोभिः॑ । आऽवृ॑तम् । इन्द्र॑स्य । वज्र॑म् । ह॒विषा॑ । रथ॑म् । य॒ज॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -120,21 +120,21 @@ popular
 **दिवः** द्युलोकात् **पृथिव्याः** भूमेश्च **उद्भृतम्** उद्धृतं सारत्वेनोपात्तं यत् **ओजः** बलमस्ति तद्रूपम् । वनस्पतिविकारत्वाद्रथस्य । वनस्पतयो हि पृथिव्याः सारभूताः ते च द्युसंबन्धिभिरुदकैः प्रवृद्धाः । अतो रथस्य लोकद्वयसारत्वमुपपन्नम्। **परि** पञ्चम्यर्थानुवादी । अपि च **वनस्पतिभ्यः**  वृक्षेभ्यः। **परि** पूर्ववत् । आभृतम् आहृतं **सहः** बलरूपम् **अपाम्** उदकानाम् **ओज्मानं** प्रेरकम् ॥ यद्वा । ओज्मा वेगः । अपां वेग इव वेगवन्तं **गोभिः** गोविकारैश्चर्मभिः **परि** परितः **आवृतम्** आवेष्टितम् **इन्द्रस्य** **वज्रं** वज्रैकदेशम् । श्रूयते हि -- इन्द्रो वृत्राय वज्रमुदयच्छत् स त्रेधा व्यभवत् स्फ्यस्तृतीयं रथस्तृतीयं यूपस्तृतीयम्' इति । एवंगुणविशिष्टं **रथं** **हविषा** पुरोडाशादिना हे अध्वर्यो **यज** ॥ नूनमेषोत्तरा च रथदेवत्यस्य हविषो याज्यानुवाक्ये लिङ्गादवगन्तव्ये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worship with oblations the chariot constructed of the substance of heaven and earth, the extracted essence of the forest lords; the velocity of the waters; the encompassed with the cow-hide; the thunderbolt (of **Indra**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strength has been brought up from heaven, from earth; might has been  brought here from the trees.  
 To the strongness of the waters enclosed by cows, to the mace of  
 Indra—to the Chariot—sacrifice with an oblation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The awkward ‘strongness’ in English tr. is meant to represent the difference between ójas- ‘strength’ in pāda a, the standard nominal abstract to this root, and ojmán-, found only here in the RV, though attested in subsequent Vedic texts. Although the ref. to the chariot in vs. 26 is hardly transparent, in this vs. it has become a barely solvable riddle. In particular, “the strongness of the waters enclosed by cows” (apā́m ojmā́nam pári góbhir ā́vṛtam) could not be interpr. without 26a, c: the “strongness of the waters” is presumably the tree (vánas-páti- in 26a, 27b), or rather the wood of the tree -- so called because plants grow only when watered.
 
@@ -151,23 +151,23 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Its mighty strength was borrowed from the heaven and earth: its conquering force was brought from sovrans of the wood.  
      Honour with holy gifts the Car like Indra's bolt, the Car bound round with straps, the vigour of the floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Himmel und Erde ward die Kraft entnommen, von den Bäumen ist seine Stärke genommen. Die Wucht der Gewässer, die mit Rindsleder bezogen ist, des Indra Donnerkeil, den Wagen verehre mit Opfergabe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die von der Erde und dem Himmel entnommene Kraft, die von den Bäumen hergenommene Stärke, die Macht der Gewässer, den mit Riemen umgebenen Wagen, der schnell ist wie Indra's Blitz, den verehre mit Opferguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У неба (и) земли была взята мощь,  
 У деревьев забрана сила.  

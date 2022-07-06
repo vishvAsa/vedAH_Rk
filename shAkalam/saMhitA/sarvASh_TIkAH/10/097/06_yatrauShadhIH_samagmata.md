@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्रउ꣡षधीः सम꣡ग्मत  
 रा꣡जानः स꣡मिताव् इव  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 रक्षोहा꣡मीवचा꣡तनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 विप्रः॑ । सः । उ॒च्य॒ते॒ । भि॒षक् । र॒क्षः॒ऽहा । अ॒मी॒व॒ऽचात॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatrauṣadhīḥ* ← *yatrā* ← *yatra*
 - \[adverb\]
@@ -104,37 +104,37 @@ popular;; epic anuṣṭubh (292)
 **यत्र** यस्मिन् देशे **ओषधीः** ओषधयः **समग्मत** संगच्छन्ते । **राजानः** **समिताविव** संग्रामे यथा संगता भवन्ति तद्वत् । तासां नानाविधानामोषधीनां संगमनं यस्मिन् देशेऽस्ति तत्र **विप्रः** प्राज्ञः ब्राह्मणः **सः** **भिषक्** उच्यते **रक्षोहा** रक्षोहन्ता । **अमीवचातनः**। अमीवा व्याधिः । तस्य चातनश्चातयिता नाशयिता च भवति तदानीम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where, plural nts, you are congregated like princes (assembled) in battle, there the sage is designated aphysician, the destroyer of evil spirits, the extirpator of disease.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the plants have come together, like kings at an assembly,  
 that inspired poet is said to be a healer who smites the demons and  
 banishes affliction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath store of Herbs at hand like Kings amid a crowd of men,-  
      Physician/Vaidya is that Bipra/sage's name, fiend-slayer, chaser of disease.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei wem die Kräuter sich versammelt haben wie die Könige in der Ratsversammlung, der Redekundige Brahmane heißt Arzt, Unholdtöter, Krankheitsbanner.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei wem der Kräuter Schar sich trifft, wie Fürst und Häupter in dem Rath, Den nennt man den geschickten Arzt Unhold- und Suchten-Bändiger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого сошлись растения,  
 Словно цари в собрании,  

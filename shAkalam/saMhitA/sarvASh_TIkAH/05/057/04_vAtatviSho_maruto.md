@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡तत्विषो मरु꣡तो वर्ष꣡निर्णिजो  
 यमा꣡ इव सु꣡सदृशः सुपे꣡शसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡त्वक्षसो महिना꣡ द्यउ꣡र् इवोर꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पि॒शङ्ग॑ऽअश्वाः । अ॒रु॒णऽअ॑श्वाः । अ॒रे॒पसः॑ । प्रऽत्व॑क्षसः । म॒हि॒ना । द्यौःऽइ॑व । उ॒रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vātatviṣo* ← *vāta*
 - \[noun\], masculine
@@ -127,36 +127,36 @@ genre M
 **वातत्विषः** सर्वदा संप्राप्तदीप्तयः **वर्षनिर्णिजः** वृष्टेः शोधयितारः । अथवा निर्णिगिति रूपनाम । वर्षमेव रूपं येषां ते तादृशाः । वृष्टिप्रदा इत्यर्थः । **यमाइव** युगलोत्पन्ना इव **सुसंदृशः** परस्परं बलरूपादिभिरत्यन्तं सरूपाः **सुपेशसः** शोभनरूपाः **पिशङ्गाश्वाः** पिशङ्गवर्णाश्वोपेतास्तथा **अरुणाश्वाः** **अरेपसः** अपापाः **प्रत्वक्षसः** प्रकृष्टं तनूकर्तारो द्वेष्टॄणां **महिना** महत्त्वेन **द्यौरिव** अन्तरिक्षमिव **उरवः** विस्तीर्णाः । उक्तलक्षणा नाम भेजिर इत्युत्तरेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Maruts**, radiant with light, purifiers of the rain, like twins of goodly aspect and graceful form, masters of tawny and of ruddy steeds, devoid of guile, thinners (of foes) and vast in magnitude as the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Maruts—having the wind’s turbulence and a cloak of rain, quite  alike in appearance like twins, well-ornamented,  
 having tawny horses and ruddy horses, unblemished, projecting power,  wide like heaven in their greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright with the blasts of wind, wrapped in their robes of rain, like twins of noble aspect and of lovely form,  
      The Maruts, spotless, with steeds tawnyhued and red, strong in their mightiness and spreading wide like heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut, heftig wie der Wind, in Regen sich kleidend, ganz ähnlich wie Zwillinge, schön aufgeputzt, mit rotbraunen Rossen, mit rötlichen Rossen fahrend, makellos, überaus stark, an Ausdehnungen breit wie der Himmel;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Maruts windschnell, eingehüllt in Regenkleid, wie neuvermählte schön zu schauen, schön geschmückt, Mit braunen Rossen, rothen Rossen, fleckenlos, sehr hoch an Grösse, wie der Himmel ausgedehnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сильные ветром Маруты, рядящиеся в дождь,  
 Совсем одинаковые, словно близнецы, дивно украшенные,  

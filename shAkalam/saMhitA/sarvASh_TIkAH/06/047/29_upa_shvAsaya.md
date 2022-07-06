@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प श्वासय पृथिवी꣡म् उत꣡ द्या꣡म्  
 पुरुत्रा꣡ ते मनुतां वि꣡ष्ठितं ज꣡गत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूरा꣡द् द꣡वीयो अ꣡प सेध श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 सः । दु॒न्दु॒भे॒ । स॒ऽजूः । इन्द्रे॑ण । दे॒वैः । दू॒रात् । दवी॑यः । अप॑ । से॒ध॒ । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -124,21 +124,21 @@ popular
 हे दुन्दुभे **पृथिवीमुत** अपि च **द्यां** दिवम् **उप** **श्वासय** आत्मीयेन जयघोषणाश्वासय । यथा लोकद्वयं त्वदीयेन शब्देनापूरितं भवति तादृशं शब्दं कुर्वित्यर्थः । अपि च **विस्थितं** विशेषेण स्थितं **जगत्** स्थावरं जङ्गमं चोभयविधं प्राणिजातं **ते** त्वदीयं शब्दं **पुरुत्रा** बहुधा **मनुतां** । मन्यताम् । जानातु । हे **दुन्दुभे** **सः** त्वम् **इन्द्रेण** अन्यैः **देवैः** च **सजूः** सह **दूराद्दवीयः** दूरादपि दूरतरं **शत्रून्** अस्मदीयान् **अप** **सेध** अपगमय । अत्र निरुक्तं - दुन्दुभिरिति शब्दानुकरणं दुमो भिन्न इति वा दुन्दुभ्यतेर्वा स्याद्वधकर्मणः' (निरु. ९. १२) इत्यादि ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “War-drum, fill with your sound both heaven and earth; and let all things, fixed or moveable, be aware of it; do you, who are associated with **Indra** and the gods, drive away our foes to the remotest distance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make Heaven and Earth gasp. Let the moving (world [=living  
 creatures]) dispersed in many places pay attention to you.  
 O Drum, along with Indra, with the gods, drive away the rivals farther  than far.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details open><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send forth thy voice aloud through earth and heaven, and let the world in all its breadth regard thee;  
      O Drum, accordant with the Gods and Indra, drive thou afar, yea, very far, our foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach die Erde und den Himmel erdröhnen! Die vielerorts verbreitete Kreatur soll deiner gedenken. Im Verein mit Indra und den Göttern vertreibe du Pauke die Feinde in fernste Ferne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, schnaube an die Erde und den Himmel, dein nehme wahr ringsum die ausgedehnte Welt; o Pauke, du mit Indra und den Göttern vereint verjage weit hinweg die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наполни шумом землю и небо!  
 Пусть вспомнит о тебе мир живых, распространенный в разных местах!  

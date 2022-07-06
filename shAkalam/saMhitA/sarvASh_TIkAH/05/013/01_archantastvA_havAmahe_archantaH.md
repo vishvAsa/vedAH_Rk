@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्चन्तस् त्वा हवामहे  
 अ꣡र्चन्तः स꣡म् इधीमहि  
 अ꣡ग्ने अ꣡र्चन्त ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 अग्ने॑ । अर्च॑न्तः । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arcantas* ← *arcantaḥ* ← *arc*
 - \[verb noun\], nominative, plural
@@ -77,40 +77,40 @@ genre M
 हे **अग्ने** **त्वा** त्वाम् **अर्चन्तः** पूजयन्तो वयं **हवामहे** आह्वयामः । **अर्चन्तः** स्तुवन्तो वयम् **ऊतये** रक्षणाय तर्पणाय वा त्वां **समिधीमहि** समिद्भिः संदीपयामः । अर्चन्त इति तृतीयं पदम् आदरातिशयार्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adoring you, **Agni**, we invoke you, adoring you we kindle you, adoring you for protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chanting, we invoke you; chanting, we would kindle you,  
 chanting, o Agni, for your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 yearn for bounty manifold.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Praising we call 1 thee; praising let us kindle 1 thee, Agni, praising, for thy help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preisend rufen wir dich, preisend wollen wir dich entzünden, o Agni, dich zur Gnade preisend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Agni rufen preisend wir, und preisend zünden wir dich an, Zu unsrer Hülfe preisend dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспевая, мы зовем тебя,  
 Воспевая, хотим зажечь,  

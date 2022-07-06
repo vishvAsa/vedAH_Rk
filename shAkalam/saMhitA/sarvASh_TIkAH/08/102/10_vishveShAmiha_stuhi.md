@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वेषा᳐म् इह꣡ स्तुहि  
 हो꣡तॄणां᳐ यश꣡स्तमम्  
 अग्निं꣡ यज्ञे꣡षु पूर्विय꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒ग्निम् । य॒ज्ञेषु॑ । पू॒र्व्यम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
@@ -73,36 +73,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **विश्वेषां** सर्वेषां होतॄणां मध्ये **यशस्तमं** यशस्वितमं **यज्ञेषु** पूर्व्यं  मुख्यम् **अग्निम्** **इह** अस्मदीये यज्ञे हे स्तोतः **स्तुहि** ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise at our rite **Agni**, the most glorious of all ministrant priests, the foremost in the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise here the most glorious of all Hotars,  
 Agni, foremost at the sacrifices,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here praise ye him the most renowned of all the ministering Priests,  
      Agni, the Chief at sacrifice;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lobe hier den Angesehensten unter allen Opferpriestern, den Agni, den Allerersten bei den Opfern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhebe diesen Agni hier, ihn aller Priester herrlichsten, Der bei den Opfern Führer ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй здесь Агни,  
 Самого блистательного из всех хотаров,  

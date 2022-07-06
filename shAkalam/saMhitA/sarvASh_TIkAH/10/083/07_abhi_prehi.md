@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्रे꣡हि दक्षिणतो꣡ भवा मे  
 अ꣡धा वृत्रा꣡णि जङ्घनाव भू꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभा꣡ उपांशु꣡ प्रथमा꣡ पिबाव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 जु॒होमि॑ । ते॒ । ध॒रुण॑म् । मध्वः॑ । अग्र॑म् । उ॒भौ । उ॒प॒ऽअं॒शु । प्र॒थ॒मा । पि॒बा॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -119,37 +119,37 @@ popular
 हे मन्यो **अभि** **प्रेहि** अभिगच्छ। मम युद्धं गत्वा च **मे** मम **दक्षिणतो** **भव** । **अध** अथ आवां **वृत्राणि** शत्रून् **भूरि** प्रभूतं **जङ्नाव** हनाव । **ते** तुभ्यम् **अग्रं** श्रेष्ठं **मध्वः** मधु सोमरसं **जुहोमि** । **उभौ** त्वं चाहं च **उपांशु** अप्रकाशं **प्रथमा** प्रथमौ सन्तौ **पिबाव** ॥ ॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Approach, be upon my right, let us slay a multitude of foes; I offer to you the best **Soma**, the sustainer;let us both drink it first in privacy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Go forth on attack: be on my right side. Then we shall keep smiting  obstacles in abundance.  
 I offer to you the foundation and the top of the honey. We two shall  
 both first drink silently.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Approach, and on my right hand hold thy station: so shall we slay a multitude of foemen.  
      The best of meath I offer to support thee: may we be first to drink thereof in quiet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh drauf los, bleib zu meiner Rechten, dann wollen wir beide viele Feinde erschlagen. Ich opfere dir den Rest, die Blume des Somatrankes. Beide wollen wir schweigend zuerst trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her zu mir und steh zu meiner Rechten, dann werden viele Feinde wir erschlagen; Ich giess dir zu des Honigs Seim, der Kraft gibt, wir beide wollen leis' als erste trinken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

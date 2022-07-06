@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡रिष्ठो अस्य द꣡क्षिणाम् इयर्ति  
 इ꣡न्द्रो मघो꣡नां तुविकूर्मि꣡तमः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मघा꣡ च धृष्णो द꣡यसे वि꣡ सूरी꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यया॑ । व॒ज्रि॒ऽवः॒ । प॒रि॒ऽयासि॑ । अंहः॑ । म॒घा । च॒ । धृ॒ष्णो॒ इति॑ । दय॑से । वि । सू॒रीन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *variṣṭho* ← *variṣṭhaḥ* ← *variṣṭha*
 - \[noun\], nominative, singular, masculine
@@ -108,20 +108,20 @@ genre M
 **वरिष्ठः** उरुतमः **तुविकूर्मितमः** अतिशयेन बहुविधकर्मा **इन्द्रो** **मघोनां** मघवतां हविर्लक्षणधनोपेतानां मध्ये **अस्य** यजमानस्य **दक्षिणां** यज्ञे दातव्याम् **इयर्ति** प्रेरयति । यद्वा । मघोनामिति अस्येत्यनेन समानाधिकरणम् ॥ वचनव्यत्ययः । मघोनो हविष्मतोऽस्य यजमानस्येत्यर्थः । शेषः प्रत्यक्षकृतः । हे **वज्रिवः** वज्रवन्निन्द्र **यया** दक्षिणया दत्तया **अंहः** पापं यज्ञसंबन्धि **परियासि** विनाशयसि हे **धृष्णो** धर्षक **मघा** मघानि धनानि **सूरीन्** स्तोतॄन पुत्रांश्च यया च दक्षिणया **वि** **दयसे** प्रयच्छसि तादृशीं दक्षिणां प्रेरयसीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The very strong **Indra**, the performer of many great deeds, instrumental gates the donation of this (instrumental tutor of the ceremony) among the opulent, whereby, wielder of the thunderbolt, you remove sin, and, firm of purpose, bestow riches upon the worshippers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, the most excellent, the most powerfully ranging of the bounteous  ones, sets in motion his priestly gift—  
 with which, mace-bearer, you evade difficult straits and you apportion  bounties to our patrons, bold one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (fld. by Klein, DGRV I: 250) takes váriṣṭhaḥ as an ex. of hypallage.
 
@@ -138,23 +138,23 @@ In fact, d is a better candidate for rel. cl. with yáyā than c is: assuming th
 The last item on which I disagree with Geldner (/Klein) is the function/identity of sūrī́n. Flg. Ludwig, they take this as standing for the gen. pl. (hence, “the bounties of our patrons”). But there is no need for this, as Oldenberg also points out, since the apparent acc. pl. can be syntactically accommodated -- either as a parallel to maghā́ (“apportion bounties [and] patrons”) or, as both Oldenberg and I prefer, in a double acc. construction with dáyase ví: “apportion bounties (to) patrons.” The point of the latter is that the patrons are the middlemen between the gods and the priest/poets: Indra gives the sūrí- riches and they redistribute them to the ritual workers. It would seem odd indeed to have Indra distributing riches that already belonged to the patrons, as the genitive would imply.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Supreme, he stirs this man to give the guerdon,-Indra, most efficacious of the princes,-  
      Wherewith, O Thunderer, thou removest sorrow, and, Bold One! partest wealth among the nobles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So breit als möglich setzt Indra seine Ehrengabe in Bewegung, der Tätigste unter den Freigebigen, mit der du Keulenträger die Not umgehst, wenn du Mutiger die Gaben der reichen Gönner austeilst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der trefflichste, der wirkt von allen starken am besten, Indra, sendet seine Milchkuh, Mit der, o Blitzer, du Bedrängniss meidest und Schatz, o kühner, an die Fürsten austheilst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самый широкий, он приведет в движение награду за жертву,  
 Индра, самый деятельный из щедрых,  

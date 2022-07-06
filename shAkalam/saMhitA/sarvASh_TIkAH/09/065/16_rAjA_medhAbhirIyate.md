@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जा मेधा꣡भिर् ईयते  
 प꣡वमानो मना꣡व् अ꣡धि  
 अन्त꣡रिक्षेण या꣡तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अ॒न्तरि॑क्षेण । यात॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **मनौ** मनुष्ये यागं कुर्वाणे सति । यद्वा । मनावधि । मनुर्मन्तव्यो यज्ञः । तस्मिन् **पवमानः** पूयमानः पुनानो वा **राजा** । राजशब्देन सोमोऽभिधीयते । सोमं राजानमक्रीणन् ' (ऐ. ब्रा. १.२७) इत्यादिषु दृष्टत्वात् । स राजा **मेधाभिः** स्तुतिभिः सह **ईयते** गच्छति । किमर्थम् । **अन्तरिक्षेण** आकाशमार्गेण द्रोणकलशं प्रति **यातवे** यातुम् । द्रोणाभिगमनकाले हि स्तोतृभिः स्तूयते खलु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,13 +84,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **Somam** rājānamakṛīṇan : **Aitareya** **Brahmaṇa** 1.27)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king is sped by (words of) wisdom, purifying himself in Manu’s  presence,  
 to drive through the midspace.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 īyate is assigned to √yā/ī ‘implore, beseech’ by numerous scholars, incl. Grassmann, Lubotsky, and Lüders (214-15: “Der König wird mit Liedern gebeten”), though Geldner, Renou and the published translation
 
@@ -109,23 +109,23 @@ The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 King Pavamana is implored with holy songs, on man's behalf,  
      To travel through the firmament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König zieht durch die dichterischen Gedanken geläutert unter Manu aus, um durch die Luft zu fahren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Lieder wird der flammende, beim Menschen angefleht, der Fürst, Zu gehen durch den Raum der Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

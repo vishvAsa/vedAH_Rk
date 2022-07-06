@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡क एवा꣡ग्नि꣡र् बहुधा꣡ स꣡मिद्ध  
 ए꣡कः सू꣡र्यो वि꣡श्वम् अ꣡नु प्र꣡भूतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡कं वा꣡ इदं꣡ वि꣡ बभूव स꣡र्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; Vālakhilya
 एका॑ । ए॒व । उ॒षाः । सर्व॑म् । इ॒दम् । वि । भा॒ति॒ । एक॑म् । वै । इ॒दम् । वि । ब॒भू॒व॒ । सर्व॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
@@ -154,31 +154,31 @@ popular;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is one, though kindled in various ways; one is the Sun, pre- eminent over all; one Dawn illuminesthis all; one is that which has become this all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just one fire is kindled in many forms; just one sun has projected  
 through all.  
 Just one dawn radiates over this whole (world). In truth just One has  developed into this whole (world).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur ein Feuer ist es, das vielfach entzündet wird, nur eine Sonne durchdringt das All; nur eine Morgenröte durchscheint diese ganze Welt. Fürwahr das Eine hat sich zu dieser ganzen Welt entfaltet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur einer ist der vielentflammte Agni, die Sonne eine, über alles mächtig, Durch alles hier strahlt eine Morgenröthe dies eine hat in alles sich gestaltet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только один (бывает) Агни, многожды зажженный,  
 Одно солнце пронизало все,  

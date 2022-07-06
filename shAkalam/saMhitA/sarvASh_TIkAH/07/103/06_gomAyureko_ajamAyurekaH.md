@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गो꣡मायुर् ए꣡को अज꣡मायुर् ए꣡कः  
 पृ꣡श्निर् ए꣡को ह꣡रित ए꣡क एषाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरुत्रा꣡ वा꣡चम् पिपिशुर् व꣡दन्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒मा॒नम् । नाम॑ । बिभ्र॑तः । विऽरू॑पाः । पु॒रु॒ऽत्रा । वाच॑म् । पि॒पि॒शुः॒ । वद॑न्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gomāyur* ← *go*
 - \[noun\], masculine
@@ -133,46 +133,46 @@ popular
 एषां मण्डूकानां मध्ये एकोमण्डूकः गोमायुः गोरिव मायुः शब्दोयस्य तादृशोभवति एकः अन्योमण्डूकः अजमायुः अजस्य मायुरिव मायुर्यस्य तादृशोभवति एकः पृश्निः पृश्निवर्णः एकोपरः हरितो हरितवर्णः एवं विरूपानानारूपाअपि समानमेकं मण्डूकाइति नाम बि- भ्रतोधारयन्तः पुरुत्रा बहुषु देशेषु वाचं वदन्तः शब्दं कुर्वन्तः पिपिशुः अवयवी भवन्ति प्रादुर्भवन्ति पिशअवयवे पुरुशब्दाद्देवमनुष्येत्या- दिनात्राप्रत्ययः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “One frog has the bellowing of a cow, another the bleating of a goat; one of them is speckled, one isgreen; designated by a common appellation, they are of various colours and croaking, show themselves innumerous plural ces.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One of them has a cow’s bellow, one a goat’s bleat; one is speckled,  one green.  
 Bearing the same name but different forms, they ornament their voice in  many ways as they speak.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. reflects the natural fact that different frogs have different cries, which allow the females to differentiate conspecific males from those unsuitable for their mating.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Onc is Cow-bellow and Goat-bleat the other, one Frog is Green and one of them is Spotty.  
      They bear one common name, and yet they vary, and, talking, modulate the voice diversely.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 One lows like cows, one like a goat is bleating; This one is Spotty, one of them is Tawny. Bearing a common name they're many-coloured, They variously adorn their voice in speaking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine blökt wie eine Kuh, der andere meckert wie ein Bock. Der eine unter ihnen ist gefleckt, der andere grün. Sie führen den gleichen Namen und sind doch verschiedenfarbig. In vielen Weisen haben sie redend ihre Stimme moduliert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der blökt als Rind, der meckert wie die Ziege, der eine gelb am Leib, der andre fleckig, Verschieden an Gestalt, doch gleichen Namens, und vielfach modeln singend sie die Stimme.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Одна мычит, как корова, другая блеет, как коза,  
 Одна из них пятнистая, другая зеленая.  

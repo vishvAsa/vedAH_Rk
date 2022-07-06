@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प त्या꣡ अस्थुर् अ꣡निरा अ꣡मीवा  
 नि꣡र् अत्रसन् त꣡मिषीचीर् अ꣡भैषुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡गन्म य꣡त्र प्रतिर꣡न्त आ꣡युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; repeated line
 आ । सोमः॑ । अ॒स्मान् । अ॒रु॒ह॒त् । विऽहा॑याः । अग॑न्म । यत्र॑ । प्र॒ऽति॒रन्ते॑ । आयुः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -118,25 +118,25 @@ genre D;; repeated line
 **त्याः** ताः **अनिराः** प्रेरयितुमशक्याः **अमीवाः** बलवत्यः पीडाः **अप** **अस्थुः** अपगच्छन्तु । याः **तमिषीचीः** बलवत्योऽस्मान् **निः** नितराम् **अत्रसन** प्राप्नुवन् कम्पयन्ति तथा **अभैषुः** । अपगमे कारणमाह । यस्मात् **सोमः** **विहायाः** महान् सन् **अस्मान्** **आ** **अरुहत्** आगमत् प्राप्तवान् अतोऽपास्थुरिति भावः । **यत्र** यस्मिन् सोमे पीते **आयुः** आयुष्यं **प्रतिरन्ते** वर्धयन्ति मनुष्यास्तं सोमम् **अगन्म** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those irremovable sicknesses depart; let those strong (pains) which have made us tremble, beafraid; the mighty **Soma** has climbed into us, we have attained that (draught) by which men prolong life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These famines and diseases have gone off. Those allied to darkness have  shied away; they have become afraid.  
 Soma has mounted us to his full extent. We have gone to where they  lengthen lifetime.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ánirā- is lit. ‘want of nourishment’. Since írā- sometimes seems specialized for liquid nourishment, I considered ‘thirsts’ here, and indeed in VIII.60.20, conjoined with kṣúdham ‘hunger’, ‘thirst’ works well. But in this passage such a translation sounds as if it refers to desires or cravings, and I think the passage refers to external threats rather than those generated within the person.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our maladies have lost their strength and vanished: they feared, and passed away into the darkness.  
      Soma hath risen in us, exceeding mighty, and we are come where men prolong existence.  
@@ -144,22 +144,22 @@ Our maladies have lost their strength and vanished: they feared, and passed away
      So let us serve this Soma with oblation, and rest securely in his grace and favour.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Away have fled those ailments and diseases; The powers of darkness have been all affrighted. With mighty strength in us has Soma mounted: We have arrived where men prolong existence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verschwunden sind jetzt Verschmachtung und Krankheiten; die finsteren Mächte sind verscheucht, sie haben Furcht bekommen. Der Soma ist in uns aufgestiegen, seine Lebenskräfte entfaltend. Wir sind da angelangt, wo man das Leben verlängert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geschwunden sind nun Krankheit und Entkräftung, zerstoben und entflohn vor Angst die Dränger; Schon hat der starke Soma uns bestiegen, jetzt sind wir da, wo lang das Leben dauert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот исчезли недомогания, болезни.  
 В бегство обратились силы тьмы: они испугались.  

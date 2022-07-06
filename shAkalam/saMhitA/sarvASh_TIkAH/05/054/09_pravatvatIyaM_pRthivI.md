@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रव꣡त्वतीय꣡म् पृथिवी꣡ मरु꣡द्भियः  
 प्रव꣡त्वती द्यउ꣡र् भवति प्रय꣡द्भियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रव꣡त्वन्तः प꣡र्वता जीर꣡दानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒वत्व॑तीः । प॒थ्याः॑ । अ॒न्तरि॑क्ष्याः । प्र॒वत्व॑न्तः । पर्व॑ताः । जी॒रऽदा॑नवः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravatvatīyam* ← *pravatvatī* ← *pravatvat*
 - \[noun\], nominative, singular, feminine
@@ -104,7 +104,7 @@ genre M
 **इयं** **पृथिवी** **मरुद्यः**   मरुतामर्थाय **प्रवत्वती** । प्रवन्तः प्रकर्षवन्तो विस्तीर्णाः प्रदेशा यस्यां सा प्रवत्वती । तादृशी **भवति** । कृत्स्नापि भूमिः मरुत्परा भवतीत्यर्थः । तां सर्वामपि व्याप्नुवन्तीति यावत् । तथा **द्यौः** अपि **प्रयद्यःती** प्रकर्षेण गच्छद्भ्यस्तेभ्यः **प्रवत्वती** भवति । सापि मरुतां संचाराय । तथा **अन्तरिक्ष्याः** अन्तरिक्षे भवाः **पथ्याः** स्नुगतयोऽपि **प्रवत्वतीः** प्रवत्वत्यो मरुद्भ्यो भवन्ति । **पर्वताः** अद्रयो मेघा वा **प्रवत्वन्तः** भवन्ति **जीरदानवः** क्षिप्रदाना मरुद्यः।  ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,36 +119,36 @@ Vat = again, having or possessing;
 Pravatvat = extensive; or, may imply having pre-eminence; or, tat-para, being subject to it, as the earth is subject to the Maruts, or they pervade the whole earth, kṛtsnam bhūmim vyāpnuvant; so the heaven is pravatvatī, spacious or subject to the pravats, pravatbhyaḥ the pre-eminent of spreading Maruts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This earth slopes gently for the Maruts; heaven becomes gently sloping  for them when they go forth;  
 the paths of the midspace slope gently; gently slope the mountains of  lively drops.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 dyaúḥ is clearly fem. here, given the adj. pravátvatī, but this gender choice must be conditioned by its standard formulaic partner, fem. pṛthivī́, in the preceding pāda, modified by the same adj. in the same position.
 
 The nom. pl. jīrádānavaḥ ‘having lively drops’ in d must modify the mountains (párvatāḥ), but in the immed. preceding hymn it is found in the voc. of the Maruts (V.53.6, in the same metrical pos.; cf. also I.34.4 a nom. pl. of the Maruts in the same position). There are no grounds for emending the text by deleting the accent and making it into a voc. (which would also entail a switch from 3rd to 2nd ps. ref.); how would it have acquired the accent here? Rather it must be word play: mountains produce torrents of water when it rains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Free for the Maruts is the earth with sloping ways, free for the rushing Ones is heaven with steep descents.  
      The paths of air's mid-region are precipitous, precipitous the mountains with their running streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gebahnt ist für die ausziehenden Marut diese Erde, gebahnt der Himmel, gebahnt die Wege durch die Luft, gebahnt die Berge , die schnelle Gabe gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Leichtgangbar ist die Erde hier der Marutschar, leichtgangbar auch der Himmel dort den schreitenden; Leichtgangbar sind die Pfade durch der Lüfte Raum, leichtgangbar auch die quellenreichen Bergeshöhn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отлогая эта земля для Марутов,  
 Отлогим становится небо для мчавшихся вперед,  

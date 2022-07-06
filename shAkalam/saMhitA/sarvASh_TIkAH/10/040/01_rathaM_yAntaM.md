@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं या᳐꣡न्तं कु꣡ह को꣡ ह वां नरा  
 प्र꣡ति द्युम꣡न्तं सुविता꣡य भूषति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡स्तोर्-वस्तोर् व꣡हमानं धिया꣡ श꣡मि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रा॒तः॒ऽयावा॑नम् । वि॒ऽभ्व॑म् । वि॒शेऽवि॑शे । वस्तोः॑ऽवस्तोः । वह॑मानम् । धि॒या । शमि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -125,14 +125,14 @@ genre M
 हे **नरा** कर्मणां नेतारावश्विनौ **वां** युवयोः संबन्धिनं **द्युमन्तं** दीप्तिमन्तं **प्रातर्यावाणं** यज्ञं प्रति प्रातःकाले गन्तारं **विभ्वं** विभुं व्यापिनं **विशेविशे** सर्वेषु मनुष्येषु **वस्तोर्वस्तोः** अन्वहं **वहमानं** धनं प्रापयन्तं **यान्तं** गच्छन्तं **रथं** **कुह** कस्मिन् देशे **को** **ह** कः खलु यजमानः **शमि** यज्ञरूपे कर्मणि **धिया** स्तुतिरूपेण कर्मणा **सुविताय** अभ्युदयार्थं **प्रति** **भूषति** अलंकरोति । कस्मिन् देशे यज्ञे कोऽन्यो यजमानो युवां स्तुतिभिर्हविर्भिश्च पूजितवान् येनास्मद्यज्ञे प्रति विलम्बेनागतवन्तौ स्थ इत्यभिप्रायः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What (worshipper), O leaderes of rites, and where (abiding) glorifies for his good, by his praise at therite, your radiant moving chariot, going (to the sacrifice) at dawn, all-pervading, and bearing (wealth) day afterday to one man after another?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your chariot that is driving where—who attends to that brilliant one for  its good progress, o men—  
 the (chariot) driving early in the morning, extending to every clan,  
@@ -140,23 +140,23 @@ traveling at every dawn—(who attends to it) with insightful thought
 and labor?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YOUR radiant Chariot-whither goes it on its way?-who decks it for you, Heroes, for its happy course,  
      Starting at daybreak, visiting each morning every house, borne hitherward through prayer unto the sacrifice?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohin fährt euer Wagen, wer erwartet denn, ihr Herren, den glänzenden zu glücklicher Fahrt, den in der Frühe kommenden, der für jeden Clan zu haben ist, der jeden Morgen ausfährt, mit Dichtungen und Werkdienst?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo eilet euer Wagen hin? wer schirrt ihn euch, o Männer, ihn, den glänzenden, zum Wohlergehn? Den starken, der des Morgens eilt von Haus zu Haus, bei jedem Frühlicht fährt mit festem Plan und Werk?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто же почтит вашу колесницу, о два мужа, – куда едет она? –  
 Молитвой (и) жертвенным трудом для счастливого путешествия,  

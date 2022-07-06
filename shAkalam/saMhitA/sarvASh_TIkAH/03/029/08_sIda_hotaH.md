@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सी꣡द होतः स्व꣡ उलोके꣡† चिकित्वा꣡न्  
 साद꣡या यज्ञं꣡ सुकृत꣡स्य यो꣡नौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने बृह꣡द् य꣡जमाने व꣡यो धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 दे॒व॒ऽअ॒वीः । दे॒वान् । ह॒विषा॑ । य॒जा॒सि॒ । अग्ने॑ । बृ॒हत् । यज॑माने । वयः॑ । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sīda* ← *sad*
 - \[verb\], singular, Present imperative
@@ -125,7 +125,7 @@ genre D
 यजमानो ब्रूते । **होतः** होमनिष्पादक हे **अग्ने** **स्वे** स्वकीये **लोके** उत्तरवेद्याः नाभौ **सीद** **उ** त्वं होमनिमित्तम् उपविशैव । तथा **चिकित्वान्** ज्ञानवांस्त्वं **सुकृतस्य** सुकृतजन्योपभोगस्य **योनौ** स्थाने उत्तमलोके **यज्ञं** यज्ञस्य कर्तारं यजमानं **सादय** स्थापय । किंच **देवावीः** । देवान् हविष्प्रदानेन अवतीति देवावीः । तादृशस्त्वं **हविषा** पुरोडाशादिलक्षणेन हव्येन **देवान्** **यजासि** यज । अथ त्वं **यजमानं** यागं कुर्वाणे मयि **बृहत्** प्रभूतं पशुपुत्रादिसमेतं **वयः** अन्नं **धाः** विधेहि ॥ सीद । सदेर्लोटि रूपम् । सादय । सदेर्ण्यन्तस्य लोटि रूपम् । णिच्व्परः । देवावीः । अव रक्षणादिषु ।' अवितॄस्तृतन्त्रिभ्य ईः' इति ईप्रत्ययः । कृदुत्तरपदस्वरः । यजासि । यजेर्लेटि आडागमः । धाः । दधातेः छान्दसे लुङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,34 +136,34 @@ genre D
 **Yajus**. 11.35; in your own sphere: sva u loke: uttaravedyāḥ nābhau, on the centre of the north altar; or, alternatively, **sukṛta** **yoniḥ** = kṛṣnājine, on the hide of the black antelope; in the chief plural ce of the sacred rite: sādayā yajñam sukṛtasya yonau: **yajña** = **yajamāna**, yajñasya kartāram, who is to be stationed uttame loke, in the best plural ce, or that which enjoys the fruit of the holy rite, sukṛtajanyopabhogasya sthāne
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sit attentive, Hotar, in your own broad place; make the sacrifice sit in  the womb of the well-performed (sacrifice).  
 Pursuing the gods, you will sacrifice to the gods with the offering. Agni,  place lofty vigor in the sacrificer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Set thee, O Priest, in, thine own place, observant: lay down the sacrifice in the home of worship.  
      Thou, dear to Gods, shalt serve them with oblation: Agni, give long life to the sacrificer.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Sit down, O Hotri, in the space which is thine, as the knowing one. Place the sacrifice in the abode of good works (i. e. on the altar). Eagerly longing for the gods thou shalt worship the gods by offerings. Agni, bestow mighty vigour on the sacrificer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Setz dich, o Hotri, kundig auf deinen Platz; setz das Opfer in den Schoß der Guttat. Die Götter einladend mögest du den Göttern die Opferspende opfern. O Agni, lege in den Opfernden hohe Kraft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Priester, sitze achtsam an deinem Orte, setze das Opfer hin in den Schooss des frommen Werkes, götterspeisend opfere den Göttern mit Trank, gib dem Opfernden grosse Lebenskraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сядь, хотар, на свое место, умелый!  
 Усади жертву в лоно доброго деяния!  

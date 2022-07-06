@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡प द्वा꣡रा मतीना᳐꣡म्  
 प्रत्ना꣡ ऋण्वन्ति कार꣡वः  
 वृ꣡ष्णो ह꣡रस आय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृष्णः॑ । हर॑से । आ॒यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apa*
 - \[adverb\]
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मतीनां** स्तुतीनां **कारवः** कर्तार ऋत्विजः **प्रत्नाः** पुराणाः **वृष्णः** सेचकस्य सोमस्य **हरस** आहरस आहर्तारश्च **आयवः** मनुष्याः **द्वारा** यज्ञस्य द्वाराणि **अप** **ऋण्वन्ति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,29 +88,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Dvārā** is taken with matīnām, the ancient poets throw open the doors of their hymns
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ancient bards thrust open the doors of poetic thoughts—  
 the Āyus for the raging of the bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singing-men of ancient time open the doors of sacred songs,-  
      Men, for the mighty to accept.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Dichter der Vorzeit öffneten das Tor der Gedanken, die Ayusöhne zur Brunst des Bullen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es thut der alten Sänger Schar die Thore der Gebete auf, Den Stier zu fassen rasch bemüht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Древние певцы раскрывают  
 Врата мыслей,  

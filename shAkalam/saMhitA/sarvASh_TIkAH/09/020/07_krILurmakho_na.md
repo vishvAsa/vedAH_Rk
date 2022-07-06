@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्रीळु꣡र् मखो꣡ न꣡ मंहयुः꣡  
 पवि꣡त्रं सोम गछसि  
 द꣡धत् स्तोत्रे꣡ सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दध॑त् । स्तो॒त्रे । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *krīﾱur* ← *krīḍuḥ* ← *krīḍu*
 - \[noun\], nominative, singular, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **क्रीळुः** क्रीडनशीलस्त्वं **मंहयुः** । मंहतिर्दानकर्मा । दानेच्छुः **मखो** **न** दानमिव **पवित्रं** **गच्छसि** । किं कुर्वन् । **स्तोत्रे** स्तुतिकर्त्रे **सुवीर्यं** शोभनवीर्यं **दधत्** प्रयच्छन् ॥ ॥१०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Like a gift: **makhaḥ** = sacrifice; from root magh
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Playful, ready to give like a generous patron, you go through the filter,  o Soma,  
 establishing an abundance of heroes for the praiser.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the double sense of makhá- see comm. ad I.18.9; in our passage the ‘bounteous’ sense prevails, though it could also be making a subtle ring with vs. 1. In 1c Soma conquers all opponents, and here he could be secondarily called a battler as well as bounteous.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Disporting, like a liberal chief, thou goest, Soma, to the sieve,  
      Lending the laud a Hero's strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Spielend, schenklustig wie ein nobler Herr, gehst du Soma in die Seihe, dem Sänger die Meisterschaft bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gleich muterm Sieger gabenreich, o Soma, gehst du in das Sieb Und gibst dem Sänger Heldenkraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Играющий, склонный к щедрости, как даритель(?),  
 Ты идешь, о сома, в цедилку,  

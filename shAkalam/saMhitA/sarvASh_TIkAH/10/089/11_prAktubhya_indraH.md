@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡क्तु꣡भ्य इ꣡न्द्रः प्र꣡ वृधो꣡ अ꣡हभ्यः  
 प्रा꣡न्त꣡रिक्षात् प्र꣡ समुद्र꣡स्य धासेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ सि꣡न्धुभ्यो रिरिचे प्र꣡ क्षिति꣡भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र । वात॑स्य । प्रथ॑सः । प्र । ज्मः । अन्ता॑त् । प्र । सिन्धु॑ऽभ्यः । रि॒रि॒चे॒ । प्र । क्षि॒तिऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāktubhya* ← *pra*
 - \[adverb\]
@@ -134,37 +134,37 @@ genre M
 **इन्द्रः** **अक्तुभ्यः** रात्रिभ्यः **प्र** **वृधः** प्रवृद्धः । **अहभ्यः** दिवसेभ्योऽपि **प्र** वृधः अधिकः । **अन्तरिक्षात्** अपि प्रवृद्धः। **समुद्रस्य** अब्धेः **धासेः** धारकात्स्थानादपि प्रवृद्धः । **वातस्य** वायोः **प्रथसः** प्रथिम्नोऽपि प्रवृद्धः । **ज्मः** पृथिव्याः **अन्तात्** पर्यन्तादपि प्रवृद्धः । **सिन्धुभ्यः** नदीभ्यश्च **प्र** **रिरिचे** अतिरिच्यते । महान् भवतीत्यर्थः । **क्षितिभ्यः** मनुष्येभ्योऽपि **प्र** रिरिचे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** is vaster than the nights, vaster than the days, vaster than the firmament or the receptacle of theocean, vaster than the wind, or space or the ends of the earth; Indra exceeds the rivers and mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, the strong, projects beyond the nights and beyond the days,  beyond the midspace and beyond the wellspring of the sea,  
 beyond the spreading of the wind and beyond the end of the earth,  
 beyond the rivers and beyond the settlements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vaster than days and nights, Giver of increase, vaster than firmament and flood of ocean,  
      Vaster than bounds of earth and wind's extension, vaster than rivers and our lands is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra reicht weiter als die Nächte, Indra, der Erstarkte, reicht weiter als die Tage, weiter als das Luftreich, weiter als die Grenze der Erde, weiter als die Ströme, als die Länder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Helfer Indra überragt die Nächte, die Tage er, die Luft, den Sitz des Meeres, Des Windes Weite und der Erde Enden, er überragt die Flüsse und die Länder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра выступает над ночами, возросший вы(ступает) над днями,  
 Он вы(ступает) над воздушным пространством, вы(ступает) над областью океана,  

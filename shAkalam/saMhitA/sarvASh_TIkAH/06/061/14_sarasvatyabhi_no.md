@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡रस्वति अभि꣡ नो नेषि व꣡स्यो  
 मा꣡प स्फरीः प꣡यसा मा꣡ न आ꣡ धक्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ त्व꣡त् क्षे꣡त्राणि अ꣡रणानि गन्म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 जु॒षस्व॑ । नः॒ । स॒ख्या । वे॒श्या॑ । च॒ । मा । त्वत् । क्षेत्रा॑णि । अर॑णानि । ग॒न्म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sarasvaty* ← *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
@@ -139,7 +139,7 @@ genre M
 हे सरस्वति **नः** अस्मान् **वस्यः** वसीयः प्रशस्तं स्फारो वसु धनम् अभि नेषि अभिप्रापय । **माप** **स्फरीः** अप्रवृद्धान् मा कार्षीः । वृद्धिः । उपसर्गवशात् तद्विपरीते वर्तते । तथा **पयसा** उदकेनाधिकेन **नः** अस्मान् **मा** **आ** **धक्** नाभिदह । ने बाधस्व । अपि च **नः** अस्माकं **सख्या** सख्यानि सखिकर्माणि **वेश्या** प्रवेशनानि **च** जुषस्व सेवस्व । वयं च त्वत्सकाशात् **अरणानि** अरमणानि निकृष्टानि **क्षेत्राणि** **मा** **गन्म** मा प्राप्नवाम । अपि तु रमणीयान्येव ॥ ॥ ३२ ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -150,34 +150,34 @@ genre M
 Reduce us not: mā apa spharīḥ: sphara = increase, greatness, prosperity; with the prefix, it implies the reverse, apravṛddhān mā kārṣīḥ, do not make us unimportant or abject
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Sarasvatī, lead us to a better state. Do not spring away with your  milk; do not come up short for us.  
 Take delight in our partnerships and communities. Let us not go from  you to alien dwelling places.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b the standard tr. (Geldner, Renou; cf. also Hoffmann 48) take páyasā with the 2nd cl.: “do not come up short with your milk.” However, mā́is almost always clauseinitial, whereas this interpr. requires it to come in 2nd position, with the enclitic naḥ even further into the clause. Moreover, no other forms of √dagh are construed with an instr. Instead I take ápa spharīḥ as intransitive ‘spring away’, with páyasā a species of instr. of accompaniment or, perhaps, an instr. of separation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Guide us, Sarasvati, to glorious treasure: refuse us not thy milk, nor spurn us from thee.  
      Gladly accept our friendship and obedience: let us not go from thee to distant countries.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sarasvati! Geleite uns zum Glück; entzieh dich nicht, laß uns mit deiner Milch nicht zu kurz kommen! Freu dich unserer Freundschaft und unserer Clangenossenschaft. Nicht mögen wir von dir dort in fremde Länder gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Sarasvati, führe uns zu reicherem Gute, stosse uns nicht zurück; entziehe uns nicht deine Milch; nimm unsere Freundschaft und Hausgenossenschaft an; nicht mögen wir von dir hinweg in ferne Lande kommen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сарасвати, веди нас к лучшему!  
 Не уклоняйся! Не лишай нас (своего) молока!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ध्वः सू꣡दम् पवस्व व꣡स्व उ꣡त्सं  
 वीरं꣡ च न आ꣡ पवस्वा भ꣡गं च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रयिं꣡ च न आ꣡ पवस्वा समुद्रा꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्वद॑स्व । इन्द्रा॑य । पव॑मानः । इ॒न्दो॒ इति॑ । र॒यिम् । च॒ । नः॒ । आ । प॒व॒स्व॒ । स॒मु॒द्रात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
@@ -132,20 +132,20 @@ genre M
 हे सोम मध्वोमाधुर्यस्य सूदं क्षारयितारं घनीभूतं आपवस्व । वस्वो वसु धनस्य उत्सं उत्सन्दकं रसं पवस्व । किञ्च नोस्मभ्यं वीरं पुत्रं आपवस्व आप्रापय । तथा भगं भजनीयं धनञ्च देहि । हेइन्दो पवमानः पूयमानः सन् इन्द्राय स्वदस्व रुचितोभव । ततस्त्वं नोस्मभ्यं समुद्रादन्तरिक्षात् रयिं धनं पुत्रंवा राति ददाति क्षीरमिति रयिर्गैर्वा तांवा पवस्व देहि ॥ ४४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour forth a fountain of wealth distilling sweet juice, pour upon us **male** offspring and riches; flow sweet for **Indra**, O **Indu**, when purified; and pour riches upon us from the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself into the sweetness of honey, into a wellspring of goods;  by purifying yourself bring here to us a hero and a portion.  
 Sweeten yourself for Indra as you purify yourself, o drop, and by  purifying yourself bring here to us wealth from the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the (s)va repetition: mádhvaḥ ... pavasva vásva ... pavasva ...
 
@@ -165,23 +165,23 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pour us a fount of meath, a spring of treasure; send us a hero son and happy fortune.  
      Be sweet to India when they cleanse thee, Indu, and pour down riches on us from the ocean.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere uns zu die Würze des Süßen, den Quell des Gutes zu, läutere uns einen Mann und Glück zu! Sei schmackhaft für Indra, o Saft, wann du dich läuterst, und läutere uns Reichtum aus dem Meere her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Methes Süss, des Gutes Quell ergiesse und riesle Helden uns herbei und Reichthum; Genussreich sei dem Indra, Indu, rieselnd und aus dem Meere riesle her uns Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, давая (нам) привкус меда, источник блага!  
 Очищаясь, дай нам мужа и счастливую долю!  

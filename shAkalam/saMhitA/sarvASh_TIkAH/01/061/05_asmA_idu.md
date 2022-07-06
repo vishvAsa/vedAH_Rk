@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡ इ꣡द् उ स꣡प्तिम् इव श्रवस्या꣡  
 इ꣡न्द्राय अर्कं꣡ जुहु꣡वा स꣡म् अञ्जे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरां꣡ गूर्त꣡श्रवसं दर्मा꣡णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 वी॒रम् । दा॒नऽओ॑कसम् । व॒न्दध्यै॑ । पु॒राम् । गू॒र्तऽश्र॑वसम् । द॒र्माण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
@@ -116,7 +116,7 @@ genre M;; gautamī; see Arnold (1905) 240–1
 अस्मै एव **इन्द्राय** **अर्कं** स्तुतिरूपं मन्त्रं **श्रवस्या** श्रवस्यया अन्नेच्छया। अन्नलाभायेत्यर्थः। **जुह्वा** आह्वानसाधनेन वागिन्द्रियेण **समञ्जे** समक्तं करोमि । एकीकरोमीत्यर्थः । तत्र दृष्टान्तः । **सप्तिमिव** । यथा अन्नलाभाय गन्तुकामः पुमानश्वं रथेनैकीकरोति तद्वत्। एकीकृत्य च **वीरं** शत्रुक्षेपणकुशलं **दानौकसं** दानानामेकनिलयं **गूर्तश्रवसं** प्रशस्यान्नं **पुराम्** असुरपुराणां **दर्माणं** विदारयितारं एवंगुणविशिष्टमिन्द्रं **वन्दध्यै** वन्दितुं स्तोतुं प्रवृत्तोऽस्मीति शेषः ॥ सप्तिमिव । ‘षप समवाये । समवैति रथेनैकीभवतीति सप्तिरश्वः । ‘वसस्तिप् ' ( उ. सू. ४. ६१९ ) इति विधीयमानः तिप्प्रत्ययः बहुलवचनादस्मादपि धातोर्भवति । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । इवेन समास उक्तः । श्रवस्या । श्रवस्शब्दात् ‘सुप आत्मनः क्यच् ' । क्यजन्तात् धातोः भावे ‘अ प्रत्ययात्' (पा. सू. ३. ३. १०२ ) इति अकारप्रत्ययः। ततः टाप् । ‘सुपां सुलुक्' इति तृतीयाया डादेशः । उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् । अर्कम् । ऋच स्तुतौ ' । ऋच्यते स्तूयतेऽनेनेति अर्को मन्त्रः । ‘पुंसि संज्ञायां घः प्रायेण' इति करणे घप्रत्ययः । ‘चजोः कु घिण्ण्यतोः' इति कुत्वम् । लघूपधगुणः । प्रत्ययस्वरः । जुह्वा । ‘बहुलं छन्दसि ' इति कृतसंप्रसारणस्य ह्वेञः ‘हुवः श्लुवच्च ' ( उ. सू. २.२१८) इति क्विप् धातोर्दीर्घश्च । धातुस्वरेणान्तोदात्तत्वम् । तृतीयैकवचने ‘ उदात्तस्वरितयोर्यणः° ' इति स्वरितत्वम् । ‘उदात्तयणो हल्पूर्वात्' इत्यस्य विभक्त्युदात्तत्वस्य ‘नोङ्धात्वोः ' (पा. सू. ६. १. १७५) इति प्रतिषेधः । अञ्जे। “ अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु' । व्यत्ययेन आत्मनेपदम् । वन्दध्यै । ' वदि अभिवादनस्तुत्योः'। तुमर्थे सेसेन्' इति कध्यैप्रत्ययः । गूर्तश्रवसम् । ‘गॄ शब्दे'। निष्ठायां ‘श्र्युकः किति' इति इट्प्रतिषेधः । ‘बहुलं छन्दसि' इति उत्वम् । ‘हलि च' इति दीर्घः । ‘नसत्तनिषत्त' (पा. सू. ८. २. ६१ ) इत्यादौ निपातनात् निष्ठानत्वाभावः । गूर्तं श्रवो यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । दर्माणम् । ‘दॄ विदारणे'। ‘अन्येभ्योऽपि दृश्यन्ते' इति मनिन् ।' नेड्वशि कृति' इति इट्प्रतिषेधः । व्यत्ययेन प्रत्ययाद्युदात्तत्वम् । यद्वा । औणादिको मनिप्रत्ययो द्रष्टव्यः॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,37 +129,37 @@ Juhvā: the instrumental ument of invocation, the organ of speech;
 Arkam: hymnb or praise in metre
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just for this one, for Indra, do I anoint the chant with my tongue [/the  offering ladle], as one anoints a team when seeking fame—  
 to extol the hero accustomed to giving [/gifts], the splitter of  
 strongholds whose fame is sung.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 juhvā̀has its standard double meaning, ‘tongue’ and ‘offering ladle’, a pun that is enabled by the verb sám añje “I anoint”: anointing with the tongue means producing praise, while ‘offering ladle’ fits better with the literal meaning of the verb.
 
 dānaúkas- is likewise of double sense, both ‘accustomed to giving’ and ‘accustomed to gifts’, representing the reciprocal trade in praise and sacrifice given to the gods, in return for the gods’ material gifts to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with my tongue I deck, to please that Indra, my hymn, as 'twere a horse, through love of glory,  
      To reverence the Hero, bounteous Giver, famed far and wide, destroyer of the castles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für ihn will ich, wie man ein Rennpferd salbt, um Ruhm zu gewinnen, für Indra das Preislied mit der Zunge salbungsvoll machen, um den schenkgewohnten Helden zu loben, den Brecher der Burgen, dessen Ruhm gefeiert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm schmücke ich voll Schatzbegier das Preislied, mit meiner Zung' dem Indra wie ein Ross aus; Den Mann zu preisen, der am Opfer Lust hat, den Burgzerstörer, dessen Ruhm man preiset.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это ему, Индре, я умащаю песню языком,  
 Как (умащают) коня из желания славы,  

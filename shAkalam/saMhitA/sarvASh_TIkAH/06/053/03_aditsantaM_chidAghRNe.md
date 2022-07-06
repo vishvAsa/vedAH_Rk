@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दित्सन्तं चिद् आघृणे  
 पू꣡षन् दा꣡नाय चोदय  
 पणे꣡श् चिद् वि꣡ म्रदा म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प॒णेः । चि॒त् । वि । म्र॒द॒ । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aditsantaṃ* ← *a*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आघृणे** अगतदीप्ते **पूषन्** **अदित्सन्तं** **चित्** दातुमनिच्छन्तमपि पुरुषं **दानाय** अस्मद्दानार्थं **चोदय** प्रेरय । **पणेश्चित्** वणिजोऽपि वार्धुषिकस्य लुब्धस्यापि **मनः** हृदयं **वि** **म्रद** दानार्थ मृदूकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent **Pūṣan**, instrumental gate the niggard to liberality, soften the heart of the miser.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even one who doesn’t want to give, o glowing Pūṣan—impel him  to give.  
 Soften up the mind even of the niggard.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For some reason Geldner always refuses to tr. the standing epithet of Pūṣan, ā́ghṛṇi-, though he fearlessly takes on far more challenging lexical items. The word must belong to the inherited root √ghṛ ‘be hot, burn’, etc., found only in nominal forms in Skt.; see EWA s.vv. ghṛṇá-, gharmá-. Why Pūṣan is glowing, fiery, I don’t know; perhaps it would be best to adopt Renou’s ‘ardent’.
 
@@ -115,24 +115,24 @@ Note ví mrada (3c), ví mṛ́dhaḥ (4b).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even him who would not give, do thou,  
      O glowing Pusan, urge to give,  
      And make the niggard's soul grow soft.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch den, der nicht schenken will, treib zum Schenken an, du ....... Pusan; selbst des Knausers Sinn erweiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Kargen auch, o glühender, o Puschan treib zum Geben an, Erweiche auch des Geiz'gen Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А нежелающего давать, о пламенный  
 Пушан, воодушеви на дарение!  

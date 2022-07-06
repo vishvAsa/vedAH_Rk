@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राग्नी शतदा꣡वनि  
 अ꣡श्वमेधे सुवी꣡रियम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दिवि꣡ सू꣡र्यम् इवाज꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क्ष॒त्रम् । धा॒र॒य॒त॒म् । बृ॒हत् । दि॒वि । सूर्य॑म्ऽइव । अ॒जर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -106,41 +106,41 @@ genre M
 हे **इन्द्राग्नी** **शतदाव्नि** । शतमपरिमितमर्थिभ्यो धनं ददातीति शतदावा । तस्मिन् **अश्वमेधे** राजर्षौ **सुवीर्यं** शोभनवीर्यसहितं **बृहत्** महत् **अजरं** जरारहितं **क्षत्रं** धनं **धारयतं** निधारयतम् । कथमिव । **दिवि** अन्तरिक्षे **सूर्यमिव** ॥ ॥ २१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Agni**, bestow upon the munificent **Aśvamedha** infinite wealth with excellent posterity, undecaying as the sun in heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Agni, keep an abundance of heroes with Aśvamedha, the  giver of a hundred (cattle),  
 and (keep with him) dominion, lofty and unaging like the sun in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Asvamedha who bestows a hundred gifts grant hero power,  
      O Indra-Agni! lofty rule like the unwasting Sun in heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Indra-Agni! Bestow on Asvamedha, the giver of a hundred (bulls), abundance of heroes and mighty royal power, like the never-ageing Sun in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Erhaltet bei Asvamedha, dem Hundertschenker, die Meisterschaft, die Herrschaft so hoch wie die Sonne am Himmel, nie alternd!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra und Agni, ihr möget dem hundertfach schenkenden AQvamedha Heldenkraft und hohe Herrschermacht bewahren, die unvergänglich sei wie die Sonne am Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, держите  
 У Ашвамедхи, дарящего сотню,  

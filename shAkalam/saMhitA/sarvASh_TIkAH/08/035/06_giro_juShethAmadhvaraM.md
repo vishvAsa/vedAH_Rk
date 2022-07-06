@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गि꣡रो जुषेथाम् अध्वरं꣡ जुषेथां᳐  
 वि꣡श्वेह꣡ देवौ स꣡वना꣡व गछतम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 इ꣡षं नो वोळ्हम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । आ । इष॑म् । नः॒ । वो॒ळ्ह॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
@@ -123,36 +123,36 @@ genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 24
 हे **देवौ** अश्विनौ नोऽस्माकं **गिरः** स्तुतीः **जुषेथां** सेवेथाम् । तथा **अध्वरं** यज्ञं च **जुषेथाम्** । **इह** यज्ञे विश्वानि सवनानि **अव** **गच्छतं** प्राप्नुतम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be gratified, deities, by our praises, be gratified by the sacrifice, recognize, deities, all the offerings inthis ceremony; united with the dawn and with **Sūrya**, bring us, **Aśvins**, food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Enjoy the hymns; enjoy the rite. – Come down here to all our pressings,  o gods.  
 In concert with Dawn and the Sun, convey refreshment to us, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept the songs we sing, accept the solemn rite. Conie nigh, O ye Twain Gods, to all libations here.  
      Accordant, of one mind with Surya and with Dawn, O Asvins, bring us strengthening food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt Wohlgefallen an den Lobreden, Wohlgefallen an dem Opfer, findet euch, beide Götter, bei allen Trinkopfern hier ein, einträchtig mit Usas und Surya bringt uns Labsal, o Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst die Lieder und geniesst den Opfertrank, zu allen Spenden kommt, o Götter hier herab, und mit der Sonn' und Morgenröthe im Verein, o Ritter, fahrt uns Labung zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь песнями, наслаждайтесь обрядом!  
 Спускайтесь сюда, о два бога, на все выжимания (сомы)!  

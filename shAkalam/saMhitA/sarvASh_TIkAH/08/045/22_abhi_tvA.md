@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ त्वा वृषभा सुते꣡  
 सुतं꣡ सृजामि पीत꣡ये  
 तृम्पा꣡ वि꣡ अश्नुही म꣡दम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तृ॒म्प । वि । अ॒श्नु॒हि॒ । मद॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृषभ** इन्द्र **त्वा** त्वां **सुते** सोमेऽभिषुते सति **सुतम्** अभिषुतं सोमं **पीतये** पानाय **अभि** **सृजामि** । **तृम्प** तृप्य **मदं** मदकरं **व्यश्नुहि** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the **Soma** is effused, I pour the libation to you, showerer (of blessings), for your drinking; satiateyourself, enjoy the exhilarating draught.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When it has been pressed, I set you loose on the pressed (soma) to drink  it, o bull.  
 Become satiated; come through to exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, the Soma being shed, I pour the juice for thee to drink:  
      Sate thee and finish thy carouse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, o Bulle, lasse ich zum ausgepreßten Saft los, um den ausgepreßten zu trinken. Tu dir gütlich, erreiche den vollen Rausch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu trinken giess' ich dir, o Stier, zum Safte mehr des Saftes hin; O trink dich voll, berausche dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о бык, я выпускаю  
 К выжатому соку, для питья выжатого.  

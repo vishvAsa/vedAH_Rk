@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् त्वा देव प्रपि꣡बन्ति  
 त꣡त आ꣡ प्यायसे पु꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡मानाम् मा꣡स आ꣡कृतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 वा॒युः । सोम॑स्य । र॒क्षि॒ता । समा॑नाम् । मासः॑ । आऽकृ॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -102,36 +102,36 @@ popular;; epic anuṣṭubh (380)
 हे **देव** सोम **यत्** यदा **त्वा** त्वां प्रपिबन्ति ओषधिरूपं त्रिष्वपि सवनेषु **ततः** अनन्तरमेव **पुनः** **आ** **प्यायसे** ।“ आ प्यायस्व सम् ' ( ऋ. सं. १. ९१. १६) इति प्रातःसवने ‘सं ते पयांसि' (ऋ. सं. १. ९१. १८) इत्युत्तरयोः सवनयोराप्यायसे । किंच **वायुः** तव **सोमस्य**  **रक्षिता** । यथा न शुष्यति तथा । वायुः शोषकः प्रसिद्धो लोके । किंच **मासः** । ‘मसी परिमाणे । मस्यते परिमीयत इति मासः सोमः। स च **समानां** संवत्सराणाम् **आकृतिः** आकर्ता व्यवच्छेदको भवति । संवत्सरे संवत्सरे वसन्तादिकालेष्वनुष्ठीयमानत्वात् ' वसन्ते वसन्ते ज्योतिषा यजेत' इति श्रुतेः । यद्वा । सोमाधारवनस्पतिविकारग्रहद्वारेण वायुः सोमरसस्य रक्षिता भवति । ‘वायुगोपा वनस्पतयः' इति श्रुतेः । एवं वल्लीरूपसोमपक्षे योजना । चन्द्रपक्षे तु । हे देव सोम यद्यदा वा त्वां प्रपिबन्ति रश्मयोऽपरपक्षे ततोऽनन्तरमेव पूर्वपक्षे पुनराप्यायसे । वायुश्च सोमस्य तव रक्षिता । वाय्वधीनत्वाच्चन्द्रगतेः । किंच समानां संवत्सराणां मासः । षष्ठ्येकवचनमेतत् । मासस्याकृतिश्च कर्ता त्वं चासि । एकैककलाहासवृद्धिभ्यां हि मासः पूर्यते तैः संवत्सर इति ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, O god, they quaff you, then do you renew yourself again; **Vāyu** is the guardian of **Soma**, themaker of years and months.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When they take their first drink of you, god, after that you swell  up again.  
 Vāyu is the guardian of Soma. The moon is the model of the years.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When they begin to drink thee then, O God, thou swellest out again.  
      Vayu is Soma's guardian God. The Moon is that which shapes the years.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wann sie dich auftrinken, o Gott, so füllst du dich darauf wieder. Vayu ist des Soma´s Wächter; der Mond ist die Grundform der Jahre.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn man zu trinken dich beginnt, | dann schwillst, o Gott, du wieder an; | des Soma's Hüter ist der Wind; | der Monat ist's, der Jahre schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тебя отопьют, о бог,  
 Как ты прибываешь снова.  

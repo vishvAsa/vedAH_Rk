@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पुरू꣡णि आ꣡ भरा सुअ꣡श्व्या  
 ये꣡भिर् मं꣡सै निव꣡चनानि शं꣡सन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विदो꣡ षु꣡ ण उर्विया꣡ गाध꣡म् अद्य꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽगेभिः॑ । विश्वा॑ । दुः॒ऽइ॒ता । त॒रे॒म॒ । वि॒दो इति॑ । सु । नः॒ । उ॒र्वि॒या । गा॒धम् । अ॒द्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -124,36 +124,36 @@ genre M
 हे इन्द्र **त्वं** **स्वश्व्या** स्वश्व्यानि शोभनाश्वयुक्तानि **पुरूणि** बहूनि धनानि मह्यम् **आ** **भर** आहर प्रयच्छ । **निवचनानि** नितरां वक्तव्यानि स्तोत्राणि **शंसन्** अहं **येभिः** धनैः **मंसै** । मन्यतिरर्चतिकर्मा । देवान् पूजयानि तानि देहि ॥ मन्यतेर्लोटि ' बहुलं छन्दसि' इति विकरणस्य लुक् । सिप्यडागमः । सिपः पित्त्वेनानुदात्तत्वाद्धातुस्वरः ॥ **सुगेभिः** सुष्ठु गन्तव्यैस्तैर्धनैः स्तोत्रैर्वा **विश्वा** सर्वाणि **दुरिता** दुरितानि पापानि **तरेम** । हे इन्द्र **अद्य** अस्मिन् कर्मणि **गाधं** ग्रथ्यमानं क्रियमाणं **नः** अस्मदीयं स्तोत्रम् **उर्विया** उरुत्वेन बहुमानेन 'सु' सुष्ठु **विदो** । विद उ । जानीह्येव ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, grant me ample riches and excellent horses with which I may honour (the gods)proffering praises; with well-acquired (riches) let us cross over all iniquity, accept our praise today with the mighṭto cross over with ease\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You—bring hither many (gifts of) good horses, because of which I shall  be considered one who pronounces efficacious enigmas.  
 Along ways easy to travel may we traverse all difficult passages. Find a  ford for us today in wideness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give riches manifold with noble horses, to be remembered while my songs address thee.  
      May we by easy paths pass all our troubles: find us this day a ford wide and extensive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du viele gute Roßherden ein, durch die ich mir einbilden darf eindringliche Worte zu sprechen. Alle gefährlichen Wege möchten wir glatt überwinden; mache du uns fein heute recht breit eine sichere Furt ausfindig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring du uns vielen Reichthum schöner Rosse, für den ich preisen will Gebete sprechend, Lass alles Leid uns sichern Wegs durchfahren und gib uns heute weite Furt zum Heile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси (мне) разнообразное богатство из коней,  
 За что я буду проявлять себя, произнося обращения (к богам).  

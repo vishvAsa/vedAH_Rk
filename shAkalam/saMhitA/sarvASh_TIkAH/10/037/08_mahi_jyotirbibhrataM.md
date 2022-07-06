@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि ज्यो꣡तिर् बि꣡भ्रतं त्वा विचक्षण  
 भा᳐꣡स्वन्तं च꣡क्षुषे-चक्षुषे म꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वयं꣡ जीवाः꣡ प्र꣡ति पश्येम सूरिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽरोह॑न्तम् । बृ॒ह॒तः । पाज॑सः । परि॑ । व॒यम् । जी॒वाः । प्रति॑ । प॒श्ये॒म॒ । सू॒र्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], accusative, singular, neuter
@@ -118,7 +118,7 @@ genre M
 हे **विचक्षण** विद्रष्टः **सूर्यं** **महि** महत् **ज्योतिः** तेजः **बिभ्रतं** धारयन्तं **भास्वन्तं** दीप्तिमन्तं **चक्षुषेचक्षुषे** सर्वेषां दृष्टॄणां चक्षुषे **मयः** सुखकरं **बृहतः** महतः **पाजसः** बलवतः **परि** । महतो बलवतः समुद्रस्योदकस्योपरीत्यर्थः । **आरोहन्तं** **त्वा** त्वां **जीवाः** चिरं जीवन्तः **वयं** **प्रति** प्रतिदिनं **पश्येम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,30 +129,30 @@ genre M
 Enjoying long life:i.e., living prosperously may we attain old age
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upon you, o wide-gazing one, bringing great light, luminous, a joy to  every eye,  
 mounting from the surface of lofty (heaven)—may we, living, look  
 upon (you), o Sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya, may we live long and look upon thee still, thee, O Far-seeing One, bringing the glorious light,  
      The radiant God, the spring of joy to every eye, as thou art mounting up o'er the high shining flood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, der das große Licht bringt, du Weitschauender, den Leuchtenden, eine Freude für jedes Auge, der du aus der hohen Lichtgestalt aufsteigst, möchten wir lebend wiedersehen, o Surya!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosses Licht du bringst, o weithinschauender, und strahlend jedem Auge Lust und Wonne bringst, Der du emporsteigst aus dem grossen Glanzesmeer, dich mögen lebend schauen wir, o Sonnengott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, несущего великий свет, о смотрящий далеко,  
 Сверкающего, радость для любого взора,  

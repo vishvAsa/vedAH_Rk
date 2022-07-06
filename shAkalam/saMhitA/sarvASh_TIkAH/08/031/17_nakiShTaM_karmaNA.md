@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किष् टं꣡ क꣡र्मणा नशन्  
 न꣡ प्र꣡ योषन् न꣡ योषति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 अभी꣡द् अ꣡यज्वनो भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 दे॒वाना॑म् । यः । इत् । मनः॑ । यज॑मानः । इय॑क्षति । अ॒भि । इत् । अय॑ज्वनः । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakiṣ* ← *nakir*
 - \[adverb\]
@@ -129,37 +129,37 @@ genre M;; repeated line
 **यः** यजमानः **देवानां** **मनः** यष्टुमिच्छति **तं** **नकिः** न कश्चिदपि **नशत्** स्वकीयेन **कर्मणा** न व्याप्नोति । नशतिव्याप्तिकर्मा । किंच स यष्टा **न** **प्र** **योषत्** स्वस्मात् स्थानान्न विभक्तः पृथक्कृतो न भवति । किंच **न** **योषति** पुत्रादिभिर्धनादिभिश्च न विभक्तो भवति । ‘यु मिश्रणामिश्रणयोः' इत्यस्य उभयत्र लेट्यडागमः । शिष्टं व्याख्यातम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No one obstructs him by his acts, he is never driven (from his station), he is never separated (from hisfamily); the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who areno sacrificers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because of his (ritual) work no one can catch up to him, nor send him  away, nor keep him away.  
 – Just he who, as sacrificer, seeks to attain the mind of the gods will  
 surpass non-sacrificers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None in his action equals him, none holds him far or keeps him off.  
      The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner holt den mit seinem Werk ein, noch wird er ihn davon ablenken oder abhalten, wer opfernd das Herz der Götter gewinnen will, der wird über die Opferlosen obsiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Niemand verletzet durch sein Thun, noch scheucht er den, noch wehrt ihn ab; Wer recht der Götter Sinn verehrt, und Opfer darzubringen strebt, der wird der Opferlosen Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто ни действием не настигнет его.  
 Ни в стороне он не останется и не отстранится.  

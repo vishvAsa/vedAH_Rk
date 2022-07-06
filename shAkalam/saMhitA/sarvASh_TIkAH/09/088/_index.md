@@ -8,7 +8,7 @@ title = "+088"
 'अयं सोमः' इत्यष्टर्चं तृतीयं सूक्तम् । ऋष्याद्याः पूर्ववत् । अयं सोमोऽष्टौ ' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 88 (800)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ This hymn is structured by a series of similes; only the first verse lacks an ex
 The two outer verses (1, 8) are complementary to each other. The first is addressed  to Indra and announces the soma as distinctively his, while verse 8, emphasizing the  2nd-person pronoun as verse 1 did, declares that to Soma belong the distinctive  qualities and attainments of the Ādityas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the thematic structure of the hymn, see published introduction. The similes that begin the middle vss. 3-5 are all further defined by the syntactic structure GOD ná yó. In the first two of these Soma is in the 2nd ps., but in the 3rd ps. in vs. 5.
 

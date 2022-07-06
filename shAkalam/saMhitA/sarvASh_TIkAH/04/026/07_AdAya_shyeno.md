@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आदा꣡य श्येनो꣡ अभरत् सो꣡मं  
 सह꣡स्रं सवाँ꣡ अयु꣡तं च साक꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡दे सो꣡मस्य मूरा꣡ अ꣡मूरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अत्र॑ । पुर॑म्ऽधिः । अ॒ज॒हा॒त् । अरा॑तीः । मदे॑ । सोम॑स्य । मू॒राः । अमू॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ādāya* ← *ādā* ← *√dā*
 - \[verb noun\]
@@ -122,20 +122,20 @@ genre M
 **श्येनः** शंसनीयगमनः पक्षी **सवान्** सवानां यज्ञानां सहस्रं सहस्रसंख्याकम् अयुतं च अयुतसंख्याकम् । अपरिमितसंख्याकमित्यर्थः । साकं सह सोमं सोमलक्षणमन्नम् आदाय आदानं कृत्वा **अभरत्** अहरत् । आजहार । अत्र अस्मिन् सोमे आहृते सति पुरंधिः पुरंधीर्बहुकर्मा अमूरः अमूढः प्राज्ञ इन्द्रः सोमस्य संबन्धिनि मदे हर्षे सति **मूराः** मूढाः अरातीः शत्रून् अजहात् अत्यजत् । जघानेत्यर्थः । अत्रारातिशब्दः स्त्रीलिङ्गः ॥ ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Having taken it, the hawk brought the **Soma** with him to a thousand and ten thousand sacrifices, and this being provided, the performer of many (great) deeds, the unbewildered (**Indra**) destroyed, in the exhilaration of the Soma, (his) bewildered foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having taken it, the falcon brought the soma, a thousand pressings and  ten thousand all at once.  
 Plenitude left behind the hostilities then, (as) in the exhilaration of soma  the non-fool (leaves behind) fools.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The obj. mūrā́(ḥ) is fem. and presumably matches the gender of the parallel object árātīḥ ‘hostilities’ in the preceding pāda.
 
@@ -148,23 +148,23 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Falcon took and brought the Soma, bearing thousand libations with him, yea, ten thousand.  
      The Bold One left Malignities behind him, wise, in wild joy of Soma, left the foolish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem er ihn geholt hatte, brachte der Adler den Soma, tausend und zehntausend Trankopfer auf einmal. Purandhi ließ die Arati´s dort zurück, im Rausche des Soma der Kluge die Törinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Adler trug den Soma, den geraubten, viel Milliarden Somatränk' auf einmal; Der vollgefüllte tilgte dann die Bösen im Rausch des Soma, weise er, die Thoren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Орел принес сому, забрав (его):  
 Тысячу и десять тысяч выжиманий сразу.  

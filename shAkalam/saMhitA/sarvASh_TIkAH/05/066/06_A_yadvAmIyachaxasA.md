@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् वाम् ईयचक्षसा  
 मि꣡त्र वयं꣡ च सूर꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡तेमहि स्वरा꣡जिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व्यचि॑ष्ठे । ब॒हु॒ऽपाय्ये॑ । यते॑महि । स्व॒ऽराज्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -96,37 +96,37 @@ genre M
 हे **ईयचक्षसा** व्याप्तदर्शनौ हे **मित्रा** मित्रावरुणौ **वां** युवां **यत्** ये **वयं** **च** **सूरयः** स्तोतारः **आ** आह्वयामः । **व्यचिष्ठे** अत्यन्तविस्तृते **बहुपाय्ये** बहुभिर्गन्तव्ये बहुभी रक्षितव्ये वा **स्वराज्ये** स्वराट्त्वाय एवंविधराज्यार्थं **यतेमहि** गच्छेम ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We and the devout (invoke) you, **Mitra** and **Varuṇa**, who are far-seeing; may we proceed to your spacious and much frequented kingdom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that—o Mitra, o you two quick-eyed ones—we and our patrons would take our places within your very extensive, much-protecting  
 sovereignty.  
 750 V.67–68
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra, ye Gods with wandering eyes, would that the worshippers and we  
      Might strive to reach the realm ye rule, most spacious and protected well,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Daß wir, o Mitra und Varuna, ihr mit den Augen Wandernde, und unsere Lohnherren in eurer umfassendsten, vielschützenden Herrschaft Zuflucht finden möchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O dass wir, weithin schauende, in eurem ausgedehnten Reich, Das viele schützt, vereinigt sein, wir, Mitra, und die Opferherrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы мы и (наши) покровители,  
 О Митра-Варуна, чьи взгляды приближаются (издалека),  

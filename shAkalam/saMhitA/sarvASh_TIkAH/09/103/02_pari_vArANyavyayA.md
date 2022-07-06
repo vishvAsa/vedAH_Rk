@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि वा꣡राणि अव्य꣡या  
 गो꣡भिर् अञ्जानो꣡ अर्षति  
 त्री꣡ षध꣡स्था पुनानः꣡ कृणुते ह꣡रिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त्री । स॒धऽस्था॑ । पु॒ना॒नः । कृ॒णु॒ते॒ । हरिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M
 **गोभिः** गोविकारैः क्षीरादिभिः अञ्जानः अज्यमानः सोमः **अव्यया** अविमयानि **वाराणि** वालानि पवित्राणि **परि** **अर्षति** परिगच्छति । अपि च **हरिः** हरितवर्णः सोमः पुनानः पूयमानः सन् **त्री** त्रीणि सधस्था। सह तिष्ठन्यत्रेति सधस्थं स्थानम् । द्रोणकलशाधवनीयपूतभृदात्मकानि त्रीणि स्थानानि **कृणुते** करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,34 +102,34 @@ genre M
 I.e. the droṇakalaśa (wooden cask), **āhavanīya** (that into which the Soma may run), and pūtabhṛt (holding the filtered Soma)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Around the sheep’s fleeces he rushes, being anointed with cows.  
 Being purified, the tawny one creates three seats for himself.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 See IX.102.3, where it’s suggested that the trī́ṇi in that vs. corresponds to the “three seats” (trī́ṣadhásthā) here and refers to the filters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blended with milk and curds he flows on through the long wool of the sheep.  
      The Gold-hued, purified, makes him three seats for rest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er umfließt die Schafhaare, mit Milch gesalbt. Drei Stätten bereitet sich der geläuterte Falbe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Milch gesalbt ergiesst er sich nun durch des Widders wollnes Haar, Geläutert macht drei Sitze sich der goldene.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он течет кругами по ситу из овечьей шерсти,  
 Умащенный коровьим молоком.  

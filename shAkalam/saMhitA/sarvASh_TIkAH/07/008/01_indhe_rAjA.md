@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इन्धे꣡ रा꣡जा स꣡म् अरियो꣡ न꣡मोभिर्  
 य꣡स्य प्र꣡तीकम् आ꣡हुतं घृते꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ अग्नि꣡र् अ꣡ग्र उष꣡साम् अशोचि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नरः॑ । ह॒व्येभिः॑ । ई॒ळ॒ते॒ । स॒ऽबाधः॑ । आ । अ॒ग्निः । अग्रे॑ । उ॒षसा॑म् । अ॒शो॒चि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indhe* ← *indh*
 - \[verb\], singular, Present indikative
@@ -112,36 +112,36 @@ genre M
 **राजा** दीप्तः **अर्यः** स्वामी हविषां प्रेरको वाग्निः **नमोभिः** स्तुतिभिः सह **सम्** **इन्धे** समिध्यते । **यस्य** अग्नेः **प्रतीकं** रूपं **घृतेन** **आहुतं** भवति । यं च **नरः** अस्मदीयाः **सबाधः** संश्लिष्टाः संजातबाधा वा **हव्येभिः** हव्यैः सार्धम् **ईळते** स्तुवन्ति सः **अग्निः** **उषसाम्** **अग्रे** **आ** **अशोचि** आदीप्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The royal (**Agni**), the mater (of the sacrifice), is kindled with praises, he whose person n is invoked with(offerings of) butter, whom men associated worship with oblations, Agni, who is lighted before the dawn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Our compatriot king is kindled by our homage, upon whose face ghee is  offered.  
 Our men urgently summon him with oblations. Here, at the head of the  dawns, Agni has been set ablaze.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE King whose face is decked with oil is kindled with homage offered by his faithful servant.  
      The men, the priests adore him with oblations. Agni hath shone forth when the dawn is breaking.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König und Herr wird unter Verneigung entzündet, dessen Antlitz mit Schmalz begossen wird. Die Männer berufen ihn eindringlich mit Opfergaben. Agni ist noch vor den Morgenröten entflammt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Ehrfurcht ward entflammt der treue König, sein Angesicht mit Opferschmalz begossen; Mit Güssen huld'gen eifervoll die Männer; Agni erstrahlte in der Morgen Anbruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигается с поклонениями царь, благородный (владыка),  
 Чей лик полит жиром.  

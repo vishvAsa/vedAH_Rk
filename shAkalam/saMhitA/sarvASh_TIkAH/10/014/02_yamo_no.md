@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यमो꣡ नो गातु꣡म् प्रथमो꣡ विवेद  
 नइ꣡षा꣡ ग꣡व्यूतिर् अ꣡पभर्तवा꣡ उ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एना꣡ जज्ञानाः꣡ पथि꣡या अ꣡नु स्वाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत्र॑ । नः॒ । पूर्वे॑ । पि॒तरः॑ । प॒रा॒ऽई॒युः । ए॒ना । ज॒ज्ञा॒नाः । प॒थ्याः॑ । अनु॑ । स्वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yamo* ← *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
@@ -127,7 +127,7 @@ popular
 **प्रथमः** सर्वेषां मुख्यः **यमः** **नः** अस्माकं प्रजानां **गातुं** शुभाशुभनिमित्तं **विवेद** जानाति । **एषा** **गव्यूतिः** **न** **अपभर्तवा** **उ** । अतिशयज्ञानयोगात् यमस्य न केनचिदपहर्तुमपनेतुं शक्यत इत्यर्थः । **यत्र** यस्मिन् मार्गे **नः** अस्माकं **पूर्वे** **पितरः** **परेयुः** **एना** अनेन मार्गेण गच्छन्तः: **जज्ञानाः** जाताः सर्वे **स्वाः** स्वभूताः **पथ्याः** स्वकर्ममार्गभूता गतीः **अनु** गच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ popular
 Yama...from us: Yama first discovered the path for us; this pasture cannot be taken away from us; the paths theyhave made for themselves: i.e., according to their good and evil conduct
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yama first found the way for us: this pasture-land is not to be taken away. (The way) on which our ancient forefathers departed, along that (do)  those who have since been born (follow) along their own paths.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yama first found for us a place to dwell in: this pasture never can be taken from  
      Us.  
      Men born on earth tread their own paths that lead them whither our ancient Fathers have departed.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For us has Yama first found out the pathway: This pasture never can be taken from us. To where have passed away our former fathers, The later born by their own paths have travelled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Yama hat uns zuerst den Weg aufgefunden; dieser begangene Weg ist uns nicht mehr zu entreißen; auf welchem Wege unsere Vorväter abgeschieden sind, auf dem ziehen die Geborenen je ihre Straße.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zuerst hat Jama uns die Bahn gefunden zu jener Flur, die niemand uns entziehn kann, Zu welcher unsre Ahnen hingelangt sind, indem sie seine Pfade dort erkannten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Яма первым нашел для нас выход –  
 Это пастбище назад не отобрать.  

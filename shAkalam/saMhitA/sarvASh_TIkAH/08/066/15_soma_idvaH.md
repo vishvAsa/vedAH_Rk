@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡म इ꣡द् वः सुतो꣡ अस्तु  
 क꣡लयो मा꣡ बिभीतन  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्वयं꣡ घैषो꣡ अ꣡पायति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 अप॑ । इत् । ए॒षः । ध्व॒स्मा । अ॒य॒ति॒ । स्व॒यम् । घ॒ । ए॒षः । अप॑ । अ॒य॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -109,37 +109,37 @@ popular;; epic anuṣṭubh (424)
 सोमः सुतोभिषुतः वि युष्माकं सम्बन्धी अस्त्वित् भवत्वेवेन्द्राय हे कलयः कलिमहर्षेर्ज्ञातयः पुत्राश्चात्र सम्बोध्यन्ते यूयं माबिभीतन भीता माभवत । भीत्यभावे कारणमाह-एषध्वस्मा ध्वंसको राक्षसादिरपेदयति अपगच्छत्येवेन्द्रसामर्थ्यात्स्वयङ्घ स्वयमेवैषः अपअयति इदितिपूरणः पुनरुक्तिर्दा- र्ढ्यार्था ॥ १५ ॥त्यान्न्वित्येकविंशर्चमष्टमं सूक्तम् । अत्रानुक्रमणिका-त्यान्नुसैका मत्स्यः साम्मदो मैत्रावरुणिर्मान्योवा बहवोवा मत्स्याजालनद्धा आदित्यानस्तु- वन् समदाख्यस्य महामीनस्यपुत्रो मत्स्यः यद्वा मित्रावरुणयोः पुत्रोमान्यः अथवा बहवोवा मत्स्याजालनद्धाः सन्तो बन्धनमोक्षायादित्यमस्तुवन् अतस्तएव ऋषयः । परङ्गायत्रं प्राग्वत्सप्रेरिति परिभाषया गायत्रीछन्दः आदित्या देवता सूक्तविनियोगोलैङ्गिकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your effused **Soma** be only (for **Indra**); O sons of **Kali**, fear not; that malignant (spirit) departs, of hisown accord he departs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let just your soma be pressed. Kalis, stop fearing:  
 this miasma will go away; by itself it will go away.  
 The next group likely consists of 67–71, though Oldenberg (1888: 217) considers  the possibility that VIII.72 belongs here as well. Save for VIII.67 with its fanciful  authorial ascription, the rest (68–71) are attributed to Āṅgirasa poets.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now let your Soma juice be poured; be not afraid, O Kali's sons.  
      This darkening sorrow goes away; yea, of itself it vanishes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur euer Soma soll gepreßt sein! Ihr Kali´s verzaget nicht! Dieser Beschmutzer soll sich von dannen heben, von selbst soll er sich von dannen heben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma sei euch gepresst; fürchtet euch nicht, o Kali's, fort geht diese Verdunkelung, von selbst ja geht sie fort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сома как следует пусть будет выжат у вас!  
 (Люди) Кали, не робейте!  

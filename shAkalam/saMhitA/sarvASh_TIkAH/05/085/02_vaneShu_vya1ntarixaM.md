@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नेषु वि꣡ अन्त꣡रिक्षं ततान  
 वा꣡जम् अ꣡र्वत्सु प꣡य उस्रि꣡यासु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवि꣡ सू꣡र्यम् अदधात् सो꣡मम् अ꣡द्रौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हृ॒त्ऽसु । क्रतु॑म् । वरु॑णः । अ॒प्ऽसु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
@@ -120,7 +120,7 @@ genre M
 अयं वरुणः **वनेषु** वृक्षाग्रेषु **अन्तरिक्षं** **वि** **ततान** विस्तारितवान् । तथा वाजसनेयकं - ‘ वनेषु हीदमेषु वृक्षाग्रेष्वन्तरिक्षं विततं तस्मादाह वनेषु व्यन्तरिक्षं ततान' इति । **वाजं** बलम् अर्वत्सु अश्वेषु वि ततान । **पयः** क्षीरम् **उस्रियासु** गोषु । उस्रियेति गोनाम । उत्स्राविणोऽस्यां भोगा इति तद्व्युत्पत्तिः । **हृत्सु** हृदयेषु **क्रतुं** कर्मसंकल्पम् । यद्धि मनसा ध्यायति तत्कर्मणा करोति । **अप्सु** उदकेषु **अग्निं** वैद्युतमौर्वं वा । सर्वत्र वि ततानेति संबन्धः । किंच **दिवि** द्युलोके **सूर्यम्** **अदधात्** स्थापितवान् । **सोमं** च **अद्रौ** पर्वतेऽदधात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 He has plural ced fire in the water: either the lightning amidst the rain, or the submarine fire; **Yajus**. 4.32 reads vikṣu for apsu, he plural ced in people, or human beings, digetive fire; Soma in the mountains: **somam** adrau; the soma grows in the clefts of the stones of mountains, parvatānām pāṣāṇasanidhiṣu somavallya utpadyamānatvāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He stretched out the midspace upon the trees, the prize of victory in the  steeds, the milk in the ruddy (cows);  
 Varuṇa placed resolve in hearts, fire in waters, the sun in heaven, and  soma on the stone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the tree-tops the air he hath extended, put milk in kine and vigorous speed in horses,  
      Set intellect in hearts, fire in the waters, Siurya in heaven and Soma on the mountain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Über den Bäumen hat Varuna die Lüfte ausgebreitet, in die Rennpferde hat er den Sieg, in die Kühe die Milch gelegt, ins Herz die Überlegung, ins Wasser den Agni, an den Himmel die Sonne, auf den Berg den Soma gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er dehnte aus in Wäldern kühle Lüfte, schuf Milch in Kühen, in den Rossen Raschheit, Im Herzen Weisheit, in den Wolken Blitze, die Sonn' am Himmel, Soma auf den Bergen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Среди деревьев протянул он воздух,  
 Волю к победе Варуна (вложил) в скакунов, молоко - в коров.  

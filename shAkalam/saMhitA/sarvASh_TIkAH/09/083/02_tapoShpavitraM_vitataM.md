@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡पोष् पवि꣡त्रं वि꣡ततं दिव꣡स् पदे꣡  
 शो꣡चन्तो अस्य त꣡न्तवो वि꣡ अस्थिरन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिव꣡स् पृष्ठ꣡म् अ꣡धि तिष्ठन्ति चे꣡तसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अव॑न्ति । अ॒स्य॒ । प॒वि॒तार॑म् । आ॒शवः॑ । दि॒वः । पृ॒ष्ठम् । अधि॑ । ति॒ष्ठ॒न्ति॒ । चेत॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tapoṣ* ← *tapoḥ* ← *tapu*
 - \[noun\], genitive, singular, masculine
@@ -123,43 +123,43 @@ genre M
 **तपोः** शत्रूणां तापकस्य सोमस्य **पवित्रं** शोधकमङ्गं तेजो वा **दिवस्पदे** द्युलोकस्य उच्छ्रिते स्थाने **विततं** विस्तृतम् । तृतीयस्यामितो दिवि सोम आसीत्' (तै. ब्रा. ३. २. १. १) इति ब्राह्मणम् । **अस्य** **तन्तवः** अंशवः **शोचन्तः** दीप्यमानाः **व्यस्थिरन्** विविधं तिष्ठन्ति । पृथिव्यां हविर्धाने वा । **अस्य** सोमस्य **आशवः** शीघ्रगामिनो रसाः **अवन्ति** रक्षन्ति । कम् । **पवितारं** पावयितारम् । यजमानमवन्ति रक्षन्ति होमद्वारा पश्चाद्धुताः **दिवः** द्युलोकस्य **पृष्ठं** पृष्ठभागमुन्नतदेशं **चेतसा** बुद्ध्या देवगमनेच्छावत्या **अधि** **तिष्ठन्ति** आश्रयन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The filter of the foe-scorching (**Soma**) is spread on the summit of heaven; his shining filaments are separated, his swift-flowing (juices) protect the purifier (the worshipper), they dwell upon the summit of the sky in their wish (to approach the gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The filter of the hot one is outstretched to the track of heaven; its blazing  threads have been extended.  
 His swift (steeds) aid the Purifier. They mount the back of heaven in  their manifestation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The identification of sun and soma, with the rays of the sun across the sky (the cosmic filter, as it were) compared to the tracks of soma across the ritual filter.
 
 The ī of pavītár- is anomalous and may in fact be suspect. The stem only occurs twice in the RV, the other time at IX.4.4, where the ī is not metrically guaranteed. In our passage, as Grassmann points out, the SV [also JB] reading pavitā́ram is metrically better. The stem with ī is confined to the RV, except that the repetition of
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High in the seat of heaven is spread the Scorcher's sieve: its threads are standing separate, glittering with light.  
      The Swift Ones favour him who purifieth this: with consciousness they stand upon the height of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Seihe des Glühenden ist an des Himmels Ort ausgespannt; seine flammenden Fäden haben sich ausgebreitet. Seine Raschen kommen dem Läuternden zu Hilfe; im Geiste ersteigen sie des Himmels Rücken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Am Himmel ist des heissen Trankes Netz gespannt, und seine lichten Fäden haben sich vertheilt; Die schnellen Tropfen helfen seinem Läuterer und steigen auf des Himmels Rücken mit Bedacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Цедилка пылающего натянута в области неба.  
 Распространились его блистающие нити.  

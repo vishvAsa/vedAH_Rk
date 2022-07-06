@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ त्वा म꣡दा इन्दर+ मादयन्तु  
 शुष्मि꣡णं तुविरा꣡धसं जरित्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मि꣡ञ् छूर स꣡वने मादयस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 एकः॑ । दे॒व॒ऽत्रा । दय॑से । हि । मर्ता॑न् । अ॒स्मिन् । शू॒र॒ । सव॑ने । मा॒द॒य॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -120,42 +120,42 @@ genre M;; repeated line
 हे **इन्द्र** **त्वा** त्वां **ते** एते **मदाः** मदकराः सोमाः **मादयन्तु**। अपि च  **जरित्रे** स्तोत्रे **शुष्मिणं** बलवन्तं **तुविराधसे** बहुधनं पुत्रं प्रयच्छतीति शेषः । हे **शूर** त्वं **देवत्रा** देवेषु **एकः** एव  **मर्तान्** मनुष्यान् **दयसे** **हि** । दयतिरनुकम्पार्थः । **अस्मिन्** **सवने** यज्ञे  **मादयस्व** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May these inebriating draughts exhilarate you, **Indra**; bestow upon the praiser (a son vigorous andwealthy); for you alone among the gods are compassionate to mortals; be exhilarated here at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these exhilarating drinks make you exhilarated, o Indra, the  
 tempestuous one, powerfully generous to the singer,  
 for alone among the gods you distribute to mortals. At this pressing, o  champion, make yourself exhilarated.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntactic frame of dáyase here is wrong: it ordinarily takes an accusative of the material distributed and a dative of recipient on the rare occasions on which the recipient is made explicit. A clear example is found in the preceding verse, 4d … dáyase ví vā́jān, also nearby VII.21.7 maghā́ni dayate. The position of hí is also anomalous, though note that it exactly replicates the position of ví in the phrase in the preceding verse just cited and may well owe its position to this rhyme. 27 Despite the syntactic aberrancy I think that mártān must represent the recipient, and the parallelism of the dáyase phrases in the adjacent verses has imposed the accusative recipient. (There is also an apparent double accusative, of goods and recipient, in one other passage: VI.37.4 maghā́… dáyase ví sūrī́n “you apportion bounties to our patrons.”)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may these gladdening draughts rejoice thee, Indra, the Mighty, very bounteous to the singer.  
      Alone among the Gods thou pitiest mortals: O Hero, make thee glad at this libation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Rauschtränke sollen dich, Indra, den Mutvollen, berauschen, der du dem Sänger viel spendest, denn du allein unter den Göttern nimmst dich der Sterblichen an. Berausche dich, o Held, bei dieser Trankspende!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Tränke mögen, Indra, dich berauschen, dich starken, der du Sängern reichlich spendest; Denn du, kein Gott sonst, nimmst dich an der Menschen; berausche dich, o Held, bei diesem Mahle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть опьянят тебя, о Индра, эти пьянящие соки,  
 (Тебя,) буйного, сильно одаривающего певца!  

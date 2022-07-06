@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्रो꣡ देवे꣡षु आयु꣡षु  
 ज꣡नाय वृक्त꣡बर्हिषे  
 इ꣡ष इष्ट꣡व्रता अकः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इषः॑ । इ॒ष्टऽव्र॑ताः । अ॒क॒रित्य॑कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -88,41 +88,41 @@ genre M
 **मित्रः** भगवानादित्यः **देवेषु** द्योतमानादिगुणयुक्तेषु **आयुषु** मनुष्येषु मध्ये यो जनो वृक्तबर्हिः । वृक्तं लूनं बर्हिर्येन सः । बर्हिर्लवनासादनपूर्वं हविषो दाता ऋत्विगित्यर्थः । तस्मै वृक्तबर्हिंषे **जनाय** **इष्टव्रताः** । इष्टानि कल्याणानि व्रतानि कर्माणि याभिः सिध्यन्ति ताः **इषः** तादृशान्यन्नानि **अकः** करोति । तस्मै ददातीत्यर्थः ॥ वृक्तबर्हिषे। 'ओव्रश्चू छेदने' । कर्मणि निष्ठायां यस्य विभाषा' इति इट्प्रतिषेधः । बहुव्रीहौ पूर्वपदस्वरः । अकः । करोतेर्लुङि च्ले:  ‘ मन्त्रे घस ' इत्यादिना लुक् । सिपो हल्ङ्यादिलोपः । निघातः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** is he who among tods and men bestows food as the reward of pious acts upon the man who has prepared (for him) the lopped sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among the gods and the Āyus, for the person who has plaited the  ritual grass,  
 Mitra has created refreshments that carry his desirable commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mitra to Gods, to living men, to him who strews the holy grass,  
      Gives food fulfilling sacred Law.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Mitra, among both gods and men, For him who strews the sacred grass Has furnished food fixed by his will.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra bei Göttern und Ayu´s , hat er für den Barhis legenden Mann die Speisen bestimmt, deren Gelübde erwünscht ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Göttern und den Menschen lieb, verleiht er Kraft, so viel man wünscht, Dem Manne, der die Streu geschmückt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Митра среди богов, среди людей  
 Для человека, разложившего жертвенную солому,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मं गा꣡वो धेन꣡वो वावशानाः꣡  
 सो꣡मं वि꣡प्रा मति꣡भिः पृछ꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मे अर्का꣡स् त्रिष्टु꣡भः सं꣡ नवन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सोमः॑ । सु॒तः । पू॒य॒ते॒ । अ॒ज्यमा॑नः । सोमे॑ । अ॒र्काः । त्रि॒ऽस्तुभः॑ । सम् । न॒व॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
@@ -112,20 +112,20 @@ genre M
 धेनवः प्रीणयित्र्योगावः सोमं वावशानाः कामयमानाभवन्तिविप्रामेधाविनः स्तोतारः मतिभिः पृच्छमानाः पृच्छन्तोभवन्ति । अज्यमानः गोभिः सिच्यमानः सुतोभिषुतः सोमः ऋत्विग्भिः परिपूयते । तथा त्रिष्टुभः त्रिष्टुब्रूपाः अर्काः अस्माभिः क्रियमाणाः एतेमन्त्राः सोमे सन्नवन्ते सङ्गच्छन्ते ॥ ३५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The kine (are) longing for the **Soma**; wise men (are) inquiring for him with praises; Soma being effused is purified blended (with milk), our adorations in the **triṣṭubh** metre are united in the Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Soma (go) the milk-cows bellowing eagerly; to Soma the inspired  poets asking for him with their thoughts.  
 Soma, pressed, is purified while being anointed [/driven]; to Soma the  chants, the triṣṭubh verses cry out together.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas of this vs. are variants of the last two of the previous vs. (34cd), with the repeated yanti of 34 gapped, and redistribution of some of the lexicon: the two participles in 34cd, prchámānāḥ and vāvaśānā́ḥ, switch positions, with each paired with a more natural subject (cows bellowing 35a, poets asking 35b), and the thoughts of 34d are relegated to the instr. in 35b with their producers, the viprā́ḥ, taking over the subject role in 35b, again a more natural configuration. We can consider 35ab as a complex poetic repair of 34cd.
 
@@ -140,23 +140,23 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Soma come the Cows, the Milch-kine longing, to Soma sages with their hvmns inquiring.  
      Soma, effused, is purified and blended our hymns and Trstup songs unite in Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Soma kommen die Milchkühe verlangend, brüllend, zum Soma sich befragend kommen mit Gebeten die Redekundigen. Der ausgepreßte Soma wird geläutert, indem er gesalbt wird. In den Soma stimmen zusammen die Loblieder, die Tristubh´s ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Soma gehen rauschend hin die Kühe, zum Soma Sänger mit Gebeten flehend; Gepresst, gesalbet und geklärt wird Soma, in Soma gehn dreistimmig ein die Lieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К соме (приходят) дойные коровы, громко мыча,  
 К соме – вдохновенные (поэты) с молитвами, спрашивая (о нем).  

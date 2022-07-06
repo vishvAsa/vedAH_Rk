@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡नामाना चिद् ध्वसयो नि꣡ अस्मा  
 अ꣡वाहन्न् इ꣡न्द्र उष꣡सो य꣡था꣡नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 साक꣡म् प्रतिष्ठा꣡ हृ꣡दिया जघन्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒ष्वैः । अ॒ग॒च्छः॒ । सखि॑ऽभिः । निऽका॑मैः । सा॒कम् । प्र॒ति॒ऽस्था । हृद्या॑ । ज॒घ॒न्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanāmānā* ← *sanāman*
 - \[noun\], accusative, dual, feminine
@@ -116,37 +116,37 @@ genre M
 अयमिन्द्रो वृत्रं हन्तुं **सनामाना** **चित्** समाननामानौ **नि** **ध्वसयः** न्यगमयत् । अथ **इन्द्रः** तं **वृत्रम्** **अवाहन** अवहतवान् । **यथा** **उषसः** **अनः** शकटमवनाशितवान् तद्वत् । अथ प्रत्यक्षेणोच्यते । हे इन्द्र त्वम् **ऋष्वैः** दीप्तैः महद्भिर्वा **निकामैः** नितरां वृत्रवधं कामयमानैः **सखिभिः** मरुद्भिः **साकं** वृत्रं हन्तुम् **अगच्छः** । आगत्य च प्रतिष्ठा प्रतिष्ठानानि शरीराणि **हृद्या** हृद्यानि रमणीयानि **जघन्थ** हतवानसि । हन्तेस्थलि  ‘ उपदेशेऽत्वतः' इतीट्प्रतिषेधः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have expelled the two of the same name, you have destroyed the **Vṛtra** as (he destroyed) the cartof the dawn; you advance with the mighty friends (the **Maruts**), who were eager (to slay the Vṛtra); youdemolished his precious limbs.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You sent the smoke for him [=Namuci] down even on the two of the  same name [=Aśvins]; you smashed (him) down, Indra, like the cart  
 of Dawn.  
 You went with your lofty, avid comrades; at one blow you smashed his  heart’s foundations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two of like name for him didst thou demolish, as Indra striking down the car of Usas.  
      With thy beloved lofty Friends thou camest, and with the assurance of thine heart thou slewest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast ihm sogar seine beiden gleichnamigen Weiber mit Schaum beschüttet; Indra schlug sie wie den Karren der Usas nieder. Du gingst mit den reckenhaften, zugetanen Freunden; du zerschlugest damit zugleich seinen inneren Halt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die beiden gleichnamigen [finstre Nebel und Finsterniss] stäubtest du ihm [dem Menschen] hernieder, und schmettertest gleichsam herab der Morgenröthe Lastwagen; du kamst mit den erhabenen, begierigen Genossen, und zerschlugst das, worauf sich das Herz [des Feindes] verliess.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ему даже забрызгал (пеной) двух (жен) одного имени.  
 Ты уничтожил (их), как повозку Ушас.  

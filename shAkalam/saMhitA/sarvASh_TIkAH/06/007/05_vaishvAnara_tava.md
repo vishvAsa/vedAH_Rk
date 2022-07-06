@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वइ꣡श्वानर त꣡व ता꣡नि व्रता꣡नि  
 महा꣡नि अग्ने न꣡किर् आ꣡ दधर्ष  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡विन्दः केतुं꣡ वयु꣡नेषु अ꣡ह्नाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । जाय॑मानः । पि॒त्रोः । उ॒पऽस्थे॑ । अवि॑न्दः । के॒तुम् । व॒युने॑षु । अह्ना॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vaiśvānara*
 - \[noun\], vocative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 हे **वैश्वानर** विश्वेषां नराणां संबन्धिन् **अग्ने** **तव** त्वदीयानि **तानि** प्रसिद्धानि **व्रतानि** कर्माणि **महानि** महान्ति **नकिरा** **दधर्ष** न कश्चनान्यो धर्षयति बाधते । **यत्** यदा त्वं **पित्रोः** द्यावापृथिव्योः **उपस्थे** उपस्थानेऽन्तरिक्ष **वयुनेषु** गन्तव्येषु मार्गेषु **जायमानः** सन् **अह्नां** **केतुं** प्रज्ञापकं सूर्यं स्वर्भानुनावृतम् **अविन्दः** अलम्भयः । तमोरूपमसुरं स्वतेजसा निवारयन्नस्थापय इत्यर्थः । तदा तानि व्रतानीति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Lap of your parents: i.e., antarkṣa, or firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vaiśvānara Agni, these great commandments of yours no one dares  venture against,  
 since, while (just) being born in the lap of your parents, you found the  beacon of the days in the (ritual) patterns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The disjunction between pf. dadharṣa in the main clause of b and impf.
 
@@ -164,23 +164,23 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni Vaisvanara, no one hath ever resisted these thy mighty ordinances,  
      When thou, arising from thy Parents' bosom, foundest the light for days' appointed courses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vaisvanara! Diese deine hohen Anordnungen hat noch keiner angetastet, o Agni, da du im Schoße der beiden Eltern geboren das Wahrzeichen in der Reihenfolge der beiden Tage fandest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Männerhort, an diese deine Werke, die grossen, Agni, wagt heran sich keiner; Als du, geboren in dem Schooss der Aeltern, das Licht auffandest in dem Lauf der Tage.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вайшванара, на те твои великие  
 Заветы, о Агни, никто не покушался,  

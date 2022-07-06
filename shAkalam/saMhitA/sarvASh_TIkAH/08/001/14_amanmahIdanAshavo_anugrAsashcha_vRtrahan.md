@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡मन्मही꣡द् अनाश꣡वो  
 अनुग्रा꣡सश् च वृत्रहन्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡नु स्तो꣡मम् मुदीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒कृत् । सु । ते॒ । म॒ह॒ता । शू॒र॒ । राध॑सा । अनु॑ । स्तोम॑म् । मु॒दी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amanmahīd* ← *amanmahi* ← *man*
 - \[verb\], plural, Root aorist (Ind.)
@@ -106,20 +106,20 @@ genre M
 हे **वृत्रहन्** वृत्रस्यासुरस्य हन्तरिन्द्र **अनाशवः** अशीघ्रा अत्वरमाणाः **अनुग्रासः** अनुग्रा अनुद्गूर्णाः **च** सन्तो वयं भक्तिश्रद्धापुरःसरं शनैस्त्वाम् **अमन्महीत्** स्तुम एव । हे **शूर** वीर्यवन्निन्द्र **ते** त्वदर्थं **सकृत्** एकवारमपि **महता** प्रभूतेन **राधसा** धनेन हविर्लक्षणेन सह **सु** शोभनं **स्तोमं** स्तोत्रम् **अनु** **मुदीमहि** अनुमोदेमहि । अनुब्रवामेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Neither **rash** nor irate, we verily glorify you, slayer of **Vṛtra**, may we propitiate you, hero, for once (atleast) by our praise with great (sacrificial) wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indeed we have considered ourselves neither swift nor strong, you  Vr̥tra-smasher.  
 But in an instant, through your great generosity, o champion, we could  (again) take delight in your praise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although the primary sense of d, “take delight in your praise,” is surely that the poets will enjoy praising Indra, in the context of these two verses it presumably also implies that they will take delight because their praise will put them (back?) into Indra’s good graces and thereby improve their own view of themselves and their chances of making good.
 
@@ -134,23 +134,23 @@ Note the concentration of nominal forms of the root √stu ‘praise’ in these
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vrtra-slayer, we were thought slow and unready for the fray.  
      Yet once in thy great bounty may we have delight, O Hero, after praising thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir glauben langsam und schwach gewesen zu sein, o Vritratöter. Noch einmal möchten wir fein durch deine große Freigebigkeit, o Held, an dem Loblied Freude erleben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wol sind wir eiferlos und schwach, o Vritratödter, dir erschienen sonst, Doch plötzlich wurden wir durch deine grosse Huld, o Held, begeistert zum Gesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И считали мы себя медлительными  
 И слабыми, о убийца Вритры.  

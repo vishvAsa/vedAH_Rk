@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते चित्र꣡श्रवस्तमो  
 य꣡ इन्द्र वृत्रह꣡न्तमः  
 य꣡ ओजोदा꣡तमो म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यः । ओ॒जः॒ऽदात॑मः । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -90,36 +90,36 @@ genre M
 हे **इन्द्र** चित्रश्रवस्तमः अतिशयेन नानाविधकीर्तिः **यः** **मदः** सोमः **ते** त्वदर्थमस्माभिरभिषुतः । **यः** सोमः **वृत्रहन्तमः** अतिशयेन पापानां हन्ता । किंच **यः** सोमः **ओजोदातमः** अतिशयेन बलस्य दाता । तेनास्माभिर्दीयमानेन सोमेन त्वं माद्येरिति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** of yours, **Indra**, which is most widely renowned, most destrucive of your enemies, and mostrenovating to your strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That of yours which possesses the brightest fame, which is the best  smiter of Vr̥tra, Indra,  
 that exhilaration which best gives strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even, Indra, that carouse which slays the Vrtras best, most widely famed,  
      Best giver of thy power and might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dein ruhmglänzendster, der dein feindetötendster, der dein kraftverleihendster Rausch ist, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Rausch den höchsten Ruhm verdient und, Indra, bestens Feinde schlägt, Der dir am meisten Kraft verleiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध धा꣡रया म꣡धुवा पृचान꣡स्  
 तिरो꣡ रो꣡म पवते अ꣡द्रिदुग्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवो꣡ देव꣡स्य मत्सरो꣡ म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्दुः॑ । इन्द्र॑स्य । स॒ख्यम् । जु॒षा॒णः । दे॒वः । दे॒वस्य॑ । म॒त्स॒रः । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -116,21 +116,21 @@ genre M
 अधाथानन्तरं अद्रिदुग्धाः ग्रावभिर्देउग्धोभिषुतः सोमः मध्वा मदकारिण्याधारया पृ- चानः देवान् सम्पर्चयन् संयोजयन् रोम अविरोमभिः कृतं पवित्रं तिरस्तिरस्कृत्य व्यवधा- यकङ्कृत्वा पवते कलशेषु क्षरति । किञ्च इन्द्रस्यसख्यं सखिभावङ्कर्मवा जुषाणः सेवमानः देवोद्योतमानः मत्सरोमदकरइन्दुः सोमः देवस्येन्द्रस्य मदाय मदार्थं पवते क्षरति ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Milked forth by the stones the **Soma** flows through the (sheep's) hair coming into contact (with the gods) with its sweet-flavoured stream; the divine exhilarating **Indu** desiring the friendship of **Indra** flows for the exhilaration of the deity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then being infused with honey in a stream, he purifies himself across  the fleece, when he has been milked by the stone,  
 the drop enjoying the fellowship of Indra, the god, the exhilarating  
 drink of the god, for exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd hemistich contains three pairs of phonological and (partly) etymological figures: #índur índrasya, #devó devásya, matsaró mádāya#, with the 1st two presenting matching nom.+gen. grammatical figures.
 
@@ -147,23 +147,23 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then in a stream he flows, milked out with press-stones, mingled with sweetness, through the fleecy filter-  
      Indu rejoicing in the love of Indra, the God who gladdens, for the God's enjoyment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und im Strome sich mit Süßem füllend läutert sich durch die Haare fließend, von den Steinen gemolken, der Saft, der sich der Freundschaft Indra´s erfreut, der berauschende Gott zu des Gottes Rausch.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann rieselt hell im Strom der Stein-gemelkte, mit süsser Milch gemischt, durch Widderhaare, Der Indu Indra's Brüderschaft geniessend, der Gott den Gott zu lust'gem Rausch berauschend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Затем смешавшись струею с медом,  
 Он очищается сквозь волоски (цедилки), выдоенный камнями,  

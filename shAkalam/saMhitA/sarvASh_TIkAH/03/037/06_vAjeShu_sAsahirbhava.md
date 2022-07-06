@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡जेषु सासहि꣡र् भव  
 त्वा꣡म् ईमहे शतक्रतो  
 इ꣡न्द्र वृत्रा꣡य ह꣡न्तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑ । वृ॒त्राय॑ । हन्त॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
@@ -81,41 +81,41 @@ genre M
 **शतक्रतो** हे **इन्द्र** **वाजेषु** संग्रामेषु **सासहिः** शत्रूणामभिभविता **भव** । **वृत्राय** 'हन्तवे वृत्रं हन्तुं **त्वामीमहे** प्रार्थयामहे ॥ सासहिः । ‘सहिवहिचलिपतिभ्यो यङन्तेभ्यः किकिनौ वक्तव्यौ' इति किप्रत्ययः । तस्य स्वरः । वृत्राय । कर्मणः संप्रदानम् । हन्तवे । तुमर्थे तवेन्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be victorious, **Indra**, in battles; we solicit you, object of many rites, to destroy **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be victorious when the prize (is set). We implore you,  
 Indra of a hundred resolves, to slay Vr̥tra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 And here a plural “when the prizes (are set)” would be more accurate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battles be victorious. We seek thee, Lord of Hundred Powers,  
      Indra, that Vrtra may be slain.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei siegreich in den Preiskämpfen; wir beschwören dich, ratreicher Indra, den Vritra zu erschlagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei Sieger in den Kämpfen du, den Feind zu tödten flehn wir dich, O Indra, hundertwirkender,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь победителем в битвах за награду!  
 Мы взываем к тебе, о стоумный  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षू꣡ मृ꣡धो जनु꣡षा दा꣡नम् इ꣡न्वन्न्  
 अ꣡हन् ग꣡वा मघवन् संचकानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡वर्तयो म꣡नवे गातु꣡म् इछ꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अत्र॑ । दा॒सस्य॑ । नमु॑चेः । शिरः॑ । यत् । अव॑र्तयः । मन॑वे । गा॒तुम् । इ॒च्छन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 हे **मघवन्** धनवन्निन्द्र **संचकानः** अस्माभिः स्तूयमानस्त्वम् ॥ संपूर्वः कायतिः शब्दकर्मा । तस्य लडर्थे लिटि रूपम् ॥ **दानं** देवानां बाधकं वृत्रमसुरं **गवा** वज्रेण **इन्वन्** प्रेरयन् हिंसन् **जनुषा** जन्मना **मृधः** तदनुचरान् राक्षसादीन् शत्रून् **सु** सुष्ठु **वि** **अहन्** विजघन्थ । इन्द्रस्यासुरा जन्मारभ्य शत्रव इत्यर्थः । हे इन्द्र त्वम् **अत्र** अस्मिन् युद्धे **मनवे** नमुचिनापहृतगोधनाय मह्यं **गातुं** सुखम् **इच्छन्** अभिलषन् **नमुचेः** एतन्नामकस्य **दासस्य** उपक्षपयितुरसुरस्य संबन्धि **शिरः** शीर्षं **यत्** यदा **अवर्तयः** अचूर्णयः तदा शत्रून् विजघन्थेति पूर्वेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,14 +135,14 @@ genre M
 Desiring to do good to Manu: manave gātum icchan: gātum = sukham; identifying Manu with the ṛṣi of the **sūkta**, namucina apāhṛtagodhanāya mahyam, to me whose wealth of cattle has been carried off by Namuci, an **asura**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You hewed apart those negligent by nature, stimulating giving, o  bounteous one, taking pleasure along with the cow,  
 at the time when you caused the head of the Dāsa Namuci to roll,  
 seeking an (open) way for Manu—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are several uncertainties in this vs. As often the function and syntactic affiliation of janúṣā are unclear. I construe it with mṛ́dhaḥ, but Geldner and Witzel Gotō (in different ways) take it with Indra. This is also possible.
 
@@ -155,23 +155,23 @@ otherwise). And finally I cannot think of a (solitary) cow that figures prominen
 I am not certain what pāda d is conveying. How is it that Indra’s setting Namuci’s head to rolling involves “seeking a way for Manu”? Unfortunately we can glean too little about Namuci from the RV (where he is mentioned only 9x) to know what threat he posed that required Indra to kill him. On the other hand, judging from the usual troubles caused by Dāsas and, particularly, from vs. 9 (see published introduction.), these foes stand in the way of Ārya movement into new territory. Thus Indra by eliminating Namuci would open the way for Manu and the rest of the advancing Ārya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Maghavan, from the first didst scatter foemen, speeding, while joying in the milk, the Giver.  
      There, seeking man's prosperity, thou torest away the head of Namuci the Dasa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du zersprengtest gleich bei deiner Geburt die Verächter völlig, der Freigebigkeit ihren Lauf lassend, wenn du dich der Kuh erfreust, o Gabenreicher. Das war damals als du das Haupt des Dasa Namuci ins Rollen brachtest, für Manu die freie Bahn suchend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach deiner Art zerschlugst du bald die Feinde, durch Trank erfrischt, die Gabe fördernd, starker, Als dort das Haupt des Namutschi, des Dämons, du rollen liessest, Heil dem Menschen wirkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты с самого рожденья полностью разгромил хулитилей,  
 Поощряя дар, о щедрый, когда ты радовался корове.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ त्वं꣡ विप्र मेध꣡साताव्  
 अ꣡ग्ने हिनो꣡षि ध꣡नाय  
 स꣡ त꣡वोती꣡ गो꣡षु ग꣡न्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 सः । तव॑ । ऊ॒ती । गोषु॑ । गन्ता॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -100,49 +100,49 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **अग्ने** **विप्र** **त्वं** **यं** मर्यंन  **मेधसातौ** यज्ञस्य संभजने **हिनोषि** प्रेरयसि **धनाय** गवादिधनलाभाय **सः** यजमानः **तव** **ऊती** ऊत्या रक्षणेन **गोषु** **गन्ता** भवति । गोमान् भवतीत्यर्थः ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wise (**Agni**), he whom in his performance of the sacrifice you incite to attain wealth, by your protectionwalks (lord) among crowds of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom you impel toward the stakes at the winning of the  
 wisdom—o Agni, inspired poet—  
 he by your help will arrive at cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I would delete “the” before “wisdom” in the published translation
 
 I consider gántā a possible, but not necessary ex. of a periphrastic future.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sage Agni, be whom thou dost urge, in worship of the Gods, to wealth,  
      With thine assistance winneth kine.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Once from old age ye two released Chyavāna; With a swift courser ye presented Pedu; Ye rescued Atri from distress and darkness; The fettered Jāhusha ye placed in freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wen du, beredter Agni, zum Gewinn aneiferst, wenn es sich um die Meisterschaft handelt, der kommt mit deiner Hilfe zu den Kühen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welchem, Weiser du, beim Wettkampf hilfst, dass er den Preis erringe, Der gelangt durch dich zu Rindern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

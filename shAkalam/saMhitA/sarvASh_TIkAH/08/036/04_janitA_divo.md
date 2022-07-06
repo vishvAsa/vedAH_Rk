@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जनिता꣡ दिवो꣡ जनिता꣡ पृथिव्याः꣡  
 पि꣡बा सो꣡मम् म꣡दाय कं꣡ शतक्रतो  
@@ -16,7 +16,7 @@ ChandaH = "शक्वरी"
 मरु꣡त्वाँ इन्द्र सत्पते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -37,7 +37,7 @@ genre M;; line affected by realignment;; repeated line
 यम् । ते॒ । भा॒गम् । अधा॑रयन् । विश्वाः॑ । से॒हा॒नः । पृत॑नाः । उ॒रु । ज्रयः॑ । सम् । अ॒प्सु॒ऽजित् । म॒रुत्वा॑न् । इ॒न्द्र॒ । स॒त्ऽप॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
@@ -145,14 +145,14 @@ genre M;; line affected by realignment;; repeated line
 हे इन्द्र त्वं **दिवः** द्युलोकस्य **जनिता** जनकोऽसि । **पृथिव्याः** च **जनिता** असि । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, are the genitive rator of heaven, the genitive rator of earth; drink joyfully, **Śatakratu**, the **Soma** for yourexhilaration-- that portion which (the gods) assigned you, **Indra**, lord of the virtuous, who are the victor over all(hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the **Maruts**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Begetter of heaven, begetter of earth—  
 – o you of a hundred resolves, for exhilaration drink the soma that they  fixed as your portion—  
@@ -160,22 +160,22 @@ you winning all battles, (winning) the broad expanse, entirely victorious  amid 
 settlements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Creator of the heaven, creator of the earth, O Satakratu, drink Soma to make thee glad.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist des Himmels Erzeuger, Erzeuger der Erde. Trink den Soma zum Rausche, Ratreicher, den sie dir als Anteil bestimmten - der du alle feindlichen Heere siegreich bestanden hast, den weiten Wettlauf, der du die Gewässer insgesamt ersiegst, im Verein mit den Marut, Indra, rechtmäßiger Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Zeuger und der Erde Zeuger du, den Soma trink zum Rausch, o vielfach wirkender, Der durch das dir gereichte Theil du alle Schlachten und das weite Feld gewinnst, die Flut erbeutend mit den Maruts, Indra, Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Ты) родитель неба, родитель земли.  
 Для опьянения пей сому, о стоумный,  

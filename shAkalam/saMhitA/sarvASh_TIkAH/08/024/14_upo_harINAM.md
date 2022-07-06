@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो ह꣡रीणा᳐म् प꣡तिं  
 द꣡क्षम् पृञ्च꣡न्तम् अब्रवम्  
 नूनं꣡ श्रुधि स्तुवतो꣡ अश्विय꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नू॒नम् । श्रु॒धि॒ । स्तु॒व॒तः । अ॒श्व्यस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -86,7 +86,7 @@ genre M
 **हरीणां** हरितवर्णानामश्वानां **पतिं** पालयितारं **दक्ष** वर्धकं स्वबलं **पृञ्चन्तम्** । ‘पृची संपर्के '। मरुत्सु योजयन्तम् । यद्वा। शत्रुषु स्वबलमायुधादिभिः संपर्चयन्तम् । एतादृशमिन्द्रं त्वाम् **उपो** **अब्रवम्** । विश्वमना अहं स्तोत्रं करवाणि । **अश्व्यस्य** । व्यश्वो नामर्षिरश्वशब्देनोच्यते । तस्य पुत्रस्य **स्तुवतः** स्तोत्रं कुर्वतो मम संबन्धिनीं त्वद्विषयां स्तुतिं **नूनं** संप्रति **श्रुधि** शृणु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,35 +99,35 @@ Dakṣam = **radhaḥ**;
 Aśvya = the son of **Aśva**, or Vyaśva
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have addressed the lord of the fallow bays as he engorges his skill. Now listen to the son of Aśva as he praises.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The expression dákṣam pṛñcántam is somewhat peculiar, and Geldner takes the two words as separate qualifiers of Indra: “dem Verständigen, Spendenden.” However, I.141.1 bhágaṃ dákṣaṃ ná papr̥cāsi suggests that dákṣam should be the object of the pres. participle. By the tr. “engorging skill” I mean that Indra fills his latent quality (skill) with energy (perhaps derived from soma and praise) and makes it available to use.
 
 Acdg. to the Anukramaṇī, our poet Viśvamanas has the patronymic Vaiyaśva (vs. 23), that is, son of Vyaśva (‘without horses’), and the poet mentions his family in vss. 22, 28-29 with the distracted stem vi yaśva-. But in this verse he refers to himself instead as aśvi yá-, also distracted, which, on the one hand, is simply an anagram of the family name with the first two syllables reversed, but, on the other, credits him with possession of (or at least relationship to) horses, whereas the unmetathesized version announces him as horse-less.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I spake to the Bay Coursers' Lord, to him who gives ability:  
      Now hear the son of Asva as he praises thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe dem Herrn der Falben zugeredet, dem Verständigen, Spendenden. Höre nun auch auf den Sänger, den Asvinschen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich rief den Herrn der Füchse an, ihn, welcher Tüchtigkeit verleiht; So höre nun den preisenden, des Açva Sohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я обратился к господину буланых коней,  
 Искусному, дарящему.  

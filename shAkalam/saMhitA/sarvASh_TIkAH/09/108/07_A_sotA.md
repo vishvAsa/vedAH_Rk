@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सोता प꣡रि षिञ्चत  
 अ꣡श्वं न꣡ स्तो꣡मम् अप्तु꣡रं रजस्तु꣡रम्  
 वनक्रक्ष꣡म् उदप्रु꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 व॒न॒ऽक्र॒क्षम् । उ॒द॒ऽप्रुत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -83,21 +83,21 @@ genre M
 हे ऋत्विजः **आ** **सोत** सोममभिषुणुत ॥ ‘ षुञ् अभिषवे' । लोटि छान्दसो विकरणस्य लुक् । ‘ तप्तनप्तनथनाश्च ' इति तस्य तबादेशः ॥ किंच **परि** **षिञ्चत** परितस्तं वसतीवर्यादिभिः सिञ्चत । कीदृशम् । **अश्वं** **न** अश्वमिव वेगिनं **स्तोमं** स्तोतव्यम् **अप्तुरम्** अन्तरिक्षस्थितानामुदकानां प्रेरकं **रजस्तुरं** तेजसां च प्रेरकम् । **वनक्रक्षम्** उदकानां कर्षकम् । यद्वा । काष्ठेषु पात्रेषु विप्रकीर्णम् । **उदप्रुतम्** उदके गच्छन्तं प्लवमानं सोममभिषुणुताभिषिञ्चत च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour forth (the **Soma**), sprinkle it round like a horse, adorable, dispenser of rain, dispenser of light, showerer of fluid, swimming in water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Press it, sprinkle it around, as one sprinkles a horse—(the soma that is  stoma, i.e.,) the praise song that crosses the waters, crosses the airy  
 realms,  
 that is howling in the wood and swimming in the waters,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two sleight-of-hand manoeuvres. The first involves the simile and frame with pári ṣiñcata ‘sprinkle around’. This verb ordinarily takes an acc. of the liquid sprinkled; see for ex. the immed. preceding hymn with the same lexeme: IX.107.1 pári … ṣiñcata sutám “sprinkle around the pressed (drink).” But the acc. in the simile, áśvaṃ ná is the target of the sprinkling, not the liquid. So although the cases agree (implicitly: there is no expressed acc. in the frame), they have different syntactic functions (the opposite of my “case disharmony”). So Geldner explicitly (n. 7a). For horses as obj. with √sic, see IV.43.6 síndhur ha vāṃ rasáyā siñcad áśvān “The Sindhu River sprinkles your [=Aśvins’] horses with the Rasā.” The 2nd sleight of hand follows immediately. Both the verb and the string of acc. that follow demand the obj. *sómam, but instead we find the near rhyme form stómam ‘praise’. Rather than emend this to the easier reading (as Oldenberg seems inclined to do, along with numerous others; see his comm.), it is better to accept the implicit equation of the two ritual elements: the offered liquid and the offered words. This is not the only place in the RV where this trope is found.
 
@@ -112,23 +112,23 @@ Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Press ye and pour him, like a steed, laudworthy, speeding through the region and the flood,  
      Who swims in water, roan in wood;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Presset aus, gießet ihn um, wie man ein Roß begießt, den Gegenstand des Preises, der das Wasser durchdringt, den Raum durchdringt, den im Holze Lärmenden, im Wasser Schwimmenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Presst aus, ergiesst den emsigen, den Soma, der gleich einem Ross die Luft durchdringt, In Fluten braust, im Wasser schwebt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжимайте (его), поливайте кругом,  
 Как коня, (эту) хвалу, (его,) пересекающего воды, пересекающего пространство,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ हरि꣡तो द꣡श  
 सू꣡रो अयुक्त या꣡तवे  
 इ꣡न्दुर् इ꣡न्द्र इ꣡ति ब्रुव꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्दुः॑ । इन्द्रः॑ । इति॑ । ब्रु॒वन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च **इन्दुः** सोमः **इन्द्र** **इति** **ब्रुवन्** **त्याः** ताः **दश** दशसंख्याका: **हरितः** दिशः प्रति **यातवे** गन्तुं **सूरः** सूर्यस्यैतशम् **अयुक्त** युनक्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,13 +102,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Tyā harito **daśa**: **haritaḥ** = horses or rays of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these ten tawny mares of the Sun he has yoked, to drive,  
 the drop, announcing, “(I go) to Indra.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b of this vs., sū́ro ayukta yā́tave, consists entirely of words repeated from the previous vs.; in addition, substituting for étaśam in 8a, we find an expanded horse term, tyā́ haríto dáśa “these ten tawny mares” as obj. of ayukta. Again Soma is being identified with the sun and his ritual journey identified with the sun’s transit; again the cosmic and the ritual are intertwined, for the ten mares are probably both the Sun’s horses (as Lüders points out, p.
 
@@ -128,23 +128,23 @@ On this tṛca see published introduction. In these vss. Soma is compared to the
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And those ten Coursers, tawny-hued, he harnessed that the Sun might come  
      Indu, he said, is Indra's self.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und die zehn Falbinnen der Sonne hat er angeschirrt, um zu fahren, also sprechend: "Der Saft ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die zehn Goldrosse hat sich schon der Sonnengott zur Fahrt geschirrt, Der Indu, der sich Indra nennt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

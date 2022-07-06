@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् एषाम् · अमृ꣡तानां᳐꣡ गीः꣡  
 सर्व꣡ताता ये꣡ कृप꣡णन्त र꣡त्नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡ नो धान्तु वसवि꣡यम् अ꣡सामि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धिय॑म् । च॒ । य॒ज्ञम् । च॒ । साध॑न्तः । ते । नः॒ । धा॒न्तु॒ । व॒स॒व्य॑म् । असा॑मि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -119,37 +119,37 @@ genre M
 **इयमेषाममृतानां** यष्टव्यानां देवानां **गीः** स्तुतिः क्रियत इति शेषः । **ये** देवाः **सर्वताता** सर्वतातौ यज्ञे **कृपणन्त** प्रयच्छन्ति याच्यन्ते वा **रत्नं** रमणीयं धनम् । **धियं** **च** अस्मदीयां स्तुतिं च **यज्ञं** **च** साधन्तः साधयन्तः **ते** **नः** अस्मभ्यं **वसव्यं** वसुसमूहम् **असामि** अनल्पमसाधारणं वा **धान्तु** प्रयच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (is) the praise of these immortal (Gods), who bestow wealth at the sacrifice; perfecting our praiseand sacrifice, may they bestow upon us unequalled riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the song for these immortals, who in their entirety long for (it as  their) treasure.  
 Bringing to success both inspired thought and sacrifice, let them  
 establish a mass of goods for us, and not by halves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the song of those Immortal Beings who long for treasures in their full perfection.  
      May these, completing prayers and sacrifices, bestow upon us wealth where naught is wanting.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Lobrede ist für diese Unsterblichen in ihrer Gesamtheit, die sich nach einer Perle von Lied sehnen. Dichtung und Opfer zu gutem Gelingen bringend, sollen die uns vollen Reichtum verschaffen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies ist das Lied der Götter, die unsterblich bei ihrer Macht sich doch nach Schätzen sehnen; Die das Gebet und Opfer reichlich segnen, sie mögen unvergleichlich Gut uns schenken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот хвалебная песнь для этих бессмертных,  
 Которые все, как один, жаждут (этого) сокровища.  

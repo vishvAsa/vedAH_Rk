@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स꣡द्मेव पशुमा꣡न्ति हो꣡ता  
 रा꣡जा न꣡ सत्यः꣡ स꣡मितीर् इयानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सी꣡दन् मृगो꣡ न꣡ महिषो꣡ व꣡नेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सोमः॑ । पु॒ना॒नः । क॒लशा॑न् । अ॒या॒सी॒त् । सीद॑न् । मृ॒गः । न । म॒हि॒षः । वने॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -119,43 +119,43 @@ genre M
 **होता** देवानामाह्वातर्त्विक् **पशुमन्ति** पशुमतः **सद्मेव** यज्ञगृहान् यथोपगच्छति । किंच **राजा** **न** यथा राजा **सत्यः** सत्यकर्मा सन् **समितीः** । संग्रामनामैतत् सम्यक् प्राप्यते योद्धृभिरत्रेति । तान् संग्रामान् **इयानः** गच्छन् भवति तथा **पुनानः** **सोमः** **वनेषु** वननीयेषु वसतीवर्याख्येषूदकेषु **सीदन्** **मृगो** **न** **महिषः** महिषाख्यो मृग इवोदकेषु तिष्ठन् **कलशान्** द्रोणाभिधानान् **अयासीत्** परियाति । यद्वा । महिषो महान् पूज्यो वा सोमः कलशान् परिगच्छतीति ॥ ॥२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As theministrant priest proceeds to the hall where the victim is stationed, as a just king marches to battle, the **Soma** undergoing purification enters the pitcheers like the wild buffalo in the waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Circling around, like a Hotar circling the seats provided with (sacrificial)  animals, going to assemblies like a true king,  
 Soma being purified has traveled to the tubs, taking his seat like a wild  buffalo in the woods [/wooden cups].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a contains one of the few technical references to the animal sacrifice in the RV. See the almost identical expression in IX.97.1.
 
 Note that satyá- returns here, where ‘true’ or ‘actual, real’ would both work.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the priest seeks the station rich in cattle, like a true King who goes to great assemblies,  
      Soma hath sought the beakers while they cleansed him, and like a wild bull, in the wood hath settled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie ein echter Hotri um die Plätze an denen die Opfertiere sind, herumwandelnd, wie ein echter König in die Versammlungen wandelnd, ist der sich läuternde Soma in die Krüge gegangen, wie ein Büffeltier in den Wäldern, in den Holzgefäßen sich niederlassend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie um den vieh-versehnen Sitz der Priester, wie zur Versammlung geht der gute König, So ging jetzt Soma flammend zu den Kufen, sich setzend wie im Wald der wilde Büffel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно хотар, (обходящий) вокруг мест с жертвенными животными,  
 Словно истинный царь, отправляющийся в собрания,  

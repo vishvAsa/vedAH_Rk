@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मेनादित्या꣡ बलि꣡नः  
 सो꣡मेन पृथिवी꣡ मही꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उप꣡स्थे सो꣡म आ꣡हितः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अथो॒ इति॑ । नक्ष॑त्राणाम् । ए॒षाम् । उ॒पऽस्थे॑ । सोमः॑ । आऽहि॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somenādityā* ← *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
@@ -89,7 +89,7 @@ popular;; epic anuṣṭubh (380)
 **सोमेनादित्याः** अदितेः पुत्रा इन्द्रादयः **बलिनः** भवन्ति । ऐन्द्रवायवादिग्रहपरिग्रहादिति भावः । तथा **सोमेन** आहुत्यात्मनाग्नौ हुतेन **पृथिवी** भूमिः **मही** महती भवति । आहुत्या वृष्टिद्वारेण सस्यादिसंपत्तेः । **अथो** अपि चायं सोमः **नक्षत्राणामेषाम्** । न क्षं त्रायन्त इति नक्षत्रा ग्रहचमसादयः । तेषामेषाम् **उपस्थे** **सोमः** रसात्मकः **आहितः** । यद्वा । प्रसिद्धानामेव नक्षत्राणामुपस्थ उपस्थाने द्युलोके सोम आहितः । तृतीयस्यामितो दिवि सोम आसीत्तं गायत्र्याहरत्' (तै. ब्रा. ३. २. १. १ ) इत्यादिश्रुतेः । देवतारूपसोमपक्षे । सोमेनादित्या देवा बलिनो बलवन्तो भवन्ति तस्यैकैककलास्वादनात् । प्रथमां पिबते वह्रिर्द्वितीयां पिबते रविः' इत्यादिस्मृतेः । सोमेन पृथिवी मही। अमृतसेकेनौषध्याद्यभिवृद्ध्या पृथिव्या बलवत्त्वम् । चन्द्रस्य नक्षत्राणामुपस्थे स्थितिः प्रसिद्धा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,29 +100,29 @@ popular;; epic anuṣṭubh (380)
 By Soma earth is great: I.e., by the Soma libations offered at sacrifices, or by the portion of the moonof which the gods are said to partake. The earth is nourished by the libations as the cause of rain, or by themoon as the lord of plural nts. The **Nakṣatras** may mean the vessels that hold the libations, or lunar asterisms
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By Soma the Ādityas are strong; by truth is the earth great.  
 And in the lap of these heavenly bodies Soma is set.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By Soma are the Adityas strong, by Soma mighty is the earth.  
      Thus Soma in the midst of all these constellations hath his place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch Soma sind die Aditya´s stark, durch Soma ist die Erde groß, und in den Schoß dieser Sternenbilder ist Soma, der Mond, gestellt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aditja's sind durch Soma stark, | durch Soma ist die Erde weit; | darum ist Soma hingesetzt | in dieser Sterne Mittelpunkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сомой Адитьи сильны,  
 Сомой земля велика.  

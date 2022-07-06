@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋतायि꣡नी मायि꣡नी सं꣡ दधाते  
 मित्वा꣡ शि꣡शुं जज्ञतुर् वर्ध꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कवे꣡श् चित् त꣡न्तुम् म꣡नसा विय꣡न्तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 विश्व॑स्य । नाभि॑म् । चर॑तः । ध्रु॒वस्य॑ । क॒वेः । चि॒त् । तन्तु॑म् । मन॑सा । वि॒ऽयन्तः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtāyinī* ← *ṛtāyin*
 - \[noun\], nominative, dual, neuter
@@ -118,7 +118,7 @@ genre M
 **ऋतायिनी** ऋतवत्यौ सत्यवत्यौ अत एव **मायिनी** प्रज्ञावत्यौ कर्मंयुक्ते वा द्यावापृथिव्यौ यज्ञसाधनभूते अरणी वा इममग्निं **सं** **दधाते** सम्यक् धारयतः । अग्निसूर्यात्मना केवलाग्न्यात्मना वा संदधाते। **मित्वा** कालपरिमाणं कृत्वा यद्वा संपरिच्छिद्य **शिशुं** शंसनीयं बालमग्निं **जज्ञतुः** जनयतः। **वर्धयन्ती** वर्धयन्त्यौ द्यावापृथिव्यौ लोके यथा परिच्छेदाय पुत्रं पितरौ जनयतस्तद्वत् । ततः **विश्वस्य** सर्वस्य **चरतः** जङ्गमस्य **ध्रुवस्य** स्थावरस्य च जगतः **नाभिं** नाभिभूतं मध्यं प्रधानभूतं वा **कवेः** मेधाविनोऽग्नेः **तन्तुं** तनितारं वैश्वानरराख्यमंशमेव **मनसा** **वियन्तः** विविधं गच्छन्तो मनुष्याः सुखेन युज्यन्त इति शेषः । तं वयं यजाम इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,7 +129,7 @@ genre M
 The threadof the sage: kaveścit tantum = agneḥ tanitāram vaiśvānarākhyam aṃśam, the thread or connector of Agni--the portion called **vaiśvānara**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two possessing both truth and magical power have conjoined with  one another. Having given him his measure, they have given birth to  
 the babe, making him grow—  
@@ -137,23 +137,23 @@ him who is the navel of everything, both the moving and the fixed. They  [=gods?
 the poet,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Holy Pair, of wondrous power, have coupled: they formed the Infant, they who bred produced him.  
      The central point of all that moves and moves not, the while they wove the Sage's thread with insight
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden, die den Drang nach Wahrheit besitzen und doch verwandlungsfähig sind, haben sich zusammengetan. Sie bildeten und erzeugten den Kleinen und zogen ihn groß, den Nabel alles dessen, was geht und fest steht, den Faden sogar des Sehers mit Bedacht abschneidend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das weise, heil'ge Mütterpaar empfing ihn als Frucht und formte, zeugte ihn und nährt' ihn, Den Nabel ihn des festen und bewegten, umgehn wir und des weisen Werk mit Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соединились двое преданных закону, (но) способных к превращениям:  
 Создав (его), они породили ребенка и взращивали (его) -  

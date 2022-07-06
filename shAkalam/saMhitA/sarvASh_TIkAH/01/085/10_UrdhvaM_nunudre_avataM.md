@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वं꣡ नुनुद्रे अवतं꣡ त꣡ ओ꣡जसा  
 दादृहाणं꣡ चिद् बिभिदुर् वि꣡ प꣡र्वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 म꣡दे सो꣡मस्य र꣡णियानि चक्रिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 धम॑न्तः । वा॒णम् । म॒रुतः॑ । सु॒ऽदान॑वः । मदे॑ । सोम॑स्य । रण्या॑नि । च॒क्रि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvaṃ* ← *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 अत्रेयमाख्यायिका । गोतम ऋषिः पिपासया पीडितः सन् मरुत उदकं ययाचे । तदनन्तरं मरुतोऽदूरस्थं कूपमुद्धृस्य यत्र स गोतम ऋषिस्तिष्ठति तां दिशं नीत्वा ऋषिसमीपे कूपमवस्थाप्य तत्पार्श्वे आहावं च कृत्वा तस्मिन्नाहावे कूपमुत्सिच्य तमृषिं तेनोदकेन तर्पयांचक्रुः । अयमर्थोऽनयोत्तरया च प्रतिपाद्यते ॥ **ते** मरुतः **अवतम्** । अवस्तात्ततो भवतीति अवतः कूपः । कूपनामसु च  ‘ अवतः अवटः ' ( नि. ३. २३.७ ) इति पठितम् । तम् **ऊर्ध्वम्** उपरि यथा भवति तथा **ओजसा** स्वकीयेन बलेन **नुनुद्रे** प्रेरितवन्तः उत्खातवन्त इत्यर्थः । एवं कूपमुत्खाय ऋषेराश्रमं प्रति नयन्तः मरुतः मार्गमध्ये **ददृहाणं** प्रवृद्धं गतिनिरोधकं **पर्वतं** **चित्** पर्ववन्तं शिलोच्चयमपि **वि** **बिभिदुः** विशेषेण बभञ्जुः। **सुदानवः** शोभनदानास्ते **मरुतः** **वाणं** शतसंख्याभिः तन्त्रीभिर्युक्तं वीणाविशेषं **धमन्तः** वादयन्तः **सोमस्य** **मदे** सोमपानेन हर्षे सति **रण्यानि** स्तुत्यानि रमणीयानि धनानि **चक्रिरे** स्तोतृभ्यः कुर्वन्ति ॥ नुनुदे । ‘णुद प्रेरणे'। लिटि ‘इरयो रे ' इति रेआदेशः । ददृहाणम् ।  ‘ दृह दृहि वृद्धौ । लिटः कानच् । धमन्तः ।  ‘ ध्मा शब्दाग्निसंयोगयोः' ।  ‘ पाघ्रा इत्यादिना धमादेशः । वाणम् ।  ‘ अण रण वण शब्दार्थाः'। कर्मणि घञ् । कर्षात्वतः०' इत्यन्तोदात्तत्वम् । रण्यानि । रणतेर्भावे ' वशिरण्योरुपसंख्यानम् ' ( पा. सू. ३. ३. ५८, ३) इति अप् । ततः  ‘ भवे छन्दसि ' इति यत् । यतोऽनावः' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,29 +143,29 @@ Vāṇam = a lute, a **vīṇā** with a hundred strings;
 **Dhamanta** = blowing, applied to a pipe as a wind isntrument; **avataḥ** **avaṭaḥ**; avataḥ **kūpaḥ** (**Nirukta** 3.23.7)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They pushed the well upward with their power; they split apart the  mountain, though it was firmly fixed.  
 Blowing their music, the Maruts of good drops performed these joyous  (deeds) in the exhilaration of soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They with their vigorous strength pushed the well up on high, and clove the cloud in twain though it was passing strong.  
      The Maruts, bounteous Givers, sending forth their voice, in the wild joy of Soma wrought their glorious deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie stießen den Brunnen mit Kraft nach oben; sogar den festen Fels spalteten sie. Ihre Musik blasend haben die freigebigen Marut im Rausche des Soma erfreuliche Dinge verrichtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie stiessen hoch den Brunnen mit Gewalt empor, zerschmetterten den festgefügten Wolkenberg; Des Sturmes Pfeife blasend hat im Somarausch die reiche Schar der Maruts Herrliches vollbracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Своей) силой они заставили забить вверх колодец.  
 Они раскололи даже твердую гору.  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एना꣡ वो अग्निं꣡ न꣡मसा  
 ऊर्जो꣡ न꣡पातम् आ꣡ हुवे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡श्वस्य दूत꣡म् अमृ꣡तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्रि॒यम् । चेति॑ष्ठम् । अ॒र॒तिम् । सु॒ऽअ॒ध्व॒रम् । विश्व॑स्य । दू॒तम् । अ॒मृत॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
@@ -109,7 +109,7 @@ genre M
 **उर्जः** बलस्य **नपातं** पुत्रम् । ' सूनुः नपात्' इत्यपत्यनामसु पाठात् । प्रियं प्रियमस्माकं **चेतिष्ठम्** अतिशयेन ज्ञातारं प्रज्ञापकं वा **अरतिं** गन्तारं स्वामिनं वा **स्वध्वरं** सुयज्ञं **विश्वस्य** सर्वस्य यजमानस्य **दूतम्** **अमृतं** नित्यम् अग्निम् **एना** एनेन **नमसा** स्तोत्रेण । यद्यप्यत्रान्वादेशो नास्ति तथापि छान्दसत्वादिदंशब्दस्यैनादेशः । यद्वा । एनैनमित्यग्नेर्विशेषणम् । समानार्षत्वात् पूर्वेषु सूक्तेष्वादिष्टत्वाद्वसिष्ठेनान्वादिश्यते । **वः** युष्मदर्थम् **आ** **हुवे** आह्वयामि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 The unobstructed: aratim gantāram = the goer,or svāminam, lord; or, either having sufficient understanding, paryāpta matim, or one never desisting fromactivity, uparamarahitam sadodyamayutam; **Yajus**. 15.32
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you with this homage I summon Agni, the child of nourishment, the dear, most visible circle of spokes that makes the rite good, the  
 immortal messenger for all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH this my reverent hymn I call Agni for you, the Son of Strength,  
      Dear, wisest envoy, served with noble sacrifice, immortal messenger of all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dieser Verbeugung lade ich für euch den Agni, das Kind der Kraft ein, den lieben, merksamsten Rosselenker, der gut opfert, den unsterblichen Boten eines jeden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit diesem Liede rufe ich den Agni an, den Sohn der Kraft, Den lieben weisen, der des Opfers wartet schön, den Gott, den Boten aller Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этим поклонением я призываю  
 Для вас Агни, отпрыска мощи,  

@@ -8,7 +8,7 @@ title = "+039"
 ‘प्र यदित्था' इति दशर्चं चतुर्थं सूक्तम् । घोरपुत्रस्य कण्वस्यार्षं मरुद्देवताकम् । युजः सतोबृहत्यः । अयुजो बृहत्यः ।  ‘ प्र यद्दश प्रागाथं तु ' इत्यनुक्रमणिका । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 39  
 Maruts  
@@ -19,7 +19,7 @@ Here the poet hopes to harness the overwhelming power of the Maruts in order  to
 The usual buoyant descriptions of the Maruts’ appearance and behavior as the  thunderstorm are muted in this hymn. They serve only to illustrate what power  might be available to the poet and his people (vss. 3, 5–6).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

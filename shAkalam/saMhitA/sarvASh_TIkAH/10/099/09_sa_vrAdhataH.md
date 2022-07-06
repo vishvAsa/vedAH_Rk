@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ व्रा꣡धतः शवसाने꣡भिर् अस्य  
 कु꣡त्साय शु꣡ष्णं कृप꣡णे प꣡रादात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡त्कं यो꣡ अस्य स꣡नितोत꣡ नॄणा꣡म्+
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । क॒विम् । अ॒न॒य॒त् । श॒स्यमा॑नम् । अत्क॑म् । यः । अ॒स्य॒ । सनि॑ता । उ॒त । नृ॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **सः** इन्द्रः **व्राधतः** । महन्नामैतत् । महतोऽपि शत्रून् **शवसानेभिः** बलमाचरद्भिरायुधैः **अस्य** अस्यतु । ‘ असु क्षेपणे '। व्यत्ययेन मध्यमः। **कुत्साय** एतन्नामकाय **कृपणे** स्तोत्रे । कृपतिः स्तुतिकर्मा । **शुष्णं** शोषकमेतन्नामकमसुरं **परादात्** पराभूय खण्डितवान्। ‘कुत्साय शुष्णमशुषं नि बर्हीः ' (ऋ. सं. ४. १६. १२) इति मन्त्रान्तरम् । किंच **अयम्** इन्द्रः **कविम्** उशनसम् । कविरिति पितृनाम्ना पुत्रस्यापि व्यवहार उपचारात् । **शस्यमानं** स्तुवन्तम् **अनयत्** वशं प्रापयत्तस्य विरोधिनम् । यद्वा । कविं भार्गवमेव स्तोतृभिः शस्यमानं स्ववशमनयत् । **यः** कविः **अस्य** इन्द्रस्य **अत्कं** रूपं **सनिता** संभक्ता भवति । ‘न लोकाव्यय° ' इति षष्ठीप्रतिषेधः । **उत** अपि च **नृणां** वृष्ट्यादिनेतॄणामिन्द्रानुचराणां मरुतां यः कविः सनिता तमनयदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Kavi = **Uśanā**, the son of Kavi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with his (men) swelling with strength, (he smashed) the arrogant  ones. He handed Śuṣṇa over to Kutsa for the Karpan [?].  
 This one here led the poet who was being praised, who won his cloak  and was the winner among superior men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He with his potent Friends gave up the mighty, gave gusnia up to Kutsa for affliction.  
      He led the lauded Kavi, he delivered Atka as prey to him and to his heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er bezwang mit seinen Gewaltigen die Übermächtigen; zu Gunsten des Kutsa gab er den Susna dem Elend preis. Er führte den gelobten Kavi, der dessen Gewandung trug und der Gewinner unter den Herren ward.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er hat mit seinen starken Helden [den Maruts] die gewaltigen, hat den Çuschna dem Kutsa zu Liebe ins Elend dahingegeben; er leitete den gepriesenen weisen Atka, welcher ihm und den Männern Gaben spendete.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Со своими могущественными он (покорил) кичащихся.  
 Шушну он предоставил горькой доле для Кутсы.  

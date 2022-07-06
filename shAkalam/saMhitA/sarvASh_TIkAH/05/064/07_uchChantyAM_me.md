@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उछ꣡न्तियाम् मे यजता꣡  
 देव꣡क्षत्रे रु꣡शद्गवि  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 बि꣡भ्रताव् अर्चना꣡नसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 सु॒तम् । सोम॑म् । न । ह॒स्तिऽभिः॑ । आ । प॒ट्ऽभिः । धा॒व॒त॒म् । न॒रा॒ । बिभ्र॑तौ । अ॒र्च॒नान॑सम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchantyām* ← *vas*
 - \[verb noun\], locative, singular
@@ -101,7 +101,7 @@ genre M
 **उच्छन्त्याम्** उषसि । मे सोममिति संबन्धः । **यजता** यष्टव्यौ **रुशद्गवि** रोचमानरश्मौ प्रातःसवने **देवक्षत्रे** देवानां क्षत्रं बलं यस्मिन् यज्ञे तद्देवक्षत्रम् । तस्मिन् **मे** मदीयं **सुतम्** अभिषुतं **सोमं** **न** । नेति संप्रत्यर्थे । इदानीं **हस्तिभिः** हस्तवद्भिः ॥ हन्तेर्गतिकर्मणो हस्तशब्दः ॥ गमनसाधनपादवद्भिरित्यर्थः । **पड्भिः** पादवद्भिश्च पादचतुष्टयोपेतैरश्वैः **आ** **धावतम्** आगच्छतं **नरा** हे नेतारौ मित्रावरुणौ ॥ **अर्चनानसं** **बिभ्रतौ** अर्चनानसमृर्षि धारयन्तौ युवाम् ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,30 +112,30 @@ genre M
 With rapid steeds: hastibhiḥ padbhiḥ = liṭ, with **hands**, with feet, that is, wiḥ those having four feet, i.e. with horses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While (Dawn) with her shining cattle is breaking at the (sacrifice) under  divine dominion,  
 do you two worthy of the sacrifice run to me here by foot, as if  
 (cleansing by hand) soma pressed by priests with skilled hands, o you  two superior men, as you maintain Arcanānas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When morning flushes, Holy Ones! in the Gods' realm where white Cows shine,  
      Supporting Arcananas, speed, ye Heroes, with your active feet hither to my pressed Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Opferwürdigen sollen uns beistehen, wenn die Morgenröte bei Devaksatra Rusadgo aufgeht. Ihr beiden Männer, eilet mit den Füßen herbei, wie ihr mit den Armen den gepreßten Soma im Wasser, indem ihr den Arcananas unterstützet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Morgenlichte, o ihr beiden ehrwürdigen, im Götterreich, das schimmernde Rinder hat, presst mir den Soma gleichsam mit den Händen [hástebhir zu lesen] und knetet mit den Füssen ihn, o Männer, den [Dichter] Artschanānas unterstützend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пусть) двое достойных жертв (помогут) мне, когда зажигается (заря)  
 У Девакшатры Рушадго.  

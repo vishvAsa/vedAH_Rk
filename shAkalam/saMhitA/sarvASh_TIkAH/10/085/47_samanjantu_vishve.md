@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अञ्जन्तु वि꣡श्वे देवाः꣡  
 स꣡म् आ꣡पो हृ꣡दयानि नौ  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡म् उ दे꣡ष्ट्री दधातु नौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सम् । मा॒त॒रिश्वा॑ । सम् । धा॒ता । सम् । ऊं॒ इति॑ । देष्ट्री॑ । द॒धा॒तु॒ । नौ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -112,7 +112,7 @@ popular;; epic anuṣṭubh (380)
 **विश्वे** **देवाः** सर्वे देवाः **नौ** **हृदयानि** मानसानि **समञ्जन्तु** सम्यगञ्जन्तु । अपगतदुःखादिक्लेशानि कृत्वा लौकिकवैदिकविषयेषु प्रकाशयुक्तानि कुर्वन्त्वित्यर्थः। **आपः** च **सम्** अञ्जन्तु । तथा **मातरिश्वा** नौ हृदयानि **सं** **दधातु** । आवयोर्बुद्धीः परस्परानुकूलाः करोत्वित्यर्थः । **धाता** च **सं** दधातु । **देष्ट्री** दात्री फलानाम् । सरस्वतीत्यर्थः । सा च **सं** दधातु संधानं करोतु ॥ ॥२८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,33 +123,33 @@ popular;; epic anuṣṭubh (380)
 May the god of love, may the divine instrumental uctress, unite us(samuddeṣṭrī = sam u deṣṭrī). At the end of this ṛca, the following **khila** occurs: 1. May you not be a widowfor a hundred years, but for more than that may you be an obedient wife, faithful to your vows, and radiant, andillustrious; 2. May she bear many sons, and nowhere meet with misfortune; may your husband, drinking **Soma**,ever be devoted to duty; 3. Be the mother of eight sons, be beloved by and faithful to your husband everdelighting the hearts of your husband, father and brother; 4. As **Indrāṇī** is to **Indra**, as Śri to **Viṣṇu**, as Gaurīto **Śaṅkara**, so be you to your husband; 5. As **Anasūyā** is to **Atri**, as **Arundhatī** to **Vasiṣṭha**, as **Satī** toKauśika, so be you too to your husband; 6. Be confident, be cherished; **Bṛhaspati** has given you to me; beingmade the mother of progeny by me your husband, live with (me) a hundred yearṣ\] the cherished (sacrifices), at which the noble **Vṛṣākapi** becoming my friend rejoiced; (still) I, Indra, am above all(the world). \[Mādhavabhaṭt.as ascribe the ṛca to Indrāṇī the wife of Indra, deprecating the preference givento Vṛṣākapi
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let all the gods jointly and jointly the waters anoint our two hearts. Together Mātariśvan, together the Disposer, together the Director—let  them join us two together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may the Universal Gods, so may the Waters join our hearts.  
      May Matarisvan, Dhatar, and Destri together bind us close.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 May all the gods unite our hearts, And may the Waters them entwine; May Mātariśvan and Dhātar, May Deṣṭri them together join.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Götter und die Gewässer sollen unser beider Herzen verschmelzen. Matarisvan, der Schöpfer und die Weiserin sollen uns zwei zusammengeben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Zusammenfügen mögen alle Götter, zusammen die Wasser unser beider Herzen; uns beide möge Mātariçvan vereinen, uns Dhātar und Desthtrī uns.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да помажут вместе Все-Боги,  
 Вместе – воды, сердца у нас двоих!  

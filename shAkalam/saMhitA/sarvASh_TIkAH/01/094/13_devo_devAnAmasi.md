@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवो꣡ देवा꣡नाम् असि मित्रो꣡ अ꣡द्भुतो  
 व꣡सुर् व꣡सूनाम् असि चा꣡रुर् अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शर्म॑न् । स्या॒म॒ । तव॑ । स॒प्रथः॑ऽतमे । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
@@ -127,46 +127,46 @@ genre M;; repeated line
 हे **अग्ने** **देवः** द्योतमानस्त्वं **देवानां** सर्वेषाम् **अद्भुतः** महान् **मित्रः** **असि** प्रौढः सखा भवसि । तथा **चारुः** शोभनस्त्वम् **अध्वरे** यज्ञे **वसूनां** सर्वेषां धनानां **वसुः** **असि** निवासयिता भवसि । अतोऽस्माकं वसूनि देहीत्यर्थः । किंच **सप्रथस्तमे** सर्वतः पृथुतमेऽतिशयेन विस्तीर्णे **तव** त्वत्संबन्धिनि शर्मणि यज्ञगृहे **स्याम** वर्तमाना भवेम । अन्यत् पूर्ववत् ॥ शर्मन् । सुपां सुलुक् । इति सप्तम्या लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, brilliant (**Agni**), are the especial friend of the gods; you, who are graceful in the sacrifice are the confirmer of all riches; may we be present in your most spacious chamber of sacrifice; let us not, Agni, suffer injury through your friendship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a god, of the gods you are Mitra, the unerring ally. As a Vasu [/good  one], of the Vasus you are the one beloved at the rite.  
 Might we be in your broadest shelter. – O Agni, while in company with  you may we not come to harm.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both a and b turn on interpreting one word as both an appellative and a proper name: mitráḥ in a, vásuḥ in b, though they occupy different places in the parallel structures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art a God, thou art the wondrous Friend of Gods, the Vasu of the Vasus, fair in sacrifice.  
      Under, thine own most wide protection may we dwell. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou art god of the gods, a wonderful Mitra (i. e. friend, of the gods) 1. Thou art the Vasu of the Vasus, welcome at the sacrifice. May we be under thy most wide-reaching protection. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Gott unter den Göttern der heimliche Mitra, du der Vasu unter den Vasu´s bist der Liebling bei dem Gottesdienst. Wir möchten in deinem ausgedehntesten Schutz sein. - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Gott bist du, der Götter wunderbarer Freund, der guten guter, angenehm beim Opferfest, Lass uns in deinem ausgedehntsten Schutze stehn; in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты бог среди богов, ты союзник удивительный,  
 Ты Васу среди Васу, ты любимец при обряде.  

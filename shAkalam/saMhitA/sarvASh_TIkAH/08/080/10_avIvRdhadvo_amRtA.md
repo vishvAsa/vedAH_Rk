@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वीवृधद् वो अमृता अ꣡मन्दीद्  
 एकद्यू꣡र् देवा उत꣡ या꣡श् च देवीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रात꣡र् मक्षू꣡ धिया꣡वसुर् जगम्यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तस्मै॑ । ऊं॒ इति॑ । राधः॑ । कृ॒णु॒त॒ । प्र॒ऽश॒स्तम् । प्रा॒तः । म॒क्षु । धि॒याऽव॑सुः । ज॒ग॒म्या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avīvṛdhad* ← *avīvṛdhat* ← *vṛdh*
 - \[verb\], singular, Redupl. Aorist (Ind.)
@@ -130,36 +130,36 @@ genre M;; repeated line
 इयं वैश्वदेवी । हे **देवाः** हे **अमृताः** अमरणाः **वः** युष्मानयम् **अवीवृधत्** वर्धयति स्तुत्या **अमन्दीत्** तर्पयति सोमेन **एकद्यूः** ऋषिरहम् । **उत** अपि च हे **देवीः** देव्यो देवपत्न्यः **याश्च** यूयं स्थ युष्मानप्यवीवृधदमन्दीच्च । **तस्मै** **राधः** धनं **प्रशस्तं** प्रवृद्धं **कृणुत** कुरुन । **उ** इति पूरण एवकारार्थो वा । **प्रातः** प्रातरेव **मक्षु** क्षिप्रं **धियावसुः** कर्मधन इन्द्रः **जगम्यात्** आगच्छतु । इन्द्रस्य देवस्वामित्वादाधिक्यद्योतनाय पुनरभिधानम् ॥ ॥ ३६ ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “O immortal gods and all you goddesses, Ekadyū has honoured you (with his praise) and rejoiced you(with his **Soma**-offering); make his substance abundant; and may (**Indra**), who rewards pious acts wtiḥ wealth,come speedily in the morning.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ekadyū has strengthened you, you immortals; he has invigorated you,  you gods and you who are goddesses.  
 To him show generosity to be praised. – Early in the morning—soon— he should come, acquiring goods through his insight.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ekadyu hath exalted you, Immortals: both Goddesses and Gods hath he delighted.  
      Bestow upon him bounty meet for praises. May he, enriched with prayer, come soon and early.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ekadyu hat euch, ihr unsterblichen Götter, und die Göttinnen, erbaut, ergötzt. Ihm verschaffet eine anständige Ehrengabe! - Recht bald am Morgen soll sich der einstellen, der durch die Weisheit Schätze erwirbt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat euch, o Unsterbliche, Ekadju verherrlicht und erfreut, o Götter und die ihr Göttinnen seid; diesem [Ekadju] schafft gepriesene Gabe; früh morgens komme bald der reichliche Versorger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

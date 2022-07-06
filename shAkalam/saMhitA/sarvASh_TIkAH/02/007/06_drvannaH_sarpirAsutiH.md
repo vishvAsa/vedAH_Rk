@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्रु꣡अन्नः सर्पि꣡रासुतिः  
 प्रत्नो꣡ हो꣡ता व꣡रेणियः  
 स꣡हसस् पुत्रो꣡ अ꣡द्भुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 सह॑सः । पु॒त्रः । अद्भु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *drvannaḥ* ← *dru*
 - \[noun\], masculine
@@ -79,7 +79,7 @@ genre M
 द्र्वन्नः समिद्रूपान्नः सर्पिरासुतिः सर्पिरासूयतेआसिच्यतेयस्मिन्तादृशः प्रत्नः पुरातनः होताहो- मनिष्पादकः वरेण्योवरणीयः सहसस्पुत्रः सहसोबलस्यपुत्रस्थानीयः बलेनोत्पन्नत्वात् अद्भुताआ- श्चर्यभूतोरमणीयइत्यर्थः एवम्महान्भावोग्निः मामनुजानात्वित्यर्थः ॥ ६ ॥वाजयन्निवेतिषडृचमष्टमंसूक्तं सोमाहुतेर्हशब्दानुवृत्तस्याभावान्मण्डलद्रष्टागृत्समदऋषिः अग्नि- र्देवता हिशब्दायत्रीछन्दः अन्त्यानुष्टुप् वाजयन्निवान्त्यानुष्टुबित्यनुक्रान्तम् प्रातरनुवाकाश्विनशस्त्र- योस्तृतीयसूक्तत्वेनाचस्योत्तमावर्जितस्यविनियोगउक्तः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,39 +90,39 @@ genre M
 Feeder upon fuel: drvannaḥ: from dru, a tree or timber; and **anna**, food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His food is wood, his potion melted butter—the primordial Hotar  worthy to be chosen,  
 son of strength, infallible.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final word of the vs. (and the hymn) ádbhutaḥ echoes the finals of the last two vss., 4c and 5c ā́hutaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wood-fed, bedewed with sacred oil, ancient, Invoker, excellent,  
      The Son of Strength, the Wonderful.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The old excellent Hotri who feeds on wood and drinks butter, he is the wonderful son of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Holz bekommt als Speise, Schmalz als Tränklein der uralte, auserwählte Hotri, der geheimnisvolle Sohn der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Bäume speist und Butter trinkt, der alte schöne Opferer, Der Sohn der Stärke wunderbar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Агни тот – ) чья еда дрова, чье питье – жир,  
 Древний хотар избранный,  

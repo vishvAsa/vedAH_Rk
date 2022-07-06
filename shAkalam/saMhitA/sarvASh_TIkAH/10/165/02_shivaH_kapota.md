@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शिवः꣡ कपो꣡त इषितो꣡ नो अस्तु  
 अनागा꣡ देवाः शकुनो꣡ गृहे꣡षु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रि हेतिः꣡ पक्षि꣡णी नो वृणक्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ग्निः । हि । विप्रः॑ । जु॒षता॑म् । ह॒विः । नः॒ । परि॑ । हे॒तिः । प॒क्षिणी॑ । नः॒ । वृ॒ण॒क्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
@@ -125,36 +125,36 @@ popular
 हे **देवाः** **नः** अस्माकं **गृहेषु** **इषितः** गतः कपोताख्यः **शकुनः** पक्षी **शिवः** सुखकरः **अनागाः** अपापहेतुश्च **अस्तु** । **हि** यस्मात् **विप्रः** मेधावी **अग्निः** **नः** अस्माकं **हविः** युष्मभ्यं परिकल्पितं **जुषतां** जुषते अतो युष्मत्प्रसादात् **पक्षिणी** पक्षोपेता **हेतिः** हननहेतुः कपोतः **नः** अस्मान् **परि** **वृणक्तु** अस्मान् परित्यजतु । मा बाधितामित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the bird sent to our dwellings, the pigeon, be auspicious, O gods, and void of offence, so that thewise **Agni** may approve of our oblation, and the winged weapon (of mischief) depart from us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the dove that has been sent be kindly to us; o gods, let the omen-bird  be without offense in our house.  
 Let Agni, the inspired poet, take pleasure in our oblation, and so let the  winged missile avoid us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Auspicious be the Dove that hath been sent us, a harmless bird, ye Gods, within our dwelling.  
      May Agni, Sage, be pleased with our oblation, and may the Missile borne on wings avoid us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Günstig soll uns die ausgesandte Taube sein, ohne Harm sei der Vogel in unserem Hause, o Götter. Agni, der Redekundige, soll darum an unserer Opferspende Geschmack finden. Uns soll das geflügelte Geschoß verschonen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilsames Glück wünscht man sich; zum Heile setzt man die rechte Hand in Thätigkeit (?); heilsamen Anblick [wünscht man sich] bei dem Sohne des Vivasvat [dem Jama, also in der Welt der Seligen?], an vielen Orten ist des Lebenden Sinn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет милостив к нам посланный голубь!  
 (Да будет) безвредной, о боги, птица в (нашем) доме!  

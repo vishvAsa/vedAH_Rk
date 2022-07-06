@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡या हि꣡ अग्ने व꣡रुणो धृत꣡व्रतो  
 मित्रः꣡ शाशद्रे꣡ अर्यमा꣡ सुदा꣡नवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अरा꣡न् न꣡ नेमिः꣡ परिभू꣡र् अ꣡जायथाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यत् । सी॒म् । अनु॑ । क्रतु॑ना । वि॒श्वऽथा॑ । वि॒ऽभुः । अ॒रान् । न । ने॒मिः । प॒रि॒ऽभूः । अजा॑यथाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
@@ -130,21 +130,21 @@ genre M
 हे **अग्ने** **त्वया** खलु **वरुणः** रात्र्यभिमानी देवः **धृतव्रतः** स्वीकृतवर्षणादिकर्मा भवति । तथा **मित्रः** अहरभिमानी देवः **शाशद्रे** शातयति तमः ॥ शद्लृ शातने' । छान्दसो लिट् । बहुलं छन्दसि ' इति रुट् । तुजादित्वात् अभ्यासदीर्घः । तथा **अर्यमा** उभयोर्मध्यवर्ती देवः **सुदानवः** शोभनदानो भवति ॥ व्यत्ययेन बहुवचनम् । यद्वा । एते वरुणादयः सुदानवः शोभनदानाः स्वस्वकार्यकर्तारस्त्वया हि शाशद्रे तीक्ष्णीक्रियन्ते । हिशब्दो मन्त्रान्तरप्रसिद्धिद्योतनार्थः । ‘ त्वमग्ने वरुणो जायसे (ऋ. सं. ५, ३. १ ) इति हि मन्त्रान्तरम् ॥ शदेः कर्मणि छान्दसो लिट् । ‘इरयो रे' इति रेभावः । ‘ हि च ' इति निघाताभावः । वरुणादीनामग्न्यायत्तत्वे उपपत्तिमाह । **यत्** यस्मात् कारणात् हे अग्ने **सीं** सर्वतः **क्रतुना** कर्मणा **विश्वथा** विश्व इव विश्वात्मक इव **विभुः** मित्रार्यमात्मना सर्वव्यापी **परिभूः** स्वतेजसा सर्वतः परिभाविता सन् अनुक्रमेण **अजायथाः** जायसे प्रादुर्भवसि । तत्र दृष्टान्तः । **अरान्** रथस्य शङ्कून् **नेमिः** **न** बाह्यवलय इव । स यथा व्याप्य तिष्ठति तद्वदयमग्निर्वरुणादीन् व्याप्य तिष्ठति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By you, **Agni**; **Varuṇa**, observant of his duties and **Mitra** and **Aryaman**, bountiful divinities, are animated, so that yo have been born comprehending them all universally in all (their) functions, and encompassing (them all) as the circumference (encompasses) the spokes (of a wheel).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By means of you, o Agni, have those rich in drops [/gifts] become  exultant—Varuṇa whose commandments are upheld, Mitra, and  
 Aryaman—  
 since, following them, you were born extending everywhere by your  resolve, encompassing (everything) like a felly its spokes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 After the extravagances of the last few vss., this vs. brings us back to earth and opens the last section of the hymn, addressing Agni and praising his benefits.
 
@@ -153,28 +153,28 @@ The morphological and phraseological parallelism of vibhúḥ (c) and paribhū́
 As in I.37.9 I construe ánu with preceding sīm “following them.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By thee, O Agni, Varuna who guards the Law, Mitra and Aryaman, the Bounteous, are made strong;  
      For, as the felly holds the spokes, thou with thy might pervading hast been born encompassing them round.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Through thee indeed, O Agni, Varuna whose laws are firm, Mitra and Aryaman, the givers of good rain, are glorious, when thou the mighty one hast been born, everywhere encompassing with wisdom (all beings), as the felly encompasses the spokes of a wheel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn durch dich, Agni, haben Varuna, der Gesetzeshüter, Mitra und Aryaman, die Gabenschönen, Selbstvertrauen bekommen, sobald du geboren wardst, durch Umsicht allem gewachsen, wie der Radkranz die Speichen alles umschließend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein rühmt sich ja der pflichtgetreue Varuna, o Agni, und die reichen Mitra, Arjaman; Da kräftig du erstandest, sie mit deiner Kraft umfassend, ganz wie Speichen mit des Rades Kranz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это благодаря тебе, о Агни, Варуна, чей обет крепок,  
 Митра, Арьяман с прекрасными дарами набрались силы,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमं꣡ नु꣡ सो꣡मम् अ꣡न्तितो  
 हृत्सु꣡ पीत꣡म् उ꣡प ब्रुवे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पुलुका꣡मो हि꣡ म꣡र्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । सी॒म् । आगः॑ । च॒कृ॒म । तत् । सु । मृ॒ळ॒तु॒ । पु॒लु॒ऽकामः॑ । हि । मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -127,7 +127,7 @@ popular
 **अन्तितः** समीपे वर्तमानं **पीतं** पीयमानं **हृत्सु** हृदयप्रदेशेषु स्थितं **इमं** सोमं **सीं** सर्वतः **नु** क्षिप्रं **उपब्रुवे** उपेत्य मनसा प्राप्य प्रार्थयते । किं ब्रवीति उच्यते । **यत्** **आगः** गुर्वोः कामप्रलापश्रवणविषयं पापं **चकृम** कृतवन्तो वयं तत् तस्मादागसः स सोमः **सु** सम्यक् **मृळ्तु** सुखयतु पापजनितदुःखं मा करोत्वित्यर्थः । महत्पापमनुभुज्यमानं प्रार्थनया कथं लुप्यते इति अत आह । **हि** यस्मात् मर्त्यः मनुष्यः **पुलुकामः** बहुकामनावान् । अल्पेनैव कर्मणा बहुकामानाकलयति । यस्मादेवं तस्मात् परिहरेत्यर्थः। यद्वा । अयमपवर्जनीयतया प्राप्यत इवेत्याह । पुरुकामो हि खलु मर्त्यः कामहतः सन् कामेन निरुद्ध एव वर्तते । अतस्तयोरुसेकोऽयुक्तः। तच्छब्दश्रवणदोषोऽपि प्रामादिकः अस्माकं प्राप्तेन सोमेन परिहर्तव्य इत्यर्थः। यद्वा । अयं मन्त्रश्चन्द्रपरो व्याख्येयो मनसोऽभिमानित्वाच्च तस्य पापस्यापि मनस्येव संभावितत्वात् । अस्मिन् पक्षे हृत्सु पीतं हृदयस्थितमित्यर्थः । शिष्टं स्पष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ popular
 What has been drunk in my heart: antito hṛtsu pītam, drunk mentally, not actually; the sin we have committed: the sin of listening ot the conversation of their **guru** with his wife
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Student or Agastya:] “This soma within my heart, just drunk, do  I adjure:  
 Whatever offense we have committed, let him forgive that, for of many  desires is mortal man.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Thieme points out, the last pāda, “for of many desires is mortal man,” bears the mark of a popular saying, with the l-form pulu- in place of standard puru- ‘many’ in pulu-kā́maḥ. pulu- is found only once elsewhere in the RV, in pulv-agháin the Vṛṣākapi hymn (X.86.22), which also belongs to a more vernacular register.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 इ॒मं नु सोम॒मन्ति॑तो हृ॒त्सु पी॒तमुप॑ ब्रुवे ।  
 यत्सी॒माग॑श्चकृ॒मा तत्सु मृ॑ळतु पुलु॒कामो॒ हि मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An diesem Soma in meinem Herzen, den ich getrunken habe, richte ich unmittelbar das Wort: Wenn wir eine Sünde getan haben, dann soll er fein diese verzeihen. Vielbegehrlich ist nun einmal der Sterbliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen Soma, den ins Innere geschlürften, rufe ich aus der Nähe an; was immer wir für Sünde gethan, die vergebe er; denn viel begehrend ist der Mensch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К этому соме, выпитому в сердце (моем),  
 Я обращаюсь изблизи:  

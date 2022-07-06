@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ धु꣡निर् इन्दर+ धु꣡निमतीर्  
 ऋणो꣡र् अपः꣡ · सीरा꣡ न꣡ स्र꣡वन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पार꣡या तुर्व꣡शं य꣡दुं सुअस्ति꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 प्र । यत् । स॒मु॒द्रम् । अति॑ । शू॒र॒ । पर्षि॑ । पा॒रय॑ । तु॒र्वश॑म् । यदु॑म् । स्व॒स्ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,7 +120,7 @@ genre M;; repeated line
 हे **इन्द्र** **धुनिः** शत्रूणां कम्पयिता **त्वं** **धुनिमतीः** धुनिर्नामासुरो यासु निरोधकतया विद्यते ताः **अपः** उदकानि **सीरा** **न** नदीरिव **स्रवन्तीः** प्रवहन्तीः **ऋणोः** अगमयः । धुनिं हत्वा तेन निरोधितान्युदकानि प्रवाहयतीत्यर्थः । हे **शूर** वीरेन्द्र **यत्** यदा **समुद्रम्** **अति** अतिक्रम्य **प्र** **पर्षि** प्रतीर्णो भवसि तदा समुद्रपारे तिष्ठन्तौ **तुर्वशं** **यदुं** च **स्वस्ति** क्षेमेण **पारय** अपारयः । समुद्रमतारयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,34 +131,34 @@ genre M;; repeated line
 **Samudram** atipraparṣi = samudram atikramya pratirṇo bhavasi = when you are crossed, having traversed the ocean, you have brought across Turvaśa and Yadu, both standing on the future shore, samudrapāre tiṣṭhantau apārayaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, the tumultuous one, Indra, set the tumultuous waters in motion,  flowing like streams.  
 When you will cross the sea, o hero, make Turvaśa and Yadu cross to  well-being.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is identical to I.174.9; see comm. on that vs., esp. with regard to párṣi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, roaring Indra, drovest on the waters that made a roaring sound like rushing rivers,  
      What time, O Hero, o'er the sea thou broughtest, in safety broughtest Turvasa and Yadu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, der Tosende, setztest die tosenden Gewässer in Bewegung, die strömen, wie die Flüsse gewöhnt sind. Wenn du über das Meer fahren kannst, o Held, so fahre den Turvasa und Yadu heil hinüber !
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die brausenden Gewässer liessest rauschend du, Indra, rinnen, die wie Ströme flossen; Wie du zum Meer, o Held, hindurch sie leitest, so führ zum Heile Turvaça und Jadu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, возмутитель, о Индра, возмущенные  
 Воды выпустил течь, словно мчащиеся реки.  

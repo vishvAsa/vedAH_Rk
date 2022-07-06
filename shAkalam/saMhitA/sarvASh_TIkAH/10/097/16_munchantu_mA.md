@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मुञ्च꣡न्तु मा शपथि꣡याद्  
 अ꣡थो वरुणि꣡याद् उत꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वस्माद् देवकिल्बिषा꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अथो॒ इति॑ । य॒मस्य॑ । पड्बी॑शात् । सर्व॑स्मात् । दे॒व॒ऽकि॒ल्बि॒षात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *muñcantu* ← *muc*
 - \[verb\], plural, Present imperative
@@ -93,36 +93,36 @@ popular;; epic anuṣṭubh (292)
 **मा** माम् ओषधयः **शपथ्यात्** शपथसंजातादेनसः सकाशात् **मुञ्चन्तु** । **अथो** अपि च **वरुण्यात्** वरुणसंभवात् **मां** मुञ्चन्तु । वरुणोऽपि स्वपाशेन जातमात्रं पुरुषं बध्नाति । **उत** इति पूरणः । **अथो** अपि च **यमस्य** पड्बीशात् पादबन्धनान्निगडान्मुञ्चन्तु । न केवलं वरुणादेः पापात् किंतु **सर्वस्मादेवकिल्बिषात्** देवैः कृतात्पापान्मुञ्चन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May they liberate me from the sin produced by curse, from the sin caused by **Varuṇa**, from the fettersO **Yama**, from all guilt caused by the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them release me from (the shackle) of a curse, and also from (the  shackle) of Varuṇa,  
 and from the shackle of Yama—from every offense against the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Release me from the curse's plague and woe that comes from Varuna;  
      Free me from Yama's fetter, from sin and offence against the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie sollen mich von den Folgen eines Fluches erlösen und von der Schlinge des Varuna und auch von Yama´s Fußfessel und von jeglicher Sünde wider die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Befreit mich von des Fluches Drang und von dem Strick des Varuna, Von Jama's Netz, von allem Fehl, den wider Götter wir verübt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть освободят они меня от действия проклятия,  
 А также от (петли) Варуны,  

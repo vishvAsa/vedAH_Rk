@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पशुं꣡ नः सोम रक्षसि  
 पुरुत्रा꣡ वि꣡ष्ठितं ज꣡गत्  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 स॒म्ऽआकृ॑णोषि । जी॒वसे॑ । वि । वः॒ । मदे॑ । विश्वा॑ । स॒म्ऽपश्य॑न् । भुव॑ना । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
@@ -112,7 +112,7 @@ genre M;; repeated line
 हे **सोम** त्वं **नः** अस्मदीयं **पशुं** देवयागार्थमुपाकृतं **रक्षसि** पालयसि । न केवलं पशु किंतु **पुरुत्रा** बहुधा **विष्ठितं** सुरनरतिर्यग्योन्यादिभावेनावस्थितं **जगत्** च रक्षसि । किंच स त्वं **समाकृणोषि** जगतो वृत्तिं सम्यगाकरोषीत्यर्थः । किमर्थम् । **जीवसे** जीवनार्थम् । किं कुर्वन् । **विश्वा** **भुवना** विश्वानि भुवनानि भूतजातानि **संपश्यन्** । किमर्थमेतदादिकं सर्वं करोषि उच्यते। **वि** वो **मदे** युष्माकं सर्वेषां देवानां विविधहविर्जन्यतृप्त्यर्थम् । उक्तं हि -- इतः प्रदानमुत देवा उप जीवन्ति अमुतः प्रदानं मनुष्या उप जीवन्ति' (तै. सं. ३. २. ९. ७) इति । अत एव त्वं **विवक्षसे** महान् भवसि । महतामेतत्सर्वमुचितमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,7 +123,7 @@ genre M;; repeated line
 For the exhilaration: vaḥ = all thegods; **Taittirīya** **Saṃhitā** 3.2.9.7: both gods and men are dependent on gifts of Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You protect our livestock, Soma, and the moving (world [=living  
 creatures]) dispersed in many places.  
@@ -131,23 +131,23 @@ You gather them, for them to live, as you watch over all living beings
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our herds thou guardest, Soma, and the moving world spread far and wide.  
      Thou fittest them for living,-at your glad carouse-looking upon all beings. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Soma, behütest unser Vieh, die vielerorts verteilte Kreatur; du hältst, sie überzählend, alle Geschöpfe zusammen, daß sie leben, - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du schützest, Soma, unser Vieh und überall was geht und steht, Die Wesen überschaust du all, und gibst zum Leben ihnen Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты защищаешь наш скот, о сома,  
 Мир живых, распространившийся по многим местам.  

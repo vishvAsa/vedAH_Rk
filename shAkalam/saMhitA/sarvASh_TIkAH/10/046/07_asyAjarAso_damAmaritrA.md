@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्या꣡ज꣡रासो दमा꣡म् अरि꣡त्रा  
 अर्च꣡द्धूमासो अग्न꣡यः पवाकाः꣡+  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वनर्ष꣡दो वाय꣡वो न꣡ सो꣡माः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 श्वि॒ती॒चयः॑ । श्वा॒त्रासः॑ । भु॒र॒ण्यवः॑ । व॒न॒ऽसदः॑ । वा॒यवः॑ । न । सोमाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyājarāso* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -102,7 +102,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 अत्र बहुत्वेन स्तूयते । **अस्य** यजमानस्य संबन्धिनः **अजरासः** जरारहिताः **दमां** दमनीयानां रक्षःप्रभृतीनाम् । दमेः क्विपि ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । तेषाम् **अरित्राः** तारकाः **अर्चद्धूमासः** अर्चन्तः अर्चनीया धूमा धूमोपलक्षिता ज्वाला वा येषां ते तथोक्ताः **पावकाः** शोधकाः **श्वितीचयः** श्वेतिमानमञ्चन्तः । श्वितिः श्वेतम् । औणादिक इः। **श्वात्रासः** । क्षिप्रनामैतत् । क्षिप्रधर्मकाः **भुरण्यवः** भरणशीलाः **वनर्षदः** वनेषु सीदन्तः । संहितायां छान्दसं रुत्वम् । **वायवो** **न** **सोमाः** गन्तारः सोमा इव । हविर्दातुर्यजमानस्य शीघ्रा भवन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Damām aritrāḥ = protector of the houses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 His are the unaging oars of the houses, the pure fires with  
 singing smoke,  
 bright, swelling, bustling, sitting on the wood like winds (in trees), like  soma-drinks (in the wooden cups).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His are the fires, eternal, purifying, that make the houses move, whose smoke is shining,  
      White, waxing in their strength, for ever stirring, and sitting in the wood; like winds are Somas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine alterlosen Feuer, die Ruder der Häuser, sind rauchsingend, lauter, weißlich, anschwellend, geschäftig, im Holze sitzend wie die Winde, wie die Somasäfte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein sind der Häuser ewig junge Feuer, die treibenden, mit hellem Rauche flammend, Die wirbelnden, die kräftigen, die lichten, im Holze wohnend, eilend wie die Winde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чистые огни этого нестареющего (Агни)  
 Со сверкающим дымом, (эти) весла домов,  

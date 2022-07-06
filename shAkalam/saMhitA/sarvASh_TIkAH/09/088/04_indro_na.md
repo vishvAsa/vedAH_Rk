@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रो न꣡ यो꣡ महा꣡ क꣡र्माणि च꣡क्रिर्  
 हन्ता꣡ वृत्रा꣡णाम् असि सोम पूर्भि꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हन्ता꣡ वि꣡श्वस्य असि सोम द꣡स्योः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पै॒द्वः । न । हि । त्वम् । अहि॑ऽनाम्नाम् । ह॒न्ता । विश्व॑स्य । अ॒सि॒ । सो॒म॒ । दस्योः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -140,20 +140,20 @@ genre M
 **इन्द्रो** **न** इन्द्र इव **यः** त्वं **महा** महान्ति **कर्माणि** **चक्रिः** ताच्छील्येन करोषि स त्वं हे **सोम** **वृत्राणां** शत्रूणां **हन्ता** **असि** भवसि । तथा **पूर्भित्** पुरां भेत्तासि । किंच **पैद्वो** **न** अश्व इव खलु **अहिनाम्नां** **हन्ता** भवसि । आगत्य हन्तीत्यहिः । तन्नामकानामित्यर्थः । न केवलं तेषामेव अपि तु **विश्वस्य** अपि सर्वस्यापि **दस्योः** उपक्षपयितुः शत्रोर्हन्ता असि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Soma**, who like **Indra** perform mighty acts, are the slayer of the **Vṛtras**, the destroyer of those who are called serpents; you are the slayer of every **Dasyu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, who like Indra are a doer of great deeds, are a stronghold-splitting  smiter of obstacles, Soma.  
 Because, like Pedu’s (horse), (you are the smiter) of those with serpents’  names, you are the smiter of every Dasyu, Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In order to connect the comparison with Indra more clearly to the whole vs., I would now be inclined to tr. “Like Indra, who is the doer of great deeds, you are are a stronghold-splitting smiter of obstacles,” though this now makes it less clear that Soma is being compared to Indra also in his general capacity of doer of deeds. The Sanskrit is more forgiving.
 
@@ -163,23 +163,23 @@ Pāda c is metrically defective; see esp. Oldenberg for disc. After suggesting, 
 solution, and I would now slightly alter the tr. to “Because, like Pedu's (horse) (you are) *the smiter of those with serpents' names, you are the smiter of every Dasyu.” On the serpent-smiting horse that the Aśvins gave Pedu, one of their clients, see I.117.9, 188.9. Unfortunately this is all we know about the horse’s exploits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like Indra who hath done great deeds, thou, Soma, art slayer of the Vrtras, Fort-destroyer.  
      Like Pedu's horse who killed the brood of serpents, thus thou, O Soma, slayest every Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Indra, der ein Vollbringer großer Taten, bist du der Töter der Feinde, der Burgenbrecher, Soma. Wie das Paidvaroß bist du ja ein Töter all dessen, was Schlange heißt, du bist ein Töter jedes Dasyu, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra gleich, der grosse Thaten ausführt, zerschlägst die Feinde, Soma, du und Burgen; Die Schlangenbrut wie Pedu's Ross vertilgst du, und jeden Bösen tödtest du, o Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, как Индра, свершитель великих дел, –  
 Ты, о сома, убийца врагов, проломитель крепостей.  

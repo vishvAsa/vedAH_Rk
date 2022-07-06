@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुः पुनानो꣡ अ꣡ति गाहते मृ꣡धो  
 वि꣡श्वानि कृण्व꣡न् सुप꣡थानि य꣡ज्यवे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त्यो न꣡ क्री꣡ळन् प꣡रि वा꣡रम् अर्षति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 गाः । कृ॒ण्वा॒नः । निः॒ऽनिज॑म् । ह॒र्य॒तः । क॒विः । अत्यः॑ । न । क्रीळ॑न् । परि॑ । वार॑म् । अ॒र्ष॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -143,7 +143,7 @@ genre M
 अयम् **इन्दुः** दीप्तः सोमः **पुनानः** पूयमानः **अति** **गाहते** अतिक्रम्य गच्छति **मृधः** शत्रून् । किं कुर्वन् । **विश्वानि** गन्तव्यानि सुवर्मा  नि वैदिकानि लौकिकानि च **सुपथानि** **कृण्वन्** कुर्वन् । कस्मै । **यज्यवे** यागकर्त्रे । यजमानाय शत्रून् परिहरन् मार्गान् सुपथान् कुर्वन् कलशं प्रविशतीत्यर्थः । किंच **निर्णिजम्** आत्मीयं रूपं **गाः** **कृण्वानः** । रसमयान् कुर्वाण इत्यर्थः । **हर्यतः** कान्तः । ‘ हर्य गतिकान्त्योः' । औणादिकोऽतच् । **कविः** क्रान्तप्रज्ञः एवंभूतः सोमः **अत्यो** **न** अश्व इव **क्रीळन्** **वारं** दशापवित्रं **परि** **अर्षति** परिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,14 +154,14 @@ genre M
 Liquid: gāḥ = rasamayān
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop being purified plunges beyond the scorners, making all paths  good for the worshipful one.  
 Making the cows into his raiment, the delightful poet, playful like a  
 steed, rushes around the fleece.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two pres. participles to √kṛ, act. kṛṇván (b) and med. kṛṇvānáḥ (c), provide almost a textbook example of the functional distribution of voices: in b Soma makes X (into) Y for someone else (dat. yájyave), while in c he makes X (into) his own Y.
 
@@ -178,23 +178,23 @@ Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, attaining purity, plunges through the foe, making Ilis ways all easy for the pious man.  
      Making the kine his mantle, he, the lovely Sage, runs like a sporting courser onward through the fleece.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft setzt sich, während er geläutert wird, über die Verächter hinweg, dem Opfernden alle guten Wege bereitend. Indem er die Kuhmilch zu seinem Festkleid macht, umströmt der begehrenswerte Seher die Haarseihe, sich wie ein Rennpferd tummelnd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geklärt taucht Indu über alle Feind' empor, die Pfade alle bahnt er schön dem Opferer, Der holde Seher nimmt die Milch als Schmuckgewand, und eilet hin zur Wolle, springend wie ein Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

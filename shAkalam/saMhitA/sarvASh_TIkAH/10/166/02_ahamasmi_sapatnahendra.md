@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् अस्मि सपत्नहा꣡  
 इ꣡न्द्र ऽवा꣡रिष्टो° अ꣡क्षतः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इमे꣡ स꣡र्वे अभि꣡ष्ठिताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अ॒धः । स॒ऽपत्नाः॑ । मे॒ । प॒दोः । इ॒मे । सर्वे॑ । अ॒भिऽस्थि॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -105,36 +105,36 @@ popular;; epic anuṣṭubh (525)
 **अहं** **सपत्नहा** सपत्नानां शत्रूणां हन्ता **अस्मि** भवामि। **इन्द्रइव** इन्द्रो यथा केनाप्यहिंसितो भवति तथाहमपि **अरिष्टः** अहिंसितः **अक्षतः** अव्रणश्च भवामि । **इमे** दृश्यमानाः **सर्वे** **सपत्नाः** **मे** मम **पदोः** पादयोः **अधः** अधस्तात **अभिष्ठिताः** आक्रान्ता भवन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am the destroyer of my enemies, like **Indra**, unharmed and unwounded; may all these my foes be castdown under my feet.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am a smiter of rivals, like Indra, unharmable, invulnerable.  
 Beneath my feet are my rivals: all these here have been stood upon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I am my rivals' slayer, like Indra unwounded and unhurt,  
      And all these enemies of mine are vanquished and beneath my feet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin der Nebenbuhlertöter, gleich Indra unversehrt, unverwundet. Unter meine Füße habe ich alle diese Nebenbuhler getreten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin's, der Nebenbuhler schlägt, wie Indra sicher, unverletzt, Die Nebenbuhler alle sind hier unter meinen Fuss gelegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я – убийца соперников,  
 Как Индра, невредимый, нераненый.  

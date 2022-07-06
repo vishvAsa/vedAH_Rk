@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡च् चिद् धि꣡ ते वि꣡शो यथा  
 प्र꣡ देव वरुण व्रत꣡म्  
 मिनीम꣡सि द्य꣡वि-द्यवि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 मि॒नी॒मसि॑ । द्यवि॑ऽद्यवि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yacciddhi* ← *yat*
 - \[adverb\]
@@ -94,35 +94,35 @@ genre M
 हे **वरुण** **यथा** लोके **विशः** प्रजाः कदाचित् प्रमादं कुर्वन्ति तथा वयमपि **ते** तव संबन्धि **यच्चिद्धि** यदेव किंचित् **व्रतं** कर्म **द्यविद्यवि** प्रतिदिनं **प्र** **मिनीमसि** प्रमादेन हिंसितवन्तः । तदपि व्रतं प्रमादपरिहारेण साङ्गं कुरु इति शेषः । यथा । लित्स्वरेण आद्युदात्तत्वे प्राप्ते यथेति पादान्ते' ( फि. सू. ८५ ) इति सर्वानुदात्तत्वम् । मिनीमसि । “ मीञ् हिंसायाम्'। 'इदन्तो मसि' । " क्र्यादिभ्यः श्ना' ।' मीनातेर्निगमे' (पा. सू. ७. ३. ८१ ) इति ह्रस्वत्वम् । ‘ई हल्यघोः ' (पा. सू. ६. ४. ११३ ) इति ईकारः । ‘सतिशिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः' इति वचनात् तिङ एव स्वरः शिष्यते । यद्वृत्तयोगात् निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Inasmuch as all people commit errors, so do we, divine **Varuṇa**, daily disfigure your worship by imperfections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even if every day we confound your commandment, o god Varuṇa, as clans (do their king’s commandment),
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHATEVER law of thine, O God, O Varuna, as we are men,  
      Day after day we violate.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir gleich Tag für Tag wie die Untertanen dein Gebot übertreten, Gott Varuna,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise Tag für Tag,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о бог Варуна,  
 Мы станем нарушать изо дня в день  

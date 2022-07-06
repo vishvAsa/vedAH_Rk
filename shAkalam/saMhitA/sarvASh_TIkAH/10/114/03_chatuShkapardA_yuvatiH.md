@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 च꣡तुष्कपर्दा युवतिः꣡ सुपे꣡शा  
 घृत꣡प्रतीका वयु꣡नानि वस्ते  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡त्र देवा꣡ दधिरे꣡ भागधे꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्या॑म् । सु॒ऽप॒र्णा । वृष॑णा । नि । से॒द॒तुः॒ । यत्र॑ । दे॒वाः । द॒धि॒रे । भा॒ग॒ऽधेय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *catuṣkapardā* ← *catur*
 - \[noun\]
@@ -119,7 +119,7 @@ popular
 **चतुष्कपर्दा** चतुष्कोणा **युवतिः** स्त्रीरूपा **सुपेशाः** शोभनालंकारा **घृतप्रतीका** घृतप्रमुखहविष्का एतादृशी वेदिः **वयुनानि** ज्ञातव्यानि पदार्थजातानि कर्माणि स्तोत्राणि वा **वस्ते** आच्छादयति । **तस्यां** वेद्यां **वृषणा** वृषणौ हविषां वर्षितारौ **सुपर्णा** सुपर्णौ सुपतनौ जायापती यजमानब्रह्माणौ वा **नि** **षेदतुः** निषण्णौ भवतः। **यत्र** यस्यां वेद्यां **देवाः** अग्न्यादयः **भागधेयम्** । स्वार्थिको धेयप्रत्ययः । स्वस्वभागं हविः **दधिरे** धारयन्ति । यद्वा। चतुष्कपर्दा नामाख्यातोपसर्गनिपाताश्चत्वारः कपर्दस्थानीय यस्याः सा युवतिस्तरुणी नित्या घृतप्रतीका दीप्यमानवर्णावयवैषौपनिषदी वाग्वयुनानि ज्ञानानि वस्ते आच्छादयति । तस्यां वाचि सुपर्णा सुपर्णौ जीवपरमात्मानौ निषण्णौ भवतः । यत्र। ' इतराभ्योऽपि दृश्यन्ते ' इति तृतीयार्थे त्रल्प्रत्ययः । यया वाचा देवा भागं धारयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,30 +130,30 @@ popular
 Twobirds: the husband and wife, or the **yajamāna** and the **brāhmaṇa**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The well-ornamented, ghee-faced young woman with four braids [=vedi  (“altar”)/night sky?] clothes herself in the (ritual) patterns.  
 Two bullish eagles have settled down on her, where the gods have  
 acquired their share.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Youthful One, well-shaped, with four locks braided, brightened with oil, puts on the ordinances.  
      Two Birds of mighty power are seated near her, there where the Deities receive their portion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schöngeschmückte Jungfrau mit vier Haarschnecken, mit Schmalz im Antlitz, kleidet sich in feste Regeln. Auf ihr haben sich zwei bullenartige Vögel niedergesetzt, auf welcher die Götter ihren Anteil empfangen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vierlockige schöngestaltige Jungfrau [nach Sāy. der Altar], mit Butter im Antlitz, kleidet sich in die Opfergewebe; bei ihr haben sich zwei kräftige Adler [Agni und Soma] niedergelassen da, wo die Götter ihren Opferantheil empfangen haben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Юная жена с четырьмя косами. Замечательно украшенная,  
 С ликом, натертым жиром, облачается в установленные формы.  

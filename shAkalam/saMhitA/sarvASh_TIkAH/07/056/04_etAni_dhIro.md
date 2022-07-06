@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡नि धी꣡रो निण्या꣡ चिकेत  
 पृ꣡श्निर् य꣡द् ऊ꣡धो मही꣡ जभा꣡र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 ए॒तानि॑ । धीरः॑ । नि॒ण्या । चि॒के॒त॒ । पृश्निः॑ । यत् । ऊधः॑ । म॒ही । ज॒भार॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
@@ -73,7 +73,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **धीरः** धीमान् शास्त्रज्ञो जनः **निण्या** निण्यानि श्वेतवर्णानि **एतानि** मरुदात्मकानि भूतानि **चिकेत** जानीयात् । किंतु न सर्वे जना जानन्तीत्यर्थः । **मही** महती **पृश्निः** मरुतां जननी यत् यानि मरुदात्मकानि भूतानि **ऊधः** ऊधन्यन्तरिक्षे स्वकीये जठरे वा **जभार** बभार । एतानि चिकेतेति पूर्वेण संवन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,33 +84,33 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 White-complexioned: etāni ninya = **śveta** varṇāni **bhūtāni** marutātmakāni, white-coloured beings,identical with the Maruts; bore at her udder: udho babhāra: **udhas** = firmament of the womb
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These are the secrets the insightful one perceives:  
 what great Pr̥śni bore as her udder.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Whenever the birth of the Maruts, and esp. the udder of Pṛśni, are found in the RV, bewilderment ensues, and this passage is no exception. At least it is here identified as a secret that only the insightful can perceive -- a characterization that the modern interpreter fully concurs with. For other problematic passages on this topic see II.34.2, VI.48.22, and VI.66.1, 3 with comm. ad locc. Our passage would be fairly easy to interpr. if we could take ū́dhaḥ (that is, ū́dhar) as a loc. sg. Such is Geldner’s solution (“im Euter,” explicitly identified as a loc. in n. 4b) and also Renou’s, though the latter has the grace to bury the loc. in a parenthesis: “(en sa) mamelle.” But a loc. -ar to r/n stems “ist nicht nachgewiesen” (AiG III.311), and it is safer to take it as an acc. sg. as elsewhere. In my interpr. yád is a neut. pronoun (rather than a subord. conj.) and refers collectively to the Maruts and ‘udder’ is a species of appositive to it though with a bit of a twist: ‘udder’ refers to the contents of the udder, and that contents is the collective Marut embryo(s). This seems to me better than taking yád as ‘that’ or the like, as in Kümmel’s (175) “Diese Geheimnisse kennt der Weise, dass die grosse Prś̥ ni ein Euter getragen hat.” (On p. 339 Kümmel simply reproduces Geldner’s tr., with ū́dhaḥ as loc. and a pronominal obj. [“sie”], referring to the Maruts, supplied; he doesn’t comment on these two incompatible interpr.) 81
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A sage was he who knew these mysteries, what in her udder mighty Prsni bore.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Geheimnisse kennt der Weise, daß die große Prisni sie im Euter getragen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Doch dies Geheimniss – erkennt der Weise, Dass bot ihr Euter – die grosse Priçni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти тайны понимает мудрый:  
 Что Пришни великая носила (их) в (своем) вымени.

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡त्री वि꣡ अख्यद् आयती꣡  
 पुरुत्रा꣡ देवी꣡ अक्ष꣡भिः  
 वि꣡श्वा अ꣡धि श्रि꣡यो ऽधित
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 विश्वाः॑ । अधि॑ । श्रियः॑ । अ॒धि॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rātrī* ← *rātri*
 - \[noun\], nominative, singular, feminine
@@ -87,7 +87,7 @@ genre M
 **आयती** आगच्छन्ती । आङ्पूर्वादेतैः शतर्यदादित्वाच्छपी लुक् । ‘इणो यण् ' ( पा. सू. ६. ४.८१ ) इति यणादेशः ।  ‘ उगितश्च ' (पा. सू. ४. १. ६ ) इति ङीप् । ‘ शतुरनुमः ' इति नद्या उदात्तत्वम् ॥ **अक्षभिः** अक्षिस्थानीयैः प्रकाशमानैर्नक्षत्रैः ॥ 'छन्दस्यपि दृश्यते ' इत्यक्षिशब्दस्थानङादेशः ॥ यद्वा । अक्षभिरञ्जकैः तेजोभिः । **पुरुत्रा** बहुषु देशेषु **देवी** देवनशीला ।  ‘ देवमनुष्यपुरुषपुरुमर्त्येभ्यः' इत्यादिना पुरुशब्दात्सप्तम्यर्थे त्राप्रत्ययः ॥ **रात्री** इयं रात्रिदेवता **व्यख्यत्** विचष्टे विशेषेण पश्यति ॥ ' रात्रेश्चाजसौ ' ( पा. सू. ४. १. ३१) इति । ङीप् । ख्यातेश्छान्दसे लुङि • अस्यतिवक्ति । इत्यादिना च्लेरङादेशः । अपि चैषा **विश्वाः** सर्वाः **श्रियः** शोभाः **अधि** **अधित** अधिधारयति ॥ दधातैर्लुङि ' स्थाध्वोरिच्च ' इतीत्वम् । सिचः 'कित्त्वम् । ' ह्रस्वादङ्गात् ' इति सिचो लोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,34 +98,34 @@ genre M
 This **sūkta** is recited at the sacrifice offered in the early morning by one who has had unplesant dreams duringthe night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Goddess Night, while coming hither, has looked about in many places  with her eyes.  
 She has laid on herself all beauties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH all her eyes the Goddess Night looks forth approaching many a spot:  
      She hath put all her glories on.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When night comes on, the goddess shines In many places with her eyes: All glorious she has decked herself.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es nahte die Göttin Nacht und blickte vielerorts aus tausend Augen auf. All ihre Herrlichkeiten hat sie angetan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schon naht die Nacht, die Göttin schaut aus ihren Augen überall Mit allem Schmucke angethan.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ночь, приближаясь, стала смотреть  
 Во все стороны, богиня, множеством глаз.  

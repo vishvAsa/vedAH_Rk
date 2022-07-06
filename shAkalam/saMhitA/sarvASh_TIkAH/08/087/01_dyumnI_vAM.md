@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्युम्नी꣡ वां स्तो꣡मो अश्विना  
 क्रि꣡विर् न꣡ से꣡क आ꣡ गतम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पातं꣡ गौरा꣡व् इवे꣡रिणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मध्वः॑ । सु॒तस्य॑ । सः । दि॒वि । प्रि॒यः । न॒रा॒ । पा॒तम् । गौ॒रौऽइ॑व । इरि॑णे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyumnī* ← *dyumnin*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 हे **अश्विना** अश्विनौ अयमनुपक्षीणस्तोत्रो द्युम्नीक एतन्नामक ऋषिः **वां** युवयोः **स्तोमः** स्तोता भवति । युष्मत्स्तुतौ कृतायां स्तोत्राणि नाल्पीभवन्ति  किंतु पुनर्वर्धन्त इत्यर्थः। तत्र दृष्टान्तः । **क्रिविर्न** । क्रिविरिति कूपनाम । कूपो यथा **सेके** उदकसेचने वृष्टौ भवन्त्यां नाल्पोदको' भवति तद्वत् । यद्वा । वां युवयोः स्तोमो युष्मद्विषया स्तुतिर्द्युम्न्यन्नवती खलु । स्तोत्रे कृते तस्मा अन्नादिकं प्रयच्छत इत्यर्थः । तस्माद्युवामस्मदीयं यज्ञं प्रति **आ** **गतम्** । स्तोत्राणि श्रोतुमागच्छतम् । हे **नरा** नरौ नेतारावश्विनौ **सः** अयं स्तोता दिवि द्योतमाने अस्मिन् यज्ञे **सुतस्य** अभिषुतस्य **मध्वः** मदकरस्य सोमस्य **प्रियः** स्तोत्रकारित्वेन प्रियतमो भवति । ततस्तेन सुतं सोमं **पातं** युवां शीघ्रमागत्य पिबतम् । तत्र दृष्टान्तः । **गौराविव** यथा तृषितौ गौरावेतन्नामको मृगौ **इरिणे** तटाकादिषूदकपानार्थं शीघ्रमागच्छतस्तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ Dyumnī = glorious (RV 8.89.2);
 Dyumnī = dyumnīka: Aśvins, Dyumnīka is your praiser
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Brilliant is the praise song for you two, o Aśvins, like a blood-red  (horse) [?] at its outpouring. Come here!  
 This (outpouring) of pressed honey is dear to heaven, o men. Drink like  buffaloes at a salt-pocket.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the difficult word krívi-, see comm. ad I.30.1. Though krívi- is found in a discouraging variety of contexts, our passage is similar to I.30.1, in that the root √sic ‘pour’ is associated with it.
 
@@ -160,23 +160,23 @@ The d pādas of these two vss. apparently begin with the same verb: 1d pātám, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SPLENDID, O Asvins, is your praise. Come fountain-like, to pour the stream.  
      Of the sweet juice effused-dear is it, Chiefs, in heaven-drink like two wild bulls at a pool.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glänzend ist das Loblied für euch, Asvin, wie das falbe Roß, wenn es begossen wird. Kommet herbei! Von dem süßen Saft - der ist im Himmel beliebt, ihr Herren - trinket wie die Büffel an einem Rinnsal!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirksam, o Ritter, ist eur Lob, kommt wie ein Schlauch zum Giessen her; Den süssen Saft, den Männer ihr im Himmel liebt, den trinkt wie Büffel an dem Bach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сверкает ваша хвала, о Ашвины,  
 Как Криви при выливании (воды). Приезжайте!  

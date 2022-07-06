@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्यानक्षा꣡ दुहिता꣡ जा꣡तु आ꣡स  
 क꣡स् तां꣡ विद्वाँ꣡ अभि꣡ मन्याते अन्धा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡ ईं व꣡हाते य꣡ ईं वा वरेया꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 क॒त॒रः । मे॒निम् । प्रति॑ । तम् । मु॒चा॒ते॒ । यः । ई॒म् । वहा॑ते । यः । ई॒म् । वा॒ । व॒रे॒ऽयात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyānakṣā* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -143,7 +143,7 @@ popular
 **यस्य** इन्द्रस्य मम कारणरूपेणावस्थितस्य **अनक्षा** अक्षिवर्जिता दर्शनहीना । अचेतनेत्यर्थः। **दुहिता** प्रकृत्याख्या **जातु** कदाचित् **आस** । असतेर्गत्यर्थस्य लिटि रूपम् । सामर्थ्यात् महाप्रलये मय्येव लीना सती सर्वत्र वर्तते **तां** प्रकृतिं **विद्वान्** मय्येव लीनां जानन् मत्तोऽन्यो देवः **कः** भवति । न कोऽपीत्यर्थः । अपि च **अन्धा** दर्शनहीनामचेतनां ताम् **अभि** **मन्याते** आत्मन्याश्रयप्रदानेन को देवोऽभिपूजयति । यद्वा । क्षीरोदकवत् घटाकाशवच्च मया सहैकीभूतां तामाभिमुख्येन को जानाति । अहमेव सर्वज्ञः स्वात्मन्याश्रयप्रदानेनाभिपूजयामि । मया सहैकीभूतां तां तत्त्वतोऽहमेव जानामि नान्य इति । किंच **कतरः** देवः **मेनिं** वज्रं **तं** प्रसिद्धं वृत्रादिशत्रुं **प्रति** **मुचाते** मुञ्चति । स्वयमेव प्रश्नमुत्थाप्येदानीं प्रतिब्रूते । **यः** देवः **ईम** एनं शत्रुं **वहाते** वहति । अपि **वा** यः **ईम्** एनं **वरेयात्** वरयितुमिच्छति । स चाहमेव नान्यो मत्सदृशोऽस्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -154,29 +154,29 @@ popular
 What other god but me: This is referred to **Indra**, whose eyeless daughter is **Prakṛti**, crude matter or nature,born of Indra as the creator, and at the **mahāpralaya** (final dissolution of the world) merging into him only;eyeless daughter: he whose daughter was once eyeless, who, knowing this, will despise her for being blind?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (A father) who has a daughter blind from birth—who, knowing her (as)  blind, will have designs on her [/will be hostile (to him=the father)]? (On the other hand, not knowing her state), which of the two will  unleash (the power of) violated exchange against him [=the  
 father]—the one who marries her or the one who woos her (on the  bridegroom’s behalf)?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When a man's daughter hath been ever eyeless, who, knowing, will be wroth with her for blindness?  
      Which of the two will loose on him his anger-the man who leads her home or he who woos her?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn eines Tochter von Geburt ohne Augenlicht ist, welcher, der es weiß, wollte die Blinde begehren? Welcher von beiden wird seinen Zorn auf ihn werfen, der sie heiraten, oder der sie freien wird?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wessen Tochter jemals augenlos war, wer möchte diese, sie als blind erkennend, jemals begehren? Welcher von diesen beiden wird auf jenen [den Vater?] das Schleudergeschoss abschiessen, der, welcher sie heimführt, oder der, welcher um sie wirbt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ अविन्दन् म꣡नसा दी꣡धियाना  
 य꣡जु ष्कन्न꣡म् प्रथमं꣡ देवया꣡नम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ सू꣡रियाद् अभरन् घर्म꣡म् एते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 धा॒तुः । द्युता॑नात् । स॒वि॒तुः । च॒ । विष्णोः॑ । आ । सूर्या॑त् । अ॒भ॒र॒न् । घ॒र्मम् । ए॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -125,36 +125,36 @@ popular
 **ते** धात्रादयः **दीध्यानाः** दीप्यमानाः सन्तः **मनसा** बुद्ध्या **अविन्दन्** अलभन्त । किं तत् । **यजुः** यागसाधनं **स्कन्नं** स्कन्दनीयमासेचनीयं प्रवृञ्जनसाधनं **प्रथमं** मुख्यं **देवयानं** देवानां प्राप्तिसाधनं **घर्मम्** । एवं धात्रादिभिः प्रथममुपलब्धं तं घर्मं **धातुः** द्योतमानात् **सवितुः** **विष्णोः** **सूर्यात्** **च** **एते** ऋत्विजः **आ** **अभरन्** आहरन् । आनीतवन्त इत्यर्थः ॥ ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those brilliant deities discovered by their intelligence the principal means of sacrifice which has to beeffused, whichleads to the gods; these (priests) have taken the **Gharma** from **Dhātā**, the radiant **Savitā** andViṣṇu.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They found, as they reflected with their mind, the yajus that sprang forth  first, going the way of the gods:  
 from the flashing Founder and from Savitar and Viṣṇu, from the sun,  have they carried here the hot milk (gharma).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They found with mental eyes the earliest Yajus, a pathway to the Gods, that had descended.  
      From radiant Dhitar, Savitar, and Visnu, from Surya did these sages bring the Gharma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die fanden im Geiste nachsinnend den ersten Opferspruch Yajus, der entsprungen den Götterweg gegangen war. Vom glänzenden Schöpfer, und von Savitri und Vishnu, von der Sonne holten diese den Gharma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie fanden im Geiste erwägend die erste vordringende zu den Göttern gehende Götterverehrung [yájus]; und das gharma-Lied brachten diese herbei vom glänzenden Dhātar, von Savitar und Vischnu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они нашли, увидев мыслью,  
 Жертвенную формулу, пробившуюся первой на путь богов.  

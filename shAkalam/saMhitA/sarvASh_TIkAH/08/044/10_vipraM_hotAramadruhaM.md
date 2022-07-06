@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡प्रं हो꣡तारम् अद्रु꣡हं  
 धूम꣡केतुं विभा꣡वसुम्  
 यज्ञा꣡नां केतु꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 य॒ज्ञाना॑म् । के॒तुम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
@@ -78,20 +78,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विप्रं** मेधाविनं **होतारं** देवानामाह्वातारम् **अद्रुहम्** अद्रोग्धारं **धूमकेतुं** धूमध्वजं **विभावसुं** दीप्तिधनं **यज्ञानां** **केतुं** पताकास्थानीयमग्निम् **ईमहे** अभीष्टं याचामहे ॥ ॥ ३७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit the wise invoker (of the gods), the beneficent, the smoke- bannered, the resplendent, thebanner of the sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poet, Hotar without deceit, whose beacon is smoke, with  far-radiant goods,  
 the beacon of the sacrifices do we implore:
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
 <details open><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -101,23 +101,23 @@ The contents of the imploring mentioned in 10c seems to be given in direct speec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, Sage and Herald, void of guile, ensign of sacrifices, him  
      Smoke-bannered, rich in light, we seek.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem redekundigen Hotri ohne Trug, mit dem Rauch als Fahne, dem glanzreichen, dem Banner der Opfer nahen wir bittend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen holden Opferer, den rauchumwallten, strahlenden, Des Opfers Fahne gehn wir an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохновенного хотара безобманного,  
 Чье знамя дым, блистательного,  

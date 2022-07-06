@@ -8,7 +8,7 @@ title = "+023"
 ‘ तीव्राः' इति चतुर्विंशत्यृचं षष्टं सूक्तम् । अत्रेयमनुक्रमणिका- ‘ तीव्राश्चतुर्विंशतिर्वायव्यैकैन्द्रवायव्यौ मैत्रावरुणमरुत्वतीयवैश्वदेवपौष्णास्तुचाः शेषा आप्योऽन्त्याध्यर्धाग्नेय्यप्स्वन्तः पुरउष्णिक् परानुष्टुप्तिस्रश्चान्त्या एकविंशी प्रतिष्ठा' इति ।  ‘ ऋषिश्चान्यस्मात् ' (अनु. १२. २ ) इति परिभाषया अनुवर्तनात् मेधातिथिः काण्व ऋषिः ।  ‘ अप्स्वन्तः' इत्येषा पुरउष्णिक् । प्रथमपादस्य द्वादशाक्षरेण  ‘ आद्यश्चेत्पुरउष्णिक्' (अनु. ५. २) इति लक्षणसद्भावात् । ‘अप्सु मे सोमः' इत्येषा अनुष्टुप् ।  ‘ इदमापः' इत्याद्यास्तिस्रः अनुष्टुभः । शिष्टा एकोनविंशतिसंख्याका ऋचो गायत्र्यः  ।  ‘ आदौ गायत्रम्' (अनु. १२. १४ ) इति परिभाषितत्वात् आद्या वायुदेवताका । ततो द्वे ऋचौ इन्द्रवायुदेवताके । तत एकस्तृचो मित्रावरुणदेवत्यः । तत उत्तरतृचस्य मरुद्गणविशिष्टेन्द्रो देवता । तत एकस्तृचो वैश्वदेवः । तदनन्तरभावी पौष्णः । शिष्टा ऋचोऽब्देवताकाः ।  ‘ पयस्वानग्ने ' इत्यर्धर्चयुक्ता  ‘ सं माग्ने ' इत्येषा तु अग्निदेवताका। सूक्तविनियोगो लिङ्गादवगन्तव्यः । अभिप्लवषडहस्य द्वितीयेऽहनि प्रउगशस्त्रे वायव्यतृचस्य ' तीव्राः सोमासः' इत्येषा तृतीया ।  ‘ द्वितीयस्य चतुर्विंशेन' इति खण्डे सूत्रितं - तीव्राः सोमास आ गहीत्येका' ( आश्व. श्रौ. ७. ६ ) इति । पृठ्यषडहेऽपि द्वितीयेऽहनि प्रउगे एषा ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 23  
 Various Gods (Vāyu 1, Indra and Vāyu 2–3, Mitra and Varuṇa  4–6, Indra Marutvant 7–9, All Gods 10–12, Pūsan 13–15, Waters ̣ 16–23ab, Agni 23cd–24)  
@@ -22,7 +22,7 @@ As in other of Medhātithi’s hymns, the actual contents are fairly simplistic,
 stock.” Most commentators identify this king as Soma, but the thematics and  phraseology—particularly the notion of finding and returning a hidden deity—are much more characteristic of Agni, and we have interpreted these verses in that way.  Whether the king is Agni or Soma, however, it is not clear what this snatch of myth  is doing here in this hymn, though Pūṣan’s ability to locate lost cows is proverbial.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Various gods (Praügaśastra) I.23.4-6: This tṛca to Mitra and Varuṇa stations the two names in three different ways in the three verses. In 4 mitrá- opens the first pāda and váruṇa- the second; in 5 they are expressed in the dual dvandva mitrā́váruṇā in c; in 6 they again open the first two pādas, but with váruṇa- first and mitrá- second.
 </details>

@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रोरवीद् वृ꣡ष्णो अस्य व꣡ज्रो  
 अ꣡मानुषं य꣡न् मा꣡नुषो निजू꣡र्वात्  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 अ꣡पादयत् पपिवा꣡न् सुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 नि । मा॒यिनः॑ । दा॒न॒वस्य॑ । मा॒याः । अपा॑दयत् । प॒पि॒ऽवान् । सु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aroravīd* ← *aroravīt* ← *roro* ← *√ru*
 - \[verb\], singular, Imperfect
@@ -103,7 +103,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 वृष्णः कामानांवर्षकस्येन्द्रस्यवज्रः अरोरवीत् भृशंशब्दमकरोत् कदेत्यपेक्षायामाह—यद्यदाअ- मानुषम्मनुष्याणांरहितं यद्वा मानुषोहन्नभवामीत्येवम्मन्यमानं तमसुरं मानुषोमनुष्याणांहितकारी यद्वा मतिमानिन्द्रोनिजूर्वात् नितरांहिंस्यात् जिघांसतीत्यर्थः जूर्वतोर्हिसाकर्मणोलेटिरूपं सुतस्या- भिषुतंसोमम्पपिवान्पीतवान्मायिनोमायाविनोदानवस्यदानुर्नामवृत्रमाता दानुःशयइत्यादिषुदृष्ट- त्वात् तस्याःपुत्रस्यवृत्रस्यमायाः वञ्चनानिन्यपादयत् न्यपातयत् बबाधइतिया वत् ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,35 +114,35 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 The friend of man sought to: amānuṣam yan mānuṣo nijūrvāt, when the man, or the benefactor of man, manuṣyāṇām hitakārī, destroyed the no-man (manuṣyāṇam rahitam); i.e. the manuṣyāṇām ahitam, not friendly to man
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mace of him, the bull, bellowed again and again when (Indra), the  ally of Manu, was about to grind down (Vr̥tra), the enemy of Manu. He brought low the wiles of the wily son of Dānu, when he had drunk  of the pressed soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is unusual to find a subjunctive nijū́rvāt in a subord. clause whose main cl. has an imperfect intensive (ároravīt). The published translation renders it as “was about to grind down” -- this seems pretty close to target, though I’d probably substitute rather “was going to” -- a past prospective. Sāyaṇa. simply glosses with a desiderative jighāṃsatīty arthaḥ. Of course, the -āt isn’t metrically guaranteed and could have been introduced from vájrāt at the end of 9d, so it is possible that the form was simply injunc. níjū́rvat. Nonetheless, though the usage of the subjunctive here is unusual, I think it can be reconciled with the function of the subjunctive more generally. Note that its function is very much parallel to that of the future participle sariṣyán in 7d.
 
 The pf. part. papivā́n would be better tr. “after having drunk.” Both nijū́rvāt and papivā́n are means of indicating anteriority here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loud roared the mighty Hero's bolt of thunder, when he, the Friend of man, burnt up the monster,  
      And, having drunk his fill of flowing Soma, baffled the guileful Danava's devices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es brüllte seine, des Bullen, Keule, daß der Menschliche den Unmenschen verzehren solle. Er brachte die Zaubereien des zauberischen Danava zu Fall, nachdem er Soma getrunken hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Laut krachte seine Waffe, als der starke, der Menschenfreund, den Menschenfeind verbrannte; Des zauberhaften Dämons Listen schlug er zu Boden, als vom Safte er getrunken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Громко зарычала дубина этого быка (о том,)  
 Что, действуя в пользу человека, надо уничтожить нечеловеческого (врага).  

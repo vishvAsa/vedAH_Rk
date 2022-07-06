@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡न्त्रम् अ꣡खर्वं सु꣡धितं सुपे꣡शसं  
 द꣡धात यज्ञि꣡येषु आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡ इ꣡न्द्रे क꣡र्मणा भु꣡वत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीः । च॒न । प्रऽसि॑तयः । त॒र॒न्ति॒ । तम् । यः । इन्द्रे॑ । कर्म॑णा । भुव॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mantram* ← *mantra*
 - \[noun\], accusative, singular, masculine
@@ -116,36 +116,36 @@ genre M
 हे जनाः **अखर्वम्** अनल्पं **सुधितं** सुविहितं **सुपेशसं** शोभनरूपं **मन्त्रं** स्तोत्रं **यज्ञियेषु** यजनीयेषु देवेषु मध्य इन्द्राय **दधात** विधत्त । **यः** जनः **कर्मणा** स्तुत्यादिरूपेण **इन्द्रे** इन्द्रस्य चित्ते **भुवत्** भवेत् **तं** जनं **पूर्वीः** बह्व्यः **प्रसितयः** पाशादीनि बन्धनानि । **चन** इति समुदायो नेत्यर्थे वर्तते । न **तरन्ति** । न व्याप्नुवन्ति' इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Address (to **Indra**), among the gods, the ample, well-uttered, and graceful prayer; many bonds entanglenot him who, by his devotion, abides in Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A mantra—not stunted, well arranged, well adorned—set it among  those worthy of the sacrifice.  
 The many onslaughts never overcome him who through ritual work  comes to be in (the good grace) of Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make for the Holy Gods a hymn that is not mean, but well-arranged and fair of form.  
      Even many snares and bonds subdue not him who dwells with Indra through his sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet ein nicht zu kurzes, wohlgesetztes, zierliches Dichterwort auf die opferwürdigen Götter. Auch viele Angriffe bemeistern den nicht, der sich durch Opferdienst bei Indra in Gunst setzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schöngemessnen, herrlichen, vollkommnen Spruch, den bringt den hehren Göttern dar; Auch viel Gefahren gehn vorüber an dem Mann, der frommen Werks bei Indra bleibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Произведение неурезанное, хорошо сложенное,  
 Поднесите достойным жертв (богам)!  

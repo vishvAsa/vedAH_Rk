@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡म राजन् मॄळ꣡या+ नः सुअस्ति꣡  
 त꣡व स्मसि व्रति꣡यास् त꣡स्य विद्धि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो अर्यो꣡ अनुकाम꣡म् प꣡रा दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अल॑र्ति । दक्षः॑ । उ॒त । म॒न्युः । इ॒न्दो॒ इति॑ । मा । नः॒ । अ॒र्यः । अ॒नु॒ऽका॒मम् । परा॑ । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soma*
 - \[noun\], vocative, singular, masculine
@@ -131,41 +131,41 @@ genre D
 हे **सोम** **राजन्** **नः** अस्मान् **स्वस्ति** अविनाशाय **मृळय** सुखय च । **व्रत्याः** व्रतिनो वयं **तव** **स्मसि** स्वभूताः स्मः । **तस्य** तं स्वकीयं तव **विद्धि** जानीहि । अथवा तव त्वमित्यर्थः । त्वं जानीहि । किंच हे **इन्दो** **दक्षः** प्रवृद्धोऽस्मच्छत्रुः **अलर्ति** गच्छति । **उत** अपि च **मन्युः** क्रोधः क्रुद्धो वा अलर्ति । तादृशस्योभयविधस्य **अर्यः** अरेः **अनुकामं** थथाकामं **नः** अस्मान् **मा** **परा** **दाः** परादेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “King **Soma**, bless us for our welfare; we worshippers are yours, do you recognize it; the enemy goesstrong and fierce, O Soma; give us not over to him as he desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 King Soma, be merciful to us with well-being. We are under your  commandment: know this.  
 Potency and battle fervor are on the rise, o drop. Don’t hand us over (to  the battle fervor) of the stranger, at his wish.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 King Soma, favour us and make us prosper: we are thy devotees; of this be mindful.  
      Spirit and power are fresh in us, O Indu give us not up unto our foeman's pleasure.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 King Soma, gracious be to us for welfare: We are thy devotees; of that be mindful. O Indu, might and anger rise against us: Hand us not over to our foeman's mercies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 König Soma, verzeih uns zu unserem Glücke! Wir sind deine Geweihten; dessen sei eingedenk! Es regt sich der gute Wille und der Eifer, o Saft. Gib uns nicht der Willkür der Geldprotzen preis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O König Soma, sei uns hold zum Heile, wir sind, das wisse, deine Unterthanen, Schon regt sich Zorn und Hinterlist, o Indu, gib nicht uns preis den feindlichen Gelüsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О сома-царь, помилуй нас на счастье!  
 Тебе мы посвятили себя, знай это!  

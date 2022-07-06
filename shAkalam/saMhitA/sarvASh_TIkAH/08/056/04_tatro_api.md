@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त्रो अ꣡पि प्रा꣡णीयत  
 पूत꣡क्रतायै वि꣡अक्ता  
 अ꣡श्वानाम् इ꣡न् न꣡ यूथि꣡याम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya
 अश्वा॑नाम् । इत् । न । यू॒थ्या॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tatro* ← *tatra*
 - \[adverb\]
@@ -79,37 +79,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “There too has been brought for Putakrata a well-adorned mare, which is not one of the common horsesof the herd.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then there was also led forth the adorned (daughter) of Pūtakratu’s wife  [=Dasyave Vr̥ka’s sister]  
 just as if she belonged to a troop of horses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg and Geldner opt for the Kashmir Khila reading, nom. sg. pūtákratāyī, but it hardly makes sense that Dasyava Vṛka would be giving away his mother. It makes better sense to take the Saṃhitā reading pūtákratāyai (for *pūtákratāyyai), dat. (for gen.), “(the female one) of Pūtakratāyī,” namely her daughter and Dasyava Vṛka’s sister, who would be a more likely gift-in-marriage.
 
 yūthyā̀m is probably a faulty reading. The Khila has yūthyàm, but Geldner’s suggestion, yūthyā̀, seems plausible.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dabei wurde auch noch die geputzte Frau des Putakratu vorgeführt, als ob sie zur Herde der Rosse gehörte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da wurde auch der Pūtakratā eine schöngeschmückte Stute vorgeführt, die nicht zu den Rossen der Heerde gehörte (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И при этом вывели  
 Для Путакрайи украшенную (кобылу),  

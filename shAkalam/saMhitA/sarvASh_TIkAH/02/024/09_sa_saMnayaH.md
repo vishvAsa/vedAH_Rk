@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ संनयः꣡ स꣡ विनयः꣡ पुरो꣡हितः  
 स꣡ सु꣡ष्टुतः स꣡ युधि꣡ ब्र꣡ह्मणस् प꣡तिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡द् इ꣡त् सू꣡र्यस् तपति तप्यतु꣡र् वृ꣡था
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 चा॒क्ष्मः । यत् । वाज॑म् । भर॑ते । म॒ती । धना॑ । आत् । इत् । सूर्यः॑ । त॒प॒ति॒ । त॒प्य॒तुः । वृथा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,36 +132,36 @@ genre M
 पुरोहितोदेवैः पुरतोत्रस्थापितः सब्रह्मणस्पतिः सन्नयः विश्लिष्टानाम्मन्त्रैःसङ्गमयिताभवति विनयः सङ्गतानांविविधन्नेतापृथक्कर्तापिसएव तथा ससुष्टुतः शोभनंस्तोतृभिःस्तुतश्च भवति तथायुधिसङ्ग्रामे सस्तोतॄणामनुग्रहाय प्रादुर्भवतीतिशेषः यद्यदाचाक्ष्मः चष्टेः क्षमतेर्वासर्वस्यद्रष्टासर्वसहोवा ब्रह्मणा स्पतिनादत्तैरन्नैर्धनैश्चयज्ञस्यसिद्धत्वात्स्वयङ्केवलंहवींषिभुञ्चानएववर्ततइत्यर्थः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, **Brahmaṇaspati**, is the aggregator and subjugator (of objects); the family priest (of the gods) and the renowned in battle; the beholder (of all), who bestows food and desired treasures, whence the radiant sun shines without exertion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Placed to the fore, he who leads together and leads apart, he who is well  praised—he is the lord of the sacred formulation in battle.  
 When the penetrating one bears away the prize and the stakes through  his thinking, just then does the blazing sun blaze at will.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He brings together and he parts, the great High Priest; extolled is he, in battle Brahmapaspati.  
      When, gracious, for the hymn he brings forth food and wealth, the glowing Sun untroubled sends forth fervent heat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist der Bevollmächtigte, der die Kämpfer zusammenbringt und auseinanderbringt, der vielgepriesene, der Herr des Gebets im Kampfe. Wenn der ..... durch Einsicht den Sieg, die Gewinne davonträgt, dann brennt nach Lust die brennende Sonne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er ist der Führer, der da sammelt und zerstreut, er, hochgepriesen in der Schlacht, Brihaspati, Wenn holdgesinnt mit Weisheit er den Schatz erringt, dann, dann ja glüht die heisse Sonne recht zur Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он – тот, кто сводит, он – тот кто разводит, как поставленный во главе.  
 Он прекрасно прославлен, он господин молитвы в сражении.  

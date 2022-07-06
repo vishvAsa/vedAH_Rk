@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे अस्या꣡ विउ꣡षि मा꣡हिनायाः  
 सं꣡ य꣡द् गो꣡भिर् अ꣡ङ्गिरसो न꣡वन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋत꣡स्य पथा꣡ सर꣡मा विदद् गाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उत्सः॑ । आ॒सा॒म् । प॒र॒मे । स॒धऽस्थे॑ । ऋ॒तस्य॑ । प॒था । स॒रमा॑ । वि॒द॒त् । गाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -118,20 +118,20 @@ genre M
 **विश्वे** सर्वे **अङ्गिरसः** **माहिनायाः** मंहनीयायाः **अस्याः** उषसः **व्युषि** व्युच्छने सति गवामावरकेऽन्धकारेऽपवृते सति **यत्** यदा **गोभिः** **सं** **नवन्त** संजग्मिरे तदा **आसां** गवाम् **उत्सः** क्षीराद्युत्स्रावः **परमे** उत्कृष्टे **सधस्थे** सहस्थाने यज्ञे उपयुक्तोऽभवदित्यर्थः। **ऋतस्य** सत्यस्य **पथा** मार्गेण **सरमा** वाक् देवशुनी वा **गाः** निगूढाः **विदत्** अलभत । यद्वा । आसां गवां परमे सधस्थे सहस्थाने व्रजस्य निगूहनप्रदेश उत्स उदकस्य प्रस्रवणो वर्तते । बिलमित्यर्थः । तेन ऋतस्य उदकस्य पथा मार्गेण सरमा गा विदत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When all the **Aṅgirasas**, on the opening of this adorable dawn, came in contact with the (discovered) cattle, then milk and the rest were offered in the august assembly, for **Saramā** had found cows by the path of truth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When all the Aṅgirases roared along with the cows at the brightening of  this great (dawn),  
 at the fountainhead of them [=cows], in the highest seat, Saramā found  the cows along the path of truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subordinator yád comes quite late (2nd position pāda b) in the subordinate clause presumably occupying the first hemistich, and it is preceded not only by the subj. (víśve) but by a heavy temporal loc. expression (asyā́vyúṣi mā́hināyāḥ) -- in violation of standard RVic subordinator placement. This anomaly may have led Witzel Gotō to take pāda a as a nominal main clause: “Sie alle (waren) … (zugegen).” I am sympathetic, but think the clause division is unnecessarily radical.
 
@@ -152,23 +152,23 @@ Here the mythic model of the dawn accompanying the dawn ritual, the opening of t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When at the dawning of this mighty Goddess, Angirases all sang forth with the cattle,-  
      Their spring is in the loftiest place of meeting,-Sarama found the kine by Order's pathway.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als bei dem Aufleuchten dieser Herrlichkeiten alle Angirasen in das Gebrüll der Kühe einstimmten, da war ihr Quell am fernsten Ort. Auf dem rechten Wege fand Sarama die Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als da bei dieser grossen Göttin Leuchten die Angirasen mit den Kühen brüllten, Fand Sarama am höchsten Ort die Kühe an deren Quelle auf dem Pfad des Rechtes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда при зажигании этой величественной (зари)  
 Все Ангирасы присоединились к реву коров,  

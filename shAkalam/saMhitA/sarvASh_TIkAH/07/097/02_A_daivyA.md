@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दइ꣡विया वृणीमहे अ꣡वांसि  
 बृ꣡हस्प꣡तिर् नो मह आ꣡ सखायः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ नो दाता꣡ पराव꣡तः पिते꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यथा॑ । भवे॑म । मी॒ळ्हुषे॑ । अना॑गाः । यः । नः॒ । दा॒ता । प॒रा॒ऽवतः॑ । पि॒ताऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -121,21 +121,21 @@ genre M
 हे **सखायः** समानख्यानाः स्तोतारो वयं **दैव्या** दैव्यानि देवसंबन्धीनि **अवांसि** रक्षणानि **आ** **वृणीमहे** अभिभजामहे प्रार्थयामहे । **नः** अस्माकं हविः **बृहस्पतिः** बृहतां पालयिता देवः **आ** **महे** । महतिर्दानार्थः । आमहते आदत्ते । लोपस्त आत्मनेपदेषु' इति तलोपः। **यः** बृहस्पतिः **परावतः** दूरदेशाद्धनान्याहृत्य पुत्रेभ्यः **पितेव** **नः** अस्मभ्यं **दाता** भवति तस्मै **मीळ्हुषे** सेक्त्रे बृहस्पतये **अनागाः** अनागस अनपराधाः **यथा** वयं **भवेम** हे सखायस्तथा यूयं परिचरतेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us solicit, friends divine protections, for **Bṛhaspati** accepts our (oblations); so may we be withoutoffence towards that showerer (of benefits) whois our benefactor from afar, as a father (of a son).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We choose divine help. Br̥haspati holds himself ready for us here, o  comrades,  
 so that we might become without offense to the one who grants  
 rewards, who is a giver to us from afar, like a father.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problem in this vs. is maha (sandhi form) in b bṛ́haspatir no maha ā́ sakhāyaḥ. The Pp reads this as mahe, as do most subsequent interpr. -- though mahaḥ is possible and is in fact the interpr. of at least one tr.: HPS takes it as the voc. pl. of máh-, construed with sakhāyaḥ, hence “ihr grossen Freunde.” But this seems unlikely: there are no voc. forms to this stem in the RV (though the derived fem.
 
@@ -144,23 +144,23 @@ mahī́- does have some), and the intrusion of ā́in the middle of the voc. phr
 As Renou points out, the optative (bhávema) is quite unusual in a yáthā purpose cl., where the subjunctive is standard. See Grassmann s.v. yáthā, cols. 1083-84, nos. 6-8. 124
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We crave the heavenly grace of Gods to guard us-so may Brhaspati, O friends, exalt us-  
      That he, the Bounteous God, may find us sintess, who giveth from a distance like a father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erbitten die göttlichen Gnaden. Brihaspati schenkt sie uns, ihr Freunde, und daß wir vor dem Lohnherrn schuldfrei dastehen, der uns ein Geber aus der Ferne wie ein Vater ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen uns herbei der Götter Beistand, es segne uns Brihaspati, o Freunde, Dass sündlos wir dem gnädigen erscheinen, der aus der Fern uns spendet wie ein Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбираем себе небесные поддержки.  
 Брихаспати нам (их) щедро дарует, о друзья,  

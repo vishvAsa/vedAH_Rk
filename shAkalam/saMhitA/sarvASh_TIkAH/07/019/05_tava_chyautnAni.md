@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व च्यौत्ना꣡नि वज्रहस्त ता꣡नि  
 न꣡व य꣡त् पु꣡रो नवतिं꣡ च सद्यः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हञ् च वृत्रं꣡ न꣡मुचिम् उता꣡हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 नि॒ऽवेश॑ने । श॒त॒ऽत॒मा । अ॒वि॒वे॒षीः॒ । अह॑न् । च॒ । वृ॒त्रम् । नमु॑चिम् । उ॒त । अ॒ह॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -122,14 +122,14 @@ genre M
 हे **वज्रहस्त** **तव** **च्यौत्नानि** बलानि **तानि** तादृशानि । **यत्** यदा त्वं शम्बरस्य **नव** **नवतिं** **च** **पुरः** **सद्यः** युगपदेव विदारितवानसीति शेषः । तदा **निवेशने** निवेशनार्थं **शततमा** शततमीं पुरम् **अविवेषीः** व्याप्नोः । **वृत्रं** **च** **अहन्** । **उत** अपि च **नमुचिम्** **अहन्** ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such, wielder of the thunderbolt, are your mighty powers, that when you had quickly destroyed ninetyand nine cities, you have occupied the hundredth as a plural ce of abode; you have slain **Vṛtra**, you have also slainNamuci.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours are these exploits, you with the mace in hand—that nine and  ninety fortifications at once  
 along with the hundredth you worked to the end, in bringing them  
@@ -137,7 +137,7 @@ to rest [=collapse]. You smashed Vr̥tra, and moreover Namuci you
 smashed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse presents some interlocking syntactic and lexical problems.
 
@@ -156,23 +156,23 @@ The root √viṣ means ‘work, work over’, or here ‘work to the end’, ag
 The d pāda is a perfect chiasmus, even to the positioning of a conjunction between verb and object: áhañ ca vṛtrám námucim utā́han. The mixture of ca and utá is curious. Klein (DGRV I.186-87) is not sure how to analyze it; he suggests either that it’s a “both … and” type of construction, with each conjunction appearing 2nd in its phrase (or so I interpr. his lapidary disc.), or that “ca is a sentential conjunction adjoining d to the rest of the stanza, and utá conjoins the clauses of d.” I prefer the former.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These were thy mighty powers that, Thunder-wielder, thou swiftly crushedst nine-and-ninety castles:  
      Thou capturedst the hundredth in thine onslaught; thou slewest Namuci, thou slewest Vrtra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies sind deine Großtaten, du Keulenträger, daß du die neunundneunzig Burgen an einem Tage brachst. Am Abend tatest du den Hundertsten ab. Und du erschlugst den Vritra und erschlugst den Namuci.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Blitzesträger, das sind deine Thaten, dass du zerstörtest neunundneunzig Burgen An einem Tag, die hundertste am Abend, und Vritra und den Namutschi erschlugest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это твои подвиги, о громовержец,  
 Что в один день (ты разрушил) девяносто девять крепостей.  

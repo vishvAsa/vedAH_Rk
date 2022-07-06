@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ नूनं꣡ जात꣡वेदसम्  
 अ꣡श्वं हिनोत वाजि꣡नम्  
 इदं꣡ नो बर्हि꣡र् आस꣡दे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; repeated line
 इ॒दम् । नः॒ । ब॒र्हिः । आ॒ऽसदे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M;; repeated line
 **जातवेदसं** जातानां वेदितारं जातधनादिकं वा **अश्वं** कर्मभिर्व्याप्नुवन्तं **वाजिनम्** अन्नवन्तं हे ऋत्विग्यजमानाः **नूनम्** अवश्यं **प्र** **हिनोत** प्रवर्धयत । यद्वा । अश्वमिव स्तुतिभिः प्रेरयत । ‘ हि गतौ वृद्धौ च ' । अस्माल्लोटि तशब्दस्य ‘ तप्तनप्तनथनाश्च ' इति तबादेशः । किमर्थम् । **नः** अस्माकम् **इदं** **बर्हिः** आस्तीर्णम् **आसदे** आसत्तुं प्राप्तुम् । बर्हिरासीदत्वित्यर्थः ॥ सदेः ‘कृत्यार्थे तवैकेन्” इति केन्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre M;; repeated line
 Jātavedas asa horse: or, aśvam (adj.) = the all-pervading Jātavedas
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Spur forth now Jātavedas, the prizewinning horse,  
 to sit here on this ritual grass of ours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now send ye Jatavedas forth, send hitherward the vigorous Steed  
      To seat him on our sacred grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Treibt jetzt den Jatavedas, das preisgewinnende Roß an, sich auf dieses unser Barhis zu setzen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Agni send' ich hin mein Lied, zu ihm, der Herr der Völker ist, Er führ' uns durch die Feinde hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поторопите сейчас Джатаведаса,  
 Коня, приносящего награду,  

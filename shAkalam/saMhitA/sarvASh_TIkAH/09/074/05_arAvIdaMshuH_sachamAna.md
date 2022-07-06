@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रावीद् अंशुः꣡ स꣡चमान ऊर्मि꣡णा  
 देवावि꣡यम् म꣡नुषे पिन्वति त्व꣡चम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ये꣡न तोकं꣡ च त꣡नयं च धा꣡महे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 दधा॑ति । गर्भ॑म् । अदि॑तेः । उ॒पऽस्थे॑ । आ । येन॑ । तो॒कम् । च॒ । तन॑यम् । च॒ । धाम॑हे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arāvīd* ← *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
@@ -120,7 +120,7 @@ genre M;; repeated line
 **ऊर्मिणा** वसतीवर्यादीनामुदकानां संघेन **सचमानः** **अंशुः** सोमः **अरावीत्** शब्दं करोति । किंच स सोमः **देवाव्यम्** । अव रक्षणे' ।' अवितॄस्तृतन्त्रिभ्य ईः' इति ईप्रत्ययः । देवानां पालयित्रीं **त्वचम्** आत्मनः शरीरं **मनुषे** मनुष्याय यजमानाय पिन्वति सिञ्चति । पात्रेषु क्षरतीति यावत् ॥ अपि च **अदितेः** अदीनायाः पृथिव्याः **उपस्थे** समीप ओषधीषु तं **गर्भम्** **आ** **दधाति** सुधामयैः किरणैर्विदधाति । **येन** गर्भेण वयं **तोकं** दुःखनाशकं पुत्रं **च** **तनयम्** । तनोति कुलमिति तनयः पौत्रः । तं **च** **धामहे** दध्महे धारयामः । दधातेर्लटि ‘बहुलं छन्दसि' इति शपो लुक् ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,14 +131,14 @@ genre M;; repeated line
 He sprinkles: i.e., distils into the vessels
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The plant, keeping company with the wave, has roared. For Manu it  swells the skin that seeks out the gods.  
 It deposits the embryo in the lap of Aditi, the one by which we will  
 acquire both progeny and prosperity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A variety of identifications have been suggested for the various elements in this vs. See the various tr.
 
@@ -155,23 +155,23 @@ The 2nd hemistich is bookended by verb forms of √dhā: #dádhāti …dhā́mah
 It is not clear to me whether Aditi here has any meaningful connection with the Aditi in 3b or is simply a reference to the ritual ground.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma-stalk hath roared, following with the wave: he swells with sap for man the skin which Gods enjoy.  
      Upon the lap of Aditi he lays the germ, by means whereof we gain children and progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Stengel hat gebrüllt, sich mit der Woge vereinend; er schwellt für den Menschen den göttereinladenden Schlauch an. Er legt in der Aditi Schoß den Keim, durch den wir Samen und leibliche Nachkommenschaft erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es braust der Saft, wenn er mit Wellen sich ergiesst, dem Menschen füllt den Schlauch er, der die Götter labt, Den Fruchtkeim legt er in den Schooss der Aditi, durch den wir Kinder und der Enkel Schar empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Взревел стебель, сопровождаемый волной.  
 Для человека он делает набухшим бурдюк, привлекающий богов.  

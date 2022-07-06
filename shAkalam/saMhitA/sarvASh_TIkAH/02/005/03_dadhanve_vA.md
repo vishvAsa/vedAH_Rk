@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दधन्वे꣡ वा य꣡द् ईम् अ꣡नु  
 वो꣡चद् ब्र꣡ह्माणि वे꣡र् उ त꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नेमि꣡श् चक्र꣡म् इवाभवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 परि॑ । विश्वा॑नि । काव्या॑ । ने॒मिः । च॒क्रम्ऽइ॑व । अ॒भ॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dadhanve* ← *dhanv*
 - \[verb\], singular, Perfect indicative
@@ -119,20 +119,20 @@ genre M
 पूर्वेमन्त्रेहोत्रादिवत् स्वयमपियज्ञन्निर्वहतीत्युक्तं अत्रतुसर्वन्तत्तदात्मनास्थित्वास्वयमेवनिर्व- हतीत्याह—वाअथवाईमेनंयज्ञंअनुलक्षीकृत्य यद्धविरादिकन्दधन्वेधारयत्यध्वर्थ्वादिरूपः यानिब्रह्मा- णिशस्त्रदीनिअनुवोचत् अनुवक्ति होत्रदिरूपः अत्रवाइत्येतद्योज्यं तत्सर्वंवेःउवेरेवकामयते जानाति- वास्वयमनुष्ठातुं अयमग्निर्विशानिसर्वाणिकाव्याकाव्यानिकवयोमेधाविनऋत्विजस्तत्सम्बन्धीनिकर्मा- णिपर्यभवत् परिभवतिस्वायत्तानिकरोति व्याप्नोतीत्यर्थः व्याप्तौदृष्टान्तः—नेमिः बहिर्वेष्टनबलयः चक्रमिवरथाङ्गयथा कार्त्स्न्येनव्याप्नोतितद्वत् ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatever (offerings the priest) presents, whatever prayers he recites, he, (**Agni**), knows them all; he comprehends all priestly acts, as the circumference (includes the spokes) of a wheel.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Or, when he has run after it, he will speak sacred formulations [bráhmāṇi]  and pursue this (office of Brahman-priest):  
 he has encompassed all poetic skills, like a felly a wheel.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is not clear what the disjunctive vā is disjoining. Klein (DGRV II.187-88) considers vs. 3 a reformulation of vs. 2, tr. “Or (more precisely) …” But since vs. 3 most likely concerns a different priestly office than vs. 2 (brahmán- by implication, not pótar-), this doesn’t work. No other tr. attempts to account for vā. Since Agni is the implicit subject of these vss. and the referent of the various priestly offices, I think that “or” is simply introducing a different role that the same Agni performs. If, as I suggest below, the first part of vs. 3 (dadhanvé … yád īm ánu “when he has run after it”) picks up the last part of vs. 2 (víśvaṃ tád invati “he sets all this in motion”), the “or” might emphasize the fact that the same Agni who set the sacrifice in motion is now switching roles to run after what he started. The “or” indicates that an alternative Agni-figure is now in question.
 
@@ -147,28 +147,28 @@ As noted in the introduction. remark above, this vs. is the only one of the seve
 This brings us to the problem of abhavat. As Ian Hollenbaugh points out to me, the recent past sense I attribute to this verb here (“has encompassed”) would be highly unusual for an augmented imperfect, and given the perplexing variety of verbs in the earlier parts of the vs. (pf. dadhanvé, injunc. aor. vócat, injunc. pres. véḥ) and the uncertainty of their syntactic distribution, not to mention the sense of the vs. as a whole, adding to the confusion by attributing an unusual sense to abhavat should be avoided if at all possible. It might be possible to read the injunctives vócat and véḥ not as present/future as in the published translation, but as pasts: “… he spoke formulations and pursued …,” which would be friendly to a simple past interpr. of abhavat “he encompassed …” However, two things speak against this. First, the rest of the hymn presents Agni’s occupation of the various offices in the present/recent past. And second, injunctive forms of vóca- almost always have a performative pres.-future sense, as in the famous and stereotyped opening of I.32.1 índrasya nú vīryā̀ṇi prá vocam “I (will) proclaim the manly deeds of Indra.” Imposing a past interpr. here would contravene the normal usage of this form, esp. since it fits well with the presential focus of the rest of the hymn and nothing else presses a past interpr. My not entirely satisfactory response to this conundrum is to suggest that cd describes Agni’s acquisition of poetic skills in the past - he is elsewhere often called a kaví- -- which allows him to assume the role of Formulator now. So I would alter the tr. to “he encompassed all poetic skills …” Many thanks to Ian Hollenbaugh for extensive discussion of this problematic passage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When swift he follows this behest, bird-like he chants the holy prayers.  
      He holds all knowledge in his grasp even as the felly rounds the wheel.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Or when he has run along, and has recited the sacred words 1, and has pursued that (duty) 2, he has encompassed every kind of wisdom as the felly (encircles) the wheel.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sobald er aber im Lauf ist und die Segensworte spricht, so besorgt er auch dieses Amt. Alle Weisheit hat er umspannt wie die Felge das Rad.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn man zu ihm gelaufen kommt Gebete spricht, das sieht er gern; Er legt um alle Lieder sich, wie um das Rad des Rades Kranz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же он бросается вслед,  
 Произнося молитвы, он берет на себя и это.  

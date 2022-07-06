@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡र्शन् नु꣡ अ꣡त्र शृतपाँ꣡ अनिन्द्रा꣡न्  
 बाहुक्ष꣡दः श꣡रवे प꣡त्यमानान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ध्य् ऊ नु꣡ एषु पव꣡यो ववृत्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 घृषु॑म् । वा॒ । ये । नि॒नि॒दुः । सखा॑यम् । अधि॑ । ऊं॒ इति॑ । नु । ए॒षु॒ । प॒वयः॑ । व॒वृ॒त्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *darśan* ← *dṛś*
 - \[verb\], plural, Present conjunctive (subjunctive)
@@ -125,7 +125,7 @@ popular
 **अत्र** अस्मिञ्जगति **शृतपान्** शृतानि पक्वानि सोमादिहवींष्यपहृत्य पिबतः **अनिन्द्रान्** इन्द्रेण मया वर्जितान् **बाहुक्षदः** बहुभिर्यजमानान्शकलीकुर्वतः **शरवे** हिंसार्थं **पत्यमानान्** अभिपततोऽसुरादीन् **नु** क्षिप्रं **दर्शन्** अहमिन्द्रः पश्यामि । एवंभूतेषु **एषु** **अधि** उपरि **पवयः** मदीयान्यायुधानि **ववृत्युः** वर्तन्ते । वाशब्दः समुच्चये । **घृषुं** महान्तं च **सखायं** सखिवत्प्रियं हितस्य कर्तारं मां **ये** **निनिदुः** निन्दन्ति । **उ** इति समुच्चये। एषु चोपरि मदीयान्यायुधानि क्षिप्रं वर्तन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,30 +136,30 @@ popular
 United two: pavaste =going; i.e., going in order to surpass everyone in greatness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra? Singer?:] He will now see those here who drink the cooked (milk  oblation) and who serve the foreleg without (offering to) Indra, and  
 those who play the lord’s role for an arrow,  
 or who have scorned their ardent comrade. The wheel-rims should now  roll over them!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To see the Indraless oblation-drinkers, mean offerers, o'ertaken by destruction!  
      Then shall the fellies of my car pass over those who have blamed my joyous Friend and scorned him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bald sollen sie dann sehen, wie die, welche ohne Indra die Kochmilch trinken, die auf ihre Arme pochen, meinem Geschoß verfallen sind, oder welche den kampffrohen Freund geschmäht haben, über die sollen alsbald die Räder rollen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sieh hier die Knicker, sieh die Brühetrinker, die Indrafeinde für den Pfeil geeignet, Die deinen Freund, den eifervollen hassen, lass über diese deine Räder rollen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

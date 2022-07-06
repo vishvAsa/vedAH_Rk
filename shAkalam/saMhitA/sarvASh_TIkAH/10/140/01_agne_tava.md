@@ -6,7 +6,7 @@ ChandaH = "विष्टारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने त꣡व श्र꣡वो व꣡यो  
 म꣡हि भ्राजन्ते अर्च꣡यो विभावसो  
@@ -14,7 +14,7 @@ ChandaH = "विष्टारपङ्क्तिः"
 द꣡धासि दाशु꣡षे कवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 बृह॑द्भानो॒ इति॒ बृह॑त्ऽभानो । शव॑सा । वाज॑म् । उ॒क्थ्य॑म् । दधा॑सि । दा॒शुषे॑ । क॒वे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -106,37 +106,37 @@ genre M
 हे **अग्ने** **तव** **वयः** अन्नं **श्रवः** श्रवणीयं प्रशस्यम् । हविरात्मकस्य तस्य मन्त्रसंस्कृतत्वेन प्रशस्तत्वात् । अन्नेषु मध्ये तवैवान्नं श्रेष्ठमित्यर्थः । हे **विभावसो** । विशिष्टा दीप्तिर्विभा । सैव वसु धनं यस्य तादृशाग्ने **अर्चयः** दीप्तयः **महि** महत् बहुलं **भ्राजन्ते** दीप्यन्ते । ‘भ्राजृ दीप्तौ । अनुदात्तैत् । भौवादिकः । हे **बृहद्भानो** प्रौढदीप्ते **कवे** क्रान्तदर्शिन्नग्ने एवंमहानुभावस्त्वं **शवसा** बलेनोपेतम् **उक्थ्यं** प्रशस्यम् । यद्वा । उक्थो यज्ञः । तद्योग्यं **वाजम्** अन्नं **दाशुषे** हवींषि दत्तवते यजमानाय **दधासि** ददासि प्रयच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your, **Agni**, is the most excellent sacrificial food; your flames, O opulent in radiance, blaze fiercely;wise and widely luminous (Agni), you bestow upon the donor (of the oblation) the choicest food with strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, yours are fame and vitality; your beams flash greatly, o you with  radiant goods.  
 You of lofty radiance, with your power you establish a praiseworthy  
 prize for the pious, o sage poet.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, life-power and fame are thine: thy fires blaze mightily, thou rich in wealth of beams!  
      Sage, passing bright, thou givest to the worshipper, with strength, the food that merits laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, dein ist der Ruhm und die Kraft. Mächtig strahlen deine Flammen, du Glanzreicher. Du Hellscheinender verleihest durch deine Macht preislichen Lohn dem Opfernden, o Seher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, dein ist Kraft und Ruhm, hoch leuchten deine Flammen, strahlenreicher, auf, Du gibst mit Kraft, o weiser, herrlich glänzender, dem Frommen preisenswerthes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, у тебя слава, сила (жизни).  
 Мощно сверкают огни (твои), о блистательный.  

@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पवस्व स꣡हमानः पृतन्यू꣡न्  
 से꣡धन् र꣡क्षांसि अ꣡प दुर्ग꣡हाणि  
 सुआयुधः꣡ सासह्वा꣡न् सोम श꣡त्रून्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सु॒ऽआ॒यु॒धः । स॒स॒ह्वान् । सो॒म॒ । शत्रू॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -93,20 +93,20 @@ genre M
 हे सोम **सः** तादृशस्त्वं **पवस्व** । किं कुर्वन् । **पृतन्यून्** ॥ ‘कव्यध्वरपृतनस्यर्चि लोपः। इति क्यचि परतोऽकारलोपः ॥ संग्रामकामान् शत्रून् **सहमानः** अभिभवन् तथा **दुर्गहाणि** कैश्चिदपि दुर्गमाणि **रक्षांसि** **अप** **सेधन्** अपगमयन् हिंसन् । किंच **स्वायुधः** शोभनायुधः सन् **शत्रून्** **सासह्वान्** अभिभवन्नभितपन् पवस्व ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Soma**, overcoming (our) enemies, driving away the **rākṣasas** who are difficult to approach, well-armed, triumphing over foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, vanquishing the battlers, repelling demons and difficult  plunges,  
 having good weapons, having vanquished your rivals, Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The c pāda also shows alliteration: s u vāyudháḥ sāsahvā́n soma śátrun.
 
@@ -120,23 +120,23 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So flow thou on, subduing our assailants, chasing the demons hard to beencountered,  
      Well-armed and conquering our foes, O Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich, der die Angreifer überwältigt, die Unholde abhält, die schwierigen Wege fernhält, mit guten Waffen die Feinde überwältigend, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle hell, der Feinde Schar besiegend, Gespenster tilgend und Gefahren scheuchend, Die Gegner schlagend schönbewehrt, o Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся как осиливающий нападающих,  
 Прогоняющий ракшасов, у(страняющий) дурные пути,  

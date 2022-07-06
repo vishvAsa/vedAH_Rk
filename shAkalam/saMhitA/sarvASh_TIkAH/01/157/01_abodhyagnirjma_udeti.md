@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡बोधि अग्नि꣡र् ज्म꣡ उ꣡द् एति सू꣡रियो  
 वि꣡ उषा꣡श् चन्द्रा꣡ महि꣡ आवो अर्चि꣡षा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रा꣡सावीद् देवः꣡ सविता꣡ ज꣡गत् पृ꣡थक्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अयु॑क्षाताम् । अ॒श्विना॑ । यात॑वे । रथ॑म् । प्र । अ॒सा॒वी॒त् । दे॒वः । स॒वि॒ता । जग॑त् । पृथ॑क् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abodhy* ← *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
@@ -131,36 +131,36 @@ genre M
 अयम् **अग्निः** विहितः सन् **ज्मः** ज्मायाः पृथिव्या वेदिलक्षणायाः संबन्धी सन् **अबोधि** प्रतिबोधितः । ज्मेति पृथिवीनाम, ‘ग्मा ज्मा' (नि. १.१.३) इति तन्नामसूक्तत्वात् । किंच **सूर्यः** **उदेति** । **मही** महती **उषाः** **अर्चिषा** प्रकृष्टेन तेजसा **चन्द्रा** प्राणिनाम् आह्लादिनी सती **वि** **आवः** तमांसि विवासयति ॥ वसेर्लुङि' छान्दुसः च्लेर्लुक्। 'छन्दस्यपि दृश्यते' इति आडागमः ॥ यतः इयमुषा उदेति यतश्च सूर्यो यतश्चायमग्निः प्रबुद्धो भवति अतः कारणात् हे अश्विनौ युष्मत्संबन्धिनं **रथं** **यातवे** देवयजनगमनाय रासभाभ्याम् **आयुक्षाताम्** आभिमुख्येन युञ्जाथाम् । तथा **सविता** सर्वकर्मणोऽनुज्ञाता **देवः** **जगत्** जङ्गमं प्राणिजातं **पृथक्** स्वस्वकर्मानुरोधेन **प्रासावीत्** प्रसौतु अनुजानातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is awakened upon earth; the Sun rises; the spreading dawn, exhilarating (all) by her radiance, has dispersed (the darkness); harness, (therefore), **Aśvins** your chariot, to come (to the sacrifice), that the divine **Savitā** may animate allbeings to (the performance of) their several (duties).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni has awakened; the Sun rises from the earth; great, glowing Dawn  has dawned widely with her ray of light.  
 The Aśvins have harnessed their chariot to make their journey. The god  Savitar has spurred the living world in all directions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI is wakened: Surya riseth from the earth. Mighty, refulgent Dawn hath shone with all her light.  
      The Asvins have equipped their chariot for the course. God Savitar hath moved the folk in sundry ways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist erwacht, die Sonne steigt von der Erde empor; die schimmernde große Usas ist mit ihrem Strahl aufgeleuchtet. Die Asvin haben zur Fahrt ihren Wagen angeschirrt; Gott Savitri hat alles, was lebt, jeden einzelnen herausgetrieben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erwacht ist Agni, und die Sonne steigt empor, die Morgenhelle hat durch Licht die Welt enthüllt, Schon ist der Ritter Wagen zu der Fahrt geschirrt, Gott Savitar hat hier und dort das Volk erweckt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пробудился Агни. С земли поднимается солнце.  
 Великая яркая Ушас засветилась пламенем.  

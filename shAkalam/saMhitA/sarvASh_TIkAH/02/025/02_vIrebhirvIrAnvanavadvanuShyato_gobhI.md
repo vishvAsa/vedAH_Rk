@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीरे꣡भिर् वीरा꣡न् वनवद् वनुष्यतो꣡  
 गो꣡भी रयि꣡म् पप्रथद् बो꣡धति त्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 तो॒कम् । च॒ । तस्य॑ । तन॑यम् । च॒ । व॒र्ध॒ते॒ । यम्ऽय॑म् । युज॑म् । कृ॒णु॒ते । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vīrebhir* ← *vīrebhiḥ* ← *vīra*
 - \[noun\], instrumental, plural, masculine
@@ -132,42 +132,42 @@ genre M;; repeated line
 सयजमानः वीरेभिः वीरैरात्मीयैःपुत्रैः वनुष्यतोहिंसतः वीरान् शत्रुपुत्रान् वनवत् वनुयात् हिं- स्यात् अपिच गोभिःसहितंरयिन्धनम्पप्रथत् प्रथयति विस्तारयति प्रथयतेर्लुङिचङ्येतद्रूपम् तथात्मना आत्मनैवबोधति सर्वञ्जानाति अनन्याधीनज्ञानोभवतीत्यर्थः किञ्च त्स्ययजमानस्य तोकम्पुत्रः तनयं विभक्तिव्यत्ययः तनयस्तत्पुत्रश्चवर्धते प्रवृद्धोभवति तदातोकन्तनयं पुत्रम्पौत्रञ्चब्रह्मणस्पतिर्वर्धयति वृधिरन्तर्भावितण्यर्थोद्रष्टव्यः अन्यद्गतम् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Surrounded) by his descendants, may he **surpas** the malevolent descendants (of his adversaries), for he is famed for great wealth of cattle, and understands (all things) of himself; his sons and grandsons prosper whom **Brahmaṇaspati** makes his associate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With his heroes he will win against the heroes who seek to win. With his  cows he will expand his wealth. He (thus) attends to himself,  
 and his progeny and posterity increase—whomever the lord of the sacred  formulation makes his own yokemate.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner, Renou, Schmidt (Bṛhaspati und Indra, 113) take pres. act. part. vanuṣyatáḥ here as gen. sg. dependent on acc. pl. vīrā́n (e.g., Schmidt “… die Mannen des Angreifenden”). I find this extremely unlikely, given that the same word in the same etymological figure in 1a and in the following hymn, II.26.1a, must be acc. pl. The acc. pl. ṛghāyatáḥ at the end of 3a with the same morphological structure also supports this analysis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With heroes he shall overcome his hero foes, and spread his wealth by kine wise by himself is be.  
      His children and his children's children  
      grow in strength, whomever Brahmanaspati takes for his friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit seinen Söhnen wird die Söhne des Neiders überwinden, mit Kühen seinen Reichtum ausbreiten - er merkt es an sich selbst, sein Same und Kindeskind nimmt zu - wen immer Brahmanaspati zu seinem Verbündeten macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Männer wird die Feinde der bewältigen, Besitz an Rindern mehren, stets darauf bedacht, Und mehren seiner Kinder und der Enkel Schar, wen der Gebets Herr je sich zum Genossen macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Своими) героями он победит героев, желающих победить,  
 Коровами распространит (свое) богатство – (так) он заботится о себе,  

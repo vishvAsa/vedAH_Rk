@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ ते जिह्वा꣡ म꣡धुमती सुमेधा꣡  
 अ꣡ग्ने देवे꣡षु उच्य꣡त उरूची꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ सादय पाय꣡या चा म꣡धूनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तया॑ । इ॒ह । विश्वा॑न् । अव॑से । यज॑त्रान् । आ । सा॒द॒य॒ । पा॒यय॑ । च॒ । मधू॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -124,20 +124,20 @@ genre M
 हे **अग्ने** **ते** तव **मधुमती** उदकवती **सुमेधाः** । शोभना मेधा प्रज्ञा यस्याः सा । सर्वस्य ज्ञापयित्री **या** **जिह्वा** ज्वाला **उरूची** बहुव्याप्तिः सती **देवेषु** मध्ये आह्वानार्थम् **उच्यते** प्रेर्यते **तया** जिह्वया **यजत्रान्** यजनीयान् विश्वान् देवान् **इह** कर्मण्यस्माकम् **अवसे** रक्षणाय **आ** **सादय** उपवेशय । किंच तान् विश्वान् देवान् **मधूनि** मदकरान् सोमान् **पायय** ॥ सुमेधाः ।  नित्यमसिच्प्रजामेधयोः' इति असिच् । उच्यते । ‘वच परिभाषणे ' । कर्मणि यकि रूपम् । यद्वृत्तयोगादनिघातः । उरूची । अञ्चतेः क्विन् ।  ‘ अञ्चतेश्चोपसंख्यानम् ' इति ङीप् । ' अनुदात्तस्य च यत्रोदात्तलोपः' इति ङीप उदात्तत्वम् । पायय । ‘पा पाने ' इत्यस्य णौ परतः ‘शाच्छासाह्वाव्यावेपां युक्' इति युक् । तिङ उत्तरत्वादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With your wide-spreading tongue, **Agni**, sweet and intelligent, which is renowned amongst the gods, bring hither all the adorable deities for our protection, and give them to drink of the sweet (libations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your tongue, honeyed, very wise, wide spreading, which is proclaimed  (even) among the gods, o Agni,  
 with it make all those worthy of the sacrifice sit here for our help and  make them drink the honeyed (drinks).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two descriptors of Agni’s tongue, mádhumatī ‘possessing honey’ and sumedhā́(ḥ) ‘very wise’, seem almost to clash in their juxtaposition, but they were probably chosen to reflect two different aspects of the tongue. On the one hand, Agni’s tongues of flame flare up when the libations are poured upon them; ‘honey’ presumably here refers to these libations (rather than to soma, despite the common identification of soma with honey; soma would put the flames out if poured on them).
 
@@ -146,23 +146,23 @@ But real tongues, the kind that produce speech, can be qualified as ‘very wise
 [III.58-60 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thy meath-sweet tongue that tastes fair viands, which among Gods is called the far-extended,-  
      Therewith make all the Holy Odes be seated here for our help, and feed them with sweet juices.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine süße, hochweise Zunge, o Agni, die sich breit machend bis zu den Göttern erklingt, mit der heiße hier alle Opferwürdigen zur Gunsterweisung sich setzen und gib ihnen die Honigtränke zu trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner süssen, speisereichen Zunge, die weitgestreckt, o Agni, heisst bei Göttern, Mit der bring her zur Hülfe all die hehren, und lass sie trinken hier die süssen Tränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Язык твой, что сладостен и очень мудр,  
 О Агни, простираясь далеко, звучит среди богов, –  

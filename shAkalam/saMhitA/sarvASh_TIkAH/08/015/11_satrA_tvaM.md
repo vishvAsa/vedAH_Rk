@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रा꣡ तुव꣡म् पुरुष्टुतँ  
 ए꣡को वृत्रा꣡णि तोशसे  
 ना꣡न्य꣡ इ꣡न्द्रात् क꣡रणम् भू꣡य इन्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 न । अ॒न्यः । इन्द्रा॑त् । कर॑णम् । भूयः॑ । इ॒न्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrā*
 - \[adverb\]
@@ -92,40 +92,40 @@ genre M
 हे **पुरुष्टुत** बहुभिः स्तुतेन्द्र **त्वम्** **एकः** असहाय एव सन् **सत्रा** । महन्नामैतत् । महान्ति **वृत्राणि** शत्रुजातानि । यद्वा । सत्रेति सहार्थे । सहैव युगपदेवैकयत्नेनैव **तोशसे** हिनस्सि । तोशतिर्वधकर्मा । अकर्तुं शक्तानीति भावः । अपि चास्मात् **इन्द्रात्** **अन्यः** कश्चित् **भूयः** बहुतरं **करणं** कर्म वृत्रवधादिकं **न** **इन्वति** न प्राप्नोति । इन्द्र एवं कर्तुं शक्नोतीति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**), the praised of many, you alone destroy many mighty foes; no other Indra achieves such greatexploits.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In every way, o much-praised one, you alone stream over obstacles. None other than Indra spurs more action.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this verse forming a ring with 3ab, see introduction. and comments on vs. 3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ever, alone, O highly-praised, thou sendest Vrtras to their rest:  
      None else than Indra executes the mighty deed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Vielbesungener sprengst allein die Feinde allzumal in die Flucht; keiner als Indra bringt dieses Werk zustande.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du legst allein, gepriesener, die Feinde allesammt zur Ruh; Kein andrer fördert mehr das Werk, als Indra du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты сразу же, о многовосхваленный,  
 Один успокаиваешь врагов.  

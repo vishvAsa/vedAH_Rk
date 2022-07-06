@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡पो ह य꣡द् विद꣡थं वाजि꣡नो गु꣡र्  
 धीभि꣡र् वि꣡प्राः प्र꣡मतिम् इछ꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इन्द्रअग्नी꣡ जो꣡हुवतो न꣡रस् ते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अर्व॑न्तः । न । काष्ठा॑म् । नक्ष॑माणाः । इ॒न्द्रा॒ग्नी इति॑ । जोहु॑वतः । नरः॑ । ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upo* ← *upa*
 - \[adverb\]
@@ -129,21 +129,21 @@ genre M
 **वाजिनः** हविष्मन्तः **विप्राः** मेधाविनः **प्रमतिं** प्रकृष्टां मतिमिन्द्राग्न्योरनुग्रहबुद्धिम् **इच्छमानाः** आत्मन इच्छन्तः **यत्** ये यजमानाः **विदथम्** । विदन्ति जानन्ति देवानत्र यष्टव्यत्वेनेति विदथो यज्ञः । तं **धीभिः** कर्मभिर्बुद्धिभिर्वा **उपो** **गुः** उपगच्छन्ति । उ इति पूरकः । **ते** **नरः** कर्मणां नेतारो जनाः **अर्वन्तो** **न** **काष्ठां** यथाश्वाः शीघ्रं युद्धभूमिं व्याप्नुवन्ति तथा **नक्षमाणाः** ऐन्द्राग्नानि कर्माणि व्याप्नुवन्तः **इन्द्राग्नी** इन्द्रमग्निं च **जोहुवतः** पुनःपुनराह्वयन्तो भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those sage offerers of oblations, who, desiring your favour, celebrate the sacrifice with holy rites,hasten to worship you, like horse to battle, repeatedly invoking **Indra** and **Agni**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the prize-seekers have come to the rite of distribution, the inspired  poets with their visionary thoughts seeking your solicitude,  
 like steeds reaching the finish line, the men ever calling on Indra  
 and Agni—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -157,23 +157,23 @@ However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … ví
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea when the strong have entered our assembly, and singers seeking with their hymns your favour,  
      They are like steeds who come into the race-course, those men who call aloud on Indra-Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn die Preiskämpfer zum Opfer schreiten, die redekundigen, mit ihren Gedanken eure Fürsorge sich wünschend, wie Rennpferde, die in die Schranken kommen, diese Herren, die Indra und Agni anrufen,-
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehend; Wie Rosse, die des Rennens Preis erstreben, sind dann die Männer, Indra-Agni rufend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А когда (мужи,) стремящиеся к награде, подошли к жертвенной раздаче,  
 Поэты со (своими) видениями, ища (вашей) заботы,  

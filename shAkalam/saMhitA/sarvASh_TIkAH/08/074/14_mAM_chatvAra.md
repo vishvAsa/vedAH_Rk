@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मां᳐꣡ चत्वा꣡र आश꣡वः  
 श꣡विष्ठस्य द्रवित्न꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 व꣡क्षन् व꣡यो न꣡ तु꣡ग्रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सु॒ऽरथा॑सः । अ॒भि । प्रयः॑ । वक्ष॑न् । वयः॑ । न । तुग्र्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
@@ -93,7 +93,7 @@ genre M
 **मां** **शविष्ठस्य** अतिशयेनान्नवतः श्रुतर्वणो राज्ञः संबन्धिनः **चत्वारः** **आशवः** अश्वाः **द्रवित्नवः** गमनशीलाः **सुरथासः** शोभनरथा अश्वाः **प्रयः** अन्नं शत्रूणां प्रति **अभि** **वक्षन्** अभिवहन्ति । **वयो’** **न** **तुग्र्यम्**। भुज्युं यथाश्विभ्यां प्रेरिताश्चतस्रो नावः स्वगृहं प्रापयन् तद्वदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,30 +106,30 @@ Son of TUgra: Bujyu's legend;
 **Vayaḥ** =birds, a metaphor for ships
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The four swift runners of most powerful (Śrutarvan),  
 along with a good chariot, will convey me to my pleasure, as birds  
 conveyed the son of Tugra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Four coursers with a splendid car, Savistha's horses, fleet of foot,  
      Shall bring me to the sacred feast, as flying steeds brought Tugra's son.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mich sollen die vier laufschnellen Renner des Mächtigsten am schönen Wagen zum Mahle fahren wie die Vögel den Tugrasohn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mich sollen vier schnell laufende Rosse des Çavischtha an schönen Wagen geschirrt zum Mahle fahren, wie Vögel den Sohn des Tugra (Bhudschju.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

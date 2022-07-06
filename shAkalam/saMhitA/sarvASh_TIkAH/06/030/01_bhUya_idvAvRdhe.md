@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भू꣡य इ꣡द् · वावृधे वीरि꣡यायँ  
 ए꣡को अजुर्यो꣡ दयते व꣡सूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अर्ध꣡म् इ꣡द् अस्य प्र꣡ति रो꣡दसी उभे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्र । रि॒रि॒चे॒ । दि॒वः । इन्द्रः॑ । पृ॒थि॒व्याः । अ॒र्धम् । इत् । अ॒स्य॒ । प्रति॑ । रोद॑सी॒ इति॑ । उ॒भे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhūya* ← *bhūyas*
 - \[adverb\]
@@ -127,35 +127,35 @@ genre M
 अयमिन्द्रः **भूयः** **इत्** बहुतरमेव **वावृधे** प्रवृद्धोऽभूत् । किमर्थम् । **वीर्याय** वीरकर्माणि वृत्रवधादीनि कर्तुम् । **एकः** मुख्यः **अजुर्यः** जरयितुमशक्यः स च **इन्द्रः** **वसूनि** धनानि **दयते** स्तोतृभ्यो ददाति । तथा **दिवः** द्युलोकात् **पृथिव्याः** भूमेश्चायमिन्द्रः **प्र** **रिरिचे** अतिरिच्यते । किंच **अस्य** इन्द्रस्य **उभे** **रोदसी** द्यावापृथिव्यौ **अर्धमित्** अर्धमेव **प्रति** । अस्येन्द्रस्यार्धो भागो द्यावापृथिव्योः प्रतिनिधिर्भवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Again has **Indra** increased (in strength) for (the display of) heroism; he, the chief (of all), the undecayable, bestows riches (on his votaries); Indra surpasses heaven and earth; a mere portion of him is equal to both earth and heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has been strengthened even more for the heroic deed; he alone, the  unaging, apportions good things. Indra projects beyond heaven and earth: the two worlds are equivalent to  just half of him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 INDRA hath waxed yet more for hero prowess, alone, Eternal, he bestoweth treasures.  
      Indra transcendeth both the worlds in greatness: one half of him equalleth earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Immer mehr ist er zur Heldenkraft herangewachsen, er allein, der Alterlose, teilt die Schätze aus. Indra ragt über Himmel und Erde hinaus; beide Welten kommen nur der Hälfte von ihm gleich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Noch mehr erwuchs zur Heldenstärke Indra, die Güter theilt allein er aus, nicht alternd, Es überragte Erd' und Himmel Indra, von ihm die Hälfte ist so gross als beide.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Еще больше возрос Индра силой мужества,  
 Один он, нестареющий, раздает блага.  

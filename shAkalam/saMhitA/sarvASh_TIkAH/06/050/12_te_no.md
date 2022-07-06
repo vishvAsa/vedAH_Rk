@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो रुद्रः꣡ स꣡रस्वती सजो꣡षा  
 मीळ्हु꣡ष्मन्तो वि꣡ष्णुर् मॄळन्तु+ वायुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पर्ज꣡न्यावा꣡ता पिप्यताम् इ꣡षं नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒भु॒क्षाः । वाजः॑ । दैव्यः॑ । वि॒ऽधा॒ता । प॒र्जन्या॒वाता॑ । पि॒प्य॒ता॒म् । इष॑म् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -111,36 +111,36 @@ genre M
 **मीळ्हुष्मन्तः** वर्षणवन्तः **ते** देवाः **नः** अस्मान् **मृळन्तु** मृळयन्तु सुखयन्तु । के त इति चेदुच्यते । **रुद्रः** **सरस्वती** च **सजोषाः** सह प्रीयमाणाः **विष्णुः** **वायुः** च **ऋभुक्षाः**। ऋभुर्विभ्वा वाज इति त्रयः सौधन्वनाः । तेषामाद्यो ऋभुश्च **वाजः** अन्तिमश्च । उपलक्षणमेतत् । विभ्वा च । **दैव्यः** देवेभ्यो हितः **विधाता** प्रजापतिश्च । अपि च **पर्जन्यावाता** पर्जन्यश्च वायुश्चोभौ **नः** अस्मभ्यम् **इषम्** अन्नं **पिप्यतां** वर्धयताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Rudra** and **Sarasvatī**, alike well plural ased and **Viṣṇu** and **Vāyu**, make us happy, sending rain; and Ribhukṣin, and **Vāja**, and the divine **Vidhātā**; and may **Parjanya** and **Vāta** grant us abundant food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let those who grant rewards be merciful to us in concord—Rudra and  Sarasvatī, Viṣṇu, Vāyu,  
 the Master of the R̥bhus, Vāja, the divine Distributor. Let Parjanya  [/Thunder] and Vāta [/Wind] swell refreshments for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Rudra and Sarasvati, accordant, Visnu and Vayu, pour down gifts and bless us;  
      Rbhuksan, Vaja, and divine Vidhatar, Parjanya, Vata make our food abundant.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sollen uns in Eintracht gnädig sein: Rudra, Sarasvati, Vishnu, Vayu, die Belohnenden, Ribhuksan, Vaja, der göttliche Vidhatri. Parjanya und Vata, sollen uns die Nahrung anschwellen lassen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mögen uns gnädig sein, Rudra mit Sarasvati vereinigt, die huldreichen Vischnu, Vaju, Ribhukschan, Vadscha, der göttliche Vertheiler, Pardschanja und Vata mögen Labetrunk uns reichlich spenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть они смилуются над нами:  
 Рудра, Сарасвати, единодушная (с богами), щедрые Вишну (и) Ваю!  

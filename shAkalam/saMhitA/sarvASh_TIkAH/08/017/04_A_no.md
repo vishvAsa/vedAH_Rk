@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो याहि सुता꣡वतो  
 अस्मा꣡कं सुष्टुती꣡र् उ꣡प  
 पि꣡बा सु꣡ शिप्रिन् अ꣡न्धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पिब॑ । सु । शि॒प्रि॒न् । अन्ध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -82,35 +82,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **सुतवतः** अभिषुतसोमयुक्तानस्मान् **आ** **याहि** अभिगच्छ। ततः **अस्माकं** संबन्धीनि **सुष्टुतीः** शोभनानि स्तोत्राण्युपगच्छ जानीहि । हे **सुशिप्रिन्** शोभनशिरस्त्राण शोभनहनुक वेन्द्र **अन्धसः** अन्नस्य सोमलक्षणस्य स्वांशलक्षणं भागं **पिब** । यद्वा कर्मणि षष्ठी । अन्धोऽस्मदीयं सोमं पिब ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us offering the libation, accept our earnest praises; drink, handsome-jawed, of the (sacrificial)beverage.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to us, who have the pressings, here to our good praises. Drink of the stalk, (fair-)lipped one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us who bring the juice, come unto this our eulogy,  
      Fair-visored! drink thou of the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns, die wir gepreßt haben, her zu unseren Lobpreisungen; trink doch, mit geöffneter Lippe du, von dem Trank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu uns mit Trank versehnen komm herbei zu unserm Lobgesang, Vom Kraute trink, o schlürfender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи к нам, выжавшим (сому),  
 На наши прекрасные восхваления!  

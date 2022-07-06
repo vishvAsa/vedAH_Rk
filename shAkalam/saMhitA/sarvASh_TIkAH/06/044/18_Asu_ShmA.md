@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आसु꣡ ष्मा णो मघवन्न् इन्द्र पृत्सु  
 अ᳡स्म꣡भ्यम् म꣡हि व꣡रिवः सुगं꣡ कः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र सूरी꣡न् कृणुहि꣡ स्मा नो अर्ध꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । तो॒कस्य॑ । तन॑यस्य । जे॒षे । इन्द्र॑ । सू॒रीन् । कृ॒णु॒हि । स्म॒ । नः॒ । अ॒र्धम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
@@ -143,20 +143,20 @@ genre M
 हे **मघवन्** धनवन् **इन्द्र** **नः** अस्मदीयासु **आसु** **पृत्सु** पृतनासु संग्रामेषु **अस्मभ्यं** **महि** महत् **सुगं** सुखेन प्राप्यं **वरिवः** धनं **कः** कुरु । **स्म** इति पूरणः ॥ अपि च हे **इन्द्र** अपाम् आप्तव्यानां धनानां वा उदकानां वा **तोकस्य** पुत्रस्य **तनयस्य** पौत्रस्य च **जेषे** जयार्थं **सूरीन्** स्तोतॄन् **नः** अस्मान् **अर्धम्** अर्धान् समृद्धान् **कृणुहि** कुरु । यद्वा । अर्धकारिणः शत्रूणां खण्डयितॄन् कुरु । **स्म** इति पूरकः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Affluent **Indra**, facilitate to us (the acquisition of) vast riches in these our battles; (enable us) to gain the victory; make us prosperous with rain, and with sons and grandsons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once more, in these our battles, bounteous Indra, make for us a great  wide space and easy passage.  
 Go halves with our patrons, Indra, in the conquering of the waters, of  life and lineage.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the idiom in sūrī́n kṛṇuhí … ardhám, cf. II.30.5 asmā́n ardhám krṇ̥ utāt.
 
@@ -179,23 +179,23 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra Maghavan, in these our battles win easy paths for us and ample freedom.  
      That we may gain waters and seed and offspring, set thou our princes on thy side, O Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In diesen Kämpfen schaff uns große Freibahn und gute Fahrt, o gabenreicher Indra! Wenn es gilt, Wasser, leiblichen Samen zu gewinnen, so nimm für unsere Gönner Partei, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In diesen Schlachten auch, o starker Indra, verschaffe weiten Raum und freie Bahn uns; Wenn wir erlangen Wasser, Kinder, Enkel, so schaff den Fürsten mit uns gleichen Antheil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В этих самых наших сражениях, о щедрый Индра,  
 Создай нам широкий простор (и) свободный путь!  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा णुदस्व मघवन्न् अमि꣡त्रान्  
 सुवे꣡दा नो व꣡सू कृधि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 भ꣡वा वृधः꣡ स꣡खीना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । म॒हा॒ऽध॒ने । भव॑ । वृ॒धः । सखी॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -116,36 +116,36 @@ genre M
 हे **मघवन्** **परा** पराचीनान् **अमित्रान्** शत्रून् **नुदस्व** प्रेरय । **नः** अस्मभ्यं **वसु** वसूनि **सुवेदा** सुलभानि **कृधि** कुरु । **महाधने** संग्रामे। ‘वाजसातौ महाधने' इति संग्रामनामसु पाठात् । **सखीनां** स्तोतॄणाम् **अस्माकं** वसिष्ठानाम् **अविता** रक्षिता **बोधि** भव । **वृधः** वर्धयिता च भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Drive away, **Maghavan**, our enemies; render riches easy of acquisition; be our preserver in war; be theaugmenter of (the prosperity) of (your) friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Thrust away the foes, bounteous one; make goods easy for us to find. Become a helper for us in (the contest for) great stakes; become a  
 strengthener of our comrades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive thou away our enemies, O Maghavan: make riches easy to be won.  
      Be thou our good Protector in the strife for spoil: Cherisher of our friends be thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vertreibe, o Gabenreicher, die Feinde, mach die Schätze für uns leicht zu erlangen; sei unser Helfer in dem großen Kampfe, sei der Förderer der Genossen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O stosse fort der Feinde Schar, o mächtiger, macht leicht erreichbar uns das Gut; Sei uns ein Helfer in dem grossen Kampfgewühl, sei deiner Freunde Förderer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь оттолкни недругов, о щедрый!  
 Сделай для нас блага легкодоступными!  

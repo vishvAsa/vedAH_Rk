@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ हि꣡ वां रत्नधे꣡यानि स꣡न्ति  
 पुरू꣡णि द्यावापृथिवी सुदा꣡से  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒स्मे इति॑ । ध॒त्त॒म् । यत् । अस॑त् । अस्कृ॑धोयु । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -126,36 +126,36 @@ genre M;; repeated line
 **उतो** **हि** अपि च खलु हे **द्यावापृथिवी** द्यावापृथिव्यौ **वां** युवयोः **सुदासे** शोभनहविर्दानाय यजमानाय देयानि **पुरूणि** बहूनि **रत्नधेयानि** रमणीयानि धनानि **सन्ति** भवन्ति । तेषां मध्ये **यत्** धनम् अस्कृधोयु । कृधुको ह्रस्वः । अह्रस्वमनल्पम् **असत्** भवेत्तद्धनम् **अस्मे** अस्मभ्यं **धत्तं** प्रयच्छतम् । हे द्यावापृथिव्यौ **यूयं** युवां **नः** अस्मान् सर्वदा कल्याणैः **पात** पालयतम् ॥ ॥२०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Many, Heavan and Earth, are the treasures fit to be given to the pious donor (of the oblation); give to usthat wealth which is unlimited; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And because there exist many occasions for you to provide treasures to  the good giver [/Sudās], o Heaven and Earth,  
 provide for us something that will not be stunted. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, Heaven and Earth, ye hold in your possession full many a treasure for the liberal giver.  
      Grant us that wealth which comes in free abundance. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr habt auch viele Belohnungen für den Freigebigen, für den Sudas, o Himmel und Erde. Bringet uns das, was ungeschmälert sein wird!-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn viele Schätze habt ihr auszutheilen dem reichen Geber, Himmel ihr und Erde, Nicht spärlich sei, was ihr uns beide schenket; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также есть ведь у вас много раздач  
 Сокровищ, о Небо-и-Земля, для щедро приносящего (жертвы).  

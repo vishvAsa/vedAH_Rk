@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रं वर्धन्तु नो गि꣡र  
 इ꣡न्द्रं सुता꣡स इ꣡न्दवः  
 इ꣡न्द्रे हवि꣡ष्मतीर् वि꣡शो अराणिषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 इन्द्रे॑ । ह॒विष्म॑तीः । विशः॑ । अ॒रा॒णि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -90,7 +90,7 @@ genre M;; line affected by realignment
 **नः** अस्माकं **गिरः** स्तुतिरूपा वाचः **इन्द्रं** **वर्धन्तु** वर्धयन्तु । **सुतासः** अभिषुताः **इन्दवः** सोमाश्चास्मदीयाः तम् **इन्द्रं** वर्धयन्तु । **हविष्मतीः** हविष्मत्यो हविर्भिश्चरुपुरोडाशादिभिर्युक्ताः **विशः** प्रजास्तस्मिन् **इन्द्रे** **अराणिषुः** अरंसिषुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M;; line affected by realignment
 Excite plural asure: or, having rejoiced in Indra, araṃsiṣuḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our songs increase Indra, let our pressed drops (increase) Indra; in Indra have the oblation-bearing clans found joy.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let songs we sing and Soma-drops expressed by us make Indra strong:  
      The tribes who bring oblations find delight in him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra sollen unsere Lobreden gedeihen machen, den Indra die ausgepreßten Säfte. An Indra haben die opferbringenden Clane ihre Freude.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra stärke unser Lied, ihn der gepresste Indusaft; Des Indra freun die Menschen sich, mit Trank versehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру пусть усиливают наши песни,  
 Индру – выжатые соки (сомы).  

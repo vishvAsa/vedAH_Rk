@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न ई꣡ळानया सह꣡  
 देवाँ꣡ अग्ने दुवस्यु꣡वा  
 चिकि꣡द् विभानव् आ꣡ वह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 चि॒कित् । वि॒भा॒नो॒ इति॑ विऽभानो । आ । व॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,41 +89,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **विभानो** विशिष्टदीप्ते **अग्ने** **सः** त्वं **चिकित्** ज्ञाता सन् **नः** अस्माकं **दुवस्युवा** परिचरणशीलया **ईळानया** स्तुवत्या वाचा **सह** **देवान्** **आ** वह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent one, do you, the all-knower, bring the gods here with this our reverential hymn of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Along with the one [=offering ladle] who reverently invokes the gods,  who offers friendship to them, o far-radiant Agni,  
 as observant one, convey them here to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard interpr. are agreed that the referent of the fem. instr. phrase ī́ḷānayā … duvasyúvā is some form of speech. This makes sense and is certainly not excluded. However, the only other fem. form of the participle ī́ḷāna- in V.28.1 refers to the ghee-filled offering ladle, and I therefore prefer that interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So with our song that prays and serves, attentive, Lord of spreading light,  
      Agni, bring hitherward the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen mit der anrufenden, ehrerbietigen Rede fahre uns die Götter her als der Kundige, du erstrahlender Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter, fahre kundig her, o heller Agni, mit dem Lied, Das sie verehrt und Gaben weiht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с призывающей ищущей (твоего) расположения (песнью)  
 Привези нам богов, о Агни,  

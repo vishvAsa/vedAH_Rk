@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ देवा꣡नाम् अ꣡पि प꣡न्थाम् अगन्म  
 य꣡च् छक्न꣡वाम त꣡द् अ꣡नु प्र꣡वोळ्हुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡ अध्वरा꣡न् स꣡ ऋतू꣡न् कल्पयाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । वि॒द्वान् । सः । य॒जा॒त् । सः । इत् । ऊं॒ इति॑ । होता॑ । सः । अ॒ध्व॒रान् । सः । ऋ॒तून् । क॒ल्प॒या॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -162,20 +162,20 @@ genre M
 अत्र स इति पदं चतुः प्रयुज्यते । तत्र संहितायां प्रथमस्य 'एतत्तदोः' (पा.सू. 6.1.132) इति प्रथमा लुप्यते । द्वितीयस्य तु 'सोऽचि लोपे चेत्' (पा.सू. 6.1.134) इति लुप्यते । तृतीयस्य तु 'अतो रोः' (पा.सू. 6.1.113) इति रोरुत्वे, गुणे च कृते, 'अनुदात्ते च कुधपरे' (पा.सू. 6.1.120) इति रोः प्रकृतिभावः । चतुर्थस्य तु 'भोभगोअघोअपूर्वस्य योऽशि' (पा.सू. 8.3.17) इति यत्वे कृते, 'लोपश्शाकल्यस्य' (पा.सू. 8.3.19) इति लुप्यते, लोपस्यासिद्धत्वात् (पा.सू. 8.2.1) गुणो न क्रियते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we pursue the path that leads to the gods to convey that (worship) which we may be able (tooffer). May that wise **Agni** minister, for he verily is the ministrant priest, and let him prescribe the ceremonies andthe seasons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have come along the path of the gods, to carry forward along it what  we can.  
 Agni is the one who knows: he will perform the sacrifice; just he is the  Hotar. He will arrange the rites, he the ritual sequences.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To the Gods' pathway have we travelled, ready to execute what work we may accomplish.  
 Let Agni, for he knows, complete the worship. He is the Priest: let him fix rites and seasons.
@@ -190,17 +190,17 @@ Let wise Agni sacrifice [3], let him be Hotr
 Let him arrange the offerings him the seasons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben den Weg der Götter beschritten, um, soviel wir vermögen, vor uns zu bringen. Agni ist der Kundige, er soll opfern; er allein ist der Hotri, er soll die Opfer, er die Zeiten einteilen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Pfad der Götter sind wir nun gekommen, um drauf zu wandern, wie wir es vermögen; Der kund'ge Agni opfre und sei Priester; er ordne Feste und der Opfer Zeiten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) вступили мы на путь самих богов,  
 Чтобы проводить то, что мы сможем.  

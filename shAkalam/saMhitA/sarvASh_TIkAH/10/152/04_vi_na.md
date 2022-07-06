@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ न इन्द्र मृ꣡धो जहि  
 नीचा꣡ यछ पृतन्यतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡धरं गमया त꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यः । अ॒स्मान् । अ॒भि॒ऽदास॑ति । अध॑रम् । ग॒म॒य॒ । तमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -101,35 +101,35 @@ popular;; epic anuṣṭubh (292)
 हे **इन्द्र** **नः** अस्माकं **मृधः** संग्रामकारिणः शत्रून् **वि** **जहि** विनाशय । तथा **पृतन्यतः** पृतना: सेना आत्मन इच्छतो युयुत्समानानपि **नीचा** **यच्छ** । नीचीनमवाङ्मुखं यच्छ। गमय । **यः** शत्रुः **अस्मान्** **अभिदासति** अभित उपक्षपयति तम् **अधरं** निकृष्टं **तमः** अन्धकारं मरणलक्षणं **गमय** प्रापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Destroy, **Indra**, our enemies; hunt down those who are in array against us; consign to lower darknesshim who seeks to harm us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Smash away the scornful for us, Indra. Hold down those who battle us. Who assails us, make him go to lower darkness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, beat our foes away, humble the men who challenge us:  
      Send down to nether darkness him who seeks to do us injury.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jage uns die Verächter fort, Indra; halte die Angreifer nieder! Wer uns bedroht, den schicke in die unterste Finsternis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerschlage, Indra, unsern Feind, wirf nieder, die, uns kämpfend nahn, Wer uns verfolgt, den schleudre du hinab in tiefste Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уничтожь, о Индра, тех кто нас презирает,  
 Ниц повергни нападающих (на нас)!  

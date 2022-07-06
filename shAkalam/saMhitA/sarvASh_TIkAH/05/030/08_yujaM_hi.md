@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यु꣡जं हि꣡ मा꣡म् अ꣡कृथा आ꣡द् इ꣡द् इन्द्र  
 शि꣡रो दास꣡स्य न꣡मुचेर् मथाय꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ चक्रि꣡येव रो꣡दसी मरु꣡द्भ्यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अश्मा॑नम् । चि॒त् । स्व॒र्य॑म् । वर्त॑मानम् । प्र । च॒क्रिया॑ऽइव । रोद॑सी॒ इति॑ । म॒रुत्ऽभ्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
@@ -131,7 +131,7 @@ genre M
 हे **इन्द्र** त्वं **स्वर्यं** स्वरेण सहितं **वर्तमानं** भ्रमन्तम् **अश्मानं** **चित्** मेघमिव स्थितं **दासस्य** उपक्षपयितुः **नमुचेः** असुरस्य **शिरः** **मथायन्** चूर्णयन् **आदित्** अनन्तरमेव **मां** **युजं** सखायम् **अकृथाः** **हि** चकृषे खलु । तदानीं **मरुद्धयः** त्वत्सहायेभ्यः **रोदसी** द्यावापृथिव्यौ **चक्रियेव** चक्रे इव **प्र** आस्ताम् ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,13 +142,13 @@ genre M
 Like a sounding and rolling cloud: aśmānam cit svaryam vartamānam: the first two are rendered megham iva, like a cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you have made me your yokemate, Indra—just afterward stealing the  head of the Dāsa Namuci,  
 which was rolling, (like?) a whizzing stone, like the two world-halves  (that roll) forth like two wheels, for the Maruts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though this vs. follows thematically on vs. 7, it seems disjointed and has given rise to much discussion (see esp. Oldenberg and his skepticism about Geldner’s interpr.; Bloomfield Rig-Veda Repetitions) and incompatible interpretations, which I will not treat in detail further here.
 
@@ -166,23 +166,23 @@ The “rolling, whirling” image is carried further in the next pāda, with the
 I have no idea what the Maruts are doing here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pounding the head of Namuci the Dasa, me, too thou madest thine associate, Indra!  
      Yea, and the rolling stone that is in heaven both worlds, as on a car, brought to the Maruts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast mich ja zu deinem Verbündeten gemacht" - aber du, Indra, hast das Haupt des Dasa Namuci wirbelnd ins Rollen gebracht, das wie ein sausender Fels rollte. Himmel und Erde rollten es wie Räder den Marut zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du machtest Indra da mich zum Genossen, das Haupt umwirbelnd Namutschi, dem Dämon, Den Schleuderstein zugleich, der rauschend rollte, den Maruts Erd' und Himmel wie zwei Räder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты ведь сделал меня союзником – но (ты), о Индра,  
 Размахивая головой дасы Намучи,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पू꣡र्वो देवा भवतु सुन्वतो꣡ र꣡थो  
 अस्मा꣡कं शं꣡सो अभि꣡ अस्तु दूढि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । आ । जा॒नी॒त॒ । उ॒त । पु॒ष्य॒त॒ । वचः॑ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
@@ -142,7 +142,7 @@ genre M;; repeated line
 हे **देवाः** अग्न्यवयवभूताः सर्वे देवाः **सुन्वतः** सोमाभिषवं कुर्वतो यजमानस्य **रथः** **पूर्वः** अन्येषामयजमानानां रथेभ्यो मुख्यः **भवतु** । अपि च **अस्माकं** **शंसः** शंसनीयमभिशापरूपं पापं दूढ्यः दुर्धियः पापबुद्धीन् अस्मदनिष्टाचरणपराञ्छत्रून **अभ्यस्तु** अभिभवतु तान् बाधताम् । **तत्** इदं मद्वाक्यं हे देवाः **आ** **जानीत** आभिमुख्येनावगच्छत । **उत** अपि च तत् **वचः** अस्मदीयं वचनं तदर्थाचरणेन **पुष्यत** प्रवर्धयत । हे सर्वदेवात्मक **अग्ने** । सख्ये इत्यादि पूर्ववत् ॥ सुन्वतः । ‘ शतुरनुमः० ' इति विभक्तेरुदात्तत्वम् । शंसः । शंस्यते कीर्य् ते इति शंसोऽभिशापः । कर्मणि घञ् । ञित्त्वादाद्युदात्तत्वम् । दूढ्यः । दुष्टं ध्यायन्तीति दुर्धियः । ‘ ध्यै चिन्तायाम्' इत्यस्मात् ‘क्विप् च ' इति क्विप् । दृशिग्रहणानुवृत्तेस्तस्य च विध्यन्तरोपसंग्रहार्थत्वात् संप्रसारणम् । पृषोदरादिषु ' ध्यै च इति पाठात् दुरो रेफस्योत्वं उत्तरपदादेः ष्टुत्वं च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -155,34 +155,34 @@ genre M;; repeated line
 **Pūrva** = before; explaiend as **mukhya**, principal
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the chariot of the soma-presser be in front, o gods, and let our  recitation dominate those whose insight is evil.  
 Take heed of this speech (of ours) and prosper it. – O Agni, while in  company with you may we not come to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gods, foremost be his car who pours libations out, and let our hymn prevail o'er evil-hearted men.  
      Attend to this our speech and make it prosper well. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the chariot of him who presses Soma, be to the front 1, O gods. May our curse overcome the malicious ones. Accept (O gods) this prayer and make it prosper. Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wagen des Somapressenden soll der vorderste sein, ihr Götter; unsere Rede soll die Übelgesinnten überbieten. Versteht dies Wort auch recht und erfüllet es! - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Somapressers Wagen schaff' voran, o Gott; die bösgesinnten überwinde unser Spruch; Dies Wort beachtet und verleihet ihm Gedeihn! in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет первой, о боги, колесница выжимающего (сому)!  
 Наша торжественная речь да одержит верх над злоумышленниками!  

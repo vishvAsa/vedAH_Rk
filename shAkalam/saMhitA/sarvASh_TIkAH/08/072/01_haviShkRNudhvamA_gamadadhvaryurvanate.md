@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हवि꣡ष् कृणुध्वम् आ꣡ गमद्  
 अध्वर्यु꣡र् वनते पु꣡नः  
 विद्वाँ꣡ अस्य प्रशा꣡सनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒द्वान् । अ॒स्य॒ । प्र॒ऽशास॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haviṣ* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
@@ -90,35 +90,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अध्वर्युसंबन्धिनो हविष्कर्तारः यूयं **हविः** **कृणुध्वं** कुरुध्वं शीघ्रम् । यतः **आ** **गमत्** आजगामायमग्निः अतः कृणुध्वम् । **अध्वर्युः** **पुनः** **वनते** संभजते । किम् । सामर्थ्यादध्वरमिति गम्यते । कीदृशोऽध्वर्युः । **अस्य** हविषः **प्रशासनं** प्रदानं **विद्वान्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “()Priests), present the oblation, for (**Agni**) has come; the **Adhvaryu** again offers (the sacrifice),well-skilled in its offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Make oblation! He will come here. The Adhvaryu seeks (him) again, knowing his command.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 PREPARE oblation: let him come; and let the minister serve again  
      Who knows the ordering thereof,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bereitet die Opferspende! Er komme her! Der Adhvaryu verlangt wieder nach ihm, seine Anweisung kennend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bereitet Schmalz, er komme her, aufs neue bringt der Diener dar, Mit seinem Auftrag wohl bekannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Готовьте жертвенное возлияние! Пусть он придет!  
 Адхварью снова привлекает к себе (Агни),  

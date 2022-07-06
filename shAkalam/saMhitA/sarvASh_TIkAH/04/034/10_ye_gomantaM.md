@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ गो꣡मन्तं वा꣡जवन्तं सुवी꣡रं  
 रयिं꣡ धत्थ꣡ व꣡सुमन्तम् पुरुक्षु꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्मे꣡ धत्त ये꣡ च रातिं꣡ गृण꣡न्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । अ॒ग्रे॒ऽपाः । ऋ॒भ॒वः॒ । म॒न्द॒सा॒नाः । अ॒स्मे इति॑ । ध॒त्त॒ । ये । च॒ । रा॒तिम् । गृ॒णन्ति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -123,36 +123,36 @@ genre M
 हे ऋभवः **ये** यूयं **गोमन्तं** **गोसहितं** **वाजवन्तम्** अन्नवन्तं **सुवीरं** शोभनपुत्रोपेतं **वसुमन्तं** निवासयोग्यगृहादिधनोपेतं **पुरुक्षुं** बह्वन्नं **रयिं** धनं **धत्थ** धारयथ मह्यं दातुम्। हे **ऋभवः** **ते** यूयम् **अग्रेपाः** प्रथमं पातारः **मन्दसानाः** माद्यन्तः सन्तः **अस्मे** अस्मभ्यं **धत्त** दत्त रयिम्। **ये** **च** यूयं **रातिं** दानं दत्तं सोमं वा **गृणन्ति** स्तुवन्ति । ते धत्त । यद्वा। ये च रातिं गृणन्ति यजमानाः तेभ्योऽपि धत्त ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ṛbhus**, who posses wealth, comprising cattle, food, progeny, dwellings, and abundant sustenance, do you, who are the first drinkers (of the **Soma**), bestow upon us, when exhilarated, (that wealth and upon those) who laud your liberality.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who confer riches abundant in cattle, in prizes of victory, in good  heroes, in goods, and in much livestock—  
 o R̥bhus, as those drinking first and finding exhilaration, confer your  gift on us and (on those) who sing of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye who have wealth in cattle and in booty, in heroes, in rich sustenance and treasure,  
      Such, O ye Rbhus, first to drink, rejoicing, give unto us and those who laud our present.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ihr Reichtum an Rindern, an Gewinn, an guten Mannen, an guten Gütern und vielem Vieh schafft, ihr Ribhu´s, die ihr zuerst trinkt und euch berauscht, gebt uns diesen und denen, die eine Gabe zubilligen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr die Habe schenkt, die reich an Rindern, an Rossen, Helden, Gütern ist und Nahrung; O Ribhu's, die zuerst ihr trinkt, ihr muntern, gebt uns und denen, die euch Gabe bieten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто наделяет богатством, состоящим из коров,  
 Из наград, из прекрасных мужей, из (всяких) благ (и) многочисленного скота,  

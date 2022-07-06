@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध त्यं꣡ द्रप्सं꣡ विभु꣡वं विचक्षणं꣡  
 वि꣡र् आ꣡भरद् इषितः꣡ श्येनो꣡ अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्निं꣡ हो꣡तारम् अ꣡ध धी꣡र् अजायत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 यदि॑ । विशः॑ । वृ॒णते॑ । द॒स्मम् । आर्याः॑ । अ॒ग्निम् । होता॑रम् । अध॑ । धीः । अ॒जा॒य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre D
 **अध** अथ अनन्तरं **श्येनः** श्येनाख्यः **विः** पक्षी **अध्वरे** यागे **इषितः** अभिप्रेषितः **विभ्वं** महान्तं **विचक्षणं** सर्वस्य विशेषेण द्रष्टारं **त्यं** तं प्रसिद्ध **द्रप्सं** नात्यल्पं नातिबहुलं सोमम् **आभरत्** आहृतवान् । अपि च **यदि** यदा **आर्याः** अभिगमनीयं तं व्रजन्तः **विशः** यजमाना मनुष्याः **दस्मं** दर्शनीयं शत्रूणामुपक्षपयितारं वा **होतारम्** **अग्निं** **वृणते** प्रार्थंयन्ते **अध** तदा **धीः** यागादिक्रिया **अजायत** । यज्वभिः प्रतायत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre D
 Dripping: drapsam = not too much and not too little
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this drop here [=Soma], widespread and widely visible, has the bird,  the falcon that was sent (for it), brought here to the rite,  
 when the Ārya clans choose wondrous Agni as their Hotar. And so was  his insight born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And the fleet Falcon brought for sacrifice from afar this flowing Drop most excellent and keen of sight,  
      Then when the Aryan tribes chose as Invoking Priest Agni the Wonder-Worker, and the hymn rose up.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Damals brachte diesen reichlichen, hellsehenden Tropfen der ausgesandte Vogel, der Falke zum Opfer. Sooft die arischen Stämme den Meister Agni zum Hotri wählen, entstand auch das andächtige Lied.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch jenen starken Tropfen, welcher weithin blitzt, hat hergebracht der Adler, zu dem Fest entsandt, So oft die Arjer sich den Agni ausersehn, den herrlichen zum Priester; dann ward Lied erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И тогда эту каплю, выдающуюся, смотрящую далеко,  
 Принесла на обряд птица – посланный сокол.  

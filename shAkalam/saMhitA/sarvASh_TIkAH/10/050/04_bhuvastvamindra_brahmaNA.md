@@ -6,7 +6,7 @@ ChandaH = "अभिसारिणी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भु꣡वस् तुव꣡म् इन्दर+ ब्र꣡ह्मणा महा꣡न्  
 भु꣡वो वि꣡श्वेषु स꣡वनेषु यज्ञि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "अभिसारिणी"
 ज्य꣡यिष्ठश्+ च · म꣡न्त्रो विश्वचर्षणे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒ऽच॒र्ष॒णे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhuvas* ← *bhuvaḥ* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -128,14 +128,14 @@ genre M
 हे **इन्द्र** **त्वं** **ब्रह्मणा** अस्मत्कृतेन परिवृढेन स्तोत्रेण **महान्** **भुवः** अभवः। भवतेर्लेटि  ‘ भूसुवोस्तिङि ' इति गुणप्रतिषेध उवङादेशः । तथा **विश्वेषु** सर्वेषु **सवनेषु** **यज्ञियः** यष्टव्यः **भुवः** अभवः । तथा **विश्वस्मिन्** सर्वस्मिन् **भरे** संग्रामे **नॄन्** नेतॄणां शत्रूणां **च्यौत्नः** च्यावयिता भुवः । हे **विश्वचर्षणे** सर्वस्य द्रष्टरिन्द्र **मन्त्रः** मन्त्रयितव्यस्त्वं **ज्येष्ठश्च** अभवः सर्वेषां मध्ये ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, you have become mighty through our praise; you have have become adorable at all sacrifices,in every combat you are the caster down of the leaders (of hosts); beholder of all, you are the best, mostexcellent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You will become great through our sacred formulation, Indra.  
 You will become the worthy recipient of the sacrifice at all the  
@@ -143,23 +143,23 @@ soma-pressings.
 You will become the stirring of men in every contest and the supreme  mantra, o you who are common to all domains.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, through the holy prayer art mighty, worthy of sacrifice at all libations.  
      In every fight thou castest heroes on the ground: thou art the noblest song, O Lord of all the folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, wardst groß durch die erbauliche Rede, du wardst bei allen Trankopfern der Opferwürdige. Du wardst der Aufrüttler der Männer in jedem Kampf und der beste Rat, du Allbekannter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hochverehrt uns sein, In jedem Kampfe rege du die Männer an, als herrlichster Berather, allbeliebter du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты стал великим, о Индра, благодаря священному слову,  
 Ты стал достойным жертв на всех выжиманиях (сомы).  

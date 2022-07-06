@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ प्र꣡ यात म꣡रुतो वि꣡ष्णो अ꣡श्विना  
 पू꣡षन् मा꣡कीनया धिया꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 वृ꣡षा यो꣡ वृत्रहा꣡ गृणे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । आ । या॒तु॒ । प्र॒थ॒मः । स॒नि॒ष्युऽभिः॑ । वृषा॑ । यः । वृ॒त्र॒ऽहा । गृ॒णे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -118,36 +118,36 @@ genre M
 हे विश्वे देवाः **प्र** **यात** प्रकर्षेणास्मदीयकर्मण्यागच्छत । हे **मरुतः** हे **विष्णो** स्वबलेन सर्वतो व्याप्तैतन्नामक देव हे **अश्विना** अश्विनौ **पूषन्** । स्तोतॄन् धनादिना पोषयतीति पूषा । एतन्नामक देव मरुदादयो हे देवाः **माकीनया** मामकीनया। अस्मच्छब्दात् ' युष्मदस्मदोः' (पा. सू. ४, ३,१) इति खञ् शैषिकः । एकवचने ' तवकममकौ ' इति ममकादेशः । वर्णलोपश्छन्दसः । मया क्रियमाणया **धिया** स्तुत्या सहास्मद्यज्ञं प्रत्यागच्छत । मरुदादेरामन्त्रितस्य वाक्यभेदादनिघातः । किंच **प्रथमः** देवानां मुख्यः सः **इन्द्रः** च **आ** **यातु** । **वृषा** कामाना सेक्ता **यः** इन्द्रः **सनिष्युभिः** । सनिः संभजनम् । तदात्मन इच्छद्भिः स्तोतृभिः **वृत्रहा** अपामावरकस्य वृत्रासुरस्य हन्तेति **गृणे** स्तूयते ।' गॄ शब्दे' इत्यस्य कर्मणि लिटि छान्दसो विकरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, **Viṣṇu**, **Aśvins**, **Pūṣan**, come here (induced) by my praise; may **Indra**, the first (of the gods),also come, the showerer (of benefits), he who is praised by (his) worshippers as the slayer of **Vṛtra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive forth hither, o Maruts, Viṣṇu, Aśvins, Pūṣan, by reason of the  poetic insight belonging to me.  
 Let Indra drive here first, with those desirous of gain—he who is sung  as the Vr̥tra-smashing bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Maruts, Visinu, Asvins, Pusan, haste away with minds turned hitherward to Me.  
      Let the Strong Indra, famed as Vrtra's slayer, come first with the winners of the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet euch auf den Weg herwärts mit meiner Dichtung, ihr Marut, Vishnu, ihr Asvin, Pusan! Indra soll als Erster kommen mit den Beutelustigen, der Bulle, der als Vritratöter gefeiert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O kommt herbei, ihr Maruts, Vischnu, Ritterpaar, Puschan, durch mein Gebet gelockt, Als erster komme Indra mit den brünstigen, Der Stier als Vritraheld gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прибывайте, о Маруты, Вишну, Ашвины,  
 Пушан с моей молитвой!  

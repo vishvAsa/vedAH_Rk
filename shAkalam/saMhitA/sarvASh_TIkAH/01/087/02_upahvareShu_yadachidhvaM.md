@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उपह्वरे꣡षु य꣡द् अ꣡चिधुवं ययिं꣡  
 व꣡य इव मरुतः के꣡न चित् पथा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 घृत꣡म् उक्षता म꣡धुवर्णम् अ꣡र्चते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 श्चोत॑न्ति । कोशाः॑ । उप॑ । वः॒ । रथे॑षु । आ । घृ॒तम् । उ॒क्ष॒त॒ । मधु॑ऽवर्ण॑म् । अर्च॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upahvareṣu* ← *upahvara*
 - \[noun\], locative, plural, neuter
@@ -121,7 +121,7 @@ genre M
 हे **मरुतः** **उपह्वरेषु** उपह्वर्तव्येषु गन्तव्येष्वस्माकं संनिकृष्टेषु नभसः प्रदेशेषु **यत्** यदा **ययिं** गतिमन्तं मेघम् **अचिध्वं** वर्षणसामर्थ्येनोपचितं कुरुथ । किं कुर्वन्तः । **वयइव** पक्षिण इव **केन** **चित्** **पथा** केनचिदाकाशमार्गेण शीघ्रं गच्छन्तः । नभसि शीघ्रं वर्षणार्थं प्रवर्तमानैर्मरुद्भिर्मेघा उपचीयन्ते इत्यर्थः । तदानीं **कोशाः** । मेघनामैतत् । **वः** युष्माकं **रथेषु** आसक्ता मेघाः **श्चोतन्ति** जलं मुञ्चन्ति । यस्मादेवं तस्मात् हे मस्तो यूयम् **अर्चते** युष्मान् हविर्भिः पूजयते मह्यं यजमानाय **मधुवर्णं** मधुसदृशरूपं स्वच्छं **घृतं** वृष्ट्युदकम् **आ** समन्तात् **उक्षत** सिञ्चत । अस्मदभिलषितां वृष्टिं कुरुतेत्यर्थः ॥ उपहृरेषु ।  ‘ ह्वृ कौटिल्ये '। उपह्वरन्ति कौटिल्येन तिर्यग्गच्छन्त्येष्विति उपह्वरा नभःप्रदेशाः। ‘पुंसि संज्ञायां घः प्रायेण ' इति अधिकरणे घः। अचिध्वम् । चिनोतेः वर्तमाने लङ् । ‘बहुलं छन्दसि' इति विकरणस्य लुक् । ययिम् । ' या प्रापणे '।  ‘ आदृगमहनजनः । इति किप्रत्ययः । पथा । आङि  ‘ भस्य टेर्लोपः' इति दिलोपः। उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । श्चोतन्ति । श्च्युतिर् क्षरणे ' । छान्दसो यलोपः । उक्षत । उक्ष सेचने '। लोटि तशब्दस्य ङित्त्वे सति ऋचि तुनुघ' ' इत्यादिना सांहितिको दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -132,34 +132,34 @@ genre M
 Madhuvarṇam = having the colour of honey, i.e. being equally pure (**svaccha**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you have set your mind on journeying on the byways like birds, o  Maruts, along who knows what path,  
 the casks on your chariots drip. Sprinkle ghee the color of honey for the  one who chants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On upahvará- see disc. ad I.62.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Maruts, on the steeps ye pile the moving cloud, ye are like birds on whatsoever path it be.  
      Clouds everywhere shed forth the rain upon your cars. Drop fatness, honey-hued, for him who sings your praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Marut in euren Verstecken die Fahrt beschlossen habt auf jedwedem Wege wie die Vögel, so triefen die Eimer auf euren Wagen. Träufet honigfarbenes Schmalz für den Sänger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr die Wetterwolke häuft am Niederhang, die, Maruts, ihr auf jedem Pfad wie Vögel fliegt, Dann träufeln Eimer, die auf euren Wagen stehn, dann giesst dem Sänger honigfarbne Butter zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда в извилинах (горы) вы решили (отправиться) в поход  
 Словно птицы на каком-нибудь пути, о Маруты, –  

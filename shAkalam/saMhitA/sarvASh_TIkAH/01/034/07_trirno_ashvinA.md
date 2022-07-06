@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रि꣡र् नो अश्विना यजता꣡ दिवे꣡-दिवे  
 प꣡रि त्रिधा꣡तु पृथिवी꣡म् अशायतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आत्मे꣡व वा꣡तः स्व꣡सराणि गछतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ति॒स्रः । ना॒स॒त्या॒ । र॒थ्या॒ । प॒रा॒ऽवतः॑ । आ॒त्माऽइ॑व । वातः॑ । स्वस॑राणि । ग॒च्छ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trir* ← *tris*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **अश्विना** **दिवेदिवे** प्रतिदिनम् । ‘दिवेदिवे द्यविद्यवि ' (नि. १. ९. ११ ) इति अहर्नामसु पठितत्वात् । **यजता** यष्टव्यौ युवां **नः** अस्मदीयां **पृथिवीं** वेदिरूपां भूमिं **परि** सर्वतः प्राप्य **त्रिधातु** कक्ष्यात्रययुक्ते अस्तीर्णे बर्हिषि **त्रिः** त्रिवारम् **अशायतं** शयनं कुरुतम् । हे **रथ्या** रथ्यौ रथस्वामिनौ **तिस्रः** त्रिसंख्याकाः ऐष्टिकपाशुकसौमिकरूपा वेदीः **गच्छतम्** । तत्र दृष्टान्तः । **स्वसराणि** शरीराणि **आत्मेव** **वातः**। यथा प्राणिनामात्मभूतः प्राणवायुस्तदीयानि शरीराणि गच्छति तद्वत् ॥ यजता । यजतेः ‘ भृमृदृशि° ' ( उ. सू. ३. ३९० ) इत्यादिना अतच् । चितः' इत्यन्तोदात्तत्वम् । त्रिधातु । त्रेधा धीयते निधीयते इति त्रिधातु। ‘सितनिगमि' (उ. सू. १. ६९ ) इत्यादिना धाञः तुन् । नित्त्वादाद्युदात्तत्वम् । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । ‘सुपां सुलुक्° ' इति सप्तम्या लुक् । अशायतम् । अदादित्वात् शपो लुक् । अशयातामित्यस्य ह्रस्वदीर्घयोर्व्यत्यासः । नासत्या । सत्सु साधू सत्यौ । न सत्यौ असत्यौ । न असत्यौ नासत्यौ ।' सत्यावेव नासत्यावित्यौर्णवाभः ' ( निरु. ६. १३ ) इति यास्कः। ‘नभ्राण्नपात्' इत्यादिना नञः प्रकृतिभावः । रथ्या । रथार्हौ स्वामिनावित्यर्थः । ‘छन्दसि च' ( पा. सू. ५. १. ६७ ) इति यप्रत्ययः । स्वसराणि । सरन्ति गच्छन्तीति सरा इन्द्रियाणि । स्वकीयाः सरा येषां शरीराणाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,36 +138,36 @@ genre M
 **Nāsatya** = na-**asatya**, they who have not untruth; the text has, 'to the three', a reference to altars, severally appropriated to oblations of **ghee**, to animal sacrifices, and to libations of **Soma**: aiṣṭika pāśuka saumikarūpā **vedīḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three times, day after day, Aśvins, deserving the sacrifice, reach around  the earth in its three parts.  
 You Nāsatyas as charioteers travel over the three distant realms, like  breath blowing over the pastures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On aśāyatam see VI.33.2.
 
 ātméva vā́taḥ is an underlying grammatical pun. Though vā́ta- is of course an Indo-Iranian word for ‘wind’, historically it is actually a thematized present participle to the ‘blow’ root. Here I think it is an adjective ‘blowing’ qualifying ā̛tmā́, which is itself being compared to wind in this simile. ātmán- here shows its older ‘(life-)breath’ sense, not the ‘self, soul’ that already begins to take over in the RV.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thrice are ye to be worshipped day by day by us: thrice, O ye Asvins, ye travel around the earth.  
      Car-borne from far away, O ye Nasatyas, come, like vital air to bodies, come ye to the three.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal Tag für Tag kommet ihr Asvin herum in der Dreiwelt, auf der Erde, für uns anbetungswürdig. Drei Entfernungen kommt ihr Wagenlenker Nasatya´s her zur Frühmesse wie der Windhauch zur Frühweide.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal, o Açvinen, seid ihr uns zu verehren an jedem Tag, dreifach umlagert ihr schützend die Erde; o wahrhafte, o Wagenlenker, durch drei Fernen fahret ihr hindurch wie Hauch und Wind zu den Stätten des Somatrankes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды, о Ашвины, достойные жертвы, день за днем  
 Добирайтесь до нас, (объезжая) вокруг трехчленного мира, (вокруг) земли.  

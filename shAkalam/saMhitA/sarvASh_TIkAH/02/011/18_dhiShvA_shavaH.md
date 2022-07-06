@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धिष्वा꣡ श꣡वः शूर ये꣡न वृत्र꣡म्  
 अवा꣡भिनद् दा꣡नुम् और्णवाभ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 नि꣡ सव्यतः꣡ सादि द꣡स्युर् इन्द्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 अप॑ । अ॒वृ॒णोः॒ । ज्योतिः॑ । आर्या॑य । नि । स॒व्य॒तः । सा॒दि॒ । दस्युः॑ । इ॒न्द्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhiṣvā* ← *dhā*
 - \[verb\], singular, Aorist imperative
@@ -107,7 +107,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 शूरहेइन्द्र शवस्तादृशम्बलन्धिष्वधारय दधातेर्लोटिबहुलञ्छन्दसीतिशपोलुक् छन्दस्युभयथेति वा- आर्धधातुकत्वादिडागमः येनबलेनदानुन्दानोःपुत्रं और्णवाभं ऊर्णनाभिः कीटविशेषःऔर्णवाभइत्युच्य- ते तमिवअवाभिनत् बिभेदिथ यद्वा और्णः ऊर्णनाभिः तदाभन्तत्सदृशमित्यर्थः ततस्तमोरूपस्यहनना- दार्यायकर्मणामनुष्ठात्रेजनाय कुत्सायराजर्षयेवा ज्योतिः प्रकाशकमादित्यमपावृणोः उद्घाटितवानसि दस्युः कर्मणामुपक्षपयितासवृत्रः सव्यतः तवसव्यपार्श्वेनिषादि त्वयानितरांसन्नोबाधितोवर्तते ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,29 +122,29 @@ Aurṇa = a spider;
 Ābha = resembling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take to yourself the vast power, o champion, by which you cut down  Vr̥tra, the son of Dānu, that son of a spider!  
 You uncovered the light for the Ārya; the Dasyu has been set down to  the left, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, assume the might wherewith thou clavest Vrtra piecemeal, the Danava Aurnavabha.  
      Thou hast disclosed the light to light the Arya: on thy left hand, O Indra, sank the Dasyu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Leg deine Stärke an, o Held, mit der du den Vritra herabhiebst, den Danu Aurnavabha! Für den Arier decktest du das Licht auf; der Dasyu wurde links liegen gelassen, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm an die Kraft, durch die, o Held, den Vritra du niederwarfst, die Spinnenbrut, den Dämon; Das Licht erschlossest du dem Volk der Arjer, und liesst zur Linken, Indra, die Barbaren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наберись силы, о герой, с помощью которой  
 Ты рассек Вритру, Дану, Аурнавабху!  

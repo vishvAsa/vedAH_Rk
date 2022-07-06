@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡त् सो꣡म इन्द्रियो꣡ र꣡सो  
 व꣡ज्रः सहस्रसा꣡ भुवत्  
 उक्थं꣡ य꣡द् अस्य जा꣡यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒क्थम् । यत् । अ॒स्य॒ । जाय॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āt*
 - \[adverb\]
@@ -97,37 +97,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यत्** यदा **अस्य** इन्द्रस्य **उक्थं** शस्त्रं **जायते** प्रादुर्भवति तत् **आत्** अनन्तरमेव **इन्द्रियः** इन्द्रस्य प्रियकरः रसः बलवान् **वज्रः** वज्रसदृशः केनाप्यहिंस्यः **सोमः** **सहस्रसाः** अस्मभ्यमपरिमितस्य धनस्य दाता भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the praise of **Indra** is recited, then the juice dear to him, vigorous as a thunderbolt, give us unlimited wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then Soma, the sap destined for Indra, becomes a mace winning  
 thousands,  
 when a hymn is born for him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soon as his song of praise is born, the Soma, Indra's juice, becomes  
      A thousand-winning thunderbolt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und Soma, der indrische Saft, wird zur tausendgewinnenden Keule, wenn das Preislied auf ihn gedichtet wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihm das Loblied wird erzeugt, dann wird des Indra Somatrank Ein Blitz, der tausend Güter schenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ प्र꣡ द्रव पराव꣡तो  
 अर्वाव꣡तश् च वृत्रहन्  
 म꣡ध्वः प्र꣡ति प्र꣡भर्मणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मध्वः॑ । प्रति॑ । प्रऽभ॑र्मणि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -78,36 +78,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृत्रहन्** अपामावरकस्य वृत्रासुरस्य हन्तर्हे इन्द्र **प्रभर्मणि** । प्रकृष्टानि भर्माणि भरणानि पशुग्रहादिसंपादनानि यस्मिन् स प्रभर्मा यज्ञः । यद्वा । प्रकृष्टाः कर्मणि कुशला भर्माणो देवानां हविष्प्रदानेन पोषका ऋत्विजो यस्मिन्निति स तथोक्तः । एतादृशे यज्ञे **मध्वः** मदकरान् सोमान् **प्रति** **परावतः** विप्रकृष्टात् दूरस्थाद्देशादपि **अर्वावतश्च** समीपस्थाद्देशादपि आभिमुख्येन **प्र** **द्रव** त्वं त्वरयागच्छ । मध्व इति ‘वा छन्दसि' इति पूर्वसवर्णदीर्घाभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten, slayer of **Vṛtra**, from afar or from near to the exhilarating (**Soma**-libations) in the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Run here from afar and from nearby, Vr̥tra-smiter,  
 in response to the proffering of the honey.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HASTE forward to us from afar, or, Vrtra-slayer, from anear,  
      To meet the offering to the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eile aus der Ferne und aus der Nähe herbei, du Vritratöter, zu der Darbringung des Süßtranks!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, eile aus der Ferne her und aus der Nähe, Vritrafeind, Wenn süssen Trank wir bringen dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आसा꣡म् पू꣡र्वासाम् अ꣡हसु स्व꣡सॄणाम्  
 अ꣡परा पू꣡र्वाम् अभि꣡ एति पश्चा꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रेव꣡द् उछन्तु सुदि꣡ना उषा꣡सः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ताः । प्र॒त्न॒ऽवत् । नव्य॑सीः । नू॒नम् । अ॒स्मे इति॑ । रे॒वत् । उ॒च्छ॒न्तु॒ । सु॒ऽदिनाः॑ । उ॒षसः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
@@ -128,37 +128,37 @@ genre M
 **स्वसॄणां** परस्परं स्वसृभावमापन्नानां स्वयं सरन्तीनां वा **पूर्वासां** पुरातनीनाम् **आसाम्** उषसां मध्ये **अहसु** अहःसु प्रतिदिनम् **अपरा** अन्या अद्यतन्युषाः **पूर्वाम्** अतीतदिवससंबन्धिनीमुषसं पश्चात् अनुसृत्य **अभ्येति** । अभिमुखं गच्छति अव्यवधानेन गच्छतीत्यर्थः । सर्वेश्वहःसु एवमेवाभ्येति । **नव्यसीः** नवीयस्यो नवतरा आगामिन्यः **ताः** **उषासः** उषसः अपि **नूनं** निश्चयं **प्रत्नवत्** पुरातन्य इव सुदिनाः शोभनकर्मानुष्ठानसाधनदिवसाः शोभनदिनमुखा वा सत्यः अस्मे अस्माकं **रेवत्** बहुधनविशिष्टं यथा भवति तथा **उच्छन्तु** प्रकाशयन्तु । पूर्वतन्यो यथौच्छन् तथा आगामिन्योऽपि उच्छन्तु इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Of all these sisters who have gone before, a successor daily follows the one that has preceded. So may new dawns, like the old, bringing fortunate days, shine upon us blessed with affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Day after day the latest of those earlier sisters advances from behind  toward the earlier one.  
 Let the newer ones now dawn richly for us as of old—the  
 day-bright dawns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To all these Sisters who ere now have vanished a later one each day in course succeedeth.  
      So, like the past, with days of happy fortune, may the new Dawns shine forth on us with riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von diesen früheren Schwestern geht im Lauf der Tage die spätere hinter der frühen her. Möge diese Usas´ jetzt aufs neue wie früher reiches Gut uns zuleuchten und einen guten Tag bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von allen diesen Schwestern folgt von jeher die spätere dem Lauf der frühern täglich; Die Jüngern wie die ältern Morgenröthen, sie mögen reich uns schöne Tag' erschliessen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из этих прежних сестер в течение (многих) дней  
 Она идет ближайшей вслед за прежней.  

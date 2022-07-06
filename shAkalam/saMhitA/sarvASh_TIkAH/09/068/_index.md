@@ -8,7 +8,7 @@ title = "+068"
 चतुर्थेऽनुवाकेऽष्टादश सूक्तानि । तत्र ‘प्र देवम्' इति दशर्चं प्रथमं सूक्तं भलन्दनपुत्रस्य वत्सप्रेरार्षं पवमानसोमदेवताकम् । दशमी त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रम्यते- प्र देवं दश वत्सप्रिर्भालन्दनस्त्रिष्टुबन्तं ह' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 68 (780)  
 Soma Pavamāna  
@@ -22,7 +22,7 @@ The second form of Soma, the physical and visible one, is brought to earth in  v
 vided with speech,” but in verses 8–9 Soma “rouses speech” all the way to heaven.  Similarly, in verse 2 he simply “circles around” the wide expanse, whereas in 9d, the  last pāda of the hymn proper, he “finds” wide space, a feat much desired and much  celebrated by the Vedic Āryas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the architecture and thematics of this hymn, see published introduction.
 

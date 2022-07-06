@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वा꣡दिष्ठया म꣡दिष्ठया  
 प꣡वस्व सोम धा꣡रया  
 इ꣡न्द्राय पा꣡तवे सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । पात॑वे । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svādiṣṭhayā* ← *svādiṣṭha*
 - \[noun\], instrumental, singular, feminine
@@ -70,7 +70,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **इन्द्राय** **पातवे** पातुं **सुतः** अभिषुतः त्वं स्वादिष्ठया स्वादुतमया **मदिष्ठया** अतिशयेन मादयित्र्या **धारया** **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -81,13 +81,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Yajus**. 26.25
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself in the sweetest, most exhilarating stream, Soma,  
 when you are pressed for Indra to drink.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">
 <details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -97,24 +97,24 @@ After establishing the Soma Pavamāna theme in the 2nd pāda of the 1st vs., wit
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In sweetest and most gladdening stream  
      flow pure, O Soma, on thy way,  
      Pressed out for Indra, for his drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich, Soma, im süßesten, berauschendsten Erguß, für Indra zum Trunke ausgepreßt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Strom, o Soma, riesle hin, im lieblichsten, im süssesten, Dem Indra zum Genuss gepresst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самым сладким, самым опьяняющим  
 Потоком очищайся, о сома,  

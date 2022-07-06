@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् मे दु꣡र् इ꣡न्द्रो मरु꣡तः  
 पा꣡कस्थामा कउ꣡रयाणः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 उ꣡पेव दिवि꣡ धा꣡वमानम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 विश्वे॑षाम् । त्मना॑ । शोभि॑ष्ठम् । उप॑ऽइव । दि॒वि । धाव॑मानम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -99,42 +99,42 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 इदमादिकेन चतुर्ऋचेन कुरयाणपुत्रात् पाकस्थामनाम्नो राज्ञो दानं लब्ध्वा मेध्यातिथिस्तदीयं दानं स्तौति । **यं** यादृशं धनसंघं **मे** मह्यम् **इन्द्रः** **मरुतः** च **दुः** दत्तवन्तः तादृशमेव धनसमूहं **कौरयाणः** । शत्रून् प्रति युद्धाभिमुख्येन कृतं यानं हस्त्यश्वादिकं येनासौ कुरयाणः । तस्य पुत्रः कौरयाणः । **पाकस्थामा** । तिष्ठत्यनेनेति स्थाम बलम् । परिपक्वबलः । एतत्संज्ञो राजा मह्यं प्रादात् । ददातेलुङि ‘ गातिस्थ इति सिचो लुक् । अडभावश्छान्दसः। कीदृशं धनसंघम् । **विश्वेषां** सर्वेषां धनानां मध्ये **त्मना** आत्मना स्वत एव **शोभिष्ठम्** अतिशयेन शोभावन्तम्। ‘मन्त्रेष्वाङयादेः इत्यात्मन आकारलोपः। शोभावच्छब्दादातिशायनिक इष्ठन् । ‘विन्मतोर्लुक्'।  ' यस्य' इति लोपः। अतिशयेन शोभावत्त्वे दृष्टान्तः । **दिवि** आकाशे **उपेव** **धावमानं** प्रभाभिरुपेतं शीघ्रगामिनं सूर्यमिव । शोभावत्तममित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Such wealth as **Indra** and the **Maruts** have bestowed upon me, such has Pākasthāman, the son ofKurayāṇa, bestowed, of itself the most magnificent of all, like the quick-moving (sun) in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one that Indra and the Maruts, that Pākasthāman, the son of  Kurayāṇa, gave me—  
 the most beautiful of all in body, like the one that runs in heaven  
 [=sun]—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the mixture of divine and human subjects, see comm. on VIII.2.40-41.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The fairest courser of them all, who runneth on as 'twere to heaven.  
      Which Indra and the Maruts gave, and Pakasthaman Kaurayan.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mir Indra, die Marut schenkten und Pakasthaman, der Sohn des Kurayana, der der Schönste von allen ist, leibhaftig wie der am Himmel laufende Sonnengott,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Ross, welches mir Indra und die Maruts und Pākasthāman, der Nachkomme des Kurajāna übergeben haben, fürwahr das glänzendste aller Rosse, das wie auf des Himmels Fläche läuft,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот конь,) которого мне подарили Индра, Маруты  
 (И) Пакастхаман, сын Кураяны,  

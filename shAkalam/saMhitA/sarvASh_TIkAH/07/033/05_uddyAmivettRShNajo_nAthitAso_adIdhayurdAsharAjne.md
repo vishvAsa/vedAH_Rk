@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् द्या꣡म् इवे꣡त् तृष्ण꣡जो नाथिता꣡सो  
 अ꣡दीधयुर् दाशराज्ञे꣡ वृता꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुं꣡ तृ꣡त्सुभ्यो अकृणोद् उलोक꣡म्†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वसि॑ष्ठस्य । स्तु॒व॒तः । इन्द्रः॑ । अ॒श्रो॒त् । उ॒रुम् । तृत्सु॑ऽभ्यः । अ॒कृ॒णो॒त् । ऊं॒ इति॑ । लो॒कम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -122,41 +122,41 @@ popular
 **तृष्णजः** जाततृष्णाः **वृतासः** तृत्सुभी राजभिवृताः **नाथितासः** वृष्टिं याचमानाः वसिष्ठाः **द्यामिव** आदित्यमिव इन्द्रं **दाशराज्ञे** दशानां राज्ञां संग्रामे **उत्** **अदीधयुः** उददीधयन् । **स्तुवतः** **वसिष्ठस्य** स्तोत्रम् **इन्द्रः** **अश्रोत्** अशृणोच्च । **उरुं** विस्तीर्णं **लोकं** **तृत्सुभ्यः** राजभ्यः **अकृणोत्** अकरोच्च अददाच्चेत्यर्थः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Suffering from thirst, soliciting (rain), supported (by the Tṛtsus) in the war with the ten **rājās**, (theVasiṣṭhas) made **Indra** radiant as the sun; Indra heard (the praises) of **Vasiṣṭha** glorifying him, and bestowed aspacious region on the Tṛtsus.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like thirsty ones looking toward heaven (for rain), in distress they  looked toward (Indra) when they were surrounded in the Battle of the  Ten Kings.  
 Indra hearkened to Vasiṣṭha as he was praising; he made the broad space  broad for the Tr̥tsus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the very compressed simile of the thirsty and heaven, cf. V.57.1 tr̥ṣṇáje ná divá útsā udanyáve “like the well-spring of heaven for a thirsty man seeking water,” where the “water” part is made clear.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like thirsty men they looked to heaven, in battle with the Ten Kings, surrounded and imploring.  
      Then Indra heard Vasistha as he praised him, and gave the Trtsus ample room and freedom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In ihrer Not schauten die in der Zehnkönigsschlacht Umzingelten wie Verdurstende gen Himmel. Indra erhörte den preisenden Vasistha; er machte den Tritsu´s freie Bahn.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie durstende schauten sie flehend auf zum Himmel, als sie in der Zehnkönigsschlacht umzingelt waren; da hörte Indra auf Vasischtha's Rufen, und weiten Raum verschafi"te er den Tritsu's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Окруженные в битве десяти царей, они смотрели  
 Вверх на небо, умоляя, словно мучимые жаждой.  

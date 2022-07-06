@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो देव श꣡वसा याहि शुष्मिन्  
 भ꣡वा वृध꣡ इन्दर+ रायो꣡ अस्य꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡हि क्षत्रा꣡य पउं꣡सियाय शूर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒हे । नृ॒म्णाय॑ । नृ॒ऽप॒ते॒ । सु॒ऽव॒ज्र॒ । महि॑ । क्ष॒त्राय॑ । पौंस्या॑य । शू॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,41 +129,41 @@ genre M
 हे देव द्योतमान **शुष्मिन्** बलवन् **इन्द्र** **नः** अस्मान् **शवसा** बलेन सार्धम् **आ** **याहि** । **अस्य** अस्मभ्यं देयस्य **रायः** धनस्य **वृधः** वर्धयिता च **भव** । हे **नृपते** **सुवज्र** **महे** महते **नृम्णाय** बलाय च भव । **बाधो** नृम्णम्' इति बलनामसु पाठात् । हे **शूर** **महि** महते **क्षत्राय** शत्रूणां हिंसकाय । क्षदिर्हिंसाकर्मा । **पौंस्याय** वीर्याय च भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine and powerful (**Indra**), come to us with your strength; be the augmenter of our riches; be to us,king of men, wielder of the thunderbolt, for (a source of) vigour, of great prowess, hero, of manhood.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to us, o god, with your vast power, tempestuous one. As  increaser of this wealth, Indra, be there (for us)  
 for great manliness, o lord of men, possessing a good mace—for great  dominion, for masculine power, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although tr. as if parallel, máhi in d is an adverbial neuter, whereas mahé in c is a dative modifying nṛmnā́ya. However, “greatly for dominion” seemed overly fussy in English.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH power and strength, O Mighty God, approach us: be the augmenter, Indra, of these riches;  
      Strong Thunderer, Lord of men, for potent valour, for manly exploit and for high dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fahre mit überlegener Kraft zu uns, du ungestümer Gott - sei du, Indra, Mehrer dieses Reichtums - zu mächtiger Tapferkeit, du Männerherr mit der schönen Keule, mächtiglich zur Herrschaft und Mannestat, o Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her, o Gott, zu uns mit Kraft, du starker, und mehre, Indra, diese unsre Habe Zu grosser Mannheit, Männerherr, o Blitzer, o Held, zu grosser Heldenkraft und Herrschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай к нам, о бог, со (своей) силой, о неистовый!  
 Будь, о Индра, умножителем этого богатства  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ त꣡म् अश्नोति क꣡श् चन꣡  
 दिव꣡ ऽव° सा꣡नु आर꣡भम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡ सि꣡न्धुर् इव पप्रथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सा॒व॒र्ण्यस्य॑ । दक्षि॑णा । वि । सिन्धुः॑ऽइव । प॒प्र॒थे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -98,7 +98,7 @@ genre M
 **तं** सावर्णिं मनुं **कश्चन** कश्चिदपि **आरभम्** आरब्धुं स्वकर्मणा **न** **अश्नोति** न व्याप्नोति । यथा मनुः प्रयच्छति तथान्यो दातुं न शक्नोतीत्यर्थः । कथं स्थितम् । **दिवइव** द्युलोकस्य **सानु** समुच्छ्रितं तेजसा कैश्चिदप्यप्रधृष्यमादित्यमिव स्थितम् । आरभम् ।  ‘ शकि णमुल्कमुलौ ' (पा. सू. ३. ४. १२) इति कमुल्। तस्य **सावर्ण्यस्य** मनोरियं गवादिदक्षिणा **सिन्धुरिव** स्यन्दमाना नदीव पृथिव्यां **पप्रथे** विप्रथते । विस्तीर्णा भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 No one succeeds: i.e., no one can equal Sāvarṇi in munificence. It is possible thatthe term sāvarṇi is a veiled reference to **suvarṇa**, gold
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one succeeds in taking hold of him any more than the back of  heaven.  
 The priestly gift of Sāvarṇya spreads out like a river.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No one attains to him, as though a man would grasp the heights of heaven.  
      Savarnya's sacrificial meed hath broadened like an ample flood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch nicht Einer bringt es fertig, ihn zu erreichen, so wenig wie den Rücken des Himmels. Der Opferlohn des Savarnya hat sich wie die Sindhu ausgebreitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Keiner kommt diesen gleich, wie des Himmels Gipfel ist er nicht zu erreichen; wie ein Meer breitete sich des Savarna-sprosses Opfergeschenk aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто не достигнет его,  
 Как не достать вершины неба.  

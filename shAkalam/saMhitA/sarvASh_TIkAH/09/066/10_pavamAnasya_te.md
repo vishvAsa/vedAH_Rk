@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानस्य ते कवे  
 वा꣡जिन् स꣡र्गा असृक्षत  
 अ꣡र्वन्तो न꣡ श्रवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अर्व॑न्तः । न । श्र॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
@@ -77,19 +77,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मार्जनप्रसङ्गमाह । हे **कवे** क्रान्तप्रज्ञ हे **वाजिन्** अन्नवन् सोम **पवमानस्य** दशापवित्रेण पूयमानस्य **ते** तव **सर्गाः** । सृज्यन्त इति सर्गा धाराः । कीदृशाः । **श्रवस्यवः** । छन्दसि परेच्छायां क्यच् । यष्टॄणामन्नं कामयमानास्त्वदीया धाराः **असृक्षत** सृजन्ति । निर्गच्छन्तीत्यर्थः । तत्र दृष्टान्तः । **अर्वन्तो** **न** । यथाश्वा मन्दुरातो निर्गच्छन्ति तद्वत् पवित्रान्निःसरन्तीत्यर्थः । प्रयोगापेक्षं चात्र धाराबाहुल्यम् ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sage **Soma**, possessor of food, your food-desiring streams when you are filtered are let loose like horses.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of you purifying yourself, o poet and prizewinner, the surges have surged, like chargers seeking fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma’s acquisition of “imperishable fame” in 7c is anticipated, as it were, by his streams, likened to horses, “seeking fame” (śravasyávaḥ).
 
@@ -103,23 +103,23 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The streams of Pavamana, thine, Sage, Mighty One, have pouredthem forth.  
      Like coursers eager for renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du siegreicher Seher, deine Ströme wurden losgelassen wie ehrgeizige Rennpferde, während du dich läuterst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Weiser, deine Ströme sind ergossen, rascher, flammender! Wie Renner strebend nach dem Preis,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृ꣡ताहवन सन्तिय  
 इमा꣡ उ षु꣡ श्रुधी गि꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ह꣡वन्ते अ꣡वसे तुवा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 याभिः॑ । कण्व॑स्य । सू॒नवः॑ । हव॑न्ते । अव॑से । त्वा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtāhavana*
 - \[noun\], vocative, singular, masculine
@@ -93,40 +93,40 @@ genre M
 हे **घृताहवन** घृतेनाहूयमान °सन्त्य फलप्रदाग्ने **इमा** **उ** **गिरः** अस्माभिः प्रयुज्यमाना अपि स्तोत्ररूपा वाचः **सु** **श्रुधि** सुष्ठु शृणु। **कण्वस्य** महर्षेः **सूनवः** पुत्राः **याभिः** गीर्भिः **अवसे** स्वरक्षार्थं **त्वा** **हवन्ते** त्वामाह्वयन्ति । घृताहवन । घृतेनाहूयतेऽस्मिन्निति घृताहवनः । अधिकरणे ल्युट्। आमन्त्रिताद्युदात्तत्वम् । श्रुधि। श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिरादेशः । ‘ बहुलं छन्दसि' इति विकरणस्य लुक् ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoked by oblations, giver of rewards, listen to these praises with which the sons of **Kaṇva** invoke you for protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O comrade whose oblation is ghee, listen well to these songs here, with which the sons of Kaṇva call upon you for aid.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear thou, invoked with holy oil, bountiful giver of rewards,  
      These eulogies, whereby the sons of Kanva call thee to their aid.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O thou to whom Ghrita oblations are poured out, good (Agni), hear these praises with which the sons of Kanva invoke thee for their protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Opferschmalzbegossener, Wahrhafter, höre fein auf diese Lobreden, mit denen dich die Söhne des Kanva um Hilfe anrufen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Fett getränkter, guter du, o höre diese Lieder recht, Durch die des Kanva Söhne dich anrufen, ihnen beizustehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О окропленный жиром, о истинный,  
 Услышь же эти (наши) песни,  

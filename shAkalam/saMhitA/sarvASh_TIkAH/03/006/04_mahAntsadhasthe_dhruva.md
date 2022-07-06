@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महा꣡न् सध꣡स्थे ध्रुव꣡ आ꣡ नि꣡षत्तो  
 अन्त꣡र् द्या꣡वा मा꣡हिने ह꣡र्यमाणः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सबर्दु꣡घे उरुगाय꣡स्य धेनू꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आस्क्रे॒ इति॑ । स॒पत्नी॒ इति॑ स॒ऽपत्नी॑ । अ॒जरे॒ इति॑ । अमृ॑क्ते॒ इति॑ । स॒ब॒र्दुघे॒ इति॑ स॒बः॒ऽदुघे॑ । उ॒रु॒ऽगा॒यस्य॑ । धे॒नू इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahān* ← *mahat*
 - \[noun\], nominative, singular, masculine
@@ -105,7 +105,7 @@ genre M
 महान् अधिकोहर्यमाणः यजमानादिभिः काम्यमानः यद्वा यजमानायधनङ्कामयमानः अग्निः द्यावान्तर्भूम्योर्मध्ये माहिनेमहिम्नायुक्ते सधस्थेस्वकीयेस्थाने ध्रुवःअचलःसन् आनिषत्तः निषण्णो भवति आस्केआक्रमणशीले सपत्नी समानःएकःसूर्यः पतिर्ययोस्तेसपत्न्यौ अजरेजरारहिते अमृते अन्येनाहिंसिते सबर्दुघे सबरित्यम्रुतमुदकं तस्यदोग्ध्र्यौ द्यावापृथिव्यौ उरुगायस्यपृथुगमनस्य अधिकस्तुतेर्वाअग्नेः धेनूप्रीणयित्र्यौभवतः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,35 +116,35 @@ genre M
 The fellow-brides: **sapatnī**, the two brides of one; i.e. the sun: **samāna** ekaḥ **sūryaḥ** patiryayoste sapatnyau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Taking pleasure, the great one is set down here in his enduring abode  between Heaven and Earth, the two great ones,  
 who are united cowives, unaging and indestructible, the two  
 nectar-yielding milk-cows of the wide-ranging (Agni).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Firm in the Gods' home is the Mighty seated, between vast Heaven and Earth the well-beloved-  
      Those Cows who yield, unharmed, their nectar, Spouses of the Far-Strider, everyoung, united.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (Thou art) seated, the great one, in a firm place 1, between the two mighty Heavens 2, thou who art longed for—(between) the two united 3 never-ageing, inviolable wives, the two juice-yielding milch-cows 4 of the far-reigning one 5.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Große, der dauernd an seinen Platz gesetzt ist, verkehrt als Begehrter zwischen Himmel und Erde, den mächtigen, den verträglichen Frauen des gleichen Gemahls, den alterlosen, unverletzbaren, immermelken Milchkühen des Weitschreitenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse ist gesetzt auf feste Stätte, der liebe zwischen beide grosse Welten, Die gleichem Mann vermählt sind, unvertilgbar des Weithinschreiters ew'ge Necktarkühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий (Агни) уселся на прочное общее сидение,  
 Радуясь, между небом и землей – двумя огромными  

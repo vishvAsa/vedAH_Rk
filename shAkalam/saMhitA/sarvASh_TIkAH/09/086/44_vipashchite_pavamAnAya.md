@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विपश्चि꣡ते प꣡वमानाय गायत  
 मही꣡ न꣡ धा꣡रा अ꣡ति अ꣡न्धो अर्षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡त्यो न꣡ क्री꣡ळन्न् असरद् वृ꣡षा ह꣡रिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अहिः॑ । न । जू॒र्णाम् । अति॑ । स॒र्प॒ति॒ । त्वच॑म् । अत्यः॑ । न । क्रीळ॑न् । अ॒स॒र॒त् । वृषा॑ । हरिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vipaścite* ← *vipaścit*
 - \[noun\], dative, singular, masculine
@@ -125,20 +125,20 @@ genre M
 हे ऋत्विजः **विपश्चिते** मेधाविने **पवमानाय** पूयमानाय **गायत** स्तुतिं कुरुत । स च विपश्चित्सोमः **मही** **न** **धारा** महती वर्षधारेव **अन्धः** अन्नं रसात्मकम् **अति** **अर्षति** । **अहिर्न** अहिरिव **जूर्णां** जीर्णां **त्वचम्** **अति** **सर्पति** अतिमुञ्चति । अभिषवादिकर्मणा त्वचं मुञ्चतीत्यर्थः । तद्वदतिसर्पति धारा दशापवित्रात् । **अत्यो** **न** अश्व इव **क्रीळन्** **असरत्** सरति गच्छति द्रोणकलशम् । **वृषा** वर्षकः कामानां **हरिः** हरितवर्णः रसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing (you priests) to the intelligent **Pavamāna**; like a mighty shower he sends forth food; like a snake he glides out of his old skin, sporting like a horse he hastens forth, the showerer, green-tinted.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sing to the self-purifying one who is attentive to poetic inspiration. Like  a great stream he rushes beyond his stalk;  
 like a snake he slinks beyond his withered skin. Playful like a steed, the  tawny bull has run.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner, Renou, Ober (II.54) take ándhaḥ as nom., parallel to dhā́rā in the simile.
 
@@ -157,23 +157,23 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sing forth to Pavamana skilled in holy song: the juice is flowing onward like a mighty stream.  
      He.glideth like a serpent from his ancient skin, and like a playful horse the Tawny Steer hath run.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lobsinget dem redekundigen Pavamana! Wie ein großer Strom rinnt der Saft durch die Seihe. Wie eine Schlange entkriecht er der alten Haut; wie ein Renner spielend ist der bullenhafte Falbe geflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem rieselnden, begeisterten singt Lobgesang, dem grossen Strome gleichend rinnt er durch das Kraut, Der Schlange gleichend schlüpft er durch die alte Haut, wie Renner hüpfend eilt dahin der goldne Hengst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

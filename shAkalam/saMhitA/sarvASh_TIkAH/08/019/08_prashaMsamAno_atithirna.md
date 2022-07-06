@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रशं꣡समानो अ꣡तिथिर् न꣡ मित्रि꣡यो  
 अग्नी꣡ र꣡थो न꣡ वे꣡दियः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तुवं꣡ रा꣡जा रयीणा᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । क्षेमा॑सः । अपि॑ । स॒न्ति॒ । सा॒धवः॑ । त्वम् । राजा॑ । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *praśaṃsamāno* ← *praśaṃsamānaḥ* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, singular
@@ -111,7 +111,7 @@ genre M
 **प्रशंसमानः** स्तुवन् **अतिथिर्न** अतिथिरिव । यद्वा । व्यत्ययेन कर्मणि कर्तृप्रत्ययः । प्रशस्यमानः सः **अग्निः** **मित्रियः** मित्राणां स्तोतॄणां हितो भवति । तथा **रथो** **न** रथ इव **वेद्यः** । लम्भनीयोऽभीष्टफलसाधनत्वेन ज्ञातव्यो वा । उत्तरोऽर्धर्चः प्रत्यक्षकृतः । हे अग्ने **त्वे** त्वयि **साधवः** साधकाः समीचीनाः **क्षेमासः** धारणानि **अपि** **सन्ति** भवन्ति । तथा **रयीणां** धनानां **त्वम्** एव **राजा** ईश्वरो भवसि । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,34 +122,34 @@ genre M
 Confiding:or, perhaps, in you also are excellent protections, tva kṣemāso api **santi** sādhavaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being lauded like a guest associated with our alliance, Agni is worth  acquiring like a chariot.  
 Peaceful ways that bring success abide in you: you are king of riches.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr./interpr. assign védyaḥ to √vid ‘know’: Geldner ‘denkwürdig’, Renou ‘reconnaissable’ (also Grassmann). But a connection to √vid ‘acquire’ makes more sense to me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, who praises like a guest of friendly mind, is as a car that brings us gear.  
      Also in thee is found perfect security thou art the Sovran Lord of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gefeiert wird Agni wie ein befreundeter Gast, denkwürdig wie ein Streitwagen. Bei dir wohnt gedeihliche Sicherheit, du bist der König der Reichtümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gerühmt wird Agni wie ein holdgesinnter Gast, und wie ein Wagen, reich an Schatz; In deiner Nähe sind die Sitze segensreich, du bist der König alles Guts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни чествуется, как дружелюбный гость,  
 (Он) известен, как колесница.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व्यो वा꣡रे प꣡रि प्रियो꣡  
 ह꣡रिर् व꣡नेषु सीदति  
 रेभो꣡ वनुष्यते मती꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रे॒भः । व॒नु॒ष्य॒ते॒ । म॒ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **हरिः** हरितवर्णः **प्रियः** देवानां प्रियतम एव सोमः **वनेषु** उदकेषु संपृक्तः **अव्यः** अवेः **वारे** वालोपेते **परि** **षीदति** । किंच **रेभः** अभिषववेलायामुपरवेषु शब्दं कुर्वन् **मती** मत्या स्तुत्या **वनुष्यते** सेव्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The green-tinted (**Soma**), dear to the gods, commingled with the water, sits down upon the woollen sieve, uttering a sound it is greeted by praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Having circled) around the sheep’s fleece, the dear tawny one sits in the  wood(en vessels);  
 husky-voiced, he is eager to prevail with his thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On rebhá- see comm. ad VI.3.6.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dear, golden-coloured, in the fleece he sinks and settles in the wood:  
      The Singer shows his zeal in hymns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Beliebte kreist in dem Schafhaar, der Falbe setzt sich in die Hölzer. Der Barde wetteifert mit der Dichtung.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hin durch die Widderwolle setzt das liebe Ross sich in das Holz, Der Sänger eifert mit Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По ситу из овечьей шерсти кругами (бегает) приятный,  
 Золотистый осаждается в деревянных (сосудах).  

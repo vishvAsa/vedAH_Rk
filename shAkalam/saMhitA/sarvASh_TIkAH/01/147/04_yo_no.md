@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नो अग्ने अ꣡ररिवाँ अघायु꣡र्  
 अरातीवा꣡ मर्च꣡यति द्वये꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु मृक्षीष्ट तनु꣡वं दुरुक्तइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मन्त्रः॑ । गु॒रुः । पुनः॑ । अ॒स्तु॒ । सः । अ॒स्मै॒ । अनु॑ । मृ॒क्षी॒ष्ट॒ । त॒न्व॑म् । दुः॒ऽउ॒क्तैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M
 हे **अग्ने** **नः** अस्मान् युष्मद्रक्षितान् **यः** **अघायुः** मारणादिरूपपापेच्छावान् **अररिवान्** अदाता अस्मद्दानप्रतिबन्धकः इत्यर्थः ॥ रातेश्छान्दसस्य लिटः क्वसुः ॥ **अरातीवा** स्वयमदानवान् । ‘ छन्दसि वनिपमिच्छन्ति' इति मत्वर्थीयो वनिप्॥ शत्रुत्वमाचरन् यः शत्रुः **द्वयेन** मानसवाचिकभेदेन द्विविधेन मन्त्रेण । न ददामीति मानसो मन्त्रः । निन्दाद्यारोपेण दाननिवारणं वाचिको मन्त्रः । यद्वा । मायाहेतुकेन विरुद्धरूपेण द्विविधेन मन्त्रेण । यो विरुद्धमाचरति तन्न संकीर्तयति यच्च प्रियं बूते तन्न करोति अन्यत् करोत्यन्यद्वदतीत्येवं मन्त्रस्वरूपद्वैविध्यम् । पूर्वं मानसवाचिकभेदेन इदानीं वाचिककायिकभेदेनेति विवेकः । ईदृशेन मन्त्रेण यः शत्रुः **मर्चयति** भर्त्सयति विधेयीकरोति वा अस्मान् । **सः** मन्त्रैकदेशो मानसरूपः **अस्मै** **पुनः** **गुरुः** **अस्तु** ॥ षष्ठ्यर्थे चतुर्थी ॥ प्रयोक्तुरेव पुनः गरितास्तु । तथा **दुरुक्तैः** दुर्वाक्यैर्निन्दारूपैर्वाचिकैः **तन्वं** स्वकीयां तनुम् **अनु** **मृक्षीष्ट** अनुमार्ष्टु अनुक्रमेण लुम्पतु । यद्वा । स द्विविधो मन्त्रः अस्मै प्रयोक्तुरेव गुरुर्गरितास्तु । अन्यान्यपि अस्मन्न्यक्काराय प्रयुक्तानि निष्ठुरभाषणानि सन्ति । तैर्दुरुक्तैः सोऽरातिः स्वतनुमेवावलुम्पतु । स्वात्मानमेवावृत्य दहत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 The epithets such as aghāya seem to refer to asmai (not to **mantra**); the allusion is to the use of maledictory prayers or imprecations
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, the ungenerous one wishing us ill and full of hostility who  harms us by his duplicity,  
 let this heavy spell be back at him: he should bring harm upon his own  body by his evil words.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sinful man who worships not, O Agni, who, offering not, harms us with double-dealing,--  
      Be this in turn to him a heavy sentence may he distress himself by his revilings.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The niggard, O Agni, the harmful and malicious who injures us by falsehood: may the heavy spell recoil on him; may he injure his own body by his evil words 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn, Agni, uns ein übelwollender Knauser, ein mißgünstiger durch Doppelzüngigkeit Abbruch tut, auf den soll das Wort als schwerer Fluch zurückfallen. Er soll sich hernach selbst durch seine bösen Reden Abbruch tun.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer uns, o Agni, Schaden thut durch Falschheit, der feindgesinnte, tückisch, voller Bosheit, Auf den soll fall'n die Wucht des eignen Fluches, durch seine Schmähung mög' er selbst sich schäd'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) злоумышленник, кто нам не дарит, о Агни,  
 Полный злобы ранит (своей) двойственностью –  

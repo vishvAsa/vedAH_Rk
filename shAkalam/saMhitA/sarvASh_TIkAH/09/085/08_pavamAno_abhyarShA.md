@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमानो अभि꣡ अर्षा सुवी꣡रियम्  
 उर्वीं꣡ ग꣡व्यूतिम् म꣡हि श꣡र्म सप्र꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्दो ज꣡येम तुव꣡या ध꣡नं-धनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 माकिः॑ । नः॒ । अ॒स्य । परि॑ऽसूतिः । ई॒श॒त॒ । इन्दो॒ इति॑ । जये॑म । त्वया॑ । धन॑म्ऽधनम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -125,21 +125,21 @@ genre M
 हे सोम **पवमानः** पूयमानस्त्वं **सुवीर्यमुर्वीं** महतीं **गव्यूतिं** गोमार्गं च **महि** महत् **सप्रथः** सर्वतः पृथु **शर्म** गृहं सुखं वा **अभ्यर्ष** अभिगमय । **नः** अस्माकम् **अस्य** कर्मणः **परिषूतिः** हिंसायाः परिप्रेरको द्वेषी **माकिः** **ईशत** मेश्वरो भवतु । हे **इन्दो** सोम **त्वया** साधनेन **धनंधनं** सर्वमपि धनं **जयेम** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**), when filtered, bring us **male** progeny, extensive pastures, a large and spacious mansion; let no hinderer of this (rite) be lord over us; **Indu**, through you may we win all wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purifying yourself, rush to an abundance of heroes, to wide pasturage,  to great, extensive shelter.  
 Let no constricting pressure take control of this (soma) of ours. O  
 drop, with you may we win prize after prize.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The somewhat awkward tr. “constricting pressure” reflects the literal, additive sense of páriṣūti-: pári ‘around’ + √sū ‘impel, thrust’. Maybe something like “squeezing” would sound a bit more idiomatic, though it is hard to find any English idiom that more or less represents the etymology and fits with the verb. Of course, narrowness and constriction are particularly feared and avoided in the Rig Veda. Perhaps “claustrophobia” might work, though of course the -phobia part is absent; “constriction” is probably the best choice in English. It is also not clear what threat páriṣūti- poses to the ritual soma, which, after all, has been subjected to serious pressing (via the phonologically similar but unrelated root √su) and therefore has nothing left to fear in that regard. In real world terms it of course refers to the opposite of the “wide pasturage and great, extensive shelter” that Soma is urged to rush to in pāda b. In this regard it is similar to the words aṃhatí-, áṃhas- ‘constriction, constraint’. The other occurrence of páriṣūti- (I.119.6) is found in a similar context, with a contrast between constraint and wide space: yuváṃ rebhám páriṣūter uruṣyathaḥ. JPB tr. “You give Rebha space from being besieged,” but in my opinion the sense is more particular: “you give Rebha wide space from (/out of) constriction.” On īśata see comm. ad I.23.9.
 
@@ -153,23 +153,23 @@ Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While thou art purified pour on us hero strength, great, far-extended shelter, spacious pasturage.  
      Let no oppression master this our holy work: may we, O Indu, gain all opulence through thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich läuternd fließe um die Meisterschaft, um weite Trift, großen ausgedehnten Schutz zu gewinnen. Nicht soll die Umklammerung über diesen unseren Soma Macht bekommen. Mit dir, o Saft, wollen wir Preis um Preis gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hellflammend ströme du uns Heldenkraft herbei, geräum'ge Weide, grossen ausgedehnten Schutz; Es möge kein Bedränger unser mächtig sein, lass, Indu, uns durch dich gewinnen Sieg für Sieg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Теки как Павамана навстречу владению прекрасными мужами,  
 Широкому пастбищу, великой простирающейся защите!  

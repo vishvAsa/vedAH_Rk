@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रा को꣡ वां वरुणा सुम्न꣡म् आप  
 स्तो꣡मो हवि꣡ष्माँ अमृ꣡तो न꣡ हो꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पस्प꣡र्शद् इन्द्रावरुणा न꣡मस्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यः । वा॒म् । हृ॒दि । क्रतु॑ऽमान् । अ॒स्मत् । उ॒क्तः । प॒स्पर्श॑त् । इ॒न्द्रा॒व॒रु॒णा॒ । नम॑स्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrā* ← *indra*
 - \[noun\], vocative, dual, masculine
@@ -126,20 +126,20 @@ genre M
 हे **इन्द्रा** हे **वरुणा** हे इन्द्रावरुणौ । परस्परापेक्षया द्विवचनम् । **वां** युवयोः **सुम्नं** सुखं **कः** **स्तोमो** **हविष्मान्** हविर्भिरुपेतः सोमाज्यादिप्रदेयद्रव्योपेतं कतमत् स्तोत्रं सुम्नम्न **आप** । फलकत्वेन प्राप्नुयादित्यर्थः । यद्वा । हविष्मानित्येतदुत्तरत्र योज्यम् । हविष्मान् हविर्युक्तः **अमृतः** अमरणलक्षणः स्वर्गसाधनो **होता** अग्निरिव । स यथा तथा **यः** स्तोमो हे इन्द्रावरुणौ **वां** युवयोः **हृदि** हृदये **क्रतुमान्** प्रज्ञोपेतः **अस्मत्** अस्मत्सकाशात् **उक्तः** उदितः **नमस्वान्** हविष्मान् नमस्कारोपेतो वा **पस्पर्शत्** स्पृशेत् हृदयंगमो भवेत् । स क इति स्तोमप्रशंसा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** (and **Varuṇa**), Varuṇa (and Indra), what praise of you accompanied by oblations may obtain for us felicity, (such as) the immortal invoker of the gods, (**Agni**, may bestow); may (the praise) which is addressed by us to you both, Indra and Varuṇa, sanctified by acts and prompted by veneration, touch your heartṣ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa, which praise song obtains your favor, bringing  oblations like the immortal Hotar?  
 (The one) spoken by us, which, filled with resolve, filled with homage,  will touch your heart, o Indra and Varuṇa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am unhappy with the preterital value (‘has obtained’) universally assigned (incl. Kümmel 115) to āpa in pāda a, because it ill-fits the subj. paspárśat ‘will touch’ in d.
 
@@ -156,23 +156,23 @@ Note āpa ending 1a matched with āpī́ending 2a. Also the accumulation of -van
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT laud, O Indra-Varuna, with oblation, hath like the Immortal Priest obtained your favour?  
      Hath our effectual laud, addressed with homage, touched you, O Indra-Varuna, in spirit?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna! Welches Loblied, von Opfergabe begleitet, hat wie der unsterbliche Hotri eure Gunst erlangt, das sinnvoll unter Verneigung von uns vorgetragen euch beiden zu Herzen dringt, Indra und Varuna?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Lob gefällt euch, Varuna und Indra, versehn mit Opfer, wie der Priester Agni? Das kräftig euch mit Andacht ausgesprochne berühr eur Herz, o Varuna und Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра и Варуна, что за восхваление, сопровождаемое жертвенным возлиянием,  
 Достигло вас, словно бессмертный хотар,  

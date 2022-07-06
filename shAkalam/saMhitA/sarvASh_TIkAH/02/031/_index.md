@@ -8,7 +8,7 @@ title = "+031"
 ' अस्माकम् ' इति सप्तर्चं नवमं सूक्तं गृत्समदस्यार्षं वैश्वदेवम् । अन्त्या त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रान्तम्-' अस्माकं सप्त वैश्वदेवं त्रिष्टुबन्तम् ' इति । विनियोगो लैङ्गिकः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 31 (222)  
 All Gods  
@@ -19,7 +19,7 @@ The word “those seeking fame” (śravasyávaḥ) defines the hymn as a ring c
 The designation “all gods” as the dedicand of the hymn is quite accurate: a wide  variety of gods and divinized powers are addressed in the hymn and begged for help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods Geldner (/Witzel Gotō) follows Windisch (Fs. Roth) in seeing this hymn as an allegory, with rátha- ‘chariot’ = stóma- ‘praise’ and the solution provided only in the last vs. I find this interpr. overblown. The equation of the hymn / sacrifice with a chariot is a trite trope in the RV; I don’t see that this hymn treats the theme in a special way, but perhaps I’m missing something.
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमीवहा꣡ वास्तोष् पते  
 वि꣡श्वा रूपा꣡णि आविश꣡न्  
 स꣡खा सुशे꣡व एधि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; repeated line
 सखा॑ । सु॒ऽशेवः॑ । ए॒धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amīvahā* ← *amīva*
 - \[noun\], neuter
@@ -89,42 +89,42 @@ genre M;; repeated line
 हे वास्तोष्पते गृहस्य पालकैतत्संज्ञक देव **अमीवहा** अमीवानां रोगाणां नाशकस्त्वं **विश्वा** विश्वानि बहूनि **रूपाण्याविशन्** प्रविशन् ।' यद्यद्रूपं कामयते तत्तद्देवता विशति' (निरु. १०.१७) इति यास्कः । **नः** अस्माकं **सखा** मित्रभूतः **सुशेवः** सुष्ठु सुखकरः **एधि** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protector of the dwelling, remover of disease, assuming all (kinds of) forms, be to us a friend, thegranter of happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Destroying affliction, o Lord of the Dwelling Place, entering all forms, be a companion well disposed to us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the voc. vāstoṣ pate that repeats the three vs.-initial vocc.
 
 vā́stoṣ pate in VII.54, this vs. has other similarities to VII.54, esp. VII.54.1: amīvahā́ ‘destroying affliction’ echoes 54.1 anamīváḥ ‘without affliction’, as āviśán ‘entering’ does 54.1 svāveśáḥ ‘easy to enter’; sim. sákhā ‘companion’ and 54.2 sakhyé ‘companionship’. Note also that pāda c sákhā suśéva edhi naḥ is identical to I.91.15; I.91 is the Soma hymn that VII.54.2ab seems to have been partially based on. In addition, pāda b is identical to VIII.15.13b and IX.25.4a, both of which are addressed to Soma (on Soma as the addressee in the former, see comm. ad loc.). I do not quite understand the Soma/Vāstoṣpati connection.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 VASTOSPATI, who killest all disease and wearest every form,  
      Be an auspicious Friend to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Herr der Wohnstatt, der du die Krankheiten vertreibst und alle Gestalten annimmst, sei uns ein gütiger Freund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Lieder du tilgst, o Wohnungsherr, du gehst in alle Formen ein, sei uns ein heilbegabter Freund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Вастошпати, убивающий болезни,  
 Проникающий во все формы,  

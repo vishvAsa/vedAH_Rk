@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् इन्द्राग्नी꣡ ज꣡ना इमे꣡  
 विह्व꣡यन्ते त꣡ना गिरा꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒स्माके॑भिः । नृऽभिः॑ । व॒यम् । स॒स॒ह्याम॑ । पृ॒त॒न्य॒तः । व॒नु॒याम॑ । व॒नु॒ष्य॒तः । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M;; repeated line
 **यत्** ये **इमे** **जनाः** **तना** धनेन **गिरा** स्तुत्या च **इन्द्राग्नी** **विह्वयन्ते** विशेषेण ह्वयन्ति तेषु मध्ये **वयं** नाभाकाः **पृतन्यतः** पृतनामिच्छन्तः **अस्माकेभिः** अस्माकीनैः **नृभिः** मनुष्यैः **ससह्याम** शत्रूनभिभवेम । **वनुष्यतः** स्तुतिमिच्छन्तः शत्रून् **वनुयाम** च । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,35 +135,35 @@ genre M;; repeated line
 Seeking praise: vanuyāma vanuṣyataḥ = stutim icchantaḥ śatrūn vanuyāma; let us prevail over those whodesire to conquer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When these peoples here vie in invoking Indra and Agni with song at  length,  
 with our men might we overcome those doing battle, might we win  against those eager to win.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou tr. indrāgnī́as voc., without commenting on accent. I assume this is simply a lapse on their parts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time with this same song these men call Indra-Agni sundry ways,  
      May we with our own heroes quell those who provoke us to the fight, and conquer those who strive with us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn, Indra und Agni, diese Völker von verschiedenen Seiten rufen mit fließender Lobrede, so wollen wir mit unseren Mannen die Angreifer bezwingen, die Eiferer überbieten. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Indra-Agni, diese hier euch rufen mit beständ'gem Preis, So lasst durch unsre Männer uns bewältigen der Feinde Tross, besiegen die bekämpfenden. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда эти люди с разных сторон зовут  
 Индру и Агни непрерывно песнью,  

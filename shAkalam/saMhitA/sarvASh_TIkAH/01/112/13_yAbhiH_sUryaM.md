@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः सू꣡र्यम् परियाथः꣡ पराव꣡ति  
 मन्धाता꣡रं क्षइ꣡त्रपत्येषु आ꣡वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । विप्र॑म् । प्र । भ॒रत्ऽवा॑जम् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -116,7 +116,7 @@ genre M;; repeated line
 हे अश्विनौ **परावति** दूरदेशे स्थितं सूर्यं तमोरूपेण स्वर्भानुनावृतमादित्यं तस्मात्तमसो मोचयितुं **याभिः** ऊतिभिः **परियाथः** युवां परितो गच्छथः । तथा **मन्धातारम्** ऋषिं **क्षैत्रपत्येषु** । क्षेत्राणां पतिरधिपतिः क्षेत्रपतिः । तत्संबन्धिषु कर्मसु **आवतम्** अरक्षतम् । अपि च **याभिः** ऊतिभिः **विप्रं** मेधाविनं **भरद्वाजम्** ऋषिमन्नप्रदानेन **प्र** **आवतं** प्रकर्षेणारक्षतम् । **ताभिः** सर्वाभिः **ऊतिभिः** सह रक्षणार्थमस्मानप्यागच्छतम् । क्षैत्रपत्येषु । ब्राह्मणादेराकृतिगणत्वात् कर्मण्यर्थे प्यञ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,28 +129,28 @@ Mandhātā was a **rājaṛṣi**, a royal sage. Māndhātrā is a celebrated pr
 Kṣetrapati = lord, either of fields or of the earth. Bharadvāja, **vipra** = **brāhmaṇa**, **medhāvin**, wise (Viṣnu Purāṇa 449)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you drive around the sun in the distance and you  helped Mandhātar [/the thinker] in (the battles for) lordship of lands, with which you helped the inspired poet Bharadvāja—with those forms  of help come here, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye, compass round the Sun when far away, strengthened Mandhatar in his tasks as lord of lands,  
      And to sage Bharadvaja gave protecting help,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr in der Ferne die Sonne überholet, dem Mandhatri zu Landbesitz verhalft, mit denen ihr dem redegewaltigen Bharadvaja weiterhalft, mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die in weiter Ferne ihr die Sonn' umfahrt, und dem Mandhatar zum Besitz der Länder halft, Mit denen ihr dem Sänger Bharadvadscha halft, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) вы объезжаете солнце вдалеке,  
 Помогли Мандхатару во владении землей,  

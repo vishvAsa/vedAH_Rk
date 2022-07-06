@@ -6,7 +6,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उक्थे꣡षु इ꣡न् नु꣡ शूर ये꣡षु चाक꣡न्  
 स्तो꣡मेषु इन्द्र रुद्रि꣡येषु च  
@@ -14,7 +14,7 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 प्र꣡ वाय꣡वे सिस्रते न꣡ शुभ्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 तुभ्य॑ । इत् । ए॒ताः । यासु॑ । म॒न्द॒सा॒नः । प्र । वा॒यवे॑ । सि॒स्र॒ते॒ । न । शु॒भ्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uktheṣv* ← *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
@@ -123,7 +123,7 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 हेशूरेन्द्र येषुहोत्रादिभिःक्रियमाणेषुशस्त्रेषुरुद्रियेषु रुद्रियंसुखं तत्साधनभूतेषु यद्वा रुद्राः स्तोतारः तत्कृतेशुउद्गातॄणांस्तोमेषुचनुक्षिप्रञ्चाकन् स्तुतीःकामयसे कमतेःकनतेर्वायङ्लुकिरूपम् इत् पूरणः यासुस्तोत्रशस्त्ररूपासुस्तुतिषुम्न्दसानोहृष्यन् भवसिताएताःशुभ्राः दीप्यमानाः स्तुतयः वायवेअस्म- दीयंयज्ञं प्रत्यागच्छते तुभ्येत् तुभ्यमेवप्रसिस्रते त्वदर्थमेवप्रसरन्ति नसम्प्रत्यर्थे ताअधुनासेवस्व ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,13 +134,13 @@ genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240�
 In the praises uttered by the worshippers: rudriyeṣu stomeṣu: rudriya = the means of giving plural asure, sukhasādhana bhūteṣu;or, **rudraḥ** = stotāraḥ, praisers, worshipped
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Delight) now in just these hymns in which you delight, o champion,  and in Rudrian praise songs, Indra.  
 These (waters), in which you are finding exhilaration, run forth just to  you as the resplendent ones (run forth) to the Wind [=Vāyu].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There are several syntactic problems in this verse. The easiest to deal with is the apparently misplaced ca in b. All the standard tr. as well as the published translation take rudríyeṣu as a modifier of stómeṣu, with the whole loc. phrase #ukthéṣu …, stómeṣu … rudríyeṣu ca# then interpreted as “in the hymns and in the Rudriyan praises,” with the ca following the 2nd word of a bipartite NP and at a considerable distance from the 1st . (We would expect *stómeṣu ca (…) rudríyeṣu.) Klein (DGRV I.54) calls this “the most anomalous position of ca within adjective plus noun syntagms.” This difficulty disappears if we take rudríyeṣu not as an adjective with stómeṣu, but as a third term in the conjoined phrase: “in the hymns, in the praises, and in the Rudriyans.” The ca is then correctly positioned in an X Y Z ca construction (on which see Klein DGRV I.86-91). The Rudriyans in question are the Maruts. It is important to note that the adj. rudríya- is almost never used of anyone or anything but the Maruts, and in the plural never of anything but the Maruts. It is also never used of hymns or praises. It is true that my interpr. produces disharmony in semantic class: two types of verbal products and a group of gods, but Indra does indeed get pleasure and strengthening both from human praises and from the Maruts, who stood by him at the Vṛtra battle. And my interpr. solves the ca placement problem and also allows rudríya- to refer to its accustomed referent.
 
@@ -160,23 +160,23 @@ vāvṛdhānáḥ and the adj. śubhráḥ in c show lexical and thematic contin
 JPB takes c as an independent nominal clause. I’d be inclined, with the standard tr., to take it with d with the pf. part. vāvṛdhānáḥ expressing anteriority and notional dependence: “… having become strengthened, you should overwhelm …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For, Hero, in the lauds wherein thou joyedst, in hymns of praise, O Indra, songs of Rudras,  
      These streams in which is thy delight approach thee, even as the brilliant ones draw near to Vayu.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unter Lobliedern, an denen du Held deine Freude hast, und unter den rudrischen Lobgesängen, o Indra, laufen diese, an denen du dich zu ergötzen pflegst, nur für dich weiter wie die glänzenden Gespanne für Vayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sprüch', an denen recht, o Held, du Lust hast, und Lieder, Indra, die den Maruts gelten; Die strömen dir, der du daran dich freuest, und auch dem schnellen Wind die schöngeschmückten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Под гимны, которые тебе нравятся, о герой,  
 И под восхваления, связанные с Рудрами, о Индра,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्व꣡म् अग्ने सौभगत्व꣡स्य विद्वा꣡न्  
 अस्मा꣡कम् आ꣡युः प्र꣡ तिरेह꣡ देव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -138,7 +138,7 @@ genre M
 हे **देव** दानादिगुणयुक्त **अग्ने** सः पूर्वोक्तगुणविशिष्टः त्वं **सौभगत्वस्य** सुभगत्वं सौभाग्यं **विद्वान्** जानन् **इह** अस्मिन् कर्मणि **अस्माकमायुः** **प्र** **तिर** प्रवर्धय । प्रपूर्वस्तिरतिर्वर्धनार्थः । त्वया वर्धितं नः अस्माकं **तत्** आयुः मित्रादयः षड्दैवताः **ममहन्तां** पूजयन्तां रक्षन्त्वित्यर्थः । **मित्रः** प्रमीतेस्त्राता **वरुणः** अनिष्टानां निवारयिता अदितिः अदीना अखण्डनीया वा देवमाता **सिन्धुः** स्यन्दनशीलोदकात्मा देवता **पृथिवी** प्रथिता भूदेवता। **उत** इति समुच्चये। **द्यौः** प्रकाशमाना द्युलोकात्मा देवता । एताश्च सर्वा अग्निना प्रवर्धितमायुर्ममहन्तामिति पूर्वत्रान्वयः ॥ सौभगत्वस्य । सुभगस्य भावः सौभगम् ।' सुभगान्मन्त्रे ' इति उद्गात्रादिषु पाठात् भावे अञ् । पुनरपि भावप्रत्ययोत्पत्तिश्छान्दसी । ममहन्ताम् । ‘ मह पूजायाम् ' । भौवादिकः। लोटि • बहुलं छन्दसि ' इति शपः श्लुः । तुजादित्वात् अभ्यासस्य दीर्घत्वम् ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,13 +151,13 @@ The second **pāda** of this hymn terminates the following **sūktas** from 95 t
 Tad = that, refers to **āyus** or life
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Agni, knowing the quality of good fortune—for us extend our  lifetime here, o god.  
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth  and Heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Because sá with 2nd ps. reference is restricted by rule to imperatives (see Jamison 1992 [HS 105]), ab must be a single clause, pace Geldner
 
@@ -170,28 +170,28 @@ The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such, Agni, thou who knowest all good fortune, God, lengthen here the days of our existence.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Do thou, O Agni, thou who knowest (how to grant) happiness, prolong our life here, O God! May Mitra and Varuna grant us this, may Aditi, the Sindhu, the Earth, and the Sky 1!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, weißt, was Glück ist; verlängere du Gott unser Leben hier! Das sollen uns Mitra, Varuna gewähren, Aditi, die Sindhu, Erde und der Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, du, des hohen Glückes kundig, o Gott, verlängre unser Erdenleben; Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer, und Erd' und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, знаток того, что нужно для счастья.  
 Продли срок нашей жизни, о бог!  

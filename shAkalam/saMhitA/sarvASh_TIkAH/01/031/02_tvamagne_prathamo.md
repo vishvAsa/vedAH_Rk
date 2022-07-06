@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने प्रथमो꣡ अ꣡ङ्गिरस्तमः  
 कवि꣡र् देवा꣡नाम् प꣡रि भूषसि व्रत꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 द्विमाता꣡ शयुः꣡ कतिधा꣡ चिद् आय꣡वे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽभुः । विश्व॑स्मै । भुव॑नाय । मेधि॑रः । द्वि॒ऽमा॒ता । श॒युः । क॒ति॒धा । चि॒त् । आ॒यवे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -122,7 +122,7 @@ genre M
 हे **अग्ने** त्वं **प्रथमः** आद्यः **अङ्गिरस्तमः** अतिशयेन अङ्गिराः भूत्वा **कविः** मेधावी सन् **देवानाम्** अन्येषां **व्रतं** कर्म **परि** **भूषसि** परितः अलंकरोषि । कीदृशस्त्वम् । **विश्वस्मै** **भुवनाय** समस्तलोकानुग्रहार्थं **विभुः** बहुविधः । आहवनीयाद्यनेकरूपधारीत्यर्थः । **मेधिरः** मेधावान् **द्विमाता** द्वयोः अरण्योः उत्पन्नः । यद्वा । द्वयोर्लोकयोः निर्माता । **आयवे** मनुष्यार्थं **कतिधा** **चित्** कतिभिः प्रकारैः सर्वत्र **शयुः** शयानः । तत्तन्मनुष्यगृहेऽवस्थितस्य तव प्रकारा इयन्त इति न केनापि ज्ञायते इत्यर्थः ॥ भूषसि । ‘भूष अलंकारे'। भौवादिकः । विभुः । ‘विप्रसंभ्यो ड्वसंज्ञायाम् ' (पा. सू. ३. २. १८० ) इति विपूर्वात् भवतेः डुप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । भुवनाय । ‘भूदूसूभ्रस्जिभ्यश्छन्दसि' ( उ. सू. २. २३८ ) इति क्युन् । योः अनादेशे नित्स्वरेणाद्युदात्तत्वम् । मेधिरः । ‘मेधृ संगमे च ' । अस्माद्बाहुलक इरन्प्रत्ययः । नित्स्वरः । द्विमाता । द्वे मातरौ यस्यासौ द्विमाता । ‘नद्यृतश्च' (पा. सू. ५. ४. १५३ ) इति कप्प्रत्ययो न भवति, मातृमातृकयोः भेदेनोपादानात् ‘नद्यृतश्च' इति कबपि विभाष्यते इति तस्य मातृशब्दविषये पाक्षिकत्वोक्तिः । त्रिचक्रादित्वात् उत्तरपदान्तोदात्तत्वम् । यद्वा । द्वयोर्माता द्विमाता । ' समासस्य ' इत्यन्तोदात्तत्वम् । शयुः । ‘शीङ् स्वप्ने । ‘भृमृशी ' ( उ. सू. १. ७ ) इत्यादिना उप्रत्ययः । कतिधा । डत्यन्तस्य किंशब्दस्य ‘बहुगणवतुडति संख्या ' ( पा. सू. १. १. २३) इति संख्यासंज्ञायां ' संख्याया विधार्थे धा' (पा. सू. ५. ३. ४२ ) इति धाप्रत्ययः । आयवे । छन्दसीणः ' ( उ. सू. १. २ ) इति एतेः उण्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,41 +135,41 @@ genre M
 Dvimāta = either of two mothers, i.e. the two sticks or the maker of two, i.e., heaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, first and best of the Aṅgirases, as sage poet you tend to the  commandment of the gods,  
 extending to all creation, wise, (and though) having (just) two mothers,  lying down in so many places for Āyu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c note the phonetic figure vibhúr víśvasmai bhúvanāya, with the two elements of the first word distributed over the next two.
 
 Note that Agni here is said to have “two mothers” (dvimātā́), while in vs. 4 he swells in his “two fathers” (pitróḥ; see also 9a) -- in both cases referring to the kindling sticks. Although both “two mothers” and “two fathers” can refer pregnantly, as it were, to a mixed gender set of parents, it is striking that both are used so close together here, and of the same referents.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, thou, the best and earliest Angiras, fulfillest as a Sage the holy law of Gods.  
      Sprung from two mothers, wise, through all existence spread, resting in many a place for sake of living man.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, the first, highest Angiras, a sage, administerest the law of the gods, mighty for the whole world, wise, the son of the two mothers 1, reposing everywhere for (the use of ) the living 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni, der erste, der oberste Angiras, wartest als Seher des Dienstes der Götter, für die ganze Welt hinreichend, weise, zweier Mütter Kind, in vielen liegend für Ayu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, als der beste, erste Angiras, verwaltest als ein Seher stets der Götter Dienst; Für alle Wesen weise und gewaltig du, für Menschen allwärts ruhend, zweier Mütter Spross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, первый, самый настоящий Ангирас,  
 Как поэт ты украшаешь обет богов,  

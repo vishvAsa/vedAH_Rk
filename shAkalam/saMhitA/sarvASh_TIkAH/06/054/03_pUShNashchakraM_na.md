@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूष्ण꣡श् चक्रं꣡ न꣡ रिष्यति  
 न꣡ को꣡शो अ꣡व पद्यते  
 नो꣡ अस्य व्यथते पविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नो इति॑ । अ॒स्य॒ । व्य॒थ॒ते॒ । प॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣṇaś* ← *pūṣṇaḥ* ← *pūṣan*
 - \[noun\], genitive, singular, masculine
@@ -93,37 +93,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूष्णः** पोषकस्य देवस्य **चक्रम्** आयुधं **न** **रिष्यति** न विनश्यति । अस्य चक्रस्य **कोशः** च **न** **अव** **पद्यते** न हीयते । **अस्य** **पविः** धारा च **नो** नैव **व्यथते** कुण्ठीभवति । तेन चक्रेण चोरान् हत्वा अस्मदीयं धनं प्रकाशयेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The discus of **Pūṣan** does not destroy; its sheath is not discarded, its edge harms not us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan’s wheel does not suffer harm, nor does his (wagon’s) cask  
 fall down,  
 nor his wheel-rim waver.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unharmed is Pusan's chariot wheel; the box ne'er falleth to the ground,  
      Nor doth the loosened felIy shake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Rad des Pusan wird nicht schadhaft, der Wagenkasten fällt nicht herab, noch wird sein Radbeschlag wackelig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht bricht des Puschan Wagenrad, nicht fällt sein Wagenkorb herab, Noch wankt des Rades Schiene ihm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Колесо у Пушана не повреждается,  
 Кузов не падает,  

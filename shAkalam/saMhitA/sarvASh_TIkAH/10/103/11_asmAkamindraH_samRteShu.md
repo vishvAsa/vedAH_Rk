@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मा꣡कम् इ꣡न्द्रः स꣡मृतेषु ध्वजे꣡षु  
 अस्मा꣡कं या꣡ इ꣡षवस् ता꣡ जयन्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्माँ꣡ उ देवा अवता ह꣡वेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒स्माक॑म् । वी॒राः । उत्ऽत॑रे । भ॒व॒न्तु॒ । अ॒स्मान् । ऊं॒ इति॑ । दे॒वाः॒ । अ॒व॒त॒ । हवे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmākam* ← *mad*
 - \[noun\], genitive, plural
@@ -121,35 +121,35 @@ popular
 **अस्माकं** संबन्धिष्वेव **समृतेषु** परसेनां संप्राप्तेषु **ध्वजेषु** ध्वजवत्सु सैनिकेषु **इन्द्रः** रक्षिता भवतु । तथा **अस्माकं** **या** **इषवः** सन्ति **ताः** एव **जयन्तु** शत्रून् । तथा **अस्माकं** **वीराः** भटाः **उत्तरे** उपरि **भवन्तु** । हे **देवाः** **अस्माँ** **उ** अस्मानेव **अवत** रक्षत **हवेषु** संग्रामेषु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When the banners are intermingled, may **Indra** be our (defender), may those arrows which are ours bevictorious may our warriors be triumphant; gods, protect us in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ours is Indra when the battle flags clash. Our arrows—let them conquer. Our heroes—let them have the upper (hand). Help us amid the calls (to  you), o gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra aid us when our flags are gathered: victorious be the arrows of our army.  
      May our brave men of war prevail in battle. Ye Gods, protect us in the shout of onset.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser sei Indra, wann die Feldzeichen zusammentreffen. Unsere Pfeile, die sollen siegen! Unsere Helden sollen die Oberhand haben, uns stehet, ihr Götter, bei während der Kampfrufe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen, Und unsre Männer, die da Macht gewinnen; ihr Götter helft uns, wenn wir zu euch rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

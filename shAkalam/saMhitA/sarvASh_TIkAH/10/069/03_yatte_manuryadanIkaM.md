@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते म꣡नुर् य꣡द् अ꣡नीकं सुमित्रः꣡  
 समीधे꣡ अग्ने त꣡द् इदं꣡ न꣡वीयः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ वा꣡जं दर्षि स꣡ इह꣡ श्र꣡वो धाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । रे॒वत् । शो॒च॒ । सः । गिरः॑ । जु॒ष॒स्व॒ । सः । वाज॑म् । द॒र्षि॒ । सः । इ॒ह । श्रवः॑ । धाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -153,37 +153,37 @@ genre M
 हे **अग्ने** **ते** त्वदीयं **यत्** **अनीकं** रश्मिसंघं **मनुः** एतन्नामकः यथा **समीधे** हविर्भिः सम्यग्दीपयति **सुमित्रः** एतन्नामकोऽहं समीधे सम्यग्दीपयामि। ‘ ञिइन्धी दीप्तौ'। लिटि ‘ इन्धिभवतिभ्यां च' इति कित्त्वान्नलोपः । **तदिदं** सोऽयं रश्मिसंधः **नवीयः** नवतरो भवतु । **सः** त्वं **रेवत्** धनयुक्तं यथा भवति तथा **शोच** प्रज्वल । **सः** एव त्वं **गिरः** अस्मदीयाः स्तुतीः **जुषस्व** सेवस्व । **सः** त्वं **वाजं** शत्रुबलं **दर्षि** विदारय । तथा **इह** मयि **श्रवः** अन्नं **धाः** धेहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that your army of flame, **Agni**, which **Manu**, which **Sumitra** has kindled, be the newest; do youshine wealthily; do you graciously accept our praises; do you destroy the might (of our foes), do you grant usabundance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which face of yours Manu kindled, which (did) the good ally, o Agni,  that is this one here anew.  
 Blaze richly; take pleasure in the songs. Break out the prize; confer  
 fame here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Still newest is this face of thine, O Agni, which Manu and Sumitra have enkindled.  
      So richly shine, accept our songs with favour, so give us strengthening food, so send us glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Antlitz, das Manu, das Sumitra entflammt hat, o Agni, dies ist auch das allerneueste. Flamme prangend, hab an der Lobrede Gefallen, schlag Lohn heraus, bringe Ruhm ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Glanzgestalt, die Manu, die Sumitra dir hat entflammt, die strahlt, o Agni, neu hier; So leuchte hell, nimm freundlich an die Lieder, erschliesse Gut, und schenk uns reiche Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

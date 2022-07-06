@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मापूषणा ज꣡नना रयीणां꣡  
 ज꣡नना दिवो꣡ ज꣡नना पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ अकृण्वन्न् अमृ꣡तस्य ना꣡भिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 जा॒तौ । विश्व॑स्य । भुव॑नस्य । गो॒पौ । दे॒वाः । अ॒कृ॒ण्व॒न् । अ॒मृत॑स्य । नाभि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somāpūṣaṇā* ← *somāpūṣan*
 - \[noun\], vocative, dual, masculine
@@ -113,7 +113,7 @@ genre D
 सोमापूषणा हे सोमापूषणौ युवांरयीणान्धनानां जनना जनयितारौ दिवः द्युलोकस्यापि जनना जनयितारौ पृथिव्याः प्रथितायाश्च जनना जनयितारौभवतः किञ्च जातौजातमात्रावेव युवांविश्वस्यभुवनस्य कृत्स्नस्यजगतः गोपौ गोप्तारौ देवाअमृतस्यामरणस्यनाभिं हेतुमकृण्वन् अकार्षुः ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,36 +124,36 @@ genre D
 Soma: by this we are to understand both the moon and the Soma, as further intimated in the fourth hymn; the source of immortality: akṛṇvan amṛtasya nābhim: ketum, the cause or source, amaraṇasya, of not dying
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma and Pūṣan, you, the two begetters of riches, begetters of heaven,  begetters of earth,  
 born as the herdsmen of every living thing, did the gods make as the  navel of the immortal.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not capture the etymological play between the transitive nominal jánana- (3x in ab) and the first word of the 2nd hemistich, intrans.-passive jātá-, which could have been tr. ‘begotten’ to reflect this etym. figure. However, this tr. seems a little stiff and would not work with jā́yamānau in 2a.
 
 It is only in d that it becomes clear that the dual nominal phrases in the first 3 pādas are in the acc. and are the obj. of akṛṇvan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SOMA and Pusan, Parents of all riches, Parents of earth and Parents of high heaven,  
      You Twain, brought forth as the whole world's protectors, the Gods have made centre of life eternal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma und Pusan, euch Schöpfer der Reichtümer, Schöpfer des Himmels und der Erde die geborenen Hirten der ganzen Welt, machten die Götter zum Nabel der Unsterblichkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, Puschan, ihr des Reichthums Zeuger, des Himmels Zeuger und der Erde Zeuger, Euch, die gebornen als des Weltalls Hüter, ersahn die Götter als des Himmels Nabel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома-Пушан, породители богатств,  
 Породители неба, породители земли,  

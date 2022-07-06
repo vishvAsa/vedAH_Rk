@@ -8,7 +8,7 @@ title = "+074"
 ‘विशोविशो वः' इति पञ्चदशर्चं पञ्चमं सूक्तम् । अत्रेयमनुक्रमणिका -–• विशोविशो वः पञ्चोनाग्नेयं त्वनुष्टुम्मुखास्तृचाश्चत्वारोऽन्त्यास्तिस्रोऽनुष्टुभ आर्क्षस्य श्रुतर्वणो दानस्तुतिः' इति । अनुवृत्तेर्गोपवन ऋषिः । आदितस्त्रिषु तृचेषु सर्वाः प्रथमा अनुष्टुभो द्वितीयातृतीये प्राग्वत्सप्रपरिभाषया गायत्र्यौ त्रयोदश्याद्यास्तिस्रोऽनुष्टुभः । अस्योत्तरस्य चाग्निर्देवता । अन्त्यास्तिस्रः श्रुतर्वनाम्नो राज्ञो दानस्तुतिः । व्योमविश्वदेवस्तुत्पञ्चशारदीयेष्विदं सूक्तमाज्यशस्त्रम् । सूत्रितं च-’ विशोविशो वो अतिथिमित्याज्यम्' (आश्व. श्रौ. ९. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 74 (683)  
 Agni (1–12), Śrutarvan Ārksya’s Da ̣ ̄nastuti (13–15)  
@@ -21,7 +21,7 @@ cation of separate groups of people generally mobilizing against outside threat,
 The final tr̥ca (vss. 13–15), with slightly different metrical structure, is the poet’s  dānastuti of Śrutarvan and his gift of four horses and a chariot. Though it is not as  self-consciously clever as some dānastutis, verse 13 contains a nice pun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अग्निः꣡ सहस्रि꣡णो  
 वा꣡जस्य शति꣡नस् प꣡तिः  
 मूर्धा꣡ कवी꣡ रयीणा᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मू॒र्धा । क॒विः । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयमग्निः** **शतिनः** **सहस्रिणः** चोक्तसंख्योपेतस्य **वाजस्य** अन्नस्य **पतिः** स्वामी **मूर्धा** शिरोवदुन्नतः श्रेष्ठः **कविः** मेधावी **रयीणां** धनानामपि पतिरिति शेषः । तदुभयं प्रयच्छत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,30 +90,30 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 You who are the head (or best) of wealth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Agni here is the lord of the thousandfold prize and of the  
 hundredfold;  
 as sage poet he is the head of riches.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Agni, Lord of wealth and spoil hundredfold, thousandfold, is head  
      And chief of riches and a Sage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni ist Herr über tausendfältigen, hundertfältigen Gewinn; der Weise ist das Haupt der Reichtümer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Agni, ist der Labung Herr, die hundertfach und tausendfach, Der Schätze weises Oberhaupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

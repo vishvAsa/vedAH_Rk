@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शं꣡ नो अज꣡ ए꣡कपाद् देवो꣡ अस्तु  
 शं꣡ नो अ꣡हिर् बुध्नि꣡यः शं꣡ समुद्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शं꣡ नः पृ꣡श्निर् भवतु देव꣡गोपा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 शम् । नः॒ । अ॒पाम् । नपा॑त् । पे॒रुः । अ॒स्तु॒ । शम् । नः॒ । पृश्निः॑ । भ॒व॒तु॒ । दे॒वऽगो॑पा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śaṃ* ← *śam*
 - \[noun\], nominative, singular, neuter
@@ -148,36 +148,36 @@ genre D
 **अज** **एकपात्** अज एकपान्नामधेयः **देवः** **नः** अस्माकं **शं** शान्त्यै **अस्तु** । **अहि** र्बुध्न्यः च **नः** अस्माकं **शं** शान्त्या अस्तु । **समुद्रः** अपि नः **शं** शान्त्या अस्तु । **पेरुः** उपद्रवेभ्यः पारथिता **अपां** **नपात्** अपांनपान्नामधेयोऽपि देवः **नः** अस्माकं **शं** शान्त्यै **अस्तु** । **देवगोपा** देवा गोपायितारो यस्यां सा **पृश्निः** मरुतां माता **नः** अस्माकं **शं** शान्त्यै **भवतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine Aja-Ekapād be (favourable to) our happiness; may **Ahirbudhnya**, may the firmament, be(promotive of) our happiness; may the grandson of the waters, the protector, be (the securer of) our felicity; mayPṛśni, of whom the gods are the guardians, be to us (a granter of) happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Luck for us be god Aja Ekapad; luck for us Ahi Budhnya [/Serpent of  the Deep], luck the Sea.  
 Luck for us be the swelling Child of the Waters; luck for us be Pr̥śni,  who has the gods as her protectors.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Aja-Ekapad, the God, be gracious, gracious the Dragon of the Deep, and Ocean.  
      Gracious be he the swelling Child of Waters, gracious be Prsni who hath Gods to guard her.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück soll uns der einfüßige Ungeborene Gott sein, zum Glück uns der Drache der Tiefe, zum Glück das Meer. Zum Glück sei uns Apam Napat, der Befruchter der Wasser, zum Glück soll uns Prisni, die gottbehütete, sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Heil der Gott uns, der einfüss'ge Treiber, zum Heil des Wetters Drache und das Meer uns, Zum Heil der Wasser Sohn, der sicher leitet, zum Heil sei uns die gottbeschirmte Priçni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье нам пусть будет бог Аджа Экапад,  
 На счастье нам Ахи Будхнья, на счастье море!  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वां ग्रा꣡वाणो अश्विना  
 धीभि꣡र् वि꣡प्रा अचुच्यवुः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 नास॑त्या । सोम॑ऽपीतये । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -98,42 +98,42 @@ genre M;; repeated line
 हे **नासत्या** सत्यौ सत्यप्रणेतारौ वा । तथा च यास्कः– सत्यावेव नासत्यावित्यौर्णवाभः सत्यस्य प्रणेतारौ ' (निरु. ६. १३ ) इति । **अश्विना** अश्विनौ **वां** युवां **सोमपीतये** सोमस्य पानाय **विप्राः** प्राज्ञा ऋत्विजः **ग्रावाणः** सोमाभिषव्पाषाणाश्च **धीभिः** कर्मभिः स्वस्वव्यापारैः **अचुच्यतुः** अभिगच्छन्ति । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sacred stones, **Aśvins**, the pious worshipers, **Nāsatyās**, have fallen upon their sacred functions,(to induce you) to drink the **Soma**; may all our enemies perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressing stones, inspired poets, have roused you two, o Aśvins, with  their insightful thoughts,  
 for you to drink the soma, o Nāsatyas.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pl. víprā(ḥ) ‘poets’ is taken as a second conjoined subj. by Geldner (“die Presssteine … (und) die Redekundigen”), but given how often the pressing stones are said to speak, I take it (with Renou) as characterizing the stones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Asvins, with songs the singer stones have made you hasten hitherward,  
      Nasatyas, to the Soma-draught. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Asvin, haben die Preßsteine herangezogen und die Redekundigen mit ihren frommen Gedanken, ihr Nasatya´s zum Somatrunk. All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Ritter zog des Sängers Lied, die Somasteine euch herbei, O treue, zu dem Somatrunk. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Давильные камни вас притянули, о Ашвины,  
 (И) вдохновенные (поэты своими) молитвами  

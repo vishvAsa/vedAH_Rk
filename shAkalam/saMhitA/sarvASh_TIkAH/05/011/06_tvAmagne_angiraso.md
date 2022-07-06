@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवा꣡म् अग्ने अ꣡ङ्गिरसो गु꣡हा हित꣡म्  
 अ꣡न्व् अविन्दञ् छिश्रियाणं꣡ व꣡ने-वने  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवा꣡म् आहुः स꣡हसस् पुत्र꣡म् अङ्गिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सः । जा॒य॒से॒ । म॒थ्यमा॑नः । सहः॑ । म॒हत् । त्वाम् । आ॒हुः॒ । सह॑सः । पु॒त्रम् । अ॒ङ्गि॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -133,41 +133,41 @@ genre M
 हे **अग्ने** **अङ्गिरसः** ऋषयः **गुहा** गुहायां **हितं** निहितं निगूढं **वनेवने** वृक्षेवृक्षे **शिश्रियाणम्** आश्रितं **त्वाम्** **अन्वविन्दन्** अलभन्त । **महत्** महता **सहः** सहसा बलेन युक्तः **सः** त्वं **मथ्यमानः** **जायसे** । हे **अङ्गिरः** अङ्गिरसां प्रकृतिभूत **त्वां** **सहसः** **पुत्रम्** **आहुः** ॥ शिश्रियाणम् । श्रिञ् सेवायाम्' । लिटः कानच् । शपः श्लुः । ‘श्लौ' इति द्विर्वचनम् । इयङादेशः । चित्त्वादन्तोदात्तः ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Aṅgirasas** discovered you, **Agni**, hidden in secret, and taking refuge from wood to wood; you are genitive rated, being churned with great force; therefore they have called you, **Aṅgiras**, the son of strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, did the Aṅgirases find, though you were hidden in secret,  resting in every piece of wood.  
 Being churned, you are born to great strength. You they call the child of  strength, o Aṅgiras.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, the Angirases discovered thee what time thou layest hidden, fleeing back from wood to wood.  
      Thou by attrition art produced as conquer.ing might, and men, O Angiras, call thee the Son of Strength.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thee, O Agni, who wert hidden, dwelling here and there in every wood, the Aṅgiras have discovered 1. Thus thou art born, produced by attrition, a mighty force. Thee, O Aṅgiras, they call the son of strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, fanden die Angiras auf, als du verborgen warst, der du in jedem Holze steckst. Du wirst ausgerieben als große Macht geboren. Dich nennen sie den Sohn der Kraft, o Angiras.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, den versteckten, fanden auf die Angiras, o Agni, dich, der jedem Holzstück innewohnt; Du wirst geboren, wenn man reibt mit grosser Kraft; drum nennt man dich den Sohn der Kraft, o Angiras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, нашли Ангирасы,  
 Спрятанного, заключенного в каждом дереве.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वायं꣡ सो꣡मस् तुव꣡म् ए꣡हि अर्वा꣡ङ्  
 छश्वत्तमं꣡ सुम꣡ना अस्य꣡ पाहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दधिष्वे꣡मं꣡ जठ꣡र इ꣡न्दुम् इन्द्र
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒स्मिन् । य॒ज्ञे । ब॒र्हिषि॑ । आ । नि॒ऽसद्य॑ । द॒धि॒ष्व । इ॒मम् । ज॒ठरे॑ । इन्दु॑म् । इ॒न्द्र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavāyaṃ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -128,7 +128,7 @@ genre M
 तवायं सोम इति माध्यन्दिने सवने नेष्टुः प्रस्थितयाज्या । सूत्रितं च । तवायं सोमस्त्वमेह्यर्वाङिन्द्राय सोमाः प्रदिवः । आ. ५-५ । इति ॥हे इन्द्र अयं सोमस्तव त्वदर्थमभिषुतः । त्वमर्वाङ् सोमाभिमुख्येनैहि । आयाहि । आगत्य च सुमानाः शोभनमनस्को भूत्वा शश्वत्तमं भूयांसमस्येमं सोमः पाहि । पिब । बर्हिषि प्रवृद्धेऽस्मिन्यज्ञे निशद्योपविश्येन्दुं क्लेदनशीलमिमिं सोमं जठर आ दधिष्व । धारय । यथा नाभेरधस्तान्न गच्छति तथा धारय । अङ्गिरोभिरागहि यज्ञियेभिः । ऋग्वे. १०-१४-५ । इत्यत्र न यज्ञविशेशणं बर्हिर्भिन्नरूपं वा तदित्यतो नोत्सृह्यते । इहि इण् गतौ । अस्य लोटि रूपम् । निघातः । शश्वतमम् । उञ्छादित्वादन्तोदात्तत्वम् । पाहि । पा पान इत्यस्य लोटि रूपम् । बहुलं छन्दसीति शपो लुक् । निघातः । निषद्य । सदेर्ल्यपि सदेरप्रतेरिति षत्वम् । लित्स्वर्तः । दधिश्व । इन्दुम् । उन्दी क्लेदने । उन्भेरिच्चादेरित्युप्रत्ययः । धातोरादेरिकारादेशः । निदित्यनुवृत्तेराद्युदात्तः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ genre M
 **Yajus**. 26.23
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours is this soma here. Come here, nearby. Well-disposed, drink of it  each time anew.  
 At just this sacrifice, having sat down on the ritual grass, put just this  drop into your belly, Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is this Sorna: hasten to approach it. Drink thou thereof, benevolent, and cease not.  
      Sit on the sacred grass at this our worship, and take these drops into thy belly, Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich ist dieser Soma, komm heran, zum soundsovielten Male trink wohlgemut von diesem! Setz dich zu diesem Opfer auf das Barhis und nimm den Saft in deinem Bauch auf, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma hier ist dein, o komme nah her, mit lust'gem Sinne trinke fort und fort ihn; Bei diesem Opfer sitzend auf der Streu hier nimm diesen Indu, Indra, in den Bauch auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твой этот сома. Ты приезжай к нам!  
 Благожелательный, пей его в который раз!  

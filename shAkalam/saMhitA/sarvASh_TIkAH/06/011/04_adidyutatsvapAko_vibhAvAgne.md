@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दिद्युतत् सु꣡ अ꣡पाको विभा꣡वा  
 अ꣡ग्ने य꣡जस्व रो꣡दसी उरूची꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अञ्ज꣡न्ति सुप्रय꣡सम् प꣡ञ्च ज꣡नाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ॒युम् । न । यम् । नम॑सा । रा॒तऽह॑व्याः । अ॒ञ्जन्ति॑ । सु॒ऽप्र॒यस॑म् । पञ्च॑ । जनाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adidyutat* ← *dyut*
 - \[verb\], singular, Redupl. Aorist (Ind.)
@@ -119,14 +119,14 @@ genre M
 अयमग्निः **सु** **अदिद्युतत्** । सुष्ठु द्योतते दीप्यते । कथंभूतः । **अपाकः** । पाकः पक्तव्यप्रज्ञो मूर्खः । तद्विलक्षणोऽपाकः । **विभावा** दीप्तिमान् । शेषः प्रत्यक्षकृतः । हे **अग्ने** स त्वम् **उरूची** उरु विस्तीर्णमञ्चन्त्यौ विस्तृते **रोदसी** द्यावापृथिव्यौ **यजस्व** हविषा पूजय । **आयुं** **न** मनुष्यमतिथिमिव **यं** **पञ्च** **जनाः** मनुष्या ऋत्विग्यजमानलक्षणाः **रातहव्याः** दत्तहविष्काः सन्तः **सुप्रयसं** शोभनहविर्लक्षणान्नमग्निं **नमसा** अन्नेन हविर्लक्षणेन **अञ्जन्ति** सिञ्चन्ति तर्पयन्ति स त्वं यजस्वेत्यन्वयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has flashed, the very clever, wide-radiant one. O Agni, perform  sacrifice yourself to the two world-halves of broad extent—  
 (you, Agni,) whom, like Āyu, they anoint with reverence—the five  
@@ -134,7 +134,7 @@ peoples having bestowed oblations (anoint) him who receives the
 pleasurable offerings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On svápāka- see comm. ad IV.3.2.
 
@@ -143,23 +143,23 @@ Note the switch from 3rd ps. reference (pāda a) to 2nd ps. (b). The 2nd ps.
 reference continues by default through the rest of the vs., though the published translation appears to switch back to 3rd ps.: (“(anoint) him …”) for Engl. convenience.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright hath he beamed, the wise, the far-refulgent. Worship the two widespreading Worlds, O Agni,  
      Whom as the Living One rich in oblations the Five Tribes, bringing gifts, adorn with homage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist aufgeleuchtet mit schöner Kehrseite erstrahlend. O Agni, opfere du den geräumigen Rodasi, den die fünf Völker unter Verneigung Opfer bringend wie den Ayu salben, den Gutbewirteten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, opfre beiden weiten Welten; er strahle leuchtend aus der Ferne kommend, Den Opfer bringend die fünf Stämme salben mit Ehrfurcht wie den Wandrer, der zum Mahl kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он вспыхнул, ярко сверкая, (бог,) прекрасный (и) со спины.  
 О Агни, принеси жертву двум широким половинам вселенной,  

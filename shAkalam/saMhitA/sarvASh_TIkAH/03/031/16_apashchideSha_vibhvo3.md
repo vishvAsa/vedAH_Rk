@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप꣡श् चिद् एष꣡ विभु꣡वो द꣡मूनाः  
 प्र꣡ सध्री꣡चीर् असृजद् विश्व꣡श्चन्द्राः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्यु꣡भिर् हिन्वन्ति अक्तु꣡भिर् ध꣡नुत्रीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मध्वः॑ । पु॒ना॒नाः । क॒विऽभिः॑ । प॒वित्रैः॑ । द्युऽभिः॑ । हि॒न्व॒न्ति॒ । अ॒क्तुऽभिः॑ । धनु॑त्रीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
@@ -113,7 +113,7 @@ genre M
 **दमूनाः** । दान्तं मनो यस्यासौ दमूनाः दन्तमनाः । यद्वा दाम्यतीति दमूनाः । उपरत इत्यर्थः । स **एषः** एवेन्द्रः **विभ्वः** व्याप्तः **सधीचीः** परस्परसंगता: **विश्वश्चन्द्राः** विश्वस्याह्लादयित्रीः। विश्वस्याह्लादो याभ्यस्ता इति वा । एवंभूताः **अपः** **प्र** **असृजत्** सृष्टवान् । सृष्टाश्च ता आपः **मध्वः** माधुर्योपेतान् सोमान् **कविभिः** **पवित्रैः** अग्निवायुसूर्यैः **पुनानाः** शोधयित्र्यः **धनुत्रीः** सर्वस्य जगतः प्रीणयित्र्यः सत्यः **द्युभिः** दिवसैः **अक्तुभिः** **चित्** रात्रिभिः च **हिन्वन्ति** । रात्रिंदिवं सर्वं जगत् स्वस्वव्यापारप्रवणं कुर्वन्तीत्यर्थः ॥ दमूनाः। 'दमु उपशमे । ‘दमेरूनसिः' इत्यूनसिप्रत्ययः । दाम्यतीति दमूनाः । यद्वा दान्तशब्दस्य दभावो मनसो मकारात् परस्याकारस्य ऊकारश्छान्दसः । असृजत् ।' सृज विसर्गे'। हिन्वन्ति । ' हि गतौ । निघातः । धनुत्रीः । ‘धन धान्ये ' इत्यस्मात् अशित्रादित्वात् उत्रप्रत्ययः । शार्ङ्गरवादिषु ङीन् द्रष्टव्यः । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 With the sage purifiers: kavibhiḥ pavitraiḥ = the sages, who are as it were with the filters or purifiers of the **soma**, are the divinities: **agni**, **vāyu** and **sūrya**; proceed with days and nights: dyubhir-hinvantyuktabhiḥ = they go with days and nights, i.e. they regulate by day and night the respective functions of all the world: rātridivam saravam **jagat** sva svavyāparapravanam kurvanti, they make the whole world diligent in its respective functions by night and day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Also the all-gleaming waters, spread wide, did this master of the house  send surging forth toward a single goal.  
 Through the days, through the nights, (the priests) impel the runners,  (the streams) of honey [=soma] being purified with poets as their  purifying filters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of this vs. differs significantly from the standard, beginning with the disposition of the pādas. Most take abc together, with d as a separate clause, while I divide the vs. into two hemistichs, which express parallel notions. In ab, in mythological time, Indra sends the waters surging; this is the standard happy denouement of the Vṛtra myth. In cd priests (even perhaps the Aṅgirases) impel another collection of liquid, the streams of soma -- the ritual equivalent of Indra’s cosmogonic release of the waters. Although the standard interpr. tacks pāda c onto ab, as describing the waters, it contains vocabulary that is strongly associated with soma: mádhu- ‘honey, sweet’, √pū ‘purify’, and pavítra- ‘filter’, and I cannot offhand think of another instance in which waters are said to be purified, though they are purifying.
 
@@ -149,23 +149,23 @@ It could also be, with Renou, the Aṅgirases, who have been operating as priest
 Geldner (/Witzel Gotō) take kavíbhiḥ as an adjective with pavítraiḥ (Geldner: “mit geistigen Filtern”), but in my opinion there are no adjectival uses of kaví-. Instead it is used as a defining appositive (poets as filters), as I take it, sim. Renou, or it is a separate agent with punānā́ḥ (“being purified by poets with filters”), with Schmidt (170).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vast, the House-Friend, he set the waters flowing, all-lucid, widely spread, that move together.  
      By the wise cleansings of the meath made holy, through days, and nights they speed the swift streams onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch die sich verbreitenden Gewässer ließ der Gebieter in gleicher Richtung laufen, die allschimmernden, süßen, mit geistigen Filtern geläutert. Tag und Nacht laufend trieben sie ihre Rosse an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser auch liess er, der starke Hausfreund, ver- einigt fliessen, die allschimmernden; und die durch die Priester und die Seihen gereinigten süssen, schnellströmendon Tränke lassen sie [wol die Wasser als Subject] rinnen Tag und Nacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И растекающиеся воды этот друг дома  
 Направил к одной цели, переливающиеся всеми цветами,  

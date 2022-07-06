@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡शे यो꣡ वि꣡श्वस्या देव꣡वीतेर्  
 ई꣡शे विश्वा꣡युर् उष꣡सो वि꣡उष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रिष्टरथ स्कभ्ना꣡ति शूषइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 आ । यस्मि॑न् । म॒ना । ह॒वींषि॑ । अ॒ग्नौ । अरि॑ष्टऽरथः । स्क॒भ्नाति॑ । शू॒षैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
@@ -116,7 +116,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 **यः** अग्निः **विश्वस्याः** **देववीतेः** सर्वस्य यज्ञस्य **ईशे** ईष्टे । अपि च **विश्वायुः** सर्वत्राप्रतिहतगमनः **उषसो** **व्युष्टौ** विवासन उदयकाले होमार्थं यजमानानाम् **ईशे** ईष्टे । **शूषैः** शत्रुबलैः **अरिष्टरथः** अहिंसितयज्ञरथः सर्व एव यजमानः **यस्मिन्** **अग्नौ** **मना** मननीयानि **हवींषि** **आ** **स्कभ्नाति** आदरेण प्रतिबध्नाति प्रक्षिपति । सोऽयमग्निरस्माभिर्यागार्थमाहूत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ Oblations: **mana** =mananīyāni;
 Skabhnāti = prakṣipati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has control of every effort to pursue the gods and has control of  the dawn at its dawning throughout a full lifetime;  
 Agni, upon whom a man possessing an invulnerable chariot [=sacrifice]  props his oblations zealously with fortifying (hymns).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who is Lord of all divine oblation, shared by all living men at break of morning,  
      Agni to whom our offerings are devoted, in whom rests he whose car, through might, is scatheless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der über jegliche Göttereinladung gebeut, er gebeut lebenslänglich bei der Morgenröte Aufgang: Agni, auf den er bei unversehrtem Wagen die Opferspenden mit Andacht und unter Aufmunterungen auflädt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, der jedes Götterschmauses Herr ist, der alles labet bei des Morgens Anbruch, In den der Mensch, dess Wagen unverletzt ist, die Tränke einfügt eifervoll mit Preislied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто властвует над любым приглашением богов,  
 Властвует весь век при зажигании Ушас,  

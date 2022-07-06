@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 माता꣡ देवा꣡नाम् अ꣡दितेर् अ꣡नीकं  
 यज्ञ꣡स्य केतु꣡र् बृहती꣡ वि꣡ भाहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नो ज꣡ने जनय विश्ववारे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्र॒श॒स्ति॒ऽकृत् । ब्रह्म॑णे । नः॒ । वि । उ॒च्छ॒ । आ । नः॒ । जने॑ । ज॒न॒य॒ । वि॒श्व॒ऽवा॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
@@ -134,7 +134,7 @@ genre M
 हे उषस्त्वं **देवानां** **माता** जननी । उषसि सर्वे देवाः स्तुत्या प्रबोध्यन्ते अतः सा तज्जननवती इत्युच्यते । अत एव **अदितेः** देवानां मातुः **अनीकं** प्रत्यनीकम् । प्रतिस्पर्धिनी त्वमित्यर्थः । यद्वा । दीव्यन्तीति देवा रश्मयः । तेषां निर्मात्री । अदितेरखण्डनीयाया भूमेरनीकं मुखम् । यथेन्द्रियाश्रयत्वात् मुखं प्रकाशकम् एवमुषाः भूमेः प्रकाशयित्रीत्यर्थः । **यज्ञस्य** **केतुः** केतयित्री ज्ञापयित्री **बृहती** महती सती **वि** **भाहि** प्रकाशस्व । अपि च **प्रशस्तिकृत्** सम्यक् स्तुतमिति प्रशंसनं कुर्वती **नः** अस्मदीयाय **ब्रह्मणे** मन्त्ररूपाय स्तोत्राय **व्युच्छ** विवासय। तदनन्तरं हे **विश्ववारे** सर्वैर्वरणीये उषः **नः** अस्मान् **जने** जनपदे **आ** **जनय** आभिमुख्येन प्रादुर्भावय अवस्थापयेत्यर्थः ॥ बृहती। बृहन्महतोरुपसंख्यानम् इति ङीप उदात्तत्वम् । प्रशस्तिकृत् ।  ‘ शंसु स्तुतौ '। भावे क्तिन् ।  ‘ तितुत्र ' इति इट्प्रतिषेधः। **अनिदिताम्'** इति नलोपः । तस्मिन्नुपपदे करोतेः ‘क्विप् च' इति क्विप्। जनय। ‘जनी प्रादुर्भावे'। णिचि उपधावृद्धिः । ‘जनीजॄष्क्नसुरञ्जोऽमन्ताश्च ' इति मित्त्वे  ‘ मितां ह्रस्वः' इति ह्रस्वत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,34 +145,34 @@ genre M
 Mother of the gods: the gods are awakened at dawn by the worship they then receive, and hence the dawn may be said figuratively to be their parent (**mātā** devānām), and in that character she is the enemy, or rival, of Aditi, who is their mother.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mother of gods, face of Aditi, beacon of the sacrifice, lofty—shine  forth.  
 As creator of lauds, dawn forth for our sacred formulation. Beget (it)  here among our people, o you who bring all valuables.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mother of Gods, Aditi's form of glory, ensign of sacrifice, shine forth exalted.  
      Rise up, bestowing praise on our devotion all-bounteous, make us chief among the people.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Mother of gods and Aditi's effulgence, Banner of sacrifice, shine forth exalted. Shine forth and look upon our prayer with favour: Bounteous, cause fruitfulness among the people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, die Mutter der Götter, das Abbild der Aditi, das Wahrzeichen des Opfers, die Hohe, erglänze! Unserem Segenswort Ehre machend geh auf, bring uns unter die Leute, Allbegehrte!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Aditi, der Götter-Mutter, Antlitz, als Opfers Fahne scheine weithin leuchtend; Erstrahle Huld erweisend unsrer Andacht, allreiche, wirke Fruchtbarkeit uns allen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мать богов, лик Адити,  
 Знамя жертвы, высокая (богиня), – воссияй!  

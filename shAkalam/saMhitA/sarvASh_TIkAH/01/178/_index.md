@@ -8,7 +8,7 @@ title = "+178"
 ‘ यद्ध स्या' इति पञ्चर्चं चतुर्दशं सूक्तमागस्त्यमैन्द्रं त्रैष्टुभम् ।' यद्ध स्या' इत्यनुक्रमणिका । विशेषविनियोगः पूर्ववत् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 178  
 Indra  
@@ -21,7 +21,7 @@ In the first two verses the poet asserts the usual relationship between mortal  
 The next verse (3), which is the center of the hymn, predicates of Indra (in agent  nouns difficult to render literally) an array of roles in which he gives aid to mortals,  and the final two verses (4–5), beginning with a summary evā́ “even so, in the same  way,” urge Indra to fulfill some of these roles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

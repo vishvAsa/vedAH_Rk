@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡ष्टा दुहित्रे꣡ वहतुं꣡ कृणोति  
 इ꣡तीदं꣡ वि꣡श्वम् भु꣡वनं स꣡म् एति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 महो꣡ जाया꣡ वि꣡वस्वतो ननाश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒मस्य॑ । मा॒ता । प॒रि॒ऽउ॒ह्यमा॑ना । म॒हः । जा॒या । विव॑स्वतः । न॒ना॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ popular
 **त्वष्टा** एतन्नामको देवः **दुहित्रे** । षष्ठयर्थे चतुर्थी। दुहितुः सरण्यूनामिकायाः **वहतुं** वहनं विवाहम् । एधिवह्योश्चतुः' (उ.सू. १.७९) इति वहेश्चतुप्रत्ययः । तं **कृणोति** करोति । **इति**  एतेन हेतुना **इदं** विश्वं सर्वं **भुवनं** भूतजातं **समेति** तं विवाहं समागमत् । **पर्युह्यमाना** विवस्वतोद्वोढव्या **यमस्य** यम्याश्च **माता** **महः** महतः **विवस्वतः** जाया भार्या सरण्यूः **ननाश** । उत्तरान् कुरून् प्रति नष्टा । अगच्छदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ popular
 Deity **Saraṇyū**: The legend:Saraṇyū, the daughter of Tvaṣṭā, was given in marriage to Vivasvat, and had by him Yama and **Yamī**.Intimidated by his ardour, she substituted another feminine le, her shadow, **Chāyā**, for herself, and going toUttarakuru, changed herself to a mare. Vivasvat begot **Manu** by Chāyā, when, finding his error, he set off tolook for his wife. Discovering her disguise, he transformed himself to a horse, and had by his wife the twoAśvins
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Tvaṣṭar is arranging a wedding for his daughter”: (on hearing) thus, all  this world comes together.  
 The mother of Yama, the wife of great Vivasvant, while being conveyed  around (on her wedding journey), went missing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 TVASTAR prepares the bridal of his Daughter: all the world hears the tidings and assembles.  
      But Yama's Mother, Spouse of great Vivasvan, vanished as she was carried to her dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tvastri richtet seiner Tochter die Hochzeit aus", auf solche Kunde kommt diese ganze Welt zusammen. Die Mutter des Yama, die heimgeführte Ehefrau des großen Vivasvat, verschwand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Tvaschtar richtet seiner Tochter die Hochzeit aus, dazu versammelt sich diese ganze Welt; des Jama Mutter als Gattin dem grossen Vivasvat vermählt, hat sich davon gemacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тваштар устраивает свадьбу для дочери, –  
 И вот сюда собирается весь свет.  

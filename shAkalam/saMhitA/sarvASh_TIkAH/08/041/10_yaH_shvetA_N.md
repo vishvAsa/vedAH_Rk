@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ श्वेताँ꣡ अ꣡धिनिर्णिजश्  
 चक्रे꣡ कृष्णाँ꣡ अ꣡नु व्रता꣡  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 सः । धाम॑ । पू॒र्व्यम् । म॒मे॒ । यः । स्क॒म्भेन॑ । वि । रोद॑सी॒ इति॑ । अ॒जः । न । द्याम् । अधा॑रयत् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -148,7 +148,7 @@ genre M;; repeated line
 **यः** वरुणः **निर्णिजः** आत्मीयान् रश्मीन् दिवा **श्वेतान्** **अधि** **चक्रे** अधिकरोति तथा रात्रौ **कृष्णान्** चक्रे **सः** वरुणः **अनु** **व्रता** कर्माणि लक्षीकृत्योभयविधकर्मानुगुणं पूर्व्यं **धाम** अन्तरिक्षं दिवं वा **ममे** निर्ममे । अपि च **यः** स्कम्भेन अन्तरिक्षेण **अजो** **न** यथा आदित्यः **द्यां** धारयति तथा **रोदसी** द्यावापृथिव्यौ **वि** **अधारयत्** विधारयति स वरुण इत्यर्थः । सिद्धमन्यत् ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,30 +159,30 @@ genre M;; repeated line
 Emits his bright rays: as presiding over day and night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who made the bright (days) and black (nights) becloaked following his  commandments, he measured out the primordial domain—  
 he who with his prop held apart the two world-halves, as Aja (Ekapad)  held up heaven.  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, after his decree, o'erspread the Dark Ones with a robe of light;  
      Who measured out the ancient seat, who pillared both the worlds apart as the Unborn supported heaven. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die weißen, die schwarzen Farben nach seinen Gesetzen zum Mantel sich gemacht hat, er hat die erste Schöpfung ausgemessen; der mit einem Pfeiler die beiden Welten auseinander hält und wie der Ungeborene den Himmel festigte. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der nach der Ordnung weisse schuf, umhüllte und die schwarzen auch; Er mass die erste Stätte aus, durch Stützen schied die Welten er, als Urgott hielt den Himmel er. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто сделал себе светлые наряды  
 Черными – по (своим) заветам,  

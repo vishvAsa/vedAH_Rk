@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् उ श्रे꣡ष्ठः किं꣡ य꣡विष्ठो न आ꣡जगन्  
 कि꣡म् ईयते दूति꣡यं क꣡द् य꣡द् ऊचिम꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने भ्रातर् द्रु꣡ण इ꣡द् भूति꣡म् ऊदिम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 न । नि॒न्दि॒म॒ । च॒म॒सम् । यः । म॒हा॒ऽकु॒लः । अ॒ग्ने॒ । भ्रा॒तः॒ । द्रुणः॑ । इत् । भू॒तिम् । ऊ॒दि॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -152,7 +152,7 @@ popular
 ऋभवो नाम सुधन्वनस्त्रयः पुत्रा ऋभुर्विभ्वा वाज इति । ते च मनुष्याः सन्तः सुकर्मणा देवत्वं प्राप्य कदाचित् कर्मकाले सोमपानाय प्रवृत्ताः । तान् प्रति देवैः प्रेरितोऽग्निः परस्परसमानरूपान् दृष्ट्वा स्वयमपि तदाकारं धृत्वा तेषु मध्ये स्वयं चतुर्थः सन् पातुं प्रवृत्तः । ते च ऋभवः आगतं तं समानरूपमवलोक्य विवेक्तुमसमर्थाः पदस्परमेवं संदिहते । अयं **किमु** **श्रेष्ठः** किं नु खलु अस्मत्तोऽयं प्रशस्यतमो वयसा श्रेष्ठः सोऽस्मान् **आजगन्** आगमत् प्राप्तः ॥ गमेर्लङि छान्दसः शपः श्लुः । हल्ङ्यादिलोपे ' मो नो धातोः' इति नत्वम् । अजगन्निति गतिकर्मा, अगन् अजगन्' (नि. २. १४.११२) इति तन्नामसु पाठात् ॥ **किं** **यविष्ठः** किं वा अस्माकं युवतमोऽस्मत्तः कनीयान् आजगन् प्राप्तः । **किं** वा **दूत्यं** दूतकर्म देवसंबन्धि **ईयते** गच्छति । देवैः प्रेरितः दूतोऽस्मानागतो वा ॥  ‘ दूतस्य भागकर्मणी ' इति यत् ॥ **यदूचिम** यदेतत् ब्रूमः तत् **कत्** । कथं निश्चेतव्यमित्यर्थः । वयं तावत् त्रय एव इदानीं चत्वारः समानरूपा वर्तामहे तस्मादयमधिकः किमु श्रेष्ठ इति विचिकित्सा । एवं संदिह्य कथंचित् स्वतोऽन्यं निश्चित्य तं प्रति आपरोक्ष्येण ब्रुवते । हे **अग्ने** **भ्रातः** भ्रातृवद्भागार्ह । भ्राता यथा बलात् स्वकीयभागं स्वीकरोति तद्वत् समानरूपमाश्रित्य बलात् चमसपानाय प्रवृत्त इति भ्रातरित्युक्तम् । हे तादृशाग्ने **चमसं** **न** **निन्दिम** । अधिकः समागत इति पानमकृत्वा चमसं न दूषयामः ॥  ‘ णिदि कुत्सायाम् । 'छन्दसि वेति वक्तव्यम्' इति द्विर्वचनाभावः ॥ अदूष्यत्वे कारणमाह । **यः** चमसः महाकुलः महाकुलोत्पन्नः त्वष्ट्रा निर्मितत्वात् । वक्ष्यति च त्वष्टा ग्नास्वन्तर्न्यानजे ' ( ऋ. सं १. १६१. ४ ) इति । अतः कारणात् **द्रुणः** । विकारे प्रकृतिशब्दः । ततश्च तत्स्थे तच्छब्दः । इच्छब्दोऽवधारणे । दारुविकारचमसस्य **भूतिं** प्राप्तिम् **ऊदिम** ब्रूमः ॥ विदेश्छान्दसे लिटि वचिस्वपि ' इति संप्रसारणम् । क्रादिनियमात् इट् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -163,30 +163,30 @@ popular
 The legend: the three **Ṛbhus** were engaged in a sacrifice and about to drink the **Soma**; the gods sent Agni to see what they were doing. Agni noticed that they resembled each other; Agni assumed a like form. The hymn refers to this form, calling himbrother, and questionign his comparative age. The next hymn states the purpose of Agni's visit is to order the conversion of one spoon or ladle, **camasa**, used for drinking Soma, or for libations, into four spoons
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [The R̥bhus:] “Why has the best, why has the youngest one come here  to us? For what messenger’s duty does he speed? What is it that we  
 have said?  
 We have not insulted the cup with its great hollow. Brother Agni, we have  spoken only of the excellence of the wooden (vessel).”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHY hath the Best, why hath the Youngest come to us? Upon what embassy comes he? What have we said?  
      We have not blamed the chalice of illustrious birth. We, Brother Agni, praised the goodness of the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ist der Erste, ist der Jüngste zu uns gekommen? Welche Botschaft bringt er? Was war es, das wir gesagt haben? Wir haben den Becher nicht getadelt, der von guter Herkunft ist. Nur von der Entstehung des Holzes haben wir gesprochen, Bruder Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ist uns der jüngste, ist der älteste gemacht? und welche Botschaft bringt er? und was sagten wir? Nicht schalten wir den Becher, er ist gut von Art; des Holzes Güte, Bruder Agni, rühmten wir.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зачем же пожаловал самый красивый, зачем самый юный?  
 С каким идет поручением? Что мы такого сказали,  

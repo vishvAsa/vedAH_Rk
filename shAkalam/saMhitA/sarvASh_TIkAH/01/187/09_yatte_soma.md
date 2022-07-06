@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् ते सोम ग꣡वाशिरो  
 य꣡वाशिरो भ꣡जामहे  
 वा꣡तापे पी꣡व इ꣡द् भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 वाता॑पे । पीवः॑ । इत् । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M;; repeated line
 पूर्वम् अन्नसामान्येन स्तुत्वा इदानीं सोमलक्षणमन्नं स्तौति । हे **सोम** **ते** तव **यत्** यम् अंशं **गवाशिरः** गोविकारक्षीराद्याश्रयणद्रव्यं **यवाशिरः** यवविकाराश्रयणद्रव्यं **भजामहे** सेवामहे तेन हे **वातापे** शरीर **पीवः** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,28 +108,28 @@ genre M;; repeated line
 Soma: The object addressed is now not food in genitive ral, but a modified form of the Soma; your mixture with boiled milk or boiled barley: gavāśiro yavāśiro = preparations of milk and barley, boiled; govikāra kṣīrādyāśrayaṇa dravyam and yavavikārāśryaṇa dravyam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When we take a share of you when mixed with milk or mixed with  grain, o Soma,  
 o you friend of the winds—become just the fat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What Soma, we enjoy from thee in milky food or barley-brew, Vatapi, grow thou fat thereby.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn wir, o Soma, von dir, dem milchgemischten, gerstegemischten, genießen, so werde uns, du Freund des Vata, zu Speck!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, Soma, wir dein Milchgemisch geniessen und dein Korngebräu, Dann werde fett, o, schwellender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если, о Сома, мы попробуем тебя,  
 Смешанного с молоком, смешанного с ячменем,  

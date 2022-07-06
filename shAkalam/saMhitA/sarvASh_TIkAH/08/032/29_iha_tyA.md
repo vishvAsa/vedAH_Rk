@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्या꣡ सधमा꣡दिया  
 ह꣡री हि꣡रण्यकेशिया  
 वोळ्हा꣡म् अभि꣡ प्र꣡यो हित꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वो॒ळ्हाम् । अ॒भि । प्रयः॑ । हि॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -81,36 +81,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **इह** यज्ञे **त्या** तौ प्रसिद्धौ **सधमाद्या** सह माद्यन्तौ **हिरण्यकेश्या** हिरण्यकेश्यौ **हरी** अश्वौ **हितं** हितकरं **प्रयः** सोमरूपमन्नम् **अभि** अभिलक्ष्य **वोळ्हाम्** इन्द्रं वहताम् । प्रापयतामिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those two golden-maned steeds, together exulting, bring him here to the salutary (sacrificial) food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hither let these two feasting companions, the pair of fallow bays with  golden manes,  
 convey (you) to the pleasure set out (for you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither let these thy Bays who share thy banquet, Steeds with golden manes,  
      Convey thee to the feast prepared.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hierher sollen dich deine beiden Kumpane, die goldmähnigen Falben fahren zum bereiteten Opferschmaus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn fahre seiner Füchse Paar, die Tischgenossen, goldbehaart, Zum vorgesetzten Opfermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сюда двое твоих сотрапезников –  
 Буланых коней с золотыми гривами  

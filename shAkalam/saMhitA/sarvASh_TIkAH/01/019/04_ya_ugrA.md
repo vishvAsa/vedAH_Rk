@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उग्रा꣡ अर्क꣡म् आनृचु꣡र्  
 अ꣡नाधृष्टास ओ꣡जसा  
 मरु꣡द्भिर् अग्न आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 म॒रुत्ऽभिः॑ । अ॒ग्ने॒ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ये** मरुतः **उग्राः** तीव्राः सन्तः **अर्कम्** उदकम् **आनृचुः** अर्चितवन्तः वर्षणेन संपादितवन्त इत्यर्थः । तैः मरुद्भिः इत्यन्वयः । कीदृशा मरुतः । **ओजसा** बलेन **अनाधृष्टासः** अतिरस्कृताः सर्वेभ्योऽपि प्रबला इत्यर्थः । अर्कशब्दस्योदकवाचित्वं वाजसनेयिन आमनन्ति- ‘ आपो वा अर्कः ' (श. ब्रा. १०. ६. ५. २) इति । तन्निर्वचनं च त एवामनन्ति- सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वम् ' ( श. ब्रा. १०, ६. ५. १ ) इति । स जगत् सृष्ट्वा हिरण्यगर्भं उदकं स्रष्टुमुद्युक्तोऽर्चन् सत्यसंकल्पसहिमप्रख्यापनेन स्वात्मानं पूजयन्नचरत् । तथा पूजयतो हिरण्यगर्भस्य सकाशादुदकमुत्पन्नम् । तदानीमर्चतो मत्तः कमभूदित्यवोचत् । तेनोदकस्य अर्कनाम निष्पन्नमित्यर्थः ॥ आनृचुः । अर्चतेः  ‘ अपस्पृधेथाम् ' ( पा. सू. ६. १. ३६ ) इत्यादिना निपातितः । प्रत्ययस्वरः । यद्वृत्तयोगात् न निघातः । अनाधृष्टासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । ओजसा ॥' उब्जेर्बलोपश्च'( उ. सू. ४. ६३१ ) इति असुन् । नित्त्वादाद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,34 +96,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 So arcannacarat tasyārcataḥ āpo ajāyanta: **Hiraṇyagarbha** proceeded, worshipping, (after creating the solid earth), and from him worshipping the waters were produced (**Śatapatha** **Brāhmaṇa** 10.6.5.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who chanted the chant, the strong ones, unassailable through their  strength—  
 with the Maruts, o Agni, come hither.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the double etymological figures arkám ānr̥cúḥ ‘chanted the chant’ and ugrā́ḥ ... ójasā ‘strong ones … through strength’, with the former nested inside the latter. There is also phonological play between ...ám ānr-̥ and ánādhr-̥
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The terrible, who sing their song, not to be overcome by might:  
      O Agni, with those Maruts come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die gewaltigen, die den Schlachtgesang sangen, an Stärke unbezwinglich, mit den Marut komm, o Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken, die des Donners Sang anstimmen, kräftig, unbesiegt – Mit diesen Maruts, Agni, komm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) грозные, что запели песнь,  
 К кому не подступиться с силой, –  

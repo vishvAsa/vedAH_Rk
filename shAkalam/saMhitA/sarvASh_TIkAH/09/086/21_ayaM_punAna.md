@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् पुनान꣡ उष꣡सो वि꣡ रोचयद्  
 अयं꣡ सि꣡न्धुभ्यो अभवद् उलोककृ꣡त्†  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡मो हृदे꣡ पवते चा꣡रु मत्सरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒यम् । त्रिः । स॒प्त । दु॒दु॒हा॒नः । आ॒ऽशिर॑म् । सोमः॑ । हृ॒दे । प॒व॒ते॒ । चारु॑ । म॒त्स॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -130,7 +130,7 @@ genre M;; repeated line
 **अयं** सोमः **पुनानः** पूयमानः **उषसो** **वि** **रोचयत्** विविधं रोचयति । **अयं** **सिन्धुभ्यः** स्यन्दमानाभ्योऽद्भ्यो वसतीवरीभ्यः **अभवत्** समृद्धो भवति । **उ** इति पूरणः । कीदृशोऽयम् । **लोककृत्** लोकानां कर्ता । वर्षकत्वात् रेतोधारकत्वाच्चास्य लोककृत्त्वम् । **अयं** **सोमः** **त्रिः** **सप्त** एकविंशतिं गा ऋत्विङ्मुखेन **आशिरं** **दुदुहानः** दुहानः । दोहस्य प्रयोजकत्वात् कर्त्रुपचारः। **मत्सरः** मदकरः **चारु** रमणीयं **पवते** क्षरति । किमर्थम् । **हृदे** हृदयाय हृदयगमनाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M;; repeated line
 Is prosperous: abhavat = samṛddho **bhavati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one here, being purified, has made the dawns shine widely; this one  has become the maker of wide space for the rivers.  
 This one, having milked thrice seven (cows) for his own milk-mixture— the exhilarating Soma purifies himself in a way dear to the heart.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first three pādas of this vs. begin ayám ‘this one here’.
 
@@ -163,23 +163,23 @@ No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, being purified, hath made the Mornings shine: this, even this is he who gave the rivers room.  
      He made the Three Times Seven pour out the milky flow: Soma, the Cheerer, yields whate'er the heart finds sweet.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser ließ sich läuternd die Morgenröten aufleuchten; dieser war es, der an den Strömen freie Bahn schaffte. Dieser hat aus dreimal Sieben die Milch gemolken. Der berauschende Soma klärt sich, dem Herzen zusagend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt hat die Morgenröthen er erhellt, er war es, der den Strömen freie Bahnen schuf, Der aus den dreimal sieben Kühen Milchtrank sog, dem Herzen lieb, berauschend rieselt Soma hell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

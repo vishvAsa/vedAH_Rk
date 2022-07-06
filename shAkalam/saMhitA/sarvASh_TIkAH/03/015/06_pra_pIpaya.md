@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ पीपय वृषभ जि꣡न्व वा꣡जान्  
 अ꣡ग्ने तुवं꣡ रो꣡दसी नः सुदो꣡घे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नो म꣡र्तस्य दुर्मतिः꣡ प꣡रि ष्ठात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दे॒वेभिः॑ । दे॒व॒ । सु॒ऽरुचा॑ । रु॒चा॒नः । मा । नः॒ । मर्त॑स्य । दुः॒ऽम॒तिः । परि॑ । स्था॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -134,41 +134,41 @@ genre M
 **वृषभ** कामानां वर्षितर्हे **अग्ने** **त्वं** 'नः अस्माकं **प्र** **पीपय** अभिलषितफलानि वर्धय। **वाजान्** अन्नानि च **जिन्व** प्रयच्छ । किंच **देव** दीप्यमान हे अग्ने **सुरुचा** शोभनदीप्त्या **रुचानः** शोभमानस्त्वं **देवेभिः** यजनीयदेवैः सहितोऽस्माकं **रोदसी** इमे द्यावापृथिव्यौ **सुदोघे** वृष्टिद्वाराभिमतफलप्रदानेन सुष्ठु दोग्ध्र्यौ कुरु। तथा **मर्तस्य** शत्रोः दुर्मतिः दुष्टबुद्धिप्रयुक्तोऽभिभवः **नः** अस्मान् **मा** **परि** **ष्ठात्** परितो मा गच्छतु ॥ पीपय । ‘ पा पाने' इत्येतस्य ण्यन्तस्य लुङि चङि द्विर्वचनाभ्यासदीर्घौ । सिपो लोपश्छान्दसः । जिन्व। 'इवि जिवि धिवि प्रीणनार्थाः । एतस्य लोटि इदित्त्वान्नुम् । शप् । अतो हे: इति हेर्लुक् । आमन्त्रितस्याविद्यमानवत्त्वेन अतिङ उत्तरत्वाभावात् न निघातः । सुदोघे। दोहनं दोघः। भावे घञ् । कुत्वं छान्दसम् । ' आद्युदात्तं द्व्यच् छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । दुर्मतिः । ‘मनु अवबोधने' । मन्यते इति मतिर्बुद्धिः । कर्तरि क्तिच् । दुष्टा बुद्धिः । अव्ययपूर्वपदप्रकृतिस्वरत्वे प्राप्ते कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be propitious, showerer (of benefits); grant (abundant) food, **Agni**; (make) heaven and earth yield us milk; divine (Agni), associated with the gods, shining with bright radiance, let not the ill-will of any mortal prevail against us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O bull, swell and quicken for us victory’s prizes and the milk-yielding  world-halves, o Agni,  
 since you are aflame with good flame, o god with the gods. Let not a  mortal’s evil intent hem us in.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Swell, O thou Bull and give those powers an impulse, e'en Earth and Heaven who yield their milk in plenty,  
      Shining, O God, with Gods in clear effulgence. Let not a mortal's evil will obstruct us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O bull, increase and rouse our gains. Agni! (Increase) for us the two worlds (Heaven and Earth) rich in milk, O god together with the gods, shining with beautiful shine! May a mortal's hatred never enclose us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß uns Anschwellen, stärke, du Bulle, die Belohnungen; o Agni, laß du für uns die beiden Rodasi wie gute Milchkühe anschwellen. Komm, o Gott, mit den Göttern in schönem Glanze strahlend! Nicht soll uns die böse Absicht eines sterblichen im Wege stehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass schwellen, Held, und fördern uns die Schätze, und Agni du die gabenreichen Welten; Mit hellem Glanze glänze mit den Göttern, nicht soll der Menschen Arglist uns umstricken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О бык, сделай набухшими награды, вызови (их) к жизни!  
 О Агни, (сделай) ты для нас обе половины вселенной хорошо доящимися!  

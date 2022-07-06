@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡जिष्ठं त्वा ववृमहे  
 देवं꣡ देवत्रा꣡ हो꣡तारम् अ꣡मर्तियम्  
 अस्य꣡ यज्ञ꣡स्य सुक्र꣡तुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 अ॒स्य । य॒ज्ञस्य॑ । सु॒ऽक्रतु॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajiṣṭhaṃ* ← *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; repeated line
 हे अग्ने **यजिष्ठं** यष्टृतमं **त्वा** **ववृमहे** वृणीमहे संभजामहे । कीदृशं त्वाम् । **देवत्रा** देवेषु मध्ये **देवम्** अतिशयेन दानादिगुणयुक्तं **होतारं** देवानामाह्वातारम् **अमर्त्यम्** अविनाशम् **अस्य** **यज्ञस्य** यागस्य **सुक्रतुं** सुष्ठु कर्तारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M;; repeated line
 "We adore you, the most adorable, the deity among deities, the invokeṛ."
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have chosen you, the best sacrificer, a god, an immortal, as Hotar  among the gods—  
 (you,) very effective for this sacrifice,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On metrically bad vavṛmahe, see comm. ad Kümmel (459) and comm. ad VI.4.7.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thee have we chosen skilftillest in sacrifice, Immortal Priest among the Gods,  
      Wise finisher of this holy rite:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich den Bestopfernden, den unsterblichen Gott haben wir zum Hotri für die Götter erwählt, den guten Berater dieses Opfers;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als besten Opfrer wählten wir den ew'gen Gott, den Priester unter Göttern dich, Der du das Opfer schön vollbringst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выбрали тебя, лучшего жертвователя,  
 Как божественного хотара среди богов, бессмертного,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ रध्र꣡स्य चोदिता꣡ यः꣡ कृश꣡स्य  
 यो꣡ ब्रह्म꣡णो ना꣡धमानस्य कीरेः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुत꣡सोमस्य स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒क्तऽग्रा॑व्णः । यः । अ॒वि॒ता । सु॒ऽशि॒प्रः । सु॒तऽसो॑मस्य । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -129,41 +129,41 @@ genre M
 यःरध्रस्य रधहिंसासंराध्योः समृद्धस्यचोदिताधनानां प्रेरयिताभवति यश्चकृश्स्यचदरिद्रस्यच यश्चनाधमानस्य नाथृनाधृयाच्ञोपतापैश्वर्याशीःषु याचमानस्यकीरेः करोतेःकीर्तयतेर्वी स्तोतुः ब्रह्म- णोब्राह्मणस्यच धनानाम्प्रेरयिता यश्चसुशिपःशोभनहनुः सुशीर्षकोवासन् युक्तग्राव्णः अभिषवार्थमु- द्यतग्राव्णः सुतसोमस्याभिषुतसोमस्ययजमानस्याविता रक्षिताभवति सएवेन्द्रोनाहमिति ब्रह्मशब्द- स्यत्वन्नपरत्वेह्याद्युदात्ततास्यात् तथाब्रह्मवन्वानोअजरंसुवीरमिति । अयन्त्वन्तोदात्तःपठ्यतइतिना- न्नपरः ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, who is the encourager of the rich, and of the poor, and of the priest, who recites his praise, and is a suppliant; who, of goodly features, is the protector of him, who, with ready stones, expresses the **Soma** juice; he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is the invigorator of the enfeebled, who of the starving, who of the  formulator of hymns, of the weak one needing help,  
 who with fair lips is the helper of the one who has yoked the pressing  stones, of him with soma pressed – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stirrer to action of the poor and lowly, of priest, of suppliant who sings his praises;  
      Who, fair-faced, favours him who presses Soma with stones made ready, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 He furthers worshippers, both rich and needy, And priests that supplicate his aid and praise him. Who, fair-lipped, helps the man that presses Soma, That sets the stones at work: he, men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der dem Schwachen, der dem Kranken, der dem notleidenden armen Priester Mut macht, der dem beisteht, der die Preßsteine in Gebrauch nimmt und Soma keltert, mit der schönen Trinkerlippe - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Matten Kräft'ger und des Armen Beistand des Beters Helfer und des flehnden Sängers, Dess, der den Pressstein schirrt, den Soma keltert, der Trinkermund, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вдохновляет измученного, кто – больного,  
 Кто нуждающегося бедного брахмана,  

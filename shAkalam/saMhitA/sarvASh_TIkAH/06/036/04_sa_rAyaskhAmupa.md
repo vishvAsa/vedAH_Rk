@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ राय꣡स् खा꣡म् उ꣡प सृजा गृणानः꣡  
 पुरुश्चन्द्र꣡स्य तुव꣡म् इन्द्र व꣡स्वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡को वि꣡श्वस्य भु꣡वनस्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 पतिः॑ । ब॒भू॒थ॒ । अस॑मः । जना॑नाम् । एकः॑ । विश्व॑स्य । भुव॑नस्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ genre M;; repeated line
 हे **इन्द्र** **गृणानः** स्तूयमानः **सः** **त्वं** **रायः** धनस्य **खाम्** । नदीनामैतत् । अत्र तत्संबद्धा धारा लक्ष्यते । धाराम् **उप** **सृज** विमुञ्च । अस्माभिः संयोजयेत्यर्थः । कीदृशस्य धनस्य । **पुरुश्चन्द्रस्य** बहूनामाह्लादकस्य **वस्वः** निवासकस्य । अपि च **असमः** अनुपम: सर्वोत्कृष्टस्त्वं **जनानां** सर्वेषां प्राणिनां **पतिः** अधिपतिः **बभूथ** । तथा **विश्वस्य** सर्वस्य **भुवनस्य** भूतजातस्य **एकः** असाधारणो **राजा** ईश्वरश्व बभूविथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorified by us, **Indra**, let flow the stream of much delighting, home-conferring affluence, for you are the unequalled lord of men, the sole sovereign of all the world.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As you are sung, let loose the wellspring of wealth, Indra, and of  much-glittering goods.  
 You have become the unequalled lord of peoples, you alone the king of  all creation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lauded by us, let flow the spring, O Indra, of excellent and brightly-shining riches.  
      For thou art Lord of men, without an equal: of all the world thou art the only Sovran.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß du, gepriesen, den Quell des Reichtums springen, du Indra, des goldreichen Gutes! Du wardst der unvergleichliche Gebieter der Völker, der einzige König der ganzen Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Reichthums Quell, gepriesner, lasse strömen, o Indra, und des glanzerfüllten Gutes; Du bist der Menschen Herrscher ohne Gleichen, des ganzen Weltalls einziger Gebieter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Излей ты колодец с богатством, когда тебя воспевают,  
 (Колодец) сильносверкающего добра, о Индра!  

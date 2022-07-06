@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अग्ने वीर꣡वद् य꣡शो  
 देव꣡श् च सविता꣡ भ꣡गः  
 दि꣡तिश् च दाति वा꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दितिः॑ । च॒ । दा॒ति॒ । वार्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -94,36 +94,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **त्वं** **वीरवत्** पुत्रपौत्रोपेतं **यशः** अन्नं देहीति शेषः । **देवश्च** **सविता** सविता देवोऽपि **वार्यं** वरणीयं धनं **दाति** ददातु । **भगः** च देवोऽपि ददातु । **दितिश्च** दितिरपि देवी ददातु। सवित्रादिः सूक्ते निपातभागिनी देवता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Agni**, give us food along with **male** issue, and may the divine **Savitā**, **Bhaga** and **Diti**, give uswealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, you (give) the glory that accompanies heroes. And god Savitar  and Bhaga (give),  
 and Diti gives a desirable reward to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, givest hero fame: Bhaga and Savitar the God,  
      And Did give us what is good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, gibst das Ansehen, das der Sohnreiche hat, und der Gott Savitri, Bhaga und Diti geben die erwünschte Gabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib, Agni, kinderreichen Glanz, und Bhaga und Gott Savitar, Und Diti schenke schönes Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, (даруешь) почесть, заключенную в мужах,  
 А бог Савитар, Бхага  

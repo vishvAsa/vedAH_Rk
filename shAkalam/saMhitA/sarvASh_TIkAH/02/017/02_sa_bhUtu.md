@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ भूतु यो꣡ ह प्रथमा꣡य धा꣡यस  
 ओ꣡जो मि꣡मानो महिमा꣡नम् आ꣡तिरत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शीर्ष꣡णि द्या꣡म् महिना꣡ प्र꣡त्य् अमुञ्चत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शूरः॑ । यः । यु॒त्ऽसु । त॒न्व॑म् । प॒रि॒ऽव्यत॑ । शी॒र्षणि॑ । द्याम् । म॒हि॒ना । प्रति॑ । अ॒मु॒ञ्च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -130,20 +130,20 @@ genre M
 सइन्द्रोभूतुभवतु वर्धतामित्यर्थः यइन्द्रः ओजस्तेजोबलम्मिमानः कुर्वाणःसन् प्रथमाय प्राथमिका- यधायसे धेट्पाने सोमपानायमहिमानमातिरत् अवर्धयत् तिरतेर्व्यत्ययेनशः यद्योगादनिघातः शूरः शत्रूणांशातयितायइन्द्रः युत्सुपुद्धेपुतन्वं स्वकीयंशरीरम्परिव्यत वर्मणापरिवीतमकरोत् सइन्द्रोमहि- नास्वकीयेनमहिम्नाशीर्षणिस्वशिरसिद्याम्प्रत्यमुञ्चत अधारयत् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that (**Indra**) be (excited), who, manifesting his energy, exerted his might for the first drinking of the **Soma**; a hero, who in combats protected his own person n and by his greatness sustained the heaven upon his head.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let him (once again) become the one who, showing the measure of his  power, crossed beyond greatness to obtain the first nurture.  
 The champion, who girded his body in battles, fastened heaven in its  greatness on his head.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is reminiscent of the more explicit I.173.6 sáṃ vivya índro vṛjánaṃ ná bhū́mā, bharti svadhā́vām̐opaśám iva dyā́m “Indra has enwraped himself in the earth, like a circlet. The autonomous one wears heaven like a headdress” and seems to refer to Indra’s “suiting up” in cosmic garb.
 
@@ -152,23 +152,23 @@ This vs. is reminiscent of the more explicit I.173.6 sáṃ vivya índro vṛjá
 ---
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let him be even that God who, for the earliest draught measuring out his power, increased his majesty;  
      Hero who fortified his body in the wars, and through his greatness set the heaven upon his head.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er soll derselbe sein, der um die erste Größe zu behaupten, seine Kraft erprobend die volle Größe erreichte. Der Held, der in den Kämpfen seinen Leib umgürtete, er setzte den Himmel mit Macht sich aufs Haupt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er zeige sich als der, der schon zum ersten Trunk sich stark erweisend, seine Grösse steigerte, Der Held, umpanzernd in den Schlachten seinen Leib, kraft seiner Grösse setzt den Himmel sich aufs Haupt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет он тем самым, кто ради установления первенства,  
 Меряя (свою) силу, превзошел величие,  

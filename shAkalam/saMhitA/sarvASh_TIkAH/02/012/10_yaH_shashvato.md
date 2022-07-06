@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ श꣡श्वतो म꣡हि ए꣡नो द꣡धानान्  
 अ꣡मन्यमानाञ् छ꣡रुवा जघा꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ द꣡स्योर् हन्ता꣡ स꣡ जनास इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । शर्ध॑ते । न । अ॒नु॒ऽददा॑ति । शृ॒ध्याम् । यः । दस्योः॑ । ह॒न्ता । सः । ज॒ना॒सः॒ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -129,21 +129,21 @@ genre M
 यः महिमहत् एनः पापन्दधानान् शश्वतोबहून् अमन्यमानान् आत्मानमजानतः इन्द्रमपूजयतो- वाजनान् शर्वा श्रृणातिशत्रूननेनेतिशरुर्वज्रः तेनायुधेनजघान हन्तेर्लिटिरूपं यश्चशर्धतेउत्साहङ्कुरुते अनात्मज्ञायजनायश्रृध्यां उत्साहनीयङ्कर्मनानुददाति नप्रयच्छति अनुपूर्वात् हृदाञ् दाने जौहोत्या- दिकः अभ्यस्तानामादिरितितिङि चोदात्तवतीतिगतेर्निघातः यश्चदस्योरुपक्षपयितुःशत्रोर्हन्ताघा- तकः सइन्द्रइत्यादिपूर्ववत् ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, who with the thunderbolt has destroyed many committing great sin, and offering (him) no homage; who grants not success to the confident; who is the slayer of the **Dasyus**; he, men, is **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has struck with his arrow those constantly creating for themselves  great guilt, the unthinking ones,  
 who does not concede arrogance to the arrogant man, who is the  
 smasher of the Dasyu – he, o peoples, is Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax śṛdhyā́m is generally taken as the acc. sg. of a stem śṛdhyā́-, and this is perfectly plausible both morphologically and contextually. However, it might rather be taken as the loc. sg. of a devī́-type -ī-stem śṛdhī́- “does not yield to the vaunter in his vaunting.” This makes somewhat more sense.
 
@@ -158,28 +158,28 @@ Note the phonological sequence, with several different interlocking repetitions:
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath smitten, ere they knew their danger, with his hurled weapon many grievous sinners;  
      Who pardons not his boldness who provokes him, who slays the Dasyti, He, O men, is Indra.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who with his arrow slays the unexpecting Unnumbered crew of gravely guilty sinners; Who yields not to the boasting foe in boldness, Who slays the demons: he, O men, is Indra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der alle, die großen Frevel begehen, mit seinen Geschossen erschlagen hat, ehe sie sich dessen versehen, der dem Vermessenen seine Vermessenheit nicht vergibt, der den Dasyu erschlägt - der, ihr Leute, ist Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alle, die da grossen Frevel üben, eh sie's vermuthen, mit dem Pfeile tödtet, Dem Trotzenden nicht nachgibt, selber trotzend, des Feinds Verderb, das ist, o Menschen, Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто каждого, совершающего великий грех,  
 Поразил копьем – не успел тот (это) осознать,  

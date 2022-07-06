@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् अकर्म न꣡मो अभ्रिया꣡य  
 यः꣡ पूर्वी꣡र् · अ꣡नु आनो꣡नवीति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ वीरे꣡भिः स꣡ नृ꣡भिर् नो व꣡यो धात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पतिः॑ । सः । हि । गोभिः॑ । सः । अश्वः॑ । सः । वी॒रेभिः॑ । सः । नृऽभिः॑ । नः॒ । वयः॑ । धा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], accusative, singular, neuter
@@ -147,37 +147,37 @@ genre M
 **अभ्रियाय** अभ्रेषु भवायान्तरिक्षाय मध्यमाय बृहस्पतये **इदम्** उक्तं **नमः** स्तोत्रम् **अकर्म** वयमकार्ष्म। **यः** बृहस्पतिः **पूर्वीः** बह्वीर्ऋचः **अनु** अनुक्रमेण **आनोनवीति** अत्यर्थमाभिमुख्येन ब्रवीति **सः** **बृहस्पतिः** एव **गोभिः** **अश्वैः** च युक्तं **वीरेभिः** पुत्रैः **नृभिः** भृत्यादिभिश्च सहितं **वयः** अन्नं **नः** अस्मभ्यं स्तोतृभ्यः **धात्** दधातु प्रयच्छतु । तच्छब्दावृतिः आदरार्था  ॥ ॥ १८ ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We have offered this homage to **Bṛhaspati**, who lives in mid-heaven, who recites in order many(sacred stanzas); may he bestow upon us food, with cows, with horses, with son, with dependants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This act of reverence here we have performed for the one belonging to  the storm cloud, who keeps bellowing after the many (cows?):  
 Br̥haspati—for he shall confer vigor on us with cows, with horses, with  heroes, with superior men.  
 Sumitra Vādhryaśva is said to be the composer of the next two hymns (69–70), one  to Agni, one an Āprī hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This homage have we.offered to the Cloud God who thunders out to many in succession.  
      May this Brhaspati vouchsafe us fulness of life with kine and horses, men, and heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Verbeugung haben wir dem wetterwolkengleichen Brihaspati gemacht, der in vielen Stimmen dem Donner nachbrüllt. So möge uns denn Brihaspati durch Kühe, Rosse, er durch Söhne und Mannen Kraft verleihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir haben dies Gebet dem Wolkensohne gemacht, der vielen Kühen brüllend zujauchzt, Brihaspati verleihe uns durch Rinder, durch Rosse, Männer, Helden, Jugendstärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы создали это поклонение для бога, связанного с тучей,  
 Который громким эхом отдается на многие (голоса).  

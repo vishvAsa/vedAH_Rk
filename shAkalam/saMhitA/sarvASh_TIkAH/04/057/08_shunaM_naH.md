@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुनं꣡ नः फा꣡ला वि꣡ कृषन्तु भू꣡मिं  
 शुनं꣡ कीना꣡शा अभि꣡ यन्तु वाहइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शु꣡नासीरा शुन꣡म् अस्मा꣡सु धत्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 शु॒नम् । प॒र्जन्यः॑ । मधु॑ना । पयः॑ऽभिः । शुना॑सीरा । शु॒नम् । अ॒स्मासु॑ । ध॒त्त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
@@ -120,37 +120,37 @@ popular
 **नः** **भूमिं** **फालाः** भूमिविदारककाष्ठाः **शुनं** **वि** **कृषन्तु** । **शुनं** यथा भवति तथा **कीनाशाः** बलीवर्दरक्षकाः **वाहैः** बलीवर्दैः **अभि** **यन्तु** अभिगच्छन्तु । **शुनं** यथा भवति तथा **पर्जन्यो** **मधुना** मधुरैः **पयोभिः** उदकैः सिञ्चतु । हे **शुनासीरा** इन्द्रवायू वाय्वादित्यौ वा **शुनं** सुखम् **अस्मासु** **धत्तं** धारयतम् ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the plural ugh shares break up our land happily; may the plural ughman go happily with the oxen; may **Parjanya** (water the earth) with sweet showers happily; grant, **Śuna** and **Sīra**, prosperity to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For prosperity let our plowshares till through the earth; for prosperity let  our plowmen advance with their draft-animals.  
 Prosperity (let) Parjanya (be) with his honey and milk drinks. O  
 Prosperity and Plow, place prosperity in us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Happily let the shares turn up the ploughland, happily go the ploughers with the oxen.  
      With meath and milk Parjanya make us happy. Grant us prosperity, Suna and Sira.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glück sollen unsere Pflugscharen die Erde umpflügen, zum Glück die Pflüger mit ihren Zugtieren kommen. Glück soll Parjanya durch Honig und Milch bringen; Glück bringet uns, Suna und Sira!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Gedeihn möge die Pflugschar das Land durchpflügen, zum Gedeihen die Pflliger schreiten mit den Zugstieren; zum Gedeihen ströme die Wetterwolke mit Milch und Honig; Gedeihen gebt uns beide, o Pflug und Lenker.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На счастье наши лемехи пусть взрезают землю!  
 На счастье пусть выйдут пахари с тягловыми животными!  

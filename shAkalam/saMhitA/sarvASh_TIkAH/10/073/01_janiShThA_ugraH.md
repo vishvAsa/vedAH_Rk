@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡निष्ठा उग्रः꣡ स꣡हसे तुरा꣡य  
 मन्द्र꣡ ओ꣡जिष्ठो बहुला꣡भिमानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 माता꣡ य꣡द् वीरं꣡ दध꣡नद् ध꣡निष्ठा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अव॑र्धन् । इन्द्र॑म् । म॒रुतः॑ । चि॒त् । अत्र॑ । मा॒ता । यत् । वी॒रम् । द॒धन॑त् । धनि॑ष्ठा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *janiṣṭhā* ← *janiṣṭhāḥ* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -119,7 +119,7 @@ genre M
 हे इन्द्र **सहसे** बलाय **तुराय** शत्रूणां हिंसनाय त्वम् **उग्रः** उद्गूर्णबलः **जनिष्ठाः** अजायथाः । कीदृशस्त्वम् । **मन्द्रः** स्तुत्यः **ओजिष्ठः** । ओजः शरीरबलम्। अतिशयेन तद्वान् । **बहुलाभिमानः** भूयिष्ठाभिमानी । ईदृशं महानुभावम् **इन्द्रम्** **अत्र** वृत्रवधे **मरुतश्चित्** मरुतोऽपि **अवर्धन्** स्तुत्या साहाय्येन वा वर्धितवन्तः । **यत्** यदा **धनिष्ठा** धारयित्रीन्द्रमाता **वीरं** **दधनत्** अधारयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Mother: **Dhaniṣṭhā**, another name of **Aditi**; **Yajus**. 33.64
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You were born as the strong one for powerful might, the gladdening  strongest one with manifold designs.  
 It was just the Maruts who strengthened Indra then, when his mother,  best at pushing (in childbirth) [/running], was going to set the hero to  running.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THOU wast born mighty for victorious valour, exulting, strongest, full of pride and courage.  
      There, even there, the Maruts strengthened Indra when. his most rapid Mother stirred the Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist zu überlegener Macht geboren, der Gewaltige, Beliebte, Gewaltigste von reichlichem Selbstgefühl. Die Marut sogar stärkten dabei den Indra, als die Mutter den Helden laufen lehrte als die beste Lehrmeisterin;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du starker bist erzeugt zu raschem Siege, erfreuend, mächtig, viele Pläne hegend; die Maruts stärkten Indra, als die Mutter den Helden antrieb, ihn aufs beste fördernd.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты родился грозным для победной силы,  
 Радующим, самым мощным, очень заносчивым.  

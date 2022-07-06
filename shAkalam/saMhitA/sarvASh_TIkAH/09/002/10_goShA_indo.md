@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गोषा꣡ इन्दो नृषा꣡ असि  
 अश्वसा꣡ वाजसा꣡ उत꣡  
 आत्मा꣡ यज्ञ꣡स्य पूर्वियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आ॒त्मा । य॒ज्ञस्य॑ । पू॒र्व्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *goṣā* ← *go*
 - \[noun\], masculine
@@ -99,36 +99,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** **यज्ञस्य** **पूर्व्यः** प्रत्नः **आत्मा** आत्मभूतस्त्वं **गोषाः** अस्मभ्यं गवां दाता **असि** भवसि । **नृषाः** पुत्राणां दाता चासि । **अश्वसाः** अश्वानां दाता चासि । **उत** अपि च **वाजसाः** अन्नानां दाता चासि ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, you are the giver of kine, of children, of horses, and of food; you are the primeval **soul** of the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O drop, you are cow-winning, man-winning, horse-winning, and  prize-winning.  
 You are the ancient embodiment of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Winner of kine, Indu, art thou, winner of heroes, steeds, and strength  
      Primeval Soul of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Saft, bist der Rindergewinner, der Männergewinner, der Rossegewinner und der Lohngewinner, die erste Seele des Opfers.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indu, schenkest Rind und Ross und Männer uns und Nahrung auch, Des Opfers Seele warst du stets.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О капля, ты захватываешь коров, захватываешь мужей,  
 Захватываешь коней и захватываешь награду;  

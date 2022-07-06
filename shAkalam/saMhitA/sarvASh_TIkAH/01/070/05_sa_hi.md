@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ क्षपा꣡वाँ अग्नी꣡ रयीणां꣡  
 दा꣡शद् यो꣡ अस्मा अ꣡रं सुउक्तइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 सः । हि । क्ष॒पाऽवा॑न् । अ॒ग्निः । र॒यी॒णाम् । दाश॑त् । यः । अ॒स्मै॒ । अर॑म् । सु॒ऽउ॒क्तैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -79,7 +79,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ Sayana bhashya empty
 Kśapāvān: capable of destroying (the **rākṣasas**); or, having or possessing the night; **āgneyi** vai **rātriḥ**, night is characterized by Agni (**Taittirīya** **Brāhmaṇa** 2.1.2.7); agnirjyotiḥ jyotiragniḥ **svāhā** (**agnyādheya** ceremony: Taittirīya **Āraṇyaka** 4.10.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Agni, the protector of riches on earth, does ritual service (for him  [=the mortal])  
 who does ritual service for him [=Agni] fittingly with good hymns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The interpretation of kṣapā́vant- as ‘earth-protector’, containing a zero-grade form of the archaic noun kṣám- ‘earth’, goes back at least to the Petersburg dictionary and is the overwhelming consensus in Western scholarship (see EWA, s.v. kṣám-). However, a connection with the root noun kṣáp- ‘night’ has a more ancient pedigree: the Pp. divides the word kṣapā́‘vān, and Sāyaṇa comments kṣapeti rātrināma / rātrimān / āgneyī vai rātriḥ. At the very least we have a potential pun, and this pun is actually realized in this hymn, since vs. 7b, two verses later, contains the relatively rare root noun kṣáp-. Though vs. 5 has no mention of night and ‘earth-protector’ works fine in that context, the surfacing of kṣáp- ‘night’ so soon after might make the audience reconsider and produce a secondary semantic association for kṣapā́vān.
 
@@ -110,28 +110,28 @@ adverbial accent shift from inst. kṣapā́; see p. 303 and n. 452). The exact 
 Most tr. take ab as a nominal clause with suppressed dative (asmai or the like), the antecdent of the yáḥ of the rel. cl. (“Agni is the protector … [for him] who…”). I follow the interpr. of Velankar (1993: 41), who takes dā́śat as the verb of both main and relative clauses, accented in the former because it is initial in its pāda (and in a hí clause), in the latter because it’s in a subordinate clause. This grammatical and semantic reciprocity would match that of the (asmai …) asmai, where the first, suppressed dative refers to the worshiper and the second overt one to Agni. The theme of reciprocity is prominent in this hymn group.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou settest value on our cows and woods: all shall bring tribute to us to the light.  
      Men have served thee in many and sundry spots, parting, as 'twere, an aged father's wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 For he, Agni, (shows himself as) an earth-protecting (lord) of riches 1 to the man who satisfies him with well-spoken (prayers).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn der Agni ist der Schirmherr der Reichtümer für den, der ihm mit schönen Worten pünktlich aufwartet
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn Agni ist ja – des Guts Beschirmer für den, der gerne – ihm dient mit Liedern; Beschütz', o weiser, – du diese Wesen, den Stamm der Götter – und Menschen kennend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

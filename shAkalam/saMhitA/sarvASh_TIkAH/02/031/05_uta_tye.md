@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्ये꣡ देवी꣡ सुभ꣡गे मिथूदृ꣡शा  
 उषा꣡सान꣡क्ता ज꣡गताम् अपीजु꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्थातु꣡श् च व꣡यस् त्रि꣡वया उपस्ति꣡रे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्तु॒षे । यत् । वा॒म् । पृ॒थि॒वि॒ । नव्य॑सा । वचः॑ । स्था॒तुः । च॒ । वयः॑ । त्रिऽव॑याः । उ॒प॒ऽस्तिरे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -115,7 +115,7 @@ genre M
 उतअपिच त्ये तेप्रसिद्धे देवी देव्यौ देवनशीले सुभगेशोभनधनेमिथूद्रुशा मिथः परस्परम्पश्य- न्त्यौ एवम्भूतेउषासानक्ता उषाश्चरात्रिश्च जगताञ्जङ्गानांअपीजुवाप्रेरयित्र्यौभवतः तस्मादस्मदी- यमपिरथम्प्रेरयताम् उत्तरोर्धर्चोद्यावापृथिव्यःप्रत्यक्षकृतः हेपृथिवि वांयुवां त्वान्दिवञ्च नव्यसा नवीयसानवतरेणप्रशस्येनवा वचः वचसा सुपांसुलुगितितृतीयायालुक् यद्यदास्तुषेस्तुवे उत्तम- स्यव्यत्ययेनमध्यमः तदानींस्थातुः स्थावरस्यव्रीह्यादेः सबन्धिवयोन्नञ्चरुपुरोडाशादिलक्षणं त्रिव- याः वयइत्यन्ननाम त्रीणिओषधिपशुसोमात्मकानि हविर्लक्षणान्यन्नानियस्यतादृशोहंउपस्तिरे उपस्तृणामिआज्येनोपस्तरणाभिघारणपूर्वकम्प्रयच्छामीत्यर्थः स्तृञ् आच्छान्दने लट्युत्तमे छान्द सोविकरणस्यलुक् अत्रत्यश्चशब्दश्चणितिनिपातान्तरम्पादपूरणम् ऋतइद्धातोरितीत्वं निपातै- र्यद्यदिहन्ते तिनिघातप्रतिषेधः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,12 +126,12 @@ genre M
 I offer you food: sthātuśca **vayas** trivayā upastire = I, who am able to offer you three sorts of sacrificial food, vegetable substances, animal victims, or the **Soma**: oṣadhipaśusomātmakāni annāni; spread, upastṛṇāmi; the food, or cakes and butter, carupuroḍāśādi lakṣaṇāni of that which is stationary, that is, vrīhyādeḥ, or rice and other grains
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these two well-portioned goddesses of opposite appearance, Dawn  and Night, also speeders of moving creatures, (will speed the chariot), when, (o Heaven and) Earth, I will praise you two with a newer speech,  I possessing triple vigor to strew vigor as the underlayer for the still (world).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The root noun cmpd apījū́- is somewhat puzzling, in that the 1st member api- (apī- with lengthening at cmpd seam; for possible explan. see Scarlatta 169 nn. 223, 224) seems to contribute nothing. In fact, the standard tr. simply ignore it. Scarlatta is on the right track, I think, in taking it as only loosely compounded and meaning something like “also speeders,” perhaps in order to preserve some cmpd sense “speeders in addition.” On návyasā vácaḥ see comm. ad VIII.39.2.
 
@@ -142,23 +142,23 @@ interpr. is the standard one for trívayāḥ here (e.g., Renou “la vigueur tr
 The last question is who is doing the strewing. In my published translation it is “I,” and again I still consider this possible. But I think it’s also possible that I praise Heaven and Earth so that they will provide the underlayer. This is esp. likely if trívayāḥ is taken as neut.: “I praise you two … (for you) to strew triple-vigorous vigor …” The pair, or at least Earth, makes sense as the cosmic entity that would provide a base for the still, whereas Night and Dawn, in constant motion, make sense as the speeders of the moving things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Or, seen alternate, those two blessed Goddesses, Morning and Night who stir all living things to act:  
      While with my newest song I praise you both, O Earth, that from what moves not ye may spread forth threefold food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jene beiden beliebten Göttinnen, Morgen und Nacht, die verschieden aussehenden, die die Wesen treiben. Und auch ihr, wenn ich euch beide, Erde und Himmel mit der neuesten Rede preise und die dreifache Kraft des Stehenden zur Unterlage mache.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Nacht und Morgen, sie die reichen Göttinnen, die wechselnd schau'n, und die erquicken, was sich regt; Wenn ich euch Welten preise nun mit neuem Spruch, und dem was feststeht, dreimal spendend Gaben streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также эти две любимые богини, показывающиеся поочереди:  
 Ушас и Ночь – побудительницы движущихся существ.  

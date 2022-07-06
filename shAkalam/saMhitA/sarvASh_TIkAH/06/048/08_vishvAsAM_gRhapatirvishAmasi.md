@@ -6,7 +6,7 @@ ChandaH = "महासतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वासां᳐ गृह꣡पतिर् विशा꣡म् असि  
 त्व꣡म् अग्ने मा꣡नुषीणा᳐म्  
@@ -15,7 +15,7 @@ ChandaH = "महासतो बृहती"
 स्तोतृ꣡भ्यो ये꣡ च द꣡दति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 श॒तम् । पूः॒ऽभिः । य॒वि॒ष्ठ॒ । पा॒हि॒ । अंह॑सः । स॒म्ऽए॒द्धार॑म् । श॒तम् । हिमाः॑ । स्तो॒तृऽभ्यः॑ । ये । च॒ । दद॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
@@ -126,7 +126,7 @@ genre M
 हे **अग्ने** **त्वं** **मानुषीणां** मनोरपत्यभूतानां **विश्वासां** सर्वासां **विशां** प्रजानां **गृहपतिः** **असि** गृहस्वामी भवसि । हे **यविष्ठ** युवतमाग्ने अतस्त्वं **शतं** **हिमाः** शतं हेमन्तान् संवत्सरान् **समेद्धारं** त्वां सम्यगिद्धं कृतवन्तं मां **शतं** शतेन शतसंख्याकैः **पूर्भिः** पालनैः **अंहसः** पापात् आहन्तुः शत्रोर्वा **पाहि** रक्ष । **ये** **च** **स्तोतृभ्यः** **ददति** धनं तव समिन्धनस्य कर्तरि प्रयच्छन्ति तांश्च पाहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,29 +137,29 @@ genre M
 The lord of the dwelling: **gṛhapati**, master or protector of the house
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are houselord of all the clans stemming from Manu, o Agni. With your hundred strongholds, o youngest one, protect your kindler  from narrow straits for a hundred winters,  
 and protect those who give to your praisers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the Lord of house and home of all the tribes, O Agni, of all tribes of men.  
      Guard with a hundred forts thy kindler from distress, through hundred winters, Youngest God! and those who make thy singers rich.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der Hausherr aller menschlichen Stämme, o Agni. Schütze, du Jüngster, mit hundert Burgen vor Bedrängnis deinen Anzünder hundert Winter lang und die, welche dem Sänger schenken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Hausgebieter aller Stämme bist du ja, o Agni, du der menschlichen; Mit hundert Burgen schütz, o jüngster, vor Gefahr den Glutentzünder hundert Jahr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты хозяин дома всех племен,  
 Ты, о Агни, человеческих.  

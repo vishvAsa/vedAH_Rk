@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नावा꣡ न꣡ क्षो꣡दः प्रदि꣡शः पृथिव्याः꣡  
 सुअस्ति꣡भिर् अ꣡ति दुर्गा꣡णि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡वरेषु अदधाद् आ꣡ प꣡रेषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स्वाम् । प्र॒ऽजाम् । बृ॒हत्ऽउ॑क्थः । म॒हि॒ऽत्वा । आ । अव॑रेषु । अ॒द॒धा॒त् । आ । परे॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
@@ -117,14 +117,14 @@ popular
 **नावा** **न** उदकोत्तरणसाधनेनेव **क्षोदः** उदकं यथा मनुष्या नावोदकमतितरन्ति यथा वा **स्वस्तिभिः** क्षेमैः **विश्वा** सर्वाणि **दुर्गाणि** दुःखेन गन्तव्यान्यतितरन्ति तद्वत् **बृहदुक्थः** **स्वां** **प्रजां** वाजिनं मृतं पुत्रं **महित्वा** स्वमहत्त्वेन **अवरेषु** अग्न्यादिषु **आ** **अदधात्** कृतवान् । तदा **परेषु** दिव्येषु सूर्यादिष्वादधात् । एवमृषिर्ब्रूते स्वयमेव वा स्वात्मानं परोक्षेणाह ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As men pass over the water to the several quarters of the earth in a ship; (as they pass over) alldifficulties by the blessings (of fortune), **Bṛhaduktha** by his might has committed his own offspring to those onthis side, and to those on the other side.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As if with a boat across the swell through all the earth’s directions,  (having gone) beyond the difficult places with blessings,  
 Br̥haduktha by his greatness has placed his own offspring both among  later ones and among those previous.  
@@ -133,23 +133,23 @@ gested by the four supposed authors.
 1468 X.57–58
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As in a ship through billows, so through regions of air, with blessings, through toils and troubles  
      Hath Brhaduktha brought his seed with glory, and placed it here and in the realms beyond us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie mit dem Schiff über die Flut nach allen Richtungen der Erde, so glücklich über alle Gefahren hinwegkommend hat Brihaduktha durch seine Macht seine Nachkommenschaft zu den Späteren, zu den Früheren hinzugefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie auf dem Schiff durchs Meer in ferne Lande, so fuhr sein eignes Kind auch Brihaduktha Durch alle Noth mit Segenswerk hinüber, hin zu den untern und den obern Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как на челне – через пучину во (все) стороны земли,  
 Так благополучно (переправляясь) через все опасности,  

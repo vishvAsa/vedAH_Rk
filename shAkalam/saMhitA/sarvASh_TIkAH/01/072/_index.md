@@ -8,7 +8,7 @@ title = "+072"
 ‘नि काव्या ' इति दशर्चमष्टमं सूक्तं त्रैष्टुभमाग्नेयं पराशरस्यार्षम् । अनुक्रान्तं च नि काव्या' इति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 72  
 Agni  
@@ -22,7 +22,7 @@ Another important feature of the hymn is the preoccupation with names and  bodie
 The depiction of Agni in this hymn as the locus for the joint deposit of the bod ies of the gods in the Tānūnaptra myth is the mirror and complementary image of  Agni Vaiśvānara, the fire “belonging to all men,” around which all the allied human  clans rally, in the earlier hymns of Parāśara Śāktya’s Agni cycle (esp. I.68–70).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡रस्वतीं या꣡म् पित꣡रो ह꣡वन्ते  
 दक्षिणा꣡ यज्ञ꣡म् अभिन꣡क्षमाणाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 राय꣡स् पो꣡षं य꣡जमानेषु धेहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 स॒ह॒स्र॒ऽअ॒र्घम् । इ॒ळः । अत्र॑ । भा॒गम् । रा॒यः । पोष॑म् । यज॑मानेषु । धे॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sarasvatīṃ* ← *sarasvatīm* ← *sarasvatī*
 - \[noun\], accusative, singular, feminine
@@ -111,34 +111,34 @@ popular
 **यां** त्वां सरस्वतीं **पितरो** **हवन्ते** आह्वयन्ति। कीदृशाः । **दक्षिणा** । दक्षिणादाच्',   (पा.सू. ५. ३.३६) इत्याच्प्रत्ययः । दक्षिणत आगत्य **यज्ञमभिनक्षमाणाः** अभितो गच्छन्तो व्याप्नुवन्तः । **अत्र** अस्मिन् यज्ञे **सहस्रार्घं** बहुभिः पूजनीयमुपयोज्यम् **इळ:** अन्नस्य **भागं** **रायः** धनस्य **पोषं** पुष्टिं च यजमानेषु त्वं **धेहि** स्थापय ॥”
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sarasvatī, whom the forefathers invoke, as they arrive at the sacrifice in  the south—  
 provide here a portion of refreshment worth thousands and thriving of  wealth among the sacrificers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, called on as Sarasvati by Fathers who come right forward to our solemn service,  
      Give food and wealth to present sacrificers, a portion, worth a thousand, of refreshment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sarasvati, die die Väter anrufen, von rechts zum Opfer antretend, gib du dabei den tausendwertigen Teil der Opferspende, gib den Opfernden Zunahme des Reichtums!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvati, die unsre Ahnen rufen, die rechter Hand zum Opfer jetzt erscheinen, Gib tausendfachen Antheil an der Labung und Reichthums Mehrung denen, die dir opfern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сарасвати, которую призывают отцы,  
 Приближаясь к жертве справа,  

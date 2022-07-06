@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि त्रिविष्टि꣡ अध्वरं꣡  
 या꣡ति अग्नी꣡ रथी꣡र् इव  
 आ꣡ देवे꣡षु प्र꣡यो द꣡धत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 आ । दे॒वेषु॑ । प्रयः॑ । दध॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -91,40 +91,40 @@ genre M
 **देवेषु** द्योतमानेष्विन्द्रादिषु । प्रयः इत्यन्ननामेदम् । **प्रयः** यजमानैर्दत्तं हवीरूपमन्नम् आ **दधत्** आ समन्ताद्धारयन् **अग्निः** अङ्गनादिगुणविशिष्टोऽग्निः **त्रिविष्टि** त्रिवारम् ।सवनत्रयेऽपीत्यर्थः । **परि** परितः समन्तात् **अध्वरं** यजमानैः कृतं यागं **याति** गच्छति । परिगमने दृष्टान्तः । **रथीरिव** । रथवान् पुरुषो यथा शीघ्रं याति तद्वत् । तथा च ब्राह्मणं - ’परि त्रिविष्ट्यध्वरं यास्यग्नी रथीरिवेत्येष हि रथीरिवाध्वरं पर्येति' ( ऐ. बा. २. ५) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, thrice (a day), comes to our sacrifice like charioteer, bearing the sacrificial food to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni drives with triple toil around the ceremony like a charioteer, establishing a pleasurable offering among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three times unto our solemn rite comes Agni like a charioteer,  
      Bearing the viands to the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni goes thrice 1 around the sacrifice, like a charioteer, conveying the enjoyment 2 to the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal geht Agni um das Opfer wie ein Wagenfahrer, zu den Göttern das Opfermahl bringend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreimal dem Wagenlenker gleich geht Agni um das Opfer her, Die Speisen bringend götterwärts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трижды объезжает Агни  
 Обряд, словно колесничий,  

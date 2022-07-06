@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ वायुं꣡ वीती꣡ अर्षा गृणानो꣡  
 अभि꣡ मित्रा꣡व꣡रुणा पूय꣡मानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ इ꣡न्द्रं वृ꣡षणं व꣡ज्रबाहुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒भि । नर॑म् । धी॒ऽजव॑नम् । र॒थे॒ऽस्थाम् । अ॒भि । इन्द्र॑म् । वृष॑णम् । वज्र॑ऽबाहुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -115,19 +115,19 @@ genre M
 हेसोम गृणानः स्तूयमानः त्वं वीती सुपांसुलुगिति चतुर्थ्याःपूर्वसवर्णदीर्घः । वीत्यै पानाय वायुमभ्यर्ष अभिगच्छ । तथा पवित्रेण पूयमानस्त्वं मित्रावरुणा मित्रावरुणौच पानायाभिगच्छ । किञ्च नरं सर्वस्यनेतारं धीजवनं बुध्यासमंवेगं कुर्वाणं रथेष्ठां रथेस्थां रथेतिष्ठन्तं अनेनाश्विनावभिधीयेते । एकवचनं प्रत्येकविवक्षया समुदायविवक्षयावा । एता दृशावश्विनौचाभिगच्छ । तथा वूषणं कामानां वर्षकं वज्रबाहुं वज्रयुक्तबाहुं इन्द्रञ्च त्वं- पानायाभिगच्छ ॥ ४९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Being eulogized, hasten to **Vāyu**, for (him to) drink; being purified, hasten to **Mitra** and **Varuṇa**; (hasten) to the leader, who is quick as thought, mounted on a car, to **Indra**, the showerer, the wielder of the thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush toward Vāyu in pursuit while being hymned, toward Mitra and  Varuṇa while being purified, toward the superior man who quickens insightful thought and bestrides  the chariot, toward Indra the bull with the mace in his arms.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Oldenberg, Geldner, Renou identify the acc. goal in c as Pūṣan, because dhījávana- ‘quickening insightful thought’ is used in a simile comparing Soma to Pūṣan in
 
@@ -142,23 +142,23 @@ In contrast to the tṛcas with faint or no signs of cohesion, this one is over-
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To feast him, flow mid song and hymn, to Vayu, flow purified to Varuna and Mitra.  
      Flow to the song-inspiring car-borne Hero, to mighty Indra, him who wields the thunder.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe einladend zu Vayu, wann du gepriesen wirst, zu Mitra und Varuna, wann du geläutert wirst, zu dem Herrn, der die Gedanken anregt, dem Wagenfahrer, zu dem bullengleichen Indra mit der Keule im Arm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ström gepriesner her zum Mahl den Vaju, hellflammender, den Varuna und Mitra, Den Wagenkämpfer, der die Andacht anregt, den Helden Indra, der den Blitz im Arm hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воспеваемый, теки к Ваю для приглашения,  
 Очищаемый – к Митре-Варуне,  

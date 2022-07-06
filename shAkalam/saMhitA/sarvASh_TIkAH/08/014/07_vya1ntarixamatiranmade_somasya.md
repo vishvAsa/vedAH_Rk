@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ अन्त꣡रिक्षम् अतिरन्  
 म꣡दे सो꣡मस्य रोचना꣡  
 इ꣡न्द्रो य꣡द् अ꣡भिनद् वल꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । यत् । अभि॑नत् । व॒लम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vy* ← *vi*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमस्य** पानेन **मदे** हर्षे सति **रोचना** रोचमानम् **अन्तरिक्षम्** अयम् **इन्द्रः** **वि** **अतिरत्** व्यवर्धयत् । **यत्** यस्मात्कारणात् **वलम्** आवृत्य स्थितमसुरं मेघं वा **अभिनत्** व्यदारयत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Or, from which exhilaration he pierced Vala
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the exhilaration of soma he spread out the midspace and the  luminous realms—  
 Indra did, when he split Vala.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In Soma's ecstasy Indra spread the firmament and realms of light,  
      When he cleft Vala limb from limb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Rausche des Soma dehnte Indra den Luftraum aus und die Lichter des Himmels, als er den Vala aufgesprengt hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Luft, den Aetherraum durchdrang im Rausch des Soma Indra da, Als Vala er in Stücke schlug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра увеличил воздушное пространство  
 (И) светлые просторы (неба) в опьянении сомой,  

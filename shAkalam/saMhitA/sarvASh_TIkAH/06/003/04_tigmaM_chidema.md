@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिग्मं꣡ चिद् ए꣡म म꣡हि व꣡र्पो अस्य  
 भ꣡सद् अ꣡श्वो न꣡ यमसान꣡ आसा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्रवि꣡र् न꣡ द्रावयति दा꣡रु ध꣡क्षत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि॒ऽजेह॑मानः । प॒र॒शुः । न । जि॒ह्वाम् । द्र॒विः । न । द्र॒व॒य॒ति॒ । दारु॑ । धक्ष॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
@@ -118,7 +118,7 @@ genre M
 **अस्य** अग्नेः **एम** गमनसाधनभूतो मार्गः **तिग्मं** तीक्ष्णं स्प्रष्टुमशक्यत्वात् । अस्य च **वर्पः** रूपं **महि** महत् प्रभूतं **भसत्** दीप्यते ॥ ' भस भर्स्।नदीप्त्योः' इति धातुः । कीदृशोऽग्निः । **अश्वो** **न** अश्व इव **आसा** आस्येन **यमसानः** तृणादिकं नियच्छन् । तथा **परशुर्न** । यथा परशुः स्वकीयां धारां काष्ठे प्रक्षिपति तथा स्वकीयां **जिह्वां** ज्वालां **विजेहमानः** तरुगुल्मादौ प्रक्षिपन् । तथा **दारु** काष्ठं **धक्षत्** दहन् **द्रविर्न**। द्राविर्राथावयिता स्वर्णकारः। स यथा स्वर्णादिकं द्रावयति तथा सर्वं वनं **द्रावयति** । मूर्तभूतं सर्वं भस्मसात्करोतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 Like a goldsmith: dravir na drāvayati **dāru** dhakṣat = as a melter causes to melt, he burns the timber; yathā **svarṇakāraḥ** svarṇādikam drāvayati tathāgnir vanam bhasmasāt **karoti**, as a goldsmith fuses gold and the res, so **Agni** reduces the wood to ashes; this may imply something more than mere fusion of metals; the alchemical calcining or permutation of the metals would be more akin to the burning of timber, or reducing the metals to asheṣ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sharp is his course, great his form. He will snap with his mouth like a  horse being bridled.  
 Lolling his tongue out, like an axe (its blade), he makes the wood “run”  like runny stuff [=liquefies it] as he burns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. continues with the description of violent Agni.
 
@@ -152,23 +152,23 @@ Note also the phonological figure (yam)asāná āsā́. The simile in c, vijéha
 It would then be a cognate object to drāvayati in the simile and, on the one hand, be a more likely substance to be caused to run than wood (dā́ru) and, on the other, refer to the parts of wood that really do ‘run’, like sap. It might be worth noting that the much later cvi formation dravī-bhū (etc.) means ‘become liquid, liquefy’. (This of course has nothing to do with the -í- in dravíḥ, but does show that ‘run’ is used of liquids, a reasonably widespread semantic extension -- e.g., in English.) The standard tr. take dā́ru as the obj. of dhákṣat ‘burning’, rather than of drāvayati. This is, of course, the safer course. But cf. V.41.10 ní riṇāti vánā “he liquefies the trees” (also of Agni), V.58.6 riṇaté vánāni “the trees dissolve,” both with the root √ri ‘flow’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fierce is his gait and vast his wondrous body: he champeth like a horse with bit and bridle,  
      And, darting forth his tongue, as 'twere a hatchet, burning the woods, smelteth them like a smelter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Scharf ist sein Gang, groß seine angenommene Gestalt; er schnappt mit dem Maul wie ein Roß, das gezügelt wird. Die Zunge bleckend wie das blinkende Beil, schmelzt er es wie ein Schmelzer, wenn er das Holz verbrennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sein Gang ist scharf, erhaben sein Erscheinen; gleich wie ein Ross, das vorn man zügelt, kaut er; Dem Beile gleichend, vor die Zunge streckend, entbrannt zerschmilzt das Holz er wie ein Schmelzer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Остер его ход, велик меняющийся облик.  
 Он хватает пастью, словно взнуздываемый конь.  

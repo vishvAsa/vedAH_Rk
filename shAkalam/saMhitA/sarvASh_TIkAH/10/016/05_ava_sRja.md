@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व सृज पु꣡नर् अग्ने पितृ꣡भ्यो  
 य꣡स् त आ꣡हुतश् च꣡रति स्वधा꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सं꣡ गछतां तनु꣡वा जातवेदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आयुः॑ । वसा॑नः । उप॑ । वे॒तु॒ । शेषः॑ । सम् । ग॒च्छ॒ता॒म् । त॒न्वा॑ । जा॒त॒ऽवे॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -128,36 +128,36 @@ popular
 हे अग्ने यः प्रेतः पुमान् ते तुभ्यं आहुतः चितौ मन्त्रेण समर्पितः सन् स्वधाभिः स्व- धाकारसमपितैरुदकादिभिः सह चरति तं प्रेतं पितृभ्यः पितृप्राप्त्यर्थं पुनरवसृज भूयः प्रेरय । अयं प्रेतआयुर्जीवनं वसानआच्छादयन् आयुषा युक्तइत्यर्थः । शॆषः शिष्यमाणमस्थिलक्षणं यजनीयं शरीरं उपवेतु उपगच्छतु । हे जातवेदः तव प्रसादात् तन्वा शरीरेण सङ्गच्छतां सङ्गतोभवतु ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dismiss again to the **Pitṛs**, **Agni**, him who offered on you, comes with the **svadhās**; putting on(celestial) life, let the remains (of bodily life) depart; let him, **Jātavedas**, be associated with a body.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Release him again to the forefathers, o Agni—the one who, offered to  you, proceeds by his own powers.  
 Clothing himself in life, let him go in pursuit of his remains: let him  unite with his body, o Jātavedas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Again, O Agni, to the Fathers send him who, offered in thee, goes with our oblations.  
      Wearing new life let him increase his offspring: let him rejoin a body, Jatavedas.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib ihn den Vätern wieder heraus, o Agni, der dir geopfert eigenmächtig wandert! In Leben sich kleidend soll er seine Hinterbliebenen aufsuchen; er soll sich mit deinem Leib vereinigen, o Jatavedas!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entlass ihn, Agni, zu den Vätern wieder, der dir geweihet nun in Wonne wandert; In Kraft gekleidet mehre sein Geschlecht er, verein' mit neuem Leib sich, Wesenkenner!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Снова отпусти, о Агни, к отцам (того),  
 Кто, пожертвованный тебе, бродит по своему усмотрению!  

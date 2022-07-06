@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्दुर् इ꣡न्द्राय पवत  
 इ꣡ति देवा꣡सो अब्रुवन्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वस्ये꣡शान ओ꣡जसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वा॒चः । पतिः॑ । म॒ख॒स्य॒ते॒ । विश्व॑स्य । ईशा॑नः । ओज॑सा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
@@ -89,20 +89,20 @@ genre M;; repeated line
 **इन्दुः** सोमः **इन्द्राय** इन्द्रार्थं **पवते** कलशे क्षरति **इति** **देवासः** स्तुतिकारिणः स्तोतारः **अब्रुवन्** वदन्ति । यदा स्तोतार एवं वदन्ति तदानीं **वाचः** स्तुतेः **पतिः** पालयिता । यद्वा । शब्दस्य स्वामी अत्यन्तं शब्दायमान इत्यर्थः। तादृशः सोमः **मखस्यते** स्तुतिभिः पूजामिच्छति । लालसायां सुगागमः । कीदृशः । **ओजसा** बलेन **विश्वस्य** सर्वस्य **ईशानः** प्रभुः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The devout (worshippers) say '**Indu** flows forth for **Indra**'; the lord of speech (**Soma**) soverign of all by his might desires (our) worship.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “The drop purifies himself for Indra,” so the gods said.  
 The lord of speech does battle [/seeks bounties], holding sway over all  with his strength.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the double sense of makhá- and its denom. and deriv., see I.18.9, III.31.7.
 
@@ -117,23 +117,23 @@ No particular unity in this tṛca unless the mention of Indra in each vs. count
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu flows on for Indra's sake: thus have the Deities declared.  
      The Lord of Speech exerts himself, Ruler of all, because of might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft läutert sich für Indra, also sprachen die Götter: Der Meister der Rede zeigt sich als Freigebiger, der durch seine Stärke Herr über alles ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Dem Indra rieselt Indu hell«, so sagte jetzt der Götter Schar; Des Sanges Herr erweist sich kühn, der über alles herrscht mit Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сок сомы очищается для Индры –  
 Так сказали боги.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सावि ते जुजुषाणा꣡य सो꣡मः  
 क्र꣡त्वे द꣡क्षाय बृहते꣡ म꣡दाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र प्रिया꣡ कृणुहि हूय꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 हरी॒ इति॑ । रथे॑ । सु॒ऽधुरा॑ । योगे॑ । अ॒र्वाक् । इन्द्र॑ । प्रि॒या । कृ॒णु॒हि॒ । हू॒यमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asāvi* ← *su*
 - \[verb\], singular, Aorist passive
@@ -133,37 +133,37 @@ genre M
 हे इन्द्र **ते** तुभ्यं **जुजुषाणाय** सेवमानाय **सोमः** **असावि** अभिषुतः । किमर्थम् । **क्रत्वे** क्रतवे वृत्रवधादिकर्मणे **दक्षाय** बलाय **बृहते** **मदाय** च । यस्मादेवं तस्मात् हे **इन्द्र** त्वं **हूयमानः** सन् **सुधुरा** शोभनायां धुरि नियुक्तौ **प्रिया** प्रियौ **हरी** अश्वौ **योगे** योगार्हे युक्ते वा **रथे** योजयित्वा तं रथम् **अर्वाक्** अस्मदभिमुखं **कृणुहि** कुरु ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** has been effused, (**Indra**), for your gratification, for (giving you) strength in action, and for your great exhilaration; therefore Indra, when invoked by us, put to your two beloved, docile, well-trained horses in your car, and come down.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma has been pressed for you who have enjoyed (it)—for will and  skill, for lofty exhilaration.  
 Indra, bring nearby the two dear fallow bays, those amenable to the  chariot-pole at the yoking to your chariot, when you are being  
 invoked.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Soma hath been pressed for thee, its lover, to give thee power and might and high enjoyment.  
      Invoked, turn hither in thy car, O Indra, at need, thy two well-trained and dear Bay Horses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Soma ist für dich, den Liebhaber, zum Entschluß, zur Tatkraft, zu großem Rausche ausgepreßt. Lenk die beiden Falben, die jochfrommen am Wagen bei der Ausfahrt, die lieben herwärts, wenn du gerufen wirst, o Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir ward gepresst, der du ihn liebst, der Soma zur Kraft und Stärkung und zu tücht'gem Rausche; Die Füchs' am Wagen, schöngeschirrt am Joche, die lieben schaff, o Indra, her, geruf'ner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжат сома для тебя, наслаждающегося (им) –  
 Для силы духа, для силы действия, для мощного опьянения.  

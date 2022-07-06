@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पु꣡नर् नो अ꣡सुम् पृथिवी꣡ ददातु  
 पु꣡नर् द्यउ꣡र् देवी꣡ पु꣡नर् अन्त꣡रिक्षम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡नः पूषा꣡ पथि꣡यां या꣡ सुअस्तिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 पुनः॑ । नः॒ । सोमः॑ । त॒न्व॑म् । द॒दा॒तु॒ । पुन॒रिति॑ । पू॒षा । प॒थ्या॑म् । या । स्व॒स्तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punar*
 - \[adverb\]
@@ -133,7 +133,7 @@ popular
 **पृथिवी** देवी **नः** अस्मभ्यम् **असुं** प्राणं **ददातु** । **पुनः** **द्यौः** देवता असुं ददातु। तथा **अन्तरिक्षम्** अन्तरिक्षदेवता असुं ददातु। तथा **सोमः** **नः** **तन्वं** शरीरं **पुनः** **ददातु**। तथा **पूषा** पोषाभिमानिनी देवता **पथ्याम्** । “ पन्था अन्तरिक्षम्' (निरु. ११.४५)। तत्र भवां वाचम् । वागात्मकः शब्दो ह्याकाशादुपद्यते। तां **पुनः** ददातु । **किंच** ”या **स्वस्तिः** या लोके वेदे च स्वस्तिरुच्यते तामपि पूषा प्रयच्छतु। यद्वा । पूषा पोषं प्रयच्छतु । या स्वस्तिर्वाग्नाम्नी  देव्यस्ति सा पथ्यां वाचं प्रयच्छतु । ' वाग्वै पथ्या स्वस्तिः' ( श. ब्रा. ३. २. ३. ८) इति ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ The firmament: pathyam =that which is in the firmament, i.e., speech, which is d
 Speech: **svasti** = vāk,speech; may she give us articulation, pathyam vācam = good speech
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Again let Earth give us life-force, again let goddess Heaven, again  Midspace.  
 Again let Soma give us our body, again let Pūṣan give us the path that is  well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Earth restore to us our vital spirit, may Heaven the Goddess and mid-air restore it.  
      May Soma give us once again our body, and Pusan show the Path of peace and comfort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Erde soll uns den Lebensgeist wiedergeben, die Göttin Himmel, die Luft wiedergeben! Soma soll uns den Leib wiedergeben, Pusan wieder den Weg, der das Heil ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Odem gebe uns die Erde wieder, die Göttin, uns den Odem Luft und Himmel, Und unsern Leib verleih uns Soma wieder und Puschan uns den Pfad, der reich an Heil ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Снова пусть дарует нам земля дыхание жизни,  
 Снова богиня-небо, снова – воздушное пространство!  

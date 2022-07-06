@@ -8,7 +8,7 @@ title = "+036"
 ‘ अवितासि ' इति सप्तर्चं षष्ठं सूक्तमात्रेयस्य श्यावाश्वस्यार्षम् । अत्रेयमनुक्रमणिका ‘ अविता सप्त शाक्करं महापङ्क्त्यन्तम्' इति । षट्पञ्चाशदक्षरा शक्वरी छन्दः ।  ‘श्यावाश्वस्य' इति सप्तमी महापङ्क्तिः  ‘ षळष्टका वा महापङ्क्तिः ' (अनु. १०. ३) इति लक्षणसद्भावात् । दशरात्रे पञ्चमेऽहनि मरुत्वतीय इदं सूक्तम् । सूत्रितं च- अवितासीत्था हि ' (आश्व. श्रौ. ७. १२) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 36 (656)  
 Indra  
@@ -20,7 +20,7 @@ This hymn and the following one, VIII.37, although in different (but  related) m
 Since Śyāvāśva is best known for his Marut cycle in the Vth Maṇḍala (V.52–61),  it is entirely appropriate that Indra is “accompanied by the Maruts” in this refrain.  Śyāvāśva’s ancestors the Atris (note his patronymic Ātreya) are also glorified in this  hymn (vss. 6–7); the Atris are, of course, more at home in their own family maṇḍala,  V, than in VIII.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra The meter of vss. 1-6 of this hymn is analyzed by Arnold (p. 248, E73) as consisting of 6 pādas: 12 12 / 8 8 8 8, and this arrangement of the stanzas is followed by Holland & van Nooten Rig Veda edition. Oldenberg disputes this, suggesting instead 12 8 4 / 8 12 4 8. (On the lack of accent on śatakrato, which he takes as a separable 4-syll. sequence, see his remarks on II.22.3.) Among other things, this division allows sám apsujít to be an independent sequence, as it is in its occurrences in Uṣṇih, VIII.13.2 and IX.106.3. On this expression see comm. ad VIII.13.2.
 </details>

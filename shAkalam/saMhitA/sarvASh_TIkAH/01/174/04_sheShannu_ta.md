@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शे꣡षन् नु꣡ त꣡ इन्दर+ स꣡स्मि° यो꣡नौ  
 प्र꣡शस्तये प꣡वीरवस्य मह्ना꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ति꣡ष्ठद् ध꣡री धृषता꣡ मृष्ट वा꣡जान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सृ॒जत् । अर्णां॑सि । अव॑ । यत् । यु॒धा । गाः । तिष्ठ॑त् । हरी॒ इति॑ । धृ॒ष॒ता । मृ॒ष्ट॒ । वाजा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śeṣan* ← *śī*
 - \[verb\], plural, Aorist conj./subj.
@@ -132,7 +132,7 @@ genre M
 हे **इन्द्र** **ते** शत्रवः **सस्मिन्** सर्वस्मिन् समाने वा **योनौ** स्वकीये स्थाने अन्तरिक्षे वा । योनिरन्तरिक्षम्। **नु** क्षिप्रं **शेषन्** शेरताम् ॥ शीङो लेटि अडागमः। व्यत्ययेन परस्मैपदम्। सिब्बहुलम् इति सिप् । किमर्थम्। **प्रशस्तये** प्रशंसनाय त्वत्स्तुतये। त्वन्महिमज्ञापनाय' इत्यर्थः। किं सेवनादिसाधनेनेत्याह । **पवीरवस्य** कुलिशस्य कुलिशशब्दस्य वा **मह्ना** महिम्ना । त्वद्वज्रप्रहारेण हता मेघाः शत्रवो वा तत्रैव शेरते निपातेन पलायन्ते इत्यर्थः । किंच **यत्** यदा **युधा** प्रहरणसाधनेनायुधेन युद्धेन वा **गाः** गच्छसि तदा **अर्णांसि** उदकानि अव **सृजत्** अवासृजः । अवाङ्मुखम् अपातयः ॥ पुरुषव्यत्ययः ॥ तदर्थं **हरी** अश्वौ **तिष्ठत्** अध्यतिष्ठः ॥ अत्रापि पुरुषव्यत्ययः । यद्वा । यदा हरी अधितिष्ठसि तदावासृजः । अथैवं कृत्वा **वाजान्** अन्नानि सस्यादिलक्षणानि **धृषता** धर्षकेण सामर्थ्येन **मृष्ट** शोधय प्रवर्धयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,7 +143,7 @@ genre M
 Rest in their own station: in the firmament, the enemies are the clouds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=enemies] will lie now in the same womb, Indra, for the  
 glorification of your metal-edged weapon in its greatness.  
@@ -151,28 +151,28 @@ When by battle he sent the floods, the cows surging downward, he
 mounted his two fallow bays; boldly he swiped the battle-prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ab as a direct quote (uttered by unidentified speakers). He presumably does this because of the difference in tense/mood (subjunctive vs. injunctive) and person (2nd vs. 3rd) between ab and cd. But since such switches are common in the RV, the direct speech does not seem necessary or contextually supported.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They through the greatness of thy spear, O Indra, shall, to thy praise, rest in this earthly station.  
      To loose the floods, to seek, for kine, the battle, his Bays he mounted boldly seized the booty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sollen nun im gleichen Schoße liegen, o Indra, zu hohen Ehren der Pavirakeule." Als er durch Kampf die Gewässer, die Kühe befreite, da bestieg er das Falbenpaar und strich mutig die Siegesgewinne ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Feinde lass im Schooss der Erde liegen, zum Ruhm, o Indra, durch die Macht des Blitzes; Lass Fluten strömen, wenn zum Kampf du eilest, besteig' die Rosse, kühn gewinne Beute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же полягут сейчас в общем лоне эти (враги), Индра,  
 Во славу дубины грома, благодаря (ее) величию!  

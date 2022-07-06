@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यो शुक्रो꣡ अयामि ते  
 म꣡ध्वो अ꣡ग्रं दि꣡विष्टिषु  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्पार्हो꣡ देव नियु꣡त्वता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । या॒हि॒ । सोम॑ऽपीतये । स्पा॒र्हः । दे॒व॒ । नि॒युत्व॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -100,7 +100,7 @@ genre M
 हे **वायो** **ते** तुभ्यं **शुक्रः** व्रतचर्यादिना दीप्तोऽहं **मध्वः** मधुरं सोमरसम् ॥ कर्मणि षष्ठी ॥ **अग्रम्** इतरेभ्यः पूर्वम् **अयामि** आययामि॥ अयतिरन्तर्भावितण्यर्थः ॥ किमर्थम् । **दिविष्टिषु** दिवो द्युलोकस्यैषणेषु सत्सु हे **देव** वायो **स्पार्हः** स्पृहणीयस्त्वं **नियुत्वता** । नियुत् वायोः प्रतिनियतोऽश्वः । तेन साधनेन **आ** **याहि** **सोमपीतये** सोमपानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,30 +115,30 @@ Ayāmi = prāpayāmi;
 Agram = itarebhyaḥ pūrvam; alternative reading: may the cup (**śukra** **graha**) come to you, ayāni, āgacchatu, which is the essence of the Soma, agram sārabhūtaḥ madhunaḥ rasasya\].
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vāyu, the clear (soma) has been held out to you, the foremost of the  honey, at the rituals of daybreak.  
 (Since you are) craved, drive here to drink the soma, o god, (on a  
 chariot) with a team.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vayu, the bright is offered thee, best of the meath at holy rites.  
      Come thou to drink the Soma juice, God, longed-for, on thy team-drawn car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vayu! Der geklärte Soma ist dir dargereicht, die Blume des Süßtrankes bei den Morgenopfern. Komm zum Somatrunk begehrt, o Gott, mit dem niyutbespannten Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Vaju, ward der helle Trank, der süsse Seim beim Fest gereicht; Zum Somatrunke komme her mit Vielgespann, begehrter Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, чистый сок поднесен тебе,  
 Лучший сладкий (сок) на жертвоприношениях, ищущих неба.  

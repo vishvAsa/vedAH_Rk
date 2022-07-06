@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धाता꣡ धातॄणा꣡म् भु꣡वनस्य य꣡स् प꣡तिर्  
 देवं꣡ त्राता꣡रम् अभिमातिषाह꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवाः꣡ पान्तु य꣡जमानं निअर्था꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒मम् । य॒ज्ञम् । अ॒श्विना॑ । उ॒भा । बृह॒स्पतिः॑ । दे॒वाः । पा॒न्तु॒ । यज॑मानम् । नि॒ऽअ॒र्थात् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhātā* ← *dhātṛ*
 - \[noun\], nominative, singular, masculine
@@ -111,35 +111,35 @@ popular
 **धातॄणां** स्रष्टॄणामपि **धाता** स्रष्टा **भुवनस्य** कृत्स्नस्य भूतजातस्य **यः** इन्द्रः सविता वा **पतिः** पालयिता तं **देवं** देवनशीलं **त्रातारं** सर्वेभ्यो भयेभ्यः पालयितारम् **अभिमातिषाहम्** अभिमातीनां शत्रूणां सोढारमभिभवितारम् एवंगुणविशिष्टमिन्द्रं सवितारं वा स्तौमीति शेषः ॥  ‘ षह अभिभवे । ‘ छन्दसि सहः' इति ण्विप्रत्ययः । छान्दसं विभक्त्युदात्तत्वम् ॥ **उभा** उभावश्विनौ **बृहस्पतिः** चैतत्प्रमुखाः सर्वे **देवाः** **इमं** **यज्ञम्** अनुष्ठीयमानं **यजमानं** च **न्यर्थात्** निकृष्टादर्थात् पापात् । यद्वा । अर्थस्य प्रयोजनस्याभावो न्यर्थम् । तस्मात् **पान्तु** रक्षन्तु सफलं कुर्वन्त्वित्यर्थः ॥  ‘ नेरनिधाने ' ( पा. सू. ६. २. १९२) इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The creator of creators, he who is the protector of the universe, (him I praise), the divine defender, thedestroyer of enemies; may the two **Aśvins**, **Bṛhaspati**, and the gods, protect this sacrifice, and save the sacrificerfrom disappointment.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is the Ordainer of Ordainers, the lord of creation—him, the god  Rescuer, who vanquishes hostility (do I invoke). Let both the Aśvins and Br̥haspati (protect) this sacrifice here; let the  gods protect the sacrificer from failure.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the world, Creator of creators the saviour God who overcomes the foeman.  
      May Gods, Brhaspati, both Asvins shelter from ill thii sacrifice and sacrificer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der der Schöpfer der Schöpfer, der Welt Gebieter ist, den Gott Schützer, der die Anschläge bemeistert, rufe ich. Beide Asvin, Brihaspati sollen dies Opfer, die Götter den Opfernden vor Mißerfolg behüten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Schöpfer Schöpfer, er der Herr der ganzen Welt, der Gott, der rettet, und die Gegner übermannt, Brihaspati, die Ritter und die Götterschar beschirm dies Opfer und den Opfrer vor Verderb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я призываю того,) кто установитель установителей, господин вселенной,  
 Бога спасителя, отражающего атаки.  

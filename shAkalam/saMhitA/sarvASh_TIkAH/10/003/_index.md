@@ -8,7 +8,7 @@ title = "+003"
 ‘इनो राजन्' इति सप्तर्चं तृतीयं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘इनः' इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3 (829)  
 Agni  

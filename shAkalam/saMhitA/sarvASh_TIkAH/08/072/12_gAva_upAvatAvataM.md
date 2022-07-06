@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 गा꣡व उ꣡पावतावत꣡म्  
 मही꣡ यज्ञ꣡स्य रप्सु꣡दा  
 उभा꣡ क꣡र्णा हिरण्य꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒भा । कर्णा॑ । हि॒र॒ण्यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], vocative, plural, masculine
@@ -75,7 +75,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गावः** घर्मदुघा यूयम् **अवतं** महावीरं प्रति **उपावत** उपागच्छत । यस्मात् **यज्ञस्य** घर्मयागस्य साधनभूते **रप्सुदा**। रप्सुदारप्सुदे आरिप्सोः फलप्रदे । लिप्स्वोरश्विनोर्दातव्ये वा। यद्वा रपणं शब्दनम् । रप् मन्त्रः । तेन सुष्ठु दातव्ये । अथवा ‘ षूद क्षरणे '। रपा मन्त्रेण क्षारणीये दोहनीये। ईदृशे गवाजयोः पयसी **मही** महती बहुले अपेक्षिते अत उपावतम् । गौरजाया अप्युपलक्षकः अजापयसोऽपि महावीरे सेचनीयत्वात्। अपि चास्य महावीरस्य **उभा** उभौ **कर्णा** कर्णस्थानीयौ द्वौ रुक्मौ **हिरण्यया** हिरण्मयौ सुवर्णरजतमयावित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,13 +88,13 @@ Two kinds of milk: the milk of a cow and a got is poured into thegharma or **mah
 Rapsudā = āripsoḥ phalaprade, giving fruit to one who is about to begin; or, lipsvoraśvinor dātavye, to be presented to those who desire to receive it (i.e. the **Aśvins**); or, rap, to praise: mantreṇadātavye; or dohanīye, to be rightly offered or milked (sud) with hymns. OR, rapsu = **rūpa**: O cows, approachthe altar-trench (catvala), for heaven and earth (**mahī**) give beauty to the sacrifice; both your ears are golden
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O cows, approach the wellspring with help. Great is (the vessel?) of the  sacrifice, giving teeming abundance;  
 its two ears [=handles?] are golden.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda contains a lovely sound sequence: (g)ā́va (up)āva(t)āva(tam).
 
@@ -103,23 +103,23 @@ The hapax rapsúdā is difficult. Geldner refuses to tr.; Oldenberg suggests a c
 stem with suffixal -ā- or because it was lost in continuous recitation (before the pāda-initial vowel of pāda c) and not restored redactionally.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye cows, protect the fount: the two Mighty Ones bless the sacrifice.  
      The handles twain are wrought of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Kühe, kommet dem Brunnen zu Hilfe, groß ist des Opfers ...., beide Ohren sind golden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfrischt, ihr Kühe, diesen Born, gross ist des Opfers Becherpaar, Die beiden Henkel sind von Gold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Коровы, спешите на помощь к источнику!  
 Велика:жертвы –  

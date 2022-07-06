@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ हो꣡तारम् ईळते व꣡सुधितिम्  
 प्रियं꣡ चे꣡तिष्ठम् अरतिं꣡ नि꣡ एरिरे  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 गीर्भी꣡ रण्वं꣡ वसूय꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 दे॒वासः॑ । र॒ण्वम् । अव॑से । व॒सु॒ऽयवः॑ । गीः॒ऽभिः । र॒ण्वम् । व॒सु॒ऽयवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -158,14 +158,14 @@ genre M
 अमुम् **अग्निं** **होतारम्** आह्वातारं होमनिष्पादकं वा **ईळते** ऋत्विजः स्तुवन्ति । तथा **वसुधितिं** धनस्य धारयितारं दातारं वा अत एव **प्रियं** सर्वेषां प्रियतमं **चेति** ष्ठम् अतिशयेन यजमानानां चेतयितारं यद्वा प्रकृष्टचेतनवन्तम् ॥ चेत्तृशब्दात् ' तु छन्दसि ' इति इष्ठन् । ‘ तुरिष्टेमेयःसु ' इति तृलोपः ॥ **अरतिम्** ईश्वरं तादृशं देवं **न्येरिरे** नितरां प्राप्ताः । प्राप्तिरेव विशेष्यते । **हव्यवाहं** **न्येरिरे** निःशेषेण प्राप्ताः । इतरदेवेभ्यो हव्यं वोढुं यथा प्रभवति तथा नितरां प्राप्ताः । पुनः कीदृशम् । **विश्वायुं** सर्वत्र प्राणिजीवनं **विश्ववेदसं** सर्वप्रज्ञं **होतारं** देवानामाह्वातारं **यजतं** यजनीयं **कविं** सर्वज्ञम् ॥ ‘ ईर प्रेरणे, ईर गतौ ' इत्यन्यतमस्य लिटि रूपम् ॥ किंच **देवासः** देवनशीला ऋत्विजः **रण्वम्** अतिप्रवृद्ध्या शब्दयन्तम् **अवसे** अस्य रक्षणाय **वसूयवः** वसुकामाः सन्तः । पुनः कीदृशाः । **गीर्भिः** स्तुतिभिः **रण्वं** रणयन्तं रमणीयं वा **वसूयवः** वसु हवीरूपमन्नम् अग्नये प्रदातुमात्मन इच्छन्तो न्येरिरे। प्रीतो यथा धनं प्रयच्छति तथा हविरादिना प्राप्ता इत्यर्थः । ॥ १५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They, (the devout), praise **Agni**, the invoker (of the gods), the possessor of wealth, the beloved, the thoughtful; they have recourse to him as to a sovereign; they have recourse to him as the bearer of oblations; to him, who is the life (of all living beings), who knows all things, the offerer of oblations, the object of worship, the sage; the sacred (priests), desirous of affluence, murmur (his praises) to obtain his protection; desirous of affluence, they murmur (his praises) in their hymns.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, the Hotar, the depository of goods do they reverently invoke; the  dear, most conspicuous one they have installed as the spoked wheel  
 (of the sacrifice)—they have installed as the conveyor of oblations— the one who provides all lifetimes and all possessions, the Hotar  
@@ -173,29 +173,29 @@ deserving the sacrifice, the sage poet.
 The gods, seeking goods, (have installed) the lusty one, for help—seeking  goods (they have installed) the lusty one with hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni the Priest they supplicate to grant them wealth: him, dear, most thoughtful, have they made their messenger, him, offering-bearer have they made,  
      Beloved of all, who knoweth all, the Priest, the Holy one, the Sage--  
      Him, Friend, for help, the Gods when they are fain for wealth, him, Friend, with hymns, when fain for wealth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They magnify Agni the Hotri, the dispenser of goods. They have roused the beloved, the most shining steward 1 (of sacrifice); they have roused the carrier of oblations. The gods desirous of goods (have roused) him in whom all life dwells, who possesses all wealth, the Hotri, the worshipful sage, the lovely one for the sake of bliss; with praises (they have roused), desirous of goods, the lovely one.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni berufen sie zum Hotri, den Schätzeberger. Den lieben ausgezeichneten haben sie als Wagenlenker angestellt, als lebenslänglichen Hotri den allwissenden, den opferwürdigen Seher, die Götter den Erfreulichen zum Schutz, Gutes wünschend, unter Lobreden den Erfreulichen, Gutes wünschend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Priester Agni flehn sie an um Schatzgewinn, sie haben ihn als lieben klügsten Opferer, als Opferfahrer eingesetzt; Als weisen, hehren Priester ihn, der alles Gut und Leben hegt, Als Freund die Götter gutbegehrend zum Genuss, als Freund die Sänger voll Begier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни призывают как хотара, как вместилище благ.  
 Любимого, самого приметного определили как повелителя (?),  

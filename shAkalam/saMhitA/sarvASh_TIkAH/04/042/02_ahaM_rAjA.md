@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ रा꣡जा व꣡रुणो म꣡ह्य° ता꣡नि  
 असुर्या᳡णि प्रथमा꣡ धारयन्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जामि कृष्टे꣡र् उपम꣡स्य वव्रेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 क्रतु॑म् । स॒च॒न्ते॒ । वरु॑णस्य । दे॒वाः । राजा॑मि । कृ॒ष्टेः । उ॒प॒मस्य॑ । व॒व्रेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -114,36 +114,36 @@ genre M;; repeated line
 **अहम्** एव च **राजा** **वरुणः** भवामि । **मह्यं** मदर्थमेव **प्रथमा** मुख्यानि **तानि** प्रसिद्धानि **असुर्याणि** असुरविघातकानि बलानि **धारयन्त** । अधारयन् देवाः । शिष्टं गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am the king **Varuṇa**; on me (the gods) bestow those principal energies (that are) destructive of the **asuras**; (they) associate me with the worship of Varuṇa; I rule over (the nets) of the proximate form of man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am King Varuṇa. For me (the gods) uphold these foremost lordly  powers;  
 the gods follow the will of Varuṇa. I am king of the boundary of the  highest covering.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I am King Varuna. To me were given these first existinghigh celestial powers.  
      Varuna's will the Gods obey and follow. I am the King of men's most lofty cover.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich Varuna bin der König; mir waren zuerst die Asurawürden bestimmt. Des Varuna Rat befolgen die Götter; ich herrsche über das Volk von höchster Körperform.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin der König Varuna, mein eigen sind diese ersten himmlischen Gewalten; Die Götter folgen Varuna's Geboten; der Menschen höchsten Zufluchtsort beherrsch' ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я царь Варуна. Для меня установили  
 (Боги) эти первые асурские силы.  

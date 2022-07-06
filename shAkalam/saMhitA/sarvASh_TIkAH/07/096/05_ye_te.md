@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ते सरस्व ऊर्म꣡यो  
 म꣡धुमन्तो घृतश्चु꣡तः  
 ते꣡भिर् नो अविता꣡ भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 तेभिः॑ । नः॒ । अ॒वि॒ता । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -83,40 +83,40 @@ genre M
 हे **सरस्वः** सरस्वन् देव **ते** त्वदीयाः **ये** **ऊर्मयः** जलसंघाः **मधुमन्तः** रसवन्तः **घृतश्चुतः** घृतस्य वृष्ट्युदकस्य क्षारिणो भवन्ति **तेभिः** तैरूर्मिभिः नः अस्माकम् **अविता** रक्षिता **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With those your waves Sarasvat, which are sweet-tasted, the distributors of water, be our protector.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your waves, Sarasvant, which are rich in honey, dripping with ghee— with them become our helper.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The third pāda of this vs., which is the 2nd vs. in the tṛca addressed to Sarasvant, the masc. equivalent of the far more prominent Sarasvatī, parallels that of the 2nd vs. in the tṛca addressed to Sarasvatī that opens this hymn: 2c sā́no bodhi avitrī́marútsakhā 5c tébhir no avitā́bhava Renou suggests that this parallelism attests to the secondary character of Sarasvant. The difference between the two impvs. bodhi and bhava, both to √bhū, conforms to the positional distribution of these two forms discussed in my 1997 “Syntactic constraints on morphological change: The Vedic imperatives bodhi, dehi, and dhehi” (Syntaxe des langues indo-iraniennes anciennes, ed. E. Pirart).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be thou our kind protector, O Sarasvan, with those waves of thine  
      Laden with sweets and dropping oil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine süßen, schmalztriefenden Wellen, o Sarasvat, mit denen sei uns ein Helfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sarasvat, welche Wogen dir von Honig triefen und von Fett, Erquicke du mit denen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) волны твои, о Сарасват,  
 Которые попитатана медом, источают жир,  

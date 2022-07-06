@@ -8,7 +8,7 @@ title = "+010"
 ‘उषो न जारः' इति पञ्चर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयम् । तथा चानुक्रान्तम्’ उषो न पञ्च' इति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 10 (526)  
 Agni  

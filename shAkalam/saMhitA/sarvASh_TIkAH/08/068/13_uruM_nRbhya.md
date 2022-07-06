@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उरुं꣡ नृ꣡भ्य उरुं꣡ ग꣡व  
 उरुं꣡ र꣡थाय प꣡न्था᳐म्  
 देव꣡वीतिम् मनामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दे॒वऽवी॑तिम् । म॒ना॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
@@ -82,35 +82,35 @@ genre M
 हे इन्द्र **नृभ्यः** अस्मदीयेभ्यो भृत्येभ्यः **उरुं** हितं **मनामहे** याचामहे । तथा **गवे** । एतदुपलक्षणम् । गवाश्वादिकाय तथा **रथाय** **पन्थां** पन्थानं मार्गम् । अथवा नृप्रभृतीनां संचाराय शोभनं मार्गं मनामहे । तथा **देववीतिं** यज्ञं मनामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit a spacious (road) for our servants, a spacious (road) for our cattle, a spacious road for ourchariot, and (an abundant) sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As a path wide for our men, wide for our cow, wide for our chariot— thus do we consider our pursuit of the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We count the banquet of the Gods a spacious pathway for the men,  
      And for the cattle, and the car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als breiten Weg für die Männer, als breiten Weg für Rind und Wagen erachten wir die Götterladung das Opfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib [kṛdhi aus 12] weite Bahn den Männern, dem Rinde, dem Wagen; wir sorgen für das Göttermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

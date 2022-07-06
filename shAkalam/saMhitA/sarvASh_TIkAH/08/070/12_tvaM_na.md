@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ न इन्द्र आसां᳐  
 ह꣡स्ते शविष्ठ दाव꣡ने  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 द्विः꣡ सं꣡ गृभाय अस्मयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 धा॒नाना॑म् । न । सम् । गृ॒भा॒य॒ । अ॒स्म॒ऽयुः । द्विः । सम् । गृ॒भा॒य॒ । अ॒स्म॒ऽयुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -107,41 +107,41 @@ genre M
 हे **शविष्ठ** बलवन् **इन्द्र** **त्वं** नः अस्मभ्यं **दावने** प्रदानाय **आसां** गवाम् । कर्मणि षष्ठी । एता गाः **हस्ते** **गृभाय** गृहाण । ग्रहणे दृष्टान्तः । **धानानां** **न** । धाना भृष्टयवाः । अत्रापि कर्मणि षष्ठी । धाना यथा संगृह्णाति तद्वद्गृहाण । कीदृशस्त्वम् । **अस्मयुः** अस्मान् कामयमानः । गृहीत्वा च **अस्मयुः** सन् **द्विः** **सं** **गृभाय** । पुनर्द्विवारं संगृहाण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Most powerful **Indra**, in your favour towards us, take these cows in your **hand**, as fried grain, to give tous; yes, take them twice in your favour towards us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O strongest Indra, grab a handful of these (cows), o most capacious  one, to give to us,  
 like a handful of roasted grains, being disposed toward us. Grab two,  being disposed toward us.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra’s generous handful of cows in this final verse before the sarcastic dānastuti implicitly contrasts with the stinginess of Śara, who gives only one calf (vs. 15).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Mightiest Indra, loving us, gather thou up, as grains of corn,  
      Within thine hand, of these their kine, to give away, yea, gather twice as loving us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von diesen Kühen nimm, Indra, als wären es Körner, die Hand voll uns zuliebe, um uns zu schenken, du Mächtigster, doppelt nimm uns zuliebe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, nimm in deine Hand wie Gerstenkörner Schätze doch, Sie uns zu geben, o du stärkster, holdgesinnt, zweimal erfasse sie uns hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

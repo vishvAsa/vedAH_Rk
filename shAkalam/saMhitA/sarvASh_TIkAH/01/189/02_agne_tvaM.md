@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने तुव꣡म् पारया न꣡व्यो अस्मा꣡न्  
 सुअस्ति꣡भिर् अ꣡ति दुर्गा꣡णि वि꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वा तोका꣡य त꣡नयाय शं꣡ योः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पूः । च॒ । पृ॒थ्वी । ब॒हु॒ला । नः॒ । उ॒र्वी । भव॑ । तो॒काय॑ । तन॑याय । शम् । योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -141,34 +141,34 @@ genre M
 किञ्च - योः यापयिता पृथक्कर्ता आगामिनां भयानां अस्मदीयजनसकाशादपनेता च भव । यौतेः 'अन्येभ्योपि दृश्यन्ते' (पा.सू. 3.2.75) इति विच्, 'ओतो णित्' (पा.सू. 7.1.90) इति बहुलवचनान्न भवति । 'षष्ठ्यर्थे चतुर्थी वक्तव्या' (पा.सू. 2.3.62 वा 1) इति वा 'क्रियार्थोपपदस्य च कर्मणि स्थानिनः' (पा.सू. 2.3.14) इति वा चतुर्थ्यौ । तोकं तनयं च रक्षितुं शं योश्च भव । 'द्व्यचोऽतस्तिडः' (पा.सू. 6.3.135) इति संहितायाम् 'अ'स्य दीर्घत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adorable **Agni**, convey us by the sacred sets (of worship), beyond all evil ways; may our city be spacious; our land be extensive; be the bestower of happiness upon our offspring, upon our sons.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, deliver us anew to the far shore, beyond all hardships, with your  blessings.  
 And become a wide fortress, thick and broad, for us, and luck and  
 lifetime for our progeny and posterity.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda c provides a fine parallel to “A mighty fortress is our god.” The word order is somewhat unusual, in that we might expect naḥ to take Wackernagel’s position in the pāda as a whole; instead it seems to have taken up a version of that position in the post-caesura phrase bahulā́na urvī́, which simply modifies the nom. sg. pū́ḥ that begins the pāda. There might be several reasons for this. For one thing ca occupies that position, but this is not a particularly compelling suggestion because the function and positioning of that ca are somewhat puzzling. Klein (DGRV I.220 n.
 
 81) suggests that it connects pū́ḥ … bhávā with the clause earlier in the vs. whose verb is pārayā. I would suggest rather that it is an inverse ca conjoining the two predicate nominatives construed with bhávā, i.e., pū́ḥ and śáṃ yóḥ. (This would, among other things, eliminate another ex. of supposed sentential or clausal ca, ascribing to it its more usual role as conjoiner of nominals.) It may also be that the alliteration in the phrase pū́ḥ … pṛthvī́would stand out more starkly without naḥ in between, but that should apply to ca as well.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lead us anew to happiness, O Agni; lead us beyond all danger and affliction.  
      Be unto us a wide broad ample castle bless, prosper on their way our sons and offspring.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni! Thou who art young, help us safely across all difficulties. Be for us a broad, large, wide stronghold, for our kith and kin, with luck and weal 1.
 </details>
@@ -182,17 +182,17 @@ Health and wealth for our children and descendants.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei eine weite, breite, hohe Burg uns, und sei zum Heil den Kindern und den Enkeln.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, ты снова перевези нас  
 Благополучно через все трудности!  

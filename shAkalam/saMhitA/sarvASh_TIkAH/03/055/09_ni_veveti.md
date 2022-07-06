@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ वेवेति पलितो꣡ दूत꣡ आसु  
 अन्त꣡र् महां꣡श् चरति रोचने꣡न  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 वपूं॑षि । बिभ्र॑त् । अ॒भि । नः॒ । वि । च॒ष्टे॒ । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -131,14 +131,14 @@ genre M;; repeated line
 **पलितः** पालयिता पूर्णो वा देवानां **दूतः** अग्निः **आसु** ओषधीषु **नि** **वेवेति** नितरां व्याप्य वर्तते । 'महान् सोऽग्निः **रोंचनेन** सूर्येण सह **अन्तः** रोदस्योर्मध्ये **चरति** । **वपूंषि** नानाविधानि रूपाणि **बिभ्रत्** सोऽग्निः **नः** अस्मान् यष्टॄन् **अभि** **वि** **चष्टे** विशेषेणानुग्रहदृष्ट्या पश्यति ॥ वेवेति । वी गत्यादिषु । यङ्लुकि ईडभावे रूपम् । रोचनेन । सहार्थे तृतीया । बिभ्रत् ॥ डुभृञ् धारणपोषणयोः' इत्यस्य शतरि रूपम् । अभ्यस्तस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In those (plural nts) the aged messenger (of the gods) constantly abides; mighty, he presses with the radiant (sun) through the region of space; assuming various forms, he looks (complacently) upon us; great and unequalled is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gray messenger [=smoke] keeps bearing down on them  
 [=hearths? plants?]. The great one acts the go-between through the  
@@ -146,30 +146,30 @@ luminous realm.
 Bearing wondrous forms, he looks out upon us. – Great is the one and  only lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a the “gray messenger” is Agni, gray because of his ash; I take the fem. pl. āsu as referring to the plants (see vs. 5) that provide the fuel that feeds Agni’s flames. The fire “bears down on them” (/ “keeps pursuing them”; ní veveti) as it spreads over the firewood. (A reference to his hearths is also possible, but I think less likely.) In contrast to the earthly spread of the fire depicted in pāda a, b shows it rising towards heaven in its messenger role. I take rocanéna as an instr. of extent of space, rather than referring to Agni’s own luminosity with the standard tr. However, taking it in the latter way would not appreciably alter the sense of the pāda.
 
 The published translation is somewhat misleading, in having ‘bearing’ for both ní veveti in a and bíbhrat in c, though of course English ‘bear’ has entirely different senses in the two idioms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deep within these the hoary envoy pierceth; mighty, he goeth to the realm of splendour,  
      And looketh on us, clad in wondrous beauty. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der ergraute Bote ist brünstig nach ihnen, der Große geht mit seinem Lichtglanz zwischen Himmel und Erde. Seine Schönheiten anlegend blickt er uns an. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In diese Mütter dringt der greise Bote, der grosse geht hinein mit hellem Glanze; Er zeigt sich uns in lichter Schönheit prangend, gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Седой вестник кидается на этих (жен).  
 Великий бродит среди (них) со (своим) светом.  

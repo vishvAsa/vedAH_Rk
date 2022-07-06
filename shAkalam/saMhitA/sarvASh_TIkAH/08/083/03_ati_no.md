@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ति नो विष्पिता꣡ पुरु꣡  
 नौभि꣡र् अपो꣡ न꣡ पर्षथ  
 यूय꣡म् ऋत꣡स्य रथियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यू॒यम् । ऋ॒तस्य॑ । र॒थ्यः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ati*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **ऋतस्य** सत्यस्य यज्ञस्य वा हे **रथ्यः** नेतारो देवाः। यद्वा । ऋतस्येति संबन्धि--- त्वात्कर्ताक्षिप्यते । यज्ञस्य साधका हे रथ्यो रथवन्तो देवाः **विष्पिता** विष्पितानि विप्राप्तानि विततानि **पुरु** । सुपो लुक् । पुरूणि बहूनि शत्रुबलानि कर्माणि वा **नः** अस्मान् **अति** **पर्षथ** पारं समाप्तिं रक्षणैर्गमयत । तत्र दृष्टान्तः। **नौभिरपो** **न** । यथा नाविकोऽप उदकानि नौभिर्जनास्तीरं प्रति प्रापयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,28 +93,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Conduct our (sacrifices) to completion through the many widespread (forces ofour enemies)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You carry us across many perils [?], as if across the waters with boats— you charioteers of truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye furtherers of holy Law, transport us safe o'er many woes,  
      As over water-floods in ships.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Führet uns über die vielen Gefahren hinweg wie mit Schiffen über die Gewässer! Ihr seid die Lenker der wahrhaften Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch viel Gefahren führet uns gleich wie auf Schiffen durch das Meer, Des Rechtes Wagenlenker ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

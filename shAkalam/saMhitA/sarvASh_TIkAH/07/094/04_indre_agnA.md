@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रे अग्ना꣡ न꣡मो बृह꣡त्  
 सुवृक्ति꣡म् ए꣡रयामहे  
 धिया꣡ धे꣡ना अवस्य꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धि॒या । धेनाः॑ । अ॒व॒स्यवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indre* ← *indra*
 - \[noun\], locative, singular, masculine
@@ -79,40 +79,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अवस्यवः** रक्षणकामा वयम् **इन्द्रे** देवे **अग्ना** अग्नौ च **बृहत्** बृंहणं वर्धकं **नमः** हविर्लक्षणमन्नं **सुवृक्तिं** सुप्रवृत्तां स्तुतिं च **एरयामहे** अभिप्रेरयामः । तथा **धिया** कर्मणा युक्ताः **धेनाः** । वाङ्नामैतत् । अप्रगीताः स्तुतिवाचश्चाभिप्रेरयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desiring protection, we offer copious oblations and praise to **Indra** and **Agni**, and prayers with holy rites.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Indra, to Agni we raise lofty reverence, a (hymn) with a good twist, and nourishing streams (of truth?) with our visionary thought as we  seek help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The loc. phrase índre agnā́beginning this tṛca echoes the repetitive voc. dvandva índrāgnī of the 1st tṛca.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra and to Agni we bring reverence, high and holy hymn,  
      And, craving help, softwords with prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni bringen wir die hohe Verbeugung, ein Loblied, unter Nachsinnen, die Redeergüsse dar, um eure Gunst bittend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra-Agni bringen wir ein hoh Gebet und Loblied dar Und hülfsbegierig Trank und Spruch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индре (и) Агни (наше) высокое поклонение.  
 Мы пускаем в ход прекрасный гимн,  

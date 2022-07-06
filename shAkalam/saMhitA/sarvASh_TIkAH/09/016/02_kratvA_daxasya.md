@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्र꣡त्वा द꣡क्षस्य रथि꣡यम्  
 अपो꣡ व꣡सानम् अ꣡न्धसा  
 गोषा꣡म् अ꣡ण्वेषु सश्चिम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गो॒ऽसाम् । अण्वे॑षु । स॒श्चि॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
@@ -73,20 +73,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वयमभिषोतारः **दक्षस्य** बलस्य **रथ्यं** नेतारम् **अपः** उदकानि रसान् **वसानम्** आच्छादयन्तम् **अन्धसा** श्रयणान्नेन सहितं **गोषां** गवां सोतारमेवमुक्तलक्षणं सोमं **क्रत्वा** कर्मणा **अण्वेषु** अङ्गुलीषु **सश्चिम** संयोजयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In pious rite by our fingers we mix with the milk (the **Soma**), the bringer of strength, the sender of kine, who envelopes the water.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With resolve we accompany the charioteer of skill, who clothes himself  in waters along with his stalk,  
 the winner of cows, among the fine (tufts of fleece).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou construe dákṣasya with preceding krátvā, which is certainly possible: krátu- and dákṣa- are often associated, and Geldner adduces several passages containing krátvā dákṣasya (III.2.3, V.10.2 -- though in both cases JPB plausibly construed dákṣasya with something else). But since rathī́- ‘charioteer’ is regularly construed with a gen. (incl.
 
@@ -95,23 +95,23 @@ dákṣasya IV.10.2, VI.51.6) and since krátvā appears without gen. in nearby 
 2a: “dákṣasya wohl nach beiden Seiten zu verbinden.” This would yield the tr. “with the resolve of skill we accompany the charioteer of skill …,” which seems a bit heavy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With strength we follow through the sieve him who brings might and wins the kine,  
      Enrobed in water with his juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Überlegung des Verstandes haben wir den Wagenfahrer begleitet, der sich mit seinem Saft in die Wasser hüllt und in der Seihe die Kuhmilch gewinnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der weise lenkt der Kraft Gefährt, und seinen Saft in Wasser hüllt, Den Spender führen wir ins Sieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С пониманием силы действия мы следовали  
 За колесничим, рядящимся в воды  

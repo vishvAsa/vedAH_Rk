@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ त्वं꣡ देव श꣡श्वते  
 व꣡सु म꣡र्ताय दाशु꣡षे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शता꣡त्मानं विवाससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्दो॒ इति॑ । स॒ह॒स्रिण॑म् । र॒यिम् । श॒तऽआ॑त्मानम् । वि॒वा॒स॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -102,7 +102,7 @@ genre M
 हे **देव** सोम **सः** त्वं **शश्वते** पुत्रादिमत्त्वेन बहवे **मर्त्याय** मनुष्याय **दाशुषे** हविर्दत्तवते यजमानाय **वसु** धनं मह्यं च **विवाससि** प्रेरयसि । एकवाक्यतापक्षे हि तिङन्तस्य हियोगादनिघातः स्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,14 +113,14 @@ genre M
 To every man: śāśvate = numerous as being possesssed of children
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you, o god, are goods for each and every pious mortal,  
 o drop, you seek to win wealth in thousands, which has a hundred  
 embodiments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take this vs. as a single clause, and it is certainly tempting.
 
@@ -139,23 +139,23 @@ Sanskrit-Syntax, §95b; other examples and sec. lit. citations collected in Brer
 śatā́tman- occurs 3x in the RV (I.149.3, X.33.9, and here); in all cases it seems to mean ‘having 100 forms or embodiments’; in X.33.9 it is almost of the “cats have 9 lives” variety. Here it presumably refers to as many varieties of wealth as we can acquire.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou thyself, O Indu, God, to every mortal worshipper  
      Attractest riches thousandfold, made manifest in hundred forms.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du, o Gott, erstrebst für jeden opferwilligen Sterblichen Gut, tausendfältigen Reichtum, der hundert Leben hat, o Saft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn jedem frommen Sterblichen ertheilst du gern, o Indu, Gut, Und tausendfachen Schatz, o Gott, der hundertfaches Leben hegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это ты, о бог, каждому  
 Смертному почитателю хочешь добыть  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ युवं꣡ देवाव् अश्विना  
 कुमारं꣡ साहदेविय꣡म्  
 दीर्घा꣡युषं कृणोतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दी॒र्घऽआ॑युषम् । कृ॒णो॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -85,45 +85,45 @@ genre M
 हे **देवावश्विना** द्योतमानावश्विनौ **युवं** युवां **तं** **साहदेव्यं** सहदेवस्य पुत्रं **कुमारं** सोमकाख्यं राजानं **दीर्घायुषं** शतायुष्कं **कृणोतन** कुरुतम् । अनेन द्वृचेनास्य कुमारस्य दीर्घमायुः अश्विनावृषिरयाचतेत्यर्थः ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Aśvins**, do you two make the prince, the son of **Sahadeva**, long-lived.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You god Aśvins, make Prince Sāhadevya long-lived.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In one way this vs. is simply a more active variant of vs. 9. In 9 it is implied that Sāhadevya will be long-lived because of the Aśvins (somehow or other); in 10 they are ordered to make him so. But there’s a grammatical twist at the end: the impv. kṛṇotana is plural not dual, and so the Aśvins may have helper(s). The shift to the pl. is probably yet another example of the tendency to open out to the larger divine world in final vss., by including unspecified others -- so here “you (two and other gods).” But it’s worth pointing out that no du. impv. of √kṛ would fit this metrical slot. (On the other hand, no RVic poet with even middling skills would have been unable to throw in a particle or the like to make the meter work.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cause him the youthful prince, the son of Sahadeva, to enjoy  
      Long life, O Asvins, O ye Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Give long life, O divine Asvins, to this son of Sahadeva, the prince!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Machet ihr Götter Asvin diesen Prinzen Sahadevya langlebig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Macht ihr, o Götter, Açvinen, den jungen Sohn des Sahadeva langlebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы этого, о двое богов Ашвинов,  
 Царевича Сахадевью  

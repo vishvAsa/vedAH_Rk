@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो न꣡ देवी꣡र् उ꣡प यन्ति होत्रि꣡यम्  
 अवः꣡ पश्यन्ति वि꣡ततं य꣡था र꣡जः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ब्रह्मप्रि꣡यं जोषयन्ते वरा꣡ इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 प्रा॒चैः । दे॒वासः॑ । प्र । न॒य॒न्ति॒ । दे॒व॒ऽयुम् । ब्र॒ह्म॒ऽप्रिय॑म् । जो॒ष॒य॒न्ते॒ । व॒राःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
@@ -128,7 +128,7 @@ genre M
 **होत्रियं** होतुः स्वभूतं चमसं **देवीः** देव्यो द्योतमानाः **आपो** **न** यथा आपः **उप** **यन्ति** उपगच्छन्ति तद्वदुपरि वर्तमाना देवा एतमेव चमसम् **अवः** अवस्तात् **पश्यन्ति** । होतृचमसे अस्माकं सोमाभिषवाय आपः पूरिता इति तेषां दृष्टिरप्यस्मिन् संलग्नाभूत् । तत्र दृष्टान्तः। **विततं** विस्तीर्णं **रजः** ज्योतिः सूर्यसंबन्धि **यथा** निरन्तरमवस्तात् पतति तद्वत् । **देवयुं** देवान् कामयमानमेतं चमसं **प्राचैः** प्राचीनं यद्वा प्राञ्चनैः प्रगमनैः उत्तरवेद्यभिमुखं होमकाले **प्र** **णयन्ति** । होमार्थे प्रणीतं **ब्रह्मप्रियं** ब्रह्मणा सोमलक्षणेनान्नेन प्रीतं संतृप्तं पूरितमित्यर्थः। **जोषयन्ते** सर्वे देवास्तं चमसं सेवन्ते । **वराइव** कन्यकाम् । यथा वरा ममेयं भविष्यति ममेयं भविष्यतीति कन्यकां सेवन्ते एवं देवा अपि ममायं सोमो ममायं सोम इत्यस्य पार्श्वे वर्तन्ते इत्यर्थः । एवम् अपोनप्त्रीयविनियोगानुसारेण योजितं मन्त्रस्यानुष्ठेयार्थप्रकाशकत्वात् । यदा तु रात्रिपर्यायेऽस्या विनियोगः तदा त्वेवं व्याख्येयम् । हे इन्द्र देव्य आपो यथा निम्नदेशमुपगच्छन्ति एवं देवास्त्वदीयं स्तोत्रं शुश्रूषमाणाः होत्रियं होतृसंबन्धि धिष्ण्यस्थानमुपगच्छन्ति । उपगत्य च अवस्तात् पश्यन्ति विततं ज्योतिरिव । देवयुं देवानात्मन इच्छन्तमेतं शंसितारमागताः सर्वे देवाः प्राचीनं प्र णयन्ति अग्रतो धारयन्ति । ब्रह्मप्रियं स्तोत्रप्रियं त्वां शंसन्तं वराः कन्यका इव सेवन्ते ॥ होत्रियम् । होतृशब्दात् तस्येदमर्थे घप्रत्ययः । अवः । 'पूर्वाधरावराणामसि पुरधवश्चैषाम्' इति असिप्रत्ययान्तोऽन्तोदात्तः । प्राचैः । उच्चैर्नीचैरितिवदव्ययम् । यद्वा प्रपूर्वात् अञ्चतेः 'घञर्थे कविधानं । स्थास्नापाव्यधिहनियुध्यर्थम् ' इति परिगणनस्योपलक्षणार्थत्वात् भावे कप्रत्ययः ।“ अनिदिताम् ' इति नलोपः । जोषयन्ते । जुषी प्रीतिसेवनयोः । स्वात्मनः प्रयोज्यत्वात् हेतुमति णिच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 Avaḥ **paśyanti**, they look down: **devaḥ**, the gods is added: gods who look down upon the sacrificial ladle, hotriyam, well plural ased to behold it filled with the intended libation. The text has 'as diffused light'; the phrase 'descends on earth' is added. The next phrase is: the gods lead that which is plural ased by the libation, and wishes for them, either by progressive movements, or in an eastern direction (pracair), as bridegrooms delight. What is so led, and whither? The ladle, **camasa**, the alter, **vedī** as well as the bride or maiden, **kanyakā**, are filled up by the comment
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the goddesses, the Waters, they [=gods] approach (the  
 place) associated with oblation; they look downward onto  
@@ -150,7 +150,7 @@ they delight in the man who pleases (them) with the sacred
 formulation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse presents a number of small problems of interpretation, and it helps first to determine what the verse is about in general. It seems to involve the gods’ ritual approach to the place of the soma pressing. They are compared to the goddess waters in a because waters are brought at the soma-pressing to mix with the pressed soma (cf. IX.69.4, e.g.). The identity of “the one who seeks the gods” (devayú-) in c is not entirely clear, but my assumption is that it is soma. I also assume that the acc. in d does not refer to the soma, but rather to the priest-poet, though it is not impossible that the two accusatives have the same referent, most likely in that case the priest-poet.
 
@@ -161,23 +161,23 @@ Cf. IX.83.2 tápoṣ pavítraṃ vítataṃ divás padé, where the filter has c
 In d brahmaprī́- is universally taken as ‘loving the formulation’, and this interpr. would match that of brahma-dvíṣ- ‘hating the formulation’. However, both here and in its other occurrence in I.152.6 I take it instead as ‘pleasing [someone] with the formulation’ with the transitive value of act. prīṇā́ti, etc. In this passage it makes more sense that the gods would delight in someone attempting to please them, rather than someone who is himself deriving pleasure from something else. The passage in I.152.6 invites a similar interpr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The heavenly Waters come not nigh the priestly bowl: they but look down and see how far mid-air is spread:  
      The Deities conduct the pious man to them: like suitors they delight in him who loveth prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die göttlichen Wasser nahen sie dem Hotri-Sitz; sie blicken herab auf das Opfer, das sich entfaltet hat wie der Luftraum. Die Götter bringen den Gottergebenen vorwärts. Dem, der das Gotteswort liebt, sind sie zu Gefallen wie die Freier einem Mädchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wasser gehn die Göttinnen zum Opferwerk und schaun herab wie auf die ausgedehnte Luft; Die Götter leiten vorwärts den, der Götter liebt, dem, der Gebet liebt, sind sie wie die Freier hold.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно божественные воды, они приближаются к сосуду хотара.  
 Они смотрят вниз (на жертву), растянутую, как пространство.  

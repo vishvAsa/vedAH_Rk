@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो मित्र सुदीति꣡भिर्  
 व꣡रुणश् च सध꣡स्थ आ꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡खीनां᳐ च वृध꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स्वे । क्षये॑ । म॒घोना॑म् । सखी॑नाम् । च॒ । वृ॒धसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -103,36 +103,36 @@ genre M
 हे **मित्र** त्वं च **वरुणश्च** **सुदीतिभिः** सुदीप्तियुक्तौ युवां **नः** अस्माकं **सधस्थे** सहस्थाने यज्ञे **आ** गच्छतम् । द्वितीय आकारोऽनर्थक आदरार्थों वा । किमर्थमित्युच्यते । **मघोनां** धनवतां हविष्मतां **सखीनां** **च** युवयोः सखिभूतानामस्माकं **क्षये** गृहे **स्वे** स्वकीये **वृधसे** वर्धनाय ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Mitra** (come), **Varuṇa**, with your splendour to our assembly, and augment (the prosperity) of the affluent (worshipper), and of (those who are) your friends in their respective abodes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Mitra, (you) and Varuṇa—(come) here for us with your bright lights,  here into your seat,  
 into their own dwelling, (that) of the generous patrons, for your partners  to grow strong.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With your fair splendours, Varuna and Mitra, to our gathering come,  
      That in their homes the wealthy chiefs and they who are your friends may thrive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet zu uns, Mitra und Varuna, mit Erleuchtung zur Stelle, ins eigene Haus der freigebigen Patrone zu ihrem und der Amtsgenossen Gedeihen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt, Mitra-Varuna, herbei zu unserm Platz mit hellem Licht, Zum Segen in dem eignen Sitz der Fürsten und Befreundeten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(ходи) к нам, о Митра, со (своим) прекрасным пламенем,  
 А также Варуна на общее (для вас) место,  

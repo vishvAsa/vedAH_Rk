@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡द् वि꣡प्रा अवस्य꣡वः  
 प्रव꣡त्वतीभिर् ऊति꣡भिः  
 इ꣡न्द्रं क्षोणी꣡र् अवर्धयन् वया꣡ इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 इन्द्र॑म् । क्षो॒णीः । अ॒व॒र्ध॒य॒न् । व॒याःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -87,20 +87,20 @@ genre M;; line affected by realignment
 **विप्राः** मेधाविनः **अवस्यवः** रक्षणकामाः स्तोतारः **तमित्** तमेव **इन्द्रं** **प्रवत्वतीभिः** प्रकर्षेणाभिगन्त्रीभिः **ऊतिभिः** तृप्तिकरीभिराहुतिभिः स्तुतिभिर्वा वर्धयन्ति । तथा **क्षोणीः** क्षोण्यः । क्षोणीति पृथिवीनाम । तदुपलक्षिताः सर्वे लोकाः **वयाइव** वृक्षस्य शाखा इव तदधीनाः सन्तः **अवर्धयन्** वर्धयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious, desiring his protection, magnify him by ample and plural asure- yielding (libations); the earth,(and other worlds, spread out) like the branches of a tree, magnify **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just him did the inspired poets, seeking aid, (increase) with downward  coursing help.  
 The battle cries made Indra increase, as tree-branches do.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am puzzled as to what “downward coursing help(s)” (pravátvatībhir ūtíbhiḥ) might be. As Geldner points out, vs. 25 shows that the instr. phrase should be construed with avardhayan and so it must be help that the poets are giving Indra rather than getting from him (though they themselves are also avasyávaḥ ‘seeking aid’). The stem pravátvant- is generally used of landscape/cosmic features that have a gentle, and by implication pleasant and easily traversed, slope; see esp. V.54.9, where heaven and earth, the paths, and the mountains all provide a pravát- for the Maruts’ journey. The help provided to Indra by the poets may be of the same quality, smoothing and easing his journey to the sacrifice and his participation in it. In our 8b we met waters at play going along a slope (pravátā). Again ‘downhill, sloping down’ implies the path of least resistance and the opposite of effortful activity. If the identification of the poets with the Maruts suggested above is correct, it might be worth noting that four of the seven forms of pravátvant- are found in a single verse in a Marut hymn (the aforementioned V.54.9).
 
@@ -117,23 +117,23 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him sages longing for his aid, with offerings brought in eager haste,  
      Him. even as branches, all mankind have made to grow.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denselben machten die beistandsuchenden Barden, den Indra sein Gefolge mit raschen Hilfen groß wie die Zweige den Baum.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gunst suchend liessen wachsen ihn die Priester durch der Opfer Strom, Den Indra der Gewässer Flut wie Zweige ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это его вдохновенные (поэты), ищущие помощи,  
 (Своими) стремительными поддержками  

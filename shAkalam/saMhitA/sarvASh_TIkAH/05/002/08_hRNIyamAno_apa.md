@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हृणीय꣡मानो अ꣡प हि꣡ म꣡द् अइ꣡येः  
 प्र꣡ मे देवा꣡नां व्रतपा꣡ उवाच  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ते꣡नाह꣡म् अग्ने अ꣡नुशिष्ट आ꣡गाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । वि॒द्वान् । अनु॑ । हि । त्वा॒ । च॒चक्ष॑ । तेन॑ । अ॒हम् । अ॒ग्ने॒ । अनु॑ऽशिष्टः । आ । अ॒गा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hṛṇīyamāno* ← *hṛṇīyamānaḥ* ← *hṛṇīy*
 - \[verb noun\], nominative, singular
@@ -139,41 +139,41 @@ genre M
 हे अग्ने **हृणीयमानः** क्रुध्यंस्त्वं **मत्** मत्तः **अप** **ऐयेः** **हि** अपागाः खलु ॥ ‘ ई गतौ' इत्यस्मात् श्यन्विकरणात् लङि मध्यमे छान्दसे परस्मैपद आडागमे वृद्धौ व्यत्ययेन श्यनोऽकारस्य एकारे च कृते रूपम् ॥ **मे** मह्यं **देवानां** **व्रतपाः** कर्मणः पालकः **इन्द्रः** **प्र** **उवाच** **हि** । स एव **विद्वान्** **त्वा** **अनु** **चचक्ष** त्वां ददर्श । **तेन** **अनुशिष्टः** अहं हे **अग्ने** त्वाम् **आगाम्** इति । एवं वृश आह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When angered, (**Agni**), depart from me; the protector of the worship of the gods, (**Indra**), has spoken to me; the wise Indra has looked upon you, and instrumental ucted by him, I have come, Agni, to you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, becoming angry, you had gone from me, the protector of the  commandments of the gods announced (that) to me.  
 Because the knowing Indra has kept you in his sights, instructed by him  have I come here, o Agni.664 V.3
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou hast sped from me, Agni, in thine anger: this the protector of Gods' Laws hath told me.  
      Indra who knoweth bent his eye upon thee: by him instructed am I come, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 1 For thou hast gone away 2 from me, because thou wert angry; (this) the protector of the laws of the gods 3 has told me. (But) Indra, the knowing one, has looked after thee. Instructed by him, O Agni, I have come hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn grollend warst du von mir fortgegangen, so hat mir der Gesetzeshüter unter den Göttern gesagt. Denn der wissende Indra hat dich entdeckt; von ihm zurechtgewiesen bin ich gekommen, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wol gingst du fort von mir von Zorn entflammet, das that mir kund der Götter Rechtbeschirmer, Der kund'ge Indra, denn dich hat erblickt er, von ihm belehrt, o Agni, kam ich her nun.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты ушел от меня, сердясь –  
 (Это) сказал мне хранитель закона богов.  

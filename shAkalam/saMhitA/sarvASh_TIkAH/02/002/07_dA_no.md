@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दा꣡ नो अग्ने बृहतो꣡ दाः꣡ सहस्रि꣡णो  
 दुरो꣡ न꣡ वा꣡जं श्रु꣡तिया अ꣡पा वृधि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सु꣡वर् ण꣡ शुक्र꣡म् उष꣡सो वि꣡ दिद्युतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्राची॒ इति॑ । द्यावा॑पृथि॒वी इति॑ । ब्रह्म॑णा । कृ॒धि॒ । स्वः॑ । न । शु॒क्रम् । उ॒षसः॑ । वि । दि॒द्यु॒तः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
@@ -148,20 +148,20 @@ genre M
 हे **अग्ने** **नः** अस्मभ्यं **बृहतः** महतः प्रभूतान् गवाश्वादिधनविशेषान् **दाः** देहि । तथा **सहस्रिणः** सहस्रसंख्योपेतान् पुत्रभृत्यादीन् **दाः** देहि॥ ददातेश्छान्दसे लुङि रूपम्। वाक्यभेदादनिघातः॥ **श्रुत्यै** कीर्त्यै **वाजम्** अन्नं **दुरो** **न** तस्य द्वाराण्यपि । नशब्दश्चार्थे। **अपा** **वृधि** अपवृणु । प्रेरयेत्यर्थः । यद्वा द्वाराणीव । तत्प्राप्त्युपायान् विशदयति । तदर्थं **द्यावापृथिवी** **ब्रह्मणा** परिवृढेन कर्मणा **प्राची** प्रकृष्टाञ्चने अस्मदनुकूले **कृधि** कुरु । **स्वर्ण** आदित्य इव । स यथा जगत्प्रकाशयति तद्वत् । **शुक्रं** दीप्तं त्वाम् **उषसः** उषःकालाः **वि** **दिद्युतुः** विद्योतयन्ति । उषःकाले ह्यग्नयः प्रज्वाल्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bestow upon us, **Agni**, infinite possessions; grant us thousands (of cattle and dependents); open to us, for your reputation, the doors of abudance; make heaven and earth, propitiated by sacred prayer, favourable to us, and may the mornings light you up like the sun.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Give us, Agni, lofty (prizes), give (prizes) in thousands. Open up the  prize like a door, for (it) to be famed.  
 Turn heaven and earth eastward with a sacred formulation. Like the  blazing sun, you have made the dawns flash forth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sahasrín- (sg. or pl.) regularly modifies rayí- and vā́ja-; bṛhánt- has a wider range of referents, but both rayí- and vā́ja- are found. Since (sg.) rayím occurs in the immediately preceding vs. (6b) and (sg.) vā́ja- in the immediately following pāda (7b), either is available to supply as the referent for the pl. adjectives in pāda a. I opt for vā́ja-, because of the nearer proximity.
 
@@ -182,28 +182,28 @@ The simile in d svàr ṇá “like the sun” is perfectly ambiguous. It can be
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, give us great wealth, give riches thousandfold. unclose to us, like doors, strength that shall bring renown.  
      Make Heaven and Earth propitious through the power of prayer, and like the sky's bright sheen let mornings beam on us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Give us, Agni, mighty, give us thousandfold (gifts). Open strength for us like a door 1 for the sake of glory. Make Heaven and Earth inclined towards us through (our) spell. Make the Dawns shine like the brilliant Sun.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gib uns, Agni, große, gib tausendfältige Gewinne, eröffne uns wie Tore den Gewinn, daß es kundbar werde ! Mach Himmel und Erde durch das Segenswort geneigt ! Wie die helle Sonne sollst du alle Morgen leuchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns gieb, o Agni, vieles, tausendfaches Gut, wie Thüren schliesse Schätze uns zum Heile auf, Und mach uns Erd' und Himmel durch Gebet geneigt, mach hell die Morgen gleich der lichten Sonne Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Дай нам, о Агни, высокие, дай тысячные (награды)!  
 Как врата, отвори награду, чтобы (о ней) слышали!  

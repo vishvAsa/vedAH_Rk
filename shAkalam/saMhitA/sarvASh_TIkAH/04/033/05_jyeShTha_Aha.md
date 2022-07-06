@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज्येष्ठ꣡ आह चमसा꣡ द्वा꣡ करे꣡ति  
 क꣡नीयान् त्री꣡न् कृणवामे꣡ति आह  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्व꣡ष्ट र्भवस् त꣡त् पनयद् व꣡चो वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 क॒नि॒ष्ठः । आ॒ह॒ । च॒तुरः॑ । क॒र॒ । इति॑ । त्वष्टा॑ । ऋ॒भ॒वः॒ । तत् । प॒न॒य॒त् । वचः॑ । वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jyeṣṭha* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
@@ -154,36 +154,36 @@ genre M
 ' एकं चमसं चतुरस्कृणोतन ' ( ऋ. सं. १. १६१. २ ) इति यदा देवदूतोऽग्निर्ऋभूनाह देवत्वप्राप्त्युक्थेन तदा तेषु मध्ये देवत्वप्राप्त्युत्कः एकः **ज्येष्ठः** ऋभुरितरौ **आह** । किमिति । उच्यते । **चमसा** **द्वा** **करेति** । एकमेव सन्तं द्वौ कृणवामेति । **कनीयान्** तदनन्तरो विभ्वा **त्रीन्** **कृणवाम** करवाम **इत्याह** । तदवरः **कनिष्ठः** वाजः **चतुरस्कर** चतुर्धा करवाम **इति** **आह** **तत्** एव चतुष्करणरूपं हे **ऋभवः** **त्वष्टा** युष्मद्गुरुः **वः** **वचः** युष्मद्वचनं **पनयत्** अस्तौत् । अङ्गीचकार इत्यर्थः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The eldest said, let us make two ladles; the younger said, let us make three: **Tvaṣṭā**, **Ṛbhus**, has applauded your proposal.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eldest said, “I will make two cups (from one).” The younger said,  “We will make three.”  
 The youngest said, “I will make four.” O R̥bhus, Tvaṣṭar wondered at  that speech of yours.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Two beakers let us make,- thus said the eldest. Lct us make three,- this was the younger's sentence.  
      Four beakers let us make,- thus spoke the youngest. Tvastar approved this rede of yours, O Rbhus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Älteste sprach: "Ich will zwei Becher machen", der Jüngere sprach: "Wir wollen drei machen", der Jüngste sprach: "Ich will vier machen". Tvastri nahm euch beim Wort, o Ribhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es sprach der ältste: Mache zwei der Becher, der jüngre sprach: Drei Becher lasst uns machen, Der jüngste sagte: Vier der Becher mache; Tvaschtar bestaunte dies eur Wort, o Ribhu's,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Старший сказал: Я хочу сделать два кубка.  
 Помоложе сказал: Мы хотим сделать три.  

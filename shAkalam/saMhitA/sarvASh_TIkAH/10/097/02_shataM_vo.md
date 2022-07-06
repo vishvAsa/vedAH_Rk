@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ वो अम्ब धा꣡मानि  
 सह꣡स्रम् उत꣡ वो रु꣡हः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इम꣡म् मे अगदं꣡ कृत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अध॑ । श॒त॒ऽक्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
@@ -113,36 +113,36 @@ popular;; epic anuṣṭubh (292)
 हे **अम्ब** मातर ओषधयः **वः** युष्माकं **धामानि** स्थानानि जन्मानि वा **शतम्** अपरिमितानि । **उत** अपि च **वः** युष्माकं **रुहः** प्ररोहः प्रोद्गमः **सहस्रम्** अपरिमितः। **अध** अपि च हे **शतक्रत्वः** शतकर्माणः **यूयमिमं** **मे** मां मदीयं वा जनमामयग्रस्तम् **अगदम्** । गदो रोगः । तद्रहितं **कृत** कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mothers (of mankind) a hundred are your applications, a thousandfold is your growth; do you who fulfila hundred functions, make this my (people) free from disease.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 One hundred are the forms of you all, o mother, and a thousand are  your shoots.  
 So then, o you all who possess a hundred strategies, make this (man)  here to be free of disease for me.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, Mothers, have a hundred homes, yea, and a thousand are your growths.  
      Do ye who have a thousand powers free this my patient from disease.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert, o Mütterchen, zählen eure Arten und tausend eure Gewächse. So machet ihr, hundertfachen Rat wissend, mir diesen Mann gesund!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja hundertfach ist eure Art und tausendfach ist euer Wuchs; Mit hundert Kräften wohlbegabt, macht diesen Kranken mir gesund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сотни видов вас, матушка,  
 А также тысяча ваших побегов.  

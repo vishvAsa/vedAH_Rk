@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ न ए꣡कस्मिन्न् आ꣡गसि  
 मा꣡ दुव꣡योर् उत꣡ त्रिषु꣡  
 व꣡धीर् मा꣡ शूर भू꣡रिषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वधीः॑ । मा । शू॒र॒ । भूरि॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -90,36 +90,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शूर** इन्द्र **नः** अस्मान् **एकस्मिन्नागसि** अपराधे **मा** **वधीः** मा हिंसीः । **द्वयोः** आगसोरपि **मा** वधीः । **उत** अपि च **त्रिषु** आगःस्वपि **मा** हिंसीः । **भूरिषु** असंख्यातेष्वप्यागःसु मा च वधीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slay us not for one sin, not for two, not for three; O hero, slay us not for many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t smite us at a single offense, nor at two or three,  
 nor at many, o champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Not for one trespass, not for two, O Hero, slay us, nor for three,  
      Nor yet for many trespasses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht sollst du uns wegen eines Vergehens, nicht wegen zweier und dreier erschlagen, noch wegen vieler, o Held!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht tödte uns um einen Fehl, noch auch um zweie oder drei, Auch nicht um viele uns, o Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ни за один наш грех,  
 Ни за два или три,  

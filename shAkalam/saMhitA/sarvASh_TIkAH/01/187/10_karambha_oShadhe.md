@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 करम्भ꣡ ओषधे भव  
 पी꣡वो वृक्क꣡ उदारथिः꣡  
 वा꣡तापे पी꣡व इ꣡द् भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; repeated line
 वाता॑पे । पीवः॑ । इत् । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *karambha* ← *karambhaḥ* ← *karambha*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; repeated line
 **करम्भः** यः करम्भादिरूपः सक्तुपिण्डोऽस्ति तदात्मक हे **ओषधे** त्वं **पीवः** स्थौल्यवान् **वृक्कः** व्याधेर्वर्जयिता **भव** । उदारथिः ऊर्ध्वगमः इन्द्रियाणामुद्दीपयिता भव । शिष्टो गतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,33 +100,33 @@ genre M;; repeated line
 Vegetable cake of fried meal: **karambha** oṣadhe: karambha = a lump or cake of parched meal, **śaktu** **piṇḍa**, identified with a herb or vegetable, tadātmaka **oṣadhiḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become the gruel, o plant, the fat, the steaming [?] suet [?],  
 o you friend of the winds—become just the fat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My tr. of the hapax udārathí- follows a suggestion registered in EWA s.v. udārá- for lack of anything better. Geldner refuses to tr.; Witzel Gotō ‘erregend’ takes Sāyaṇa.’s gloss into account.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Vegetable, Cake of meal, he wholesome, firm, and strengthening: Vatapi, grow thou fat thereby.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Werde, du Pflanze, zu Grütze, Speck, Nierenfett, ......, werde uns, du Freund des Vata, zu Speck.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Gerstenbrei erschein, o Kraut, als Nierenfett, als Gärungstrank, Dann werde fett, du schwellender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Превратись в кашу, о растение,  
 В жир, в почечное сало..!  

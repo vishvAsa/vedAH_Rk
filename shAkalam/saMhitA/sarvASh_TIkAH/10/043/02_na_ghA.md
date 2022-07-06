@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ घा तुवद्रि꣡ग् अ꣡प वेति मे म꣡नस्  
 तुवे꣡ इ꣡त् का꣡मम् पुरुहूत शिश्रय  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अस्मि꣡न् सु꣡ सो꣡मे अवपा꣡नम् अस्तु ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 राजा॑ऽइव । द॒स्म॒ । नि । स॒दः॒ । अधि॑ । ब॒र्हिषि॑ । अ॒स्मिन् । सु । सोमे॑ । अ॒व॒ऽपान॑म् । अ॒स्तु॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -144,36 +144,36 @@ genre M
 हे **पुरुहूत** बहुभिराहूत **दस्म** दर्शनीयेन्द्र **त्वद्रिक्** त्वदभिमुखं **मे** मदीयं **मनः** **न** **घ** न खलु **अप** **वेति** त्वत्तोऽपगच्छति । किंच **त्वे** **इत्** त्वय्येव **कामम्** अभिलाषं **शिश्रय** स्थापयामि । किंच **राजेव** ईश्वर इव **बर्हिषि** **अधि** **नि** **षदः** निषीद। किंच **ते** तव **अस्मिन्** **सोमे** **अवपानमस्तु** भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, of godly aspect, the invoked of many, my mind intent on you wanders not from your presence, Ifix my desire on you; take your seat like a prince upon this sacred grass, and may your drinking be of this **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Directed toward you, my mind does not lose the track: just on you have  I fixed my desire, o much invoked one.  
 Like a king, wondrous one, sit down upon the ritual grass. Since there is  soma here, let there be drinking for you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Directed unto thee my spirit never strays, for I have set my hopes on thee, O Much-invoked!  
      Sit, Wonderful! as King upon the sacred grass, and let thy drinking-place be by the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mein Denken ist auf dich gerichtet und läßt nicht ab; nur auf dich habe ich meinen Wunsch gestellt, du Vielgerufener. Wie ein König setze dich auf das Barhis, du Meister! Bei diesem Soma soll fein deine Tränke sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Geist strebt hin zu dir und wendet nie sich ab; in dir nur ruht, o vielgerufner, meine Lust, Setz, herrlicher, dich wie ein König auf die Streu, bei diesem Soma sei der Ort, wo gern du trinkst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не отвлекается моя мысль, направленная на тебя;  
 Только к тебе устремлено мое желание, о многопризываемый,  

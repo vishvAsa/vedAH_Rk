@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ त्य꣡च् च꣡क्षुर् म꣡हि मित्र꣡योर् आँ꣡  
 ए꣡ति प्रियं꣡ व꣡रुणयोर् अ꣡दब्धम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रुक्मो꣡ न꣡ दिव꣡ उ꣡दिता वि꣡ अद्यौत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । शुचि॑ । द॒र्श॒तम् । अनी॑कम् । रु॒क्मः । न । दि॒वः । उत्ऽइ॑ता । वि । अ॒द्यौ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -127,19 +127,19 @@ genre M
 **त्यत्** तत् प्रसिद्धं **चक्षुः** प्रकाशकं **महि** महत् विस्तृतं **मित्रयोः** ”वरुणयो: ”प्रियं । मित्रशब्दो वरुणशब्दश्च इतरेतरयोगात् मित्रावरुणावुभावप्याचष्टे। मित्रावरुणयोः प्रियम् **अदब्धं** रक्षोभिरहिंसितं **शुचि** शुद्धं निर्मलं **दर्शतं** दर्शनीयम् । एवंभूतम् **ऋतस्य** आदित्यस्य **अनीकं** तेजः **आ** सर्वेषामभिमुखम् **उत्** **एति** उद्गच्छति । **उदिता** उदितौ सूर्यस्योदये सति उदितं तत्तेजः **दिवः** अन्तरिक्षस्य **रुक्मो** **न** भूषणमिव **व्यद्यौत्** विद्योतते । प्रकाशते  ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The expansive, illuminating, unobstructive, pure, and beautiful radiance of the sun, grateful to **Mitra** and **Varuṇa**, having risen, shines like the ornament of the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up goes this great eye of Mitra and of Varuṇa—dear and undeceivable. The blazing, sightly face of truth has flashed forth on its rising like the  bright ornament of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The full realization of the dual dvandva mitrā́-váruṇā- as two independent dual genitives separated by a pāda-break and several words -- mitráyoḥ … váruṇayoḥ
 
@@ -148,23 +148,23 @@ The full realization of the dual dvandva mitrā́-váruṇā- as two independent
 I do not understand the pāda-final ā́(m̐). Generally in this position ā́follows an abl., reinforcing the meaning “von … her” (see Grassmann col. 169), or a loc. But mitráyoḥ is of course not an abl., and, though it could grammatically be a loc., by sense it can only be a gen. It seems pleonastic+++(=redundant)+++ -- perhaps added to allow a Triṣṭubh cadence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT mighty eye of Varuna and Mitra, infallible and dear, is moving upward.  
      The pure and lovely face of holy Order hath shone like gold of heaven in its arising.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da kommt das große Auge des Mitra, das liebe, untrügbare des Varuna herauf. Das reine, gern gesehene Bild des Gesetzes ist im Aufgang wie ein Goldschmuck des Himmels aufgeblitzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf geht dies grosse, holde, unversehrte, das Auge nun des Varuna und Mitra; Des heil'gen helles, sehenswerthes Antlitz, beim Aufgang glänzte wie des Himmels Gold es.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот выходит этот великий глаз Митры,  
 Приятный (глаз) Варуны, не допускающий обмана.  

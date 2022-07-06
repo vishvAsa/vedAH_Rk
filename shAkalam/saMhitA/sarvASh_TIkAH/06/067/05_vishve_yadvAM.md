@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे य꣡द् वाम् मंह꣡ना म꣡न्दमानाः  
 क्षत्रं꣡ देवा꣡सो अ꣡दधुः सजो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡न्ति स्प꣡शो अ꣡दब्धासो अ꣡मूराः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 परि॑ । यत् । भू॒थः । रोद॑सी॒ इति॑ । चि॒त् । उ॒र्वी इति॑ । सन्ति॑ । स्पशः॑ । अद॑ब्धासः । अमू॑राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -122,7 +122,7 @@ genre M
 **विश्वे** सर्वे **देवासः** देवाः **सजोषाः** परस्परं प्रीतियुक्ताः **यत्** यौ **वां** युवां **मंहना** महत्त्वेन **मन्दमानाः** स्तुवन्तः **क्षत्रं** बलम् **अदधुः** धत्तवन्तः। किंच **यत्** यौ युवाम् **उर्वी** विस्तीर्णे **रोदसी** द्यावापृथिव्यौ **परि** **भूथः** परिभवथः तयोर्युवयोः **अदब्धास**; अहिंसिताः **अमूराः** अमूढाः **स्पशः** रश्मयश्चरा वा **सन्ति** ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Your courses: spaśo adabdhāso amūrā: spaśaḥ = raśmayas **cāra** vā, rays, or perhaps, reins, or goings, which are ahisita, uninjured, amūḍha, not bewildered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since all the gods in concert, being exhilarated, magnanimously  established dominion for you two,  
 such that you two surround even the two wide world-halves, there exist  spies (in your service), undeceivable, ungullible.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is refreshingly straightforward, even though the main cl. of d seems something of an irrelevancy after the grand statements in abc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As all the Gods in their great joy and gladness gave you with one accord your high dominion,  
      As ye surround both worlds, though wide and spacious your spies are ever true and never bewildered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da alle Götter euch einmütig und bereitwillig frohlockend die Herrschaft bestimmten, daß ihr sogar die beiden weiten Welthälften in Obhut nehmen sollet, so stehen euch untrügliche, kluge Späher zu Diensten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da alle Götter im Verein euch willig und hocherfreut die Herrschaft zugestanden, Da ihr umfangt die beiden weiten Welten, so sind euch Späher, weise und untrüglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда все боги, безудержно ликуя,  
 Наделили вас властью, (они,) единодушные,  

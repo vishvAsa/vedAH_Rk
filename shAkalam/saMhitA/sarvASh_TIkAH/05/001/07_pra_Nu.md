@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ णु꣡ त्यं꣡ वि꣡प्रम् अध्वरे꣡षु साधु꣡म्  
 अग्निं꣡ हो꣡तारम् ईळते न꣡मोभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡त्यम् मृजन्ति वाजि꣡नं घृते꣡न
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आ । यः । त॒तान॑ । रोद॑सी॒ इति॑ । ऋ॒तेन॑ । नित्य॑म् । मृ॒ज॒न्ति॒ । वा॒जिन॑म् । घृ॒तेन॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -123,42 +123,42 @@ genre M
 **त्यं** तम् **अग्निं** **नमोभिः** स्तुतिभिः **नु** क्षिप्रं **प्र** **ईळते** स्तुवन्ति। कीदृशं तम् । **विप्रं** मेधाविनम् **अध्वरेषु** **साधुं** फलसाधकं **होतारं** होमनिष्पादकम् । **यः** देवः **रोदसी** द्यावापृथिव्यौ **ऋतेन** उदकेन **आ** **ततान** विस्तारितवान् । अग्नौ प्रास्ताहुतेरादित्यद्वारा वृष्ट्युत्पादकत्वात् । अथवा ऋतेन सत्यभूतेन हविषा दिवं तथाभूतेन वृष्ट्यादिफलेन भुवं च आततान । **वाजिनम्** अन्नवन्तं देवं यजमानाः **नित्यं** **घृतेन** उदकेनाज्येन वा **मृजन्ति** परिचरन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They glorify at present withhymns that **Agni** who is intelligent, the fulfiller (of desires) at sacrifices, the offer of oblations, who has charged heaven and earth with water, and whom they always worship with clarified butter as the bestower of food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now they summon forth this inspired one bringing success in the rites,  Agni the Hotar, with their acts of reverence.  
 They groom with ghee their own prizewinning steed, who stretches  
 through the two world-halves by truth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Singer excellent at sacrifices, Agni the Priest, they glorify with homage.  
      Him who spread out both worlds by Law Eternal they balm with oil, strong Steed who never faileth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They magnify with adorations that priest efficacious at sacrifices, Agni the Hotri, who has spread himself over heaven and earth according to Rita; they groom (Agni), the own racer (of men), with Ghrita.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen redekundigen, im Opfer tüchtigen Agni berufen sie jetzt unter Verbeugung zum Hotri. Ihn, der Himmel und Erde durchzogen hat mit der Wahrheit, ihn putzen sie mit Schmalz heraus wie ein eigenes Rennpferd.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie preisen diesen weisen bei den Festen den guten Priester Agni nun mit Ehrfurcht, Der beide Welten füllt mit heil'gem Glanze, mit Butter schmücken sie das stete Streitross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сейчас этого вдохновенного, достигающего цели во время обрядов  
 Агни с поклонениями призывают как хотара.  

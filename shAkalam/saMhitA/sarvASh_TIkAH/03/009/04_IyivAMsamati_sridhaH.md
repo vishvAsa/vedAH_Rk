@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईयिवां꣡सम् अ꣡ति स्रि꣡धः  
 श꣡श्वतीर् अ꣡ति सश्च꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अप्सु꣡ सिंह꣡म् इव श्रित꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अनु॑ । ई॒म् । अ॒वि॒न्द॒न् । नि॒ऽचि॒रासः॑ । अ॒द्रुहः॑ । अ॒प्ऽसु । सिं॒हम्ऽइ॑व । श्रि॒तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īyivāṃsam* ← *i*
 - \[verb noun\], accusative, singular
@@ -99,39 +99,39 @@ genre M
 हे अग्ने अदुहोऽद्रोग्धारो निचिरासो नितरां चिरासश्चिरन्तना विश्वेदेवाः स्रिधः शोषकाञ्छत्रून्बलेनातिक्रम्येयिवांसं गच्छन्तं शश्वतीर्बह्वीः सश्चतः सङ्गतिकारणीः सेनाश्चात्यतिक्रम्य गच्छन्तमप्सु श्रितं तिरोहितमत एव सिंहमिव हुहाप्रविष्टं सिंहमिव भीममीमेनं त्वामन्वविन्दन् । अनुगम्या लभन्त । रयिवांसम् । इण् गतावित्यस्य क्वसावुपेयिवाननाश्वाननूचानश्च । पा.३-२-१०९ । इति निपातितः । प्रत्ययस्वरः । स्रिधः । स्रिधेः क्षयार्थस्य शोषणार्थस्य वा क्विप् चेति क्विप् । धातु स्वरः । सश्चतः । षस्ज गतौ । जकारस्य व्यत्ययेन चकारः । लटः शत्रादेशः । प्रत्ययस्वरः । अविन्दन् । विद्लृ लाभ इत्यस्य लङ् रूपम् । निचिरासः । नितरां चिराः । आज्जसेरसुगित्यसुक् । समासस्वरः । आद्रुहः । द्रुह जिघांसायाम् । सम्पादादित्वाद्भावे क्विप् । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । श्रितम् । श्रिञ् सेवायामित्यस्य त्र्युकः कितीतीट् प्रतिषेधः । प्रत्ययस्वरः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The benignant and long-lived deities have discovered you, **Agni**, when required to go against their constant and assembled foes, hidden in the waters like a lion (in a cave).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him who had gone beyond failures, beyond the ever-parched places— him did the watchful and undeceiving ones find resting in the waters like  a lion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who had passed beyond his foes, beyond continual pursuits, Him the unerring Ones, observant, found in floods, couched like a lion in his lair.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who has passed beyond (all) failures, beyond all hindrances 1, the guileless, watchful ones 2 have found him as a lion (is found), when he had gone into the Waters;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem er allen Fehlern und Mängeln entronnen war, fanden ihn die Aufmerksamen, nie Getäuschten wieder, der sich im Wasser versteckt hatte wie ein Löwe im Schlupfwinkel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der die Feinde überholt und die Bedränger allesammt, Ihn fanden achtsam, holdgesinnt die Götter auf, der löwengleich ins Wasser schritt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прошедшего через поражения,  
 Через постоянные неудачи  

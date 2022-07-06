@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्वो꣡ ग्रा꣡वा बृह꣡द् अग्निः꣡ स꣡मिद्धः  
 प्रिया꣡ धा꣡मानि अ꣡दितेर् उप꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विदु꣡ष्टरा द्र꣡विणम् आ꣡ यजेथाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 पु॒रःऽहि॑तौ । ऋ॒त्वि॒जा॒ । य॒ज्ञे । अ॒स्मिन् । वि॒दुःऽत॑रा । द्रवि॑णम् । आ । य॒जे॒था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -114,36 +114,36 @@ genre M
 **ग्रावा** सोमाभिषवाय यदा **ऊर्ध्वः** उन्नतो भवति यदा च **बृहत्** महान् **अग्निः** **समिद्धः** हविर्भिः सम्यग्दीप्तो भवति तथा प्रियाणि देवानां सोमादिहविष्प्रदानेन प्रीणयितॄणि  **धामानि** हविषां धारकाणि यज्ञपात्राणि **अदितेः** पृथिव्याः **उपस्थे** यज्ञसदने यदासादितानि भवन्ति तदानीं  हे ऋत्विजौ दैव्यौ **पुरोहितौ** होतारौ पुरतो निहितौ **विदुष्टरा**। छान्दसं संप्रसारणम् । विद्वत्तमौ  युवाम् **अस्मिन्** **यज्ञे** **द्रविणं** धनम् **आ** **यजेथाम्** । यजिर्दानार्थः । अस्मभ्यमाभिमुख्येन प्रयच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(When) the grinding-stone is uplifted, the mighty **Agni** kindled, the acceptable vessels (ready) on thelap of earth; (then), most learned priests, who take the foremost plural ce, bestow wealth upon us at this sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressing stone is upright; the fire has been loftily kindled: their own  dear domains are in the lap of Aditi [=ritual ground?].  
 You two priests—placed in front at this sacrifice, win material wealth by  sacrifice, as the two who know better.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Up stands the stone, high burns the fire enkindled: Aditi's lap contains the Friendly Natures  
      Ye Two Chief Priests who serve at this our worship, may ye, more skilled, win for us rich possessions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Preßstein ist aufgerichtet, Agni ist hoch entflammt, die lieben Sachen sind im Schoße der Aditi. Ihr beiden Opferpriester sollt als die Bevollmächtigten, Kundigeren bei diesem Opfer Reichtum erbitten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hoch schwebt der Pressstein, hell entflammt ist Agni, lieb sind im Schooss der Aditi die Sitze; Ihr Priester, beide opfernd hier zur Festzeit, ihr weisheitsreichen opfert her uns Schätze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоко вверх (поднят) давильный камень, зажжен огонь.  
 Приятны установления в лоне Адити.  

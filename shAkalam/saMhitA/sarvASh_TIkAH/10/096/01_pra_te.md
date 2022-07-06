@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते महे꣡ विद꣡थे शंसिषं ह꣡री  
 प्र꣡ ते वन्वे वनु꣡षो हर्यत꣡म् म꣡दम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ त्वा विशन्तु ह꣡रिवर्पसं गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 घृ॒तम् । न । यः । हरि॑ऽभिः । चारु॑ । सेच॑त । आ । त्वा॒ । वि॒श॒न्तु॒ । हरि॑ऽवर्पसम् । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -142,36 +142,36 @@ genre M
 हे इन्द्र **ते** तव **हरी** अश्वौ **महे** महति **विदथे** यज्ञे **प्र** **शंसिषम्** अशंसिषम् । अस्ताविषम्। तथा **वनुषः** । वनु हिंसायाम्' । हिंसकस्य **ते** तव **हर्यतम्** । ‘हर्य गतिकान्त्योः ' । तस्यौणादिकोऽतच् । चित्स्वरेणान्तोदात्तः । कमनीयं **मदं** **प्र** **वन्वे** प्रयाचेऽस्मदभिमतम् ।' वनु याचने'। **यः** इन्द्रः **हरिभिः** हरितवर्णैरश्वैः मद्यागं गत्वा **चारु** चरणीयं **घृतं** न घृतमिव सुपूतमुदकं **सेचते** वर्षति तं तादृशं **हरिवर्पसम्**। वर्प इति रूपनाम । हरितरूपं **त्वा** त्वाम् **आ** **विशन्तु** **गिरः** अस्मदीयाः स्तुतिवाचस्तव मदाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I glorified your bay horses, **Indra**, at the great sacrifice. I solicit the agreeable exhilaration of you, thedestroyer. May my praises attain to you, whose form is yellow, who, with your horses, shower (water) likebeautiful butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I proclaim your two golden (horses) at the great rite of distribution.  I prevail over the gladdening, exhilarating drink for you who are eager  for it,  
 the drink which, like ghee, drips with golden (drops). Let the songs enter  you, whose form is golden.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In the great synod will I laud thy two Bay Steeds: I prize the sweet strong drink of thee the Warrior-God,  
      His who pours lovely oil as 'twere with yellow drops. Let my songs enter thee whose form hath golden tints.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will in großer Opferrede dein Falbenpaar preisen. Ich habe Gewinn von deinem Rauschtrank, der dir, dem Eifrigen, lieb ist, der schön wie Schmalz mit dem goldgelben Somatropfen eingegossen wird. Dir, dem Goldgestaltigen, sollen die Lobesworte zu Herzen gehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein goldnes Rosspaar preis' ich nun beim grossen Fest, und rühme deinen holden Trank, des kämpfenden, Der schöner Butter gleich in goldnen Tropfen fliesst, in dich den goldnen schönen dring' der Liederklang,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На большой жертвенной раздаче я хочу восхвалить пару твоих буланых коней.  
 Я ценю пьянящий напиток, желанный для тебя, ревностного,  

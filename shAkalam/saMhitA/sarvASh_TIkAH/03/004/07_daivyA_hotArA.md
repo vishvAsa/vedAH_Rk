@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दइ꣡व्या हो꣡तारा प्रथमा꣡ नि꣡ ऋञ्जे  
 सप्त꣡ पृक्षा꣡सः स्वध꣡या मदन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु व्रतं꣡ व्रतपा꣡ दी꣡धियानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒तम् । शंस॑न्तः । ऋ॒तम् । इत् । ते । आ॒हुः॒ । अनु॑ । व्र॒तम् । व्र॒त॒ऽपाः । दीध्या॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daivyā* ← *daivya*
 - \[noun\], accusative, dual, masculine
@@ -128,7 +128,7 @@ genre M
 दैव्यादिव्यौ प्रथमाप्रथमौमुख्यौ होतारा अह्वातारौ अग्नी न्यृञ्जे प्रसाधयामि ऋतमुद- कंशंसन्तः आशंसमानाः सप्तपृक्षासःपृक्षमन्नं तद्वन्तऋत्विजः तमग्निंस्वधयासोमेनहविषामदन्ति मादयन्ति व्रतपाः व्रतानाङ्कर्मणांरक्षितारः दीध्यानादीप्यमानाः अथवास्वकर्मभिरग्निन्दीपयन्तः ऋत्विजः अनुव्रतं व्रतेषुऋतमित् अग्निमेवमाहुः अग्निमेवऋतभूतमाहुरित्यर्थः एवकारार्थे इच्छब्दः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,35 +140,35 @@ As identifiable with water: ṛtam it ta āhuḥ = agnim eva ṛtabhūtam āhu�
 it may mean truth; in the preceding phrase, ṛtam śansanta = udakam, desirous or expectant of water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I direct the two foremost Divine Hotars downward. The seven (priests),  giving strength, become exhilarated by their own will.  
 Reciting the truth, they speak just the truth, reflecting upon their  
 commandments as the protectors of commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I crave the grace of heaven's two chief Invokers: the seven swift steeds joy in their wonted manner.  
      These speak of truth, praising the truth eternal, thinking on Order as the guards of Order.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 I catch hold of the two divine Hotris first. The seven strong ones 1 rejoice according to their wont. Teaching the right, they proclaim the right, the guardians of law, contemplating the law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden ersten göttlichen Opferpriester nötige ich zum Kommen. Die sieben Lebenskräftigen ergötzen sich nach eigenem Ermessen. Die Wahrheit gelobend sprechen sie nur die Wahrheit, als Hüter des Gesetzes über das göttliche Gesetz nachsinnend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götterpriester mach' ich hold zuerst mir; die sieben Rosse freuen recht nach Lust sich; Die Wahrheit preisend sprachen selbst sie Wahrheit, die Bräuche schützend achten sie der Bräuche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двух первых божественных  
 хотаров  

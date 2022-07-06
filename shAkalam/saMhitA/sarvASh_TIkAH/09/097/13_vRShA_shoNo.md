@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा शो꣡णो अभिक꣡निक्रदद् गा꣡  
 नद꣡यन्न् एति पृथिवी꣡म् उत꣡ द्या꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रचेत꣡यन्न् अर्षति वा꣡चम् ए꣡मा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑स्यऽइव । व॒ग्नुः । आ । शृ॒ण्वे॒ । आ॒जौ । प्र॒ऽचे॒तय॑न् । अ॒र्ष॒ति॒ । वाच॑म् । आ । इ॒माम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -122,20 +122,20 @@ genre M
 शोणः शोणवर्णोवृषा कश्चिद्वृषभः गाः पशून् अभिकनिक्रदत् अभिलक्ष्य शब्दङ्करोति । एवं गाः स्तुतीः विश्रयणार्थं पयसोदोग्ध्रीर्धेनूः वा अभिकनिक्रदत् अभिशब्दायमानः तदे- वाह नदयन् शब्दमुत्पादयन् सोमः पृथिवीं उतापिच द्यां एतौलोकौ एति गच्छति । किञ्च वग्नुः वाङ्नामैतत् तस्य वाक् सुशब्दः आजौ सङ्ग्रामे इन्द्रस्येव इन्द्रस्यशब्दइव आश्रृण्वे सर्वैः श्रूयते । ततः प्रचेतयन् आत्मानं सर्वेषां प्रज्ञापयन् इमां वाचमार्षति समं- ताद्गमयति उच्चैः शब्दायतेइत्यर्थः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Calling out for the praises like) a red bull bellowing after the kine; the **Soma** goes with a roar through heaven and earth; (his voice) is heard as the voice of **Indra**, manifesting (himself) he raises this voice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy bull keeps roaring at the cows; bellowing he goes to heaven  and earth.  
 His voice, like Indra’s, is heard at the contest. He rushes, making this  speech perceptible here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The part. nadáyan here (as well as the other 2 forms of this stem) is universally taken as a trans.-caus. ‘causing to resound’ with Heaven and Earth as obj.
 
@@ -158,23 +158,23 @@ The poet is supposed to be Upamanyu Vāsiṣṭha, presumably following up on th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Red Bull bellowing to the kine advances, causing the heavens and earth to roar and tbunder.  
      Well is he beard like Indra's shout in battle: letting this voice be known he hastens hither.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der rote Stier, der den Kühen entgegenbrüllt, geht Erde und Himmel erdröhnend machend. Man hört seine Stimme wie die Indra´s im Kampfe; er rinnt, indem er diese Rede offenbart.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der rothe Stier den Küh'n entgegenbrüllend, geht mit Getön erfüllend Erd' und Himmel, Man hört im Kampf ihn wie des Indra Brausen, er strömt herbei, auch dieses Lied erweckend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рыжий бык громко заревел коровам,  
 Он движется, заставляя греметь землю и небо.  

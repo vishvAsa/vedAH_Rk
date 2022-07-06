@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इत्था꣡ य꣡था त ऊत꣡ये  
 स꣡हसावन् दिवे꣡-दिवे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वीरइः꣡ स्याम सधमा꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 रा॒ये । ऋ॒ताय॑ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो । गोभिः॑ । स्या॒म॒ । स॒ध॒ऽमादः॑ । वी॒रैः । स्या॒म॒ । स॒ध॒ऽमादः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *itthā*
 - \[adverb\]
@@ -113,41 +113,41 @@ genre M
 हे **सहसावन्** बलवन्नग्ने **दिवेदिवे** अन्वहं वयं **ते** तव **ऊतये** रक्षणाय **यथा** स्याम तथा **इत्था** इत्थं कुरु । हे **सुक्रतो** **राये** धनाय **ऋताय** यज्ञाय च यथा **स्याम** तथा कुरु । किंच वयं **गोभिः** **सधमादः** सह माद्यन्तः **स्याम** । **वीरैः** पुत्रैश्च **सधमादः** सह माद्यन्तः स्याम । तथा कुरु ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Possessor of strength, day by day so (provide) that we may enjoy your protection; doer of good deeds, may we (be deserving) of wealth through sacrifice, and may we be happy with cattle, happy with **male** descendants.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As (we strive) in this way for your help day after day, o powerful one, for wealth and for truth, o you of strong will, we your feasting  
 companions would be united with cattle and we would be united with  heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here as is needful for thine aid we toil, O Conqueror, day by day,  
      For wealth, for Law. May we rejoice, Most Wise One! at the feast, with kine, rejoice, with heroes, at the feast.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 So that we, O strong one, (may be ready) for thy favour, for wealth and Rita, O highly wise one: thus may we day by day rejoice 1 with cows and rejoice with heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mach es so, daß wir Tag für Tag, du Gewaltiger, zu deiner Gnade, zum Reichtum, zum rechten Werke recht seien, du Einsichtsvoller. Wir wollen mit Kühen froh vereint sein, mit Söhnen froh vereint sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie gern wir wirken Tag für Tag, um dich zu laben, starker Gott, So sein zu echtestem Besitz auch wir, o weiser, heerdenreich und reichbegabt mit Heldenschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Сделай) так, чтобы день за днем,  
 О могучий, (мы могли рассчитывать) на твою  

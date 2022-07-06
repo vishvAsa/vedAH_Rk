@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡ त उ꣡पेतिर् म꣡नसो व꣡राय  
 भु꣡वद् अग्ने शं꣡तमा का꣡ मनीषा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 के꣡न वा ते म꣡नसा दा᳐शेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 कः । वा॒ । य॒ज्ञैः । परि॑ । दक्ष॑म् । ते॒ । आ॒प॒ । केन॑ । वा॒ । ते॒ । मन॑सा । दा॒शे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
@@ -137,20 +137,20 @@ genre M
 हे **अग्ने** **ते** तव **मनसो** **वराय** निवारणाय अस्मास्ववस्थापनाय **का** **उपेतिः** **भुवत्** कीदृशमुपगमनं भवेत् । न काप्यस्ति । तवोचितमुपगमनं वयं कर्तुं न शक्नुमः इति भावः । **मनीषा** स्तुतिः **शंतमा** तवातिशयेन सुखकरी **का** कीदृशी भवेत् तवोचिता स्तुतिरपि नास्तीत्यर्थः । **को** **वा** यजमानः **यज्ञैः** तव संबन्धिभिर्यागैः **दक्षं** वृद्धिं बलं वा **परि** **आप** पर्याप्नोत् । न कोऽपीत्यर्थः । तवोचितान् योगाननुष्ठाय तैः फलं प्राप्यते इत्येतदपि दुर्घटमेवेति भावः । उपगमनादिकं तावदास्तां तस्य सर्वस्य साधनभूतं मन एवास्माकं दुर्लभमित्याह केनेति । हे अग्ने **ते** तुभ्यं **केन** **मनसा** कीदृश्या बुद्ध्या **दाशेम** हवींषि प्रयच्छाम । तवोपगमनाद्यनुरूपं मनोऽस्माकं नोत्पद्यते इत्यर्थः ॥ उपेतिः । ‘ तादौ च°' इति गतेः प्रकृतिस्वरत्वम् । वराय । **वृञ्** वरणे'। अस्मादन्तर्भावितण्यर्थात् ‘ ग्रहवृदृनिश्चिगमश्च ' ( पा. सू. ३. ३. ५८) इति अप् । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । भुवत् । लेटि अडागमः । बहुलं छन्दसि ' इति शपो लुक् । ‘ भूसुवोस्तिङि' इति गुणप्रतिषेधः । दक्षम् । दक्ष वृद्धौ ' । भावे करणे वा घञ् । ञित्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What approximation of the mind, **Agni**, to you, can be accomplished for our good; what can a hundred encomiums (effect); who, by sacrifices has obtained your might; with what intent may we offer you (oblations)?”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What reverent approach is to your heart’s desire? What inspired thought  will be the most beneficial, Agni?  
 Or, who attains your skill through his sacrifices? Or, with what mind  should we piously serve you?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As often, vā ‘or’ doesn’t present two balanced choices, but could be paraphrased as “or, to put it another way…” That is, it rephrases and varies (often substantially) a previous statement or question.
 
@@ -161,28 +161,28 @@ The first, in the phrase mánaso várāya, is idiomatic in English as “heart�
 The pf. of √āp can be used presentially (so also Kümmel, though not with ref. to this passage), and that value works best here: the focus in all four clauses is what we can do to best serve Agni, not what someone has done in the past.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How may the mind draw nigh to please thee, Agni? What hymn of praise shall bring us greatest blessing?  
      Or who hath gained thy power by sacrifices? or with what mind shall we bring thee oblations?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 What supplication is to thy mind's taste 1? What (pious) thought may be, O Agni, most agreeable to thee? Or who has won for himself thy wisdom by sacrifices? Or with what thoughts may we worship thee 2?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Aufwartung wird nach deines Herzen Wunsch sein, welche Dichtung am zusagensten? Oder wer tut mit Opfern deiner Wirksamkeit Genüge? Oder in welchem Sinn sollen wie dir spenden?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Nahen ist nach deines Herzens Wunsche? und welch Gebet am liebsten dir, o Agni? Wer hat durch Opfer deine Huld erworben? mit welchem Geiste sollen wir dir dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какой подход, о Агни, будет желанен  
 Духу твоему? Какая молитва – самой благодатной?  

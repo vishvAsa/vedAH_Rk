@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विदु꣡ष् टे अस्य꣡ वीरि꣡यस्य पूर꣡वः  
 पु꣡रो य꣡द् इन्द्र शा꣡रदीर् अवा꣡तिरः  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 मन्दसान꣡ इमा꣡ अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 म॒हीम् । अ॒मु॒ष्णाः॒ । पृ॒थि॒वीम् । इ॒माः । अ॒पः । म॒न्द॒सा॒नः । इ॒माः । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viduṣ* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -166,7 +166,7 @@ genre M
 “अवातिरः । किंच हे **इन्द्र** **तं** **मर्त्यं** मरणधर्माणम् **अयज्युम्** अयष्टारं यज्ञविघातिनं राक्षसादि **शासः** निगृहीतवानसि। हे **शवसस्पते** बलस्य पालकेन्द्र त्वं 'महीं महतीं **पृथिवीम्** **इमाः** **अपः** च समुद्रनद्यात्मकान्युदकानि च **अमुष्णाः** बलात् अपहृतवानसि । असुरैरन्यैर्वा यज्ञविद्वेषिभिः आक्रान्तां भूमिं तत्संबन्धिनीरपश्च तेषां पुराणि भित्त्वा अपहृतवानसीत्यर्थः । किं दुःखेन । नेत्याह । **मन्दसानः** हृष्यन्नेव **इमाः** **अपः** इमानि अप्कार्याणि व्रीह्याद्यन्नानि अमुष्णाः लब्धवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -177,7 +177,7 @@ genre M
 **Puraḥ** **śāradīḥ**, defended, for a year by walls, ditches and the like: **saṃvatsara** paryantam **prākāra**-parikhādibhir dṛḍhīkṛtāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Pūrus know of this manly deed of yours, o Indra, that you brought  down the autumnal strongholds—being victorious you brought  
 them down.  
@@ -185,31 +185,31 @@ You will chastise the mortal without sacrifice, o Indra, lord of strength. You s
 exhilarated, (you stole) these waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the word play across the pāda boundary of a-b: pūrávaḥ, púro. The same play is found in I.130.7a … púro … pūráve#, though not so neatly juxtaposed.
 
 In d tám is somewhat curiously positioned; it may have been displaced to allow the verb śā́sas to take initial position in order to echo sāsahānáḥ, which opens the previous pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This thine heroic power men of old time have known, wherewith thou breakest down, Indra, autumnal forts, breakest them down with conquering might.  
      Thou hast chastised, O Indra, Lord of Strength, the man who worships not,  
      And made thine own this great earth and these water-floods; with joyous heart these water-floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Puru´s kennen diese Heldentat von dir, da du, Indra, die herbstliche Burgen niederwarfst, als Bezwinger niederwarfst. Du, Indra, sollst den opferkargen Sterblichen züchtigen, du Herr der Stärke. Du stahlst ihm die große Erde, diese Gewässer, du somatrunken diese Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Menschen sahen diese deine Heldenkraft, als Indra du des Regens Burgen niederschlugst, mit Kraft bezwingend niederschlugst; Du straftest, Indra, Herr der Kraft, den Menschen, der nicht Opfer bringt; Dem grossen Erdraum raubtest diese Wasser du, die Wasser raubtest du voll Lust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пуру знают это твое героическое деяние,  
 Что ты, о Индра, разбил осенние крепости,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मो꣡ षु꣡ वरुण मृन्म꣡यं  
 गृहं꣡ राजन्न् अहं꣡ गमम्  
 मॄळा꣡+ सुक्षत्र मॄळ꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मृ॒ळ । सु॒ऽक्ष॒त्र॒ । मृ॒ळय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mo* ← *mā*
 - \[adverb\]
@@ -99,7 +99,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **राजन्** ईश्वर **वरुण** त्वदीयं **मृन्मयं** मृदादिभिर्निर्मितं **गृहं** **मो** मा उ मैव **अहं** **गमं** गतोऽस्मि । अपि तु **सु** शोभनं सुवर्णमयमेव त्वदीयं गृहं प्राप्नवानि । स त्वं मां **मृळ** सुखय । हे **सुक्षत्र** शोभनधन वरुण **मृळय** उपदयां च कुरु॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ May I never: mo ṣu gṛham mṛṇmayam gamam: (implied) tvadīyam, your; ṣu
 Ṣu = but to your beautiful house, i.e. one made ofgold; grant me happiness: mṛḷaya = show mercy
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O King Varuṇa, let me not go to the house of clay!  
 – Be merciful, o you whose dominion is great. Have mercy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET me not yet, King Varuna, enter into the house of clay:  
      Have mercy, spare me, Mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich möchte ja nicht in das irdene Haus eingehen, König Varuna. Verzeih, guter Herrscher, gib Verzeihung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht möcht' ich in der Erde Haus schon gehn, o König Varuna, Sei gnädig, Herrscher, und vergib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не хотел бы я, о Варуна,  
 Уходить в земляной дом, о царь.  

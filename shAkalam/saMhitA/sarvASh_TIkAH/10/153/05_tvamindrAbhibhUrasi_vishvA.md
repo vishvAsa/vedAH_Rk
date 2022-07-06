@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इन्द्राभिभू꣡र् असि  
 वि꣡श्वा जाता꣡नि ओ꣡जसा  
 स꣡ वि꣡श्वा भु꣡व आ꣡भवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular
 सः । विश्वाः॑ । भुवः॑ । आ । अ॒भ॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -86,37 +86,37 @@ popular
 हे **इन्द्र** **त्वं** **विश्वा** सर्वाणि **जातानि** जनिमन्ति भूतानि **ओजसा** बलेन **अभिभूरसि** अभिभविता भवसि। तथा **सः** तादृशस्त्वं **विश्वा** **भुवः** सर्वा भूमीः प्राप्तव्यानि सर्वाण्यपि स्थानानि **आभवः** अभितः प्राप्नोः। भू प्राप्तौ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, overpower all beings by your might, you have reached all worlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra, dominate all created things by your might.  
 You came into being throughout all the worlds.  
 1638 X.154–155
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, art preeminent over all creatures in thy might:  
      Thou hast pervaded every place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, bist allen Geschöpfen an Stärke überlegen. In alle Räume hast du dich erstreckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An Kraft, o Indra, überragst du alles, was geboren, ist, Du nahtest allen Orten dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, превосходишь  
 Все существа силой.  

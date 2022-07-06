@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ द्वे꣡षो यो꣡तवइ꣡ नो गृणीमसि  
 अग्निं꣡ शं꣡ यो꣡श् च दा꣡तवे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 भु꣡वद् व꣡स्तुर् ऋषूणा᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वा॑सु । वि॒क्षु । अ॒वि॒ताऽइ॑व । हव्यः॑ । भुव॑त् । वस्तुः॑ । ऋ॒षू॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -123,37 +123,37 @@ genre M
 **अग्निं** **नः** अस्माकं **द्वेषः** द्वेष्टॄन् **योतवै** पृथक्कर्तुं **गृणीमसि** गृणीमः स्तुमः । तथा **अग्निं** **शं** सुखं **योश्च** भयानाममिश्रणं च **दातवे** दातुम् । अथवा शं सुखस्य योर्मिश्रणाय च गृणीमसि । अस्मिन् पक्षे द्वेषो योतवा इत्यनेन सह समुच्चयार्थश्चशब्दः । सोऽग्निः **विश्वासु** सर्वासु **विक्षु** प्रजासु **अवितेव** रक्षिता राजेव **ऋषूणाम्** ऋषीणामस्माकं **वस्तुः** वासको देवः **हव्यो** **भुवत्** भवतु । अथवा सर्वासु विक्षु यजमानरूपासु प्रजासु मध्य ऋषूणामृषीणां सूक्तद्रष्टॄणामस्माकमेव हव्यो भवतु वस्तुः सर्वस्य वासको देवः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We praise **Agni** that he may keep off our enemies; we praise Agni that he may give us joy and security;he may be worshipped as the giver of dwellings to the ṛṣis; he who is as it were the protector of all men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni we hymn to keep hatred away from us; Agni to give us luck and  lifetime.  
 In all the clans he will be the one to be invoked like a helper, the lighter  of the morning rays.  
 The next group consists of only three hymns, X.72–74 and has no real signature  features.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni we laud that he may keep our foes afar, Agni to give us health and strength.  
      Let him as Guardian be invoked in all the tribes, the lighter-up of glowing brands.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Agni loben wir, daß er die Feindschaft von uns fernhalte, den Agni, daß er uns Glück und Segen gebe. In allen Niederlassungen soll er wie ein Gönner anzurufen sein, der Erheller der Morgenstrahlen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni flehn wir, fortzutreiben unsern Feind, ihn, dass er gebe Heil und Glück, Den man als Helfer rufen muss in jedem Haus, er sei Entflammer hellen Lichts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

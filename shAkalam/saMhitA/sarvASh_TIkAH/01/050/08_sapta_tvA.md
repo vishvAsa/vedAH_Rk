@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सप्त꣡ त्वा हरि꣡तो र꣡थे  
 व꣡हन्ति देव सूरिय  
 शोचि꣡ष्केशं विचक्षण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 शो॒चिःऽके॑शम् । वि॒ऽच॒क्ष॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
@@ -78,7 +78,7 @@ genre M
 हे **सूर्य** **देव** द्योतमान **विचक्षण** सर्वस्य प्रकाशयितः **सप्त** सप्तसंख्याकाः **हरितः** अश्वाः रसहरणशीला रश्मयो वा **त्वा** त्वां **वहन्ति** प्रापयन्ति। कीदृशम् । **रथे** अवस्थितमिति शेषः । तथा **शोचिष्केशम्** । शोचींषि तेजांस्येव यस्मिन् केशा इव दृश्यन्ते स तथोक्तः तम् । हरितः इति आदित्याश्वानां संज्ञा,  ‘ हरित आदित्यस्य ' (नि. १. १५. ३) इति निघण्टावुक्तत्वात् ॥ शोचिष्केशम् ।  ‘ शुच दीप्तौ ।' अर्चिशुचिहुसृपि ' इत्यादिना इसिप्रत्ययान्तः अन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते । नित्यं समासेऽनुत्तरपदस्थस्य ' इति विसर्जनीयस्य षत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,12 +89,12 @@ genre M
 Sapta **haritaḥ** = seven rays; seven horses = seven days of the week; or, is there an allusion to seven scattered prismatic rays?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-gazing god Sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘flamehaired’ is otherwise only of Agni.
 
@@ -110,28 +110,28 @@ I assume that the seven mares of vs. 8 are the same as the sleek daughters (śun
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Seven Bay Steeds harnessed to thy car bear thee, O thou farseeing One,  
      God, Surya, with the radiant hair.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The seven bay mares that draw thy car, Bring thee to us, far-seeing god, O Sūrya of the gleaming hair.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sieben Falbinnen fahren dich zu Wagen, Gott Surya, den Flammenhaarigen, du Weitschauender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichthaarigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Семь рыжих кобылиц везут тебя,  
 Пламенновласого, на колеснице,  

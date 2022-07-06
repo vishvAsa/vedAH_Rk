@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् एता꣡न् रुदतो꣡ ज꣡क्षतश् च  
 अ꣡योधयो र꣡जस इन्द्र पारे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ सुन्वत꣡ स्तुवतः꣡ शं꣡सम् आवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अव॑ । अ॒द॒हः॒ । दि॒वः । आ । दस्यु॑म् । उ॒च्चा । प्र । सु॒न्व॒तः । स्तु॒व॒तः । शंस॑म् । आ॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -119,36 +119,36 @@ genre M
 हे **इन्द्र** **त्वं** **रुदतः** रोदनं कुर्वतः **जक्षतः** भक्षणं हसनं वा कुर्वतः **च** **एतान्** द्विविधानपि वृत्रानुचरान् **रजसः** **पारे** अन्तरिक्षस्य परभागे। रजःशब्दोऽन्तरिक्षवाची, लोका रजांस्युच्यन्ते  (निरु. ४. १९) इत्युक्तत्वात् । **अयोधयः** युद्धमकरोः युद्धेन मारितवानित्यर्थः। **दस्युम्** उपक्षयितारं वृत्रं **दिवः** **आ** द्युलोकादानीय **उच्चा** उत्कर्षेण **अवादहः** दग्धवानसि । वृत्रं सपरिवारं विनाश्य तत ऊर्ध्वं **सुन्वतः** सोमाभिषवं कुर्वतः **स्तुवतः** स्तोत्रं कुर्वतो यजमानस्य **शंसं** स्तुतिं **प्र** **आवः** प्रकर्षेण रक्षितवानसि ॥ रुदतः । ‘रुदिर् अश्रुविमोचने'। लटः शतृ । अदादित्वात् शपो लुक् । प्रत्ययस्वरेणान्तोदात्तत्वम् । ‘शतुरनुमः' इति शस उदात्तत्वम् । जक्षतः ।  ‘ जक्ष भक्षहसनयोः । पूर्ववत् शपो लुक् ।' जक्षित्यादयः षट् ' (पा. सू. ६. १. ६) इति अभ्यस्तसंज्ञा । अतः  ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । सुन्वतः । सुनोतेः शतरि ‘स्वादिभ्यः श्नुः । हुश्नुवोः ' इत्यादिना यणादेशः ।  ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् । स्तुवतः ।  ‘ ष्टुञ् स्तुतौ । अदादित्वात् शपो लुक् । उवङादेशः । पूर्ववत्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have destroyed them, **Indra**, whether weeping or laughing, on the farthest verge of the sky; you have consumed the robber, (having dragged him) from heaven, and have received the praises of the worshipper, praising you and offering libations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You set them to fighting, those wailing and those laughing, on the far  edge of the dusky realm, Indra.  
 From heaven on high you sent fire burning down on the Dasyu; you  favored the recitation of the presser and the praiser.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whether they weep or laugh, thou hast o'erthrown them, O Indra, on the sky's extremest limit.  
      The Dasyu thou hast burned from heaven, and welcomed the prayer of him who pours the juice and lauds thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Indra stelltest jene Weinenden und Lachenden zum Kampfe am anderen Ende der Welt. Oben vom Himmel warfst du Feuer auf den Dasyu. Das Wort des Somapressenden und Preisenden hast du begünstigt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie mochten weinen, mochten lachen, Indra, du hast bekämpft sie an des Luftraums Ende; Vom Himmel hast du weggebrannt den Dämon und hast erfüllt den Wunsch des frommen Sängers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты этих рыдающих и хохочущих (врагов)  
 Поборол, о Индра, гоня их до края пространства.  

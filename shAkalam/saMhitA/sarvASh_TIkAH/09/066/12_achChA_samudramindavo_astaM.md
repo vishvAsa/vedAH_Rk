@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡छा समुद्र꣡म् इ꣡न्दवो  
 अ꣡स्तं गा꣡वो न꣡ धेन꣡वः  
 अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अग्म॑न् । ऋ॒तस्य॑ । योनि॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *acchā*
 - \[adverb\]
@@ -90,7 +90,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **इन्दवः** क्षरन्तः सोमाः **समुद्रं** सोमानामेकत्रैव संगमनस्थानं द्रोणकलशम् **अच्छ** अभि गच्छन्ति । तत्र दृष्टान्तः । **धेनवः** पयःप्रदानेन जनानां प्रीणयित्र्यो नवप्रसूतिकाः **गावः** **अस्तं** गृहं यथाभिगच्छन्ति तद्वत् । किंच ते सोमाः **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **अग्मन्** आभिमुख्येन गच्छन्ति । गमेर्लुङि सिचो लुक्युपधालोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -101,12 +101,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 To the ocean: the wooden vessel in which the Soma is collected
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward the sea have the drops gone, like milk-cows toward home, to the womb of truth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details open><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -116,23 +116,23 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like milch-kine coming home, the drops of Soma juice have reached the lake,  
      Have reached the place of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Meere sind die Säfte gekommen wie die Milchkühe nach Hause, zu ihrem ordnungsgemäßen Platz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des Opfers Schooss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

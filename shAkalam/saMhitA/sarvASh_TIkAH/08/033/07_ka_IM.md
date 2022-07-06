@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ ईं वेद सुते꣡ स꣡चा  
 पि꣡बन्तं क꣡द् व꣡यो दधे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मन्दानः꣡ शिप्री꣡ अ꣡न्धसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अ॒यम् । यः । पुरः॑ । वि॒ऽभि॒नत्ति॑ । ओज॑सा । म॒न्दा॒नः । शि॒प्री । अन्ध॑सः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -110,43 +110,43 @@ genre M
 **सुते** अभिषुते सोमे **सचा** ऋत्विजा सह सोमं **पिबन्तम्** **ईम्** एनमिन्द्रं **कः** **वेद** वेत्ति । न कोऽपि वेत्तीत्यर्थः । **कत्** किं वा **वयः** अन्नं **दधे** धारयति । **यः** **अयम्** इन्द्रः **शिप्री** हनूमान् **अन्धसः** सोमेन **मन्दानः** मन्दमानः **ओजसा** बलेन **पुरः** **विभिनत्ति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who knows him drinking with (the priests) when the **Soma** is effused? What food has he partaken of?He, the handsome-jawed, who, exhilarated by the (sacrificial) Soma, destroys cities by his might.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who recognizes him when he drinks when (the soma) is pressed? What  vigor has he assumed?  
 This is the one who splits strongholds with strength, the belipped one  getting exhilarated from the stalk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The presupposition behind the questions of ab seems to be that Indra becomes so formidable when he drinks soma that he becomes unrecognizable.
 
 Shape-shifting of heroes under such circumstances is widespread.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who knows what vital ower he wins, drinking beside the flowing juice?  
      This is the fair-checked God who, joying in the draught, breaks down the castles in his strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer kennt ihn beim Soma, wenn er trinkt, welche Stärke er annimmt? Er ist es, der die Burgen mit Kraft zerspaltet, wenn er mit geöffneten Lippen sich am Saft berauscht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer weiss es, wenn beim Somasaft er schwelget, welche Kraft er nimmt? Er, der die Burgen mit Gewalt in Stücke bricht, vom Trunk berauscht, der schlürfende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто познал его у выжатого сомы,  
 Когда он пьет: какую силу он обретает?  

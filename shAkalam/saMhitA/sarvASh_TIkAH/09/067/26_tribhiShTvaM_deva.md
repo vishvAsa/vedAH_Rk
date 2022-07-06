@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिभि꣡ष् ट्वं꣡ देव सवितर्  
 व꣡र्षिष्ठैः सोम धा꣡मभिः  
 अ꣡ग्ने द꣡क्षैः पुनीहि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । दक्षैः॑ । पु॒नी॒हि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tribhiṣ* ← *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, neuter
@@ -87,21 +87,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** स्तुत्य दीप्यमान वा हे **सवितः** सर्वस्य स्वस्वकर्मणि चोदयितर्हे **सोम** पवमानगुणविशिष्ट हे **अग्ने** **त्वं** **वर्षिष्ठैः** वृद्धतमैः अत एव **दक्षैः** सामर्थ्यवद्भिः **त्रिभिः** **धामभिः** शरीरैः अग्निवायुसूर्यात्मकैस्त्रिभिः शरीरैः **नः** अस्मान् **पुनीहि** परिशुद्धान् कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purify us, shining **Agni** **Pavamāna**, urger of all things, with your three most mighty powerful forms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the three purify us—you, god Savitar, with your greatest  
 (impulsions), you, Soma, through your greatest domains,  
 and you, Agni, with your skills.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Initial tribhíḥ matches initial ubhā́bhyām in 25a. Since ubhā́bhyām was further specified by a bipartite NP pavítreṇa savéna ca (25b), I would like to see three instr. in this vs., each correlated with one of the three gods mentioned. And this is how I have rendered it, with várṣiṣṭhaiḥ connected to Savitar (and Soma), dhā́mabhiḥ with Soma, and dákṣaiḥ with Agni. By contrast, Geldner and Renou construe várṣiṣṭhaiḥ with dhā́mabhiḥ, which they consider to be of three types (that is, “with the three highest dhā́mans …”; Renou “avec les trois positions les plus éminentes”) - although in their notes both come close to espousing a position close to mine. Possibly in their favor is the fact that soma is unaccented in b, and if várṣiṣṭhaiḥ is followed by a sub-clausal break, the voc. might (or might not) have been accented. In the published translation I read várṣiṣṭhaiḥ both with Savitar’s savaíḥ, which has to be supplied, and with Soma’s dhā́mabhiḥ, and tr. the latter slightly differently: “through Soma’s domains.”
 
@@ -118,23 +118,23 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleanse us, God Savitar, with Three, O Soma, with sublimest forms,  
      Agni, with forms of power and might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dreien läutere du uns, Gott Savitri, mit deinen höchsten Formen, o Soma, mit deinen Wirkenskräften läutere du uns, Agni!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die drei höchsten Satzungen Gott Savitar, o Soma du, Durch Weisheit lautre, Agni, mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о бог Савитар, тремя  
 Самыми высокими, о сома, формами,  

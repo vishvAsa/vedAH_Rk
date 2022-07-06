@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡च् छोचि꣡षा सहसस् पुत्र स्तुतो꣡  
 बृह꣡द् व꣡यः शशमाने꣡षु धेहि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मर्मृज्मा꣡ ते तनु꣡वम् भू꣡रि कृ꣡त्वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 रे॒वत् । अ॒ग्ने॒ । वि॒श्वामि॑त्रेषु । शम् । योः । म॒र्मृ॒ज्म । ते॒ । त॒न्व॑म् । भूरि॑ । कृत्वः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ucchociṣā* ← *ud*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 **सहसस्पुत्र** हे **अग्ने** **शोचिषा** स्वकीयया दीप्त्या **उत्** उद्दीप्यस्व । **स्तुतः** स्तोत्रशस्त्रसाधनभूतैर्मन्त्रैः स्तुतस्त्वं **शशमानेषु** । ' शशमानः शंसमानः ' ( निरु. ६. ८) इति यास्कः । त्वद्विषयशंसनं कुर्वाणेषु **विश्वामित्रेषु** विश्वामित्रगोत्रोत्पन्नेषु । विश्वं मित्रमस्येति विश्वामित्र एकः । एकस्मिन्बहुवचनं पूजार्थम् । तथाविधेष्वस्मासु **रेवत्** धनयुक्तं **बृहत्** प्रभूतं **वयः** । वयःशब्दः अन्नवाची । ‘ अर्कः वयः क्षद्म ' इत्यन्ननामसु पठितत्वात् । तादृशं प्रभूतमन्नं **धेहि** विधेहि । किंच **शं** रोगाणां उपशमनं चास्मासु धेहि । **योः** भयानां यावनम् अमिश्रणं च धेहि । ‘ शमनं च रोगाणां यावनं च भयानाम् ( निरु. ४, २१ ) इति यास्कः । **कृत्वः** अस्माभिः क्रियमाणस्य कर्मणः प्रयोजकत्वेन कर्तर्हे अग्ने **ते** तव **तन्वं** तनुं **भूरि** बहुवारं **मर्मृज्म** पुनः पुनः सोमाज्यपयःप्रभृतिभिः वयं सिञ्चामः ॥ शशमानेषु । **शश** प्लुतगतौ ' इत्ययं धातुरत्र स्तुत्यर्थः । ‘ ताच्छील्यवयोवचनशक्तिषु° ' इति चानश् । ‘ चितः' इत्यन्तोदात्तत्वम् । धेहि ।' डुधाञ् धारणपोषणयो: ' इत्यस्य लोटि रूपम् । रेवत् । रयिरस्यास्तीति मतुप् । ' ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् । ‘ छन्दसीरः' इति तस्य वत्वम् । ‘रयेर्मतौ बहुलं छन्दसि ' इति संप्रसारणम् । परपूर्वत्वम् । गुणः । विश्वामित्रेषु । ‘ मित्रे चपौं ' ( पा. सू. ६.३.१३० ) इति पूर्वपदस्य दीर्घत्वम् ॥ ‘ बहुव्रीहौ विश्वं संज्ञायाम् ' इति पूर्वपदान्तोदात्तत्वम् । मर्मृज्म । ‘ मृजूष् शुद्धौ ' इत्यस्य वर्तमाने लिटि उत्तमबहुवचने मसो मादेशः । ‘ अनित्यमागमशासनम् ' इतीडभावः । रेफश्छान्दसः । पादादित्वादनिघातः । प्रत्ययस्वरः । भूरि । ‘ भू सत्तायाम्'। अदिशदिभूशुभिभ्यः क्रिन्' इति क्रिन् । कित्वाद्गुणाभावः । नित्स्वरः । कृत्वः । ‘ डुकृञ् करणे '। संपदादित्वाद्भावे क्विप्  । तदस्यास्ति° ' इति मतुप् । झयः' इति तस्य वत्वम् । ‘ तसौ मत्वर्थे ' इति भसंज्ञायां तकारस्य जश्त्वाभावः । मतुवसो रु ० ' इति तकारस्य रुत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Upon the descendants of Viśvāmitra: viśvāmitreṣu, on the **Viśvāmitras**, or the plural ral may be used honorifically in the sense of the singular
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Flame) up with your flame, son of strength, when you are praised. Set  rising vigor upon those toiling;  
 (set) rich (vigor) upon the Viśvāmitras, o Agni, for their luck and life. We  have groomed your body many times.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Give with thy glow, thou Son of Strength, when lauded, great vital power to those who toil to serve thee.  
      Give richly, Agni, to the Visvamitras in rest and stir. Oft have we decked thy body.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 (Shining) forth with thy flame, O son of strength, praised (by us), bestow mighty vigour on those who toil for thee, bright luck and welfare, O Agni, on the Visvâmitras! We have cleaned thy body many times.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Flamm auf mit deiner Glut, du Sohn der Kraft, besungen; verleih denen, die den Opferdienst versehen, hohe Kraft, reichlich Glück und Heil den Visamitra´s, o Agni! Wir putzen vielmals deinen Leib.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gib grosse Kraft, o Agni, Sohn der Stärke, gepriesener, den Opfernden durch Lichtglanz, Und reiches Heil den Viçvamitrasöhnen, wir schmückten dir den Leib zu vielen malen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоко (взметнувшись) пламенем, о сын силы,  
 Прославленный, надели жизненной силой тех, кто трудится на жертвоприношениях!  

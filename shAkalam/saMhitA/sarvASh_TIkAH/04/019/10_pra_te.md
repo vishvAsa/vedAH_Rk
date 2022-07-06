@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते पू꣡र्वाणि क꣡रणानि विप्र  
 आ꣡विद्वाँ꣡ आह विदु꣡षे क꣡रांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पांसि राजन् न꣡रिया꣡विवेषीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यथा॑ऽयथा । वृष्ण्या॑नि । स्वऽगू॒र्ता । अपां॑सि । रा॒ज॒न् । नर्या॑ । अवि॑वेषीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -125,36 +125,36 @@ genre M
 हे **राजन्** राजमानेन्द्र **वृष्ण्यानि** वर्षणयोग्यानि **स्वगूर्ता** स्वगूर्तानि स्वयमुद्गीर्णानि **नर्या** नर्याणि मनुष्यहितानि **अपांसि** त्वत्संबन्धीनि कर्माणि **यथायथा** **अविवेषीः** व्याप्नोः । अकार्षीरिति यावत् । तथातथा हे **विप्र** प्राज्ञेन्द्र **विदुषे** विदुषः सर्वं जानतः **ते** त्वत्संबन्धीनि **पूर्वाणि** पुरातनानि **करणानि** कर्माणि **आविद्वान्** आ समन्ताज्जानन् वामदेवः **करांसि** त्वदीयानि कर्माणि **प्र** प्रकर्षेण **आह** ब्रवीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sage, (**Vāmadeva**), knowing, royal **Indra**, the ancient deeds of you who are all wise, has proclaimed the actions, such as you ahve performed them, genitive rative of rain, self-evolved, and beneficial to man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Knowing them, I speak forth your ancient deeds, o inspired one, to  (you) who know the deeds,  
 in just the way that you accomplished them, o king—the bullish and  manly labors welcomed for themselves.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To the wise man, O Sage and Sovran Ruler, the man who knoweth all thine ancient exploits.  
      Hath told these deeds of might as thou hast wrought them, great acts, spontaneous, and to man's advantage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine früheren Taten hat ein genauer Kenner der Tatsachen dem Eingeweihten verkündet, du Redekundiger, genau so wie du die sich selbst lobenden Krafttaten, die mannhaften Werke vollbracht hast, o König.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So hab', o Weiser, deine alten Thaten, die Werke kennend, ich gerühmt dem Kund'gen, So wie du, König, jede selbstwillkomm'ne und heldenstarke Mannesthat vollbracht hast.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твои прежние деяния сведущий вдохновенный  
 Провозгласил знающему толк в подвигах  

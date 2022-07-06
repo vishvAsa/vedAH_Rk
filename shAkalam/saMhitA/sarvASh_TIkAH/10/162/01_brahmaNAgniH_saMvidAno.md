@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणाग्निः꣡ संविदानो꣡  
 रक्षोहा꣡ बाधताम् इतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दुर्णा꣡मा यो꣡निम् आश꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 अमी॑वा । यः । ते॒ । गर्भ॑म् । दुः॒ऽनामा॑ । योनि॑म् । आ॒ऽशये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇāgniḥ* ← *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
@@ -103,7 +103,7 @@ popular;; epic anuṣṭubh (292)
 **ब्रह्मणा** मन्त्रेण सह **संविदानः** ऐकमत्यं प्राप्तः **रक्षोहा** रक्षसां हन्ता **अग्निः** **इतः** अस्मात्स्थानात् राक्षसादिकं **बाधतां**  हिनस्तु । **यः** राक्षसः **अमीवा** रोगरूपः सन् **ते** तव **गर्भम्** **आशये** आशेते । ' लोपस्त आत्मनेपदेषु ' इति तलोपः । हन्तुं प्राप्नोति । **दुर्नामा** अर्शआख्यो रोगः । तद्रूपः सन् यश्च ते तव **योनिं** रेतस आधानं गर्भस्थानमाशेते तं बाधतामित्यन्वयः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,29 +114,29 @@ popular;; epic anuṣṭubh (292)
 **Nirukta** 6.12:durṇāman = a worm, disease, haemorrhoids
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In concert with a sacred formulation let Agni, demon-smasher, repel  from here  
 whatever evil-named affliction lies on your embryo, in your womb.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 MAY Agni, yielding to our prayer, the Raksas-slayer, drive away  
      The malady of evil name that hath beset thy labouring womb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Einvernehmen mit dem Zauberwort soll Agni, der Unholdtöter, den Verrufenen von hier austreiben, der mit Krankheit auf deiner Leibesfrucht, in deinem Schoße liegt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In das Gebet einstimmend möge Agni, der Rakschastödter, von hier vertreiben die übelnamige Krankheit, die in deinem Mutterleibe und Schoosse haust.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В согласии со священным словом Агни  
 Убийца ракшасов пусть прогонит отсюда (того),  

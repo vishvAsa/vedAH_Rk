@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡म् पृछामि अवमं꣡  
 स꣡ त꣡द् दूतो꣡ वि꣡ वोचति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 क्व॑ । ऋ॒तम् । पू॒र्व्यम् । ग॒तम् । कः । तत् । बि॒भ॒र्ति॒ । नूत॑नः । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
@@ -137,7 +137,7 @@ genre M;; repeated line
 **यज्ञं** यजनीयम् **अवमं** सर्वेषां देवानामादिभूतम् ।  अग्निर्मुखं प्रथमो देवतानाम् ' ( ऐ. ब्रा. १.४) इति श्रुतेः । ‘अग्निर्वै देवानामवमः' (ऐ. ब्रा.१.१) इति ब्राह्मणाच्च । तमग्निं पृच्छामि। यन्मया पृष्टं **तत्** देवानां **दूतः** **सः** अग्निः **वि** **वोचति** विविच्य कथयतु । किं पुनस्तत् पृच्छ्यते इति चेत्, उच्यते । हे अग्ने त्वदीयं **पूर्व्यं** पूर्वकालीनम् **ऋतं** भद्रं स्तोतृभ्यः कृतं श्रेयः **क्व** **गतं** कुत्रेदानीं वर्तते । **नूतनः** नवतरस्त्वत्तोऽन्यः **कः** पुरुषः **तत्** भद्रं **बिभर्ति** धारयति । यदि त्वय्यवर्तिप्यत ममेदृशी दशापि नाभविष्यत् । अतस्तत् क्व गतमिति कथय । वोचति । वच परिभाषणे'। लेटि अडागमः। ‘ वच उम्' इति व्यत्ययेन धातोः उमागमः । क्व। ‘ किमोऽत्' (पा. सू. ५. ३. १२) इति सप्तम्यर्थे अत् । ‘ क्वाति ' ( पा. सू. ७. २. १०५ ) इति किमः क्वादेशः । ‘ तित्स्वरितम्' इति स्वरितत्वम् । परेण सह 'ऋत्यकः' इति प्रकृतिभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,35 +148,35 @@ genre M;; repeated line
 Agnir-vai devānām avamaḥ, the first-produced of all the gods (**Aitareya** **Brāhmaṇa** 1.1); agnir-mukham prathamo devatānām, Agni is the mouth, the first of the deities (Aitareya Brāhmaṇa 1.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I ask the nearest one [=Agni] about my sacrifice. Will the messenger  [=Agni] declare this:  
 Where has my earlier “truth” gone? Who bears it now?  
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take avamám as modifying yajñám, but I take it as referring to the addressee, namely Agni (more clearly identified by his messenger role in b, dūtáḥ), in the usual double acc. construction with √pṛch. For Agni as avamá- see IV.1.5 sá tváṃ no agne 'vamó bhavotī́. The poet asks Agni about the fate of the sacrifice/hymn (the “truth,” ṛtám) when it has been offered: where does it go and does anyone get and keep it (in heaven). He wants Agni to answer, because Agni, as the messenger, has access to both worlds.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I ask the last of sacrifice. As envoy he shall tell it forth.  
      Where is the ancient law divine? Who is its new diffuser now? Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich frage nach meinem jüngsten Opfer. Der Bote Agni soll das erklären: Wohin ist mein früheres rechtes Werk gekommen? Wer besitzt es neuerdings? - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich frage nach dem nächsten Fest, das künde dieser Bote mir: Wo ging das erste Opfer bin? wer ist es der es heute bringt? Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я спрашиваю о (моей) последней жертве.  
 Пусть объяснит это вестник (богов):  

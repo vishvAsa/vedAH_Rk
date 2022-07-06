@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ यो꣡ ममे꣡ यमि꣡या संयती꣡ म꣡दः  
 साकंवृ꣡धा प꣡यसा पिन्वद् अ꣡क्षिता  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभिव्र꣡जन्न् अ꣡क्षितम् पा꣡ज आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 म॒ही इति॑ । अ॒पा॒रे इति॑ । रज॑सी॒ इति॑ । वि॒ऽवेवि॑दत् । अ॒भि॒ऽव्रज॑न् । अक्षि॑तम् । पाजः॑ । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -119,14 +119,14 @@ genre M
 **यः** **मदः** । माद्यत्यनेनेति मदः सोमरसः । **यम्या** युगलभूते **संयती** परस्परं संगच्छमाने द्यावापृथिव्यौ **वि** **ममे** विशेषेण निर्मितवान् ततः ते **साकंवृधा** सहैव वर्धनशीले तथा **अक्षिता** अक्षीणे सामर्थ्यवत्यौ यथा भविष्यतः तथा स सोमः **पयसा** पयोरूपेण स्वीयरसेन **पिन्वत्** असिञ्चत् । अवर्धयदिति यावत् । किंच **मही** महत्यौ अत एव **अपारे** पर्यन्तरहिते **रजसी** । द्यावापृथिवीनामैतत् । ते द्यावापृथिव्यौ **विवेविदत्** । ‘ विद ज्ञाने ' । यङ्लुकि शतरि रूपम् । अभ्यासस्वरः । इयं पृथिवीयं द्यौरिति सर्वेषां विविच्य तेजसा प्रज्ञापयन् **अभिव्रजन्** अभितः सर्वतो गच्छन् स सोमः **अक्षितम्** अक्षीणमविनश्वरं **पाजः** बलम् **आ** ददे स्वीकृतवान् । अत्यन्तं बलवानभवदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The exhilarating (**Soma**) who constructed the twin united (heaven and earth) does by means of his juice maintain them growing together, imperishable; he has distinguished these two great unbounded worlds, wandering everywhere, he has assumed imperishable strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The exhilarating drink, which measured across the converging twin  sisters [=Heaven and Earth], swelled those two imperishable ones,  
 grown strong simultaneously, with imperishable milk.  
@@ -134,7 +134,7 @@ Continually rediscovering the two great, unbounded world-halves,
 advancing upon imperishable (space), he assumed his full dimension.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As indicated in the published introduction, this vs. significantly enlarges Soma’s domain: in vs. 2 he circles around the filter at the ritual; in vs. 3 he journeys across the two world halves, Heaven and Earth -- and in fact makes them swell up with his “imperishable milk” (the soma juice itself, presumably).
 
@@ -145,23 +145,23 @@ duduhré ákṣitam, though Oldenberg suggests the possibility that it would be 
 The root affiliation of the intens. part. vivévidat is disputed. Though Grassmann assigns it to √vid ‘find’, Geldner, Renou (explicitly in his n.), Lüders (228-29) take it to √vid ‘know’ (“Der … genau kennt”; “qui discernes”). I follow Schaef (183-84) (and Grassmann) in taking it to √vid ‘find’; the point, I think, is that at every soma-pressing Soma refinds and re-defines the domain he crosses, here encompassing the whole universe. It should be noted that the middle part. to this same intens. stem also governs rájasī in I.72.4 ā́ródasī brhat ̥ ī́vévidānāḥ, though I tr. it ‘ever possessing’ there. See comm. ad loc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The gladdening drink that measured out the meeting Twins fills full with milk the Eternal Ever-waxing Pair.  
      Bringing to light the Two great Regions limitless, moving above them he gained sheen that never fades.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rauschtrank, der die sich vereinigenden Zwillingsschwestern durchmessen hat, er läßt die beiden zusammen Aufgewachsenen von unverwüstlicher Milch quellen. Der die beiden großen endlosen Welten genau kennt, er nimmt bei seinem Kommen seine unverwüstliche Erscheinungsform an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Trank, durchmessend das vereinte Weltenpaar, erfüllt mit Milch die gleicherwachsnen ewigen; Als er die grossen unbegrenzten Bäume fand, so nahm hineilend Glanz er an, der nie vergeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пьянящий напиток, который измерил двух соединенных (сестер-) близнецов,  
 Выросших вместе, переполняет их непреходящим молоком.  

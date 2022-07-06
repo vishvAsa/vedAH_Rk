@@ -8,7 +8,7 @@ title = "+069"
 'इषुर्न' इति दशर्चं द्वितीयं सूक्तमाङ्गिरसस्य हिरण्यस्तूपस्यार्षं पवमानसोमदेवताकम् । नवमीदशम्यौ त्रिष्टुभौ । शिष्टा जगत्यः । तथा चानुक्रान्तम् - ' इषुर्न हिरण्यस्तूपोऽन्त्ये त्रिष्टुभौ ' इति । गतो विनियोगः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 69 (781)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ Attributed to the same poet as the author of the famous Indra hymn I.32 (and  in
 The middle verses (3–7) treat Soma’s journey across the filter to meet and mix  with the cows/milk. This mixture is described in increasingly elaborate images of  clothing in verses 4–5, ending with the cosmos as his garment (5cd). The journey is  completed in the first half of verse 7, and the hymn comes to a more conventional  ending with prayers for goods and aid.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/068-086.md">
 <details open><summary><h2>068-086 ...{Loading}...</h2></summary>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु प्रत्न꣡स्य ओ꣡कसो  
 हुवे꣡ तुविप्रतिं꣡ न꣡रम्  
 यं꣡ ते पू꣡र्वम् पिता꣡ हुवे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यम् । ते॒ । पूर्व॑म् । पि॒ता । हु॒वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -83,20 +83,20 @@ genre M
 **प्रत्नस्य** पुरातनस्य **ओकसः** स्थानस्य स्वर्गरूपस्य सकाशात् **तुविप्रतिं** बहून् यजमानान् प्रतिगन्तारं **नरं** पुरुषम् इन्द्रम् **अनु** हुवे अनुक्रमेण कर्मसु आह्वयामि । **यं** **ते** त्वाम् इन्द्रं **पिता** अस्मदीयो जनकः **पूर्वं** पुरा स्वकीयानुष्ठानकाले **हुवे** आहूतवान् । तम् आह्वयामीति पूर्वत्रान्वयः॥ ओकसः । ‘नब्विषयस्य' इत्याद्युदात्तत्वम् । हुवे । **ह्वेञ्** स्पर्धायां शब्दे च'। इटि ‘बहुलं छन्दसि' इति संप्रसारणं परपूर्वत्वम् । गुणे प्राप्ते ‘क्ङिति च ' इति प्रतिषेधः । उवङादेशः । प्रत्ययस्वरेणान्तोदात्तत्वम् । पादादित्वादनिघातः । तुविप्रतिम् । तुवीनां बहूनां प्रतिगन्तारम् । अत्र प्रतिशब्दो भीमसेनो भीम इतिवत् प्रतिगन्तृशब्दं लक्षयित्वा तद्द्वारा तदर्थं लक्षयति । अतः ‘प्रतिः प्रतिनिधिप्रतिदानयोः' (पा. सू. १. ४. ९२ ) इतिवत् सत्ववचनत्वेन अनिपातत्वात् अनन्ययत्वे ‘पूरणगुण' (पा. सू. २. २. ११) इत्यादिना न षष्ठीसमासनिषेधः । हुवे । ह्वेञो लिटि ‘बहुलं छन्दसि' इति पूर्ववत् संप्रसारणपरपूर्वत्वे। द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम् ' ( पा. सू. ६. १. ८. २ ) इति द्विर्वचनाभावः । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I invoke the man (**Indra**), who visits many worshippers from his ancient dwelling-plural ce--you, Indra, whom my father formerly invoked.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Following the (custom) of your ancient house, I call upon the excellent  man, powerful in opposition,  
 upon whom your father before called.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although huvé in c is morphologically problematic, its interpretation is imposed by context: a past-tense 3rd ps. ‘he called’. But this is the only 3rd ps. huvé (in contrast to over 70 exx. of 1st ps. huvé, -e), and it must be preterital not present, as huvé otherwise is. I have no explanation.
 
@@ -105,23 +105,23 @@ The referent of te ‘your’ in the same pāda is unclear. Assuming the relevan
 However, I.87.5 contains an occurrence of pratná- modifying father that seems to assert a similar entitlement to poetic speech by lineage: I.87.5 pitúḥ pratnásya jánmanā vadāmasi “We speak by virtue of our kinship with our primordial father.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I call him mighty to resist, the Hero of our ancient home,  
      Thee whom my sire invoked of old.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe nach alter Gewohnheit den Herrn, der viel aufwiegt, den früher dein Vater rief.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Herrn der alten Heimat ruf' ich an, der vielen widersteht, Und den zuvor mein Vater rief.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По давней привычке  
 Зову я мужа, сильного сопротивлением,  

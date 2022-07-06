@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ बाह꣡वा सुचेतु꣡ना  
 प्र꣡ यन्तम् अस्मा अ꣡र्चते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वि꣡श्वासु क्षा꣡सु जो꣡गुवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 शेव॑म् । हि । जा॒र्य॑म् । वा॒म् । विश्वा॑सु । क्षासु॑ । जोगु॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -97,35 +97,35 @@ genre M;; repeated line
 **ता** तौ युवां **बाहवा** बाहुना **सुचेतुना** सुष्ठु प्रज्ञात्रा । प्रयासभूयस्त्वं जानता इत्यर्थः । यद्यपि आत्मैव ज्ञाता न हस्तः तथापि तद्धर्ममत्रारोप्य स्तूयते । यद्वा एतत् तौ इत्यस्य विशेषणम् । सुज्ञानावित्यर्थः । शोभनहस्तेन **अस्मै** **अर्चते** स्तुवते मह्यं **प्र** **यन्तम्** अभिमतं सुखं प्रगमयतम्॥ अन्तर्भावितण्यर्थो द्रष्टव्यः । यमिर्दानकर्मा वा द्रष्टव्यः ॥ प्रयच्छतमित्यर्थः । जार्यं स्तुत्यं **शेवं** सुखं **वां** युवयोः संबन्धि युवाभ्यां कृतं वा **विश्वासु** सर्वासु **क्षासु** भूमिषु **जोगुवे** गच्छति व्याप्नोति । ' अवते गवते ' ( नि. २. १४, २८ ) इति गतिकर्मसु पाठात् अयमपि गतिकर्मा । अथवा जोगुवे सर्वत्र शब्दयामीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you two, with discriminating **hand**, bestow upon me, your worshipper, (what I desire); for the desirable felicity (that is given by you) spreads through all lands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let these two arms stretch forth with kind attention to him who chants, for again and again, in all places of the earth, I call on your benevolent  affection.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stretch out your arms with favouring love unto this man who singeth hymns,  
      For in all places is sung forth your evergracious friendliness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solche reichet eure Arme gnädig diesem Lobsänger, denn eure liebwerte Bekanntschaft ruft man in allen Wohnsitzen an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Liebe streckt die Arme vor zu diesem, der euch Lieder singt; Denn eure holde Freundlichkeit verkünde aller Orten ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Две такие благожелательные руки  
 Протяните этому воспевающему (вас)!  

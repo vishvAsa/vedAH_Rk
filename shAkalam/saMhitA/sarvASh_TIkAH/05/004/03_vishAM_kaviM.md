@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशां꣡ कविं꣡ विश्प꣡तिम् मा꣡नुषीणां  
 शु꣡चिम् पवाकं꣡+ घृत꣡पृष्ठम् अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ देवे꣡षु वनते वा꣡रियाणि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नि । होता॑रम् । वि॒श्व॒ऽविद॑म् । द॒धि॒ध्वे॒ । सः । दे॒वेषु॑ । व॒न॒ते॒ । वार्या॑णि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -123,7 +123,7 @@ genre M
 **मानुषीणां** **विशां** विश्पतिं सर्वासां मनुष्यरूपाणां प्रजानां पालकं स्वामिनं वा **कविं** मेधाविनं **शुचिं** शुद्धं दीप्तं वा **पावकम्** अन्येषां शोधकं **घृतपृष्ठं** प्रदीप्तपृष्ठोपलक्षितशरीरम् । अथवा उपरितनभागे आज्योपेतं **होतारं** होमनिष्पादकं **विश्वविदं** विश्वस्य वेत्तारम् **अग्निं** **नि** **दधिध्वे** धारयथ' हे ऋत्विजः। **सः** देवः **देवेषु** मध्ये **वार्याणि** वरणीयानि धनानि **वनते** संभजते अस्मदर्थम् । स्वयं वा वार्याणि हवींषि वनते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 The wise lord of human beings: in the first verse, the term used is: vasupatim vasunām, the lord of riches; here, we have viśām viśpatim, the lord of men, of men
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The poet of the clans, the clanlord of the (clans) of the sons of Manu,  blazing, purifying, ghee-backed Agni—  
 him have you all installed as the Hotar knowing all things. He will win  desirable rewards among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Sage of men, the Lord of human races, pure, purifying Agni, balmed with butter,  
      Him the Omniscient as your Priest ye stablish: he wins among the Gods things worth the choosing.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Establish Agni as the Hotri, the sage of the clans, the lord of human clans, the bright purifier, whose back is covered with ghee, the omniscient. May he obtain the best goods (for us) among the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den weisen Herrn der menschlichen Clane, den reinen, lauteren, schmalzrückigen Agni, den Allwissenden, habt ihr zum Hotri eingesetzt. Er möge von den Göttern erwünschte Gaben erlangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den weisen Hausherrn aller Menschenstämme, der hell erglänzt, den fettbedeckten Agni, Der alles weiss, ihn machtet ihr zum Priester, zu Göttern bringt er seine schönen Gaben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэта племен, господина племен человеческих,  
 Светлого, чистого, жирноспинного Агни  

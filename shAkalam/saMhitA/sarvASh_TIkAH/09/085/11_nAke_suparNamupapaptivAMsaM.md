@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ना꣡के सुपर्ण꣡म् उपपप्तिवां꣡सं  
 गि꣡रो वेना꣡नाम् अकृपन्त पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हिरण्य꣡यं शकुनं꣡ क्षा꣡मणि स्था꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शिशु॑म् । रि॒ह॒न्ति॒ । म॒तयः॑ । पनि॑प्नतम् । हि॒र॒ण्यय॑म् । श॒कु॒नम् । क्षाम॑णि । स्था॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
@@ -98,7 +98,7 @@ genre M
 **नाके** द्युलोके वर्तमानं पश्चादुत्पतन्तं सोमं **वेनानाम्** अस्माकं संबन्धिन्यः **पूर्वीः** बह्व्यः **गिरः** स्तुतयः **उप** **अकृपन्त** उपकल्पन्ते । अभिष्टुवन्तीत्यर्थः । तं **शिशुं** शिशुवत् संस्कर्तव्यं सोमं **मतयः** स्तुतयः **रिहन्ति** लिहन्ति संस्पृशन्ति । प्राप्नुवन्तीत्यर्थः। कीदृशं शिशुम् । **पनिप्नतं** शब्दायन्तम् । पनतेर्यङ्लुगन्तात् शतरि अभ्यासस्य निगागम उपधालोपश्च । **हिरण्ययं** हिरण्मयं **शकुनं** पक्षिणं **क्षामणि** क्षमायां **स्थां** हविर्धाने स्थां वर्तमानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,13 +109,13 @@ genre M
 I.e. the **havirdhāna**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eagle that has flown to the vault—the many hymns of the trackers  yearned after (him).  
 The thoughts lick the child who always excites wonder, the golden bird  standing on the earth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I would now take the pf. part. upapaptivā́ṃsam as explicitly anterior to the impf. akṛpanta: “the eagle that had flown to the vault.”
 
@@ -137,23 +137,23 @@ The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively s
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Loving Ones besought with many voices the Eagle who had flown away to heaven.  
      Hymns kiss the Youngling worthy of laudation, resting on earth, the Bird of golden colour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dem zum Firmament aufgeflogenen Adler trugen die vielen Reden der Seher Verlangen. Die frommen Gedanken belecken das lautschreiende Junge, den goldenen Vogel, der auf Erden wohnt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Adler, der zur Himmelskuppel hinfliegt, erflehen viele Lieder der begier'gen; Den schönen Sprössling küssen die Gebete, den goldnen Aar, der auf der Erde Grund steht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По прилетевшему на свод (неба) орлу  
 Тосковали многие песни прозорливцев.  

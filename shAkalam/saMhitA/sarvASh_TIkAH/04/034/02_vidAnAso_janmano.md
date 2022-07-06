@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विदाना꣡सो ज꣡न्मनो वाजरत्ना  
 उत꣡ र्तु꣡भिर् ऋभवो मादयध्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡राम् अस्मे꣡ रयि꣡म् ए꣡रयध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । वः॒ । मदाः॑ । अग्म॑त । सम् । पुर॑म्ऽधिः । सु॒ऽवीरा॑म् । अ॒स्मे इति॑ । र॒यिम् । आ । ई॒र॒य॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidānāso* ← *vidānāsaḥ* ← *vid*
 - \[verb noun\], nominative, plural
@@ -124,7 +124,7 @@ genre M
 हे **वाजरत्नाः** सोमलक्षणेनान्नेन राजमानाः **ऋभवः** यूयं **जन्मनः** जननस्य देवत्वलक्षणस्य देवत्वप्राप्तिं **विदानासः** जानन्तः । यद्वा विदानासः सोमप्राप्तिं जानन्तो जन्मनः पूर्वं मनुष्यजन्मवन्तश्च सन्तः । उतशब्दश्चार्थे । **ऋतुभिः** देवैः सह **मादयध्वम्** । **वः** युष्मान् **मदाः** सोमपानजनिताः **सम्** **अग्मत** संगताः । **पुरंधिः** स्तुतिरपि **सम्** अग्मत । ते यूयम् **अस्मे** अस्माकं **सुवीरां** शोभनैर्वीरैः पुत्रैः उपेतां **रयिं** धनम् **एरयध्वं** प्रेरयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Prescient of your celestial birth: vidānāsojanmanaḥ = jananasya **devatva** lakṣaṇasya devatva prāptim jānantaḥ, knowing the attainment of deification
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And knowing of your origin, o you whose treasure is victory’s prize, find  exhilaration according to the ritual sequences, o R̥bhus.  
 The exhilarating draughts have gathered for you, (as has) Plenitude. Send  here a wealth of good heroes for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing your birth and rich in gathered treasure, Rbhus, rejoice together with the Rtus.  
      The gladdening draughts and wisdom have approached you: send ye us riches with good store of heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eurer Abstammung eingedenk berauschet euch zu euren Zeiten, ihr reichbelohnten Ribhu´s! Eure Räusche und Purandhi haben sich zusammengefunden. Bringet uns den Besitz tüchtiger Mannen und Söhne ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und ihr, schon von Geburt an Reichthumspender, berauschet euch zur Opferzeit, o Ribhu's; Euch eilten Tränke zu und Gabenfülle, so führt herbei uns heldversehnen Reichthum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зная (свое) рождение, о награждающие сокровищами,  
 Опьяняйтесь, о Рибху, во время жертвоприношений!  

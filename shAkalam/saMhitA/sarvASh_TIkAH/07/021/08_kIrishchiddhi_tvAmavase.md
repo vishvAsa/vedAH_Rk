@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कीरि꣡श् चिद् धि꣡ त्वा꣡म् अ꣡वसे जुहा꣡व  
 ई꣡शानम् इन्द्र सउ꣡भगस्य भू꣡रेः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभिक्षत्तु꣡स् तुवा꣡वतो वरूता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अवः॑ । ब॒भू॒थ॒ । श॒त॒म्ऽऊ॒ते॒ । अ॒स्मे इति॑ । अ॒भि॒ऽक्ष॒त्तुः । त्वाऽव॑तः । व॒रू॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kīriś* ← *kīriḥ* ← *kīri*
 - \[noun\], nominative, singular, masculine
@@ -110,21 +110,21 @@ genre M
 हे **इन्द्र** **ईशानं** **त्वां** **कीरिः** स्तोता। ‘कारुः कीरिः' इति स्तोतृनामसु पाठात् । वसिष्ठः **अवसे** रक्षणाय **जुहाव** **हि** स्तौति हि ह्वयति वा । **चित्** इति पूरणः । अपि च हे **शतमूते** बहुरक्षेन्द्र **अस्मे** अस्माकं **भूरेः** प्रभूतस्य **सौभगस्य** धनस्य **अवः** रक्षा **बभूथ** बभूविथ। **अभिक्षत्तुः** अभिहिंसकस्य **त्वावतः** त्वत्सदृशस्य **वरूता** वारयिता च भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The worshipper has invoked you the sovereign **Indra**, for protection; protector of many, you have beento us the guardian of great fortune; be our defender against every overpowering (assailant).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For even the weakling has called upon you for help, o Indra, who have  control over much good fortune.  
 O you of a hundred forms of help, you have become a help to us, and  you have become the defender of a man who, like you, distributes  
 portions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “man like you” (tvā́vataḥ) is the human patron because he, too, distributes largesse. So also Geldner (n. 8d).
 
@@ -139,23 +139,23 @@ Final varūtā́of 8d is matched by final tarutra in 9b.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The humble hath invoked thee for protection, thee, Lord of great felicity, O Indra.  
      Thou with a hundred aids hast been our Helper: one who brings gifts like thee hath his defender.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst der Arme rief dich ja zum Beistand, o Indra, der du über viele Herrlichkeit gebeutst. Du wardst unser Hotri, du hundertfach Helfender, der Beschirmer eines, der gleich dir freigebig austeilt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ja, auch der Sänger rief dich an um Hülfe, der, Indra, du des Glückes viel besitzest; Du warst uns Beistand, dein sind hundert Hülfen; ein Schirm bist du dem dir ergebnen Spender.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже совсем бедный звал на помощь тебя,  
 О Индра, владеющего большой благодатью.  

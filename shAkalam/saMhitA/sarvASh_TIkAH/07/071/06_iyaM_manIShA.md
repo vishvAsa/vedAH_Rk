@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् मनीषा꣡ इय꣡म् अश्विना गी꣡र्  
 इमां꣡ सुवृक्तिं꣡ वृषणा जुषेथाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 इ॒मा । ब्रह्मा॑णि । यु॒व॒ऽयूनि॑ । अ॒ग्म॒न् । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -120,36 +120,36 @@ genre M;; repeated line
 इयम्मनीषेति षष्ठी गता ॥ ६ ॥आगोमतेति पञ्चर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनं अनुक्रम्यतेच-आगोमतापञ्चेति । विनियोगः प्रातरनुवाकाश्विनशस्त्रयो- रुक्तः । आश्विनेपशावाद्याश्चतस्रोयाज्यानुवाक्याः । सूत्रितञ्च-आगोमतानासत्यारथेनेतिचतस्रइति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This adoration, **Aśvins**, this praise (is for you), be gratified, showerer (of benefits), by this laudation;may these eulogies, addressed to you, reach you; and do you ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the inspired thought, here the song, Aśvins—take pleasure in this  intricate (hymn), o bulls.  
 These formulations have gone, seeking you. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the thought, this is the song, O Asvins: accept this hymn of ours, ye Steers, With favour.  
      May these our prayers addressed to you come nigh you. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Gedicht, diese Lobrede ist für euch, ihr Asvin. Erfreuet euch an diesem Lobpreis, ihr Bullen! Diese feierlichen Worte sind ausgezogen nach euch verlangend.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier tönt das Lied, hier das Gebet, o Ritter, nehmt an mit Huld, o Helden, dieses Preislied; Zu euch ist liebend dies Gebet gedrungen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вот) эта молитва, о Ашвины, эта хвалебная песнь.  
 Радуйтесь, о два быка, этому гимну.  

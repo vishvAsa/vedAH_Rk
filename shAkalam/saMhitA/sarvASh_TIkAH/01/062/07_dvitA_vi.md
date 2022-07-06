@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्विता꣡ वि꣡ वव्रे सन꣡जा स꣡नीळे  
 अया꣡सिय स्त꣡वमानेभिर् अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धारयद् · रो꣡दसी सुदं꣡साः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भगः॑ । न । मेने॒ इति॑ । प॒र॒मे । विऽओ॑मन् । अधा॑रयत् । रोद॑सी॒ इति॑ । सु॒ऽदंसाः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dvitā*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 **अयास्यः** । यासः प्रयत्नः । तत्साध्यो यास्यः । न यास्योऽयास्यः । युद्धरूपैः प्रयत्नैः साधयितुमशक्य इत्यर्थः । कथं साध्यते इत्यत आह । **स्तवमानेभिः** स्तोत्रं कुर्वद्भिः पुरुषैः **अर्कैः** स्तुतिरूपैर्मन्त्रैः स्तूयमानः सन्निन्द्रः सुसाध्यः भवति । यद्वा । अयास्यः पञ्चवृत्तिर्मुख्यप्राणः । स हि आस्यात् मुखात् अयते गच्छति निष्क्रामति । तदुपासकोऽप्यङ्गिरा उपचारात् अयास्य उच्यते । तथा च छन्दोगैराम्नातं -- तं हायास्य उद्गीथमुपासांचक्रे एतमु एवायास्यं मन्यन्त आस्याद्यदयते तेन । ( छा. उ. १. २. १२ ) इति । अथवा । अयमास्ये मुखे वर्तते इत्ययास्यः । तथा च वाजसनेयकं--  ‘ ते होचुः क्व नु सोऽभूद्यो न इत्थमसक्तेत्ययमास्येऽन्तरिति ' (बृ. उ. १. ३. ८ ) इति । पूर्ववदुपासकोऽप्ययास्यः । तेन ऋषिणा स्तवमानेभिः गुणिनिष्ठगुणाभिधानलक्षणां स्तुतिं कुर्वद्भिः अर्कैः मन्त्रैः करणभूतैः स्तूयमानः सन् **सनजा**। सना इति निपातो नित्यार्थः । नित्यजाते सर्वदा विद्यमानस्वभावे इत्यर्थः। प्रथमभावविकारवाचिना जनिना द्वितीयो भावविकारः सत्ता लक्ष्यते । यथा “ औत्पत्तिकस्तु शब्दस्यार्थेन संबन्धः' इति । ‘औत्पत्तिकमिति नित्यं ब्रूमः' (शा. भा. १.१.५) इति हि तद्भाष्यम्। **सनीळे** समानं नीळम् ओको निवासस्थानं ययोस्ते । संलग्ने इत्यर्थः । एवंविधे द्यावापृथिव्यौ **द्विता** द्विधा **वि** **वव्रे** विवृते अकरोत् भेदेनास्थापयदित्यर्थः । **मेने** मननीये **परमे** उत्कृष्टे **व्योमन्** विविधरक्षणे नभसि वर्तमानः **भगो** **न** सूर्य इव **सुदंसाः** शोभनकर्मेन्द्रः **रोदसी** द्यावापृथिव्यौ **अधारयत्** अपोषयत् । यद्वा । मेना इति स्त्रीनाम । तथा च यास्कः--- ‘ मेनाग्ना इति स्त्रीणां मेना मानयन्त्येनाः ' (निरु. ३. २१ ) इति । स्त्रीरूपमापन्ने रोदसी इन्द्रोऽपुष्यदित्यर्थः४॥ द्विता । द्विधा इत्यस्य धकारस्य तकारश्छान्दसः । सनजा ।  ‘ जनी प्रादुर्भावे ' । अस्मात् भावे  ‘ अन्येष्वपि दृश्यते ' इति दृशिग्रहणस्य सर्वोपाधिव्यभिचारार्थत्वात् केवलादपि जनेर्डप्रत्ययः । सना नित्यं जो जननं ययोस्ते सनजे । पूर्वपदस्य ह्रस्वश्छान्दसः । एवमादित्वादन्तोदात्तत्वम् । तदेव बहुव्रीहिस्वरेण शिष्यते । सुपां सुलुक्' इति विभक्तेः आकारः । अयास्यः ।  ‘ यसु प्रयत्ने '। यासः प्रयत्नः । तत्र भवो यास्यः ।  ‘ भवे छन्दसि ' इति यत् । न यास्योऽयास्यः ।  ‘ परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । श्रुत्युक्तनिर्वचने तु पृषोदरादित्वात् अभिमतरूपस्वरसिद्धिः । मेने । सप्तम्येकवचनस्य ' सुपां सुलुक् ' इति शेआदेशः ।  ‘ शे' (पा. सू. १. १. १३) इति प्रगृह्यत्वम् । यद्वा । मन्यते इति मेना । पचाद्यच् ।' नशिमन्योरलिढ्येत्वं वक्तव्यम् ' ( पा. सू. ६. ४. १२०.५) इति एत्वम् । ततः टाप् । द्विवचने 'ईदूदेद्द्विवचनम् ' ( पा. सू. १. १. ११ ) इति प्रगृह्यत्वम् । सुदंसाः । दंस इति कर्मवाची । असुन्प्रत्ययान्तः आद्युदात्तः । बहुव्रीहौ ' आद्युदात्तं द्व्यच्छन्दसि ' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,13 +124,13 @@ genre M
 **Ayāsya**: **yaśa**, effort; hence, ayāsya, that which is not attainable by effort (or, not to be overcome in battle)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Another time, with his chants that were being sung, the irrepressible  one uncovered the age-old pair belonging to the same nest [=the two  worlds].  
 As Bhaga [/a (good) portion] (supports) his two consorts, he of very  wondrous power supported the two world-halves in farthest heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Nodhas continues to deploy his tricks in this verse. He has moved on from the obscure four-river reference in the preceding verse, to a more standard domain for Indra to display his power: the two world halves. But in the first hemistich Indra is not depicted as filling them or propping them apart or any of his usual actions with regard to them, but rather as “uncovering” them, using the same lexeme ví √vṛ as was just used in a Vala-myth verse (5a ví var, 7a ví vavre). (That lexeme is close to being the signature Vala verb, though it is actually more commonly ápa √vṛ, with the same sense, but a different preverb.) Notice that the two occurrences of ví √vṛ surround the pseudo-omphalos verse 6, in the usual manner in which concentric lexical rings signal an omphalos. So Nodhas thus presents this new mythological theme as if it were the old one, the Vala myth found in vss. 2-5, though he is entering different mythological territory.
 
@@ -144,23 +144,23 @@ ayā́sya- regularly qualifies Indra; there is no reason to take it as a persona
 The second hemistich contains a clever pun between simile and frame. In the frame (pāda d) Indra supported, that is, held up, the two world halves in familiar fashion (somewhat repairing the less standard uncovering he performed in ab, though cf. VIII.96.16). In this task he is compared to the god Bhaga (though it is not an activity that I think of as particularly associated with Bhaga). But in the simile bhága- is used as a common noun ‘(good) portion’, which provides support for two consorts (méne) - the point presumably being that a man needs a particularly large portion of property to support two wives. I do not follow Hoffmann’s view (1960: 245; KZ 76) that méne here is an elliptical dual referring to concubine and lawful wife, and in fact believe that ménā in general has a wider sense than he allows. He restricts it to concubines, but the derivation from √mi ‘exchange’ suggests a wider application, with the wife as an “exchange token” in the economic transaction of marriage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unwearied, won with lauding hymns, he parted of old the ancient Pair, united ever.  
      In highest sky like Bhaga, he the doer of marvels set both Dames and earth and heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aufs neue hat er die beiden Alten, die Verschwisterten enthüllt - er und Ayasya durch die gesungenen Preislieder. Wie ein reicher Herr seine beiden Frauen hielt er im höchsten Himmel die beiden Rodasi fest, ein schönes Meisterstück machend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zwiefach enthüllte er die urgebornen, verschwisterten mit Preisgesängen rastlos, Wie Bhaga trug er in dem höchsten Weltraum das Frauenpaar, die beiden Welten, kraftvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Раскрыл он также двух древних, родственных –  
 (Он,) неистовый, с помощью исполняемых песен.  

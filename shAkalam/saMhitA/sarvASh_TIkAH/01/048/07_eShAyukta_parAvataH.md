@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एषा꣡युक्त पराव꣡तः  
 सू꣡र्यस्योद꣡यनाद् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡ याति अभि꣡ मा꣡नुषान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 श॒तम् । रथे॑भिः । सु॒ऽभगा॑ । उ॒षाः । इ॒यम् । वि । या॒ति॒ । अ॒भि । मानु॑षान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣāyukta* ← *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
@@ -108,7 +108,7 @@ genre M
 **एषा** उषोदेवी **शतम्** **अयुक्त** स्वकीयानां रथानां शतं योजितवती । **सुभगा** सौभाग्ययुक्ता **इयम्** **उषाः** **परावतः** दूरस्थात् **सूर्यस्योदयनादधि** सूर्योदयस्थानादधिकात् द्युलोकात् मानुषान् **अभि** मनुष्यानुद्दिश्य **रथेभिः** शतसंख्याकैः युक्तैः रथैः **वि** **याति** विशेषेण गच्छति ॥ अयुक्त। लुङि  ‘ झलो झलि' (पा. सू. ८, २. २६) इति सिचो लोपः । उदयनात् । उदेत्यत्रेति उदयनम् । इण् गतौ । अधिकरणे ल्युट् । कृदुत्तरपदप्रकृतिस्वरत्वम् । सुभगा। शोभनी भगो यस्याः सा ।  ‘आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । मानुषान् । मनोः पुत्रा मानुषाः ।  ‘ मनोर्जातावञ्यतौ षुक् च ' इति अञ् षुगागमश्च । ञित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,30 +119,30 @@ genre M
 Many chariots of the dawn = many rays of light
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one has hitched herself up from out of the distance, from (the place  of) the rising of the sun.  
 With a hundred chariots, this well-portioned Dawn drives out  
 toward men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Dawn hath yoked her steeds afar, beyond the rising of the Sun:  
      Borne on a hundred chariots she, auspicious Dawn, advances on her way to Men.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie hat (zur Fahrt) aus der Ferne angespannt, von der Sonne Aufgang her. Mit hundert Wagen zieht diese glückbringende Usas zu den Menschen aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie hat von fern sich aufgemacht, dort von der Sonne Aufgang her, Mit hundert Wagen fährt sie zu den Menschen rings, die Morgenröthe, segensreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она запрягла коней издалека –  
 От восхода солнца.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रात꣡म् मन्य ऊ꣡धनि श्रात꣡म् अग्नउ꣡  
 सु꣡श्रातम् मन्ये त꣡द् ऋतं꣡ न꣡वीयः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पि꣡बेन्द्र वज्रिन् पुरुकृज् जुषाणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 माध्य॑न्दिनस्य । सव॑नस्य । द॒ध्नः । पिब॑ । इ॒न्द्र॒ । व॒ज्रि॒न् । पु॒रु॒ऽकृ॒त् । जु॒षा॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śrātam* ← *śrī*
 - \[verb noun\], accusative, singular
@@ -132,36 +132,36 @@ popular
 **ऊधनि** गोरूधस्येतद्दधिघर्माख्यं हविः पयोरूपेण **श्रातं** पक्कमिति **मन्ये** जाने । पुनश्च दुग्धं पयः **अग्नौ** अपि **श्रातं** पक्वम् । इदानीं दध्यवस्थमप्यग्नौ पच्यते । अतः **सुश्रातं** सुपक्वमिति **मन्ये** जाने । अत एतद्धविः **ऋतं** सत्यभूतं **नवीयः** नवतरं प्रत्यग्रतरं भवति । हे **वज्रिन्** वज्रवन् हे **पुरुकृत्** बहुकर्मकृत् **इन्द्र** **जुषाणः** प्रीयमाणस्त्वं **माध्यंदिनस्य** मध्यंदिने भवस्य **सवनस्य** सोमस्य संबन्धिनः **दध्नः** । कर्मणि षष्ठी । दधिघर्माख्यं हविः “ पिब ॥ ॥ ३७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I consider (the oblation) as cooked in the udder (of the cow), I consider it cooked in the fire, I considerthis pure and fresh (oblation) well- cooked; **Indra**, wielder of the thunderbolt, doer of many deeds, drink wellpleased of the curd of the noon-day sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (The oblation) in the udder is cooked, I think, and the one in the fire is  cooked. Well cooked, I think, is also this newer truth [=hymn].  
 O mace-bearing Indra, you who do many deeds—drink of the sour milk  of the Midday Pressing, taking enjoyment of it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Dressed in the udder and on fire, I fancy; well-dressed, I fancy, is this recent present.  
      Drink, Indra, of the curd of noon's libation with favour, Thunderer, thou whose deeds are mighty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich meine, sie ist im Euter gekocht, sie ist am Feuer gekocht; ich meine, daß diese neueste Spende gut gekocht, recht ist. Trink mit Genuß von der sauren Milch des mittäglichen Trankopfers, tatenreicher Keulenträger Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gekocht ist es im Kessel an dem Feuer, dies neue Opfer schön gekocht, so denk' ich; Als Mittagsspende trink die Molken, Indra, der viel du wirkst, erfreut, o blitzbewehrter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я думаю, (она) сварена (еще) в вымени, сварена на огне.  
 Я думаю, эта более новая (жертва) хорошо сварена, правильно.  

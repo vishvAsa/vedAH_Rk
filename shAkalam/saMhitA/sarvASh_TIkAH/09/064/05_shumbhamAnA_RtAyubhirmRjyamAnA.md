@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शुम्भ꣡माना ऋतायु꣡भिर्  
 मृज्य꣡माना ग꣡भस्तियोः  
 प꣡वन्ते वा꣡रे अव्य꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑न्ते । वारे॑ । अ॒व्यये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śumbhamānā* ← *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
@@ -66,19 +66,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ऋतायुभिः** यज्ञकामैः **शुम्भमानाः** अलंक्रियमाणाः **गभस्त्योः** गभस्तिभ्यां बाहुभ्याम् । ‘ गभस्ती बाहू' इति बाहुनामसु पाठात् । **मृज्यमानाः** शोध्यमानाः सोमाः **अव्यये** अविमये **वारे** वाले पवित्रे **पवन्ते** क्षरन्ति ॥ ॥ ३६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The (**Soma**-juices) beautified by those desirous of sacrifice, cleansed by their **hands**, flow through the woollen fleece.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being beautified by those who seek truth, being groomed in the two hands, they purify themselves in the sheep’s fleece.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -88,23 +88,23 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They purified in both the hands, made beautiful by holy men,  
      Flow onward to the fleecy cloth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schön gemacht von den Frommen, zwischen den Händen geputzt, läutern sie sich im Schafhaar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie rieseln hin aufs Widderhaar, von frommen Männern ausgeschmückt, Mit beiden Armen schön geklärt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

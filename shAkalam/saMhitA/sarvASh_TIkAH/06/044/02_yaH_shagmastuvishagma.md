@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ शग्म꣡स् तुविशग्म ते  
 रायो꣡ दामा꣡ मतीना᳐꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡स्ति स्वधापते म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सोमः॑ । सु॒तः । सः । इ॒न्द्र॒ । ते॒ । अस्ति॑ । स्व॒धा॒ऽप॒ते॒ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -117,37 +117,37 @@ genre M;; repeated line
 हे **तुविशग्म** बहुसुखेन्द्र **यः** **शग्मः** सुखकरः **ते** त्वदीयः यः सोमः **मतीनां** स्तोतॄणां **रायः** धनस्य **दामा** दाता भवति हे **स्वधापते** **इन्द्र** **सः** **सोमः** अभिषुतस्तव मदकरो भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma**, possessor of felicity, which gives you delight, and which is the bestower of riches on your votaries, is poured out; it is your exhilaration, **Indra**, lord of the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The capable one that is yours, o powerfully capable one, the giver of  wealth and of thoughts,  
 the pressed soma—that is your exhilarating drink, o Indra, lord of  
 independent power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effectual, Most Effectual One! thine, as bestowing wealth of hymns,  
      Soma is pressed: thy gladdening draught, Indra! libation's Lord! is this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Wirksame, der für dich, du Vielwirksamer ist, der Geber von Reichtum, von Gedanken, der gepreßte Soma ist dein Rauschtrank, Indra, Herr des Lebenssaftes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der kräftig dir, sehr kräftig ist, der Reichthum schenkt und frommen Sinn, Der ist, o Indra, dir gebraut, der Rauschtrank, o du Opferherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто действенный, о (ты) самый действенный,  
 Даритель богатства тебе (и) мыслей,  

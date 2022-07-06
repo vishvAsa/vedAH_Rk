@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्या꣡वो न꣡ य꣡स्य पन꣡यन्ति अ꣡भ्वम्  
 भा꣡सांसि वस्ते सू꣡रियो न꣡ शुक्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡श्नस्य चिच् छिश्नथत् पूर्विया꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि । यः । इ॒नोति॑ । अ॒जरः॑ । पा॒व॒कः । अश्न॑स्य । चि॒त् । शि॒श्न॒थ॒त् । पू॒र्व्याणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
@@ -116,7 +116,7 @@ genre M;; repeated line
 **न** इति संप्रत्यर्थे । उक्तं च- अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोगः' (निरु. ७. ३१ ) इति । **द्यावः** स्तोतारः संप्रतीदानीं **यस्य** अग्नेः **अभ्वं** महत्कर्म **पनयन्ति** स्तुवन्ति सोऽग्निः **सूर्यो** **न** सूर्य इव **शुक्रः** शुक्लवर्णः सन् **भासांसि** तेजांसि **वस्ते** आच्छादयति । **यः** च **अजरः** जरारहितः **पावकः** सर्वस्य शोधकोऽग्निः **वि** **इनोति** भासा सर्वं व्याप्नोति सोऽयम् **अश्नस्य** **चित्** व्यापनशीलस्यापि राक्षसादेः **पूर्व्याणि** चिरंतनानि पुराणि **शिश्नथत्** हिनस्ति । ' श्नथ क्नथ हिंसायाम् । इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M;; repeated line
 Aśnasys cid = from as', to pervade, vyāpanaśīlasya, of the pervader, i.e. rākṣasādeḥ, of the **rākṣasas** and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, whose formless mass [=smoke] they [=mortals] marvel at as the  heavens do, he (then) clothes himself in lights, like the brilliant sun.  
 He who, unaging and pure, dispels (hatreds), he has pierced the  
 primordial (establishments) even of the Devourer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich treats the billowing smoke and bright flames of physical fire. The kernel of the first pāda, … yásya panáyanti ábhvam, is almost identical to II.4.5 ā́ yán me ábhvaṃ vanádaḥ pánanta “The formless mass [=smoke] of the woodeater which they (first) marvelled at.” Cf. comm. ad loc. In that verse also the next step for Agni is to become bright. In our vs. I supply ‘mortals’ from 2c as subj.
 
@@ -145,23 +145,23 @@ The problem in pāda a is dyā́vo ná. We might like this to be genitive sg., a
 The 2nd hemistich presents its own problems, primarily because of missing or unspecified arguments to the verb. In c ví … inóti lacks an overt object. Geldner supplies “Schätze” and interprets the phrase in positive fashion. He reasonably cites as parallels, both from the immediately following hymn, VI.5.3 … inoṣi … vásūni and
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whose might the very heavens regard with wonder: bright as the Sun he clothes himself with lustre.  
      He who sends forth,, Eternal Purifier, hath shattered e'en the ancient works of Asna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er, dessen furchtbare Erscheinung sie beschwören, kleidet sich wie die Himmel in Glanz, hell wie die Sonne, der Alterlose, der Lautere, der die Schätze verteilt; er hat sogar des Asna alte Burgen eingestoßen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, dessen Macht die Himmel auch bewundern, gleich heller Sonne kleidet er in Licht sich; Der flammende, nicht alternde verscheuchet und tilget auch des Fressers alte Werke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот,) чьей грозной силой (все) восхищаются,  
 Рядится в лучи света, словно небеса, ясный, как солнце.  

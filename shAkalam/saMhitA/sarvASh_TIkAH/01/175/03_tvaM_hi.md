@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ शू꣡रः स꣡निता  
 चोद꣡यो म꣡नुषो र꣡थम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 ओ꣡षः पा꣡त्रं न꣡ शोचि꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 स॒हऽवा॑न् । दस्यु॑म् । अ॒व्र॒तम् । ओषः॑ । पात्र॑म् । न । शो॒चिषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -98,36 +98,36 @@ genre M
 हे इन्द्र **त्वं** खलु **शूरः** शौर्योपेतः **सनिता** दातासि । अतः **मनुषः** मनुष्यस्य मे **रथं** रंहणं स्पन्दनं मनोरथं वा स्वर्गगमनसाधनं यज्ञाख्यं रथं वा **चोदयः** प्रेरय । किंच त्वं **सहावान्** सोमसहायवान् बलवान् वा भूत्वा **दस्युम्** उपक्षपयितारम् **अव्रतम्** अकर्माणमननुष्ठायिनम् **ओषः** दह । किमिव **शोचिषा** दीप्त्या ज्वालया अग्निः **पात्रं** **न** स्वाधारं पात्रविशेषमिव । यागाधिकारी सन् यो न यजते तं दहेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are a hero, a benefactor, accelerate the vehicle of man (that bears him to heaven); consume, mightyone, the irreligious **Dasyu**, as a (woode) vessel is burnt by fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you are a champion, a winner; you impel the chariot of Manu. Possessing victorious power, you fire the Dasyu who follows no  
 commandment, like a cup with flame.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Hero, winner of the spoil, urgest to speed the car of man.  
      Burn, like a vessel with the flame, the lawless Dasyu, Conqueror!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist der gewinnende Held; du sollst des Menschen Wagen antreiben. Überwältigend brenne den unbotmäßigen Dasyu wie ein Geschirr durch Feuersglut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du erbeutest als ein Held und treibst des Menschen Wagen vor, Du starker brenn wie ein Gefäss mit Glut den ungerechten Feind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты – герой-завоеватель.  
 Ты должен погонять колесницу человека.  

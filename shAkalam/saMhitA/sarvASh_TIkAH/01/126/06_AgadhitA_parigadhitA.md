@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡गधिता प꣡रिगधिता  
 या꣡ कशीके꣡व ज꣡ङ्गहे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 या꣡शूनाम् भोजि꣡या शता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D;; epic anuṣṭubh (424)
 ददा॑ति । मह्य॑म् । यादु॑री । याशू॑नाम् । भो॒ज्या॑ । श॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgadhitā* ← *āgadh* ← *√gadh*
 - \[verb noun\], nominative, singular
@@ -86,7 +86,7 @@ genre D;; epic anuṣṭubh (424)
 संभोगाय प्रार्थितो भावयव्यः स्वभार्यां रोमशामप्रौढेति बुद्ध्या परिहसन्नाह । **भोज्या** भोगयोग्यैषा **आगधिता** आ समन्तात् गृहीता स्वीकृता । तथा **परिगधिता** परितो गृहीता । आदरातिशयाय पुनर्वचनम् ।  ‘ गध्यं गृह्णातेः ' ( निरु. ५, १५) इति यास्कः । यद्वा । आगधिता आ समन्तात् मिश्रयन्ती। आन्तरं प्रजननेन बाह्यं भुजादिभिरित्यर्थः ।  ‘ गध्यतिर्मिश्रीभावकर्मा ' (निरु. ५. १५) इति यास्कः । पूर्वस्मिन् पक्षे पुरुषस्य प्राधान्यम् उत्तरस्मिंस्तु योषितः इति भेदः । कीदृशी सा । या **अङ्गहे** अत्यर्थं गृह्णाति कदाचिदपि न मुञ्चति । अत्यागे दृष्टान्तः । **कशीकेव** । कशीका नाम सूतवत्सा नकुली । सा यथा पत्या सह चिरकालं क्रीडति न कदाचिदपि विमुञ्चति तथैषापि । किंच भोज्यैषा **यादुरी** । यादुरिति उदकनाम । रेतोलक्षणमुदकं प्रभूतं ददातीति यादुरी । बहुरेतो युक्तेत्यर्थः । तादृशी सती **याशूनां** संभोगानाम् । यश इति प्रजनननाम । तत्संबन्धीनि कर्माणि याशूनि भोगाः । तेषां **शता** शतानि असंख्यातानि मह्यं ददाति ॥ रोमशा नाम बृहस्पतेः पुत्री ब्रह्मवादिनी परिहसन्तं स्वपतिं प्रत्याह ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,12 +99,12 @@ genre D;; epic anuṣṭubh (424)
 Weasel: **Kaśīkā** = sutavatsā **nakulī**, the feminine le, mongoose, having brought forth young
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She who, when squeezed and squished, keeps stinking like a mongoose— fusing (with me), the woman to be enjoyed [/coiled around] gives me  hundreds of “spurts”—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the meaning ‘smell’ for the intensive jáṅgahe see Lubotsky (JAOS 117 [1997]: 562-63 [rev. of Schaeffer, Intensiv]); Griffiths and Lubotsky (JAOS 119 [1999]: 480-81). The word kaśīkā- is found only here. If it refers to a mongoose (or perhaps the related civet cat), the naturalistic description makes sense, as Lubotsky (JAOS 117) argues: squeezed on the back, mongooses release a musky odor. (This is characteristic of both sexes at least of civet cats, though Lubotsky seems to think it is only true of males mongooses.) As I have argued elsewhere (Ged. Cowgill, 1987, p.
 
@@ -123,22 +123,22 @@ yā́durī- appears to belong to the marginal root √yād ‘unite’ (see EWA 
 As often, I think the presence of these rare words serves more than one purpose — in this case to produce an encoded pun on the root √yabh ‘fuck’. Note the repetition of yā’s, starting with yā́in b, but taking off in cd: … (mah)ya yā́(durī) yā́(śūnāṃ bhojí)yā … This repetition of the initial of the root might have the same effect as the English expression “the f-word,” and it also gives the impression of a stutterer saying “ya … ya … ya …” while the bh eludes him -- until he reaches bh(ojyā̀) and finally achieves the whole word.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 [Ille loquitur]. Adhaerens, arcte adhaerens, illa quae mustelae similis se abdidit, multum humorem effundens, dat mihi complexuum centum gaudia.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die angedrückt, umarmt wie das Ichneumondweibchen sich abzappelt, die wollüstige gewährt mir hundert Liebesgenüsse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die angeklammerte, die umklammerte, die wie ein Wiesel sich versteckte, die Flüssigkeit ergiessende gewährt mir hundert Genüsse liebender Umarmungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Та,) что трепещет, как самка кашики,  
 Когда ее прижмут (и) обхватят,  

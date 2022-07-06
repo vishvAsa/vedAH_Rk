@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ ते म꣡दं गृणीमसि  
 वृ꣡षणम् पृत्सु꣡ सासहि꣡म्  
 उलोककृत्नु꣡म्† अद्रिवो हरिश्रि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 ऊं॒ इति॑ । लो॒क॒ऽकृ॒त्नुम् । अ॒द्रि॒ऽवः॒ । ह॒रि॒ऽश्रिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -99,7 +99,7 @@ genre M;; 12 = 8+4
 हे **अद्रिवः** वज्रवन्निन्द्र **ते** त्वदीयं **तं** **मदं** सोमपानजनितं हर्षं **गृणीमसि** गृणीमः प्रशंसामः । ‘गॄ शब्दे'। क्र्यादिः । ‘प्वादीनां ह्रस्वः'। 'इदन्तो मसि' इति मस इकारागमः । कीदृशम् । **वृषणं** वर्षितारं कामानां **पृत्सु** संग्रामेषु **सासहिं** शत्रूणामभिभवितारं **लोककृत्नुं** लोकस्य स्थानस्य कर्तारं **हरिश्रियं** हरिभ्यामश्वाभ्यां श्रयणीयं सेव्यम् । उशब्दः समुच्चये पदपूरणे वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ Lokakṛtnu = the provider of a plural ce (for his worshipper),sthānasya kartā
 Hariśriyam = him who is to be served by his steeds, aśvabhyam sevyam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We hymn your exhilaration, an overpowering bull in battles,  
 creating wide space, bringing the splendor of fallow bays, o master of  the stone—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We sing this strong and wild delight of thine which conquers in the fray,  
      Which, Caster of the Stone! gives room and shines like gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen deinen Rauschtrank feiern wir, den bullengleichen, in den Kämpfen überlegenen, Platz schaffenden, goldprächtigen, o Herr des Preßsteins;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir rühmen, Indra, deinen Rausch, der stark ist und in Schlachten siegt, Der Raum verschafft, o Schleuderer, und golden glänzt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы воспеваем это твое опьянение,  
 Мужественное, приносящее победу в боях,  

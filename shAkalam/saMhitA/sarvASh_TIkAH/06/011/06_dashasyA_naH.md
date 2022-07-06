@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दशस्या꣡ नः पुरुअणीक होतर्  
 देवे꣡भिर् अग्ने अग्नि꣡भिर् इधानः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ति स्रसेम वृज꣡नं न꣡ अं꣡हः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 रा॒यः । सू॒नो॒ इति॑ । स॒ह॒सः॒ । व॒व॒सा॒नाः । अति॑ । स्र॒से॒म॒ । वृ॒जन॑म् । न । अंहः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśasyā* ← *daśasya* ← *daśasy*
 - \[verb\], singular, Present imperative
@@ -112,44 +112,44 @@ genre M
 हे **पुर्वणीक** बहुज्वाल **होतः** देवानामाह्वातः **अग्ने** **देवेभिः** देवैर्द्योतमानैरन्यैः **अग्निभिः** त्वद्विभूतिभूतैः सार्धम् **इधानः** इध्यमानो दीप्यमानः सन् **नः** अस्मभ्यं **रायः** धनानि **दशस्य** प्रयच्छ । हे **सहसः** **सूनो** बलस्य पुत्राग्ने **वावसानाः** हविषा त्वामाच्छादयन्तो वयं **वृजनं** **न** शत्रुमिव **अंहः** पापम् **अति** **स्रसेम** अतिगच्छेम । अतिक्रामेमेत्यर्थः ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “{Text is missing}”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be favorable to us, o Hotar of many faces, along with the gods, on being  kindled along with (the other) fires, o Agni.  
 O son of strength, clothing ourselves in riches as if in a girthband, may  we slip beyond difficult straits.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, ad VI.10.2, the phrase agníbhir idhānáḥ is found both there and in the next hymn, VI.12.6. It therefore seems unlikely that devébhiḥ should be construed in this collocation, despite its apparent parallelism, and, with Geldner and Renou, I take it as an instr. of accomp. with daśasyā́.
 
 My interpr. of the simile in the 2nd hemistich differs from the standard. Geldner and Renou assume that the comparandum for vṛjánaṃ ná is áṃhaḥ. Given the adjacency of the two expressions, this is reasonable. Geldner’s version, however, relies on a somewhat unlikely interpr. (insofar as we understand this root) of áti √sras as ‘abstreifen’ (strip off): “… möchten wir die Not wie einen Gürtel abstreifen,” and the notion of “stripping off” áṃhas- seems odd. Renou’s “puissions nous … glisser hors du défile-étroit comme (hors de) l’encerclement (ennemi)” does better with the verb, but requires vṛjána- to have a particular negative sense not elsewhere met with (pace his citation of X.27.5). In the published translation I take the simile with rāyáḥ .. vāvasānā́ḥ “clothing ourselves in riches,” comparing the wealth we wear with a girthband. For a very similar expression, cf. I.173.6 sáṃ vivya índro vrjána ̥ ṃ ná bhū́ mā “Indra has enwrapped himself in earth, like a circlet,” with the same simile. Although the distance between rāyáḥ and the simile might speak against this interpr., it does work better semantically, and the parallel passage provides strong support. It does give me pause, however, that Michael Weiss is not convinced and thinks vṛjánaṃ ná must be construed with áṃhaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Enrich us, O thou Priest of many aspects, with the Gods, Agni, with thy fires, enkindled.  
      O Son of Strength, clad in the robe of riches, may we escape from woe as from  
      a prison.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erweis uns Huld, du vielgesichtiger Hotri, mit den Göttern, o Agni, wenn du mit den anderen Agni´s entzündet wirst. Mit Reichtum, o Sohn der Kraft, uns umgebend möchten wir die Not wie einen Gürtel abstreifen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei hülfreich uns, o vielgestalt'ger Priester, entflammt durch Feuer, Agni mit den Göttern; Mit Gut versehn, o Gott der Stärke, reichlich, lass Noth wie eine Kluft uns überspringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь благосклонен к нам, о многоликий хотар,  
 Вместе с богами, о Агни, когда (тебя) зажигают (другими) огнями!  

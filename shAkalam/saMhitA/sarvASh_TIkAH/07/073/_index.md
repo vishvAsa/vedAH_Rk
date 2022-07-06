@@ -8,7 +8,7 @@ title = "+073"
 ‘अतारिष्म ' इति पञ्चर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाश्विनम् । अतारिष्म' इत्यनुक्रमणिका। प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ।।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 73 (589)  
 Aśvins  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रावरुणा युव꣡म् अध्वरा꣡य नो  
 विशे꣡ ज꣡नाय म꣡हि श꣡र्म यछतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वयं꣡ जयेम पृ꣡तनासु दूढि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दी॒र्घऽप्र॑यज्युम् । अति॑ । यः । व॒नु॒ष्यति॑ । व॒यम् । ज॒ये॒म॒ । पृत॑नासु । दुः॒ऽध्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
@@ -113,7 +113,7 @@ genre M
 हे **इन्द्रावरुणा** इन्द्रावरुणौ **युवं** युवां **नः** अस्माकं **विशे** निवेशयित्रे परिचारकाय **जनाय** पुत्रपौत्रादिलक्षणाय **अध्वराय** यज्ञानुष्ठानार्थं **महि** महत् **शर्म** गृहं सुखं वा **यच्छतं** प्रयच्छतम् । अपि च **दीर्घप्रयज्युं** दीर्घप्रततयज्ञमस्मदीयं जनं **यः** शत्रुः अति **वनुष्यति** अतिजिघांसति **पृतनासु** संग्रामेषु **दूढ्यः** दुर्धियो दुष्टाभिसंधींस्ताञ्छत्रून् **वयं** **जयेम** अभिभवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -124,29 +124,29 @@ genre M
 A spacious chamber: or, great happiness: **mahi**, **mahat**, **śarma**, gṛham sukhamvā
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Varuṇa, extend great protection to our rite, to our clan and  people.  
 In the contests might we conquer the one whose fore-offerings are long,  who is overzealous—those of vile intent!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GRANT us your strong protection, IndraVaruna, our people, and our family, for sacrifice.  
      May we subdue in fight our evil-hearted foes, him who attacks the man steadfast in lengthened rites.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Varuna! Gewähret für unser Opfer dem Clan und Volke euren großen Schirm! Wer den im Opfer Anhaltenden zu überbieten sucht, all die Mißgünstigen wollen wir im Kampf besiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gewährt, o Indra-Varuna, uns weiten Schutz dem Opferfeste, unserm Volk und unserm Haus; Im Kampfe lasst besiegen uns die Frevlerschar und jeden Feind des, der nach hohem Ziele strebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Варуна, для нашего обряда  
 Предоставьте вы великую защиту племени (и) народу!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इय꣡म् म꣡द् वाम् प्र꣡ स्तृणीते मनीषा꣡  
 उ꣡प प्रिया꣡ न꣡मसा बर्हि꣡र् अ꣡छ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 छर्दि꣡र् य꣡द् वां वरूथि꣡यं सुदानू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 य॒न्तम् । नः॒ । मि॒त्रा॒व॒रु॒णौ॒ । अधृ॑ष्टम् । छ॒र्दिः । यत् । वा॒म् । व॒रू॒थ्य॑म् । सु॒दा॒नू॒ इति॑ सुऽदानू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -123,43 +123,43 @@ genre M
 हे मित्रावरुणौ **वां** युवां **मत्** मम **इयं** मनीषा स्तुतिः **प्र** **स्तृणीते** प्रच्छादयति । **प्रिया** हे प्रियौ युवां **नमसा** अन्नेन हविषा सह **उप** गच्छति च । युवयोः **बर्हिः** यज्ञमू **अच्छ** अभिगच्छति च । हे **मित्रावरुणौ** **नः** अस्मभ्यम् अधृष्टम् अनभिभूतं **छर्दिः** गृहं **यन्तं** प्रयच्छतम् । हे **सुदानू** शोभनदानौ **वां** युवयोः संबन्धि युवाभ्यां देयं **यत्** गृहं **वरूथ्यं** शीतवातातपानां वारयितृ भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This my praise is addressed to you both, and proceeds to you beloved (deities) together with the oblation; the sacred grass is spread before you; grant us, **Mitra** and **Varuṇa** an unassailable dwelling, that through your favour, munificent divinities, may be a (secure) shelter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This inspired thought from me is spread forth for you two, (calling you)  two dear ones with homage to the ritual grass.  
 Hold forth to us, Mitra and Varuṇa, the unbesiegable shelter of yours  that provides defense, o you of good drops.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich displays a sort of contrastive ritual synesthesia. In the first pāda an inspired thought (manīṣā́) is ‘spread forth’ (prá stṛṇīte), an action not literally applicable to a verbal product but suitable to the barhis or ritual grass found in b, which is not the obj. of this verb. What is going on in b is not clear until we reach the next vs. The b pāda of 2 contains a set of apparently unconnected notions without a unifying verb: úpa priyā́námasā barhír ácha “up to, the two dear ones (or, with a dear one), with homage, to the ritual grass,” but the corresponding pāda in 3 pulls together this disarray: úpa priyā́námasā hūyámānā. The missing verbal action is ‘call’, and now the two dear ones, the instrumental homage, and the barhis all make sense. I therefore (with Geldner, but not Renou) supply a form of ‘call’ in 2b. And ‘call’ is more appropriate to the inspired thought of pāda a than the spreading that occurred there. In the published translation I supply a participial form modifying the inspired thought and having active semantics, with priyā́as acc. obj. (“calling [you] two dear ones”). I now see that it might be desirable to supply the exact form found in the next vs., the dual pass. hūyámānā, tr. “… you two, the dear ones being called …” However, there is a grammatical obstacle, in that vām in 2a must be a gen./dat. enclitic, not an acc., and therefore there is no available acc. in the structural frame of the hemistich that a passive participle could modify. This might be finessed by taking b as a sort of loosely connected new start. However, I prefer to stay with the published translation, both for the syntactic reasons just mentioned, and because it makes the connection between the inspired thought and the call to the gods more direct.
 
 The nominal rel. cl. yád vāṃ varūthyàm is another ex. of an izafe-like construction. Here, since nothing follows it but a voc., it does not appear embedded, as many such phrases do, but it adds to the dossier of these constructions.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you Two Gods is this my thought extended, turned to the sacred grass with loving homage.  
      Give us, O Mitra-Varuna, a dwelling safe from attack, which ye shall guard, Boon-Givers!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies Gedicht wird euch von mir als Teppich hingebreitet; ich rufe die Beliebten unter Verneigung zum Barhis her. Gewähret uns, Mitra und Varuna, euren unangreifbaren, schirmenden Schutz, den ihr Gabenschönen habt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Andachtslied ward euch von mir gestreuet, hin auf den Streusitz demuthsvoll, ihr lieben; Reicht sichern Schutz uns, Varuna und Mitra, den ihr gewährt, der schirmt, o gabenreiche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это произведение расстилается вам от меня (как жертвенная солома).  
 Я при(зываю) с поклоном двоих любимых на солому.  

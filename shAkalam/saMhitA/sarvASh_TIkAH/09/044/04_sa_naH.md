@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पवस्व वाजयु꣡श्  
 चक्राण꣡श् चा꣡रुम् अध्वर꣡म्  
 बर्हि꣡ष्माँ आ꣡ विवासति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ब॒र्हिष्मा॑न् । आ । वि॒वा॒स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -87,42 +87,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम यं त्वां **बर्हिष्मान्** ऋत्विक् **आ** **विवासति** परिचरति **सः** त्वं **नः** अस्मदर्थं **वाजयुः** अन्नमिच्छन् 'अध्वरं हिंसारहितं यागं **चारु** कल्याणं **चक्राणः** कुर्वन् **पवस्व** क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow for us food-desiring, making (our) sacrifice auspicious; (O **Soma**, whom) the priest with the sacred grass adores.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself for us, seeking prizes, making the dear ceremony your own. The one with the ritual grass [=priest] seeks to lure (you) here.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b I take the mid. part. cakrāṇáḥ with a self-beneficial / reflexive sense, contra Geldner and Renou
 
 With Geldner I take the subj. of c to be the priest, not Soma with Renou
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, seeking strength for us, embellishing the sacrifice:  
      The priest with trimmed grass calleth thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere du dich für uns nach dem Siegerpreis verlangend, das Opfer angenehm machend. Der das Barhis hergerichtet hat, ladet ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So riesle Kraft verleihend uns, und mache schön das Opferfest, Der Streubereiter lockt dich her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся для нас, стремясь к награде,  
 Сделав обряд приятным!  

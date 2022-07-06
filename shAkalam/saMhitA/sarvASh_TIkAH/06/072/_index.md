@@ -8,7 +8,7 @@ title = "+072"
 ‘ इन्द्रासोमा महि ' इति पञ्चर्चमेकादशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमिन्द्रासोमदेवताकम् । अनुक्रम्यते च - ' इन्द्रासोमा पञ्चैन्द्रासोमम् ' इति । सूक्तविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 72 (513)  
 Indra and Soma  

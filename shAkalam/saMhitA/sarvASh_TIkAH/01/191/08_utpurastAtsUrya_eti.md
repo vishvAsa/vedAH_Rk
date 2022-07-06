@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् पुर꣡स्तात् सू꣡र्य एति  
 विश्व꣡दृष्टो अदृष्टहा꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡र्वाश् च यातुधानि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अ॒दृष्टा॑न् । सर्वा॑न् । ज॒म्भय॑न् । सर्वाः॑ । च॒ । या॒तु॒ऽधा॒न्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (525)
 असौ सूर्यः **पुरस्तात्** पूर्वस्यां दिशि **उत्** **एति** । कीदृशः सः । **विश्वदृष्टः** । विश्वे द्रष्टव्या यस्य स तादृशः । **अदृष्टहा** । अदृष्टा विषविशेषा विषधरविशेषा वा । तेषां हन्ता । यद्वा । अदृष्टमदर्शनमज्ञानमन्धकारः । तस्य हन्ता । सूर्ये उदिते सति सर्वे विषधरा विषाणि वा पलायन्ते । किं कुर्वन्नुदेति इति चेत् उच्यते । **सर्वान्** **अदृष्टान्** अद्रष्टव्यान्विषराक्षसादीन् जम्भयन् हिंसयन् । तथा **सर्वाः** **यातुधान्यः** । यातवो यातनास्तीव्रवेदनाः । तासां धात्रीरुत्पादयित्रीर्महोरगीः राक्षसीर्वा जम्भयन पुरस्तादुदेति । अतोऽस्मत्तो नि जस्यत इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,13 +115,13 @@ popular;; epic anuṣṭubh (525)
 Destroyer of the unseen: adṛṣṭhā may also mean the dissipator of darkness; **adṛṣṭa** occurs in the sense of invisible venomous creatures, these as well as the **yātudhānas**, or **rākṣasas**, disappear at sunrise; cf. AV 5.23.6
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up from the east comes the Sun—the smasher of the no-see-ums, seen  by all,  
 crushing all the no-see-ums and all the sorceries.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -131,23 +131,23 @@ The rising of the sun may reflect the fact, mentioned above, that many bugs feed
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Slayer of things unseen, the Sun, beheld of all, mounts, eastward, up,  
      Consuming all that are not seen, and evil spirits of the night.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Osten geht die Sonne auf, die allgesehene, die Unsichtbaren tötend, alle Unsichtbaren erwürgend und alle Zauberinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor euch geht die Sonne auf, die alles bemerkt und das unbemerkte Gewürm tödtet, alles unbemerkte Gewürm verschlingend und alle Hexen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С востока восходит солнце  
 Видимое для всех, убивающее невидимых,  

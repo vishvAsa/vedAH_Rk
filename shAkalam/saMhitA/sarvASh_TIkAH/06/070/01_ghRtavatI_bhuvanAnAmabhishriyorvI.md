@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृत꣡वती भु꣡वनानाम् अभिश्रि꣡या  
 उर्वी꣡ पृथ्वी꣡ मधुदु꣡घे सुपे꣡शसा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡ष्कभिते अज꣡रे भू꣡रिरेतसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्यावा॑पृथि॒वी इति॑ । वरु॑णस्य । धर्म॑णा । विस्क॑भिते॒ इति॒ विऽस्क॑भिते । अ॒जरे॒ इति॑ । भूरि॑ऽरेतसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtavatī* ← *ghṛtavat*
 - \[noun\], nominative, dual, feminine
@@ -101,20 +101,20 @@ genre M
 **द्यावापृथिवी** द्यावापृथिव्यौ **घृतवती** दीप्तिमत्यौ उदकवत्यौ वा । ‘वनं घृतम्' इत्युदकनामसु पाठात् । भवत इति शेषः । **भुवनानां** भूतानाम् **अभिश्रिया** अभिश्रयणीये भवत इति  सर्वत्रानुसंधेयम् । **उर्वी** विस्तीर्णे **पृथ्वी** बहुकार्यरूपेण प्रथिते च **मधुदुघे** मधुन उदकस्य **दोग्र्यौती** **सुपेशसा** सुरूपे **वरुणस्य** सर्वस्य नियामकस्य **धर्मणा** धारणेन **विष्कभिते** पृथग्धारिते **अजरे** नित्ये **भूरिरेतसा** बहुरेतस्के बहुकायें वा भवतः। अत्र साक्षात् द्यावापृथिव्योः स्तुतिः प्रसङ्गात् वरुणस्येति द्रष्टव्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Radiant Heaven and Earth, the asylum of created beings, you are spacious, manifold, water-yielding, lovely, separately fixed by the functions of **Varuṇa**, undecaying, many-germed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two rich in ghee, excelling in glory over the creatures, wide and  broad, milking out honey, well-ornamented—  
 Heaven and Earth were propped apart according to the foundation of  Varuṇa, the two unaging ones possessing abundant semen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 pṛthvī́here (and in the same phrase in 4c) is of course a blindingly obvious pun: though used as an adj. here (‘broad’) it is of course (almost) identical to the standard word for ‘earth’, found in the dual dvandva dyā́vā-pṛthivī́in the next pāda (also 4a, 5a). By an accident of grammar, the nom./acc. dual fem. (in pṛthvī́, here modifying the dual dvandva) and the nom. singular. fem. pṛthivī́‘earth’ have the same ending -ī́. This grammatical pun is only actualized fully in the final vs. of the hymn, where we get the conjoined singular NP dyaúś ca pṛthivī́ca.
 
@@ -131,23 +131,23 @@ madhu-dúgha- ‘milking out honey’ in 1b is reprised by the VP ghṛtáṃ du
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FILLED full of fatness, compassing all things that be, wide, spacious, dropping meath, beautiful in their form,  
      The Heaven and the Earth by Varuna's decree, unwasting, rich in germs, stand parted each from each.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden schmalzreichen Überherrlichen der Wesen, die weiten, breiten, Honig spendenden, schöngeschmückten Himmel und Erde sind nach des Varuna Verordnung auseinandergestemmt, alterlos, samenreich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reich an Fett ihr alle Wesen schön erfüllt, ihr weiten, schönen Welten, Honig strömende, O Erd' und Himmel, durch die Ordnung Varuna's seid ihr befestigt, unvergänglich, samenreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два совершенства среди существ, полные жира,  
 Далекие, широкие, доящиеся медом, дивно украшенные,  

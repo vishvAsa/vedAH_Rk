@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् ऊ षु꣡ वो अ꣡तिथिम् उषर्बु꣡धं  
 वि꣡श्वासां विशा꣡म् प꣡तिम् ऋञ्जसे गिरा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 जियो꣡क् चिद् अत्ति ग꣡र्भो य꣡द् अ꣡च्युतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वेति॑ । इत् । दि॒वः । ज॒नुषा॑ । कत् । चि॒त् । आ । शुचिः॑ । ज्योक् । चि॒त् । अ॒त्ति॒ । गर्भः॑ । यत् । अच्यु॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -141,14 +141,14 @@ genre M
 हे वीतहव्य ऋषे भरद्वाज वा **वः** त्वम् । विभक्तिवचनयोर्व्यत्ययः ॥ **इममु** इममेवाग्निं **गिरा** स्तुत्या **सु** **ऋञ्जसे** सुष्ठु प्रसाधय ।' ऋञ्जतिः प्रसाधनकर्मा' इति यास्कः । कीदृशम् । **अतिथि** सततं गन्तारम् । यद्वा । अतिथिवत्पूज्यम् । **उषर्बुधम्** उषसि प्रबुद्धं **विश्वासां** सर्वासां **विशां** प्रजानां **पतिं** पालयितारम् । **जनुषा** जन्मना स्वत एव **शुचिः** शुद्धो निर्मलो वाग्निः **कच्चित्** कदाचित् कस्मिंश्चिद्यागकाले **दिवः** द्युलोकात् **आ** **वेति** आगच्छति । तदानीं प्रसाधयेत्यन्वयः । एवं प्रसाधितोऽग्निः **गर्भः** अरण्योर्मध्ये गर्भवद्वर्तमानः । यद्वा । द्यावापृथिव्योर्गर्भभूतः सन् **यत्** हविः **अच्युतं** च्युतिरहितं नित्यमग्निहोत्रादिसाधनभूतं पयःप्रभृतिकं तत् ज्योक्चित् चिरकालम् **अत्ति** भक्षयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Propitiate by praises this guest who wakes at dawn, the cherisher of all people, who on every occasion descends, pure of origin, from heaven, and, present as the embryo (in the wood of attrition), consumes immediately the offered (oblation).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This guest of yours here, waking at dawn, lord of all clans will I stretch  toward with my hymn.  
 He, ablaze right from his birth, pursues any (food) whatever  
@@ -156,7 +156,7 @@ from heaven here. For a long time the embryo eats just what is
 immovable.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ṛñjase see comm. ad IV.8.1. A tr. “aim at/towards” would be more transparent here.
 
@@ -175,23 +175,23 @@ The next pāda is implicitly contrastive: although the flames of the ritual fire
 The cadence of d is bad.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH this my song I strive to reach this guest of yours, who wakes at early morn, the Lord of all the tribes.  
      Each time he comes from heaven, the Pure One from of old: from ancient days the Child eats everlasting food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesem eurem frühwachen Gast, dem Fürsten aller Stämme will ich fein mit meiner Lobrede den Vorzug geben. Zu jeglicher Zeit des Tages verlangt er nach Speise, rein schon bei der Geburt. Seit langer Zeit verzehrt der Neugeborene selbst das was fest ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit meinem Liede streb' ich diesem euren Gast, der Morgens wacht, dem Herren aller Stämme zu; Vom Himmel dringt nach seiner Art auf alles hin der lichte Spross, verzehrt, was fest ist, lange schon.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот к этому гостю, пробуждающемуся на заре,  
 К господину всех племен, для вас я уверенно устремлюсь с песней.  

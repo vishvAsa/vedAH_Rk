@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡चायो꣡र् इ꣡न्द्रश् च꣡र्कृष  
 आँ꣡ उपानसः꣡ सपर्य꣡न्  
 नद꣡योर् वि꣡व्रतयोः शू꣡र इ꣡न्द्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 न॒दयोः॑ । विऽव्र॑तयोः । शूरः॑ । इन्द्रः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sacāyor* ← *sacā*
 - \[adverb\]
@@ -84,36 +84,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **आयोः** । मनुष्यनामैतत् । मनुष्यस्य स्तोतुः **चर्कृषे** पुनःपुनर्विलेखनाय । धनप्रदाना येत्यर्थः । **सचा** सह दातव्यैर्धनैः सहितः । यद्वा । आयोः सचा सह सहायभूतः । **उपानसः** अनः उपागतवान् । ‘ अत्यादयः क्रान्ताद्यर्थे द्वितीयया' (पा. म, २. २. १८. ४) इति प्रादिसमासः । ‘ अनसन्तान्नपुंसकात्' (पा. सू. ५, ४. १०३ ) इति समासान्तष्टच् । आरूढरथ इत्यर्थः । **सपर्यन्**  धनैः स्तोतारं पूजयन् । यद्वा । व्यत्ययेन कर्तृप्रत्ययः । स्तुतिभिर्हविर्भिश्च पूज्यमानः । उक्तगुणविशिष्टः सन् **आ** आगच्छति । उपसर्गश्रुतेरुचितक्रियाध्याहारः । कीडश इन्द्रः । **नदयोः** हेषाशब्दं कुर्वतोः **विव्रतयोः** विशिष्टकर्मणोरश्वयोर्नियन्ता **शूरः** विक्रान्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, the friend of man, for his exhilaration, comes mounted in his chariot, granting him favour, thehero Indra, (the driver) of the two neighing and prancing (steeds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Together with them Indra will ever be famed—(though) he’s (just) their  sidecar and providing (them) service—  
 together with the two roarers with their separate commandments Indra  (will be famed) as a champion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra with these drives round, until he meets with one to worship him:  
      Indra is Master of the pair who snort and swerve upon their way.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen zusammen Indra gerühmt wird als der folgsame Beiwagen, mit den widerspenstigen Hengsten, der tapfere Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchen beiden auf verschiedenen Seiten vorstrebenden Hengsten zugleich der im Wagen befindliche, treue Held Indra gepriesen wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с кем Индра прославляется  
 Как находящийся в повозке, служащий (им),  

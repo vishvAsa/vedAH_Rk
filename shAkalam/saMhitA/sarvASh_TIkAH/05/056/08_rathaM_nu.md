@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं नु꣡ मा꣡रुतं वयं꣡  
 श्रवस्यु꣡म् आ꣡ हुवामहे  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡चा मरु꣡त्सु रोदसी꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । यस्मि॑न् । त॒स्थौ । सु॒रणा॑नि । बिभ्र॑ती । सचा॑ । म॒रुत्ऽसु॑ । रो॒द॒सी ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -103,7 +103,7 @@ genre M
 **वयम्** आत्रेयाः **रथं** रंहणस्वभावं **मारुतं** मरुतां संबन्धिनं रथं **श्रवस्युम्** अन्नेच्छुं **नु** अद्य **आ** **हुवामहे** आह्वयामः । **यस्मिन्** रथे **सुरणानि** जलानि **बिभ्रती** धारयन्ती **रोदसी** रुद्रस्य पत्नी मरुतां माता । यद्वा रुद्रो वायुः । तत्पत्नी माध्यमिका देवी **मरुत्सु** **सचा** सहिता **आ** **तस्थौ** आस्थितवती तं रथमाहुवे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,13 +114,13 @@ genre M
 Rodasi = wife of **Rudra**, and the mother of the Maruts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Marutian chariot, seeking fame, do we now call here,  
 on which there stands, bearing great delights, Rodasī in company with  the Maruts.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -134,23 +134,23 @@ Geldner’s acceptance of Sāyaṇa.’s interpr. of mīḷhuṣī́as the name 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Maruts' chariot, ever fain to gather glory, we invoke,  
      Which Rodasi hath mounted, bringing pleasant gifts, with Maruts in her company.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir rufen nun den ruhmbegierigen marutischen Wagen her, auf dem Rodasi, die Freudenbringerin, bei den Marut steht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Marut-Wagen rufen wir den hochberühmten nun herbei, Auf welchem stand Genüsse bringend Rodasi, vereinigt mit der Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Колесницу Марутов мы  
 Призываем сейчас, ищущую славы,  

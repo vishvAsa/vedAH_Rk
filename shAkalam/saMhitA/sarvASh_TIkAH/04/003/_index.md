@@ -8,7 +8,7 @@ title = "+003"
 ‘ आ वो राजानम्' इति षोडशर्चं तृतीयं सूक्तं वामदेवस्यार्ष त्रैष्टुभमाग्नेयम् । आ वः षोडश इत्यनुक्रान्तम् । प्रातरनुवाकाश्विनशस्त्रयोर्विनियोग उक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 3 (299)  
 Agni  
@@ -19,7 +19,7 @@ able witness. The anxiety returns in verses 13–14, especially the former, in w
 one verse (11) on the Vala myth, a preoccupation of the Agni hymns in IV. What ties the various parts of the hymn together is not entirely clear, and it  may be that the poet’s final verse, listing several types of verbal material, is meant  to indicate that the hymn consists of a disparate collection of his works, although  attempting to assign those labels to the different parts of the hymn would probably  be taking the conceit too far.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

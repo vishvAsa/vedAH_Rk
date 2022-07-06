@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवि꣡ न꣡ केतु꣡र् अ꣡धि धायि हर्यतो꣡  
 विव्य꣡चद् व꣡ज्रो ह꣡रितो न꣡ रं꣡हिया  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रशोका अभवद् धरिम्भरः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तु॒दत् । अहि॑म् । हरि॑ऽशिप्रः । यः । आ॒य॒सः । स॒हस्र॑ऽशोकाः । अ॒भ॒व॒त् । ह॒रि॒म्ऽभ॒रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divi* ← *div*
 - \[noun\], locative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 दिव्यन्तरिक्षे केतुः प्रकाशेन सर्वस्य प्रज्ञापक आदित्य इव स यथाधि निहितः एवमयमिन्द्रोऽधि धायि। अध्यधायि। स्तोतृभिरधि निहितः। किञ्चेन्द्रस्य वज्रो हर्यतः स्पृहणीयः सन् विव्यचत्। व्याप्नोति वाप्तव्यं शत्रुसङ्घम्। तत्र दृष्टान्तः। हरितो न हरितवर्ना अध्वाहर्तारो वाश्वा आदित्यसम्बन्धिनः। ते यथा रंह्या रंहणेन वेगेन व्याप्नुवन्ति व्याप्तव्यम्। योऽस्य वज्र आयसोऽयोविकारोऽहिं वृत्रं मेघं वा तुदत् हिनस्ति। योऽयं महानुभावो हरिशिप्रः सोमपानरभसेन हरितवर्णसासिकस्तद्वर्णहनुर्वा हरिम्भरो हर्योर्भर्तेन्द्रः सहस्रोशोका अभवत्॥ शुच दीप्तौ। अपरिमितदीप्तिर्भवति॥४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M
 Bay horses of the suṅharitaḥ = haryataḥ, haritavarṇāḥ; or, adhvahartāraḥ, devouring the way
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the beacon in heaven [=sun], the gladdening (mace) has been set  in place; the (golden) mace will take wide compass like a golden  
 (racehorse) with its charge.  
 The golden-lipped (mace), which is made of metal, thrust against the  serpent. The bearer of the golden (mace) became thousand-flamed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As if a lovely ray were laid upon the sky, the golden thunderbolt spread out as in a race.  
      That iron bolt with yellow jaw smote Ahi down. A thousand flames had he who bore the tawny-hued.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie das Wahrzeichen am Himmel ist die geliebte Keule in seine Hand gelegt; die Keule hat Platz wie der goldgelbe Renner bei seinem Anlauf. Er durchstieß den Drachen, der goldzahnige, der der eherne ist. Tausendflammig ward der Träger der goldgelben Keule.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Licht am Himmel lag auf ihm der holde Blitz; der goldne streckte weit sich aus in schnellem Lauf; Den Drachen schlug der eherne in Gold gefasst, und tausend Flammen sprüht er, der den goldnen trägt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как знак на небе, желанная (ваджра) вложена (в руки).  
 Ваджра покрывает (расстояние), как буланый (скакун) при забеге.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभिआ꣡रम् इ꣡द् अ꣡द्रयो  
 नि꣡षिक्तम् पु꣡ष्करे म꣡धु  
 अवत꣡स्य विस꣡र्जने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒व॒तस्य॑ । वि॒ऽसर्ज॑ने ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhyāram*
 - \[adverb\]
@@ -70,7 +70,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अद्रयः** आद्रियमाणा अध्वर्य्वादयः **अभ्यारमित्** अभिगम्यैव **निषिक्तम्** अतिरिक्तं **मधु** **पुष्करे** वपुष्करे प्रवृद्ध उपयमनीपात्रे सिञ्चन्ति अग्निहोत्रार्थम् **अवतस्य** महावीरस्य **विसर्जने** विसर्जनसमये । होमानन्तरं खलु महावीरमासन्द्यामासादयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,36 +83,36 @@ Large spoon: upayamanī, sppon from which the sacrificer drinks the milk;
 Down: on the stool,āsandyām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The pressing stones are just on their way to it. The honey has been  poured down into the lotus  
 at the wellspring’s surging forth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The hapax abhyā́ram is glossed by Grassmann “zur Hand, bereit,” and Geldner and Renou follow suit. Oldenberg suggests that it’s an absolutive, without specifying to what root or what it should mean. Still I think he has a better chance of being right than the others.
 
 The -am gerund takes vṛddhi of the root and accent on the root syllable (see, e.g., Whitney Grassmann §995, and AV abhyākrā́mam). This form could well belong to abhí √ṛ (as in fact Grassmann also suggest) and mean ‘going towards’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The pressing-stones are set at work: the meath is poured into the tank,  
      At the out-shedding of the fount.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Steine sind zur Hand, eingegossen ist die Süßigkeit in die Schale des Löffels beim Ausgießen des Brunnens.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Somasteine sind zur Hand, es träufelt ins Gefäss der Trank, Wenn ausgegossen wird der Born.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Камни совсем под рукой,  
 Сладость налита в ложку  

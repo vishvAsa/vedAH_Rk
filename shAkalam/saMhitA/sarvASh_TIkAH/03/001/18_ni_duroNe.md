@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡ दुरोणे꣡ अमृ꣡तो म꣡र्तियानां  
 रा꣡जा ससाद विद꣡थानि सा꣡धन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् वि꣡श्वानि का꣡वियानि विद्वा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 घृ॒तऽप्र॑तीकः । उ॒र्वि॒या । वि । अ॒द्यौ॒त् । अ॒ग्निः । विश्वा॑नि । काव्या॑नि । वि॒द्वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ni*
 - \[adverb\]
@@ -114,42 +114,42 @@ genre M
 अमृतः नित्यः राजा राजमानोयोग्निः विदथानियज्ञान् साधन् साधयन् मर्त्यानां अग्नि होत्रिणां दुरोणेगृहे निषसाद निषीदति विश्वानिकाव्यानिविद्वान् जानन् घृतप्रतीकः घृते- नसन्धुक्षितावयवः उर्वियाविस्तीर्णः सोग्निः व्यद्यौत् विद्योतते ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The immortal being has sat down in the dwelling of mortals, accomplishing (their) sacrifices; **Agni**, who is cognizant of all sacred rites, shines with expanded bulk when fed with clarified butter.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The immortal king has taken his seat in the house of mortals, bringing  success to the ritual distributions.  
 His face covered in ghee, he flashed out widely—Agni knowing all  
 poetic crafts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Within the house hath sate the King immortal of mortals, filling full their sacred synods.  
      Bedewed with holy oil he shineth widely, Agni, the knower of all secret wisdom.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The immortal, the king, has sat down in the dwelling of the mortals, performing the sacrifices 1. He the ghee-faced one has shone forth widely, Agni knowing all wisdom.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Sterblichen Haus hat sich der Unsterbliche als König niedergelassen und läßt die Opfer gelingen. Das Schmalzgesicht ist weithin aufgeleuchtet, Agni, der alle Weisheiten kennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ins Haus der Menschen liess der Gott sich nieder, als König er, beglückend die Gemeinden, Mit Schmalz im Antlitz strahlt er in die Weite, Agni, besitzend alle Geisteskräfte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В жилище смертных бессмертный  
 Уселся как царь, ведя к цели жертвенные раздачи.  

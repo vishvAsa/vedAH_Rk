@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ घे꣡द् उता꣡सि वृत्रहन्  
 समान꣡ इन्द्र गो꣡पतिः  
 य꣡स् ता꣡ वि꣡श्वानि चिच्युषे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यः । ता । विश्वा॑नि । चि॒च्यु॒षे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -105,36 +105,36 @@ genre M
 **उत** अपि च हे **इन्द्र** **यः** त्वं **ता** तानि **विश्वानि** समस्तान् शत्रून् 'चिच्युषे प्राच्यावयः । हे **वृत्रहन्** वृत्राणां शत्रूणां हिंसकेन्द्र **गोपतिः** गवां पालकः **सः** त्वं **समानः** सर्वेषां यजमानानां समः सन् प्रख्यातः असि । **घेत्** इति पूरणौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, you are the same to all your worshippers, the lord of cattle, who cast down all these (your enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And you are that same herdsman, o Indra, Vr̥tra-smasher,  
 who set all these things in motion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, O Vrtra-slayer, thou art general Lord of kine for all,  
      Thou Shaker of all things that be.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch bist du, Vritratöter Indra, noch der gleiche Kuhbesitzer, der du alles zuwege gebracht hast.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bist du Vritratödter auch der eine Hirt, o Indra, du, Der alle Welt zugleich bewegt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты, о убийца Вритры, –  
 Всеобщий повелитель коров, о Индра,  

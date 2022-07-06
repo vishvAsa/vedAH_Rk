@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡पाम सो꣡मम् अमृ꣡ता अभूम  
 अ꣡गन्म ज्यो꣡तिर् अ꣡विदाम देवा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कि꣡म् उ धूर्ति꣡र् अमृत म꣡र्तियस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 किम् । नू॒नम् । अ॒स्मान् । कृ॒ण॒व॒त् । अरा॑तिः । किम् । ऊं॒ इति॑ । धू॒र्तिः । अ॒मृ॒त॒ । मर्त्य॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāma* ← *pā*
 - \[verb\], plural, Root aorist (Ind.)
@@ -128,7 +128,7 @@ genre D
 हे अमृत अमरण सोम त्वाम् **अपाम** पानं करवाम। कुर्मः। ततः **अमृताः** **अभूम** भवेम । यस्मात्त्वममृतः अतस्तव पानाद्वयमप्यमृताः स्याम । पश्चात् **ज्योतिः** द्योतमानं स्वर्गम् **अगन्म**। **अविदाम** ज्ञातवन्तः **देवान्** । तथाभूतान् **अस्मान्** **नूनम्** इदानीम् **अरातिः** शत्रुः **किं** **कृणवत्** कुर्यात् । **किमु** किं वा **मर्त्यस्य** इदानीं मनुष्यभूतस्य मम **धूर्तिः** हिंसकः किं कृणवत् कुर्यात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,34 +139,34 @@ genre D
 **Taittirīya** **Saṃhitā** 3.2.5: the past tense is used in the sense of wish, aśaṃsadyotanāya bhūtārthanirdeśaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We have drunk the soma; we have become immortal; we have gone to  the light; we have found the gods.  
 What can hostility do to us now, and what the malice of a mortal, o  immortal one?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We have drunk Soma and become immortal; we have attained the light, the Gods discovered.  
      Now what may foeman's malice do to harm us? What, O Immortal, mortal man's deception?
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 We have drunk Soma and become immortal; We have attained the light the gods discovered. What can hostility now do against us? And what, immortal god, the spite of mortals?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir haben jetzt Soma getrunken, Unsterbliche sind wir geworden; wir sind zum Lichte gelangt, wir haben die Götter gefunden. Was kann uns jetzt die Mißgunst antun, was die Hinterlist eines Sterblichen, o Unsterblicher?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir tranken Soma, wurden nun unsterblich, erlangten Glanz und fanden auf die Götter; Was kann uns schaden nun der Bösen Rotte? unsterblicher, des Sterblichen Gewaltthat?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы выпили сому, мы стали бессмертными,  
 Мы пришли к свету, мы нашли богов.  

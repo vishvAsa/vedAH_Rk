@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि ते दूळ꣡भो र꣡थो  
 अस्माँ꣡ अश्नोतु विश्व꣡तः  
 ये꣡न र꣡क्षसि दाशु꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 येन॑ । रक्ष॑सि । दा॒शुषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -78,7 +78,7 @@ genre M
 हे अग्ने त्वं **येन** रथेन **विश्वतः** विश्वास सर्वासु दिक्षु गच्छन् **दाशुषः** हविष्प्रदातॄन् यजमानान् **रक्षसि** विघ्नेभ्यः पालयसि । **ते** त्वदीयः **दूळभः** दुर्दभः दुर्हिंसः सः **रथः** **अस्मान्** यजमानानु **परि** परितः सर्वतः **अश्नोतु** व्याप्नोतु ॥ अश्नोतेर्व्यत्ययेन परस्मैपदम् ॥ ॥ ९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,34 +89,34 @@ genre M
 **Yajus**. 3.36
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your chariot, difficult to trick, encircle us on all sides,  
 the chariot by which you guard the pious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May thine inviolable car, wherewith thou guardest those who give,  
      Come near to us from every side.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May thy unerring chariot, by which thou protectest the worshippers, encompass us from every side.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein unbeirrbarer Wagen soll uns allenthalben umfahren, mit dem du die Spender schützest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von allen Seiten komme uns dein Wagen, der unhemmbar ist, Durch den die Frommen du umhegst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твоя труднодостижимая колесница  
 Пусть объедет нас со всех сторон,  

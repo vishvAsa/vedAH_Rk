@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि व꣡नसा सह꣡  
 गा꣡वः सचन्त वर्तनिं꣡ य꣡द् ऊ꣡धभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -28,7 +28,7 @@ genre M;; line affected by realignment
 आ । या॒हि॒ । वन॑सा । स॒ह । गावः॑ । स॒च॒न्त॒ । व॒र्त॒निम् । यत् । ऊध॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -74,34 +74,34 @@ genre M;; line affected by realignment
 हे उषः **वनसा** वननीयेन तेजसा धनेन वा सार्धम् **आ** **याहि** आगच्छ । **गावः** उषसो वाहनभूताः **वर्तनिं** रथं सचन्त सेवन्ते । अतस्तेन रथेनायाहीत्यर्थः । **यत्** या गावः ऊधभिः उपलक्षिताः प्रभूताः । पीना इत्यर्थः । ता गाव इति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, (Uṣas), with the desirable (radiance); let the cows who are of full udders accompany yourchariot.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here along with your longing. The cows follow your track, when  (they have given milk) with their udders.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH all thy beauty come: the kine approaching with full udders follow on thy path.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm her mit deiner Vorliebe! Die Kühe folgen deiner Spur, wann sie mit vollem Euter kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm her mit Lust, es folgen ja die Kühe schon mit ihren Eutern deinem Pfad.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи вместе со (своим) благодеянием –  
 (С тем) что коровы с (полным) выменем шествуют по (твоему) следу!

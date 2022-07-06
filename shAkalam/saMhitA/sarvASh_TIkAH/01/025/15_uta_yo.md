@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ यो꣡ मा꣡नुषेषु आ꣡  
 य꣡शश् चक्रे꣡ अ꣡सामि आ꣡  
 अस्मा꣡कम् उद꣡रेषु आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अ॒स्माक॑म् । उ॒दरे॑षु । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -91,36 +91,36 @@ genre M
 **उत** अपि च यः वरुणः मानुषेषु **यशः** अन्नम् **आ** **चक्रे** सर्वतः कृतवान् स वरुणः कुर्वन्नपि **आ** सर्वतः **असामि** संपूर्णं चक्रे न तु न्यूनं कृतवान् । विशेषतः **अस्माकम्** **उदरेषु** “॥ सर्वतः चक्रे ॥ मानुषेषु । ‘मनोर्जातावन्यतौ षुक् च' (पा. सू. ४. १. १६१ ) इति अन् । ‘ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम् । चक्रे । प्रत्ययस्वरः । असामि । अव्यये नञ्कुनिपातानामिति वक्तव्यम्' (पा. सू. ६. २. २. ३) इति अव्ययपूर्वपदप्रकृतिस्वरत्वम् । यशः । अशेर्युट् च' (उ. सू. ४. ६३० ) इति असुन् । उदरेषु ।' उदि दृणातेरजलौ पूर्वपदान्त्यलोपश्च ' ( उ. सू. ५. ६९७) इति अल् । लित्स्वरः । ‘गतिकारकोपपदात्' इत्युत्तरपदप्रकृतिस्वरत्वम् ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who has distributed unlimited food to mankind, and especially to us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And who has created glory here for himself—and not by halves!— among the sons of Manu,  
 right here within our bellies.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who gives glory to mankind, not glory that is incomplete,  
      To our own bodies giving it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und der sich bei den Menschen ganz ungeteilten Respekt verschafft hat und in unseren Leibern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und der den Menschen Herrlichkeit verleiht, die ganz vollkommen ist, Und selbst an unsern Leibern auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также тот, кто среди людей  
 Создал себе безраздельное величие,  

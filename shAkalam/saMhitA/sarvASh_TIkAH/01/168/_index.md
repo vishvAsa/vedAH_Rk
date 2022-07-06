@@ -8,7 +8,7 @@ title = "+168"
 ‘यज्ञायज्ञा' इति दशर्चं चतुर्थं सूक्तमागस्त्यं मारुतम् । अन्त्यास्तिस्रस्त्रिष्टुभः । शिष्टाः सप्त त्रिष्टुबन्तपरिभाषया जगत्यः । यज्ञायज्ञा दश त्रित्रिष्टुबन्तम्' इत्यनुक्रान्तम् । विशेषविनियोगो लैङ्गिकः॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 168  
 Maruts  
@@ -19,7 +19,7 @@ ceptually twisted images as he can (the technical details of all of which we can
 The theme throughout is that, although the Maruts display great violence in  their stormy onslaught, the result is the welcome and fructifying rain (see most clearly vs. 7). This theme is nicely expressed in 3cd, which juxtaposes and combines  the warlike and the peaceful: a spear compared to a woman (see also the previ ous hymn, 167.3), and dagger and bangle placed together in their hands, a pairing  emphasized by their phonological similarity: khādíś ca kr̥tíś ca.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

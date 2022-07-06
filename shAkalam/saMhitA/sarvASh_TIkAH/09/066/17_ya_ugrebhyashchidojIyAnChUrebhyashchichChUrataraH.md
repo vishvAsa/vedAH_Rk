@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उग्रे꣡भ्यश् चिद् ओ꣡जीयाञ्  
 छू꣡रेभ्यश् चिच् छू꣡रतरः  
 भूरिदा꣡भ्यश् चिन् मं꣡हीयान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 भू॒रि॒ऽदाभ्यः॑ । चि॒त् । मंही॑यान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -82,20 +82,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **यः** सोमः **उग्रेभ्यश्चित्** उद्गूर्णेभ्यो बलवद्भ्योऽपि **ओजीयान्** ओजस्वितमः । किंच यः **शूरेभ्यश्चित्** वीरेभ्योऽपि **शूरतरः** अत्यन्तसमर्थो भवति । तथा यः सोमः **भूरिदाभ्यः**। ‘डुदाञ् दाने' ।' आतो मनिन्” इति विच् । बहुधनानां दातृभ्योऽपि **मंहीयान्** दातृतमो भवति । तं त्वां वृणीमह इत्युत्तरेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(You) who (are) mightier than the mighty, braver than the brave, more genitive rous than the genitive rous.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You,) who are stronger even than the strong, more a champion even  than champions,  
 more generous even than those who give much,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. expands on the etymological figure and superlative phrase in 16b, ugrā́ṇām … ójiṣṭhaḥ, but with three pairs of comparatives, beginning with the ugrébhyaḥ … ójīyān, lexically identical to the splv. phrase but morphologically different. The second is also an etym. figure, of less interest than the first because it lacks morphological variation: śū́rebhyaḥ … śū́rataraḥ. While the third substitutes a synonymic cmpd. for the abl. term: bhūridā́bhyaḥ … máṃhīyān “more generous than those who give much.” A low-key but pleasing set of variations on a phrasal theme.
 
@@ -110,23 +110,23 @@ The first two vss. are linked lexically and by their investment in grammatical c
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mightier even than the strong, more valiant even than the brave,  
      More libpral than the bountiful,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gewaltiger noch als die Gewaltigen, tapferer noch als die Tapferen, freigebiger noch als die Vielschenker ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du stärker bist als starke, heldenmüth'ger auch als Helden, Mehr verleihst als gabenreiche,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

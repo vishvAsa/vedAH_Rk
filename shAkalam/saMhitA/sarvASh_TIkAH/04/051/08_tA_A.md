@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ आ꣡ चरन्ति समना꣡ पुर꣡स्तात्  
 समान꣡तः समना꣡ पप्रथानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ग꣡वां न꣡ स꣡र्गा उष꣡सो जरन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋ॒तस्य॑ । दे॒वीः । सद॑सः । बु॒धा॒नाः । गवा॑म् । न । सर्गाः॑ । उ॒षसः॑ । ज॒र॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
@@ -112,7 +112,7 @@ genre M
 **ताः** उषसः **आ** सर्वतः **चरन्ति** । **समना** सर्वतः समाना: **पुरस्तात्** पूर्वस्यां दिशि **समानतः** समानाद्देशात् अन्तरिक्षात् **समना** सर्वतः **पप्रथानाः** प्रथमाना: **ऋतस्य** यज्ञस्य **सदसः** सदः । तत्रत्यम् ऋत्विग्घविरादिकम् इत्यर्थः । **बुधानाः** बोधयन्त्यः ॥ अन्तर्भावितण्यर्थोऽयम् ॥ एवं महानुभावाः **उषसो** **जरन्ते** स्तूयन्ते । **गवां** **सर्गाः** **न** उदकानां सृष्टय इव।  ‘ गवां सर्गा न रश्मयः ' ( ऋ. सं. ४. ५२. ५) इति हि श्रुतम् । ता यथा सर्वत्र प्रसंगादुपकारत्वाच्च स्तूयन्ते तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 Rays: gavām sargā na raśmayaḥ: RV. 4.52.5
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They proceed, in the same way, from the east, spreading out from the  same place in the same way.  
 The Goddess Dawns, awakening from the seat of truth, like gushes of  cows, become wakeful.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -137,23 +137,23 @@ The unbroken similarity of the dawns who just keep coming, day after day, is con
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither from eastward all at once they travel, from one place spreading in the selfsame manner.  
      Awaking, from the seat of holy Order the Godlike Dawns come nigh like troops of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie kommen gleichmäßig aus Osten, von der gleichen Stelle aus gleichmäßig sich ausbreitend. Vom Sitze der Ordnung erwacht sind die Göttinnen Usas´ früh munter wie die Schwärme der Kühe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie wandern herwärts allzumal von Osten auf gleiche Weise allesammt sich breitend, Die Göttlichen, aus heil'gem Sitz erwachend, die Morgenröthen nahn wie Heerden Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они (и сейчас) приближаются так же с востока,  
 Из того же места, так же распространяясь.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ मे वोचताद् इ꣡ति  
 सुत꣡सोमे र꣡थवीतौ  
 न꣡ का꣡मो अ꣡प वेति मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 न । कामः॑ । अप॑ । वे॒ति॒ । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -91,19 +91,19 @@ genre M
 हे ऊर्म्ये **उत** अपि च **मे** मां **वोचतात** ब्रूहि । किमित्युच्यते । **इति** इत्थम् । कथमिति । **सुतसोमे** कृतसोमयागे **रथवीतौ** राज्ञि **मे** **कामः** तत्पुत्रीविषयः **न** **अप** **वेति** नापगच्छति न विरमते इतीत्थं वोचतात ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “And say on my behalf to **Rathavīti**, when the libation is poured out, my love (for your daughter) does not depart.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And then speak for me thus to Rathavīti who has pressed the soma: “My desire does not go off track.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Rathavīti phrase is in the loc.; the published translation renders it as if the addressee, which is technically incorrect. It is either a loc. absol. without participle or a “chez/bei” expression: “speak for me thus when R. (is present) / at R’s.” Since the net result is the same, I have kept the easier-to-parse addressee tr.
 
@@ -118,23 +118,23 @@ As noted in the published introduction, the patron’s name Rathavīti (‘pursu
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From me to Rathaviti say, when he hath pressed the Soma juice,  
      The wish I had departeth not.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und sage für mich also bei Rathaviti, der Soma ausgepreßt hat: "Nicht läßt mein Verlangen ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und so sage zu mir: „Wenn Räthaviti 8oma presst, so wendet sich mein Verlangen nicht von ihm fort."
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И выскажись за меня так  
 У Ратхавити, выжавшего сому:  

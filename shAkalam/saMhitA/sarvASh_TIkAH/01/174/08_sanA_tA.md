@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना ता꣡ त इन्दर+ न꣡व्या आ꣡गुः  
 स꣡हो न꣡भो अ꣡विरणाय पूर्वीः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नन꣡मो व꣡धर् अ꣡देवस्य पीयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भि॒नत् । पुरः॑ । न । भिदः॑ । अदे॑वीः । न॒नमः॑ । वधः॑ । अदे॑वस्य । पी॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā* ← *sana*
 - \[noun\], nominative, plural, neuter
@@ -120,21 +120,21 @@ genre M
 हे **इन्द्र** **ते** तव संबन्धीनि **सना** सदातनानि नित्यानि तानि शौर्याणि **नव्याः** नवतराः इदानींतना ऋषयः **आगुः** आगच्छन्ति स्तुतिव्याजेन प्राप्नुवन्तीत्यर्थः । कानि तानीति उच्यते । **पूर्वीः** बह्वीः **नभः** हिंसाः ॥ नभेर्हिंसार्थात् क्विप् । तदन्तस्येदं रूपम् ॥ **ता** हिंसाः **अविरणाय** अविगतरणाय संग्रामनाशनाय **सहः** अभ्यभवः । तदर्थं **भिदः** भेत्तॄर्घातिकाः **अदेवीः** आसुरीः **पुरो** न पुरीरपि **भिनत्** विदारितवानसि । पुरुषव्यत्ययः । नशब्दश्चार्थे ॥ तथा **अदेवस्य** अस्तुत्यस्य **पीयोः** हिंसकस्यासुरस्य **वधः** वज्रं **ननमः** अनमयः अनुकूलमकरोः ॥ यद्वा । हे इन्द्र सना नित्यं तत्तकाले ते तव संबन्धिन्यः ता तानि । लिङ्गव्यत्ययः । ताः पूर्वीः पुरातन्य आपो नव्या नूत्नाः स्तुत्याः सत्यः आगुः आगच्छन्ति । किमर्थम् । अविरणाय अविरमणाय प्राणिनामविनाशाय । तदर्थं नभो हिंसकान् बन्धकान् वा मेघान् सहः मर्षणमकरोः । किंच अदेवीः पुरः अवर्षणेनादेवनशीलानुदकपुटबन्धनान् भिनत् भिन्नानकरोः । तथा अदेवस्य अदेवनशीलस्य पीयोः प्रतिकूलस्य वृत्रस्य वधर्वज्रं ननमः अनमयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sages have celebrated your everlasting (as well as your) recent (exploits, in achieving which) you have endured many injuries in putting an end to war; verily, you have demolished hostile and undivine cities; you have bowed down the thunderbolt of the undivine **asura**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These are your old (deeds), Indra; new ones have come: you  
 overpowered and exploded the many (strongholds) for the lack of joy  [/end of battle] (of the godless).  
 You split the godless (clans) into pieces, like strongholds; you bowed  the weapon of the godless reviler.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is much disagreement about the first hemistich because of the uncertain grammatical identity of several forms as well as a sandhi problem in pāda a and a hapax in b. Let us begin with the sandhi problem. The clear neut. pl. sánā tā́ “those old (things [=deeds?])” that opens the verse seems rhetorically paired with návyā ‘new’ towards the end of the pāda, but in its sandhi situation, before vowelinitial ā́guḥ, návyā should underlyingly end in -āḥ, a masc. nom. pl. or fem. nom./acc. pl. (so Pp). Most standard tr. try to reflect this sandhi one way or another: Geldner takes the ref. to be nábhaḥ in b, which he takes as a fem. pl. root noun nábh-. But “These are your old (deeds). New (clouds) have come” is, with all due respect to Geldner, absurd.
 
@@ -149,23 +149,23 @@ As for the rest of pāda b, I supply ‘strongholds’ (púraḥ) from pāda c w
 After the travails of ab, the rest of the verse is fairly straightforward. I supply víśaḥ ‘clans’ with ádevīḥ on the basis of the occurrence of this expression elsewhere (e.g., VI.49.15) and take bhídaḥ (which, unlike the two -aḥ forms in b, I do interpr as the acc. pl. of a root noun) as a kind of proleptic cognate acc. with bhinát: “split … into smithereens.” I would in fact now substitute this more colorful expression for the published translation “split into pieces.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These thine old deeds new bards have sung, O Indra. Thou conqueredst, boundest many tribes for ever.  
      Like castles thou hast crushed the godless races, and bowed the godless scorner's deadly weapon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies sind deine alten Taten, Indra. Neue Wolken sind gekommen. Überwinde die vielen Wolken, daß die Unfreude aufhöre. Brich die gottlosen Einbrüche wie ihre Burgen; wende die Waffe des gottlosen Widersachers ab!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies alte, Indra, und dies neue rühmt man: viel Frevler schlugst du, dass sie nimmer aufstehn, Zerbrachst wie Burgen die verruchten Rotten, des bösen Schmähers Keule warfst du nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это, о Индра, твои древние (деяния). Новые пришли (поколения).  
 Одолей многие враждебные силы, чтобы не было недовольства!  

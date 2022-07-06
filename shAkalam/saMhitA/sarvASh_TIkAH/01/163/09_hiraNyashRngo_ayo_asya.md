@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हि꣡रण्यशृङ्गो अ꣡यो अस्य पा꣡दा  
 म꣡नोजवा अ꣡वर इ꣡न्द्र आसीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ अ꣡र्वन्तम् प्रथमो꣡ अध्य꣡तिष्ठत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दे॒वाः । इत् । अ॒स्य॒ । ह॒विः॒ऽअद्य॑म् । आ॒य॒न् । यः । अर्व॑न्तम् । प्र॒थ॒मः । अ॒धि॒ऽअति॑ष्ठत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hiraṇyaśṛṅgo* ← *hiraṇya*
 - \[noun\], neuter
@@ -128,7 +128,7 @@ popular
 अयमश्वः **हिरण्यशृङ्गः** हितरमणीयशृङ्गो वा उन्नतशिरस्को हृदयरमणशृङ्ग स्थानीयशिरोरुहो वा **अस्य** **पादाः** **अयः** अयोमयाः अयःपिण्डसदृशा इत्यर्थः । तथा **मनोजवाः** मनोवेगाः । अथवा एतदिन्द्रविशेषणम् । ईदृशस्याश्वस्य सामर्थ्यं प्रति मनोवेगः **इन्द्रः** अपि **अवरः** निकृष्टः **आसीत्** । किंच **अस्य** अश्वस्य हविरद्यं हविषः अदनं भक्षणम् ॥ स्वार्थिको यत् ॥ अदनयोग्यं हविर्वा अपेक्ष्य **देवा** **इत्** सर्वेऽपि देवाः **आयन्** प्राप्ताः । **यः** इन्द्रः **अर्वन्तं** **प्रथमः** प्रथमभावी सन् **अध्यतिष्ठत्** अधिष्ठितवान् स्वहविष्ट्वेन' स्वकीयत्वेन वा आश्रितवानित्यर्थः । ‘इन्द्र एणं प्रथमो अध्यतिष्ठत्' इति ह्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,36 +139,36 @@ popular
 His mane is of gold: hirṇyaśṛṅga = lit. golden-horned; but figuratively, golden-maned
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having golden horns [=rays], his feet copper, swift as thought he was  (an) Indra in the lower (realm).  
 The gods themselves came to eat the oblation of him, who first  mounted the steed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the syntax of pāda a, see comm. on 1c.
 
 Against the Pp (and all standard tr., as well as Krick) I take the sandhi form ávara as standing for loc. sg. ávare, not nom. sg. ávaraḥ. Although ávara- is a pronominal adjective, and several instances of ávare are nom. pl., there are also several that are undeniably loc. sg. (II.9.3, 24.11). Taking it as a nom. sg. requires attributing lesser powers to Indra, which strikes me as pragmatically unlikely (cf., e.g., Oldenberg “geringer (an Schnelle) war Indra”). My interpretation identifies the horse/sun-bird with Indra and situates him in a lower realm (the midspace, presumably).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Horns made of gold hath he: his feet are iron: less fleet than he, though swift as thought, is Indra.  
      The Gods have come that they may taste the oblation of him who mounted, first of all, the Courser.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit goldenen Hörnern, seine Füße von Erz, ist er schnell wie der Gedanke - Indra blieb hinter ihm zurück. Die Götter kamen zu dessen Opfermahl, der als erster das Rennpferd bestieg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Goldhufig ist er, Eisen seine Füsse, der gedankenschnelle Indra blieb hinter ihm zurück; die Götter alle kamen zu der Opferspeise dessen, der zuerst den Renner bestieg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он с золотыми рогами, его ноги из железа,  
 Он стремителен, как мысль, – Индра остался позади него.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विद्मा꣡ हि꣡ त्वा धनंजयं꣡  
 वा꣡जेषु दधृषं꣡ कवे  
 अ꣡धा ते सुम्न꣡म् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अध॑ । ते॒ । सु॒म्नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
@@ -84,36 +84,36 @@ genre M
 हे **कवे** क्रान्तदर्शिन्निन्द्र **वाजेषु** युद्धेषु दधृषं शत्रूणामभिभवितारम् अत एव **धनंजयम्** । धनं जयतीति धनंजयः । तादृशं **त्वा** त्वां **विद्म** **हि** जानीमः खलु । **अध** अनन्तरं **ते** तव सुम्नं धनम् **ईमहे** याचामहे ॥ विद्म । विदेर्लटि ‘ विदो लटो वा ' इति मसो मादेशः । पादादित्वात् अनिघातः । धनंजयम् । ‘ जि जये' इत्यस्मात् धने उपपदे संज्ञायां भृतॄवृजिधारिसहितपिदमः । इति खच्प्रत्ययः । ‘ अरुर्द्विषदजन्तस्य मुम्' इति पूर्वपदस्य मुमागमः । चित्त्वादन्तोदात्तः । दधृषम् । ‘ ञिधृषा प्रागल्भ्ये' इत्यस्य यङ्लुकि अभ्यासस्य रीगभावश्छान्दसः । तदन्तात् पचाद्यचि ‘यङोऽचि च' इति यङो लुक् । लघूपधगुणे प्राप्ते ‘न धातुलोपे° ' इति तस्य प्रतिषेधः । चित्त्वादन्तोदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Far-seeing **Indra**, we know you to be victorious and winner of wealth in battles; therefore we ask of you riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because we know you as one winning the stakes, as one daring in  prize-contests, you sage,  
 therefore we beg for your favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We know thee winner of the spoil, and resolute in battles, Sage!  
      Therefore thy blessing we implore.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn wir kennen dich als Schätzeerbeuter, mutig in den Kämpfen, o Seher. Darum bitten wir um deine Huld.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wissen, dass du Beute machst, und, Weiser, kühn in Schlachten bist; Drum wünschen wir uns deine Gunst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь мы знаем тебя как завоевателя наград,  
 Отважного в битвах за награду, о поэт.  

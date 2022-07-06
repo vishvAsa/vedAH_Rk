@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 खे꣡ र꣡थस्य खे꣡ अ꣡नसः  
 खे꣡ युग꣡स्य शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡कृणोः सू꣡रियत्वचम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 अ॒पा॒लाम् । इ॒न्द्र॒ । त्रिः । पू॒त्वी । अकृ॑णोः । सूर्य॑ऽत्वचम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *khe* ← *kha*
 - \[noun\], locative, singular, neuter
@@ -110,7 +110,7 @@ popular;; epic anuṣṭubh (525)
 अनयापालां सूर्यसदृशप्रभामकरोदित्याह । हे **शतक्रतो** हे शतसंख्याकयज्ञ बहुविधप्रज्ञ वा हे **इन्द्र** **रथस्य** स्वकीयस्य **खे** पृथुतरे छिद्रे तथा **अनसः** शकटस्य **खे** तदपेक्षयाल्पे छिद्रे **युगस्य** **खे** चाल्पतरे सूक्ष्मे छिद्रे रथशकटयुगानां छिद्रेषु त्वग्दोषपरिहाराय **त्रिः** त्रिवारं निष्कर्षणेन **पूत्वी** शोधयित्वा ततः अपालाम् एतन्नामिकामत्रिसुतां ब्रह्मवादिनीं **सूर्यत्वचं** सूर्यसमानत्वचम् **अकृणोः** अकरोः । कल्याणतमरूपभाजमकरोरित्यर्थः शाट्यायनकब्राह्मणे स्पष्टमभिहितः- ‘ तां खे रथस्यात्यबृहत्सा   गोधाभवत्तां खेऽनसोऽत्यबृहत्सा संश्लिष्टकाभवत्तदेषाभ्यनूच्यते खे रथस्य खेऽनस इति । तस्यै ह यत्कल्याणतमं रूपाणां तद्रूपमास' इति । त्वग्दोषापनयनाथ अक्षादिद्वारेष्वतिकर्षणमिति। यस्त्वग्दोषदूषितः सन्नेतत्सूक्तं पठति तस्य त्वग्दोषमपगमय्य सूर्यसदृशकान्तिमिन्द्रः करोतीति सूक्तं प्रशस्यते ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ popular;; epic anuṣṭubh (525)
 Thrice did you purify: **Indra** draggedher through the wide hole of his chariot, the narrower hole of the cart, and the small hole of the yoke, and shecast off three skins. The first skin became a hedge-hog, the second an alligator, the third a chameleon
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the nave of a chariot, in the nave of a wagon, in the nave of a yoke, o  Indra of a hundred resolves,  
 having purified Apālā three times, you made (her) sun-skinned.  
 The next three hymns, 92–94, should be grouped together, according to Oldenberg  (1888: 218).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
 <details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -136,23 +136,23 @@ On the connection between hair growth and skin disease, see Jamison 1991: 146-70
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cleansing Apala, Indra! thrice, thou gavest sunlike skin to her,  
      Drawn, Satakratu! through the hole of car, of wagon, and of yoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem Nabenloch des Streitwagens, in dem Nabenloch des Karrens, in des Joches Loche hast du ratreicher Indra die Apala dreimal gereinigt und ihr eine sonnengleiche Haut gegeben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, zogest Viçpala, o starker durch drei Höhlungen Des Rades, Karrens und Gespanns, und sonnenrein ward ihre Haut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

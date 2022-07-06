@@ -8,7 +8,7 @@ title = "+147"
 ‘ कथा ते ' इति पञ्चर्चं सप्तमं सूक्तं दैर्घतमसमाग्नेयं त्रैष्टुभम् । 'कथा' इत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोरस्य सूक्तस्य विनियोगः ' त्रिमूर्धानमिति त्रीणि ' इत्यनेनोक्तः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 147  
 Agni  
@@ -20,7 +20,7 @@ The insistence on the cheating and duplicity of these rivals and the general  em
 It is also worth noting that this is the first time in the Dīrghatamas cycle that he  refers to himself by name, that is, by his metronymic Māmateya (vs. 3).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Agni
 </details>

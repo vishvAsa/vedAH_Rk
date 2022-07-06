@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡पसा ये꣡ अनाधृष्या꣡स्  
 त꣡पसा ये꣡ सु꣡वर् ययुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तां꣡श् चिद् एवा꣡पि गछतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 तपः॑ । ये । च॒क्रि॒रे । महः॑ । तान् । चि॒त् । ए॒व । अपि॑ । ग॒च्छ॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
@@ -123,36 +123,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 **ये** जनाः **तपसा** कृच्छ्रचान्द्रायणादिना युक्ताः सन्तः **अनाधृष्याः** पापैरप्रधृष्या भवन्ति । **ये** च **तपसा** यागादिरूपेण साधनेन **स्वर्ययुः** स्वर्गं यान्ति प्राप्नुवन्ति । **ये** च **महः** महत् **तपः** अन्यैर्दुष्करं राजसूयाश्वमेधादिकं हिरण्यगर्भाद्युपासनं वा **चक्रिरे** कुर्वन्ति एतेषु प्रवर्तन्ते तेषु लोकेषु । **तांश्चित्** तानेव तपस्विनो हे प्रेत अपिगच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “To those who through penance are unassailable (by sin), to those who through penance have gone toheaven, to those who have performed abundant penance, do you (O dead one) go.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who were unassailable because of their fervor, who have gone to  the sun because of their fervor,  
 who have made their own fervor into greatness—right to them let him  go now.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Invincible through Fervour, those whom Fervour hath advanced to heaven,  
      Who showed great Fervour in their lives, -even to those let him depart.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die durch Kasteiung unbezwingbar waren, die durch Kasteiung zum Sonnenlicht gegangen sind, die die Kasteiung zu ihrer Herrlichkeit gemacht haben, auch zu diesem soll er gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, unerreicht durch Büsserwerk, die Busse zu dem Himmel hob, Die grosses Büsserwerk vollbracht, zu diesen allen gehe hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто благодаря пылу стал непобедимым,  
 Кто благодаря пылу достиг неба,  

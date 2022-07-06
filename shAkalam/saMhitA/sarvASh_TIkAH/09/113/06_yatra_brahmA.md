@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र ब्रह्मा꣡ पवमान  
 छन्दसि꣡यां वा꣡चं व꣡दन्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 ग्राव्णा॑ । सोमे॑ । म॒ही॒यते॑ । सोमे॑न । आ॒ऽन॒न्दम् । ज॒नय॑न् । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -115,7 +115,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **पवमान** पूयमान सोम त्वदर्थं **छन्दस्यां** सप्तच्छन्दोभिः कृतां तेषु भवां **वाचं** स्तुतिं वदन् उच्चारयन् **सोमे** सोमाभिषवार्थं **ग्राव्णा** अभिषवं कुर्वता युक्तस्तेनाभिषुतेन **सोमेन** देवानाम् **आनन्दं** संतोषं **जनयन्** उत्पादयन् **ब्रह्मा** ब्राह्मणः **यत्र** यस्मिन् देशे **महीयते** देवैः पूज्यते तत्र हे सोम स्वं **परि** **स्रव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,13 +126,13 @@ popular;; epic anuṣṭubh (525);; repeated line
 Engendering delight: someṇānandam janayan, 'producing joy with the Soma';
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where, o self-purifying one, the formulator, speaking metrical speech along with the pressing stone, makes himself great on soma, generating  joy with soma—  
 – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Despite the hemistich boundary and the tr. of Geldner/Renou, I take grā́vṇā in c with vádan, immediately preceding it in b, because the grā́van- regularly “speaks” elsewhere (cf. VIII.34.2, X.36.4 grā́vā vádan, V.37.2 grā́vāṇaḥ … vádanti). Geldner and Renou need to supply material in order to construe it with pāda c.
 
@@ -146,23 +146,23 @@ On the relationship between these vss. and their function in the hymn, see publi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, where the priest, as he recites the rhythmic prayer,  
      Lords it o'er Soma with the stone, with Soma bringing forth delight, flow, Indu, flow for Indra's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo, o Pavamana, der Hohepriester in gebundener Rede sprechend mit dem Preßstein in der Hand bei Soma sich erhaben fühlt, durch den Soma Wonne wirkend, da fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo, rieselnder! der Beter dir die schöngemessnen Worte spricht, Beim Soma mit dem Stein sich regt, durch Soma zeugend hohe Lust, da ström' dem Indra, Indu, zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где брахман, о Павамана,  
 Ведя метрическую речь,  

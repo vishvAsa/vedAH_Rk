@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि णो अ꣡श्वम् अश्ववि꣡द्  
 गो꣡मद् इन्दो हि꣡रण्यवत्  
 क्ष꣡रा सहस्रि꣡णीर् इ꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्षर॑ । स॒ह॒स्रिणीः । इषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **अश्ववित्** अश्वस्य लम्भकस्त्वं **नः** अस्माकम् **अश्वं** **गोमत्** गोयुक्तं **हिरण्यवत्** हिरण्योपेतं धनं च **परि** **क्षर** । अपि च **सहस्रिणीः** बहूनि **इषः** अन्नानि क्षर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, conqueror of horses, shower forth horses with cattle and gold and unbounded food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stream around to us horseflesh, as horse-finder, and (wealth) in cattle  and gold, o drop,  
 and thousandfold refreshments.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Inhaltsakk. with pári … kṣárā are disharmonious in formation, with the sg.
 
@@ -113,24 +113,24 @@ This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, wi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Finder of horses, pour on us horses and  
      wealth in kine and gold,  
      And, Indu, food in boundless store.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fließe du, Saft, der Rossefinder, uns Roß und Besitz von Rindern und Gold zu und tausendfältige Speisegenüsse!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O ströme Rosse spendend du uns Gut an Ross und Rind und Gold, O Indu, tausend Tränke zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 При(неси) нам, струясь, коня, (ты,) находящий коней,  
 Владение коровами, о капля, владение золотом!  

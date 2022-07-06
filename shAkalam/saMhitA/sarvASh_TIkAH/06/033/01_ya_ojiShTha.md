@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ओ꣡जिष्ठ इन्दर+ तं꣡ सु꣡ नो दा  
 म꣡दो वृषन् सुअभिष्टि꣡र् दा᳐꣡स्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृत्रा꣡ सम꣡त्सु सास꣡हद् अमि꣡त्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सौव॑श्व्यम् । यः । व॒नव॑त् । सु॒ऽअश्वः॑ । वृ॒त्रा । स॒मत्ऽसु॑ । स॒सह॑त् । अ॒मित्रा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -132,41 +132,41 @@ genre M
 हे **वृषन्** कामानां वर्षितः **इन्द्र** त्वं **यः** पुत्रः **ओजिष्ठः** ओजस्वितमो बलवत्तमः **मदः** तव मादयिता स्तुतिभिः स्तोतेत्यर्थः । **स्वभिष्टिः** शोभनाभ्येषणः  **दास्वान्**। हविषां दानं दाः । तद्वान् । एवंगुणविशिष्टं **तं** पुत्रं **नः** अस्मभ्यं **सु** सुष्ठु **दाः** देहि। 'यः पुत्रः **स्वश्वः** सन् **समत्सु** संग्रामेषु **सौवश्व्यं** शोभनाश्वानां समूहं **वनवत्** हिंस्यात् । तथा **वृत्रा** वृत्रान् वारयितॄन् **अमित्रान्** शत्रूंश्च **सासहत्** अत्यर्थमभिभवेत् तं दा इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Showerer (of benefits), **Indra**, grant us a son who shall be most vigorous, a delighter (of you by praise), a pious sacrificer, a liberal giver, who, mounted on a good steed, shall overthrow numerous good steeds, and conquer opposing enemies in combat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What is the most mighty, o Indra, give that to us: your (battle-)ecstasy,  very superior and rich in gifts, o bull,  
 which, possessing good horses, will win a mass of good horses and will  defeat obstacles and enemies in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pāda-final dā́svān, to be read with distraction as dáasvān, presumably reflecting a laryngeal hiatus, resonates with sauvaśv(i)yam and s(u)vaśvo in b, despite the different sibilants. The stem dā́svant- (8x) must always be read distracted and presumably reflects, as already indicated by Grassmann, an underlying s-stem built to √dā, hence in IIr. terms *dáh-as-.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GIVE us the rapture that is mightiest, Indra, prompt to bestow and swift to aid, O Hero,  
      That wins with brave steeds where brave steeds encounter, and quells the Vrtras and the foes in battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was deine stärkste Kampfbegeisterung ist, die verleih uns fein, du Bulle Indra, die überlegen, freigebig ist, die gut zu Pferde die Meisterschaft zu Pferde gewinnt, die in der Schlacht die Feinde, die Gegner bezwingt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Muth, o Indra, gib uns, der der stärkste, an Hülfen reich, o Held, ist und an Gaben; Du, reich an Rossen, bringe Rossereichthum, die Feinde schlag in Schlachten, die uns hassen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьянение (битвой), которое самое сильное, о Индра, дай нам его целиком,  
 О бык, (то,) что прекрасно помогает, щедрое,  

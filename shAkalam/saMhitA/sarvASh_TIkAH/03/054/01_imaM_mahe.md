@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡म् महे꣡ विदथि꣡याय शूषं꣡  
 श꣡श्वत् कृ꣡त्व ई꣡डियाय प्र꣡ जभ्रुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शृणो꣡तु अग्नि꣡र् दिवियइ꣡र् अ꣡जस्रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शृ॒णोतु॑ । नः॒ । दम्ये॑भिः । अनी॑कैः । शृ॒णोतु॑ । अ॒ग्निः । दि॒व्यैः । अज॑स्रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
@@ -113,14 +113,14 @@ genre M
 **महे** महते **विदथ्याय** विदथे यज्ञे मन्थनेन निष्पाद्यमानाय **ईड्याय** सर्वैः स्तुत्यायाग्नये **शूषं** सुखकरम् **इमं** स्तोमं **शश्वत्कृत्वः** भूयो भूयः **प्र** **जभ्रुः** प्रभरन्ति प्रकर्षेण धारयन्ति । उच्चारयन्तीत्यर्थः । सः **अग्निः** **दम्येभिः** परेषां दमनकुशलैः दमे गृहे विद्यमानैवर्वा **अनीकैः** तेजोभिः युक्तः सन् **नः** अस्मदीयमिमं स्तोमं **शृणोतु** । **दिव्यैः** दिवि भवैस्तेजोभिः **अजस्रः** निरन्तरं युक्तोऽग्निरिमं स्तोमं **शृणोतु** । शश्वत्कृत्व ईड्याय प्र जभ्रुरिति स्वानामेवैनं तच्छ्रैष्यं । गमयति' (ऐ. ब्रा. १. २८) इति ब्राह्मणानुसारेण महदादिगुणविशिष्टाय यजमानाय इममग्निं प्रजभ्रुः प्रहरन्त्यृत्विज इति वा व्याख्येयम् । उत्तरोऽर्धर्चः समान एव ॥ विदथ्याय। तत्र भव इत्यर्थे ‘भवे छन्दसि ' इति यत्। तित्स्वरितः । ईड्याय । ईडवन्द ' इत्यादिना उदात्तत्वम् । दम्येभिः । तत्र साधुः' इति यत् ।  ‘ यतो नावः' इत्याद्युदात्तत्वम्। दिव्यैः । दिवमर्हतीत्यर्थे  ‘ छन्दसि च ' इति यप्रत्ययः । अजस्रः ।  ‘ जसु मोक्षणे'। नञ्पूर्वः । ' नमिकम्पि ' इत्यादिना ताच्छीलिको रप्रत्ययः । नञा समासे तस्य स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They recite repeatedly this gratifying praise to the great product of sacrifice (**Agni**); may he who is (endowed) with domestic radiance hear us; may the imperishable Agni, (endowed) with divine radiance, hear us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This fortifying (hymn) here have they presented to the great one  
 belonging to the rite, who is to be reverently invoked repeatedly time  after time.  
@@ -128,30 +128,30 @@ Let him listen to us with his faces belonging to the house; let
 inexhaustible Agni listen with (his faces) belonging to heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All four pādas contain a distracted - i ya- form immediately after an early caesura.
 
 The expression “listen with his … faces” is somewhat comic, though clearly domestic and heavenly “faces” refer to Agni’s aspects in those two places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him adorable, mighty, meet for synods, this strengthening hymn, unceasing, have they offered.  
      May Agni hear us with his homely splendours, hear us, Eternal One, with heavenly lustre.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Stärkung haben sie dem in weiser Rede bewanderten Großen, dem immer wieder Anzurufenden, dargebracht. Er soll uns mit seinen häuslichen Gesichtern erhören, Agni soll uns mit seinen himmlischen erhören, der nie Ermattende.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Preislied brachten fort und fort dem grossen, dem preisenswerthen, festlichen die Sänger; Es hör' uns Agni mit des Hauses Feuern, mit Himmelsflammen hör' er unauslöschlich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот гимн принесли великому (богу),  
 Связанному с жертвенной раздачей, всегда достойному призыва.  

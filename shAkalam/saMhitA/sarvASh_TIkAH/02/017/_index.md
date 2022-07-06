@@ -8,7 +8,7 @@ title = "+017"
 ' तदस्मै ' इति नवर्चं षष्ठं सूक्तं गार्त्समदमैन्द्रम् । अत्रानुक्रमणिका- तदस्मै द्वित्रिष्टुबन्तम् ' इति । अन्त्ये द्वे त्रिष्टुभौ शिष्टाः सप्त जगत्य । अतिरात्रे द्वितीये पर्यायेऽच्छावाकशस्त्रे ' तदस्मै ' इति सूक्तम् । ' अतिरात्रे पर्यायाणाम् ' इति खण्डे सूत्रितं- ' तदस्मै नव्यमस्य पिब यस्य जज्ञान इन्द्रेति याज्या ' (आश्व. श्रौ. ६. ४) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 17 (208)  
 Indra  
@@ -19,7 +19,7 @@ ing (vss. 3, 5). The poet calls upon Indra to give sustenance to him just as he 
 Striking is pāda 6b, which says that Tvaṣṭar made Indra’s mace “from every  race,” meaning from both gods and mortals, and “out of his knowledge,” per haps his knowledge of all creatures (cf. IV.42.3, cited by Geldner although to  make a different point) or alternatively, “out of their possessions.” That is to  say, the weapon by which Indra performs his great deeds draws on the totality  of humans and gods for its power. Oldenberg observed that the juxtaposition  of the words janúṣo védas (“race. . . knowledge [/possession]”) recalls the epithet Jātavedas, which describes Agni as the continuous presence throughout the sacri ficial day and the guarantor of the continuity of the human lineage. Perhaps this  constitutes an oblique reference to the totality of gods and mortals that becomes  Indra’s weapon.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra (misc. comments by SJ to JPB tr.)
 </details>

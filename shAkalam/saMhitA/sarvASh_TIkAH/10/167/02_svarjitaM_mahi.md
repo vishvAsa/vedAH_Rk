@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअर्जि꣡तम् म꣡हि मन्दान꣡म् अ꣡न्धसो  
 ह꣡वामहे प꣡रि शक्रं꣡ सुताँ꣡ उ꣡प  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स्पृ꣡धो ज꣡यन्तम् मघ꣡वानम् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 इ॒मम् । नः॒ । य॒ज्ञम् । इ॒ह । बो॒धि॒ । आ । ग॒हि॒ । स्पृधः॑ । जय॑न्तम् । म॒घऽवा॑नम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svarjitam* ← *svar*
 - \[noun\], neuter
@@ -130,36 +130,36 @@ popular
 **स्वर्जितम्** उक्तप्रकारेण स्वर्गस्य जेतारं **महि** महान्तम् **अन्धसः** अन्नस्य सोमस्य पानेन **मन्दानं** मोदमानं हृष्यन्तं **शक्रं** सर्वकार्येषु शक्तमिन्द्रं **सुतानुप** अभिषुतान् सोमान् प्रति **परि** **हवामहे** । परित आह्वयामहे । हे इन्द्र इत्थमाहूयमानस्त्वं **नः** अस्माकम् **इमं** **यज्ञम्** **इह** अस्मिन् देशे **बोधि** बुध्यस्व । बुद्ध्वा च **आ** **गहि** आगच्छ । **स्पृधः** स्पर्धमानाः शत्रुसेनाः ”जयन्तम् अभिभवन्तं **मघवानं** धनवन्तं त्वाम् **ईमहे** । अपेक्षितानि धनानि याचामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We summon to the libations the mighty **Śukra**, the conqueror of heaven, exhilarated by sacrificialfood; take notice of this our sacrifice here and come; we solicit (for wealth) **Maghavan**, victorious over his foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The conqueror of the sun who finds great exhilaration in the soma-stalk  do we call here to the pressings—the all-around able one.  
 Take notice of this sacrifice of ours here. Come here! We beseech the  bounteous one who conquers his opponents.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us call Sakra to libations here effused, winner of light who joyeth in the potent juice.  
      Mark well this sacrifice of ours and come to us: we pray to Maghavan the Vanquisher of hosts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Sonnenersieger, der sich an dem Tranke baß berauscht, den Mächtigen laden wir zu den gepreßten Tränken ein. Nimm dieses unser Opfer hier wahr, komm! Wir haben ein Anliegen an den Feindebesieger, den Gabenreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Himmelsstürmer, der des Soma's hoch sich freut, den starken rufen zu den Tränken wir herbei; Auf dieses Opfer achte hier und komme her, den mächtigen, den Feindbesieger gehn wir an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Победившего солнце, мощно опьяняющегося растением,  
 Могучего мы приглашаем к выжатым (сокам).  

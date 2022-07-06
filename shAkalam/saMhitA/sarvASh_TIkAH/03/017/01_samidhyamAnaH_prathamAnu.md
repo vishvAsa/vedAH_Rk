@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समिध्य꣡मानः प्रथमा꣡नु ध꣡र्मा  
 स꣡म् अक्तु꣡भिर् अज्यते विश्व꣡वारः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुयज्ञो꣡ अग्नि꣡र् यज꣡थाय देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शो॒चिःऽके॑शः । घृ॒तऽनि॑र्निक् । पा॒व॒कः । सु॒ऽय॒ज्ञः । अ॒ग्निः । य॒जथा॑य । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhyamānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -120,7 +120,7 @@ genre M
 कतः स्तौति । **धर्म** । धारणात् धर्म । अग्नेः यज्ञनिर्वाहकतया तद्धारकत्वाद्धर्माग्निः । तथा च मन्त्रः----’ धर्माणमग्निं विदथस्य साधनम् ' ( ऋ. सं. १०. ९२. २) इति । तादृशोऽग्निः **प्रथमा** प्रथमं यज्ञोपक्रमे **अनु** अग्न्यायतनेष्वनुक्रमेण **समिध्यमानः** सम्यक् प्रज्वाल्यमानः । यद्वा । अनु धर्म धर्मसाधनभूतेषु यज्ञेषु प्रथमं समिध्यमानः । **विश्ववारः** विश्वैः सर्वैर्यजमानैर्यष्टव्यतया वरणीयः **शोचिष्केशः** शोचींषि ज्वालाः केशा यस्य स तथोक्तः । **घृतनिर्णिक्** घृतस्य तापनद्वारा विलापनेन शोधकः । **पावकः** अस्मदीयपापशोधकः । **सुयज्ञः** शोभनयज्ञोपेतः । एवंभूतः **अग्निः** **देवान्** अस्माभिर्यजनीयान् देवान् **यजथाय** यष्टुम् **अक्तुभिः** अञ्जनसाधनैर्घृतादिभिः **सम्** **अज्यते** सम्यक् सिच्यते ॥ प्रथमा । ‘सुपां सुलुक्' इति सुपो डादेशः । धर्म । ‘ धृञ् धारणे' इत्यस्मात् “ अन्येभ्योऽपि दृश्यन्ते' इति मनिन् । ह्रस्वत्वं छान्दसम् । नित्स्वरः । अक्तुभिः । 'अञ्जू व्यक्तिगतिम्रक्षणेषु' । अज्यत एभिरिति बाहुलकत्वात् क्तुः करणे । कित्त्वादुपधालोपः । प्रत्ययस्वरः । अज्यते । स एव धातुः । कर्मणि यक् । “ अनिदिताम् ' इत्युपधालोपः। विश्ववारः । विश्वैर्यजमानैर्होतृद्वारा वारो वारणं यस्येत्यत्र ‘वृञ् वरणे ' इत्यस्य ण्यन्तस्य रूपं वारः । ‘ बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । घृतनिर्णिक् । ‘ णिजिर् शौचपोषणयोः । क्विप्  । घृतं नेनेक्तीति द्वितीयातत्पुरुषत्वात् पूर्वपदस्वरः । यजथाय । ‘ यज देवपूजासंगतिकरणदानेषु । अरमादौणादिकः अथप्रत्ययः । तादर्थ्ये चतुर्थी । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,35 +131,35 @@ genre M
 The righteous Agni: prathamānudharmā: **dharma** is a synonym of agni; or, the construction may be anudharma, according to law or religion
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being kindled according to his first foundations, he who fulfills all wishes  is anointed with unguents—  
 he, the flame-haired, ghee-cloaked, purifying Agni, who makes the  
 sacrifice good—in order to sacrifice to the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents,-  
      Flame-haired, oil-clad, the purifying Agni, skilled in fair rites, to bring the Gods for worship.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who is inflamed after the primitive ordinances, is anointed with ointments 1, the giver of all treasures, he whose hair is flame, whose stately robe is ghee, the purifier, skilled in sacrifice, Agni—that he may sacrifice to the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den ersten Bestimmungen gemäß entzündet, wird er mit Salben gesalbt, allbegehrt, flammenhaarig, in Schmalz festlich gekleidet, der lautere gutopfernde Agni, um den Göttern zu opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet nach althergebrachten Bräuchen wird er der reiche nun gesalbt mit Salben, Er welcher flammt lichthaarig, fettgekleidet, schön opfernd, Agni, für der Götter Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зажигаемый согласно первым установлениям,  
 Он умащается мазями, желанный для всех,  

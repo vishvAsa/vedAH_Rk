@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्विनाव् ए꣡ह꣡ गछतं  
 ना꣡सत्या मा꣡ वि꣡ वेनतम्  
 हंसा꣡व् इव पततम् आ꣡ सुताँ꣡ उ꣡प
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 हं॒सौऽइ॑व । प॒त॒त॒म् । आ । सु॒तान् । उप॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
@@ -99,7 +99,7 @@ genre M
 हे अश्विनौ **इह** अस्मिन् यागे **आ** **गच्छतम्** । हे **नासत्या** **मा** **वि** **वेनतम्** । वेनतिः कान्तिकर्मा । मा विकामौ भवतम् । निःस्पृहावकामौ वा न भवतमित्यर्थः । **हंसाविव** तौ यथा निर्मलोदकमागच्छतस्तद्वत् **सुतान्** अभिषुतान् सोमान् **उप** **आ** **पततम्** उपागच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,29 +110,29 @@ genre M
 Swans: the **haṃsa**, the swan of goose is a connoisseur in pure water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, come here! O Nāsatyas, do not lose the track!  
 – Like wild geese, fly here to the soma-pressings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YE Asvins, hither come to us: Nasatyas, be not disinclined.  
      Fly hither like two swans unto the juice we shed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Asvin! Kommet hierher! Nasatya´s, wendet euren Blick nicht ab! Gleich Gänsen flieget zum Somasaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, kommet her zu uns, entzieht euch nicht, wahrhaftige; So wie zwei Schwäne fliegt zu unsern Tränken her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ашвины, приезжайте сюда!  
 О Насатьи, не отворачивайтесь!  

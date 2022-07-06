@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 के꣡ ते अग्ने रिप꣡वे ब꣡न्धनासः  
 के꣡ पाय꣡वः सनिषन्त द्युम꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡ आ꣡सतो व꣡चसः सन्ति गोपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 के । धा॒सिम् । अ॒ग्ने॒ । अनृ॑तस्य । पा॒न्ति॒ । के । अस॑तः । वच॑सः । स॒न्ति॒ । गो॒पाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
@@ -122,7 +122,7 @@ genre M
 हे **अग्ने** ये **रिपवे** स्वकीयस्य शत्रोः **बन्धनासः** बन्धकाः स्युः **ते** त्वत्संबन्धिनस्ते पुरुषाः **के** कीदृशाः । सामर्थ्यातिशयादेवंविधा इति केनापि ज्ञातुं न शक्यन्त इत्यर्थः । ये **पायवः** जनानां रक्षितारः **द्युमन्तः** दीप्तिमन्तः **सनिषन्त** दीनेभ्यो धनं प्रयच्छन्ति ते त्वदीयाः कीदृशाः । ये **अनृतस्य** असत्यस्य **धासिं** धारकं जनं **पान्ति** रक्षन्ति ते. त्वदीया जनाः **के** **सन्ति** । न केऽपीत्यर्थः । ये **असतः** दुष्टस्याभिशापादिलक्षणस्य **वचसः** **गोपाः** गोपयितारः रक्षितारस्ते त्वदीयाः **के** सन्ति । न केऽपीत्यर्थः । अथवा ये के जना रिपोर्बन्धकाः । ये के पायवो रक्षितारः सनिषन्त धनं प्रयच्छन्ति द्युमन्तः दीप्तिमन्तः । ये केऽनृतस्यासत्यस्य धासिं धारकं जनं पान्ति अनृतजनितपापात् परिहृत्य सन्मार्गप्रदानेन रक्षन्ति । ये केऽसतोऽभिशापादिलक्षणाद्वचसो गोपा गोपायितारः सन्ति ते सर्वे त्वदीयाः । त्वदुपासका: इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,34 +133,34 @@ genre M
 Who among them: The last are person ns not worshipping Agni; another rendering: who are they that confine their foes? who are they that preserve men from uttering untruth? who are they that vindicate people from calumny? they are, Agni, your worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What bonds do you have for the cheat, Agni? What brilliant protectors  will keep winning gain (for him)?  
 Which ones protect the wellspring of untruth, o Agni? What herdsmen  are there for false speech?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who, Agni, in alliance with thy foeman, what splendid helpers won for them their riches?  
      Agni, who guard the dwelling-place of falsehood? Who are protectors of the speech of liars?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Who, O Agni, are thy fetterers to (fetter) the impostor 1? What brilliant guardians were successful? Who, O Agni, drink the drink of falsehood? Who are the protectors of untrue speech?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welche Feßler hast du für den Betrüger, o Agni? Welche glänzenden Schutzgeister werden den Gewinn davontragen? Welche haben Acht auf das Gemächte der Lüge, o Agni? Welche sind die Aufpasser auf die unwahre Rede?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch' Schatz, o Agni, beut sich deinem Feinde? welch' hehre Hüter werden ihm sich finden? Wer schützet je den Sitz des Unrechts, Agni? und wer behütet trügerische Rede?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие оковы у тебя, о Агни, для обманщика?  
 Какие блистательные защитники захватят (его)?  

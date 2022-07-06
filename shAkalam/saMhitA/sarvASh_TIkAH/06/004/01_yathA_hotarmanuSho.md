@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था होतर् म꣡नुषो देव꣡ताता  
 यज्ञे꣡भिः सूनो सहसो य꣡जासि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उश꣡न्न् अग्न उशतो꣡ यक्षि देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ए॒व । नः॒ । अ॒द्य । स॒म॒ना । स॒मा॒नान् । उ॒शन् । अ॒ग्ने॒ । उ॒श॒तः । य॒क्षि॒ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -117,20 +117,20 @@ genre M
 हे **होतः** देवानामाह्वातः **सहसः** **सूनो** बलस्य पुत्राग्ने **यथा** येन प्रकारेण **मनुषः** मनोः प्रजापतेर्यजमानस्य **देवताता** । यज्ञनामैतत् । देवतातौ यज्ञे **यज्ञेभिः** यजमानसाधनैर्हविर्भिः **यजासि** देवान् यजसि **एव'** एवं' हे **अग्ने** **नः** अस्माकम् **अद्य** अस्मिन् यज्ञे **समानान्** त्वत्सदृशानिन्द्रादीन **उशन्** कामयमानस्त्वम् **उशतः** कामयमानानु यष्टयान **देवान्** **समना** क्षिप्रं **यक्षि** यज । यद्वा । समानं मन्यन्ते अस्मिन् देवानिति समनो यज्ञः । तस्मिन्निति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, invoker (of the gods), in like manner as at the worship of the gods by **Manu**, you did offer worship with sacrifice; so now, **Agni**, with willing mind, worship for us the assenting deities, regarding them as your equals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you, o Hotar, will (always) sacrifice with sacrifices at Manu’s  attendance on the gods, o son of strength,  
 even so for us today sacrifice in the same way to the same gods—you  willing, to them willing, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 … ínvati dráviṇāni with ‘goods’ and ‘chattels, treasures’ as obj. respectively.
 
@@ -143,23 +143,23 @@ In d the verb śiśnathat is construed with an acc. pūrvyā́ṇi, but the refe
 Geldner and Renou take áśna- as a PN, but I see no reason not to take it, with Grassmann, as a straightforward derivative of √aś ‘eat’. Mayr splits the difference in his PN book, listing it as a PN but noting its likely original identity with the adj. áśna- ‘hungry’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As at man's service of the Gods, Invoker, thou, Son of Strength, dost sacrifice and worship,  
      So bring for us to-day all Gods together, bring willingly the willing Gods, O Agni.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du, Hotri, bei dem Gottesdienst des Menschen mit Opfern opfern sollst, du Sohn der Kraft, so opfere du heute in gleicher Weise den gleichen Göttern, willig den willigen, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du, o Priester, opfern sollst mit Opfern, o Sohn der Kraft, beim Gottesdienst des Menschen, So opfre, Agni, heut für uns den Göttern, den willigen, vereinten willig gleichfalls.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как ты, о хотар, на службе богам у человека  
 Должен жертвовать жертвы, о сын силы,  

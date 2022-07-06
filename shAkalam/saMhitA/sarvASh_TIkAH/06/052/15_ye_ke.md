@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ के꣡ च ज्मा꣡ महि꣡नो अ꣡हिमाया  
 दिवो꣡ जज्ञिरे꣡ अपां᳐꣡ सध꣡स्थे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्ष꣡प उस्रा꣡ वरिवस्यन्तु देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । अ॒स्मभ्य॑म् । इ॒षये॑ । विश्व॑म् । आयुः॑ । क्षपः॑ । उ॒स्राः । व॒रि॒व॒स्य॒न्तु॒ । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -125,7 +125,7 @@ genre M
 **महिनः** महान्तः **अहिमायाः**। माया प्रज्ञानाम। आहन्तृप्रज्ञाः । एवंभूताः **ये** **के** चन देवाः **ज्मा** । पृथिवीनामैतत् । ज्मायां पृथिव्यां **जज्ञिरे** प्रादुर्बभूवुः । ये के चन **दिवः** द्युलोकाज्जज्ञिरे । ये के चन **अपां** **सधस्थे** सहान्तरिक्षे जज्ञिरे **ते** सर्वे **देवाः** **अस्मभ्यमिषये** । इष्यत इतीषिः पुत्रादिः । तस्मै च **विश्व** सर्वम् **आयुः** अन्नं जीवनं वा **क्षपः** सर्वा रात्रीः **उस्राः**  सर्वाण्यहानि च सर्वदा नैरन्तर्येण **वरिवस्यन्तु** प्रयच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Having power to destroy: ahimāyāḥ = āhantṛ prajñāH, having the wisdom or knowledge that kills; our posterity: asmabhyam iṣaye: iṣi is derived from iṣ, to wish, and is explained putrādi, sons and the rest, asmabhyām tasmai ca, to us and to it, that is, posterity, as the object of desire.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whichever great ones, snake-sly, were born on the earth or in the seat of  heaven or of the waters,  
 let those gods seek a wide place for us to prosper day and night for our  whole lifetime.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -150,23 +150,23 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And those who, Mighty, with the wiles of serpents, were born on earth, in heaven, where waters gather-  
      May they vouchsafe us life of full duration. May the Gods kindly give us nights and mornings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 All die Mächtigen, wie Schlangen Wandlungsfähigen, die auf Erden oder am Sitz des Himmels und des Wassers geboren sind, die Götter sollen uns das volle Leben gönnen, um es alle Nächte und Morgen zu genießen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vielgestalt'gen, grossen, die dem Himmel, der Erd' entstammt sind und dem Schooss der Wasser, Die mögen segnen unser ganzes Leben, die Götter uns zur Wonne Nächt' und Morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какие бы великие (боги), обладающие змеиной силой превращений,  
 Ни родились на земле, на небе, на месте пребывания вод, –  

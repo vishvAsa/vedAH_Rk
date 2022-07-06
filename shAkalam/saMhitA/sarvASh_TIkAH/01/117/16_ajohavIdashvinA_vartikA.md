@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡जोहवीद् अश्विना व꣡र्तिका वाम्  
 आस्नो꣡ य꣡त् सीम् अ꣡मुञ्चतं वृ꣡कस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जातं꣡ विष्वा꣡चो अहतं विषे꣡ण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । ज॒युषा॑ । य॒य॒थुः॒ । सानु॑ । अद्रेः॑ । जा॒तम् । वि॒ष्वाचः॑ । अ॒ह॒त॒म् । वि॒षेण॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajohavīd* ← *ajohavīt* ← *johav* ← *√hvā*
 - \[verb\], singular, Imperfect
@@ -119,7 +119,7 @@ genre M
 'आस्नो वृकस्य ' (ऋ. सं. १. ११६. १४ ) इत्यर्धर्चे यदुक्तं तदत्र पूर्वार्धेन प्रतिपाद्यते । **वर्तिका** चटकसदृशस्य पक्षिणः स्त्री वृकेण अरण्यशुना ग्रस्ता सती हे अश्विनौ **वां** युवां तदा **अजोहवीत्** आहूतवती **यत्सीं** यदा खलु **वृकस्य** **आस्नः** आस्यात् **अमुञ्चतं** वर्तिकाम् अमोचयतम् । अपि च युवां **जयुषा** जयशीलेन रथेन **अद्रेः** पर्वतस्य **सानु** समुच्छ्रिप्रदेशं **वि** **ययथुः** शत्रुभिरावेष्टितं **जाहुषाख्यं** स्तोतारं शत्रुसमूहान्निर्गमय्य तेन सह अन्यैर्गन्तुमशक्यं पर्वताग्रं गन्तवन्तावित्यर्थः । तदुक्तं ' परिविष्टं जाहुषम् ' (ऋ. सं. १. ११६. २०) इत्यत्र । तथा **विष्वाचः** विविधगतियुक्तस्य एतत्संज्ञस्य असुरस्य **जातम्** उत्पन्नमपत्यं **विषेण** क्ष्वेडेन **अहतं** युवां हतवन्तौ । यद्वा । वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः । वृक इति विवृतज्योतिष्कः सूर्य उच्यते । तेन ग्रस्ता सती सा हे अश्विनौ युवाम् अजोहवीत् आह्वयत् । यदा खलु युवां वृकस्य सूर्यस्य आस्नः आस्यस्थानीयान्मण्डलात् अमुञ्चतम् अमोचयतम् । सूर्येण एकीभूतामुषसं पृथक्कृत्य उदयात्पूर्वं रात्रेरपरभागे स्थापितवन्तावित्यर्थः । तथा च यास्कः- “ आदित्योऽपि वृक उच्यते यदावृङ्क्ते । आह्वयदुषा अश्विनावादित्येनाभिग्रस्ता तामश्विनौ प्रमुमुचतुरित्याख्यानम् ' ( निरु. ५. २१ ) इति । अपि च जयुषा जयशीलेन रथेन अद्रेर्मेघस्य सानु समुच्छ्रितप्रदेशं वृष्टिचिकीर्षया विशेषेण ययथुः युवां गतवन्तौ । गत्वा च विष्वाचो विविधगतियुक्तस्य मेघस्य संबन्धिना विषेणोदकेन जातमुत्पन्नं सर्वं भूतजातम् अहतम् अगमयतं वृष्टिं कृतवन्तावित्यर्थः ॥ अजोहवीत् । ह्वयतेर्यङ्लुगन्तात् लङि तिपि ‘यङो वा ' इति ईडागमः । ‘अभ्यस्तस्य च ' इति द्विर्वचनात्पूर्वमेव ह्वयतेः संप्रसारणम् । आस्नः । ‘पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः । ‘अल्लोपोऽनः' इति अकारलोपः। जयुषा । ‘जि जये । औणादिकः उसिप्रत्ययः । विश्वाचः । विषु नाना आभिमुख्येन अञ्चति इति विग्रहः । ‘ऋत्विक् ' इत्यादिना क्विन् । ' अचः' इत्यकारलोपः । **चौ** ' इति दीर्घः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वे प्राप्ते ‘चौ ' इत्यन्तोदात्तत्वम् । अहतम् । ‘हन हिंसागत्योः । लङि अदादित्वात् शपो लुक् । अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ genre M
 Viṣvāñc is an **asura**, The text has, 'whose son you killed with poison'; a poisoned arrow is implied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The quail-hen called upon you again and again, Aśvins, so that you  freed her from the mouth of the wolf.  
 With your victorious (chariot) you journeyed across the back of the  rock. You crushed the (son) of Viṣvāc [=the Double-Talker?], born  by poison.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The quail had invocated you, O Asvins, when from the wolf's devouring jaws ye freed her.  
      With conquering car ye cleft the mountain's ridges: the offspring of Visvac ye killed with poison.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es hatte euch, Asvin, die Wachtel angerufen, als ihr sie aus dem Rachen des Wolfes befreitet. Mit dem siegreichen Wagen fuhrt ihr durch den Rücken des Berges. Die Brut des Visvac habt ihr durch Gift getötet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wachtel hatt', o Ritter, euch gerufen, als ihr sie löstet aus des Wolfes Rachen; Ihr schrittet siegreich durch des Berges Rücken und tödtetet mit Gift den Sohn des Vischvak.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Воззвала к вам перепелка, о Ашвины,  
 Когда вы освободили ее из пасти волка.  

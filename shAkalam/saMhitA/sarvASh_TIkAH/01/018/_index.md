@@ -8,7 +8,7 @@ title = "+018"
 पञ्चमेऽनुवाके षट् सूक्तानि । तत्र  ‘ सोमानम्' इत्यादिकं नवर्चं प्रथमं सूक्तम् । ऋषिच्छन्दसी पूर्ववत् । देवताविशेषस्त्वेवमनुक्रम्यते -° सोमानमिति पञ्च ब्राह्मणस्पत्याश्चतुर्थ्यामिन्द्रश्च सोमश्च पञ्चम्यां दक्षिणा चान्याः सादसस्पत्या नाराशंसी वान्त्या' इति । सूक्तगता आद्याः पञ्चर्चो ब्रह्मणस्पतिदेवताकाः । तासां मध्ये “ स घा वीरः' इत्येतस्याश्चतुर्थ्या ऋचो ब्रह्मणस्पतिरिन्द्रश्च सोमश्चेति तिस्रो देवताः । त्वं तम्' इत्येतस्याः पञ्चम्या दक्षिणया सह पूर्वोक्तास्तिस्रो देवताः । षष्ठीमारभ्य तिसृणां सदसस्पतिर्देवता ।  ‘ नाराशंसम्' इत्येतस्या नवम्याः सदसस्पतिर्नराशंसो वा विकल्प्यते। विनियोगस्तु पूर्ववत् ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 18  
 Brahmaṇaspati [Lord of the Sacred Formulation] (1–3),  Brahmaṇaspati, Indra, and Soma (4), the Same with Daksiṇ ̣ā (5);  Sadasaspati [Lord of the Seat] (6–8), Sadasaspati or Narāsaḿ ̣sa (9)  
@@ -21,7 +21,7 @@ Though, as is generally the case with Medhātithi’s work, the phraseology of t
 ers in this group.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Brahmaṇaspati and Sadaspati
 </details>

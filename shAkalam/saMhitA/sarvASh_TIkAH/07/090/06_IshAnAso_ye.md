@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ईशाना꣡सो ये꣡ द꣡धते सु꣡वर् णो  
 गो꣡भिर् अ꣡श्वेभिर् व꣡सुभिर् हि꣡रण्यैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡र्वद्भिर् वीरइः꣡ पृ꣡तनासु सह्युः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑वायू॒ इति॑ । सू॒रयः॑ । विश्व॑म् । आयुः॑ । अर्व॑त्ऽभिः । वी॒रैः । पृत॑नासु । स॒ह्युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īśānāso* ← *īśānāsaḥ* ← *īśāna*
 - \[noun\], nominative, plural, masculine
@@ -118,7 +118,7 @@ genre M
 हे **इन्द्रवायू** **ईशानासः** ईश्वराः प्रभवः **ये** जनाः **नः** अस्मभ्यं **गोभिः** **अश्वेभिः** अश्वैः **वसुभिः** निवासकैः **हिरण्यैः** च सहितं **स्वः** सुष्ठ्वरणीयं सुखं **दधते** ददति प्रयच्छन्ति । यद्वा । हिरण्यव्यतिरिक्तानि धनानि वसूनि । तैर्हिरण्यैश्च सहेत्यर्थः । ते **सूरयः** दातारः **विश्वं** व्याप्तम् **आयुः** अन्नं जीवनं वा शत्रूणां स्वभूतं **पृतनासु** संग्रामेषु अर्वद्भिः अश्वैः **वीरैः** शूरभटैश्च साधनभूतैः **सह्युः** अभिभवेयुः । यद्वा सहार्थे तृतीया । अर्वद्भिर्वीरैः पुत्रैश्च सहितं शत्रूणामायुरभिभवेयुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,36 +129,36 @@ genre M
 Treasure: vasubhiḥ = hiraṇyaiḥ, gold causing us to be settled, nivāsakaiḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who, having dominion over (them), confer their sun(light) upon us,  through cows, horses, and golden goods,  
 o Indra and Vāyu, those patrons should prevail in battles through their  whole lifetime with steeds and heroes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, the use of īśāná- ‘having dominion’ here cleverly assimilates the patrons modified by this participle with Vāyu (2a) and IndraVāyu (5d), who receive the same modifier. 112 Geldner (n. 6a) persuasively suggests that the striking phrase “confer the sun on us,” with the patrons as subject, refers to “the great light of the Dakṣiṇā” (priestly gift).
 
 This is reminiscent of the biblical quotation “Let your light so shine before men …” that always preceded the taking up of the collection in the Episcopal church of my youth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May these who give us heavenly light, these rulers, with gifts of kine and horses, gold and treasures.  
      These princes, through full life, Indra and Vayu! o'ercome in battle with their steeds and heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gebieter, die uns die Sonne bringen durch Rinder, Rosse, Schätze, Gold, die Lohnherren sollen mit ihren Rennpferden, mit ihren Mannen das ganze Leben über in den Kämpfen siegen, Indra und Vayu!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ihr als Herrscher Herrliches uns schenket an Rindern, Rossen und an Gold und Gütern, O Indra-Vaju, lasset stets die Fürsten durch Ross und Helden in den Schlachten siegen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Владыки (же,) которые нам даруют небо  
 Благодаря быкам, коням, богатствам, золоту, –  

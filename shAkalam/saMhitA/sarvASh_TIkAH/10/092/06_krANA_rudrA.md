@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्राणा꣡ रुद्रा꣡ मरु꣡तो विश्व꣡कृष्टयो  
 दिवः꣡ श्येना꣡सो अ꣡सुरस्य नीळ꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रो देवे꣡भिर् अर्वशे꣡भिर् अ꣡र्वशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तेभिः॑ । च॒ष्टे॒ । वरु॑णः । मि॒त्रः । अ॒र्य॒मा । इन्द्रः॑ । दे॒वेभिः॑ । अ॒र्व॒शेभिः॑ । अर्व॑शः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *krāṇā* ← *krāṇāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
@@ -117,7 +117,7 @@ genre M
 **असुरस्य** मेघस्य **नीळयः** आवासभूताः **दिवः** अन्तरिक्षस्य संबन्धिनः **श्येनासः** श्येनाः शंसनीयगतयः **विश्वकृष्टयः** व्याप्तमनुष्याः **रुद्राः** रुद्रपुत्रा ये **मरुतः** **क्राणाः** स्वाधिकारकर्माणि कुर्वाणा आसत इति शेषः । **तेभिः** तैः **अर्वशेभिः** अश्ववद्भिः सोमवद्भिर्वा **देवेभिः** देवैः सह **अर्वशः** अश्ववान् सोमवान्वा **इन्द्रः** **चष्टे** पश्यति । **वरुणः** च **मित्रः** च **अर्यमा** च सोमवद्भिः मरुद्भिः सह पश्यन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Horse-owning: or, possessing **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Busy are the Rudras, the Maruts belonging to all communities, the  falcons of heaven, nestlings of the lord.  
 Through them Varuṇa, Mitra, Aryaman make their observations, and  Indra hastening with the hastening gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Straightway the Rudras, Maruts visiting all men, Falcons of Dyaus, home-dwellers with the Asura,-  
      Varuna, Mitra, Aryaman look on with these, and the swift-moving Indra with swift-moving Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitwirkend sind die Rudrasöhne, die Marut, die allen Stämmen gehören, des Himmels Adler, des Asura Nestgenossen. Mit diesen läßt sich Varuna, Mitra, Aryaman, Indra der Rossefahrer mit den rossefahrenden Göttern sehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die starken lichten Maruts allen Völkern hold, des Himmels Adler, dem Asuren eng vereint, Mit ihnen zeigt Varuna, Mitra, Arjaman und Indra sich, der rasche mit der raschen Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने र꣡क्षा णो अं꣡हसः  
 प्र꣡ति ष्म देव री꣡षतः  
 त꣡पिष्ठैर् अज꣡रो दह
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तपि॑ष्ठैः । अ॒जरः॑ । द॒ह॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **नः** अस्मान् **अंहसः** पापात् **रक्ष** पाहि । संहितायां दीर्घश्छान्दसः । अपि च हे **देव** द्योतमानाग्ने **अजरः** जरारहितस्त्वं **रिषतः** हिंसतः शत्रून् **तपिष्ठैः** अतिशयेन तापकैस्तेजोभिः **दह** भस्मीकुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Preserve us, **Agni**, from sin; divine (Agni), who are exempt from decay, consume (our) foes with (your)hottest flames.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, guard us from difficult straits. As ever, o god, as the unaging one  burn back those doing harm  
 with your hottest (fires).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, preserve us from distress: consume our enemies, O God,  
      Eternal, with the hottest flames.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Bewahre uns vor Not, versenge du Gott mit deinen glühendsten Flammen die Schädiger, der du nie alterst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Behüt, o Agni, uns vor Noth, o Gott, verbrenn die Schädiger Mit Gluten, unvergänglicher.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, защити нас от нужды!  
 (Кидайся) же навстречу вредителю, о бог,  

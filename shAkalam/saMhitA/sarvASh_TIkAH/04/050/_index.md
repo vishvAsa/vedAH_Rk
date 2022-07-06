@@ -8,7 +8,7 @@ title = "+050"
 ‘ यस्तस्तम्भ ' इत्येकादशर्चं पञ्चमं सूक्तं वामदेवस्यार्षं त्रैष्टुभम् । दशमी जगती । दशम्येकादश्याविन्द्राबृहस्पतिदेवताके शिष्टा नव बार्हस्पत्यः। अत्रानुक्रमणिका--- यस्तस्तम्भैकादश बार्हस्पत्यमन्त्ये ऐन्द्र्यौ चोपान्त्या जगती' । आभिप्लविकेषूक्थेषु तृतीयसवने ब्राह्मणाच्छंसिनः स्तोमवृद्धाविदं सूक्तमावापार्थम् । तथा च सूत्रं - ‘ यस्तस्तम्भ यो अद्रिभित् ' ( आश्व. श्रौ. ७. ९ ) इति । आद्ये बृहस्पतिसवे मरुस्वतीयनिष्केवल्ययोः सूक्तमुखीये । सूत्रितं च -- 'यस्तस्तम्भ धुनेतय इति सूक्तमुखीये' ( आश्व. श्रौ. ९. ५) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 50 (346)  
 Br̥haspati (1–9), Br̥haspati and Indra (10–11)  
@@ -19,7 +19,7 @@ The first six verses are dedicated to the mythic deeds of Br̥haspati (or  “Br
 summoned in the final section, by way of the mediating section showcasing these  complementary roles in the human domain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Bṛhaspati On the divisions of the hymn, see published introduction. Oldenberg and H.-P. Schmidt (cf. esp.
 

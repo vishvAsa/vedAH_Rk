@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ वां नून꣡म् अश्विना सु꣡होता  
 स्तो꣡मैः सिषक्ति नासत्या विवक्वा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवर्वि꣡दा व꣡सुमता र꣡थेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पू॒र्वीभिः॑ । या॒त॒म् । प॒थ्या॑भिः । अ॒र्वाक् । स्वः॒ऽविदा॑ । वसु॑ऽमता । रथे॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -109,37 +109,37 @@ genre M
 हे अश्विना **वां** युवां **सुहोता** सुष्ठु देवानां स्तोता **विवक्वान्** स्तुतीनां वक्ताहं हे **नासत्या** सत्यभूतौ । इदमश्विनावित्यत्र योज्यम् । **स्तोमैः** **सिषक्ति** सेवते । अतः **अर्वाक्** अस्मदभिमुखं **पूर्वीभिः** **पथ्याभिः** पूर्वक्षुण्णैर्मार्गैः स्वर्विदा स्वर्गमुदकं वा जानता स्वरणवता वा **वसुमता** धनवता वा **रथेन** **यातं** गच्छतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, **Aśvins**, the pious priest repeating (your praises) glorifies you, **Nāsatyās** with hymns; cometherefore by formerly-trodden paths to our presence with your chariot, familiar with heaven, laden with treasure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now the good Hotar attends upon you with his praise songs as he recites,  o Aśvins, Nāsatyas.  
 Journey this way along many pathways with your sun-finding,  
 goods-bearing chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With hymns the deft priest is about you, Asvins, the eloquent priest attends you now, Nasatyas.  
      Come by the paths that ye are wont to travel, on car that finds the light, laden with treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der treffliche Opferpriester, der beredte, wendet sich jetzt mit seinen Lobliedern an euch, Asvin Nasatya´s. Kommet auf vielen Wegen heran mit dem lichtschaffenden, güterreichen Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch beid', o Ritter, ehrt mit schönem Opfer mit Liedern euch wahrhaftige der Sänger, O kommt herbei auf mannichfachen Pfaden mit gutbeladnem, Glanz verleihndem Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасный хотар обращается к вам сейчас, о Ашвины,  
 С восхвалениями, о Насатьи, (он) речистый!  

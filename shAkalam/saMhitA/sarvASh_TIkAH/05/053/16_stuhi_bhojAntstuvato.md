@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तुहि꣡ भोजा꣡न् स्तुवतो꣡ अस्य या꣡मनि  
 र꣡णन् गा꣡वो न꣡ य꣡वसे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गिरा꣡ गृणीहि कामि꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 य॒तः । पूर्वा॑न्ऽइव । सखी॑न् । अनु॑ । ह्व॒य॒ । गि॒रा । गृ॒णी॒हि॒ । का॒मिनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
@@ -117,41 +117,41 @@ genre M
 हे ऋषे **स्तुवतः** स्तुतिं कुर्वतः **अस्य** यजमानस्य **यामनि** यज्ञे **भोजान्** दातॄन् मरुतः **स्तुहि** । **गावो** न **यवसे** । तृणादिभक्षणाय गच्छन्त्यः गावो यथा रमन्ते तद्वन्मरुतोऽपि **रणन्** रमन्ताम् । **यतः** गच्छतो मरुतः **पूर्वान्** पुरातनान् **सखीन्** **इव** **अनु** **ह्वय** आह्वय । **कामिनः** स्तुतीच्छावतो मरुतः **गिरा** स्तुत्या **गृणीहि** स्तुहि ॥ ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise the givers of enjoyment, (the **Maruts**), at the sacrifice of this worshiper, (for they) delight in (pious praise) like cattle in fodder; wherefore call upon them as if upon friends; praise them, desirous of praise, with a sacred hymn.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise the benefactors of the praiser on the journey of this (flock). They  will take pleasure as cows do in a pasture.  
 Invoke them as they go, like old comrades. With song sing (to) those  who desire it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unaccented asya should not modify stuvatáḥ as Witzel Gotō take it. Better the solutions of Geldner and Renou, esp. the latter, who separate these two genitives, with Renou supplying “Marut troop” with asya.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise the Free-givers. At this liberal patron's rite they joy like cattle in the mead.  
      So call thou unto them who come as ancient Friends: hymn those who love thee with a song.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preise die Wohltäter des Preisenden auf dessen Fahrt; sie sollen sich behagen wie die Kühe auf der Weide. Ruf ihnen nach wie alten Freunden, wenn sie gehen, lobe sie mit Lobrede, die das lieben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Geber preise, mögen bei des Sängers Fest wie Küh' im Grase schwelgen sie, Wie alte Freunde ruf die Fahrenden du an, mit Lied erfreu die lüsternen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Восхваляй благодетелей восхвалителя во время похода этой (толпы Марутов)!  
 Пусть радуются они, как коровы на пастбище!  

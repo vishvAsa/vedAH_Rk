@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुरुक्मे꣡ हि꣡ सुपे꣡शसा  
 अ꣡धि श्रिया꣡ विरा꣡जतः  
 उषा꣡साव् ए꣡ह꣡ सीदताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 उ॒षसौ॑ । आ । इ॒ह । सी॒द॒ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *surukme* ← *su*
 - \[adverb\]
@@ -86,41 +86,41 @@ genre M
 **सुरुक्मे** शोभनदीप्ताभरणे प्रसिद्धे **सुपेशसा** शोभनरूपे ईदृश्यौ अहोरात्रदेवते **अधि** अधिकं **श्रिया** सौन्दर्येण **विराजतः** विशेषेण दीप्येते ॥ हियोगादनिघातः । तादृश्यौ **उषसौ** । एतत् रात्रेरप्युपलक्षणम् । उषःशब्दो दिवसस्योपलक्षकः । रात्रिरुषाश्च उभे **इह** अस्मिन् दिने **आ** **सीदताम्** आगत्य तिष्ठताम् आगच्छतां वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the brilliant and beautiful Day and Night, who shine with surpassing lustre, sit down here (upon the sacred grass).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because, having lovely ornaments and lovely adornments, the two rule  [/shine] widely with splendor,  
 let Dawn (and Night) take their seats here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With gay adornment, fair to see, in glorious beauty shine they forth:  
      Let Night and Morning rest them here.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Adorned with gold, wearing beautiful ornaments you verily reign high 1 in your splendour. Sit down here, ye two Dawns 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit schönem Geschmeide, schönverziert haben ja beide durch Schönheit den Vorrang: Morgen und Nacht sollen hier Platz nehmen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die reich geschmückten, prächtigen, von Schönheit strahlend mögen sich hier setzen, Nacht und Morgenroth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С прекрасными золотыми ожерельями, прекрасно убранные  
 (Эти) две царствуют благодаря (своей) красоте.  

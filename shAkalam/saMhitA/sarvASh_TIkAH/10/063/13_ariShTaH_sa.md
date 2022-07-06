@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡रिष्टः स꣡ म꣡र्तिओ° वि꣡श्व एधते  
 प्र꣡ प्रजा꣡भिर् जायते ध꣡र्मणस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ति वि꣡श्वानि दुरिता꣡ सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यम् । आ॒दि॒त्या॒सः॒ । नय॑थ । सु॒नी॒तिऽभिः॑ । अति॑ । विश्वा॑नि । दुः॒ऽइ॒ता । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ariṣṭaḥ* ← *ariṣṭa*
 - \[noun\], nominative, singular, masculine
@@ -122,36 +122,36 @@ genre M
 हे देवाः **विश्वः** सर्वः **मर्तः** **सः** मनुष्यः **अरिष्टः** कैश्चिदप्यहिंसितः सन् **एधते** प-श्वादिभिर्वर्धते । तथा **धर्मणस्परि** धारकात्कर्मणोऽनन्तरं से मनुष्यः **प्रजाभिः** पुत्रादिभिः **प्र** **जायते** प्रकर्षेणाविर्भूतो भवति । हे **आदित्यासः** आदित्या देवा: **यं** मनुष्यं **सुनीतिभिः** सुनयनैः **विश्वानि** सर्वाणि **दुरिता** दुरितानि पापानि तद्रूपाञ्छत्रून्वा **स्वस्तये** क्षेमाय **अति** **नयथ** अतीत्य सन्मार्गे नयथ । स वर्धत इति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Unharmed prospers every mortal, after performing his duties, he flourishes with posterity, whom youĀdityas guide with good counsels safe over all misfortunes to well-being.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Every mortal thrives unharmed and is propagated with progeny forth  from his foundation,  
 whom, o Ādityas, you lead with your good leading across all difficult  passages—for well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Untouched by any evil, every mortal thrives, and, following the Law, spreads in his progeny.  
      Whom ye with your good guidance, O Adityas, lead safely through all his pain and grief to happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ganz unbeschädigt gedeiht der Sterbliche und pflanzt sich pflichtgemäß durch Kinder fort, den ihr Aditya´s mit guter Führung über alle Fährlichkeiten hinüberführt zum Heile!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ganz unverletzt gedeihet jeder Sterbliche und pflanzt sich nach der Reihe fort durch Kindeskind, Den ihr mit schöner Führung, o Aditja's, führt zum Wohlergehn durch alles Misgeschick hindurch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

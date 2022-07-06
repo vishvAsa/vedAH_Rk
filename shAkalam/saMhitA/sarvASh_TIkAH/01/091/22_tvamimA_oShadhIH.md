@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् इमा꣡ ओ꣡षधीः सोम वि꣡श्वास्  
 तुव꣡म् अपो꣡ अजनयस् तुवं꣡ गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ ज्यो꣡तिषा वि꣡ त꣡मो ववर्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 त्वम् । आ । त॒त॒न्थ॒ । उ॒रु । अ॒न्तरि॑क्षम् । त्वम् । ज्योति॑षा । वि । तमः॑ । व॒व॒र्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -127,35 +127,35 @@ genre M
 हे सोम **त्वम्** **इमाः** भूम्यां वर्तमानाः **विश्वाः** सर्वाः **ओषधीः** **अजनयः** उत्पादितवानसि । तथा **त्वम्** **अपः** तासामोधीनां कारणभूतानि वृष्टयुदकानि अजनयः । तथा **त्वं** **गा:** सर्वान् पशूनुदपादयः । **उरु** विस्तीर्णम् **अन्तरिक्षं** **त्वम्** **आ** **ततन्थ** विस्तारितवानसि । तस्मिन्नन्तरिक्षे यत् **तमः** निरोधकमन्धकारं तदपि **त्वं** **ज्योतिषा** आत्मीयेन प्रकाशेन **वि** **ववर्थ** विवृतं विश्लिष्टं विनष्टं कृतवानसि ॥ ततन्थ । तनु विस्तारे । ववर्थ । वृञ् वरणे । उभयत्र लिटस्थलि • बभूथा ततन्थ जगृभ्म ववर्थेति निगमे ' ( पा. सू. ७. २. ६४ ) इति निपात्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “You, **Soma**, have genitive rated all these herbs, the water and the kine; you have spread out the spacious firmament; you have scattered darkness with light.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Soma, begot all these plants here; you the waters, you the cows. You have stretched across the wide midspace; you have uncovered the  darkness with your light.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These herbs, these milch-kine, and these running waters, all these, O Soma, thou hast generated.  
      The spacious firmament hast thou expanded, and with the light thou hast dispelled the darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast alle diese Pflanzen, o Soma, du die Gewässer, du die Kühe hervorgebracht. Du hast den weiten Luftraum ausgespannt; du hast mit dem Lichte das Dunkel aufgedeckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, Hast ausgespannt den weiten Raum der Lüfte, und hast enthüllt die Finsterniss durch Lichtglanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Сома, – все эти растения,  
 Ты – воды породил, ты – коров.  

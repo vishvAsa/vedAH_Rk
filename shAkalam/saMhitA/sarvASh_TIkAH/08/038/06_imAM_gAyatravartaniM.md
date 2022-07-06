@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ गायत्र꣡वर्तनिं  
 जुषे꣡थां सुष्टुति꣡म् म꣡म  
 इ꣡न्द्राग्नी आ꣡ गतं नरा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्द्रा॑ग्नी॒ इति॑ । आ । ग॒त॒म् । न॒रा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -90,41 +90,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्राग्नी** नरौ युवां **मम** **गायत्रवर्तनिं** गायत्रमार्गाम् **इमां** **सुष्टुतिं** शोभनां स्तुतिं **जुषेथां** सेवेथाम् । **आ** **गतं** च ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accept this my earnest praise, following the path of the **gāyatrī**; leaders of rites, **Indra** and **Agni**, comehere.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This “turn” of song enjoy, my lovely praise.  
 – Indra and Agni, come here, men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou take gāyatrá- as a technical reference to the Gāyatrī meter and poems composed in it (also vs. 10); this is possible, but the stem is often used just of a song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept this eulogy of mine whose model is the Gayatri:  
      Indra and Agni, Heroes, Come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Habt an diesem Lobliede von mir Wohlgefallen, das in der Bahn des Gayatrimaßes geht! Indra und Agni kommet her, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nehmt dies mein Lob in Gnaden an, das sich in Liedes Mass bewegt, O Männer, Indra-Agni, kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этой движущейся в русле гаятри  
 Прекрасной хвалой моей наслаждайтесь!  

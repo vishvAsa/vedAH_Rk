@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आरङ्गरे꣡व म꣡धु ए꣡रयेथे  
 सारघे꣡व ग꣡वि नीची꣡नबारे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षा꣡मेवोर्जा꣡ सूयवसा꣡त् सचेथे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 की॒नारा॑ऽइव । स्वेद॑म् । आ॒ऽसि॒स्वि॒दा॒ना । क्षाम॑ऽइव । ऊ॒र्जा । सु॒य॒व॒स॒ऽअत् । स॒चे॒थे॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āraṅgareva* ← *āraṅgarā* ← *āraṅgara*
 - \[noun\], nominative, dual, masculine
@@ -112,35 +112,35 @@ genre M
 **आरङ्गरेव**। 'गॄ शब्दे'। अस्माद्भावे ऋदोरप् । अरमलं पर्याप्तं गरः शब्दनम्। तस्य संबन्धिनौ ॥ तस्येदम्' इत्यण् ॥ शब्दवन्तौ मेघाविव यथा **मधु** जलं प्रेरयतः तद्वद्युवाम् **एरयेथे** प्रेरयथः ॥ ‘ईर प्रेरणे'। चौरादिकः ॥ **सारघेव** सारघाविव । सरघा मधुमक्षिका । सरघैव सारघा । प्रज्ञादित्वादण् (पा. सू. ५. ४. ३८)। ते यथा **नीचीनबारे** नीचीनद्वारे मधुपुष्पे मधु प्रेरयतः तद्वद्युवां नीचीनबारे न्यग्भूतद्वारे **गवि** गोरूधसि क्षीरं प्रक्षिपथः । **कीनारेव** कीनाराविव कुत्सितमनुष्यौ यथा स्विद्यमानौ भवतः तद्वत् **स्वेदं** स्विद्यमानं जलम् **आसिस्विदाना** आ समन्तात् स्वेदयन्तौ प्रक्षारयन्ती भवथः ॥ ‘ञिष्विदा गात्रप्रक्षरणे'। अनुदात्तेत् । तस्माच्छान्दसे लिटि कानजादेशः ॥ **क्षामेव** । ‘क्षै जै षै क्षये'। अस्मादातो मनिन् । ह्रस्वश्छान्दसः । क्षामा क्षीणा गौः **सुयवसात्** । अदेः क्विप् । शोभनं यवसं घासादिकं भक्षयन्ती क्षीररूपेणान्नेन समवेता थथा। भवति तद्वद्युवाम् **ऊर्जा** हवीरूपेणान्नेन **सचेथे** संगच्छेथे ॥ ‘षच समवाये॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like two loud-sounding (clouds), you send forth the sweet (**Soma**); like two bees (you deposit milk) in(the udder of) the cow which has its opening turned downwards; like two labourers you are dripping withperspiration, like a tired cow eating sweet herbage, you attend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like āraṅgara you produce (the milk) in the cow whose opening is  below, as bees produce honey,  
 like plowmen sweating out their sweat. Like earth, (a cow) that feeds on  good pasture, you are accompanied by nourishment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like toiling bees ye bring to us your honey, as bees into the hide that opens downward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie zwei ....... bringet ihr Honig, wie Bienen die Milch in das Kuheuter, dessen Öffnung nach unten geht; wie zwei Pflüger Schweiß vergießend, wie zwei magere Tiere bei guter Weide kommet ihr zur Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Hummeln bringt ihr Honig her, wie zwei Bienen in den nach unten geöffneten Schlauch [die Honigzelle mit einem ledernen Schlauch verglichen], wie zwei Schweiss vergiessende Pflüger geht ihr dem Boden der Erde nach mit Nahrung von fetter Weide her (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два шмеля (?), вы приводите мед в движение,  
 Как две пчелы, (вы пьете молоко) из коровьего (вымени) с отверстием вниз.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ वां देवाव् अश्विना  
 कुमारः꣡ साहदेवियः꣡  
 दीर्घा꣡युर् अस्तु सो꣡मकः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दी॒र्घऽआ॑युः । अ॒स्तु॒ । सोम॑कः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -81,41 +81,41 @@ genre M
 **देवौ** द्योतमानौ हे **अश्विना** अश्विनौ **वां** युवां तर्पकः **साहदेव्यः** सहदेवस्य पुत्रः **कुमारः** सोमकः सोमकाभिधानः **एषः** राजा **दीर्घायुरस्तु** शतायुष्को भवतु । ' एतमु हैव प्रोचतुः पर्वतनारदौ सोमकाय' इत्यादिना ‘सर्वे हैव महाराजा आसुः' (ऐ. ब्रा. ७.३४ ) इत्यनेन ब्राह्मणेन सोमकस्य राजत्वं स्पष्टीकृतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Aśvins**, may this prince, **Somaka**, the son of **Sahadeva**, your (worshipper), enjoy long life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is yours, god Aśvins—Prince Sāhadevya.  
 Let him be long-lived—(this) Somaka.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Long, O ye Asvins, may he live, your care, ye Gods, the princely son.  
      Of Sahadeva, Somaka.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May this prince Somaka, Sahadeva's son, live long, for your sake, O divine Asvins!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Prinz Somaka Sahadevya soll von euch ein langes Leben haben, ihr Götter Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dieser junge Sohn des Sahadeva, Somaka, möge lange leben durch euch, o Açvinen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О двое богов Ашвинов, пусть этот  
 Царевич Сомака Сахадевья  

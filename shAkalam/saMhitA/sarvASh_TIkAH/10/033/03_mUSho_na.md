@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मू꣡षो न꣡ शिश्ना꣡ वि꣡ अदन्ति माधि꣡य  
 स्तोता꣡रं ते शतक्रतो  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡धा पिते꣡व नो भव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒कृत् । सु । नः॒ । म॒घ॒ऽव॒न् । इ॒न्द्र॒ । मृ॒ळ॒य॒ । अध॑ । पि॒ताऽइ॑व । नः॒ । भ॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mūṣo* ← *mūṣaḥ* ← *mūṣa*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 हे **शतक्रतो** बहुकर्मन् **मघवन्** धनवंश्च **इन्द्र** **ते** तव **स्तोतारं** **मा** मां कवषम् **आध्यः** । आधयः **मूषो** **न** यथा मूषिकाः **शिश्ना** आस्नातानि सूत्राणि अश्नन्ति तथा **व्यदन्ति** विविधमदन्ति । तथा च यास्कः - ‘ संतपन्ति मामभितः सपत्न्य इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्नातानि सूत्राणि व्यदन्ति । स्वाङ्गाभिधानं वा स्याच्छिश्नानि व्यदन्तीति। संतपन्ति माध्यः कामाः' ( निरु. ४. ६) इति । तथा च सति **नः** अस्मान् **सकृत्** **सु** **मृळय** अभीष्टप्रदानेन सम्यक् सुखय । **अध** अथ **नः** अस्माकं **पितेव** यथा पिता तद्वद्रक्षिता **भव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ genre M
 As mice eat threads: threads that have been washed
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like mice their tails, the cares gnaw at me, your praiser, o you of a  hundred resolves.  
 At once show mercy to us, bounteous Indra, and become like a  
 father to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As rats eat weavers' threads, cares are consuming me, thy singer, gatakratu, me.  
      Have mercy on us once, O Indra, Bounteous Lord: be thou a Father unto us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Ratten an ihren Schwänzen, so nagen die Sorgen an mir, deinem Lobsänger, du Ratreicher. Noch einmal erbarme dich fein meiner, o freigebiger Indra, und sei uns wie ein Vater!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Mäuse ihre Schwänze, nagen Sorgen mich, mich, deinen Sänger, kräftiger! Sei gnädig uns, o mächt'ger Indra, auf einmal und sei du wie ein Vater uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как крысы вгрызаются в (свои) хвосты,  
 Так заботы – в меня, твоего певца, о стоумный.  

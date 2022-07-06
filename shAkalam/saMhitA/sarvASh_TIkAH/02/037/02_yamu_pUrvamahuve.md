@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् उ पू꣡र्वम् अ꣡हुवे त꣡म् इदं꣡ हुवे  
 से꣡द् उ ह꣡व्यो ददि꣡र् यो꣡ ना꣡म प꣡त्यते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पोत्रा꣡त् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ध्व॒र्युऽभिः॑ । प्रऽस्थि॑तम् । सो॒म्यम् । मधु॑ । पो॒त्रात् । सोम॑म् । द्र॒वि॒णः॒ऽदः॒ । पिब॑ । ऋ॒तुऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -145,20 +145,20 @@ genre M
 हेद्रविणोदः यमु यन्त्वामेवपूर्वंहोतृकर्तृकेसोमयागेहुवे आहुतवानस्मि इदंसम्प्रति तं तमेव पोतृ कर्तृकेसोमयागेहुवे आह्वयामि सेत् सएवद्रविणोदाः हव्यः ह्वातव्यः उइतिपूरणे ददिरभीष्ट फलस्यदातायोनाम यः खलुपत्यते देवतात्वेनेष्टे तस्मैद्रविणोदसे सोम्यंसोमात्मकं मधुअध्वर्युभिः प्रस्थितम्प्रणीतमासीत् हेद्रविणोदः पोत्रात् पोतुर्यागात् ऋतुभिः ऊर्जसञ्ज्ञकैः सहसोमम्पिब ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, whom I formerly invoked and whom I now invoke, is verily worthy of invocation, for he is renowned as a benefactor; the **Soma** libation has been brought by the priests; drink, Draviṇodās, along with the Ṛtus, the Soma, the offering of the **Potā**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one I invoked previously, him I invoke right now. Just he is to be  invoked, who owns the name “Giver.”  
 The somian honey has been set forth by the Adhvaryus. The soma from  the Potar’s cup, o Wealth-Giver—drink it at your turns.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The nom. dadíḥ must be part of the rel. cl., specifying acc. nā́ma. dadíḥ is nominative because it is a quotation of the name.
 
@@ -173,23 +173,23 @@ The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sóm
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He whom of old I called on, him I call on now. He is to be invoked; his name is He who Gives,  
      Here brought by priests is Soma meath. Granter of Wealth, drink Soma with the Rtus from the Potar's cup.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich rufe jetzt den, den ich früher rief. Er ist anzurufen, der den Namen Geber besitzt. Die somische Süßigkeit ist von den Adhvaryu´s vorgesetzt; trinke, o Dravinodas, den Soma aus dem Becher des Potri zu den Zeiten!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, den ich sonst auch angerufen, ruf' ich jetzt, er ist zu rufen, der des Gebers Namen führt; Das Somasüss ist hingestellt, so trink es denn Schatzgeber aus des Läutrers Napf zur Opferzeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову сейчас того, кого я и раньше звал.  
 Только тот достоин призывов, кто имеет имя "даритель".  

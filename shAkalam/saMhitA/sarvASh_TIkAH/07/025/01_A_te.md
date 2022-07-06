@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते मह꣡ इन्दर+ ऊती꣡ उग्र  
 स꣡मन्यवो य꣡त् सम꣡रन्त से꣡नाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ ते म꣡नो विष्वद्रि꣡अग् वि꣡ चारीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पता॑ति । दि॒द्युत् । नर्य॑स्य । बा॒ह्वोः । मा । ते॒ । मनः॑ । वि॒ष्व॒द्र्य॑क् । वि । चा॒री॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,20 +126,20 @@ genre M
 हे **उग्र** उद्गूर्ण ओजस्विन् **इन्द्र** **यत्** यदा **समन्यवः** । समो मन्युरभिमानो वासां ताः समन्यवः । **सेनाः** **समरन्त** युध्यन्ते संगच्छन्ते' वा तदा **नर्यस्य** नरहितस्य **महः** महतः । **ते** तव **बाह्वोः** स्थिता **दिद्युत्** आयुधम् । **दिद्युत्** हेतिः' इति वज्रनामसु पाठात् । **ऊती** ऊत्यै अस्मद्रक्षायै **आ** **पताति** आपततु । तव **विष्वद्र्यक्** विष्वग्गन्तृ **मनः** च **मा** **वि** चारीत् अस्मास्वेव स्थिरं भवतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, when animated by like fierce armies, encounter them; let the bright (weapon) wielded bythe arms of you who are mighty and the friend of man descend for our protection; let not your all-pervading mindwander (away from us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Be) here with your help, o great strong Indra, when armies equal in  battle fury clash together  
 and the missile in the arms of a manly one will fly. Let your mind not  roam widely in other directions.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although mahá(ḥ) in the first pāda is a genitive, I have tr. it in the vocative phrase to avoid the awkward “(Be) here with the help of you, the great one, o strong Indra.” Geldner supplies ‘mind’ from d as the subject of the first pāda, but this seems unnecessary.
 
@@ -148,23 +148,23 @@ I take pāda c as a clause parallel to b, with the yád in b having domain over 
 The threatened possibility of Indra’s wandering mind may account for the capturing of his mind in the previous hymn, VII.24.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 आ ते॑ म॒ह इ॑न्द्रो॒त्यु॑ग्र॒ सम॑न्यवो॒ यत्स॒मर॑न्त॒ सेनाः॑ ।  
 पता॑ति दि॒द्युन्नर्य॑स्य बा॒ह्वोर्मा ते॒ मनो॑ विष्व॒द्र्य१॒॑ग्वि चा॑रीत् ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein, des Großen Sinn, strebe her zum Beistand, gewaltiger Indra, wann die Heere von gleichem Eifer beseelt zusammenstoßen. Wenn das Geschoß in den Armen des Tapferen fliegen wird, dann soll dein Sinn nicht nach den entgegengesetzten Seite sich abwenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühnen, starken, Wenn gleich an Muth die Heere sich begegnen; nicht gehe fort dein Sinn nach andern Orten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У тебя великого, о грозный Индра, (я стремлюсь покорить мысль) для поддержки (нас),  
 Когда сталкиваются войска равной ярости.  

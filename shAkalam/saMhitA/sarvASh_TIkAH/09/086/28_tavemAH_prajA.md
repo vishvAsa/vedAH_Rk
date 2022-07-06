@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वेमाः꣡ प्रजा꣡ दिविय꣡स्य रे꣡तसस्  
 तुवं꣡ वि꣡श्वस्य भु꣡वनस्य राजसि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुव꣡म् इन्दो प्रथमो꣡ धामधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अथ॑ । इ॒दम् । विश्व॑म् । प॒व॒मा॒न॒ । ते॒ । वशे॑ । त्वम् । इ॒न्दो॒ इति॑ । प्र॒थ॒मः । धा॒म॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavemāḥ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -134,21 +134,21 @@ genre M
 **तव** **दिव्यस्य** **रेतसः** सकाशात् **इमाः** **प्रजाः** उत्पद्यमानाः प्राणिन उत्पन्नाः । सोमो वै रेतोधाः' (तै. सं. २.१.१.६ ) इति श्रुतेः । **त्वं** **विश्वस्य** **भुवनस्य** **राजसि** ईश्वरो भवसि । **अथ** अपि च **इदं** **विश्वं** हे पवमान **ते** **वशे** त्वदधीनं वर्तते । हे **इन्दो** **प्रथमः** मुख्यः **त्वं** **धामधाः** धाम्नो धर्ता **असि** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “All these are the offspring of your celestial effluence; you are the ruler of the whole world; so, purified (**Soma**) this universe is in subjection to you; you, **Indu**, are the foremost, the supporter of the house.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Yours are these offspring of the heavenly semen; you rule over all  creation.  
 And all this here is under your will, self-purifying one. You are the  
 foremost founder of foundations, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou (also Ober II.43) construe táva with rétasaḥ (e.g., Geldner “Von deinem himmlischen Samen sind diese Geschöpfe”). I am reluctant to do so because of the parallelism of távemā́ḥ (/ túbhyemā́ḥ) just noted: all three expressions should be rendered in the same general way. In addition Geldner’s tr. essentially assumes rétasaḥ is abl., but its companion adj. divyásya is stubbornly gen. I would therefore stick to my tr., though slightly modified for clarity to “Yours are these offspring of (your) heavenly semen.” For … víśvasya bhúvanasya rājasi, see 5d, which is identical, and 36d … víśvasya bhúvanasya rājáse, in an acc. + inf. phrase.
 
@@ -169,23 +169,23 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These are thy generations of celestial seed thou art the Sovran Lord of all the world of life.  
      This universe, O Pavamana, owns thy sway; thou, Indu, art the first establisher of Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von deinem himmlischen Samen sind diese Geschöpfe; du herschest über die ganze Welt, und in deiner Gewalt ist dieses All, o Pavamana; du, o Saft, bist der erste Schöpfer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein sind, die hier dem Himmelssamen sind entstammt, und du gebietest über diese ganze Welt, Ja, alles dies ist, rieselnder, in deiner Macht, der Häuser erster Gründer bist, o Soma, du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

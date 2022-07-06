@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡दे-मदे हि꣡ नो ददि꣡र्  
 यूथा꣡ ग꣡वाम् ऋजुक्र꣡तुः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 शिशीहि꣡ राय꣡ आ꣡ भर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -34,7 +34,7 @@ genre M
 सम् । गृ॒भा॒य॒ । पु॒रु । श॒ता । उ॒भ॒या॒ह॒स्त्या । वसु॑ । शि॒शी॒हि । रा॒यः । आ । भ॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *made* ← *mada*
 - \[noun\], locative, singular, masculine
@@ -125,36 +125,36 @@ genre M
 **मदेमदे** सोमपानेन हर्षेहर्षे सति **ऋजुक्रतुः** ऋजुकर्मा स इन्द्रः **नः** अस्मभ्यं **गवां** **यूथा** यूथानि **ददिः** **हि** गोयूथानां दाता खलु। हे इन्द्र स त्वं **पुरु** पुरूणि प्रभूतानि **शता** शतसंख्याकानि अपरिमितानीत्यर्थः । **वसु** वसूनि धनानि **उभयाहस्त्या** उभाभ्यां हस्ताभ्यां **सं** **गृभाय** अस्मभ्यं दातुं सम्यग्गृहाण । **शिशीहि** अस्मांस्तीक्ष्णीकुरु । निशितबुद्धियुक्तान् कुर्वित्यर्थः । **रायः** धनानि हस्तयोः स्थितानि **आ** **भर** आहर प्रयच्छ ॥ ददिः ।  ‘ डुदाञ् दाने ' । **आदृगमहनजनः°**  इति किप्रत्ययः । यूथा।  ‘ शेश्छन्दसि बहुलम् । इति शेर्लोपः । गवाम् । सावेकाचः' इति प्राप्तस्य न गोश्वन्साववर्ण ' इति प्रतिषेधः । गृभाय ।  ‘ ग्रह उपादाने '। लोटि हौ । छन्दसि शायजपि ' ( पा. सू. ३. १.८४ ) इति श्नाप्रत्ययस्य शायजादेशः ।  ‘ हृग्रहोर्भ: ' इति भत्वम् । उभयाहस्त्या। उभयहस्तशब्दादुत्तरस्य तृतीयाद्विवचनस्य ‘सुपां सुलुक्' इति ङ्यादेशः। ‘अन्येषामपि दृश्यते' इति पूर्वपदस्य दीर्घत्वम् । समासान्तोदात्तत्वे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । वसु । ‘सुपां सुलुक्' इति विभक्तेर्लुक् । शिशीहि ।' शो तनूकरणे'। ‘बहुलं छन्दसि ' इति विकरणस्य श्लुः ।  ‘ आदेचः । इति आत्वम् ।  ‘ इत्' इत्यनुवृत्तौ  ‘ बहुलं छन्दसि' इति अभ्यासस्य इत्वम् ।  ‘ ई हल्यघोः ' इति धातोः ईत्वम् । पादादित्वात् निघाताभावः। रायः ।  ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “The upright performer of (pious) acts is the donor of herds of cattle to us, when receiving frequent enjoyment (from our libations); take up, **Indra**, with both **hands**, many hundred (sorts) of treasure; sharpen (our intellects), bring us wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For at every revel (you) of straight resolve give us herds of cattle. Gather together many hundreds of goods with both hands.  
 Look sharp!—bring riches here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, righteous-hearted, at each time of rapture gives us herds of kine.  
      Gather in both thy hands for us treasures of many hundred sorts. Sharpen thou us, and bring us wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn in jedem Rausche schenkt uns der Rechtgesinnte Herden von Rindern. Raffe viele hundert Schätze, beide Hände voll, zusammen! Sporn uns an, bring Schätze her!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei jedem Mahle schenkst du ja uns Rinderheerden treugesinnt, Viel hundert Güter fasse denn und nimm in beide Hände sie; sei eifrig, bringe Schätze her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьянение за опьянением он дарит нам  
 Стада коров, (бог) с прямой силой духа.  

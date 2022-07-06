@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भ꣡वा नो अग्ने सुम꣡ना उ꣡पेतौ  
 स꣡खेव स꣡ख्ये पित꣡रेव साधुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ति प्रतीची꣡र् दहताद् अ꣡रातीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पु॒रु॒ऽद्रुहः॑ । हि । क्षि॒तयः॑ । जना॑नाम् । प्रति॑ । प्र॒ती॒चीः । द॒ह॒ता॒त् । अरा॑तीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
@@ -131,41 +131,41 @@ genre M
 हे **अग्ने** त्वम् **उपेतौ** अस्माभिः क्रियमाणस्य प्रवर्ग्याख्यकर्मणः आभिमुख्येनागमने **सुमनाः** तत्कर्मसिद्ध्यर्थमनुकूलमनस्को भूत्वा **नः** **साधुः** **भव** अस्मत्संबन्धिकर्मसाधको भव । तत्र दृष्टान्तद्वयम् । **सखेव** **सख्ये** **पितरेव** इति । यथा सखा सुहृत् सख्ये मित्राय हितोपदेशेन साधुर्भवति यथा च **पितरा** मातापितरौ पुत्राय सन्मार्गोपदेशेन साधकौ भवतः तद्वत् । किंच **जनानां** मनुष्याणां **क्षितयः** मनुष्याः **पुरुद्रुहो** हि नानाविधद्रोहयुक्ताः । हिशब्दः कारणपरः । यस्माल्लोके परस्परमात्सर्यादिनान्योन्यमसहमाना जना वर्तन्ते तस्मात्त्वं **प्रतीचीः** प्रतीचः प्रतिकूलतयास्मदाभिमुख्येन आगच्छतः **अरातीः** अरातीन् शत्रून् प्रति दहतात् त्वं प्रतिकूलः सन् भस्मसात्कुरु ॥ भवा नः ॥ ‘ द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः । उपेतौ । ‘इण् गतौ ' । अयनमिति भावे क्तिन् । प्रादिसमासः । ‘ तादौ च निति कृत्यतौ' इति गतेः प्रकृतिस्वरत्वम् । सख्ये । ‘ समाने ख्यश्चोदात्तः' इति इण् । डित्त्वाट्टिलोपः । तत्संनियोगेन यलोपः । ‘ समानस्य छन्दसि' इत्यादिना सभावः । ‘उदात्तः ' इत्युक्तत्वात् उपपदस्योदात्तता । साधुः । ‘ राध साध संसिद्धौ ' । ‘कृवापाजि ' इत्यादिना उण् प्रत्ययः । प्रत्ययस्वरः । प्रतीचीः । ‘ अञ्चु गतिपूजनयो: '। ‘ ऋत्विग्दधृक् ' इत्यादिना क्विन् । स्त्रियाम् ‘ उगितश्च ' इति ङीपि प्राप्ते पुनः ‘ धातोरुगितः प्रतिषेधः ' ( पा. सू. ४, १. ६. १ ) इति प्रतिषिद्धे ‘ अञ्चतेश्चोपसंख्यानम्' इति प्रतिप्रसवात् ङीप् । तस्मिन् भसंज्ञायाम् ' अच: ' इत्यकारलोपः । ‘ चौ' इति दीर्घः । दहतात् । ‘ दह भरमीकरणे' इत्यस्य लोण्मध्य मैकवचने हे: ‘ तुह्योस्तातङ्ङाशिषि ' इति तातङादेशः । निघातः । अरातीः प्रतीचीः । उभयत्र लिङ्गव्यत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Be favourably disposed **Agni**, on approaching us (at this rite); be the fulfiller (of our objects) like a friend (to a friend) or parents (to a child); since men are the grievous oppressors of men, do you consume the foes who come against us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Become benevolent toward us, Agni, at our reverent approach, bringing  success (to us), like a companion to his companion, like a father and  mother.  
 Since the dwelling places of the peoples have many deceptions, burn  against the hostilities turned against us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 AGNI, be kind to us when we approach thee good as a friend to friend, as sire and mother.  
      The races of mankind are great oppressors burn up malignity that strives against us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Be kind, O Agni, when we approach thee, as a friend a friend, as parents 1, a straight leader. For full of deceit are the tribes of men: burn thou against (all) malign powers so that they turn back.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sei uns, Agni, wohlgesinnt, wenn wir an dich herantreten, gut wie ein Freund dem Freunde, wie die Eltern dem Sohne; denn trugvoll sind die Menschenvölker. Flamme wieder die Unholde, wenn sie sich stellen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sei uns, o Agni, hold bei deinem Nahen wie Freund dem Freunde, treugesinnt wie Aeltern; Denn vielverletzend sind der Menschen Stämme; o brenn hinweg die Feinde, die uns nahen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Будь расположен к нам, о Агни, когда мы приближаемся,  
 Добрым, как друг – к другу, как родители (- к сыну):  

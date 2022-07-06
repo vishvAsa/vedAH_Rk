@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समिधान꣡ उ सन्तिय  
 शु꣡क्रशोच इहा꣡ वह  
 चिकित्वा꣡न् दइ꣡वियं ज꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 चि॒कि॒त्वान् । दैव्य॑म् । जन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samidhāna* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
@@ -85,37 +85,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सन्त्य** भजनशील **शुक्रशोचे** ज्वलद्दीप्ते त्वं **समिधान** **उ** समिध्यमान एव **दैव्यं** देवसंबन्धिनं **जनं** **चिकित्वान्** जानन् **इह** यज्ञे **आ** **वह** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Brilliant-flames giver of food, do you, the knower, when kindled, bring the host of the gods here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you have been kindled, o comrade with flaming flame,  
 convey here  
 the divine race, as the attentive one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Excellent God, with brilliant flames, enkindled bring thou hitherward,  
      Knowing the way, the Heavenly Host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entzündet fahre die Götter hierher, du Wahrhafter, Hellflammender, der du das göttliche Volk kennst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzündet fahr, o guter du, hellleuchtender voll Achtsamkeit Hieher das göttliche Geschlecht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же тебя зажгли, о истинный,  
 О прозрачнопламенный, привози сюда (богов),  

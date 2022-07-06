@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ रा꣡धांसि द꣡दति अ꣡श्विया मघा꣡  
 का꣡मेन श्र꣡वसो महः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शत꣡म् पूर्भि꣡र् यविष्ठिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तान् । अंह॑सः । पि॒पृ॒हि॒ । प॒र्तृऽभिः॑ । त्वम् । श॒तम् । पूः॒ऽभिः । य॒वि॒ष्ठ्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -111,37 +111,37 @@ genre M
 हे **यविष्ठ्य** युवतमाग्ने **त्वं** **ये** यजमानाः **महः** महतः **श्रवसः** यशसः **कामेन** इच्छया। यशस्कामाः सन्त इत्यर्थः । **राधांसि** साधकानि **अश्व्या** अश्वात्मकानि **मघा** मघानि **ददति** **तान्** दातॄन् **अंहसः** पापात् शत्रोर्वा **पर्तृभिः** रक्षासाधनभूतैः **शतम्** अपरिमिताभिः **पूर्भिः** नगरीभिश्च **पिपृहि** पालय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youngest (of the gods), protect with your protections from iniquity, (and reward) with numerous citiesthose who, through the desire of extended fame, bestow riches, comprehending horses and treasure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who give gifts and rewards of horses with a desire for great fame— rescue them from difficult straits with your rescuers and with your  
 hundred fortresses, o youngest one.  
 902 VII.17–18
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who bestow as bounty plenteous wealth of steeds, moved by desire of great renown-  
      Do thou with saving help preserve them from distress, Most Youthful! with a hundred forts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Ehrengaben, Schenkungen von Rossen gehen aus Wunsch nach großem Ruhm, die Schütze vor Not mit deinen Schützern, mit hundert Burgen, du Jüngster!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Rossescharen reichlich als Geschenk verleihn, von hohen Ruhms Begier erregt, Mit deinen Schützern schütze vor Bedrängniss die, mit hundert Burgen, jüngster du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто дает почетные дары, награды в виде коней  
 Из желания великой славы –  

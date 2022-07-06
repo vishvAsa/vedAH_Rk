@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व देव꣡वीतय  
 इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
 आ꣡ कल꣡शम् म꣡धुमान् सोम नः सदः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आ । क॒लश॑म् । मधु॑ऽमान् । सो॒म॒ । नः॒ । स॒दः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -89,19 +89,19 @@ genre M
 हे **इन्दो** सोम **देववीतये** देवानां भक्षणाय **ओजसा** बलेन **धाराभिः** आत्मीयाभिः **पवस्व** क्षर । हे **सोम** **मधुमान्** मदकररसवांस्त्वं **नः** अस्मदीयं कलशं द्रोणाभिधानम् ॥ **आ** **सदः** । सदेर्लुङि रूपम् । आसीद ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Flow, **Indu**, in your strength with your streams for the banquet of the gods; sit down, **Soma**, who are sweet-flavoured, in our pitcher.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself in streams, o drop, to pursue the gods with strength. Honeyed, sit in our tub, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On imperatival sadaḥ, see comm. ad IX.2.2.
 
@@ -116,23 +116,23 @@ Because of the distribution of word boundaries, the first two vss. of this tṛc
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indu, with thy streams, in might, flow for the banquet of the Gods:  
      Rich in meath, Soma, in our beaker take thy place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich zur Götterladung, o Saft, mächtig in Strömen; setze dich versüßt in unseren Krug, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indu, riesle hell mit Kraft in Strömen hin zum Göttermahl, In unsern Becher, Soma, setz dich honigsüss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся для приглашения богов,  
 О сок сомы, (своими) потоками, (своею) силой!  

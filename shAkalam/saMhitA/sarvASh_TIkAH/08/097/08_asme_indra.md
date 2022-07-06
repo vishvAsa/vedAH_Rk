@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मे꣡ इन्द्र स꣡चा सुते꣡  
 नि꣡ षदा पीत꣡ये म꣡धु  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अस्मे꣡ इन्द्र स꣡चा सुते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 कृ॒धि । ज॒रि॒त्रे । म॒घ॒ऽव॒न् । अवः॑ । म॒हत् । अ॒स्मे इति॑ । इ॒न्द्र॒ । सचा॑ । सु॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asme* ← *mad*
 - \[noun\], locative, plural
@@ -121,36 +121,36 @@ genre M;; repeated line
 हे इन्द्र अस्मे अस्माभिः सचा सह सुतेभिषुतेसोमे निषद अस्मदीये यज्ञेनिषाद । किमर्थं मधुपीतये मधुनः सुपांसुलुगिति ङसोलुक् मदकरस्य सोमस्य पीतये पानाय । किञ्च हे मघवन् धनवन्निन्द्र महदवोरक्षणं जरित्रे कृधि कुरु कस्मिन्सति अस्मेइन्द्रसचासुतइति व्याख्यातःपादः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sit with us, **Indra**, at the oblation to drink the **Soma**; **Maghavan**, perform a mighty protection for yourworshipper, (seated) with us at the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Among us, Indra, at our pressing, sit down to drink the honey.  
 Produce great help for the singer, bounteous one—among us, Indra, at  our pressing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sit down with us, O Indra, sit beside the juice to drink the meath.  
      Show forth great favour to the Singer, Maghavan; Indra, with us, beside the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß dich bei unserem Soma nieder, um den Süßtrank zu trinken, Indra; gewähre dem Sänger große Gunst, o Gabenreicher, uns bei dem Somasaft, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei unserm Soma setze dich, o Indra, trink den süssen Trank; Dem Sänger schaffe grosse Gunst, o mächtiger, bei unserm Soma setze dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У нас, о Индра, у выжатого (сомы)  
 Усядься, чтоб испить сладости!  

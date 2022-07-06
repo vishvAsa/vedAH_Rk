@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 धेनुं꣡ न꣡ त्वा सूय꣡वसे दु꣡दुक्षन्न्  
 उ꣡प ब्र꣡ह्माणि ससृजे व꣡सिष्ठः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ न इ꣡न्द्रः सुमतिं꣡ गन्तु अ꣡छ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । इत् । मे॒ । गोऽप॑तिम् । विश्वः॑ । आ॒ह॒ । आ । नः॒ । इन्द्रः॑ । सु॒ऽम॒तिम् । ग॒न्तु॒ । अच्छ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
@@ -136,20 +136,20 @@ genre M
 हे इन्द्र **सुयवसे** सुतृणे गोष्ठे वर्तमानां **धेनुं** **न** धेनुमिव सुहविष्के यज्ञगृहे। दृष्टान्तसामर्थ्यात् दार्ष्टान्तिकलाभः । वर्तमानं त्वां **दुधुक्षन्** । संहितायां व्यत्ययेन दकारः । कामान् दोग्धुमिच्छन् **वसिष्ठः** **ब्रह्माणि** वत्सस्थानीयानि स्तोत्राणि **उप** ससृजे उपसृजते । **मे** मम **विश्वः** सर्वः जनः **त्वामित्** त्वामेव **गोपतिं** गवां स्वामिनम् **आह** ब्रवीति । अथ परोक्षस्तुतिः । **नः** अस्माकं **सुमतिं** सुष्टुतिम् **अच्छ** अभि **इन्द्रः** **आ** **गन्तु** आगच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of milking you like a milch cow at pasture, **Vasiṣṭha** has let loose his prayers to you; everyone of my people proclaims you the lord of cattle; may **Indra** be present at our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Wishing to milk you like a milk-cow in good pasture, I, Vasiṣṭha, have  dispatched sacred formulations to you.  
 Everyone says that you alone are my herdsman. Let Indra come to our  good thought.904 VII.18
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The desid. part. dúdukṣan is mildly notable because 1) it does not exhibit reverse-Grassmann (*dúdhukṣan) unlike the s-aor. ádhukṣat (also, however, 3 adukṣat); 2) it is a real part., not the u-adj. often substituting for the part. in the desid.
 
@@ -163,23 +163,23 @@ As noted in the published introduction, this vs. exhibits a kind of ring comp. v
 My tr. of the 2nd hemistich follows Oldenberg’s, contra Geldner
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vasistha hath poured forth his prayers, desiring to milk thee like a cow in goodly pasture.  
      All these my people call thee Lord of cattle: may Indra. come unto the prayer we offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Um dich zu melken wie eine Kuh auf fetter Weide, hat Vasistha seine erbaulichen Worte wie das Kalb losgelassen. Nur dich nennt mir jeder als den Kuhbesitzer. Indra soll uns zur Gnade kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gebet ergoss Vasischtha, dich zu melken begehrend, wie die Kuh auf schöner Wiese; Dich nannte jeder mir als rechten Hirten; es komme Indra her zu unsrer Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Желая подоить тебя как дойную корову на тучном пастбище,  
 Васиштха подослал (к тебе) молитвы (, словно теленка).  

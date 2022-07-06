@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्यं꣡ चिद् अ꣡श्वं न꣡ वाजि꣡नम्  
 अरेण꣡वो य꣡म् अ꣡त्नत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡त्रिं य꣡विष्ठम् आ꣡ र꣡जः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हम् । ग्र॒न्थिम् । न । वि । स्य॒त॒म् । अत्रि॑म् । यवि॑ष्ठम् । आ । रजः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -112,37 +112,37 @@ genre M
 **अरेणवः** अहिंस्यमानाः प्रबला असुराः **वाजिनं** वेगवन्तम् **अश्वं** न अश्वमिव **यम्** अत्रिम् **अत्नत** अतन्वत बद्धमकृषत ॥ तनोतेर्लुङि ‘तनिपत्योश्छन्दसि' इत्युपधालोपः। **त्यं** **चित्** तं च **अत्रिं** **यविष्ठं** युवतमं स्तुतेर्मिश्रयितृतमं वा **रजः**। रजन्त्यस्मिन् जना इति रजो भूलोकः । रज इमं लोकम् **आ** अभि हे अश्विनौ **वि** **ष्यतं** व्यमुञ्चतम् । दृढं स्थिरतरं **ग्रन्थिं** **न** ग्रन्थिमिव । यथा कश्चित् तादृशं ग्रन्थिमयत्नेन विमुञ्चति तथा युवां तमृषिमसुरकृताद्बन्धनात् मोचितवन्तावित्यर्थः ॥ स्यतमिति ‘ षोऽन्तकर्मणि' इत्यस्माल्लङि श्यनि “ ओतः श्यनि' इत्योकारलोपे रूपम् । छान्दसोऽभावः ॥ यद्वा । अत्रिं मां बन्धाद्वि ष्यतं विमुञ्चतमित्यृषिः असुरैर्बद्धः सन् अश्विनौ प्रार्थयते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Atri**, whom the irresistible (**asuras**) dragged bound like a swift horse, you unloosed like a strongknot, (setting him) the youngest born upon the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Unloose) also this one, like a prizewinning horse, to which the dustless  (paths) have stretched themselves;  
 unloose the youngest Atri, like a tight knot, (to stretch) across the  
 airy realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye freed that Atri like a horse, and brought him newly-born to earth.  
      Ye loosed him like a firm-tied knot which Gods unsoiled by dust had bound.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch diesen lasset wie ein preisgewinnendes Roß nach dem Ziele laufen, das die staublosen Götter gesteckt haben. Bindet ihn los wie einen festen Knoten - den jüngsten Atri lasset seine Strecke laufen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So löst wie festen Knoten auch den Atri, den gleich schnellem Ross Staublose Götter ausgesandt, bringt jugendfrisch ihn an die Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И этого (Атри пустите бежать), как коня, приносящего награду,  
 Которому лишенные пыли (боги) протянули (путь).  

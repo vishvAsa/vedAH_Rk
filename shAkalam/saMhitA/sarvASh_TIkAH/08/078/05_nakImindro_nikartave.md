@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡कीम् इ꣡न्द्रो नि꣡कर्तवे  
 न꣡ शक्रः꣡ प꣡रिशक्तवे  
 वि꣡श्वं शृणोति प꣡श्यति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 विश्व॑म् । शृ॒णो॒ति॒ । पश्य॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakīm*
 - \[adverb\]
@@ -77,35 +77,35 @@ genre M
 अयम् **इन्द्रः** **निकर्तवे** निकर्तुं **नकीं** नैव शक्यः । तथा **शक्रः** शक्तोऽयं **परिशक्तवे”** परिभावाय **न** शक्यत इति । स तु **विश्वं** **शृणोति** **पश्यति** च ॥ ॥ ३१ ॥ स मन्यु मनामदब्धो नि चिकीषते । पुरा निदर्थिकीषते ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** cannot be brought low, he cannot be over-powered-- he hears, he sees all.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never is Indra to be put down nor the able one to be circumvented. He hears and sees all.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra can never be brought low, Sakra can never be subdued:  
      He heareth and beholdeth all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra ist nicht hereinzulegen, noch ist Macht über den Mächtigen zu gewinnen. Alles hört, sieht er.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra ist zu besiegen nicht, der starke zu bezwingen nie; Er hört und sieht das ganze All.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

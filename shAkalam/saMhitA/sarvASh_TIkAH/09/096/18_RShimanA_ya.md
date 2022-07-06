@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡षिमना य꣡ ऋषिकृ꣡त् सुवर्षाः꣡  
 सह꣡स्रणीथः पदवीः꣡ कवीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मो विरा꣡जम् अ꣡नु राजति ष्टु꣡प्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तृ॒तीय॑म् । धाम॑ । म॒हि॒षः । सिसा॑सन् । सोमः॑ । वि॒ऽराज॑म् । अनु॑ । रा॒ज॒ति॒ । स्तुप् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣimanā* ← *ṛṣi*
 - \[noun\], masculine
@@ -114,21 +114,21 @@ genre M
 **ऋषिमना:** सर्वदर्शनशीलमनस्कः अत एव **ऋषिकृत्** सर्वस्य दर्शनकर्ता प्रकाशनस्य कर्ता **स्वर्षाः** सर्वस्य सूर्यस्य वा संभक्ता **सहस्रणीथः** । नीथा स्तुतिः । बहुविधस्तुतिकः **कवीनां** क्रान्तप्रज्ञानां मध्ये **पदवीः** स्खलतां पदानां साधुत्वेन संयोजयिता **यः** सोमो विद्यते सः **महिषः** महान् पूज्यो वा **सोमः** **तृतीयं** **धाम** द्युलोकं **सिषासन्** संभक्तुमिच्छन् **स्तुप्** स्तूयमानः सन् **विराजं** विशेषेण राजन्तं दीप्यमानमिन्द्रम् **अनु** **राजति** प्रकाशयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thinking as a ṛṣi, acting as a ṛṣi, gaining heaven, praised by thousands, the guide of the wise, the mighty **Soma** desiring to attain the third region (heaven), being praised adds lustre to the illustrious (**Indra**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having the mind of a seer, a maker of seers, gaining the sun, having a  thousand devices, trail-blazer for poets,  
 a buffalo, seeking to gain the third domain, Soma, as rhythm  
 [/the anuṣṭubh meter], regulates the virāj (meter) according to rule.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not render the rel. yáḥ since the rel. cl. is entirely nominal. It is not clear how far it extends - perhaps the first hemistich, perhaps through pāda c, perhaps only the first pāda - since Soma is nominative both in the rel. cl. and in the main cl. The main cl. must constitute at least the last pāda because the finite verb rājati is unaccented.
 
@@ -151,23 +151,23 @@ These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Light-winner, Rsi-mindcd, Rsi-maker, hymned in a thousand hymns, Leader of sages,  
      A Steer who strives to gain his third form, Soma is, like Viraj, resplendent as a Singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der wie ein Rishi denkend, zum Rishi machend, das Sonnenlicht gewinnend, tausend Weisen kennend, der Seher Pfadfinder ist, der Büffel, der seine dritte Form gewinnen möchte, der Soma tut es an Pracht dem prangenden Herrscher gleich, der Lobsänger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Dichtergeist, der Dichter schafft und Glanz gibt, der Sänger Führer, tausend Weisen kennend, Der Stier hinstrebend nach der dritten Stätte misst nach dem Dreimass ab sein Lied, der Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто с мыслью, как у риши, творец риши, захватчик солнца,  
 Ведущий тысячей путей, пролагатель пути поэтов,  

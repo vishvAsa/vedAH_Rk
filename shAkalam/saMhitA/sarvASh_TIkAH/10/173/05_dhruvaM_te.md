@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध्रुवं꣡ ते रा꣡जा व꣡रुणो  
 ध्रुवं꣡ देवो꣡ बृ꣡हस्प꣡तिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 राष्ट्रं꣡ धारयतां ध्रुव꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ध्रु॒वम् । ते॒ । इन्द्रः॑ । च॒ । अ॒ग्निः । च॒ । रा॒ष्ट्रम् । धा॒र॒य॒ता॒म् । ध्रु॒वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhruvaṃ* ← *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, neuter
@@ -116,36 +116,36 @@ popular;; epic anuṣṭubh (380)
 हे राजन् ते तव राष्ट्रं राजा राजमानो वरुणो ध्रुवं स्थिरं धारयतु। देवो दानदिगुणयुक्तो बृहस्पतिर्ध्रुवं धारयतु। इन्द्रश्चाग्निश्चोभावपि ते तव राष्ट्रम् ध्रुवं स्थिरं धारयताम्। इन्द्राग्न्योरुभयोरपेक्षया ध्रुवशब्दस्य द्विः प्रयोगः॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the royal **Varuṇa**, the divine **Bṛhaspati**, may **Indra** and **Agni** ever give stability to your kingdom.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Firm let King Varuṇa, firm let God Br̥haspati,  
 firm let both Indra and Agni uphold your kingship—firm!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Stedfast, may Varuna the King, stedfast, the God Brhaspati,  
      Stedfast, may Indra, stedfast too, may Agni keep thy stedfast reign.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Fest doll König Varuna, fest Gott Brihaspati, fest Indra und Agni deine Herrschaft fest befestigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fest mög dir König Varuna, und fest der Gott Brihaspati, Und fest dir Indra, Agni auch erhalten deine Herrschaft fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Твердо – твое (господство) пусть царь Варуна,  
 Твердо – пусть бог Брихаспати,  

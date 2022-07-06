@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते म꣡दो व꣡रेणियो  
 य꣡ इन्द्र वृत्रह꣡न्तमः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 यः꣡ पृ꣡तनासु दुष्ट꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । आ॒ऽद॒दिः । स्वः॑ । नृऽभिः॑ । यः । पृत॑नासु । दु॒स्तरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -103,7 +103,7 @@ genre M
 पूर्वमन्त्रे मदाय हरय इत्युक्तं स मदः स्तूयते । हे **इन्द्र** **ते** तव **यः** **मदः** **वरेण्यः** वरणीयः । **यः** च मदः संग्रामे **वृत्रहन्तमः** शत्रूणामतिशयेन हन्ता । **यः** च **आददिः** आदाता **स्वः** स्वरणं धनं **नृभिः** नृभ्यः शत्रुभ्यः । **यः** च **पृतनासु** संग्रामेषु **दुष्टरः** अनभिभाव्यः । तस्मै मदाय हरयो वहन्त्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -114,13 +114,13 @@ genre M
 From men: nṛbhiḥ = śatrubhyaḥ, from your foes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your exhilaration, which is worthy to be chosen, which is the most  Vr̥tra-smiting, o Indra,  
 which with superior men takes the sun, which is difficult to surpass in  battles—
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -130,23 +130,23 @@ A thematic and syntactic modulation. The yáḥ clauses of vs. 8 (which lacks a 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, that most excellent carouse, Indra, which slays most enemies,  
      With Heroes wins the light of heaven, and is invincible in war:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein vorzüglicher Rausch, der Erzfeindetöter, o Indra, der mit den Mannen das Sonnenlicht gewinnt, der in den Schlachten unüberwindlich ist,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Rausch der, Indra, lieb dir ist, und der den Feind am besten schlägt, Der in den Schlachten durch die Helden Glanz verschafft, in Schlachten unbesiegbar ist,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (То) твое опьянение, которое желанно,  
 Которое, о Индра, лучше всех убивает врагов,  

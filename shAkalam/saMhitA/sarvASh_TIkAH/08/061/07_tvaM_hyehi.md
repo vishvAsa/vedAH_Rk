@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ हि꣡ ए꣡हि चे꣡रवे  
 विदा꣡ भ꣡गं व꣡सुत्तये  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 उ꣡द् इन्द्र अ꣡श्वमिष्टये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उत् । व॒वृ॒ष॒स्व॒ । म॒घ॒ऽव॒न् । गोऽइ॑ष्टये । उत् । इ॒न्द्र॒ । अश्व॑म्ऽइष्टये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -97,7 +97,7 @@ genre M
 हे इन्द्र **त्वं** **हि** त्वं खलु । सामर्थ्याद्दातेति गम्यते । अतः **एहि** आगच्छ । आगत्य चास्मभ्यं **भगं** भजनीयं धनं **विदाः** लभस्व दत्स्व । किमर्थम् । **वसुत्तये** अस्माकं वसुदानाय । हे **मघवन्** **गविष्टये** गा इच्छते मह्यंं **उद्ववृषस्व** उत्सिञ्चस्व गामिति शेषः । तथा हे **इन्द्र** **अश्वमिष्टये** अश्वैषणवते मह्यमश्वान् **उत्** ववृषस्व उत्सिञ्चस्व देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,12 +108,12 @@ genre M
 Cerave = cetayitre = **medhāvin**, theworshiper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come on and find fortune, to give goods to the attentive man. Boil up and over, generous one, for the seeking of cattle, up and over  for the seeking of horseflesh, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two verbs in ab, éhi and vidā́, seem to conform to the quasi-serial-verb construction (on which see A. Yates 2014 [UCLA IE Conference proceedings]), but hí makes trouble for this assessment and trouble in general for the interpretation.
 
@@ -130,23 +130,23 @@ impv. would come out as *vāvṛkṣva and would be multiply ambiguous.
 Thematicization would be a good strategy under these circumstances. For further disc. of this set of “thematic” perfect imperatives see my 2018 “The Vedic Perfect Imperative and the Status of Modal Forms to Tense-Aspect Stems” (Fs. Lubotsky) on the perfect imperative.) As is generally noted, this imperative cannot be separated from the medial participle vāvṛṣāná-, which in two of its three occurrences also appears with úd. Following Neisser (1893, also Gotō 1987), Kümmel (474-77) assigns these forms to a root √2 varṣ ‘sich ermannen, sich (tatendurstig) erheben’ (associated with the present varṣāyáte, which however appears to be a denominative, not a root formation) separate from √1 varṣ ‘regnen’ and translates our passage rather like Geldner’s “Ermannen dich…” I think this separation is unnecessary and also ignores the ā́ vṛṣasva in 3a. I find the liquid semantics of √vṛṣ ‘rain’ not only possible in all the úd √vṛṣ passages but productive of a striking image: ‘bubble/boil up’, expressing Indra’s irrespressible excitement and energy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thou,-come to the worshipper!-wilt find great wealth to make us rich.  
      Fill thyself full, O Maghavan, for gain of kine, full, Indra, for the gain of steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlan, mögest du also für den Suchenden einen gnädigen Herrn ausfindig machen zum Gutschenken! Ermanne dich, Freigebiger, für den Rinder Wünschenden, o Indra, für den Rosse Wünschenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So komm denn zu dem opfernden, verleih ihm Gut als reichen Lohn; Ergiesse dich, o reicher, dem der Rinder wünscht, o Indra, und der Rosse wünscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Иди же, для внимательного  
 Найди долю, чтобы раздать имущество!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानो꣡ रा꣡जा वि꣡भृतः पुरुत्रा꣡  
 श꣡ये शया꣡सु प्र꣡युतो व꣡ना꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒न्या । व॒त्सम् । भर॑ति । क्षेति॑ । मा॒ता । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samāno* ← *samānaḥ* ← *samāna*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ genre M;; repeated line
 **समानः** साधारणः सर्वेषाम् । यद्वा एक एव । राजा दीप्यमानोऽग्निः **पुरुत्रा** बहुषु देशेषु **विभृतः** अग्निहोत्रार्थं विहृतो भवति । यद्वा । राजा अभिषुतः सोमः सर्वेषु देशेषु यज्ञार्थं विहृतो भवति । स चाग्निः सोमो वा **शयासु** वेदिषु । शेरते हविरादयः पदार्था अत्रेति शया वेद्यः । तासु **शये** शेते निवसति । **वनानु** अनुवनं वनेश्वरणिरूपेषु काष्ठेषु **प्रयुतः** विभक्तोऽग्निर्वर्तते । सोमश्चेत् वनेषु चमसेषु विभक्तो वर्तते । तस्य द्वे मातरौ द्यावापृथिव्यौ। तयोः **अन्या** द्यौः अस्याः भूमेः जायमानतया **वत्सं** वत्सभूतमग्निं सोमं वा **भरति** वृष्ट्यादिरूपेण भरति पोषयति । **माता** वसुधा **क्षेति** केवलं निवासयति ॥ विभृतः ।  ‘ हृञ् हरणे ' । कर्मणि क्तः ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । पुरुत्रा। अधिकरणे त्राप्रत्ययः । शये । ‘शीङ् स्वप्ने । लोपस्तः' इति तकारलोपः । ‘शीङः सार्वधातुके गुणः । शयासु । ‘शीङ् स्वप्ने । **एरच्** ' इत्यधिकरणेऽच् । भरति । भृञ् भरणे । भूवादिः ।  ‘ एकान्याभ्यां समर्थाभ्याम्' इति पूर्वस्य न निघातः । क्षेति । क्षि निवासगत्योः' इत्यस्य लटि ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,7 +136,7 @@ genre M;; repeated line
 The universal sovereign: **samānā** **rāja** may imply either **Agni** or the **Soma**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The common king has been dispersed in many places; he lies in his  resting places [=hearths], (spread out) for some distance along the  
 (fire-)logs.  
@@ -145,30 +145,30 @@ fire-churning sticks]. – Great is the one and only lordship of
 the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The ví … purutrā́of the preceding vs. (3a) returns here, though with the preverb bound to a ppl. (víbhṛtaḥ); the phrase is contrasted with samāná- to express the theme of unity and diversity in balance. The “common king” is of course Agni, and the image is both of this single god being found on many different ritual grounds and of the ritual fire on any particular ritual ground being divided into three.
 
 With Geldner, I assume that the pair in c is the kindling sticks. Cf. III.31.2d and X.27.14b, esp. tasthaú mātā́“the mother stands still,” comparable to our kṣéti mātā́ “the mother rests peacefully.” The epithet ‘having two mothers’ (dvimātár-) used of Agni in 6a and 7a is a reference to the paired kindling sticks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 King Universal, born to sundry quarters, extended through the wood be lies on couches.  
      One Mother rests: another feeds the Infant. Great is the Gods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der gemeinsame König, auf viele Stellen verteilt, ruht in den ruhenden Müttern sich selbst überlassen in jedem Holze. Eine andere trägt das Kalb die Mutter sitzt ruhig. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Derselbe König, viel umhergetragen, liegt auf den Lagern sorglos in den Hölzern, Die eine nährt das Kalb, die Mutter schlummert; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Общий царь, разнесенный по многим местам.  
 Он лежит на ложах, предоставленный самому себе в каждом куске древесины.  

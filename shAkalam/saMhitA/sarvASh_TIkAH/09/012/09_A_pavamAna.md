@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवमान धारय  
 रयिं꣡ सह꣡स्रवर्चसम्  
 अस्मे꣡ इन्दो सुआभु꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्मे इति॑ । इ॒न्दो॒ इति॑ । सु॒ऽआ॒भुव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -84,41 +84,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** **इन्दो** सोम त्वं सहस्रवर्चसं बहुदीप्तिं **स्वाभुवं** शोभनभवनं **रयिं** धनम् **अस्मे** अस्मासु **धारय** । प्रक्षिपेत्यर्थः ॥ ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purifying **Indu**, bestow upon us wealth of a thousand radiances, excelent in its nature.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Self-purifying one, secure wealth of a thousand lusters  
 close at hand to us, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The impv. dhāraya is almost identical to the instr. dhā́rayā in 8c, though their morphology is entirely different.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, bring us wealth bright with a thousand splendours. Yea.  
      O Indu, give us ready help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verleih uns, o Pavamana, einen Schatz von tausendfachem Ansehen, der uns recht diensam ist, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ertheil uns, Indu rieselnder, den Schatz, der tausendfach erglänzt Und schöne Hülfe uns gewährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Павамана, надели нас  
 Богатством, сверкающим на тысячу ладов,  

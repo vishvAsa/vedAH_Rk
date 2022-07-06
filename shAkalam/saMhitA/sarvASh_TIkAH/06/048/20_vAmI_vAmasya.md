@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वामी꣡ वाम꣡स्य धूतयः  
 प्र꣡णीतिर् अस्तु सूनृ꣡ता  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ईजान꣡स्य प्रयज्यवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दे॒वस्य॑ । वा॒ । म॒रु॒तः॒ । मर्त्य॑स्य । वा॒ । ई॒जा॒नस्य॑ । प्र॒ऽय॒ज्य॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāmī* ← *vāma*
 - \[noun\], nominative, singular, feminine
@@ -94,7 +94,7 @@ genre M
 हे **धूतयः** कम्पयितारः **प्रयज्यवः** प्रकर्षेण यष्टव्याः **मरुतः** सा **सूनृता** प्रियसत्यात्मिका माध्यमिका युष्मदीया वाक् **प्रणीतिरस्तु** । अस्मदर्थं धनानां प्रणेत्री भवतु । **देवस्य** **वा** **मर्त्यस्य** मनुष्यस्य **वा** **ईजानस्य** इष्टवतः उभयविधस्य पुरुषस्य **वामी** प्रशस्ता या वाक् **वामस्य** वननीयस्य धनस्य प्रणीतिः प्रणेत्री सा सूनृतेत्यन्वयः। प्रणीतिरस्त्वस्मदर्थम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,29 +105,29 @@ genre M
 For semant. 'agitators' maṛti go.l = churning stick; maṛt- = to turn over (**Kota**); cf. sindhumathya = produced at the churning of the ocean (Skṭ)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you shakers, let (us) have the valuable guidance of a valuable one and  let there be the liberal spirit  
 either of a god or of a mortal who has sacrificed, o Maruts who receive  the forefront of the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the kind excellence of him the Kind, loud Roarers! be our guide,  
      Be it the God's, O Maruts, or a mortal man's who worships, ye impetuous Ones!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eines Trefflichen treffliche Führung und Großmut soll uns werden, ihr Schüttler, sei es eines Gottes oder opfernden Sterblichen, ihr opfersamen Marut;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des lieben liebe Führung sei uns wonnig, ihr Erschütterer, sei Gott er oder Sterblicher, o Maruts, sei er Opferer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть будет (нам) замечательное руководство, о сотрясатели,  
 Замечательного (вождя), счастливое,  

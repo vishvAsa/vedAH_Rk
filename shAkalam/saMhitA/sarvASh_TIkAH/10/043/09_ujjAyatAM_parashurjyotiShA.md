@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡ज् जायताम् परशु꣡र् ज्यो꣡तिषा सह꣡  
 भूया꣡ ऋत꣡स्य सुदु꣡घा पुराणव꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सु꣡वर् ण꣡ शुक्रं꣡ शुशुचीत स꣡त्पतिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । रो॒च॒ता॒म् । अ॒रु॒षः । भा॒नुना॑ । शुचिः॑ । स्वः॒ । न । शु॒क्रम् । शु॒शु॒ची॒त॒ । सत्ऽप॑तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uj* ← *ud*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **परशुः** इन्द्रस्य वज्रः **ज्योतिषा** तेजसा **सह** **उज्जायताम्** । अस्मच्छत्रुवधे मेघवधे व व्याप्रियतामित्यर्थः। किंच **ऋतस्य** सत्यस्य **सुदुघा** माध्यमिका वाक् **पुराणवत्** प्रत्नवत् काले **भूयाः** भूयात् । पुरुषव्यत्ययः । किंच इन्द्रः **अरुषः** आरोचमानः **भानुना** दीप्त्या **शुचिः** ज्वलन् **वि** **रोचतां** प्रकाशताम्। किंच **सत्पतिः** सतां पतिरिन्द्रः **स्वर्न** आदित्य इव **शुक्रं** ज्वलन् **शुशुचीत** **अत्यन्तं** दीप्यताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ genre M
 The axe, the cow: the axe is the thunderbolt, and the cow is the thunder
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the axe [=fire] arise, together with its light. The (cow) of truth,  yielding good milk, should come into being as of old.  
 Let the ruddy, blazing (fire) shine out with its radiance. The master of  settlements should blaze like the blazing sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let the keen axe come forth together with the light: here be,.as erst, the teeming cow of sacrifice.  
      Let the Red God shine bright with his refulgent ray, and let the Lord of heroes glow like heaven's clear sheen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Beil soll mit seinem Glanz zum Vorschein kommen; wie früher soll die gutmelkende Kuh der Opferordnung da sein. Der rötliche soll rein in seinem Glanze erstrahlen, wie die lichte Sonne soll der wahre Gebieter erglühen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Flammenbeil des Agni stehe auf mit Glanz und ströme reich des Opfers Milch nach alter Art, Es strahle weit der flammende mit hellem Glanz, wie Licht der Sonne leuchte hell der starke Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть возникнет топор вместе со светом!  
 Пусть будет, как прежде, хорошо доящаяся корова жертвоприношения!  

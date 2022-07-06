@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते धा꣡रा अ꣡ति अ꣡ण्वानि मेषि꣡यः  
 पुनान꣡स्य संय꣡तो यन्ति रं꣡हयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ स्वानः꣡° सोम कल꣡शेषु सीदसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । गोभिः॑ । इ॒न्दो॒ इति॑ । च॒म्वोः॑ । स॒म्ऽअ॒ज्यसे॑ । आ । सु॒वा॒नः । सो॒म॒ । क॒लशे॑षु । सी॒द॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -123,21 +123,21 @@ genre M
 **पुनानस्य** पूयमानस्य **संयतः** संगृह्यमाणाः **रंहयः** रंहणस्वभावाः **धाराः** मेष्यः **अण्वानि** अणूनि लोमानि **अति** **यन्ति** अतिक्रम्य गच्छन्ति । हे **इन्दो** सोम **यत्** यदा **गोभिः** उदकैः **चम्वोः** अधिषवणफलकयोरुपरि **समज्यसे** तदानीं हे **सोम** **सुवानः** सूयमानस्त्वं **कलशेषु** **आ** **सीदसि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rapid streams of you when you are purified,being collected together pass through the interstices of the fleece; when you are mixed with water in the ladles, you, **Soma**, on being effused alight on the pitchers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your streams go forth beyond the fine (hairs) of the ewe; as you are  being purified, there go continuous charges.  
 When, o drop, you are anointed with cows in the two cups, being  
 pressed you sit in the tubs, Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is awk. in English. The sense is that the streams of the soma being purified go charging forward continuously, with ráṃhayaḥ ‘charges, speedy forward movements’ subj. of yanti.
 
@@ -152,23 +152,23 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thy strearns that flow forth rapidly collected run over the fine fleece of the sheep as thou art cleansed.  
      When, Indu, thou art. balmed with milk within the bowl, thou sinkest in the jars, O Soma, when expressed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Ströme gehen über die Schafhaarseihe, deine raschen Fahrten gehen ununterbrochen weiter, wenn du geläutert wirst. Wenn du Saft in den beiden Camugefäßen mit Kuhmilch verschmolzen wirst, dann setzest du, Soma, dich ausgepreßt in die Krüge.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ununterbrochen eilen deine Ströme vor, des Flammers Fluten durch der Wolle Rinnen hin; Wenn du mit Milch gesalbt wirst in dem Becherpaar, nimmst Soma du gepresst, in Kufen deinen Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

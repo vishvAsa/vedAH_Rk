@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡म गीर्भि꣡ष् टुवा वयं꣡  
 वर्ध꣡यामो वचोवि꣡दः  
 सुमॄळीको꣡+ न आ꣡ विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 सु॒ऽमृ॒ळी॒कः । नः॒ । आ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *soma*
 - \[noun\], vocative, singular, masculine
@@ -88,20 +88,20 @@ genre M
 हे **सोम** **त्वा** त्वां **वचोविदः** स्तुतिलक्षणानां वचसां वेदितारः **वयम्** अनुष्ठातारः **गीर्भिः** स्तुतिलक्षणैर्वचोभिः **वर्धयामः** प्रवृद्धं कुर्मः । तादृशस्त्वं च **नः** अस्माकं **सुमृळीकः** शोभनं सुखं कुर्वन् सन् **आ** **विश** आगच्छ । सुमृळीकः ।  ‘ मृड सुखने ' ।  ‘ मृडेः कीकन्ककनौ ' ( उ. सू. ४. ४६४ ) इति भावे कीकन्प्रत्ययः । शोभनं मृडीकं यस्येति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Acquainted with hymns, we elevate you with praises; do you, who are benignant, approach.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Soma, we who know speech strengthen you with our hymns.  
 Very compassionate to us, enter us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -111,23 +111,23 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Well-skilled in speech we magnify thee, Soma, with our sacred songs:  
      Come thou to us, most gracious One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erbauen dich, Soma, mit Lobesworten, der Rede kundig. Mildtätig geh in uns ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir redekund'gen stärken dich, o Soma, durch der Lieder Schall, Komm reich an Gnade her zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Сома, хвалебными песнями неба  
 Мы усиливаем тебя, сведущие в речи.  

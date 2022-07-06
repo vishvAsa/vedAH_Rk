@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तियं꣡ चिद् अस्य क्र꣡तुभिर् नि꣡षत्तम्  
 अमर्म꣡णो विद꣡द् इ꣡द् अस्य म꣡र्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यु꣡युत्सन्तं त꣡मसि हर्मिये꣡ धाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । ई॒म् । सु॒ऽक्ष॒त्र॒ । प्रऽभृ॑ता । मद॑स्य । युयु॑त्सन्तम् । तम॑सि । ह॒र्म्ये । धाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
@@ -124,36 +124,36 @@ genre M
 **अमर्मणः** मर्महीनमात्मानं मन्यमानस्य **अस्य** वृत्रस्य **निषत्तं** निषण्णं **त्यं** **चित्** त्यत्तदेव । लिङ्गव्यत्ययः । **मर्म** प्राणस्थानम् । यत्र स्थाने विद्धो म्रियते तन्मर्मेत्युच्यते । **अस्य** वृत्रस्य **क्रतुभिः** प्रज्ञानैर्हे इन्द्र त्वं **विददित्** अज्ञासीरेव । **यत्** यदा हे **सुक्षत्र** सुबलेन्द्र त्वं **मदस्य** मादकस्य सोमस्य **प्रभृता** प्रभृतौ संभरणे सति **युयुत्सन्तं** योद्धुमिच्छन्तम् **ईम्** एनं वृत्रं **हर्म्यै** हारके **तमसि** **धाः** न्यदधाः । वृत्र इन्द्रस्य भयात् तमसि प्राविशदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have discovered, **Indra**, by his acts, the secret vital part of him who thought himself invulnerable, when, powerful Indra, in the exhilaration of the **Soma**, they have detected him preparing for combat in his dark abode.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That very one (he smashed down), (so he became) sunk down in accord  with his [=Indra’s] intentions. He found just that vulnerable place of  him (who thought himself) invulnerable,  
 when at the proffering of the invigorating (soma) you consigned him  who sought battle to darkness, (as if) to a secure house, o you of good  dominion.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Though he might ne'er be wounded still his vitals felt that, the God's bolt, which his powers supported,  
      When, after offered draughts, Strong Lord, thou laidest him, fain to battle, in the pit in darkness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst diesen, da er infolge seiner Absichten sich niedergeduckt hatte, erschlug er; er fand seine, des Unverwundbaren, verwundbare Stelle, als du trefflicher Herrscher, nach der Darbringung des Rauschtrankes, den Kampfbegierigen in das Dunkel, in das feste Haus brachtest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der sich nach seinem Willen niedersetzte, der hiebfest schien, den traf er in die Weichen; Als mächt'ger du nach dem Genuss des Rauschtranks in Fesseln schlugst den, der im Dunkel andrang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Он убил) даже того, усевшегося по его воле.  
 У него, лишенного уязвимого места, он нашел-таки уязвимое место,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमां꣡ च नः पृथिवीं꣡ विश्व꣡धाया  
 उ꣡प क्षेति हित꣡मित्रो न꣡ रा꣡जा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मह꣡द् देवा꣡नाम् असुरत्व꣡म् ए꣡कम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 पु॒रः॒ऽसदः॑ । श॒र्म॒ऽसदः॑ । न । वी॒राः । म॒हत् । दे॒वाना॑म् । अ॒सु॒र॒ऽत्वम् । एक॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
@@ -134,20 +134,20 @@ genre M;; repeated line
 **विश्वधायाः** विश्वस्य धाता सर्वान्नो वा **नः** अस्माकं **राजा** इन्द्रः **इमां** **पृथिवीम्** अन्तरिक्षं **च** **उप** तयोः समीपे **क्षेति** निवसति । तत्र दृष्टान्तः । **हितमित्रो** **न** । यथा कस्यचित् हितोपदेष्टा सुहृत् समीपे निवसति तद्वत् । **वीराः** समर्था युद्धसहाया मरुतः **पुरःसदः** युद्धार्थं पुरतो निश्चयेन गन्तार इन्द्रस्य **शर्मसदो** **न** । नश्चार्थे । शर्मणि गृहे सीदन्तश्च भवन्ति । यत्र यत्रासौ तत्र तत्र संनिधिं कुर्वाणा इत्यर्थः ॥ क्षेति।  ‘ क्षि निवासगत्योः' इत्यस्य लटि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Our king, the nourisher of all, abides (in the firmament) nearest to this earthlike a benevolent friend; the valiant (**Maruts**) precede him (when abroad), and dwell in his mansion; great and unequalles is the might of the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And he who suckles all of us [=Agni] dwells peacefully on this earth  here, like a king with established alliances,  
 stationed in front like heroes stationed for protection. – Great is the one  and only lordship of the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first three pādas here are almost identical to I.73.3abc, where Agni is definitely the referent. For disc. of some of the detail, see comm. there.
 
@@ -160,23 +160,23 @@ I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, and on this our earth the All-Sustainer dwells like a King with noble friends about him.  
      In his protection heroes rest in safety. Great is the Cods' supreme and sole dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und diese unsere Erde bewohnt der Allnährende wie ein König, der gute Freunde hat, Wacht haltend wie die in Deckung liegenden Männer. -Groß ist die einzige Asuramacht der Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und er beherrscht allnährend diese Welt uns, gleich einem König, holdgesinnt den Freunden, Wie Helden, die zum Schutz sich vor uns lagern; gross ist allein der Götter Geistesfülle.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всекормящий живет на этой нашей  
 Земле, словно царь, заключивший договор,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ नो अग्ने सुवित꣡स्य विद्वा꣡न्  
 रयिं꣡ सूरि꣡भ्य आ꣡ वहा बृह꣡न्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡विक्षितास आ꣡युषा सुवी꣡राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 येन॑ । व॒यम् । स॒ह॒सा॒ऽव॒न् । मदे॑म । अवि॑ऽक्षितासः । आयु॑षा । सु॒ऽवीराः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
@@ -121,36 +121,36 @@ genre M
 हे **अग्ने** **नः** अस्मदीयस्य **महः** महतः **सुवितस्य** कल्याणस्य कर्मणः **विद्वान्** । अस्मदीयं कल्याणं कर्म जानन्नित्यर्थः । त्वं **सूरिभ्यः** स्तोतृभ्योऽस्मभ्यं **बृहन्तं** महान्तं **रयिं** धनम् **आ** **वह** । रयिमेव विशिनष्टि । हे **सहसावन्** बलवन् अग्ने **येन** धनेन **वयं** स्तोतारः **अविक्षितासः** अविक्षीणाः **आयुषा** पूर्णायुषः **सुवीराः** कल्याणपुत्रपौत्राश्च सन्तः **मदेम** हृष्येम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, who are cognizant of our solemn and auspicious (worship), bring to the worshippers abundantriches, whereby, mighty Agni, we, blessed with uncontracted life, and excellent **male** desendants, may be happy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since you know of the great, easy passage, Agni, convey here to our  patrons lofty wealth,  
 by which, o powerful one, we would rejoice as those undiminished in  lifetime and having abundant good heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knowing our chief felicity, O Agni, bring hither ample riches to our nobles,  
      Wherewith we may enjoy ourselves, O Victor, with undiminished life and hero children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Agni, da du weißt, was großes Wohlergehen ist, bring unseren Gönnern großen Reichtum, an dem auch wir uns unvermindert an Lebensdauer als Meister ergötzen können, du Gewaltiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni du, des hohen Glückes kundig, gewalt'gen Reichthum fahre zu den Fürsten, an dem wir uns, o mächtiger, erfreuen an Kindern reich und unverkürzten Alters.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Знаток великой нашей удачи, о Агни,  
 Привези высокое богатство (нашим) покровителям,  

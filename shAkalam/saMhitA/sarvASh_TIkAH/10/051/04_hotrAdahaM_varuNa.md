@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 होत्रा꣡द् अहं꣡ वरुण बि꣡भ्यद् आयं  
 ने꣡द् एव꣡ मा युन꣡जन्न् अ꣡त्र देवाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 एत꣡म् अ꣡र्थं न꣡ चिकेताह꣡म् अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तस्य॑ । मे॒ । त॒न्वः॑ । ब॒हु॒धा । निऽवि॑ष्टाः । ए॒तम् । अर्थ॑म् । न । चि॒के॒त॒ । अ॒हम् । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hotrād* ← *hotrāt* ← *hotra*
 - \[noun\], ablative, singular, neuter
@@ -148,7 +148,7 @@ popular
 अनया देवा मां ज्ञातवन्त इति निश्चित्य गूहनस्य प्रयोजनमाह । हे **वरुण** देव **अहं** **होत्रात्** होतव्यात् । हविर्वहनादित्यर्थः । तस्मात् **बिभ्यत्** **आयम्** आगतवानस्मि । अतः **मा** माम् **एव** एवं पूर्वप्रकारेण **अत्र** अस्मिन् हविर्वहने **नेत्** **युनजन्** नैव योजयन्तु **देवाः** । **तस्य** तादृशस्य बिभ्यतः **मे** **तन्वो** **बहुधा** **निविष्टाः** अप्सु । **एतमर्थम्** एतद्धविर्वहनकार्यम् **अग्निः** **अहं** न **चिकेत** न बुध्ये नाङ्गीकरोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,29 +159,29 @@ popular
 **Hotrā**: i.e., havirvāhana, who seems here to be a person n
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] I went in fear of the Hotarship, Varuṇa, lest the gods yoke  me to it.  
 My bodies settled down in multiple places. I, Agni, do not attend to this  business.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I fled in fear from sacrificial worship, Varuna, lest the Gods should thus engage me.  
      Thus were my forms laid down in many places. This, as my goal, I Agni saw before me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus Furcht vor dem Hotri-Amt bin ich gegangen, Varuna, damit mich nicht die Götter daran einspannen können. So sind meine Leiber vielfach ins Wasser eingegangen. Ich, Agni, denke nicht mehr an dieses Geschäft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich floh vom Opfer, Varuna, befürchtend, dass wieder mich die Götter daran bänden, Drum barg ich hier und dorthin meine Glieder, ich Agni, hab' nicht mehr solch Werk im Sinne.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Боясь службы хотара, я ушел, о Варуна,  
 Чтобы так не запрягли меня туда боги.  

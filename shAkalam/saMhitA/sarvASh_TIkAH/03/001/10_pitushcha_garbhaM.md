@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पितु꣡श् च ग꣡र्भं जनितु꣡श् च बभ्रे  
 पूर्वी꣡र् ए꣡को अधयत् पी꣡पियानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उभे꣡ अस्मै मनुषि꣡ये नि꣡ पाहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृष्णे॑ । स॒पत्नी॒ इति॑ स॒ऽपत्नी॑ । शुच॑ये । सब॑न्धू॒ इति॑ सऽब॑न्धू । उ॒भे इति॑ । अ॒स्मै॒ । म॒नु॒ष्ये॒३॒॑ इति॑ । नि । पा॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pituś* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
@@ -124,41 +124,41 @@ genre M
 अयमग्निः पितुश्च अन्तरिक्षस्यगर्भं वृष्टिद्वारागर्भभूतं जनितुः सर्वस्यलोकस्यजनयितुश्च ब्रह्म णश्च लोकं बभ्रेबिभर्ति एकएवाग्निः पूर्वीर्बह्वोः पीप्यानाः प्यायमानाः वृद्धिम्प्राप्ताः ओषधीः अधयत धयतिभक्षयति सपत्नी समानएकः सूर्यःपतिर्ययोःते मनुष्ये मनुष्येभ्योहिते उभेद्या- वापृथिव्यौ वृष्णेवर्षित्रे अस्मैशुच्येअग्नये सबन्धूभवतः अनयोः अग्निरेवबन्धुरित्यर्थः हे अग्ने त्वं- तेद्यावापृथिव्यौ निपाहि नितरांरक्ष ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He cherishes the embryo of the parent (firmament), and of the genitive rator (of the world); he alone consumes many flourishing (plural nts); the associated brides (of the Sun, Heaven and Earth), who are kind to man, are both of kin to that pure showerer (of blessings); do you, **Agni**, ever preserve them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Him) who was the embryo of his father and begetter did he himself  carry. Alone, he suckled upon the many swelling females.  
 (Protect) his two kindred cowives for the blazing bull, protect the pair  [=the fire-churning sticks?] belonging to the sons of Manu for him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He nursed the Infant of the Sire and Maker: alone the Babe sucked many a teeming bosom.  
      Guard, for the Bright and Strong, the fellow-spouses friendly to men and bound to him in kinship.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He bore (in his womb) the germ of the sire, of the father who begat him 1. He, being one, sucked many (nurses) rich in milk 2. Observe for this manly, bright one the two wives bound in kinship, belonging to men 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er trug die Leibesfrucht des Vaters und Erzeugers; er als einziger saugte an vielen Milchstrotzenden. Die beiden Verwandten Himmel und Erde sind dem reinen Bullen seine gemeinsamen Frauen. Gib acht auf seine beiden menschlichen Frauen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Vaters und Erzeugers Spross ernährt' er; er sog allein an vieler Mütter Brüsten; Die beiden, die dem lichten Stier verwandt sind und ihm vermählt, die menschenholden, hege.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он вынашивал плод отца и родителя.  
 Один он сосал многих набухших молоком.  

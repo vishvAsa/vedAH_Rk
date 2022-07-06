@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡न् न꣡रो वि꣡ ह्वयन्ते समीके꣡  
 रिरिक्वां꣡सस् तनु꣡वः कृण्वत त्रा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡रस् तोक꣡स्य त꣡नयस्य सातउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 मि॒थः । यत् । त्या॒गम् । उ॒भया॑सः । अग्म॑न् । नरः॑ । तो॒कस्य॑ । तन॑यस्य । सा॒तौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -129,7 +129,7 @@ genre M
 **नरः** नेतारो मनुष्याः **समीके** युद्धे **तमित्** तमेवेन्द्रं **वि** **ह्वयन्ते** विविधमाह्वानं कुर्वते । **तन्वः** स्वकीयानि शरीराणि **रिरिक्वांसः** तपसा रेचयन्तो यजमानास्तमेवेन्द्रं **त्रां** त्रातारं **कृण्वत** कृण्वते कुर्वते । **यत्** यदा **मिथः** परस्परं संगताः **उभयासः** उभये यजमानाः स्तोतारश्च **त्यागं** त्यागकर्तारं दातारमिन्द्रम् **अग्मन्** उपगच्छन्ति तदा **नरः** उभयविधा मनुष्याः **तोकस्य** पुत्रस्य **तनयस्य** पौत्रस्य च **सातौ** लाभे निमित्तभूते सति तमेवेन्द्रं त्रातारं कुर्वन्तीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,34 +140,34 @@ genre M
 Inflicters of austerity: ririkvāṃsas **tanaḥ** = svakīyāni śarīrāṇi tapasā recayanto yajamānāḥ, worshippers emaciating their own bodies by penance
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to him do men separately call at the encounter. Having given up  their bodies, they make him their preserver,  
 when the men of both camps, on opposite sides, have come to abandon  (their bodies) in the winning of offspring and descendants.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most depictions of battle in the RV do not frame the risks of entering into battle quite so starkly. Here both ririkvā́ṃsas tanvàḥ “having given up their bodies” in b and tyāgám … ágman “have come to the abandonment (of their bodies, presumably)” in c seem to refer to a sort of resignation in the face of death and a loss of the sense of self. (Note that this is the only occurrence of tyā́ga- in the RV.) It is esp. telling that they give up their own bodies to gain offspring and a long line of descendants. For the similarity between this passage and the Tānūnaptra ritual, see Proferes (58).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, verily, the men invoke in combat; risking their lives they make him their protector,  
      When heroes, foe to foe, give up their bodies, fighting, each side, for children and their offspring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur ihn rufen die Männer in der Schlacht von beiden Seiten; ihre Leiber hingebend machen sie ihn zu ihrem Hort, wenn die beiderseitigen Männer sich gegenseitig aufopfern, um leiblichen Samen zu gewinnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn rufen an die Männer in dem Kampfe; sie machten Leben wagend ihn zum Schützer, Als Freund und Feind zum Todeskampfe eilten, die Männer, zu beschützen Kind und Enkel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

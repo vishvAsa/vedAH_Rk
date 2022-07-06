@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः सि꣡न्धुम् म꣡धुमन्तम् अ꣡सश्चतं  
 व꣡सिष्ठं या꣡भिर् अजराव् अ꣡जिन्वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । कुत्स॑म् । श्रु॒तर्य॑म् । नर्य॑म् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -121,41 +121,41 @@ genre M;; repeated line
 हे अश्विनौ **सिन्धुं** स्यन्दनशीलां नदीं **मधुमन्तं** मधुसदृशेनोदकेन पूर्णां **याभिः** ऊतिभिः **असश्चतम्** अगमयतं प्रावाहयतमित्यर्थः । हे **अजरौ** जरारहितावश्विनौ **वसिष्ठम्** ऋषिं **याभिः** ऊतिभिः **अजिन्वतम्** अप्रीणयतम् । **याभिः** च कुत्सादीन् त्रीन् ऋषीन् **आवतम्** अरक्षतम् । **ताभिः** सर्वाभिः **ऊतिभिः** अस्मानपि सुष्ठ्वागच्छतम् ॥ मधुमन्तम् । मधुशब्दात् भूम्नि मतुप् । लिङ्गव्यत्ययः । असश्चतम् । सश्चतिर्गतिकर्मा । अस्मात् अन्तर्भावितण्यर्थात् लुङ् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With those aids by which you caused the sweet stream to flow, by which you, who are exempt from decay, gratified **Vāsiṣṭha**, and by which you protected (ṛṣis:) **Kutsa**, **Śrutarya**, and **Narya**; with them, **Aśvins**, come willingly hitheṛ”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you revived the honeyed, inexhaustible river, with  which you revived Vasiṣṭha, you unaging ones,  
 with which you helped Kutsa, Śrutarya, Narya—with those forms of  help come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adjs. mádhumantam ásaścatam might better be tr. proleptically: “you revived the river (so that it was) honied and inexhaustible.” Geldner (/Witzel Gotō) simply supply a verb in pāda a: “(machtet).” Note the phonetic echo in śrutáryaṃ náryam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye quickened the most sweet exhaustless flood, and comforted Vasistha, ye who ne'er decay;  
      And to Srutarya, Kutsa, Narya gave your help,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr den Strom honigreich, unversieglich machtet, mit denen ihr Alterlosen den Vasistha erquicktet, mit denen ihr dem Kutsa, dem Srutarya, dem Narya beistandet - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die den honigsüssen Strom, der nie versiegt, durch die ihr ew'gen den Vasischtha fördertet, Durch die Çrutarja, Kutsa, Narja ihr geschützt, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами вы сделали) реку медовой, неиссякающей,  
 Какими, о двое нестареющих, вы оживили Васиштху,  

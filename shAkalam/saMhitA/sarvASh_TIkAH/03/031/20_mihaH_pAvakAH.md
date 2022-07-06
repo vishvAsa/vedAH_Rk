@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मि꣡हः पवाकाः꣡+ प्र꣡तता अभूवन्  
 सुअस्ति꣡ नः पिपृहि पार꣡म् आसाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मक्षू꣡-मक्षू कृणुहि गोजि꣡तो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । त्वम् । र॒थि॒रः । पा॒हि॒ । नः॒ । रि॒षः । म॒क्षुऽम॑क्षु । कृ॒णु॒हि॒ । गो॒ऽजितः॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mihaḥ* ← *mih*
 - \[noun\], nominative, plural, feminine
@@ -138,20 +138,20 @@ genre M
 “कृणुहि कुरु । वृष्टिप्रदानेन तटाकादिजलाशयान् संपूर्णान् कृत्वा गवादिधनयुक्तान् कुर्विति भावः ॥ अभूवन् ।' भू सत्तायाम्' इत्यस्य लुङि रूपम् । निघातः । पिपृहि । 'पॄ पालनपूरणयोः' । जुहोत्यादिः । ‘अर्तिपिपर्त्योश्च' इत्यभ्यासस्येत्वम् । हेर्ङित्त्वादगुणः । निघातः । रथिरः । मत्वर्थे ‘मेधारथभ्यामिरन्निरचौ ' इतीरच्प्रत्ययः । रिषः । ‘रिष हिंसायाम् ' । क्विप् । 'सावेकाच: ' इति विभक्तेरुदात्तत्वम् । मक्षूमक्षू ।' नित्यवीप्सयोः' इति द्विर्वचनम् । संहितायाम् ऋचि तुनुघमक्षुतङ्' इति दीर्घः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You purifying water have been spread abroad; fill their beds for our welfare; riding on the car, defend us from the malevolent, and make us quickly the conquerors of cattle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The far-extended mists have just become clear; carry us across to the  edge of them, to well-being.  
 O Indra, as charioteer protect us from harm. Quickly, quickly make us  winners of cows.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The mists are probably in part metaphorical -- menacing threats and mental darkness -- but may also refer physically to morning mists, which are clearing as the dawn sacrifice begins. Note also that pāda-initial míhaḥ is a mirror image of máhi, which opens so many pādas in this hymn (see comm. ad 12b).
 
@@ -166,23 +166,23 @@ Note the echo of 19d #s ú vaś ca naḥ in 20b s u vastí naḥ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Far forth are spread the purifying waters convey thou us across them unto safety.  
      Save us, our Charioteer, from harm, O Indra, soon, very soon, make us win spoil of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ausgebreiteten Nebel haben sich jetzt geklärt, bring uns glücklich an ihr Ende! Du, Indra, der Wagenlenker, bewahre uns vor Schaden; mach uns recht bald zu Erbeutern von Rindern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Viele schwüle Nebel waren ausgebreitet, führe uns durch sie hindurch zum Heile, o Indra, du Wagenstreiter, schütze uns vor dem Feinde; bald, recht bald lass uns Rinder erbeuten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Простершиеся туманы стали прозрачными:  
 Благополучно переправь нас на ту сторону их!  

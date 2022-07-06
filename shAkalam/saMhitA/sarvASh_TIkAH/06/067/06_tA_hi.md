@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ हि꣡ क्षत्रं꣡ धार꣡येथे अ꣡नु द्यू꣡न्  
 दृंहे꣡थे सा꣡नुम् उपमा꣡द् इव द्योः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡मिम् आ꣡ अतान् दियां꣡ धासि꣡नायोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दृ॒ळ्हः । नक्ष॑त्रः । उ॒त । वि॒श्वऽदे॑वः । भूमि॑म् । आ । अ॒ता॒न् । द्याम् । धा॒सिना॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
@@ -135,7 +135,7 @@ genre M
 **ता** तौ मित्रावरुणौ युवाम् **अनु** **द्यून्** दिवसे दिवसे **क्षत्रं** बलं **धारयेथे** **हि** । **द्योः** अन्तरिक्षस्य **सानुं** समुच्छ्रितप्रदेशं मेघं सूर्यं वा **दृंहेथे** दृढीकुरुतम् । **उपमादिव** । उपमीयते प्रक्षिप्यते इति उपमात् स्थूणा । सा यथा वत्सं धारयति तद्वदित्यर्थः । **दृळ्हः** युवाभ्यां दृढीकृतश्च मेघः **नक्षत्रः** अन्तरिक्षं व्याप्नुवानः **उत** अपि च विश्वदेवः सूर्यः **भूमिं** **द्यां** दिवं च **आयोः** मनुष्यस्य । द्रुह्यवः आयवः' इति मनुष्यनामसु पाठात् । **धासिना** अन्नेन हविषा । ‘क्षुत् धासिः' इत्यन्ननामसु पाठात्। आप्यायितः सन् **आतान्** आतनोति युवाभ्यां दृढीकृत एव ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,14 +146,14 @@ genre M
 As if with a pillar: upamād iva: upamāt = **sthūṇa**, a **post** or pillar-- the post to which a calf is tied
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you uphold your dominion through the days and you make  firm (heaven’s) back as if from highest heaven,  
 firm (also) is the heavenly body [=sun], and belonging to all the gods  it has stretched to earth and to heaven with the gushing [=rain] of  
 those two [=Mitra and Varuṇa].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. is knit together with phonological and etymological figures. Each pāda contains a form of div/dyu: a dyū́n, b dyoḥ, c -devo, d dyā́m. Note also the phonological similarity of the two du. verbs dhāráyethe (a), dṛṃhéthe (b), with the latter reprised etymologically by dṛḷhó in c. Pādas b and d also rhyme.
 
@@ -164,23 +164,23 @@ Contra Klein (explicitly, DGRV I.379-80) and Geldner/Renou (implicitly), I do no
 With Geldner (and, judging from his tr., Renou), I divide dhāsínāyóḥ into dhāsínā ayóḥ, with the gen.-loc. du. of ayám, not āyóḥ, gen.-abl. sg. of āyú- with the Pp.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, through the days maintaining princely power. ye prop the height as 'twere from loftiest heaven.  
      The Star of all the Gods, established, filleth the heaven and earth with food of man who liveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr behauptet eure Herrschaft Tag für Tag; ihr festigt die Höhe des Himmels gleichsam vom höchsten Himmel aus. Und das gefestete Gestirn, das allen Göttern gehört, hat Erde und Himmel mit dem Labsal beider bezogen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn ihr behauptet fort und fort die Herrschaft, des Himmels Kuppe stützt ihr wie zwei Pfeiler; Der feste Sterngott und der Allgott spannte zum Sitz der Wesen Erde aus und Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь вы удерживаете .власть день за днем.  
 Вы укрепляете поверхность (неба), как будто (спускаясь) с высшего неба.  

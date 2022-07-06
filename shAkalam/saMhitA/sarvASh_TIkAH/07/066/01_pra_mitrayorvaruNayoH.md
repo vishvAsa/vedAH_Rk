@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ मित्र꣡योर् व꣡रुणयो  
 स्तो꣡मो न एतु शूषि꣡यः  
 न꣡मस्वान् तुविजात꣡योः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नम॑स्वान् । तु॒वि॒ऽजा॒तयोः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मित्रयोर्वरुणयोः**। मित्रावरुणयोरित्यर्थः । उभयत्र प्रतियोगापेक्षया द्विवचनत्वम्। **तुविजातयोः** बहुप्रादुर्भावयोर्दैवयोः **नः** अस्मदीयः **शूष्यः** सुखकरः **नमस्वान्** अन्नवान् हविर्भिर्युक्तः **स्तोमः** स्तोत्रं **प्र** **एतु** गच्छतु।  ‘अहोरात्रे वै मित्रावरुणौ ' (तै. सं. २. ४. १०. १) इति श्रुतिः। अनयोरहोरात्रापेक्षत्वात्तयोः पुनःपुनरागमनादनयोस्तुविजातत्वम् । अथवा बहूनामुपकारायानयोः प्रादुर्भावात्तुविजातत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Tuvijātayoḥ, repeatedly born, as presiding over day and night they may be said to bemanifest repeatedly in daily succession
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let our thunderous praise song go forth with our reverence to Mitra  and Varuṇa,  
 the two powerfully born,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LET our strong hymn of praise go forth, the laud of Mitra-Varuna,  
      With homage to that high-born Pair;
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unser aufmunterndes Loblied auf Mitra und Varuna, die Vielartigen, soll hinausgehen, von Verbeugungen begleitet;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es dringe unser kräft'ges Lob zu Varuna und Mitra vor, Voll Ehrfurcht zu den mächtigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть направится к Митре, к Варуне  
 Наше вдохновляющее восхваление,  

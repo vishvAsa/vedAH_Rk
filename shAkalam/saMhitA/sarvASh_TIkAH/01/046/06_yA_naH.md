@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ नः पी꣡परद् अश्विना  
 ज्यो꣡तिष्मती त꣡मस् तिरः꣡  
 ता꣡म् अस्मे꣡ रासथाम्° इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 ताम् । अ॒स्मे इति॑ । रा॒सा॒था॒म् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
@@ -86,7 +86,7 @@ genre M
 हे **अश्विना** **ज्योतिष्मती** रसवीर्यादिरूपज्योतिर्युक्ता **या** इट् अन्नं **नः** अस्मान् **पीपरत्** पारयेत् तृप्तिं प्रापयेत् । किं कृत्वा । **तमः** दारिद्र्यरूपमन्धकारं **तिरः** अन्तर्हितं विनष्टं कृत्वा **ताम्** **इषं** तादृशमन्नम् **अस्मे** अस्मभ्यं **रासाथां** युवां दत्तम् ॥ पीपरत् ।' पॄ पालनपूरणयोः । ण्यन्तात् लुङि चङि णिलोपः । उपधाह्रस्वत्वद्विर्भावहलादिशेषसन्वद्भावेत्वदीर्घाः । बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः।‘चङ्यन्यतरस्याम्' (पा. सू. ६.१. २१८) इति उपोत्तमस्य धात्वकारस्योदात्तत्वे प्राप्ते व्यत्ययेन अभ्यासस्योदात्तत्वम् । यद्वृत्तान्नित्यम्' इति निघातप्रतिषेधः । अस्मे । 'सुपां सुलुक्' इति चतुर्थीबहुवचनस्य शेआदेशः । रासाथाम् । **रा** दाने '। छान्दसे प्रार्थनायां लुङि व्यत्ययेनात्मनेपदम् । च्लेः सिच् । ‘एकाचः' इति इट्प्रतिषेधः । पूर्ववत् अडभावः । ‘तिङ्ङतिङः' इति निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,29 +97,29 @@ genre M
 The text has: tamastiraḥ, 'dispenser of darkness'; darkness signifying poverty: **daridrya** rupandhakāraḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The light-bringing refreshment that will carry us across the darkness,  Aśvins—  
 give that to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe to us, O Asvin Pair, such strength as, with attendant light,  
      May through the darkness carry us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das lichtreiche Labsal, das uns über die Finsternis hinwegbringen soll, das gewähret uns, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O schenket solche Labung uns, o Ritter, welche glanzbegabt, Uns führet durch die Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Та, (несущая свет), что переправит нас,  
 О Ашвины, через мрак, –  

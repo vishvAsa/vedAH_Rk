@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि ष्य꣡ स्वानो꣡° अव्य꣡यं  
 र꣡थे न꣡ व꣡र्म अव्यत  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 हियानो꣡ धा꣡राभिर् अक्षाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इन्दुः॑ । अ॒भि । द्रुणा॑ । हि॒तः । हि॒या॒नः । धारा॑भिः । अ॒क्षा॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -104,7 +104,7 @@ genre M
 **सुवानः** सूयमानः **स्यः** स सोमः **अव्ययम्** अविमयं पवित्रं **परि** पवते । तत्र दृष्टान्तः । **रथे** **न** यथा रथे स्थितः पुरुषः **वर्म** कवचम् **अव्यत** परिव्ययति । व्ययतेर्लुङि वर्णलोपछान्दसः । **अभि** **हितः** अभितः प्रेरितः यद्वा स्तोतृभिरभिष्टुतः सः **इन्दुः** सोमः **द्रुणा** द्रुममयेन द्रोणकलशेन **हियानः** । ‘हि गतौ वृद्धौ च'। तेन पूर्यमाणः सन् **धाराभिः** **अक्षाः** क्षरति । क्षरतेर्लुङि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ To the woollen filter: druṇā = hiyānaḥ (tena pūryamāṇaḥ);
 **Hitaḥ** = sent forth on all sides; or, praised by the worshippers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one, being pressed, has engirded himself in the sheep’s fleece, as a  man on a chariot does in armor.  
 The drop, impelled by the wooden (paddle), has flowed in streams while  being impelled.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the instr. drúṇā and the phrase drúṇā hitá- see comm. ad IX.1.2. One of the problems with the standard interpr. of this phrase, that it refers to the wooden cup into which the Soma is poured, is that it would be out of sequence, since the vs. otherwise describes the early part of Soma’s journey across the ritual ground.
 
@@ -142,23 +142,23 @@ These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Effused, he hath, as on a car, invested him in fleecy mail:  
      Onward hath Indu flowed in streams, impelled, surrounded by the wood.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser hat ausgepreßt sich die Schafwolle umgelegt wie der Krieger auf dem Wagen den Panzer. Von Holz umkleidet ist der Saft, zur Eile getrieben, in Strömen geflossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst, hat wie im Wagen er mit wollnem Panzer sich umhüllt, Entsandt zur Kufe, strömte jetzt in Tropfen Indu eilend hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатый, он накрылся кругом (ситом) из овечьей шерсти,  
 Как (воин) на колеснице щитом.  

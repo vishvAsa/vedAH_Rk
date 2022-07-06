@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ नरः सुअ꣡पसो अभूतन  
 य꣡ इ꣡न्द्राय सुनुथ꣡ सो꣡मम् अद्रयः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡सु-वसु वः पा꣡र्थिवाय सुन्वते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 वा॒मम्ऽवा॑मम् । वः॒ । दि॒व्याय॑ । धाम्ने॑ । वसु॑ऽवसु । वः॒ । पार्थि॑वाय । सु॒न्व॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -127,14 +127,14 @@ genre M
 हे **नरः** नेतारः हे **अद्रयः** **एते** .यूयं **स्वपसोऽभूतन** शोभनाभिषवकर्माणो भवत । **ये** यूयम् **इन्द्राय** **सोमं** **सुनुथ** **वः** यूयं **वामंवामं** यद्यद्वननीयं धनमस्ति तत्तत् **दिव्याय** **धाम्ने** तेजसे कुरुत । तथा **वसुवसु** यद्यद्वासयोग्यं धनमस्ति तत् **वः** यूयं **पार्थिवाय** **सुन्वते** यजमानाय कुरुत ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You stones, leaders (of rites), youu are the doers of good works; you who express the **Soma** for **Indra**,(make) all desirable wealth for the glory of heaven; you (give) all treasures to the earthly effuser.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You superior men, you have become the good workers who press soma  for Indra—you stones.  
 Every thing of value of yours is for the heavenly domain; every good  thing of yours for the earthly presser.  
@@ -143,23 +143,23 @@ ing with a light syllable (regularly ná “like”), followed by two heavy syll
 tution or responsion not otherwise found in Vedic, or most Classical Sanskrit,  meters, a principle that only achieves prominence in the Āryā meter quite pos sibly deriving from Middle Indo-Aryan.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye, present men, have been most skilful in your work, even ye, O Stones who pressed Soma for Indra's drink.  
      May all ye have of fair go to the Heavenly Race, and all your treasure to the earthly worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Herren da, ihr seid fleißig gewesen, die ihr für Indra den Soma auspresset, ihr Steine. Alles Angenehme von euch sei für das himmlische Geschlecht, alles Gute von euch für den irdischen Auspresser!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr habt, o Männer, sehr geschickt euch nun gezeigt, o Steine, die dem Indra ihr den Soma presst; All euer Schönes sei der Himmelsschar geweiht, und all eur Gut dem, der auf Erden Soma presst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О мужи, вы хорошо поработали,  
 Те, что выжимают сому для Индры, о камни,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्ने꣡र् अ꣡प्नसः समि꣡द् अस्तु भद्रा꣡  
 अग्नि꣡र् मही꣡ रो꣡दसी आ꣡ विवेश  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡र् वृत्रा꣡णि दयते पुरू꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । एक॑म् । चो॒द॒य॒त् । स॒मत्ऽसु॑ । अ॒ग्निः । वृ॒त्राणि॑ । द॒य॒ते॒ । पु॒रूणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
@@ -125,36 +125,36 @@ genre M
 **अप्नसः** कर्मवतः **अग्नेः** **समित्** **भद्रा** **अस्तु** । अयम् **अग्निः** **मही** महत्यौ **रोदसी** द्यावापृथिव्यौ **आ** **विवेश** आविष्टवान् स्वतेजसा । तथायम् **अग्निरेकम्** असहायमेव **चोदयत्** चोदयति प्रेरयति **समत्सु** संग्रामेषु । युद्धे स्वभक्तं स्वयं सहायः सन् जयिनं करोतीत्यर्थः । तथा **अग्निर्वृत्राणि** **पुरूणि** बहून् शत्रून् **दयते** हन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the fuel of the efficient **Agni** be auspicious; Agni has penetrated the vast heaven and earth; Agnianimates (the worshipper) alone in battles; Agni destroys numerous enemies.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Agni’s kindling be auspicious and of profit. Agni has entered the two  great world-halves.  
 Agni propels the one in battles; Agni divides up the many obstacles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Blest be the wood that feeds the active Agni: within the two great worlds hath Agni entered.  
      Agni impels a single man to battle, and with him rends in pieces many a foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Agni soll das Brennholz des Verdienstes zu Gute kommen; Agni ist in beide Welten eingezogen. Agni ermutigt den Alleinstehenden in den Kämpfen; Agni macht die vielen Feinde klein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Heilbringend sei des thät'gen Agni Flamme, Agni drang ein in beide weiten Welten; Den einen feuert Agni an in Schlachten, die vielen Feinde sprengt er auseinander.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Агни, для (его) состояния пусть будут благодатны (наши) дрова!  
 Агни вошел в обе великие половины вселенной.  

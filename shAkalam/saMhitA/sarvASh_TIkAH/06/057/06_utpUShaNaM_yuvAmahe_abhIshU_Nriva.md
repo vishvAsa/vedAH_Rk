@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡त् पूष꣡णं युवामहे  
 अभी꣡शूँर् इव सा꣡रथिः  
 मह्या꣡ इ꣡न्द्रं सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒ह्यै । इन्द्र॑म् । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ut* ← *ud*
 - \[adverb\]
@@ -77,36 +77,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूषणं** पोषकं देवम् **इन्द्रं** च **मह्यै** महत्यै **स्वस्तये** रक्षार्थम् **उत्** **युवामहे** उद्योजयामः । उद्योजनमाकर्षणम् । तत्र दृष्टान्तः । **सारथिः** सूतः **अभीशूनिव**। अभीशून् रश्मीन् अश्वबन्धनार्थान् यथाकर्षति तद्वत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We draw to us, for our great welfare, **Pūṣan** and **Indra**, as a charioteer (pulls tight) his reins.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We ease up on Pūṣan—like a charioteer the reins—  
 and Indra, for great well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As one who drives a car draws in his reins, may we draw Pusan near,  
      And Indra, for our great success.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir lassen wie ein Wagenlenker dem Pusan die Zügel schießen und dem Indra zu großem Glück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Puschan ziehn wir fest an uns, wie Zügel, wer den Wagen lenkt, Und Indra uns zu grossem Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы отпускаем Пушана  
 Как возница – вожжи,  

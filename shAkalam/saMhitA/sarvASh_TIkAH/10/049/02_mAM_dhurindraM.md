@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मां᳐꣡ धुर् इ꣡न्दरं+ ना꣡म देव꣡ता  
 दिव꣡श् च ग्म꣡श् च अपां᳐꣡ च जन्त꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अहं꣡ व꣡ज्रं श꣡वसे धृष्णु꣡ आ꣡ ददे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । हरी॒ इति॑ । वृष॑णा । विऽव्र॑ता । र॒घू इति॑ । अ॒हम् । वज्र॑म् । शव॑से । धृ॒ष्णु । आ । द॒दे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
@@ -139,36 +139,36 @@ genre M
 **इन्द्रं** **नाम** इन्द्रनामानं **मां** **देवता** देवानां मध्ये **दिवः** द्युलोकस्य । ग्मा पृथिव्यापोऽन्तरिक्षम् । एतेषु लोकेषु **जन्तवः** जाताः **मा** मामेव **धुः** दधुः धारयन्ति हविर्भिः स्तुतिभिश्च । **अहं** यज्ञगमनाय संग्रामगमनाय वा **हरी** हरितवर्णौ **वृषणा** पुंस्त्वोपेतौ **विव्रता** विविधकर्माणौ **रघू** लघू शीघ्रगती अश्वौ नियोजयामि रथे । तथा **अहं** **धृष्णु** धर्षकं **वज्रम्** आयुधं **शवसे** बलाय **आ** **ददे** स्वीकरोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those born in heaven, in earth, and in the firmament, support me, whose name is **Indra** among thedeities (by their offerings). I (harness to my car) two bay steeds vigorous, many-functioned, rapid; I wield for mystrength the fearful thunderbolt.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Upon me they conferred the name Indra among the gods—the creatures  of heaven and earth and of the waters.  
 I (took as my own) the two quick fallow bays, the bulls, who follow a  separate commandment; boldly I took the mace for power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The People of the heavens, the waters, and the earth have stablished me among the Gods with Indra's name.  
      I took unto myself the two swift vigorous Bays that speed on divers paths, and the fierce bolt for strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mich setzten sie unter dem Namen Indra zum Gott ein, die Geschöpfe des Himmels und der Erde und des Wassers. Ich lenke das bullenstarke Falbenpaar, die beiden widerspenstigen Renner; ich ergreife mutig die Keule zur Krafttat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Indra-Wesen haben göttlich stets verehrt des Himmels Stämme und der Erde und des Meers, Den Blitz ergriff mit Kühnheit ich zu meiner Kraft, die schnellen goldnen Hengste, die forteilenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Меня причислили к богам под именем Индры  
 Дети неба и земли, и вод.  

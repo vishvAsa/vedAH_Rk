@@ -6,13 +6,13 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुअध्वरा꣡ करति जात꣡वेदा  
 य꣡क्षद् देवाँ꣡ अमृ꣡तान् पिप्र꣡यच् च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M
 सु॒ऽअ॒ध्व॒रा । क॒र॒ति॒ । जा॒तऽवे॑दाः । यक्ष॑त् । दे॒वान् । अ॒मृता॑न् । पि॒प्रय॑त् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svadhvarā* ← *su*
 - \[adverb\]
@@ -80,34 +80,34 @@ genre M
 **जातवेदाः** जातधनोऽग्निः **अमृतान्** मरणरहितान् **देवान्** **स्वध्वरा** स्वध्वरान् शोभनयज्ञान् **करति** करोतु **यक्षत्** हविषा यजतु च । **पिप्रयत्** स्तोत्रैः प्रीणयतु च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Jātavedas** render the immortal gods, plural ased by the sacrifice; let him sacrifice (to them), andgratify them (with praise).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Jātavedas will make the rites good. He will sacrifice to the gods, and he  will please the immortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let Jatavedas pay fair sacrifices, worship andgratify the Gods Immortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jatavedas möge den Gottesdienst gut versehen; er verehre die unsterblichen Götter und stelle sie zufrieden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erwünschte Feier wirk der Wesenkenner, die ew'gen Götter ehr er und erfreu sie.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть создаст прекрасные обряды Джатаведас,  
 Пусть почтит он богов бессмертных и обрадует!

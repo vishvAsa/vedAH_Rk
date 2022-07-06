@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्रिये꣡ जातः꣡ श्रिय꣡ आ꣡ नि꣡र् इयाय  
 श्रि꣡यं व꣡यो जरितृ꣡भ्यो दधाति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भ꣡वन्ति सत्या꣡ समिथा꣡ मित꣡द्रौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्रिय॑म् । वसा॑नाः । अ॒मृ॒त॒ऽत्वम् । आ॒य॒न् । भव॑न्ति । स॒त्या । स॒म्ऽइ॒था । मि॒तऽद्रौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
@@ -131,20 +131,20 @@ genre M
 स सोमः **श्रिये** **जातः** संपदर्थं प्रादुर्भूतो भवति । तदेवाह । **श्रिये** श्र्यर्थमेव **आ** **निरियाय** । अंशुभ्य आभिमुख्येन निर्गच्छति । निर्गतश्च स सोमः **जरितृभ्यः** स्तोतृभ्यः **श्रियं** **वयः** अन्नं जीवनं वा **दधाति** विदधाति प्रयच्छति । तेन दत्तां **श्रियं** **वसानाः** आच्छादयन्तः स्तोतारः **अमृतत्वं** देवत्वममरणं वा **आयन** प्राप्नुवन् । तस्मिन् **मितद्रौ** मितगमने सोमे **समिथा** । युद्धनामैतत् सम्यक् प्राप्यतेऽत्रेति । ‘ समीणः ' ( उ. सू. २. ११ ) इत्येतेः संपूर्वस्य थक्प्रत्ययः । तानि युद्धानि **सत्या** सत्यानि यथार्थानि **भवन्ति** न तु वितथानि । तेन सोमेन पराजितानि भवन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He (is) genitive rated for prosperity, for prosperity he issues forth, he gives prosperity (and) sustenance to those who praise him; clothing themselves in (his) prosperity, they obtain immortality; their conflicts are successful through the aid of (the **Soma**) who moves with measured tread.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Born for splendor, he has come forth from splendor; he establishes  splendor and vitality for the singers.  
 Clothed in splendor, they have gone to immortality. Their encounters  come to pass beside the one of measured pace [=Agni].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In pāda a the Pp reads śriyé for the Saṃhitā śriyá ā́. Geldner concurs, but Renou tr.
 
@@ -161,23 +161,23 @@ begins with the fact that of the 5 occurences of the stem mitádru- the two othe
 The encounters in question I take to be the encounter of the soma streams/drops (etc.) with the gods who are to consume them - or possibly the encounters with the water and milk mixtures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For glory born be hath come forth to glory: he giveth life and glory to the singers.  
      They, clothed in glory, have become immortal. He, measured in his course, makes frays successful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zur Herrlichkeit geboren ist er zur Herrlichkeit hervorgekommen; den Sängern verleiht er Herrlichkeit und Kraft. Mit Herrlichkeit sich umkleidend gingen sie in die Unsterblichkeit ein. Die Kämpfe um ihn, der einen festen Schritt hat, erfüllen ihren Zweck.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Glanz geboren ging hervor zum Glanz er und Glanz und Jugend schenket er den Sängern; In Glanz gekleidet wurden sie unsterblich, zum Heile ist des schnellen Stroms Begegnung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рожденный для блеска, он вышел из блеска,  
 Он дает воспевателем блеск и силу жизни.  

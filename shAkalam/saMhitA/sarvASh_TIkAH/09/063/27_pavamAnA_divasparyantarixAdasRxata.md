@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमाना दिव꣡स् प꣡रि  
 अन्त꣡रिक्षाद् असृक्षत  
 पृथिव्या꣡ अ꣡धि सा꣡नवि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पृ॒थि॒व्याः । अधि॑ । सान॑वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
@@ -72,7 +72,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **पवमानाः** सोमाः **दिवः** द्युलोकात् **अन्तरिक्षात्** च **पृथिव्याः** भूम्याः **अधि** **सानवि** समुच्छ्रिते देशे देवयजने **परि** **असृक्षत** सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -83,12 +83,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 The summit of the ground: i.e., the raised plural ce, the plural ce of divine sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The self-purifying ones have surged from the heaven, from the midspace onto the back of the earth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -97,23 +97,23 @@ This tṛca shows clear signs of unity, indeed of a monotonous sort. Like the pr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From, heaven, from out the firmament, hath Pavamana been effused  
      Upon the summit of the earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich läuternden Säfte haben sich vom Himmel, aus der Luft ergossen auf die Erhöhung der Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ergossen sind vom Himmel her und aus der Luft die flammenden Nun auf der Erde Fläche hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

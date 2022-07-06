@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡र्षा सोम द्युम꣡त्तमो  
 अभि꣡ द्रो꣡णानि रो꣡रुवत्  
 सी꣡दञ् छ्येनो꣡ न꣡ यो꣡निम् आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 सीद॑न् । श्ये॒नः । न । योनि॑म् । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arṣā* ← *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **सोम** अभिषूयमाण पवमान **द्युमत्तमः** अतिशयेन दीप्तिमांस्त्वं **द्रोणानि** । प्रयोगबाहुल्यापेक्षमेतद्बहुवचनम् । द्रोणान् **अभि** लक्षीकृत्य **रोरुवत्** पुनःपुनर्भृशं वा शब्दं कुर्वन् **अर्ष** तानागच्छ। दशापवित्रमध्यान्निर्गतः सोमोऽविच्छिन्नधारया द्रोणकलशे पतन् शब्दं करोति खलु। तत्र दृष्टान्तः । **श्येनो** **न** यथा **आ** **सीदन्** सर्वतो गच्छन् श्येनः शंसनीयगतिः पक्षी **योनिं** स्वस्थानं कुलायं प्रति भृशं शब्दायमानः सन्नागच्छति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hasten, **Soma**, who are most radiant, with a roar to the wooden vessels; as a hawk flying to its nest.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rush, o Soma, most brilliant, to the wooden vessels, constantly  bellowing,  
 sitting like a falcon in your womb.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details open><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma, flow on exceeding bright with loud roar to the wooden vats,  
      Falcon-like resting in thine home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rinne, o Soma, glanzvollst, brüllend auf die Holzgefäße zu und setze dich auf deinen Platz wie ein Falke ins Nest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Soma, ström' in hellstem Glanz laut rauschend auf die Kufen hin, Und setz dich wie ein Aar aufs Nest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

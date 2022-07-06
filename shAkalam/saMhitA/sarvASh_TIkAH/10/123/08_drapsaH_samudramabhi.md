@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द्रप्सः꣡ समुद्र꣡म् अभि꣡ य꣡ज् जि꣡गाति  
 प꣡श्यन् गृ꣡ध्रस्य च꣡क्षसा वि꣡धर्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तृती꣡ये चक्रे र꣡जसि प्रिया꣡णि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भा॒नुः । शु॒क्रेण॑ । शो॒चिषा॑ । च॒का॒नः । तृ॒तीये॑ । च॒क्रे॒ । रज॑सि । प्रि॒याणि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 **विधर्मन्** विधर्मणि विधारकेऽन्तरिक्षे स्थितः **द्रप्सः** द्रवणशीलः । यद्वा । द्रप्सा उदकबिन्दवः । तद्वान् ॥ अर्शआदित्वादच् । **गृध्रस्य** गृधो रसानभिकाङ्क्षतः सूर्यस्य **चक्षसा** तेजसा **पश्यन्** प्रकाशमानो वेनः **यत्** यदा **समुद्रं** समुन्दनशीलं मेघम् **अभि** **जिगाति** अभिगच्छति तदानीं **भानुः** सूर्यः **शुक्रेण** शुभ्रेण **शोचिषा** तेजसा **तृतीये** **रजसि** लोके **चकानः** दीप्यमानः **प्रियाणि** सर्वेषामभीष्टान्युदकानि **चक्रे** करोति ॥ ॥८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Hawk: gṛdhrasya = the sun desiring the fluid
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the (soma-)drop goes to the sea, seeing with the eye of a vulture in  the spreading expanse,  
 the (sun’s) radiance with its bright blaze, finding pleasure (in it [=drop]),  has created its own dear (names) in the third realm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When as a spark he cometh near the ocean, still looking with a vulture's eye to heaven,  
      His lustre, joying in its own bright splendour, maketh dear glories in the lowest region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn der Tropfen zum Meere kommt, mit des Geiers Auge in ganzer Ausdehnung ausschauend, da hat die Sonne, mit ihrer hellen Glut begehrt, im dritten Raume ihre lieben Namen angenommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er als Funke zu dem Meere hingeht, am Himmel blickend mit des Geiers Auge, Dann zeugt sein Strahl, des hellen Lichts sich freuend, am dritten Himmel liebliche Gestalten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда капля устремилась к океану,  
 Взглядом коршуна озирая (всю) ширь вокруг,  

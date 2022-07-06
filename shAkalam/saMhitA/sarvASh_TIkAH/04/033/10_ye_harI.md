@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ ह꣡री मेध꣡या उक्था꣡ म꣡दन्त  
 इ꣡न्द्राय चक्रुः꣡ सुयु꣡जा ये꣡ अ꣡श्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धत्त꣡ र्भवः क्षेमय꣡न्तो न꣡ मित्र꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ते । रा॒यः । पोष॑म् । द्रवि॑णानि । अ॒स्मे इति॑ । ध॒त्त । ऋ॒भ॒वः॒ । क्षे॒म॒ऽयन्तः॑ । न । मि॒त्रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -136,36 +136,36 @@ genre M
 **ये** ऋभवः **हरी** अश्वौ **मेधया** प्रज्ञया **उक्था** उक्थैः स्तुतिभिः **मदन्तः** हर्षयन्तः **चक्रुः** । **ये** च तौ **सुयुजा** सुयुजौ सुयोजनावश्वौ **इन्द्राय** इन्द्रार्थं चक्रुः अकुर्वन् । हे **ऋभवः** **ते** यूयं **रायस्पोषं** धनपुष्टिं **द्रविणानि** गवादिधनानि च सुखानि वा **अस्मे** अस्मासु **धत्त** धारयत । किमिव । **क्षेमयन्तः** क्षेममिच्छन्तः **मित्रं** **न** मित्रमिव । अत्र यद्यप्येक एव ऋभुनामा तत्संबन्धात् इतरेऽप्यृभव उच्यन्ते प्राणभृन्न्यायेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May those **Ṛbhus** who gratified the horses (of **Indra**) by pious praise, who constructed for Indra his two docile steeds, bestow upon us satiety of riches, and wealth (of cattle), like those who devise prosperity for a friend.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They who by their wisdom, finding exhilaration in the hymns, made the  two fallow bays for Indra, they who made his easily hitched horses— you!—establish for us possessions and the prospering of wealth.  
 Establish an alliance (with us), R̥bhus, like those dwelling in peace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They whol made glad with sacrifice and praises, wrought the two Bays, his docile Steeds, for Indra,-  
      Rbhus, as those who wish a friend to prosper, bestow upon us gear and growth of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die, Loblieder jubelnd, mit Erfindungsgabe die Falben für Indra machten, die beiden leichtgeschirrten Rosse, gewähret ihr uns Zunahme des Reichtums, Güter; schließt Freundschaft so wie die, die Frieden wünschen, ihr Ribhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die kunstvoll ihr dem Indra schuft die Rosse, die leichtgeschirrten, lichten, Sprüche sprudelnd, O Ribhu's, gebt uns Gutes Mehrung, Schätze, uns holde Ruh gewährend wie dem Freunde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) кто, (исполняя) гимны (и) опьяняясь (сомой), с помощью провидческого дара  
 Создал для Индры пару буланых коней, которых легко запрягать,  

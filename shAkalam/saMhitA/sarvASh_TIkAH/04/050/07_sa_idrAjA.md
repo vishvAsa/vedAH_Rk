@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡द् रा꣡जा प्र꣡तिजन्यानि वि꣡श्वा  
 शु꣡ष्मेण तस्थाव् अभि꣡ वीरि꣡येण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वल्गूय꣡ति व꣡न्दते पूर्वभा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 बृह॒स्पति॑म् । यः । सुऽभृ॑तम् । बि॒भर्ति॑ । व॒ल्गु॒ऽयति॑ । वन्द॑ते । पू॒र्व॒ऽभाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -115,21 +115,21 @@ genre M
 इदमाद्यृक्त्रयं पुरोहितप्रशंसा इति ब्राह्मणम् ( ऐ. ब्रा. ८. २६ )। अथवा सूक्तस्य ऋग्द्वयवर्जितस्य बार्हस्पत्यत्वात् बृहस्पतेरेव स्तुतिः । **स** **इत्** स एव **राजा** मूर्धाभिषिक्तः अन्यः वा राजमानः **प्रतिजन्यानि** । जन्यं युद्धं प्रति बलानीत्यर्थः । प्रत्यर्थिजनपदानि वा तानि **विश्वा** सर्वाणि **शुष्मेण** बलेन **वीर्येण** शरीरसामर्थ्येन वा **अभि** अभिगम्याक्रम्य तस्थौ तिष्ठति । स इत्युक्तं क इत्याह । **यः** **बृहस्पतिं** बृहतां महतां पालयितारं देवमुक्तलक्षणं पुरोहितं वा **सुभृतं** सुष्ठु हविःस्तोत्रादिनान्नाच्छादनादिना वा **बिभर्ति** भरति **वल्गूयति** स्तौति । **वन्दते** नमस्करोति च **पूर्वभाजम्** इतरेभ्यः प्रथमं संभक्तारं कृत्वा । एवं यः करोति स एव तस्थाविति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That prince overcomes by his strength and prowess, all hostile people, who cherishes liberally **Bṛhaspati**, and glorifies and honours him as the first sharer (of the offering).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Only that king surmounts all the (forces) belonging to his opponents  through his tempestuousness and heroism  
 who supports Br̥haspati (to be) well-supported, behaves agreeably  to him, and extols him as the one receiving the first  
 portion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the etymological figure in c: súbhṛtam bibhárti.
 
@@ -148,28 +148,28 @@ The figure in vs. 6 is Bṛhaspati; filling the same slot in vs. 7 is the brahm�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surely that King by power and might heroic hath made him lord of all his foes' posses-ions,  
      Who cherishes Brhaspati well-tended, adorns and worships him as foremost sharer.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 That king indeed by his heroic prowess And energy defeats all hostile forces, Who keeps Bṛhaspati well nourished, Honours and lauds him as the first partaker.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der König besteht alle feindlichen Völker mit Mut und Tapferkeit, der den Brihaspati hoch in Ehren hält, artig behandelt, lobt und ihm den Vorrang läßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nur der König hat stets alle seine Gegner durch Muth und Heldenstärke besiegt, der den Brihaspati [hier den Repräsentanten der Brahmanen], den wohlgehegten, hegt, artig behandelt, und ehrt als den, dem der Vorrang gebührt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Только тот царь подавляет все  
 Враждебные (происки) мужеством (и) геройством,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मॄळ꣡याति+ चक्रु꣡षे चिद् आ꣡गो  
 वयं꣡ सियाम व꣡रुणे अ꣡नागाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अनु॑ । व्र॒तानि॑ । अदि॑तेः । ऋ॒धन्तः॑ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M;; repeated line
 **आगः** अपराधं **चक्रुषे** **चित्** कृतवतेऽपि स्तोत्रे **यः** वरुणः **मृळयाति** उपदयां करोति तस्मिन् **वरुणे** **अनागाः** अनागसोऽनपराधाः सन्तः **वयं** **स्याम** वर्तमाना भवेम । किं कुर्वन्तः । **अदितेः** अदीनस्य वरुणस्य संबन्धीनि **व्रतानि** कर्माणि **अनु** आनुपूर्व्येण **ऋधन्तः** समर्धयन्तः । हे वरुणादयो देवा यूयमस्मान् सर्वदा कल्याणैः पालयत ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M;; repeated line
 Of the sonof Aditi: aditer = adīnasya, of the mighty (Varuṇa) or, akhaṇḍanīya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we be without offense within Varuṇa, who will have mercy even on  him who has committed an offense,  
 as we obediently fulfill the commandments of Aditi. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Before this Varuna may we be sinless him who shows mercy even to the sinner-  
      While we are keeping Aditi's ordinances. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wollen vor Varuna, der auch dem Sünder verzeihen möge, sündlos erscheinen, die Gebote der Aditi recht befolgend.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O wären wir vor Varuna doch schuldlos, vor ihm, der auch des Sünders sich erbarmet, Und recht erfüllend Aditi's Gebote. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соблюдая заветы Адити,  
 Да будем мы безгрешны перед Варуной,  

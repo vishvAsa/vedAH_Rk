@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡श् चित् ते अमृ꣡ता जातवेदो  
 महिमा꣡नं वाध्रिअश्व प्र꣡ वोचन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ नृ꣡भिर् अजयस् त्वा꣡वृधेभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । स॒म्ऽपृच्छ॑म् । मानु॑षीः । विशः॑ । आय॑न् । त्वम् । नृऽभिः॑ । अ॒ज॒यः॒ । त्वाऽवृ॑धेभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devāś* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
@@ -115,36 +115,36 @@ genre M
 हे **जातवेदः** हे **वाध्र्यश्व** अग्ने **ते** तव **महिमानम्** **अमृताः** देवाश्चित् देवा अपि **प्र** **वोचन्** प्रब्रुवन्ति । **यत्** यदा **मानुषीः** मनुष्यसंबन्धिन्यः **विशः** प्रजाः **संपृच्छं** देवैः सह को वा असुरान् हन्तीत्येवमादिकं संप्रश्नम् **आयन** प्राप्तवन्तः तदा **त्वं** **नृभिः** सर्वस्य नेतृभिः **त्वावृधेभिः** त्वया वर्धितैर्देवैः सह कर्मविघ्नकारिणस्तान **अजयः** जितवानसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The immortal gods have proclaimed your greatness. **Jātavedas**, Vadhryaśva (**Agni**); when humanbeings, came to inquire (who would slay the **asuras**), then you with (the gods), the leaders of all, fostered by youdid overcome (those who impeded the ceremony).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the immortal gods proclaimed your greatness, o Jātavedas, son of  Vadhryaśva.  
 When the clans of the sons of Manu came to negotiate, you conquered  by means of the men whose strength is you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even Immortal Gods, O Jatavedas, Vadhryasva's Kinsman, have declared thy grandeur.  
      When human tribes drew near with supplication thou conqueredst with men whom thou hadst strengthened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst die unsterblichen Götter verkünden deine Größe, o Jatavedas, Kind des Vadhryasva. Als die menschlichen Clane kamen, um bei dir sich Rat zu holen, da siegtest du mit den durch dich stark gewordenen Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die ew'gen Götter selbst, o Wesenkenner, o Vādhriaçva, rühmten deine Grösse; Als bittend dir der Menschen Stämme nahten, da siegtest du durch Männer, die du stärktest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

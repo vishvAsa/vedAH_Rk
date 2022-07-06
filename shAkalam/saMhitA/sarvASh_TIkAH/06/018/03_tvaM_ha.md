@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह नु꣡ त्य꣡द् अदमायो द꣡स्यूँर्  
 ए꣡कः कृष्टी꣡र् अवनोर् आ꣡रियाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ स्विद् अस्ति त꣡द् ऋतुथा꣡ वि꣡ वोचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अस्ति॑ । स्वि॒त् । नु । वी॒र्य॑म् । तत् । ते॒ । इ॒न्द्र॒ । न । स्वि॑त् । अ॒स्ति॒ । तत् । ऋ॒तु॒ऽथा । वि । वो॒चः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -150,7 +150,7 @@ genre M
 हे इन्द्र **त्यत्** स्यः स **त्वम्** । त्यदिति तच्छब्दपर्यायः । अत्र लिङ्गव्यत्ययः । **दस्यून्** कर्महीनान् जनान् **नु** क्षिप्रम् **अदमयः** दान्तानकरोः । हशब्दः पूरणार्थः । अपि च **एक:** मुख्यस्त्वं **कृष्टीः** पुत्रदासादीन् **आर्याय** कर्मकृते जनाय **अवनोः** अददाः । एवं स्तुवन्नप्यृषिरिन्द्रं यदा नाद्राक्षीत् तदा तस्य वीर्यसद्भावे विचिकित्समानः परार्धर्चमाह । हे **इन्द्र** **ते** तव यत् पूर्वमुक्तं **तत्** **वीर्यं** सामर्थ्यं **स्विन्नु** **अस्ति** । किं स्विद्भवति । स्विन्नु इति विचिकित्सायाम् । यद्वा **नास्ति** **स्वित्** । **तत्** बलम् **ऋतुथा** काले काले **वि** **वोचः** विशेषेण ब्रूहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -161,34 +161,34 @@ genre M
 Not beholding Indra, the ṛṣi began to question his attributes and power; next verse explains his belief in these attributes and power
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It was just you who tamed the Dasyus, and who alone vanquished (their)  communities for the Ārya.  
 Does that heroic power now exist for you, Indra, or does it not? You will  announce that at the proper season.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sequence 2ND SG. PRN ha tyád (here ha nú tyád) is fairly common and appears to be strongly emphatic, hence my tr. “it was just you” (etc.). In several hymns (I.63.4-7, VIII.96.16-18) this construction is found in series. I take the fronted ásti followed by svid to be a strong existential “does it exist?” rather than simply the possessive constr. that Geldner sees: “Hast du … diese Manneskrafte …?”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, thou alone, hast tamed the Dasyus; singly thou hast subdued the people for the Arya.  
      In this, or is it not, thine hero exploit, Indra? Declare it at the proper season.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du machtest da die Dasyu´s zahm, du allein gewannst für den Arier die Länder. Hast du denn noch diese Manneskraft, o Indra, oder hast du sie nicht? Das mögest du genau erklären.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du warst es, der da überwand die Fremden, allein die Stämme unterwarf dem Arjer, Ist wirklich dies dein Heldenwerk, o Indra? ist's nicht dein Werk? das künde nach der Wahrheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты же только что приручил дасью,  
 Один покорил племена для ария.  

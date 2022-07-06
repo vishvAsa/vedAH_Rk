@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने यं꣡ यज्ञ꣡म् अध्वरं꣡  
 विश्व꣡तः परिभू꣡र् अ꣡सि  
 स꣡ इ꣡द् देवे꣡षु गछति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । इत् । दे॒वेषु॑ । ग॒च्छ॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -92,7 +92,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **यं** **यज्ञं** **विश्वतः** सर्वासुदिक्षु **परिभूः** परितः प्राप्तवान् **असि** **सः** **इत्** स एव यज्ञो **देवेषु** तृप्तिं प्रणेतुं स्वर्गे **गच्छति** । प्राच्यादिचतुर्दिगन्तेषु आहवनीयमार्जालीयगार्हपत्याग्नीध्रीयस्थानेषु अग्निरस्ति । परिशब्देन होत्रीयादिधिष्ण्यव्याप्तिर्विवक्षिता । कीदृशं यज्ञम् । **अध्वरं** हिंसारहितम् । न ह्यग्निना सर्वतः पालितं यज्ञं राक्षसादयो हिंसितुं प्रभवन्ति ॥ अग्निशब्दस्य पाष्ठिकम् ( पा. सू. ६, १. १९८) आमन्त्रिताद्युदात्तत्वम् । न विद्यते ध्वरोऽस्येति बहुव्रीहौ ‘नञ्सुभ्याम् ' ( पा. सू. ६. २. १७२ ) इत्यन्तोदात्ततम् । विश्वतः इत्यत्र तसिलः प्रत्ययस्वरत्वं बाधित्वा पूर्ववर्णस्य ‘लिति' ( पा. सू. ६. १. १९३ ) इत्युदात्तत्वम् । परिभूरित्यत्र अव्ययपूर्वपदप्रकृतिस्वरत्वे प्राप्ते ( पा. सू. ६. २. २) तदपवादत्वेन कृदुत्तरपदप्रकृतिस्वरत्वम् ( पा. सू. ६. २. १३९) । असि इति तिङन्तस्य ‘ यद्वृतान्नित्यम्' ( पा. सू. ८. १. ६६ ) इति निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,39 +103,39 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Adhvaram yajñm, free from injury or interruption; 'on every side': fires at a sacrifice are lighted at four cardinal points: **āhavanīya**, mājālīya, **gārhapatya** and agnīdhrīya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Agni, the sacrifice and rite that you surround on every side—  
 it alone goes among the gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the perfect sacrifice which thou encompassest about  
    Verily goeth to the Gods.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Agni, whatever sacrifice and worship 1 thou encompassest on every side, that indeed goes to the gods.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The worship and the sacrifice, Guarded by thee on every side, Go straight, O Agni, to the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Nur die Anbetung und das Opfer, das du ganz zusammenhältst, gelangt zu den Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Opfer, Agni, welches Fest von allen Seiten du umfängst, Nur das geht zu den Göttern hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, жертва (и) обряд,  
 Которые ты охватываешь со всех сторон,  

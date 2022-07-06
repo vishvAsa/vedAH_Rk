@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अन्त꣡रिक्षे प꣡तथः पुरुभुजा  
 य꣡द् वेमे꣡ रो꣡दसी अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अ꣡त आ꣡ यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 यत् । वा॒ । स्व॒धाभिः॑ । अ॒धि॒ऽतिष्ठ॑थः । रथ॑म् । अतः॑ । आ । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M;; repeated line
 हे पुरुभुजा बहूनां पालयितारौ बहुलहविषो भोक्तारौ वा **यत्** यदि **अन्तरिक्षे** **पतथः** गच्छथः । **यद्वा** यदि वा **इमे** **रोदसी** द्यावापृथिव्यौ अनुलक्ष्य गच्छथः । **यद्वा** यदि वा **स्वधाभिः** आत्मीयैस्तेजोभिर्बलैर्वा सार्धं **रथम्** **अधितिष्ठथः** रथे उपविशथः। ‘अधिशीङ्स्थासाम्' इत्याधारस्य कर्मसंज्ञा । **अतः** सर्वस्मात् स्थानात् हे अश्विनौ **आ** **यातम्** आगच्छतम् ॥ ॥३४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Protectors of many, whether you traverse the firmament, or pass along earth and heaven, whether youascend your chariot with (all) your splendours, come from there, **Aśvins**, here.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If you are flying in the midspace or if along these two world-halves, o  you who provide many benefits,  
 or if, after your wont, you are standing upon your chariot, from there  drive here, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lords of great riches, whether through the firmament ye fly or speed through heaven and earth,  
      Or with your Godlike natures stand upon your cars, come thence, O Asvins, hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr im Luftraum flieget, ihr Vielnützende, oder wenn ihr beide Welten entlang fahret, oder wenn ihr nach Belieben den Wagen besteiget, so kommet von da, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob in der Luft ihr flieget, vielgeniessende, ob rings um Erd' und Himmel auch, Ob ihr zu eigner Lustfahrt auf den Wagen steigt, so kommt von dort, o Ritter her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если вы летаете по воздуху, о несущие много радости,  
 Или если (едете) по этим двум половинам вселенной,  

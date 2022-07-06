@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रे꣡न्द्रस्य वोचम् प्रथमा꣡ कृता꣡नि  
 प्र꣡ नू꣡तना मघ꣡वा या꣡ चका꣡र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थाभवत् के꣡वलः सो꣡मो अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 य॒दा । इत् । अदे॑वीः । अस॑हिष्ट । मा॒याः । अथ॑ । अ॒भ॒व॒त् । केव॑लः । सोमः॑ । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prendrasya* ← *pra*
 - \[adverb\]
@@ -145,7 +145,7 @@ genre M
 **इन्द्रस्य** **कृतानि** वीर्यकर्माणि **प्रथमा** प्रथमानि पुरातनानि **प्र** **वोचं** प्रब्रवीमि । **मघवा** धनवानिन्द्रः **या** यानि **चकार** कृतवान् **नूतना** नूतनान्यभिनवानि च तानि **प्र** वोचम् । **यदेत्** यदैव **अदेवीः** आसुरीः **मायाः** तैः कृतानि **असहिष्ट** अभ्यभूत् **अथ** अनन्तरमेव **अस्य** इन्द्रस्य **सोमः** **केवलः** असाधारणः **अभवत्** । तदाप्रभृत्येव सोमस्येन्द्रस्य चासाधारणः संबन्धो जात इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,14 +156,14 @@ genre M
 I.e. the relation between theSoma and Indra thenceforth became uncommon or special, peculiar; **tadā** prabhṛtyeva somasya indrasya caasādhāraṇas sambandho **jātaḥ**; though, soms is often presented to **Agni** and other deities
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I proclaim the first deeds of Indra, proclaim the present ones that he has  performed.  
 When he overcame the godless magic powers, then soma became  
 his alone.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich préndrasya vocam prathamā́kṛtā́ni, prá nū́tanā maghávā yā́cakā́ra is a variant on the famous opening of I.32: I.32.1ab índrasya nú vīryā̀ṇi prá vocam, yā́ni cakā́ra prathamā́ni vajrī́. The two contain almost all of the same elements (prá vocam, índrasya, prathamā́(ni), yā́(ni) cakā́ra, nú / nū́tanā), with variation only with vīryā́ni ≅ kṛtā́ni and different epithets of Indra, maghávā / vajrī́.
 
@@ -172,23 +172,23 @@ Nonetheless the distribution of elements between clauses and the word order in e
 Renou comments on VII.99-102 in ÉVP XV: 99-100 pp. 39-43, 101-2 pp. 113-14.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will declare the earliest deeds of Indra, and recent acts which Maghavan hath accomplished.  
      When he had conquered godless wiles and magic, Soma became his own entire possession.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will die frühesten Taten des Indra verkünden und die neuesten, die der Gabenreiche vollbracht hat. Sobald er die gottlosen Blendwerke bemeistert hatte, da gehört der Soma ihm ausschließlich.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Indra erste Thaten will ich künden, die neuen auch, die mächtig er vollbrachte; Als der Dämonen Listen er besiegte, da ward der Soma ihm allein zu eigen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу провозгласить прежние деяния Индры  
 (И) нынешние, которые совершил щедрый.  

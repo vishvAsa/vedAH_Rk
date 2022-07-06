@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सव्या꣡म् अ꣡नु स्फिगि꣡यं वावसे वृ꣡षा  
 न꣡ दानो꣡ अस्य रोषति  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 तू꣡यम् ए꣡हि द्र꣡वा पि꣡ब
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 मध्वा॑ । सम्ऽपृ॑क्ताः । सा॒र॒घेण॑ । धे॒नवः॑ । तूय॑म् । आ । इ॒हि॒ । द्रव॑ । पिब॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *savyām* ← *savya*
 - \[noun\], accusative, singular, feminine
@@ -107,7 +107,7 @@ genre M
 **वृषा** कामानां वर्षितेन्द्रः **सव्यां** दक्षिणेतरां **स्फिग्यं** कटिप्रदेशम् **अनु** । तृतीयार्थेऽनोः कर्मप्रवचनीयत्वम्। सव्यया स्फिग्या शरीरैकदेशेनैव **ववसे** वस्ते । सर्वभूतजातमाच्छादयति । स्वयं कृत्स्नं जगदतीत्य वर्तत इत्यर्थः । निगमान्तरं च भवति – 'यदन्यया स्फिग्या क्षामवस्थाः ' (ऋ. सं. ३. ३२. ११) इति । अपि च **दानः** अवखण्डयिता। 'दान अवखण्डने '। पचाद्यच् । स च **अस्य** इममिन्द्रं **न** **रोषति** न हिनस्ति । ‘रिष रुष हिंसायाम् । इन्द्रं हिंसितुं शक्तः कश्चिदपि नास्तीत्यर्थः । यद्वा । दानो हविषां दाता यजमानश्चास्येन्द्रस्य न रोषति रोषं न जनयति । सर्वदा हविर्भिः परिचरतीत्यर्थः । उत्तरोऽर्धर्चः प्रत्यक्षकृतः । **सारघेण** । सरघा मधुमक्षिका । तत्संबन्धिना **मध्वा** मधुना । लुप्तोपममेतत् । मधुनेव रसवता क्षीरादिना श्रयणद्रव्येण **संपृक्ताः** संसृष्टाः संस्कृताः **धेनवः** धेनुवत् प्रीतिजनका अस्मदीयाः सोमाः । यद्वा । धिवेः प्रीणनार्थाद्धेनवः । प्रीणयितार इत्यर्थः । अथवा । 'धेट् पाने'। 'धेट इच्च ' इत्यौणादिको नुप्रत्ययः । तसंनियोगेन इकारान्तादेशश्च । पातव्याः सोमा इत्यर्थः । यत एवमतः कारणात् हे इन्द्र **तूयं** क्षिप्रम् **एहि** अस्मत्समीपमागच्छ। आगत्य च **द्रव** । सोमा यस्मिन्नुत्तरवेदिलक्षणे स्थाने हूयन्ते तं देशं शीघ्रं गच्छ। द्रु गतौ ' इति धातुः । ‘ द्व्यचोऽतस्तिङः' इति सांहितिको दीर्घः। तदनन्तरमध्वर्युणा दत्तं सोमं **पिब** । तेन सोमेन सम्यक् स्वोदरं पूरयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,7 +118,7 @@ genre M
 No tearer of itangers him: na dāno **asya** roṣati, dāno avakhaṇḍayitā (do avakhaṇḍane); dhenuvat prītijanakāhsomāḥ; i.e. Soma mixed with milk sweet as honey; with his left hip: sphigi = **kati**; or, flames?
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The bull wears (it [=the earth]) on his left hip. His giving is not  
 resentful.  
@@ -126,30 +126,30 @@ The milk-cows are infused with the honey of the bees. Come here
 swiftly! Run! Drink!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a contains one of the two occurrences of sphigī́- ‘hip’ in the RV (and in fact anywhere). The other is in III.32.11 in a thematically similar passage, yád anyáyā sphigyā̀kṣā́m ávasthāḥ “… when you wore the earth on the other hip.” (See comm. there.) It is difficult not to assume that the same situation is being depicted in this passage, and I therefore supply ‘earth’ here as well, esp. since a tr. without an object makes little sense (e.g., Geldner’s “Der Bulle deckte seine linke Seite,” without further interpretation). In III.32.11 the image serves to give a comparison by which to measure Indra’s vast size (the preceding pāda says “Heaven did not come close to your greatness then”). Despite the truncated expression in our passage, I think the same comparative impulse applies: Indra is so big that the whole earth fits on one of his hips.
 
 Pāda b is then thematically contrastive, though in a very indirect way. Even though he is so vast and, by implication, too important to concern himself with the likes of us, he gives freely and without feeling peevish towards the petty recipients of his largesse. This sets the stage for our invitation to him in cd, describing the soma mixed with milk (or rather, the reverse in this case: the milk mixed with the honey[ed soma]) and then urging him to come.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On his left hip the Hero hath reclined himself: the proffered feast offends him not.  
      The milk is blended with the honey of the bee: quickly come hither, baste, and drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Bulle deckte seine linke Seite. Die Schenkung verdrießt ihn nicht. Mit Bienensüß ist die Kuhmilch durchtränkt: Komm schnell her, lauf, trink!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An seiner linken Hüfte ist der Held bewehrt, und nicht verschmähet er den Schmaus; Mit süssem Honig sind die Molken wohl vermischt, komm eilend, laufe her und trink.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бык прикрыл себе левое бедро.  
 Дарение его не раздражает.  

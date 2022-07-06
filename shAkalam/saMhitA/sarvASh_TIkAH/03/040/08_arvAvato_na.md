@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अर्वाव꣡तो न आ꣡ गहि  
 पराव꣡तश् च वृत्रहन्  
 इमा꣡ जुषस्व नो गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इ॒माः । जु॒ष॒स्व॒ । नः॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *arvāvato* ← *arvāvataḥ* ← *arvāvat*
 - \[noun\], ablative, singular, feminine
@@ -87,20 +87,20 @@ genre M
 हे **वृत्रहन्** इन्द्र **अर्वावतः** अर्वाचीनात् समीपाद्देशात् **परावतः** अतिदूराद्देशात् वा **नः** अस्मानभिलक्ष्य **आ** **गहि** आगच्छ । आगत्य च **नः** अस्मदीयाः **इमाः** स्तुतिलक्षणाः **गिरः** वाचः **जुषस्व** सेवस्व ॥ परावतः ।' उपसर्गाच्छन्दसि धात्वर्थे ' इति वतिः । प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Slayer of **Vṛtra**, whether from nigh or from afar, come to us, accept these our praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From nearby come here to us, and from afar, Vr̥tra-smasher.  
 Enjoy these songs of ours.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the only vs. in the hymn without a form of índra- (7 of the 8 of those forms being vocatives, the lone exception índram in 7b). Here voc. vṛtrahan is substituted.
 
@@ -112,23 +112,23 @@ On the “magic square” of these vss., see published introduction. Vs. 9 actua
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From far away, from near at hand, O Vrtra-slayer, come to us:  
      Accept the songs we sing to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm zu uns aus der Nähe und aus der Ferne, du Vritratöter! Erfreue dich an diesen Lobensworten von uns!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm aus der Nähe her zu uns und aus der Ferne, Vritrafeind; Nimm diese unsre Lieder an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Изблизи к нам приходи  
 И издалека, о убийца Вритры!  

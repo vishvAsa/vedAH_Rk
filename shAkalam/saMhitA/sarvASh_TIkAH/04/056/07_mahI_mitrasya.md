@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मही꣡ मित्र꣡स्य साधथस्  
 त꣡रन्ती पि꣡प्रती ऋत꣡म्  
 प꣡रि यज्ञं꣡ नि꣡ षेदथुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 परि॑ । य॒ज्ञम् । नि । से॒द॒थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahī* ← *mah*
 - \[noun\], nominative, dual, neuter
@@ -80,36 +80,36 @@ genre M
 **मही** महत्यौ द्यावापृथिव्यौ **मित्रस्य** मित्रभूतस्य स्तोतुरभिमतं **साधथः** । **ऋतम्** अन्नं **तरन्ती** तारयन्त्यौ **पिप्रती** पूरयन्त्यौ **यज्ञं** **परि** परितः **नि** **षेदथुः** आश्रयथः ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Mighty (Heaven and Earth), you fulfil the desires of your friend; distributing food and giving sustenance you have sat down at the sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two great ones assure it success, as you further and fulfill the truth  of Mitra.  
 You have stationed yourself around the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Furthering and fulfilling, ye, O Mighty, perfect Mitra's Law.  
      Ye sit around our sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die Großen führet ihr das Gesetz des Mitra aus, indem ihr es weiter bringt und fördert. Ihr habe euch rings um das Opfer gesetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr grossen, die ihr helfend schützt, ihr führt zum Ziel des Mitra Werk; Ums Opfer liesst ihr nieder euch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двое великих, вы направляете закон  
 Митры, преодолевая (препятствия), исполняя (его).  

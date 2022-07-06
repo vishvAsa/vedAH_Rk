@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡रे वृषभा सुते꣡  
 अ꣡सिन्वन् भू꣡रि आवयः  
 श्वघ्नी꣡व निव꣡ता च꣡रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 श्व॒घ्नीऽइ॑व । नि॒ऽवता॑ । चर॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evāre* ← *eva*
 - \[adverb\]
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृषभ** कामानां वर्षकेन्द्र **एवारे** । एवारो नाम कश्चित् । तस्मिन् **सुते** अभिषुते सोमे सति **भूरि** बहूनि धनानि **असिन्वन्** न बध्नन् **श्वघ्नी** । श्वघ्नी कितवः । तथा च यास्कः - ’श्वघ्नी कितवो भवति स्वं हन्ति---' (निरु. ५, २२ )॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,13 +96,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Asinvan = na badhnan; RV. 7.39.6: apratibadhnān, not hindering the desires of mortals
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Maruts to Indra:] “Hey bull. So—when (the soma) was pressed, being  insatiable you consumed a lot,  
 sashaying around the lower depths like a guy with ‘the dog-killer’ [=the  winning throw at dice].”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I consider this verse the Maruts’ insulted response to Indra’s insults, couched in a very slangy register. The first sign of this speech level is the voc. are (to arí- ‘stranger’), a vocative not otherwise found in the RV, but remember the Pāli and Pkt. “interjections” are, ale, clearly derived from this voc. (Thieme, Fremdl. 3-4), as well as the famous shibboleth he ‘lavo of ŚB III.2.1.23, consisting of an l-form of the plural voc. of this word in MIA guise (see EWA, KEWA s.v.). Its use as a shibboleth and with an l-form suggests popular speech.
 
@@ -119,23 +119,23 @@ For my interpretation of this bit of dialogue, see the published introduction.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero, insatiate enjoy this Soma juice so near to thee,  
      Even as a hunter rushing down.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wahrlich, du Bulle, du hast zum Soma viel verzehrt ohne zu kauen, wie ein Falschspieler unterschlagend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beim Soma, nimmersatter Stier, der recht dir ist, verschlangst du viel, Dem Spieler gleich, als her du kamst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что до приготовленного выжатого (сока), о бык,  
 Ты много поглощал, не насыщаясь,  

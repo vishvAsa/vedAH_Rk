@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡व स्वे꣡दा इवाभि꣡तो  
 वि꣡ष्वक् पतन्तु दिद्य꣡वः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 भद्रा꣡ ज꣡नित्र्य् अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -36,7 +36,7 @@ genre M;; repeated line
 दूर्वा॑याःऽइव । तन्त॑वः । वि । अ॒स्मत् । ए॒तु॒ । दुः॒ऽम॒तिः । दे॒वी । जनि॑त्री । अ॒जी॒ज॒न॒त् । भ॒द्रा । जनि॑त्री । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ava*
 - \[adverb\]
@@ -131,37 +131,37 @@ genre M;; repeated line
 **स्वेदाइव** गात्रात् स्वेदबिन्दव इव **अभितः** सर्वतः दिद्यवः द्योतमानान्यायुधानीन्द्रस्य दीप्तयो वा **विष्वक्** नानामुखाः **अव** **पतन्तु** निपतन्तु । **दूर्वायाइव** **तन्तवः** । यथा दूर्वाकाण्डा बहुशः प्ररोहन्ति एवं बहुशो विस्तृता दृश्यन्ते। **दुर्मतिः** दुष्टाभिसंधिः शत्रुः अस्मत् अस्मत्तः **वि** **एतु** वियुत्य गच्छतु । गतमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let your radiant (weapons) fall down everywhere round about like drops of person iration; let the enemydepart from us like the stems of the **dūrva** grass; the divine progenitress has given you birth, the auspiciousprogrenitress has given you birth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like beads of sweat let the missiles fly down, scattered all around  
 like blades of dūrvā grass. Let malevolence go away from us.  
 – The goddess Begetter begat (you), the auspicious Begetter begat (you).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Around, on every side like drops of sweat let lightning-flashes fall.  
      Let all malevolence pass away from us like threads of Darva grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Schweißtropfen sollen ringsum die Geschosse nach allen Seiten fallen. Wie die Fäden des Durvagrases soll von uns das Übelwollen abgehen. - Die göttliche Erzeugerin hat dich erzeugt, die segensreiche Erzeugerin hat dich erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Rings möge fliegen dein Geschoss wie Tropfen Schweisses hier und dort, Wie Fäden von dem Hirsengras; so weiche von uns Feindessinn; Die Göttin Mutter zeugte dich, die holde Mutter zeugte dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как капли пота кругом,  
 Во все стороны пусть падают стрелы!  

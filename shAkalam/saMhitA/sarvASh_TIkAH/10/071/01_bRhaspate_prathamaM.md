@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृ꣡हस्पते प्रथमं꣡ वाचो꣡ अ꣡ग्रं  
 य꣡त् प्रइ꣡रत नामधे꣡यं द꣡धानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रेणा꣡ त꣡द् एषां नि꣡हितं गु꣡हाविः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । ए॒षा॒म् । श्रेष्ठ॑म् । यत् । अ॒रि॒प्रम् । आसी॑त् । प्रे॒णा । तत् । ए॒षा॒म् । निऽहि॑तम् । गुहा॑ । आ॒विः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
@@ -131,7 +131,7 @@ popular
 बृहस्पतिरनेन सूक्तेन विदितवेदार्थान् बालान् दृष्ट्वा स्मयमानः स्वात्मानं संबोध्याह । हे **बृहस्पते** अन्तरात्मन् **प्रथमम्** उत्पत्त्यनन्तरमितरवागुच्चारणात्प्रागेव **नामधेयं** नाम **दधानाः** पदार्थेषु निदधाना बालाः **यत्** **प्रैरत** प्रेरितवन्तः तत् **वाचोऽयं** भवति । यत्तत तातेत्यादिकं वाक्यं पूर्वमभिधाय पश्चादन्या वाचो वदिष्यन्ति खलु तस्माद्वाचोऽग्रम् । अस्यां दशायामवस्थितान् बालान् पश्य । तथेदानीम् **एषां** **श्रेष्ठं** प्रशस्यतमं **यत्** यच्च **अरिप्रं** पापरहितं वेदार्थज्ञानम् **आसीत्** **एषां** तज्ज्ञानं **गुहा** गुहायां **निहितं** गोप्यं **तत्** **प्रेणा** । मकालोपश्छान्दसः। प्रेम्णाविर्भवति । वेदाभ्यासकाले सरस्वती स्वार्थमेभ्यः प्रकाशयतीत्यर्थः । एवं विस्मये  बृहस्पते प्रथमं वाचो अग्रम् । (ऐ. आ. १. ३. ६ ) इत्यादिकमारण्यकमनुसंधेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ popular
 Deity **Jñāna**: The knowledge of **Brahman** is identical with the study of the **Veda**, essentialto divine knowledge; Those...first utter: this refers to children's first utterances; Bṛhaspati says this to himselfwith a smile, having noticed that children know the meaning of the Veda: **Aitareya** **Brāhmaṇa** 1.14; Best ofthose words: tat = that knowledge of the Veda
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Br̥haspati, (this was) the first beginning of Speech: when they [=the  seers] came forth, giving names.  
 What was their best, what was flawless—that (name), set down in secret,  was revealed to them because of your affection (for them).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHEN-men, Brhaspati, giving names to objects, sent out Vak's first and earliest utterances,  
      All that was excellent and spotless, treasured within them, was disclosed through their affection.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When seers, Bṛhaspati, in early ages, Assigning names, of speech the first sounds uttered, Then was revealed their best unsoiled possession That hidden in their hearts with love they cherished.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Brihaspati! Das war erst der Rede erster Anfang, als sie damit hervortraten, die Namengebung zu vollziehen. Das Beste und Reine, was sie hatten, das kam im Inneren verschlossen durch ihre Freundschaft zum Vorschein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Brihaspati! als einst die Namengeber des Wortes ersten Anfang vorwärts brachten, Da that sich kund, was fleckenlos als Kleinod in ihrem Herzen liebend sie geborgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Брихаспати, первое начало Речи (возникло),  
 Когда они пришли в действие, давая имена (вещам).  

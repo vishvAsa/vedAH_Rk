@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न वं꣡साम पृ꣡तनासु श꣡र्धतस्  
 त꣡रन्तो अर्य꣡ आदि꣡शः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 जि꣡न्वा धि꣡यो वसुवि꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । त्वम् । नः॒ । व॒र्ध॒ । प्रय॑सा । श॒ची॒व॒सो॒ इति॑ शचीऽवसो । जिन्व॑ । धियः॑ । व॒सु॒ऽविदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -115,41 +115,41 @@ genre M
 **येन** धनेन **पृतनासु** संग्रामेषु **शर्धतः** वेगं कुर्वतः **अर्यः** अरीञ्छत्रून् **आदिशः** आदेष्टॄञ्छस्त्रप्रक्षेप्तॄन् **तरन्तः** **वंसाम** हिंसाम तद्धनं देहि । हे **शचीवसो** प्रज्ञया वासयितः कर्मधन वा **सः** प्रसिद्धः **त्वं** **नः** अस्मान् **वर्ध** वर्धय प्रीणय। **प्रयसा** अन्नेन त्वं वा वर्ध। अस्मदीयेन प्रयसा हविषा **वसुविदः** वसूनां लम्भकानि **धियः** कर्माण्यस्मदीयानि **जिन्व** प्रीणय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “By which we may escape and destroy in battles our impetuous weapon- aiming enemies; O you who bywisdom establish our rites, bless us with food, prosper our wealth-obtaining offerings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Wealth) with which we will vanquish in battles those who vaunt  themselves, as we overcome the aims of the stranger.  
 Strengthen us because of our pleasing offering, o you who have the  goods of skill. Quicken our insights so they find goods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner and Renou take vardha as intransitive/reflexive “wachse du,” “renforce toi,” but active forms of várdha- are about as reliably transitive as Vedic verbs get.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith we may o'ercome our rivals in the war, o'erpowering the foe's designs.  
      So wax thou by our food, O Excellent in strength. Quicken our thoughts that find out wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den wir in den Kämpfen die sich Überhebenden überwinden, die Bedrohungen des Nebenbuhlers durchkreuzend. Wachse du durch unsere Labung, Kraftreicher, wecke fromme Gedanken, die das Gute finden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch den die stolzen in den Kämpfen wir zerstreun, durchkreuzend unsrer Feinde Plan; So stärke du uns, kräftiger, durch deine Huld, lass Gut erlangen das Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Богатство,) благодаря которому мы сможем победить в боях тех, кто кичится силой,  
 Пресекая замысла врага!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मि꣡न् समुद्रे꣡ अ꣡धि उ꣡त्तरस्मिन्न्  
 आ꣡पो देवे꣡भिर् नि꣡वृता अतिष्ठन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡पिना प्रे꣡षिता मृक्षि꣡णीषु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताः । अ॒द्र॒व॒न् । आ॒र्ष्टि॒षे॒णेन॑ । सृ॒ष्टाः । दे॒वऽआ॑पिना । प्रऽइ॑षिताः । मृ॒क्षिणी॑षु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
@@ -111,36 +111,36 @@ popular
 **अस्मिन्** पार्थिवे **समुद्रे** पूरणीये सति । **अधि** इति सप्तम्यर्थानुवादी । **उत्तरस्मिन्** समुद्रे अन्तरिक्षाख्ये **आपः** उदकानि **देवेभिः** द्योतमानैः **निवृताः** निरुद्धाः **अतिष्ठन्** । **ताः** आपः **आर्ष्टिषेणेन** ऋष्टिषेणस्य पुत्रेण **देवापिना** **सृष्टाः** **प्रेषिताः** प्रकर्षेणेच्छां प्राप्ताः काङ्क्षिताः **मृक्षिणीषु** मृष्टवतीषु परिमृष्टासु स्थलीषु **अद्रवन्** स्रवन्ति ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In this upper ocean the waters stood dammed up by the gods; set free by **Devāpi**, the son ofṚṣṭiṣeṇa, they were sent forth over the plural ins.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this higher sea the waters stood still, confined by the gods.  
 They ran, sent gushing by the son of R̥ṣṭisena, impelled by Devāpi in  currycomb tracks [=rivulets].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Gathered together in that highest ocean, the waters stood by deities obstructed.  
      They burried down set free by Arstisena, in gaping clefts, urged onward by Devapi.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In diesem oberen Meere standen die Wasser von den Göttern zurückgehalten. Sie flossen ab, von dem Risitisenasohne laufen gelassen, von Devapi auf die geborstenen Fluren entsandt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In jenem höchsten Himmelsmeere standen die Wasser noch von Göttern eingeschlossen; Die strömten nun ergossen durch Devapi, des Rischtischena Sohn, auf dürre Felder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В этом верхнем море  
 Стояли воды, запруженные богами.  

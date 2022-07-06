@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ दिवो꣡ बृहतः꣡ सा꣡नु कोपयो  
 अ꣡व त्म꣡ना धृषता꣡ श꣡म्बरम् भिनत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 छितां꣡ ग꣡भस्तिम् अश꣡निम् पृतन्य꣡सि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । मा॒यिनः॑ । व्र॒न्दिनः॑ । म॒न्दिना॑ । धृ॒षत् । शि॒ताम् । गभ॑स्तिम् । अ॒शनि॑म् । पृ॒त॒न्यसि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -120,37 +120,37 @@ genre M
 हे इन्द्र **त्वं** **बृहतः** महतः **दिवः** द्युलोकस्य **सानु** समुच्छ्रितमुपरिप्रदेशं **कोपयः** अकम्पयः । **धृषता** शत्रूणां धर्षयित्रा **त्मना** आत्मना स्वयमेव **शम्बरम्** एतत्संज्ञमसुरम् **अवाभिनत्** अवधीः । **यत्** यदा **व्रन्दिनः** शत्रून् जेतुं मृदुभावं प्राप्तान् । यद्वा । वृन्दं समूहः असुरसमूहवतः । **मायिनः** मायाविनोऽसुरान् **मन्दिना** हृष्टेन **धृषत्** **धृषता** प्रागल्भ्यं प्राप्नुवता मनसा युक्तस्त्वं **शितां** तीक्ष्णीकृतां **गभस्तिं** हस्तेन गृहीताम् । यद्वा । गभस्तिः इति रश्मिनाम् । तद्वतीम् **अशनिं** वज्रं **पृतन्यसि** तानसुरान् जेतुं पृतनारूपेणेच्छसि । तान्प्रति प्रेरयसीत्यर्थः । तदानीं बृहतो दिवः सानु कोपयः इति पूर्वेणान्वयः ॥ कोपयः । कुप कोपे। ण्यन्तात् लङि  ‘ बहुलं छन्दस्यमाङयोगेऽपि इति अडभावः । त्मना । मन्त्रेष्वाङ्यादेरात्मनः ' इति आकारलोपः । धृषत् । **सुपां** सुलुक् ' इति तृतीयाया लुक् । शिताम् ।  ‘ शो तनूकरणे'। निष्ठायां ‘शाच्छोरन्यतरस्याम् ' (पा. सू. ७. ४. ४१ ) इति इकारादेशः । पृतन्यसि । पृतनाशब्दात् ‘सुप आत्मनः क्यच् ' ।  ‘ कव्यध्वरपृतनस्य ' इति अन्तलोपः। प्रत्ययस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have shaken the summit of the spacious heaven; you have slain **Śambara** by your resolute self; you have hurled with exulting and determined mind the sharp and bright-rayed thunderbolt against assembled **Asuras**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You shook the back of the lofty heaven; by yourself, in your daring, you  cut down Śambara,  
 as, daringly, by reason of the exhilarating (soma), you battle the  
 sharpened stone, the fist, of the wily one grown weak,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The ridges of the lofty heaven thou madest shake; thou, daring, of thyself smotest through Sambara,  
      When bold with gladdening juice, thou warredst with thy bolt, sharp and two-edged, against the banded sorcerers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du erschütterst des hohen Himmels Wölbung, du hiebst eigenhändig mit kühnem Sinn der Sambara herab, indem du gegen die Hand des erliegenden Zauberers, die scharf wie der Stein, kühn durch den berauschenden Soma, kämpfest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des hohen Himmels Gipfel hast erschüttert du, mit kühnem Sinn den Çambara herabgestürzt, Wenn durch den Lusttrank kühn die schlaffen Zaubrer du mit scharfem zwiegezacktem Donnerkeil bekämpfst.[58]
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты потряс вершину высокого неба.  
 Ты сам храбро разрубил Шамбару,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡न् नूनं꣡ धीभि꣡र् अश्विना  
 पितु꣡र् यो꣡ना निषी꣡दथः  
 य꣡द् वा सुम्ने꣡भिर् उक्थिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 यत् । वा॒ । सु॒म्नेभिः॑ । उ॒क्थ्या॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yan* ← *yat*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M
 हे अश्विनौ **पितुः** पालयितुर्द्युलोकस्य संबन्धिनि **योना** योनौ स्थाने **यत्** यदि **धीभिः** कर्मभिः सह **निषीदथः** निवसथः । **यद्वा** यदि वा हे **उक्थ्या** उक्थ्यौ प्रशस्यौ **सुम्नेभिः** सुम्नैः सुखैः सह निवसथः । तदास्माभिः स्तुतौ सन्तावागच्छतमिति शेषः । अथवा । पितुः पालयितुर्यजमानस्य संबन्धिनि योनौ यज्ञगृहे धीभिः स्तुतिभिः सार्धं यदि निवसथः यदि च सुम्नैः सुखकरैर्हविर्भिश्च सह निवसथः तर्ह्यागच्छतम् । **नूनम्** इति पदपूरणः । उक्तं च यास्केन- अथापि पदपूरणः । नूनं सा ते प्रति वरं जरित्रे' ( निरु. १. ७) इति ॥ ॥ ३३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ genre M
 Paternal: pituḥ = dyulokasya, or yajamānasya; "ifyou abide with your praises in the sacrificial hall of the worshipper, or with the plural asure- conferring (oblations),then come here"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now when by reason of our insights you sit down at the womb of the  father, o Aśvins,  
 or when by reason of your favors, you praiseworthy ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When Asvins, worthy of our lauds, ye seat you in the father's house.  
      With wisdom or the bliss ye bring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ihr Asvin jetzt von den Dichtungen des Vatsa gerufen an seines Vaters Sitz euch niederlasset, oder mit Wohlwollen uns erscheinet, ihr Preiswürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn ihr, o Ritter, euch nun mit Bedacht in dem Schoosse [bei dem Opfer?] des Vaters niedersetzt, oder mit Hulderweisungen, o preisenswerthe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда теперь, о Ашвины, в ответ на молитвы  
 Вы усаживаетесь на место отца,  

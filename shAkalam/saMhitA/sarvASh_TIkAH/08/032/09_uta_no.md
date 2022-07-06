@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो गो꣡मतस् कृधि  
 हि꣡रण्यवतो अश्वि꣡नः  
 इ꣡ळाभिः सं꣡ रभेमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इळा॑भिः । सम् । र॒भे॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -82,36 +82,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च हे इन्द्र **नः** अस्मान् **गोमतः** गोमिनः **कृधि** कुरु। **अश्विनः** अश्वयुक्तान् कृधि । **हिरण्यवतः** धनवतश्च कृधि । **इळाभिः** अन्नैश्च **सं** **रभेमहि** वयं संरब्धा भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Make us (**Indra**) possessed of cattle, of gold, and of horses; may we prosper with abundant viands.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And make us possessed of cows, of gold, of horses.  
 Might we be clasped by refreshments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make thou us rich in herds of kine, in steeds, in gold: let us exert  
      Our strength in sacrificial gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und mach uns zu Besitzern von Rindern, Gold und Rossen! Wir möchten am Überfluß teilhaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O mache uns an Rossen reich, an Rindern und an Goldbesitz, Uns werde Labetrunk zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также сделай нас обладателями  
 Коров,золота, коней!  

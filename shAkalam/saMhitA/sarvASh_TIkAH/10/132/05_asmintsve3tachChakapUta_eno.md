@@ -6,7 +6,7 @@ ChandaH = "विराड्रूपा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मि꣡न् सु꣡ एत꣡च् छ꣡कपूत ए꣡नो  
 हिते꣡ मित्रे꣡ नि꣡गतान् हन्ति वीरा꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "विराड्रूपा"
 अ꣡वः प्रिया꣡सु यज्ञि꣡यासु अ꣡र्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अ॒वोः । वा॒ । यत् । धात् । त॒नूषु॑ । अवः॑ । प्रि॒यासु॑ । य॒ज्ञिया॑सु । अर्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
@@ -122,36 +122,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 प्रसादेन तदीयेषु शत्रुषु स्वकार्यं दुःखं जनयतीत्यर्थः । निगतान् । निपूर्वाद्गमेः कर्मणि निष्ठा । ' गतिरनन्तरः ' इति गतेः प्रकृतिस्वरत्वम् । कदेत्यत आह । **अवोः** हविर्भिस्तर्पयितुः । अवतेरौणादिक उप्रत्ययः । तस्य यजमानस्य **यज्ञियासु** यज्ञार्हासु क्रियासु **तनूषु** शरीरेषु **अर्वा** अभिगन्ता मित्रो वरुणो वा **यत्** यदा **अवः** रक्षणं **धात्** दधाति निदधाति स्थापयति । यद्वा । यदा अर्वा अभिगन्ता स ऋषिः अवितुः रक्षितुर्मित्रस्य वरुणस्य वा यागार्हासु प्रियासु तनूषु शरीरेषु अवो हविर्लक्षणमन्नं धात् धारयति । तदानीं मित्रे वरुणे चानुकूले सति तदेनो वीरान् हन्तीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This iniquity (found) in this Śakapūta, when **Mitra** is propitious, destroys opposing heroes, when thei.e., Mitra or **Varuṇa**; avaḥ = food; when the approaching Mitra (or Varuṇa) gives protection to the sacrificial ritesand bodies of the worshipper who delights him with oblations\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 But on this (man), on “shit-purified” Śakapūta, is this transgression: even  though a (peace) alliance was concluded, he keeps smiting the heroes  who have gone down.  
 When the charger [=Agni?] has placed the help of *you two in his own  dear bodies worthy of the sacrifice—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 अ॒स्मिन्त्स्वे॒३॒॑तच्छक॑पूत॒ एनो॑ हि॒ते मि॒त्रे निग॑तान्हन्ति वी॒रान् ।  
 अ॒वोर्वा॒ यद्धात्त॒नूष्ववः॑ प्रि॒यासु॑ य॒ज्ञिया॒स्वर्वा॑ ॥
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf diesen Sakaputa fällt fein die Schuld: Er tötet die Männer, die nach geschlossener Freundschaft die Schuld begangen haben, oder wenn der Renner in seinen lieben opferwürdigen Formen die Gnade der beiden Gnädigen erwirkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei diesem Çakapūta ist ja diese Sünde: Er tödtet die Männer, die zu dem lieben Freunde ihre Zuflucht genommen hatten, während der schnelle [Opferer?] euren lieben verehrungswerthen Leitern Genuss dargebracht hat.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подобный грех (обрушился) на этого Шакапуту:  
 Он убивает мужей, устроивших привал, после того как был заключен мир,  

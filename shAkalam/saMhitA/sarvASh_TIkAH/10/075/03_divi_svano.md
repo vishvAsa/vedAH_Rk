@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवि꣡ स्वनो꣡ यतते भू꣡मियोप꣡रि  
 अनन्तं꣡ शु꣡ष्मम् उ꣡द् इयर्ति भानु꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सि꣡न्धुर् य꣡द् ए꣡ति वृषभो꣡ न꣡ रो꣡रुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒भ्रात्ऽइ॑व । प्र । स्त॒न॒य॒न्ति॒ । वृ॒ष्टयः॑ । सिन्धुः॑ । यत् । एति॑ । वृ॒ष॒भः । न । रोरु॑वत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divi* ← *div*
 - \[noun\], locative, singular
@@ -130,36 +130,36 @@ genre M
 **भूम्योपरि** भूमेरुपरि प्रवर्तमानः **स्वनः** **दिवि** **यतते** गच्छति । दिवं व्याप्तोति । सेयं सिन्धुः **अनन्तम्** अपर्यन्तं **शुष्मं** वेगं **भानुना** दीप्तेनोर्मिणा **उदयर्ति** उद्गमयति । **अभ्रादिव** अन्तरिक्षाद्यथा **वृष्टयः** **प्र** **स्तनयन्ति** तद्वदस्याः शब्दाः प्रादुर्भवन्ति । **यत्** यदा **सिन्धुः** इयं **रोरुवत्** भृशं शब्दयन् **वृषभो** **न** वृषभ इव **एति** गच्छति तदैवं भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sound goes forth in heaven above the earth; (**Sindhu**) with shining wave animates his endlessspeed; as rains issue thundering from the cloud, so Sindhu (thunders) when he advances roaring like a bull.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Her sound takes its place in heaven, above the earth. She sends up  snorting without end along with radiance.  
 Like rains from a cloud her “rains” thunder forth, when Sindhu goes like  an ever-bellowing bull.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His roar is lifted up to heaven above the earth: he puts forth endless vigour with a flash of light.  
      Like floods of rain that fall- in thunder from the cloud, so Sindhu rushes on bellowing like a bull.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gen Himmel strebt ihr Brausen über der Erde; sie treibt ihre endlose Wucht mit Glanz empor. Es donnern gleichsam Regengüsse aus der Wolke, wenn Sindhu wie ein brüllender Bulle dahingeht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hin durch die Erde dringt ihr Schall zum Himmel auf, endloses Brausen regt sie auf und hellen Glanz, Wenn wie aus Wolken donnert ihrer Tropfen Flut, wenn Sindhu vordringt wie ein Stier, der kräftig brüllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Твой) шум направляется к небу над землей.  
 С блеском вздымает она (свою) бесконечную ярость.  

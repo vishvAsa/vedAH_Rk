@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानो꣡ देव꣡वीतय  
 इ꣡न्द्रस्य याहि निष्कृत꣡म्  
 द्युतानो꣡ वाजि꣡भिर् यतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्यु॒ता॒नः । वा॒जिऽभिः॑ । य॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **द्युतानः** दीप्यमानः **वाजिभिः** बलिभिर्यजमानैः **यतः** संगृहीतः **देववीतये** यज्ञार्थं **पुनानः** पूयमानस्त्वम् **इन्द्रस्य** **निष्कृतं** स्थानं **याहि** गच्छ॥ ॥ ३८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified for the banquet of the gods, go to **Indra**'s station radiant, collected together by the vigorous (worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified for the pursuit of the gods, drive to your rendezvous  with Indra,  
 flashing, guided by the prize-seekers.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -99,23 +99,23 @@ Again, each vs. has a form of √pū, for what that’s worth (pavasva 13a, pun�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Purified for the feast of Gods, go thou to Indra's special place,  
      Resplendent, guided by the strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich läuternd zur Götterladung geh an des Indra Treffort, leuchtend, von den Preiskämpfen gelenkt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt geh zum Göttermahl dahin, wo du den Indra triffst, Gelenkt von Priestern, strahlender!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

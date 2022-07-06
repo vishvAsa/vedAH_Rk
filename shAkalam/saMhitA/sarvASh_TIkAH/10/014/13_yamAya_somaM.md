@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यमा꣡य सो꣡मं सुनुत  
 यमा꣡य जुहुता हविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अग्नि꣡दूतो अ꣡रंकृतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 य॒मम् । ह॒ । य॒ज्ञः । ग॒च्छ॒ति॒ । अ॒ग्निऽदू॑तः । अर॑म्ऽकृतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yamāya* ← *yama*
 - \[noun\], dative, singular, masculine
@@ -98,41 +98,41 @@ popular;; epic anuṣṭubh (424)
 हे ऋत्विजः **यमाय** यमदेवतार्थं **सोमं** **सुनुत** । लतात्मकं सोममभिषुणुत । तथा यमार्थं **हविः** **जुहुत** । अग्निर्दूतो यस्मिन् यज्ञे सोऽयम् **अग्निदूतः**। अग्नेर्दूतत्वमन्यत्राम्नातम् - अग्निर्देवानां दूत आसीत् ' (तै. सं. २. ५. ८. ५) इति । **अरंकृतः** बहुभिर्देव्यैरलंकाररूपैर्युक्तः तादृशः **यज्ञः** **यमं** **ह** यममेव गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour out the **Soma** for **Yama**; to Yama offer the oblation, the decorated sacrifice of which **Agni** is themessenger proceeds to Yama.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Yama press the soma; for Yama pour the oblation.  
 To Yama goes the sacrifice, properly prepared, with Agni as messenger.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Yama pour the Soma, bring to Yama consecrated gifts:  
      To Yama sacrifice prepared and heralded by Agni goes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 For Yama press the Soma juice, To Yama offering present. To Yama goes the sacrifice, Announced by Agni, well-prepared.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Yama presset Soma, dem Yama opfert die Spende! Zu Yama geht das zubereitete Opfer, dessen Bote Agni ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer hin, bereit, von Agni überbracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Ямы выжимайте Сому!  
 Для Ямы возливайте жертвенный напиток!  

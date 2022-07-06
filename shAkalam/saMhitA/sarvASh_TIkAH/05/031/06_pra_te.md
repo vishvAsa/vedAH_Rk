@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते पू꣡र्वाणि क꣡रणानि वोचम्  
 प्र꣡ नू꣡तना मघवन् या꣡ चक꣡र्थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡यन्न् अपो꣡ म꣡नवे दा꣡नुचित्राः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शक्ति॑ऽवः । यत् । वि॒ऽभराः॑ । रोद॑सी॒ इति॑ । उ॒भे इति॑ । जय॑न् । अ॒पः । मन॑वे । दानु॑ऽचित्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -139,20 +139,20 @@ genre M
 हे इन्द्र **ते** त्वदीयानि **पूर्वाणि** पुरातनानि **करणानि** कर्माणि **प्र** **वोचम्** अहं प्रकर्षेण ब्रवीमि । **नूतना** नूतनानि नवानि कर्माणि **प्र** वोचं प्रब्रवीमि । हे **मघवन्** धनवन्निन्द्र **या** यानि कर्माणि **चकर्थ** कृतवानसि तानि प्र वोचमिति संबन्धः । हे **शक्तीवः** शक्तिमन् । शक्तिर्वज्रं कर्म वा । तद्वन्निन्द्र **यत्** यस्त्वम् **उभे** **रोदसी** द्यावापृथिव्यौ **जयन्** वशीकुर्वन् **अपः** उदकानि **मनवे** मनुष्याय **विभराः** विविच्य बिभर्षि । कीदृशीः । **दानुचित्राः** चित्रदानाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I celebrate, **Maghavan**, your ancient exploits, and those which you have newly achieved; wielder of the thunderbolt, subjugating both heaven and earth, you have distributed the wonderfully bountiful waters to man.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will proclaim your previous deeds, proclaim the current ones that you  have done, bounteous one,  
 when, potent one, you will pull apart both world-halves, winning the  waters, bright in drops, for Manu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though Grassmann refuses to tr., katpayám seems to contain the pejorative kaprefix; see EWA s.v. ká1 , p. 285.
 
@@ -180,23 +180,23 @@ Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt”
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will declare thine exploits wrought aforetime, and, Maghavan, thy deeds of late achievement,  
      When, Lord of Might, thou sunderedst earth and heaven, winning for man the moistly-gleaming waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine früheren Taten will ich verkünden, deine neuesten, die du Gabenreicher getan hast, daß du Mächtiger beide Welthälften trenntest, die Gewässer für Manu erobernd, die durch ihre Gaben glänzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nun will ich preisen deine alten Thaten, die neuen auch, die, Mächt'ger, du vollbracht hast, Dass beide Welten, starker, du erschliessest, dem Menschen schaffend tropfenhelle Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я хочу провозгласить твои прежние деяния,  
 (Хочу) про(возгласить) нынешние, о щедрый, что ты совершил:  

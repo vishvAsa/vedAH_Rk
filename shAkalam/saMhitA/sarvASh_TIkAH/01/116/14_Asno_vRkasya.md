@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आस्नो꣡ वृ꣡कस्य व꣡र्तिकाम् अभी꣡के  
 युवं꣡ नरा नासतियामुमुक्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृ꣡पमाणम् अकृणुतं विच꣡क्षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 उ॒तो इति॑ । क॒विम् । पु॒रु॒ऽभु॒जा॒ । यु॒वम् । ह॒ । कृप॑माणम् । अ॒कृ॒णु॒त॒म् । वि॒ऽचक्षे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āsno* ← *āsnaḥ* ← *āsan*
 - \[noun\], genitive, singular, neuter
@@ -123,7 +123,7 @@ genre M
 वर्तिका चटकसदृशस्य पक्षिणः स्त्री । तामरण्ये वर्तमानेन शुना ग्रस्तां पुरा किल अश्विनौ अमोचयताम् । तदेतदाह । हे **नरा** नेतारौ नासत्यावश्विनौ **युवं** युवाम् **अभीके** अभिगते वृकवर्तिकयोः संग्रामे **वृकस्य** विकर्तकस्य शुनः आस्नः आस्यात् **वर्तिकां** चटकसदृशीम् **अमुमुक्तम्** अमोचयतम्। यास्कस्त्वाह । पुनःपुनर्वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः। तां वृकेण आवरकेण सर्वजगत्प्रकाशेनाच्छादयित्रा सूर्येण ग्रस्तां तदीयमुखादश्विनावमुञ्चतामिति । **उतो** अपि च **पुरुभुजा** महाबाहू प्रभूतहस्तौ वा **युवं** **ह** युवां खलु **कृपमाणं** स्तुवन्तं **कविम्** एतत्संज्ञमन्धमृषिं **विचक्षे** विशेषेण द्रष्टुं समर्थम् **अकृणुतम्** अकुरुतम् ॥ आस्नः। ‘पद्दन्' इत्यादिना आस्यस्य" आसन्नादेशः । ‘अल्लोपोऽनः इति अकारलोपे उदात्तनिवृत्तिस्वरेण ‘ऊडिदम्' इति विभक्तेरुदात्तत्वम् । अमुमुक्तम् । मुचेरन्तर्भावितण्यर्थात् लङि ‘बहुलं छन्दसि' इति विकरणस्य श्लुः। कृपमाणम् । कृपिः स्तुतिकर्मा तुदादिषु द्रष्टव्यः । विकरणस्वरे प्राप्ते 'वृषादीनां च' इत्याद्युदात्तत्वम् । विचक्षे । **तुमर्थे** सेसेन्' इति सेन्प्रत्ययः । ‘स्कोः संयोगाद्योः' इति सलोपः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,29 +134,29 @@ genre M
 The dog: **vṛka**, a wolf, here equated with a śvān, a dog. Figuratively, vṛka is **Āditya**,t he sun, from whose grasp or over-powering radiance, the **Aśvins** are said to have rescued the dawn, upon her appeal to them
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the critical moment you two freed the quail-hen from the mouth of  the wolf, men, Nāsatyas,  
 and, you two of many delights, you made the lamenting sage poet  [=Uśanā Kāvya] to gaze far.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye from the wolf's jaws, as ye stood together, set free the quail, O Heroes, O Nasatyas.  
      Ye, Lords of many treasures, gave the poet his perfect vision as he mourned his trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unmittelbar aus dem Rachen des Wolfes befreitet ihr Herren Nasatya´s die Wachtel. Auch machtet ihr Vielnützende den jammernden Seher wieder sehend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr beide habt, o treugesinnte Männer, erlöst die Wachtel aus des Wolfes Rachen, Und habt gewährt dem Sänger, als er klagte, o güterreiche, dass er fröhlich aufsah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прямо из пасти волка вы, о два мужа,  
 О Насатьи, спасли перепелку.  

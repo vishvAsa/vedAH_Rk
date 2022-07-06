@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पर्ज꣡न्याय प्र꣡ गायत  
 दिव꣡स् पुत्रा꣡य मीळ्हु꣡षे  
 स꣡ नो य꣡वसम् इछतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 सः । नः॒ । यव॑सम् । इ॒च्छ॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parjanyāya* ← *parjanya*
 - \[noun\], dative, singular, masculine
@@ -82,35 +82,35 @@ genre M
 हे स्तोतारः पर्जन्याय देवाय **प्र** **गायत** प्रकर्षेण स्तोत्रमुच्चारयत । कीदृशाय । **दिवः** अन्तरिक्षस्य **पुत्राय** । तत्र हि पर्जन्यः प्रादुर्भवति । **मीळ्हुषे** सेक्त्रे । **सः** तादृशः पर्जन्यः **नः** अस्मभ्यं **यवसम्** ओषध्यादिलक्षणमन्नं दातुम् **इच्छतु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing aloud to the son of heaven, **Parjanya**, the sender of rain; may he be plural ased (to grant) us food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Parjanya sing forth—to the son of heaven who grants rewards. Let him seek pasturage for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING forth and laud Parjanya, son of Heaven, who sends the gift of rain  
      May he provide our pasturage.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stimmet an den Gesang auf Parjanya, des Himmels Sohn, den Belohner! Er soll uns Weide zu verschaffen suchen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, singet dem Pardschanja nun dem gabenreichen Himmelssohn; Er schaffe uns der Wiesen Gras.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запойте (песнь) для Парджаньи,  
 Для сына неба, для щедрого!  

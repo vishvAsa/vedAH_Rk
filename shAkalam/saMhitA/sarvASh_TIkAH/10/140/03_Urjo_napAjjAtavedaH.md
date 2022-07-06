@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊ꣡र्जो नपाज् जातवेदः सुशस्ति꣡भिर्  
 म꣡न्दस्व धीति꣡भिर् हितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 चित्रो꣡तयो वाम꣡जाताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वे इति॑ । इषः॑ । सम् । द॒धुः॒ । भूरि॑ऽवर्पसः । चि॒त्रऽऊ॑तयः । वा॒मऽजा॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
@@ -118,36 +118,36 @@ genre M
 हे **ऊर्जो** **नपात्** ऊर्जः अन्नस्य पार्थिवस्यारण्यादेः पुत्र हे **जातवेदः** जातानां वेदितरग्ने **सुशस्तिभिः** अस्माभिः क्रियमाणै: **मन्दस्व** मोदस्व । तथा **धीतिभिः** कर्मभिरस्माभिः क्रियमाणैः अग्निहोत्रादिभिः **हितः** सुहितः तृप्तो भव । अपि च **भूरिवर्पसः** । वर्प इति रूपनाम । बहुविधरूपाः **चित्रोतयः** चित्रा विचित्रोतिस्तृप्तिर्यासां तास्तथोक्ता: **वामजाताः** वामं वननीयं जातं जन्म यासां तादृशीः **इषः** अन्नानि हविर्लक्षणानि **त्वे** त्वय्येव **सं** दधुः संदधति । सम्यग्जुह्वति यजमानाः । यद्वा । भूरिवर्पस इत्यादिकं कर्तृविशेषणम् । तदानीं चित्रोतय इत्यस्य विचित्ररक्षा इति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Son of strength, **Jātavedas**, rejoice in our adorations, (be) satisfied by our offerings, (theworshippers) have plural ced before you viands of many sorts of wonderful efficacy, of excellent origin. {Son ofstrength: ūrjo **napāt** = grandson of waters; or, non-injurer; or, food\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Child of Nourishment, Jātavedas, delight yourself with good lauds,  when you are roused by hymnic visions.  
 In you have those of brilliant help assembled precious-born refreshments  of manifold forms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Jatavedas, Son of Strength, rejoice ihyself, gracious, in our fair hymns and songs.  
      In thee are treasured various forms of strengthening food, born nobly and of wondrous help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kind der Kraft, Jatavedas! Erfreue dich an den Lobpreisungen, durch die frommen Gedanken angespornt! In dir haben sie die vielgestaltigen Labungen vereint, die Götter von wunderbaren Gnaden, zu Gutem geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wesenkenner, Sohn der Kraft, erfreue dich am Lob, mit Andacht hingesetzt; Dir reichten mannichfache Labetränke dar hülfreich die schön geborenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О потомок питательной силы, о Джатаведас, радуйся  
 Прекрасным хвалам, поторапливаемый молитвами!  

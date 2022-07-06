@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ जानत स्व꣡म् ओकि꣡यं  
 सं꣡ वत्सा꣡सो न꣡ मातृ꣡भिः  
 मिथो꣡ नसन्त जामि꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मि॒थः । न॒स॒न्त॒ । जा॒मिऽभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ते** ता गावः **जानत** ज्ञातवत्यः । अथवा सामान्याकारेण त इति पुंनिर्देशः । किम् । **स्वं** स्वकीयम् **ओक्यं** निवासं महावीरम् । तत्र दोग्धुमगमन्नित्यर्थः । तदेवाह । **वत्सासः** वत्साः **मातृभिः** **न** जननीभिः सह यथा संगच्छन्ति तद्वत् **जामिभिः** बन्धुभिः सहिता गावः **मिथः** प्रत्येकं **सं** **नसन्त** संगच्छन्ते महावीरम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Know their own abode: i.e., as the cows come to the **gharma** to be milked, as to their stall
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They [=soma juices] recognize their own home. Like calves coming  together with their mothers,  
 they pair off with their kin [=milk and water].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These know their own abiding-place: like calves beside the mother cows  
      They meet together with their kin.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese kennen ihren gewohnten Ort. Wie die Kälber mit ihren Müttern, so vereinigen sie sich wechselseitig mit den Geschwistern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie kennen wohl ihr eignes Haus, sie paaren mit den Schwestern sich, Wie Kälber mit den Mutterküh'n.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они знают свое излюбленное место.  
 Словно телята с матерями,  

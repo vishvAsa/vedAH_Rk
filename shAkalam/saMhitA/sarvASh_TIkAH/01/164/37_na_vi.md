@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ वि꣡ जानामि य꣡द् इवेद꣡म् अ꣡स्मि  
 निण्यः꣡ सं꣡नद्धो म꣡नसा चरामि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡द् वाचो꣡ अश्नुवे भाग꣡म् अस्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 य॒दा । मा । आ । अग॑न् । प्र॒थ॒म॒ऽजाः । ऋ॒तस्य॑ । आत् । इत् । वा॒चः । अ॒श्नु॒वे॒ । भा॒गम् । अ॒स्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -148,7 +148,7 @@ popular
 ‘ कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन्' ( क. उ. २. ४. १ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,29 +159,29 @@ popular
 I distinguish not: na vijānāmi yadiva idam asmi: this may be read as: yadi va idam, that I am like that which this is; or, if I am this; in either meaning, the philosophical implication is the identity of individual and universal spirit
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I do not understand what sort of thing I am here: though bound,  I roam about in secret by my thinking.  
 When the first-born of truth [=Agni] has come to me, only then do  I attain a share of this speech here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What thing I truly am I know not clearly: mysterious, fettered in my mind I wander.  
      When the first-born of holy Law approached me, then of this speech I first obtain a portion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich verstehe nicht, was dem vergleichbar ist, was ich bin. Ich wandele, heimlich mit dem Denken ausgerüstet. Sobald der Erstgeborene der Weltordnung über mich gekommen ist, da erlange ich Anteil an dieser Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich weiss nicht, was ich eben bin; innerlich gerüstet im Geiste wandere ich; als zu mir kam der erst geborene des heiligen Werkes, da erst erlangte ich den Antheil dieser heiligen Rede.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не понимаю я, чему я подобен.  
 Затаившись, я странствую, мыслью вооруженный.  

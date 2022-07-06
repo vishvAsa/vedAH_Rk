@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यदा꣡ ते हर्यता꣡ ह꣡री  
 वावृधा꣡ते दिवे꣡-दिवे  
 आ꣡द् इ꣡त् ते वि꣡श्वा भु꣡वनानि येमिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 आत् । इत् । ते॒ । विश्वा॑ । भुव॑नानि । ये॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadā*
 - \[adverb\]
@@ -93,19 +93,19 @@ genre M
 हे इन्द्र त्वदीयौ **हर्यता** हर्यतौ कान्तौ **हरी** हरणशीलावश्वौ **दिवेदिवे** प्रतिदिवसं **यदा** यस्मिन् काले **वावृधाते** प्रवृद्धौ बभूवतुः **आदित्** अनन्तरमेव त्वया **विश्वा** विश्वानि सर्वाणि **भुवनानि** भूतजातानि **येमिरे** नियम्यन्ते स्म ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When your beloved horses had augmented day by day, then all existent beings were subject unto you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When your two beloved fallow bays grew strong from day to day, just after that all these worlds held themselves in submission to you.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -124,23 +124,23 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thy two beautiful Bay Steeds grew great and greater day by day,  
      Even then all creatures that had life bowed down to thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als deine geliebten Falben Tag für Tag größer wurden, da erst haben sich dir alle Wesen gefügt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als dein geliebtes Füchsepaar an Grösse zunahm Tag für Tag, Da schmiegten alle Wesen auch sich eng an dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда пара твоих любимых буланых коней  
 Стала крепнуть день ото дня,  

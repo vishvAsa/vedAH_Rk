@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सत्रासाहो꣡ जनभक्षो꣡ जनंसह꣡श्  
 च्य꣡वनो युध्मो꣡ अ꣡नु जो꣡षम् उक्षितः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रस्य वोचम् प्र꣡ कृता꣡नि वीरि꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृ॒त॒म्ऽच॒यः । सहु॑रिः । वि॒क्षु । आ॒रि॒तः । इन्द्र॑स्य । वो॒च॒म् । प्र । कृ॒तानि॑ । वी॒र्या॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *satrāsāho* ← *satrā*
 - \[adverb\]
@@ -125,14 +125,14 @@ genre M
 सत्रासाहः बहूनामभिभविताजनभक्षः जनानांयजमानानाङ्कामप्रदानेनसम्भक्ता तैःसम्भजनीयइति वा जनंसहःबलिनाञ्जनानामभिभविता च्यवनःशत्रूणाञ्च्यावयितास्वस्थानात् युध्मः योद्धा जोषमनु प्रीतिमनुउक्षितः सिक्तःसोमेन वृतञ्चयःवृतस्याभीष्टस्याचेतासञ्चेतादातेत्यर्थः यद्वा वर्ततेपुनःपुनरभि मुखमागच्छतीतिवृत् शत्रुः तञ्चयतेहिनस्तीतिवृतञ्चयः चयतिर्हिंसाकर्मा तथाचब्राह्मणं—योवैभागि नम्भागान्नुदतेचयतेवैनंसयदिवैनन्नचयतेथपुत्रमथपौत्रञ्चयतेत्वेवैनमिति । सहुरिः जसिसहोरुरिन्निति उरिन्प्रत्ययःअभिभविताशात्रूणांविक्षुप्रजासुआरितः पालकत्वेनप्रापितोभवति तादृशस्येन्द्रस्यक्रुतानि वृत्रहननादिरूपाणि वीर्यासामर्थ्यानिप्रवोचं प्रकर्षेणवदामि ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I proclaim the mighty exploits of that **Indra**, who is, ever victorious; the benefactor of man, the overthrower of (the strong) man, the caster down (of foes), the warrior, who is gratified by our libations, the granter of desires, the subduer of enemies, the refuge of the people.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, overpowering in every way, consuming the peoples, and  
 overpowering the peoples; he, the fighter rousing to action, grown  
@@ -140,23 +140,23 @@ strong at his pleasure;
 he, punishing opposition, overcoming, and acknowledged among the  clans—I shall proclaim Indra’s heroic deeds that he has done.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Still Victor, loved by mortals, ruler over men, o'erthrower, warrior, he hath waxen as he would;  
      Host-gatherer, triumphant, honoured mid the folk. Indra's heroic deeds will I tell forth to all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Völlig bezwingend, Menschen vertilgend, Menschen bezwingend, umstürzend, streitbar, nach Gutdünken groß geworden, als Heersammler, als Bezwinger unter den Stämmen anerkannt - des Indra vollbrachte Heldentaten will ich verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Allbezwinger der die Welt beherrscht, bezwingt, der mächt'ge Kämpfer wuchs, wie's ihm beliebt, empor, Der Schatzerbeuter siegreich von dem Volk geehrt; des Indra Heldenthaten will verkünden ich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всегда осиливающий, поглощающий людей, осиливающий людей,  
 Сотрясатель, боец, выросший в свое удовольствие,  

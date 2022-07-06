@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हारिद्रवे꣡व पतथो व꣡ने꣡द् उ꣡प  
 सो꣡मं सुत꣡म् महिषे꣡वा꣡व गछथः  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 त्रि꣡र् वर्ति꣡र् यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । त्रिः । व॒र्तिः । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hāridraveva* ← *hāridravā* ← *hāridrava*
 - \[noun\], nominative, dual, masculine
@@ -126,7 +126,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अश्विनौ युवां **सुतम्** अभिषुतं **सोमम्** **उप** **पतथः** **हारिद्रवाविव** यथा हारिद्रवौ पक्षिणौ **वना** वनान्युदकानि । 'वाः वनम् ' इत्युदकनामसु पाठात् । उपपततः । तद्वदित्यर्थः । **महिषाविव** यथा पिपासितौ महिषावुदकान्युपगच्छतः **तथा** **सुतं** **सोमम्** **अव** **गच्छथः**। **उषसा** **सूर्येण** **च** संगतौ **त्रिवर्तिः** त्रिर्मार्गं **यातं** च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Hāridravā: a tree; by the triple path: trir vartir yātam, the three daily ceremonies; or, come thrice to ourdwelling
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like hāridrava-birds (to the woods), you fly right to the wooden  (cups). – Like buffaloes (to water), you come down to the  
 pressed soma.  
 In concert with Dawn and the Sun, drive your circuit three times, o  Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye fly as starlings fly unto the forest trees; like buffaloes ye seek the Soma we have shed.  
      Accordant, of one mind with Surya and with Dawn, come thrice, O Asvins, to our home.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie Haridravögel zu den Bäumen flieget ihr zu den Holzgefäßen; ihr findet euch beim ausgepreßten Soma ein wie Büffel an der Tränke, einträchtig mit mit Usas und Surya, machet dreimal eure Umfahrt, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie gelbe Vögel fliegt ihr zu den Wäldern hin, wie Büffel kommt ihr zum gepressten Soma her, Und mit der Sonn' und Morgenröthe im Verein kommt, Ritter, dreimal in den Hof.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (птицы) харидрава – на деревья, летите вы двое к деревянным сосудам.  
 К выжатому соме вы спускаетесь, как два буйвола (на водопой).  

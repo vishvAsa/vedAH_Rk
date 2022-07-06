@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आव꣡र्वृततीर् अ꣡ध नु꣡ द्विधा꣡रा  
 गोषुयु꣡धो न꣡ नियवं꣡ च꣡रन्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपो꣡ वन्दस्व सवृ꣡धः स꣡योनीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ऋषे॑ । जनि॑त्रीः । भुव॑नस्य । पत्नीः॑ । अ॒पः । व॒न्द॒स्व॒ । स॒ऽवृधः॑ । सऽयो॑नीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvarvṛtatīr* ← *āvarvṛtatīḥ* ← *āvarvṛt* ← *√vṛt*
 - \[verb noun\], nominative, plural
@@ -108,34 +108,34 @@ genre M
 **अध** अथानन्तरं गोषुयुधो **न** । गोष्वप्सु निमित्तभूतासु मेघैः सह युध्यत इति गोषुयुदिन्द्रः। तस्य यथा वृष्टिलक्षणा अपः **द्विधाराः**। द्विशब्दोऽत्रानेकत्ववाची । अनेकधाराः । अपर्यन्तधारा इत्यर्थः । अस्माकमप्येवंस्थिताः **आवर्वृततीः** आवृत्ताः **नियवं** सोमं प्रति निश्चयेन **मिश्रीभावं** **चरन्तीः** गच्छन्तीः **भुवनस्य** लोकस्य **जनित्रीः** जनयित्रीः **पत्नीः** पालयित्रीश्च **सवृधः** सह सोमस्य वर्धयित्रीः **सयोनीः** सोमेन सह समानस्थानाः हे **ऋषे** मदीयान्तरात्मन् अध्वर्यो वा त्वमेवंभूताः **अपः** **नु** क्षिप्रं **वन्दस्व** स्तुहीत्यर्थः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those whirling about in two streams, roving like cattle-raiders in teams, the begetters and masters of existence—the waters grown strong  
 together sharing the same womb: o seer, now extol them!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These winding Streams which with their double current, like cattle-raiders, seek the lower pastures,-  
      Waters which dwell together, thrive together, Queens, Mothers of the world, these, Rsi, honour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die in zwei Strömen sich bewegen, wie die um Kühe Kämpfenden nach dem ........ ausziehend, diese Mütter und Herrinnen der Welt, die Gewässer lobe, o Rishi, die zusammen aufgewachsenen leiblichen Schwestern!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die her sich wälzen nun in Doppelströmen, wie Krieger schreitend in geschlossnen Reihen, Die Welt-vermählten Mütter preis', o Sänger, die Wasser, gleichen Stammes, gleichen Alters.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Эти воды,) мощно вращающиеся в два потока,  
 Движущиеся, словно борцы за коров, к запряганию (упряжек-даров), -  

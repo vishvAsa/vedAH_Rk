@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उच्चा꣡ ते जात꣡म् अ꣡न्धसो  
 दिवि꣡ ष꣡द् भू꣡मि आ꣡ ददे  
 उग्रं꣡ श꣡र्म म꣡हि श्र꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒ग्रम् । शर्म॑ । महि॑ । श्रवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uccā*
 - \[adverb\]
@@ -98,7 +98,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव संबन्धिनः **अन्धसः** रसस्य **उच्चा** उपरि **जातं** जन्म अपि च **दिवि** द्युलोके **सत्** विद्यमानं स्वतस्तव संबन्धि **उग्रम** उद्गूर्णं **शर्म** सुखं **महि** महत् **श्रवः** अन्नं च **भूमिः** **आ** **ददे**। भूम्या ददे इति पदत्रयमामनन्ति । विसर्जनीयलोपः सांहितिकः । भूमिर्भौमा जना मादृशाः । भूमिष्ठैरादीयत इत्यर्थः ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,13 +109,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Yajus**. 26.16; though these exist naturally inheaven: api ca dyuloke vidyamānam **svatas**: bhūmyā = **bhūmiḥ** + ā (with the lision of the **visarga** in the **saṃhitā** text)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It was born high above from your stalk; though it was in heaven, on  earth it took for itself  
 mighty shelter and great fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The topic of the verse seems to be heavenly versus earthly soma. See Lüders 204.
 
@@ -143,23 +143,23 @@ It is difficult to discern any particular unity in this tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High is thy juice's birth: though set in heaven, on earth it hath obtained  
      Strong sheltering power and great renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Höhe ist deines Tranks Geburt. Den im Himmel befindlichen Trank nehme ich auf der Erde an mich. Gewaltig ist dein Schutz, groß dein Ruhm.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was oben deinem Saft entsprang im Himmel, hat die Erd' erlangt, Gewalt'gen Schutz und hohen Ruhm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Высоко рождение твоего сока:  
 Находясь на небе, он добывается на земле,  

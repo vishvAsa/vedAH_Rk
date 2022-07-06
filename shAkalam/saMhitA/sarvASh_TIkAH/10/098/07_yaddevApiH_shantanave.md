@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् देवा꣡पिः शं꣡तनवे पुरो꣡हितो  
 होत्रा꣡य वृतः꣡ कृप꣡यन्न् अ꣡दीधेत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तिर् वा꣡चम् अस्मा अयछत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 दे॒व॒ऽश्रुत॑म् । वृ॒ष्टि॒ऽवनि॑म् । ररा॑णः । बृह॒स्पतिः॑ । वाच॑म् । अ॒स्मै॒ । अ॒य॒च्छ॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -111,7 +111,7 @@ popular
 **यत्** यदा **देवापिः** आर्ष्टिषेणः **शंतनवे** स्वभ्रात्रे कौरव्याय **पुरोहितः** सन् **होत्राय** होत्रार्थं **वृतः** सन् **देवश्रुतम्** । देवा एनं शृण्वन्तीति देवश्रुत् । तं तथा **वृष्टिवनिं** वृष्टियाचिनं बृहस्पतिम् **अदीधेत्** अन्वध्यायत् स च **रराणः** रममाणः **बृहस्पतिः** देवः **अस्मै** देवापये **वाचम्** अयच्छत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,30 +122,30 @@ popular
 Voice: **Nirukta** 2.12: Bṛhspati communicated to him the address go **Agni** which follows
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Devāpi, installed as Purohita for Śaṃtanu and chosen for the  office of Hotar, reflected with longing,  
 Br̥haspati, bestowing, gave him speech audible to the gods,  
 winning rain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When as chief priest for Santanu, Devapi, chosen for Hotar's duty, prayed beseeching,  
      Graciously pleased Brhaspati vouchsafed him a voice that reached the Gods and won the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Devapi, der Purohita für Santanu, zum Hotri.Amt erwählt, sehnsüchtig ausschaute, da verlieh im Brihaspati bereitwillig die gotterhörte regengewinnende Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als auserwählt zum Priesteramt des Hauses von Çantanu Devapi betend, flehte, Da gab das Lied Brihaspati dem Dichter, ihm Gott-erhörte Regenbitte schenkend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Девапи, пурохита для Шантану,  
 Избранный для службы хотара, полный страсти, искал внутренним взором,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ पूता꣡ विपश्चि꣡तः  
 सो꣡मासो द꣡धिआशिरः  
 विपा꣡ वि꣡ आनशुर् धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒पा । वि । आ॒न॒शुः॒ । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एते** **सोमासः** सोमाः **पूताः** शुद्धाः **विपश्चितः** प्राज्ञाः **दध्याशिरः** दध्याश्रयणाः **विपा** प्रज्ञानेन **धियः** अस्मदीयानि कर्माणि **व्यानशुः** व्याप्नुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,30 +92,30 @@ With their intellignece: vipā = prajñānena;
 Vip = twigs which form the bottom of the funnel and suppor the filtering-cloth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These purified soma juices, mixed with curds, attentive to poetic  
 inspiration,  
 have pervaded our insights with inspiration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Soma juices, blent with curds, purified, skilled in sacred hymns,  
      Have gained by song their hearts'desire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese geläuterten, redekundigen, mit saurer Milch gemischten Somasäfte haben die Gedanken mit Beredsamkeit durchdrungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hellen Soma's, milchgemischt, begeistert drangen sie hindurch Zu den Gebeten durch das Sieb.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти чистые знающие вдохновение  
 Соки сомы, смешанные с кислым молоком,  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् ऊ नु꣡ ते अ꣡नु क्र꣡तुं  
 स्वा꣡हा व꣡रस्य य꣡ज्यवः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्र गोत्र꣡स्य दाव꣡ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्वा॒त्रम् । अ॒र्काः । अ॒नू॒ष॒त॒ । इन्द्र॑ । गो॒त्रस्य॑ । दा॒वने॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -107,7 +107,7 @@ genre M
 **आदु** अनन्तरमेव **नु** अद्य हे **इन्द्र** **ते** तव **क्रतुं** कर्म **अनु** क्रमेण **अनूषत** इति संबन्धः । अनुक्रमेण स्तुवन्ति । के। **स्वाहावरस्य** स्वाहादेव्याः पतेरग्नेः **यज्यवः** यष्टारः । त्वदर्थमग्नौ यागं कुर्वन्त इत्यर्थः । तादृशाः **अर्काः** अर्चयितारः स्तोतारः। **श्वात्रम्** इति क्षिप्रनाम । अन्यदेवतास्तुतिरूपविलम्बमकृत्वातिशीघ्रमतिदीर्घं स्तुवन्तीत्यभिप्रायः । किमर्थं स्तुवन्तीति उच्यते । **गोत्रस्य** **दावने** धनस्य दानाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,14 +118,14 @@ genre M
 As they offer to Agni: i.e. as they make the oblations to you in the fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And therefore, following the intention of your will, those eager to  sacrifice (have cried out) “hail!”;  
 their chants have cried out to (you), who are swollen with strength,  
 Indra, to give of the cowpen.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntactic association of várasya is disputed; see Oldenberg’s discussion for various possibilities. I follow Geldner in taking it as dependent on krátum.
 
@@ -134,23 +134,23 @@ It also seems necessary to supply a verb with ab. I import anūṣata from cd, w
 Geldner takes śvātrám as the content of the call (“… haben … den Drang eingeschrieen”), but √nu ordinarily takes as object the being towards whom the cry is directed, and I therefore take śvātrám as referring to Indra. (This standard construction of √nu does make some trouble for my interpretation of svā́hā as construed with supplied √nu in ab, but perhaps the fact that svā́hā expresses the cry itself makes the difference. See comm. on I.6.6, however.) Note the phonological echoes: ā́(d ū) nú … ánu (a) / anūṣata (c).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now after their desire's intent the pious singers with the cry  
      Of Hail! have sung loud hymns to thee, Indra, to gain a stall of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und nun mögen die Opfernden unter Svaharuf dem Absehen deines Wunsches entsprechen. Die Preislieder haben dir, Indra, den Drang eingeschrieen, die Rinderherde zu verschenken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und jetzt auch jauchzen deiner Kraft und deiner Macht die Sänger zu, O fülle, Indra, ihren Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот и сейчас по твоей воле –  
 Свага! – (действуют) жертвователи желанного добра.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दि꣡यौष् पि꣡तः पृ꣡थिवि मा꣡तर् अ꣡ध्रुग्  
 अ꣡ग्ने भ्रातर् वसवो मॄळ꣡ता+ नः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं श꣡र्म बहुलं꣡ वि꣡ यन्त
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । आ॒दि॒त्याः॒ । अ॒दि॒ते॒ । स॒ऽजोषाः॑ । अ॒स्मभ्य॑म् । शर्म॑ । ब॒हु॒लम् । वि । य॒न्त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dyauṣ* ← *dyauḥ* ← *div*
 - \[noun\], vocative, singular, masculine
@@ -123,36 +123,36 @@ genre M
 हे **पितः** पितृस्थानीय **द्यौः** द्युलोक हे **मातः** मातृस्थानीये **अध्रुक्** अद्रोग्ध्रि **पृथिवि** हे **भ्रातः** भ्रातृस्थानीय **अग्ने** हे **वसवः** वासयितारो देवाः ते सर्वे यूयं **नः** अस्मान् **मृळत** सुखयत । हे **विश्वे** **आदित्याः** सर्वेऽदितिपुत्रा देवा हे **अदिते** यूयं **सजोषाः** संगता भूत्वा **अस्मभ्यं** **बहुलम्** अधिकं **शर्म** सुखं विस्तृतं वा गृहं **वि** **यन्त** प्रयच्छत ॥ ॥ ११ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Father Heaven, innocent mother Earth, brother **Agni**, and you, **Vasus**, grant us happiness; all you sons of **Aditi**, and you Aditi, alike well-plural ased, bestow upon us ample felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Father Heaven, Mother Earth lacking the lie, Brother Agni, good  ones—have mercy on us.  
 All you Ādityas and Aditi jointly—spread out ample shelter for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Heaven our Father, Earth our guileless Mother, O Brother Agni, and ye Vasus, bless us.  
      Grant us, O Aditi and ye Adityas, all of one mind, your manifold protection.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vater Himmel, truglose Mutter Erde, Bruder Agni, ihr Götter, seid uns gnädig! Ihr Aditya´s alle und Aditi im Bunde, gewähret uns ausgedehnten Schutz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Aditja's ihr und Aditi vereinigt, o reichet alle ausgedehnten Schutz uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Небо-отец, о Земля-мать, безобманная,  
 О Агни-брат, о Васу, – смилуйтесь над нами!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वा꣡जम् इ꣡न्दुर् इष्यति  
 सि꣡षासन् वाजसा꣡ ऋ꣡षिः  
 व्रता꣡ विदान꣡ आ꣡युधा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 व्र॒ता । वि॒दा॒नः । आयु॑धा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सोमः **वाजम्** अन्नम् **इष्यति** प्रेरयति यजमानेभ्यः । किं कुर्वन् । **सिषासन्** यजमानान् संभक्तुमिच्छन् । ईदृशः **इन्दुः** **वाजसाः** अन्नस्य दाता **ऋषिः** सर्वस्य द्रष्टा **व्रता** कर्माणि आयुधानि च **विदानः** जानन् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu**, the bestower of food, the seer sends food to the worshipper, showing his favour, acquainted with sacred rites and arms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The drop sends forth (its speech), the prizewinning seer seeking to win  the prize,  
 finding his commandments to be his weapons.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda contains a notable word play. Judging from the number of parallels, the default obj. of √iṣ ‘send’ in IX is ‘speech’; cf. IX.30.1, 64.9, 25, 95.5, and esp. IX.12.6 prá vā́cam índur iṣyati, a pāda identical to ours, save for one consonant: vā́cam versus vā́jam. Although an emendation to *vā́cam has been suggested here (see Oldenberg, who rejects it), a word play is far more likely. The poet knew (and knew his audience knew) the idiom vā́cam √iṣ, but substituted the nearly identical vā́jam, which is to be construed with síṣāsan ‘desiring to win’ later in the vs. -- vā́jam being a common obj. to forms of √san ‘win’ and in fact found in the root noun cmpd vāja-sā́in b, immediately after the desid. part. This root noun cmpd “repairs” the apparent vā́jam problem, and in the next vs. the poet provides the expected vā́cam, 5a vācam-īṅkhayám, a 2nd repair strategy.
 
@@ -111,23 +111,23 @@ part.). I now think either (or both) is/are possible, but that in either case vr
 That is, Soma’s commandments are his weapons. On the formidable nature of Soma’s vratá-s, cf., e.g., IX.53.3 ásya vratā́ni nā́dhṛ́ṣe “The commandments of this one cannot be ventured against.” As an alt. tr. here I would add “knowing his commandments to be his weapons.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu arouses strength the Sage who strives for victory, winning power,  
      Discovering holy works and means.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Saft entsendet seine Stimme, da er den Siegerpreis gewinnen will, der preisgewinnende Rishi, der sich auf die Vorschriften, auf die Waffen versteht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sänger Indu sendet Kraft, der gerne schenkt und Kraft verleiht, Der Thaten uns und Waffen schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

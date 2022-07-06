@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡गछतं कृ꣡पमाणम् पराव꣡ति  
 पितुः꣡ सुव꣡स्य त्य꣡जसा नि꣡बाधितम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 चित्रा꣡ अभी꣡के अभवन्न् अभि꣡ष्टयः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वः॑ऽवतीः । इ॒तः । ऊ॒तीः । यु॒वोः । अह॑ । चि॒त्राः । अ॒भीके॑ । अ॒भ॒व॒न् । अ॒भिष्ट॑यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agacchataṃ* ← *agacchatam* ← *gam*
 - \[verb\], dual, Imperfect
@@ -112,7 +112,7 @@ genre M
 हे अश्विनौ **परावति** दूरदेशे समुद्रमध्ये **स्वस्य** **पितुः** तुग्रस्य **त्यजसा** त्यागेन **निबाधितं** पीडितं भुज्यु कृपमाणं युवां **स्तुवन्तम्** **अगच्छतम्** । युवां रक्षणार्थं गतवन्तौ । यस्मादेवं तस्मात् हे अश्विनौ **स्वर्वतीः** स्वर्वत्यः शोभनगमनयुक्ताः **इतः** इतोमुखात् 'चित्राः चायनीयाः **युवोरह** युवयोरेव **ऊतीः** ऊतयः रक्षाः **अभीके** समीपे **अभिष्टयः** सर्वैः प्राणिभिः अभ्येषणीयाः **अभवन्** भवन्ति ॥ कृपमाणम् । कृपतिः स्तुतिकर्मा । अयं च तुदादिर्द्रष्टव्यः । स्वर्वतीः । सुपूर्वात् अर्तेः भावे विच् । ततो मतुप् । छन्दसीरः' इति मतुपो वत्वम् । अभिष्टयः । ‘इषु इच्छायाम् । भावे क्तिन् । शकन्ध्वादित्वात् पररूपत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,30 +123,30 @@ genre M
 Allusion is to **Bhujyu**, whom his father, **Tugra**, had abandoned, or rather, perhaps, was unable to succour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You went to the one piteously crying in the far distance [=Bhujyu],  entrapped by his own father’s abandonment of him.  
 Your enduring help that brings the sunlight, your brilliant mastery,  
 arose at the critical moment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye went to him who mourned in a far distant place, him who was left forlorn by treachery of his sire.  
      Rich with the light of heaven was then the help ye gave, and marvellous your succour when ye stood by him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr kamet zu dem in der Ferne jammernden Bhujyu, der durch des eigenen Vaters Feindschaft ins Wasser hinabgestoßen war. Eure lichtbringenden Hilfen waren auf der Stelle, eure wunderbaren Hilfeleistungen unmittelbar da.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr gingt zu dem, der in der Ferne jammerte, bedrängt durch seines eignen Vaters Frevelthat; Da waren eure Hülfen Licht verleihend ihm, und glänzend wurde euer Beistand ihm zu Theil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы отправились к стенающему вдалеке (Бхуджью),  
 Измученному из-за враждебности отца своего.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमाजु꣡रश् चिद् भवथो युव꣡म् भ꣡गो  
 अनाशो꣡श् चिद् अविता꣡रापम꣡स्य चित्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 युवा꣡म् इ꣡द् आहुर् भिष꣡जा रुत꣡स्य चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न्धस्य॑ । चि॒त् । ना॒स॒त्या॒ । कृ॒शस्य॑ । चि॒त् । यु॒वाम् । इत् । आ॒हुः॒ । भि॒षजा॑ । रु॒तस्य॑ । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amājuraś* ← *amājuraḥ* ← *amājur*
 - \[noun\], genitive, singular, feminine
@@ -129,7 +129,7 @@ genre M
 हे **नासत्या** नासत्यौ **युवं** युवाम् **अमाजुरश्चित्** पितृगृहे जूर्यन्त्या अपि दुर्भगाया घोषायाः **भगः** **भवथः** । शोभनरूपेणात्मानं परिणमय्य पतिं दत्तवन्तौ स्थ इत्यर्थः । तथा च निगमान्तरं--- ‘घोषायै चित्पितृषदे दुरोणे पतिं जूर्यन्त्या अश्विनावदत्तम् ' ( ऋ. सं. १. ११७. ७) इति । **अनाशोश्चित्** अनशनस्यापि **अवितारा** रक्षितारौ युवां भवथः । **अपमस्य** **चित्** जात्यातिनिकृष्टस्यापि रक्षितारौ भवथः । **अन्धस्य** **चित्** चक्षुर्विकलस्यापि रक्षितारौ भवथः । **कृशस्य** **चित्** दुर्बलस्यापि रक्षितारौ भवथः । किंच **युवामित्** युवामेव **ऋतस्य** **चित्** यज्ञस्यापि भिषजौ वैद्यौ **आहुः** विद्वांसः ॥ .
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,7 +140,7 @@ genre M
 A damsel: **ghoṣā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You become good fortune even for the woman growing old at home,  the helpers even of the one lacking speed, even of the one furthest  
 behind.  
@@ -148,23 +148,23 @@ Even of the blind man, o Nāsatyas, even of the starving, even of the
 broken—they say just you are their healers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye are the bliss of her who groweth old at home, and helpers of the slow although he linger last.  
      Men call you too, Nasatyas, healers of the blind, the thin and feeble, and the man with broken bones.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr seid das Glück auch der zuhause alternden Jungfer, ihr helfet auch dem Langsamen, auch dem, der am weitesten zurück ist. Von euch sagen sie, daß ihr auch den Blinden, auch den Abgemagerten, auch den, der etwas gebrochen hat, heilet, o Nasatya´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der alten Jungfrau auch verleiht ihr Liebesglück, dem trägen auch, und wär's der letzte, helft ihr fort; Man nennt, o treue, als die guten Aerzte euch für jeden blinden, siechen und zerschlagenen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы бываете счастьем даже для стареющей дома (девицы),  
 Помощниками даже для небыстрого, даже для самого отсталого.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 महो꣡ नो राय꣡ आ꣡ भर  
 प꣡वमान जही꣡ मृ꣡धः  
 रा꣡स्वेन्दो वीर꣡वद् य꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 रास्व॑ । इ॒न्दो॒ इति॑ । वी॒रऽव॑त् । यशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
@@ -91,19 +91,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** **इन्दो** सोम **नः** अस्माकं **महः** महान्ति **रायः** धनानि **आ** **भर** आहर । **मृधः** हिंसकाञ्छत्रूंश्च **जहि** मारय । **वीरवत्** पुत्राद्युपेतां **यशः** कीर्तिं च **रास्व** अस्मभ्यं देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring us, purifier, much wealth; conquer our foes; grant us, **Indu**, fame and **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring great wealth here to us, self-purifying one; smash the scorners. Give glory in heroes, o drop.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details open><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ This tṛca focuses even more strongly on combat, with forms of √han in 25 and
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, hither bring great riches, and destroy our foes:  
      O Indu, grant heroic fame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns große Reichtümer, o Pavamana, erschlage die Verächter; gewähre, o Saft, die Ehre vieler Söhne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bring' grosse Schätze uns herbei, die Feinde schlag', o flammender, Gib, Indu, heldenreichen Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам великие богатства!  
 О Павамана, убей презирающих (нас)!  

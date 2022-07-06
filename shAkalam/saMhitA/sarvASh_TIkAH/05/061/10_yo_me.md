@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ मे धेनूनां᳐꣡ शतं꣡  
 वइ꣡ददश्विर् य꣡था द꣡दत्  
 तरन्त꣡ इव मंह꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 त॒र॒न्तःऽइ॑व । मं॒हना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -79,19 +79,19 @@ genre M
 इयं पुरुमीळ्हस्तुतिः । **वैददश्विः** पुरुमीळ्होऽपि **यो** **मे** मह्यं **धेनूनां** **शतं** **यथा** येन प्रकारेण **ददत्** दत्तवान् । तथा **मंहना** मंहनीयानि धनान्यपि ददत **तरन्तइव** । स यथा धेनुशतं बहुविधं धनं च दत्तवान् तद्वद्वैददश्विः पुरुमीळ्होऽपि ददत् । तं स्तुवे इति शेषः ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, the son of Vidadaśva, has given me a hundred (head) of cattle, and, like Taranta, many precious gifts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will give me a hundred milk-cows as Vaidadaśvi (did), (he is) like a victor in his munificence.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. of the dānastuti vs. proper differs from the standard, which has in my opinion been unduly affected by the later Vedic rationalization of the passage.
 
@@ -104,23 +104,23 @@ have diff. solutions. I take yáḥ as marking a generalizing rel. cl. (‘whoev
 The verb in b, dádat is a short-vowel subjunctive (“whoever will give …”) but can also be interpr. as a thematized injunc., which in turn can be read with Vaiśvadaśvi (“as V. did”). If I had had the courage of my convictions, “did” would not be in parens. in the published translation
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who, like Vaidadasvi, like Taranta, hath bestowed on me  
      A hundred cows in liberal gift.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mir hundert Milchkühe wie der Sohn des Vidadasva, wie Taranta freigebig schenken werde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welcher mir hundert Rinder gab mit Freigiebigkeit wie Taranta, der Spross des Vidadagva.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Который даст мне сто,  
 Дойных коров, подобно сыну Видадашвы,  

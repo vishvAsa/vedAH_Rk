@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्न आ꣡ याहि वीत꣡ये  
 गृणानो꣡ हव्य꣡दातये  
 नि꣡ हो꣡ता सत्सि बर्हि꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 नि । होता॑ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -85,43 +85,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने त्वम् **आ** **याहि** आगच्छ । किमर्थम् । **वीतये** हविषां भक्षणार्थम् । किंच **हव्यदातये** हव्यानि हवींषि देवेभ्यो दातुम् । **गृणानः** स्तूयमानस्त्वं **बर्हिषि** आस्तीर्णे दर्भे **होता** सन् **नि** **सत्सि** निषीद उपविश ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Agni**, to the (sacrificial) fod; being lauded, (come) to convey the oblation (to the gods); sit down as the ministrant priest upon the sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, being hymned, travel hither to pursue (the oblations), to give the  oblations.  
 Sit down as Hotar on the ritual grass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou supply ‘gods’ as the underlying object of vītáye, and this is supported by devávītaye in vs. 7 (and 41). But as in the previous hymn (VI.15.1, 14), I think the default object of √vī here is havyá-, suggested by the name Vīta-havya, the poet to whom VI.15 is ascribed. Here the havyá- can easily be extracted from the parallel purpose dative havyá-dātaye in b and its absence explained as gapping.
 
 However, the Geldner/Renou solution is certainly possible, and there are no major implications either way.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Agni, lauded, to the feast; come to the offering of the gifts.  
      As Priest be seated on the grass.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni! Komm besungen zur Götterladung, zur Opferausteilung. Setz dich als Hotri auf das Barhis!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich auf die Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни, приди для приглашения (богов),  
 Воспеваемый, для раздачи жертв!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ य꣡द् अ꣡हेर् अ꣡ध त्विषो꣡  
 वि꣡श्वे देवा꣡सो अ꣡क्रमुः  
 विद꣡न् मृग꣡स्य ताँ꣡ अ꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वि॒दत् । मृ॒गस्य॑ । तान् । अमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -91,19 +91,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अध** अपि च **अहेः** अहन्तव्यस्य वृत्रासुरस्य **त्विषः** तेजोरूपादुच्छ्वासाद्भीताः यद्वा तस्य प्रभावेन परिगमिताः **विश्वे** सर्वे **देवासः** देवाः **यत्** यदा **वि** **अक्रमुः** विविधं पादविहरणमकुर्वन् । स्वस्थानं परित्यज्यान्यं देशमगच्छन्नित्यर्थः । तदानीं **मृगस्य** । एवं तान् भीषयितुं वृत्रो मृगरूपोऽभवत् । तद्रूपस्य संबन्धि **अमः** सर्वतो गमनशीलं बलं तज्जातं भयं वा **तान्** सर्वान् देवान् **विदत्** अविन्दत् । प्राप्नोदित्यर्थः । तस्यासुरस्येन्द्रो निवारको हन्ताभवदित्युत्तरेण संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When all the gods fled in various directions from the splendour of the demon Ahi, and when fear of thedeer seized them.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then as all the gods strode away from the turbulent power of the serpent, the onslaught of the wild beast found them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The positioning ... yád ... ádha … is unusual, though Klein (II: 111) simply takes it as a variant of more common ádha yád …
 
@@ -118,23 +118,23 @@ The connection among the verses in this tṛca eludes me, though the fact that t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When in their terror all the Gods shrank from the Dragon's furious might,  
      Fear of the monster fell on them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als da vor des Drachen Funkeln alle Götter davonliefen, da hatte sie die Panik vor dem wilden Tiere befallen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als vor des Drachens Ungestüm die Götter alle flüchteten, Und sie des Thieres Wuth ergriff,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

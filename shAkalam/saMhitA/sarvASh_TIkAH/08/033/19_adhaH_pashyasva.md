@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अधः꣡ पश्यस्व मो꣡प꣡रि  
 संतरा꣡म् पादकउ꣡ हर  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स्त्री꣡ हि꣡ ब्रह्मा꣡ बभू꣡विथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 मा । ते॒ । क॒श॒ऽप्ल॒कौ । दृ॒श॒न् । स्त्री । हि । ब्र॒ह्मा । ब॒भूवि॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhaḥ* ← *adhas*
 - \[adverb\]
@@ -108,7 +108,7 @@ popular;; epic anuṣṭubh (424)
 एवमन्तरिक्षादागच्छन् रथस्थ इन्द्रः स्त्रियं सन्तं स्वस्मात् पुंस्त्वमिच्छन्तं प्लायोगिं यदुवाच तदाह । हे प्लायोगे त्वं स्त्री सती **अधः** **पश्यस्व** । एष स्त्रीणां धर्मः । **उपरि** **मा** पश्यस्व । उपरिदर्शनं स्त्रीणां धर्मो न भवति हि । **पादकौ** पादावपि **संतरां** संश्लिष्टौ यथा भवतस्तथा **हर** । यथा पुरुषो विश्लिष्टपादनिधानो भवति तथा त्वया स्त्रिया न कर्तव्यमित्यर्थः । अपि च **ते** **कशप्लकौ** । कशश्च प्लकश्च कशप्लकौ । कशतिराहननकर्मा। कशप्लकावुभे अङ्गे **मा** **दृशन्**। पुरुषा न पश्यन्तु । तयोरदर्शनं वाससः सुष्ठु परिधानेन भवति । अतः सुष्ठु वाससा परिधानं कुरु । स्त्रियो हि आ गुल्फादभिसंवीता भवन्तीत्यर्थः । **हि** यस्मात् कारणात् **ब्रह्मा** सन् **स्त्री** **बभूविथ** ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ popular;; epic anuṣṭubh (424)
 **Indra** is supposed to say this toAsaṅga as a feminine le
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Poet:] “‘Keep your eyes to yourself: look below, not above. Bring your  two little feet closer together:  
 don’t let them see your two little “lips” [?].’ For you, a brahmin, have  turned into a woman!”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The poet returns in his own voice to mock the new model, by imitating in the first three pādas the speech of a mother to her little daughter, inculcating proper behavior. kaśaplakaú in c is a hapax, but its -ka- suffix suggests that it belongs to a low register (note also pādakaú in b) and the fact that it is in the dual limits its possible applications. Oldenberg suggests “weibl. Geschlechsteile” (though he moves on to breasts), and the fact that keeping one’s feet together keeps them from being seen makes the labia a good possibility.
 
@@ -142,23 +142,23 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Cast down thine eyes and look not up. More closely set thy feet. Let none  
      See what thy garment veils, for thou, a Brahman, hast become a dame.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schau dich unten an, nicht oben; halte deine Füßchen enger zusammen, damit sie nicht deine Schenkelchen sehen, denn du, der Brahmane, bist zum Weibe geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Blicke nach unten, nicht nach oben; halte die Füsschen fest zusammen, nicht möge man deine Hinterbacken sehen; denn du Beterin bist ein Weib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вниз смотри, а не вверх!  
 Держи ножки плотнее вместе!  

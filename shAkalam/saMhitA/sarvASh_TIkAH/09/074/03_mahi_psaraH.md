@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि प्स꣡रः सु꣡कृतं सोमिय꣡म् म꣡धु  
 उर्वी꣡ ग꣡व्यूतिर् अ꣡दितेर् ऋतं꣡ यते꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अपां꣡ नेता꣡ य꣡ इत꣡ऊतिर् ऋग्मि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ईशे॑ । यः । वृ॒ष्टेः । इ॒तः । उ॒स्रियः॑ । वृषा॑ । अ॒पाम् । ने॒ता । यः । इ॒तःऽऊ॑तिः । ऋ॒ग्मियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ genre M
 **ऋतं** सत्यभूतं यज्ञं **यते** गच्छते तस्मा इन्द्राय **सुकृतं** सुष्ठु संस्कृतं **सोम्यं** सोममयं **महि** । महत् प्रभूतं **मधु** मधुररसं **प्सरः** भक्षणं पानीयं भवति । 'प्सा भक्षणे'। किंच अस्मद्यज्ञं प्रत्यागच्छतामिन्द्रादीनाम् **अदितेः** पृथिव्याः **गव्यूतिः** मार्गश्च **उर्वी** विस्तीर्णो भवति । इन्द्रस्य शतसहस्रसंख्याकैर्हरिभिः सह गन्तुं मार्गो विस्तीर्णोऽभवदित्यर्थः । **यः** इन्द्रः **इतः** इमं लोकं प्रत्यापतन्याः **वृष्टेः** **ईशे** ईश्वरो भवति । तथा **उस्रियः** । उस्रेति गोनाम । गोभ्यो हितः **अपाम्** उदकानां **वृषा** वर्षकः यज्ञस्य **नेता** नायकः **इतऊतिः** इममस्मदीयं यज्ञं प्रत्यूतिर्गमनं यस्य स तथोक्तः । इतो गच्छन् **यः** इन्द्रः **ऋग्मियः** ऋगर्हः स्तोतव्यो भवति । तस्मा अयं सोमः पातव्यो भवतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,14 +146,14 @@ genre M
 Whose road is hither: i.e., to this our sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A great delight is the well-prepared somian honey, and wide is the  pasture-land of Aditi for him who goes to truth,  
 who, as a dawn-red bull, is master of the rain from here, who is the  
 leader of the waters, ageless and worthy of verses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b is problematic, and it shares some of its difficulties with IX.69.3, which ends identically: áditer ṛtáṃ yaté. See comm. ad loc. In both cases the standard tr. (incl. my published translation) take áditeḥ with what precedes, despite its being in the repeated phrase. The other problem is the referent of the dat. part. in the phrase ṛtáṃ yaté. Is it Soma, as Geldner (and the published translation, also probably Maurer) take it, or the mortal worshiper (Renou, flg. Lüders; Doniger)? Determining this depends in part on deciding what “the wide pasture-land of Aditi” means. It is possible that it refers to the expanse on the ritual ground between the filter and the place where the soma meets the milk, in which case ṛtáṃ yaté could refer to the soma traversing this expanse, as in the published
 
@@ -168,23 +168,23 @@ As multiple comm. have remarked, Soma is both associated cosmically with rain an
 All the standard tr. render itáūtíḥ with the older, now obsolete tr. ‘helping from here’ vel sim., rather than ‘eternal, ageless’, on which see comm. ad VIII.99.7 and EWA s.v. However, in this passage it certainly plays off itáḥ ‘from here’ in the previous pāda in the same metrical position; note the pattern c itá u(sr)í(yo) / d itáū(t)i(r), with the vowels ū̆ … i replicating the 2nd half of the word. This pattern is also anticipated by (gávy)ūtir in b (though in a different metrical slot).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wide space hath he who follows Aditi's right path, and mighty, well-made food, meath blent with Soma juice;  
      He who from hence commands the rain, Steer of the kine, Leader of floods, who helps us hence, who claims our laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein Hochgenuß ist die wohlbereitete somische Süßigkeit; sie ist der breite Weg der Aditi für den, welcher den rechten Weg wandelt, Soma, der als Bullenstier von hier aus über den Regen gebeut, der Führer der Gewässer, der auf der Stelle Helfende, Preiswürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm, der Aditi's Werk betreibt, ist gross das Mahl, die Weide weit, und schön gebraut der süsse Trank, Dem rothen Stier, der stets der Herr des Regens ist, der preisenswerth die Wasser führt und weiter hilft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий праздник – мед сомы, хорошо приготовленный!  
 Широко пастбище Адити для идущего по закону.  

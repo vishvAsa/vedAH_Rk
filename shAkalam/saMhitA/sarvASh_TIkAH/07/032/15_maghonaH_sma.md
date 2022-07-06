@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मघो꣡नः स्म वृत्रह꣡त्येषु चोदय  
 ये꣡ द꣡दति प्रिया꣡ व꣡सु  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 वि꣡श्वा तरेम दुरिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तव॑ । प्रऽनी॑ती । ह॒रि॒ऽअ॒श्व॒ । सू॒रिऽभिः॑ । विश्वा॑ । त॒रे॒म॒ । दुः॒ऽइ॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
@@ -109,36 +109,36 @@ genre M
 हे इन्द्र **मघोनः** धनवतस्ते । त्वदर्थमित्यर्थः। **प्रिया** प्रियाणि **वसु** **वसूनि** धनानि **ये** जनाः **ददति** प्रयच्छन्ति तान् जनान् **वृत्रहत्येषु** संग्रामेषु **चोदय** प्रेरय । हे **हर्यश्व** **तव** **प्रणीती** प्रणीत्या प्रणयनेन **सूरिभिः** स्तोतृभिः पुत्रादिभिः सार्धं **विश्वा** विश्वानि **दुरिता** दुरितानि **तरेम** ॥ ॥ १९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Animate (those men) for the destruction of their foes, who offer treasures which are dear to you, theabounder in wealth; may we, lord of bay steeds, along with (your) worshippers, pass over all difficulties by yourguidance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the smashing of obstacles spur on the bounteous ones who give their  own dear goods.  
 O you of the fallow bays, with your guidance may we, along with our  patrons, overcome all difficulties.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In battles with the foe urge on our mighty ones who give the treasures dear to thee,  
      And may we with our princes, Lord of Tawny Steeds! pass through all peril, led by thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ermutige in den Schlachten die Gönner, die liebe Güter verschenken! Unter deiner Anführung, du Falbenfahrer, möchten wir mit den Lohnherrn über alle Fährlichkeiten hinwegkommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Fürsten fördre in den Feindesschlachten du, die werthe Schätze uns verleihn; Lass, Füchselenker, mit den Edlen dringen uns von dir geführt durch alle Noth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В битвах с врагами вдохнови щедрых покровителей,  
 Которые дарят приятные блага!  

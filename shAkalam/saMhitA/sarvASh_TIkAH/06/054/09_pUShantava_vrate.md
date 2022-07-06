@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पू꣡षन् त꣡व व्रते꣡ वयं꣡  
 न꣡ रिष्येम क꣡दा चन꣡  
 स्तोता꣡रस् त इह꣡ स्मसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्तो॒तारः॑ । ते॒ । इ॒ह । स्म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣan*
 - \[noun\], vocative, singular, masculine
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पूषन्** पोषक **तव** त्वदीये **व्रते** कर्मणि वर्तमानाः **वयं** **कदा** **चन** कदाचिदपि **न** **रिष्येम** हिंसिता न भवेस । तादृशाश्च वयम् **इह** अस्मिन् कर्मणि **ते** तव **स्तोतारः** **स्मसि** स्मः । भवामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we never suffer detriment when engaged, **Pūṣan**, in your worship; we are at this time your adorers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan, under your commandment might we never suffer harm.  
 We here are your praisers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Secure in thy protecting care, O Pusan, never may we fail.  
      We here are they who sing thy praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan, in deinem Dienste möchten wir niemals Schaden erleiden. Wir hier sind deine Lobsänger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In deiner Obhut werden wir, o Puschan, Schaden leiden nie; Wir bleiben deine Sänger hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Пушан, в твоем обете  
 Да не потерпим мы никогда ущерба!  

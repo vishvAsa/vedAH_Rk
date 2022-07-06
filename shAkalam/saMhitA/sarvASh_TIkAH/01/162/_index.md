@@ -3,7 +3,7 @@ title = "+162"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 162  
 Praise of a Horse (Aśvastuti)  
@@ -20,7 +20,7 @@ ting and the patterned positioning of the pieces of the horse, so that he can ma
 To those who know the classical śrauta version of the Aśvamedha the most strik ing omission in this hymn is any mention of the sexual intercourse (or simulated inter course) of the chief wife of the king and sacrificer with the just slaughtered horse. If  our interpretation of X.86, the Vr̥ṣākapi hymn, is correct—that it is a burlesqued ver sion of an Aśvamedha with a randy monkey as victim—the missing sexual element in  our hymn here was omitted out of delicacy rather than being unknown to the R̥gveda.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Praise of a horse (Aśvastuti)
 </details>

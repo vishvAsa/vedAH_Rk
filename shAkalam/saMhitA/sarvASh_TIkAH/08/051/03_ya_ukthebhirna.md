@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ उक्थे꣡भिर् न꣡ विन्ध꣡ते  
 चिकि꣡द् य꣡ ऋषिचो꣡दनः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अ꣡रिष्यन्तं न꣡ भो꣡जसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 इन्द्र॑म् । तम् । अच्छ॑ । व॒द॒ । नव्य॑स्या । म॒ती । अवि॑ष्यन्तम् । न । भोज॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -115,35 +115,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sing that **Indra** with the new hymn who has no lack of praises, who is wise and the inspirer of seers,who is as it were eager to enjoy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who cannot get enough of hymns, who is the observant stimulator  of seers,  
 to this Indra speak with a newer thought, to give sustenance to him like  a man greedy for food.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner I read aviṣyántam, not áriṣyantam. See his n. on 3d. Oldenberg rejects the emendation, but since the áviṣyantam is found in the Khila collection and in “die gute ind. Ausgabe des Pp.,” I think the reading is justifiable, esp. given the poor transmission of the Vālakhilya. The published translation should have an asterisk before “a man greedy for food.”
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der an Lobliedern nicht genug bekommt, der Kundige, der die Rishi´s aneifert, den Indra lade ein mit dem neuesten Gedicht wie den Hungrigen zum Speisen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den, welcher an Sprüchen keinen Mangel hat, den weisen, welcher den Dichter begeistert, den Indra besinge mit neuestem Liede, welcher begierig ist zu geniessen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кому не хватает гимнов,  
 Кто знаток, вдохновляющий риши,  

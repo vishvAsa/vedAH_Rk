@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उभ꣡यासो जातवेदः सियाम ते  
 स्तोता꣡रो अग्ने सूर꣡यश् च श꣡र्मणि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रजा꣡वतः सुअपत्य꣡स्य शग्धि नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वस्वः॑ । रा॒यः । पु॒रु॒ऽच॒न्द्रस्य॑ । भूय॑सः । प्र॒जाऽव॑तः । सुऽअ॒प॒त्यस्य॑ । श॒ग्धि॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ubhayāso* ← *ubhayāsaḥ* ← *ubhaya*
 - \[noun\], nominative, plural, masculine
@@ -120,41 +120,41 @@ genre M
 हे **जातवेदः** जातानां वेदितः **अग्ने** **स्तोतारः** त्वां स्तुवन्त ऋत्विजः **सूरयः** मेधाविनो यजमानाः **च** इति **उभयासः** उभये वयं **शर्मणि** सुखे निमित्तभूते सति **ते** त्वत्संबन्धिनः **स्याम** भवेम । यद्वा । ते शर्मणि स्याम । त्वं च नः अस्माकं **वस्वः** निवासहेतोर्वसिष्ठस्य **रायः** गवादिधनस्य **पुरुश्चन्द्रस्य** अतिशयेनाह्लादकस्य बहुहिरण्योपेतस्य वा **भूयसः** प्रभूतस्य **प्रजावतः** भृत्याद्युपेतस्य पुत्रादिभोगपर्याप्तस्य वा **स्वपत्यस्य** शोभनपुत्रस्य । ईदृग्रूपं धनं **नः** अस्मभ्यं **शग्धि** देहि। दातुं शक्तो भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, knowing all that is born, may we, both adorers and priests, be thine for the sake of felicity; and do you bestow upon us wealth of dwellings, of cattle, of much gold, of many dependents and virtuous offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we both, the praisers and the patrons, be in your protection, o  Agni Jātavedas.  
 Over goods and wealth—much glittering, very abundant, consisting of  offspring and good descendants—exert your control for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Knower of all that lives, O Agni may we both, singers of praise and chiefs, be in thy keeping still.  
      Help us to wealth exceeding good and glorious, abundant, rich in children and their progeny.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May we both, O Gâtavedas, the praisers and the liberal (lords), be in thy protection, O Agni. Help us to good, resplendent, abundant wealth which is accompanied by offspring, by good progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Beiderseitig, Sänger und reiche Gönner, wollen wir in deinem Schutze sein, Agni Jatavedas. Erwirk uns Gut, Reichtum, vielschimmernden, sich mehrenden, an Kindern und guter Nachkommenschaft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Wesenkenner, Agni, lass in deiner Hut uns beide stehn, die Sänger und die Opferherrn, Verleih uns Reichthum, schönen, herrlich glänzenden, Sehr vielen, der an Kindern reich und Enkeln sei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Джатаведас, да будем мы, те и другие:  
 Певцы, о Агни, и покровители, под защитой твоей!  

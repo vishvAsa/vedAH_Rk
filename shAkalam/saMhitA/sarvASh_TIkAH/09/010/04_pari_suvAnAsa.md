@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि स्वाना꣡स° इ꣡न्दवो  
 म꣡दाय बर्ह꣡णा गिरा꣡  
 सुता꣡ अर्षन्ति धा꣡रया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ताः । अ॒र्ष॒न्ति॒ । धार॑या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुवानासः** सुवाना अभिषूयमाणाः **इन्दवः** सोमाः **बर्हणा** महत्या **गिरा** स्तुतिरूपया वाचा **सुताः** अभिषुताः सन्तः **मदाय** मदार्थं **धारया** **परि** **अर्षन्ति** परितो गच्छन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** juices, when poured forth, are effused with loud praise, and proceed in a stream to excite exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While resounding [/being pressed] for exhilaration with might and song,  the drops,  
 pressed, rush around in a stream.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pun on svānā́saḥ in 1a recurs here; this time Geldner and Renou render it only as ‘pressed’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed for the gladdening draught, the drops flow forth abundantly with song,  
      The Soma juices in a stream.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Säfte, die zum Rausche ausgepreßt werden unter eifrigem Lobe, fließen ausgepreßt im Strome um.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Indutränke rinnen rings, zum Rausch erzeugt, mit Macht und Schall Im Strome die gepressten hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Капли, выжатые для опьянения,  
 Мощно, в сопровождении песни,  

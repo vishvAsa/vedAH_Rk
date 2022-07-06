@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप्सु꣡ मे सो꣡मो अब्रवीद्  
 अन्त꣡र् वि꣡श्वानि भेषजा꣡  
 अग्निं꣡ च विश्व꣡शम्भुवम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; repeated line
 अ॒ग्निम् । च॒ । वि॒श्वऽश॑म्भुवम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apsu* ← *ap*
 - \[noun\], locative, plural, neuter
@@ -88,7 +88,7 @@ popular;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ Sayana bhashya empty
 This and the following ṛcas of the **sūkta** are repetitions from RV.1. 23, 20-23; in **maṇḍala** 1, Somaspeaks to **Kaṇva**; in this present maṇḍala, Soma speaks to Āmbarīṣa **Sindhudvīpa**, a **rājā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 “Within the waters,” Soma said to me, “are all healing remedies  
 and Agni who is weal to all.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Within the Waters-Soma thus hath told me-dwell all balms that heal,  
      And Agni, he who blesseth all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In den Gewässern, so belehrte mich Soma, sind alle Arzeneien, und der allen ersprießliche Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Wasser, sagte Soma mir, ist alle Arzenei vereint Und Agni, der das All erquickt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В водах – мне сказал Сома –  
 Все целебные средства  

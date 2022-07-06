@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡स्य नून꣡म् प꣡रीणसो  
 धि꣡यो जिन्वसि दम्पते  
 गो꣡षाता य꣡स्य ते गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गोऽसा॑ता । यस्य॑ । ते॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **दंपते** यदा गार्हपत्ये वर्तसे तदा जायापतिस्वरूपोऽसि । तस्माद्दंपतिशब्देनाग्निरभिधीयते । तथाविध हे अग्ने **नूनम्** इदानीं **कस्य** कीदृशस्य जनस्य **परीणसः** बहूनि **धियः** कर्माणि **जिन्वसि** प्रीणयसि । **यस्य** **ते** तव संबन्धिन्यः **गिरः** स्तुतयः **गोसाता** गोसातौ गवां लाभे भवन्ति खलु । तस्मात्त्वं कुत्र तिष्ठसि । अस्माकमिदानीं गवेच्छा प्रवर्तते । यद्वा । हे अग्ने त्वमिदानीं कस्य कर्माणि प्रीणयसि । न कस्यापीत्यर्थः । अस्माकमेव कर्माणि प्रीणयेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,14 +91,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Lord of the house: dampate = jāyāpatisvarūpa, since it abides in the **gārhapatya** fire;whose praises are heard in the rite which brings wealth of kine
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose thoughts in profusion do you now quicken, o houselord—  
 the man whose hymns are (presented) to you at the winning of  
 cattle?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. take párīṇasaḥ as a partitive abl. (“from whose profusion do you quicken the thoughts”). My interpr. (“in profusion”) could support an adverbial ablative of this neut. noun, but I think it’s also possible that párīṇas- was reinterpr. as an adjective, on the basis of expressions like rāyā́párīṇasā (4x), originally appositives (“with wealth, with profusion”), but reanalyzable as noun-adj.
 
@@ -107,23 +107,23 @@ The standard tr. take párīṇasaḥ as a partitive abl. (“from whose profusi
 Contra the standard interpr., I do not take yásya te as coreferential, but interpret yásya as coreferential with kásya in the main clause and take te separately as either dat. or gen. My supplied “(presented)” is just there for ease of English parsing: pāda c is easily interpretable as a nominal clause, “(the man) whose hymns are for you at …” / “… whose hymns are yours …”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the house, what plenty fills the songs which thou inspirest now,  
      Thou whose hymn helps to win the kine?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus wessen Überfluß belebst du jetzt, o Hausherr, die dichterischen Gedanken, da deine Lobesworte bei der Rindergewinnung etwas gelten?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Hausherr, wessen Bitten nun erfüllst aus deinem reichen Schatz Du, dem im Kampfe Lied ertönt?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьи поэтические мысли теперь  
 Ты оживляешь полнотой (даров), о хозяин дома?  

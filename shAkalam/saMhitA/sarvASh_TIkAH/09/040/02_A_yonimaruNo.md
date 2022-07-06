@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ यो꣡निम् अरुणो꣡ रुहद्  
 ग꣡मद् इ꣡न्द्रं वृ꣡षा सुतः꣡  
 ध्रुवे꣡ स꣡दसि सीदति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ध्रु॒वे । सद॑सि । सी॒द॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अयम् **अरुणः** अरुणवर्णः सोमः **योनिं** स्थानं द्रोणकलशम् **आ** **रुहत्** आरोहति । ततः **इन्द्रं** **गमत्** गच्छति । कुतः सन् । अयं **वृषा** वर्षकः फलानां **सुतः** अभिषुतः सन् गत्वा **ध्रुवे** **सदसि** स्थिरे स्थाने द्युलोकाख्ये **सीदति** निवसति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,34 +102,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Sāmaveda** has sutam for **sutaḥ**; sīdatu for sīdati
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy one has mounted to the womb; the bull, when pressed, will go  to Indra.  
 He sits in the steadfast seat.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both Geldner and Renou treat ruhat as modal, parallel to the clear aor. subj. gámat in the following pāda (e.g., “… soll … besteigen, … soll … gehen”). But ruhat belongs to a clear them. aor. áruhat, and its zero-grade root syll. would preclude a subjunctive in any case; formally it must be an injunc. I take the sequence of verbs as referring to different stages of the ritual process, one that has just occurred, one that will now occur. Hoffmann (Injunk. 222) in fact suggests that the transmitted injunc. ruhat might represents a redactional error for ’ruhat, an augmented aor. in this sandhi context. Hoffmann’s suggestion of course results from his idiosyncratic and restrictive views on the function of the injunctive; in my opinion injunc. ruhat would work fine here as an immed. past, preceding soma’s departure for Indra. (Maur’s tr. [84] is sim. to mine.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Red hath mounted to his place; to India, goes the mighty juice:  
      He settles in his firm abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Rötliche soll seinen Platz besteigen, der ausgepreßte Bulle soll zu Indra gehen. Er setzt sich auf seinen ständigen Sitz.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der flammende bestieg den Schooss, zu Indra kam der Stier, erzeugt, Er setzt sich auf den festen Sitz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

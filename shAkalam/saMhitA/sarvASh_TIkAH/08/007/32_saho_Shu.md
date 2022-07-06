@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सहो꣡ षु꣡ णो व꣡ज्रहस्तैः  
 क꣡ण्वासो अग्नि꣡म् मरु꣡द्भिः  
 स्तुषे꣡ हि꣡रण्यवाशीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स्तु॒षे । हिर॑ण्यऽवाशीभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *saho* ← *saha*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **वज्रहस्तैः** वज्रबाहुभिः **हिरण्यवाशीभिः** । हिरण्मयी वाशी तक्षणसाधनमायुधं येषामस्ति तादृशैः । **मरुद्भिः** **सहो** सहैव वर्तमानम् **अग्निं** **नः** अस्मदीया हे **कण्वासः** कण्वाः स्तोतारः कण्वगोत्रा वा ऋषयः यूयं **स्तुषे** स्तुध्वम् । यद्वा । न इति प्रथमार्थे द्वितीया । नः वयं कण्वगोत्राः ॥  ‘ अस्मदो द्वयोश्च' (पा. सू. १. २. ५९ ) इत्येकस्मिन् बहुवचनम्। सविशेषणस्य प्रतिषेधः ' (का. १. २. ५९. १) इति तु व्यत्ययेन प्रवर्तते । स्तुषे स्तुवे ॥ स्तौतेरुत्तमैकवचने ‘सिब्बहुलम्' इति सिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you of our race of **Kaṇva** praise **Agni** together with the **Maruts**, bearing the thunderbolt in theirhands, and armed with golden lances.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Kaṇvas, for us I will praise Agni along with the Maruts, who have  maces in their hands,  
 who have golden axes.1044 VIII.8
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
 <details open><summary><h2>32-33 ...{Loading}...</h2></summary>
 
@@ -113,28 +113,28 @@ Note opening 32a #saho ṣu / 33a #o ṣu. Holland & van Nooten Rig Veda edition
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Kanvas sing forth Agni's praise together with our Maruts' who  
      Wield thunder and wear swords of gold.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 I praise, O Kaṇvas, Agni with The Maruts holding in their hands The bolt and wearing swords of gold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zusammen mit den Marut, die Keulen in der Hand und goldene Äxte tragend, will ich fein unseren Agni preisen, ihr Kanviden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni preis', o Kanva's, ich nebst unsern Maruts, die mit Blitz und goldnem Beil bewaffnet sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вместе с Марутами, у которых в руках дубины  
 (И) золотые топоры, о Канвы,  

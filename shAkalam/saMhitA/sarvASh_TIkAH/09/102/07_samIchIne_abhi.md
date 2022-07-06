@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समीचीने꣡ अभि꣡ त्म꣡ना  
 यह्वी꣡ ऋत꣡स्य मात꣡रा  
 तन्वाना꣡ यज्ञ꣡म् आनुष꣡ग् य꣡द् अञ्जते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 त॒न्वा॒नाः । य॒ज्ञम् । आ॒नु॒षक् । यत् । अ॒ञ्ज॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samīcīne* ← *samīcīna*
 - \[noun\], nominative, dual, feminine
@@ -86,21 +86,21 @@ genre M;; line affected by realignment
 स सोमः **समीचीने** परस्परं संगते **यह्वी** महत्यौ **ऋतस्य** यज्ञस्य **मातरा** निर्मात्र्यौ द्यावापृथिव्यौ **त्मना** आत्मना स्वयमेव तदा **अभि** गच्छति। **यत्** यदा **यज्ञं** **तन्वानाः** अध्वर्यवः **आनुषक्** अनुषक्तं वसतीवरीभिः **अञ्जते** सोमं मिश्रयन्ति तदा स्वयमभिगच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He of his own will approaches the great united parents of the sacrifice (heaven and earth) when (the priests) conducting the ceremony anoint him in due order with the sacred waters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward (him) the two youthfully exuberant mothers of truth  
 [=world-halves? Night and Dawn?] go, conjoined but each in her own  person—  
 when stretching the sacrifice in due order, they [=priests] anoint (him).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. does not contain an overt referent for the rel. cl. of the previous vs. Geldner, Renou, and the published translation all supply both this antecedent and a verb: “to him come.” This makes sense, but the only (indirect) support for it is abhí ‘towards’. I would be more comfortable if abhí were initial.
 
@@ -111,23 +111,23 @@ The 2nd hemistich changes subject abruptly without a signal, beyond the change i
 The fourth, short pāda superficially looks like those in vss. 4 and 5, though in opposite order—yád añjate—but it is not self-contained like them but belongs to the clause in c. Nonetheless, the positioning of yád at the beginning of the little pāda provides the same bit of distance we’ve found in most of the vss. of this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him, united, of themselves, come the young Parents of the rite,  
      When they adorn him, duly weaving sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu dem kommen vereint von selbst die beiden jüngsten Töchter und Mütter des Gesetzes herbei, wenn sie das Opfer richtig vollziehend ihn besalben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und vom vereinten Weltenpaar den regen Müttern heil'gen Werks, Die stets des Opfers Fäden ziehn, – besalbend ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К (нему устремились) сами две обьединенные (жены),  
 Две юные матери вселенского закона,  

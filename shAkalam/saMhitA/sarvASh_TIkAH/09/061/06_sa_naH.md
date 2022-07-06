@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पुनान꣡ आ꣡ भर  
 रयिं꣡ वीर꣡वतीम् इ꣡षम्  
 ई꣡शानः सोम विश्व꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 ईशा॑नः । सो॒म॒ । वि॒श्वतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -86,19 +86,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **विश्वतः** सर्वस्य जगतः **ईशानः** ईश्वरः **सः** अभिषुतः **पुनानः** पूयमानस्त्वं **नः** अस्मभ्यं **रयिं** धनं **वीरवतीं** पुत्राद्युपेतम् **इषम्** अन्नं च **आ** **भर** आहर ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, who are lord over all, the purifier, bring us riches and food with **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being purified, bring us wealth and refreshment consisting of heroes, while you hold sway everywhere, o Soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the echo across the b-c pāda boundary: … íṣam / ī́śānaḥ …
 
@@ -112,23 +112,23 @@ There are faint signs of unity in this tṛca: the word pavítram ‘filter’ i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, being purified, bring us from all sides,-for thou canst,-  
      Riches and food with hero sons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns, während du dich läuterst, Reichtum und das Labsal vieler Söhne, der du vollständig die Macht dazu hast, o Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bring uns rieselnder herbei, o Soma, heldenreiches Gut Und Labung, herrschend überall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам, очищаясь,  
 Богатство, усладу, заключающуюся в мужах,  

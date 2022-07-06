@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दभ्रं꣡ चिद् धि꣡ तुवा꣡वतः  
 कृतं꣡ शृण्वे꣡ अ꣡धि क्ष꣡मि  
 जि꣡गातु इन्द्र ते म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 जिगा॑तु । इ॒न्द्र॒ । ते॒ । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dabhraṃ* ← *dabhram* ← *dabhra*
 - \[noun\], nominative, singular, neuter
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **त्वावतः** त्वत्सदृशस्य **दभ्रं** **चित्** अल्पमपि **कृतं** कर्म **अधि** **क्षमि** क्षमायाम् । अधीति सप्तम्यर्थानुवादः । **शृण्वे** विश्रुतं भवति हि । तथा सति **ते** तव **मनः** **जिगातु** मयि गच्छतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The leastdeeds: little has been heard of as done upon earth by one such as you are (Muir, **Sanskrit** Texts, Vol. V, p.III)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For even a paltry deed of one such as you is famed on earth.  
 Let your mind go (to us?), Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 But little hath been heard of done upon the earth by one like thee i  
      Let thine heart, Indra, turn to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst eine geringe Tat von deinesgleichen wird auf Erden berühmt. Dein Sinn soll sich uns zuwenden, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn auch das kleinste, was du thust, so wie du bist, ist weltberühmt; Dir, Indra, komme kühner Muth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже малое деяние такого, как ты,  
 Становится известным на земле.  

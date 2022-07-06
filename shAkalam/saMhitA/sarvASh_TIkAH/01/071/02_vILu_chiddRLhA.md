@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वीळु꣡ चिद् दॄळ्हा꣡+ पित꣡रो न उक्थइ꣡र्  
 अ꣡द्रिं रुजन्न् अ꣡ङ्गिरसो र꣡वेण  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡हः सु꣡वर् विविदुः केतु꣡म् उस्राः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 च॒क्रुः । दि॒वः । बृ॒ह॒तः । गा॒तुम् । अ॒स्मे इति॑ । अह॒रिति॑ । स्वः॑ । वि॒वि॒दुः॒ । के॒तुम् । उ॒स्राः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vīḍu*
 - \[noun\], accusative, singular, neuter
@@ -132,7 +132,7 @@ genre M
 **नः** अस्माकं **पितरः** **अङ्गिरसः** एतत्संज्ञा ऋषयः **उक्थैः** शस्त्रैरग्निं स्तुत्वा **वीळु** **चिद्दृळ्हा**। वीळु इति बलनाम । बलवन्तं दृढाङ्गमपि **अद्रिम्** अत्तारं पणिनामानमसुरं **रवेण** स्तुतिशब्दमात्रेणैव **रुजन्** अभञ्जन्। तैः स्तुतोऽग्निस्तमसुरं हतवानित्यर्थः । किंच **बृहतः** महतः **दिवः** द्युलोकस्य **गातुं** मार्गम् **अस्मे** अस्माकं **चक्रुः** कृतवन्तः । अवरकस्यासुरस्याग्निना हतत्वात् । मार्गं कृत्वा च **स्वः** सुष्ठु अरणीयमसुरराहित्येन सुखेन प्राप्यम् **अहः** दिवसं **विविदुः** अजानन् लब्धवन्तो वा । तथा **केतुम्** अह्नां केतयितारं ज्ञापयितारमादित्यम् **उस्राः** पणिनापहृता गाश्च विविदुरित्यनुषङ्गः । वीळु । ‘सुपां सुलुक्' ' इति विभक्तेर्लुक् । दृळ्हा । ‘ दृढः स्थूलबलयोः ' (पा. सू. ७. २. २०) इति निपातितः । ‘सुपां सुलुक्' इति डादेशः। रुजन् । “ रुजो भङ्गे'। तौदादिकः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि इति अडभावः । विविदुः । ‘ विद ज्ञाने ', ' विद्लृ लाभे' इति वा । लिटि उसि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -143,34 +143,34 @@ genre M
 **Ketu** = indicator or cause of day being known; Āditya, the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even the firm fastnesses did our fathers, the Aṅgirases, break with their  hymns, and the rock with their shout.  
 They made the way of lofty heaven for us; they found the day and the  sun, the beacon of the ruddy dawn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Our sires with lauds burst e'en the firm-set fortress, yea, the Angirases, with roar, the mountain.  
      They made for us a way to reach high heaven, they found us day, light, day's sign, beams of morning.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Our fathers, the Aṅgiras 1, have broken even the strong fortresses by their hymns, the rock by their shouting. They have opened to us the path of the great heaven; they have obtained day and sun and the shine of the dawn 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Unsere Väter, die Angiras´ haben durch ihre Lieder selbst die starken Bollwerke, den Fels mit lautem Ruf erbrochen. Sie haben für uns den Gang des hohen Himmels hergestellt: sie haben den Tag, die Sonne, das Wahrzeichen der Morgenröte gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die festen Burgen brachen unsre Väter durch Spruch den Fels die Angiras mit Krachen; Sie bahnten uns den Weg zum hohen Himmel, und fanden Tag und Sonne, Licht und Morgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже крепкие твердыни отцы наши Ангирасы  
 Проломили гимнами, (а) скалу – ревом.  

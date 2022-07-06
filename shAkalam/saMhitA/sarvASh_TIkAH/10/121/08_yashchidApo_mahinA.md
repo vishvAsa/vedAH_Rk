@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡श् चिद् आ꣡पो महिना꣡ पर्य꣡पश्यद्  
 द꣡क्षं द꣡धाना जन꣡यन्तीर् यज्ञ꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यः । दे॒वेषु॑ । अधि॑ । दे॒वः । एकः॑ । आसी॑त् । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -125,7 +125,7 @@ popular;; repeated line
 **यज्ञं** यज्ञोपलक्षितं विकारजातं **जनयन्तीः** उत्पादयन्तीः तदर्थं **दक्षं** प्रपञ्चात्मना वर्धिष्णुं प्रजापतिमात्मनि **दधानाः** धारयित्रीः ॥ दधातेर्हेतौ शानच् । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥ ईदृशीः **आपः** । व्यत्ययेन प्रथमा । अपः प्रलयकालीनाः **महिना** महिम्ना । छान्दसो मलोपः। स्वमाहात्म्येन **यश्चित्** यश्च प्रजापतिः **पर्यपश्यत्** परितो दृष्टवान् **यः** च **देवेष्वधि** देवेषु मध्ये **देवः** तेषामपीश्वरः सन् **एकः** अद्वितीयः **आसीत्** भवति ॥ अस्तेश्छान्दसो लङ। ' अस्तिसिचोऽपृक्ते ' (पा. सू. ७. ३. ९६ ) इतीडागमः ॥ तस्मै **कस्मै** इत्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ popular;; repeated line
 **Dakṣa** = **Prajāpati**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who by his greatness surveyed the waters receiving (ritual) skill (as an  embryo) and giving birth to the sacrifice;  
 who, the god over gods, alone existed. – Who is the god to whom we  should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He in his might surveyed the floods containing productive force and generating Worship.  
      He is the God of gods, and none beside him. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in seiner Größe sogar die Gewässer überschaute, die den Daksa empfingen und das Opfer erzeugten, welcher der alleinige Gott über den Göttern war. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der auch die Wasser mächtig überschaute, die kräftig wurden und das Opfer zeugten, Ab ein'ger Gott die Götterschar beherrschte, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто в (своем) величии охватывал взором воды,  
 Зачинающие Дакшу, порождающие жертву,  

@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡न्ति हि꣡ अर्य꣡ आशि꣡ष  
 इ꣡न्द्र आ꣡युर् ज꣡नाना᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 धुक्ष꣡स्व पिप्यु꣡षीम् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 अ॒स्मान् । न॒क्ष॒स्व॒ । म॒घ॒ऽव॒न् । उप॑ । अव॑से । धु॒क्षस्व॑ । पि॒प्युषी॑म् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *santi* ← *as*
 - \[verb\], plural, Present indikative
@@ -99,37 +99,37 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Our prayers abide in the true one, in **Indra** is the life of men; draw near to us, **Maghavan**, for ourprotection; milk for the streaming drink.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For the hopes of the stranger come true: in Indra is the lifetime of the  peoples.  
 Approach us, to help, bounteous one. Milk out swelling refreshment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg, Geldner, Thieme (Fremd. 26), I read aryáḥ against Pp. aryé.
 
 In b índra can stand for either índraḥ or índre. Either will work; I have chosen (with Geldner) the locative, but see Thieme’s “Indra ist das Leben der Leute.” ## 055 Dānastuti
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch der Standesgenosse hat Wünsche, bei Indra steht das Leben der Menschen. Komm zu uns, Freigebiger, zur Gnade, laß strotzende Nahrung aus dir melken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum treuen Indra geht der Wunsch der Menschen hin um Lebenskraft. O reicher, komme du zu unserm Beistand her, lass strömen reichen Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь желания есть и у чужого,  
 От Индры (зависит) срок жизни людей.  

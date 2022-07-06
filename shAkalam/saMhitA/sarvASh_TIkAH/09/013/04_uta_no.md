@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ नो वा꣡जसातये  
 प꣡वस्व बृहती꣡र् इ꣡षः  
 द्युम꣡द् इन्दो सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्यु॒ऽमत् । इ॒न्दो॒ इति॑ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -83,7 +83,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उत** अपि च **नः** अस्माकं **वाजसातये** अन्नलाभाय हे **इन्दो** सोम **बृहतीरिषः** महतीः रसधाराः **द्युमत्** दीप्तिमत् **सुवीर्यं** शोभनसामर्थ्यं च **पवस्व** क्षर । शोभनसामर्थ्योपेता धाराः पवस्वेत्यर्थः । अथवा । वाजसातये संग्रामाय बृहतीरिषो द्युमत् सुवीर्यं संपादयितुं पवस्वेति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,37 +94,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Here vājasātaye may also be rendered 'for battle'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And for us to win the prize, by purifying yourself (bring) lofty  
 refreshments  
 and a heaven-bright abundance of heroes, o drop.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The chaining continues, with vā́jasātaye likewise ending pāda a of this vs.; see also 6b.
 
 √pū + ACC (here pávasva … íṣaḥ [etc.]) should rightly have the preverb ā́in the idiom ‘bring through purification’; see esp. Renou’s n. In tr. I have supplied it, partly on the assumption that since this hymn is constructed of ready-made phrases, this pāda may have been adapted from a context where the previous pāda contained the ā́in tmesis. Renou also points out that the construction here can be under the influence of pávantām ā́in 5b. I do not follow Renou in seeing √pū without preverb as becoming indiscrinimately transitive in IX, with the sense ‘couler’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, as thou flowest bring great store of food that we may win the spoil  
      Indu, bring splendid manly might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und läutere uns große Labe zu, um den Siegerpreis zu gewinnen, glänzende Meisterschaft, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und riesle uns zum Opferwerk, o Indu, reiche Tränke zu Und glanzbegabte Heldenmacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А также для захвата добычи нам  
 Очищайся, (принося) высокие услады,  

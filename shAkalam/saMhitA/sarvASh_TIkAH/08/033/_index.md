@@ -8,7 +8,7 @@ title = "+033"
 ‘वयं घ त्वा' इत्येकोनविंशत्यृचं तृतीयं सूक्तं काण्वस्य मेध्यातिथेरार्षं बृहतीच्छन्दस्कम् । षोडश्याद्यास्तिस्रो गायत्र्य एकोनविंश्यनुष्टुप् । इन्द्रो देवता । तथा चानुक्रान्तं- ‘ वयं घैकोना मेध्यातिथिर्बार्हतं त्रिगायत्र्यनुष्टुबन्तम् ' इति । महाव्रते निष्केवल्ये बार्हततृचाशीतावादितः पञ्चदशर्चः । तथैव पञ्चमारण्यके शौनकेन सूत्र्यते- ‘ वयं घ त्वा सुतावन्त इति पञ्चदश मो षु त्वा वाघतश्चनेत्येतस्य द्विपदां चोद्धरति ' ( ऐ. आ. ५, २. ४ ) इति । चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रे  ‘ वयं घ त्वा ' इति तृचो वैकल्पिकः स्तोत्रियः । तथा च सूत्रं - ‘ वयं घ त्वा सुतावन्तः क ईं वेद सुते सचा ' ( आश्व. श्रौ. ७. ४ ) इति । स्वरसाम्न्ययमेव तृचोऽनुरूपः । सूत्रितं च -- वयं घ त्वा सुतावन्त इति तिस्रो बृहत्यः ' ( आश्व. श्रौ. ८. ५) इति । तस्मिन्नेव शस्त्रे ‘ क ईं वेद' इति वैकल्पिकोऽनुरूपः । सूत्रमुक्तमेव ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 33 (653)  
 Indra  
@@ -20,7 +20,7 @@ less ascribes to Indra’s leadership. In verse 16 the poet complains that an un
 It is not entirely clear why this curious sequence is found tacked onto an other wise ordinary Indra hymn. It occupies the position often taken by a dānastuti, and  of course dānastutis often display a linguistic register similar to what is found here,  slangy and colloquial vocabulary, syntactically informal direct speech, and sexual  innuendo. It has been suggested that it is a sort of anti-dānastuti, a “satire” in the  technical sense. This is an appealing explanation for its position in the hymn, but  with the proviso that, at least in our interpretation, the target of the satire is clearly  not the poet’s patron (stingy or not), but a fellow ritualist.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

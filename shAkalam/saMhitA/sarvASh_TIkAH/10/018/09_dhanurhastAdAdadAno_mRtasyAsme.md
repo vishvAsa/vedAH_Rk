@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध꣡नुर् ह꣡स्ताद् आद꣡दानो मृत꣡स्य  
 अस्मे꣡ क्षत्रा꣡य व꣡र्चसे ब꣡लाय  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा स्पृ꣡धो अभि꣡मातीर् जयेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अत्र॑ । ए॒व । त्वम् । इ॒ह । व॒यम् । सु॒ऽवीराः॑ । विश्वाः॑ । स्पृधः॑ । अ॒भिऽमा॑तीः । ज॒ये॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dhanur* ← *dhanuḥ* ← *dhanus*
 - \[noun\], accusative, singular, neuter
@@ -127,41 +127,41 @@ popular
 **मृतस्य** क्षत्रियस्य **हस्तात्** **धनुः** **आददानः** । किमर्थम् । **अस्मे** अस्माकं **क्षत्राय** प्रजापालनसमर्थाय बलाय **वर्चसे** तेजसे **बलाय** सेनालक्षणाय च धनुराददानोऽहं ब्रवीमीति शेषः। किमिति । **त्वम्** **अत्रैव** अस्मिन् स्थान एव भव **वयं** च **इह** अस्मिँल्लोके **सुवीराः** सुपुत्रयुक्ता भवन्तः **विश्वाः** सर्वान् अभिमातीः अभिमन्यमानान् **स्पृधः** संघर्षयितॄन् बाधकान् शत्रून् **जयेम** सहेमहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Taking his bow from the **hand** of the dead man, for the sake of our vigour, energy and strength, (I say)you are there; may we (who are) here, blessed with **male** offspring, overcome all the enemies who assail us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Taking the bow from the hand of the dead for our dominion, luster,  and strength,  
 you there and we here—may we with good heroes win all contests and  hostile engagements.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From his dead hand I take the bow be carried, that it may be our power and might and glory.  
      There art thou, there; and here with noble heroes may we o'ercome all hosts that fight against us.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 From the dead hand I take the bow he wielded, To win for us dominion, might, and glory. Thou there, we here, rich in heroic offspring, Will vanquish all assaults of every foeman.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Bogen aus der Hand des Toten nehmend, uns zur Macht, zum Ansehen, zur Stärke sage ich: Du dort, wir hier, wir wollen als Meister alle Eifersucht und Anschläge besiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Bogen nehm' ich aus der Hand des Todten, für uns zur Herrschaft, uns zu Glanz und Stärke; Du dort und wir hienieden tapfre Helden, wir wollen schlagen jedes Feindes Angriff.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Беря лук из руки мертвого,  
 Ради нашего господства, ради почета, ради силы, (я говорю:)  

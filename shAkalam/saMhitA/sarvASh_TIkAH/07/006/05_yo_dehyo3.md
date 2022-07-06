@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ देहि꣡यो अ꣡नमयद् वधस्नइ꣡र्  
 यो꣡ अर्य꣡पत्नीर् उष꣡सश् चका꣡र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡शश् चक्रे बलिहृ꣡तः स꣡होभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । नि॒ऽरुध्य॑ । नहु॑षः । य॒ह्वः । अ॒ग्निः । विशः॑ । च॒क्रे॒ । ब॒लि॒ऽहृतः॑ । सहः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,7 +134,7 @@ genre M
 **यः** अग्निः **देह्यः** देहीरुपचिताः आसुरीर्विद्याः **वधस्नैः** वधैरायुधैर्वा **अनमयत्** हीना अकरोत् । **यः** च **अर्यपत्नीः** । अर्यः सूर्यः पतिर्यासां ता अर्यपत्न्यः । ताः **उषसश्चकार** अकरोत् **सः** **यह्वः** महान् **अग्निः** **विशः** प्रजाः **सहोभिः** बलैः **निरुध्य** **नहुषः** राज्ञः **बलिहृतः** करप्रदाः **चक्रे** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,29 +145,29 @@ genre M
 Baffled: dehyo anamayat, has bowed or hukbled; dehyaḥ dehairūpacita, connected with, or collectedbodies; **āsurī** **vidyā**, the learning or science of the asuras
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who bent the ramparts by his deadly weapons, who made the Dawns to  have our compatriot [=Agni] as their husband,  
 he, the young Agni, having halted the (clans) of Nahuṣ, made (those)  clans give tribute through his powers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who brake down the walls with deadly weapons, and gave the Mornings to anoble Husband,  
      Young Agni, who with conquering strength subduing the tribes of Nahus made them bring their tribute.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der die Mauern weichen machte durch seine Waffen, der den Usas´ ihren rechtmäßigen Gatten gab, Agni, der Jüngste, machte durch seine Übermacht die Stämme des Nahus tributpflichtig, nachdem er sie niedergehalten hatte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der mit Keulen niederschlug die Wälle, sich fest vermählte mit den Morgenröthen, Der niederhielt mit Kraft die Nachbarvölker und sie durch Siege zinsbar machte, Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (своим) смертельным оружием заставил склониться (крепостные) валы,  
 Кто утренние зори сделал женами благородного,  

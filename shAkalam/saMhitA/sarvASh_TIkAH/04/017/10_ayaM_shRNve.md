@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ शृण्वे अ꣡ध ज꣡यन्न् उत꣡ घ्न꣡न्न्  
 अय꣡म् उत꣡ प्र꣡ कृणुते युधा꣡ गाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वं दॄळ्ह꣡म्+ भयत ए꣡जद् अस्मात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 य॒दा । स॒त्यम् । कृ॒णु॒ते । म॒न्युम् । इन्द्रः॑ । विश्व॑म् । दृ॒ळ्हम् । भ॒य॒ते॒ । एज॑त् । अ॒स्मा॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -151,20 +151,20 @@ genre M
 **अध** अपि च **अयम्** इन्द्रः **जयन्** शत्रून् विजयन् **शृण्वे** श्रूयते । सर्वत्र प्रख्यातो भवति । **उत** अपि च **घ्नन्** शत्रून् हिंसन् सर्वत्र श्रूयते । **उत** अपि च **अयम्'** इन्द्रः **युधा** युद्धेन **गाः** पशून् **प्र** **कृणुते** शत्रुसकाशात् आहरति । किंच **इन्द्रः** **यदा** **मन्युं** कोपं **सत्यम्** एव **कृणुते** द्विषदर्थं करोति तदानीं **दृळ्हं** दृढं स्थिर स्थावररूपम् **एजत्** कम्पमानं जङ्गमरूपं च **विश्वं** समस्तं जगत् **अस्मात्** इन्द्रात् **भयते** बिभेति ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Indra**), is renowned, whether conquering or slaying (his foes), or whether in conflict he recovers the cattle; when Indra truly entertains anger all that is stationary or moveable is in fear of him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And this one is famed for conquering and smiting, and this one brings  the cows forward to become his through battle.  
 When Indra makes his fury real, everything, both what stays firm and  what flinches, becomes afraid before him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The sense of ádha here is somewhat unclear and its position anomalous, as it is generally, though not invariably, clause-initial. Klein (DGRM II.97) notes its medial position but considers it to have the usual sense he assigns to ádha, namely ‘therefore’. This passage is reminiscent of VII.34.2 śṛṇvánty ā́po ádha kṣárantīḥ, where ádha likewise appears mid-clause and before a pres. participle (as well as after a form of √śru, though act., not pass. as here). My sense is that ádha in both passages introduces a participial addition that clarifies or modifies the sense of the main verb, hence a sort of mini-clause.
 
@@ -181,23 +181,23 @@ This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Renowned is he when conquering and when slaying: 'fis he who winneth cattle in the combat.  
      When Indra hardeneth his indignation all that is fixed and all that moveth fear him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist darum bekannt als der Siegende und Schlagende und er treibt durch Kampf die Rinder fort. Wenn Indra seinen Eifer wahr macht, dann fürchtet sich vor ihm alles Feste und Bewegliche.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er wird gerühmt als der, der siegt und tödtet, er ist's, der sich durch Kampf verschafft die Kühe; Sobald nur seinen Zorn zur That macht Indra, erbebt vor ihm, was fest ist, was beweglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он поэтому слывет победителем и убийцей,  
 А также он с боем добывает коров.  

@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एत꣡म् उ त्य꣡म् मदच्यु꣡तं  
 सह꣡स्रधारं वृषभं꣡ दि꣡वो दुहुः  
 वि꣡श्वा व꣡सूनि बि꣡भ्रतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑ । वसू॑नि । बिभ्र॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
@@ -95,20 +95,20 @@ genre M
 **दिवः** देवान् कामयमाना ऋत्विजः **एतं** **त्यं** तमिमं सोममेव **दुहुः** दुदुहुः दुहन्ति । ‘ ग्रावाणो वत्सा ऋत्विजो दुहन्ति' (तै. सं. ६. २. ११. ४ ) इति तैत्तिरीयकब्राह्मणम् । कीदृशं सोमम् । **मदच्युतं** मदस्य प्रेरकं **सहस्रधारं** बहुधारं **वृषभं** कामानां वर्षकं **विश्वा** सर्वाणि **वसूनि** धनानि **बिभ्रतं** धारयन्तं सोमं दुहन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Him have they milked from heaven, the shedder of exhilarating juice, the thousand-streamed, the showerer (of benefits), bearing all treasures.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have milked out of the heavens this thousand-streamed bull, who  arouses exhilaration,  
 who brings all good things.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accentuation of dívaḥ poses problems. Pace Geldner (n. 11b), who considers dívaḥ a gen. sg. with unusual accent, I take it as acc. pl. (flg. Oldenberg, in turn fld. by Renou and Lüders 202). Given the correctly accented gen./abl. sg. diváḥ in the immediately preceding vs. (10c), it is hard to believe that the poet would get the accent wrong, esp. in this exceptionally common form. As Oldenberg suggests, √duh takes a double acc. here. On dívaḥ as acc. pl., see also AiG III.226-27.
 
@@ -123,23 +123,23 @@ These two vss. are syntactically independent but both concern Soma as bull (vṛ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They have drained him the Steer of heaven, him with a thousand streams, distilling rapturous joy,  
      Him who brings all things excellent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eben diesen rauscherregten tausendstrahligen Bullen des Himmels haben sie gemolken, der alle Schätze bringt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie molken diesen Himmelsstier, der Rausch erregt und der in tausend Strömen fliesst, Den alle Güter tragenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они подоили небеса (, чтобы получить) вот этого  
 Вызывающего опьянение быка с тысячей потоков,  

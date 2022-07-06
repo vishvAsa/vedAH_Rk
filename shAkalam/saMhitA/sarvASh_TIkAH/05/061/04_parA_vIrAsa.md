@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रा वीरास एतन  
 म꣡र्यासो भ꣡द्रजानयः  
 अग्नित꣡पो य꣡था꣡सथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्नि॒ऽतपः॑ । यथा॑ । अस॑थ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parā*
 - \[adverb\]
@@ -76,20 +76,20 @@ genre M
 कशाताडनादिलिङ्गेन जिगमिषून् मत्वा ब्रूते । हे **वीरासः** वीराः अमित्राणामीरयितारो हे **मर्यासः** मर्त्येभ्यो हिता हे **भद्रजानयः** । भद्रः स्तुत्यो जानिर्जन्म येषां ते तथोक्ताः । रुद्रपुत्राः इत्यर्थः । **अग्नितपः** अग्निना तप्तास्ताम्रादयः **यथा** दीप्तास्तद्वत् प्रदीप्ताः **असथ** भवथ । अथवाग्नितप्ता दग्धदेहा यथा पलायन्ते तथा भवथेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Heroes, friendly to man, of honourable birth, you are as if blazing with fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Go forth, heroes, you young bloods with lucky women,  
 so that you will be hot as fire.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The 2nd pl. impv. etana shows an unexpected full-grade root syllable in the Saṃhitā text, but is read with metrically problematic but morphologically “correct” zero-grade in the Pp (itana). Of course, such full-grade 2nd pl. impvs. are found elsewhere, but in this case I wonder if it’s a secondary extraction from forms cmpded with the preverb ā́, as in V.87.8, also a Marut hymn, with pāda-final étana. See also disc. ad VI.42.2.
 
@@ -107,23 +107,23 @@ simplex, we should presumably resist the temptation to emend.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go ye, O Heroes, far away, ye bridegrooms with a lovely Spouse  
      That ye may warm you at the fire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zieht fort, ihr Männer, ihr Jünglinge mit der schönen Frau, daß ihr heiß wie Feuer werdet!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geht hin, o Männer, ihr Gatten, die ihr schöne Frauen habt, damit ihr euch am Feuer wärmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь уезжайте, о мужи,  
 О юноши с прекрасной женой,  

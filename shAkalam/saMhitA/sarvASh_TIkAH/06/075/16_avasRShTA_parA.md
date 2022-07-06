@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वसृष्टा प꣡रा पत  
 श꣡रव्ये ब्र꣡ह्मसंशिते  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 मा꣡मी꣡षां कं꣡ चनो꣡च् छिषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 गच्छ॑ । अ॒मित्रा॑न् । प्र । प॒द्य॒स्व॒ । मा । अ॒मीषा॑म् । कम् । च॒न । उत् । शि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *avasṛṣṭā* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
@@ -110,40 +110,40 @@ popular;; epic anuṣṭubh (525)
 **ब्रह्मसंशिते** मन्त्रेण तीक्ष्णीकृते **शरव्ये** हिंसाकुशले इषो त्वम् **अवसृष्टा** क्षिप्ता **परा** **पत** परागच्छ । इतो देशात् **गच्छ** च । **अमित्रान्** हिंसकान् **प्र** **पद्यस्व** प्राप्नुहि च ।  **अमीषाम्** अमित्राणां मध्ये **कं** **चन** कंचिदपि **मा** **उच्छिषः** अवशिष्टं मा कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Arrow, wheted by charms, fly when discharged; go light among the adversaries, spare not one of the enemy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Once released, fly away, you arrow, sharpened by a sacred formulation. Go to the enemies; fall on them. Do not leave a single one of them  standing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 amī́ṣām is of course the gen. pl. of the far deictic prn. asaú and could be more literally tr. as “do not leave a single one of those yonder standing,” but this seemed a bit heavy.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loosed from the Bowstring fly away, thou Arrow, sharpened by our prayer.  
      Go to the foemen, strike them home, and let not one be left alive.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Abgeschossen fliege, o Pfeil, durch Segensworte geschärft fort! Geh, erreiche die Feinde, laß keinen von jenen übrig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du abgeschossener, fliege fort, du, durch Gebet geschärfter Pfeil, geh vor, die Feinde falle an; lass keinen übrig von der Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Лети прочь, когда (тебя) выпустят,  
 О стрела, отточенная заговором!  

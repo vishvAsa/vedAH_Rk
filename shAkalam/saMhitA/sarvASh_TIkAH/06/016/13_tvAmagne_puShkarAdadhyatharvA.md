@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्वा꣡म् अग्ने पु꣡ष्कराद् अ꣡धि  
 अ꣡थर्वा नि꣡र् अमन्थत  
 मूर्ध्नो꣡ वि꣡श्वस्य वाघ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मू॒र्ध्नः । विश्व॑स्य । वा॒घतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **अथर्वा** एतत्संज्ञक ऋषिः **त्वां** **पुष्करादधि** पुष्करपर्णे **निरमन्थत** । अरण्योः सकाशात् अजनयत् । कीदृशात् पुष्करात् । **मूर्ध्नः** मूर्धवद्धारकात् **विश्वस्य** सर्वस्य जगतः **वाघतः** वाहकात् । पुष्करपर्णे हि प्रजापतिर्भूमिमप्रथयत् ' तत्पुष्करपर्णेऽप्रथयत्' ( तै. ब्रा. १.१.३.६ ) इति श्रुतेः ॥ भूमिश्च सर्वजगत आधारभूतेति पुष्करपर्णस्य सर्वजगद्धारकत्वम् । अत्र पुष्करशब्देन पुष्करपर्णमभिधीयत इति । एतच्च तैत्तिरीयके विस्पष्टमाम्नातं- ‘ त्वामग्ने पुष्करादधीत्याह पुष्करपर्णे ह्येनमुपश्रितमविन्दत् ' ( तै. सं. ५.१.४.४ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ Tvam puṣkarād **adhi** atharvo nirmanthata, murdhno viṣvasya vāghataḥ: p
 Vāghata = **ṛtvij**, the ministrant priest; so the sentence is explained: all the priests churned you out of the head or top of the wood of attrition
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, did Atharvan churn forth from the lotus,  
 (did) the liturgists (churn) from the head of the whole (world?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the ritual use of the lotus and the relevance of this vs., see Krick (Feuergründung, 155-59), where (155) she calls this vs. “die Primärquelle für die Verwendung eines Lotusblattes im Feuerritual.” In c vāghátaḥ can be gen. sg. or nom. pl. (as I take it, with Geldner and Renou). Since I don’t know what’s going on here, I would certainly not exclude the gen. sg.: “… (churned) from the head of every vāghát” (so Krick 297) It is perhaps relevant that víśvasya vāghátaḥ phonologically echoes víśvasya jágataḥ “of the whole world” (I.101.5, IV.13.3, VI.50.7, VII.60.2, 101.2, X.73.8).
 
@@ -117,23 +117,23 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, Atharvan brought thee forth, by rubbing, from the lotus-flower,  
      The head of Visva, of the Priest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich, Agni, rieb Atharvan aus der Lotusblume, dich die Priester aus dem Haupt der ganzen Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich, Agni, zog Atharvan her durch Reiben aus dem Himmelskelch, Dem Haupte jedes Betenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя, о Агни, из лотоса  
 Добыл трением Атхарван,  

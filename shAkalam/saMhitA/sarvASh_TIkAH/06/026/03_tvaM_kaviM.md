@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ कविं꣡ चोदयो अर्क꣡सातौ  
 तुवं꣡ कु꣡त्साय शु꣡ष्णं दाशु꣡षे वर्क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अतिथिग्वा꣡य शं꣡सियं करिष्य꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वम् । शिरः॑ । अ॒म॒र्मणः॑ । परा॑ । अ॒ह॒न् । अ॒ति॒थि॒ऽग्वाय॑ । शंस्य॑म् । क॒रि॒ष्यन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -116,7 +116,7 @@ genre M
 हे इन्द्र **त्वम्** **अर्कसातौ** अन्नलाभार्थं **कविं** भार्गवमृषिं **चोदयः** अचोदयः । प्रैरयः । किंच हे इन्द्र **त्वं** **दाशुषे** हविर्दत्तवते **कुत्साय** **शुष्णम्** असुरं **वर्क्** छेदितवानसि ॥ वर्क् इति वृणक्छेदनार्थस्य लुङि रूपम् ॥ तथा **त्वम्** **अतिथिग्वाय** अतिथीनामभिगन्त्रे दिवोदासाय **शंस्यं** स्तुत्यं सुखं **करिष्यन्** **अमर्मणः** मर्महीनमात्मानं मन्यमानस्य शम्बरस्थ **शिरः** शीर्षं **पराहन्** अवधीः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,13 +127,13 @@ genre M
 Imagining himself invulnerable: amarmaṇaḥ = marmahīnam ātmānam manyamānasya, of him thinking himself devoid of any fatally vulnerable part
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You spurred the poet [=Uśanā Kāvya] on at the winning of the (sun’s)  rays. You wrung out Śuṣṇa for the pious Kutsa.  
 You struck far away the head of the invulnerable one, intending to do (a  deed) worthy to be proclaimed for Atithigva.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As discussed ad VI.20.4, the three occurrences of arká-sāti- ‘the winning of the sun’s rays’ (I.174.7, VI.20.4, and here) are all found in conjunction with a poet (kaví-) and in connection with the Kutsa / Śuṣṇa myth. These associations point fairly decisively to Uśanā Kāvya as the poet in question.
 
@@ -150,23 +150,23 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou didst impel the sage to win the daylight, didst ruin Susna for the pious Kutsa.  
      The invulnerable demon's head thou clavest when thou wouldst win the praise of Atithigva.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du ermutigtest den Kavi im Kampf um die Sonne, du rangst für den opferwilligen Kutsa mit Susna. Du schlugst das Haupt des Unverwundbaren ab, um für Atithigva eine rühmliche Tat zu vollbringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Sänger schärftest du bei Liederfindung, dem frommen Kutsa warfst du hin den Çuschna, Schlugst ab den Kopf dem, welcher unverwundbar, um Huld dem Atithigva zu erweisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты вдохновил мудреца в борьбе за солнце,  
 Ты поверг ниц Шушну ради почитавшего (тебя) Кутсы.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तीव्राः꣡ सो꣡मास आ꣡ गहि  
 सुता꣡सो मादयिष्ण꣡वः  
 पि꣡बा दधृ꣡ग् य꣡थोचिषे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पिब॑ । द॒धृक् । यथा॑ । ओ॒चि॒षे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tīvrāḥ* ← *tīvra*
 - \[noun\], nominative, plural, masculine
@@ -81,41 +81,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **तीव्राः** तीव्रमदाः । क्षिप्रं मदकारिण इत्यर्थः । **मादयिष्णवः** मादनशीला मादनकारिणो वेमे **सोमासः** सोमाः **सुतासः** त्वदर्थमभिषुताः । तस्मात् **आ** **गहि** अस्मदीयं यज्ञं प्रत्यागच्छ । आगत्य च तान् **पिब** । सोमपाने कारणमाह । त्वं **यथा** **दधृक्** धृष्टस्तत्प्रीतौ प्रगल्भः संस्तान् **ऊचिषे** समवैषि सेवसे । ततस्तान यथाकामं पिबेत्यर्थः । दृधृगिति ‘ञिधृषा प्रागल्भ्ये' इत्यस्मात्  ‘ ऋत्विग्दधृक् ' इत्यादिना क्विन्प्रत्ययान्तो निपात्यते । ऊचिषे ।' उच समवाये । छान्दसे लिटि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come here, the strong intoxicating **Soma** is effused; drink, since you are boldly devoted to it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sharp are the soma-drinks. Come here! The pressed drinks are ready to  exhilarate.  
 Drink heartily as you are accustomed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 ukthā́bráhma ca), as well as the overfull VI.38.4 bráhma gíra ukthā́ca mánma. Note that VIII.1.1 múhur ukthā́ca śaṃsata also contains ukthā́ca with ca in the wrong position and not clearly conjoining anything, though there it is easier to interpret it as conjoining two modally harmonious clauses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong are the Soma-draughts; come nigh: the juices fill thee with delight:  
      Drink boldly even as thou art wont'.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Scharf sind die Soma´s, komm her! Berauschend sind die ausgepreßten; trink herzhaft, wie du gewohnt bist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Scharf sind die Soma's, komme her, berauschende sind ausgepresst, So trinke herzhaft, wie du magst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

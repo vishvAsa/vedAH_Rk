@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वीर꣡म् उग्रं꣡ वि꣡विचिं धनस्पृ꣡तं  
 वि꣡भूतिं रा꣡धसो महः꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 स꣡दा पीपेथ दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 उ॒द्रीऽइ॑व । व॒ज्रि॒न् । अ॒व॒तः । व॒सु॒ऽत्व॒ना । सदा॑ । पी॒पे॒थ॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -110,37 +110,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise the mighty hero, wide-grasping, spoil-harrying, who has control over vast treasure; you, Othunderer ever pour forth wealth to the worshipper like an abundan fountain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Chant) forth to the powerful hero, the discriminating one who gains  the stakes, the distinguished one of great generosity.  
 Like a wellspring full of water, mace-bearer, you always swell goods for  the pious man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two versions are closer together than the last few verses: 49a ugráṃ ná vīrám / 50a prá vīrám ugrám / b: víbhūtim / c: udrī́va vajrinn avató. In addition 49b has -vasum and 50c vasutvanā́, and 49d is almost identical to 50.4b.
 
 I supply árcā on the basis of prá and vs. 1, but any verb of praising or the like will do.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den gewaltigen, wählerischen Helden, den Schätzgewinner, der großer Gabe mächtig ist, lobe ich. Wie ein wasserreicher Brunnen quollst du immer für den Opferspender von Freigebigkeit, o Keulenträger.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Helden preist, der viel umfasst und Beute macht, der über grossen Schatz verfügt; Stets strömst von Gut du wie ein wasserreicher Quell, für den Verehrer, Blitzes Herr!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Я) про(славляю) грозного мужа, разборчивого, захватывающего богатства,  
 Могучего от великого дарения.  

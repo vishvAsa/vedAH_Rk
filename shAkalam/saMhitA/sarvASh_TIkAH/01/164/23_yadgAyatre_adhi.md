@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् गायत्रे꣡ अ꣡धि गायत्र꣡म् आ꣡हितं  
 त्रइ꣡ष्टुभाद् वा त्रइ꣡ष्टुभं निर꣡तक्षत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡ इ꣡त् त꣡द् विदु꣡स् ते꣡ अमृतत्व꣡म् आनशुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 यत् । वा॒ । जग॑त् । जग॑ति । आऽहि॑तम् । प॒दम् । ये । इत् । तत् । वि॒दुः । ते । अ॒मृ॒त॒ऽत्वम् । आ॒न॒शुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -141,7 +141,7 @@ popular
 **गायत्रे** **अधि** **गायत्रमाहितम्** प्राथम्यात सर्वैः स्तुत्यत्वाच्च गायत्री भूः । तदीयं स्थानं गायत्रम् । अधि उपरि तत्र गायत्रम् आग्नेयं पदम् आहितम् । प्रथमसृष्टत्वात् गायति त्रायते च इति व्युत्पत्त्या च प्रजापतेर्मुखात् गायत्र्या सह उत्पन्नत्वात् भक्त्या अग्निरपि गायत्रः।  ‘ गायत्रोऽग्निः । (तै. सं. २. २. ५, ५) इति श्रुतेः । भूम्यामग्निः स्थापितः इति **यत्** अस्ति । तथा **त्रैष्टुभात्** द्वितीयत्वात् वृष्टिपर्जन्यविद्युद्रूपत्रिस्तोभयुक्तात् अन्तरिक्षात् **त्रैष्टुभं** स्तोभयुक्तम् ऊर्ध्वाधस्तिर्यग्लक्षणस्तोभत्रयोपेतं वायुं **निरतक्षत** साधु संपादितवन्तो देवाः इति यदस्ति । **वा** अथवा **जगति** सर्वैर्गन्तव्ये उद्गततमे वा तृतीयभूते द्युलोके **जगत्** गमनशीलम् आदित्याख्यं **पदम्** **आहितम्** इति **यत्** अस्ति । **तत्** इदं त्रिषु स्थानेषु त्रयाणामग्न्यादीनां पदाधानं **य** **इत्** ये एव नराः **विदुः** जानन्ति **ते** एव **अमृतत्वमानशुः** अमरणरूपं पदमाप्नुवन्ति । इत्यधिलोकम् । अथाधियज्ञम् । गायत्रे प्रातःसवने अधि उपरि गायत्रं छन्दः पदमाहितमिति यत् । तथा त्रैष्टुभात् माध्यंदिनात् सवनात् त्रैष्टुभं छन्दो निरतक्षत तत्र आहितमिति यत् । वा किंचेत्यर्थः। जगति तृतीयसवने जगत् जागतं पदमाहितमिति यत् । तत्तादृशं सवनत्रयेषु छन्दस्त्रयसंस्थानं ये नरा विदुः यजमाना विदुः जानन्ति ते अमृतत्वं ज्ञानानुष्ठानद्वारेण" मोक्षम् आनशुः आप्नुवन्ति । अथवा गायत्रे प्रातःसवने । त्रिषु सवनेषु छन्दस्त्रयपरिमाणात् सवनान्यपि तत्तच्छन्दःशब्देनोच्यन्ते । ‘गायत्रं प्रातःसवनं त्रैष्टुभं माध्यंदिनं सवनं जागतं तृतीयसवनम्' (तै. स. २. २. ९. ५-६ ) इति श्रुतेः । तादृशे प्रातःसवने अधि उपरि गायत्रम् अष्टाक्षरात्मकम् आहावप्रतिगररूपं गायत्रं पदमाहितम् । तद्यथा होता  ‘ शोंसावोम्' इति त्र्यक्षरेण तथा ‘शंसामोदैवोम्' इति पञ्चाक्षरेण अध्वर्युः प्रतिगृणाति । तन्मिलित्वा अष्टाक्षरं संपद्यते । तच्च अष्टाक्षरं गायत्रीसदृशं तस्याः अपि पादस्य अष्टाक्षरत्वात् । इदमेकं प्रातःसवनरूपे गायत्रपदप्रतिष्ठापनम् । तथा सवनान्ते अपि शंसनानन्तरम् उक्थं वाचि' इति चतुरक्षरमाह। ‘ओमुक्थशाः' इति चतुरक्षरम् अध्वर्युः । तदष्टाक्षरं संपद्यते । एतदेकं परं गायत्रे गायत्रस्थापनम् । तथा त्रैष्टुभात् माध्यंदिनसवनात् त्रैष्टुभम् आहावप्रतिगरणरूपं पदं निरतक्षत ऋत्विजः । तद्यथा माध्यंदिनसवने होता  ‘ अध्वर्यो शोंसावोम्' इति आह्वयते षडक्षरेण अध्वर्युश्च ‘शंसामोदैवोम्' इति पञ्चाक्षरेण प्रतिगृणाति । तन्मिलित्वा एकादशाक्षरं संपद्यते । इदमेकं माध्यंदिनसवनादौ त्रैष्टुभे त्रैष्टुभाधानम् । तथा सवनान्तेऽपि शंसनानन्तरम्  उक्थं वाचि इन्द्राय' इति सप्ताक्षरमाह । अध्वर्युश्च ‘ओमुक्थशाः' इति चतुरक्षरेण प्रतिगृणाति । तन्मिलित्वा एकादशाक्षरं संपद्यते । इदमपरं त्रैष्टुभे त्रैष्टुभस्थापनम् । तथा तृतीयसवने होता  अध्वर्यो शोंशोंसावोम्' इति सप्ताक्षरेण आह्वयते  ‘शंसामोदैवोम्' इति पञ्चाक्षरेण अध्वर्युः प्रतिगृणाति । द्वादशाक्षरं भवति । तदिदं प्रथमं जागते जागतोत्पादनम् । तथा पञ्चादपि शंसनानन्तरमाह ‘उक्थं वाचि इन्द्राय देवेभ्यः इति । एतदेवैकादशाक्षरं भवति । अध्वर्युश्च ‘ ओम्' इत्येकाक्षरेण प्रतिगृणाति । तदुभयं मिलित्वा द्वादशाक्षरं भवति । तदिदमपरं जागते जागतपदस्थापनम् । एवं त्रिषु छन्दःसु त्रिषु गायत्र्यादिसवनेषु गायत्रादिच्छन्दस्त्रयपदप्रतिष्ठापनम् । एतत्सर्वम् ऐतरेयब्राहाणे  ‘ देवविशः कल्पयितव्याः' (ऐ. ब्रा. ३. १२) इति खण्डे विस्पष्टमाम्नातम् । तत्तादृशं छन्दसि छन्दःस्थापनं य इत्तद्विदुः ये एव जानन्ति ते एव अमृतत्वम् आनशुः प्राप्नुवन्ति अनुष्ठानद्वारा । एवम् अजानन्तः अनुष्ठानेनापि फलं न प्राप्नुवन्तीत्यर्थः । तस्य साकल्याभावादिति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,30 +152,30 @@ popular
 Yadgāyatre **adhi** gāyatram traṣṭubhād vā traiṣṭubham: perhaps, a mystical reference to the text of the **Veda**, a knowledge of which is essential to final felicity; **gāyatra** is derived from **gāyatrī** the earth; it is the **pada**, or station of Agni; **traiṣṭubha** is identified with the firmament, and the plural ce of Vāyu; jāgat is identified with the sun: jāgat, the solar region (**Taittirīya** **Saṃhitā** 2.2.9.5-6)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How the gāyatrī (track) [=gāyatrī line] is based upon a gāyatrī (hymn) or  how a triṣṭubh (track) [=triṣṭubh line] was fashioned out of a triṣṭubh  (hymn),  
 or how the jagat track [=jagatī line] is based on the jagat [=jagatī]  
 (hymn)—only those who know this have reached immortality.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How on the Gayatri the Gayatri was based, how from the Tristup they fashioned the Tristup forth,  
      How on the Jagati was based the Jagati,--they who know this have won themselves immortal life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nur die haben die Unsterblichkeit erlangt, die wissen, daß der Gayatrifuß auf dem Gyatrilied beruht, oder daß der Tristubhfuß aus dem Tristubhlied herausgebildet wurde, oder daß der Jagatfuß auf dem Jagatlied beruht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie an die Gājatrī-Zeile die Gājatrī-Zeile gefügt wird, wie aus der Trischtubh-Zeile die [neue] Trischtubh-Zeile entspringt, oder wie die Dschagatī-Zeile an die Dschagatī-Zeile gefügt wird, welche das verstehen, die haben Unsterblichkeit erlangt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что на (песне) гаятри основан (размер) гаятри,  
 Или из (песни) триштубх образовался (размер) триштубх,  

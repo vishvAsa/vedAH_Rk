@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो महे꣡ · स꣡हसा स꣡हस्वत  
 उषर्बु꣡धे · पशुषे꣡ न꣡ अग्न꣡ये  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 जू꣡र्णिर् हो꣡त ऋषूणा᳐꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 अग्रे॑ । रे॒भः । न । ज॒र॒ते॒ । ऋ॒षू॒णाम् । जूर्णिः॑ । होता॑ । ऋ॒षू॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -161,7 +161,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे उद्गात्रादयः स्तोतारः **वः** युष्माकं संबन्धि **स्तोमः** स्तोत्रम् **अग्नये** **प्र** **बभूतु** प्रीणयितुं समर्थं भवतु ॥ छान्दसः शपः श्लुः । अत्वं चाभ्यासस्य । ‘ भूसुवोस्तिङि' इति गुणाभावः ॥ कीदृशायाग्नये । **महे** महते पूज्याय **सहसा** पराभिभवसामर्थ्येन तद्वते **उषर्बुधे** उषःकाले प्रबुध्यमानाय ॥ ‘ अहरादीनां पत्यादिषूपसंख्यानम् ' इति रत्वम् । **पशुषे** पशुफलप्रदाय । नशब्दोऽत्र अपिशब्दार्थः । यद्वा । पशुषे पशुप्रदात्रे प्रभवे यथा स्तुतिः क्रियते तद्वत् । किमर्थमिति तदुच्यते । **ईम्** एनमग्निं **प्रति** लक्षीकृत्य **हविष्मान्** घृतादिहविर्युक्तः यजमानः **विश्वासु** **क्षासु** सर्वासु निवासभूतासु वेदिभूमिषु **जोगुवे** अत्यर्थं गच्छति ॥ गुवतेर्यङलुगन्तात् छान्दसो लिट् । व्यत्ययेनात्मनेपदम् । ‘ °अमन्त्रे ' इति पर्युदासात् आमभावः ॥ क्षेति भूनाम, ‘क्षा क्षामा ' ( नि. १. १. ५) इति तन्नामसु पाठात् । **ऋषूणाम्** आगन्तॄणां देवानां मध्ये श्रेष्ठमग्निं जूर्णिः स्तुतिकुशलः **होता** अग्रे इतरदेवेभ्यः पूर्वं **जरते** स्तौति । तत्र दृष्टान्तः । **ऋषूणां** महतां धनवताम् **अग्रे** **रेभो** **न** वन्दीव ॥ ‘ ऋषी गतौ ' । औणादिकः कुप्रत्ययः । ‘ नामन्यतरस्याम्' इति नाम उदात्तत्वम् यद्वा । ऋषूणाम् इत्येतत् होतृविशेषणम् । ऋषूणां ज्ञानवतां मध्ये श्रेष्ठोऽयं होता इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -172,42 +172,42 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 The last **pāda**: lit. 'in front, a herald, like praisers of the illustrious (ṛṣūṇām)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your (praise) (stand) out for the great one, who is strong by  strength, wakening at dawn, for Agni, as if for a winner of cattle—let  (your) praise stand (out) for Agni.  
 When someone with an oblation is calling on him in all the lands, in advance of (dawn’s) rays he “sings” [=crackles] like a hoarse-voiced  (singer)—the glowing Hotar, (in advance of) the rays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first three pādas are an esp. nice example of the syntactic complementarity between the tag-pāda c and what precedes. The subject and the verb are withheld until c (stómaḥ and babhūtu respectively), with the preverb determining the verbal lexeme (prá) and the possessive pronoun limiting the praise (vaḥ) found in the first pāda -- and the recipient agnáye the only thing held in common between ab and c. Thus neither ab nor c is complete in itself: their elements need to be intermingled to produce the full sense. The name of the recipient is also held until the end of the two-pāda opening, though prepared for by a series of datives.
 
 Schaeffer (Inten. 114) argues persuasively that the intens. joguve is “lokaldistributiv” with the loc. phrase víśvāsu kṣā́su “in all lands.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the mighty, conquering with victorious strength, to Agni walking with the dawn, who sendeth kine, be sung your laud, to Agni sung;  
      As he who with oblation comes calls him aloud in every place.  
      Before the brands of fire he shouteth singerlike, the herald, kindler of the brands.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Let your praise go forth to the great Agni, who is mighty in his might, who awakens at dawn, like a winner of cattle 1—let it go forth to Agni. When (the worshipper) rich in offerings has loudly praised him 2 in all lands 3, he wakes 4 like a singer in front of the dawns 5, the flaming one (?), the Hotri (in front) of the dawns 5.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem großen, an Macht übermächtigen, frühwachen Agni soll wie einem Viehspender euer Lob dem Agni gelten. Wenn ihn an allen Orten der Opfernde anruft, läßt der Hotri wie ein Barde den Weckruf ertönen noch vor den Morgenstrahlen, der glühende Hotri vor den Morgenstrahlen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, eurem grossen, kräftigsten an Siegeskraft, dem früh erwachten Agni, ihm, der Heerden schenkt, dem Agni sei eur Lob gebracht; Wenn ihn der Opferbringende an allen Orten kräftig ruft, Dann rauscht den Flammen wie ein Sänger er voran, der Priester knisternd, ihrer Glut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для великого, сильного по силе,  
 Пробуждающегося на заре, для Агни, как для добытчика скота,  

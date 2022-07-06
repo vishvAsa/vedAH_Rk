@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡ळाम् अग्ने पुरुदं꣡सं सनिं꣡ गोः꣡  
 शश्वत्तमं꣡ ह꣡वमानाय साध  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने सा꣡ ते सुमति꣡र् भूतु अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 स्यात् । नः॒ । सू॒नुः । तन॑यः । वि॒जाऽवा॑ । अ॒ग्ने॒ । सा । ते॒ । सु॒ऽम॒तिः । भू॒तु॒ । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
@@ -127,7 +127,7 @@ genre M;; repeated line
 पूर्वंव्याख्याता ॥ ११ ॥प्रकारवइत्येकादशर्चंषष्ठंसूक्तंवैश्वामित्रमाग्नेयं प्रकारवइत्यनुक्रान्तत्वात् प्रातरनुवाकाश्विन शस्त्रयोःसूक्तविनियोगःपूर्वसूक्तएवप्रत्यग्निरुषसस्त्रीणीत्यनेनोक्तः आद्याग्नेयेपशौहविषोयाज्या सूत्रितञ्च—प्रकारवोमननावच्यमानाएकाचेतत्सरस्वतीनदीनामिति ऎभिरग्नइतिपात्नीवतग्रहस्य याज्या सूत्रितञ्च—आग्निध्रः पात्नीवतस्ययजत्यैभिरग्नेसरथंयाह्यर्वाङितीति
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,24 +138,24 @@ genre M;; repeated line
 Cf. RV. 3.1.1)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 – Make the milk-libation, the very wondrous winning of the cow,  succeed, o Agni, for him who invokes you most constantly.  
 There should be for us a son and a lineage that proliferates. Agni, let  this your favor be for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As holy food, Agni to thine invoker give wealth in cattle, lasting, rich in marvels.  
      To us be born a son and spreading offspring. Agni, be this thy gracious will to us-word.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erziel, o Agni, Segen, den vielwirkenden Lohn einer Kuh für den am häufigsten rufenden Sänger! Ein leiblicher Sohn, der das Geschlecht fortpflanzt, soll uns werden. Agni, diese Gnade von dir soll uns zuteil werden!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приведи прямо к цели, о Агни, жертвенный напиток (и) многообещанную награду  
 В виде коровы для того, кто постоянно призывает (богов)!  

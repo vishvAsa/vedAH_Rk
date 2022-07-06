@@ -6,7 +6,7 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उद्गाते꣡व शकुने सा꣡म गायसि  
 ब्रह्मपुत्र꣡ ऽव° स꣡वनेषु शंससि  
@@ -15,7 +15,7 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 विश्व꣡तो नः शकुने पु꣡ण्यम् आ꣡ वद
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular
 वृषा॑ऽइव । वा॒जी । शिशु॑ऽमतीः । अ॒पि॒ऽइत्य॑ । स॒र्वतः॑ । नः॒ । श॒कु॒ने॒ । भ॒द्रम् । आ । व॒द॒ । वि॒श्वतः॑ । नः॒ । श॒कु॒ने॒ । पुण्य॑म् । आ । व॒द॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *udgāteva* ← *udgātā* ← *udgātṛ*
 - \[noun\], nominative, singular, masculine
@@ -162,7 +162,7 @@ popular
 शकुने हेकपिञ्चल उद्गातेवसाय यथोद्गातसामगायति तथात्वङ्गायसि गानस्वनङ्करोषि ब्रह्म पुत्रइव यथाब्राह्मणाच्छंसीसवनेषुशस्त्राणिशंसति तथात्वङ्कालेषुशंससि श्रौतस्वरङ्करोषि वृषेववा जी सेचनसमर्थोश्वः शिशुमतीर्वडवाअपीत्यअभिगत्ययथाशब्दङ्करोति तथात्वमपिवद शिष्टं स्पष्टम् ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -173,37 +173,37 @@ popular
 Brahmaputra: the same as the brāhmaṇāccaṃsi one of the sixteen priests, who 'sastram śaṃsati, recites the **mantra** that is not to be sun or chanted
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the Udgātar, o omen-bird, you sing the sāman. Like the Son of the  Sacred Formulation, you recite at the pressings.  
 Like a bullish prize-winner [=stallion] when he has approached (mares)  with young, speak auspiciously to us in every way, omen-bird—  
 speak pleasantly to us in all ways, omen-bird.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As Holland & van Nooten Rig Veda edition remark in their metrical comm., although the Anukramaṇī identifies the meter of this vs. as Atiśakvarī or Aṣṭi, it appears simply to consist of 5 Jagatī pādas. That the fifth pāda is a simple variant of the fourth makes it likely that the vs. is just a version of Jagatī.
 
 The “son of the formulation” (brahmaputrá-) is presumably the formulator (brahmán-) himself, as the standard tr. take it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou like the chanter-priest chantest the Sama, Bird; thou singest at libations like a Brahman's son.  
      Even as a vigorous horse when he comes near the mare, announce to us good forturue, Bird, on every side, proclaim in all directions happy luck, O Bird.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du singst, o Vogel, wie der Udgatri seine Weise; du redest feierlich wie der Sohn des Brahman bei den Somaopfern. Wie ein brünstiger Bulle brüllt, wenn er zu den Mutterkühen kommt, so verkünde du uns von allen Seiten Glück, o Vogel, von überall her verkünde uns Gutes, o Vogel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie ein Sänger stimmst du, o (^'akunivogel, dein Lied an, sagst her den Spruch bei den Opferfesten wie ein Brahmanensohn, wie ein brünstiger Bull, wenn er die Kuh belegt, lass, o ^^akunivogel, ertönen überall den glücklichen Ruf, überall lass, o ^akuni, ertönen den günstigen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О вещая птица, ты поешь напев, как удгатар,  
 Ты торжественно произносишь, словно сын брахмана на выжиманиях (сомы).  

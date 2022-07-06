@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡ना य꣡त् सहसि꣡यैर् अ꣡यातं  
 गृह꣡म् इन्द्र जूजुवाने꣡भिर् अ꣡श्वैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡त्सेन देवइ꣡र् अ꣡वनोर् ह शु꣡ष्णम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 व॒न्वा॒नः । अत्र॑ । स॒रथ॑म् । य॒या॒थ॒ । कुत्से॑न । दे॒वैः । अव॑नोः । ह॒ । शुष्ण॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśanā*
 - \[adverb\]
@@ -117,43 +117,43 @@ genre M
 यद्यदा हेइन्द्र त्वं उशनाकाव्यश्च सहस्यैरभिभवनशीलैःजूजुवानेभिः जूजुवानैर्गच्छद्भिः अश्वैः कुर्सस्यगृहं अयातं अगच्छतं तदा हेइन्द्र त्वं अस्मिन्काले वन्वानः शत्रून्हिंसन् कुत्सेन देवैश्चसह सरथं समानमेकंरथं ययाथ जगन्थ किञ्च शुष्णमेतन्ना मानमसुरं अवनोर्ह अहिंसीःखलु ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When, **Indra**, you and **Uśanas**, with vigorous and rapid courses went to the dwelling of **Kutsa**, then destroying his foes, you went in one chariot with Kutsa and the gods, and verily you have slain **Śuṣṇa**”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, Indra, (you and Kutsa) drove to the home of Uśanā with the  mighty, speeding horses,  
 as combatant you drove there on the same chariot with Kutsa, with the  gods. You combated Śuṣṇa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On uśánā as an indeclinable, see my 2007 “Vedic Uśanā Kāvya and Avestan Kauui Usan: On the Morphology of the Names” (Fs. Jasanoff).
 
 On the basis of other mentions of this myth, 2nd du. áyātam must conceal a Vāyav Indraś ca type construction, with the other subject, beside voc. indra, being Kutsa. Cf. nearby dual dvandva indrā-kutsā (V.31.9). The gapping of Kutsa in the first half of the verse is repaired by cd saráthaṃ yayātha, kútsena, with the same root √yā as in áyātam. I do not understand the change in tense stem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time ye came with strong steeds swiftly speeding, O Usana and Indra, to the dwelling,  
      Thou camest thither -conquering together with Kutsa and the Gods: thou slewest Susna.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr beide, Kutsa und du, Indra, mit den gewaltigen raschen Rossen zu Usanas Haus kamt, da kamst du der Überwinder auf gleichem Wagen mit Kutsa, mit den Göttern. Du hattest den Susna überwunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Uçana und Indra mit den starken, den raschgetriebnen Rossen ihr ins Haus kamt, Fuhrst siegreich du mit Kutsa und den Göttern in gleichem Wagen, schlugst in Flucht den Çuschna.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Ушанас (и ты) отправились вдвоем домой  
 На сильных быстрых конях, о Индра,  

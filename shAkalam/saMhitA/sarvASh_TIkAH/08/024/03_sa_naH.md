@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ न स्त꣡वान आ꣡ भर  
 रयिं꣡ चित्र꣡श्रवस्तमम्  
 निरेके꣡ चिद् यो꣡ हरिवो व꣡सुर् ददिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नि॒रे॒के । चि॒त् । यः । ह॒रि॒ऽवः॒ । वसुः॑ । द॒दिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -97,7 +97,7 @@ genre M
 हे इन्द्र **सः** तथाविधस्त्वं **स्तवानः** अस्माभिः स्तूयमानः सन् **चित्रश्रवस्तमम्** अतिशयेन नानाविधान्नोपेतं **रयिं** पुत्रं धनं वा **नः** अस्मभ्यम् **आ** **भर** संपादय। देहीत्यर्थः । **हरिवः** । हरी अश्वौ । तद्वन् हे इन्द्र **यः** त्वं **निरेके** **चित्** निर्गमन एव **वसुः** शत्रूणां वासयिता भवसि । तवायुधनिर्गमनादेव शत्रवः पलायन्ते खलु । किंच त्वं **ददिः** धनानां दाता भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,28 +108,28 @@ genre M
 At the issue of the weapons: nireke cidvasuḥ = tavāyudhanirgamanād eva śatravaḥ palāyante
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being praised, bring here to us wealth that offers most brilliant fame— you who are exclusively the good giver, o master of the fallow bays.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As such, when glorified, bring us riches of very wondrous fame,  
      Set in the highest rank, Wealth-giver, Lord of Bays!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als solcher gepriesen bring du uns ruhmglänzendsten Reichtum, der du, o Falbenherr, ganz ausschließlich der gütige Geber bist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So bringe, du gepriesener, uns hochberühmtes Gut herbei, Du guter Geber zum Besitz, o Rosseherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такой восхваленный у нас,  
 Принеси (нам) богатство с самой яркой славой,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ हि꣡ वाम् प्रदि꣡वि स्था꣡नम् ओ꣡क  
 इमे꣡ गृहा꣡ अश्विनेदं꣡ दुरोण꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अद्भ्यो꣡ यातम् इ꣡षम् ऊ꣡र्जं व꣡हन्ता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ । नः॒ । दि॒वः । बृ॒ह॒तः । पर्व॑तात् । आ । अ॒त्ऽभ्यः । या॒त॒म् । इष॑म् । ऊर्ज॑म् । वह॑न्ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -137,37 +137,37 @@ genre M
 हे **अश्विना** **वां** युवयोः **प्रदिवि** पुराणम् **इदं** **हि** **ओकः** निवासयोग्यं **स्थानम्** उत्तरवेद्याख्यम् । अथ सौमिकवेद्यभिप्रायेणाह । **इमे** **गृहाः** प्राचीनवंशादयः । **इदं** **दुरोणं** देवयजनगृहम् । **नः** अस्मदर्थं **दिवः** द्युलोकात् **बृहतः** पर्वतात् पर्ववतो मेघात् **अद्भयः** अपां कारणादन्तरिक्षात् **आ** **यातम्** आगच्छतम् । किं तूष्णीम् । न । **इषमूर्जं** च अन्नं बलं च । बलसाधनमन्नं सारभूतमित्यर्थः । तादृशं **वहन्ता** वहन्तौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This station, **Aśvins**, is your ancient abode; these are your mansions, this your dwelling; come from the vast firmament, (verspread) by clouds (filled) with water, bringing strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For from of old this is your place, your home. This is your house, Aśvins,  this your dwelling.  
 Journey here to us from lofty heaven and mountain, here from the  
 waters, carrying refreshment and nourishment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For this place, Asvins, was of old your dwelling, these were your houses, this your habitation.  
      Come to us from high heaven and from the mountain. Come from the waters bringing food and vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn das ist schon längst euer Ort, eure Heimat, dieses Haus, ihr Asvin, diese Wohnung. Kommet zu uns vom hohen Himmel, vom Gebirge, von den Gewässern, Labung und Stärkung mitbringend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn hier ist euch seit Alters Stand und Heimat; hier sind die Häuser, hier der Herd, o Ritter; Vom Himmel kommt, herbei vom hohen Gipfel und von den Wassern fahrend Trank und Speise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это же издавна ваше место, (ваша) родина,  
 Этот дом, о Ашвины, это жилище.  

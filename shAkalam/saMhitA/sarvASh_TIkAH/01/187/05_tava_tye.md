@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व त्ये꣡ पितो द꣡दतस्  
 त꣡व स्वादिष्ठ ते꣡ पितो  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 तुविग्री꣡वा इवेरते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 प्र । स्वा॒द्मानः॑ । रसा॑नाम् । तु॒वि॒ग्रीवाः॑ऽइव । ई॒र॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -110,7 +110,7 @@ genre M
 “स्वाद्मानः स्वादयितारो भक्षयितार एव **तुविग्रीवाइव** । तुवीति बहुनाम । प्रवृद्धग्रीवा एव **प्र** **ईरते** प्रकर्षेण गच्छन्ति संचरन्ति । इवशब्द एवकारार्थः पूरणो वा । भूलोके अत्तार एव दृढाङ्गा भवन्तीति प्रसिद्धम् । अनशने हि ग्रीवा अधो लम्बन्ते । यद्वा । तव रसानामत्तारः असंख्यातग्रीवा इव भवन्ति रसानां बाहुल्यादिति भावः । एवं वहुरसोपेतमन्नमिति तस्य स्तुतिः ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,35 +121,35 @@ genre M
 Tuvigrīvaḥ iva irate: tuvi = **bahu**,much, many; or, **pravṛddha**, enlarged; when people eat, they are dṛḍhāṅga, erect, firm; and when they are without food, the neck is bent, or bends down; or it may mean, that they are great eaters, as if they had many throats
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These (juices) are those that yield you, o food, and they also are part of  you, sweetest food.  
 Those who receive the sweetness of your juices press forward like  
 strong-necked (bulls).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For the interpr. of this vs., see published introduction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These gifts of thine, O Food, O Food most sweet to taste,  
      These savours of thy juices work like creatures that have mighty necks.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese deine Verschenker, o Speise, diese deine Genießer, o süßeste Speise, die Genießer deiner Säfte kommen vorwärts wie starknackige Stiere.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Opfertrank, du süssester, die Süssigkeiten deines Safts, Die spendereichen, drangen vor, wie Stiere, deren Nacken stark.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти дающие тебя, о пища,  
 Эти твои, о сладчайшая пища, (соки),  

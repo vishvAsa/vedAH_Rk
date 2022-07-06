@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡हस्व मन्यो अभि꣡मातिम् अस्मे꣡  
 रुज꣡न् मृण꣡न् प्रमृण꣡न् प्रे꣡हि श꣡त्रून्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वशी꣡ व꣡शं नयस एकज त्व꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒ग्रम् । ते॒ । पाजः॑ । न॒नु । आ । रु॒रु॒ध्रे॒ । व॒शी । वश॑म् । न॒य॒से॒ । ए॒क॒ऽज॒ । त्वम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
@@ -137,36 +137,36 @@ popular
 हे **मन्यो** **अस्मे** अस्माकम् **अभिमातिम्** अभिगन्तारं शत्रुं **सहस्व** अभिभव । **रुजन्** हिंसन् **मृणन्** **प्रमृणन्** प्रकर्षेण हिंसन् यथा पुनर्न जीवेत्तथा कुर्वंस्त्वं **शत्रून्** प्रति **प्रेहि**। **ते** तव **पाजः** बलम् **उग्रम्** उद्गूर्णं के **ननु** **आ** **रुरुध्रे** आरुन्धन्ति । न तथा संभवति हे **एकज** **त्वम्** असहायः **वशी** त्वं **वशं** **नयसे** प्रापयसि शत्रुम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Overthrow, **Manyu**, our assailant; advance against our foes, wounding, killing, annihilating them; (who)can resist your fierce might? O you who are without companion, subjecting them you lead them subject.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vanquish hostility for us, Battle Fury. Breaking, crushing, crushing out,  advance on our rivals.  
 Formidable is your dimension: they have never confined it. Exerting your  will, you lead at will, you who are born alone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Manyu, overcome thou our assailant on! breaking, slaying, crushing down the foemen.  
      They have not hindered thine impetuous vigour: Mighty, Sole born! thou makest them thy subjects.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bewältige, Manyu, den feindlichen Anschlag gegen uns; zerschmetternd, malmend, zermalmend geh auf die Feinde los! Deine gewaltige Erscheinung halten sie niemals auf. Mächtig bringst du Einziggeborener sie in deine Macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besiege, Manju, unsre Widersacher; geh vor, den Feind zerbrechend, tödtend, tilgend; Er hemmte nimmer deine mächt'ge Stärke, du bringst, o einz'ger, streng' in deine Macht ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुष्टु꣡भो वां वृषण्वसू  
 र꣡थे वा꣡णीची आ꣡हिता  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 मा꣡ध्वी म꣡म श्रुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 उ॒त । वा॒म् । क॒कु॒हः । मृ॒गः । पृक्षः॑ । कृ॒णो॒ति॒ । वा॒पु॒षः । माध्वी॒ इति॑ । मम॑ । श्रु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *suṣṭubho* ← *suṣṭubhaḥ* ← *suṣṭubh*
 - \[noun\], genitive, singular, masculine
@@ -116,7 +116,7 @@ genre M;; repeated line
 हे **वृषण्वसू** वर्षधनौ वर्षितारौ वा वसूनां हे अश्विनौ **सुष्टुभः** सुस्तोतुर्मम **वाणीची** वाग्रूपा स्तुतिः **वां** युवयोः **रथे** **आहिता** स्थापिता । अस्माभिः कृतेत्यर्थः । **उत** अपि च **वां** युवाभ्यां **ककुहः** महान् **मृगः** मृगयिता **वापुषः** वपुष्मान् यजमानः **पृक्षः** अन्नं हविः **कृणोति** करोति । तस्मात् **मम** **हवं** **श्रुतम्** इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M;; repeated line
 Distinguished, devoted, embodied (adorer): the epithets are: **kakuha**, **mṛga** vāpuṣa = **mahān**, great, mṛgayitā searcher, **vapuṣmān**, having body, **yajamāna** (impled)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The musical (voice) of him having good rhythm is set upon your chariot,  o you whose goods are bull-like,  
 and your wild animal of marvelous form [=the sacrificial fire?], your lead  horse, creates nourishments.  
 – O honey-rich ones, hear my summons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O strong and Good, the voice of him who lauds you well cleaves to your car.  
      And that great beast, your chariot-steed, fair, wonderful, makes dainty food. Lovers of sweetness, hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Stimme des trefflichen Sängers ist als Mahnstimme auf euren Wagen gelegt, ihr Schätzereichen. Und das hochragende Tier, das erstaunliche, macht euch Kräfte - ihr Süßesliebende, erhöret meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf euren Wagen ist gelegt des Sängers Harfe, Kräftige, Und euer hohes Wagenross, das wundervolle schafft uns Gut; ihr lieben, höret meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Речь) прекрасно восхваляющего, о богатые конями,  
 Напевом прикреплена к вашей колеснице.  

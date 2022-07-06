@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ सोम प꣡वमानं सुआधि꣡यो  
 अ꣡नु वि꣡प्रासो अमदन्न् अवस्य꣡वः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्दो वि꣡श्वाभिर् मति꣡भिः प꣡रिष्कृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वाम् । सु॒ऽप॒र्णः । आ । अ॒भ॒र॒त् । दि॒वः । परि॑ । इन्दो॒ इति॑ । विश्वा॑भिः । म॒तिऽभिः॑ । परि॑ऽकृतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -112,20 +112,20 @@ genre M
 हे **सोम** **पवमानं** **त्वां** **स्वाध्यः** सुमतयः सुकर्माणो वा **विप्रासः** विप्रा मेधाविनः स्तोतारः **अवस्यवः** रक्षाकामाः **अनु** **अमदन** अनुष्टुवन्ति । हे **इन्दो** **त्वां** **सुपर्णः** श्येनः **आभरत्** आहरत् । **दिवस्परि** द्युलोकस्योपरि । द्युलोकादित्यर्थः । कीदृशं त्वाम् । **विश्वाभिर्मतिभिः** सर्वाभिः स्तुतिभिः **परिष्कृतम्** अलंकृतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The pious worshippers desirous of preservation have glorified you, **Soma**, when being purified; the hawk brought you from heaven, **Indu**, adorned with all praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Soma, purifying yourself, do the very attentive poets applaud as  they seek help.  
 You did the fine-feathered (falcon) carry here from heaven, o drop, you  who are adorned all over with all thoughts.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Both hemistichs open with a distracted 2nd sg. acc. pronoun (t u vā́m). The accusative of this pronoun is, of course, historically monosyllabic, though distraction is not uncommon in the RV. Here the distraction may have resulted from matching the distracted nominative sg. form that opened the 2nd hemistich of the previous vs., 23c.
 
@@ -149,23 +149,23 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In thee, O Soma, while thou purifitedst thee, high-thoughted sages, seeking favour, have rejoiced.  
      Down from the heavens the Falcon brought thee hitherward, even thee, O Indu, thee whom all our hymns adorn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir, wenn du dich läuterst, o Soma, jubelten die Redekundigen wohlgesinnt, um Gunst bittend zu. Dich brachte der Falke vom Himmel, o Saft, der mit allen dichterischen Gedanken ausgeschmückt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Soma, jauchzten andachtsvoll die Sänger zu, nach deiner Gunst verlangend, dir, dem flammenden, Dich, Indu, trug der Adler von dem Himmel her, dich, der durch alle Lieder du verherrlicht wirst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

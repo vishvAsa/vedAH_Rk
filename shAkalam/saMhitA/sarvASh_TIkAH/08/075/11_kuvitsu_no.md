@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कुवि꣡त् सु꣡ नो ग꣡विष्टये  
 अ꣡ग्ने संवे꣡षिषो रयि꣡म्  
 उ꣡रुकृद् उरु꣡ णस् कृधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उरु॑ऽकृत् । उ॒रु । नः॒ । कृ॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kuvit* ← *kuvid*
 - \[adverb\]
@@ -95,7 +95,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** त्वं **नः** अस्माकं **गविष्टये** गवामेषणाय **कुवित्** बहु **रयिं** धनं **संवेषिषः** संप्रापय । **उरुकृत्** त्वं **नः** अस्मान्” **उरु** **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,35 +106,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Gaviṣṭi = gavām eṣaṇāya, I have given it a genitive ral meaning
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Surely you will toil for wealth for us, for our quest for cattle, Agni? Make a wide (way) for us, you wide-maker.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation “…you will toil for wealth for us, for our quest for cattle” makes the two “for” phrases sound parallel, though they are not in Sanskrt (acc. rayím, dat. gáviṣṭaye). The intent is that Agni should work hard to obtain wealth for us, which we can use in our quest for cattle (that is, further wealth).
 
 Pāda c is an almost comically economical etymological figure: úrukṛd urú naḥ kṛdhi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wilt thou not, Agni, lend us aid in winning cattle, winning wealth?  
      Maker of room, make room for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewiß wirst du, Agni, unserem Wunsch nach Kühen baß Reichtum gewähren. Du Bahnmacher, mach uns freie Bahn!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wirst du nicht unsrer Güterlust bescheeren, Agni, reiches Gut? Raumschaffer, schaffe du uns Raum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

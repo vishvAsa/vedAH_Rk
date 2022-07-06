@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अग्ने दिविजा꣡ अ꣡सि  
 अप्सुजा꣡ वा सहस्कृत  
 तं꣡ त्वा गीर्भि꣡र् हवामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तम् । त्वा॒ । गीः॒ऽभिः । ह॒वा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **यत्** यस्त्वं **दिविजाः** दिवि भवः **असि** भवसि **अप्सुजा** **वा** अन्तरिक्षजातश्च भवसि **सहस्कृतः** सहसा बलेन कृतश्चासि **तं** **त्वा** त्वामग्निं **गीर्भिः** स्तुतिभिः **हवामहे** ह्वयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bornin heaven: as the sun in heaven, as lightning in the waters, (i.e., in the firmament) and as genitive rated on earth byfriction
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O might-made Agni, whether you are born in heaven or born in the  waters,  
 we call upon you with hymns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, made by strength! be thou born in the heavens or born in floods,  
      As such we call on thee with songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob du, Agni, im Himmel geboren oder im Wasser geboren bist, du Krafterzeugter, wir rufen dich mit Lobesworten an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ob, Agni, kraftgeborner, du vom Himmel stammst, ob aus der Flut, So rufen wir mit Liedern dich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Агни, ты рожден на небе  
 Или рожден в водах, о созданный силой,  

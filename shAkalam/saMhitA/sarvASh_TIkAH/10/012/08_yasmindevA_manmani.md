@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् देवा꣡ म꣡न्मनि संच꣡रन्ति  
 अपीचि꣡ये न꣡ वय꣡म् अस्य विद्म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सविता꣡ देवो꣡ व꣡रुणाय वोचत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 मि॒त्रः । नः॒ । अत्र॑ । अदि॑तिः । अना॑गान् । स॒वि॒ता । दे॒वः । वरु॑णाय । वो॒च॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
@@ -121,7 +121,7 @@ genre M
 **देवाः** इन्द्रादयः **यस्मिन्** अग्नौ **मन्मनि** ज्ञानभूते ज्ञानवत्सर्वप्रकाशके सति **संचरन्ति** स्वाधिकारे संप्रवर्तन्ते **अपीच्ये** अन्तर्हिते स्थितमग्नेः स्वरूपं **वयं** **न** **विद्म** तत्त्वतो न जानीमः । **अत्र** अस्मिन् यज्ञेऽङ्गभावाय वर्तमानः **मित्रः** **वरुणाय** सर्वेषां पापानां निवारयित्रेऽग्नये **नः** अस्मान **अनागान्** अपापान **वोचत्** ब्रवीतु । तथा **अदितिः** देवमाता **सविता** सर्वस्य प्रेरकः **देवः** च ब्रवीतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ genre M
 Varuṇa:varuṇāya sarveṣām pāpānām nivārayitregnaye; in **mythology**, Varuṇa is one of the older gods; he ismore terrible, more righteous, and less human thatn the younger deities\]. bring unto us the heaven and earth, the daughter of the divine (**Prajāpati**), let none of the gods be absent, anddo you yourself be present.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On which cryptic thought the gods converge—we do not know it.  
 May Mitra, Aditi, and god Savitar here declare us to Varuṇa to be  
 without offense.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The counsel which the Gods meet to consider, their secret plan,-of that we have no knowledge.  
      There let God Savitar, Aditi, and Mitra proclaim to Varuna that we are sinless.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In welchem geheimen Gedanken die Götter zusammenkommen, wir wissen es nicht. Mitra, Aditi, Gott Savitri mögen uns dabei dem Varuna als schuldlos melden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Rath, zu dem die Götter sich versammeln, der tief geheime, er ist uns verborgen, Dort künde uns dem Varuna als schuldlos Gott Savitar und Aditi und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На какой тайной мысли сходятся  
 Боги, не знаем мы этого.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ न इ꣡न्द्रो मघ꣡वा विरप्शी꣡  
 क꣡रत् सत्या꣡ चर्षणीधृ꣡द् अनर्वा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धि श्र꣡वो मा꣡हिनं य꣡ज् जरित्रे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 त्वम् । राजा॑ । ज॒नुषा॑म् । धे॒हि॒ । अ॒स्मे इति॑ । अधि॑ । श्रवः॑ । माहि॑नम् । यत् । ज॒रि॒त्रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -130,37 +130,37 @@ genre M
 **विरप्शी** बहुविधशब्दवान् **चर्षणीधृत्** सर्वासां प्रजानां धारयिता **अनर्वा** अप्रत्यृतः । केनापि प्रतिकूलेन न प्राप्त इत्यर्थः । **मघवा** धनवान् **इन्द्रः** **एवा** एवमस्माभिः स्तुतः सन् **नः** अस्माकं **सत्या** सत्यरूपाण्यभिमतानि फलानि **करत्** करोतु । हे इन्द्र **जनुषां** जन्मवतां सर्वेषां **राजा** प्रभुः **त्वं** **माहिनं** महिम्नोपेतं **यत्** **श्रवः** यद्यशः **जरित्रे** स्तोत्रे देयं तद्यशः **अस्मे** अस्मासु **अधि** अधिकत्वेन **धेहि** । **एवा** न इन्द्रो मघवा विरप्शीत्युत्तमया परिदधातीयं वा इन्द्रो मघवा विरप्शी' (ऐ. ब्रा. ३. ३८) इत्यादि ब्राह्मणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The many-voiced **Indra**, the possessor of opulence, the supporter of men, the irresistible bestows upon us, when praised by us, assured (rewards); you, (Indra), are the king of men; grant to us abundantly that great fame which (is due) to (your) worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way shall bounteous Indra, conferring abundance, make  these things come true for us, as the unassailable sustainer of the  
 bordered domains.  
 You, as king of (all) the races, set fame upon us, which is a great thing  for the singer.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 E’en so let Maghavan, the loud-voiced Indra, give us true blessings, foeless, men's upholder.  
      King of all creatures, give us glory amply, exalted glory due to him who lauds thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also möge uns alles Wahr machen der freigebige Indra, der Überfluß hat, der unbestrittene Völkerregent. Du, der König der Geschöpfe, verleih uns gewaltigen Ruhm, der dem Sänger gebührt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies mach uns wahr der mächtige, gewalt'ge, der unnahbare Menschenschützer Indra, Gewähr uns das, du König der Geschöpfe, dass grosser Ruhm des Sängers Antheil werde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так пусть нам Индра, щедрый, изобильный,  
 Сделает (все) истинным, (он,) неприступный правитель народов!  

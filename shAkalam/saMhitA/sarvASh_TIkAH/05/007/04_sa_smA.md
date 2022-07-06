@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ स्मा कृणोति केतु꣡म् आ꣡  
 न꣡क्तं चिद् दूर꣡ आ꣡ सते꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ स्मा मिना꣡ति अज꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पा॒व॒कः । यत् । वन॒स्पती॑न् । प्र । स्म॒ । मि॒नाति॑ । अ॒जरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -119,41 +119,41 @@ genre M
 ”स **स्म** स खल्वग्निः **कृणोति** करोति **केतुं** प्रज्ञानम् **आ** सर्वतः । कस्येत्युच्यते । चिदप्यर्थे । **नक्तं** **चित्** रात्रावपि **दूरे** **आ** **सते** । आ इति चार्थे । दूरेऽपि वर्तमानाय मनुष्याय । कदा । **यत्** यदा **पावकः** अयमग्निः **अजरः** अजीर्णोऽनभिभाव्यः सन् **वनस्पतीन्** एधांसि **प्र** **स्म** **मिनाति** प्रकर्षेण दहति । स्मेति पूरणः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily he gives a signal by night to one who is far off, when he, the purifier, the undecaying, consumes the forest lords.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Again he makes a beacon here, even during the night, for him who is  far away,  
 when he, the pure one, again diminishes the lords of the forest (into ash),  himself unaging.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He gives a signal in the night even to him who is afar,  
      When he, the Bright, unchanged by eld, consumes the sovrans of the wood.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He indeed produces light even by night to him who is afar, when he, the ever-young purifier, destroys the lords of the forest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er gibt auch des Nachts, dem in der Ferne Weilenden ein Erkennungszeichen, wenn der Helle, der Alterlose die Bäume zerkleinert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schaffet Licht auch in der Nacht für den auch, der noch ferne ist, Wenn flammend er, der nie verlischt, des Waldes Bäume ganz verzehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это он создает яркий знак  
 Даже ночью для того, кто находится вдалеке,  

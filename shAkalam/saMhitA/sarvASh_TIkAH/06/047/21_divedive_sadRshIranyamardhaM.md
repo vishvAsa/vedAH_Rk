@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवे꣡-दिवे सदृ꣡शीर् अन्य꣡म् अ꣡र्धं  
 कृष्णा꣡ असेधद् अ꣡प स꣡द्मनो जाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उद꣡व्रजे वर्चि꣡नं श꣡म्बरं च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अह॑न् । दा॒सा । वृ॒ष॒भः । व॒स्न॒यन्ता॑ । उ॒दऽव्र॑जे । व॒र्चिन॑म् । शम्ब॑रम् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dive* ← *diva*
 - \[noun\], locative, singular, neuter
@@ -114,7 +114,7 @@ genre M
 अयमिन्द्रः **सद्मनः** सदनात् स्वकीयादन्तरिक्षैकदेशात् स्थानात् **जाः** जायमानः सूर्यात्मना प्रादुर्भवन् 'सदृशीः तुल्यरूपाः **कृष्णाः** कृष्णवर्णां रात्रीः **दिवेदिवे** प्रतिदिवसम् **अप** **असेधत्** निवर्तयति । किमर्थम् । **अन्यम्** **अर्धम्** अहरर्धम् अपरं भागं प्रकाशयितुम् । अहोरात्रात्मकस्य दिवसस्य हि रात्रिरेको भागः । अपि च **वृषभः** वर्षयिता स इन्द्रः **दासा** दासौ उपक्षपयितारौ यज्ञकर्मणां **वस्रयन्ता** । वस्त्रं निवासहेतुभूतं धनम् । तदिच्छन्तौ **वर्चिनं** **शम्बरं** **च** एतत्संज्ञावसुरौ **उदव्रजे** । उदकानि व्रजन्त्यस्मिन्नित्युदव्रजो देशविशेषः । तस्मिन् **अहन्** हतवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Udavraja, **deśa** **viśeṣaḥ**, a sort of country, one into which the waters flow, udakāni vrajantyasmin
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Day after day he drove off from their seat the other half, the black  kindred all of the same appearance.  
 The bull smashed the two Dāsas, mercenaries, Varcin and Śambara, at  the moated place.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My tr. differs conceptually and syntactically from Geldner’s, also, to a lesser degree, from Schmidt’s (Bṛhaspati und Indra 83). Geldner thinks the obj. sadṛ́śīḥ … kṛṣṇā́ḥ … jā́ḥ refers to the nights (“die … gleichen (Nächte), die schwarzen Kinder”) and that anyám árdham “the other side” is the goal to which Indra drove the nights. Acdg. to him, this is a different image of the singer’s Not -- the first narrowness, the second unbroken night. I find the supposed change of topic, from the tight place in which we found ourselves in vs. 20, unlikely; instead I consider this vs. a continuation of vs. 20, in which Indra drives away the enemy, as often described as black or dark, that implicitly hemmed us in, a view shared by Schmidt. However, the latter agrees with Geldner in taking anyám árdham as a goal, “Täglich vertrieb er die gleichen schwarzen Kinder von ihrem Sitz an die andere (Welt-)Hälfte,” whereas I consider it a characterization of the enemy and so in apposition to sadṛ́śīḥ … kṛṣṇā́ḥ … jā́ḥ, the phrase into which it’s interleaved. The “other half” would be the alternately favored and disfavored sides in vss. 15-18, as well as the “side of the hostile” (dviṣatáḥ pákṣaḥ) of 19c.
 
@@ -145,23 +145,23 @@ The part. vasnayántā is a hapax, but related to vasná- ‘price’, vásnya- 
 Grassmann takes udávraje as a PN, Geldner as a place name. My tr. follows Schmidt’s interpr. (83-84) as a bahuvrīhi ‘dessen Hürde das Wasser ist’, as a description of a mountain surrounded (or semi-surrounded) by a body of water.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Day after day far from their seat he drove them, alike, from place to place, those darksome creatures.  
      The Hero slew the meanly-huckstering Dasas, Varcin and Sambara, where the waters gather.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er vertrieb die Tag für Tag gleichen Nächte, die schwarzen Kinder, aus ihrem Sitz nach der anderen Seite. Der Bulle erschlug die beiden Lösegeld fordernden Dasa´s, den Yarcin und Sambara in Udavraja.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er vertrieb täglich die einander gleichenden dunkeln Wesen von ihrem Sitze weg nach der andern Hälfte [der Nacht]; der Stier erschlug die feilschenden Dämonen, die Flutversperrer [ich lese udávrajā] Vartschin und Çambara.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Каждый день одинаковых черных отпрысков  
 Он гнал прочь с места на другую сторону,  

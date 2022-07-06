@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ अस्मै घ्रंस꣡ उत꣡ वा य꣡ ऊ꣡धनि  
 सो꣡मं सुनो꣡ति भ꣡वति द्युमाँ꣡ अ꣡ह  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तनू꣡शुभ्रम् मघ꣡वा यः꣡ कवासखः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अप॑ऽअप । श॒क्रः । त॒त॒नुष्टि॑म् । ऊ॒ह॒ति॒ । त॒नूऽशु॑भ्रम् । म॒घऽवा॑ । यः । क॒व॒ऽस॒खः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -128,7 +128,7 @@ genre M
 **यः** यजमानः **अस्मै** इन्द्राय **घ्रंसे** । अहर्नामैतत् । गृह्यन्तेऽस्मिन् रसा इति घ्रंसः । तस्मिन् । **उत** **वा** अथवा **यः** यजमानः **ऊधनि** । उद्धततरं भवत्युन्नद्धमिति वोधो रात्रिः । स्नेहप्रदानरसाभ्यामूधसि रात्रौ च समत्वाद्रात्रिरप्यूध उच्यते । अहनि रात्रौ च **सोमं** **सुनोति** सः **भवति** **द्युमान्** दीप्तिमान् । **अह** इति विनिग्रहार्थीयः । किंच **शक्रः** शक्तोऽयमिन्द्रः **ततनुष्टिम्** । ततं धर्मसंततिं नुदति वष्टि कामयते कामानिति ततनुष्टिः । तं **तनूशुभ्रम्** । तनूः शुभ्रा शोभनीया अलंकारादिभिः यस्य तम् । तादृशं स्वपोषकम् अयज्वानम् अप **ऊहति** । अपरोऽपशब्दः पूरणः । **मघवा** धनवान् **यः** च **कवासखः** कुत्सितपुरुषसहायस्तमपोहतीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,7 +139,7 @@ genre M
 Proud of his descendants and vain of his person n: tatanuṣṭim tanūśubhram = he who desires, (vaṣṭi) an extended (**tata**) race (santatim) and he whose person n (**tanu**) is decorated (**śubhra**) with ornaments, and in both implying svapoṣakam ayajvānam, a self-cherisher not offering sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever presses soma for him in the heat or whoever in the cold, he  certainly becomes heaven-bright.  
 The able one, the bounteous one who is partner to the poet (/Kavi  
@@ -147,7 +147,7 @@ The able one, the bounteous one who is partner to the poet (/Kavi
 his body.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ū́dhar / ū́dhan- as ‘cold’, beside the homonym ‘udder’, see comm. ad VIII.2.12. Note the phonological echo at the end of pādas a and c: ū́dhani# / ūhati#.
 
@@ -172,23 +172,23 @@ If this interpr. is correct, it may help explain the use of the peculiar formati
 Another piece of evidence may support my view of cd as expressing the undeserved and capricious reversal of fortune of the soma-presser who was riding high in ab. Remember that cd begins with the double preverb ápāpa, which could also be the voc. of an adj. ‘not-evil’. I suggest that this is a despairing address to the soma-presser of ab: “o un-evil [/blameless] one, see what can happen to you anyway.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Illustrious is the man whoever presseth out Soma for him in sunshine or in cloud and rain.  
      The mighty Maghavan who is the sage's Friend advanceth more and more his beauteous progeny.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer ihm bei Sonnenglut oder wer bei Nachtkühle Soma preßt, der wird fürwahr glorreich. Der Mächtige, Freigebige streift dem, der ein falscher Freund ist, den am Leibe glänzenden ........ ganz ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ihm in heitrer, oder wer in trüber Zeit den Soma keltert, der fürwahr ist glanzerfüllt; Den Prahler stösst zurück der starke, mächtige, den eitlen Stutzer, der dem Kargen sich gesellt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ему при солнечном зное или кто ночью  
 Выжимает сому, бывает очень блистательным.  

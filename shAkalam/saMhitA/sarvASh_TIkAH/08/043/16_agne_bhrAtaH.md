@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्ने भ्रा꣡तः स꣡हस्कृत  
 रो꣡हिदश्व शु꣡चिव्रत  
 इमं꣡ स्तो꣡मं जुषस्व मे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इ॒मम् । स्तोम॑म् । जु॒ष॒स्व॒ । मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **भ्रातः** भ्रातृवद्यजमानानां मित्रभूत **सहस्कृत** सहसा बलेन कृत **रोहिदश्व** लोहितवर्णाश्व **शुचिव्रत** शुद्धकर्मन्नग्ने **मे** आङ्गिरसस्य मम **इमं** **स्तोमं** **जुषस्व** सेवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, (our) brother, who are elicited by strength, who have red horses, and are (the performer) of purerites, be propitiated by this my praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Brother Agni, made by might, having ruddy horses, of blazing  commandment—  
 enjoy this praise of mine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Agni, Brother, made by strength, Lord of red steeds and brilliant sway,  
      Take pleasure in this laud of mine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bruder Agni, Krafterzeugter, Rotrossiger von lauterem Walten, hab an diesem Loblied von mir Gefallen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, Bruder, krafterzeugt, mit rothen Rossen, lichtem Werk, Nimm dies mein Loblied gnädig an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни-брат, о созданный силой,  
 О хозяин красных коней, (бог) чистых заветов!  

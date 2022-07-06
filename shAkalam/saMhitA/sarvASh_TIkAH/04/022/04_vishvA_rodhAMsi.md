@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा रो꣡धांसि प्रव꣡तश् च पूर्वी꣡र्  
 दियउ꣡र् ऋष्वा꣡ज् ज꣡निमन् रेजत क्षाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नृव꣡त् प꣡रिज्मन् नोनुवन्त वा꣡ताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । मा॒तरा॑ । भर॑ति । शु॒ष्मी । आ । गोः । नृ॒ऽवत् । परि॑ऽज्मन् । नो॒नु॒व॒न्त॒ । वाताः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
@@ -125,7 +125,7 @@ genre M
 **विश्वा** विश्वानि **रोधांसि** । रोधःशब्देन उन्नतप्रदेशः उच्यते । उन्नतप्रदेशाः पर्वताश्च पूर्वीः पूर्व्यो बहूनि **प्रवतः** प्रवणानि । समुद्राश्चेत्यर्थः। **द्यौः** द्युलोकश्च **क्षाः** पृथिवी च **जनिमन्** इन्द्रस्य जन्मनि सति **ऋष्वात्** महतोऽस्मादिन्द्रात् **रेजत** अरेजन्त अकम्पन्त । किंच शुष्मी बलवान् इन्द्रः **गोः** गन्तुः सूर्यस्य **मातरा** मातरौ मातापितृभूतौ द्यावापृथिव्यौ च । **आ** इति चार्थे । **आ** **भरति** आ समन्तात् बिभर्ति । **नृवत्** मनुष्या इव **वाताः** इन्द्रेण प्रेरिता वायवश्च परिज्मन् अन्तरिक्षे **नोनुवन्त** शब्दायन्ते ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,14 +136,14 @@ genre M
 Parents of the moving sun: mātarā **bharati** goḥ: goḥ = gantuḥ sūryasya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (And) all the (river)banks and the many (river)beds—(and) heaven  trembles, and the earth, before the towering one at his birth.  
 The explosive one brings the two mothers here [=Heaven and Earth?],  (brings) here (the milk? [=rain?]) of the cow. The winds in their  
 circling roar constantly like men.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, polarized #dyaúr ... kṣā́ḥ# in b match the same (conceptual) pair in the same positions in 3d. Here in 4b the disjunction is emphasized by the fact that the two nominatives are subjects of a singular verb (rejata). The connection of the 3d and 4b is signaled by the fact that the same root provides the verb in both 3d and 4b: trans.-cause. rejayat and intrans. rejata respectively (both injunctives), and heaven and earth switch grammatical identity and function from object to subject.
 
@@ -158,23 +158,23 @@ Hoffmann (Injunk. 187 n. 147) cites Oldenberg’s own citation of himself (given
 As far as I can tell, Witzel Gotō also take it as an abl., but construed with ā́in the sense of “all the way to” (a marginal, but certainly attested, construction in the RV). There is nothing impossible about either of these interpr., but I do not see what they would mean in context, and neither Geldner nor Witzel Gotō give much help in that regard. For me the most appealing attempt to wring sense from this is Hoffmann’s (Injunk. 187). As in Geldner’s alternative, Hoffmann takes góḥ as a gen. in an elliptical expression, but with the gapped item a second object to bhárati: “Herbei bringt der Kraftschnaubende (seine) Eltern, herbei (das) der Kuh.” This makes good sense of the structure of the pāda (fitting better with Oldenberg’s pavpα scheme, since α would now be grammatically parallel to a). So what is the “das” in Hoffmann’s tr.? He suggests ‘milk’ or similar, though not with a great deal of conviction. The published translation supplies ‘milk’ as a possible metaphor for ‘rain’, and given the roaring winds of pāda d, I think rain is quite likely the gapped object, since ‘cow’ can be used of rain-bearing clouds. It also now occurs to me that it might instead be the Maruts (“[those] of the cow”), since they are the sons of the cow Pṛśni, as noted, e.g., in V.52.16, the same hymn that has the Paruṣṇī River foam passage cited above (vs. 2). The Maruts would also fit with the violent roaring of the wind in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Before the High God, at his birth, heaven trembled, earth, many floods and all the precipices.  
      The Strong One bringeth nigh the Bull's two Parents: loud sing the winds, like men, in air's mid-region.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Dämme und die vielen Ströme, Himmel und Erde zitterten vor dem Recken bei seiner Geburt, da der Kampfwütige die beiden Mütter von dem Rinde wegholt. Die Winde brüllten wie Männer in ihrem Umlauf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da er geboren, bebten Erd' und Himmel, die Wehren all und Halden vor dem hehren; Der starke führt zum Stiere hin die Aeltern; die Winde rauschten männergleich im Umkreis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Все плотины и многочисленные потоки,  
 Небо и земля сотрясались из-за громадного при (его) рождении:  

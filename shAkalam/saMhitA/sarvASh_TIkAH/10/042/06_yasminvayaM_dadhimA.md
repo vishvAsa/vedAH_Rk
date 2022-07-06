@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्मिन् वयं꣡ दधिमा꣡ शं꣡सम् इ꣡न्द्रे  
 यः꣡ शिश्रा꣡य मघ꣡वा का꣡मम् अस्मे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ अस्मै द्युम्ना꣡ ज꣡निया नमन्ताम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒रात् । चि॒त् । सन् । भ॒य॒ता॒म् । अ॒स्य॒ । शत्रुः॑ । नि । अ॒स्मै॒ । द्यु॒म्ना । जन्या॑ । न॒म॒न्ता॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
@@ -129,36 +129,36 @@ genre M
 **यस्मिन्** **इन्द्रे** **वयं** घौषेयाः सुहस्त्याः **शंसं** स्तुतिं **दधिम** विदध्मः । **यः** च **मघवा** धनवानिन्द्रः **अस्मे** अस्मासु **कामम्** अभिलाषं **शिश्राय** श्राययति । **अस्य** इन्द्रस्य **शत्रुः** **आरात्** दूर एव **सन्** **चित्** सन्नपि **भयतां** बिभेतु। किंच **अस्मै** इन्द्राय **जन्या** जन्यानि शत्रुजनपदभवानि **द्युम्ना** द्युम्नान्यन्नानि **नि** **नमन्तां** प्रह्वीभवन्तु । भोजनीयानि भवन्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the enemy of that **Indra** on whom we have laid our praise, the lord of affluence, who has grantedus our desires, be in the fear of him even when far off; may the food belonging to the country of the foe bowdown before him (to enjoy).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra, upon whom we have set our laud, the bounteous one who has  fixed his desire upon us—  
 let his rival, though he is far away, take fright, and let the peoples’  brilliant things bow down to him.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He unto whom we offer praises, Indra, Maghavan, who hath joined to ours his wishes,-  
      Before him even afar the foe must tremble: low before him must bow all human glories.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, auf den wir eine Lobrede gemacht haben, der Gabenreiche, der seinen Wunsch auf uns gerichtet hat - noch fern von ihm soll sein Gegner Furcht bekommen; die Herrlichkeiten anderer Leute sollen sich ihm beugen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor Indra, dem wir dieses Preislied weihten, dem starken, der mit Liebe uns umfasst hat, Muss fürchten sich sein Feind, auch wenn er fern ist, der Gegner Kräfte müssen sich ihm beugen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (тот) Индра, которому мы воздали хвалу,  
 (тот) щедрый, кто направил на нас (свое) желание, -  

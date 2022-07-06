@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रेवाँ꣡ इ꣡द् रेव꣡त स्तोता꣡  
 स्या꣡त् तुवा꣡वतो मघो꣡नः  
 प्रे꣡द् उ हरिवः श्रुत꣡स्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 प्र । इत् । ऊं॒ इति॑ । ह॒रि॒ऽवः॒ । श्रु॒तस्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *revāṃ* ← *revat*
 - \[noun\], nominative, singular, masculine
@@ -86,7 +86,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 हे **हरिवः** हरिवन् । मतुवसो रुः' इति नकारस्य रुत्वम् । हरी अश्वौ । तद्वन्निन्द्र **रेवतः** रयिमतो बहुधनोपेतस्य तव **स्तोता** **रेवान्** **स्यात्** रयिमान् भवेत् । इच्छब्दोऽवधारणे । धनवान् भवेदेव न तु दारिद्र्यं प्राप्नोति । उक्तमेवार्थं कैमुतिकन्यायेन द्रढयति । **त्वावतः** त्वत्सदृशस्य । ‘ युष्मदस्मद्यां । छन्दसि सादृश्य उपसंख्यानम् ' इति वतुप् । **मघोनः** मघवतो धनाढ्यस्य **श्रुतस्य** विश्रुतस्य सर्वत्र प्रख्यातस्यान्यस्यापि स्तोता **प्रेदु** । स्यात् इत्यनुषज्यते । प्रस्यात् । प्रभवेदेव न तु निहीयते । किमु वक्तव्यं तव स्तोता धनवान् भवेदेवेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -97,13 +97,13 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Surpass one: the praiser of any one wealthy and renowned like you wouldassuredly prosper (much more, than of you)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rich indeed should be the praiser of a rich benefactor like you,  
 and far(-famed) indeed (the praiser) of a famous one, o possessor of  the fallow bays.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Given the parallelism with ab, we might expect to supply śrutáḥ in c.
 
@@ -112,23 +112,23 @@ However, prá makes some difficulties: no práśruta- is attested. However, prá
 -ire has the meaning ‘is/are far-famed’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rich be the praiser of one rich, munificent and famed like thee:  
      High rank be his, O Lord of Bays.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Reich sollte der Sänger eines Reichen und Freigebigen, wie du bist, sein; den Vorrang sollte der Sänger eines berühmten Herrn haben, o Falbenfahrer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Reich soll sein des reichen Sänger, eines mächtigen wie du bist, Hochberühmter Herr der Füchse.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатым должен быть восхвалитель  
 У богатого и щедрого, как ты.  

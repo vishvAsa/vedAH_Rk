@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिः꣡ स्म मा꣡ह्नः श्नथयो वैतसे꣡न  
 उत꣡ स्म मे अ꣡वियत्यै पृणासि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जा मे वीर तनु꣡वस् त꣡द् आसीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 पुरू॑रवः । अनु॑ । ते॒ । केत॑म् । आ॒य॒म् । राजा॑ । मे॒ । वी॒र॒ । त॒न्वः॑ । तत् । आ॒सीः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *triḥ* ← *tris*
 - \[adverb\]
@@ -135,7 +135,7 @@ genre D
 अनेन पुरूरवसमेव संबोध्योक्तवती । हे पुरूरवः त्वं **मा** माम् **अह्नः** अहनि **वैतसेन** दण्डेन पुंव्यञ्जनेन **त्रिः** त्रिवारम् । द्वित्रिचतुर्भ्यः सुच् ' ( पा. सू. ५.४.१८ )। **श्नथयः** **स्म** । अश्नथयः अताडयः । ‘कृत्वोऽर्थप्रयोगे (पा. सू. २. ३. ६४) इति कालवाचिनोऽहःशब्दादधिकरणे षष्ठी। **उत** अपि च । **स्म** इति पूरणः । **अव्यत्यै**। सपत्नीभिः सह पर्यायेण पतिमागच्छति सा व्यती। न तादृश्यव्यती। तस्यै **मे** मह्यं **पृणासि** पूरयसि । एवं बुद्ध्या हे **पुरूरवः** **ते** तव **केतं** गृहम् **अनु** **आयम्** अन्वगमं पूर्वम् । हे **वीर** **राजा** त्वं च **मे** मम **तन्वः** शरीरस्य **तत्** तदा **आसीः** अभवः । सुखयितेति शेषः । परमप्येवं मन्तव्यं किमिति कातरो भवसीत्युवाच ॥ ॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,29 +146,29 @@ genre D
 Thrice a day: an allusion perhaps, tothe three diurnal phases of the sun, his rising, culminating and setting, in which case Purūravā typifies the sun,and **Ūrvaśī** either the wky or the day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Urvaśī:] “Three times a day you used to pierced me with your rod, and  you ‘filled it up’ [=had an erection] for me, who did not seek it.  
 Purūravas, I followed your will. You were then the king of my body, you  ‘hero.’”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thrice in the day didst thou embrace thy consort, though coldly she received thy fond caresses.  
      To thy desires, Pururavas, I yielded: so wast thou king, O hero, of my body.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreimal des Tages stachst du mich mit der Rute, und du ließest mir, wenn ich keine Gelüste hatte, reichlich zukommen. Pururavas, ich bin auf deinen Willen eingegangen; du Mann warst da meines Leibes Herrscher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Dreimal des Tages hast du mich gestossen mit deinem Gliede und fülltest reichlich ein der nicht verlangenden; ich gab deinem Willen nach, o Purūravas, da warst du, o Held, Beherrscher meines Leibes.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

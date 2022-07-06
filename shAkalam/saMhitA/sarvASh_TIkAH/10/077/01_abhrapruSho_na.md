@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभ्रप्रु꣡षो न꣡ वाचा꣡ प्रुषा व꣡सु  
 हवि꣡ष्मन्तो न꣡ यज्ञा꣡ विजानु꣡षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गण꣡म् अस्तोषि एषां न꣡ शोभ꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.
 सु॒ऽमारु॑तम् । न । ब्र॒ह्माण॑म् । अ॒र्हसे॑ । ग॒णम् । अ॒स्तो॒षि॒ । ए॒षा॒म् । न । शो॒भसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhrapruṣo* ← *abhrapruṣaḥ* ← *abhrapruṣ*
 - \[noun\], accusative, plural, feminine
@@ -128,36 +128,36 @@ genre M;; bhārgavī; see Arnold (1905) 240–1.
 **अभ्रप्रुषो** **न** मेघान्निर्गच्छन्त उदकबिन्दव इव **वाचा** स्तुत्या प्रीता मरुतः **वसु** धनं **प्रुष** सिञ्चन्ति । व्यत्ययेन बहुवचनम्। किंच **हविष्मन्तो** **न** **यज्ञाः** हविर्भिर्युक्ता यागा इव **विजानुषः** जगतो विजनयितारौ भवन्ति । अथ समुदायेनाह। तेषाम् **एषां** **सुमारुतं** शोभनानां मरुतां **ब्रह्माणं** महान्तं **गणम्** **अर्हसे** पूजार्थं **न** **अस्तोषि** नास्तौषम् । न स्तुतवानस्मीतः पूर्वम् । तथा **शोभसे** शोभार्थमपि मारुतं गणं **न** अस्तोषि। अत इदानीं नूतनेन स्तोत्रेण स्तौमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(The **Maruts**), plural ased with our praise like water-drops sent down by clouds, shower wealth; they arethe genitive rators (of the world) like sacrifices abounding with oblations; I have not praised the mighty band ofMaruts (adequately) for their honour or of their glory.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like (the Maruts) showering (rain) from a cloud with their speech  [=thunder], I will shower goods with my speech. The sacrifices of a  discerning one [=poet] are like [=just as good as] those provided with  oblations.  
 I have praised the flock of them as if praising the Formulator [=Indra?],  who is well provided with Maruts—have praised them for their  worthiness (of soma), as if for their beauty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As with their voice from cloud they sprinkle treasure so are the wise man's liberal sacrifices.  
      I praise their Company that merits worship as the good Martits' priest to pay them honour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Wolkenschauer den Regen will ich mit meiner Rede Gutes sprühen. Die Gebetsworte des Sachkundigen sind wie die von Opferspenden begleiteten. Wie um den Beschwörer aufzuwiegen, der schönes Marutwetter beschwört, habe ich auf ihre Schar ein Loblied angestimmt, um sie gleichsam schön zu machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Ergüsse der Regenwolke will ich mit meiner Stimme Gutes ergiessen, wie trankreiche Opfer des kundigen; um werth zu halten wie einen Priester das Volk der Maruts (?), habe ich nun ihre Schar zu rühmen unternommen wie zu ihrer Verherrlichung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Речью я хочу кропить добро, подобно брызгам из туч.  
 (Словесные) почитания разбирающегося (в этом) подобны сопровождаемым возлиянием (обрядам).  

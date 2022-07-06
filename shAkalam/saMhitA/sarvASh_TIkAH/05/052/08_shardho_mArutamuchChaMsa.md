@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡र्धो मा꣡रुतम् उ꣡च् छंस  
 सत्य꣡शवसम् ऋ꣡भ्वसम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 प्र꣡ स्यन्द्रा꣡ युजत त्म꣡ना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒त । स्म॒ । ते । शु॒भे । नरः॑ । प्र । स्य॒न्द्राः । यु॒ज॒त॒ । त्मना॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
@@ -110,20 +110,20 @@ genre M
 हे स्तोतः **मारुतं** **शर्धः** बलम् **उत्** उत्कृष्टं **शंस** स्तुहि । कीदृशं शर्धः। **सत्यशवसं** सत्यवेगम् **ऋभ्वसं** महदतिप्रवृद्धम् । **उत** **स्म** अपि च **नरः** वृष्टेर्नेतारः **ते** मरुतः **शुभे** उदकार्थं **प्र** **युजत** प्रायुञ्जत समयोजयन् **त्मना** आत्मनैव जगद्रक्षाबुद्ध्यैव **स्पन्द्राः** चलनस्वभावाः पृषतीरित्यर्थः । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Glorify the truth-invigorated and infinite strength of the **Maruts**, for they, the leaders (of the rains), gliding along, are labouring voluntarily for (our) good.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Exalt the Marut troop, of real strength, ingenious.  
 The men, streaming, hitch up by themselves for beauty.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes syandrā́(ḥ) as acc. pl. fem. and supplies antelopes as the obj. of yujata. This is not impossible, but syandrā́(ḥ) was already used of the Maruts in 3a (cf. also V.87.3).
 
@@ -138,23 +138,23 @@ I don't understand the force of utá sma, which opens 8c and 9a, with utá openi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise thou the Maruts' company, the valorous and truly strong,  
      The Heroes, hasting, by themselves have yoked their deer for victory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Preise laut das marutische Heer, dessen Stärke wahrhaftig ist, das meisterhafte! Und diese Männer schirren zur Prunkfahrt selbst die springenden Antilopen an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Besinge laut die Marutschar, die wahrhaft starke, tüchtige; Schon rüsteten zum Schmucke sich die Männer selbst, die eilenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прославь толпу марутову,  
 Чья сила истинна, умелую!  

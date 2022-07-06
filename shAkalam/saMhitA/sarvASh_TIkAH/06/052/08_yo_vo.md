@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ वो देवा घृत꣡स्नुना  
 हव्ये꣡न प्रतिभू꣡षति  
 तं꣡ वि꣡श्व उ꣡प गछथ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 तम् । विश्वे॑ । उप॑ । ग॒च्छ॒थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -88,19 +88,19 @@ genre M
 हे **देवाः** **वः** युष्मान् **यः** जनः **घृतस्नुना** घृतप्रक्षरणेन **हव्येन** हविषा **प्रतिभूषति** परिचरति **तं** जनं **विश्वे** सर्वे यूयम् **उप** **गच्छथ** उपगता भवथ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, gods, to him who honours you with the butter drippling oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who attends to you with a ghee-backed oblation, o gods— you all come close to him.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details open><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -110,23 +110,23 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him who comes to meet you, Gods, with offerings bathed in holy oil-  
      Approach ye, one and all, to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer euch mit schmalzbedeckter Spende aufwartet, ihr Götter, zu dem kommt ihr alle her.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer, Götter, euch mit Opfer schmückt, das Butter auf dem Rücken trägt, Zu dem kommt allesammt herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто вам, о боги, служит  
 Жирноспинной жертвой,  

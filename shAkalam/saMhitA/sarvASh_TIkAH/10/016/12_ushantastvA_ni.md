@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡न्तस् त्वा नि꣡ धीमहि  
 उश꣡न्तः स꣡म् इधीमहि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पितॄ꣡न् हवि꣡षे अ꣡त्तवे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 उ॒शन् । उ॒श॒तः । आ । व॒ह॒ । पि॒तॄन् । ह॒विषे॑ । अत्त॑वे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśantas* ← *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
@@ -100,7 +100,7 @@ popular;; epic anuṣṭubh (424)
 हे अग्ने उशन्तः कामयमानाः वयं त्वा त्वां निधीमहि कर्मार्थं स्थापितवन्तः । उशन्तो वयं समिधीमहि सन्दीपयामः । त्वमपि उशन् कामयमानोहविरादिकं उशतः आगन्तुकामान् पितॄन् अस्मिन्यज्ञे आवह हविषे अस्माभिः प्रत्तं हविः अत्तवे अत्तुम् । अदेस्तुमर्थे तवेन् प्रत्ययः क्रियाग्रहणङ्कर्तव्यमितिकर्मणः सम्प्रदानसञ्ज्ञा ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,29 +111,29 @@ popular;; epic anuṣṭubh (424)
 **Kavya**: an offering to sages, i.e. pitṛs
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Eagerly we would install you; eagerly we would kindle you.  
 Eagerly convey the eager forefathers here, to eat the oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Right gladly would we set thee down, right gladly make thee burn and glow.  
      Gladly bring yearning Fathers nigh to cat the food of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Willig wollen wir dich einsetzen, willig dich anzünden. Willig fahre die willigen Väter hierher, um die Opferspende zu essen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zum Opfermahl, begehrend die begehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Радостные, мы устроили тебя,  
 Радостные, воспламеним.  

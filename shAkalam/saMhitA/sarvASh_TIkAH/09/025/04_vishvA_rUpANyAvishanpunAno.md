@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वा रूपा꣡णि आविश꣡न्  
 पुनानो꣡ याति हर्यतः꣡  
 य꣡त्रामृ꣡तास आ꣡सते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 यत्र॑ । अ॒मृता॑सः । आस॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
@@ -81,40 +81,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **विश्वा** सर्वाणि रूपाण्याविशन् **पुनानः** पूयमानः **हर्यतः** कमनीयः । ‘हर्य गतिकान्त्योः । ईदृशः **याति** गच्छति । **यत्र** **अमृतासः** अमृता देवाः **आसते** तिष्ठन्ति तं देशं याति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pervading all forms, the pure, the desirable goes to the plural ce where the immortals abide.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Entering into all forms, becoming purified, the delightful one journeys to where the immortals have their seats.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is disagreement about what it means for Soma to “enter all forms” (víśvā rūpā́ṇy āviśán): Geldner thinks that it refers to the various stages of soma preparation, while Renou that it refers to the divine forms, that is the gods, whom Soma enters when he is drunk. I slightly favor Geldner’s explanation, since Soma only reaches the gods in the last pāda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Taking each beauteous form, he goes, desirable, while purified,  
      Thither where- the Immortals sit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Formen annehmend, sich läuternd geht der Begehrenswerte dorthin, wo die Unsterblichen sitzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Annehmend alle Formen geht sich klärend der willkommene Zum Sitze der Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принимая все облики,  
 Очищаясь, движется желанный (туда),  

@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् जाता꣡ देवा꣡ना᳐म्  
 अग्नि꣡र् वेद म꣡र्तिआनाम्° अपीचि꣡यम्  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 न꣡भन्ताम् अन्यके꣡ समे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -37,7 +37,7 @@ genre M;; line affected by realignment;; repeated line
 अ॒ग्निः । सः । द्र॒वि॒णः॒ऽदाः । अ॒ग्निः । द्वारा॑ । वि । ऊ॒र्णु॒ते॒ । सुऽआ॑हुतः । नवी॑यसा । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -147,21 +147,21 @@ genre M;; line affected by realignment;; repeated line
 **देवानां** **जाता** जातानि जन्मानि **अग्निः** वेत्ति'। **मर्तानां** मनुष्याणां च **अपीच्यम्** गुह्यम् **अग्निः** **वेद** वेत्ति । **सः** **अग्निः** **द्रविणोदः** धनस्य दाता । **नवीयसा** नवतरेण हविषा **स्वाहुतः** सम्यग्घुतः **अग्निः** **द्वारा** धनस्य द्वाराणि व्यूर्णुते च । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** knows the birth of the gods; Agni knows the secrets of mankind; Agni is the giver of riches; Agni,duly worshipped with a new (oblation), sets open the doors (of opulence); may all our adversaries perish.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni knows the races of the gods, Agni (those) of mortals: (this is his)  secret name [=Jātavedas]. Agni is the giver of treasure.  
 Agni opens the doors, when well bepoured with a newer (speech).  
 – Let all the other squirts burst!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As pointed out in the published introduction, pādas ab contain a pun -- which Geldner fails to note and Renou mentions in his n. but fails to render in his translation. Agni “knows the races” (jātā́… veda) of gods and men. Those two words in that order produce his common epithet Jātavedas. I take apīcyàm ‘hidden, secret’ at the end of b as a separate clause, alluding to this pun: “(this is his) secret (name).” (The published translation
 
@@ -172,23 +172,23 @@ In e Geldner supplies ghee with návīyasā: “mit erneutem (Opferschmalz).” 
 The poet could hardly have made his metaphorical intent clearer. (Renou is only a bit less flat-footed than Geldner; he gives návīyasā the correct referent [hymne], but still sneaks in a supplied beurre fondu to construe with svā̀hutaḥ.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni knows all that springs from Gods, he knows the mystery of men.  
      Giver of wealth is Agni, he uncloses both the doors to us when worshipped with our newest gift. Let all the others die away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni kennt die Geschlechter der Götter, Agni kennt das Geheimnis der Sterblichen. Agni ist der Schatzgeber, Agni schließt die Tore auf, wenn er mit erneutem Opferschmalz begossen wird. - All die anderen Schwächlinge sollen entzweigehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni erkennt der Götter Stamm, und Agni den der Menschen auch, Und Agni ist's der Gut vertheilt; die Thüren schliesset Agni auf, wenn er mit neuem Trunk versehn. Zerstieben soll der Feinde Schwarm.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни (знает) рождения богов,  
 Агни знает, что сокрыто у смертных.  

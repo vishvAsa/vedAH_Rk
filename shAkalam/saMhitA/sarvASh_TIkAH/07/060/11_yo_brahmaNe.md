@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ ब्र꣡ह्मणे सुमति꣡म् आय꣡जाते  
 वा꣡जस्य सातउ꣡ परम꣡स्य रायः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरु꣡ क्ष꣡याय चक्रिरे सुधा꣡तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सीक्ष॑न्त । म॒न्युम् । म॒घऽवा॑नः । अ॒र्यः । उ॒रु । क्षया॑य । च॒क्रि॒रे॒ । सु॒ऽधातु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -118,7 +118,7 @@ genre M
 **यः** यजमानः **ब्रह्मणे** परिवृढस्वकर्मणे युष्मत्स्तोत्ररूपाय **सुमतिं** शोभनां बुद्धिम् **आयजाते** आयजते । यजतिरत्र दाने । ददाति करोति । किमर्थम्। **वाजस्य** अन्नस्य **सातौ** दाने निमित्ते **परमस्य** उत्कृष्टस्य **रायः** धनस्य च सातौ। तस्य **अर्यः** । ईरयति स्तुतीः प्रेरयतीत्यरिः स्तोता। **मन्युं** स्तोत्रं **मघवानः** दानवन्तोऽर्यमादयः **सीक्षन्त** सचन्ते । सेवित्वा च तस्य **उरुक्षयाय** विस्तीर्णनिवासाय **सुधातु** सुधाम शोभनस्थानं **चक्रिरे** कुर्वते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,29 +129,29 @@ genre M
 Yo brahmaṇe sumatim āyajāte = yo yajamāno dadāti śobhanām buddhim yuṣmatstoktrūpāya, the instrumental tutor of the rite, who gives pure or pious understanding tot he nature or form of yourpraise
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who by sacrifice will gain your favor for his formulation at the winning  of victory’s prize and of the highest wealth,  
 his generous patrons will strive to overpower the battle fury of the  outsider. They have made for themselves a wide and secure place for  their dwelling.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who wins favour for his prayer by worship, that he may gain him strength and highest riches,  
      That good man's mind the Mighty Ones will follow: they have brought comfort to his spacious dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der für seine feierliche Rede die Gunst der Götter erbitten soll, wenn es sich um den Gewinn des Siegerpreises, des höchsten Reichtums handelt, dessen Gönner sollen die böse Absicht des Nebenbuhlers zu bezwingen suchen. Sie haben sich ein weites, reiches Land zum Wohnen bereitet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer Göttergunst für sein Gebet erflehet, um zu erlangen Glück und höchsten Reichthum, Für den bezwingen Feindeszorn die mächt'gen und schaffen ausgedehnten Raum der Herrschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто для священного слова жертвой добывает благосклонность (богов)  
 При захвате добычи, высшего богатства –  

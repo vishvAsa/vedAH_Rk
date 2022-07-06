@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मणा ते ब्रह्मयु꣡जा युनज्मि  
 ह꣡री स꣡खाया सधमा꣡द आशू꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रजान꣡न् विद्वाँ꣡ उ꣡प याहि सो꣡मम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 स्थि॒रम् । रथ॑म् । सु॒खम् । इ॒न्द्र॒ । अ॒धि॒ऽतिष्ठ॑न् । प्र॒ऽजा॒नन् । वि॒द्वान् । उप॑ । या॒हि॒ । सोम॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
@@ -130,42 +130,42 @@ genre M;; repeated line
 चातुर्विंशिकेऽहनि माध्यन्दिने सवने ब्राह्मणाच्छंसिशस्त्रे ब्रह्मणा त इत्यारम्भणीया । सुत्रितं च । ब्रह्मणा ते ब्रह्मयुजा युनज्म्युरुं नो लोकमनुनेशि विद्वान् । आ. ७-४ । इति ॥हे इन्द्र ब्रह्मयुजा ब्रह्मणा मन्त्रेण योक्तव्यौ सधमादे । माद्यन्ति योद्धारोऽत्रेति मादो युद्धम् । सहमादः सधमादः । तस्मिन्युद्धे सखाया समानपसिद्धी अत एवाशू क्षिप्रगमनोपेतौ ते तव हरी अश्वौ ब्रह्मणा स्तोत्रेण युनज्मि । रथे संयोजयामि । स्थिरं सुदृढं सुखं सुष्ठुद्वारं तादृशं रथमधितिष्ठन् आरूढस्त्वं सोमपानार्थमायाहि । प्रजानन्नित्याद्यगमत् । ब्रह्मयुजा । युजेरौणादिकः कर्मणि क्विप् । युनज्मि । युजेर्लिटिरूपम् । निघातः । सधमादे । मदी हर्षे । अधिकरणे घञ् । सध मादस्थयोश्छन्दसीति सहस्य सधादेशः । कृदुत्तरपदप्रकृतिस्वरः । रथम् । अधिशीङ् स्थासाम् कर्मेति कर्मसञ्ज्ञा । सुखम् । खनु विदारणे । अन्येभ्योऽपि दृश्यत इति डः । कृदुत्तरपदस्वरः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I harness with prayer your horses, who are to be harnessed with prayer, who are allies and swift-paced in battle; arise, and all-knowing **Indra**, mounting on your firm and easy chariot, come to the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With a sacred formulation I yoke for you the formulation-yoked pair of  fallow bays, your swift comrades in joint revelry.  
 O Indra, mounting the sturdy, well-naved chariot, thinking ahead,  
 knowing, drive up to the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The double etymological figure in pāda a is almost awkwardly heavy: bráhmaṇā te brahmayújā yunajmi, an awkwardness necessarily reflected in the tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those who are yoked by prayer I harness, fleet friendly Bays who take their joy together.  
      Mounting thy firm and easy car, O Indra, wise and all-knowing come thou to the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit kräftigem Zuspruch schirre ich dir die beiden durch bloßen Zuspruch geschirrten Falben, deine Kameraden bei dem Somagelage, die Renner. Besteige den festen, leichten Wagen, o Indra, und komm des Weges kundig als Kenner zum Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich schirre dir durch Spruch die spruchgeschirrten das rasche Rossepaar beim Mahl, o Indra, Besteig den festen gutgeschmierten Wagen, des Weges kundig, komme her zum Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Священным словом я запрягаю для тебя запрягаемую (одним лиш священным словом)  
 Пару буланых коней, любителей совместных опьянений, быстрых;  

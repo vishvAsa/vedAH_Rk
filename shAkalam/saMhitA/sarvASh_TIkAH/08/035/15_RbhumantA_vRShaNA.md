@@ -6,7 +6,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभुम꣡न्ता वृषणा वा꣡जवन्ता  
 मरु꣡त्वन्ता जरितु꣡र् गछथो ह꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 आदित्यइ꣡र् यातम् अश्विना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 स॒ऽजोष॑सौ । उ॒षसा॑ । सूर्ये॑ण । च॒ । आ॒दि॒त्यैः । या॒त॒म् । अ॒श्वि॒ना॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhumantā* ← *ṛbhumat*
 - \[noun\], nominative, dual, masculine
@@ -101,41 +101,41 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **ऋभुमन्ता** ऋभुसहितौ **वृषणा** कामानां वर्षितारौ वाजवन्तौ वाजयुक्तौ मरुत्वन्तौ च स्तोतुराह्वानं गच्छतम् । ऋभुमन्ता वाजवन्ता इति ज्येष्ठकनिष्ठाभ्यां व्यपदेशः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associated with the **Ṛbhus**, and with the **maruts**, repair, showerers (of benefits), dispensers of food, tothe invocation of the adorer; repair (to him), **Aśvins**, united with the dawn, with **Sūrya**, and with the **Ādityas**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Accompanied by the R̥bhus, o bulls, accompanied by prizes,  accompanied by the Maruts you go to the singer’s call.  
 – In concert with Dawn and the Sun, drive with the Ādityas, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vā́javant- may mean -- instead of, or in addition to, ‘accompanied by prizes’ -- ‘accompanied by Vāja’ (name of one of the Ṛbhus) or ‘… the Vājas’ (as a designation of all the Ṛbhus). Certainly the juxtaposition with ṛbhumánt- is meant.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Rbhus and With Vajas. O ye Mighty Ones, leagued with the Maruts come ye to your praiser's call.  
      Accordant, of one mind with Surya and with Dawn, and with the Adityas, Asvins! come.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Ribhu´s begleitet, ihr Bullen, von Vaja und den Marut begleitet kommet ihr auf des Sängers Ruf, einträchtig mit Usas und Surya, mit den Aditya´s kommet, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint mit Ribhu und mit Vadscha, Stiere ihr, und mit den Maruts kommt ihr zu des Sängers Ruf, Vereinigt mit der Sonne und dem Morgenroth und den Aditja's, Ritter, kommt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сопровождаемые Рибху, о два быка, сопровождаемые Ваджей,  
 Сопровождаемые Марутами отправляйтесь на зов певца!  

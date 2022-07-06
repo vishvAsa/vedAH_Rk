@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परो꣡ य꣡त् त्व꣡म् परम꣡ आज꣡निष्ठाः  
 पराव꣡ति श्रु꣡तियं ना꣡म बि꣡भ्रत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा अपो꣡ अजयद् दास꣡पत्नीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अतः॑ । चि॒त् । इन्द्रा॑त् । अ॒भ॒य॒न्त॒ । दे॒वाः । विश्वाः॑ । अ॒पः । अ॒ज॒य॒त् । दा॒सऽप॑त्नीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *paro* ← *paras*
 - \[adverb\]
@@ -125,20 +125,20 @@ genre M
 **यत्** यदा हे इन्द्र **परः** परस्तादुपरिष्टात् स्थितः **परमः** उत्कृष्टतमः **त्वं** **परावति** दूरे **श्रुत्यं** श्रवणीयं **नाम** नामधेयं **बिभ्रत्** धारयन् **आजनिष्ठाः** आ समन्तादजायथाः । शेषः परोक्षकृतः । **अतश्चित्** अत आरभ्यैव **देवाः** द्योतमानाः अग्न्यादयः **इन्द्रात्** **अभयन्त** बिभ्युः । **विश्वा** **अपः** सर्वाण्युदकानि इन्द्रः **अजयत्** वशीचक्रे । कीदृशीः । **दासपत्नीः** । दासो वृत्रः पतिः पालयिता यासामपां ता इति ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “When you have been born most excellent and supreme, bearing a name widely renowned, then the gods have been in dread of **Indra**, and he has subjugated all the waters, the brides of the slave (**Vṛtra**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you were born far away in the farthest (realm), bearing a name  famous afar,  
 from then on even the gods feared Indra. He conquered all the waters,  those whose husband [=Vr̥tra] was a Dāsa.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The Pp. interprets paramá as nom. sg. m. paramáḥ, and Geldner (/Witzel Gotō) follow suit. I prefer the equally possible reading paramé, on the basis of several ‘born’ passages with this expression. Cf., e.g., I.143.2 sá jā́yamānaḥ paramé vyòman (though the subj. is Agni there).
 
@@ -149,23 +149,23 @@ Note the switch from 2nd ps. ref. to Indra (rel. cl. 5ab) to 3rd ps. ref. (main 
 5c, new cl. 5d).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou wast born supremest at a distance, bearing a name renowned in far-off regions,  
      Since then e'en Gods have been afraid of Indra: he conquered all the floods which served the Dasa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als du, der weitaus Höchste, geboren wurdest, deinen rühmlichen Namen in die Ferne tragend, von da ab fürchteten sich auch die Götter vor Indra. Alle Gewässer eroberte er, deren Herr Gemahl der Dasa war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als du als höchster ferneher erschienest, weithin verbreitend den berühmten Namen, Da fürchteten vor Indra sich die Götter, die feindbeherrschten Wasser all errang er.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда выше (всех) ты родился как высший,  
 Унося вдаль (свое) имя, достойное славы,  

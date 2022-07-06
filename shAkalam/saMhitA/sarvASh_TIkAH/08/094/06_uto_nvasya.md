@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ नु꣡ अस्य जो꣡षम् आँ꣡  
 इ꣡न्द्रः सुत꣡स्य गो꣡मतः  
 प्रात꣡र् हो꣡तेव मत्सति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्रा॒तः । होता॑ऽइव । म॒त्स॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -90,41 +90,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **उतो** अपि च **इन्द्रः** **सुतस्य** अस्माभिरभिषुतस्य **गोमतः** गव्यैर्मिश्रणवतः **अस्य** । अन्वादेशः । पूर्ववद्दशापवित्रेण पूतस्य सोमस्य **जोषं** पानरूपां सेवां **प्रातः** प्रातःसवने **नु** क्षिप्रम् **आ** **मत्सति** । मदि स्तुत्यादिषु । आभिमुख्येन स्तौति । यद्वा । सोमसेवां कामयते । तत्र दृष्टान्तः । **होतेव** । यथा होता प्रातःसवने देवानभिष्टौति देवान् स्तोतुं वाभिवाञ्छति ॥ ॥ २८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** also is eager in the morning to drink this effused (**Soma**) mixed with milk, as a priest (to praise thegods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now at pleasure Indra (drinks) of it, of the pressed one with its  cows [=milk-mixture];  
 early in the morning he will become exhilarated like a Hotar.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “(drinks)” supplied in ab is not strictly necessary, since the genitives could be construed with matsati in c (so Geldner/Renou). I have supplied it because √pā ‘drink’ is the signature verb of this tṛca (píbanti 4b, 5a), but I am not wedded to it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And Indra, like the Herald Priest, desirous of the milky juice,  
      At early morn will quaff thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und nun soll sich Indra an diesem ausgepreßten, milchgemischten Soma nach Gutdünken am Morgen wie der Hotri ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und Indra auch berausche nun nach Lust am milchgemischten Trank Früh morgens wie ein Priester sich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И Индра пусть в свое удовольствие  
 Опьяняется этим выжатым смешанным с молоком  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न् नो अनर्वा꣡ सविता꣡ व꣡रूथं  
 त꣡त् सि꣡न्धव इष꣡यन्तो अ꣡नु ग्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रायः꣡ स्याम प꣡तयो वा꣡जरत्नाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 उप॑ । यत् । वोचे॑ । अ॒ध्व॒रस्य॑ । होता॑ । रा॒यः । स्या॒म॒ । पत॑यः । वाज॑ऽरत्नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -133,43 +133,43 @@ genre M
 **तत्** प्रसिद्धं **वरूथं** वरणीयमस्मदभिमतं धनं **नः** अस्मभ्यम् **अनर्वा** अप्रत्यृतः केनाप्यतिरस्कृतः **सविता** देवः प्रयच्छत्विति शेषः । **तत्**: धनं **सिन्धवः** स्यन्दनशीलाः **इषयन्तः** गच्छन्त्यो नद्यः **अनु** अनुसृत्य **ग्मन्** गच्छन्तु । धनं दातुं गच्छन्त्वित्यर्थः । **यत्** यस्मात् **अध्वरस्य** यागस्य **होता** होमनिष्पादकोऽहम् **उप** **वोचे** उपेत्य ब्रवीमि तस्मात्तत्प्रयच्छन्त्विति शेषः । वयं चात्रयः **रायः** धनस्य बहुविधस्य **पतयः** स्वामिनः **स्याम** भवेम । **वाजरत्नाः** अन्नेन बलेन वा रमणीयाः । अथवा यद्यस्माद्वोचे स्तौमि तस्मात् सविता नो वरूथमागच्छतु । तस्मान्नद्यश्च नो वरूथं यज्ञमनु ग्मन् अनुगच्छन्त्विति वा योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the irreproachable **Savitā** (grant) us that desirable (wealth); may the flowing rivers hasten to (convey) it to us; for which purpose I, the ministering priest of the sacrifice, repeat (pious praises); affluent in food, may we be the lords of (manifold) riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then Savitar without assault is our defense, then the nurturing rivers  follow suit,  
 when, as Hotar of the ceremony, I call upon (them). May we be lords of  wealth, with prizes as our treasure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. supply a verb (such as ‘grant’) in pāda a, but this seems unnecessary. The clause can be an equational expression; gods are called upon to be várūtham ‘defense’ elsewhere: cf. I.59.8 bhávā várūthaṃ grṇ̥ até ... (Agni); sim.
 
 VII.32.7 (Indra), VIII.67.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sending the shelter which we ask, the foeless Savitar and the Rivers shall approach us.  
      When I, the sacrifice's priest, invite them, may we he lords of wealth and rich possessions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Schutz möge uns der unerreichte Savitri gewähren; dem mögen die labenden Flüsse nachkommen, worum ich als Hotri des Opfers bitte: Wir möchten reichbelohnte Herren des Reichtums sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erlabend mögen diesen Schutz die Ströme, der unnahbare Savitar uns bieten, Wenn als des Festes Priester ich sie rufe, so sei'n wir reichbeschenkte Herrn des Reichthums.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Пусть) нам (дарует) эту защиту непобедимый Савитар!  
 Пусть следуют за ней насыщающие реки!  

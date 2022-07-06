@@ -6,14 +6,14 @@ ChandaH = "विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ शू꣡ने अग्ने नि꣡ षदाम नॄणा꣡म्+  
 मा꣡शे꣡षसो अवी꣡रता प꣡रि त्वा  
 प्रजा꣡वतीषु दु꣡रियासु दुर्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्र॒जाऽव॑तीषु । दुर्या॑सु । दु॒र्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mā*
 - \[adverb\]
@@ -109,37 +109,37 @@ genre M
 हे **अग्ने** **शूने** शून्ये पुत्रादिरहिते गृहे **मा** **नि** **षदाम** न निवसाम । **नृणाम्** अन्येषां च गृहे **मा** नि षदाम । **दुर्य** गृहेभ्यो हित हे अग्ने **अशेषसः** अपुत्राः । ‘ तोक्म शेषः' इति पुत्रनामसु पाठात् । **अवीरता** अवीरतया युक्ताश्च सन्तः **त्वा** त्वां **परि** चरन्तः **प्रजावतीषु** एव **दुर्यासु** गृहेषु निवसाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us not sit down, **Agni**, in an empty dwelling, (nor in those) of (other) men; let us not be withoutsuccessors; or, being without **male** posterity, let us, friend of dwellings, (by) worshipping you, (come to abide) inhouses filled with progeny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni, let us not sit in the absence of men, nor (let us sit) around you  without posterity because of a lack of heroes [=sons]  
 amid (other) houses filled with offspring, o you belonging to  
 the house—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let us not sit in want of men, O Agni, without descendants, heroleu, about thee:  
      But, O House-Friend, in houses full of children.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten nicht der Männer bar, nicht ohne Leibeserben aus Mangel an Söhnen dich umsitzen, o Agni, sondern in kinderreichem Hause, du Hausgenosse.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lass nicht um dich uns leer an Männern sitzen, vereinsamt nicht aus Kindermangel, Agni; An Kindern reich lass sein die Häuser, Hausfreund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы не хотим, о Агни, при нехватке мужей,  
 Без потомства из-за отсутствия сыновей сесть вокруг тебя –  

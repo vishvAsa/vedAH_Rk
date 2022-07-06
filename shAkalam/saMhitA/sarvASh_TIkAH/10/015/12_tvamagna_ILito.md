@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्न ईळितो꣡ जातवेदो  
 अ꣡वाड् ढव्या꣡नि सुरभी꣡णि कृत्वी꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अद्धि꣡ त्वं꣡ देव प्र꣡यता हवीं꣡षि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 प्र । अ॒दाः॒ । पि॒तृऽभ्यः॑ । स्व॒धया॑ । ते । अ॒क्ष॒न् । अ॒द्धि । त्वम् । दे॒व॒ । प्रऽय॑ता । ह॒वींषि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -129,7 +129,7 @@ popular
 हे **जातवेदः** । जातं सर्वं जगद्वेत्तीति जातवेदाः । तथाविध हे अग्ने **ईळितः** अस्माभिः स्तुतः **त्वं** **हव्यानि** अस्मदीयानि हवींषि **सुरभीणि** सुगन्धीनि **कृत्वी** कृत्वा **अवाट्** वहनं कृतवानसि । कृत्वा च **पितृभ्यः** **प्रादाः**। **ते** च पितरः **स्वधया** स्वधाकारेण दत्तं हविः **अक्षन्** अदन्तु । हे **देव** **त्वम्** अपि **प्रयता** प्रयत्नसंपादितानि **हवींषि** **अद्धि** भक्षय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ popular
 **Yajus**. 19.66: jātavedas = **kavyavāhana**; with the svadhā:svadhākāreṇa, i.e., with the exclamation, svadhā! or, it may mean, along with the svadhā or **pitṛ**-oblationitself
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni Jātavedas, reverently invoked, have conveyed the oblations,  having made them very fragrant.  
 You have presented them to the forefathers; they have eaten them at  
 (the cry of) “svadhā.” (Now) you, o god—eat the oblations set forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni Jatavedas, when entreated, didst bear the offerings which thou madest fragrant,  
      And give them to the Fathers who did cat them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni Jatavedas, hast dazu berufen die Opferspende duftig gemacht und sie befördert. Du hast sie den Vätern übergeben, die haben sie nach eigenem Ermessen gegessen; iß auch du, Gott, die dargereichten Spenden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schmückend, Gabst sie den Vätern, die mit Lust sie assen; iss du, o Gott, die dargereichten Speisen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни-Джатаведас, когда тебя призвали,  
 Ты увез жертвы, сделав (их) душистыми.  

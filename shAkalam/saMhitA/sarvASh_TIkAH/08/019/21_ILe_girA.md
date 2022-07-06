@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ई꣡ळे गिरा꣡ म꣡नुर्हितं  
 यं꣡ देवा꣡ दूत꣡म् अरतिं꣡ निएरिरे꣡  
 य꣡जिष्ठं हव्यवा꣡हनम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यजि॑ष्ठम् । ह॒व्य॒ऽवाह॑नम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *īﾱe* ← *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
@@ -84,36 +84,36 @@ genre M
 **गिरा** वाचा स्तुतिरूपया **मनुर्हितं** मनुना प्रजापतिना यजमानेनाहितं तमग्निम् **ईळे** स्तौमि । कीदृशम् । **यजिष्ठं** यष्टृतम **हव्यवाहनं** हविषां वोढारं **अरतिम्** अर्यमीश्वरं वा **दूतं** देवानां दूत्ये वर्तमानम् । **यम्** अग्निं **देवाः** **न्येरिरे** नितरां प्रेरयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I worship **Agni**, who has been established by **Manu** with praise, whom the gods have appointed theirroyal messenger, who is the most adorable, the bearer of oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With my hymn I reverently invoke the one established by Manu, the  circle of spokes whom the gods have set down as their messenger,  
 the best sacrificer, who carries the oblations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I praise with song the Friend of man, whom Gods sent down to be herald and messenger,  
      Best worshipper, bearer of our gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich berufe mit einer Lobrede den von Manu eingesetzten, den die Götter zum Boten, zum Wagenlenker bestellt haben, den bestopfernden Opferfahrer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich singe dem, den Manu fand, den Götter sich zum raschen Boten eingesetzt, Der bestens opfernd Tränke fährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я зову хвалебной песнью (того,) назначенного Манусом,  
 Кого боги определили вестником, посланником (?),  

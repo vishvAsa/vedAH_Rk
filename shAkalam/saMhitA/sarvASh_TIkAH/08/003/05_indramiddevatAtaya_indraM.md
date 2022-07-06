@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रम् इ꣡द् देव꣡तातय  
 इ꣡न्द्रम् प्रयति꣡ अध्वरे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रं ध꣡नस्य सात꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । स॒म्ऽई॒के । व॒निनः॑ । ह॒वा॒म॒हे॒ । इन्द्र॑म् । धन॑स्य । सा॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
@@ -98,7 +98,7 @@ genre M
 **देवतातये** । देवैः स्तोतृभिस्तायते विस्तार्यत इति देवतातिर्यज्ञः । तदर्थम् **इन्द्रमित्** देवेषु मध्य इन्द्रमेव आह्वयामहे । **अध्वरे** यज्ञे **प्रयति** प्रगच्छत्युपक्रान्ते सति **इन्द्रं** **हवामहे** । तथा **समीके** सम्यग्गते संपूर्णे च यागे **वनिनः** संभजमाना वयम् **इन्द्रम्** एवाह्वयामहे । यद्वा । समीकमिति संग्रामनाम । समीके संग्राम इन्द्रमाह्वयामहे । **धनस्य** **सातये** लाभाय **इन्द्रम्** एवाह्वयामहे । अतः शीघ्रमिन्द्र आगच्छत्वित्यर्थः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 At the close of the rite: samīkesampūrṇe yāge; or, it may mean saṅgrāme, in war
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 It is just Indra for the sake of the divine assemblage, Indra as the  ceremony advances,  
 Indra whom we call upon when we are winning at the encounter— Indra, in order to gain the stake.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra for worship of the Gods, Indra while sacrifice proceeds,  
      Indra, as worshippers in battle-shock, we call, Indra that we may win the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Indra rufen wir zum Gottesdienst, den Indra bei beginnendem Opfer, den Indra eifrig im Kampfe, den Indra zum Gewinn des Siegerpreises.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Feier rufen Indra wir, den Indra in des Fests Verlauf, Den Indra voll Verlangen in dem Schlachtgewühl, den Indra, Beute zu empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индру мы зовем для почитания богов,  
 Индру – когда начинается обряд,  

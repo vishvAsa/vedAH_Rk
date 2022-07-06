@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् आ꣡द् उता꣡सि वृत्रहन्  
 म꣡घवन् मन्युम꣡त्तमः  
 अ꣡त्रा꣡ह दा꣡नुम् आ꣡तिरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 अत्र॑ । अह॑ । दानु॑म् । आ । अ॒ति॒रः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim*
 - \[adverb\]
@@ -82,20 +82,20 @@ genre M
 हे **वृत्रहन्** वृत्राणामावरकाणां तमसां हन्तः **मघवन्** धनवन् इन्द्र त्वम् **आत्** अनन्तरमेव **उत** अपि च । **किम्** इति प्रश्ने । **मन्युमत्तमः** **असि** अत्यन्तं क्रोधवान् भवसि । **अत्र** अस्मिन्नन्तरिक्षे **अह** एव **दानुं** दनोः पुत्रं वृत्रम् **आतिरः** आ समन्तादहिंसीः ॥॥३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Wherefore, slayer of **Vṛtra**, opulent **Indra**, have you thereupon become most incensed, and in consequence, have slain the son of **Danu** (Vṛtra) in this firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And after that are you (still) the one best possessed of battle fury, o  bounteous smasher of obstacles?  
 At that time you passed over Dānu (lying there),
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In c átra seems to correspond to the three yátra’s in the preceding tṛca. The point seems to be that even after all the energy Indra expended in his fight with the sun (and the gods), he still has a lot of manyú- left to apply in the Uṣas incident.
 
@@ -119,23 +119,23 @@ I suggest instead that pāda a contains an abbreviated form of a common formula 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What? Vrtra-slayer, art not thou, Maghavan, fiercest in thy wrath?  
      So hast thou quelled the demon too.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und bist du auch noch der Grimmigste, du freigebiger Vritratöter? Damals unterdrücktest du den Danu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie warst auch da, du Vritraheld, o starker, ganz von Zorn entbrannt, Als du den Dämon niederschlugst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А что и сейчас ты, о убийца Вритры,  
 О щедрый, (по-прежнему) самый неистовый?  

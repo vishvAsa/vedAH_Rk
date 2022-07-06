@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वो वि꣡हाया अरति꣡र् व꣡सुर् दधे  
 ह꣡स्ते द꣡क्षिणे तर꣡णिर् न꣡ शिश्रथच्  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 अग्नि꣡र् द्वा꣡रा वि꣡ ऋण्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 विश्व॑स्मै । इत् । सु॒ऽकृते॑ । वार॑म् । ऋ॒ण्व॒ति॒ । अ॒ग्निः । द्वारा॑ । वि । ऋ॒ण्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
@@ -170,7 +170,7 @@ genre M
 अयमग्निः **दक्षिणे** अभिमतं प्रदातुम् उत्साहयुक्ते **हस्ते** वामेतरे' यजमानाय दातव्यं धनं **दधे** धारयति । कीदृशोऽयम् । **विश्वः** सर्वैर्गन्तव्यः यद्वा विश्वात्मकः **विहायाः** महान् । विहाया इति महन्नाम, ‘ विहायाः यह्वः ' ( नि, ३. ३. १२) इति तन्नामसु पाठात् । **अरतिः** ईश्वरः अरममाणः वा अप्रीतिः ॥ अत्र वहिवस्यर्तिभ्यश्चित्' इति अप्रत्ययः । चिट्ठद्धावादन्तोदात्त: ॥ धृत्वा च शिश्रथत् । धृतं हस्तं यजमानार्थं श्रथयति ददाति ॥ श्लथयतेर्लुङि चङि रूपम् । तत्र दृष्टान्तः । **तरणिर्न** तरणिरिव तारकः सूर्य इव । स यथा स्वोपासकाय अभिमतं हस्ते धृत्वा वितरति तद्वत् । यद्वा । तरणिः सर्वस्य तारको न शिश्रथत् । यजमानं न श्रथयति न मुञ्चति । किंच **श्रवस्यया** **न** **शिश्रथत्** हवीरूपान्नेच्छयैव न शिश्रथत् न विमुञ्चति । अयमनुग्रहेणैव पालयते, हविःस्वीकारस्तु व्यपदेशमात्रेण इति भावः । इदानीं प्रत्यक्षकृतः । हे अग्ने **देवत्रा** देवेषु मध्ये अतिशयेन त्वं **विश्वस्मै** सर्वस्मै **इषुध्यते** हविरात्मन इच्छते इन्द्रादये । इषुध्यतिः कण्ड्वादिः ॥ **हव्यं** तत्तद्देवतामुद्दिश्य प्रत्तं पुरोडाशादिकम् **ओहिषे** सर्वतो वहसि ॥ वहेलेंटि यजादित्वात् संप्रसारणम् ॥ किंच अयमग्निः **विश्वस्मै** **सुकृते** शोभनयज्ञकर्त्रे यजमानाय **वारं** सर्वैर्वरणीयं क्षुदादिनिवारकं वा अन्नादिकम् **ऋण्वति** गच्छति करोतीत्यर्थः । किंच अयम् **अग्निः** **द्वारा** स्वर्गाद्यभिमतद्वाराणि **व्यृण्वति** विवृणोति । प्रतिबन्धकपापापनयनद्वारा अभिमतानि साधयतीत्यर्थः । ऋण्वतिर्गतिकर्मा । यद्वा । रिविर्गत्यर्थः । इदित्त्वात् नुम् । छान्दसं रेफस्य संप्रसारणम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -181,14 +181,14 @@ genre M
 **Arati** = one who is not easily plural ased, a sovereign: aratirīśvara aramamānaḥ vā aprītī; taraṇir na = **tārakaḥ** **sūrya** iva, like whom who conveys across (the sea of life or the world), i.e. the sun or Agni: na śiśrathat, not loosened; i.e. the conveyor (across the world) has not deserted his worshipper
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Every (new fire), possessing extensive power, the spoked wheel (of the  sacrifice), the good one, takes (goods) in his right hand; advancing he  does not let (them) loose—because of his longing for fame he does not  let (them) loose.  
 For everyone who aims straight you have conveyed his oblation among  the gods.  
 To everyone who performs well he propels his wish—Agni propels apart  the two door-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner, Renou, and Oldenberg I supply an acc. pl. vásū(ni) as obj. of dadhe, on the basis of IX.18.4 vásūni hástayor dadhé (cf. also X.54.5). The gapping of a form of vásu- here, accepted by most, corresponds nicely to the gapping of the same stem I suggest for the previous vs. Thieme (Unters.), fld. by Witzel Gotō, instead take dadhe as passive: the fire “is taken in the hand” (of the priest, so Thieme). This seems pragmatically unlikely: although firebrands are ritually carried about under certain circumstances, picking up the entire ritual fire (as víhāyāḥ and aratíḥ seem to imply) would be risky and painful. Moreover, the rest of the verse depicts the good things that Agni does for people, and taking goods in his hand fits this context.
 
@@ -197,29 +197,29 @@ The rarely attested verbal stem iṣudhyá-, here in the part. iṣudhyaté, has
 Though pādas f and g share both a subject (Agni) and a verb (ví) ṛṇvati they seem semantically somewhat at odds. This semantic disparity is, however, ameliorated by the fact that their objects, vā́ram and dvā́rā respectively, are phonologically very close, which similarity was already pointed out by Renou
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Vast, universal, good he was made messenger; the speeder with his right hand hath not loosed his hold, through love of fame not loosed his hold.  
      He bears oblations to the Gods for whosoever supplicates.  
      Agni bestows a blessing on each pious man, and opens wide the doors for him.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The far-reaching 1 steward 2 has taken all goods 3 in his right hand, and strongly advancing does not let them loose; desirous of glory he does not let them loose. For every supplicant 4 thou hast carried the oblations to the gods 5. For every righteous one he procures a treasure; Agni opens both folds of the door (for him).
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ganz bei voller Kraft wird er der Wagenlenker, hält der Gott die Güter in seiner rechten Hand. Ausdauernd lässt er nicht locker, aus Ehrgeiz Opfer zu den Göttern gefahren. Jedem Frommen erfüllt er den Wunsch, öffnet Agni die Tore.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der grosse, gute Weltenopfrer ist gesetzt; nicht lass er los mit seiner Rechten, wenn er siegt, nicht lass er los voll Beutelust; Du fährst das Opfer götterwärts für jeden eifrig strebenden, Ja, jedem Frommen schliesst er schöne Schätze auf, die Thüren schliesset Agni auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принадлежащий всем, огромный, повелитель (?) Васу, он держит (блага)  
 В правой руке. Переправляясь (через препятствия), он не ослабевает,  

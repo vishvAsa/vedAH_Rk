@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ रेभ꣡म् प꣡रिषूतेर् उरुष्यथो  
 हिमे꣡न घर्म꣡म् प꣡रितप्तम् अ꣡त्रये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ दीर्घे꣡ण व꣡न्दनस् तारि आ꣡युषा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । श॒योः । अ॒व॒सम् । पि॒प्य॒थुः॒ । गवि॑ । प्र । दी॒र्घेण॑ । वन्द॑नः । ता॒रि॒ । आयु॑षा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -113,36 +113,36 @@ genre M
 हे अश्विनौ **युवं** युवां **रेभम्** ऋषिं **परिषूतेः** परितः प्रेरकादुपद्रवात् कूपपतनाद्वा **उरुष्यथः** रक्षथः । ‘उरुष्यती रक्षाकर्मा' (निरु. ५.२३) इति यास्कः । तथा **अत्रये** ऋषये **परितप्तं** परितस्तप्तं **घर्मम्** असुरैः पीडार्थं प्रक्षिप्तं दीप्यमानं तुषाग्निं **हिमेन** शीतेनोदकेन अवारयेथाम् । यद्वा । हविषामत्रये भक्षयित्रे अग्नये परितप्तं सूर्यकिरणैः संतप्तं घर्मम् । अहर्नामैतत् । अहर्हिमेन वृष्ट्युदकेन हविःसंपादकव्रीह्याद्युत्पत्त्यर्थम् अवारयेथाम् । अपि च **शयोः** एतत्संज्ञस्य ऋषेः **गवि** निवृत्तप्रसवायां धेनौ **अवसं** रक्षकं पयः **युवं** युवां **पिप्यथुः** प्रवर्धितवन्तौ । तथा जीर्णाङ्गः **वन्दनः** ऋषिः **दीर्घेण** **आयुषा** **प्र** **तारि** युवाभ्यां प्रवर्धितः। प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ अवसम् । अवतेरौणादिकः असच् । पिप्यथुः। ‘प्यायी वृद्धौ'। व्यत्ययेन परस्मैपदम्। 'लिड्यङोश्च' (पा. सू. ६. १. २९) इति पीभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You preserved Rebha from the violence around him; you quenched with snow, for **Atri**, the scorching heat; you genitive rated milk in the cow of **Śayu**; and (by you) was **Vandanā** endowed with prolonged life.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You give Rebha space from being besieged, (and you cool) the intensely  heated, hot (vessel) with snow for Atri.  
 You swelled nourishment in Śayu’s cow. Vandana was extended through  a long lifetime.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rebha ye saved from tyranny; for Atri's sake ye quenched with cold the fiery pit that compassed him.  
      Ye made the cow of Sayu stream refreshing milk, and Vandana was holpen to extended life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr befreiet den Rebha aus der Umschnürung; mit Schnee wehret ihr dem Atri die ringsum brennende Glut. Ihr ließt des Sayu Zehrung in seiner Kuh strotzen. Dem Vandana wurde das Leben mit langer Dauer verlängert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Rebha halft ihr aus Bedrängniss, lindertet durch Kühlung rings dem Atri die entflammte Glut; In Çaju's Kuh erzeugtet fette Nahrung ihr, und dehntet weit dem Vandana das Leben aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ребху вы освобождаете от угнетенности.  
 Для Атри снегом (остановили) жар, жгущий со всех сторон.  

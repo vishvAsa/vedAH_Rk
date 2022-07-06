@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ श्यावं꣡ न꣡ कृ꣡शनेभिर् अ꣡श्वं  
 न꣡क्षत्रेभिः पित꣡रो द्या꣡म् अपिंशन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बृ꣡हस्प꣡तिर् भिन꣡द् अ꣡द्रिं विद꣡द् गाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 रात्र्या॑म् । तमः॑ । अद॑धुः । ज्योतिः॑ । अह॑न् । बृह॒स्पतिः॑ । भि॒नत् । अद्रि॑म् । वि॒दत् । गाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M;; repeated line
 **पितरः** पालयितारो देवाः **द्यां** द्युलोकं **नक्षत्रेभिः** अश्विन्यादिभि: **अभि** **अपिंशन्** अभितोऽदीपयन्।  ‘ पिश अवयवे'। अयं दीपनायां वर्तते । तत्र दृष्टान्तः। **श्यावं** **न** यथा श्याववर्णम् **अश्वं** **कृशनेभिः** सौवर्णैराभरणैरलंकुर्वन्ति तद्वत् । तथा **रात्र्यां** **तमः** निहितवन्तः । किंच **अहन्** अह्नि **ज्योतिः** आदित्याख्यम् **अदधुः** । अदधुरित्युत्तरवाक्येन संबन्धः करणीयः । अन्यथा स्वरो न घटेत। अत्र तु वाक्यभेदादनिघातः । यदा **बृहस्पतिः** **अद्रिं** वलेनाधिष्ठितं शिलोच्चयं **भिनत** अभिनत् विभिद्य च तत्र स्थितान् **गाः** पशून् **विदत्** अविदत् अलभत । विदेर्लुङि लृदित्त्दवाङ्। तदा देवा एवमकार्षुरित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre M;; repeated line
 Protecting deities: **pitṛs**, or progenitors, the **Aṅgirasas**, who appear to have beenamong the ancient astronomers, the inventors of the lunar asterisms (**nakṣatras**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like a dusky horse with pearls, the Fathers ornamented the heaven  with stars.  
 In the night they placed darkness and light in the day. Br̥haspati split  the rock and found the cows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a dark steed adorned with pearl, the Fathers have decorated heaven With constellations.  
      They set the light in day, in night the darkness. Brhaspati cleft the rock and found the cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Väter schmückten den Himmel mit den Gestirnen aus wie einen Rappen mit Perlen. Die Finsternis verlegten sie auf die Nacht, auf den Tag das Licht. Brihaspati spaltete den Fels, er hat die Kühe gefunden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Himmel schmückten mit Gestirn die Väter, gleich wie das schwarze Ross mit Edelsteinen; Zum Tag das Licht, zur Nacht das Dunkel fügend; Brihaspati brach Felsen, fand die Kühe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как вороного коня – жемчугами,  
 Отцы украсили небо созвездиями.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡श् चेद꣡म् उपशृण्व꣡न्ति  
 या꣡श् च दूर꣡म् प꣡रागताः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अस्यइ꣡ सं꣡ दत्त वीरि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292);; repeated line
 सर्वाः॑ । स॒म्ऽगत्य॑ । वी॒रु॒धः॒ । अ॒स्यै । सम् । द॒त्त॒ । वी॒र्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yāś* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -107,36 +107,36 @@ popular;; epic anuṣṭubh (292);; repeated line
 **याश्च** ओषधयः **इदं** स्तोत्रम् **उपशृण्वन्ति** **याश्च** ओषधयः **दूरं** **परागताः** **सर्वाः** **वीरुधः** **संगत्य** संगताः सत्यो हे वीरुधः **अस्यै** रुग्णतन्वे **वीर्यं** **सं** **दत्त** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Both the plural nts that I hear this (prayer), and those which are removed far off, all coming together,give vigour to this (infirm body).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Both those who hear this nearby and those who have gone far into the  distance —  
 all of you, having coming together, o sprouts—jointly give heroic power  to this one here [=medicinal plant].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All Plants that hear this speech, and those that have departed far away,  
      Come all assembled and confer your healing power upon this Herb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die dieser Rede zuhören, und die in die Ferne gegangen sind, ihr Kräuter, vereinigt alle zusammen eure Kraft auf dieses Kraut!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr, die ihr dieses Wort vernehmt, und die ihr in der Ferne seid, Kommt alle Kräuter her und legt in dieses Kraut all eure Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто к этому прислушивается  
 И кто ушел далеко, –  

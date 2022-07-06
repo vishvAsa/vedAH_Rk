@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ घा ता꣡ गछान् उ꣡त्तरा युगा꣡नि  
 य꣡त्र जाम꣡यः कृण꣡वन्न् अ꣡जामि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अन्य꣡म् इछस्व सुभगे प꣡तिम् म꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उप॑ । ब॒र्बृ॒हि॒ । वृ॒ष॒भाय॑ । बा॒हुम् । अ॒न्यम् । इ॒च्छ॒स्व॒ । सु॒ऽभ॒गे॒ । पति॑म् । मत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -135,36 +135,36 @@ popular
 **यत्र** येषु कालेषु **जामयः** भगिन्यः **अजामि** अभ्रातरं पतिं **कृणवन्** करिष्यन्ति **ता** तानि **उत्तरा** उत्तराणि **युगानि** कालविशेषाः **आ** **गच्छान्** आगमिष्यन्ति। **घ** इति पूरणः । यस्मादेवं तस्माद्धे **सुभगे** त्वमिदानीं **मत्** मत्तः **अन्यं** **पतिं** भर्तारम् **इच्छस्व** कामयस्व । तदनन्तरं **वृषभाय** तव योनौ रेतः सेक्त्रे पुरुषाय आत्मीयं **बाहुम्** उप **बर्बृहि**। शयनकाल उपबर्हणं कुरु ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Yama** speaks). The subsequent ages will come, when sisters will choose one who is not a brother (asa husband); therefore, auspicious one, choose another husband than me, and make your arm a pillow for yourmate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Yama:] Later generations will come, in which kin will perform the  unkindred (act).  
 Keep plumping up your arm as pillow for a (real) bull. Seek another  than me as husband, well-portioned one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk.  
      Not me, O fair one,-seek another husband, and make thine arm a pillow for thy consort.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es werden später solche Geschlechter kommen, wo Geschwister Ungeschwisterliches treiben. Leg einem Bullen deinen Arm unter, such dir einen anderen als mich zum Gatten, Holde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohl mögen kommen spätere Geschlechter, wo Blutsverwandte Blutschuld auf sich laden, So schlinge fest den Arm um einen Gatten, wähl' einen andern dir, als mich, o Schöne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придут, конечно, те последующие поколения,  
 Когда родные будут совершать (поступок), не подобающий родне.  

@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमी꣡ ये꣡ देवा स्थ꣡न  
 त्रिषु꣡ आ꣡ रोचने꣡ दिवः꣡  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 कत् । वः॒ । ऋ॒तम् । कत् । अनृ॑तम् । क्व॑ । प्र॒त्ना । वः॒ । आऽहु॑तिः । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
@@ -130,43 +130,43 @@ genre M;; repeated line
 हे **देवाः** **त्रिषु** पृथिव्यादिषु स्थानेषु ये **अमी** यूयं **स्थन** वर्तमाना भवथ। यानि स्थानानि **दिवः** द्योतमानस्य सूर्यस्य **आ** **रोचने** दीप्तिविषये वर्तन्ते । सूर्यप्रकाश्येषु स्थानेषु' इत्यर्थः । तेषां **वः** युष्माकं संबन्धि स्तोतृविषयम् **ऋतं** सत्यं **कत्** कस्मिन् देशे वर्तते । **अनृतं** द्वेष्टृविषयमसत्यं च **कत्** कुत्र गतम् । अपि च **प्रत्ना** चिरकालीना **वः** युष्माकं संबन्धिनी **आहुतिः** मया पूर्वमनुष्ठितो यागः **क्व** कुत्रासीत् । ईदृग्भूतदुःखानुभवेन मया पूर्वमनुष्ठितो यागसमूहो युष्मान्न प्राप्नोदित्यनुमिमे । अन्यत् पूर्ववत् ॥ स्थन । तप्तनप्तनथनाश्च ' इति तशब्दस्य थनादेशः । कत् । क्वशब्दस्य वर्णव्यापत्त्या कद्भावः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Gods, who are present in the **three worlds**, who abide in the light of the sun, where now is your truth, where your untruth, where the ancient invocation (that I have addressed) to you? Heaven and earth, be conscious of (my affliction).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You gods, who are yonder in the three luminous realms of heaven— What is truth for you, what is untruth? Where is the age-old offering  for you?  
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Just as Agni was located in his realm, as the nearest one, in vs. 4, here the gods’ location is given before they are asked their questions. The poet now worries about what happens to his “truth” once it disappears from his sight and enters the realm of the gods -- is his “truth” theirs? Where did the offering he dispatched to them end up? Note the number discrepancy in triṣú … rocané. Though it is possible to separate the two words (so Witzel Gotō) “in the luminous realm, in the three (worlds),” this seems unnec., esp. in light of expressions like I.102.8 trī́ṇi rocanā́, V.69.1 trī́rocanā́.
 
 Better to assume a truncated rocané(ṣu).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Gods who yonder have your home in the three lucid realms of heaven,  
      What count ye truth and what untruth? Where is mine ancient call on you? Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Götter, die ihr dort in den Lichtreichen des Himmels seid, was ist euch Recht, was Unrecht? - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die an drei Sitzen ihr verweilt, o Götter, dort im Himmelsraum, Was gilt euch unrecht und was recht? wo war eur alter Opferguss? Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, боги, те, что находитесь  
 В трех светлых пространствах неба:  

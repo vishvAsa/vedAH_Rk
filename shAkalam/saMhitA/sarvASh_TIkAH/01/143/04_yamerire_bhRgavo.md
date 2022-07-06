@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡म् एरिरे꣡ भृ꣡गवो विश्व꣡वेदसं  
 ना꣡भा पृथिव्या꣡ भु꣡वनस्य मज्म꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 य꣡ ए꣡को व꣡स्वो व꣡रुणो न꣡ रा꣡जति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निम् । तम् । गीः॒ऽभिः । हि॒नु॒हि॒ । स्वे । आ । दमे॑ । यः । एकः॑ । वस्वः॑ । वरु॑णः । न । राज॑ति ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -140,46 +140,46 @@ genre M
 हेर्लुगभावः ॥ **यः** अग्निः **एकः** मुख्यः सन् एक एव वा **वस्वः** वसुनो गवादिधनस्य **राजति** ईश्वरो भवति । प्रदातुमिति शेषः । राजति इत्यैश्वर्यकर्मा, ‘क्षियति राजति' ( नि. २. २१. ४ ) इति तन्नामसु पाठात् । तत्र दृष्टान्तः। **वरुणो** **न** वारक आदित्य इव । स यथा सर्वस्य ईष्टे तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Bring to his own abode with hymns that **Agni**, the possessor of all riches, whom the descendants of **Bhṛgu** plural ced by the strength of all beings upon the navel of the earth; for, like **Varuṇa**, he reigns sole (monarch) over (all) treasure.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The all-possessor whom the Bhr̥gus have aroused upon the navel of the  earth, of the living world, in his greatness—  
 Agni—urge him on with songs here in his own home, him who alone  rules like Varuṇa over what is good.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send thou with hymns that Agni to his own abode, who rules, one Sovran Lord of wealth, like Varuna,  
      Him, All-possessor, whom the Bhrgus with their might brought to earth's central point, the centre of the world.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Him the all-wealthy, whom the Bhrigus have set to work on the navel of the earth, with the whole power of the world 1—stir up that Agni by thy prayers in his own house—(him) who alone rules over goods like Varuna.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The god, all-knowing Agni, whom the Bhṛgus brought With might to earth's navel, the centre of the world. Him stimulate with songs within his own abode, Who rules, sole sovereign, over wealth, like Varuṇa.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Allwissenden, den Bhrigu´s in den Nabel der Erde, der Welt insgesamt eingesetzt haben, den Agni sporne mit Lobreden im eigenen Hause an, der allein über alles Gut König ist wie Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, den allreichen, zogen einst die Bhrigu's her zum Mittelpunkt der Erde und der Welt mit Macht; Den Agni locke her mit Liedern in dein Haus, wie Varuna ist er allein der Güter Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всеведущего, которого утвердили Бхригу  
 На пупе земли (и) мироздания в (его) величии,  

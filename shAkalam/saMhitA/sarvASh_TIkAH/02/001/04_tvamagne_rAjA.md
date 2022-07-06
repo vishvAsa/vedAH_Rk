@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्व꣡म् अग्ने रा꣡जा व꣡रुणो धृत꣡व्रतस्  
 तुव꣡म् मित्रो꣡ भवसि दस्म꣡ ई꣡डियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुव꣡म् अं꣡शो विद꣡थे देव भाजयुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । अ॒र्य॒मा । सत्ऽप॑तिः । यस्य॑ । स॒म्ऽभुज॑म् । त्वम् । अंशः॑ । वि॒दथे॑ । दे॒व॒ । भा॒ज॒युः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -138,7 +138,7 @@ genre M
 हेअग्ने त्वंयतोधृतव्रतः धारितकर्मासि अतोवरुणोराजासि यतोदस्मः शत्रूणामुपक्षपयिताईड्यः स्तुत्यश्च अतोत्वम्मित्रः एतन्नामकोदेवोसि यतः त्वंसत्पतिः सतामभिमतप्रदानेनपालयिता अतः अय- माभवसि दातृत्वञ्चार्यम्णोलिङ्गं अर्यमेतितमाहुर्योददातीतियस्यार्यम्णोदानंसम्भुजंसन्ततभुजंव्याप- कम्भवति यद्वा यस्यधनंसम्भुजं सम्यग्भोगायसाधुग्रहीतॄणां तथात्वंअंशः सूर्यमूर्त्यन्तरभूतएतन्नामको- देवोसि तादृशहेदेव विदथेस्मदीयेयज्ञे भाजयुः फलानाम्भाजयिताप्रापगितासि ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,7 +151,7 @@ Whose liberality: liberality is said to be the characteristic of Aryaman, dāt�
 **Divas** = from heaven; or, the giver of strength, asur, balam, tasya datā āditya **rūpa**: a form of āditya, or an āditya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, whose commandments are steadfast, are King Varuṇa; you,  wondrous to be invoked, become Mitra.  
 You, as the lord of settlements who (offers) a common meal, are  
@@ -159,35 +159,35 @@ Aryaman; you, apportioning at the ritual distribution, o god, are
 Aṃśa [/Share].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On this vs. see Thieme, Mitra and Aryaman, 83-85.
 
 sambhújam in c is analysed by Grassmann as a 1st sg. subj. or injunc. (his “Co.”) to a thematic aorist and is so rendered by Geldner (“von dem ich Nutzen haben möchte”), though he expresses doubts in his n. However, this aor. stem does not otherwise exist: the multiple bhujema forms, apparent optatives in mā́prohibitives, are convincingly explained by Hoffmann (Injunk. 95-97) as reanalysed from an expression with the infinitive bhujé followed by enclitic 1st ps. pronoun. Moreover, act. forms to this root should mean ‘give pleasure’, not ‘derive pleasure’ (cf. bhuñjatī́ I.48.5). Oldenberg (Noten) already disputed the verbal interpr. of sambhújam, and it is now generally taken as a nominal (so Thieme, Mitra and Aryaman, although in Fremdling [16 n. 2, 105] he takes it as a verb; Hoffmann, Injunk. 96 n. 197; Renou; Scarlatta 358), though Witzel Gotō tr. it as a verb, allowing for the nominal possibility in their n. Assuming that sambhújam is nominal, the problem is how to fill out the defective rel. cl. yásya sambhújam. Most supply a verb like “we eat” or “we expect,” e.g., Scarlatta. “von dem ich Genuss (erwarte, o. ä).” The published translation takes GEN sambhújam as a possessive expression: “whose common meal (it is)” à “who has a common meal,” further extended to “who offers a common meal.” I find this more satisfying syntactically than the invention of a verb, but it runs into morphological difficulty: by my tr. the meal should be nominative, and if sambhújam belongs to a root noun paradigm, it can only be a masc. acc. sg. This forces me into the unhappy position of assuming a root-accented neut. thematic stem -bhúja-, which may be unlikely enough morphologically to persuade me to supply a verb to govern the acc.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thou art King Varuna whose laws stand fast; as Mitra, Wonder-Worker, thou must be implored.  
      Aryaman, heroes' Lord, art thou, enrich ing all, and liberal Amsa in the synod, O thou God.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art the king Varuna whose laws are firm; thou becomest Mitra, the wondrous one, worthy of being magnified. Thou art Aryaman, the lord of beings, whom I may enjoy 1. Thou, O god, art Amsa 2, desirous of distributing (goods) in the assembly 3.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist König Varuna, der die Gebote aufrecht hält, du bist Mitra, der anzurufende Meister. Du bist Aryaman, der wahre Herr, von dem ich Nutzen haben möchte. Du, Gott, bist Amsa, der an dem Opfer Anteil gewährt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Agni, König Varuna, des Rechtes Schirm, und Mitra bist du, wunderherrlich, preisenswerth, Und Arjaman, der Heeresfürst, der mich beglückt, bist Ança auch, der gern, o Gott, beim Fest beschenkt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, – царь Варуна, чей обет крепок,  
 Ты бываешь Митрой чудодейственным, достойным призываний.  

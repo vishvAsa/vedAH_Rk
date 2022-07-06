@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अइ꣡भिर् ददे वृ꣡ष्णिया पउं꣡सियानि  
 ये꣡भिर् अउ꣡क्षद् वृत्रह꣡त्याय वज्री꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋतेकर्म꣡म् उद꣡जायन्त देवाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 ये । कर्म॑णः । क्रि॒यमा॑णस्य । म॒ह्ना । ऋ॒ते॒ऽक॒र्मम् । उ॒त्ऽअजा॑यन्त । दे॒वाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aibhir* ← *ā*
 - \[adverb\]
@@ -129,36 +129,36 @@ genre D
 इन्द्रः **एभिः** मरुद्भिः सह वृष्ण्यानि वर्षकाणि **पौंस्यानि** बलानि **आ** **ददे** आदत्ते । **येभिः** मरुद्धिः सहितः **वृत्रहत्याय**। प्राण्युपकारकवृष्ट्यावरकत्वाद्वृत्रः पापम् । तस्य हत्याय । मनुष्याणामुपद्रवशमनायेत्यर्थः । तदर्थं **वज्री** वज्रवानिन्द्रः **औक्षत्** वर्षति । **ये** च मरुतः **देवाः** **मह्ना** महतेन्द्रेण **क्रियमाणस्य** **कर्मणः** वृष्टिप्रदानलक्षणस्य साहाय्यार्थम् **ऋतेकर्मम्** ऋतकर्म वृष्टिप्रदानकर्म प्रति **उदजायन्त** उन्मुखा जायन्ते स्वयमेव तैरेभिर्दद इति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** bestows fertilizing energies (accompanied by these **Maruts** in whose company the thunderersends down showers in order to destroy sin; the deities who were born for giving rain (to assist) in the actperformed be great Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He acquired his bullish manly powers through these, through whom the  mace-bearer grew strong for the Vr̥tra-smashing,  
 the gods who, because of the greatness of the deed being done, came  into being without (their own) doing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Through these the Thunderer gained strong manly vigour, through whom he waxed in power to smite down Vrtra,-  
      Who through the might of Indra's operation came forth as Gods in course of Law and Order.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch sie hat er Stier- und Manneskräfte gewonnen, mit denen er aufwuchs zur Vritratötung, der Keulenträger, mit den Göttern, die durch die Größe seines getanen Werkes auch ohne eigenes Zutun emporkamen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch sie empfing der Blitzer Heldenkräfte, durch die er mächtig ward zum Vritrakampfe; Die durch die Macht des ausgeführten Werkes durch heil'ges Werk als Götter sind geboren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он взял себе бычьи (и) мужские силы с помощью тех богов,  
 Благодаря которым громовержец взрос для убийства Вритры,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विसर्मा꣡णं कृणुहि वित्त꣡म् एषां  
 ये꣡ भुञ्ज꣡ते अ꣡पृणन्तो न उक्थइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्रह्मद्वि꣡षः सू꣡रियाद् यावयस्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अप॑ऽव्रतान् । प्र॒ऽस॒वे । व॒वृ॒धा॒नान् । ब्र॒ह्म॒ऽद्विषः॑ । सूर्या॑त् । य॒व॒य॒स्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *visarmāṇaṃ* ← *visarmāṇam* ← *visarman*
 - \[noun\], accusative, singular, masculine
@@ -114,7 +114,7 @@ genre M
 **एषां** वक्ष्यमाणानां **वित्तं** धनं **विसर्माणं** विसरणशीलं **कृणुहि** कुरु हे ब्रह्मणस्पते ॥ एषामित्युक्तं केषामित्याह । **ये** **भुञ्जते** **अपृणन्तः** अप्रयच्छन्तः । केभ्यः । **उक्थैः** स्तुतिप्रतिपादकैः शस्त्रैर्विशिष्टेभ्यः **नः** अस्मभ्यम् । तान् **अपव्रतान्** अपगतकर्मणः **प्रसवे** उत्पत्तिमति मनुष्यलोके **ववृधानान्** वर्धमानान् **ब्रह्मद्विषः** ब्राह्मणद्वेष्टॄने मन्त्रद्वेष्टॄन् वा **सूर्यात्** **यवयस्व** पृथक्कुरु । अन्धकारे स्थापयेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,35 +125,35 @@ genre M
 Put apart from the sun: sūryād yavayasva, make them separate, condemn them to darkness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Dissipate the possessions of those who benefit by our hymns without giving. Those violating the commandments, grown strong at forward thrusting,  the haters of the sacred formulation—keep them away from the sun.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stilted nominal syntax with dummy verb √kṛ + acc. masc. abstract (visarmā́ṇaṃ kṛṇuhi, lit. “make dissipation”), which together govern a neut. acc. vittám, must result from the lack of a transitive pres. to √sṛ ‘flow, run’ -- pace Narten (“Ai. sṛ …” 1969: 83 and n. 16 [=KlSch 130 and n. 16]), who characterizes several forms of ví √sṛ as “transitiv,” though the acc. expresses the goal/place-throughwhich, not a real transitive object.
 
 The expression prasavé vāvṛdhānā́n is not entirely clear and is variously rendered — Geldner “'die im Befehl gross sind,” Renou “qui (se croyant) renforcés pour la compétition,” Schmidt (Bṛhaspati und Indra 85) “bei (unserer) Regsamkeit wachsen,” Witzel Gotō “obwohl sie in ihrem Unterfangen erstarkt sind” — differing primarily in what prasavá- is taken to mean. By my interpr. these foes, who violate all the norms of Ārya society by refusing to participate in reciprocal exchange, by acting contrary to vratá- (the chains of command that structure Ārya society), and by hating the verbal formulations that express the Ārya view of the cosmos and their place in it, nonetheless show their strength on the attack, the forward thrust. All the tr. reflect this notion one way or another: the regretable strength of the enemies despite their antisocial behavior.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make their wealth flee who, through our hymns enjoying their riches, yield us not an ample guerdon.  
      Far from the sun keep those who hate devotion, the godless, prospering in their vocation.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß deren Besitz zerrinnen, die ohne zu spenden von unseren Lobliedern den Nutzen haben. Die Gesetzlosen, die im Befehlen groß sind, die Priesterfeinde schließe von der Sonne aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zerrinnen lasse das Vermögen derer, die ohn' Geschenk ausbeuten unsre Lieder; Die ungerechten, die auf Reichthum trotzen, der Andacht feind, schliess aus vom Licht der Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай растекающимся имущество у тех,  
 Которые пользуются нашими гимнами, (ничего) не давая!  

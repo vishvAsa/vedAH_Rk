@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ इन्द्र नो गधि प्रियः꣡  
 सत्राजि꣡द् अ꣡गोहियः  
 गिरि꣡र् न꣡ विश्व꣡तस् पृथुः꣡ प꣡तिर् दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; 12 = 8+4
 गि॒रिः । न । वि॒श्वतः॑ । पृ॒थुः । पतिः॑ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endra* ← *ā*
 - \[adverb\]
@@ -95,20 +95,20 @@ genre M;; 12 = 8+4
 हे इन्द्र **प्रियः** प्रियतमः **सत्राजित्** महतां जेता **अगोह्यः** केनापि गूहितुमशक्यः **गिरिर्न** पर्वत इव **विश्वतः** सर्वतः **पृथुः** पृथुतमः **दिवः** स्वर्गस्य **पतिः** ईश्वरस्त्वं **नः** अस्मान् **आ** **गधि** आगच्छ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, **Indra**, beloved one, triumphant, and whom, none can conceal- - lord of heaven, vast on allsides as a mountain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us, Indra, as the dear, entirely victorious one, who cannot  be concealed,  
 broad on all sides like a mountain—as lord of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The impv. gadhi is a hapax, beside gahi, which occurs 84 times (per Lubotsky).
 
@@ -131,23 +131,23 @@ Barcelona: Editorial Ausa, 1997). The parallel imperatives bodhi and bháva are 
 The last word has not been said about this complex issue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come unto us, O Indra, dear, still conquering, unconcealable,  
      Vast as a mountain spread on all sides, Lord of Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, komm zu uns, du der Beliebte, vollständig Siegende, nicht zu Verbergende, wie ein Berg nach allen Seiten breit, des Himmels Herr!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Komm, Indra, her, du theurer uns, allsiegender, den nichts verhüllt, Gleich einem ringsum breiten Berg, als Himmels Herr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, приходи к нам, приятный,  
 Всепобеждающий, нескрываемый,  

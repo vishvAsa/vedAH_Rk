@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡द्रिभिः सुतः꣡ पवसे पवि꣡त्र आँ꣡  
 इ꣡न्दव् इ꣡न्द्रस्य जठ꣡रेषु आविश꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सो꣡म गोत्र꣡म् अ꣡ङ्गिरोभ्यो ऽवृणोर् अ꣡प
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । नृ॒ऽचक्षाः॑ । अ॒भ॒वः॒ । वि॒ऽच॒क्ष॒ण॒ । सोम॑ । गो॒त्रम् । अङ्गि॑रःऽभ्यः । अ॒वृ॒णोः॒ । अप॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
@@ -125,7 +125,7 @@ genre M
 हे **इन्दो** सोम **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतस्त्वं **पवसे** क्षरसि पूयसे वा। **पवित्र** **आ** दशापवित्रे । आ इति पूरणः । यद्वा । अभिषुतो भवसि पवसे चेति चार्थं आकारः । किं कुर्वन् । **इन्द्रस्य** **जठरेषु** जठरप्रदेशेषु **आविशन्** । जठरप्रवेशायेत्यर्थः । किंच हे **विचक्षण** विद्रष्टः सोम **त्वं** **नृचक्षा** **अभवः** नृणां मनुष्याणामनुग्रहेण द्रष्टा भवसि । किंच हे **सोम** त्वम् **अङ्गिरोभ्यः** **गोत्रं** मेघमुदकं क्षारयितुं पणिभिरपहृतानां गवामावरकं पर्वतं वा **अप** **अवृणोः** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 Or, you did open the mountain-side which concealed the cattled stolen by the **Paṇis**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pressed by the stones, you purify yourself in the filter, o drop, entering  the belly of Indra.  
 You have become one whose gaze is on men, wide-gazing one. Soma,  you opened up the cowpen for the Aṅgirases.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The augmented impf. abhavaḥ is somewhat surprising in this context, because, at least in the published translation, it seems to refer to the recent past, rather than to the mythic past of the following (a)vṛṇoḥ. Perhaps, however, it opens the telling of the Vala myth continued in d (and possibly 24ab; see below).
 
@@ -165,23 +165,23 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed out with stones thou flowest onward to the sieve, O Indu, entering the depths of Indra's throat.  
      Far-sighted Soma, now thou lookest on mankind: thou didst unbar the cowstall for the Angirases.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit den Steinen ausgepreßt läuterst du dich in der Seihe, o Saft, in Indra´s Leib einziehend. Du wardst der männlich Blickende, du Weitblickender; für die Angira´s hast du, Soma, die Kuhherde aufgedeckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gepresst von Steinen rieselst du zur Seihe hin, um einzugehn, o Indu, in des Indra Bauch, Der Männer Leuchte wurdest weithinschauend du, den Angirasen schlossest du den Kuhstall auf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ए꣡मि प्रस्फुर꣡न्न् इव  
 दृ꣡तिर् न꣡ ध्मातो꣡ अद्रिवः  
 मॄळा꣡+ सुक्षत्र मॄळ꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 मृ॒ळ । सु॒ऽक्ष॒त्र॒ । मृ॒ळय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -87,7 +87,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **अद्रिवः** आयुधवन् वरुण **यत्** यदा **प्रस्फुरन्निव** शैत्येन प्रविचलन्निव त्वद्भयाद्वेपमानः **दृतिर्न** दृतिरिव **ध्मातः** वायुना पूर्णः संस्त्वया बद्धोऽहम् **एमि** गच्छामि तदानीं **मृळ** सुखय । हे **सुक्षत्र** सुधन **मृळय** उपदयां कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -98,29 +98,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 When I am throbbinga: (an epithet added): adrivas = armed with stones for slinging;the allusion seems to be to varuṇa **pāśa**, a kind of dropsy; cf. **Aitareya** **Brāhmaṇa** vii.15
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If I go, seeming to kick, inflated like a water-skin, o master of the  pressing stones,  
 be merciful, o you whose dominion is great. Have mercy!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, Thunderer! I move along tremulous like a wind-blown skin,  
      Have mercy, spare me, Mighty Lord.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn ich wie ein Schlotternder gehe, wie ein Schlauch aufgebläht, du Herr des Steins,-verzeih, guter Herrscher, gib Verzeihung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn schnaufend, wie ein Blasebalg, ich schwankend geh', o Schleuderer, Sei gnädig, Herrscher, und vergib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда иду я, как в трясучке,  
 Раздувшийся, словно мехи, о хозяин давильных камней,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡व एषाम् अ꣡सुरो नक्षत द्यां꣡  
 श्रवस्यता꣡ म꣡नसा निंसत क्षा꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 द्यउ꣡र् न꣡ वा꣡रेभिः कृण꣡वन्त सुवइः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 चक्षा॑णाः । यत्र॑ । सु॒वि॒ताय॑ । दे॒वाः । द्यौः । न । वारे॑भिः । कृ॒णव॑न्त । स्वैः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hava* ← *have* ← *hava*
 - \[noun\], locative, singular, masculine
@@ -122,7 +122,7 @@ genre M
 **एषाम्** अनुष्ठातॄणामङ्गिरसां **हवः** आह्वानशब्दः **असुरः** इन्द्रस्य प्रेरकः द्यां दिवं **नक्षत** व्याप्नोत् । तत्रत्या इन्द्रसंबन्धिनो देवाः **श्रवस्यता** अन्नमिच्छता **मनसा** **क्षां** पृथिवीं **निंसत** प्राप्तवन्तः । **यत्र** यस्यां पृथिव्यां **चक्षाणाः** पणिभिरपहृता गाः पश्यन्तः **देवाः** **सुविताय** सुष्ठु हिताय स्वात्मनोऽभ्युदयाय **द्यौर्न** आदित्य इव **वारेभिः** वरणीयैः **स्वैः** तेजोभिः **कृणवन्त** प्रकाशमकुर्वन् । गवां प्रदानायान्धकारमपनेतुमिति शेषः । अथवा । एषां यज्विनामपहृतानां गवां हवोऽसुर इन्द्रस्य प्रेरयिता सन्नक्षत। इन्द्रप्रेरिता अङ्गिरसः **श्रवस्यता** अन्नं कीर्तिं वेच्छता मनसा क्षां भूमिं निंसत । अनुष्ठातॄणां गाः प्रदर्शयितुमित्यर्थः । इतरत्समानम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,30 +133,30 @@ genre M
 Kissed: arrived; the subject of niṃsata may be the Aṅgirasas, who were sentby **Indra** to point out where the cattle of the worshippers were
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At the invocation to them the lordly one [=Agni] will reach heaven; with  a mind seeking fame he will kiss the earth,  
 at the time when the gods, looking for easy passage, will equip  
 themselves with their own choice things, like heaven (with stars).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Their call, the call of Gods, went up to heaven: they kissed the ground with glory-seeking spirit,  
      There where the Gods look on for happy fortune, and like the kindly heavens bestow their bounties.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei ihrem Anruf erreicht der Asura den Himmel und küßt ehrgeizigen Sinnes die Erde, während die Götter zu guter Fahrt erscheinend es sich nach ihren eigenen Wünschen einrichten sollen wie der Himmel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es dringt ihr Ruf, der göttliche, zum Himmel, und küsst die Erde schatzbegier'gen Geistes, Dort, wo die Götter auch nach Reichthum ausschaun, die himmelgleich mit ihren Gaben wirken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Их асурский призыв достиг неба,  
 Мыслью, стремящейся к славе, он поцеловал землю,  

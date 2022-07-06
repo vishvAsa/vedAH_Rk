@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ घा ये꣡ अग्नि꣡म् इन्धते꣡  
 स्तृण꣡न्ति बर्हि꣡र् आनुष꣡क्  
 ये꣡षाम् इ꣡न्द्रो यु꣡वा स꣡खा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 येषा॑म् । इन्द्रः॑ । युवा॑ । सखा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -89,36 +89,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **ये** ऋषयः **आ** **घ** आभिमुख्येन खलु **अग्निमिन्धते** दीपयन्ति **येषां** च **युवा** नित्यतरुणः **इन्द्रः** **सखा** भवति ते **आनुषक्** आनुपूर्व्येण **बर्हि:** **स्तृणन्ति** ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those (sages) who kindle **Agni**, those of whom the ever-young **Indra** is the friend, continually spreadthe sacred grass.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who kindle the fire and strew the ritual grass in due order,  
 of whom Indra is the youthful comrade,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HITHERWARD! they who light flame and straightway trim the sacred grass.  
      Whose Friend is Indra ever young.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die jetzt das Feuer entzünden und das Barhis regelrecht hinbreiten, deren jugendlicher Freund Indra ist,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herbei, die Agni zünden an und reihenweise streun das Gras, Die lieb dem Jüngling Indra sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что зажигают огонь  
 (И) раскладывают по порядку жертвенную солому,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मृज्य꣡मानो दश꣡भिः सुक꣡र्मभिः  
 प्र꣡ मध्यमा꣡सु मातृ꣡षु प्रमे꣡ स꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उभे꣡ नृच꣡क्षा अ꣡नु पश्यते वि꣡शौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 व्र॒तानि॑ । पा॒नः । अ॒मृत॑स्य । चारु॑णः । उ॒भे इति॑ । नृ॒ऽचक्षाः॑ । अनु॑ । प॒श्य॒ते॒ । विशौ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -132,7 +132,7 @@ genre M
 **सः** पवमानः **सुकर्मभिः** शोभनकर्मयुक्ताभिः **दशभिः** दशसंख्याकाभिरङ्गुलीभिः **मृज्यमानः** सः **सचा** ‘अग्नौ  प्रास्ताहुतिः' इत्यादिक्रमेणापां सहायः **प्रमे** लोकान् प्रमातुं **मध्यमासु** अन्तरिक्षस्थितासु अवतिष्ठते ॥ प्रमे । प्रपूर्वान्मातेः क्विपि ङयि ‘आतः' इति योगविभागादाकारलोपः ॥ किंच **नृचक्षाः** नृणां द्रष्टा पवमानः **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य वृष्ट्यर्थं **व्रतानि** यागादिकर्माणि **पानः** रक्षन् **उभे** **विशौ** मनुष्यान् देवांश्चान्तरिक्षेण गच्छन् **अनु** **पश्यते** अनुपश्यति । मनुष्यानभिमतदानेन देवान् हविष्प्रदानेनेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,7 +145,7 @@ Among the midmost mothers: mātṛṣu;
 Madhyamāsu = plural ced in the atmosphere; look after both races: gods and men, i.e., 'men by granting them their desires, gods by bestowing oblations upon them'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, being groomed by the ten who work well [=fingers], (goes) forth to  bellow forth amid the midmost mothers [=waters?].  
 Protecting the commandments of the dear immortal one [=heavenly  
@@ -153,23 +153,23 @@ soma], having his sight on men, he surveys both clans [=gods
 and men].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, while he is adorned by the ten skilful ones, that he too in the Midmost Mothers may create,  
      While he is watching o'er the lovely Amrta's ways, looks on both races as Beholder of mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den zehn geschickten Fingern geputzt fließt er, um unter den mittleren Müttern als Richtschnur zu dienen. Die Satzungen des schönen Göttertranks hütend überschaut er mit Herrscheraugen beide Stämme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er geklärt wird von den zehn geschäftigen, ist er zu bilden in der mittlern Mütter Schooss, Die Bräuche wahrend des geliebten Göttertranks, blickt Männer schauend er nach beiden Stämmen aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Начищаемые десятью (пальцами), прекрасно действующими,  
 Он (течет) вперед среди матерей, служа мерилом.  

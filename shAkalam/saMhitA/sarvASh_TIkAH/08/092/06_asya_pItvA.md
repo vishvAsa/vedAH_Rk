@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्य꣡ पीत्वा꣡ म꣡दानां᳐  
 देवो꣡ देव꣡स्य ओ꣡जसा  
 वि꣡श्वाभि꣡ भु꣡वना भुवत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑ । अ॒भि । भुव॑ना । भु॒व॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -87,41 +87,41 @@ genre M
 **देवः** द्योतमान इन्द्रः **अस्य** अस्माभिर्दीयमानस्य सोमस्य **मदानां** मदकरान् रसान् **पीत्वा** पानं कृत्वा । यद्वा । अस्यैतं सोमं पीत्वा तथा मदानां मदसाधनादीनि भक्षयित्वा । **देवस्य** ग्रहेषु शोभमानस्य यद्वा देवनशीलस्य देवैः काम्यमानस्य सोमस्य पानजातेन **ओजसा** बलेन **विश्वा** **भुवना** सर्वाणि भुवनानि भूतजातानि **अभि** **भुवत्** अभिभवति । सोमस्य ता मद इन्द्रश्चकार (ऋ. सं. २. १५. २) इत्यादिषु सोमपानमदे सर्वाणि वृत्रहननादिकर्माणि चकारेत्येवमत्रापि सर्वाणि भूताभिभवनादीनि कर्माण्यकार्षीदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The god, having quaffed its exhilarations, by the strength of the divine (**Soma**) has conquered allworlds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having drunk of this god here, of his exhilarating drinks, the god with  his power  
 will surmount all beings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two gods are, of course, Soma and Indra respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he hath drqnk its gladdening drops, the God with vigour of a God  
      Hath far surpassed all things that are.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem der Gott von den Rauschsäften dieses Gottes kräftig getrunken hat, überragt er alle Welten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er, der Gott, von diesem Gott der Tränke viel getrunken hat, Dann siegt er über alle Welt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

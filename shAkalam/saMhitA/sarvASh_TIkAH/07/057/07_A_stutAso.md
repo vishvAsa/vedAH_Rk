@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ स्तुता꣡सो मरुतो वि꣡श्व ऊती꣡  
 अ꣡छा सूरी꣡न् सर्व꣡ताता जिगात  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ये । नः॒ । त्मना॑ । श॒तिनः॑ । व॒र्धय॑न्ति । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M;; repeated line
 हे **मरुतः** **स्तुतासः** एवमस्माभिः स्तुताः **विश्वे** सर्वे यूयम् **ऊती** ऊत्या रक्षया सहिताः **सूरीन्** स्तोतॄन् **अच्छ** अभिलक्ष्य **सर्वताता** सर्वतातौ यज्ञे **आ** **जिगात** आगच्छत । **ये** मरुतः **त्मना** आत्मनैव **नः** अस्मान् **शतिनः** शतसंख्याकान् **वर्धयन्ति**। यथा वयं पुत्रपौत्रादिभिः शतिनो भवेम तथा वर्धयन्तीत्यर्थः । ते यूयमा जिगातेति पूर्वेण संबन्धः। एवंभूता मरुतः यूयं सर्वदा अस्मान् पालयत ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,36 +130,36 @@ genre M;; repeated line
 Multiply our hundreds: ye nas tmanā śatino vardhayanti, who increase us, that with sons, grandsonsand the like, we may become hundreds
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When praised, o Maruts, come hither, all of you in your totality, with  help to the patrons,  
 who, possessing hundreds, strengthen us by themselves. – Do you protect  us always with your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The contrast of víśve … sarvátātā “all (of you) … in (your) totality” highlights a constant theme of Marut hymns, that they are both individuals (emphasized by “all your names” in 6b) and a collectivity. See the treatment of this at the beginning of the previous hymn (VII.56) and comm. thereon.
 
 The position of the patrons (sūrí-) as middle men in the circulation of goods and services is nicely expressed here: you help the patrons; they help us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, ye Maruts, praised, with all your succours, with all felicity come to our princes,  
      Who, of themselves, a hundredfold increase us. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da ihr gepriesen seid, so kommet, ihr Marut, alle vollzählig in Gnaden zu den Lohnherren, die uns selbst Hunderte schenkend fördern.-Behütet ihr uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her, o Maruts, ihr gepries'nen alle, mit Huld und Segensfülle zu den Fürsten, die uns mit hundertfachem Lohn erfreuen; ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда (вас) прославили, о Маруты, приходите все  
 На помощь, в полном составе, к (нашим) покровителям,  

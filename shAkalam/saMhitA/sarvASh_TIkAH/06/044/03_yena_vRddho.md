@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡न वृद्धो꣡ न꣡ श꣡वसा  
 तुरो꣡ न꣡ स्वा꣡भिर् ऊति꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡स्ति स्वधापते म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सोमः॑ । सु॒तः । सः । इ॒न्द्र॒ । ते॒ । अस्ति॑ । स्व॒धा॒ऽप॒ते॒ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
@@ -118,37 +118,37 @@ genre M;; repeated line
 इमौ नशब्दौ समुच्चयार्थौ । **येन** पीतेन सोमेन **वृद्धो** **न** प्रवृद्धश्च सन् **स्वाभिरूतिभिः** आत्मीयैर्मरुद्भिः सार्धं **शवसा** बलेन तुरः शत्रूणां हिंसकश्च भवसि स सोम इत्यादि पूर्ववत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma**, whereby you are augmented in strength, and, together with your defenders, (the **Maruts**), are victorious (over your foes), is poured out; it is your exhilaration, **Indra**, lord of the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one through which (you are) like one grown strong by (his own)  power and like one overpowering by his own forms of help,  
 the pressed soma—that is your exhilarating drink, o Indra, lord of  
 independent power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith thou art increased in strength, and conquerest with thy proper aids,  
      Soma is pressed: thy gladdening draught, Indra! libation's Lord! is this.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch den du wie ein Erwachsener an Kraft, wie ein Mächtiger durch eigene Hilfe bist, der gepreßte Soma ist dein Rauschtrank, Indra, Herr des Lebenssaftes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch den du wie erhöht durch Kraft, wie stark durch eigne Stärkung bist, Der ist, o Indra, dir gebraut, der Rauschtrank, o du Opferherr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря кому ты словно возрос силой,  
 Словно побеждаешь своею (собственной) помощью,  

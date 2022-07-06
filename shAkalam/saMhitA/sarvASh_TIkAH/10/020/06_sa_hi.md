@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ क्षे꣡मो हवि꣡र् यज्ञः꣡  
 श्रुष्टी꣡द् अस्य गातु꣡र् एति  
 अग्निं꣡ देवा꣡ वा꣡शीमन्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अ॒ग्निम् । दे॒वाः । वाशी॑ऽमन्तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -95,7 +95,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 य उक्तगुणविशिष्टोऽग्निः । **हि** इत्येतदवधारणे । **सः** एवाग्निः **क्षेमः** कुशलहेतुः । सर्वस्य परिपालनहेतुरित्यर्थः । **हविः** पुरोडाशादिकं च स एव हविषस्तन्निमित्तत्वात् । **यज्ञः** यागोऽपि स एव तस्यापि तद्धेतुत्वात् । किंच **श्रुष्टीत्** क्षिप्रमेव **अस्य** अग्नेः **गातुः** गमनशीलोऽधिष्ठात्रात्मा **एति** देवानामाह्वानार्थं गच्छति । गत्वा च प्रत्यागच्छन्तं **वाशीमन्तं** स्तुतिलक्षणया वाचोपेतम् **अग्निं** प्रति **देवाः** अपि गच्छन्तीति शेषः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -106,29 +106,29 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 His spirit: gātuḥ = the superintending **soul** ofAgni, which hastens to call the gods
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For he is peaceful dwelling, oblation, and sacrifice. By harkening only to  him, their way goes onward:  
 the gods (go) to Agni, who is equipped with axes [=flames].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here are oblation, worship, rest: rapidly comes his furtherance.  
      To sword-armed Agni come the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn das ist sein Behagen, die Opfergabe und das Opfer. Pünktlich geht sein Gang; zu Agni, dem Axtträger, kommen die Götter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier ist Rast ihm, Trank und Opfer; eilig kommt er, und die Götter Gehn zu Agni, der das Beil schwingt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь это (его) удовольствие – возлияние (и) жертва.  
 Только благодаря преданному служению бывает его счастливый исход.  

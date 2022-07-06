@@ -18,7 +18,7 @@ title = "+063"
 ‘ ऋतस्य गोपौ ' इति सप्तर्चं सप्तमं सूक्तम् । अत्रेयमनुक्रमणिका - ‘ ऋतस्य सप्तार्चनाना जागतम्' इति । आत्रेयोऽर्चनाना नाम ऋषिः । जगती छन्दः । तुह्यादिपरिभाषया मित्रावरुणौ देवता । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 63 (417)  
 Mitra and Varuṇa  

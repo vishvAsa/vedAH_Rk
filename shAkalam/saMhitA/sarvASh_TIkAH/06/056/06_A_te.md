@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते सुअस्ति꣡म् ईमह  
 आरे꣡अघाम् उ꣡पावसुम्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शुव꣡श् च सर्व꣡तातये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒द्य । च॒ । स॒र्वऽता॑तये । श्वः । च॒ । स॒र्वऽता॑तये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे पूषन् 'ते त्वदीयां त्वया देयां **स्वस्तिं** कल्याणीं रक्षाम् **आरेअघाम्** । आरे दूरे अघं पापं यस्यास्तादृशम् । **उपावसुम्** उपगतधनाम् । ईदृशीं स्वस्तिम् **अद्य** **च** अस्मिंश्च काले **सर्वतातये**। सर्वैर्ऋत्विग्भिस्तायते इति सर्वतातिर्यज्ञः । तदर्थम् । यद्वा । सर्वेषां भोगानां विस्ताराय। **श्वश्च** परस्मिन्नपि दिने **सर्वतातये** सर्वदा सर्वतात्यर्थम् **आ** **ईमहे** अभियाचामहे ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,34 +99,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Adyā** ca sarvatātaye: **yajña** which is conducted by the priest, sarvair ṛtvigbhis tāyate; or, it may mean: for the dissemination of all enjoyment, sarveṣām bhogānām vistārāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beg of you well-being that keeps evil afar and goods nearby,  
 for wholeness today and for wholeness tomorrow.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation implies that both ‘well-being’ (acc. svastím) and ‘wholeness’ (dat. sarvátātaye) are the complements of īmahe ‘we beg’, and in fact I think that is the intent of the passage, however loose the syntax. But it might be possible to construe the dat. with ‘well-being’: “we beg you for well-being to completeness,” i.e., for well-being in its entirety.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prosperity we crave from thee, afar from sin and near to wealth,  
      Tending to perfect happiness both for to. morrow and to-day.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir erbitten von dir das Glück, das Unheil fernhält und Gutes bringt, heut zur Vollkommenheit und morgen zur Vollkommenheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir wünschen deinen Segen uns, der fern von Leid uns Gut verschafft, Zu hohem Glücke heute uns, zu hohem Glücke morgen auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы просим у тебя счастья,  
 Оставляющего зло далеко (от нас), приносящего добро,  

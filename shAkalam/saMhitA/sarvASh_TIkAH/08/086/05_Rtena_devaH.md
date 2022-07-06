@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋते꣡न देवः꣡ सविता꣡ शमायत  
 ऋत꣡स्य शृ꣡ङ्गम् उर्विया꣡ वि꣡ पप्रथे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ऋ॒तम् । स॒सा॒ह॒ । महि॑ । चि॒त् । पृ॒त॒न्य॒तः । मा । नः॒ । वि । यौ॒ष्ट॒म् । स॒ख्या । मु॒मोच॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
@@ -125,7 +125,7 @@ genre M;; repeated line
 ऋषिः सत्यप्रशंसां करोति । हे अश्विनौ **देवः** द्योतमानः सविता सर्वस्य स्वस्वकर्मणि प्रेरक एतन्नामको देवः **ऋतेन** सत्येन **शमायते** सायंकाले स्वकिरणसमूहं शमयति । ततोऽनन्तरं स एव सविता **ऋतस्य** सत्यस्य **शृङ्गम्** अग्रम् **उर्विया** उरु विस्तीर्णं यथा भवति तथा प्रातःकाले **वि** **पप्रथे** विशेषेण प्रथयति । सर्वतो विस्तारयति । किंच **पृतन्यतः** पृतनामिच्छतः संयुयुत्सोः शत्रोः **महि** **चित्** महदपि बलम् **ऋतं** सत्यं स्वयमेवाभिभवति । इत्थमृतं प्रशस्तमभूत् । तस्माद्युवामपि तेनर्तेन **नः** अस्माकं सख्यानि **मा** वि **यौष्टम्** । अत्रागन्तुमश्वरश्मीन् मुञ्चतमिति ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,35 +136,35 @@ genre M;; repeated line
 A praise of truth, satyapraśaṃsā; as the sun swerves not from hisappointed course, and as truth or adherance to right conquers earthly foes, so the **Aśvins** must fulfil the duties ofancient friendship and hear the ṛṣi's prayer
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By truth god Savitar performs his labors; the horn of truth is extended widely. The truth overpowers even those doing great battle. – Do not keep us  away from partnership with you. Release (him?)!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 What the truth is doing here insistently in this final verse isn’t clear to me.
 
 As Renou points out, though the rare verb śamāyá- is derived from the root √śam ‘labor’ (presumably as a deverbative from a 9th-class *śaṃnā́ti [see, perhaps, ścamnan I.104.2]), it participates in a secondary word play between śáma- ‘hornless’ (I.32.15, 33.15) and śṛ́ṅga- ‘horn’ -- hence the rather surprising appearance of the enigmatic “horn of truth” in b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 About the holy Law toils Savitar the God the horn of holy Law hath he spread far and wide.  
      The holy Law hath quelled even mighty men of war. Break ye not off our ftiendship, come and act me free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Wahrheit wirkt Savitri; der Wahrheit Horn hat sich weithin ausgedehnt; die Wahrheit hat auch die heftig Angreifenden bezwungen. - Löset nicht unsere Freundschaft! Spannet aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit heiligem Werke wirkt der Gott Savitar, er breitet weit das Horn des heiligen Werkes aus; das heilige Werk bewältigt auch die mächtig kämpfenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Истиной успокаивает бог Савитар.  
 Рог истины распространился далеко.  

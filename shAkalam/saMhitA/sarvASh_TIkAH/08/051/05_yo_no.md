@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ नो दाता꣡ व꣡सूना᳐म्  
 इ꣡न्द्रं तं꣡ हूमहे वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 गमे꣡म गो꣡मति व्रजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya;; repeated line
 वि॒द्म । हि । अ॒स्य॒ । सु॒ऽम॒तिम् । नवी॑यसीम् । ग॒मेम॑ । गोऽम॑ति । व्र॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -116,30 +116,30 @@ genre M;; Vālakhilya;; repeated line
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke that **Indra** who gives us wealth; for we know his new favour; may we obtain a stall rich incows.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who is the giver of goods to us, that Indra we invoke,  
 for we know his ever newer favor. Might we go to a pen full of cattle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der uns ein Schenker von Gütern ist, den Indra rufen wir, denn wir kennen seine neueste Gnade, wir möchten zu rinderreichem Viehstand kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesen Indra rufen wir, welcher uns Güter schenkt; denn wir kennen sein neustes Wohlwollen; möchten wir zu rinderreichem Stalle gelangen!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто нам даритель мужества,  
 Этого Индру мы призываем:  

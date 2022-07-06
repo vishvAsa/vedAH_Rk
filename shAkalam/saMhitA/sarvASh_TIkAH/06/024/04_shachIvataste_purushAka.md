@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श꣡चीवतस् ते पुरुशाक शा꣡का  
 ग꣡वाम् इव स्रुत꣡यः संच꣡रणीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दा꣡मन्वन्तो अदामा꣡नः सुदामन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒त्साना॑म् । न । त॒न्तयः॑ । ते॒ । इ॒न्द्र॒ । दाम॑न्ऽवन्तः । अ॒दा॒मानः॑ । सु॒ऽदा॒म॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śacīvatas* ← *śacīvataḥ* ← *śacīvat*
 - \[noun\], genitive, singular, masculine
@@ -118,7 +118,7 @@ genre M
 हे **पुरुशाक** बहुकर्मन्निन्द्र **शचीवत:** प्रज्ञावतः **ते** त्वदीयाः **शाकाः** शक्तयः कर्माणि वा सर्वतः संचरन्तीति शेषः । तत्र दृष्टान्तः । **गवामिव** धेनूनां **स्रुतयः** मार्गा यथा **संचरणीः** सर्वत्र संचारिणो भवन्ति तद्वत् । अपि च **वत्सानां** **न** **तन्तयः** । तन्तिर्नाम दीर्घप्रसारिता रज्जुः यत्र नियतैर्विशाखदामभिः बहवो वत्सा बध्यन्ते । यथा तन्तयो बहूनां वत्सानां बन्धका हे **सुदामन्** शोभनदान **इन्द्र** तथा **ते** त्वदीयाः शाकाः **दामन्वन्तः** बन्धनवन्तः बहूनां शत्रूणां बन्धकाः **अदामानः** स्वयमन्यैरबद्धाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ genre M
 The energies: **śākāḥ** śaktayaḥ, abilities, energies; the verb is added: sarvataḥ saṃcarantī, come together from all sides; gavām iva srutayaḥ sañcaraṇīḥ = dhenūnām **mārgāḥ** yathā **sarvatra** sañcāriṇo **bhavanti**, as the paths of milch kine are everywhere going together; the translation is: vatsānām na tantayaḥ, like long ropes used to tie a number of calves together, like the tethers of many calves
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The abilities that belong to you, the able one, o you of many abilities,  are converging like streams of cattle.  
 (They are) like cords for calves, Indra, binding without bonds, o you of  good bonds [/gifts].
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 tanūrúc- is, of course, a root noun cmpd., ‘shining with/in their bodies’, but the bahuvrīhi-like tr. works better in context.
 
@@ -151,23 +151,23 @@ passage in which the poet simply avoids the middle dual subjunctive of √kṛ a
 The locative string in cd is the usual expression of the stakes -- a type of loc. absol. lacking an overt participle. The full expression is dháne hité “when the stake is set” (VI.45.11, 13, etc.). The string here contains a formulaic pair, toké … tánaye “progeny and prosperity” with three other locc., one inserted inside the formula. On the basis of VI.31.1 (q.v.), where a ca after tánaye better delineates the pairing, I would slightly change the tr. to “when progeny and prosperity [or, offspring and lineage], cattle, water, and fields are at stake.” The two vā-s (4a, 4c), in conjunction with the subjunctives, seem to set out a deliberative choice: “it may be that X … or it may be that Y.” The two possibilities floated as to how one champion might defeat another set the stage for the next vs. (5), which forecloses any possibility that one of the champions, even a successful one, could take on Indra. The two vā-s are slightly off-balance, however, since the first one is located in the main clause (a) to which the first yád clause is immediately appended (b), while the second is found in the second yád clause, whose main clause seems to be, by default, the original pāda a. This seems to me a minor problem: the point is that the two champions (śū́ra-) in pāda a may defeat each other in single combat (b) or in a full-on battle (cd). The first vā would be better positioned in pāda b, but it has been shifted to the front of the whole main-cl./dep.-cl. construction -- a sort of super-Wackernagel’s Law position. Klein (DGRV II.194, 201-2) treats the two vā occurrences separately, taking the 2nd as conjoining (or disjoining) the parallel yád clauses b and c, but the 1st as the equivalent of “the asseverative particle vaí.” This seems somewhat perverse to me: two occurrences of the same particle in a single verse, esp. a particle that regularly appears in pairs, invite a unified explanation; moreover, I am very dubious that vā is ever used for vaí, a particle that is rare in the RV anyway. Even Klein can only identify 6 passages where he thinks vā = vaí (DGRV II.201), of which he finds syntactic support for only 3. That 6c contains a pair of vā-s whose syntactic connection is clearer provides evidence that these two vā-s also form a pair.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong Lord, thine energies, endowed with vigour, are like the paths of kine converging homeward.  
      Like bonds of cord, Indra, that bind the younglings, no bonds are they, O thou of boundless bounty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Kräfte, des Kraftvollen, du Vielkräftiger, sind wie die gangbaren Wege der Rinder. Wie die Stricke der Kälber sind deine Kräfte schenkend und bindend ohne Fesseln, du reichlich schenkender Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sehr starker, kräft'ger, deine Kräfte gehen zusammen wie der Rinderheerde Pfade; Der Kälber Strängen gleichen, Indra, deine, des Schenkers, ungebundne Angebinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возможности у тебя, могучего, о тот, кто многое может,  
 Словно исхоженные коровьи тропы.  

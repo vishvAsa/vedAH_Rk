@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ द्युम्ना꣡य प्र꣡ श꣡वसे  
 प्र꣡ नृषा꣡ह्याय श꣡र्मणे  
 प्र꣡ द꣡क्षाय प्रचेतसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 प्र । दक्षा॑य । प्र॒ऽचे॒त॒सा॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M
 **प्रचेतसा** प्रकृष्टज्ञानावश्विनौ **द्युम्नाय** द्योतमानायान्नाय यशसे वा। तादर्थ्ये चतुर्थी । द्युम्नार्थमस्मान् प्ररक्षतम् । **शवसे** बलाय च प्ररक्षतम् । नृषह्याय नृभिः सोढव्याय **शर्मणे** सुखाय च प्ररक्षतम् । **दक्षाय** वृद्धयर्थं प्ररक्षतम् । यद्वा । द्युम्नायेत्यादौ ‘क्रियाग्रहणमपि कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थी । द्युम्नादीन्यस्मभ्यं प्रयच्छतमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,29 +90,29 @@ genre M
 For victory: nṛṣāhyāya = an epithet of śarmaṇe, for happiness to be borne by men, nṛbhihsoḍhavyāya sukhāya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up for brilliance, up for swelling might, up for victory over men and for  shelter,  
 up for ritual skill, you attentive ones—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Forward for glory and for strength, protection that shall conquer men,  
      And power and skill, most sapient Ones!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zum Glanz, zur Macht, zum Sieg, zum Schutz, zu rechtem Entschluß euch, ihr Einsichtsvolle;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hervor zu Reichthum und zur Kraft zum Schutz, der über Männer siegt, Zur Macht, o weise Ritter ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вперед для блеска, вперед для силы,  
 Вперед для покорения мужей, для (нашей) защиты,  

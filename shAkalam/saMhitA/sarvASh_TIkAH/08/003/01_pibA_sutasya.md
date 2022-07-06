@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा सुत꣡स्य रसि꣡नो  
 म꣡त्स्वा न इन्द्र गो꣡मतः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अस्माँ꣡ अवन्तु ते धि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ॒पिः । नः॒ । बो॒धि॒ । स॒ध॒ऽमाद्यः॑ । वृ॒धे । अ॒स्मान् । अ॒व॒न्तु॒ । ते॒ । धियः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -109,7 +109,7 @@ genre M
 हे **इन्द्र** **रसिनः** रसवतः **गोमतः** गोविकारैः पयःप्रभृतिभिः श्रयणद्रव्यैर्युक्तस्य **नः** अस्मदीयस्य **सुतस्य** अभिषुतस्य । ‘ क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । ईदृशं सोमं **पिब** । पीत्वा च **मत्स्व** तृप्तो भव । अपि च **सधमाद्यः** सह मादयितव्यः सहितैरस्माभिस्तर्पयितव्यस्त्वम् **आपिः** आपयिता बन्धुः सन् **नः** अस्माकं **वृधे** वर्धनाय **बोधि** बुध्यस्व । **ते** त्वदीयाः **धियः** बुद्धयोऽनुग्रहात्मिकाः **अस्मान्** स्तोतॄन् **अवन्तु** रक्षन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,29 +120,29 @@ genre M
 As our kinsman: or, as ourkinsman, to be exhilarated along with us, think for our welfare; this ṛca and ṛcas 2-20 are used as a **pragātha**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink of the sap-filled pressed (soma). Reach exhilaration from our  (soma) accompanied by cows, Indra.  
 Become a friend, a feasting companion, for our strengthening. Let your  insights help us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRINK, Indra, of the savoury juice, and cheer thee with our milky draught.  
      Be, for our weal, our Friend and sharer of the feast, and let thy wisdom guard us well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink vom würzigen, berausche dich, Indra, an unserem milchgemischten Saft! Sei du der Freund und Zechgenosse uns zum Gedeihen! Deine Absichten sollen uns günstig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, trink den saft'gen Trank, berausch am milchgemischten dich; Sei uns zum Heil, Genosse bei dem Opferschmaus, es fördre deine Einsicht uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпей крепкого выжатого (сому),  
 Опьяняйся, о Индра, нашим (соком,) смешанным с молоком!  

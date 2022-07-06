@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते सिञ्चामि कुक्षियो꣡र्  
 अ꣡नु गा꣡त्रा वि꣡ धावतु  
 गृभाय꣡ जिह्व꣡या म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गृ॒भा॒य । जि॒ह्वया॑ । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -84,7 +84,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **ते** तव **कुक्ष्योः** उदरयोः **आ** **सिञ्चामि** सोमानवनयामि । कुक्षी सोमेन पूरयामीत्यर्थः । इन्द्रस्य हि द्वे उदरे । तथा च श्रूयते ‘ ओभा कुक्षी पृणता वार्त्रघ्नं च माघोनं च ' इति । यद्वा । एकस्यैवोदरस्य सव्यदक्षिणभेदेनोर्ध्वाधोभागभेदेन वा द्वित्वम् । स चासिक्तः सोमो गात्राणि शरीरावयवानि हस्तपादादीनि सर्वाण्यनुक्रमेण **वि** **धावतु** व्याप्नोतु । त्वं च **मधु** मधुरं मया सिच्यमानं सोमं **जिह्वया** रसनेन्द्रियेण **गृभाय** गृहाण ।  ‘ छन्दसि शायजपि ' इति ग्रहं उत्तरस्य श्नः शायजादेशः । 'हृग्रहोर्भः' इति भत्वम् ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -95,28 +95,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Belly: kukṣyoḥ, in the dual: **Indra** has two bellies, indrasya hi dve udare; fill both the bellies of the slayerVṛtra; or, the reference may only be to the right and left sides, or the upper and lower portions of the sam ebelly,yadvā ekasyaiva udarasya savyadakṣiṇabhedena ūrddhvādhobhāgena vā dvitam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I pour (it) into your two cheeks. Let it run along and across your limbs. Grasp the honey with your tongue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I pour it down within thee, so through all thy members let it spread:  
      Take with. thy tongue the pleasant drink.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gieße ihn in deine Seiten, er soll dir durch die Glieder rinnen. Erfasse die Süßigkeit mit der Zunge!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich giess' den Meth in deinen Bauch, durch deine Glieder ströme er; Ergreife mit der Zunge ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я наполню (им) твой живот,  
 Пусть растечется он (у тебя) по членам.  

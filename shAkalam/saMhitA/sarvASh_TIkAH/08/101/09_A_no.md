@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो यज्ञं꣡ दिविस्पृ꣡शं  
 वा꣡यो याहि꣡ सुम꣡न्मभिः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अयं꣡ शुक्रो꣡ अयामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒न्तरिति॑ । प॒वित्रे॑ । उ॒परि॑ । श्री॒णा॒नः । अ॒यम् । शु॒क्रः । अ॒या॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -107,20 +107,20 @@ genre M;; repeated line
 हे **वायो** त्वं **नः** अस्माकं **दिविस्पृशं** तं **यज्ञम्** **आ** **याहि** । किमर्थमागमनमित्यत्राह । **सुमन्मभिः** सुष्टुतिभिः **अन्तः** **पवित्रे** पवित्रस्य मध्ये **उपरि** **श्रीणानः** श्रयमाणो निषिच्यमानः **अयं** **शुक्रः** सोमः **ते** तुभ्यम् **अयामि** नियत आसीदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, **Vāyu**, to our heaven-reaching sacrifice with its beautiful hymns of praise, this bright **Soma** hasbeen kept for you, poured out upon the middle of the straining cloth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to our sacrifice that touches heaven, Vāyu, with the  well-disposed (gods).  
 (The one soma drink) within the sieve above is being mixed; this pure  (soma) here has been held out to you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Grassmann I take sumánmabhiḥ as a bahuvrīhi, contra Geldner’s karmadhāraya “mit guten Gedanken” (though he allows the other alternative in n. 9b). This stem is attested in the nom. sg. masc. in VII.68.9 and therefore must be a bahuvrīhi, since mánman- is neut., and the parallel durmánas- (2x) is found only in the masc. and so must be a bahuvrīhi as well.
 
@@ -133,23 +133,23 @@ Assuming that my separation of c and d is correct, this adds another ex. of a pr
 Note the phonetic figure ayám … ayāmi.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, Vayu, drawn by fair hymns, to our sacrifice that reaches heaven.  
      Poured on the middle of the strainingcloth, and cooked, this bright drink hath been offered ilice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu unserem gen Himmel dringenden Opfer komm, Vayu, mit guten Gedanken! Der in der Seihe geläuterte, darüber mit Milch gemischte Soma, dieser Klare ist dir gereicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Opfer, das zum Himmel dringt, o Vāju mit den Weisen komm; Im Sieb geklärt, begossen mit der warmen Milch, ward dieser helle dir gereicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На нашу жертву, касающуюся неба,  
 Приди, о Ваю, с добрыми мыслями!  

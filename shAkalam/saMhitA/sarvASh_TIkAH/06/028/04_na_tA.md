@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ ता꣡ अ꣡र्वा रेणु꣡ककाटो अश्नुते  
 न꣡ संस्कृतत्र꣡म् उ꣡प यन्ति ता꣡ अभि꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 गा꣡वो म꣡र्तस्य वि꣡ चरन्ति य꣡ज्वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 उ॒रु॒ऽगा॒यम् । अभ॑यम् । तस्य॑ । ताः । अनु॑ । गावः॑ । मर्त॑स्य । वि । च॒र॒न्ति॒ । यज्व॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -137,7 +137,7 @@ popular
 **रेणुककाटः** रेणुकस्य रेणोः पार्थिवस्य रजस उद्भेदकः। कटिर्भेदनकर्मा । अर्वा युद्धार्थमागतोऽश्वः **ताः** गाः **न** **अश्नुते** न प्राप्नुयात् । तथा **ताः** गावः **संस्कृतत्रं** विशसनादिसंस्कारं **न** **अभि** **उप** **यन्ति** नाभिगच्छन्तु । अपि च **ताः** **गावः** **यज्वनः** यागशीलस्य **तस्य** **मर्तस्य** मनुष्यस्य **उरुगायं** विस्तीर्णगमनम् **अभयं** भयवर्जितं प्रदेशम् **अनु** उद्दिश्य **वि** **चरन्ति** विशेषेण गच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,13 +148,13 @@ popular
 Not let them fall: na saṃskṛtatram abhyupayanti = viśasanādisaṃskādisaṃskāram nābhyupagacchantu, let them not go right to the consecration of immolation; as metonymy, perhaps the cows means their produce, milk and butter, which are constantly offered
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No dusty-necked steed gets to them (in a cattle raid), nor do they go to  the place for dressing [=slaughterhouse].  
 The cows of the mortal who sacrifices wander far across wide-ranging  (space) free of fear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On reṇú-kakāṭa- see EWA s.v. kakā́ṭikā-, kṛ́kāṭa-. Some part of the back of the head/neck is meant. What exact threat the dusty-necked steed poses to the cows isn’t exactly clear. Sāyaṇa. explains árvā as yuddhārtham āgato ‘śvaḥ. I would limit the “intent to fight” more narrowly to a cattle raid, but there is no further evidence to bring to bear. See immed. below.
 
@@ -169,23 +169,23 @@ My “place for dressing” reflects the possibility (see above) that saṃskṛ
 The word order in pāda b is somewhat aberrant. The fem. pl. subj. tā́(ḥ) occurs right after the verb, followed by the preverb abhí, which ends the pāda: x x x x x, úpa yanti tā́abhí. We would ordinarily expect the pronoun tā́(ḥ) to occur early in the clause (cf. pāda a #ná tā́(ḥ) [=3a]) and the preverb to precede the rest of the verbal complex. The word order disturbance may have been caused by the need to fit the bulky 4-syllable sáṃskṛtatram into the pāda, since it won’t fit the Jagatī cadence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The charger with his dusty brow o'ertakes them not, and never to the shambles do they take their way.  
      These Cows, the cattle of the pious worshipper, roam over widespread pasture where no danger is.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht holt sie das Streitroß mit staubbedecktem Nacken ein, nicht kommen sie zur Schlachtbank. Die Kühe des opfernden Sterblichen weiden auf gefahrloser weiter Trift.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu der Schlachtbank hingeführt, Auf unbeengten, sichern Wegen wandern hin die Kühe dieses Sterblichen, der Opfer bringt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Их не настигнет скакун с пыльной холкой.  
 Они не пойдут на бойню.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ ग꣡र्भम् अदधाम् ओ꣡षधीषु  
 अहं꣡ वि꣡श्वेषु भु꣡वनेषु अन्तः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अहं꣡ ज꣡निभ्यो अपरी꣡षु पुत्रा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒हम् । प्र॒ऽजाः । अ॒ज॒न॒य॒म् । पृ॒थि॒व्याम् । अ॒हम् । जनि॑ऽभ्यः । अ॒प॒रीषु॑ । पु॒त्रान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -111,7 +111,7 @@ popular
 **अहं** होता **ओषधीषु** शाल्यादिषु फलार्थं **गर्भमदधां** धारयामि । **विश्वेषु** सर्वेष्वन्येष्वपि **भुवनेषु** भूतजातेषु **अन्तः** मध्ये **अहम्** एव गर्भं धारयामि । तथा **पृथिव्यां** भूम्यां **प्रजाः** सर्वान् मनुष्यान् **अहम्** **अजनयं** जनयामि। **जनिभ्यः** जायाभ्यः **अपरीषु** अन्यास्वपि स्त्रीषु **पुत्रान्** **अहम्** अजनयं जनयामि । मत्साध्येन यागेन सर्वस्योत्पत्तेरहं सर्वजननहेतुर्भवामीत्यर्थः ॥ ॥४१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -122,30 +122,30 @@ popular
 I beget children: the share of the hotā in the procreation ofliving beings is referable to the efficacy of the sacrifices at which he ministers. The metaphor: children = richesderived from sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I placed the embryo in the plants, I within all creatures.  
 I generated progeny on earth, I (will generate) sons for wives in the  
 future.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In plants and herbs, in all existent beings I have deposited the germ of increase.  
      All progeny on earth have I engendered, and sons in women who will be hereafter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe den Keim in die Pflanzen gelegt, ich in alle Geschöpfe; ich erzeugte die Kinder auf Erden, ich erzeuge auch in Zukunft den Weibern Söhne!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich habe Frucht gesetzet in die Kräuter, ich habe Frucht gelegt in alle Wesen; Ich zeugte alle Keime in der Erde und Söhne in den Weibern, auch den künft'gen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я вложил зародыш в растения,  
 Я во все существа.  

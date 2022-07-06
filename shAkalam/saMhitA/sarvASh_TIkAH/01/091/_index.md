@@ -10,7 +10,7 @@ title = "+091"
 तदहः प्रायणीयेष्टिः' इत्यत्र सूत्रितं - ‘ त्वं सोम प्र चिकितो मनीषा या ते धामानि दिवि या पृथिव्याम् ' ( आश्व. श्रौ. ४. ३.२) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 91  
 Soma  
@@ -23,7 +23,7 @@ Since this is not a Soma Pavamāna hymn and is not found in the IXth Maṇḍala
 fication process proper, it is hardly mentioned in the IXth Maṇḍala (twice in fact,  once [IX.31.4] in an exact repetition of the present vs. 16 in a hymn attributed  to our poet Gotama Rāhūgaṇa), while it is the most prominent ritual detail in  this hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्र꣡यः केशि꣡न ऋतुथा꣡ वि꣡ चक्षते  
 संवत्सरे꣡ वपत ए꣡क एषाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ध्रा꣡जिर् ए꣡कस्य ददृशे न꣡ रूप꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विश्व॑म् । एकः॑ । अ॒भि । च॒ष्टे॒ । शची॑भिः । ध्राजिः॑ । एक॑स्य । द॒दृ॒शे॒ । न । रू॒पम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
@@ -129,7 +129,7 @@ popular
 केशस्थानीयप्रकृष्टरश्मियुक्ता: **त्रयः** अग्न्यादित्यवायवः । ते च **ऋतुथा** कालेकाले **वि** **चक्षते** विविधलक्षणां भूमिं पश्यन्ति । तेषां पृथक्पृथक्कार्यमाह । **एषां** मध्ये **एकः** अग्निः **संवत्सरे** अतीते सति संवत्सरं **वपते** दाहेन केशस्थानीयौषधिवनस्पत्यादिके छेदनं नापितकार्यं करोति । **एकः** अन्यः आदित्यः **विश्वं** सर्वं जगत् **शचीभिः** स्वकीयैः प्रकाशवृष्ट्यादिकर्मभिः **अभि** **चष्टे** सर्वतः पश्यति। **एकस्य** वायोः **ध्राजिः** गतिः **ददृशे** दृश्यते सर्वैः **न** **रूपम्** अप्रत्यक्षत्वात् । स्पर्शशब्दधृतिकम्पलिङ्गैः गम्यते' इति हि न्यायविदो वदन्ति । अयमपि मन्त्रो यास्केन एवं व्याख्यातः - त्रयः केशिन ऋतुथा विचक्षते काले कालेऽभिविपश्यन्ति संवत्सरे वपत एक एषामित्यग्निः पृथिवीं दहति सर्वमेकोऽभिविपश्यति कर्मभिरादित्यो गतिरेकस्य दृश्यते न रूपं मध्यमस्य ' (निरु. १२. २७) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,29 +140,29 @@ popular
 The three: **Agni**, who burns up the earth; the Sun, who revives it by his light, and the rain which he sends; and **Vāyu**, the wind, who contributes to the fall of rain
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Three long-haired ones gaze out in succession: in a year one [=Agni] of  them shears away (the land) for himself;  
 another [=the Sun] gazes upon everything with his powers; the rush of  another [=Wind] is visible, but not his form.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Three with long tresses show in ordered season. One of them sheareth when the year is ended.  
      One with his powers the universe regardeth: Of one, the sweep is seen, but his figure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Drei Langhaarige lassen sich zu bestimmter Zeit blicken: Der eine unter ihnen schert im Laufe des Jahres ab; der eine überschaut nach Kräften das All; von dem einen nimmt man die Geschwindigkeit wahr, nicht die Gestalt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drei schönhaarige zeigen sich nach der Ordnung, der eine von ihnen streut Gaben aus im Laufe des Jahres [Agni], der andere beschaut alles mit Kraft [die Sonne], des dritten Dahingleiten sieht man wohl, nicht seine Gestalt [des Windes].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Трое волосатых появляются в определенное время.  
 В течение года стрижется один из них.  

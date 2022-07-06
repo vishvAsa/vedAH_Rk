@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 परेयिवां꣡सम् प्रव꣡तो मही꣡र् अ꣡नु  
 बहु꣡भ्यः प꣡न्थाम् अनुपस्पशान꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यमं꣡ रा꣡जानं हवि꣡षा दुवस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वै॒व॒स्व॒तम् । स॒म्ऽगम॑नम् । जना॑नाम् । य॒मम् । राजा॑नम् । ह॒विषा॑ । दु॒व॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pareyivāṃsam* ← *pare* ← *√i*
 - \[verb noun\], accusative, singular
@@ -98,7 +98,7 @@ popular
 हे मदीयान्तरात्मन् यजमान वा त्वं **राजानं** पितॄणां स्वामिनं **यमं** **हविषा** पुरोडाशादिना **दुवस्य** परिचर । कीदृशम् । **प्रवतः** प्रकृष्टकर्मवतो भूलोकवर्तिभोगसाधनं पुण्यमनुष्ठितवतः पुरुषान् **महीः** तत्तद्भोगोचितभूप्रदेशविशेषान् **अनु** **परेयिवांसं** क्रमेण मरणादूर्ध्वं प्रापितवन्तं तथा **बहुभ्यः** स्वर्गार्थिभ्यः पुण्यकृद्भ्यः पुण्यकृतार्थे **पन्थां** स्वर्गस्योचितं मार्गम् **अनुपस्पशानम्** अबाधमानम् । पापिन एव पुरुषान् स्वर्गमार्गबाधेन नरकं प्रापयति न तु पुण्यकृत इत्यर्थः । **वैवस्वतं** विवस्वतः सूर्यस्य पुत्रं **जनानां** पापिनां **संगमनं** गन्तव्यस्थानरूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,34 +109,34 @@ popular
 Of mankind:janānām pāpinām = of sinners; who conductṣ..over the earth: who has caused men of surpassing merit,who have performed pious acts, which are the means of gaining earthly happiness, to reach one by one afterdeath the various spots of the earth fitted for their respective happiness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the one who has departed along the great slopes, having spied out the  path for many,  
 son of Vivasvant, unifier of the peoples—to Yama the king show favor  with oblation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HONOUR the King with thine oblations, Yama, Vivasvan's Son, who gathers men together,  
      Who travelled to the lofty heights above us, who searcbes out and shows the path to many.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Him who has past along the mighty ridges, And has spied out the path for many travellers, Vivasvant's son, the gatherer of people, Yama, the king, do thou present with offering.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der den großen Wasserläufen nachgezogen ist und für viele den Weg entdeckt hat, dem Vivasvatsohn, dem Sammler der Menschen, dem König Yama huldige mit Opfer!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der einst dahinschied zu den sel'gen Höhen, und vielen so den Weg dahin gezeigt hat, Den Sohn Vivasvats, der die Menschen sammelt, den König Jama ehr' mit Opfergabe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того, кто удалился по великим отлогим склонам,  
 Разглядел путь для многих,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ स꣡ यो꣡ न꣡ववास्त्वम् बृह꣡द्रथं  
 सं꣡ वृत्रे꣡व · दा꣡सं वृत्रहा꣡रुजम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दूरे꣡ पारे꣡ र꣡जसो रोचना꣡करम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । व॒र्धय॑न्तम् । प्र॒थय॑न्तम् । आ॒नु॒षक् । दू॒रे । पा॒रे । रज॑सः । रो॒च॒ना । अक॑रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -129,7 +129,7 @@ genre M
 **अहम्** इन्द्रः **सः** अस्मि **यः** अहं **नववास्त्वं** **बृहद्रथं** च **वृत्रेव** वृत्रमिव **दासम्** उपक्षपयितारमिव नववास्त्वं बृहद्रथं च **अरुजम्** अहं भग्नमकरवम्। ‘रुजो भङ्गे '। **यत्** यदा **वर्धयन्तं** वर्धमानं **प्रथयन्तं** प्रथमानं चोभौ शत्रू **आनुषक्** अनुषक्तः सन् **रोचना** रोचनस्य **रजसः** लोकस्य **दूरे** **पारे** **अकरं** कृतवानस्मि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,7 +140,7 @@ genre M
 Dāsa like a Vṛtra: vṛtreva dāsam = like the destroyer, the Vṛtra; or, vṛtra iva = like twovṛtras
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am the one who (aided?) Navavāstva of the lofty chariots—I, the smasher  of Vr̥tra [/obstacles], shattered the Dāsa like obstacles [/Vr̥tras]—  
 when he [=Navavāstva] was causing (me) to grow strong and spread  
@@ -148,23 +148,23 @@ out according to due ritual order. I made the realms of light on the
 distant far shore of airy space.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 1, I crushed Navavastva of the lofty car, the Dasa, as the Vrtra-slayer kills the fiends;  
      When straightway on the region's farthest edge I brought the God who makes the lights to broaden and increase.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich war es, der den Navavastva, den Brihadrata schützend, den Dasa, gleich dem Vritra zerschmetterte, ich der Vritratöter, wie damals, als ich den sich auswachsenden, gehörig sich ausbreitenden Vritra am fernen Ende des Raumes, in Himmelslichter verwandelte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich Vritratödter war's, der Navavāstua, den Dämon hoch zu Wagen, wie den Vritra schlug, Als weit ich ihn, der stetig wuchs und breiter ward, jenseit des Luftraums schaffte in des Aethers Glut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я тот, кто Нававаству, Брихадратху,  
 Словно врагов, разгромил дасу, (я,) убийца Вритры,  

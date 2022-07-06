@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति स्प꣡शो वि꣡ सृज तू꣡र्णितमो  
 भ꣡वा पायु꣡र् विशो꣡ अस्या꣡ अ꣡दब्धः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡ग्ने मा꣡किष् टे व्य꣡थिर् आ꣡ दधर्षीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । नः॒ । दू॒रे । अ॒घऽशं॑सः । यः । अन्ति॑ । अग्ने॑ । माकिः॑ । ते॒ । व्यथिः॑ । आ । द॒ध॒र्षी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -145,7 +145,7 @@ genre M
 </details>
 
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,13 +156,13 @@ genre M
 Direct your flames against opposing rays: **prati** spaśo viṛja: spaśaḥ = parabādhakān raśmin; or, it may mean, caran, spies, sent to determine between true and false, satyanṛtavivekāītham; praṇidhin may also mean binders, imprisoners, bandhanakṛtāḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hurl out your spies against (the foes), as the swiftest one. Become the  undeceivable protector of this clan here.  
 Whoever curses us at a distance, who nearby, o Agni, let no one defy  your veering course.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner renders d “keiner soll es wagen, dich irrezuführen,” but vyáthiḥ ‘veering course’ is simply a description of the usual behavior of fire, amply described in vss.
 
@@ -179,13 +179,13 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send thy spies forward, flectest in thy motion; be, ne'er deceived, the guardian of this people  
      From him who, near or far, is bent on evil, and let no trouble sent from thee o'ercome us.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Being the quickest, send forth thy spies against (all evildoers). Be an undeceivable guardian of this clan. He who attacks us with evil spells, far or near, may no such (foe) defy thy track.
 </details>
@@ -198,17 +198,17 @@ From him who afar plans evil [1], from him who near;
 O Agni let no trouble from thee overwhelm us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entsende eiligst deine Späher, sei ein unbetörbarer Schützer dieses Clans. Wer in der Ferne, wer in der Nähe Böses von uns redet, o Agni, keiner soll es wagen dich irrezuführen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; Welch bös' gesinnter nahe weilt und ferne, der mög' an deine Bahn sich nimmer wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Самый стремительный, рассыпай против (врагов)-соглядатаев,  
 Будь защитником этого племени, не терпящим обмана!  

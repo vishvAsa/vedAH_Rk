@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ग्नीषोमा पिपृत꣡म् अ꣡र्वतो न  
 आ꣡ प्यायन्ताम् उस्रि꣡या हव्यसू꣡दः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कृणुतं꣡ नो अध्वरं꣡ श्रुष्टिम꣡न्तम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 अ॒स्मे इति॑ । बला॑नि । म॒घव॑त्ऽसु । ध॒त्त॒म् । कृ॒णु॒तम् । नः॒ । अ॒ध्व॒रम् । श्रु॒ष्टि॒ऽमन्त॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
@@ -113,14 +113,14 @@ genre D
 हे अग्नीषोमौ **नः** अस्माकम् **अर्वतः** अश्वान् **पिपृतं** पालयतम् । **हव्यसूदः** क्षीरादिहविषामुत्पादयित्र्यः **उस्रियाः** अस्मदीया गावश्च **आ** **प्यायन्ताम्** आप्यायिताः प्रवृद्धाः सन्तु । मघवत्सु हविर्लक्षणधनयुक्तेषु **अस्मे** अस्मासु **बलानि** **धत्तं** स्थापयतम् । तथा **नः** अस्माकम् **अध्वरं** यागं **श्रुष्टिमन्तं** धनयुक्तं **कृणुतं** कुरुतम् ॥ पिपृतम् । पॄ पालनपूरणयोः । पृ इत्येके'। जुहोत्यादित्वात् शपः श्लुः ।  ‘ अर्तिपिपर्त्योश्च ' इति अभ्यासस्य इत्वम् । हव्यसूदः । हव्यं सूदन्ते क्षरन्तीति हन्यसूदः।  ‘ षूद क्षरणे'। क्विप् च ' इति क्विप् । अस्मे । ‘सुपां सुलुक् ' इति सप्तम्याः शेआदेशः । श्रुष्टिमन्तम् । श्रुष्टीति धननाम । शु आशु अश्यते व्याप्यते इति श्रुष्टिः । पृषोदरादिः।  ‘ ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् ॥ ॥ २९ ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** and **Soma**, cherish our horses, and may our cows, affordin g(milk that yields butter for) oblations, be well nourished; give to us, who are affluent, strength (to perform) religious rites, and make our sacrifice productive of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni and Soma, deliver our steeds (to safety). Let the ruddy (cows) who  sweeten the oblations swell up.  
 In us and in our benefactors establish powers. Give our ceremony an  attentive hearing.  
@@ -129,7 +129,7 @@ Most of the next 22 hymns (94–115) are attributed to Kutsa Āṅgirasa by the 
 The Agni hymns (94–99) are each dedicated to a different form of Agni. There  follow, in the normal order, five hymns to Indra, three to the All Gods, with miscel laneous other divinities making up the collection. The collection is at a generally  high level of poetic craftsmanship, but we will only single out for special mention  104, a challenging Indra hymn, 105, a famous and enigmatic All God hymn, and  the lovely Dawn hymn 113.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most tr. take Mitra and Varuṇa as the objects of dhā́yase: approx. “Agni is for the suckling of Mitra and Varuṇa.” But Agni is the one more likely in need of suckling (that is, feeding the fire); cf., e.g., II.5.7. In particular, in the next hymn, I.95.1, Agni is the object of the transitive/causative dhāpayete. I therefore take the gen. mitrásya váruṇasya as dependent on héḷaḥ in b, parallel to marútāṃ. héḷa(s)- is characteristic of Varuṇa (cf. I.24.14, VII.84.2; in VII.62.4 Mitra is included).
 
@@ -143,23 +143,23 @@ imperative, and there are no middle forms to this root √yā (as opposed to √
 that with the acc. complement héḷaḥ we should expect the accent ávayātā. However, the “rule” about the case of complements to agent nouns is broken so often that this objection is not cogent. The final -m could have been acquired from the following marútām (so Oldenberg), and since √yā ‘drive’ is a characteristic Marut verb and a genuine example of the gen. pl. part. yātā́m is used of the Maruts in the refrain V.55.1-9, it may have been rhetorically natural to transform the agent noun into this participle.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni and Soma, cherish well our horses, and let our cows be fat who yield oblations.  
      Grant power to us and to our wealthy patrons, and cause our holy rites to be successful.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni uns Soma! Helft unsern Rennern durch; machet unsere Kühe milchreich, die die Opferspende zubereiten! Verleihet unseren Gönnern Stärke und schaffet unserem Gottesdienst Erhörung!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, Soma, lasset unsre Rosse gedeihen, und macht unsre Kühe fett, die die Opfertränke versüssen; gebt Kräfte uns und den Opferherrn und lasst unser Opferwerk Erhörung finden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Агни и Сома, проведите (благополучно) наших скакунов!  
 Сделайте набухшими коров, (чье молоко) приправляет жертву!  

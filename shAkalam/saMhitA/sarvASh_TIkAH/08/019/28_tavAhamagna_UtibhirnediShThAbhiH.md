@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡वाह꣡म् अग्न ऊति꣡भिर्  
 ने꣡दिष्ठाभिः सचेय जो꣡षम् आ꣡ वसो  
 स꣡दा देव꣡स्य म꣡र्तियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सदा॑ । दे॒वस्य॑ । मर्त्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tavāham* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -89,36 +89,36 @@ genre M
 हे **वसो** वासक **अग्ने** **नेदिष्ठाभिः** अन्तिकतमाभिः ऋजुगामिनीभिर्वा **देवस्य** **तव** **ऊतिभिः** रक्षाभिः **मर्त्यः** मनुष्यः **अहं** स्तोता **सदा** सर्वदा **जोषम्** **आ** **सचेय** प्रीतिमभिसेवेय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, granter of dwellings, may I, who am mortal, ever enjoy plural asure through your proximateprotections.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might I always keep company with your help that is so very nearby, o  Agni, at your pleasure, o good one—  
 I a mortal, (with that) of a god.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With thine immediate aid may I, excellent Agni, ever gain my wish  
      A mortal with a God to help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deiner, des Gottes, nächsten Hilfen möchte ich, der Sterbliche, immerdar nach Gefallen teilhaft werden, o guter Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch deine nächsten Hülfen sei ich wohlgeleitet, guter Agni, recht nach Wunsch, Des Gottes, ich der Sterbliche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С твоими поддержками, о Агни, самыми близкими,  
 Я хотел бы находиться, сколько захочу, о Васу,  

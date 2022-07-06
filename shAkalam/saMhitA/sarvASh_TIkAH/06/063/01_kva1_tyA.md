@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कु꣡व त्या꣡ वल्गू꣡ पुरुहूता꣡ अद्य꣡  
 दूतो꣡ न꣡ स्तो꣡मो अविदन् न꣡मस्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡यिष्ठा+ हि꣡ अ꣡सथो अस्य म꣡न्मन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । यः । अ॒र्वाक् । नास॑त्या । व॒वर्त॑ । प्रेष्ठा॑ । हि । अस॑थः । अ॒स्य॒ । मन्म॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kva*
 - \[adverb\]
@@ -128,36 +128,36 @@ genre M
 **क्व** कुत्र स्थितौ **वल्गू** रुचिरौ **पुरुहूता** बहुभिराहूतौ **त्या** तावश्विनौ **नमस्वान्** हविषा युक्तः । ‘नमः आयुः' इत्यन्ननामसु पाठात् । **स्तोमः** पञ्चदशादिस्तोमः **अद्य** **दूतो** **न** प्रेरितो दूत इव **अविदत्** विन्देत् । **यः** स्तोमः **अर्वाक्** अस्मदभिमुखं **नासत्या** अश्विनौ **आ** **ववर्त** आवर्तयत् । हे अश्विनौ युवाम् **अस्य** स्तोतुः **मन्मन्** स्तोत्रे **प्रेष्ठा** **हि** प्रियतमौ हि **असथः** भवथः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Where may our praise and oblations find today for a mesenger, those two splendid (**Aśvins**), the invoked of many, and bring the **Nāsatyās** to our presence? Be propitiated (Aśvins) by the adoration of this (your worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where today did our reverential praise song, like a messenger, find these  two obliging ones, called upon by many—  
 (the praise song) that has (previously) turned the Nāsatyas this way? For  you two will be the dearest in his [=poet’s] thought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHERE hath the hymn with reverence, like an envoy, found both fair Gods to-day, invoked of many-  
      Hymn that hath brought the two Nasatyas hither? To this man's thought be ye, both Gods, most friendly.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo hat die beiden Schönen, Vielgerufenen heute das demütige Loblied wie ein Bote angetroffen, das die Nasatya´s oft hierhergebracht hat? Denn ihr sollt in dieses Sängers Dichtung die Lieblinge sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo hat die schönen, vielgerufnen heute das Andachtslied gefunden wie ein Bote, Das nah die beiden treuen hergewandt hat? in dessen Sinn versenket euch am liebsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Где сегодня тех двоих привлекательных многопризванных,  
 Подобно вестнику, нашло восхваление, сопровождаемое поклонением.  

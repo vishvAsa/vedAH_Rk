@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡स्वापयद् दभी꣡तये  
 सह꣡स्रा त्रिंश꣡तं ह꣡थैः  
 दासा꣡नाम् इ꣡न्द्रो माय꣡या
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 दा॒साना॑म् । इन्द्रः॑ । मा॒यया॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asvāpayad* ← *asvāpayat* ← *svāpay* ← *√svap*
 - \[verb\], singular, Imperfect
@@ -73,19 +73,19 @@ genre M
 **इन्द्रो** **मायया** स्वकीयया शक्त्या **दासानां** लोकानामुपक्षपयितॄणां राक्षसादीनां **त्रिंशतं** त्रिंशत्संख्याकानि **सहस्रा** सहस्राणि **दभीतये** दभीतिनामकस्यार्थाय **हथैः** हननसाधनैरायुधैः **अस्वापयत्** अवधीत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He put to sleep, by delusion, with his destructive (weapons), thirty thousand of the servile (races), for the sake of **Dabhīti**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Dabhīti, Indra “put to sleep” with his blows thirty thousand Dāsas by his magic power.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details open><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -95,23 +95,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The thirty thousand Disas he with magic power and weapons sent  
      To slumber, for Dabhiti's sake.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra versenkte mit deinen Schlägen für Dabhiti dreißigtausend von den Dasa´s durch Zaubermacht in Schlaf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für den Dabhiti tödtete Dämonen dreissigtausende Mit Schlägen Indra und mit List.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своими ударами с помощью колдовской силы  
 Индра усыпил для Дабхити  

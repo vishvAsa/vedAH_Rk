@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुनानो꣡ व꣡रिवस् कृधि  
 ऊ꣡र्जं ज꣡नाय गिर्वणः  
 ह꣡रे सृजान꣡ आशि꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हरे॑ । सृ॒जा॒नः । आ॒ऽशिर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिर्वणः** गीर्भिर्वननीय **हरे** हरितवर्ण सोम **आशिरं** क्षीरं प्रति **सृजानः** विसृज्यमानः **पुनानः** पूयमानस्त्वं **जनाय** यजमानार्थं **वरिवः** धनम् **ऊर्जम्** अन्नं च **कृधि** कुरु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Green-tinted (**Soma**) lauded by hymns,being dropped into the curds and milk and being purified, bestow wealth and food upon the worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Becoming purified, make wide space and nourishment for the people, o  you who long for song,  
 when you are released into the milk-mixture, o tawny one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
 <details open><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -105,23 +105,23 @@ Again, each vs. has a form of √pū, for what that’s worth (pavasva 13a, pun�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 While thou art cleansed, Song-Lover, bring comfort and vigour to the folk,  
      Poured, Tawny One! on milk and curds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du dich läuterst, so schaffe einen Ausweg, Stärkung dem Volke, du lobbegehrender Falbe, auf die Mischmilch losgelassen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gereinigt schaffe freien Raum und Kraft den Menschen, Liederfreund, Entsandt, o Ross, zum Milchgemisch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

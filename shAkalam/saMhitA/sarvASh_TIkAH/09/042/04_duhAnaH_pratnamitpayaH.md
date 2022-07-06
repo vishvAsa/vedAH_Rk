@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुहानः꣡ प्रत्न꣡म् इ꣡त् प꣡यः  
 पवि꣡त्रे प꣡रि षिच्यते  
 क्र꣡न्दन् देवाँ꣡ अजीजनत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 क्रन्द॑न् । दे॒वान् । अ॒जी॒ज॒न॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *duhānaḥ* ← *duh*
 - \[verb noun\], nominative, singular
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **प्रत्नमित्** पुराणमेव **पयः** रस **दुहानः** दधानः सोमः **पवित्रे** **परि** **षिच्यते** । किंच **क्रन्दन्** शब्दं कुर्वन् **देवानजीजनत्** जनयति स्वसमीपे । यत्र सोमोऽभिषूयते तत्र देवा नियतं प्रादुर्भवन्ति । अतो जनयतीत्युपचर्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,34 +93,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 I.e. where the Soma is poured forth, the gods are continually present
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Milking out his age-old milk, he is poured around into the filter.  
 Roaring, he has begotten the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The adj. pratná- ‘age-old’ is repeated here from 2a, linking the “age-old thought” (= hymn) with soma’s “age-old milk.” p-alliteration in ab: … pratnám ít páyaḥ pavítre pári …
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Shedding the ancient fluid he is poured into the cleansing sieve:  
      He, thundering, hath produced the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine altgewohnte Milch hergebend wird er auf die Seihe gegossen; brüllend hat er die Götter erzeugt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ausströmend stets den alten Trank rinnt wiehernd durch die Seihe er, Die Götter hat er neu belebt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

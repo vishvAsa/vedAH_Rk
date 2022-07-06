@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ महे꣡ पुष्टिम्भरा꣡य पूष्णे꣡  
 क꣡द् रुद्रा꣡य सु꣡मखाय हविर्दे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ब्र꣡वः क꣡द् अग्ने श꣡रवे बृहत्यइ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कत् । विष्ण॑वे । उ॒रु॒ऽगा॒याय॑ । रेतः॑ । ब्रवः॑ । कत् । अ॒ग्ने॒ । शर॑वे । बृ॒ह॒त्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -118,7 +118,7 @@ genre M
 हे **अग्ने** **महे** महते **पुष्टिंभराय** पुष्टिधारकाय **पूष्णे** एतन्नामकाय देवाय 'कथा केन हेतुना पापं ब्रवीथाः । **सुमखाय** सुपूजनीयाय सुयज्ञाय वा **हविर्दे** अग्निरूपेण देवानां हविर्दात्रे  । यद्वा स्विष्टकृत्त्वाद्धविषो दात्रे । **रुद्राय** **कत्** कथं ब्रूयाः। तथा **उरुगायाय** उरुभिर्बहुभिः गीयमानाय यद्वा प्रभूतकीर्तये **विष्णवे** **रेतः** क्षयहेतु पापं **कत्** कथं वदेः । **शरवे** । शृणाति पक्वा ओषधीरिति शरुः शरत् संवत्सरः । यद्वा । हिंसिका निर्ऋतिः । बृहत्यै महत्यै शरदे निर्ऋत्यै वा **कत्** कथं पापं **ब्रवः** ब्रूयाः ॥ पुष्टिंभराय। ' डुभृञ् धारणपोषणयोः ' संज्ञायां भृतॄवृजि ' इत्यादिना खच् ।  ‘ अरुर्द्विषदजन्तस्य मुम्' इति पूर्वपदस्य मुमागमः। चित्त्वादन्तोदात्तः । समासे कृत्स्वरः । हविर्दे ।  ‘ अनुदात्तस्य च यत्रोदात्तलोपः' इति सुप उदात्तत्वम् । शरवे। ‘शॄ हिंसायाम्। 'शॄस्वृस्निहित्रप्यसि इत्यादिना उप्रत्ययः ।  ‘ नित् ' इत्यनुवृत्तेराद्युदात्तः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ To the extensive year: śarave bṛhatyai: **śaruḥ**, **śarat**, **saṃvats
 Nirṛti = **nairṛta**; nirṛtir sva nairṛta iti vā (**Amarakośa** 1.1,56); narṛtos tu khasaputro rakṣaso **nirṛtis** ca saḥ, Nairṛta, the son of **Khasa**, a **rākṣasa**, he is also Nirṛti (Ratnakośa)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How (will you speak) to great Pūṣan who brings prosperity, what to  Rudra, the good combatant [/very generous], for him to give the  oblation,  
 what to wide-striding Viṣṇu, (for him to give) semen? What will you say,  Agni, to (Rudra’s) lofty arrow?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the benevolent Rudra see comm. ad vss. 5-8. It is not clear why or how Rudra is the giver of the oblation. Oldenberg (see also Witzel Gotō’s n.) suggests that it is in his capacity as paśupati-: he provides the beast for sacrifice. This is possible: though he is not so called in the RV (where the word is not found), this epithet is applied to him in AV (e.g., XI.2.28) and VS (e.g., XXVI.28).
 
@@ -169,28 +169,28 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How to great Pusan who promotes our welfare,- to honoured Rudra what, who gives oblations?  
      What sin of ours to the far-striding Visnu, what, Agni, wilt thou tell the Lofty Arrow.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 How (wilt thou speak) to great Pûshan who brings prosperity? What (wilt thou say) to martial Rudra, the giver of offerings 1? What sin 2 wilt thou announce to wide-ruling Vishnu, what, O Agni, to the mighty weapon (of the gods)?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie wirst du zum großen Pusan sprechen, dem Nahrungsbringer? Was zu Rudra, dem Freigebigen, der die Opfer austeilt? Welchen Samen wirst du dem weitschreitenden Visnu empfehlen, welchen dem hohen Geschoß überantworten, o Agni?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was willst dem grossen Nahrungbringer Puschan, dem kampfgeübten Somatrinker Rudra, Dem Weithinschreiter Vischnu welches Unrecht, was, Agni, sagen du dem grossen Speergott?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как (скажешь ты) великому Пушану, несущему процветание?  
 Что (скажешь) Рудре, очень воинственному, дающему жертву?  

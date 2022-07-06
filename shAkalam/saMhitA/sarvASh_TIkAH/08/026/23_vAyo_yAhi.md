@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वा꣡यो याहि꣡ शिवा꣡ दिवो꣡  
 व꣡हस्वा सु꣡ सुअ꣡श्वियम्  
 व꣡हस्व महः꣡ पृथुप꣡क्षसा र꣡थे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 वह॑स्व । म॒हः । पृ॒थु॒ऽपक्ष॑सा । रथे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
@@ -98,7 +98,7 @@ genre M
 हे **वायो** **दिवः** द्युलोकस्य **शिव**। ' सुपां सुलुक्' इति द्वितीयाया लुक् । शिवं कल्याणम् **आ** **याहि** आप्रापय । सर्वज्योतिषां त्वदाधारत्वात् तेषामाधारो भूत्वा द्युलोके तानि स्थापयेति प्रार्थयते । ततस्त्वं **स्वश्व्यम्** । अश्वानां संघोऽश्व्यः । शोभनाश्वसंघं रथं **सु** सुष्ठु **वहस्व** सर्वतो दिक्षु प्रापय । इदानीं तेभ्योऽपि समर्थावश्वावावह। **महः** महांस्त्वं **पृथुपक्षसा** पृथुपार्श्वद्वययुक्तावश्वौ **रथे** स्वकीये **वहस्व** शत्रुहननार्थं संयोजय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,28 +109,28 @@ genre M
 Happiness in heaven: Vāyu is considered to be the supporter of allthe celestial luminaries, **sarva** jyotiṣām tvadādhāratvāt
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Kindly Vāyu, journey here from heaven. Drive your good horse-flesh; drive from great (heaven) the two broad-winged (horses) at the chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From heaven, auspicious Vayu, come drive hither with thy noble steeds:  
      Come on thy mighty car with wide-extending seat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm, freundlicher Vayu, vom Himmel; führe fein die vortreffliche Rosseschar her, führe vom großen Himmel das breitbeschwingte Rossepaar am Wagen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel, holder Vaju komm, und fahre Rossbesitz herbei; Die breiten Ross' am Wagen lenke, grosser du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Ваю, приезжай, благосклонный, с неба;  
 Благополучно привези нам обладание конями!  

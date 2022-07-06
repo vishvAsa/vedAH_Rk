@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् त्वा देवि सरस्वति  
 उपब्रूते꣡ ध꣡ने हिते꣡  
 इ꣡न्द्रं न꣡ वृत्रतू꣡रिये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 इन्द्र॑म् । न । वृ॒त्र॒ऽतूर्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -82,19 +82,19 @@ genre M
 हे **देवि** सरस्वति **यः** स्तोता **वृत्रतूर्ये** संग्रामे **धने** **हिते** निहिते निमित्तभूते सति **इन्द्रं** **न** इन्द्रमिव त्वाम् **उपब्रूते** स्तौति तं रक्षेति शेषः ॥ ॥ ३० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine **Sarasvatī**, protect him engaged in conflict for the sake of wealth, who glorifies you like **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever makes appeal to you, goddess Sarasvatī, when the stake is set, as if to Indra at the overcoming of Vr̥tra,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ This, the middle vs. of the tṛca, consists only of a rel. cl., which I conside
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whoso, divine Sarasvati, invokes thee where the prize is set,  
      Like Indra when he smites the foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So dich, Göttin Sarasvati, einer anruft, wenn der Siegerpreis ausgesetzt ist, wie den Indra in der Vritraschlacht,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dich, Göttin Sarasvati, wie Indra in der Vritraschlacht Herbeiruft, wenn sich Kampf erhebt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если к тебе, о богиня Сарасвати,  
 Обращаются, когда установлена ставка,  

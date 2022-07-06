@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡हि महे꣡ दिवे꣡ अर्चा पृथिव्यइ꣡  
 का꣡मो म इछ꣡ञ् चरति प्रजान꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सपर्य꣡वो माद꣡यन्ते स꣡चायोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ययोः॑ । ह॒ । स्तोमे॑ । वि॒दथे॑षु । दे॒वाः । स॒प॒र्यवः॑ । मा॒दय॑न्ते । सचा॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahi*
 - \[noun\], accusative, singular, neuter
@@ -123,7 +123,7 @@ genre M
 हे स्तोतः **महे** महत्यै **दिवे** द्युलोकदेवतायै महत्यै **पृथिव्यै** च **महि** महत् त्वं **प्रजानन्** स्तोत्रम् **अर्च** कुरु। **मे** मम **कामः** मनोरथः सर्वान् भोगान् **इच्छन्** **चरति** सर्वत्र वर्तते । **आयोः** मनुष्यस्य **विदथेषु** यज्ञेषु **ययोः** द्यावापृथिव्योः **स्तोमे** स्तोत्रे **सपर्यवः** पूजाकामाः **देवाः** स्तोतारो वा **सचा** **मादयन्ते** **ह** सह माद्यन्ति खलु ॥ पृथिव्यै। उदात्तयणः ' इति विभक्तेरुदात्तत्वम् । सपर्यवः । सपर्यामिच्छतीत्यर्थे सुपः क्यच् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,14 +134,14 @@ genre M
 My desire proceeds: **kāma** me icchan **carati** = liṭ, my desire wishing goes, or exists; added to icchan, sarvān bhogān, all enjoyments
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I will recite a great (hymn) to great Heaven and to Earth. My desire,  seeking, knowing the way, goes (to those two),  
 at the praise of whom the gods, seeking service at the rites, become  
 exhilarated in company with them.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner (/Witzel Gotō) I supply “to those two” in b, to provide both a goal for icháñ carati and an antecedent for yáyoḥ in c.
 
@@ -152,23 +152,23 @@ In keeping with my estimation of the difference in meaning between the two, I tr
 As Renou points out, the vs. contrasts the priests or poets in ab with the warriors in cd.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To mighty Heaven and Earth I sing forth loudly: my wish goes out desirous and well knowing  
      Both, at whose laud in synods, showing favour, the Gods rejoice them with the living mortal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ein hohes Lied will ich dem hohen Himmel, der Erde singen. Mein Wunsch geht suchend, den Weg kennend zu ihnen, an deren beider Loblied bei den Opfern die Götter voll Ergebenheit zusammen mit ihnen sich ergötzen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Laut sing' der Erd' ich und dem grossen Himmel, begehrend geht mein Wunsch, des Weges kundig, Bei ihrem Preise freuen sich die Götter, die treuen bei den Festen mit den beiden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Великий (гимн) великому небу (и) земле я хочу исполнить.  
 Бродит мое желание в поисках, предвкушая.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विश्वा꣡हे꣡न्द्रो अधिवक्ता꣡ नो अस्तु  
 अ꣡परिह्वृताः सनुयाम वा꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvāhendro* ← *viśvāhā*
 - \[adverb\]
@@ -117,35 +117,35 @@ genre M;; repeated line
 **विश्वाहा** सर्वकालं **नः** अस्माकम् **इन्द्रः** **अधिवक्ता** **अस्तु** । अधिवचनं पक्षपातेन वचनम् । यथोक्तं_’ ब्राह्मणायाधिब्रूयात् ' (तै. सं. २.५.११.९) इति । सर्वदास्माकमिन्द्रः पक्षपातवचनयुक्तो भवतु । वयं च **अपरिह्वृताः** अकुटिलगतयः सन्तः **वाजं** हविर्लक्षणमन्नं **सनुयाम** संभजामहे । यदनेन सूक्तेनास्माभिः प्रार्थितं **तत्** मित्रादयः ममहन्तां पूजितं कुर्वन्तु ॥ विश्वाहा । विश्वान्यहानि विश्वाहानि । अत्यन्तसंयोगे द्वितीया । ‘शेश्छन्दसि बहुलम्' इति शेर्लोपः । उपधादीर्घत्वं नलोपः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । अपरिह्वृताः । ह्वृ कौटिल्ये'। निष्ठायाम् ' अपरिह्वृताश्च' ( पा. सू. ७. २. ३२ ) इति निपातनात् ह्रुभावाभावः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । सनुयाम । ' षणु दाने' । लिङि तनादित्वात् उप्रत्ययः। ‘वन षण संभक्तौ ' इत्यस्मात् वा व्यत्ययेन उप्रत्ययः ॥ ॥११॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Indra** be daily our vindicator, and may we, with undiverted course, enjoy (abundant) food; and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth and heaven, preserve it to us\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra always speak up for us. Not led astray, may we win the prize. – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth and  Heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra evermore be our protector, and unimperilled may we win the booty.  
      This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Tage soll uns Indra ein Fürsprecher sein. Unentwegt wollen wir den Siegerpreis gewinnen. Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu aller Zeit sei Indra unser Fürsprecher, und ungefährdet mögen wir Beute erlangen; das möge uns Mitra und Varuna gewähren, Aditi, das Meer, der Himmel und die Erde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет Индра все дни защищать нас словом!  
 Да завоюем мы награду, не сворачивая с пути!  

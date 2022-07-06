@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 केतुं꣡ कृण्व꣡न् दिव꣡स् प꣡रि  
 वि꣡श्वा रूपा꣡भि꣡ अर्षसि  
 समुद्रः꣡ सोम पिन्वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स॒मु॒द्रः । सो॒म॒ । पि॒न्व॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
@@ -95,20 +95,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **समुद्रः** । समुद्द्रवन्ति यस्माद्रसाः स समुद्रः। स त्वं **केतुं** प्रज्ञानं **कृण्वन्** कुर्वन् अस्माकं **विश्वा** विश्वानि **रूपा** रूपाणि **दिवः** अन्तरिक्षात् **अभ्यर्षसि** अभिपवसे । **पिन्वसे** नानाविधानि धनानि चास्मभ्यं प्रयच्छसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Soma**, you who are the ocean, bestowing knowledge, have from heaven to all our various forms, and bestow (variouskinds of wealth on us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Making a beacon, from heaven you rush toward all forms.  
 O Soma, you swell as the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted above, it’s quite possible, even likely, that the beacon in pāda a is a reference to the sun and therefore another assimilation of Soma to the Sun, as is more explicit in vss. 7 and 9. For the association between ketú- and the sun, cf., e.g., VII.63.2 ketúḥ … sū́ryasya. Lüders (702) suggests rather that the ketú- is lightning, without argument.
 
@@ -125,23 +125,23 @@ As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Making the light that shines from heaven thou flowest on to every form  
      Soma, thou swellest like a sea.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Banner aufsteckend rinnst du vom Himmel, alle Farben annehmend. Wie das Meer schwillst du an, o Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Himmel Licht erzeugend strömst du alle Herrlichkeit herbei, Du schwillst, o Soma, als ein Meer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मा असृग्रम् इ꣡न्दवः  
 सुता꣡ ऋत꣡स्य सा꣡दने  
 इ꣡न्द्राय म꣡धुमत्तमाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रा॑य । मधु॑मत्ऽतमाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
@@ -74,35 +74,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुताः** अभिषुताः **मधुमत्तमाः** अतिशयेन मधुमन्तः **इन्दवः** **सोमाः** **ऋतस्य** यज्ञस्य **सादने** गृहे **इन्द्राय** इन्द्रार्थम् **असृग्रं** सृज्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The most sweet-flavoured **Soma** libations are poured forth to **Indra** in the hall of sacrifice.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma juices have surged, the drops pressed in the seat of truth, most honeyed for Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra have the Soma drops, exceeding rich in sweets, been poured,  
      Shed in the seat of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Somasäfte haben sich ergossen, am Sitz des rechten Brauches ausgepreßt, die süßesten für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Soma Tropfen sind entströmt, die Säfte in des Rechtes Sitz, Dem Indra die berauschendsten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выпущены соки сомы, капли,  
 Выжатые в сидении закона,  

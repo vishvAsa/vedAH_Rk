@@ -8,7 +8,7 @@ title = "+052"
 ‘आदित्यासो अदितयः' इति तृचात्मकमेकोनविंशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमादित्यदेवताकम् ।  ‘ आदित्यासः' इत्यनुक्रमणिका । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 52 (568)  
 Ādityas  

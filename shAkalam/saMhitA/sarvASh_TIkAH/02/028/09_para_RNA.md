@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡र र्णा꣡ सावीर् अ꣡ध म꣡त्कृतानि  
 मा꣡हं꣡ राजन्न् अन्य꣡कृतेन भोजम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नो जीवा꣡न् वरुण ता꣡सु शाधि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अवि॑ऽउष्टाः । इत् । नु । भूय॑सीः । उ॒षसः॑ । आ । नः॒ । जी॒वान् । व॒रु॒ण॒ । तासु॑ । शा॒धि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *para* ← *paras*
 - \[adverb\]
@@ -156,7 +156,7 @@ genre M
 हेवरुण ऋणाऋणानिपित्रादिभिः कृतान्यस्माभिर्देयानिपरासावीः परासुव पराचीनप्रेरय षुप्रेरणे छान्दसोलुङ् अधाधुनामत्कृतनिमयानिष्पादितानिऋणानिपरासुव अपिच हेराजन् स्वामिन् वरुणअहंअन्यकृतेनअन्यैरर्जितेनधनेनमाभोजम्भोगम्मालभेयम् किङ्कारणमितिचेदुच्यते—भूयसीः भूयस्योबहुतराः उषसः अव्युष्टाइत् नुसत्यंअव्युष्टाएवअपररात्रेषूत्थायऋणानि चिन्तयतोजाग्रतो- ममव्युष्टाअप्यव्युष्टक्ल्पाआसन् हेवरुण तासूषस्सुनोस्मान् जीवान् जीवनवतः आशाधि आसमन्ताद- नुशिष्टान्कुरु ऋणान्यपहृत्यभोगपर्याप्तन्धनम्प्रयच्छेत्यर्थः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -167,29 +167,29 @@ genre M
 May I not be dependent: māham rājannanyakṛtena bhojam = lit. may I not enjoy by what is made by another; i.e., may I not obtain enjoyment by the wealth that is acquired by another; but,mat-kṛtāni, made by me, refers to ṛṇa (for ṛṇāni, debts); many are the mornings: avyuṣṭā innu bhūyasīruṣāsaḥ ā no jīvān tāsu śādhi = liṭ, unrisen, verily indeed, many morning dawns, make us alive in them; i.e., person ns involved in debt are so overcome with anxiety that they are not conscious of the dawn of day, to them the morning has not dawned, they are dead tothe light of day
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Send my debts far away and (other) things done by me. Let me not  suffer for what was done by another, o king.  
 Surely many more dawns have not yet dawned: direct us, Varuṇa, (in  order to be) alive at them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Move far from me what sins I have committed: let me not suffer, King, for guilt of others.  
      Full many a morn remains to dawn upon us: in these, O Varuna, while we live direct us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verbann darum meine eigenen Verschuldungen, laß mich nicht von anderen Getanes büßen, o König ! Viele Morgen sind noch nicht aufgegangen; mach uns Aussicht, daß wir an diesen leben werden!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nimm meine eignen Missethaten von mir, lass nicht, o König, fremde Schuld mich büssen; Es werden viele Morgen noch erstrahlen, zu denen führ', o Varuna, uns lebend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Уничтожь же долги, сделанные мной!  
 Да не выплачу я (долг,) сделанный другим, о царь!  

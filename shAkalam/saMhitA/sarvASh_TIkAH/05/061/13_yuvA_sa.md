@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यु꣡वा स꣡ मा꣡रुतो गण꣡स्  
 त्वेष꣡रथो अ꣡नेदियः  
 शुभंया꣡वा꣡प्रतिष्कुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 शु॒भ॒म्ऽयावा॑ । अप्र॑तिऽस्कुतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
@@ -77,41 +77,41 @@ genre M
 **स** **मारुतो** **गणः** **युवा** सर्वत्र मिश्रयिता नित्यतरुणो वा **त्वेषरथः** दीप्तरथः **अनेद्यः** अनिन्द्यः **शुभंयावा** शोभनं गन्ता **अप्रतिष्कुतः** अप्रतिगतोऽप्रतिशब्दितो वा । एवं महानुभावो गणो दीप्यत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That company of **Maruts**, ever young, riding in bright chariots, irreproachable, auspicious, motive, unobstructed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This youthful Marutian flock with its glittering chariot is not to be  scorned;  
 charging to beauty it is unrepulsable.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have taken the two negated adjectives at the end of b and c, ánedyaḥ and ápratiṣkutaḥ, as predicated, in contrast to all the standard tr. There is, of course, no way to tell.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Marut band is ever young, borne on bright cars, unblamable,  
      Moving to victory, checked by none.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das war die jugendliche Marutschar mit schreckhaftem Wagen, tadellos, auf der Prunkfahrt begriffen, unaufhaltsam.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die jugendliche Marutschar, die wagenrasche, treffliche, zum Prunke eilend ungehemmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такова юная толпа марутова,  
 На грозных колесницах, безупречная;  

@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ स्वरन्तु ये꣡ त꣡व  
 रुद्रा꣡सः सक्षत श्रि꣡यम्  
 उतो꣡ मरु꣡त्वतीर् वि꣡शो अभि꣡ प्र꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 उ॒तो इति॑ । म॒रुत्व॑तीः । विशः॑ । अ॒भि । प्रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -94,7 +94,7 @@ genre M;; line affected by realignment;; repeated line
 **अभि** **स्वरन्तु** अभिगच्छन्तु ते हे इन्द्र **तव** अनुचराः **रुद्रासः** रुद्रपुत्राः **ये** मरुतः सन्ति । अपि च ते **श्रियं** श्रयणीयमिमं यज्ञं **सक्षत** सचन्तु प्राप्नुवन्तु । **उतो** अपि च **मरुत्वतीः** मरुद्भिर्युक्ताः **विशः** अन्या अपि दैवीः प्रजाः **प्रयः** । अन्ननामैतत् । अस्मदीयं हविर्लक्षणमन्नमभिगच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -105,13 +105,13 @@ genre M;; line affected by realignment;; repeated line
 Glory: śriyam =śrayaṇīyam yajñam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let them cry out—those who are yours: the Rudras accompany your  splendor,  
 as do the clans of Maruts, to your satisfaction.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the chaining over tṛca boundary: 27c … abhí svara# / 28a #abhí svarantu.
 
@@ -122,23 +122,23 @@ Geldner supplies “come” in c, but the verb in b can do duty here as well.
 The Maruts, who were only latent in vs. 20 (and probably 17), appear here with Rudra, who was present in vs. 20. The Marut clans here may pick up the clans in 16c; see above.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Attendants on thy glory, let the Rudras roar assent to thee,  
      And all the Marut companies come to the feast.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rudrasöhne, die deine Herrlichkeit begleiten, sollen einstimmen. Auch die marutischen Clane kommen zum Opferschmaus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Her rausche auch die Rudraschar, begleitend deine schöne Pracht, Die Marutstämme allzumal zum Labetrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть включатся в пение (те) твои  
 Рудры, которые сопровождают (твой) блеск.  

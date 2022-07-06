@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् पुरू꣡ सह꣡स्राणि शता꣡नि च  
 यूथा꣡ दाना꣡य मंहसे  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 इ꣡न्द्रं गा꣡यन्तो अ꣡वसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । पु॒र॒म्ऽद॒रम् । च॒कृ॒म॒ । विप्र॑ऽवचसः । इन्द्र॑म् । गाय॑न्तः । अव॑से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -114,35 +114,35 @@ genre M
 हे इन्द्र **त्वं** **पुरु** पुरूणि बहूनि **सहस्राणि** **शतानि** **च** **यूथा** गवादियूथानि **दानाय** यजमानविषयाय **मंहसे** अनुमन्यसे । यद्वा । दानाय दात्रे यजमानाय मंहसे प्रयच्छसि । मंहतिर्दानकर्मा । अथ परोक्षेण ब्रवीति । **पुरंदरं** शत्रुपुराणां दारयितारम् **इन्द्रम्** **अवसे** रक्षणाय प्रीतये वा **गायन्तः** स्तुवन्तः **विप्रवचसः** विविधप्रकृष्टवचना वयम् **आ** आगन्तारमभिमुखं वा **चकृम** कुर्मः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You grant many hundreds and thousands of herds as a gift (to the offerer), uttering long praises, we,hymning **Indra**, the destroyer of cities, bring him before us for our protection.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are ready to give many thousands and hundreds of herds. We of inspired speech have brought the stronghold-splitter here, singing  Indra for his help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou as thy gift bestowest many hundred herds, yea, many thousands dost thou give.  
      With singers' hymns have we brought the Fort-render near, singing to Indra for his grace.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du hast viele tausend und hundert Herden zum Verschenken bereit. Wir haben den Burgenbrecher zur Gnade bewogen mit schwungvollen Worten den Indra besingend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du gibst uns viele tausend Heerden zum Geschenk, und gibst uns viele hunderte, Den Burgzerstörer stimmten wir durch weises Lied zur Huld, den Indra durch Gesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Многие тысячи и сотни стад  
 Ты отдаешь в дар.  

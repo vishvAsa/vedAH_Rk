@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पृछे꣡ त꣡द् ए꣡नो वरुण दिदृ꣡क्षु  
 उ꣡पो एमि चिकितु꣡षो विपृ꣡छम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अयं꣡ ह तु꣡भ्यं व꣡रुणो हृणीते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒नम् । इत् । मे॒ । क॒वयः॑ । चि॒त् । आ॒हुः॒ । अ॒यम् । ह॒ । तुभ्य॑म् । वरु॑णः । हृ॒णी॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pṛcche* ← *pracch*
 - \[verb\], singular, Present indikative
@@ -130,36 +130,36 @@ genre M
 हे वरुण तदेनः पापं पृच्छे त्वां पृच्छामि दिदृक्षु छान्दसः सुलोपः द्रष्टुमिच्छन्नहं येन पापेन हेतुना त्वदीयैः पाशैर्बद्धोस्मि पृष्टःसन् तत्पापं कथय अहं विपृच्छं विविधं प्रष्टुं चिकितुषोविदुषोजनान् उपोएमि उपागाम् ते कवयश्चित् क्रान्तदर्शिनोजनाश्च मे मह्यं समान- मित् समानमेव एकरूपमेव आहुः अकथयन् यदाहुस्तदाह हे स्तोतः तुभ्यं अयं ह अयमेव वरुणोहणीते क्रुधयतीति अतः क्रोधं परित्यज्य अस्मान्पाशेभ्योमोचय ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Desirous of beholding you, **Varuṇa**, I inquire what is my offence; I have gone to make inquiry of thewise; the sages verily have said the same thing to me: -- this Varuṇa is displeased with you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I ask myself about this guilt, o Varuṇa, wanting to see; I approach those  who understand in order to inquire.  
 Even the sage poets say the very same thing to me: “Varuṇa now is angry  with you.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fain to know this in I question others: I seek the wise, O Varuna, and ask them.  
      This one same answer even the sages gave me, "Surely this Varuna is angry with thee."
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich frage mich neugierig nach der Sünde, ich wende mich an die Kundigen, sie zu befragen. Auch die Weisen sagen mir ganz dasselbe: Dieser Varuna grollt dir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich frag', die Schuld, o Varuna, erspähend; ich gehe hin, die kundigen zu fragen; Es sagen mir die Weisen eines Sinnes: »Dir zürnet wahrlich Varuna, der König.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я спрашиваю себя об этом грехе, о Варуна, желая понять,  
 Прихожу я к умным, чтобы расспросить.  

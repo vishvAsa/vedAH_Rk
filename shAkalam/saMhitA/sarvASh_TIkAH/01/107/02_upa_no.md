@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प नो देवा꣡ अ꣡वसा꣡ गमन्तु  
 अ꣡ङ्गिरसां सा꣡मभि स्तूय꣡मानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यंसत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्द्रः॑ । इ॒न्द्रि॒यैः । म॒रुतः॑ । म॒रुत्ऽभिः॑ । आ॒दि॒त्यैः । नः॒ । अदि॑तिः । शर्म॑ । यं॒स॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -114,36 +114,36 @@ genre M
 **देवाः** दानादिगुणयुक्ताः सर्वे देवाः **अवसा** रक्षणेनास्मभ्यं दातव्येनान्नेन वा युक्ताः **नः** अस्मान् स्तोतॄन् **उप** **आ** **गमन्तु** उपागच्छन्तु प्राप्नुवन्तु । कथंभूताः। **अङ्गिरसाम्** एतत्संज्ञकानामृषीणां संबन्धिभिः **सामभिः** प्रगीतैर्मन्त्रैः **स्तूयमानाः** । अपि च **इन्द्रः** इन्द्रियैः । धननामैतत् । स्वसंबन्धिभिरस्मभ्यं दातव्यैर्धनैः सहास्मानागच्छतु । तथा **मरुतः** सप्तगणरूपा एकोनपञ्चाशत्संख्याकाः  ‘ ईदृङ् चान्यादृङ् च ' इत्येवमादिनामानो देवाः **मरुद्भिः** स्वावयवभूतैः प्राणापानादिरूपेण वर्तमानैः वायुभिः सहास्मानागच्छन्तु। तथा **अदितिः** अखण्डनीया अदीना वा देवमाता **आदित्यैः** स्वकीयैः पुत्रैः सह **नः** अस्मभ्यं **शर्म** सुखं **यंसत्** यच्छतु ॥ गमन्तु । लोटि बहुलं छन्दसि' इति शपो लुक् ।  ‘ छन्दस्युभयथा ' इति झेः आर्धधातुकत्वेन ङित्त्वाभावात्  ‘ गमहन' इत्यादिना उपधालोपाभावः । यंसत् । यम उपरमे '। लेटि अडागमः ।' सिब्बहुलं लेटि' इति सिप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the gods, who are to be lauded by the hymns of the **Aṅgirasas**, come hither for our protection; may **Indra** with his treasures, the **Maruts** with the vital airs, and **Aditi** with the **Ādityas** (come and) give us felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the gods come close to us here with help, being praised with the  melodies of the Aṅgirases.  
 Indra with his Indrian powers, the Maruts with the Maruts, Aditi with  the Ādityas will extend shelter to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 By praise-songs of Angirases exalted, may the Gods come to us with their protection.  
      May Indra with his powers, Maruts with Maruts, Aditi with Adityas grant us shelter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter sollen mit ihrem Beistand zu uns kommen, mit den Weisen der Angiras´ besungen, Indra mit den Indrischen, die Marut mit den Marut, Aditi mit den Aditya´s sollen uns ihren Schutz gewähren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter mögen hülfreich zu uns kommen, gepriesen durch der Angiras Gesänge; Uns reiche Indra Schutz mit Indrafreunden, mit den Aditja's Aditi, mit Rudra's Rudra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да придут к нам боги о поддержкой,  
 Прославляемые напевами Ангирасов!  

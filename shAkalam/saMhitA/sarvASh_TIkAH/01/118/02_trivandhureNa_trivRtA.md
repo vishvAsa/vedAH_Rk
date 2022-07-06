@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिवन्धुरे꣡ण त्रिवृ꣡ता र꣡थेन  
 त्रिचक्रे꣡ण सुवृ꣡ता꣡ यातम् अर्वा꣡क्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वर्ध꣡यतम् अश्विना वीर꣡म् अस्मे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 पिन्व॑तम् । गाः । जिन्व॑तम् । अर्व॑तः । नः॒ । व॒र्धय॑तम् । अ॒श्वि॒ना॒ । वी॒रम् । अ॒स्मे इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trivandhureṇa* ← *tri*
 - \[noun\]
@@ -115,36 +115,36 @@ genre M
 **त्रिवन्धुरेण** । वन्धुरं सारथिस्थानम् । त्रिप्रकारवन्धुरोपेतेन **त्रिवृता** त्रिधा वर्तमानेन **त्रिचक्रेण** चक्रत्रयोपेतेन **सुवृता** शोभनं गच्छता **रथेन** अर्वाक् अस्मदभिमुखम् **आ** **यातम्** आगच्छतम् । आगत्य च अस्मदीयाः **गाः** **पिन्वतं** पयसा पूरयतम् । **नः** अस्माकम् **अर्वतः** अश्वान् **जिन्वतं** प्रीणयतम् । अपि च हे अश्विनौ **अस्मे** अस्माकं वीरं पुत्रादिकं **वर्धयतं** प्रवृद्धं कुरुतम् ॥ त्रिचक्रेण । त्रीणि चक्राणि यस्य स तथोक्तः । ‘त्रिचक्रादीनां छन्दस्युपसंख्यानम् । (पा. सू. ६. २. १९९. १ ) इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us with your tri-columnar, triangular, three-wheeled, and well-constructed car; replenish our cows (with milk), give spirit to our horses, and augment, **Aśvins**, our posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey toward us by your smooth-turning chariot with its three chariot  boxes, with its three wheels, and three turnings.  
 Swell the cattle (with milk), quicken the chargers, and strengthen the  hero for us, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us with your chariot triple seated, three-wheeled, of triple form, that rolleth lightly.  
      Fill full our cows, give mettle to our horses, and make each hero son grow strong, O Asvins.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet heran auf dem dreisitzigen, dreiteiligen Wagen, dem dreirädrigen, leichtrollenden! Machet unsere Kühe milchstrotzend, die Streitrosse feurig, lasst unsere Mannschaft gedeihen, o Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her mit eurem Wagen, der drei Sitze, drei Theile hat, drei Räder, schnell dahinrollt, Macht fett die Kühe, eilend unsre Rosse, und unsre Helden machet stark, o Ritter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На трехместной, трехчастной колеснице,  
 Трехколесной, быстроходной приезжайте сюда!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तनू꣡ष् टे वाजिन् तनु꣡वं न꣡यन्ती  
 वाम꣡म् अस्म꣡भ्य° धा꣡तु श꣡र्म तु꣡भ्यम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिवी꣡व ज्यो꣡तिः सुव꣡म् आ꣡ मिमीयाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 अह्रु॑तः । म॒हः । ध॒रुणा॑य । दे॒वान् । दि॒विऽइ॑व । ज्योतिः॑ । स्वम् । आ । मि॒मी॒याः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tanūṣ* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
@@ -129,36 +129,36 @@ genre D
 हे **वाजिन्** एतन्नामक पुत्र **ते** तव **तन्वं** शरीरं **नयन्ती** स्वशरीरं प्रापयन्ती **तनूः** इयं पृथिवी । उभयोरपि पार्थिवत्वात्तव शरीरस्य पृथिवीप्राप्तौ सत्यां तस्यास्तव शरीरनयनं युक्तम् । तादृशी पृथिवी **वामं** वननीयं धनम् **अस्मभ्यं** **धातु** दधातु **शर्म** च सुखं **तुभ्यं** धातु दधातु । स त्वम् **अह्रुतः** अनवपतितः सन् **महः** महतः **देवान्** तव कारणभूतान् **दिवीव** **ज्योतिः** द्युलोके वर्तमानं सूर्यं च । इवशब्दश्चार्थे निपातानामनेकार्थत्वात् । तं च **स्वं** तव स्वभूतम् **आ** **मिमीयाः** आविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May this body (the earth) conveying your body, **Vājin**, give precious wealth to us and happiness toyou; an ddo you, without stumbling, enter among the great gods for their support; and the light that is in heaven(the sun) and your own (light).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let your body, o prizewinner, leading the body, establish a thing of value  for us and protection for you.  
 Unswerving, in order to uphold the great gods, you should exchange  your own light as if for the light in heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing thy body, Vajin, may thy body afford us blessing and thyself protection.  
      Unswerving, stablish as it were in heaven thine own light as the mighty God's supporter.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Leib, du sieghafter Renner, der einen Leib führt, möge uns Glück bringen, dir Schirm! Ungebeugt, um die großen Götter zu tragen, mögest du wie die Sonne am Himmel dein eigenes Licht vertauschen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Leib, o Held, der deinen Leib geleitet verleih uns reichen Schatz und dir Beschirmung, Schaff, unverletzter, her die grossen Götter zum Schutze uns, wie deinen Glanz zum Himmel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О скакун, твое тело, везущее тело,  
 Пусть ниспошлет благословение нам, защиту тебе!  

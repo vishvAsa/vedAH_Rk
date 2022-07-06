@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ क्षो꣡दसा धा꣡यसा सस्र एषा꣡  
 स꣡रस्वती धरु꣡णम् आ꣡यसी पूः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा अपो꣡ महिना꣡ सि꣡न्धुर् अन्याः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽबाब॑धाना । र॒थ्या॑ऽइव । या॒ति॒ । विश्वाः॑ । अ॒पः । म॒हि॒ना । सिन्धुः॑ । अ॒न्याः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 सरस्वत्या एषा नदीवन्निगमा । एषा दृश्यमाना नदीरूपा **सरस्वती** **आयसी** अयसा निर्मिता **पूः** पुरीव **धरुणम्** । लिङ्गव्यत्ययः । धरुणा धारयित्री **धायसा** धारकेण **क्षोदसा** उदकेन **प्र** **सस्रे** प्रधावति शीघ्रं गच्छति । **सिन्धुः** स्यन्दनशीला नदीरूपा सा **अन्याः** **विश्वाः** सर्वाः **अपः** आपगाः **महिना** महिम्ना **प्रबाबधाना** भृशं बाधमाना **रथ्येव** प्रतोलीव विस्तीर्णा सती **याति** गच्छति । यद्वा । रथ्येव रथिनेव यथा रथी रथेन मार्गस्थं तरुगुल्मादिकं चूर्णीकृत्य गच्छति तद्वत् स्वकीयेन वेगेन सर्वं संपिंषती गच्छतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -129,13 +129,13 @@ Firm as a city: dharuṇam āyasi pūḥ = ayasanirmita purīva;
 Dharuṇam = dharuṇa, dhārayitrī, supporter
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 She has flowed forth with her surge, with her nourishment—Sarasvatī is a  buttress, a metal fortress.  
 Thrusting forward all the other waters with her greatness, the river drives  like a lady-charioteer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The problem in this vs. is rathyèva in c. Contextually the most obvious interpr. is as a nom. sg. fem., subject of yāti, but assuming the correctness of the Pp.
 
@@ -146,23 +146,23 @@ as an instr., but to a stem rathyā̀- ‘Fahrstrasse’ / ‘une route-carrosab
 Here the acc. pl. would presumably be parallel to “all the other waters” that Sarasvatī pushes ahead of her, but the simile would ill fit the passage. (Oldenberg does not transl.) The sequence rathyèva occurs several times elsewhere: II.39.2, 3, III.33.2, 36.6, VII.39.1. In all but III.36.6, rathyā̀is clearly the correct dual nom./acc. to the vṛkīstem, and in III.36.6 I interpret it also as a dual (contra most interpr.), for reasons given in the comm. ad loc. But here that solution, wedding morphology and sense, will not work. My ad hoc and admittedly entirely unsatisfactory “solution” here is to take it as a nonce fem. nom. sg. in -ā, perhaps based on asuryā̀(also nom. sg. fem.) in the 1st vs. of the next hymn (VII.96.1), also of Sarasvatī. The hymns are twinned and can be read against each other.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THIS stream Sarasvati with fostering current comes forth, our sure defence, our fort of iron.  
      As on a car, the flood flows on, surpassing in majesty and might all other waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit labender Flut eilte sie voraus; Sarasvati ist ein Bollwerk und eine eherne Burg. Wie auf einer Fahrstraße zieht der Strom dahin, indem er durch seine Größe alle anderen Gewässer fortreißt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit nahrungsreichen Wogen strömte diese Sarasvati, die eh'rne Burg, die Feste, Die Sindhu mächtig wie im Wagen fahrend, geht, alle andern Flüsse überholend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она понеслась вперед питательным бурлящим потоком.  
 Сарасвати – оплот, железная крепость.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ क꣡ण्वा अनूषत  
 अ꣡पो न꣡ प्रव꣡ता यतीः꣡  
 इ꣡न्द्रं व꣡नन्वती मतिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । वन॑न्ऽवती । म॒तिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -80,41 +80,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **कण्वाः** कण्वगोत्रा ऋषयः **अभि** **अनूषत** इन्द्रमभिष्टुवन्ति । ‘नू स्तुतौ । कुटादिः । **प्रवता** प्रवणेन मार्गेण **यतीः** गच्छन्त्यः **आपो** **न** आप इव **मतिः** मननीया कण्वैः क्रियमाणा स्तुतिः स्तुत्यम् **इन्द्रं** **वनन्वती** स्वयमेव संभजनवती भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Kaṇvas** glorify **Indra**; like waters rushing down a declivity, praise spontaneously seeks Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Kaṇvas have roared, like waters going along a slope;  
 their winning thought (has roared) to Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Wooden” seems excluded for vánanvatī here. See VIII.1.31.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To Indra have the Kanvas sung, like waters speeding down a slope:  
      The song is fain to go to him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gesänge der Kanva´s ertönen laut, gleich den stromwärts fließenden Gewässern, zu Indra das ....... Gedicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Kanva's haben laut gejauchzt wie Wasser, das vom Berge strömt; Den Indra hat ihr Lied gerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Канвы громко приветствовали (Индру),  
 Как воды, стекающие с отлогого склона;  

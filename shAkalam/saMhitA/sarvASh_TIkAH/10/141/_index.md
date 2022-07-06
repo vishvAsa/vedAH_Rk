@@ -8,7 +8,7 @@ title = "+141"
 ‘अग्ने' इति षडृचं त्रयोदशं सूक्तं तापसगुणविशिष्टस्याग्नेरार्षं वैश्वदेवमनुष्टुभम् । तथा चानुक्रान्तम्-‘ अग्नेऽच्छाग्निस्तापसो वैश्वदेवमानुष्टुभं हि' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 141 (967)  
 All Gods  

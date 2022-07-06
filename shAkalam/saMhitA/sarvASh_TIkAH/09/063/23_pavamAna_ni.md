@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वमान नि꣡ तोशसे  
 रयिं꣡ सोम श्रवा꣡यियम्  
 प्रियः꣡ समुद्र꣡म् आ꣡ विश
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्रि॒यः । स॒मु॒द्रम् । आ । वि॒श॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे पवमान **सोम** यस्त्वं **श्रवाय्यं** श्रवणीयं **रयिं** शत्रूणां धनं **नि** **तोशसे** नितरां पीडयसि स त्वं **प्रियः** सन् **समुद्रं** द्रोणकलशम् **आ** **विश** प्रविश ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified **Soma**, you squeeze forth the celebrated riches (of the enemy); do you who are beloved enter the ocean.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O self-purifying Soma, you spill down wealth worthy of fame.  
 As dear one, enter the sea.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On (ní) √tuś see comm. ad VIII.38.2.
 
@@ -106,23 +106,23 @@ A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a patter
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Soma, Pavamana, thou pourest out wealth that brings renown:  
      Enter the lake, as one we love.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 O Soma Pavamana, du ergießest ruhmbringenden Reichtum. Geh als Liebling in den Ozean ein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du träufelst rühmenswerthen Schatz herab, o Soma, flammender, Geh ein, du lieber, in das Meer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

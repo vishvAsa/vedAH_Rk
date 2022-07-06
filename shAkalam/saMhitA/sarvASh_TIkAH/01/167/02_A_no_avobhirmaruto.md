@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो꣡ ऽवोभिर् मरु꣡तो यान्तु अ꣡छा  
 ज्ये꣡ष्ठेभिर् वा बृह꣡द्दिवैः सुमायाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समुद्र꣡स्य चिद् धन꣡यन्त पारे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अध॑ । यत् । ए॒षा॒म् । नि॒ऽयुतः॑ । प॒र॒माः । स॒मु॒द्रस्य॑ । चि॒त् । ध॒नय॑न्त । पा॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -123,7 +123,7 @@ genre M
 ते मरुतः **अवोभिः** रक्षणैः सहिताः **नः** अस्मान **अच्छ** अभिमुख्येन **आ** **यान्तु** आगच्छन्तु । **सुमायाः** । मायेति प्रज्ञानाम । शोभनप्रज्ञा एव मरुतः **ज्येष्ठेभिः** **बृहद्दिवैः** **वा** ज्येष्ठैः प्रशस्यतमैः मणिमुक्तादिधनैश्च सहिता आ यान्तु । वाशब्दः समुच्चये। आगमने कथमेषां सामर्थ्यमिति अत आह । **अध** अथ **एषां** मरुतां यत् यस्मात् **नियुतः** एतन्नामकाः परमाः उत्कृष्टा अश्वाः **समुद्रस्य** **चित्** । चिच्छब्दोऽप्यर्थे । समुद्रस्यापि **पारे** परस्मिंस्तीरे **धनयन्त** धनधारणं वहनं कुर्वन्ति । तस्मात् रक्षणैर्धनैश्चायान्त्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 Samudrasya cid dhanayanta **pāra**, bearing or collecting wealth, even on the farther shore of the sea; parasmin, on the other bank; metaphorically, the explanation is: winds bring wealth, i.e. rain, from the skirts of the horizon or firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Maruts, masters of artifice, drive hither to us with their help, or  with their preeminent, heaven-lofty (riches?),  
 even when they, while furthest away, are running their teams on the far  shore of the sea—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 śubhé kám yānti …). However, the juxtaposition of the first two words in III.26.4 śubhé sámmiślāḥ pṛ́ṣatīr ayukṣata is suggestive of a connection here between śubhé and nímiślām (though in the published translation of III.26.4 śubhé is not construed with sámmiślāḥ but with ayukṣata). Still I remain inclined towards my “mount for beauty,” because I think nímiślām refers to Rodasī’s intimate connection with the Maruts, which was emphasized at the very beginning of the mythological section, 3a mimyákṣa yéṣu …, hence my “commingling (with them).” As was just noted, I take 6ab as the end of the little Rodasī myth and 6cd as the beginning of the section treating the current ritual. I therefore (contra the standard tr.) take cd as dependent on 7, not on 6ab.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May the most sapient Maruts, with protection, with best boons brought from lofty heaven, approach us,  
      Now when their team of the most noble horses speeds even on the sea's extremest limit.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Marut sollen mit ihren Hilfen zu uns kommen oder mit den höchsten, vom Himmel stammenden, die Verwandlungskünstler, auch wenn ihre entferntesten Gespanne noch am anderen Ufer des Meeres laufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Hülfen mögen uns die Maruts nahen, mit himmlischen, vorzüglichsten, die weisen; Selbst dann, wenn ihre herrlichen Gespanne auch an des Meeres fernstem Ufer laufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть придут к нам Маруты со (своими) поддержками,  
 В том числе с лучшими, происходящими с высокого неба, (они) с прекрасной силой превращений,  

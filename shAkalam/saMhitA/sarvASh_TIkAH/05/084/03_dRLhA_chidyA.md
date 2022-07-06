@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दॄळ्हा꣡+ चिद् या꣡ व꣡नस्प꣡तीन्  
 क्ष्मया꣡ द꣡र्धर्षि ओ꣡जसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 दिवो꣡ व꣡र्षन्ति वृष्ट꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यत् । ते॒ । अ॒भ्रस्य॑ । वि॒ऽद्युतः॑ । दि॒वः । वर्ष॑न्ति । वृ॒ष्टयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dṛﾱhā* ← *dṛḍha*
 - \[noun\], nominative, singular, feminine
@@ -99,20 +99,20 @@ genre M
 हे पृथिवि **या** त्वं **दृळ्हा** **चित्** ॥ ‘ सुपा सुलुक्' इति तृतीयाया आकारः ॥ दृढया **क्ष्मया** भूम्या सह **वनस्पतीन्** वृक्षान् **ओजसा** बलेन **दधर्षि** धारयसि । अथवा दृढेति विधेयविशेषणम् । वनस्पतीन् दृढान् कृत्वा धारयसि इत्यर्थः । **यत्** यस्याः **ते** तव संबन्धिनः **वृष्टयः** वर्षका मेघाः **विद्युतः** विद्योतमानात् **अभ्रस्य** ॥ पञ्चम्यर्थे षष्ठी । अभ्रात् अपां हर्तुः **दिवः** अन्तरिक्षात् आदित्याद्वा **वर्षन्ति** । अथवा यत् यस्यास्ते तवाभ्रस्य मेघस्य वृष्टय उदकसंघाता विद्युतो विद्योतमानाया दिवः सकाशात् वर्षन्ति पतन्ति  ॥ ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You who, with solid earth, sustain by your strength the forest lords, when the showers of your cloud fall from the shining sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You who, steadfast yourself, keep fast the trees all across the earth by  your strength,  
 when the lightning bolts of the dark cloud and the rains from heaven  rain for you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first half of this verse restores to us the familiar steady, sturdy Earth of vs. 1, while the second half identifies the special circumstances that held in vs. 2.
 
@@ -125,28 +125,28 @@ Note that ‘earth’ is reunited with her usual formulaic companion ‘heaven�
 [V.85 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who graspest with thy might on earth. e'en the strong sovrans of the wood,  
      When from the lightning of thy cloud the rain-floods of the heaven descend.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who, steadfast, holdest with thy might, The forest-trees upon the ground, When, from the lightning of thy cloud, The rain-floods of the sky pour down.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die du selbst fest die Bäume mit Stärke im Boden festhältst, wenn deiner Wolken Blitze blitzen, und die Regengüsse des Himmels regnen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die, starke, du die Bäume auch mit Kraft in deinem Schoosse hältst, Wenn deiner Wolke hellem Blitz des Himmels Regenguss entströmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сама крепкая, ты (та,) что силой  
 Удерживает на земле большие деревья,  

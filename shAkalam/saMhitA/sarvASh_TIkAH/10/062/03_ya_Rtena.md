@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ऋते꣡न सू꣡र्यम् आ꣡रोहयन् दिवि꣡  
 अ꣡प्रथयन् पृथिवी꣡म् मात꣡रं वि꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सु॒प्र॒जाः॒ऽत्वम् । अ॒ङ्गि॒र॒सः॒ । वः॒ । अ॒स्तु॒ । प्रति॑ । गृ॒भ्णी॒त॒ । मा॒न॒वम् । सु॒ऽमे॒ध॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -116,37 +116,37 @@ genre M;; repeated line
 हे **अङ्गिरसः** **ये** भवन्तः **ऋतेन** सत्यभूतेन यज्ञेन **दिवि** द्युलोके **सूर्यं** सुष्ठु  सर्वस्य प्रेरकमादित्यम् **आरोहयन्** अस्थापयन् किंच **मातरं** सर्वेषां निर्मात्रीं **पृथिवीं** **वि** **अप्रथयन्** प्रसिद्धामकुर्वन् सत्रादिकर्मकरणेन तेभ्यः युष्मभ्यं **सुप्रजास्त्वं** सुपुत्रत्वम् **अस्तु** ॥  ‘ नित्यमसिच् प्रजामेधयोः' इत्यसिच् समासान्तः । तस्माद्भावप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the possession of posterity be yours, **Aṅgirasas**, who elevated by the (power) of sacrifice theSun in heaven, and made the maternal earth renowned; welcome, sages, the son of **Manu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who with truth caused the sun to mount in heaven and spread out  Mother Earth,  
 let there be good offspring for you, o Aṅgirases. – Accept the  
 descendant of Manu, o you of good wisdom.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye raised the Sun to heaven by everlasting Law, and spread broad earth, the Mother, out on every side.  
      Fair wealth of progeny be yours, Angirases. Welcome the son of Manu, ye who are most wise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die durch rechtes Werk am Himmel die Sonne aufsteigen ließen und die Mutter Erde verbreiterten, euch, Angiras` soll gute Nachkommenschaft werden! - Nehmet mich, den Manusproß auf, ihr Weisen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die fromm die Sonne setzen hoch am Himmelszelt, und die die Mutter Erde weithin breiteten, O Angiras, euch werde reicher Enkel Schar; o nehmt, ihr weisen, freundlich auf den Menschensohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Вы,) что праведным трудом подняли солнце на небо,  
 Распространили мать-землю,  

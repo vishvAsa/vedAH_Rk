@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तु꣡भ्यम् उषा꣡सः शु꣡चयः पराव꣡ति  
 भद्रा꣡ व꣡स्त्रा तन्वते दं꣡सु रश्मि꣡षु  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 दिव꣡ आ꣡ वक्ष꣡णाभियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -39,7 +39,7 @@ genre M
 अज॑नयः । म॒रुतः॑ । व॒क्षणा॑भ्यः । दि॒वः । आ । व॒क्षणा॑भ्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tubhyam* ← *tvad*
 - \[noun\], dative, singular
@@ -149,7 +149,7 @@ genre M
 हे वायो **तुभ्यं** त्वदर्थम् **उषासः** उषसः पूर्वोक्तरीत्या त्वया प्रकाशिताः **शुचयः** शुद्धा दीप्ता वा **परावति** अत्यन्तदूरदेशे अन्तरिक्षे **दंसु** दंसेषु कर्मवत्सु। यद्वा । गृहनामैतत् ॥ अन्त्यलोपश्छान्दसः ॥ गृहवत् आच्छादकेषु । **रश्मिषु** स्वकीयेषु तैः **भद्रा** भन्दनीयानि कल्याणानि **वस्त्रा** आच्छादनयोग्यानि वस्त्राणि **तन्वते** विस्तारयन्ति । यद्वा । उषसो दंसु यागगृहेषु देवयजनेषु रश्मिषु होमाय प्रदीप्ताग्निज्वालावत्सु आगताय तुभ्यं भद्रा वस्त्रा तन्वते अग्निज्वाला एव वस्त्राणि विस्तारयन्तीत्यर्थः । उषःकाले अग्नीनां प्रज्वाल्यमानत्वात् ता एव वस्त्राणीत्युपचर्यते । ननु केवलं साधारणानि वस्त्राणि नेत्याह । **नव्येषु** नूतनेषु स्तूयमानेषु ॥ ‘णु स्तुतौ ' । अचो यत् । ‘वान्तो यि प्रत्यये ' इति अवादेशः । यतोऽनावः' इत्याद्युदात्तत्वम् ॥ रश्मिषु चित्राणि नानावर्णयुक्तानि आश्चर्यभूतानि **तन्वते** । उषःकाले रश्मीनां नानावर्णत्वादिति भावः । अग्निद्वारेति पक्षे ज्वालानां कालीकरालीत्यादिरूपेण नानावर्णत्वाच्चित्रत्वम् ॥ किंच हे वायो **तुभ्यं** त्वदर्थं त्वद्यागार्थमेव **धेनुः** घृतादिना प्रीणयित्री गौः । जातानेकवचनम् । 'सबर्दुघा । सबरिति अमृतनाम । तस्य दोग्ध्री ॥  ‘ दुहः कब्धश्च ' इति कप् ॥ सती **विश्वा** **वसूनि** सर्वाणि धनानि आज्यादिरूपाणि **दोहते** स्वयमेव दुग्धे प्रीणयतीत्यर्थः । कर्मकर्तरि ' न दुहस्नुनमाम् ' (पा. सू. ३. १. ८९ ) इति यगभावः । छान्दसः शपो लुगभावः ॥ कस्तत्र विशेषः इति चेत् उच्यते । हे वायो **दिवः** दीप्तादन्तरिक्षात् **मरुतः** एतन्नामकान् मेघं विशीर्य वृष्ट्युत्पादकान् त्वदंशभूतान् देवान् **अजनयः** जनयसि उत्पादयसि । किमर्थमिति तदुच्यते । **वक्षणाभ्यः** प्रवहणशीलाभ्यः अद्भ्यो वृष्टिलक्षणाभ्यः । तथा **वक्षणाभ्यः** । नदीनामैतत्, ‘वक्षणाः रुजानाः' ( नि. १. १३. ९) इति तन्नामसु पाठात् । तासामर्थाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -162,13 +162,13 @@ Inviting rays: daṃsu, raśmiṣu: daṃsu = daṃseṣu karmavatsu, doing thei
 Sabardughā: sabar = **amṛta**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For you do the gleaming dawns stretch their auspicious garments in  the distance, into the houses at the rays (of the sun)—their brilliant  (garments) at the new rays.  
 For you will the milk-cow, milking her juice, milk out all good things. You begat the Maruts from the belly—from the belly of heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take dáṃsu here and in I.141.4 as the loc. pl. of the root noun dám- ‘house’ (so also Witzel Gotō) rather than as adv. ‘wondrously’ (Grassmann, Renou). Geldner refuses to tr.
 
@@ -187,24 +187,24 @@ Fronted forms of the 2nd sg. pronoun begin most of the metrically significant se
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For thee the radiant Dawns in the far-distant sky broaden their lovely garments forth in wondrous beams, bright-coloured in their new-born beams.  
      For thee the nectar-yielding Cow pours all rich treasures forth as milk.  
      The Marut host hast thou engendered from the womb, the Maruts from the womb of heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für dich breiten die reinen Morgenröten in der Ferne ihre schönen Gewänder ..... in ihren Strahlen aus, die bunten Gewänder in den neuen Strahlen. Für dich soll die Kuh Sabardugha alle Güter milchen. Du erzeugtest die Marut aus den Eutern, aus den Eutern des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die hellen Morgen breiten in der Ferne dir in Wunderstrahlen schöne bunte Kleider aus, in ihrem neuen Strahlenschein; Die Kuh, die Nektar milchende, sie strömt dir alle Güter zu; Und aus des Himmels Mutterleibe zeugtest du die Maruts, aus des Himmels Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для тебя чистые утренние зори вдалеке  
 Ткут счастливые одежды из чудесных лучей,  

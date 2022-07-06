@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡सूत पृ꣡श्निर् महते꣡ र꣡णाय  
 त्वेष꣡म् अया꣡साम् मरु꣡ताम् अ꣡नीकम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् इ꣡त् स्वधा꣡म् इषिरा꣡म् प꣡र्य् अपश्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ते । स॒प्स॒रासः॑ । अ॒ज॒न॒य॒न्त॒ । अभ्व॑म् । आत् । इत् । स्व॒धाम् । इ॒षि॒राम् । परि॑ । अ॒प॒श्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asūta* ← *sū*
 - \[verb\], singular, Imperfect
@@ -121,7 +121,7 @@ genre M
 “पृश्निः मरुन्माता नानावर्णा । ‘पृश्नियै वै पयसो मरुतो जाताः ' ( तै. सं. २. २. ११. ४ ), ' पृश्नेः पुत्रा उपमासः ' ( ऋ. सं. ५, ५८. ५ ) इत्यादिश्रुतेः । तामेवान्तरिक्षदेवतां केचिदाहुः । सा देवी **त्वेषं** दीप्तम् **अयासां** गन्तॄणां मरुतामनीकं समूहम् एकोनपञ्चाशत्संख्याकम् **असूत** उत्पादितवती । किमर्थम् । **महते** **रणाय** संग्रामाय । मेघजयायेत्यर्थः । **ते** च मरुतः **सप्सरासः** समानरूपा हिंसको वा मेघानाम् **अभ्वं** मेघं जनयन्ति उत्पादितवन्तः । **आदित्** अनन्तरमेव **इषिरां** सर्वैरेष्टव्यां स्वधाम् अन्नं सस्यादिसमृद्धिलक्षणं **पर्यपश्यन्** परिपश्यन्ति सर्वे जनाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,36 +132,36 @@ genre M
 Pṛśniyai vai payaso maruto **jātāḥ** (**Taittirīya** **Saṃhitā** 2.2.11.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pr̥śni gave birth to the turbulent face of the unruly Maruts for great joy  [/battle].  
 They, in shared delight, begat the formless (cloud) mass. Just after that  they surveyed their vigorous self-power.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the final vs. of the hymn, since vs. 10 is repeated from I.165.15, etc.
 
 The svadhā́- in d forms a slight ring with 2a svajā́ḥ svátavasaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prsni brought forth, to fight the mighty battle, the glittering army of the restless Maruts.  
      Nurtured together they begat the monster, and then looked round them for the food that strengthens.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Prisni gebar zu großer Kampfeslust die hitzige Reihe der unverzagten Marut. Die Genossen brachten ihre gewaltige Erscheinung hervor. Alsbald erblickten sie ringsum reges Leben
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu grosser Freude hat geboren Priçni die ungestüme, wilde Schar der Maruts, Versehn mit Nahrung zeugten sie das Dunkel, und schauten dann nach ihrem saft'gen Tranke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для великой битвы родила Пришни  
 Буйную толпу неутомимых Марутов.  

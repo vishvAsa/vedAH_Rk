@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् अग्नि꣡र् वध्रिअश्व꣡स्य वृत्रहा꣡  
 सनका꣡त् प्रे꣡द्धो न꣡मसोपवाकि꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभि꣡ तिष्ठ श꣡र्धतो वाध्रिअश्व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । अजा॑मीन् । उ॒त । वा॒ । विऽजा॑मीन् । अ॒भि । ति॒ष्ठ॒ । शर्ध॑तः । वा॒ध्रि॒ऽअ॒श्व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -118,36 +118,36 @@ genre M
 **वृत्रहा** शत्रूणां हन्ता **अयमग्निः** **सनकात्** चिरादारभ्य **वध्र्यश्वस्य** हविषा **प्रेद्धः** प्रकर्षेण दीपितो भवति । तथा तस्य **नमसा** नमस्कारेण सह **उपवाक्यः** उपस्तोतव्यो भवति । हे **वाध्र्यश्व** वध्र्यश्वकुले मथनेन समुत्पन्नाग्ने **सः** त्वं **नः** अस्माकम् **अजामीन्** अज्ञातीन शत्रून् **उत** **वा** अपि वा **शर्धतः** हिंसतः **विजामीन** विविधान् ज्ञातीनपि **अभि** **तिष्ठ** अभिभव ॥ ॥ २०॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From a long period has this **Agni** the slayer of foes been kindled (by the oblation) of Vadhryaśva; (heis) to be addressed with reverence; do you, (Agni, kindled in the) family of Vadhryaśva, overcome our enemies,both those who have no kinsmen and those who have many kinsmen.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the fire of Vadhryaśva, the smasher of Vr̥tra, kindled from of  old, to be addressed with reverence.  
 Subjugate those, whether non-kin or estranged kin, who defy us, o son  of Vadhryaśva.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Agni of Vadhryasva, Vrtra-slayer, lit from of old, must be invoked with homage.  
      As such assail our enemies, Vadhryasva, whether the foes be strangers or be kinsmen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dies ist des Vadhryasva Agni, der Feindetöter, der vor alters entzündete, dem unter Verbeugung freundlich zugesprochen wird. Tritt du für uns den Fremden oder den falschen Verwandten, den Überheblichen entgegen, o Kind des Vadhryasva!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Vadhriaçva Feindbezwinger war er von je entflammt voll Demuth angerufen, So tritt zu Boden, Agni Vādhriaçva, die Feinde uns, verwandte, unverwandte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

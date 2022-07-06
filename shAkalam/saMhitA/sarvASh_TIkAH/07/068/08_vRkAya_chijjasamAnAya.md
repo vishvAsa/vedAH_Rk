@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡काय चिज् ज꣡समानाय शक्तम्  
 उत꣡ श्रुतं शय꣡वे हूय꣡माना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्तर्यं᳡ चिच् छक्ती꣡ अश्विना श꣡चीभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यौ । अ॒घ्न्याम् । अपि॑न्वतम् । अ॒पः । न । स्त॒र्य॑म् । चि॒त् । श॒क्ती । अ॒श्वि॒ना॒ । शची॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛkāya* ← *vṛka*
 - \[noun\], dative, singular, masculine
@@ -113,36 +113,36 @@ genre M
 **वृकाय** धनादात्रे । अभिलषत इत्यर्थः । **चित्** इति पूरणः । अथवा परेभ्यो धनानि प्रयच्छते । यद्वा । वृकाय वृकवद्धिंसकाय । एतन्नामकाय **जसमानाय** कर्मभिरुपक्षीयमाणायर्षये **शक्तम्** अभिमतं धनमदत्तम् । शकेर्दानार्थस्य लुङयेतद्रूपम् । अडभावश्छान्दसः । **उत** अपि च **शयवे** एतन्नामकायर्षये **हूयमाना** आहूयमानौ युवां **श्रुतम्** अशृणुतम् । **यौ** युवाम् **अघ्न्यां** गाम् **अपिन्वतम्** अपूरयतं क्षीरेण **अपो** **न** अद्भिरिव नदीम् । तां यथोदकेन पूरयतस्तद्वत् । कीदृशीमघ्न्याम् । **स्तर्यं** **चित्** स्तरीमपि निवृत्तप्रसवां वृद्धामपि **शक्ती** शक्त्या सामर्थ्येन दोहनलक्षणेन युक्तां कृत्वा **शचीभिः** युष्मदीयैः कर्मभिर्हे अश्विनाविति । ‘शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम्' (ऋ. सं. १. ११६. २२) इत्यादि ह्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You have granted (his desires) to **Vṛka**, exhausted by his devotions; when called upon you havelistened to **Śayu**; you are they who have filled the barren cow (with milk) as (a river) with water; you have(endowed her) with strength, **Aśvins**, by your deeds.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Do as you are able, even on behalf of a wolf that is worn out, and listen  to Śayu as you are called—  
 you who have swelled the fertile cow like waters—even the barren cow— by your able power, Aśvins, by your abilities.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye lent your aid to Vrka when exhausted, and listened when invoked to Sayu's calling.  
      Ye made the cow pour forth her milk like water, and, Asvins, strengthened with your strength the barren.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sogar um den Wolf, da er am Verschmachten war, bemühtet ihr euch, und ihr hörtet auf Sayu von ihm gerufen, die ihr seine Kuh, obwohl sie unfruchtbar war, wie die Gewässer schwellen ließet durch eure Geschicklichkeit und Künste, ihr Asvin.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch dem erschöpften Vrika gabet Kraft ihr, und angefleht erhörtet ihr den Çaju, Ihr fülltet an die Kuh wie Wasserfluten, die unfruchtbare auch mit Kraft, o Ritter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы помогли даже волку, страдающему от истощения,  
 А также прислушались к Шаю, когда он вас звал,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रेणैते꣡ तृ꣡त्सवो वे꣡विषाणा  
 आ꣡पो न꣡ सृष्टा꣡ अधवन्त नी꣡चीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 जहु꣡र् वि꣡श्वानि भो꣡जना सुदा꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दुः॒ऽमि॒त्रासः॑ । प्र॒क॒ल॒ऽवित् । मिमा॑नाः । ज॒हुः । विश्वा॑नि । भोज॑ना । सु॒ऽदासे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indreṇaite* ← *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
@@ -106,20 +106,20 @@ genre M
 कदाचिदिन्द्रेण रक्षिता अप्यन्यदा तेनैव बाध्यन्ते । **एते** **तृत्सवः** **दुर्मित्रासः** दुष्टमित्राः **प्रकलवित्** अजानन्तः  **इन्द्रेण** **वेविषाणाः** युद्धार्थं संगताः **सृष्टाः** पलायनार्थमुद्युक्ताः **नीचीः**  नीचीनाः **आपो** **न** आप इव **अधवन्त** अधावन्त । ततः **मिमानाः** सुदासा बाध्यमानाः **विश्वानि** **भोजना** भोग्यानि धनानि **सुदासे** राज्ञे **जहुः** ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These hostile, Tṛtsus, ignorantly contending with **Indra**, fled routed as rapidly as rivers on a downwardcourse, and being discomfited, abandoned all their possessions to **Sudāsa**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These Tr̥tsus, constantly laboring alongside Indra, ran like waters  released downward.  
 The ill-allied ones, meting (their supplies) out with a miser’s eye, (yet)  left behind all their goodies for Sudās.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As just noted, the vs. is divided into two, with the Tṛtsus of Indra’s party in full flood in ab (on the attack, one presumes) and their enemies abandoning their possessions under the pressure of this attack. These enemies are identified as durmitrā́saḥ; as with amítra- of 9c, this descriptor seems meant to signal the fraying or loss of the alliances that bound them and perhaps also to identify these alliances as badly formed in the first place. The other example of this form as a full adj. is nearby 10 in VII.28.4; durmitrá- in X.105.11 is used as a PN in a quite possibly independent play on the PN sumitrá-.
 
@@ -131,23 +131,23 @@ attack, they profligately abandon everything and flee.
 Kümmel (608) interpr. mímānāḥ as reflexive/intrans. ‘die kleinlich sich messen’, though with ?, but, despite the middle voice, the other forms to this stem are consistently transitive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Trtsus under Indra's careful guidance came speeding like loosed waters rushing downward.  
      The foemen, measuring exceeding closely, abandoned to Sudas all their provisions.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Indra wieder instandgesetzt ergossen sich die Tritsu´s wie die freigelassenen Gewässer niederwärts. Die Feinde, die kleinlich zumessen, überließen all ihre Besitztümer dem Sudas.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geführt von Indra strömten diese Tritsu's hernieder gleich ergossenen Gewässern; Die bösen Feinde, die wie Krämer messen, verloren alle Habe an den Sudas.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти тритсу, приведенные в действие Индрой,  
 Устремились вниз, словно выпущенные воды.  

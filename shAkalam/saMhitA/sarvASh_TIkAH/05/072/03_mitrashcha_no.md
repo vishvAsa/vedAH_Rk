@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मित्र꣡श् च नो व꣡रुणश् च  
 जुषे꣡तां यज्ञ꣡म् इष्ट꣡ये  
 नि꣡ बर्हि꣡षि सदतां सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 नि । ब॒र्हिषि॑ । स॒द॒त॒म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mitraś* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
@@ -94,36 +94,36 @@ genre M
 **मित्रश्च** वरुणश्च उभौ **नः** अस्माकं **यज्ञम्** **इष्टये** अभीष्टाय **जुषेतां** सेवेताम् । आगत्य च **बर्हिषि** **नि** **सदतां** निषीदतां सोमपानाय ॥ ॥ १० ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Mitra** and **Varuṇa**, accept wiht satisfaction our sacrifice; come and sit down upon the sacred grass to drink the **Soma** libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra and Varuṇa take pleasure in our sacrifice to their liking.  
 – Let them sit down upon the ritual grass to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Varuna and Mitra, for our help, accept the sacrifice.  
      Sit on the sacred grass to drink the Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mitra und Varuna mögen an unserem Opfer Wohlgefallen haben, um gern zu kommen. Sie sollen sich beide auf das Barhis setzen zum Somatrunk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Stärkung mögen unsern Dienst empfangen Mitra, Varuna, sich niedersetzen auf die Streu zum Somatrunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Митра и Варуна наслаждаются  
 Нашей жертвой, чтоб охотно приходить (и дальше)!  

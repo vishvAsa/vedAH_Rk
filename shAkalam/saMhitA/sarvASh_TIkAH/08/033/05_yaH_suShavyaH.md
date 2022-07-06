@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सुषव्यः꣡ सुद꣡क्षिण  
 इनो꣡ यः꣡ सुक्र꣡तुर् गृणे꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्रो यः꣡ पूर्भि꣡द् आरितः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । आ॒ऽक॒रः । स॒हस्रा॑ । यः । श॒तऽम॑घः । इन्द्रः॑ । यः । पूः॒ऽभित् । आ॒रि॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -113,41 +113,41 @@ genre M
 **यः** **सुषव्यः** शोभनसव्यहस्तः यश्च **सुदक्षिणः** यश्च **इनः** ईश्वरः ।  ‘ नियुत्वान् इनः' इतीश्वरनामसु पाठात् । **यः** चापि **सुक्रतुः** सुप्रज्ञः। **सहस्रा** सहस्राणां बहूनां **यः** च **आकरः** कर्ता । **यः** चापि **शतमघः** बहुधनः । **यः** च **पूर्भित्** पुरां भेत्ता । यश्च **आरितः** प्रत्यृतः स्तोमान् । तथा च यास्कः- ‘ य आरितः कर्मणि कर्मणि स्थिरः प्रत्यृतः स्तोमान्' (निरु. ५. १५) इति । सः **इन्द्रः** **गृणे** अस्माभिः स्तूयते च ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is well-handled, both left and right, who is the lord, who is wise, he performer of numerousgreat acts, the giver of vast wealth, **Indra**, who is the demolisher of cities, who is gratified by praise, is glorified(by us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who has a good left (horse) and a good right one, the strong one, who  is hymned as the one of good resolve,  
 who distributes thousands, who has a hundred bounties, Indra, who is  acknowledged as the stronghold-splitter,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the phrase suṣavyáḥ sudákṣiṇaḥ as referring to Indra’s two horses, since it follows immediately on a hemistich (4cd) concerning those horses and his chariot. But ‘sides’ or ‘hands’ are also possible. Geldner simply fails to supply a referent (“Der eine gute Linke, eine gute Rechte hat”). I.82.5 yuktás te astu dákṣiṇa utá savyáḥ ... supports my interpretation as horses.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He Who is praised as strong of hand both right and left, most wise and hold:  
      Indra who, rich in hundreds, gathers thousands up, honoured as breaker-down of forts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eine gute Linke, eine gute Rechte hat, der als Gewaltiger, Ratreicher gepriesen wird, der Tausende ausgibt, der Hunderte verschenkt, Indra, der als Burgenbrecher anerkannt ist.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der stark an rechter, linker Hand als weiser Herr gepriesen wird, Der reich an hundert Gütern tausendfaches schenkt, als Burgzerstörer hochgerühmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого прекрасная левая рука, прекрасная правая,  
 Кто воспевается как повелитель с прекрасной силой духа,  

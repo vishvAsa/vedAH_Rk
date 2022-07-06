@@ -8,7 +8,7 @@ title = "+089"
 मो षु वरुण' इति पञ्चर्चमेकोनविंशं सूक्तं वारुणम् । अन्त्या जगती शिष्टाश्चतस्रो गायत्र्यः । तथा चानुक्रान्तं -- मो षु पञ्च गायत्रं जगत्यन्तम् ' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 89 (605)  
 Varuṇa  

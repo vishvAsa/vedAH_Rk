@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवं꣡ च्य꣡वानम् अश्विना ज꣡रन्तम्  
 पु꣡नर् यु꣡वानं चक्रथुः श꣡चीभिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सह꣡ श्रिया꣡ नासतियावृणीत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यु॒वोः । रथ॑म् । दु॒हि॒ता । सूर्य॑स्य । स॒ह । श्रि॒या । ना॒स॒त्या॒ । अ॒वृ॒णी॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
@@ -117,35 +117,35 @@ genre M
 हे अश्विनौ **युवं** युवां **शचीभिः** आत्मीयैः भैषज्यलक्षणैः कर्मभिः **जरन्तं** जीर्यन्तं **च्यवानं** स्तुतीनां च्यावयितारम् एतत्संज्ञं ऋषिं **युवानं** पुनर्यौवनोपेतं **चक्रथुः** कृतवन्तौ । अपि च हे नासत्यौ अश्विनौ **युवोः** युवयोः **रथं** सूर्यस्य **दुहिता** सूर्याख्या **श्रिया** सह ऋक्सहस्ररूपया' संपदा कान्त्या वा सह **अवृणीत** समभजत आगत्यारूढवतीत्यर्थः । ‘आ वां रथं दुहिता ' ( ऋ. सं. १. ११६. १७ ) इत्यत्र लिखितमाख्यानम् अत्रापि द्रष्टव्यम् ॥ जरन्तम् । “ जॄष् वयोहानौ' । व्यत्ययेन शप् । युवोः । युष्मच्छब्दात् षष्ठीद्विवचने व्यत्ययेन ' योऽचि' इति यत्वाभावे सति ‘शेषे लोपः' इति दकारलोपः। अतो गुणे' इति पररूपत्वम् । ‘एकादेश उदात्तेनोदात्तः'। अवृणीत । ‘वृङ् संभक्तौ ' । क्रैयादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You rendered, by your power, **Aśvins**, the aged **Cyavana** again young; the daughter of the sun, **Nāsatyas**, invested your chariot with beauty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, o Aśvins, made the aging Cyavāna a youth again through your powers. Your chariot did the Daughter of the Sun choose, Nāsatyas, together  with its splendor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye with the aid of your great powers, O Asvins, restored to youth the ancient man Cyavana.  
      The Daughter of the Sun with all her glory, O ye Nasatyas, chose your car to bear her.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Asvin habt durch eure Künste den greisen Cyavana wieder jung gemacht. Euren Wagen erkor die Tochter des Surya, ihr Nasatya´s, samt eurer Schönheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch eure Kräfte machtet ihr, o Ritter, aufs neue jung den alternden Tschavana, Der Sonne Tochter hat sich euren Wagen erwählt und eure Schönheit, o ihr Treuen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы, о Ашвины, Чьявану стареющего  
 Снова сделали молодым (своими) силами.  

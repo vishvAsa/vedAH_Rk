@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ मित्रावरुणा नृच꣡क्षा  
 उभे꣡ उ꣡द् एति सू꣡रियो अभि꣡ ज्म꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ऋजु꣡ म꣡र्तेषु वृजिना꣡ च प꣡श्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विश्व॑स्य । स्था॒तुः । जग॑तः । च॒ । गो॒पाः । ऋ॒जु । मर्ते॑षु । वृ॒जि॒ना । च॒ । पश्य॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -126,36 +126,36 @@ genre M;; repeated line
 हे **मित्रावरुणा** **एषः** पुरतो दृश्यमानः **स्यः** सः सर्वैः स्तुत्यत्वेन प्रसिद्धः **नृचक्षाः** नृणां  मनुष्याणां द्रष्टा **सूर्यः** **उभे** द्यावापृथिव्यौ **अभि** अभिलक्ष्य **उदेति** **ज्मन्** अन्तरिक्षे गच्छन् । स विशेष्यते । **विश्वस्य** सर्वस्य **स्थातुः** स्थावरस्य **जगतः** जङ्गमस्य **च** गोपाः गोपायिता। किं कुर्वन् । 'मर्तेषु मनुष्येषु स्थितानि **ऋजु** ऋजूनि सुकृतानि **वृजिना** वृजिनानि पापानि **च** **पश्यन्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This **Sūrya**, the beholder of man, rises, **Mitra** and **Varuṇa**, upon both (heaven and earth), moving (inthe sky); he who is the preserver of all that is stationary or moveable, witnessing the upright acts or the sins ofmortals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Mitra and Varuṇa, this very Sun, who draws the gaze of men, rises up  over both [=standing and moving beings] on earth—  
 the herdsman of everything, (both) the standing and the moving, seeing  the straight and crooked (acts) among mortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Looking on man, O Varuna and Mitra, this Sun ascendeth up by both the pathways,  
      Guardian of all things fixt, of all that moveth, beholding good and evil acts of mortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da geht, o Mitra und Varuna, Surya, der Aufseher, über beiden auf der Erde auf, der Wächter über alles was steht und geht, Rechtes und Schlechtes unter den Sterblichen erschauend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sonnengott geht auf, Varuna-Mitra, zur Doppelwelt hinschreitend, männerschauend, Des stehenden und wandernden Behüter, beschauend Recht und Unrecht an den Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот Сурья, смотрящий на людей, о Митра-Варуна!  
 Он восходит навстречу обоему на земле:  

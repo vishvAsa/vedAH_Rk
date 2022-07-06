@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ वि꣡प्राय दाशु꣡षे  
 वा꣡जाँ इयर्ति गो꣡मतः  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 अ॒यम् । स॒प्तऽभ्यः॑ । आ । वर॑म् । वि । वः॒ । मदे॑ । प्र । अ॒न्धम् । श्रो॒णम् । च॒ । ता॒रि॒ष॒त् । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -123,7 +123,7 @@ genre M;; repeated line
 **अयं** सोमः **विप्राय** मेधाविने **दाशुषे** हविर्दत्तवते यजमानाय **गोमतः** पशुयुक्तानि **वाजान्** अन्नानि **इयर्ति** प्रेरयति । प्रयच्छतीत्यर्थः । किंच **अयम्** एव सोमः **सप्तभ्यः** होतृभ्यः **वरं** वरणीयं धनम् **आ** प्रयच्छति । **अन्धं** नेत्रहीनं दीर्घतमसमृषिं चक्षुष्प्रदानेन **श्रोणं** **च** पङ्गुं परावृजमृषिं चरणप्रदानेन एवमुभावृषी **प्र** **तारिषत्** प्रकर्षेण वर्धितवान् । शिष्टं स्पष्टम् ॥ ॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,7 +134,7 @@ genre M;; repeated line
 To the blind andearlier references)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He sends prizes of cows to the inspired poet, to the pious one.  
 He, according to his wish, will advance the blind and the halt for  
@@ -142,23 +142,23 @@ the seven.
 – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This to the sage who offers gifts brings power that comes from wealth in kine.  
      This, better than the seven, hath-at your glad carouse-furthered the blind, the cripple. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser treibt für den redekundigen Opferer Belohnungen von Kühen auf, dieser ist besser als sieben Freunde, er helfe dem Blinden und Lahmen weiter - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er treibt dem Dichter, der ihm dient, die rinderreiche Beute zu; Und mehr als sieben andere macht blinde, lahme er gesund.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для вдохновенного (поэта) и почитателя (твоего)  
 Он приводит в движение награды, состоящие из коров.  

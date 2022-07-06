@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ हि꣡ धीभि꣡र् ह꣡वियो अ꣡स्ति उग्र꣡  
 ईशानकृ꣡न् महति꣡ वृत्रतू꣡र्ये  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वितन्तसा꣡य्यो अभवत् सम꣡त्सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सः । तो॒कऽसा॑ता । तन॑ये । सः । व॒ज्री । वि॒त॒न्त॒साय्यः॑ । अ॒भ॒व॒त् । स॒मत्ऽसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -131,21 +131,21 @@ genre M
 **उग्रः** ओजस्वी **ईशानकृत्** । स्तोतॄन् ईशानान् समर्थान् करोतीति ईशानकृत् । **सः** इन्द्रः **महति** प्रभूते **वृत्रतूर्ये** संग्रामे । वृत्रतूर्य इति संग्रामनामैतत् । **धीभिः** स्तोतृभिः स्तुतिभिर्वा **हव्यः** जयार्थिभिराह्वातव्यः **अस्ति** भवति । हिशब्दः पादपूरणः । **तोकसाता** तोकस्य पुत्रस्य सातौ लाभे निमित्ते **तनये** तत्पुत्रे निमित्ते सति **सः** इन्द्रः आह्वातव्योऽस्ति । **वज्री** वज्रवान् **सः** इन्द्रः **समत्सु** संग्रामेषु वितन्तसाय्यः विशेषेण विस्तार्यः स्तोत्रैर्वन्दनीयः **अभवत्** भवति । यद्वा वितन्तसाय्यः शत्रूणां हिंसकः । तन्तस इति धातुर्हिंसाकर्मा । तस्य कर्तरि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, maker of rules you are he who is to be invoked with praise in a great conflict; you are he (who is to be invoked) for sons and grandsons, he, the wielder of the thunderbolt, who is to be especially glorified in battles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He is to be summoned with insightful thoughts—the mighty one who  performs the master’s part in the great overcoming of Vr̥tra,  
 in the winning of progeny, in (the winning of) posterity. As the  
 mace-bearer he became worth tussling for in battles.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The vs. contains 3 coreferential sá, at the beg. of a and of c and in the middle of c. I have interpr. the first half of c as belonging with ab, with the loc. tokásātā tánaye parallel to loc. mahatí vṛtratū́rye in b and the mid-pāda sá in c introducing a new cl. Others (Geldner, Schaef., Intens. 126) take all of c with d. There is no way to determine and very little riding on it. However, see the comm. on the next vs. The hí in pāda a seems to have little or no causal value; similarly the one in 4a.
 
@@ -154,23 +154,23 @@ Although the overt ásti reminds us of the other overt forms of √as in previou
 In tokásātā tánaye we can assume that tánaye shows a kind of gapping of the 2nd cmpd member found in toká-sāti-, hence a putative *tánaya-sāti-. Geldner’s cited parallels, e.g., II.30.5 tokásya sātaú tánayasya …, confirm this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With holy thoughts must he be called, the Mighty, showing his power in the great fight with Vrtra.  
      He must be called to give us seed and offspring, the Thunderer must he moved and sped to battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn er ist mit Gebeten anzurufen, der Gewaltige, der Reichmacher, in der großen Feindeschlacht; er ward bei der Gewinnung von Samen, von leiblicher Nachkommenschaft, der Keulenträger in den Schlachten, der, um den man sich reißt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn durch Gebet lässt sich erflehn der hehre, der Herrschaft übt im grossen Vritrakampfe, Dass Kind und Enkel wir erlangen, ist er, der Blitzende, in Schlachten herzulocken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь его надо призывать молитвами, грозного,  
 Действующего как хозяин, во время великой битвы с врагами.  

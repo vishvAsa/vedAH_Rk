@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡श्वावतीर् गो꣡मतीर् न उषा꣡सो  
 वीर꣡वतीः स꣡दम् उछन्तु भद्राः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 घृ॒तम् । दुहा॑नाः । वि॒श्वतः॑ । प्रऽपी॑ताः । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aśvāvatīr* ← *aśvāvatīḥ* ← *aśvāvat*
 - \[noun\], nominative, plural, feminine
@@ -111,20 +111,20 @@ genre M;; repeated line
 **अश्वावतीः** बहुभिरस्मभ्यं प्रदेयैरश्वैस्तद्वत्यः तथा **गोमतीः** गोमत्यो गोप्रदाः **वीरवतीः** वीरवत्यः पुत्रप्रदा अत एव **भद्राः** स्तुत्याः **उषासः** उषसः **सदं** सर्वदा **उच्छन्तु**। पुनः कीदृश्यः । **घृतम्** उदकं **दुहानाः** दोग्ध्र्यः **विश्वतः** **प्रपीताः** सर्वतः प्रवृद्धाः । यूयं पातेति गतम् ॥ ॥२७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the auspicious dawns ever break upon us redolen of horses, of cattle, of **male** posterity, sheddingmoisture, yielding everywhere abundance; and do you, (gods), ever cherish us with blessings.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the Dawns, accompanied by horses, by cows, by heroes, dawn always  auspicious for us,  
 milking out ghee on all sides, teeming. – Do you protect us always with  your blessings.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is identical to VII.41.7, though it may fit better here.
 
@@ -133,23 +133,23 @@ The three -v/matī- adj., áśvāvatīr gómatīḥ … vīrávatīḥ, modifyin
 ‘dawns’ reprise the sequence at the end of the first hymn in this cycle, VII.75.8 gómad vīrávat … áśvāvat, where they qualified rátnam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May blessed Mornings shine on us for ever, with wealth of kine, of horses, and of heroes,  
      Streaming with all abundance, pouring fatness. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Rossereich, rinderreich, söhnereich, glückbringend mögen uns immerdar die Usas´ aufleuchten, allenthalben Schmalz als Milch gebend, strotzend.-Behütet uns immerdar mit eurem Segen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Stets mögen uns die Morgenröthen leuchten, die schönen, reich an Rossen, Rindern, Helden, Von Fette triefend, stets von Nahrung schwellend. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Богатые конями, богатые коровами, богатые мужами,  
 Пусть всегда для нас зажигаются утренние зори, благодатные,  

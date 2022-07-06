@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुरण्य꣡वो म꣡धुमन्तं घृतश्चु꣡तं  
 वि꣡प्रासो अर्क꣡म् आनृचुः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अस्मे꣡ स्वाना꣡स° इ꣡न्दवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 अ॒स्मे इति॑ । र॒यिः । प॒प्र॒थे॒ । वृष्ण्य॑म् । शवः॑ । अ॒स्मे इति॑ । सु॒वा॒नासः॑ । इन्द॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *turaṇyavo* ← *turaṇyavaḥ* ← *turaṇyu*
 - \[noun\], nominative, plural, masculine
@@ -98,35 +98,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The zealous seers have sung a hymn, sweet with **Soma** and dropping ghī; wealth and manly strengthhav espread themselves among us, and so too the expressed Soma drops.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eager inspired poets have chanted a honeyed, ghee-dripping chant. Among us wealth spreads out and bullish power; among us are the  
 drops being pressed.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 arkám ānṛcuḥ matches the same expression in 4a, where it had cosmogonic implications. Presumably the association adds luster to the more mundane efforts of the current poets.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Redekundigen haben eilig den vom Süßtrank begleiteten, schmalztriefenden Preisgesang angestimmt. Bei uns hat sich der Reichtum, die bullenhafte Stärke ausgebreitet; bei uns sind die Somasäfte ausgepreßt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die eifrigen Sänger haben den Preisgesang gesungen, der von süssem Somatrank begleitet ist und von Opferfett trieft; bei uns hat sich Reichthum, Stiereskraft verbreitet, bei uns die gepressten Indutränke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вдохновленные взволновано запели  
 Сопровождаемые медовым (питьем) струящуюся жиром хвалебную песнь.  

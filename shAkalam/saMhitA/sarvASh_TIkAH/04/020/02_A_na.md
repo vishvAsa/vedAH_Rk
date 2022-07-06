@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ न इ꣡न्द्रो ह꣡रिभिर् यातु अ꣡छ  
 अर्वाचीनो꣡ अ꣡वसे रा꣡धसे च  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इमं꣡ यज्ञ꣡म् अ꣡नु नो वा꣡जसातौ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तिष्ठा॑ति । व॒ज्री । म॒घऽवा॑ । वि॒ऽर॒प्शी । इ॒मम् । य॒ज्ञम् । अनु॑ । नः॒ । वाज॑ऽसातौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -122,7 +122,7 @@ genre M
 **अर्वाचीनः** अस्मदभिमुखः **इन्द्रः** **अवसे** अस्मदीयाय रक्षणाय **राधसे** **च** धनाय च **नः** **अच्छ** अस्मान् अभि लक्षीकृत्य **हरिभिः** अश्वैः सह **आ** **यातु** आगच्छतु । किंच **वज्री** वज्रवान् **मघवा** धनवान् **विरप्शी** महान् । विरप्शीति महन्नामसु पाठात् । अस्मदीयस्य कर्मणो द्वेष्टृभिरसुरादिभिः सह **नः** अस्माकं **वाजसातौ** युद्धे प्राप्ते सति **इमम्** अस्मदीयं **यज्ञम्** **अनु** उद्दिश्य **तिष्ठाति** तिष्ठतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,35 +133,35 @@ genre M
 **Yajus**. 20.48,49: balaiḥ is used for marudbhiḥ; vājasātau also means, for the sake of bestowing food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here to us let Indra drive with his fallow bays, right here, turned our way  for help and benefit.  
 He will stand—that mace-bearing, bounteous one, conferring  
 abundance—beside this sacrifice of ours at the gaining of prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Again, “our” should be inserted before “help.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Indra come to us with Tawny Coursers, inclined to us, to favour and enrich us.  
      May Maghavan, loud-voiced and wielding thunder, stand by us at this sacrifice, in combat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra soll mit seinen Falben zu uns kommen zur Hilfe und Gabe geneigt. Der freigebige Keulenträger, der Überfluß hat, möge bei der Preisgewinnung unserem Opfer hier beistehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es komme Indra her mit seinen Füchsen recht nahe uns zum Helfen und zum Schenken; Der starke Blitzer, der gewalt'ge, nehme an diesem Opfer Theil bei unserm Wettkampf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Индра к нам приедет на буланых конях,  
 Обращенный к нам для помощи и дарения!  

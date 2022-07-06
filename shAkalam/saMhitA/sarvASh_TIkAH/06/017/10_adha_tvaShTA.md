@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध त्व꣡ष्टा ते मह꣡ उग्र व꣡ज्रं  
 सह꣡स्रभृष्टिं ववृतच् छता꣡श्रिम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡वन्तम् अ꣡हिं स꣡म् पिणग् ऋजीषिन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 निऽका॑मम् । अ॒रऽम॑नसम् । येन॑ । नव॑न्तम् । अहि॑म् । सम् । पि॒ण॒क् । ऋ॒जी॒षि॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -118,21 +118,21 @@ genre M
 **अध** अधुना हे **उग्र** उद्गूर्णबलेन्द्र **महः** महतः **ते** तव **त्वष्टा** देवशिल्पी **वज्रं** **ववृतत्** न्यवर्तयत् निष्पन्नं कृतवान् । कीदृशम् । **सहस्रभृष्टिं** सहस्रधारं **शताश्रिं** शतपर्वाणम् । हे **ऋजीषिन्** गतरससोमवन्निन्द्र **येन** वज्रेण **निकामम्** । नियतः कामो यस्य तम् । **अरमणसम्** । शत्रूणामरमभिगन्तृ मनो यस्य तम् । **नवन्तं** शब्दायमानम् **अहिं** वृत्रमसुरं **सं** **पिणक्** संपिष्टवानसि तं वज्रं कृतवानित्यर्थः । ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, **Tvaṣṭā** constructed for you, the mighty one, the thousand-edged, the hundred-angled thunderbolt, wherewith you have crushed the ambitious audacious, loud-shouting Ahi.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Then Tvaṣṭar turned the mace with its thousand spikes and hundred  edges for you who are great, o powerful one,  
 that eager, devoted (mace) with which you utterly crushed the  
 screaming serpent, you possessor of the silvery drink.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Oldenberg I assume an underlying mahé, contra Pp. maháḥ, despite Geldner’s doubts (n. 10b).
 
@@ -149,23 +149,23 @@ masc. phrase níkāmam arámanasam that modifies the vájram of the main cl. and
 On the retroflex ṇ in piṇak, see Oldenberg, ZDMG 55.321.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, Strong One! Tvastar turned for thee, the Mighty, the bolt with thousand spikes and hundred edges,  
      Eager and prompt at will, wherewith thou crushedst the boasting Dragon, O impetuous Hero.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und Tvastri drehte dir, dem Großen, du Gewaltiger, die tausendzackige, hundertkantige Keule, die zugetane, willfährige, mit der du den brüllenden Drachen zerschmettertest, du Trinker des Trestersafts.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da drehte, starker, dir der grosse Tvaschtar den tausendzack'gen Blitz, den hundertkant'gen, Den gier'gen, der dem Willen folgt, mit dem du die Schlang', o Held, die tobende zermalmtest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тут Тваштар мощно обточил тебе, о трознъта,  
 Ваджру с тысячей зубцов, с сотней граней,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ य꣡था न आभु꣡वत्  
 त्व꣡ष्टा रूपे꣡व त꣡क्षिया  
 अस्य꣡ क्र꣡त्वा य꣡शस्वतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्य । क्रत्वा॑ । यश॑स्वतः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -86,36 +86,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अयम्** अग्निः **नः** अस्मान् **तक्ष्या** विकर्तव्यानि **रूपेव** **त्वष्टा** रूपाणि वर्धकिरिव **यथा** येन प्रकारेण **आभुवत्** आभवति तथैनमग्निमभिगच्छतेत्यर्थः । किंच वयम् **अस्य** अग्नेः **क्रत्वा** प्रज्ञानेन युक्ताः **यशस्वतः** यशस्वन्तो भवामेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Draw near) that he may deal with us as a carpenter (**TVaṣṭā**) deals with the timber he has to cut;may we become renowned by his skill.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that this (Agni) here will be at hand for us, as Tvaṣṭar is at hand for  the forms to be crafted,  
 with his will—the will of this glorious one ...
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That through this famed One's power, he may stand by us even as Tvastar comes  
      Unto the forms that must he shaped.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf daß dieser in uns eingehe wie Tvastri in die zu bildenden Formen, mit seiner, des Angesehenen, Einsicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass bei uns sei der herrliche mit seiner Kraft, wie Tvaschtar kommt Zu den Gestalten, die er schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чтобы он в нас возник,  
 Как Тваштар в формах, которые надо вытесать,  

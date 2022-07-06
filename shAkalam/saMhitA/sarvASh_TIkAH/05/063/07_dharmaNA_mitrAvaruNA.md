@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ध꣡र्मणा मित्रावरुणा विपश्चिता  
 व्रता꣡ रक्षेथे अ꣡सुरस्य माय꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सू꣡र्यम् आ꣡ धत्थो दिवि꣡ चि꣡त्रियं र꣡थम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ऋ॒तेन॑ । विश्व॑म् । भुव॑नम् । वि । रा॒ज॒थः॒ । सूर्य॑म् । आ । ध॒त्थः॒ । दि॒वि । चित्र्य॑म् । रथ॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
@@ -118,35 +118,35 @@ genre M
 हे **मित्रावरुणा** **विपश्चिता** प्राज्ञौ युवां **धर्मणा** जगद्धारकेण वृष्ट्यादिलक्षणेन कर्मणा **व्रता** यज्ञादिकर्माणि **रक्षेथे** पालयथः । **असुरस्य** मेघानां निरसितुः पर्जन्यस्य **मायया** प्रज्ञया च **ऋतेन** उदकेन यज्ञेन वा निमित्तेन **विश्वं** **भुवनं** सर्वं भूतजातं **वि** **राजथः** विदीपयथः इत्यर्थः । **सूर्यमा** सूर्यं च **चित्र्यं** पूज्यं **रथं** रंहणस्वभावं **दिवि** द्युलोके **धत्थः** धारयथो जगदुपकारार्थम् ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Discerning, sagacious, **Mitra** and **Varuṇa**, by your office you protect pious rites, through the power of the emitter of showers; you illumine the whole world with water; you sustain the sun, the adorable chariot in the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 According to your nature, o Mitra and Varuṇa who perceive inspired  words, you two guard your commandments by the cunning of a lord. By truth you rule over the whole living world. You place the sun here in  heaven as your shimmering chariot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wise, with your Law and through the Asura's magic power ye guard the ordinances, Mitra-Varuna.  
      Ye by eternal Order govern all the world. Ye set the Sun in heaven as a refulgent car.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Rechts wegen wachet ihr redekundigen Mitra und Varuna über die Gebote mit des Asura Zaubermacht. Mit dem Gesetz herrschet ihr über die ganze Welt; die Sonne setzet ihr an den Himmel als weitkenntlichen Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch Ordnung schützet ihr, o Mitra-Varuna, Gesetz, o Weise, durch des Gottes Zaubermacht; Durch heil'ges Recht beschützet ihr die ganze Welt; zum Himmel setzt die Sonn' als lichten Wagen ihr.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По (своему) установлению, о Митра-Варуна прозорливые,  
 Вы охраняете заветы (богов), волшебной силой Асуры.  

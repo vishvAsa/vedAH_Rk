@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रन्थिं꣡ न꣡ वि꣡ ष्य ग्रथित꣡म् पुनान꣡  
 ऋजुं꣡ च गातुं꣡ वृजिनं꣡ च सोम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 म꣡र्यो देव धनुव पस्ति꣡यावान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अत्यः॑ । न । क्र॒दः॒ । हरिः॑ । आ । सृ॒जा॒नः । मर्यः॑ । दे॒व॒ । ध॒न्व॒ । प॒स्त्य॑ऽवान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *granthiṃ* ← *granthim* ← *granthi*
 - \[noun\], accusative, singular, masculine
@@ -130,20 +130,20 @@ genre M
 पुनानः पूयमानस्त्वं ग्रथितं पापैर्बद्धं मां विष्य मुञ्च पापेभ्योविश्लेषय । कथमिव ग्रं- थिन्न यथाकश्चित् ग्रन्थिविश्लेषयति षोन्तकर्मणीति अस्यलोटिरूपम् । किञ्च हेसोम त्वं ऋजुं अवक्रं गातुं मार्गं च वृजिनं बलं च मह्यं देहि । हरिर्हरितवर्णस्त्वं आसृजानः पात्रेष्वा- सृज्यमानःसन् अत्योन अतनशीलोश्वइव क्रदः क्रन्दसि शब्दायसे । किञ्च हेदेव मर्त्योमनुष्य हितो मारकोहिंसकोवा शत्रूणां पस्त्यवान् पस्त्यङ्गृहं तद्वांस्त्वं धन्व मामभिगच्छ कल- शान्वा ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Soma**), when filtered loose (me) bound (by sin) as (one loose) a knot; (grant me) a straight path and strength. You, green-tinted, neigh like a horse (when you are) let loose; proceed divine (Soma) who are friendly to man, and have a dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Untie like a knot the straight and the crooked way that are knotted up,  when you are being purified, o Soma.  
 Like a fallow bay steed you whinny on being let loose; run, o god, as a  man in his prime in possession of a dwelling place.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The “straight versus crooked” theme is continued here, and in fact the expression vītā́vṛjinā́ca “straight and crooked” cited from IV.2.11 in the immed.
 
@@ -163,23 +163,23 @@ The Anukramaṇī names Vyāghrapād (‘Tigerfoot(ed)’) Vāsiṣṭha as the 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Part, like a knotted tangle, while they cleanse thee, O Soma, righteous and unrighteous conduct.  
      Neigh like a tawny courser who is loosened, come like a youth, O God, a house-possessor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Löse, wenn du dich läuterst, das Verknotete wie einen Knoten, scheide den geraden und den krummen Weg, o Soma! Wie ein Hengst mögest du wiehern, wenn du, der Falbe, lossprengst; laufe, o Gott, als junger Mann, der ein eigenes Haus hat aus Pastyavat!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie einen Knoten trenne das verschlungne, o Soma, flammend, graden Weg und krummen, Gleich goldnem Renner, der entsandt ist, wieh're und lauf, o Gott, als starker Hengst des Hauses.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищаясь, развяжи, словно узел, то, что было связано,  
 (Различая для нас) прямой выход и кривой, о сома!  

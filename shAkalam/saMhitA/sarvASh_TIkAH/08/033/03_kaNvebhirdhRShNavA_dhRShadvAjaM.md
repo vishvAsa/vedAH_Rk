@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ण्वेभिर् धृष्णव् आ꣡ धृष꣡द्  
 वा꣡जं दर्षि सहस्रि꣡णम्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 मक्षू꣡ गो꣡मन्तम् ईमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पि॒शङ्ग॑ऽरूपम् । म॒घ॒ऽव॒न् । वि॒ऽच॒र्ष॒णे॒ । म॒क्षु । गोऽम॑न्तम् । ई॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaṇvebhir* ← *kaṇvebhiḥ* ← *kaṇva*
 - \[noun\], instrumental, plural, masculine
@@ -99,7 +99,7 @@ genre M
 हे **धृष्णो** धर्षकेन्द्र **कण्वेभिः** कण्वानुद्दिश्य । विभक्तिव्यत्ययः । **सहस्रिणं** सहस्रसंख्याकं **वाजम्** **आ** **दर्षि** देहि। हे **मघवन्** धनवन् **विचर्षणे** विद्रष्टरिन्द्र **धृषत्** धृष्टं **पिशङ्गरूपं** **गोमन्तं** च वाजं **मक्षु** शीघ्रम् **ईमहे** याचामहे । त्वामिति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,34 +110,34 @@ genre M
 **Piśaṅga** rūpam = tawny-coloured
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the Kaṇvas, bold one, you will boldly tear out a prize worth a  thousand.  
 We beg for a tawny-formed (prize) consisting of cattle—right away, o  unbounded bounteous one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Phonetic figure in ab dhrṣṇ̥ av ... dhr̥ṣád ... darṣi Geldner supplies “gepreisen” with the instr. káṇvebhiḥ. He is probably correct that the Kaṇvas are not likely to be assisting Indra in his conquests, but I still resist supplying material without a clear basis.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Boldly, Bold Hero, bring us spoil in thousands for the Kanvas' sake.  
      O active Maghavan, with eager prayer we crave the yellow-hued with store ol kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Kanva´s gepriesen, du Herzhafter, schlage herzhaft tausendfältigen Gewinn heraus! Um goldfarbigen und in Rindern bestehenden Lohn bitten wir recht bald, du Gabenreicher, Ausgezeichneter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erschliesse durch die Kanva's kühn, o kühner, tausendfaches Gut, Goldfarbiges, o mächtiger, o rüstiger, das rinderreiche wünschen wir,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Восхваленный) Канвами, о отважный, отважно  
 Выбей (нам) тысячную награду!  

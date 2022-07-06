@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओ꣡जस् त꣡द् अस्य तित्विष  
 उभे꣡ य꣡द् सम꣡वर्तयत्  
 इ꣡न्द्रश् च꣡र्मेव रो꣡दसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्रः॑ । चर्म॑ऽइव । रोद॑सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ojas* ← *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
@@ -85,36 +85,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अस्य** इन्द्रस्य **तत्** **ओजः** बलं **तित्विषे** दिदीपे। ‘त्विष दीप्तौ'। **यत्** येन ओजसा अयम् **इन्द्रः** **उभे** **रोदसी** द्यावापृथिव्यौ **चर्मेव** **समवर्तयत्** सम्यवर्तयति । यथा कश्चित् किंचिच्चर्म कदाचिद्विस्तारयति कदाचित् संकोचयति एवं तदधीने अभूतामित्यर्थः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “His might is manifest, for **Indra** folds and unfolds both heaven and earth, as (one spreads or rolls up) askin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 That might of his flared when Indra rolled up  
 both worlds together like a hide.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This power of his shone brightly forth when Indra brought together, like  
      A skin, the worlds of heaven and earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seine Stärke entbrannte da, als Indra beide Welten wie ein Fell zusammenrollte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da glänzte herrlich seine Kraft, als Indra Erd' und Himmelszelt Zusammenrollte wie ein Fell.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта сила его возбудилась,  
 Когда Индра скатал обе  

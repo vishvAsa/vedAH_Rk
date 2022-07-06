@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 श्यावा꣡शुवस्य सुन्वत꣡स् त꣡था शृणु  
 य꣡था꣡शृणोर् अ꣡त्रेः क꣡र्माणि कृण्वतः꣡  
@@ -15,7 +15,7 @@ ChandaH = "महापङ्क्तिः"
 इ꣡न्द्र ब्र꣡ह्माणि वर्ध꣡यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M
 प्र । त्र॒सद॑स्युम् । आ॒वि॒थ॒ । त्वम् । एकः॑ । इत् । नृ॒ऽसह्ये॑ । इन्द्र॑ । ब्रह्मा॑णि । व॒र्धय॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
@@ -135,42 +135,42 @@ genre M
 हे **इन्द्र** त्वं **सुन्वतः** सोमाभिषवं कुर्वतः **श्यावाश्वस्य** मम स्तुतिं **कर्माणि** **कृण्वतः** कुर्वतः **अत्रेः** **यथाशृणोः** अश्रौषीः **तथा** **शृणु** । अपि च **त्वमेक** **इत्** एक एव **नृषाह्ये** युद्धे **ब्रह्माणि** स्तोत्राणि कामैः **वर्धयन्** **त्रसदस्युं** **प्र** **आविथ** ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hear (the praises) of **Śyāvāśva** offering the libations, as you have heard (those) of **Atri** engaged inholy rites; you alone, **Indra**, have defended **Trasadasyu** in battle, animating his prayers.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Listen to Śyāvāśva as he presses (soma), just as you listened to Atri as he  performed (ritual) acts.  
 Alone, you helped Trasadasyu in the conquering of men, Indra,  
 strengthening the priestly formulations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse breaks out of the rigid structural mold of the first six verses, but note that it also echoes vs. 1: 1a avitā́si sunvatáḥ / 7a, c sunvatáḥ … āvitha.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hear thou Syavagva while he pours to thee, as erst thou heardest Atri when he wrought his holy rites.  
      Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his prayers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Höre ebenso auf Syavasva, der Soma auspreßt, wie du auf Atri hörtest, als er die heiligen Handlungen vollzog. Du allein hast dem Trasadasyu weiter geholfen in der Männerschlacht, Indra, die Geistlichkeit stärkend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Somapresser [Sänger in 657, 7] Çjāva-açva höre so, wie du einst den Atri erhörtest, als er Opferwerke vollbrachte; dem Trasadasju hast du, o Indra, allein geholfen in der Männerschlacht, in der du seine Gebete segnetest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Слушай Шьявашву, выжимающего сому, так,  
 Как ты слушал Атри, совершавшего обряды!  

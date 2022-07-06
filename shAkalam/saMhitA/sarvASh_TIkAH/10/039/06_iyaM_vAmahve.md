@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इयं꣡ वाम् अह्वे शृणुत꣡म् मे अश्विना  
 पुत्रा꣡येव पित꣡रा म꣡ह्य° शिक्षतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरा꣡ त꣡स्या अभि꣡शस्तेर् अ꣡व स्पृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अना॑पिः । अज्ञाः॑ । अ॒स॒जा॒त्या । अम॑तिः । पु॒रा । तस्याः॑ । अ॒भिऽश॑स्तेः । अव॑ । स्पृ॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
@@ -130,7 +130,7 @@ genre M
 हे **अश्विना** अश्विनौ **वां** युवाम् **इयं** घोषा अहम् **अह्वे** आह्वयामि । **मे** मम संबन्धिनम् इममाह्वानं **शृणुतम्** । श्रुत्वा चाह्वानं **मह्यं** **पुत्रायेव** यथा पुत्राय **पितरा** मातापितरौ तद्वत् **शिक्षतं** धनं दत्तम् । **अनापिः** अबन्धुः **अज्ञा** अकृतज्ञा असजात्यामतिः अश्रद्धेया चाभिशस्तिः मामागच्छति । **तस्या** अभिशस्तेः **पुरा** प्रागेव **अव** **स्पृतं** मामवपारयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,30 +141,30 @@ genre M
 Epithets: anāpiḥ etc. apply to ghoṣā, who,being a leper, could not marry
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [A woman:] “It’s I who invoked you: hear me, o Aśvins. Like parents for  their son, do your best for me.  
 I am without friends, without kin, without blood relatives, and  
 heedless: rescue me in the face of this shame.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Listen to me, O Asvins; I have cried to you. Give me-your aid as sire and mother aid their son.  
      Poor, without kin or friend or ties of blood am I. Save me before it be too late, from this my curse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe euch angerufen, erhöret mich, Asvin, versuchet für mich, was ihr könnt, wie die Eltern für den Sohn! Ich bin ohne Freunde, ohne Bekannte, ohne Anhang, ratlos. Bewahret mich vor diesem Makel!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich fleh' euch an, o Ritter, höret meinen Ruf, und seid mir hold, so wie die Aeltern ihrem Kind; Ich bin verwaist, Verwandten hab' ich nicht, noch Freund, so helfet mir, der armen, doch aus solcher Noth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я позвала вас – услышьте меня, о Ашвины!  
 Постарайтесь для меня, как родители для сына!  

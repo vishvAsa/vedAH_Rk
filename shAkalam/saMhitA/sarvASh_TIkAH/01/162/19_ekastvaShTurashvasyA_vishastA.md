@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कस् त्व꣡ष्टुर् अ꣡शुवस्या विशस्ता꣡  
 दुवा꣡ यन्ता꣡रा भवतस् त꣡थ र्तुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ता꣡-ता पि꣡ण्डानाम् प्र꣡ जुहोमि अग्नउ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 या । ते॒ । गात्रा॑णाम् । ऋ॒तु॒ऽथा । कृ॒णोमि॑ । ताऽता॑ । पिण्डा॑नाम् । प्र । जु॒हो॒मि॒ । अ॒ग्नौ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekas* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
@@ -141,7 +141,7 @@ popular
 **त्वष्टुः** अस्य दीप्तस्य **अश्वस्य** **विशस्ता** विशसनस्य कर्ता **एकः** । एक एव । स कः। **ऋतुः** एतदुपलक्षितः कालात्मा तस्यैव सर्वेषामपि पर्यवसितृत्वात् । यद्वा । ऋतुः निःशङ्कविशसनाय गन्ता शमिता । **तथा** **द्वा** **यन्तारा** नियमयितारौ अहोरात्रे देवौ द्यावापृथिव्यौ वा ऋत्विक्षु **भवतः** ॥ तथ ऋतुः इत्यत्र ‘ऋत्यकः' इति प्रकृतिभावो ह्रस्वत्वं च ॥ हे अश्व **ते** तव **गात्राणां** मध्ये **या** यानि हृदयाद्यवयवानि **ऋतुथा** काले **कृणोमि** छिनद्मि संपादयामि **पिण्डानां** मध्ये **ताता** तानि तानि प्रज्ञानानुरोधेन **अग्नौ** **प्र** **जुहोमि** प्रकर्षेण हुतं करोमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,34 +152,34 @@ popular
 Time: ṛtuḥ, properly season; by metonymy, time; there are two: day and night, or heaven and earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 There is one carver of Tvaṣṭar’s horse and two to hold him fast: such is  the proper way.  
 The (sacrificial portions) I make from your legs according to the proper  order, just those lumps, one after the other, do I offer in the fire.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In d I didn’t tr. píṇḍānām as a partitive gen. because the English got too fussy. Geldner thinks that the píṇḍa- are rice balls, but this seems anachronistically to reflect later ritual use of the word.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Of Tvastar's Charger there is one dissector,--this is the custom-two there are who guide him.  
      Such of his limbs as I divide in order, these, amid the balls, in fire I offer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einer ist der Zerleger des Rosses des Tvastri, zwei sind es, die es halten. So ist das richtige Verhältnis. So viele deiner Körperteile ich nach der Reihenfolge herrichte, so viele Klöße opfere ich ins Feuer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Einer ist es, der das Ross des Tvaschtar zerlegt, zwei, die es darreichen, so ist die Regel; welche deiner Glieder ich regelrecht zurichte, die Stücke alle opfere ich dem Agni.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Один – расчленитель коня Тваштара.  
 Двое бывают удерживателями (коня). Таков порядок.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दब्धस्य स्वधा꣡वतो  
 दूत꣡स्य रे꣡भतः स꣡दा  
 अग्नेः꣡ सख्यं꣡ वृणीमहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्नेः । स॒ख्यम् । वृ॒णी॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adabdhasya* ← *adabdha*
 - \[noun\], genitive, singular, masculine
@@ -73,37 +73,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे अग्ने **अदब्धस्य** केनाप्यहिंसितस्य **स्वधावतः** बलवतः **दूतस्य** देवानां **रेभतः** देवान् स्तुवतस्तव **सख्यं** **सदा** वयं **वृणीमहे** ॥ ॥ ३९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We ever choose the friendship of **Agni**, the unharmed, the strong, the messenger, the praiser (of thegods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Of the undeceivable, self-empowered messenger who is always  
 crackling—  
 of Agni would we choose the comradeship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We ever claim the friendship of Agni, the singing messenger,  
      Of God-like nature, void of guile.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir wünschen immerdar des Agni Freundschaft, des unbetörten, eigenartigen, vielredenden Boten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Agni Freundschaft wünschen wir, der truglos ist, voll eigner Kraft, Des Boten, welcher immer rauscht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всегда мы выбираем себе дружбу Агни,  
 Которого нельзя обмануть, самовластного,  

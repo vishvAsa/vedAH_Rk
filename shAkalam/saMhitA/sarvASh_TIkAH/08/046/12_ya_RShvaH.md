@@ -6,7 +6,7 @@ ChandaH = "विपरीता"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ ऋष्वः꣡ श्रावय꣡त्सखा  
 वि꣡श्वे꣡त् स꣡ वेद ज꣡निमा पुरुष्टुतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "विपरीता"
 इ꣡न्द्रं हवन्ते तविषं꣡ यत꣡स्रुचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तम् । विश्वे॑ । मानु॑षा । यु॒गा । इन्द्र॑म् । ह॒व॒न्ते॒ । त॒वि॒षम् । य॒तऽस्रु॑चः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -126,7 +126,7 @@ genre M
 **यः** इन्द्रः **ऋष्वः** दर्शनीयः **श्रावयत्सखा** । श्रावयन्तः सखाय ऋत्विजो यस्य स तादृशः श्रावयत्सखा । **पुरुष्टुतः** बहुभिर्यजमानैः स्तुतो य इन्द्रः **सः** **विश्वेत्** सर्वाण्यपि **जनिमा** जन्मानि प्राणिनां **वेद** जानाति । **तं** **तविषं** बलवन्तम् **इन्द्रं** **विश्वे** सर्वेऽप्यध्वर्य्वादयः **यतस्रुचः** स्वीकृतहविष्काः सन्तः **मानुषा** मनुष्यसंबन्धिनः **युगा** युगानि कालान् सर्वेषु कालेषु **हवन्ते** आह्वयन्ति स्तुवन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ genre M
 All men: viśve mānuṣā, all the priests, **adhvaryus** etc.associated with men, sarvepy adhvaryādayo manuṣyasambandhinaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The lofty one who makes his comrade famous, he, praised by many,  knows all the races.  
 Through the human lifespans they all call on him, on Indra the  
 powerful, with their offering ladles extended.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 High, glorifier of his friend, he knows all generations, he whom many praise.  
      All races of mankind with ladies lifted up invoke that Mighty Indra's aid.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Erhabene, der den Ruhm seiner Freunde verkündet, der Vielgepriesene kennt alle Geschlechter. Diesen rufen alle durch Menschenalter hindurch, den starken Indra, mit bereitgehaltenem Opferlöffel.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der seinen Freunden Ruhm verleiht, der vielgelobte, grosse kennt die Wesen all, Die Schale reichend rufen ihn, den starken Indra, aller Menschen Stämme an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто выдающийся, прославляющий (своих) друзей,  
 Тот знает все рождения, (он,) многовосхваленный.  

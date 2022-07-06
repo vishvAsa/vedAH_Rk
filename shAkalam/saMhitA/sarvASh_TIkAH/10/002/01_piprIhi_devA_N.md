@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पिप्रीहि꣡ देवाँ꣡ उशतो꣡ यविष्ठ  
 विद्वाँ꣡ ऋतूँ꣡र् ऋतुपते यजेह꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुवं꣡ हो꣡तॄणाम् असि आ꣡यजिष्ठः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ये । दैव्याः॑ । ऋ॒त्विजः॑ । तेभिः॑ । अ॒ग्ने॒ । त्वम् । होतॄ॑णाम् । अ॒सि॒ । आऽय॑जिष्ठः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *piprīhi* ← *prī*
 - \[verb\], singular, Perfect imperative
@@ -124,7 +124,7 @@ genre M
 हे **यविष्ठ** युवतमाग्ने **उशतः** स्तुतीः श्रोतुं कामयमानान् **देवान्** **पिप्रीहि** हविर्भिः प्रीणय । हे **ऋतुपते** ऋतूनां देवयागकालानां स्वामिन्नग्ने **ऋतून्** यागकालान् **विद्वान्** जानानस्त्वम् **इह** अस्मिन् यज्ञे तान् **यज** पूजय । किंच हे अग्ने **दैव्याः** देवेषु भवाः “ अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मिन्न उपवक्ता' (तै. आ. ३. ३) इत्यत्रोक्ताः **ये** **ऋत्विजः** सन्ति **तेभिः** तैः सह देवान् यज । यद्वा । दैव्या देवेषु भवा ऋत्विज आश्वलायनेनोक्ताः चन्द्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्गाता (आश्व. गृ. १. २३. ८-९) इति । तैः सह यज । यस्मात् **त्वं** होतॄणां मध्ये **आयजिष्ठः** अभिमुख्येन देवानां यष्टृतमः **असि** भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 The priests: daivyā ṛtvijaḥ: Agni the **hotā**, **Aśvins** the **adhvaryus**, **Tvaṣṭā** the agnīdh andMitra the upavaktā (**Āśvalāyana** **Gṛhyasūtra** 1.23.8-9); or, **Candramas** the **brahmā**, **Āditya** the adhvaryuand **Parjanya** the **udgātā**; these are the priests of the gods in heaven: **Taittirīya** **Āraṇyaka** 3.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Please the gods, who are eager for it, o youngest one. Knowing the ritual  sequences, o lord of the sequences, perform the sacrifice here.  
 Those divine sequential-sacrificers—along with them, o Agni, you are  the best sacrificer among the Hotars.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GLADDEN the yearning Gods, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons,  
      With all the Priests Celestial, O Agni. Best worshipper art thou of all Invokers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Stelle die verlangenden Götter zufrieden, du Jüngster; der Opferzeiten kundig, du Herr der Zeiten, opfere hier! Welche die göttlichen Opferpriester sind, mit denen zusammen bist du, Agni, unter den Hotri´s der beste Fürbitter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Zeiten, O Agni, mit den Götterpriestern allen, denn du bist aller Opferpriester bester.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделай довольными жаждущих богов, о самый юный!  
 Зная время (жертвоприношений), о господин (этого) времени, принеси здесь жертвы!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सम्रा꣡जे बृह꣡द् अर्चा गभीर꣡म्  
 ब्र꣡ह्म प्रियं꣡ व꣡रुणाय श्रुता꣡य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उपस्ति꣡रे पृथिवीं꣡ सू꣡रियाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । यः । ज॒घान॑ । श॒मि॒ताऽइ॑व । चर्म॑ । उ॒प॒ऽस्तिरे॑ । पृ॒थि॒वीम् । सूर्या॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -120,37 +120,37 @@ genre M
 अत्रिः स्वात्मानं संबोध्य ब्रवीति । हे अत्रे त्वं **सम्राजे** सम्यक् राजमानायेश्वराय **श्रुताय** सर्वत्र श्रूयमाणाय **वरुणाय** उपद्रवस्य निवारकाय जनानामावरकाय चैतन्नामकाय देवाय **बृहत्** प्रभूतं **गभीरं** दुरवगाहं बह्वर्थोपेतं **प्रियं** प्रियभूतं **ब्रह्म** स्तोत्ररूपं कर्म **प्र** **अर्च** प्रार्चय । प्रोञ्चारयेत्यर्थः । **यः** वरुणः **शमितेव** **चर्म** शमिता पशुविशसनकर्ता यथोपस्तरणाय चर्म हन्ति तद्वत् **पृथिवीं** विस्तीर्णमन्तरिक्षम् ॥ ‘ तृतीयस्यां पृथिव्याम् ' (तै. सं. १. २. १२. १ ) इति श्रुतेः अन्तरिक्षस्यापि पृथिवीशब्दवाच्यत्वम् ॥ **सूर्याय** सूर्यस्य **उपस्तिरे** आस्तरणाय **वि** **जघान** विस्तारयामास । विस्तृतं हि व्यवहारयोग्यं भवति तस्मात् व्यवहाराय अन्तरिक्षं विस्तारितवान् । ‘ उरुं हि राजा वरुणश्चकार' (ऋ. सं. १. २४. ८) इति ह्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer a solemn, profound, and acceptable prayer to the imperial and renowned **Varuṇa**, who has spread the firmament as a bed for the sun, as the immolator (spreads) the skin of the victim.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth to the sovereign king a lofty and deep formulation, dear to  famed Varuṇa,  
 who, like a butcher an animal hide, split apart the earth to form an  
 underlayer for the sun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING forth a hymn sublime and solemn, grateful to glorious. Varuna, imperial Ruler,  
      Who hath struck out, like one who slays the victim, earth as a skin to spread in front of Surya.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Allkönig stimme ein erhabenes, tiefsinniges Erbauungslied an, ein liebes dem berühmten Varuna, der die Erde zum Teppich für die Sonne auseinandergeschlagen hat wie der Zurichter die Tierhaut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, singe laut dem Varuna ein Loblied, ein tiefes, lieb dem allberühmten Herrscher, Der ausgebreitet, wie das Fell der Schlächter, die Erd' als einen Teppich für die Sonne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вседержителю вознесу я возвышенную, глубокую  
 Молитву, приятную прославленному Варуне,  

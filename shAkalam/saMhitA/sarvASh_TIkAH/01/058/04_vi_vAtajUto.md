@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ वा꣡तजूतो अतसे꣡षु तिष्ठते  
 वृ꣡था जुहू꣡भिः सृ꣡णिया तुविष्व꣡णिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 कृष्णं꣡ त ए꣡म रु꣡शदूर्मे अजर
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 तृ॒षु । यत् । अ॒ग्ने॒ । व॒निनः॑ । वृ॒ष॒ऽयसे॑ । कृ॒ष्णम् । ते॒ । एम॑ । रुश॑त्ऽऊर्मे । अ॒ज॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -123,46 +123,46 @@ genre M
 **वातजूतः** वायुना प्रेरितः **तुविष्वणिः** महास्वनः एवंभूतोऽग्निः **जुहूभिः** स्वकीयाभिः जिह्वाभिः **सृण्या** सरणशीलेन तेजःसमूहेन च युक्तः सन् । वृथा इति अनायासवचनः । **वृथा** अनायासेनैव **अतसेषु** उन्नतेषु वृक्षेषु **वि** **तिष्ठते** विशेषेण तिष्ठति । हे **अग्ने** **यत्** यदा **वनिनः** वनसंबन्धान वृक्षान् दग्धुं **वृषायसे** वृषवदाचरसि दहसीत्यर्थः । हे रुशदूर्मे दीप्तज्वाल **अजर** जरारहिताग्ने **ते** तव **एम** गमनमार्गः **कृष्णं** कृष्णवर्णो भवति ॥ वातजूतः । जू इति सौत्रो धातुः । वातेन जूतो वातजूतः। तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । वि तिष्ठते । **समवप्रविभ्यः** स्थः इत्यात्मनेपदम् । जुहूभिः । 'हु दानादनयोः' । हूयते' आस्विति जुह्वः । हुवः श्लुवच्च' (उ. सू. २. २१८ ) इति क्विप्, चकारात् दीर्घः । श्लुवद्भावात् द्विर्भावादि। ‘ धातोः' इत्यन्तोदात्तत्वम् । सृण्या। ‘ सृ गतौ । सरतीति सृणिः । ‘ सृवृषिभ्यां कित्' (उ. सू. ४. ४८९ ) इति निप्रत्ययः ॥ एम । एत्यनेनेति एम मार्गः । ‘ इण् गतौ ' इत्यस्मात् करणे औणादिको मनिन् । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Excited by the wind, and roaring loudly, **Agni** penetrates easily with his flames and diffusive (intensity) among the timber; when, undecaying and fiercely-blazing Agni, you rush rapidly like a bull amongst the forest trees, your path is blackened.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sped by the wind, he spreads himself out among the thickets at will, with  his tongues as sickle, powerfully noisy.  
 When, Agni, thirstily you rush like a bull upon the woods, black is your  course, o unaging one with gleaming waves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The voc. rúśad-ūrme ‘o you possessing gleaming waves’ should, strictly speaking, not be accented. It may owe its accent to IV.7.9 krṣṇ̥ áṃ te éma rúśataḥ puró bhā́ḥ “Black is your course, (though) you are gleaming; your light is in front,” with a gen. sg. part. rúśataḥ following an identical opening. (So tentatively Bloomfield Rig-Veda Repetitions) Or perhaps as the first of two voc., in post-caesura position, it was felt to begin a new syntagm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged by the wind be spreads through dry wood as he lists, armed with his tongues for sickles, with a mighty roar.  
      Black is thy path, Agni, changeless, with glittering waves! when like a bull thou rushest eager to the trees.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Stirred by the wind he spreads among the brushwood lightly, 1 (driven forward) by the sacrificial ladles, with his sickle 2, loudly roaring. When thou, O Agni, thirstily rushest on the wooden sticks like a bull 3, thy course, O never-aging god with fiery waves, becomes black 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vom Winde getrieben breitet er sich nach Lust in den Sträuchern mit seinen sichelförmigen Zungen aus, laut brausend. Wenn du, Agni, auf die Bäume dich gierig wie ein Bulle stürzest, so ist dein Weg schwarz, du Hellwogender, Alterloser.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vom Wind getrieben eilt er rings zu dem Gestrüpp, mit Zungen rauschend, mit der Sichel voller Lust, Wenn gierig, Agni, wie ein Stier zum Holz du dringst, ist schwarz dein Weg, hellwogender, unsterblicher!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Подгоняемый ветром, он весело расходится по кустам  
 С языками (пламени, как) с серпом, сильно шумящий.  

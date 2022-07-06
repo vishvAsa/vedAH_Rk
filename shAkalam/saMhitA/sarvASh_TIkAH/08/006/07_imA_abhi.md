@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमा꣡ अभि꣡ प्र꣡ णोनुमो  
 विपा꣡म् अ꣡ग्रेषु धीत꣡यः  
 अग्नेः꣡ शोचि꣡र् न꣡ दिद्यु꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒ग्नेः । शो॒चिः । न । दि॒द्युतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
@@ -86,20 +86,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विपां** स्तोतॄणाम् **अग्रेषु** पुरस्तात् **इमाः** अस्मदीयाः **धीतयः** धियः स्तोत्राणि **अभि** **प्र** **णोनुमः** आभिमुख्येन पुनःपुनः प्रवदामः । ‘णु शब्दे'। कीदृशीः स्तुतीः । **अग्नेः** **शोचिर्न** दीप्तिरिव **दिद्युतः** दीप्यमाना वेदरूपाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In front of one worshipper we repeatedly utter our praises, radiant as the flame of fire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These insights (bellow out)—we bellow out—again and again toward  (you) at the forefront of the inspired words,  
 (the insights that are) missiles, like the blazing of fire—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The co-occurrence of a 1st pl. verb (abhí prá ṇonumaḥ) and nom. pl. imā́ḥ … dhītáyaḥ causes some interpretational difficulties. Geldner takes initial imā́ḥ as an accusative plural object with the verb in pāda a (“Diese stimmen wir auf (dich) an”), separating it from dhītáyaḥ in b, and interprets pādas bc together as a nominal clause.
 
@@ -112,23 +112,23 @@ In c Geldner sees two similes, “like the flame of fire, (like) missiles,” bu
 The simile marker ná is again misplaced; we would expect *agnér ná śocíḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Here are-we sing them loudly forth-our thoughts among-the best of songs.  
      Even lightnings like the blaze of fire.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese stimmen wir auf dich an: Die frommen Gedanken, die den Reden vorangehen, sind wie die Glut des Feuers, wie die Pfeile.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir preisen seine Pfeile hier, die Flammen wie des Feuers Schein, Im Sängerkreise andachtsvoll,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы громко приветствуем (тебя) этими (молитвами).  
 Молитвы – впереди вдохновенных (певцов),  

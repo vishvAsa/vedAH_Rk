@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् ई वत्सं꣡ न꣡ मातृ꣡भिः  
 सृज꣡ता गयसा꣡धनम्  
 देवावि꣡यम् म꣡दम् अभि꣡ द्वि꣡शवसम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दे॒व॒ऽअ॒व्य॑म् । मद॑म् । अ॒भि । द्विऽश॑वसम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -95,36 +95,36 @@ genre M
 हे ऋत्विजः **गयसाधनं** गृहस्य साधनम् **ईम्** एनं सोमं **मातृभिः** मातृभूताभिर्वसतीवरीभिः **सं** **सृजत** संमिश्रयत । कथमिव । **वत्सं** **न** यथा वत्सं **मातृभिः** गोभिः संयोजयन्ति तद्वत् । कीदृशम् । **देवाव्यं** देवानां रक्षकं **मदं** मदनहेतुं **द्विशवसं** द्विगुणवेगमतिशयितबलं वा । यद्वा द्वयोर्लोकयोस्तत्र स्थिता देवमनुष्या इत्यर्थः । तेषां हविर्धनप्रदानेन वर्धयितारम् । तं सोमम् **अभि** सं सृजत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Associate him the support of the mansion with the maternal (waters) as the calf (with the mother) the protector of the gods, the exhilarator, endowed with twofold strength.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Send him like a calf to join with his mothers—him who brings success to  the household,  
 who pursues the gods, the exhilarating drink with double strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Unite him bringing household wealth, even as a calf, with mother kine,  
      Him who hath double strength, the God, delighting juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset ihn wie ein Kalb mit seinen Müttern zusammen für einen doppeltstarken, göttereinladenden Rauschtrank, ihn, der für den Hausstand wirkt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Hausstandmehrer lasst heraus wie mit der Mütter Schar das Kalb, Zum Rausch, der zwiefach Kraft verleiht und Götter labt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соедините его (с молоком), как теленка с матерями,  
 (Этого) вызывающего процветание дома!  

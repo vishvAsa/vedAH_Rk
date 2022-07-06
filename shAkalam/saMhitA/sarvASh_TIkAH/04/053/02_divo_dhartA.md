@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिवो꣡ धर्ता꣡ भु꣡वनस्य प्रजा꣡पतिः  
 पिश꣡ङ्गं द्रापि꣡म् प्र꣡ति मुञ्चते कविः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡जीजनत् सविता꣡ सुम्न꣡म् उक्थि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒ऽच॒क्ष॒णः । प्र॒थय॑न् । आ॒ऽपृ॒णन् । उ॒रु । अजी॑जनत् । स॒वि॒ता । सु॒म्नम् । उ॒क्थ्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
@@ -114,7 +114,7 @@ genre M
 **दिवः** द्युलोकस्य **धर्ता** धारकः । न केवलं दिव एवं अपि तु **भुवनस्य** कृत्स्नस्यापि लोकस्य धर्ता **प्रजापतिः** प्रजानां प्रकाशवृष्ट्यादिना पालयिता **कविः** प्राज्ञो देवः **पिशङ्गं** **द्रापिं** हिरण्मयं कवचं प्रति **मुञ्चते**। आच्छादयति प्रत्युदयम् । **विचक्षणः** विविधं द्रष्टा स एव देवः **प्रथयन्** प्रख्यापयन् तेजः **आपृणन्** आपूरयन् परितः **उरु** प्रभूतं **सुम्नं** सुखम् **उक्थ्यं** स्तुत्यम् **अजीजनत्** उत्पादयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 Puts on his golden armour: piśaṅgam drāpam **prati** muñcate = hiraṇyam huvenam acchādayati pratyudayam, every morning he puts on a golden cuirass
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The supporter of heaven, the lord of offspring of the living world, the  sage poet, fastens on himself a tawny cloak.  
 Wide-gazing, spreading out and filling the wide (midspace?), Savitar has  begotten praiseworthy benevolence.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sustainer of the heaven, Lord of the whole world's life, the Sage, he putteth on his golden-coloured mail.  
      Clear-sighted, spreading far, filling the spacious realm, Savitar hath brought forth bliss that deserveth laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Erhalter des Himmels, der Herr der Geschöpfe der Welt, der Weise legt das rotgoldene Gewand um. Hellsichtig, den weiten Raum ausbreitend und anfüllend hat Savitri preisliches Heil hervorgebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Himmels Träger und der Wesenherr der Welt, der weise hüllt sich in den braunen Mantel ein; Den Raum ausbreitend und erfüllend weiten Blicks hat preisenswerthes Wohlsein Savitar erzeugt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Удерживатель неба, господин (всех) существ в мире,  
 Он надевает на себя золотистую одежду, (этот) поэт.  

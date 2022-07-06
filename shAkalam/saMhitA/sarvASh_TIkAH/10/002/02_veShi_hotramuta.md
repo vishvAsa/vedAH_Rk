@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वे꣡षि होत्र꣡म् उत꣡ पोत्रं꣡ ज꣡नानाम्  
 मन्धाता꣡सि द्रविणोदा꣡ ऋता꣡वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवो꣡ देवा꣡न् यजतु अग्नि꣡र् अ꣡र्हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स्वाहा॑ । व॒यम् । कृ॒णवा॑म । ह॒वींषि॑ । दे॒वः । दे॒वान् । य॒ज॒तु॒ । अ॒ग्निः । अर्ह॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *veṣi* ← *vī*
 - \[verb\], singular, Present indikative
@@ -128,35 +128,35 @@ genre M;; repeated line
 हे अग्ने **जनानां** यजमानार्थं **होत्रं** होतुः कर्म तेन क्रियमाणं स्तोत्रं **वेषि** कामयसे। **उत** अपि च **पोत्रं** पोतुः कर्म तेन क्रियमाणां स्तुतिं कामयसे। किंच **मन्धाता** मेधावी **ऋतावा** सत्यवांस्त्वं द्रविणोदाः **असि** धनस्य प्रदाता भवसि । अथ परोक्षकृतः । वयं देवेभ्यः **हवींषि** **स्वाहा** **कृणवाम** स्वाहा करवाम। प्रयच्छाम । ततः **देवः** दीप्यमानः **अर्हन्** प्रशंस्यो यजमानयोग्यो वा **अग्निः** देवान **यजतु** । तैर्हविर्भिः पूजयतु ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether, **Agni**, you prefer the office of **hotā** or **potā** among men, you are wise, the giver of wealth,the observer of truth, let us offer the oblations with the (sacred) **svāhā**, and may the most excellent and divineAgni present them to the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pursue the office of Hotar and of Potar of the peoples. You are the  Establisher of Thought and the Giver of Wealth, possessing the truth. (When) at the svāhā-call we shall make the oblations, let Agni the god  sacrifice to the gods, (himself) deserving it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thine is the Herald's, thine the Cleanser's office, thinker art thou, wealth-giver, true to Order.  
      Let us with Svaha offer up oblations, and Agni, worthy God, pay the Gods worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du trittst das Hotri- und Potri-Amt für die Menschen an. Du bist der Merker, der Schatzspender, der an dem Gesetz festhält. Wann wir unter Svaharuf die Opfer vollziehen werden, soll Gott Agni als der Würdige die Götter verehren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du treibst das Werk des Läuterers und Priesters; du bist voll Andacht, heilig, Reichthum schenkend; Mit Heilsruf wollen wir dir Tränke weihen, den Göttern opfre Agni, gleich an Gottheit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты исполняешь службу хотара, а также потара у людей.  
 Ты молитвенник, даритель богатств, верный закону.  

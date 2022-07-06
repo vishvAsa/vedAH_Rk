@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स् ते भ꣡राद् अ꣡न्नियते चिद् अ꣡न्नं  
 निशि꣡षन् मन्द्र꣡म् अ꣡तिथिम् उदी꣡रत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡स्मिन् रयि꣡र् ध्रुवो꣡ अस्तु दा᳐꣡स्वान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । दे॒व॒ऽयुः । इ॒नध॑ते । दु॒रो॒णे । तस्मि॑न् । र॒यिः । ध्रु॒वः । अ॒स्तु॒ । दास्वा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -120,21 +120,21 @@ genre M
 हे अग्ने **यः** पुमान् **अन्नियते** अन्नमिच्छते **ते** तुभ्यं हविर्लक्षणं पुरोडाशादिकम् **अन्नं** **भरात्** दातुं बिभृयात् । **चित्** इति चार्थे । यश्च **मन्द्रं** मदकरं सोमं **निशिषत्** नितरां प्रयच्छति । यश्च **अतिथिम्** अतिथिवत् पूज्यं त्वाम् **उदीरत्** उत्तरवेद्यां प्रणयति । **आ** अपि च यश्च **देवयुः** देवं त्वां कामयमानः **दुरोणे** स्वकीये गृहे **इनधते** त्वां समिद्भिः समिन्धते **तस्मिन्** एतस्मिन् पुरुषे **रयिः** पुत्रः **ध्रुवः** आस्तिक्यबुद्ध्या वैदिके मार्गे निश्चलः **अस्तु** । तथा **दास्वान्** औदार्योपेतश्चास्तु ॥ भरात् । डुभृञ् धारणपोषणयोः ' इत्यस्य लेट्याडागमे रूपम् । यद्वृत्तयोगादनिघातः । अन्नियते । अन्नमात्मन इच्छते । क्यच्। क्यचि च' इति इत्वम् । ह्रस्वश्छान्दसः । निशिषत्। शासु अनुशिष्टौ । लुङि ' सर्तिशास्त्यर्तिभ्यश्च' इति च्लेरङादेशः । 'शास इदङ्हलोः' इति इत्वम् । उदीरत्। ईर गतौ । लेटि व्यत्ययेन परस्मैपदम् । अडागमः । आगमस्यानुदात्तत्वे धातुस्वरः। ‘तिङि चोदात्तवति' इति गतेर्निघातः । इनधते । ञिइन्धी दीप्तौ ' । लटि व्यत्ययेन शप् । रुधादित्वात् श्नम् ।' श्नान्नलोपः ' इति धातुनकारलोपः । क्ङित्परत्वाभावात् श्नसोरल्लोपाभावः । यद्वृत्तयोगादनिघातः । श्नमः स्वरः । दास्वान् । 'दासृ दाने ' । संपदादिलक्षणो भावे क्विप्। तदस्यास्ति ' इति मतुप् । ‘मादुपधायाः इति वत्वम् । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May a son, firm in (devotion) and liberal (in offerings), be born to him who presents (sacrificial) food to you when needing food, who gives you constantly the exhilarating (**Soma** juice), who welcomes you as a guest, and devoutly kindles you in his mansion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whoever will bring food to you just as you seek food, will whet (you)  down, will raise (you) up as the gladdening guest,  
 will, seeking the gods, kindle (you) here in his dwelling—in him let  
 wealth, rich in gifts, be steadfast.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As he often does, Geldner takes cid as a simile marker, but I do not think that is a possible function of cid, and certainly in this case there is no need to interpret ánniyate as a simile: Agni is regularly depicted as a greedy eater.
 
@@ -143,28 +143,28 @@ Contra Grassmann, all standard modern tr. and comm. take niśíṣat (so Pp.; ni
 pres. śíśāti. So also Hoffmann (Aufs. II, 445-46 n. 14). This is certainly possible, but it could also be a masc. nom. sg. act. part. to this same redupl. pres. Both a finite 3rd sg. in a rel. cl. and a part. would be accented on the stem (not the preverb) as here, and either form is contextually possible. It can simply belong3 to the string of subjunctives in this passage that express ritual service. But note pāda a of the previous vs. (6a), which has a subj. and a part. (jabhárat siṣvidānáḥ); one could argue that in this sequence of vss. there is no more than one finite verb per pāda, though that is not a particular telling argument.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who brings thee food, though thou hast food in plenty, welcomes his cheerful guest and speeds him onward,  
      Who kindles thee devoutly in his dwelling,to him be wealth secure and freely giving.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The man who brings food to thee who art desirous of food, he who stirs up 1 the cheerful guest and rouses him, the godly man who kindles thee in his dwelling: to him may belong lasting and generous wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer dir wie einem Hungrigen Speise bringen wird, deine Eßlust reizt, den erfreulichen Gast aufmuntert und gottergeben im Hause anzündet, bei dem soll der freigebige Reichtum eine bleibende Stätte haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer dir, wenn du begehrst, die Speise darbringt, den Freudentrunk dir reicht, den Gast verherrlicht, Wer fromm gesinnt im Hause dich entzündet, bei dem sei dauernd gabenreiche Habe.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто приносит тебе пищу, словно желающему пищи,  
 Возбуждая (твое пламя, кто) поощряет веселого гостя  

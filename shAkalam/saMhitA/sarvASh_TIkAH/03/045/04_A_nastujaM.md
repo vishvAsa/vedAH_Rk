@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नस् तु꣡जं रयि꣡म् भर  
 अं꣡शं न꣡ प्रतिजानते꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र सम्पा꣡रणं व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वृ॒क्षम् । प॒क्वम् । फल॑म् । अ॒ङ्कीऽइ॑व । धू॒नु॒हि॒ । इन्द्र॑ । स॒म्ऽपार॑णम् । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -113,14 +113,14 @@ genre M
 हे **इन्द्र** **नः** अस्माकं **तुजं** शत्रूणां बाधकं **रयिं** धनेनोपलक्षितं पुत्रम् **आ** **भर** संपादय । तत्र दृष्टान्तः। **अंशं** **न** । यथा पिता **प्रतिजानते** व्यवहारज्ञाय पुत्राय स्वकीयस्य धनस्य भागं ददाति तद्वत् । किंच **पक्वं** **फलं** प्रति **वृक्षम्** **अङ्कीव** अङ्कुशी यथा धूनोति तथा त्वं **संपारणम्** अस्मदिच्छायाः सम्यक् पूरकं **वसु** धनं **धूनुहि** चालय । प्रयच्छेत्यर्थः ॥ प्रतिजानते । ‘ज्ञा अवबोधने ' इत्यस्य शतरि रूपम् । प्रादिसमासः । ‘ शतुरनुमः' इति विभक्तेरुदात्तत्वम् । धूनुहि । ‘धूञ् कम्पने' इत्यस्य लोटि रूपम्। संपारणम् ।' पॄ पालनपूरणयोः' इत्यस्य ण्यन्तस्य करणे ल्युट् । समासे कृत्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant us riches, securing (us against foes), (as a father bestows) his portion on (a son) arrived at maturity; send down upon us, **Indra**, wealth adequate (to our desires), as a crookbringd down the ripe fruit from a tree.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring here to us thrusting wealth, like a share to the one who  
 acknowledges it.  
@@ -128,28 +128,28 @@ As a man with a crook shakes a tree for ripe fruit, o Indra, shake (us)  goods t
 530 III.46–47
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The simile in b is not clear, in great part because práti √jñā appears to be employed in some technical sense that we have no handle on. The lexeme is not common in Vedic and seems to mean ‘greet, welcome’ (or perhaps just ‘recognize, acknowledge’) in the Vāstoṣpati hymn, VII.54.1, and in other texts ‘acknowledge, respond’ vel sim. In post-Vedic Skt. it means ‘promise’ or the like. Since áṃśa- ‘portion’ may also have a technical or legal sense, this phrase may belong to a stratum of language that we have no access to at this period. My feeling is that it has to do with the acceptance or rejection of something offered, as prati √grah signals acceptance of a properly given gift (see Sac. Wife 199-201). But I cannot get further than that.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bring thou us wealth with power to strike, our share, 'gainst him who calls it his.  
      Shake, Indra, as with hooks, the tree for ripened fruit, for wealth to satisfy our wish.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring uns schleunigen Reichtum wie dem, der seine Einwilligung gibt, seinen Anteil! Schüttle, Indra, aus der Not helfendes Gut herab wie einer mit dem Haken die reife Frucht vom Baum schüttelt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns bringe raschen Reichthum her, wie Erbtheil dem, der sein ihn nennt, Und schüttle, Indra, kräft'ges Gut uns, wie vom Baum der Haken reife Frucht, herab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Принеси нам потомство, богатство,  
 Как (дают) долю соглашающемуся.  

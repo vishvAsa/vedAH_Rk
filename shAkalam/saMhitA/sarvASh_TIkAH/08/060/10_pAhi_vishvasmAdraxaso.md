@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पाहि꣡ वि꣡श्वस्माद् रक्ष꣡सो अ꣡रावणः  
 प्र꣡ स्म वा꣡जेषु नो अव  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आपिं꣡ न꣡क्षामहे वृधे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 त्वाम् । इत् । हि । नेदि॑ष्ठम् । दे॒वऽता॑तये । आ॒पिम् । नक्षा॑महे । वृ॒धे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
@@ -110,7 +110,7 @@ genre M
 हे अग्ने **विश्वस्मात्** सर्वस्मात् **रक्षसः** **अराव्णः** अदातुः सकाशात् **पाहि** रक्षास्मान् । **वाजेषु** संग्रामेषु **नः** अस्मान् **प्र** **अव** प्रकर्षेण रक्ष। **स्म** इति पूरणः । **हि** यस्मात् **नेदिष्ठम्** आसन्नम् **आपिं** बन्धुभूतं **त्वामित्** त्वमेव **देवतातये** यज्ञाय यज्ञसिद्ध्यर्थं **वृधे** वर्धनाय **नक्षामहे** व्याप्नुमः । नक्षतिर्व्याप्तिकर्मा ॥ ॥ ३३ ॥।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,29 +121,29 @@ genre M
 Impious: not giving (sacrificial) gifts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Protect us from every hostile demon. Ever further us when prizes (are at  stake),  
 for we approach just you, the one nearest to the divine assemblage and  our friend, for strengthening.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Preserve us from each fiend who brings the Gods no gift, preserve thou us in deeds of strength:  
      For we possess in thee the nearest Friend of all, for service of the Gods and weal.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schütz uns vor jedem mißgünstigen Unhold, steh uns in den Kämpfen um den Siegerpreis bei; denn zu dir kommen wir als dem der Götterschar am nächsten Stehenden, als einem Freunde zum Gedeihen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beschütze uns vor jedem feindlichen Gespenst und sei in Schlachten hülfreich uns; Denn dich vor allem suchen wir als nächsten Freund zum Gottesdienst und zum Gedeihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Защити от любого скупого ракшаса!  
 Помоги нам с наградами!  

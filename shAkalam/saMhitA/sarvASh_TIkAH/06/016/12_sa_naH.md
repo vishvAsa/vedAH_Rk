@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नः पृथु꣡ श्रवा꣡यियम्  
 अ꣡छा देव विवाससि  
 बृह꣡द् अग्ने सुवी꣡रियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 बृ॒हत् । अ॒ग्ने॒ । सु॒ऽवीर्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,7 +91,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **देव** द्योतमानाग्ने **सः** पूर्वोक्तगुणस्त्वं **पृथु** विस्तीर्णं **श्रवाय्यं** श्रवणीयं प्रशस्यं **बृहत्** महत् **सुवीर्यं** शोभनवीर्योपेतं धनं **नः** अस्मान् **अच्छ** **विवाससि** अभिगमय । अत्र वाजसनेयकम् -- ‘ अच्छा देव विवाससीति तन्नो गमयेत्येवैतदाह ' (श. ब्रा. १. ४. १. २७ ) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -102,29 +102,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **Suvīra** = **suvīrya**, male descendants
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You seek to win for us here a broad, praiseworthy,  
 lofty mass of heroes, god Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For us thou winnest, Agni, God, heroic strength exceeding great,  
      Far-spreading and of high renown.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, o Gott Agni, erbittest für uns eine breite, ruhmgewinnende, hohe Meisterschar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum schenk, o Gott, uns Heldenkraft, die weithin reicht, des Rühmens werth, O Agni, und erhaben ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты для нас стремишься получить,  
 О бог, широкое, достойное славы,  

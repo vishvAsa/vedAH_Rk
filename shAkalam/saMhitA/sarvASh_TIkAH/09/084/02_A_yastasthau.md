@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡स् तस्थउ꣡ भु꣡वनानि अ꣡मर्तियो  
 वि꣡श्वानि सो꣡मः प꣡रि ता꣡नि अर्षति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्दुः सिषक्ति उष꣡सं न꣡ सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 कृ॒ण्वन् । स॒म्ऽचृत॑म् । वि॒ऽचृत॑म् । अ॒भिष्ट॑ये । इन्दुः॑ । सि॒स॒क्ति॒ । उ॒षस॑म् । न । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -129,7 +129,7 @@ genre M
 **यः** **अमर्त्यः** देवः **सोमः** **भुवनानि** लोकान् **आ** **तस्थौ** आस्थितवान् **तानि** **विश्वानि** सर्वाणि भुवनानि **परि** **अर्षति** परितो गच्छति । परितो रक्षतीत्यर्थः । सोऽयम् **इन्दुः** यज्ञं यजमानं वा **संचृतं** देवैः फलैर्वा संबद्धं **कृण्वन्** कुर्वन् **विचृतम्** असुरादिभिर्दुःखैर्वा विमुक्तं **कृण्वन्** अभितो यागाय **सिषक्ति** सेवते यज्ञम् । **उषसं** **न** **सूर्यः**। सूर्य उषसमिव यथा **अभिष्टये** अभितो गमनाय प्राणिनां संचृतं प्रकाशैः संयुक्तं विचृतं तमोभिर्विमुक्तं च लोकं कुर्वन्नुषसं सेवते तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,12 +140,12 @@ genre M
 Goes round about: i.e., protects; Indu accompanies the sacrifice (sacrificer), connecting it (him) with the gods (the desired end--phalaiḥ), separating it (him) from the **asuras** (calamities), as the sun for the protection (of sentient beings) accompanies the dawn, connecting it with light and separating it from darkness
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who has mounted the worlds, immortal Soma flows around them all. Performing the knotting and unknotting in order to prevail, the drop  accompanies (the gods?), like the sun the dawn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The territory-winning theme of vs. 1 may be continued here, but on the cosmic level, with Soma mounting all the worlds. This is also probably a reference to Soma as the sun, as Geldner suggests (n. 2a).
 
@@ -154,23 +154,23 @@ As noted in the published introduction, the “knotting and unknotting” probab
 Pāda d lacks an acc. in the frame to be construed with siṣakti as parallel to uṣásam in the simile. Perhaps the gods in general (the daívyaṃ jánam of 1d and 3d), or the three gods named in 1b, Indra, Varuṇa, and Vāyu. Renou supplies Indra, and the parallel he cites, I.56.4 índraṃ síṣakti uṣásaṃ ná sū́ryaḥ, supports this suggestion, esp. since Indra recurs in vss. 3 and 4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who hath come anear to creatures that have life, Immortal Soma flows onward to all of them.  
      Effecting, for our aid, both union and release, Indu, like Surya, follows closely after Dawn.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Unsterbliche, der die Welten erstiegen hat, der Soma umkreist alle diese. Indem er bindet und löset, um zur Geltung zu kommen, folgt der Saft ihnen wie Surya der Usas;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, welcher zu den Wesen hingedrungen ist, umströmt sie alle, Soma, der unsterbliche, Zum Heile schaffend Einigung und Sonderung, folgt wie die Sonne Indu nach dem Morgenroth.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Бессмертный, который поднялся на миры,  
 Сома течет вокруг всех этих (миров).  

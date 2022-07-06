@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ वीरि꣡याणि प्रथमा꣡नि क꣡र्तुवा  
 महित्वे꣡भिर् य꣡तमानौ समीय꣡तुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡न्द्रो मह्ना꣡ पूर्व꣡हूताव् अपत्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ध्वा॒न्तम् । तमः॑ । अव॑ । द॒ध्व॒से॒ । ह॒तः । इन्द्रः॑ । म॒ह्ना । पू॒र्वऽहू॑तौ । अ॒प॒त्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
@@ -129,14 +129,14 @@ genre M
 **महित्वेभिः** मंहनीयैः स्वबलैः **यतमानौ** युद्धाय प्रयत्नं कुर्वन्तौ इन्द्रवृत्रौ **प्रथमानि** पूर्वभावीनि **कर्त्वा** । कृत्यार्थे त्वन्प्रत्ययः । कर्तव्यानि **या** यानि **वीर्याणि** **समीयतुः** संयोजयामासतुः ॥  ‘ इण् गतौ' । लिटि  ‘ दीर्घं इणः किति' (पा. सू. ७. ४. ६९ ) इति दीर्घः ॥ तयोर्मध्ये इन्द्रेण वृत्रे **हते** सति **ध्वान्तम्** अतिनिबिडं **तमः** **अव** **दध्वसे**। अवध्वस्तं विनष्टमभूत् ॥ ध्वंसेर्लिट् । कित्त्वान्नलोपः ॥ **इन्द्रः** तु **मह्ना** स्वमहिम्ना **पूर्वहूतौ** प्रथमाह्वाने **अपत्यत** अगच्छत् । शूराणां मध्येऽयमेव प्रथममाहूयमानोऽभवदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(In the midst of) the first exploits to be performed by them which (**Indra** and **Vṛtra**) achieved strivingwith their utmost might, Vṛtra being slain, the thick darkness was destroyed, and Indra in his might came at thefirst challenge.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two who together approached the heroic deeds first to be  
 performed, taking their (battle) places with their great powers—  
@@ -144,23 +144,23 @@ smoky darkness dusted down on (the one), when he was smashed.
 Indra by his greatness became lord over the early invocation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even in the first of those heroic acts which they who strove together came with might to execute,  
      Deep darkness fell upon the slain, and Indra won by victory the right of being first invoked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden zusammen kamen, an Größe wetteifernd, wer die ersten Heldentaten vollbringen werde - dichte Finsternis fiel auf den Erschlagenen unter den beiden herab. Indra bekam durch seine Größe ein Anrecht auf die erste Einladung zum Soma.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als beide sie, wetteifernd mit gewalt'ger Kraft, zusammenstiessen erste Heldenthat zu thun; Da deckte tiefes Dunkel den erschlagenen, durch seine Macht ward Indra Herr des Frühgebets.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эти двое встретились, состязаясь в величии  
 (Из-за тех) подвигов, которые первыми предстояло совершить.  

@@ -8,7 +8,7 @@ title = "+056"
 अथ चतुर्थेऽनुवाके पञ्चदश सूक्तानि । तत्र ‘ क ईं व्यक्ताः ' इति पञ्चविंशत्यृचं प्रथमं सूक्तं वसिष्ठस्यार्षं मरुद्देवताकम् । आद्या एकादश द्विपदा विंशत्यक्षरा विराजः शिष्टाश्चतुर्दश त्रिष्टुभः । तथा चानुकान्तं-- क ईं पञ्चाधिका मारुतं हाद्या एकादश द्विपदा ' इति । दशरात्रे चतुर्थेऽहन्याग्निमारुते शस्त्र इदं मारुतनिविद्धानम् । सूत्र्यते हि -- वैश्वानरस्य सुमतौ क ईं व्यक्ता नरः ' ( आश्व. श्रौ. ८. ८) इति ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 56 (572)  
 Maruts  
@@ -20,7 +20,7 @@ Although this celebration of the Maruts’ qualities continues in the triṣṭu
 ence to the Maruts at the Sākamedha in this Marut cycle, see VII.59.9–10. On the  ritual itself see, e.g., Hillebrandt 1897: 117–19; Keith 1925: 322–23.) As usual, offerings to the gods prompt us to ask for reciprocal benefits from the  gods, and these requests occupy much of the remaining verses (17–24), with the  final refrain verse (25) extending the requests to other gods as well. The last few  request verses specific to the Maruts (vss. 22–24) ask for their help in battles over  land and waters, alluding presumably to the Ārya expansion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts 79
 </details>

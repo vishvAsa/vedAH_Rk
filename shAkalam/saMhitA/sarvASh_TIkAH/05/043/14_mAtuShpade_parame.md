@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मातु꣡ष् पदे꣡ परमे꣡ शुक्र꣡ आयो꣡र्  
 विपन्य꣡वो · रास्पिरा꣡सो अग्मन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 शि꣡शुम् मृजन्ति आय꣡वो न꣡ वासे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 सु॒ऽशेव्य॑म् । नम॑सा । रा॒तऽह॑व्याः । शिशु॑म् । मृ॒ज॒न्ति॒ । आ॒यवः॑ । न । वा॒से ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātuṣ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
@@ -117,7 +117,7 @@ genre M
 **आयोः** मनुष्यस्य यजमानस्य **विपन्यवः** । स्तोतृनामैतत् । स्तोतारो होत्रादयः **रास्पिरासः** ॥ रा धनं हविर्लक्षणम् । तत्स्पृशन्ति रास्पा जुह्वादयः । तद्वान् रास्पी । तद्वन्तो रास्पिराः ॥ उक्तविधा ऋत्विजः **मातुः** निर्मातुः पृथिव्याः **शुक्रे** दीप्ते **परमे** **पदे** उत्तरवेद्यां स्थितम् **अग्मन्** अगमन् भजन्ते । तदर्थं **सुशेव्यं** सुखाय हितं **शिशुम्** उत्पन्नमात्रं 'वासे वासाय **नमसा** स्तोत्रेण **रातहव्याः** दत्तहविष्काः इत्यर्थः । तादृशास्ते **मृजन्ति** संमार्जयन्ति । तत्र दृष्टान्तः । **आयवो** **न** लौकिका मनुष्य इव । ते यथा **शिशुं** वासाय मृजन्ति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,34 +128,34 @@ genre M
 The excellent plural ce: that is, to the first altar; as people rub the limbs: śiśum mṛjanti āyavo na vase = yathā **manuṣya** śiśum vasāya mṛjanti, they rub the infant has double application, to the first kindling of Agni by attrition, and to the new-born babe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the highest, gleaming footstep of the mother of Āyu [=Urvaśī] the  admiring abundant [?] ones have come.  
 With their oblations bestowed with reverence, they groom the beloved  child [=Agni] in his dwelling place, like the Āyus.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On rāspirá- see comm. ad I.122.4.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The tuneful eloquent priests of him who liveth have sought the Mother's bright and loftiest station.  
      As living men, with offered gifts and homage they deck the most auspicious Child to clothe him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An den höchsten lichten Ort der Mutter des Ayu sind preisend die ....... gekommen. Den Liebling putzen sie unter Verneigung Opfer darbringend zur Nachtzeit wie die Ayu´s ein Kind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum höchsten Ort der Mutter und zum hellsten des regen gingen jauchzend hin die Prassler, Mit Opfergaben schmückend den geliebten voll Ehrfurcht, wie das Kind im Haus die Pfleger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В высший светлый след матери, (в след) Аю  
 Пришли удивительные шумные.  

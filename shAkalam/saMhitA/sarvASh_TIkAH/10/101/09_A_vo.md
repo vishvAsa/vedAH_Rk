@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो धि꣡यं यज्ञि꣡यां वर्त ऊत꣡ये  
 दे꣡वा देवीं꣡ यजतां꣡ यज्ञि꣡याम् इह꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रधारा प꣡यसा मही꣡ गउः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 सा । नः॒ । दु॒ही॒य॒त् । यव॑साऽइव । ग॒त्वी । स॒हस्र॑ऽधारा । पय॑सा । म॒ही । गौः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -139,37 +139,37 @@ popular;; repeated line
 हे **देवाः** स्तोतार ऋत्विजः **वः** युष्माकम् **ऊतये** **यज्ञियां** यज्ञार्हां **धियं** बुद्धिम् **आ** **वर्ते** प्रवर्तये । यद्वा । हे देवा ऋत्विजः वो यज्ञियां धियं युष्माकं कर्तव्यत्वेन संबन्धिनामस्माकमूतये रक्षणाय आ वत । अपि वा देवा एवं संबोध्याः । हे देवा: वो युष्माकं धियं बुद्धिमा वर्ते आवर्तयामि । किमर्थम् । ऊतयेऽस्माकं रक्षणाय । कीदृशीं धियम् । **यज्ञियां** यज्ञार्हां **देवीं** द्योतमानां **यजतां** पूज्याम् । **इह** अस्मिन् यागे अस्यां भूमौ वा । एको यज्ञियामिति शब्दः पूरणः । **सा** धीः **नः** अस्माकं **दुहीयत्** दुह्यात् । तत्र दृष्टान्तः । **यवसेव** यवसानि भक्षयित्वेव **गत्वी** पुनर्गोष्ठं गत्वा । पीत्वीतिवत् । **पयसा** **सहस्रधारा** **मही** महती **गौः** यथा दुग्धे तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I attract, O gods, for my protection, your adorable, divine mine, which is deserving of sacrifice andworship here; may it milk forth for us, like a large cow with milk, giving a thousand strreams, (having eaten)fodder and returned.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I turn toward you an insightful thought worthy of the sacrifice, for aid,  o gods—a sacrificial goddess worthy of the sacrifice here.  
 She should yield her milk to us like a great cow with her milk in a  
 thousand streams who has gone to the pastures.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, for help, I turn the holy heavenly mind of you the Holy Gods, that longs for sacrifice.  
      May it pour milk for us, even as a stately cow who, having sought the pasture, yields a thousand streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich lenke euer opfergeneigtes Denken her zu unserem Beistand, ihr Götter, das göttliche, opferwerte, opfergeneigte hierher. Sie soll uns Milch geben, als ob sie auf die Weide gegangen wäre, die große Kuh, in tausend Strahlen mit ihrer Milch!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euren heiligen Sinn wende ich zur Hülfe herbei, o Götter, den göttlichen, ehrwürdigen, heiligen; er ströme uns reichlich gleichwie die grosse tausendströmige Kuh von Milch strömt, nachdem sie auf die Weide gegangen ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я привлекаю вашу силу видения, связанную с жертвой, для помощи,  
 О боги, божественную, достойную жертв, связанную с жертвой, – сюда!  

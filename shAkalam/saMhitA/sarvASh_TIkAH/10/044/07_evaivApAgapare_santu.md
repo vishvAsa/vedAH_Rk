@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवइ꣡वा꣡पाग् अ꣡परे सन्तु दूढियो꣡  
 अ꣡श्वा ये꣡षां दुर्यु꣡ज आयुयुज्रे꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुरू꣡णि य꣡त्र वयु꣡नानि भो꣡जना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इ॒त्था । ये । प्राक् । उप॑रे । सन्ति॑ । दा॒वने॑ । पु॒रूणि॑ । यत्र॑ । व॒युना॑नि । भोज॑ना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evaivāpāg* ← *eva*
 - \[adverb\]
@@ -135,12 +135,12 @@ genre M
 **एवैव** एवमेव **दूढ्यः** दुर्बुद्धयः **अपरे** अन्ये । अयज्वान इत्यर्थः । **अपाक्** अपाचीना अधोगन्तारः **सन्तु** भवन्तु **येषां** यज्ञमकुर्वताम् **अश्वाः** दुर्युजः दुर्योजाः प्रबलाः **अश्वाः** **आयुयुज्रे** रथेषु युज्यन्ते । ये सत्यपि सामर्थ्ये न यजन्ति ते नरकं गच्छन्तीति भावः। किंच **इत्था** इत्थं ते स्वर्गगामिनो भवन्ति **ये** **उपरे** यज्वानः प्राक् मरणात्पूर्वमेव **दावने** देवानां हविर्दानाय **सन्तिः** भवन्ति । **यत्र** येषु च यज्ञकारिषु **वयुनानि** प्रज्ञानानि कान्तानि वा **भोजना** भोग्यानि धनानि **पुरूणि** बहूनि देवेभ्यो दानाय सन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just exactly in this way let the ones of evil intent, whose horses have  been badly yoked, be behind and facing backward;  
 correspondingly, those who are nearer and facing forward, they are  
@@ -148,23 +148,23 @@ correspondingly, those who are nearer and facing forward, they are
 are (in place).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So be the others, evil-hearted, far away, whose horses, difficult to harness, have been yoked.  
      Here in advance men stand anear to offer gifts, by whom full many a work that brings reward is done.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ebenso sollen später die Übelgesinnten zurückstehen, für die die schlechtgejochten Rosse angejocht sind. Geradeso ergeht es denen, die künftig anderen voraus zum Geben bereit sind, bei denen viele Speisungen die Richtwege sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Fürwahr die Bösen stehn zurück als letzte stets, sie, deren Rosse schlecht ans Joch sind angeschirrt; Die, ob voran auch, doch zurückstehn beim Empfang, wo viele Gaben und Genüsse stehn bereit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Точно так же должны остаться позади, отстающими, злонамеренные,  
 У которых были запряжены труднозапрягаемые кони.  

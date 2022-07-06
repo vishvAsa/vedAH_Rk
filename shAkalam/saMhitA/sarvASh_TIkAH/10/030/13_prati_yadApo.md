@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति य꣡द् आ꣡पो अ꣡दृश्रम् आयती꣡र्  
 घृत꣡म् प꣡यांसि बि꣡भ्रतीर् म꣡धूनि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्राय सो꣡मं सु꣡षुतम् भ꣡रन्तीः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ध्व॒र्युऽभिः॑ । मन॑सा । स॒म्ऽवि॒दा॒नाः । इन्द्रा॑य । सोम॑म् । सुऽसु॑तम् । भर॑न्तीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -115,37 +115,37 @@ genre M
 हे **आपः** **आयतीः** अस्मद्यज्ञं प्रत्यागच्छन्तीः **यत्** । ‘सुपां सुलुक्” इति विभक्तेरर्लुक् । याः युष्मान् **प्रति** **अदृश्रं** प्रतिपश्यामि **घृतं** सोमसंसृष्टमाज्यं **मधूनि** मधुसदृशानि मृष्टरसानि **पयांसि** उदकानि च संभूय **बिभ्रतीः** यागकाले धारयन्तीः तथा **अध्वर्युभिः** **मनसा** अन्तःकरणेन **संविदानाः** संभाषमाणाः किंच **इन्द्राय** इन्द्रार्थं **सुषुतं** सुष्ठु सुतं **सोमं** **भरन्तीः** धारयन्तीः एवंभूतास्ता युष्मान्स्तौमीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I behold you, waters, coming to (the sacrifice), conveying the butter, the water, the sweet (**Soma**);conversing mentally with the priests, and bringing the well-effused Soma for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the waters have just appeared in front—on their way here, bringing  ghee, milk, and honey,  
 allying in mind with the Adhvaryus, bringing the well-pressed soma  
 to Indra—
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When I behold the Waters coming hither, carrying with them milk and mcath and butter,  
      Bearing the well-pressed Soma juice to Indra, they harmonize in spirit with Adhvaryus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da die ankommenden Wasser sichtbar geworden sind, Schmalz, Milch, Honig bringend, mit den Adhvaryu´s von Herzen einig, dem Indra wohlgepreßten Soma bringend -
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn wir die Wasser zu uns kommen sahen, die Fett und Milch und süsse Tränke bringen, Sind einig sie im Herzen mit den Priestern, zu Indra tragend schön gepressten Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как показались прибывающие воды,  
 Несущие жир, молоко, мед,  

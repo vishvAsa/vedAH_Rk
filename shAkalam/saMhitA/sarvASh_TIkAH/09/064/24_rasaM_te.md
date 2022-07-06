@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡सं ते मित्रो꣡ अर्यमा꣡  
 पि꣡बन्ति व꣡रुणः कवे  
 प꣡वमानस्य मरु꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 पव॑मानस्य । म॒रुतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rasaṃ* ← *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
@@ -81,20 +81,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **कवे** क्रान्तकर्मन् सोम **पवमानस्य** क्षरतः **ते** तव **रसं** **मित्रः** **अर्यमा** च **वरुणः** च **मरुतः** च एते सर्वे देवाः पिबन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra**, **Aryaman**, **Varuṇa** and the **Maruts** drink, sage (**Soma**), your juice as you drop.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Mitra, Aryaman, and Varuṇa drink your sap, o poet,  
 as do the Maruts, when you purify yourself.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details open><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -104,23 +104,23 @@ The mention of the divine recipients of the soma in vss. 22 and 24 marks this t�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Aryaman, Mitra, Varuna drink Pavamana's juice, yea, thine:  
      O Sage, the Maruts drink thereof.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deinen Saft trinken Mitra, Aryaman, Varuna, o Weiser, die Marut, wenn du dich läuterst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es trinken, Weiser, deinen Saft, des hellen, Mitra, Arjaman Und Varuna, die Marutschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

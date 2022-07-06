@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ दस्युघ्ना꣡ म꣡नसा याहि अ꣡स्तम्  
 भु꣡वत् ते कु꣡त्सः सखिये꣡ नि꣡कामः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ वां चिकित्सद् ऋतचि꣡द् ध ना꣡री
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स्वे । योनौ॑ । नि । स॒द॒त॒म् । सऽरू॑पा । वि । वा॒म् । चि॒कि॒त्स॒त् । ऋ॒त॒ऽचित् । ह॒ । नारी॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -141,7 +141,7 @@ genre M
 अत्र काचिदाख्यायिका श्रूयते । कथम् । रुरुनामकः कश्चिद्राजर्षिः । तस्य पुत्रः कुत्साख्यो राजर्षिरासीत् । स च कदाचित् शत्रुभिः सह युयुत्सुः संग्रामे स्वयमशक्तः सन् शत्रूणां हननार्थमिन्द्रस्य आह्वानं चकार । स चेन्द्रः कुत्सस्य गृहमागत्य तस्य शत्रून् जघान । तदनन्तरमतिप्रीत्या तयोः सख्यमभवत् । सख्यानन्तरमिन्द्र एनमपि स्वकीयं गृहं प्रापयामास । तत्र शची इन्द्रं प्राप्तुमागता सती तौ समानरूपौ दृष्ट्वा अयमिन्द्रोऽयं कुत्स इति विवेकाभावेन संशयं चकार इति । अनयाख्यायिकया प्रतीयमानोऽर्थोऽत्र प्रतिपाद्यते । हे इन्द्र **दस्युघ्ना** दस्यूनां शत्रूणां हन्त्रा **मनसा** युक्तस्त्वम् **अस्तं** कुत्सस्य गृहम् । अस्तमिति गृहनामैतत् । **आ** **याहि** आगाः ॥ लुङर्थे लोट् ॥ **कुत्सः** च **ते** तव संबन्धिनि **सख्ये** **निकामः** नितरां कामयमानः **भुवत्** अभवत्। ततः तौ युवां **स्वे** योनौ स्वकीये स्थाने **नि** **षदतं** न्यसीदतम् । उपविष्टावभूतम् । **ऋतचित्** सत्यदर्शनी **नारी** इन्द्रस्य भार्या शची **सरूपा** सरूपौ समानरूपौ **वां** युवां **वि** **चिकित्सत्** संशयं चकार ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -152,36 +152,36 @@ genre M
 Kutsa: a **rājaṛṣi**, the son of **Ruru**, also a royal saint; Kutsa is the author of several **sūktas** (RV 1.010), termed as the son of **Aṅgiras**; there is also a legendary Kutsa, son of **Arjuna**; truthful woman has been perplexed: after destroying the enemies of Kutsa, Indra conveyed him to his palace, where **Śaci**, the wife of Indra, could not tell who her husband was, since both were exactly alike
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here to the home (of Uśanā Kāvya) with your Dasyu-smashing  mind. In companionship with you, Kutsa will become eager.  
 Do you two, having the same form, sit down each in his own womb.  She is trying to distinguish between you two—she is a woman who  distinguishes the truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b bhuvát te kútsaḥ sakhyé níkāmaḥ echoes 6b … sákhibhir níkāmaiḥ.
 
 In 6 Indra performs manly deeds “with his eager companions” (either the Maruts of the Vṛtra myth or the Aṅgirases of the Vala myth); here Kutsa must be transformed into such a sidekick by his association with Indra: “In companionship with you, Kutsa will become eager.” On the enigmatic theme of the woman trying to tell Indra and Kutsa apart, see the published introduction. As argued there, it is likely that the Jaiminīya Brāh. version (JB III.199-202), with sexual mischief between Kutsa and Indra’s wife, facilitated by the identical appearance of Indra and Kutsa, is only a secondary attempt to make sense of this tantalizing snippet and no such story underlies our passage. Certainly the woman (nā́rī) in our passage seems entirely upright and eager to distinguish between the two males.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to our home resolved to slay the Dasyu: Kutsa longed eagerly to win thy friendship.  
      Alike in form ye both sate in his dwelling the faithful Lady was in doubt between you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dasyumörderischer Absicht geh nach Hause, Kutsa sei dir in Freundschaft ergeben! Auf ihren eigenen Schoß setzet euch beide gleich aussehend. Die Frau wird im Zweifel über euch beiden sein, die doch das Richtige kennt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deinem Sinn, der Feinde schlägt, besuch uns, befreundet sei dir Kutsa, dein begehrend; Setzt gleichgestaltet beid' auf euren Sitz euch, die Frau, die scharf sieht, mag euch unterscheiden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отправляйся домой с мыслью убить дасью!  
 Да будет тебе для дружбы преданный Кутса!  

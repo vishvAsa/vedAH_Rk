@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ प्र꣡ गो꣡पतिं गिरा꣡  
 इ꣡न्द्रम् अर्च य꣡था विदे꣡  
 सूनुं꣡ सत्य꣡स्य स꣡त्पतिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 सू॒नुम् । स॒त्यस्य॑ । सत्ऽप॑तिम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -92,7 +92,7 @@ genre M
 **गोपतिं** गवां स्वामिनम् **इन्द्रम्** **अभि** **प्र** **अर्च** । प्रकर्षेण पूजय स्तुत्या । **यथा** **विदे**  स यथा स्वात्मानं स्तुतप्रकारं जानाति यथा वा यागं प्रति गन्तव्यमिति जानाति तथार्चेति । कीदृशमिन्द्रम् । **सत्यस्य** यज्ञस्य सत्यस्य वा **सूनुं** पुत्रम् । तत्रानुरक्तत्वात् सूनुरित्युपचर्यते । **सत्पतिं** सतां यजमानानां पालकम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -103,13 +103,13 @@ genre M
 Satya = truth, **yajña**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Chant forth with a song to the lord of cows, to Indra, in the way that  is known,  
 to the son of the real, the master of settlements.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Although this verse belongs to a different tṛca, it seems to provide an alternative resolution to the puzzle of vs. 2, somewhat different from that given in 3ab. Here Indra is definitively identified as a gópati- ‘lord of cows’, paraphrasing 2cd pátim … ághnyānāṃ dhenūnā́m.
 
@@ -118,23 +118,23 @@ Geldner takes yáthā vidé as “wie er bekannt ist,” but this tag phrase reg
 satyásya sátpatim is probably a pseudo-pun, given that by many accounts (including ours) sát-pati- derives from sáts-pati-, with the first member a reduction of sádas- ‘seat, settlement’. See EWA s.v. If sát- belongs to √as (as some think), it is a real pun.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Praise, even as he is known, with song Indra the guardian of the kine,  
      The Son of Truth, Lord of the brave.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Besinge mit deiner Lobrede den Herrn der Kühe Indra, den Sohn der Wahrheit, den rechtmäßigen Herrn, wie er bekannt ist!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf, preis' mit Lied den Rinderherrn, den Indra, wie es sich gebührt, Den starken Herrn, der Wahrheit Sohn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

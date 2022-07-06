@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ सोतारो धनस्पृ꣡तम्  
 आशुं꣡ वा꣡जाय या꣡तवे  
 ह꣡रिं हिनोत वाजि꣡नम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हरि॑म् । हि॒नो॒त॒ । वा॒जिन॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -82,19 +82,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोतारः** अभिषवकर्तार ऋत्विजः **धनस्पृतं** धनानां स्प्रष्टारं **वाजिनं** बलिनम् **आशुं** वेगवन्तं **तं** सोमात्मकं **हरिम्** अश्वं **वाजाय** यज्ञाख्यं संग्रामं **यातवे** गन्तंं **हिनोत** प्रेरयत । यथा योद्धारो युद्धं गन्तुं बलिनं वेगवन्तमश्वं प्रेरयन्ति तद्वत् यज्ञमभिगन्तुं बलवन्तं सोमं प्रेरयतेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Effused of the **Soma**, urge forward that wealth bestowing rapid vigorous steed to go to the battle.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O pressers, impel the swift one to drive for the prize—the winner of spoils, the tawny prize-seeker.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is notable for its 2nd ps. address to the priests (sotāraḥ … hinota “o pressers, impel …”), also found in vss. 21, 29. Ordinarily 2nd ps. in soma hymns is reserved for Soma (sg.) and his drops (etc.) (pl.).
 
@@ -108,23 +108,23 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drive ye that Tawny Courser, O ye pressers, on his way to war,  
      Swift Steed who carries off the spoil.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn treibet, ihr Auspressende, zur Eile, den preisgewinnenden Renner, den siegreichen Falben, daß er um den Siegespreis laufe!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihr Sänger, spornt das schnelle Ross, das starke, schatzerbeutende, Zu eilen zu des Wettlaufs Preis.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

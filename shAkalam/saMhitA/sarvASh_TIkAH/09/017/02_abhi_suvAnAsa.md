@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ स्वाना꣡स° इ꣡न्दवो  
 वृष्ट꣡यः पृथिवी꣡म् इव  
 इ꣡न्द्रं सो꣡मासो अक्षरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑म् । सोमा॑सः । अ॒क्ष॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -77,35 +77,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सुवानासः** सूयमानाः **इन्दवः** द्रवरूपाः **सोमासः** सोमाः **इन्द्रं** प्रीणयितुम् **अभि** **अक्षरन्** । किमिव । **वृष्टयः** **पृथिवीमिव** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma**-drops, as they are expressed, flow to **Indra** like the rains falling upon the earth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As they are pressed, the drops, the soma juices, like rains to the earth, have flowed to Indra.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The drops of Soma juice effused fall like the rain upon the earth:  
      To Indra flow the Soma-streams.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die ausgepreßten Somasäfte sind zu Indra geflossen wie die Regenströme zur Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu Indra rann der Somatrank, wie Regen auf die Erde strömt, Die ausgepressten Tropfen hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Выжатые капли,  
 Как капли дождя – на землю,  

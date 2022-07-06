@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यमे꣡ इव य꣡तमाने य꣡द् अइ꣡तम्  
 प्र꣡ वाम् भरन् मा꣡नुषा देवय꣡न्तः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुआसस्थे꣡ भवतम् इ꣡न्दवे नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । सी॒द॒त॒म् । स्वम् । ऊं॒ इति॑ । लो॒कम् । विदा॑ने॒ इति॑ । स्वा॒स॒स्थे इति॑ सु॒ऽआ॒स॒स्थे । भ॒व॒त॒म् । इन्द॑वे । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yame* ← *yama*
 - \[noun\], nominative, dual, feminine
@@ -128,7 +128,7 @@ popular
 **यमेइव** यथा सहोत्पन्ने अपत्ये संचरतः तथा **यतमाने** गमनहविर्धारणादिस्वाधिकारकर्मणि प्रवर्तमाने हविर्धानशकटे युवां **यत्** यदा **ऐतं** हविर्धानस्थानं प्रतिगच्छथः तदा **देवयन्तः** देवकामाः **मानुषाः** यजमानाः **वां** युवा **प्र** **भरन्** प्रभरन्ति । किंच युवां **स्वमु** **लोकम्** आत्मीयमेव हविर्धानाख्यं स्थानं **विदाने** जानती **आ** **सीदतम्**। ततः **नः** अस्माकम् **इन्दवे** सोमार्थं **स्वासस्थे** शोभननिवासस्थाने **भवतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -139,29 +139,29 @@ popular
 Busily engaged: i.e., engaged in theperformance of your own duties of moving and bearing the oblation
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, taking your own places like twins, you came here, the god-seeking  descendants of Manu brought you forward.  
 Sit here upon your own wide space, as you know it. Become good seats  for our drop.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When speeding ye came nigh us like twin sisters, religious-hearted votaries brought you forward.  
      Take your place, ye who know your proper station: be near, be very near unto our Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr kamet, wie zwei Zwillingsschwestern gleichen Rang einnehmend, da führten euch die gottverlangenden Menschen vor. Setzet euch in eure Welt als Bekannte, dienet unserem Soma als guter Sitzplatz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die frommen Menschen [Lob und Trunk] dar; lasst euch nun nieder auf euren eignen Platz, [ihn] einnehmend, und sitzt auf gutem Sitz für unsern Indu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда вы прибыли, как сестры-близнецы, занимая положенное место,  
 Вас вывезли вперед люди, поклоняющиеся богам.  

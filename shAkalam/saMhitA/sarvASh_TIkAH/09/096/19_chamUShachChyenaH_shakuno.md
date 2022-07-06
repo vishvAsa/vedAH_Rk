@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 चमूष꣡च् छ्येनः꣡ शकुनो꣡ विभृ꣡त्वा  
 गोविन्दु꣡र् द्रप्स꣡ आ꣡युधानि बि꣡भ्रत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तुरी꣡यं धा꣡म महिषो꣡ विवक्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒पाम् । ऊ॒र्मिम् । सच॑मानः । स॒मु॒द्रम् । तु॒रीय॑म् । धाम॑ । म॒हि॒षः । वि॒व॒क्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *camūṣacchyenaḥ* ← *camūṣad*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 **चमूषत्** । चमन्ति भक्षयन्त्यत्रेति चम्वश्चमसाः । तेषु सीदन् । यद्वा । चम्वावधिषवणफलके । तयोर्वर्तमानः । **श्येनः** शंसनीयः **शकुन:** शक्तः सामर्थ्यकारी **विभृत्वा** । हरतेः ‘ आतो मनिन्” इत्यादिना क्वनिप् । पात्रेषु विहरणशीलः **गोविन्दुः** यजमानानां गवां लम्भकः । ‘ विन्दुरिच्छुः । (पा. सू. ३, २. १६९ ) इत्युप्रत्ययान्तत्वेन निपातितः । **द्रप्सः** द्रवणशीलः **आयुधानि** स्फ्यकपालादीनि **बिभ्रत्** धारयन् **अपाम्** उदकानाम् **ऊर्मिं** प्रेरकं **समुद्रम्** । अन्तरिक्षनामैतत् । अन्तरिक्षलोकं **सचमानः** सेवमानः **महिषः** महान् य एवंविधः सोमः स सोमः **तुरीयं** चतुर्थं **धाम** चान्द्रमसं स्थानं **विवक्ति** सेवते । सूर्यलोकस्योपरि चन्द्रमसो लोको विद्यत इति यमः पृथिव्या अधिपतिः स मावतु इत्यादिभिः चन्द्रमा नक्षत्राणामधिपतिः स मावतु इत्यन्तैर्मन्त्रैर्ज्ञायते ( तै. सं. ३. ४. ५. १ )॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,13 +123,13 @@ genre M
 I.e. the region of the moon which is above that of the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sitting in the cups, the falcon, the bird spreading (his wings), the  cow-finding drop, bearing weapons,  
 accompanying the wave of the waters, the buffalo declares the sea to be  the fourth domain.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I follow Geldner in interpr. vibhṛ́tvan- as ‘spreading (wings)’, an interpr. that Oldenberg finds at least possible and that Renou accepts. It is noteworthy - though I’m not sure where it gets us - that the Avestan Hom Yašt in Y. 9.14 contains the phrase vībǝrǝϑuuaṇtǝm āxtūirīm supposedly “with pauses and repeated four times,” describing the recitation of the Ahuna Vairiia prayer, with the equivalent of our vibhṛ́tvan- (/-vant-) and turī́ya-. But the contexts are so different that it is hard to know what, if anything, to make of it - though if there’s a covert reference to recitational styles here it would continue the technical poetic vocab. of 18d.
 
@@ -142,23 +142,23 @@ I follow Lüders (273) and Renou in taking samudrám in c as part of a double ac
 Accepting Lüders’s interpr. of the syntax does not, however, require accepting his view that this is the heavenly ocean, higher than heaven. Again, I think it’s a ritual ref. - perhaps to the waters that accompany him in pāda c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hawk seated in the bowls, Bird wide-extended, the Banner seeking kine and wielding weapons,  
      Following close the sea, the wave of waters, the great Bull tells his fourth form and declares it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In dem Camugefäß sitzend wie ein Falke, der die Flügel ausbreitende Vogel, der die Kühe findende Tropfen, Waffen tragend, der Wasserwoge, der Meerflut sich gesellend, verkündet der Büffel seine vierte Form.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Adler eilend, in der Schüssel nistend, der Tropfen Milch erlangend, Waffen tragend, Der Wasser Flut geleitend nach dem Meere, besingt der Büffel seine vierte Stätte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сокол, сидящий в чанах, птица, расправившая (крылья),  
 Капля, находящая коров, несущая оружие,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सबा꣡धो यं꣡ ज꣡ना इमे꣡  
 अग्निं꣡ हव्ये꣡भिर् ई꣡ळते  
 जु꣡ह्वानासो यत꣡स्रुचः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 जुह्वा॑नासः । य॒तऽस्रु॑चः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sabādho* ← *sabādhas*
 - \[noun\], accusative, singular, neuter
@@ -82,35 +82,35 @@ genre M
 **इमे** **सबाधः** बाधसहिता अध्वर्य्वादयः **यम्** **अग्निं** **हव्येभिः** हविर्भिः **ईळते** स्तुवन्ति । कीदृशा जनाः। **जुह्वानासः** यागं कुर्वाणाः **यतस्रुचः** तदर्थं धृतस्रुग्दण्डाः । तमागन्मेति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That **Agni**, whom these crowding worshippers honour with oblations, offering to him with up-lifted ladles.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To Agni, whom these peoples here urgently invoke with oblations, pouring offerings with their ladles held forth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even Agni whom these priestly men worship with sacrificial gifts,  
      With lifted ladles offering them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Agni, den diese Leute eindringlich mit Opfergaben anrufen, indem sie mit hingehaltenem Löffel opfern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Agni, den die Männer hier durch Opfer ehren eifervoll, Dem, Löffel lenkend, Trank sie weihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

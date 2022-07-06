@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य अग्नि꣡र् व꣡पुर् गृहे꣡  
 स्तो꣡मं च꣡नो द꣡धीत विश्व꣡वारियः  
 हव्या꣡ वा वे꣡विषद् वि꣡षः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 ह॒व्या । वा॒ । वेवि॑षत् । विषः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyāgnir* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -95,20 +95,20 @@ genre M
 **यस्य** यजमानस्य **गृहे** **विश्ववार्यः** विश्वैर्वरणीयः **वपुः** । रूपनामैतत् । रूपवान् दीप्तिमान् **अग्निः** **स्तोमं** स्तोत्रं **चनः** अन्नं च हविर्लक्षणं **दधीत** धारयेत् । यस्य च **हव्या** । वाशब्दः समुच्चये । हव्यानि हवींषि च **विषः** व्याप्तान् देवान् **वेविषत्** प्रापयेत् । ‘विष्लृ व्याप्तौ । अस्माल्लेटि रूपमेतत् । स यजमान इति पूर्वत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(So is he) in whose dwelling the all-desired and embodied **Agni** receives praise and food, and conveysoblations to the all-pervading deities.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one in whose house the wondrous form Agni, possessing all  desirable things, should take delight in the praise song  
 or in the oblations, while he [=Agni] keeps laboring at his labors,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
 <details open><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -120,23 +120,23 @@ Note the alliterative v’s of 11c havyā́vā véviṣad víṣah (immediately 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He in whose dwelling Agni is chief ornament, and, all-desired, loves his laud well,  
      And zealously tends his offerings-
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In wessen Hause Agni, der Wunderschöne, der Allbegehrte am Loblied Gefallen findet oder an den Opfergaben, seine Dienste verrichtend;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In wessen Haus den Lobgesang der allbegabte, schöne Agni gern empfängt, Und eure Opfer schnell betreibt,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У кого Агни – чудо в доме –  
 Радуется восхвалению, самый желанный,  

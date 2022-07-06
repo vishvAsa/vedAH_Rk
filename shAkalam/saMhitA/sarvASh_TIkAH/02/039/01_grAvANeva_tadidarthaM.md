@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ग्रा꣡वाणेव त꣡द् इ꣡द् अ꣡र्थं जरेथे  
 गृ꣡ध्रेव वृक्षं꣡ निधिम꣡न्तम् अ꣡छ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दूते꣡व ह꣡व्या ज꣡निया पुरुत्रा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 ब्र॒ह्माणा॑ऽइव । वि॒दथे॑ । उ॒क्थ॒ऽशसा॑ । दू॒ताऽइ॑व । हव्या॑ । जन्या॑ । पु॒रु॒ऽत्रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *grāvāṇeva* ← *grāvāṇā* ← *grāvan*
 - \[noun\], nominative, dual, masculine
@@ -129,7 +129,7 @@ genre D
 हेअश्विनौग्रावाणेव अरातिम्प्रतिप्रेषितौपाषाणाविव तदर्थं अर्तेर्धातोरर्थशब्दः अर्थोर्तेरितिया स्कः । तमरातिमित्यर्थः इदितिपूरणः जरेथेजरयेथेअरातिम्बाधेथां यद्वा यथागुरूग्रावाणौक्षिप्तौत दानीमेवशीघ्रङ्गच्छतः तथातत् तमर्थं गन्तारञ्जरेथेशीघ्रङ्ग्त्वास्तुतमित्यर्थः जरतिः स्तुतिकर्मा किञ्च गृध्रेव गृध्राविवपक्षिणाविववृक्षम्फलितंवृक्षं निधिमन्तं धनवन्तं यजमानं अच्छ आगच्छत मितिशेषः विदथेयज्ञे विदथःसवनमितियज्ञनामसुपाठात् उक्थशसा उक्थशंसितारौब्रह्माणेवब्रा ह्मणाविव जन्याजनपदेषुदूतेव राज्ञाप्रेषितौदूताविव पुरुत्राबहुभिःपुरुषैर्हव्याह्वातव्यौयुवां अत्रउपमेयद्वित्वानुसारेणोपमानद्वित्वम् ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,30 +140,30 @@ genre D
 Like two Brāhmaṇas: brahmāṇa iva = brāhmaṇau; this seems to imply a priestly order
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like pressing stones, you two awaken to just this purpose: like vultures  toward a tree, (you awaken to go) toward what provides hidden  
 treasures (of honey);  
 like formulators, you recite hymns at the ritual distribution; like messengers,  you, serving your people, are to be called upon in many places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 SING like the two press-stones for this same purpose; come like two misers to the tree of treasure;  
      Like two laud-singing Brahmans in the assembly, like the folk's envoys called in many places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr seid früh wach, wie zwei Preßsteine an dasselbe Geschäft gehend, zu dem, der aufgetischt hat, wie zwei Geier zum Baume kommend. An Weisheit wie zwei Hohepriester, die das Loblied vortragen, seid ihr vielerorts einzuladen wie zwei Abgesandte und Brautwerber.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Presssteine eilt zu diesem Ziele, wie zwei Geier zu dem nestbegabten Baume, wie zwei Beter die beim Gottesdienste Sprüche sagen, wie zwei Boten überall zu rufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно два давильных камня вы бодрствуете с одной и той же целью,  
 (Собираясь) к приготовившему жертвенную пищу, как два коршуна на (одно) дерево.  

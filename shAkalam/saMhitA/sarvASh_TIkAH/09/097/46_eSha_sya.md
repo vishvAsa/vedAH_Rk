@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ स्य꣡ ते पवत इन्द्र सो꣡मश्  
 चमू꣡षु धी꣡र उशते꣡ त꣡वस्वान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡मो न꣡ यो꣡ देवयता꣡म् अ꣡सर्जि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स्वः॑ऽचक्षाः । र॒थि॒रः । स॒त्यऽशु॑ष्मः । कामः॑ । न । यः । दे॒व॒ऽय॒ताम् । अस॑र्जि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -123,20 +123,20 @@ genre M
 हे इन्द्र उशते कामयमानाय ते तुभ्यं त्वदर्थं धीरः प्राज्ञः तवस्वान् वेगवान् स्यः सएषसोमः चमूषु चमसेषु पवते क्षरति स्वर्चक्षाः सर्वदर्शिनः रथिरोरथवान् सत्यशुश्मः यथार्थबलोयः सोमः देवयतां देवानिच्छतां यजमानानां कामोन कामदइवासर्जि असृज्यत अदीयतइत्यर्थः ॥ ४६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The following sagacious **Soma** flows into the cups, **Indra**, for you, who long (for him)--all-seeing, car-borne, of adequate vigour, who has been sent forth like the wish of the god-desiring (worshippers).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This very Soma purifies himself for you, o Indra, in the cups, insightful  and powerful for you who desire it—  
 the charioteer having the eye of the sun, whose impetuosity is real, who  has been sent surging like the desire of those who seek the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details open><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -148,23 +148,23 @@ to the sun.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong, wise, for thee who longest for his coming this Soma here flows to the bowls, O Indra.  
      He, chariot-borne, sun-bright, and truly potent, was poured forth like the longing of the pious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma wird für dich, Indra, in den Camugefäßen geläutert, der Einsichtsvolle, Kraftvolle für den Verlangenden, der sonnenäugige Wagenfahrer von echtem Mute, der wie der Wunsch der Gottverlangenden sich ergossen hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es rieselt hell dir, Indra, dieser Soma, dir gier'gem treu und kräftig in die Kufen, Der sonnengleiche, wahrhaft starke Lenker, der wie der Frommen Wunsch sich hat ergossen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот этот сома, о Индра, очищается для тебя  
 В чанах, мудрый, полный силы для жаждущего,  

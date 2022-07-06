@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभिभु꣡वे अभिभङ्गा꣡य वन्वते  
 अ꣡षाळ्हाय स꣡हमानाय वेध꣡से  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सत्रासा꣡हे न꣡म इ꣡न्द्राय वोचत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तु॒वि॒ऽग्रये॑ । वह्न॑ये । दु॒स्तरी॑तवे । स॒त्रा॒ऽसहे॑ । नमः॑ । इन्द्रा॑य । वो॒च॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhibhuve* ← *\_* ← *√\_*
 - \[?\]
@@ -102,36 +102,36 @@ genre M
 अभिभुवे सर्वस्याभिभवित्रे अभिभङ्गायअसुराणाम्भच्चकाय वन्वतेवनषणसम्भक्तौ व्यत्ययेनउप्र- त्ययः शत्रूणान्धनानांसम्भक्ते अषाह्ळाय सहेःकर्मणिनिष्ठा उत्वाभावश्छान्दसः शत्रुभिरनभिभूतायस हमानायसर्वंसहायवेधसे सर्वस्यविधात्रेतुविग्रये पूर्णग्रीवाय यद्वा गॄशब्दे औणादिकः कर्मणिकप्रत्ययः तुविभिर्बहुभिःस्तोतव्यायवह्वयेसर्वस्यवोढ्रेदुष्टरीतवेअन्यैर्दुस्तरायदुर्हिंसायवासत्रासहेसर्वदाभिभवि त्रेमहतोभिभवित्रेवा एव्ंविधायेन्द्रायनमः नमः शब्दपूर्वकंस्तोत्रंवोचत हेस्तोतारोयूयम्ब्रूत ब्रूञोलुङि ब्रुवोवचिः अस्यतिवक्तिख्यातिभ्योङित्यङादेशः वचउमित्युम् गुणः ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer adoration to **Indra**, the overcomer, the destroyer, the munificent, the invincible, the all-enduring, the creator, the all-adorable; the sustainer, the unassailable, the ever-victorious.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To him dominating, breaking, conquering, to the never-overpowered,  overpowering adept;  
 to him, the powerfully spirited draft-horse, impossible to surpass; to him  overpowering in every way—to Indra speak homage.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him the potent One, who conquers and breaks down, the Victor never vanquished who disposes all,  
      The migbty-voiced, the rider, unassailable, to Indra everconquering speak your reverent prayer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem überlegenen, zerstörenden, gewinnenden, unbezwungenen Bezwinger, dem Meister, dem lautrufenden, unüberwindlichen Wagenlenker, dem völlig bezwingenden Indra sprechet ein Huldigungswort!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem übermächt'gen, der bezwinget und zerbricht, dem unbesiegten Sieger, welcher treulich sorgt, Der viel verschlinget, stürmend, unbezwingbar ist, dem Allbezwinger Indra bringt Verehrung dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Превосходящему (всех), проламывателю, покорителю,  
 Не осиленному, (но) осиливающему, распорядителю,  

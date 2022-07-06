@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋभुतो꣡ रयिः꣡ प्रथम꣡श्रवस्तमो  
 वा꣡जश्रुतासो य꣡म् अ꣡जीजनन् न꣡रः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡ देवासो अ꣡वथा स꣡ वि꣡चर्षणिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒भ्व॒ऽत॒ष्टः । वि॒दथे॑षु । प्र॒ऽवाच्यः॑ । यम् । दे॒वा॒सः॒ । अव॑थ । सः । विऽच॑र्षणिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛbhuto* ← *ṛbhutaḥ* ← *ṛbhu*
 - \[noun\], ablative, singular, masculine
@@ -119,36 +119,36 @@ genre M
 **ऋभुतः** ऋभूणां सकाशात् **प्रथमश्रवस्तमः** प्रथमं मुख्यमतिशयितं श्रवः अन्नं यशो वा यस्य धनस्य तत् **रयिः** धनम् । अस्माकं भवत्विति शेषः । **वाजश्रुतासः** वाजैः अन्नैः सह विख्याताः **नरः** नेतारः ऋभवः **यं** रयिम् **अजीजनन्** उत्पादितवन्तः । **विभ्वतष्टः** विभ्वभिर्ऋभुभिस्तष्टः तक्षणसंपन्नश्चमसोऽश्विनो रथो वा **विदथेषु** यज्ञेषु **प्रवाच्यः** प्रकर्षेण स्तुत्यः । हे **देवासः** द्योतमानाः यूयं **यं** रथं चमसं वा **अवथ** रक्षथ । **स** **विचर्षणिः** विविधं द्रष्टा भवति द्रष्टव्यो भवतीत्यर्थः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “From the **Ṛbhus** may wealth, the best and most productive of food, (come to me); that which the leaders of rites renowned together with the **Vājas**, have engendered; that which has been fabricated by Vibhvan and is to be celebrated at sacrifice; that which, deities you protect, that is to be beheld.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From the R̥bhus comes wealth that best brings the foremost fame, which  the men famed as Vājas have produced,  
 that is fashioned by the Vibhvans, that is to be proclaimed at the ritual  distributions. Whom you help, o gods, he has wide boundaries.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealth from the Rbhus is most glorious in renown, that which the Heroes, famed for vigour, have produced.  
      In synods must be sung the car which Vibhvan wrought: that which ye favour, Gods! is famed among mankind.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von Ribhu´s stammt der erstberühmteste Reichtum, den die durch Vaja berühmten Herren erzeugt haben, der von Vibhvan gezimmerte in weisen Reden zu rühmende. Wen ihr Götter begünstiget, der zeichnet sich vor der Menge aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Ribhu's stammt der erstgerühmte Reichthum her, den die durch Vadscha hochberühmte Schar erschuf, Den Vibhvan machte, der bei Festen preisenswerth; wem ihr, o Götter, helfet, der ist lebensfrisch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 От Рибху (идет) богатство, первое среди самых прославленных,  
 Которое породили мужи, известные (под именем) Ваджа,  

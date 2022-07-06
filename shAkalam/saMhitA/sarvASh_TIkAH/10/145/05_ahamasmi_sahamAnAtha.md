@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अह꣡म् अस्मि स꣡हमाना  
 अ꣡थ त्व꣡म् असि सासहिः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सप꣡त्नीम् मे सहावहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (525)
 उ॒भे इति॑ । सह॑स्वती॒ इति॑ । भू॒त्वी । स॒ऽपत्नी॑म् । मे॒ । स॒हा॒व॒है॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -98,36 +98,36 @@ popular;; epic anuṣṭubh (525)
 हे ओषधि **अहं** त्वत्प्रसादात् ”सहमाना ”अस्मि सपत्न्या अभिभवित्री भवामि । ”अथ अपि च **त्वम्** अपि **सासहिः** ”असि तस्या अभिभवित्री भवसि । आवाम् **उभे** अपि **सहस्वती** अभिभवित्र्यौ ”भूत्वी भूत्वा ”मे मम ”सपत्नीं ”सहावहै अभिभवाव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am triumphing, you are triumphant; we two being powerful will triumph over my rival.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am gaining victory, and you [=plant] are victorious.  
 Both having become victoriously mighty, we two shall be victorious over  my cowife.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I am the conqueror, and thou, thou also act victorious:  
      As victory attends us both we will subdue my fellow-wife.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin die Siegende und du bist die Siegerin. Beide siegesstark geworden wollen wir meine Nebenbuhlerin besiegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin es, die den Sieg gewinnt, und du, o Kraut, bist siegreich auch; Wir beide wollen siegbegabt besiegen meine Nebenfrau.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я – побеждающая,  
 И ты – победоносная.  

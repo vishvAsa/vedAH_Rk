@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् ईं गण꣡स्य रशना꣡म् अ꣡जीगः  
 शु꣡चिर् अङ्क्ते शु꣡चिभिर् गो꣡भिर् अग्निः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उत्ताना꣡म् ऊर्ध्वो꣡ अधयज् जुहू꣡भिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आत् । दक्षि॑णा । यु॒ज्य॒ते॒ । वा॒ज॒ऽयन्ती॑ । उ॒त्ता॒नाम् । ऊ॒र्ध्वः । अ॒ध॒य॒त् । जु॒हूभिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre M
 **यत्** यदा **ईम्** अयमग्निः **गणस्य** संघात्मकस्य जगतः **रशनां** रज्जुमिव व्यापारप्रतिबन्धकं तमः **अजीगः** । गिरति गृह्णाति वा । समिद्धो भवतीत्यर्थः । तदा **शुचिः** दीप्तः **अग्निः** शुचिभिर्गोभिः दीप्तैः रश्मिभिः **अङ्क्ते** व्यनक्ति विश्वं जगत् । **आत्** अनन्तरमेव **दक्षिणा** प्रवृद्धा **वाजयन्ती** अन्नमिच्छन्त्याज्यधारा **युज्यते** युक्ता भवति । अथवा दक्षिणा प्रवृद्धाज्यधारा युज्यते । तां च धाराम् **उत्तानाम्** ऊर्ध्वतानामुपरि विस्तृताम् **ऊर्ध्वः** उन्नतः सन् **जुहूभिः** **अधयत्** पिबति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,34 +137,34 @@ The confining girdle of the aggregated world: yadīm gaṇasya raśanām ajīga�
 Recumbent: uttānam = vistṛtam, an epithet of ājyādhāram, stream of ghī
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When he has awakened the bridle [=the hymn] of the (priestly) troop,  blazing Agni is anointed with blazing cows [=milk].  
 Then Reward is harnessed, racing toward the prize. Tall, with his tongues  he suckled upon her [=the Ladle], who is stretched out.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When he hath stirred the line of his attendants, with the pure milk pure Agni is anointed.  
      The strength-bestowing gift is then made ready, which spread in front, with tongues, erect, he drinketh.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When he has wakened the string of the crowd (of worshippers) 1, the bright Agni anoints himself with bright cows 2. Then the Dakshinâ is yoked, striving for gain 3. He who stands upright has, by the sacrificial ladles, sucked her who lies extended 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn er das Seil der Schar erweckt hat, wird der reine Agni mit reinem Kuhschmalz gesalbt. Dann wird die gewinnbringende Daksina angeschirrt. Aufrecht stehend saugte er mit seinen Zungen durch die Schmalzlöffel an der Ausgestreckten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er den Strang der Flammenschar bewegt hat, so salbt sich Agni hell mit heller Butter; Dann wird geschirrt die nahrungsreiche Milchkuh; die da lag, leckte stehend er mit Zungen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же он разбудил повод (целой) толпы,  
 То чистый Агни смазывается (струями) коровьего (масла).  

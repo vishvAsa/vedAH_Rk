@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अयं꣡ दीर्घा꣡य च꣡क्षसे  
 प्रा꣡चि प्रयति꣡ अध्वरे꣡  
 मि꣡मीते यज्ञ꣡म् आनुष꣡ग् विच꣡क्षिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 मिमी॑ते । य॒ज्ञम् । आ॒नु॒षक् । वि॒ऽचक्ष्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -80,7 +80,7 @@ genre M;; line affected by realignment
 **प्राचि** प्राचीने प्रागायते यज्ञगृहे **अध्वरे** हिंसारहिते यज्ञे **प्रयति** गच्छति प्रवर्तमाने सति **अयम्** इन्द्रः प्रवर्तमानं तं **यज्ञमानुषक्** अनुषक्तमानुपूर्व्येण **विचक्ष्य** विशेषेण दृष्ट्वा **मिमीते** निष्पादयति । किमर्थम् । **दीर्घाय** आयताय **चक्षसे** दर्शनाय । यद्वा । द्रष्टव्याय फलाय ॥ ॥१२॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,13 +91,13 @@ genre M;; line affected by realignment
 Distant object: for future rewards; "this (Indra)for a long prospect, in the east proceeding sacrifice, measures, having considered in succession the sacrifice",agam dīrghāya cakṣase **prācī** **prayati** adhvare mimīte yajñam anuṣag vicakṣya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one—to take the long view while the rite is going forth toward  the east—  
 measures the sacrifice in proper order, having surveyed it.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse uses some of the material found in the previous hymn, also in Uṣṇih: prā́ci prayaty àdhvaré is a heavy variant of prā́dhvaré (that is, prá adhvaré) of VIII.12.31-33; mímīte is identical to the refrain mímīta íd (12.10-12); ānuṣák occurs in 12.11.
 
@@ -110,23 +110,23 @@ Geldner’s interpretation of ab is quite different from mine, and seems to envi
 The only other occurrence of dīrghā́ya cákṣase is in I.7.3, where Indra puts the sun in the sky for this purpose. See remarks ad loc., where I point out that the expression can be either temporal or locational or both.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That we may long behold the light, what time the ordered rite proceeds,  
      He duly measures, as he views, the sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läßt sich lange sehen, während das Opfer weiter vor sich geht; er mißt das Opfer mit dem Blick prüfend richtig ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er eilt, um weit sich umzuschaun bei vorgerücktem Gottesdienst, Bestimmt des Opferwerks Verlauf, wenn er's geschaut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его долго видно,  
 Когда протекает обряд.  

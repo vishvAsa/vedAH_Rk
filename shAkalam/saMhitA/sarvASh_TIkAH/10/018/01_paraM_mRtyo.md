@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रम् मृत्यो अ꣡नु प꣡रेहि प꣡न्थां  
 य꣡स् ते सुव꣡ इ꣡तरो देवया꣡नात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ नः प्रजां꣡ रीरिषो मो꣡त꣡ वीरा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 चक्षु॑ष्मते । शृ॒ण्व॒ते । ते॒ । ब्र॒वी॒मि॒ । मा । नः॒ । प्र॒ऽजाम् । रि॒रि॒षः॒ । मा । उ॒त । वी॒रान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *param* ← *para*
 - \[noun\], accusative, singular, masculine
@@ -135,7 +135,7 @@ popular
 हे **मृत्यो** सर्वेषां मारकैतन्नामक देव **परम्** अन्यं **पन्थां** पन्थानम् **अनु** आनुपूर्व्येण **परेहि** पराङ्मुखो गच्छ। यजमानादिति शेषः । कोऽसौ पन्थाः । **ते** तव **स्वः** स्वभूतः **देवयानात्** । देवा अनेन मार्गेण गच्छन्तीति देवयानो देवमार्गः। तस्मात् **इतरः** यः पन्थाः तं प्रगच्छ । न केवलमतः परागच्छ अपि तु **चक्षुष्मते** दर्शनवते **शृण्वते** सर्वम् । अप्रतिहतसर्वेन्द्रियविज्ञानायेत्यर्थः । **ते** तुभ्यं **ब्रवीमि** कथयामि । **नः** अस्माकं **प्रजां** दुहितृदौहित्रात्मिकां **मा** **रिरिषः** मा हिंसीः । **उत** अपि च **वीरान्** पुत्रपौत्रादीन् **मा** हिंसीः । तत्परागमनेन रक्षेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,34 +146,34 @@ popular
 Offspring:prajām = feminine le offspring; or, santatim, descendants, family successors
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Depart, Death, along the further path, which is your own, different from  the one leading to the gods.  
 To you who possess eyes and who listen do I speak: do not harm our  offspring nor our heroes.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Go hence, O Death, pursue thy special pathway apart from that which Gods are wont to travel.  
      To thee I say it who hast eyes and hearest: Touch not our offspring, injure not our heroes.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Depart, O Death, along the farthest pathway, Which is thine own, not that by mortals trodden. I speak to thee that hast both eyes and hearing: Do not our offspring injure nor our heroes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zieh, Tod, die andere Straße weiter, die deine eigene ist, verschieden von der gottbegangenen! Dir, der Augen hat und hört, sage ich: Schädige weder unsere Kinder noch die Mannen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zieh weit von hier, o Tod, auf deine Strasse, die fern ist von dem gottbetretnen Pfade, Ich sprech' zu dir, der Augen hat und höret, Verletz uns nicht die Kinder noch die Männer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прочь, о Смерть! Ступай другим путем!  
 Твой собственный (путь) иной, чей (путь,) исхоженный богами.  

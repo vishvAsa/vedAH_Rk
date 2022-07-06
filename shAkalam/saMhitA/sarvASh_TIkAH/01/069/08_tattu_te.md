@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् तु꣡ ते दं꣡सो य꣡द् अ꣡हन् समानइ꣡र्  
 नृ꣡भिर् य꣡द् युक्तो꣡ विवे꣡ र꣡पांसि†
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 तत् । तु । ते॒ । दंसः॑ । यत् । अह॑न् । स॒मा॒नैः । नृऽभिः॑ । यत् । यु॒क्तः । वि॒वेः । रपां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -90,18 +90,18 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे अग्ने **ते** तव संबन्धीनि **एता** **व्रता** एतानि परिदृश्यमानानि दर्शपूर्णमासादीनि कर्माणि **नकिः** **मिनन्ति** राक्षसादयो बाधका न हिंसन्ति । **यत्** यस्मात् त्वम् **एभ्यः** कर्मसु वर्तमानेभ्यः **नृभ्यः** यज्ञस्य नेतृभ्यो यजमानेभ्यः **श्रुष्टिम्** । शु आशु अश्नुते व्याप्नोतीति श्रुष्टिर्यज्ञफलरूपं सुखम् । तत् **चकर्थ** कृतवानसि । सति हि तव व्रतानां बाधके एतन्नोपपद्यते । अतोऽवगम्यते तव व्रतानां हिंसका न सन्तीति । हे अग्ने **ते** त्वदीयं **तत्तु** **दंसः** तदेव कर्म **यत्** यदि राक्षसादिः **अहन्** हन्ति नाशयति तदानीं **समानैः** सप्तगणरूपेण सदृशैः **नृभिः** नेतृभिर्मरुद्भिः **युक्तः** त्वं **रपांसि** बाधकानि राक्षसादीनि **यत्** यस्मात् त्वम् **विवेः** गमयसि पलायनं प्रापयसि । तस्मात् तव व्रतानि न हिंसन्तीति योज्यम् ॥ मिनन्ति । ' मी हिंसायाम् । क्रैयादिकः । ‘ प्वादीनां ह्रस्वः' इति ह्रस्वस्वम् । विवेः । ‘ छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लङ्। वी गत्यादिषु । सिपि अदादित्वात् शपो लुकि प्राप्ते ‘ बहुलं छन्दसि' इति शपः श्लुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is your wondrous power: that on (the same) day,  
 yoked with the same men, you carry out your tasks.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first hemistich has 11 syllables and is best interpreted as a Triṣṭubh, with Holland & van Nooten Rig Veda edition.
 
@@ -112,27 +112,27 @@ without specifying an object and esp. announcing this action as his particular �
 With Oldenberg (SBE and Noten) I read vivér ápāṃsi, against Pp. vivé rápāṃsi; Oldenberg’s parallels are very persuasive, and this analysis does not require a change in the Saṃhitā text. Geldner’s tr. appears to follow the Pp. reading, however, as does Renou’s, though in his n. he accepts Oldenberg’s reading.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 तत्तु ते॒ दंसो॒ यदह॑न्त्समा॒नैर्नृभि॒र्यद्यु॒क्तो वि॒वे रपां॑सि ॥
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 That verily is thy wonderful deed that thou hast killed 1, with thy companions, (all foes), that, joined by the heroes, thou hast accomplished thy works 2.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das aber ist dein Meisterstück, daß was du zerstörtest, du diesen Schaden wieder gutmachst im Bunde mit den gleichgearteten Herren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Niemand kann hemmen – all dies dein Wirken, wenn diesen Männern – Gehör du schenkest; Das ist dein Werk ja, – dass du verbündet mit gleichen Helden – Schmach schlägst und tilgest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

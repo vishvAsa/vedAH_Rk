@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु कृष्णे꣡ व꣡सुधिती  
 येमा꣡ते विश्व꣡पेशसा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 याहि꣡ सुत꣡स्य पीत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वायो॒ इति॑ । आ । च॒न्द्रेण॑ । रथे॑न । या॒हि । सु॒तस्य॑ । पी॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -99,7 +99,7 @@ genre M;; repeated line
 **कृष्णे** कृष्णवर्णे **वसुधिती** वसूनां धात्र्यौ **विश्वपेशसा** विश्वरूपे द्यावापृथिव्यौ त्वाम् **अनु** **येमाते** अनुगच्छतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -110,37 +110,37 @@ genre M;; repeated line
 Dark nurses of wealth: kṛṣṇe vasudhitī = kṛṣṇavarṇe vasunām dhātryau
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two black treasure chambers [=Night and Dawn], with all their  ornaments, have directed themselves after each other in turn.  
 – O Vāyu, drive here with your glittering chariot, to drink of the pressed  (soma).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. assume that Night and Dawn are directing themselves towards Vāyu. I think rather that they are simply following each other in the normal daily succession. Since Vāyu comes at dawn, the transition between the two temporal halves is simultaneous with his journey.
 
 On the “two black treasure chambers” (kṛṣṇé vásudhītī), see Bloomfield (RReps ad III.31.17): “The words krṣṇ̥ é and vásudhitī are both dvandva ekaśeṣa 'black (Night) and (Uṣas)' is a way of saying náktoṣā́sā; conversely 'treasure-giving (Morn) and black (Night)' is uṣā́sānáktā. Cf. Berg. i.250.” In other words, kṛṣṇá- is applicable to Night, vásudhīti- to Day, but the two are conflated into a single dual expression.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The two dark treasuries of wealth that wear  
      all beauties wait on thee.  
      O Vayu, on refulgent car come to the drinking of the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Schatzhalterinnen, die schwarze Nacht und die helle Usas, die allfarbigen haben sich darnach gerichtet. Komm, Vayu, auf schimmerndem Wagen zum Trunke des Soma!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die dunkeln, allgestaltigen Schatzkammern beide folgen nach; Auf lichtem Wagen komme her, o Vaju, zu des Saftes Trunk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Два вместилища благ: черная (ночь и светлая заря),  
 Покрытые всеми украшениями, последовали (за тобой).  

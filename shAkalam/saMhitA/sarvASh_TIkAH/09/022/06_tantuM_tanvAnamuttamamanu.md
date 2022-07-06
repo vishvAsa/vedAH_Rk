@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡न्तुं तन्वान꣡म् उत्तम꣡म्  
 अ꣡नु प्रव꣡त आशत  
 उते꣡द꣡म् उत्तमा꣡यियम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒त । इ॒दम् । उ॒त्त॒माय्य॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
@@ -77,7 +77,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **तन्तुं** यज्ञं **तन्वानम्** **उत्तमम्** उत्कृष्टं सोमम् **अनु** **आशत** **प्रवतः** नद्यः । **उत** अपि च **इदं** कर्म अनेन सोमेन **उत्तमाय्यम्** उत्तमीकृतम्। अथवा तन्तुं तन्वानं सोमं प्रवतोऽधःस्थिताः सर्वा अन्वाशत । उतेदमुत्तमाख्यं रजः । द्युलोक इत्यर्थः । सोऽप्यन्वश्नुते पृथिव्या चान्तरिक्षेण च । उत्तमीकृतमुत्तमाय्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -88,12 +88,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 As it spreads out the sacrifice: tantum = yajñam; or, alternatively, straining-cloth; 'descending river fills out the outspread threads'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They have reached the highest thread being stretched, along the inclines, and this one that is to be higher still.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -113,23 +113,23 @@ As noted in the published introduction, vs. 7 stands somewhat apart from the res
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over the heights have they attained the highest thread that is spun out,  
      And this which must be deemed most high.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem ausgespannten höchsten Faden entlang haben sie ihre Bahnen verfolgt und diese höchste .....,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den höchsten Faden webend jetzt erreichten sie die Wolkenhöhn Und diesen höchsten Himmelsraum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 По нити, протянутой вверх,  
 Они достигли высот  

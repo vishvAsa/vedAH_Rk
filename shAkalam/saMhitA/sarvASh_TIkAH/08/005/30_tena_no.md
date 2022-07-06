@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡न नो वाजिनीवसू  
 पराव꣡तश् चिद् आ꣡ गतम्  
 उ꣡पेमां꣡ सुष्टुति꣡म् म꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उप॑ । इ॒माम् । सु॒ऽस्तु॒तिम् । मम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
@@ -87,36 +87,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वाजिनीवसू** अन्नवद्धनावश्विनौ य उक्तो हिरण्मयसर्वावयवो रथः **तेन** रथेन **नः** अस्मान् **परावतश्चित्** दूरदेशादपि **आ** **गतम्** आगच्छतम्। गमेश्छन्दसः शपो लुक् । 'अनुदात्तोपदेश इत्यनुनासिकलोपः । इदानीमृषिरेकवदाह । **मम** मदीयाम् **इमाम्** इदानीं क्रियमाणां **सुष्टुतिं** शोभनां स्तुतिं चोपगच्छतम् ॥ ॥ ६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come to us, affluent in sacrifices, from afar, come to this mine adoration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With it [=chariot] come here to us even from afar, o you rich in  prize mares,  
 to this good praise of mine.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thereon, ye Lords of ample wealth, come to us even from afar,  
      Come ye to this mine eulogy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem kommet, ihr Gewinnreichen, selbst von Ferne zu uns, zu diesem Lobgesang von mir!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit dem, o güterreiche, kommt herbei aus weiter Ferne auch Zu diesem meinen Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На ней, о богатые наградами,  
 Приезжайте даже издалека  

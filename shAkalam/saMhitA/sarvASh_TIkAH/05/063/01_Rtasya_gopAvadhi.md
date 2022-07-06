@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡तस्य गोपाव् अ꣡धि तिष्ठथो र꣡थं  
 स꣡त्यधर्माणा परमे꣡ वि꣡ओमनि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 त꣡स्मै वृष्टि꣡र् म꣡धुमत् पिन्वते दिवः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यम् । अत्र॑ । मि॒त्रा॒व॒रु॒णा॒ । अव॑थः । यु॒वम् । तस्मै॑ । वृ॒ष्टिः । मधु॑ऽमत् । पि॒न्व॒ते॒ । दि॒वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -123,36 +123,36 @@ genre M
 हे **ऋतस्य** उदकस्य **गोपौ** रक्षितारौ **सत्यधर्माणा** सत्यधर्माणौ युवां **रथम्** **अधि** **तिष्ठथः** । आरोहथोऽस्मद्यज्ञमागमनार्थम् । कुत्र । **परमे** **व्योमनि** निरतिशये आकाशे । हे मित्रावरुणौ **युवं** युवाम् **अत्र** अस्मिन् यज्ञे **यं** यजमानम् **अवथः** रक्षथः **तस्मै** यजमानाय **वृष्टिः** पर्जन्यः **मधुमत्** उदकं **दिवः** द्युलोकात् **पिन्वते** सिञ्चति वर्धयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Guardians of water, observers of truth, you ascend your car in the highest heaven; to him whom you, **Mitra** and **Varuṇa**, protect, the rain sends down the sweet (shower) from the sky.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O herdsmen of the truth, o you whose nature holds true, you two stand  upon your chariot in the most distant heaven.  
 For him whom you two help here, Mitra and Varuṇa, the rain swells rich  in honey from heaven.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GUARDIANS of Order, ye whose Laws are ever true, in the sublimest heaven your chariot ye ascend.  
      O Mitra-Varuna whomsoe'er ye: favour, here, to him the rain with sweetness streameth down from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Hüter des Gesetzes, deren Satzungen gültig sind, ihr beide besteiget den Wagen im höchsten Himmel. Wem ihr hier gewogen seid, Mitra und Varuna, für den quillt der Regen die Süßigkeit des Himmels.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gesetzeshüter, ihr besteigt den Wagen nun, ihr Rechtbeschirmer in dem höchsten Himmelsraum; Wem hier, o Mitra-Varuna, ihr hülfreich seid, dem schwillt des Himmels Regen voll von Süssigkeit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О хранители закона, вы восходите на колесницу,  
 О те, чьи установления истинны, на высшем небе.  

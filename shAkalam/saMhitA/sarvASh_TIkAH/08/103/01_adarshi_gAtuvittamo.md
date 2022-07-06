@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दर्शि गातुवि꣡त्तमो  
 य꣡स्मिन् व्रता꣡नि आदधुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अग्निं꣡ नक्षन्त नो गि꣡रः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उपो॒ इति॑ । सु । जा॒तम् । आर्य॑स्य । वर्ध॑नम् । अ॒ग्निम् । न॒क्ष॒न्त॒ । नः॒ । गिरः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
@@ -113,36 +113,36 @@ genre M
 **यस्मिन्** अग्नौ **व्रतानि** कर्माणि **आदधुः** यजमाना आदधन् **गातुवित्तमः** अतिशयेन मार्गाणां ज्ञाता सोऽग्निः **अदर्शि** प्रादुरभूत् । किंच **सु** **जातं** सम्यक् प्रादुर्भूतम् अस्य **आर्यस्य** उत्तमवर्णस्य **वर्धनं** वर्धयितारम् **अग्निं** **नः** अस्माकं **गिरः** स्तुतिरूपा वाचः **उपो** **नक्षन्त** उपगच्छन्त्येव ॥ " नक्ष गतौ ' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, in whom they offer the sacrifices, has appeared-- he who knows all ways; our praises rise to **Agni**,auspiciously born, the helpeer of the **Ārya**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has just appeared, the best pathfinder, in whom they have established  the commandments.  
 Right up to him just born, the increaser of the Ārya, to Agni have our  hymns reached.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THAT noblest Furtherer hath appeared, to whom men bring their holy works.  
      Our songs of praise have risen aloft to Agni who was barn to give the Arya strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der beste Pfadfinder ist erschienen, auf welchen sie die frommen Gebräuche gegründet haben. Dem eben Geborenen, dem Mehrer des Ariers, dem Agni nahen fein unsere Lobesworte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Wohlfahrt spendendste erschien, dem alle ihre Dienste weihn, Den Agni, den erzeugten, der den Arjer stärkt, erreiche unser Lobgesang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он показался, лучше всех находящий выход,  
 (Тот,) в кого они вложили (свои) заветы.  

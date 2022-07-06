@@ -3,7 +3,7 @@ title = "+04"
 
 +++
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The IVth Maṇḍala is the product of the Vāmadeva family, with almost all of  its fifty-eight hymns attributed to the eponymous clan poet himself, Vāmadeva  (Gautama). 
 
@@ -19,7 +19,7 @@ The transcendent racehorse Dadhikrā is the recipient of three hymns (38–40).
 The final two hymns, 57 and 58, are unique in the R̥gveda. The first is dedicated to  agricultural gods, a striking departure for a text that focuses on stock-breeding and  barely mentions agriculture, and the second celebrates the ritual substance ghee  (melted butter), a material offering fundamental to the ritual but meriting only one  hymn in the R̥gveda, as opposed to the many allotted to its parallel substance soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Commentary IV
 </details>

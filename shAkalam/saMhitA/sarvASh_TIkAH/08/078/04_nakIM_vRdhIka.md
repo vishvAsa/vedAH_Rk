@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡कीं वृधीक꣡ इन्द्र ते  
 न꣡ सुषा꣡ न꣡ सुदा꣡ उत꣡  
 ना꣡न्य꣡स् त्व꣡च् छूर वाघ꣡तः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 न । अ॒न्यः । त्वत् । शू॒र॒ । वा॒घतः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakīṃ* ← *nakīm*
 - \[adverb\]
@@ -104,43 +104,43 @@ genre M
 हे **इन्द्र** **ते** त्वत्तोऽन्यः कश्चित् **वृधीकः** वर्धयिता **नकीं** नैव । तथा **सुषाः** सुष्ठु संभक्ता संग्रामादौ त्वत्तोऽन्यः **न** । **उत** अपि च **सुदाः** सुदाता **न** । तथा हे **शूर** **त्वत्** त्वत्तोऽन्यः **वाघतः** । ऋत्विग्नामैतत् । ऋत्विजो यजमानस्य नेता **नान्यः** अस्ति त्वामृते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “There is no prosperer other than you, no divider of the spoil, no giver of boons; O hero, there is no(leader) of the sacrificer other than you.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never is another man within your abundance, Indra. There is no good  winner and no good giver  
 other than you for the cantor, o champion.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda is somewhat puzzling, though I may have made more of the puzzles in the tr. than was necessary. The issue is the hapax vṛdhīká-. The standard tr.
 
 and comm. take this, with the Pp., as nom. vṛdhīkáḥ and interpret it as an agent noun: Geldner, AiG II.2.428, EWA (s.v. VARDH), Scarlatta (211, 584) ‘Bereicherer’ (though cf. Grassmann ‘gewachsen’), parallel to the nominatives in b and c. But uncompounded -īká-stems are often neuters and sometimes used in the loc., which would be possible here (vṛdhīké), contra Pp. Cf. VIII.48.12 mṛḷīké asya sumataú syāma “May we be in his mercy and good grace.” I was also troubled by three other facts: 1) Taking the whole verse as a single clause, as Geldner does, runs into the problem that te in pāda a is coreferential with tvát in c, and the two pronouns should, in my opinion, have two different functions. (Geldner, n., says te is pleonastic+++(=redundant)+++.) 2) I would prefer that nákīm (a) and nā́nyáḥ (c) not simply be conflated, as Geldner seems to do. 3) The next verse also begins with nákīm (the only two occurrences of this form in the RV), which is followed by a nominal in an oblique case, in that case a datival infinitive níkartave (and its parallel in b, páriśaktave), and I would prefer that 4a have a structure that at least also involves an oblique case. A similar impulse may account for Renou’s apparent derivation of vṛdhīká- from the infinitive *vṛdhé, as reported in AiG II.2.418 (BSL 38: 80 n. 1 [“Infinitifs et dérivés nominaux dans le Ṛgveda”]). Putting all this together, I take vṛdhīka as loc. vṛdhīké, somewhat in the sense of mṛḷīké in the passage quoted above (“in the sphere of your increase,” that is, in the abundance of your giving), with te dependent on it. However, on re-examination of the passage I think I may have overthought it, and an interpretation more like Geldner/Scarlatta may be less fussy - though the reservations expressed above remain. I must also admit that my published translation requires anyáḥ of c to be read also with a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None other is there for the priest, Hero! but thou, to give him gifts,  
      To win much spoil and prosper him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn es gibt keinen anderen Bereicherer oder guten Lohner und guten Schenker für den Sänger als dich, Held Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Niemand, o Indra, kommt dir gleich, kein andrer ist, der so wie du Dem Frommen Schönes schafft und gibt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धायि धीति꣡र् अ꣡ससृग्रम् अं꣡शास्  
 तीर्थे꣡ न꣡ दस्म꣡म् उ꣡प यन्ति ऊ꣡माः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡वेदसो अमृ꣡तानाम् अभूम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒भि । आ॒न॒श्म॒ । सु॒वि॒तस्य॑ । शू॒षम् । नवे॑दसः । अ॒मृता॑नाम् । अ॒भू॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
@@ -116,7 +116,7 @@ genre M
 **धीतिः** देवयागक्रिया **अधायि** निहिता स्थापिता । अस्माभिः प्रवर्तितेत्यर्थः । तदनन्तरम् **ऊमाः** अवितारस्तर्पयितारः **अंशाः** अस्माभिर्दत्ता हविर्भागाः **दस्मं** दर्शनीयं शत्रूणामुपक्षपयितारं वा **अससृग्रम्** असमानसृष्टिम् । उत्कृष्टजन्मानमित्यर्थः । एवंभूतं देवसंघम् **उप** **यन्ति** उपगच्छन्ति । तत्र दृष्टान्तः । **तीर्थे** **न** । यथा गङ्गादितीर्थे तर्पणमुखे विसृष्टा अपामंशाः देवसंघमुपगच्छन्ति तद्वत् । तदनन्तरं वयं **सुवितस्य** सु इतस्य सुष्ठु प्राप्तस्य स्वर्गादिकस्य **शूषं** सुखम् **अभ्यानश्म** अभिप्राप्नवाम। किंच वयम् **अमृतानां** देवानां **नवेदसः** । न वेदेत्येतस्मिन्नर्थे नवेदः शब्दो ‘नभ्राण्नपान्नवेदा' इति निपातितः । न न वेत्तारो वेत्तार एव । स्वरूपतो ज्ञातार एवेत्यर्थः । **अभूम** भवेमेत्याशास्महे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,7 +127,7 @@ genre M
 Waters at a holy spot: as at a **tīrtha** (sacred ford) theportions of water sprinkled in the act of **tarpaṇa** (libation) go to the assembly of the gods; may we have a realknowledge: navedasaḥ = na na vettāro vettāra eva, i.e., svarūpato jñātāra eva, knowing person nally; thederivation is: not-knowers (cf. also **Pāṇini** 6.3.75); na paretam **vetti**, he does not know falsely
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The insightful thought has been set in place; the (sacrificial) portions  have been sent surging. The helpers [=gods] come close to the  
 wondrous one [=Agni] as if to a ford.  
@@ -135,23 +135,23 @@ We have attained the fortifying (hymn) for our good faring; we have
 become cognizant of the immortals.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The hymn is formed, poured are the allotted portions: as to a ford friends come unto the Wondrous.  
      We have obtained the power of case and comfort, we haVe become acquainted, with Immortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Erkenntnis ist erfolgt; die Anteile des Soma sind eingegossen. Zu einem Meister kommen die Helfer wie zu einer Tränke. Wir haben den Ansporn zu guter Fahrt erreicht; wir sind die Mitwisser der Unsterblichen geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geweiht ist Andacht, Tränke sind ergossen, zum hehren kommen wie zum Born die Freunde; Uns ward zu Theil die Kraft beglückten Lebens, wir wurden der Unsterblichen Vertraute.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Установлена сила видения. Налиты доли.  
 К удивительному подходят помощники, словно (коровы) на водопой.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ई मृजन्ति आय꣡वो  
 ह꣡रिं नदी꣡षु वाजि꣡नम्  
 इ꣡न्दुम् इ꣡न्द्राय मत्सर꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्दु॑म् । इन्द्रा॑य । म॒त्स॒रम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 **हरिं** हरितवर्णं **वाजिनं** बलिनं **मत्सरं** मदकरं **तं** पवमानम् **ईम्** एनम् **इन्दुं** सोमम् **आयवः** मनुष्या ऋत्विजः **नदीषु** वसतीवरीषु **मृजन्ति** मार्जयन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests cleanse in the (vasatīvarī) waters the green-tinted powerful exhilarating **Indu** for **Indra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him do the Āyus groom in the rivers, the tawny prize-seeker,  
 the drop exhilarating to Indra.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
 <details open><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -104,22 +104,22 @@ No evidence of unity, beyond vājínam (17b), vā́jaṃ (18c), and the vss. are
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Indra, living men adorn the Tawny Courser in the streams, Indu, the giver of delight.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn machen die Ayu´s sauber, den preisgewinnenden Falben in den Flüssen, den berauschenden Saft für Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es striegeln ihn die eifrigen, in Strömen ihn, das schnelle Ross, Den Indu, Indra's Wonnetrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

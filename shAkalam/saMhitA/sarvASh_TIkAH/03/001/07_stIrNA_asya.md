@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्तीर्णा꣡ अस्य संह꣡तो विश्व꣡रूपा  
 घृत꣡स्य यो꣡नौ स्रव꣡थे म꣡धूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मही꣡ दस्म꣡स्य मात꣡रा समीची꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अस्थुः॑ । अत्र॑ । धे॒नवः॑ । पिन्व॑मानाः । म॒ही इति॑ । द॒स्मस्य॑ । मा॒तरा॑ । स॒मी॒ची इति॑ स॒म्ऽई॒ची ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *stīrṇā* ← *stṛ*
 - \[verb noun\], nominative, plural
@@ -123,7 +123,7 @@ genre M
 घृतस्योदकस्य योनौस्थाने अन्तरिक्षे संहतः पुञ्चीभूताः हन्तेःक्विप् विश्वरूपाः नानारूपाः स्तीर्णाः सर्वत्रप्रसृताः अस्याग्नेःरश्मयः मधूनामुदकानां स्रवथेस्रवणे निमित्ते अस्थुस्तिष्ठन्ति पिन्व मानाः पूर्यमाणाः अत्रअग्नौआपः धेनवः सर्वेषां प्रीणयित्र्यः अभवन् समीची समञ्चत्यौ शोभमाने मही महत्यौद्यावापृथिव्यौ दस्मस्यदर्शनीयस्याग्नेर्मातरा मातरौ भवतः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -134,34 +134,34 @@ genre M
 The womb of the waters: the **antarikṣa**, mid-heaven, or the firmament, the region of vapour
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Strewn about and pressing together are his (flames) of all colors in the  womb of ghee and in the stream of the honeyed (soma juices).  
 Here have the swelling cows [=milk offerings] taken their stand. The  two mothers of wondrous (Agni) [=the two fire churning sticks?] are  the two great ones, the two united.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His piles, assuming every form, are scattered where flow sweet waters, at the spring of fatness;  
      There stood the milch-kine with full-laden udders, and both paired Mighty Mothers of the Wondrous.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 His compact masses assuming every shape are spread in the womb of ghee, in the streaming of honey. There the swelling milch-cows have stationed themselves. Great are the parents of the wonderfully mighty (Agni) who are turned towards each other 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ausgebreitet sind seine zusammengefalteten Glieder, die bunten im Schoße des Schmalzes, im Strome der Süßigkeiten. Dort standen die milchstrotzenden Kühe. Die Mütter des Meisters sind das große Paar Himmel und Erde.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vielgestalt'gen Schichten sind gelegt ihm, im Schoss der Butter, in dem Strom der Tränke; Dort standen schon von Milch geschwellt die Kühe, vereint des wunderkräft'gen grosse Aeltern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Расправились его скованные разноцветные (члены)  
 В лоне жира, в потоке медовых струй.  

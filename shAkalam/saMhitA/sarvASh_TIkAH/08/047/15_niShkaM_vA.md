@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 निष्कं꣡ वा घा कृण꣡वते  
 स्र꣡जं वा दुहितर् दिवः  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 त्रि॒ते । दुः॒ऽस्वप्न्य॑म् । सर्व॑म् । आ॒प्त्ये । परि॑ । द॒द्म॒सि॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niṣkaṃ* ← *niṣkam* ← *niṣka*
 - \[noun\], accusative, singular, neuter
@@ -140,7 +140,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे **दिवः** **दुहितः** उषः **निष्कं** वा **घ** आभरणविशेषं वा **कृणवते** कुर्वते स्वर्णकाराय यत् **दुष्वप्न्यं** दृष्टम् । स्वर्णकारेण निर्माणसमये दृष्टमित्यर्थः । घेति पूरणः । वाशब्दश्चार्थे । **वा** अथवा **स्रजं** माल्यं कृणवते । कुर्वाण इत्यर्थः । तस्मिन्नपि मालाकारे मालानिर्माणसमये यद्दुष्वप्न्यं दृष्टं तदुभयविषयं दुःस्वप्नम् **आप्त्ये** अपां पुत्रे **त्रिते** वर्तमानं **परि** **दद्मसि** उपरि दद्मः । वयं त्रिताः परित्यजामेत्यर्थः । अथवा । त्रिते मयि यत् दुष्वप्न्यं दृष्टं तत् स्वर्णकाराय मालाकाराय वा परि दद्मसि । अस्मत्तोऽपि निष्कृष्य तयोरुपरि स्थापयामः ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -151,35 +151,35 @@ popular;; epic anuṣṭubh (525);; repeated line
 Whatever evildream threatens the worker of gold ornaments or the maker of garlands, that evil, abiding in Trita Āptya (or theson of the waters), we **Tṛtas** throw off from ourselves; i.e. we throw it off on Trita Āptya
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He will make (it) his neck ornament or his garland, o Daughter of  Heaven—  
 the whole bad dream we consign to Trita Āptya.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The accent on kṛṇávate is somewhat puzzling. Renou explains it as a reflection of the implicit subordination following on vss. 13 and 14, but perhaps better is the implicit contrast of the vā … vā constuction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even if, O Child of Heaven, it make a garland or a chain of gold,  
      The whole bad dream, whate'cr it be, to Trita Aptya we consign.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn man im Traum sich Goldschmuck anlegt oder einen Kranz, o Tochter des Himmels, all den bösen Traum übergeben wir dem Trita Aptya. - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Legt er sich einen Halsschmuck an und Blumenkranz, o Himmelskind, zu Trita Aptia schaffen wir jedweden bösen Traum hinweg.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Если кому приснится,) что он надевает золотое украшение  
 Или венок, о дочь неба,  

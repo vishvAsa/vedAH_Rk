@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ रो꣡रुवद् वृषभ꣡स् तिग्म꣡शृङ्गो  
 व꣡र्ष्मन् तस्थौ व꣡रिमन्न् आ꣡ पृथिव्याः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 यो꣡ मे कुक्षी꣡ सुत꣡सोमः पृणा꣡ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 विश्वे॑षु । ए॒न॒म् । वृ॒जने॑षु । पा॒मि॒ । यः । मे॒ । कु॒क्षी इति॑ । सु॒तऽसो॑मः । पृ॒णाति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -128,36 +128,36 @@ popular
 **वृषभः** कामानां वर्षिता **तिग्मशृङ्गः** तीक्ष्णरश्मिः **सः** इन्द्रोऽहं **पृथिव्याः** अन्तरिक्षस्य **वर्ष्मन्** वर्ष्मणि । वर्ष्मञ्शब्द उन्नतवचनः स्थिरवचनो वा । एवंभूते **वरिमन्** विस्तीर्णे प्रदेशे **रोरुवत्** भृशं शब्दायमानः सन् **आ** **तस्थौ** आतिष्ठामि । एवंभूतोऽहं **विश्वेषु** सर्वेषु **वृजनेषु** संग्रामेषु **एनम्** ईदृशं वसुक्रं यजमानं **पामि** रक्षामि। **यः** यजमानः **सुतसोमः** अभिषुतसोमः **मे** मम **कुक्षी** उभौ पार्श्वौ **पृणाति** सोमरसपुरोडाशादिहविर्भिः पूरयति । ईदृशं रक्षामीति संबन्धः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra** speaks). (Indra) the showerer (of blessings), having not rays, abides roaring in the resoundingexpanse of the firmament; in all conflicts I defend him, (Vasukra), who, having effused the libation, fills my flanks.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] The sharp-horned bull [=soma] continually bellowing has  mounted to the height (of heaven), upon the expanse of the earth.  
 In all communities I protect him who, having pressed the soma, fills both  my cheeks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loud belloweth the Bull whose horns are sharpened: upon the height above earth's breadth he standeth.  
      That man I guard and save in all his troubles who fills my flanks when he hath shed the Soma.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da steht der spitzhörnige Bulle brüllend in der Höhe und Breite der Erde. In allen Kriegsbedrängnissen schütze ich den, der Soma auspreßt und mir die Seiten füllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Laut brüllend steht der Stier, der scharfgehörnte, in weitem Umkreis auf der Erde Fläche. »Den schütze ich in allen Ortsgemeinden, der mit gepresstem Soma meinen Bauch füllt.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот стоит бык остророгий,  
 Громко ревя во (всю) высь и ширь земли.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ तं꣡ विदाथ य꣡ इमा꣡ जजा꣡न  
 अन्य꣡द् युष्मा꣡कम् अ꣡न्तरम् बभूव  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 असुतृ꣡प उक्थशा꣡सश् चरन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 नी॒हा॒रेण॑ । प्रावृ॑ताः । जल्प्या॑ । च॒ । अ॒सु॒ऽतृपः॑ । उ॒क्थ॒ऽशसः॑॑ । च॒र॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -122,7 +122,7 @@ popular
 हे नराः **तं** विक्षकर्माणं **न** **विदाथ** न जानीथ **य** **इमा** इमानि भूतानि **जजान** उत्पादितवान्' । देवदत्तोऽहं यज्ञदत्तोऽहमिति वयमात्मानं विश्वकर्माणं जानीम इति यदुच्येत तदसत् न ह्यहंप्रत्ययगम्यं  जीवरूपं विश्वकर्मणः परमेश्वरस्य तत्त्वं किंतु **युष्माकम्** अहंप्रत्ययगम्यानां जीवानाम् **अन्तरम्** **अन्यत्** अहंप्रत्ययगम्यादतिरिक्तं सर्ववेदान्तवेद्यमीश्वरतत्त्वं **बभूव** भवति विद्यते । जीवरूपवत्तदपि कुतो न विद्म इति चेत् श्रूयताम् । **नीहारेण** **प्रावृताः** यूयं नीहारसदृशेनाज्ञानेनाच्छन्नाः। अतो न जानीथ । यथा नीहारो नात्यन्तमसन् दृष्टेरावरकत्वात नाप्यत्यन्तं सन् काष्ठपाषाणादिरूपान्तरेण संबद्धुमयोग्यत्वात् एवमज्ञानमपि नात्यन्तमसदीश्वरतत्त्वावरकत्वात् नापि सत् बोधमात्रनिवर्त्यत्वात् । ईदृशेनाज्ञानेन भवन्तः सर्वे जीवा: प्रावृताः । न केवलं प्रावृतत्वं किंतु **जल्प्या** **च** देवोऽहं मनुष्योहमित्याद्यनृतजल्पनेन प्रावृताः । किंच **असुतृपः** केनाप्युपायेन असून्प्राणांस्तृप्यन्तः । उदरंभरा इत्यर्थः । न तु पारमेश्वरं तत्त्वं विचारितवन्तः । न केवलमिहलोकभोगमात्रतृप्ताः **उक्थशासः** नानाविधेषु यज्ञेषु उक्थं प्रउगनिष्केवल्यादिकं शंसन्तः **चरन्ति** पृथिव्यां वर्तन्ते । केवलमैहिकामुष्मिकभोगपरा वर्तध्वेऽतो विश्वकर्माणं देवं न जानीथेत्यर्थः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,7 +135,7 @@ popular
 Ukthaśāsaḥ = singing hymns with aview to gaining felicity in a future state: you are merely anxious for enjoyment in this world and in the next,therefore you know nothing of Viśvakarman; or, you who are engaged in enjoyment of this world or the next,being subject to false knowledge or ignorance, have no knowledge of the Truth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You [=other priests] will not find him who gave birth to these things. For  you another thing has come between.  
 Covered by mist and muttering, feeding on life, they wander about,  
@@ -143,23 +143,23 @@ reciting their solemn speech.
 The next two hymns are dedicated to Battle Fury (Manyú) and assigned to a poet  whose name is transparently derived from the hymn itself, Manyu Tāpasa, or Battle  Fury, son of Fervor (for Fervor, see 83.2d).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye will not find him who produced these creatures: another thing hath risen up among you.  
      Enwrapt in misty cloud, with lips that stammer, hymn-chanters wander and are discontented.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht werdet ihr den finden, der diese Geschöpfe erschaffen hat. Ein anderes tritt euch dazwischen. In Nebel gehüllt und mit Gefasel wandeln die lebenraubenden Liedersprecher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nie seht ihr den, der diese Welt erzeugte, ein andres nur erscheint in eurer Nähe; Gehüllt in Dunkel, unverständlich redend, des Seins geniessend gehn dahin die Dichter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы не сможете найти того, кто породил эти (существа), -  
 (Нечто) иное возникает между вами.  

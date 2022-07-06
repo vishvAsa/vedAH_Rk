@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः सो꣡मे सुअध्वर꣡  
 इयानो꣡ ऽत्यो° न꣡ तोशते  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 पौरे꣡ छन्दयसे ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यम् । ते॒ । स्व॒दा॒ऽव॒न् । स्वद॑न्ति । गू॒र्तयः॑ । पौ॒रे । छ॒न्द॒य॒से॒ । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -106,7 +106,7 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,29 +117,29 @@ Sayana bhashya empty
 **Paura** may be a propername; you approve the summons to (the house of) Paura
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being sped like a steed, he [=Indra] streams to our soma, good at the  ceremony,  
 which our greetings sweeten for you, self-giving one. At Paura’s you  
 take pleasure in the invocation.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Yet another type of variation, whereby the poet plays on distinct but phonologically or semantically similar words. In 49a ā́na stómam / 50a ā́naḥ sóme the common play on sóma- and stóma- is found. In 49b (d)hyānó áśvo ná / 50b iyānó 'tyo ná the phrases are identical in sense and in morphology (medial athematic participle, a-stem nom. sg.) but use two different lexical realizations for both. In 49c yáṃ te svadhāvan svadáyanti / 50c yáṃ te svadāvan svádanti the clauses are identically constructed, the verbs are identical and have identical meanings, though one is a Class I stem, the other an -áya-transitive, and the vocatives are lexically distinct, though rhyming and identically formed. Finally, both d pādas contain a locative indicating the person(s) at whose sacrifice Indra is.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu unserem opferrechten Soma sprengt er eilends her wie ein Roß, den dir, du von selbst Gebender, die Lobreden versüßen. Du heißest die Ladung zu Paura gut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zu unserm schönen Soma eilt er wie ein rascher Renner hin; Den dir die Lieder süss gemacht, der Süss du liebst, beim Paura hörst du gern den Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он рвется вперед, устремившись, словно конь,  
 К нашему соме, (выжатому) на прекрасном обряде,  

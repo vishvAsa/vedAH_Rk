@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उश꣡ना य꣡त् पराव꣡त  
 उक्ष्णो꣡ र꣡न्ध्रम् अ꣡यातन  
 दियउ꣡र् न꣡ चक्रदद् भिया꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 द्यौः । न । च॒क्र॒द॒त् । भि॒या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uśanā*
 - \[noun\], instrumental, singular, feminine
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे मरुतः **उशनाः** । व्यत्ययेन प्रथमा । उशनसा काव्येनर्षिणा स्तूयमाना यूयम् । यद्वा । उशनःशब्दात् ‘सुपां सुलुक्' इति जसः सुः ॥ उशनसः स्तोतॄन् कामयमाना यूयम् **उक्ष्णः** सेक्तुः कामानां वर्षितुरात्मीयस्य रथस्य वृष्टिहेतोरन्तरिक्षस्य वा **रन्ध्रं** मध्यं **परावतः** दूरदेशात् **यत्** यदा **अयातन** अगच्छत ॥ यातेर्लङि मध्यमबहुवचनस्य ‘तप्तनप्तनथनाश्च इनि तनादेशः ॥ तदानीं **द्यौर्न** । अत्र द्युशब्देन तत्रत्यो जनसंघो लक्ष्यते । द्युलोके वर्तमानो जनसंघ इव पार्थिवमपि सर्वं भूतजातं **भिया** युष्मद्वेगजनितथा भीत्या **चक्रदत्** अशब्दयत् अकम्पत वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -94,13 +94,13 @@ Or = uśanāsāḥ, i.e. desiring worshipper, stotṛn kāmayamānāḥ;
 Clamorous: dyaurna cakradad bhiyā = like heaven, calls out with fear
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When you drove with Uśanā from afar to the “loins of the ox” [=Vala  cave?],  
 like heaven it [=cave] roared with fear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like almost every verse involving Uśanā, this one is quite obscure. On the morphology of the name, see my art. in Fs. Jasanoff; for the mythological background and development of Uśanā, chap. 4 in my RV between Two Worlds. I take this verse as a disguised treatment of the Vala myth, with which Uśanā Kāvya is associated elsewhere. Pāda a is also found at I.130.9; there I take Uśanā as an acc. of goal (or perhaps a gen. with a gapped ‘house’), while here I take it as an instr. As discussed in the Fs. Jasanoff article, the word uśánā behaves essentially like an indeclinable in the RV.
 
@@ -111,28 +111,28 @@ A similar circumlocution for the Vala cave is náme góḥ “in the bend of the
 Note the phonetic echo in the initial words of the first two pādas: #uśanā \#ukṣṇas.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When eagerly ye from far away came to the cavern of the Bull,  
      He bellowed in his fear like Heaven.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When eagerly from far ye came Nigh to the cavern of the bull, With fear, like Heaven, he roared aloud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als ihr mit Usanas zu Uksno Randhra aus der Ferne kamt, da brüllte er aus Furcht wie der Himmel donnert.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als ihr von Ferne voll Begier in das Versteck des Stieres drangt, Schrie, wie der Himmel, er vor Furcht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Ушанас (и вы) издалека  
 Прибыли к Укшно Рандхре,  

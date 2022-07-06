@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ भ्रातृत्वं꣡ सुदानवो  
 अ꣡ध द्विता꣡ समानिया꣡  
 मातु꣡र् ग꣡र्भे भरामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 मा॒तुः । गर्भे॑ । भ॒रा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सुदानवः** शोभनदाना आदित्याः **अध** अथ अस्मत्प्रत्यागमनानन्तरं वयं **समान्या** सामान्येन । सुपो ड्यादेशः । पूर्वं सर्वेषां देवानां सांहत्येन ततः **द्विता** द्विधा द्विप्रकारेण च **मातुः** अदितेः **गर्भे** संजातं यद्युष्माकं **भ्रातृत्वं** विद्यते तदिदानीं वयं **प्र** **भरामहे** । प्रभरणमुच्चारणं प्रकाशनं वा । उच्चारयामः प्रकाशयामो वा । सर्वेषां देवानां द्वंद्वशो जननं तैत्तिरीयके स्पष्टमभिहितम् -- ‘ अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत्' (तै. सं. ६. ५. ६) इत्युपक्रम्य ‘तस्यै पूषा चार्यमा चाजायेताम् ' इत्यादिना । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,29 +93,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The legend (**Taittirīya** **Saṃhitā** 6.5.6): **Aditi** is represented asoffering a certain offering to the gods, and as conceiving four of the **Ādityas** on eating the remainder which theygave to her. Thinking to conceive a still nobler offspring, she next eats the whole of the second offering herself,but she only conceives a barren egg. She then offers the third offering to the Ādityas and conceives **Vivasvat**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You of good gifts, now once again in the same way we bring to the fore  our brotherhood with you  
 in the womb of our mother.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Bounteous Ones, from time of old we here set forth our brotherhood,  
      Our kinship in. the Mother's womb.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Darum bringen wir abermals die Bruderschaft gemeinsam im Leibe der Mutter vor, ihr Gabenschöne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir tragen eure Brüderschaft gemeinsam, o schöngebende, An uns schon in der Mutter Leib.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

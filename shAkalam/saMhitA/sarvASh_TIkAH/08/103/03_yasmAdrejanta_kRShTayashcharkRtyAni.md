@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्माद् रे꣡जन्त कृष्ट꣡यश्  
 चर्कृ꣡तियानि कृण्वतः꣡  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 अग्निं꣡ धीभिः꣡ सपर्यत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 स॒ह॒स्र॒ऽसाम् । मे॒धसा॑तौऽइव । त्मना॑ । अ॒ग्निम् । धी॒भिः । स॒प॒र्य॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
@@ -107,21 +107,21 @@ genre M;; repeated line
 **यस्मात्** कारणात् **चर्कृत्यानि** कर्तव्यानि कर्माणि **कृण्वतः** कुर्वाणात् मनुष्यात् **कृष्टयः** इतरे मनुष्याः **रेजन्ते** कम्पन्ते तस्मादिदानीं हे जनाः यूयं **सहस्रसां** गवां धनानां च सहस्रस्य दातारम् **अग्निं** **मेधसातौ** यज्ञे **धीभिः** कर्तव्यैः कर्मभिः **त्मना** आत्मनैव **सपर्यत** परिचरत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Since men tremble before those who perform the sacred sacrifices, therefore, do you devoutly worshipin the solemn rite **Agni** the bestower of thousands of kine.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Before whom the communities tremble, as he performs (deeds) to be  constantly acclaimed,  
 the one who by himself wins thousands as if at the winning of  
 wisdom—serve Agni with insightful thoughts.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
 <details open><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -131,23 +131,23 @@ In both these vss. tmánā ‘by himself’ contrasts with the vast number (thou
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him before whom the people shrink when he performs his glorious deeds,  
      Him who wins thousands at the worship of the Gods, himself, that Agni, serve with son s.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vor dem die Völker zittern, wenn er Rühmliches vollbringt, der Tausend gewinnt gerade wie im Kampf um die Meisterschaft, den Agni haltet mit euren Gedanken in Ehren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor welchem bebt der Völker Schar, wenn seine Werke er vollbringt, Der wie beim Opfer tausendfaches Gut sich schafft, den Agni ehret andachtsvoll.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Перед кем дрожат народы,  
 Когда он совершает достойные прославления (подвиги), -  

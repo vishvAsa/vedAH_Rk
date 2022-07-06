@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡क आसाम् पदवी꣡र् अबोधि  
 आदित्या꣡नाम् अहुवे चा꣡रु ना꣡म  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पृ꣡थग् व्र꣡जन्तीः प꣡रि षीम् अवृञ्जन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 आपः॑ । चि॒त् । अ॒स्मै॒ । अ॒र॒म॒न्त॒ । दे॒वीः । पृथ॑क् । व्रज॑न्तीः । परि॑ । सी॒म् । अ॒वृ॒ञ्ज॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhīka* ← *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
@@ -114,7 +114,7 @@ genre M
 संवत्सरः **आसाम्** ओषधीनाम् **अभीके** समीपे **पदवीः** । पदानि तत्तद्वनविशिष्टपुष्पफलादीनि वेति प्रजनयतीति पदवीः सन् **अबोधि** बुध्यते सावधानो वर्तते । तथा **आदित्यानाम्** । आदित्या मासाः संख्यासाम्यात् । यद्वा । आदित्यसंक्रमणनिमित्तत्वादादित्या मासाः ।  ‘ मेषादिस्थे सवितरि यो यो मासः प्रपूर्यते चान्द्रः । चैत्राद्यः स ज्ञेयः' इति स्मृतेः । तेषां चैत्रादीनां मासानां **चारु** **नाम** मधुश्च माधवश्चेत्यादि नामधेयम् अह्वे आह्वयामि । उच्चारयामीत्यर्थः । किंच **देवीः** द्योतनशीलाः **पृथक्** इतस्ततः **व्रजन्तीः** गच्छन्त्यः **आपश्चित्** आपोऽपि **अरमै** संवत्सराय **अरमन्त** संवत्सरसंबन्धिमासचतुष्टये वृष्टिद्वारा रमन्ते । ताः आपः **सीम्** एनं संवत्सरं **परि** **अवृञ्जन्** अष्टसु मासेषु परिवर्जयन्ति ॥ पदवीः । वी गत्यादिषु । क्विप् । अबोधि । बुध अवगमने' इत्यस्य लुङि  दीपजनबुधपूरितायिप्यायिभ्योऽन्यतरस्याम्' इति कर्तरि चिण् ।  ‘ चिणो लुक्'। निघातः । आदित्यानाम् । आदित्यसंबन्धिन इत्यर्थे  दित्यादित्यादित्यपत्युत्तरपदाण्ण्यः' इति ण्यः । अतोलोपयलोपौ । प्रत्ययस्वरः । अह्वे । ह्वयतेर्लुङि सिचः ‘आत्मनेपदेष्वन्यतरस्याम्' इति अङादेशः । गुणः । निघातः । अवृञ्जन् । वृजी वर्जने' इत्यस्य लङि श्नमि रूपम् । निघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,34 +125,34 @@ genre M
 Ādityas: that is, upon the months over which the twelve Ādityas preside; now give it delight and now depart from it: during the four months of the year when the rains fall the rivers are filled; during the other eight they are more or less dried up
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In a flash the trail-blazer for these (waters) has awakened—I have  invoked the dear name of the Ādityas—  
 Even the heavenly waters came to a stop for him. Proceeding in separate  directions, they bent around him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I have no suggestions for the identity of the singular referent of a, cd (though the waters call to mind Indra), nor for the reason of what seems the intrusive b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When nigh them, as their tracer he observed them: he called aloud the dear name of Adityas.  
      The Goddesses, the Waters, stayed to meet him: they who were wandering separate enclosed him.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im entscheidenden Augenblick wurde ihr Pfadsucher erweckt. Der Aditya´s lieben Namen habe ich angerufen. Selbst die göttlichen Gewässer standen ihm still; gesondert gehend wichen sie ihm aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An ihrer Spitze ward erweckt der Führer; ich rief den theuren Namen der Aditja's; Die Himmelswasser, die gesondert wallen, sie lauschten ihm und gingen um ihn her nur.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Внезапно пробудился пролагатель пути этих (вод).  
 Я призвал милое имя Адитьев.  

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृषणश्वे꣡न मरुतो वृ꣡षप्सुना  
 र꣡थेन वृ꣡षनाभिना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 हव्या꣡ नो वीत꣡ये गत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 आ । श्ये॒नासः॑ । न । प॒क्षिणः॑ । वृथा॑ । न॒रः॒ । ह॒व्या । नः॒ । वी॒तये॑ । ग॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣaṇaśvena* ← *vṛṣaṇaśva*
 - \[noun\], instrumental, singular, masculine
@@ -107,20 +107,20 @@ genre M
 हे **नरः** नेतारः **मरुतः** **वृषणश्वेन** वृषभिः सेचनसमर्थैरश्वैरुपेतेन **वृषप्सुना** वर्षकरूपयुक्तेन **वृषनाभिना** । नाभिश्चक्रच्छिद्रम् । वर्षकनाभियुक्तेन **रथेन** **नः** अस्माकं हव्यानि हवींषि **आ** **गत** आगच्छत । **वृथा** अनायासेनैव **वीतये** भक्षणार्थम् । तत्र दृष्टान्तः । **श्येनासो** **न** **पक्षिणः** श्येनाः शंसनीयगतयः पक्षिणो यथा शीघ्रमागच्छन्ति तद्वदनायासेन शीघ्रमागच्छतेत्यर्थः ॥ ॥३७॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, leaders (of rites), come like swift-flying birds in your rain- shedding, strong-horsed chariot,whose wheels bestow showers, to partake of our oblations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Maruts, with your chariot with its bullish horses, bullish breath,  bullish wheel-naves,  
 come here at will, like winged falcons, to pursue our oblations, o men.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
 <details open><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -130,23 +130,23 @@ The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come hither, O ye Mares, on your stronghorsed car, solid in look, with solid naves.  
      Lightly like winged falcons, O ye Heroes, come, come to enjoy our ofrerings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf dem mit Bullen-Rossen bespannten, bullengestaltigen Wagen mit der bullenhaften Nabe kommet wie geflügelte Falken nach belieben, um unserer Opfer zu begehren, ihr Herren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit stierbespanntem Wagen kommt, o Maruts, her, der stark an Naben, stark sich zeigt, O Männer kommt wie Adler fliegend schnell daher, zu speisen unser Opfermahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На мощно выглядящей колеснице с мощными конями,  
 С мощной втулкой, о Маруты,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 जुषे꣡थां यज्ञ꣡म् बो꣡धतं ह꣡वस्य मे  
 सत्तो꣡ हो꣡ता निवि꣡दः पूर्विया꣡ अ꣡नु  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 प्रशास्त्रा꣡द् आ꣡ पिबतं सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अच्छ॑ । राजा॑ना । नमः॑ । ए॒ति॒ । आ॒ऽवृत॑म् । प्र॒ऽशा॒स्त्रात् । आ । पि॒ब॒त॒म् । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
@@ -122,36 +122,36 @@ genre M
 हेमित्रावरुणौं मदीयमिमंयज्ञं जुषेथांसेवेथां मेममहव्स्यहवमाह्वानम्पूर्ववत्कर्मणिषष्ठी बोधत मवगच्छतं तथासत्तोनिषण्णोस्मदीयोहोतापूर्व्याश्चिरन्तनीः निविदः वाङ्गामैतत् शस्त्रलक्षणा वाचः अनुशंसन्तीतिशेषः उद्गातृभिः क्रुतस्यस्तोत्रस्यानुगुण्येनआज्यादीनि शस्त्राणिशंसतीत्यर्थः अपिच नमः सोमलक्षणमन्नंआवृतंऋत्विग्भिर्वेष्टितंराजानाराजमानौयुवांअच्छाभिमुख्येनएतिगच्छ ति प्राप्नोति तादृशं सोम्यं सोममयम्मधुमादकंहविः प्रशास्त्रात् प्रशास्तुर्यागात् आपिबतं आभिमुख्येनपिबतम् ॥ ६ ॥वेदार्थस्यप्रकाशेनतमोहार्दन्निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेण सायणा चार्येणविरचितेमाधवीयेवेदार्थप्रकाशेऋक्संहिताभाष्येद्वितीयाष्टकेसप्तमोध्यायः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Mitra** and **Varuṇa**, both be gratified with the sacrifice; hear my invocation as the seated **Hotā** repeats in succession the ancient praises; the (sacrificial) food encompassed (by the priests), attends the royal pair drink, both of you, the sweet **Soma** libation, offered by the Praśāstā.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You two, enjoy the sacrifice; take heed of my call. The Hotar is seated,  following the ancient invitations [/nivids].  
 Homage goes to you two kings to turn (you) hither. From the Praśāstar’s  cup drink the somian honey. [=Mitra and Varuṇa]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Accept the sacrifice; mark both of you, my call: the Priest hath seated him after the ancient texts.  
      My prayer that bids them come goes forth to both the Kings: drink ye the Soma meath from the Director's bowl.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Genießet beide das Opfer, achtet auf meinen Ruf! Der Hotri hat sich niedergesetzt nach den vorausgehenden Einladungsworten. An die beiden Könige wendet sich die Huldigung. Trinket die somische Süßigkeit aus dem Becher des Prasastri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geniesst das Opfer, merket beid' auf meinen Ruf, gesetzt hat sich der Priester nach dem alten Brauch; Zum Königspaar geht einzukehren mein Gebet, aus Ordners Schale trinkt den süssen Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наслаждайтесь вы двое жертвой! Обратите внимание на мой зов!  
 Хотар сел вслед за предшествующими словами приглашения.  

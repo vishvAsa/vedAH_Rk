@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शा꣡चिगो शा꣡चिपूजन  
 अयं꣡ र꣡णाय ते सुतः꣡  
 आ꣡खण्डल प्र꣡ हूयसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 आख॑ण्डल । प्र । हू॒य॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śācigo* ← *śācigu*
 - \[noun\], vocative, singular, masculine
@@ -73,7 +73,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **शाचिगो** । शाचयः शक्ता गावो यस्यासौ शाचिगुः । यद्वा । ‘शच व्यक्तायां वाचि '। अस्मादौणादिक इङ्प्रत्ययः । शाचयो व्यक्ताः प्रख्याता गावो रश्मयो गाव एव वा यस्य तादृश । हे **शाचिपूजन**। पूज्यतेऽनेनेति पूजनं स्तोत्रादि । प्रख्यातपूजन **ते** तव **रणाय** रमणाय सुखजननाय **अयं** सोमः **सुतः** अभिषुतः । यतः कारणात् हे **आखण्डल** शत्रूणामाखण्डयितः **प्र** **हूयसे** प्रकृष्टाभिः स्तुतिभिराहूयसे । अत आगत्येमं सोमं पिबेति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ Radiance: śācigo: śaktā gāvo yasya, he whose cattle are strong;
 Śācipūjana = prakhyātapūjana, of renowned adoration; or, whose hymns are renowned
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Śācigu, Śācipūjana, this has been pressed for your joy.  
 Ākhaṇḍala, you are called forth.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., M
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Famed for thy radiance, worshipped well this juice is shed for thy delight  
      Thou art invoked, Akhandala!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sacigu, Sacipujana, dieser ist für dich zur Lust gepreßt. Du Akhandala wirst gerufen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der stark du schreitest, Stärke ehrst, zur Lust ist dieser dir gebraut, Dich, o Zerbrecher, ruft man an.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Шачигу, Шачипуджана,  
 Этот (сома) выжат тебе на радость.  

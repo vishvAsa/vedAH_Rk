@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 का꣡ सुष्टुतिः꣡ श꣡वसः सूनु꣡म् इ꣡न्द्रम्  
 अर्वाचीनं꣡ रा꣡धस आ꣡ ववर्तत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ गो꣡पतिर् निष्षि꣡धां नो जनासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 द॒दिः । हि । वी॒रः । गृ॒ण॒ते । वसू॑नि । सः । गोऽप॑तिः । निः॒ऽसिधा॑म् । नः॒ । ज॒ना॒सः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
@@ -128,37 +128,37 @@ genre M
 **का** कीदृशी **सुष्टुतिः** **शवसः** **सूनुं** बलस्य पुत्रम् । अतिबलिनमित्यर्थः । **अर्वाचीनम्** अस्मदभिमुखम् **इन्द्रं** परमैश्वर्ययुक्तं **राधसे** धनाय अस्मभ्यं धनं दातुम् **आ** **ववर्तत्** आवर्तयेत् । हे **जनासः** जना यजमानाः **वीरः** विक्रान्तः **गोपतिः** पश्वादिधनस्य पालकः **सः** इन्द्रः **निष्षिधां** निष्षेद्धॄणां शत्रूणां संबन्धीनि **वसूनि** धनानि गृणते गृणद्भ्यः  स्तोतृभ्यः **नः** अस्मभ्यं **ददिर्हि** दाता खलु भवति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “What suitable praise may bring the son of strength, **Indra**, before us, to give us wealth; the hero, the lord of cattle, is the donor, oḥ man, of the wealth of his adversaries to him who glorifies him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What good praise will turn Indra here—the son of strength, facing our  way—for our benefit?  
 For the hero is the giver of good things to the singer, and he is the  
 herdsman of our tribute, o peoples.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT worthy praise will bring before us Indra, the Son of Strength, that he may grant us riches;  
      For he the Hero, gives the singer treasures: he is the Lord who sends us gifts, ye people.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welches Loblied wird Indra, den Sohn der Kraft, herlenken, den zur Schenkung geneigten? Denn der Held pflegt dem Sänger Schätze zu geben. Er ist der Herr des uns geschuldeten Gaben, der Kühe, ihr Leute.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Loblied mag den Sohn der Kraft, den Indra, uns nah herbei zur Gütergabe wenden? Denn gerne schenkt der Held dem Sänger Schätze, er ist der Gaben Herr für uns, o Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

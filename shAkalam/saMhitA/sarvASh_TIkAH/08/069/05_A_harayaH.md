@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ह꣡रयः ससृज्रिरे  
 अ꣡रुषीर् अ꣡धि बर्हि꣡षि  
 य꣡त्राभि꣡ संन꣡वामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यत्र॑ । अ॒भि । स॒म्ऽनवा॑महे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -76,36 +76,36 @@ genre M
 **हरयः** हरितवर्णा अश्वाः **अरुषीः** आरोचमानाः **अधि** **बर्हिषि** । अधीति सप्तम्यर्थानुवादी । बर्हिष्यास्तृते **आ** ससृज्रिरे आसृजन्तु । **यत्र** यस्मिन् बर्हिषि स्थितमिन्द्रम् **अभि** संनवामहे अभिसंस्तुमः ॥ ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let the brilliant bay (horses) drop him down on the cut grass, where we will hymn his praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tawny (soma-drops) have been let loose at the ruddy (cows) upon  the ritual grass,  
 where we will bellow out together.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither his Bay Steeds have been sent, red Steeds are on the sacred grass,,  
      Where we in concert sing our songs.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Falben sind auf die roten Kühe auf dem Barhis losgelassen, wobei wir in das Gebrüll mit einstimmen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die goldigen ergossen sich, die Flammenrosse auf die Streu, Wo wir lobsingen allesammt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वाचो꣡ जन्तुः꣡ कवीना᳐꣡म्  
 प꣡वस्व सोम धा꣡रया  
 देवे꣡षु रत्नधा꣡ असि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वेषु॑ । र॒त्न॒ऽधाः । अ॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vāco* ← *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** **कवीनां** क्रान्तप्रज्ञानां स्तोतॄणां **वाचो** **जन्तुः** स्तुतेर्जनयिता । यद्वा । मेधाविनां मध्ये त्वमेव वाचं जनयसि । अत्यन्तं वाग्मी त्वं **धारया** **पवस्व** द्रोणकलशं ग्रहांश्च प्राप्नुहि । तत इन्द्रादिदेवेषु **रत्नधाः** रमणशीलस्य सोमस्य निधाता **असि** भवसि । अथवा । देवेषु स्तोत्रकारिषु कर्म कुर्वाणेषु वास्मासु रत्नस्य कनकादेर्दाता भवसि । ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,12 +96,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Genitive rator of the praises of the wise: Or, in the midst of the wise, it is you who does genitive rate speech
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As child of the speech of the poets, o Soma, purify yourself in a stream. You are the one among the gods who establishes treasure.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Soma is obviously “child of the speech of the poets” (vācó jantúḥ kavīnā́m) because ritual speech sets in motion the preparation of soma.
 
@@ -116,23 +116,23 @@ Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow onward, Soma, in thy stream, begetter of the sages' speech:  
      Wealth-giver among Gods art thou.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Kind der Rede der Seher läutere dich, Soma, im Strome; du bist den Göttern der Kleinodbringer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entstammt dem Lied der Sänger du, o Soma, riesle hell im Strom, Den Göttern theilst du Schätze zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Отпрыск речи поэтов,  
 Очищайся, о сома, потоком!  

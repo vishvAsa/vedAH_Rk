@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ न ऊर्जा᳐म् पते  
 रयिं꣡ रास्व सुवी꣡रियम्  
 प्रा꣡व नस् तोके꣡ त꣡नये सम꣡त्सु आ꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 प्र । अ॒व॒ । नः॒ । तो॒के । तन॑ये । स॒मत्ऽसु॑ । आ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -104,7 +104,7 @@ genre M
 **ऊर्जाम्** अन्नानां **पते** स्वामिन् हे अग्ने **सः** तथाविधः **त्वं** **नः** अस्मभ्यं **सुवीर्यं** शोभन वीर्योपेतं **रयिं** धनं **रास्व** देहि । **नः** अस्माकं **तोके** पुत्रे **तनये** । तनोति विस्तारयति पुत्रमिति तनयः पौत्रः । तस्मिन्वर्तमानं धनं **समत्सु** संग्रामेषु च यत् रक्षितव्यं धनं तच्च **प्राव** प्रकर्षेण रक्ष । अनेन पुत्रपौत्रप्रार्थनं करोति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,28 +115,28 @@ genre M
 Defend us: Or, defend our wealth, consisting in sons and grandsons, and what has to be guarded inbattles
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O lord of nourishments, give us wealth with an abundance of heroes. Further us in combats when progeny and posterity are at stake.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So give us, Lord of Power and Might, riches combined with hero strength,  
      And guard us with our sons and grand. sons in our frays.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewähre du Herr der Kräfte uns Reichtum, Meisterschaft; hilf uns in den Kämpfen weiter, wenn es sich um leiblichen Samen handelt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So schenke du, o Herr der Kraft, uns Reichthum, schenk uns Heldenschar, Bei Kind und Enkeln schütze du uns in der Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты нам, о господин питательных сил,  
 Даруй богатство, обилие прекрасных мужей!  

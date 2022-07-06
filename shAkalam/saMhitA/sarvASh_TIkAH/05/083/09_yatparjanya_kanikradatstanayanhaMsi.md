@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त् पर्जन्य क꣡निक्रदत्  
 स्तन꣡यन् हं꣡सि दुष्कृ꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 य꣡त् किं꣡ च पृथिव्या꣡म् अ꣡धि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 प्रति॑ । इ॒दम् । विश्व॑म् । मो॒द॒ते॒ । यत् । किम् । च॒ । पृ॒थि॒व्याम् । अधि॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yat*
 - \[adverb\]
@@ -104,7 +104,7 @@ popular;; epic anuṣṭubh (424)
 हे **पर्जन्य** **यत्** यदा त्वं **कनिक्रदत्** अत्यर्थं शब्दयन् **स्तनयन्** **दुष्कृतः** पापकृतो मेघान् **हंसि** विदारयसि तदानीम् **इदं** **विश्वं** जगत् **प्रति** मोदते । विश्वं विशेष्यते । **यत्किं** **च** **पृथिव्यामधि** भूम्यामधिष्ठितं यच्चराचरात्मकं तदिदं विश्वं मोदते हृष्यति । वृष्टेः सर्वजगत्प्रीतिकारणत्वं प्रसिद्धम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -115,34 +115,34 @@ popular;; epic anuṣṭubh (424)
 Destroy the wicked clouds: **haṃsi** **duṣkṛtaḥ**, the wicked, i.e. the clouds not yielding their water
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When, o Parjanya, constantly roaring, thundering you smash those who  do ill,  
 all of this here, whatever is on the earth, rejoices in response.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When thou, with thunder and with roar, Parjanya, smitest sinners down,  
      This universe exults thereat, yea, all that is upon the earth.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 When, O Parjanya, roaring loud, Thou slay'st with thunder wicked men, This universe rejoices then, And everything that is on earth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du, Parjanya, brüllend, donnernd die Bösewichter erschlägst, so jubelt dir alles, was da auf Erden ist, zu.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn, o Pardschanja, brüllend du und donnernd schlägst der Frevler Schar, so freut sich diese ganze Welt und alles, was auf Erden ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда, о Парджанья, ревя,  
 Гремя, ты убиваешь злодеев,  

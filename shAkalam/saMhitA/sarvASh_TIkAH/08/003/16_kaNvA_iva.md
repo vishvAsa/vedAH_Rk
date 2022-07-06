@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क꣡ण्वा इव भृ꣡गवः सू꣡रिया इव  
 वि꣡श्वम् इ꣡द् धीत꣡म् आनशुः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 प्रिय꣡मेधासो अस्वरन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑म् । स्तोमे॑भिः । म॒हय॑न्तः । आ॒यवः॑ । प्रि॒यऽमे॑धासः । अ॒स्व॒र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
@@ -102,36 +102,36 @@ genre M
 **कण्वाइव** कण्वगोत्रोत्पन्ना ऋषय इव स्तुवन्तः **भृगवः** भृगुगोत्रोत्पन्ना ऋषयः **धीतम्** आध्यातं **विश्वमित्** व्याप्तं तमेवेन्द्रम् **आनशुः** व्यापुः । **सूर्याइव** । यथा सूर्यरश्मयः सर्वं जगद्व्याप्नुवन्ति तद्वत् । अपि च **प्रियमेधासः** प्रियप्रज्ञा एतत्संज्ञा वा **आयवः** मनुष्यास्तमेव **इन्द्रं** **महयन्तः** पूजयन्तः **स्तोमेभिः** स्तोत्रैः **अस्वरन्** अस्तुवन् ।' स्वृ शब्दोपतापयोः '। भौवादिकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Bhṛgus**, like the **Kaṇvas**, have verily attained to the all- pervading (**Indra**), on whom they havemeditated, as the sun (pervades the unverse by his rays); men of the **Priyamedha** race, worshipping Indra withpraises glorify him.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Kaṇvas—like the Bhr̥gus, (themselves) like suns—have attained  everything conceivable.  
 Magnifying Indra with praises, the Āyus and Priyamedhas sounded.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bhrgus are like Suns, like Kanvas, and have gained all that their thoughts were bent upon.  
      The living men of Priyamedha's race have sung exalting Indra with their lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Kanva´s, die Bhrigu´s, wie die Sonnen sind sie: Sie haben alles Erwartete erreicht. Den Indra mit Lobliedern verherrlichend erhoben die Ayu´s, die Priyamedha´s ihre Stimme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Bhrigus gleich erreichten jeden Herzenswunsch die Kanva's, Sonnenstrahlen gleich, Den Indra preisend mit Gesängen eifervoll, singt laut der Prijamedha's Schar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Люди) Бхригу, словно Канвы, подобны солнцам:  
 Они достигли всего, о чем мечтали.  

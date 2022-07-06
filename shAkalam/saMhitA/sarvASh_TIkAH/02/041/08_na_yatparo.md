@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ य꣡त् प꣡रो न꣡ अ꣡न्तर  
 आदध꣡र्षद् वृषण्वसू  
 दुःशं꣡सो म꣡र्तियो रिपुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 दुः॒ऽशंसः॑ । मर्त्यः॑ । रि॒पुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M
 वृषण्वसू हेधनस्यवर्षितारौ यद्धनम्परोदूरस्थोदुःशंसः शंसनायोग्योर्त्योरिपुः यन्नादधर्षत् नापहरेत् तथोक्तलक्षणेतरः अन्तरः समीपवर्ती मर्त्योरिपुरपियन्नादधर्षत् तद्धनमावोह्ळमिति शेषः ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,29 +92,29 @@ Whether he be far of for nigh: na yat para nāntara: para = dūrastha, being at 
 **Antara** = samīpavartī, on ebeing near; another interpretation: para = **asambaddha**, unconnected and antara = **sambaddha**, connected or related; **Indra** is the object: 'Indra whom may such a man not overcome -- yam indram na parabhūyat'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 So that no distant mortal nor one close by will dare against (you), you  of bullish goods—  
 (and no) defaming cheat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Such, wealthy Gods! as none afar nor standing nigh to us may harm,  
      Yea, no malicious mortal foe.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der kein Fremder noch Nahestehender Trotz bieten kann, kein übelredender, feindseliger Sterblicher, ihr Schatzreiche!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dass ferne nicht noch nahe uns, ein böser, falscher Sterblicher, O starke, zu bekämpfen wagt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Объезд,) которому ни дальний, ни близкий  
 Не сможет повредить, о струящие благо,  

@@ -8,7 +8,7 @@ title = "+121"
 अष्टादशेऽनुवाके षट् सूक्तानि । तत्र ‘कदित्था ' इति पञ्चदशर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते -- ‘कदित्था पञ्चोना वैश्वदेवं वा' इति । अनुवर्तमानः कक्षीवानृषिः । अनादेशपरिभाषया त्रिष्टुप् । विश्वे देवा इन्द्रो वा देवता । विनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 121  
 Indra or the All Gods  
@@ -24,7 +24,7 @@ ence off balance, a queasy feeling much increased by the disjunctive and ellipti
 The final two verses (14–15), asking for protection and valuables, are by contrast  quite straightforward. Presumably on this subject Kakṣīvant did not want the god  to misunderstand.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra or the All Gods This is a very problematic hymn, and both the published translation and this comm. are tentative and tenuous on many points. There are some quirks that reappear throughout the hymn: a remarkable no. of pāda-final góḥ (2b, 2d, 7b, 9a) - is this some sort of hidden encoding? It’s also part of a pattern of favoring pāda-final monosyllables (vrā́m 2c, rā́ṭ 3a, dyū́n 3b, 7c, dyā́m 3d, vaḥ 4d, nṝ́n 12a, 13a, dā́t 12c
 

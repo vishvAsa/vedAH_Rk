@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡किर् अस्य सहन्तिय  
 परिएता꣡ क꣡यस्य चित्  
 वा꣡जो अस्ति श्रवा꣡यियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 वाजः॑ । अ॒स्ति॒ । श्र॒वाय्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nakir*
 - \[adverb\]
@@ -74,48 +74,48 @@ genre M
 हे **सहन्त्य** शत्रूणामभिभवनशीलाग्ने **अस्य** त्वद्भक्तस्य यजमानस्य **कयस्य** **चित्** कस्यापि **पर्येता** **नकिः** आक्रमिता नास्ति । किंच अस्य यजमानस्य **श्रवाय्यः** श्रवणीयः **वाजः** **अस्ति** बलविशेषोऽस्ति ॥ कयस्य । यकारोपजनश्छान्दसः । श्रवाय्यः । ‘श्रुदक्षिस्पृहिगृहिभ्य आय्यः । (उ. सू. ३. ३७६) इति आय्यप्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “No one will ever be the vanquisher of this your worshipper, subduer of enemies, for notorious in his prowess.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 No one will circumscribe anything of his, o overpowering one:  
 there is a prize worthy of fame (for him).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Since this verse continues the thought of 7, the agent noun paryetā́in b should likewise be future in value, despite Geldner’s “Keiner überholt ihn.” asya … káyasya cit: most tr. take these two genitives as coreferential, with the indefinite referring to a person - so Geldner’s “Keiner überholt ihn, wer er auch sei.” But the person in question has already been defined as a client of Agni’s, and so an indefinite seems odd in context. Moreover, the other two instances of paryetár- both take inanimate complements; cf. VII.40.3 ná tásya rāyáḥ paryetā́sti "There exists no one who can encompass his wealth." Therefore I take káyasya cit as referring to anything belonging to the favored man, expressed by asya. Geldner’s note seems to lean in this direction, but not his tr.
 
 On śravā́yya- see I.31.5 below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, whosoever he may be, no man may vanquish, mighty One:  
      Nay, very glorious power is his.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Whosoever he may be, no one will overtake him, O conqueror (Agni)! His strength 2 is glorious.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Keiner überholt ihn, wer er auch sei, o Gewaltiger. Ruhmbringender Gewinn ist sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer er auch sei, o mächtiger, den überwältigt keiner je, Und rühmenswerth ist seine Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никто не возьмет верх над ним,  
 Кем бы он ни был, о одолевающий!  

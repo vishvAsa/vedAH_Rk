@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ ह त्य꣡द् इन्दर+ अ꣡रिषण्यन्  
 दॄळ्ह꣡स्य+ चिन् म꣡र्तिआनाम्° अ꣡जुष्टौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 घने꣡व वज्रिञ् छ्नथिहि अमि꣡त्रान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । अ॒स्मत् । आ । काष्ठाः॑ । अर्व॑ते । वः॒ । घ॒नाऽइ॑व । व॒ज्रि॒न् । श्न॒थि॒हि॒ । अ॒मित्रा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -129,21 +129,21 @@ genre M
 हे **इन्द्र** **त्वं** **ह** त्वं खलु **त्यत्** तस्य **दृळ्हस्य** **चित्** दृढस्य कस्यचिदपि **अरिषण्यन्** रेषणमनिच्छन् एवंस्वभावो भवसि । देवतात्वेनानुग्रहीतृत्वात् । तथापि **मर्तानां** स्तोतॄणामस्माकं शत्रुभिः **अजुष्टौ** अप्रीतौ सत्याम् **अस्मत्** **अर्वते** अस्मदीयाश्वाय गन्तुं **काष्ठाः** दिशः **आ** समन्तात् **वि** **वः** विवृताः कुरु। यथा सर्वासु दिक्षु अस्मदीया अश्वाः प्रतिरोधमन्तरेण गच्छन्ति तथा कुरु इत्यर्थः। किंच तत्रत्यान् **अमित्रान्** हे **वज्रिन** वज्रवन्निन्द्र **घनेव** घनेन कठिनेन पर्वतेनेव वज्रेण **श्नथिहि** श्नथय जहीत्यर्थः । यद्वा । मर्तानां मनुष्याणां मध्ये यस्मिन् कस्मिंश्चित्तव अप्रीतो  सत्यां तस्य शत्रोर्दृढस्यापि अरिषण्यन रेषणं हिंसनमनिच्छन् वर्तसे । यस्मिंस्तु कुत्सादौ प्रीतिरस्ति तस्य शत्रुवधं चकृषे । अतस्तव प्रियाणामस्माकमर्वते इत्यादि पूर्ववत् ॥ त्यत् । सुपां सुलुक् ' इति षष्ठ्या लुक् । अरिषष्यन् । रिष्टशब्दात् क्यचि दुरस्युर्द्रविणस्युर्वृषण्यति रिषण्यति' (पा. सू. ७. ४. ३६ ) इति रिषण्भावो निपात्यते । नञ्समासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अस्मत् । पूर्ववत् षष्ठ्या लुक् । अर्वते ।  ‘ अर्वणस्रसावनञः' इति नकारस्य तकारादेशः । वनिप्सुपौ पित्त्वादनुदात्तौ । परिशेषात् धातुस्वरः । घनेव । मूर्तौ घनः' (पा. सू. ३. ३. ७७ ) इति काठिन्ये गम्यमाने हन्तेः अप्प्रत्ययान्तो निपात्यते । श्नथिहि । श्नथ हिंसार्थः । ण्यन्तात् लोटि ‘बहुलं छन्दसि' इति शपो लुक् ॥ ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Do you, **Indra**, who are unwilling to harm any resolute (mortal), set open all the quarters (of the horizon) to the horses of us who praise you, (when we are exposed) to the aversion (of our enemies); and, wielder of the thunderbolt, demolish our foes, as with a club.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You then, Indra, intending no harm to mortals, in your displeasure (you  opened up the doors) even of the stronghold,  
 opened the barriers for the steed (that comes) from us. As if with a  
 deadly weapon, mace-bearer, pierce the foes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse contains many small problems of interpretation that hinder putting together the whole. I’ll start with the details and turn to the construction of the whole thereafter.
 
@@ -172,23 +172,23 @@ tváṃ ha tyád provides the opening of the next four verses. Although tyád is
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This doest thou, and art not harmed, O Indra, e'en in the anger of the strongest mortal.  
      Lay thou the race-course open for our horses: as with a club, slay, Thunder-armed! our foemen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, hast damals ohne Schaden von dem, was zum Missfallen der Sterblichen gar fest verschlossen war - Öffne unsererseits dem Rennpferd die Schranken! Wie mit dem Hammer triff die Feinde, du Keulenträger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, Indra, du auch bei dem Groll des stärksten der Sterblichen doch nimmer Schaden leidest, Eröffne uns die Bahnen für den Renner; wie Keulen schlage, Blitzesherr, die Feinde.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты в самом деле, о Индра, не терпя ущерба  
 Даже от того, что (было) твердым к неудовольствию смертных...  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡व श꣡रीरम् पतयिष्णु꣡ अर्वन्  
 त꣡व चित्तं꣡ वा꣡त इव ध्र꣡जीमान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡रण्येषु ज꣡र्भुराणा चरन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तव॑ । शृङ्गा॑णि । विऽस्थि॑ता । पु॒रु॒ऽत्रा । अर॑ण्येषु । जर्भु॑राणा । च॒र॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tava* ← *tvad*
 - \[noun\], genitive, singular
@@ -106,7 +106,7 @@ popular
 हे **अर्वन्** **तव** शरीरं **पतयिष्णु** पतनशीलं व्याप्तमित्यर्थः । तथा **तव** **चित्तं** मनः **वातइव** **ध्रजीमान्** शीघ्रगमनवायुरिव तद्वच्छीघ्रगमनानुकूलमित्यर्थः । किंच **तव** **शृङ्गाणि** शिरसो निर्गताः शृङ्गस्थानीयाः केशाः **पुरुत्रा** पुरुषु बहुषु प्रदेशेषु **विष्ठिता** विष्ठितानि विविधं स्थिताः । किंच त एव **अरण्येषु** **जर्भुराणा** मनोहराणि पूर्यमाणानि वा एवंभूताः केशाः **चरन्ति** । यद्वा । अत्र अश्वस्य शृङ्गाभावात् तद्वदुन्नतानि तेजांसि परिगृह्यन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,34 +117,34 @@ popular
 The horse is identified with **Agni**, whose flames consume the forests
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your body is flying, o steed; your perception is swooping like the  wind.  
 Your horns [=rays], dispersed in many places, keep flickering in the  wilderness.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take caranti as aux. with járbhurāṇā(ḥ), but it could be an independent verb: “they wander (while) flickering” (e.g., Geldner “… bewegen sie sich auf und ab hüpfend”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A body formed for flight hast thou, O Charger; swift as the wind in motion is thy spirit.  
      Thy horns are spread abroad in all directions: they move with restless beat in wildernesses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dein Körper eilt mit Flügeln, o Renner, dein Geist saust dahin wie der Wind. Deine Hörner sind vielerorts verteilt, in den Wäldern bewegen sie sich auf und ab hüpfend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schnellfliegend, o Renner, ist dein Körper, dein Geist dahinschiessend, wie der Wind; deine Hufe sich überall hin verbreitend, eilen stampfend in der Ferne.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тело твое в полете, о скакун.  
 Твоя мысль скользит, словно ветер.  

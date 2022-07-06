@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋ꣡षिर् हि꣡ पूर्वजा꣡ अ꣡सि  
 ए꣡क ई꣡शान ओ꣡जसा  
 इ꣡न्द्र चोष्कूय꣡से व꣡सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 इन्द्र॑ । चो॒ष्कू॒यसे॑ । वसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
@@ -88,40 +88,40 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **पूर्वजाः** सर्वेभ्यो देवेभ्यः पूर्वं जात उत्पन्नः । यद्वा । यज्ञेषु प्रथममेव प्रादुर्भूतः । त्वम् **ऋषिर्हि** द्रष्टा सर्वज्ञः खलु **असि** भवसि । अपि च सर्वेषु देवेषु मध्ये **एकः** मुख्यः **ओजसा** बलेन **ईशानः** ईश्वरो भवसि । यद्वा । एकोऽसहाय एव सन्नोजसा आत्मीयेनैव बलेन ईशानः सर्वस्य जगतः ईश्वरो भवसि । स त्वं **वसु** धनं **चोष्कूयसे** पुनःपुनः स्तोतृभ्यो ददासि । ‘स्कुञ् आप्रवणे इह दानार्थः । तथा चोक्तं-’ चोष्कूयमाण इन्द्र भूरि वामं दददिन्द्र बहु वननीयम्' (निरु. ६. २२) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You are a Ṛṣi, the first-born (of the gods), the chief, the ruler (over all) by your strength; you giverepeatedly, **Indra**, wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are the first-born seer, being the only master by your might, o Indra, you keep poking out goods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the sense of coṣkūyá- see Schaeffer (201); the action envisaged is poking or prodding a fire, extended to Indra’s poking more and more good things out to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art a Rsi born of old, sole Ruler over all by might:  
      Thou, Indra, guardest well our wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist der erstgeborene Rishi, der allein durch seine Stärke herrscht. Indra, du stöberst den Schatz auf.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der erste Dichter bist du ja, begabt allein mit Herrschermacht, Du schirmst, o Indra, unser Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь ты перворожденный риши,  
 Благодаря силе правящий один.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभी꣡ षु꣡ णस् तुवं꣡ रयि꣡म्  
 मन्दसानः꣡ सहस्रि꣡णम्  
 प्रयन्ता꣡ बोधि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 प्र॒ऽय॒न्ता । बो॒धि॒ । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhī* ← *abhi*
 - \[adverb\]
@@ -82,41 +82,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्र्ो **त्वं** **मन्दसानः** अस्माभिर्दत्तेन सोमेन मोदमानः सन् **सहस्रिणं** सहस्रसंख्याकं धनं **नः** अस्मभ्यं **सु** सुष्ठु **अभि** आभर । तदेवाह । त्वं **दाशुषे** हविर्दत्तवते यजमानाय **प्रयन्ता** धनादेः प्रदाता कर्मणो नियन्ता वा भवानीति **बोधि** बुध्यस्व । ‘बुध अवगमने'। भौवादिकः । लोटि छान्दसो विकरणस्य लुक् । हेर्धिः। धित्वे धकारलोपश्छान्दसः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rejoicing (in our oblations), bring us wealth a thousandfold; remember that you are the giver to yourvotary.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On reaching exhilaration, (bring) wealth in thousands to us.  
 Become a provider to the pious man.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “Bring” can be supplied here on the basis of ā́bhara in 19c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rejoicing in thy spirit bring thousandfold opulence to us:  
      Enrich thy votary with gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bring du uns doch ja nach Tausenden zählenden Reichtum, wenn du dich ergötzest; sei dem Opferspender ein Geber!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erfreuten Sinnes reiche bald uns tausendfachen Reichthum dar, Sei Spender dem Verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षु꣡ द्वे꣡षो वि꣡ अंहति꣡म्  
 आ꣡दित्यासो वि꣡ सं꣡हितम्  
 वि꣡ष्वग् वि꣡ वृहता र꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विष्व॑क् । वि । वृ॒ह॒त॒ । रपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -87,43 +87,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **आदित्यासः** आदित्याः **द्वेषः** द्वेष्टॄन **सु** सुष्ठु **वि** **वृहत** उन्मूलयत । नाशयतेत्यर्थः ॥ तथा **अंहतिं** पातकं पापं **वि** वृहत । हन्तेरंह च ( उ. सू. ४.५०२) इत्यतिप्रत्ययः । तथा **संहितं** जालं **वि** वृहत । तथा **रपः** पापं सर्वं **विष्वक्** विषूचीनं“ वि वृहत ।' रपो रिप्रमिति पापनामनी भवतः ' ( निरु. ४. २१ ) इति यास्कः ॥ ॥ ५४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Ādityas**, utterly destroy our enemies, destroy wickedness, destroy the closely drawn net, destroy evileverywhere.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Ādityas, rip apart hostility, apart constraint, apart what is packed  together;  
 rip malady apart and asunder.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The preverb ví is excessively represented in this vs., with 5 occurrences (including víṣvak) and its usual contrastive partner sám in the middle. Note also the figure … aṃhatím# … sámhitam#.
 
 aṃhatím also makes a faint ring with the same word in 2a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On every side dispel all sin, Adityas, all hostility,  
      Indigence, and combined attack.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zerreißet fein die Feindschaft, die Not, Aditya´s, zerreißet das zusammengezogene Netz, nach allen Seiten reißet den Schaden auseinander!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Treibt weg die Feindschaft, weg die Noth, Aditja's, weg der Rotten Plan, Weit weg von uns Beschädigung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Про(рвите) насквозь ненависть, про(рвите) беду,  
 О Адитьи, про(рвите) что соединено –  

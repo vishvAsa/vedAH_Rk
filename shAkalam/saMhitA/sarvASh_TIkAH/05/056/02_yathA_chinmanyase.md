@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था चिन् म꣡न्यसे हृदा꣡  
 त꣡द् इ꣡न् मे जग्मुर् आश꣡सः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ता꣡न् वर्ध भीम꣡संदृशः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 ये । ते॒ । नेदि॑ष्ठम् । हव॑नानि । आ॒ऽगम॑न् । तान् । व॒र्ध॒ । भी॒मऽस॑न्दृशः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -123,43 +123,43 @@ genre M
 हे अग्ने त्वं **हृदा** हृदयेन मरुतः **यथा** **चिन्मन्यसे** । चिदिति पूजायाम् । येन प्रकारेण अतिपूजितं जानासि । तेष्वादरं करोषीत्यर्थः । **तदित्** तथैव **मे** मदर्थं **जग्मुः** गच्छन्तु **आशसः** आशंसितार इच्छन्तः शत्रून् हिंसन्तो वा । अनन्तरं **ये** मरुतः **नेदिष्ठम्** अत्यन्तान्तिकं संनिधावेव **ते** तव **हवनानि** आह्वानानि श्रुत्वा **आगमन्** आगच्छन्ति **तान्** **भीमसंदृशः** कालविलम्बासहनेन भयंकरदर्शनान् **वर्ध** वर्धय हविष्प्रापणेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In whatever manner you honour the (**Maruts**, **Agni**) in your heart, may they come to me as benefactors; gratify, (by oblations), those fierce-looking Maruts, who most promptly come to your invocations.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as you [=Agni? poet?] conceive with your heart, in the same way my  hopes have gone.  
 Those who will come closest to your calls, strengthen them of fearsome  appearance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The question in this vs. is who is the 2nd sg. referent of mányase (a), te (c), and vardha (d). Acdg. to Sāyaṇa. it is still Agni, but Geldner suggests alternatively that it could be the self-address of the poet, a view shared by Renou (Witzel Gotō think Agni, but with a very peculiar tr. of pāda a). I think poetic self-address is excluded because of the me in b: the poet is unlikely to refer to himself as “you (sg.)” and “me” in successive pādas (and then back to “you”), so Agni is the more likely. The point must be that both Agni and the poet want the same thing -- for the Maruts to come to the sacrifice.
 
 The identification of you as Agni requires that he possess/produce hávana- ‘calls’ in c. This can refer to the crackling of the fire. Alternatively, flg. Grassmann, hávana- could belong to √hu and mean ‘oblations’, but pace Grassmann none of the occurrences he adduces need to have that meaning.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as thou thinkest in thy heart, thither my wishes also tend.  
      Those who have come most near to thine invoking calls, strengthen them fearful to behold.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gerade wie du im Herzen meinst, darauf gehen meine Wünsche aus: Erbaue sie, die furchtbar anzusehen, die auf deinen Anruf in nächster Nähe herankommen werden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie du auch meinst in deinem Sinn, so drangen meine Wünsche vor; Die nahe kamen hier zu deinem Opferwerk, die furchtbar aussehn, stärke du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Именно как ты думаешь в сердце (своем),  
 На это и направлены мои желания:  

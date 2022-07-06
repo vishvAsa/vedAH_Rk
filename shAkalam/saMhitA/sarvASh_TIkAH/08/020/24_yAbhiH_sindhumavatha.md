@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः सि꣡न्धुम् अ꣡वथ या꣡भिस् तू꣡र्वथ  
 या꣡भिर् दशस्य꣡था क्रि꣡विम्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 शिवा꣡भिर् असचद्विषः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मयः॑ । नः॒ । भू॒त॒ । ऊ॒तिऽभिः॑ । म॒यः॒ऽभु॒वः॒ । शि॒वाभिः॑ । अ॒स॒च॒ऽद्वि॒षः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -109,20 +109,20 @@ genre M
 हे मरुतः **याभिः** ऊतिभिः **सिन्धुं** समुद्रम् **अवथ** रक्षथ । **याभिः** च **तूर्वथ** स्तोतॄणां शत्रून् हिंस्थ । तुर्वी हिँसार्थः । **याभिः** च **क्रिविं** कूपं तृष्णजे गोतमाय **दशस्यथ** प्रयच्छथ । हे **मयोभुवः** मयसः सुखस्य भावयितारो हे **असचद्विषः** असक्तशत्रवः शत्रुरहिताः **शिवाभिः** कल्याणीभिस्ताभिः सर्वाभिः **ऊतिभिः** रक्षाभिः **नः** अस्माकं **मयः** सुखं **भूत** भावयत उत्पादयत। यद्वा । ‘भू प्राप्तौ ' । प्रापयत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “With those auspicious protectionw with which you have guarded the ocean, with which you havedesroyed (your enemies), with which you provided the well (for **Gotama**), do you who are he sources ofhappiness, the unconquerable by your adversaries, bestow happiness upon uṣ\]The unconquerable:asasacadviṣa = śatrurahitaḥ, destitute of enemies\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you aid the Sindhu, with which you triumph, with  which you favor Krivi,  
 with those kindly forms of help be a joy to us, you who are joy itself,  you who do not partner hatred.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the relatively elementary figure in c máyo (no) bhūta … mayobhuvaḥ.
 
@@ -134,23 +134,23 @@ pres. of √sac is resolutely middle. (Debrunner [Nachtr. AiG II.1.87] also disp
 Unfortunately getting -sacat- from this root requires a lot of not too plausible machinery -- it is no more straightforward than deriving -saca(t)- from √sac (1) -- though I am sympathetic to his argument that the meaning would fit well with the Maruts’ character. My own ‘who do not partner hatred’ rests essentially on a loose interpr. of the verbal governing analysis presented first above, though I hold no particular brief for it. I would point out that if it does contain √sac ‘accompany’, it could pair contrastively with sakhāyaḥ in the preceding vs. (23c). A very weak argument for √sac (1) and √dviṣ could be constructed on the basis of VIII.22.2, a hymn to the Aśvins but also composed by Sobhari. There the Aśvins’ chariot is described as sacanā́vantam ‘provided with companions’ vel sim., the first word of pāda c, and as vídveṣasam ‘free of hatred’, the first word of pāda d, with the same two roots. But I would not make much of this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Haters of those who serve you not, bliss-bringers, bring us bliss with those auspicious aids  
      Wherewith ye are victorious and guard Sindhu well, and succour Krvi in his need.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit welchen Hilfen ihr der Sindhu bestehet und durchhelfet, mit denen ihr dem Krivi gefällig seid, mit diesen freundlichen Hilfen seid uns eine Freude, ihr Erfreulichen, die kein Feind verfolgt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die den Strom ihr fördert, und durch die ihr siegt, durch die ihr hold dem Krivi seid; Lustgeber seid zur Lust mit schönen Hülfen uns, die ihr die ungetreuen hasst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те поддержки,) которыми вы помогаете Синдху, которыми спасаете,  
 Которыми оказываете уважение Криви,  

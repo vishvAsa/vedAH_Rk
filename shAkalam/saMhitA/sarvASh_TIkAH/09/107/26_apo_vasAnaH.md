@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपो꣡ व꣡सानः प꣡रि को꣡शम् अर्षति  
 इ꣡न्दुर् हियानः꣡ सोतृ꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गाः꣡ कृण्वानो꣡ न꣡ निर्णि꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ज॒नय॑न् । ज्योतिः॑ । म॒न्दनाः॑ । अ॒वी॒व॒श॒त् । गाः । कृ॒ण्वा॒नः । न । निः॒ऽनिज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
@@ -115,20 +115,20 @@ genre M;; repeated line
 **अपः** वसतीवरीः **वसानः** आच्छादयन् **सोतृभिः** अभिषुण्वद्भिः **हियानः** प्रेर्यमाणः **इन्दुः** सोमः **कोशं** कलशं **परि** **अर्षति** प्रति गच्छति । किंच **ज्योतिः** दीप्तिं **जनयन्** उत्पादन **गाः** गव्यानि क्षीरादीनि **निर्णिजम्** आत्मनो रूपं **कृण्वानः** कुर्वन् मिश्रयन् सोऽयं सोमः । नः संप्रत्यर्थे । इदानीं **मन्दनाः** स्तुतीः **अवीवशत्** कामयते । ‘वश कान्तौ । लुङि चङि रूपम् ॥ ॥१६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indu** clothed with waters effused by the worshippers rushes to the receptacle, genitive rating light, identifying its form with the (products of the) kine, he covets now (our) praises.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Clothing himself in the waters, he rushes around the cask, the drop  being propelled by the pressers.  
 Begetting the light, he has made the delighting cows bellow, making the  cows as if into his fresh garment.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 apó vásānaḥ returns from 4b, 18c, along with the verb árṣa-, ubiquitous in this hymn.
 
@@ -144,23 +144,23 @@ No particular signs of cohesion.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Urged onward by the pressers, clad in watery robes, Indu is speeding to the vat.  
      He gendering light, hath made the glad Cows low, while he takes them as his garb of state.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In Wasser sich hüllend umfließt er die Kufe, der von den Pressenden zur Eile getriebene Saft. Licht hervorbringend hat er die Jubellieder lautbar gemacht, indem er die Kuhmilch gleichsam zu seinem Festgewand macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Flut gekleidet strömt er zu dem Fass hindurch von Pressern Indu ausgesandt, Licht zeugend schreit die Küh' er an, die ihn erfreun, die Milch anlegend wie ein Kleid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Рядясь в воды, он течет кругами по сосуду,  
 Сок сомы, приведенный в движение выжимателями.  

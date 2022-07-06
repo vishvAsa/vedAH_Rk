@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अय꣡म् मित्र꣡स्य व꣡रुणस्य धा꣡यसे  
 अवयाता꣡म् मरु꣡तां हे꣡ळो अ꣡द्भुतः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡ग्ने सख्ये꣡ मा꣡ रिषामा वयं꣡ त꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 मृ॒ळ । सु । नः॒ । भूतु॑ । ए॒षा॒म् । मनः॑ । पुनः॑ । अग्ने॑ । स॒ख्ये । मा । रि॒षा॒म॒ । व॒यम् । तव॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M;; repeated line
 **अयम्** अग्नेः स्तोता **मित्रस्य** अहरभिमानिनो देवस्य **वरुणस्य** राज्यभिमानिनश्च संबन्धिने **धायसे** धारणायावस्थापनाय भवतु । मित्रावरुणाविममग्नेः स्तोतारं धारयतामित्यर्थः । **अवयाताम्** अवस्ताद्गच्छतां स्वर्गलोकस्याधस्तादन्तरिक्षे वर्तमानानां **मरुताम्** एतत्संज्ञानां देवानां **हेळः** क्रोधः **अद्भुतः** महान् भवति । अद्भुत इत्येतन्महन्नाम । तस्मात् क्रोधात् इममग्नेः स्तोतारं मित्रावरुणौ रक्षतामिति शेषः । अपि च **नः** अस्मान हे अग्ने **सु** **मृळ** सुष्ठु मृडय सुखय । **एषां** मरुतां **मनः** च **पुनः** **भूतु** पुनरपि प्रसन्नं भवतु । अन्यत् समानम् ॥ धायसे ।' वहिहाधाञ्भ्यश्छन्दसि  इति भावे असुन् । नित्' इत्यनुवृत्तेः ‘ आतो युक् चिण्कृतोः' इति युक् । अवयाताम् । ‘ या प्रापणे '। अस्मात् अवपूर्वात् लटः शतृ । ‘ शतुरनुमः०' इति विभक्तेरुदात्तत्वम् । मृळ ।“ मृड सुखने । छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ‘णेरनिटि' इति णिलोपः । द्व्यचोऽतस्तिङः इति संहितायां दीर्घत्वम् । भूतु ।' बहुलं छन्दसि ' इति शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,35 +142,35 @@ genre M;; repeated line
 Below the heavens: below **svargaloka**, or in the **antarikṣa** or firmament
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This (Agni) here is to be suckled, as the unerring appeaser of the anger  of Mitra and Varuṇa and of the Maruts.  
 Have mercy upon us! Let the mind of these (gods) be once again (as  before). – O Agni, while in company with you may we not come  
 to harm.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He hath the Power to soothe Mitra and Varuna: wonderful is the Maruts' wrath when they descend.  
      Be gracious; let their hearts he turned to us again. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He makes Mitra and Varuna get refreshing drink. He mysteriously turns away the anger of the Maruts 1. Be merciful towards us. May their mind be again (as it was before). Agni! May we suffer no harm in thy friendship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er dient Mitra und Varuna zur Befriedigung, er soll den Groll der Marut abbitten, der Unbegreifliche. Sei du uns fein gnädig! Ihr Sinn soll wieder geneigt sein! - O Agni, in deiner Freundschaft sollen wir nicht zu Schaden kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist geschickt zur Sühnung Mitra's, Varuna's, gewaltig ist der niedergehnden Maruts Grimm, Sei gnädig, lass uns wiederkehren ihre Huld; in deiner Freundschaft, Agni, treff' uns nimmer Leid.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот (Агни) для удовлетворения Митры (и) Варуны  
 Пусть отведет гнев Марутов, (он,) удивительный!  

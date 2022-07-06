@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उष꣡सां न꣡ केत꣡वो अध्वरश्रि꣡यः  
 शुभंय꣡वो न꣡ अञ्जि꣡भिर् वि꣡ अश्वितन्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पराव꣡तो न꣡ यो꣡जनानि ममिरे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सिन्ध॑वः । न । य॒यियः॑ । भ्राज॑त्ऽऋष्टयः । प॒रा॒ऽवतः॑ । न । योज॑नानि । म॒मि॒रे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣasāṃ* ← *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
@@ -119,36 +119,36 @@ genre M
 ये मरुतः **उषसां** **न** **केतवः** उषसां रश्मय इव **अध्वरश्रियः** यज्ञस्याश्रयितारो भवन्ति । तथा **शुभंयवो** **न** कल्याणकामा वरा इव **अञ्जिभिः** आभरणैः **व्यश्वितन्** दीप्यन्ते ।  ‘ श्विता वणें । लङि रूपम् । तथा **सिन्धवो** **न** नद्य इव **ययियः** गमनशीलाः **भ्राजदृष्टयः** दीप्यमानायुधाः **परावतो** **न** दूराध्वनीना वडवा इव **योजनानि** दूरदेशान् **ममिरे** परिच्छिन्दन्ति । तेऽस्मद्यज्ञमागच्छन्त्विति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who, radiant in sacrifices like the rays of the dawn, shine with their ornaments like those expectant ofgood fortune, (who) swift-moving like rivers, having bright weapons, have traversed leagues like mares who havejourneyed from far, (may they come to our sacrifice).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the beacons of the dawns providing splendor to the ceremony,  like those in pursuit of beauty they have shone forth with their  
 ornaments— coursing like rivers, those with glinting spears have measured out the  stages of their journey like the distant realms.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like rays of Dawn, the visitors of sacrifice, they shine with ornaments as eager to be bright.  
      Like rivers hasting on, glittering with their spears, from far away they measure out the distances.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Strahlen der Morgenröte das Opfer verschönend, wie Prunksüchtige erglänzten sie mit ihren Zieraten. Wie die Ströme eilend mit blinkenden Speeren, wie aus der Ferne Kommende haben sie die Meilen gemessen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Fest verschönend wie der Morgenröthe Strahlen, erglänzen sie mit Geschmeide, wie solche, die zum Prachtfest gehen, mit funkelnden Speeren wie Ströme eilend durchmassen sie wie aus weiter Ferne die Strecken des Weges.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Словно лучи утренних зорь, украшающие обряд,  
 Как (люди), стремящиеся к роскоши, далеко сверкнули они украшениями.  

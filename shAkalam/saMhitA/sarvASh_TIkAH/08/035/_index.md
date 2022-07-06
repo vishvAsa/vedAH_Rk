@@ -8,7 +8,7 @@ title = "+035"
 'अग्निनेन्द्रेण' इति चतुर्विंशत्यृचं पञ्चमं सूक्तं श्यावाश्वस्यात्रेयस्यार्षम् । अत्रानुक्रमणिका-- ‘अग्निना चतुर्विंशतिः श्यावाश्व आश्विनमौपरिष्टाज्ज्योतिषं पङ्क्तिमहाबृहतीपङ्क्त्यन्तम्' इति । उपरिष्टाज्ज्योतिश्छन्दः। चतुर्थपादस्याष्टाक्षरत्वात् । यतोऽष्टकस्ततो ज्योतिः' (अनु. ९.८) इति तल्लक्षणम्। द्वाविंशी पङ्क्तिः । त्रयोविंशी महाबृहती ‘चत्वारोऽष्टका जागतश्च महाबृहती ' ( अनु. ९. ९ ) इत्युक्तलक्षणोपेतत्वात् । चतुर्विंशी पङ्क्तिः । अश्विनौ देवता । अप्तोर्यामे होतुरतिरिक्तोक्थे ' अग्निनेन्द्रेण ' इत्येतत्सूक्तम् । सूत्रितं च– अग्निनेन्द्रेणा भात्यग्निः ' ( आश्व. श्रौ. ९. ११ ) इति ।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 35 (655)  
 Aśvins  
@@ -18,7 +18,7 @@ The Anukramaṇī’s attribution of this hymn to Śyāvāśva is supported by h
 The most interesting tr̥ca consists of verses 16–18. As a number of others have  pointed out, these three verses, asking the Aśvins to “quicken” or “animate” various  things for us, are appropriate to the three varṇas in turn: verse 16 to the brahmin, 17  to the kṣatriya, and 18 to the vaiśya. In fact, verse 16 begins with the word bráhma,  while 17 begins with kṣatrám. In 16 we ask for the Aśvins’ aid for ritual and priestly  elements, in 17 for elements related to kingly and martial power, and in 18 for our  livestock and people. As is well known, the varṇa system is not a prominent feature  of the R̥gveda and may well only be taking shape in this period, but this small collec tion of Śyāvāśva hymns displays it clearly—not only in this tr̥ca, but in the next two  twinned hymns (36 and 37) with their reference to bráhman and kṣatrá respectively.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Aśvins See the published introduction. for the pattern of repetitions in this very repetitious hymn.
 

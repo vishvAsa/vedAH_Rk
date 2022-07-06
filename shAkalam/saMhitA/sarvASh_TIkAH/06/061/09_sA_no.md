@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सा꣡ नो वि꣡श्वा अ꣡ति द्वि꣡षः  
 स्व꣡सॄर् अन्या꣡ ऋता꣡वरी  
 अ꣡तन्न् अ꣡हेव सू꣡रियः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 अत॑न् । अहा॑ऽइव । सूर्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -93,7 +93,7 @@ genre M
 **सा** सरस्वती **नः** अस्मान् **विश्वाः** सर्वाः द्विषः द्वेष्ट्रीः प्रजाः **अति** नयतु अतितारयतु । तथा **स्वसॄः** स्वयं सारिणीः सहोत्पन्ना वा **ऋतावरीः** । ऋतमित्युदकनाम । तद्युक्ताः **अन्याः** च नदीरस्मानतिनयतु । यद्वा । जस्येव ‘वा छन्दसि इति पूर्वसवर्णदीर्घः । उदकवत्यः स्वसारो भगिन्योऽन्या गङ्गाद्या नद्यश्चास्मान् शत्रून् अतिनयन्तु। तत्र दृष्टान्तः । **सूर्यः** सर्वस्य प्रेरक आदित्यः **अतन्** सततं गच्छन् **अहेव** अहानीव । यथाहानि शीघ्रमतिनयति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,14 +104,14 @@ genre M
 Bring to us: ati svasṛranyā ṛtāvarī: ati = atini, to lead over or beyond, or ati dviṣaḥ, may the other sisters overcome those who hate us
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Beyond all hatreds, beyond her other sisters [=rivers] has the  
 truthful one  
 extended us, like the sun the days.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The various tr. (Geldner, Renou, Klein [DGRV I.402]) supply a verb in pāda a, reserving átan (c) for bc. I do not see why. Both Geldner (n. 9a) and Renou do allow for the possibility that átan has domain over the whole vs., but both identify that possible constr. as a zeugma. Again, I don’t see why -- while it is true that hatreds and rivers are different kinds of entities, mingling of the mental and the physical is standard practice in the RV.
 
@@ -130,23 +130,23 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She hath spread us beyond all foes, beyond her Sisters, Holy One,  
      As Surya spreadeth out the days.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie hat uns über alle Anfeindungen hinweg geholfen; die Gesetzestreue hat uns über ihre anderen Schwestern ausgedehnt wie die Sonne die Tage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie dehnt' uns durch der Schwestern Schar und über alle Feinde aus, Die hehre, wie die Sonn' ihr Licht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Она нас (переправила) через все проявления враждебности.  
 Верная закону, других сестер  

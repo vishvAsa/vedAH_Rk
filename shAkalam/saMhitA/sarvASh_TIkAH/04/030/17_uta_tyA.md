@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत꣡ त्या꣡ तुर्व꣡शाय꣡दू  
 अस्नाता꣡रा श꣡चीप꣡तिः  
 इ꣡न्द्रो विद्वाँ꣡ अपारयत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इन्द्रः॑ । वि॒द्वान् । अ॒पा॒र॒य॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uta*
 - \[adverb\]
@@ -79,7 +79,7 @@ genre M
 उत अपि च **अस्नातारा** अस्नातारौ ययातिशापादनभिषिक्तौ **त्या** त्यौ तौ प्रसिद्धौ **तुर्वशायदू** तुर्वशनामानं यदुनामकं च राजानौ **शचीपतिः** कर्मणां पालकः । यद्वा शचीन्द्रस्य भार्या । तस्याः पतिर्भर्ता **विद्वान्** सकलमपि जानन् **इन्द्रः** **अपारयत्** अभिषेकार्हावकरोत् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M
 Apārayat =he enabled to cross; i.e., he made them worthy to be inaugurated or crowned which they were not at first, as the text implies by asnātārau, not bathers; allusion is to their exclusion from the succession in favour of the young son **Puru** by their father **Yayāti**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And these two, Turvaśa and Yadu, who could not swim, did the lord of  powers,  
 the knowing Indra, bring to the far shore.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Witzel Gotō render asnātā́rā as “ohne dass sie untertauchen,” flg. Tichy (Nom.Ag.
 
@@ -113,23 +113,23 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So sapient Indra, Lord of Might, brought Turvaga and Yadu, those  
      Who feared the flood, in safel o'er.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch den Turvasa und Yadu, die beide keine Schwimmer waren, hat der Kräfteherr Indra kundig hinübergerettet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und beide, Turvaça, Jadu fuhr Indra unbenetzt hindurch, Er, der's versteht, der starke Held.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Также тех турвашу и яду,  
 Которые не умели плавать, повелитель силы  

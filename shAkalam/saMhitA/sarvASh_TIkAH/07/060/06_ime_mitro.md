@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इमे꣡ मित्रो꣡ व꣡रुणो दूळ꣡भासो  
 अचेत꣡सं चिच् चितयन्ति द꣡क्षैः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 तिर꣡श् चिद् अं꣡हः सुप꣡था नयन्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अपि॑ । क्रतु॑म् । सु॒चेत॑सम् । वत॑न्तः । ति॒रः । चि॒त् । अंहः॑ । सु॒ऽपथा॑ । न॒य॒न्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ime* ← *idam*
 - \[noun\], accusative, dual, neuter
@@ -119,36 +119,36 @@ genre M
 **इमे** आदित्याः **मित्रः** **वरुणः** च । एतद्द्यमर्यम्णोऽप्युपलक्षणम् । एते **दूळभासः** दुर्दभाः अनभिभाव्याः **अचेतसं** **चित्** अप्रज्ञानमनुष्ठानविषयज्ञानरहितमपि **दक्षैः** सामर्थ्यैः **चितयन्ति** । **अपि** **सुचेतसं** प्रकृष्टज्ञानवन्तं पुरुषं **क्रतुं** कर्तारं कर्मानुष्ठानवन्तं **वतन्तः** गच्छन्तः **अंहः** दुष्कृतं **तिरश्चित्** तिरो नयन्तोऽस्मान् **सुपथा** शोभनेन मार्गेण **नयन्ति** प्रापयन्त्यभिमतं यज्ञं स्वर्गादिकं वा ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “These, the unsubdued **Mitra**, **Varuṇa** and **Aryaman**, animate with energies the unconscious (sleepers);repairing tot he intelligent performer (of pious acts), they lead (him), by safe pahs (to heaven), removing alliniquity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These hard to deceive—Mitra, Varuṇa, (and Aryaman)—cause even the  unperceptive man to perceive through their skills.  
 Fully knowing the resolve based on good perception, they lead by a  good path even across narrow straits.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These, Mitra, Varuna whom none deceiveth, with great power quicken even the fool to wisdom,  
      And, wakening, moreover, thoughtful insight, lead it by easy paths o'er grief and trouble.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Sie, die schwer zu täuschenden Mitra und Varuna, bringen auch den Unverständigen durch Verstand zur Einsicht. Einen verständigen Entschluß für ihn fassend führen sie auf gutem Pfade selbst über die Not hinweg.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht sind zu täuschen Varuna und Mitra, den Thoren auch belehren sie durch Weisheit, Einflössend einsichtsvolle Geisteskräfte, auf guter Bahn auch über Drangsal führend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они – Митра, Варуна, которых трудно обмануть, (и Арьяман) –  
 Даже неразумного вразумляют (своими) силами действия.  

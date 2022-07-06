@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बो꣡धा मे अस्य꣡ व꣡चसो यविष्ठ  
 मं꣡हिष्ठस्य प्र꣡भृतस्य स्वधावः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वन्दा꣡रुस् ते तनु꣡वं वन्दे अग्ने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पीय॑ति । त्वः॒ । अनु॑ । त्वः॒ । गृ॒णा॒ति॒ । व॒न्दारुः॑ । ते॒ । त॒न्व॑म् । व॒न्दे॒ । अ॒ग्ने॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bodhā* ← *bodha* ← *budh*
 - \[verb\], singular, Present imperative
@@ -114,46 +114,46 @@ genre M
 हे **यविष्ठ** युवतम हे **स्वधावः** हविर्लक्षणान्नेन तद्वन्नग्ने **मे** मदीयस्य **मंहिष्ठस्य** अतिशयेन पूजनीयस्य **प्रभृतस्य** प्रकर्षेण संपादितस्य **अस्य** इदानीं क्रियमाणस्य **वचसः** स्तुतिरूपस्य वचनस्य ॥ कर्मणि षष्ठी ॥ उक्तलक्षणं वचः **बोध** बुध्यस्व स्तुतो भवेत्यर्थः । हे अग्ने लोके **त्वः** । अत्र यास्कः  ‘त्वो नेम इत्यर्धस्य ' (निरु. ३. २०) इत्युक्त्वा एतदेवोदाजहार । एको जनः **पीयति**। वधकर्मैतत् । हिनस्ति । यज्ञादिना न पूजयतीत्यर्थः । **त्वः** एकः **अनु** **गृणाति** अनुकूलम् उच्चारयति । तयोर्मध्ये हे **अग्ने** **वन्दारुः** वन्दनशीलोऽहं **ते** तव **तन्वं** तनुं तव मूर्तिं **वन्दे** स्तौमि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Youthful (**Agni**), to whom oblations are due, appreciate this my reverential and earnest praise; one man reviles (you), another propitiates (you); I, your worshipper, glorify, your person n.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Take heed of this most munificent speech of mine that has been brought  forward, o youngest one of independent will.  
 One man reviles but another sings welcome: as an extoller, I extol your  body [/myself], o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (/Witzel Gotō) and Renou take tanvàm in d as a reflexive pronoun and tr. “I extol myself” (e.g., Renou “(étant) ton laudateur, (c’est en fait) moi-même (que) je loue.”) Although I accept this as a secondary reading, I think the primary sense of tanvàm must be ‘body’ here, namely the body of Agni. Such is Sāyaṇa’s interpr., followed by Oldenberg (SBE). The expression seems just a variant of V.28.4 ágne vánde táva śríyam “O Agni, I extol your glory”; moreover, tanvàm is found in a number of Agni passages referring to ritual procedures done on/to the body of the fire (e.g., III.18.4, VI.11.2, VII.8.5).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mark this my speech, Divine One, thou, Most Youthful! offered to thee by him who gives most freely.  
      One hates thee, and another sings thy praises: I thine adorer laud thy form, O Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Give heed to this my proffered hymn, O youngest one, which is most rich in liberal gifts 1, O self-dependent one! The one abuses thee, the other praises thee: I thy reverer revere thy body, O Agni 2!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Achte, du Jüngster, auf diese freigebigste Rede, die von mir vorgebracht wird, du Eigenmächtiger! Der eine widerspricht, der andere zollt Beifall. Als dein Lobredner lobe ich mich selbst, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf diese meine Rede acht' o jüngster, die sehr erfreut, o Herr, die vorgetragne; Der eine hasst dich und der andre liebt dich; ich, Agni, rühm' dich selbst, als dein Verehrer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обрати внимание, о самый юный, на эту мою речь,  
 Щедрейшую, принесенную (тебе), о самосущий!  

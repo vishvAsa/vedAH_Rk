@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ वो धि꣡यो मन्द्रयु꣡वो विपन्यु꣡वः  
 पनस्यु꣡वः संव꣡सनेषु अक्रमुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अभि꣡ धेन꣡वः प꣡यसेम् अशिश्रयुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सोम॑म् । म॒नी॒षाः । अ॒भि । अ॒नू॒ष॒त॒ । स्तुभः॑ । अ॒भि । धे॒नवः॑ । पय॑सा । ई॒म् । अ॒शि॒श्र॒युः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -112,20 +112,20 @@ genre M
 हे सोम **वः** युष्माकं **धियः** ध्यातारः **मन्द्रयुवः** मदकरं शब्दं कामयमानाः **पनस्युवः** स्तुतिं कामयमानाः **विपन्युवः** । स्तोतृनामैतत् । स्तोतारः **संवसनेषु** संवासयोग्येषु यागगृहेषु **प्र** **अक्रमुः** प्रक्रमन्ते । तदेवाह । **सोमं** **मनीषाः** मनस ईश्वराः **स्तुभः** स्तोतारः **अभ्यनूषत** अभिष्टुवन्ति । **धेनवः** अपि **पयसा** स्वीयेन **ईम्** एनं सोमम् **अभि** **अशिश्रयुः** अभिश्रीणन्ति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your thoughtful worshippers (**Soma**), desiring an exhilarating sound, purposing praise, advance into the halls of sacrifice; the praisers the lords of intellect praise Soma, the kine approach him with their milk.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth have your insights stridden, arousing exhilaration, expressing  admiration, inviting admiration in their joint dwellings.  
 The inspired thoughts, the rhythms have roared to Soma; the milk-cows  have mixed him with milk.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not make it clear that “your” is pl. (enclitic vaḥ) and must refer to the poet/officiants.
 
@@ -144,23 +144,23 @@ The first two vss. of this tṛca begin with prá with a verb of motion, but oth
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your songs, exhilarating, tuneful, uttering praise, are come into the placns where the people meet.  
      Worshippers have exalted Soma with their hymns, and milch kine have come near to meet him with their milk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Dichtungen huben an, wohlklingend, lobspendend in den Sitzungen, nach Beifall verlangend. Dem Soma tönten die Dichtungen, die Gesänge entgegen. Die Milchkühe haben ihn mit ihrer Milch gemischt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Jetzt schritten eure frommen Andachtswerke vor, erfreuend, rühmend und bewundernd bei dem Fest, Dem Soma tönten rauschend eure Lieder zu, und Kühe haben ihn mit ihrer Milch gewärmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

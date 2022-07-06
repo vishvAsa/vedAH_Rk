@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ घा ते꣡ पुरुषि꣡या इ꣡द् आसन्  
 ये꣡षाम् पू꣡र्वेषाम् अ꣡शृणोर् ऋ꣡षीणाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त्वं꣡ न इन्द्रासि प्र꣡मतिः पिते꣡व
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 अध॑ । अ॒हम् । त्वा॒ । म॒घ॒ऽव॒न् । जो॒ह॒वी॒मि॒ । त्वम् । नः॒ । इ॒न्द्र॒ । अ॒सि॒ । प्रऽम॑तिः । पि॒ताऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -139,36 +139,36 @@ genre M
 **उत** अपि च । **घ** इति पूरणः । हे **मघवन्** **येषां** **पूर्वेषाम्** **ऋषीणां** स्तुतीः **अशृणोः** **ते** पूर्व ऋषयः **पुरुष्याः** **इत्** पुरुषेभ्यो हिता एव **आसन्** । **अध** अतः **अहं** **त्वा** त्वां **जोहवीमि** भृशं स्तौमि । अपि च हे **इन्द्र** **त्वं** **नः** अस्माकं **पितेव** जनक इव **प्रमतिः** बन्धुः **असि** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Friendly to man were those ancien Ṛṣis whose praise you have listened to; therefore, I repeatedlyinvoke you, **Maghavan**; you, **Indra**, are well affected towards us as a parent.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They too were just men—those earlier seers you listened to.  
 So now it is I who eagerly invoke you, bounteous one. You, Indra, are  solicitude for us, like a father.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They, verily, were also human beings whom thou wast wont to hear, those earlier sages.  
      Hence I, O Indra Maghavan, invoke thee: thou art our Providence, even as a Father.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch jene früheren Rishi´s waren Menschensöhne, auf die du gehört hast. Darum rufe ich laut zu dir, o Gabenreicher. Du Indra bist unsere Vorsehung gleich einem Vater.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat ja viele Menschen stets gegeben und alte Dichter, welche du erhört hast; So ruf' auch ich dich heute an, gewalt'ger, du sorgst für uns ja, Indra, wie ein Vater.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь из людей были и те  
 Прежние риши, к кому ты прислушивался!  

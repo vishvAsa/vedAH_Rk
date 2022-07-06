@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवा꣡म् मृगे꣡व वारणा꣡ मृगण्य꣡वो  
 दोषा꣡ व꣡स्तोर् हवि꣡षा नि꣡ ह्वयामहे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 इ꣡षं ज꣡नाय वहथः शुभस् पती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यु॒वम् । होत्रा॑म् । ऋ॒तु॒ऽथा । जुह्व॑ते । न॒रा॒ । इष॑म् । जना॑य । व॒ह॒थः॒ । शु॒भः॒ । प॒ती॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvām* ← *tvad*
 - \[noun\], accusative, dual, masculine
@@ -122,7 +122,7 @@ genre M
 हे अश्विनौ **युवां** **वारणा** वारणौ **मृगेव** यथा शार्दूलौ **मृगण्यवः** मृगयवः तद्वद्वयं **दोषा** रात्रौ **वस्तोः** अहनि च **हविषा** **नि** ह्वयामहे नियमेन हृयामः । किंच हे **नरा** नेतारावश्विनौ **युवं** युवाम् **ऋतुथा** काले काले **होत्रम्** आहुतिं **जुह्वते** जुह्वति । यजमाना इति शेषः । किंच युवां **शुभः** शुभस्य वृष्टयुदकस्य **पती** स्वामिनौ सन्तौ **जनाय** जनार्थम् **इषम्** अन्नं **वहथः** प्रापयथः॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ genre M
 Hunting two wild elephants: hunting two elephants like tigers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like hunters on the track of wild elephants, we call you down in the  evening and at dawn with our oblation.  
 You two bring refreshment to the man who pours the libation in proper  order, you superior men, you lords of beauty.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even as hunters follow two wild elephants, we with oblations call you down at morn and eve.  
      To folk who pay you offierings at appointed times, Chiefs, Lords of splendour, ye bring food to strengthen them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch locken wir wie die Jäger die wilden Elefanten nachts und morgens mit Opfern herbei. Ihr Herren bringet dem Mann, der pünktlich das Opfer begeht, Speisegenuß, ihr Gatten der Schönheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch locken Abends Morgens wir durch Opfertrank herbei, wie Jäger durch den Ruf das scheue Wild; Dem Menschen, der zu rechter Zeit: euch Trank ergiesst, dem fahrt ihr reiche Labung zu, o Glanzes Herrn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас заманиваем мы жертвенным возлиянием  
 Вечером и утром, как охотники – двух диких слонов.  

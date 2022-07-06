@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ इ꣡द् दा꣡सं तुवीर꣡वम् प꣡तिर् द꣡न्  
 षळक्षं꣡ · त्रिशीर्षा꣡णं दमन्यत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विपा꣡ वराह꣡म् अ꣡योअग्रया हन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । त्रि॒तः । नु । ओज॑सा । वृ॒धा॒नः । वि॒पा । व॒रा॒हम् । अयः॑ऽअग्रया । ह॒न्निति॑ हन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -124,7 +124,7 @@ genre M
 **स** **इत्** स एवेन्द्रः **पतिः** सर्वस्य स्वामी **दासम्** उपक्षपयितारं **तुवीरवं** बहुशब्दं संग्रामे भयंकरं शब्दं कुर्वाणं वृत्रं **दन्** दमयन् **षळक्षम्** अक्षिषट्कोपेतं **त्रिशीर्षाणं** त्रिशिरस्कं त्वष्टुः पुत्रं विश्वरूपं **दमन्यत्** दमितुं प्रहर्तुमैच्छत् । अवधीदित्यर्थः । यद्वा । दमयतीति दमनः । नन्द्यादित्वात् ल्युः । स इवाचरति । उपमानादाचारे ' (पा. सू. ३. १. १०) इति क्यच्यन्त्यलोपश्छन्दसः । ततो लङि • बहुलं छन्दसि ' इत्यडभावः । किंच **त्रितः** एतन्नामा महर्षिः अस्य इन्द्रस्य **ओजसा** बलेन **वृधानः** वर्धमानः **विपा** अङ्गुल्या । कीदृश्या । **अयोअग्रया** अयोवत्कठिननखया **वराहं** वराहारम् उदकवन्तं मेघं व्यहन् विहतवान् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,30 +135,30 @@ genre M
 Water-laden cloud:liṭ, the boar\]. leader of men, manifested favourably for our (aid), laudable, slew the bodies (of the enemies) in the slaughter ofthe Dasayus.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just he, the household lord, subdued the mightily roaring Dāsa, with his  six eyes and three heads.  
 Grown strong through his might, Trita smashed the boar with his  
 metal-tipped poetic inspiration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the dwelling, he subdued the demon who roared aloud, six-eyed and triple-headed.  
      Trta, made stronger by the might he lent him, struck down the boar with shaft whose point was iron.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Hausgebieter bezwang den laut brüllenden Dasa mit sechs Augen und drei Köpfen. Durch seine Kraft gestärkt erschlug Trita den Eber mit eisenspitziger Rede.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, der Hausherr, bezwang den mächtig tobenden Dämon, den sechsäugigen, dreiköpfigen; durch seine Kraft gestärkt tödtete Trita mit dem eisenspitzigen Pfeile den Eber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот самый хозяин дома укротил дасу,  
 Громко ревущего, семиглазого, трехглавого.  

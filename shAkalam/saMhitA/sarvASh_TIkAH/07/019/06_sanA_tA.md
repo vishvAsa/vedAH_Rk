@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ना ता꣡ त इन्दर+ भो꣡जनानि  
 रात꣡हव्याय दाशु꣡षे सुदा꣡से  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 व्य꣡न्तु ब्र꣡ह्माणि पुरुशाक वा꣡जम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वृष्णे॑ । ते॒ । हरी॒ इति॑ । वृष॑णा । यु॒न॒ज्मि॒ । व्यन्तु॑ । ब्रह्मा॑णि । पु॒रु॒ऽशा॒क॒ । वाज॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sanā* ← *sana*
 - \[noun\], nominative, plural, neuter
@@ -127,21 +127,21 @@ genre M
 हे **इन्द्र** **ते** तव  **रातहव्याय** दत्तहव्याय **दाशुषे** यजमानाय **सुदासे** **ता** तानि त्वया दत्तानि **भोजनानि** भोग्यानि धनानि **सना** सनानि सनातनानि बभूवुरिति शेषः । हे **पुरुशाक** बहुकर्मन्निन्द्र **वृष्णे** कामानां वर्षित्रे **ते** तुभ्यम् । त्वामानेतुमित्यर्थः । **वृषणा** वृषणौ **हरी** अश्वौ **युनज्मि** रथे योजयामि । **ब्रह्माणि** अस्मदीयानि स्तोत्राणि **वाजं** बलिनं त्वां **व्यन्तु** गच्छन्तु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your favours, **Indra**, to **Sudāsa**, the donor (of offerings), the presenter of oblations, are infinite;showerer (of benefits), I yoke for you (your vigorous) steeds; may our prayers reach you who are mighty, towhom many rites are addressed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Win these delights of yours, Indra, for the pious Sudās, who has given an  oblation.  
 For you, the bull, I yoke the two bullish fallow bays. Let my sacred  
 formulations pursue the prize, o you of many talents.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 sánā is generally taken (Grassmann, Geldner) as a neut. pl. adj. ‘old’ agreeing with bhójanāni, and this is certainly possible. I find the sentiment somewhat odd, however: to announce to Indra that the delights he has given to his client are “old” seems slighting. I prefer to interpret the word as the 2nd sg. act. impv. to √san ‘win’; exactly this form occurs several times in initial position elsewhere. What gives me pause, however, is I.178.4, which contains very parallel phraseology, sánā tā́te indra návyā ā́guḥ, and where I do interpret sánā as ‘old’. The difference there is that the poet contrasts the old deeds of Indra with the new ones (návyā) that have come and so avoids insulting the god. In any case, either the ‘old’ or the ‘win’ interpretation is possible here, though I have a preference for the latter.
 
@@ -150,23 +150,23 @@ The oblation of Sudās’s that was worth pursuing (vītáhavyam) in vs. 3 has n
 The phrase dāśúṣe sudā́se “for the pious Sudās” displays syllabic metathesis, dā-śū / su-dā, with neutralizing play on all three sibilants. The poet seems to like this 17 collocation: see comment above on vs. 2 for connections across three verses and below on VII.20.2.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Old are the blessings, Indra, which thou gavest Sudas the worshipper who brought oblations.  
      For thee, the Strong, I yoke thy strong Bay Horses: may our prayers reach thee and win strength, Most Mighty!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alt sind deine Wohltaten für den opferspendenden, freigebigen Sudas, o Indra. Dir, dem Bullen, schirre ich die beiden bullenartigen Falben an. Meine Kraftworte sollen den Preis erstreben, du Vielvermögender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das sind, o Indra, deine alten Gnaden, zu Lieb' dem frommen Opferbringer Sudas, Dir schirr' ich an, dem Stier, das goldne Stierpaar; dir, starker, mögen Kraft Gebete bringen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стары эти твои благодеяния, о Индра,  
 Для Судаса, приносившего жертвы, почитавшего (тебя).  

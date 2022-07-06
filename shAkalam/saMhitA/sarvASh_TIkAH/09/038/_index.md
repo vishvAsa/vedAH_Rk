@@ -8,7 +8,7 @@ title = "+038"
 ‘एषः' इति षडृचं चतुर्दशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘एष उ स्यः' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 38 (750)  
 Soma Pavamāna  
@@ -18,7 +18,7 @@ Like the previous hymn, attributed to the same poet, this hymn is unified by the
 phors and similes, particularly those of verse 4.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like IX.37 with sá opening every vs., every vs. in this hymn begins with a form of the eṣá- pronoun. The pattern here is both more complex and more emphatic: there is case variation (vss. 2 and 3 have acc. sg. etám, the rest nom. sg. eṣá), and in all vss. but vs. 2 the initial pronoun is followed by the appropriate form of syá-/tyá-: eṣá (u) syá, etáṃ tyám, a phrase that means ‘this very (one)’.
 </details>

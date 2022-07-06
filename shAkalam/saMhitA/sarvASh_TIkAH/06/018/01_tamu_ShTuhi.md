@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् उ ष्टुहि यो꣡ अभि꣡भूतिओजा  
 वन्व꣡न्न् अ꣡वातः पुरुहूत꣡ इ꣡न्द्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गीर्भि꣡र् वर्ध वृषभं꣡ चर्षणीना꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अषा॑ळ्हम् । उ॒ग्रम् । सह॑मानम् । आ॒भिः । गीः॒ऽभिः । व॒र्ध॒ । वृ॒ष॒भम् । च॒र्ष॒णी॒नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -127,42 +127,42 @@ genre M
 **अभिभूत्योजाः** अभिभावुकतेजाः **वन्वन्** शत्रून् हिंसन् **अवातः** शत्रुभिरहिंसितः ॥ वनोतेर्निष्ठान्तस्य नञ्पूर्वस्य रूपम् । यद्वा वातेर्वातम् ॥ अनभिगतः **पुरुहूतः** बहुभिराहूतः **यः** **इन्द्रः** अस्तीति शेष: । हे भरद्वाज **तमु** **ष्टुहि** तमेवेन्द्रं स्तुहि । अपि च **आभिः** वक्ष्यमाणाभिः **गीर्भिः** स्तुतिरूपाभिर्वाग्भिः तमिन्द्रं **वर्ध** वर्धय । कीदृशम् । **अषाळ्हम्** अनभिभूतम् **उग्रम्** उद्गूर्णम् ओजस्विनं वा **सहमानं** शत्रूनभिभवन्तं **चर्षणीनां** प्रजानां संबन्धिनं **वृषभं** वर्षितारम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Praise him who is **Indra**, the invoker of many, endowed with overpowering vigour, the destroyer (of foes), unharmed by them; exalt with these praises the irresistible, fierce, victorious Indra, the showerer (of benefits) upon mankind.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Praise him whose might is overpowering, the vanquishing but  
 unvanquished, much-summoned Indra.  
 Mighty, conquering but unconquered, the bull of the settled domains— strengthen him with these songs.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. contains two pairs of positive/negative etymological figures, both consisting of a pres. participle with “active” value (though one of them is morphologically middle) and a negated past part.: vanvánn ávātaḥ “vanquishing but unvanquished” and áṣāḷham … sáhamānam “conquering but unconquered.” It may not be an accident that the root syllables in each pair, though related by standard derivational processes, are quite distinct because of morphophonemic changes: van / vā and sah / ṣāḷh.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GLORIFY him whose might is all-surpassing, Indra the much-invoked who fights uninjured.  
      Magnify with these songs the never-vanquished, the Strong, the Bull of men, the Mighty Victor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn preise, der von überlegener Stärke, der unbesiegte Sieger, der der vielgerufene Indra ist. Den Unbezwungenen, Gewaltigen, Bezwingenden erbaue mit diesen Lobreden, den Bullen der Völker!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra preise, der von hoher Kraft ist, und ungefährdet siegreich, vielgerufen, Den unbesiegten Sieger, den gewalt'gen, mit diesen Liedern stärk den Herrn der Menschen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того восхваляй, кто (всех) превосходит силой,  
 (Кто) покоряющий, (но) непокоренный многопризываемый Индра!  

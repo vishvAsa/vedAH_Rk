@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ मा꣡नुषे वृज꣡ने शं꣡तमो हितो꣡  
 अग्नि꣡र् यज्ञे꣡षु जे꣡नियो न꣡ विश्प꣡तिः  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 महो꣡ देव꣡स्य धूर्तेः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -39,7 +39,7 @@ genre M
 सः । नः॒ । त्रा॒स॒ते॒ । वरु॑णस्य । धू॒र्तेः । म॒हः । दे॒वस्य॑ । धू॒र्तेः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -175,7 +175,7 @@ genre M
 **सः** **अग्निः** **मानुषे** मनुष्यस्य यजमानस्य संबन्धिनि **वृजने** वर्जनीये पापे निमित्तभूते सति **यज्ञेषु** निमित्तेषु **शंतमः** अत्यन्तं सुखतमः अरिष्टस्य निवारकत्वात् अत एव **हितः** स्वर्गाद्यभिमतसाधकत्वात् । किंच अयं **यज्ञेषु** **विश्पतिः** ऋत्विग्रूपाणां प्रजानाम् अतिशयेन पालकः। ‘ पत्यावैश्वर्ये ' इति पूर्वपदप्रकृतिस्वरे प्राप्ते ‘परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ॥ अतएव **प्रियः** च भवति । तत्र दृष्टान्तः । **जेन्यो** **न** विश्पतिः जयशीलो राजेव । स यथा परसेनाद्युपद्रवपरिहारेण सम्यक्परिपालनेन च प्रजानां प्रियो भवति । किंच अयमग्निः **मानुषाणां** मनुष्याणां यजमानानां संबन्धीनि **हव्या** हवींषि  **इळा** **कृतानि** इळायां वेद्यां कृतानि संपादितानि उद्दिश्य **पत्यते** पतति आगच्छति । किंच **सः** अग्निः **नः** अस्मान् यजमानान् **वरुणस्य** वारकस्य **धूर्तेः** हिंसकस्य भयात् **त्रासते** त्रायते । यद्वा । धूर्तेरिति पञ्चमी । वरुणस्य पापदेवस्य धूर्तेर्हिंसकात् । किंच **महः** महतः **देवस्य** **धूर्तेः** हिंसातः त्रासते पालयते । अयष्टारम् अग्निर्हिनस्तीति प्रसिद्धम् । यद्वा । एकमेव वाक्यम् । धूर्तेः हिंसकस्य महः महतः वरुणस्य देवस्य वरुणाख्यायाः पापदेवतायाः धूर्तेः हिंसातः नः अस्मान् सः अग्निः त्रासते त्रायते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -186,7 +186,7 @@ genre M
 Trāsate varuṇasya dhūrter maho **devasya** dhūrteḥ, preserves us from the malevolence of the obstructor of religious rites (varuṇa = **vāraka**, the impeder)-- from the malevolence of the mighty deity presiding over sin, **pāpa**-**devatā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has been established as most beneficial in the ritual enclosure  belonging to Manu; Agni (has been established) like a noble clanlord  at the sacrifices—a dear clanlord at the sacrifices.  
 He is master of the oblations of the sons of Manu, the oblations  
@@ -194,34 +194,34 @@ prepared with the refreshing drink.
 He will rescue us from the injury of Varuṇa—from the injury of the  great god.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 jénya- is of unclear formation (see EWA s.v.), and opinion is generally split between a derivation from √jan ‘be born’ (e.g., Grassmann ‘edel’) and √ji ‘win’ (e.g., Witzel Gotō ‘siegreich’), with EWA tentatively opting for the latter. In contrast, I find that a meaning ‘noble’ vel sim. better fits most passages and consider it a pseudo-gerundive to √jan, built to the zero-grade formant jā- (cf. in this hymn jāyata 1a, ájāyata 4f, g), with the semantic development ‘(worthy) to be born, noble, thoroughbred’; its use with inanimate vásu (e.g., the cmpd. jenyā-vasu- ‘having noble goods’) is simply an extension comparable to English “noble metals” (vs. base metals).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That Agni hath been set most kind in camp of men, in sacrifice like a Lord victorious, like a dear Lord in sacred rites.  
      His are the oblations of mankind when offered up at Ila's place.  
      He shall preserve us from Varuna's chastisement, yea, from the great God's chastisement.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He has been established as the most blissful one in the enclosures of men, Agni, at the sacrifices, like a noble lord of the clans, a beloved lord of the clans at the sacrifices: he rules over the oblations of men to which nourishing power has been imparted 1. May he protect us from harm that comes from Varuna, from harm 2 that comes from the great god.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist als der am meisten Frommende über den menschlichen Opferbund, über die Opfer gesetzt wie ein stammverwandter Clanherr, über die Opfer als der liebe Clanherr. Er verfügt über die Opferspenden der Menschen, die von der Id bereitet sind. Er möge uns vor Varuna´s Tücke bewahren, vor der Tücke des großen Gottes.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als bester ist im Menschenstamm er eingesetzt, bei Opfern Agni als der edle Hausesherr bei Opfern als der liebe Herr; Sein sind der Menschen Opfer all', die andachtsvoll ergossen sind; Er mög' uns schützen vor der Strafe Varuna's, des grossen Gottes Strafe uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот Агни укоренен как самый благодатный в человеческой общине,  
 Как лучший господин племен на жертвоприношениях,  

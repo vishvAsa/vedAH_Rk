@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ब्र꣡ह्मा त इन्द्र गिर्वणः  
 क्रिय꣡न्ते अ꣡नतिद्भुता  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 इ꣡न्द्र या꣡ ते अ꣡मन्महि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 इ॒मा । जु॒ष॒स्व॒ । ह॒रि॒ऽअ॒श्व॒ । योज॑ना । इन्द्र॑ । या । ते॒ । अम॑न्महि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *brahmā* ← *brahman*
 - \[noun\], nominative, plural, neuter
@@ -108,7 +108,7 @@ genre M
 हे **गिर्वणः** गीर्भिर्वननीय **इन्द्र** **अनतिद्भुता** त्वद्गुणान् सर्वानतिक्रम्य न भवन्ति । इन्द्रगुणव्यापकानि । यथार्थभूतानीत्यर्थः । तादृशानि यानि **ब्रह्म** ब्रह्माणि स्तोत्राणि **ते** त्वदर्थमस्माभिः **क्रियन्ते** हे **हर्यश्व** हरिताश्ववन् हे इन्द्र योजनानि तव सम्यग्योजनशीलानि तानि **इमा** इमानि स्तोत्राणि **जुषस्व** सेवस्व । किंच हे **इन्द्र** **ते** त्वदर्थं **या** यानि स्तोत्राणि **अमन्महि** वयमुच्चरामः तानि सर्वाणि सेवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,34 +123,34 @@ Atibhūta = **adbhuta**;
 Hymns: **yojana** = **stotra** (RV1.88.5)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The unsurpassable sacred formulations are being performed for you, o  Indra who yearn for song.  
 Take pleasure in these “teams,” o possessor of fallow bays, which we  have thought up for you, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The common trope of hymns as horses, teamed to bring Indra to the sacrifice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Prayers unsurpassed are offered up to thee the Lover of the Song.  
      Indra, Lord of Bay Steeds, accept these fitting hymns, hymns which we have thought out for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erbauungen werden dir, du lobbegehrender Indra, gemacht, nicht zu überhörende. Hab an diesen als deinen Gespannen Wohlgefallen, du Falbenfahrer, die wir dir, Indra, erdacht haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dir, Indra, wird Gebet gebracht, liedfroher, unvergleichlicher Nimm, Füchselenker, diese Spruchgespanne an, die wir dir, Indra, ausgedacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ याहि व꣡स्विया धिया꣡  
 मं꣡हिष्ठो जारय꣡न्मखः सुदा꣡नुभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -28,7 +28,7 @@ genre M;; line affected by realignment
 आ । या॒हि॒ । वस्व्या॑ । धि॒या । मंहि॑ष्ठः । जा॒र॒यत्ऽम॑खः । सु॒दानु॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -71,34 +71,34 @@ genre M;; line affected by realignment
 हे उषः **वस्व्या** प्रशस्तया धिया अनुग्रहबुद्ध्या कर्मणा स्तुत्या वा सार्धम् **आ** **याहि** आगच्छ । स चोषःकालः सुदानुभिः शोभनदानैर्यातृभिः पुरुषैः **मंहिष्ठः** धनानां दातृतमः अत एव जारयन्मखः समापयद्यज्ञश्च भवति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Come, (Uṣas), with kindly thoughts; (it is the season) most honoured by the genitive rous, and whichbrings the sacrifice to completion.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drive here with good insight, as the most bounteous one, along with those  of good gifts, as you awaken the bountiful while aging the combatants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with kind thoughts, most liberal, rousing the warrior's hymn of praise, with bounteous ones,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm herbei mit gütiger Absicht als der Freigebigste, der die Freigebigen weckt mit den gabenreichen Göttern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit frohem Sinne komme her; freigiebig naht mit Spendern Dschārajanmakha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приходи с добрым намерением,  
 Как охотнее всех дающий, пробуждающий щедрых вместе с изливающими дары (богами)!

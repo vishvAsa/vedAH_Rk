@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उतो꣡ नु꣡ अस्य य꣡न् मह꣡द्  
 अ꣡श्वावद् यो꣡जनम् बृह꣡द्  
 दामा꣡ र꣡थस्य द꣡दृशे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दा॒मा । रथ॑स्य । ददृ॑शे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uto* ← *uta*
 - \[adverb\]
@@ -94,41 +94,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अभिष्टवे** घर्मदाहे ‘ दुहन्ति सप्त ' इत्येषा । सूत्रितं च -- दुहन्ति सप्तैकां समिद्धो अग्निरश्विना' (आश्व. श्रौ. ४. ७) इति । ग्रावस्तोत्रेऽप्येषा । सूत्रितं च - ‘ दुहन्ति सप्तैकामधुक्षत्पिप्युषीमिषम् ' (आश्व. श्रौ. ५. १२) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “As soon as the great stout harness of his horses is seen (in the sky), the traces of his chariot.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And it’s just now that his team of horses, great and lofty,  
 the binder of the chariot, has been sighted.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann assigns dāmā́to an otherwise unattested long-ā́stem and glosses it as ‘Seil’, but it could just as well be the nom. sg. masc. to an -n-stem *dāmán- ‘binder’ formed to neut. dā́man- ‘bond’ (like m. brahmán- to neut. bráhman-).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And now that great and mighty team, the team of horses that are his,  
      And traces of his car, are seen.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Und sobald sein großes, hohes Rossegespann, der Strang des Wagens sichtbar ward,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und nun erblickt man sein Gespann, das rossversehen ist und gross, Das hehre, und des Wagens Strang.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот показалась его великая  
 Упряжка с конями высокая,  

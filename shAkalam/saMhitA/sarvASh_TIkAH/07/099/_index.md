@@ -8,7 +8,7 @@ title = "+099"
 ‘परो मात्रया ' इति सप्तर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभम्। 'उरुं यज्ञाय ' इत्याद्यास्तिस्र ऐन्द्रावैष्णव्यः शिष्टाः केवलविष्णुदेवताकाः। तथा चानुक्रान्तं -- परो वैष्णवं तूरुमित्यैन्द्र्यश्च तिस्रः ' इति । गतः सूक्तविनियोगः । विष्णुदेवताके पशौ ‘परो मात्रया' इति पुरोडाशस्य याज्या । सूत्रितं च - परो मात्रया तन्वा वृधानेरावती धेनुमती हि भूतम्' ( आश्व. श्रौ. ३. ८) इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 99 (615)  
 Viṣṇu (1–3, 7), Indra and Viṣṇu (4–6)  
@@ -20,7 +20,7 @@ The second three verses (4–6) are dedicated to Indra and Viṣṇu together, a
 The final verse is dedicated to Viṣṇu alone (Śipiviṣṭa being an enigmatic epithet  of Viṣṇu found in the R̥gveda only in this and the following hymn), though the sen timents of the verse are conventional. For further on the epithet, see the next hymn.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Viṣṇu, Viṣṇu and Indra
 </details>

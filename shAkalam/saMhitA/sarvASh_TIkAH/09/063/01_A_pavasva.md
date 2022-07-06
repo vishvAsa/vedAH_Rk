@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ पवस्व सहस्रि꣡णं  
 रयिं꣡ सोम सुवी꣡रियम्  
 अस्मे꣡ श्र꣡वांसि धारय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒स्मे इति॑ । श्रवां॑सि । धा॒र॒य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -83,21 +83,21 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **सोम** त्वं **सहस्रिणं** बहुसंख्याकं **सुवीर्यं** शोभनवीर्यं **रयिं** धनम् **आ** **पवस्व** आभिमुख्येन क्षर । अपि च **अस्मे** अस्मासु **श्रवांसि** अन्नानि **धारय** स्थापय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour (upon us), **Soma**, thousand-fold wealth, with excellent **male** progeny, secure to us ample food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In purifying yourself, o Soma, bring wealth in thousands and an  
 abundance of good heroes;  
 secure our claims to fame for us.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ No particular signs of unity, though the dat. índrāya in 2b anticipates the th
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 POUR hitherward, O Soma, wealth in thousands and heroic strength,  
      And keep renown secure for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere tausendfältigen Reichtum uns zu, o Soma, und die Meisterschaft; verleih uns Ruhm!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle tausendfaches Gut und Heldenkraft, o Soma, her, Uns reiche hohe Schätze dar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

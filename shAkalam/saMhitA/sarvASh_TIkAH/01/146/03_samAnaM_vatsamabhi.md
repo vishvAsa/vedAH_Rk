@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 समानं꣡ वत्स꣡म् अभि꣡ संच꣡रन्ती  
 वि꣡ष्वग् धेनू꣡ वि꣡ चरतः सुमे꣡के  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वान् के꣡ताँ अ꣡धि महो꣡ द꣡धाने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अ॒न॒प॒ऽवृ॒ज्यान् । अध्व॑नः । मिमा॑ने॒ इति॑ । विश्वा॑न् । केता॑न् । अधि॑ । म॒हः । दधा॑ने॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
@@ -115,7 +115,7 @@ genre M
 **समानम्** एकमेव **वत्सं** वत्सस्थानीयं पुत्रवत् हर्षहेतुम् अग्निम् अभिमुखं  **संचरन्ती** संचरन्त्यौ द्वे **धेनू** अग्निहितकरणेन प्रीणयित्र्यौ पत्नीयजमानलक्षणे धेनू **विष्वक्** **वि** **चरतः** संचरतः । स्तनपानादिसदृशेन्धनप्रक्षेपसंमार्जनादिना सम्यग्वर्धयतः इत्यर्थः । कीदृश्यौ ते **सुमेके** शोभनकर्माणौ शोभनमेहने वा परिचरणकुशले इत्यर्थः । किंच **अनपवृज्यान्** अपवर्जनीयरहितान् ॥ ‘ नञ्सुभ्याम् । इत्युत्तरपदान्तोदात्तत्वम् ॥ **अध्वनः** मार्गान् अग्नेः प्रान्तप्रदेशान् केशाद्यमेध्यरहितान् **मिमाने** संपादयित्र्यौ । किंच **विश्वान्केतान्** सर्वाणि प्रज्ञानानि प्रवर्धनविषयाणि **महः** महान्ति **अधि** अधिकं **दधाने** धारयन्त्यौ। ईदृश्यौ अध्वर्युयजमानरूपे जायापतिरूपे वा धेनू विश्वग्विचरतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,41 +126,41 @@ genre M
 Two well-disposed cows: either the instrumental tutor of the rite and the ministering priest, or the sacrificer and his wife: the **vatsa** calf, or offspring, is **Agni**; and possessing more: viśvān ketān **adhi** maho **dadha**-ne: **keta** = knowledge; sarvāṇi prajñāni pravardhanaviṣayāṇi, having for their object the augmentation of all sorts of wisdom of the highest description
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Converging upon the same calf, the two well-grounded milk-cows  wander apart on their separate ways,  
 measuring their roads whose end can never be reached, taking upon  themselves all the intentions of the great one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse has another unidentified dual as subject, here almost surely Night and Dawn (cf. also I.144.6), although a simultaneous reference to the kindling sticks cannot (and should not) be excluded.
 
 The contrastive saṃcárantī / ví carataḥ is hard to capture in tr.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Coming together to their common youngling both Cows, fairshaped, spread forth in all directions,  
      Measuring out the paths that must be travelled, entrusting all desires to him the Mighty.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Walking towards their common calf the two well-established 1 milch-cows 2 walk about in different directions. They measure interminable paths; they have invested themselves with all great desires.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihrem gemeinsamen Kalbe sich zuwendend gehen die beiden Milchkühe getrennte Wege, den richtigen Abstand einhaltend, indem sie ihre nicht endenden Wege zurücklegen, alle großen Wünsche in ihrer Hand haltend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie beide wandelnd zu demselben Kalbe die schönen Kühe gehn getrennt dann wieder, Durchmessend die noch unbetretnen Pfade, der Grösse Zeichen alle an sich nehmend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Двигаясь вместе к общему теленку  
 Две дойные коровы, твердо следуя порядку, расходятся в разные стороны,  

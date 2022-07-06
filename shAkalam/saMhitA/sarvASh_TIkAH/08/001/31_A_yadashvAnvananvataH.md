@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ य꣡द् अ꣡श्वान् व꣡नन्वतः  
 श्रद्ध꣡याहं꣡ र꣡थे रुह꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यो꣡ अ꣡स्ति या꣡दुवः पशुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उ॒त । वा॒मस्य॑ । वसु॑नः । चि॒के॒त॒ति॒ । यः । अस्ति॑ । याद्वः॑ । प॒शुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -105,7 +105,7 @@ genre M
 **वनन्वतः** वननवतः संभक्तवतः **अश्वान्** तुरगान् **अहं** प्रायोगिः **श्रद्धया** आदरातिशयेन युक्तः सन् **यत्** यदा हे मेध्यातिथे त्वदीये **रथे** **आ** **रुहं** आरोहयम्। रुहेरन्तर्भावितण्यर्थाल्लुङि ‘ कृमृदृरुहिभ्यः' इति च्लेरङादेशः । तदानीं मामेवं स्तुहि । **उत** अपि च । प्रकृतस्तुत्यपेक्ष एव समुच्चयः । **वामस्य** वननीयस्य **वसुनः** धनस्य । पूर्ववत् कर्मणि षष्ठी । ईदृशं धनं **चिकेतति** । एष आसङ्गो दातुं जानाति । **याद्वः** यदुवंशोद्भवः। यद्वा । यदवो मनुष्याः। तेषु प्रसिद्धः। **पशुः** । लुप्तमत्वर्थमेतत् । पशुमान् । यद्वा । पशुः पश्यतेः । सूक्ष्मस्य द्रष्टा । **यः** आसङ्गः **अस्ति** विद्यते एष चिकेततीत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,12 +116,12 @@ genre M
 Praise me: tadānīm mām evam stuhi, then verilypraise me; possessed of cattle: yādvaḥ **paśuḥ** = **yādava** animal, but **paśu** = paśumān, having animals; or,pās' = dṛs', to see, a beholder of subtle objects, sūkṣmasya **draṣṭā**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When with trust in the winning horses I mount on the chariot, of the valuable goods what will stand out is the livestock coming  from Yadu.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Some lexical and syntactic problems here. First, though the most obvious noun to construe with ā́… ruham ‘I mounted’ is the acc. áśvān ‘horses’, in fact horses never get mounted in the RV, only chariots (including in the loc., VIII.22.9). I therefore construe ráthe with the verb here and take the horses loosely with śraddháyā.
 
@@ -134,23 +134,23 @@ Klein (I.451) is puzzled by the passage but suggests that if the chariot of the 
 Finally, what is the value of ciketati? Oldenberg, followed by Klein, suggests supplying the patron as subject: “(then) will (the liberal one) take note (to give me) also (some) of the desirable wealth, which is the herd of Yadu” (tr. Klein I.451), taking the verb in the I/T meaning ‘perceives’. But this requires inventing a patron (although it is true that one appears in the next verse) and, more problematic, supplying a further verbal complement, not only “take note” but “to give me,” which seems to me to be taking more liberties with the text that we should. I therefore prefer to follow Geldner in taking ciketati in its less common intransitive value, meaning ‘appears, stands out’ (see Geldner’s notes for parallel passages, which interestingly are also dānastutis), with the relative clause of pāda d as its subject.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When to the car, by faith, I yoked the horses longing for the way-  
      For skilled is Yadu's son in dealing precious wealth, he who is rich in herds of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nachdem ich die ans Holz gespannten Rosse am Wagen mit Vertrauen bestiegen habe, fällt unter dem wertvollen Gute auch das Vieh, das dem Yadu gehört, in die Augen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sobald ich voll Vertrauen die schönen Rosse an dem Wagen bestiegen habe, so schaut auch schon jeder Mann (?) des Jadustammes auf das schöne [mir geschenkte] Gut aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда полный доверия я сел  
 На замечательных коней при колеснице,  

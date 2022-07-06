@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यः꣡ सृ꣡बिन्दम् अ꣡नर्शनिम्  
 पि꣡प्रुं दास꣡म् अहीशु꣡वम्  
 व꣡धीद् उग्रो꣡ रिण꣡न्न् अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वधी॑त् । उ॒ग्रः । रि॒णन् । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यः** इन्द्रः **उग्रः** उद्गूर्णस्तेजस्वी वा सः **अपः** उदकानि **रिणन्** प्रेरयन् सृबिन्दं सृबिन्दनामकं शत्रुम् **अनर्शनिम्** अनर्शनिनामकं **पिप्रुं** पिप्रुनामकं च **दासं** च **अहीशुवं** च शत्रुं **वधीत्** अवधीत् जघान ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The slave: dāsa = a proper name; dāsam ca ahiśuvam ca
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who smashed Sr̥binda (so he became) harmless, smashed Pipru the  Dāsa puffed up like a snake [/Ahīśuva]—  
 he the strong one letting flow the waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ánarśanim and ahīśúvam as PNs, in addition to sṛ́bindum and the familiar píprum. Mayrhofer (2003, Personennamen) is uncertain about ánarśani-.
 
@@ -110,23 +110,23 @@ The name of the first demon, Sṛbindu, displays non-Indo-Aryan phonology.
 See Kuiper (Aryans 40-41).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong God, he slew Anarsani, Srbinda, Pipru, and the fiend,  
      Ahisuva, and loosed the floods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der den Sribinda, den Anarsani, den Pipru, den Dasa Ahisu erschlug, der gewaltige, der die Gewässer laufen ließ!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des starken, der Sribindha schlug Anarçani, Ahiçuva, Den Unhold Pipru, Flut ergoss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Деяния (того,) кто убил Срибинду, Анаршани,  
 Пипру, дасу Ахишуву  

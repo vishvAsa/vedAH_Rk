@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ नूनं꣡ वां वि꣡मना उ꣡प स्तवद्  
 युवं꣡ धि꣡यं ददथुर् व꣡स्यïष्टये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मा꣡ नो वि꣡ यौष्टं सखिया꣡ मुमो꣡चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; repeated line
 ता । वा॒म् । विश्व॑कः । ह॒व॒ते॒ । त॒नू॒ऽकृ॒थे । मा । नः॒ । वि । यौ॒ष्ट॒म् । स॒ख्या । मु॒मोच॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -137,43 +137,43 @@ genre M;; repeated line
 हे अश्विनौ **विमनाः** एतन्नामक ऋषिः **नूनं** पुरा **कथा** कथं **वां** युवाम् **उप** **स्तवत्** कथमुपास्तौत् । तेन स्तुतौ **युवं** युवां **वस्यइष्टये** । वस्यो वसीयः प्रशस्तं धनम् । तस्याभिलषितस्येष्टयेऽभिगमनाय यद्वा वसिष्ठधनस्येष्टये प्राप्तये **धियं** बुद्धिं विमनसे **ददथुः** अददाथां खलु । वस्य इति वसुमच्छब्दादीयसुनि ‘विन्मतोर्लुक् ' इति लुक् । ईयसुन ईकारलोपश्छान्दसः ॥ तादृशौ युवां **विश्वको** **हवते** इति गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How **Vimanas** once praised you, and you gave him understanding for the attainment of excellent wealth!**Viśvaka** now invokes you for the sake of his son; sever not our friendships, but fling loose (your reins and gallophere).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How shall one of expansive mind now offer praise to you? You two have  given insight (to me? Viṣṇāpū?) to seek a better state.  
 Viśvaka calls upon you at the making of bodies. – Do not keep us away  from partnership with you. Release (him?)!
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The danger of imposing an after-the-fact narrative explanation onto a RVic hymn is shown by Geldner’s tr. of vímanāḥ here as “Betrübte” (distressed, afflicted).
 
 Although a negative reading of this compound is possible (“without a mind, with a mind [gone] away”), the only other occurrence of the word in the RV (X.82.2) is as a positive attribute of Viśvakarman, “vast in mind.” There is no reason that this sense cannot be found here as well; the next pāda states that the Aśvins gave him insight (dhíyam), and the question in our pāda -- how (kathā́) to praise the Aśvins -- need not be “how can someone with a disordered mind manage to praise them?” but rather “which of the many possible ways should someone with a capacious mind choose for praising them?” The questions in VIII.84.4-7, a hymn that belongs with ours though the Anukramaṇī attributes them to different poets (see remarks before VIII.81 in the published translation), are similar.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How shall he praise you now who is distraught in mind? Ye Twain give wisdom for the gainof what is good.  
      Visvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie soll euch jetzt der Betrübte preisen? Ihr habt von jeher die Erkenntnis verliehen, auf daß man sein Heil suche. - Euch ruft Visvaka um der Nachkommenschaft willen. Löset nicht unsere Freundschaft! Spannet aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie soll euch nun recht preisen der Verständige? ihr flösstet selbst die Bitt' ihm ein um Schatzgewinn; Drum rufet euch zum Schutz des Lebens Viçvaka; nicht weicht von unsrer Freundschaft, spannt die Rosse aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как теперь будет восхвалять вас огорченный (человек)?  
 Вы (некогда) дали мысль, что надо искать лучшего.  

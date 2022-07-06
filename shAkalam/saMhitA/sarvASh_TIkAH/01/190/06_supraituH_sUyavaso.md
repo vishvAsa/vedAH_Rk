@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुप्रए꣡तुः सूय꣡वसो न꣡ प꣡न्था  
 दुर्निय꣡न्तुः प꣡रिप्रीतो न꣡ मित्रः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡पीवृता अपोर्णुव꣡न्तो अस्थुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒न॒र्वाणः॑ । अ॒भि । ये । चक्ष॑ते । नः॒ । अपि॑ऽवृताः । अ॒प॒ऽऊ॒र्णु॒वन्तः॑ । अ॒स्थुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *supraituḥ* ← *supraitu*
 - \[noun\], nominative, singular, feminine
@@ -107,7 +107,7 @@ genre M
 हे बृहस्पते त्वं **सुप्रैतुः** सुष्ठु गन्तुर्मनुष्यस्य **सुयवसः** शोभनान्नस्य **पन्थाः** **न** मार्गं इव सुष्ठु यज्ञमार्गगामिनः सुयवसः पन्था इव सुखकारी भवेत्यर्थः । किंच **दुर्नियन्तुः** दुःखेन नियमितुः राज्ञः **परिप्रीतः** सर्वप्रकारेण संतुष्टो द्वेषादिरहितः **मित्रः** **न** सुहृन्मन्त्रीव । स यथा दुर्नयात् निवर्तयति तद्वत् त्वमपि तथा अस्मभ्यं कुर्वित्यर्थः । सखिवत् अमार्गान्निवर्त्य मार्गे यज्ञादिरूपे योजयित्वा तत्रापि फलप्रदो भवेत्यर्थः । किंच **अनर्वाणः** अपापाः **ये** नराः **नः** अस्मान् **अभि** आभिमुख्येन **चक्षते** बोधयन्ति ते **अपीवृताः** अज्ञानेनावृता अपि **अपोर्णुवन्तः** अपगतावरणवन्तो ज्ञानवन्तः **अस्थुः** तिष्ठन्तु । यद्वा । अनर्वाणस्त्वामप्राप्नुवन्तो येऽस्मद्विरोधिनो नोऽस्मानभि चक्षते अभिवदन्ति निन्दन्ति तेऽपीवृता आच्छादित रक्षिता अपि अपोर्णुवन्तः अपगतरक्षणा भवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -118,37 +118,37 @@ genre M
 Those sinless men: abhi ye cakṣate naḥ, those who speak to us; who, bodhayantī, waken or instrumental uct us;; apīvṛtā, ajñānenāvṛtā, enveloped by ignorance; let those who revileus, and are being protected be deprived of that protection
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You are) easy to approach like a path leading to good pastures, but  difficult to hold onto like an ally gratified by (all those) around.  
 The unassailable ones who watch over us have taken their stand,  
 unclosing the enclosed (cows).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In b the point is presumably that an ally who is constantly solicited by everyone around is likely to change sides without warning.
 
 With Oldenberg, Renou, and Schmidt (Bṛhaspati und Indra) I supply ‘cows’ with ápīvṛtā(ḥ), while Geldner (/Witzel Gotō) opt for ‘doors’. Since they all take the Aṅgirases as the implied subject, both interpr. refer to the Vala myth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like a fair path is he, where grass is pleasant, though hard to win, a Friend beloved most early.  
      Those who unharmed by enemies behold us, while they would make them bare, stood closely compassed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gern aufgesucht wie eine Straße mit schöner Weide, schwer festzuhalten wie ein umschmeichelter Freund - Die Unerreichbaren, die auf uns sehen, die sind dagestanden, indem sie die verschlossenen Tore aufschlossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem schön gebahnten, wiesenreichen Pfade, dem lieben Freunde gleichst du, bist unhemmbar; Die uns beschaun, die ewig unbesiegten, erhoben sich enthüllend das verhüllte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот, к кому легко идти – как по пути на хорошее пастбище,  
 Тот, кому трудно сопротивляться, как очень любящему другу...  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नू꣡ चित् स꣡ भ्रेषते ज꣡नो न꣡ रेषन्  
 म꣡नो यो꣡ अस्य घोर꣡म् आवि꣡वासात्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्ष꣡यत् स꣡ राय꣡ ऋतपा꣡ ऋतेजाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 य॒ज्ञैः । यः । इन्द्रे॑ । दध॑ते । दुवां॑सि । क्षय॑त् । सः । रा॒ये । ऋ॒त॒ऽपाः । ऋ॒ते॒ऽजाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nū* ← *nu*
 - \[adverb\]
@@ -138,20 +138,20 @@ genre M
 **यः** जनः **अस्य** इन्द्रस्य **घोरं** शत्रूणां बाधकं **मनः** **यज्ञैः** **आविवासात्** परिचरति **सः** **जनः** । नु इति प्रतिषेधे वर्तते । चिदित्येवकारार्थे । **नू** **चित्** नैव **भ्रेषते** स्थानान्न भ्रश्यति । **न** **रेषत्** नैव क्षीयेत । अपि च **यः** जनः **दुवांसि** परिचरणसाधनानि स्तोत्रशस्त्राणि **इन्द्रे** **दधते** निधत्ते तस्मै जनाय **ऋतपाः** यज्ञपाता **ऋतेजाः** यज्ञे जातश्च **सः** इन्द्रः **राये** धनाय **क्षयत्** निवसति । भवेदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who devotes his mind to the terrible **Indra** never falls (from his condition), nor will he perish; theprotector of sacred rites, the progeny of sacrifice, bestows riches on him who offers to Indra praises and prayerswith sacrifices.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Never will that person be injured, nor be harmed, who seeks to win his  [=Indra’s] terrible mind.  
 Whoever with sacrifices will place his friendship in Indra, he will rule  over wealth as protector of truth, born in truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final pāda has two linked uncertainties: the identity of the verb and the case form of rāyá. Though the Pp. reads dat. rāyé, gen.-abl. rā́yaḥ is equally possible.
 
@@ -160,23 +160,23 @@ The choice depends in great part on the analysis of the verb kṣáyat: whether 
 clause attached to this main clause, plus bhreṣate [on this form as an s-aor. subj. to √bhrī, see EWA s.v. bhrī, with ref. to Hoffmann], reṣat probably, and āvívāsāt in ab), but this does not necessarily decide for an affiliation to ‘dwell’, because there are no overt subjunctives to the Class I present of ‘rule over’ (no *kṣáyāt) and the injunctive might function modally here. Parallel passages cut both ways. On the one hand, ‘rule’ regularly takes the gen. of ‘wealth’: cf. I.51.14 (of Indra) rāyáḥ kṣayati, VII.93.2 kṣáyantau rāyáḥ (Indra and Agni), X.106.7 kṣayad rayīṇā́m (though in an otherwise incomprehensible verse); on the other, a form of ‘dwell’ appears in a parallel passage with the material from the end of the pāda: VI.3.1 … sá kṣesad rtap ̥ ā́r̥tejā́ḥ. Oldenberg, having considered both possibilities, opts (slightly) for the latter; Geldner’s tr. also assumes an affiliation with ‘dwell’ and a dat. rāyé: “der wird im Frieden lassen, um zu Reichtum (zu gelangen).” The published translation instead chooses ‘rule over’ and gen. rāyáḥ, though I recognize that both possibilities were probably in the poet’s mind. One slender support for my choice may be the parallel phrase in 9d … vásva ā́śakaḥ… “you hold power over goods,” with gen. vásvaḥ reprising the gen. rāyáḥ that opens 9c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The people falter not, nor suffer sorrow, who win themselves this God's terrific spirit.  
      He who with sacrifices worships Indra is lord of wealth, law-born and law's protector.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Niemals kommt der Mann zu Fall, noch leidet er Schaden, der seinen furchtbaren Sinn gewinnen kann. Wer mit Opfern gegen Indra seine Schuldigkeit tut, der wird im Frieden leben, um zu Reichtum zu gelangen, das Gesetz bewahrend, im Gesetz geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nicht leidet Schaden je der Mann, noch wankt er, der Indra's Sinn, den hocherhabnen ehret; Wer mit Verehrung Gaben bringt dem Indra, dem Brauche treu, ihn wahrend, der wird reich auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Никогда-то не оступится, не повредится тот человек,  
 Кто его грозный разум хочет покорить.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त्वा वि꣡प्रा अचुच्यवुः  
 सुत꣡सोमा अभि꣡ प्र꣡यः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡ग्ने म꣡र्ताय दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 बृ॒हत् । भाः । बिभ्र॑तः । ह॒विः । अग्ने॑ । मर्ता॑य । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -106,47 +106,47 @@ genre M
 हे **अग्ने** **सुतसोमाः** अभिषुतसोमयुक्ताः **विप्राः** मेधाविन ऋत्विजः **प्रयः** **अभि** हविर्लक्षणमन्नमभिलक्ष्य **त्वा** **आ** **अचुच्यवुः** त्वामागमयन्ति । कीदृशं त्वाम् । **बृहत्** महान्तं **भाः** भासमानम् । कीदृशा विप्राः। **दाशुषे** 'मर्ताय हविष्प्रदस्य यजमानस्य संबन्धि **हविः** **बिभ्रतः** धारयन्तः ॥ अचुच्यवुः । ‘च्युङ् गतौ' । अस्मात् अन्तर्भावितण्यर्थात् लङि व्यत्ययेन परस्मैपदम्। 'बहुलं छन्दसि' इति शपः श्लुः । ‘ सिजभ्यस्तविदिभ्यश्च ' ( पा. सू. ३. ४. १०९ ) इति झेर्जुसादेशः ‘जुसि च' (पा. सू. ७. ३. ८३ ) इति गुणः । बृहत् । भाः। उभयत्र ‘सुपां सुलुक्' इति विभक्तेर्लुक्। बिभ्रतः । ‘डुभृञ् धारणपोषणयोः'। शतरि 'नाभ्यस्ताच्छतुः' इति नुमागमप्रतिषेधः । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । मर्ताय दाशुषे । उभयत्र 'षष्ठ्यर्थे चतुर्थी वक्तव्य ' ( पा. सू. २. ३. ६२. १ ) इति चतुर्थी ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The wise (priests), with effused libations of **Soma** juice, have summoned you, vast and brilliant **Agni**, to partake of the (sacrificial food) as they hold the oblation on the part of the individual who presents it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired poets whose soma is pressed have roused you to delight— they bearing the lofty light, the oblation for the pious mortal, o Agni.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonetic figure in c: br̥hád bhā́bíbhrato havír, playing with b, bh, and h; ṛ and r.
 
 Most tr. take bṛhád bhā́ḥ ‘lofty light’ as coreferential with tvā (=Agni), not as object of bíbhrataḥ, parallel with havíḥ. This in some ways makes better sense, though the word order weakly favors my tr. Oldenberg (SBE) also takes the phrase as the obj. of bíbhrataḥ and adduces a telling parallel, IV.5.1 kathā́dāśemāgnáye bṛhád bhā́ḥ, where the phrase is emphatically not coreferential with Agni.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Singers with Soma pressed have made thee, Agni, hasten to the feast,  
      Great light to mortal worshipper, what time they bring the sacred gift.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The wise who have pressed Soma have made thee speed hither to the feast (which is offered to the gods), bringing great light 1 and sacrificial food, O Agni, on behalf of the mortal worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Redekundigen haben bei gepreßtem Soma zum Opfergenuß dich, das große Licht, zum opfernden Sterblichen herbewogen, die Opfergabe darbringend, o Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sänger lockten dich herbei zum Mahl mit fert'gem Somasaft, O Agni, zu dem frommen Mann, dir bringend Trank und hellen Schein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя вдохновенные, выжавшие сому,  
 Подтолкнули к жертвенной пище,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 क्षत्रा꣡य त्वं श्र꣡वसे त्वम् महीया꣡  
 इष्ट꣡ये त्वम् अ꣡र्थम् इव त्वम् इत्यइ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ अजीगर् भु꣡वनानि वि꣡श्वा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 विऽस॑दृशा । जी॒वि॒ता । अ॒भि॒ऽप्र॒चक्षे॑ । उ॒षाः । अ॒जी॒गः॒ । भुव॑नानि । विश्वा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
@@ -116,20 +116,20 @@ genre M;; repeated line
 आभिमुख्येन प्रकाशयितुं व्युच्छन्ती **उषाः** सर्वाणि भूतजातानि तमसा निगीर्णानि **अजीग:** प्रकाशनेन उद्गीर्णानीवाकरोत् ॥ त्वम्  । त्वसमसिमनेमेत्यनुच्चानि' (फि. सू. ७८ ) इति सर्वानुदात्तत्वम्। महीयै। मह्यै । महेः ‘इन् सर्वधातुभ्यः' इति इन्प्रत्ययः। कृदिकारदक्तिनः' इति ङीष् ।  ‘ उदात्तयणः' इति विभक्तेरुदात्तत्वम् । छान्दसः ईकारोपजनः । यद्वा । महीशब्दादुत्तरस्य चतुर्थ्येकवचनस्य ' याडापः ' ( पा. सू. ७. ३. ११३ ) इति व्यत्ययेन याडागमः । छान्दसमन्तोदात्तत्वम् । विसदृशा । ‘त्यदादिषु दृशोऽनालोचने कञ्च' इत्यत्र  ‘ समानान्ययोश्च' (पा. सू. ३. २. ६०. १) इति वचनात् दृशेः कञ् । 'समानस्य च्छन्दसि' इति सभावः। विगतसादृश्यानि विसदृशानि।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अभिप्रचक्षे । चक्षेः “ तुमर्थे सेसेन्” ' इति सेन्प्रत्ययः । स्कोः संयोगाद्योः' इति कलोपः । कत्वषत्वे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The dawn rouses one man to acquire wealth, another to earn food, another to achieve greatness, another to sacrifices, another to his own (pursuits), another to activity, and lights all men to their various means of maintaining life. Uṣās has given back all the regions.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (She has awakened) one for dominion, another for fame, another to  seek greatness, another to go to whatever his goal.  
 Living being are not alike in what they have in view. – Dawn has  awakened all the creatures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner takes ártham iva as a real simile, containing a pun on ártha- (though he does not call attention to it): “um (an sein Geschäft) wie nach einem Reiseziel zu gehen,” with ártha- ‘business’ in the frame and ‘goal’ in the simile. This is clever and may well be right. In my published translation I take iva as a sort of indefinitizer: “whatever his goal.” Witzel Gotō by contrast seem to take it as a definitizer: “um just zum Ziel zu gehen,” which seems an odd use of iva.
 
@@ -140,28 +140,28 @@ Moreover, the sense conveyed seems contrary to what preceded it: the creatures i
 jīvitā́as ‘living beings’, rather than ‘modes of living’. I would prefer that it was not neut., but cf. neut. bhúvanāni (in the refrain and often elsewhere) ‘creatures’. jīvitáis found only once elsewhere in the RV in IV.54.2, where it seems to mean ‘lives’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 One to high sway, one to exalted glory, one to pursue his gain, and one his labour:  
      All to regard their different vocations, all moving creatures hath the Dawn awakened.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 One for dominion, and for fame another; Another is aroused for winning greatness; Another seeks the goal of varied nurture: Dawn has awakened every living creature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den zur Herrschaft und jenen um Ruhm und jenen um Ehre zu suchen, einen anderen um an sein Geschäft wie nach einem Reiseziel zu gehen. Um die verschiedenartigen Lebensweisen sich auszusuchen hat Usas alle Wesen erweckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zur Herrschaft den, zum Ruhmgenuss den andern, den zum Erwerb, und den nach Glück zu jagen, Verschiedne Lebenswege zu durchmustern, das Morgenroth erweckte alle Wesen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Того – к власти, этого к славе, иного к поискам  
 Величия, этого – заниматься своими делами.  

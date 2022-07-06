@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ त्वा म꣡दा अमदन् ता꣡नि वृ꣡ष्णिया  
 ते꣡ सो꣡मासो वृत्रह꣡त्येषु सत्पते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 बर्हि꣡ष्मते नि꣡ सह꣡स्राणि बर्ह꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यत् । का॒रवे॑ । दश॑ । वृ॒त्राणि॑ । अ॒प्र॒ति । ब॒र्हिष्म॑ते । नि । स॒हस्रा॑णि । ब॒र्हयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -127,7 +127,7 @@ genre M
 हे **सत्पते** सतां पालयितरिन्द्र **वृत्रहत्येषु** वृत्रहननेषु निमित्तभूतेषु सत्सु **ते** पूर्वोक्ताः **मदाः** मादका मरुतः **त्वा** त्वाम् **अमदन्** अमदयन् हर्षं प्रापयन्। **तानि** पूर्वोक्तानि **वृष्ण्या** वृष्णः सेचनसमर्थस्य तव संबन्धीनि चरुपुरोडाशादीनि हवींषि त्वाम् अमदन् । **ते** **सोमासः** प्रसिद्धाः सोमाश्च त्वाम् अमदन् । **यत्** यदा **कारवे** स्तुतिकर्त्रे **बर्हिष्मते** यज्ञवते यजमानाय **दश** **सहस्राणि** अपरिमितानि **वृत्राणि** आवरकाण्युपद्रवजातानि **अप्रति** शत्रुभिरप्रतिगतस्त्वं **नि** **बर्हयः** न्यवधीः । तदानीमिति पूर्वेण संबन्धः ॥ वृष्ण्या ।  ‘ शेश्छन्दसि बहुलम् ' इति शेर्लोपः। बर्हयः । बर्हयतिर्हिंसाकर्मा ( नि. २. १९. ३०)। लङि  ‘ बहुलं छन्दस्यमाङयोगेऽपि ' इति अडभावः । शपः पित्त्वादनुदात्तत्वे णिच एव स्वरः शिष्यते । यद्वृत्तयोगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,13 +138,13 @@ genre M
 **Daśa** sahaśrāṇi vṛtrāṇi = covers, concealments, obstructions, avarakāni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These exhilarating drinks exhilarated you and your bullish powers—these  soma juices at the smashing of obstacles, o lord of settlements,  
 when you laid low ten unopposable obstacles for the bard, a thousand  for the man who spreads the ritual grass.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 tā́ni vṛ́ṣṇyā can be either nom. or acc. Most tr. opt for the former, but I do not see how “bullish powers” can be the agent of exhilaration in the same way that soma drinks are. Surely the point is to rouse Indra’s bullish powers for the fight to come.
 
@@ -153,23 +153,23 @@ Geldner (/Witzel Gotō) take dáśa … sahásrāṇi as “ten thousand,” whi
 A little phonological play: barhíṣmate … barháyaḥ.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These our libations strength-inspiring, Soma draughts, gladdened thee in the fight with Vrtra, Hero Lord,  
      What time thou slewest for the singer with trimmed grass ten thousand Vrtras, thou resistless in thy might.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich berauschen diese Somatränke, diese Riesenkräfte, die Somatränke in den Schlachten, du rechtmäßiger Herr, als du für den Sänger, für den Opfernden zehntausend Feinde, denen keiner gewachsen war, niederstrecktest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich haben diese Tränke, diese Kräftiger, die Soma's dich berauscht, o Fürst, im Vritrakampf, Als du dem Sänger, der die Streu bereitete, zehntausend Feinde schlugest ohne Widerstand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Опьянили тебя эти пьянящие напитки, эти силы мужества  
 Эти соки сомы в битвах с врагами, о господин сущего,  

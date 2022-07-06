@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो नियु꣡द्भिः पुरुहूत वेधो  
 विश्व꣡वाराभिर् आ꣡ गहि प्रयज्यो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡भिर् याहि तू꣡यम् आ꣡ मद्रिअद्रि꣡क्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न । याः । अदे॑वः । वर॑ते । न । दे॒वः । आ । आ॒भिः॒ । या॒हि॒ । तूय॑म् । आ । म॒द्र्य॒द्रिक् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -131,35 +131,35 @@ genre M
 हे **पुरुहूत** हे **वेधः** विधातर्हे **प्रयज्यो** प्रकृष्टेन यजनीयेन्द्र **सः** त्वं विश्ववाराभिः विश्वैर्वरणीयाभिः संभजनीयाभि: **नियुद्भिः** अश्वैः **नः** अस्मान् **आ** **गहि** आगच्छ । **अदेवः** असुरः **या** नियुतो यानश्वान् **न** **वरते** न वारयति **देवः** च **न** वरते **आभिः** नियुद्भिः **तूयम्** **आ** क्षिप्रमेव **मद्र्यद्रिक्** मदभिमुखः सन् **आ** **याहि** आगच्छ। अद्र्यागमस्य द्विर्वचनं छान्दसम् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invoked of many, creator, object of sacrifices, come to us with your all-admired steeds, whom neither **asura** nor deity arrests; come with them quickly to our presence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to us with the teams that bring all desirable things, you ritual  adept summoned by many, you who receive the first of the sacrifice. (The teams) that neither a non-god nor a god will hinder, with them  drive here swiftly in my direction.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with thy team which brings all blessings hither, Disposer, much-invoked, exceeding holy.  
      Thou whom no fiend, no God can stay or hinder, come swittly with these Steeds in my direction.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komm also zu uns mit den Niyut-Gespannen, du vielgerufener Meister, mit den allbegehrten, du Opfersamer, die weder ein Ungott noch ein Gott aufhält, mit diesen komm schnell her zu mit!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum komm zu uns, o vielgerufner Ordner, mit reichbeladnen Wagenreihn, o rascher, Die nicht ein Gott und nicht ein Ungott aufhält, mit denen komme schnellen Laufs zu mir her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжай к нам на упряжках, о многопризываемый устроитель обряда,  
 Желанных для всех, о получающий первую жертву,  

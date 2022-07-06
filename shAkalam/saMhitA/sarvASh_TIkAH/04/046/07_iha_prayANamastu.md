@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ प्रया꣡णम् अस्तु वाम्  
 इ꣡न्द्रवायू विमो꣡चनम्  
 इह꣡ वां सो꣡मपीतये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 इ॒ह । वा॒म् । सोम॑ऽपीतये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -85,35 +85,35 @@ genre M
 हे **इन्द्रवायू** **वां** युवयोः **इह** अस्मिन् यज्ञे **प्रयाणं** गमनम् **अस्तु** । **इह** अस्मिन्नेव यज्ञे **वाँ** **सोमपीतये** **विमोचनम्** अश्वानाम् अस्तु । पर्यवसानत एकार्थत्वेऽप्यादरार्थत्वादविरोधः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Hither be your course; here, **Indra** and **Vāyu**, be the letting of your horses loose, for your drinking of the **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here be your advance, o Indra and Vāyu, (here) your unhitching, here for you to drink the soma.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, O Indra-Vayu, be your journey here unyoke your steeds,  
      Here for your draught of Soma juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hierher soll eure Ausfahrt sein, Indra und Vayu, hier euer Ausspann, um Soma zu trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier, Indra-Vaju, fahret vor, hier spannet eure Rosse aus, Zu eurem Somatrunke hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да будет ваш выезд сюда,  
 О Индра-Ваю, (да будет) распрягание (коней)  

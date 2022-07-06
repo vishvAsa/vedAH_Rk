@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवां꣡ ह घो꣡षा प꣡रि अश्विना यती꣡  
 रा꣡ज्ञ ऊचे दुहिता꣡ पृछे꣡ वां नरा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अ꣡श्वावते रथि꣡ने शक्तम् अ꣡र्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 भू॒तम् । मे॒ । अह्ने॑ । उ॒त । भू॒त॒म् । अ॒क्तवे॑ । अश्व॑ऽवते । र॒थिने॑ । श॒क्त॒म् । अर्व॑ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual, masculine
@@ -137,36 +137,36 @@ genre M
 हे **नरा** नेतारावश्विनौ **युवां** खलु **परि** परितो **यती** गच्छन्ती **राज्ञः** दीप्तस्य कक्षीवतः **दुहिता** पुत्री **घोषा** घोषाख्या अहम् **ऊचे** संनिहितेभ्यो वृद्धेभ्य उक्तवत्यस्मि । किंच **वां** युवां **पृच्छे** वृद्धान् संनिहितान् कीदृशावश्विनाविति पृच्छामि । तथा सति **मे** मम अह्ने दिवसाय दिवसनिर्वर्त्यकर्मणे **भूतं** भवतम् । **उत** अपि च **अक्तवे** रात्र्यै रात्रिनिर्वर्त्यकर्मणे **भूतं** भवतम् । तथा **अश्ववते** अश्वयुक्ताय **रथिने** रथवते च **अर्वते** भ्रातृव्याय **शक्तं** निरसने शक्तौ भवतम्॥ ॥१८॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Attending upon you, **Aśvins**, leaders (of rites), I, **Ghoṣā**, the daughter of king (**Kakṣīvat**), speak toyou and request you; be (present at) my (sacrifice) by day, and be (present) by night, be able, (to grant favour) tothe son of my brother, who has horses and a chariot.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Circling around you two, o Aśvins, Ghoṣā, the daughter of a king, said,  “I ask you, o men:  
 Will you be there for me for the day and be there for the night? Will you  exert your abilities (for me, as if) for a steed (to win the prize) of horse  and chariot?1444 X.40
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To you, O Asvins, came the daughter of a King, Ghosa, and said, O Heroes, this I beg of you:  
      Be near me in the day, he near me in the night: help me to gain a car-borne chieftain rich in steeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Asvin, umwandelte die Ghosa, eines Königs Tochter, und sprach: "Ich frage euch, ihr Herren. Stehet mir Tags und stehet mir Nachts bei, tut für den Besitzer von Roß und Wagen und für das Rennpferd, was ihr vermöget!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Umwandernd euch, des Königs Tochter Ghoscha ich, hab' ich's im Herzen, nun zu bitten, Ritter, euch: Bei mir, o Männer, seid bei Tage, seid bei Nacht, und helft dem Lenker sammt dem Wagen und dem Ross.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обходя вокруг вас, о Ашвины, Гхоша,  
 Дочь царя, сказала: Я упрашиваю вас, о два мужа.  

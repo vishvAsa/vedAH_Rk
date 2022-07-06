@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्निं꣡ वो वृध꣡न्तम्  
 अध्वरा꣡णाम् पुरूत꣡मम्  
 अ꣡छा न꣡प्त्रे स꣡हस्वते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अच्छ॑ । नप्त्रे॑ । सह॑स्वते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
@@ -74,7 +74,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अध्वराणाम्** अहिंस्यानां बलिनां **नप्त्रे** बन्धुं **सहस्वते** बलवन्तम्। विभक्तिव्यत्ययः । **वृधन्तं** ज्वालाभिर्वर्धमानं **पुरूतमम्** अतिशयेन बहुम् **अग्निम्** ऋत्विजः **वः** यूयम् **अच्छ** अभिगच्छत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -85,35 +85,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Invincible ones: adhvarāṇām = ahiṃsyānām balinām
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Toward Agni, the strengthening one, best of many for your  ceremonies...  
 for the mighty child (of might)...
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consists of two ungoverned sentence fragments, both referring to Agni: an accusative phrase in ab, a dative phrase in c. The former could continue the syntax of the preceding vss., although the intervening tṛca boundary makes some difficulties. The dative phrase is entirely untethered except that it adjoins áchā, which ordinarily takes the accusative, and the next vs. makes a fresh syntactic start with Agni in the nominative. Geldner suggests that there are two Agnis in question in this verse, but this seems to be overthinking it. I think we’re dealing with two false starts, with the first perhaps simply carrying on from the previous vs. ### 08
 The lexeme ā́√bhū generally means ‘stand by, be at hand’; this works fine for pāda a, but not so well for pāda b. Neither Geldner’s “eingehe … in” nor Renou’s “s'intègre à” seems to work any better.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hither, for powerful kirship, I call Agni, him Who prospers you,  
      Most frequent at our solemn rites
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euren Agni, den Erstarkenden, der bei den Opfern am häufigsten zugegen ist, rufe ich her für das kraftvolle Kind der Kraft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Agni, der am häufigsten die Opfer fördert, ruf' ich euch, Heil ihm, dem starken Sohn der Kraft!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вашего растущего Агни,  
 Больше всех (участвующего) в обрядах (я призываю),  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ते꣡ नो अ꣡र्वन्तो हवनश्रु꣡तो ह꣡वं  
 वि꣡श्वे शृण्वन्तु वाजि꣡नो मित꣡द्रवः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 महो꣡ ये꣡ ध꣡नं समिथे꣡षु जभ्रिरे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 स॒ह॒स्र॒ऽसाः । मे॒धसा॑तौऽइव । त्मना॑ । म॒हः । ये । धन॑म् । स॒म्ऽइ॒थेषु॑ । ज॒भ्रि॒रे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
@@ -131,7 +131,7 @@ genre M
 हवन श्रुत आह्वानं शृण्वन्तो वाजिनो बलवन्तो मितद्रवोः मितमार्गा अध्वानं परिच्छिन्दन्तो विश्वे सर्वे प्रसिद्धा अर्वन्तोऽश्वा इन्द्रादीनां वाहनभुता हर्यादयो नोऽस्माकं हवमाह्वानं शृण्वन्तु। कीदृशाः। मेधसाताविव। मेधाः स्तुतयः सायन्ते सम्भज्यन्तेऽत्रेति मेधसातिर्यज्ञः। तस्मिन्निव त्वनात्मनैव सहस्रसाः सहस्रसङ्ख्याकधनस्य दातारः। ते शृण्वन्तु येऽश्वाः समिथेषु। सङ्ग्रामनामैतत्। सम्प्राप्त्यते योद्धृभिरत्रेति। तेषु सङ्ग्रामेशु महो महद्धनं जभ्रिरे। शत्रुभ्य आहरन्ति। हृग्रहोर्भः॥६॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,30 +142,30 @@ genre M
 As if at sacrifice: medhasātāv iva tvamanā = medhasātā saniṣyavaḥ =desiring to give in the hall of sacrifice (**Yajus**. 9.17); ahavarvai mitro rātrirvaruṇaḥ: **Aitareya** **Brāhmaṇa** 4.10
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the steeds who heed the call heed our call—all the prizewinners of  measured pace,  
 who by themselves win thousands as if at the winning of wisdom, the  ones who have greatly borne away for themselves the spoils in the  
 encounters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May all those vigorous Coursers listen to our cry, hearers of invocation, speeding on their way;  
      Winners of thousands where the priestly meed is won, who gather of themselves great wealth in every race.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Rennpferde, die den Anruf erhören, sollen alle den Ruf hören, die siegreichen mit festem Schritt, die Tausend gewinnen, wie bei dem Kampf um die Dichtermeisterschaft selbst, die den großen Siegespreis in den Kämpfen davongetragen haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die raschen Renner mögen hören unsern Ruf, die Ruferhörer alle sie, die kräftigen, Die tausendfaches nehmen bei dem Opferfest, und grosses Gut erbeuteten in jeder Schlacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

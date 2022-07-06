@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्ने वृषभः꣡ पुष्टिव꣡र्धन  
 उ꣡द्यतस्रुचे भवसि श्रवा꣡यियः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ए꣡कायुर् अ꣡ग्रे वि꣡श आवि꣡वाससि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 यः । आऽहु॑तिम् । परि॑ । वेद॑ । वष॑ट्ऽकृतिम् । एक॑ऽआयुः । अग्ने॑ । विशः॑ । आ॒ऽविवा॑ससि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -126,7 +126,7 @@ genre M
 हे **अग्ने** **त्वं** **वृषभः** कामानां वर्षिता **पुष्टिवर्धनः** यजमानस्य धनादिपोषाभिवृद्धिहेतुः **उद्यतस्रुचे** उद्धृतया स्रुचा युक्ताय यजमानाय तदनुग्रहार्थं **श्रवाय्यः** मन्त्रैः श्रवणीयः **भवसि** । **यः** यजमानः **वषट्कृतिं** वषट्कारयुक्ताम् **आहुतिं** **परि** **वेद** परितो जानाति समर्पयतीत्यर्थः । **एकायुः** मुख्यान्नः त्वम् **अग्रे** प्रथमं तं यजमानं **विशः** तदनुकूलाः प्रजाः **अविवाससि** सर्वतः प्रकाशयसि॥ पुष्टिवर्धनः । ‘वृधु वृद्धौ'। अस्मात् णिजन्तात् नन्द्यादित्वात् ल्युः । लित्स्वरेणोत्तरपदस्याद्युदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वेन स एव शिष्यते । उद्यतस्रुचे। यम उपरमे '। अस्मात् उत्पूर्वात् ‘निष्ठा ' इति क्तप्रत्यये ‘ अनुदात्तोपदेश' इत्यादिना अनुनासिकलोपः । ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । उद्यता स्रुक् येनेति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । वेद । द्व्यचोऽतस्तिङः' इति संहितायां दीर्घत्वम् ॥ ॥ ३२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,13 +137,13 @@ genre M
 Who fully understands the invocation: he who knows the **āhuti**, with the vaṣat **kṛti** or uttering the word vaṣat at the moment of pouring the butter on the fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, a bull increasing prosperity, should be celebrated by the  (priest) who holds up the offering spoon,  
 who knows his way around the poured offering and the vaṣaṭ-cry—you  who, throughout your single lifetime, seek to attract the (divine) clans  at the beginning (of the sacrifice).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 údyataśruce … śravā́yyaḥ: Geldner’s (/Witzel Gotō’s) “ruhmbringend” is not possible for śravā́yya-, because this is a (pseudo-)gerundive and hence passive. The dat. údyataśruce can serve as agent, because RVic gerundives can take dat. agents (see Jamison 1979 [Die Sprache 25] 137-38 n. 14), as also in other IE languages.
 
@@ -158,28 +158,28 @@ The rel. pronoun yáḥ in c has double reference: in c it refers to the priest 
 I added the parenthetical “divine” qualifying “clans” because gods (or their qualities) are the usual object of āvívāsa-, and I still think that is the more likely interpretation. However, Elizabeth Tucker points out to me that, in light of vs. 11b tvā́m … devā́ akṛṇvan náhuṣasya viśpátim “You … did the gods create as the clan-lord of Nahuṣa,” it might instead refer to human clans. Proferes (2007) argues at length, though not mentioning this hymn, that a royal fire can unite several clans.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou, Agni, art a Bull who makes our store increase, to be invoked by him who lifts the ladle up.  
      Well knowing the oblation with the hallowing word, uniting all who live, thou lightenest first our folk
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, the bull, the augmenter of prosperity, art to be praised by the sacrificer who raises the Spoon, who knows all about the offering 1 and (the sacrifice performed with) the word Vashat. Thou (god) of unique vigour art the first to invite 2 the clans.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Agni bist ein Stier, der die Aufzucht mehrt, ruhmbringend wirst du dem, der den Opferlöffel hebt, der die Opferung, den Vasatruf genau kennt, der du im Anfang im Alleinbesitz des Ayu die Stämme zu gewinnen suchst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ein Stier bist du, o Agni, mehrst die Nahrung uns, bist anzurufen dem, der dir den Löffel reicht; Dem, der das Opfer kennet und den Opferruf, erfreust du, Herr der Menschen, alles Volk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты о Агни, бык, увеличивающий процветание.  
 Ты бываешь достойным славы у поднимающего жертвенную ложку,  

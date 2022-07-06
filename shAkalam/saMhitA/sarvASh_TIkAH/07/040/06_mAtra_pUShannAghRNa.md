@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मा꣡ अ꣡त्र पूषन् आघृण इरस्यो  
 व꣡रूत्री य꣡द् रातिषा꣡चश् च रा꣡सन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वृष्टि꣡म् प꣡रिज्मा वा᳐꣡तो ददातु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 म॒यः॒ऽभुवः॑ । नः॒ । अर्व॑न्तः । नि । पा॒न्तु॒ । वृ॒ष्टिम् । परि॑ऽज्मा । वातः॑ । द॒दा॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mātra* ← *mā*
 - \[adverb\]
@@ -127,37 +127,37 @@ genre M
 हे **आघृणे** प्राप्तदीप्ते एवंभूत हे **पूषन्** देव **अत्र** अस्मिन् दाने **मा** **इरस्यः** विघातं मा कृथाः। **वरूत्री** सर्वैर्वरणीया सरस्वती **रातिषाचश्च** । रातिर्दानम् । तस्य संभवत्र्यो देवपत्न्यश्च **यत्** धनं **रासन्** अस्मभ्यं प्रयच्छेयुः । अत्र मा कृथा इति पूर्वेण संबन्धः। किंच **मयोभुवः** सुखस्य भावकाः **अर्वन्तः** गच्छन्तो देवाः **नः** अस्मान् **नि** **पान्तु** नितरां पालयन्तु। **परिज्म** परितो गन्ता **वातः** वायुः **वृष्टिं** वृष्टिलक्षणमुदकं **ददातु** प्रयच्छत्वस्मभ्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent **Pūṣan**, oppose not (hindrance) on this occasion; may the protectress, (**Sarasvatī**) andthe liberal (wives of the gods), grant us wealth; may the ever-moving deities, the sources of happiness, protectus; may the circumambient **Vāta** send us rain.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Don’t get envious now, glowing Pūṣan, when the Shielding Goddess and  the Gift-Escorts will make bestowal.  
 Let the steeds who are joy itself protect us. Let Wind in his circling  
 give rain.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be not thou angry here, O glowing Pusan, for what Varutri and the Bounteous gave us.  
      May the swift-moving Gods protect and bless us, and Vata send us rain, wha wanders round us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht mögest du, ...... Pusan, darauf neidisch sein, wenn Varutri und die Ratisac´s schenken werden. Die glückbringenden Renner sollen uns schützen; der herumfahrende Wind soll Regen geben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Entzieh uns nicht, o glutenreicher Puschan, was uns Varutri und die Spender geben; Die holden Renner mögen uns beschützen, der Wind beim Umlauf Regen uns verleihen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не завидуй ты, о Пушан пылающий, в случае,  
 Когда Покровительница и сопровождающие дары (богини) дарят!  

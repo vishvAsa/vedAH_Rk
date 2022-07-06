@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ सूनु꣡र् मात꣡रा शु꣡चिर्  
 जातो꣡ जाते꣡ अरोचयत्  
 महा꣡न् मही꣡ ऋतावृ꣡धा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒हान् । म॒ही इति॑ । ऋ॒त॒ऽवृधा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **जातः** उत्पन्नः **शुचिः** विशुद्धः **महान्** हविरुत्तमः **सः** सोमाख्यः **सूनुः** पुत्रः **मही** महत्यौ **ऋतावृधा** यज्ञस्य वर्धयित्र्यौ **जाते** विश्वस्य जनयित्र्यौ  **मातरा** आत्मनो मातरौ द्यावापृथिव्यौ **अरोचयत्** रोचयति दीपयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Alternative rendering: that pure son (the **Soma**) illumined his mothers, he the born, them too born, he the great, them the great, the augmenters of sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He, their blazing son, made his two mothers shine—he just born and  they just born,  
 he the great and they the great, increasing through truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The referent of the fem. du. here is generally taken as Heaven and Earth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, the bright Son, when born illumed his Parents who had sprung to life,  
      Great Son great Strengtheners of Law.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser lautere Sohn hat neugeboren die neugeborenen Mütter erleuchtet, der Große die Großen, die das Gesetz fördern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Aeltern hellt der lichte Sohn, geboren die geborenen, Er, gross, die grossen, heiligen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот чистый сын, (едва) родившись,  
 Осветил двух родившихся матерей,  

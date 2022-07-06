@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इहि꣡ तिस्रः꣡ पराव꣡त  
 इहि꣡ प꣡ञ्च ज꣡नाँ अ꣡ति  
 धे꣡ना इन्द्रावचा꣡कशत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 धेनाः॑ । इ॒न्द्र॒ । अ॒व॒ऽचाक॑शत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ihi* ← *i*
 - \[verb\], singular, Present imperative
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्द्र** **धेनाः** अस्मदीयाः स्तुतीः **अवचाकशत्** योऽपश्यत् स त्वं **परावतः** दूरात् । ‘आरे परावतः' इति दूरनामसु पाठात् । **तिस्रः** अग्रपृष्ठपार्श्वदिशः **इहि** गच्छ । अनेन अग्रतः पृष्ठतः पार्श्वतश्च इन्द्रस्यागमनमाशास्ते । अपि च **पञ्च** **जनान्** मनुष्यान् **अति** **इहि** अतिगच्छ । यद्वा । गन्धर्वाः पितरो देवा असुरा रक्षांसि च पञ्चजनाः । तानतीहीत्यर्थः । तथा च यास्कः--- ‘ गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः' (निरु. ३.८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,33 +92,33 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Three directions: i.e., coming to us from in front, from behind and from the side
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pass through the three distant realms; pass over the five peoples, keeping watch over the nourishing streams, o Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take áti only with b: Indra is not supposed to pass over the three realms, but through them on his way to us. It is only the (other) peoples he is to pass over.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Over the three great distances, past the Five Peoples go thy way,  
      O Indra, noticing our voice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Geh über die drei Entfernungen, über die fünf Völker hinweg, die Reden beachtend, o Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch drei der Fernen schreite du und durch die fünf Geschlechter hin, Wenn Indra du den Trank erblickst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Иди через три дали,  
 Иди мимо пяти народов,  

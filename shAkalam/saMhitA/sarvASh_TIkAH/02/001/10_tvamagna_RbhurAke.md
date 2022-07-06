@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुव꣡म् अग्न ऋभु꣡र् आके꣡ नमसि꣡यस्  
 त्वं꣡ वा꣡जस्य क्षुम꣡तो राय꣡ ईशिषे  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 तुवं꣡ विशि꣡क्षुर् असि यज्ञ꣡म् आत꣡निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 त्वम् । वि । भा॒सि॒ । अनु॑ । ध॒क्षि॒ । दा॒वने॑ । त्वम् । वि॒ऽशिक्षुः॑ । अ॒सि॒ । य॒ज्ञम् । आ॒ऽतनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -127,7 +127,7 @@ genre M
 हेअग्ने त्वंऋभुः उरुभासमानोमेधावीवा त्वमाके अन्तिकेसन्निधावेव नमस्योनमस्कार्यः स्तुत्य- इत्यर्थः इतरदेवतावन्मन्त्रप्रतिपाद्याकारेणस्तुत्योनभवसि किन्तुप्रत्यक्षइत्यर्थः तथात्वङ्क्षुमतः शब्द- वतः सर्वत्रश्रूयमाणस्यवाजस्यान्नस्यरायोधनस्य ईशिषेस्वामीभवसि अतस्तद्देहीत्यर्थः हेअग्नेत्वंवि- भासिविशेषेणदीप्यसे तदर्थमनुअनुक्रमेणैव धक्षिदहसिकाष्ठादीन् दहेर्लटिसिपिरूपं संहितायाम्भष्- भावाभावश्छान्दसः किमर्थमेवं दावनेछेदनायान्धकारस्य यद्वा हविषोदानवतेयजमानाय वा किञ्च त्वंयज्ञंविशिक्षुः विशेषेणशिक्षयितासाधयितासि नलोकाव्ययेतिषष्ठ्यानिषेधः तथा आतनिः फल- स्यसर्वतोविस्तारयिता ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -140,12 +140,12 @@ Resplendent: tvam **agna** **ṛbhuḥ**, tvam. vājasya īśiṣe: **ṛbhu** =
 Vājasya = annasya, of food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, as [R̥bhu/] the craftsman at hand, are to be rendered  homage; you are master of the cattle-rich prize [/Vāja], of wealth. You radiate widely [/(are) Vibhvan]: burn through to giving! You seek  to carve up and to stretch out the sacrifice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the cadence in pāda a, see comm. ad 3b.
 
@@ -160,28 +160,28 @@ This may also be the view of Witzel Gotō, who tr. “Du bist williger Verteiler
 The published translation “seek to carve up and to stretch out the sacrifice” implies that ātániḥ is desiderative. This was not meant, and the tr. should perhaps be emended to “seek to carve up the sacrifice, as the one who stretches it out” or “… as you stretch it out.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 A Rbhu art thou, Agni, near to be adored thou art the Sovran Lord of foodful spoil and wealth.  
      Thou shinest brightly forth, thou burnest to bestow: pervading sacrifice, thou lendest us thine help.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou, O Agni, art Ribhu, to be adored when near. Thou rulest over strength 1, over wealth rich in food. Thou shinest 2, thou burnest for the sake of giving (wealth). Thou art a hewer 3, an expander of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, bist Ribhu, vor dem man zu seiner Zeit sich verbeugen muß; du verfügst über den Siegergewinn, über Reichtum an Vieh. Du erstrahlst; sei bereit zu schenken; du bist der Prüfer, wenn du das Opfer ausrichtest.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, Ribhu bist du, hier verehrungswerth, und dein ist Labung, dein auch nahrungsreiches Gut; Du leuchtest hell, entbrenne nun zum Schenken auch; du spendest gerne, wenn das Opfer du durchstrahlst.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты о Агни, – Рибху, которому надо поклоняться вблизи.  
 Ты владеешь наградой, богатством из скота.  

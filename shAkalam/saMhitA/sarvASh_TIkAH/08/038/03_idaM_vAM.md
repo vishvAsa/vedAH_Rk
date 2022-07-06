@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ वाम् मदिर꣡म् म꣡धु  
 अ꣡धुक्षन्न् अ꣡द्रिभिर् न꣡रः  
 इ꣡न्द्राग्नी त꣡स्य बोधतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 इन्द्रा॑ग्नी॒ इति॑ । तस्य॑ । बो॒ध॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
@@ -89,20 +89,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे **इन्द्राग्नी** **वां** युवामुद्दिश्य **नरः** यज्ञस्य नेतारः **अद्रिभिः** ग्रावभिः **मदिरं** मदकरं **मधु** सोमात्मकममृतम् **अधुक्षन्** अपूरयन् । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The leaders of rites have effused by the stones this sweet exhilarating (**Soma**) for you; hear, **Indra** andAgni, (the praise) of this (your worshipper).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the exhilarating honey for you two—the men have milked it out  with stones.  
 – Indra and Agni, take note of this.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a can of course be in the acc. (not nom. as I take it) and form a single sentence with b (so Geldner). There are no implications either way, but I prefer to take fronted forms of ayám as annunciatory (“here is …”) if at all possible. However, given initial imā́(5a) and imā́m (6a), which can’t be so tr., this is not a strong arg.
 
@@ -117,23 +117,23 @@ The referent of tásya in the refrain pāda is not specified. It must fall into 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The men with pressing-stones have pressed this meath of yours which gives delight:  
      Indra, and Agni, mark this well.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen berauschenden Süßtrank haben die Männer mit Steinen für euch ausgemolken. Indra und Agni, seid dessen eingedenk!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Männer melkten diesen Meth, der euch berauscht, mit Steinen aus, O Indra-Agni, achtet drauf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот пьянящий мед для вас двоих  
 Мужи выдоили камнями.  

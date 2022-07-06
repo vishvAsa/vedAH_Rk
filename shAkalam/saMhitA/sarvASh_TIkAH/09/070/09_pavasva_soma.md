@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व सोम देव꣡वीतये वृ꣡षा  
 इ꣡न्द्रस्य हा꣡र्दि सोमधा꣡नम् आ꣡ विश  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 क्षेत्रवि꣡द् धि꣡ दि꣡श आ꣡हा विपृछते꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 पु॒रा । नः॒ । बा॒धात् । दुः॒ऽइ॒ता । अति॑ । पा॒र॒य॒ । क्षे॒त्र॒ऽवित् । हि । दिशः॑ । आह॑ । वि॒ऽपृ॒च्छ॒ते ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -136,7 +136,7 @@ genre M
 हे **सोम** **वृषा** कामानामुदकानां वा सेचकस्त्वं **देववीतये** देवानां पानाय **पवस्व** कलशादिषु क्षर। अथ हे सोम त्वम् **इन्द्रस्य** **हार्दि** हृदयंगमं प्रियं **सोमधानम्**। सोमो निधीयतेऽस्मिन्निति सोमधानं पात्रम् । तत् **आ** **विश** प्रविश । किंच **नः** अस्माकं **बाधात्** बाधनात् पीडनात् **पुरा** पूर्वमेव दुरितानि दुर्गमनानि रक्षांसि **अति** **पारय** अतीत्य पारं गमय । अपि च **क्षेत्रवित्** मार्गज्ञः पुरुषः **विपृच्छते** विविधं पन्थानं पृच्छते जनाय **दिशः** मार्गान् **आह** **हि** ब्रूते खलु । उक्त्वा तं यथा रक्षति तथा यज्ञमार्गवेत्ता त्वमस्मभ्यं यज्ञपथ उक्त्वास्मान् पालयेति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ genre M
 He who knows the country: 'as by telling him he protects (helps) him, so do you who know the roads of the sacrifice protect us by telling us the sacrificial paths'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself as bull, Soma, to pursue the gods. Enter the heart of  Indra, which is the receptacle of Soma.  
 Ahead of oppression, carry us across difficulties, for he who knows the  territory tells the directions to the one who asks.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Flow on for the God's banquet, Soma, as a Steer, and enter Indra's heart, the Soma's reservoir.  
      Bear us beyond misfortune ere we be oppres. sed. the man who knows the land directs the man who asks.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich zur Götterladung, o Soma, du der Bulle! Zieh ein in das Herz des Indra, das den Soma faßt! Bring uns über die Fährlichkeiten hinweg, bevor wir in Bedrängnis kommen; denn ein Ortskundiger gibt dem ihn Befragenden die Richtung an.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Stier, o Soma, flamme hell zum Göttermahl, in Indra's Bauch, der Soma fassen kann, geh ein; Durch alle Leiden führ uns schirmend vor Gefahr; der kund'ge nannte mir die Wege als ich frug.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся, о сома, для приглашения богов как бык!  
 Входи в сердце Индры – вместилище сомы!  

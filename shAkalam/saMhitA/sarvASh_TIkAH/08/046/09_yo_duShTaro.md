@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ दुष्ट꣡रो विश्ववार श्रवा꣡यियो  
 वा꣡जेषु अ꣡स्ति तरुता꣡  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 गमे꣡म गो꣡मति व्रजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नः॒ । श॒वि॒ष्ठ॒ । सव॑ना । आ । व॒सो॒ इति॑ । ग॒हि॒ । ग॒मेम॑ । गोऽम॑ति । व्र॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -120,7 +120,7 @@ genre M
 हे **विश्ववार** विश्वैर्वरणीयेन्द्र **वाजेषु** युद्धेषु **यः** तव **दुष्टरः** दुःखेन तरीतुं शक्यः **तरुता** शत्रूणां तारकः **अस्ति** भवति हे **वसो** वासक हे **शविष्ठ** अतिशयेन बलवन्निन्द्र **सः** त्वं **नः** **सवना** अस्माकं सवनानि **आ** **गहि** आगच्छ । वयं च **गोमति** **व्रजे** गोमन्तं व्रजं **गमेम** गच्छेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,13 +131,13 @@ genre M
 Delivererfromm enemies: tarutr. = jetr. (RV 8.1.28)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which, difficult to surpass, worthy of fame, is the overcomer in the  prize-contests, o you who grant all wishes—  
 you, o strongest good one—come here to our pressings. May we go to a  pen full of cows.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -147,23 +147,23 @@ A thematic and syntactic modulation. The yáḥ clauses of vs. 8 (which lacks a 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Which merits fame, all-bountiful! and, unsubdued, hath victory in deeds of might.  
      So come to our libations, Strongest! Excellent! May we obtain a stall of kine.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der unüberwindlich ist, du Allbegehrter, rühmlich, in den Kämpfen der Überwinder; komme du Gewaltigster zu unserem Somaopfer, o Guter! Wir möchten zu rinderreicher Hürde gelangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der unbesiegbar, rühmenswerth, allreicher du, in allen Kämpfen Sieger ist; O komm, du starker, guter, her zu unserm Trank, führ uns zu rinderreichem Stall.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Которое трудноодолимо, о обладатель всего лучшего, приносит славу,  
 Бывает победителем в битвах за награду...  

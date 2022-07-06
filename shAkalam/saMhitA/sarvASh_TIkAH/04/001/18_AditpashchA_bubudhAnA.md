@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡द् इ꣡त् पश्चा꣡ बुबुधाना꣡ वि꣡ अख्यन्न्  
 आ꣡द् इ꣡द् र꣡त्नं धारयन्त द्यु꣡भक्तम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मि꣡त्र धिये꣡ वरुण सत्य꣡म् अस्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 विश्वे॑ । विश्वा॑सु । दुर्या॑सु । दे॒वाः । मित्र॑ । धि॒ये । व॒रु॒ण॒ । स॒त्यम् । अ॒स्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ād* ← *āt*
 - \[adverb\]
@@ -136,21 +136,21 @@ genre M
 **आदित्** सूर्योदयानन्तरं **बुबुधानाः** पणिभिरपहृता निरोधान्निर्गता गा जानाना अङ्गिरसः **पश्चा** पृष्ठदेशेषु **व्यख्यन्** अशेषेण ता गा अपश्यन् । तथा **आदित्** अनन्तरं **द्युभक्तं** दीप्तियुक्तं देवैः संभक्तं वा **रत्नं** पणिभिरपहृतं धनं च **धारयन्त** अधारयन् । लब्धगोधनानामङ्गिरसां **विश्वासु** दुर्यासु सर्वेषु गृहेषु **विश्वे** यजनीयाः सर्वे **देवाः** आजग्मुः । हे **मित्र** मित्रभूत हे **वरुण** उपद्रवाणां वारक हे अग्ने **धिये** कर्मणां कर्त्रे स्तोत्रे वा यजमानाय **सत्यमस्तु** । यदेतत्तवोपद्रववारणसामर्थ्यं तद्यथार्थभूतमस्तु ॥ पश्चा । ‘पश्च पश्चा च छन्दसि ' इति निपातितः । बुबुधानाः । बुधेर्लिटि कानचि रूपम् । चित्त्वादन्तोदात्तः । द्युभक्तम् ।  ‘ भज सेवायाम्' । कर्मणि क्तः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thereupon awaking, the (**Aṅgirasas**) beheld (the cattle set free), and seized upon the precious treasures; the universal gods then came to all (their) dwellings; **Mitra** and **Varuṇa** may your truth be (kept) to him who worships (you).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And then afterward having awakened they looked about; and then they  held up the treasure apportioned by heaven—  
 all the gods (did so) in all the houses. O Mitra, Varuṇa—let it  
 [=treasure] come into existence (also) for our insightful thought.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I interpr. the “treasure apportioned by heaven” (rátnam … dyúbhaktam) to be in the first instance cows (as in I.73.6), those released from the Vala cave, but the cows conceived of as dawns and therefore as light, including the light of the newly kindled ritual fire. See vs. 10 above, with rátnam … devábhaktam. This buried “light” motif works well with the houses in pāda c, where the ritual fire is at home (see vss.
 
@@ -169,28 +169,28 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then, afterwards they looked around, awakened, when first they held that Heaven allotted treasure.  
      Now all the Gods abide in all their dwellings. Varuna, Mitra, be the prayer effective.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Then, afterwards, being awoke they looked around; then they took that treasure given by Heaven, all the gods in all the houses. O Mitra, may true (fulfilment) belong to (our) prayer, O Varuna!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da, als sie hernach erwacht waren, blickten sie um sich; da hielten sie das himmelgeschenkte Kleinod fest: "Alle Götter sind in allen Häusern". Dem Wunsche soll Erfüllung werden, o Mitra und Varuna!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Da erst erwachend leuchteten fortan sie, da erst erhielten sie den Schatz des Himmels, Die Götter all' in allen ihren Stätten; erfüllt die Bitte, Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И вот пробужденные после (этого), они взглянули.  
 И вот они взяли сокровище, выделенное небом.  

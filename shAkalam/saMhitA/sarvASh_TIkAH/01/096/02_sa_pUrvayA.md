@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पू꣡र्वया निवि꣡दा कव्य꣡तायो꣡र्  
 इमाः꣡ प्रजा꣡ अजनयन् म꣡नूनाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 देवा꣡ अग्निं꣡ धारयन् द्रविणोदा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 वि॒वस्व॑ता । चक्ष॑सा । द्याम् । अ॒पः । च॒ । दे॒वाः । अ॒ग्निम् । धा॒र॒य॒न् । द्र॒वि॒णः॒ऽदाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -131,7 +131,7 @@ genre M;; repeated line
 **सः** अग्निः **पूर्वया** प्रथमया • अग्निर्दैवेद्धः' इत्यादिकया **निविदा** **कव्यता** गुणिनिष्ठगुणाभिधानलक्षणां स्तुतिं कुर्वता **आयोः** मनोः संबन्धिनोक्थेन च स्तूयमानः सोऽग्निः **मनूनां** संबन्धिनीः **इमाः** **प्रजाः** **अजनयत्** उदपादयत् । मनुना स्तुतः सन् मानवीः सर्वाः प्रजा अजनयदित्यर्थः । तथा **विवस्वता** विवासनवता विशेषेणाच्छादयता **चक्षसा** आत्मीयेन तेजसा **द्यां** द्युलोकम् **अपश्च** अन्तरिक्षं च व्याप्नोतीति शेषः । अन्यत् समानम् ॥ कव्यता । ‘ कु शब्दे । ‘ अचो यत्' इति भावे यत् । कव्यं कवनं स्तुतिं करोति । तत्करोति । ( पा. सू. ३. १. २६. ५) इति णिच् । तदन्तात् क्विप् । ‘ बहुलमन्यत्रापि संज्ञाच्छन्दसोः' इति णिलुक् । ततस्तुक् । धातुस्वरेणान्तोदात्तत्वम् । आयोः । इण् गतौ । ‘ छन्दसीणः' इति उष्प्रत्ययः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,41 +142,41 @@ genre M;; repeated line
 Āyu = **Manu**; manunā **stutaḥ** san mānavaiḥ **sarvāḥ** prajāhajanayat, being hymned by Manu,he created all the offspring sof Manu
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the age-old formal invocation [=nivid] and the poetic power of Āyu  he begot these offspring of Manu’s people;  
 with Vivasvant [=Sun] as his eye (he begot) heaven and the waters. – The  gods uphold Agni, the wealth-giver.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This verse attributes primal creative power to Agni first in the ritual realm (ab), then in the cosmic realm (c). Geldner (/Witzel Gotō) supply a different verb in c (“bescheint”), presumably because Agni is not usually credited with cosmogonic powers. But there is no contextual support for a new verb here, and in parallel clauses containing only one verb the default interpretation is to supply the same verb with the second clause. Given how much generative power is ascribed to the Vedic sacrifice, it is not surprising that Agni’s ability to engender Manu’s people, that is, those who sacrifice like Manu, can then be extended to his ability to beget the major cosmic features -- esp. as in this enterprise he is partially identified with the sun.
 
 Note that in 4c he is explicitly named as “the begetter of the two worlds” (janitā́ ródasyoḥ) as well as “the finder of the sun” (svarvíd).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 At Ayu's ancient call he by his wisdom gave all this progeny of men their being,  
      And, by refulgent light, heaven and the waters. The Gods possessed the wealth bestowing Agni.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 By the ancient Nivid 1, by Âyu's 2 wisdom he has procreated these children of men. With his irradiating look 3 (he has procreated) the Sky and the Waters. The gods have held Agni as the giver of wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit altem Spruch durch die Dichtkunst des Asya hervorgebracht erzeugte er diese Nachkommen des Menschen; mit Vivasvat als Auge bescheint er den Himmel und die Gewässer. - Die Götter erhalten Agni, den Schätzespender.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach alter Vorschrift durch des Menschen Weisheit erzeugte Agni diese Menschenkinder Durch funkelndes Erglänzen, Himmel, Wasser, als Schätzespender wahrten ihn die Götter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря древнему приглашению, благодаря поэтическому искусству Аю  
 Он породил это потомство людей.  

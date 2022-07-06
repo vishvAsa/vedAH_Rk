@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ नो धीती꣡ व꣡रिष्ठया  
 श्र꣡यिष्ठया+ च सुमती꣡°  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 सुवृक्ति꣡भिर् वरेणिय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अग्ने॑ । रा॒यः । दि॒दी॒हि॒ । नः॒ । सु॒वृ॒क्तिऽभिः॑ । व॒रे॒ण्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -97,41 +97,41 @@ genre M
 **सुवृक्तिभिः** स्तुतिभिः स्तूयमान **वरेण्य** वरणीय हे **अग्ने** **सः** त्वं वरिष्ठया वरतमेन **श्रेष्ठया** अतिशयेन प्रशस्येन **नो** **धीती** धीत्यास्मदीयेन परिचरणात्मकेन कर्मणा सुमत्या **च** । सुमतिरिति शस्त्रमुच्यते । शस्त्रेण च प्रीतः सन् **रायः** धनानि **नः** अस्मभ्यं **दीदिहि** देहि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, to be propitiated by praises, (gratified) by our choice and most excellent adoration and hymns, bestow upon us riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By your best insight and most excellent favor toward us,  
 o Agni, shine on us riches by reason of our well-plaited words, o you  who are worthy to be chosen.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With wisdom that surpasseth all, with gracious will most excellent,  
      O Agni, worthy of our choice, shine wealth on us through hymns of praise.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As such, with thy widest thought and with thy best favour, shine wealth on us, excellent Agni, for our beautiful praises 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So sollst du uns mit bester Absicht und mit schönstem Wohlwollen, o Agni, Reichtümer erstrahlen, du mit Lobliedern zu Erwählender!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Drum strahl uns, Agni, Reichthum zu, durch unser treffliches Gebet Und unser bestes Lob erfreut, durch schöne Lieder, holder du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За наше исключительное видение  
 И за самую лучшую удачную молитву,  

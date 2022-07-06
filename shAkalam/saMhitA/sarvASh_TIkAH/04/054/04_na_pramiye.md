@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ प्रमि꣡ये सवितु꣡र् दइ꣡वियस्य त꣡द्  
 य꣡था वि꣡श्वम् भु꣡वनं धारयिष्य꣡ति  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 व꣡र्ष्मन् दिवः꣡ सुव꣡ति सत्य꣡म् अस्य त꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 यत् । पृ॒थि॒व्याः । वरि॑मन् । आ । सु॒ऽअ॒ङ्गु॒रिः । वर्ष्म॑न् । दि॒वः । सु॒वति॑ । स॒त्यम् । अ॒स्य॒ । तत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -132,20 +132,20 @@ genre M
 **सवितुर्दैव्यस्य** देवस्य **तत्** कर्म **न** **प्रमिये** न प्रमीयेत न प्रहिंस्येत । हिंसार्हं न भवतीत्यर्थः ॥ कृत्यार्थे केन्प्रत्ययः ॥ यद्वा । दैव्यस्येति अधिकरणे षष्ठी । सा च कर्मार्था । दैव्यं कर्मेत्यर्थः । कथमहिंस्यमित्यत आह । **यथा** **विश्वं** **भुवनं** **धारयिष्यति** धारयति । विश्वधारणरूपं यत् कर्मास्ति तन्न प्रमिये । तथा 'स्वङ्गुरिः शोभनाङ्गुल्युपलक्षितहस्तः **यत्** यः **पृथिव्या** **वरिमन्ना** । आकारश्चार्थे । भूम्या उरुत्वे च **सुवति** प्रेरयति । तथा **दिवः** द्युलोकस्य **वर्ष्मन्** उरुत्वे च सुवति । **अस्य** देवस्य **तत्** उक्तं कर्म **सत्यम्** अबाध्यमिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(It is) not (fit) to obstruct (the acts) of the divine **Savitā**, since by them he upholds the whole world, wheeby his gracious **hand** spreads fertility over the extent of the earth, and the magnitude of the heaven; such is his true (power).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (commandment?) of the divine Savitar is not to be violated, so that  he will support all the living world.  
 Whatever he of the beautiful fingers impels on the expanse of earth or in  the height of heaven, that of his comes true.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The standard tr. supply as subj. of pramíye and referent of tád the whole yáthā cl. of b. But one of the most common objects of (prá) √mī is vratá-, and in the preceding Savitar hymn his vratá-s were much in evidence: 4a vratā́ni deváḥ savitā́bhí rakṣate, 4d dhṛtávrataḥ, 5c tríbhir vrataíḥ. I therefore think vratám should be supplied here; among other things this follows directly on the vs. presenting the offenses we may have committed against the gods, and it would be appropriate to reaffirm the importance of not offending Savitar in particular.
 
@@ -154,23 +154,23 @@ I then take the yáthā clause as a purpose clause. We shouldn’t violate Savit
 Although we generally expect the subjunctive in such clauses, the future is beginning to supercede the subjunctive in general and would make fine sense here. (Renou states that this is the only ex. of yáthā with the future.)
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 None may impede that power of Savitar the God whereby he will maintain the universal world.  
      What the fair-fingered God brings forth on earth's expanse or in the height of heaven, that work of his stands sure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nicht läßt sich der göttliche Savitri das beeinträchtigen, wie er die ganze Welt regieren will. Was er mit schönen Fingern auf der ganzen Weite der Erde und auf der Höhe des Himmels bestimmt, das wird ihm zur Wahrheit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Untilgbar ist dies Werk des Gottes Savitar, durch das er stets die ganze Welt erhalten wird, Was schönen Fingers rings er auf der Erde Kreis, im Raum des Himmels schaffet, das ist recht sein Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Не надо преуменьшать того в божественной природе Савитара,  
 Как он должен поддерживать все мироздание.  

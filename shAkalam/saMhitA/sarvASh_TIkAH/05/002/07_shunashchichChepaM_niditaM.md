@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡नश् चिच् छे꣡पं नि꣡दितं सह꣡स्राद्  
 यू꣡पाद् अमुञ्चो अ꣡शमिष्ट हि꣡ षः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 हो꣡तश् चिकित्व इह꣡ तू꣡ निष꣡द्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 ए॒व । अ॒स्मत् । अ॒ग्ने॒ । वि । मु॒मु॒ग्धि॒ । पाशा॑न् । होत॒रिति॑ । चि॒कि॒त्वः॒ । इ॒ह । तु । नि॒ऽसद्य॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunaś* ← *śunaḥ* ← *śvan*
 - \[noun\], genitive, singular, masculine
@@ -137,7 +137,7 @@ genre M
 हे अग्ने **निदितं** नितरां बद्धं **शुनःशेपम्** ऋषिं **सहस्रात्** अनेकरूपात् **यूपात्** **अमुञ्चः** अमोचयः। **चित्** इति पूरणः। शुनःशेपमिति पदस्य मध्ये पदान्तरस्य संहितायां व्यत्ययेनावस्थितिः । **सः** ऋषिः **अशमिष्ट** हि शान्तवान् खलु । यद्वा । स हि यस्मादशमिष्ट । स्तुतिकर्मैतत् । अस्तावीत् । तस्मादमुञ्च इति संबन्धः। **एव** एवम् **अस्मत्** अस्मत्तः **पाशान्** **वि** **मुमुग्धि** विमोचय । हे **होतः** हे **चिकित्वः** चेतनावन् **अग्ने** **इह** **तु** वेद्यां **निषद्य** अवस्थाय ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,34 +148,34 @@ genre M
 Śunahśepa: the text divides the two parts of the name, as śunaścicchepa, interposing cit, a genitive ral particle
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You loosed even Śunaḥśepa, who was bound, from his thousand (bonds),  from the sacrificial post, since he exhausted himself (in sacrifice).  
 So unloose the fetters from us, o Agni, watchful Hotar, after having  taken your seat here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou from the stake didst loose e'en Sunahsepa bound for a thousand; for he prayed with fervour.  
      So, Agni, loose from us the bonds that bind us, when thou art seated here, O Priest who knowest.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thou hast loosed the bound Sunahsepa from the thousand sacrificial posts; for he toiled (worshipping thee). Thus, O Agni, loose from us the fetters, O knowing Hotri, sitting down here.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Selbst den Sunahisepa, der um ein Tausend angebunden war, hast du von dem Pfahle losgemacht, denn er war schon für das Opfer hergerichtet. So nimm doch auch von uns die Fesseln, o Agni, kundiger Hotri, dich hier niedersetzend!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Çunaççepa, den gebundnen, löstest von tausend Pfosten du; denn dringend bat er; so lös von uns auch, Agni, ab die Stricke, o lichter Priester, setze hier dich nieder.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже связанного Шунахшепу ты освободил  
 От тысячи жертвенных столбов: ведь он потрудился (на жертвоприношении).  

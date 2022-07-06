@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡नां च꣡क्षुः सुभ꣡गा व꣡हन्ती  
 श्वेतं꣡ न꣡यन्ती सुदृ꣡शीकम् अ꣡श्वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चित्रा꣡मघा वि꣡श्वम् अ꣡नु प्र꣡भूता
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 उ॒षाः । अ॒द॒र्शि॒ । र॒श्मिऽभिः॑ । विऽअ॑क्ता । चि॒त्रऽम॑घा । विश्व॑म् । अनु॑ । प्रऽभू॑ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
@@ -115,7 +115,7 @@ genre M
 **देवानां** **चक्षुः** चक्षुःस्थानीयं तेजः **वहन्ती** धारयन्ती **सुभगा** शोभनधना **सुदृशीकं** सुदर्शनम् **अश्वं** सर्वदा गन्तारमादित्यं **नयन्ती** प्रापयन्ती। किम् । **श्वेतं** श्वेतवर्णोपेतं सूर्यम् । प्रकाशयुक्तं कुर्वतीत्यर्थः। कीदृश्युषाः। **रश्मिभिः** स्वकीयैः **व्यक्ता** **अदर्शि** दृश्यते च । **चित्रामघा** विचित्रधना **विश्वमनु** सर्वं जगदनुलक्ष्य **प्रभूता** प्रवृद्धा । सर्वजगद्व्यवहारायेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,35 +126,35 @@ genre M
 Leader her,,,: i.e.making the sun manifest; mighty over all: or, risen on account of the whole world, i.e. for the good of thetransactions of the world; viśvān anu sarvam jagad anulakṣya **prabhūta** **pravṛddha** sarvajagadvyavahārayetiarthaḥ
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Well-portioned, conveying the eye of the gods, leading the bright horse  lovely to see,  
 Dawn has just been seen, decorated with (the sun’s) rays, bringing  
 brilliant bounties, projecting through all (the world).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 More chaining: the compound etym. figure with dṛś in 2c is echoed not only by a repetition of the entire first member of the cmpd. sudṛ́śīka- (3b) but also in the pass. aor. adarśi (3c), while the fem. agent noun netrī́of 2d returns as a participle náyantī (3b), likewise fem., and the aor aśvait of 2b matches the adj. śvetá- in 3b.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bearing the Gods' own Eye, auspicious Lady, leading her Courser white and fair to look on,  
      Distinguished by her bean-is Dawn shines apparent, come forth to all the world with wondrous treasure.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Holde bringt das Auge der Götter mit und lenkt das schöne weiße Roß. So ist Usas erschienen, mit den Strahlen der Sonne aufgeputzt, prächtige Gaben bringend, wenn sie sich über die ganze Welt ausgedehnt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Selige, der Götter Auge führend, das weisse Ross, das herrlich schöne leitend, Mit Glanz geschmückt erschien die Morgenröthe, an Schätzen reich, die aller Welt vorangeht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастливая, увлекая за собой глаз богов,  
 Ведя белого прекрасного коня,  

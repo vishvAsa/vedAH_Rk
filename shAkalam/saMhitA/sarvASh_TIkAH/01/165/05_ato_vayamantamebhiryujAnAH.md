@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡तो वय꣡म् अन्तमे꣡भिर् युजानाः꣡  
 स्व꣡क्षत्रेभिस् तनु꣡वः शु꣡म्भमानाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्र स्वधा꣡म् अ꣡नु हि꣡ नो बभू꣡थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 महः॑ऽभिः । एता॑न् । उप॑ । यु॒ज्म॒हे॒ । नु । इन्द्र॑ । स्व॒धाम् । अनु॑ । हि । नः॒ । ब॒भूथ॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ato* ← *atas*
 - \[adverb\]
@@ -126,7 +126,7 @@ genre M
 एवमुक्ता मरुतः तमेवं ब्रुवते । हे इन्द्र त्वं यस्मात् एवं करोषि **अतः** कारणात् **वयम्** अपि **अन्तमेभिः** अन्तिकतमैः अश्वैः **युजानाः** युक्ताः सन्तः । कीदृशैः । स्वक्षत्रेभिः स्वायत्तबलैः। किंच **महोभिः** तेजोभिः **तन्वः** आत्मशरीराणि **शुम्भमानाः** दीपयन्तः हर्षं प्राप्नुवाना इत्यर्थः । यद्वा । महोभिः स्वमहत्त्वेन युक्ता वयम् **एतान्** गन्तून् नु क्षिप्रम् **उप** **युज्महे** तव साकं हविरादि स्वीकुर्महे इत्यर्थः। हे **इन्द्र** त्वमपि **नः** अस्मत्संबन्धि **स्वधाम्** उदकं बलं वा **अनु** **बभूथ** **हि** अस्मत्सृष्टोदकजन्यं हविः अनुभवसि खलु । हिशब्दः परस्परोपकार्योपकारिभावप्रसिद्धिद्योतनार्थः ॥ ॥ २४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,14 +137,14 @@ genre M
 You appropriate: svadhām anu hi no babhūtha, you have been upon or after our food; or, balam, strength; or, udakam, water; i.e. you seek after the oblations genitive rated either by our strenght, or the water we have created
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Leader of the Maruts:] For this reason, yoking (our chariots) with  nearer (horses) that guide themselves and making our bodies  
 beautiful,  
 we now yoke antelopes also (as our lead team) by our great powers, for  you have experienced our independent will, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 yujmahe is a famous crux: though it should belong to the well-attested root aor. (seen presumably in part. yujānā́ḥ in pāda a), it has a primary ending and therefore looks like a pres. formation. It has received a plethora of explanations. Geldner calls it a non-reduplicated perfect (“Perf. ohne Redupl.”); Whitney (Rts.) simply allows for a root pres. for a few forms, incl. this one, in addition to the standard root aor. Probably the currently prevailing interpr. is Hoffmann’s (MSS 2 [1952/1957]: 130-31 =Aufs. II: 366), that it shows dissimilatory loss of the first nasal from
 
@@ -161,23 +161,23 @@ Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by tax
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Therefore together with our strong companions, having adorned our bodies, now we harness,  
      Our spotted deer with might, for thou, O Indra, hast learnt and understood our Godlike nature.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aus diesem Grunde haben wir mit den selbstherrlichen Rossen als den nächsten Gespannen fahrend, unsere Leiber mit den Hoheitszeichen schmückend, die Antilopen noch dazugespannt. Du, Indra, hast dich ja in unsere Selbstständigkeit geschickt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »So werden wir vereint mit unsern Freunden, den freien Männern, unsre Leiber schmückend, Mit grosser Pracht nun unsre Schecken scheeren; denn recht nach Wunsch bist, Indra, du erschienen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поэтому мы, запрягающие (обычно) ближайших (коней),  
 У которых своя сила, (мы,) украшающие свои тела,  

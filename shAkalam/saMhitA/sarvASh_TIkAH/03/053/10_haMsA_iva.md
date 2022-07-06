@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हंसा꣡ इव कृणुथ श्लो꣡कम् अ꣡द्रिभिर्  
 म꣡दन्तो गीर्भि꣡र् अध्वरे꣡ सुते꣡ स꣡चा  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 वि꣡ पिबध्वं कुशिकाः सोमिय꣡म् म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दे॒वेभिः॑ । वि॒प्राः॒ । ऋ॒ष॒यः॒ । नृ॒ऽच॒क्ष॒सः॒ । वि । पि॒ब॒ध्व॒म् । कु॒शि॒काः॒ । सो॒म्यम् । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *haṃsā* ← *haṃsāḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
@@ -130,21 +130,21 @@ genre M
 हे **विप्राः** मेधाविनो हे **ऋषयः** अतीन्द्रियार्थस्य द्रष्टारो हे **नृचक्षसः** नृणां कर्मनेतॄणां विशेषेण द्रष्टारो हे **कुशिकाः** कुशिकगोत्रोत्पन्ना हे पुत्राः **अध्वरे** यज्ञे **अद्रिभिः** ग्रावभिः सोमे **सुते** अभिषुते सति **गीर्भिः** **मदन्तः** स्तुतिभिर्देवान् मादयन्तो यूयं **श्लोकम्** । श्लोक्यते शस्यतेऽनेनेति श्लोकः शस्त्रम् । **कृणुथ** सम्यगुच्चारयत । तत्र दृष्टान्तः । **हंसाइव** । यथा हंसाः सम्यक् शब्दं कुर्वन्ति तद्वत् । किंच **देवेभिः** **सचा** यष्टव्यदेवैः सहिता यूयं **सोम्यं** सोममयं **मधु** मधुकरं रसं **वि** **पिबध्वं** परस्परव्यतिहारेण पिबत ॥ श्लोकम् ।' श्लोकृ शब्दे ' । करणे घञ् । ञित्वादाद्युदात्तः । मदन्तः । मदी हर्षे' इत्यस्यान्तर्भावितण्यर्थस्य व्यत्ययेन शप् । पिबध्वम् । ‘ पा पाने '।' कर्तरि कर्मव्यतिहारे ' इत्यात्मनेपदम् । सोम्यम् । सोमशब्दात् ' मये च ' इति यप्रत्ययः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Sages and saints overlookers of the leaders (of sacred rites), **Kuśikas**, when the **Soma** is expresssed with stones at the sacrifice, then exhilarating (the gods) with praises, sing the holy strain (aloud) like (screaming) swans, and, together with the gods, drink the sweet juice of the Soma.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like geese, you make a signaling call with the pressing stones,  
 becoming exhilarated on hymns at the ceremony when (the soma) is  pressed. You inspired seers who have the sight of men, along with the gods  
 drink the somian honey, you Kuśikas.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The published translation does not recognize or render the idiom ví √pā, found generally in the middle, for which see also comm. ad VII.22.3. As is indicated there, in later Vedic and already in late RV, the idiom is specialized for the separation of surā from another liquid in the Sautrāmaṇī ritual, but earlier can refer more generally to the extraction (“drinking out”) of a liquid from another source, e.g., by the pressing stones in IV.16.3 and VII.22.3. What the idiom is doing here is less clear to me. Geldner (n. 10d / Witzel Gotō) thinks this is a reference to the (much later) notion that haṃsas can separate liquids and so it belongs with the Sautrāmaṇī passages -- the haṃsa being found in pāda a, though only in a simile unrelated to drinking. I think this unlikely. It may simply be that the pressing stones are involved: the Kuśikas may be “drinking out” the soma by means of the pressing stones found in pāda a (ádribhiḥ).
 
@@ -152,23 +152,23 @@ However, it is also possible that the ví represents the cross-species aspect of
 </details>
 
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like swans, prepare a song of praise with pressing-stones, glad in your hymns with juice poured forth in sacrifice.  
      Ye singers, with the Gods, sages who look on men, ye Kutikas drink up the Soma's savoury meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie die Gänse so machet ihr mit den Preßsteinen taktmäßiges Geräusch, in Lobreden schwelgend bei dem ausgepreßten Somaopfer. Mit den Göttern zusammen trinket, ihr beredten Rishi´s mit dem Herrscherauge, ihr Kusika´s den somischen Süßtrank aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Gänse macht ihr Lärm mit den Somasteinen mit Liedern sprudelnd an dem Opferfeste bei dem Saft; mit den Göttern, o begeisterte Männer, leitende Sänger, trinkt ihr, o Kuçiker, den süssen Soma.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вы стучите давильными камнями, (шумя), как гуси,  
 Опьяняясь хвалебными песнями на обряде при выжатом (соме).  

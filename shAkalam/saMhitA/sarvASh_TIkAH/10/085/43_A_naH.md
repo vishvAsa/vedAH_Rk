@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नः प्रजां꣡ जनयतु प्रजा꣡पतिर्  
 आजरसा꣡य स꣡म् अनक्तु अर्यमा꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 शं꣡ नो भव द्विप꣡दे शं꣡ च꣡तुष्पदे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 अदुः॑ऽमङ्गलीः । प॒ति॒ऽलो॒कम् । आ । वि॒श॒ । शम् । नः॒ । भ॒व॒ । द्वि॒ऽपदे॑ । शम् । चतुः॑ऽपदे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -126,7 +126,7 @@ popular;; repeated line
 **प्रजापतिः** देवः नः अस्माकं **प्रजाम्** आ **जनयतु** । **अर्यमा** च **आजरसाय** जरापर्यन्तं जीवनाय **समनक्तु** संगमयतु । सा त्वम् **अदुर्मङ्गलीः** दुर्मङ्गलरहिता सुमङ्गली। यद्वा । या मङ्गलाचारान् दूषयति सा दुर्मङ्गली । ततोऽन्या अदुर्मङ्गली । तादृशी सती **पतिलोकं** पतिसमीपम् **आ** **विश** प्राप्नुहि । **नः** अस्माकं **द्विपदे** **शं** **भव** । तथा च **शं** चतुष्पदे भव ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -137,30 +137,30 @@ popular;; repeated line
 The following ṛcas areto be repeated when the bridegroom, on returning home with his bride, offers sacrifice with fire
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Prajāpati generate progeny for us. Let Aryaman anoint (you?) till  old age.  
 Without ill-omen enter the world of your husband. Be weal for our  
 two-footed, weal for our four-footed.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may Prajapati bring children forth to us; may Aryaman adorn us till old age come nigh.  
      Not inauspicious enter thou thy husband's house: bring blessing to our bipeds and our quadrupeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Prajapati soll uns Kinder erzeugen, bis zum hohen Alter soll uns Aryaman verschmelzen. Ohne übel Vorbedeutung tritt in die Welt des Gatten ein! Sei unseren Zweifüßlern zum Glück und den Vierfüßlern zum Glück!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nachkommenschaft zeuge uns der Herr der Nachkommenschaft, Arjaman statte uns reich aus bis ins Greisenalter; du (o Weib) gehe, ohne Unheil zu bringen, ein zu dem Ort des Gatten; Heil möge sein unserm zweifüssigen und vierfüssigen Hausstand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да породит нам потомство Праджапати!  
 Да благословит нас Арьяман на глубокую старость!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ एति प्रसवीता꣡ ज꣡नानाम्  
 महा꣡न् केतु꣡र् अर्णवः꣡ सू꣡रियस्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् एतशो꣡ व꣡हति धूर्षु꣡ युक्तः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 स॒मा॒नम् । च॒क्रम् । प॒रि॒ऽआ॒विवृ॑त्सन् । यत् । ए॒त॒शः । वह॑ति । धूः॒ऽसु । यु॒क्तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -119,7 +119,7 @@ genre M
 अयं **सूर्यस्य** सूर्यः । विभक्तिव्यत्ययः । **उद्वेति** उद्गच्छति । कीदृशोऽयम् । **जनानां** सर्वेषां **प्रसविता** सर्वेषु कर्मस्वनुज्ञाता **महान्** पूज्यः **केतुः** सर्वस्य प्रज्ञापकः **अर्णवः** उदकप्रदः । किं कुर्वन्नुदेतीति उच्यते । **समानं** सर्वेषामेकरूपमेकमेव **चक्रं** रथाङ्गं चरणशीलं रथं वा **पर्याविवृत्सन्** पर्यावर्तयितुमिच्छन् । **यत्** रथचकं **धूर्षु** रथस्य **युक्तः** **एतशः** एतशवर्णो हरितवर्णोऽश्वः **वहति** । ‘एको अश्वो वहति सप्तनामा' (ऋ. सं. १. १६४. २) इत्युक्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ Great rain-shedding: **mahān** ketur **arṇavaḥ** sūryasya, thebanner or em
 Sūryasya = **suryaḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And upward he rises, the one impelling the peoples forth—the great,  undulating beacon of the Sun,  
 about to turn the common wheel that Etaśa pulls, harnessed on the  
 yoke poles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya's great ensign, restless as the billow, that urgeth men to action, is advancing:  
      Onward he still would roll the wheel well-rounded, which Etasa, harnessed to the car-pole, moveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es geht der Wecker der Menschen, das große, wallende Banner des Surya auf, um das stets gleiche Rad ins Rollen zu bringen, das der ins Joch gespannte Etasa zieht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf geht er nun, der Wecker aller Menschen, der Sonne grosses Banner, Wellen schlagend, Das gleiche Rad in stetem Kreislauf drehend, bewegt vom Ross, das an das Joch geschirrt ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот он восходит, побудитель людей,  
 Великий развевающийся флаг Сурьи,  

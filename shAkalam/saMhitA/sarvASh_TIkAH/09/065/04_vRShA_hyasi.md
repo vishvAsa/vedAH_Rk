@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षा हि꣡ अ꣡सि भानु꣡ना  
 द्युम꣡न्तं त्वा हवामहे  
 प꣡वमान सुआधि꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑मान । सु॒ऽआ॒ध्यः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
@@ -77,20 +77,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम त्वं **वृषा** अभिमतफलानां वर्षिता **असि** **हि** भवसि खलु । तस्मात् हे **पवमान** पूयमान पुनान वा सोम **स्वाध्यः** शोभनकर्माणः सुष्ठु ध्यानवन्तो वा वयं **भानुना** तेजसा **द्युमन्तं** दीप्तिमन्तम् । अतिशयेन तेजस्विनमित्यर्थः । स्तुतिमन्तं वा **त्वा** त्वां **हवामहे** यज्ञेष्वाह्वयामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We who perform good works praise you, purified **Soma**, brilliant with radiance, for you are the showerer (of benefits).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because you are a bull, we, very attentive, invoke you who are brilliant  with radiance,  
 o self-purifying one.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -100,23 +100,23 @@ No obvious signs of unity
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art a Steer by lustre: we, O Pavamana, faithfully  
      Call upon thee the Splendid One.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn du bist ein Bulle; dich, den im Glanze Strahlenden rufen wir wohlgesinnt an, o Pavamana.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du bist an Strahlen ja ein Held, drum rufen wir dich glänzenden, O flammender, an Andacht reich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

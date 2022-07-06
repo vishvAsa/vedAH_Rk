@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡र्जन्यवाता वृषभा पृथिव्याः꣡  
 पु꣡रीषाणि जिन्वतम् अ꣡पियानि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ज꣡गत स्थातर् ज꣡गद् आ꣡ कृणुध्वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सत्य॑ऽश्रुतः । क॒व॒यः॒ । यस्य॑ । गीः॒ऽभिः । जग॑तः । स्था॒तः॒ । जग॑त् । आ । कृ॒णु॒ध्व॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *parjanyavātā* ← *parjanya*
 - \[noun\], masculine
@@ -119,7 +119,7 @@ genre M
 हे **पर्जन्यवाता** पर्जन्यवायू **वृषभा** वृष्टेः कर्तारौ **पृथिव्याः** । अन्तरिक्षनामैतत् । अन्तरिक्षात् **अप्यानि** आप्तव्यानि **पुरीषाणि** पूरकाण्युदकानि **जिन्वतं** प्रेरयतम् । उत्तरोऽर्धर्चो मारुतः । हे **सत्यश्रुतः** सत्यस्य स्तोत्रस्य श्रोतारः **कवयः** मेधाविनो मरुतः **यस्य** स्तोतुः **गीर्भिः** स्तुतिभिः यूयं स्तुता भवथ तस्य स्तोतुः **जगत्** स्थावरजङ्गमात्मकं सर्वं प्राणिजातम् **आ** **कृणुध्वम्** आभिमुख्येन कुरुत । हे **जगतः** **स्थातः** । गणाभिप्रायमेकवचनम्। स्थावरजङ्गमात्मकस्य जगतोऽवस्थापक हे मरुद्गण इति योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,13 +130,13 @@ genre M
 Multiply: jagad ākṛṇudhvam = **jagat**: fixed as well as moveable, all living things, jagat **sthāvara** jaṅgamātmakam sarvam prāṇijātam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Parjanya [/Thunder] and Vāta [/Wind], you two bulls of the earth,  quicken the watery outpourings (for him [=human poet])  
 through whose hymns—you poets who really hear [=Maruts] and you  mounter of the moving world [=Indra]—you made the moving world  your own.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 If my comment immed. above is correct, this vs. is a fine example of it. To begin with the surface, the first hemistich has a dual voc. (párjanyavātā) and a dual impv. (jinvatam). So far all is well. But the 2nd hemistich has a plural voc. (sátyaśrutaḥ kavayaḥ), whose referents are not identified, and a singular voc. (jágata sthātar), whose referent is not identified, flanking a rel. prn. in the gen. and an instr.
 
@@ -167,23 +167,23 @@ Thus, by my interpr. all of cd is a rel. cl., dependent on a “for him” or th
 verb ā́kṛṇudhvam in d. Although my interpr. produces an awk English tr., it accounts for the Sanskrit considerably better than the alternatives. What it means for the gods to “make the moving world their own” I’m not sure -- but perhaps the usual RVic notion that human praises strengthen the gods for their heroic deeds and, perhaps in this case, that these praises bring the gods and their human worshipers (part of the “moving world”) into a closer relationship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bulls of the Earth, O Vata and Parjanya, stir up for us the regions of the water.  
      Hearers of truth, ye, Sages, World-Supporters, increase his living wealth whose songs delight you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parjanya und Vata, ihr Bullen der Erde, belebet die Wasserquellen! Ihr die Wahrheit erhörenden Seher, du Wagenlenker der lebenden Welt, machet alles was lebt, dem geneigt, an dessen Loblied ihr Freude habt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Beeilt, o Stiere, Wind und Wetterwolke, das wasserreiche Dunstgewölk der Erde; Auf wessen Ruf, o Seher, Wahrheit hörend ihr kommt, dem schenkt, was fest ist und beweglich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Парджанья и Вата, два быка земли,  
 Оживите водные источники!  

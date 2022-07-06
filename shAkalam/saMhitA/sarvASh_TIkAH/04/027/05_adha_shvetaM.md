@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध श्वेतं꣡ कल꣡शं गो꣡भिर् अक्त꣡म्  
 आपिप्यान꣡म् मघ꣡वा शुक्र꣡म् अ꣡न्धः  
@@ -15,7 +15,7 @@ ChandaH = "शक्वरी"
 शू꣡रो म꣡दाय प्र꣡ति धत् पि꣡बध्यै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M
 अ॒ध्व॒र्युऽभिः॑ । प्रऽय॑तम् । मध्वः॑ । अग्र॑म् । इन्द्रः॑ । मदा॑य । प्रति॑ । ध॒त् । पिब॑ध्यै । शूरः॑ । मदा॑य । प्रति॑ । ध॒त् । पिब॑ध्यै ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adha*
 - \[adverb\]
@@ -146,14 +146,14 @@ genre M
 **अध** अधुना **शूरः** विक्रान्तः **मघवा** धनवान्' **इन्द्रः** **श्वेतं** शुभ्रं **कलशं** कलशे पात्रे स्थितं **गोभिः** गव्येन पयसा **अक्तं** सिक्तम् **आपिप्यानम्** आप्याययन्तं **शुक्रं** सारोपेतम् **अध्वर्युभिः** **प्रयतं** दत्तम् **अन्धः** सोमलक्षणमन्नं **मध्वः** मधुरस्य सोमरसस्य **अग्रम्** अग्रे **मदाय** मदार्थं **पिबध्यै** पातुं **प्रति** **धत्** प्रतिदधातु । पुनरुक्तिरादरार्था ॥ ॥ १६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Now may **Maghavan** accept the pure nutitious (sacrificial) food in a white pitcher, mixed with milk and curds, offered by the priests; the upper part of the sweet (beverage) to drink for his exhilaration; may the hero accept (it) to drink for (his) exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Now then the gleaming tub anointed with cows [=milk], the swelling,  glistening stalk,  
 the foremost of the honeyed drink held out by the Adhvaryus—  
@@ -161,28 +161,28 @@ bounteous Indra will aim it for drinking—
 the champion will aim it for drinking to exhilaration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first occurrence of mádāya- was omitted in the published translation, which should read “… Indra will aim it for drinking to exhilaration.” As noted in the published introduction, práti √dhā is an idiom meaning ‘aim (an arrow)’, and the word play is surely meant here, given the immediately preceding vss. about Kṛśānu and his arrowshot.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 And now let Maghavan accept the beaker, white, filled with milk, filled with the shining liquid;  
      The best of sweet meath which the priests have offered: that Indra to his joy may drink, the Hero, that he may take and drink it to his rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun möge der freigebige Indra den weißen Becher, den mit Kuhmilch gemischten, den aufquellenden, klaren Saft, die von den Adhvaryu´s dargebrachte Blume des Metes ansetzen, um ihn zum Rausche zu trinken, möge der Held ansetzen, um ihn zum Rausche zu trinken.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann setzte Indra an, die blanke Schale, den milchgesalbten, fetten, lichten Rauschtrank, Des Honigs Seim, den ihm die Priester reichten, der mächtige, zum Rausche ihn zu trinken. (der Held zum Rausche setzt ihn an zu trinken.)
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть же светлая чаша, смешанный с молоком,  
 Бьющий через край чистый сок сомы,  

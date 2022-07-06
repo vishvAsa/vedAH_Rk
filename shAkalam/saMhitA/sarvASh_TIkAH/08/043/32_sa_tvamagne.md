@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्व꣡म् अग्ने विभा꣡वसुः  
 सृज꣡न् सू꣡र्यो न꣡ रश्मि꣡भिः  
 श꣡र्धन् त꣡मांसि जिघ्नसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 शर्ध॑न् । तमां॑सि । जि॒घ्न॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -91,36 +91,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **विभावसुः** दीप्तिधनः **सः** प्रसिद्धः **त्वं** **सृजन्** उद्यन् **सूर्यो** **न** यथा सूर्यस्तथा **रश्मिभिः** **शर्धन्** बलं कुर्वन् **तमांसि** **जिघ्नसे** नाशयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Shining forth, **Agni**, like the rising sun, displaying your strength by your beams, you destroy thedarkness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Agni, with far-radiant goods, dispatching (darkness) like the sun  with its rays,  
 vaunting yourself, you keep smashing the dark shades.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So thou, O Agni rich in light, beaming like Surya with thy rays  
      Boldly demolishest the gloom,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, glanzreich, wie die Sonne mit Strahlen schießend, vertreibst kraftbewußt die Finsternis.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Agni, glanzbegabter du, der sonnengleich du Strahlen wirfst, Du scheuchest kühn die Finsterniss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Агни, блистательный,  
 Бросающийся (пламенем), как солнце – лучами,  

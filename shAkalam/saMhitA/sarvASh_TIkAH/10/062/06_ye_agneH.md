@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ये꣡ अग्नेः꣡ प꣡रि जज्ञिरे꣡  
 वि꣡रूपासो दिव꣡स् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 स꣡चा देवे꣡षु मंहते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 नव॑ऽग्वः । नु । दश॑ऽग्वः । अङ्गि॑रःऽतमः । सचा॑ । दे॒वेषु॑ । मं॒ह॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
@@ -100,7 +100,7 @@ genre M
 **विरूपासः** विविधरूपाः **ये** अङ्गिरसः **दिवस्परि** द्युलोकात् **अग्नेः** **परि** **जज्ञिरे** परितो जाताः । यद्वा । दिवस्परि। परिः पञ्चम्यर्थद्योतकः । स्वतेजसा दीप्यमानादग्नेर्जाताः । तेषां मध्ये **नवग्वः** **दशग्वः** च **अङ्गिरस्तमः** अङ्गिरसां वरिष्ठः । सत्रमासीनानामङ्गिरसां मध्ये केचन नवसु मास्सु कर्मं कृत्वोदतिष्ठन् केचन दशसु मास्स्वित्येवमङ्गिरसामयनमुक्तम् । तेषामग्निर्नवग्वश्च दशग्वश्चोक्तः । तादृशः **देवेषु** **सचा** सहावस्थितः सोऽग्निः **मंहते** मह्यं धनं प्रयच्छति । मंहतिर्दानकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,30 +111,30 @@ genre M
 Spring from Agni: cf. the **Brāhmaṇa** text cited in the previous ṛca; Chief **Aṅgirasa**:aṅgirastamaḥ = agni
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Virūpas [/those of various forms] who were born from Agni and  from heaven,  
 Navagva, Daśagva, the best of the Aṅgirases: in company with the  
 gods, (each) is generous.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Distinguished by their varied form, they sprang from Agni, from the sky.  
      Navagva and Dasagva, noblest Angiras, he giveth bounty with the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die von Agni abstammen, vom Himmel, die Virupa´s, Navagva, Dasagva, der erste Angiras, er ist im Verein mit den Göttern schenkwillig.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus Agni's Glut sind sie erzeugt, vom Himmel sie, gestaltenreich, Der Neuner, Zehner, er, der beste Angiras, ist selig mit der Götterschar.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что происходят от Агни,  
 С неба, Вирупы,  

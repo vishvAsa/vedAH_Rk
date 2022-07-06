@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ दभ्रे꣡भिर् ह꣡वियो य꣡श् च भू꣡रिभिर्  
 यो꣡ अभी꣡के वरिवोवि꣡न् नृषा꣡हिये  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अर्वा꣡ञ्चम् इ꣡न्द्रम् अ꣡वसे करामहे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 तम् । वि॒ऽखा॒दे । सस्नि॑म् । अ॒द्य । श्रु॒तम् । नर॑म् । अ॒र्वाञ्च॑म् । इन्द्र॑म् । अव॑से । क॒रा॒म॒हे॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -134,36 +134,36 @@ genre M
 **नृसह्ये** नृणामभिभावुके **विखादे** विशेषेण भक्षके **अभीके** संग्रामे **वरिवोवित्** धनस्य लम्भकः **यः** इन्द्रः **दभ्रेभिः** स्वल्पैः **हव्यः** ह्वातव्यः **यश्च** **भूरिभिः** बहुभिः **हव्यः** **तं** **सस्निं** शुचिं **श्रुतं** सर्वत्र विख्यातं **नरं** नेतारम् **इन्द्रम्** **अद्य** अस्मिन्नहनि **अवसे** अस्मद्रक्षणाय **अर्वाञ्चम्** अस्मदभिमुखं **करामहे** कुर्मः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Let us bring before us today for ur protection that **Indra**, the pure, the renowned, the leader of rites,who in the main-destroying, all-devouring conflict, is the winner of wealth; who is to be invoked by few and many.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who is to be invoked by the few and who by the many, who finds wide  space in close quarters at the time to conquer superior men,  
 him—the winner in the devouring (battle) today, the famous superior  man—Indra may we make inclined toward us for help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him who must be invoked by many and by few, who standeth nigh with comfort in the war of men,  
      Indra, famed Hero, winner in the deadly strife, let us bring hitherward to-day to favour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der von wenigen anzurufen ist und der von vielen, der im Zusammenstoß in der Männerschlacht einen Ausweg findet, den berühmten Herrn, den Gewinner bei dem Sichverbeißen, den Indra wollen wir heute zum Beistand geneigt machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der anzuflehn von wenigen und vielen ist, der Raum verschafft beim Angriff in der Männerschlacht, Den Ruhmeshelden, der im Treffen Beute schafft, den Indra rufen heute wir zur Hülfe her.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кого должны призывать немногие и кого многие,  
 Кто находит выход в столкновении при покорении мужей,  

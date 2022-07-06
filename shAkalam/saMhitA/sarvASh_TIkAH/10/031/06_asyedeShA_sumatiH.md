@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्ये꣡द् एषा꣡ सुमतिः꣡ पप्रथान  
 अ꣡भवत् · पूर्विया꣡ भू꣡मना गउः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 समान꣡ आ꣡ भ꣡रणे बि꣡भ्रमाणाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒स्य । सऽनी॑ळाः । असु॑रस्य । योनौ॑ । स॒मा॒ने । आ । भर॑णे । बिभ्र॑माणाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
@@ -117,7 +117,7 @@ genre M
 **इत्** इदानीम् **अस्य** देवगणसंबन्धिनी **एषा** **सुमतिः** सुष्टुतिः **पप्रथानाभवत्** विस्तीर्यमाणाभूत् । अस्माभिः क्रियमाणेत्यर्थः । कीदृशी । **पूर्व्या** पूर्वकालीना **भूमना** भूम्ना बहुत्वेन युक्तेति शेषः । सर्वदेवसंबन्धित्वाद्भृशं जातेत्यर्थः । **गौः** देवान्प्रति गन्त्री । एतज्ज्ञात्वा सर्वे देवाः **असुरस्य** प्रजारूपबलवतः **अस्य** मम संबन्धिनि **समाने** सर्वदेवसाधारणे **भरणे** सर्वेषां देवानां पुष्टिकरे **योनौ** यज्ञाख्ये स्थाने **सनीळाः** समानस्थानाः **बिभ्रमाणाः** अस्मदर्थं दृष्टादृष्टफलं धारयन्तः **आ** गच्छन्त्विति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -128,29 +128,29 @@ genre M
 Of this one who is mighty: i.e., of me whohas strength in the nature of progeny
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The good favor of just this one, spreading out, became the foremost  cow throughout the land;  
 in the womb of this lord are those of the same nest, being borne in the  same burden.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This Bull's most gracious far-extended favour existed first of all in full abundance.  
      By his support they are maintained in common who in the Asura's mansion dwell together.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese seine Gunst, die sich mit der Erde ausbreitete, ward zur ersten Kuh. In dieses Asura Schoße sind die Verschwisterten, in gleicher Tragung getragen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es dehnte weit sich diese seine Huld aus; die erste Kuh entstand durch seine Fülle, Die in dem Sitz des höchsten Gottes wohnen, die werden, auch versorgt in gleicher Pflege.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта его милость, распространяясь  
 По земле, стала первой коровой.  

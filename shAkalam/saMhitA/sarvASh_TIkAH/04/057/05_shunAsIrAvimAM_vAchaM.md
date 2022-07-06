@@ -6,14 +6,14 @@ ChandaH = "पुरउष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शु꣡नासीराव् इमां꣡ वा꣡चं जुषेथां  
 य꣡द् दिवि꣡ चक्र꣡थुः प꣡यः  
 ते꣡नेमा꣡म् उ꣡प सिञ्चतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -30,7 +30,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 तेन॑ । इ॒माम् । उप॑ । सि॒ञ्च॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śunāsīrāv* ← *śunāsīrau* ← *śunāsīra*
 - \[noun\], vocative, dual, masculine
@@ -99,7 +99,7 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 ‘ द्युदेवः शुनदेवता ' इति शौनकः । अतः शुन इन्द्रः सीरो वायुः ।  ‘ शुनो वायुः शु  एत्यन्तरिक्षे सीर आदित्यः सरणात् ' (निरु. ९. ४० ) इति यास्कः । हे शुनासीरौ तौ युवाम् **इमां** वक्ष्यमाणां मदीयां **वाचं** **जुषेथाम्** । **यत्** **पयः** **दिवि** **चक्रथुः** **तेनेमां** भूमिम् **उ** **सिञ्चतम्** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -112,29 +112,29 @@ popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 **Śunāsīra** = Indra
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Prosperity and Plow, take pleasure in this speech here. When you have  made milk in heaven,  
 with it besprinkle this (earth) here.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Suna and Sira, welcome ye this laud, and with the milk which ye have made in heaven  
      Bedew ye both this earth of ours.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Suna und Sira! Habt an dieser Rede Gefallen! Das Naß, das ihr im Himmel bereitet habt, mit dem besprengt diese Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Pflug und Lenker, nehmt dieses Lied huldvoll an; mit der Milch, die ihr am Himmel schafft, mit der benetzet dieses [Land].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Шуна и Сира, наслаждайтесь этой речью!  
 Та влага, которую вы создали на небе, –  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ सुष्व꣡यन्ती यजते꣡ उ꣡पाके  
 उषा꣡सान꣡क्ता सदतां नि꣡ यो꣡नौ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡धि श्रि꣡यं शुक्रपि꣡शं द꣡धाने
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दि॒व्ये इति॑ । योष॑णे॒ इति॑ । बृ॒ह॒ती इति॑ । सु॒रु॒क्मे इति॑ सु॒ऽरु॒क्मे । अधि॑ । श्रिय॑म् । शु॒क्र॒ऽपिश॑म् । दधा॑ने॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -115,37 +115,37 @@ genre M
 सुस्वयन्ती ।  ‘ अथ पथ गतौ । शतर्युपसर्गस्य सोर्द्विर्वचनं छान्दसम् । सुष्ठु अयन्त्यौ गच्छन्त्यौ । यद्वा । स्वपेर्ण्यन्तस्य वर्णलोपः ॥ सुष्वापयन्त्यौ । **यजते** यष्टव्ये **उपाके** उपक्रान्ते **उषासानक्ता** उषाश्च नक्तं च ॥ द्वन्द्वे • उषासोषसः' ( पा. सू. ६. ३. ३१ ) इत्युषासादेशः ।  ‘ देवताद्वन्द्वे च ' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥ अहोरात्रदेव्यौ **योनौ** अस्मिन् यज्ञस्थाने **नि** नितरां नियमेन वा **आ** **सदताम्** आसीदतम् । सदेर्लुङि लृदित्त्वाच्च्लेरङ्। कीदृश्यौ । **दिव्ये** दिवि भवे **थोषणे** योषिताविव प्रीणयित्र्यौ । यद्वा । योषणे समिते परस्परतोऽविविक्ते । **बृहती** गुणैर्महत्यौ **सुरुक्मे** शोभनदीप्ते ॥ रुक्मम् । रोचतेर्मक्प्रत्यये कुत्वे च कृते रूपम् ॥ **शुक्रपिशं** शोचमानरूपां **श्रियम्** **अधि** **दधाने** अधिकं धारयन्त्यौ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the adorable Day and Night, the givers of sound repose, having approached, sit down in theplace (of sacrifice), two divine feminine les, majestic and richly ornamented, bearing beauty of a bright form.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Richly fertile, worthy of the sacrifice—let Dawn and Night sit down here  close together in the womb—  
 heavenly maidens, lofty, with lovely ornaments, assuming brilliantly  
 adorned splendor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pouring sweet dews let holy Night and Morning, each close to each, he seated at their station,  
      Lofty, celestial Dames with gold to deck them. assuming all their fair and radiant beauty.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es sollen die beiden opferwürdigen, fruchtbaren, die benachbarten Morgen und Nacht sich auf ihren Platz setzen, die beiden himmlischen, hohen, goldgeschmückten, die lichtfarbenen Zierat anlegen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die eng verbundnen hehren Nacht und Morgen, sie mögen eilend auf den Platz sich setzen, Des Himmels Jungfraun, schöngeschmückt erhaben, in lichte, bunte Farbenpracht sich kleidend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть плодородные, достойные жертв, тесно связанные (друг с другом)  
 Ушас-и-Ночь  

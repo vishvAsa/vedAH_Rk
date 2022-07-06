@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊती꣡ देवा꣡नां वय꣡म् इ꣡न्द्रवन्तो  
 मंसीम꣡हि स्व꣡यशसो मरु꣡द्भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡द् अश्याम मघ꣡वानो वयं꣡ च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अ॒ग्निः । मि॒त्रः । वरु॑णः । शर्म॑ । यं॒स॒न्् । तत् । अ॒श्या॒म॒ । म॒घऽवा॑नः । व॒यम् । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
@@ -121,36 +121,36 @@ genre M
 **इन्द्रवन्तः** प्रीतेनेन्द्रेण तद्वन्तः वयं **देवानां** देवान् ॥ कर्मणि षष्ठी ॥ **उती** ऊत्या तर्पणेन हविरादिना **मंसीमहि** मन्येमहि । कीदृशा वयम् । **स्वयशसः** स्वायत्तकीर्तयः **मरुद्भिः** स्तुत्या हृद्यैर्मरुद्देवैरनुगृहीताः । यद्वा । देवानाम् ऊत्या रक्षणेन रक्षिता मंसीमहि ज्ञातारो भवेम सामर्थ्यात् तेषामेव महत्त्वस्य । किंच अग्निमित्रवरुणाः देवाः **शर्म** **यंसन्** अस्माकं सुखं प्रायच्छन् तं तं वरम् । **मघवानः** वयं च तैर्दत्तान्नवन्तः सन्तः **तत्** सुखम् **अश्याम** व्याप्नुयाम ॥ अश्नोतेराशिषि लिङि  ‘ छन्दस्युभयथा ' इति सार्वधातुकत्वात् सलोपः ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Worshiping **Indra**, and favoured by the **Maruts**, may we rely upon the protection of the gods; and may we, affluent (through their bounty), enjoy the felicity which **Agni**, **Mitra**, and **Varuṇa** are bestowing (upon us).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With the aid of the gods, with Indra on our side along with the Maruts,  might we consider ourselves self-glorious.  
 Agni, Mitra, Varuṇa will extend shelter; may we attain it—we and the  bounteous ones.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With the Gods' help, with Indra still beside us, may we be held self-splendid with the Maruts.  
      May Agni, Mitra, Varuna give us shelter this may we gain, we and our wealthy princes.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch die Gunst der Götter, mit Indra auf unserer Seite, mit den Marut möchten wir uns selbstherrlich dünken. Agni, Mitra, Varuna sollen uns Schutz gewähren. Das mögen die Gönner und wir erreichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch der Götter Hülfe, mit Indra vereint, durch die Maruts mögen wir selbstherrlich erscheinen; Agni, Mitra, Varuna mögen uns Schutz reichen, das mögen wir und die Opferherrn erlangen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Благодаря поддержке богов пусть считаемся мы  
 Любимцами Индры, обладающими собственной славой, вместе с Марутами!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उषो꣡ न꣡ जारः꣡ पृथु꣡ पा꣡जो अश्रेद्  
 द꣡विद्युतद् दी꣡दियच् छो꣡शुचानः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 धि꣡यो हिन्वान꣡ उशती꣡र् अजीगः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृषा॑ । हरिः॑ । शुचिः॑ । आ । भा॒ति॒ । भा॒सा । धियः॑ । हि॒न्वा॒नः । उ॒श॒तीः । अ॒जी॒ग॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣo* ← *uṣaḥ* ← *uṣ*
 - \[noun\], genitive, singular, feminine
@@ -119,36 +119,36 @@ genre M
 अग्निः **उषो** **न** **जारः** उषसो जारः सूर्यस्तद्वत् **पृथु** विस्तीर्णं **पाजः** तेजः **अश्रेत्** श्रयति । किंच **दविद्युतत्** **दीद्यत्** **शोशुचानः** इति त्रयोऽपि शब्दा यद्यपि दीप्तिकर्माणः तथापि दीप्तेः भूयस्त्वज्ञापनाय प्रयुक्ता इति न पुनरुक्तिः । अत्यन्तं दीप्यमान इत्यर्थः । **वृषा** कामानां वर्षिता **हरिः** हविषां प्रेरकः **शुचिः** शुद्धिकृदग्निः **धियः** कर्माणि **हिन्वानः** प्रेरयन् **भासा** दीप्त्या **आ** **भाति** प्रकाशते । अपि च **उशतीः** कामयमानाः **अजीगः** जागरयति । तमसा तिरोहिताः प्रजा उद्गिरति वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, like the lover of the dawn (the sun), radiant, bright, resplendent, displays extensive lustre, theshowerer (of benefits), the receiver (of oblations), he shines with splendour, encouraging holy rites; he arouses(mankind), desiring (his presence).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the lover of Dawn, flaring, shining, and blazing, he has held up his  broad face.  
 The bull, the blazing fallow bay, radiates with his radiance. Urging on  our eager insights, he has awakened them.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 HE hath sent forth, bright, radiant, and refulgent, like the Dawn's Lover, his far-spreading lustre.  
      Pure in his splendour shines the golden Hero: our longing thoughts hath he aroused and wakened.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie der Buhle der Morgenröte hat er seinen breiten Schein ausgestreckt, mächtig leuchtend, scheinend, flammend. Der goldige, blanke Bulle erglänzt in Glanz; er hat die willigen Gedanken angeregt und geweckt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat entsandt der Morgenröthe Buhle den weiten Schimmer, strahlend, glänzend, leuchtend; Der lichte Hengst, der goldne, glänzt mit Strahlen, hat, angespornt, erweckt inbrünst'ge Andacht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как любовник утренней зари простер он (свою) широкую массу  
 Ярко сверкая, светя, мощно пламенея.  

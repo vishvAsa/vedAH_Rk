@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 बृहती꣡ इव सून꣡वे रो꣡दसी  
 गि꣡रो हो꣡ता मनुषि꣡यो न꣡ द꣡क्षः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वैश्वानरा꣡य नृ꣡तमाय यह्वीः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स्वः॑ऽवते । स॒त्यऽशु॑ष्माय । पू॒र्वीः । वै॒श्वा॒न॒राय॑ । नृऽत॑माय । य॒ह्वीः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, dual, feminine
@@ -106,7 +106,7 @@ genre M
 **रोदसी** द्यावापृथिव्यौ **सूनवे** स्वपुत्राय वैश्वानराय **बृहतीइव** प्रभूते इवाभूताम् । वैश्वानरस्य द्यावापृथिव्योः पुत्रत्वं मन्त्रान्तरे स्पष्टमवगम्यते - ‘उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसा ' ( ऋ. सं. ३. ३. ११) इति । महतो वैश्वानरस्य अवस्थानाय द्यावापृथिव्यौ विस्तृते जाते इत्यर्थः । किंचायं **होता** 'दक्षः समर्थः पूर्वीः बहुविधाः **यह्वीः** महतीः **गिरः** स्तुतीः **वैश्वानराय** अग्नये प्रायुङ्क्तेति शेषः । कीदृशाय। **स्वर्वते** शोभनगमनयुक्ताय **सत्यशुष्माय** अवितथबलाय **नृतमाय** अतिशयेन सर्वेषां नेत्रे । तत्र दृष्टान्तः । मनुष्यो **न** । यथा मनुष्यो लौकिको वन्दी दातारं प्रभुं बहुविधया स्तुत्या स्तौति तद्वत् ॥ मनुष्यः । ‘मनोर्जातावञ्यतौ षुक्च' इति जातौ गम्यमानायां मनुशब्दात् यत् षुगागमश्च । ' तित्व्तरितम्' इति स्वरितत्वम् । यतोऽनावः' इत्याद्युदात्तत्वं न भवति । तत्र हि द्व्यच् इति अनुवर्तते । स्वर्वते । सुपूर्वात् अर्तेः भावे विच् । ततो मतुप् । मादुपधायाः' इति वत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,7 +119,7 @@ For their son: ubha pitarā mahayan ajāyata agnir **dyāvā** **pṛthivī**, b
 Asumed: **bandī**, a panegyrist, or bard, who recites the praises of a prime or great man, for largess
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like the two lofty world-halves for their son [=Agni], like Manu’s skill,  the human Hotar (brings) hymns—  
 many (hymns), (like) exuberant maidens—for him possessed of  
@@ -127,7 +127,7 @@ the sun, him whose bluster is real, for the most manly
 Vaiśvānara.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first pāda of this verse is metrically disturbed, which, in conjunction with its syntactic incompleteness, leads some tr. to consider the text corrupt. I’m afraid I find that reasoning too convenient.
 
@@ -137,28 +137,28 @@ I do not see any reason for, or justification of, supplying a 1st-person subject
 however, pace Oldenberg SBE (1st pl.), Geldner, Renou (1st sg.).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As the great World-halves, so are their Son's praises; skilled, as a man, to act, is he the Herald.  
      Vaisvanara, celestial, truly mighty, most manly One, hath many a youthful consort.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 As the two great worlds to their son 1, like a Hotri like a skilful man, (we bring) praises — manifold (praises) to him who is united with the sun, to the truly strong one, new (praises) to Vaisvanara, the manliest god.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die beiden Welten sind ihm wie zwei hehre Mütter dem Sohne. Lobesworte spende ich geschickt wie der menschliche Hotri es zu sein vermag. Dem Sonnenhaften, von echtem Mute, dem männlichsten Vaisvanara dienen viele jüngste Frauen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Erd' und Himmel ihrem Sohn sich breiten, so sendet, wie ein weiser Mensch, der Priester Viel kräft'ge Lieder ihm, dem wahrhaft starken, glanzreichen, männlichsten, dem Männerhorte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как высокие два мира (обращаются) к сыну,  
 (Так я,) искусный (посылаю) хвалебные песни, словно человеческий хотар,  

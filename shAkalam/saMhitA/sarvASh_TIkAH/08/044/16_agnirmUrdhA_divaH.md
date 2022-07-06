@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् मूर्धा꣡ दिवः꣡ ककु꣡त्  
 प꣡तिः पृथिविया꣡ अय꣡म्  
 अपां꣡ रे꣡तांसि जिन्वति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒पाम् । रेतां॑सि । जि॒न्व॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -81,7 +81,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **मूर्धा** देवानां श्रेष्ठः **दिवः** द्युलोकस्य **ककुत्** उच्छ्रितः **पृथिव्याः** च **पतिः** **अयम्** **अग्निः** **अपां** **रेतांसि** स्थावरजङ्गमात्मकानि भूतानि जिन्वति प्रीणयति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,28 +92,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Seed: retāṃsi, the moveable andimmovable productions of the creative waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is the head, the peak of heaven; this (Agni) here is lord of the earth. He quickens the spawn of the waters.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is head and height of heaven, the Master of the earth is he:  
      He quickeneth the watere seed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni ist das Haupt, die Spitze des Himmels, er der Herr der Erde; er kräftigt den Samen der Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser Samenguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни – глава неба, вершина;  
 Он хозяин земли,  

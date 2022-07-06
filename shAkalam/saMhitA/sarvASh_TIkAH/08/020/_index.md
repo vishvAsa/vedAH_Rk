@@ -8,7 +8,7 @@ title = "+020"
 ‘आ गन्त' इति षड्विंशत्यृचमष्टमं सूक्तं काण्वस्य सोभरेरार्षं मारुतम् । प्रथमाद्ययुजः ककुभो द्वितीयादियुजः सतोबृहत्यः । अनुक्रम्यते हि - ‘ आ गन्त षड्विंशतिर्मारुम्' इति । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 20 (640)  
 Maruts  
@@ -19,7 +19,7 @@ self in verses 19–20. Unlike the generic gifts generally asked for in R̥gvedi
 The hymn exhibits a light touch and has a number of neat turns of phrase—for  instance, verse 8, where “the music of the Sobharis is anointed with cows” indicates  that their hymn reaps a bovine reward from the patron, or verse 19, with its pun on  the participle cárkr̥ṣat meaning both “plowing” and “celebrating.”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Maruts
 </details>

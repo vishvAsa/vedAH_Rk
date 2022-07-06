@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ सुप्र꣡तीकं सुदृ꣡शं सुअ꣡ञ्चम्  
 अ꣡विद्वांसो विदु꣡ष्टरं सपेम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्र꣡ हव्य꣡म् अग्नि꣡र् अमृ꣡तेषु वोचत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । य॒क्ष॒त् । विश्वा॑ । व॒युना॑नि । वि॒द्वान् । प्र । ह॒व्यम् । अ॒ग्निः । अ॒मृते॑षु । वो॒च॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -120,19 +120,19 @@ genre M
 **अविद्वांसः** वैदुष्यरहिता अल्पमतयो वयं **विदुष्टरं** विद्वत्तरं सर्वज्ञं **तम्** अग्निं **सपेम** परिचरेम ॥ कीदृशम् । **सुप्रतीकं** शोभनाङ्गं **सुदृशं** शोभनद्रष्टारं **स्वञ्चं** सुष्ठ्वञ्चन्तं गच्छन्तम् । किंच **सः** तादृशः अग्निः **यक्षत्** देवान् यजतु । **विश्वा** सर्वाणि **वयुनानि** । ज्ञाननामैतत् । इह तु ज्ञातव्ये वर्तते ॥ ज्ञातव्यान्यर्थजातानि **विद्वान्** जानन् **अग्निः** **अमृतेषु** मरणरहितेषु देवेषु **हव्यम्** अस्मदीयं हविः **प्र** **वोचत्** प्रब्रवीतु । युष्मदर्थं हविः कल्पितं तदर्थं यूयमागच्छतेत्येवं कथयतु ॥ ॥ १८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We of little wisdom adore the most wise **Agni**, the well-formed, the well-looking the graceful-moving; may Agni, who knows all things that are to be known offer the sacrifice; may he announce the oblation to the immortals.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Him, of lovely countenance, of lovely appearance, of lovely outlook,  might we, who do not know, serve as the one who knows better. He will perform sacrifice, knowing all the patterns; Agni will proclaim  our oblation among the immortals.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is rhetorically pleasing, though unremarkable in content. It opens with three cmpds with su- as first member, all in the realm of appearance (at least as I interpret the sequence) suprátīkaṃ suḍṛ́śaṃ s(u)váñcam. The next pāda juxtaposes a negated form of the pf. part. of √vid with a comparative built to the same stem (though different allomorph), ávidvāṃso vidúṣṭaram, picked up by a third form to this participle, vidvā́n, at the end of the next pāda -- which itself participates in an alliterative sequence víśvā vayúnāni vidvā́n.
 
@@ -143,23 +143,23 @@ Although pāda-final vidvā́n is generally used absolutely, here it must take a
 The clear s-aor. subj. yakṣat in c invites a subjunctive reading of vocat in the next pāda, though it is of course injunctive. Nonetheless, modal readings are quite common for this stem.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him fair of face, rapid, and fair to look on, him very wise may we who know not follow.  
      Let him who knows all rules invite for worship, Agru announce our offering to the Immortals.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihn, der schön von Erscheinung, von Anblick und Bewegung, wollen wir Unkundige den Kundigeren in Ehren halten. Er soll opfern, der alle Wege kennt, Agni soll den Unsterblichen das Opfer ansagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der schön von Antlitz, lieblich und gewandt ist, den weisen lasst uns thörichte verehren; Er, jedes Kunstwerk kennend, möge opfern, den Göttern Agni unser Opfer künden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Его, прекрасного ликом, прекрасного видом, прекрасного движениями,  
 Мы, незнающие, знатока хотим почтить.  

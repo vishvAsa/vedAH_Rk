@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पी꣡वोअश्वाः शुच꣡द्रथा हि꣡ भूत꣡  
 अ꣡यःशिप्रा · वाजिनः सुनिष्काः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु वश् चेति अग्रिय꣡म् म꣡दाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑स्य । सू॒नः॒ । श॒व॒सः॒ । न॒पा॒तः॒ । अनु॑ । वः॒ । चे॒ति॒ । अ॒ग्रि॒यम् । मदा॑य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pīvoaśvāḥ* ← *pīvaḥ* ← *pīvas*
 - \[noun\]
@@ -127,7 +127,7 @@ genre M
 हे **वाजिनः** ऋभवः **पीवोअश्वाः** पीवानोऽश्वा येषां ते तादृशाः । तथा **शुचद्रथाः** दीप्तरथाः **अयःशिप्राः**। शिप्रे हनू नासिके वा '। अयोवत्सारभूतशिप्राः **सुनिष्काः** शोभनधनाश्च **भूत** भवत । हे **इन्द्रस्य** **सूनो** सूनवः पुत्रवद्रक्षणीया हे **शवसो** **नपातः** बलस्य पुत्रा बलिनः **वः** युष्मभ्यं **मदाय** **अनु** **चेति** अन्वज्ञायि । देवेषु **अग्रियम्** अग्रे भवं तृतीयसवनम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,29 +142,29 @@ Ayahśiprā = as hard or strong as metal, ayovat sārabhūta **śiprāḥ**;
 Suniṣkāḥ = having good **niṣkas**, a certain weight of gold; sons of Indra, grandsons of strength: the text has singular nouns, son of Indra, son or grandson of strength; this is followed by vaḥ-vos, you in the plural ral; last sacrifice: ityagriyam = agre bhavam, the first, the preceding; explained as tṛtīyam savanam
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Be those with horses of fat and blazing chariots, with lips of bronze and  fine neck-ornaments, o you prizewinners!  
 O son of Indra and children of strength, the first (of the soma) has been  assigned to you for your exhilaration.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Strong, with fair chains of gold and jaws of iron, ye have a splendid car and well-fed horses.  
      Ye Sons of Strength, ye progeny of Indra, to you the best is offered to delight you.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn ihr habt feiste Rosse, glänzenden Wagen, eiserne Gebisse, schönen Goldschmuck, ihr Reichbelohnte. Du Sohn des Indra, ihr Kinder der Stärke! Euch wurde die Blume des Soma zur Berauschung zuerkannt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn feiste Rosse, lichten Wagen habt ihr, o starke, eh'rne Helm' und schönen Halsschmuck, O Indra's Söhne, ihr der Stärke Enkel, das beste bietet euch sich dar zum Rausche.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь у вас жирные кони, сверкающая колесница,  
 Железные забрала, прекрасные золотые украшения, о обладатели наград!  

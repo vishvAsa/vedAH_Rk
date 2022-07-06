@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ पूर्वियो꣡ महा꣡नां᳐  
 वेनः꣡ क्र꣡तुभिर् आनजे  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 देवे꣡षु धि꣡य आनजे꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यस्य॑ । द्वारा॑ । मनुः॑ । पि॒ता । दे॒वेषु॑ । धियः॑ । आ॒न॒जे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -101,7 +101,7 @@ genre M
 **सः** **पूर्व्यः** मुख्यः **महानां** पूज्यानां यजमानानां **क्रतुभिः** कर्मभिर्निमित्तभूतैः **वेनः** कान्तस्तेषां हविः कामयमानः **आनजे** आगच्छति । **यस्य** इन्द्रस्य **द्वारा** द्वाराणि प्राप्त्युपायानि **धियः** कर्माणि **देवेषु** एतेषु मध्ये **पिता** सर्वेषां पालकः **मनुः** **आनजे** प्राप । आनजिः प्राप्तिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,14 +116,14 @@ genre M
 **Manuḥ** = **jñātā** sarvasya **indraḥ**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The tracker [=Agni?], stationed in front, has been smeared with the  intentions of the great ones [=gods],  
 he on whose doors father Manu smeared insightful thoughts to  
 the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two parallel perfects ānaje and ānajé, each final in its hemistich, require two different functional interpretations, the first passive, the second transitive, with a double accusative. Kümmel (95-96) recognizes more or less the same two functions (patientiv and agentiv-reflexiv) for this perfect stem, but curiously claims that the perfect to this root is found only in Maṇḍalas I and X, though offering no alternative interpretation of these forms here.
 
@@ -134,23 +134,23 @@ I favor Agni, for the following reasons. First, the actions of ab and cd, whose 
 This figure can only be Agni or Soma. As for the rest of the vocabulary, pūrvyá- can be used of Agni, Soma, and Indra, but is most regularly Agni. Likewise Agni is often the object of √añj; cf. esp. III.14.3 yát sīm añjánti pūrvyáṃ havírbhiḥ. And Agni several times opens doors (e.g., I.128.6, III.5.1, VIII.39.6). With Agni covertly mentioned in this verse and Soma overtly in vs. 2, the whole ritual scene is set.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WITH powers of Mighty Ones hath he, Ancient, Beloved, been equipped,  
      Through whom the Father Manu made prayers cfficacious with the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser allererste Seher wurde nach dem Sinn der Großen gesalbt, dessen Tore der Gedanken zu den Göttern schon Manu gesalbt hat.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Freund der grossen Götter wird zuerst mit Geisteskraft gesalbt, Dess Haus und Sinn im Götterreich der Vater Manu hat gesalbt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот первый провидец  
 Был помазан замыслами великих,  

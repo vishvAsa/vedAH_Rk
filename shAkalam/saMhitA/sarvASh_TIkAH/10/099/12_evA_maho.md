@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एवा꣡ महो꣡ असुर वक्ष꣡थाय  
 वम्रकः꣡ पड्भि꣡र् उ꣡प सर्पद् इ꣡न्द्रम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡षम् ऊ꣡र्जं सुक्षितिं꣡ वि꣡श्वम् आ꣡भाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 सः । इ॒या॒नः । क॒र॒ति॒ । स्व॒स्तिम् । अ॒स्मै॒ । इष॑म् । ऊर्ज॑म् । सु॒ऽक्षि॒तिम् । विश्व॑म् । आ । अ॒भा॒रित्य॑भाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *evā* ← *eva*
 - \[adverb\]
@@ -134,37 +134,37 @@ genre M;; repeated line
 अनया स्तुतिमुपसंहृत्याभिमतं वम्रकः प्रार्थयते । हे **असुर** बलवन्निन्द्र त्वाम् **एव** एवमुक्तप्रकारेण **महः** महतो हविषः स्तोत्रस्य वा **वक्षथाय** वहनाय महतः स्वर्गादेः प्रापणाय वा **षड्भिः** पादैः **उप** **सर्पत्** उपागमत् । **सः** **इयानः** उपागम्यमानः सन् **करति** करोतु **स्वस्तिम्** अविनाशम् **अस्मै** वम्रकाय । तथा **इषम्** अन्नम् **ऊर्जं** रसं **सुक्षितिं** सुनिवासं सम्यक् **विश्वं** सर्वम् **आभाः** आहरतु ॥ ॥ १५ ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “In this manner, O mighty (**Indra**), Vamraka approached Indra on foot, to bring an ample oblation. Mayhe, being approached, grant us prosperity, may he bring us food, drink, a secure dwelling and all (good things).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In just this way, o lord, for the increase of the great one, Little Ant  [/Vamraka, the poet] on his many feet crept up to Indra.  
 He, being implored, will create well-being for him. Refreshment,  
 nourishment, a good dwelling—all that has he brought.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.  
      He will, when supplicated, bring him blessing: he hath brought all, food, strength, a happy dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Also kroch, o Asura, Vamraka auf seinen Füßen zu Indra, um den Großen zu stärken. Er möge darum angegangen ihm Glück bescheren. Labung, Nahrung, guten Wohnsitz, alles hat er gebracht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So nahte sich, o Gott, zu des grossen Kräftigung Vamraka dem Indra demüthig mit seinen Füssen; er schafft ihm herbeieilend Segen; Speise, Trank, sichere Wohnung, alles hat er ihm gebracht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так, о Асура, чтобы сильно укрепить (его),  
 Вамрака на ногах подполз к Индре.  

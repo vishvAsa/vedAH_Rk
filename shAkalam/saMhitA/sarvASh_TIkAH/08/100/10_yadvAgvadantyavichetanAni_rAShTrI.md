@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वा꣡ग् व꣡दन्ति अविचेतना꣡नि  
 रा꣡ष्ट्री देवा꣡नां निषसा꣡द मन्द्रा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 कु꣡व स्विद् अस्याः परमं꣡ जगाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 चत॑स्रः । ऊर्ज॑म् । दु॒दु॒हे॒ । पयां॑सि । क्व॑ । स्वि॒त् । अ॒स्याः॒ । प॒र॒मम् । ज॒गा॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -121,7 +121,7 @@ popular
 **राष्ट्री** राजनशीला **देवानां** **मन्द्रा** मादयित्री' वा **यत्** यदा **वाक्** **अविचेतनानि** विज्ञानरहितानप्रज्ञातानर्थान् **वदन्ती** प्रज्ञापयन्ती **निषसाद** यज्ञे निषीदति तदा **चतस्रः** दिशः प्रति **ऊर्जम्** अन्नं **पयांसि** तत्कारणभूतानि उदकानि **दुदुहे**। **अस्याः** माध्यमिकाया वाचः स्वभूतं यत् **परमं** श्रेष्ठं तत् **क्व** **जगाम** क्व गच्छतीति न दृश्यत इत्यर्थः । तथा च यास्कः - ‘ यद्वाग्वदन्त्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मन्द्रा मदना चतस्रोऽनु दिश अर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरन्तीति वा ' (निरु. ११. २८) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,13 +132,13 @@ popular
 **Nirukta** 11.28: Vāk here is the thunder; cf. RV 8.69.14; best portion = the rain, which sinks in the earth or istaken up by the sun's rays
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When Speech, saying indistinguishable things, sat down as gladdening  ruler of the gods,  
 she milked out in four (streams) nourishment and milk drinks. Where  indeed did the highest of hers go?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner is understandably reluctant to construe avicetanā́ni with vádantī, since this attributes unintelligible speech to Speech herself, but his solution, to construe the neut. pl. loosely with niṣasā́da (“… sich bei den unvernünftigen (Geschöpfen) niederliess”), does not work syntactically. Oldenberg’s mythological explanation is preferable.
 
@@ -153,23 +153,23 @@ For the possible mythological background of these verses, as adumbrated by Olden
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When, uttering words which no one comprehended, Vak, Queen of Gods, the Gladdener, was seated,  
      The heaven's four regions drew forth drink and vigour: now whither hath her noblest portion vanished?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als die sprechende Rede, die wohlklingende Beherrscherin der Götter sich bei den unvernünftigen Geschöpfen niederließ, da ließ sie in vier Strahlen Nahrung und Milch aus sich melken. Wohin ist denn ihr bestes Teil gekommen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Donner] redend sich niedergesetzt hat, die erfreuende; dann melkt sie aus den vier Weltgegenden Milch [Gewitterregen] als Nahrung sich heraus, wohin ist ihr höchster [Scheitel] gestiegen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда Речь, говоря непонятные (слова)  
 Повелительница богов опустилась сладкозвучная,  

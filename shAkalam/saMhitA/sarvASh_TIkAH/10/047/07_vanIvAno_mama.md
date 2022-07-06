@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡नीवानो म꣡म दूता꣡स इ꣡न्द्रं  
 स्तो꣡माश् चरन्ति सुमती꣡र् इयानाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्म꣡भ्यं चित्रं꣡ वृ꣡षणं रयिं꣡ दाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 हृ॒दि॒ऽस्पृशः॑ । मन॑सा । व॒च्यमा॑नाः । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vanīvāno* ← *vanīvānaḥ* ← *vanīvan*
 - \[noun\], nominative, plural, masculine
@@ -114,36 +114,36 @@ genre M;; repeated line
 **वनीवानः** वननवन्तः ।  ‘ छन्दसीवनिपौ ' इति मत्वर्थीयो वनिप् । **मम** सप्तगोः **दूतासः** दूतसदृशा दूता यथा भर्तुरभिमतार्थं प्रापणीयं प्रापयन्ति तद्वत्स्तुत्यान् गुणान् प्रापयन्तः **स्तोमा:** स्तवाः **सुमतीः** तस्येन्द्रस्यास्मद्विषया अनुकूला बुद्धीः **इयानाः** याचमानाः **इन्द्रं** चरन्ति प्राप्नुवन्ति । पुनश्च त एव विशेष्यन्ते । **हृदिस्पृशः** हृदये स्पृशन्तः । स्तुत्यस्य प्रियभूता इत्यर्थः ।  ‘ हृद्द्युभ्यां ङेरुपसंख्यानम्' इति सप्तम्या अलुक् । **मनसा** सत्त्वोद्रिक्तेन **वच्यमानाः** उच्यमानाः । अस्मभ्यमित्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “My praises, (my) messengers soliciting ((audience), come to **Indra**, praying (his) favourable (thoughts),heart-touching, spoken from the **soul**; (therefore, Indra) grant me various fertilizing riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 My eager messengers, my praises, proceed to Indra, begging for favors, touching the heart, intertwining with the mind. – To us give bright,  
 bullish wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 My lauds, like envoys, craving loving-kindness, go forth to Indra with their strong entreaty,  
      Moving his heart and uttered by my spirit: vouchsafe us mighty and resplendent riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als werbende Boten ziehen meine Loblieder zu Indra, um Gnade bittend, herzrührend, mit dem Gedanken fliegend. - Gib uns den ansehnlichen bullenhaften Schatz;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Verehrend gehn zu Indra meine Lieder, als Boten hin, und flehende Gebete, Zum Herzen dringend, andachtsvoll gesprochen, verleih uns Reichthum, mannichfachen, starken.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мои настойчиво добивающиеся вестники – восхваления  
 Движутся к Индре, прося о милостях,  

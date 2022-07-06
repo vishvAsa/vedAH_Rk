@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् माग्ने व꣡र्चसा सृज  
 स꣡म् प्रज꣡या स꣡म् आ꣡युषा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इ꣡न्द्रो विद्यात् सह꣡ ऋ꣡षिभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 वि॒द्युः । मे॒ । अ॒स्य॒ । दे॒वाः । इन्द्रः॑ । वि॒द्या॒त् । स॒ह । ऋषि॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -119,14 +119,14 @@ popular;; epic anuṣṭubh (424)
 हे **अग्ने** वर्चःप्रजायुर्भिः मां संयोजय । **देवाः** सोमपातारः **अस्य** **मे** यजमानस्य **विद्युः** अनुष्ठानं जानीयुः । किंच **इन्द्रः** च ऋषिगणैः सह ममानुष्ठानं **विद्यात्** जानीयात् ॥ विद्युः ।  ‘ विद ज्ञाने'। लिङि झेर्जुस्' ( पा सू. ३. ४. १०८ ) । यासुट् ।  ‘ लिङः सलोपः' इति सकारलोपः ।  ‘ उस्यपदान्तात् ' ( पा. सू. ६. १. ९६ ) इति पररूपत्वम् । यासुट उदात्तत्वेन एकादेश उकारोऽपि उदात्तः । अस्य । इदमोऽन्वादेशे° ' इति अशनुदात्तः । विभक्तिरपि सुप्त्वेन अनुदात्ता । सह ऋषिभिः इत्यत्र ‘ऋत्यकः' (पा. सू. ६. १. १२८) इति प्रकृतिभावः ॥ ॥१२॥ ॥५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, confer upon me vigour, progeny and life, so that the gods may know the (sacrifice) of this my (employer), and **Indra** with the Ṛṣis, may know it.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Merge me with luster, Agni, with offspring, with long life.  
 The gods should know this (hymn?) of mine; Indra should know it  
@@ -137,30 +137,30 @@ In his travels Rohita eventually came upon a poor brahmin named Ajīgarta, who  
 V 2.1.3 and Kāṭhaka Saṃhitā XIX 11 say simply that Śunaḥśepa had been seized by  Varuṇa but then rescued himself from Varuṇa’s bonds.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 It is difficult to know what, if anything, is the referent of asya. I have tentatively supplied ‘hymn’, but the poet may simply be calling upon the gods to witness the general situation (so Geldner). The same expression √VID me asya is found in the refrain of I.105, except with accented asyá, for which reason I more confidently supply ‘speech’ there.
 
 [I.24-25 JPB]
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Fill me with splendour, Agni; give offspring and length of days; the Gods  
      Shall know me even as I am, and Indra with the Rsis, know.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Begab mich, Agni, mit Ansehen, mit Nachkommenschaft und langem Leben! Die Götter mögen mir dessen Zeuge sein, Indra möge mit den Rishi´s Zeuge sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Benetze, Agni, mich mit Glanz, mit Alter und mit Kinderschar, Dess sei'n die Götter Zeugen mir und Indra nebst den Sehern auch.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С блеском меня соедини,  
 С потомством, с долгой жизнью!  

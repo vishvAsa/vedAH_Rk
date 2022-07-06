@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अजा꣡शुवः पशुपा꣡ वा꣡जपस्तियो  
 धियंजिन्वो꣡ भु꣡वने वि꣡श्वे अ꣡र्पितः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 संच꣡क्षाणो भु꣡वना देव꣡ ईयते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अष्ट्रा॑म् । पू॒षा । शि॒थि॒राम् । उ॒त्ऽवरी॑वृजत् । स॒म्ऽचक्षा॑णः । भुव॑ना । दे॒वः । ई॒य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ajāśvaḥ* ← *aja*
 - \[noun\], masculine
@@ -114,7 +114,7 @@ genre M
 **अजाश्वः** छागवाहनः **पशुपाः** पशूनां पालयिता **वाजपस्त्यः** । वाजा अन्नानि पस्त्ये गृहे यस्य तादृशः । **धियंजिन्वः**। धियः स्तोतारः कर्माणि वा । तेषां प्रीणयिता **विश्वे** विश्वस्मिन् सर्वस्मिन् **भुवने** लोके **अर्पितः** प्रजापतिना पोषकत्वेन स्थापितः। अत एवंभूतः **पूषा** पोषको **देवः** **अष्ट्राम्** आरां स्वहस्तगतां **शिथिरां** शिथिलां सतीम् **उद्वरीवृजत्** उद्यच्छन् **भुवना** भुवनानि सर्वान् लोकान् भूतजातानि वा **संचक्षाणः** संपश्यन् सूर्यात्मना प्रकाशयन् **ईयते** नभसि गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Plural ced over the whole world: plural ced so by **Prajāpati**, in his capacity of nourishing all things, poṣakatvena; proceeds in the sky: as identical with the sun
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having goats as his horses, protecting livestock, granting a house full of  prizes, quickening poetic vision, fitted into all creation,  
 Pūṣan the god, always brandishing his pliant goad, goes speeding, as he  surveys the creatures.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Most of the contents of this vs. conform to the characteristics of Pūṣan elsewhere in this cycle, even dhiyaṃjinvá- ‘quickening poetic vision’ (see esp.
 
@@ -140,23 +140,23 @@ VI.53), but “fitted into all creation” (bhúvane víśve arpitaḥ) and “s
 víśve is one of two loc. sg. to this stem with the noun ending -e (the other being IV.16.9), but the pronomina víśvasmin is also only found twice, both times in X.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Goat-borne, the guard of cattle, he whose home is strength, inspirer of the hymn, set over all the world;  
      Brandishing here and there his lightly. moving goad, beholding every creature, Pusan, God, goes forth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit Ziegenböcken fahrend, das Vieh behütend, das Haus voll von Schätzen, fromme Gedanken weckend, über die ganze Welt eingesetzt, die biegsame Gerte schwingend fährt Gott Pusan, die Welten überschauend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Schatz ins Haus bringt, Heerden schirmt, mit Ziegen fährt, der Andachtwecker, jedem Wesen eingefügt, Den Treibestachel strecket Puschan weit hinaus; die Wesen alle rings beschauend eilt der Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто ездит на козлах вместо коней, охраняет скот, у кого дом полон наград,  
 Кто возбуждает мысль, поставлен надо всем миром, –  

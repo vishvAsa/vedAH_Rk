@@ -8,7 +8,7 @@ title = "+046"
 ‘हयो न' इत्यष्टर्चं द्वितीयं सूक्तं प्रतिक्षत्रस्यार्षम् । अष्टमी द्वितीया च त्रिष्टुभौ शिष्टाः षट् जगत्यः । आदितः षड्वैश्वदेव्यः सप्तम्यष्टम्योर्देवपत्न्यो देवता । तथा चानुक्रान्तं - हयोऽष्टौ प्रतिक्षत्रोऽन्त्यो द्वृचो देवपत्नीस्तवोऽन्त्या त्रिष्टुप् द्वितीया च' इति । सूकविनियोगो लैङ्गिकः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 46 (400)  
 All Gods  
@@ -20,7 +20,7 @@ tion of the Sacrificer’s Wife (pátnī) as a necessary participant in the ritu
 If this scenario is correct—that verse 1 represents an argument in favor of the  new model of sacrifice including the Sacrificer’s Wife—then the lists of gods that  follow might be a form of insurance. Every possible divinity is called upon to wit ness and give tacit approval to the innovation. And the Wives of the Gods, who  provide the divine model for the Sacrificer’s Wife, are called on especially insistently  to come to the sacrifice and provide their help and support.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 All Gods On my hypothesis concerning the reason for this hymn, viz., support for the ritual innovation of the Patnī, see published introduction. Save for the final two vss. devoted to the wives of the gods, there seems no rationale for the deities included or excluded from the enumerative vss. or for the repetition of some and not others.
 </details>

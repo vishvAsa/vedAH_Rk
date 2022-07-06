@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अस्मि꣡न् यज्ञे꣡ अदाभिया  
 जरिता꣡रं शुभस् पती  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 मा꣡ध्वी म꣡म श्रुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M;; repeated line
 अ॒व॒स्युम् । अ॒श्वि॒ना॒ । यु॒वम् । गृ॒णन्त॑म् । उप॑ । भू॒ष॒थः॒ । माध्वी॒ इति॑ । मम॑ । श्रु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
@@ -107,36 +107,36 @@ genre M;; repeated line
 हे **अदाभ्या** अहिंस्यौ हे **शुभस्पती** उदकस्य स्वामिनौ **अश्विना** अश्विनौ **युवं** युवाम् **अस्मिन्** **यज्ञे** **जरितारं** स्तोतारम् **अवस्युं** **गृणन्तं** स्तुवन्तं माम् **उप** **भूषथः** उपप्राप्नुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Invincible **Aśvins**, lords of water, favour **Avasyu**, glorifying you at this sacrifice; masters of mystic lore, hear my invocation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In this sacrifice, o undeceivable lords of beauty, you attend to the singer seeking help as he sings—both of you, Aśvins.  
 – O honey-rich ones, hear my summons.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Lords of Splendour, free from guile, come, stand at this our sacrifice.  
      Beside the singer, Asvins, who longs for your grace and lauds you both. Lovers of sweetness, hear my call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei diesem Opfer achtet ihr untrüglichen Herren der Schönheit auf den Sänger! Ihr achtet auf den schutzsuchenden Lobredner, o Asvin - ihr Süßesliebende, erhöret meinen Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bei diesem Opfer nahet euch dem Sänger, der nach Gunst verlangt, O Herrn des Schmucks, untrügliche, o Ritter, ihr dem preisenden; ihr lieben, höret meinen Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Во время этого жертвоприношения, о не терпящие обмана,  
 О повелители красоты, вы заботитесь  

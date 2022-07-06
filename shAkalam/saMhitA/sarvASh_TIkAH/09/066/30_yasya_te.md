@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य ते द्युम्न꣡वत् प꣡यः  
 प꣡वमाना꣡भृतं दिवः꣡  
 ते꣡न नो मॄळ+ जीव꣡से
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तेन॑ । नः॒ । मृ॒ळ॒ । जी॒वसे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -84,20 +84,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **पवमान** पूयमान हे सोम **दिवः** द्युलोकात् **आभृतं** श्येनरूपया गायत्र्याहृतं **द्युम्नवत्** अन्नवत् यशोयुक्तं वा **पयः** सोमलक्षणमन्नं **यस्य** **ते** तव स्वभूतं विद्यते तस्मात्त्वं **तेन** अन्नेन **नः** अस्मान् **जीवसे** चिरजीवनाय **मृळ** मृळय सुखय ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Purified (**Soma**),bless us with long life by means of that your nutritious milk which has been brought from heaven.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, self-purifying one, whose heaven-bright milk was brought here  from heaven,  
 with it be gracious to us, for us to live.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">
 <details open><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -107,23 +107,23 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pavamana, bless us, so that we may live, with that bright milk  
      Of thine which hath been brought from heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du Pavamana, dessen glänzende Milch vom Himmel gebracht wurde, begnade uns damit zum Leben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deiner Milch, die leuchtend dir, o flammender, vom Himmel kam, Mit der sei hold zum Leben uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

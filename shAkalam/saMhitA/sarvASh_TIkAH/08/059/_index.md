@@ -8,7 +8,7 @@ title = "+059"
 ' इमानि वाम्' इति सप्तर्चमेकादशं सूक्तं काण्वस्य सुपर्णस्यार्षमैन्द्रावरुणं जागतम् । ' इमानि वां सप्त सुपर्ण ऐन्द्रावरुणं जागतम्' इत्यनुक्रान्तत्वात् । विनियोगः सूत्रादवगन्तव्यः ।।
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 59 (1028)  
 Indra and Varuṇa  
@@ -23,7 +23,7 @@ Indra and Varuṇa do not form a natural pair, and it is not surprising that ver
 ing and give prosperity to the sacrificers in return. In fact, vocabulary appropriate  to a more standard pair of gods, the Aśvins, is adapted here, especially the vocative  “you two lords of beauty” (śubhas patī), a common epithet otherwise confined to  the Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra and Varuṇa
 </details>

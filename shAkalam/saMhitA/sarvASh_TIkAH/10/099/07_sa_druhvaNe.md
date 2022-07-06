@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ द्रु꣡ह्वणे म꣡नुष ऊर्ध्वसान꣡  
 आ꣡ साविषद् अर्शसाना꣡य श꣡रुम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पु꣡रो अभिनद् अ꣡र्हन् दस्युह꣡त्ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सः । नृऽत॑मः । नहु॑षः । अ॒स्मत् । सुऽजा॑तः । पुरः॑ । अ॒भि॒न॒त् । अर्ह॑न् । द॒स्यु॒ऽहत्ये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -122,33 +122,33 @@ genre M
 **सः** इन्द्रः द्रुह्वणे द्रुह्वणाय दृढं शत्रुभिर्वामितव्याय **मनुषे** मनुष्याय योद्ध्रे स्वभक्ताय **ऊर्ध्वसानः** । ऊर्ध्वं उच्छ्रितः शोर्यादिभिर्गुणैरधिकः सन् स्यति शत्रूणामन्तं करोतीत्यूर्ध्वसः । स इवाचरन् । ऊर्ध्वसशब्दादाचारार्थे क्विबन्ताच्छानच्” । **अर्शसानाय** शत्रूणां हिंसित्रे **शरुं** हिंसकमायुधम् **आ** **साविषत्** अभिमुख्येन प्रसोति यच्छति । यद्वा । द्रुह्वणे मनुषे द्रोग्धव्याय मनुष्यायार्शसानाय स्वभक्तहिंसित्रे तस्य वधार्थमूर्ध्वसानः सन् शरुम् आ साविषत् वज्रं प्रेरयति । **सः** एवेन्द्रः **नहुषः** मनुष्यात् **नृतमः** मनुष्याणां नेतृतमः संग्रामे शूराणां गमयितृतमः । यद्वा । नृतमो नहुषो बन्धकश्च । **अस्मत्** अस्मदर्थं **सुजातः** सुष्ठु प्रादुर्भूतः **अर्हन्** पूज्यः सन् **दस्युहत्ये** । दस्यवः उपक्षपयितारः शत्रवः । तेषां हत्यं हननं यस्मिन् तादृशे संग्रामे **पुरः** शत्रूणां शरीराणि **अभिनत्** भिन्नवान् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Rising up for Manu, he will propel his arrow at the deceitful Arśasāna. He, most manly, well-born from Nahus and from us, split the fortresses  at the smashing of the Dasyus, as was his due.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He raised himself on high and shot his arrow against the guileful and oppressive foeman.  
      Strong, glorious, manliest, for us he shattered the forts of Nabus when he slew the Dasyus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem hinterlistigen Arsasana möge er, für Manu sich erhebend, sein Geschoß bestimmen. Mannhafter als Nahus hat unseretwegen der Edelgeborene im Dasyukampf die Burgen gebrochen, da dies sein gutes Recht war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er schoss auf den arglistigen, verletzenden Menschen hoch aufgerichtet seinen Pfeil; er, der mannhafteste der Männer, der edle, der es vermochte, zerbrach in dem Kampfe wider die Dämonen uns zu Nutz deren Burgen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Распрямляясь для Мануса, он выпустил  
 Стрелу во вредоносного Аршансану.  

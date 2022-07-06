@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡पो ह य꣡द् बृहती꣡र् वि꣡श्वम् आ꣡यन्  
 ग꣡र्भं द꣡धाना जन꣡यन्तीर् अग्नि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 ततः॑ । दे॒वाना॑म् । सम् । अ॒व॒र्त॒त॒ । असुः॑ । एकः॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
@@ -137,7 +137,7 @@ popular;; repeated line
 **बृहतीः** बृहत्यो महत्यः ॥ जसि वा छन्दसि ' इति पूर्वसवर्णदीर्घः ।  ‘ बृहन्महतो रुपसंख्यानम् ' इति ङीप उदात्तत्वम् ॥ **अग्निम्**। उपलक्षणमेतत् । अग्न्युपलक्षितं सर्वं वियदादि भूतजातं **जनयन्तीः** जनयन्त्यः तदर्थं **गर्भं** हिरण्मयाण्डस्य गर्भभूतं प्रजापतिं **दधानाः** धारयन्त्यः **आपो** **ह** आप एव **विश्वमायन्** सर्वं जगत् व्याप्नुवन् **यत्** यस्मात् **ततः** तस्माद्धेतोः ”देवानां देवादीनां सर्वेषां प्राणिनाम् **असुः** प्राणभूतः **एकः** प्रजापतिः **समवर्तत** समजायत । यद्वा । यत् यं गर्भं दधाना आपो विश्वात्मनावस्थितः ततो गर्भभूताः प्रजापतेर्देवादीनां प्राणात्मको वायुरजायत । अथवा । यत् । लिङ्गवचनयोर्व्यत्ययः । उक्तलक्षणा या आपो विश्वमावृत्य स्थिताः ततस्ताभ्योऽद्भ्यः सकाशादेकोऽद्वितीयोऽसुः प्राणात्मकः प्रजापतिः समवर्तत निश्चक्राम। तस्मै **कस्मै** इत्यादि गतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -148,29 +148,29 @@ popular;; repeated line
 The germ: i.e., thegerm of the world, **Brahmā**. The birth of **Hiraṇyagarbha**, or **Brahman**, in and from the mundane egg, asdescribed in **Manu** is alluded to; yat, **tataḥ**: from that (cause) from which
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the lofty waters came, receiving everything as an embryo and  giving birth to the fire,  
 then the life of the gods evolved alone— – Who is the god to whom we  should do homage with our oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 What time the mighty waters came, containing the universal germ, producing Agni,  
      Thence sprang the Gods' one spirit into being. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als da die hohen Gewässer kamen, das All als Keim empfangend, den Agni erzeugend, da entstand er daraus, der alleinige Lebensgeist der Götter. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erst als die hehren Wasser, Agni zeugend und alle Frucht des Leibes tragend kamen, Da erst erstand der Lebenshauch der Götter, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Когда же пришли высокие воды,  
 Вбирая в себя все как зародыш, порождая Агни,  

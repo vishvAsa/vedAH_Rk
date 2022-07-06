@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡दि क्षिता꣡युर् य꣡दि वा प꣡रेतो  
 य꣡दि मृत्यो꣡र् अन्तिकं꣡ नी꣡त एव꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡स्पार्षम् एनं शत꣡शारदाय
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 तम् । आ । ह॒रा॒मि॒ । निःऽऋ॑तेः । उ॒पऽस्था॑त् । अस्पा॑र्षम् । ए॒न॒म् । श॒तऽशा॑रदाय ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yadi*
 - \[adverb\]
@@ -127,34 +127,34 @@ popular
 **यदि** स रोगग्रस्तः **क्षितायुः** क्षीणायुर्भवति **यदि** **वा** **परेतः** अस्माल्लोकात् परागतो भवति **यदि** च **मृत्योः** वैवस्वतस्य **अन्तिकं** निकटं **नीतः** नितरां प्राप्तः **एव** भवति एवंभूतमपि **तं** पुरुषं **निऋतेः** पापदेवताया आयुषः क्षयकारिण्याः **उपस्थात्** उपस्थानात **आ** **हरामि** आनाययामि आवर्तयामि । आहृत्य च **एनं** **शतशारदाय** शतसंवत्सरजीवनार्थम् **अस्पार्षं** प्रबलं करोमि ।' स्पृ प्रीतिबलनयोः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If his lifetime is exhausted, or he is (already) departed, or if he has just  gone down to the face of death,  
 I bring him here from the lap of Dissolution. I have redeemed him for a  hundred autumns.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Be his days ended, be he now departed, be he brought very near to death already,  
      Out of Destruction's lap again I bring him, save him for life to last a hundred autumns.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ob sein Leben zur Neige ging, ob er schon hinüber ist, ob er schon in die Nähe des Todes eingegangen ist, ich hole ihn aus dem Schoße des Verderbens. Ich habe ihn losgekauft zu einem Leben von hundert Herbsten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn er halb todt ist oder heimgegangen, wenn er genaht ist schon dem Todesantlitz, Ich hol' ihn aus dem Schoosse der Verwesung, ich rett' ihn, dass er hundert Herbste alt wird.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если у него иссяк срок жизни, или если он ушел (туда) -  
 Если даже предстал перед лицом смерти,  

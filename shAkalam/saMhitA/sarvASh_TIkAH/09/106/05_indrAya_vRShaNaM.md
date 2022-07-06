@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राय वृ꣡षणम् म꣡दम्  
 प꣡वस्व विश्व꣡दर्शतः  
 सह꣡स्रयामा पथिकृ꣡द् विचक्षणः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment
 स॒हस्र॑ऽयामा । प॒थि॒ऽकृत् । वि॒ऽच॒क्ष॒णः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
@@ -84,20 +84,20 @@ genre M;; line affected by realignment
 हे सोम त्वं **वृषणं** वर्षितारं **मदं** मदहेतुं रसम् **इन्द्राय** इन्द्रार्थं **पवस्व** क्षर । कीदृशः। **विश्वदर्शतः** सर्वैर्दर्शनीयः **सहस्रयामा** बहुमार्गः **पथिकृत्** यजमानानां सन्मार्गकरणशीलः **विचक्षणः** सर्वस्य विद्रष्टा ॥ ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Pour forth for **Indra** the exhilarating (juice) showering (benefits), you who are very beautiful, who have many paths, the finder of the (right) path, the observer (of all).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For Indra purify yourself into bullish exhilaration, as the one visible  to all,  
 possessing a thousand courses, path-making, wide-gazing.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -106,23 +106,23 @@ Oldenberg classifies this tṛca as a third variety of Uṣṇih in which the la
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do thou, all-beautiful, purify for Indra's sake the mighty juice,  
      Path-maker thou, far seeing, with a thousand ways.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für Indra läutere den bullenartigen Rauschtrank, allsichtbar, auf tausend Bahnen als weitschauender Wegbereiter!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Indra riesle starken Rausch herbei, du allbewunderter, Auf tausend Wegen Bahnen schaffend, Weiser, dir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для Индры очищайся, (давая) мужественный  
 Пьянящий напиток, (ты) для всех приятный на вид,  

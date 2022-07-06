@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सद्यो꣡ अग्ने अ꣡ति एषि अन्या꣡न्  
 आवि꣡र् य꣡स्मै चा꣡रुतमो बभू꣡थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प्रियो꣡ विशा꣡म् अ꣡तिथिर् मा꣡नुषीणाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ई॒ळेन्यः॑ । व॒पु॒ष्यः॑ । वि॒भाऽवा॑ । प्रि॒यः । वि॒शाम् । अति॑थिः । मानु॑षीणाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -115,41 +115,41 @@ genre M
 हे **अग्ने** त्वं यज्ञमासाद्य **सद्यः** तदानीमेव **अन्यान्** स्वसमानान् **अत्येषि** अतिक्रामसि । **यस्मै** यज्ञाय **चारुतमः** सन् **अविः** **बभूथ** । किंच त्वम् **ईळेन्यः** स्तुत्यः **वपुष्यः** वपुष्करो दीप्तिकरो वा **विभावा** विशिष्टदीप्तिमान **प्रियः** प्रियभूतः **विशां** सर्वेषां प्राणिनां तथा **अतिथिः** पूज्यः **मानुषीणां** प्रजानां भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(Too) quickly, **Agni**, do you pass to others from him to whom you have been manifest; most beautiful, adorable, radiant, many-shining, the loved of people, the guest of men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 At once, Agni, you go ahead beyond the other (sacrificers), for him to  whom you have become manifest as the most beloved,  
 as one to be summoned, to be marveled at, far radiant, the dear guest of  the clans of the sons of Manu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou quickly passest by all others, Agni, for him to whom thou hast appeared most lovely,  
      Wondrously fair, adorable, effulgent, the guest of men, the darling of the people.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O Agni! Thou overtakest all other (beings) in one moment (for the sake of him) to whom Thou hast become visible as the fairest one, thou who shouldst be magnified, the wonderful, brilliant one, the beloved guest of human clans.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Agni, hast alsbald den Vorrang vor den anderen Göttern, bei jedem, dem du sehr willkommen erschienen bist, als zu ladender, stattlicher, erstrahlender, lieber Gast der menschlichen Stämme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Voran gehst, Agni, schnell du allen andern zu ihm, dem du als theuerster dich zeigtest, Als preisenswerther, heller, wunderschöner, als lieber Gastfreund in der Menschen Häusern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сразу же, о Агни, ты проходишь мимо других (людей)  
 (К тому,) для кого ты всегда проявлялся как самый дорогой,  

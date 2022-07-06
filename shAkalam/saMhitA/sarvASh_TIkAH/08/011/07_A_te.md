@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ ते वत्सो꣡ म꣡नो यमत्  
 परमा꣡च् चित् सध꣡स्था᳐त्  
 अ꣡ग्ने त्वां꣡कामया गिरा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अग्ने॑ । त्वाम्ऽका॑मया । गि॒रा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -88,7 +88,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** **वत्सः** ऋषिः **ते** तव **मनः** **परमाच्चित्** उत्कृष्टादपि **सधस्थात्** सहस्थानात् द्युलोकात् **आ** **यमत्** आयमयति । केन साधनेन । **त्वांकामया** त्वामभिलषन्त्या **गिरा** स्तुत्या ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,28 +99,28 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Vatsa = **yajamāna**, the sacrificer dear to Agni, as a calf, or child: vatsa **samaḥ** priyahh(**Yajus**. 12.115); would draw their thought: mano yamat = **mana** āyamavati; or, mana **āhṛtya** gṛhṇātimanonigraham **karoti**; tvāmāmayā **girā** = tvām kāmaye girā, I desire you with my hymn
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Vatsa will guide your mind here, even from your most distant seat, o Agni, with a hymn whose desire is you.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Vatsa draw- thy mind away even from thy loftiest dwelling-place,  
      Agni, with song that yearns for thee.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Vatsa möchte selbst vom entferntesten Orte deinen Sinn herlenken, o Agni, mit seiner Rede, die nach dir verlangt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es lenke Vatsa deinen Sinn auch von dem fernsten Sitze her, Durch Lied, das, Agni, dein begehrt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ватса притянет твою мысль  
 Даже из самого далекого места,  

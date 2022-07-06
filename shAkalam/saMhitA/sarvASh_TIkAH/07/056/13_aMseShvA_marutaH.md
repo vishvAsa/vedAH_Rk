@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अं꣡सेषु आ꣡ मरुतः खाद꣡यो वो  
 व꣡क्षस्सु रुक्मा꣡ उपशिश्रियाणाः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡नु स्वधा꣡म् आ꣡युधैर् य꣡छमानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । वि॒ऽद्युतः॑ । न । वृ॒ष्टिऽभिः॑ । रु॒चा॒नाः । अनु॑ । स्व॒धाम् । आयु॑धैः । यच्छ॑मानाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aṃseṣv* ← *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
@@ -109,7 +109,7 @@ genre M
 हे **मरुतः** **अंसेषु** युष्मदीयेषु स्कन्धप्रदेशेषु **खादयः** अलंकारविशेषाः **आ** मुक्ता भवन्तीति शेषः । सुरुक्माः सुष्ठु रोचमाना हाराः **वः** युष्मदीयं वक्ष उरःप्रदेशम् **उपशिश्रियाणाः** आश्रिता भवन्ति । किंच हे मरुतः **वृष्टिभिः** वर्षैः सार्धं **विद्युतो** **न** तडितो यथा **रुचानाः** रोचमानाः तादृग्भूता यूयम् **आयुधैः** मेघताडनैः **स्वधाम्** उदकम् **अनु** **यच्छमानाः** प्रयच्छन्तः **वि** चरथेति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -120,13 +120,13 @@ genre M
 Bright ornaments:khādayo **alaṅkāra** **viśeṣaḥ**: **khādi**, a guard of the **hand** (RV. 1.23.4.3); Maruts are bearers of lances on theirshoulders; shining necklaces: **rukma** = **rocamāna**, shining; elsewhere Maruts are said to have golden cuirasseson their breasts; possibly rukma may mean the same
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 On your shoulders, Maruts, are spangles, on your breasts brilliants are  being set.  
 Like lightning flashes shining forth with the rains, (you are) holding  yourselves ready with your weapons according to your nature.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has no finite verbs, but three predicated tense-stem participles: pf.
 
@@ -139,23 +139,23 @@ In cd it is possible that only one of the participles is predicated, and in fact
 of c (as do Geldner and Renou), but the other interpr. is certainly possible. One argument for the standard interpr. might be that the subjects of medial participles to √ruc (wellattested rócamāna-, as well as rucāná-, rurucāná-, rórucāna-) are generally gods.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your rings, O Maruts, rest upon your shoulders, and chains of gold are twined upon your bosoms.  
      Gleaming with drops of rain, like lightning-flashes, after your wont ye whirl about your weapons.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf euren Schultern, ihr Marut, sind Spangen, an eurer Brust ist Goldschmuck angesteckt. Sie glänzen wie Blitze im Regen, mit den Waffen ihrer Eigenart entsprechend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An euren Schultern, Maruts, glänzen Spangen, mit Goldschmuck habt ihr eure Brust bekleidet, Wie helle Blitze unter Regen funkelnd, nach eigner Weise eure Waffen schwingend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На плечах у вас, о Маруты, кольца,  
 На груди золотые пластинки прикреплены.  

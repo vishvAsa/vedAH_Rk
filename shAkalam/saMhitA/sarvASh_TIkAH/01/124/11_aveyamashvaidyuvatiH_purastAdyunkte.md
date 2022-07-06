@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡वेय꣡म् अश्वैद् युवतिः꣡ पुर꣡स्ताद्  
 युङ्क्ते꣡ ग꣡वाम् अरुणा꣡नाम् अ꣡नीकम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गृहं꣡-गृहम् उ꣡प तिष्ठाते अग्निः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वि । नू॒नम् । उ॒च्छा॒त् । अस॑ति । प्र । के॒तुः । गृ॒हम्ऽगृ॑हम् । उप॑ । ति॒ष्ठा॒ते॒ । अ॒ग्निः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aveyam* ← *ava*
 - \[adverb\]
@@ -132,36 +132,36 @@ genre M
 **इयम्** उषाः युवतिः यौवनोपेतयोषित्स्थानीया । यद्वा । सर्वेषु भावेषु मिश्रयन्ती। **पुरस्तात्** पूर्वस्यां दिशि **अव** **अश्वैत्** अत्यर्थमागच्छति वर्धते वा । अत्र अवशब्दो विनिग्रहार्थीयः ‘न्यवेति विनिग्रहार्थीयौ ' ( निरु. १. ३) इति यास्केनोक्तत्वात् । तत्कथमवगम्यते इति तत्राह । इयम् **अरुणानाम्** अरुणवर्णानां **गवां** प्रसिद्धानाम् एतन्नामकानामश्वानां वा **अनीकं** समूहं **युङ्क्ते** रथे योजयति।' अरुण्यो गाव उषसाम् । श्यावाः सवितुः '(नि. १. १५. ७-८) इति । यथा लोके वाहनसंनाहं दृष्ट्वा प्रयाणमनुमीयते तथा अत्रापि अरुणरश्मीनामश्वानां दर्शनात् उषा आगच्छतीत्यध्यवसीयते । यद्वा । अरुणानां रश्मीनां समूहं युङ्क्ते । तथा **नूनं** निश्चयमेषा **वि** **उच्छात्** तमो विवर्जयिष्यति । यत इयं गा युनक्ति अत एव कारणात् यथा लोकेऽश्वसंनाहं दृष्ट्वा उदयोऽनुमीयते तथात्रापीत्यर्थः । तादृशी सा **असति** असत्प्राये नीरूपेऽन्तरिक्षे तिरोधायकत्वात् अशोभने तमसि वा **केतुः** केतुस्थानीया ज्ञापयित्री प्रकर्षेण विविधं भासते इति शेषः । उपसर्गवशाद्योग्यक्रियाध्याहारः । यद्वा । असति तमोरूपेऽन्धकारे **प्र** केतुः प्रकर्षेण ज्ञापयित्री सती नूनं व्युच्छादिति पूर्वान्वयः । तस्मिन् काले **अग्निः** आहवनीयादिरूपः **गृहंगृहं** सर्वयजमानगृहम् अग्निहोत्राद्यर्थम् **उप** तिष्ठाते उपतिष्ठते दीप्यते इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This youthful Uṣā, approached from the east; she harnesses her team of purple oxen. Assuredly she will disperse the darkness, a manifest sign (of day) in the firmament; the (sacred) fire is kindled in every dwelling.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This young woman has whitened down from the east. She yokes the  forefront of the ruddy cows.  
 She will dawn forth now; her beacon will stand out. Agni will reverently  come to house after house.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This young Maid from the east hath shone upon us; she harnesseth her team of bright red oxen.  
      She will beam forth, the light will hasten hither, and Agni will be present in each dwelling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Osten schimmerte die junge Frau hernieder, sie schirrt die Reihe ihrer roten Rinder an. Jetzt möge sie aufleuchten; ihr Banner soll vorausgehen: In jedem Hause stellt sich das Feuer ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Von Osten her erglänzte diese Jungfrau, sie schirrt sich an die Schar der rothen Rinder; sie strahle nun, und vorwärts dring' ihr Lichtschein, und Feuer stell sich ein in jedem Hause.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эта юница ниспослала вниз (на землю) сияние на восток.  
 Она запрягает череду алых коров.  

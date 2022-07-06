@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡द्मेव प्रा꣡चो वि꣡ मिमाय मा꣡नैर्  
 व꣡ज्रेण खा꣡नि अतृणन् नदी꣡नाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सो꣡मस्य ता꣡ म꣡द इ꣡न्द्रश् चकार
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 वृथा॑ । अ॒सृ॒ज॒त् । प॒थिऽभिः॑ । दी॒र्घ॒ऽया॒थैः । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sadmeva* ← *sadma* ← *sadman*
 - \[noun\], nominative, singular, neuter
@@ -131,37 +131,37 @@ genre M;; repeated line
 सद्मेव यथायज्ञगृहान्मानैः षट् त्रिंश्त्प्रक्रमप्राचीत्येवंरूपैःपरिमाणैः प्राक् प्रवणान्कुर्वन्ति तद्वत् सिन्धून् लोकान्वानृजून्मानैः परिमाणैः प्राचः प्राङ्मुखान्विमिमाय इन्द्रोविशेषेणनिर्मितवान् तथा- नदीनाङ्खानिनिर्गमनद्वाराणिवज्रेणचअतृणत् अखनत् तृहिहिंसानादरयोः रुधादिलङ् तथाचमन्त्रः— इन्द्रोअस्माँअरदद्वज्रबाहुरिति । तथादीर्घयाथैः बहुकालङ्गन्तव्यैः पथिभिर्मार्गैः वृथासृजत् अनाया- सेनतानदीःसृष्टवान् सोमस्येतिसिद्धार्थइति ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(He it is) who has measured the eastern (quarters) with measures like a chamber; who has dug with the thunderbolt the beds of the rivers, and has easily sent them forth by long-continued paths; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like (ritual) seats, he fixed (the rivers) eastward with his measuring  rods: by his mace, he drilled out channels for the rivers;  
 by his choice, he released them along paths stretching far away. – In  
 soma’s exhilaration Indra did these things.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From front, as 'twere a house, he ruled and measured; pierced with his bolt the fountains of the rivers,  
      And made them flow at ease by paths far-reaching, These things did Indra in the Soma's rapture.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er hat mit Maßen wie ein Wohnhaus die vorwärts gehenden Bahnen abgesteckt; mit der Keule öffnete er die Kanäle der Flüsse. Er ließ sie in ihren langgstreckten Bahnen nach Lust laufen. - Im Rausche des Soma hat das Indra getan.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Bauten mass er aus die Bahnen messend, den Strömen bohrte Rinnen mit dem Blitz er, Hiess sie durcheilen langgestreckte Pfade; im Rausch des Soma hat vollbracht dies Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 . Он измерил мерами устремленные вперед (горы), словно (жертвенное) сиденье.  
 Ваджрой он пробил русла рек.  

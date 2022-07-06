@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युवा꣡म् पूषे꣡व अश्विना पु꣡रंधिर्  
 अग्नि꣡म् उषां꣡ न꣡ जरते हवि꣡ष्मान्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद्या꣡मेषं꣡ वृज꣡नं जीर꣡दानुम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 हु॒वे । यत् । वा॒म् । व॒रि॒व॒स्या । गृ॒णा॒नः । वि॒द्याम॑ । इ॒षम् । वृ॒जन॑म् । जी॒रऽदा॑नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
@@ -121,7 +121,7 @@ genre M;; repeated line
 हे अश्विनौ **युवां** **पुरंधिः** बहुप्रज्ञः पूषेव पोषक इव **हविष्मान्** हविर्युक्तः **जरते** स्तौति । यद्वा । पुरंधिर्बहूनां धारयित्री पूषेव पृथिवीव ॥ द्वितीयार्थे प्रथमा ॥ तां यथा स्तौति तद्वत् । किमिव **अग्निमुषां** **न** । अग्निमुषसं च यथा तथा युवामपि । प्रातरनुवाकाश्विनशस्त्रयोः आश्विनक्रतुवत् आग्नेयोषस्ययोरपि सद्भावादिति भावः । कदेति आह । **यत्** यदा **वरिवस्या** वरिवस्यया परिचर्यया युक्तः **गृणानः** स्तोता स्तौति तदा यजमानोऽपि जरते इत्यर्थः । विद्यामेत्यादि गतम् ॥ ॥२३॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,14 +132,14 @@ genre M;; repeated line
 At the season: the allusion is to the time at which it is especially proper to worship Aśvins, the morning sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as Pūṣan and Plenitude (summoned) you, o Aśvins—the one with  the oblation sings (to you, as if) to Agni, as if to Dawn,  
 when I summon you, singing to you, with a longing for wide space.  
 – May we know refreshment and a community having lively waters.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. seems to be trying to aggregate as many divinities into the final summons as possible, and it does so rather awkwardly. On the basis of I.117.19 áthā yuvā́m íd ahvayat púraṃdhiḥ “P. called upon just you two [=Aśvins],” I take púraṃdhiḥ here as the separate (female) figure, rather than as an qualifier of Pūṣan like Geldner Also on the basis of that passage I supply ‘summoned’ (generatable from huvé in c) rather than making this part of the b clause with the verb jarate -- though very little depends on one or the other decision.
 
@@ -148,23 +148,23 @@ In c gṛṇānáḥ must be, quite unusually, transitive: it is ordinarily pass
 stem, which also takes the singer, not the besung, as subj. See the very similar passage VI.62.1 aśvínā huve járamāṇo arkaíḥ “I call upon the Aśvins, singing with my chants.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The prudent worshipper, like Pusan, Asvins! praises you as he praises Dawn and Agni,  
      When, singing with devotion, he invokes you. May we find strengthening food in full abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Euch, Asvin, ruft der Opfernde, wunscherfüllend wie Pusan, wach, wie den Agni, wie die Usas, da ich euch preisend lade im Wunsch nach Sorgenfreiheit. - Wir möchten einen gastfreien Opferbündler kennen lernen, der rasch schenkt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Euch Rittern naht wie Puschan unsre Gabe, dem Agni wie dem Morgenroth der Priester, Wenn ich euch preisend rufe mit Verlangen. Gebt Labung uns und wasserreiche Fluren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вас, о Ашвины, как (и) Агни, (и) Ушас, зовет жертвователь,  
 Подобно Пушану исполняющий желания,  

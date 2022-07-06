@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुसंदृ꣡क् ते सुअनीक प्र꣡तीकं  
 वि꣡ य꣡द् रुक्मो꣡ न꣡ रो꣡चस उपाके꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 चित्रो꣡ न꣡ सू꣡रः प्र꣡ति चक्षि भानु꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । न । ते॒ । त॒न्य॒तुः । ए॒ति॒ । शुष्मः॑ । चि॒त्रः । न । सूरः॑ । प्रति॑ । च॒क्षि॒ । भा॒नुम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *susaṃdṛk* ← *su*
 - \[adverb\]
@@ -139,36 +139,36 @@ genre M
 **स्वनीक** हे सुतेजस्काग्ने त्वं **यत्** यदा **रुक्मो** **न** सूर्य इव । सुवर्णमिव वा । **उपाके** अन्तिके **वि** **रोचसे** विशेषेण दीप्यसे तदा **ते** तव **प्रतीकं** रूपमङ्गं वा **सुसंदृक्** सुसंदर्शनं भवति । किंच **ते** तव **शुष्मः** **दिवः** अन्तरिक्षात् **तन्यतुः** **न** अशनिरिव एति निर्गच्छति । **चित्रः** दर्शनीयः **सूरः** **न** सूर्य इव **भानुं** स्वां दीप्तिं **प्रति** **चक्षि** प्रदर्शयसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Resplendent **Agni**, when you shine nigh at **hand** like gold, your appearance is beautiful; your mightissues like the thunderbolt from the firmament, and like the wonderful sun, you display your lustre.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your visage is lovely to see, o you of lovely face, when, like a jewel, you  glow nearby.  
 Your outburst comes like heaven’s thunder. Like the shimmering sun,  show your radiant beam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O fair of face, beautiful is thine aspect when, very near at hand, like gold thou gleamest,  
      Like Heaven's thundering roar thy might approaches, and like the wondrous Sun thy light thou showest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schön zu schauen ist deine Vorderseite, du Schöngesichtiger, wenn du wie ein Goldschmuck in der Nähe glänzest. Wie des Himmels Donner kommt dein Ungestüm; wie die prangende Sonne offenbare deinen Glanz!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schön glänzend ist, o schöner, dein Erscheinen, wenn du wie Gold erstrahlest in der Nähe; Wie Himmels Donner geht einher dein Brausen, gleich heller Sonne lässt dein Licht du strahlen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приятен на вид твой облик, о прекрасноликий,  
 Когда ты сверкаешь вблизи, как золотое украшение.  

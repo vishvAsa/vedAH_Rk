@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रअग्नी अपा꣡द् इय꣡म्  
 पू꣡र्वा꣡गात् पद्व꣡तीभियः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 त्रिंश꣡त् पदा꣡ नि꣡ अक्रमीत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 हि॒त्वी । शिरः॑ । जि॒ह्वया॑ । वाव॑दत् । चर॑त् । त्रिं॒शत् । प॒दा । नि । अ॒क्र॒मी॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāgnī* ← *indra*
 - \[noun\], masculine
@@ -122,7 +122,7 @@ genre M
 हे **इन्द्राग्नी** **अपात्** पादरहिता **इयम्** उषाः **पद्वतीभ्यः** पादयुक्ताभ्यः सुप्ताभ्यः प्रजाभ्यः **पूर्वा** प्रथमभाविनी सती **आगात्** आगच्छति । तथा प्राणिनां **शिरः** **हित्वी** प्रेरयित्री। यद्वा । शिरो हित्वा त्यक्त्वा स्वयमशिरस्का सती । **जिह्वया** प्राणिस्थया तदीयेन वागिन्द्रियेण **वावदत्** भृशं शब्दं कुर्वती **चरत्** । एवं चरन्ती उषाः **त्रिंशत्** पदानि अवयवभूतान् त्रिंशन्मुहूर्तान् **न्यक्रमीत्** एकेन दिवसेनातिक्रामति । एतच्च युवयोः कर्म । तत् को जानीयादिति पूर्वत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,14 +133,14 @@ genre M
 Animating the head: hitvī **śiras** = exciting the head: prāṇinām **śiro** prerayitrī, urging or animating the head of living beings; or, it may apply to the dawn, as being headless, śiras **tyaktvā** svayam aśiraskā **satī**, she having abandoned the head, being of herself headless; cf. **Yajus**. 33.93: the referene to epithets: vāc, speech, āpad, footless, meaning prose, gadyātmikā; thirty steps: the thirty **muhūrtas**, the divisions of the day and night
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra and Agni, this footless one here [=Dawn] has gone in front of the  footed ones [=cows?].  
 While (this one [=Agni],) having left his head behind, constantly  
 chattering with his tongue, goes wandering, (this one [=Indra?]) has  trodden down thirty with his foot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fem. footless (apadvátī) and footless (padvátībhyaḥ) are most likely Dawn and her cows, either the rays of light that are the Dawn cows or the real cows that go to pasture at dawn. Cf., with Geldner, I.152.3. She appears here presumably to mark the dawn worship where the ritual fire is kindled and Indra appears.
 
@@ -149,23 +149,23 @@ Both Geldner and Renou divide the 2nd hemistich between Agni (c) and Sūrya (d).
 With Geldner I take cárat as a finite verb, an injunctive, accented because it’s implicitly contrastive with the next clause.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 First, Indra-Agni, hath this Maid come footless unto those with feet.  
      Stretching her head and speaking loudly with her tongue, she hath gone downward thirty steps.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Agni! Fußlos ist sie noch vor den fußbegabten Kühen gekommen. Während Agni ohne Haupt mit der Zunge laut redend wandelt, hat Surya die dreißig Schritte angetreten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Agni, diese, welche fusslos ist [die Morgenröthe], erschien früher als die fussbegabten [noch schlafenden Menschen]; der ohne Kopf ist [der Sonnengott], doch mit der Zunge spricht, indem er geht, schritt schon dreissig Schritte vorwärts.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Агни, безногая эта  
 Пришла (еще) раньше, чем те, у кого есть ноги,  

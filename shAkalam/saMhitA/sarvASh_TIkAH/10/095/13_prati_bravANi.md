@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति ब्रवाणि वर्त꣡यते अ꣡श्रु  
 चक्र꣡न् न꣡ क्रन्दद् आधि꣡ये शिवा꣡यै  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡रेहि अ꣡स्तं नहि꣡ मूर मा꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 प्र । तत् । ते॒ । हि॒न॒व॒ । यत् । ते॒ । अ॒स्मे इति॑ । परा॑ । इ॒हि॒ । अस्त॑म् । न॒हि । मू॒र॒ । मा॒ । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -133,7 +133,7 @@ genre D
 इदमुर्वशीवाक्यम् । हे पुरूरवः त्वां **प्रति** **ब्रवाणि** प्रतिवच्मि । त्वदपत्यम् **अश्रु** वाष्पं **वर्तयते** वर्तयिष्यति । **आध्ये** आध्याते वस्तुनि **शिवायै** शिवे कल्याणे समुपस्थिते सति **चक्रन्** रुदन्नश्रूणि विमुञ्चन् **न** **क्रन्दत्** । नकारश्चार्थे । रोत्स्यति चेत्यर्थः । **तत्** त्वदपत्यं **ते** तुभ्यं **हिनव** प्रहिणोमि **यत्** अपत्यं **ते** तव संबन्धि **अस्मे** अस्मासु निहितम् । त्वं **परेह्यस्तम्**। अस्तमिति गृहनाम। स्वगृहं प्रतिगच्छ । हे **मूर** मूढ **मा** मां **नहि** **आपः** न प्राप्नोषि। हिनवेत्यत्र हिनोतेः ‘छन्दसि लुङ्लङ्लिटः' इति भविष्यदर्थे लङि मिपोऽमादेशः । गुणः । अन्त्यलोपश्छान्दसः ॥ बहुलवचनादडभावः। आपः । ‘आप्लृ व्याप्तौ' । लिटि तिङां  तिङो भवन्ति' इति थलो णल् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,29 +144,29 @@ genre D
 Auspicious time: adhye = adhyate vastūni, the expected thing; adhye śivayai: let meforbid him as he sheds tears (i.e., I will forbid him to shed tears); calling out he shall not weep for the fortunatesolicitude (of his father). **Purūravā** seems to urge as an argument for Ūrvaśī's return that the son expectedto be born (or, already born?) will long for his father, and, if separated from him, will weep, to which Ūrvaśīrepies that the son will not weep because she will send him to Purūravā; which is yours in me: i.e., which youhave plural ced in my womb
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Urvaśī:] “I’ll give him an answer when he lets his tear roll. Like a wheel  he screeches for kindly care.  
 I will send it [=child] to you, that thing of yours that’s with us. Go away  home. For you will not attain me, you fool.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will console him when his tears are falling: he shall not weep and cry for care that blesses.  
      That which is thine, between us, will I send thee. Go home again, thou fool;.thou hast not won me.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will ihm Rede stehen, wenn er die Tränen rollen läßt. Wie ein schreiendes Kind wird er schreien nach der freundlichen Sorge der Mutter. Ich will dir schicken, was von dir bei uns ist. Geh nach Hause, denn mich wirst du nicht bekommen, du Tor!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich will dir antworten; mag er auch Thränen vergiessen, nicht wird er weinen, gedenkend [meiner] heilsamen Pflege; ich werde dir [einst] zusenden das, was du bei uns hast; gehe nach Hause; denn nicht, o Thor, wirst du mich erlangen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

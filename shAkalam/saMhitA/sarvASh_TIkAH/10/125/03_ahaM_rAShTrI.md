@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अहं꣡ रा꣡ष्ट्री संग꣡मनी व꣡सूनां  
 चिकितु꣡षी प्रथमा꣡ यज्ञि꣡यानाम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 भू꣡रिष्ठात्राम् भू꣡रि आवेश꣡यन्तीम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताम् । मा॒ । दे॒वाः । वि । अ॒द॒धुः॒ । पु॒रु॒ऽत्रा । भूरि॑ऽस्थात्राम् । भूरि॑ । आ॒ऽवे॒शय॑न्तीम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
@@ -113,37 +113,37 @@ popular
 **अहं** राष्ट्री। ईश्वरनामैतत् । सर्वस्य जगत ईश्वरी । तथा **वसूनां** धनानां **संगमनी** संगमयित्र्युपासकानां प्रापयित्री । **चिकितुषी** यत्साक्षात्कर्तव्यं परं ब्रह्म तज्ज्ञातवती स्वात्मतया साक्षात्कृतवती। अत एव **यज्ञियानां** यज्ञार्हाणां **प्रथमा** मुख्या। य एवंगुणविशिष्टाहं **तां** मां **भूरिस्थात्रां** बहुभावेन प्रपञ्चात्मनावतिष्ठमानां **भूरि** भूरीणि बहूनि भूतजातानि **आवेशयन्तीं** जीवभावेनात्मानं प्रवेशयन्तीमीदृशीं मां **पुरुत्रा** बहुषु देशेषु **व्यदधुः** **देवाः** विदधति कुर्वन्ति । उक्तप्रकारेण वैश्वरूप्येणावस्थानात्। यद्यत्कुर्वन्ति तत्सर्वं मामेव कुर्वन्तीत्यर्थः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I am the sovereign **queen**, the collectress of treasures, cognizant (of the Supreme Being), the chief ofobjects of worship; as such the gods have put me in many plural ces, abiding in manifold conditions, entering intonumerous (forms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I am ruler, assembler of goods, observer foremost among those deserving  the sacrifice.  
 Me have the gods distributed in many places—so that I have many  
 stations and cause many things to enter (me).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I am the Queen, the gatherer-up of treasures, most thoughtful, first of those who merit worship.  
      Thus Gods have stablished me in many places with many homes to enter and abide in.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich bin die Gebieterin, die Schätze sammelt, die Kundige, die Erste unter den Opferwürdigen. Mich haben die Götter an viele Orte verteilt, die ich viele Stätten habe und viele Formen annehme.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich bin die Fürstin, Sammlerin der Güter, zuerst hab' ich erkannt die heil'gen Götter; Drum haben sie mich überall verbreitet, die ich in vieles dringe und drin weile.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я – повелительница, собирательница сокровищ,  
 Сведущая, первая из достойных жертв.  

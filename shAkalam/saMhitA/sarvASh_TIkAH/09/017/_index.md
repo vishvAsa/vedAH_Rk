@@ -8,7 +8,7 @@ title = "+017"
 ‘प्र निम्नेनेव' इत्यष्टर्चं सप्तदशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र निम्नेनेव' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 17 (729)  
 Soma Pavamāna  

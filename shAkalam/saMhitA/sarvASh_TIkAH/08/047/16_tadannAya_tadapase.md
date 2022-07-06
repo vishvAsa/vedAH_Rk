@@ -6,7 +6,7 @@ ChandaH = "महापङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡दन्नाय त꣡दपसे  
 त꣡म् भाग꣡म् उपसेदु꣡षे  
@@ -16,7 +16,7 @@ ChandaH = "महापङ्क्तिः"
 सुऊत꣡यो व ऊत꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -36,7 +36,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 त्रि॒ताय॑ । च॒ । द्वि॒ताय॑ । च॒ । उषः॑ । दुः॒ऽस्वप्न्य॑म् । व॒ह॒ । अ॒ने॒हसः॑ । वः॒ । ऊ॒तयः॑ । सु॒ऽऊ॒तयः॑ । वः॒ । ऊ॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tadannāya* ← *tad*
 - \[noun\]
@@ -138,7 +138,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **तदन्नाय** । यदेव जागरावस्थायां भोज्यत्वेन प्रसिद्धं मधुपयसादि स्वप्नेऽपि तदेवान्नं यस्य सः । तादृशाय । प्रत्यक्षभोजनवत् स्वप्नेऽपि भोक्त्र इत्यर्थः। तथा **तदपसे** । यदेवापः कर्म निन्दितं जाग्रदवस्थायां क्रियते तदेव कर्म स्वप्ने यस्य स तत्कर्मा । तादृशाय देवाय **तं** **भागं** दुःस्वप्नस्यांशम् **उपसेदुषे** प्राप्नुवते **त्रिताय** **द्विताय** **च** हे **उषः** देवि **दुष्वप्न्यम्** अन्नकर्मविषयं **वह** अन्यत्र प्रापय । स्वप्ने दृष्टं मधुभोजनादिकं जाग्रदवस्थानुभूतवत् सुखकरं भवत्वित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,30 +149,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 Bear elsewhere: i.e., let the eating of honey etc., perceived in a dream, producehappiness as in a waking state; trita and dvita: for dvita, cf. **Śatapatha Brāhmaṇa** 1.2.3.1
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the one who has it as his food and as his work, to the one reverently  approaching it as his portion—  
 to Trita and to Dvita, o Dawn, carry the bad dream.  
 – Your help is faultless; very helpful is your help.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To him whose food and work is this, who comes to take his share therein,  
      To Trita, and to Dvita, Dawn! bear thou the evil dream away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm, dessen Brot und Geschäft dies ist, der auf diesen Anteil wartet, dem Trita und dem Dvita bring, Usas den bösen Traum! - Ohne Fehler sind eure Hilfen, guthelfend sind eure Hilfen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der diese Speis' und dieses Werk gewohnt ist, diesen Antheil hat, dem Trita und dem Dvita fahr, o Uschas hin den bösen Traum.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К (тому,) у кого такая пища, такое занятие,  
 Кто приобрел такую долю,  

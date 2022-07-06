@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कथा꣡ दाशेम न꣡मसा सुदा꣡नून्  
 एवया꣡ · मरु꣡तो अ꣡छउक्तौ  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 अस्मा꣡कम् भूद् · उपमातिव꣡निः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 मा । नः॒ । अहिः॑ । बु॒ध्न्यः॑ । रि॒षे । धा॒त् । अ॒स्माक॑म् । भू॒त् । उ॒प॒मा॒ति॒ऽवनिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kathā*
 - \[adverb\]
@@ -125,14 +125,14 @@ genre M
 वयं **कथा** केन प्रकारेण **दाशेम** परिचरेम **नमसा** स्तोत्रेणान्नेन वा **सुदानून्** शोभनदानान् **मरुतः** । **एवया** एवं क्रियमाणप्रकारेण **अच्छोक्तौ** आभिमुख्येन वचने निमित्ते सति तान् मरुतः कथं परिचरेम । तेषां दुराराध्यत्वादिति भावः । कथम् । **प्रश्रवसः** प्रकृष्टान्ना भवन्ति। **अच्छोक्तौ**। अभिगन्त्र्युक्तिः स्तुतिर्यस्य तादृशे मयि । यद्वा । प्रश्रवसः प्रकृष्टान्नस्य मम अच्छोक्तौ स्तोत्रनिमित्ते सति **मरुतः** कथा केन प्रकारेण दाशेम । पुनरुक्तिरादार्था । **अहिर्बुध्न्यः** देवः **नः** अस्मान् **रिषे** हिंसकाय **मा** **धात्** मा स्थापयतु । स देवः **अस्माकं** **भूत्** भवतु **उपमातिवनिः** शत्रूणां हन्ता ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “How may we (duly) worship the liberal (**Maruts**) with praise, how adore the Maruts with present praise in a fitting manner, the glorious Maruts with present praise? may **Ahirbudhnya** contrive nor for our harm; may he be the destroyer (of our enemies).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 How might we ritually serve with reverence those of good drops,  the Maruts traveling their ways, at the invitation—the Maruts of  
 advancing fame, at the invitation?  
@@ -140,30 +140,30 @@ Let Ahi Budhnya not set us up to suffer harm. For us let there be
 winnings at the distribution (of prizes).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As does upamātivániḥ in 16e. On this form and on the meter of both -vániḥ forms, see Scarlatta 467. On úpamāti- see comm. ad VIII.40.9.
 
 The opening of the vs., kathā́dāśema, echoes 11a kathā́… bravāma. In both cases the object of our action is the Maruts. Another echo is found in evayā́(ḥ), which is a scrambling of yé va évā(ḥ) of 5d and 13a (though yé and -yā(ḥ) are completely different grammatically), in both cases of the Maruts. The sequence in our pāda b, evayā́marútaḥ “the Maruts traveling their ways,” is also matched by the punctuating exclamation evayā́marut found in every vs. of the Anhangslied to the Maruts that ends this maṇḍala (V.87.1-9, tr. there “Maruts on the march”).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 How may we serve the Liberal Ones with worship, the Maruts swift of course in invocation, the Maruts far-renowned in invocation?  
      Let not the Dragon of the Deep annoy us, and gladly may he welcome our addresses.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie sollen wir unter Verbeugung den gabenschönen Marut aufwarten, die aus eigenem Antrieb auf die Einladung hin kommen, die weitberühmten Marut auf die Einladung hin? Nicht soll uns Ahi Budhnya zu Schaden bringen; für uns sei er der Gewinner von Schenkungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie dienen wir den gabenreichen Maruts, den eilend gehnden andachtsvoll beim Anruf? Der Wetterdrache geb uns nicht dem Feind hin, er sei's, der freundlich unsre Rede annimmt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как почитать нам с поклонением обладающих прекрасными дарами  
 Марутов, спешащих прибыть на зов,  

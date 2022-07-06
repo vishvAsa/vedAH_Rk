@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ त इन्दो म꣡दाय क꣡म्  
 प꣡यो दुहन्ति आय꣡वः  
 देवा꣡ देवे꣡भियो म꣡धु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 दे॒वाः । दे॒वेभ्यः॑ । मधु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -87,20 +87,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **इन्दो** सोम **ते** तव **मधु** मधुभूतं **पयः** पेयं रसं **देवाः** स्तोतारः **आयवः** मनुष्याः **मदाय** **कं** मदार्थं **देवेभ्यः** इन्द्रादिभ्यः **आ** **दुहन्ति** ॥ ॥ २७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The devout priests milk forth your sweet juice **Indu**, for the gods for the purpose of exhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Āyus milk your milk for exhilaration, o drop;  
 the gods (milk) honey for the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 With Geldner and Renou, the published translation interpr. páyo duhanti as “they milk your milk” (or more emphatically, Renou “traient de toi le lait” [my ital.]); that is, they assume that milk (páyaḥ) here refers to the soma juice. See above, comm. ad vs. 9, on the ambiguous ref. of this word in the soma maṇḍala. It is also possible here that páyaḥ refers to cows’ milk (see the cows in 19c), and the passage should be interpr. “they milk milk for you for exhilaration.”
 
@@ -114,23 +114,23 @@ There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and t
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indu, the living men milk out the juice to make the rapturous draught:  
      Gods for the Gods milk out the meath.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Milch, o Saft, melken die Ayu´s zum Rauschtrank, die Götter für die Götter die Süßigkeit.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es melken, Indu, deine Milch zum Rausche recht die eifrigen, Die Götter Göttern süssen Trank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

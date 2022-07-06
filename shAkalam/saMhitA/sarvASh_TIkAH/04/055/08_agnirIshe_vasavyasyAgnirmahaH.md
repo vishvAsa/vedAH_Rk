@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अग्नि꣡र् ईशे वसव्य᳡स्य  
 अग्नि꣡र् महः꣡ सउ꣡भगस्य  
 ता꣡नि अस्म꣡भ्यं रासते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 तानि॑ । अ॒स्मभ्य॑म् । रा॒स॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
@@ -81,36 +81,36 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **अग्निः** देवः **वसव्यस्य** धनसमूहस्य **ईशे** ईष्टे दातुम् । तथा **अग्निः** **महः** महतः **सौभगस्य** सुभगत्वस्यापि ईशे । अतः **तानि** धनानि सौभाग्यं च **अस्मभ्यं** **रासते** ददातु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni** is lord over treasure; Agni (is lord) over great good fortune; may he bestow them upon us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Agni is lord of a mass of goods, Agni of great good fortune.  
 He will grant these to us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni is Sovran Lord of wealth, Agni of great prosperity:  
      May he bestow these gifts on us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Agni verfügt über einen Schatz, Agni über großes Glücksgut: Diese möge er uns schenken!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Agni besitzet reiches Gut und Agni grossen Glückes Theil, das alles mög' er uns verleihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Агни владеет богатством,  
 Агни – великим счастьем.  

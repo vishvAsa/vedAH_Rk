@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यज्ञ꣡ इ꣡न्द्रम् अवर्धयद्  
 य꣡द् भू꣡मिं वि꣡ अ꣡वर्तयत्  
 चक्राण꣡ ओपशं꣡ दिवि꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 च॒क्रा॒णः । ओ॒प॒शम् । दि॒वि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yajña* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **यज्ञः** यजमानैरनुष्ठीयमानो यागः **इन्द्रं** देवम् **अवर्धयत्** । श्रूयते हि -- इन्द्र इदं इविरजुषतावीवृधत महो ज्यायोऽकृत' (तै. ब्रा. ३. ५. १०. ३) इति । स इन्द्रः **यत्** यस्मात् **भूमिं** पृथिवीं **व्यवर्तयत्** वृष्ट्यादिप्रदानेन विशेषेण वर्तमानामकरोत् । किं कुर्वन् । **दिवि** अन्तरिक्षे मेघम् **ओपशम्** उपेत्य शयानं **चक्राणः** कुर्वन् । यद्वा । आत्मनि समवेतो वीर्यविशेष ओपशः । तमन्तरिक्षे कुर्वन् ॥ ॥ १४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -100,34 +100,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Cakrāṇa opaśam **divi** = antarikṣe megham opaśam upetya śayānam kurvan
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The sacrifice made Indra strong, when he unrolled the earth,  
 creating for himself a headdress in heaven.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the phonetic figure in ab: ... avardhayad# / ... ávartayat#
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sacrifice made Indra strong when he unrolled the earth, and made  
      Himself a diadem in heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer hatte den Indra groß gemacht, als er die Erde auseinander rollte und sich im Himmel einen Kopfputz machte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Opfer gab dem Indra Kraft, als er die Erde um sich schlang, Den Haarbusch auf zum Himmel hob.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Жертва усилила Индру,  
 Когда он развернул землю,  

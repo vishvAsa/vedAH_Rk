@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दब्धेभिस् त꣡व गोपा꣡भिर् इष्टे  
 अस्मा꣡कम् पाहि त्रिषधस्थ सूरी꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वइ꣡श्वानर प्र꣡ च तारी स्त꣡वानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रक्ष॑ । च॒ । नः॒ । द॒दुषा॑म् । शर्धः॑ । अ॒ग्ने॒ । वैश्वा॑नर । प्र । च॒ । ता॒रीः॒ । स्तवा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adabdhebhis* ← *adabdhebhiḥ* ← *adabdha*
 - \[noun\], instrumental, plural, masculine
@@ -121,41 +121,41 @@ genre M
 हे **इष्टे** यष्टव्य एषणीय वा **त्रिषधस्थ** त्रिषु लोकेषु सहावस्थायिन् यद्वा आहवनीयादिषु त्रिष्वायतनेषु यष्टव्यैर्देवैः सहावतिष्ठमानाग्ने **अदब्धेभिः** केनाप्यहिंसितैः **तव** त्वदीयैः **गोपाभिः** गोपकैः रक्षकैस्तेजोभिः **अस्माकं** **सूरीन्** अस्मदीयान् स्तोतॄन् **पाहि** रक्ष । हे **वैश्वानर** **अग्ने** **ददुषां** हवींषि दत्तवतां **नः** अस्माकं **शर्धः** बलं **रक्ष** **च** । **स्तवानः** स्तूयमानस्त्वं **प्र** **च** **तारीः** प्रवर्धय च ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Adored **Agni**, present in the **three worlds**, protect your worshippers with your irresistible protections, preserve the strength of us who offer (oblations); glorified (by us), Agni **vaiśvānara**, transport us (beyond evil).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 With your undeceivable herdsmen, o object of our quest, protect our  patrons, o triply seated one.  
 And guard the troop of those who have given to us, o Agni Vaiśvānara,  and extend (their/our lifetime), when you are praised.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On Geldner’s proposed emendation of iṣṭe to iṣṭébhiḥ see comm. ad I.143.8, which has the same form in a lexically and rhetorically similar passage (containing, inter alia, pāhi and ádabdhebhiḥ). Oldenberg (ZDMG 55.296 = KlSch. 755) is adamantly opposed to Geldner’s suggestion, and there seems no good reason to emend the passage and no obvious trigger for such a corruption. It is difficult not to interpr. the -iṣ-aor. injunc. prá … tārīḥ as an impv., given its overt coordination with rákṣā in pāda c.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O thou who dwellest in three places, Helper, keep with effective guards our princely patrons.  
      Keep our band, Agni, who have brought thee presents. Lengthen their lives, Vaisvanara, when lauded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit deinen untrügbaren, lieben Schutzgeistern behüte unsere Lohnherren, du Dreistättenbesitzer. Und schirme die Schar derer, die uns Geschenke gemacht haben, o Agni Vaisvanara, und laß sie fortleben, der du gepriesenen wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit deinen treuen Hütern, o du Helfer, bewahre dreifach thronend unsre Edlen, Und unsre Schar der Spender schirme, Agni, und fördre uns, o Männerhort, gepries'ner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Своими защитниками, не терпящими обмана, о желанный,  
 Охраняй наших покровителей, о живущий в трех местах!  

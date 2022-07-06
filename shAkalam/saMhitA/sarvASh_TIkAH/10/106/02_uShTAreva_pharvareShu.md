@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उष्टा꣡रेव फ꣡र्वरेषु श्रयेथे  
 प्रायोगे꣡व श्वा꣡त्रिया शा꣡सुर् ए꣡थः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡प स्थातम् महिषे꣡वावपा꣡नात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दू॒ताऽइ॑व । हि । स्थः । य॒शसा॑ । जने॑षु । मा । अप॑ । स्था॒त॒म् । म॒हि॒षाऽइ॑व । अ॒व॒ऽपाना॑त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uṣṭāreva* ← *uṣṭārā* ← *uṣṭṛ*
 - \[noun\], nominative, dual, masculine
@@ -125,36 +125,36 @@ genre M
 **उष्टारेव** । उष्टः कामयेते गन्तव्यं देशमित्युष्टारौ प्रासङ्गस्य वोढारावनड्वाहाविव ॥ ‘वश कान्तौ ' इत्यस्मात्तृचि छान्दसं संप्रसारणमिडभावश्च ॥ तौ यथा संपूर्णघासेषु संचरतः तद्वत् **फर्वरेषु** स्तुतिभिर्हविर्भिश्च पूरयितृषु जनेषु **श्रयेथे** । तत्स्वीकरणार्थमाश्रयथः ॥ फर्वतिः पूरणार्थः । अस्मादौणादिको रन्प्रत्ययः ॥ **प्रायोगेव** प्रायोगौ प्रयोक्तव्यावनड्वाहाविव । प्रपूर्वाद्युजेः कर्मणि घञ्युपसर्गस्य दीर्घः । थाथादिस्वरेणान्तोदात्तः ॥ तौ यथा **श्वात्र्या** श्वात्र्यौ । शु क्षिप्रमतनं श्वात्रम् । तत्र साधू भवतः तद्वत् । यद्वा । युद्धार्थं प्रयोक्तव्यावश्वाविव श्वाञ्यौ। श्वात्र्यमिति धननाम । तत्र भवौ । धनस्य साधकावित्यर्थः । तौ युवां **शासुः** शंसितुः स्तोतुः स्तुतिं प्रति **एथः** आगच्छथः । ‘इण् गतौ' । आदादिकः । दूतेव दूताविव यथा राज्ञः प्रियतमौ दूतौ जनपदेषु यशस्विनौ भवतः तद्वत् ”जनेषु स्तोतृषु ”यशसा यशस्विनौ **स्थः** **हि** भवथः खलु ॥ अस्तेर्लटि रूपम् । हियोगादनिघातः ॥ **महिषेव** महिषाविव यथा श्रान्तौ महिषौ **अवपानात्** । पीयतेऽस्मिन्निति पानं हृदादि । अधिकरणे ल्युट् । पानमेवावपानम्। संनिकृष्टात् पानान्नापगच्छतः तद्वद्युवामस्मदीयाद्धविषः स्तोत्राच्च ”माप **स्थातं** मापक्रम्य तिष्ठतम् ॥ तिष्ठतेर्लुङि गातिस्था°' इति सिचो लुक् । ‘न माङ्योगे' इत्यडभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Like two longing oxen (to the pastures), you have recourse to those who fill you (with oblations); youapproach like two horses prepared for the fray; employed to bring treasure; you are like two (royal) messengersrenowned among the people; turn not away (from our oblation) like two buffaloes from the drinking-trough.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like plow-oxen [?] you are fixed in [/to] the pharvara; like brawny  lead-horses [?] you follow instructions.  
 Because you are like messengers who acquire glory among the peoples,  do not stay away like buffalo from a waterhole.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like two plough-bulls ye move along in traces, and seek like eager guests your bidder's banquet.  
      Ye are like glorious envoys mid the people: like bulls, approach the place where ye are watered.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie zwei Zugstiere leget ihr euch an die Joche, wie zwei ....... kommet ihr auf Befehl. Wie abgesandte seid ihr ja bei den Leuten angesehen. Bleibet nicht fern wie Büffel von der Tränke!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Pflugstiere schreitet ihr bei den Säern (?); wie zwei kräftige zum Mahle kommenden Gäste (?) folget ihr der Einladung; wie zwei Boten seid ihr herrlich unter den Menschen, seid nicht ferne von der Tränke, zweien Büffeln gleichend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как два буйвола, налегаете вы на постромки (?),  
 Как два крепких тягловых животных (?), являетесь вы по приказу.  

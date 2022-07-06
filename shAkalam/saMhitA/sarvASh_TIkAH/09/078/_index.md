@@ -8,7 +8,7 @@ title = "+078"
 ‘ प्र राजा वाचम्' इति पञ्चर्चमेकादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र राजा' इत्यनुक्रान्तम् । गतो विनियोगः ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 78 (790)  
 Soma Pavamāna  
@@ -17,7 +17,7 @@ Kavi Bhārgava
 A fairly straightforward hymn. The first three verses treat the preparation of the  soma: after being swollen with water it is sent forth into the filter, which captures  the plant detritus, on its way to the milk mixture (vs. 1); it goes across the filter and  into the cup (vs. 2); and it is mixed with waters, here unusually personified as the  nymph-like females, the Apsarases (vs. 3). The last two verses list the benefits that  will accrue to us when the gods drink the soma.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A remarkably straightforward hymn. Oberlies tr. it in Relig. RV II.125.
 

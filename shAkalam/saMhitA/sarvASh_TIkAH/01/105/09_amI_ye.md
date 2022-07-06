@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अमी꣡ ये꣡ सप्त꣡ रश्म꣡यस्  
 त꣡त्रा मे ना꣡भिर् आ꣡तता  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वित्त꣡म् मे अस्य꣡ रोदसी
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Cretic
@@ -34,7 +34,7 @@ genre M;; repeated line
 त्रि॒तः । तत् । वे॒द॒ । आ॒प्त्यः । सः । जा॒मि॒ऽत्वाय॑ । रे॒भ॒ति॒ । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
@@ -131,7 +131,7 @@ genre M;; repeated line
 योऽमी द्युलोके वर्तमानाः सप्तसङ्ख्याका रश्मयः सूर्यस्य किरणाः सन्ति तत्र तेषु सूर्यरश्मिष्वध्यात्वं सप्तप्राणरूपेण वर्तमानेषु मे मदीया नाभिरातता सम्बद्धा । ऋषिरात्मानमेव परोक्षतया निर्दिशति । त्रितस्तीर्णतमस्तिरस्कृताज्ञान आप्त्योऽपां पुत्र ऋषिस्तत्पूर्वोक्तं वृत्तान्तं वेद । जानाति । नान्यः । स जानन्नृषिर्जामित्वाय कूपान्निर्गन्तृत्वाय रेभति । तान् रश्मीन् स्तौति । अन्यत्समानं ॥ अतता । तनोतेः कर्मणि निष्या । आनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । जामित्वाय । जमतिर्गतिकर्मा । जमति गच्छतीति जामिः । औणादिक इण्प्रत्ययः । तस्य भावस्तत्त्वम् । रेभति । रेभृ शब्दे । भौवादिकः ॥ ९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
@@ -142,14 +142,14 @@ genre M;; repeated line
 **Nābhi** = navel; teṣu sūryaraśmiṣu adhyātmam saptaprāṇarūpeṇa varmāneṣu, identifying the solar rays with the seven vital airs abiding in the ruling spirit; this is perhaps an allusion to the navel as the seat of the **soul**. Son of the waters: āptya = **āpya** = apām **putra**, son of the waters
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The seven reins [=seers?] that are yonder—to there is my umbilical cord  stretched.  
 Trita Āptya knows this. He rasps (witness) to the kinship.  
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Various referents have been suggested for the seven reins. I tentatively take them as the seven seers (note the phonological echo between raśmáyah and ṛ́ṣayaḥ), which would allow a connection to be established both with the poetic tradition and, if the seven seers are already equated with the stars in the Big Dipper (in the Great Bear) as they are later, with that astronomical structure. That the next verse also presents what appears to be an astronomical image supports this interpr. Moreover the phrase tátrā me nā́bhir ā́tatā “to there my umbilical cord is stretched” recalls the idiom “tie navel to navel” (sám / ā́√dā), which asserts a family connection between the earthly poet and divine or semi-divine figures and elements in heaven. See comm. ad I.139.1.
 
@@ -166,23 +166,23 @@ As noted in the published introduction, these verses are the omphalos and are ma
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Where those seven rays are shining, thence my home and family extend.  
      This Trta Aptya knoweth well, and speaketh out for brotherhood. Mark this my woe, ye Earth and Heaven.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jene sieben Strahlen - bis dahin reicht mein Ursprung. Trita Aptya weiß das, er erhebt seine Stimme zu Gunsten der Verwandtschaft. - Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort wo die sieben Strahlen sind, da ist verbreitet mein Geschlecht, Das kennet Trita Aptia, er spricht für meine Brüderschaft. Bezeugt mir, Erd' und Himmel, das.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот те семь лучей –  
 Дотуда протянулась моя родословная.  

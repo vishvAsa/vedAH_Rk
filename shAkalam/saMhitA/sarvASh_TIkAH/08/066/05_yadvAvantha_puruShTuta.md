@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् वाव꣡न्थ पुरुष्टुत  
 पुरा꣡ चिच् छूर नॄणा᳐꣡म्+  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 यज्ञ꣡म् उक्थं꣡ तुरं꣡ व꣡चः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 व॒यम् । तत् । ते॒ । इ॒न्द्र॒ । सम् । भ॒रा॒म॒सि॒ । य॒ज्ञम् । उ॒क्थम् । तु॒रम् । वचः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -114,7 +114,7 @@ genre M
 हे पुरुष्टुत बहुभिः स्तुतेन्द्र शूर विक्रान्त नृणां नेतॄणां स्तोतॄणां सकाशात् पुराचिदित्युपमार्थे । तथेदानीमपि यद्ववन्थ अचीकमथ तदेव वयं तुरं तूर्णं ते तुभ्यं हे इन्द्र सम्भरामसि सम्भरामः । किन्तदित्युच्यते-यज्ञं यागयोग्यं हविः उक्थं शस्त्रं वचः वाच्यं तव प्रियतमं हविः स्तोत्रञ्च सम्भरामे- त्यर्थः ॥ ५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 Chid = as of old time (you received) from your votaries, so now we hasten tobring you what you did desire (upamārthe, **Nirukta** 1.4)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O champion praised by many, whatever belonging to men you held dear  even before,  
 we assemble that for you, Indra: the sacrifice, the solemn word, and the  surpassing speech,
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Hero whom many praise, what thou hast longed for, oven of old, from men.  
      All that we offer unto thee, O Indra, now, sacrifice, laud, effectual speech.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was du, der Männer vielgepriesener Held, auch früher verdient hast, das machen wir dir Indra, fertig: Opfer, Loblied, meisterliche Rede,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Welch Werk der Männer sonst dir auch gefiel, o hochgelobter Held, Das bringen wir, o Indra, allesammt dir dar mit Opfer, Spruch und kräft'gem Wort.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что любил ты, о многопрославленный  
 Герой мужей, еще прежде,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡सूनां᳐ वा चर्कृषे इ꣡यक्षन्  
 धिया꣡ वा · यज्ञइ꣡र् वा रो꣡दसीयोः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वनुं꣡ वा ये꣡ सुश्रु꣡णं सुश्रु꣡तो धुः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अर्व॑न्तः । वा॒ । ये । र॒यि॒ऽमन्तः॑ । सा॒तौ । व॒नुम् । वा॒ । ये । सु॒ऽश्रुण॑म् । सु॒ऽश्रुतः॑ । धुरिति॒ धुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
@@ -125,7 +125,7 @@ genre M
 **इयक्षन्** धनानि दातुमिच्छन्निन्द्रः **वसूनां** धनानां लाभाय **वा** **चर्कृषे** अपकृष्यते । **धिया** **वा**। धीः कर्म धार्यमाणत्वात् । युद्धादिकर्मणा वा निमित्तेनाकृष्यते । **यज्ञैर्वा** निमित्तभूतैः कृष्यते । कैरिति उच्यते । **रोदस्योः** द्यावापृथिव्योः संबन्धिभिर्देवैः मनुष्यैश्चेत्यर्थः । **सातौ** संग्रामे जेतव्ये सति **ये** **अर्वन्तो** **वा** गच्छन्तः **रयिमन्तः** भवन्ति तैरप्याकृष्यते। **ये** **वनुं** **वा** हिंसां वा **सुश्रुणं** सुप्रसिद्धामत्यन्तदुर्जयविषयां **सुश्रुतः** सुश्रवसः प्रसिद्धाः कुर्वन्ति तैरपीन्द्र आकृष्यत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,7 +138,7 @@ Vanum = hiṃsam;
 Suśruṇam = suprasiddham, very famour or very successful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Seeking to gain (their favor), I pay tribute to the Vasus or to the two  world-halves, by inspired thought or by sacrifices,  
 or to the steeds that become rich at the (occasion for) winning, or to  
@@ -146,23 +146,23 @@ those who hear well [=gods] who set the eager one to find good
 hearing.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I AM prepared to laud with song or worship the Noble Ones who are in earth and heaven,  
      Or Coursers who have triumphed in, the contest, or those who famed, have won the prize with glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich gedenke, um ihrer habhaft zu werden, entweder der Vasu´s oder beider Welten mit Dichtung oder Opfern, oder der Rennpferde, die bei der Preisgewinnung Reichtum eingebracht haben, oder all derer, die als gute Erhörer den Eifrigen gern erhört haben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Vasu's denkt voll Preis, wer Gut begehret, und beider Welten mit Gebet und Opfer, Die Renner auch mit Schatz versehn beim Wettlauf, die Götter auch, die gern den Bitter hören.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стремясь почтить, я или вспоминаю Васу,  
 Или же молитвой или жертвой (восхваляю) две половины вселенной,  

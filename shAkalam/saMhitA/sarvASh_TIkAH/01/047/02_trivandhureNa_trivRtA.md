@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्रिवन्धुरे꣡ण त्रिवृ꣡ता सुपे꣡शसा  
 र꣡थेना꣡ यातम् अश्विना  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 ते꣡षां सु꣡ शृणुतं ह꣡वम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कण्वा॑सः । वा॒म् । ब्रह्म॑ । कृ॒ण्व॒न्ति॒ । अ॒ध्व॒रे । तेषा॑म् । सु । शृ॒णु॒त॒म् । हव॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *trivandhureṇa* ← *tri*
 - \[noun\]
@@ -124,7 +124,7 @@ genre M
 हे **अश्विना** **त्रिवन्धुरेण** उन्नतानतरूपत्रिविधबन्धनकाष्ठयुक्तेन **त्रिवृता** अप्रतिहतगतितया लोकत्रये वर्तमानेन **सुपेशसा** शोभनसुवर्णयुक्तेन **रथेन** **आ** **यात** इहागच्छतम् । **कण्वासः** कण्वपुत्रा मेधाविन ऋत्विजो वा **वां** युवयोः **अध्वरे** यागे **ब्रह्म** स्तोत्ररूपं मन्त्रं हविर्लक्षणमन्नं वा  **कृण्वन्ति** कुर्वन्ति । **तेषां** कण्वानां **हवम्** आह्वानं **सु** **शृणुतं** सुष्ठ्वादरेण शृणुतम् ॥ त्रिवन्धुरेण । बध्नन्तीति बन्धुराः । बन्धेः औणादिक उरन्प्रत्ययः । त्रयो बन्धुरा यस्यासौ त्रिबन्धुरः । त्रिचक्रादिषु पाठात् त्रिचक्रादीनां छन्दस्युपसंख्यानम् ' ( पा. सू. ६. २. १९९. १ ) इत्युत्तरपदान्तोदात्तत्वम् । त्रिवृता । त्रिषु लोकेषु वर्तते इति त्रिवृत् । क्विप् च ' इति क्विप् । सुपेशसा । पेश इति हिरण्यनाम । शोभनं पेशो यस्यासौ सुपेशाः । ‘आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । शृणुतम् । ‘श्रु श्रवणे'। श्रुवः शृ च ' इति श्नुः; तत्संनियोगेन धातोः शृभावश्च । हवम् । ह्वयतेः ‘ भावेऽनुपसर्गस्य ' ( पा. सू. ३, ३. ७५ ) इति अप् । संप्रसारणं च गुणावादेशौ । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,29 +135,29 @@ genre M
 Trivandhureṇa **trivṛta** rathenā, with a car with three **posts** and triangular is an earlier explanation; in the context of this hymn, the rendering is: having three undulating fastenings of timber, and passing unobstructedly through the **three worlds**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Journey here, Aśvins, by your triply turning chariot with its three  standing places, with its beautiful adornment.  
 The Kaṇvas are creating a formulation for you at the rite. Listen well to  their call!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, O ye Asvins, mounted on your triple car three-seated, beautiful of form  
      To you at sacrifice the Kanvas send the prayer: graciously listen to their call.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf eurem dreisitzigen, dreiteiligen, schönverzierten Wagen kommet, Asvin! Die Kanva´s bereiten euch bei dem Opfer eine Erbauung, höret fein auf deren Ruf!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Ritter, kommt auf eurem schönen Wagen, der drei Sitze und drei Räder hat, Die Kanva's bringen euch Gebet beim Opferfest, vernehmet willig ihren Ruf.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 На трехместной, трехчастной, великолепно украшенной  
 Колеснице выезжайте, о Ашвины!  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्र र्भु꣡भिर् वाजि꣡भिर् वाज꣡यन्न् इह꣡  
 स्तो꣡मं जरितु꣡र् उ꣡प याहि यज्ञि꣡यम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 सह꣡स्रणीथो अध्वर꣡स्य हो꣡मनि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 श॒तम् । केते॑भिः । इ॒षि॒रेभिः॑ । आ॒यवे॑ । स॒हस्र॑ऽनीथः । अ॒ध्व॒रस्य॑ । होम॑नि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indra*
 - \[noun\], vocative, singular, masculine
@@ -108,7 +108,7 @@ genre M
 हे **इन्द्र** **वाजिभिः** वाजयुक्तैः **ऋभुभिः** सहितस्त्वं **वाजयन्** स्तोतुर्वाजमन्नं कुर्वाणः **इह** यज्ञे **यज्ञियं** यज्ञार्हं **जरितुः** स्तोतुः **स्तोमं** स्तोत्रम् **उप** **याहि** आगच्छ । पुनः किंविशिष्टः । **केतेभिः** । केत्यते ज्ञायते सर्वमेभिरिति केताः प्राज्ञाः मरुतः । तैः **शतं** शतसंख्याकैः **इषिरेभिः** इषिरैर्गमनकुशलैः अश्वैः सहितः **आयवे** मनुष्याय यजमानाय **सहस्रनीथः** बहुप्रकारनयनोपेतः **अध्वरस्य** । न विद्यते ध्वरो हिंसा यस्य तादृशस्य सोमस्य **होमनि** होमे आगच्छेति शेषः॥ वाजयन्। वाजं करोतीति णिच् । ‘णाविष्ठवत्' इतीष्ठवद्भावात् “ तुरिष्ठेमेयःसु' इति टिलोपः । केतेभिः । ‘कित ज्ञाने' । घञ् । ञित्त्वादाद्युदात्तः ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,29 +119,29 @@ genre M
 Food-bestowing Ṛbhus: Ṛbhubhir vājibhir vājayan, imples a quibble on the word **vāja**: which is the name of one of the Ṛbhus, used for all the Ṛbhus; it also means, food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, together with the R̥bhus, with the prizewinners, racing to the  prize, travel here to the ritually right praise of the singer  
 with your hundred invigorating intentions for Āyu, since you have a  thousand stratagems at the rite’s invocation.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come with the mighty Rbhus, Indra, come to us, strengthening with thy help the singer's holy praise;  
      At hundred eager calls come to the living man, with thousand arts attend the act of sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, mit den Ribhu´s samt Vaja um die Wette fahrend komm hierher zum gottesdienstlichen Lobgesang des Sängers, mit hundert eifrigen Wünschen für den Ayusohn, tausend Wege kennend, zur Darbringung des Opfers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra mit den starken Ribhu's komme her in Eile zu des Sängers hehrem Lobgesang; Mit hundert starken Werken komme für den Manu mit tausendfacher Leitung zu dem Opferguss.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра, состязаясь здесь с Рибху, или Ваджами,  
 Приезжай на жертвенное восхваление певца  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उत्ताना꣡याम् अजनयन् सु꣡षूतम्  
 भु꣡वद् अग्निः꣡ पुरुपे꣡शासु ग꣡र्भः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡परीवृतो वसति प्र꣡चेताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 शिरि॑णायाम् । चि॒त् । अ॒क्तुना॑ । महः॑ऽभिः । अप॑रिऽवृतः । व॒स॒ति॒ । प्रऽचे॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *uttānāyām* ← *uttāna*
 - \[noun\], locative, singular, feminine
@@ -110,7 +110,7 @@ genre M
 उत्तानायामुत्तानेशयायामरण्यांसुषूतं अग्निहोत्रार्थंसुष्ठुप्रेरितमग्निमजनयन् अध्वर्य्वादयौदपादयन् सोग्निः पुरुषेशासु पेशइतिरूपनाम बहुरूपास्वेषधीषुगर्भोभवतु अन्तर्वर्तमानतयागर्भइवभवेत् भवेत् भवतेर्लिङिरूपं शिरिणायाञ्चित् शीर्यतेस्याम्भूतानीतिशिरिणारात्रिः तस्यामपिअक्तुनाअञ्चनादक्तुस्त- मः तेनतमसाअपरिवृतः असंस्पृष्टः अतएवमहोभिस्तेजोभिर्युक्तः प्रचेताः प्रकृष्टप्रज्ञःसन् वसति दीप्य- मानोवर्तते ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -121,14 +121,14 @@ genre M
 When soundly sleeping: uttānāyam suṣūtam = on the lower of the two sticks which are rubbed together
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In her with (legs) agape [=kindling sticks] they engendered him whose  birth is easy. Agni becomes the embryo in the (women) of many  
 ornaments [=logs].  
 In (the birth-)canal [?] also he dwells by night, (though) because of his  powers he cannot be confined, the discerning one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The fem. sg. loc. uttānā́yām is generally simply tr. ‘outstretched’ or sim. I think the image is more precise: the two kindling sticks, athwart each other, are likened to a woman in birthing position with her legs stretched out and open (my “agape”).
 
@@ -139,28 +139,28 @@ It is a hapax with no clear root affiliation, and the suggested tr. range widely
 All this is very speculative, however, and it might be wiser to leave the word untranslated.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On wood supine they got the well-formed Infant: a germ in various-fashioned plants was Agni;  
      And in the night, not compassed round by darkness, he dwells exceeding wise, with rays of splendour.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 They have generated the well-born (Agni) in her who lies on her back 1. Agni became a germ in the manifoldly-adorned (wives) 2. Even in the … 3 the wise one dwells by night uncovered in his powers 4.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 In der Ausgestreckten erzeugten sie ihn, dessen Geburt leicht ist. Agni ward die Leibesfrucht in den vielfarbigen Hölzern. Auch in der Nacht verweilt der Kluge durch seine Herrlichkeit vom Dunkel unverhüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In der, die da lag, zeugten sie den schönen, in vielgestalt'gen Müttern ruhte Agni, Auch in der Kammer nicht umhüllt von Dunkel, verweilt die Nacht durch, glanzbegabt, der weise.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Они породили его, прекраснорожденного, в распростертой кверху.  
 Агни стал зародышем многоцветных (растений).  

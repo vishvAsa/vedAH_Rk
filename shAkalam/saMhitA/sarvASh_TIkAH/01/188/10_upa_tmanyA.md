@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प त्म꣡न्या वनस्पते  
 पा꣡थो देवे꣡भियः सृज  
 अग्नि꣡र् हव्या꣡नि सिष्वदत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 अ॒ग्निः । ह॒व्यानि॑ । सि॒स्व॒द॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -78,46 +78,46 @@ genre M
 हे **वनस्पते** यूपाभिमानिदेव **त्मन्या** आत्मनैव **देवेभ्यः** अग्न्यादिभ्यः **पाथः** पशुरूपमन्नम् **उप** **सृज** उत्पादय । यूपाभावे पशुनियोजनाभावेन हविषोऽभावात् । त्वयि एवं कृतवति सति **अग्निः** हव्यानि हवींषि **सिस्वदत्** स्वदयतु स्वादूकरोतु ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vanaspati**, deliver of yourself the victim to the gods, so that **Agni** may taste the oblation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By yourself send (the sacrificial animal) to the fold of the gods, o Lord  of the Forest.  
 Agni will sweeten the oblations.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 “of the gods” in the published translation would be better rendered “for the gods.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Send to the Gods, Vanaspati, thyself, the sacrificial draught:  
      Let Agni make the oblations sweet.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Yield up by thyself, O tree, (the sacrificial food) to the abode of the gods 1. May Agni make the offerings relishable.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Entlaß von selbst, o Baum, das Opfertier zu den Göttern in deren Obhut! Agni möge die Opfer schmackhaft machen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Benetz den Göttern, Waldesherr, nach deiner Art den Himmelspfad; Die Tränke mache Agni schön.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Само по себе, о  
 дерево  

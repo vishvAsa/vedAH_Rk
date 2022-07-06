@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡ चिन् नु꣡ भद्रा꣡ क्षुम꣡ती य꣡शस्वती  
 उषा꣡ उवास म꣡नवे सु꣡वर्वती  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 अग्निं꣡ हो꣡तारं विद꣡थाय जी꣡जनन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 यत् । ई॒म् । उ॒शन्त॑म् । उ॒श॒ताम् । अनु॑ । क्रतु॑म् । अ॒ग्निम् । होता॑रम् । वि॒दथा॑य । जीज॑नन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *so* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
@@ -131,36 +131,36 @@ genre D
 **भद्रा** भजनीया **क्षुमती** शब्दवती **यशस्वती** अन्नवती कीर्तिमती वा **सो** चित् सैव प्रसिद्धा **उषाः** **मनवे** मनुष्याय यजमानाय **स्वर्वती** आदित्यवती सती **नु** क्षिप्रम् **उवास** उषितवती । उदितवतीत्यर्थः। कदोदितवती इत्युच्यते । **यत्** यदा **उशन्तं** स्तुतिं हविश्च कामयमानम् **उशतां** यष्टुं कामयमानानां संबन्धिनं **होतारं** देवानामाह्वातारं होमनिष्पादकं वा **ईम्** एनम् **अग्निम्** **अनु** **क्रतुं** स्तुतिकर्मणः पश्चात् विदथाय यजनीयाय यज्ञार्थं **जीजनन्** । ऋविग्यजमाना जनयन्तीत्यर्थः । तदोदितवतीति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The very auspicious, resounding, famous Dawn, ascends bringing the sun to man; when for thesacrifice after the worship they give birth to that **Agni**, the desirer, the invoker of the desiring (gods).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And even now Dawn, rich in cattle, rich in glory, accompanied by the  Sun, has dawned for Manu,  
 when they [=priests] beget Agni as Hotar for the ritual distribution—him  being eager for it and following the will of those who are (also) eager.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Yea, even this blessed Morning, rich in store of food, splendid, with heavenly lustre, hath shone out for man,  
      Since they, as was the wish of yearning Gods, brought forth that yearning Agni for the assembly as the Priest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch diese glückbringende, Vieh und Ehren einbringende Usas ist aufgeleuchtet, dem Menschen das Sonnenlicht bringend, wann sie den verlangenden Agni nach dem Sinn der verlangenden Götter als Hotri für das Opfer erzeugen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch diese schöne, nahrungsreiche, herrliche, die Uschas, ging dem Menschen auf mit Glanz begabt, Als nach der will'gen Götter Wunsch den willigen, den Agni sie, den Priester zeugten zu dem Fest.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 А эта вот дающая счастье, приносящая скот (и) славу  
 Ушас зажглась для человека, даруя свет,  

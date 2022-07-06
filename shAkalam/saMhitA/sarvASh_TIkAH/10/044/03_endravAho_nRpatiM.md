@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡न्द्रवा꣡हो नृप꣡तिं व꣡ज्रबाहुम्  
 उग्र꣡म् उग्रा꣡सस् तविषा꣡स एनम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ए꣡म् अस्मत्रा꣡ सधमा꣡दो वहन्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रऽत्व॑क्षसम् । वृ॒ष॒भम् । स॒त्यऽशु॑ष्मम् । आ । ई॒म् । अ॒स्म॒ऽत्रा । स॒ध॒ऽमादः॑ । व॒ह॒न्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *endravāho* ← *ā*
 - \[adverb\]
@@ -119,37 +119,37 @@ genre M
 **नृपतिं** नृणां पालकं **वज्रबाहुं** वज्रहस्तम् **उग्रम्** उद्गूर्णं **प्रत्वक्षसं** शत्रुबलाना प्रकर्षेण तनूकर्तारं **वृषभं** कामानां वर्षितारं 'सत्यशुष्मम् अविसंवादिबलम् **एनम्** इन्द्रम् । **आ** **इम्** इति पूरणौ । **उग्रासः** उद्गूर्णाः **तविषासः** प्रवृद्धाः **सधमादः** सह माद्यन्तः **इन्द्रवाहः** इन्द्रस्य वोढारः **अस्मत्रा** अस्मासु **आ** **वहन्तु** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the fierce, vigorous, exulting horses of **Indra** bring him here to us, the king of men, armed with thethunderbolt, fierce, the reducer of foes, the showerer (of benefits), whose strength is real.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the conveyors of Indra convey him here, the lord of men in whose  arm is the mace; mighty and forceful, let them convey him, the  
 mighty,  
 the bull who projects his vigor, possessing real unbridled power; let his  feasting companions convey him here among us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Let strong and mighty Steeds who bear this Mighty Indra, the Lord of men, whose arm wields thunder,  
      Bring unto us, as sharers of our banquet, the Steer of conquering might, of real vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen gewaltigen Fürsten mit der Keule im Arme sollen die indrafahrenden Rosse, die gewaltigen, starken, den überkräftigen Bullen, dessen Wut echt ist, seine Kumpane her zu uns zu fahren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Des Indra Rosse, seine Festgenossen, die starken kräft'gen mögen ihn, den starken, Den blitzbewehrten Herrn voll wahren Muthes, den mächt'gen Stier zu unserm Feste fahren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Господина мужей с ваджрой в руке, грозного,  
 Грозные, сильные возящие Индру (кони)  

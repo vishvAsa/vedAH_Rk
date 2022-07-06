@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ या꣡ जाना꣡ति ज꣡सुरिं  
 वि꣡ तृ꣡ष्यन्तं वि꣡ कामि꣡नम्  
 देवत्रा꣡ कृणुते꣡ म꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 दे॒व॒ऽत्रा । कृ॒णु॒ते । मनः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -92,20 +92,20 @@ genre M
 **या** शशीयसी **जसुरिं** व्यथितम् । जसिस्ताडनकर्मा उपक्षपणकर्मा वा । तं **वि** **जानाति** । तथा **तृष्यन्तं** **वि** जानाति । **कामिनं** धनाद्यभिलाषवन्तं **वि** जानाति । अनुकम्पया अभिमतं दत्तवतीत्यर्थः । **देवत्रा** देवेषु **मनः** **कृणुते** कुरुते देवप्रीत्यर्थं प्रदानबुद्धिं करोति या सैव स्त्रीति पूर्वत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “For she discerns one who suffers pain, one who is in want, or one desirous (of any thing), and directs her mind towards the gods.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 While she pays attention to a famished man, or to a thirsting one, or to  one who has desires [/lust],  
 and sets her own mind upon the gods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The relativization is loose, at least in the Eng. rendering. Literally it should be “More reliable than a man is a woman who discerns the thirsting one …,” etc.
 
@@ -124,23 +124,23 @@ As indicated in the published translation, I consider these vss. a digression re
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 She who discerns the weak and worn, the man who thirsts and is in want  
      She sets her mind upon the Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die den Hungrigen, den Dürstenden, den Begehrenden herausfindet und ihr Denken auf die Götter richtet.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die auf den erschöpften, auf den durstenden, auf den begehrenden achtet, die götterwärts ihren Sinn richtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Которая выискивает голодного,  
 Вы(искивает) жаждущего, (вы)искивает желающего  

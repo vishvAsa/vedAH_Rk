@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ दिवो꣡ बृहतः꣡ शृण्विरे꣡ गिरा꣡  
 सुशु꣡क्वानः सुभु꣡व एवया꣡मरुत्  
@@ -15,7 +15,7 @@ ChandaH = "अतिजगती"
 प्र꣡ स्यन्द्रा꣡सो धु꣡नीना᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -34,7 +34,7 @@ genre M
 न । येषा॑म् । इरी॑ । स॒धऽस्थे॑ । ईष्टे॑ । आ । अ॒ग्नयः॑ । न । स्वऽवि॑द्युतः । प्र । स्य॒न्द्रासः॑ । धुनी॑नाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -147,7 +147,7 @@ genre M
 **ये** मरुतः **बृहतः** महत: **दिवः** द्युलोकादागच्छन्तः **प्र** **शृण्विरे** शृण्वन्ति तान् मरुतः **गिरा** **एवयामरुत्** स्तुतवान्। कीदृशास्ते । **शुशुक्वानः** दीप्ताः **सुभ्वः** सुष्ठु भवन्तः । **येषां** मरुतां **सधस्थे** सहस्थाने स्वकीये निवासे तिष्ठताम् **इरी** ईरिता प्रेरित **न** **ईष्टे** **आ** न ईशते च चालयितुम् । इति चार्थे। **अग्नयो** **न** अग्नय इव **स्वविद्युतः** स्वयमेव विद्योतमानाः **धुनीनां** नदीनां **स्पन्द्रासः** वर्षणेन चालयितारश्च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -158,14 +158,14 @@ genre M
 In whose dwelling thereis: na yeṣām iri sadhasthe iṣṭe = **marutam** svakīye nivāse tiṣṭhatām **preritā** na iṣṭe na iṣṭate cālayitum, there is no impeller who has power to cause the movement of the **Maruts** when abiding in their own abode; impellers of the rivers: i.e., lightning as associated with rain, may be considered as giving impulse to the rivers
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who are heard from lofty heaven through a hymn [/on the mountain],  beautifully blazing, good in their essence—Maruts on the march—  
 in whose seat no meddler holds sway—  
 flashing out by themselves like fires—(the chariots?) of the boisterous  ones (go) forth streaming.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like vs. 2 this vs. begins with several relative clauses (yé pāda a, yéṣām c), with no clear main clause.
 
@@ -187,23 +187,23 @@ If syandrā́saḥ does not refer to the Maruts but to their chariots, we must e
 Geldner does the former, which isn’t satisfactory either, and Witzel Gotō stir the pot even further by supplying ‘weapons’ as the comparandum in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who by the psalm they sing are heard, from lofty heaven, the strong, the brightly shining Ones, Evayamarut;  
      In whose abode there is no mightier one to move them, whose lightnings are as fires, who urge the roaring rivers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die sich mit ihrem Loblied vom hohen Himmel her vernehmbar machen, die Schönflammenden, Stattlichen - Vishnu ist der, mit dem die Marut gern kommen - an deren Aufenthalt kein Mächtiger gebietet, von selbst blitzend wie die Feuer kommen die raschen Wagen der Brausenden hervor.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die vom hohen Himmel her mit ihrer Stimme sich hören lassen, die sehr leuchtenden, gewaltigen Evajämarut ; in deren Sitz kein Zwingherr seine Herrschaft übt, die selbst funkeln wie Flammen und eilen unter den brausenden (?).
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те,) что дают о себе знать песней с высокого неба,  
 Прекрасно сверкающие, цветущие – (и Вишну) вместе с быстродвижущимися Марутами –  

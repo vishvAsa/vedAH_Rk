@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धा गा꣡व उ꣡पमातिं कना꣡या  
 अ꣡नु श्वान्त꣡स्य क꣡स्य चित् प꣡रेयुः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आश्वघ्न꣡स्य वावृधे सूनृ꣡ताभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्रु॒धि । त्वम् । सु॒ऽद्र॒वि॒णः॒ । नः॒ । त्वम् । या॒ट् । आ॒श्व॒ऽघ्नस्य॑ । व॒वृ॒धे॒ । सू॒नृता॑भिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhā* ← *adha*
 - \[adverb\]
@@ -116,7 +116,7 @@ genre M
 **अध** संप्रति **कस्य** **चित्** **श्वान्तस्य** प्रवृद्धस्य श्रान्तस्य वा । आत्मनो निर्देशः । ईदृशस्य नाभानेदिष्ठस्य **कनायाः** कमनीयायाः स्तुतेः **गावः** वाचः । यद्वा । वाचः स्तुतयः कनायाः कमनीयायाः स्तुतेः **उपमातिम्** उपमानभूतमिन्द्रम् **अनु** **परेयुः** अनु परागच्छन्ति । हे **सुद्रविणः** सुधनाग्ने **त्वं** **श्रुधि** शृणु। **नः** अस्माकमिममिन्द्रं **याट्** अयाट् यज । **त्वं** च **आश्वघ्नस्य** अश्वघ्नोऽश्वमेधयाजी मनुः तस्य पुत्रस्य मम **सूनृताभिः** स्तुतिभिः **ववृधे** वर्धसे । पुरुषव्यत्ययः । अथवायं वर्धत इति परोक्षेण निर्देशः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,30 +127,30 @@ genre M
 Aśvaghna: patronymic from **Āśvaghna**, the slayer of sacrificer of a horse; aname of **Manu**, the father of Nābhānediṣṭha
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 And now the cows of the maiden [=Dawn] have gone forth, following  the distribution (of goods) of someone swollen (with wealth).  
 Listen to us, o you possessing good movable property; you, perform  sacrifice! I have grown strong through the liberal gifts of Āśvaghna  
 [/son of the horse-killer].
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Then went the milch-kine forth to please the damsel, and for the good of every man that liveth.  
      Hear us, O wealthy Lord; begin our worship. Thou hast grown mighty through Asvaghna's virtues.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nun sind die Kühe der Jungfrau fortgezogen gemäß der Zuweisung irgend eines Wohlhabenden. Erhöre uns, du Wohlbegüterter, opfere du! Ich bin von Gunstbeweisen des Asvaghna erbaut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dann gingen die Milchtränke auf die Anrede des Mädchens (?) oder irgend eines befreundeten hin [zu dir]; höre du uns, o güterreicher [Agni] und opfre für uns; durch des Açvaghna reiche Gaben ward er stark.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

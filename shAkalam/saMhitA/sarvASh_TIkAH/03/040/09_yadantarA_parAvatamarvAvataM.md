@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अन्तरा꣡ पराव꣡तम्  
 अर्वाव꣡तं च हूय꣡से  
 इ꣡न्द्रेह꣡ त꣡त आ꣡ गहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; repeated line
 इन्द्र॑ । इ॒ह । ततः॑ । आ । ग॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat*
 - \[adverb\]
@@ -88,20 +88,20 @@ genre M;; repeated line
 हे **इन्द्र** **यत्** यस्मिन् **परावतम्** अतिविप्रकृष्टस्य देशस्य **अर्वावतं** अतिसंनिकृष्टस्य देशस्य **च** **अन्तरा** तयोर्मध्यदेशे **हूयसे** सम्यगिज्यसे **ततः** तस्माद्देशात् **इह** अस्मिन् यज्ञे **आ** **गहि** सोमपानार्थमागच्छ ॥ परावतम् अर्वावतम् । अन्तरान्तरेण युक्ते' (पा. सू. २. ३. ४ ) इति द्वितीया । ततः । पञ्चम्यास्तसिल्। लित्व््रः ॥ ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whether you are called from nigh or from afar, or from mid-space, come hither, **Indra**, from thence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 If you are invoked between the far and the nearby,  
 Indra, come here from there.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details open><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ On the “magic square” of these vss., see published introduction. Vs. 9 actua
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 When from the space between the near and far thou art invoked by us,  
      Thence, Indra. come thou hitherward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du unterwegs in die Ferne und Nähe gerufen wirst, so komm von dort her, Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wenn zwischen Näh' und Ferne du, o Indra angerufen wirst, So komm von dort hieher zu uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Если посередине между далью  
 И близью зовут (тебя),  

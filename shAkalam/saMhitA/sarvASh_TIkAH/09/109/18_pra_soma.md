@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सोम याहि इ꣡न्द्रस्य कुक्षा꣡  
 नृ꣡भिर् येमानो꣡ अ꣡द्रिभिः सुतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 प्र । सो॒म॒ । या॒हि॒ । इन्द्र॑स्य । कु॒क्षा । नृऽभिः॑ । ये॒मा॒नः । अद्रि॑ऽभिः । सु॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -75,19 +75,19 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 हे **सोम** **नृभिः** ऋत्विग्भिः **येमानः** नियम्यमानः **अद्रिभिः** ग्रावभिः **सुतः** अभिषुतः त्वम् **इन्द्रस्य** **कुक्षा** ॥ सप्तम्या डादेशः ॥ कुक्षावुदरभूते कलशे वा **प्र** **याहि** प्रकर्षेण गच्छ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Guided by the priests and effused with the stones go, **Soma**, to **Indra**'s belly.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Soma, journey forth to the cheeks of Indra, being guided by men,  pressed by stones.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On kukṣí- ‘cheek’ see comm. ad III.36.8, VIII.92.24.
 
@@ -101,22 +101,22 @@ Vss. 16 and 17 contain the sequence akṣāḥ sahásra(-dhāraḥ / -retaḥ) i
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed out with stones, directed by the men, go fortli, O Soma, into Indra's throat.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zieh fort in Indra´s Bauch, o Soma, von den Männern gelenkt, mit Steinen ausgepreßt!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor schreite, Indu, – in Indra's Bauch nun, gelenkt von Männern, – gepresst von Steinen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Продвигайся вперед, о сома, к Индре в живот,  
 Направляемый мужами, выжатый камнями.

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡ता धि꣡यं कृण꣡वामा सखायो  
 अ꣡प या꣡ माताँ꣡ ऋणुत꣡ व्रजं꣡ गोः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡या वणि꣡ग् वङ्कु꣡र् आ꣡पा पु꣡रीषम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यया॑ । मनुः॑ । वि॒शि॒ऽशि॒प्रम् । जि॒गाय॑ । यया॑ । व॒णिक् । व॒ङ्कुः । आप॑ । पुरी॑षम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etā* ← *\_* ← *√\_*
 - \[?\]
@@ -130,7 +130,7 @@ genre M
 इदमप्यङ्गिरसां वाक्यम् । **एत** आगच्छत । आगत्य च **धियं** स्तुतिं **कृणवाम** करवाम । हे **सखायः** परस्परं सखिभूता अङ्गिरस इत्यङ्गिरसां वचनम् । **या** धीः **माता** गवां निर्मात्री **गोः** गवां **व्रजं** पणिभिरपहृतम् **अप** **ऋणुत** अपावृणोत् । **यया** च **मनुः** **विशिशिप्रं** विगतहनुं शत्रुं **जिगाय** जितवान् । यद्वा । मनुः सर्वस्य मन्तेन्द्रो विशिशिप्रो वृत्रः । स तमस्माभिः कृतया स्तोमलक्षणया धिया जिगाय । **यया** च **वणिक्** वणिगिवाल्पेन कर्मणा बहुफलाकाङ्क्षी कक्षीवान् **वङ्कुः** जलेच्छया वनगामी **पुरीषं** पूरकमुदकम् **आप** । ' याभिः सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशः ' ( ऋ. सं. १. ११२. ११ ) इति हि श्रुतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,14 +141,14 @@ genre M
 Viśisipra: **manur** viśisipram jigāya = Manu conquered the enemy without a chin, or as **śipra** means also a nose, it might mean noseless; **Indra** and **Vṛtra** may be here intended; by which the merchant: **vaṇij** vaṅkur āpā purīṣam: an allusion to the legend of **kakṣīvān**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come on! Comrades, let us create (the same) poetic vision with which the  mother opened the enclosure of the cow,  
 with which Manu conquered Viśiśipra, with which the wandering  
 merchant reached the overflowing source (of goods?).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Unlike the first hortatory vs., this second one is not entirely tied to the hereand-now; rather it provides three separate historical/mythological models for the effective poetic vision (dhī́-) that we are aiming to create now (pāda a). The first model (b) appears to be a variant of the Vala myth so prominent in the rest of the hymn, but those in c and d are obscure.
 
@@ -174,23 +174,23 @@ As noted in the published introduction, these two vss. form an omphalos and are 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come, let us carry out, O friends, the purpose wherewith the Mother threw the Cow's stall open,  
      That wherewith Manu conquered Visisipra, wherewith the wandering merchant gained heaven's water.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wohlan! Wir wollen das Gebet verrichten, ihr Freunde, durch das die Mutter den Pferch der Kuh aufschloß, durch das Manu den Visisipra besiegte, durch das der fliegende Kaufmann den Quell erlangte.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt, Freunde, her, lasst uns Gebet verrichten, durch das die Mutter sich erschloss den Kuhstall, Durch das einst Manu schlug den Viçiçipra, durch das der rege Händler Nass erlangte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ну вот! Мы сотворим молитву, друзья,  
 Благодаря которой мать открыла загон для скота,  

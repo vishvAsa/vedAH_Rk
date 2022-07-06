@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नृच꣡क्षसं तुवा वय꣡म्  
 इ꣡न्द्रपीतं सुवर्वि꣡दम्  
 भक्षीम꣡हि प्रजा꣡म् इ꣡षम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 भ॒क्षी॒महि॑ । प्र॒ऽजाम् । इष॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nṛcakṣasaṃ* ← *nṛ*
 - \[noun\], masculine
@@ -85,7 +85,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे सोम **नृचक्षसं** नृणां द्रष्टारं **स्वर्विदं** सर्वज्ञम् **इन्द्रपीतम्** इन्द्रेण पीतं **त्वा** त्वां पिबन्तः **वयं** काश्यपासिताः काश्यपदेवला वा **प्रजां** पुत्रादिकाम् **इषम्** अन्नं च **भक्षीमहि** भजेमहि ॥ ॥ ३१ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -96,29 +96,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 The knower of all things: Or, the knower of heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we have a share in you, drawing the gaze of men, drunk by Indra,  finding the sun—  
 and a share in offspring and refreshment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we obtain thee, Indra's drink, who viewest men and findest light,  
      Gain thee, and progeny and food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich mit dem Herrenauge, den von Indra Getrunkenen, der das Sonnenlicht findet, wollen wir genießen und Nachkommenschaft und Speisesegen empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich Männer schaunden flehen wir, den Indra trinkt, der Glanz verschafft: Lass Kind und Nahrung uns empfahn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тебя со взглядом героя,  
 Выпитого Индрой, находящего солнце,  

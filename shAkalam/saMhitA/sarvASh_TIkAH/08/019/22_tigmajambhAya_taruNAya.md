@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिग्म꣡जम्भाय त꣡रुणाय रा꣡जते  
 प्र꣡यो गायसि अग्न꣡ये  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 अग्नि꣡र् घृते꣡भिर् आ꣡हुतः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यः । पिं॒शते॑ । सू॒नृता॑भिः । सु॒ऽवीर्य॑म् । अ॒ग्निः । घृ॒तेभिः॑ । आऽहु॑तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tigmajambhāya* ← *tigma*
 - \[noun\]
@@ -107,36 +107,36 @@ genre M
 **तिग्मजम्भाय** तीक्ष्णज्वालाय **तरुणाय** नित्ययूने जरामरणरहिताय **राजते** राजमानाय **अग्नये** **प्रयः** हविर्लक्षणमन्नं **गायसि** हे स्तोतः । प्रवृद्धिं प्रयच्छेत्यर्थः । **यः** **अग्निः** **सूनृताभिः** प्रियसत्यात्मिकाभिर्वाग्भिः स्तुतः **घृतेभिः** घृतैराज्यैः **आहुतः** अभिहुतश्च सन् **सुवीर्यं** शोभनवीर्यं **पिंशते** आश्लेषयति स्तोतृभिः संयोजयति । ‘पिश अवयवे' । तस्मा अग्नय इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Offer (sacriicial) food to that bright-shining, every-youthful, royal **Agni**, who, (when gratified) by sincerepraises, and worshipped with oblations, bestows excellent **male** offspring.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To the sharp-fanged one, the ruler of tender age—to Agni do you sing  delight,  
 Agni who adorns his mass of heroes with his liberal gifts, when he is  bepoured with ghee.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou unto sharp-toothed Agni, Young and Radiant God, proclaimest with thy song the feast-  
      Agni, who for our sweet strains moulds heroic strength when sacred oil is offered him,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem scharfzahnigen, jungen, herrschenden Agni singst du einen Ohrenschmaus, der die Meisterschaft mit freigebigen Geschenken auszeichnet, Agni, dem Schmalz geopfert wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem scharfgezahnten, ihm, dem jungen, glänzenden, dem Agni sing ein Wonnelied, Ihm, der mit Schönheit schmücket seinen Heldenleib, wenn er mit Schmalz beträufelt ist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Острозубому, молодому правящему  
 Агни ты поешь (песнь, вызывающую) радость,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मम् इन्द्राबृहस्पती  
 पि꣡बतं दाशु꣡षो गृहे꣡  
 माद꣡येथां त꣡दोकसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 मा॒दये॑थाम् । तत्ऽओ॑कसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
@@ -73,7 +73,7 @@ genre M
 हे **इन्द्राबृहस्पती** युवां **दाशुषः** हविर्दातुर्यजमानस्य **गृहे** **तदोकसा** । तदेव यजमानगृहमोको निवासस्थानं ययोस्तौ । तादृशौ सन्तौ **सोमं** **पिबतम्** । पीत्वा च **मादयेथाम्** इति ॥ ॥२५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -84,28 +84,28 @@ genre M
 Dāśuṣo = of the donor
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the soma, o Indra and Br̥haspati, in the house of the pious one. Become exhilarated, being at home with it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drink, Indra and Brhaspati, the Soma in the giver's house:  
      Delight yourselves abiding there.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trinkt, Indra und Brihaspati, den Soma im Hause des Opferspenders, berauschet euch, die ihr das gewohnt seid!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trinkt, Indra-Brihaspati, den Soma in des Frommen Haus; Berauscht euch, wie ihr's gerne thut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пейте, о Индра-Брихаспати,  
 Сому в доме почитающего (вас)!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ सो꣡मासो विपश्चि꣡तो  
 अपां꣡ न꣡ यन्ति ऊर्म꣡यः  
 व꣡नानि महिषा꣡ इव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वना॑नि । म॒हि॒षाःऽइ॑व ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,41 +79,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विपश्चितः** मेधाविनः **सोमासः** सोमाः **प्र** **यन्ति** प्रगच्छन्ति पात्राणि प्रति । किमिव । **अपाम्** **ऊर्मयः** **न** । ते यथा संततमुद्भवन्ति तद्वत् । बाहुल्येऽयं दृष्टान्तो दर्शितो गमने दृष्टान्तरमभिधीयते । **वनानि** **महिषाः** प्रवृद्धा मृगाः **इव** । अथवा स्वाश्रयात् प्रपतने प्रथमो दृष्टान्तो द्वितीयस्तु दशापवित्रादधःप्रवेशे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The intelligent **Soma** juices rush along like waves of water, like buffaloes to the forests.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Forth go the soma juices, attentive to poetic inspiration, like waves of the  waters,  
 to the wooden (cups) like buffaloes to the woods.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 vánāni must be read with both frame (wooden [cups]) and simile (woods / forest, into which the buffalo go).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 LIKE waves of waters, skilled in song the juices of the Soma speed  
      Onward, as buffaloes to woods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die redekundigen Somatränke gehen vorwärts wie die Wogen der Gewässer in die Holzgefäße, wie die Büffel in die Wälder.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie Wasserwellen eilen vor die Soma's, die begeisterten, Wie Büffel in die Wälder gehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соки сомы, знающие вдохновение,  
 Продвигаются вперед, как волны на воде,  

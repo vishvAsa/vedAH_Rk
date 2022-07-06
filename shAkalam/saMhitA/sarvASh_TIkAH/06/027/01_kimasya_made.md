@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 कि꣡म् अस्य म꣡दे कि꣡म् उ अस्य पीता꣡व्  
 इ꣡न्द्रः कि꣡म् अस्य सखिये꣡ चकार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरा꣡ विविद्रे कि꣡म् उ नू꣡तनासः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 रणाः॑ । वा॒ । ये । नि॒ऽसदि॑ । किम् । ते । अ॒स्य॒ । पु॒रा । वि॒वि॒द्रे॒ । किम् । ऊं॒ इति॑ । नूत॑नासः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
@@ -148,7 +148,7 @@ genre M
 भरद्वाज ऋषिः फलविलम्बनासहिष्णुः सन् अनयेन्द्रमाक्षिपति । **अस्य** सोमस्य **मदे** सति **इन्द्रः** **किं** **चकार** कृतवान् । **किमु** किंच **अस्य** सोमस्य **पीतौ** पाने सति किं चकार । **अस्य** सोमस्य **सख्ये** सखित्वे **किं** चकार । पानात् पूर्वम् इन्द्रः सोमेन सह वसतीत्यर्थः । **अस्य** सोमस्य **निषदि** गृहे **रणा** **वा** **ये** स्तोतारश्च सन्ति ते स्तोतारः **पुरा** पूर्वं हे इन्द्र **ते** त्वत्तः **किं** **विविद्रे** किं लेभिरे । **नूतनास:** नूतना इदानींतनाः स्तोतारश्च **किमु** लेभिरे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -159,13 +159,13 @@ genre M
 The ṛṣi is expressing his impatience at the dealing of the reward of his praises; in the next stanza, he recants
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 What did Indra create in the exhilaration of it, what at the drinking of it?  what in the fellowship of it?  
 Or those [=priests] who were there with joy at the installation of it— what did those previous ones acquire? what do the current ones?
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is structured by the extreme repetition of kím, found 5 times in interlocking sets. In the 1st hemistich 3 occur in the phrase kím (u) asya LOC. The 1st 2 are initial in the 1st pāda and immediately after the caesura, while the third one, rather than opening the 2nd pāda, gives the impression of syncopation by being placed after pāda-initial índraḥ. The third pāda has the sequence in scrambled order: … LOC kím  (té) asya, with the tonic prn. té incongruously inserted. The last kím u, in pāda d, lacks both asya and the LOC, but clearly is conjoined with kím in pāda c with the rest of the phrase construction truncated.
 
@@ -191,23 +191,23 @@ These two vss. form a tight pair, whose responsions are detailed below.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WHAT deed hath Indra done in the wild transport, in quaffing or in friendship with, the Soma?  
      What joys have men of ancient times or recent obtained within the chamber of libation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Was hat Indra im Rausche dieses Soma und was bei seinem Trunk, was in seinem Bunde getan? Oder was seine guten Launen bei der Opfersitzung sind, was haben die vordem und was neuerdings erreicht?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Was hat in dieses Soma's Rausch und Trunke Indra vollbracht? und was mit ihm im Bunde? Was haben seine Freuden hier beim Schmause zuvor gewirkt? und was die gegenwärt'gen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Что в опьянении им и что при питье его,  
 Что сделал Индра в союзе с ним?  

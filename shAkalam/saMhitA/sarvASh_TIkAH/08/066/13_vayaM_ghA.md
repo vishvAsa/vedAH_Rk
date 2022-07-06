@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वयं꣡ घा ते तुवे꣡ इ꣡द् उ  
 इ꣡न्द्र वि꣡प्रा अ꣡पि ष्मसि  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 म꣡घवन्न् अ꣡स्ति मर्डिता꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 न॒हि । त्वत् । अ॒न्यः । पु॒रु॒ऽहू॒त॒ । कः । च॒न । मघ॑ऽवन् । अस्ति॑ । म॒र्डि॒ता ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
@@ -116,36 +116,36 @@ genre M
 हे इन्द्र वयङ्घ वयङ्खलु तेतव स्वभूता अतस्त्वेइत् त्वय्येव विप्रा मेधाविनः स्तोतारोपि स्मसि अपिः सम्भावनायां त्वदधीनाः स्मेत्यर्थः । अन्यान्वि- हायेन्द्रएव वर्तते तस्मिन्कोतिशयइत्याह-हे पुरुहूत त्वदन्यः कश्चन हे मघवन्मर्डिता सुखयिता नह्यस्ति ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, we are your, therefore we, your worshippers, depend on you; other than you, **Maghavan**, invokedof many, there is no giver of happiness.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We are yours; we inspired poets abide just in you, o Indra,  
 for there exists no other dispenser of mercy than you, o bounteous one  invoked by many.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Verily, Indra, we are thine, we worshippers depend on thee.  
      For there is none but only thou to show us race, O Maghavan, thou much invoked.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir sind dein; nur bei dir, Indra, finden wir Redekundigen Zuflucht, denn außer dir gibt es auch nicht einen anderen Erbarmer, Vielgerufener, Gabenreicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir Sänger, Indra, sind ja dein, mit dir sind eng verbunden wir; Denn ausser dir, o vielgerufner, mächtiger, ist keiner, der uns Huld erweist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы же твои. Только тебе,  
 О Индра, принадлежим мы, вдохновенные.  

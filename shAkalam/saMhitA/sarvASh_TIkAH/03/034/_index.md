@@ -8,7 +8,7 @@ title = "+034"
 इंद्रः पूर्भिदित्येकादशर्चं पंचमं सूक्तं वैश्वामित्रं त्रैष्टुभमैंद्रं । अत्रानुक्रमणिका । इंद्रः पूर्भिदेकादशेति ॥ अग्निष्टोमे माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्र इंद्रः पूर्भिदिति सूक्तं । होत्रकाणामिति खंडे सूत्रितं । इंद्रः। पूर्भिदुदु ब्रह्माणि । आ° ५. १६.। इति ॥ पृष्ठ्याभिप्लवषडहयोः प्रथमेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रे चातुर्विंशिकातिदिष्टस्याहीनसूक्तस्य स्थाने त्रीणि संपातसूक्तानि। तत्रेदं प्रथमं । इंद्रः पूर्भिद्य एक इद्यस्तिग्मगशृंगः । आ० ७.५.। इति ॥ उद्भिद्वलभिदोर्निष्केवल्य एतत्सूक्तं निविद्धानीयं । सूत्रितं च । इंद्र सोममिंद्रः पूर्भिदिति मध्यंदिनः । आ° ९.८.। इति ॥
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 34 (268)  
 Indra  
@@ -20,7 +20,7 @@ The poets’ role in spurring Indra to victory is mentioned several times at the
 One curious feature of the hymn is the presence of phraseology and imagery  characteristic of the god Agni in 3cd and of fire-priests in 4ab. The point of contact  is probably to be found in verse 4, where Indra is said to win the sun and make it  shine, and to find the light, since the kindling of the ritual fire at dawn is associated  with and often presented as the cause of the sunrise.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Indra
 </details>

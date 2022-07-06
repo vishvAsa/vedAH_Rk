@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 विशां꣡ कविं꣡ विश्प꣡तिं श꣡श्वतीनां  
 नितो꣡शनं वृषभं꣡ चर्षणीना꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 रा꣡जन्तम् अग्निं꣡ यजतं꣡ रयीणा꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 प्रेति॑ऽइषणिम् । इ॒षय॑न्तम् । पा॒व॒कम् । राज॑न्तम् । अ॒ग्निम् । य॒ज॒तम् । र॒यी॒णाम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
@@ -98,7 +98,7 @@ genre M
 **शश्वतीनां** नित्यानां विशाम् ऋत्विग्यजमानलक्षणानां विश्पतिं स्वामिनं कविं क्रान्तदर्शिनं **नितोशनं** शत्रूणां हिंसकं वृषभं कामानां वर्षकं चर्षणीनां स्तोतॄणां मनुष्याणां प्रेतीषणिं प्राप्तगमनम् इषयन्तम् अन्नं कुर्वन्तं पावकं शोधकं **राजन्तं** दीप्यमानं दीपयन्तं वा रयीणां लाभाय यजतं यष्टव्यम् **अग्निं** स्तुम इति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,29 +109,29 @@ genre M
 The lord of men: viśpatim viśām śaśvatīnām: the epithet is explained, nityānām ṛtvig **yajamāna** lakṣaṇānām, i.e., their regular and perpetual observance of religious instrumental tutes
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You do we implore), the sage poet, the clanlord of each and every clan,  the lavishly overflowing bull of the settled domains,  
 impelling the forward progress (of the sacrifice), prospering, pure—Agni  who deserves the sacrifice, who rules over riches.774 VI.2
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sage of mankind, all peoples' Lord and Master, the Bull of men, the sender down of blessings,  
      Still pressing on, promoting, purifying, Agni the Holy One, the Lord of riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den weisen Herrn aller Clane, den mit Gaben überschüttenden Bullen der Völker, der das Auftreten des Opferpriesters wünscht, den Opfer genießenden, lauteren, über Reichtümer gebietenden, opferwürdigen Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Zum Menschenhort, dem Herrn der Menschenstämme, zum spendereichen Fürsten der Lebend'gen; Der vorwärts strebt, dem eilenden Entflammer, dem hehren Agni, der der Schätze waltet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Мы обращаемся) к поэту, к господину (всех) сменявших друг друга племен,  
 К изливающему (дары), быку народов,  

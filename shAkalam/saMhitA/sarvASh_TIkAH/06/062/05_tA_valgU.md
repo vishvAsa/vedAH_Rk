@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ता꣡ वल्गू꣡ दस्रा꣡ पुरुशा꣡कतमा  
 प्रत्ना꣡ न꣡व्यसा व꣡चसा꣡ विवासे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 बभूव꣡तुर् गृणते꣡ चित्र꣡राती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 या । शंस॑ते । स्तु॒व॒ते । शम्ऽभ॑विष्ठा । ब॒भू॒वतुः॑ । गृ॒ण॒ते । चि॒त्ररा॑ती॒ इति॑ चि॒त्रऽरा॑ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
@@ -115,44 +115,44 @@ genre M
 ”या यौ **शंसते** शस्त्रैः स्तुतिं कुर्वते **स्तुवते** स्तोत्रैः स्तुतिं कुर्वते जनाय **शंभविष्ठा** अतिशयेन सुखस्य भावयितारौ अतिशयेन सुखस्वरूपौ वा **गृणते** स्तोत्रशस्त्रव्यतिरिक्तलौकिकस्तुतिभिः स्तुवते च **चित्रराती** विचित्रदानौ **बभूवतुः** **ता** तौ **वल्गू** वलनशीलौ रुचिरौ वा **पुरुशाकतमा** अतिशयेन बहुकर्माणौ बहुसहायौ वा **प्रत्ना** प्रत्नौ पुराणौ। 'प्रत्नं प्रदिवः' इति पुराणनामसु पाठात् । **दस्रा** दर्शनीयौ अश्विनौ **नव्यसा** नवतरेण वचसा स्तुत्या **आ** **विवासे** परिचरामि ॥ ॥१॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I worship with a new hymn those two quick-moving good-looking ancient (**Aśvins**), the achievers of many exploits, who are the givers of great felicity to him who prays to (them), or praises (them); the bestowers of wondrous gifts on him who adores (them).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The two, obliging and skillful, best endowed with many abilities—those  age-old ones do I seek to attract here with my newer speech—  
 those two who become most wealful for the reciter and praiser,  
 providing bright gifts to the singer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The stems návyas- ‘newer’ and pratná- ‘age-old’, found at opposite ends of the preceding vs. (a and d), are juxtposed here in the phrase pratnā́návyasā, in case the duller members of the audience had missed the contrastive terminology in 4. But this phrase is doing two other things as well: du. pratnā́refers to the Aśvins, who were, in 4d, identified as yúvānā ‘youths’; and návyasā modifies vácasā, “with a newer speech,” repairing the slightly off phrase in 4a, where it was the singer, not his song, who was newer.
 
 The pf. babhūvátuḥ should not have been rendered as a straight pres. in the published translation I would change to “who have become.” It also forms a slight figure with śámbhaviṣṭhā, which precedes it immediately before the pāda break.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With newest hymn I call those Wonder-Workers, ancient and brilliant, and exceeding mighty,  
      Bringers of bliss to him who lauds and praises, bestowing varied bounties on the singer.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die schönen, meisterlichen, vielvermögendsten uralten Asvin bitte ich mit neuester Rede her, die dem Vortragenden und Lobsingenden am meisten gewogen sind und dem Preisenden blinkende Gaben bringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die schönen, hehren, die an Kräften reichsten, die alten ehr' ich mit dem neusten Liede, Die hülfreich stets dem Dichter, der sie rühmte, dem Sänger reich an schönen Gaben waren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этих двоих милых, чудесных, самых всемогущих  
 Древних (Ашвинов) я хочу привлечь к себе речью поновее,  

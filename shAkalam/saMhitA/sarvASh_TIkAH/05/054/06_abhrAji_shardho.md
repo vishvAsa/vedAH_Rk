@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡भ्राजि श꣡र्धो मरुतो य꣡द् अर्णस꣡म्  
 मो꣡षथा वृक्षं꣡ कपने꣡व वेधसः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 च꣡क्षुर् ऽव° य꣡न्तम् अ꣡नु नेषथा सुग꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अध॑ । स्म॒ । नः॒ । अ॒रम॑तिम् । स॒ऽजो॒ष॒सः॒ । चक्षुः॑ऽइव । यन्त॑म् । अनु॑ । ने॒ष॒थ॒ । सु॒ऽगम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhrāji* ← *bhrāj*
 - \[verb\], singular, Aorist passive
@@ -121,21 +121,21 @@ genre M
 हे **वेधसः** वृष्टेर्विधातारो हे **मरुतः** **शर्धः** भवतां गणम् **अभ्राजि** भ्राजते । **यत्** यस्मात् **अर्णसम्** उदकवन्तं **वृक्षम्** । वृश्च्यते विदार्यत इति वृक्षो मेघः । तं **मोषथ** ताडयथेत्यर्थः । **कपनेव**। इवेत्यनर्थकः । कम्पनाः सन्तः । यद्वा । कपनाः कृमयो वृक्षं घुणादयः । ते यथा मुष्णन्ति तद्वत् । **अध** अपि च । **स्म** इति पूरणः । **नः** अस्मान् । मामित्यर्थः । हे **सजोषसः** युष्मासु परस्परं समानप्रीतयो यूयम् **अरमतिम्** आरमणं धनादिकं प्रति **यन्तं** 'गच्छन्तम् **अनु** **नेषथ** अनुक्रमेण नयथ **सुगं** सुगमनं मार्गम् । तत्र दृष्टान्तः । **चक्षुरिव** । तद्यथा मार्गप्रदर्शनेन नायकं भवति तद्वत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Maruts**, dispensers of rain, your strength is manifested when, shaking the water-laden cloud, you let loose the shower; conjointly propitiated, conduct us by an easy path leading to prosperity, as the eye (shows the way).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 When the heaving troop has flashed, o Maruts, you will plunder the tree  like a caterpillar, you (ritual) adepts.  
 Then in concert you will lead Proper Thinking [/Aramati] to us along  an easy way, like the eye (of the sun? of the traveler himself?)  
 (leading) the traveler.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 My interpr. follows that of Narten (Sig.Aor. 195-96), with the first pāda consisting of the yád clause, the 2nd the main cl. Both Geldner and Renou take the first part of pāda a as the main cl., with the dependent clause starting with yád. Although yád is better positioned in their interpr. than in Narten’s, they must make arṇasám an obj.
 
@@ -156,23 +156,23 @@ The s-aor. subj. neṣathā ‘you will lead’ is particularly appropriate to t
 arámati-, the personified feminine Proper Thinking, since the verb √nī, esp. in sigmatic forms, becomes specialized for leading females in ritual settings; cf. the priestly title Neṣṭar. Although néṣṭar- probably owes its -ṣ- to crossing of the agent noun nétar- with Tvaṣṭar (tváṣṭar-), who is also associated with ritual females (see EWA s.v. néṣṭar-), its apparent coincidence with the neṣ of the s-aor. could spread the semantics.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bright shone your host, ye Sages, Maruts, when ye smote the waving tree as when the worm consumeth it.  
      Accordant, as the eye guides him who walks, have ye led our devotion onward by an easy path.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eure Heerschar, ihr Marut, erglänzte, als ihr das Rindermeer beraubtet wie die Raupe den Baum, ihr Meister. Nun möget ihr Einträchtigen, unsere Andacht auf den guten Weg führen wie das Auge den Gehenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Scharen glänzt ihr Maruts, wenn das Wolkenmeer ihr, wie den Baum die Raupe, plündert, holdgesinnt; Vereinigt leitet vorwärts unsre Andacht nun zu schönem Ziele, wie das Aug' den Sehenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Засверкала (ваша) толпа, о Маруты, когда вы разграбили  
 Поток (коров), словно гусеница (опустошает) дерево, о умелые.  

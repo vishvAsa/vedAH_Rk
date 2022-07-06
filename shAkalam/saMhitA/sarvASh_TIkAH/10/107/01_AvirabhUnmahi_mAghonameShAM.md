@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आवि꣡र् अभून् म꣡हि मा꣡घोनम् एषां  
 वि꣡श्वं जीवं꣡ त꣡मसो नि꣡र् अमोचि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उरुः꣡ प꣡न्था द꣡क्षिणाया अदर्शि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 महि॑ । ज्योतिः॑ । पि॒तृऽभिः॑ । द॒त्तम् । आ । अ॒गा॒त् । उ॒रुः । पन्थाः॑ । दक्षि॑णायाः । अ॒द॒र्शि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvir* ← *āvis*
 - \[adverb\]
@@ -132,36 +132,36 @@ popular
 इदं सूक्तं दक्षिणाया वा तद्दातॄणां वा स्तावकम् । दक्षिणा तु यागाङ्गं यागस्तु सायंकाले न क्रियते । न सायमस्ति देवया अजुष्टम् ' ( ऋ. सं. ५, ७७, २ ) इत्यादिश्रवणात्। तस्मात् अह्येि व कर्तव्यः । अहश्च सूर्योदयात्पश्चाद्भवतीति सूक्तादौ सूर्योदयोऽभिधीयते । **माघोनम्** । मघवेन्द्रः। इन्द्रश्च सूर्यः ‘ चैत्रमासे तयोरिन्द्रः' इति स्मरणात् । तस्य संबन्धि ॥ ‘ तस्येदम् । इत्यण् । अतद्धिते प्रत्यये संप्रसारणमभिहितम् (पा. सू. ६. ४. १३३ )। सर्वविधीनां छन्दसि विकल्पितत्वादत्र तद्धितेऽपि संप्रसारणम् ॥ सूर्यात्मकस्येन्द्रस्य स्वभूतं **महि** महत् तेजः **एषां** यजमानानां यागसिद्ध्यर्थम् **आविरभूत्** । प्रकाशितमुद्गतमभूत् । तत्र **विश्वं** सर्वं **जीवं** स्थावरजङ्गमात्मकं जगत् **तमसः** सकाशात् **निरमोचि** निर्मुक्तमभूत्। मुञ्चतेः कर्मलुङि चिणि रूपम् । अथानन्तरं **पितृभिः** यत् पितृभिर्देवैः **दत्तं** नो हविषामागमनाय तत् **महि** महत् **ज्योतिः** सूर्याख्यम् **आगात्** आगच्छति । पश्चात् **दक्षिणायाः** यागाङ्गभूतायाः **उरुः** महान् **पन्थाः** मार्गः **अदर्शि** सर्वैर्यंजमानैर्दृष्टोऽभूत् । सर्वे यागं कृत्वा ऋत्विग्भ्यो दक्षिणां दत्तवन्त इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The great (splendour) of **Maghavan** has becomemanifest (for the rites) of these (worshippers); all lifehas been extricated from darkness, the vast light bestowed by the progenitors has arrived, a spacious path forthe **dakṣiṇā** has been displayed. (I Maghavan: Mqaghavan = the sun, at whose rising and at midday thedakṣiṇā is to be given, not at sunset; cf. RV. 5.77.2\].”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Their great generosity has been revealed. All life has been freed from  darkness;  
 the great light, given by the forefathers, has come. The wide path for the  priestly gift has become visible.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THESE men's great bounty hath been manifested, and the whole world of life set free from darkness.  
      Great light hath come, vouchsafed us by the Fathers: apparent is the spacious path of Guerdon.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Jetzt hat sich deren große Freigebigkeit geoffenbart; alles Lebende ist jetzt von der Finsternis erlöst. Das große, von den Vätern gespendete Licht ist gekommen: Der breite Weg der Daksina ist sichtbar geworden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es hat sich offenbart die grosse Freigiebigkeit dieser Männer, alles Lebende hat sich der Dunkelheit entwunden; das von den Vätern verliehene grosse Licht ist gekommen, der breite Weg des Opferlohnes hat sich gezeigt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Явной стала их великая щедрость.  
 Все живое освободилось из мрака.  

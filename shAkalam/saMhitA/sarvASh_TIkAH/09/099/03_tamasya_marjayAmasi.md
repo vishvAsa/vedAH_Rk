@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् अस्य मर्जयामसि  
 म꣡दो य꣡ इन्द्रपा꣡तमः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 पुरा꣡ नूनं꣡ च सूर꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 यम् । गावः॑ । आ॒सऽभिः॑ । द॒धुः । पु॒रा । नू॒नम् । च॒ । सू॒रयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -106,7 +106,7 @@ genre M
 **अस्य** सोमस्य **तं** रसं **मर्जयामसि** मर्जयामः शोधयामः । अलंकुर्मो वा। **यः** **मदः** मदको रसः **इन्द्रपातमः** इन्द्रेणात्यन्तं पातव्यो भवति । किंच **गावः** गन्तारः **सूरयः** स्तोतारः **पुरा** **च** **नूनम्** इदानीं च **यं** सोमरसम् **आसभिः** आस्यैः **दधुः** धारयन्ति । पिबन्तीति यावत् । यद्वा । गावो धेनवो यं सोमं तृणादिष्ववस्थितमासभिरास्यैर्दधुर्धारयन्ति तृणरूपेण भक्षयन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -117,13 +117,13 @@ genre M
 Approaching: **gāvaḥ**; 'which the cows take up in their mouths, eating it in the form of grass
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We groom this one of his [=Vivasvant?], the one who is exhilaration,  Indra’s best drink,  
 whom the cows have previously sucked with their mouths and now the  patrons do.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I am not certain of the referent of asya in pāda a. Geldner and Renou seems to interpr.
 
@@ -136,23 +136,23 @@ The 2nd hemistich contains a striking conceptual reversal: the “cows” suck s
 On the configuration of pāda d see Klein, DGRV I.95-96.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 We cleanse this gladdening drink of his the juice which Indra chiefly drinks---  
      That which kine took into their mouths, of old, and princes take it now.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Seinen Rauschtrank machen wir sauber, der von Indra am meisten getrunken wird, den vorher die Rinder mit ihren Mäulern gesaugt haben und jetzt die Opferveranstalter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wir läutern diesen seinen Trank, den Indra stets am liebsten trinkt, Den Stiere schlürfen mit dem Mund jetzt und zuvor, die glänzenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы начищаем этот его пьянящий напиток,  
 Который Индра пьет лучше всего,  

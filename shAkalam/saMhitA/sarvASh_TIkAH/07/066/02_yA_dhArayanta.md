@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡ धार꣡यन्त देवाः꣡  
 सुद꣡क्षा द꣡क्षपितरा  
 असुर्या᳡य प्र꣡महसा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒सु॒र्या॑य । प्रऽम॑हसा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yā* ← *yad*
 - \[noun\], accusative, dual, masculine
@@ -78,35 +78,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **या** यौ युवां **धारयन्त** । क। **देवाः** आदिकर्तारः **असुर्याय** बलकरणाय । कीदृशौ युवाम् । **सुदक्षा** शोभनबलौ दक्षपितरा बलस्य पालकौ स्वामिनौ वा । बलप्रदावित्यर्थः । **प्रमहसा** प्रकृष्टतेजस्कौ । तौ साधयतमित्युत्तरत्रान्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You whom the gods uphold for their invigoration, both mighty, masters of strength and of diffusiveradiance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whom the gods uphold, the two of good skill whose father is Skill, whose greatness (goes) forward to lordship.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Two exceeding wise, the Sons of Daksa, whom the gods ordained  
      For lordship, excellently great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Wohlverständigen, deren Vater Daksa, der Verstand, ist, die die Götter für die Asurawürde bestimmten, die Erhabenen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die weisen, die der Weisheit Hort, die grossen, die zur Geistesmacht Die Götterschar sich ausersah.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те двое,) кого боги определили  
 Для асурской силы, (их) очень великих,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अपां꣡ ग꣡र्भं दर्शत꣡म् ओ꣡षधीनां  
 व꣡ना जजान सुभ꣡गा वि꣡रूपम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡निष्ठं जातं꣡ तव꣡सं दुवस्यन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 दे॒वासः॑ । चि॒त् । मन॑सा । सम् । हि । ज॒ग्मुः । पनि॑ष्ठम् । जा॒तम् । त॒वस॑म् । दु॒व॒स्य॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
@@ -125,42 +125,42 @@ genre M
 सुभगा सुभाग्या वना सर्वेर्वननीया अरणिः दर्शतं दर्शनीयं विरूपं नानाविधरूपं अपां ओषधी नाञ्चगर्भंआग्नजजान अजनयत् देवासश्चित् सर्वेदेवाअपि पनिष्ठं स्तुत्यं तवसं वृद्धं जातं जात मात्रं तमग्निं मनसास्तुत्यासञ्जग्मुः उपागच्छन् हीतिपूरणः तएवदुवस्यन् पर्यचरन् ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The auspicious timber has genitive rated the graceful and multiform embryo of the waters and the plural nts; the gods approached him with reverence, and worshipped the adorable and mighty (**Agni**) as soon as born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The (fire-churning) Wood—she who brings good fortune—has given  birth to the lovely embryo of the waters and of the plants, to him of  various colors.  
 Since they have united in their thinking, even the gods befriend the  
 most admired and powerful one as soon as he is born.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him, varied in his form, the lovely Infant of floods and plants the blessed wood hath gendered.  
      Gods even, moved in spirit, came around him, and served him at his birth, the Strong, the Wondrous.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 To him, the glorious son of the waters and of the plants, the blessed wood 1 has given birth, in his many shapes. Even the gods, for they agreed in their mind, honoured him who had been born the most wonderful and strong.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das gerngesehene Kind der Wasser, der Pflanzen hat in veränderter Gestalt das holde Reibholz geboren. Auch die Götter waren ja damit einverstanden; sie bevorzugten den hochgeschätzten, starken, als er geboren war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den schönen Spross der Wasser und Gewächse, an Farben bunt gebar die holde Vana; Die Götter selbst, sie kamen hin mit Freuden, bewunderten das prächt'ge Kind, das starke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Зародыша вод, приятного на вид, (зародыша) растений,  
 (Его,) имеющего разные формы, породил счастливый кусок дерева для трения.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् असउ꣡ सू꣡रियो अगाद्  
 उ꣡द् अय꣡म् मामको꣡ भ꣡गः  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अभ्य् अ᳡साक्षि विषासहिः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अ॒हम् । तत् । वि॒द्व॒ला । पति॑म् । अ॒भि । अ॒सा॒क्षि॒ । वि॒ऽस॒स॒हिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -105,7 +105,7 @@ popular;; epic anuṣṭubh (380)
 **असौ** द्युलोकस्थः **सूर्यः** **उत्** **अगात्** उदयं प्राप्तवान् । **मामकः** मदीयः **भगः** भजनीयः **अयम्** इन्द्रश्च सूर्यात्मनोदगात् । यद्वा मामको भगो मदीयमिदं सौभाग्यमुदगात् । **तत्** उद्यतं सूर्यस्य तेजः **विद्वला** ज्ञातवती यद्वा **पतिं** भर्तारं बिद्वला लब्धवती **अहं** **विषासहिः** विशेषेणाभिभवित्री सती **अभ्यसाक्षि** अभ्यभूवम् । सपत्नीरिति शेषः । सहतेरभिभवार्थस्य लुङ्येतद्रूपम् । यद्वा । विषासहिः सपत्नीनामभिभवित्री सती पतिमभ्यसाक्षि । भर्तारमप्यभ्यभूवम् । यथा मय्येव वशीकृतश्चिरं वर्तते तथाकार्षमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,29 +116,29 @@ popular;; epic anuṣṭubh (380)
 Literally, this is a **sūkta** of exultation ny **Śacī** over her rival wives; Śacī alsomeans an act, exploit; as a metaphor, the hymn praises **Indra**'s glorious acts
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Up has gone yonder sun; up this good fortune of li’l ole me.  
 I, a cunning woman, now have gained victory over my husband, (so that  I am) victorious.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 YON Sun hath mounted up, and this my happy fate hate mounted high.  
      I knowing this, as conqueror have won my husband for mine own.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dort ist die Sonne aufgegangen, hier ist mein Glück aufgegangen. Ich, die Kluge, habe als Bezwingerin den Gatten bezwungen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dort ist die Sonne aufgetaucht, und aufgegangen ist mein Glück; Ersiegt hab' ich als Siegerin, ich listige mir den Gemahl.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Там взошло солнце –  
 Тут взо(шло) мое счастье.  

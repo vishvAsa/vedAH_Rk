@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तिस्रो꣡ य꣡द् अग्ने शर꣡दस् तुवा꣡म् इ꣡च्  
 छु꣡चिं घृते꣡न शु꣡चयः सपर्या꣡न्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡सूदयन्त तनु꣡वः सु꣡जाताः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नामा॑नि । चि॒त् । द॒धि॒रे॒ । य॒ज्ञिया॑नि । असू॑दयन्त । त॒न्वः॑ । सुऽजा॑ताः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
@@ -133,7 +133,7 @@ genre M
 **यज्ञियानि** । यज्ञर्त्विग्भ्यां घखञावित्यर्हार्थे घप्रत्ययः ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -144,14 +144,14 @@ genre M
 Śucayaḥ = the pure; for the Maruts, seven plural tters are plural ced at the **Agnicayana** and invoked: idṛs', anyādṛs', tādṛs', pratidṛs', **mitaḥ**, sammitaḥ (**Taittirīya** **Saṃhitā** 2.1.2.10); as a consequence of this participation with Agni, they exchanged their perishable bodies for immortal bodies and obtained heaven; the Maruts, are, therefore, deified mortals, like the **Ṛbhus**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Since, o Agni, for three autumns they [=gods?] served just you, the  glowing one, with ghee—themselves glowing—  
 they also acquired names worthy of worship and, well-born, they  
 sweetened their own bodies.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For my interpr. of the purport of this verse in a Tānunāptra context, see published
 
@@ -160,28 +160,28 @@ introduction.
 The identity of the subjects in this verse is disputed: Geldner “die Erzväter,” Sāyaṇa the Maruts, Renou the gods. I consider this vs. a continuation (of sorts) of vs. 2 with víśve amṛ́tāḥ still the subject. I have no explanation for the “three autumns.” The interpretation of the verb form saparyā́n is quite problematic. It certainly appears to be a subjunctive, and contrasts with the 3rd pl. injunctive saparyan that Parāśara places in the same pāda-final position in I.70.10. But a subjunctive does not sit comfortably in the dependent clause whose main clause contains a preterital perfect (dadhire) and an augmented imperfect (ásūdayanta). Geldner (also Renou) compares várdhān in I.70.7 (which I take differently) and calls it the subjunctive “bei Zeitangabe” (n. to I.70.7ab), whatever that means. He tr. it as a preterite. Hoffmann calls it a “Konjunktiv in präterital Sachverhalt” (p. 244). Renou “ont honoré et honoreront encore,” attributing what seems to me a unique interpretation to the subjunctive. I consider the form a straight preterital and have an admittedly quite ad hoc way to account for the apparent subjunctive. The present participle to this stem, saparyánt-, is found 7x pāda-final as nom. sg. masc. saparyán; I suggest that in order to make it clear that the form here is not that pres. participle, the final vowel was lengthened, perhaps redactionally. This lengthening has no metrical consequences, of course. The lengthening did not happen in saparyan in I.70.10 because it was unaccented and couldn’t be mistaken for a participle. I am quite unhappy with this explanation but even more unhappy with the idea of a subjunctive in this context.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Because with holy oil the pure Ones, Agni, served thee the very pure three autumn seasons,  
      Therefore they won them holy names for worship, and nobly born they dignified their bodies.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 When the bright ones 1 had done service 2 to thee, the bright one, Agni, with Ghrita through three autumns, they assumed worshipful names; the well-born shaped their own bodies.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da dich, den Reinen, o Agni, die Reinen drei Herbste lang mit Schmalz ehrten, haben sie sich selbst den opferwürdigen Namen erworben und ihre Leiber vervollkommnet, ihr Edelgeborenen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als Agni dich, den reinen, dann die reinen drei Herbste durch mit Opferbutter ehrten, Erlangten sie auch opferwerthe Namen, die edlen machten herrlich ihre Leiber.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Так как три осени тебя, о Агни,  
 Чистого, они, чистые, почитали жиром,  

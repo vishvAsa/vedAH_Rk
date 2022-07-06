@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इद꣡म् इत्था꣡ रउ꣡दरं गूर्त꣡वचा  
 ब्र꣡ह्म क्र꣡त्वा श꣡चियाम् अन्त꣡र् आजउ꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 प꣡र्षत् पक्थे꣡ अ꣡हन् आ꣡ सप्त꣡ हो꣡तॄन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 क्रा॒णा । यत् । अ॒स्य॒ । पि॒तरा॑ । मं॒ह॒ने॒ऽस्थाः । पर्ष॑त् । प॒क्थे । अह॑न् । आ । स॒प्त । होतॄ॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idam*
 - \[noun\], accusative, singular, neuter
@@ -134,7 +134,7 @@ genre M
 **गूर्तवचाः** उद्यतवचनो नाभानेदिष्ठः **इदं** **ब्रह्म** स्तोत्रं **रौद्रं** रुद्रप्रणीतम् **इत्था** इत्थमिदानींक्रियमाणप्रकारं **क्रत्वा** प्रज्ञानेन निष्पाद्यं स्तोत्रं **शच्यामन्तः** कर्मणि सत्रमध्ये **आजौ** अङ्गिरसां संघे करोतीति शेषः । **यत्** स्तोत्रं **क्राणा** भागं कुर्वाणा भागं कुर्वाणौ **अस्य** **पितरा** पितरावन्ये च **मंहनेष्ठाः** भागप्रदाने वर्तमाना भ्रातरश्च गोलाभसाधनत्वेनाकल्पयन्निति शेषः । तेन नाभानेदिष्ठः **पक्थे** पक्तव्ये **अहन्** अहनि। षष्ठेऽहनीत्यर्थः । ‘ ते षष्ठंषष्ठमेवाहरागत्य मुह्यन्ति तानेते सूक्ते षष्ठेऽहनि शंसय ' ( ऐ. ब्रा. ५.१४ ) इत्युक्तत्वात् । **सप्त** होतॄन् होतृप्रशास्तृब्राह्मणाच्छंस्यादिकान् **आ** **पर्षत्** सर्वतोऽपूरयत् । इदमित्थेति सूक्ताभ्यां यज्ञं पारं प्रापयामासेत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -145,30 +145,30 @@ genre M
 A legend from **Aitareya** **Brāhmaṇa** 5.14: The brothers ofNābhānediṣṭha partioned among themselves to his exclusion the whole of the paternal wealth, while he wasengaged in his religious studies. Upon completing the studies, Nābhānediṣṭha applied to his father for hisportion, but there was nothing left, and his brothers refused to give any of their shares. As a compensation, Manurecommended to him to apply to the Aṅgirasas, who were engaged in a sacrifice for obtaining **Svarga**, buthaving come to the sixth day, were so perplexed by the number of the **mantras**, that they could go no furtherwithout assistance, Nābhānediṣṭha went to them, and repeated for them this and the following **sūkta**.Through the efficacy of these two **sūktas**, they went to heaven, leaving to him the remainder of the sacrifice, athousand head of cattle. As Nābhānediṣṭha was waking off with them, he was stopped by Rudra, seated on ablack corpse, who claimed whatever was left at a sacrifice as his right. Referring to **Manu**, the patriarch admittedthe law, and Nābhānediṣṭha relinquished the cattle to Rudra who, in reward of his ready acknowledgement ofthe truth, presented the cows to him
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is a Rudrian formulation right to the point, (which) he whose  speech is welcome (produced) with his mental force at a contest  
 in skill,  
 (a formulation) that, standing ready for liberality, will effectively guide  across his two parents and, on the fifth [?] day, the seven Hotars.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 THE welcome speaker in the storm of battle uttered with might this prayer to win the Asvins,  
      When the most liberal God, for Paktha, rescued his parents, and assailed the seven Hotras.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieses rudrische Geheimwort wird also der, dessen Worte Beifall finden, in dem Wettstreit um das Können mit Bedacht vortragen, das zur Belohnung stehend dessen beide mitwirkende Väter und die sieben Opferpriester am Opfertage bei Paktha herausreißen soll.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies an den Rudra gerichtete Gebet [vollbrachte] der angenehm redende mit Weisheit im Eifer während des Wettkampfes, als er geschäftig und freigiebig seine Aeltern beschenkte und beim Paktha die sieben Priester [im Wettkampf] überwand [? áhan als Loc. von áhan gefasst gibt einen noch weniger zusagenden Sinn].
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

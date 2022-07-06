@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡स्मा इ꣡द् वि꣡श्वे धुनयन्त सि꣡न्धवो  
 अ꣡छिद्रा श꣡र्म दधिरे पुरू꣡णि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 यं꣡-यं यु꣡जं कृणुते꣡ ब्र꣡ह्मणस् प꣡तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M;; repeated line
 दे॒वाना॑म् । सु॒म्ने । सु॒ऽभगः॑ । सः । ए॒ध॒ते॒ । यम्ऽय॑म् । युज॑म् । कृ॒णु॒ते । ब्रह्म॑णः । पतिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
@@ -131,36 +131,36 @@ genre M;; repeated line
 तस्माइत् तस्माएवयजमानायविश्वेसिन्धवः सर्वाःस्यन्दनशीलानद्यः धुनयन्त चलयन्ति एतदभी ष्टफलसिद्भ्यर्थम्प्रवहन्तीत्यर्थः तथाअच्छिद्राअच्छिद्राणि छिद्ररहितानिसन्ततानि पुरूणिबहूनिशर्मश- र्माणिसुखानिदधिरे तस्माएवधार्यन्ते यद्वा शर्मेतिगृहनाम छिद्ररहितानिबहूनि सदनानिधार्यन्ते सयजमानः सुभगः शोभनधनः देवानांसुम्ने देवैःप्रत्तेसुखेवर्तमानः सन् एधते वर्धते शिष्टंस्पष्टम् ॥ ५ ॥ऋजुरितिचतुरृच्ञ्चतुर्थंसूक्तं गृत्समदस्यार्षञ्जागतम्ब्राह्मणस्पत्यम् तथाचानुक्रान्तम्-ऋजुश्चतुष्क- मिति गतोविनियोगः ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, for him all rivers flow; him do uninterrupted and numerous plural asures await; blessed with the felicity of the gods, he ever prospers, whom **Brahmaṇaspati** makes his associate.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just to him do all the rivers roar. They have provided many unbroken  shelters.  
 In the favor of the gods, having good fortune, he blazes forth—whomever  the lord of the sacred formulation makes his own yokemate.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All roaring rivers pour their waters down for him, and many a flawless shelter hath been granted him.  
      Blest with the happiness of Gods he prospers well, whomever Brahmanaspati takes for his friend.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihm rauschen alle Ströme und vervielfältigten ihren lückenlosen Schirm; glücklich gedeiht in der Götter Gunst, wen immer Brahmanaspati zu seinem Verbündeten macht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Für ihn ergiessen rauschend alle Ströme sich, verleihen viele sichere Beschirmung ihm, Und in der Götter Gunst gedeiht der glückliche, wen der Gebets Herr je sich zum Genossen macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это для него журчат все реки,  
 (Ему) устроено много надежных укрытий,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दे꣡वीर् द्वारो वि꣡ श्रयध्वं  
 सुप्रायणा꣡ न ऊत꣡ये  
 प्र꣡-प्र यज्ञ꣡म् पृणीतन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 प्रऽप्र॑ । य॒ज्ञम् । पृ॒णी॒त॒न॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devīr* ← *devīḥ* ← *devī*
 - \[noun\], vocative, plural, feminine
@@ -88,41 +88,41 @@ genre M
 हे **द्वारः** यज्ञस्य द्वाराभिमानिन्यो हे **देवीः** देव्यः **वि** **श्रयध्वं** वियुक्ता भवत । **सुप्रायणाः** शोभनगमनसाधनाः **नः** अस्माकम् **ऊतये** रक्षायै **यज्ञं** यजमानं **प्रप्र** **पृणीतन** पूरयत कामैर्यज्ञमेव वा फलैः ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Open divine doors, our passages to preservation; fill full the sacrifice (with its rewards).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Divine doors, gape open, giving easy access to help us.  
 Fill the sacrifice, further and further.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Open yourselves, ye Doors Divine, easy of access for our aid:  
      Fill, more and more, the sacrifice.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 O divine, easily passable doors, open yourselves for our protection. Fill the sacrifice (with bliss) further and further!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr göttlichen Tore, tut euch auf, gut zu betreten, uns zur Gunst! Machet das Opfer recht vollständig!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Götterthore, öffnet euch vorschreitend schön zur Hülfe uns; Das Opfer machet vollbereit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О божественные  
 врата  

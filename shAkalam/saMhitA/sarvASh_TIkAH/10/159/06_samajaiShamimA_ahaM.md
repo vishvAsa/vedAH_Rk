@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अजैषम् इमा꣡ अहं꣡  
 सप꣡त्नीर् अभिभू꣡वरी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 विरा꣡जानि ज꣡नस्य च
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 यथा॑ । अ॒हम् । अ॒स्य । वी॒रस्य॑ । वि॒ऽराजा॑नि । जन॑स्य । च॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -94,36 +94,36 @@ popular;; epic anuṣṭubh (380)
 **अभिभूवरी** अभिभवित्री **अहम्** **इमाः** **सपत्नीः** **समजैषं** सम्यगभ्यभूवम् । **यथा** येन प्रकारेण **अहमस्य** **वीरस्य** इन्द्रस्य तदीयपरिजनस्य **च** **विराजानि** विशेषेण राजमाना भवानि । तथा समजैषमित्यर्थः ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Triumphant, I conquered these my rivals so that I might rule this hero and his people.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I have completely conquered them, overcoming the cowives,  
 so that I will rule widely over this hero and over his people.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I have subdued as conqueror these rivals, these my fellow-wives,  
      That I may hold imperial sway over this Hero and the folk.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich habe alle diese Nebenbuhlerinnen besiegt, ich die Überlegene, auf daß ich über diesen Mann und seine Leute herrschen kann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich habe alle sie besiegt, die Nebenfrauen übermannt, Damit ich über diesen Mann gebiete und die Leute hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Всех вместе этих соперниц  
 Победила я, превзойдя (их),  

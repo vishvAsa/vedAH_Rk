@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वृ꣡षाकपायि रे꣡वति  
 सु꣡पुत्र आ꣡द् उ सु꣡स्नुषे  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 वि꣡श्वस्माद् इ꣡न्द्र उ꣡त्तरः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 घस॑त् । ते॒ । इन्द्रः॑ । उ॒क्षणः॑ । प्रि॒यम् । का॒चि॒त्ऽक॒रम् । ह॒विः । विश्व॑स्मात् । इन्द्रः॑ । उत्ऽत॑रः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vṛṣākapāyi* ← *vṛṣākapāyī*
 - \[noun\], vocative, singular, feminine
@@ -120,7 +120,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 हे वृषाकपायि । कामानां वर्षकत्वादभीष्टदेशगमनाच्चेन्द्रो वृषाकपिः । तस्य पत्नि । यद्वा । वृषाकपेर्मम मातरित्यर्थः । **रेवति** धनवति **सुपुत्रे** शोभनपुत्रे **सुस्नुषे** शोभनस्नुषे हे इन्द्राणि **ते** तवायम् **इन्द्रः** **उक्षणः** सेचनसमर्थान् **आदु** अनन्तरमेव । शीघ्रमेवेत्यर्थः । पशून् **घसत्** प्राश्नातु । किंच **काचित्करम्** । कं सुखम् । तस्याचित् संघः । तस्करं हविः **प्रियम्** इष्टं कुर्विति शेषः । किंच ते पतिः **इन्द्रः** **विश्वस्मात्** **उतरः** । तथा च यास्कः - ‘ वृषाकपायि रेवति सुपुत्रे  मध्यमेन सुस्नुषे माध्यमिकया वाचा । स्नुषा साधुसादिनीति वा साधुसानिनीति वा । प्रियं कुरुष्व सुखाचयकरं हविः सर्वस्माद्य इन्द्र उत्तरः' (निरु. १२, ९) इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,30 +131,30 @@ popular;; epic anuṣṭubh (525);; repeated line
 Mother of Vṛṣākapi: Vṛṣākapayin = wife of Indra; Vṛṣākapi may be a name of Indra, as theshowerer of benefits
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] “O wife of Vr̥ṣākapi [=Indrāṇī], rich, having good sons and  daughters-in-law,  
 Indra will eat your oxen and the dear oblation that brings about  whatever (you want).”  
 – Above all Indra!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wealthy Vrsakapayi, blest with sons and consorts of thy sons,  
      Indra will eat thy bulls, thy dear oblation that effecteth much. Supreme is Indra over all.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Frau Vrisakapi, reiche, Mutter schöner Söhne und schöner Schwiegertöchter! Indra soll deine Stiere genießen und die erwünschte einigermaßen genügende Opferspende." - Höher als alles steht Indra!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, Indra wird deine Stiere verzehren und den lieben, sehr wirksamen Opfertrank. Höher als alles ist Indra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

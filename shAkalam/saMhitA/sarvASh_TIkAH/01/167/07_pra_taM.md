@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ तं꣡ विवक्मि व꣡क्मियो य꣡ एषाम्  
 मरु꣡ताम् · महिमा꣡ सत्यो꣡ अ꣡स्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्थिरा꣡ चिज् ज꣡नीर् व꣡हते सुभागाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 सचा॑ । यत् । ई॒म् । वृष॑ऽमनाः । अ॒ह॒म्ऽयुः । स्थि॒रा । चि॒त् । जनीः॑ । वह॑ते । सु॒ऽभा॒गाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -125,7 +125,7 @@ genre M
 **एषां** **मरुतां** **यः** **महिमा** महत्त्वातिशयः **वक्म्यः** सर्वैः स्तुत्यः **सत्यः** अबाध्योऽमोघः **अस्ति** **तं** **प्र** **विवक्मि** प्रवच्मि वर्णयामि । कथमेषां महिमा प्राप्त इति उच्यते । **यत्** यस्मात् **ईम्** एतेषां संबन्धिनी रोदसी **वृषमणाः** वृष्ट्यादिवर्षणमनस्का **अहंयुः** अहंकारवती । जगदुपकारकर्त्री न कदाचिदस्तीत्यहंकारः । **स्थिरा** **चित्** । चिदिति पूजायाम् । अत्यन्तमविनश्वरा ईदृशी देवी **सुभागाः** शोभनभाग्योपेताः **जनीः** जननशीला: प्रजाः वृष्ट्युत्पत्तीर्वा **वहते** धारयति । वृष्टौ सत्यां सर्वे प्राणिन उत्पद्यन्ते । यस्मादेवं तस्मात् महिमास्ति । तं महिमानं स्तौमीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,13 +136,13 @@ genre M
 High-minded, haughty: The epithets, vṛṣamaṇā, ahaṃyuḥ, **sthirā** are feminine nine; the reference is to **Rodasī**, the wife of the Maruts, who, by contributing to the rain, assists in the sustenance of mankind
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I proclaim what of theirs is worthy of proclamation, that the greatness  of the Maruts is truly present,  
 when in company with them, her mind set on the bulls, she, self-reliant  and firm, brings with her the well-portioned Wives (of the Gods).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For my tr. of vṛ́ṣamaṇas- see disc. of nṛmáṇas- in 5b.
 
@@ -161,23 +161,23 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 I will declare the greatness of these Maruts, their real greatness, worthy to be lauded,  
      How, with them, she though firm, strong-minded, haughty, travels to women happy in their fortune.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich tue kund, was dieser Marut kündenswerte wahre Größe ist, daß die männlichgesinnte, selbstbewußte Rodasi, die so feste andere begünstigte Frauen auf der Fahrt mitnimmt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich preise den, der Preis verdient, und welcher der wahrhaft grosse Herr ist dieser Maruts, Wenn auch die stolze, die den Helden hold ist, die starke, selbst die Götterfrauen herfährt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я провозглашаю то, что есть истинное величие  
 Этих Марутов (и) достойно провозглашения:  

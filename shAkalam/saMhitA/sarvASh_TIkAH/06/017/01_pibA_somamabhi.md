@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पि꣡बा सो꣡मम् अभि꣡ य꣡म् उग्र त꣡र्द  
 ऊर्वं꣡ ग꣡व्यम् म꣡हि गृणान꣡ इन्द्र  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वा वृत्र꣡म् अमित्रि꣡या श꣡वोभिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । यः । धृ॒ष्णो॒ इति॑ । वधि॑षः । व॒ज्र॒ऽह॒स्त॒ । विश्वा॑ । वृ॒त्रम् । अ॒मि॒त्रिया॑ । शवः॑ऽभिः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
@@ -123,20 +123,20 @@ genre M
 हे **उग्र** उद्गूर्णबल **इन्द्र** **गृणानः** अङ्गिरोभिः स्तूयमानस्त्वं **यं** सोमम् **अभि** उद्दिश्य । पातुमित्यर्थः । **महि** महत् **गव्यं** गोसंबन्धि **ऊर्वं** पणिभिरपहृतं समूहं **तर्दः** प्रकाशितवानसि । तृदिर्हिंसाकर्मात्र प्रकाशनार्थः । तं **सोमं** **पिब** पानं कुरु । हे **धृष्णो** शत्रूणां धर्षक **वज्रहस्त** वज्रपाणे हे इन्द्र **यः** त्वं **शवोभिः** बलैः सहितः सन् **विश्वा** विश्वं **वृत्रम्** आवरकम् **अमित्रिया** अमित्रं शत्रुम् ॥ अमित्रशब्दात् द्वितीयैकवचनस्येयादेशः ॥ **वि** **वधिषः** व्यवधीः स त्वं सोमं पिबेति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Fierce **Indra**, glorified by us, drink of the **Soma**, (animated) by which you have discovered the vast herd of cattle (stolen by **Paṇis**), and, overcomer of enemies, wielder of the thunderbolt, you have slain, by your strength all opposing foes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Drink the soma! The cattle enclosure that you will drill through to,  mighty Indra, when you are greatly sung—  
 you bold mace-bearer, who will hew apart Vr̥tra and all hostile things  with your powers—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner (flg Grassmann, fld. by Schmidt, Bṛhaspati und Indra, 144) takes yám as obj. of abhí and referring to sómam in the opening impv. phrase (“Drink the soma, towards which …”). As Oldenberg points out (both ZDMG 55.319-20 and Noten), this entails either that the soma is within the cow enclosure or at least that breaking into the cow enclosure is a necessary auxiliary action for getting or preparing the soma -- which is, of course, not a standard part of the Vala myth. Oldenberg therefore emends the text, from yám to
 
@@ -156,23 +156,23 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 DRINK Soma, Mighty One, for which, when lauded, thou breakest through the cattle-stall, O Indra;  
      Thou who, O Bold One, armed with thunder smotest Vrtra with might, and every hostile being.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink den Soma, für dessen Trank, gewaltiger Indra, du hochgepriesen den Rinderpferch aufschließen mögest, der du Mutiger mit der Keule in der Hand alle feindseligen Vritra´s mit Kraft zersprengen wirst.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Soma trink, den, mächt'ger, du erschlossest, so wie den Kuhstall, hochgepries'ner Indra, Der, Kühner, du, den Blitz im Arm, den Vritra mit Kraft erschlugst und alle Feindesscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей сому, о грозный, ради которого ты пробуравил  
 Великое укрытие с коровами, когда (тебя) восхваляли,  

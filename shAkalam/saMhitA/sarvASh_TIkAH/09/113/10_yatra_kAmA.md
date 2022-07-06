@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡त्र का꣡मा निकामा꣡श् च  
 य꣡त्र ब्रध्न꣡स्य विष्ट꣡पम्  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 इ꣡न्द्रायेन्दो प꣡रि स्रव
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -34,7 +34,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 स्व॒धा । च॒ । यत्र॑ । तृप्तिः॑ । च॒ । तत्र॑ । माम् । अ॒मृत॑म् । कृ॒धि॒ । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yatra*
 - \[adverb\]
@@ -136,7 +136,7 @@ popular;; epic anuṣṭubh (525);; repeated line
 **यत्र** यस्मिँल्लोके कामाः काम्यमाना देवाः **निकामाः** नितरामवश्यं प्रार्थ्यमाना इन्द्रादयः **च** विद्यन्ते । यद्वा कामा निकामा अभिलाषा निकामाश्च यत्र विद्यन्ते । **यत्र** लोके **ब्रध्नस्य** सर्वेषां प्रज्ञापकस्य । यद्वा । सूर्येण विना कर्माणि न घटन्त इति सर्वेषां कर्मणां मूलभूतस्यादित्यस्य **विष्टपं** सहस्थानं यत्र विद्यते तत्र लोके । **स्वधा** अन्नं स्वधाकारेण वा दत्तमन्नं **तृप्तिः** तर्पणं हर्षणं हर्षः **च** **यत्र** विद्यते **तत्र** लोके **माममृतं** कृधि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,13 +147,13 @@ popular;; epic anuṣṭubh (525);; repeated line
 Where wishes: 'where the desired gods and the inevitably solicited Indra and other gods exist
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Where there are desires and yearnings, where the upper surface of the  coppery one [=Sun and soma?] is,  
 where there is independence and satisfaction, there make me immortal. – O drop, flow around for Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Renou renders kā́mā nikāmāś ca as “les désirs (avoués) et les désirs-secrets”; although ni- might suggest something hidden or deposited in secret, but the related bahuvr. níkāma- (8x) seems just to mean ‘desirous’ without any special nuance.
 
@@ -170,23 +170,23 @@ In addition to the fifth pāda refrain found throughout the hymn (as well as IX.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Make me immortal in that realm of eager wish and strong desire,  
      The region of the radiant Moon, where food and full delight are found. Flow, Indu, flow for Indra's sake:
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wo die Wünsche und Neigungen erfüllt werden, wo der Höhepunkt der Sonne ist, wo die Geisterspeise und Sättigung ist, dort mache mich unsterblich! Fließe für Indra ringsum ab, o Saft!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wo Wunsch zugleich Erfüllung ist, und höchster Ort dem Flammenross, Wo Sehnsucht und Befriedigung, Da mache du unsterblich mich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

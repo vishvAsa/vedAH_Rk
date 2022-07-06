@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् अग्ने शु꣡चयस् त꣡व  
 शुक्रा꣡ भ्रा꣡जन्त ईरते  
 त꣡व ज्यो꣡तींषि अर्च꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 तव॑ । ज्योतीं॑षि । अ॒र्चयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -90,20 +90,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, your pure, bright, shining flames send forth your splendours.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Your flaming flames rise up as they flash, Agni,  
 your lights, your beams.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Upward, O Agni, rise thy flames, pure and resplendent, blazing high,  
      Thy lustres, fair effulgences.
@@ -117,17 +117,17 @@ Thy lights, thy flames.
 </details>
 
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine reinen hellen Flammen erheben sich strahlend, deine Lichter, deine Flammen, Agni.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner Lichter Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ввысь взмывают, о Агни, твои чистые,  
 Прозрачные сверкающие,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अश्वि꣡नोर् अ꣡वसा नू꣡तनेन  
 मयोभु꣡वा सुप्र꣡णीती गमेम  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ वि꣡श्वानि अमृता सउ꣡भगानि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 आ । नः॒ । र॒यिम् । व॒ह॒त॒म् । आ । उ॒त । वी॒रान् । आ । विश्वा॑नि । अ॒मृ॒ता॒ । सौभ॑गानि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -121,34 +121,34 @@ genre M;; repeated line
 व्याख्यातेद्वे ॥ १७ ॥तम्प्रत्नथेतिपञ्चदशर्चन्द्वादशंसूक्तं अवत्सारोनामऋषिः सचकश्यपगोत्रः यास्वृक्षुसदापृणबाहुवृक्तादयः श्रुताः तासुतेपिसमुच्चीयन्ते चतुर्दशीपञ्चदश्यौत्रिष्टुभौ शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः विश्वेदेवादेवताः अनुक्रान्तञ्च-तम्प्रत्नथापञ्चोनाकाश्यपोवत्सारोन्ये -चऋषयोत्रदृष्टलिङ्गाद्वित्रिष्टुबन्तमिति । वाजपेयेअतिरिक्तोक्थ्ये आदितस्त्रयोदशर्चः शंसनीयाः सूत्रितञ्च-तम्प्रत्नथेतित्रयोदशानामेकां -शिष्ट्वाहूयदूरोहणरोहेदिति ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May we come together with the present help of the Aśvins, which is joy  itself and provides good guidance.  
 Here to us bring wealth and here heroes, you two immortals, and here  all that brings good fortune.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May we obtain the Asvins' newest favour, and gain their health-bestowing happy guidance.  
      Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten der neuesten erfreulichen Gnade und der guten Führung der Asvin teilhaft werden. Bringet uns Reichtum und Söhne, alle Glücksgüter mit, ihr beiden Unsterblichen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erlangen mögen wir der Ritter Hülfe, die neuste, die erquickt und sicher leitet; O fahret Gut her, fahret her uns Helden, Unsterbliche, und alle Glückesgüter.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Да соединимся мы с сиюминутной помощью  
 Ашвинов, ободряющей, приводящей к хорошей цели!  

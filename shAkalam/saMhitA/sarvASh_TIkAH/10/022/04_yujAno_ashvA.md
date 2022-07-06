@@ -6,7 +6,7 @@ ChandaH = "पुरस्ताद्बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युजानो꣡ अ꣡श्वा वा᳐꣡तस्य धु꣡नी  
 देवो꣡ देव꣡स्य वज्रिवः  
@@ -14,7 +14,7 @@ ChandaH = "पुरस्ताद्बृहती"
 सृजान꣡ स्तोषि अ꣡ध्वनः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 स्यन्ता॑ । प॒था । वि॒रुक्म॑ता । सृ॒जा॒नः । स्तो॒षि॒ । अध्व॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yujāno* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
@@ -101,36 +101,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे **वज्रिवः** वज्रवन्निन्द्र । एको मत्वर्थीयोऽनुवादकः । **देवः** द्योतमानस्त्वं **देवस्य** द्योतमानस्य **वातस्य** वायोः **धुनी** प्रेरकौ । वायोरपि शीघ्रगामिनावित्यर्थः। **अश्वा** अश्वौ त्वदीयौ हरिनामकौ **युजानः** स्वरथे संयोजयन् । कीदृशौ । **विरुक्मता** विरोचनवता **पथा** मार्गेण **स्यन्ता** स्यन्तौ गच्छन्तौ । **अध्वनः** युद्धे गमनमार्गान् **सृजानः** उत्पादयन् **स्तोषि** सततं स्तूयसे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Thunderer, you who are divine, yoking your horses which are swifter than the divine wind, and glidingalong the resplendent road, you, opening out the way (to battle), are glorified.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As the one having yoked the two boisterous horses of the Wind, as god  (having yoked those) of the god, o wielder of the mace,  
 as the one who streams along the radiant path when set loose along the  highways, he is praised.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Harnessing to thy car, as God, two blustering Steeds Of the Wind-God, O Thunderer,  
      That speed along the shining path, thou making ways art glorified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wenn du die brausenden Rosse des Vata anspannst, du, der Gott, die des Gottes, o Keulenträger, und auf der erleuchteten Sonnenstraße fährst, so lobe die Rosse, wenn du sie die Wege entlang galoppieren lässest!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der du des Windes ungestüme Rosse schirrst des Gotts, du blitzbewehrter Gott, Hinschiessend auf der lichten Bahn, hineilend rühmst die Wege du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягая двух храпящих коней  
 Ваты, (ты,) бог, (коней) бога, о громовержец,  

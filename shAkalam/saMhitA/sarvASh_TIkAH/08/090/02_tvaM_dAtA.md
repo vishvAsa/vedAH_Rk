@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवं꣡ दाता꣡ प्रथमो꣡ रा꣡धसाम् असि  
 अ꣡सि सत्य꣡ ईशानकृ꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 पुत्र꣡स्य श꣡वसो महः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 तु॒वि॒ऽद्यु॒म्नस्य॑ । युज्या॑ । आ । वृ॒णी॒म॒हे॒ । पु॒त्रस्य॑ । शव॑सः । म॒हः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
@@ -108,7 +108,7 @@ genre M
 हे इन्द्र **प्रथमः** सर्वेषां मुख्यः **त्वं** **राधसां** धनानां **दाता** **असि** । यद्वा । धनदातॄणां  मध्ये त्वं प्रथम आदिमो भवसि । तथा **ईशानकृत्** तव स्तोतॄन् ईशानान् ऐश्वर्ययुक्तान् कुर्वंस्त्वं **सत्यः**  सत्यकर्मा **असि** । यथार्थकर्मा भवसीत्यर्थः । यस्मादेवं तस्माद्वयं **तुविद्युम्नस्य** बहुधनवतो बह्वन्नस्य वा **शवसः** बलस्य **पुत्रस्य** शत्रुवधार्थं बलकारणत्वेनोत्पन्नत्वात्तत्पुत्रस्य अत एव **महः** महतस्तव **युज्या** योग्यानि धनानि **आ** **वृणीमहे** संभजामहे ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,34 +119,34 @@ genre M
 I.e. produced as the cause of strength, inorder to destroy enemies (RV 8.92.14); this strength or victory through strength, is the final cause of hisproduction or manifestation by the rite; and the final causse being then taken for the efficient, strenth may thus becalled the father
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are the foremost giver of bounties; you are the real thing, the one  who performs the master’s part.  
 We would choose to be the associates of the powerfully brilliant son of  strength, of the great one.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I tr. satyáḥ separately from īśānakṛ́t on the basis of 4a.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Thou art the best of all in sending bounteous gifts, true art thou, lordly in thine act.  
      We claim alliance with the very Glorious One, yea, with the Mighty Son of Strength.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du bist der allererste Schenker von Ehrengaben, du bist der wahre Reichmacher. Wir erbitten die Bundesgenossenschaft des glanzvollen Sohnes der Kraft, des Großen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der reichen Schätze bester Geber bist du ja, du bist's, der wahrhaft Herrschaft übt; Wir wünschen Bündniss mit dem herrlich glänzenden, mit ihm, dem Sohne grosser Kraft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

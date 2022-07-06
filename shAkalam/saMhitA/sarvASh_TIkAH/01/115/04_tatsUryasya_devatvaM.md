@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सू꣡र्यस्य देवत्वं꣡ त꣡न् महित्व꣡म्  
 मध्या꣡ क꣡र्तोर् वि꣡ततं सं꣡ जभार  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡द् रा꣡त्री वा꣡सस् तनुते सिम꣡स्मै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 य॒दा । इत् । अयु॑क्त । ह॒रितः॑ । स॒धऽस्था॑त् । आत् । रात्री॑ । वासः॑ । त॒नु॒ते॒ । सि॒मस्मै॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
@@ -135,7 +135,7 @@ genre D
 **सूर्यस्य** सर्वप्रेरकस्य आदित्यस्य **तत्** **देवत्वम्** ईश्वरत्वम् । स्वातन्त्र्यमिति यावत्। **महित्वं** महत्त्वं माहात्म्यं च **तत्** एव । तच्छब्दश्रुतेः यच्छब्दाध्याहारः । यत् **कर्तोः** । कर्मनामैतत् । प्रारब्धापरिसमाप्तस्य कृष्यादिलक्षणस्य कर्मणः **मध्या** मध्ये अपरिसमाप्ते एव तस्मिन् कर्मणि **विततं** विस्तीर्णं स्वकीयं रश्मिजालम् अस्तं गच्छन् सूर्यः **सं** **जभार** अस्माल्लोकात् स्वात्मन्युपसंहरति । कर्मकरश्च प्रवृत्तमपरिसमाप्तमेव विसृजति अस्तं यन्तं सूर्यं दृष्ट्वा । ईदृशं स्वातन्त्र्यं महिमा च सूर्यव्यतिरिक्तस्य कस्यास्ति । न कस्यापि । सूर्य एवेदृशं स्वातन्त्र्यं महिमानं चावगाहते। अपि च इत् इत्यवधारणे । **यदेत्** यस्मिन्नेव काले **हरितः** रसहरणशीलान् स्वरश्मीन् हरिद्वर्णानश्वान् वा **सधस्थात्** सहस्थानात् अस्मात् पार्थिवाल्लोकादादाय **अयुक्त** अन्यत्र संयुक्तान् करोति । यद्वा । युजिः केवलोऽपि विपूर्वः द्रष्टव्यः। यदैवासौ स्वरश्मीनश्वान् वा सधस्थात् सह तिष्ठन्त्यस्मिन्निति सधस्थो रथः । तस्मात् अयुक्त अमुञ्चत् । **आत्** अनन्तरमेव **रात्री** निशा **वासः** आच्छादयितृतमः **सिमस्मै** । सिमशब्दः सर्वशब्दपर्यायः। सप्तम्यर्थे चतुर्थी। सर्वस्मिन् लोके **तनुते** विस्तारयति । यद्वा । वासो वासरम् अहः । तत् सर्वस्मात् अस्माल्लोकादपनीय रात्री तमस्तनुते । अत्र निरुक्तं - तत्सूर्यस्य देवत्वं तन्महित्वं मध्ये यत्कर्मणां क्रियमाणानां विततं संह्रियते यदासौ अयुक्त हरणानादित्यरश्मीन हरितोऽश्वानिति वाथ रात्री वासस्तनुते सिमस्मै वासरमहरवयुवती सर्वस्मात् ' (निरु. ४. ११) इति । महित्वम् । ‘मह पूजायाम्। औणादिक इन्प्रत्ययः ।  ‘ तस्य भावस्त्वतलौ ' ( पा. सू. ५. १. ११९ )। मध्या। मध्यशब्दात् सप्तम्येकवचनस्य  ‘ सुपां सुलुक् । इति डादेशः । कर्तोः । करोतेरौणादिकः तुन्प्रत्ययः । विततम् । विपूर्वात्तनोतेः कर्मणि निष्ठा । उदित्त्वेन क्त्वाप्रत्यये इटो विकल्पनात् ' यस्य विभाषा ' इति इट्प्रतिषेधः ।  ‘ गतिरनन्तरः ' इति गतेः प्रकृतिस्वरत्वम् । जभार ।  ‘ हृग्रहोर्भः० ' इति भत्वम् । अयुक्त । युजेर्लुङि 'झलो झलि' इति सिचो लोपः । सधस्थात्। घञर्थे कविधानम्' इति अधिकरणे कप्रत्ययः। सध मादस्थयोश्छन्दसि' इति सधादेशः । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । रात्री ।  ‘ रात्रेश्चाजसौ ' इति ङीप् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -146,13 +146,13 @@ genre D
 Diffused upon the unfinished task: **madhya** kartor-vitatam, spread in the middle of the affair (**Nirukta** 4.11); i.e. the cultivator, or artisan, desists from his labour, although unfinished, upon the setting of the sun.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This is the Sun’s divinity, this his greatness: in the middle of (her) work  (Night?) has gathered together what was stretched out.  
 When he has yoked his tawny horses from their seat, just after that Night  stretches her garment for him.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda b fairly clear refers to Night interrupting her weaving of darkness and gathering up her work when the Sun hitches up his horses for his morning journey. I take Night to be the subject of sáṃ jabhāra, not the Sun (as do Geldner, Renou, Maurer), based on the similarity to II.38.4 púnaḥ sám avyad vítataṃ váyantī, madhyā́kártor ny àdhāc chákma dhī́raḥ “Once again the weaver has wrapped up what was stretched out; in the middle of his work the mindful (worker) has set down his craft,” where the weaver is the one who wraps up his own work.
 
@@ -177,28 +177,28 @@ As indicated in the published introduction, although at the time I was not certa
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This is the Godhead, this might of Surya: he hath withdrawn what spread o'er work unfinished.  
      When he hath loosed his Horses from their station, straight over all Night spreadeth out her garment.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 This is the Sun's divinity, his greatness: In midst of action he withdraws the daylight. When from their stand he has withdrawn his coursers, Then straightway night for him spreads out her garment.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ist die Göttlichkeit, das die Macht des Surya: Mitten in der Arbeit hat er ihr ausgespanntes Gewebe zusammengelegt. Sobald er die Falbinnen von ihrem Platze geschirrt hat, spannt die Nacht für ihn selbst ihr Gewand aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist des Sonnengottes Macht und Gottheit, im Wirken rollt den Aufzug er zusammen; Hat er vom Wagen losgeschirrt die Stuten, so streckt die Nacht den Schleier über alles.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Такова божественная природа Сурьи, таково величие:  
 Посреди работы он собирает натянутую (ткань).  

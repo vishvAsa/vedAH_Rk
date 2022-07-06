@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रा꣡स्मा ऊ꣡र्जं घृतश्चु꣡तम्  
 अ꣡श्विना य꣡छतं युव꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 वसूया꣡द् दानुनस् पती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 यः । वा॒म् । सु॒म्नाय॑ । तु॒स्तव॑त् । व॒सु॒ऽयात् । दा॒नु॒नः॒ । प॒ती॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prāsmā* ← *pra*
 - \[adverb\]
@@ -97,20 +97,20 @@ genre M
 हे **अश्विना** अश्विनौ **अस्मै** स्तोत्रे **घृतश्चुतं** घृतधारया युक्ताम् **ऊर्जं** बलकरमन्नरसं **युवं** युवां **प्र** **यच्छतं** दत्तम् । हे **दानुनस्पती** दानस्याधिपती **वां** युवां **सुम्नाय** सुखार्थं **यः** **तुष्टवत्** स्तुयात् । यश्च **वसूयात्** वसु धनमात्मन इच्छेत् । अस्मा इत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Give, **Aśvins**, invigorating food, dripping with butter, to him who praises you, the lords of liberality, toobtain happiness; who desires affluence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Aśvins, offer nourishment dripping with ghee to him  
 who will praise you for your favor and will seek goods from you, o lords  of the drop.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
 <details open><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -120,23 +120,23 @@ Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Bestow on him, O Asvins, food that strengthens, and that drops with oil,  
      On him who praises you for bliss, and, Lords of bounty, prays for wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewähret ihm schmalztriefende Nahrung, ihr Asvin, der euch um eure Gunst preist und Gut heischen möchte, ihr Herren der Gabe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Diesem [Vatsa] reichet ihr beide, o Ritter, Speise die von Butter trieft, ihm, der euch, um Huld zu gewinnen, gepriesen hat, ihm werde Gut zu Theil, o Herren des Thaues.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Наделите вы его, о Ашвины,  
 Питательной силой, сочащейся жиром,  

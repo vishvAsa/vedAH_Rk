@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दिव꣡श् चित् ते बृहतो꣡ जातवेदो  
 वइ꣡श्वानर प्र꣡ रिरिचे महित्व꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 युधा꣡ देवे꣡भ्यो व꣡रिवश् चकर्थ
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 राजा॑ । कृ॒ष्टी॒नाम् । अ॒सि॒ । मानु॑षीणाम् । यु॒धा । दे॒वेभ्यः॑ । वरि॑वः । च॒क॒र्थ॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
@@ -123,21 +123,21 @@ genre M
 हे **जातवेदः** जातानां वेदितः **वैश्वानर** अग्ने **ते** तव **महित्वं** माहात्म्यं **बृहतः** महतः **दिवश्चित्** द्युलोकादपि **प्र** **रिरिचे** प्रववृधे । किंच त्वं **मानुषीणां** मनोर्जातानां **कृष्टीनां** प्रजानां **राजा** **असि** अधिपतिर्भवसि । तथा **वरिवः** असुरैरपहृतं धनं **युधा** युद्धेन **देवेभ्यः** **चकर्थ** देवाधीनमकार्षीः ॥ वैश्वानर । पादादित्वात् आष्टमिकनिघाताभावः । रिरिचे । ‘रिचिर् विरेचने'। अत्रोपसर्गवशात् तद्विपरीते आधिक्ये वर्तते। कृष्टीनाम् । नामन्यतरस्याम्' इति नाम उदात्तत्वम्। मानुषीणाम् । मानुषशब्दः ‘मनोर्जातौ ' इति अञ्प्रत्ययान्तः । जातिलक्षणे ङीषि प्राप्ते तदपवादतया ‘शार्ङ्गरवाद्यञः  । इति ङीन् । नित्त्वादाद्युदात्तत्वम् । ङ्याश्छन्दसि बहुलम् ' ( पा. सू. ६. १. १७८ ) इति बहुलवचनात् नाम उदात्तस्याभावः। युधा । ‘युध संप्रहारे' इत्यस्मात् संपदादिलक्षणो भावे क्विप्। वरिवः इति धननाम। ‘नब्विषयस्य ' इत्याद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Vaiśvānara**, who knows all that are born, your magnitude has exceeded that of the spacious heaven; you are the monarch of **manu**-descended men; you have regained for the gods in battle, the wealth (carries off by the **asuras**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even beyond lofty heaven does your greatness project, o Jātavedas  Vaiśvānara.  
 You are king of the communities belonging to the sons of Manu.  
 Through combat you made a wide realm for the gods.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/059/05-06.md">
 <details open><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -146,28 +146,28 @@ Through combat you made a wide realm for the gods.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Even the lofty heaven, O Jatavedas Vaisvanara, hath not attained thy greatness.  
      Thou art the King of lands where men are settled, thou hast brought comfort to the Gods in battle.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Thy greatness, O Gâtavedas, Vaisvânara, has exceeded even the great heaven. Thou art the king of the human tribes; thou hast by fighting gained wide space for the gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Größe reicht selbst über den Himmel hinaus, o Jatavedas Vaisvanara. Du bist der König der menschlichen Völker; durch Kampf hast du den Göttern Freiheit verschafft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den hohen Himmel überragst an Grösse, o Männerhort, du noch, o Wesenkenner, Du bist der König aller Menschenstämme, hast freien Raum im Kampf geschafft den Göttern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже за пределы высокого неба, о Джатаведас,  
 Вайшванара, выходит твое величие.  

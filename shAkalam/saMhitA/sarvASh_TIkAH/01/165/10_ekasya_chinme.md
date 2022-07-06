@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡कस्य चिन् मे विभु꣡ अस्तु ओ꣡जो  
 या꣡ नु꣡ दधृष्वा꣡न् कृण꣡वै मनीषा꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 या꣡नि च्य꣡वम् इ꣡न्द्र इ꣡द् ईश एषाम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 अ॒हम् । हि । उ॒ग्रः । म॒रु॒तः॒ । विदा॑नः । यानि॑ । च्यव॑म् । इन्द्रः॑ । इत् । ई॒शे॒ । ए॒षा॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ekasya* ← *eka*
 - \[noun\], genitive, singular, masculine
@@ -144,20 +144,20 @@ genre M
 इदानीम् इन्द्र आह। **मे** मम **एकस्य** चित् एकस्यैव **विभु** सर्वत्रगमनशीलम् **ओजः** बलम् **अस्तु** । यद्वा । बलम् एकस्यैवास्तु किमर्थमिति चेत् उच्यते । **या** यानि कर्माणि **मनीषा** मनीषया मनसः ईषया **दधृष्वान्** धर्षितवानहं नु क्षिप्रं **कृणवै** कर्तुं शक्नुवानि । हे **मरुतः** अहं **हि** अहं खलु **उग्रः** उद्गूर्णबलः **विदानः** वेदनावान् । **यानि** यानि वसूनि **च्यवं** अवगच्छामि **एषाम्** अहमेव **इन्द्र** **इत्** ईश्वर एव सन् **ईशे** ईश्वरो भवामि । अथवा विदानोऽहं यानि च्यवं यान्युद्दिश्य गच्छेयं एषामीशे । यतोऽहमिन्द्रः अतः शक्त इत्यर्थः ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “(**Indra**): May the prowes of me alone be irresistible; may I quickly accomplish whatever I contemplate in my mind; for verily, **Maruts**, I am fierce and sagacious and to whatever (objects) I direct (my thoughts), of them I am the lord, and rule (over them).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Indra:] Even if I am alone, let my force be far ranging (to do) what in  my daring I shall now do according to my inspired thinking,  
 for I am known as the powerful one, Maruts. What things I shall set in  motion, just I, Indra, am master of these.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In most tr. the rel. cl. of pāda b seems loosely construed with the main clause of pāda a, with the yā́referring to an unexpressed acc. of respect in the main cl.: “Let my force be far-reaching with regard to (those things), which I will do …” However, the vertical parallelism of 9d, 10b, and 10d suggests a different syntactic arrangement 9d yā́ni [kari]ṣyā́kṛṇuhí … 10b yā́nú [dadhṛ]ṣvā́n kṛṇávai … 10d yā́ni Not only do these pādas match phonologically as in the display above, but 9d and 10d show the same syntactic structure: a preposed rel. cl. introduced by an acc. pl.
 
@@ -173,23 +173,23 @@ Hoffmann (Injunk. 247-48) takes it as a subjunctive, an ersatz for the unenlarge
 would match.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Mine only be transcendent power, whatever I, daring in my spirit, may accomplish.  
      For I am known as terrible, O Maruts I, Indra, am the Lord of what I ruined.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch wenn ich allein bin, muß meine Stärke genügend sein, was ich auch jemals wagend mit Bedacht vollführen mag, denn ich bin als der Gewaltige bekannt, ihr Marut. Was ich ins Werk setzte, das bemeistert Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »So muss denn mir allein die höchste Kraft sein; was ich begonnen, führ' ich aus mit Weisheit; Denn mich, o Maruts, kennt man als den starken; was ich ergreife, Indra, der bemeistert's.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже когда я один, да будет моя сила огромна!  
 На что дерзаю, я совершу обдуманно!  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡था पू꣡र्वेभ्यः शतसा꣡ अ꣡मृध्रः  
 सहस्रसाः꣡ पर्य꣡या वा꣡जम् इन्दो  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡व व्रत꣡म् अ꣡नु आ꣡पः सचन्ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ए॒व । प॒व॒स्व॒ । सु॒वि॒ताय॑ । नव्य॑से । तव॑ । व्र॒तम् । अनु॑ । आपः॑ । स॒च॒न्ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yathā*
 - \[adverb\]
@@ -120,7 +120,7 @@ genre M
 हे **इन्दो** सोम त्वं **यथा** **पूर्वेभ्यः** महर्षिभ्यः स्तोतृभ्यः **शतसाः** शतसंख्याकस्य धनस्य दाता तथा **सहस्रसाः** च सन् **पर्ययाः** परिगच्छेः **एव** एवमिदानीमपि **नव्यसे** नवतराय **सुविताय** अभ्युदयाय **पवस्व** क्षर। **तव** **व्रतं** कर्म **अन्वापः** वसतीवर्यः **सचन्ते**। अतः पवस्व ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -133,29 +133,29 @@ Vājam = strength;
 Amṛdhraḥ = invulnerable
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Just as for the earlier ones you encompassed the prize as a winner of  hundreds, of thousands, not shirking, o drop,  
 so purify yourself for renewed good progress. The waters follow your  commandment.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 As to the men of old thou camest, Indu unharmed, to strengthen, winning hundreds, thousands,  
      So now for new felicity flow onward: the waters follow as thy law ordaineth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie du für die Vorfahren Hundert und Tausend gewinnend, nie zurückstehend den Siegespreis einholtest, o Saft, so läutere dich zu erneuter Wohlfahrt! Deinem Geheiß folgen die Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie hundertfach und tausendfach den Vätern du Labung schafftest, Indu, unermüdlich, So riesle nun zu neuem Wohlergehen, auch die Gewässer folgen deinem Willen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как для предков – неустанный покоритель сотен,  
 Покоритель тысяч – ты добивался награды, о сок,  

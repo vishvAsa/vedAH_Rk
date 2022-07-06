@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एते꣡ वदन्ति अ꣡विदन्न् अना꣡ म꣡धु  
 नि꣡ ऊङ्खयन्ते अ꣡धि पक्व꣡ आ꣡मिषि  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ते꣡ सू꣡भर्वा वृषभाः꣡ प्रे꣡म् अराविषुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 वृ॒क्षस्य॑ । शाखा॑म् । अ॒रु॒णस्य॑ । बप्स॑तः । ते । सूभ॑र्वाः । वृ॒ष॒भाः । प्र । ई॒म् । अ॒रा॒वि॒षुः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
@@ -123,37 +123,37 @@ popular
 **अरुणस्य** अरुणवर्णस्य वृक्षस्य शाखां **बप्सतः** भक्षयन्तः **ते** **सूभर्वाः** शोभनभक्षाः **वृषभाः** प्रेमराविषुः प्ररुवन्ति । यथा **पक्वे** **आमिषि** **अधि** आमिषे क्रव्यादो मांसभक्षकाश्च मांसविषये यथा न्यूङ्खयन्ते शब्दविशेषं कुर्वन्ति तद्वत् एते ग्रावाणः वदन्ति शब्दं कुर्वन्ति । किंच **मधु** मदकरं सोमम् **अना** आस्येन **अविदन्** लभन्ते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “They speak, they received into their mouth the sweet (**Soma**), they roar (like the eaters of flesh) overthe roasted meat; chewing the branch of the purplle tree, the voracious bulls have bellowed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They speak; in this way they found the honey. They growl over the  cooked flesh.  
 Gnawing at the branch of the reddish tree, the gluttonous bulls have  
 bellowed out to it.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loudly they speak, for they have found the savoury meath: they make a humming sound over the meat prepared.  
      As they devour the branch of the Red-coloured Tree, these, the well-pastured Bulls, have uttered bellowings.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese reden, sie haben dabei die Süßigkeit gefunden. Sie schlampfen über dem gargekochten Fleische. Indem sie nach dem Zweige des rötlichen Baumes schnappen, haben die gutkauenden Stiere dabei losgebrüllt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sie singen, denn sie fanden nun den süssen Trank, sie brummen lüstern bei dem gar gewordnen Fleisch, Des rothen Strauches Zweig zerkauend haben jetzt die Stiere, die so viel verschlingen, laut gebrüllt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

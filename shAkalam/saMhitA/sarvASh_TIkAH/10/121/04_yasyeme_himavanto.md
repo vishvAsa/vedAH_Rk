@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य इमे꣡ हिम꣡वन्तो महित्वा꣡  
 य꣡स्य समुद्रं꣡ रस꣡या सहा꣡हुः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क꣡स्मै देवा꣡य हवि꣡षा विधेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; repeated line
 यस्य॑ । इ॒माः । प्र॒ऽदिशः॑ । यस्य॑ । बा॒हू इति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasyeme* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -115,37 +115,37 @@ popular;; repeated line
 हिमा अस्मिन् सन्तीति हिमवान् । तेन बहुवचनान्तेन सर्वे पर्वता लक्ष्यन्ते । यथा छत्रिणो गच्छन्तीति । **हिमवन्तः** हिमवदुपलक्षिताः **इमे** दृश्यमानाः सर्वे पर्वताः **यस्य** प्रजापतेः **महित्वा** महत्त्वं माहात्म्यमैश्वर्यमिति **आहुः** । तेन सृष्टत्वात्तद्रूपेणावस्थानाद्वा । तथा **रसया**। रसो जलम् । तद्वती रसा नदी ॥ अर्शआदित्वादच् ॥ जातावेकवचनम्। रसाभिर्नदीभिः सह **समुद्रम्** । पूर्ववदेकवचनम् । सर्वान् समुद्रान् **यस्य** महाभाग्यमिति **आहुः** कथयन्ति सृष्ट्यभिज्ञाः । **यस्य** च **इमाः** **प्रदिशः** प्राच्यारम्भा आग्नेय्याद्याः कोणदिश ईशितव्याः । तथा **बाहू** । वचनव्यत्ययः । बाहवो भुजाः । भुजवत्प्राधान्ययुक्ताः प्रदिशश्च **यस्य** स्वभूताः । तस्में **कस्मै** इत्यादि समानं पूर्वेण ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Through whose greatness these snow-clad (mountains exist), whose property men call the ocean withthe rivers, whose are these quarters of space, who are the two arms -- let us offer worship with an oblation to thedivine Ka.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Whose are these snow-covered mountains [=the Himalayas] in their  greatness; whose is the sea together with the world-stream, they say;  
 whose are these directions, whose (their) two arms [=the zenith and  
 nadir?]— – Who is the god to whom we should do homage with our  oblation?
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His, through his might, are these snow-covered mountains, and men call sea and Rasa his possession:  
      His arms are these, his are these heavenly regions. What God shall we adore with our oblation?
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Durch dessen Macht jene Schneeberge sind, durch dessen Macht, wie sie sagen, der Ozean samt der Rasa ist, durch dessen Macht diese Himmelsgegenden dessen beide Arme sie sind. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In dessen Macht die schneebedeckten Berge, das Meer, der Weltstrom sind nach sichrer Kunde; Dess beide Arme alle Welt umfassen, wem sollen wir als Gott mit Opfer dienen?
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Чьим могуществом (существуют) эти снежные (горы),  
 Чей, (как) говорят, океан вместе с Расой,  

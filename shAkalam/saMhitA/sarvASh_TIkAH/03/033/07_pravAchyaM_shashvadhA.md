@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रवा꣡चियं शश्वधा꣡ वीरि꣡यं त꣡द्  
 इ꣡न्द्रस्य क꣡र्म य꣡द् अ꣡हिं विवृश्च꣡त्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡यन्न् आ꣡पो अ꣡यनम् इछ꣡मानाः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि । वज्रे॑ण । प॒रि॒ऽसदः॑ । ज॒घा॒न॒ । आय॑न् । आपः॑ । अय॑नम् । इ॒च्छमा॑नाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pravācyaṃ* ← *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, singular
@@ -121,43 +121,43 @@ genre M
 योयमिन्द्रोऽहिं मेघं विवृश्चत् उदकप्रेरणार्थं जघानेति यत्कर्मछेदनरूपं तदिदं तस्येन्द्रस्य वीर्यं सामर्थ्यं शश्वधा सर्वदा प्रवाच्यम् । प्रकर्षेण वचनीयम् । तथा स इन्द्रः परिषदः परितः सीदत आसीनान् प्रतिबन्धकारिणोऽसुरान् वज्रेण वि जघान । अथायनं स्थानमिच्छमाना इच्छन्त्य आप आयन् । यान्ति ॥ प्रावाच्यम् । वच परिभाषण इत्यस्मादृहलोर्ण्यदिति । ण्यत् णित्त्वादुपधावृद्धिः । वचोऽशब्द सञ्ज्ञायाम् । पा.७-३-६७ । इति कुत्वाभावः । व्यत्ययेनाद्युदात्तत्वम् । यद्वा वाचयतेरचो यत् । यतोऽनाव इति स्वरः । शश्वधा । शश्वच्छब्धात्स्वार्थे धा प्रत्ययस्तकारलोपश्च द्रष्टव्यः । विवृश्चत् । ओव्रश्चू छेदने । तुदादिः । लङि ग्रहिज्यावयीत्यादिना सम्प्रसारणम् । सह सुपेत्यत्र सहेति योगविभागात्समासः । समासस्वरः । परिषदः । क्विप् । संहितायां सदेरप्रतेरिति षत्वम् । जघान । हन्तेर्लिटि णलि रूपम् । निघातः । आयन् । अय गतावित्यस्य लङि रूपम् । पादादित्वादनिघातः । इच्छमानाः । इषु इच्छायामित्यस्माद्व्यत्ययेन शानच् । तस्य लसार्वधातुकस्वरे कृते प्रत्ययस्वरः ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Viśvāmitra** speaks: Ever is that heroic exploit of **Indra** to be celebrated when he cut Ahi to pieces, and with his thunderbolt destroyed the surrounding (obstructors of the rain), whence the waters proceed in the direction they desire.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Viśvāmitra:] This act of heroism is to be proclaimed ever anew, the  deed of Indra when he hewed apart the serpent.  
 He smashed apart the enclosures with his mace. The waters went  seeking a way to go.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This is the central vs. of the hymn; in it Viśvāmitra practices the kind of praise poetry that the rivers will ask him to reproduce in perpetuity in vs. 8, couched in high formal style. In fact it can be seen as a variant of the opening of the great Indra hymn I.32.1: índrasya nú vīryā̀ṇi prá vocaṃ, yā́ni cakā́ra … Here we have the gerundive pravā́cyam for prá vocam, vīryàm matching vīryā̀ṇi, índrasya as in I.32, and the nominalization kárma for the pf. cakā́ra. The serpent, the mace, and the signature verb √han are then found in the rest of b and in c, as they are in I.32.1. As Watkins points out (Dragon, 309), here the verb √han has been displaced from its standard formulaic role, with áhim as object, to an adjacent part of the myth. Watkins also points out (86 n. 2) that there is “a veritable constellation of inherited words and roots relating to poetry in this passage” (apropos vss. 7-8).
 
 Note the etymological and phonetic figure ā́yan … áyanam in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That hero deed of Indra must be lauded for ever that he rent Ahi in pieces.  
      He smote away the obstructors with his thunder, and eager for their course forth flowed the waters.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Heldentat ist allezeit zu rühmen, das Werk des Indra, daß er den Drachen zerhieb. Mit der Keule zerschlug er die Schranken; es kamen die Gewässer einen Ausgang suchend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dies Heldenwerk ist immerdar zu preisen, das Indra that, als er zerhieb die Schlange; Mit seinem Blitze schlug er die Umlagrer, die Wasser gingen, die den Gang begehrten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вечно достоин провозглашения тот подвиг,  
 Деяние Индры, что он разрубил змея.  

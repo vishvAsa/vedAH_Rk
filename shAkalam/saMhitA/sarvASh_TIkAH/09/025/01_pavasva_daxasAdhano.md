@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡वस्व दक्षसा꣡धनो  
 देवे꣡भ्यः पीत꣡ये हरे  
 मरु꣡द्भ्यो वाय꣡वे म꣡दः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 म॒रुत्ऽभ्यः॑ । वा॒यवे॑ । मदः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
@@ -79,36 +79,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **हरे** हरितवर्ण पापहर्तर्वा सोम **दक्षसाधनः** । दक्षो बलम् । तस्य साधकः **मदः** मदकरश्च त्वं **पवस्व** क्षर। **देवेभ्यः** इन्द्रादिभ्यः **पीतये** पानाय । तथा **मरुद्यःस**  **वायवे** च पीतये पवस्व ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Green-tinted (**Soma**), do you who are the bestower of strength, the exhilarating, flow as a beverage for the gods, for the **Maruts** and for **Vāyu**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Purify yourself, as the one who brings skill to realization, for the gods to  drink, o tawny one,  
 the exhilarating drink for the Maruts and for Vāyu.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 GREEN-HUED! as one who giveth strength flow on for Gods to drink, a draught  
      For Vayu and the Marut host.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Läutere dich als Kraftwirker für die Götter zum Trunke, du Goldgelber, für die Marut, für Vayu als Rauschtrank!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O riesle Kraft verleihend du zum Trunk den Göttern, goldiger! Zum Rausch den Maruts und dem Wind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Очищайся (ты,) направляющий к цели силу действия,  
 Богам для питья, о золотистый,  

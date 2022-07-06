@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्रयुञ्जती꣡ दिव꣡ एति ब्रुवाणा꣡  
 मही꣡ माता꣡ दुहितु꣡र् बोध꣡यन्ती  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पितृ꣡भ्य आ꣡ स꣡दने जो꣡हुवाना
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 आ॒ऽविवा॑सन्ती । यु॒व॒तिः । म॒नी॒षा । पि॒तृऽभ्यः॑ । आ । सद॑ने । जोहु॑वाना ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prayuñjatī* ← *prayuj* ← *√yuj*
 - \[verb noun\], nominative, singular
@@ -105,7 +105,7 @@ genre M
 एषोषस्या । 'प्रयुञ्जती प्राणिनः प्रस्तुतेषु कर्मसु **दिवः** द्युलोकात् **एति** आगच्छति **ब्रुवाणा** स्तूयमाना ॥ कर्मणि कर्तृप्रत्ययः ॥ **मही** महती **माता** प्रकाशस्य देवानां वा निर्मात्री **दुहितुः** भूम्याः **बोधयन्ती** बोधं कुर्वाणा । तदुपजीव्यत्वात् दुहितृत्वम् उपचर्यते । यद्वा दुहितुर्दिव इति संबन्धः । उषसो दिवो दुहितृत्वं ' व्युच्छा दुहितर्दिवः ' ( ऋ. सं. १.४८.१ ) इत्यादिषु प्रसिद्धम् । अन्यत्र च  ‘ दिवो दुहिता भुवनस्य पत्नी' (क्र. सं. ७. ७५. ४ ) इत्युषसः द्युदुहितृत्वम् आम्नातम् । अत इदमधिगम्यते । कदाचिद्यौन्रुषसो जायत उषाश्च दिव इति । प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये' (ऐ. ब्रा.३. ३३) इति हि श्रूयते । लिङ्गं च दृश्यते कार्यकारणभावव्यत्यये  ‘ अदितेर्दक्षो अजायत दक्षाद्वदितिः ' (ऋ. सं १०. ७२. ४) इति ॥ किंच विवासन्ती परिचरन्ती **युवतिः** मिश्रयन्ती सर्वत्र नित्यतरूणी वा **मनीषा** स्तुतिमती **पितृभ्यः** ॥ तृतीयार्थे पञ्चमी॥ पितृभिः पालकैर्देवैः सह **सदने** यागगृहे **आ** सर्वतः **जोहुवाना** आहूयमाना । यद्वा । पितृभ्यः कर्मणां पालकेभ्यो यजमानेभ्य इष्टप्रापणेन पालकेभ्यो वा तेषामर्थाय जोहुवाना ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,13 +116,13 @@ genre M
 Awakener of her daughter: duhitur bodhayantī = bhūmyā bodham kurvāṇā, making or awaking of the daughter, of the earth; uṣas is called divor duhitā bhuvanasya patnī, the daughter of heaven, the bride of earth; genitive rally, she is designated the daughter of heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hitching up, she comes from heaven, she who is called the great mother  of the Daughter (of Heaven [=Dawn]), waking (men),  
 seeking to win, the youthful one, (coming) from the fathers, constantly  calling in the seat (of the sacrifice)—(she is) Inspiration.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 As noted in the published introduction, I take the subj. of this riddling vs. to be manīṣā́ ‘poetic inspiration’, but until this word appears (end of pāda c), the vs. both invites an identification of the subject with Dawn and makes that impossible. The nom. sg.
 
@@ -133,23 +133,23 @@ My interpr. generally follows that of Oldenberg Others (Geldner, Renou, Witzel G
 Assuming (with Oldenberg and me) that manīṣā́is the subj. of the whole vs., the point would seem to be that the inspiration that produces the poetry of the early morning ritual has the power to beget even Dawn herself -- the usual semi-hubristic boast by the poets that even the cosmos is regulated by the ritual performance and the poetry recited there. The phrase “(coming) from the fathers” (by my interpr.; some others take pitṛ́bhyaḥ as dative) reflects the transmission of the poetic tradition from older generations to younger ones. For manīṣā́‘constantly calling’ (jóhuvānā), see VII.24.2 jóhuvatī manīṣā́, also adduced by Oldenberg
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 URGING to toil and making proclamation, seeking Heaven's Daughter comes the Mighty Mother:  
      She comes, the youthful Hymn, unto the Fathers, inviting to her home and loudly calling.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Tochter große Mutter, die des Himmels Tochter heißt, spannt jetzt die Menschen an und weckt sie. Die jugendliche Dichtung lädt die Götter ein, indem sie sie zu den Eltern auf dem Opferplatz ruft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Anschirrend kommt vom Himmel freundlich redend die grosse Mutter, achtend auf die Tochter, Die jugendliche, sich der Andacht freuend, her von den Vätern zu dem Sitz gerufen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягая, движется с неба та, что зовется  
 Великой матерью дочери, пробуждая (людей).  

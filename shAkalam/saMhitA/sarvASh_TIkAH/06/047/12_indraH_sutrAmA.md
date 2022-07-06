@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्रः सुत्रा꣡मा सुअ꣡वाँ अ꣡वोभिः  
 सुमॄळीको꣡+ भवतु विश्व꣡वेदाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुवी꣡रियस्य प꣡तयः सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M;; repeated line
 बाध॑ताम् । द्वेषः॑ । अभ॑यम् । कृ॒णो॒तु॒ । सु॒ऽवीर्य॑स्य । पत॑यः । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
@@ -125,20 +125,20 @@ genre M;; repeated line
 **सुत्रामा** सुष्ठु त्राता **स्ववान्** धनवान् सः **इन्द्रः** **अवोभिः** रक्षणैः **सुमृळीकः** सुष्ठु सुखयिता **भवतु** । तथा च **विश्ववेदाः** सर्वधनः सर्वविद्वान् वा स इन्द्रः **द्वेषः** द्वेष्टॄन शत्रून् **बाधतां** हिनस्तु । **अभयं** भयरहितं चास्माकं **कृणोतु** करोतु । वयं च तत्प्रसादात् **सुवीर्यस्य** शोभनवीर्यस्य **पतयः** **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the protecting, opulent **Indra** be the bestower of felicity by his protections; may he, who is all-knower of felicity by his protections; may he, who is all-knowing, foil our adversaries; may he keep us out of danger, and may we be the possessors of excellent posterity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Indra be of good protection, of good help with his help, very  gracious, affording all possessions.  
 Let him thrust away hatred; let him create fearlessness. Might we be  lords of good heroes in abundance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a variant of 10a mṛḷá, and ábhayaṃ kṛṇotu reminds us of 8ab ánu neṣi … ábhayam.
 
@@ -153,23 +153,23 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May helpful Indra as our good Protector, Lord of all treasures, favour us with succour,  
      Baffle our foes, and give us rest and safety, and may we be the lords of hero vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra, der gute Schirmer, der gute Helfer mit seinen Hilfen, soll uns barmherzig sein, der Allwissende. Er soll die Anfeindungen vertreiben, Sicherheit schaffen. Wir wollen Besitzer tüchtiger Mannschaft sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräftig helfend; Die Feinde schlag' er, schaffe sichern Frieden, und Herren sein wir grosser Heldenscharen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Индра, прекрасный спаситель, прекрасный помощник со (своей) помощью  
 Пусть будет очень милостив (к нам) (он,) всеведущий!  

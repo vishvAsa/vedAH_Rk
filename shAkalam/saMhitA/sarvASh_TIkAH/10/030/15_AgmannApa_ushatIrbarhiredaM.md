@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ग्मन्न् आ꣡प उशती꣡र् बर्हि꣡र् ए꣡दं꣡  
 नि꣡ अध्वरे꣡ असदन् देवय꣡न्तीः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡भूद् उ वः सुश꣡का देवयज्या꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 अध्व॑र्यवः । सु॒नु॒त । इन्द्रा॑य । सोम॑म् । अभू॑त् । ऊं॒ इति॑ । वः॒ । सु॒ऽशका॑ । दे॒व॒ऽय॒ज्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āgmann* ← *āgman* ← *āgam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
@@ -128,37 +128,37 @@ genre M
 **आपः** वसतीवर्येकधनाख्याः **इदम्** ईदृशं **बर्हिः** वेदिस्तरणम् **उशतीः** उशत्यः कामयमानाः **आग्मन्** आगच्छन् । अस्मद्यज्ञं प्रति **आ** आगत्य च **अध्वरे** अस्मदीये यज्ञे **देवयन्तीः** देवान् कामयमानाः। तर्पयितुमिच्छन्त्य इत्यर्थः । **नि** **असदन्** न्यसीदन्। एतज्ज्ञात्वा हे अध्वर्यवः यूयम् **इन्द्राय** इन्द्रार्थं **सोमं** **सुनुत** अभिषुणुत । इदानीमपां प्रसादात् **वः** युष्माकं **देवयज्या** देवानिन्द्रादीनुद्दिश्य क्रियमाणा यागक्रिया **सुशका** सुष्ठु कर्तुं शक्या **अभूदु** आसीदेव ॥ ॥ २६ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The waters desiring (it) have come to this sacred grass, and wishing to satisfy the gods, have satdown at our sacrifice; express priests, the **Soma** for Indrra; for you the worship of the gods is easy.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The eager waters have come here to this ritual grass. Seeking the gods,  they have taken their seats at the ceremony.  
 Adhvaryus, press the soma for Indra. The sacrifice to the gods has  
 become easy for you to master.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now to this grass are come the longing Waters: the Pious Ones are seated at our worship.  
      Adbvaryus, press the Soma juice for Indra so will the service of the Gods be easy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Gewässer sind gern zu diesem Barhis gekommen; sie haben sich niedergesetzt, gottverlangend. Adhvaryu´s, presset für Indra den Soma! Der Gottesdienst ist euch jetzt leicht gemacht worden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Wasser nahten freudig dieser Streu jetzt, und setzten fromm sich bei dem Feste nieder, Dem Indra presst den Soma nun, ihr Priester; gar leicht ist euch der Gottesdienst geworden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прибыли воды, стремящиеся на эту жертвенную солому,  
 Уселись во время обряда, преданные богам.  

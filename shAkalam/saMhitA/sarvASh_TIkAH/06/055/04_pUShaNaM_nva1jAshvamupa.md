@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूष꣡णं नु꣡ अजा꣡शुवम्  
 उ꣡प स्तोषाम वाजि꣡नम्  
 स्व꣡सुर् यो꣡ जार꣡ उच्य꣡ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 स्वसुः॑ । यः । जा॒रः । उ॒च्यते॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣaṇa*
 - \[noun\], accusative, singular, masculine
@@ -82,7 +82,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **अजाश्वं** छागवाहनं **वाजिनम्** अन्नवन्तं बलवन्तं वा **पूषणं** पोषकं देवं **नु** अद्य **उप** **स्तोषाम** उपस्तवाम। **यः** पूषा **स्वसुः** उषसः **जारः** उपपतिरिति **उच्यते** तं पूषणमित्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -93,13 +93,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Svasur yo **jāra** ucyate, the sister of Pūṣan is the dawn, with whom he, as the sun, may be said to associate amorously
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Pūṣan who has goats for horses let us now approach with praise—the  prizewinner,  
 who is said to be the lover of his sister.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
 <details open><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -109,23 +109,23 @@ As noted in the published introduction, these allusions to incest seem remarkabl
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pusan, who driveth goats for steeds, the strong and Mighty, who is called  
      His Sister's lover, will we laud.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den Pusan, der mit Böcken statt Rossen fährt, wollen wir nun besingen, den Siegesgekrönten, der der Buhle seiner Schwester heißt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Lasst uns den Puschan preisen jetzt, den raschen, der mit Ziegen fährt, Den man der Schwester Buhlen nennt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пушана, ездящего на козлах вместо коней, сейчас  
 Мы хотим восхвалить, (этого бога,) приносящего награды,  

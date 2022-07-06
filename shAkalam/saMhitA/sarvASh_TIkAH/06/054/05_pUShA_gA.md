@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पूषा꣡ गा꣡ अ꣡नु एतु नः  
 पूषा꣡ रक्षतु अ꣡र्वतः  
 पूषा꣡ वा꣡जं सनोतु नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पू॒षा । वाज॑म् । स॒नो॒तु॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
@@ -88,35 +88,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूषा** पोषको देवः **नः** अस्मदीयाः **गाः** **अन्वेतु** रक्षणार्थमनुगच्छतु । स च **पूषा** **अर्वतः** अश्वान् **रक्षतु** चोरेभ्यः । तथा **वाजम्** अन्नं च **नः** अस्मभ्यं **पूषा** **सनोतु** प्रयच्छतु ॥ ॥१९॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Pūṣan** come to (guard) our cattle, ma Pūṣan protect our horses; may Pūṣan give us food.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Pūṣan follow after the cows for us; let Pūṣan protect the steeds; let Pūṣan win the prize for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Pusan follow near our kine; may Pusan keep our horses safe:  
      May Pusan gather gear for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan soll unseren Kühen nachgehen, Pusan soll unsere Rosse behüten, Pusan soll uns reichen Gewinn einheimsen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Puschan geh unsern Rindern nach, und unsre Rosse hüte er; Puschan verleihe Labung uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пушан пусть идет вслед за нашими коровами,  
 Пушан пусть охраняет скакунов,  

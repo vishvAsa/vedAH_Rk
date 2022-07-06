@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡हितेन चिद् अ꣡र्वता  
 जीर꣡दानुः सिषासति  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; repeated line
 प्र॒ऽवाच्य॑म् । इ॒न्द्र॒ । तत् । तव॑ । वी॒र्या॑णि । क॒रि॒ष्य॒तः । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ahitena* ← *a*
 - \[adverb\]
@@ -122,14 +122,14 @@ genre M;; repeated line
 अयं **जीरदानुः** क्षिप्रप्रदान इन्द्रः **अहितेन** अयोजितेनाप्रेरितेन’ **चित्** **अर्वता** अरणवताश्वेन **सिषासति** संभक्तुमिच्छति । तस्माद्धे **इन्द्र** वीर्याणि सामर्थ्यानि **करिष्यतः** तव महत्त्वं **प्रवाच्यम्** । स्तुत्यमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He, the swift giver, wishes to bestow blessings (upon us) with his unurged courser, your greatness,**Indra**, as you are about to display your powers, should be proclaimed, Indra's gifts are worthy of praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He of lively gifts is on the point of winning, even with a steed that’s not  spurred on.  
 That of yours should be proclaimed, Indra, when you are going to  
@@ -137,30 +137,30 @@ perform heroic deeds.
 – Auspicious are the gifts of Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Grassmann, Geldner take áhita- as ‘useless’ (untauglich), the negation of what I think of as a later specialized sense of hitá- as ‘useful, beneficial, friendly’, which is not, as far as I know, found in the RV. In his n. Geldner allows the possibility of connection with √hi ‘spur on’ (which is Sāyaṇa’s view), and this seems the better choice. Parallel phraseology supports it: IV.7.11 hinvé árvā, V.36.2 árvato ná hinván, plus the numerous exx. of √hi + áśva-, átya-, and other words for horses. Geldner’s cited parallel, VI.45.2 anāśúnā cid árvatā “even with a steed lacking speed,” also provides support.
 
 I use the “be about to” sense, always possible for desideratives, to tr. siṣāsati, rather than ‘desires to win’. The question is not whether Indra wants to win - of course he does - but that he is about to win despite unfavorable circumstances. The ‘about to’ sense also works better with the future part. kariṣyatáḥ in d.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of swift bounty, he will win e'en with a steed of worthless sort.  
      This, Indra, must be told of thee who wilt perform heroic deeds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch mit untauglichem Rennpferde sucht der Raschgebende den Preis zu gewinnen. Zu rühmen ist das von dir, Indra, wenn du Heldentaten vollbringen willst. - Glückbringend sind Indra´s Gaben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf schlechtem Renner auch gewinnt den Preis der reichlich strömende, Zu rühmen ist, o Indra, dies, wenn deine Thaten du vollbringst, des Indra Gaben bringen Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Даже на непригодном скакуне  
 Быстродающий стремится захватить (награду).  

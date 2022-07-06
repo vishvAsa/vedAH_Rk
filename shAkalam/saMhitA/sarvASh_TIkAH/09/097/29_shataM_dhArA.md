@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 शतं꣡ धा꣡रा देव꣡जाता असृग्रन्  
 सह꣡स्रम् एनाः कव꣡यो मृजन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 पुरएता꣡सि महतो꣡ ध꣡नस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्दो॒ इति॑ । स॒नित्र॑म् । दि॒वः । आ । प॒व॒स्व॒ । पु॒रः॒ऽए॒ता । अ॒सि॒ । म॒ह॒तः । धन॑स्य ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
@@ -122,21 +122,21 @@ genre M
 हे सोम देवजाताः देवार्थं प्रादुर्भूताः शतं शतसङ्ख्याकाः त्वदीयाधाराः असृग्रन् सृज्य- न्ते । ततः कवयः क्रान्तदर्शिनः ऋत्विजः सहस्रं बहुविधाः एनाः त्वदीयाधाराः मृजन्ति अलङ्कुर्वन्ति यद्वा सहस्रमनेकधाम्ऋजन्ति शोधयन्ति । हेइन्दो सनित्रं भजनसाधनं दिवो द्युलोत् अस्माकं पुत्रादीनाञ्च आपवस्व आप्रापय । कुतोस्यधनमितिचेत् तत्राह महतः प्र- भूतधनस्य पुरएता पुरतोगन्तासि भवसि तस्माद्देहि इति ॥ २९ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your hundred streams manifested for the gods are loose; the sages cleanse those thousand (streams); pour wealth upon us, **Indu**, from heaven; you are the precursor of abundant riches.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 A hundred god-generated streams have been sent surging; these  thousand the poets groom.  
 O drop, by purifying yourself bring here from heaven a means of  
 winning. You are the leader of great spoils.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I take the hapax sanítra- in its full lexical value, as a ‘means of winning’, rather than the bleached Spende, Gabe (Grassmann), Lohn (Geldner), le bénéfice (Renou) that prevails. On the accent of the word (and other -tra-stems to seṭ roots), see AiG II.2.701-2, which also glosses the word as I do: ‘Mittel des Gewinnens’, flg. Ludwig.
 
@@ -153,23 +153,23 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sprung from the Gods, a hundred streams, a thousand, have been effused: sages prepare and purge them.  
      Bring us from heaven the means of winnning, Indu; thou art-forerunnner of abundant riches.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hundert gotterzeugte Ströme haben sich ergossen, diese Tausende reinigen die Seher. O Saft, läutere uns Lohn vom Himmel; du bist der Anführer großen Reichtums!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Geströmt sind hundert gotterzeugte Tropfen, von tausend Priestern werden sie gereinigt; Vom Himmel riesle, Soma, her die Gabe, du bist es, welcher grossen Reichthum herführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 выпущено сто потоков, рожденных богами,  
 Тысячу этих (потоков) начищают поэты.  

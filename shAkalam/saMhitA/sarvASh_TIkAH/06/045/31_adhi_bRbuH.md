@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡धि बृबुः꣡ पणीनां᳐꣡  
 व꣡र्षिष्ठे मूर्ध꣡न् अस्था᳐त्  
 उरुः꣡ क꣡क्षो न꣡ गाङ्गियः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 उ॒रुः । कक्षः॑ । न । गा॒ङ्ग्यः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhi*
 - \[adverb\]
@@ -80,7 +80,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 बृबुर्नाम पणीनां तक्षा । तत्सकाशाल्लब्धधनो भरद्वाजस्तदीयं दानमनेन तृचेनास्तौत् । एतच्च मनुना स्मर्यते–' भरद्वाजः क्षुधार्तस्तु सपुत्रो विजने वने । बह्वीर्गाः प्रतिजग्राह बृबोस्तक्ष्णो महायशाः' (मनु. १०. १०७) इति ॥ पणनात् पणयो वणिज एतत्संज्ञा असुरा वा । तेषां तक्षा बृबुः **वर्षिष्ठे** **मूर्धन्** मूर्धनि मूर्धवदुच्छ्रिते स्थले **अधि** **अस्थात्** अधिष्ठितोऽभूत् **गाङ्ग्यः** गङ्गायाः कूले उन्नते भवः **कक्षो** **न** कक्ष इव **उरुः** विस्तीर्णः सन् । जातितो हीनोऽपि दातृत्वात् सर्वत्र श्रेष्ठो भवतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -91,34 +91,34 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Bṛbu paṇīnām varṣiṣṭhe **mūrdhan** adhyasthāt = he stood over upon the high plural ce, as if it were on the forehead of the Paṇis; mūrdhavat ucchrite sthale; the Paṇis may be either merchants or traders, or **asuras**, so termed; like the elevated bank of the Ganges: uruḥ kakṣo na gāṅgyaḥ = gaṅgāyāḥ kule vistīrṇe ivā, as on the broad bank of the Ganges, that is, as the bank is above the bed of the river.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Br̥bu has stood upon the highest head of the niggards [/Paṇis];  
 (he is) as broad of girth as the Ganges—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pādas ab are identical to VIII.94.3. For my interpr. of the hemistich and esp. of the phrase aryá ā́see comm. there. Given the un-Ārya phonology of Bṛbu’s name, there may be a particular pleasure in hymning the un-Ārya patron Bṛbu away from the aríVI.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Brbu hath set himself above the Panis, o'er their highest head,  
      Like the wide bush on Ganga's bank.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hoch erhaben über den Pani´s steht Bribu wie das weite Dickicht an der Ganga.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bribu trat siegreich auf das höchste Haupt der Diebe wie Urukakscha Gangia.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Брибу над Пани  
 Поднялся на высочайшую вершину,  

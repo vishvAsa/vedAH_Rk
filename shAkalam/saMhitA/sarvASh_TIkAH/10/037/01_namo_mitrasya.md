@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡मो मित्र꣡स्य व꣡रुणस्य च꣡क्षसे  
 महो꣡ देवा꣡य त꣡द् ऋतं꣡ सपर्यत  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 दिव꣡स् पुत्रा꣡य सू꣡रियाय शंसत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 दू॒रे॒ऽदृशे॑ । दे॒वऽजा॑ताय । के॒तवे॑ । दि॒वः । पु॒त्राय॑ । सूर्या॑य । शं॒स॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
@@ -117,7 +117,7 @@ genre M
 हे ऋत्विजः यूयं **मित्रस्य** **वरुणस्य** मित्रावरुणयोः **चक्षसे** द्रष्ट्रे **महः** महते **देवाय** द्योतमानाय **दूरेदृशे** दूरे सन्तमपि पश्यते **देवजाताय** देवेषु जाताय **केतवे** विश्वस्य प्रज्ञापकाय **दिवः** **पुत्राय** पुत्रभूताय । दिवि जायमानत्वात् तत्पुत्रत्वव्यपदेशः । **सूर्याय** सूर्यार्थं **नमः** कृत्वा **तत्** विहितम् **ऋतं** यागादिलक्षणं कर्म **सपर्यत** पूजयत । **शंसत** स्तुतिमपि कुरुत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,29 +130,29 @@ Alternative: a salutation to the Sun, as Mitra and Varuṇa;
 Cakṣase = the seer; or, Mitra andVaruṇa may typify the world
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Homage to the eye of Mitra and Varuṇa. Do great service to this truth  [=hymn] for the god.  
 To the one seen from afar, the signal born of the gods, the son of heaven,  to the Sun—recite!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Do homage unto Varuna's and Mitra's Eye: offer this solemn worship to the Mighty God,  
      Who seeth far away, the Ensign, born of Gods. Sing praises unto Surya, to the Son of Dyaus.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Verneigung vor dem Auge des Mitra und Varuna! Dem großen Gotte weihet dieses wahre Wort; dem weithin sichtbaren, gotterzeugten Wahrzeichen, des Himmels Sohne, dem Surya traget es vor!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Anbetung sei dem Auge Mitra-Varuna's, dem Gotte bringt voll hoher Andacht Opfer dar; Der gottgebornen Leuchte, welche weithin schaut, dem Sonnengott, dem Sohn des Himmels, singt ein Lied.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поклон глазу Митры-Варуны!  
 Мощно служите богу этой истиной!  

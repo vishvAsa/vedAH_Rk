@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ ग꣡र्भम् ओ꣡षधीनां᳐  
 ग꣡वां कृणो꣡ति अ꣡र्वताम्  
 पर्ज꣡न्यः पुरुषी꣡णा᳐म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M
 प॒र्जन्यः॑ । पु॒रु॒षीणा॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -81,43 +81,43 @@ genre M
 **यः** पर्जन्यः **ओषधीनां** व्रीह्यादीनां **गवाम्** **अर्वताम्** अर्वतीनां वडवानां **पुरुषीणां** नारीणां च यः **पर्जन्यः** **गर्भं** प्रसूतिहेतुं बीजमुदकरूपं **कृणोति** करोति तस्मै पर्जन्यायेत्युत्तरत्र संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who is the cause of impregnation of plural nts, of cows, of mares, of women.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who creates the embryo of the plants, of the cows, of the steeds,  
 of human women—Parjanya—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. consists only of a rel. cl; it could be attached either to vs. 1 or to vs. 3, both of which have pronouns in pādas adjacent to vs. 2 that could serve as referent (sá 1c, tásmai 3a). I prefer attaching it to vs. 3, since this configuration would fit the standard model of definitional relative clause / ritually based main clause.
 
 On gárbham óṣadhīnām see VII.101.1c and comm. thereon.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Parjanya is the God who forms in kine, in mares, in plants of earth,  
      And womankind, the germ of life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Parjanya, der den Keim der Pflanzen, die Leibesfrucht der Kühe, der Rosse und der Weiber bereitet,
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Pardschanja ist es, welcher Frucht in Kräutern und in Rossen auch, In Kühen und in Weibern schafft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Парджанья – (тот,) кто создает  
 Зародыш (жизни) у растений,  

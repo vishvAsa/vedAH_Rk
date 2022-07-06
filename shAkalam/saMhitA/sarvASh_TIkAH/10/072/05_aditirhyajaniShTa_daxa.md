@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡दितिर् हि꣡ अ꣡जनिष्ट  
 द꣡क्ष या꣡ दुहिता꣡ त꣡व  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 भद्रा꣡ अमृ꣡तबन्धवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 ताम् । दे॒वाः । अनु॑ । अ॒जा॒य॒न्त॒ । भ॒द्राः । अ॒मृत॑ऽबन्धवः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
@@ -105,7 +105,7 @@ popular;; epic anuṣṭubh (380)
 हे **दक्ष** **तव** **या** **दुहिता** अभूत् सा **अदितिः** **अजनिष्ट** **हि** पुत्रानादित्यान् । तदेवाह। **तां** **देवा** **अन्वजायन्त** **भद्राः** स्तुत्या भजनीयाः **अमृतबन्धवः** अमरणबन्धनाः ॥ ॥ १ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -116,30 +116,30 @@ popular;; epic anuṣṭubh (380)
 I.e. gave birth to (those **Ādityas**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because Aditi was born—she who is your daughter, o Dakṣa—  
 following her, the gods were born, the auspicious kin of the  
 immortal one.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For Aditi, O Daksa, she who is thy Daughter, was brought forth.  
      After her were the blessed Gods born sharers of immortal life.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn Aditi wurde geboren als deine Tochter, o Daksa. Nach ihr wurden die Götter geboren, die guten Unsterblichkeitsgenossen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn sie, die deine Tochter ist, o Dakscha, Aditi entsprang, Ihr nach entsprang der Götter Schar, die seligen Unsterblichen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь (это) Адити родилась,  
 О Дакша, которая дочь твоя.  

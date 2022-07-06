@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 न꣡ यात꣡व इन्दर+ जूजुवुर् नो  
 न꣡ व꣡न्दना शविष्ठ वेदिया꣡भिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मा꣡ शिश्न꣡देवा अ꣡पि गुर् ऋतं꣡ नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । श॒र्ध॒त् । अ॒र्यः । विषु॑णस्य । ज॒न्तोः । मा । शि॒श्नऽदे॑वाः । अपि॑ । गुः॒ । ऋ॒तम् । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *na*
 - \[adverb\]
@@ -127,7 +127,7 @@ genre M
 हे **इन्द्र** **यातवः** राक्षसाः **नः** अस्मान् **न** **जूजुवुः** न हिंस्युः। जूजुवुरिति हिंसाक्रियः पृथक्करणक्रियो वा । अपि च हे **शविष्ठ** बलवत्तमेन्द्र **वन्दना** वन्दनानि रक्षांसि **वेद्याभिः** वेद्याभ्यः प्रजाभ्यो नोऽस्मान् **न** जूजुवुः न पृथक्कुर्वन्तु । किंच **अर्यः** स्वामी **सः** इन्द्रः **विषुणस्य** विषमस्य **जन्तोः** प्राणिनः शासने **शर्धत्** उत्सहेत । अथ च **शिश्नदेवाः** । शिश्नेन दीव्यन्ति क्रीडन्त इति शिश्नदेवाः । अब्रह्मचर्या इत्यर्थः । **नः** अस्माकम् **ऋतं** यज्ञं सत्यं वा **मा** **अपि** **गुः** मा अपिगमन् । तथा च यास्कः-’ स उत्सहतां यो विषुणस्य जन्तोर्विषमस्य मा शिश्नदेवा अब्रह्मचर्याः । शिश्नं श्नथतेः । अपि गुर्ऋतं नः सत्यं वा यज्ञं वा' (निरु. ४. १९) इति ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,34 +138,34 @@ genre M
 Let not the rākṣasas: na **vandana** vedyabhiḥ = vandanāni, rākṣāṃsi, prajabhyaḥ;the unchaste: śiṣnadevaḥ, abrahmacharya ityarthaḥ (**Yaska** 4.19); or, may be those who hold the **liṅga** for adeity
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sorcerers do not incite us, Indra, nor sycophants with their knowing  wiles, o most powerful one.  
 He [=Indra?] will vaunt himself over the stranger, over the race contrary  (to our ways). Let the phallus-worshipers not penetrate our truth.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 A verse with several rare words. The neut. pl. vándanā in b is unclear; the neut. sg. vándanam in VII.50.2 appears to be some medical condition, and in AV
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 No evil spirits have impelled us, Indra, nor fiends, O Mightiest God, with their devices.  
      Let our true God subdue the hostile rabble: let not the lewd approach our holy worship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Uns treiben keine Zaubergeister, Indra, nicht wissentlich die Vandana´s, du Stärkster. Dieser möge über den Feind - hoch und niedrig - triumphieren. Nicht sollen die Phallusverehrer in unser rechtes Werk eindringen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gespenster nicht erregten uns, o Indra, nicht Hexenvolk mit Hinterlist, o starker; Der Gott wehr ab das wechselnde Gesindel; Buhlgötter lass nicht nahen unserm Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Нас не преследует ни нечистая сила, о Индра,  
 Ни ванданы с их обманами, о сильнейший.  

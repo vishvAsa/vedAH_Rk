@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् अन्या꣡ य꣡न्ति उ꣡प यन्ति अन्याः꣡  
 समान꣡म् ऊर्वं꣡ नदि꣡यः पृणन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अपां꣡ न꣡पातम् प꣡रि तस्थुर् आ꣡पः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । ऊं॒ इति॑ । शुचि॑म् । शुच॑यः । दी॒दि॒ऽवांस॑म् । अ॒पाम् । नपा॑तम् । परि॑ । त॒स्थुः॒ । आपः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -131,7 +131,7 @@ genre M
 अन्यावर्ष्याआपः संयन्तिभूम्यासङ्गच्छन्ते अन्याश्चपूर्वन्तत्रावस्थिताः उपयन्ति उपगच्छन्ति ताः सर्वा आपः समानं सहनद्योनदी भूताऊर्वं समुद्रमध्येवर्तमानंवडवानलम्पृणन्ति प्रीणयन्ति पृणप्रीण ने तौदादिकः तमु तमेवापान्नपातंशुचिन्निर्मलन्दिवांसन्दीप्यमानं दीदेतिश्छान्दसोदीप्तिकर्मा लिटः क्वसुः वस्वेकाजाद्घसामितिनियमादिडभावः छन्दसिवेतिवक्तव्यमितिवचनात् द्विर्वचनाभावः एवं भूतं शुचयः शुद्धाआपः परितस्थुः परिवृत्यतिष्ठन्ति एषहिवैद्युताग्निरूपेणमेघेवर्तमानोस्मानजीजन दितिबुद्ध्यावडवानलरूपेणवर्तमानन्तं पर्युपासतइत्यर्थः यद्वा अन्याएकधनाख्याआपः संयन्ति चात्वालोत्करयोर्मध्ये वसतीवरीभिः सङ्गच्छन्ते अन्याःवसतीवर्याख्याआपश्चउपयन्ति उपगच्छन्ति ऎकमत्यम्प्राप्ताभवन्ति एताश्चमिलित्वायज्ञं साधयन्त्यस्तत्साध्यवृष्टिद्वारानद्योभूत्वाऊर्वंवृणन्तीत्यादि समानम् एवंहिआपोवाअस्पर्धन्तवयम्पूर्वयज्ञंवक्ष्यामइत्यादिकम्ब्राह्मणविनियोगश्चानुगृह्यते ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ genre M
 The ocean-fire: ūrvam nadyaḥ pṛṇanti: **ūrva** = submarine fire, samudramadhye vartamānam vaḍavānalam; another explanation for the hymn: the ference is to two sorts of water:one termed **ekadhanāḥ**, the other vasatīvaryāḥ, apparently the juice of the **Soma**, as distinguished by their employment in the **Agni**-ṣomīya sacrifice, after collecting the fat of the victim, and which are to be mixed for the completion of the ceremony; the **mantra** used on the occasion is **yajus**. 6.23; in this **yajuṣ**, vasatīvarī = vasatīvarī saṃjñām somārthānām apām grahaṇam kāryam, the taking of the waters named vasatīvarī, which mean, the Soma is observed; cf. **Kātyāyana** **sūtras** 8.9, 7.10
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Some come together; others go directly (to the sea): (but) it is the same  vessel that the rivers fill. The gleaming, shining Child of the Waters do the gleaming waters  
 surround.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Some floods unite themselves and others join them: die sounding rivers fill one common storehouse.  
      On every side the bright Floods have encompassed the bright resplendent Offspring of the Waters.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Some flow together, some approach the ocean; The rivers thus fill up the common cistern. And him the pure, the shining Son of Waters, The waters pure on all sides have surrounded.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Während die einen sich vereinigen, münden andere ins Meer; die Flüsse füllen den gemeinsamen Ozean. Diesen reinen, leuchtenden Apam Napat umgeben die reinen Gewässer.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint gehn diese, jene beieinander, dasselbe Becken füllen an die Ströme; Und ihn, den einen, leuchtenden umstanden die reinen Wasser, ihn, den Sohn der Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Соединяются одни, приближаются (к морю) другие.  
 Общее вместилище наполняют реки.  

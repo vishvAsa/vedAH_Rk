@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡स्य श꣡श्वत् पपिवाँ꣡ इन्द्र श꣡त्रून्  
 अनानुकृत्या꣡ र꣡णिया चक꣡र्थ  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡ ते म꣡दाय सुत꣡ इन्द्र सो꣡मः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । ते॒ । पुर॑म्ऽधिम् । तवि॑षीम् । इ॒य॒र्ति॒ । सः । ते॒ । मदा॑य । सु॒तः । इ॒न्द्र॒ । सोमः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
@@ -132,37 +132,37 @@ genre M
 हे **इन्द्र** **पपिवान्** ॥ पिबतेः क्वसौ ‘वस्वेकाजाद्धसाम्' इतीडागमः ॥ सोमं पीतवांस्त्वम् **अनानुकृत्या** अनुकरणरहितेन सकृत्प्रहारेण शत्रुहननसमर्थेन **रण्या** सांयुगीनेनायुधेन। रणशब्दात् साध्वर्थे प्राग्घितीयो यत् ॥ **यस्य** यजमानस्य **शत्रून्** **शश्वत्** बहुवारं **चकर्थ** हतवानसि ॥  ‘ कृञ् हिंसायाम् । लिटि थलि यद्योगादनिघाते लित्स्वरः ॥ **सः** यष्टा **ते** त्वदर्थं **तविषीं** महतीं **पुरंधिं** बह्वीं स्तुतिम् **इयर्ति** प्रेरयति ॥  ‘ऋ  गतौ ' । जौहोत्यादिकः । ‘अर्तिपिपर्त्योः' इत्यभ्यासस्येत्वम्। 'अभ्यासस्यासवर्णे' इतीयङ् ॥ हे **इन्द्र** **सुतः** अभिषुतः **सः** **सोमः** **ते** **मदाय** समर्थो भवति । यद्वा । स यष्टा सुतः सोमः । सुब्व्यत्ययः । अभिषुतं सोमं त्वन्मदाय प्रेरयति ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That **Soma**, drinking constantly of which, **Indra** you have destroyed the enemies (of the worshipper)with an inimitable weapon-- that Soma prompts your powerful, abundant (laudation), it is effused Indra, for yourexhilaration.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Having drunk of it time after time, Indra, you have done in your rivals,  have done inimitable joyous [/martial] (deeds).  
 It rouses your plenitude and power; Indra, it is pressed for your  
 exhilaration—the soma!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Pressed for thy joyous banquet is the Soma, Soma whereof thou, Indra, ever drinking,  
      Hast waged unequalled battles with thy foemen, which prompts the mighty flow of thine abundance.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach dessen Trunke du, Indra, immer wieder die Feinde erschlugest und unnachahmliche, erfreuliche Taten vollbracht hast, der regt deine Freigebigkeit und Kraft an, dieser Soma ist dir zum Rausche gepreßt, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Nach dessen Trunk du, Indra, an den Feinden stets unerreichte Kampfesthat vollbracht hast, Der regt dir an die Fülle deiner Kräfte, der Soma ist zum Rausch gebraut dir, Indra!
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот, кого испив, о Индра, ты снова и снова (убивал) врагов  
 (И) совершал неповторимые радостные (деяния),  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नि꣡त्यस्तोत्रो व꣡नस्प꣡तिर्  
 धीना꣡म् अन्तः꣡ सबर्दु꣡घः  
 हिन्वानो꣡ मा꣡नुषा युगा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हि॒न्वा॒नः । मानु॑षा । यु॒गा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *nityastotro* ← *nitya*
 - \[noun\]
@@ -78,7 +78,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **नित्यस्तोत्रः** संततस्तोत्रः **सबर्दुघः** अमृतस्य दोग्धा **वनस्पतिः** वनानां पालयिता सोमः **मानुषा** मानुषाणि **युगा** युगानि अहीनैकाहात्मकानि **हिन्वानः** प्रीणयन् **धीनां** कर्मणाम् **अन्तः** मध्ये निवसतीत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -89,13 +89,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 The genitive ration of men: **mānuṣa** **yuga** = the various sacrificial seasons, whether occupying one or many days
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The lord of the forest who has praise as his own, yielding the juice of  insights within (the filter),  
 propelling the human generations,
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. has no finite verb; I take it as a preamble to 8, in order to capture the play between the two forms of hinvānáḥ (7c, 8b).
 
@@ -108,23 +108,23 @@ However, he considers the obvious solution to be to take dhīnā́m with antár,
 The common med. part. hinvāná- can be both transitive and passive, in approx. equal numbers. In this vs. it is transitive, but in the next passive.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Tree whose praises never fail yields heavenly milk among our hymns,  
      Urging men's generations on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der eigene Loblieder hat, der Baum, der unter Liedern immer melkende, indem er die menschlichen Geschlechter anregt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Pflanzenfürst, dem Lob gebührt, weilt in der nektarreichen Milch, Den Menschenstämmen holdgesinnt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Обладающее собственной хвалой лесное дерево,  
 Чудесно доящееся среди молитв,  

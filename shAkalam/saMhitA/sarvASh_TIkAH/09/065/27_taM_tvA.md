@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ त्वा सुते꣡षु आभु꣡वो  
 हिन्विरे꣡ देव꣡तातये  
 स꣡ पवस्वान꣡या रुचा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सः । प॒व॒स्व॒ । अ॒नया॑ । रु॒चा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -83,20 +83,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अथ प्रत्यक्षकृतः । हे सोम **आभुवः** । कर्मकरणार्थं समन्ताद्भवन्तीत्याभुव ऋत्विजः । ते **सुतेषु** । सुतोऽभिषुतः सोमः । तद्वत्सु यज्ञेषु **देवतातये** । ‘ सर्वदेवात्तातिल्' इति स्वार्थिकस्तातिल् । इन्द्रादिदेवेभ्यः **तं** तादृशं प्रसिद्धं **त्वा** त्वां **हिन्विरे** ग्रावभिः प्रेरयन्ति । अभिषुण्वन्तीत्यर्थः । ततः **सः** अभिषुतः स त्वम् **अनया** **रुचा** दीप्यमानया धारया द्रोणकलशं प्रति **पवस्व** आगच्छ । पवतिर्गतिकर्मा । यद्वा । अनया मदीयया रुचा स्तुत्या सह कलशमागच्छ । कलशाभिगमनकाले हि सोमं स्तुवन्ति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The priests who are present send you forth at the rites at which you are effused for the whole of the gods; do you flow with this splendour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those present at the pressings have impelled you for the sake of the  divine conclave.  
 Purify yourself with this light.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The pāda-final dat. devátātaye echoes devávītaye in 18c.
 
@@ -110,23 +110,23 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So they who toil with juices send thee forward for the Gods' repast:  
      So with this splendour flow thou on.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dich treiben die am ausgepreßten Soma beteiligten Priester an für die Götterschar. Läutere du dich mit dem gewohnten Glaste!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So trieben bei den Tränken dich die Diener hin zur Götterschar, So riesle nun mit deinem Glanz.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ते दिवो꣡ न꣡ वृष्ट꣡यो  
 धा꣡रा यन्ति असश्च꣡तः  
 अभि꣡ शुक्रा꣡म् उपस्ति꣡रम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 अ॒भि । शु॒क्राम् । उ॒प॒ऽस्तिर॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -82,20 +82,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे सोम **ते** तव **असश्चतः** असङ्गाः **धाराः** **दिवः** अन्तरिक्षात् **वृष्टयः** **न** वर्षाणीव **शुक्रां** शुक्लवर्णां शुक्लवर्णैः अविलोमभिर्निर्मितम् **उपस्तिरम्** उपस्तीर्यमाणं पवित्रम् **अभि** प्रति **प्र** **यन्ति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your unconnected streams descend like the rian from heaven upon the white outspread (fleece).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like rains from heaven your streams go forth inexhaustible,  
 toward the gleaming underlayer.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas are simply a word-order variant of IX.57.1ab prá te dhā́rā asaścáto, divó ná yanti vṛṣṭáyaḥ.
 
@@ -110,23 +110,23 @@ No overt signs of unity.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like showers of rain that fall from heaven thy streams perpetually flow  
      To the bright fleece spread under them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine Strahlen fließen unversieglich wie die Regenströme des Himmels über die helle Unterlage.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es schreiten deine Strome vor wie Himmels Regen, flutenreich Zum hellen Ueberwurf der Streu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

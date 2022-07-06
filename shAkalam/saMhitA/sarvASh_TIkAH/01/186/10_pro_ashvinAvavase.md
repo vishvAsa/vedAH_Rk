@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ऊअश्वि꣡नाव् अ꣡वसे कृणुध्वम्  
 प्र꣡ पूष꣡णं स्व꣡तवसो हि꣡ स꣡न्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡छा सुम्ना꣡य ववृतीय देवा꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 अ॒द्वे॒षः । विष्णुः॑ । वातः॑ । ऋ॒भु॒क्षाः । अच्छ॑ । सु॒म्नाय॑ । व॒वृ॒ती॒य॒ । दे॒वान् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pro* ← *pra*
 - \[adverb\]
@@ -134,7 +134,7 @@ genre M
 हे ऋत्विजः **अश्विनौ** एतन्नामकौ देवावुद्दिश्य **अवसे** अस्मद्रक्षणाय **प्रो** **कृणुध्वं** स्तुतिं प्रकर्षेण कृणुध्वम् । **पूषणं** पोषकम् एतन्नामकं देवमपि अवसे प्रकर्षेण स्तुतिं कृणुध्वम् । किंच ये **स्वतवसः** स्वायत्तबलाः **सन्ति** तानपि प्र कृणुध्वम् । के ते। **अद्वेषः** द्वेषरहितः **विष्णुः** व्याप्तः एतन्नामको देवः । प्रथममनाहूतोऽपि न कुप्यतीति वक्तुम् अद्वेषः इत्युक्तम् । तथा **वातः** सर्वत्र संचारी वायुः **ऋभुक्षाः** पतिरिन्द्रश्च । एतानपि प्र कृणुध्वम् । अतोऽहं स्वायत्तबलान् सर्वानपि **देवान्** **सुम्नाय** सुखाय **अच्छ** आभिमुख्येन **ववृतीय** स्तोत्रैः अभिवर्तयेयम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -147,29 +147,29 @@ Who are of independent powers: svatavaso hi **santi** = ye svāyattabalāḥ san
 Ṛbhukṣin = **Indra**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Bring the Aśvins forward to help; bring Pūṣan forward, for they are  powerful by nature,  
 (as are) Viṣṇu without hatred, the Wind, and the Master of the R̥bhus.  I would turn the gods here for their good favor.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Incline the Asvins to show grace, and Pusan, for power and might have they, their own possession.  
      Friendly are Visnu, Vata, and Rbhuksan so may I bring the Gods to make us happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Lasset den Asvin den Vorrang, daß sie gewogen seien, lasset Pusan den Vorrang, denn sie sind die Selbstsicheren! Der nie feindselige Vishnu. Vata, Ribhuksan - die Götter möchte ich zur Gunsterweisung herwenden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Ritter auch macht euch geneigt zur Hülfe, den Puschan auch, denn sie sind durch sich selbst stark; Und freundlich sind der Wind, Ribhukschan, Vischnu, ich möchte her zur Huld die Götter wenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сделайте Ашвинов главными, чтобы (они) помогали,  
 Пушана – главным: ведь они сильны сами собой!  

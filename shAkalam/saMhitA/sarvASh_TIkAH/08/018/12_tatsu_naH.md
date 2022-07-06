@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡त् सु꣡ नः श꣡र्म यछत  
 आ꣡दित्या य꣡न् मु꣡मोचति  
 ए꣡नस्वन्तं चिद् ए꣡नसः सुदानवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 एन॑स्वन्तम् । चि॒त् । एन॑सः । सु॒ऽदा॒न॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -92,36 +92,36 @@ genre M
 हे **आदित्याः** **तत्** **शर्म** सुखं **नः** अस्मभ्यं **सु** सुष्ठु **यच्छत** दत्त । हे **सुदानवः** शोभनदानाः युष्मदीयं **यत्** शर्म **एनस्वन्तं** **चित्** पापिनमपि स्तोतारम् **एनसः** पापात् **मुमोचति** मोचयति तद्यच्छतेत्यन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Grant freely to us, genitive rous **Ādityas**, that happiness which liberates even the offending (worshipper)from sin.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Ādityas, extend to us the shelter that will free  
 even the sinful from his sin, o you of good gifts.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now, O Adityas, grant to us the shelter that lets man go free,  
      Yea, even the sinner from his sin, ye Bounteous Gods 1
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewähret uns fein diesen Schutz, o Aditya´s, der selbst den Sünder von der Sünde befreit, ihr Gabenschöne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O reichet solchen Schutz uns dar, Aditja's der auch von der Schuld Den Schuldbeladenen befreit, o spendende.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Прекрасно даруйте нам ту защиту,  
 О Адитьи, которая освободила бы  

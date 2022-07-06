@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वावृधे न꣡रियो यो꣡षणासु  
 वृ꣡षा शि꣡शुर् वृषभो꣡ यज्ञि꣡यासु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡ सात꣡ये तनु꣡वम् मामृजीत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 सः । वा॒जिन॑म् । म॒घव॑त्ऽभ्यः । द॒धा॒ति॒ । वि । सा॒तये॑ । त॒न्व॑म् । म॒मृ॒जी॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -112,7 +112,7 @@ genre M
 मध्यस्थानो वायुः सरस्वान् । **नर्यः** नृभ्यो हितः वृषा सेचनसमर्थः **शिशुः** अल्पः प्रादुर्भावसमयेऽल्पतया दृश्यमानः **वृषभः** वर्षिता एवंभूतः **सः** सरस्वान् **यज्ञियासु** यज्ञार्हासु **योषणासु** योषित्स्वात्मनः कलत्रभूतासु मध्यमस्थानास्वप्सु मध्ये **ववृधे** वर्धते । **सः** तादृशः सरस्वान् **मघवद्भ्यः** हविष्मद्भ्यो यजमानेभ्यः **वाजिनं** बलिनं पुत्रं **दधाति** ददाति । तथा **सातये** लाभार्थं **तन्वं** तेषां शरीरं **वि** **मामृजीत** विमार्ष्टि । लाभार्थं संस्करोतीत्यर्थः । यद्यप्येषा सरस्वतः स्तुतिस्तथापि सरस्वत्याः प्रीणनार्थं तत्स्तवनमिति छान्दोमिके सारस्वते तृचेऽस्या उक्तो विनियोगो न विरुध्यते ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -123,36 +123,36 @@ genre M
 Sarasvat: Sarasvat is the wind **Vāyu** in thefirmament, madhyasthāno **vāyuḥ** sarasvat
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He has grown strong as a manly one among maidens, a bullish bull calf  among the (river-maidens) worthy of the sacrifice.  
 He provides a prizewinner to the benefactors. He should groom his body  for winning.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The male subject of this vs. is not identified, but the Anukramaṇī identifies him as Sarasvant. This seems correct (despite doubts raised, e.g., by Oldenberg), given that half of the following hymn, the 2nd tṛca (VII.96.4-6), is devoted to him and he is mentioned by name in all three vss. The two hymns VII.95 and 96, despite being in different meter, should be read against each other. See comm. ad vs. 1 above.
 
 I take med. māmṛjīta as reflexive, with Sarasvant both subj. and obj. (so also, apparently, Kümmel 373), though Geldner thinks that the obj. is the racehorse and Renou that both subj. and obj. are the racehorse.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Friendly to man he grew among the women, a strong young Steer amid the Holy Ladies.  
      He gives the fleet steed to our wealthy princes, and decks their bodies for success in battle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er ist als der Männliche unter den jungen Frauen, der männliche junge Bulle unter den opferwürdigen Göttinnen herangewachsen. Er verschafft den Gönnern ein Siegesroß. Er möge seinen Leib reinigen, daß es den Sieg gewinne.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und bei den Jungfraun wuchs der kräft'ge Stier auf, der junge Bull bei den erhabnen Weibern; Er schenket schnelles Ross den Opferherren und schmückt zum Spenden seinen eignen Leib aus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он вырос мужем среди юных жен,  
 Мужественный молодой бык среди (богинь), достойных жертв.  

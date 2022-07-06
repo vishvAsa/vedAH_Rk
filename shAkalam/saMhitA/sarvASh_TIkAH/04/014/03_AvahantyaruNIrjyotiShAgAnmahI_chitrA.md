@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आव꣡हन्ति अरुणी꣡र् ज्यो꣡तिषा꣡गान्  
 मही꣡ चित्रा꣡ रश्मि꣡भिश् चे꣡किताना  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 उषा꣡ ईयते सुयु꣡जा र꣡थेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 प्र॒ऽबो॒धय॑न्ती । सु॒ऽवि॒ताय॑ । दे॒वी । उ॒षाः । ई॒य॒ते॒ । सु॒ऽयुजा॑ । रथे॑न ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *āvahanty* ← *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
@@ -108,46 +108,46 @@ genre M
 **आवहन्ती** धनानि धारयन्ती **अरुणीः** अरुणवर्णाः ॥ प्रथमैकवचने द्वितीयाबहुवचनं छान्दसम् ॥ **ज्योतिषा** तेजसा युक्ता **मही** महती **रश्मिभिः** किरणैः **चित्रा** दर्शनीया **चेकिताना** जानती उषाः **आगात्** आगच्छत् । किंच **प्रबोधयन्ती** सुप्तान् प्रबुद्धान् कुर्वती **देवी** द्योतमाना **उषाः** **सुयुजा** शोभनयुक्तेन **रथेन** **सुविताय** सुखप्राप्तये **ईयते** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The great and intelligent dawn, variegated with (many-coloured) rays of purple tint, bringing opulence, has come with (her) lustre; the divine Uṣas, arousing (the sleepers), proceeds with her well-harnessed car (to distribute) felicity.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ruddy (mare) conveying (him) hither has come with her light, the  great showy one, showing herself ever more with her rays.  
 The goddess awakening (the world) for good faring, Dawn speeds with  her well-yoked chariot.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Though both 13.3 and 14.3 contain horse imagery and the verb √vah ‘convey’, they are otherwise quite distinct, with Dawn the topic of 14.3.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Red Dawn.is come, riding with brightness onward, distinguished by her beams, gay-hued and mighty.  
      Dawn on her nobly-harnessed car, the Goddess, awaking men to happiness, approacheth.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The red one 1, carrying hither (bliss) 2, has come with her light, the great, brilliant one, shining with her rays. Ushas, the goddess, awakening (all beings) to welfare, goes along on her well-yoked chariot.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auf ihrer Herfahrt ist die Morgenröte mit ihrem Lichte gekommen, die große, prächtige, mit ihren Strahlen prangend. Die Göttin Usas kommt zu guter Fahrt, die Schläfer aufweckend, auf gutbespanntem Wagen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Herfahrend kam mit Glanz die Morgenröthe, die grosse, lichte, hell mit Strahlen leuchtend, Zum Wohlergehen weckend kam die Göttin in Eil' herbei auf wohlgeschirrtem Wagen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приближаясь (к нам), явилась алая (заря) со своим светом,  
 Яркая, великая, давая о себе знать (своими) лучами,  

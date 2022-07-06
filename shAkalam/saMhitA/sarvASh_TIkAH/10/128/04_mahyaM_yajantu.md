@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 म꣡ह्यं यजन्तु म꣡म या꣡नि हव्या꣡  
 आ꣡कूतिः सत्या꣡ म꣡नसो मे अस्तु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 वि꣡श्वे देवासो अ꣡धि वोचता नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 एनः॑ । मा । नि । गा॒म् । क॒त॒मत् । च॒न । अ॒हम् । विश्वे॑ । दे॒वा॒सः॒ । अधि॑ । वो॒च॒त॒ । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
@@ -136,36 +136,36 @@ popular
 **मह्यं** मदर्थं **यजन्तु** ऋत्विजो देवान् हविर्भिर्यजन्तु । यद्वा । षष्ठ्यर्थे चतुर्थी । मह्यं मदीया ऋत्विज इत्यर्थः। **मम** स्वभूतानि हव्यानि **यानि** हवींषि  चरुपुरोडाशादीनि सन्ति तैर्हविर्भिरित्यर्थः । तथा **मे** **मनसः** **आकूतिः** संकल्पनमभीष्टस्य प्रार्थनं **सत्या** यथार्थम् **अस्तु** । अपि च **अहं** **कतमच्चन** किमपि **एनः** पापं **मा** **नि** **गां** मा नियतं निकृष्टतरं वा गच्छेयम् । पापं मा कार्षमित्यर्थः ॥ एतेर्माङि लुङिः ‘ इणो गा लुङि ' इति गादेशः । गातिस्था ' इति सिचो लुक् ॥ अपि च हे **विश्वे** सर्वे **देवासः** देवा: यूयं **नः** अस्माकम् **अधि** **वोचत** विवादपदेषु पक्षपातेन ब्रूत ॥ वक्तेर्लोटि व्यत्ययेनाङ्।  ‘ वच उम् ' इत्युमागमः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May (my priests) offer for me whatever oblations of mine (there may be); may the purpose of my mindbe sincere; may I not fall into any kind of sin; universal gods, bless us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For me let them sacrifice (with) the oblations that are mine. Let the  purpose of my mind come true.  
 Let me not fall into any kind of offense. All you gods, speak for us!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For me let them present all mine oblations, and let my mind's intention be accomplished.  
      May I he guiltless of the least transgression: and, all ye Go-is, do ye combine to bless us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Für mich sollen sie opfern, mein sind alle Opferspenden. Die Absicht meines Geistes soll in Erfüllung gehen. Nicht möchte ich irgend einen Verstoß begehen; ihr Götter alle, seid meine Verteidiger!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Priester sollen meine Gaben opfern; es mög' sich meines Herzens Wunsch erfüllen, In Sünde mög' ich nimmermehr gerathen; ihr Götter alle, zeiget euch uns freundlich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Для меня пусть жертвуют они жертвенные дары, которые есть у меня!  
 Пусть сбудется пожелание мысли моей!  

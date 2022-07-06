@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡गछद् उ वि꣡प्रतमः सखीय꣡न्न्  
 अ꣡सूदयत् सुकृ꣡ते ग꣡र्भम् अ꣡द्रिः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थाभवद् अ꣡ङ्गिराः सद्यो꣡ अ꣡र्चन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒सान॑ । मर्यः॑ । युव॑ऽभिः । म॒ख॒स्यन् । अथ॑ । अ॒भ॒व॒त् । अङ्गि॑राः । स॒द्यः । अर्च॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *agacchad* ← *agacchat* ← *gam*
 - \[verb\], singular, Imperfect
@@ -122,14 +122,14 @@ genre M
 **विप्रतमः** अतिशयेन मेधावी **सखीयन्** अङ्गिरोभिः साकमात्मनः सखित्वमिच्छन् इन्द्रः **अगच्छत्** **उ** । गोभिरधिष्ठितं पर्वतमगमदेव । सः **अद्रिः** सखित्वमिच्छन् **सुकृते** सुष्ठु युद्धकर्त्रे इन्द्राय **गर्भं** गवात्मकं गर्भम् **असूदयत्** निरगमयत् । **युवभिः** नित्यतरुणैर्मरुद्भिः सह **मखस्यन्** गोधनमङ्गिरसामिच्छन् **मर्यः** असुराणां मारयितेन्द्रः **ससान** असुरैरपहृताः ताः गाः भेजे । **अथ** अनन्तरम् **अङ्गिराः** सप्तानामङ्गिरसां मध्ये वरिष्ठोऽङ्गिरा ऋषिः इन्द्रात् ता गा लब्ध्वा **सद्यः** तदानीमेव **अर्चन्** इन्द्रं पूजयन् **अभवत्** ॥ अगच्छत् । गमेर्लङि रूपम् । सखीयन् । सुप आत्मनः क्यच् । असूदयत् । ‘षूद निरासे' इत्यस्य ण्यन्तस्य लङि रूपम् । ससान। ‘षण संभक्तौ' इत्यस्य लिटि णलि रूपम् । लित्स्वरः। मखस्यन् । 'छन्दसि परेच्छायाम्' इति" परेच्छायामपि क्यच् । सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः इति सुगागमः । एकादेशस्वरः । अङ्गिराः ।' सृ गतौ' । अङ्गारशब्द उपपदे सर्तेर्धातोरसुन्प्रत्ययः । उपपदे गकारात् परस्याकारस्येत्वम् अन्त्यलोपश्च धातोर्लोपश्च ‘अङ्गिराः' इति सूत्रेण निपात्यते। भूतकालेऽङ्गारेभ्यः सृत इति अङ्गिरा ऋषिः । ‘अङ्गारेष्वङ्गिराः ' ( निरु. ३. १७ ) इति यास्कः । नित्स्वरः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The most sage (**Indra**), desirous of the friendship of the (**aṅgirasas**), went to the cave, and the mountain yielded its contents to the valiant (deity), aided by the youthful **Maruts**, equally wishing (to conciliate the sages); the destroyer (of the **asuras**) recovered (the cattle), and immediately aṅgirasas became his worshipper.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The foremost inspired poet [=Indra] came, acting in partnership (with  the Aṅgirases). The rock brought the embryo to sweetness for the  
 good worker.  
@@ -137,7 +137,7 @@ The young blood won, doing battle alongside the youths. Then he
 became (an) Aṅgiras immediately upon singing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note that all pādas begin with 3rd sg. preterite verbs: a ágachat, b ásūdayat, c sasā́na, d (modified initial pos.) áthābhavat (which most likely represents átha abhavat, though áthā bhavat is possible). All but the perfect in c are augmented imperfects; this contrasts markedly with vs. 6, which, as was just noted, contains four 3rd sg. injunctives, three of them aorists. Three of the four pādas of vs. 7 also end with nom. sg. masc. pres. participles: a sakhīyán, c makhasyán, d árcan.
 
@@ -161,23 +161,23 @@ above) and given that it occupies pāda-final position in 7d and 8c, it should h
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Longing for friendship came the noblest singer: the hill poured forth its treasure for the pious.  
      The Hero with young followers fought and conquered, and straightway Angiras was singing praises,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Es kam der erste Wortführer, sich als Freund erweisend. Der Fels brachte für den Guttäter seine Leibesfrucht zur Reife. Der Jüngling gewann mit den Jugendlichen, sich als Freigebiger erweisend. Da ward sogleich der Angiras zum Lobsänger:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Und es kam der weiseste [Indra] sich ihr gesellend; dem kräftig wirkenden machte der Fels seinen Schboss zurecht, der Held gewann kämpfend sammt den Jünglingen [den Angiras]; da war sogleich fröhlich [oder leuchtend] das Haupt der Angirascn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 И пошел самый вдохновенный, настраиваясь как друг.  
 Скала сделала (свой) плод зрелым для совершающего благое деяние.  

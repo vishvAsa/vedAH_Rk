@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ भानु꣡भिर् विभा꣡वा विभा꣡ति  
 अग्नि꣡र् देवे꣡भिर् ऋता꣡वा अ꣡जस्रः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡परिह्वृतो अ꣡तियो न꣡ स꣡प्तिः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 आ । यः । वि॒वाय॑ । स॒ख्या । सखि॑ऽभ्यः । अप॑रिऽह्वृतः । अत्यः॑ । न । सप्तिः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -113,37 +113,37 @@ genre M
 **ऋतवा** सत्यवानुदकवान् यज्ञवान् वा **अजस्रः** अनुपक्षीणोऽहिंसितो वा । केनचिदनभिभूत इत्यर्थः । **विभावा** दीप्तिमान् **यः** अग्निर्देवेभिः देवैर्द्योतमानैः **भानुभिः** तेजोभिः **विभाति** विविधं दीप्यते किंच **यः** अग्निः **सख्या** सख्यानि सखिभिः कर्तव्यानि कर्माणि हविरादीनि । कर्तुमिति शेषः । **सखिभ्यः** सखिभूतानां यजमानानामर्थाय **अपरिह्वृतः** अपरिहिंसितः । अपरिरश्रान्त इत्यर्थः । **आ** **विवाय** आभिमुख्येन गच्छति । तत्र दृष्टान्तः । **सप्तिः** । सदासर्पण इत्यर्थः । **अत्यो** **न** यथा सततगमनसमर्थोऽश्वोऽपरिश्रान्तो गच्छति तद्वत् । सोऽयमग्निरस्माभिर्यागार्थमाहूत इति पूर्ववद्योज्यम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Agni**, the observer of truth, the eternal who shines resplendent with celestial splendours, who comesuntiring like a swift horse, (bringing) friendly gifts to his friends.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The far-radiant one who beams afar with his radiant beams together  with the gods—truthful, untiring Agni—  
 who has pursued comradeship for his comrades, undeviating like a  
 teamed steed;
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, the Holy One, the everlasting, who shines far beaming with celestial splendours;  
      He who hath come unto his friends with friendship, like a fleet steed who never trips or stumbles.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der in Strahlen erstrahlend mit den Göttern erstrahlt, der ordnungsgemäße, nie ermattende Agni, der den Freunden zum Freundesdienst herbeigeeilt ist ohne Umwege wie ein Renngespann.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der strahlenreich mit hellen Strahlen leuchtet, der heil'ge Agni, rastlos mit den Göttern, Der seinen Freunden Freundschaft bringend herkam, unangefochten wie ein schneller Renner,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто, сверкающий, сверкает пламенем  
 Вместе с богами, Агни, преданный закону, неиссякающий,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभि꣡ न इ꣡ळा यूथ꣡स्य माता꣡  
 स्म꣡न् नदी꣡भिर् उर्व꣡शी वा गृणातु  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अभिऊर्ण्वाना꣡ प्रभृथ꣡स्य आयोः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 उ॒र्वशी॑ । वा॒ । बृ॒ह॒त्ऽदि॒वा । गृ॒णा॒ना । अ॒भि॒ऽऊ॒र्ण्वा॒ना । प्र॒ऽभृ॒थस्य॑ । आ॒योः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhi*
 - \[adverb\]
@@ -113,7 +113,7 @@ genre M
 **अभि** **गृणातु** **नः** अस्मान् **इळा** भूमिः **यूथस्य** गोसंघस्य **माता** निर्मात्री । यद्वा इळा गोरूपधरा मनोः पुत्रीत्याहुः । यद्वा यूथस्य मरुद्गणस्य निर्मात्रीला माध्यमिकी वाक् । अथवा **उर्वशी** माध्यमिकी वाक् । **नदीभिः** गङ्गादिभिः सह गृणातु । स्मच्छब्दः प्रशम्तवचन इत्युक्तम् । प्राशस्त्यं गृणातु । **वा** अथवा **उर्वशी** **बृहद्दिवा** प्रभूतदीप्तिः **गृणाना** शब्दयन्त्यस्मदीयं कर्म प्रशंसन्ती **अभ्यूर्ण्वाना** आच्छादयन्ती । कम् । आयोः आयुं मनुष्यं यजमानम् । केन । **प्रभृथस्य** तेजसो वोदकस्य वा दानेन । ‘प्रभृथस्य तेजसो वोदकस्य ' ( निरु. ११. ४९ ) इति निरुक्तम् । अथवा प्रभृथस्य प्रभरणवत आयोर्यज्ञमभ्यूर्ण्वानाच्छादयन्ती ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -126,14 +126,14 @@ Iḷā and Urvaśī: iḷā = the earth, or the daughter of **Manu**, in the for
 Prabhṛta = light, **tejas**, or water, udakam (**Nirukta** 2.49) and being in the genitive tive, requires dānena, by the gift of; or, the ellipse may be filled up by yajñam, when the sentence will be: covering or protecting the sacrifice of the man making the offering
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let Iḍā, mother of the flock, greet us, or let Urvaśī, along with the  rivers.  
 Or Urvaśī Br̥haddivā, being sung, covering herself, (mother) of the  
 (ritual) presentation, mother of Āyu,
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">
 <details open><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -151,23 +151,23 @@ I am uncertain what to do with ūravyàsya in 20 (PN or not), and I also do not 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Ila, Mother of the herds of cattle, and Urvasi with all the streams accept us;  
      May Urvasi in lofty heaven accepting, as she partakes the oblation of the living,
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ila, die Mutter der Herde oder Urvasi samt den Flüssen soll uns zustimmen. Oder Urvasi vom hohen Himmel, die gepriesene, die sich verhüllende Mutter der Darbringung des Ayu:
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns sei der Heerde Mutter, Ida, oder mit ihren Strömen Urvaçi gewogen; Verborgen fördre sie des Menschen Gabe und fördre uns die kraftbegabte Nahrung.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ида, мать стада, или Урваши  
 Вместе с реками пусть нас поддержат, воспевая,  

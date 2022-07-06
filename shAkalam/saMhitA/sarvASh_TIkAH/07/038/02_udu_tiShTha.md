@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡द् उ तिष्ठ सवितः श्रुधि꣡ अस्य꣡  
 हि꣡रण्यपाणे प्र꣡भृताव् ऋत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 आ꣡ नृ꣡भ्यो मर्तभो꣡जनं सुवानः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 वि । उ॒र्वीम् । पृ॒थ्वीम् । अ॒मति॑म् । सृ॒जा॒नः । आ । नृऽभ्यः॑ । म॒र्त॒ऽभोज॑नम् । सु॒वा॒नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ud*
 - \[adverb\]
@@ -124,37 +124,37 @@ genre M
 हे **सवितः** सर्वस्य प्रेरयितर्देव त्वम् **उत्** **तिष्ठ** ऊर्ध्वं गच्छ । ततो हे **हिरण्यपाणे** हे सुवर्णहस्त त्वमस्मदभीप्सितप्रदानाय **ऋतस्य** यज्ञस्य **प्रभृतौ** प्रणयने **अस्य** अस्मदीयमिदं स्तोत्रं **श्रुधि** शृणु । **उ** इति पूरणः । कीदृशस्त्वम् । **उर्वी** विस्तीर्णां **पृथ्वीं** प्रथिताम् **अमतिं** रूपं प्रभां **वि** **सृजानः** विसृजन **नृभ्यः** नेतृभ्यः स्तोतृभ्यः **मर्तभोजनं** मनुष्याणां भोगयोग्यं धनम् **आ** **सुवानः** प्रेरयन् । एवंभूतस्त्वमिदं स्तोत्रं शृण्विति संबन्धः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rise up **Savitā**; hear (our solicitations) upon the celebration of this ceremony, (you who are) diffusinglight over the spacious earth, and bestowing human enjoyment upon men.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stand up, Savitar. Listen, o golden-palmed one, at the (ritual)  
 presentation of this truth,  
 unloosing your emblem wide and broad, impelling mortals’ sustenance  here for men.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Rise up, O Savitar whose hands are golden, and hear this man while sacrifice is offered,  
      Spreading afar thy broad and wide effulgence, and bringing mortal men the food that feeds them.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Erhebe dich, o Savitri, höre zu bei dem Beginn dieses rechten Werkes, du Goldhändiger, dein Bildnis weit und breit entfaltend, den Männern die Menschenzehrung zuweisend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Savitar, goldhändiger, erheb dich, und hör auf diesen bei des Opfers Weihung; Ergiessend deinen weiten, breiten Schimmer und Menschennahrung spendend diesen Männern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Поднимись же, Савитар! Услышь этого (певца),  
 О златорукий, при совершении обряда,  

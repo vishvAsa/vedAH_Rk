@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 को꣡ अस्य शु꣡ष्मं त꣡विषीं वरात  
 ए꣡को ध꣡ना भरते अ꣡प्रतीतः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इ꣡न्द्रस्यउ꣡जसो भिय꣡सा जिहाते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इ॒मे । चि॒त् । अ॒स्य॒ । ज्रय॑सः । नु । दे॒वी इति॑ । इन्द्र॑स्य । ओज॑सः । भि॒यसा॑ । जि॒हा॒ते॒ इति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
@@ -123,36 +123,36 @@ genre M
 **अस्य** इन्द्रस्य संबन्धिनीं **शुष्मं** शोषणीं **तविषीं** बलं **कः** **वराते** निवारयेत् ॥ शुष्मशब्दस्य स्त्रीलिङ्गविशेषणत्वेऽपि नियतलिङ्गत्वात् पुँल्लिङ्गत्वमेव ॥ **अप्रतीतः** केनाप्यप्रतिगत इन्द्रः **एकः** असहाय एव **धना** धनानि शत्रूणां वसूनि **भरते** बिभर्ति हरते वा । **देवी** देव्यौ द्योतमाने **इमे** **चित्** एव द्यावापृथिव्यौ **ज्रयसः** वेगवतः अस्य **इन्द्रस्य** संबन्धिनः **ओजसः** बलादुद्भूतेन **भियसा** भयेन **नु** क्षिप्रं **जिहाते** गच्छतः । चलत इत्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Who may resist the withering might of that **Indra**; he, single and irresistible, carries off the riches (of the enemy); these two divine (beings, heaven and earth), proceed swiftly through fear of the strength of the quick-moving Indra.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Who can obstruct his tempestuousness, his power? Alone, unopposable,  he bears away riches.  
 Even these two goddesses [=the two world-halves] now bend (away) from  fear of his expansion, of Indra’s strength.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Who may arrest his strength or cheek his vigour? Alone, resistless, he bears off all riches.  
      Even these Twain, these Goddesses, through terror of Indra's might, retire from his dominion.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wer vermöchte seinen Ungestüm, seine Kraft aufzuhalten? Der Unwiderstehliche trägt allein die Kampfpreise davon. Selbst diese beiden Göttinnen, Himmel und Erde, weichen aus Furcht vor seinem Anlauf, vor Indra´s Stärke.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wer ist's, der seiner Wuth und Stärke trotze? er unbesiegt trägt fort allein die Beute; Vor seiner Grösse weichen selbst die beiden Göttinnen hier aus Furcht vor seiner Stärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто удержит его ярость, (его) силу?  
 Тот, кому нет равных, один уносит награды.  

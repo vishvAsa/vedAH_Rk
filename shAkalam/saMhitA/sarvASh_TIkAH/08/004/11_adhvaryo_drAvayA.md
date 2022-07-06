@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡ध्वर्यो द्राव꣡या तुवं꣡  
 सो꣡मम् इ꣡न्द्रः पिपासति  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 आ꣡ च जगाम वृत्रहा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 उप॑ । नू॒नम् । यु॒यु॒जे॒ । वृष॑णा । हरी॒ इति॑ । आ । च॒ । ज॒गा॒म॒ । वृ॒त्र॒ऽहा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
@@ -111,36 +111,36 @@ genre M
 हे **अध्वर्यो** अध्वरस्य नेतः **त्वं** **सोमं** **द्रावय** । उत्तरवेदिलक्षणं स्थानं प्रापय । यद्वा। रसात्मना द्रवणशीलं कुरु । अभिषुण्वित्यर्थः । किं कारणमिति चेत् । **इन्द्रः** **पिपासति** इमं सोमं पातुमिच्छति । त्वयैतत् कथमवगतमिति चेत् तत्राह। **वृषणा** वर्षितारौ युवानौ वा **हरी** अश्वौ **नूनम्** अद्य **युयुजे** । उपगम्य सारथिर्योजितवान् रथे। **वृत्रहा** वृत्रस्य हन्तेन्द्रः **च** **आ** **जगाम** आगतवान् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Quickly, priest, pour forth the **Soma**, for **Indra** is thirsty; verily he has harnessed his vigorous steeds, theslayer of **Vṛtra has** arrived.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Adhvaryu, make the soma run: Indra wants to drink.  
 Now he has yoked his two bullish fallow bays and has come here, the  Vr̥tra-smasher.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Priest, let the Soma juice flow forth, for Indra longs to drink thereof.  
      He even now hath yoked his vigorous Bay Steeds: the Vrtra-slayer hath come near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Adhvaryu! Laß du den Soma strömen; Indra hat Durst. Jetzt hat er sein Falbenpaar, das bullengleiche, angeschirrt und ist hergekommen, der Vritratöter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dein Werk beeile, Opferer, denn Indra heischt den Somatrunk, Schon hat er seine goldnen Hengste angeschirrt, schon ist er hier, der Vritrafeind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Адхварью! Выпусти ты струиться  
 Сому! Индра хочет пить.  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दि꣡शः सू꣡र्यो न꣡ मिनाति प्र꣡दिष्टा  
 दिवे꣡-दिवे ह꣡रिअश्वप्रसूताः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विमो꣡चनं कृणुते त꣡त् तु꣡ अस्य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 सम् । यत् । आन॑ट् । अध्व॑नः । आत् । इत् । अश्वैः॑ । वि॒ऽमोच॑नम् । कृ॒णु॒ते॒ । तत् । तु । अ॒स्य॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
@@ -136,7 +136,7 @@ genre M
 हर्यश्वप्रसूताः। हरी अश्वौ यस्यासाविति हर्यश्व इन्द्रः । तेन प्रेरिताः **दिशः** प्रागादयः **दिवेदिवे** प्रतिदिवसं **प्रदिष्टाः** सूर्यस्य गमनार्थं दत्ता या दिशो विद्यन्ते ताः **सूर्यो** **न** **मिनाति** न हिनस्ति । किंतु ताभिरेव व्रजति । **यत्** यदा सूर्यः **अध्वनः** गन्तव्यान् प्रदेशान् **अश्वैः** गमनसाधनभूतैः **सम्** आनट् सम्यगश्नुते । **आदित्** अनन्तरमेव **विमोचनं** **कृणुते** । अश्वानां विमोचनं कुरुते । **तत्** एतत्सर्वं कर्म **अस्य** तवैव खलु। **तु** प्रसिद्धौ ॥ सूर्यः। ‘षू प्रेरणे' इत्यस्मात् ‘सुसूधागृधिभ्यः क्रन्' इति क्रन्प्रत्ययः । सुवति प्रेरयतीति सूर आदित्यः । सूर एव सूर्यः । वस्वादित्वात् स्वार्थिको यत् ।' यतोऽनावः' इत्याद्युदात्तत्वम् । मिनाति । 'मीञ् हिंसायाम् ।  ‘मीनातेर्निगमे ' इति ह्रस्वः । हर्यश्वप्रसूताः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । आनट् । ‘अशू व्याप्तौ ' इत्यस्य ‘बहुलं छन्दसि ' इति लङः श्लुः । अश्नोतेश्च ' इति नुडागमः । व्रश्चादिना पत्वम् । यद्योगादनिघातः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ Harms not the quarters: **diśaḥ** sūryo na mināti na hiṃsati = he does no
 Haryaśva = **Indra**, or he with the tawny horses
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The Sun does not confound the directions as they are directed, as they  are day after day propelled forth by him of the fallow bays.  
 When he has fully reached (the end) of the road, only after that does he  perform his unyoking of the horses. But that is his (way).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The grammar of ab is so straightforward that it is easy to overlook how odd the statement is. It is not surprising that the sun does not confound the quarters or directions (díśaḥ); after all, the layout of the cosmos is not likely to be altered by the sun as it passes through. But what does it mean that these same díśaḥ are prasūtā́ḥ every day by Indra? The ppl. can only belong either to √sū ‘propel’ or √sū ‘give birth’, far more likely the former (pace Witzel Gotō, who seem to take it to the latter): only the former is found with prá and in fact 9d contains an exactly parallel expression, tváyā … prásūtāḥ “propelled by you.” Geldner tr. “vom Falbenlenker bestimmten,” but ‘determined, fixed, set’ seems the exactly opposite of what prá √sū ordinarily means, including in nearby 9d. Such a meaning makes more sense of this vs. but at the expense of arbitrarily assigning a unique meaning to this rather common lexeme. If we take the idiom seriously, the hemistich seems to be saying that while the sun respects the placement of the parts of the cosmos, Indra pushes them around in some fashion, remaking or reconfiguring the cosmos daily. I simply do not understand this; I must be missing something. Perhaps Indra arranges the díśaḥ every day in a slightly new way for the sun’s road? The sun is presumably the subj. of ā́naṭ; so the standard tr.
 
@@ -164,23 +164,23 @@ The cmpd háryaśvaprasūta- technically has three members -- that is a 2nd memb
 áśvaiḥ is an instr. of separation with vimócanam.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Surya transgresses not the ordered limits set daily by the Lord of Tawny Coursers.  
      When to the goal he comes, his journey ended, his Steeds he looses: this is Indra's doing.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sonne verfehlt nicht die vorgezeichneten Richtungen, die Tag für Tag vom Falbenlenker bestimmten. Wenn sie ihre Wege vollendet hat, dann macht sie mit den Rossen Ausspann. Das aber ist sein Werk.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne ändert nicht die festen Ziele, der Tag für Tag vom Rosseherrn gesetzt sind, Wenn sie die Bahn durchlaufen, dann erst lenkt sie zur Einkehr mit den Rossen, das ist sein Werk.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Солнце не меняет предписанных сторон света,  
 Порожденных день за днем обладателем буланых коней.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऊर्ध्व꣡स् तिष्ठा न ऊत꣡ये  
 अस्मि꣡न् वा꣡जे शतक्रतो  
 स꣡म् अन्ये꣡षु ब्रवावहै
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M
 सम् । अ॒न्येषु॑ । ब्र॒वा॒व॒है॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ūrdhvas* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
@@ -84,35 +84,35 @@ genre M
 हे **शतक्रतो** शतसंख्याककर्मोपेत **अस्मिन्** प्रसक्ते **वाजे** संग्रामे **नः** अस्माकम् **ऊतये** रक्षणाय **ऊर्ध्वः** उन्नतः उत्सुकः **तिष्ठ** भव । त्वं च अहं च मिलित्वा **अन्येषु** कार्यान्तरेषु **सं** **ब्रवावहै**। सम्यक् विचारयावः ॥ तिष्ठ । ‘द्व्यचोऽतस्तिङः' इति संहितायां दीर्घः। ऊतये । ‘ऊतियूति इत्यादिना क्तिन उदात्तत्वम् । अस्मिन् ।' उडिदम्' इत्यादिना सप्तम्या उदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Rise up, **Śatakratu**, for our defence in this conflict; we will talk together in other matters.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Stand erect to help us at this prize-contest, o you of a hundred resolves. Let us make pledge to each other at the other (contests).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of a Hundred Powers, stand up to lend us succour in this fight  
      In others too let us agree.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Steh aufrecht uns zum Beistand bei diesem Entscheidungskampf, du Ratreicher ! Über die andern wollen wir beide uns noch verständigen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erhebe dich zu unserm Schutz in dieser Schlacht, vielwirkender, In andern auch gesell dich mir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Стой прямо нам для помощи  
 В состязании за эту награду, о стоумный!  

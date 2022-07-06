@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 देवा꣡नाम् इ꣡द् अ꣡वो मह꣡त्  
 त꣡द् आ꣡ वृणीमहे वय꣡म्  
 वृ꣡ष्णाम् अस्म꣡भ्यम् ऊत꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वृष्णा॑म् । अ॒स्मभ्य॑म् । ऊ॒तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
@@ -88,36 +88,36 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे देवाः **देवानां** स्वतेजसा सर्वतो दीप्यमानानाम् । **इत्** एवार्थे । युष्माकमेव **महत्** व्याप्तं महनीयं वा **अवः** पालनं यद्विद्यते तत् **वृष्णां** कामानां वर्षितॄणां युष्माकं स्वभूतं **तत्** रक्षणं यजमानाः **वयम्** **आ** **वृणीमहे** समन्तात्संभजामहे । किमर्थम् । **अस्मभ्यमूतये** । पूर्वमस्मभ्यमस्मदर्थमिति साधारण्येनोक्त्वा तद्विशिनष्टि ऊतय इति । अस्माकं पालनायेति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit that might protection of the desire-raining deities in our own behalf, for our own help.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We would choose the great help of the gods,  
 of the bulls, to aid us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 WE choose unto ourselves that high protection of the Mighty Gods  
      That it may help and succour us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die große Gunst der Götter, der Bullen, die erbitten wir uns zum Beistand.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Götter grosse Förderung, die wünschen wir uns recht herbei, Der kräftigen zum Segen uns.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "सतो बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ यो꣡ ननक्षे꣡ अभि꣡ ओ꣡जसा क्रि꣡विं  
 वधइः꣡ शु꣡ष्णं निघोष꣡यन्  
@@ -14,7 +14,7 @@ ChandaH = "सतो बृहती"
 आ꣡द् इ꣡ज् जनिष्ट पा꣡र्थिवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 य॒दा । इत् । अस्त॑म्भीत् । प्र॒थय॑न् । अ॒मूम् । दिव॑म् । आत् । इत् । ज॒नि॒ष्ट॒ । पार्थि॑वः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -119,37 +119,37 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “He who overpowered Krivi by his might and silences Suṣṇa with his weapons, when he spread abroadyonder sky and propped it up, then first the dweller on earth was born.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He who attained Krivi by his strength, while making Śuṣṇa heed with  his murderous weapons,  
 just when he propped up yonder heaven as he spread it out, right after  that the earth dweller was born.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The final pāda is identical to 4d, save for the final word, which serves as subject. The identity of pā́rthivaḥ here isn’t certain. It cannot be Indra, who is the subject of the preceding clauses and whose action in c grounds and precedes the birth of the ‘earth-dweller’ in d. The idea may be that Indra’s cosmogonic actions in c allow the creation of the humans on earth, which has just been separated from heaven.
 
 This interpretation is supported by the following verse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der mit Stärke den Krivi überkam, mit seinen Schlägen den Susna zum Schweigen brachte. - Als er jenen Himmel breitete und stützte, da erst ward der Erdbewohner geboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als er, der kräftig mit Keulenschlägen den Wasserschlauch erlangte, und Çuschna niederschmetterte, den Himmel dort ausbreitete und stützte, da erst erstand der Erdbewohner.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто силой овладел Криви,  
 Смертельными ударами заставил замолчать Шушну…  

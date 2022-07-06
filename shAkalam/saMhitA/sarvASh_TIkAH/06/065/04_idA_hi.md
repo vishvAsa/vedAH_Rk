@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदा꣡ हि꣡ वो विधते꣡ र꣡त्नम् अ꣡स्ति  
 इदा꣡ वीरा꣡य दाशु꣡षे उषासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 नि꣡ ष्म मा꣡वते वहथा पुरा꣡ चित्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 इ॒दा । विप्रा॑य । जर॑ते । यत् । उ॒क्था । नि । स्म॒ । माऽव॑ते । व॒ह॒थ॒ । पु॒रा । चि॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idā*
 - \[adverb\]
@@ -123,20 +123,20 @@ genre M
 हे **उषसः** **इदा** **हि** इदानीमेव **वः** युष्माकं **विधते** परिचरते दातुं **रत्नं** धनम् **अस्ति** । **इदा** हि इदानीमेव **वीराय** प्रेरयित्रे हविषां **दाशुषे** यजमानाय दातुं वो रत्नमस्ति । **इदा** हि इदानीमेव **विप्राय** प्राज्ञाय **जरते** स्तुवते दातुं वो रत्नमस्ति । **यत्** यस्मिन् विप्रे **उक्था** उक्थनामकानि स्तोत्राणि विद्यन्ते **मावते** मत्सदृशाय यजमानाय तद्रत्नं **नि** **वहथ** । **पुरा** **चित्** पुरापि रत्नं मह्यं दत्तम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Verily, Dawns, there is at present wealth to give to your worshiper, to the man offering (oblations) to the sage repeating your praise; if the praises (are accepted), then bring to him who is like me such wealth as has been formerly bestowed (upon myself).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 For right now there exists a treasure for the one who does you honor,  right now for the hero, for the pious one, o Dawns,  
 right now for the poet, when he sings his hymns. Even before you used to  carry (it) down to one such as me.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Another difficult vs., esp. the end of pāda a: áyā nú, which has provoked much disc. (see esp. Oldenberg). I consider it a śleṣa. Central to my approach is the assumption that there’s a clause break before these two words in either reading. On the one hand, I have adopted von Bradke’s clever idea (op. cit., 121), that áyā nú is direct speech, with áyā the 1st sg. pres. subjunctive to √i ‘go’ followed by the temporal particle nú in expected clause-2nd position. This is the collective announcement of the Maruts, “who do not retreat from their birth”: “I will go now.” They are eager to exit the womb (or udder). We might of course expect a plural verb, but Marut reference always vacillates between pl. and collective sg. (see in fact the immediately preceding vs. 3), and this exact expression echoes that of Indra in the narrative of his unnatural birth in IV.18.2 nā́hám áto nír ayā “I will not go from here,” a narrative that might well have been familiar to all.
 
@@ -169,23 +169,23 @@ For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Now is there treasure for the man who serves you, now for the hero, Dawns! who brings oblation;  
      Now for the singer when he sings the praise-song. Even to one like me ye brought aforetime.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn jetzt ist für euch die Zeit der Belohnung für den Verehrer da, jetzt für den opferspendenden Mann, ihr Usas´, jetzt für den Sprecher, wenn er in der Frühe Loblieder singt. Auch ehedem brachtet ihr meinesgleichen etwas ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn bald wird Reichthum dem, der euch verehret, dem Manne, der euch huldigt, Morgenröthen, Dem Sänger bald, wenn Lieder er euch singet, fahrt Gut mir heim wie sonst, dem treugesinnten.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь сейчас уже есть сокровище для поклоняющегося (вам),  
 Сейчас для мужа, почитающего (вас), о утренние зори,  

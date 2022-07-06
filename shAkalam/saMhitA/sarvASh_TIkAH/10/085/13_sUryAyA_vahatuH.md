@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सूर्या꣡या वहतुः꣡ प्रा꣡गात्  
 सविता꣡ य꣡म् अवा꣡सृजत्  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 अ꣡र्जुन्योः प꣡रि उह्यते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 अ॒घासु॑ । ह॒न्य॒न्ते॒ । गावः॑ । अर्जु॑न्योः । परि॑ । उ॒ह्य॒ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sūryāyā* ← *sūryāyāḥ* ← *sūryā*
 - \[noun\], genitive, singular, feminine
@@ -91,36 +91,36 @@ popular;; epic anuṣṭubh (380)
 सोमाय प्रदित्सितायाः **सूर्याया** वहतुः । कन्याप्रियार्थं दातव्यो गवादिपदार्थों वहतुः । स च **प्रागात्** तस्या अपि पूर्वमगच्छत् । **यं** वहतुं **सविता** अस्याः पिता **अवासृजत्** अवसृष्टवान् । प्रादादित्यर्थः। कदा सागच्छत् कदा वहतुरित्युभयोः काल उच्यते । **अघासु** । मघास्वित्यर्थः । मघानक्षत्रेषु **गावः** सवित्रा दत्ता गावः सोमगृहं प्रति **हन्यन्ते** दण्डैस्ताड्यन्ते प्रेरणार्थम् । **अर्जुन्योः** । फल्गुन्योरित्यर्थः। तयोर्नक्षत्रयोः सवितुः सकाशात् परि सोमगृहं प्रति **उह्यते** नीयते रथेन ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Sūrya**'s bridal procession which **Savitā** despatched has advanced; the oxen are whipped along inthe **Magha** (constellations); she is borne (to her husband's house) in the **Arjunī** (constellations).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Sūryā’s wedding proceeded, when Savitar set it going.  
 In the Aghā’s the cows are killed; in the two Arjunī’s she is conveyed (to  her new home).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The bridal pomp of Surya, which Savitar started, moved along.  
      In Magha days are oxen slain, in Arjuris they wed the bride.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Der Hochzeitszug der Surya hat sich aufgemacht, den Savitri verabschiedete. Unter den Agha´s werden die Rinder getötet, unter den beiden Arjuni´s wird sie heimgeführt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Brautzug der Suriā setzte sich in Bewegung, welchen Savitar entsandte; im Sternbild der Aghā's [oder Maghā's AV.] werden die Zugstiere geschlagen [gepeitscht, Sāy.], im Sternbild der beiden Ardschunī [der Phalgunī's AV.] wird die neuvermählte heimgeführt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тронулась свадебная процессия Сурьи,  
 Которую отправил Савитар.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिर् महा꣡म् अतिथिग्वं꣡ कशोजु꣡वं  
 दि꣡वोदासं शम्बरह꣡त्य आ꣡वतम्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । पूः॒ऽभिद्ये॑ । त्र॒सद॑स्युम् । आव॑तम् । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -121,7 +121,7 @@ genre M;; repeated line
 हे अश्विनौ **महां** महान्तम् **अतिथिग्वम्** अतिथिभिर्गन्तव्यं **कशोजुवम्** असुरभीत्या उदकं प्रवेष्टु गन्तारम् एवंभूतं **दिवोदासम्** एतत्संज्ञकं राजर्षिं **शम्बरहत्ये** । शम्ब आयुधम् । तद्युक्तः शम्बरोऽसुरः। तस्य हनने विषयभूते सति 'याभिः ऊतिभिः **अवतम्** अरक्षतम्। अपि च **याभिः** ऊतिभिः **पूर्भिद्ये** पुराणि नगराणि भिद्यन्तेऽस्मिन्निति पूर्भिद्यः संग्रामः । तस्मिन् **त्रसदस्युम्** एतत्संज्ञकम् ऋषिं पुरुकुत्सपुत्रम् **आवतम्** अरक्षतम् । ताभिरित्यादि पूर्ववत् ॥ महाम् । महान्तमित्यस्य छान्दसो वर्णलोपः । कशोजुवम् । कशः इत्युदकनाम । ‘कश गतिशासनयोः'। असुन्। कशांस्युदकानि जवतीति कशोजूः ॥ जु इति सौत्रो धातुर्गत्यर्थः । ‘क्विब्वचि° ' ( उ. सू. २. २१५) इत्यादिना क्विब्दीर्घौ। दिवोदासम् । ‘दिवश्व दासे षष्ठ्या अलुग्वक्तव्यः ' ( का. ६. ३. २१. ५) इति अलुक् । ‘दिवोदासादीनां छन्दस्युपसंख्यानम् ' ( पा. सू. ६. २. ९१. १) इति पूर्वपदाद्युदात्तत्वम् । शम्बरहत्ये । ‘हनस्त च ' इति हन्तेर्भावे क्यप्; तसंनियोगेन तकारान्तादेशश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,29 +132,29 @@ genre M;; repeated line
 Divodāsa was a king (**Viṣṇu Purāṇa**, 407); he is called **atithigva**, the cherisher of guests (**atithi**); Trasadasyu was the son of **Purukutsa** (**Viṣṇu** **Purāṇa**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you helped the great Atithigva Kaśojū and Divodāsa  at the smiting of Śambara,  
 with which you helped Trasadasyu at the stronghold splitting—with  those forms of help come here, o Aśvins.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith, when Sambara was slain, ye guarded well great Atithigva, Divodisa, Kasoju,  
      And Trasadasyu when the forts were shattered down,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr dem großen Atithigva Kasoju Divodasa im Sambara-Kampf beistandet, mit denen ihr dem Trasadasyu bei dem Burgenbrechen beistandet, - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch die dem grossen Atithigva, Kaçodschu und Divodasa wider Çambara ihr halft, Dem Trasadasju bei der Burgzerstörung halft, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) великого Атитхигву, Кашоджу,  
 Диводасу вы поддержали в убийстве Шамбары,  

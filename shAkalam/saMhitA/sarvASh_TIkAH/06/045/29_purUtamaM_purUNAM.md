@@ -6,14 +6,14 @@ ChandaH = "अतिनिचृत्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 पुरूत꣡मम् पुरूणां꣡  
 स्तोतॄणां꣡ वि꣡वाचि  
 वा꣡जेभिर् वाजयता꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 वाजे॑भिः । वा॒ज॒ऽय॒ताम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *purūtamam* ← *purutama*
 - \[noun\], nominative, singular, neuter
@@ -63,7 +63,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे इन्द्र **पुरुतमं** पुरूणां बहूनां शत्रूणां तमयितारं ग्लपयितारं त्वां **पुरूणां** बहूनां **स्तोतॄणाम्** अस्माकं स्तुतिः प्राप्नोत्विति शेषः । कीदृशानाम् । **विवाचि** विविधाः स्तुतशस्त्रात्मिका वाचो यस्मिन् यज्ञे तस्मिन् **वाजेभिः** वाजैर्हविर्लक्षणैरन्नैः  **वाजयतां** वाजवन्तं बलवन्तं वा त्वां कुर्वताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -74,14 +74,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 At the sacrifice: vivāci, at the sacrifice called Vivac, because various praises and prayers are hen repeated
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (You,) the first among many at the verbal contest of the many  
 praiser-singers,  
 who compete for the prize with their prizes.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is syntactically dependent on 28, with the acc. purūtámam picking up tvā in 28a.
 
@@ -98,23 +98,23 @@ Again no unity in the tṛca.
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee most oft invoked, amid the many singers' rivalry  
      Who beg with all their might for wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Zu ihm, dem Ersten unter Vielen im Wettstreit der vielen Sänger, die um die Siegerpreise wetteifern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem reichsten unter vielen dir im Wettgesang der Preisenden, Die reich an allen Gaben sind.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К первому из многих  
 В словесном состязании восхвалителей,  

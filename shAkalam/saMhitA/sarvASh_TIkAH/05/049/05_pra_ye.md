@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ ये꣡ व꣡सुभ्य ई꣡वद् आ꣡ न꣡मो दु꣡र्  
 ये꣡ मित्रे꣡ व꣡रुणे सुउक्त꣡वाचः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दिव꣡स्पृथिव्यो꣡र् अ꣡वसा मदेम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अव॑ । ए॒तु॒ । अभ्व॑म् । कृ॒णु॒त । वरी॑यः । दि॒वःपृ॑थि॒व्योः । अव॑सा । म॒दे॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -130,7 +130,7 @@ genre M
 **ये** यजमानाः **वसुभ्यः** यज्ञनिवासेभ्यो देवेभ्यः **ईवत्** गमनवत् **नमः** अन्नं पश्वात्मकं **प्र** **दुः** प्रादुः । **ये** च **मित्रे** देवे **वरुणे** च **सूक्तवाचः** सूक्तवचसो भवन्ति तानस्मान् **अभ्वं** महद्धनं तेजो वा **अवैतु** अवगच्छतु । हे देवाः **कृणुत** कुरुत चैतेभ्यः **वरीयः** उरुतरं सुखम् । **दिवस्पृथिव्योः** द्यावापृथिव्योः **अवसा** रक्षणेन **मदेम** हृष्येम ॥ ॥ ३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,35 +141,35 @@ genre M
 Presented victims to the Vasus: pra ye vasubhya īvadā **namaḥ**: īvadā namaḥ = gamanavad annana, food having motion, that is paśvātmakam, the same with animals
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those who have presented such great reverence to the good ones, who  possess well-spoken speech for Mitra and Varuṇa,  
 let the formless void go away (from them); make a wider space (for  
 them). With the aid of Heaven and Earth may we rejoice.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 There is no overt referent in the main clause (c) for the yé in ab, but ‘they’ (namely the poet/sacrificers) are clearly to be the beneficiaries of the good actions in c, who, in d, appear in the 1st ps.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 They who devote such worship to the Vasus, singing their hymns to Varuna and Mitra,  
      Vouchsafe them ample room, far off be danger. Through grace of Heaven and Earth may we be happy.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die den Göttern eine Huldigung wie diese darbringen, die auf Mitra und Varuna schöne Worte sprechen, vor denen soll das drohende Gespenst weichen, schaffet einen Ausweg! Wir möchten uns der Gunst von Himmel und Erde erfreuen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die solche Huldigung den Vasu's weihten, dem Varuna und Mitra Sprüche sprechend, Die löst vom Unglück, macht sie frei und sicher, mit Huld mög' Erd' und Himmel uns erfreuen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Кто (богам) Васу воздает вот такое поклонение,  
 Кто обращается с гимнами к Митре, Варуне,  

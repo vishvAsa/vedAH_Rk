@@ -6,7 +6,7 @@ ChandaH = "अतिजगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् इ꣡न्द्रं जोहवीमि मघ꣡वानम् उग्रं꣡  
 सत्रा꣡ द꣡धानम् अ꣡प्रतिष्कुतं श꣡वांसि  
@@ -14,7 +14,7 @@ ChandaH = "अतिजगती"
 राये꣡ नो वि꣡श्वा सुप꣡था कृणोतु वज्री꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मंहि॑ष्ठः । गीः॒ऽभिः । आ । च॒ । य॒ज्ञियः॑ । व॒वर्त॑त् । रा॒ये । नः॒ । विश्वा॑ । सु॒ऽपथा॑ । कृ॒णो॒तु॒ । व॒ज्री ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -145,14 +145,14 @@ genre M
 तं पूर्वोक्तगुणोपेतमिन्द्रं जोहवीमि यष्टाहं पुनः पुनराह्वयामि ह्वयतेरभ्यस्तस्यचेति सम्प्रसारणं ॥ कीदृशं मघवानं मंहनीयधनवन्तं उग्रं उद्रूर्णबलं सत्रा सत्यं यथार्थमेवशवांसि बलानि दधानं अतएवाप्रतिष्कुतं शत्रुभिरप्रतिरोधनीयं आह्वयामी । किञ्च मंहिष्ठः पूज्यतमः दातृतमोवा यज्ञियोयज्ञार्हइन्द्रो गीर्भिरस्मदीयाभिः स्तुतिभिराववर्तच्च यज्ञेषु आभिमुख्येन वर्तताञ्च । वर्ततेर्ण्यन्तस्य चङिरूपं चवायोगे प्रथमेति ननिघातः चङ्यन्यतरस्यामितिस्वरः । ततोवज्री वज्रवानिन्द्रः नोस्माकं राये धनाय विश्वा विश्वानि सर्वाण्येव सुपथा सुमा- र्गाणि कृणोतुच करोतु धनं सर्वदिक् स्थमस्मान्प्राप्नोत्वित्यर्थः ॥ १३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Again and again I invoke the strong **Indra**, **Maghavan**, who alone really possesses might, the irresistible;may he draw near through our songs, most bounteous and worthy of sacrifice; may he, the thunderer, make allthings prosperous for our wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 I constantly call on this Indra, bounteous, strong, unrepulsable,  
 deploying his own powers in every way.  
@@ -161,23 +161,23 @@ because of our hymns, let the mace-bearer make all our pathways
 easy for wealth.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Loudly I call that Indra, Maghavan the Mighty, who evermore possesses power, ever resistless.  
      Holy, most liberal, may he lead us on to riches, and, Thunder-armed, make all our pathways pleasant for us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diesen Indra rufe ich laut, den gabenreichen, gewaltigen, ungehemmten, der die Stärken allesamt besitzt. Und wenn der Freigebige, Opferwürdige auf die Lobreden herlenkt, so soll der Keulenträger uns alle guten Wege zum Reichtum bereiten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Den Indra rufe ich, den mächtigen, gewaltigen, den unaufhaltsamen, der alle Kräfte insgesammt verleiht, und er, der freigiebigste, heilige lasse sich herwenden durch Lieder und bahne uns alle Wege zum Reichthum, der Blitzträger.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого Индру, я громко зову щедрого, грозного,  
 Неудержимого, владеющего всеми силами.  

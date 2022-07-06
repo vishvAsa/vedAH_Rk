@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वो य꣡स्य व्रते꣡ ज꣡नो  
 दाधा꣡र ध꣡र्मणस् प꣡तेः  
 पुनान꣡स्य प्रभू꣡वसोः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पु॒ना॒नस्य॑ । प्र॒भुऽव॑सोः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
@@ -79,20 +79,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **विश्वः** सर्वः **जनः** मनुष्यो यजमानः **यस्य** सोमस्य **व्रते** कर्मणि **दाधार** धारयति मन इति शेषः । कीदृशस्य । **धर्मणः** कर्मणः **पतेः** पालकस्य **पुनानस्य** पूयमानस्य **प्रभूवसोः** प्रभूतधनस्य ॥ ॥ २५ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “On the worship of whom all men fix their thoughts-- the lord of pious acts, the purified, the possessor of abundant wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Under whose commandment all people find support—under that of the  master of support  
 who brings outstanding goods while he is being purified.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 dādhā́ra here is the only intransitive form of this perfect; see Renou’s n. and Kümmel (261).
 
@@ -101,23 +101,23 @@ The root √dhṛ is prominent here (see the immed. following phrase dhármṇas
 The last word of the hymn, prabhū́vasoḥ (“of the one who brings outstanding gifts”) is the gen. of the name of the supposed poet of this hymn, Prabhūvasu Āṅgirasa, who is also assigned the next hymn, IX.36. Of course the name in the Anukramaṇī could well have been generated from the final word of this hymn.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On whose way, Lord of Holy Law, most richi as he is purified.  
      The people all have set their hearts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 An dessen Vorschrift sich jedermann hält, des Herrn des Gesetzes, des sich läuternden, Schätzereichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auf dessen Werk sich jeder Mann fest stützet, des Gesetzesherrn, Des güterreichen, flammenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

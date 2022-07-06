@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एष꣡ पवि꣡त्रे अक्षरत्  
 सो꣡मो देवे꣡भियः सुतः꣡  
 वि꣡श्वा धा꣡मानि आविश꣡न्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 विश्वा॑ । धामा॑नि । आ॒ऽवि॒शन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
@@ -79,43 +79,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **एषः** **सोमः** **देवेभ्यः** देवार्थं **सुतः** अभिषुतः सन् **पवित्रे** **अक्षरत्** स्रवति । **विश्वा** सर्वाणि **धामानि** देवशरीराणि **आविशन्** प्रविशन् । प्रवेष्टुमित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “This (**Soma**), effused for the gods, flows into the filter, penetrating all the (divine) forms.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This one has flowed into the filter, the soma pressed for the gods,  
 entering all their domains.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 For c víśvā dhā́māny āviśán Geldner reasonably cfs. (n. 2c) IX.25.4a víśvā rūpāṇy āviśán, but then goes the further step to “dhā́man = rūpá” and tr. our passage “alle seine Formen annehmend,” for which I see little or no justification. Yes, the stems in the RV with well-established distinct meanings, and I see no reason to erase that distinction. Geldner’s interpr.
 
 has implications for vs. 5, for which see below.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Within the filter hath he flowed, this Soma for the Gods effused,  
      Entering all their essences.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Soma floß in die Seihe für die Götter ausgepreßt, alle seine Formen annehmend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er strömet zu der Seihe hin, der Soma, Göttern ausgepresst, Und geht in alle Stätten ein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этот полился в цедилке,  
 Сома, выжатый для богов,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ज꣡गता सि꣡न्धुं दिवि꣡ अस्तभायद्  
 रथंतरे꣡ सू꣡रियम् प꣡र्य् अपश्यत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 त꣡तो मह्ना꣡ प्र꣡ रिरिचे महित्वा꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 गा॒य॒त्रस्य॑ । स॒म्ऽइधः॑ । ति॒स्रः । आ॒हुः॒ । ततः॑ । म॒ह्ना । प्र । रि॒रि॒चे॒ । म॒हि॒ऽत्वा ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *jagatā* ← *jagant*
 - \[noun\], instrumental, singular, neuter
@@ -119,7 +119,7 @@ popular
 प्रवर्ग्ये घर्मधुगाह्वानकाले ‘ उप ह्वये ' इत्यादिके द्वे ऋचौ । **उप** ह्वये सुदुघां धेनुमेतामिति द्वे ( आश्व. श्रौ. ५.७ ) इति सूत्रितत्वात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,30 +132,30 @@ Fixed the rain in heaven: sindhum dvi astabhāyat: **Brahmā**, at the time of c
 Rathantara: a portion of the **Sāma**; **Prajāpati** beheld the sun in the hymn which sustains it: tadādhāra bhūtāyām ṛci; **gāyatra** metre: gāyatrasya **samidhas** **tisra** āhuḥ: samidh signifies **pada**, a division of a hymn; of which gāyatrī metre has three
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By the jagat [=jagatī] (stanza) he buttressed the river in heaven; in the  rathantara (chant), he watched over the Sun.  
 They say that there are three kindling sticks [=three lines in a gāyatrī stanza] belonging to the gāyatrī (stanza). By its greatness it [=the  
 gāyatrī stanza] has passed beyond those in greatness.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 With Jagati the flood in heaven he stablished, and saw the Sun in the Rathantara Saman.  
      Gayatri hath, they say, three brands for kindling: hence it excels in majesty and vigour.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit der Jagatweise festigte er den Strom am Himmel, im Rathantara entdeckte er die Sonne. Sie sagen, daß das Gayatriversmaß drei Brennhölzer habe. Darum überragt es die anderen Metren an Macht und Größe.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Durch das Dschagatī-Lied befestigte er den Strom am Himmel, in dem Rathantara-Liede erblickte er die Sonne; drei Flammen, sagt man, gehören dem Gajatrī-Masse zu; darum ragte es durch seine Macht und Grösse hervor.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Размером) джагат он укрепил поток на небе,  
 В (напеве) ратхантара он разглядел солнце.  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡म् ई꣡शानं ज꣡गतस् तस्थु꣡षस् प꣡तिं  
 धियंजिन्व꣡म् अ꣡वसे हूमहे वय꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 रक्षिता꣡ पायु꣡र् अ꣡दब्धः सुअस्त꣡ये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ## Strata
 Normal on metrical evidence alone
@@ -32,7 +32,7 @@ genre M
 पू॒षा । नः॒ । यथा॑ । वेद॑साम् । अस॑त् । वृ॒धे । र॒क्षि॒ता । पा॒युः । अद॑ब्धः । स्व॒स्तये॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -124,37 +124,37 @@ genre M
 पूर्वार्धेनेन्द्रः स्तूयते अपरार्धेन पूषा । **ईशानम्** ऐश्वर्यवन्तं अत एव **जगतः** जङ्गमस्य प्राणिजातस्य **तस्थुषः** स्थावरस्य च **पतिं** स्वामिनं **धियंजिन्वं** धीभिः कर्मभिः प्रीणयितव्यं एवंभूतं **तम्** इन्द्रम् **अवसे** रक्षणाय वयं **हूमहे** आह्वयामः । **पूषा** **नः** अस्माकं वेदसां धनानां **वृधे** वर्धनाय **रक्षिता** **यथा** असत् येन प्रकारेण भवति तेनैव प्रकारेण **अदब्धः** केनाप्यहिंसितः पूषा **स्वस्तये** अस्माकमविनाशाय **पायुः** रक्षिता भवतु ॥ तस्थुषः । तिष्ठतेर्लिटः क्वसुः । षष्ठ्येकवचने ‘ वसोः संप्रसारणम्' इति संप्रसारणम् । ‘शासिवसिघसीनां च ' इति षत्वम् । षष्ठ्याः पतिपुत्र' इति विसर्जनीयस्य सत्वम् । धियंजिन्वम् । जिविः प्रीणनार्थः । ‘ कृत्यल्युटो बहलम् ' इति बहुलवचनात् खच् । ‘इच एकाचोऽम् प्रत्ययवच्च ' ( पा. सू. ६. ३. ६८ ) इति अमागमः । असत् । अस भुवि '। लेटि अडागमः । ‘ बहुलं छन्दसि ' इति शपो लुगभावः । पायुः । ‘ पा रक्षणे '। ‘कृवापाजि' इति उण् । स्वस्तये । सुपूर्वात् अस्तेः भावे क्तिन् । 'छन्दस्युभयथा' इति तस्य सार्वधातुकत्वात् “ अस्तेर्भूः' (पा. सू. २. ४. ५२) इति भूभावाभावः' इति वृत्तावुक्तम्॥१५॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “We invoke that lord of living beings, that protector of things immoveable, **Indra**, who is to be propitiated by pious rites, for our protection; as **Pūṣan** has ever been our defender for the increase of our riches, so may he (continue) the unmolested guardian of our welfare.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who holds sway, the lord of the moving and the still, who  quickens insight, do we call upon for help,  
 so that Pūṣan will be (ready) to increase our possessions, will be a  
 guardian, an undeceivable protector for our well-being.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Him we invoke for aid who reigns supreme, the Lord of all that stands or moves, inspirer of the soul,  
      That Pusan may promote the increase of our wealth, our keeper and our guard infallible for our good.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Den mächtigen Herrn dessen, was geht und steht, den Gedankenwecker rufen wir zur Gunsterweisung, auf daß Pusan zur Mehrung unseres Besitzes helfe als ein unbeirrter Schützer und Behüter zum Glück.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihn, der als Herr beherrschet, was da geht und steht, den Andachtfördrer rufen wir um Hülfe an, Den Puschan, dass zur Mehrung unsrer Habe er ein treuer Schützer und Behüter sei zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этого правящего (всем) движущимся (и) неподвижным, господина,  
 Вдохновляющего мысль, мы призываем на помощь,  

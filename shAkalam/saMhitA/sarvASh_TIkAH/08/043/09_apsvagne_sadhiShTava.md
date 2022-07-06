@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अप्सु꣡ अग्ने स꣡धिष् ट꣡व  
 सउ꣡षधीर् अ꣡नु रुध्यसे  
 ग꣡र्भे स꣡ञ् जायसे पु꣡नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal on metrical evidence alone
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 गर्भे॑ । सन् । जा॒य॒से॒ । पुन॒रिति॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
@@ -98,41 +98,41 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** यस्य **तव** **अप्सु** सधिः प्रवेशस्थानं **सः** त्वम् **ओषधीः** **अनु** **रुध्यसे** अनुरुणत्सि । **पुनः** च तासां भूमिष्ठानां **गर्भे** **सन्** भवन् **जायसे** प्रादुर्भवसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Your station, **Agni**, is in the waters; you cling to the plural nts, and becoming their embryo, are born again.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In the waters is your seat, Agni. You grow through the plants.  
 While (still) being in their womb, you are born again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Assuming with the Pp., Macdonell (VGS §48a), and Lubotsky (s.v. sá) that saúṣadhīḥ represents sá(ḥ) óṣadhīḥ, this sandhi contravenes the standard treatment; cf. I.103.5, X.88.10 sá óṣadhīḥ. The sá with 2nd ps. reference also does not conform to my rules for this usage, as it is not in an imperatival clause. I do not have an answer, though poetic factors may have had some influence: note the preceding pāda (ap)sú ... sádhi(ṣ) …, which is a good match for the three syllables in saúṣadhī(r).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Agni, thine home is in the floods: into the plants thou forcest way,  
      And as their Child art born anew.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Im Wasser ist deine Wohnstatt, Agni. Du wächst in den Pflanzen nach, und in ihrem Mutterleib befindlich wirst du wiedergeboren.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 In Wassern, Agni, ist dein Sitz und den Gewächsen strebst du zu, Dem Mutterleib entspringst du neu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В водах, о Агни, твое место,  
 Ты прорастаешь в растениях,  

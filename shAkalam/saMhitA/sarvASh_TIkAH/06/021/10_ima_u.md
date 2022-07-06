@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इम꣡ उ त्वा पुरुशाक प्रयज्यो  
 जरिता꣡रो अभि꣡ अर्चन्ति अर्कइः꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 न꣡ त्वा꣡वाँ अन्यो꣡ अमृत त्व꣡द् अस्ति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 श्रु॒धि । हव॑म् । आ । हु॒व॒तः । हु॒वा॒नः । न । त्वाऽवा॑न् । अ॒न्यः । अ॒मृ॒त॒ । त्वत् । अ॒स्ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
@@ -126,43 +126,43 @@ genre M
 हे **पुरुशाक** बहुशक्ते हे **प्रयज्यो** प्रकृष्टेन यजनीयेन्द्र **त्वा** त्वाम् **इमे** **जरितारः** स्तोतारः **अर्कैः** अर्चनीयैः स्तोत्रैः **अभ्यर्चन्ति** अभिष्टुवन्ति । तथा हे **अमृत** अमरणशीलेन्द्र **हुवानः** स्तूयमानस्त्वम् **आ** **हुवतः** अभिष्टुवतो मम **हवं** स्तोत्रं **श्रुधि** शृणु । किंच **त्वावान्** त्वत्सदृशो देवः **त्वत्** **अन्यः** न **अस्ति** ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, of great power, and to be devoutly worshipped, these your adorers glorify you with hymns; do you, who are invoked, hear the invocation of (him) invoking you, for there is no other divinity than you, immortal (Indra), such as you are.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These singers here with their chants chant to you, o you of many  talents, receiving the first of the sacrifice.  
 Listen to the call of him who calls you here as you are called. Immortal  one, there exists no one like you, other than you.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Like 1b, pāda c here contains an extravagant etymological figure based again on √hvā ‘call’: hávam (ā́) huvató huvānáḥ.
 
 The phrasing of d also seems awkwardly pleonastic+++(=redundant)+++ -- ná tvā́vām̐anyáḥ .. tvád asti “no one like you exists, other than you” -- in comparison with the usual expression, found in nearby VI.30.4 ná tvā́vām̐anyó asti “there exists no one else like you” (cf. VII.32.23).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The singers here exalt with hymns and praises thee who art very Mighty and Most Holy.  
      Hear, when invoked, the invoker's invocation. Beside thee there is nonelike thee, Immortal!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese Sänger besingen dich, du Vielvermögender, Opfersamer, mit Preisliedern. Gerufen erhöre den Ruf des Rufenden. Nicht gibt es außer dir einen anderen, der dir gleicht, du Unsterblicher.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es preisen, hochverehrter, kraftbegabter, hier diese Sänger dich mit Preisgesängen; Vernimm den Ruf des rufenden, gerufner, kein andrer ist, unsterblicher, wie du bist.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вот эти вот восхвалители, о тот, кто много может,  
 О получающий первую жертву, воспевают тебя в песнях.  

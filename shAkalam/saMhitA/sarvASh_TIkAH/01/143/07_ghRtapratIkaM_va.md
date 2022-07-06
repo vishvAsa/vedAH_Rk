@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 घृत꣡प्रतीकं व ऋत꣡स्य धूर्ष꣡दम्  
 अग्नि꣡म् मित्रं꣡ न꣡ समिधान꣡ ऋञ्जते  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 छुक्र꣡वर्णाम् उ꣡द् उ नो यंसते धि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 इन्धा॑नः । अ॒क्रः । वि॒दथे॑षु । दीद्य॑त् । शु॒क्रऽव॑र्णाम् । उत् । ऊं॒ इति॑ । नः॒ । यं॒स॒ते॒ । धिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ghṛtapratīkaṃ* ← *ghṛta*
 - \[noun\], neuter
@@ -127,7 +127,7 @@ genre M
 **घृतप्रतीकं** घृतोपक्रमं प्रयाजादिषु आज्यैर्हूयमानत्वात् । यद्वा । प्रतीकमङ्गम् । दीप्तज्वालमित्यर्थः। किंच **वः** युष्मत्संबन्धिनः **ऋतस्य** यज्ञस्य **धूर्षदं** धुरि निर्वहणे सीदन्तं यज्ञनिर्वाहकम् **अग्निं** **मित्रं** **न** मित्रमिव 'समिधानः इध्मैर्दीपयमानः **ऋञ्जते** प्रसाधयति । ऋञ्जतिः प्रसाधनकर्मा । एवम् **इन्धानः** सम्यग्दीप्यमानः **अक्रः** ज्वालासमिदादिभिराक्रान्तः अन्यैः अनाक्रान्तः वा ॥ क्रमेश्छान्दसो डः ॥ **विदथेषु** यज्ञेषु वेदयत्सु स्तोत्रेषु निमित्तभूतेषु **दीद्यत्** स्वयं दीप्यमानः अस्मदीयां **धियं** प्रज्ञां यागादिविषयां **शुक्रवर्णां** शुभ्रवर्णां निर्मलां ज्योतिष्टोमादि कर्म वा **उदु** **यंसते** उद्योजयत्येव ॥ यमेर्लेटि अडागमः । सिप् ॥ उशब्दोऽवधारणे । धीरिति कर्मनाम, ‘ धीः शमी' (नि. २. १. २१) इति तन्नामसु पाठात् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,40 +138,40 @@ genre M
 Well kindled: **akraḥ** = from kram, to go= **akranta** or anukrānta, surpassed or exceeded by; **jvālā** samidādibhiḥ, flame, fuel and the like
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The one who has kindled him for you all stretches toward ghee-faced  Agni, sitting on the chariot-pole of truth, as if toward Mitra  
 [/an ally].  
 A foal [?] while being kindled, shining at the rites, he will raise up our  insight, whose color is blazing bright.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The kindler of the flame wins Agni as a Friend, promoter of the Law, whose face is bright with oil.  
      Inflamed and keen, refulgent in our gatherings, he lifts our hymn on high clad in his radiant hues.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 He who has kindled him strives 1 towards Agni as towards Mitra (or, towards a friend)—(to Agni) whose face shines with ghee, the charioteer of Rita. May he who when kindled becomes a racer 2, shining at the sacrifices 3, lift up our bright-coloured prayer.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 Who kindles Agni, butter-faced, that draws aloft Your sacrifice, he strives to win him as a friend. When kindled as a shining banner at our rites, May he uplift our radiant-coloured hymn of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Eurem Agni, dem Schmalzgesicht, der auf der Deichsel des rechten Werkes sitzt, läßt der Anzündende den Vortritt wie einem verbündeten Freund. Entflammt bei den Opfern leuchtend möge er wie ein Elefant unser lichtfarbenes Gedicht emporheben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der, Fett im Antlitz, eures Opfers Deichsel zieht, zu Agni wie zum Freunde strebt, wer ihn entflammt, Als Banner strahl' entzündet bei den Opfern er und lenk zum Himmel unser glänzendes Gebet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 К вашему Агни с ликом, (обмазанным) жиром, сидящему на дышле закона,  
 (Жрец,) зажигающий (его,) направляется как к другу.  

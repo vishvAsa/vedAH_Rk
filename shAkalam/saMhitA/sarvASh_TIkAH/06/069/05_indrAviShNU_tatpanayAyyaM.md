@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इ꣡न्द्राविष्णू त꣡त् पनया꣡यियं वां  
 सो꣡मस्य म꣡द उरु꣡ चक्रमाथे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡प्रथतं जीव꣡से नो र꣡जांसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 अकृ॑णुतम् । अ॒न्तरि॑क्षम् । वरी॑यः । अप्र॑थतम् । जी॒वसे॑ । नः॒ । रजां॑सि ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
@@ -111,36 +111,36 @@ genre M
 हे **इन्द्राविष्णू** **वां** युवयोः **तत्** कर्म **पनयाय्यं** स्तुत्यम् । किं तत् कर्मेत्यत आह । **सोमस्य** **मदे** सति यत् **उरु** विस्तीर्णं **चक्रमाथे** विचक्रमाथे  । यद्यपि विष्णोरेव विक्रमः तथापि एकार्थत्वादुभयोरित्युच्यते । यच्च **अन्तरिक्षं** **वरीयः** उरुतरम् **अकृणुतम्** अकुरुतम् । यदपि च **रजांसि** लोकान् सर्वान् । 'लोका रजांस्युच्यन्ते ' इति यास्कः । **नः** अस्माकं **जीवसे** जीवनाय **अप्रथतम्** अप्रथयतम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra** and **Viṣṇu**, that (exploit) is to be glorified, by which, in the exhilaration of the **Soma**, you have strode over the wide (space); you have traversed the wide firmament; you have declared the worlds (fit) for our existence.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra and Viṣṇu, this (deed) of yours is worthy of admiration: in the  exhilaration of soma you two strode widely;  
 you made the midspace wider; you spread out the realms for us to live.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 This your deed, Indra-Visnu, must be lauded: widely ye strode in the wild joy of Soma.  
      Ye made the firmament of larger compass, and made the regions broad for our existence.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra und Vishnu! Das ist euch hoch anzurechnen: Im Rausche des Soma seid ihr weit ausgeschritten. Ihr machet das Luftreich weiter, ihr habt die Welten ausgebreitet, uns zum Leben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra-Vischnu, das ist hoch zu preisen, dass weiten Raum ihr schuft im Somarausche; Ihr dehntet weiter aus den Kreis der Lüfte und machtet weit zum Leben uns die Räume.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О Индра-Вишну, (вот) это удивительно у вас:  
 В опьянении сомой вы (всегда) шагали далеко (вперед).  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभिक्र꣡न्दन् कल꣡शं वाजी꣡ अर्षति  
 प꣡तिर् दिवः꣡ शत꣡धारो विचक्षणः꣡  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 मर्मृजानो꣡ अ꣡विभिः सि꣡न्धुभिर् वृ꣡षा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 हरिः॑ । मि॒त्रस्य॑ । सद॑नेषु । सी॒द॒ति॒ । म॒र्मृ॒जा॒नः । अवि॑ऽभिः । सिन्धु॑ऽभिः । वृषा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhikrandan* ← *abhikrand* ← *√krand*
 - \[verb noun\], nominative, singular
@@ -111,20 +111,20 @@ genre M
 **वाजी** वेजनवान् गमनवान् अश्वसदृशो वा सोमः **अभिक्रन्दन्** शब्दं कुर्वन् **कलशम्** अभि **अर्षति** गच्छति । कीदृशो वाजी । **दिवः** **पतिः** द्युलोकस्य स्वामी **शतधारः** शतसंख्याकधारः **विचक्षणः** विद्रष्टा । **हरिः** हरितवर्णो रसात्मकः सोमः **मित्रस्य** देवानां मित्रभूतस्य यज्ञस्य वा **सदनेषु** स्थानेषु **सीदति** पात्रेषु धृतः सन् । कीदृशो हरिः । **सिन्धुभिः** स्यन्दनसाधनैः **अविभिः** दशापवित्रच्छिद्रैः **मर्मृजानः** शोध्यमानः **वृषा** वर्षकः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The rapid (**Soma**), thelord of heaven, the thousand-streamed, the beholder (of all), rushes crying aloud to the pitcher, the green-tinted one alights upon **Mitra**'s dwelling plural ce, cleansed by the sheep's hairs and the waters, the shower.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Roaring toward the tub, the prize-seeker rushes, the lord of heaven with  his hundred streams, wide-gazing.  
 The fallow bay sits in the seats of Mitra, the bull constantly being  groomed by the sheep, the streams.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 I do not know why the seats are identified as those of Mitra. I doubt that Lüders is correct that it is only because Mitra’s seat is in highest heaven (210), much less that Mitra is at this stage in Vedic being identified with the sun (605).
 
@@ -139,23 +139,23 @@ Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes 
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The vigorous and far-seeing one, the Lord of heaven, flows, shouting to the beaker, with his thousand streams.  
      Coloured like gold he rests in seats where Mitra dwells, the Steer made beautiful by rivers and by sheep.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Kruge entgegenwiehernd rinnt der Preisrenner, des Himmels Herr in hundert Strahlen, der Weitschauende. Der Falbe setzt sich auf die Sitze des Mitra, mit der Schafwolle, mit Wasserströmen sauber gemacht, der Bulle.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Trog entgegenwiehernd eilt das schnelle Ross in hundert Strömen leuchtend rings des Himmels Herr, In Mitra's Sitzen setzet sich das goldne Ross, der Hengst gereinigt von der Wolle und dem Strom.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

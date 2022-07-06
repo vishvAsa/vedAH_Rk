@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इदं꣡ व꣡पुर् निव꣡चनं जनासश्  
 च꣡रन्ति य꣡न् नदि꣡यस् तस्थु꣡र् आ꣡पः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 इहे꣡ह जाते꣡ यमि꣡या स꣡बन्धू
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्वे इति॑ । यत् । ई॒म् । बि॒भृ॒तः । मा॒तुः । अ॒न्ये इति॑ । इ॒हऽइ॑ह । जा॒ते इति॑ । य॒म्या॑ । सब॑न्धू॒ इति॒ सऽब॑न्धू ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
@@ -130,7 +130,7 @@ genre M
 **जनासः** हे जना ऋत्विजः **इदं** पुरतः दृश्यमानं **वपुः** शरीरं मण्डलं **निवचनं** स्तुत्यं भवतीति शेषः । यन्मण्डलमुपजीव्य **नद्यः** **चरन्ति** प्रवहन्ति । **आपः** च **यत्** मण्डलमधितस्थुः । मण्डलाधीनत्वात्तासाम् । **ईम्** एतदुक्तलक्षणं यन्मण्डलं **द्वे** अहोरात्रे **मातुः** निर्मातुर्मातृस्थानीयादन्तरिक्षात् **अन्ये** **इहेह** **जाते** इह चेह च सूर्ये जाते निष्पन्ने **यम्या** यम्ये नियमनीये युग्मभूते वा **सबन्धू** समानबले समान बन्धने उभयोरप्येक एव सूर्यों बन्धकोऽक्षो ययोस्तादृश्यौ **बिभृतः** धारयतः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -141,13 +141,13 @@ genre M
 (Behold): may be rendered also, as men, look at the form which is to be seen; here and there sustain: apparently the firmament is supported or maintained in its plural ce by the various changes of times and seasons which it may be considered to genitive rate
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Here is the wonder, the enigma, people: that the rivers move, but the  waters stay,  
 that two, other than his mother, bear him—the two were born hither and  yon but are twins, of the same lineage: (Sun and Agni).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The opening idáṃ vápur nivácanam “Here is the wonder, the enigma” announces this vs. as potentially even more obscure than what precedes. Each of the three following pādas is presented as a paradox, but the contents do not seem significantly more enigmatic than the rest of the hymn; in fact, the explicit paradoxes point the way to their solution.
 
@@ -166,23 +166,23 @@ Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád ī
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wondrous, O people, is the mystic knowledge that while the waters stand the streams are flowing:  
      That, separate from his Mother, Two support him, closely-united, twins, here made apparent.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das ist ein Wunder, ein Geheimwort, ihr Leute, daß die Flüsse gehen, die Wasser stehen; daß ihn zwei andere als die Mutter tragen, die hier und dort geborenen doch Zwillinge von gleicher Sippe sind.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das ist, o Menschen, wunderbar zu sagen, dass Ströme gehn, und still die Wasser standen, Dass zwei ihn tragen, andre als die Mutter, geboren hier und dort, verwandt, verschwistert.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Это чудо, тайное слово, о люди,  
 Что реки движутся, (а) воды стоят;  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ त्वं꣡ न इन्द्र सू꣡रिये सो꣡ अप्सु꣡  
 अनागास्त्व꣡ आ꣡ भज जीवशंसे꣡  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 श्र꣡द्धितं ते महत꣡ इन्द्रिया꣡य
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 मा । अन्त॑राम् । भुज॑म् । आ । रि॒रि॒षः॒ । नः॒ । श्रद्धि॑तम् । ते॒ । म॒ह॒ते । इ॒न्द्रि॒याय॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -140,36 +140,36 @@ genre M
 हे **इन्द्र** **सः** **त्वं** **नः** अस्मान् **सूर्ये** सर्वस्य प्रेरके आदित्ये **आ** **भज** आभाजय आभिमुख्येन भक्तान" संभक्तान् कुरु । तथा **सः** त्वम् **अप्सु** अब्देवतासु अस्मानाभाजय । अपि च **जीवशंसे** जीवैः प्राणिभिः शंसनीये कामयितव्ये **अनागास्त्वे** अपापत्वे पापरहित्येऽस्मानाभाजय । अपि च **नः** अस्माकम् **अन्तरां** गर्भरूपेण अन्तर्वर्तमानां **भुजं** पालयित्रीं प्रजाम् **आ** समन्तात् **मा** **रीरिषः** मा हिंसीः। **ते** तव **महते** प्रभूताय **इन्द्रियाय** बलाय **श्रद्धितम्** अस्माभिः श्रद्धानं कृतम् । त्वदीयं बलं बहुमानपूर्वकं स्तुम इत्यर्थः। तस्मात्तादृशबलयुक्तस्त्वं मा रीरिष इति पूर्वेण संबन्धः ॥ अनागास्त्वे । न विद्यते आगः पापं यस्य सोऽनागाः । तस्य भावस्तत्त्वम् । छान्दस उपधादीर्घः । जीवशंसे । 'शंसु स्तुतौ'। कर्मणि घञ्। थाथादिना उत्तरपदान्तोदात्तत्वम् । भुजम् । भुनक्ति पालयतीति भुक् प्रजा। क्विप् । रीरिषः । ‘रिष हिंसायाम्' । स्वार्थे ण्यन्तात् अस्मात् लुङि चङि णिलोपे उपधाह्रस्वत्वादीनि । छान्दसं पदकालीनमभ्यासह्रस्वत्वम् । श्रद्धितम् । श्रच्छब्दस्य ऊर्यादित्वेन ( पा. सू. १. ४. ६१ ) गतित्वात् ‘ गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ## English translation:
 
 “Excite in us, **Indra**, veneration for the sun, for the waters, and for those who are worthy of the praise of living beings, as exempt from sin; injure not our offspring while yet in the womb, for our trust is in yourmighty power.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You, Indra—give us a share in the sun, in the waters, in blamelessness, in  the praise of the living.  
 Do no harm to our inner delight. Trust has been placed in your great  Indrian power.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, as such, give us a share of sunlight, of waters, sinlessness, and reputation.  
      Do thou no harm to our yet unborn offspring: our trust is in thy mighty Indra-power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Laß du, Indra, uns am Sonnenlicht, am Wasser, an der Schuldlosigkeit, an der Rede der Lebenden teilhaben. Schädige nicht unsere Herzensfreude! Man hat deinem großen indrischen Namen vertraut.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Indra, schenk uns Sonnenlicht und Wasser, Schuldlosigkeit verleih und Lob der Menschen, Verdirb uns nicht die Freude, die uns nah ist, wir trauen deiner grossen Indrastärke.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты, о Индра, надели нас долей в солнце,  
 В водах, в отсутствии вины, в речи живых!  

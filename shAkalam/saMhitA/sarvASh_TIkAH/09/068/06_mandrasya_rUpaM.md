@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मन्द्र꣡स्य रूपं꣡ विविदुर् मनीषि꣡णः  
 श्येनो꣡ य꣡द् अ꣡न्धो अ꣡भरत् पराव꣡तः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 उश꣡न्तम् अंशु꣡म् परिय꣡न्तम् ऋग्मि꣡यम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तम् । म॒र्ज॒य॒न्त॒ । सु॒ऽवृध॑म् । न॒दीषु॑ । आ । उ॒शन्त॑म् । अं॒शुम् । प॒रि॒ऽयन्त॑म् । ऋ॒ग्मिय॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mandrasya* ← *mandra*
 - \[noun\], genitive, singular, masculine
@@ -116,7 +116,7 @@ genre M
 **मनीषिणः** प्राज्ञा यष्टारः **मन्द्रस्य** मदकरस्य तस्य सोमस्य **रूपं** **विविदुः** जानन्ति । **यत्** **अन्धः** यत् सोमलक्षणमन्नं **श्येनः** गायत्रीरूपः पक्षी **परावतः** दूरात् द्युलोकात् **आभरत्** आजहार। 'हृग्रहोर्भश्छन्दसि ' इति भकारः। **तं** तादृशं " सुवृधं सुष्ठु वर्धमानं सुवर्धयितारं वा **अंशुं** सोमं **नदीषु** नदमानासु वसतीवर्याख्यास्वप्सु **आ** **मर्जयन्त** ऋत्विज आशोधयन्ति । अलंकुर्वन्ति वा । कीदृशम् । **उशन्तं** देवान् कामयमानं **परियन्तं** परितो गच्छन्तम् **ऋग्मियम्** ऋगर्हं स्तुत्यं सोममामर्जयन्तीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -127,14 +127,14 @@ genre M
 The falcon brought from far: a bird in the form of **gāyatrī** brought it from heaven
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The inspired thinkers discovered the form of the gladdening one, when  the falcon brought the stalk from out of the distance.  
 They groomed him in the rivers, the eager well-grown plant, circling  
 around, worthy of verses.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The famous Somaraub, i.e., the stealing of Soma from heaven effected by a falcon and treated esp. (though obscurely) in IV.26-27, is rarely mentioned in Maṇḍala IX, as Ober (II.162) points out. Here it serves to bring the heavenly Soma to earth, to join with and super-charge the earthly, ritual Soma—the difference between the two Somas having been treated in vs. 5.
 
@@ -145,23 +145,23 @@ Here vividuḥ responds to vivévidat in 3c (and both relate semantically to ví
 In addition to lexical rings, there is chaining: 6c marjayanta is picked up by 7a mṛjanti (with no semantic or functional difference between the stems or the voices: marjayanta is an -anta replacement); 6a manīṣíṇaḥ ‘possessing inspired thoughts’ by 8b manīṣā́ḥ ‘inspired thoughts’.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The sages knew the form of him the Gladdener, what time the Falcon brought the plant from far away.  
      Him who assures success they beautified in streams, the stalk who yearned therefor, mighty and meet for praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Denker entdeckten die Form des erfreuenden Soma, als der Falke die Somapflanze aus der Ferne brachte. Sie reinigten den in den Strömen groß gewordenen, den verlangenden Stengel, den im Wasser kreisenden, preislichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Weisen fanden des erfreuenden Gestalt, ferneher der Adler trug das Somakraut, Den segensreichen läuterten in Strömen sie, der gern herumströmt, den gerühmten Somatrank.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мудрые открыли форму радующего (сомы),  
 Когда сокол принес растение издалека.  

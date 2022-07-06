@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡स् ते पूषन् ना꣡वो अन्तः꣡ समुद्रे꣡  
 हिरण्य꣡यीर् अन्त꣡रिक्षे च꣡रन्ति  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 का꣡मेन कृत श्र꣡व इछ꣡मानः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ताभिः॑ । या॒सि॒ । दू॒त्याम् । सूर्य॑स्य । कामे॑न । कृ॒त॒ । श्रवः॑ । इ॒च्छमा॑नः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yās* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
@@ -125,7 +125,7 @@ genre M
 हे **पूषन्** **ते** त्वदीयाः **याः** **हिरण्ययीः** हिरण्मय्यो हितरमणीयाः **नावः** **समुद्रे** उदधौ **अन्तः** मध्ये **अन्तरिक्षे** नभसि **चरन्ति** संचरन्ति **ताभिः** नौभिः **सूर्यस्य** **दूत्यां** **यासि** गच्छसि । कदाचित् देवैः सार्धं सूर्येऽसुरवधार्थं प्रस्थिते सति तस्य भार्या स्वभर्तरि संजातौत्सुक्या बभूव तां प्रति सूर्यः पूषणं प्राहैषीत् तेन चात्र पूषा स्तूयते । अपि च त्वं **श्रवः** हविर्लक्षणमन्नम् **इच्छमानः** इच्छन् **कामेन** पश्वादिविषयेण स्तोतृभिः **कृतः** वशीकृतोऽसि ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,36 +136,36 @@ genre M
 Messenger of the sun: yāsi dūtyām sūryasya: a legend is related; on one occasion, when **Sūrya**, with the gods, had set out to fight the **asuras**, he sent **Pūṣan** to his abode to console his wife, who was greatly afflicted by his going to the wars; for which office Pūṣan is here commended
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The ships of yours that are in the sea, the golden ones that wander in the  midspace,  
 with these you travel on a mission of the Sun, o you prompted by desire,  as you seek fame.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pūṣan’s ships (nā́vaḥ) are, to my knowledge, not encountered elsewhere.
 
 But, as noted above vs. 1, I would tentatively connect them and the mission of the Sun (dūtyā́m sūryasya) with his role as psychopomp of the dead. One question is whether there are two sets of ships -- those in the sea and those in the midspace -- or one, with the midspace being configured here as the sea (Geldner’s Luftmeer). I subscribe to the latter view.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Pusan, with thy golden ships that travel across the ocean, in the air's mid-region,  
      Thou goest on an embassy to Surya, subdued by love, desirous of the glory.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Deine goldenen Schiffe, Pusan, die im Luftmeer fahren, mit denen tust du Botendienst bei Surya, als Verliebter den Ehrenpreis wünschend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Puschan, welche goldbeladnen Schiffe im Meere dir und in dem Luftraum fahren, Mit denen führst du zu der Sonne Botin, von Lust getrieben, hohes Glück begehrend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Те твои золотые челны, о Пушан,  
 Которые странствуют в океане, в воздушном пространстве,  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡द् इ꣡न् न्व् अ᳡स्य परिष꣡द्वानो अग्मन्  
 पुरू꣡ स꣡दन्तो नार्षद꣡म् बिभित्सन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 विद꣡त् पुरुप्रजात꣡स्य गु꣡हा य꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 वि । शुष्ण॑स्य । सम्ऽग्र॑थितम् । अ॒न॒र्वा । वि॒दत् । पु॒रु॒ऽप्र॒जा॒तस्य॑ । गुहा॑ । यत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
@@ -120,7 +120,7 @@ genre M
 **तदित्** तत्रैव **नु** क्षिप्रम् **अस्य** इन्द्रस्य **परिषद्वानः** परितो वर्तमानाः परिचारका रश्मयः **अग्मन्** प्रकाशनार्थमगच्छन् । **पुरु** पुरूणि कृत्रिमाणि **सदन्तः** सीदन्तोऽसुराः 'नार्षदं नृषदः पुत्रं **बिभित्सन्** भेत्तुमैच्छन् । किंचायं **शुष्णस्य** एतन्नामकस्यासुरस्य **पुरुप्रजातस्य** बहुप्रादुर्भावस्य **संग्रथितं** मर्मं **विदत्** वेत्ति । अयमिन्द्रः **यत्** असुरस्य दुर्ज्ञेयं मर्म **गुहा** गुहायां गोपितं तद्विदत्॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -131,29 +131,29 @@ genre M
 Dwelling in many regions: **puru** = purūṇi kṛtrimāṇi,many artificial things
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 They came just then as its besiegers; sitting (a session) for many (days),  they strove to split (the fortress?) of Nr̥ṣada.  
 The unassailable one disclosed what was knotted together, what was  hidden, of Śuṣṇa, who was propagated in many ways.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 His followers then who dwelt in sundry places came and desired too slay the son of Nrsad.  
      Resistless foe, be found the hidden treasure of Susna multiplied in numerous offipring.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Da kamen noch dessen Belagerer; viele Burgen belagernd wollten sie den Narsada zerspalten. Der Unbemeisterte machte des brutreichen Susna verschnürte Leibesblöße ausfindig, die verborgen war.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 So sind nun seine Umlagerer gekommen, sich vielfach lagernd suchen sie den [Dämon] Nārschada zu zerspalten; der schrankenlose [vgl. Vers 5] vertheile des Çuschna zusammengehäuftes Gut, das im Versteck des vielfach sich erzeugenden ruht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

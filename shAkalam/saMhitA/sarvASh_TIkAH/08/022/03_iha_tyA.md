@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 इह꣡ त्या꣡ पुरुभू꣡तमा  
 देवा꣡ न꣡मोभिर् अश्वि꣡ना  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 ग꣡न्तारा दाशु꣡षो गृह꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M;; repeated line
 अ॒र्वा॒ची॒ना । सु । अव॑से । क॒रा॒म॒हे॒ । गन्ता॑रा । दा॒शुषः॑ । गृ॒हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *iha*
 - \[adverb\]
@@ -104,36 +104,36 @@ genre M;; repeated line
 **पुरुभूतमा** अतिशयेन बहूनां शत्रूणां भावयितारौ **देवा** देवौ द्योतनशीलौ स्तोतव्यौ वा **दाशुषः** हविर्दत्तवतो यजमानस्य **गृहं** प्रति गन्तारौ गमनशीलौ **त्या** तौ **अश्विना** अश्विनौ युवाम् **इह** अस्मिन् कर्मणि **अवसे** रक्षणाय **नमोभिः** हविर्भिः स्तोत्रैर्वा **अर्वाचीना** अर्वाचीनौ अभिमुखमागच्छन्तौ **सु** **करामहे** वयं सुष्ठु कुर्मः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We incite by our adorations on this occasion the two divine **Aśvins**, the overcomers of foes, that theymay come down for our protection and proceed to the dwelling of the donor (of the offering).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 These two gods who most often appear in many places, the Aśvins— with our acts of reverence  
 may we bring them here nearby for help: they go to the house of the  pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 These Asvins with our homage, these Two Omnipresent Deities  
      Hitherward will we bring for kind help, these who seek the dwelling of the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese vielseitigsten Götter, die Asvin wollen wir hier unter Verbeugungen zur Gnade fein geneigt machen, die gern ins Haus des Spenders kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Hier diese oft erscheinenden, die Rittergötter wollen wir Zur Hülfe uns recht nahe schaffen durch Gebet, die kommen in des Frommen Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Этих двоих лучше всех возникающих во многих местах  
 Богов Ашвинов с поклонениями  

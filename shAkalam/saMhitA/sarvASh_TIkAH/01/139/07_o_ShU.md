@@ -6,7 +6,7 @@ ChandaH = "अत्यष्टिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ओ꣡ षू꣡ णो अग्ने शृणुहि त्व꣡म् ईळितो꣡  
 देवे꣡भियो ब्रवसि यज्ञि꣡येभियो  
@@ -17,7 +17,7 @@ ChandaH = "अत्यष्टिः"
 एष꣡ तां꣡ वेद मे स꣡चा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -39,7 +39,7 @@ genre M
 वि । ताम् । दु॒ह्रे॒ । अ॒र्य॒मा । क॒र्तरि॑ । सचा॑ । ए॒षः । ताम् । वे॒द॒ । मे॒ । सचा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *o* ← *ā*
 - \[adverb\]
@@ -187,7 +187,7 @@ genre M
 हे **अग्ने** **त्वं** **नः** अस्मदीयमावाहनं स्तुतिं वा **ईळितः** अस्माभिः स्तुतः सन् **ओ** **षु** **शृणुहि** । ओ इति निपातद्वयसमुदायात्मकः एको निपातः । आभिमुख्येनैव सुष्ठु शृणु ॥ ‘ उतश्च प्रत्ययात्° ' इति ‘ छन्दसि वावचनम् ' इति हेर्लुगभावः ॥ श्रुत्वा च **देवेभ्यः** देवनशीलेभ्यः **यज्ञियेभ्यः** यज्ञार्हेभ्यो हविर्भाग्भ्यः स्तुतिभाग्भ्यश्चेत्यर्थः ॥ ‘ यज्ञर्त्विग्भ्याम् । इति घः ॥ तेभ्यः **यज्ञियेभ्यः** यज्ञार्हेभ्यो यजमानेभ्यः संबन्धि कर्म **ब्रवसि** ब्रूहि ॥ ब्रवीतेर्लेटि अडागमः ॥ कीदृशेभ्यः । **राजभ्यः** राजमानेभ्यः । इदानीं देवाः प्रत्यक्षेणोच्यन्ते । अत्रेतिहासमाहुः -– अङ्गिरसो नाम महर्षयः पूर्वं यज्ञार्थं देवान् स्तुत्या प्रीणयित्वा गा अयाचन्त । ते प्रीताः कामदुघां प्रादुः । लब्धां च तां धेनुं क्षीरं दोग्धुमशक्नुवाना अर्यमणं देवं प्रार्थयन् । स च प्रार्थितोऽग्निहोत्राद्यर्थं क्षीरं दुदोहेति । तदिदमत्रोच्यते । **यत्** यां **त्या** तां प्रसिद्धां **धेनुं** क्षीरादिना प्रीणयित्रीं गां **ह** **देवाः** **अङ्गिरोभ्यः** तदर्थम् **अदत्तन** दत्तवन्तः ॥ ‘ तप्तनप्तनथनाश्च ' इति तनादेशः ॥ **तां** धेनुम् **अर्यमा** सर्वस्य नियमिता देवः **कर्तरि** सर्वस्योत्पादके त्वय्यग्नौ **सचा** इतरदेवेभ्यः साकं **वि** **दुह्रे** विविधं दुग्धवान् । दुहेर्लिटि ‘ बहुलं छन्दसि ' इति । छन्दसि वा ' इति वचनात् द्विर्वचनाभावः । लटि एव वा ' लोपस्त°' इति तलोपः ॥ **एषः** एष एव अर्यमा **तां** धेनुं **मे** **सचा** मत्समवायेन **वेद** जानाति अर्यमा अहमपि जानामीत्यर्थः । ईदृशी धेनुस्त्वदर्थमेव दुह्यते इत्यग्नेः स्तुतिः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -198,7 +198,7 @@ genre M
 The cow which Aryaman milked: The legend is tha Aṅgirasas, having propitiated the gods, solicited the gift of a cow; the gods them the cow of plural nty, but they were unable to milk her, and applied to Aryaman, who drew from the cow milk convertible to butter for oblations to fire. eṣa tām **veda** me sacā = he knows her along with me; this is explained: aryamāham api jānāmi, either I, **Aryamā**, or I and Aryamā know her
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Listen to us, Agni: Reverently invoked, you will say to the gods worthy  of the sacrifice—to the kings worthy of the sacrifice:  
 “Since, gods, you have given this milk-cow to the Aṅgirases,  
@@ -206,7 +206,7 @@ they milk her dry. Aryaman is in partnership with the performer  [=Agni/priest]�
 [=Agni].”
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On the difficulties of interpr. of this verse, see published introduction.
 
@@ -217,24 +217,24 @@ verb duhre. (Cf. Renou “Aryaman (ainsi que) l'officiant (et autres) l'ont trai
 As for the sense, I am quite baffled. The Aṅgirases seem to have mistreated the cow, or at least gotten everything they can out of her. But Aryaman also has knowledge, and perhaps use, of her. I suggest very tentatively that since Aryaman is associated with the householder’s fire and with hospitality rites, this may be an early and oblique reference to a division between what will later be known as śrauta rites and gṛhya rites. But I have no confidence in this.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Quickly, O Agni, hear us: magnified by us thou shalt speck for us to the Gods adorable yea, to the Kings adorable:  
      When, O ye Deities, ye gave that Milch-cow to the Angirases,  
      They milked her: Aryaman, joined with them, did the work: he knoweth her as well as I.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hör uns recht, Agni; du sollst berufen den opferwürdigen Göttern melden, den opferwürdigen Königen: Seit ihr Götter diese Milchkuh den Angiras´ geschenkt habt, melken diese der reiche Patron in Gemeinschaft mit dem ausübenden Priester aus; er weiß sie bei mir.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch du, o Agni, hör auf uns, gepriesener, du mögest sprechen zu den heil'gen Göttern nun, zu den ehrwürd'gen Königen: »Als jene Milchkuh, Götter, ihr den Angiras zum Lohne gabt, Da molken sie und Arjaman beim Priester sie;er kennt die Kuh so gut als ich.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Услышь нас хорошенько, о Агни! Призванный, ты  
 Должен сказать богам, достойным жертв,  

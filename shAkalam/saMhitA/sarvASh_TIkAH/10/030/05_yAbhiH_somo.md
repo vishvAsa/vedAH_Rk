@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिः सो꣡मो मो꣡दते ह꣡र्षते च  
 कल्याणी꣡भिर् युवति꣡भिर् न꣡ म꣡र्यः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 य꣡द् आसिञ्चा꣡ ओ꣡षधीभिः पुनीतात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 ताः । अ॒ध्व॒र्यो॒ इति॑ । अ॒पः । अच्छ॑ । परा॑ । इ॒हि॒ । यत् । आ॒ऽसि॒ञ्चाः । ओष॑धीभिः । पु॒नी॒ता॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -115,36 +115,36 @@ genre M
 अभिषुतः सोमः **याभिः** वसतीवर्येकधनाख्याभिरद्भिः सह **मोदते** मुदितो भवति **हर्षते** **च** । पुनरुक्तिरादार्था । अत्यर्थं हृष्यतीत्यर्थः । तत्र दृष्टान्तः। **कल्याणीभिः** कमनीयाभिः **युवतिभिः** तरुणीभिः स्त्रीभिः सह **मर्यो** **न** यथा मनुष्यो मोदते तद्वत् । हे **अध्वर्यो** त्वं **ताः** तादृशीः **अपः**  **अच्छ** अभिप्राप्तुं **परेहि** जलाशयं प्रतिगच्छ। किंच **यत्** यदा आहृताभिस्ताभिरद्भिः आसिञ्चाः आ समन्तात्सोमानासिञ्चसि तदा **ओषधीभिः** सोमैः सहापश्च **पुनीतात्** दशापवित्रेण पुनीहि॥ ॥२४॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Those waters with which **Soma** sports and delights as a man (sports) with elegant young damsels; doyou, priest, approach to obtain them; when you sprinkle them (in libation), purify (them with the filter) along withthe plural nts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 By which Soma is delighted and becomes excited, like a young blood  with lovely young women.  
 Go forth to these waters, o Adhvaryu. When you will pour (them) in,  then purify (them) with plants.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Those in which Soma joys and is delighted, as a young man with fair and pleasant damsels.  
      Go thou unto those Waters, O Adhvaryu, and purify with herbs what thou infusest.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen Soma sich vergnügt und sich aufregt wie der Junggeselle an schönen jungen Frauen, zu den Gewässern geh, Adhvaryu, hin! Wenn du sie einfüllen wirst, so sollst du sie mit Pflanzen läutern.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 An denen Soma sich erfreut und letzet, gleichwie der Jüngling an den schönen Jungfraun, Zu solchen Wassern gehe hin, o Priester, ergiessend mache hell sie mit den Kräutern.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 С кем сома забавляется и возбуждается,  
 Словно юный муж с прекрасными девицами,  

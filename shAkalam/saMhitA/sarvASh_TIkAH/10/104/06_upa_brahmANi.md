@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 उ꣡प ब्र꣡ह्माणि हरिवो ह꣡रिभ्यां  
 सो꣡मस्य याहि पीत꣡ये सुत꣡स्य  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 दाश्वाँ꣡ असि अध्वर꣡स्य प्रकेतः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 इन्द्र॑ । त्वा॒ । य॒ज्ञः । क्षम॑माणम् । आ॒न॒ट् । दा॒श्वान् । अ॒सि॒ । अ॒ध्व॒रस्य॑ । प्र॒ऽके॒तः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *upa*
 - \[adverb\]
@@ -113,37 +113,37 @@ genre M
 हे **हरिवः** हरिवन्निन्द्र **सुतस्य** अभिषुतस्य सोमस्य **पीतये** पानाय **ब्रह्माणि** परिवृढान्यस्मदीयानि कर्माणि स्तोत्राणि वा **उप** **याहि** उपागच्छ । केन साधनेनेति तदुच्यते । **हरिभ्याम्** । अश्वाभ्याम् । ताभ्यां युक्तेन रथेनेत्यर्थः । यद्वा । हरिभ्यां। हरिव इति संबन्धनीयम् । हे **इन्द्र** **क्षममाणं** **त्वा** त्वां **यज्ञः** सोमयागः **आनट्** व्याप्नोति । नशतेर्लुङि ‘ मन्त्रे घस” इति च्लेर्लुक् । ‘ छन्दस्यपि दृश्यते ' इत्याडागमः । अश्नोतेरेव' वा लिटि छान्दसस्तप्रत्ययस्य लोपः। ‘ अश्नोतेश्च ' इति नुडागमः। **ध्वरस्य** यागस्य **प्रकेतः** प्रकर्षेण जानंस्त्वं **दाश्वानसि** दातासि कर्मफलस्य ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Lord of bay horses, come with your two bays to our adorations to drink of the effused **Soma**; thesacrifice, **Indra**, reaches to you who are enduring; cognizant of the sacrifice, you are the donor of the reward.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O you of the fallow bays, drive near to our sacred formulations with  your pair of fallow bays to drink of the pressed soma.  
 Indra, the sacrifice has reached you, patiently waiting. You are the  
 pious sign of the rite.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lord of the Bays, come with thy two Bay Horses, come to our prayers, to drink the juice of Soma.  
      To thee comes sacrifice which thou acceptest: thou, skilled in holy rites, art he who giveth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Komme zu den erbaulichen Reden, du Falbenlenker, mit dem Falbenpaar, um vom ausgepreßten Soma zu trinken! Indra, zu dir, dem Nachsichtigen, ist die Anbetung gelangt. Du bist der Freigebige, des Opfers Wahrzeichen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 O Herr der Füchse, fahr mit deinen Füchsen zu den Gebeten und zum Trunk des Soma's; Dich hat erreicht das Opfer, das du annimmst, du, Indra, achtest huldvoll auf das Opfer.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

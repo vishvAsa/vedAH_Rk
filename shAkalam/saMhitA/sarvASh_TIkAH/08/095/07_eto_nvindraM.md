@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ए꣡तो नु इ꣡न्द्रं स्त꣡वाम  
 शुद्धं꣡ शुद्धे꣡न सा꣡मना  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 शुद्ध꣡ आशी꣡र्वान् ममत्तु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 शु॒द्धैः । उ॒क्थैः । व॒वृ॒ध्वांस॑म् । शु॒द्धः । आ॒शीःऽवा॑न् । म॒म॒त्तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *eto* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
@@ -98,7 +98,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 अत्रेतिहासमाचक्षते । पुरा किलेन्द्रो वृत्रादिकानसुरान् हत्वा ब्रह्महत्यादिदोषेणात्मानमपरिशुद्धमित्यमन्यत । ततस्तद्दोषपरिहारायेन्द्र ऋषीनवोचत् । अपूतं मां युष्मदीयेन साम्ना शुद्धं कुरुतेति । ततस्ते च शुद्धयुत्पादकेन साम्ना शस्त्रैश्च परिशुद्धमकार्षुः । पश्चात्पूतायेन्द्राय' यागादिकर्माणि सोमादीनि हवींषि प्रादुरिति । एषोऽर्थः शाट्यायनकब्राह्मणे प्रतिपादितः- ‘ इन्द्रो वासुरान्हत्वापूत इवामेध्योऽमन्यत । सोऽकामयत शुद्धमेव मा सन्तं शुद्धेन साम्ना स्तुयुरिति । स ऋषीनब्रवीत् स्तुत मेति । ततः ऋषयः सामापश्यन् । तेनास्तुवन्नेतो न्विन्द्रमिति । ततो वा इन्द्रः पूतः शुद्धो मेध्योऽभवत्' इति । तथा चास्या ऋचोऽयमर्थः । ऋषयः परस्परं ब्रुवन्ति । **नु** क्षिप्रम् **एतो** आगच्छतैव । आगत्य च **शुद्धेन** शुद्ध्युत्पादकेन **साम्ना** तथा **शुद्धैः** शुद्धिहेतुभिः उक्थैः शस्त्रैश्च **इन्द्रं** **शुद्धम्** अपापिनं कृत्वा **स्तवाम** स्तुयाम । ततः सामशस्त्रैश्च वावृध्वांसं पापरहित्येन वर्धमानं तमिममिन्द्रं **शुद्धः** दशापवित्रेण **आशीर्वान्** आश्रयणवान् गव्यादिभिः ।  ‘ छन्दसीरः ' इति मतुपो वत्वम् । तादृशः सोमः ममत्तु इन्द्रं मादयतु । माद्यतेश्छान्दसः श्लुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -109,12 +109,12 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 Legend from Śāṭyāyana **Brāhmaṇa**: Indra, after theslaughter of **Vṛtra**, being polluted by the guilt of brahmanicide, begged the ṛṣis to purify him by their sāmanhymns. They accordingly said these verses and he became purified; and they, then, offered him the Soma etc.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come now! Let us praise Indra the cleansed with a cleansed sāman. Him grown strong through cleansed hymns let the cleansed (soma) with  its milk-mixture exhilarate.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Instead of Holland & van Nooten Rig Veda edition’s restoration nu índram (for nv índram), nú should of course be accented.
 
@@ -129,23 +129,23 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come now and let us glorify pure Indra with pure Sama hymns.  
      Let the pure milky draught delight him strengthened by pure songs of praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommt doch, wir wollen den Indra preisen, den Gereinigten, Reinen, mit reiner Sangesweise, der sich an den reinen Lobliedern erbaut hat; ihn soll der reine, der mit Milch gemischte Soma berauschen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt, lasst uns Indra preisen nun, den reinen ihn mit reinem Sang, Der sich an reinen Sprüchen labt, der reine Trank berausche ihn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Придите же сейчас! Мы будем восхвалять Индру  
 Чистого чистым напевом!  

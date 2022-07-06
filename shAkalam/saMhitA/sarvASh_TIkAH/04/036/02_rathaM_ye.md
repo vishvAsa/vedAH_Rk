@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 र꣡थं ये꣡ चक्रुः꣡ सुवृ꣡तं सुचे꣡तसो  
 अ꣡विह्वरन्तम् म꣡नसस् प꣡रि ध्य꣡या  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 आ꣡ वो वाजा ऋभवो वेदयामसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 तान् । ऊं॒ इति॑ । नु । अ॒स्य । सव॑नस्य । पी॒तये॑ । आ । वः॒ । वा॒जाः॒ । ऋ॒भ॒वः॒ । वे॒द॒या॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
@@ -138,37 +138,37 @@ genre M
 **सुचेतसः** शोभनचित्ताः **ये** ऋभवः **सुवृतं** सुवर्तनचक्रम् **अविह्वरन्तम्** अकुटिलं **रथं** **मनसः** **परि** **ध्यया** मनसो ध्यानेनाप्रयत्नेन **नु** **क्षिप्रं** **चक्रुः** **तान्** । उशब्द एवार्थे । तानेव **अस्य** **सवनस्य** **पीतये** एतं सोमं पातुं हे **वाजाः** हे **ऋभवः** ”वः युष्मान् **आ** **वेदयामसि** आवेदयामः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We invoke you respectfully, **Vājas** and **Ṛbhus**, to drink of this libation, for you are the wise sages, who, by mental meditation, made the well-constructed undeviating car (of the **Aśvins**).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The very perceptive ones who made from mind by insight the  
 smooth-running chariot, which never overturns—  
 (to you,) o Vājas, o R̥bhus, we now dedicate (the soma) of this pressing  for you to drink.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Ye Sapient Ones who made the lightly-rolling car out of your mind, by thought, the car that never errs,  
      You, being such, to drink of this drinkoffering, you, O ye Vajas, and ye Rbhus, we invoke.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Verständigen, die den leicht rollenden, nicht umkippenden Wagen nach dem bloßen Gedanken mit Erfindsamkeit angefertigt haben, euch laden wir jetzt zum Trunk dieser Somaspende ein, ihr Vaja´s, Ribhu´s.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die weisheitsvoll mit Ueberlegung des Gemüths den Wagen machten, der nicht gleitend vorwärts rollt, Die laden jetzt wir, euch, o Vadscha's, Ribhu's, ein, dass dieses Soma's Saftgebräu ihr trinken mögt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Те) прозорливцы, что создали легкоходную  
 Неопрокидывающуюся колесницу с помощью видения, (исходящего) из сердца, –  

@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 मुमो꣡द ग꣡र्भो वृषभः꣡ ककु꣡द्मान्  
 अस्रेमा꣡ वत्सः꣡ शि꣡मीवाँ अरावीत्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स्वे꣡षु क्ष꣡येषु प्रथमो꣡ जिगाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 सः । दे॒वऽता॑ति । उत्ऽय॑तानि । कृ॒ण्वन् । स्वेषु॑ । क्षये॑षु । प्र॒थ॒मः । जि॒गा॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *mumoda* ← *mud*
 - \[verb\], singular, Perfect indicative
@@ -118,36 +118,36 @@ genre M
 **गर्भः** द्यावापृथिव्योरन्तर्गतः **वृषभः** कामानां वर्षिताग्निः **ककुद्मान्** उन्नततेजस्कः **मुमोद** मोदते । किंच **अस्रेमा** । प्रशस्यनामैतत् । प्रशस्तः **वत्सः** नक्तोषसोर्वत्सभूतः सायंप्रातराहुत्युपजीवनात् **शिमीवान्** हविर्वहनदेवाहृानादिकर्मवानग्निः अरावीत् देवाह्वानादिशब्दं करोति । **सः** अग्निः **देवताति** यज्ञे **उद्यतानि** उद्यमान्युत्साहकर्माणि कृण्वन् कुर्वन् **स्वेषु** **क्षयेषु** आत्मीयेष्वाहवनीयादिस्थानेषु स्थितः **प्रथमः** देवानां स्थानेषु मुख्यः **जिगाति** गच्छति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “THe embryo (of heaven and earth), the showerer (of benefits), the glorious, rejoices; the excellentchild (of morn and eve), the celebrator of holy rites calls aloud; assiduous in exertions at the worship of the gods,he moves chief in his own abodes.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He rejoices as an embryo, as a hump-backed bull. No miscarriage, the  calf has bellowed vehemently.  
 Causing (the oblations) to be lifted up to the conclave of gods, he goes  first within his own dwelling places.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Bull, the youngling with the hump, hath frolicked, the strong and never-ceasing Calf hath bellowed.  
      Bringing our offerings to the God's assembly, he moves as Chief in his own dwelling-places.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das neugeborene Kind ist fröhlich, der Bulle mit dem Buckel; das Kalb, das keine Fehlgeburt ist, hat heftig gebrüllt. Bei dem Götteropfer die dargebrachten Spenden ausrichtend, zieht er als Erster in seine Wohnstätten ein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Es ist voll Lust der Buckelstier, der junge, es brüllt das Kalb sich unermüdlich regend, Zur Götterschar das Dargereichte bringend kommt als der erste er zu seinen Sitzen.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Возрадовался младенец, бык горбатый,  
 Непреждевременный теленок мощно взревел.  

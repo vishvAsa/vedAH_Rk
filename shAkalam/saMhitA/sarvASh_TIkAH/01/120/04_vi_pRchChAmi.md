@@ -6,14 +6,14 @@ ChandaH = "नष्टरूपी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ पृछामि पाकि꣡या न꣡ देवा꣡न्  
 व꣡षट्कृतस्य अद्भुत꣡स्य दस्रा  
 पातं꣡ च स꣡ह्यसो युवं꣡ च र꣡भ्यसो नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 पा॒तम् । च॒ । सह्य॑सः । यु॒वम् । च॒ । रभ्य॑सः । नः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -97,7 +97,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 हे अश्विनौ युवां **वि** **पृच्छामि** विशेषेण प्रष्टुमिच्छामि । **पाक्या** न पक्तव्यप्रज्ञान् स्वपरिपक्वमतीन अन्यान् **देवान्** **न** पृच्छामि। किंतु युवामेव सर्वज्ञौ पृच्छामीत्यर्थः। हे **दस्रा** दर्शनीयौ तौ युवां **वषट्कृतस्य** वषट्कारेणाग्नौ हुतस्य **अद्भुतस्य** आश्चर्यभूतस्य महतः **सह्यसः** अतिशयेन बलवतो बलोत्पादकस्य सोमस्य स्वांशलक्षणमेकदेशं **पातं** **च** । **नः** अस्मान् **च** **रभ्यसः** अतिशयेन रभस्विनः प्रौढोद्यमान् कुरुतम् । पाक्या । पचेः ‘ऋहलोर्ण्यत्' ।' चजोः कु घिण्ण्यतोः' इति कुत्वम् । तित्स्वरः । ‘सुपां सुलुक्' इति विभक्तेर्ङादेशः । वषट्कृतस्य । वषट्शब्दस्य ऊर्यादित्वेन गतित्वात् ‘गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । पातम् । ‘पा पाने '। 'बहुलं छन्दसि ' इति शपो लुक् । सह्यसः। सहते अभिभवत्यनेनेति सहो बलम् । असुन् । तदस्यास्तीति सहस्वी । मत्वर्थीयो विनिः । तत आतिशायनिक ईयसुन् । ‘विन्मतोर्लुक्'। छान्दस ईकोरलोपः । रभ्यसः । ‘रभ राभस्ये'। राभस्यं कार्योपक्रमः । पूर्ववत्प्रक्रिया उन्नेया ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 Pākyā = to be ripened;not yet mature in wisdom, paktavyaprajñānan
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 In my naïveté I ask (you), not (other) gods, about the unerring (soma),  created with the vaṣaṭ-call, o wondrous ones.  
 Protect us from the more powerful and the more violent one!
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Simply, ye Mighty Ones, I ask the Gods of that wondrous oblation hallowed by the mystic word.  
      Save us from what is stronger, fiercer than ourselves.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich frage in meiner Einfalt nicht die anderen Götter aus nach dem mit Vasatruf gesegneten heimlichen Soma, ihr Meister. Schützet ihr uns vor dem Mächtigeren, ihr vor dem Gewaltigeren!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ich frage wie aus Unverstand die Götter aus nach dem geheimnissvollen von Opferruf begleiteten Werke (?); beschützt uns vor dem stärkeren und ungestümeren.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я расспрашиваю в простоте (своей) не (других) богов, (а вас),  
 О таинственном (соме), приготовленном под (возглас) Вашат!, о удивительные.  

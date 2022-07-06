@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रा꣡जा सि꣡न्धूनाम् पवते प꣡तिर् दिव꣡  
 ऋत꣡स्य याति पथि꣡भिः क꣡निक्रदत्  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पुनानो꣡ वा꣡चं जन꣡यन्न् उ꣡पावसुः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 स॒हस्र॑ऽधारः । परि॑ । सि॒च्य॒ते॒ । हरिः॑ । पु॒ना॒नः । वाच॑म् । ज॒नय॑न् । उप॑ऽवसुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
@@ -117,20 +117,20 @@ genre M
 **सिन्धूनां** नदीनामुदकानां **राजा** ईश्वरः **दिवः** **पतिः** द्युलोकस्य स्वामी **ऋतस्य** यज्ञस्य **पथिभिः** मार्गैः **कनिक्रदत्** शब्दं कुर्वन् **याति** । **सहस्रधारः** बहुधारायुक्तः सोमो नृभिर्नेतृभिर्ऋत्विग्भिः **परि** **षिच्यते** पात्रेषु । **पुनानः** पूयमानः **वाचं** शब्दं **जनयन्** उत्पादयन् **उपावसुः** उपागच्छद्घनः परि षिच्यते इति समन्वयः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sovereign of rivers flows pure, the lord of heaven goes with a shout by the paths of the sacrifice; the thousand-streamed green-tinted (**Soma**) is poured out, uttering a sound while being filtered, the bringer of wealth.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The king of rivers, the lord of heaven purifies himself. He proceeds  along the paths of truth, ever roaring.  
 The tawny one is poured around with his thousand streams as he is  being purified, begetting speech, bringing goods near at hand.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details open><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -144,23 +144,23 @@ As for external connections, GEN niṣkṛtám √yā in 32d is found also in 7b
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 On flows the King of rivers and the Lord of heaven: he follows with a shout the paths of Holy Law.  
      The Golden-hued is poured forth, with his hundred streams, Wealth-bringer, lifting up his voice while purified.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er läutert sich, der König der Gewässer, der Herr des Himmels, er geht brüllend auf den Pfaden der Opferordnung. In tausend Güssen wird der Goldgelbe ausgegossen; die Rede bringt er hervor, während er geläutert wird, zu Reichtum kommend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Ströme König rieselt hell, des Himmels Herr, und schreitet wiehernd auf des Opfers Pfaden hin; In tausend Strömen fliesset hin der goldene, Gesang erzeugend, flammend, reich mit Gut versehn.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Царь рек очищается, хозяин неба.  
 Он идет по путям закона, громко ревя.  

@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ कुमार प्रा꣡वर्तयो  
 र꣡थं वि꣡प्रेभियस् प꣡रि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 स꣡म् इतो꣡ नावि꣡ आ꣡हितम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 तम् । साम॑ । अनु॑ । प्र । अ॒व॒र्त॒त॒ । सम् । इ॒तः । ना॒वि । आऽहि॑तम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -102,7 +102,7 @@ popular;; epic anuṣṭubh (380)
 गत्वा एवमेव त्वया वक्तव्यमिति प्रत्यागमनकारणमुपायोपदेशनम् **अनु** **प्रावर्तत** । **इतः** अस्माल्लोकादन्वगच्छत् । कथंभूतम्। **नावि** नौवत्तरणसाधनायां बुद्धौ **सम्** **आहितं** सम्यग्धृतम् । यद्वा । हे कुमार ऋषे यं शरीरात्मकं रथमधिष्ठितं प्रावर्तयः संसारे प्रवर्तितवानसि मेधाविनां मध्ये तं रथमनु साम । उपलक्षणमेतत् । ऋक्सामादिसाध्यं स्तोत्रं नावि नौवत्तारयित्र्यां वाचि वेदात्मिकायां समाहितं सम्यक्प्रतिपाद्यत्वेन हितं कर्म च इतः अस्माल्लोकात् प्रावर्तत प्रवृत्तमभूत् । इत्थमात्मस्वरूपापरिज्ञानेन शरीरबन्धनं तेन कर्तव्यं व्यवहारजातं चोक्तम् । अथ तु सत्यज्ञानादिस्वरूपमकर्तारं परमात्मानं यदि स्वात्मतया साक्षात्करोति तदोक्तं च संभवतीत्यभिप्रायः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -113,30 +113,30 @@ popular;; epic anuṣṭubh (380)
 Who has begotten the youth: after communicating the message sent by you father\]. outstretched, afterwards a means of returning (from **Yama**) was provided.
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Father?:] The chariot which you, lad, sent rolling forth from the  
 inspired poets,  
 following it the sāman melody rolled forth from here, set onto a boat.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The car which thou hast made to roll hitherward from the Sages, Child!  
      This hath the Saman followed close, hence, laid together on a ship.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dem Wagen, den du Knabe da den Redekundigen vorgeführt hast, dem folgte das Saman nach, das von da auf das Schiff gesetzt wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dem Wagen, den du rollen liesst, o Knabe, von den Sängern her, Dem rollten unsre Lieder nach, von hier aus auf das Schiff gesetzt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 За колесницей, которую, о мальчик,  
 Ты покатил от вдохновенных,  

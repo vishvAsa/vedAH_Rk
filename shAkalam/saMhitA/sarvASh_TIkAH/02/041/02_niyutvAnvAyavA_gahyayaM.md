@@ -6,14 +6,14 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 नियु꣡त्वान् वायव् आ꣡ गहि  
 अयं꣡ शुक्रो꣡ अयामि ते  
 ग꣡न्तासि सुन्वतो꣡ गृह꣡म्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 गन्ता॑ । अ॒सि॒ । सु॒न्व॒तः । गृ॒हम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *niyutvān* ← *niyutvat*
 - \[noun\], nominative, singular, masculine
@@ -89,7 +89,7 @@ genre M
 हेवायो नियुत्वान् नियुतोबाहनानिवायोः तैर्युक्तस्त्वं आगह्यगच्छ अयंशुक्रोदीप्यमानः सोमः तेतुभ्यं अयामिनियतोगृहीतआसीत् यमेःकर्मणिलुङ् सुन्वतः सोमाभिषवं कुर्वतोयजमानस्यगृहं गन्तासियाताभवसि ॥ २ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -104,13 +104,13 @@ genre M
 **Graha** = a vessel, a ladle; i.e. a ladle or cup of the Soma
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You with your teams, Vāyu, come here. This clear (soma) has been held  out to you.  
 You are wont to come to the house of the presser.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -120,23 +120,23 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Drawn by thy team, O Vayu, come; to thee is offered this, the pure.  
      Thou visitest the presser's house.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit dem Niyutgespann fahrend komm, o Vayu! Dieser klare Soma ist dir gereicht. Du pflegst in das Haus des Somabereiters zu kommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit Vielgespann, o Vāju, komm, hier ward dir reiner Trank gereicht, Bald kommst du in des Pressers Haus.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Правя упряжками, о Ваю, приезжай!  
 Этот прозрачный (сома) поднесен тебе.  

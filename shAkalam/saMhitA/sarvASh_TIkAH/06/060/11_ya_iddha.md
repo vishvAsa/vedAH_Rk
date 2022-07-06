@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡ इद्ध꣡ आवि꣡वासति  
 सुम्न꣡म् इ꣡न्द्रस्य म꣡र्तियः  
 द्युम्ना꣡य सुत꣡रा अपः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic on metrical evidence alone
@@ -30,7 +30,7 @@ genre M
 द्यु॒म्नाय॑ । सु॒ऽतराः॑ । अ॒पः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -79,41 +79,41 @@ genre M
 **यः** **मर्त्यः** मनुष्यः **इद्धे** दीप्तेऽग्नौ **सुम्नं** सुखकरं हविः **इन्द्रस्य** इन्द्राय **आविवासति** परिचरति प्रयच्छति । चतुर्थ्यर्थे षष्ठी । तस्य मर्त्यस्य **द्युम्नाय** द्योतमानायान्नाय तदर्थं **सुतराः** सुखेन तरणीयाः **अपः** उदकानि वृष्ट्यात्मकानि इन्द्रः करोतीति शेषः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The mortal who presents the gratifying (oblation) to **Indra** in the kindled (fire), to him (Indra grants) acceptable waters for his sustenance.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The mortal who, when (the ritual fire) has been kindled, seeks to win  the favor of Indra,  
 (for him Indra makes) the waters easy to cross for brilliance.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The syntactic affiliation of the final pāda of this vs., consisting of a dat. dyumnā́ya and an acc. phrase sutárā apáḥ, is unclear. Oldenberg suggests taking the acc. as a second obj. of āvívāsati, or rather suggests supplying the same verb as main clause verb “(he also wins) waters …” But since the structure of ab, in which the mortal seeks Indra’s favor, invites a demonstration of that favor in the main cl., I therefore borrow kṛṇoti (deaccented) from 10c, with Indra as subj. This is also Renou’s solution and apparently Geldner’s. For √kṛ in similar expressions, see VII.97.8 kárad bráhmaṇe sutárā sugādhā́ “He [=Bṛhaspati/Indra] will make good fords, easy to cross, for the sacred formulation” and IV.19.6 sutaraṇā́m akṛṇor indra síndhūn “You made the rivers easy to cross, Indra.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He who gains Indra's bliss with fire enkindled finds an easy way  
      Over the floods to happiness.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Welcher Sterbliche bei entflammtem Feuer die Gunst des Indra erbittet, dem machet ihr zum Ruhmglanze die Gewässer leicht überschreitbar.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Sterbliche, der Indra's Huld bei Agni's Flamme sich gewinnt, Der dringt durch Fluten schnell zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Тот) смертный, кто при зажженном (костре)  
 Стремится завоевать расположение Индры, –  

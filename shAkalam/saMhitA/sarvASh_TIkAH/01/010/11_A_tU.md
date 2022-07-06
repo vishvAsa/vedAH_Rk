@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ तू꣡ न इन्द्र कौशिक  
 मन्दसानः꣡ सुत꣡म् पिब  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 कृधी꣡ सहस्रसा꣡म् ऋ꣡षिम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 नव्य॑म् । आयुः॑ । प्र । सु । ति॒र॒ । कृ॒धि । स॒ह॒स्र॒ऽसाम् । ऋषि॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -117,7 +117,7 @@ genre M
 हे **इन्द्र** **तु** क्षिप्रं **नः** अस्मान् प्रति **आ** गच्छतिशेषः । हे **कौशिक** कुशिकस्य पुत्र इन्द्र **मन्दसानः** हृष्टो भूत्वा **सुतम्** अभिषुतं सोमं **पिब** । यद्यपि विश्वामित्रः कुशिकस्य पुत्रस्तथापि तद्रूपेणेन्द्रस्यैवोत्पन्नत्वात् कुशिकपुत्रत्वमविरुद्धम् । अयं वृत्तान्तोऽनुक्रमणिकायामुक्तः-‘कुशिकस्त्वैषीरथिरिन्द्रतुल्यं पुत्रमिच्छन् ब्रह्मचर्यं चचार। तस्येन्द्र एव गाथी पुत्रो जज्ञे ' ( अनु. ऋ. सं. ३. १) इति । हे इन्द्र **नव्यं** सर्वैर्देवैः स्तुत्यं कर्मानुष्ठानपरम् **आयुः** जीवितं **प्र** **सू** **तिर** प्रकर्षेण सुष्ठु वर्धय । ततो मां **सहस्रसां** सहस्रसंख्याकलाभोपेतम् **ऋषिम्** अतीन्द्रियद्रष्टारं **कृधि** कुरु ॥ तु । संहितायाम् ‘ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम्' (पा. सू. ६. ३. १३३ ) इति दीर्घः। नः। संहितायाम् ‘उदात्तादनुदात्तस्य स्वरितः'। इन्द्र । आमन्त्रितनिघातः । कौशिक । निघातः । मन्दसानः हृष्यन् । **मदि** स्तुतिमोदमदस्वप्नकान्तिगतिषु । ' असानच्' (उ. सू. २. २४३) इत्यनुवृत्तौ ‘ऋञ्जिवृधिमन्दिसहिभ्यः कित्' ( उ. सू. २. २४४ ) इति असानच् प्रत्ययः । चित्त्वादन्तोदात्तः । सुतम् । प्रत्ययस्वरः । नव्यम्। ‘णु स्तुतौ ।' अचो यत्' (पा. सू. ३. १. ९७ )। गुणः । ‘वान्तो यि प्रत्यये' (पा.सू. ६. १. ७९) इति अवादेशः । यतोऽनावः' इत्याद्युदातत्वम् । आयुः। ‘उसि, नित्' इत्यनुवृत्तौ ‘एतेर्णिच्च' (उ. सू. २. २७५) इति उसिप्रत्ययः । णित्त्वात् वृद्ध्यायादेशौ। नित्त्वादाद्युदात्तत्वम् । सु।' निपातस्य च ' इति संहितायां दीर्घत्वम् । तिर। तरतेर्व्यत्ययेन शः । ‘ऋत इद्धातोः' (पा. सू. ७. १. १००) इति इत्वम् । अतो हेः' (पा. सू. ६. ४. १०५) इति हेर्लुक्। कृधि ।' डुकृञ् करणे'। ‘बहुलं छन्दसि' इति शपो लुक् । “ श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिरादेशः । सहस्रताम् । उक्तम् । ऋषिम् । 'ऋषी गतौ'। ‘इन्' इत्यनुवृत्तौ ‘इगुपधात्किञ्च' ( उ. सू.४. ५५९)। कित्त्वद्गुणाभावः । नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -130,34 +130,34 @@ genre M
 Legend: Kuśika, the son of Iṣirathi, was desirous of a son equal to Indra; he did penance and Indra was born as the son of **Gāthi** (**Gādhi**) (Anukramaṇikā 3.1): kuśikastvaiṣīrathirindratulyam putramicchan **brahmacarya** cacāra; tasyendra eva **gāthī** putro jajñe
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, (god) of Kuśika, finding exhilaration, drink our pressed soma.  
 Lengthen our lifetime anew; make the seer the winner of a thousand.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Kuśika is the ancestor of the Viśvāmitras, the family to which our poet belongs. As this is the last hymn attributed to Madhuchandas in this set, an ancestral reference is in order.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, Son of Kusika, drink our libation with delight.  
      Prolong our life anew, and cause the seer to win a thousand gifts.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Trink doch, Indra, Gott des Kúsika, unseren Soma, dich berauschend! Verlängere fein aufs neue unser Leben, laß den Rishi Tausend gewinnen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, hold dem Stamm des Kuçika, trink, Indra, lustig unsern Trank; Mach lang die künft'ge Lebenszeit, beschenk den Dichter tausendfach.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пей же, Индра, любезный роду Кушика,  
 Радуясь нашему выжатому (соме)!  

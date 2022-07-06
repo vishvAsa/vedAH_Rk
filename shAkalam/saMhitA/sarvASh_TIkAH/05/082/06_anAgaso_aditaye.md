@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नागसो अ꣡दितये  
 देव꣡स्य सवितुः꣡ सवे꣡  
 वि꣡श्वा वामा꣡नि धीमहि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 विश्वा॑ । वा॒मानि॑ । धी॒म॒हि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
@@ -74,7 +74,7 @@ genre M
 वयमनुष्ठातारः **सवितुः** प्रेरकस्य **देवस्य** **सवे** अनुज्ञायां सत्याम् **अदितये** अखण्डनीयायै देव्यै भूम्यै **अनागसः** स्याम अनपराधिनो भवेम । भूम्यां हि पापाः संभवन्ति । अपगतेष्वागःसु **विश्वा** सर्वाणि **वामानि** वननीयानि धनानि **धीमहि** धारयाम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -87,28 +87,28 @@ To the will of the divine Savitā: **devasya** **savituḥ** save save: save = a
 Aditi = **bhūmi**, earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (If we are) without offense to Aditi, at the impulsion of god Savitar might we acquire all things of value.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sinless in sight of Aditi through the God Savitar's influence,  
      May we obtain all lovely things.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schuldlos vor Aditi möchten wir nach des Gottes Savitri Bestimmung alles Gute empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vor Aditi von Schuld befreit, beim Werk des Gottes Savitar Erlangen alles Schöne wir.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Безгрешные перед Адити,  
 По повелению бога Савитара  

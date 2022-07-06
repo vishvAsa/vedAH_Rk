@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 हिन्वानो꣡ हेतृ꣡भिर् यत꣡  
 आ꣡ वा꣡जं वाजी꣡ अक्रमीत्  
 सी꣡दन्तो वनु꣡षो यथा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सीद॑न्तः । व॒नुषः॑ । य॒था॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
@@ -79,7 +79,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **वाजी** बलवान् सोमः **हेतृभिः** प्रेरकैः स्तोतृभिः **हिन्वानः** स्तोत्रैः प्रेर्यमाणः **यतः** संयतः सन् **वाजं** यागाख्यं युद्धम् **आ** **अक्रमीत्** आक्रामति । तत्र दृष्टान्तः । **यथा** **वनुषः** हन्तारो भटाः **सीदन्तः** युद्धं प्रविशन्तः आक्रामन्ति तद्वदित्यर्थः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -90,13 +90,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 To the battle: metaphorically, for sacrifice
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Being impelled, guided by the impellers, the prize-seeker has stridden to  the prize—  
 sitting (on the womb of truth) like raptor(-birds).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Pāda a contains what appears to be an etymological figure, but I consider it somewhat trickier than that. The first two word, hinvānó hetṛ́bhiḥ, are transparently related and easy to construe together, and IX.13.6 hiyānā́ná hetṛ́bhiḥ “like (horses) being driven by their drivers” displays the same apparent configuration. However, the instr. in our passage is followed by a ppl. yatáḥ ‘held, guided’, which is regularly preceded by an instr. agent, often nṛ́bhiḥ (approx. 10x in IX), or in this very hymn, vs. 15 vājíbhir yatáḥ “guided by the prizeseekers.” So I suggest that hetṛ́bhiḥ is actually the agent for following yatáḥ, though also adjacent to its etymological kin - a fine twist on the RVic poetic trick of positioning a word between two words both of which it could be (or indeed is) connected to. A more literal rendering of the pāda would be “ "... impelled, by the impellers held.” The simile in c is problematic for several reasons. To begin with, the subject of ab is singular, but the simile must be couched in the plural, given the pres. part. sī́dantaḥ. This is less of a problem than it appears: first, this hymn and soma hymns in general regularly switch back and forth between sg. (soma) and pl. (soma drinks / drops, etc.) referring to the same substance, and this could easily be a unmarked case of that. Moreover, if the target of the simile is in the pl., it can have attracted the participle into the pl.
 
@@ -115,23 +115,23 @@ The contrast between the two types of soma drinks, pure and mixed with milk, are
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Led by his drivers, and sent forth, the Strong Steed hath come nigh for spoil,  
      Like warriors when they stand arrayed.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von den Treibern getrieben, gelenkt ist der Preisrenner nach dem Siegerpreis gelaufen wie die wetteifernden Reiter.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Gespornt von Treibern und gelenkt hat nun der Renner Preis erlangt Wie Krieger sitzend nach dem Streit.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

@@ -6,7 +6,7 @@ ChandaH = "शक्वरी"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡ षु꣡ वि꣡श्वा अ꣡रातयो  
 अर्यो꣡ नशन्त नो धि꣡यः  
@@ -17,7 +17,7 @@ ChandaH = "शक्वरी"
 जियाका꣡ अ꣡धि ध꣡न्वसु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -38,7 +38,7 @@ genre M;; repeated line
 अस्ता॑ । अ॒सि॒ । शत्र॑वे । व॒धम् । यः । नः॒ । इ॒न्द्र॒ । जिघां॑सति । या । ते॒ । रा॒तिः । द॒दिः । वसु॑ । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vi*
 - \[adverb\]
@@ -150,37 +150,37 @@ genre M;; repeated line
 **विश्वाः** सर्वाः **अरातयः** अदात्र्यः **अर्यः** अभिगन्त्र्यः **नः** अस्माकं शत्रुभूताः प्रजाः **सु** सुष्ठु **वि** **नशन्त** विनश्यन्तु । हे इन्द्र त्वदर्थं **धियः** कर्माणि स्तुतयो वा प्रवर्तन्ताम् । हे **इन्द्र** **यः** **नः** अस्मान् **जिघांसति** हन्तुमिच्छति । हन्तेः सनि अज्झनगमां सनि' इति दीर्घः । अभ्यासाच्च' इति कुत्वम् । तस्मै **शत्रवे** **वधं** हननसाधनमायुधम् **अस्तासि** क्षेप्ता भवसि । असु क्षेपणे । ताच्छीलिकस्तृन् । **ते** तव **या** **रातिः** धनप्रदानहेतुर्हस्तः । रा दाने । करणे क्तिन् । ‘ मन्त्रे वृषेषपचमनविदभूवीरा  उदात्त: ' इति क्तिन उदात्तत्वम् । सा रातिः **वसु** धनं **ददिः** अस्मभ्यं दाता भवतु ।  ‘ आदृगमहन' इति ददातेः किप्रत्ययः ।  ‘ न लोकाव्यय°' इति वसुशब्दात् षष्ठ्यभावः । सिद्धमन्यत् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May all our assailants, who make no offerings, quickly perish, may our praises (be successful); you,**Indra**, hurl the weapon at the foe who seeks to slay us, may that liberal (**hand**) of yours be the giver of wealth (tous); may the bowstrings on the bows of our enemies be destroyed.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All the hostilities of the stranger will disappear, while our poetic insights  will reach beyond (those) of the stranger.  
 You are wont to shoot the murderous weapon at the rival who wishes to  smite us, Indra. Your generosity—(that is just) giving goods.  
 – Let the little bowstrings of the other squirts burst on their bows.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Destroyed be all malignities and all our enemy's designs.  
      Thy bolt thou castest, at the foe, O Indra, who would srnite us dead: thy liberal bounty gives us wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Alle Mißgunst der Nebenbuhler soll fein zu Schanden werden; unsere Gebete mögen die Nebenbuhler einholen. Du schießest deine Waffe auf den Feind, der uns töten will, Indra. Was deine Freigebigkeit ist, die schenkt Gut. - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Bald schwinde hin der Bösen Schar und unsres Gegners Pläne all', Die Waffe wirfst du auf den Feind, der uns, o Indra, tödten will; Du schenkst uns Gut nach deiner Huld; zerreissen soll den anderen Die Sehne, die den Bogen spannt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть ис(чезнут) совсем все враждебные силы,  
 Пусть наши мысли настигнут (мысли) врага!  

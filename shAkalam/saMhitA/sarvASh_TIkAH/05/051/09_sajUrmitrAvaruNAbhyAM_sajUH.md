@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सजू꣡र् मित्रा꣡व꣡रुणाभ्यां  
 सजूः꣡ सो꣡मेन वि꣡ष्णुना  
 आ꣡ याहि अग्ने अत्रिव꣡त् सुते꣡ रण
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -31,7 +31,7 @@ genre M;; line affected by realignment;; repeated line
 आ । या॒हि॒ । अ॒ग्ने॒ । अ॒त्रि॒ऽवत् । सु॒ते । र॒ण॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sajūr* ← *sajūs*
 - \[adverb\]
@@ -89,36 +89,36 @@ genre M;; line affected by realignment;; repeated line
 उत्तरेद्वेनवमीदशम्यौस्पष्टे ॥ ९ ॥ १० ॥ पृष्ठ्यस्यषष्ठेहनिवैश्वदेवशस्त्रेस्वस्तिनइतितृचः सूत्रितञ्च-स्वस्तिनोमिमीतामश्विनाभगइतितृचइतिवैश्वदेवमिति । तथाबृहस्पति- सवेवैश्वदेवनिविद्धानार्थोयन्तृचः स्वस्तिनोमिमीतामश्विनाभगइतिवैश्वदेवमितिसूत्रितत्वात् ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Accompanied by **Mitra** and **Varuṇa**, accompanied by **Soma** and **Viṣṇu**, come, **Agni** and like **Atri**, delight in the libation.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Jointly with Mitra and Varuṇa, jointly with Soma, with Viṣṇu,  
 drive hither, Agni. Take pleasure in the pressed soma, as (you did) at  Atri’s.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Associate with Varuna, with Mitra, Soma, Visnu, come,  
      Agni, as erstwith Atri, so enjoy the juice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Einträchtig mit Mitra und Varuna, einträchtig mit Soma, mit Vishnu, komm, o Agni; ergötze dich am Trank wie bei Atri!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Vereint mit Mitra-Varuna, mit Soma und mit Vischnu auch Komm, Agni, wie zum Atri her, – geniess den Saft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 В согласии с Митрой-Варуной,  
 В согласии с Сомой, с Вишну  

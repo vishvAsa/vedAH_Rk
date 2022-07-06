@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सुग꣡वियं नो वाजी꣡ सुअ꣡श्वियम्  
 पुंसः꣡ पुत्राँ꣡ उत꣡ विश्वापु꣡षं रयि꣡म्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्षत्रं꣡ नो अ꣡श्वो वनतां हवि꣡ष्मान्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 अ॒ना॒गाः॒ऽत्वम् । नः॒ । अदि॑तिः । कृ॒णो॒तु॒ । क्ष॒त्रम् । नः॒ । अश्वः॑ । व॒न॒ता॒म् । ह॒विष्मा॑न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sugavyaṃ* ← *su*
 - \[adverb\]
@@ -125,7 +125,7 @@ popular
 **वाजी** अश्वः आलभ्यमानः **नः** अस्माकं **सुगव्यं** शोभनेन गोसमूहेन युक्तं **विश्वापुषं** **रयिं** विश्वस्य पोषकं धनं **कृणोतु** करोतु ॥ ‘खलगोरथात्' (पा. सू. ४. २. ५०) इति समूहार्थे यत् । छान्दसमुत्तरपदाद्युदात्तत्वम् । यद्वा । सामूहिकस्याणः प्रसङ्गे ‘सर्वत्र गोरजादिप्रत्ययप्रसङ्गे' (का. ४. ३. १६०) इति यत् । तदन्तस्य ' आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥ तथा स्वश्व्यं शोभनाश्वसमूहयुक्तम् । तथा **पुंसः** **पुत्रान्** । पुत्रशब्दः स्त्रीपुमपत्यसाधारणः । अतः पुमपत्यानीत्यर्थः । यद्वा। पुंसो वध्वादीन् पुत्रान् पुरुरक्षकान् आत्मजान्। स्त्र्यपत्यानि" पुमपत्यानि च इत्यर्थः । **उत** अपि च विश्वापुषं रयिं विश्वपोषणसमर्थं धनम्। किंच **नः** अस्मान् **अदितिः** अदीनः अश्वः **अनागास्त्वं** कृणोतु सर्वतो निष्पापत्वं करोतु । उक्तानां फलानां न्यूनातिरेकजनितपापक्षयाभावे असंभवात् अपापत्वं प्रार्थ्यते । किंच 'हविष्मान् हविर्भूतावयवोपेतः **अश्वः** नः अस्माकं **क्षत्रं** बलं क्षात्रं तेजः **वनतां** संभजतां कुरुताम् ॥ ॥ १० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -138,29 +138,29 @@ The spirited steed;
 **Aditi** = not poor or mean, **adīna**, as an epithet of **aśva**
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Let) the prizewinner (win) for us a mass of good cattle and good  horses, male children, and all-prospering wealth.  
 Let Aditi make guiltlessness for us. Let the horse, accompanied by our  oblations, win sovereignty for us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May this Steed bring us all-sustaining riches, wealth in good kine, good horses, manly offspring.  
      Freedom from sin may Aditi vouchsafe us: the Steed with our oblations gain us lordship!
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schöne Rinder und schöne Rosse, männliche Kinder und allnährenden Besitz soll uns das siegesgewohnte Roß bringen. Schuldlosigkeit soll uns Aditi erwirken. Die Herrschaft soll uns das von Opfergaben begleitete Roß erringen!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Reichthum an Rindern und Rossen schaffe uns das Ross, Helden und Söhne und allnährenden Reichthum; Aditi schaffe uns Schuldlosigkeit, und das opferreiche Pferd verleihe uns Herrschaft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть боевой конь (принесет) нам прекрасных коров, прекрасных коней,  
 Детей мужского пола, а также богатство, кормящее всех!  

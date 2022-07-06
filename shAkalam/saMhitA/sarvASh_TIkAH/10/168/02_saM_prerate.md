@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡म् प्रे꣡रते अ꣡नु वा꣡तस्य विष्ठा꣡  
 अइ꣡नं गछन्ति स꣡मनं न꣡ यो꣡षाः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अस्य꣡ वि꣡श्वस्य भु꣡वनस्य रा꣡जा
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 ताभिः॑ । स॒ऽयुक् । स॒ऽरथ॑म् । दे॒वः । ई॒य॒ते॒ । अ॒स्य । विश्व॑स्य । भुव॑नस्य । राजा॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sam*
 - \[adverb\]
@@ -131,7 +131,7 @@ popular
 **विष्ठाः** विशेषणावस्थिताः पर्वताद्याः **वातस्य** वायोरनुगुणं **सं** **प्रेरते** संप्रगच्छन्ति । यदभिमुखो वायुर्वर्तते तदभिमुखाः प्रकम्पन्त इत्यर्थः । **समनं** **न** संग्राममिव **एनं** वायुं **योषाः** अश्वयोषितो वडवाः **आ** **गच्छन्ति** । **ताभिः** वडवाभिः **स्वयुक्** स्वयमेव युज्यमानं **सरथं** समानमेकं रथमारुह्य **देवः** दीप्यमानः वायुः **ईयते** गच्छति । ' ईङ् गतौ ' । **अस्य** **विश्वस्य** सर्वस्य **भुवनस्य** द्वितीयविकारभाजो भूतजातस्य **राजा** स्वामी भवति । यद्वा । समनं धृष्टं पुरुषं योषाः कामिन्य इव एवं वायुं तरुगुल्मादिरूपाः स्त्रियोऽभिगच्छन्ति । ताभिः सरथं सहरथं देव ईयत इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -142,34 +142,34 @@ popular
 Mares come to him: or, his wives, the trees,shrubs etc., follow him as timid women obey a resolute man
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The dispersed eddies of the Wind press forward together following (him).  They go to him, like girls to a festive gathering.  
 Yoked together with them on the same chariot, the god speeds on as  king of this whole world.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Along the traces of the Wind they hurry, they come to him as dames to an assembly.  
      Borne on his car with these for his attendants, the God speeds forth, the universe's Monarch.
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The hosts of Vāta onward speed together: They haste to him as women to a concourse. The god with them upon the same car mounted, The king of all this universe speeds onward.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Hinterdrein erheben sich alle Arten des Windes; sie kommen zu ihm wie Frauen zur Hochzeit. Mit ihnen zusammen fährt der Gott auf gleichem Wagen, der König dieser ganzen Welt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Ihm eilen nach des Windes weite Flüge, und gehn zu ihm wie zu dem Fest die Jungfraun, Mit ihnen eilt der Gott auf gleichem Wagen vereint der König dieses ganzen Weltalls.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Вслед за Ватой устремляются (все) виды ветров.  
 Они мчатся к нему, как женщины на праздничное собрание.  

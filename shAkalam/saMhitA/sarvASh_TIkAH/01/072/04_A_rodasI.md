@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रो꣡दसी बृहती꣡ वे꣡विदानाः  
 प्र꣡ रुद्रि꣡या जभ्रिरे यज्ञि꣡यासः  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अग्नि꣡म् पदे꣡ परमे꣡ तस्थिवां꣡सम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -32,7 +32,7 @@ genre M
 वि॒दत् । मर्तः॑ । ने॒मऽधि॑ता । चि॒कि॒त्वान् । अ॒ग्निम् । प॒दे । प॒र॒मे । त॒स्थि॒ऽवांस॑म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -136,7 +136,7 @@ genre M
 **तस्थिवांसम्** । तिष्ठतेर् लिटः क्वसुः । वस्वेकाजाद्घसाम् इतीडागमः ॥ ४ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -149,13 +149,13 @@ Dedicated to Rudra: Rudra is equated with Agni; the hymns to Agni are called Rud
 Nemadhitā = half-sharer, from **nema**, a half; Indra is entitled to all sacrifices; all the other gods get half the share: sarve **devāḥ** eko **ardhaḥ**, Indra eka evaparo ardhaḥ (Taittirīya 5.4.8.3)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Ever possessing the two lofty world-halves [/Rodasī], the sons of Rudra  [=Maruts], worthy of worship, pressed forward.  
 In the opposite position a mortal, perceiving him, found Agni standing  on the highest track.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 we find rodasī́in acc. usage: the singular consort has simply been grammatically assimilated to the dual world halves in all her appearances.
 
@@ -168,28 +168,28 @@ of its other three occurrences, ‘when facing the other side’, used of battle
 The last pāda echoes 2d, except it is Agni standing on the highest track, not his pursuers.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Making them known to spacious earth and heaven, the holy Ones revealed the powers of Rudra.  
      The mortal band, discerning in the distance, found Agni standing in the loftiest station.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 Acquiring (or, exploring?) for themselves the two great worlds, the worshipful ones brought forward their Rudra-like powers 1. The mortal, when (beings) were in discord 2, perceived and found out Agni standing in the highest place.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Bei beiden hohen Rodasi Himmel und Erde Gehör findend haben sich die opferwürdigen Rudrasöhne an die Spitze gesetzt. Ein Sterblicher fand den Agni, als sie sich geteilt hatten, und entdeckte ihn, als er an der fernsten Spur sich aufhielt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erreichend beide hocherhabne Welten beeilten sich die hehren Rudrasöhne, Aufmerkend sah der Mensch vom untern Standpunkt den Agni, wie am höchsten Ort er dastand.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Достигнув двух высоких миров,  
 Рудры, достойные жертв, понеслись вперед.  

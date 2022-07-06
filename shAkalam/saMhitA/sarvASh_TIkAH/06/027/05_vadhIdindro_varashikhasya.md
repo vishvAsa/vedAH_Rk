@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 व꣡धीद् इ꣡न्द्रो वर꣡शिखस्य शे꣡षो  
 ऽभ्यावर्ति꣡ने चायमाना꣡य शि꣡क्षन्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ह꣡न् पू꣡र्वे अ꣡र्धे भिय꣡सा꣡परो द꣡र्त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 वृ॒चीव॑तः । यत् । ह॒रि॒यू॒पीया॑याम् । हन् । पूर्वे॑ । अर्धे॑ । भि॒यसा॑ । अप॑रः । दर्त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *vadhīd* ← *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
@@ -108,7 +108,7 @@ genre M
 पूर्वोक्तमेवार्थमनया विवृणोति । अयम् **इन्द्रः** **चायमानाय** चयमानस्य राज्ञः पुत्राय **अभ्यावर्तिने** एतन्नामकाय राज्ञे **शिक्षन्** ईप्सितानि वसूनि प्रयच्छन् **वरशिखस्य** असुरस्य **शेष** पुत्रान् **वधीत्** अवधीत् । अहिंसीत् । वरशिखस्य पुत्रान् कथमवधीदित्युच्यते । **यत्** यदा अयमिन्द्रः **हरियूपीयायाम्** । हरियूपीया नाम काचिन्नदी काचिन्नगरी वा । तस्यां **पूर्वे** **अर्धे** प्राग्भागे स्थितान् **वृचीवतः** । वृचीवान् नाम वरशिखस्य कुलोत्पन्नः पूर्वः । तद्रोत्रजान् वरशिखस्य पुत्रान् **हन्** अवधीत् तदा **अपरः** अपरभागे स्थितः वरशिखस्य श्रेष्ठः पुत्रः **भियसा** भीत्या **दर्त्** दीर्णोऽभूत् ॥ ॥ २३ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -119,13 +119,13 @@ genre M
 Abhyāvartin, Cāyamāna: names of **rājās**. Vṛcīvat is the first-born of the sons of varaśikha, thereafter others are named. Hariyūpīya is the name of either a river or a city
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Indra smashed the posterity of Varaśikha, doing his best for Abhyāvartin  Cāyamāna,  
 when at the Hariyūpīyā (River) he smashed the Vr̥cīvants in the front  division, and the rear (division) shattered from fear.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Abhyāvartin Cāyamāna is the subj. of the dānastuti in vs. 8.
 
@@ -135,23 +135,23 @@ As in VI.20.10, this vs. contains a 3rd sg. root aor. dart with retained (or res
 retention of the cluster (before following dh- [← *h-]). I suggest that our form here has been adopted from that passage, since verse-final position would not favor the retention. Another passage containing dart that seems dependent on VI.20.10 is I.174.2b, identical to VI.20.10c, though in I.174.2 dart must be a 2nd sg., and so is doubly illicit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 In aid of Abhyavartin Cayamana, Indra destroyed the seed of Varasikha.  
      At Hariyupiya he smote the vanguard of the Vrcivans, and the rear fled frighted.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Indra erschlug die Nachkommen des Varasikha für Abhyavartin, den Sohn des Cayamana, um ihm einen Dienst zu leisten, als er an der Hariyupiya die Vricivat´s im vorderen Treffen schlug und das hintere Treffen vor Schreck zerstob.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Indra erschlug des Varaçikha Anhang, dem Abhjavartin Tschajamana helfend, Als die Vritschivats in Harijupija du vorne schlugst, voll Angst zerstob der Nachtrab.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Убил Индра потомство Варашикхи,  
 Стараясь для Абхьявартина, сына Чаяманы,  

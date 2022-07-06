@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ति मे स्तो꣡मम् अ꣡दितिर् जगृभ्यात्  
 सूनुं꣡ न꣡ माता꣡ हृ꣡दियं सुशे꣡वम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अह꣡म् मित्रे꣡ व꣡रुणे य꣡न् मयोभु꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 ब्रह्म॑ । प्रि॒यम् । दे॒वऽहि॑तम् । यत् । अस्ति॑ । अ॒हम् । मि॒त्रे । वरु॑णे । यत् । म॒यः॒ऽभुः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *prati*
 - \[adverb\]
@@ -139,20 +139,20 @@ genre M
 **मे** मदीयं **स्तोमं** स्तोत्रम् **अदितिः** देवता **प्रति** **जगृभ्यात्** प्रतिगृह्णातु । **सूनुं** **न** **माता** स्वतनुजं जननीव । सा यथा प्रतिगृह्यालिङ्ग्य परितुष्यति तद्वदित्यर्थः । कीदृशं तम् । **हृद्यं** हृदयंगमं **सुशेवं** शोभनसुखकरम् । एतद्व्दयं साधारणम् । किंच **ब्रह्म** मन्त्रजातं **प्रियं** प्रियकरं **देवहितं** देवैः प्राप्यं **यदस्ति** यद्ब्रह्म **मयोभु** सुखसाधनं तत् **अहं** **मित्रे** वरुणे च प्रापयामीति शेषः । यद्वा । मित्रे वरुणे च अहोरात्राभिमानिदेवयोर्यदुक्तलक्षणं ब्रह्म परिवृढं यज्ञादिरूपं कर्मास्ति तदहं धारयामीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Aditi** accept my affectionate and devoted praise, as a mother (the endearments of) a son; the plural asing, delightful prayer that is approved of by the gods I address to **Varuṇa** and **Mitra**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 May Aditi grab hold of my praise, like a mother the beloved son of  her heart.  
 The dear sacred formulation that has been established by the gods, that  is joy itself to Mitra and Varuṇa—may I (grab hold of it).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 This vs. is quite straightforward until we reach pāda d, where the nom. ahám ‘I’ demands a verb that isn’t there. Keeping in mind the theme of divine/human reciprocity that runs through the last hymn and the rest of this one and employing our usual method of attempting to supply missing material from context, it seems best to supply a form of práti √grabh complementary to práti … jagṛbhyāt in a with Aditi as subject. The poet wishes to grasp the bráhman- produced by the gods (c) in order to turn it into praise (stóma-) for the gods (a). This reciprocal relationship may be signaled by the first word in the vs. práti ‘in return, in response’.
 
@@ -161,23 +161,23 @@ The other question in d is what to do with the untethered locc. mitré varuṇé
 mitré váruṇe that seem to have similarly loose beneficial value.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Aditi welcome, even as a mother her dear heart-gladdening son, my song that lauds her.  
      The prayer they love, bliss-giving, God-appointed, I offer unto Varuna and Mitra.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Aditi soll meinen Lobgesang wie die Mutter ihren Herzenssohn, den Liebling aufnehmen; ich möchte das liebe Kraftwort, das gottverliehene, das für Mitra und Varuna erfreulich ist, empfangen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mein Loblied möge Aditi ergreifen, so wie den holden Herzenssohn die Mutter, Das labende, das liebe, gottbefohlne Gebet bring' ich dem Varuna und Mitra.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Адити примет мою хвалу,  
 Словно мать сына, взявшего за сердце, нежно любимого!  

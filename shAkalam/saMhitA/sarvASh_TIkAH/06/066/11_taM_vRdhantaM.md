@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तं꣡ वृध꣡न्तम् मा꣡रुतम् भ्रा꣡जदृष्टिं  
 रुद्र꣡स्य सूनुं꣡ हव꣡सा꣡ विवासे  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 गिर꣡यो न꣡ आ꣡प उग्रा꣡ अस्पृध्रन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 दि॒वः । शर्धा॑य । शुच॑यः । म॒नी॒षाः । गि॒रयः॑ । न । आपः॑ । उ॒ग्राः । अ॒स्पृ॒ध्र॒न् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
@@ -119,7 +119,7 @@ genre M
 **तं** प्रसिद्धं **वृधन्तं** वर्धमानं **भ्राजदृष्टिं** भ्राजमानऋष्टिं **रुद्रस्य** **सूनुं** पुत्रं **मारुतं** मरुद्गणं **हवसा** स्तोत्रेण **आ** **विवासे** परिचरामि । किंच **दिवः** स्तोतुः **शुचयः** निर्मला: **मनीषाः** स्तुतयः **उग्राः** उद्गूर्णा: **शर्धाय** मारुताय बलाय । **तृक्षः** शर्धः' इति बलनामसु पाठात् । **आपः** आप्नुवन्तः **गिरयो** **न** मेघा इव ।  ‘ गिरिः व्रजः' इति मेघनामसु पाठात् । **अस्पृधन्** अस्पर्धन्त ॥ ॥ ८ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,36 +136,36 @@ Divaḥ = stotuḥ, of the praiser or worshipper;
 **Giri** = **megha**, a cloud
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This Marut(-troop) grown strong, with flashing spears, the son(s) of  Rudra I seek to entice here with an invocation.  
 For (the favor of) the troop of heaven the gleaming inspired thoughts,  mighty like mountains or waters, have contended (with each other).
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Note the fairly common bhrā́jad-ṛṣti- in a immediately following the identically formed hapax bhrā́jaj-janman- in 10d.
 
 The final pāda has attracted more concerned comment than I think it deserves; see esp. the great fuss Oldenberg makes about it. The issue is what to do with the simile containing two nominatives giráyo nā́paḥ (= ná ā́paḥ), lit. “like mountains, waters.” The consensus seems to be that the two noms. convey a single image, with a more complex structure underlying it: namely the waters (of) the mountains, mountain water, Bergwasser. I don’t see why this is necessary; instead I think the thoughts are being compared both with moutains and with waters, which are both ugrá- in different ways. (Oldenberg allows this possibility.) Note that the adjectives qualifying the inspired thoughts, śúci- and ugrá-, were used of the Maruts earlier in the hymn, in 4c and 5c, 6a respectively.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 That swelling band I call with invocation, the brood of Rudra, armed with glittering lances.  
      Pure hymns are meet for that celestial army: like floods and mountains have the Strong Ones battled.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Diese erstarkende Marutschar mit schimmernden Speeren, des Rudra Söhneschar bitte ich mit Anruf her. Um des Himmels Heerschar haben die lauteren Dichterworte wie die gewaltigen Bergwasser einen Wettlauf unternommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Marutschar, mit Lanzen funkelnd, wachsend, des Rudra Volk lock' ich herbei durch Anruf; Der Schar des Himmels streben zu die reinen Gesänge, wie von Bergen mächt'ge Wasser.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Эту усиливающуюся (толпу) марутову сияющими копьями,  
 (Толпу) сыновей Рудры я хочу привлечь к себе призывом.  

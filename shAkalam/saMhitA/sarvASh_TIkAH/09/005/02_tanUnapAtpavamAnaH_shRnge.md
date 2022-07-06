@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त꣡नून꣡पात् प꣡वमानः  
 शृ꣡ङ्गे शि꣡शानो अर्षति  
 अन्त꣡रिक्षेण रा꣡रजत्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 अ॒न्तरि॑क्षेण । रार॑जत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], nominative, singular, masculine
@@ -66,7 +66,7 @@ genre M
 **तनूनपात्** **पवमानः** सोमः । तनूनपादत्र सोमो भवति । तथा च श्रूयते-’ अद्भ्योंऽशवो जायन्ते ततः सोमो जायते' इति । **शृङ्गे** दीप्ते उन्नतप्रदेशे। ‘ हृणिः शृङ्गाणि ' इति ज्वलन्नामसु पाठात् । **शिशानः** तीक्ष्णीकुर्वन् **अन्तरिक्षेण** **रारजत्** **अर्षति** । द्रोणकलशं प्रति गच्छति । तथा चाम्नायते-- द्वाभ्यां धाराभ्यामाग्रयणं गृह्णाति' इति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -77,28 +77,28 @@ genre M
 Tanūnapāt = a name of **Soma**, abhyo amśavo jāyante **tataḥ** somo jāyate, from the waters are born beams, from these is born Soma; hastens through the sky: that is, to the droṇakalaśa, according to the text, 'he takes **āgrayaṇa** libation with two streams'
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 As Tanūnapāt, the self-purifying one, sharpening his horns, rushes through the midspace, ever-shining.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He, Pavamana, Self-produced, speeds onward sharpening his horns:  
      He glitters through the firmament.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Als Tanunapat sich läuternd, die Hörner wetzend, fließt er prangend durch die Luft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Sohn seiner selbst, der rieselnde, die Hörner wetzend fliesst er hin hellleuchtend durch die weite Luft.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Танунапат  
 -Павамана  

@@ -6,13 +6,13 @@ ChandaH = "द्विपदा विराट्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ऋत꣡स्य देवा꣡ अ꣡नु व्रता꣡ गुर्  
 भु꣡वत् प꣡रिष्टिर् दियउ꣡र् न꣡ भू꣡म
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -27,7 +27,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 ऋ॒तस्य॑ । दे॒वाः । अनु॑ । व्र॒ता । गुः॒ । भुव॑त् । परि॑ष्टिः । द्यौः । न । भूम॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
@@ -81,7 +81,7 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -92,13 +92,13 @@ Sayana bhashya empty
 So nileyata, so āpaḥ praviṣat, tam **devaḥ** praiṣam aicchan; tam **matsyāḥ** prabravit: he, concealing himself, entered into the waters; the gods wished for a messenger to him; a fish discovered him. A fish revealed to the gods where **Agni** had hidden (**Taittiriya**)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The gods followed the commandments of truth.  
 Like heaven (enclosing) the earth was his enclosing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The second half of this verse is very economically and ingeniously expressed.
 
@@ -119,28 +119,28 @@ These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like grateful food, like some wide dwelling place, like a fruit-bearing hill, a wholesome stream.  
      Like a steed urged to run in swift career, rushing like Sindhu, who may check his course?
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 The gods followed the laws of Rita. There was an encompassing as the heaven (encompasses) the earth 1.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Götter befolgten die Gebote der Wahrheit. Man hielt ihn eingeschlossen wie der Himmel die Erde umschließt
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Götter folgten – des Opfers Werken, umgeben rings es – wie Erd' der Himmel; Die Wasser nähren – mit Lob das Kindlein, das schöngeborne – im Schooss des Opfers.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

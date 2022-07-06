@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ नो गन्तं रिशादसा  
 इमं꣡ स्तो꣡मम् पुरुभुजा  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 इमा꣡ दातम् अभि꣡ष्टये
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 कृ॒तम् । नः॒ । सु॒ऽश्रियः॑ । न॒रा॒ । इ॒मा । दा॒त॒म् । अ॒भिष्ट॑ये ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -121,36 +121,36 @@ genre M
 हे **रिशादसा** रिशतां हिंसतां निरसितारौ यद्वा रिशानां हिंसकानामत्तारौ भक्षयितारौ हे **पुरुभुजा** बहुलस्य हविषो भोक्तारौ बहूनां पालकौ वा हे अश्विनौ **नः** अस्माकम् **इमं** **स्तोमं** स्तोत्रम् **आ** **गन्तम्** अभिगच्छतम् । आगत्य च हे **नरा** नेतारौ **नः** अस्मान् **सुश्रियः** सुश्रीकान् शोभनया संपदा युक्तान् **कृतं** कुरुतम् । तदर्थम् **इमा** इमानि पुरो वर्तमानानि पार्थिवानि **अभिष्टये** अभिप्राप्तये **दातं** दत्तम् । ददातेर्लोटि छान्दसः शपो लुक् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Confounders of the malignant, partakers of many (oblations), come to this our adoration; render usprosperous leaders (of rites); give these (good things of earth) to our desires.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Come here to this praise song of ours, o you who care for the stranger  and provide many benefits.  
 Make us very splendid, you superior men. Grant these things for us to  prevail.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Come to us, ye who slay the foe, Lords of rich treasure, to this hymn.  
      O Heroes, give us high renown and these good things of earth for help.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Kommet her, ihr Herrenstolze, zu diesem unserem Loblied, ihr vielen Nützende! Ihr Herren, machet uns glückgesegnet, gebt uns diese Schätze, damit wir den Vorrang haben!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Kommt her zu diesem unsern Lob, o Feindvertilger, reich an Lust, Macht reich an Glanz, o Männer, uns, gewährt uns alles dies zum Heil.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Приезжайте к нам, о заботящиеся о чужом (?),  
 На это восхваление, о несущие много радости!  

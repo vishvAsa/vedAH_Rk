@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 य꣡द् अद्य꣡ क꣡च् च वृत्रहन्न्  
 उद꣡गा अभि꣡ सूरिय  
 स꣡र्वं त꣡द् इन्द्र ते व꣡शे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सर्व॑म् । तत् । इ॒न्द्र॒ । ते॒ । वशे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
@@ -101,19 +101,19 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **वृत्रहन्** वृत्रस्यापामावरकस्य मेघस्य हन्तः हे **सूर्य** सूर्यात्मक **इन्द्र** **अद्य** अस्मिन् दिने **यत्** **कच्च** यत्किंचित्पदार्थजातम् **अभि** अभिमुखीकृत्य **उदगाः** ।  ‘ इण् गतौ । उत्पूर्वः । तस्य लुङि गादेशः। स्वतेजसोद्गतः प्रादुर्भूतोऽसि तदा **तत्** **सर्वं** स्थावरजङ्गमात्मकं जगत् **ते** तव **वशे** भवति । त्वदधीनं भवति । उदिते सूर्ये त्वदर्थं प्राक्कर्म कुर्वन्ति जुह्वति च ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Whatsoever, O Sun, slayr of **Vṛtra**, you have risen upon today-- it is all, **Indra**, under your power.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Vr̥tra-smiter—whatever today you have risen over, o Sun, all that is under your will, Indra.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The two vocatives addressed to Indra, vṛtrahan (a) and indra (c), flank that to the sun (sūrya, b), with the first embedded in a 2nd ps. clause with Sūrya as subject.
 
@@ -135,23 +135,23 @@ But sárvāṃs tā́n indra … semi-duplicates 4c sárvaṃ tád indra …, an
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Whatever, Vrtra-slayer! thou, Surya, hast risen upon to-day,  
      Tbat, Indra, all is in thy power.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Worüber auch immer du heute aufgegangen bist, du Vritratöter, du Surya, das alles ist in deiner Gewalt, Indra.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wohin du feindetödtend heut, o Sonne, aufgegangen bist, Das, Indra, ist in deiner Macht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

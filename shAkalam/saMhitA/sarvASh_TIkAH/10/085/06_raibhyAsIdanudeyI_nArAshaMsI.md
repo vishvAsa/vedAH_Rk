@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 रइ꣡भी आसीद् अनुदे꣡यी  
 नाराशंसी꣡ निओ꣡चनी  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 गा꣡थयैति प꣡रिष्कृतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (380)
 सू॒र्यायाः॑ । भ॒द्रम् । इत् । वासः॑ । गाथ॑या । ए॒ति॒ । परि॑ऽकृतम् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *raibhy* ← *raibhī*
 - \[noun\], nominative, singular, feminine
@@ -88,7 +88,7 @@ popular;; epic anuṣṭubh (380)
 आभिः सूर्या स्वविवाहमस्तौदित्युक्तम् । सूर्या सावित्री ब्रूते । **रैभी**। रैभ्यः काश्चनर्चः । ‘रैभीः शंसति रेभन्तो वै देवाश्चर्षयश्च स्वर्गं लोकमायन्' (ऐ. ब्रा. ६. ३२) इत्यादिब्राह्मणविहिता रैभ्यः । सा रैभी **अनुदेयी** **आसीत्** । दीयमानवधूविनोदनायानुदीयमाना वयस्यासीत् । तथा **नाराशंसी**। प्राता रत्नम् ' (ऋ. सं. १. १२५. १ ) इत्यादिका मनुष्याणां स्तुतयो नाराशंस्यः । सा नाराशंसी **न्योचनी** । उचतिः सेवाकर्मा । सा वधूशुश्रूषार्थं दीयमाना दास्यभवत् । **सूर्यायाः** मम **भद्रं** **वासः** विचित्रं दुकूलादिकमाच्छादनयोग्यं वस्त्रं **गाथया** **परिष्कृतम्** अलंकृतम् **एति** । 'गाथा गीयते' इत्यादिब्राह्मणोक्ता गाथा । तया गाथया यत्परिष्कृतमस्ति तद्वासोऽभवदिति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -99,29 +99,29 @@ popular;; epic anuṣṭubh (380)
 Raibhi, Nārāśaṃsī and **Gāthā** are person nifications of son and praise. Raibhi from rebh, to sound:**Aitareya** **Brāhmaṇa** 6.32
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Raibhī was (the female attendant) to be given along (with the bride),  Nārāśaṃsī the in-dweller.  
 Sūryā’s auspicious garment goes adorned with a song.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Raibhi was her dear bridal friend, and Narasamsi led her home.  
      Lovely was Surya's robe: she came to that which Gatha had adorned.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Raibhi war die Amme, die Narasamsi die Gespielin. Das gute Kleid der Surya ist mit der Gatha ausgeputzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Raibhī-strophe war ihre Mitgift, die Nārāçansī-strophe ihr Schmuck; schön fürwahr war das Kleid der Suriā; sie erlangte das mit Gesang ausgeschmückte.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 (Песня) райбхи была дающей приданное.  
 (Песня) нарашанси – подружкой.  

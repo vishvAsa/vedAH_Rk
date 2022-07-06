@@ -6,7 +6,7 @@ ChandaH = "पङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स्वा꣡हाकृतस्य तृम्पतं  
 सुत꣡स्य देवाव् अ꣡न्धसः  
@@ -15,7 +15,7 @@ ChandaH = "पङ्क्तिः"
 धत्तं꣡ र꣡त्नानि दाशु꣡षे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -34,7 +34,7 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 आ । या॒त॒म् । अ॒श्वि॒ना॒ । आ । ग॒त॒म् । अ॒व॒स्युः । वा॒म् । अ॒हम् । हु॒वे॒ । ध॒त्तम् । रत्ना॑नि । दा॒शुषे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *svāhākṛtasya* ← *svāhākṛta*
 - \[noun\], genitive, singular, neuter
@@ -113,36 +113,36 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 हे अश्विनौ **देवौ** युवां **सुतस्य** अभिषुतस्य **स्वाहाकृतस्य** हुतस्य **अन्धसः** सोमस्य **तृम्पतं** तृप्यतम् । सिद्धमन्यत् ॥ ॥ १७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Divine (**Aśvins**), partake to satiety of the sacrificial **Soma**, consecrated with the exclamation **svāhā**;come, Aśvins, come (here); desirous of protection, I invoke you; give precious riches to the donor of the offering.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Satiate yourselves on the pressed plant prepared with the svāhā-call,  o gods.  
 – Drive here, o Aśvins; come here. Seeking help, I call to you: provide  riches for the pious man.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Sate you with consecrated drink, with juice effused, ye Deities.  
      Approach, ye Asvins, come to us: I call you, eager for your aid. Grant treasures to the worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Tut euch gütlich, ihr Götter, an dem mit Svaha besegneten ausgepreßten Trank! Fahret hierher, Asvin, kommet her! Um euren Beistand bittend rufe ich euch, bringet dem Opfernden Kleinode!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Erquickt euch am geweihten Trank, o Götter, am gepressten Kraut, Fahrt her o Ritter, kommt herbei, euch ruf' ich hülfsbegierig an, gebt Schätze dem verehrenden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 У возглашающего: Свага! насыщайтесь,  
 О два бога, выжатым соком сомы!  

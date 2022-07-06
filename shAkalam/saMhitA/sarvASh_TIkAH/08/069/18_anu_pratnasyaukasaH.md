@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अ꣡नु प्रत्न꣡स्य ओ꣡कसः  
 प्रिय꣡मेधास एषा᳐म्  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 हित꣡प्रयस आशत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 पूर्वा॑म् । अनु॑ । प्रऽय॑तिम् । वृ॒क्तऽब॑र्हिषः । हि॒तऽप्र॑यसः । आ॒श॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *anu*
 - \[adverb\]
@@ -94,7 +94,7 @@ genre M
 अनया स्तुतिमुपसंहरति । **एषां** देवानामिन्द्रादीनां **प्रत्नस्य** पुराणस्य **ओकसः** स्थानस्य पुराणं स्थानं **प्रियमेधासः** प्रियमेधाः **अनु** **आशत** अनुप्राप्ताः । कीदृशाः प्रियमेधाः । **पूर्वां** मुख्यं **प्रयतिं** प्रदानम् **अनु** लक्षीकृत्य **वृक्तबर्हिषः** स्तीर्णदर्भाः **हितप्रयसः** आसादितसोमादिहविष्काः ॥ ॥ ७ ॥ ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -107,13 +107,13 @@ Offering: pūrvām anu prayatim:**pūrva** = **mukhya**, principal;
 Anu = lakṣīkṛtya; after the manner of former offerings
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Following the (custom) of their ancient house, the Priyamedhas  
 with twisted ritual grass, with their pleasing offering set in place, have  equaled their previous presentation.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">
 <details open><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -121,23 +121,23 @@ Note the responsion of 17b … āsate# and 18d … āśata#.</details>
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Priyamedhas have observed the offering of the men of old,  
      Of ancient custom, while they strewed the sacred grass, and spread their sacrificial food.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Nach ihrer alten Gewohnheit haben die Priyamedha´s, die das Barhis herumgelegt und das Opfermahl hergerichtet haben, die frühere Schenkung wieder erreicht.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Prijamedha's reichten heran an die frühen Darbringung jener aus dem alten Heimatssitze entsprungenen (Vorfahren), Streu bereitend und Opfer bringend.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

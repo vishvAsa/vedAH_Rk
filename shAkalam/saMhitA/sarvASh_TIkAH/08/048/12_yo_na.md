@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यो꣡ न इ꣡न्दुः पितरो हृत्सु꣡ पीतो꣡  
 अ꣡मर्तियो म꣡र्तियाँ आविवे꣡श  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 मॄळीके꣡+ अस्य सुमतउ꣡ सियाम
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for non-linguistic reasons
@@ -32,7 +32,7 @@ genre D
 तस्मै॑ । सोमा॑य । ह॒विषा॑ । वि॒धे॒म॒ । मृ॒ळी॒के । अ॒स्य॒ । सु॒ऽम॒तौ । स्या॒म॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
@@ -115,41 +115,41 @@ genre D
 हे **पितरः** **यः** इन्दुः **हृत्सु** **पीतः** सन् **अमर्त्यः** मृतिरहितः सन् **आविवेश** **मर्त्यान्** **नः** अस्मान् **तस्मै** **सोमाय** **हविषा** **विधेम** परिचरेम । **अस्य** सोमस्य **मृळीके** सुखे **सुमतौ** चानुग्रहबुद्धौ च **स्याम** भवेम ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “That **Soma** which, drunk into our hearts, has entered, immortal, into us mortals-- to him, fathers, let usdo worship with oblations; may we abide in his bliss and favour.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O forefathers, the drop that, once drunk, entered into our hearts, the  immortal into the mortals,  
 to this Soma we would do ceremonial honor with an oblation. May we  be in his mercy and good grace.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 यो न॒ इन्दुः॑ पितरो हृ॒त्सु पी॒तोऽम॑र्त्यो॒ मर्त्याँ॑ आवि॒वेश॑ ।  
 तस्मै॒ सोमा॑य ह॒विषा॑ विधेम मृळी॒के अ॑स्य सुम॒तौ स्या॑म ॥
 </details>
 
-<details><summary>+Macdonell</summary>
+<details><summary>Macdonell</summary>
 
 The drop drunk deeply in our hearts, O Fathers, Us mortals that immortal god has entered. That Soma we would worship with oblation; We would be in his mercy and good graces.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ihr Väter, dem Safte, der getrunken in unsere Herzen eingegangen ist, der Unsterbliche in uns Sterbliche, diesen Soma wollen wir mit Opfern aufwarten. In seiner Gnade und Gunst möchten wir sein.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Indu, Väter, den wir in uns schlürften ging jetzt hinein in Sterbliche unsterblich, Dem Soma möchten wir mit Opfer dienen, in seiner Huld und seiner Gnade bleiben.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 О отцы, (тот) сок сомы, который выпит сердцем,  
 Бессмертный вошел в смертных.  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 सो꣡मो अर्षति धर्णसि꣡र्  
 द꣡धान इन्द्रियं꣡ र꣡सम्  
 सुवी꣡रो अभिशस्तिपाः꣡
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 सु॒ऽवीरः॑ । अ॒भि॒श॒स्ति॒ऽपाः ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
@@ -84,35 +84,35 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सोमः** **अर्षति** गच्छति । कीदृशः सः। **धर्णसिः** धारको जगतां तथा **इन्द्रियम्** इन्द्रियवर्धकं **रसं** **दधानः** धारयन् **सुवीरः** सुवीर्यः **अभिशस्तिपाः** अभिशस्तेः पाता। अभितो हिंसा ततो रक्षक इत्यर्थः। सोमपानं ब्रह्महत्यादिनिन्दामनुमार्ष्टीति प्रसिद्धम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The **Soma** flows, the sustainer (of the world), bearing a sense-invigorating essence-- heroic-- a protector against calumny.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 The soma rushes steadily, acquiring Indrian strength as its essence, affording good heroes, protecting against imprecations.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Soma gows on intelligent, possessing sap and mighty strength,  
      Brave Hero who repels the curse.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma rinnt ausdauernd, den indrischen Saft enthaltend, der Meister, der vor übler Nachrede schützt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Soma strömet kraftbegabt, ergiessend Saft, den Indra liebt, Vor Fluch bewahrend, heldenreich.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Течет крепкий сома,  
 Несущий сок для Индры,  

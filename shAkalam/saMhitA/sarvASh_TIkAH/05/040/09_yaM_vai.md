@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 यं꣡ वइ꣡ सू꣡र्यं सु꣡वर्भानुस्  
 त꣡मसा꣡विध्यद् आसुरः꣡  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 नहि꣡ अन्ये꣡ अ꣡शक्नुवन्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (424)
 अत्र॑यः । तम् । अनु॑ । अ॒वि॒न्द॒न् । न॒हि । अ॒न्ये । अश॑क्नुवन् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
@@ -101,37 +101,37 @@ popular;; epic anuṣṭubh (424)
 अत्रिकृतं सामर्थ्यमनुवदति **यं** **वै** **सूर्यम्** इति । निगदव्याख्यैषा । **अत्रयस्तं** सूर्यम् **अन्वविन्दन्** इन्द्रार्थं सोमयागदेवतास्तुतिनमस्कारैरनुक्रमेणेषदीषत् तमोऽवरुध्य लब्धवन्त इत्यर्थः । **अन्ये** **नहि** **अशक्नुवन्** न लब्धवन्तः खलु ॥ ॥ १२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “The sun, whom the **Asura**, **Svarbhānu**, had enveloped with darkness, the sons of **Atri** subsequently recovered; no others were able (to effect his release).”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Which sun Svarbhānu Āsura pierced with darkness,  
 that one the Atris found, for no others were able.  
 The following series of hymns to the All Gods / All the Gods (V.41–51) contains  some of the most complex and difficult poetry in the R̥gveda (along with some rest fully more straightforward hymns), including the hymn that Geldner called “the  hardest hymn in the R̥gveda” (“das schwierigste Lied des R̥V”), V.44. Although the  placement of this series within the Saṃhitā was dictated by the strict and mechani cal rules of numerical arrangement discussed before (see Intro. pp. 10–11), it is  sometimes difficult for us not to view this set of hymns as a type of omphalos in  the larger structure of the R̥gveda. They are found in more or less the middle of  Maṇḍala V (which has 87 hymns), which is more or less the middle maṇḍala of  the Family Books (II–VII—keeping in mind that, though V is preceded by three  maṇḍalas and followed by two, the preceding maṇḍalas are shorter: II–IV contain  163 hymns, VI–VII 179, remarkably close to equivalence). Just as the omphalos  verse in a hymn contains the enigma, the mysterious message of the hymn, so we  could view these All God hymns as the mystical center of the older R̥gveda.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The Atris found the Sun again, him whom Svarbhanu of the brood  
      Of Asuras had pierced with gloom. This none besides had power to do.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die Sonne nämlich, die der asurische Svarbhanu mit Finsternis geschlagen hatte, die fanden die Atri´s wieder, denn andere waren dazu nicht imstande.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Sonne, die der dämonische Suarbhanu mit Finsterniss schlug, fanden die Atri's wieder auf; denn andere konnten es nicht.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Тот самый Сурья, которого Сварбхану  
 Из Асуров повредил мраком, –  

@@ -6,7 +6,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 तुवां꣡ यज्ञे꣡भिर् उक्थइ꣡र्  
 उ꣡प हव्ये꣡भिर् ईमहे  
@@ -16,7 +16,7 @@ ChandaH = "आस्तारपङ्क्तिः"
 वि꣡वक्षसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -36,7 +36,7 @@ genre M;; repeated line
 शची॑ऽपते । श॒ची॒ना॒म् । वि । वः॒ । मदे॑ । श्रेष्ठ॑म् । नः॒ । धे॒हि॒ । वार्य॑म् । विव॑क्षसे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
@@ -111,36 +111,36 @@ genre M;; repeated line
 हे इन्द्र वयं **यज्ञेभिः** यज्ञैः सोमयागादिभिः **उक्थैः** शस्त्रलक्षणैः स्तोत्रैः **हव्येभिः** हव्यैः पुरोडाशादिभिश्च । उपेत्युपसर्गश्रुतेर्योग्यपदाध्याहारः । **त्वाम्** उपेत्य **ईमहे** अभिलषितं धनं याचामहे । अतो हे **शचीपते** कर्मणां पालयितः त्वं कैषांचित्कर्मणां पालको न भवसीति न किंतु **शचीनां** सर्वेषां कर्मणां पालको भवसीत्यर्थः । एवं याचितस्त्वं **नः** अस्मभ्यं वा वरणीयं **श्रेष्ठं** प्रशस्ततमं पश्वादिधनं **धेहि** देहि । शिष्टं स्पष्टम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “We solicit you with sacrifices, with prayers, with oblations; lord of all pious acts, grant us in yourexhilaration, excellent and desirable (affluence); you are mighty.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 We beseech you with sacrifices, recitations, and oblations:  
 o power-lord of power, set in place for us the best that can be chosen. – In my exhilaration I wish to acclaim you (gods).
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 To thee with sacrifices, with oblations, and with lauds we come.  
      Lord of all strength and power, grant-at your glad carouse-the best choiceworthy treasure. Thou art waxing great.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dir nahen wir mit Opfergebeten, mit Lobgedichten, mit Spenden. Du Herr der Kräfte, bring uns die beste Wunschgabe - in der Begeisterung will ich es euch verkünden.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dich gehen wir mit Opfern an, mit Sprüchen und mit Opferguss; O du der Kräfte starker Herr, verleihe uns das beste Gut.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Мы приближаемся к тебе с жертвами,  
 Хвалами, возлияниями.  

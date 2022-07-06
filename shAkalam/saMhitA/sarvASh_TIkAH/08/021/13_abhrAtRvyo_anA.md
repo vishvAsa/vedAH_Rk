@@ -6,14 +6,14 @@ ChandaH = "ककुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अभ्रातृव्यो꣡ अना꣡ तुव꣡म्  
 अ꣡नापिर् इन्द्र जनु꣡षा सना꣡द् असि  
 युधे꣡द् आपित्व꣡म् इछसे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 यु॒धा । इत् । आ॒पि॒ऽत्वम् । इ॒च्छ॒से॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *abhrātṛvyo* ← *a*
 - \[adverb\]
@@ -100,7 +100,7 @@ genre M
 हे **इन्द्र** **त्वं** **जनुषा** जन्मनैव **अभ्रातृव्यः** । व्यन् सपत्ने ' ( पा. सू. ४. १. १४५) इति व्यन्प्रत्ययः । **अना** अनेतृकः । ‘ ऋतश्छन्दसि ' इति कपः प्रतिषेधः । अनियन्तृक इत्यर्थः । **अनापिः** बन्धुवर्जितश्च **सनादसि** चिरादेव भ्रातृव्यादिवर्जितोऽसि । यच्च त्वया **आपित्वं** बान्धवम् **इच्छसे** इच्छसि तत्र **युधेत्** युद्धेनैव युद्धं कुर्वन्नेव स्तोतॄणां सखा भवसीति ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,34 +111,34 @@ genre M
 "You, Indra, by your birth are from eternity without a foe, without a controller,without a kinsman; you desire to show your kinsmanship only by war, i.e. it is only by fighting that you are thefriend of your worshippers"
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 You are without rival, but by the same token, without friend, Indra, by  birth and from of old.  
 Only in battle do you seek friendship.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The use of bhrā́tṛvya-, lit. ‘nephew, cousin’, as ‘rival’ is exceedingly common in Vedic prose, but only really begins in the AV; this is the only such example in the RV. The passage here seems to be an expansion, with lexical renewal, of I.102.8 aśatrúr indra janúṣā sanād asi “You are without rival, Indra, by birth from of old,” but I would also suggest that the use of an explicit kinship term a-bhrātṛvyá (as opposed to the generic a-śatrú-) is deliberate, given the web of relationships the poet develops in this hymn (see published introduction.) It is possible that -bhrātṛvya- here is meant to be taken in both the negative sense that is standard later (rival ← rivalrous nephew/cousin) and in a positive one, simply naming a blood relation. Thus the hemistich could mean both “you have no nephew and no friend” and “you have no rival but no friend”). As a kinship term abhrātṛvyá- would contrast with the bándhumant- of 4a, where Indra is explicitly credited with having kin.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 O Indra, from all ancient time rivalless ever and companionless art thou:  
      Thou seekest comradeship in war.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 So bist du ohne Nebenbuhler, bist schon bei deiner Geburt seit alters ohne Freund, Indra. Nur durch Kampf suchst du Freundschaft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn du bist ja von Hause aus, ganz ohne Vettern, Indra, und Verwandtschaft auch, Durch Kampf begehrst Verwandte du.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Итак ты без соперников,  
 (Но и) без друзей, О Индра, от рождения издревле живешь.  

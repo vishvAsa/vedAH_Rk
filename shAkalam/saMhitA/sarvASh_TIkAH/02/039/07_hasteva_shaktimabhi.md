@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 ह꣡स्तेव शक्ति꣡म् अभि꣡ संददी꣡ नः  
 क्षा꣡मेव नः स꣡म् अजतं र꣡जांसि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 क्ष्णो꣡त्रेणेव स्व꣡धितिं सं꣡ शिशीतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 इ॒माः । गिरः॑ । अ॒श्वि॒ना॒ । यु॒ष्म॒ऽयन्तीः॑ । क्ष्णोत्रे॑णऽइव । स्वऽधि॑तिम् । सम् । शि॒शी॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *hasteva* ← *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
@@ -125,7 +125,7 @@ genre D
 हेअश्विनौ हस्तेव हस्ताविव शक्तिंसमर्थ्यन्नोस्माकं अभिसन्ददी आभिमुख्येनसम्यक् प्रयच्छन्तौ भवतं किञ्च क्षामइव रोदसीइव रजांसिस्थानानिउदकानिवा उदकंरजउच्यतइतियास्कः । नो- स्माकंसमजतं प्रेरयतं अपिच अश्विना हेअश्विनौ इमागिरः अस्माभिःकृताःस्तुतोः युष्मयन्तीः युवामिच्छन्तीः स्वधितिमसिं क्ष्णोत्रेणेव तेजनशाणवत् संशिशीतं सम्यक् तीक्ष्णीकुरुतम् ॥ ७ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -136,29 +136,29 @@ genre D
 Kṣṇotreṇa iva svadhitim = asim tejanaśāṇavat tīkṣṇī kurutam, sharpen like a sword or knife upon a whetstone
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Like hands (clasping a spear), clasping power for us, herd together spaces  for us as heaven and earth (herd together the airy spaces).  
 Sharpen these songs that are seeking you, Aśvins, like an axe with a  whetstone.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Like two hands give ye us increasing vigour; like heaven and earth constrain the airy regions.  
      Asvins, these hymns that struggle to approach you, sharpen ye like an axe upon a whetstone.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wie zwei Hände für uns eure Kraft vereinigend, treibt uns Reichtümer auf wie Erde und Himmel den Staub. Diese Lobreden, die euch gelten, o Asvin, macht schneidig wie ein Beil mit dem Schleifstein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Wie zwei Hände, die den Speer umfassen, seid uns, wie Himmel und Erde [ki^ämeva gegen Fada in ksdmä-iva zu zerlegen, also ksämä Dual von kmm] führt uns die Lufträume zu- sammen, und "diese Lieder, die nach euch, o Ritter, streben, die schärfet wie das Beil am Schleifstein.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Как две руки, объединяющие для нас силу,  
 Как земля и небо, сгоните для нас пространства!  

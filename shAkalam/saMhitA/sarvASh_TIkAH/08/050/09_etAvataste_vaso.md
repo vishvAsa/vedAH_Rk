@@ -6,7 +6,7 @@ ChandaH = "बृहती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 एता꣡वतस् ते वसो  
 विद्या꣡म शूर न꣡व्यसः  
@@ -14,7 +14,7 @@ ChandaH = "बृहती"
 य꣡था व꣡शं द꣡शव्रजे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M;; Vālakhilya
 यथा॑ । प्र॒ऽआवः॑ । एत॑शम् । कृत्व्ये॑ । धने॑ । यथा॑ । वश॑म् । दश॑ऽव्रजे ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *etāvatas* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, neuter
@@ -100,35 +100,35 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May we once more know you as such, O gracious hero, as when you did aid **Etaśa** in the decisivebattle, or **Vaśa** against Daśavraja.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Might we know such help of yours anew, o champion,  
 as when you helped Etaśa when the stake was to be decided, as (you  helped) Vaśa at Daśavraja’s.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Read, with Grassmann and Oldenberg, *ávaso (that is, te ‘vaso), which also repairs the meter. The corresponding verses are structured identically, with etā́vataḥ opening the first hemistich and its rhetorical partner yáthā opening the two pādas of the second hemistich. In each verse we seek the same thing for ourselves that Indra provided to two clients, named in the second hemistich. There is also some matching phraseology: etā́vatas te (a), yáthā prā́vo (c), yáthā (d), as well as dháne in 49d and 50c.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Wir möchten so großen Beistand von dir, du Guter, aufs neue erfahren, o Held, wie du dem Etasa beigestanden hast um den ausstehenden Preis, wie dem Vasa bei Dasavraja.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Als einen solchen zeige dich aufs Neue uns, o guter Held, Wie im Entscheidungskampf dem Etaça du halfst dem Vaça beim Daçavradscha.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Столь великую (милость) твою, о Васу,  
 Мы хотим, о герой, познать снова,  

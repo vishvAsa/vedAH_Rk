@@ -6,7 +6,7 @@ ChandaH = "अनुष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अक्षी꣡भ्यां ते ना꣡सिकाभ्यां  
 क꣡र्णाभ्यां छु꣡बुकाद् अ꣡धि  
@@ -14,7 +14,7 @@ ChandaH = "अनुष्टुप्"
 जिह्वा꣡या वि꣡ वृहामि ते
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular;; epic anuṣṭubh (292)
 यक्ष्म॑म् । शी॒र्ष॒ण्य॑म् । म॒स्तिष्का॑त् । जि॒ह्वायाः॑ । वि । वृ॒हा॒मि॒ । ते॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *akṣībhyāṃ* ← *akṣībhyām* ← *akṣi*
 - \[noun\], ablative, plural
@@ -92,37 +92,37 @@ popular;; epic anuṣṭubh (292)
 अधिरनर्थकः । अपि च **शीर्षण्यम्** । शिरसि भवो रोगः शीर्षण्यः । ' भवे छन्दसि ' इति यत् । ' ये च तद्धिते ' ( पा. सू. ६. १. ६१) इति शिरसः शीर्षन्नादेशः । ' ये चाभावकर्मणोः ' ( पा. सू. ६.४.१६८) इति प्रकृतिभावः ॥ ईदृशं **यक्ष्मं** रोगं **ते** तव **मस्तिष्कात्** । शिरसोऽन्तरवस्थितो मांसविशेषो मस्तिष्कः । तस्मात् **जिह्वायाः** रसनायाश्च सकाशाद्वि वृहामि उद्धारयामि । पृथक्करोमीत्यर्थः । ' वृहू उद्यमने ' इति धातुः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “I banish from your eyes, from your nose, from your ears, from your chin, from your head, from yourbrain, from your tongue.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 From your eyes, your nostrils, your ears, your chin,  
 I tear the disease of the head out of you—from your brain, your  
 tongue.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 FROM both thy nostrils, from thine eyes, from both thine ears and from thy chin,  
      Forth from thy head and brain and tongue I drive thy malady away.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Von deinen Augen, von der Nase, von den Ohren, vom Kinn zieh ich die Auszehrung, die im Kopfe sitzt, vom Gehirn, von der Zunge dir ab.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Aus deinem Augen, den Nasenlöchern, den Ohren, aus dem Gehirne und der Zunge treibe ich fort dir die Krankheit des Kopfes.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Из глаз твоих, из ноздрей,  
 Из ушей, из подбородка,  

@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुरो꣡ अ꣡श्वस्य दुर꣡ इन्द्र गो꣡र् असि  
 दुरो꣡ य꣡वस्य व꣡सुन इन꣡स् प꣡तिः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 स꣡खा स꣡खिभ्यस् त꣡म् इदं꣡ गृणीमसि
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 शि॒क्षा॒ऽन॒रः । प्र॒ऽदिवः॑ । अका॑मऽकर्शनः । सखा॑ । सखि॑ऽभ्यः । तम् । इ॒दम् । गृ॒णी॒म॒सि॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *duro* ← *duraḥ* ← *dura*
 - \[noun\], nominative, singular, masculine
@@ -135,44 +135,44 @@ genre M
 हे **इन्द्र** त्वम् अश्वस्य **दुरः** दाता **असि**। तथा **गोः** पश्वादेः **दुरः** दातासि । तथा **यवस्य** यवादेर्धान्यजातस्य **दुरः** दाता असि । **वसुनः** निवासहेतोः धनस्य **इनः** स्वामी **पतिः** सर्वेषां पालयिता **शिक्षानरः** । शिक्षतिर्दानकर्मा (नि. ३. १०.८)। शिक्षाया दानस्य नेतासि । **प्रदिवः** पुराणः । प्रगता दिवो दिवसा यस्मिन् स तथोक्तः। **अकामकर्शनः** । कामान् कर्शयति नाशयतीति कामकर्शनः । न कामकर्शनोऽकामकर्शनः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । हविदत्तवतां यजमानानां कामानभिमतफलप्रदानेन पूरयतीत्यर्थः। 'सखिभ्यः समानख्यानेभ्य ऋत्विग्भ्यः **सखा** सखिवदत्यन्तं प्रियः एवंभूतो य इन्द्रः **तं** प्रति **इदं** स्तोत्रलक्षणं वचः **गृणीमसि** ब्रूमहे ॥ दुरः । ‘डुदाञ् दाने'।  ‘मन्दिवाशिमतिचसिचङ्ग्यङ्किभ्य उरच् ' (उ. सू. १. ३८) इति विधीयमान उरच्प्रत्ययो बहुलवचनादस्मादपि भवति । अत एव आकारलोपः । शिक्षानरः ।  ‘ शिक्ष विद्योपादाने '।' गुरोश्च हलः ' ( पा. सू. ३. ३. १०३) इति अकारप्रत्ययः । ततः टाप् । षष्ठीसमासः । **समासस्य'** इत्यन्तोदात्तत्वम् । गृणीमसि ।' गॄ शब्दे ' । क्रैयादिकः ।  ‘ प्वादीनां ह्रस्वः' इति ह्रस्वत्वम् । ' इदन्तो मसि ' इति मसेः इकारः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “You, **Indra**, are the giver of horses, of cattle, or barley, the master and protector of wealth, the foremost in liberality, (the being) of many days; you disappoint not desires (addressed to you); you are a friend to our friend; such an Indra we praise.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 O Indra, you are the one who breaks out the horse, breaks out the  cow, breaks out the grain, since you are the forceful lord of (every)  
 good thing.  
 He who from of old does his best for men, who does not short their  desires, a comrade to his comrades—to him we now sing.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The slightly slangy tone of the previous verse is continued here, in the repeated verb duráḥ ‘break out’ and the cpd. ákāmakarśana- ‘not shorting desires’, as well, perhaps, as śikṣānará- (for which see AiG II.1.316-17, which classifies it with cmpds of the type trasá-dasyu- with verbal 1st member governing the 2nd).
 
 There is surely more to be said about śikṣānará-; among other things, its accent doesn’t match the trasádasyu- type. But at least for now I will avoid the very contentious topic of such cmpds. śikṣānará- is also found in IV.20.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Giver of horses, Indra, giver, thou, of kine, giver of barley, thou art Lord and guard of wealth:  
      Man's helper from of old, not disappointing hope, Friend of our friends, to thee as such we sing this praise.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Du, Indra, schlägst Roß und Rind heraus, du schlägst Korn heraus als der mächtige Gebieter des Guts, für die Männer von jeher hilfsbereit; ihre Wünsche nicht zu kurz kommen lassend, ein Genosse den Genossen: den preisen wir jetzt.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Du, Indra, schenkest Rosse, schenkest Rinder auch, du schenkest Korn und bist des Gutes starker Herr, Beschenkst die Männer, schmälerst ihre Wünsche nie, ein Freund den Freunden, darum preisen wir ihn hier.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ты – тот, кто с бою берет (для нас) коня, с бою берет корову, о Индра,  
 С бою берет (для нас) ячмень, деятельный господин добра,  

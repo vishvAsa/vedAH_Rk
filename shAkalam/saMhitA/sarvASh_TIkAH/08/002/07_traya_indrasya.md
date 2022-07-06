@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 त्र꣡य इ꣡न्दरस्य+ सो꣡माः  
 सुता꣡सः सन्तु देव꣡स्य  
 सुवे꣡ क्ष꣡ये सुतपा꣡व्नः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 स्वे । क्षये॑ । सु॒त॒ऽपाव्नः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *traya* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
@@ -83,43 +83,43 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 **देवस्य** दानादिगुणयुक्तस्य **इन्द्रस्य** पानार्थं **त्रयः** सवनत्रयरूपेण त्रिधा वर्तमानाः **स्वे** **क्षये** स्वकीये यज्ञगृहे **सुतासः** अभिषुताः **सन्तु** भवन्तु । **सुतपाव्नः** । हेतुगर्भविशेषणमेतत् । यस्मादयमिन्द्रोऽभिषुतस्यैव सोमस्य पाता तस्मादभिषुताः सन्त्वित्यर्थः ॥ ।
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the three libations be effused for the divine **Indra** in his won dwelling, (for he is) the drinker of theeffused **Soma**.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the three somas be pressed for the god Indra,  
 for the soma-drinker in (our) own dwelling.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The three soma drinks might refer to the unsatisfactory types in vs. 5 or to the soma at the three pressings, but most likely to the three types mentioned in vs. 9 (the final verse of the tṛca of which this is the first). We might think of this as a species of “ritual repair”: the poor versions of soma in vs. 5 are adjusted slightly to produce the properly prepared ones in this tṛca.
 
 The referent of své in c is unclear. (Note in passing that if read as distracted suvé [with Holland & van Nooten Rig Veda edition], its first syllable matches sutā́saḥ of b and sutapā́vnaḥ. However, with Oldenberg I prefer to distract the final word to sutapā́vanaḥ; cf. somapā́van-, whose oblique forms require distraction although they are written with -vn-.) If we assume that své refers to the subject, then it must be soma’s dwelling, whatever that is (the ritual ground?). The only other personage mentioned in the verse is Indra, but it is unlikely to be his dwelling — pace Geldner, who construes sutapā́vnaḥ with the loc. phrase (“im eigenen Hause des Somatrinkers”). I take it as referring to the unexpressed agent of sutā́saḥ santu “let them be pressed,” namely us.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 For him, for Indra, for the God, be pressed three draughts of Soma juice  
      In the juice-drinker's own abode.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dreierlei Soma´s sollen dem Gott Indra gepreßt werden, im eigenen Hause des Somatrinkers!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dreifach sei gebraut dem Indra Somasaft dem Somatrinker, Ihm, dem Gott, im eignen Sitze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Три вида сомы для Индры –  
 Бога должны выжиматься  

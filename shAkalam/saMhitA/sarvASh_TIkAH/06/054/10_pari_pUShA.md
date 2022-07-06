@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प꣡रि पूषा꣡ पर꣡स्ता᳐द्  
 ध꣡स्तं दधातु द꣡क्षिणम्  
 पु꣡नर् नो नष्ट꣡म् आ꣡जतु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पुनः॑ । नः॒ । न॒ष्टम् । आ । अ॒ज॒तु॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pari*
 - \[adverb\]
@@ -81,42 +81,42 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **पूषा** पोषको देवः **परस्तात्** परस्मिन् देशे सुसंचारादन्यस्मिन् चोरव्याघ्रादिभिरुषिते देशे गच्छतो गोधनस्य निवारणाय स्वकीयं **दक्षिणं** **हस्तं** **परि** **दधातु** । परिधानं निवारकं करोतु ॥ **नः** अस्मदीयं **नष्टं** च गोधनं **पुनः** **आजतु** आगच्छतु । आगमयतु ॥ ॥ २० ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May **Pūṣan** put forth his right **hand** (to restrain our cattle) from going astray; may we bring again to us that which has been lost.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 (Even) from a distance let Pūṣan place his right hand around (us); let him drive our lost (livestock) back to us again.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The first two pādas are marked by alliteration: pári pūṣā́parástād, dhástaṃ dadhātu dákṣiṇam. The sandhi-induced dh of dhástam (for underlying hástam) is esp.
 
 nice.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 From out the distance, far and wide, may Pusan stretch his right hand forth,  
      And drive our lost again to us.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Pusan soll von der anderen Seite seine rechte Hand herumlegen; er soll das verlorene Vieh uns wieder zutreiben.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Auch ferner strecke Puschan vor zum Schutze seine rechte Hand, Verlornes treib' er uns zurück.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть Пушан с той стороны  
 Обнимет (нас) правою рукой!  

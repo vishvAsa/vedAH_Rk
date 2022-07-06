@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ वो यक्षि अमृतत्वं꣡ सुवी꣡रं  
 य꣡था वो देवा व꣡रिवः क꣡राणि  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 अ꣡थेमा꣡ वि꣡श्वाः पृ꣡तना जयाति
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 आ । बा॒ह्वोः । वज्र॑म् । इन्द्र॑स्य । धे॒या॒म् । अथ॑ । इ॒माः । विश्वाः॑ । पृत॑नाः । ज॒या॒ति॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -142,36 +142,36 @@ popular
 हे देवाः **वः** युष्मान् **आ** **यक्षि** आयाचे । किम्। **अमृतत्वम्** अविनाशित्वं **सुवीरं** सुपुत्रं च । हे **देवाः** **वः** युष्माकं **वरिवः** परिचर्यां हवीरूपं धनं वा **यथा** **कराणि** करवाणि तदर्थमित्यर्थः । किंच **इन्द्रस्य** **बाह्वोः** **वज्रम्** **आ** **धेयाम्** । ग्राहयामीत्यर्थः । अग्नेर्होतृत्वाभावे इन्द्रस्य सोमाद्यभावाद्दुर्बलत्वेन वज्रधारणं नोपपद्यते । अतस्तत्कृत्वा वज्रं ग्राहयामीत्यर्थः । **अथ** एवं सति **इमाः** **विश्वाः** सर्वाः **पृतनाः** शत्रुसेनाः **जयाति** जयति । जयतु वा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Gods, I solicit of you immortality and excellent **male** offspring, that I may offer you adoration. I causeIndra to take the thunderbolt in his **hands**, wherewith he may overcome all these hostile hosts.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 [Agni:] Through sacrifice I will win you immortality rich in heroes, so  that I can make wide space for you, o gods.  
 Might I place the mace in Indra’s arms. Then he will win all these battles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So will I win you strength and life for ever. O Gods, that I may give you room and freedom.  
      To Indra's arms would I consign the thunder; in all these battles shall he then be victor.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Ich will euch Unsterblichkeit, einen guten Helden erbitten, auf daß ich euch, ihr Götter, einen Ausweg aus Not schaffe. In Indra´s Arme will ich die Keule legen, dann soll er alle diese Kämpfe siegreich bestehen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 »Ich bring' euch opfernd kräft'ges ew'ges Leben, damit ich euch, o Götter, Freude schaffe; In Indra's Arme will den Blitz ich legen, dann wird er alle Schlachten hier gewinnen.«
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Я испрошу для вас жертвой бессмертие, прекрасного героя,  
 Чтобы для вас, о боги, я мог создать свободное пространство.  

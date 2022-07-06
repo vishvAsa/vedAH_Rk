@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 स꣡ वि꣡श्वा दाशु꣡षे व꣡सु  
 सो꣡मो दिव्या꣡नि पा꣡र्थिवा  
 प꣡वताम् आ꣡न्त꣡रिक्षिया
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 पव॑ताम् । आ । अ॒न्तरि॑क्ष्या ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
@@ -78,37 +78,37 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **सः** अभिषूयमाणः **सोमः** **दाशुषे** हविर्दात्रे **विश्वा** सर्वाणि **वसु** वसूनि धनानि **पवतां** प्रयच्छतु । विश्वानीयुक्तस्य विवरणं शिष्टम् । **दिव्यानि** दिवि भवानि **पार्थिवा** पृथिवीसंबद्धानि **अन्तरिक्ष्या** अन्तरिक्षे भवानि च पवताम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May that **Soma** bestow upon the donor (of the libation) all treasures, whether of heaven or earth or the firmament.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 All goods for the pious man—heavenly, earthly, and those of the  
 midspace—  
 let Soma bring in purifying himself.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 May Soma pour all treasures of the heavens, the earth, the firmament  
      Upon the liberal worshipper.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Soma soll in der Läuterung dem Opferspender alle Schätze herbringen, die himmlischen, die irdischen und die in der Luft.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er, Soma, riesle alles Gut, was auf der Erd', im Himmel ist Und in der Luft, dem Frommen zu.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

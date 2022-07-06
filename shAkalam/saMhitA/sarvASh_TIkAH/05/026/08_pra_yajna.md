@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 प्र꣡ यज्ञ꣡ एतु आनुष꣡ग्  
 अद्या꣡ देव꣡व्यचस्तमः  
 स्तृणीत꣡ बर्हि꣡र् आस꣡दे
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Normal
@@ -30,7 +30,7 @@ genre M
 स्तृ॒णी॒त । ब॒र्हिः । आ॒ऽसदे॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *pra*
 - \[adverb\]
@@ -79,41 +79,41 @@ genre M
 **अद्य** अस्मिन्नहनि **देवव्यचस्तमः** देवै: प्रकाशमानैः स्तोतृभिः व्याप्ततमः **यज्ञः** यज्ञसाधनं हविः **आनुषक्** अनुषक्तं यथा भवति तथा **प्र** **एतु** देवान् गच्छतु । हे ऋत्विजः **आसदे** अग्नेरासदनार्थ **बर्हिः** स्तृणीत ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the sacrifice most solemnly offered by the devout duly proceed today (to the gods); spread the sacred grass for their seat.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Let the sacrifice go forth in proper sequence today as that which best  encompasses the gods.  
 Strew the sacred grass (for the gods) to sit.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Duly proceed our sacrifice, comprising all the Gods, to-day:  
      Strew holy grass to be their seat.
 </details>
 
-<details><summary>+Oldenberg</summary>
+<details><summary>Oldenberg</summary>
 
 May the sacrifice which best encompasses the gods, proceed to-day in due order. Spread the sacrificial grass that (the gods) may sit down on it.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Das Opfer soll heute richtig vor sich gehen, das recht viele Götter umfaßt. Leget das Barhis zum Sitzen aus!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Das Opfer schreite heute vor vollauf das götterfassendste Zum sitzen streut das Polster hin.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Пусть жертвоприношение идет сегодня  
 По порядку, охватывая как можно больше богов!  

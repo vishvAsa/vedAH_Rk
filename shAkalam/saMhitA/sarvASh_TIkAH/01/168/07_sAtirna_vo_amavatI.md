@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 साति꣡र् न꣡ वो अ꣡मवती सु꣡वर्वती  
 त्वेषा꣡ वि꣡पाका मरुतः पि꣡पिष्वती  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 पृथुज्र꣡यी असुरि꣡येव ज꣡ञ्जती
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -32,7 +32,7 @@ genre M
 भ॒द्रा । वः॒ । रा॒तिः । पृ॒ण॒तः । न । दक्षि॑णा । पृ॒थु॒ऽज्रयी॑ । असु॒र्या॑ऽइव । जञ्ज॑ती ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *sātir* ← *sātiḥ* ← *sāti*
 - \[noun\], nominative, singular, feminine
@@ -114,7 +114,7 @@ genre M
 हे **मरुतः** वः युष्माकं संबन्धिनी **सातिर्न** संभक्तिरिव युष्मत्संभजनं यथा प्रशस्तगुणं तद्वत् **वः** **रातिः** वृष्टयादिविषया **अमवती** अमात्यवती इन्द्रादिसहायवती । यथा ‘राजेवामवान' (ऋ. सं. ४. ४. १ ) इत्यत्र अमशब्दोऽमात्यवचनस्तद्वत् । यद्वा । वः सातिः संविभक्तिः न अमवती रोगवती न भवति किंतु **स्वर्वती** सुखवती **त्वेषा** दीप्ता **विपाका** परिपक्कफला **पिपिष्वती** पेषणवती कृषीवलैः कर्षणवती । वृष्टौ सत्यां कर्षन्तीति प्रसिद्धम् । स्वविरोधिपेषणवती वा । **भद्रा** भन्दनीया स्तुत्या। किंच **पृणतः** दातुर्धनिकस्य **दक्षिणा** **न** दक्षिणेव तद्वत् समृद्धकरी **पृथुज्रयी** पृथुजवा शीघ्रगामिनी। किंच **असुर्येव** असुरस्य स्वभूता **जञ्जती** सर्वानभिभवन्ती शक्तिरिव । सा यथा अन्येभ्योऽपहृत्य अन्यस्मै दातुं समर्था तद्वदियमपि मेघस्थमुदकमपहृत्य जगतो दातुं शक्तेत्यर्थः । ईदृशी रातिः अस्मभ्यमस्त्विति भावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,13 +125,13 @@ genre M
 Like the all-subduing force: asuryeva jañjatī = asurasya sarvābhibhavantī **śakti**: as the asuras take from one to give to another, so the winds plural nder the clouds to enrich the earth
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Violent like your winning yet bringing sun(light), turbulent yet ripening  and swelling, o Maruts—  
 your gift [=rain] is welcome like the ritual gift-cow of a donor, and it is  of broad expanse and scintillating like lordly (Rodasī).
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 Geldner’s n. 7 summarizes the gist of this verse, that what the Maruts bring is both disruptive and welcome. Their gift is rain (vṛṣṭí-, which never surfaces but accounts for the fem. adjectives throughout the verse), but it is accompanied by the violence of the storm. The positive/negative pairings are found in the first hemistich; the second one is only positive and ends by indirectly comparing the gift to the Maruts’ own consort Rodasī.
 
@@ -144,23 +144,23 @@ Similarly the bahuvrīhi pṛthujráyī ‘possessing broad expanse’ brings to
 jáñjatī has only one relative, jañjanābhávant- in VIII.43.8, where it modifies Agni and must mean something like ‘flickering’. On its formation see Hoffmann (IF 60, 1952 = Aufs. p. 40). Here ‘scintillating’ captures the feminine quality better.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Your winning is with strength, dazzling, with heavenly light, with fruit mature, O Maruts, fall of plenteousness.  
      Auspicious is your gift like a free giver's meed, victorious, spreading far, as of immortal Gods.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Gewaltsam wie euer Gewinnen und doch sonnenbringend, heftig und doch die Früchte reifend, zerschmetternd, o ihr Marut, ist eure Gabe doch erfreulich wie die Belohnung von einem Spender, breitlaufend wie die Asurische, flammend.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der Beute ist, o Maruts, eure Gabe gleich, helleuchtend, kräftig, prächtig, reif und heilbegabt, Die strotzende, wie Opferlohn des schenkenden weithin verzweigt und hell wie eine Himmlische.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Грозный, словно захват добычи, (но) солнечный,  
 Бурный, (но) приносящий зрелые плоды, о Маруты, стирающий в порошок (врагов),  

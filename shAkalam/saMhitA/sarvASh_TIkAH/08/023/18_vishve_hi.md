@@ -6,14 +6,14 @@ ChandaH = "उष्णिक्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 वि꣡श्वे हि꣡ त्वा सजो꣡षसो  
 देवा꣡सो दूत꣡म् अ꣡क्रत  
 श्रुष्टी꣡ देव प्रथमो꣡ यज्ञि꣡यो भुवः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M
 श्रु॒ष्टी । दे॒व॒ । प्र॒थ॒मः । य॒ज्ञियः॑ । भु॒वः॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
@@ -100,7 +100,7 @@ genre M
 हे अग्ने **विश्वे** सर्वे **देवासः** देवाः **सजोषसः** संगताः सन्तः अस्माकं हवींष्यानयतीति विचार्य **त्वा**। हिरवधारणे । त्वामेव **दूतं** हविषां वोढारं दूतम् **अक्रत** अकार्षुः । ततः **देव** द्योतमान हे अग्ने **प्रथमः** देवानां मुख्यभूतस्त्वं **श्रुष्टी** । श्रुष्टीति क्षिप्रनाम । क्षिप्रं **यज्ञियः** देवानां हविर्दातृत्वेन यज्ञार्हः **भुवः** भूयाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -111,13 +111,13 @@ genre M
 May you: may you quickly become worthy of the sacrifice,(as bearing our oblations to them)
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Because all the gods, altogether, made you their messenger,  
 by harkening (to them), o god, you became the first one worthy of the  sacrifice.
 ꣡</details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
 <details open><summary><h2>18-19 ...{Loading}...</h2></summary>
 
@@ -127,23 +127,23 @@ Just as vs. 16 provides an ancestral pattern for the poet to gain goods from Agn
 </div>
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 All Deities of one accord appointed thee their messenger:  
      Thou, God, through hearing, hadst first claim to sacrifice.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Denn alle Götter haben einmütig dich zu ihrem Boten gemacht. Durch deine Bereitwilligkeit wardst du, Gott, der erste Opferwürdige.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Denn alle Götter setzten dich vereint zu ihrem Boten ein, Du warst sogleich der erste Opferer, o Gott.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Ведь все боги единодушные  
 Сделали тебя вестником.  

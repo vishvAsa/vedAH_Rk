@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 अरुण꣡प्सुर् उषा꣡ अभूद्  
 अ꣡कर् ज्यो꣡तिर् ऋता꣡वरी  
 अ꣡न्ति षद् भूतु वाम् अ꣡वः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Archaic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *aruṇapsur* ← *aruṇapsuḥ* ← *aruṇapsu*
 - \[noun\], nominative, singular, feminine
@@ -97,7 +97,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 हे अश्विनौ **उषाः** **अरुणप्सुः** शुभ्रवर्णा **अभूत्** भवति । न केवलं स्वयम् । **ज्योतिः** तेजः **अकः** करोति **अन्ति** सर्वतः **ऋतावरी** ऋतवत्युषाः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -108,29 +108,29 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 Mistress of the sacrifice: ṛtāvarī = yajñavatī, **satyavatī**, truthful
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Breathing her ruddy breath, Dawn has appeared; following the truth  she has made the light.  
 – Let the help of you two become truly nearby.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 The purple-tinted Dawn hath risen, and true to Law hath made the light  
      Let your protecting help be near.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Die rotfarbige Usas ist erschienen, die Rechtzeitige hat Licht gemacht. - Eure Gnade soll gegenwärtig sein!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Die Morgenröthe strahlte mit rothem Glanze und machte Licht, die heilige.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Появилась красноватая Ушас,  
 Соблюдая закон, она создала свет.  

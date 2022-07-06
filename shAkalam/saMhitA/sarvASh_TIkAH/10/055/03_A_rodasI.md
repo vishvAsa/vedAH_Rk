@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 आ꣡ रो꣡दसी अपृणाद् ओ꣡त꣡ म꣡ध्यम्  
 प꣡ञ्च देवाँ꣡ ऋतुशः꣡ सप्त꣡-सप्त  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 स꣡रूपेण ज्यो꣡तिषा वि꣡व्रतेन
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre D
 चतुः॑ऽत्रिंशता । पु॒रु॒धा । वि । च॒ष्टे॒ । सऽरू॑पेण । ज्योति॑षा । विऽव्र॑तेन ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *ā*
 - \[adverb\]
@@ -124,7 +124,7 @@ genre D
 अयमिन्द्र आत्मीयेन शरीरेण तेजसा वा **रोदसी** द्यावापृथिव्यौ **आ** सर्वतः **अपृणात्** पूरयति । **उत** अपि च **मध्यं** द्युभूम्यपेक्षया मध्यभूतमन्तरिक्षमापृणादिति वर्तते । तदपि स्वशरीरेण तेजसा वा पूरयति । किंच **पञ्च** **देवान्** देवमनुष्यपित्रसुररक्षःसंज्ञकान तथा **सप्तसप्त** । द्विरुक्त्या सप्तसंख्याकानि तत्त्वानि लोके यानि सन्ति तानि परिगृह्यन्ते । कानि तानीति । सप्त मरुद्गणान् सप्तादित्यरश्मीन सप्त चेन्द्रियाणि सप्त लोकानन्यानपि सप्तसंख्योपेतान् **ऋतुशः** काले काले चतुस्त्रिंशता चतुस्त्रिंशत्संख्याकेन देवगणेन सह **पुरुधा** बहुप्रकारं **वि** **चष्टे** विपश्यति सर्वदेक्षते । अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्च विराट् चेति चतुस्त्रिंशत्त्वं देवानाम् । केनेति तदुच्यते । **सरूपेण** समानरूपेण **ज्योतिषा** प्रकाशकेन **विव्रतेन** विविधेन कर्मणा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -135,7 +135,7 @@ genre D
 Five orders of beings: liṭ, the five gods; the fiveorders, viz., gods, men, **pitṛs**, **aśvins** and **rākṣasas**. The classes of seven are the seven troops of the **Maruts**,the seven rays of the sun, the seven senses, the seven worlds, and other things that are classed by sevens. Thethirty-four deities are the eight **Vasus**, eleven **Rudras**, twelve **Ādityas**, **Prajāpati**, **Vaṣaṭkāra** and **Virāṭ**;endowed with...functions: (**Indra**) contemplates with his four-and-thirty-fold light of one colour, but curiousfunctions
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 He filled the two world-halves and their middle. The five (groups of) gods  in their proper sequence, seven by seven,  
 does he survey with the thirty-four (lights) in their multiplicity,  
@@ -143,23 +143,23 @@ does he survey with the thirty-four (lights) in their multiplicity,
 commandments.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 He filled the heaven and earth and all between them, Gods five times sevenfold in their proper seasons.  
      With four-and-thirty lights he looks around him, lights of one colour though their ways are divers.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Er füllte die beiden Welten und den Mittelraum aus, die fünfmal je sieben Götter nach ihren Zeiten. Mit vierunddreißig Lichtern, die gleichfarbig sind und doch verschiedenen Gesetzen folgen, schaut er vielerorts aus.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Er füllte Erd' und Himmel und die Luft an, fünf Stämme, Götter regelrecht je sieben; Vielfach erscheint er mit den vierunddreissig mit gleichem Glanze, welcher weithin leuchtet.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Он заполнил две половины вселенной, а также среднее (пространство),  
 Пять раз о семь богов по порядку,  

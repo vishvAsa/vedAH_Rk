@@ -6,7 +6,7 @@ ChandaH = "जगती"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 या꣡भिर् अ꣡न्तकं ज꣡समानम् आ꣡रणे  
 भुज्युं꣡ या꣡भिर् अव्यथि꣡भिर् जिजिन्व꣡थुः  
@@ -14,7 +14,7 @@ ChandaH = "जगती"
 ता꣡भिर् ऊ षु꣡ ऊति꣡भिर् अश्विना꣡ गतम्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M;; repeated line
 याभिः॑ । क॒र्कन्धु॑म् । व॒य्य॑म् । च॒ । जिन्व॑थः । ताभिः॑ । ऊं॒ इति॑ । सु । ऊ॒तिऽभिः॑ । अ॒श्वि॒ना॒ । आ । ग॒त॒म् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
@@ -119,7 +119,7 @@ genre M;; repeated line
 आरणम् अगाधं कूपादि । तत्रासुरैः प्रक्षिप्तं **जसमानं** तैर्हिंस्यमानम् **अन्तकं** शत्रूणामन्तकरम् एतत्संज्ञं राजर्षिं हे अश्विनौ 'याभिः **ऊतिभिः** अवथः रक्षथः । तथा **भुज्युं** सर्वस्य पालकमेतत्संज्ञं समुद्रमध्ये निमग्नं तुग्र्यं तुग्रस्य पुत्रं राजर्षिं **याभिः** ऊतिभिः रक्षणहेतुभूताभिः **अव्यथिभिः** व्यथारहिताभिर्नौभिः **जिजिन्वथुः** युवामतर्पयतम् । एतच्च मन्त्रान्तरे' ‘तुग्रो ह भुज्युमश्विनोदमेघे' (ऋ. सं. १. ११६. ३ ) इत्यादिके विस्पष्टयिष्यते । अपि च **कर्कन्धुं** **वय्यं** **च** एतत्संज्ञकौ चासुरैः पीड्यमानौ **याभिः** ऊतिभिः **जिन्वथः** प्रीणयथः । गतमन्यत् ॥ जसमानम् । जसु हिंसायाम् । यकि प्राप्ते व्यत्ययेन शप् । आरणे । आङ्पूर्वात् अर्तेः ल्युट्। जिजिन्वथुः । जिविः प्रीणनार्थः । लिटि अथुसि रूपम् ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -132,34 +132,34 @@ Antaka was a **rājarṣi**, whom the **asuras** threw into a pond or a well;
 Bhujyu = son of **Rājā** **Tugra**. Bhujyu had embarked on a maritime expedition against the enemies of his father, but encountered a storm, in which his vessel was lost; he was saved, and brught back to his father by the intervention of the Aśvins; Karkabandhu and Vayya: asuras whom the Aśvins extricated from isfortunes; cf. RV. I.116.3
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Those with which you revived Antaka, languishing in foreign parts, with  which unwavering ones you revived Bhujyu,  
 with which you revive Karkandhu and Vayya—with those forms of help  come here, o Aśvins.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 On ā́raṇa- see comm. on VIII.70.8.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Wherewith ye rescued Antaka when languishing deep in the pit, and Bhujyu with unfailing help.  
      And comforted Karkandhu, Vayya, in their woe,--Come hither unto us, O Asvins, with those aids.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Mit denen ihr den in der Grube verschmachtenden Antaka, mit welchen nie irregehenden Hilfen ihr den Bhujyu erquickt habt, mit denen ihr den Karkandhu und Vayya erquicket - mit diesen Hilfen kommt doch ja her, ihr Asvin!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Mit welchen sichern Hülfen ihr dem Antaka, dem in der Tiefe schmachtenden und Bhudschju halft, Durch die Karkandhu und den Vajja ihr erquickt, mit solchen Hülfen kommt, o Ritter, schnell herbei.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Какими (силами) Антаку, томящегося в пропасти,  
 Какими непоколебимыми (поддержками) вы вернули к жизни Бхуджью,  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दुर्गे꣡ चिन् नः सुगं꣡ कृधि  
 गृणान꣡ इन्द्र गिर्वणः  
 तुवं꣡ च मघवन् व꣡शः
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 त्वम् । च॒ । म॒घ॒ऽव॒न् । वशः॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *durge* ← *durga*
 - \[noun\], locative, singular, neuter
@@ -93,43 +93,43 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **गिर्वणः** गीर्भिर्वननीय **इन्द्र** **गृणानः** स्तोतृभिः स्तूयमानस्त्वं **नः** अस्माकं **दुर्गे** **चित्** दुर्गमेऽपि मार्गे **सुगं** सुगमं पन्थानं **कृधि** तथा कुरु । हे **मघवन्** धनवन्निन्द्र **त्वम्** । चशब्दश्चेदर्थे । यदि **वशः** सोमपानार्थं तत्प्रदातॄनस्मान् कामयेथाः तदा पन्थानं शोभनगमनं कुरुष्व । वष्टेर्लेट्यडागमः । चशब्दयोगादनिघातः ॥ ॥ २२ ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “**Indra**, worthy of our praise, do you, hymned by us, make our path plural in even in the midst of difficulties,(hear us), **Maghavan**, if you love us.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Even in difficult going, make easy passage for us when you are hymned,  o Indra who yearn for hymns,  
 if you will so desire, bounteous one—
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The contrastive dur-gá- … su-gá- effect is not easily captured in English because “easy going” is blocked by the English idiom.
 
 In c ca in the sense ‘if’ conditions the accent on the verb váśaḥ. See Klein (DGRV I.238-56, esp. 250-51, on subordinating ca.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Indra, Song-lover, lauded, make even in the wilds fair ways for us,  
      Whenever, Maghavan, thou wilt.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Auch auf unwegsamer Strecke schaff uns gepriesen guten Weg, du lobbegehrender Indra, wenn du, Gabenreicher, es willst!
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Im Unwegsamen schaff uns Bahn, liedholder Indra, hochgelobt, Sobald du mächtiger es willst,
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

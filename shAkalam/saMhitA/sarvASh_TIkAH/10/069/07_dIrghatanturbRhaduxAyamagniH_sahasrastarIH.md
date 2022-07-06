@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 दीर्घ꣡तन्तुर् बृह꣡दुक्षाय꣡म् अग्निः꣡  
 सह꣡स्रस्तरीः शत꣡नीथ ऋ꣡भ्वा  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 सुमित्रे꣡षु दीदयो देवय꣡त्सु
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Cretic
@@ -32,7 +32,7 @@ genre M
 द्यु॒ऽमान् । द्यु॒मत्ऽसु॑ । नृऽभिः॑ । मृ॒ज्यमा॑नः । सु॒ऽमि॒त्रेषु॑ । दी॒द॒यः॒ । दे॒व॒यत्ऽसु॑ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *dīrghatantur* ← *dīrgha*
 - \[noun\]
@@ -114,7 +114,7 @@ genre M
 **दीर्घतन्तुः** । यैर्यज्ञं संतनोति ते तन्तवः स्तोत्रादयः। प्रभूतस्तुतिमान् **बृहदुक्षा**। उक्षा सेचको रश्मिः । प्रभूतरश्मियुक्तः **सहस्रस्तरीः** हवीरूपबह्वाच्छादनः **शतनीथः** आहवनीयादिद्वारेण बहुविधनयनः **ऋभ्वा** महान् **द्युमत्सु** दीप्तिमत्सु मध्ये **द्युमान्** अतिशयेन दीप्तिमान् **अयमग्निः** **नृभिः** कर्मनेतृभिर्ऋत्विग्भिः मृज्यमानः अलंक्रियमाणो भवति । ' मृजू शौचालंकारयोः । स त्वं **देवयत्सु** देवान् कामयमानेषु **सुमित्रेषु** अस्मासु **दीदयः** दीप्यस्व । दीदयतिर्दीप्तिकर्मा ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -125,29 +125,29 @@ genre M
 To whom a longserieṣ..: liṭ, long-threaded, large-oxed, thousand- heifered, hundred-guider
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 This fire here has a long thread and lofty oxen; the craftsman has a  thousand barren cows and a hundred counsels.  
 Brilliant among the brilliant (gods), being groomed by men, you will  shine among the good allies who seek the gods.1494 X.70
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Deft Agni hath a lengthened thread, tall oxen, a thousand heifers, numberless devices.  
      Decked by the men, splendid among the splendid, shine brightly forth amid devout Sumitras.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dieser Agni spinnt einen langen Faden, fährt mit großen Stieren; er hat tausend Geltkühe, hundert Schliche, der Meister. Unter den Glänzenden glänzend, von den Herren herausgeputzt, sollst du bei den gottergebenen Sumitra´s leuchten.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Der langen Faden webt, der hohe Stiere, und tausend Kühe hat und hundert Bahnen, Du starker Agni strahlest hell bei hellen, erzeugt von Männern bei den frommen Freunden.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 -ru-
 </details>

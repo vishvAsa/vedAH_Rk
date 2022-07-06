@@ -6,7 +6,7 @@ ChandaH = "त्रिष्टुप्"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 युन꣡क्त सी꣡रा वि꣡ युगा꣡ तनुध्वं  
 कृते꣡ यो꣡नौ · वपतेह꣡ बी꣡जम्  
@@ -14,7 +14,7 @@ ChandaH = "त्रिष्टुप्"
 ने꣡दीय इ꣡त् सृणि꣡यः पक्व꣡म् ए꣡यात्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
@@ -32,7 +32,7 @@ popular
 गि॒रा । च॒ । श्रु॒ष्टिः । सऽभ॑राः । अस॑त् । नः॒ । नेदी॑यः । इत् । सृ॒ण्यः॑ । प॒क्वम् । आ । इ॒या॒त् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *yunakta* ← *yuj*
 - \[verb\], plural, Present imperative
@@ -143,7 +143,7 @@ popular
 हे सखायो यूयं **सीरा** सीराणि **युनक्त** युङ्ध्वमनडुद्भिः सह । युजेर्लोटि ‘ तप्तनप्तनथनाश्च इति तबादेशः । अत एव अङित्त्वात् ' श्नसोरल्लोपः' इत्यल्लोपाभावः। तदर्थं **युगा** युगानि **वि** **तनुध्वं** विस्तारयध्वम् । **कृते** च **योनौ** **इह** सीतायां **बीजं** ग्राम्यमारण्यं च **वपत** निधत्त । तिलमाषव्रीह्यादिकं ग्राम्यसप्तकं वेणुश्यामाकनीवारादिकमारण्यबीजसप्तकं च कृष्टाकृष्टयोर्निवपतेत्यर्थः । ‘ सप्त ग्राम्याः कृष्टे सप्तारण्या अकृष्टे ' इत्यापस्तम्बः । तथा **नः** अस्माकं **गिरा** स्तुत्या प्रशस्त्या सहास्माकं **श्रुष्टिः** अन्नं **सभराः** सभरम् **असत्** भवति भवतु । तथा **नेदीय** **इत्** अन्तिकमेव **सृण्यः** । सृणिरङ्कुशः । अङ्कुशवद्वक्रो लवित्रः । **पक्वं** स्तम्बम् **एयात्** आभिमुख्येन गच्छतु । श्रुष्टिः सभरा असत् सृण्यः पक्वमेयादिति चशब्दानुवृत्तेः ‘चवायोगे प्रथमा ' इति प्रथमस्य निघाताभावः ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
@@ -156,30 +156,30 @@ Through our praise:sow the seed with praise, with a prayer of the **Veda**;
 Śruṣṭi = rice and other different kinds of food
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Hitch up the plows; stretch the yokes across; in a prepared womb strew  the seed here.  
 If the hearing will be commensurate with our song, the ripe (grain)  
 should come even closer to our sickles.
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 Lay on the yokes, and fasten well the traces: formed is the furrow, sow the seed within it.  
      Through song may we find bearing fraught with plenty: near to the ripened grain approach the sickle.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Schirret die Pflüge an, stecket die Joche auf! Säet hier in den bereiten Schoß den Samen! Und wenn die Erhörung unserer Rede das Gleichgewicht halten wird, dann soll die reife Frucht noch näher als sonst an die Sicheln herankommen.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Spannt an die Stränge, leget auf die Joche, der Schooss ist fertig, streut hinein den Samen; Durch Lied sei uns Erhörung reich an Gaben, recht nahe komm' die reife Frucht der Sichel.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Запрягайте плуги с сеялками, надевайте хомуты!  
 Бросайте здесь семя в приготовленное лоно!  

@@ -6,14 +6,14 @@ ChandaH = "गायत्री"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 द꣡श म꣡ह्यम् पौतक्रतः꣡  
 सह꣡स्रा द꣡स्यवे वृ꣡कः  
 नि꣡त्याद् रायो꣡ अमंहत
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -30,7 +30,7 @@ genre M;; Vālakhilya
 नित्या॑त् । रा॒यः । अ॒मं॒ह॒त॒ ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
@@ -76,30 +76,30 @@ genre M;; Vālakhilya
 Sayana bhashya empty
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “Dasyave-**vṛka**, the son of Putakrata, has given to me ten thousand from his own store.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 To me Dasyave Vr̥ka, son of Pūtakratu,  
 granted ten thousands from his own wealth.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Dasyave Vrika, des Putakratu Sohn, schenkte mir Zehntausend aus eigenem Reichtum;
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Dasjavevrika, der Sohn der Pūtakratā, schenkte mir zehntausend aus seinem eignen Schatze.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Сын Путакраты Дасьяве Врика  
 Даровал мне десять тысяч  

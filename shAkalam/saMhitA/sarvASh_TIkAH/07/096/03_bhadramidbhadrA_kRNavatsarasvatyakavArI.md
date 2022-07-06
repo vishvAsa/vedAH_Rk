@@ -6,7 +6,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
 
-<details><summary>+Thomson & Solcum</summary>
+<details><summary>Thomson & Solcum</summary>
 
 भद्र꣡म् इ꣡द् भद्रा꣡ कृणवत् स꣡रस्वती  
 अ꣡कवारी चेतति वाजि꣡नीवती  
@@ -14,7 +14,7 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 स्तुवाना꣡ च वसिष्ठव꣡त्
 </details>
 
-<details><summary>+Vedaweb annotation</summary>
+<details><summary>Vedaweb annotation</summary>
 
 ### Strata
 Strophic
@@ -32,7 +32,7 @@ genre M
 गृ॒णा॒ना । ज॒म॒द॒ग्नि॒ऽवत् । स्तु॒वा॒ना । च॒ । व॒सि॒ष्ठ॒ऽवत् ॥
 </details>
 
-<details><summary>+Hellwig Grammar</summary>
+<details><summary>Hellwig Grammar</summary>
 
 -   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
@@ -115,42 +115,42 @@ genre M
 **भद्रा** कल्याणी भजनीया वा **सरस्वती** **भद्रमित्** भद्रमेव कल्याणमेव **कृणवत्** अस्माकं करोतु । तथा **अकवारी** अकुत्सितगमना **वाजिनीवती** अन्नवती **चेतति** चेतयतु अस्मान् प्रज्ञापयतु। यद्वा । मदीयं स्तोत्रं चेतति जानातु । तथा **जमदग्निवत्** जमदग्निनर्षिणेव मया **गृणाना** स्तूयमाना **वसिष्ठवत्** । अर्हार्थे वतिप्रत्ययः । वसिष्ठार्हं वसिष्ठस्यानुरूपं **स्तुवाना** स्तूयमाना **च** भव ॥
 </details>
 
-<details><summary>+Wilson</summary>
+<details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the auspicious **Sarasvatī** bestow auspicious fortune upon us; may the faultless-movingfood-conferring (goddess) think of us; glorified (as you have been) by Jamadagnī, (be now) glorified byVasiṣṭha.”
 </details>
 
-<details><summary>+Jamison Brereton</summary>
+<details><summary>Jamison Brereton</summary>
 
 Good Sarasvatī will do good. She shows brightly as the unstinting one,  rich in prize mares,  
 while she is being hymned as she was by Jamadagni and she is being  
 praised as she was by Vasiṣṭha.
 </details>
 
-<details><summary>+Jamison Brereton Notes</summary>
+<details><summary>Jamison Brereton Notes</summary>
 
 The subjunctive kṛṇavat seems to have a more strictly modal sense than most subjunctives; I am tempted to tr. “should do good” or “may she do good.”
 </details>
 
-<details><summary>+Griffith</summary>
+<details><summary>Griffith</summary>
 
 So may Sarasvati auspicious send good luck; she, rich in spoil, is never niggardly in thought,  
      When praised in jamadagni's way and lauded as Vasistha lauds.
 </details>
 
-<details><summary>+Geldner</summary>
+<details><summary>Geldner</summary>
 
 Glück soll uns die glückbringende Sarasvati schaffen. Die Stutenreiche tut sich als Freigebige hervor, wenn sie wie von Jamadagni gepriesen und wie von Vasistha besungen wird.
 </details>
 
-<details><summary>+Grassmann</summary>
+<details><summary>Grassmann</summary>
 
 Uns schaffe Glück Sarasvati, die Glück verleiht, denn geizig nicht erweist die Labungsreiche sich, Gerühmt nach Dschamadagni's Art und nach Vasischtha's Art gelobt.
 </details>
 
-<details><summary>+Elizarenkova</summary>
+<details><summary>Elizarenkova</summary>
 
 Счастье пусть создаст (нам) Сарасвати, несущая счастье!  
 Нескаредная, она проявляет себя как богатая наградой,  
